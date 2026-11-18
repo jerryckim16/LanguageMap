@@ -1,0 +1,117 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Korean–Japanese Word Map</title>
+  <meta name="description" content="An interactive map of Korean and Japanese words that share the same Chinese characters (hanja / kanji).">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Sans+JP:wght@400;500;700&family=Noto+Sans+KR:wght@400;500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <h1><span lang="ko">한</span><span class="arrow">↔</span><span lang="ja">日</span> Word Map</h1>
+      <p class="tagline">Korean and Japanese words built from the same characters</p>
+    </div>
+
+    <div class="search">
+      <input id="search" type="search" autocomplete="off" spellcheck="false"
+             placeholder="Search 학교, 学校, gakkō, school…" aria-label="Search words">
+      <ul id="search-results" class="search-results" role="listbox" hidden></ul>
+    </div>
+
+    <nav class="tabs" role="tablist" aria-label="Views">
+      <button role="tab" class="tab" data-view="map" aria-selected="true">Map</button>
+      <button role="tab" class="tab" data-view="list" aria-selected="false">List</button>
+      <button role="tab" class="tab" data-view="sounds" aria-selected="false">Sound patterns</button>
+    </nav>
+    <button id="about-btn" class="icon-btn" aria-label="About this map" title="About">?</button>
+  </header>
+
+  <div class="layout">
+    <aside class="filters" aria-label="Filters">
+      <section>
+        <h2>Categories</h2>
+        <div id="category-chips" class="chips"></div>
+      </section>
+      <section class="toggles">
+        <h2>Display</h2>
+        <label class="toggle"><input type="checkbox" id="opt-false-friends"> False friends only</label>
+        <label class="toggle"><input type="checkbox" id="opt-shared"> Shared characters only</label>
+        <label class="toggle"><input type="checkbox" id="opt-english" checked> Show English on map</label>
+      </section>
+      <section class="legend">
+        <h2>Legend</h2>
+        <div class="legend-row"><span class="lg-char">学</span> Character (kanji / hanja)</div>
+        <div class="legend-row"><span class="lg-word">학교<br>学校</span> Word pair</div>
+        <div class="legend-row"><span class="lg-word ff">애인<br>愛人</span> False friend</div>
+        <div class="legend-row"><span class="lg-char lg-variant">学<sup>學</sup></span> Korean uses a different form</div>
+      </section>
+      <p id="stats" class="stats"></p>
+    </aside>
+
+    <main class="stage">
+      <section id="view-map" class="view active" aria-label="Word map">
+        <svg id="graph" role="img" aria-label="Network of Korean–Japanese word pairs linked by shared characters"></svg>
+        <div class="map-controls">
+          <button class="icon-btn" id="zoom-in" aria-label="Zoom in">+</button>
+          <button class="icon-btn" id="zoom-out" aria-label="Zoom out">−</button>
+          <button class="icon-btn" id="zoom-reset" aria-label="Fit to screen" title="Fit to screen">⤢</button>
+        </div>
+        <p class="hint">Drag to pan · scroll to zoom · click a word or character</p>
+        <div id="tooltip" class="tooltip" hidden></div>
+      </section>
+
+      <section id="view-list" class="view" aria-label="Word list">
+        <div id="word-list"></div>
+      </section>
+
+      <section id="view-sounds" class="view" aria-label="Sound patterns">
+        <div class="sounds-intro">
+          <h2>Sound correspondences</h2>
+          <p>Sino-Korean and Sino-Japanese readings both come from Middle Chinese, so syllable endings
+             match up in regular ways. Characters are grouped below by the final consonant (받침)
+             of their Korean reading. Click a character to see it on the map.</p>
+        </div>
+        <div id="sound-groups" class="sound-groups"></div>
+      </section>
+    </main>
+
+    <aside id="detail" class="detail" aria-live="polite" hidden>
+      <button id="detail-close" class="icon-btn detail-close" aria-label="Close details">×</button>
+      <div id="detail-body"></div>
+    </aside>
+  </div>
+
+  <dialog id="about">
+    <form method="dialog">
+      <button class="icon-btn dialog-close" aria-label="Close">×</button>
+    </form>
+    <h2>About this map</h2>
+    <p>About 60% of Korean vocabulary and about half of Japanese vocabulary are made from Chinese
+       characters: <strong>hanja</strong> (한자) in Korean and <strong>kanji</strong> (漢字) in
+       Japanese. Many words are built from the same characters in both languages, so learning one
+       language gives you a head start on the other.</p>
+    <h3>How to read the map</h3>
+    <ul>
+      <li><strong>Rounded boxes</strong> are word pairs: the Korean word on top, the Japanese word below.</li>
+      <li><strong>Circles</strong> are the characters the words are made of. Big circles appear in many words.</li>
+      <li>A small character at the top right of a circle is the traditional form Korean uses where Japanese uses a simplified one (學 → 学).</li>
+      <li><strong>Dashed red borders</strong> mark <em>false friends</em>: words written the same way that mean different things.</li>
+    </ul>
+    <h3>Notes</h3>
+    <ul>
+      <li>Korean is romanized with Revised Romanization, Japanese with Hepburn.</li>
+      <li>Pronunciation (🔊) uses your browser's built-in speech voices, which may not exist on every device.</li>
+      <li>The word list is hand-curated. To add words, edit <code>data/words.js</code>.</li>
+    </ul>
+  </dialog>
+
+  <script src="vendor/d3.min.js"></script>
+  <script src="data/words.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
