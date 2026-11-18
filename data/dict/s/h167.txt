@@ -1,0 +1,817 @@
+k	비	비	rain
+k	빅	빅	
+k	빈	빈	Vienna (the capital city …
+k	빌	빌	별의 경상도 방언
+k	빎	빎	prayer
+k	빔	빔	emptiness, void
+k	빗	빗	comb (toothed or serrated)
+k	빙	빙	round; while circling a r…
+k	빚	빚	debt
+k	빛	빛	light, gleam, glow
+k	비가	비가	
+k	비각	비각	arms and legs; limbs
+k	비간	비간	
+k	비강	비강	
+k	비개	비개	Gangwon, Gyeongsang, Jeol…
+k	비건	비건	vegan
+k	비겁	비겁	cowardice
+k	비게	비게	
+k	비격	비격	issuing of a manifesto
+k	비견	비견	
+k	비결	비결	secret
+k	비경	비경	비(脾)에 속하고 위(胃)에 이어지는 경맥.
+k	비계	비계	fat in meat, especially p…
+k	비고	비고	note
+k	비골	비골	fibula
+k	비관	비관	pessimism
+k	비교	비교	comparison
+k	비구	비구	
+k	비굴	비굴	용기나 줏대가 없이 남에게 굽히기 쉬움.
+k	비극	비극	tragedy
+k	비글	비글	
+k	비김	비김	comparison
+k	비끗	비끗	맞추어 끼울 물건이 꼭 들어맞지 않고 어긋나는…
+k	비난	비난	criticism, reproach, cond…
+k	비녀	비녀	hairpin (often decorative)
+k	비누	비누	soap
+k	비늘	비늘	scales (covering the skin…
+k	비니	비니	beanie (cap), tuque, knit…
+k	비닉	비닉	concealment
+k	비닐	비닐	vinyl (substance)
+k	비다	비다	to be empty (in general)
+k	비단	비단	silk (fiber)
+k	비달	비달	
+k	비답	비답	관리와 백성이 임금에게 올린 상소에 대한 임금…
+k	비대	비대	몸에 살이 쪄서 뚱뚱함.
+k	비데	비데	bidet
+k	비도	비도	injustice
+k	비듬	비듬	dandruff
+k	비등	비등	
+k	비련	비련	
+k	비례	비례	두 개의 양에 대해서 비가 같은 것을 나타내는…
+k	비록	비록	even if; although
+k	비료	비료	fertilizer
+k	비룡	비룡	
+k	비률	비률	
+k	비르	비르	beer
+k	비름	비름	amaranth (plant of the ge…
+k	비리	비리	
+k	비막	비막	
+k	비만	비만	obesity
+k	비명	비명	scream, shriek
+k	비문	비문	epigraph
+k	비물	비물	빗물의 북한말.
+k	비밀	비밀	secret
+k	비박	비박	bivouac (encampment for t…
+k	비방	비방	slander
+k	비백	비백	
+k	비버	비버	beaver (aquatic mammal)
+k	비번	비번	off duty
+k	비범	비범	
+k	비법	비법	secret; magic formula; kn…
+k	비보	비보	
+k	비비	비비	여러 번 꼬이거나 뒤틀린 모양.
+k	비빔	비빔	a mix; mixing
+k	비상	비상	emergency
+k	비새	비새	hinny
+k	비서	비서	secretary
+k	비석	비석	죽은 사람이나 장소를 기리기 위하여 돌에 글을…
+k	비선	비선	다른 사람 모르게 어떤 인물이나 단체와 관계를…
+k	비소	비소	arsenic
+k	비숍	비숍	a bishop
+k	비수	비수	dagger
+k	비습	비습	공기 가운데 포함된 수증기의 양을 표시하는 수치
+k	비싼	비싼	'비싸다'의 관형사형.
+k	비쌈	비쌈	'비싸다'의 명사형.
+k	비아	비아	
+k	비암	비암	snake
+k	비애	비애	grief; sorrow; sadness
+k	비약	비약	
+k	비양	비양	
+k	비어	비어	obscenity; profanity; swe…
+k	비얼	비얼	
+k	비엔	비엔	
+k	비역	비역	homosexual activity among…
+k	비열	비열	사람의 짓, 태도, 성격이 추하고 보잘것 없음.
+k	비염	비염	rhinitis
+k	비옥	비옥	fertility
+k	비옷	비옷	raincoat
+k	비와	비와	
+k	비용	비용	cost, expense
+k	비원	비원	서울 창덕궁 북쪽 울안에 있는 최대의 궁중 정…
+k	비위	비위	법에 어긋남. 또는 그런 일.
+k	비유	비유	metaphor; figure of speech
+k	비육	비육	
+k	비율	비율	ratio, percentage
+k	비음	비음	nasal voice
+k	비읍	비읍	the name of the sixth jam…
+k	비의	비의	pluvial, pluvious
+k	비익	비익	
+k	비인	비인	지체가 낮고 천한 사람.
+k	비자	비자	visa (travel permit)
+k	비장	비장	남 모르게 숨겨 간직하고 있음.
+k	비재	비재	재주가 없음.
+k	비적	비적	bandit
+k	비전	비전	
+k	비점	비점	
+k	비정	비정	사람으로서의 따뜻한 정이나 인간미가 없음.
+k	비제	비제	
+k	비족	비족	
+k	비죽	비죽	비웃거나 언짢거나 울려고 할 때 소리 없이 입…
+k	비준	비준	어떤 한 조약을 헌법상의 조약 체결권자가 최종…
+k	비중	비중	specific gravity
+k	비즈	비즈	
+k	비지	비지	tofu dregs, or a Korean d…
+k	비쭉	비쭉	비웃거나 언짢거나 울려고 할 때 소리 없이 입…
+k	비참	비참	misery
+k	비척	비척	'콧등'.
+k	비첨	비첨	
+k	비축	비축	stock, supply, reserve
+k	비취	비취	jade (precious stone)
+k	비커	비커	
+k	비쿠	비쿠	
+k	비탄	비탄	
+k	비탈	비탈	The slope of a mountain, …
+k	비통	비통	몹시 슬퍼서 마음이 아픔.
+k	비트	비트	bit
+k	비틀	비틀	힘이 없거나 어지러워서 몸을 바로 가누지 못하…
+k	비파	비파	pipa
+k	비판	비판	criticism, critique
+k	비평	비평	criticism
+k	비품	비품	
+k	비하	비하	
+k	비행	비행	flight; flying
+k	비형	비형	에이비오식 혈액형의 하나.
+k	비호	비호	protection, shelter, refu…
+k	비화	비화	
+k	비환	비환	슬픔과 기쁨
+k	비휴	비휴	pixiu
+k	빅맥	빅맥	Big Mac
+k	빅뱅	빅뱅	우주 생성의 시발이 된 것으로 여겨지는 대폭발.
+k	빅풋	빅풋	
+k	빈가	빈가	
+k	빈객	빈객	
+k	빈격	빈격	
+k	빈계	빈계	
+k	빈고	빈고	
+k	빈곤	빈곤	poverty
+k	빈광	빈광	
+k	빈국	빈국	
+k	빈궁	빈궁	
+k	빈농	빈농	
+k	빈뇨	빈뇨	pollakiuria, frequent uri…
+k	빈대	빈대	bedbug
+k	빈도	빈도	frequency
+k	빈땅	빈땅	vacant land
+k	빈록	빈록	
+k	빈말	빈말	헛되고 쓸데없는 말.
+k	빈모	빈모	
+k	빈민	빈민	poor people
+k	빈발	빈발	
+k	빈방	빈房	empty room
+k	빈방	빈방	empty room
+k	빈볼	빈볼	beanball
+k	빈부	빈부	rich and poor
+k	빈사	빈사	
+k	빈삭	빈삭	
+k	빈상	빈상	궁색해 보이는 인상.
+k	빈소	빈소	
+k	빈손	빈손	empty hand
+k	빈씨	빈씨	
+k	빈약	빈약	poorness; meagreness
+k	빈얀	빈얀	
+k	빈양	빈양	'암양'.
+k	빈와	빈와	
+k	빈우	빈우	
+k	빈유	빈유	small breasts
+k	빈자	빈자	poor person; pauper
+k	빈전	빈전	
+k	빈조	빈조	
+k	빈처	빈처	
+k	빈첩	빈첩	
+k	빈청	빈청	
+k	빈촌	빈촌	
+k	빈축	빈축	
+k	빈칸	빈칸	blank space
+k	빈타	빈타	야구에서, 안타가 거의 나지 않음을 이르는 말.
+k	빈터	빈터	glade, clearing
+k	빈틈	빈틈	gap, opening
+k	빈핍	빈핍	가난하여 아무것도 없음.
+k	빈혈	빈혈	
+k	빌기	빌기	prayer
+k	빌다	빌다	to wish, to pray for some…
+k	빌딩	빌딩	building (the structure)
+k	빌라	빌라	
+k	빌런	빌런	villain (especially of Am…
+k	빌림	빌림	a loan
+k	빌미	빌미	a pretext, reason, or cau…
+k	빌빌	빌빌	기운 없이 행동하는 모양.
+k	빗각	빗각	예각이나 둔각과 같이 직각이나 평각이 아닌 각.
+k	빗금	빗금	a slash; a virgule
+k	빗다	빗다	to comb
+k	빗물	빗물	rainwater
+k	빗발	빗발	
+k	빗변	빗변	
+k	빗살	빗살	빗의 갈라진 낱낱의 살.
+k	빗속	빗속	in the midst of rain; in …
+k	빗장	빗장	문을 닫고 가로질러 잠그는 막대기.
+k	빗치	빗치	the sun
+k	빙결	빙결	freezing
+k	빙고	빙고	bingo (game)
+k	빙과	빙과	frozen dessert
+k	빙관	빙관	
+k	빙글	빙글	
+k	빙긋	빙긋	
+k	빙기	빙기	
+k	빙끗	빙끗	
+k	빙모	빙모	다른 사람의 장모.
+k	빙붕	빙붕	
+k	빙빙	빙빙	round and round; while re…
+k	빙산	빙산	iceberg (huge mass of flo…
+k	빙상	빙상	
+k	빙수	빙수	shaved ice, bingsu
+k	빙실	빙실	슬며시 입을 벌릴 듯하면서 소리 없이 부드럽고…
+k	빙싯	빙싯	
+k	빙어	빙어	A Japanese smelt (Hypomes…
+k	빙원	빙원	
+k	빙장	빙장	다른 사람의 장인.
+k	빙저	빙저	
+k	빙점	빙점	ice point
+k	빙정	빙정	ice crystals
+k	빙판	빙판	
+k	빙하	빙하	glacier
+k	빙호	빙호	
+k	빙환	빙환	
+k	빚다	빚다	to brew (alcohol)
+k	빛갈	빛갈	'빛깔'의 북한말.
+k	빛깔	빛깔	colour, hue
+k	빛살	빛살	ray, beam, light
+k	빛샘	빛샘	
+k	빛알	빛알	synonym of 광자(光子) (gwangj…
+k	빛의	빛의	
+k	비강도	비강도	어떤 물질의 (강도)/(비중).
+k	비겁자	비겁자	coward
+k	비골리	비골리	bigoli
+k	비공개	비공개	
+k	비공식	비공식	
+k	비과세	비과세	
+k	비관적	비관적	
+k	비교급	비교급	comparative
+k	비교적	비교적	comparative
+k	비구니	비구니	bhikkhuni
+k	비구름	비구름	rain cloud, nimbus (cloud…
+k	비그늘	비그늘	
+k	비극의	비극의	
+k	비금속	비금속	금속이 아닌 것.
+k	비기다	비기다	to tie or draw with (in s…
+k	비꼬다	비꼬다	남의 마음에 거슬릴 정도로 빈정거리다.
+k	비끼다	비끼다	to lie aslant; to hang at…
+k	비난자	비난자	critic, censor, accuser
+k	비날론	비날론	vinylon, a synthetic fibe…
+k	비너스	비너스	금성, 샛별.
+k	비네거	비네거	vinegar
+k	비노크	비노크	
+k	비누대	비누대	
+k	비누통	비누통	비누를 담아 두는 조그만 통.
+k	비눗물	비눗물	비누를 푼 물.
+k	비니루	비니루	vinyl (substance)
+k	비닐론	비닐론	
+k	비닐류	비닐류	vinyls
+k	비단결	비단결	silklike texture; somethi…
+k	비단길	비단길	Silk Road
+k	비단뱀	비단뱀	
+k	비단옷	비단옷	silk clothes
+k	비대면	비대면	직접 얼굴을 맞대고 하지 않는 것.
+k	비대칭	비대칭	
+k	비데오	비데오	video
+k	비둘기	비둘기	pigeon, dove
+k	비등점	비등점	
+k	비디오	비디오	video
+k	비뚤다	비뚤다	crooked; awry; skew
+k	비례의	비례의	
+k	비로소	비로소	For the first time; only …
+k	비루스	비루스	virus
+k	비리다	비리다	smelling of fish, fishy
+k	비리온	비리온	
+k	비린내	비린내	fish-like smell
+k	비망기	비망기	a document or form on whi…
+k	비망록	비망록	memorandum
+k	비무장	비무장	무장되어 있지 않은 상태.
+k	비밀리	비밀리	secrecy, clandestineness
+k	비바람	비바람	비가 내리면서 부는 바람.
+k	비바리	비바리	'처녀'의 제주도 방언.
+k	비바체	비바체	매우 빠르게.
+k	비백서	비백서	
+k	비범인	비범인	
+k	비비다	비비다	to rub, to chafe
+k	비비시	비비시	
+k	비빔밥	비빔밥	bibimbap
+k	비사맥	비사맥	프러시아의 재상 비스마르크(Bismarck)를…
+k	비사우	비사우	Bissau (the capital city …
+k	비살생	비살생	
+k	비상구	비상구	emergency exit
+k	비상시	비상시	
+k	비상장	비상장	
+k	비선형	비선형	
+k	비속어	비속어	vulgarism; slang
+k	비슈누	비슈누	Vishnu
+k	비스켓	비스켓	
+k	비스킷	비스킷	
+k	비싸다	비싸다	expensive
+k	비싸우	비싸우	기니비사우의 수도 이름 '비사우'의 북한말.
+k	비앙카	비앙카	
+k	비엔나	비엔나	synonym of 빈 (bin, “Vienn…
+k	비엔주	비엔주	
+k	비영리	비영리	non-profit
+k	비오리	비오리	A merganser.
+k	비오틴	비오틴	
+k	비올라	비올라	
+k	비와꼬	비와꼬	일본 서쪽의 시가 현에 위치한 호수 비와 호의…
+k	비우다	비우다	to empty, drain; evacuate…
+k	비웃다	비웃다	to sneer at, to jeer at, …
+k	비웃음	비웃음	
+k	비유법	비유법	표현하고자 하는 대상을 다른 대상에 비유하여 …
+k	비유적	비유적	figurative, metaphorical
+k	비육우	비육우	
+k	비율빈	비율빈	
+k	비율의	비율의	
+k	비음화	비음화	(언어) 비강으로 이어지는 날숨의 통로를 닫아…
+k	비이다	비이다	
+k	비익조	비익조	
+k	비인간	비인간	인간적이지 않은 것.
+k	비자금	비자금	slush fund
+k	비장미	비장미	
+k	비저항	비저항	
+k	비적성	비적성	
+k	비정상	비정상	정상적이지 않은 것.
+k	비제이	비제이	streamer, a person who st…
+k	비좁은	비좁은	
+k	비주룩	비주룩	'비죽'의 본말.
+k	비주얼	비주얼	외견, 겉모습.
+k	비지깨	비지깨	matches
+k	비직업	비직업	
+k	비집다	비집다	맞붙은 데를 벌리어 틈이 나게 하다.
+k	비참한	비참한	
+k	비천상	비천상	
+k	비추다	비추다	to shine, to light up
+k	비출혈	비출혈	
+k	비치다	비치다	to shine
+k	비치볼	비치볼	
+k	비쿠냐	비쿠냐	
+k	비크슈	비크슈	
+k	비키니	비키니	bikini (two-piece swimsui…
+k	비키다	비키다	step aside; step back
+k	비타민	비타민	vitamin
+k	비탈각	비탈각	'경사각'의 북한말.
+k	비탈도	비탈도	'경사도'의 북한말.
+k	비탈면	비탈면	'경사면'.
+k	비트닉	비트닉	
+k	비트맵	비트맵	
+k	비트족	비트족	
+k	비틀기	비틀기	
+k	비틀다	비틀다	힘 있게 바싹 꼬면서 틀다.
+k	비틀스	비틀스	Beatles
+k	비틀즈	비틀즈	
+k	비판적	비판적	critical
+k	비평가	비평가	a critic; reviewer
+k	비폭력	비폭력	nonviolence
+k	비하다	비하다	to compare
+k	비하르	비하르	
+k	비하우	비하우	
+k	비핵화	비핵화	denuclearization
+k	비행기	비행기	airplane
+k	비행대	비행대	
+k	비행사	비행사	pilot (controller of airc…
+k	비행선	비행선	dirigible, airship, blimp
+k	비행장	비행장	aerodrome; aifield; airst…
+k	비행정	비행정	
+k	비호권	비호권	
+k	빅 벤	빅 벤	
+k	빅에어	빅에어	
+k	빅텐트	빅텐트	다양하고 광범위 정치적 견해를 포함하는 것
+k	빅토르	빅토르	a transliteration of the …
+k	빈 병	빈 병	
+k	빈개념	빈개념	
+k	빈광대	빈광대	
+k	빈뇨증	빈뇨증	
+k	빈대떡	빈대떡	bindaetteok; A Korean pan…
+k	빈도수	빈도수	
+k	빈민가	빈민가	slum
+k	빈민굴	빈민굴	slum
+k	빈민층	빈민층	
+k	빈배합	빈배합	콘크리트나 모르타르를 만들 때, 시멘트를 표준…
+k	빈번한	빈번한	
+k	빈번히	빈번히	번거러울 정도로 자주.
+k	빈사자	빈사자	
+k	빈익빈	빈익빈	
+k	빈지문	빈지문	shutter
+k	빈투롱	빈투롱	
+k	빈티지	빈티지	포도주의 생산 년도 또는 포도의 수확.
+k	빈함옥	빈함옥	
+k	빈혈증	빈혈증	
+k	빌뉴스	빌뉴스	Vilnius (the capital city…
+k	빌라이	빌라이	
+k	빌리나	빌리나	
+k	빌리다	빌리다	to borrow
+k	빌베리	빌베리	진달래과 산앵두나무속에 속한 종과 일부 종들을…
+k	빌보드	빌보드	
+k	빗기다	빗기다	to comb (someone else's h…
+k	빗대다	빗대다	곧바로 말하지 아니하고 빙 둘러서 말하다.
+k	빗방울	빗방울	raindrop
+k	빗자루	빗자루	broom
+k	빗장뼈	빗장뼈	clavicle, collarbone (bon…
+k	빗줄기	빗줄기	
+k	빙그레	빙그레	
+k	빙그르	빙그르	
+k	빙긋이	빙긋이	
+k	빙끗이	빙끗이	
+k	빙상관	빙상관	skating rink; hockey rink
+k	빙시레	빙시레	
+k	빙식곡	빙식곡	
+k	빙싯이	빙싯이	
+k	빙점하	빙점하	
+k	빙정석	빙정석	
+k	빙정설	빙정설	과냉각된 구름 알갱이의 평형수증기압이 얼음의 …
+k	빙정점	빙정점	
+k	빙정핵	빙정핵	빙정이 만들어 질 때 중심이 되는 고체의 작은…
+k	빙주석	빙주석	종유석.
+k	빙초산	빙초산	
+k	빙탄간	빙탄간	얼음과 숯의 사이. 다시 말해 서로 어울리지 …
+k	빙퇴석	빙퇴석	moraine
+k	빙판길	빙판길	
+k	빙포차	빙포차	
+k	빙하곡	빙하곡	
+k	빙하기	빙하기	빙하시대에 지구의 북쪽으로 거의 반이 빙하로 …
+k	빙하쥐	빙하쥐	glacier rat (Rattus richa…
+k	빙하탁	빙하탁	
+k	빙하토	빙하토	
+k	빙하학	빙하학	빙하와 관련된 것을 연구하는 학문이나 분야.
+k	빙하호	빙하호	
+k	빚음감	빚음감	plasticizer
+k	빛나다	빛나다	to shine (means to emit b…
+k	빛내다	빛내다	to make (something) shine
+k	빛줄기	빛줄기	
+k	비거니즘	비거니즘	
+k	비겁하다	비겁하다	비열하고 겁이 많다.
+k	비격식체	비격식체	the Korean informal speec…
+k	비결정론	비결정론	
+k	비공식적	비공식적	
+k	비과학적	비과학적	
+k	비관적인	비관적인	
+k	비관주의	비관주의	
+k	비교하다	비교하다	to compare
+k	비군사화	비군사화	
+k	비근대다	비근대다	'비근거리다'.
+k	비금비금	비금비금	equally matched, nip and …
+k	비난하다	비난하다	to condemn, to denounce, …
+k	비뇨기과	비뇨기과	urology; department of ur…
+k	비누받침	비누받침	
+k	비누상자	비누상자	
+k	비눗방울	비눗방울	soap bubble
+k	비늘껍질	비늘껍질	
+k	비닐봉지	비닐봉지	plastic bag
+k	비닐봉투	비닐봉투	plastic bag
+k	비단잉어	비단잉어	koi
+k	비단조개	비단조개	Megangulus venulosus (syn…
+k	비단털쥐	비단털쥐	The greater long-tailed h…
+k	비도덕적	비도덕적	
+k	비둘기색	비둘기색	
+k	비둘기콩	비둘기콩	pigeon pea
+k	비듬하다	비듬하다	'비스듬하다'의 준말.
+k	비등하다	비등하다	
+k	비디오폰	비디오폰	
+k	비딱대다	비딱대다	'비딱거리다'.
+k	비량하다	비량하다	
+k	비례하는	비례하는	
+k	비로비잔	비로비잔	Birobidzhan (a city, the …
+k	비론하다	비론하다	비교하여 논하다.
+k	비롯되다	비롯되다	to start, to begin
+k	비롯하다	비롯하다	to begin or originate (in)
+k	비르야니	비르야니	
+k	비문법적	비문법적	
+k	비밀결사	비밀결사	secret society
+k	비밀경찰	비밀경찰	
+k	비밀번호	비밀번호	password
+k	비밀보장	비밀보장	질병이나 노령, 근로 능력의 상실 따위로 생활…
+k	비밀투표	비밀투표	
+k	비발산층	비발산층	
+k	비방하다	비방하다	다른 사람을 비웃고 헐뜯는 말을 여기저기 퍼뜨…
+k	비범죄화	비범죄화	
+k	비범하다	비범하다	매우 독특하고 특이한 면이 있다.
+k	비브라토	비브라토	
+k	비빔냉면	비빔냉면	차가운 육수 대신 양념장을 넣어 비벼먹는 냉면…
+k	비산하다	비산하다	날아서 흩어짐.
+k	비상계단	비상계단	
+k	비상사태	비상사태	emergency, state of emerg…
+k	비상식량	비상식량	뜻밖의 긴급한 사태가 일어났을 때에 쓰기 위하…
+k	비상출구	비상출구	emergency exit
+k	비상하다	비상하다	unusual; extreme
+k	비선형성	비선형성	
+k	비섯하다	비섯하다	
+k	비술나무	비술나무	
+k	비슈께크	비슈께크	키르기스스탄의 수도 이름 '비슈케크'의 북한말.
+k	비슈누파	비슈누파	
+k	비슈케크	비슈케크	Bishkek (the capital city…
+k	비스듬히	비스듬히	무엇이 똑바르지 않고 옆으로 기울어서.
+k	비스무트	비스무트	bismuth
+k	비스트로	비스트로	
+k	비슥대다	비슥대다	'비슥거리다'.
+k	비슥하다	비슥하다	
+k	비슬대다	비슬대다	'비슬거리다'.
+k	비습하다	비습하다	몸에 살이 지고 습기가 많다
+k	비슷비슷	비슷비슷	여럿이 다 거의 같은 모양.
+k	비슷하다	비슷하다	to be similar (but not id…
+k	비슷한말	비슷한말	
+k	비쓸대다	비쓸대다	'비쓸거리다'.
+k	비아그라	비아그라	
+k	비알코올	비알코올	
+k	비약하다	비약하다	to jump; to leap
+k	비얀시코	비얀시코	
+k	비엔날레	비엔날레	
+k	비엔티안	비엔티안	Vientiane (the capital ci…
+k	비열하다	비열하다	사람의 하는 짓, 태도, 성격이 천하고 보잘것…
+k	비예하다	비예하다	
+k	비옥하다	비옥하다	to be rich, to be fertile
+k	비와 호	비와 호	
+k	비위난정	비위난정	
+k	비위생적	비위생적	
+k	비유되다	비유되다	
+k	비유하다	비유하다	땅이 걸고 기름지다.
+k	비육불포	비육불포	고기를 먹지 아니하면 배가 부르지 아니하다는 …
+k	비육지탄	비육지탄	
+k	비윤리적	비윤리적	
+k	비읍시옷	비읍시옷	한글의 겹받침 'ㅄ'의 이름. (부록: 한글 …
+k	비이성적	비이성적	
+k	비익연리	비익연리	부부사이의 화목함을 비유하는 말.
+k	비인간적	비인간적	인간적이지 않은.
+k	비인간화	비인간화	
+k	비인도적	비인도적	inhumane
+k	비일비재	비일비재	
+k	비자나무	비자나무	The kaya or Japanese nutm…
+k	비자동성	비자동성	
+k	비잔티온	비잔티온	Byzantium (an ancient Gre…
+k	비잔티움	비잔티움	Byzantium (an ancient Gre…
+k	비장하다	비장하다	몸집이 크고 힘이 세다.
+k	비정되다	비정되다	
+k	비정하다	비정하다	
+k	비종교자	비종교자	
+k	비죽대다	비죽대다	'비죽거리다'.
+k	비쭉대다	비쭉대다	'비쭉거리다'.
+k	비참하다	비참하다	miserable, tragic, woeful…
+k	비척대다	비척대다	'비치적대다'의 준말.
+k	비천하다	비천하다	지위나 신분이 낮고 천하다.
+k	비쳅스크	비쳅스크	
+k	비추이다	비추이다	to be shone, to light up
+k	비축하다	비축하다	to stockpile, to store up…
+k	비치사커	비치사커	
+k	비치하다	비치하다	
+k	비칠대다	비칠대다	'비칠거리다'.
+k	비콜어군	비콜어군	
+k	비텝스크	비텝스크	
+k	비토리아	비토리아	
+k	비트박스	비트박스	beatbox
+k	비트코인	비트코인	bitcoin (cryptocurrency)
+k	비틀대다	비틀대다	to stagger, to falter, to…
+k	비틀배틀	비틀배틀	
+k	비티니아	비티니아	
+k	비파나무	비파나무	loquat (fruit tree)
+k	비판하다	비판하다	to criticize
+k	비평하다	비평하다	어떤 소재에 대해 평가를 말하다.
+k	비표준어	비표준어	표준어가 아닌 말.
+k	비하인드	비하인드	
+k	비하하다	비하하다	
+k	비행구름	비행구름	항공기가 한랭하고 습한 하늘을 날 때 그 뒤에…
+k	비행기표	비행기표	airplane ticket
+k	비행접시	비행접시	
+k	비행하다	비행하다	
+k	비현실감	비현실감	
+k	비현실적	비현실적	
+k	비호하다	비호하다	to wail with grief
+k	비화가야	비화가야	한국의 역사에서, 경상도 창녕 지방 부분에 있…
+k	빅 애플	빅 애플	
+k	빅토리아	빅토리아	Victoria (a city, the cap…
+k	빈계사신	빈계사신	
+k	빈곤망상	빈곤망상	
+k	빈곤하다	빈곤하다	to be poor
+k	빈궁하다	빈궁하다	
+k	빈둥대다	빈둥대다	'빈둥거리다'.
+k	빈들대다	빈들대다	'빈들거리다'.
+k	빈말하다	빈말하다	쓸데없고 뜻이 없는 말을 하다.
+k	빈발하다	빈발하다	
+k	빈번하다	빈번하다	무엇이 일어나는 횟수가 잦다.
+k	빈약하다	빈약하다	
+k	빈영양호	빈영양호	물속의 영양 염류 농도가 낮아서 생물 생산력이…
+k	빈자소인	빈자소인	
+k	빈자일등	빈자일등	
+k	빈지워칭	빈지워칭	binge watching
+k	빈축하다	빈축하다	
+k	빈털터리	빈털터리	
+k	빈트후크	빈트후크	Windhoek (the capital cit…
+k	빈핍하다	빈핍하다	
+k	빌레브룩	빌레브룩	
+k	빌레이카	빌레이카	
+k	빌려주다	빌려주다	
+k	빌리루빈	빌리루빈	
+k	빌보르데	빌보르데	
+k	빌어먹을	빌어먹을	damn it!; shit!
+k	빗나가다	빗나가다	
+k	빙결고도	빙결고도	기온이 0℃가 되는 고도.
+k	빙공영사	빙공영사	
+k	빙그르르	빙그르르	몸이나 물건 따위가 넓게 한 바퀴 도는 모양.
+k	빙글대다	빙글대다	'빙글거리다'.
+k	빙글빙글	빙글빙글	going round and round
+k	빙긋대다	빙긋대다	'빙긋거리다'.
+k	빙긋빙긋	빙긋빙긋	
+k	빙긋하다	빙긋하다	
+k	빙기옥골	빙기옥골	
+k	빙끗대다	빙끗대다	'빙끗거리다'.
+k	빙끗빙끗	빙끗빙끗	
+k	빙끗하다	빙끗하다	
+k	빙벽등반	빙벽등반	
+k	빙빙대다	빙빙대다	'빙빙거리다'.
+k	빙빙하다	빙빙하다	
+k	빙상경기	빙상경기	
+k	빙상돛배	빙상돛배	'빙상요트'의 북한말.
+k	빙상무용	빙상무용	figure ice skating
+k	빙설기후	빙설기후	
+k	빙식단구	빙식단구	
+k	빙식윤회	빙식윤회	
+k	빙실대다	빙실대다	'빙실거리다'.
+k	빙실빙실	빙실빙실	
+k	빙심옥호	빙심옥호	
+k	빙싯대다	빙싯대다	'빙싯거리다'.
+k	빙싯빙싯	빙싯빙싯	
+k	빙싯하다	빙싯하다	
+k	빙자옥질	빙자옥질	
+k	빙장어른	빙장어른	다른 사람의 장인을 높여 부르는 말.
+k	빙정구름	빙정구름	대기의 온도가 0℃ 이하일 때 대기 속에 생기…
+k	빙정안개	빙정안개	주로 빙정으로 되어 있는 안개.
+k	빙정옥결	빙정옥결	
+k	빙정효과	빙정효과	구름 속에 과냉각된 물방울로 된 구름방울과 빙…
+k	빙충맞다	빙충맞다	
+k	빙탄지간	빙탄지간	(한자성어) 얼음과 숯의 사이. 얼음과 숯이 …
+k	빙탕후루	빙탕후루	
+k	빙하계류	빙하계류	
+k	빙하성층	빙하성층	
+k	빙하시대	빙하시대	
+k	빙하지형	빙하지형	
+k	빛 현상	빛 현상	
+k	빛굽힘성	빛굽힘성	'굴광성'의 북한말.
+k	비가 오는	비가 오는	
+k	비가 오다	비가 오다	
+k	비가 와요	비가 와요	it’s raining
+k	비교언어학	비교언어학	
+k	비굴스럽다	비굴스럽다	
+k	비근거리다	비근거리다	물건의 사개가 느즈러져 이리저리 흔들거리다.
+k	비금속광택	비금속광택	금속 이외의 물질에서 나는 광택. 금강석, 유…
+k	비금속원소	비금속원소	
+k	비누 거품	비누 거품	
+k	비누질하다	비누질하다	
+k	비누칠하다	비누칠하다	
+k	비늘껍데기	비늘껍데기	
+k	비닐하우스	비닐하우스	
+k	비단마모셋	비단마모셋	common marmoset
+k	비단열과정	비단열과정	대기의 상승•하강과정에서 가열이 있거나, 또는…
+k	비단열변화	비단열변화	어떤 경계 사이에 열의 교환이 있을 때의 열역…
+k	비단털들쥐	비단털들쥐	The royal vole, Eothenomy…
+k	비데오필림	비데오필림	videotape
+k	비둘기고기	비둘기고기	
+k	비둘기자리	비둘기자리	
+k	비드고슈치	비드고슈치	
+k	비디오게임	비디오게임	
+k	비딱거리다	비딱거리다	물체가 비스듬하게 이쪽저쪽으로 자꾸 기울어지다.
+k	비뚜름하다	비뚜름하다	조금 비뚤다.
+k	비뚤어지다	비뚤어지다	become crooked; distort
+k	비랏나가르	비랏나가르	
+k	비례대표제	비례대표제	
+k	비로자나불	비로자나불	
+k	비리쩍하다	비리쩍하다	냄새나 맛이 개운하지 못하고 비린 듯하다.
+k	비무장지대	비무장지대	
+k	비밀스럽다	비밀스럽다	to be secret, to be secre…
+k	비발산고도	비발산고도	수렴•발산이 없는 고도.
+k	비비적대다	비비적대다	'비비적거리다'.
+k	비상 사태	비상 사태	
+k	비스듬하다	비스듬하다	수평이나 수직이 되지 아니하고 한쪽으로 기운 …
+k	비스름하다	비스름하다	('…과'가 나타나지 않을 때는 여럿임을 뜻하…
+k	비스케이만	비스케이만	
+k	비슥거리다	비슥거리다	어떠한 일에 대하여 탐탁히 여기지 아니하고 자…
+k	비슬거리다	비슬거리다	힘없이 자꾸 비틀거리다.
+k	비쓸거리다	비쓸거리다	힘없이 자꾸 비틀거리다.
+k	비아냥대다	비아냥대다	'비아냥거리다'.
+k	비어 가든	비어 가든	
+k	비엠더블유	비엠더블유	
+k	비영리단체	비영리단체	non-profit organization
+k	비오는 날	비오는 날	
+k	비올론첼로	비올론첼로	
+k	비올리스트	비올리스트	
+k	비주얼노벨	비주얼노벨	
+k	비죽거리다	비죽거리다	비웃거나 언짢거나 울려고 할 때 소리 없이 입…
+k	비즈니스맨	비즈니스맨	
+k	비쭉거리다	비쭉거리다	비웃거나 언짢거나 울려고 할 때 소리 없이 입…
+k	비척거리다	비척거리다	'비치적거리다'의 준말.
+k	비치발리볼	비치발리볼	beach volleyball
+k	비치적대다	비치적대다	'비치적거리다'.
+k	비칠거리다	비칠거리다	몸을 바로 가누지 못하고 쓰러질 듯이 이리저리…
+k	비콜 반도	비콜 반도	
+k	비콜 지방	비콜 지방	
+k	비트 뿌리	비트 뿌리	
+k	비트레이트	비트레이트	
+k	비틀거리다	비틀거리다	to stumble; to stagger
+k	비틀마니아	비틀마니아	
+k	비하르 주	비하르 주	
+k	비행기관측	비행기관측	항공기의 기체에 장비된 기상측기나 항공기에서 …
+k	비행기구름	비행기구름	
+k	비행장경보	비행장경보	비행장에 머물러 있는 항공기 및 항공 관련 여…
+k	비활동전선	비활동전선	구름이나 강수를 거의 동반하지 아니하는 전선.…
+k	빅 데이터	빅 데이터	
+k	빅토리아호	빅토리아호	
+k	빈둥거리다	빈둥거리다	아무 일도 하지 아니하고 자꾸 게으름을 피우며…
+k	빈들거리다	빈들거리다	부끄러운 줄 모르고 게으름을 피우며 뻔뻔스럽게…
+k	빈칸채우기	빈칸채우기	
+k	빌라스푸르	빌라스푸르	
+k	빙그레하다	빙그레하다	
+k	빙글거리다	빙글거리다	입을 조금 벌리고 소리 없이 귀엽고 보드랍게 …
+k	빙긋거리다	빙긋거리다	입을 슬쩍 벌릴 듯하면서 소리 없이 거볍게 자…
+k	빙끗거리다	빙끗거리다	입을 슬쩍 벌릴 듯하면서 소리 없이 거볍게 자…
+k	빙빙거리다	빙빙거리다	약간 넓은 일정한 범위를 자꾸 돌다.
+k	빙상호케이	빙상호케이	'아이스하키'의 북한말.
+k	빙시레하다	빙시레하다	
+k	빙실거리다	빙실거리다	슬며시 입을 벌릴 듯하면서 소리 없이 부드럽고…
+k	빙싯거리다	빙싯거리다	입을 슬며시 벌릴 듯하면서 소리 없이 거볍고 …
+k	비가 옵니다	비가 옵니다	
+k	비공개 합의	비공개 합의	
+k	비까번쩍하다	비까번쩍하다	번쩍번쩍하다.
+k	비까비까하다	비까비까하다	번쩍번쩍하다.
+k	비늘흰발망둑	비늘흰발망둑	A Korean species of goby,…
+k	비단 주머니	비단 주머니	bag of tricks; cunning ma…
+k	비단털등줄쥐	비단털등줄쥐	the Chinese striped hamst…
+k	비둘기조롱이	비둘기조롱이	The Amur falcon, Falco am…
+k	비디오 게임	비디오 게임	
+k	비디오 클립	비디오 클립	
+k	비디오테이프	비디오테이프	videotape
+k	비례적 유추	비례적 유추	
+k	비리비리하다	비리비리하다	
+k	비명횡사하다	비명횡사하다	
+k	비무장 지대	비무장 지대	
+k	비비적거리다	비비적거리다	('…과'가 나타나지 않을 때는 여럿임을 뜻하…
+k	비상장 주식	비상장 주식	private equity, OTC stock…
+k	비스케이 만	비스케이 만	
+k	비아 페라타	비아 페라타	
+k	비아냥거리다	비아냥거리다	얄밉게 빈정거리며 자꾸 놀리다.
+k	비아위스토크	비아위스토크	
+k	비영리 단체	비영리 단체	
+k	비위난정하다	비위난정하다	
+k	비육불포하다	비육불포하다	늙은이가 쇠약해진 지경에 있다. 고기를 먹지 …
+k	비인칭 동사	비인칭 동사	
+k	비일비재하다	비일비재하다	
+k	비정부 기구	비정부 기구	
+k	비주얼 노벨	비주얼 노벨	visual novel (mainly Japa…
+k	비치적거리다	비치적거리다	몸을 한쪽으로 약간 비틀거리거나 가볍게 절룩거…
+k	비콜라노 족	비콜라노 족	
+k	비트박스하다	비트박스하다	
+k	비판적 사고	비판적 사고	
+k	비프스테이크	비프스테이크	
+k	비행기 모드	비행기 모드	
+k	비행기록장치	비행기록장치	flight data recorder
+k	비행정보구역	비행정보구역	비행 중에 있는 항공기에 안전하고 효율적인 운…
+k	빙그르르하다	빙그르르하다	
+k	빙글빙글하다	빙글빙글하다	
+k	빙긋빙긋하다	빙긋빙긋하다	
+k	빙끗빙끗하다	빙끗빙끗하다	
+k	빙산의 일각	빙산의 일각	tip of the iceberg
+k	빙실빙실하다	빙실빙실하다	
+k	빙싯빙싯하다	빙싯빙싯하다	
+k	빚지고 있다	빚지고 있다	
+k	빛을 발하다	빛을 발하다	to turn out to be useful;…
+k	빛이 있으라	빛이 있으라	
+k	비너노이슈타트	비너노이슈타트	
+k	비디오 게이머	비디오 게이머	
+k	비디오 카메라	비디오 카메라	
+k	비디오 카세트	비디오 카세트	
+k	비물질문화유산	비물질문화유산	
+k	비방한 위하여	비방한 위하여	
+k	비엔나 소시지	비엔나 소시지	
+k	비엘스코비아와	비엘스코비아와	폴란드 남쪽에 위치한 도시.
+k	비잔티움 제국	비잔티움 제국	Byzantine Empire (an anci…
+k	비전선 스콜선	비전선 스콜선	
+k	비엘라지오르스크	비엘라지오르스크	
+k	비영리적인 번역	비영리적인 번역	
+k	비프스트로가노프	비프스트로가노프	
+k	비할 데가 없는	비할 데가 없는	
+k	비행장 기상예보	비행장 기상예보	항공기의 이•착륙에 필요한 비행장 내의 예보.
+k	빈센트 반 고흐	빈센트 반 고흐	
+k	빛 좋은 개살구	빛 좋은 개살구	겉으로 보기에는 먹음직스러운 개살구는 시고 떫…
+k	비동기 전송 방식	비동기 전송 방식	
+k	비디오 게임 콘솔	비디오 게임 콘솔	
+k	비유클리드 기하학	비유클리드 기하학	
+k	비읍 불규칙 활용	비읍 불규칙 활용	어간의 말음인 'ㅂ'이 '아'나 '아'로 시작…
+k	비디오카세트 레코더	비디오카세트 레코더	
+k	비에르흐니아드빈스크	비에르흐니아드빈스크	
+k	비옥한 초승달 지대	비옥한 초승달 지대	
+k	비즈니스 애널리스트	비즈니스 애널리스트	
+k	비행 스파게티 괴물	비행 스파게티 괴물	
+k	빈 수레가 요란하다	빈 수레가 요란하다	empty vessels make the mo…
+k	비가 억수같이 내리다	비가 억수같이 내리다	
+k	비 온 뒤에 땅이 굳어진다	비 온 뒤에 땅이 굳어진다	풍파가 있은 후에 일이 더 단단해진다.
+k	빌어먹을 안내서를 읽으시오	빌어먹을 안내서를 읽으시오	
+k	빛나는 것이 모두 금 아니라	빛나는 것이 모두 금 아니라	

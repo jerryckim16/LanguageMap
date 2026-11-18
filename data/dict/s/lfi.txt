@@ -1,0 +1,453 @@
+j	フィ	fi	
+j	フィー	fi	phi
+e	fib	fib	1 meaning
+e	fie	fie	1 meaning
+e	fig	fig	2 meanings
+e	fin	fin	3 meanings
+e	fir	fir	1 meaning
+e	fit	fit	5 meanings
+e	fix	fix	4 meanings
+j	フィン	fin	
+e	fief	fief	1 meaning
+e	fier	fier	2 meanings
+e	fife	fife	1 meaning
+e	fiji	fiji	1 meaning
+e	file	file	9 meanings
+e	fill	fill	4 meanings
+e	film	film	2 meanings
+e	find	find	3 meanings
+e	fine	fine	3 meanings
+e	finn	finn	2 meanings
+e	fiqh	fiqh	1 meaning
+e	fire	fire	11 meanings
+e	fish	fish	3 meanings
+e	fist	fist	1 meaning
+e	five	five	2 meanings
+j	ふぃとぅ	fito	
+j	ふぃーぶ	fibu	
+j	フィジー	fiji	Fiji (a country and archi…
+j	フィラー	fira	
+j	フィル	firu	a transliteration of the …
+j	フィレ	fire	
+j	フィーダー	fida	feeder
+j	フィート	fito	foot, feet
+j	フィード	fido	
+j	フィーバー	fiba	fever, an elevated body t…
+j	フィービー	fibi	
+e	fiancé	fianc	1 meaning
+e	fibre	fibre	1 meaning
+e	field	field	8 meanings
+e	fiend	fiend	2 meanings
+e	fifth	fifth	2 meanings
+e	fifty	fifty	1 meaning
+e	fight	fight	10 meanings
+e	filly	filly	1 meaning
+e	filth	filth	1 meaning
+e	final	final	4 meanings
+e	fiona	fiona	1 meaning
+e	first	first	2 meanings
+e	fishy	fishy	2 meanings
+e	fixed	fixed	1 meaning
+e	fixer	fixer	1 meaning
+j	フィエル	fieru	
+j	フィオナ	fiona	a transliteration of the …
+j	フィット	fitto	a fit; something that fit…
+j	フィンガー	finga	指。
+j	フィーサン	fisan	
+j	フィーチャー	ficha	a long or prominently fea…
+j	撮影所	films	映画やテレビ番組の撮影・制作をする建物や場所。
+e	fiancée	fiance	1 meaning
+e	fiasco	fiasco	1 meaning
+e	fibula	fibula	1 meaning
+e	fickle	fickle	1 meaning
+e	fiddle	fiddle	1 meaning
+e	fidget	fidget	1 meaning
+e	fierce	fierce	1 meaning
+e	figure	figure	3 meanings
+e	fijian	fijian	1 meaning
+e	filial	filial	1 meaning
+e	fill up	fillup	1 meaning
+e	filled	filled	1 meaning
+e	filler	filler	2 meanings
+e	fillet	fillet	1 meaning
+e	fillip	fillip	1 meaning
+e	filter	filter	3 meanings
+e	filthy	filthy	1 meaning
+e	finale	finale	1 meaning
+e	finger	finger	2 meanings
+e	finial	finial	2 meanings
+e	finish	finish	3 meanings
+e	finite	finite	1 meaning
+e	finity	finity	1 meaning
+e	fisher	fisher	1 meaning
+j	フィアンセ	fianse	synonym of 婚約者 (kon'yakus…
+j	フィギュア	figyua	figure (drawing)
+j	フィクフ	fikufu	fiqh
+j	フィジー語	fijigo	The Fijian language.
+j	フィスト	fisuto	握り拳。拳骨。
+j	フィトナ	fitona	fitna
+j	フィドル	fidoru	
+j	フィナーレ	finare	finale
+j	フィネス	finesu	技巧。
+j	フィフス	fifusu	ストライクを5フレーム続けて成し遂げること。
+j	フィブラ	fibura	
+j	フィリポ	firipo	Philip
+j	フィルター	firuta	filter (device for separa…
+j	フィルム	firumu	cinema, that is, film or …
+j	フィンチ	finchi	スズメ目のうち円錐形の嘴を持つアトリ科、カエデチョ…
+j	フィン人	finjin	フィンランドの主要民族。ウラル人の一派。
+j	フィールド	firudo	field (land area)
+e	fiction	fiction	1 meaning
+e	fiefdom	fiefdom	1 meaning
+e	fielder	fielder	1 meaning
+e	fifteen	fifteen	1 meaning
+e	fifties	fifties	1 meaning
+e	fighter	fighter	1 meaning
+e	fill out	fillout	1 meaning
+e	filling	filling	1 meaning
+e	filming	filming	1 meaning
+e	finally	finally	2 meanings
+e	finance	finance	2 meanings
+e	find out	findout	1 meaning
+e	finesse	finesse	1 meaning
+e	finland	finland	1 meaning
+e	finnish	finnish	3 meanings
+e	fire ant	fireant	1 meaning
+e	firearm	firearm	1 meaning
+e	firebug	firebug	1 meaning
+e	firefly	firefly	1 meaning
+e	firefox	firefox	1 meaning
+e	firstly	firstly	1 meaning
+e	fish oil	fishoil	1 meaning
+e	fishery	fishery	1 meaning
+e	fishing	fishing	3 meanings
+e	fishnet	fishnet	1 meaning
+e	fission	fission	1 meaning
+e	fissure	fissure	1 meaning
+e	fisting	fisting	1 meaning
+e	fistula	fistula	1 meaning
+e	fitness	fitness	2 meanings
+e	fitting	fitting	1 meaning
+j	フィジー人	fijijin	フィジーの主要民族。メラネシア人の一派。
+j	フィニアス	finiasu	
+j	フィリップ	firippu	Philip
+j	フィリピン	firipin	the Philippines
+j	フィリング	firingu	菓子パンなどの詰め物。また、サンドイッチなどの挟む…
+j	フィンガル	fingaru	Fingal (a county of Irela…
+j	フィンボス	finbosu	
+j	フィーリング	firingu	a feeling, a vibe
+j	比律賓	firipin	フィリピンの日本語による漢字表記。
+e	fidelity	fidelity	1 meaning
+e	field day	fieldday	1 meaning
+e	fiendish	fiendish	1 meaning
+e	fiftieth	fiftieth	1 meaning
+e	fifty-one	fiftyone	1 meaning
+e	fifty-six	fiftysix	1 meaning
+e	fifty-two	fiftytwo	1 meaning
+e	figueres	figueres	1 meaning
+e	figurine	figurine	1 meaning
+e	filament	filament	3 meanings
+e	file size	filesize	1 meaning
+e	filename	filename	1 meaning
+e	filipino	filipino	3 meanings
+e	film noir	filmnoir	1 meaning
+e	finalist	finalist	1 meaning
+e	fine arts	finearts	1 meaning
+e	fine-tune	finetune	1 meaning
+e	finished	finished	1 meaning
+e	finistère	finistre	1 meaning
+e	finnmark	finnmark	1 meaning
+e	fire door	firedoor	1 meaning
+e	fire hose	firehose	1 meaning
+e	fire load	fireload	1 meaning
+e	fireball	fireball	1 meaning
+e	firebell	firebell	1 meaning
+e	firewall	firewall	2 meanings
+e	fireweed	fireweed	1 meaning
+e	firewire	firewire	1 meaning
+e	firewood	firewood	1 meaning
+e	firework	firework	1 meaning
+e	firmware	firmware	1 meaning
+e	first aid	firstaid	1 meaning
+e	fish bowl	fishbowl	1 meaning
+e	fish tank	fishtank	1 meaning
+e	fishcake	fishcake	1 meaning
+e	fishhook	fishhook	1 meaning
+e	fishmeal	fishmeal	1 meaning
+e	fishpond	fishpond	1 meaning
+e	fist bump	fistbump	1 meaning
+e	fist-fuck	fistfuck	1 meaning
+e	fistball	fistball	1 meaning
+e	fivefold	fivefold	1 meaning
+e	fixation	fixation	1 meaning
+j	フィクション	fikushon	fiction (literary type)
+j	フィゲラス	figerasu	
+j	フィジカル	fijikaru	physical (tangible)
+j	フィスカル	fisukaru	国庫の。
+j	フィッティング	fittingu	
+j	フィナンシェ	finanshe	financier (type of cake)
+j	フィニッシャー	finissha	仕上げる人や物。
+j	フィニッシュ	finisshu	終わる（終える）こと。仕上げること。
+j	フィノッキオ	finokkio	
+j	フィヨルド	fiyorudo	fjord, a long, narrow, de…
+j	フィレンツェ	firentse	Florence (a city and comu…
+j	フィロロジー	firoroji	文献学。
+j	フィンランド	finrando	Finland (a country in Nor…
+j	フィーチャーフォン	fichafon	
+j	フィードローラ	fidorora	進棉ロラ、進料ロラ、喰入ロラ。
+j	芬蘭	finrando	フィンランドの漢字表記。
+e	fibonacci	fibonacci	1 meaning
+e	field trip	fieldtrip	1 meaning
+e	fieldfare	fieldfare	1 meaning
+e	fifteenth	fifteenth	2 meanings
+e	fifty-five	fiftyfive	1 meaning
+e	fifty-four	fiftyfour	1 meaning
+e	fifty-nine	fiftynine	1 meaning
+e	fight back	fightback	1 meaning
+e	film nagar	filmnagar	1 meaning
+e	filmmaker	filmmaker	1 meaning
+e	final boss	finalboss	1 meaning
+e	financial	financial	1 meaning
+e	financier	financier	1 meaning
+e	find fault	findfault	1 meaning
+e	fingercot	fingercot	1 meaning
+e	fingering	fingering	1 meaning
+e	fingertip	fingertip	1 meaning
+e	fire alarm	firealarm	3 meanings
+e	fire drill	firedrill	1 meaning
+e	fire point	firepoint	1 meaning
+e	firebreak	firebreak	1 meaning
+e	fireplace	fireplace	1 meaning
+e	firepower	firepower	1 meaning
+e	fireproof	fireproof	1 meaning
+e	firestorm	firestorm	1 meaning
+e	firewoman	firewoman	1 meaning
+e	fireworks	fireworks	2 meanings
+e	firing pin	firingpin	1 meaning
+e	firmament	firmament	1 meaning
+e	first base	firstbase	1 meaning
+e	first gear	firstgear	1 meaning
+e	first half	firsthalf	1 meaning
+e	first lady	firstlady	1 meaning
+e	first love	firstlove	1 meaning
+e	first team	firstteam	1 meaning
+e	first time	firsttime	1 meaning
+e	first-rate	firstrate	1 meaning
+e	firstborn	firstborn	1 meaning
+e	fish sauce	fishsauce	1 meaning
+e	fisherman	fisherman	1 meaning
+e	fixed star	fixedstar	1 meaning
+j	フィジックス	fijikkusu	物理学。
+j	フィジー諸島	fijishoto	メラネシアにあるフィジー領の諸島。
+j	フィスティング	fisutingu	
+j	フィチン酸	fichinsan	
+j	フィッシャーマン	fisshaman	
+j	フィッシュイーター	fisshuita	piscivorous fish
+j	フィッシング	fisshingu	fishing
+j	フィットネス	fittonesu	fitness
+j	フィラメント	firamento	電球の中にある線条。真空管の陰極。
+j	フィリップス	firippusu	a transliteration of the …
+j	フィリピン語	firipingo	タガログ語を標準化したフィリピンの国語。
+j	フィロキノン	firokinon	
+j	フィンマルク	finmaruku	
+j	フィーチャー映画	fichaeiga	
+j	フィードバック	fidobakku	feedback (critical assess…
+j	フィードロット	fidorotto	集中肥育場。
+e	fibreglass	fibreglass	1 meaning
+e	fibrinogen	fibrinogen	1 meaning
+e	fibroblast	fibroblast	1 meaning
+e	fictionkin	fictionkin	1 meaning
+e	fictitious	fictitious	1 meaning
+e	fifth grade	fifthgrade	1 meaning
+e	fifth wheel	fifthwheel	1 meaning
+e	fifty-eight	fiftyeight	1 meaning
+e	fifty-fifty	fiftyfifty	1 meaning
+e	fifty-seven	fiftyseven	1 meaning
+e	fifty-three	fiftythree	1 meaning
+e	figurative	figurative	1 meaning
+e	file format	fileformat	1 meaning
+e	file system	filesystem	1 meaning
+e	filibuster	filibuster	1 meaning
+e	filmmaking	filmmaking	1 meaning
+e	filtration	filtration	1 meaning
+e	fingernail	fingernail	1 meaning
+e	finish line	finishline	1 meaning
+e	finiteness	finiteness	1 meaning
+e	fios de ovos	fiosdeovos	1 meaning
+e	fire at will	fireatwill	1 meaning
+e	fire engine	fireengine	1 meaning
+e	fire escape	fireescape	2 meanings
+e	first floor	firstfloor	1 meaning
+e	first grade	firstgrade	1 meaning
+e	first of all	firstofall	1 meaning
+e	first world	firstworld	2 meanings
+e	fiscal year	fiscalyear	1 meaning
+e	fisherfolk	fisherfolk	1 meaning
+e	fishing cat	fishingcat	1 meaning
+e	fishing net	fishingnet	1 meaning
+e	fishing rod	fishingrod	1 meaning
+e	fishmarket	fishmarket	1 meaning
+e	fishmonger	fishmonger	1 meaning
+e	fitzgerald	fitzgerald	1 meaning
+e	five o'clock	fiveoclock	1 meaning
+e	five senses	fivesenses	1 meaning
+e	fixed asset	fixedasset	1 meaning
+e	fixed point	fixedpoint	1 meaning
+j	フィナンシャル	finansharu	「ファイナンシャル」の表記ゆれ。
+j	フィボナッチ	fibonatchi	
+j	フィリバスター	firibasuta	議事妨害。特に米国の上院で行われるものを指す。
+j	フィリピノの	firipinono	
+j	フィリピン人	firipinjin	フィリピン国籍を持つ人、フィリピン出身者。
+j	フィリピン海	firipinkai	太平洋北西部の西をフィリピンと台湾、北を南西諸島と…
+j	フィルハーモニー	firuhamoni	philharmonic
+j	フィルフォールデ	firuforude	
+j	フィルフォールド	firuforudo	
+j	フィレミニョン	fireminyon	filet mignon (a French st…
+j	フィンランドの	finrandono	
+j	フィンランド化	finrandoka	
+j	フィンランド語	finrandogo	Finnish - the language of…
+j	フィーチャリング	ficharingu	featuring
+j	フィールドノート	firudonoto	野外で使用できるように作られた手帳。野帳。
+j	フィールドワーク	firudowaku	fieldwork
+e	fiber bundle	fiberbundle	1 meaning
+e	field hockey	fieldhockey	1 meaning
+e	field of view	fieldofview	1 meaning
+e	field ration	fieldration	1 meaning
+e	fifth column	fifthcolumn	1 meaning
+e	filial piety	filialpiety	1 meaning
+e	finger heart	fingerheart	1 meaning
+e	fingerboard	fingerboard	1 meaning
+e	fingerprint	fingerprint	2 meanings
+e	fire brigade	firebrigade	2 meanings
+e	fire grenade	firegrenade	1 meaning
+e	fire hydrant	firehydrant	1 meaning
+e	fire station	firestation	1 meaning
+e	firecracker	firecracker	1 meaning
+e	firefighter	firefighter	1 meaning
+e	firing squad	firingsquad	1 meaning
+e	first aid kit	firstaidkit	1 meaning
+e	first nation	firstnation	1 meaning
+e	first person	firstperson	1 meaning
+e	first-aid box	firstaidbox	1 meaning
+e	fisheye lens	fisheyelens	1 meaning
+e	fishing boat	fishingboat	1 meaning
+e	fishing line	fishingline	1 meaning
+e	fishing pole	fishingpole	1 meaning
+e	fishmonger's	fishmongers	1 meaning
+e	fitting room	fittingroom	1 meaning
+e	five hundred	fivehundred	1 meaning
+j	フィキサチーフ	fikisachifu	パステル画やデッサンが消えてしまうのを防ぎ定着させ…
+j	フィクサチーフ	fikusachifu	「フィキサチーフ」の表記ゆれ。
+j	フィクションキン	fikushonkin	
+j	フィストファック	fisutofakku	膣や肛門に手や拳を挿入する行為。
+j	フィブリノゲン	fiburinogen	fibrinogen
+j	フィラデルフィア	firaderufia	Philadelphia (a city in P…
+j	フィリピンパブ	firipinpabu	Japanese bar staffed by F…
+j	フィリピン祖語	firipinsogo	フィリピン語群の全言語が派生したと考えられている祖…
+j	フィリピン英語	firipineigo	Philippine English
+j	フィンランド人	finrandojin	Finn, Finnish person
+j	フィンランド湾	finrandowan	
+j	フィールドホッケー	firudohokke	field hockey
+j	費拉特費	firaderufia	
+e	fibromyalgia	fibromyalgia	1 meaning
+e	field marshal	fieldmarshal	1 meaning
+e	fifth disease	fifthdisease	1 meaning
+e	fighter plane	fighterplane	1 meaning
+e	fighting game	fightinggame	1 meaning
+e	film director	filmdirector	1 meaning
+e	filter bubble	filterbubble	1 meaning
+e	finger millet	fingermillet	1 meaning
+e	firefighting	firefighting	1 meaning
+e	first baseman	firstbaseman	1 meaning
+e	first quarter	firstquarter	1 meaning
+e	fish and chips	fishandchips	1 meaning
+e	five precepts	fiveprecepts	1 meaning
+e	five thousand	fivethousand	1 meaning
+j	フィギュアスケーター	figyuasuketa	フィギュアスケートの選手。
+j	フィギュアスケート	figyuasuketo	figure skating
+j	フィボナッチ数	fibonatchisu	
+j	フィリピン料理	firipinryori	フィリピンの伝統的な料理。
+j	フィリピン海溝	firipinkaiko	フィリピンの東、フィリピン海西部にある海溝。
+j	フィリピン諸島	firipinshoto	Philippine Islands (islan…
+j	フィリピン鷲	firipinwashi	a Philippine eagle
+j	フィルターバブル	firutababuru	インターネット上で自分の考えと合わないホームページ…
+j	フィルムカメラ	firumukamera	フィルムに像を焼き付けて撮影するカメラ。
+j	フィルムナガル	firumunagaru	
+j	フィルムノワール	firumunowaru	
+j	フィルム・ノワール	firumunowaru	film noir
+j	フィンガースナップ	fingasunappu	
+j	フィンガープリント	fingapurinto	指紋。
+j	フィンマルク県	finmarukuken	
+j	フィンランド語の	finrandogono	
+j	比律賓諸島	firipinshoto	
+e	fidget spinner	fidgetspinner	1 meaning
+e	field hospital	fieldhospital	1 meaning
+e	field of vision	fieldofvision	1 meaning
+e	figure skating	figureskating	1 meaning
+e	file extension	fileextension	1 meaning
+e	film projector	filmprojector	1 meaning
+e	fine-tooth comb	finetoothcomb	1 meaning
+e	finishing move	finishingmove	1 meaning
+e	fire-resistant	fireresistant	1 meaning
+e	fit like a glove	fitlikeaglove	1 meaning
+j	フィジェットスピナー	fijettosupina	
+j	フィッシング詐欺	fisshingusagi	
+j	フィニステール県	finisuteruken	
+j	フィルハーモニック	firuhamonikku	philharmonic
+j	フィンランド料理	finrandoryori	フィンランドの伝統的な料理。
+j	フィードバックループ	fidobakkurupu	
+e	field artillery	fieldartillery	1 meaning
+e	field horsetail	fieldhorsetail	1 meaning
+e	fielder's choice	fielderschoice	1 meaning
+e	fighting spirit	fightingspirit	1 meaning
+e	figure of speech	figureofspeech	1 meaning
+e	fill in the blank	fillintheblank	1 meaning
+e	financial asset	financialasset	1 meaning
+e	finlandization	finlandization	1 meaning
+e	fire department	firedepartment	1 meaning
+e	fish out of water	fishoutofwater	1 meaning
+e	five aggregates	fiveaggregates	1 meaning
+j	フィッツジェラルド	fittsujerarudo	
+e	fibonacci number	fibonaccinumber	1 meaning
+e	field pennycress	fieldpennycress	1 meaning
+e	financial crisis	financialcrisis	1 meaning
+e	financial market	financialmarket	1 meaning
+e	finished product	finishedproduct	1 meaning
+e	finless porpoise	finlessporpoise	1 meaning
+e	first in first out	firstinfirstout	1 meaning
+e	five-spice powder	fivespicepowder	1 meaning
+j	フィギュアスケーティング	figyuasuketingu	synonym of フィギュアスケート (fig…
+j	フィッシャー投影式	fisshatoeishiki	Fischer projection
+j	フィットネスクラブ	fittonesukurabu	fitness club
+j	フィンガーレスノーマル	fingaresunomaru	指で弾くのではなく、手首のスナップを利かせて回転さ…
+j	フィンガーレスリバース	fingaresuribasu	指で弾くのではなく、手首のスナップを利かせて回転さ…
+e	final examination	finalexamination	1 meaning
+e	fire extinguisher	fireextinguisher	1 meaning
+e	first and foremost	firstandforemost	1 meaning
+e	first island chain	firstislandchain	1 meaning
+e	first past the post	firstpastthepost	1 meaning
+e	five o'clock shadow	fiveoclockshadow	1 meaning
+j	フィリピンオナガバト	firipinonagabato	
+j	フィリピン共和国	firipinkyowakoku	Republic of the Philippin…
+j	フィリピン海プレート	firipinkaipureto	フィリピン海の大部分がその上に乗っている海洋プレー…
+j	フィンセント・ファン・ゴッホ	finsentofangohho	
+e	fibonacci sequence	fibonaccisequence	1 meaning
+e	field hockey player	fieldhockeyplayer	1 meaning
+e	fire-on-the-mountain	fireonthemountain	1 meaning
+j	フィジカルディスタンス	fijikarudisutansu	ソーシャルディスタンスの言い換え語。「ソーシャルデ…
+j	フィボナッチ数列	fibonatchisuretsu	Fibonacci sequence
+j	フィンランド共和国	finrandokyowakoku	Republic of Finland (long…
+j	フィールドアスレチック	firudoasurechikku	obstacle course, ropes co…
+j	フィールドホッケー選手	firudohokkesenshu	フィールドホッケーで実際に競技をする選手。
+e	fight like cat and dog	fightlikecatanddog	1 meaning
+e	financial statement	financialstatement	1 meaning
+e	first-person shooter	firstpersonshooter	1 meaning
+j	フィッシュ・アンド・チップス	fisshuandochippusu	fish and chips
+e	file allocation table	fileallocationtable	1 meaning
+e	file transfer protocol	filetransferprotocol	1 meaning
+e	financial institution	financialinstitution	1 meaning
+e	first come, first served	firstcomefirstserved	1 meaning
+e	first-come-first-served	firstcomefirstserved	1 meaning
+e	first cousin once removed	firstcousinonceremoved	2 meanings
+e	fine feathers make fine birds	finefeathersmakefinebirds	1 meaning
+e	fibrodysplasia ossificans progressiva	fibrodysplasiaossificansprogressiva	1 meaning

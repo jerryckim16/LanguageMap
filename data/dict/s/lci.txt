@@ -1,0 +1,116 @@
+e	cia	cia	1 meaning
+e	cis	cis	2 meanings
+e	ciao	ciao	1 meaning
+e	city	city	2 meanings
+e	cider	cider	2 meanings
+e	cigar	cigar	1 meaning
+e	cijin	cijin	1 meaning
+e	ciney	ciney	1 meaning
+e	circa	circa	1 meaning
+e	civet	civet	1 meaning
+e	civic	civic	1 meaning
+e	civil	civil	2 meanings
+e	cia-cia	ciacia	1 meaning
+e	cicada	cicada	1 meaning
+e	cicero	cicero	1 meaning
+e	cinder	cinder	1 meaning
+e	cinema	cinema	4 meanings
+e	cinque	cinque	1 meaning
+e	cipher	cipher	2 meanings
+e	circle	circle	5 meanings
+e	circus	circus	1 meaning
+e	cirque	cirque	1 meaning
+e	cirrus	cirrus	2 meanings
+e	cishan	cishan	1 meaning
+e	citole	citole	1 meaning
+e	citron	citron	2 meanings
+e	citrus	citrus	1 meaning
+e	civics	civics	1 meaning
+e	cichlid	cichlid	1 meaning
+e	cinzano	cinzano	1 meaning
+e	circuit	circuit	1 meaning
+e	cistern	cistern	1 meaning
+e	citadel	citadel	2 meanings
+e	citizen	citizen	5 meanings
+e	citrate	citrate	1 meaning
+e	citrine	citrine	1 meaning
+e	city boy	cityboy	1 meaning
+e	ciabatta	ciabatta	1 meaning
+e	cianjhen	cianjhen	1 meaning
+e	ciba cake	cibacake	1 meaning
+e	cilantro	cilantro	1 meaning
+e	cinnabar	cinnabar	2 meanings
+e	cinnamon	cinnamon	6 meanings
+e	circinus	circinus	1 meaning
+e	circular	circular	1 meaning
+e	city girl	citygirl	1 meaning
+e	city hall	cityhall	2 meanings
+e	civil law	civillaw	2 meanings
+e	civil war	civilwar	1 meaning
+e	civilian	civilian	2 meanings
+e	cigarette	cigarette	1 meaning
+e	cigarillo	cigarillo	1 meaning
+e	cinematic	cinematic	1 meaning
+e	cinephile	cinephile	1 meaning
+e	cinnoline	cinnoline	1 meaning
+e	cinquedea	cinquedea	1 meaning
+e	circadian	circadian	1 meaning
+e	circumfix	circumfix	1 meaning
+e	cirrhosis	cirrhosis	1 meaning
+e	cisgender	cisgender	1 meaning
+e	cisjordan	cisjordan	1 meaning
+e	city state	citystate	1 meaning
+e	civil code	civilcode	1 meaning
+e	cincinnati	cincinnati	1 meaning
+e	cinderella	cinderella	2 meanings
+e	circumcise	circumcise	2 meanings
+e	circumflex	circumflex	1 meaning
+e	cistercian	cistercian	1 meaning
+e	citric acid	citricacid	1 meaning
+e	civil union	civilunion	1 meaning
+e	cidade velha	cidadevelha	1 meaning
+e	cinder block	cinderblock	1 meaning
+e	circular arc	circulararc	1 meaning
+e	circular saw	circularsaw	1 meaning
+e	circulation	circulation	1 meaning
+e	cirl bunting	cirlbunting	1 meaning
+e	citizenship	citizenship	1 meaning
+e	citrus fruit	citrusfruit	1 meaning
+e	city council	citycouncil	1 meaning
+e	civic-minded	civicminded	1 meaning
+e	civil rights	civilrights	1 meaning
+e	cinnamic acid	cinnamicacid	1 meaning
+e	cinnamon roll	cinnamonroll	1 meaning
+e	circuit board	circuitboard	1 meaning
+e	circumcenter	circumcenter	1 meaning
+e	circumcircle	circumcircle	1 meaning
+e	circumcision	circumcision	1 meaning
+e	circumstance	circumstance	2 meanings
+e	cirrocumulus	cirrocumulus	1 meaning
+e	cirrostratus	cirrostratus	1 meaning
+e	civil defense	civildefense	1 meaning
+e	civil servant	civilservant	1 meaning
+e	civil society	civilsociety	1 meaning
+e	civilization	civilization	3 meanings
+e	cigarette case	cigarettecase	1 meaning
+e	cintāmaṇicakra	cintamaicakra	1 meaning
+e	circumference	circumference	2 meanings
+e	civil twilight	civiltwilight	1 meaning
+e	cinematography	cinematography	1 meaning
+e	circuit breaker	circuitbreaker	1 meaning
+e	circular sector	circularsector	1 meaning
+e	citation needed	citationneeded	1 meaning
+e	citrine wagtail	citrinewagtail	1 meaning
+e	citrus greening	citrusgreening	1 meaning
+e	cinematographer	cinematographer	1 meaning
+e	circadian rhythm	circadianrhythm	1 meaning
+e	circular segment	circularsegment	1 meaning
+e	citric acid cycle	citricacidcycle	1 meaning
+e	circumnavigation	circumnavigation	1 meaning
+e	civil engineering	civilengineering	1 meaning
+e	circle contact lens	circlecontactlens	1 meaning
+e	circulatory system	circulatorysystem	1 meaning
+e	cis-trans isomerism	cistransisomerism	1 meaning
+e	citizen journalism	citizenjournalism	1 meaning
+e	civil disobedience	civildisobedience	1 meaning
+e	circular definition	circulardefinition	1 meaning

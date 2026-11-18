@@ -1,0 +1,40 @@
+e	avar	avar	2 meanings
+e	avow	avow	1 meaning
+e	avert	avert	2 meanings
+e	avian	avian	1 meaning
+e	avoid	avoid	1 meaning
+e	avalon	avalon	1 meaning
+e	avatar	avatar	3 meanings
+e	avenge	avenge	1 meaning
+e	avenue	avenue	1 meaning
+j	アーヴァンク	avanku	
+e	avarice	avarice	1 meaning
+e	avenger	avenger	1 meaning
+e	average	average	5 meanings
+e	avignon	avignon	1 meaning
+e	avocado	avocado	1 meaning
+j	アヴァル語	avarugo	Avar language
+j	アヴァロン	avuaron	
+j	アヴィニョン	avinyon	Avignon (a city in France)
+j	アヴェニュー	avuenyu	アベニューの異表記。
+j	アヴォカド	avokado	
+e	aversion	aversion	1 meaning
+e	aviation	aviation	1 meaning
+e	avicenna	avicenna	1 meaning
+j	アウィケンナ	avikenna	
+j	アヴァル人	avarujin	
+e	available	available	1 meaning
+e	avalanche	avalanche	2 meanings
+e	avoidance	avoidance	2 meanings
+j	アヴァンチュール	avanchuru	
+j	アヴェ・マリア	avuemaria	
+e	avant-garde	avantgarde	3 meanings
+e	avaricious	avaricious	1 meaning
+e	aventurine	aventurine	2 meanings
+e	avgolemono	avgolemono	1 meaning
+j	アヴゴレモノ	avugoremono	avgolemono
+e	availability	availability	1 meaning
+e	avitaminosis	avitaminosis	1 meaning
+j	アヴァンギャルド	avuangyarudo	アバンギャルドの別形。
+e	avian influenza	avianinfluenza	1 meaning
+e	avogadro's number	avogadrosnumber	1 meaning

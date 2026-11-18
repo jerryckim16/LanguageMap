@@ -1,0 +1,390 @@
+e	zoë	zo	1 meaning
+j	ぞ	zo	a particle used at the en…
+j	像	zo	a form of a thing, includ…
+j	増	zo	increase
+j	象	zo	elephant
+e	zoo	zoo	1 meaning
+j	ぞい	zoi	sentence-ending particle …
+j	ぞえ	zoe	­ (colloquial, men's spee…
+j	ゾイ	zoi	
+j	ゾウ	zou	哺乳類の一種である象の学術的表記。
+j	ゾーイ	zoi	
+j	ゾーン	zon	zone
+j	憎悪	zoo	hatred, hostility
+e	zone	zone	5 meanings
+e	zoom	zoom	1 meaning
+j	ぞうよ	zoyo	贈与: donation
+j	ゾル	zoru	コロイド粒子が分散している状態の液体。コロイド溶液…
+j	ゾロ	zoro	the dice game チンチロリン, whe…
+j	ゾーブ	zobu	
+j	俗	zoku	worldly
+j	像法	zoho	釈迦滅後における区分のひとつ。正法のあと500年ま…
+j	像貌	zobo	容貌。
+j	増俸	zoho	raising salaries
+j	増光	zoko	光の強さが増すこと。また、光の強さを増やすこと。
+j	増加	zoka	increasing (increased amo…
+j	増劫	zogo	四劫のうちの住劫で、人間の寿命が10歳から年々、ま…
+j	増員	zoin	acquiring of new employee…
+j	増嵩	zosu	金額・人数などが増加して嵩むこと。
+j	属	zoku	a genus
+j	屣	zori	
+j	族	zoku	group (column in the peri…
+j	簇	zoku	cocoon holders
+j	続	zoku	a continuation
+j	臓器	zoki	internal organs
+j	臓府	zofu	五臓六腑。臓腑。
+j	臓腑	zofu	internal organs
+j	臟腑	zofu	
+j	草履	zori	a type of flat, thonged s…
+j	蔵光	zoko	才知を隠すこと。
+j	蔵司	zosu	the private room of a 蔵主
+j	蔵府	zofu	府庫。
+j	蔵昂	zoko	気位が高大であるさま。
+j	蔵窖	zoko	窖蔵に入れること。
+j	蔵鉤	zoko	なんこ。
+j	蔵隠	zoin	隠れること。
+j	象牙	zoge	ivory
+j	賊	zoku	thief
+j	贈与	zoyo	donation
+j	贈号	zogo	謚号を贈ること。
+j	贈后	zoko	皇后、皇太后、太皇太后の称号を死後に贈り、それに準…
+j	贈答	zoto	gifting and receiving (pr…
+j	贈行	zoko	餞別。
+j	贈賵	zobo	車馬や衣類などを贈り、葬儀などを助けること。
+j	贈賻	zofu	服喪している家への進物。香典。
+j	造化	zoka	nature, the natural world
+j	造句	zoku	新しく語句を造ること。また、その語句。
+j	造営	zoei	construction of a shrine,…
+j	造園	zoen	landscaping
+j	造塔	zoto	供養などのため仏塔を建立すること。
+j	造字	zoji	creating or making up a C…
+j	造寺	zoji	寺院を造立すること。
+j	造工	zoku	造作。
+j	造搆	zoko	（構造物などを）組み立てること。また、そのようにし…
+j	造構	zoko	（構造物などを）組み立てること。また、そのようにし…
+j	造次	zoji	僅かな時間。多忙なさま。
+j	造焉	zoen	憂えるさま。造然。
+j	造花	zoka	artificial flower
+j	造語	zogo	coinage
+j	造誣	zofu	ことを誣いること。
+j	造謀	zobo	謀略。
+j	造謗	zobo	謗ること。
+j	雑具	zogu	種々雑多な道具。
+j	雑口	zoko	さまざまな悪口。雑言。
+j	雑木	zoki	木材として使われることの少ない（あるいはない）様々…
+j	雑歌	zoka	a collection of poems not…
+j	雑煮	zoni	zōni (Japanese soup conta…
+j	雑縁	zoen	仏道の修行や往生の妨げとなる煩悩や誘惑などのさまざ…
+e	zorro	zorro	1 meaning
+j	ぞうきょう	zokyo	増強: augmentation
+j	ぞうきん	zokin	
+j	ぞうせん	zosen	
+j	ぞうぜい	zozei	増税: a tax increase, a tax…
+j	ぞうだい	zodai	増大: an increase, an enlar…
+j	ぞせん	zosen	
+j	ぞっと	zotto	shuddering from fear, hav…
+j	ぞんき	zonki	思いやりがないさま、無愛想であるさま。
+j	ゾンデ	zonde	体腔や臓器などに挿入し、その内部の診断、治療を行う…
+j	ゾンバ	zonba	マラウイの都市、旧首都。
+j	ゾンビ	zonbi	a zombie
+j	ゾンビー	zonbi	ゾンビ。
+j	俗交	zokko	世俗における交際。
+j	俗化	zokka	世俗の潮流に感化されること。
+j	俗家	zokka	世俗の人の家。在家。
+j	俗歌	zokka	世間で流行している歌。
+j	像片	zohen	写真。
+j	像賛	zosan	画像の賛。
+j	増兵	zohei	兵力を増やすこと。
+j	増刊	zokan	an extra issue, an extra …
+j	増勢	zosei	増大する形勢や勢力。
+j	増単	zotan	学習指導要領に示されている各科目の単位数を増やすこ…
+j	増収	zoshu	increased income, increas…
+j	増大	zodai	increase (increased amoun…
+j	増床	zosho	医療機関で入院患者のための病床を増やすこと。
+j	増強	zokyo	strengthening, augmentati…
+j	増悪	zoaku	exacerbation, aggravation
+j	増感	zokan	写真乳剤に微量の薬剤などを加えて感度を高めること。
+j	増成	zosei	従来よりも増加または増大すること。前にもまして大き…
+j	増水	zosui	rising water of a river, …
+j	増減	zogen	increase and decrease, fl…
+j	増炭	zotan	石炭を産出する量を増やすこと。また、その量が増える…
+j	増生	zosei	細胞が刺激などにより過剰に分裂し、器官や組織が大き…
+j	増産	zosan	生産量を増やすこと。
+j	増益	zoeki	increase in profits
+j	増盛	zosei	あることが以前より勢いが増し、盛んになること。
+j	増税	zozei	tax hike
+j	増菌	zokin	菌が増えること。
+j	増訂	zotei	書物の内容の不足を付け加え不備を訂正すること。
+j	増量	zoryo	increase in amount
+j	属纊	zokko	死に際。臨終。
+j	慥然	zosen	信があるさま。
+j	憎嫌	zoken	嫌うこと。
+j	憎恨	zokon	憎み、恨むこと。
+j	曹司	zoshi	宮中の女官や朝廷の官吏などが使用する部屋。局。
+j	続航	zokko	引き続き航行すること。
+j	続行	zokko	continuing; keeping doing
+j	臧貶	zohen	褒貶すること。
+j	蔵外	zokai	大蔵経に収録されていない経典や注釈書、説話などの文…
+j	蔵書	zosho	book collection; collecte…
+j	蔵本	zohon	book that is in the posse…
+j	蔵板	zohan	版木や型紙を所蔵していること。また、それにより出版…
+j	蔵版	zohan	版木や型紙を所蔵していること。また、それにより出版…
+j	蔵相	zosho	Minister of Finance
+j	蔵蓋	zogai	隠し、覆うこと。
+j	象兵	zohei	軍象（戦象）を用いた戦術を行う兵種。
+j	象嵌	zogan	zogan, damascening, marqu…
+j	象隊	zotai	象に騎乗した隊。騎象隊。
+j	贈呈	zotei	presentation, such as of …
+j	贈官	zokan	生前に功績があった者に対して死後朝廷から官職を与え…
+j	贈諡	zoshi	故人に対し諡を贈ること。また、その諡。
+j	贈賄	zowai	an act of bribery
+j	贈賜	zoshi	贈り、与えること。
+j	贈賞	zosho	賞を贈ること。
+j	贓害	zogai	賄賂により人を誣陥すること。
+j	造兵	zohei	兵器を造ること。
+j	造反	zohan	体制や指導部の方針に反対する行動をとること。
+j	造型	zokei	有形物である芸術作品や意匠が重視される工業製品など…
+j	造塊	zokai	鋼塊（インゴット）をつくること。
+j	造幣	zohei	貨幣を製造すること。
+j	造形	zokei	molding, modelling
+j	造成	zosei	site preparation, develop…
+j	造替	zotai	社寺などを建て替えること。
+j	造本	zohon	印刷・製本・装丁などを経て本を作ること。また、その…
+j	造林	zorin	新たに苗となる木を植え森林をつくること。
+j	造然	zozen	憂えるさま。造焉。
+j	造立	zoryu	erection; construction
+j	造船	zosen	shipbuilding
+j	造艦	zokan	軍艦を建造すること。
+j	造言	zogen	根拠の無い言葉。作り話。
+j	造詣	zokei	knowledge of a subject
+j	造酒	zoshu	synonym of 酒造 (shuzō, “li…
+j	造釁	zokin	事態を招くこと。
+j	雑仕	zoshi	宮中や女院、公家などで雑用をした下級の女性の職員。
+j	雑巾	zokin	cleaning cloth
+j	雑紙	zoshi	粗雑な紙。鼻紙。
+j	雑芸	zogei	古代日本で行われた雑多な芸能。特に中国から伝わった…
+j	雑言	zogon	foul language
+e	zodiac	zodiac	2 meanings
+e	zombie	zombie	1 meaning
+e	zongdu	zongdu	1 meaning
+e	zongzi	zongzi	1 meaning
+e	zoom in	zoomin	2 meanings
+e	zouave	zouave	1 meaning
+j	ぞっけん	zokken	俗見: laymen's opinion
+j	ぞっこん	zokkon	madly in love
+j	ぞめく	zomeku	浮かれてさわぐ。
+j	ぞろめ	zorome	ぞろ目: (gambling, idiomatic…
+j	ぞろ目	zorome	doubles: two of the same …
+j	ぞんざい	zonzai	rude, impolite, curt
+j	俗世	zokuse	the (secular) world, eart…
+j	俗事	zokuji	世俗の煩雑なこと。日常の雑多なこと。
+j	俗字	zokuji	a kanji variant that is w…
+j	俗懐	zokkai	名利など世俗的な思い。
+j	俗気	zokuke	vulgarity
+j	俗用	zokuyo	世俗の用事や雑事。
+j	俗界	zokkai	俗人が暮らす世界。俗世間。
+j	俗耳	zokuji	世間の人の耳。
+j	俗見	zokken	laymen's opinion
+j	俗解	zokkai	通俗的な解説や解釈。
+j	俗話	zokuwa	secular speech
+j	俗語	zokugo	common language (as oppos…
+j	俗謡	zokuyo	ある土地でうたわれていた民謡が一般化し、伴奏などが…
+j	俗間	zokkan	俗人の社会。世間。俗世間。
+j	増分	zoubun	変数が増加した量。
+j	増幅	zofuku	amplification
+j	増速	zosoku	加速。
+j	増進	zoshin	increase; enhancement; pr…
+j	増額	zogaku	increase (in an amount of…
+j	增速	zosoku	増速の旧字体表記。
+j	存分	zonbun	to one's heart's content;…
+j	存命	zonmei	being alive
+j	存念	zonnen	いつも忘れずに心中に思っていること。
+j	存慮	zonryo	考え。思慮。存念。
+j	属す	zokusu	
+j	属官	zokkan	官庁に所属する官僚。
+j	属島	zokuto	その国に属する島。
+j	属音	zokuon	西洋の音楽で主音の5度上の音。ドミナント。
+j	憎心	zoshin	憎む気持ち。
+j	族望	zokubo	一族の名誉。
+j	族譜	zokufu	一族の系譜。
+j	続報	zokuho	news that follows another…
+j	続投	zokuto	continuing to pitch in co…
+j	続開	zokkai	中断したものを引き続き開催すること。
+j	蔵する	zosuru	to store away
+j	蔵匿	zotoku	他人に見つからないように隠して置くこと。隠匿。
+j	象亀	zogame	a giant tortoise
+j	賊姦	zokkan	悪者。賊徒。
+j	賊魁	zokkai	賊徒の頭。
+j	贈進	zoshin	差し上げること。
+j	造格	zokaku	instrumental case
+j	造進	zoshin	造って差し上げること。
+j	雑炊	zousui	出し汁や鍋物の汁に飯を入れて煮た料理。
+e	zoisite	zoisite	1 meaning
+e	zoology	zoology	1 meaning
+e	zoom out	zoomout	2 meanings
+e	zootomy	zootomy	1 meaning
+e	zorbing	zorbing	1 meaning
+j	ぞうけつ	zoketsu	増結: addition of train cars
+j	ぞうせつ	zosetsu	増設: expansion
+j	ぞうちく	zochiku	増築: enlarging a building,…
+j	ぞくへん	zokuhen	続編: sequel
+j	ゾウムシ	zomushi	
+j	ゾンカ語	zonkago	ブータンの公用語で、シナ・チベット語族チベット・ビ…
+j	ゾーニング	zoningu	zoning
+j	ゾービング	zobingu	zorbing
+j	俗了	zokuryo	俗化してしまうこと。
+j	俗人	zokujin	layperson, laity (as oppo…
+j	俗名	zokumyo	secular name
+j	俗地	zokuchi	風雅でない俗悪な土地。
+j	俗塵	zokujin	dust of the transient wor…
+j	俗士	zokushi	出家していない在俗の人。
+j	俗姓	zokusho	（ぞくしょう、ぞくせい）僧の出家する前の姓。
+j	俗客	zokkaku	風流を解さない人。
+j	俗悪	zokuaku	vulgar and unpleasant
+j	俗智	zokuchi	俗事に関する智恵。
+j	俗知	zokuchi	俗事に関する智恵。
+j	俗称	zokusho	common name, popular name
+j	俗衆	zokushu	世俗のひとびと。
+j	俗言	zokugen	日常で使われる言葉。俗語。
+j	俗論	zokuron	世俗の議論や意見。
+j	俗諺	zokugen	proverb; popular saying
+j	像関数	zokansu	ラプラス変換をℒ[f(x)](x)=F(s)と書い…
+j	増刷	zosatsu	additional printing
+j	増加量	zokaryo	
+j	増殖	zoshoku	increase, propagation, mu…
+j	増築	zochiku	addition to a building
+j	増結	zoketsu	addition of train cars
+j	増血	zoketsu	体の中の血液を増やすこと。
+j	増設	zosetsu	adding facilities or equi…
+j	増長天	zojoten	Virūḍhaka
+j	存じる	zonjiru	to think, feel, know
+j	存心	zonshin	inner thoughts
+j	属名	zokumei	generic name
+j	属国	zokkoku	他の国の支配下にある国。
+j	属州	zokushu	古代ローマの行政区分で、イタリア半島以外の地域に設…
+j	属性	zokusei	attribute; property; qual…
+j	属星	zokusho	人生を支配する星。生年によってきまり生涯を支配する…
+j	属格	zokkaku	genitive case
+j	属領	zokuryo	dependency
+j	屬名	zokumei	
+j	族人	zokujin	一族の人々。一門の人。
+j	族制	zokusei	家族や氏族などの集団に関する制度。
+j	族称	zokusho	かつての国民の身分上の呼称。華族、士族など。
+j	族群	zokugun	ethnic group
+j	族長	zokucho	the head of a family or c…
+j	粟粒	zokuryu	粟の粒状の実。
+j	続生	zokusei	連続して生まれたり、起きたりすること。
+j	続紙	zokushi	折り本などに使用するために継ぎ合わせた紙。継ぎ紙。
+j	続編	zokuhen	sequel
+j	臓物	zomotsu	offal
+j	象牙色	zogeiro	象牙のようなやや黄色がかった白色。アイボリー。
+j	象皮病	zohibyo	
+j	象皮症	zohisho	
+j	象虫	zomushi	a weevil
+j	賊勢	zokusei	賊軍の勢力。
+j	賊地	zokuchi	賊徒が出没する土地。賊徒が支配する土地。
+j	賊軍	zokugun	rebel army
+j	贈与税	zoyozei	生きている人からの贈与により移転する財産に対して課…
+j	贈与者	zoyosha	財産を贈与した者。
+j	贈物	zomotsu	贈り物。進物。
+j	贈答品	zotohin	gift, present
+j	造卵器	zoranki	シダ植物やコケ植物などの配偶体に見られる雌性の生殖…
+j	造影剤	zoeizai	レントゲン検査などの際、臓器などの像を解るようにエ…
+j	造精器	zoseiki	シダ植物やコケ植物などの配偶体に見られる雄性の生殖…
+j	造血	zoketsu	体内で血液を造り出すこと。
+j	造設	zosetsu	施設、設備などを造り、設置すること。
+j	造説	zosetsu	根拠のない作り話。
+e	zoolatry	zoolatry	1 meaning
+e	zoom lens	zoomlens	1 meaning
+e	zoonosis	zoonosis	1 meaning
+j	ぞうかする	zokasuru	
+j	ぞくぞく	zokuzoku	shiveringly, with a shudd…
+j	ぞっき本	zokkibon	Books sold at extremely l…
+j	ぞろぞろ	zorozoro	in (large) groups
+j	ぞわぞわ	zowazowa	騒がしく音を立てるさま。
+j	ゾディアック	zodiakku	
+j	俗学	zokugaku	世間で行われる通俗的な学問。
+j	俗心	zokushin	名利や愛憎など世俗的なものに惹かれる心。
+j	増加する	zokasuru	
+j	増加分	zoukabun	
+j	増幅器	zofukuki	amplifier
+j	存分に	zonbunni	fully
+j	属する	zokusuru	entrust
+j	族親	zokushin	親族。一族。一門。
+j	続々	zokuzoku	successively, one after a…
+j	続伸	zokushin	株価などが前の営業日から続けて上がること。
+j	続審	zokushin	下級審が上級審へ送った訴訟事件について上級審でも継…
+j	続柄	zokugara	「つづきがら」の俗な言い方。
+j	続続	zokuzoku	絶え間なく続くさま。
+j	続落	zokuraku	continued falling
+j	蔵書票	zoshohyo	
+j	象牙の塔	zogenoto	
+j	賊心	zokushin	害を加えようとする心。
+j	賊臣	zokushin	反逆の家臣。
+j	贈収賄	zoshuwai	giving and/or accepting b…
+j	造出	zoshutsu	造り出すこと。
+j	造園学	zoengaku	造園について研究する学問。
+j	造船所	zosensho	船舶の建造のほか修理、改造などを行う工場。
+j	造酒司	zoshushi	a 律令 (ritsuryō) position …
+e	zookeeper	zookeeper	1 meaning
+e	zoologist	zoologist	1 meaning
+e	zoophilia	zoophilia	1 meaning
+e	zoophobia	zoophobia	1 meaning
+e	zoroaster	zoroaster	1 meaning
+j	ゾウノリンゴ	zonoringo	
+j	ゾウリムシ	zorimushi	「草履虫」の学術的表記。
+j	ゾロアスター	zoroasuta	Zoroaster (Zarathustra)
+j	俗物	zokubutsu	cheap thing; cheap person
+j	俗説	zokusetsu	popular belief, common sa…
+j	増大する	zodaisuru	
+j	増悪犯罪	zoohanzai	「ヘイトクライム」を参照。
+j	憎悪犯罪	zoohanzai	
+j	憎悪表現	zoohyogen	hate speech
+j	続発	zokuhatsu	続けざまに起きること。
+j	続行する	zokkosuru	
+j	草履虫	zorimushi	paramecium
+j	造山運動	zozanundo	大山脈や弧状列島を形成するような地殻変動。
+j	雑巾掛け	zokingake	wiping down the floor wit…
+e	zodiac sign	zodiacsign	1 meaning
+e	zombie star	zombiestar	1 meaning
+e	zoological	zoological	2 meanings
+j	ぞうあざらし	zoazarashi	アザラシ科ゾウアザラシ属に属する哺乳類の総称。
+j	ゾウアザラシ	zoazarashi	象海豹の学術的表記。
+j	ゾーンにはいる	zonnihairu	to get in the zone
+j	ゾーンに入る	zonnihairu	集中力が高まることで、感覚がとぎすまされて最高の状…
+j	存じ上げる	zonjiageru	to know, to think
+j	続出	zokushutsu	appearing one after anoth…
+j	臓器提供	zokiteikyo	
+j	臓器移植	zokiishoku	病気やけがなどにより失われたり、機能が著しく低下し…
+j	象海豹	zoazarashi	an elephant seal
+j	象牙海岸	zogekaigan	synonym of コートジボワール (Kōto…
+j	象牙質	zogeshitsu	dentin
+j	贈呈する	zouteisuru	
+j	造幣局	zoheikyoku	mint (money-producing bui…
+j	造物主	zobutsushu	宇宙にある総ての物を創造した者。天帝。真宰。
+j	造船技師	zosengishi	船舶の設計、建造、修理、保守などを行う技術者。造船…
+j	造語成分	zogoseibun	（最広義）複合語を構成する語彙の部分。
+j	ぞっとしない	zottoshinai	unappealing, not desirabl…
+j	俗ラテン語	zokuratengo	Vulgar Latin
+j	俗物の	zokubutsuno	
+j	増幅率	zofukuritsu	利得。
+j	増税メガネ	zozeimegane	Fumio Kishida, Prime Mini…
+j	続成作用	zokuseisayo	堆積物が固結して堆積岩になるまでの化学的、物理的な…
+j	象牙鴎	zougekamome	
+j	造園学者	zoengakusha	造園学を研究する科学者。
+j	雑木林	zokibayashi	様々な樹木（雑木）が生い茂る林。
+j	ゾロアスター教	zoroasutakyo	Zoroastrianism
+j	ゾーン運賃制	zonunchinsei	路線をいくつかのゾーンに分け、それを超えた数によっ…
+j	増進させる	zoshinsaseru	
+j	造船設備	zosensetsubi	
+j	雑巾絞り	zokinshibori	
+e	zodiacal light	zodiacallight	1 meaning
+e	zoroastrianism	zoroastrianism	1 meaning
+j	ゾロアスター教徒	zoroasutakyoto	ゾロアスター教の信者。
+j	粟粒結核	zokuryukekkaku	miliary tuberculosis
+j	続発症	zokuhatsushiyo	ある疾患を原因として、別の疾患が発症すること。
+j	続縄文時代	zokujomonjidai	北海道で縄文時代に続く時代。本州での弥生時代から古…
+j	憎悪による犯罪	zooniyoruhanzai	
+j	続発感染	zokuhatsukansen	ある感染症にかかっている人が続いて別の感染症にかか…
+e	zoological garden	zoologicalgarden	1 meaning
+j	象牙海岸共和国	zogekaigankyowakoku	synonym of コートジボワール共和国 (K…

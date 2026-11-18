@@ -1,0 +1,108 @@
+k	채	채	a whip, a scourge
+k	책	책	book
+k	챙	챙	모자 끝에 대서 햇볕을 가리는 부분.
+k	채굴	채굴	
+k	채권	채권	채장.
+k	채납	채납	
+k	채널	채널	channel (communications)
+k	채다	채다	to seize, to snatch
+k	채도	채도	saturation of color; colo…
+k	채무	채무	debt; liabilities
+k	채미	채미	Chungcheong, Seoul, and H…
+k	채산	채산	
+k	채색	채색	
+k	채석	채석	
+k	채소	채소	vegetable
+k	채식	채식	
+k	채신	채신	
+k	채심	채심	
+k	채용	채용	recruitment
+k	채원	채원	
+k	채점	채점	
+k	채증	채증	여러 자료나 정보 가운데에서 증거가 될 만한 …
+k	채집	채집	collection
+k	채찍	채찍	whip
+k	채취	채취	collection
+k	채층	채층	
+k	채칼	채칼	
+k	채택	채택	작품, 의견, 제도 따위를 골라서 다루거나 뽑…
+k	채팅	채팅	chat; chatting (exchange …
+k	채플	채플	chapel
+k	책갑	책갑	
+k	책동	책동	scheme, plotting, machina…
+k	책들	책들	
+k	책략	책략	trick
+k	책력	책력	일 년 동안의 월일, 해와 달의 운행, 월식과…
+k	책망	책망	reproach, rebuke
+k	책명	책명	책의 이름.
+k	책모	책모	
+k	책방	책방	bookstore, bookshop
+k	책상	책상	desk
+k	책응	책응	mutual aid; coordinated m…
+k	책임	책임	responsibility, duty
+k	책자	책자	books; publications
+k	책장	책장	bookshelf, bookcase
+k	챗봇	챗봇	채팅을 하는 로봇.
+k	챙개	챙개	song
+k	채가다	채가다	
+k	채광정	채광정	
+k	채광창	채광창	skylight
+k	채권자	채권자	
+k	채리다	채리다	Jeolla dialect, Chungcheo…
+k	채무자	채무자	debtor
+k	채석장	채석장	quarry
+k	채소밭	채소밭	vegetable garden, truck g…
+k	채소즙	채소즙	vegetable juice (liquid f…
+k	채송화	채송화	(학명: Portulaca grandiflor…
+k	채우는	채우는	
+k	채우다	채우다	to fill; to cause to be f…
+k	채종유	채종유	rapeseed oil
+k	채지다	채지다	
+k	채치기	채치기	(필드하키) 양편 선수들이 공을 두고 동시에 …
+k	채팅방	채팅방	
+k	채플린	채플린	
+k	책가방	책가방	schoolbag; (school) backp…
+k	책갈피	책갈피	bookmark (a thin strip of…
+k	책꽂이	책꽂이	책을 세워 가지런히 꽂을 수 있게 만든 선반.
+k	책받침	책받침	book stand
+k	책벌레	책벌레	bookworm (any of various …
+k	책씻이	책씻이	a celebration held by stu…
+k	책임감	책임감	a sense of responsibility
+k	책임자	책임자	person in charge, person …
+k	책하다	책하다	to blame; to reproach; to…
+k	책허파	책허파	
+k	챌린저	챌린저	challenger
+k	챌린지	챌린지	an attempt; an endeavor; …
+k	챔피언	챔피언	champion
+k	챙기다	챙기다	to collect or pack
+k	채눈종이	채눈종이	'모눈종이'의 북한말.
+k	채무키다	채무키다	
+k	채색하다	채색하다	to colour, to apply colou…
+k	채식주의	채식주의	vegetarianism
+k	채양안경	채양안경	'선글라스'의 북한말.
+k	채용하다	채용하다	recruit; hire
+k	채우키다	채우키다	
+k	채진목속	채진목속	
+k	채택되다	채택되다	to be chosen; to be adopt…
+k	채택하다	채택하다	
+k	채팅하다	채팅하다	인터넷의 특정 사이트에서 제공하는 일정한 공간…
+k	책망하다	책망하다	to reproach, to rebuke
+k	책응하다	책응하다	to mutually support; to s…
+k	책임지다	책임지다	to take responsibility, t…
+k	챔피언십	챔피언십	
+k	챙궈지다	챙궈지다	
+k	챙피하다	챙피하다	
+k	채널 제도	채널 제도	
+k	채무 초과	채무 초과	
+k	채소 주스	채소 주스	vegetable juice (beverage…
+k	채식주의의	채식주의의	
+k	채식주의자	채식주의자	vegetarian (person who do…
+k	채찍질하다	채찍질하다	to whip
+k	책임 있는	책임 있는	
+k	책상다리하는	책상다리하는	
+k	책상다리하다	책상다리하다	to sit cross-legged
+k	책의 고정축	책의 고정축	
+k	책임을 지다	책임을 지다	
+k	책임이 없는	책임이 없는	
+k	책임이 있는	책임이 있는	
+k	책임이 있다	책임이 있다	

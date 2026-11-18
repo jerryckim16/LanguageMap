@@ -1,0 +1,362 @@
+e	li	li	2 meanings
+e	lid	lid	1 meaning
+e	lie	lie	4 meanings
+e	lip	lip	1 meaning
+e	-like	like	1 meaning
+e	-ling	ling	1 meaning
+e	liar	liar	1 meaning
+e	lich	lich	1 meaning
+e	lick	lick	3 meanings
+e	lien	lien	1 meaning
+e	life	life	9 meanings
+e	lift	lift	1 meaning
+e	like	like	8 meanings
+e	lily	lily	2 meanings
+e	lima	lima	1 meaning
+e	limb	limb	2 meanings
+e	lime	lime	3 meanings
+e	limp	limp	1 meaning
+e	line	line	6 meanings
+e	link	link	4 meanings
+e	lint	lint	2 meanings
+e	linz	linz	1 meaning
+e	lion	lion	1 meaning
+e	lipa	lipa	1 meaning
+e	lira	lira	2 meanings
+e	lisa	lisa	1 meaning
+e	list	list	3 meanings
+e	live	live	5 meanings
+e	liège	lige	1 meaning
+e	liana	liana	1 meaning
+e	libra	libra	2 meanings
+e	libre	libre	1 meaning
+e	libya	libya	1 meaning
+e	lifer	lifer	1 meaning
+e	liger	liger	1 meaning
+e	light	light	12 meanings
+e	liken	liken	1 meaning
+e	lilac	lilac	3 meanings
+e	lilin	lilin	1 meaning
+e	lille	lille	1 meaning
+e	limba	limba	1 meaning
+e	limbo	limbo	3 meanings
+e	limit	limit	3 meanings
+e	linen	linen	2 meanings
+e	liner	liner	1 meaning
+e	linux	linux	1 meaning
+e	linyi	linyi	1 meaning
+e	lipid	lipid	1 meaning
+e	liszt	liszt	1 meaning
+e	litas	litas	1 meaning
+e	litre	litre	1 meaning
+e	liver	liver	2 meanings
+e	libido	libido	2 meanings
+e	lichen	lichen	1 meaning
+e	ligand	ligand	1 meaning
+e	ligase	ligase	1 meaning
+e	likely	likely	1 meaning
+e	liking	liking	1 meaning
+e	lilian	lilian	1 meaning
+e	lilith	lilith	1 meaning
+e	limpet	limpet	1 meaning
+e	linden	linden	1 meaning
+e	line up	lineup	1 meaning
+e	lining	lining	2 meanings
+e	linker	linker	2 meanings
+e	lintel	lintel	1 meaning
+e	lipase	lipase	1 meaning
+e	liquid	liquid	1 meaning
+e	liquor	liquor	1 meaning
+e	lisbon	lisbon	1 meaning
+e	listen	listen	4 meanings
+e	litmus	litmus	1 meaning
+e	litter	litter	4 meanings
+e	little	little	3 meanings
+e	lively	lively	1 meaning
+e	living	living	8 meanings
+e	lizard	lizard	1 meaning
+e	liaison	liaison	1 meaning
+e	liangpi	liangpi	1 meaning
+e	liberal	liberal	5 meanings
+e	liberia	liberia	1 meaning
+e	liberty	liberty	2 meanings
+e	library	library	4 meanings
+e	license	license	3 meanings
+e	lie down	liedown	1 meaning
+e	liepāja	liepaja	1 meaning
+e	lighten	lighten	1 meaning
+e	lighter	lighter	1 meaning
+e	lignite	lignite	1 meaning
+e	liguria	liguria	1 meaning
+e	lijiang	lijiang	1 meaning
+e	likable	likable	1 meaning
+e	limeade	limeade	1 meaning
+e	limited	limited	1 meaning
+e	limpkin	limpkin	1 meaning
+e	lingala	lingala	1 meaning
+e	lingual	lingual	1 meaning
+e	lingzhi	lingzhi	1 meaning
+e	linkrot	linkrot	1 meaning
+e	lion cub	lioncub	1 meaning
+e	lioness	lioness	1 meaning
+e	lip balm	lipbalm	1 meaning
+e	lip sync	lipsync	1 meaning
+e	lip-sync	lipsync	1 meaning
+e	lipetsk	lipetsk	1 meaning
+e	liquefy	liquefy	1 meaning
+e	liqueur	liqueur	1 meaning
+e	literal	literal	3 meanings
+e	lithium	lithium	1 meaning
+e	liturgy	liturgy	1 meaning
+e	liuzhou	liuzhou	1 meaning
+e	livonia	livonia	1 meaning
+e	livorno	livorno	1 meaning
+e	liaoning	liaoning	1 meaning
+e	libation	libation	2 meanings
+e	liberate	liberate	1 meaning
+e	libretto	libretto	2 meanings
+e	licensed	licensed	2 meanings
+e	licorice	licorice	2 meanings
+e	lie group	liegroup	1 meaning
+e	life belt	lifebelt	1 meaning
+e	life raft	liferaft	1 meaning
+e	lifeboat	lifeboat	1 meaning
+e	lifeform	lifeform	1 meaning
+e	lifehack	lifehack	1 meaning
+e	lifeless	lifeless	1 meaning
+e	lifeline	lifeline	1 meaning
+e	lifelong	lifelong	1 meaning
+e	lifetime	lifetime	1 meaning
+e	lifework	lifework	1 meaning
+e	ligament	ligament	1 meaning
+e	ligature	ligature	1 meaning
+e	light pen	lightpen	1 meaning
+e	lighting	lighting	1 meaning
+e	like that	likethat	1 meaning
+e	likewise	likewise	2 meanings
+e	lilongwe	lilongwe	1 meaning
+e	lima bean	limabean	1 meaning
+e	limekiln	limekiln	1 meaning
+e	limerick	limerick	2 meanings
+e	limonene	limonene	1 meaning
+e	limonite	limonite	1 meaning
+e	limousin	limousin	1 meaning
+e	lingerie	lingerie	1 meaning
+e	linguine	linguine	1 meaning
+e	linguist	linguist	2 meanings
+e	linoleum	linoleum	1 meaning
+e	linstock	linstock	1 meaning
+e	lionfish	lionfish	1 meaning
+e	lip gloss	lipgloss	1 meaning
+e	lipogram	lipogram	1 meaning
+e	liposome	liposome	1 meaning
+e	lipstick	lipstick	2 meanings
+e	listener	listener	2 meanings
+e	listless	listless	1 meaning
+e	literacy	literacy	1 meaning
+e	literary	literary	2 meanings
+e	literate	literate	2 meanings
+e	literati	literati	1 meaning
+e	livonian	livonian	2 meanings
+e	liability	liability	1 meaning
+e	liangyuan	liangyuan	1 meaning
+e	liberdade	liberdade	1 meaning
+e	librarian	librarian	2 meanings
+e	libration	libration	2 meanings
+e	lidocaine	lidocaine	1 meaning
+e	lie in wait	lieinwait	1 meaning
+e	life cycle	lifecycle	1 meaning
+e	life stage	lifestage	1 meaning
+e	lifeguard	lifeguard	1 meaning
+e	lifesaver	lifesaver	2 meanings
+e	lifestyle	lifestyle	1 meaning
+e	lifeworld	lifeworld	1 meaning
+e	light blue	lightblue	1 meaning
+e	light bulb	lightbulb	1 meaning
+e	light hour	lighthour	1 meaning
+e	light verb	lightverb	1 meaning
+e	light year	lightyear	1 meaning
+e	lightning	lightning	1 meaning
+e	lightship	lightship	1 meaning
+e	lightwell	lightwell	1 meaning
+e	like terms	liketerms	1 meaning
+e	limelight	limelight	1 meaning
+e	limerence	limerence	1 meaning
+e	limestone	limestone	1 meaning
+e	limewater	limewater	1 meaning
+e	limnology	limnology	1 meaning
+e	limousine	limousine	1 meaning
+e	line drive	linedrive	1 meaning
+e	line graph	linegraph	1 meaning
+e	linearity	linearity	2 meanings
+e	lion dance	liondance	1 meaning
+e	lionheart	lionheart	1 meaning
+e	liquidate	liquidate	2 meanings
+e	liquidity	liquidity	1 meaning
+e	listening	listening	1 meaning
+e	literally	literally	1 meaning
+e	lithiasis	lithiasis	1 meaning
+e	lithuania	lithuania	1 meaning
+e	little auk	littleauk	1 meaning
+e	little boy	littleboy	1 meaning
+e	little owl	littleowl	1 meaning
+e	little toe	littletoe	1 meaning
+e	live album	livealbum	1 meaning
+e	liver spot	liverspot	1 meaning
+e	liverpool	liverpool	2 meanings
+e	liverwort	liverwort	1 meaning
+e	livestock	livestock	1 meaning
+e	lizardman	lizardman	1 meaning
+e	liberalism	liberalism	2 meanings
+e	liberation	liberation	1 meaning
+e	libidinous	libidinous	1 meaning
+e	libreville	libreville	1 meaning
+e	licentious	licentious	2 meanings
+e	lie algebra	liealgebra	1 meaning
+e	lienchiang	lienchiang	1 meaning
+e	lieutenant	lieutenant	2 meanings
+e	life jacket	lifejacket	1 meaning
+e	light novel	lightnovel	1 meaning
+e	lighthouse	lighthouse	1 meaning
+e	lightsaber	lightsaber	1 meaning
+e	lightspeed	lightspeed	1 meaning
+e	likelihood	likelihood	2 meanings
+e	limburgish	limburgish	1 meaning
+e	lime sulfur	limesulfur	1 meaning
+e	limoncello	limoncello	1 meaning
+e	line number	linenumber	1 meaning
+e	lingqijing	lingqijing	1 meaning
+e	linguicism	linguicism	1 meaning
+e	linguistic	linguistic	1 meaning
+e	lint roller	lintroller	1 meaning
+e	lion's share	lionsshare	1 meaning
+e	lip service	lipservice	1 meaning
+e	lip-syncing	lipsyncing	1 meaning
+e	lipreading	lipreading	1 meaning
+e	liquid soap	liquidsoap	1 meaning
+e	literature	literature	3 meanings
+e	lithograph	lithograph	1 meaning
+e	lithuanian	lithuanian	3 meanings
+e	litigation	litigation	1 meaning
+e	litterfall	litterfall	2 meanings
+e	little girl	littlegirl	1 meaning
+e	little rock	littlerock	1 meaning
+e	little tern	littletern	1 meaning
+e	live action	liveaction	1 meaning
+e	live stream	livestream	1 meaning
+e	livelihood	livelihood	1 meaning
+e	livestream	livestream	1 meaning
+e	living hell	livinghell	1 meaning
+e	living room	livingroom	1 meaning
+e	living wage	livingwage	1 meaning
+e	living will	livingwill	1 meaning
+e	lizardfish	lizardfish	1 meaning
+e	lianyungang	lianyungang	1 meaning
+e	lie detector	liedetector	1 meaning
+e	life of riley	lifeofriley	1 meaning
+e	life savings	lifesavings	1 meaning
+e	life science	lifescience	1 meaning
+e	life-or-death	lifeordeath	1 meaning
+e	lift a finger	liftafinger	1 meaning
+e	light source	lightsource	1 meaning
+e	light switch	lightswitch	1 meaning
+e	like it or not	likeitornot	1 meaning
+e	line of sight	lineofsight	1 meaning
+e	line segment	linesegment	1 meaning
+e	linear logic	linearlogic	1 meaning
+e	lingonberry	lingonberry	1 meaning
+e	linguistics	linguistics	1 meaning
+e	lion of judah	lionofjudah	1 meaning
+e	lion tamarin	liontamarin	1 meaning
+e	liplessness	liplessness	1 meaning
+e	liposuction	liposuction	1 meaning
+e	liquid phase	liquidphase	1 meaning
+e	liquidation	liquidation	1 meaning
+e	liquor store	liquorstore	1 meaning
+e	lithography	lithography	1 meaning
+e	lithosphere	lithosphere	1 meaning
+e	litmus paper	litmuspaper	1 meaning
+e	little egret	littleegret	1 meaning
+e	little grebe	littlegrebe	1 meaning
+e	little stint	littlestint	1 meaning
+e	little tokyo	littletokyo	1 meaning
+e	liver cancer	livercancer	1 meaning
+e	livermorium	livermorium	1 meaning
+e	livor mortis	livormortis	1 meaning
+e	liberal party	liberalparty	1 meaning
+e	license plate	licenseplate	1 meaning
+e	life sentence	lifesentence	1 meaning
+e	lightning rod	lightningrod	1 meaning
+e	limbic system	limbicsystem	1 meaning
+e	lingua franca	linguafranca	1 meaning
+e	liquefaction	liquefaction	1 meaning
+e	little finger	littlefinger	1 meaning
+e	live streamer	livestreamer	1 meaning
+e	living fossil	livingfossil	1 meaning
+e	lichenologist	lichenologist	1 meaning
+e	liechtenstein	liechtenstein	1 meaning
+e	life insurance	lifeinsurance	1 meaning
+e	life preserver	lifepreserver	1 meaning
+e	light industry	lightindustry	1 meaning
+e	line of contact	lineofcontact	1 meaning
+e	line of thought	lineofthought	1 meaning
+e	linear algebra	linearalgebra	1 meaning
+e	liquid courage	liquidcourage	1 meaning
+e	liquid crystal	liquidcrystal	1 meaning
+e	little bunting	littlebunting	1 meaning
+e	little emperor	littleemperor	1 meaning
+e	little penguin	littlepenguin	1 meaning
+e	libertarianism	libertarianism	1 meaning
+e	library science	libraryscience	1 meaning
+e	licentiousness	licentiousness	1 meaning
+e	life expectancy	lifeexpectancy	1 meaning
+e	light pollution	lightpollution	1 meaning
+e	limited company	limitedcompany	1 meaning
+e	lined antshrike	linedantshrike	1 meaning
+e	liquid nitrogen	liquidnitrogen	1 meaning
+e	lithium hydride	lithiumhydride	1 meaning
+e	live ammunition	liveammunition	1 meaning
+e	live and let live	liveandletlive	1 meaning
+e	live-in son-in-law	liveinsoninlaw	1 meaning
+e	living language	livinglanguage	1 meaning
+e	licorice extract	licoriceextract	1 meaning
+e	liechtensteiner	liechtensteiner	1 meaning
+e	lightning strike	lightningstrike	1 meaning
+e	lily of the valley	lilyofthevalley	1 meaning
+e	lipstick lesbian	lipsticklesbian	1 meaning
+e	lithuanian hound	lithuanianhound	1 meaning
+e	liberal democracy	liberaldemocracy	1 meaning
+e	life imprisonment	lifeimprisonment	1 meaning
+e	lifestyle disease	lifestyledisease	1 meaning
+e	lighthouse keeper	lighthousekeeper	1 meaning
+e	limited atonement	limitedatonement	1 meaning
+e	lingua franca nova	linguafrancanova	1 meaning
+e	literary language	literarylanguage	1 meaning
+e	lithium carbonate	lithiumcarbonate	1 meaning
+e	little black dress	littleblackdress	1 meaning
+e	liaodong peninsula	liaodongpeninsula	1 meaning
+e	lick someone's balls	licksomeonesballs	1 meaning
+e	lieutenant colonel	lieutenantcolonel	1 meaning
+e	lieutenant general	lieutenantgeneral	1 meaning
+e	like father, like son	likefatherlikeson	1 meaning
+e	like two peas in a pod	liketwopeasinapod	1 meaning
+e	linear combination	linearcombination	1 meaning
+e	lieutenant governor	lieutenantgovernor	1 meaning
+e	light-emitting diode	lightemittingdiode	1 meaning
+e	liturgical language	liturgicallanguage	1 meaning
+e	liquefied natural gas	liquefiednaturalgas	1 meaning
+e	little red riding hood	littleredridinghood	1 meaning
+e	libertarian socialism	libertariansocialism	1 meaning
+e	libertarian socialist	libertariansocialist	1 meaning
+e	liquid crystal display	liquidcrystaldisplay	1 meaning
+e	like a duck takes to water	likeaducktakestowater	1 meaning
+e	linkage disequilibrium	linkagedisequilibrium	1 meaning
+e	liquefied petroleum gas	liquefiedpetroleumgas	1 meaning
+e	like mother, like daughter	likemotherlikedaughter	1 meaning
+e	limited liability company	limitedliabilitycompany	1 meaning
+e	lithium aluminium hydride	lithiumaluminiumhydride	1 meaning
+e	live with one's wife's family	livewithoneswifesfamily	1 meaning
+e	like shooting fish in a barrel	likeshootingfishinabarrel	1 meaning
+e	little strokes fell great oaks	littlestrokesfellgreatoaks	1 meaning
+e	life is not all beer and skittles	lifeisnotallbeerandskittles	1 meaning
+e	like turkeys voting for christmas	liketurkeysvotingforchristmas	1 meaning

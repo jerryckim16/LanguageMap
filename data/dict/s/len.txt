@@ -1,0 +1,1041 @@
+e	en	en	1 meaning
+j	えん	en	
+j	円	en	a round or circular objec…
+j	冤	en	false charge
+j	園	en	garden, park
+j	圓	en	
+j	媛	en	a beauty, a beautiful wom…
+j	宛	en	as if; just like
+j	延	en	extend, lengthen
+j	怨	en	hate; resent
+j	援	en	pull; draw
+j	沿	en	follow; go along
+j	演	en	develop; evolve
+j	縁	en	fate, destiny
+k	엔	en	yen (currency of Japan)
+e	end	end	6 meanings
+j	えな	ena	afterbirth, the material …
+j	えに	eni	fate
+j	エヌ	enu	The name of the Latin scr…
+j	エノー	eno	
+j	円位	eni	a rank without shortage
+j	厭悪	eno	hatred, dislike, aversion
+j	延応	eno	the En'ō era, 1239-1240
+j	恵奈	ena	a female given name
+j	炎威	eni	夏の厳しい暑さの猛威。
+j	狗	enu	a puppy or dog
+k	에노	eno	
+k	엥	eng	뉘우치거나, 당황하거나, 의견이 다를때 나오는…
+e	enol	enol	1 meaning
+e	envy	envy	2 meanings
+e	enyo	enyo	1 meaning
+e	enza	enza	1 meaning
+j	えんあん	enan	宴安
+j	えんか	enka	演歌, 艶歌: enka, Japanese ba…
+j	えんぎ	engi	
+j	えんこ	enko	円弧: circular arc
+j	えんじゅ	enju	マメ科エンジュ属の落葉高木。学名Styphnolo…
+j	えんそ	enso	塩素: chlorine
+j	えんそう	enso	
+j	エニェ	enye	The name of the Latin scr…
+j	エンカ	enka	エンカウント。
+j	エンコ	enko	「えんこ」のカタカナ表記。
+j	エンター	enta	入ること。加入、加盟すること。
+j	エンド	endo	end
+j	エンドウ	endo	「豌豆」の学術的表記。
+j	偃武	enbu	武器を伏せて用いないこと。世の中が太平になること。
+j	偃臥	enga	腹這いになって寝ること。
+j	円価	enka	日本の通貨である円の貨幣価値。
+j	円光	enko	halo, aureola (luminous c…
+j	円坐	enza	「円座」の別表記。
+j	円堂	endo	平面が六角形以上の多角形の構造をした堂宇。
+j	円座	enza	車座になること。
+j	円弧	enko	circular arc
+j	円影	enei	月。
+j	円景	enei	月。
+j	円状	enjo	円の形状。円形。
+j	円相	enso	丸い形。
+j	円窓	enso	円形の窓。
+j	円筒	ento	筒のうち、断面が円のかたちのもの。
+j	円舞	enbu	たくさんの人が輪のようになっておどること。
+j	円融	enyu	それぞれが個性を保ちながら互いに融和しながら互いに…
+j	円規	enki	丸い形。円形。
+j	円貨	enka	日本円を単位とする貨幣。
+j	円顱	enro	skinhead (someone with a …
+j	冤家	enka	かたき。
+j	冤鬼	enki	冤魂 の類義語。
+j	厭忌	enki	嫌がり、嫌うこと。
+j	厭瘱	enei	静かで奥深いさま。
+j	厭飫	enyo	物事に十分満足すること。また、その状態。
+j	厭魅	enmi	「魘魅」の異表記。
+j	嚥下	enka	swallowing
+j	嚥唾	enda	つばを飲み込むこと。
+j	園児	enji	a kindergartner
+j	園務	enmu	幼稚園、保育園、認定こども園、学園の運営に関連する…
+j	園囿	enyu	植物を生やし、動物を飼育する場所。
+j	園土	endo	soil that is used plantat…
+j	園歌	enka	song of a preschool
+j	圓光	enko	halo, aureola (luminous c…
+j	垣下	enga	朝廷、公卿の邸宅で行われる饗応で正客の相伴をする役。
+j	堰高	enko	堰やダムの高さ。
+j	塩ビ	enbi	ポリ塩化ビニル（ポリ塩化ビニール）の略。合成樹脂（…
+j	塩化	enka	chloride
+j	塩基	enki	a base
+j	塩安	enan	ammonium chloride
+j	塩戸	enko	塩を作る家。
+j	塩湖	enko	salt lake
+j	塩素	enso	chlorine, Cl
+j	塩課	enka	中国で専売の塩に賦課された租税。
+j	婉容	enyo	（女性などが）しとやかなさま。態度がおとなしいさま。
+j	宴遊	enyu	酒宴を開き遊興すること。
+j	宴飫	enyo	酒盛り。酒宴。
+j	宴飲	enin	酒宴。宴会。酒盛り。
+j	崦嵫	enji	太陽の沈む場所。
+j	延々	enen	lasting for a very long t…
+j	延喜	engi	the Engi era 901-923
+j	延安	enan	Yan'an (a city in Shaanxi…
+j	延宝	enpo	the Enpō era, 1673-1681
+j	延延	enen	ずっと長く続くこと。また、そのようなさま。
+j	延引	enin	予定の日時などを延ばすこと。
+j	延期	enki	postponement
+j	延灯	ento	In a military or military…
+j	延納	enno	納税の義務の履行期間を一定期間繰り延べ、年賦で納め…
+j	延道	endo	tunnel
+j	得ない	enai	cannot
+j	怨嗟	ensa	うらみなげくこと。
+j	捐納	enno	かつての中国で金品を納めて官職を買うこと。また、そ…
+j	掩映	enei	(「映」を「蔽」と掛けて)覆い隠すこと。
+j	掩翳	enei	覆い隠すこと。
+j	掩耳	enji	耳を覆うこと。
+j	揜映	enei	(「映」を「蔽」と掛けて)覆い隠すこと。
+j	援交	enko	syllabic abbreviation of …
+j	援助	enjo	assistance, aid
+j	援引	enin	自分の側に引き入れること。味方とすること。
+j	援護	engo	aid; covering; protection…
+j	槐	enju	pagoda tree (Styphnolobiu…
+j	檐楹	enei	軒。柱。
+j	櫩楹	enei	軒。柱。
+j	沿路	enro	道路に沿った場所。沿道。道沿い。
+j	沿道	endo	route
+j	淵映	enei	水に映ること。
+j	演奏	enso	a performance (of music);…
+j	演戯	engi	drama, play (composition)
+j	演技	engi	performance
+j	演歌	enka	enka (a genre of melodram…
+j	演武	enbu	武芸を演じて人に披露すること。
+j	演義	engi	popularization or adaptat…
+j	演者	enja	performer
+j	演能	enno	能を演じること。
+j	演舞	enbu	舞を演じて人に披露すること。
+j	炎上	enjo	going up in flames, to be…
+j	炎夏	enka	暑い夏
+j	炎火	enka	激しく燃え上がる火。
+j	炎炎	enen	炎が激しく燃え上がるさま。
+j	炎裔	enei	南の果て。
+j	炎陽	enyo	暑い夏の太陽。
+j	烟波	enpa	「煙波」の異表記。
+j	烟浪	enro	「煙浪」の異表記。
+j	烟霞	enka	烟と霞。
+j	煙島	ento	island which is in the mi…
+j	煙楼	enro	chimney
+j	煙波	enpa	靄の立ち込めた水面。煙濤。煙浪。
+j	煙浪	enro	煙波。
+j	煙濤	ento	煙波。
+j	煙磴	ento	slope which is in the mis…
+j	煙筒	ento	synonym of 煙突 (entotsu, “…
+j	煙草	enso	synonym of タバコ (tabako, “…
+j	煙道	endo	flue
+j	煙霞	enka	煙と霞。
+j	煙霧	enmu	smoke and fog
+j	燕尾	enbi	swallowtail
+j	燕巣	enso	燕窩。
+j	燕手	ende	歌舞伎で使われるかつらの一種。カラ毛に漆を吹き付け…
+j	燕支	enji	「臙脂」の別表記。
+j	燕窩	enka	edible bird's nest (nest …
+j	燕脂	enji	「臙脂」の別表記。
+j	燕賀	enga	他人の家屋が落成したことを祝うこと。
+j	猿臂	enpi	猿の腕。
+j	筵道	endo	貴人が通る通路に敷く莚。また、それを敷いた通路。
+j	簷楹	enei	軒。
+j	縁坐	enza	「縁座」の別表記。
+j	縁家	enka	縁故がある家。
+j	縁座	enza	重罪を犯した者について本人だけでなく縁のある親族も…
+j	縁成	enjo	一切の物事は因縁により成立していること。
+j	縁故	enko	family relationship, cons…
+j	縁由	enyu	ゆかり。縁故。
+j	縁起	engi	an omen
+j	臙脂	enji	cochineal
+j	艶容	enyo	女性などが艶やかでなまめかしい様子。
+j	艶美	enbi	sensuously beautiful
+j	艶陽	enyo	華やかな晩春の時候。
+j	苑囿	enyu	植物を生やし、動物を飼育する場所。
+j	蜿蜒	enen	meandering, winding
+j	衍字	enji	an extra or superfluous c…
+j	衍盈	enei	満ちて余ること。
+j	讌飲	enin	酒宴。宴会。酒盛り。
+j	豌豆	endo	common pea, Pisum sativum
+j	轅下	enka	牛車の轅の下。
+j	遠交	enko	遠方の国と親交を結ぶこと。
+j	遠因	enin	indirect cause, distant c…
+j	遠図	ento	遠大な謀。
+j	遠寺	enji	遠く離れた寺院。
+j	遠島	ento	island in the distant
+j	遠影	enei	遠くの姿。遠くの影。
+j	遠方	enpo	a far away place, a dista…
+j	遠望	enbo	looking off into the dist…
+j	遠東	ento	Far East (a geographical …
+j	遠泳	enei	主に海で長い距離を泳ぐこと。特に、学校行事などとし…
+j	遠洋	enyo	deep sea; open sea
+j	遠浪	enro	遠方の波。
+j	遠猷	enyu	はるか先まで考慮した謀。
+j	遠瑩	enei	遠くから届く美しい輝き。
+j	遠祖	enso	remote ancestor
+j	遠藤	endo	a surname
+j	遠裔	enei	遠い子孫。遠胄。
+j	遠謀	enbo	はるか先まで考慮した謀。
+j	遠路	enro	long journey
+j	遠遊	enyu	遠出すること。
+j	遠邇	enji	遠くの場所と近くの場所。
+j	遠郊	enko	都市から遠方の郊外。
+j	鉛刀	ento	lead sword
+j	鉛樹	enju	鉛でできた金属樹。
+j	鉛糖	ento	lead(II) acetate; lead su…
+j	鉛華	enka	化粧で使ったおしろい。
+j	閹寺	enji	（君主に近侍する）宦官。
+j	閻老	enro	閻魔。
+j	閻魔	enma	Enma, the Japanese name f…
+j	饜飫	enyo	「厭飫」の異表記。
+j	魘夢	enmu	不吉な夢。恐ろしい夢。悪夢。
+j	魘魅	enmi	呪術により人を呪い殺すこと。
+j	鳶尾	enbi	synonym of 一初 (ichihatsu,…
+j	鹽湖	enko	
+j	鹽素	enso	
+j	黶翳	enei	暗いさま。
+k	에녜	enye	
+k	에녹	enok	
+k	엔나	enna	girl; young girl
+k	엔올	enol	
+e	end up	endup	1 meaning
+e	endow	endow	1 meaning
+e	enema	enema	1 meaning
+e	enemy	enemy	2 meanings
+e	eniwa	eniwa	1 meaning
+e	enjoy	enjoy	2 meanings
+e	ennui	ennui	2 meanings
+e	enoch	enoch	1 meaning
+e	ensue	ensue	1 meaning
+e	enter	enter	2 meanings
+e	entry	entry	5 meanings
+e	entrée	entre	1 meaning
+e	envoy	envoy	1 meaning
+e	enyay	enyay	1 meaning
+j	えなが	enaga	スズメ目エナガ科エナガ属に属する鳥の総称。学名:A…
+j	えのき	enoki	バラ目エノキ属に属する落葉樹の一種。学名:Celt…
+j	えんえき	eneki	演繹: deduction: extending …
+j	えんさん	ensan	塩酸: hydrochloric acid
+j	えんちゅう	enchu	円柱: cylinder; column
+j	えんてん	enten	炎天: hot weather; blazing …
+j	えんない	ennai	園内: within a park
+j	えんりゅう	enryu	延留
+j	エナガ	enaga	スズメ目エナガ科エナガ属に属する鳥の一種。学名:A…
+j	エナジー	enaji	エネルギー。
+j	エニューオー	enyuo	
+j	エノール	enoru	
+j	エンキュー	enkyu	enqueuing
+j	エンジョイ	enjoi	楽しむこと。享楽。
+j	エンジン	enjin	engine (mechanical device)
+j	エンツァ	entsa	
+j	偃師	enshi	人形遣い。傀儡師。
+j	兗州	enshu	Yanzhou (a city in Shando…
+j	円丁	encho	a surname
+j	円内	ennai	円の内側。まるの内側。
+j	円匙	enshi	小型のシャベル。
+j	円周	enshu	circumference
+j	円宗	enshu	「円頓宗」の略。天台宗。
+j	円弾	endan	round shot
+j	円形	enkei	a circular shape
+j	円板	enban	丸い形をした平面の板。
+j	円柱	enchu	cylinder, column
+j	円満	enman	amiable
+j	円点	enten	staccato (articulation ma…
+j	円環	enkan	loop; ring; circle
+j	円盤	enban	disc
+j	円蓋	engai	半球の形状をした天井。ドーム。
+j	円錐	ensui	a cone (solid of revoluti…
+j	円陣	enjin	huddling in a circle; for…
+j	円頂	encho	dome, cupola
+j	円頓	endon	quickly reaching to come …
+j	冤死	enshi	無実の罪で死ぬこと。冤罪で死ぬこと。
+j	冤罪	enzai	miscarriage of justice; f…
+j	冤魂	enkon	無実の罪をかけられ、そのまま死んだ人の亡霊。
+j	厭世	ensei	pessimism; weariness with…
+j	厭人	enjin	他人との付き合いを避ける人。
+j	厭婚	enkon	
+j	厭戦	ensen	weary of war
+j	園丁	entei	gardener
+j	園主	enshu	「園」のつく施設や機関の所有者または代表者。
+j	園内	ennai	within an 園 (en) – park (…
+j	園司	enshi	荘園の下級役人。
+j	園地	enchi	日本の律令制でそれぞれの戸に支給された土地。桑や漆…
+j	園外	engai	庭園の外側。
+j	園庭	entei	synonym of 庭園 (teien, “ga…
+j	園芸	engei	horticulture
+j	園長	encho	person in charge of an 園 …
+j	圓盤	enban	disc
+j	圜視	enshi	目を見張ること。
+j	埏隧	ensui	隧埏。
+j	堰堤	entei	A dam
+j	塩分	enbun	amount of salt, salt (any…
+j	塩商	ensho	中国で塩を販売した業者。
+j	塩沼	ensho	
+j	塩田	enden	salt pan
+j	塩硝	ensho	硝石（硝酸カリウム）。江戸時代、加賀藩での表記。
+j	塩豉	enshi	味噌や納豆など豆類に塩分を加えねかせた食品。
+j	塩酸	ensan	hydrochloric acid
+j	塩醤	ensho	肉の塩漬け。
+j	塩類	enrui	salt (as a category)
+j	婉麗	enrei	容姿や表現が淑やかで美しいこと。
+j	宴会	enkai	banquet
+j	宴水	ensui	平安時代以降、正月中や新嘗祭の後に宮中の清涼殿・殿…
+j	宴私	enshi	（家などで）寛ぐこと。
+j	延久	enkyu	the Enkyū era, 1069-1074
+j	延享	enkyo	the Enkyō era, 1744–1748
+j	延会	enkai	会議や会合などの予定期日を後日に延期すること。
+j	延佇	encho	stopping to go and view
+j	延元	engen	the Engen era, 1336-1340 …
+j	延命	enmei	life extension
+j	延年	ennen	寿命を延ばす（長生きする）こと。
+j	延慶	enkyo	the Enkyō era, 1308–1311
+j	延文	enbun	the Enbun era, 1356-1361 …
+j	延滞	entai	久しく滞ること。
+j	延焼	ensho	spreading (of fires)
+j	延眺	encho	viewing around; viewing e…
+j	延竚	encho	しばらく立ち止まって、眺めること。
+j	延辺	enpen	Yanbian (a Korean autonom…
+j	延長	encho	An extension of length or…
+j	延髄	enzui	medulla oblongata
+j	延齢	enrei	寿命を延ばすこと。
+j	怨刺	enshi	相手を恨み謗ること。
+j	怨咨	enshi	恨み、嘆くこと。怨嗟。
+j	怨恨	enkon	enmity, grudge
+j	怨言	engen	complaint; reproach
+j	怨讐	enshu	恨んで敵とすること。
+j	怨鳥	encho	synonym of ほととぎす
+j	恵庭	eniwa	Eniwa (a city in Ishikari…
+j	捐官	enkan	かつての中国で金品を納めて官職を買うこと。また、そ…
+j	捐金	enkin	財物などを寄付して援助すること。
+j	掩蔽	enpei	cloaking, concealment, st…
+j	掩襲	enshu	不意を狙い襲うこと。
+j	掾史	enshi	下級役人。
+j	援例	enrei	例を引くこと。引例。
+j	援兵	enpei	reinforcements
+j	援軍	engun	military reinforcements, …
+j	柄長	enaga	a vessel or receptacle wi…
+j	檐鈴	enrei	軒につるした風鈴。軒端の風鈴。
+j	沿岸	engan	coast, shore
+j	沿海	enkai	coastal areas; (along the…
+j	沿線	ensen	the location along a rail…
+j	洹水	ensui	洹河。
+j	淵底	entei	深い淵の底。
+j	淵慮	enryo	深慮すること。
+j	淵旨	enshi	奥深い主旨や意味。
+j	淵源	engen	origin, source
+j	淵邃	ensui	邃淵。
+j	淵酔	ensui	state of deep drunkenness
+j	淹漬	enshi	液体に浸すこと。
+j	演台	endai	lectern
+j	演壇	endan	platform, tribune, rostrum
+j	演算	enzan	A procedure for generatin…
+j	演練	enren	dress rehearsal; a rehear…
+j	演繹	eneki	deduction: extending info…
+j	演習	enshu	exercise, drill
+j	演芸	engei	entertainment performance
+j	演藝	engei	
+j	演談	endan	a meeting
+j	演題	endai	演説や講演の題目。
+j	炎天	enten	hot weather; blazing sun …
+j	炎帝	entei	a fire deity
+j	炎暑	ensho	hot summer; sweltering su…
+j	炎症	ensho	inflammation
+j	烟嶂	ensho	「煙嶂」の別表記。
+j	烟水	ensui	煙水の異表記。
+j	焔硝	ensho	「煙硝」の別表記。
+j	煙台	entai	Yantai (a coastal prefect…
+j	煙塵	enjin	煙と塵。
+j	煙害	engai	smoke pollution; damage o…
+j	煙嶂	ensho	霧や霞がかかる険しい峰。
+j	煙弾	endan	smoke bomb
+j	煙散	ensan	煙のように消えて失くなること。
+j	煙死	enshi	火災で煙や有毒ガスを吸ったりして死亡すること。
+j	煙水	ensui	a water surface shrouded …
+j	煙煤	enbai	煤。油煙。
+j	煙爨	ensan	火を使用し炊爨すること。
+j	煙硝	ensho	硝石（硝酸カリウム）。
+j	燕侶	enryo	つれあい。配偶者。
+j	燕泥	endei	mud that is sent by swall…
+j	猿人	enjin	apeman
+j	簷鈴	enrei	「檐鈴」の異表記。
+j	絵の具	enogu	paints, coloring material…
+j	絵具	enogu	「絵の具」の別表記。
+j	縁台	endai	bench
+j	縁生	ensho	すべての存在は因縁により生じること。
+j	縁談	endan	marriage proposal
+j	縁辺	enpen	国、地域の周縁部。
+j	縁遠い	endoi	having little relation; s…
+j	縁類	enrui	婚姻や縁組などにより縁続きとなること。
+j	艶名	enmei	rumor about love affair
+j	艶妾	ensho	艶やかで美しい妾。
+j	艶姿	enshi	ravishing figure
+j	艶文	enbun	love letter
+j	艶書	ensho	love letter
+j	艶称	ensho	褒めること。
+j	艶笑	ensho	艶やかに笑うこと。
+j	艶聞	enbun	a rumour of a love affair
+j	艶詩	enshi	艶かしい詩歌。
+j	艶麗	enrei	容姿や表現が艶やかで美しいこと。
+j	衍文	enbun	interpolation due to misp…
+j	遠人	enjin	遠い場所から来た人。
+j	遠地	enchi	distant land
+j	遠大	endai	grandiose; far-reaching; …
+j	遠天	enten	sky in the distance
+j	遠州	enshu	遠江国^(（とおとうみのくに）)の別称。
+j	遠店	enten	house in the distance
+j	遠征	ensei	expedition, voyage
+j	遠慮	enryo	reserve
+j	遠景	enkei	distant view; distant sce…
+j	遠来	enrai	coming from distant place…
+j	遠水	ensui	far off water; a distant …
+j	遠海	enkai	open seas
+j	遠点	enten	far point
+j	遠眼	engan	synonym of 遠視 (enshi, “fa…
+j	遠称	ensho	distal demonstrative
+j	遠竄	enzan	罪人を遠くの地に流罪とすること。
+j	遠聞	enbun	a distant rumour
+j	遠胄	enchu	遠い子孫。末裔。
+j	遠視	enshi	hyperopia
+j	遠計	enkei	はるか先まで考慮した謀。
+j	遠近	enkin	far and near
+j	遠鐘	ensho	遠くから聞こえる鐘の音。
+j	遠雷	enrai	distant thunder, faraway …
+j	遠類	enrui	血筋が離れた親類。
+j	鉛丹	entan	red lead
+j	鉛分	enbun	lead content
+j	鉛槧	enzan	筆記の道具。
+j	鉛管	enkan	鉛で出来た管。
+j	鉛粉	enpun	鉛を原料とする白色の顔料。かつてはおしろいに使われ…
+j	鉛糸	enshi	重力の方向などを測定するための片方の端に鉛の球を付…
+j	鉛錘	ensui	plumb bob
+j	閹人	enjin	宦官。
+j	鴛侶	enryo	同僚。
+k	에누리	enuri	
+k	에뉘오	enwio	
+k	엔조이	enjoi	enjoyment
+k	엔진	enjin	engine
+k	엔터	enteo	
+k	엣날	ennal	
+k	엥고	enggo	
+e	enamel	enamel	2 meanings
+e	encode	encode	2 meanings
+e	encore	encore	1 meaning
+e	ending	ending	1 meaning
+e	endure	endure	3 meanings
+e	energy	energy	3 meanings
+e	engels	engels	1 meaning
+e	engine	engine	2 meanings
+e	enigma	enigma	2 meanings
+e	enlist	enlist	1 meaning
+e	enmity	enmity	1 meaning
+e	enough	enough	4 meanings
+e	enrage	enrage	1 meaning
+e	enrich	enrich	1 meaning
+e	enroll	enroll	1 meaning
+e	ensete	ensete	1 meaning
+e	ensign	ensign	1 meaning
+e	entice	entice	1 meaning
+e	entire	entire	1 meaning
+e	entity	entity	1 meaning
+e	entomo-	entomo	1 meaning
+e	enzyme	enzyme	1 meaning
+j	えにし	enishi	因縁、ゆかり、特に男女の仲に用いられる。
+j	えんきり	enkiri	縁切り: separation, divorce,…
+j	えんそうか	ensoka	
+j	えんそく	ensoku	遠足: excursion
+j	えんぷく	enpuku	艶福: success in love
+j	えんまく	enmaku	煙幕: smokescreen
+j	エンゲージ	engeji	「婚約」に関する語を造る。
+j	エンコーダー	enkoda	
+j	エンコード	enkodo	符号化すること。
+j	エンジェル	enjeru	angel
+j	エンスト	ensuto	engine stall
+j	エンセーテ	ensete	
+j	エンゼル	enzeru	angel
+j	エンタメ	entame	syllabic abbreviation of …
+j	エンターキー	entaki	キーボードで改行や確定を行う少し大きめのキー。
+j	エンディアン	endian	複数バイトにわたるデータを格納する順序。バイトオー…
+j	エントリ	entori	
+j	エントリー	entori	registering on competitor…
+j	エンバク	enbaku	「燕麦」の学術的表記。
+j	エンバグ	enbagu	enbugging; introduction o…
+j	エンプティー	enputi	空の、中身の無い。
+j	エンペラー	enpera	帝王。皇帝。
+j	偃息	ensoku	横になり休むこと。
+j	円タク	entaku	taxi that run in the city…
+j	円卓	entaku	a round table
+j	円安	enyasu	weak or cheap yen; yen de…
+j	円寂	enjaku	涅槃。
+j	円建て	endate	denominated in yen; yen-d…
+j	円心	enshin	center of a circle
+j	円熟	enjuku	maturity, ripeness (of so…
+j	円相場	ensoba	yen exchange rate
+j	円石	enseki	円い石。
+j	円礫	enreki	砕屑から時間が経って球形に近くなった礫。
+j	円覚	engaku	円満な悟り。本覚。
+j	円館	endate	a surname
+j	円高	endaka	a valuable yen in relatio…
+j	厭悪感	enokan	
+j	厭足	ensoku	「饜足」の異表記。
+j	園宅	entaku	garden and house
+j	堰塞	ensoku	流水をせきとめること。
+j	塩化銅	enkado	銅が塩素と化合してできる物質。組成の違いにより、塩…
+j	塩析	enseki	有機化合物などの溶質に大量の塩を加え、溶質を析出さ…
+j	塩漬	enseki	食肉加工品で原材料に食塩や調味料などを加え、漬け込…
+j	宴席	enseki	banquet, feast, dinner pa…
+j	宴楽	enraku	酒宴を開いて楽しむこと。また、その酒宴。
+j	延伸	enshin	postponement of time
+j	延徳	entoku	the Entoku era, 1489-1492
+j	怨心	enshin	相手を恨む心。恨み。
+j	掩撃	engeki	sneak attack, surprise at…
+j	援デリ	enderi	
+j	沿革	enkaku	history, development, evo…
+j	淹数	ensaku	遅いことと速いこと。遅いか速いか。速度の大小。
+j	淹速	ensoku	遅いことと速いこと。遅いか速いか。速度の大小。
+j	演じる	enjiru	play a part, perform
+j	演ずる	enzuru	
+j	演劇	engeki	theatrical play
+j	演奏家	ensoka	performer, player
+j	演目	enmoku	program
+j	炎毒	endoku	suffering from heat
+j	煙客	enkaku	霞を食べて生きるとされる仙人。
+j	煙幕	enmaku	a smokescreen
+j	煙毒	endoku	排煙に含まれる有毒な物質。
+j	燕尾鸛	enbiko	maguari stork, Ciconia ma…
+j	燕石	enseki	紛い物。
+j	燕雀	enjaku	swallows and sparrows
+j	燕麦	enbaku	oats (Avena sativa)
+j	筵席	enseki	敷物。座敷。
+j	絵日記	enikki	a diary with illustration…
+j	縁側	engawa	open-air veranda, balcony…
+j	縁切り	enkiri	severing off connections …
+j	縁戚	enseki	親戚。親類。
+j	縁石	enseki	synonym of 縁石 (fuchiishi,…
+j	縁覚	engaku	師につくことなく（仏の教えによらず）十二因縁の理法…
+j	艶福	enpuku	success in love
+j	艷福	enpuku	success in love
+j	遠国	engoku	都から遠く離れた国又は地域。
+j	遠心	enshin	centrifuge (the act of pu…
+j	遠戚	enseki	a distant relative, one's…
+j	遠足	ensoku	excursion
+j	遠過去	enkako	
+j	遠隔	enkaku	distant
+j	鉛毒	endoku	lead poisoning
+j	鉛白	enpaku	塩基性炭酸鉛を成分とする白色顔料。かつては白粉とし…
+j	閻魔堂	enmado	閻魔とその眷属を本尊する堂宇。
+j	饜足	ensoku	満足すること。
+k	에너지	eneoji	energy
+e	en homme	enhomme	1 meaning
+e	en route	enroute	2 meanings
+e	encoder	encoder	1 meaning
+e	encrypt	encrypt	1 meaning
+e	end user	enduser	1 meaning
+e	endemic	endemic	1 meaning
+e	endgame	endgame	1 meaning
+e	endless	endless	1 meaning
+e	endonym	endonym	1 meaning
+e	endorse	endorse	1 meaning
+e	engaged	engaged	2 meanings
+e	england	england	1 meaning
+e	english	english	4 meanings
+e	engrave	engrave	1 meaning
+e	enlarge	enlarge	1 meaning
+e	enqueue	enqueue	1 meaning
+e	enslave	enslave	1 meaning
+e	entrail	entrail	1 meaning
+e	entropy	entropy	2 meanings
+e	envelop	envelop	1 meaning
+e	envious	envious	1 meaning
+e	enûma eliš	enmaeli	1 meaning
+j	えんぎしゃ	engisha	演技者: a performer, an actor
+j	えんざんき	enzanki	演算機: processor
+j	えんそうしゃ	ensosha	
+j	えんとつ	entotsu	煙突: chimney, smokestack
+j	えんぴつ	enpitsu	
+j	エナジーバー	enajiba	
+j	エナドリ	enadori	「エナジードリンク」の略。
+j	エナメル	enameru	ガラス質の釉。ホーロー。
+j	エネルギー	enerugi	energy
+j	エノク語	enokugo	
+j	エンジニア	enjinia	engineer, a person qualif…
+j	エンディング	endingu	ending, especially of a b…
+j	エンデューロ	endyuro	enduro
+j	エンプロイー	enpuroi	従業員、使用人。
+j	偃月	engetsu	半円の形状をした月。半月。
+j	円刃刀	enjinto	
+j	円口類	enkorui	脊椎動物の中で最も原始的な魚類。ヤツメウナギ目とヌ…
+j	円月	engetsu	円を描いたようなまるい月。満月。
+j	円滑	enkatsu	smooth, trouble-free
+j	円筒形	entokei	断面が円形の筒のような形状。
+j	円関数	enkansu	三角関数の別名。
+j	冤達	entatsu	revealing not guilty
+j	厭世家	enseika	pessimist
+j	厭絶	enzetsu	絶交すること。
+j	厭術	enjutsu	呪い。また、呪いをかける人。
+j	可愛岳	enodake	a mountain in Nobeoka, Mi…
+j	園芸屋	engeiya	植物や園芸品を売る店。植物や園芸品を売る人。
+j	園遊会	enyukai	庭園などの屋外に多くの客を招待し、食事や余興などで…
+j	塩化銀	enkagin	銀が塩素と化合してできる物質。銀の原子価により複数…
+j	塩基性	enkisei	basicity
+j	塩湖市	enkoshi	Salt Lake City (a city, t…
+j	婉曲	enkyoku	euphemistic
+j	宴曲	enkyoku	鎌倉時代から室町時代にかけて貴族や武士の間で宴会な…
+j	延暦	enryaku	the Enryaku era, 783-806
+j	延着	enchaku	arriving late, behind sch…
+j	怨色	enshoku	grudging look
+j	掩体壕	entaigo	敵の攻撃から味方の航空機などを援護し格納するための…
+j	掩絶	enzetsu	隠し、隔離すること。
+j	掩蔽壕	enpeigo	
+j	榎本	enomoto	a surname
+j	榎田	enokida	a surname
+j	沿岸砲	enganho	沿岸に設置する大砲。海岸砲。
+j	淹恤	enjutsu	他国に寂しく留まること。
+j	演奏会	ensokai	concert
+j	演奏者	ensosha	performer, player
+j	演技者	engisha	a performer, an actor
+j	演算機	enzanki	processor
+j	演繹法	enekiho	deductive reasoning
+j	演色	enshoku	colour rendering
+j	演説	enzetsu	speech
+j	演述	enjutsu	自分の思想や主張を口頭や文書で述べること。
+j	炎天下	entenka	炎天の下。焼けつくように暑い空の下。
+j	炎熱	ennetsu	intense heat
+j	炎色	enshoku	flame colour
+j	焔摩天	enmaten	仏教の天部の一人。インドの神話に登場する神で仏教に…
+j	焔色	enshoku	炎の色。
+j	煙突	entotsu	chimney, smokestack
+j	縁を切る	enokiru	
+j	縁日	ennichi	a day believed to have a …
+j	艶色	enshoku	bewitching looks
+j	遠土点	endoten	衛星や探査機がその公転軌道上において土星から最も遠…
+j	遠火点	enkaten	衛星や探査機がその公転軌道上において火星から最も遠…
+j	遠視の	enshino	
+j	遠距離	enkyori	距離が遠いこと。
+j	遠近法	enkinho	perspective (technique of…
+j	鉛直	enchoku	vertical
+j	鉛筆	enpitsu	a pencil (graphite writin…
+j	鉛管工	enkanko	plumber
+j	鉛糖紙	entoshi	paper soaked in lead(II) …
+j	閻浮提	enbudai	Jambudvipa
+j	閻魔天	enmaten	「焔摩天」の別表記。
+j	饜食	enshoku	腹いっぱいに食うこと。
+k	엔시에로	ensiero	
+k	엔터 키	enteoki	
+k	엔트리	enteuri	경기, 경연 따위에 참가하는 사람들의 명부.
+e	enclitic	enclitic	1 meaning
+e	encoding	encoding	1 meaning
+e	encoffin	encoffin	1 meaning
+e	encroach	encroach	1 meaning
+e	endanger	endanger	1 meaning
+e	endeavor	endeavor	3 meanings
+e	endogamy	endogamy	1 meaning
+e	endpaper	endpaper	1 meaning
+e	enfilade	enfilade	1 meaning
+e	engender	engender	1 meaning
+e	engineer	engineer	2 meanings
+e	enneagon	enneagon	1 meaning
+e	enochian	enochian	1 meaning
+e	enormous	enormous	1 meaning
+e	enricher	enricher	1 meaning
+e	ensemble	ensemble	2 meanings
+e	enter key	enterkey	1 meaning
+e	enthalpy	enthalpy	1 meaning
+e	enthesis	enthesis	1 meaning
+e	enthrone	enthrone	1 meaning
+e	entirely	entirely	1 meaning
+e	entrance	entrance	2 meanings
+e	entryway	entryway	1 meaning
+e	envelope	envelope	2 meanings
+e	enviable	enviable	1 meaning
+j	えんそうする	ensosuru	
+j	えんびふく	enbifuku	燕尾服: tailcoat
+j	えんやこら	enyakora	heave-ho
+j	エンカウント	enkaunto	encounter
+j	エンクロージャー	enkuroja	囲い込み運動。
+j	エンゲルス	engerusu	
+j	エンシエロ	enshiero	
+j	エンジャメナ	enjamena	
+j	エンジョイ勢	enjoizei	コンピュータゲームなどで、あまり記録には拘らずに気…
+j	エンタルピー	entarupi	enthalpy
+j	エンチャント	enchanto	an enchantment
+j	エントロピー	entoropi	entropy
+j	エンドウ豆	endomame	
+j	エンドカード	endokado	a still image shown for a…
+j	エンドガミー	endogami	endogamy
+j	エンドニム	endonimu	
+j	エンドユーザ	endoyuza	
+j	エンドユーザー	endoyuza	end user
+j	エンドライン	endorain	主に球技でコートの一番奥に当たる線。
+j	エンドレス	endoresu	終わりがないさま、無限なさま。
+j	エンドロール	endororu	closing credits
+j	エンブレム	enburemu	emblem
+j	エンベロープ	enberopu	envelope
+j	円を描く	enoegaku	to draw a circle, to make…
+j	円グラフ	engurafu	a pie chart
+j	円周長	enshucho	
+j	円形章	enkeisho	
+j	円柱表	enchuhyo	table that indicates volu…
+j	円虫症	enchusho	strongylosis
+j	円錐形	ensuikei	cone shape
+j	円錐面	ensuimen	
+j	円電流	endenryu	circular current
+j	円頓宗	endonshu	Japanese Tiantai
+j	厭世観	enseikan	pessimistic view of life;…
+j	厭人者	enjinsha	misanthrope
+j	嚥下する	engesuru	
+j	園芸師	engeishi	人形菊の栽培を行う職人。
+j	園芸店	engeiten	植物や園芸品を販売する店。
+j	塩基対	enkitsui	base pair
+j	塩素ガス	ensogasu	黄緑色の気体の塩素。
+j	延期する	enkisuru	
+j	延胡索	engosaku	general term for tuberous…
+j	延長戦	enchosen	An extra game of soccer, …
+j	延長線	enchosen	extended line (usually as…
+j	援助する	enjosuru	
+j	江の島	enoshima	Enoshima (an island of Ka…
+j	沿海州	enkaishu	ロシアの日本海沿岸地域。
+j	演出	enshutsu	production (of a movie, p…
+j	演奏する	ensosuru	
+j	演奏記号	ensokigo	楽曲を演奏するため、音符などの他に演奏の強弱や長短…
+j	演技する	engisuru	
+j	演算子	enzanshi	A function or other mappi…
+j	燕出	enshutsu	天子（天皇）が人目を忍び外出すること。
+j	燕尾服	enbifuku	tailcoat
+j	縁者贔屓	enjabiki	nepotism
+j	縁覚乗	enkakujo	仏陀の教えに依らず縁覚の者が自分の立場とする教え。
+j	縁起物	engimono	a talisman, a lucky charm
+j	豌豆豆	endomame	豌豆の種子。食用。
+j	遠冥点	enmeiten	衛星や探査機がその公転軌道上において冥王星から最も…
+j	遠地点	enchiten	apogee
+j	遠天点	ententen	衛星や探査機がその公転軌道上において天王星から最も…
+j	遠心機	enshinki	centrifuge
+j	遠星点	enseiten	惑星などがその公転軌道上において恒星から最も離れる…
+j	遠水点	ensuiten	探査機などがその公転軌道上において水星から最も遠ざ…
+j	遠海点	enkaiten	衛星や探査機がその公転軌道上において海王星から最も…
+j	遠金点	enkinten	探査機などがその公転軌道上において金星から最も遠ざ…
+j	遠銀点	enginten	天体がその公転軌道上において銀河の中心から最も離れ…
+j	遠隔な	enkakuna	
+j	金雀児	enishida	
+j	閻魔大王	enmadaio	閻魔の尊称。
+j	閻魔様	enmasama	閻魔の尊称。
+j	閻魔詣で	enmamode	旧暦の一月十六日と七月十六日に閻魔堂に参詣すること…
+k	에너지바	eneojiba	
+k	에네르기	enereugi	energy
+k	엔지니어	enjinieo	
+k	엔진이어	enjinieo	
+k	엥간히	engganhi	pretty, quite fairly
+k	엥괘이	enggwaei	
+e	en passant	enpassant	2 meanings
+e	enceladus	enceladus	1 meaning
+e	enchanter	enchanter	1 meaning
+e	enchilada	enchilada	1 meaning
+e	enclosure	enclosure	2 meanings
+e	encounter	encounter	2 meanings
+e	encourage	encourage	1 meaning
+e	endlessly	endlessly	1 meaning
+e	endmember	endmember	1 meaning
+e	endocrine	endocrine	1 meaning
+e	endorheic	endorheic	1 meaning
+e	endorphin	endorphin	1 meaning
+e	endoscope	endoscope	1 meaning
+e	endoscopy	endoscopy	1 meaning
+e	endurance	endurance	1 meaning
+e	energetic	energetic	1 meaning
+e	energy bar	energybar	2 meanings
+e	englander	englander	1 meaning
+e	engraving	engraving	1 meaning
+e	enigmatic	enigmatic	2 meanings
+e	enjoyable	enjoyable	1 meaning
+e	enjoyment	enjoyment	1 meaning
+e	ensmallen	ensmallen	1 meaning
+e	enstatite	enstatite	1 meaning
+e	entelechy	entelechy	1 meaning
+e	enteritis	enteritis	1 meaning
+e	entrecôte	entrecote	1 meaning
+e	enumerate	enumerate	2 meanings
+j	えのきたけ	enokitake	ハラタケ目エノキタケ属に属するきのこの一種。学名:…
+j	エネルギーバー	enerugiba	
+j	エノキタケ	enokitake	榎茸: enokitake
+j	エンキューする	enkyusuru	
+j	エンコーディング	enkodingu	
+j	エンタシス	entashisu	entasis
+j	エンターテイナー	entateina	
+j	エンチラーダ	enchirada	an enchilada
+j	エンデミック	endemikku	特定の地域に流行する感染症。
+j	エントランス	entoransu	マンションなどの建物の入口となる場所。
+j	エンドルフィン	endorufin	an endorphin
+j	偃月刀	engetsuto	scimitar
+j	円周角	enshukaku	円周上の1点と、円周上の異なる2点とを結んだ二つの…
+j	円形文字	enkeimoji	
+j	円盤投	enbannage	円盤投げの日本陸上競技連盟における公的表記。
+j	円盤投げ	enbannage	陸上競技の種目のひとつで円盤を飛ばした距離を競う投…
+j	円舞曲	enbukyoku	waltz
+j	厭世的	enseiteki	pessimistic
+j	厭戦的	ensenteki	戦いを嫌うさま。
+j	園芸学	engeigaku	園芸について研究する学問。
+j	塩化水素	enkasuiso	塩素と水素の化合物。分子式HCl。常温においては気…
+j	塩化物	enkabutsu	ある元素が塩素と結びついてできた化合物のこと。塩化…
+j	塩基性塩	enkiseien	水酸化物イオンが残っている塩。
+j	婉曲の	enkyokuno	
+j	婉曲法	enkyokuho	
+j	延命菊	enmeigiku	daisy
+j	延長する	enchosuru	
+j	延長コード	enchokodo	an extension cord
+j	掩蔽する	enpeisuru	
+j	援助交際	enjokosai	enjo kosai; compensated d…
+j	榎茸	enokitake	an edible mushroom, the v…
+j	榎草	enokigusa	Asian copperleaf, Acalyph…
+j	沿岸国	engankoku	国土が海域、水域と接している国家。
+j	演劇人	engekijin	役者や劇作家、演出家などの演劇に携わる人人の総称。
+j	演劇界	engekikai	演劇人の世界。劇壇。劇界。伶界。
+j	演繹的	enekiteki	演繹することで論を展開するさま。
+j	演説家	enzetsuka	
+j	炎上商法	enjoshoho	synonym of 炎上マーケティング
+j	縁の下	ennoshita	縁側の下。
+j	縁故疎開	enkosokai	都市から田舎にある親戚の家に疎開すること。
+j	臙脂虫	enjimushi	
+j	遠交近攻	enkokinko	Collaborate with distant …
+j	遠心顔	enshingao	face where the gap in bet…
+j	遠慮する	enryosuru	
+j	遠木点	enmokuten	衛星や探査機がその公転軌道上において木星から最も遠…
+j	遠隔視	enkakushi	
+j	閻魔参り	enmamairi	旧暦の一月十六日と七月十六日に閻魔堂に参詣すること…
+k	엔지룹다	enjirupda	
+k	엔텔레키	entelleki	
+k	엔트로피	enteuropi	entropy
+e	enactivism	enactivism	1 meaning
+e	enantiomer	enantiomer	1 meaning
+e	encampment	encampment	1 meaning
+e	encryption	encryption	1 meaning
+e	endangered	endangered	1 meaning
+e	engagement	engagement	1 meaning
+e	englishman	englishman	1 meaning
+e	enterprise	enterprise	2 meanings
+e	enthusiasm	enthusiasm	1 meaning
+e	enthusiast	enthusiast	1 meaning
+e	entomology	entomology	1 meaning
+e	entrapment	entrapment	1 meaning
+e	enzymology	enzymology	1 meaning
+j	エニセイ川	eniseigawa	
+j	エンケラドゥス	enkeradusu	土星の第2衛星の固有名。
+j	エンケラドス	enkeradosu	
+j	エンコードする	enkodosuru	
+j	エンセラダス	enseradasu	
+j	エンボリズム	enborizumu	樹木が水不足となった際に道管や仮道管中の柱状となっ…
+j	円仏教	enbutsukyo	
+j	円周率	enshuritsu	pi
+j	円順列	enjunretsu	回転して位置が同じになるものは1通りとして数える順…
+j	厭世主義	enseishugi	pessimism
+j	嚥下障害	engeshogai	dysphagia
+j	塩化水銀	enkasuigin	塩素と水銀の化合物。組成の違いにより、塩化水銀(I…
+j	沿海地方	enkaichiho	
+j	演出家	enshutsuka	演劇・オペラ・舞踊等の舞台作品における演出を行う職…
+j	演劇学	engekigaku	演劇を理論的、実践的に研究する学問。
+j	演算手順	enzantejun	
+j	演算装置	enzansochi	
+j	煙霧質	enmushitsu	an aerosol
+j	縁起直し	enginaoshi	前兆の悪いのを祝い直すこと。
+j	遠心的	enshinteki	思考などが浅い外面に向かおうとするさま。
+j	遠日点	enjitsuten	aphelion
+j	遠隔操作	enkakusosa	remote control, remote op…
+j	鉛直線	enchokusen	重力と平行な方向に伸びる線。鉛直の線。
+k	엥가노쥐	engganojwi	Enggano Island rat (Rattu…
+e	encapsulate	encapsulate	1 meaning
+e	enchantment	enchantment	2 meanings
+e	enchantress	enchantress	2 meanings
+e	enchondroma	enchondroma	1 meaning
+e	endocardium	endocardium	1 meaning
+e	endometrium	endometrium	1 meaning
+e	endothermic	endothermic	1 meaning
+e	energy drink	energydrink	1 meaning
+e	enfeoffment	enfeoffment	1 meaning
+e	engine block	engineblock	1 meaning
+e	engineering	engineering	3 meanings
+e	enneahedron	enneahedron	1 meaning
+e	entablature	entablature	1 meaning
+e	enterotoxin	enterotoxin	1 meaning
+e	entertainer	entertainer	1 meaning
+e	entomophily	entomophily	1 meaning
+e	entrustment	entrustment	1 meaning
+e	enumeration	enumeration	2 meanings
+e	enunciation	enunciation	1 meaning
+e	environment	environment	4 meanings
+j	エヌエイチケイ	enueichikei	Nippon Hoso Kyokai（日本放送協会…
+j	エヌマ・エリシュ	enumaerishu	
+j	エネルギッシュ	enerugisshu	energetic
+j	エノコログサ	enokorogusa	イネ科エノコログサ属の一年草。草丈は40-70cm…
+j	エンゲージリング	engejiringu	婚約指輪。
+j	エンジェルナンバー	enjerunanba	angel number
+j	エンタープライズ	entapuraizu	enterprise; company
+j	エンディングロール	endinguroru	映画などの最後に表示される作製に関わったスタッフの…
+j	エントリーシート	entorishito	application form
+j	エンハーモニック	enhamonikku	古代ギリシアの音楽理論で、四音音列が四分音（またそ…
+j	エンパワーメント	enpawamento	権限を与えること。
+j	エンフォースメント	enfosumento	著作権や、法的な仕組みを実際に守らせるようにするこ…
+j	エンブロイダリー	enburoidari	
+j	エンプティランプ	enputiranpu	「燃料残量警告灯」を参照。
+j	円卓会議	entakukaigi	round table conference
+j	円回内筋	enkainaikin	a pronator teres
+j	円形電流	enkeidenryu	circular current
+j	円熟した	enjukushita	
+j	園芸品種	engeihinshu	
+j	園長室	enchoshitsu	園長が執務を行う専用の部屋。
+j	塩化カリウム	enkakariumu	塩素とカリウムの化合物。化学式KCl。
+j	延長ケーブル	enchokeburu	
+j	演説する	enzetsusuru	
+j	狗尾草	enokorogusa	Grass of species Setaria …
+j	縁起が悪い	engigawarui	
+j	縁起でもない	engidemonai	unlucky, ill-omened
+j	縁起の悪い	enginowarui	
+j	衍曼流爛	enmanryuran	悪が世の中にはびこるさま。「衍曼」はどこまでも広が…
+j	衍漫流爛	enmanryuran	「衍曼流爛」の別表記。
+j	遠地地震	enchijishin	遠方で起きた地震。日本では震央が沿岸から600 k…
+j	遠心分離	enshinbunri	高速で回転させることによって強い遠心力をかけ、混合…
+j	遠心力	enshinryoku	centrifugal force
+j	遠紫外線	enshigaisen	紫外線のうち、波長200ナノメートル未満のもの。
+j	遠隔透視	enkakutoshi	
+e	encephalitis	encephalitis	1 meaning
+e	encirclement	encirclement	1 meaning
+e	encyclopedia	encyclopedia	1 meaning
+e	endocarditis	endocarditis	1 meaning
+e	endometrioma	endometrioma	1 meaning
+e	endoskeleton	endoskeleton	1 meaning
+e	engine driver	enginedriver	1 meaning
+e	englishwoman	englishwoman	1 meaning
+e	enjoy oneself	enjoyoneself	1 meaning
+e	enneadecagon	enneadecagon	1 meaning
+e	entanglement	entanglement	1 meaning
+e	entering tone	enteringtone	1 meaning
+e	enthronement	enthronement	1 meaning
+e	enthusiastic	enthusiastic	1 meaning
+e	entomologist	entomologist	1 meaning
+e	entomophobia	entomophobia	1 meaning
+e	entrepreneur	entrepreneur	2 meanings
+j	エナジードリンク	enajidorinku	energy drink
+j	エンジェルダスト	enjerudasuto	
+j	エンジニアリング	enjiniaringu	engineering, the applicat…
+j	エンジンストップ	enjinsutoppu	engine stall (abbr. エンスト)
+j	エンタブラチュア	entaburachua	entablature
+j	エンターテイメント	entateimento	
+j	エンディング曲	endingukyoku	映画・演劇・放送番組などの締めくくりに流れる歌。
+j	エンペドクレス	enpedokuresu	
+j	エンペラーペンギン	enperapengin	an emperor penguin
+j	兗州巻柏	enshukenpaku	片檜葉の漢名。
+j	円形浮彫	enkeiukibori	
+j	園芸学者	engeigakusha	園芸学を研究する科学者。
+j	塩化物イオン	enkabutsuion	イオン式Cl⁻で表される塩素の陰イオン。
+j	演出する	enshutsusuru	
+j	遠地津波	enchitsunami	遠方で起きた地震や噴火に伴う津波。
+j	遠赤外線	ensekigaisen	far infrared radiation
+j	遠距離恋愛	enkyorirenai	long-distance relationship
+j	遠隔教育	enkakukyoiku	
+k	에너지 음료	eneojieumnyo	
+k	엔셀라두스	enselladuseu	
+k	엔지니어링	enjinieoring	engineering
+k	엔테로톡신	enterotoksin	
+k	엥고롬하다	enggoromhada	
+e	encapsulation	encapsulation	1 meaning
+e	encouragement	encouragement	2 meanings
+e	encyclopedist	encyclopedist	1 meaning
+e	end of the world	endoftheworld	2 meanings
+e	endocrinology	endocrinology	1 meaning
+e	endosymbiosis	endosymbiosis	1 meaning
+e	energetically	energetically	1 meaning
+e	english muffin	englishmuffin	1 meaning
+e	enlightenment	enlightenment	3 meanings
+e	enneacontagon	enneacontagon	1 meaning
+e	enoki mushroom	enokimushroom	1 meaning
+e	entertainment	entertainment	1 meaning
+j	エナクティヴィズム	enakutivizumu	
+j	エナメル質	enamerushitsu	
+j	エンターテインメント	entateinmento	entertainment
+j	円錐曲線	ensuikyokusen	a conic section
+j	円錐角膜	ensuikakumaku	keratoconus
+j	塩化ナトリウム	enkanatoriumu	sodium chloride
+j	婉曲表現	enkyokuhyogen	
+j	沿ドニエストル	endoniesutoru	Transnistria (a geographi…
+j	沿岸警備隊	engankeibitai	a coast guard
+j	演劇学者	engekigakusha	演劇学を研究する科学者。
+j	演算増幅器	enzanzofukuki	operational amplifier
+j	炎上マーケティング	enjomaketingu	marketing method that int…
+j	鉛筆削り	enpitsukezuri	a pencil sharpener
+e	encephalopathy	encephalopathy	1 meaning
+e	endocrine gland	endocrinegland	1 meaning
+e	enfant terrible	enfantterrible	1 meaning
+e	engagement ring	engagementring	1 meaning
+e	english channel	englishchannel	1 meaning
+e	english studies	englishstudies	1 meaning
+j	エネルギーの原理	eneruginogenri	エネルギーの増分がされた仕事に等しいという原理。
+j	エネルギースポット	enerugisupotto	energy spot, location sai…
+j	エネルギー管理員	enerugikanriin	エネルギーを消費する事業所でのエネルギーの監視を行…
+j	エンサイクロペディア	ensaikuropedia	百科事典。
+j	エンテロトキシン	enterotokishin	
+j	円周率の日	enshuritsunohi	
+j	円形禿髪	enkeitokuhatsu	円形脱毛症。
+j	円融滑脱	enyukatsudatsu	円満に物事を進めること。
+j	塩化カルシウム	enkakarushiumu	calcium chloride
+j	塩化カルボニル	enkakaruboniru	一酸化炭素と塩素の化合物。枯れ草のような匂いがある…
+j	塩化酸化物	enkasankabutsu	
+j	沿岸貿易船	enganboekifune	
+j	炎症を起こした	enshoookoshita	
+j	煙突掃除人	entotsusojinin	
+k	엔딩 크레딧	endingkeuredit	
+e	enemy of the state	enemyofthestate	1 meaning
+e	enriched uranium	enricheduranium	1 meaning
+e	enterprise union	enterpriseunion	1 meaning
+e	entrenching tool	entrenchingtool	1 meaning
+j	エネルギー管理士	enerugikanrishi	エネルギーを消費する事業所での省エネルギー化を行う…
+j	円形脱毛症	enkeidatsumosho	alopecia areata
+j	円滑洒脱	enkatsushadatsu	円満に物事を進めること。
+j	円転滑脱	entenkatsudatsu	円満に物事を進めること。
+j	絵に描いた餅の	enikaitamochino	
+j	縁の下蟋蟀	ennoshitakorogi	「竃馬」の別名。
+k	엔테로바이러스	enterobaireoseu	사람과 몇몇 포유류와 관련이 있는 바이러스.
+e	enemy of the people	enemyofthepeople	1 meaning
+e	entrepreneurship	entrepreneurship	1 meaning
+e	environmentalism	environmentalism	1 meaning
+e	environmentalist	environmentalist	1 meaning
+j	エネルギー保存則	enerugihozonsoku	宇宙にあるエネルギーの総量は時間によらず一定である…
+j	円周角の定理	enshukakunoteiri	overset ⌢ABに対して overset ⌢…
+j	円形機関車庫	enkeikikanshakou	
+k	에너지 드링크	eneojideuringkeu	
+k	엔터테인먼트	enteoteinmeonteu	entertainment
+e	enneacontahexagon	enneacontahexagon	1 meaning
+j	円盤投げの選手	enbannagenosenshu	
+j	塩基性酸化物	enkiseisankabutsu	basic oxide
+j	煙突雨燕	entotsuamatsubame	
+e	engine displacement	enginedisplacement	1 meaning
+j	遠隔放射線医療	enkakuhoshaseniryo	
+e	endosymbiotic theory	endosymbiotictheory	1 meaning
+e	entrance examination	entranceexamination	1 meaning
+e	environment variable	environmentvariable	1 meaning
+j	遠水近火を救わず	ensuikinkaosukuwazu	遠水は近火を救わずの別形。
+e	encephalomyocarditis	encephalomyocarditis	1 meaning
+e	engine order telegraph	engineordertelegraph	1 meaning
+e	environmental science	environmentalscience	1 meaning
+j	遠水は近火を救わず	ensuihakinkaosukuwazu	遠くにあるものは急の役に立たないということ。
+e	enough is as good as a feast	enoughisasgoodasafeast	1 meaning
+j	エンターテイメントディレクション	entateimentodirekushon	音楽、舞台などエンターテイメントの演出や制作につい…
+e	end user license agreement	enduserlicenseagreement	1 meaning
+e	environmentally friendly	environmentallyfriendly	1 meaning
+j	縁の下の力持ち	ennoshitanochikaramochi	unsung hero
+k	엔진 오더 텔레그래프	enjinodeotellegeuraepeu	
+j	燕雀安んぞ鴻鵠の志を知らんや	enjakuizukunzokokokunokokorozashioshiranya	an ordinary person cannot…
+j	閻魔大王が下す地獄での判決も金次第では軽くもなる	enmadaiogakudasujigokudenohanketsumokaneshidaidewakarukumonaru	

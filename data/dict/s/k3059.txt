@@ -1,0 +1,3647 @@
+j	す	す	酢, 醋, 酸: vinegar (condime…
+j	候	す	the season, the weather o…
+j	子	す	a child
+j	巣	す	巣, 栖, 窼: nest, hive, den
+j	砂	す	sand; grit
+j	簀	す	sheet made by lining up a…
+j	素	す	unadorned state
+j	酢	す	主成分を酢酸とする、食品に酸味を付与または増強し、…
+j	馬尾	す	a horsetail
+j	すい	すい	酸味がある。すっぱい。
+j	すう	すう	空気を肺に取り込む。呼吸の動作の一つ。
+j	すえ	すえ	終わり。結末。
+j	すか	すか	nonsense; BS; crap
+j	すが	すが	すげの別称。
+j	すき	すき	あることや、人を好むこと。
+j	すぎ	すぎ	ヒノキ科（スギ科）の針葉樹。普通は日本固有種の C…
+j	すく	すく	このむ。
+j	すぐ	すぐ	straight, not bent
+j	すけ	すけ	marks a reason; because
+j	すげ	すげ	イネ目カヤツリグサ科スゲ属に属する多年草の総称。学…
+j	すこ	すこ	福井県で報恩講のさいにふるまわれる赤ずいきを使った…
+j	すさ	すさ	chopped straw mixed with …
+j	すし	すし	日本料理の一つで、酢で調味した飯に、生の魚介類など…
+j	すじ	すじ	筋肉。また、その繊維。
+j	すす	すす	有機物の不完全燃焼により生じる黒色の炭素の微粒子。
+j	すず	すず	中空で中に玉等が入っていて、振ると音が出る鳴物。楽…
+j	すそ	すそ	the bottom edge of a piec…
+j	すた	すた	chopped straw mixed with …
+j	すで	すで	手に何も着用していないこと。
+j	すど	すど	竹などを荒く編んだ枝折り戸。
+j	すな	すな	土壌を構成する岩石の細かい粒子の集合。地質学的には…
+j	すね	すね	ひざより下、くるぶしより上の部分。
+j	すべ	すべ	手段。方法。
+j	すま	すま	スズキ目サバ科スマ属に属する条鰭類の一種。学名:E…
+j	すみ	すみ	charcoal
+j	すむ	すむ	ある家屋等一定の場所・領域において、普段寝起きする…
+j	すら	すら	even
+j	すり	すり	ラ行五段活用「する」の連用形。
+j	する	する	to do; to perform an acti…
+j	すれ	すれ	hypothetical of する (suru,…
+j	すわ	すわ	Ah!
+j	スィ	スィ	
+j	スカ	スカ	ska
+j	スギ	スギ	すぎの学術的表記。
+j	スズ	スズ	元素の一つ錫の学術的表記。詳細はすずを参照。
+j	スト	スト	ストライキ (←英語:strike) の略。同盟罷…
+j	スバ	スバ	Suva (the capital of Fiji)
+j	スパ	スパ	温泉。鉱泉。
+j	スフ	スフ	ステープルファイバー。
+j	スポ	スポ	（主に複合語で）スポーツの略。
+j	スム	スム	ウズベキスタンの通貨。
+j	スレ	スレ	スレッド。
+j	スー	スー	
+j	ス市	すし	
+j	ス市	スし	
+j	ス市	ス市	
+j	ミュンヒハウゼン数	すう	ある数の各桁をそれぞれ各桁の数で累乗した数の和と等…
+j	住み	すみ	
+j	住む	すむ	to live in, to inhabit, t…
+j	修羅	すら	Asura (a demigod of the l…
+j	出	すい	being from a certain place
+j	出家	すけ	priest, bonze
+j	刷り	すり	printing
+j	刷る	する	print
+j	剃る	する	shave facial hair or body…
+j	助	すけ	assistance
+j	吸う	すう	to inhale
+j	吸う	すふ	to inhale
+j	呪師	すし	大きな法会で陀羅尼を唱え加持祈禱をする役の僧侶。
+j	四	すー	four, 4
+j	四	スー	four, 4
+j	墨	すみ	inkstick
+j	好き	すき	liked, likable
+j	好く	すく	to be fond of, to like
+j	寸	すん	a Japanese measurement of…
+j	寿司	すし	sushi: vinegared rice ser…
+j	挿げ	すげ	imperfective and stem (or…
+j	捨つ	すつ	to throw away, to abandon
+j	据う	すう	
+j	掏る	する	to pickpocket
+j	掏摸	すり	pickpocketing
+j	擦る	する	to rub, to scrub
+j	数	すう	number; amount
+j	数多	すた	many, much
+j	末	すえ	a twig or shoot
+j	末	すゑ	a twig or shoot
+j	朱砂	すさ	cinnabar
+j	杉	すぎ	Japanese cedar (Cryptomer…
+j	杉	スギ	Japanese cedar (Cryptomer…
+j	棲む	すむ	
+j	次	すき	next, secondary
+j	水	すい	water (sometimes cold and…
+j	済む	すむ	to finish, to be complete…
+j	漉き	すき	
+j	漉く	すく	to make paper
+j	澄む	すむ	to become clear, to becom…
+j	炭	すみ	charcoal
+j	煤	すす	soot (fine particles of a…
+j	珠水	すず	a female given name
+j	珠洲	すず	Suzu (a city in Ishikawa …
+j	皇	すべ	creator
+j	皇	すめ	creator
+j	砂	すな	sand; grit
+j	空く	すく	become empty (not crowded…
+j	筋	すじ	muscle
+j	筋	すぢ	muscle
+j	篠	すず	bamboo grass
+j	素っ	すっ	prefixes nouns, adjective…
+j	素手	すで	having nothing in hand
+j	素面	すめ	soberness, especially wit…
+j	絇	すが	counter for twisted threa…
+j	脛	すね	the front area of the leg…
+j	膵	すい	pancreas
+j	臑	すね	
+j	菅	すが	a sedge
+j	菅	すげ	a sedge
+j	菅	スゲ	a sedge
+j	術	すべ	technique
+j	裾	すそ	in the formal wear of cou…
+j	諏訪	すは	Suwa (a city in Nagano Pr…
+j	諏訪	すわ	Suwa (a city in Nagano Pr…
+j	透く	すく	to be transparent, can be…
+j	過ぎ	すぎ	imperfective and stem (or…
+j	過ぐ	すぐ	to pass; to go beyond
+j	過重労働	する	
+j	酸い	すい	vinegary, sour
+j	酸し	すし	sour; tasting of vinegar
+j	鈴	すず	a bell, chime
+j	鋤	すき	spade
+j	錐	すい	a pointy tool used to mak…
+j	錫	すず	tin
+j	錫	スズ	tin
+j	陶	すえ	pottery, ceramics
+j	陶	すゑ	pottery, ceramics
+j	隅	すみ	
+j	隙	すき	gap; space
+j	雛	すう	a type of small doll, typ…
+j	須市	すし	
+j	須田	すだ	a surname
+j	須臾	すゆ	a short amount of time, a…
+j	須賀	すが	a surname
+j	駿	すん	a male given name
+j	髄	すね	bone marrow
+j	すあげ	すあげ	食材を衣をつけずに油で揚げること。
+j	すあし	すあし	履物をはかない足。
+j	すあな	すあな	動物や虫が住みかとしてつくったあな。
+j	すいそ	すいそ	
+j	すいた	すいた	porous whetstone
+j	すいて	すいて	
+j	すいば	すいば	ダテ科の多年草。若い葉や茎は食用。
+j	すいふ	すいふ	水夫
+j	すいぼ	すいぼ	
+j	すうし	すうし	数詞: linguistic numeral
+j	すうじ	すうじ	
+j	すえき	すえき	末記: a male given name
+j	すえる	すえる	場所を設けて、その場所から動かないように物を置く。…
+j	すかし	すかし	watermark (design visible…
+j	すかす	すかす	気取る、すます。
+j	すがお	すがお	化粧をしていない顔。
+j	すがた	すがた	身体の形。からだつき。
+j	すがま	すがま	icicle
+j	すがめ	すがめ	squinting
+j	すがる	すがる	頼みの綱としてしっかりつかまる。しがみつく。
+j	すきこ	すきこ	髪結の弟子で、結髪の前に髪を梳く者。梳手。
+j	すきだ	すきだ	
+j	すきま	すきま	物と物の狭いあいだ。
+j	すきみ	すきみ	透き間から見ること。覗き見。
+j	すき間	すき間	
+j	すぎな	すぎな	トクサ目トクサ属に属するしだの一種。学名:Equi…
+j	すぎる	すぎる	事柄が去り行く。
+j	すくい	すくい	「すくう」の連用形。
+j	すくう	すくう	液体や粉などの一部分を手や椀などを用いて下から取る。
+j	すくむ	すくむ	to freeze; to be paralyze…
+j	すくも	すくも	泥炭: peat
+j	すぐに	すぐに	時間をおかずに。極めて短い時間のうちに。ただちに。
+j	すぐり	すぐり	ユキノシタ目スグリ科スグリ属に属する落葉低木、常緑…
+j	すぐる	すぐる	多くの物の中から良い物を選び出す。
+j	すけべ	すけべ	助け平: lewdness; a lecher
+j	すける	すける	手伝う。助ける。
+j	すげえ	すげえ	
+j	すこし	すこし	数量・程度などが少ないさま。
+j	すこる	すこる	to feel affection; to like
+j	すごい	すごい	horrible, dreadful, ghast…
+j	すごか	すごか	ka-ending dialect form of…
+j	すごく	すごく	「すごい」の連用形。
+j	すごす	すごす	時間を費やす。
+j	すごみ	すごみ	凄い感じ。
+j	すごむ	すごむ	相手を威圧するような態度で迫る。
+j	すさび	すさび	逰: travel
+j	すさぶ	すさぶ	to be barren
+j	すさむ	すさむ	失敗などにより精神の状態や行動が乱れる。
+j	すさる	すさる	後ろへ引き下がる。退く。
+j	すざか	すざか	朱雀: Vermilion Bird
+j	すざく	すざく	朱雀: Vermilion Bird
+j	すしや	すしや	寿司を主に出している料理店、料理人。
+j	すじこ	すじこ	さけやますなどの魚の卵巣に入ったままの卵。それを卵…
+j	すじめ	すじめ	面と面が交わる線状の部分。
+j	すじる	すじる	体をねじるように曲げる。
+j	すじ雲	すじ雲	
+j	すすき	すすき	susuki grass, Japanese pa…
+j	すすぎ	すすぎ	「すすぐ」の連用形。
+j	すすぐ	すすぐ	水で汚れを洗い落とす。
+j	すすむ	すすむ	前方へ移動する。
+j	すすめ	すすめ	「すすめる」の未然形及び連用形。
+j	すすり	すすり	啜ること。
+j	すする	すする	音を立てて少しずつ口に吸い込む。
+j	すずき	すずき	スズキ目スズキ科の海水魚。成長するにしたがって呼び…
+j	すずこ	すずこ	鈴子, 錫子, 涼子, 寿々子, 珠洲子, 須々子…
+j	すずし	すずし	精錬していない絹糸または絹織物。
+j	すずな	すずな	蕪の異名。春の七草の一つとしてあげる時の呼称。
+j	すずむ	すずむ	暑さを避け、涼風に当たる。
+j	すずめ	すずめ	スズメ目スズメ科スズメ属の鳥の一種。スズメを参照。
+j	すずり	すずり	inkstone
+j	すその	すその	山麓で緩やかに広がった傾斜地。
+j	すたり	すたり	「すたる」の連用形。
+j	すたる	すたる	廃れる。
+j	すだく	すだく	集まる。群がる。[8世紀～]
+j	すだこ	すだこ	茹でた蛸を酢に漬けた食品。
+j	すだち	すだち	巣立ち: leaving the nest; be…
+j	すだれ	すだれ	細く割いた竹や葦を糸で編んだ遮蔽具。日除けや仕切り…
+j	すっか	すっか	
+j	すっと	すっと	straight, quickly, all of…
+j	すづけ	すづけ	食品を酢に漬けること。また、そのようにした食品。
+j	すてき	すてき	とても好ましい。魅力的。
+j	すてご	すてご	扶養義務のある者が乳幼児をこっそり捨てること。新た…
+j	すてね	すてね	損得を無視して付ける安い値段。
+j	すてみ	すてみ	命を投げ出す覚悟で事に当たること。
+j	すてる	すてる	不要なものを手放す。
+j	すでに	すでに	ある事象が完了しているさま。もう、もはや、とっくに。
+j	すなお	すなお	性格や態度がひねくれておらず、人の言動をそのまま受…
+j	すなご	すなご	砂。
+j	すなば	すなば	砂地。
+j	すねげ	すねげ	hair on the shin; leg hair
+j	すねた	すねた	
+j	すねり	すねり	素練。
+j	すねる	すねる	自分の思うようにいかなくてわざと逆らった態度をとる…
+j	すのこ	すのこ	duckboard (slatted floori…
+j	すばこ	すばこ	鳥類やみつばちなどに営巣させるための箱。
+j	すばる	すばる	スバル: Subaru, the automobi…
+j	すぶた	すぶた	酢豚: sweet-and-sour pork
+j	すぶり	すぶり	練習や鍛錬のため実際に相手を置かずにバットや竹刀、…
+j	すべき	すべき	adnominal of すべし (su-besh…
+j	すべた	すべた	
+j	すべて	すべて	全部、みんな、全体、全体像。
+j	すべり	すべり	すべること。また、その程度。
+j	すべる	すべる	ものの表面をなめらかに移動する。
+j	すぽん	すぽん	
+j	すまい	すまい	様子。出で立ち。
+j	すまう	すまう	to live at, to dwell, to …
+j	すまし	すまし	「すます」の連用形。
+j	すます	すます	to finish, to end, to set…
+j	すまた	すまた	何も着用せず肌が露出したままの股。
+j	すまぬ	すまぬ	
+j	すまん	すまん	I'm sorry
+j	すみお	すみお	澄男, 澄雄, 純男, 澄夫: a male gi…
+j	すみか	すみか	where one lives
+j	すみび	すみび	炭火: a charcoal fire; a pi…
+j	すみや	すみや	澄也: a male given name
+j	すみれ	すみれ	菫, 菫菜, 菫葵: viola plant; V…
+j	すめし	すめし	寿司などに使うための食酢を混ぜた御飯。
+j	すもう	すもう	相撲, 角力: sumo wrestling
+j	すもも	すもも	バラ科サクラ属の樹木、またはその果実。
+j	すもる	すもる	沁みる。
+j	すやき	すやき	釉薬を掛けずに低温の火力で焼くこと。また、それで焼…
+j	すやり	すやり	穂先が直線で枝がついていない槍。すぐやり。
+j	すゆい	すゆい	sour
+j	すらり	すらり	刀などを一気に抜くさま。
+j	すりみ	すりみ	主に魚肉を擂り鉢やそのような器具を使用し擂り潰した…
+j	すり身	すりみ	fish meat pounded into a …
+j	すり身	すり身	fish meat pounded into a …
+j	すり鉢	すり鉢	
+j	すると	すると	thus, so, thereupon, here…
+j	するめ	するめ	いかを開いて内臓を取り除いた乾物。あたりめ。
+j	する程	する程	
+j	すれる	すれる	to rub (against, together)
+j	すわり	すわり	「すわる」の連用形。
+j	すわる	すわる	（主に足で自重を支えなくて済むように）膝を折り曲げ…
+j	スィー	スィー	
+j	スイカ	スイカ	
+j	スイス	スイス	Switzerland (a country in…
+j	スイバ	スイバ	「酸葉」の学術的表記。
+j	スイム	スイム	泳ぐこと。
+j	スエズ	スエズ	
+j	スカイ	スカイ	空。
+j	スカジ	スカジ	土星の第27衛星の固有名。
+j	スカム	スカム	汚泥から発生する懸濁物質と腐敗ガスが合わさって形成…
+j	スキル	スキル	skill (capacity to do som…
+j	スキン	スキン	skin
+j	スキー	スキー	a ski
+j	スクバ	スクバ	
+j	スク水	スク水	sukumizu, a type of schoo…
+j	スグリ	スグリ	
+j	スケブ	スケブ	スケッチブック。
+j	スコア	スコア	score (tally of points)
+j	スコル	スコル	土星の第47衛星の固有名。
+j	ススキ	ススキ	「すすき」の学術的表記。
+j	ススペ	ススペ	北マリアナ諸島の主都。
+j	スズキ	スズキ	「鱸」の学術的表記。
+j	スズメ	スズメ	スズメ目スズメ科スズメ属の留鳥で、人の居住するとこ…
+j	スタイ	スタイ	synonym of よだれかけ (yodarek…
+j	スタバ	スタバ	
+j	スタブ	スタブ	情報システム開発の過程において、あるモジュールを呼…
+j	スター	スター	a star (luminous celestia…
+j	スダチ	スダチ	酢橘: the sudachi, Citrus s…
+j	スチル	スチル	
+j	ステイ	ステイ	staying
+j	ステマ	ステマ	
+j	ストア	ストア	store, shop
+j	ストピ	ストピ	
+j	スト権	スト権	労働者が争議行為としてストライキをするための権利。
+j	スネア	スネア	snare
+j	スネ毛	すねげ	leg hair
+j	スネ毛	スネげ	leg hair
+j	スネ毛	スネ毛	leg hair
+j	スノボ	スノボ	スノーボードの略称。
+j	スノー	スノー	雪。
+j	スバル	スバル	Subaru (automotive manufa…
+j	スパイ	スパイ	a spy
+j	スパナ	スパナ	synonym of レンチ (renchi, “…
+j	スパム	スパム	spam
+j	スパン	スパン	支間、径間。
+j	スピカ	スピカ	Spica
+j	スピン	スピン	spin, rotation
+j	スピ系	スピ系	
+j	スフミ	スフミ	事実上の独立国であるアブハジアの首都。
+j	スフレ	スフレ	soufflé
+j	スペア	スペア	spare
+j	スペル	スペル	a spell
+j	スペ公	スペ公	スペイン人に対する侮辱語。スペカス。
+j	スポ根	スポ根	depicting the fiery spiri…
+j	スポ豚	スポ豚	熱狂的、狂信的なスポーツ好きのおたく。
+j	スマホ	スマホ	「スマートフォン」の略。
+j	スミス	スミス	Smith
+j	スミレ	スミレ	すみれの学術的表記。
+j	スメル	スメル	香り。匂い。
+j	スモア	スモア	s'more
+j	スモモ	スモモ	すももの学術的表記。
+j	スラグ	スラグ	slag
+j	スラブ	スラブ	slab
+j	スラム	スラム	a slum
+j	スラヴ	スラヴ	the state or quality of b…
+j	スラー	スラー	slur (symbol)
+j	スリム	スリム	細いさま。ほっそりしたさま。
+j	スリル	スリル	thrill
+j	スリー	スリー	three
+j	スルト	スルト	土星の第48衛星の固有名。
+j	スルー	スルー	through
+j	スル語	スル語	
+j	スレチ	スレチ	
+j	スレ主	スレ主	電子掲示板で、スレッドを立てた人。
+j	スロー	スロー	遅い。のんびりとした。
+j	スワン	スワン	swan
+j	スンデ	スンデ	soondae (Korean blood sau…
+j	スンナ	スンナ	Sunni
+j	スンニ	スンニ	Sunni
+j	スーク	スーク	souq
+j	スーツ	スーツ	a suit (set of clothes)
+j	スート	スート	a suit
+j	スープ	スープ	soup (non-Japanese cuisin…
+j	スーラ	スーラ	sura (chapter of the Qur'…
+j	之	すすむ	a male given name
+j	争う	すまう	to compete, to contest
+j	争う	すまふ	to compete, to contest
+j	住まい	すまい	residence, dwelling, one'…
+j	住まい	すまひ	residence, dwelling, one'…
+j	住んだ	すんだ	
+j	住処	すみか	住んでいる所。住まい。住所。
+j	住居	すまい	dwelling; house; residenc…
+j	傑	すぐる	a male given name
+j	優	すぐる	enough, amply
+j	全て	すべて	entirely, completely; all
+j	凄い	すごい	
+j	凄く	すごく	very, immensely
+j	出師	すいし	軍隊を送り出すこと。出兵。
+j	出挙	すいこ	古代日本で農民に種籾のほか金品を貸し付け、利息を付…
+j	助ける	すける	to help; to assist
+j	助け平	すけべ	lecherous, lewd
+j	助け平	スけベ	lecherous, lewd
+j	助手	すけて	assistant, helper
+j	助野	すけの	a surname
+j	勝	すぐる	win, victory
+j	勧め	すすめ	suggestion, recommendatio…
+j	勧め	すゝめ	suggestion, recommendatio…
+j	匙	すくい	spoon, scoop
+j	匙	すくひ	spoon, scoop
+j	卓	すぐる	table, desk
+j	吹呼	すいこ	呼吸。
+j	吹嘘	すいこ	息を吹きかけること。
+j	周防	すおう	Suō Province, an old prov…
+j	周防	すはう	Suō Province, an old prov…
+j	啜る	すする	sip tea or soup; slurp no…
+j	垂死	すいし	今にも死にそうであること。
+j	垂示	すいし	教え示すこと。
+j	垂示	すいじ	教え示すこと。
+j	垂胡	すいこ	顎の瘤。
+j	垂語	すいご	垂示の語。
+j	垂露	すいろ	露が垂れること。また、その露。
+j	垂顧	すいこ	目を掛けること。
+j	墨字	すみじ	点字に対し、紙などに書いて晴眼者が目で読む文字のこ…
+j	墨田	すみだ	Sumida (one of 23 special…
+j	墨絵	すみえ	sumi-e (Japanese ink wash…
+j	墨絵	すみゑ	sumi-e (Japanese ink wash…
+j	壽実子	すみこ	a female given name
+j	壽美子	すみこ	a female given name
+j	夊部	すいぶ	部首「⼢」で分類した漢字の一群。
+j	好いた	すいた	
+j	好きピ	すきぴ	object of affection
+j	好きピ	すきピ	object of affection
+j	好実子	すみこ	a female given name
+j	姿	すがた	figure, appearance, form,…
+j	宿世	すくせ	前世。宿生。
+j	寸土	すんど	僅かな土地。寸地。尺地。
+j	寸地	すんち	僅かな土地。寸土。尺地。
+j	寸実子	すみこ	a female given name
+j	寸志	すんし	small token of appreciati…
+j	寸時	すんじ	ほんのわずかな時間。寸刻。
+j	寸暇	すんか	a single moment of leisure
+j	寸紙	すんし	僅かな紙。
+j	寸話	すんわ	非常に短い話。
+j	寸部	すんぶ	部首「⼨」で分類した漢字の一群。
+j	寿司屋	すしや	sushi restaurant
+j	寿実子	すみこ	a female given name
+j	寿美子	すみこ	a female given name
+j	将	すすむ	a commander
+j	少し	すこし	a little; slightly
+j	崇卑	すうひ	地位が高いことと低いこと。
+j	崇実子	すみこ	a female given name
+j	崇美	すうび	気高く美しいこと。また、そのようなさま。
+j	巣板	すばん	the comb enclosed in a hi…
+j	巣穴	すあな	burrow, a tunnel or hole …
+j	巣箱	すばこ	birdhouse (small house fo…
+j	座る	すわる	to sit, to have a seat
+j	座れ	すわれ	
+j	廃る	すたる	synonym of 廃れる (sutareru,…
+j	彗美子	すみこ	a female given name
+j	拗ねる	すねる	to sulk
+j	按部	すいぶ	見回ること。
+j	挿げた	すげた	
+j	挿げる	すげる	to open a hole in somethi…
+j	捨てる	すてる	to throw away
+j	捨身	すてみ	to put one's life on the …
+j	据える	すえる	to place, set (so it cann…
+j	据える	すゑる	to place, set (so it cann…
+j	据わる	すわる	to stop moving or danglin…
+j	推古	すいこ	古い時代の事柄を調査し、推し量ること。
+j	推理	すいり	deduction, inference
+j	推知	すいち	推察して知ること。
+j	推移	すいい	transition
+j	推辞	すいじ	ある物事を他人に譲り、自分は辞退すること。
+j	掬い	すくい	scooping
+j	掬い	すくひ	scooping
+j	掬う	すくう	to scoop, to shovel
+j	掬う	すくふ	to scoop, to shovel
+j	救い	すくい	help, rescue, relief, sal…
+j	救い	すくひ	help, rescue, relief, sal…
+j	救う	すくう	to save, to rescue, to re…
+j	救う	すくふ	to save, to rescue, to re…
+j	数万	すまん	三、四万か五、六万か漠然とした数字を表す語。
+j	数人	すにん	a male given name
+j	数個	すうこ	2個から5個くらいまでのおよその数を表す。
+j	数値	すうち	numeric value
+j	数多	すうた	many, much
+j	数奇	すうき	misfortune, adverse fortu…
+j	数奇屋	すきや	tea ceremony pavillion
+j	数字	すうじ	a digit (numeral)
+j	数度	すうど	2度から5度くらいまでのおよその数を表す。
+j	数日	すじつ	a few days
+j	数次	すうじ	several times, a number o…
+j	数秘	すうひ	secret numbers
+j	数詞	すうし	numeral
+j	数論	すろん	number theory
+j	數字	すうじ	数字の旧字体表記。
+j	既に	すでに	already
+j	昴	すばる	the Pleiades star cluster…
+j	昴	すまる	the Pleiades star cluster…
+j	晋	すすみ	the Chinese state of Jin …
+j	晋	すすむ	the Chinese state of Jin …
+j	末子	すえこ	youngest child
+j	末子	すゑこ	youngest child
+j	末記	すえき	a male given name
+j	末野	すえの	a surname
+j	朱実子	すみこ	a female given name
+j	朱雀	すざか	the Vermillion Bird of th…
+j	朱雀	すざく	the Vermillion Bird of th…
+j	杉田	すぎた	a surname
+j	杉菜	すぎな	field horsetail (Equisetu…
+j	杉菜	スギナ	field horsetail (Equisetu…
+j	杉野	すぎの	a surname
+j	李	すもも	plum (Prunus salicina)
+j	李	スモモ	plum (Prunus salicina)
+j	枢務	すうむ	機密に関する事務。特に重要な事務。
+j	枢府	すうふ	A government office in ch…
+j	枢機	すうき	物事の肝要な所。かなめ。要点。枢要。「枢」は「くる…
+j	枢秘	すうひ	枢密によるまつりごと。
+j	棄てる	すてる	
+j	棰楚	すいそ	杖刑。また、それに使用する鞭。
+j	水位	すいい	water level
+j	水位	すいゐ	water level
+j	水利	すいり	water supply
+j	水化	すいか	hydration (incorporation …
+j	水司	すいし	a 律令 (Ritsuryō) position …
+j	水和	すいわ	水溶液の中で、溶質の分子やイオン、コロイド粒子が周…
+j	水壺	すいこ	水差し。
+j	水夫	すいふ	a sailor, a seaman.
+j	水尾	すいび	a female given name
+j	水師	すいし	水上で戦う軍隊。
+j	水府	すいふ	水神が住むとされる海底の都。
+j	水庫	すいこ	ダム。貯水池。
+j	水死	すいし	drowning
+j	水母	すいぼ	a jellyfish, medusa
+j	水気	すいき	moisture; vapour (UK), va…
+j	水湄	すいび	水辺。
+j	水火	すいか	water and fire
+j	水狐	すいこ	水弩。蜮の一種。
+j	水理	すいり	水（地下水）の流れ。水脈。
+j	水瓜	すいか	ウリ科の一年草の植物。果実は食用。西瓜。
+j	水盂	すいう	書道や中国茶をいれる際の水を入れる道具。
+j	水禍	すいか	flood disaster, disaster …
+j	水簸	すいひ	固体の粒子が水中で沈降する速度が違うことを利用した…
+j	水素	すいそ	hydrogen (chemical elemen…
+j	水肥	すいひ	液状の肥料。液肥。
+j	水虎	すいこ	河童。
+j	水螅	すいし	ヒドラの別名。
+j	水路	すいろ	seaway, waterway, waterco…
+j	水部	すいぶ	部首「⽔」で分類した漢字の一群。
+j	水都	すいと	水運が重要な役割を果たしている都市の通称。
+j	水霧	すいむ	霧。特に川霧。
+j	水飛	すいひ	「水簸」を参照。
+j	水馬	すいば	techniques for crossing w…
+j	水魔	すいま	disastrous flood
+j	泥炭	すくも	peat
+j	洲実子	すみこ	a female given name
+j	涼む	すずむ	cool off, cool down
+j	滑る	すべる	to glide, to slide
+j	漉いた	すいた	
+j	漱ぐ	すすぐ	to rinse one's mouth (esp…
+j	澄ます	すます	to clear; to make somethi…
+j	澄也	すみや	a male given name
+j	澄夫	すみお	a male given name
+j	澄子	すみこ	a female given name
+j	澄実子	すみこ	a female given name
+j	澄江	すみえ	a female given name
+j	澄男	すみお	a male given name
+j	澄雄	すみお	a male given name
+j	濯ぐ	すすぐ	to rinse something with w…
+j	炊事	すいじ	cooking
+j	炊夫	すいふ	炊事のために雇われた男性。
+j	炊婦	すいふ	炊事のために雇われた女性。
+j	炭火	すみび	a charcoal fire
+j	烝	すすむ	a male given name
+j	皇	すべら	creator
+j	皇	すめら	creator
+j	直ぐに	すぐに	immediately, instantly
+j	直刃	すぐは	a straight temper line on…
+j	直葉	すぐは	a female given name
+j	相撲	すまい	sumo (Japanese traditiona…
+j	相撲	すまう	sumo (Japanese traditiona…
+j	相撲	すまひ	sumo (Japanese traditiona…
+j	相撲	すまふ	sumo (Japanese traditiona…
+j	相撲	すもう	sumo (Japanese traditiona…
+j	相撲	すもん	sumo (Japanese traditiona…
+j	睡味	すいみ	寝心地。睡興。
+j	睡夢	すいむ	睡眠中に見る夢。
+j	睡寐	すいび	眠ること。睡眠。
+j	睡臥	すいが	横になり睡眠をとること。
+j	睡語	すいご	寝言。
+j	睡雨	すいう	宵越しの雨。
+j	睡魔	すいま	"devil of sleepiness": (f…
+j	睡鳧	すいふ	眠る鴨。
+j	砂地	すなじ	sandy soil
+j	砂地	すなち	sandy soil
+j	砂場	すなば	sandpit, sandbox (childre…
+j	砂州	すなす	潮流・風や河川の運んだ土砂がたまって、海岸や湖岸に…
+j	砂湯	すなゆ	sand bath; a type of onse…
+j	砂田	すなだ	a surname
+j	硯	すずり	（すずり）墨を水ですりおろすための道具。
+j	秀実子	すみこ	a female given name
+j	秀才	すさい	in the 律令 (Ritsuryō) syst…
+j	箠罵	すいば	鞭で打ちながら罵ること。
+j	箠轡	すいひ	馬を走らせること。
+j	簾	すだれ	sudare, a mat or screen m…
+j	粋士	すいし	粋な男。粋人。
+j	粋美	すいび	純粋で美しいこと。また、そのようなさま。
+j	粋語	すいご	精粋の語。
+j	純子	すみこ	a female given name
+j	純実子	すみこ	a female given name
+j	純男	すみお	a male given name
+j	素振り	すぶり	bearing; behavior; manner
+j	素揚げ	すあげ	frying directly, without …
+j	素敵	すてき	lovely
+j	素敵	ステキ	lovely
+j	素本	すほん	注釈などをつけない本文だけの書物。
+j	素甘	すあま	suama (Japanese sweet mad…
+j	素直	すなお	honest, direct, frank
+j	素直	すなほ	honest, direct, frank
+j	素股	すまた	bare thighs
+j	素襖	すおう	直垂の一種。室町時代から武家の常服となり、江戸時代…
+j	素見	すけん	window-shopping; browsing
+j	素足	すあし	bare foot
+j	素面	すめん	soberness, especially wit…
+j	素顔	すがお	unadorned face; a face wi…
+j	統べる	すべる	to dominate, to control, …
+j	綏撫	すいぶ	人民を安んじ、鎮めること。
+j	縋る	すがる	to cling to, to hang on t…
+j	翠微	すいび	山の中腹。八合目あたり。
+j	翠梧	すいご	青緑の梧桐。
+j	翠眉	すいび	（緑色の）美しい眉。
+j	翠羽	すいう	緑色の羽。
+j	翠花	すいか	天子、天皇の旗。
+j	翠華	すいか	天子、天皇の旗。
+j	翠雨	すいう	青々とした草木の葉に降る雨。
+j	翠霞	すいか	緑色の霞。
+j	翠露	すいろ	草木の葉の緑が露のように瑞々しく滴るようなさま。
+j	膵尾	すいび	膵臓の細くなって脾臓に隣接する部分。
+j	芻狗	すうく	厄払いに用いる、まぐさで作った犬。
+j	荒む	すさむ	to go wild, to grow wild
+j	菅井	すがい	a surname
+j	菅谷	すがや	a surname
+j	菅野	すがの	a surname
+j	菘	すずな	turnip
+j	菘	スズナ	turnip
+j	菫	すみれ	Viola mandshurica, a spec…
+j	菫	スミレ	Viola mandshurica, a spec…
+j	萃乎	すいこ	集まること。そのさま。
+j	蒭狗	すうく	厄払いに用いる、まぐさで作った犬。
+j	蓚	すいば	
+j	薦め	すすめ	advice, recommendation
+j	蘇芳	すおう	sappanwood (Biancaea sapp…
+j	蘇芳	すはう	sappanwood (Biancaea sapp…
+j	蘇芳	スオウ	sappanwood (Biancaea sapp…
+j	行	すすむ	a line of text
+j	衰枯	すいこ	枯れること。
+j	衰死	すいし	衰弱して死ぬこと。
+j	裾野	すその	the foot of a mountain
+j	西瓜	すいか	watermelon
+j	西瓜	スイカ	watermelon
+j	角田	すみた	a surname
+j	角田	すみだ	a surname
+j	角谷	すみや	a surname
+j	誰何	すいか	a challenge, questioning
+j	誶罵	すいば	責め罵ること。
+j	誶語	すいご	罵る言葉。暴言。
+j	賺す	すかす	to coax, to cajole
+j	趨避	すうひ	進退。
+j	透	すける	a unisex given name
+j	透かし	すかし	
+j	透かす	すかす	to be slightly apart, to …
+j	透ける	すける	to show through
+j	進	すすむ	a male given name
+j	進む	すすむ	to go forward, to advance…
+j	進め	すすめ	
+j	遂志	すいし	志を遂げること。
+j	過ぎた	すぎた	
+j	過ぎる	すぎる	to pass by, to pass throu…
+j	過ごす	すごす	to spend, to pass (time);…
+j	過世	すぐせ	宿世。
+j	道	すすむ	Tao (the way of nature), …
+j	選る	すぐる	to select
+j	邃古	すいこ	太古。大昔。
+j	邃宇	すいう	邃く大きな家。貴人の邸宅。
+j	邃志	すいし	深遠の心。
+j	邃美	すいび	邃く美しいこと。そのさま。
+j	酔夢	すいむ	酔眠して見る夢。
+j	酔寐	すいび	酔って寝ること。酔眠。
+j	酔後	すいご	酔った後。酔余。
+j	酔戸	すいこ	上戸。
+j	酔歌	すいか	酒に酔い、つくったり歌ったりする歌。
+j	酔狂	すいこ	酒などに酔い狂うこと。
+j	酔臥	すいが	酒に酔って臥せること。酔って倒れること。
+j	酔語	すいご	酔後の他愛無い話。酔言。
+j	酢味噌	すみそ	味噌に食酢、砂糖などを加え、ゆるめたもの。
+j	酢橘	すだち	Citrus sudachi, a citrus …
+j	酢橘	スダチ	Citrus sudachi, a citrus …
+j	酢漬け	すづけ	
+j	酢豚	すぶた	sweet-and-sour pork
+j	酸い葉	すいば	
+j	鈴木	すずき	鈴木, スズキ: a surname: the 2…
+j	鈴蘭	すずか	the lily of the valley, C…
+j	鈴蘭	すずら	the lily of the valley, C…
+j	鈴音	すずね	a female given name
+j	鈴鹿	すずか	Suzuka (a city in Mie Pre…
+j	錐股	すいこ	腿を刺すこと。
+j	錫師	すずし	錫や鉛で徳利などの容器を製造する職人。
+j	隙間	すきま	crevice, crack, gap
+j	隧戸	すいこ	墓道の前の門。
+j	隧路	すいろ	隧道。トンネル。
+j	隹部	すいぶ	部首「⾫」で分類した漢字の一群。
+j	雀	すずめ	Eurasian tree sparrow (Pa…
+j	雀	スズメ	Eurasian tree sparrow (Pa…
+j	雀蛾	すずめ	a hawk moth, a sphingid
+j	雀蛾	スズメ	a hawk moth, a sphingid
+j	雛妓	すうぎ	an apprentice geisha, a m…
+j	靃靡	すいび	草が靡くさま。
+j	須実子	すみこ	a female given name
+j	須藤	すとう	a surname
+j	須藤	すどう	a surname
+j	駿府	すんぷ	静岡市の旧称。
+j	駿河	するが	Suruga Province, an old p…
+j	魑魅	すたま	a spirit or demon that ar…
+j	魑魅	すだま	a spirit or demon that ar…
+j	魲	すずき	Suzuki (a neighborhood of…
+j	鯣	するめ	dried squid or dried cutt…
+j	鯣	スルメ	dried squid or dried cutt…
+j	鱸	すずき	Japanese sea bass
+j	鱸	スズキ	Japanese sea bass
+j	すいえい	すいえい	
+j	すいかん	すいかん	吹管: A blowpipe.
+j	すいがら	すいがら	喫煙した後のたばこの灰や吸い残し。
+j	すいぎん	すいぎん	水銀: (chemistry) mercury, …
+j	すいこみ	すいこみ	「すいこむ」の連用形。
+j	すいこむ	すいこむ	吸って中に入れる。吸入する。吸引する。
+j	すいしゅ	すいしゅ	水腫: dropsy, edema
+j	すいじん	すいじん	水神: god of water
+j	すいすい	すいすい	軽快に進むさま。
+j	すいせい	すいせい	
+j	すいつく	すいつく	吸うように、また吸うためにぴったりと付く。
+j	すいつば	すいつば	ピストン。
+j	すいてい	すいてい	
+j	すいてき	すいてき	
+j	すいでん	すいでん	水田: a flooded paddy
+j	すいとる	すいとる	吸引したり吸い込ませたりして取る。
+j	すいばく	すいばく	水爆: a hydrogen bomb
+j	すいもの	すいもの	塩や醤油で味付けした汁に魚介や野菜を入れた日本料理。
+j	すいよう	すいよう	水曜: Wednesday
+j	すうじく	すうじく	枢軸: centre, core, heart; …
+j	すうじつ	すうじつ	数日: a few days
+j	すうすう	すうすう	being breezy
+j	すうどく	すうどく	
+j	すうどん	すうどん	茹でたうどんにつゆをかけ、刻みネギを添えた程度のも…
+j	すえおき	すえおき	「すえおく」の連用形。
+j	すえおく	すえおく	ある場所に動かさずに置く。
+j	すえかず	すえかず	末一: a male given name
+j	すえぜん	すえぜん	ready meal
+j	すえぜん	すゑぜん	ready meal
+j	すえっこ	すえっこ	兄弟姉妹の中で一番最後に生まれたもの。末子。
+j	すえひろ	すえひろ	末広: a male given name
+j	すかしべ	すかしべ	音がしないよう放った屁。
+j	すかすか	すかすか	hollow
+j	すががき	すががき	sugagaki (strumming techn…
+j	すがたみ	すがたみ	全身が映る大型の鏡。
+j	すがめる	すがめる	squint
+j	すがれる	すがれる	草木の葉先またはこずえが盛りが過ぎて枯れ、衰える。
+j	すきこむ	すきこむ	紙に文字、模様が表れるように他の原料を入れて漉く。
+j	すきさけ	すきさけ	
+j	すきざけ	すきざけ	
+j	すきずき	すきずき	人それぞれ好みが異なること。評価するものの主観的な…
+j	すきっぱ	すきっぱ	teeth with a gap in betwe…
+j	すきとる	すきとる	頭髪を櫛などで梳かして垢などの汚れを取り除く。
+j	すきびき	すきびき	sukibiki (fish descaling …
+j	すきやき	すきやき	肉（主に牛肉）や野菜を鍋に入れ煮込んだ日本料理。好…
+j	すきよけ	すきよけ	avoiding someone due to h…
+j	すき焼き	すきやき	sukiyaki (a Japanese dish…
+j	すき焼き	すき焼き	sukiyaki (a Japanese dish…
+j	すぎうら	すぎうら	杉浦: a surname
+j	すぎこし	すぎこし	「すぎこしのまつり」の略。
+j	すぎさる	すぎさる	to pass by (physically)
+j	すぎもと	すぎもと	杉本: a surname
+j	すぎやま	すぎやま	杉山: a surname
+j	すぎゆく	すぎゆく	場所などを通ってゆく。
+j	すくすく	すくすく	growing vigorously
+j	すくない	すくない	あるものに比較して、数量や割合が小さい。
+j	すくめる	すくめる	to contract / retract a p…
+j	すぐさま	すぐさま	すぐに。ただちに。
+j	すぐみち	すぐみち	真っ直ぐな道。
+j	すぐれて	すぐれて	際立って。
+j	すぐれる	すぐれる	品質・数量・能力などが、他と比べて抜きん出ている。
+j	すけだち	すけだち	仇討ち、果たし合いで助力すること。
+j	すけっと	すけっと	helper
+j	すけっと	すけつと	helper
+j	すけばん	すけばん	female leader of a delinq…
+j	すけひで	すけひで	祐英: a male given name
+j	すけべい	すけべい	助け平: lewdness; a lecher
+j	すけべえ	すけべえ	助け平: lewdness; a lecher
+j	すけべな	すけべな	
+j	すげない	すげない	つれない。無愛想だ。そっけない。
+j	すこしく	すこしく	in small amounts
+j	すこしも	すこしも	（打消の語を伴って）全然。ちっとも。
+j	すこぶる	すこぶる	程度の甚だしいさま。非常に。
+j	すこやか	すこやか	心身が健康であるさま。
+j	すごうで	すごうで	amazing skill
+j	すごすご	すごすご	dejectedly
+j	すごろく	すごろく	二人が盤を挟んで向かい合って交互にさいころを振り、…
+j	すごわざ	すごわざ	驚くべきすぐれた技。
+j	すごーい	すごーい	elongated form of すごい
+j	すしづめ	すしづめ	寿司をぎっしり折り詰めにすること。
+j	すしめし	すしめし	sushi rice
+j	すじあい	すじあい	物事の道理。また、正しい理由や根拠のある関係。
+j	すじかい	すじかい	斜めに交わること。
+j	すじがき	すじがき	事物の筋道を書き記したもの。
+j	すじがね	すじがね	物を丈夫にするために、その中に入れる線状または棒状…
+j	すじぐも	すじぐも	まきぐもの俗称。
+j	すじだて	すじだて	物語などの展開の仕方や構成。
+j	すじまき	すじまき	畑に平行の畝を作り、そこに等間隔に種子を蒔くこと。…
+j	すじみち	すじみち	筋道: reason, logic
+j	すじゃく	すじゃく	朱雀: Vermilion Bird
+j	すじょう	すじやう	parentage; heritage; orig…
+j	すじょう	すじょう	parentage; heritage; orig…
+j	すすどい	すすどい	動作や態度、また気性や性質などが勢い激しく、機敏で…
+j	すすめる	すすめる	【進める】進ませる、前進させる。物事をはかどらせる。
+j	すすんで	すすんで	自ら積極的に物事を行うさま。
+j	すずかぜ	すずかぜ	涼風: cool breeze; refreshi…
+j	すずしい	すずしい	（周りの温度が高いときに）体感温度がほどよいくらい…
+j	すずしさ	すずしさ	涼しいこと。また、その度合い。
+j	すずしろ	すずしろ	大根の異名。春の七草の一つとしてあげる時の呼称。
+j	すずたけ	すずたけ	イネ科ササ属に属する笹の一種。学名:Sasamor…
+j	すずなみ	すずなみ	急に湧き上がる高波、津波の類、あるいは津波の前兆。
+j	すずなり	すずなり	growing in clusters
+j	すずはく	すずはく	錫箔: tinfoil
+j	すずびえ	すずびえ	日本酒の冷酒の温度帯のひとつ。15度前後のものをい…
+j	すずむし	すずむし	鈴虫: a suzumushi; a bell c…
+j	すずらん	すずらん	鈴蘭: the lily of the valle…
+j	すそよけ	すそよけ	裾除け: underskirt worn unde…
+j	すそわけ	すそわけ	他人からいただいたものを分けること。
+j	すたすた	すたすた	急ぎ足で歩くさま。
+j	すたれた	すたれた	
+j	すたれる	すたれる	使われなくなる。行われなくなる。
+j	すだれ麩	すだれふ	a type of wheat gluten fo…
+j	すだれ麩	すだれ麩	a type of wheat gluten fo…
+j	すっかり	すっかり	completely, thoroughly
+j	すっきり	すっきり	refreshed
+j	すっこむ	すっこむ	その場から退く。引っ込む。
+j	すっぱい	すっぱい	（「酸い」の強調形、元は口語）酢など刺激的な酸の味…
+j	すっぱく	すっぱく	
+j	すっぴん	すっぴん	素っぴん: woman's face with n…
+j	すっぽり	すっぽり	entirely (concealing)
+j	すっぽん	すっぽん	爬虫綱カメ目スッポン科に属する亀の総称。
+j	すっ込む	すっこむ	leave the area, leave tha…
+j	すっ込む	すっ込む	leave the area, leave tha…
+j	すてうり	すてうり	捨て値で売ること。
+j	すておく	すておく	そのままにしておく。放置する。
+j	すてがな	すてがな	捨て仮名, 捨仮名: small okurigan…
+j	すてきだ	すてきだ	
+j	すてごま	すてごま	手を進める上で相手に取られることを想定してその位置…
+j	すてさる	すてさる	思い切りよく捨てて離れる。
+j	すてばち	すてばち	やぶれかぶれ、自暴自棄。望みを失いやけな振舞に出る…
+j	すてふだ	すてふだ	In the Edo period, a boar…
+j	すてアド	すてアド	throwaway e-mail address
+j	すどまり	すどまり	宿泊施設での宿泊でその施設で提供される食事をとらず…
+j	すないろ	すないろ	黄色味がかった淡い灰色。
+j	すなかべ	すなかべ	色砂などで上塗りした壁。
+j	すながね	すながね	砂礫の中に含まれる、粒状の金。さきん。しゃきん。
+j	すなぎも	すなぎも	鳥類の砂嚢。
+j	すなけし	すなけし	
+j	すなつぶ	すなつぶ	岩石などが破片となった粒子。
+j	すなどり	すなどり	漁り, 漁: (archaic) fishing
+j	すなどる	すなどる	to fish
+j	すなのみ	すなのみ	砂蚤: a chigoe
+j	すなはま	すなはま	砂が堆積した海岸。
+j	すなはら	すなはら	砂地の野原。
+j	すなめり	すなめり	ネズミイルカ科スナメリ属に属する小型のいるか。
+j	すなわち	すなはち	即ち, 即, 乃ち, 乃: namely
+j	すなわち	すなわち	即ち, 即, 乃ち, 乃: namely
+j	すねあて	すねあて	野球の捕手、アイスホッケーのゴールキーパーなどの運…
+j	すねずる	すねずる	（方言、青森）つねる
+j	すのもの	すのもの	小さく切った魚介類や海藻、野菜に合わせ酢を掛けたり…
+j	すはだか	すはだか	体に何も着用していないこと。全裸。すっぱだか。
+j	すばやい	すばやい	動作が速い。
+j	すぱすぱ	すぱすぱ	たばこを続けて勢いよく吸っていくさま。
+j	すべすべ	すべすべ	smoothly
+j	すべての	すべての	
+j	すべらぎ	すべらぎ	天皇。みかど。
+j	すべらす	すべらす	滑るようにする。
+j	すべりぎ	すべりぎ	敷居の溝に入れる樫の薄い板。
+j	すべり台	すべり台	「滑り台」参照。
+j	すぼまる	すぼまる	縮んだ状態になる。
+j	すぼめる	すぼめる	すぼむようにする。
+j	すぽっと	すぽっと	exiting or entering with …
+j	すまない	すまない	謝罪、依頼、感謝の意を表すときに使用する語。
+j	すみあき	すみあき	純明: a male given name
+j	すみいと	すみいと	綿などに墨を染み込ませた墨壺に付いている墨が付き、…
+j	すみきる	すみきる	to be entirely clear
+j	すみこみ	すみこみ	従業員や使用人が（居住できる）職場や奉公先などで生…
+j	すみこむ	すみこむ	使用人などが主人の家に泊まって暮らすこと。
+j	すみずみ	すみずみ	all corners; every nook a…
+j	すみぞめ	すみぞめ	墨のような黒色に染めること。また、そのような色。
+j	すみっこ	すみっこ	隅の方。隅。
+j	すみつき	すみつき	seal of approval
+j	すみつく	すみつく	住まいを定めて落ち着く。
+j	すみなわ	すみなわ	綿などに墨を染み込ませた墨壺に付いている墨が付き、…
+j	すみやか	すみやか	時間を置かないこと。
+j	すみよし	すみよし	純良: a male given name
+j	すみわけ	すみわけ	生活様式がよく似た個体、個体群が同じ場所で生活でき…
+j	すやすや	すやすや	soundly, peacefully
+j	すらすら	すらすら	smoothly
+j	すらっと	すらっと	体などが、細く形よく伸びているさま。
+j	すりあし	すりあし	足の裏を床（地面）から離さず擦るようにして歩くこと。
+j	すりきず	すりきず	擦りむいてできた皮膚の傷。擦過傷。かすりきず。
+j	すりこぎ	すりこぎ	擂り鉢で何かを擂るときに使用する棒。連木。
+j	すりこむ	すりこむ	同じ紙面に他のものともに印刷する。
+j	すりぬけ	すりぬけ	「すりぬける」の未然形及び連用形。
+j	すりばち	すりばち	擂鉢: a mortar, a bowl used…
+j	すりへる	すりへる	摩擦などで小さくなる。
+j	すりもの	すりもの	版を使用して印刷されたもの。印刷物。
+j	すり鉢	すりばち	
+j	すること	すること	
+j	するする	するする	滑らかに動くさま。
+j	するっと	するっと	滑らかに動くさま。
+j	するどい	するどい	細く尖っている
+j	すれすれ	すれすれ	just barely, just squeaki…
+j	すんごい	すんごい	
+j	すんずら	すんずら	（方言、富山県砺波地方）積雪期の晴れた日の朝方に、…
+j	すんなり	すんなり	slender, slim
+j	スィオネ	スィオネ	木星の第29衛星の固有名。
+j	スイスの	スイスの	
+j	スイス人	スイス人	Swiss (person, people)
+j	スイセン	スイセン	「水仙」の学術的表記。
+j	スイッチ	スイッチ	switch, a device to turn …
+j	スイベル	スイベル	
+j	スイマー	スイマー	水泳選手。
+j	スイレン	スイレン	スイレン科の植物。
+j	スイング	スイング	swing (a type of music)
+j	スイーツ	スイーツ	sweets; dessert
+j	スイート	スイート	甘いこと。甘美なこと。快いこと。またそのさま。
+j	スエット	スエット	suet
+j	スエード	スエード	suede
+j	スオミ語	すおみご	フィンランド語。
+j	スオミ語	スオミ語	フィンランド語。
+j	スカイプ	スカイプ	Skyping
+j	スカウト	スカウト	a scout (act of scouting)
+j	スカッツ	スカッツ	skirt with compression sh…
+j	スカトロ	スカトロ	act of scatophilia
+j	スカパン	スカパン	skirt with two legs insid…
+j	スカラブ	スカラブ	
+j	スカラベ	スカラベ	a scarab
+j	スカラー	スカラー	scalar (quantity with mag…
+j	スカルプ	スカルプ	「スキャルプ」の表記ゆれ。
+j	スカルン	スカルン	skarn
+j	スカンク	スカンク	a skunk (animal)
+j	スカンダ	スカンダ	
+j	スカート	スカート	skirt (clothing)
+j	スカーフ	スカーフ	light scarf, usually rect…
+j	スキット	スキット	
+j	スキップ	スキップ	片足で交互に軽く飛び跳ねながら連続して歩くこと。
+j	スキャナ	スキャナ	scanner (device which sca…
+j	スキャン	スキャン	走査。
+j	スキュラ	スキュラ	
+j	スキンク	スキンク	
+j	スキーマ	スキーマ	
+j	スキーム	スキーム	a scheme
+j	スキー場	スキー場	ski resort; a place offer…
+j	スクイズ	スクイズ	「スクイズプレー」の略。
+j	スクエア	スクエア	正方形。
+j	スクエニ	スクエニ	
+j	スクショ	スクショ	「スクリーンショット」の略。
+j	スクブス	スクブス	眠っている男性を襲い精液を奪うとされる夢魔。
+j	スクラブ	スクラブ	
+j	スクラム	スクラム	scrum
+j	スクルド	スクルド	《神話》 北欧神話に登場する運命の女神達ノルニル（…
+j	スクーバ	スクーバ	スキューバのこと。
+j	スクープ	スクープ	a scoop
+j	スクール	スクール	school (a place of learni…
+j	スクーン	スクーン	
+j	スク水	すくすい	sukumizu, a type of schoo…
+j	スク水	すくみず	sukumizu, a type of schoo…
+j	スク水	すくみづ	sukumizu, a type of schoo…
+j	スク水	スクみず	sukumizu, a type of schoo…
+j	スケッチ	スケッチ	sketch
+j	スケボー	スケボー	スケートボード (英語:skateboard) の…
+j	スケルチ	スケルチ	無線通話装置において、無信号時の雑音や、交信相手以…
+j	スケート	スケート	skates
+j	スケール	スケール	scale (series of notes)
+j	スコッチ	スコッチ	スコットランドの。
+j	スコット	スコット	a transliteration of the …
+j	スコップ	スコップ	a spade, a small shovel
+j	スコピエ	スコピエ	Skopje (a city, the capit…
+j	スコラ学	スコラ学	
+j	スコンク	スコンク	競技などで、1点も取ることができずに負けること。零…
+j	スコート	スコート	skort
+j	スコープ	スコープ	範囲、限界、視野。
+j	スコール	スコール	a squall
+j	スコーン	スコーン	イギリスが発祥で小麦粉・バター・牛乳・ベーキングパ…
+j	スザンナ	スザンナ	
+j	スズキ目	スズキ目	ペルカ目の旧称。
+j	スズムシ	スズムシ	鈴虫: a suzumushi; a bell c…
+j	スズメ目	スズメ目	《分類学》 鳥綱真鳥亜綱新鳥下綱新顎上目の下位に分…
+j	スタイル	スタイル	figure, physique (of the …
+j	スタウト	スタウト	イギリス産の濃厚でアルコール分の高い黒色のビール。
+j	スタオべ	スタオべ	スタンディングオベーション。
+j	スタジオ	スタジオ	a studio
+j	スタック	スタック	ぬかるみや積雪のある道路で自動車などが立ち往生する…
+j	スタッフ	スタッフ	staff
+j	スタブロ	スタブロ	スターティングブロック。
+j	スタメン	スタメン	「スターティングメンバー」の略。
+j	スタンス	スタンス	stance
+j	スタント	スタント	a stunt (dangerous feat)
+j	スタンド	スタンド	stand (device to hold som…
+j	スタンプ	スタンプ	stamp: indentation, impri…
+j	スターチ	スターチ	澱粉。澱粉食品。
+j	スタート	スタート	a start
+j	スチトト	スチトト	
+j	スチレン	スチレン	Styrene.
+j	スチーム	スチーム	蒸気。水蒸気。
+j	スチール	スチール	steel
+j	スッポン	スッポン	「鼈」の学術的表記。
+j	スツール	スツール	stool (a seat)
+j	ステイン	ステイン	よごれ。しみ。特に歯の表面につくやにやしぶなどのよ…
+j	ステショ	ステショ	
+j	ステッキ	ステッキ	a Western-style cane or w…
+j	ステップ	ステップ	steppe (the grasslands of…
+j	ステビア	ステビア	
+j	ステルス	ステルス	stealth
+j	ステレオ	ステレオ	having stereo audio
+j	ステント	ステント	stent
+j	ステーキ	ステーキ	steak (slice of beef)
+j	ステージ	ステージ	stage, a place for perfor…
+j	ステート	ステート	a state, a nation, a coun…
+j	スデロト	スデロト	
+j	ストゥー	ストゥー	
+j	ストック	ストック	stocking; storage
+j	ストップ	ストップ	stoppage
+j	ストマイ	ストマイ	ストレプトマイシン。
+j	ストラド	ストラド	
+j	ストレス	ストレス	stress (emotional pressur…
+j	ストロボ	ストロボ	放電管を光源としシャッターの押下とともに閃光を発生…
+j	ストロー	ストロー	drinking straw
+j	ストーブ	ストーブ	heater; stove
+j	ストーマ	ストーマ	stoma
+j	ストーム	ストーム	暴風雨。嵐。
+j	ストール	ストール	stole (scarf)
+j	ストーン	ストーン	stone (material)
+j	スト権	すとけん	労働者が争議行為としてストライキをするための権利。
+j	スト破り	スト破り	
+j	スナック	スナック	a snack
+j	スナッチ	スナッチ	
+j	スナッフ	スナッフ	嗅ぎ煙草。
+j	スナップ	スナップ	留め金。
+j	スナネコ	スナネコ	砂猫: sand cat, Felis marga…
+j	スナノミ	スナノミ	ノミ目スナノミ科スナノミ属に属するのみの一種。学名…
+j	スヌース	スヌース	snus
+j	スヌーズ	スヌーズ	snooze (an alarm)
+j	スヌード	スヌード	snood
+j	スネーク	スネーク	蛇。
+j	スノッブ	スノッブ	snob
+j	スパイク	スパイク	spike on the bottom of a …
+j	スパイス	スパイス	spice
+j	スパイ罪	スパイ罪	
+j	スパコン	スパコン	
+j	スパダリ	スパダリ	high-performance husband;…
+j	スパチャ	スパチャ	
+j	スパッツ	スパッツ	compression shorts
+j	スパルタ	スパルタ	Sparta (an ancient city-s…
+j	スパーク	スパーク	a spark
+j	スパート	スパート	競走などで全速力を出すこと。
+j	スピッツ	スピッツ	口吻が尖って耳が立った北方系の犬種の総称。
+j	スピネル	スピネル	
+j	スピノン	スピノン	
+j	スピーチ	スピーチ	a speech, an address, a t…
+j	スピード	スピード	speed
+j	スピ系	すぴけい	
+j	スピ系	スピけい	
+j	スフール	スフール	suhur (a pre-dawn breakfa…
+j	スプタン	スプタン	
+j	スプリト	スプリト	
+j	スプレー	スプレー	spray (commercial product)
+j	スプール	スプール	spool
+j	スプーン	スプーン	spoon
+j	スペイン	スペイン	Spain (a country in South…
+j	スペカス	スペカス	スペインまたはスペイン人に対する侮蔑語。スペ公。
+j	スペック	スペック	specification
+j	スペース	スペース	space, area, room
+j	スペード	スペード	spades
+j	スペ公	すぺこう	スペイン人に対する侮辱語。スペカス。
+j	スポイト	スポイト	Pasteur pipette
+j	スポオタ	スポオタ	スポーツ好きのおたく。
+j	スポック	スポック	
+j	スポット	スポット	spot; dot; point
+j	スポドリ	スポドリ	
+j	スポブラ	スポブラ	
+j	スポヲタ	スポヲタ	「スポオタ」の別表記。
+j	スポンジ	スポンジ	sponge, the artificial or…
+j	スポンデ	スポンデ	木星の第36衛星の固有名。
+j	スポーク	スポーク	spoke (of a wheel)
+j	スポーツ	スポーツ	a sport; sports
+j	スポーン	スポーン	プレーヤーなどが出現すること。
+j	スポ根	すぽこん	depicting the fiery spiri…
+j	スポ根	スポこん	depicting the fiery spiri…
+j	スポ豚	すぽぶた	熱狂的、狂信的なスポーツ好きのおたく。
+j	スマイル	スマイル	smile
+j	スマトラ	スマトラ	Sumatra (the largest isla…
+j	スマフォ	スマフォ	
+j	スマブラ	スマブラ	
+j	スマラン	スマラン	
+j	スマート	スマート	slim, trim, slender
+j	スマーフ	スマーフ	
+j	スムース	スムース	
+j	スムーズ	スムーズ	smooth (without difficult…
+j	スメグマ	スメグマ	恥垢。
+j	スメタナ	スメタナ	
+j	スメハラ	スメハラ	スメルハラスメント。
+j	スメルザ	スメルザ	Smeltzer (an area of Oran…
+j	スメルシ	スメルシ	
+j	スメルド	スメルド	
+j	スモック	スモック	
+j	スモッグ	スモッグ	smog
+j	スモハラ	スモハラ	スモークハラスメント。
+j	スモーク	スモーク	けむり。特にドライアイスなどを使った演出用の白煙。
+j	スモール	スモール	小さい。
+j	スライゴ	スライゴ	Sligo (a county of Irelan…
+j	スライス	スライス	slice (thin piece)
+j	スライド	スライド	a slide, a slip
+j	スライム	スライム	slime
+j	スラバヤ	スラバヤ	
+j	スラブ人	スラブ人	Slav (a member of a group…
+j	スラブ学	スラブ学	
+j	スラム街	スラム街	「スラム」に同じ。
+j	スラリー	スラリー	slurry
+j	スラング	スラング	slang; a slangy word
+j	スラント	スラント	
+j	スランプ	スランプ	slump (period of poor act…
+j	スラヴ人	スラヴ人	Slav (a member of a group…
+j	スラヴ学	スラヴ学	
+j	スリッパ	スリッパ	a slipper (low shoe usual…
+j	スリップ	スリップ	a slip (act of slipping)
+j	スリナム	スリナム	Suriname (a country in So…
+j	スリムな	スリムな	
+j	スリラー	スリラー	thriller (a suspenseful, …
+j	スリーブ	スリーブ	a sleeve
+j	スリープ	スリープ	睡眠。
+j	スリーヴ	スリーヴ	
+j	スルタナ	スルタナ	
+j	スルタン	スルタン	
+j	スルホン	スルホン	sulfone
+j	スルメ曲	スルメ曲	最初に聴いた時はあまり印象に残らないが、何度も聴く…
+j	スループ	スループ	a sloop (single-masted sa…
+j	スレイブ	スレイブ	「スレーブ」の表記ゆれ。
+j	スレタイ	スレタイ	電子掲示板に立てられたスレッドの件名・題名。
+j	スレッズ	スレッズ	
+j	スレッド	スレッド	thread (unit of execution)
+j	スレート	スレート	slate
+j	スレーブ	スレーブ	奴隷。
+j	スレ主	すれぬし	電子掲示板で、スレッドを立てた人。
+j	スレ違い	スレ違い	posting in the wrong thre…
+j	スロビオ	スロビオ	
+j	スロボダ	スロボダ	
+j	スロープ	スロープ	傾斜地。勾配。斜面。坂。斜路。
+j	スワイプ	スワイプ	（バットなどの）横方向の振り。
+j	スワジ人	スワジ人	エスワティニの主要民族。バントゥー人の一派。
+j	スワジ語	スワジ語	
+j	スワップ	スワップ	交換、取り換え。
+j	スンダ人	スンダ人	インドネシア・ジャワ島西部の民族。オーストロネシア…
+j	スンダ語	スンダ語	インドネシアのジャワ島西部などで話されている、オー…
+j	スンドリ	スンドリ	
+j	スンナ派	すんなは	Sunni
+j	スンナ派	スンナは	Sunni
+j	スンナ派	スンナ派	Sunni
+j	スンニ派	すんには	Sunni
+j	スンニ派	スンニは	Sunni
+j	スンニ派	スンニ派	Sunni
+j	スーザン	スーザン	
+j	スーダン	スーダン	Sudan (a country in North…
+j	スートラ	スートラ	
+j	スーパー	スーパー	super-
+j	スームィ	スームィ	
+j	スーラト	スーラト	
+j	スーリヤ	スーリヤ	
+j	仙頭	すわたう	a surname
+j	仙頭	すわとう	a surname
+j	仙頭	スワトウ	a surname
+j	住友	すみとも	a surname
+j	住吉	すみよし	A common place name in Ja…
+j	修正	すしょう	revision; correction; ame…
+j	修行	すぎょう	training
+j	健やか	すこやか	vigorous, healthy, sound
+j	優れた	すぐれた	past tense and perfective…
+j	優れる	すぐれる	to be good at (something)…
+j	全ての	すべての	
+j	出挙	すいきょ	古代日本で農民に種籾のほか金品を貸し付け、利息を付…
+j	出納	すいたふ	receipts and expenditures
+j	出納	すいとう	receipts and expenditures
+j	刷り込む	すりこむ	to print or stencil somet…
+j	助け平	すけべい	lecherous, lewd
+j	助け平	すけべえ	lecherous, lewd
+j	助太刀	すけだち	helping; assisting
+j	勧める	すすめる	suggest, recommend, advise
+j	即ち	すなわち	
+j	双六	すごろく	Sugoroku, a Japanese boar…
+j	吸い付く	すいつく	to stick to
+j	吸い取る	すいとる	to suck away; to suck up
+j	吸い取る	すひとる	to suck away; to suck up
+j	吸い込み	すいこみ	suction, absorption
+j	吸い込み	すひこみ	suction, absorption
+j	吸い込む	すいこむ	inhale, breathe (to draw …
+j	吸殻	すいがら	butt (remnant of a smoked…
+j	吹嘘	すいきょ	息を吹きかけること。
+j	吹塵	すいじん	国を統治すること。治国。
+j	吹奏	すいそう	playing wind instruments
+j	吹扇	すいせん	側から助けること。
+j	吹楽	すいがく	音楽を吹奏すること。
+j	吹禅	すいぜん	blowing meditation, pract…
+j	吹竹	すいちく	吹笛。
+j	吹笛	すいてき	笛を吹き鳴らすこと。吹竹。
+j	吹筦	すいかん	吹管の異表記。
+j	吹管	すいかん	blowpipe
+j	吹脣	すいしん	口笛。
+j	吹角	すいかく	角笛を吹くこと。
+j	吹鳴	すいめい	吹き鳴らすこと。
+j	垂仁	すいじん	恵むこと。
+j	垂光	すいこう	世を照らすこと。
+j	垂名	すいめい	名を後世に残すこと。
+j	垂命	すいめい	瀕死の状態であること。垂死。
+j	垂心	すいしん	an orthocenter
+j	垂憲	すいけん	規範を示すこと。
+j	垂柳	すいりう	weeping willow
+j	垂櫜	すいこう	弓袋を下げ、相手に敵意がないことを示すこと。
+j	垂法	すいほう	手本。
+j	垂涎	すいえん	slavering
+j	垂涎	すいせん	slavering
+j	垂涎	すいぜん	slavering
+j	垂眷	すいけん	愛顧。贔屓。
+j	垂竿	すいかん	垂釣。魚釣。
+j	垂範	すいはん	setting an example
+j	垂簾	すいれん	簾を下げること。
+j	垂紳	すいしん	礼服の大帯を垂れること。
+j	垂線	すいせん	perpendicular line
+j	垂纓	すいえい	冠の纓を後方に垂らしたもの。
+j	垂訓	すいくん	教えを説き、示すこと。
+j	垂足	すいそく	垂線の足。垂線と直線または平面の交点。
+j	垂鬟	すいかん	唐代の結髪形式の一つ。
+j	墨色	すみいろ	
+j	天皇	すべらき	an Emperor or Empress (re…
+j	天皇	すべらぎ	an Emperor or Empress (re…
+j	天皇	すめらぎ	an Emperor or Empress (re…
+j	天蛾	すずめが	
+j	好かれる	すかれる	
+j	好きです	すきです	
+j	好き好き	すきずき	matter of taste
+j	姿見	すがたみ	full-length mirror
+j	宿業	すくごう	現世で報いとして受ける原因としての前世での善悪の行…
+j	寸刻	すんこく	ほんのわずかな時間。寸時。
+j	寸前	すんぜん	the verge, the moment jus…
+j	寸劇	すんげき	short play; skit
+j	寸感	すんかん	ちょっとした感想。
+j	寸断	すんだん	dividing or cutting off
+j	寸書	すんしょ	短い手紙。寸楮。寸牘。
+j	寸楮	すんちょ	短い手紙。
+j	寸法	すんぽう	dimensions, size, magnitu…
+j	寸牘	すんとく	短い手紙。寸楮。寸簡。
+j	寸簡	すんかん	短い手紙。寸楮。寸牘。
+j	寸翰	すんかん	短い手紙。寸楮。寸牘。
+j	寸言	すんげん	短い言葉。
+j	寸閑	すんかん	僅かな暇。寸暇。
+j	寸間	すんかん	僅かな暇。寸暇。
+j	寸陰	すんいん	僅かな時間。寸暇。一寸の光陰。
+j	寸隙	すんげき	僅かな暇なとき。
+j	寿司店	すしてん	sushi restaurant
+j	少しも	すこしも	(not) one bit; (not) at a…
+j	少ない	すくない	not many, few, little
+j	居石	すえいし	a surname
+j	崇巌	すうがん	崇巖の拡張新字体を用いた表記。
+j	崇巖	すうがん	高い巖。
+j	崇拝	すうはい	worship, cult
+j	崇敬	すうけい	respect, reverence, vener…
+j	崇特	すうとく	特に優れるさま。特秀。
+j	崇篤	すうとく	尊崇。
+j	崇簡	すうかん	選任すること。
+j	崇賢	すうけん	賢を尊ぶこと。
+j	崇軒	すうけん	高い建造物。
+j	崇鑒	すうかん	高覧。他人の見ることに対する尊敬語。
+j	崇閣	すうかく	高閣。
+j	崇高	すうかう	noble, lofty, sublime, sp…
+j	崇高	すうこう	noble, lofty, sublime, sp…
+j	巣籠る	すごもる	
+j	廃れた	すたれた	
+j	廃れる	すたれる	to die out, fade away, go…
+j	彗光	すいこう	彗星の光。
+j	彗星	すいせい	comet
+j	彗芒	すいぼう	彗星の尾の光。
+j	悴槁	すいこう	枯槁すること。
+j	悴荒	すいこう	窶れること。
+j	悴賤	すいせん	窶れて賤しいこと。そのさま。
+j	悴顔	すいがん	衰顔の異表記。
+j	捨て仮名	すてがな	small okurigana used with…
+j	捨て札	すてふだ	
+j	捨仮名	すてがな	
+j	据え置き	すえおき	deferment of payment and …
+j	据え置く	すえおく	defer, leave as is
+j	捶丸	すいがん	中国伝統の、球を打つ遊び。ゴルフに似ている。
+j	捶扑	すいぼく	鞭で打つこと。
+j	捶拷	すいこう	鞭を打つ拷問。
+j	捶撃	すいげき	鞭をうつこと。
+j	捶撲	すいぼく	鞭で打つこと。
+j	捶殴	すいおう	鞭打つこと。
+j	推勘	すいかん	詮議。糾問。
+j	推原	すいげん	本原を問うこと。
+j	推命	すいめい	運勢を占うこと。
+j	推奉	すいほう	尊ぶこと。推尚すること。
+j	推官	すいかん	古代中国で、獄の管理官の一種。
+j	推定	すいてい	estimation
+j	推察	すいさつ	guess, conjecture
+j	推尊	すいそん	推して尊ぶこと。崇めること。
+j	推尋	すいじん	推測しながら問うこと。
+j	推尽	すいじん	推究。
+j	推心	すいしん	心を人に託すること。
+j	推恕	すいじょ	憐みを加えて赦すこと。
+j	推想	すいそう	あれこれと考えを巡らせること。あれこれと想像するこ…
+j	推拡	すいかく	推しこと。敷衍。
+j	推拷	すいこう	鞭を打つ拷問。
+j	推挽	すいばん	車を押したり引いたりすること。
+j	推敲	すいかう	revising, polishing of a …
+j	推敲	すいこう	revising, polishing of a …
+j	推断	すいだん	inference; deduction
+j	推明	すいめい	究明すること。
+j	推校	すいこう	推考すること。
+j	推測	すいそく	speculation, conjecture, …
+j	推演	すいえん	推し広めること。
+j	推考	すいこう	推測して考えること。
+j	推薦	すいせん	recommendation
+j	推衍	すいえん	推演の異表記。
+j	推覈	すいかく	推察して取り調べること。
+j	推言	すいげん	推論。
+j	推計	すいけい	estimation, an estimate
+j	推訊	すいじん	詰問。
+j	推論	すいろん	inference, deduction
+j	推謙	すいけん	他人を推薦して地位・名誉などを譲ること。推譲。
+j	推賢	すいけん	賢人を推薦すること。
+j	推較	すいこう	比較すること。
+j	推輓	すいばん	車を押したり引いたりすること。
+j	推轂	すいこく	推挙。推薦。
+j	推進	すいしん	promotion, thrust, drivin…
+j	推遷	すいせん	事に託けて延期すること。
+j	推選	すいせん	選んで薦めること。
+j	推陥	すいかん	推して陥れること。
+j	擂り鉢	すりばち	
+j	擂鉢	すりばち	a mortar, a bowl used for…
+j	擦り傷	すりきず	abrasion, scratch
+j	擦傷	すりきず	synonym of 擦り傷
+j	数万	すうまん	三、四万か五、六万か漠然とした数字を表す語。
+j	数人	すうにん	a male given name
+j	数個の	すうこの	
+j	数倍	すうばい	2倍から5倍くらいまでのおよその数字を表す。
+j	数値の	すうちの	
+j	数値化	すうちか	
+j	数列	すうれつ	a sequence of numbers, es…
+j	数千	すうせん	2000から5000くらいの大雑把な数。
+j	数名	すうめい	二人以上の少数の人数。
+j	数回	すうかい	2、3回から5回くらいの大雑把な回数。
+j	数学	すうがく	mathematics (field of stu…
+j	数年	すうねん	三、四から五、六年の年数。
+j	数式	すうしき	mathematical expression; …
+j	数日	すうじつ	a few days
+j	数段	すうだん	2段から5段くらいまでのおよその数を表す。
+j	数独	すうどく	sudoku (a type of puzzle)
+j	数論	すうろん	number theory
+j	末っ子	すえっこ	youngest child
+j	末一	すえかず	a male given name
+j	末吉	すえきち	a surname
+j	末吉	すえよし	a surname
+j	末広	すえひろ	a male given name
+j	末廣	すえひろ	
+j	末松	すえまつ	a surname
+j	末次	すえつぐ	a surname
+j	末次	すゑつぐ	a surname
+j	末永	すえなが	a surname
+j	朱雀	すじゃく	the Vermillion Bird of th…
+j	朱雀	すじやく	the Vermillion Bird of th…
+j	朱鳥	すちょう	synonym of 朱雀 (Shujaku, “…
+j	杉並	すぎなみ	Suginami (one of 23 speci…
+j	杉原	すぎはら	a surname
+j	杉山	すぎやま	a surname
+j	杉崎	すぎさき	a surname
+j	杉本	すぎもと	a surname
+j	杉村	すぎむら	a surname
+j	杉浦	すぎうら	a surname
+j	杉玉	すぎだま	A ball of cedar needles t…
+j	杉苔	すぎごけ	juniper haircap, Polytric…
+j	杉苔	スギゴケ	juniper haircap, Polytric…
+j	枢密	すうみつ	state secret; important s…
+j	枢憲	すうけん	憲法。
+j	枢管	すうかん	枢要なこと。また、そのようなさま。
+j	枢要	すうよう	物事の肝要な所。かなめ。中枢。要点。「枢」は「くる…
+j	枢軸	すうじく	centre, core, heart
+j	枢軸	すうぢく	centre, core, heart
+j	枢鍵	すうけん	物事を解決するのに肝要（肝心）なところ。
+j	梳き櫛	すきぐし	fine-toothed comb
+j	棰殴	すいおう	杖打つこと。
+j	棰革	すいかく	革製の鞭。
+j	榱崩	すいほう	建造物が大きく崩壊すること。
+j	榱桁	すいこう	榱と桁。
+j	榱桷	すいかく	垂木。
+j	水主	すいしゅ	船舶の乗組員。
+j	水人	すいじん	水郷の人。
+j	水仙	すいせん	narcissus (any of several…
+j	水仙	スイセン	narcissus (any of several…
+j	水伯	すいはく	水の神。水神。
+j	水兵	すいへい	a sailor
+j	水冷	すいれい	機械などの熱を水で冷却すること。
+j	水分	すいぶん	moisture
+j	水制	すいせい	水の流れを制御するために、河川や海岸に設置された工…
+j	水勢	すいせい	strength of water
+j	水原	すいげん	a surname
+j	水原	すうぉん	a surname
+j	水原	スウォン	a surname
+j	水問	すいもん	水責めによる拷問。
+j	水国	すいこく	水郷。水村。水郭。
+j	水圏	すいけん	hydrosphere
+j	水圧	すいあつ	Water pressure.
+j	水域	すいいき	body of water
+j	水壓	すいあつ	水圧の旧字体表記。
+j	水天	すいてん	水と天空。
+j	水孔	すいこう	植物の葉の先端や縁にあり、水を排出する小さな孔。
+j	水学	すいがく	水を使った奇術。
+j	水官	すいかん	川の中にある神界。
+j	水害	すいがい	water damage, flood disas…
+j	水密	すいみつ	密閉された水が圧力がかかっても漏出しないような状態…
+j	水尽	すいじん	水平線の果て。
+j	水居	すいきょ	水上や水辺の住まい。
+j	水岸	すいがん	岸。
+j	水工	すいこう	水夫。
+j	水干	すいかん	cloth that has been stret…
+j	水平	すいへい	lateral; horizontal; level
+j	水底	すいてい	the bottom or bed of a bo…
+j	水彩	すいさい	watercolour (pigment)
+j	水心	すいしん	川や湖沼の水面の中心。
+j	水性	すいせい	the quality of being aque…
+j	水患	すいかん	水害。
+j	水戦	すいせん	水上の戦。舟戦。
+j	水戰	すいせん	水戦の旧字体表記。
+j	水手	すいしゅ	sailor, helmsman
+j	水損	すいそん	水害による損害。
+j	水攻	すいこう	水攻め。
+j	水文	すいもん	地球上の水の循環の概念。
+j	水族	すいぞく	水中に生息する生物。水生生物。
+j	水旱	すいかん	洪水と旱魃。また、それらによる災害。
+j	水明	すいめい	澄んだ川の水が反射して輝き美しいこと。
+j	水星	すいせい	Mercury (planet)
+j	水曜	すいえう	planet Mercury
+j	水曜	すいよう	planet Mercury
+j	水書	すいしょ	墨の代わりに水で書く書道。
+j	水月	すいげつ	water and the Moon
+j	水木	すいぼく	Cornus controversa var. c…
+j	水村	すいそん	河川や湖沼のほとりにある村。水郷。水郭。
+j	水栓	すいせん	water faucet
+j	水棺	すいかん	原発事故の際に原子炉格納容器の内部を水で満たし、燃…
+j	水楼	すいろう	湖沼や河川などの水辺に建てられた楼閣。水閣。
+j	水槽	すいそう	water tank
+j	水檻	すいかん	水辺の欄干。
+j	水没	すいぼつ	submergence in water
+j	水沫	すいまつ	水の泡。水泡。
+j	水泉	すいせん	湧き出る泉。
+j	水泡	すいほう	bubble
+j	水泳	すいえい	swimming
+j	水洗	すいせん	flushing with water, espe…
+j	水流	すいりう	water current
+j	水浜	すいひん	水際。水辺。
+j	水涯	すいがい	水辺。水際。岸。
+j	水深	すいしん	water depth
+j	水渠	すいきょ	溝。溝渠。
+j	水温	すいおん	water temperature
+j	水温	すいをん	water temperature
+j	水源	すいげん	Source of a river; founta…
+j	水溝	すいこう	鼻の下にある溝。
+j	水溶	すいよう	水に溶けること。または、溶けていること。
+j	水滴	すいてき	drop of water
+j	水漏	すいろう	水時計。
+j	水潦	すいろう	大雨。長雨。洪水。
+j	水潯	すいじん	水辺。水際。水涯。
+j	水澨	すいぜい	水浜。水際。水辺。
+j	水濠	すいごう	障害走で設置される水溜まり。
+j	水火	すいくわ	water and fire
+j	水災	すいさい	flood
+j	水烟	すいえん	水煙の異表記。
+j	水煎	すいせん	水繊の異表記。
+j	水煙	すいえん	みずけむり。
+j	水爆	すいばく	「水素爆弾」の略。
+j	水牛	すいぎう	water buffalo, Bubalus bu…
+j	水犬	すいけん	狆の一種。
+j	水獄	すいごく	水牢。
+j	水瓶	すいびん	water jug
+j	水甕	すいおう	みずがめ。
+j	水甕	すいよう	みずがめ。
+j	水生	すいせい	aquatic (life)
+j	水産	すいさん	marine products; fisheries
+j	水田	すいでん	paddy field
+j	水界	すいかい	地球表面で水に覆われている部分。水圏。
+j	水畜	すいちく	魚介。
+j	水疱	すいほう	blister (bubble on the sk…
+j	水痘	すいとう	chicken pox
+j	水癌	すいがん	noma
+j	水監	すいかん	水鑑の異表記。
+j	水盤	すいばん	水を張り花を生けたり盆石をいれたりするための浅い器。
+j	水石	すいせき	水と石。
+j	水碧	すいへき	水が青緑色をしていること。河川や湖の水が青く澄んで…
+j	水神	すいしん	a Japanese god of water
+j	水神	すいじん	a Japanese god of water
+j	水筒	すいとう	water bottle
+j	水管	すいかん	water pipe, drain
+j	水簾	すいれん	滝の異称。
+j	水系	すいけい	water system
+j	水素化	すいそか	hydrogenation; hydride
+j	水線	すいせん	waterline
+j	水練	すいれん	泳ぐ技術やその訓練。
+j	水繊	すいせん	葛粉を水に溶き、水繊鍋に薄く流し入れて湯煎したもの…
+j	水缶	すいかん	液体を運ぶタンク。
+j	水肺	すいはい	ナマコ類の持つ樹枝のような形状の呼吸器。
+j	水腫	すいしゅ	dropsy
+j	水艙	すいそう	船舶内で飲料やボイラーなどに使用する水を貯めておく…
+j	水芹	すいきん	芹を元にした生薬。
+j	水草	すいそう	aquatic plants
+j	水菜	すいさい	mizuna
+j	水葬	すいそう	burial at sea
+j	水薬	すいやく	potion; liquid medicine
+j	水藻	すいそう	水中で育つ藻類。
+j	水蘭	すいらん	キク科の多年草。学名:Hololeion kram…
+j	水蚤	すいさう	「微塵子」の別表記。
+j	水蚤	すいそう	「微塵子」の別表記。
+j	水蚤	スイサウ	「微塵子」の別表記。
+j	水蚤	スイソウ	「微塵子」の別表記。
+j	水蛟	すいこう	みずち。
+j	水蛭	すいてつ	血吹蛭の漢名。
+j	水蜜	すいみつ	「水蜜桃」の略。
+j	水蟾	すいせん	水繊の異表記。
+j	水行	すいこう	【すいぎょう・みずぎょう】神仏に祈願したり、心神の…
+j	水褌	すいこん	水泳の際に締めるふんどし。
+j	水観	すいかん	水辺の眺望。
+j	水謳	すいおう	舟唄。
+j	水質	すいしつ	water quality
+j	水車	すいしゃ	water wheel
+j	水軍	すいぐん	水上兵力を持つ武士団。水師、船師、舟師、海賊衆、警…
+j	水輪	すいりん	三輪、四輪の一つ。風輪と金輪との間にある大きな水の…
+j	水辺	すいへん	waterside, shoreline
+j	水運	すいうん	water transportation, riv…
+j	水道	すいだう	water service; water supp…
+j	水道	すいどう	water service; water supp…
+j	水郭	すいかく	水村。水郷。
+j	水郷	すいごう	川や湖沼などの水辺にある村里。水村。水郭。
+j	水鉛	すいえん	モリブデン。
+j	水銀	すいぎん	mercury; quicksilver
+j	水鑑	すいかん	水鏡。
+j	水鑒	すいかん	水鑑の異表記。
+j	水門	すいもん	water gate, sluice (passa…
+j	水閘	すいかふ	water gate
+j	水閘	すいこう	water gate
+j	水閣	すいかく	水辺にある楼閣。岸辺の高殿。水楼。
+j	水防	すいぼう	flood prevention, flood c…
+j	水陸	すいりく	水と陸。水上と陸上。
+j	水険	すいけん	水に係る難所。
+j	水雲	すいうん	clouds and water
+j	水雷	すいらい	military torpedos and sea…
+j	水面	すいめん	surface of the water
+j	水頭	すいとう	河川などの水のほとり。水辺。
+j	水風呂	すいぶろ	room temperature / cold b…
+j	水高	すいこう	水の高さ。
+j	水魚	すいぎょ	water and fish
+j	水鶏	すいけい	the water rail, Rallus aq…
+j	水鹿	すいろく	synonym of サンバー (sanbā, “…
+j	水鹿	スイロク	synonym of サンバー (sanbā, “…
+j	汕頭	すわたう	Shantou (a prefecture-lev…
+j	汕頭	すわとう	Shantou (a prefecture-lev…
+j	汕頭	スワトウ	Shantou (a prefecture-lev…
+j	沙金	すながね	砂礫の中に含まれる、粒状の金。
+j	涼しい	すずしい	refreshing, cool
+j	涼風	すずかぜ	cool breeze; refreshing b…
+j	済ませる	すませる	synonym of すます
+j	済まない	すまない	inexcusable
+j	滑らか	すべらか	smooth (surface; progress)
+j	炊事場	すいじば	食物を調理する場所。台所。
+j	炊人	すいじん	飯炊き。
+j	炊烟	すいえん	炊煙の異表記。
+j	炊煑	すいしょ	炊煮の異表記。
+j	炊煙	すいえん	炊事の煙。
+j	炊煮	すいしょ	煮炊き。
+j	炊爨	すいさん	cooking a meal, especiall…
+j	炊飯	すいはん	cooking rice
+j	燧人	すいじん	古代中国の伝説的な帝王。火の使い方と食に対する利用…
+j	燧木	すいぼく	火を取る木材。
+j	燧烟	すいえん	燧煙の異表記。
+j	燧烽	すいほう	狼煙。
+j	燧煙	すいえん	烽火。
+j	燧石	すいせき	flint
+j	珠洲焼	すずやき	現在の石川県珠洲市で中世に生産されていた無釉の焼き…
+j	生業	すぎはひ	the occupation through wh…
+j	生業	すぎわい	the occupation through wh…
+j	瘁心	すいしん	心を苦しめること。
+j	瘁貌	すいぼう	病んで疲れた様子。
+j	皇	すめらぎ	creator
+j	皇子	すめみこ	a prince (son of an emper…
+j	直ぐ様	すぐさま	immediately
+j	睟然	すいぜん	艶のあること。そのさま。
+j	睡仙	すいせん	眠り上手。
+j	睡姦	すいかん	相手の意識がない状態で性行為に及ぶこと。
+j	睡癖	すいへき	居眠りをする癖。
+j	睡眠	すいみん	sleep
+j	睡眠	すいめん	sleep
+j	睡眼	すいがん	眠気の眼。
+j	睡瞼	すいけん	眠って閉ざしている瞼。
+j	睡蓮	すいれん	a water lily
+j	睡蓮	スイレン	a water lily
+j	睡覚	すいかく	眠りから覚めること。
+j	睡酣	すいかん	ぐっすりと寝込むこと。
+j	睡雁	すいがん	眠っている雁。
+j	睡鴨	すいおう	香炉。
+j	砂川	すながわ	Sunagawa (a city in Hokka…
+j	砂浜	すなはま	beach
+j	砂箱	すなばこ	
+j	砂色	すないろ	sand, sandy (color)
+j	砂蚤	すなのみ	a chigoe
+j	砂蚤	スナノミ	a chigoe
+j	砂風呂	すなぶろ	sand bath; a type of onse…
+j	祐弘	すけひろ	a male given name
+j	祐英	すけひで	a male given name
+j	空輪	すいりん	四輪の一つ。風輪の下にある虚空の層。
+j	窄まる	すぼまる	taper, become narrower
+j	窄める	すぼめる	to shut or fold (an umbre…
+j	筋交い	すじかい	
+j	筋書き	すじがき	plot; storyline; scenario
+j	筋書き	すぢがき	plot; storyline; scenario
+j	筋道	すじみち	reason, logic
+j	箠朴	すいぼく	鞭で打つこと。
+j	篠竹	すずたけ	bamboo grass
+j	篲星	すいせい	彗星。
+j	粋がる	すいがる	to be pretentious
+j	粋人	すいじん	man of the world, a perso…
+j	粋愨	すいかく	真心。
+j	粋方	すいほう	粋人。
+j	粋書	すいしょ	粋な内容の本。
+j	粋法	すいほう	粋人。
+j	粋然	すいぜん	純一。
+j	粋質	すいしつ	優れた性質。
+j	粹書	すいしょ	粋書の旧字体表記。
+j	純明	すみあき	a male given name
+j	純良	すみよし	a male given name
+j	素っぴん	すっぴん	woman's face with no make…
+j	素っ飛ぶ	すっとぶ	to fly, to shoot off
+j	素姓	すじょう	血筋。家柄。
+j	素性	すじょう	feature
+j	素敵な	すてきな	
+j	素早い	すばやい	fast; quick; nimble; agile
+j	素早さ	すばやさ	
+j	素気ない	すげない	cold, short, brusque, curt
+j	素泊まり	すどまり	accommodation without boa…
+j	素潜り	すもぐり	潜水具を着けずに行う潜水。スキンダイビング。
+j	素足で	すあしで	
+j	素通り	すどおり	flowing through without i…
+j	綏勧	すいかん	安んじて励ますこと。
+j	綏宥	すいゆう	撫恤すること。
+j	綏遠	すいえん	遠方を平定して治めること。
+j	綏靖	すいせい	安んずること。
+j	縐絹	すうけん	粗い絹。
+j	翠壁	すいへき	苔生した岩壁。
+j	翠嵐	すいらん	山の青々とした気配。
+j	翠巒	すいらん	緑色に映える山並み。
+j	翠巖	すいがん	青々とした巖。苔生した岩。
+j	翠巘	すいけん	翠色に連なる山々。翠巒。
+j	翠影	すいえい	緑に茂った樹木の影。
+j	翠旃	すいせん	翠旍。
+j	翠旌	すいせい	翠羽でできた旗。
+j	翠旍	すいせい	翠羽でできた旗。
+j	翠曽	すいそう	カワセミのように飛び上がって舞うこと（参考：『新選…
+j	翠木	すいぼく	緑が美しい木立。
+j	翠柳	すいりう	lush green willow
+j	翠楼	すいろう	緑色に塗った楼閣。
+j	翠樾	すいえつ	翠の樾。青々と茂る木々のかげ。青葉のかげ。
+j	翠漢	すいかん	美しい空。
+j	翠烟	すいえん	翠煙の異表記。
+j	翠煙	すいえん	緑色の煙。
+j	翠礀	すいかん	翠の谷。
+j	翠竹	すいちく	密生している竹。密竹。
+j	翠蔭	すいいん	「翠陰」の異表記。
+j	翠藍	すいらん	薄縹。薄花色。
+j	翠蘚	すいせん	緑苔。
+j	翠観	すいかん	翠の楼観。
+j	翠陰	すいいん	青葉のかげ。みどりの葉かげ。
+j	翠館	すいかん	青楼。
+j	翠鬟	すいかん	翠の黒髪。美しい髪の女性。
+j	耒偏	すきへん	漢字の部首「⽾」が偏である場合の呼称。
+j	膵島	すいとう	islets of Langerhans
+j	膵液	すいえき	膵臓で分泌される消化液。
+j	膵炎	すいえん	膵臓におこる急性または慢性の炎症性疾患の総称。膵臓…
+j	膵癌	すいがん	pancreatic cancer
+j	膵石	すいせき	膵臓の膵管内にできる結石。
+j	膵管	すいかん	膵液を十二指腸まで運ぶ管。
+j	膵臓	すいぞう	pancreas
+j	膵蛭	すいてつ	扁形動物門吸虫綱二生亜綱二腔吸虫科に属する寄生虫。…
+j	芻牧	すうぼく	草を刈り、牛馬を飼養すること。また、それをする人。
+j	芻秣	すうまつ	牛馬の飼料。まぐさ。
+j	芻米	すうべい	まぐさと米。人馬の食糧。
+j	芻草	すうそう	家畜の飼料にする刈草。
+j	芻言	すうげん	芻蕘の言葉。
+j	芻豢	すうかん	家畜。
+j	菅原	すがはら	a surname
+j	菅原	すがわら	a surname
+j	菅沼	すがぬま	a surname
+j	菅沼	すげぬま	a surname
+j	菅谷	すがたに	a surname
+j	萃如	すいじょ	集まること。そのさま。
+j	萃曠	すいこう	広大なさま。
+j	萃然	すいぜん	萃如。
+j	蒭言	すうげん	「芻言」の異表記。
+j	蕤鮮	すいせん	美しく鮮やかなこと。そのさま。
+j	薦める	すすめる	to recommend
+j	蘇門答刺	すまとら	
+j	蘇門答刺	スマトラ	
+j	蘿蔔	すずしろ	daikon radish (Raphanus r…
+j	衰乏	すいぼう	減少すること。
+j	衰乱	すいらん	世の道徳、秩序、政治などが衰えて乱れること。
+j	衰倦	すいけん	懶さ。
+j	衰分	すいぶん	古代中国の数学と和算で一定の量を分配するための算術。
+j	衰容	すいよう	やつれた容姿。衰貌。
+j	衰廃	すいはい	衰え、廃れること。
+j	衰弊	すいへい	勢力などが衰え、弱ること。
+j	衰患	すいげん	衰え、患うこと。また、患い、衰えること。
+j	衰憊	すいはい	勢力などが衰え、弱ること。
+j	衰日	すいじつ	生年の干支によって忌み慎むべきとされる凶日。「衰」…
+j	衰日	すいにち	生年の干支によって忌み慎むべきとされる凶日。「衰」…
+j	衰替	すいたい	衰えてすたれること。
+j	衰槁	すいこう	衰朽すること。
+j	衰減	すいげん	衰えること。
+j	衰滅	すいめつ	
+j	衰疾	すいしつ	病むこと。
+j	衰翁	すいおう	老残の翁。
+j	衰耗	すいこう	衰え、弱ること。
+j	衰耗	すいもう	衰え、弱ること。
+j	衰興	すいこう	盛衰。
+j	衰蓬	すいほう	枯れた蓬。
+j	衰貌	すいぼう	やつれた容姿。衰容。
+j	衰賤	すいせん	落魄。
+j	衰退	すいたい	degeneration, decline
+j	衰頽	すいたい	衰えて弱ること。すたれること。
+j	衰顔	すいがん	窶れた顔。また、そのような顔付き。
+j	衰颯	すいさつ	衰退、衰微すること。
+j	衰髯	すいぜん	年老いて色褪せた髯。
+j	裾除け	すそよけ	underskirt worn under kim…
+j	西班牙	すぺいん	スペインの漢字表記。
+j	西班牙	スペイン	スペインの漢字表記。
+j	西瓜	すいくわ	watermelon
+j	角谷	すみたに	a surname
+j	計画	すきーむ	a plan, planning, schedul…
+j	誰人	すいじん	たれびと。誰。
+j	誶喧	すいけん	口喧しいこと。そのさま。
+j	資紀	すけのり	a male given name
+j	趨勢	すうせい	trend, tendency
+j	趨学	すうがく	就学すること。
+j	趨性	すうせい	刺激を受けた際に、一定の方向に移動しようとする性質…
+j	趨走	すうそう	（すうそう）走り赴くこと。
+j	透かさず	すかさず	instantly, without a mome…
+j	透かし屁	すかしべ	
+j	速やか	すみやか	speedy, prompt
+j	進める	すすめる	promote, pursue, move for…
+j	進んで	すすんで	voluntarily; willingly
+j	遂亡	すいぼう	滅亡すること。
+j	遂失	すいしつ	失墜。
+j	遂忿	すいふん	憤りを洩らすこと。
+j	遂行	すいかう	accomplishment; execution
+j	遂行	すいこう	accomplishment; execution
+j	遂進	すいしん	進むこと。
+j	遂願	すいがん	願いを遂げること。
+j	過ぎない	すぎない	merely; nothing more than
+j	過越	すぎこし	
+j	邃㵎	すいかん	邃い渓川。
+j	邃世	すいせい	邃古。
+j	邃僻	すいへき	邃く偏ること。
+j	邃冥	すいめい	邃く冥いこと。そのさま。
+j	邃初	すいしょ	遙か昔。
+j	邃厳	すいげん	奥深く荘厳であること。また、そのさま。
+j	邃奥	すいおう	深奥。
+j	邃室	すいしつ	奥座敷。
+j	邃密	すいみつ	幽邃。静邃。
+j	邃幽	すいゆう	邃く幽かなこと。
+j	邃延	すいえん	冕の上に被さっている板から垂れ下がること。
+j	邃房	すいぼう	邃室。
+j	邃深	すいしん	奥深いこと。そのさま。
+j	邃淵	すいえん	邃い淵。
+j	邃澗	すいかん	邃㵎の拡張新字体を用いた表記。
+j	邃穆	すいぼく	邃く慎ましいこと。そのさま。
+j	邃竹	すいちく	密竹。
+j	邃谷	すいこく	深谷。
+j	邃遠	すいえん	邃く遠いこと。そのさま。
+j	邃閣	すいかく	邃い高殿。
+j	酔乱	すいらん	酔って暴れること。
+j	酔人	すいじん	酔っ払い。酔客。
+j	酔仙	すいせん	酒仙。
+j	酔墨	すいぼく	酔って書くこと。
+j	酔姦	すいかん	酔ってる相手に対して性行為に及ぶこと。
+j	酔客	すいかく	酒に酔った人。酔っ払い。
+j	酔心	すいしん	心酔。傾倒。
+j	酔拳	すいけん	drunken boxing; drunken f…
+j	酔書	すいしょ	酔って書くこと。酔墨。
+j	酔朋	すいほう	酒を飲む際にいつも一緒に飲む仲間。酒友。
+j	酔漢	すいかん	かなり酒に酔っている男性。酔っ払い。酔客。
+j	酔眠	すいみん	酒に酔い寝ること。
+j	酔眸	すいぼう	酔ったときの瞳。酔眼。
+j	酔眼	すいがん	酒に酔った目。また、その目付き。
+j	酔紅	すいこう	酔顔。
+j	酔翁	すいおう	酔老。
+j	酔言	すいげん	酒に酔って言うたわごと。酔語。
+j	酔象	すいざう	drunken elephant (a piece…
+j	酔象	すいぞう	drunken elephant (a piece…
+j	酔豪	すいごう	酒豪。
+j	酔貌	すいぼう	酔った顔。
+j	酔迷	すいめい	酔って心が眩むこと。
+j	酔顔	すいがん	酒に酔っ払った顔。
+j	酔飽	すいほう	酒を飲み、たらふく食べること。
+j	酔飽	すいぼう	酒を飲み、たらふく食べること。
+j	酢の物	すのもの	sunomono
+j	酢豆腐	すどうふ	知ったか振り。半可通。
+j	酸っぱい	すっぱい	sour
+j	酸模	すかんぽ	synonym of 酸葉 (suiba, “co…
+j	醉書	すいしょ	酔書の旧字体表記。
+j	醉象	すいざう	drunken elephant (a piece…
+j	醉象	すいぞう	drunken elephant (a piece…
+j	鈴蘭	すずらん	the lily of the valley, C…
+j	鈴蘭	スズラン	the lily of the valley, C…
+j	鈴虫	すずむし	a bell cricket
+j	鈴虫	スズムシ	a bell cricket
+j	鋤焼き	すきやき	
+j	鋭い	するどい	sharp (of a blade etc.)
+j	錐体	すいたい	either a cone or a pyramid
+j	錐刀	すいとう	錐と小刀。
+j	錐刃	すいじん	錐刀。
+j	錐台	すいだい	錐体を底面に平行な平面で切って分けた際の、元の錐体…
+j	錐尖	すいせん	錐の先。
+j	錐末	すいまつ	錐の先。
+j	錐毛	すいもう	微細なもの。
+j	錐眼	すいがん	錐のように小さな穴。
+j	錘鉛	すいえん	測深器の錘とする鉛製の器具。
+j	錫石	すずいし	cassiterite
+j	錫箔	すずはく	tinfoil
+j	陬見	すうけん	偏見。
+j	隧口	すいこう	墓地への道の入り口。
+j	隧埏	すいえん	墓室の道。埏隧。
+j	隧道	すいどう	tunnel
+j	雀蛾	すずめが	a hawk moth, a sphingid
+j	雀蛾	スズメガ	a hawk moth, a sphingid
+j	雖然	すいぜん	しかしながら。けれども。
+j	雙六	すごろく	
+j	雛僧	すうそう	年少の僧。小僧。
+j	須佐之男	すさのお	Susanoo, the Japanese god…
+j	須佐之男	すさのを	Susanoo, the Japanese god…
+j	須佐之男	スサノオ	Susanoo, the Japanese god…
+j	須佐能乎	すさのお	
+j	頗る	すこぶる	extremely, highly
+j	頬	すえみつ	cheek (the side of the fa…
+j	頬	すえもと	cheek (the side of the fa…
+j	鮨詰め	すしづめ	packing of sushi in a con…
+j	鼈	すっぽん	a Chinese softshell turtl…
+j	鼈	スッポン	a Chinese softshell turtl…
+j	すいあげる	すいあげる	液体のものを吸って上へあげる。
+j	すいかずら	すいかずら	髪を結う際に用いる鬢付け油の代用品。
+j	すいかとう	すいかとう	西瓜糖: watermelon sugar, su…
+j	すいかわり	すいかわり	西瓜割り: a traditional Japan…
+j	すいしえい	すいしえい	水師営: shuishiying, naval o…
+j	すいません	すいません	「すみません」を参照。
+j	すいようび	すいようび	
+j	すいりゅう	すいりゅう	水流: water current
+j	すえつかた	すえつかた	物事の終わりの方。
+j	すえつける	すえつける	ある場所に置いて、動かないようにする。
+j	すえながく	すえながく	for a long time
+j	すえながく	すゑながく	for a long time
+j	すかしっぺ	すかしっぺ	「すかしべ」に同じ。
+j	すかしゆり	すかしゆり	ユリ目ユリ科ユリ属に属する多年草の一種。学名:Li…
+j	すがりつく	すがりつく	体を支えるなどのためにしがみつく。
+j	すきうつし	すきうつし	原本を透き通った紙を通して写すこと。敷き写し。透写…
+j	すきかって	すきかって	勝手気儘に振る舞うこと。また、そのようなさま。
+j	すききらい	すききらい	好きなものと嫌いなもの。
+j	すきとおる	すきとおる	物を通して内部や向こうが見える。
+j	すきばさみ	すきばさみ	texturizing shears
+j	すきやきや	すきやきや	すき焼きを提供する店、人。
+j	すくいだす	すくいだす	助け出す。救出する。
+j	すくいとる	すくいとる	掌や匙などで掬って取る。
+j	すくなくも	すくなくも	少なく見ても。
+j	すくもべや	すくもべや	籾殻を入れておく納屋の一室。
+j	すけこまし	すけこまし	女誑し。
+j	すけべいな	すけべいな	
+j	すさびごと	すさびごと	心が赴くまま慰みとする行為。なぐさみわざ。
+j	すさまじい	すさまじい	（限定的）程度が甚だしく、恐怖を感じさせる。凄惨だ。
+j	すさめごと	すさめごと	心の赴くまま慰み半分とすること。
+j	すしどころ	すしどころ	寿司屋。
+j	すじだてる	すじだてる	毛髪の癖を直し、正す。
+j	すじちがい	すじちがい	角が初形から動いて行けない位置に打ってあること。
+j	すすはらい	すすはらい	主に家屋の屋内、屋外にたまった煤や埃などを払うこと…
+j	すすみでる	すすみでる	進んで前へ出る。
+j	すすりなき	すすりなき	啜り泣くこと。
+j	すすりなく	すすりなく	声を出さずに泣く。
+j	すすり泣き	すすり泣き	
+j	すすり泣く	すすり泣く	
+j	すずのすけ	すずのすけ	宰之左: a male given name
+j	すずめだい	すずめだい	スズキ目ベラ亜目スズメダイ科に属する魚の総称。学名…
+j	すずめばち	すずめばち	膜翅目（ハチ目）スズメバチ科に属する昆虫のうち、ス…
+j	すずめやき	すずめやき	雀の内臓を取り、照り焼きにした料理。
+j	すずりいし	すずりいし	硯。
+j	すずりばこ	すずりばこ	box for holding calligrap…
+j	すそをひく	すそをひく	to have a long, trailing …
+j	すっごーい	すっごーい	elongated form of すごい
+j	すっとばす	すっとばす	to make something fly wit…
+j	すっぱだか	すっぱだか	素っ裸: nakedness, birthday …
+j	すっぽかす	すっぽかす	to leave (something) undo…
+j	すてきな人	すてきな人	
+j	すてきもの	すてきもの	
+j	すてどころ	すてどころ	捨てるのに良い場所や時期。
+j	すどうせき	すどうせき	須藤石: sudoite
+j	すなあそび	すなあそび	砂をいじって遊ぶこと。
+j	すなあらし	すなあらし	砂漠などで吹き荒れる砂を激しく吹きつける嵐。砂暴風…
+j	すなけむり	すなけむり	風で砂が舞い上がって煙のように見えるもの。砂塵。
+j	すなねずみ	すなねずみ	ネズミ目ネズミ科スナネズミ属に属するねずみの一種。…
+j	すなぼこり	すなぼこり	風などにより細かい砂が舞い上がって、埃のように見え…
+j	すなやつめ	すなやつめ	ヤツメウナギ目ヤツメウナギ科カワヤツメ属のうち、キ…
+j	すばしこい	すばしこい	nimble, agile (having the…
+j	すばらしい	すばらしい	誰もが感心するほどにすぐれている。
+j	すべからく	すべからく	by all means must, certai…
+j	すべりだし	すべりだし	beginning stage of an end…
+j	すべりどめ	すべりどめ	滑るのを防止するための装置や器具、材料。
+j	すべりひゆ	すべりひゆ	ナデシコ目スベリヒユ科スベリヒユ属に属する一年草、…
+j	すましがお	すましがお	staid, composed face (fac…
+j	すましがお	すましがほ	staid, composed face (fac…
+j	すましじる	すましじる	出し汁に醤油や塩で味付けした透明な汁。すまし。
+j	すみぶくろ	すみぶくろ	故人の遺骸に首にかける頭陀袋。
+j	すみません	すみません	sorry! (in apology, more …
+j	すみまへん	すみまへん	
+j	すみやかに	すみやかに	
+j	すみれいろ	すみれいろ	菫の花のような濃い紫。
+j	すみわたる	すみわたる	一面に澄む。
+j	すもうとり	すもうとり	相撲をとること。また、それを職業とする者。力士。
+j	すもうべや	すもうべや	力士と親方が所属し、寝食を共にする集団。
+j	すらすらと	すらすらと	
+j	すりあわせ	すりあわせ	「すりあわせる」の未然形及び連用形。
+j	すりおろす	すりおろす	to grate (vegetables, fru…
+j	すりかえる	すりかえる	to discreetly swap
+j	すりきれる	すりきれる	wear, wear out, become wo…
+j	すりつぶす	すりつぶす	すって細かく潰したり砕く。
+j	すりぬける	すりぬける	to slip through
+j	すりへらす	すりへらす	擦って減らしたり磨滅させたりする。
+j	するつもり	するつもり	
+j	するめいか	するめいか	ツツイカ目スルメイカ属に属するいかの一種。学名:T…
+j	すれちがい	すれちがい	触れる程度に通り過ぎること。すれちがえ。すりちがい…
+j	すれちがう	すれちがう	触れる程度に通り過ぎる。
+j	すわりこみ	すわりこみ	立った状態から座る動作を指す。動作過程が着目され、…
+j	すわりこむ	すわりこむ	立った状態から座った状態への動作をおこなう。着座す…
+j	すんません	すんません	
+j	スィヤーム	スィヤーム	fast, sawm
+j	スイカズラ	スイカズラ	マツムシソウ目スイカズラ科スイカズラ属に属する常緑…
+j	スイギュウ	スイギュウ	鯨偶蹄目ウシ科アジアスイギュウ属に属する牛の一種。…
+j	スイス人	すいすじん	Swiss (person, people)
+j	スイス人	スイスじん	Swiss (person, people)
+j	スイス料理	スイス料理	スイスの伝統的な料理。
+j	スイス連邦	スイス連邦	Swiss Confederation (offi…
+j	スイフト狐	スイフト狐	a swift fox (Vulpes velox)
+j	スイミング	スイミング	swimming
+j	スインガー	スインガー	
+j	スウィング	スウィング	「スイング」の表記ゆれ。
+j	スウィーツ	スウィーツ	「スイーツ」を参照。
+j	スウィート	スウィート	「スイート」の表記ゆれ。
+j	スウェット	スウェット	汗、発汗。
+j	スウォンジ	スウォンジ	
+j	スエズ地峡	スエズ地峡	アフリカ大陸とユーラシア大陸を接続する地峡。エジプ…
+j	スエズ運河	スエズ運河	Suez Canal (a canal in Eg…
+j	スエーデン	スエーデン	スウェーデン。
+j	スカジャン	スカジャン	a Japanese type of blouso…
+j	スカッシュ	スカッシュ	squash, a soft drink made…
+j	スカラー場	すからーば	空間内の各点にそれぞれスカラーを割り当てる写像F:…
+j	スカラー場	スカラー場	空間内の各点にそれぞれスカラーを割り当てる写像F:…
+j	スカラー積	スカラー積	標準内積に同じ。
+j	スカラー量	スカラー量	大きさのみを持つ量。スカラー。
+j	スカンク科	スカンク科	《分類学》 哺乳綱獣亜綱ローラシア獣上目ネコ目イヌ…
+j	スキゾイド	スキゾイド	
+j	スキットル	スキットル	hip flask
+j	スキビディ	スキビディ	
+j	スキャナー	スキャナー	scanner (device which sca…
+j	スキャルプ	スキャルプ	ヒトの頭皮。
+j	スキュレー	スキュレー	
+j	スキューバ	スキューバ	水中で呼吸ができるよう、空気を詰めたタンクとその中…
+j	スキレット	スキレット	synonym of フライパン (furaipa…
+j	スキンケア	スキンケア	skincare
+j	スキージー	スキージー	
+j	スキーヤー	スキーヤー	a skier
+j	スキーン腺	スキーン腺	Skene's gland
+j	スクアレン	スクアレン	
+j	スクウェア	スクウェア	square
+j	スクライブ	スクライブ	
+j	スクラッチ	スクラッチ	ひっかくこと。けずること。
+j	スクラップ	スクラップ	clipping (of a newspaper)…
+j	スクリプト	スクリプト	script (text of the dialo…
+j	スクリュー	スクリュー	螺旋。ねじ。
+j	スクリーン	スクリーン	screen of a computer, tel…
+j	スクロース	スクロース	sucrose
+j	スクロール	スクロール	scrolling
+j	スクワット	スクワット	直立した姿勢から膝の屈伸を繰り返す運動。
+j	スクーター	スクーター	motor scooter
+j	スクーナー	スクーナー	
+j	スケルタル	スケルタル	skeletal
+j	スケルツォ	スケルツォ	
+j	スケルトン	スケルトン	skeleton (type of tobogga…
+j	スケーター	スケーター	スケートの選手。
+j	スケート場	スケート場	「スケートリンク」に同じ。
+j	スケート靴	スケート靴	
+j	スコずわり	スコずわり	upright sitting pose char…
+j	スジオイヌ	スジオイヌ	ネコ目イヌ科クルペオギツネ属に属する食肉類の一種。…
+j	スジュード	スジュード	sujud
+j	スズの兵隊	スズの兵隊	
+j	スズキ目	すずきもく	ペルカ目の旧称。
+j	スズメバチ	スズメバチ	
+j	スタイラス	スタイラス	stylus
+j	スタクトン	スタクトン	Stockton (a city in Calif…
+j	スタジアム	スタジアム	stadium
+j	スタディー	スタディー	study
+j	スタンガン	スタンガン	a stun gun
+j	スタンナン	スタンナン	
+j	スタンバる	スタンバる	to be ready and on standby
+j	スタンバイ	スタンバイ	standby
+j	スタンプ台	スタンプ台	ink-pad
+j	スタンリー	スタンリー	a transliteration of the …
+j	スターター	スターター	
+j	スターダム	スターダム	stardom
+j	スターリン	スターリン	a transliteration of the …
+j	スター効果	スター効果	
+j	スチロール	スチロール	スチレンのこと。
+j	スチーブン	スチーブン	Stephen
+j	スチール缶	スチール缶	鉄を主な成分としてつくられた缶。
+j	ステアリン	ステアリン	stearin
+j	スティグマ	スティグマ	
+j	スティック	スティック	a stick, such as lipstick…
+j	スティーブ	スティーブ	a transliteration of the …
+j	スティーヴ	スティーヴ	Steve
+j	ステッカー	ステッカー	sticker
+j	ステファノ	ステファノ	
+j	ステュクス	ステュクス	地下を流れているとされる大河。またはそれを神格化し…
+j	ステルス機	ステルス機	
+j	ステロイド	ステロイド	steroid
+j	ステロール	ステロール	脂質の一つでステロイドのアルコールの総称。
+j	ステンシル	ステンシル	
+j	ステンレス	ステンレス	stainless
+j	ステークス	ステークス	stakes (a type of horse r…
+j	ステージ袖	ステージ袖	
+j	ステータス	ステータス	status, especially social…
+j	ステープラ	ステープラ	
+j	ステープル	ステープル	ステープラー（ホチキス）に使用するコの字形で金属製…
+j	スデロット	スデロット	
+j	ストイック	ストイック	strict with oneself, self…
+j	ストゥーパ	ストゥーパ	stupa
+j	ストゥール	ストゥール	
+j	ストッパー	ストッパー	
+j	ストップ安	ストップ安	株や商品の市場取引において価格が下がりすぎて、取引…
+j	ストップ高	ストップ高	株や商品の市場取引において価格が上がりすぎて、取引…
+j	ストマック	ストマック	胃。
+j	ストライキ	ストライキ	strike, a work stoppage
+j	ストライク	ストライク	strike
+j	ストライド	ストライド	大股で歩くこと。また、その歩幅。
+j	ストライプ	ストライプ	縞。縞模様。
+j	ストラップ	ストラップ	strap
+j	ストリップ	ストリップ	striptease, strip show
+j	ストリング	ストリング	string (of text character…
+j	ストリート	ストリート	street
+j	ストリーム	ストリーム	気体や液体の流れ。気流。海流。
+j	ストルゲー	ストルゲー	
+j	ストレッチ	ストレッチ	stretching (exercise)
+j	ストレンジ	ストレンジ	風変わりなさま。奇妙なさま。
+j	ストレージ	ストレージ	storage
+j	ストレート	ストレート	straightforward
+j	ストロング	ストロング	丈夫なさま。強力なさま。
+j	ストローク	ストローク	stroke or swing in sports
+j	ストーカー	ストーカー	a stalker
+j	ストーリー	ストーリー	story (account of events)
+j	スナイパー	スナイパー	
+j	スナネズミ	スナネズミ	
+j	スナバシリ	スナバシリ	
+j	スナヤツメ	スナヤツメ	「すなやつめ」の学術的表記。
+j	スニフター	スニフター	
+j	スニーカー	スニーカー	a sneaker (leisure shoes,…
+j	スヌーカー	スヌーカー	ビリヤードに似た競技でポケットビリヤードの2倍以上…
+j	スヌーピー	スヌーピー	
+j	スノーケル	スノーケル	snorkel
+j	スノードン	スノードン	
+j	スノーマン	スノーマン	雪達磨
+j	スハーヘン	スハーヘン	
+j	スパイカー	スパイカー	スパイクを打つ選手。アタッカー。ウィングスパイカー…
+j	スパイク靴	スパイク靴	
+j	スパイシー	スパイシー	spicy
+j	スパイダー	スパイダー	spider
+j	スパイラル	スパイラル	spiral (continual increas…
+j	スパイ機関	スパイ機関	
+j	スパイ罪	すぱいざい	
+j	スパイ行為	スパイ行為	
+j	スパゲティ	スパゲティ	「スパゲッティ」に同じ。
+j	スパシーバ	スパシーバ	thank you (in the context…
+j	スパニエル	スパニエル	スペインの猟犬を始祖とするフラッシュを行う鳥猟犬の…
+j	スパム結び	スパム結び	
+j	スパンカー	スパンカー	洋式の帆船で通常後檣に桁を斜めにしてかける帆。
+j	スパングル	スパングル	spangle
+j	スパーテル	スパーテル	
+j	スピノール	スピノール	
+j	スピリッツ	スピリッツ	飲用の蒸留アルコール、スピリット。
+j	スピリット	スピリット	魂、精神。
+j	スピンオフ	スピンオフ	spin-off
+j	スピンオン	スピンオン	民間で開発された品物を軍事目的に転用すること。
+j	スピーカー	スピーカー	speaker (person who speak…
+j	スピーディ	スピーディ	はやいさま。迅速。すみやか。
+j	スピーヌム	スピーヌム	（ラテン語文法、ラテン語:supinumの音写）目…
+j	スフマート	スフマート	sfumato
+j	スプライト	スプライト	
+j	スプラウト	スプラウト	
+j	スプリッタ	スプリッタ	
+j	スプリット	スプリット	フレームの1投目で残ったピンとピンの間が空くこと。
+j	スプリング	スプリング	Spring (season).
+j	スプリント	スプリント	sprint (short race at top…
+j	スプレッド	スプレッド	広がり具合。
+j	スプレー缶	スプレー缶	spray can
+j	スヘルデ川	スヘルデ川	
+j	スペアリブ	スペアリブ	豚肉で肋骨のあたりの肉。
+j	スペインの	スペインの	
+j	スペイン人	スペイン人	a Spaniard
+j	スペイン国	スペイン国	the Spanish State
+j	スペイン語	すぺいんご	Spanish language
+j	スペイン語	スペインご	Spanish language
+j	スペイン語	スペイン語	Spanish language
+j	スペクトル	スペクトル	a spectrum
+j	スペシャル	スペシャル	special
+j	スペツナズ	スペツナズ	
+j	スペリング	スペリング	spelling
+j	スペルミス	スペルミス	spelling mistake; misspel…
+j	スポイラー	スポイラー	spoiler (automobiles: dev…
+j	スポケーン	スポケーン	Spokane (a city in Washin…
+j	スポンサー	スポンサー	sponsor (a person who pro…
+j	スポンデー	スポンデー	
+j	スポーケン	スポーケン	
+j	スポーツ史	すぽーつし	スポーツに関する歴史。
+j	スポーツ史	スポーツ史	スポーツに関する歴史。
+j	スポーツ紙	すぽーつし	スポーツに関するニュースを中心に伝える新聞。スポー…
+j	スポーツ紙	スポーツ紙	スポーツに関するニュースを中心に伝える新聞。スポー…
+j	スポーツ誌	すぽーつし	スポーツに関するニュースを中心に伝える雑誌。スポー…
+j	スポーツ誌	スポーツ誌	スポーツに関するニュースを中心に伝える雑誌。スポー…
+j	スマイリー	スマイリー	
+j	スマッシュ	スマッシュ	高く上がったボールを相手のコートへ強く打つこと。
+j	スマトラ島	スマトラ島	大スンダ列島西部に位置する島。
+j	スマトラ犀	スマトラ犀	a Sumatran rhinoceros (Di…
+j	スマトラ象	スマトラ象	アジア象の亜種。学名は Elephas maxim…
+j	スムージー	スムージー	smoothie
+j	スメルシュ	スメルシュ	SMERSH (WWII-era Russian …
+j	スモーカー	スモーカー	喫煙者、愛煙家。
+j	スライサー	スライサー	
+j	スライダー	スライダー	slider
+j	スラッガー	スラッガー	長打を多く打つ打者。強打者。
+j	スラックス	スラックス	a pair of slacks
+j	スラッシュ	スラッシュ	slash character ("/")
+j	スラナン語	すらなんご	スリナムで話される、クレオール言語に分類される言語。
+j	スラナン語	スラナン語	スリナムで話される、クレオール言語に分類される言語。
+j	スラブ人	すらぶじん	Slav (a member of a group…
+j	スラブ人	スラブじん	Slav (a member of a group…
+j	スラブ学	すらぶがく	
+j	スラブ語派	すらぶごは	「スラヴ語派」の表記揺れ。
+j	スラブ語派	スラブごは	「スラヴ語派」の表記揺れ。
+j	スラブ語派	スラブ語派	「スラヴ語派」の表記揺れ。
+j	スラム街	すらむがい	「スラム」に同じ。
+j	スラローム	スラローム	回転競技。
+j	スラヴ人	すらゔじん	Slav (a member of a group…
+j	スラヴ人	スラヴじん	Slav (a member of a group…
+j	スラヴ学	すらゔがく	
+j	スラヴ祖語	スラヴ祖語	スラヴ語派各言語の始原とされ再建された祖語。
+j	スラヴ語派	すらゔごは	the Slavic languages
+j	スラヴ語派	スラヴごは	the Slavic languages
+j	スラヴ語派	スラヴ語派	the Slavic languages
+j	スリザリン	スリザリン	
+j	スリナムの	スリナムの	
+j	スリナム人	スリナム人	
+j	スリュムル	スリュムル	土星の第30衛星の固有名。
+j	スリランカ	スリランカ	Sri Lanka (an island and …
+j	スリリング	スリリング	スリルのある様子。
+j	スリンキー	スリンキー	
+j	スリーター	スリーター	原動機を搭載した三輪の乗り物でスイング機構を持ち、…
+j	スルターン	スルターン	a sultan
+j	スルック語	スルック語	
+j	スルメイカ	スルメイカ	「するめいか」の学術的表記。
+j	スレイベル	スレイベル	
+j	スレオニン	スレオニン	
+j	スレンダー	スレンダー	slender
+j	スレンバン	スレンバン	
+j	スレ違い	すれちがい	posting in the wrong thre…
+j	スレ違い	スレちがい	posting in the wrong thre…
+j	スロットル	スロットル	
+j	スロバキア	スロバキア	Slovakia (a country in Ce…
+j	スロベニア	スロベニア	Slovenia (a country on th…
+j	スロヴィオ	スロヴィオ	
+j	スローイン	スローイン	
+j	スローオフ	スローオフ	ボールを投げて試合の開始や得点後の試合開始または試…
+j	スローガン	スローガン	slogan
+j	スローター	スローター	惨殺。虐殺。
+j	スローモー	スローモー	「スローモーション」の略。
+j	スワジ人	すわじじん	エスワティニの主要民族。バントゥー人の一派。
+j	スワヒリ語	すわひりご	Swahili (language)
+j	スワヒリ語	スワヒリご	Swahili (language)
+j	スワヒリ語	スワヒリ語	Swahili (language)
+j	スワート川	スワート川	
+j	スンダ人	すんだじん	インドネシア・ジャワ島西部の民族。オーストロネシア…
+j	スンニー派	スンニー派	
+j	スンバワ島	スンバワ島	Sumbawa
+j	スヴァン語	スヴァン語	グルジアの北西部などで話されている、カルトヴェリ語…
+j	スーサイド	スーサイド	suicide
+j	スーザホン	スーザホン	スーザフォンの別形。
+j	スーシティ	スーシティ	Sioux City
+j	スーマック	すーまっく	
+j	スーマック	スーマック	
+j	凄まじい	すさまじい	dreadful, threatening
+j	出納簿	すいとうぼ	
+j	助け平な	すけべいな	
+j	吸い上げる	すいあげる	pump, absorb
+j	吸い上げる	すひあげる	pump, absorb
+j	吸い寄せる	すいよせる	to attract; to suck in
+j	吸い寄せる	すひよせる	to attract; to suck in
+j	吹管	すいくわん	blowpipe
+j	周防灘	すおうなだ	山口県、福岡県、大分県に囲まれた瀬戸内海北西端の海…
+j	啜り泣く	すすりなく	to sob
+j	四槓子	すーかんつ	winning hand containing f…
+j	四槓子	スーカンツ	winning hand containing f…
+j	垂拱	すいきょう	君主が何事もしないこと。天下が良く治まっていること…
+j	垂教	すいきょう	教えを説いて示すこと。
+j	垂柳	すいりゅう	weeping willow
+j	垂業	すいぎょう	事業を始めること。
+j	垂準	すいじゅん	大工が柱の曲がりや傾きを測るため、墨縄を垂直に垂ら…
+j	垂直	すいちょく	vertical, perpendicular
+j	垂矜	すいきょう	憐れみを掛けること。
+j	垂裳	すいしょう	手をこまねいて何もしないこと。天下が治まっているこ…
+j	垂迹	すいじゃく	仏や菩薩が衆生救済のため仮の姿で出現すること。
+j	垂釣	すいちょう	水中に釣り針を垂らして魚を釣ること。
+j	垂髫	すいちょう	小さな子供の下げ髪。
+j	天皇	すめらぎみ	an Emperor or Empress (re…
+j	好きなだけ	すきなだけ	freely; as much as one wa…
+j	好きになる	すきになる	to fall in love; to becom…
+j	好き嫌い	すききらい	likes and dislikes
+j	好き嫌い	すききらひ	likes and dislikes
+j	宰之左	すずのすけ	a male given name
+j	寸描	すんびょう	ごく簡単に描写すること。スケッチ。
+j	寸秒	すんびょう	ごく僅かな時間。
+j	少しずつ	すこしずつ	little by little
+j	崇重	すうちょう	崇め、重んじるさま。尊重。
+j	座り込み	すわりこみ	sit-in (protest)
+j	座り込む	すわりこむ	to sit down heavily
+j	忍冬	すいかずら	synonym of 吸葛 (suikazura,…
+j	忍冬	すひかづら	synonym of 吸葛 (suikazura,…
+j	忍冬	スイカズラ	synonym of 吸葛 (suikazura,…
+j	捶胸	すいきょう	胸を捶って悲しむこと。
+j	推力	すいりょく	thrust (propulsion force)
+j	推奨	すいしやう	recommendation, encourage…
+j	推奨	すいしょう	recommendation, encourage…
+j	推尚	すいしょう	尊ぶこと。
+j	推測	すいそくる	speculation, conjecture, …
+j	推理	すいりする	deduction, inference
+j	推移	すいいする	transition
+j	推移的	すいいてき	
+j	推譲	すいじょう	他人を推して自分は譲ること。
+j	推進器	すいしんき	thruster, propeller
+j	推重	すいちょう	尊重すること。
+j	推量	すいりやう	conjecture
+j	推量	すいりょう	conjecture
+j	掬い投げ	すくいなげ	sukuinage
+j	掬い投げ	すくひなげ	sukuinage
+j	揩鼓	すりつづみ	かつて日本で使用された打楽器。中央がくびれた胴の両…
+j	擦れ違う	すれちがう	to pass by, to move in op…
+j	救い主	すくいぬし	
+j	救い出す	すくいだす	
+j	数人の	すうにんの	
+j	数兆	すうちょう	2兆から5兆くらいの大雑把な数。
+j	数十	すうじゅう	scores, dozens
+j	数学史	すうがくし	数学に関する歴史。
+j	数弱	すうじゃく	数学が苦手であること。また、そのような人。
+j	数百	すうひゃく	200から500くらいの大雑把な数。
+j	数秒	すうびょう	a few seconds
+j	数表	すうひょう	一定の規則により計算した結果を記した表。
+j	数量	すうりょう	quantity
+j	晋	すすむしん	the Chinese state of Jin …
+j	末つ方	すえつかた	
+j	末永い	すえながい	permanent, everlasting, v…
+j	末永い	すゑながい	permanent, everlasting, v…
+j	朱雀門	すざくもん	大内裏の正門
+j	枢機卿	すうきけい	cardinal
+j	枢相	すうしょう	「枢密院議長」の略称。
+j	水上	すいじやう	aquatic
+j	水上	すいじょう	aquatic
+j	水中	すいちゅう	underwater
+j	水力	すいりょく	waterpower, hydraulic pow…
+j	水化	すいかする	hydration (incorporation …
+j	水和物	すいわぶつ	
+j	水墨画	すいぼくが	water ink pictures
+j	水定	すいじょう	仏道を修行する者が自ら水中に身を投げ死ぬこと。
+j	水密の	すいみつの	
+j	水師営	すいしえい	naval camps or office bui…
+j	水平な	すいへいな	
+j	水彩画	すいさいが	watercolour painting (a p…
+j	水晶	すいしやう	crystal
+j	水晶	すいしょう	crystal
+j	水曜日	すいえうび	Wednesday
+j	水曜日	すいようび	Wednesday
+j	水松	すいしょう	Chinese swamp cypress (Gl…
+j	水松	スイショウ	Chinese swamp cypress (Gl…
+j	水柱	すいちゅう	column of water
+j	水死	すいしする	drowning
+j	水死体	すいしたい	drowned corpse; corpse as…
+j	水流	すいりゅう	water current
+j	水源地	すいげんち	source of a river
+j	水準	すいじゅん	the sufficient level; lev…
+j	水滸伝	すいこでん	Water Margin
+j	水牛	すいぎゅう	water buffalo, Bubalus bu…
+j	水玉	すいぎょく	a water droplet, such as …
+j	水球	すいきゅう	water polo
+j	水理学	すいりがく	
+j	水瓶	すいびやう	water jug
+j	水瓶	すいびょう	water jug
+j	水産科	すいさんか	大学や短期大学、専門学校に設置している水産に関する…
+j	水管	すいくわん	water pipe, drain
+j	水素酸	すいそさん	
+j	水脈	すいみゃく	海洋や河川で舟が通る道。航路。
+j	水行	すいぎょう	【すいぎょう・みずぎょう】神仏に祈願したり、心神の…
+j	水象	すいしょう	気象や地震に関連して起こる陸水や海洋の様々な現象。
+j	水路橋	すいろけう	synonym of 水道橋 (suidōkyō,…
+j	水車場	すいしゃば	
+j	水郷	すいきょう	川や湖沼などの水辺にある村里。水村。水郭。
+j	水酸化	すいさんか	hydroxylation, hydration;…
+j	水酸基	すいさんき	hydroxyl
+j	水量	すいりょう	volume of water, quantity…
+j	水鏡	すいきょう	水面に物の影が移ること。みずかがみ。
+j	水面下	すいめんか	below the water surface
+j	水食	すいしょく	erosion.
+j	水鳥	すいちょう	waterfowl
+j	涼み台	すずみだい	夏に暑さを凌ぐため、軒先などに置く縁台。
+j	滑り台	すべりだい	a slide (item of play equ…
+j	澄み切った	すみきった	
+j	炊事	すいじする	cooking
+j	炊飯器	すいはんき	rice cooker
+j	燧鏡	すいきょう	火を取る鏡。
+j	相撲道	すもうどう	相撲の精神。
+j	睡興	すいきょう	睡味。寝心地。
+j	睡郷	すいきょう	夢の中の世界。夢の中。
+j	睡響	すいきょう	鼾。
+j	砂の城	すなのしろ	
+j	砂八目	すなやつめ	すなやつめの漢字表記
+j	砂嵐	すなあらし	sandstorm
+j	砂時計	すなどけい	hourglass
+j	砂煙	すなけむり	cloud of sand
+j	砂色の	すないろの	
+j	砂遊び	すなあそび	すなあそびの漢字表記。
+j	砂鼠	すなねずみ	a Mongolian gerbil (Merio…
+j	砂鼠	スナネズミ	a Mongolian gerbil (Merio…
+j	穂状	すいじょう	穂のような形状。
+j	筋向かい	すじむかい	the diagonal opposite, ca…
+j	粋狂	すいきょう	物好きなこと。好事。
+j	素っ裸	すっぱだか	nakedness, birthday suit
+j	素寒貧	すかんぴん	abject poverty
+j	素晴しい	すばらしい	
+j	素晴らしい	すばらしい	terrific, wonderful, sple…
+j	素晴らしき	すばらしき	
+j	素晴らしさ	すばらしさ	
+j	素法県	すぽーけん	
+j	素法県	スポーケン	
+j	綏芬河	すいふんが	
+j	縋り付く	すがりつく	to cling to
+j	翠柳	すいりゅう	lush green willow
+j	翠玉	すいぎょく	宝石のエメラルドのこと。
+j	翠翹	すいぎょう	翡翠でできた髪飾り。
+j	翠髪の	すいはつの	
+j	翠鬟の	すいかんの	
+j	芻場	すうじょう	まぐさば、牧場。
+j	芻粮	すうりょう	「芻糧」の異表記。
+j	芻糧	すうりょう	まぐさと兵糧。人馬の食糧。
+j	芻菽	すうしゅく	まぐさと豆。
+j	芻蕘	すうきょう	草刈りと木こり。
+j	芻蕘	すうぎょう	草刈りと木こり。
+j	芻蕘	すうじょう	草刈りと木こり。
+j	菫色	すみれいろ	violet (color)
+j	菫草	すみれぐさ	synonym of 菫 (sumire, “Vi…
+j	蒭蕘	すうきょう	「芻蕘」の異表記。
+j	蒭蕘	すうぎょう	「芻蕘」の異表記。
+j	蒭蕘	すうじょう	「芻蕘」の異表記。
+j	蘇城	すーちゃん	Partizansk, Suchan (a tow…
+j	蘇城	スーチャン	Partizansk, Suchan (a tow…
+j	衰弱	すいじゃく	breakdown, collapse, emac…
+j	衰弱	すいじやく	breakdown, collapse, emac…
+j	衰朽	すいきゅう	衰え、朽ちること。
+j	西瓜割り	すいかわり	a traditional Japanese ga…
+j	西瓜糖	すいかとう	watermelon sugar, sugar m…
+j	誰何	すいかする	a challenge, questioning
+j	足恭	すうきょう	度が過ぎて恭しいこと。
+j	透かしっ屁	すかしっぺ	
+j	透き通る	すきとおる	to be transparent, can be…
+j	透き通る	すきとほる	to be transparent, can be…
+j	邃峻	すいしゅん	邃く峻しいこと。そのさま。
+j	邃暁	すいぎょう	深く理解すること。
+j	酔客	すいきゃく	酒に酔った人。酔っ払い。
+j	酔狂	すいきょう	酒などに酔い狂うこと。
+j	酔臥	すいがする	酒に酔って臥せること。酔って倒れること。
+j	酔興	すいきょう	酒に酔い楽しみ、興じること。
+j	酔郷	すいきょう	中国で伝えられる酔っ払いの天国。
+j	錐体路	すいたいろ	pyramidal tract
+j	錐状	すいじょう	錐のような形状。
+j	錫ペスト	すずぺすと	
+j	雀蜂	すずめばち	hornet, wasp, vespa
+j	雀蜂	スズメバチ	hornet, wasp, vespa
+j	雀鯛	すずめだい	a Chromis notata (pearl-s…
+j	雀鯛	スズメダイ	a Chromis notata (pearl-s…
+j	須勢理毘売	すせりびめ	daughter of 素戔嗚 (Susa no …
+j	須藤石	すどうせき	sudoite
+j	駿州	すんしゅう	駿河国の別称。
+j	騶従	すうじゅう	貴人が外出する際、その車馬に付き従うこと。また、そ…
+j	鯣烏賊	するめいか	a Japanese flying squid (…
+j	鯣烏賊	スルメイカ	a Japanese flying squid (…
+j	すいじょうき	すいじょうき	水蒸気: steam, water vapor
+j	すいとりがみ	すいとりがみ	インクで書いた物の上から押し当て余分なインクや水分…
+j	すいみんやく	すいみんやく	睡眠薬: sleeping pill
+j	すいりゅうき	すいりゅうき	水硫基: (organic chemistry) …
+j	すがすがしい	すがすがしい	すっきりしていて気持ちがいい。
+j	すがたかたち	すがたかたち	figure; appearance; form
+j	すきまゲージ	すきまゲージ	
+j	すくいあげる	すくいあげる	掬って外に引き上げる。
+j	すくなからず	すくなからず	程度や数量などが軽かったり少なくないさま。
+j	すくなからぬ	すくなからぬ	少なくない数の。
+j	すくなくとも	すくなくとも	少なくとも: at least
+j	すくやかもの	すくやかもの	すくやかな人。剛健な人。頑丈な人。
+j	すけそうだら	すけそうだら	「すけとうだら」の別表記。
+j	すけとうだら	すけとうだら	タラ科の海水魚。体はまだら（真鱈）より細く、身はす…
+j	すこっちょい	すこっちょい	素晴らしい。
+j	すじがとおる	すじがとおる	to be logical
+j	すじがねいり	すじがねいり	すじがねが入っていること。
+j	すじくわがた	すじくわがた	甲虫目クワガタムシ科オオクワガタ属に属するくわがた…
+j	すじりもじり	すじりもじり	squirmingly
+j	すじりもじり	すぢりもぢり	squirmingly
+j	すじをとおす	すじをとおす	to do what is logical and…
+j	すすだらけの	すすだらけの	
+j	すっからかん	すっからかん	empty
+j	すったもんだ	すったもんだ	arguing
+j	すってんてん	すってんてん	財産や所持していた金品をすべて失うさま。
+j	すっとぼける	すっとぼける	知っていても全く知らない素振りをする。
+j	すっぱい葡萄	すっぱい葡萄	
+j	すっぽんぽん	すっぽんぽん	stark naked
+j	すでのつくり	すでのつくり	漢字の部首「⽆」の呼称の一つ。
+j	すなけしゴム	すなけしゴム	sand eraser
+j	すばしっこい	すばしっこい	
+j	すべらみこと	すべらみこと	天皇の古称又は雅称。すめらみこと。
+j	すべりおちる	すべりおちる	滑って下に落ちる。
+j	すまなかった	すまなかった	
+j	すまんかった	すまんかった	
+j	すみませーん	すみませーん	
+j	すめらみこと	すめらみこと	天皇の古称又は雅称。
+j	すりあわせる	すりあわせる	いくつかの物を擦って合わせる。
+j	すれっからし	すれっからし	世間の中で揉まれ、悪賢くなったりひねくれたりするこ…
+j	スイスチーズ	スイスチーズ	スイスで多く生産される固く調味料として用いられるチ…
+j	スイスボール	スイスボール	
+j	スイッチオフ	スイッチオフ	switching off
+j	スイッチオン	スイッチオン	switching on
+j	スイムウェア	スイムウェア	水着。
+j	スイムパンツ	スイムパンツ	水泳をする際に男子が穿くトランクスまたはブリーフ状…
+j	スインギング	スインギング	
+j	スイングドア	スイングドア	swing door
+j	スイングバイ	スイングバイ	天体の万有引力を利用して燃料をほぼ使わずに軌道の変…
+j	スイートピー	スイートピー	sweet pea
+j	スウェーデン	スウェーデン	Sweden (a country in Scan…
+j	スウォンジー	スウォンジー	Swansea (a city and count…
+j	スエズ運河	すえずうんが	Suez Canal (a canal in Eg…
+j	スエズ運河	スエズうんが	Suez Canal (a canal in Eg…
+j	スカイブルー	スカイブルー	空色。
+j	スカイライン	スカイライン	skyline
+j	スカトロジー	スカトロジー	糞便学。
+j	スカポライト	スカポライト	ナトリウム・カルシウム・アルミニウムなどを含む珪酸…
+j	スカモルツァ	スカモルツァ	scamorza (an unfermented …
+j	スカラシップ	スカラシップ	「スカラーシップ」の表記ゆれ。
+j	スカラー行列	スカラー行列	全ての対角成分が同じ値で、その他の全ての成分が 0…
+j	スカンジウム	スカンジウム	scandium, Sc
+j	スカーレット	スカーレット	scarlet
+j	スキムボード	スキムボード	砂浜から海に向かって波乗りするスポーツ。
+j	スキムミルク	スキムミルク	
+j	スキャンする	スキャンする	
+j	スキャンダル	スキャンダル	a scandal
+j	スキルアップ	スキルアップ	improvement in skill
+j	スキンシップ	スキンシップ	skinship (bonding through…
+j	スキンヘッド	スキンヘッド	person with a shaved head
+j	スキーをする	スキーをする	
+j	スキーイング	スキーイング	synonym of スキー (sukī, “sk…
+j	スキーリフト	スキーリフト	a ski lift
+j	スキーン腺	すきーんせん	Skene's gland
+j	スキーン腺	スキーンせん	Skene's gland
+j	スキー場	すきーじょう	ski resort; a place offer…
+j	スキー場	スキーじょう	ski resort; a place offer…
+j	スクイズする	スクイズする	
+j	スクイーザー	スクイーザー	squeezer (a device used t…
+j	スクイージー	スクイージー	
+j	スクラロース	スクラロース	
+j	スクラントン	スクラントン	
+j	スクランブル	スクランブル	scramble (emergency defen…
+j	スクリプト体	スクリプト体	欧文活字で手書きの文字に似せた活字。
+j	スクレイピー	スクレイピー	
+j	スクレーパー	スクレーパー	
+j	スクールバス	スクールバス	a school bus
+j	スクール水着	スクール水着	school swimwear
+j	スケアクロウ	スケアクロウ	
+j	スケジュール	スケジュール	schedule
+j	スケトウダラ	スケトウダラ	すけとうだらの学術的表記。
+j	スケート靴	すけーとぐつ	
+j	スコアカード	スコアカード	
+j	スコアボード	スコアボード	a scoreboard
+j	スコーピング	スコーピング	方法書手続き。
+j	スジオナメラ	スジオナメラ	有鱗目ナミヘビ科ナメラ属に属する蛇の一種。学名は …
+j	ススイロガラ	ススイロガラ	
+j	スズカケノキ	スズカケノキ	
+j	スズミツスイ	スズミツスイ	
+j	スズメバチ科	スズメバチ科	《分類学》 昆虫綱ハチ目ハチ亜目スズメバチ上科の下…
+j	スタイリスト	スタイリスト	stylist
+j	スタチュート	スタチュート	
+j	スタッカート	スタッカート	staccato
+j	スタッキング	スタッキング	積み重ね、山積み。
+j	スタティック	スタティック	static
+j	スタディオン	スタディオン	古代ギリシアの長さの単位。1スタディオンは約185…
+j	スタブロポリ	スタブロポリ	
+j	スタンション	スタンション	
+j	スタンダード	スタンダード	standard
+j	スタンチョン	スタンチョン	
+j	スタントマン	スタントマン	a stuntman
+j	スタンドバー	スタンドバー	bar, a pub with no seats
+j	スタンプ台	すたんぷだい	ink-pad
+j	スタンプ台	スタンプだい	ink-pad
+j	スタヴロポリ	スタヴロポリ	
+j	スターアニス	スターアニス	star anise, dried fruit o…
+j	スターダスト	スターダスト	stardust
+j	スタート地点	スタート地点	
+j	スターレット	スターレット	
+j	スチュワード	スチュワード	a steward (flight attenda…
+j	スチール缶	すちーるかん	鉄を主な成分としてつくられた缶。
+j	ステアリング	ステアリング	
+j	ステアリン酸	ステアリン酸	stearic acid
+j	スティルトン	スティルトン	Stilton
+j	スティレット	スティレット	stiletto (knife)
+j	スティーブン	スティーブン	Stephen
+j	スティーヴン	スティーヴン	Stephen
+j	ステイホーム	ステイホーム	staying at home
+j	ステップ気候	ステップ気候	乾燥帯のうち年降水量の平年値が乾燥限界の半分以上乾…
+j	ステファノー	ステファノー	天王星の衛星の固有名。
+j	ステムレタス	ステムレタス	キク科の一年草または二年草。中国原産の野菜で、茎を…
+j	ステュアート	ステュアート	a transliteration of the …
+j	ステラジアン	ステラジアン	steradian
+j	ステラー懸巣	ステラー懸巣	a Steller's jay
+j	ステラー海牛	ステラー海牛	a Steller's sea cow
+j	ステンレス鋼	ステンレス鋼	鉄にクロムを含ませた、耐食性の高い合金鋼。不銹鋼。…
+j	ステーション	ステーション	a station (a place where …
+j	ステープラー	ステープラー	synonym of ホチキス (hochikis…
+j	ストッキング	ストッキング	stocking (garment)
+j	ストックトン	ストックトン	Stockton (a city in Calif…
+j	ストラテジー	ストラテジー	戦略。戦術。兵法。
+j	ストリキニン	ストリキニン	
+j	ストリッパー	ストリッパー	a stripper (a striptease …
+j	ストリンガー	ストリンガー	弦楽器の弦張り師。
+j	ストリングス	ストリングス	strings (music genre)
+j	ストリーカー	ストリーカー	
+j	ストリーマー	ストリーマー	streamer
+j	ストレスフル	ストレスフル	stressful
+j	ストレリチア	ストレリチア	
+j	ストレーナー	ストレーナー	
+j	ストロベリー	ストロベリー	a strawberry
+j	ストーキング	ストーキング	
+j	ストールする	ストールする	
+j	スナックバー	スナックバー	a snack bar
+j	スナック感覚	スナック感覚	Used other than figurativ…
+j	スナック菓子	すなっくがし	穀類やじゃがいもなどを主な原料とした手軽に食べられ…
+j	スナック菓子	スナック菓子	穀類やじゃがいもなどを主な原料とした手軽に食べられ…
+j	スナップ写真	スナップ写真	candid snapshot of daily …
+j	スナップ撮影	スナップ撮影	candid snapshot photograp…
+j	スナドリネコ	スナドリネコ	a fishing cat
+j	スネアドラム	スネアドラム	snare drum
+j	スノーケラー	スノーケラー	シュノーケリングをする人。
+j	スノーシュー	スノーシュー	
+j	スノータイヤ	スノータイヤ	雪道を走行する時に装着するタイヤ。
+j	スノーダンプ	スノーダンプ	
+j	スノードーム	スノードーム	スノーグローブ。
+j	スノーノイズ	スノーノイズ	noise (in video and telev…
+j	スノーバイク	スノーバイク	オートバイの前輪にそりを、後輪に無限軌道を装着した…
+j	スノーブーツ	スノーブーツ	
+j	スノープラウ	スノープラウ	a snow plow
+j	スノーボード	スノーボード	a snowboard
+j	スノーボール	スノーボール	
+j	スノームーン	スノームーン	ネイティブアメリカンの暦で2月の満月のこと。
+j	スノーモビル	スノーモビル	
+j	スバールバル	スバールバル	
+j	スパイウェア	スパイウェア	spyware
+j	スパイ行為	すぱいこうい	
+j	スパゲッティ	スパゲッティ	spaghetti
+j	スパゲティー	スパゲティー	「スパゲッティ」に同じ。
+j	スパニッシュ	スパニッシュ	スペイン人。
+j	スパムメール	スパムメール	spam
+j	スパリゾート	スパリゾート	温泉を中心としたリゾート。
+j	スパルタクス	スパルタクス	
+j	スパルタ教育	スパルタ教育	agoge (Spartan training r…
+j	スパンキング	スパンキング	spanking (the slapping of…
+j	スパンコール	スパンコール	spangle
+j	スピーキング	スピーキング	語学の技能としての会話。
+j	スピーディー	スピーディー	speedy; quick
+j	スピードガン	スピードガン	a radar gun
+j	スピードラン	スピードラン	タイムアタックに同じ。
+j	スピード違反	スピード違反	
+j	スファックス	スファックス	
+j	スフィンクス	スフィンクス	a sphinx (creature with t…
+j	スプリッター	スプリッター	DNS splitter
+j	スプリッツァ	スプリッツァ	
+j	スプリンクル	スプリンクル	
+j	スプリンター	スプリンター	陸上競技・競泳・スピードスケートなどの短距離種目の…
+j	スプレー缶	すぷれーかん	spray can
+j	スプレー缶	スプレーかん	spray can
+j	スプートニク	スプートニク	sputnik
+j	スプーンまげ	スプーンまげ	spoonbending
+j	スプーン一杯	スプーン一杯	
+j	スペアタイヤ	スペアタイヤ	運転時に携行する予備のタイヤ。標準のタイヤより内圧…
+j	スペアパーツ	スペアパーツ	
+j	スペアミント	スペアミント	spearmint
+j	スペインかぜ	スペインかぜ	
+j	スペイン人	すぺいんじん	a Spaniard
+j	スペイン人	スペインじん	a Spaniard
+j	スペイン内戦	スペイン内戦	the Spanish Civil War
+j	スペイン国	すぺいんこく	the Spanish State
+j	スペイン国	スペインこく	the Spanish State
+j	スペイン手話	スペイン手話	
+j	スペイン料理	スペイン料理	スペインの伝統的な料理。
+j	スペイン王国	スペイン王国	Kingdom of Spain (officia…
+j	スペイン語圏	スペイン語圏	スペインや南米など、スペイン語が日常で使用される地…
+j	スペイン風邪	すぺいんかぜ	the Spanish flu
+j	スペイン風邪	スペインかぜ	the Spanish flu
+j	スペイン風邪	スペイン風邪	the Spanish flu
+j	スペキュロス	スペキュロス	
+j	スペクタクル	スペクタクル	
+j	スペリオル湖	スペリオル湖	
+j	スペルアウト	スペルアウト	欧文等、特に連語のアルファベットなどの綴りを略さな…
+j	スペースキー	スペースキー	キーボードで空白を打つ長いキー。
+j	スペースバー	スペースバー	スペースキー。
+j	スボティツァ	スボティツァ	
+j	スポンサード	スポンサード	being sponsored
+j	スポンジ生地	すぽんじきじ	
+j	スポンジ生地	スポンジ生地	
+j	スポーツの日	すぽーつのひ	スポーツを通じて健康的な社会を目指すための国民の祝…
+j	スポーツの日	スポーツの日	スポーツを通じて健康的な社会を目指すための国民の祝…
+j	スポーツカー	スポーツカー	sports car
+j	スポーツバー	スポーツバー	a sports bar
+j	スポーツブラ	スポーツブラ	sports bra
+j	スポーツマン	スポーツマン	運動選手。
+j	スポーツ医学	スポーツ医学	スポーツが身体に及ぼす影響などについて医学的に研究…
+j	スポーツ賭博	スポーツ賭博	
+j	スポーツ選手	スポーツ選手	運動選手。アスリート。
+j	スポーティー	スポーティー	スポーツ向きで軽快なさま。
+j	スポーンする	スポーンする	
+j	スポーン地点	スポーン地点	
+j	スマトラサイ	スマトラサイ	ウマ目サイ科スマトラサイ属に属する犀の一種。学名:…
+j	スマトラゾウ	スマトラゾウ	スマトラ象の学術的表記。
+j	スマトラトラ	スマトラトラ	a Sumatran tiger
+j	スマトラ島	すまとらとう	大スンダ列島西部に位置する島。
+j	スマトラ犀	すまとらさい	a Sumatran rhinoceros (Di…
+j	スマトラ犀	スマトラさい	a Sumatran rhinoceros (Di…
+j	スマトラ犀	スマトラサイ	a Sumatran rhinoceros (Di…
+j	スマトラ象	すまとらぞう	アジア象の亜種。学名は Elephas maxim…
+j	スマートホン	スマートホン	「スマートフォン」の表記ゆれ。
+j	スミスマシン	スミスマシン	
+j	スミッシング	スミッシング	
+j	スミミザクラ	スミミザクラ	
+j	スモレンスク	スモレンスク	
+j	スラウェシ島	スラウェシ島	Sulawesi
+j	スラブ内地震	スラブ内地震	プレートが沈み込んだ先で起きる震源の深い地震。
+j	スラブ語学者	スラブ語学者	
+j	スラヴォニア	スラヴォニア	
+j	スリランカ人	スリランカ人	スリランカ国籍を有する人。スリランカ出身の人。
+j	スリランカ語	すりらんかご	シンハラ語に同じ。
+j	スリランカ語	スリランカ語	シンハラ語に同じ。
+j	スリルライド	スリルライド	a thrill ride
+j	スリーカード	スリーカード	synonym of スリー・オブ・ア・カインド …
+j	スリーサイズ	スリーサイズ	bust/waist/hip measuremen…
+j	スリーバント	スリーバント	2ストライク後に行うバント。この際、打球がファウル…
+j	スリーピース	スリーピース	three-piece suit
+j	スルホキシド	スルホキシド	sulfoxide
+j	スルホニルき	スルホニルき	スルホニル基: (chemistry) sulfo…
+j	スルホニル基	するほにるき	sulfonyl (functional grou…
+j	スルホニル基	スルホニルき	sulfonyl (functional grou…
+j	スルホニル基	スルホニル基	sulfonyl (functional grou…
+j	スルメ曲	するめきょく	最初に聴いた時はあまり印象に残らないが、何度も聴く…
+j	スレイプニル	スレイプニル	北欧神話に出てくる神馬。雲の象徴。
+j	スロバキア人	スロバキア人	スロバキア国籍を持つ人、スロバキア出身者。
+j	スロバキア語	すろばきあご	インド・ヨーロッパ語族スラヴ語派西スラヴ語に属する…
+j	スロバキア語	スロバキア語	インド・ヨーロッパ語族スラヴ語派西スラヴ語に属する…
+j	スロベニアの	スロベニアの	
+j	スロベニア人	スロベニア人	Slovene (a person)
+j	スロベニア語	すろべにあご	the Slovenian language
+j	スロベニア語	スロベニアご	the Slovenian language
+j	スロベニア語	スロベニア語	the Slovenian language
+j	スロヴァキア	スロヴァキア	「スロバキア」の異表記。
+j	スロヴェニア	スロヴェニア	Slovenia (a country on th…
+j	スローペース	スローペース	調子が遅いこと。
+j	スローライフ	スローライフ	easy-going life / lifesty…
+j	スローロリス	スローロリス	a slow loris
+j	スワジランド	スワジランド	Swaziland (former name of…
+j	スワスティカ	スワスティカ	
+j	スワッピング	スワッピング	複数の夫婦または男女のカップルが互いの相手を交換し…
+j	スワンボート	スワンボート	swan boat (novelty swan-s…
+j	スンバワ島	すんばわとう	Sumbawa
+j	スンバワ島	スンバワとう	Sumbawa
+j	スヴァローグ	スヴァローグ	
+j	スーザフォン	スーザフォン	sousaphone (brass instrum…
+j	スーツケース	スーツケース	suitcase
+j	スーパバイザ	スーパバイザ	
+j	スーパーカー	スーパーカー	
+j	スーパーマン	スーパーマン	Superman
+j	スーパーモト	スーパーモト	舗装路面と未舗装路面を織り交ぜたコースをオフロード…
+j	スーパー台風	スーパー台風	最大風速が概ね70 m/s以上の台風。
+j	スーパー特急	スーパー特急	在来線規格の車両を新幹線に乗り入れられるようにした…
+j	スーパー素数	スーパー素数	素数を数列にしたときの、素数番目の素数。
+j	スーパー銭湯	スーパー銭湯	“super-sentō”, a type of …
+j	スーフィズム	スーフィズム	Sufism
+j	スープボウル	スープボウル	
+j	介党鱈	すけたうだら	Alaska pollock
+j	介党鱈	すけとうだら	Alaska pollock
+j	介党鱈	スケトウダラ	Alaska pollock
+j	住めば都	すめばみやこ	there's no place like hom…
+j	修行	すぎょうする	training
+j	出納	すいとうする	receipts and expenditures
+j	助太刀	すけだちする	helping; assisting
+j	助宗鱈	すけそうだら	Alaska pollock
+j	助宗鱈	スケソウダラ	Alaska pollock
+j	助惣鱈	すけそうだら	
+j	吸い取り紙	すいとりがみ	blotting paper
+j	吸取紙	すいとりがみ	
+j	吹奏	すいそうする	playing wind instruments
+j	吹奏楽	すいそうがく	music featuring wind inst…
+j	四暗刻	すうあんこう	a 役満 (yakuman, “limit”) h…
+j	四暗刻	すーあんこう	a 役満 (yakuman, “limit”) h…
+j	四暗刻	すーあんこー	a 役満 (yakuman, “limit”) h…
+j	四暗刻	スウアンコウ	a 役満 (yakuman, “limit”) h…
+j	四暗刻	スーアンコウ	a 役満 (yakuman, “limit”) h…
+j	四暗刻	スーアンコー	a 役満 (yakuman, “limit”) h…
+j	垂涎	すいぜんする	slavering
+j	垂直の	すいちょくの	
+j	垂範	すいはんする	setting an example
+j	墨付鮫	すみつきざめ	whitecheek shark (Carchar…
+j	天皇	すめらみこと	an Emperor or Empress (re…
+j	好きにすれば	すきにすれば	
+j	姿を消す	すがたをけす	to vanish
+j	寸断	すんだんする	dividing or cutting off
+j	少し開いて	すこしあいて	
+j	少なからぬ	すくなからぬ	quite a few; a considerab…
+j	少なくとも	すくなくとも	at least
+j	少弼	すくないすけ	律令制で弾正台の次官である弼のうち下位のもの。
+j	崇拝	すうはいする	worship, cult
+j	崇拝する	すうはいする	
+j	崇敬	すうけいする	respect, reverence, vener…
+j	座りなさい	すわりなさい	
+j	推定	すいていする	estimation
+j	推定する	すいていする	
+j	推察	すいさつする	guess, conjecture
+j	推敲	すいこうする	revising, polishing of a …
+j	推断	すいだんする	inference; deduction
+j	推測	すいそくする	speculation, conjecture, …
+j	推測する	すいそくする	
+j	推理作家	すいりさっか	推理小説を書く小説家。
+j	推薦	すいせんする	recommendation
+j	推薦する	すいせんする	
+j	推計	すいけいする	estimation, an estimate
+j	推論	すいろんする	inference, deduction
+j	推進	すいしんする	promotion, thrust, drivin…
+j	掬い上げる	すくいあげる	to scoop up, to dip up (f…
+j	救い上げる	すくいあげる	to pick up and rescue
+j	数値予報	すうちよほう	スーパーコンピュータを用いて計算される気象の予報。
+j	数値微分	すうちびぶん	ある関数の導関数を数値的に求める手法。
+j	数学者	すうがくしゃ	mathematician
+j	数寄屋造り	すきやづくり	a type of Japanese domest…
+j	数秘術	すうひじゅつ	numerology
+j	末摘花	すえつむはな	synonym of 紅花 (benibana, …
+j	朱雀大路	すざくおおじ	都を南北に貫く一番大きな道路。
+j	枢密院	すうみついん	Privy Council to the Empe…
+j	枢密院	すうみつゐん	Privy Council to the Empe…
+j	枢機卿	すうききょう	cardinal
+j	枢軸国	すうじくこく	an Axis power
+j	枢軸国	すうぢくこく	an Axis power
+j	枢軸軍	すうじくぐん	ドイツ、イタリア、日本の側についた国の軍。
+j	水上機	すいじょうき	水上飛行機の略称。
+j	水中の	すいちゅうの	
+j	水中花	すいちゅうか	水を張った透明なガラスの容器に入れると草花の形にな…
+j	水平線	すいへいせん	horizon on water
+j	水成岩	すいせいがん	aqueous rock
+j	水文学	すいもんがく	hydrology
+j	水族館	すいぞくかん	aquarium
+j	水星人	すいせいじん	a Mercurian (inhabitant o…
+j	水没	すいぼつする	submergence in water
+j	水泳	すいえいする	swimming
+j	水泳帽	すいえいぼう	
+j	水準器	すいじゅんき	spirit level
+j	水溶性	すいようせい	being water-soluble
+j	水溶液	すいようえき	aqueous solution
+j	水産学	すいさんがく	水産について研究する学問。
+j	水産物	すいさんぶつ	海・川・湖などで採れる魚介類・海藻類など。
+j	水硫基	すいりゅうき	sulfhydryl
+j	水禽類	すいきんるい	水鳥の中でかもなどの游禽類を指す他、広義においては…
+j	水素イオン	すいそいおん	イオン式H⁺で表される陽イオン。
+j	水素化	すいそかする	hydrogenation; hydride
+j	水素化物	すいそかぶつ	
+j	水蒸気	すいじょうき	water vapor, water vapour…
+j	水蒸氣	すいじょうき	
+j	水蜜桃	すいみつとう	中国原産の桃の栽培品種。果肉が柔らかく水分が多い。…
+j	水路橋	すいろきょう	synonym of 水道橋 (suidōkyō,…
+j	水車小屋	すいしゃごや	a watermill
+j	水道橋	すいだうけう	an aqueduct (an artificia…
+j	水道水	すいどうすい	tap water, running water
+j	水道管	すいどうかん	上水または下水を導き、通すための管の管。
+j	水銀灯	すいぎんとう	真空管に水銀の蒸気を封入し、アーク放電による発光を…
+j	水防団	すいぼうだん	水防事務を取り扱うため市町村に設置される自治防災組…
+j	水餃子	すいぎょうざ	boiled gyoza (dumpling)
+j	水餃子	すいぎょーざ	boiled gyoza (dumpling)
+j	水餃子	すいギョウザ	boiled gyoza (dumpling)
+j	水餃子	すいギョーザ	boiled gyoza (dumpling)
+j	清々しい	すがすがしい	refreshing
+j	滑りやすい	すべりやすい	
+j	炊爨	すいさんする	cooking a meal, especiall…
+j	炊飯	すいはんする	cooking rice
+j	瑞典	すうぇーでん	スウェーデンの漢字表記。
+j	瑞典	スウェーデン	スウェーデンの漢字表記。
+j	睡眠相	すいみんそう	睡眠のサイクル。
+j	睡眠薬	すいみんやく	sleeping pill
+j	筋金入り	すじがねいり	
+j	膵臓炎	すいぞうえん	膵臓におこる急性または慢性の炎症性疾患の総称。膵炎。
+j	膵臓癌	すいぞうがん	膵臓にできる癌。膵癌。
+j	衰退	すいたいする	degeneration, decline
+j	西瓜割り	すいくわわり	a traditional Japanese ga…
+j	西瓜糖	すいくわたう	watermelon sugar, sugar m…
+j	遂行	すいこうする	accomplishment; execution
+j	遂行する	すいこうする	
+j	酔生夢死	すいせいむし	酒に酔っているかのように何もすることもなく無駄に一…
+j	酸辣湯	すーらーたん	hot and sour soup
+j	酸辣湯	スーラータン	hot and sour soup
+j	鈴蜜吸	すずみつすい	
+j	鈴香薷	すずこうじゅ	Perillula reptans
+j	鈴香薷	スズコウジュ	Perillula reptans
+j	錐体筋	すいたいきん	a pyramidalis muscle
+j	雀の槍	すずめのやり	Luzula capitata, a specie…
+j	雀の槍	スズメのヤリ	Luzula capitata, a specie…
+j	鯳	すけとうだら	
+j	すいしょうたい	すいしょうたい	水晶体: lens
+j	すいそばくだん	すいそばくだん	水素爆弾: a hydrogen bomb
+j	すえおそろしい	すえおそろしい	将来を考えると恐ろしさが感じられるさま。
+j	すみにおけない	すみにおけない	"cannot leave in a corner…
+j	スイスチャード	スイスチャード	
+j	スイスドイツ語	すいすどいつご	スイスで話されているドイツ語の変種。
+j	スイスドイツ語	スイスドイツ語	スイスで話されているドイツ語の変種。
+j	スイス・フラン	スイス・フラン	
+j	スイス料理	すいすりょうり	スイスの伝統的な料理。
+j	スイス連邦	すいすれんぽう	Swiss Confederation (offi…
+j	スイス連邦	スイスれんぽう	Swiss Confederation (offi…
+j	スイッチバック	スイッチバック	列車が終点での折り返し以外で進行方向を反対にするこ…
+j	スイフト狐	すいふとぎつね	a swift fox (Vulpes velox)
+j	スイフト狐	スイフトぎつね	a swift fox (Vulpes velox)
+j	スイフト狐	スイフトギツネ	a swift fox (Vulpes velox)
+j	スイングアウト	スイングアウト	空振りの三振。
+j	スイングジャズ	スイングジャズ	swing jazz
+j	スイング・ドア	スイング・ドア	
+j	スイートコーン	スイートコーン	sweet corn
+j	スイートハート	スイートハート	恋人。愛しい人。
+j	スイートホーム	スイートホーム	（新婚夫婦の）楽しい家庭。
+j	スイートポテト	スイートポテト	さつまいも。
+j	スイートルーム	スイートルーム	ホテルで居間、寝室、浴室などが一続きになっている部…
+j	スウェーデンの	スウェーデンの	
+j	スウェーデン人	スウェーデン人	a Swedish person, Swede
+j	スウェーデン蕪	スウェーデン蕪	the rutabaga plant, Brass…
+j	スウェーデン語	すうぇーでんご	Swedish (language)
+j	スウェーデン語	スウェーデンご	Swedish (language)
+j	スウェーデン語	スウェーデン語	Swedish (language)
+j	スエズ地峡	すえずちきょう	アフリカ大陸とユーラシア大陸を接続する地峡。エジプ…
+j	スカイダイバー	スカイダイバー	スカイダイビングをする人。
+j	スカウティング	スカウティング	
+j	スカッシュ選手	スカッシュ選手	スカッシュで実際に競技をする選手。
+j	スカトロジスト	スカトロジスト	糞尿に性的興奮を抱く人。
+j	スカビンジング	スカビンジング	機密情報を取得するゴミ漁り。
+j	スカラーシップ	スカラーシップ	奨学金。
+j	スカラー量	すからーりょう	大きさのみを持つ量。スカラー。
+j	スカルプネイル	スカルプネイル	
+j	スカンジナビア	スカンジナビア	スカンディナビアの別形。
+j	スキゾイド患者	スキゾイド患者	
+j	スキゾタイパル	スキゾタイパル	
+j	スキッドマーク	スキッドマーク	a skid mark
+j	スキムボーダー	スキムボーダー	スキムボードの選手。
+j	スキャルピング	スキャルピング	株取引デイトレードのトレード手法。1日で株の取引を…
+j	スキャンティー	スキャンティー	scanties
+j	スキージャンプ	スキージャンプ	ノルディックスキーの一つでジャンプ台と呼ばれる専用…
+j	スクイズプレー	スクイズプレー	三塁にランナーがいる時、打者とランナーが連携してバ…
+j	スクラマサクス	スクラマサクス	scramasax
+j	スクランブラー	スクランブラー	有料テレビ放送において、スクランブルを行うための装…
+j	スクリプト体	すくりぷとたい	欧文活字で手書きの文字に似せた活字。
+j	スクリプト言語	スクリプト言語	比較的習得が容易で簡易的なプログラム言語。
+j	スクリーニング	スクリーニング	医学検査、選抜、選別、選別検査、一次検査。
+j	スクリーンドア	スクリーンドア	
+j	スクロールバー	スクロールバー	scroll bar (graphical wid…
+j	スクールバッグ	スクールバッグ	synonym of 通学鞄 (tsūgaku k…
+j	スクール水着	すくーるみずぎ	school swimwear
+j	スクール水着	すくーるみづぎ	school swimwear
+j	スクール水着	スクールみずぎ	school swimwear
+j	スケッチブック	スケッチブック	sketchbook
+j	スケプチシズム	スケプチシズム	skepticism
+j	スケルトン貸し	スケルトン貸し	建物の賃貸借において、貸主が躯体及び一部の建物設備…
+j	スケーティング	スケーティング	
+j	スケートをする	スケートをする	
+j	スケートボード	スケートボード	skateboard (platform on w…
+j	スケートリンク	スケートリンク	アイススケートをするための場所。スケート場。アイス…
+j	スケート場	すけーとじょう	「スケートリンク」に同じ。
+j	スケープゴート	スケープゴート	人々の罪を負い野に放たれたやぎ。
+j	スケールモデル	スケールモデル	scale model
+j	スコットランド	スコットランド	Scotland (a constituent c…
+j	スコティッシュ	スコティッシュ	スコットランドの。
+j	スズメフクロウ	スズメフクロウ	
+j	スタイラスペン	スタイラスペン	タッチパネル、タブレット型端末などで使用するペンの…
+j	スタイリッシュ	スタイリッシュ	stylish, in fashion, in v…
+j	スタイルシート	スタイルシート	stylesheet
+j	スタイロフォン	スタイロフォン	
+j	スタッフロール	スタッフロール	credits roll (at the end …
+j	スタビライザー	スタビライザー	安定器。
+j	スタビリティー	スタビリティー	
+j	スタンディング	スタンディング	抗議のために人が集まる場所に立つこと。
+j	スタントダブル	すたんとだぶる	
+j	スタントダブル	スタントダブル	
+j	スタンドアップ	スタンドアップ	
+j	スタンフォード	スタンフォード	a transliteration of the …
+j	スタンプラリー	スタンプラリー	a game or race in which t…
+j	スターシステム	スターシステム	花形俳優の起用を前提として舞台を組み立てる手法。
+j	スタートアップ	スタートアップ	startup (company)
+j	スタートボタン	スタートボタン	Start button
+j	スタートライン	スタートライン	starting line; starting p…
+j	スタートレック	スタートレック	Star Trek, a popular sci-…
+j	スターバックス	スターバックス	Starbucks
+j	スターフルーツ	スターフルーツ	カタバミ目カタバミ科ゴレンシ属に属する常緑樹。学名…
+j	スターリニスト	スターリニスト	スターリニズムの支持者。
+j	スターリニズム	スターリニズム	ソ連のスターリンを中心とする全体主義。
+j	スターリン主義	スターリン主義	スターリン時代の恐怖政治や個人崇拝などの思想。
+j	スチュワーデス	スチュワーデス	stewardess (female flight…
+j	スチームパンク	スチームパンク	
+j	スチールウール	スチールウール	繊維状の鋼鉄をある程度丸めたもの。研磨、洗浄などに…
+j	スットゥングル	スットゥングル	土星の第23衛星の固有名。
+j	スッポンモドキ	スッポンモドキ	pig-nosed turtle (Caretto…
+j	ステアリンさん	ステアリンさん	ステアリン酸: (organic chemistr…
+j	ステアリン酸	すてありんさん	stearic acid
+j	ステアリン酸	ステアリンさん	stearic acid
+j	スティグマータ	スティグマータ	
+j	スティックパン	スティックパン	
+j	ステイオンタブ	ステイオンタブ	stay-on-tab (can tab)
+j	ステイルメイト	ステイルメイト	stalemate
+j	ステゴサウルス	ステゴサウルス	Stegosaurus
+j	ステップアップ	ステップアップ	向上すること。進歩すること。
+j	ステップ気候	すてっぷきこう	乾燥帯のうち年降水量の平年値が乾燥限界の半分以上乾…
+j	ステパナケルト	ステパナケルト	
+j	ステューディオ	ステューディオ	（不動産用語）キッチン、居室、バスルームが1つの空…
+j	ステラー懸巣	すてらーかけす	a Steller's jay
+j	ステラー懸巣	ステラーかけす	a Steller's jay
+j	ステラー懸巣	ステラーカケス	a Steller's jay
+j	ステルス爆撃機	ステルス爆撃機	a stealth bomber
+j	ステレオタイプ	ステレオタイプ	印刷で使用する鉛の版。
+j	ステンドグラス	ステンドグラス	stained glass
+j	ステンレス鋼	すてんれすこう	鉄にクロムを含ませた、耐食性の高い合金鋼。不銹鋼。…
+j	ステーキハウス	ステーキハウス	
+j	ステータスバー	ステータスバー	
+j	ステートメント	ステートメント	声明、声明書、共同発表。
+j	ステールメイト	ステールメイト	「ステイルメイト」の異表記。
+j	ストアドフェア	ストアドフェア	料金が予め蓄積されていること。主に交通機関の乗車券…
+j	ストックホルム	ストックホルム	Stockholm (a municipality…
+j	ストラクチャー	ストラクチャー	組織、構造、構成。
+j	ストラスブール	ストラスブール	
+j	ストラディバリ	ストラディバリ	
+j	ストリキニーネ	ストリキニーネ	strychnine
+j	ストリップする	すとりっぷする	
+j	ストリップする	ストリップする	
+j	ストリップ劇場	ストリップ劇場	strip club
+j	ストリング理論	ストリング理論	synonym of 弦理論 (genriron,…
+j	ストリーキング	ストリーキング	streaking (running naked …
+j	ストリーミング	ストリーミング	streaming
+j	ストレステスト	ストレステスト	耐久試験、健全性検査。
+j	ストレスフリー	ストレスフリー	stress-free
+j	ストレスボール	ストレスボール	
+j	ストレス解消食	ストレス解消食	
+j	ストレッチャー	ストレッチャー	a stretcher (simple litte…
+j	ストレッチング	ストレッチング	stretching (exercise)
+j	ストレッチ体操	ストレッチ体操	stretching (exercise)
+j	ストロンチウム	ストロンチウム	strontium, Sr
+j	ストーブリーグ	ストーブリーグ	プロ野球などのオフシーズン。
+j	ストーンヘンジ	ストーンヘンジ	Stonehenge
+j	スナップボタン	スナップボタン	
+j	スノークローン	スノークローン	
+j	スノーグローブ	スノーグローブ	snow globe
+j	スノーケリング	スノーケリング	シュノーケリングの英語読み。
+j	スノーボーダー	スノーボーダー	スノーボードの選手。
+j	スノーモービル	スノーモービル	a snowmobile
+j	スパイクタイヤ	スパイクタイヤ	接地面に複数の鋲（スパイク）を打ち込み、凍結したり…
+j	スパンデックス	スパンデックス	spandex
+j	スパークプラグ	スパークプラグ	
+j	スパークリング	スパークリング	火花が出るさま。
+j	スピアスロアー	スピアスロアー	
+j	スピノサウルス	スピノサウルス	竜盤目獣脚亜目テタヌラ下目スピノサウルス科スピノサ…
+j	スピノサスモモ	スピノサスモモ	ユーラシア西部やアフリカ北部といった地域に分布する…
+j	スピリティズム	スピリティズム	
+j	スピードを出す	すぴーどをだす	
+j	スピードを出す	スピードを出す	
+j	スピードバンプ	スピードバンプ	a speed bump
+j	スピード測定器	スピード測定器	
+j	スプリッツァー	スプリッツァー	spritzer (cocktail)
+j	スプリットタン	スプリットタン	split tongue, forked tong…
+j	スプリットラン	スプリットラン	(雑誌などで) 分けて掲載すること。
+j	スプリンクラー	スプリンクラー	a sprinkler
+j	スプーンルアー	スプーンルアー	
+j	スペインスズメ	スペインスズメ	
+j	スペイン語圏	すぺいんごけん	スペインや南米など、スペイン語が日常で使用される地…
+j	スペイン語辞典	スペイン語辞典	スペイン語の単語や熟語、用法等を解説した辞書。
+j	スペキュラース	スペキュラース	
+j	スペキュロース	スペキュロース	
+j	スペシャリスト	スペシャリスト	a specialist, an expert
+j	スペルチェッカ	スペルチェッカ	spell checker
+j	スペルチェック	スペルチェック	作成した文書に誤字や脱字がないかを確認すること。
+j	スペルトコムギ	スペルトコムギ	
+j	スペースパワー	スペースパワー	国家が支配下に置いている宇宙を利用する潜在的、顕在…
+j	スペースレース	スペースレース	
+j	スポットライト	スポットライト	spotlight
+j	スポンジケーキ	スポンジケーキ	鶏卵、小麦粉、砂糖などを原料としてスポンジ状に焼き…
+j	スポークスマン	スポークスマン	a spokesman
+j	スポーツウェア	スポーツウェア	スポーツをする際に着用する衣服。運動着。
+j	スポーツクラブ	スポーツクラブ	sports club
+j	スポーツゲーム	スポーツゲーム	スポーツを題材とするコンピュータゲームの総称。
+j	スポーツバイク	スポーツバイク	スポーツ的体感を楽しむためのオートバイ。
+j	スポーツ医学	すぽーついがく	スポーツが身体に及ぼす影響などについて医学的に研究…
+j	スポールブール	スポールブール	
+j	スポーンさせる	スポーンさせる	
+j	スマートシティ	スマートシティ	
+j	スマートテレビ	スマートテレビ	インターネットへの接続が可能なテレビ。コネクテッド…
+j	スマートフォン	スマートフォン	a smartphone
+j	スモールグロス	スモールグロス	120個（10ダース）のまとまり。
+j	スモールソード	スモールソード	smallsword
+j	スライディング	スライディング	
+j	スライドガラス	スライドガラス	a glass slide, a microsco…
+j	スライドショー	スライドショー	slideshow
+j	スライド映写機	スライド映写機	
+j	スラウェシとう	スラウェシとう	スラウェシ島: Sulawesi
+j	スラウェシ島	すらうぇしとう	Sulawesi
+j	スラウェシ島	スラウェシとう	Sulawesi
+j	スラッシャ映画	スラッシャ映画	
+j	スリランカ人	すりらんかじん	スリランカ国籍を有する人。スリランカ出身の人。
+j	スリランカ料理	スリランカ料理	スリランカの伝統的な料理。
+j	スリランカ英語	スリランカ英語	スリランカで話されている英語の変種。
+j	スリーアールズ	スリーアールズ	three Rs: reading, writin…
+j	スリープモード	スリープモード	
+j	スロットマシン	スロットマシン	slot machine
+j	スロバキア人	すろばきあじん	スロバキア国籍を持つ人、スロバキア出身者。
+j	スロバキア料理	スロバキア料理	スロバキアの伝統的な料理。
+j	スロベニア人	すろべにあじん	Slovene (a person)
+j	スロベニア人	スロベニアじん	Slovene (a person)
+j	スロヴァキアの	スロヴァキアの	
+j	スロヴァキア人	スロヴァキア人	Slovak (person)
+j	スロヴァキア語	すろゔぁきあご	Slovak; Slovakian (langua…
+j	スロヴァキア語	スロヴァキアご	Slovak; Slovakian (langua…
+j	スロヴァキア語	スロヴァキア語	Slovak; Slovakian (langua…
+j	スロヴェニアの	スロヴェニアの	
+j	スロヴェニア人	スロヴェニア人	「スロベニア人」に同じ。
+j	スロヴェニア語	すろゔぇにあご	「スロベニア語」の異表記。
+j	スロヴェニア語	スロヴェニア語	「スロベニア語」の異表記。
+j	スロークッカー	スロークッカー	
+j	スワンナプーム	スワンナプーム	紀元前3世紀頃、東南アジアに存在した国。現在はタイ…
+j	スーダン共和国	スーダン共和国	the Republic of Sudan
+j	スーツアクター	スーツアクター	stuntman
+j	スーパーアース	スーパーアース	太陽系外で地球より大きな地球型惑星。
+j	スーパークラス	スーパークラス	
+j	スーパーゴール	スーパーゴール	
+j	スーパースター	スーパースター	superstar
+j	スーパーストア	スーパーストア	
+j	スーパートール	スーパートール	高さ300メートル以上のビルディング。
+j	スーパーバイク	スーパーバイク	スーパーバイク世界選手権で使用される2気筒1200…
+j	スーパーパワー	スーパーパワー	
+j	スーパーボウル	スーパーボウル	the Super Bowl
+j	スーパーボール	スーパーボール	superball, bouncy ball
+j	スーパームーン	スーパームーン	近地点付近で迎える満月。
+j	スーパーモデル	スーパーモデル	a supermodel (famous fash…
+j	スーパー受信機	スーパー受信機	superheterodyne receiver
+j	スープスプーン	スープスプーン	
+j	スープレックス	スープレックス	a suplex (wrestling move)
+j	出納係	すいとうがかり	cashier; teller
+j	吹奏楽器	すいそうがっき	管楽器。
+j	捨てアカウント	すてあかうんと	すぐに放棄するつもりで作成するアカウント。
+j	推奨	すいしょうする	recommendation, encourage…
+j	推定上	すいていじょう	
+j	推定無罪	すいていむざい	被告人の行為に関して、有罪の判決が確定するまでは無…
+j	推薦状	すいせんじょう	letter of recommendation,…
+j	推進力	すいしんりょく	物を前方へ押し進める力。
+j	推量	すいりょうする	conjecture
+j	推量形	すいりやうけい	conjectural form
+j	推量形	すいりょうけい	conjectural form
+j	数値積分	すうちせきぶん	ある関数の原始関数（あるいは定積分）を数値的に求め…
+j	数値解析	すうちかいせき	numerical analysis
+j	数値計算	すうちけいさん	解析的には解けない問題をコンピュータを用いて数値的…
+j	数直線	すうちょくせん	number line
+j	数秘術師	すうひじゅつし	A numerologist or arithma…
+j	末恐ろしい	すえおそろしい	having an unclear future …
+j	末恐ろしい	すゑおそろしい	having an unclear future …
+j	水上艦	すいじょうかん	水に浮かぶ軍艦。潜水艦以外の軍艦。
+j	水兵長	すいへいちょう	旧日本軍の階級の一つ。日本海軍では二等兵曹の下、上…
+j	水半球	すいはんきゅう	地球の半球のうち、海の割合が最大のもの。
+j	水平思考	すいへいしこう	lateral thinking
+j	水彩絵の具	すいさいえのぐ	水彩画に使用する水性の絵の具。
+j	水晶体	すいしやうたい	lens
+j	水晶体	すいしょうたい	lens
+j	水晶玉	すいしょうだま	
+j	水泡に帰す	すいほうにきす	come to nothing
+j	水泳パンツ	すいえいぱんつ	水泳をする際に男子が穿くトランクスまたはブリーフ状…
+j	水準点	すいじゅんてん	水準測量により求められた標高を示す標識。主要な道路…
+j	水産業	すいさんぎょう	産業又は職業のひとつであり、主に、海、川、湖などに…
+j	水素爆弾	すいそばくだん	hydrogen bomb
+j	水質汚染	すいしつおせん	water pollution
+j	水質汚濁	すいしつおだく	人間の生産や生活に伴う排水などにより河川、湖沼、海…
+j	水道橋	すいどうきょう	an aqueduct (an artificia…
+j	水酸化	すいさんかする	hydroxylation, hydration;…
+j	水酸化物	すいさんかぶつ	ある元素の陽イオンが水酸化物イオン OH⁻ と結び…
+j	水頭症	すいとうしょう	脳脊髄液の産生、循環、吸収などいずれかの異常により…
+j	炊飯ジャー	すいはんじゃー	
+j	炭焼き自殺	すみやきじさつ	charcoal-burning suicide:…
+j	皇の花	すべらぎのはな	synonym of 牡丹 (botan): th…
+j	睡眠不足	すいみんぶそく	sleep deficiency
+j	睡眠負債	すいみんふさい	日々の睡眠不足が積み重なり、それを解消できずに病気…
+j	筋緊張	すじきんちょう	muscle tone
+j	素っ頓狂	すっとんきょう	wild, crazy, hysteric
+j	蘇格蘭	すこっとらんど	スコットランドの日本語による漢字表記。
+j	蘇格蘭	スコットランド	スコットランドの日本語による漢字表記。
+j	衰弱	すいじゃくする	breakdown, collapse, emac…
+j	酔歩蹣跚	すいほまんさん	酒に酔っていて足元が覚束ないこと。千鳥足。酔眼朦朧。
+j	酸辣湯	すあんらーたん	hot and sour soup
+j	酸辣湯	スアンラータン	hot and sour soup
+j	鈴つき羊	すずつきひつじ	
+j	隅付き括弧	すみつきかっこ	lenticular bracket (eithe…
+j	雀の涙	すずめのなみだ	a tiny amount
+j	雀梟	すずめふくろう	a Eurasian pygmy owl (Gla…
+j	雀梟	スズメフクロウ	a Eurasian pygmy owl (Gla…
+j	すぎこしのいわい	すぎこしのいわい	「すぎこしのまつり」に同じ。なお、「逾越節」は『新…
+j	すぎこしのまつり	すぎこしのまつり	ユダヤ人の祖先がエジプトを脱出したことを記念する、…
+j	すじしまどじょう	すじしまどじょう	動物界脊索動物門条鰭綱コイ目ドジョウ科シマドジョウ…
+j	すっとこどっこい	すっとこどっこい	江戸の祭礼で山車などで演奏される賑やかな囃子（馬鹿…
+j	すれ違い用前照灯	すれ違い用前照灯	
+j	スィクティフカル	スィクティフカル	
+j	スィルヴァーサー	スィルヴァーサー	
+j	スイスアレマン語	スイスアレマン語	
+j	スイスイタリア語	すいすいたりあご	スイスで話されているイタリア語の変種。
+j	スイスイタリア語	スイスイタリア語	スイスで話されているイタリア語の変種。
+j	スイスフランス語	すいすふらんすご	スイスで話されているフランス語の変種。
+j	スイスフランス語	スイスフランス語	スイスで話されているフランス語の変種。
+j	スイッチがはいる	スイッチがはいる	a switch is flipped
+j	スイッチを入れる	スイッチを入れる	
+j	スイミングパンツ	スイミングパンツ	swimming trunks
+j	スイミングプール	スイミングプール	swimming pool
+j	スイングサービス	スイングサービス	銀行の自動振替サービスの一つで、あらかじめ指定した…
+j	スイング・ジャズ	スイング・ジャズ	白人が主体となって作られたビッグバンドによるジャズ…
+j	スイートスポット	スイートスポット	ラケットやクラブの、ボールを打つのに最適な位置。
+j	スウェットシャツ	スウェットシャツ	sweatshirt
+j	スウェットスーツ	スウェットスーツ	sweatsuit
+j	スウェーデン人	すうぇーでんじん	a Swedish person, Swede
+j	スウェーデン人	スウェーデンじん	a Swedish person, Swede
+j	スウェーデン料理	スウェーデン料理	スウェーデンの伝統的な料理。
+j	スウェーデン王国	スウェーデン王国	Kingdom of Sweden (offici…
+j	スウェーデン蕪	すうぇーでんかぶ	the rutabaga plant, Brass…
+j	スウェーデン蕪	スウェーデンカブ	the rutabaga plant, Brass…
+j	スウェーデン語の	スウェーデン語の	
+j	スカイダイビング	スカイダイビング	skydiving
+j	スカイパーキング	スカイパーキング	立体駐車場。
+j	スカウトレポート	スカウトレポート	a scouting report
+j	スカッシュボール	スカッシュボール	
+j	スカンジナヴィア	スカンジナヴィア	スカンディナビアの別形。
+j	スカンディナビア	スカンディナビア	北欧にあり、ノルウェー、スウェーデン、フィンランド…
+j	スキニージーンズ	スキニージーンズ	
+j	スキャムデミック	スキャムデミック	
+j	スクミリンゴガイ	スクミリンゴガイ	リンゴガイ科の淡水性巻貝。学名は Pomacea …
+j	スクラップブック	スクラップブック	a scrapbook
+j	スクリプト言語	すくりぷとげんご	比較的習得が容易で簡易的なプログラム言語。
+j	スクリーンタイム	スクリーンタイム	端末を使用している時間。
+j	スクリーンテスト	スクリーンテスト	a screen test
+j	スクリーンプレー	スクリーンプレー	
+j	スクールカースト	スクールカースト	pecking order in school
+j	スクールロイヤー	スクールロイヤー	学校に雇用されて学校に関する法的な案件を担当する弁…
+j	スケルトンパズル	スケルトンパズル	a crossword-like word puz…
+j	スケートをする人	スケートをする人	
+j	スケートボーダー	スケートボーダー	スケートボードの選手。
+j	スケーラビリティ	スケーラビリティ	
+j	スコットランド人	スコットランド人	Scot (a person born in or…
+j	スコットランド語	すこっとらんどご	the Scots language
+j	スコットランド語	スコットランドご	the Scots language
+j	スコットランド語	スコットランド語	the Scots language
+j	スジシマドジョウ	スジシマドジョウ	すじしまどじょうのカナ表記。
+j	スタントウーマン	スタントウーマン	映画の撮影でスターの代わりに危険なシーンを演じる女…
+j	スタンドアローン	スタンドアローン	コンピュータを他のコンピュータに接続せずに単独で機…
+j	スタートダッシュ	スタートダッシュ	短距離走で号砲が鳴り走り始めた直後の加速。
+j	スタートメニュー	スタートメニュー	
+j	スタート・ライン	スタート・ライン	
+j	スタープレーヤー	スタープレーヤー	star player
+j	スターリン主義	すたーりんしゅぎ	スターリン時代の恐怖政治や個人崇拝などの思想。
+j	スターリン主義者	スターリン主義者	
+j	スター・ウォーズ	スター・ウォーズ	Star Wars
+j	スチールホイール	スチールホイール	鋼鉄製の自動車のホイール。
+j	スティックシフト	スティックシフト	stick shift
+j	ステムグラファー	ステムグラファー	a stenographer
+j	ステークホルダー	ステークホルダー	利害関係者。
+j	ステーショナリー	ステーショナリー	synonym of 文房具 (bunbōgu, …
+j	ストップウォッチ	ストップウォッチ	stopwatch
+j	ストップウオッチ	ストップウオッチ	stopwatch
+j	ストライクゾーン	ストライクゾーン	strike zone
+j	ストリップクラブ	ストリップクラブ	
+j	ストリップショー	ストリップショー	音楽に合わせ踊り子が衣服を脱いでいき裸体になる見せ…
+j	ストリングチーズ	ストリングチーズ	
+j	ストリング理論	すとりんぐりろん	synonym of 弦理論 (genriron,…
+j	ストリング理論	ストリングりろん	synonym of 弦理論 (genriron,…
+j	ストリートアート	ストリートアート	
+j	ストリートピアノ	ストリートピアノ	street piano
+j	ストリートフード	ストリートフード	
+j	ストリートレース	ストリートレース	
+j	ストレートティー	ストレートティー	
+j	ストロボスコープ	ストロボスコープ	規則的に点滅する光を回転や振動するものに当て、回転…
+j	ストークスの定理	ストークスの定理	ベクトル場の回転と線積分について∫_S(∇× ma…
+j	ストーナーロック	ストーナーロック	
+j	ストーリーテラー	ストーリーテラー	
+j	スナック感覚	すなっくかんかく	Used other than figurativ…
+j	スナック感覚	スナックかんかく	Used other than figurativ…
+j	スナップショット	スナップショット	snapshot
+j	スナップ写真	すなっぷしゃしん	candid snapshot of daily …
+j	スナップ写真	スナップしゃしん	candid snapshot of daily …
+j	スナップ撮影	すなっぷさつえい	candid snapshot photograp…
+j	スナップ撮影	スナップさつえい	candid snapshot photograp…
+j	スナヤツメ北方種	スナヤツメ北方種	キタスナヤツメの旧名。
+j	スナヤツメ南方種	スナヤツメ南方種	ミナミスナヤツメの旧名。
+j	スニフターグラス	スニフターグラス	
+j	スニーカーネット	スニーカーネット	
+j	スパイダースピン	スパイダースピン	曲げた中指と薬指の上でペンを回転させる技。
+j	スパルタ教育	すぱるたけういく	agoge (Spartan training r…
+j	スピナーシャーク	スピナーシャーク	spinner shark, Carcharhin…
+j	スピリチュアル系	スピリチュアル系	being a follower of New A…
+j	スピークイージー	スピークイージー	
+j	スピードスケート	スピードスケート	アイススケートの一つでスケートリンクを周回し、ゴー…
+j	スピードメーター	スピードメーター	速度計。
+j	スフォルツァンド	スフォルツァンド	その音だけ強く。sf、sfz。
+j	スブハーナッラー	スブハーナッラー	subhanallah
+j	スブリガークルム	スブリガークルム	
+j	スプラトリー群島	スプラトリー群島	synonym of 南沙諸島 (Nansa Sh…
+j	スプラトリー諸島	スプラトリー諸島	synonym of 南沙諸島 (Nansa Sh…
+j	スプリットタイム	スプリットタイム	各競技の単位距離あたりで要した時間。
+j	スプリットメーク	スプリットメーク	スプリットとなったピンを二投目ですべて倒して、スペ…
+j	スプリングボック	スプリングボック	springbok (Antidorcas mar…
+j	スプリングボード	スプリングボード	
+j	スプレッドシート	スプレッドシート	表計算ソフト。
+j	スペインダービー	スペインダービー	
+j	スペイン・バスク	スペイン・バスク	Southern Basque Country, …
+j	スペイン内戦	すぺいんないせん	the Spanish Civil War
+j	スペイン内戦	スペインないせん	the Spanish Civil War
+j	スペイン料理	すぺいんりょうり	スペインの伝統的な料理。
+j	スペイン王国	すぺいんおうこく	Kingdom of Spain (officia…
+j	スペイン王国	スペインおうこく	Kingdom of Spain (officia…
+j	スペイン異端審問	スペイン異端審問	the Spanish Inquisition
+j	スペイン語辞典	すぺいんごじてん	スペイン語の単語や熟語、用法等を解説した辞書。
+j	スペイン領ギニア	スペイン領ギニア	Spanish Guinea - a former…
+j	スペリング・ビー	スペリング・ビー	spelling contest, spellin…
+j	スペルチェッカー	スペルチェッカー	スペルチェックを行うためのソフトウェア。
+j	スペースカプセル	スペースカプセル	
+j	スペースシャトル	スペースシャトル	再利用可能な宇宙船。
+j	スペーストラベル	スペーストラベル	
+j	スペードのエース	スペードのエース	
+j	スポンサーシップ	スポンサーシップ	sponsorship
+j	スポーツウーマン	スポーツウーマン	
+j	スポーツサイクル	スポーツサイクル	スポーツ的体感を楽しむための自転車。スポーツバイク。
+j	スポーツセンター	スポーツセンター	多種のスポーツを行うための施設。
+j	スポーツドリンク	スポーツドリンク	sports drink
+j	スポーツライター	スポーツライター	スポーツに関する記事を書くことを職とする人。
+j	スポーツ選手	すぽーつせんしゅ	運動選手。アスリート。
+j	スマトラカモシカ	スマトラカモシカ	a Sumatran serow (Caprico…
+j	スマートインター	スマートインター	「スマートインターチェンジ」の略。
+j	スマートウォッチ	スマートウォッチ	時計だけではなく様々な機能を持ち、タッチパネルを備…
+j	スマートメーター	スマートメーター	
+j	スモーガスボード	スモーガスボード	スウェーデンの料理でそれぞれの皿に肉、魚介類、サラ…
+j	スモークサーモン	スモークサーモン	
+j	スラッシャ映画	すらっしゃえいが	
+j	スラッシュメタル	スラッシュメタル	
+j	スラブ内地震	すらぶないじしん	プレートが沈み込んだ先で起きる震源の深い地震。
+j	スリランカ英語	すりらんかえいご	スリランカで話されている英語の変種。
+j	スリングショット	スリングショット	
+j	スリヴォヴィッツ	スリヴォヴィッツ	
+j	スリーティアーズ	スリーティアーズ	伝統的な英国式アフタヌーンティーに於ける、三段重ね…
+j	スルプスカ共和国	スルプスカ共和国	
+j	スレッジハンマー	スレッジハンマー	sledgehammer
+j	スロバキア共和国	スロバキア共和国	Slovak Republic (official…
+j	スロベニア共和国	スロベニア共和国	Republic of Slovenia (off…
+j	スロヴァキア人	すろゔぁきあじん	Slovak (person)
+j	スロヴァキア人	スロヴァキアじん	Slovak (person)
+j	スロヴェニア人	すろゔぇにあじん	「スロベニア人」に同じ。
+j	スロープスタイル	スロープスタイル	
+j	スローモーション	スローモーション	slow motion
+j	スワジランド王国	スワジランド王国	the Kingdom of Swaziland
+j	スーパーウーマン	スーパーウーマン	a superwoman
+j	スーパーサイクル	スーパーサイクル	超巨大地震が起きるサイクル。
+j	スーパージェット	スーパージェット	
+j	スーパースポーツ	スーパースポーツ	峠やサーキットなどを最高速で走るためのオートバイ。
+j	スーパーチャット	スーパーチャット	Super Chat (YouTube funct…
+j	スーパーバイザー	スーパーバイザー	
+j	スーパーヒロイン	スーパーヒロイン	
+j	スーパーヒーロー	スーパーヒーロー	a superhero
+j	スーパーホワイト	スーパーホワイト	クレジットカードの使用歴がなく、与信を判断するため…
+j	スーパーモタード	スーパーモタード	supermoto, supermotard
+j	スーパーヴィラン	スーパーヴィラン	
+j	スーパー台風	すーぱーたいふう	最大風速が概ね70 m/s以上の台風。
+j	スーパー銭湯	すーぱーせんたう	“super-sentō”, a type of …
+j	スーパー銭湯	すーぱーせんとう	“super-sentō”, a type of …
+j	スーパー銭湯	スーパーせんとう	“super-sentō”, a type of …
+j	不通水火	すいかをつうぜず	生活に不可欠である、水と火とを貸借しないこと。即ち…
+j	吹奏楽団	すいそうがくだん	吹奏楽を演奏するための楽団。ブラスバンド。ウインド…
+j	垂直尾翼	すいちょくびよく	
+j	垂直記号	すいちょくきごう	記号「⟂」のこと。
+j	壱百零八	すーぱーりんぱい	suparinpei, the most adva…
+j	壱百零八	すーぱーりんぺい	suparinpei, the most adva…
+j	壱百零八	スーパーリンパイ	suparinpei, the most adva…
+j	壱百零八	スーパーリンペイ	suparinpei, the most adva…
+j	少納言	すないものまうし	a lesser counselor in the…
+j	少納言	すないものもうし	a lesser counselor in the…
+j	座ってください	すわってください	
+j	推理小説	すいりしょうせつ	mystery novel, detective …
+j	推薦入試	すいせんにゅうし	校長による推薦や自分自身を推薦する方式による入試。
+j	水上スキー	すいじょうすきー	モーターボートや水上オートバイなどの後部にロープを…
+j	水上市場	すいじょういちば	
+j	水中眼鏡	すいちゅうめがね	水中で目を開けて物を見るために着用するめがね。水眼…
+j	水文学者	すいもんがくしゃ	水文学を研究する科学者。
+j	水晶の夜	すいしょうのよる	
+j	水晶宮	すいしやうきゆう	the Crystal Palace
+j	水晶宮	すいしょうきゅう	the Crystal Palace
+j	水晶時計	すいしょうどけい	正確で安定した周波数を出す水晶発振器を利用した時計…
+j	水泳選手	すいえいせんしゅ	水泳で実際に競技をする選手。
+j	水生動物	すいせいどうぶつ	水中（淡水、汽水、海水）で生活する動物の総称。
+j	水生生物	すいせいせいぶつ	水辺、水上、水中で生息する動植物の総称。
+j	水産学校	すいさんがっこう	水産に関する専門教育を行う学校。
+j	水産学者	すいさんがくしゃ	水産学を研究する科学者。
+j	水素化リチウム	すいそかりちうむ	lithium hydride
+j	水素化リチウム	すいそかリチウム	lithium hydride
+j	水耕栽培	すいこうさいばい	
+j	水防団員	すいぼうだんいん	水防団に所属する人。
+j	錐体細胞	すいたいさいばう	a cone cell
+j	錐体細胞	すいたいさいぼう	a cone cell
+j	隅から隅まで	すみからすみまで	from A to Z, from cover t…
+j	雀の鉄砲	すずめのてっぽう	
+j	スイゲンゼニタナゴ	スイゲンゼニタナゴ	タナゴ科に属する淡水魚。学名は Rhodeus s…
+j	スイミングスクール	スイミングスクール	水泳を教える民間の教室。
+j	スイング・ステート	スイング・ステート	
+j	スウェーデンリレー	スウェーデンリレー	第一走者から最終走者まで順に、100メートル、20…
+j	スカッシュ選手	すかっしゅせんしゅ	スカッシュで実際に競技をする選手。
+j	スカンジナビア半島	スカンジナビア半島	「スカンディナビア半島」を参照。
+j	スカンディナヴィア	スカンディナヴィア	Scandinavia (a geographic…
+j	スキャンレイション	スキャンレイション	
+j	スクラッチチケット	スクラッチチケット	a scratch ticket
+j	スクランブルエッグ	スクランブルエッグ	scrambled eggs
+j	スクランブル交差点	スクランブル交差点	pedestrian scramble
+j	スクリーンショット	スクリーンショット	screenshot
+j	スクリーンセーバー	スクリーンセーバー	screensaver
+j	スクリーンリーダー	スクリーンリーダー	目の不自由な人のためにウェブサイトなどのハイパーテ…
+j	スクロールホイール	スクロールホイール	パソコンのマウスでスクロールする際に回転させて使う…
+j	スクーバダイビング	スクーバダイビング	scuba diving
+j	スクービー・ドゥー	スクービー・ドゥー	
+j	スケートをする人	すけーとをするひと	
+j	スケーラビリティー	スケーラビリティー	scalability
+j	スコッチウィスキー	スコッチウィスキー	
+j	スコッチウイスキー	スコッチウイスキー	スコットランドで生産されるウイスキー。
+j	スコットランド人	すこっとらんどじん	Scot (a person born in or…
+j	スコットランド人	スコットランドじん	Scot (a person born in or…
+j	スコットランド王国	スコットランド王国	
+j	スコットランド英語	スコットランド英語	Scottish English
+j	スタグフレーション	スタグフレーション	賃金を伴うことなく、物価だけが上昇するインフレーシ…
+j	スタッドレスタイヤ	スタッドレスタイヤ	鋲（スタッド）のない雪道用のタイヤ。
+j	スタント・パーソン	スタント・パーソン	映画の撮影でスターの代わりに危険なシーンを演じる人。
+j	スタンフォード大学	スタンフォード大学	
+j	スターウォーズ計画	スターウォーズ計画	
+j	スタージョンムーン	スタージョンムーン	ネイティブアメリカンの暦で8月の満月のこと。
+j	スターターピストル	スターターピストル	starter pistol
+j	スターバースト銀河	スターバースト銀河	starburst galaxy
+j	スターボードサイド	スターボードサイド	船舶や航空機の右舷。緑灯で示される。
+j	スターリングラード	スターリングラード	Stalingrad (former name o…
+j	スティラコサウルス	スティラコサウルス	鳥盤目周飾頭亜目角竜下目ケラトプス科セントロサウル…
+j	スティルチェス行列	スティルチェス行列	M-行列のうち対称行列であるもの。
+j	スティレットヒール	スティレットヒール	
+j	ステップファミリー	ステップファミリー	再婚や事実婚などにより血縁のない親子関係や兄弟関係…
+j	ステュムパーリデス	ステュムパーリデス	
+j	ステラー海牛	すてらーかいぎゅう	a Steller's sea cow
+j	ステラー海牛	ステラーかいぎゅう	a Steller's sea cow
+j	ステラー海牛	ステラーカイギュウ	a Steller's sea cow
+j	ステルス爆撃機	すてるすばくげきき	a stealth bomber
+j	ステルス爆撃機	ステルスばくげきき	a stealth bomber
+j	ステンレススチール	ステンレススチール	stainless steel
+j	ステーションワゴン	ステーションワゴン	駅馬車。
+j	ステータスシンボル	ステータスシンボル	status symbol
+j	ストックオプション	ストックオプション	会社の役員や社員が、一定期間内に一定の価格で、自社…
+j	ストップモーション	ストップモーション	テレビや映画などで動いている画面を一瞬静止させる技…
+j	ストライキを起こす	ストライキを起こす	
+j	ストライサンド効果	ストライサンド効果	公開済みの特定の情報を除去または秘匿しようとする試…
+j	ストラッチャテッラ	ストラッチャテッラ	
+j	ストラテジーゲーム	ストラテジーゲーム	目標達成のために計画や戦略を練るコンピュータゲーム…
+j	ストラディバリウス	ストラディバリウス	
+j	ストラドルキャリア	ストラドルキャリア	港湾での荷物の積み上げや移動に使用される車両。
+j	ストリップティーズ	ストリップティーズ	音楽に合わせ踊り子が衣服を脱いでいき裸体になる見せ…
+j	ストリートオルガン	ストリートオルガン	通りで商人などが演奏する手回しオルガン。
+j	ストレッチ体操	すとれっちたいさう	stretching (exercise)
+j	ストレッチ体操	すとれっちたいそう	stretching (exercise)
+j	ストレッチ体操	ストレッチたいそう	stretching (exercise)
+j	ストレンジクォーク	ストレンジクォーク	strange quark
+j	ストレートセックス	ストレートセックス	男性が陰茎を女性の膣に挿入する、通常の性交。
+j	ストロベリームーン	ストロベリームーン	ネイティブアメリカンの暦で6月の満月のこと。
+j	ストロープワッフル	ストロープワッフル	stroopwafel
+j	ストークスの定理	すとーくすのていり	ベクトル場の回転と線積分について∫_S(∇× ma…
+j	スノーボールアース	スノーボールアース	全球凍結のこと。
+j	スパイラルチューブ	スパイラルチューブ	複数ある配線のケーブルをひとまとめにたばねるために…
+j	スパゲッティ化現象	スパゲッティ化現象	
+j	スパルタ教育	すぱるたきょういく	agoge (Spartan training r…
+j	スパルタ教育	スパルタきょういく	agoge (Spartan training r…
+j	スピッツベルゲン島	スピッツベルゲン島	Spitsbergen
+j	スピリチュアル系	すぴりちゅあるけい	being a follower of New A…
+j	スピリチュアル系	スピリチュアルけい	being a follower of New A…
+j	スピードスケーター	スピードスケーター	スピードスケートの選手。
+j	スピード測定器	すぴーどそくていき	
+j	スプリットジャンプ	スプリットジャンプ	ジャンプの一種で、片足で跳びあがり、脚を大きく開い…
+j	スプリットスカート	スプリットスカート	スカートのうち、前部が割れているもの。
+j	スプリットレイヤー	スプリットレイヤー	髪型で、前髪を乱雑にし、重なりを帯びさせるもの。
+j	スヘルトーヘンボス	スヘルトーヘンボス	
+j	スペインスペイン語	すぺいんすぺいんご	スペインで話されているスペイン語の変種。
+j	スペインスペイン語	スペインスペイン語	スペインで話されているスペイン語の変種。
+j	スペクトル拡散通信	スペクトル拡散通信	
+j	スポークスウーマン	スポークスウーマン	女性のスポークスパーソン、スポークスピープル。
+j	スポークスパーソン	スポークスパーソン	代理で話すことを行う者。スポークスピープル。
+j	スポークスピープル	スポークスピープル	代理で話すことを行う者。スポークスパーソン。
+j	スポーツマンシップ	スポーツマンシップ	sportsmanship
+j	スマートスピーカー	スマートスピーカー	人工知能を用いて、音声で与えられた指示通りのことを…
+j	スメルハラスメント	スメルハラスメント	口臭、体臭といったにおいにより周囲を不快にさせるこ…
+j	スライドファスナー	スライドファスナー	袋やジャンパーなどの、開け閉めをする場所につける用…
+j	スラップスティック	スラップスティック	
+j	スリランカ料理	すりらんかりょうり	スリランカの伝統的な料理。
+j	スリーピングバッグ	スリーピングバッグ	synonym of 寝袋 (nebukuro, …
+j	スロットルグリップ	スロットルグリップ	オートバイでスロットル操作をするための握手式のグリ…
+j	スロバキア料理	すろばきありょうり	スロバキアの伝統的な料理。
+j	スワデシュ・リスト	スワデシュ・リスト	モリス・スワデシュにより編集された、基礎語彙を集め…
+j	スヴァールバル諸島	スヴァールバル諸島	
+j	スーパーインポーズ	スーパーインポーズ	superimposing text in a t…
+j	スーパージュピター	スーパージュピター	太陽系外で木星より大きな木星型惑星。
+j	スーパータイフーン	スーパータイフーン	北西太平洋における、最大風速が150マイル時（13…
+j	スーパーデフォルメ	スーパーデフォルメ	
+j	スーパーマーケット	スーパーマーケット	supermarket (a store)
+j	スーパー伊勢湾台風	スーパー伊勢湾台風	伊勢湾台風を超える最大級の災害を引き起こす可能性が…
+j	スーパー受信機	すーぱーじゅしんき	superheterodyne receiver
+j	スーパー受信機	スーパーじゅしんき	superheterodyne receiver
+j	スーパー特急	すーぱーとっきゅう	在来線規格の車両を新幹線に乗り入れられるようにした…
+j	好き嫌いが多い	すききらいがおおい	
+j	数理経済学	すうりけいざいがく	数学的な手法を用いた分析がなされる経済学の一分野。
+j	水上生活	すいじゅうせいかつ	港湾などの水上にあるはしけなどの船で日常の生活をす…
+j	水上競技	すいじょうきょうぎ	aquatics (sport involving…
+j	水上艦艇	すいじょうかんてい	水に浮かぶ艦艇。潜水艦や潜水艇以外の艦艇。
+j	水上警察	すいじょうけいさつ	水上での警察活動を行う組織。沿岸警備隊。
+j	水中翼船	すいちゅうよくせん	
+j	水力発電	すいりょくはつでん	高所から大量の水を落とし、その位置エネルギーを利用…
+j	水洗式トイレ	すいせんしきといれ	
+j	水球選手	すいきゅうせんしゅ	水球で実際に競技をする選手。
+j	水素イオン指数	すいそいおんしすう	pH
+j	水素イオン指数	すいそイオンしすう	pH
+j	水酸化カリウム	すいさんかかりうむ	潮解性を持つ白色の結晶。水溶液は強塩基を示す。化学…
+j	水酸化リチウム	すいさんかりちうむ	lithium hydroxide
+j	水酸化リチウム	すいさんかリチウム	lithium hydroxide
+j	鈴を転がすよう	すずをころがすよう	Used to describe a woman'…
+j	スイスアーミーナイフ	スイスアーミーナイフ	
+j	スイートチョコレート	スイートチョコレート	ビターチョコレート。
+j	スウェーデン料理	すうぇーでんりょうり	スウェーデンの伝統的な料理。
+j	スウェーデン王国	すうぇーでんおうこく	Kingdom of Sweden (offici…
+j	スウェーデン王国	スウェーデンおうこく	Kingdom of Sweden (offici…
+j	スカルプチュアネイル	スカルプチュアネイル	sculptured nail
+j	スカンディナビア半島	スカンディナビア半島	ヨーロッパ北部にあるノルウェー、スウェーデン、フィ…
+j	スキューバダイビング	スキューバダイビング	スキューバを用いた潜水。
+j	スクランブルドエッグ	スクランブルドエッグ	
+j	スクリュードライバー	スクリュードライバー	screwdriver
+j	スクールカウンセラー	スクールカウンセラー	学校に雇用されて学生からの悩みの相談を担うカウンセ…
+j	スコットランドヤード	スコットランドヤード	Scotland Yard
+j	スコットランド国教会	スコットランド国教会	
+j	スコットランド英語	すこっとらんどえいご	Scottish English
+j	スコットランド英語	スコットランドえいご	Scottish English
+j	スジシマドジョウ種群	スジシマドジョウ種群	スジシマドジョウの学術的表記。
+j	スタンダップコメディ	スタンダップコメディ	
+j	スターバースト銀河	すたーばーすとぎんが	starburst galaxy
+j	スターバースト銀河	スターバーストぎんが	starburst galaxy
+j	スターリングエンジン	スターリングエンジン	英国のスターリングが発明した外燃機関。
+j	スターリングシルバー	スターリングシルバー	
+j	スター・ウォーズの日	スター・ウォーズの日	
+j	ステアリングホイール	ステアリングホイール	船舶の舵輪。
+j	ステップ・ファミリー	ステップ・ファミリー	ステップファミリーの異表記・別形。
+j	ステュムパーロスの鳥	ステュムパーロスの鳥	
+j	ストックキャラクター	ストックキャラクター	
+j	ストックホルム症候群	ストックホルム症候群	Stockholm syndrome
+j	ストライサンド効果	すとらいさんどこうか	公開済みの特定の情報を除去または秘匿しようとする試…
+j	ストリップショーする	すとりっぷしょうする	
+j	ストリップショーする	ストリップショーする	
+j	ストリップ劇場	すとりっぷげきじょう	strip club
+j	ストリップ劇場	ストリップげきじょう	strip club
+j	ストリートチルドレン	ストリートチルドレン	帰る家がなく、路上で物を販売したり、乞食などをしな…
+j	ストレートフラッシュ	ストレートフラッシュ	a straight flush
+j	ストレート・プライド	ストレート・プライド	
+j	ストロンチウムイオン	ストロンチウムイオン	イオン式Sr²⁺で表されるストロンチウムの陽イオン。
+j	スパークリングワイン	スパークリングワイン	ワインのうち発泡性があるもの。
+j	スピッツベルゲン島	すぴっつべるげんとう	Spitsbergen
+j	スピッツベルゲン島	スピッツベルゲンとう	Spitsbergen
+j	スプラトリー群島	すぷらとりーぐんとう	synonym of 南沙諸島 (Nansa Sh…
+j	スプラトリー群島	スプラトリーぐんとう	synonym of 南沙諸島 (Nansa Sh…
+j	スプラトリー諸島	すぷらとりーしょとう	synonym of 南沙諸島 (Nansa Sh…
+j	スプラトリー諸島	スプラトリーしょとう	synonym of 南沙諸島 (Nansa Sh…
+j	スプリットデシジョン	スプリットデシジョン	判定が審判同士で嚙み合わないこと。
+j	スプリングフィールド	スプリングフィールド	Springfield (a parish of …
+j	スベスベノコギリエイ	スベスベノコギリエイ	ノコギリエイの別称。
+j	スペインオオヤマネコ	スペインオオヤマネコ	ネコ目ネコ科オオヤマネコ属に属する食肉類の一種。学…
+j	スペイン領ギニア	すぺいんりょうぎにあ	Spanish Guinea - a former…
+j	スペイン領ギニア	スペインりょうギニア	Spanish Guinea - a former…
+j	スペクトルリーケージ	スペクトルリーケージ	信号をスペクトル分析したとき、メインローブが減衰し…
+j	スペリングコンテスト	スペリングコンテスト	spelling contest, spellin…
+j	スポーツクライミング	スポーツクライミング	
+j	スポーツスタッキング	スポーツスタッキング	sport stacking
+j	スポーツベッティング	スポーツベッティング	
+j	スモークハラスメント	スモークハラスメント	喫煙の強要やたばこの煙に晒されるなどといった喫煙に…
+j	スワジランドおうこく	スワジランドおうこく	スワジランド王国: Kingdom of Swaz…
+j	スワジランド王国	すわじらんどおうこく	the Kingdom of Swaziland
+j	スワジランド王国	スワジランドおうこく	the Kingdom of Swaziland
+j	スーダン共和国	すーだんきょうわこく	the Republic of Sudan
+j	スーダン共和国	スーダンきょうわこく	the Republic of Sudan
+j	スーパーコンピュータ	スーパーコンピュータ	ベクトル演算専用回路や行列多重並列回路など計算速度…
+j	スーパーチューズデー	スーパーチューズデー	アメリカ合衆国の予備選挙が多く行われる、3月の第2…
+j	垂直応力	すいちょくおうりょく	固体内部の面に垂直の方向にかかる応力。
+j	据え置き型ゲーム機	すえおきがたげーむき	自宅などの一定の場所に設置して遊ぶことを目的とした…
+j	水上スキーヤー	すいじょうすきーやー	水上スキーの選手。
+j	水晶振動子	すいしょうしんどうし	水晶の結晶を結晶軸に対し一定の方向に切り取った棒ま…
+j	水晶発振器	すいしょうはっしんき	水晶振動子の極めて正確で安定した電気振動とそれにと…
+j	水洗式便所	すいせんしきべんじょ	
+j	水準測量	すいじゅんそくりょう	地表上に設けた各地点の間の高低差を求める測量。
+j	水蒸気爆発	すいじょうきばくはつ	
+j	水酸化カルシウム	すいさんかかるしうむ	カルシウムの水酸化物。生石灰（酸化カルシウム）に水…
+j	水酸化ナトリウム	すいさんかなとりうむ	sodium hydroxide
+j	水酸化ナトリウム	すいさんかナトリウム	sodium hydroxide
+j	水酸化物イオン	すいさんかぶついおん	イオン式OH⁻で表される陰イオン。
+j	水陸両用の	すいりくりょうようの	
+j	スカンジナビア半島	すかんじなびあはんとう	「スカンディナビア半島」を参照。
+j	スカンディナヴィア半島	スカンディナヴィア半島	「スカンディナビア半島」を参照。
+j	スキューバ・ダイビング	スキューバ・ダイビング	scuba diving (underwater …
+j	スクランブル交差点	すくらんぶるこうさてん	pedestrian scramble
+j	スクランブル交差点	スクランブルこうさてん	pedestrian scramble
+j	スコットランド・ヤード	スコットランド・ヤード	
+j	スジシマドジョウ中型種	スジシマドジョウ中型種	ナミスジシマドジョウの旧名。
+j	スジシマドジョウ大型種	スジシマドジョウ大型種	オオガタスジシマドジョウの旧名。
+j	スジシマドジョウ小型種	スジシマドジョウ小型種	コガタスジシマドジョウの旧名。
+j	スタンディングスタート	スタンディングスタート	立ったまま行われるスタート。
+j	スターウォーズ計画	すたーうぉーずけいかく	
+j	スターティングブロック	スターティングブロック	starting block
+j	スターティングメンバー	スターティングメンバー	member of a starting line…
+j	ステアリング・ホイール	ステアリング・ホイール	a steering wheel
+j	ステルスマーケティング	ステルスマーケティング	stealth marketing; underc…
+j	ステンレス・スティール	ステンレス・スティール	stainless steel
+j	スナヤツメ北方種	すなやつめほっぽうしゅ	キタスナヤツメの旧名。
+j	スナヤツメ南方種	すなやつめなんぽうしゅ	ミナミスナヤツメの旧名。
+j	スパークリング・ワイン	スパークリング・ワイン	
+j	スプリングクリーニング	スプリングクリーニング	
+j	スペイン異端審問	すぺいんいたんしんもん	the Spanish Inquisition
+j	スペイン異端審問	スペインいたんしんもん	the Spanish Inquisition
+j	スマトラアカニシキヘビ	スマトラアカニシキヘビ	a blood python (Python cu…
+j	スマトラオオコンニャク	スマトラオオコンニャク	
+j	スライス・オブ・ライフ	スライス・オブ・ライフ	
+j	スリーディープリンター	スリーディープリンター	
+j	スリーポイントシュート	スリーポイントシュート	three-point shot
+j	スロバキア共和国	すろばきあきょうわこく	Slovak Republic (official…
+j	スロバキア共和国	スロバキアきょうわこく	Slovak Republic (official…
+j	スロベニア共和国	すろべにあきょうわこく	Republic of Slovenia (off…
+j	スロベニア共和国	スロベニアきょうわこく	Republic of Slovenia (off…
+j	スンダ・スラウェシ祖語	スンダ・スラウェシ祖語	スンダ・スラウェシ語群の祖語。
+j	スーパーコンピューター	スーパーコンピューター	supercomputer
+j	スーパーセンテナリアン	スーパーセンテナリアン	supercentenarian
+j	中納言	すけのものまうすつかさ	a middle counselor in the…
+j	中納言	すけのものもうすつかさ	a middle counselor in the…
+j	少納言	すないものまうすつかさ	a lesser counselor in the…
+j	少納言	すないものもうすつかさ	a lesser counselor in the…
+j	数値表層モデル	すうちひょうそうもでる	digital surface model
+j	数値表層モデル	すうちひょうそうモデル	digital surface model
+j	数学的帰納法	すうがくてききのうほう	自然数 n を変数として含む命題に対して、n = …
+j	水力発電所	すいりょくはつでんしょ	水力により発電する施設。
+j	水酸化ナトリウム	すいさんくゎなとりうむ	sodium hydroxide
+j	水酸化ナトリウム	すいさんくゎナトリウム	sodium hydroxide
+j	隙あらば自分語り	すきあらばじぶんがたり	talking about oneself whe…
+j	すいもあまいもかみわける	すいもあまいもかみわける	"to distinguish sour and …
+j	すべての傷を治癒する時間	すべての傷を治癒する時間	
+j	スウェーデン式マッサージ	スウェーデン式マッサージ	
+j	スカンディナビア半島	すかんでぃなびあはんとう	ヨーロッパ北部にあるノルウェー、スウェーデン、フィ…
+j	スコットランド・ゲール語	すこっとらんど・げーるご	the Scottish Gaelic langu…
+j	スコットランド・ゲール語	スコットランド・ゲールご	the Scottish Gaelic langu…
+j	スコットランド・ゲール語	スコットランド・ゲール語	the Scottish Gaelic langu…
+j	スコティッシュフォールド	スコティッシュフォールド	a Scottish Fold
+j	スジシマドジョウ種群	すじしまどじょうしゅぐん	スジシマドジョウの学術的表記。
+j	スティルチェス行列	すてぃるちぇすぎょうれつ	M-行列のうち対称行列であるもの。
+j	スパゲッティ化現象	すぱげってぃかげんしょう	
+j	スペシャルオリンピックス	スペシャルオリンピックス	知的障害者のために4年に一度開かれる国際競技大会。
+j	スポンジが水を吸うように	スポンジが水を吸うように	absorbing (knowledge) ver…
+j	スマートインターチェンジ	スマートインターチェンジ	パーキングエリアやサービスエリアに併設されたETC…
+j	スーパー伊勢湾台風	すーぱーいせわんたいふう	伊勢湾台風を超える最大級の災害を引き起こす可能性が…
+j	垂直離着陸機	すいちょくりちゃくりくき	離着陸する際に滑走せずヘリコプターのように垂直に上…
+j	数値流体力学	すうちりゅうたいりきがく	電子計算機で流体力学の諸問題を（近似的に）解くアル…
+j	水産養殖業	すいさんようしょくぎょう	水産物の養殖を行い、出荷する事業。
+j	水産高等学校	すいさんこうとうがっこう	水産に関する課程を設置する高等学校。水高。
+j	睡眠時遊行症	すいみんじゆうこうしょう	somnambulism, sleepwalking
+j	芻豢甘きを加えず	すうかんあまきをくわえず	物事の優劣・上下の区別が混同されやすいたとえ。
+j	酸いも甘いも嚙み分ける	すいもあまいもかみわける	（酸味も甘味も味わい分け、その良さも悪さも良く知っ…
+j	スウェディッシュマッサージ	スウェディッシュマッサージ	
+j	スカンディナヴィア半島	すかんでぃなゔぃあはんとう	「スカンディナビア半島」を参照。
+j	スジシマドジョウ大型種	すじしまどじょうこがたしゅ	オオガタスジシマドジョウの旧名。
+j	スジシマドジョウ小型種	すじしまどじょうこがたしゅ	コガタスジシマドジョウの旧名。
+j	スタンダードプリコーション	スタンダードプリコーション	あらゆる場面において行うべき基本的な感染症対策。
+j	スタンディングオベーション	スタンディングオベーション	standing ovation
+j	スポンジが水を吸うように	すぽんじがみずをすうように	absorbing (knowledge) ver…
+j	スポンジが水を吸うように	スポンジがみずをすうように	absorbing (knowledge) ver…
+j	スリー・オブ・ア・カインド	スリー・オブ・ア・カインド	a three of a kind
+j	好きこそものの上手なれ	すきこそもののじょうずなれ	What you like to do, you …
+j	水中自破砕溶岩	すいちゅうじはさいようがん	溶岩が水中で急速に冷やされることで形成された岩石。
+j	水金地火木土天海	すいきんちかもくどてんかい	太陽系の惑星である水星・金星・地球・火星・木星・土…
+j	水銀柱ミリメートル	すいぎんちゅうみりめーとる	millimeter of mercury
+j	水銀柱ミリメートル	すいぎんちゅうミリメートル	millimeter of mercury
+j	スキゾイドパーソナリティ障害	スキゾイドパーソナリティ障害	
+j	スジシマドジョウ中型種博多型	スジシマドジョウ中型種博多型	ハカタスジシマドジョウの旧名。北川らによって仮称さ…
+j	スジシマドジョウ中型種遠賀型	スジシマドジョウ中型種遠賀型	オンガスジシマドジョウの旧名。北川らによって仮称さ…
+j	スジシマドジョウ小型種九州型	スジシマドジョウ小型種九州型	アリアケスジシマドジョウの旧名。
+j	スジシマドジョウ小型種山陰型	スジシマドジョウ小型種山陰型	サンインコガタスジシマドジョウの旧名。
+j	スジシマドジョウ小型種山陽型	スジシマドジョウ小型種山陽型	サンヨウコガタスジシマドジョウの旧名。
+j	スジシマドジョウ小型種東海型	スジシマドジョウ小型種東海型	トウカイコガタスジシマドジョウの旧名。
+j	スジシマドジョウ小型種淀川型	スジシマドジョウ小型種淀川型	ヨドコガタスジシマドジョウの旧名。
+j	スジシマドジョウ小型種点小型	スジシマドジョウ小型種点小型	サンインコガタスジシマドジョウの旧名。
+j	ストックホルム症候群	すとっくほるむしょうこうぐん	Stockholm syndrome
+j	ストックホルム症候群	ストックホルムしょうこうぐん	Stockholm syndrome
+j	スリジャヤワルダナプラコッテ	スリジャヤワルダナプラコッテ	Sri Jayawardenepura Kotte…
+j	スリランカ民主社会主義共和国	スリランカ民主社会主義共和国	Democratic Socialist Repu…
+j	全ての道はローマに通ず	すべてのみちはろーまにつうず	真理というものは、どのような経路を通ったところで、…
+j	水素化アルミニウムリチウム	すいそかあるみにうむりちうむ	lithium aluminium hydride
+j	水素化アルミニウムリチウム	すいそかアルミニウムリチウム	lithium aluminium hydride
+j	水金地火木土天海	すいきんちかもくどってんかい	太陽系の惑星である水星・金星・地球・火星・木星・土…
+j	スジシマドジョウ中型種	すじしまどじょうちゅうがたしゅ	ナミスジシマドジョウの旧名。
+j	スジシマドジョウ中型種瀬戸内型	スジシマドジョウ中型種瀬戸内型	チュウガタスジシマドジョウの旧名。北川らによって仮…
+j	スジシマドジョウ小型種琵琶湖型	スジシマドジョウ小型種琵琶湖型	ビワコガタスジシマドジョウの旧名。
+j	スポーツユーティリティビークル	スポーツユーティリティビークル	
+j	スーパーサイクロニックストーム	スーパーサイクロニックストーム	北インド洋における、最大風速が120ノット以上の熱…
+j	捨てる神あれば拾う神あり	すてるかみあればひろうかみあり	when one door shuts, anot…
+j	水金地火木土天冥海	すいきんちかもくどてんめいかい	冥王星が太陽系の第9惑星と考えられており、かつ冥王…
+j	水金地火木土天海冥	すいきんちかもくどてんかいめい	冥王星が太陽系の惑星と考えられていた1930年から…
+j	スパニッシュ・ウォーター・ドッグ	スパニッシュ・ウォーター・ドッグ	
+j	スペキュレイティブ・フィクション	スペキュレイティブ・フィクション	
+j	水金地火木土天冥海	すいきんちかもくどってんめいかい	冥王星が太陽系の第9惑星と考えられており、かつ冥王…
+j	水金地火木土天海冥	すいきんちかもくどってんかいめい	冥王星が太陽系の惑星と考えられていた1930年から…
+j	過ぎたるは猶及ばざるがごとし	すぎたるはなおおよばざるがごとし	doing too much is just as…
+j	過ぎたるは猶及ばざるがごとし	すぎたるはなほおよばざるがごとし	doing too much is just as…
+j	過ぎたるは猶及ばざるが如し	すぎたるはなおおよばざるがごとし	程度が過剰であるのは、不足しているのと同様に不適切…
+j	すべての成功した男の後ろに女がいる	すべての成功した男の後ろに女がいる	
+j	睡眠時無呼吸症候群	すいみんじむこきゅうしょうこうぐん	睡眠中に呼吸が十秒程度止まることと覚醒を繰り返す状…
+j	スジシマドジョウ小型種琵琶湖型	すじしまどじょうこがたしゅびわこがた	ビワコガタスジシマドジョウの旧名。
+j	ストラトフォード・アポン・エイヴォン	ストラトフォード・アポン・エイヴォン	
+j	スーパーやコンビニを探してるのですが	スーパーやコンビニを探してるのですが	
+j	スジシマドジョウ小型種山陰型	すじしまどじょうこがたしゅさんいんがた	サンインコガタスジシマドジョウの旧名。
+j	スジシマドジョウ小型種山陽型	すじしまどじょうこがたしゅさんようがた	サンヨウコガタスジシマドジョウの旧名。
+j	スジシマドジョウ小型種東海型	すじしまどじょうこがたしゅとうかいがた	トウカイコガタスジシマドジョウの旧名。
+j	スジシマドジョウ小型種淀川型	すじしまどじょうこがたしゅよどがわがた	ヨドコガタスジシマドジョウの旧名。
+j	スジシマドジョウ中型種博多型	すじしまどじょうちゅうがたしゅはかたがた	ハカタスジシマドジョウの旧名。北川らによって仮称さ…
+j	スジシマドジョウ中型種遠賀型	すじしまどじょうちゅうがたしゅおんががた	オンガスジシマドジョウの旧名。北川らによって仮称さ…
+j	スジシマドジョウ小型種点小型	すじしまどじょうこがたしゅてんしょうがた	サンインコガタスジシマドジョウの旧名。
+j	スジシマドジョウ中型種瀬戸内型	すじしまどじょうちゅうがたしゅせとないがた	チュウガタスジシマドジョウの旧名。北川らによって仮…
+j	スジシマドジョウ小型種九州型	すじしまどじょうこがたしゅきゅうしゅうがた	アリアケスジシマドジョウの旧名。
+j	スリランカ民主社会主義共和国	すりらんかみんしゅしゃかいしゅぎきょうわこく	Democratic Socialist Repu…
+j	スリランカ民主社会主義共和国	スリランカみんしゅしゃかいしゅぎきょうわこく	Democratic Socialist Repu…
+j	スランヴァイルプールグウィンギルゴゲリッヒルンドロブールスランティシリオゴゴゴッホ	スランヴァイルプールグウィンギルゴゲリッヒルンドロブールスランティシリオゴゴゴッホ	

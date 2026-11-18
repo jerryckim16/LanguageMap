@@ -1,0 +1,2 @@
+e	ld50	ld	1 meaning
+e	ldp	ldp	1 meaning

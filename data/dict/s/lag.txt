@@ -1,0 +1,328 @@
+e	age	age	8 meanings
+e	ago	ago	1 meaning
+j	あがっ	aga	ouch
+j	あぐう	agu	a breed of pig native to …
+j	あげ	age	「あげる」の未然形及び連用形。
+j	あご	ago	顎, 腭, 頤: a chin; a lower …
+j	アグー	agu	a breed of pig native to …
+j	アーガー	aga	
+j	アーグ	agu	
+j	上ぐ	agu	to raise, to lift
+j	上げ	age	imperfective and stem (or…
+j	挙げ	age	imperfective and stem (or…
+j	揚げ	age	a food that has been frie…
+j	阿魏	agi	Ferula assa-foetida
+j	頦	ago	
+j	顎	ago	jaw
+k	아가	aga	baby
+k	아구	agu	'아가리'의 경상도의 사투리.
+k	아기	agi	unweaned baby, child
+e	agar	agar	2 meanings
+e	agha	agha	1 meaning
+e	agni	agni	1 meaning
+e	agra	agra	1 meaning
+e	ague	ague	1 meaning
+j	あ行	agyo	the first row of the 五十音図…
+j	亜群	agun	subgroup
+j	亜郡	agun	
+j	阿含	agon	釈迦の説いた教えの総称。
+k	아겜	agem	
+k	아교	agyo	donkey-hide gelatin
+k	아국	aguk	our country
+k	아군	agun	our side's army; friendly…
+k	아귀	agwi	angle, corner, junction
+k	아그	ageu	(어린)'아이'의 전라도 사투리.
+k	악악	agak	닭이나 새가 우는 소리.
+k	악어	ageo	crocodilian (crocodile, a…
+k	악의	agui	다른 사람을 해치려고 하는 또는 무엇이 잘못되…
+k	악인	agin	bad person; villain
+e	again	again	2 meanings
+e	agama	agama	1 meaning
+e	agate	agate	1 meaning
+e	agave	agave	1 meaning
+e	agdam	agdam	1 meaning
+e	agent	agent	1 meaning
+e	agile	agile	1 meaning
+e	aging	aging	1 meaning
+e	agree	agree	5 meanings
+j	あがき	agaki	「あがく」の連用形。
+j	あがく	agaku	足をばたばたする。
+j	あがた	agata	agata (class of administr…
+j	あがり	agari	位置や価格などが高くなること。
+j	あがる	agaru	上がる: rise, go up
+j	あぎと	agito	顎門, 顎, 鰓: chin; gills; br…
+j	あぎゃん	agyan	that (distal) kind
+j	あぐと	aguto	踵: heel
+j	あぐむ	agumu	
+j	あぐら	agura	両足を前に組んで座ること。胡坐。
+j	あぐり	aguri	a unisex given name
+j	あげて	agete	それについては何もかもことごとく、あるところに集ま…
+j	あげな	agena	（方言;西日本）あのような。
+j	あげは	ageha	アゲハチョウ科に属する蝶の総称。アゲハチョウ。
+j	あげる	ageru	上げる, 挙げる: to raise, to li…
+j	アガる	agaru	to be hyped up; to be in …
+j	アガペー	agape	唯一神ヤハウェが人間に与える無償の愛。新約聖書『マ…
+j	アガマ	agama	
+j	アガリ	agari	
+j	アグニ	aguni	
+j	アグリー	aguri	同意、承諾。
+j	アゴゴ	agogo	
+j	アーグラ	agura	Agra (a city in India)
+j	上がり	agari	rise
+j	上がる	agaru	to rise, to ascend, to go…
+j	上げた	ageta	
+j	上げる	ageru	
+j	倦む	agumu	grow tired
+j	和了る	agaru	to win
+j	挙げた	ageta	
+j	挙げる	ageru	
+j	挙げ句	ageku	連歌、誹諧連歌の最後の句。
+j	挙句	ageku	「挙げ句」の別表記。
+j	揚げた	ageta	
+j	揚げる	ageru	
+j	揚げ句	ageku	conclusion, result (usual…
+j	揚羽	ageha	synonym of 並揚羽 (nami-ageh…
+j	胡座	agura	cross-legged sitting, Ind…
+j	足掻き	agaki	pawing of hooves at the g…
+j	足掻く	agaku	to struggle (physically)
+k	아가리	agari	opening of a container
+k	아가미	agami	gill (breathing organ of …
+k	아강	agang	subclass
+k	아관	agwan	
+k	아구티	aguti	
+k	아근	ageun	'근처'의 북한말.
+k	아기미	agimi	mother of a newborn
+e	agarak	agarak	1 meaning
+e	agaric	agaric	1 meaning
+e	ageism	ageism	1 meaning
+e	agency	agency	1 meaning
+e	agenda	agenda	2 meanings
+e	aghast	aghast	1 meaning
+e	aglaia	aglaia	1 meaning
+e	agouti	agouti	1 meaning
+j	あがない	aganai	「あがなう」の連用形。
+j	あがなう	aganau	（罪を）許してもらい、その代償として別のものを差し…
+j	あぎとう	agitou	babble, speak baby talk
+j	あげあげ	ageage	excited, psyched
+j	あげまん	ageman	a woman whose presence is…
+j	あげパン	agepan	「揚げパン」のひらがな表記。
+j	アーガイル	agairu	an argyle pattern
+j	揚げパン	agepan	油で揚げ、甘味を付けたパン。
+j	東江	agarie	a town in Nago, Okinawa P…
+j	購う	aganau	to purchase
+j	贖い	aganai	compensation for one's si…
+j	贖う	aganau	to atone for one's sins
+k	아가락	agarak	
+k	아가씨	agassi	Miss, girl, young lady
+k	아궁이	agungi	fireplace, stove
+k	아그라	ageura	Agra (a city in Uttar Pra…
+k	아긋이	ageusi	
+k	아기곰	agigom	
+k	아기씨	agissi	
+k	아기집	agijip	womb
+k	악역	agyeok	villain, baddy (bad perso…
+k	악연	agyeon	나쁘게 맺어진 사람 관계.
+k	악용	agyong	무엇을 잘못 씀.
+e	against	against	4 meanings
+e	age-mate	agemate	1 meaning
+e	agender	agender	1 meaning
+e	ageplay	ageplay	1 meaning
+e	ageusia	ageusia	1 meaning
+e	agility	agility	1 meaning
+e	agitate	agitate	2 meanings
+e	agonist	agonist	1 meaning
+e	agrabad	agrabad	1 meaning
+j	あがめる	agameru	敬う。尊ぶ。
+j	あぐねる	aguneru	もてあます。よい結果が得られずうんざりする。対応に…
+j	あげあし	ageashi	足をあげること。また、その足。
+j	あげいし	ageishi	一度打うたれた相手の石を自分の石で囲い、盤面から取…
+j	あげしお	ageshio	潮が満ちてくること。満潮。差し潮。
+j	あげぞこ	agezoko	容器の実際の底の部分を物を詰めて嵩上げしたり、底を…
+j	あげだま	agedama	天滓。
+j	あげはま	agehama	海水を汲み上げ、浜にまき、日光、風などにより水分を…
+j	あげぽよ	agepoyo	Said in excitement.
+j	あげまき	agemaki	古い時代の少年が結う髪型の一つ。
+j	あげもの	agemono	油で揚げた食べ物。
+j	あごひげ	agohige	顎鬚, 顎髭, 顎ひげ: beard; goate…
+j	あごひも	agohimo	
+j	あごぼね	agobone	上顎と下顎の骨。
+j	アグラヤ	aguraya	
+j	上げ相場	agesoba	
+j	崇める	agameru	to exalt, to revere, to v…
+j	揚げ物	agemono	deep-fried food
+j	揚げ鍋	agenabe	
+j	顎髭	agohige	
+j	顎鬚	agohige	beard; goatee (facial hai…
+k	아게이트	ageiteu	
+k	아교질	agyojil	
+k	아구통	agutong	
+k	아귀힘	agwihim	
+k	아그담	ageudam	
+k	아기자기	agijagi	
+e	agartala	agartala	1 meaning
+e	agarwood	agarwood	1 meaning
+e	age group	agegroup	1 meaning
+e	agitator	agitator	2 meanings
+e	aglycone	aglycone	1 meaning
+e	agrarian	agrarian	1 meaning
+e	agrology	agrology	2 meanings
+e	agronomy	agronomy	1 meaning
+j	あがり症	agarisho	stage fright
+j	あげはちょう	agehacho	「アゲハチョウ」のひらがな表記。
+j	あげは蝶	agehacho	揚羽蝶を参照。
+j	あごをひく	agoohiku	"to pull the chin": to fi…
+j	アグリコン	agurikon	aglycone
+j	アグレット	aguretto	aiglet
+j	アグレマン	agureman	ある国が他国に大使、公使、使節などを派遣する際、正…
+j	アゲハチョウ	agehacho	チョウ目アゲハチョウ科に属する昆虫の総称。学名:P…
+j	アゲンスト	agensuto	a headwind, wind blowing …
+j	上下	agariori	ascending and descending,…
+j	吾妻	agatsuma	Agatsuma (a district of G…
+j	揚げ菓子	agegashi	油で揚げてつくる菓子の総称。
+j	揚羽蝶	agehacho	swallowtail, butterfly of…
+k	아구창	aguchang	
+k	아귀아귀	agwiagwi	
+k	아기 토끼	agitokki	
+k	아깃아깃	agitagit	'아깆아깆'('아기작아기작'의 준말)의 비표준…
+k	아깆아깆	agijagit	'아기작아기작'의 준말.
+k	악악하다	agakhada	(북한말)
+k	악의 고리	aguigori	
+k	악의 축	aguichuk	
+k	악의적	aguijeok	
+e	agamemnon	agamemnon	1 meaning
+e	agent noun	agentnoun	1 meaning
+e	aggravate	aggravate	1 meaning
+e	aggregate	aggregate	2 meanings
+e	aggressor	aggressor	1 meaning
+e	agnolotti	agnolotti	1 meaning
+e	agogo bell	agogobell	1 meaning
+e	agreement	agreement	4 meanings
+e	agrigento	agrigento	1 meaning
+e	aguilares	aguilares	1 meaning
+j	あげつらう	agetsurau	理非、可否を言いたてる。あれこれと論ずる。
+j	アガリバナ	agaribana	アンダマン諸島およびニコバル諸島からマレー群島区系…
+j	アガルタラ	agarutara	Agartala (a city in India)
+j	アギラレス	agiraresu	Aguilares (a city in Tucu…
+j	アグロロジー	aguroroji	
+j	上がっている	agatteiru	
+j	上がり花	agaribana	
+j	論い	agetsurai	argument or debate on the…
+j	論う	agetsurau	to discuss
+j	顎マスク	agomasuku	マスクを顎だけを覆うようにして着用すること。
+k	아가멤논	agamemnon	
+k	아가위나무	agawinamu	
+k	아귀다툼	agwidatum	
+k	아긋하다	ageuthada	
+k	아깃대다	agitdaeda	'아깆대다'('아기작대다'의 준말)의 비표준어.
+k	아깃자깃	agitjagit	
+k	아깆대다	agitdaeda	'아기작대다'(작은 몸집으로 팔다리를 부자연스…
+k	악악대다	agakdaeda	'악악거리다'.
+e	aggression	aggression	3 meanings
+e	aggressive	aggressive	1 meaning
+e	agronomist	agronomist	1 meaning
+j	あがりぐち	agariguchi	土間などから床や座敷に上がるところ。
+j	あぐらをかく	aguraokaku	to sit crosslegged
+j	あげまきがい	agemakigai	ナタマメガイ科の二枚貝。九州有明海に生息。食用。
+j	アガパンサス	agapansasu	agapanthus
+j	アガメムノン	agamemunon	
+j	アガメムノーン	agamemunon	Agamemnon
+j	アグリジェント	agurijento	
+j	アゲマキガイ	agemakigai	「揚巻貝」の学術的表記。
+j	胡坐をかく	aguraokaku	
+j	胡座をかく	aguraokaku	
+k	아그르르	ageureureu	
+k	아글대다	ageuldaeda	
+k	아글아글	ageurageul	
+k	아금받다	ageumbatda	
+k	아긋아긋	ageusageut	
+k	악어거북	ageogeobuk	alligator snapping turtle
+k	악용하다	agyonghada	
+e	agile gibbon	agilegibbon	1 meaning
+e	agnosticism	agnosticism	1 meaning
+e	agoraphobia	agoraphobia	1 meaning
+e	agriculture	agriculture	1 meaning
+j	あがりさがり	agarisagari	rising and falling; ups a…
+j	アグレッシブ	aguresshibu	aggressive
+j	挙げ句の果て	agekunohate	in the end
+j	胡坐をかいた	aguraokaita	
+j	顎が落ちる	agogaochiru	very delicious, jaw-dropp…
+j	顎で使う	agodetsukau	to order around with move…
+k	아가르탈라	agareutalla	
+k	아군 사격	agunsagyeok	friendly fire
+k	아그라바드	ageurabadeu	
+k	아그리젠토	ageurijento	
+k	아그배나무	ageubaenamu	
+k	아근바근	ageunbageun	
+k	아글바글	ageulbageul	
+k	아글타글	ageultageul	
+k	아긋바긋	ageutbageut	
+k	아기자기하다	agijagihada	
+k	아기작대다	agijakdaeda	'아기작거리다'(작은 몸집으로 팔다리를 부자연…
+k	아기족대다	agijokdaeda	'아기족거리다'.
+k	아길라레스	agillareseu	
+k	아깃거리다	agitgeorida	'아깆거리다'의 비규범 표기.
+k	아깆거리다	agitgeorida	'아기작거리다'(작은 몸집으로 팔다리를 부자연…
+k	악악거리다	agakgeorida	억지를 부리고 고함을 지르며 떠들썩거리다.
+k	악용되다	agyongdoeda	
+e	agalmatolite	agalmatolite	1 meaning
+e	age of consent	ageofconsent	1 meaning
+e	aggressively	aggressively	1 meaning
+e	agribusiness	agribusiness	1 meaning
+j	アグリフルーツ	agurifurutsu	
+j	揚げ足を取る	ageashiotoru	to find fault
+k	아관파천	agwanpacheon	1896년부터 1년 동안 고종이 러시아 공사관…
+k	아귀작대다	agwijakdaeda	
+k	아글거리다	ageulgeorida	
+k	아기똥하다	agittonghada	
+k	아기뚱하다	agittunghada	
+k	아기작아기작	agijagagijak	
+k	아기장대다	agijangdaeda	
+k	아기족아기족	agijogagijok	
+k	아깃아깃하다	agitagithada	'아깆아깆하다'('아기작아기작하다'의 준말)의…
+k	아깆아깆하다	agijagichada	
+k	악어의 눈물	ageouinunmul	
+k	악영향	agyeonghyang	bad influence; adverse ef…
+e	again and again	againandagain	1 meaning
+e	age of majority	ageofmajority	1 meaning
+e	agglutination	agglutination	1 meaning
+e	agglutinative	agglutinative	1 meaning
+e	agrobacterium	agrobacterium	1 meaning
+j	アグリビジネス	aguribijinesu	
+k	아경도풍	agyeongdopung	임의의 지점에서의 수평기압경도와 원심력으로부터…
+k	아교목층	agyomokcheung	understory
+k	아기똥대다	agittongdaeda	'아기똥거리다'.
+k	아기뚱대다	agittungdaeda	
+k	아기작거리다	agijakgeorida	작은 몸집으로 팔다리를 부자연스럽게 움직이며 …
+k	아기족거리다	agijokgeorida	팔다리를 마음대로 잘 놀리지 못하고 천천히 부…
+e	against all odds	againstallodds	1 meaning
+j	顎がしゃくれる	agogashakureru	[its] chin protrudes; to …
+k	아귀작거리다	agwijakgeorida	
+k	아귀작아귀작	agwijagagwijak	
+k	아글아글하다	ageurageulhada	
+k	아긋아긋하다	ageusageuthada	
+k	아기장거리다	agijanggeorida	
+k	아기장아기장	agijangagijang	
+e	agranulocytosis	agranulocytosis	1 meaning
+e	agriculturalism	agriculturalism	1 meaning
+j	アグロフォレストリー	aguroforesutori	森林をすべて伐採せずに、木々の一部を残しその間で行…
+j	顎鬚海豹	agohigeazarashi	a bearded seal
+k	아그로박테리움	ageurobakterium	
+k	아근바근하다	ageunbageunhada	
+k	아글바글하다	ageulbageulhada	
+k	아글타글하다	ageultageulhada	
+k	아기똥거리다	agittonggeorida	작은 몸을 좌우로 둔하게 움직이며 느리게 걷다.
+k	아기뚱거리다	agittunggeorida	
+e	agent provocateur	agentprovocateur	1 meaning
+j	アグアスカリエンテス	aguasukarientesu	Aguascalientes (a state o…
+k	아기똥아기똥	agittongagittong	
+k	아기뚱아기뚱	agittungagittung	
+k	아기작아기작하다	agijagagijakhada	
+k	아기족아기족하다	agijogagijokhada	
+e	aggregation number	aggregationnumber	1 meaning
+j	アグワスカリエンテス	aguwasukarientesu	
+e	age of enlightenment	ageofenlightenment	1 meaning
+k	아귀작아귀작하다	agwijagagwijakhada	
+k	아기장아기장하다	agijangagijanghada	
+j	贓贖司	aganaimononotsukasa	a 律令 (ritsuryō) position …
+k	아기똥아기똥하다	agittongagittonghada	
+e	a good beginning makes a good ending	agoodbeginningmakesagoodending	1 meaning

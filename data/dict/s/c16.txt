@@ -1,0 +1,1402 @@
+j	丐	丐	ものもらい、こじき。
+j	佐	佐	（サ）軍隊の指揮官。
+j	児	児	baby; infant
+j	卐	卐	
+j	唐	唐	foreign lands in general
+j	姐	姐	
+j	嫐	嫐	one of the Eighteen Best …
+j	子	子	a child
+j	岐	岐	（ちまた）分かれ道。
+j	嵐	嵐	a windstorm
+j	廐	廐	barn, stable
+j	弐	弐	two, 2
+j	懐	懐	a breast pocket, particul…
+j	拐	拐	kidnap; abduct; falsify
+j	材	材	wood
+j	某	某	certain (denoting that th…
+j	桐	桐	the paulownia tree, Paulo…
+j	槐	槐	pagoda tree (Styphnolobiu…
+j	氐	氐	Root, one of the Twenty-E…
+j	汐	汐	
+j	源	源	a fountainhead (source of…
+j	燐	燐	phosphorus
+j	狐	狐	a fox
+j	獐	獐	
+j	皐	皐	a female given name
+j	祐	祐	a surname
+j	籐	籐	rattan palm
+j	紐	紐	string, cord, laces
+j	結	結	a female given name
+j	罐	罐	
+j	虐	虐	to oppress, to persecute,…
+j	褐	褐	dark navy blue
+j	讐	讐	an opponent, an enemy, a …
+j	贐	贐	（はなむけ）旅立つ人に激励や祝いの気持ちを込めて金…
+j	錐	錐	a pointy tool used to mak…
+j	限	限	counter for school periods
+j	鞐	鞐	clasp
+j	預	預	deposit, in advance
+j	餐	餐	eating and drinking
+j	駐	駐	resident in; stationed in
+j	鰐	鰐	ワニ: crocodilian (crocodil…
+j	鵐	鵐	bunting (any of various s…
+j	黐	黐	birdlime (adhesive substa…
+k	결	結	layer, ply, texture (as o…
+k	극	屐	pole
+k	노	爐	string, cord (twisted hem…
+k	당	唐	justice
+k	로	爐	furnace
+k	린	燐	North Korea standard spel…
+k	모	某	protrusion
+k	이	釐	this (proximal determiner)
+k	인	燐	person; people; human, hu…
+k	주	駐	week (unit of time)
+k	토	吐	morphological marker(s) t…
+k	풍	豐	manner, atmosphere
+k	한	限	one (as a determiner nume…
+j	伐採	伐採	logging
+j	伐期	伐期	材木を伐採し収穫する時期。
+j	伐木	伐木	木を伐採すること。
+j	佐久	佐久	
+j	佐伯	佐伯	Saiki (a city in Ōita Pre…
+j	佐佑	佐佑	補助すること。
+j	佐倉	佐倉	Sakura (a city in Chiba P…
+j	佐多	佐多	a surname
+j	佐官	佐官	a field officer
+j	佐川	佐川	a surname
+j	佐州	佐州	佐渡国^(（さどのくに）)の別称。
+j	佐市	佐市	
+j	佐幕	佐幕	幕府（特に江戸幕府）の体制を支持すること。また、そ…
+j	佐慌	佐慌	a surname
+j	佐渡	佐渡	Sado (an island, city, an…
+j	佐田	佐田	a surname
+j	佐竹	佐竹	a surname
+j	佐織	佐織	a female given name
+j	佐藤	佐藤	a surname: the most commo…
+j	佐賀	佐賀	Saga (the capital city of…
+j	佐資	佐資	a male given name
+j	佐野	佐野	Sano (a city in Tochigi P…
+j	児ら	児ら	
+j	児ポ	児ポ	
+j	児化	児化	erhua
+j	児女	児女	女の子。女子。
+j	児嬉	児嬉	子供が喜んで遊ぶさま。
+j	児子	児子	小児。子供。
+j	児孫	児孫	children and grandchildre…
+j	児客	児客	こども。
+j	児島	児島	a surname
+j	児嶋	児嶋	a surname
+j	児戯	児戯	child's play; trifling ma…
+j	児斑	児斑	「蒙古斑」のこと。
+j	児玉	児玉	a surname
+j	児相	児相	児童相談所の略。
+j	児童	児童	pupil, student (a child w…
+j	児等	児等	
+j	児輩	児輩	子供達。子供等。
+j	匐枝	匐枝	地上または地中を這うように延びる枝または茎。
+j	吐く	吐く	to spew, to spit out, to …
+j	吐乳	吐乳	乳児が飲んだ乳を吐くこと。
+j	吐却	吐却	吐き出すこと。戻すこと。
+j	吐息	吐息	a sigh (exhaled breath)
+j	吐沫	吐沫	泡をふくこと。
+j	吐瀉	吐瀉	食べたものを嘔吐したり、下痢をしたりすること。吐き…
+j	吐蕃	吐蕃	Tibet
+j	吐血	吐血	vomiting of blood, hemate…
+j	吐逆	吐逆	一度食べた物を吐き気や痙攣性収縮を伴わず胃から食道…
+j	吐露	吐露	expression of one's senti…
+j	唐人	唐人	a Chinese person
+j	唐僧	唐僧	中国唐の時代の僧。
+j	唐冠	唐冠	中国唐の冠を模した兜。
+j	唐初	唐初	中国の唐の時代の初期。
+j	唐名	唐名	a name used in China
+j	唐国	唐国	China (a region and count…
+j	唐土	唐土	China
+j	唐墨	唐墨	(とうぼく、からすみ)中国でつくられた墨。
+j	唐山	唐山	Tangshan (a prefecture-le…
+j	唐扇	唐扇	中国でつくられた扇。
+j	唐朝	唐朝	中国の唐の王朝。また、その時代。
+j	唐木	唐木	南アジアで産出される質の硬い木材。
+j	唐末	唐末	中国の唐の時代の末期。
+j	唐本	唐本	中国から渡来した書物。
+j	唐松	唐松	
+j	唐桃	唐桃	synonym of 杏子 (anzu, “Arm…
+j	唐梨	唐梨	Chinese quince (Pseudocyd…
+j	唐棹	唐棹	
+j	唐楽	唐楽	togaku, music of Chinese …
+j	唐様	唐様	唐（中国）風であること。唐風。
+j	唐樂	唐樂	
+j	唐樒	唐樒	
+j	唐檜	唐檜	Hondo spruce, Picea jezoe…
+j	唐歌	唐歌	Chinese poetry, Chinese p…
+j	唐沢	唐沢	a surname
+j	唐津	唐津	Karatsu (a city in Saga P…
+j	唐澤	唐澤	a surname
+j	唐画	唐画	唐の時代の絵画。
+j	唐瘡	唐瘡	
+j	唐突	唐突	abrupt, sudden
+j	唐竹	唐竹	a species of bamboo (Sino…
+j	唐笛	唐笛	唐楽に使用する横笛。
+j	唐箕	唐箕	大きな風車で風を起こし、穀粒と秕、籾殻、ちりなどを…
+j	唐紅	唐紅	Chinese red; deep crimson
+j	唐紙	唐紙	Chinese paper
+j	唐綿	唐綿	tropical milkweed, Asclep…
+j	唐船	唐船	中国の船舶。また、中国風の船舶。
+j	唐芋	唐芋	「薩摩芋」の別名。
+j	唐草	唐草	foliage scrollwork; patte…
+j	唐蝶	唐蝶	アゲハチョウ。
+j	唐衣	唐衣	Chinese-style robe
+j	唐詩	唐詩	Tang poetry
+j	唐話	唐話	spoken vernacular Chinese
+j	唐銭	唐銭	平安時代から江戸時代初期にかけて中国から伝わった貨…
+j	唐鋏	唐鋏	scissors; (specifically) …
+j	唐鏡	唐鏡	Tang mirror
+j	唐音	唐音	Tō-on, a Sino-Japanese ka…
+j	唐風	唐風	唐（中国）的な制度や建築、風俗。唐様。
+j	唐黍	唐黍	maize, corn (especially c…
+j	啐啄	啐啄	禅宗で師家と修行者との心が投合すること。
+j	嘐啁	嘐啁	多言なさま。
+j	坐乗	坐乗	指揮官や司令官が艦船や飛行機に搭乗して指揮を執るこ…
+j	坐像	坐像	人などが座った形の像。
+j	坐剤	坐剤	肛門・尿道・膣などに差し込んで用いる薬。坐薬。
+j	坐客	坐客	その場に同席している客。
+j	坐射	坐射	弓道で膝を地につけた姿勢で矢を番えて、立ち上がって…
+j	坐業	坐業	座って行う仕事や職業。座業。
+j	坐洲	坐洲	船舶が浅瀬に乗り上げて動けなくなること。
+j	坐礼	坐礼	座ったままで行う礼。
+j	坐禅	坐禅	仏教で、禅の境地をめざして、坐ってする行のこと。主…
+j	坐職	坐職	座って行う仕事や職業。
+j	坐臥	坐臥	座ることと横になって寝ること。起居。
+j	坐薬	坐薬	「坐剤」に同じ。
+j	坐衙	坐衙	出勤すること。
+j	坐視	坐視	傍観しているだけで手を出さないこと。
+j	坐隠	坐隠	囲碁。また、囲碁を打つこと。
+j	坐食	坐食	職を持たず暮らすこと。徒食。
+j	坐骨	坐骨	骨盤の一部で、腸骨、恥骨と結合し寛骨を構成するもの。
+j	坐高	坐高	椅子に腰かけた時の座面から頭頂までの高さ。
+j	媐媐	媐媐	楽しむさま。
+j	子ら	子ら	
+j	子供	子供	child
+j	子偏	子偏	漢字の部首「⼦」が偏である場合の呼称。
+j	子兎	子兎	A baby rabbit or hare; a …
+j	子兔	子兔	
+j	子分	子分	an individual under the c…
+j	子午	子午	南北の方向。
+j	子器	子器	子嚢菌門に属する菌類の生殖器官。
+j	子城	子城	（本城に対して）出城。
+j	子夜	子夜	midnight
+j	子女	子女	sons and daughters; child…
+j	子姓	子姓	子孫。
+j	子孫	子孫	descendant, scion
+j	子守	子守	babysitting
+j	子宮	子宮	womb; uterus
+j	子弟	子弟	children
+j	子役	子役	role for a child in a pla…
+j	子息	子息	son
+j	子房	子房	plant ovary
+j	子星	子星	北極星。子の星。
+j	子月	子月	the eleventh month of the…
+j	子来	子来	子が親を慕って近くように徳の高い君主のもとには多く…
+j	子機	子機	電話機などで親機に付属する小さな機械。
+j	子法	子法	他の国の法律を模範としてつくられた法令。
+j	子温	子温	a male given name
+j	子烏	子烏	a baby crow/raven; a crow…
+j	子熊	子熊	a bear cub
+j	子爵	子爵	viscount
+j	子牛	子牛	a calf (young cow or bull)
+j	子犬	子犬	puppy, young dog
+j	子猫	子猫	kitten (young cat)
+j	子畜	子畜	child animal
+j	子癇	子癇	eclampsia
+j	子種	子種	child, offspring
+j	子等	子等	children
+j	子細	子細	仔細の異表記。
+j	子羊	子羊	
+j	子葉	子葉	cotyledon; seed leaf
+j	子規	子規	synonym of ほととぎす (hototog…
+j	子豚	子豚	
+j	子道	子道	a son's duty to his paren…
+j	子部	子部	部首「⼦」で分類した漢字の一群。
+j	子院	子院	塔頭。
+j	子雀	子雀	
+j	子音	子音	any of the morae with an …
+j	子馬	子馬	A baby horse; a foal
+j	子骨	子骨	inner slats of a folding …
+j	子鹿	子鹿	a fawn (young deer)
+j	屐子	屐子	下駄や足駄などの履き物。
+j	岐山	岐山	
+j	岐路	岐路	crossroads, the point whe…
+j	岐阜	岐阜	Gifu (the capital city of…
+j	岐首	岐首	両頭。
+j	嵐山	嵐山	a place name, such as nam…
+j	嵐嶺	嵐嶺	嵐気のこもる山。
+j	嵐気	嵐気	湿気を含んだ山の空気。
+j	廐肥	廐肥	うまやごえ。
+j	廐舎	廐舎	
+j	弐心	弐心	背く心。ふたごころ。
+j	弐臣	弐臣	二心のある家臣。謀反を企む家臣。
+j	彐部	彐部	部首「⼹」で分類した漢字の一群。
+j	彐頭	彐頭	漢字の部首「⼹」の呼称の一つ。
+j	徐州	徐州	Xuzhou (a prefecture-leve…
+j	徐徐	徐徐	little by little, slowly,…
+j	徐疾	徐疾	遅いことと速いこと。遅いか速いか。速度の大小。
+j	徐脈	徐脈	
+j	徐行	徐行	slow walking
+j	忐忑	忐忑	気が気でないこと。そのさま。
+j	恐い	恐い	
+j	恐る	恐る	
+j	恐れ	恐れ	恐れ, 怖れ: fear, horror, une…
+j	恐動	恐動	恐れ、動揺すること。
+j	恐喝	恐喝	intimidation, threat
+j	恐嚇	恐嚇	脅して恐れさせること。
+j	恐妻	恐妻	夫婦において夫が妻に対し頭が上がらないこと。
+j	恐察	恐察	拝察すること。
+j	恐怖	恐怖	fear; horror; dread
+j	恐恐	恐恐	恐れ、畏まるさま
+j	恐悦	恐悦	謹んで喜ぶこと。
+j	恐惶	恐惶	恐れを感じ畏まること。
+j	恐愒	恐愒	おどして金品をゆすり取ること。
+j	恐慌	恐慌	a panic
+j	恐慎	恐慎	恐れ、慎むこと。
+j	恐懼	恐懼	being struck with awe
+j	恐猲	恐猲	おどして金品をゆすり取ること。
+j	恐畏	恐畏	恐れること。
+j	恐竜	恐竜	a dinosaur (animal of the…
+j	恐縮	恐縮	feeling thankfulness
+j	恐駭	恐駭	恐れ、驚くこと。
+j	恐鳥	恐鳥	synonym of モア (“moa”)
+j	憐悼	憐悼	哀悼すること。
+j	憐情	憐情	人を憐れむ心。
+j	憐愍	憐愍	哀れに思い同情すること。
+j	憐愛	憐愛	compassion, affection
+j	憐憫	憐憫	pity; compassion; mercy
+j	憐撫	憐撫	愛撫すること。
+j	懐く	懐く	to become attached emotio…
+j	懐中	懐中	one's pocket
+j	懐剣	懐剣	a kind of dagger used by …
+j	懐古	懐古	retrospection
+j	懐妊	懐妊	pregnancy, conception
+j	懐孕	懐孕	妊娠すること。
+j	懐抱	懐抱	hug, embrace
+j	懐撫	懐撫	懐けること。
+j	懐旧	懐旧	nostalgia; longing for th…
+j	懐春	懐春	女性が年頃となり色気付くこと。
+j	懐柔	懐柔	placation and winning over
+j	懐炉	懐炉	bosom-warmer; body-warmer
+j	懐疑	懐疑	doubts; disbelief
+j	懐石	懐石	simple meal eaten before …
+j	懐紙	懐紙	二つ折りにしてふところに入れておく紙。茶席で用いた…
+j	懐胎	懐胎	身籠もること。妊娠。懐妊。
+j	懐衽	懐衽	懐。
+j	懐袵	懐袵	懐。
+j	懐裏	懐裏	the futokoro, the pocket-…
+j	懐裡	懐裡	ふところ。
+j	懐郷	懐郷	故郷を懐かしむこと。
+j	懐附	懐附	懐くこと。懐いて従うこと。
+j	成す	成す	
+j	成る	成る	
+j	成一	成一	a male given name
+j	成事	成事	達成したこと。成就したこと。
+j	成二	成二	a male given name
+j	成人	成人	an adult; a grown-up
+j	成仏	成仏	gaining enlightenment
+j	成体	成体	成長して生殖ができる生物体。
+j	成全	成全	完全に作り上げること。成就すること。
+j	成典	成典	成文化されている法令や規則。
+j	成分	成分	ingredient
+j	成功	成功	success
+j	成務	成務	務めをなすこと。
+j	成句	成句	idiom, set phrase
+j	成名	成名	名声。
+j	成否	成否	成るか否か。成功するか失敗するか。
+j	成命	成命	天によって定められた命。
+j	成員	成員	member (e.g. of society)
+j	成器	成器	立派に完成させること。
+j	成因	成因	origin; cause (from which…
+j	成均	成均	古代中国の大学。
+j	成型	成型	形をつくる。形ができること。
+j	成婚	成婚	婚姻が成立すること。
+j	成子	成子	a female given name
+j	成宏	成宏	a male given name
+j	成宮	成宮	a surname
+j	成家	成家	a surname
+j	成就	成就	achievement, fulfillment
+j	成層	成層	段段に積み重なり層になること。
+j	成島	成島	a surname
+j	成嶋	成嶋	a surname
+j	成年	成年	legal age, age (time of l…
+j	成幸	成幸	a male given name
+j	成形	成形	formation
+j	成徳	成徳	a male given name
+j	成心	成心	ある立場に囚われた見方。
+j	成憲	成憲	成文法。
+j	成擒	成擒	捕虜となること。
+j	成敗	成敗	settlement
+j	成文	成文	written material, writing
+j	成斤	成斤	律令制で租稲の量目の一つで、稲一束で一斤とした。
+j	成昏	成昏	成婚すること。
+j	成晃	成晃	a male given name
+j	成木	成木	樹木が生長すること。また、生長した樹木。
+j	成果	成果	accomplishments, results,…
+j	成桂	成桂	a promoted cassia horse, …
+j	成案	成案	既に出来上がった案。
+j	成業	成業	事業や学業を達成すること。
+j	成樹	成樹	a male given name
+j	成歓	成歓	喜ぶこと。
+j	成歯	成歯	乳歯の後に生える永久歯。
+j	成治	成治	a male given name
+j	成法	成法	成文法。
+j	成泰	成泰	a male given name
+j	成満	成満	すべてが完成、成就すること。
+j	成漢	成漢	五胡十六国の一つ。後蜀。
+j	成瀬	成瀬	a surname
+j	成熟	成熟	maturity
+j	成牛	成牛	成長して生殖可能な牛。
+j	成犬	成犬	成長して大きくなった犬。
+j	成猫	成猫	成長した猫。
+j	成獣	成獣	十分成長し成熟した獣類。
+j	成田	成田	a surname
+j	成程	成程	I see!, Indeed!, Aha!, ju…
+j	成立	成立	birth; formation; coming …
+j	成童	成童	十五歳以上の少年。
+j	成算	成算	prospects of success, con…
+j	成約	成約	reaching an agreement
+j	成績	成績	results, score, achieveme…
+j	成聖	成聖	consecration
+j	成育	成育	人や動物が成長すること。
+j	成苗	成苗	本葉が4枚以上ある手植え用の稲の苗。
+j	成虫	成虫	imago (adult insect/ adul…
+j	成行	成行	a male given name
+j	成規	成規	明文化された規則。
+j	成言	成言	約すること。誓うこと。
+j	成語	成語	set phrase
+j	成豪	成豪	a male given name
+j	成跡	成跡	ある事柄のなりゆきやその結果。
+j	成蹊	成蹊	（成句「桃李もの言わざれども、下自ずから蹊を成す」…
+j	成選	成選	律令制で官吏の定期の叙位。
+j	成都	成都	Chengdu (a subprovincial …
+j	成金	成金	将棋で駒（歩、香車、桂馬、銀将）が敵陣に入って成る…
+j	成銀	成銀	a promoted silver general…
+j	成長	成長	growth; maturation
+j	成香	成香	a promoted incense chario…
+j	成駒	成駒	promoted piece
+j	成魚	成魚	成長した魚。
+j	成鳥	成鳥	mature bird
+j	成鶏	成鶏	mature chicken
+j	拐帯	拐帯	預かった物をそのまま持って逃げること。
+j	拐引	拐引	騙して連れ去ること。誘拐。
+j	捐官	捐官	かつての中国で金品を納めて官職を買うこと。また、そ…
+j	捐納	捐納	かつての中国で金品を納めて官職を買うこと。また、そ…
+j	捐金	捐金	財物などを寄付して援助すること。
+j	提供	提供	offer
+j	提出	提出	submission
+j	提唱	提唱	suggestion, advocacy
+j	提喩	提喩	synecdoche (figure of spe…
+j	提挈	提挈	leading
+j	提携	提携	coalition, partnership, a…
+j	提案	提案	proposal
+j	提灯	提灯	a type of collapsible cyl…
+j	提点	提点	一つ一つ提示し点検すること。
+j	提琴	提琴	a kind of traditional Chi…
+j	提督	提督	admiral
+j	提示	提示	presentation of something…
+j	提要	提要	要点や要領を挙げて述べること。また、その書物。
+j	提言	提言	motion, formal proposal, …
+j	提訴	提訴	suing, presenting a case
+j	提議	提議	a motion, a proposal, a m…
+j	提起	提起	to raise, to institute
+j	提醒	提醒	注意を喚起すること。
+j	提題	提題	論証により真偽の確定をすべき命題。主張。テーゼ。
+j	撐持	撐持	支えること。
+j	斐紙	斐紙	ジンチョウゲ科に属する雁皮の樹皮を原料とした和紙の…
+j	材傑	材傑	才知が普通の人より優れている人。俊傑。
+j	材幹	材幹	才幹。才能。
+j	材料	材料	ingredients for food
+j	材木	材木	material wood, (UK) timbe…
+j	材棒	材棒	撮棒。
+j	材武	材武	才能と武勇があること。
+j	材積	材積	木材や石材の体積。
+j	材質	材質	material
+j	析出	析出	（化学）液体中に固体の物質が分離して現れること。
+j	某処	某処	とある場所。不明であったり明示を避けるときに用いる…
+j	某啓	某啓	拝啓。
+j	某国	某国	とある国。
+j	某所	某所	certain place
+j	某日	某日	ある日。その日が不明な場合や、その日を伏せていう場…
+j	某月	某月	ある月。その月が不明な場合や、その月を伏せていう場…
+j	某某	某某	ある人（たち）、なにがし、だれだれ。
+j	某氏	某氏	an unnamed person; anonym…
+j	某社	某社	とある会社。
+j	某紙	某紙	とある新聞。
+j	某誌	某誌	とある雑誌。
+j	桐乳	桐乳	桐の果実。
+j	桐油	桐油	tung oil
+j	桐生	桐生	Kiryū (a city in Gunma Pr…
+j	槐位	槐位	(大臣の唐名「槐門」より) 律令制における大臣の位…
+j	槐嶽	槐嶽	高官。
+j	槐座	槐座	槐位。
+j	槐棘	槐棘	三公と九卿。公卿。
+j	槐樹	槐樹	pagoda tree, Styphnolobiu…
+j	槐花	槐花	dried buds of Styphnolobi…
+j	槐角	槐角	dried fruit of Styphnolob…
+j	槐門	槐門	大臣の異称。
+j	檐楹	檐楹	軒。柱。
+j	檐鈴	檐鈴	軒につるした風鈴。軒端の風鈴。
+j	歐亞	歐亞	
+j	汐留	汐留	Shiodome (an area of Mina…
+j	汐里	汐里	a female given name
+j	沐浴	沐浴	bathing
+j	沐猴	沐猴	monkey
+j	源委	源委	原委の異表記。
+j	源岩	源岩	ある砕屑性の堆積岩でその岩石の粒子や基質のもととな…
+j	源平	源平	源氏と平氏。
+j	源底	源底	根底。真底。
+j	源本	源本	a surname
+j	源氏	源氏	any family or clan with a…
+j	源気	源気	a male given name
+j	源泉	源泉	river source or spring so…
+j	源流	源流	river source, headstream,…
+j	源淵	源淵	淵源。
+j	源源	源源	源泉からの水が絶え間ないこと。また、そのようなさま。
+j	源瀾	源瀾	淵源。根源。
+j	源田	源田	a surname
+j	源翁	源翁	玄能の異表記。
+j	源頭	源頭	水源。
+j	燐光	燐光	phosphorescence
+j	燐安	燐安	ammonium phosphate
+j	燐寸	燐寸	マッチ。すりつけぎ。火柴。
+j	燐火	燐火	夜間、墓地などで空中をとぶ燐などか燃える火の玉。人…
+j	燐燐	燐燐	光輝くさま。
+j	燐肥	燐肥	「燐酸肥料」の略。
+j	燐酸	燐酸	phosphoric acid
+j	燐鉱	燐鉱	リンの原料となる鉱物。リン酸カルシウムを多く含む。
+j	狐塚	狐塚	foxhole
+j	狐媚	狐媚	a fox's deception of some…
+j	狐怪	狐怪	狐妖。
+j	狐火	狐火	a mysterious pale fire of…
+j	狐狢	狐狢	foxes and badgers
+j	狐狸	狐狸	foxes and tanukis
+j	狐狼	狐狼	foxes and wolves
+j	狐猿	狐猿	a lemur
+j	狐疑	狐疑	doubt
+j	狐神	狐神	きつねの神。
+j	狐肉	狐肉	狐の肉
+j	狐色	狐色	light golden-brown, the c…
+j	狐花	狐花	synonym of 彼岸花 (higanbana…
+j	狐薊	狐薊	Saussurea lyrata, a speci…
+j	狐裘	狐裘	fur coat made with white …
+j	皐月	皐月	synonym of 五月 (satsuki, “…
+j	磐城	磐城	Iwaki (a city in Fukushim…
+j	磐州	磐州	磐城国^(（いわきのくに）)の別称。
+j	磐田	磐田	Iwata (a city in Shizuoka…
+j	磐石	磐石	huge rock
+j	祐一	祐一	a male given name
+j	祐也	祐也	a male given name
+j	祐二	祐二	a male given name
+j	祐人	祐人	a male given name
+j	祐介	祐介	a male given name
+j	祐作	祐作	a male given name
+j	祐司	祐司	a male given name
+j	祐哉	祐哉	a male given name
+j	祐善	祐善	狂言の一つ。舞狂言。
+j	祐太	祐太	a male given name
+j	祐子	祐子	a female given name
+j	祐巳	祐巳	a female given name
+j	祐希	祐希	a unisex given name
+j	祐弘	祐弘	a male given name
+j	祐未	祐未	a female given name
+j	祐樹	祐樹	a male given name
+j	祐治	祐治	a male given name
+j	祐英	祐英	a male given name
+j	祐豊	祐豊	a male given name
+j	祐貴	祐貴	a male given name
+j	祐輔	祐輔	a male given name
+j	穐田	穐田	a surname
+j	筐中	筐中	箱の中。
+j	筐体	筐体	housing/casing of a unit
+j	筐底	筐底	箱の底。
+j	筐笥	筐笥	竹を編んでつくった籠。
+j	籐本	籐本	蔓性植物で木質の茎（木本）を持つ多年草のもの。藤本…
+j	籐榻	籐榻	籐でできた安楽椅子。
+j	籐球	籐球	セパタクロー
+j	紐帯	紐帯	band
+j	紐育	紐育	「ニューヨーク」の日本語における漢字表記。
+j	結う	結う	to tie
+j	結び	結び	a tie, a knot, a bow
+j	結ぶ	結ぶ	to tie (a string, rope, s…
+j	結了	結了	completion; conclusion; e…
+j	結使	結使	煩悩。
+j	結像	結像	光学系を利用して像をつくりだすこと。
+j	結党	結党	formation of a party
+j	結句	結句	conclusion; concluding se…
+j	結合	結合	combination; coupling; bi…
+j	結喜	結喜	a female given name
+j	結団	結団	団体を結成すること。
+j	結城	結城	Yūki (a city in Ibaraki P…
+j	結婚	結婚	marriage
+j	結子	結子	a female given name
+j	結季	結季	a female given name
+j	結宜	結宜	a female given name
+j	結実	結実	bearing fruit; being succ…
+j	結審	結審	裁判で全ての審理が終わること。
+j	結局	結局	eventually, after all
+j	結希	結希	a female given name
+j	結帨	結帨	女子が嫁ぐ際、母が佩巾を結ぶこと。
+j	結成	結成	organization, formation
+j	結撰	結撰	文章に纏めること。
+j	結晶	結晶	crystal
+j	結末	結末	consequence, end
+j	結束	結束	bundling and binding toge…
+j	結果	結果	the result, effect, conse…
+j	結核	結核	tuberculosis
+j	結構	結構	the assembly or compositi…
+j	結樹	結樹	a female given name
+j	結氷	結氷	氷が張ること。また、その氷。
+j	結滞	結滞	脈が不規則になること。
+j	結球	結球	成長した植物の葉が重なりあって球状になること。また…
+j	結界	結界	restricted access to a sp…
+j	結盟	結盟	誓いや同盟を結ぶこと。
+j	結着	結着	しっかりと結び付けること。しっかりと結びつくこと。
+j	結石	結石	stone, calculus
+j	結社	結社	association; society (gro…
+j	結節	結節	固まって節になること。また、その節。
+j	結紀	結紀	a female given name
+j	結納	結納	presents exchanged at the…
+j	結索	結索	ロープを他の物に結びつけたり、ロープ同士を結びつけ…
+j	結紮	結紮	糸で縛ること。
+j	結経	結経	本編の経典の教えの要旨として結びの経典。
+j	結線	結線	電気回路でそれぞれの部品を接続し、回路を構成する配…
+j	結締	結締	結び、締めること。締結すること。
+j	結縁	結縁	仏・菩薩が衆生を救うため手を差し伸べて縁を結ぶこと。
+j	結縄	結縄	文字のない時代に縄の結び目や結び方などにより意志疎…
+j	結縭	結縭	結帨。
+j	結腸	結腸	colon
+j	結膜	結膜	conjunctiva
+j	結花	結花	a female given name
+j	結葵	結葵	a female given name
+j	結衣	結衣	a female given name
+j	結託	結託	conspiracy
+j	結語	結語	conclusion
+j	結論	結論	conclusion (decision reac…
+j	結貴	結貴	a female given name
+j	結陣	結陣	陣立て。
+j	結隊	結隊	部隊を結成すること。
+j	結集	結集	gathering
+j	結露	結露	dew condensation
+j	結髪	結髪	髪を結うこと。また、そのような髪。
+j	縐絹	縐絹	粗い絹。
+j	纐纈	纐纈	shibori
+j	罐詰	罐詰	
+j	耐久	耐久	endurance
+j	耐乏	耐乏	貧しい状況を耐え忍ぶこと。
+j	耐冷	耐冷	低い温度に耐える性能。
+j	耐刃	耐刃	刃物で切れにくいこと。
+j	耐労	耐労	労働に耐えること。また、そのための体力があること。
+j	耐圧	耐圧	かかる圧力に耐えること。
+j	耐寒	耐寒	寒さに耐えること。
+j	耐弾	耐弾	銃弾による攻撃に耐えること。
+j	耐忍	耐忍	耐え忍ぶこと。
+j	耐性	耐性	resistance or tolerance (…
+j	耐暑	耐暑	気温の高さに耐えること。
+j	耐水	耐水	water-resistance
+j	耐湿	耐湿	材質が湿気に耐えること。
+j	耐火	耐火	fire-resistant, fireproof
+j	耐熱	耐熱	高熱であってもその性質が変化しないこと。高熱に耐え…
+j	耐用	耐用	durability
+j	耐蝕	耐蝕	材質が腐蝕に耐えること。
+j	耐酸	耐酸	酸におかされにくいこと。
+j	耐量	耐量	中毒は起こすが死ぬことはない薬物の最大の量。
+j	耐雪	耐雪	積雪や降雪に耐えること。
+j	耐震	耐震	earthquake resistance
+j	耐音	耐音	耐音圧の略。
+j	耐風	耐風	風に絶えられること。
+j	耐食	耐食	材質が腐蝕に耐えること。
+j	腐る	腐る	to rot; to decompose
+j	腐乱	腐乱	decomposition
+j	腐儒	腐儒	無能な学者。陋儒。
+j	腐刑	腐刑	castration (as a form of …
+j	腐局	腐局	旧式。
+j	腐心	腐心	物事を成し遂げるのに心を悩ますこと。
+j	腐敗	腐敗	decay, putrefaction
+j	腐朽	腐朽	金属や木材が朽ち果てること。
+j	腐植	腐植	有機物が土の中で微生物の作用により不完全に分解され…
+j	腐泥	腐泥	藻類などの有機物が海底や湖底などに堆積し、酸素が少…
+j	腐爛	腐爛	腐ってただれること。
+j	腐生	腐生	生物が他の生物の死体や排泄物を栄養源として生活する…
+j	腐窳	腐窳	敗壊すること。
+j	腐縁	腐縁	離れたくても離れられない関係。
+j	腐肉	腐肉	腐敗した肉。
+j	腐胔	腐胔	腐った肉。腐肉。
+j	腐臭	腐臭	腐敗した物から出るにおい。
+j	腐草	腐草	腐敗した草。
+j	腐蝕	腐蝕	腐ったり錆びたりして形が崩れること。
+j	腐食	腐食	corrosion
+j	舐る	舐る	to lick
+j	舐犢	舐犢	親の牛が子牛の体を舐めて可愛がること。
+j	荐及	荐及	（災いなどが）次々と起こること。しきりに発生するこ…
+j	荐畳	荐畳	しきりに。
+j	荐臻	荐臻	（災いなどが）次々と起こること。しきりに発生するこ…
+j	荐食	荐食	しきりに食べること。
+j	蒐書	蒐書	多くの書物を集めること。
+j	蒐獮	蒐獮	狩猟。
+j	蒐練	蒐練	調練。
+j	蒐荷	蒐荷	産物を各地から市場へ集まる（集める）こと。また、集…
+j	蒐集	蒐集	いろいろな場所などから集めること。
+j	藐忽	藐忽	軽んじ、また蔑むこと。軽視すること。
+j	藐然	藐然	遥か遠いこと。また、そのようなさま。
+j	藐玩	藐玩	軽蔑して扱うこと。
+j	藐視	藐視	蔑んで視ること。軽視すること。
+j	虐待	虐待	abuse; maltreatment; mist…
+j	虐政	虐政	人民を苦しめる、悪い政治。むごい政治。暴虐な政治。
+j	虐殺	虐殺	massacre, slaughter
+j	褐夫	褐夫	粗末な衣服を着た低い身分の者。
+j	褐炭	褐炭	
+j	褐色	褐色	the color brown
+j	褐葉	褐葉	秋季葉の色が褐色になること。また、そのような葉。
+j	褐衣	褐衣	a round-collared open-sle…
+j	詐偽	詐偽	deception, lie, untruth
+j	詐取	詐取	他者を詐いて、金品を取ること。
+j	詐害	詐害	事実を偽わり他人に損害を与えること。
+j	詐欺	詐欺	fraud, swindle, con
+j	詐病	詐病	malingering
+j	詐称	詐称	misrepresentation, false …
+j	詐術	詐術	人を騙す手段。
+j	詐説	詐説	虚説。
+j	詐謀	詐謀	人を偽る謀。
+j	讐敵	讐敵	怨みのある相手。仇敵。
+j	讐隙	讐隙	不和。
+j	豐年	豐年	year with an abundant har…
+j	豐田	豐田	
+j	豐饒	豐饒	豊饒の旧字体表記。
+j	躐等	躐等	順序に関わらず等級を飛び越えること。
+j	逐一	逐一	one by one
+j	逐夷	逐夷	塩辛。
+j	逐字	逐字	character-by-character
+j	逐年	逐年	年が経つにつれ物事が進行するさま。
+j	逐斥	逐斥	追い払うこと。
+j	逐日	逐日	日が経つにつれ物事が進行するさま。
+j	逐条	逐条	それぞれの条文を順次に追うこと。
+j	逐次	逐次	one after another, one af…
+j	逐電	逐電	素早く行動すること。
+j	逐鹿	逐鹿	鹿を追うこと。
+j	遐心	遐心	疎遠にするこころ。
+j	遐陬	遐陬	remote place
+j	遐齢	遐齢	長寿。長生き。高齢。
+j	釐正	釐正	改め、正すこと。改正すること。
+j	釐毫	釐毫	極めて僅かなこと。寸毫。
+j	釐革	釐革	治め、改めること。改革。
+j	鈐括	鈐括	楔すること。
+j	鈐束	鈐束	厳重処罰。
+j	鈐章	鈐章	捺印すること。
+j	鈐縫	鈐縫	継ぎ目。
+j	鈐記	鈐記	木製の印判。
+j	錐体	錐体	either a cone or a pyramid
+j	錐刀	錐刀	錐と小刀。
+j	錐刃	錐刃	錐刀。
+j	錐台	錐台	錐体を底面に平行な平面で切って分けた際の、元の錐体…
+j	錐合	錐合	
+j	錐嘴	錐嘴	
+j	錐尖	錐尖	錐の先。
+j	錐末	錐末	錐の先。
+j	錐毛	錐毛	微細なもの。
+j	錐状	錐状	錐のような形状。
+j	錐眼	錐眼	錐のように小さな穴。
+j	錐股	錐股	腿を刺すこと。
+j	錐面	錐面	
+j	限り	限り	limit, extent, scope
+j	限る	限る	to limit, to restrict
+j	限制	限制	範囲を定めること。
+j	限外	限外	範囲や限度の外。
+j	限定	限定	limited
+j	限局	限局	範囲を限ること。局限。
+j	限度	限度	limit; bound
+j	限月	限月	the last month of the year
+j	限極	限極	限度。
+j	限満	限満	満期。
+j	限田	限田	田土制限。
+j	限界	限界	limit (boundary)
+j	限碍	限碍	妨げ。
+j	限礙	限礙	妨げ。
+j	限禁	限禁	制限し、禁止すること。
+j	限級	限級	限度。
+j	限隔	限隔	仕切り。
+j	預り	預り	
+j	預参	預参	「予参」参照
+j	預血	預血	万一のため自分の血液を血液銀行に預けておくこと。
+j	預言	預言	神託を聴いた者が神の意志などを人々に伝えること。
+j	預託	預託	預け、任せること。
+j	預金	預金	deposit (money placed in …
+j	餐霞	餐霞	仙人が霞を吸って生きること。
+j	餐香	餐香	香物を食すこと。
+j	駐中	駐中	中国に駐在すること。
+j	駐仏	駐仏	フランスに駐在すること。
+j	駐伊	駐伊	イタリアに駐在すること。
+j	駐印	駐印	インドに駐在すること。
+j	駐在	駐在	A residence, especially i…
+j	駐屯	駐屯	stationing of troops
+j	駐日	駐日	stationing, staying in Ja…
+j	駐機	駐機	aircraft parking
+j	駐比	駐比	フィリピンに駐在すること。
+j	駐独	駐独	ドイツに駐在すること。
+j	駐留	駐留	stationing of troops
+j	駐禁	駐禁	駐車禁止、駐輪禁止の略。
+j	駐箚	駐箚	役人などが公務で他国に長期滞在すること。
+j	駐米	駐米	アメリカ合衆国に駐在すること。
+j	駐英	駐英	イギリスに駐在すること。
+j	駐豪	駐豪	オーストラリアに駐在すること。
+j	駐越	駐越	ベトナムに駐在すること。
+j	駐蹕	駐蹕	天子が行幸の途中で一時乗り物（輦）をとどめること。…
+j	駐車	駐車	parking, especially of ca…
+j	駐輦	駐輦	天子が行幸の途中で一時乗り物（輦）をとどめること。…
+j	駐輪	駐輪	parking of a bicycle
+j	駐露	駐露	ロシアに駐在すること。
+j	駐韓	駐韓	韓国に駐在すること。
+j	鬐興	鬐興	鬣が立つこと。
+j	鬐鬣	鬐鬣	背鰭。
+j	鮐老	鮐老	老人。
+j	鮐背	鮐背	90歳。
+j	鰐梨	鰐梨	synonym of アボカド (abokado,…
+j	鰐肉	鰐肉	鰐の肉
+j	鰐魚	鰐魚	鰐。
+j	黐竿	黐竿	pole that has been covere…
+j	鼐鼎	鼐鼎	大小の鼎。
+j	龐鴻	龐鴻	天地未分の時代。
+k	갈색	褐色	brown (color)
+k	개걸	丐乞	beggar
+k	결과	結果	as a result of
+k	결국	結局	in the end, ultimately
+k	결론	結論	conclusion
+k	결막	結膜	
+k	결빙	結氷	freezing, the formation o…
+k	결석	結石	absence
+k	결속	結束	bond, union, unity, cohes…
+k	결장	結腸	The colon
+k	결절	結節	
+k	결정	結晶	decision
+k	결합	結合	combination; fusion
+k	결핵	結核	tuberculosis
+k	결혼	結婚	marriage
+k	공갈	恐喝	threatening behavior
+k	공룡	恐竜	a dinosaur (animal of the…
+k	공룡	恐龍	a dinosaur (animal of the…
+k	공포	恐怖	fear, terror, dread, frig…
+k	공황	恐慌	panic; state of panic
+k	구미	歐美	taste, palate
+k	구주	歐洲	the Savior; the Messiah
+k	당면	唐麵	cellophane noodle, glass …
+k	당면	唐麺	cellophane noodle, glass …
+k	당시	唐詩	the time in question
+k	당악	唐楽	Tang music
+k	당악	唐樂	Tang music
+k	당적	唐笛	
+k	당진	唐津	[~시] Dangjin (a city in S…
+k	모시	某時	ramie fabric, ramie cloth
+k	모종	某種	some kind; certain kind
+k	목욕	沐浴	bath, bathing
+k	벌기	伐期	the period between loggin…
+k	벌초	伐草	weeding, mowing (particul…
+k	부식	腐蝕	corrosion
+k	부패	腐敗	decomposition
+k	사기	詐欺	fraud; swindle
+k	사칭	詐称	impersonation, false pret…
+k	사칭	詐稱	impersonation, false pret…
+k	서서	徐徐	gradually, slowly, steadi…
+k	서행	徐行	slow moving
+k	성공	成功	success
+k	성과	成果	result; outcome; fruits; …
+k	성구	成句	set phrase, idiom
+k	성년	成年	legal age, the age of adu…
+k	성덕	成徳	attainment of virtue; vir…
+k	성덕	成德	attainment of virtue; vir…
+k	성덕	成덕	attainment of virtue; vir…
+k	성도	成都	Chengdu (a subprovincial …
+k	성립	成立	being established
+k	성분	成分	ingredient, component, co…
+k	성사	成事	sacrament
+k	성어	成語	set phrase
+k	성인	成人	adult; grown-up
+k	성장	成長	growth, expansion
+k	성적	成績	achievements; accomplishm…
+k	성체	成体	Eucharist (substances)
+k	성체	成體	Eucharist (substances)
+k	성취	成就	achievement
+k	성형	成形	formation, cast, mould, f…
+k	성화	成火	pestering; insisting on s…
+k	아동	児童	child
+k	아역	児役	연극이나 영화 등에서, 어린이의 역.
+k	아해	児孩	'아이'의 비표준어.
+k	아화	児化	
+k	악어	鰐魚	crocodilian (crocodile, a…
+k	악어	鰐魚	crocodilian (crocodile, a…
+k	연민	憐憫	sympathy; compassion; pity
+k	예감	預感	premonition; hunch
+k	예금	預金	deposit; savings
+k	예언	預言	prophecy; prediction
+k	원천	源泉	source; fountainhead (of …
+k	유대	紐帯	a bond, tie
+k	유대	紐帶	a bond, tie
+k	이온결합	結合	
+k	인광	燐光	phosphorescence
+k	인소	燐素	suppressing a laugh
+k	자간	子癇	
+k	자궁	子宮	a womb; a uterus
+k	자녀	子女	Children; sons and daught…
+k	자손	子孫	descendant
+k	자식	子息	one's children, offspring
+k	자음	子音	consonant
+k	자작	子爵	viscount
+k	자정	子正	midnight
+k	자질	子姪	nature, credentials, qual…
+k	재료	材料	ingredients, materials
+k	재목	材木	timber
+k	재질	材質	material (that something …
+k	제공	提供	provision
+k	제금	提金	cymbal
+k	제독	提督	admiral
+k	제목	材木	A title of a book or othe…
+k	제보	提報	provision of information
+k	제소	提訴	filing (a civil case)
+k	제시	提示	presentation, showing
+k	제안	提案	suggestion, proposition, …
+k	제유	提喩	synecdoche
+k	제유	提喻	synecdoche
+k	제의	提議	suggestion, proposal
+k	제출	提出	submission, handing in
+k	제휴	提携	alliance, partnership, co…
+k	좌식	坐式	living in idleness
+k	좌식	坐食	living in idleness
+k	좌초	坐礁	running aground
+k	주둔	駐屯	stationing of troops
+k	주일	駐日	week
+k	주차	駐車	parking
+k	주한	駐韓	stationing in South Korea
+k	토기	吐器	earthenware; earthen pott…
+k	토기	吐気	earthenware; earthen pott…
+k	토기	吐氣	earthenware; earthen pott…
+k	토혈	吐血	vomiting of blood; hemate…
+k	풍등	豐登	sky lantern, Chinese lant…
+k	풍족	豐足	abundance, opulence, affl…
+k	풍협	豐頰	plump, full, chubby, roun…
+k	하상	遐想	riverbed
+k	학대	虐待	abuse
+k	학살	虐殺	massacre; slaughter
+k	한계	限界	limit, boundary
+k	한기	限期	chill, cold
+k	한도	限度	limit; cap; ceiling
+k	한정	限定	limitation; restriction
+k	호리	狐貍	plough drawn by one draft…
+k	회검	懐剣	dagger, dirk, poniard
+k	회의	懐疑	a meeting
+k	회임	懐姙	gestation; pregnancy
+k	회중	懐中	pocket; personal
+k	회향	懐郷	향을 몹시 그리며 생각함.
+j	佐々岡	佐々岡	a surname
+j	佐々木	佐々木	a surname
+j	佐世保	佐世保	Sasebo (a city in Nagasak…
+j	佐久間	佐久間	a surname
+j	佐代子	佐代子	a female given name
+j	佐佐木	佐佐木	four
+j	佐保姫	佐保姫	Japanese goddess of spring
+j	佐和子	佐和子	a female given name
+j	佐哉香	佐哉香	a female given name
+j	佐奈子	佐奈子	a female given name
+j	佐津川	佐津川	a surname
+j	佐渡国	佐渡国	日本の旧国（令制国）のひとつ。現在の新潟県佐渡島に…
+j	佐知子	佐知子	a female given name
+j	佐結実	佐結実	a female given name
+j	佐賀市	佐賀市	佐賀県の県庁所在地。特例市。
+j	佐賀県	佐賀県	a prefecture in Japan on …
+j	佐那子	佐那子	a female given name
+j	児童会	児童会	小学校の児童により、自発的・自治的な学校活動をする…
+j	児童婚	児童婚	child marriage
+j	児童誌	児童誌	児童向けの情報を掲載した雑誌。
+j	児童館	児童館	children's hall (Japanese…
+j	児雷也	児雷也	
+j	吐き気	吐き気	a feeling of vomiting; na…
+j	吐綬鶏	吐綬鶏	七面鳥(シチメンチョウ)の別名。「シチメンチョウ」…
+j	吐谷渾	吐谷渾	Tuyuhun (A powerful Mongo…
+j	唐の芋	唐の芋	さといもの品種の一つで、葉柄が淡い赤紫色で柔らかく…
+j	唐三盆	唐三盆	外国から輸入された質の高い白砂糖。
+j	唐人稗	唐人稗	
+j	唐人笛	唐人笛	らっぱ。
+j	唐変木	唐変木	A person who is narrow-mi…
+j	唐宋音	唐宋音	the pronunciation of Chin…
+j	唐実桜	唐実桜	Chinese sour cherry (Prun…
+j	唐揚げ	唐揚げ	Japanese-style deep-fried…
+j	唐果物	唐果物	Tang confectionery
+j	唐獅子	唐獅子	Chinese lion, Fu dog
+j	唐竹蘭	唐竹蘭	Disporum cantoniense, a s…
+j	唐縮緬	唐縮緬	muslin
+j	唐胡麻	唐胡麻	トウダイグサ科の多年草または一年草。高さは地域によ…
+j	唐茄子	唐茄子	pumpkin, squash
+j	唐菓子	唐菓子	Tang confectionery
+j	唐菖蒲	唐菖蒲	
+j	唐萵苣	唐萵苣	synonym of 不断草 (fudansō, …
+j	唐辛子	唐辛子	chilli pepper
+j	子は鎹	子は鎹	children keep a man and w…
+j	子ネコ	子ネコ	
+j	子ヤギ	子ヤギ	
+j	子会社	子会社	a subsidiary
+j	子作り	子作り	babymaking; sex
+j	子供会	子供会	自分たちが住む地域の異年齢の子供の集まり。
+j	子供偏	子供偏	漢字の部首「⼦」が偏である場合の呼称。
+j	子供心	子供心	child's naive mind, child…
+j	子供誌	子供誌	子供向けの情報を掲載した雑誌。
+j	子供達	子供達	
+j	子午環	子午環	天体の南中した時刻と高度を精密に測定するための望遠…
+j	子午線	子午線	a meridian
+j	子守唄	子守唄	
+j	子守歌	子守歌	
+j	子守熊	子守熊	synonym of コアラ (koara, “k…
+j	子守鮫	子守鮫	a nurse shark
+j	子宮切	子宮切	hysterectomy; amputation …
+j	子宮口	子宮口	子宮と膣が接続している部分。
+j	子宮癌	子宮癌	子宮に発生する癌。子宮頸癌および子宮体癌の総称。
+j	子宮脱	子宮脱	
+j	子曰く	子曰く	the Analects, Confucianis…
+j	子殺し	子殺し	
+j	子無し	子無し	
+j	子煩悩	子煩悩	自分の子を非常に可愛がること。
+j	子牛肉	子牛肉	「仔牛肉」を参照。
+j	子育て	子育て	rearing children
+j	子葉鞘	子葉鞘	coleoptile
+j	子雉鳩	子雉鳩	
+j	子音字	子音字	consonant (letter)
+j	子飼い	子飼い	
+j	子鮒草	子鮒草	
+j	岐阜市	岐阜市	岐阜県の県庁所在地。中核市。
+j	岐阜県	岐阜県	an inland prefecture in t…
+j	徐々に	徐々に	
+j	徐徐に	徐徐に	緩やかに変化・進行するさま。
+j	恐がり	恐がり	
+j	恐らく	恐らく	probably, in all likeliho…
+j	恐れる	恐れる	
+j	恐喝罪	恐喝罪	他人を脅して、それが金品をゆすって奪ったときに成立…
+j	恐喝者	恐喝者	
+j	恐妻家	恐妻家	妻を恐れたり、頭が上がらない夫。
+j	恐怖心	恐怖心	怖いと思う気持ち。
+j	恐怖症	恐怖症	a phobia
+j	恐水病	恐水病	synonym of 狂犬病 (kyōkenbyō…
+j	憐れみ	憐れみ	
+j	懐メロ	懐メロ	an old hit song, an oldie…
+j	懐具合	懐具合	所持金の多少。金回り。
+j	懐古厨	懐古厨	nostalgiafag
+j	懐疑派	懐疑派	物事にすべて疑って考える人々。
+j	懐疑的	懐疑的	skeptical
+j	懐疑論	懐疑論	skepticism
+j	成り金	成り金	nouveau riche, parvenu, n…
+j	成人式	成人式	coming-of-age ceremony (n…
+j	成人病	成人病	40歳ごろから多く見られる疾患の総称。1997年生…
+j	成人誌	成人誌	成人向けの情報を掲載した雑誌。
+j	成功者	成功者	（事業などで成功し）目的を達成した者。
+j	成実子	成実子	a female given name
+j	成実宗	成実宗	日本の南都六宗の一つ。成実論を研究する論宗。
+j	成層圏	成層圏	the stratosphere
+j	成年者	成年者	adult; person of full age
+j	成年誌	成年誌	成年向けの情報を掲載した雑誌。
+j	成文化	成文化	codification, the act of …
+j	成文法	成文法	statute law
+j	成果物	成果物	計画の結果で顧客に対し提供される商品やサービス。
+j	成績表	成績表	report card (grades)
+j	成長率	成長率	ある期間で国内経済がどれだけ成長したかを表す率。経…
+j	提げる	提げる	to take with one, to carr…
+j	提げ物	提げ物	general term for a carryi…
+j	提喩法	提喩法	synecdoche
+j	提携者	提携者	
+j	提案書	提案書	
+j	提示部	提示部	
+j	斐実子	斐実子	a female given name
+j	斐美子	斐美子	a female given name
+j	材料費	材料費	material costs; material …
+j	材木屋	材木屋	材木を仕入れて販売する店、人。材木店。
+j	桐ヶ谷	桐ヶ谷	a valley in Kamakura, Kan…
+j	源三郎	源三郎	a male given name
+j	源五郎	源五郎	コウチュウ目オサムシ上科ゲンゴロウ類に属する甲虫の…
+j	源太郎	源太郎	a male given name
+j	源氏名	源氏名	nickname, historically us…
+j	燐灰石	燐灰石	apatite (type of mineral)
+j	燐脂質	燐脂質	phospholipid
+j	燐葉石	燐葉石	phosphophyllite
+j	燐酸化	燐酸化	phosphorylation
+j	燐酸塩	燐酸塩	phosphate
+j	狐の孫	狐の孫	Rostellularia procumbens
+j	狐人間	狐人間	
+j	磐城国	磐城国	日本の旧国（令制国）のひとつで明治維新後に明治政府…
+j	祐一郎	祐一郎	a male given name
+j	祐実子	祐実子	a female given name
+j	祐美子	祐美子	a female given name
+j	紐理論	紐理論	synonym of 弦理論 (genriron,…
+j	紐鶏頭	紐鶏頭	
+j	結び目	結び目	knot
+j	結んだ	結んだ	past tense and perfective…
+j	結合律	結合律	結合法則に同じ。
+j	結合性	結合性	
+j	結婚の	結婚の	
+j	結婚式	結婚式	wedding, marriage ceremony
+j	結実奈	結実奈	a female given name
+j	結実子	結実子	a female given name
+j	結実江	結実江	a female given name
+j	結実花	結実花	a female given name
+j	結晶化	結晶化	crystallisation
+j	結晶学	結晶学	crystallography
+j	結晶性	結晶性	
+j	結晶水	結晶水	water of crystallization
+j	結晶粒	結晶粒	多結晶体を構成するそれぞれの結晶。
+j	結晶系	結晶系	結晶を結晶軸の数、角度、長さなどにより分類したもの…
+j	結晶質	結晶質	物質が結晶している状態であること。また、そのような…
+j	結束線	結束線	
+j	結果論	結果論	そのようになった原因や過程を考えずに、結果だけを見…
+j	結節点	結節点	つないで合わせた部分。結び目。
+j	結膜炎	結膜炎	conjunctivitis
+j	罐詰め	罐詰め	
+j	耐える	耐える	
+j	耐久力	耐久力	stamina, tenacity
+j	耐久性	耐久性	durability
+j	耐候性	耐候性	材料の性質の目安の一つで、大気、湿気、水、太陽光、…
+j	耐空性	耐空性	
+j	耐音圧	耐音圧	マイクなどの音響機器が音を歪むことなく処理できる最…
+j	耐食性	耐食性	材料が持っている腐食に対する抵抗。耐腐食性。
+j	腐った	腐った	
+j	腐り縁	腐り縁	離れたくても離れられない関係。腐れ縁。
+j	腐れ縁	腐れ縁	離れたくても離れられない関係。腐り縁。
+j	腐卵臭	腐卵臭	腐った卵のような臭い。硫化水素によって発生する。
+j	腐女子	腐女子	A fujoshi: a woman or gir…
+j	腐植土	腐植土	
+j	腐男子	腐男子	A male fan of yaoi.
+j	腐葉土	腐葉土	おもに落葉した葉・枝・根・樹皮など植物由来の有機物…
+j	舐ぶる	舐ぶる	to lick
+j	舐める	舐める	to lick, to stroke with t…
+j	舐めプ	舐めプ	
+j	蒐集家	蒐集家	研究や趣味のため、ある特定の分野の物品を蒐集する人…
+j	虐げる	虐げる	
+j	虐殺者	虐殺者	虐殺する者。
+j	褐鉄鉱	褐鉄鉱	
+j	詐欺の	詐欺の	
+j	詐欺る	詐欺る	to deceive
+j	詐欺師	詐欺師	swindler, con man
+j	詐欺罪	詐欺罪	the crime of fraud
+j	逐語訳	逐語訳	literal translation; word…
+j	錐体筋	錐体筋	a pyramidalis muscle
+j	錐体路	錐体路	pyramidal tract
+j	錐揉み	錐揉み	tailspin
+j	限定的	限定的	
+j	限定詞	限定詞	a determiner (class of wo…
+j	預かり	預かり	
+j	預ける	預ける	
+j	預け金	預け金	
+j	預り金	預り金	取引先、役員、従業員等から金員を一時的に預かり、後…
+j	預言者	預言者	預言をする者、また、その能力がある者。
+j	預貯金	預貯金	預金と貯金。
+j	駐停車	駐停車	駐車または停車。
+j	駐在所	駐在所	派遣された人が駐在する場所。
+j	駐屯地	駐屯地	garrison, military base, …
+j	駐車場	駐車場	parking lot, car park
+j	駐車灯	駐車灯	他の交通に自身が駐停車中であることを知らせる灯火類。
+j	駐輪場	駐輪場	bicycle parking area
+j	鰐の口	鰐の口	an extremely dangerous si…
+j	鰐千鳥	鰐千鳥	
+j	黐の木	黐の木	
+k	결과적	結果的	being as a result; being …
+k	결정계	結晶系	
+k	결정수	結晶水	water of crystallization
+k	결정화	結晶化	crystallisation
+k	결혼식	結婚式	wedding ceremony
+k	공갈범	恐喝犯	
+k	공수병	恐水病	hydrophobia
+k	공포증	恐怖症	phobia
+k	구라파	歐羅巴	Europe (a continent locat…
+k	구미권	歐美圈	
+k	구미인	歐美人	
+k	구미화	歐美化	westernization
+k	내구성	耐久性	
+k	당나라	唐나라	Tang dynasty (Chinese emp…
+k	당수도	唐手道	
+k	목욕실	沐浴室	bathroom
+k	목욕탕	沐浴湯	public bath, bathhouse
+k	목욕통	沐浴桶	bathtub
+k	부녀자	腐女子	a woman, women
+k	부식질	腐植土	부식하기 쉬운 성질.
+k	사기죄	詐欺罪	the crime of fraud
+k	서라벌	徐羅伐	Seorabeol, the capital of…
+k	성공적	成功的	the state or condition of…
+k	성균관	成均館	Sungkyunkwan (Korea's hig…
+k	성적표	成績表	report card
+k	성층권	成層圈	대류권의 상부(11km)로부터 고도 약 50k…
+k	성층권	成層圏	대류권의 상부(11km)로부터 고도 약 50k…
+k	자엽초	子葉鞘	
+k	자오선	子午線	
+k	자음군	子音群	
+k	제유법	提喩法	synecdoche
+k	제유법	提喻法	synecdoche
+k	제휴자	提携者	
+k	좌변기	坐便器	
+k	주둔지	駐屯地	garrison, military base, …
+k	주재관	駐在官	
+k	주재소	駐在所	
+k	주차장	駐車場	car park, parking lot
+k	토욕혼	吐谷渾	Tuyuhun (A powerful Mongo…
+k	한정사	限定詞	determiner (class of word…
+k	한정성	限定性	
+k	한하다	限하다	to be limited, to be rest…
+k	회중경	懐中鏡	pocket mirror
+k	회향병	懐郷病	
+j	佐伯真魚	佐伯真魚	平安時代初期の密教僧・空海の俗名で、真魚は幼名。
+j	児童労働	児童労働	児童による労働。日本国憲法第27条第三号では児童の…
+j	児童売春	児童売春	child prostitution
+j	児童性愛	児童性愛	
+j	児童文学	児童文学	子供を対象とした文学。
+j	児童虐待	児童虐待	child abuse
+j	吐き出す	吐き出す	to vomit; to spit out
+j	吐故納新	吐故納新	古いものを捨てて、新しいものを取り入れること。
+j	吐露する	吐露する	
+j	唐草文様	唐草文様	つる草が絡み合う様子を描いた文様。
+j	唐草模様	唐草模様	つる草が絡み合う様子を描いた模様。
+j	啐啄同時	啐啄同時	禅宗で師家と修行者との心が投合し、修行者がまさに開…
+j	坐骨神経	坐骨神経	sciatic nerve
+j	子ウサギ	子ウサギ	
+j	子ネズミ	子ネズミ	
+j	子供向き	子供向き	
+j	子供嫌い	子供嫌い	
+j	子供時代	子供時代	
+j	子供銀行	子供銀行	小学校や中学校において児童・生徒が銀行と連携して自…
+j	子供騙し	子供騙し	shallow trickery
+j	子子孫孫	子子孫孫	子孫の続く限り。
+j	子守する	子守する	
+j	子守蜘蛛	子守蜘蛛	
+j	子宮体癌	子宮体癌	子宮体部の子宮内膜に発生する癌。
+j	子宮内膜	子宮内膜	子宮の内側にある上皮組織。
+j	子宮頸癌	子宮頸癌	cervical cancer
+j	子宮頸部	子宮頸部	cervix (lower, narrow por…
+j	子泣き爺	子泣き爺	Shapeshifting monster, 妖怪…
+j	子犬の目	子犬の目	
+j	子音弱化	子音弱化	
+j	子音文字	子音文字	abjad
+j	子音連結	子音連結	
+j	嵐の大洋	嵐の大洋	月面の表側の北西部に位置する、月面で最大の海。
+j	恐れない	恐れない	
+j	恐れ入る	恐れ入る	be sorry (to trouble you)
+j	恐ろしい	恐ろしい	frightening; horrific; te…
+j	恐怖政治	恐怖政治	拷問、虐殺などの過激な方法を以て行われる政治。特に…
+j	懐かしい	懐かしい	nostalgic, reminiscent of…
+j	懐かしむ	懐かしむ	
+j	懐中時計	懐中時計	a pocket watch
+j	懐中電灯	懐中電灯	a flashlight; a torch
+j	懐中電燈	懐中電燈	flashlight, electric torch
+j	懐疑主義	懐疑主義	skepticism (as a mentalit…
+j	懐石料理	懐石料理	kaiseki, a Japanese cuisi…
+j	成り立つ	成り立つ	consist of; be composed of
+j	成り行き	成り行き	the course of events
+j	成るべく	成るべく	
+j	成人する	成人する	
+j	成人の日	成人の日	成人となった人を祝う国民の祝日。成人式が行われる。…
+j	成人向け	成人向け	for adult audiences (due …
+j	成人映画	成人映画	
+j	成功した	成功した	
+j	成功する	成功する	
+j	成功報酬	成功報酬	completion bonus, fee pai…
+j	成層圏の	成層圏の	
+j	成層火山	成層火山	stratovolcano
+j	成成明学	成成明学	関東地方にある3つの名門私立大学: 成蹊大学（成）…
+j	成果主義	成果主義	企業において、どれだけの利益を所属する企業に与えた…
+j	成熟した	成熟した	
+j	成熟する	成熟する	
+j	成熟分裂	成熟分裂	meiosis
+j	成田空港	成田空港	Narita airport. Often wri…
+j	成田離婚	成田離婚	a divorce on returning fr…
+j	成約する	成約する	
+j	成長する	成長する	
+j	提供する	提供する	
+j	提出する	提出する	
+j	提携する	提携する	
+j	提案する	提案する	
+j	提灯持ち	提灯持ち	夜道や葬列で先に立ち提灯を持つ役。また、その役の人。
+j	提灯鮟鱇	提灯鮟鱇	a Pacific footballfish (H…
+j	提議する	提議する	
+j	提起する	提起する	
+j	材料工学	材料工学	
+j	材料科学	材料科学	
+j	桐始結花	桐始結花	七十二候の一つ。大暑の初候（日本）。桐の実が生り始…
+j	歐洲聯合	歐洲聯合	
+j	源五郎鮒	源五郎鮒	Carassius cuvieri the Jap…
+j	源平藤橘	源平藤橘	日本の本姓の代表例。源氏、平氏、藤原氏、橘氏のこと。
+j	源氏物語	源氏物語	The Tale of Genji (novel …
+j	源泉徴収	源泉徴収	所得税の徴収方法の一つで、給与や報酬、配当などの支…
+j	燐酸肥料	燐酸肥料	phosphate fertiliser
+j	狐の剃刀	狐の剃刀	Lycoris sanguinea
+j	狐の牡丹	狐の牡丹	Ranunculus silerifolius
+j	狐の絵筆	狐の絵筆	Mutinus bambusinus
+j	狐の茶袋	狐の茶袋	synonym of 埃茸 (hokoritake…
+j	狐疑逡巡	狐疑逡巡	being in doubt and unable…
+j	結びの神	結びの神	the Japanese god of match…
+j	結び付き	結び付き	connection, relation, all…
+j	結び付く	結び付く	be joined together
+j	結合する	結合する	
+j	結合法則	結合法則	associative law
+j	結合組織	結合組織	
+j	結婚する	結婚する	
+j	結婚指輪	結婚指輪	a wedding ring
+j	結婚詐欺	結婚詐欺	本人には結婚する気はないが、異性に結婚する目的で近…
+j	結晶格子	結晶格子	crystal lattice (geometri…
+j	結晶粒界	結晶粒界	多結晶体中の結晶粒同士の境目。
+j	結構です	結構です	
+j	結跏趺坐	結跏趺坐	lotus position
+j	耐え忍ぶ	耐え忍ぶ	bear (put up with)
+j	耐火性の	耐火性の	
+j	耐火煉瓦	耐火煉瓦	高温に耐えられる煉瓦。耐火粘土を主原料として作られ…
+j	耐用年数	耐用年数	service life
+j	耐腐食性	耐腐食性	corrosion resistance
+j	腐敗した	腐敗した	
+j	腐朽した	腐朽した	
+j	腐草為蛍	腐草為蛍	七十二候の一つ。芒種の次候（日本・略本暦）。腐った…
+j	舐め腐る	舐め腐る	synonym of 舐める (nameru, “…
+j	虐待する	虐待する	
+j	褐色人種	褐色人種	伝統的な人種の分類で東南アジアやオセアニアの人々を…
+j	褐色木炭	褐色木炭	brown charcoal
+j	褐色矮星	褐色矮星	brown dwarf
+j	詐取する	詐取する	
+j	詐害行為	詐害行為	債務者が、債権者を害することを知って自己の財産を減…
+j	逐次反応	逐次反応	sequential reaction
+j	逐次検定	逐次検定	sequential analysis
+j	逐語的な	逐語的な	
+j	逐語的に	逐語的に	
+j	錐体細胞	錐体細胞	a cone cell
+j	限られた	限られた	
+j	限定する	限定する	
+j	限定的な	限定的な	
+j	限界利益	限界利益	売上高から変動費を差し引いたもの。
+j	限界効用	限界効用	
+j	限界等級	限界等級	ある望遠鏡で見える最も暗い星の等級。望遠鏡の口径に…
+j	限界集落	限界集落	高齢者が人口の半数を超え、存続が危ぶまれる集落。
+j	預かり金	預かり金	
+j	預金保険	預金保険	銀行が経営破綻した際、預金者を保護するために銀行が…
+j	預金通帳	預金通帳	銀行などの金融機関が預金者に交付し、入金や出金、残…
+j	駐車する	駐車する	
+j	駐車禁止	駐車禁止	駐車が禁止されていること。駐禁。
+j	駐車違反	駐車違反	parking violation
+j	駐輪禁止	駐輪禁止	駐輪が禁止されていること。駐禁。
+k	공포영화	恐怖映画	horror movie
+k	공포영화	恐怖映畫	horror movie
+k	공포주의	恐怖主義	terrorism
+k	구라파인	歐羅巴人	
+k	성공하다	成功하다	to succeed
+k	성인영화	成人映画	
+k	성인영화	成人映畫	
+k	아동 학대	児童虐待	자기의 보호 또는 감독을 받는 18세 미만의 …
+k	예방접종	預防接種	vaccination
+k	원천징수	源泉徴収	
+k	원천징수	源泉徵收	
+k	자음문자	子音文字	
+k	재료과학	材料科学	
+k	재료과학	材料科學	
+k	풍협미인	豐頰美人	a buxom beauty, a plump-c…
+k	호가호위	狐仮虎威	using powerful connection…
+k	호가호위	狐假虎威	using powerful connection…
+k	회중시계	懐中時計	pocket watch
+k	회중일기	懐中日記	pocketbook, pocket(-sized…
+j	児童ポルノ	児童ポルノ	child pornography
+j	児童文学者	児童文学者	児童文学作品の創作者。
+j	児童相談所	児童相談所	児童に関係する福祉のために都道府県毎に設置される組…
+j	児童虐待者	児童虐待者	
+j	吐き散らす	吐き散らす	throw up everywhere
+j	吐噶喇列島	吐噶喇列島	Tokara Islands
+j	唐もろこし	唐もろこし	イネ科トウモロコシ属の一年草。学名は Zea ma…
+j	坐骨神経痛	坐骨神経痛	sciatica
+j	子オオカミ	子オオカミ	
+j	子ライオン	子ライオン	
+j	子レイヨウ	子レイヨウ	
+j	子供じみた	子供じみた	
+j	子供っぽい	子供っぽい	
+j	子宮外妊娠	子宮外妊娠	
+j	子宮摘出術	子宮摘出術	hysterectomy
+j	子宮蓄膿症	子宮蓄膿症	
+j	子持ち甘藍	子持ち甘藍	
+j	成し遂げる	成し遂げる	obtain (to succeed), acco…
+j	成りすます	成りすます	
+j	成り掛ける	成り掛ける	be on the verge, be on th…
+j	成人になる	成人になる	
+j	成層圏界面	成層圏界面	成層圏と中間圏の境界。
+j	成文化する	成文化する	
+j	提携させる	提携させる	
+j	提灯お化け	提灯お化け	a "lantern obake": a kind…
+j	提灯に釣鐘	提灯に釣鐘	paper lanterns to temple …
+j	源五右衛門	源五右衛門	a male given name of hist…
+j	狐の嫁入り	狐の嫁入り	kitsune no yomeiri, a pro…
+j	結び付ける	結び付ける	to tie to; to tie togethe…
+j	結び目理論	結び目理論	
+j	結合させる	結合させる	
+j	結合できる	結合できる	
+j	結合双生児	結合双生児	体の一部または全部が結合して誕生した双子。
+j	結婚してる	結婚してる	
+j	結婚の平等	結婚の平等	marriage equality
+j	結婚相談所	結婚相談所	dating agency
+j	結婚記念日	結婚記念日	wedding anniversary
+j	結婚証明書	結婚証明書	
+j	結束バンド	結束バンド	cable tie
+j	結果として	結果として	
+j	結社の自由	結社の自由	freedom of association
+j	結論を出す	結論を出す	
+j	腐っても鯛	腐っても鯛	something that retains it…
+j	腐敗選挙区	腐敗選挙区	
+j	舐めプレイ	舐めプレイ	
+j	虐めをする	虐めをする	
+j	詐欺師撃退	詐欺師撃退	
+j	逐次刊行物	逐次刊行物	a serial publication
+j	限外顕微鏡	限外顕微鏡	
+j	限定形容詞	限定形容詞	attributive adjective
+j	限定用法の	限定用法の	
+j	限定的贖罪	限定的贖罪	
+j	限界ゲージ	限界ゲージ	量産される機械部品の寸法が許容される誤差の範囲内で…
+j	限界自治体	限界自治体	65歳以上の高齢者が人口の過半数を占める自治体。
+k	공포공포증	恐怖恐怖症	phobophobia
+k	당나라 군대	唐— 軍隊	incompetent army
+k	당황	唐慌/唐惶	flustering
+k	성인용품점	成人用品店	
+k	아동 성매매	児童性売買	
+k	자궁 내 장치	子宮內裝置	intrauterine device (IUD)…
+k	자궁 내 장치	子宮内装置	intrauterine device (IUD)…
+k	자궁외임신	子宮外姙娠	
+k	좌골신경통	坐骨神経痛	
+k	좌골신경통	坐骨神經痛	
+k	주차장 건물	駐車場建物	
+k	한외현미경	限外顕微鏡	
+k	한외현미경	限外顯微鏡	
+k	한정 형용사	限定形容詞	
+j	児戯に等しい	児戯に等しい	子供の遊びと同様に、幼稚で他愛無い。
+j	児戯に類する	児戯に類する	子供の遊びと同様に、幼稚で他愛無い。
+j	児童性虐待者	児童性虐待者	
+j	吐きそうです	吐きそうです	
+j	子どもポルノ	子どもポルノ	synonym of 児童ポルノ (“child …
+j	恐い物知らず	恐い物知らず	恐ろしいものに気づかず、無鉄砲な人。
+j	憐れみ深い人	憐れみ深い人	
+j	成り上がり者	成り上がり者	
+j	成功を収める	成功を収める	achieve success
+j	成果を収める	成果を収める	achieve success
+j	成田国際空港	成田国際空港	Narita International Airp…
+j	成長ホルモン	成長ホルモン	growth hormone
+j	結わえ付ける	結わえ付ける	to tie to; to fasten
+j	結婚している	結婚している	
+j	結婚してくれ	結婚してくれ	
+j	結果オーライ	結果オーライ	物事が紆余曲折を経つつも、最終的に満足できる状況に…
+j	結果無価値論	結果無価値論	刑法学における思想あるいはアプローチのひとつ。違法…
+j	腐り掛かった	腐り掛かった	
+j	舐めたプレイ	舐めたプレイ	going insultingly easy on…
+j	褐色ペリカン	褐色ペリカン	a brown pelican
+j	駐車ブレーキ	駐車ブレーキ	
+j	駐車メーター	駐車メーター	
+k	자음계제교체	子音階梯交替	
+j	子供がいますか	子供がいますか	
+j	子宮内避妊器具	子宮内避妊器具	
+j	嵐の前の静けさ	嵐の前の静けさ	大事や変事を前にして、奇妙に平穏であること、または…
+j	成人であること	成人であること	
+j	成成明学獨國武	成成明学獨國武	関東地方にある6つの名門私立大学: 成蹊大学（成）…
+j	成成獨國武明学	成成獨國武明学	関東地方にある6つの名門私立大学: 成蹊大学（成）…
+j	沐猴にして冠す	沐猴にして冠す	Being a person who is not…
+j	結合エネルギー	結合エネルギー	結合を一つ切断するのに必要なエネルギー。例えば、原…
+j	結婚して下さい	結婚して下さい	
+j	結婚を申し込む	結婚を申し込む	
+j	結論から言うと	結論から言うと	said right before getting…
+j	子供部屋おじさん	子供部屋おじさん	a man whose age is greate…
+j	子供部屋おばさん	子供部屋おばさん	実家の子供部屋で暮らす、独身の中高年女性。
+j	結び付けて考える	結び付けて考える	
+j	子ども部屋おじさん	子ども部屋おじさん	
+j	恐れ入谷の鬼子母神	恐れ入谷の鬼子母神	相手の言うことには同意するが、そのまま認めるのは癪…
+j	児孫のために美田を買わず	児孫のために美田を買わず	leave no property for you…

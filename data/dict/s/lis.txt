@@ -1,0 +1,816 @@
+e	-ish	ish	1 meaning
+e	-ism	ism	1 meaning
+e	-ist	ist	1 meaning
+e	ise	ise	1 meaning
+j	いさ	isa	used as a filled pause
+j	いす	isu	マンサク科の常緑高木であるいすのきの別名。
+j	いそ	iso	岩石などが露出している湖岸や海岸。
+j	イス	isu	
+j	イーサー	isa	エーテルの英語読み。
+j	以佐	isa	a female given name
+j	以作	isa	a female given name
+j	以早	isa	a female given name
+j	以沙	isa	a female given name
+j	以瑳	isa	a female given name
+j	以砂	isa	a female given name
+j	以紗	isa	a female given name
+j	伊三	isa	a female given name
+j	伊佐	isa	Isa (a city in Kagoshima …
+j	伊作	isa	a female given name
+j	伊勢	ise	Ise (a city in Mie Prefec…
+j	伊早	isa	a female given name
+j	伊沙	isa	a female given name
+j	伊瑳	isa	a female given name
+j	伊砂	isa	a female given name
+j	伊紗	isa	a female given name
+j	位数	isu	a number of vertices in a…
+j	位相	iso	phase
+j	依佐	isa	a female given name
+j	依瑳	isa	a female given name
+j	惟瑳	isa	a female given name
+j	意瑳	isa	a female given name
+j	椅子	isu	a seat (piece of furnitur…
+j	異数	isu	unusual, exceptional
+j	異相	iso	一般的ではない顔や姿。
+j	磯	iso	seashore, a rocky seashore
+j	移送	iso	transference
+j	胃相	iso	胃に食物が送られてきた時の刺激により、胃の活動が活…
+j	衣瑳	isa	a female given name
+j	衣砂	isa	a female given name
+j	遺草	iso	発表する前に作者が死んでしまった詩歌の原稿。
+k	이사	isa	moving (from one residenc…
+e	i see	isee	1 meaning
+e	isbn	isbn	1 meaning
+e	isis	isis	2 meanings
+e	issn	issn	1 meaning
+j	いさう	isau	しかる。とがめる。非難する。
+j	いさお	isao	accomplishment; achieveme…
+j	いし	ishi	emphatic nominative case …
+j	いしょ	isho	遺書: will - a legal docume…
+j	いそうお	isoo	磯部に棲むさかな。
+j	いっそ	isso	思い切って。むしろ。
+j	いっそう	isso	
+j	イシュー	ishu	論点、課題、問題
+j	イーサン	isan	
+j	一双	isso	a pair
+j	一層	isso	much more; still more; al…
+j	一掃	isso	clean sweep; eradication;…
+j	一曹	isso	master sergeant
+j	一艘	isso	one ship or boat
+j	一走	isso	レースに一回出走すること。
+j	以次	ishi	ある職や地位の次席。
+j	以浅	isen	深さがある値以下であること。
+j	以西	isei	westward of
+j	位子	ishi	律令制で六位から八位までの者の嫡子。二十一歳に試験…
+j	位所	isho	官位、姓名を公文書に記載すること。その文書。
+j	位署	isho	官位、姓名を公文書に記載すること。その文書。
+j	倚子	ishi	Original form of 椅子
+j	偉才	isai	an extraordinary or speci…
+j	匜水	isui	みずさしに容れた水。
+j	医師	ishi	doctor
+j	医政	isei	医療に関する行政。
+j	医書	isho	医療に関する内容の書物。
+j	医生	isei	medical student
+j	医者	isha	medical doctor
+j	囲障	isho	隣接した建物の所有者が敷地の境界上に設置した塀や柵…
+j	委細	isai	details, minutiae, partic…
+j	威勢	isei	power, might, authority
+j	帷牆	isho	引き幕と垣根。
+j	意匠	isho	design
+j	意執	ishu	一つの事柄や考えに執着すること。
+j	意志	ishi	will (intention or decisi…
+j	意思	ishi	intention; intent; purpos…
+j	意緒	isho	思うところ。心の持ちよう。心緒。
+j	意趣	ishu	malice
+j	慰謝	isha	consolation
+j	懿旨	ishi	decree from an empress, e…
+j	渭水	isui	the Wei River
+j	為政	isei	administering affairs of …
+j	異執	ishu	異論や間違った考えに執着すること。
+j	異姓	isei	姓が異なること。
+j	異宗	ishu	異なった宗教、宗派。
+j	異彩	isai	standing out, excelling
+j	異志	ishi	exceptionally good will; …
+j	異性	isei	the opposite sex (the oth…
+j	異才	isai	genius, exceptional talent
+j	異生	isho	煩悩に縛られ迷う者。凡夫。
+j	異称	isho	本名や正式名称とは異なる呼び名。
+j	異種	ishu	being of different types
+j	異臭	ishu	foul stench
+j	石	ishi	a stone
+j	称唯	isho	天皇のお召しを受けた際、口を覆って「おお」と応じる…
+j	移徙	ishi	移転
+j	移旋	isen	主音の音の高さを変えずにモードや長調、短調の調性を…
+j	移書	isho	一般に知らせるため、文書をまわすこと。その文書。う…
+j	緯書	isho	漢の時代において経書を神秘主義的に書いた書物。
+j	緯線	isen	a parallel, a latitude (i…
+j	縊死	ishi	death by hanging
+j	胃歯	ishi	甲殻類の胃内部にあるキチン質の突起。
+j	胃酸	isan	gastric acid
+j	葳蕤	isui	茂るさま。
+j	蝟集	ishu	gathering
+j	衣書	isho	衣類と書籍。主に経書。
+j	衣装	isho	clothing
+j	衣裳	isho	着物。
+j	逶邃	isui	邃く逶ること。
+j	逸走	isso	escape, scud, scamper away
+j	違旨	ishi	趣旨に違うこと。
+j	違算	isan	miscalculation
+j	遺址	ishi	ruins; relics; historical…
+j	遺子	ishi	養育する親の死後に残された子供。遺児。
+j	遺存	ison	今もなお残っていること。
+j	遺屍	ishi	遺棄された死骸。
+j	遺志	ishi	will of the deceased; one…
+j	遺旨	ishi	昔の人が残した考え。
+j	遺書	isho	a letter or note left by …
+j	遺産	isan	heritage, inheritance, le…
+j	遺矢	ishi	大小便を漏らすこと。
+j	遺精	isei	性交や自慰によらず、不随意に射精すること。
+j	遺習	ishu	現在でも残る昔からの習慣や風俗。
+j	遺詔	isho	天子の御遺言。
+j	醫師	ishi	
+j	闈司	ishi	a 律令 (ritsuryō) position …
+k	이삭	isak	ear (of grain)
+k	이삼	isam	two or three, a few
+k	이서	iseo	west of something
+k	이솝	isop	
+k	이순	isun	
+k	이식	isik	replanting
+k	이심	isim	duplicity, treachery
+k	이십	isip	twenty
+e	isaac	isaac	2 meanings
+e	islam	islam	1 meaning
+e	islet	islet	1 meaning
+e	isuzu	isuzu	1 meaning
+j	いさき	isaki	スズキ目スズキ亜目イサキ科コショウダイ亜科イサキ属…
+j	いさざ	isaza	スズキ目ハゼ科の淡水の硬骨魚。琵琶湖の固有種で、冬…
+j	いさな	isana	「鯨」の古名。
+j	いさは	isaha	植物の葉に白や黄などの斑点や筋のできたもの。
+j	いさむ	isamu	積極的な気持ちになって張り切る。
+j	いさめ	isame	忠告。諫言。戒め。
+j	いしん	ishin	威信: dignity
+j	いすか	isuka	スズメ目アトリ科イスカ属に属する鳥の一種。学名:L…
+j	いすず	isuzu	五鈴, 唯鈴, 乙涼, 依紗, 依涼, 衣鈴, 伊…
+j	いすゞ	isuzu	Isuzu, a Japanese automot…
+j	いせき	iseki	取水などのため河川を構築物でせき止めた所。ダム。
+j	いそうろう	isoro	他人の家で暮らし、食事などの世話を受けていること。…
+j	いそぎ	isogi	急ぐこと。急を要すること。
+j	いそく	isoku	夷則: ninth note of the shí…
+j	いそぐ	isogu	速くしようとする。
+j	いそじ	isoji	50歳。
+j	いそべ	isobe	磯の辺り。
+j	いそめ	isome	イソメ目イソメ科に属する多毛類の総称。学名:Eun…
+j	いっしょ	issho	一緒: together, with
+j	イサアク	isaku	
+j	イサク	isaku	Isaac
+j	イシャーウ	ishau	夜間の礼拝。
+j	イースター	isuta	復活祭。
+j	イースト	isuto	east
+j	一世	issei	one generation
+j	一再	issai	once or twice; repeatedly
+j	一切	issai	all, entirety, the whole,…
+j	一周	isshu	once around; a revolution…
+j	一声	issei	voice; cry; shout
+j	一子	isshi	一人っ子。
+j	一寸	issun	one sun: a unit of length…
+j	一山	issan	一つの山。
+j	一左右	issou	a piece of news; tidings;…
+j	一成	issei	a male given name
+j	一戦	issen	a (single) battle, match,…
+j	一所	issho	一つの場所や地域。
+j	一才	issai	生後1年目又は1年を経過した年齢の称。
+j	一散	issan	脇目も振らず走ること。
+j	一斉	issei	simultaneous
+j	一星	issei	a male given name
+j	一書	issho	ある書物や書状。
+j	一歳	issai	生後1年目又は1年を経過した年齢の称。
+j	一死	isshi	死ぬこと。一命をなげうつこと。
+j	一水	issui	一筋の水の流れ。
+j	一清	issei	a male given name
+j	一生	issho	a lifetime, one's whole l…
+j	一盞	issan	一つの杯。
+j	一睡	issui	a wink of sleep
+j	一矢	isshi	one arrow
+j	一秭	isshi	A trillion trillion, 10²⁴…
+j	一種	isshu	kind; type; species
+j	一穂	issui	一本の穂。
+j	一笑	issho	にっこり笑うこと。
+j	一算	issan	一度計算すること。
+j	一粲	issan	一笑い。
+j	一糸	isshi	一本の糸。
+j	一緒	issho	combined, merged, unified
+j	一線	issen	one line
+j	一者	issha	一人の者。
+j	一誠	issei	a male given name
+j	一週	isshu	synonym of 一周 (isshū, “on…
+j	一銭	issen	銭。1871年から1953年まで使用された貨幣の単…
+j	一閃	issen	ぴかっと光ること。
+j	一首	isshu	一つの詩や和歌の作品。
+j	乙涼	isuzu	a female given name
+j	五十路	isoji	fifty
+j	五十鈴	isuzu	a Nagara-class cruiser of…
+j	五十集	isaba	a person who sells fish; …
+j	井堰	iseki	a weir
+j	交喙	isuka	common crossbill, red cro…
+j	以佐美	isami	a female given name
+j	以深	ishin	深さがある値以上であること。
+j	伊三美	isami	a male given name
+j	伊春	ishun	Yichun (a prefecture-leve…
+j	伊鈴	isuzu	a female given name
+j	依涼	isuzu	a female given name
+j	偉績	iseki	great achievement
+j	勇む	isamu	to be in high spirits, en…
+j	勇美	isami	a female given name
+j	医する	isuru	癒やす。治す。
+j	夷則	isoku	ninth note of the shí-èr-…
+j	委する	isuru	任せる。任す。委ねる。
+j	威信	ishin	dignity, prestige
+j	威涼	isuzu	a female given name
+j	居候	isoro	a person who lives in som…
+j	幾鈴	isuzu	a female given name
+j	急ぐ	isogu	to hurry, to hasten, to r…
+j	急げ	isoge	
+j	惟神	ishin	神の思し召すまま。
+j	意寿々	isuzu	a female given name
+j	意須寿	isuzu	a female given name
+j	慰する	isuru	慰める。慰安する。
+j	溢水	issui	overflow
+j	異心	ishin	謀反、裏切りをしようという心。
+j	石井	ishii	a spring welling up from …
+j	石居	ishii	a surname
+j	磯目	isome	eunicids, bloodworms, any…
+j	磯部	isobe	a surname
+j	磯野	isono	a surname
+j	移籍	iseki	entering a different hous…
+j	維新	ishin	restoration (in reference…
+j	衣鈴	isuzu	a female given name
+j	諌め	isame	remonstration, admonition…
+j	逸史	isshi	正規の歴史に記されていない事柄。また、それを記した…
+j	逸散	issan	「一散」の別表記。
+j	違作	isaku	農作物の収穫量が悪いこと。凶作。
+j	遺作	isaku	unpublished works left be…
+j	遺策	isaku	計画などに手抜かりがあること。
+j	遺臣	ishin	前朝、先代に仕えていた旧臣。
+j	遺跡	iseki	a place of historical or …
+k	이사악	isaak	Isaac
+k	이사야	isaya	Isaiah
+k	이상	isang	an amount more than
+k	이색	isaek	
+k	이송	isong	To transfer (a patient, c…
+k	이슬	iseul	dew, dewdrop
+k	이십오	isibo	
+k	이십이	isibi	
+k	있어	isseo	해체 (haeche, “informal”) p…
+e	isabel	isabel	1 meaning
+e	isaiah	isaiah	3 meanings
+e	isekai	isekai	4 meanings
+e	iseult	iseult	1 meaning
+e	island	island	1 meaning
+e	isomer	isomer	2 meanings
+e	israel	israel	2 meanings
+e	istria	istria	1 meaning
+j	いさかい	isakai	argument; dispute
+j	いさかう	isakau	to argue, to quarrel
+j	いさつ	isatsu	to cry; to wail
+j	いさらい	isarai	座った時に体が席に接触する部分。しり。
+j	いしき	ishiki	席。座席。
+j	いしや	ishiya	石材を切り出したり、加工、販売することを業とする者。
+j	いせいそう	iseiso	異性装: transvestism
+j	いせえび	iseebi	伊勢海老のひらがな表記。
+j	いそいそ	isoiso	cheerfully, eagerly, with…
+j	いっせーの	isseno	
+j	イシス	ishisu	Isis - the ancient Egypti…
+j	イセエビ	iseebi	「伊勢海老」の学術的表記。
+j	イソップ	isoppu	
+j	イソノエ	isonoe	木星の第26衛星の固有名。
+j	イソ弁	isoben	newbie lawyer who is empl…
+j	イースタン	isutan	東の。
+j	一伸	isshin	a male given name
+j	一審	isshin	first instance; first tri…
+j	一席	isseki	演芸や講演などの一回の公演。
+j	一心	isshin	wholeheartedly
+j	一振	isshin	一振りすること。
+j	一新	isshin	a renewal, a change
+j	一瞬	isshun	an instant
+j	一跡	isseki	家系、血筋の一続き。
+j	一身	isshin	one's own person; oneself
+j	一隻	isseki	対になっている物の片方。
+j	伊勢海	isekai	「伊勢湾」のこと。
+j	伊勢海老	iseebi	a Japanese spiny lobster …
+j	伊勢湾	isewan	愛知県、三重県に囲まれた海域。
+j	急いで	isoide	
+j	意識	ishiki	consciousness; awareness
+j	異世界	isekai	another world
+j	異性の	iseino	
+j	異性愛	iseiai	heterosexuality
+j	異性装	iseiso	transvestism
+j	異色	ishoku	unusual
+j	異説	isetsu	世間に通用している定説と異なる説。
+j	異食	ishoku	eating non-edible things;…
+j	石子	ishiko	a female given name
+j	石工	ishiku	stonemason; mason
+j	石津	ishizu	a surname
+j	石田	ishida	a surname
+j	石見	ishimi	a surname
+j	石野	ishino	a surname
+j	移植	ishoku	replanting
+j	移殖	ishoku	魚介類などの動物を繁殖させるために、別の場所へ移す…
+j	移設	isetsu	relocation
+j	縊殺	isatsu	strangling to death
+j	萎縮	ishuku	withering
+j	逸する	issuru	to depart; to deviate
+j	違式	ishiki	形式、きまりから外れること。
+j	遺式	ishiki	昔から伝わる形式や習慣。
+k	이 사람	isaram	
+k	이사벨	isabel	
+k	이사짐	isajim	'이삿짐'의 북한말.
+k	이사회	isahoe	board of directors
+k	이성	iseong	opposite sex
+k	이세계	isegye	isekai
+k	이소골	isogol	귓속뼈의 동의어.
+k	이승	iseung	this life, this world
+k	이시스	isiseu	이집트신화 오시리스의 아내로 호루스의 어머니.…
+k	이시여	isiyeo	(종성이 있는 체언 뒤에 붙어) 앞말의 대상을…
+k	이심히	isimhi	
+k	이십구	isipgu	
+k	이십사	isipsa	
+k	이십일	isibil	스물하나(21). 이십 다음의 자연수.
+k	있음	isseum	presence, being, having
+e	ischium	ischium	1 meaning
+e	isfahan	isfahan	1 meaning
+e	ishmael	ishmael	1 meaning
+e	islamic	islamic	1 meaning
+e	isolate	isolate	3 meanings
+e	isonade	isonade	1 meaning
+e	isotope	isotope	1 meaning
+e	isotype	isotype	1 meaning
+e	israeli	israeli	2 meanings
+e	isthmus	isthmus	1 meaning
+e	i̇smayıllı	ismayll	1 meaning
+j	いさおし	isaoshi	いさお。
+j	いささか	isasaka	ほんの少し。わずかばかり。
+j	いさめる	isameru	主に目上の人に対して不正や欠点を指摘し、改めるよう…
+j	いさりび	isaribi	夜に漁をする際に獲物をおびき寄せるために焚く火。
+j	いしずえ	ishizue	foundation stone
+j	いしばい	ishibai	石灰: (chemistry) lime
+j	いすのき	isunoki	マンサク科の常緑高木。日本の本州中部以西に自生。材…
+j	いすわる	isuwaru	座り込んでそこから動かない。
+j	いそぎわ	isogiwa	shore
+j	いそなみ	isonami	磯に打ち寄せてくる波。
+j	いっせいに	isseini	
+j	いっせえの	isseeno	
+j	イスラム	isuramu	the state of being Islamic
+j	イスラーム	isuramu	イスラム教が基本原理となっている文明。
+j	イースター島	isutato	Easter Island
+j	一周忌	isshuki	人が亡くなって満一年目の命日。また、その日に行う法…
+j	一式	isshiki	complete set (of required…
+j	一斉に	isseini	all together
+j	一札	issatsu	a (single) legal document…
+j	一節	issetsu	passage (in a book or a p…
+j	一緒に	isshoni	together, with
+j	一緒の	isshono	
+j	一色	isshoku	one color, being monochro…
+j	一説	issetsu	one theory, a theory
+j	些か	isasaka	a little, somewhat, sligh…
+j	位相幾何	isokika	topology
+j	医師会	ishikai	医師が所属する学術団体。
+j	委悉	ishitsu	物事を詳細にすること。
+j	居座る	isuwaru	to stay, remain (in offic…
+j	急ぎの	isogino	
+j	意匠権	ishoken	産業上利用できる新しい意匠について独占的、排他的に…
+j	慰謝料	isharyo	consolation money; solati…
+j	椅子取り	isutori	座る椅子を確保すること。
+j	為政者	iseisha	statesperson; politician
+j	異性体	iseitai	
+j	異性婚	iseikon	性別が異なる者同士による婚姻。
+j	異星人	iseijin	synonym of 宇宙人 (uchūjin, …
+j	異臭魚	ishugyo	体の内外もしくは体表面に、（食用に適さないほどの）…
+j	異質	ishitsu	heterogeneous; different …
+j	痿疾	ishitsu	体が痺れて感覚がなくなり、自由に動かせなくなる病気。
+j	石偏	ishihen	漢字の部首「⽯」が偏である場合の呼称。
+j	石塀	ishibei	
+j	石岡	ishioka	Ishioka (a city in Ibarak…
+j	石段	ishidan	stone steps; stone stairs
+j	石臼	ishiusu	stone mortar, quern
+j	石音	ishioto	（いしおと）碁石を打つ音。碁石が碁盤に触れて立てる…
+j	石鯛	ishidai	
+j	磯撫で	isonade	Isonade, a mythical shark…
+j	磯村	isomura	a surname
+j	磯菊	isogiku	gold and silver chrysanth…
+j	礎	ishizue	（いしずえ）建造物の基になる部分に組み込まれる石。
+j	諌める	isameru	to admonish, to advise (s…
+j	諫める	isameru	
+j	諫山	isayama	a surname
+j	違失	ishitsu	過失。しくじること。過ち。
+j	遺失	ishitsu	金品を失くしたり、置き忘れたりすること。
+k	이사장	isajang	general director; chairma…
+k	이사하다	isahada	to move, to move house
+k	이상 무	isangmu	no abnormalities, all cle…
+k	이슬비	iseulbi	drizzle, sprinkle, light …
+k	이시카와	isikawa	
+k	이신론	isinnon	deism
+k	이십삼	isipsam	
+k	이십육	isibyuk	
+k	이십팔	isippal	
+e	is that so	isthatso	1 meaning
+e	ischemia	ischemia	1 meaning
+e	ishigaki	ishigaki	1 meaning
+e	ishikari	ishikari	1 meaning
+e	ishikawa	ishikawa	1 meaning
+e	islamism	islamism	1 meaning
+e	islander	islander	1 meaning
+e	ismailia	ismailia	1 meaning
+e	isn't it so	isntitso	1 meaning
+e	isogloss	isogloss	1 meaning
+e	isoprene	isoprene	1 meaning
+e	istanbul	istanbul	1 meaning
+j	いさぎよい	isagiyoi	pure; unsullied; clean
+j	いさちる	isachiru	to cry, to wail
+j	いしがき	ishigaki	石材を積み上げて造った垣や塀、擁壁。
+j	いしがに	ishigani	エビ目カニ下目ワタリガニ科イシガニ属に属するかに。…
+j	いしがみ	ishigami	神霊が石に寄り付き、顕現するという信仰により石を依…
+j	いしがめ	ishigame	カメ目潜頸亜目リクガメ上科イシガメ科の構成種。
+j	いしくも	ishikumo	見事に。巧みであるさま。
+j	いしくれ	ishikure	小石。石のかけら。いしころ。
+j	いしぐみ	ishigumi	日本庭園の造園技術で、庭園のなかに自然石を組み合わ…
+j	いしころ	ishikoro	石ころ, 石塊: pebble; small st…
+j	いしざわ	ishizawa	石沢: a surname
+j	いしずみ	ishizumi	石炭: coal
+j	いしだか	ishidaka	地面に石が多くでこぼこであるさま。
+j	いしづか	ishizuka	石が積み重なった丘。
+j	いしづき	ishizuki	tough base at the end of …
+j	いしなぎ	ishinagi	スズキ目スズキ科イシナギ属に属する魚の総称。学名:…
+j	いしはら	ishihara	石がたくさんある平地。いしわら。
+j	いしぶみ	ishibumi	stone engraved with memor…
+j	いしやま	ishiyama	岩石が多い山。
+j	いしやり	ishiyari	打製石器の一種で、先端を尖らせた槍先形の石器。
+j	いしゆみ	ishiyumi	【石弓】城を防衛する際に使われる投石器。
+j	いしわた	ishiwata	繊維状鉱物の総称で蛇紋石や角閃石が繊維状となってい…
+j	いしわら	ishiwara	石がたくさんある平地。いしはら。
+j	いせまいり	isemairi	visiting Ise Shrine
+j	いそあそび	isoasobi	磯で生き物をとったりして遊ぶこと。
+j	いそしぎ	isoshigi	チドリ目シギ科の鳥の一種。学名は Actitis …
+j	いそしむ	isoshimu	何かに精を出して行う。心をこめて行う。
+j	いっしゅうかん	isshukan	
+j	イシガニ	ishigani	「石蟹」の学術的表記。
+j	イシドジョウ	ishidojo	コイ目ドジョウ科シマドジョウ属イシドジョウ種群に分…
+j	イスクイル	isukuiru	
+j	イスティンジャー	isutinja	istinja
+j	イストリア	isutoria	
+j	イスファハン	isufahan	
+j	イスラエル	isuraeru	Israel (a country in West…
+j	イソシギ	isoshigi	
+j	イソプレン	isopuren	
+j	イーサネット	isanetto	Ethernet
+j	イーサリアム	isariamu	Ethereum (cryptocurrency)
+j	イースト菌	isutokin	yeast (cake or dried gran…
+j	一升瓶	isshobin	液体が一升入れられる瓶。
+j	一掃する	issosuru	
+j	一生歯	isshoshi	一度生えた歯が一生生え変わらないこと。
+j	一生涯	isshogai	生まれてから、または人生のある時点から死ぬまでの間…
+j	一身上	isshinjo	personal
+j	一週間	isshukan	one week
+j	位相同型	isodokei	位相空間の組A,Bに対して同相写像が存在すること。…
+j	位相空間	isokukan	topological space
+j	依存する	isonsuru	
+j	勤しむ	isoshimu	to do something diligentl…
+j	弩	ishiyumi	（ド、いしゆみ、おおゆみ）横倒しにした弓に弦を張っ…
+j	很し	isukashi	the way in which one's he…
+j	異性化糖	iseikato	high fructose corn syrup
+j	異性核	iseikaku	
+j	石ころ	ishikoro	pebble; small stone (as a…
+j	石丸	ishimaru	a surname
+j	石倉	ishikura	a surname
+j	石原	ishihara	a surname
+j	石坂	ishizaka	a surname
+j	石垣	ishigaki	stone wall
+j	石塚	ishizuka	a surname
+j	石山	ishiyama	a stony mountain, a mount…
+j	石島	ishijima	a surname
+j	石崎	ishizaki	a surname
+j	石川	ishikawa	Ishikawa (a prefecture of…
+j	石打ち	ishiuchi	
+j	石抱	ishidaki	During Edo period, a form…
+j	石撃ち	ishiuchi	
+j	石本	ishimoto	a surname
+j	石村	ishimura	a surname
+j	石森	ishimori	a surname
+j	石沢	ishizawa	a surname
+j	石渡	ishiwata	a surname
+j	石灯籠	ishidoro	庭などに置く石でできた灯籠。
+j	石狩	ishikari	Ishikari (a province of J…
+j	石神	ishigami	a surname
+j	石綿	ishiwata	asbestos
+j	石蟹	ishigani	Asian paddle crab (Charyb…
+j	石蹴り	ishikeri	hopscotch
+j	石館	ishidate	a surname
+j	石黒	ishiguro	a surname
+j	衣食住	ishokuju	clothing, food, and shelt…
+j	逸出	isshutsu	escape
+k	이사야서	isayaseo	
+k	이상한	isanghan	strange, abnormal
+k	이성애	iseongae	heterosexuality
+k	이스라엘	iseurael	Israel (a country in West…
+k	이스마엘	iseumael	Ishmael
+k	이슬람	iseullam	Islam
+k	이식하다	isikhada	
+k	이심하다	isimhada	지나치게 심하다.
+k	이십칠	isipchil	
+e	islamabad	islamabad	1 meaning
+e	isle of man	isleofman	1 meaning
+e	isolation	isolation	1 meaning
+e	isomerism	isomerism	1 meaning
+e	isoniazid	isoniazid	1 meaning
+e	isotropic	isotropic	1 meaning
+j	いささかも	isasakamo	（下に打ち消しの語を伴い）少しも。全く。
+j	いさなとり	isanatori	鯨を捕ること。捕鯨。
+j	いさましい	isamashii	危険や困難を恐れずに向かっていくさま
+j	いしあたま	ishiatama	頭が固いこと。
+j	いしばし	ishibashi	石で作った階段。石段。
+j	いそがしい	isogashii	時間的な余裕がない。他のことに手を出す余裕がない。…
+j	いそぎあし	isogiashi	先を急いで歩くこと。早足。急歩。
+j	いっそう悪い	issowarui	
+j	イシュマエル	ishumaeru	
+j	イスマイリア	isumairia	
+j	イスラム化	isuramuka	
+j	イースターエッグ	isutaeggu	復活祭で使う殻に絵柄をかいたゆで卵。
+j	イースターバニー	isutabani	
+j	一刹那	issetsuna	非常に短い時間。
+j	一妻多夫	issaitafu	polyandry (plurality of h…
+j	一妻多夫制	issaitafu	婚姻における制度の一つ。一人の女性に対して、婚姻で…
+j	一昨年	issakunen	the year before last, two…
+j	一昨晩	issakuban	the night of the day befo…
+j	一昨朝	issakucho	the morning of the day be…
+j	一生物	isshomono	一生涯にわたって使用を続けることの可能な品物。
+j	一瞬間	isshunkan	ほんのわずかな間。瞬く間。
+j	一神教	isshinkyo	a monotheistic religion
+j	一緒くた	isshokuta	さまざまなものが雑多に入り交じっていること。また、…
+j	一蹴	isshusuru	to kick away
+j	一隻眼	issekigan	片目。隻眼。
+j	一雌多雄	isshitayu	polyandry
+j	伊舎那天	ishanaten	仏教の天部の一人。大自在天の化身とされる。十二天の…
+j	位相数学	isosugaku	
+j	位相速度	isosokudo	
+j	依存文法	isonbunpo	
+j	勇ましい	isamashii	courageous
+j	忙しい	isogashii	busy
+j	急ぐこと	isogukoto	
+j	意志力	ishiryoku	willpower
+j	意志疎通	ishisotsu	「意思疎通」を参照。
+j	意思疎通	ishisotsu	coming to a mutual unders…
+j	意思表示	ishihyoji	意思をあらわすこと。
+j	異性愛者	iseiaisha	heterosexual person
+j	異性装者	iseisosha	
+j	異色腫	ishokushu	heterochromia
+j	異質な	ishitsuna	
+j	異食症	ishokusho	pica
+j	石に灸	ishinikyu	having no effect
+j	石に置く	ishinioku	
+j	石持	ishimochi	石持ち, 石首魚, 石頭魚: synonym of…
+j	石敢当	ishiganto	主に丁字路の突き当たりに「石敢當（または石敢当）」…
+j	石敢當	ishiganto	stone tablet erected in s…
+j	石橋	ishibashi	stone bridge
+j	石突き	ishidzuki	
+j	石頭	ishiatama	a head as hard as a stone
+j	移植片	ishokuhen	
+k	이산성	isanseong	
+k	이상적	isangjeok	ideal; perfect
+k	이상주의	isangjuui	idealism
+k	이상하다	isanghada	to be strange, to be unus…
+k	이성계	iseonggye	조선 왕조를 세운 사람. 묘호 조선 태조.
+k	이성론	iseongnon	rationalism
+k	이소프렌	isopeuren	
+k	이스파한	iseupahan	
+k	이슬점	iseuljeom	이슬점온도.
+k	이신론자	isillonja	
+k	이심스레	isimseure	
+k	이쑤시개	issusigae	toothpick
+k	있으시다	isseusida	to have: honorific of 있다 …
+e	isocyanide	isocyanide	1 meaning
+e	isoflavone	isoflavone	1 meaning
+e	isoleucine	isoleucine	1 meaning
+e	isomorphic	isomorphic	1 meaning
+j	いさごむし	isagomushi	「とびけら」の幼虫。淡水の水中に棲み、みのむしのよ…
+j	いさみたつ	isamitatsu	to arise courageously
+j	いしだたみ	ishidatami	cobblestone paving/paveme…
+j	いしゅいしょく	ishuishoku	異種移植: xenotransplant; xen…
+j	いそちどり	isochidori	磯にいる千鳥。浜千鳥。
+j	イスタンブル	isutanburu	Istanbul (a city in Turke…
+j	イスタンブール	isutanburu	Istanbul (a city and prov…
+j	イスラエルの	isuraeruno	
+j	イスラム教	isuramukyo	Islam
+j	イスラーム教	isuramukyo	
+j	イソニアジド	isoniajido	
+j	イソフラボン	isofurabon	isoflavone
+j	イソロイシン	isoroishin	isoleucine
+j	一切皆苦	issaikaiku	仏教の基本的・哲学的な主張を表わす成句の一つ。三法…
+j	一切行苦	issaigyoku	仏教の基本的・哲学的な主張を表わす成句の一つ。三法…
+j	一寸法師	issunboshi	the Issun-bōshi
+j	一層の事	issonokoto	synonym of 一層 (issō) or 一…
+j	一弛一張	isshiitcho	一張一弛の別形。
+j	一視同仁	isshidojin	どのような人も差別することなく平等、一様に愛するこ…
+j	伊勢大神	isenookami	synonym of 天照 (Amaterasu)
+j	勇み立つ	isamitatsu	
+j	意思決定	ishikettei	ある目的のために複数の案から最適と思われる物を選択…
+j	意識する	ishikisuru	
+j	意識的	ishikiteki	知っていながらわざとすること。故意。
+j	意趣返し	ishugaeshi	revenge, retaliation
+j	沙虫	isagomushi	caddisworm, caddis fly la…
+j	異種原子	ishugenshi	原子を構成する陽子、中性子、電子のいずれかを他の粒…
+j	異種移植	ishuishoku	xenotransplantation (tran…
+j	石切場	ishikiriba	
+j	石子詰め	ishikozume	ishikozume; lapidation pr…
+j	石畳	ishidatami	
+j	石百足	ishimukade	stone centipede, a myriap…
+j	移植する	ishokusuru	
+j	移植鏝	ishokugote	
+k	이산화물	isanhwamul	dioxide
+k	이상 기체	isanggiche	
+k	이상기체	isanggiche	
+k	이상향	isanghyang	utopia
+k	이성애자	iseongaeja	heterosexual (person)
+k	이성장	iseongjang	사람이 반대 성별로 꾸밈, 또는 그 차림.
+k	이성주의	iseongjuui	rationalism
+k	이스라엘의	iseuraerui	
+k	이스라엘인	iseuraerin	Israeli (person)
+k	이스케이프	iseukeipeu	
+k	이스탄불	iseutanbul	Istanbul (a city and prov…
+k	이승근	iseunggeun	제곱근.
+e	isle of wight	isleofwight	1 meaning
+e	isopropanol	isopropanol	1 meaning
+j	いしけつぼう	ishiketsubo	意志欠乏: abulia
+j	いしつぶて	ishitsubute	小石を投げること。また、その石。
+j	いしやきいも	ishiyakiimo	小石の中で焼いたさつまいも。
+j	いそぎんちゃく	isoginchaku	磯巾着のひらがな表記。
+j	いそひよどり	isohiyodori	スズメ目ツグミ科イソヒヨドリ属に属する鳥の一種。学…
+j	イスラエル人	isuraerujin	Israeli
+j	イスラマバード	isuramabado	Islamabad (the capital ci…
+j	イスラム国	isuramukoku	Islamic State
+j	イソギンチャク	isoginchaku	
+j	イソシアニド	isoshianido	isocyanide
+j	イソニトリル	isonitoriru	isocyanide
+j	イーストコースト	isutokosuto	
+j	マム・イシル語群	ishirugogun	キチェ・マム語派の一つ。マム語群とイシル語群に分類…
+j	一世一代	isseichidai	once-in-a-lifetime (event)
+j	一切合切	issaigassai	everything, without excep…
+j	一切合財	issaigassai	すべて。全部
+j	一心不乱	isshinfuran	wholeheartedly; with hear…
+j	一心同体	isshindotai	the state of being fully …
+j	一昨日	issakujitsu	the day before yesterday,…
+j	一生懸命	isshokenmei	for dear life; as hard as…
+j	一石二鳥	issekinicho	killing two birds with on…
+j	一神崇拝	isshinsuhai	
+j	一笑に付す	isshonifusu	
+j	一進一退	isshinittai	now advancing and now ret…
+j	位相幾何学	isokikagaku	topology (study of geomet…
+j	位相空間論	isokukanron	general topology
+j	医食同源	ishokudogen	a healthy diet and medici…
+j	意志欠乏	ishiketsubo	abulia (absence of will-p…
+j	意趣晴らし	ishubarashi	revenge, retaliation
+j	石千鳥	ishichidori	
+j	石川県	ishikawaken	a prefecture in the 中部 (C…
+j	石灰窯	ishibaigama	limekiln, a furnace used …
+j	磯巾着	isoginchaku	sea anemone
+j	磯鵯	isohiyodori	
+k	이산화수소	isanhwasuso	
+k	이상형	isanghyeong	
+k	이소니아지드	isoniajideu	
+k	이소니트릴	isoniteuril	isocyanide
+k	이소시아니드	isosianideu	isocyanide
+k	이스라엘국	iseuraelguk	
+k	이스마일리아	iseumaillia	
+k	이스터 섬	iseuteoseom	
+k	이슬란드	iseullandeu	나라 이름 '아이슬란드'의 북한말.
+k	이슬람교	iseullamgyo	Islam
+k	이슬람국	iseullamguk	
+k	이슬람화	iseullamhwa	
+k	이슬방울	iseulbangul	
+k	이심전심	isimjeonsim	silent understanding, tac…
+k	이십진법	isipjinbeop	
+e	is it safe here	isitsafehere	1 meaning
+e	islamic state	islamicstate	1 meaning
+e	islamization	islamization	1 meaning
+e	islamophobia	islamophobia	1 meaning
+e	isolationism	isolationism	1 meaning
+j	いしやきなべ	ishiyakinabe	秋田県の主に男鹿半島に伝わる鍋料理。郷土の食材（魚…
+j	イスパニョーラ島	isupanyorato	Hispaniola
+j	イスラエル国	isuraerukoku	State of Israel (official…
+j	イスラムしゅぎ	isuramushugi	イスラム主義: Islamism
+j	イスラム主義	isuramushugi	Islamism (Islamic fundame…
+j	イスラム教の	isuramukyono	
+j	イスラム教徒	isuramukyoto	Muslim
+j	一世一元	isseiichigen	an East Asian practice of…
+j	一宿一飯	isshukuippan	旅の途中、一泊の宿と一回の食事を与えられること。ま…
+j	一矢報いる	isshimukuiru	
+j	一酸化炭素	issankatanso	carbon monoxide
+j	一酸化物	issankabutsu	分子中に酸素原子を一個持つ酸化物。一酸化炭素、一酸…
+j	以心伝心	ishindenshin	the teaching of intangibl…
+j	医者の不養生	ishanofuyojo	physician, heal thyself, …
+j	感覚を持つ	ishikiomotsu	
+j	石凝姥	ishikoridome	the goddess who made the …
+j	遺産管理人	isankanrinin	
+k	이산화규소	isanhwagyuso	
+k	이산화질소	isanhwajilso	
+k	이산화탄소	isanhwatanso	carbon dioxide (CO₂)
+k	이상한 나라	isanghannara	
+k	이성질화	iseongjilhwa	
+k	이소플라본	isopeullabon	
+k	이스케이프 키	iseukeipeuki	
+k	이슬람권	iseullamgwon	
+k	이슬람주의	iseullamjuui	Islamism (Islamic fundame…
+k	이십년대	isimnyeondae	
+k	이십면체	isimmyeonche	
+k	이십사절기	isipsajeolgi	
+e	isomerization	isomerization	1 meaning
+j	イスラエルの地	isuraerunochi	
+j	イスラエル料理	isuraeruryori	イスラエルの伝統的な料理。
+j	イスラム科学	isuramukagaku	中世に中東、北アフリカ、イベリア半島のイスラム教徒…
+j	イソプロパノール	isopuropanoru	
+j	一矢を報いる	isshiomukuiru	to retaliate, to return a…
+j	一石を投じる	issekiotojiru	to create a stir
+j	一酸化窒素	issankachisso	nitrogen monoxide
+j	一酸化鉛	issankanamari	鉛の酸化物の一つ。釉薬、顔料、鉛ガラスの原料などに…
+j	位相差顕微鏡	isosakenbikyo	
+j	急がば回れ	isogabamaware	more haste, less speed; s…
+j	意思疎通する	ishisotsusuru	
+j	異世界ファンタジー	isekaifantaji	
+j	異世界作品	isekaisakuhin	
+j	石に立つ矢	ishinitatsuya	一念を込めてやれば、何事でもできるということ。
+k	이상 성욕	isangseongyok	
+k	이스라엘 사람	iseuraelsaram	
+k	이스마이을르	iseumaieurreu	
+k	이슬란드어	iseulrandeueo	
+k	이슬람교도	iseullamgyodo	Muslim
+k	이슬람교의	iseullamgyoui	
+k	이슬람국가	iseullamgukga	Islamic State
+k	이슬람력	iseullamnyeok	
+k	이슬점온도	iseuljeomondo	습한 공기를 냉각시켜 가면 공기 중의 수증기는…
+k	이심스럽다	isimseureopda	
+k	이십각형	isipgakhyeong	
+j	イシドジョウ種群	ishidojoshugun	コイ目ドジョウ科シマドジョウ属の種集団。イシドジョ…
+j	一世を風靡する	isseiofubisuru	to take the world by storm
+j	一失一得	isshitsuittoku	一得一失の別形。
+j	一緒にできない	isshonidekinai	
+j	一酸化二水素	issankanisuiso	
+j	意識高い系	ishikitakaikei	person of strong vanity
+j	石狩国	ishikarinokuni	令制国の一つ。1869年に北海道に設置。概ね現在の…
+j	石部金吉	ishibekinkichi	堅物な人間。
+k	이슬라마바드	iseullamabadeu	Islamabad (the capital ci…
+k	이슬람교국	iseullamgyoguk	
+k	이십이각형	isibigakhyeong	
+e	is it going to rain	isitgoingtorain	1 meaning
+e	is there a problem	isthereaproblem	1 meaning
+j	いしゅかくとうぎせん	ishukakutogisen	異種格闘技戦: a combat sport ma…
+j	イスラム恐怖症	isuramukyofusho	
+j	イスラム教紀元	isuramukyokigen	
+j	イースト・ミッドランズ	isutomiddoranzu	
+j	一世一元制	isseiichigensei	天皇・皇帝の即位時にのみ元号を改め、その後の在位中…
+j	一寸先は闇	issunsakiwayami	unpredictable; no one kno…
+j	一昨昨日	issakusakujitsu	three days ago
+j	一緒くたにする	isshokutanisuru	
+j	一緒にやっている	isshoniyatteiru	
+j	一酸化二窒素	issankanichisso	synonym of 亜酸化窒素 (asanka …
+j	意識不明です	ishikifumeidesu	
+j	異相双三角柱	isososankakuchu	gyrobifastigium
+j	異種格闘技戦	ishukakutogisen	a combat sport match wher…
+j	石に設定する	ishinisettesuru	
+k	이산화 실리콘	isanhwasillikon	
+k	이상야릇하다	isangyareuthada	to be odd, queer
+k	이스파노 아메리카	iseupanoamerika	
+k	이스피리투산투	iseupiritusantu	
+k	이십사각형	isipsagakhyeong	
+k	이십일각형	isibilgakhyeong	
+j	一瞬先は闇	isshunsakiwayami	eggcorn of 一寸先は闇 (issun s…
+j	一種病原体等	isshubyogentaito	感染症法上の病原体の分類で最も危険とされるもの。
+j	一触即発	isshokusokuhatsu	volatile, critical, dange…
+k	이십삼각형	isipsamgakhyeong	
+e	isosceles triangle	isoscelestriangle	1 meaning
+j	イスラム原理主義	isuramugenrishugi	Islamic fundamentalism
+k	이슬람 원리주의	iseullamwollijuui	
+e	isabelline wheatear	isabellinewheatear	1 meaning
+e	islets of langerhans	isletsoflangerhans	1 meaning
+e	isosceles trapezoid	isoscelestrapezoid	1 meaning
+j	一生懸命頑張る	isshokenmeiganbaru	
+j	石の上にも三年	ishinouenimosannen	Great works are performed…
+e	is anyone here a doctor	isanyonehereadoctor	1 meaning
+k	이스케이프 시퀀스	iseukeipeusikwonseu	
+k	이슬람 혐오증	iseullamhyeomojeung	
+j	異世界ファンタジー作品	isekaifantajisakuhin	
+j	磯の鮑の片思い	isonoawabinokataomoi	「鮑の貝の片想い」に同じ。
+k	이스머스사포테카어	iseumeoseusapotekaeo	멕시코 오악사카 주에서 사용되는 사포테카어족의…
+e	islamic fundamentalism	islamicfundamentalism	1 meaning
+e	islamic republic of iran	islamicrepublicofiran	1 meaning
+j	一生懸命に働く	isshokenmeinihataraku	
+j	異質染色質	ishitsusenshokushitsu	「ヘテロクロマチン」を参照。
+k	이슬란드 공화국	iseullandeugonghwaguk	
+k	이슬람의 다섯 기둥	iseulramuidaseotgidung	
+j	石橋を叩いて壊す	ishibashiotataitekowasu	to be too careful and stu…
+j	石橋を叩いて渡る	ishibashiotataitewataru	to be very careful
+e	islamic republic of pakistan	islamicrepublicofpakistan	1 meaning
+j	一将功成りて万骨枯る	isshokonaritebankotsukaru	Behind one general's glor…
+j	遺失物取扱所	ishitsubutsutoriatsukaijo	
+j	異種金属接触腐食	ishukinzokusesshokufushoku	異なる種類の金属が接触したときに、自然電位が低い方…
+e	islamic emirate of afghanistan	islamicemirateofafghanistan	1 meaning
+e	islamic republic of afghanistan	islamicrepublicofafghanistan	1 meaning
+j	一銭を笑う者は一銭に泣く	issenowaraumonowaissenninaku	
+j	イシガキパイヌキバラヨシノボリ	ishigakipainukibarayoshinobori	パイヌキバラヨシノボリの亜種。学名は Rhinog…

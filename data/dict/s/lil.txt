@@ -1,0 +1,568 @@
+k	일	il	work (activity done for c…
+e	ill	ill	1 meaning
+k	일가	ilga	
+k	일고	ilgo	
+k	일구	ilgu	
+k	일기	ilgi	diary, journal
+k	일다	ilda	'이르다'의 준말.
+k	일도	ildo	한 번.
+k	일로	illo	
+k	일루	illu	
+k	일리	illi	sense to...
+k	일무	ilmu	line dance performed duri…
+k	일미	ilmi	
+k	일보	ilbo	daily newspaper
+k	일부	ilbu	part of a whole
+k	일세	ilse	
+k	일소	ilso	
+k	일수	ilsu	
+k	일시	ilsi	temporarily
+k	일야	ilya	
+k	일자	ilja	date; days
+k	일제	ilje	unison, simultaneity
+k	일조	iljo	
+k	일주	ilju	
+k	일지	ilji	
+k	일코	ilko	
+k	일파	ilpa	
+k	일호	ilho	
+k	읽기	ilgi	
+k	잃다	ilta	to lose
+e	ileum	ileum	1 meaning
+e	iliad	iliad	1 meaning
+e	ilium	ilium	2 meanings
+k	인류	illyu	humankind, humanity
+k	일각	ilgak	
+k	일간	ilgan	
+k	일갈	ilgal	
+k	일개	ilgae	
+k	일거	ilgeo	
+k	일곱	ilgop	seven
+k	일과	ilgwa	
+k	일국	ilguk	a nation (country)
+k	일군	ilgun	worker
+k	일단	ildan	first and foremost
+k	일대	ildae	아주 굉장한.
+k	일독	ildok	
+k	일드	ildeu	syllabic abbreviation of …
+k	일락	illak	sunset, sundown
+k	일람	illam	
+k	일례	illye	
+k	일류	illyu	first class, first rate
+k	일말	ilmal	
+k	일몰	ilmol	해가 지는 것.
+k	일문	ilmun	Japanese script; Japanese…
+k	일박	ilbak	
+k	일반	ilban	general; common
+k	일발	ilbal	
+k	일본	ilbon	Japan (a country in East …
+k	일산	ilsan	
+k	일손	ilson	
+k	일식	ilsik	solar eclipse
+k	일쑤	ilssu	common/habitual thing, ha…
+k	일족	iljok	
+k	일직	iljik	
+k	일진	iljin	
+k	일차	ilcha	
+k	일체	ilche	all, everything
+k	일치	ilchi	agreement, harmony, unity
+k	일탈	iltal	빗나가고 벗어남.
+k	일터	ilteo	workplace
+k	일패	ilpae	
+k	일품	ilpum	the first rank of office
+k	일필	ilpil	
+k	일화	ilhwa	anecdote
+k	읽개	ilgae	reader
+e	il duce	ilduce	1 meaning
+e	iloilo	iloilo	2 meanings
+k	인륜	illyun	human ethics
+k	일건	ilgeon	
+k	일관	ilgwan	하나의 방법이나 태도로써 처음부터 끝까지 한결…
+k	일괄	ilgwal	
+k	일근	ilgeun	
+k	일금	ilgeum	
+k	일급	ilgeup	
+k	일기도	ilgido	일정 지역의 일기 상태를 한눈에 알 수 있도록…
+k	일꾼	ilkkun	worker
+k	일나다	illada	to wake up
+k	일당	ildang	
+k	일도조	ildojo	
+k	일동	ildong	all; everyone
+k	일루수	illusu	
+k	일륜	illyun	
+k	일률	illyul	uniformity
+k	일맥	ilmaek	
+k	일방	ilbang	one way, one side
+k	일백	ilbaek	one hundred; a hundred
+k	일벌	ilbeol	worker bee
+k	일봉	ilbong	
+k	일부의	ilbuui	
+k	일부일	ilbuil	
+k	일상	ilsang	daily life
+k	일색	ilsaek	all, totally, nothing but…
+k	일선	ilseon	
+k	일설	ilseol	
+k	일자리	iljari	job, work, occupation, em…
+k	일장	iljang	
+k	일전	iljeon	
+k	일절	iljeol	all, everything
+k	일제히	iljehi	
+k	일조시	iljosi	
+k	일종	iljong	kind, sort, type
+k	일주기	iljugi	
+k	일주야	iljuya	day (24 hours)
+k	일주일	iljuil	A week; seven days.
+k	일주호	iljuho	
+k	일중	iljung	
+k	일찍	iljjik	early
+k	일착	ilchak	
+k	일축	ilchuk	spurn
+k	일출	ilchul	sunrise
+k	일침	ilchim	
+k	일하다	ilhada	to work, to do one's job;…
+k	일확	ilhwak	
+k	일환	ilhwan	맥락상 어떠한 것과 밀접한 관련이 있는 것 중…
+k	일흔	ilheun	seventy
+k	읽히다	ilkida	
+e	illegal	illegal	2 meanings
+e	illness	illness	1 meaning
+e	illyria	illyria	1 meaning
+e	ilocano	ilocano	1 meaning
+k	인력	illyeok	gravitation, gravity
+k	인류세	illyuse	
+k	인류애	illyuae	
+k	일가언	ilgaeon	
+k	일각수	ilgaksu	a mythical horselike crea…
+k	일간지	ilganji	
+k	일개인	ilgaein	
+k	일거리	ilgeori	work
+k	일격	ilgyeok	
+k	일견	ilgyeon	a look, a sight
+k	일곱시	ilgopsi	
+k	일과의	ilgwaui	
+k	일광	ilgwang	sunlight
+k	일기체	ilgiche	
+k	일기초	ilgicho	
+k	일기회	ilgihoe	
+k	일남지	illamji	
+k	일년	illyeon	a one year
+k	일념	illyeom	
+k	일대기	ildaegi	
+k	일대사	ildaesa	
+k	일대일	ildaeil	one-to-one, single combat
+k	일등	ildeung	first place, number one (…
+k	일력	illyeok	daily calendar, planner
+k	일련	illyeon	
+k	일렬	illyeol	
+k	일류부	illyubu	
+k	일류제	illyuje	
+k	일르다	illeuda	
+k	일리노이	illinoi	[~주(州)] Illinois (a state…
+k	일리룸	illirum	
+k	일리리아	illiria	Illyria (a vaguely-define…
+k	일면	ilmyeon	
+k	일모작	ilmojak	
+k	일반도	ilbando	
+k	일반세	ilbanse	
+k	일반수	ilbansu	
+k	일반의	ilbanui	general practitioner
+k	일반인	ilbanin	commoner; ordinary person
+k	일배주	ilbaeju	
+k	일변	ilbyeon	
+k	일별	ilbyeol	
+k	일본도	ilbondo	
+k	일본사	ilbonsa	Japanese history, the his…
+k	일본어	ilboneo	the Japanese language
+k	일본옷	ilbonot	
+k	일본인	ilbonin	Japanese (person)
+k	일본제	ilbonje	
+k	일본주	ilbonju	sake, Japanese rice wine
+k	일부러	ilbureo	deliberately, intentional…
+k	일부분	ilbubun	
+k	일분자	ilbunja	
+k	일생	ilsaeng	(whole) life, lifetime
+k	일시계	ilsigye	
+k	일시불	ilsibul	
+k	일정	iljeong	schedule
+k	일조율	iljoyul	
+k	일주간	iljugan	
+k	일찌기	iljjigi	'일찍이'의 비표준어.
+k	일찍이	iljjigi	early
+k	일천	ilcheon	one thousand; a thousand
+k	일편	ilpyeon	한 조각이라는 뜻으로, 매우 작거나 적은 부분…
+k	일행	ilhaeng	party, company, troupe
+k	일향	ilhyang	
+k	일회기	ilhoegi	
+e	i like you	ilikeyou	1 meaning
+e	i love you	iloveyou	2 meanings
+e	ill-treat	illtreat	1 meaning
+e	illation	illation	1 meaning
+e	illative	illative	1 meaning
+e	illinois	illinois	2 meanings
+e	illusion	illusion	3 meanings
+e	ilmenite	ilmenite	1 meaning
+e	ilopango	ilopango	1 meaning
+k	인류학	illyuhak	anthropology
+k	일계표	ilgyepyo	
+k	일과표	ilgwapyo	timetable
+k	일교차	ilgyocha	
+k	일구이언	ilguieon	being double-tongued
+k	일급제	ilgeupje	
+k	일기 예보	ilgiyebo	weather forecast
+k	일기예보	ilgiyebo	기상청에서 일기도 등 기상분석 및 예보 보조 …
+k	일기장	ilgijang	diary
+k	일단락	ildallak	
+k	일당제	ildangje	
+k	일람표	illampyo	
+k	일레븐	illebeun	
+k	일령	illyeong	
+k	일로일로	illoillo	
+k	일리아드	illiadeu	
+k	일리아스	illiaseu	
+k	일명	ilmyeong	one person
+k	일미선	ilmiseon	
+k	일반론	ilbanron	
+k	일반식	ilbansik	
+k	일반화	ilbanhwa	
+k	일방보	ilbangbo	
+k	일병	ilbyeong	'일등병'.
+k	일보일보	ilboilbo	
+k	일본국	ilbonguk	State of Japan
+k	일본말	ilbonmal	
+k	일본산	ilbonsan	
+k	일본술	ilbonsul	
+k	일본학	ilbonhak	Japanology
+k	일본해	ilbonhae	Sea of Japan (not a prefe…
+k	일본화	ilbonhwa	
+k	일순간	ilsungan	
+k	일시적	ilsijeok	temporarily
+k	일식집	ilsikjip	일본식 음식을 파는 대중음식점.
+k	일신교	ilsingyo	monotheism
+k	일신론	ilsinnon	monotheism
+k	일장기	iljanggi	The national flag of Japan
+k	일조권	iljogwon	
+k	일주권	iljugwon	
+k	일주하다	iljuhada	
+k	일진회	iljinhoe	
+k	일차원	ilchawon	one-dimensional, one dime…
+k	일층	ilcheung	the ground floor, (US) th…
+k	일컫다	ilkeotda	to call (person or thing)…
+k	일흔네	ilheunne	
+k	일흔세	ilheunse	
+e	illegally	illegally	1 meaning
+e	illegible	illegible	1 meaning
+e	illiberal	illiberal	3 meanings
+e	illogical	illogical	1 meaning
+k	인류적	illyujeok	
+k	일 중독	iljungdok	
+k	일가견	ilgagyeon	
+k	일가원소	ilgawonso	
+k	일가함수	ilgahamsu	
+k	일간두옥	ilganduok	
+k	일갈하다	ilgalhada	
+k	일곱째	ilgopjjae	seventh
+k	일그리다	ilgeurida	to contort, to twist (phy…
+k	일길찬	ilgilchan	신라 때에 둔, 십칠 관등 가운데 일곱째 등급…
+k	일남중	illamjung	
+k	일년주	illyeonju	
+k	일독하다	ildokhada	
+k	일람하다	illamhada	
+k	일러두기	illeodugi	explanatory notes; introd…
+k	일런드	illeondeu	
+k	일렉 기타	illekgita	
+k	일류전	ilryujeon	
+k	일륜차	illyuncha	unicycle
+k	일막극	ilmakgeuk	
+k	일박하다	ilbakhada	
+k	일반객	ilbangaek	
+k	일반법	ilbanbeop	
+k	일반석	ilbanseok	general admission seat
+k	일반적	ilbanjeok	general; overall
+k	일반항	ilbanhang	
+k	일법랍	ilbeomnap	
+k	일변도	ilbyeondo	
+k	일본여우	ilbonyeou	
+k	일부파산	ilbupasan	
+k	일석이조	ilseogijo	kill two birds with one s…
+k	일시 해고	ilsihaego	
+k	일식당	ilsikdang	Japanese restaurant
+k	일신상	ilsinsang	
+k	일자무식	iljamusik	
+k	일자총	iljachong	
+k	일장일이	iljangiri	한 번 팽팽히 당기고 한 번 느슨하게 한다는 …
+k	일제시대	iljesidae	Japanese occupation perio…
+k	일조시간	iljosigan	
+k	일주년	iljunyeon	
+k	일중식	iljungsik	
+k	일직선	iljikseon	
+k	일차적	ilchajeok	
+k	일치법	ilchibeop	
+k	일치하다	ilchihada	agree (to resemble, coinc…
+k	일패도지	ilpaedoji	싸움에 한 번 패하여 간과 뇌가 땅바닥에 으깨…
+k	일품요리	ilpumyori	
+k	일회용	ilhoeyong	한번 쓸 용도로 만들어진 물건. 또는 한번 쓰…
+k	일흔둘	ilheundul	
+k	일흔한	ilheunhan	
+k	일희일비	ilhuiilbi	한편으로는 기뻐하고 한편으로는 슬퍼하다. 기쁨…
+e	illegality	illegality	1 meaning
+e	illegalize	illegalize	1 meaning
+e	illiteracy	illiteracy	1 meaning
+e	illiterate	illiterate	3 meanings
+e	illiterati	illiterati	2 meanings
+e	illocution	illocution	1 meaning
+e	illuminate	illuminate	1 meaning
+k	인력거	illyeokgeo	rickshaw
+k	일각고래	ilgakgorae	북극에 서식하는 고래. 외뿔고래과에 속한 종이…
+k	일각수좌	ilgaksujwa	'외뿔소자리'.
+k	일간초옥	ilganchook	
+k	일과력	ilgwaryeok	
+k	일과성	ilgwaseong	
+k	일관하다	ilgwanhada	하나의 방법이나 태도로써 처음부터 끝까지 한결…
+k	일괄적	ilgwaljeok	
+k	일괄하다	ilgwalhada	
+k	일광욕	ilgwangyok	sunbath (period of tannin…
+k	일구월심	ilguwolsim	
+k	일군땅	ilgunttang	'개간지'의 북한말.
+k	일기문학	ilgimunhak	
+k	일년감	illyeongam	tomato
+k	일년초	illyeoncho	
+k	일당백	ildangbaek	
+k	일등국	ildeungguk	
+k	일등품	ildeungpum	
+k	일로매진	illomaejin	
+k	일률적	illyuljeok	일을 처리하는 태도나 방식이 한결같은.
+k	일망무애	ilmangmuae	
+k	일망무제	ilmangmuje	
+k	일면식	ilmyeonsik	slight acquaintance of so…
+k	일모도궁	ilmodogung	
+k	일문 한자	ilmunhanja	
+k	일문일답	ilmunildap	
+k	일문한자	ilmunhanja	
+k	일반사회	ilbansahoe	
+k	일반투표	ilbantupyo	
+k	일방적	ilbangjeok	
+k	일방포수	ilbangposu	
+k	일변화	ilbyeonhwa	
+k	일본 사람	ilbonsaram	
+k	일본 제국	ilbonjeguk	Empire of Japan
+k	일본서기	ilbonseogi	The Chronicles of Japan (…
+k	일본어족	ilboneojok	
+k	일부다처	ilbudacheo	
+k	일부일처	ilbuilcheo	
+k	일부종사	ilbujongsa	
+k	일분일초	ilbunilcho	매우 급한 시간을 비유해서 말한 것.
+k	일불세계	ilbulsegye	
+k	일불승	ilbulseung	모든 중생이 부처와 함께 성불한다는 석가모니의…
+k	일사병	ilsabyeong	
+k	일사불란	ilsabullan	무엇의 질서가 똑발라서 조금도 어지러움이 없음.
+k	일상적	ilsangjeok	
+k	일시적인	ilsijeogin	
+k	일자리 제의	iljarijeui	
+k	일조일석	iljoilseok	
+k	일주운동	iljuundong	
+k	일진월보	iljinwolbo	
+k	일진일퇴	iljiniltoe	
+k	일차 함수	ilchahamsu	함수 y=f(x)에서 y가 x에 관한 일차식 …
+k	일차조직	ilchajojik	
+k	일처다부	ilcheodabu	
+k	일체성	ilcheseong	
+k	일축하다	ilchukhada	
+k	일치되다	ilchidoeda	무엇이 무엇과 하나처럼 잘 들어맞다.
+k	일컬리다	ilkeollida	
+k	일필휘지	ilpilhwiji	
+k	일화성	ilhwaseong	
+k	일회성	ilhoeseong	
+k	일흔아홉	ilheunahop	
+k	일흔째	ilheunjjae	seventieth
+e	i lost my keys	ilostmykeys	1 meaning
+e	i'll be damned	illbedamned	1 meaning
+e	ill-mannered	illmannered	1 meaning
+e	illustrator	illustrator	1 meaning
+k	인륜대사	illyundaesa	
+k	일가문중	ilgamunjung	
+k	일각대문	ilgakdaemun	
+k	일간신문	ilgansinmun	daily (a newspaper that i…
+k	일거월저	ilgeowoljeo	
+k	일거일동	ilgeoildong	each and every individual…
+k	일건기록	ilgeongirok	
+k	일격이탈	ilgyeogital	
+k	일견하다	ilgyeonhada	한 번 보다. 또는 언뜻 보다.
+k	일고삼장	ilgosamjang	해가 세 길이나 떠올랐다는 뜻으로, 날이 밝아…
+k	일고여덟	ilgoyeodeol	seven or eight
+k	일관되다	ilgwandoeda	
+k	일관성	ilgwanseong	일관되는 성질.
+k	일괄되다	ilgwaldoeda	
+k	일구난설	ilgunanseol	
+k	일긋대다	ilgeutdaeda	'일긋거리다'.
+k	일기가성	ilgigaseong	
+k	일년근	illyeongeun	
+k	일도양단	ildoyangdan	
+k	일득일실	ildeugilsil	
+k	일등급	ildeunggeup	top grades, perfect score
+k	일등석	ildeungseok	first class
+k	일떠세우다	iltteoseuda	
+k	일러스트	illeoseuteu	
+k	일망타진	ilmangtajin	"한 차례 그물을 쳐서 물고기를 다 잡는다"는…
+k	일반감각	ilbangamgak	
+k	일반교서	ilbangyoseo	
+k	일반회계	ilbanhoegye	
+k	일별하다	ilbyeolhada	
+k	일본 만화	ilbonmanhwa	
+k	일부종신	ilbujongsin	
+k	일비지력	ilbijiryeok	한 팔 또는 한쪽 팔꿈치의 힘이라는 뜻으로, …
+k	일사부재리	ilsabujaeri	
+k	일사천리	ilsacheolli	being rapid
+k	일자반급	iljabangeup	
+k	일장일단	iljangildan	
+k	일정하다	iljeonghada	to be fixed; specified
+k	일제 사격	iljesagyeok	
+k	일제사격	iljesagyeok	
+k	일찌감치	iljjigamchi	
+k	일차산업	ilchasaneop	
+k	일차산품	ilchasanpum	
+k	일차전지	ilchajeonji	
+k	일천하다	ilcheonhada	to be new; to be in the e…
+k	일체경	ilchegyeong	
+k	일축되다	ilchukdoeda	
+k	일학년	ilhangnyeon	
+k	일현금	ilhyeongeum	
+k	일환책	ilhwanchaek	
+k	일흔일곱	ilheunilgop	
+e	illative case	illativecase	1 meaning
+e	illegitimate	illegitimate	3 meanings
+e	illiberalism	illiberalism	1 meaning
+e	illumination	illumination	2 meanings
+e	illustration	illustration	2 meanings
+k	일각중문	ilgakjungmun	
+k	일건서류	ilgeonseoryu	dossier
+k	일견하여	ilgyeonhayeo	
+k	일관작업	ilgwanjageop	
+k	일괄처리	ilgwalcheori	
+k	일광보살	ilgwangbosal	
+k	일광소독	ilgwangsodok	
+k	일그러지다	ilgeureojida	to be contorted, to be tw…
+k	일기개황	ilgigaehwang	
+k	일년생	illyeonsaeng	
+k	일단락하다	ildallakhada	일의 한 단계를 끝내다.
+k	일당독재	ildangdokjae	
+k	일등성	ildeungseong	
+k	일람첩기	illamcheopgi	
+k	일면지분	ilmyeonjibun	
+k	일반사면	ilbansamyeon	
+k	일반선원	ilbanseonwon	
+k	일반화하다	ilbanhwahada	
+k	일본 드라마	ilbondeurama	
+k	일본뇌염	ilbonnoeyeom	
+k	일본늑대	ilbonneukdae	
+k	일부일처제	ilbuilcheoje	
+k	일부판결	ilbupangyeol	
+k	일불성도	ilbulseongdo	
+k	일불정토	ilbuljeongto	
+k	일상용어	ilsangyongeo	
+k	일상적인	ilsangjeogin	
+k	일성일쇠	ilseongilsoe	
+k	일심동체	ilsimdongche	
+k	일일천추	ililcheonchu	
+k	일정량	iljeongnyang	
+k	일진법계	iljinbeopgye	
+k	일차전류	ilchajeollyu	
+k	일최고기온	ilchoegogion	하루 중 가장 높은 기온.
+k	일회용품	ilhoeyongpum	한번 쓰고 버리는 물건.
+k	일흔다섯	ilheundaseot	
+e	i lost my wallet	ilostmywallet	1 meaning
+e	illocutionary	illocutionary	1 meaning
+k	일가친척	ilgachincheok	
+k	일거양득	ilgeoyangdeuk	(사자성어) 한 가지 일을 하면서 두 가지 이…
+k	일광요법	ilgwangyobeop	
+k	일구지난설	ilgujinanseol	
+k	일긋거리다	ilgeutgeorida	짜인 물건의 사개가 맞지 아니하고 느슨하여 이…
+k	일기당천	ilgidangcheon	
+k	일기현상	ilgihyeonsang	비, 눈, 안개 등 대기 중에서 일어나는 기상…
+k	일길신량	ilgilsillyang	
+k	일단락되다	ildallakdoeda	
+k	일동일정	ildongiljeong	
+k	일등병	ildeungbyeong	private first class
+k	일렉트릭의	illekteurigui	
+k	일련번호	illyeonbeonho	
+k	일반개념	ilbangaenyeom	
+k	일반명사	ilbanmyeongsa	
+k	일반적으로	ilbanjeogeuro	
+k	일반화되다	ilbanhwadoeda	
+k	일방행위	ilbanghaengwi	
+k	일벌백계	ilbeolbaekgye	
+k	일본 팝 음악	ilbonpapeumak	
+k	일본원숭이	ilbonwonsungi	Japanese macaque
+k	일산화이수소	ilsanhwaisuso	
+k	일산화탄소	ilsanhwatanso	
+k	일상다반사	ilsangdabansa	차를 마시고 밥을 먹는 일이라는 뜻으로, 보통…
+k	일심단결	ilsimdangyeol	single-hearted unity
+k	일조편법	iljopyeonbeop	
+k	일직사령	iljiksaryeong	
+k	일촉즉발	ilchokjeukbal	
+k	일촌간장	ilchonganjang	
+k	일취월장	ilchwiwoljang	improve daily and monthly
+k	일치단결	ilchidangyeol	
+k	일편단심	ilpyeondansim	한 조각의 붉은 마음이라는 뜻으로, 진심에서 …
+k	일평생	ilpyeongsaeng	
+k	일흔여덟	ilheunyeodeol	
+k	일흔여섯	ilheunyeoseot	
+e	i lost my glasses	ilostmyglasses	1 meaning
+e	i lost my handbag	ilostmyhandbag	1 meaning
+e	ill-gotten gains	illgottengains	1 meaning
+k	일각천금	ilgakcheongeum	
+k	일간명월	ilganmyeongwol	
+k	일거수일투족	ilgeosuiltujok	each and every individual…
+k	일고글러브	ilgogeulleobeu	(뜻).
+k	일광욕하다	ilgwangyokhada	
+k	일낙천금	illakcheongeum	
+k	일렉트로니카	illekteuronika	
+k	일맥상통	ilmaeksangtong	being in line with; being…
+k	일본잎갈나무	ilbonipgallamu	Japanese larch (Larix kae…
+k	일장춘몽	iljangchunmong	한 바탕의 봄 꿈이라는 뜻으로, 덧없는 일이나…
+k	일점쇄선	iljeomswaeseon	
+k	일점혈육	iljeomhyeoryuk	
+k	일제 강점기	iljegangjeomgi	Japanese occupation perio…
+k	일제강점기	iljegangjeomgi	1910년 부터 1945년까지 한국이 일본의 …
+k	일중독증	iljungdokjeung	
+k	일진광풍	iljingwangpung	
+k	일차변환	ilchabyeonhwan	
+k	일체중생	ilchejungsaeng	
+k	인라인 스케이트	illainseukeiteu	
+k	일 드 프랑스	ildeupeurangseu	
+k	일곱 가지 대죄	ilgopgajidaejoe	
+k	일드프랑스	ildeupeurangseu	
+k	일렉트릭 기타	illekteurikgita	
+k	일련탁생	illyeontaksaeng	
+k	일목요연하다	ilmogyoyeonhada	
+k	일반상대론	ilbansangdaeron	
+k	일방통행	ilbangtonghaeng	one-way street
+k	일본장지뱀	ilbonjangjibaem	Japanese grass lizard (Ta…
+k	일상생활	ilsangsaenghwal	everyday life, daily life
+k	일확천금	ilhwakcheongeum	making a killing in a sin…
+e	i live in melbourne	iliveinmelbourne	1 meaning
+e	i'll call the police	illcallthepolice	1 meaning
+e	illegal immigrant	illegalimmigrant	1 meaning
+k	일념통천	illyeomtongcheon	
+k	일렉트로닉스	illekteuronikseu	
+k	일명경인	ilmyeonggyeongin	
+k	일평균기온	ilpyeonggyungion	하루(00∼24시) 중 3시간별로 관측한 8회…
+k	일광욕을 하다	ilgwangyogeulhada	
+k	일방통행로	ilbangtonghaengno	one-way street
+k	일차방정식	ilchabangjeongsik	최고차항의 차수가 1인 다항 방정식.
+k	일치단결하다	ilchidangyeolhada	
+k	일맥상통하다	ilmaeksangtonghada	
+k	일상 회화 사전	ilsanghoehwasajeon	
+k	일평균습도	ilpyeonggyunseupdo	하루(00~24시)중 시간별로 관측한 습도의 …
+k	일광 절약 시간	ilgwangjeoryaksigan	daylight-saving time
+k	일러스트레이션	illeoseuteureisyeon	illustration
+k	일렉트로닉 뮤직	illekteuronikmyujik	
+k	일시적으로 받는	ilsijeokeurobatneun	
+k	일평균풍속	ilpyeonggyunpungsok	하루(00~24시)동안에 어떤 기상 관측 지점…
+k	일란성 쌍둥이	illanseongssangdungi	
+k	일반 상대성이론	ilbansangdaeseongiron	
+k	일찍 일어나는 사람	iljjikireonaneunsaram	
+k	일렉트로닉 스포츠	illekteuronikseupocheu	
+k	일렉트로닉컴퓨터	illekteuronikkeompyuteo	프로그래밍 가능한 컴퓨터.
+k	일본어 능력 시험	ilboneoneungnyeoksiheom	
+k	일렉트로닉 댄스 뮤직	illekteuronikdaenseumyujik	
+k	일찍 일어나는 새가 벌레를 잡는다	iljjikireonaneunsaegabeollereuljamneunda	

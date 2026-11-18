@@ -1,0 +1,421 @@
+k	해	해	the Sun
+k	핵	핵	core, kernel; centre
+k	햄	햄	ham (thigh of a hog cured…
+k	햇	햇	(어두음이 예사소리인 일부에 붙어) '당해에 …
+k	행	행	movement; going
+k	해갈	해갈	
+k	해개	해개	solar eclipse
+k	해결	해결	resolution (of a problem …
+k	해고	해고	dismissal; discharge
+k	해골	해골	skeleton
+k	해구	해구	oceanic trench
+k	해군	해군	navy
+k	해금	해금	haegeum; a traditional Ko…
+k	해꽃	해꽃	
+k	해끗	해끗	with a patch of pure or b…
+k	해남	해남	Hainan (a province of Chi…
+k	해녀	해녀	a female diver
+k	해다	해다	newborn baby
+k	해달	해달	sea otter
+k	해답	해답	answer, solution
+k	해당	해당	being applicable, relevant
+k	해도	해도	chart (of the sea)
+k	해독	해독	
+k	해동	해동	thawing, defrosting
+k	해뜩	해뜩	갑자기 몸을 뒤로 잦히며 자빠지는 모양.
+k	해라	해라	do, make, act
+k	해령	해령	mid-ocean ridge
+k	해류	해류	ocean current
+k	해리	해리	nautical mile
+k	해마	해마	sea horse (fish), i.e., t…
+k	해머	해머	
+k	해먹	해먹	
+k	해면	해면	sponge (marine invertebra…
+k	해명	해명	까닭이나 내용을 풀어서 밝힘.
+k	해물	해물	seafood
+k	해발	해발	height above sea level, e…
+k	해방	해방	liberation; independence
+k	해법	해법	solution
+k	해벽	해벽	
+k	해변	해변	beach, seashore
+k	해병	해병	a marine; a sailor in a n…
+k	해볕	해볕	'햇볕'의 북한말.
+k	해부	해부	dissection
+k	해비	해비	'여우비'의 북한말.
+k	해빙	해빙	겨울에 얼어붙은 얼음이 봄이 되면서 녹는 것.
+k	해빛	해빛	sunlight, sunshine
+k	해산	해산	childbirth
+k	해삼	해삼	sea cucumber
+k	해상	해상	바다 위.
+k	해석	해석	interpretation
+k	해설	해설	explanation; exposition
+k	해성	해성	starfish
+k	해소	해소	solution; resettlement
+k	해송	해송	
+k	해수	해수	cough
+k	해시	해시	
+k	해신	해신	
+k	해심	해심	
+k	해안	해안	seacoast, seashore
+k	해약	해약	
+k	해양	해양	ocean, sea
+k	해열	해열	antipyretic, reduction of…
+k	해외	해외	overseas
+k	해요	해요	informal polite present e…
+k	해용	해용	
+k	해원	해원	sailor, mariner, seaman
+k	해월	해월	the moon shining above th…
+k	해의	해의	
+k	해일	해일	tidal wave, tsunami
+k	해자	해자	edge, boundary (of a gard…
+k	해장	해장	relieving a hangover; han…
+k	해저	해저	the bottom of the sea; se…
+k	해적	해적	pirate
+k	해전	해전	naval battle
+k	해제	해제	cancellation
+k	해조	해조	
+k	해주	해주	Haeju (a city in South Hw…
+k	해죽	해죽	만족스러운 듯이 귀엽게 살짝 한 번 웃는 모양.
+k	해중	해중	middle of the sea
+k	해지	해지	cancellation or closure o…
+k	해쭉	해쭉	만족스러운 듯이 귀엽게 살짝 한 번 웃는 모양.
+k	해체	해체	The informal, non-polite …
+k	해초	해초	seagrass
+k	해충	해충	사람의 생활이나 농업에 직접 또는 간접으로 해…
+k	해치	해치	xiezhi (a mythical creatu…
+k	해커	해커	hacker (one who uses a co…
+k	해킹	해킹	hacking
+k	해탄	해탄	coke (coal product)
+k	해탈	해탈	moksha, nirvana
+k	해태	해태	laver, dried seaweed, nori
+k	해표	해표	
+k	해풍	해풍	
+k	해학	해학	humour
+k	해항	해항	seaport.
+k	해협	해협	strait; channel
+k	핵고	핵고	school
+k	핵공	핵공	핵막에 존재하는 물질 이동 통로. 핵산 등이 …
+k	핵교	핵교	school
+k	핵막	핵막	진핵세포에서 핵을 둘러싸고 있는 이중막 구조의…
+k	핵산	핵산	nucleic acid
+k	핵심	핵심	Something which is centra…
+k	핵자	핵자	
+k	핵종	핵종	
+k	핸드	핸드	
+k	핸들	핸들	steering wheel
+k	핼금	핼금	가볍게 곁눈질하여 살짝 한 번 쳐다보는 모양.
+k	핼리	핼리	
+k	핼멧	핼멧	
+k	햄릿	햄릿	
+k	햅쌀	햅쌀	
+k	햅틱	햅틱	촉각(손이나 피부로 느끼는 감각)과 관련된 것.
+k	햇귀	햇귀	sunbeam, sunlight
+k	햇발	햇발	sunshine, sunbeam
+k	햇볕	햇볕	sunshine, (especially) wa…
+k	햇빛	햇빛	sunlight, sunshine
+k	햇살	햇살	sunshine; sunbeam
+k	햇수	햇数	years; number of years
+k	햇수	햇數	years; number of years
+k	햇수	햇수	years; number of years
+k	했다	했다	
+k	행각	행각	
+k	행간	행간	space between the lines
+k	행군	행군	march
+k	행동	행동	action
+k	행랑	행랑	대문간에 붙어 있는 방.
+k	행렬	행렬	line, queue
+k	행리	행리	traveling outfit, luggage
+k	행방	행방	one's whereabouts
+k	행복	행복	happiness
+k	행불	행불	cold
+k	행사	행사	an event or observance.
+k	행상	행상	peddler
+k	행서	행서	
+k	행성	행성	planet
+k	행세	행세	해당되지 아니하는 사람이 어떤 당사자인 것처럼…
+k	행수	행수	head (of a group), leader…
+k	행실	행실	behaviour; demeanour; con…
+k	행악	행악	traditional Korean marchi…
+k	행어	행어	coat hanger
+k	행여	행여	possibly; by chance
+k	행운	행운	good luck
+k	행원	행원	
+k	행위	행위	an act or behavior
+k	행인	행인	passerby; pedestrian
+k	행장	행장	obituary
+k	행정	행정	public administration
+k	행주	행주	dish towel, dishcloth
+k	행진	행진	march; parade
+k	행차	행차	procession (of a high-ran…
+k	해가림	해가림	'일식'의 북한말.
+k	해겁다	해겁다	
+k	해결책	해결책	solution
+k	해군부	해군부	
+k	해군성	해군성	
+k	해급다	해급다	
+k	해기스	해기스	
+k	해깝다	해깝다	
+k	해꼬지	해꼬지	'해코지'의 비표준어.
+k	해꼽다	해꼽다	
+k	해꿉다	해꿉다	
+k	해내다	해내다	to accomplish, to manage,…
+k	해넘이	해넘이	sunset; sundown
+k	해당화	해당화	
+k	해독약	해독약	
+k	해독제	해독제	몸 안에 들어간 독성 물질의 작용을 없애는 약…
+k	해돋이	해돋이	sunrise
+k	해돌이	해돌이	'나이테'의 북한말.
+k	해라체	해라체	The formal, non-polite sp…
+k	해로운	해로운	
+k	해록석	해록석	철과 알루미늄의 함수 규산염으로 된 흙 모양의…
+k	해롭다	해롭다	to be harmful
+k	해리어	해리어	
+k	해마다	해마다	every year
+k	해맑다	해맑다	to be bright
+k	해먹다	해먹다	
+k	해묵다	해묵다	to be carried/brought ove…
+k	해밀턴	해밀턴	
+k	해밀톤	해밀톤	영국령 버뮤다의 수도 '해밀턴'의 북한말.
+k	해병대	해병대	marine corps
+k	해부학	해부학	anatomy
+k	해산물	해산물	seafood; marine products
+k	해삼시	해삼시	
+k	해삼위	해삼위	
+k	해상도	해상도	resolution
+k	해석자	해석자	interpreter
+k	해석학	해석학	analysis
+k	해선장	해선장	
+k	해설자	해설자	commentator
+k	해수면	해수면	
+k	해수욕	해수욕	sea bathing
+k	해시계	해시계	sundial
+k	해시시	해시시	
+k	해안선	해안선	
+k	해약금	해약금	계약이행에 착수하기 이전에 해약을 원하는 계약…
+k	해양학	해양학	oceanography
+k	해어화	해어화	말을 알아듣는 꽃이라는 뜻으로, '미인'(美人…
+k	해열제	해열제	
+k	해오름	해오름	Sunrise.
+k	해왕성	해왕성	Neptune (eighth planet of…
+k	해요체	해요체	The informal, polite spee…
+k	해운대	해운대	[~구] Haeundae (a district…
+k	해장국	해장국	haejangguk, hangover soup
+k	해장술	해장술	
+k	해적기	해적기	
+k	해적선	해적선	pirate ship
+k	해적질	해적질	
+k	해조분	해조분	
+k	해중합	해중합	
+k	해지다	해지다	forms passive verbs or ve…
+k	해질녘	해질녘	sunset, evening
+k	해집합	해집합	방정식이나 부등식의 해를 나타낸 집합.
+k	해초월	해초월	
+k	해츨링	해츨링	(새, 공룡, 드래곤, 악어, 거북이, 물고기…
+k	해치다	해치다	to hurt, to harm, to inju…
+k	해코지	해코지	the act of harming
+k	해쿠지	해쿠지	'해코지'의 비표준어.
+k	해파리	해파리	jellyfish
+k	핵가족	핵가족	nuclear family
+k	핵군축	핵군축	
+k	핵꿀잼	핵꿀잼	매우 재밌음
+k	핵노잼	핵노잼	매우 재미 없음.
+k	핵무기	핵무기	nuclear weapon
+k	핵무장	핵무장	
+k	핵반응	핵반응	nuclear reaction
+k	핵분열	핵분열	nuclear fission
+k	핵소체	핵소체	
+k	핵실험	핵실험	
+k	핵심부	핵심부	kernel
+k	핵심어	핵심어	
+k	핵심적	핵심적	
+k	핵심체	핵심체	
+k	핵양체	핵양체	핵산-단백질의 복합체. 원핵생물에서만 나타난다.
+k	핵연료	핵연료	
+k	핵우산	핵우산	
+k	핵융합	핵융합	
+k	핵의학	핵의학	
+k	핵이식	핵이식	
+k	핵자기	핵자기	
+k	핵전쟁	핵전쟁	nuclear war
+k	핵탄두	핵탄두	
+k	핵폐수	핵폐수	nuclear waste water
+k	핵폭발	핵폭발	nuclear explosion
+k	핵폭탄	핵폭탄	nuclear bomb
+k	핵합성	핵합성	
+k	핵화학	핵화학	
+k	핵확산	핵확산	
+k	핸드백	핸드백	handbag (small bag used b…
+k	핸드벨	핸드벨	
+k	핸드볼	핸드볼	handball (team sport)
+k	핸드북	핸드북	
+k	핸드잡	핸드잡	hand job
+k	핸드폰	핸드폰	cellular phone, mobile ph…
+k	핸들링	핸들링	
+k	핸디캡	핸디캡	어떤 사람이 가진 기술이나 능력이 다른 사람에…
+k	핼버드	핼버드	
+k	핼버트	핼버트	
+k	햄버거	햄버거	hamburger (sandwich)
+k	햄버그	햄버그	
+k	햄스터	햄스터	hamster
+k	햇곡식	햇곡식	
+k	햇과일	햇과일	
+k	햇무리	햇무리	halo around the sun
+k	햇언나	햇언나	an infant, newborn baby
+k	행거온	행거온	
+k	행락객	행락객	
+k	행렬식	행렬식	determinant
+k	행복감	행복감	euphoria
+k	행운아	행운아	a child of fortune; fortu…
+k	행정관	행정관	국가의 행정 사무를 맡아보는 모든 관리.
+k	행정법	행정법	
+k	행정학	행정학	public administration
+k	행진곡	행진곡	
+k	행하다	행하다	to do; to act; to conduct…
+k	행형학	행형학	
+k	해거름에	해거름에	
+k	해결되다	해결되다	to be settled, solved
+k	해결하다	해결하다	to resolve a dispute or c…
+k	해고하다	해고하다	to dismiss; to discharge;…
+k	해괴하다	해괴하다	크게 놀랄 정도로 매우 괴이하고 야릇하다.
+k	해금되다	해금되다	금지되었던 것이 풀리다.
+k	해금하다	해금하다	금지하였던 것을 풀다.
+k	해끗해끗	해끗해끗	speckled with bright white
+k	해당되다	해당되다	to correspond, to be appl…
+k	해당하다	해당하다	to be relevant, be applic…
+k	해독하다	해독하다	
+k	해동하다	해동하다	to thaw
+k	해뜩대다	해뜩대다	'해뜩거리다'.
+k	해라하다	해라하다	해라체의 말씨를 쓰다.
+k	해롱대다	해롱대다	'해롱거리다'.
+k	해마방회	해마방회	
+k	해면기압	해면기압	어떤 관측지점에서 관측된 현지기압을 그 지점에…
+k	해명하다	해명하다	까닭이나 내용을 풀어서 밝히다.
+k	해바라기	해바라기	sunflower
+k	해방전후	해방전후	
+k	해방하다	해방하다	to liberate; to free
+k	해산하다	해산하다	아이를 낳다.
+k	해상강도	해상강도	바다에서 강도를 저지르는 사람. (형법 340…
+k	해석역학	해석역학	
+k	해석하다	해석하다	to interpret, to translat…
+k	해설하다	해설하다	to explain
+k	해소하다	해소하다	
+k	해수욕장	해수욕장	swimming beach, bathing r…
+k	해시태그	해시태그	
+k	해쓱하다	해쓱하다	to be pale, to be pallid
+k	해안분지	해안분지	
+k	해안으로	해안으로	
+k	해양경찰	해양경찰	
+k	해양순환	해양순환	해양에서 일어나는 해류의 큰 흐름. 수평적인 …
+k	해양학자	해양학자	
+k	해어지다	해어지다	to become worn out
+k	해오라기	해오라기	black-crowned night heron…
+k	해외구매	해외구매	overseas purchase
+k	해외여행	해외여행	
+k	해일경보	해일경보	tidal wave warning; tsuna…
+k	해작대다	해작대다	'해작거리다'.
+k	해저지진	해저지진	해수면 아래에 있는 지각에서 발생한 지진.
+k	해저화산	해저화산	
+k	해제끼다	해제끼다	to kill; to cause to die
+k	해제시각	해제시각	기상특보를 발표했거나 발표하게 될 경우에 그에…
+k	해제하다	해제하다	
+k	해죽대다	해죽대다	'해죽거리다'(만족스러운 듯이 귀엽게 살짝 자…
+k	해쪼임량	해쪼임량	'일조량'의 북한말.
+k	해쭉대다	해쭉대다	'해쭉거리다'.
+k	해체하다	해체하다	여러 개의 조각으로 나누다.
+k	해치우다	해치우다	
+k	해킹하다	해킹하다	to hack
+k	해토머리	해토머리	얼었던 흙이 서서히 풀리는 이른 봄. 또는 그…
+k	해트트릭	해트트릭	hat trick (three goals sc…
+k	해풍전선	해풍전선	해풍이 나타날 때, 이 해풍의 전면과 육지 위…
+k	핵단백질	핵단백질	
+k	핵물리학	핵물리학	
+k	핵에너지	핵에너지	
+k	핵외전자	핵외전자	
+k	핵응용학	핵응용학	
+k	핵잠수함	핵잠수함	
+k	핸드볼공	핸드볼공	
+k	핼리팩스	핼리팩스	Halifax (a regional munic…
+k	햄스트링	햄스트링	
+k	햇병아리	햇병아리	
+k	행군하다	행군하다	
+k	행동주의	행동주의	
+k	행동하다	행동하다	to behave; to act; to con…
+k	행복스레	행복스레	삶에서 즐거움, 기쁨 그리고 만족을 느끼는 데…
+k	행복하다	행복하다	to be happy
+k	행사하다	행사하다	to employ; to exercise
+k	행심하다	행심하다	매우 다행하다.
+k	행운유수	행운유수	떠다니는 구름과 흘러내리는 물. 일이 매끄럽게…
+k	행정명령	행정명령	
+k	행정법원	행정법원	
+k	행진하다	행진하다	to march; to parade
+k	행해지다	행해지다	행하게 되다.
+k	해군육전대	해군육전대	
+k	해당 없음	해당 없음	
+k	해뜩거리다	해뜩거리다	갑자기 몸을 뒤로 잦히며 자꾸 자빠지다.
+k	해롱거리다	해롱거리다	버릇없이 경솔하게 자꾸 까불다.
+k	해머던지기	해머던지기	hammer throw
+k	해바라기색	해바라기색	
+k	해바라기씨	해바라기씨	
+k	해바라기유	해바라기유	해바라기씨를 원료로 삼아 거기서 짜낸 기름.
+k	해반닥대다	해반닥대다	'해반닥거리다'.
+k	해방시키다	해방시키다	
+k	해안경비대	해안경비대	
+k	해야 하다	해야 하다	
+k	해야 한다	해야 한다	
+k	해양기상학	해양기상학	큰 바다 표면 위에서 나타나는 대기현상과 이 …
+k	해양생물학	해양생물학	
+k	해양성기후	해양성기후	큰 바다의 가운데 있는 섬이나, 해안지방처럼 …
+k	해양예상도	해양예상도	해양 상에서 파고와 해상 바람을 예상하여 그려…
+k	해일방파제	해일방파제	storm surge barrier
+k	해작거리다	해작거리다	무엇을 찾으려고 조금씩 자꾸 들추거나 파서 헤…
+k	해적 행위	해적 행위	
+k	해죽거리다	해죽거리다	만족스러운 듯이 귀엽게 살짝 자꾸 웃다.
+k	해쭉거리다	해쭉거리다	만족스러운 듯이 귀엽게 살짝 자꾸 웃다.
+k	해코지하다	해코지하다	
+k	해피 엔딩	해피 엔딩	
+k	핵분열반응	핵분열반응	
+k	핵융합반응	핵융합반응	
+k	핵융합폭탄	핵융합폭탄	
+k	핵자기공명	핵자기공명	
+k	핸드세이크	핸드세이크	
+k	핸드셰이크	핸드셰이크	
+k	핸드셰이킹	핸드셰이킹	
+k	핸드스프링	핸드스프링	
+k	햄프셔 주	햄프셔 주	
+k	햇볕에 탐	햇볕에 탐	
+k	행글라이더	행글라이더	글라이더를 타는 항공스포츠의 일종.
+k	행글라이딩	행글라이딩	
+k	행복스럽다	행복스럽다	삶에서 즐거움, 기쁨 그리고 만족을 느끼는 데…
+k	행성 직렬	행성 직렬	
+k	행정 구역	행정 구역	행정 기관의 권한이 미치는 일정한 구역. 특별…
+k	해거름다음에	해거름다음에	
+k	해바라기기름	해바라기기름	
+k	해바라기씨유	해바라기씨유	
+k	해반닥거리다	해반닥거리다	눈을 크게 뜨고 흰자위를 자꾸 반득이며 움직이…
+k	해시 브라운	해시 브라운	
+k	핸드드라이어	핸드드라이어	
+k	핸드볼 선수	핸드볼 선수	
+k	핸드브레이크	핸드브레이크	
+k	핸드캐리하다	핸드캐리하다	
+k	행간을 읽다	행간을 읽다	to read between the lines
+k	행성상 성운	행성상 성운	
+k	행운을 빈다	행운을 빈다	
+k	행운을 빌다	행운을 빌다	
+k	행운의 편지	행운의 편지	
+k	행위자 명사	행위자 명사	
+k	행정부 수반	행정부 수반	
+k	해거름의 앞에	해거름의 앞에	
+k	해양성열대기단	해양성열대기단	열대지방과 아열대지방의 큰 바다 위에 있는 기…
+k	해양성한대기단	해양성한대기단	한대지방의 큰 바다위에 있는 기단. 기온이 차…
+k	해피 홀리데이	해피 홀리데이	
+k	핵우주 연대학	핵우주 연대학	
+k	핵추진 잠수함	핵추진 잠수함	
+k	햄버거스테이크	햄버거스테이크	‘햄버그스테이크’를 달리 이르는 말.
+k	햄버그스테이크	햄버그스테이크	서양 요리의 하나로, 쇠고기나 돼지고기를 다져…
+k	행거 스테이크	행거 스테이크	
+k	행운을 빌어요	행운을 빌어요	
+k	행운을 빕니다	행운을 빕니다	
+k	해머던지기 선수	해머던지기 선수	
+k	해양 개발 산업	해양 개발 산업	해양의 자원과 공간을 개척하여 유용하게 하는 …
+k	해피 발렌타인데이	해피 발렌타인데이	
+k	해리성 정체성 장애	해리성 정체성 장애	한 사람의 몸에 여러 인격이 존재하는 형태.

@@ -1,0 +1,2 @@
+e	j-pop	jpop	1 meaning
+e	j/psi particle	jpsiparticle	1 meaning

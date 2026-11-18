@@ -1,0 +1,5780 @@
+j	じ	じ	時: hour, o'clock
+j	ジ	ジ	（母音の前における）the の転写。
+j	事	じ	thing
+j	二	じ	two, 2
+j	児	じ	baby; infant
+j	匙	じ	spoon, scoop
+j	地	じ	earth, dirt
+j	字	じ	letter, character
+j	寺	じ	a temple
+j	時	じ	time
+j	次	じ	next, secondary
+j	爾	じ	second person archaic pro…
+j	璽	じ	a seal or sigil carved in…
+j	痔	じ	hemorrhoids, piles
+j	而	じ	Calque of Literary Chines…
+j	自	じ	
+j	路	じ	attaches to place names, …
+j	じあ	じあ	次亜: hypo-
+j	じい	じい	老爺。
+j	じか	じか	「直」を参照。
+j	じき	じき	動詞「敷く」の連用形名詞化「しき」の連濁。
+j	じく	じく	軸: axis, spoke
+j	じげ	じげ	one's real/natural hair (…
+j	じご	じご	事後: post-, after the fact
+j	じじ	じじ	父母の父親。
+j	じだ	じだ	地たたら（地団駄）の変化したもの。
+j	じみ	じみ	飾りをひかえ、落ち着いた趣き、又は、そうである様。
+j	じむ	じむ	
+j	じゃ	じゃ	so, then—used for connect…
+j	じり	じり	北海道東部の夏に発生する海上の濃い霧。
+j	じわ	じわ	演劇で一番の見せ場や優れた演技の後に客席から起こる…
+j	じー	じー	The sound of staring.
+j	ジグ	ジグ	
+j	ジム	ジム	gymnasium
+j	ジャ	ジャ	
+j	ジラ	ジラ	
+j	ジロ	ジロ	gilo (fruit of the scarle…
+j	ジン	ジン	gin (alcoholic beverage).
+j	ジー	ジー	The name of the Latin scr…
+j	事事	じじ	everything
+j	事務	じむ	business, clerical work
+j	事宜	じぎ	fitting thing
+j	事後	じご	after an event
+j	事故	じこ	accident; incident; troub…
+j	事理	じり	reason, logic, sense
+j	事記	じき	事件を中心に書かれた文章。
+j	人	じん	a person, human
+j	仁	じん	a male given name
+j	仞	じん	ren, ancient Chinese unit…
+j	侍史	じし	貴人に近侍する書記。右筆。
+j	侍姫	じき	貴人に近侍する女中。侍女。こしもと。
+j	侍婢	じひ	貴人の身近に仕える女。
+j	児ポ	じぽ	
+j	児ポ	じポ	
+j	児嬉	じき	子供が喜んで遊ぶさま。
+j	児子	じし	小児。子供。
+j	児戯	じぎ	child's play; trifling ma…
+j	児戯	じげ	child's play; trifling ma…
+j	刃	じん	any sharp and thin cuttin…
+j	助	じょ	assistance
+j	助	じよ	assistance
+j	十	じっ	ten, 10
+j	十	じふ	ten, 10
+j	地下	じげ	underground; subterranean
+j	地味	じみ	plain, simple
+j	地場	じば	local area
+j	地子	じし	律令制で公田を貸し付け、収穫の二割を納めさせた賃借…
+j	地毛	じげ	もともと自分の地肌から生えている毛髪。
+j	塵	じん	dust
+j	壬	じん	the ninth of the ten heav…
+j	女	じょ	a female person
+j	如	じょ	tathata, thusness, suchne…
+j	如	じよ	tathata, thusness, suchne…
+j	字彙	じい	dictionary
+j	字彙	じゐ	dictionary
+j	字母	じぼ	letter; (in the context o…
+j	字素	じそ	grapheme
+j	字義	じぎ	meaning of a word
+j	孳孳	じじ	努め、励むこと。また、そのようなさま。
+j	孳尾	じび	鳥獣が交尾して子をつくり、その子を育てること。
+j	実	じつ	fruit (a product of ferti…
+j	寺家	じか	寺院。
+j	寺家	じけ	寺院。
+j	寿	じゅ	years of age
+j	尋	じん	fathom, a unit of measure…
+j	従	じゅ	"junior" ranking for 位 (-…
+j	慈姑	じこ	arrowhead, Sagittaria tri…
+j	慈悲	じひ	compassion
+j	慈救	じく	仏が慈悲の心で衆生を救うこと。
+j	慈母	じぼ	慈悲・愛情の深い母。
+j	慈氏	じし	弥勒菩薩の異称。
+j	慈烏	じう	カラスの別称。
+j	慈父	じふ	loving father; affectiona…
+j	慈誨	じけ	慈しみのこもった教え。
+j	慈雨	じう	welcome, blessed rain (es…
+j	持碁	じご	囲碁の対局における、引き分け
+j	日	じつ	ordinal day of a month
+j	時下	じか	these days
+j	時事	じじ	current events; current a…
+j	時事	じゞ	current events; current a…
+j	時余	じよ	一時間余り。
+j	時価	じか	contemporary or current m…
+j	時値	じち	直流電流による刺激を筋肉などに与えた時の反応の速さ…
+j	時務	じむ	その時にやらなければならない事務や業務。
+j	時夜	じや	the declaration of nightt…
+j	時季	じき	season
+j	時宜	じぎ	timely, appropriate time
+j	時差	じさ	time difference
+j	時期	じき	time for doing something
+j	時機	じき	opportunity, chance
+j	時花	じか	その季節の花。
+j	時華	じか	「時花」の別表記。
+j	時課	じか	キリスト教（カトリック、正教会）における典礼の一つ。
+j	時雨	じう	a rainshower in late summ…
+j	染み	じみ	a stain
+j	柔	じう	gentle, soft, supple
+j	次亜	じあ	hypo-; -ous (a compound w…
+j	次位	じい	次の位。次の順位。次の位置。
+j	次妃	じひ	正妃に次ぐ妃。
+j	次姉	じし	上から二番目の姉。
+j	次子	じし	one's second son
+j	次期	じき	the next period, the next…
+j	治世	じせ	peaceful times
+j	治具	じぐ	jig (mechanical device)
+j	治具	ジグ	jig (mechanical device)
+j	治部	じぶ	a government official in …
+j	滋味	じみ	nutriment, nourishment
+j	爺	じい	a grandfather
+j	爺	じじ	a grandfather
+j	爾余	じよ	その他。この他。
+j	爾後	じご	from this (that) time onw…
+j	爾雅	じが	Erya (the oldest survivin…
+j	獣	じう	an animal covered in fur,…
+j	琉球	じく	Ryukyu
+j	璽符	じふ	the emperor's seal
+j	直	じか	soon, shortly
+j	直	じき	soon, shortly
+j	磁化	じか	magnetization (the act of…
+j	磁区	じく	強磁性体の内部で磁化が一定の向きとなっている小領域。
+j	磁器	じき	porcelain
+j	磁場	じば	magnetic field
+j	磁気	じき	magnetism
+j	磁荷	じか	磁石や磁性体の極で磁力が働く原因となるもの。磁気量。
+j	示威	じい	demonstration; manifestat…
+j	示指	じし	index finger; forefinger
+j	神	じん	a spirit or an essence pr…
+j	綬	じゅ	cordon, ribbon
+j	而部	じぶ	部首「⽽」で分類した漢字の一群。
+j	耳朶	じだ	earlobe
+j	耳科	じか	耳の疾患に関する治療や研究などをするもの。
+j	耳羽	じう	鳥の耳を覆っている羽。
+j	耳語	じご	耳打ちすること。また、その話。
+j	耳部	じぶ	部首「⽿」で分類した漢字の一群。
+j	耳鼻	じび	ears and nose
+j	自他	じた	oneself and others
+j	自利	じり	自分の利益。
+j	自卑	じひ	自分を卑しめること。
+j	自家	じか	one's own house
+j	自差	じさ	磁針の機器自体または磁針がある環境による誤差。
+j	自己	じこ	self; oneself
+j	自度	じど	他利を求めず、自利のためだけに悟りを求め、修行する…
+j	自庫	じこ	自社で保有する倉庫。
+j	自恃	じじ	自分自身を恃みにすること。
+j	自恣	じし	自分の心の欲するままに振る舞うこと。また、そのよう…
+j	自悟	じご	自ら悟ること。
+j	自慰	じい	self-consolation, making …
+j	自慰	じゐ	self-consolation, making …
+j	自我	じが	self; oneself
+j	自棄	じき	self-abandonment, loss of…
+j	自機	じき	自分が操縦・搭乗する航空機。また、自分側の航空機。
+j	自歌	じか	自分がつくった和歌。
+j	自死	じし	suicide
+j	自治	じち	self-government
+j	自画	じが	その人が自分で描くこと。また、そのような絵。
+j	自知	じち	自分自身のことを知ること。
+j	自科	じか	自分が犯した罪や過ち。
+j	自解	じげ	（じげ）師の教えによらず、自分で理解し悟ること。
+j	自負	じふ	self-confidence
+j	自費	じひ	one's own expenses
+j	自過	じか	「自科」の別表記。
+j	自部	じぶ	部首「⾃」で分類した漢字の一群。
+j	自鬢	じび	自分で自分の髪を結うこと。また、その髪。
+j	蒔蘿	じら	synonym of イノンド (inondo, …
+j	蛇	じゃ	a snake, serpent
+j	蛇	じや	a snake, serpent
+j	軸	じく	axis
+j	辞儀	じぎ	bow, a gesture made by be…
+j	辞彙	じい	dictionary
+j	辞彙	じゐ	dictionary
+j	辞意	じい	intention to resign
+j	辞書	じそ	a dictionary (publication…
+j	辞義	じぎ	言葉の意味。
+j	陣	じん	battle formation
+j	じあい	じあい	慈愛: affection
+j	じおん	じおん	慈恩: deep compassion
+j	じかい	じかい	字解
+j	じかに	じかに	間に何も入れず直接に。
+j	じかび	じかび	直接火に当たること。当てること。その火。
+j	じかん	じかん	
+j	じがい	じがい	貝合わせで、陽側の貝。場に伏せて出す。
+j	じがね	じがね	地金: bullion
+j	じきに	じきに	もうすぐ。近いうちに。
+j	じぐも	じぐも	クモ目ジグモ科ジグモ属に属する蜘蛛の総称。
+j	じけん	じけん	
+j	じこう	じこう	耳孔: earhole
+j	じこく	じこく	
+j	じごく	じごく	
+j	じさつ	じさつ	
+j	じしょ	じしょ	
+j	じしん	じしん	地震: earthquake
+j	じじい	じじい	geezer
+j	じじゅ	じじゅ	耳珠: tragus
+j	じっと	じっと	熟と: (stare) hard, (look) …
+j	じつこ	じつこ	実子: a female given name
+j	じつに	じつに	
+j	じどり	じどり	自撮り, 自どり: a selfie
+j	じびき	じびき	字引: dictionary
+j	じべた	じべた	the ground
+j	じまい	じまい	（名詞の後について）終えること。止めること。
+j	じもと	じもと	ある事柄に直接関係がある土地。
+j	じゃあ	じゃあ	接続語「じゃ」に同じ。
+j	じゃい	じゃい	synonym of だ (da)
+j	じゃが	じゃが	逆接。だが。しかし。
+j	じゃき	じゃき	邪気: malice; noxious gas
+j	じゃっ	じゃっ	synonym of だよ (da yo)
+j	じゃね	じゃね	
+j	じゃま	じゃま	
+j	じゃり	じゃり	「砂利」のひらがな表記。
+j	じゃん	じゃん	
+j	じゅう	じゅう	高温のものを水など、冷たいものに浸すときの音。また…
+j	じゅし	じゅし	樹脂: resin
+j	じゅふ	じゅふ	呪符: amulet, charm
+j	じゅり	じゅり	受理: acceptance, especiall…
+j	じゆう	じゆう	
+j	じょう	じょう	律令制の四等官の第三位。公文書の審査等を担当した。
+j	じょほ	じょほ	徐歩: slow walk
+j	じょろ	じょろ	watering can (utensil for…
+j	じらす	じらす	焦らす: irritate; harass
+j	じり貧	じり貧	gradually becoming more h…
+j	じれる	じれる	待っていられない気持ちになる。物事の進行が遅くてい…
+j	じろう	じろう	次郎, 二郎, 仁郎, 次朗, 仁朗: a mal…
+j	じろり	じろり	目玉を動かして鋭い目つきで見るさま。
+j	じわり	じわり	slowly but steadily
+j	ジェイ	ジェイ	Jay (a hamlet in England)
+j	ジェフ	ジェフ	Jeff
+j	ジェル	ジェル	gel (suspension of solid …
+j	ジェー	ジェー	The name of the Latin scr…
+j	ジカ熱	ジカ熱	Zika fever
+j	ジクル	ジクル	
+j	ジグモ	ジグモ	クモ目ジグモ科ジグモ属に属する蜘蛛の一種。学名:A…
+j	ジゴロ	ジゴロ	gigolo
+j	ジジイ	ジジイ	
+j	ジッグ	ジッグ	
+j	ジッダ	ジッダ	
+j	ジト目	じとめ	piercing, half-closed eye…
+j	ジト目	ジトめ	piercing, half-closed eye…
+j	ジト目	ジト目	piercing, half-closed eye…
+j	ジビエ	ジビエ	wild game (both the wild …
+j	ジブチ	ジブチ	Djibouti (a country in Ea…
+j	ジミー	ジミー	a transliteration of the …
+j	ジャね	ジャね	
+j	ジャガ	ジャガ	「ジャガイモ」の略。
+j	ジャグ	ジャグ	
+j	ジャズ	ジャズ	jazz
+j	ジャバ	ジャバ	
+j	ジャブ	ジャブ	jab
+j	ジャボ	ジャボ	jabot
+j	ジャム	ジャム	jam; jelly; a sweet mixtu…
+j	ジャワ	ジャワ	Java (an island of Indone…
+j	ジャン	ジャン	a transliteration of the …
+j	ジャー	ジャー	広口の瓶。
+j	ジュズ	ジュズ	juz’
+j	ジュバ	ジュバ	Juba (the capital city of…
+j	ジュレ	ジュレ	jelly (food)
+j	ジュー	ジュー	ユダヤ人。
+j	ジョイ	ジョイ	歓喜。よろこび。
+j	ジョブ	ジョブ	仕事。
+j	ジョン	ジョン	a transliteration of the …
+j	ジョー	ジョー	a transliteration of the …
+j	ジラフ	ジラフ	giraffe
+j	ジリス	ジリス	
+j	ジリ貧	ジリ貧	「じり貧」を参照。
+j	ジルバ	ジルバ	jitterbug
+j	ジレー	ジレー	gilet
+j	ジワる	ジワる	to be funny upon retrospe…
+j	ジンク	ジンク	亜鉛。
+j	ジーナ	ジーナ	
+j	ジープ	ジープ	jeep
+j	ジーン	ジーン	遺伝子。
+j	丈	じょう	jō, a traditional Japanes…
+j	上	じやう	the above
+j	上	じょう	the above
+j	中	じゅう	the middle, medium
+j	乗	じょう	power
+j	乗	じよう	power
+j	事件	じけん	event, incident
+j	事体	じたい	事態の異表記。
+j	事例	じれい	case, example
+j	事典	じてん	subject-book, such as a t…
+j	事前	じぜん	prior; beforehand
+j	事力	じりき	律令制で国司や大宰帥などの地方官に与えられ、雑役や…
+j	事変	じへん	severe or extraordinary i…
+j	事実	じじつ	fact; truth; reality
+j	事序	じじょ	事の順序。
+j	事態	じたい	situation (especially neg…
+j	事故る	じこる	to cause or be a victim o…
+j	事案	じあん	problem, issue, incident
+j	事業	じげふ	project, work
+j	事物	じぶつ	thing; object; matter
+j	事犯	じはん	crime
+j	事由	じいう	cause, reason
+j	事由	じゆう	cause, reason
+j	事相	じそう	事柄のありさま。
+j	事観	じかん	観法の一つで、仏、浄土などの具体的なすがたを対象と…
+j	事跡	じせき	物事の行われた跡。
+j	事蹟	じせき	物事の行われた跡。
+j	事項	じかう	matter (such as a subject…
+j	事項	じこう	matter (such as a subject…
+j	二君	じくん	二人の君主。
+j	二女	じじょ	two daughters
+j	二星	じせい	二つの星。二つ星。
+j	二毛	じもう	白髪が混じった頭髪。また、そのような年頃の人。
+j	二男	じなん	two sons
+j	二郎	じろう	a male given name
+j	人事	じんじ	human affairs
+j	人位	じんい	人間としての地位。
+j	人区	じんく	人間の世界。人域。
+j	人和	じんわ	harmony among people
+j	人士	じんし	person (of standing)
+j	人子	じんし	人間の子。
+j	人家	じんか	house, dwelling
+j	人後	じんご	losing out to others, com…
+j	人意	じんい	人の心。
+j	人戸	じんこ	民家。人家。
+j	人治	じんち	権力者の人徳による統治。
+j	人為	じんい	artificial, human work, m…
+j	人知	じんち	人間の持つ知識・知見。
+j	人肥	じんぴ	人の糞尿を原料とした肥料。
+j	人視	じんし	人として扱うこと。
+j	人語	じんご	human speech
+j	人部	じんぶ	部首「⼈」で分類した漢字の一群。
+j	人馬	じんば	horse and rider
+j	什器	じふき	everyday fixture / furnit…
+j	仁慈	じんじ	benevolence, kindheartedn…
+j	仁朗	じろう	a male given name
+j	仁武	じんぶ	情け深く武勇があること。
+j	仁義	じんぎ	humanity and justice
+j	仁郎	じろう	a male given name
+j	仕舞い	じまい	end; conclusion; terminat…
+j	仕舞い	じまひ	end; conclusion; terminat…
+j	仗	じょう	military strength
+j	住	じゅう	the act of dwelling, resi…
+j	侍する	じする	身近に居て仕える。付き従って奉仕する。
+j	侍女	じじょ	a lady's maid
+j	侍御	じぎょ	天子の側に仕えること。また、その官職。
+j	侍曹	じそう	手紙の脇付の一つ。侍史。
+j	侍立	じりつ	天子、貴人などの近くに付き従い立つこと。
+j	侍童	じどう	貴人の側近くに仕えるこども。
+j	侍者	じしゃ	貴人や師などに近侍して雑用をする者。
+j	侍衛	じえい	bodyguard of nobility
+j	侍衛	じゑい	bodyguard of nobility
+j	侍読	じどく	天皇や東宮に仕え、学問を教授する学者。侍講。
+j	侍講	じこう	君主や皇太子に書物を講義すること。また、その職やそ…
+j	侍豎	じじゅ	貴人に近侍する童子。
+j	侍郎	じろう	中国の官名の一つ。
+j	侍養	じよう	寄り添いながら世話をすること。
+j	儒医	じゅい	江戸時代、儒者であり医者でもある者。
+j	儒家	じゅか	Confucianist, Confucian
+j	儿部	じんぶ	部首「⼉」で分類した漢字の一群。
+j	児女	じじょ	女の子。女子。
+j	児孫	じそん	children and grandchildre…
+j	児客	じかく	こども。
+j	児斑	じはん	「蒙古斑」のこと。
+j	児童	じどう	pupil, student (a child w…
+j	児輩	じはい	子供達。子供等。
+j	兕角	じかく	兕牛の角。
+j	入輿	じゅよ	貴人の女性が嫁入りすること。
+j	判官	じょう	a judge or magistrate
+j	刵刑	じけい	古代中国の、耳切りの刑罰。
+j	助士	じょし	主に交通機関で正式な業務担当者を補助するもの。
+j	助字	じょじ	an auxiliary character, a…
+j	助扶	じょふ	扶助すること。
+j	助老	じょろ	老僧が座禅する際に肘をつくための台。また、顎をのせ…
+j	助詞	じょし	Particle: a part of speec…
+j	助辞	じょじ	an auxiliary word or affi…
+j	十	じゅう	ten, 10
+j	十二	じふに	twelve; 12
+j	十字	じふじ	ten characters
+j	十師	じっし	「三師七証」に同じ
+j	十手	じって	a Japanese martial arts t…
+j	十指	じっし	（手や足の）10本の指。
+j	十期	じっき	十の期間。
+j	十死	じっし	生存の見込みがないほど非常に危険なこと。
+j	受理	じゅり	acceptance of documents t…
+j	受話	じゅわ	相手の声を聞くこと。受信すること。
+j	叙事	じょじ	narration, a description …
+j	叙位	じょい	位階に叙すること。また、叙せられること。
+j	呪師	じゅし	大きな法会で陀羅尼を唱え加持祈禱をする役の僧侶。
+j	呪符	じゅふ	an amulet or charm to war…
+j	呪詛	じゅそ	curse, malediction
+j	地べた	じべた	地面。地表。
+j	地上げ	じあげ	the practice of filling l…
+j	地下家	じげけ	殿上を許されていない公家の家格。
+j	地主	じしゅ	landowner
+j	地主	じぬし	landowner
+j	地代	じだい	land rent, rental
+j	地借	じかり	江戸時代で、主に家屋を建てるために土地を借りること…
+j	地借	じがり	江戸時代で、主に家屋を建てるために土地を借りること…
+j	地元	じもと	home town
+j	地内	じない	一区画の土地の内側。
+j	地割り	じわり	allotment of land
+j	地割れ	じわれ	地震や干魃により地面に割れ目ができること。また、そ…
+j	地味子	じみこ	plain girl
+j	地唄	じうた	ある地方で歌われる俗謡。
+j	地圧	じあつ	地下の地層内で下方、側方に及ぼす力。
+j	地声	じごえ	one's real voice, one's n…
+j	地天	じてん	仏教の天部の一人。インドの大地を司る神が仏教に取り…
+j	地引	じびき	地引網を浜で引くこと。
+j	地弾き	じびき	舞踏の伴奏で三味線を演奏する人。
+j	地所	じしょ	宅地。敷地。土地。
+j	地文	じもん	physical geography
+j	地曳	じびき	地引網を浜で引くこと。
+j	地板	じいた	板を敷いた所。
+j	地栗鼠	じりす	a ground squirrel
+j	地栗鼠	ジリス	a ground squirrel
+j	地歌	じうた	ある地方で歌われる俗謡。地唄。
+j	地水	じみず	地中にある水。地下水。
+j	地焼	じやき	that which is baked on th…
+j	地牢	じろう	地下に設置された牢屋。
+j	地犬	じいぬ	特定の地域のみ古くから生息する日本犬。
+j	地獄	じごく	hell
+j	地盤	じばん	stronghold; base; (the) g…
+j	地神	じがみ	the gods of the earth
+j	地神	じしん	the gods of the earth
+j	地神	じじん	the gods of the earth
+j	地算	じさん	elementary arithmetic
+j	地算	じざん	elementary arithmetic
+j	地米	じまい	locally-produced rice
+j	地紋	じもん	a pattern, a woven pattern
+j	地肌	じはだ	大地の表面。地面。
+j	地腹	じばら	妊娠などではない元からの腹。
+j	地蔵	じぞう	「地蔵菩薩」の略。
+j	地虫	じむし	scarab beetle larva; larv…
+j	地蜘蛛	じぐも	Atypus karschi, a species…
+j	地蜘蛛	ジグモ	Atypus karschi, a species…
+j	地蠟	じろう	石油や石炭の鉱床などから産出される鉱物性の蠟。
+j	地質	じしつ	geological features
+j	地輪	じりん	五輪の一つ。万物を構成する要素の一つ。
+j	地道	じみち	a straight path, straight…
+j	地酒	じざけ	その土地特有の酒。
+j	地金	じがね	bullion
+j	地金	じきん	bullion
+j	地鎮	じちん	土木工事やかまどをつくる際、「金神」を祀ること。
+j	地雷	じらい	land mine
+j	地震	じしん	an earthquake
+j	地面	じめん	ground (surface of the Ea…
+j	地類	じるい	〔じるい〕古い分家や遠い親類などを含めた地縁のある…
+j	地鬢	じびん	「自鬢」の異表記。
+j	地鳴り	じなり	rumble
+j	地鶏	じどり	鶏のうち古来の形を残すもの。
+j	地黄	じおう	Rehmannia glutinosa
+j	地黒	じぐろ	having naturally dark skin
+j	城	じやう	castle
+j	城	じょう	castle
+j	場	じょう	a place
+j	塵事	じんじ	世俗の煩わしい事柄。俗事。
+j	塵区	じんく	世間。
+j	塵垢	じんく	（じんこう）ちりとあか。よごれ。
+j	塵壺	じんこ	痰や唾を吐くための壺。
+j	塵滓	じんし	ちりとかす。けがれ。
+j	塵籠	じんこ	痰や唾を吐くための壺。
+j	塵衢	じんく	ちりなどで汚れた街。
+j	塾	じゅく	a cram school
+j	壬午	じんご	Water Horse, the nineteen…
+j	壬子	じんし	Water Rat, the forty-nint…
+j	女児	じょじ	a girl, a female child
+j	女医	じょい	a female doctor
+j	女史	じょし	The title of one type of …
+j	女媧	じょか	Nüwa
+j	女子	じょし	girl; woman
+j	女巫	じょふ	巫女。
+j	女師	じょし	女性の師匠、教師。
+j	女蘿	じょら	synonym of 猿麻桛 (saruogase…
+j	女郎	じょろ	young woman
+j	女部	じょぶ	部首「⼥」で分類した漢字の一群。
+j	如露	じょろ	如雨露
+j	嬢	じょう	a daughter (female offspr…
+j	子来	じらい	子が親を慕って近くように徳の高い君主のもとには多く…
+j	字体	じたい	the form of a character t…
+j	字典	じてん	dictionary of kanji; Han …
+j	字取り	じどり	the distribution of any p…
+j	字号	じごう	number indicating the siz…
+j	字墨	じぼく	詩文、書画を書くこと。また、そのような技術。文墨。
+j	字学	じがく	文字学。
+j	字幕	じまく	title (e.g. of a movie)
+j	字引	じびき	dictionary
+j	字形	じけい	the form or shape of a ch…
+j	字形	じなり	the form or shape of a ch…
+j	字数	じかず	文字の数。文字数。
+j	字数	じすう	文字の数。文字数。
+j	字書	じしょ	Kanji dictionary; Han cha…
+j	字林	じりん	Chinese character diction…
+j	字格	じかく	もじ（とくに漢字）を書く際の法則。
+j	字民	じみん	民を養うこと。
+j	字源	じげん	etymology of a written sy…
+j	字牌	じはい	honor tile
+j	字画	じかく	stroke (in a Chinese char…
+j	字眼	じがん	詩文の中で、一字の巧拙によってその価値が左右するよ…
+j	字舞	じまい	雅楽で舞人が字の形に並んで舞うもの。
+j	字解	じかい	explanation of a kanji
+j	字訓	じきん	（じきん）文字などを教えること。
+j	字訓	じくん	（じきん）文字などを教えること。
+j	字訳	じやく	transliteration
+j	字間	じかん	an intercharacter space, …
+j	字面	じづら	impression derived from o…
+j	字面	じめん	impression derived from o…
+j	字音	じおん	a pronunciation of a cert…
+j	字類	じるい	漢字・漢語を音や意義で分類しまとめたもの。
+j	字體	じたい	
+j	孳生	じせい	繁殖。
+j	実に	じつに	indeed; truly; surely
+j	実の	じつの	
+j	実は	じつは	as a matter of fact; actu…
+j	実価	じっか	掛け値のない真実の価値。
+j	実値	じっち	（計画値・理論値に対する）実績値・計測値など、実際…
+j	実偽	じつぎ	真偽。
+j	実利	じつり	use; utility; profit; gain
+j	実務	じつむ	practical business
+j	実勢	じつせ	actual condition
+j	実否	じっぴ	whether true or false
+j	実地	じっち	the actual site where som…
+j	実地	じつぢ	the actual site where som…
+j	実夢	じつむ	現実の事実と合致した夢。正夢。
+j	実姉	じっし	one's elder sister
+j	実姉	じつし	one's elder sister
+j	実子	じっし	biological child (as oppo…
+j	実子	じつこ	biological child (as oppo…
+j	実家	じっか	home of one's birth; one'…
+j	実帰	じっき	真実が帰着する点。
+j	実意	じつい	sincerity; real intentions
+j	実技	じつぎ	practical skill
+j	実施	じっし	practice, execution, enfo…
+j	実有	じつう	虚妄ではなく実際にあること。
+j	実機	じっき	actual machine itself; or…
+j	実母	じつぼ	biological mother; birth …
+j	実気	じっき	真心。誠意。
+j	実父	じっぷ	one's biological father
+j	実理	じつり	practical theory or princ…
+j	実生	じつお	seedling; plant raised fr…
+j	実科	じっか	practical course
+j	実紀	じっき	「実記」の別表記。
+j	実義	じつぎ	誠意。真心。
+j	実記	じっき	true account
+j	実話	じつわ	true story
+j	実語	じつご	真理にかなった言葉。
+j	実費	じっぴ	actual expense; cost price
+j	実部	じつぶ	real part
+j	実雄	じつお	a male given name
+j	寺主	じしゅ	temple administrator, a p…
+j	寺人	じじん	古代中国において君主に近侍した家臣。
+j	寺兵	じへい	寺院が備えていた兵士。僧兵。
+j	寺判	じはん	寺院の印判。
+j	寺刹	じさつ	寺。寺院。
+j	寺号	じごう	the official name of a Bu…
+j	寺坊	じぼう	寺内の僧の宿所。
+j	寺塔	じとう	寺院の塔。仏塔。
+j	寺官	じかん	寺院の事務職。
+j	寺役	じやく	a tax that temples levied…
+j	寺恩	じおん	寺家から給せられる恩恵。
+j	寺房	じぼう	寺内の僧の宿所。
+j	寺楼	じろう	寺院の高殿。
+j	寺檀	じだん	寺院と檀家。
+j	寺社	じしゃ	temples and shrines
+j	寺観	じかん	仏教の寺院と道教の道観。
+j	寺門	じもん	temple gate
+j	寺閣	じかく	寺院の高殿。寺楼。
+j	寺院	じいん	Buddhist temple, wat
+j	寺院	じゐん	Buddhist temple, wat
+j	寺額	じがく	寺号を記した額。
+j	尋思	じんし	心で思いをめぐらすこと。思索すること。
+j	尽期	じんご	尽きる時期。最期。
+j	巡	じゅん	turn, round
+j	常	じやう	always, constantly, consi…
+j	常	じょう	always, constantly, consi…
+j	序次	じょじ	sequence, the order of th…
+j	序詞	じょし	A monotone prologue with …
+j	弐臣	じしん	二心のある家臣。謀反を企む家臣。
+j	弱	じゃく	weakness
+j	弱	じやく	weakness
+j	忸怩	じくじ	bashful; shameful; ashamed
+j	恃険	じけん	険しい地形を頼りにすること。
+j	情	じやう	feeling, sentiment, emoti…
+j	情	じょう	feeling, sentiment, emoti…
+j	惇	じゅん	a male given name
+j	慈仁	じじん	情け深いこと。また、そのさま。仁慈。
+j	慈倹	じけん	物を大切にして節約すること。
+j	慈光	じこう	仏菩薩の放つ慈悲の光。
+j	慈善	じぜん	charity; benevolence to o…
+j	慈堂	じどう	母親。
+j	慈媼	じおう	愛情の深い母。
+j	慈孫	じそん	孝行な孫。
+j	慈尊	じそん	弥勒菩薩の敬称。
+j	慈心	じしん	情け深い心。慈悲。
+j	慈忍	じにん	慈悲心をもって苦難を耐えること。
+j	慈恕	じじょ	情け深く、思いやりがあること。
+j	慈恩	じおん	慈悲深い恩。
+j	慈恵	じけい	慈愛の心で恩恵をほどこすこと。
+j	慈愍	じびん	慈しみ哀れむこと。
+j	慈愍	じみん	慈しみ哀れむこと。
+j	慈愛	じあい	affection, frequently the…
+j	慈斤	じきん	文章を添削してもらうこと。
+j	慈海	じかい	慈しみ深い恩や恵み。
+j	慈涙	じるい	深い思いやりのある涙。
+j	慈眼	じがん	仏や菩薩が衆生を慈悲の心でみる眼。
+j	慈眼	じげん	仏や菩薩が衆生を慈悲の心でみる眼。
+j	慈石	じせき	「磁石」の異表記。古代中国で使用されていた表記。
+j	慈童	じどう	能面の一種。品格の高い童子の面で、「菊慈童」「枕慈…
+j	慈育	じいく	いつくしみ育てること。
+j	慈膝	じしつ	慈愛に満ちた膝。
+j	慈親	じしん	慈悲・愛情の深い親。
+j	慈訓	じくん	慈愛のこもった教訓。
+j	慈誨	じかい	慈しみのこもった教え。
+j	慈雲	じうん	仏の慈しみ。
+j	慈顔	じがん	慈愛に満ちた顔つき。
+j	慈養	じよう	慈愛により幼少者などを養育すること。
+j	慈鳥	じてう	crow, raven
+j	戌	じゅつ	the Dog, the eleventh of …
+j	拾	じゅう	the number ten, 10 (used …
+j	持する	じする	保つ。保持する。もつ。有する。
+j	持仏	じぶつ	自分を守護する本尊として居室や身近に安置し、信仰す…
+j	持参	じさん	carrying, bringing, taking
+j	持律	じりつ	戒律をかたく守ること。持戒。
+j	持念	じねん	禅定に専念すること。
+j	持戒	じかい	戒律を守ること。持律。
+j	持戟	じげき	戟を持つこと。
+j	持斎	じさい	僧侶が非時食戒を守り、午後食事を摂らないこと。
+j	持節	じせつ	節刀を持つこと。また、その使者や任務。
+j	持続	じぞく	continuation, sustainment
+j	持薬	じやく	medicine that one always …
+j	持説	じせつ	one's opinion
+j	持論	じろん	one's longstanding opinion
+j	持鈴	じれい	hand bell
+j	授与	じゅよ	awarding an award, a cred…
+j	数珠	じゅず	prayer beads
+j	日時	じつじ	time and date
+j	日暮	じつぼ	日が暮れる頃。
+j	時世	じせい	age, times
+j	時代	じだい	age, era, period (of time)
+j	時俗	じぞく	the customs of a time
+j	時候	じこう	the weather or climate of…
+j	時分	じぶん	time; hour; season; time …
+j	時制	じせい	tense
+j	時刻	じこく	time, the hour
+j	時劫	じこう	永遠に続く時間。
+j	時劫	じごう	永遠に続く時間。
+j	時効	じかう	a statute of limitations
+j	時効	じこう	a statute of limitations
+j	時勢	じせい	the times, the age
+j	時圏	じけん	天球の両極を通り、天球の赤道と直角に交わる大円。
+j	時報	じほう	time signal
+j	時変	じへん	時代、時勢の変化。時の移り変わり。
+j	時好	じこう	その時代の流行や嗜好。
+j	時序	じじょ	時の順序。
+j	時弊	じへい	ills of the present day; …
+j	時政	じせい	political situation at th…
+j	時数	じすう	ある教科・科目・単元などに費やす授業の数。
+j	時日	じじつ	the time and date
+j	時服	じふく	気候に合わせて着る衣服。
+j	時様	じよう	その時代に流行している型。
+j	時点	じてん	point (in time)
+j	時短	じたん	reduction in working time
+j	時空	じくう	time and space
+j	時策	じさく	その時々の状況に応じた政策。
+j	時節	じせつ	time of year; seasons
+j	時艱	じかん	時局の艱難。その時代が直面する難問。
+j	時角	じかく	天球上のある点と天の極を通る大円が天の子午線となす…
+j	時言	じげん	時事に関する言葉や意見。
+j	時論	じろん	時事に関する論。
+j	時輩	じはい	その当時の人々や仲間。
+j	時辰	じしん	時。時刻。
+j	時速	じそく	speed per hour
+j	時運	じうん	時のめぐり合わせ。
+j	時針	じしん	hour hand
+j	時間	じかん	time
+j	時限	じげん	period (division of schoo…
+j	時難	じなん	その時世の困難。
+j	時風	じふう	その時代の風習や風潮。
+j	朱里	じゅり	a female given name
+j	杖	じょう	staff, stick, walking sti…
+j	条	じょう	paragraph
+j	染みる	じみる	to soak in, to soak into
+j	柔	じゅう	gentle, soft, supple
+j	樹下	じゅか	a surname
+j	樹下	じゅげ	a surname
+j	樹枝	じゅし	木の枝。
+j	樹皮	じゅひ	bark (exterior covering o…
+j	樹脂	じゅし	resin
+j	樹里	じゅり	a female given name
+j	次丁	じてい	律令制で、老丁および軽い不具・病気のある男子。
+j	次代	じだい	the next era
+j	次便	じびん	次に出す便り。
+j	次元	じげん	a dimension
+j	次兄	じけい	二番目の兄。仲兄。
+j	次列	じれつ	順序づけること。
+j	次号	じごう	next issue (of a magazine)
+j	次回	じかい	next time
+j	次女	じじょ	second daughter
+j	次官	じかん	vice minister
+j	次室	じしつ	主要な部屋に隣接した控え室。
+j	次序	じじょ	順序をつけること。また、その順序。次第。
+j	次数	じすう	degree (of the power of a…
+j	次朗	じろう	a male given name
+j	次点	じてん	最高点につぐ点数。また、その点数の人。
+j	次男	じなん	one's second son
+j	次週	じしう	next week
+j	次郎	じろう	a male given name
+j	次郞	じろう	a male given name
+j	次鋒	じほう	5人制または7人制の団体戦における二番手。二陣。
+j	次韻	じいん	漢詩で、他人の詩と同じ韻字を同じ順序で使って詩を作…
+j	沈地	じんじ	沈香（香木）の木地。
+j	治世	じせい	peaceful times
+j	治安	じあん	public order
+j	治定	じてい	落着すること。決定すること。
+j	治田	じでん	（主に平安時代に）開墾された田地。
+j	治部煮	じぶに	a stew consisting of duck…
+j	淳	じゅん	a male given name
+j	準	じゅん	sub-; quasi-
+j	準	じゆん	sub-; quasi-
+j	滋養	じやう	nourishment
+j	滋養	じよう	nourishment
+j	潤	じゅん	a unisex given name
+j	潤	じゆん	a unisex given name
+j	焦らす	じらす	tease
+j	焦れる	じれる	be impatient, chafe
+j	爪哇	じゃわ	
+j	爪哇	ジャワ	
+j	爺	じじい	a grandfather
+j	爾曹	じさう	you all, ye
+j	爾曹	じそう	you all, ye
+j	爾来	じらい	from that time on, ever s…
+j	爾汝	じじょ	相手を「おまえ」「きさま」のように遠慮なく呼び合う…
+j	状	じょう	being in such condition
+j	獣	じゅう	an animal covered in fur,…
+j	獣医	じうい	獣医師の略。
+j	獣脂	じうし	tallow
+j	珠里	じゅり	a female given name
+j	琉球	じきゅ	Ryukyu
+j	璽冊	じさつ	天命を示す符瑞。
+j	璽書	じしょ	a document with the emper…
+j	璽綬	じじゅ	印璽とそれに使用する組み紐。
+j	甚句	じんく	民謡の一つ。基本的に七・七・七・五の四句からなり盆…
+j	畳	じょう	tatami; a tatami mat
+j	痔核	じかく	hemorrhoid
+j	痔疾	じしつ	肛門及びその周辺に生じる病気の総称。痔。
+j	痔瘻	じろう	anal fistula
+j	痔血	じけつ	痔からの出血。
+j	痔裂	じれつ	「裂肛」を参照。
+j	直に	じかに	directly, firsthand
+j	直に	じきに	directly, firsthand
+j	直下	じきげ	directly underneath; dire…
+j	直訴	じきそ	direct complaint to a hig…
+j	砂利	じゃり	gravel
+j	磁化	じくわ	magnetization (the act of…
+j	磁北	じほく	方位磁針のN極が指す北。
+j	磁心	じしん	コイルのなかに挿入する磁性材料の小片。
+j	磁性	じせい	magnetism
+j	磁束	じそく	magnetic flux (measure of…
+j	磁殻	じかく	磁気二重層。
+j	磁気の	じきの	
+j	磁界	じかい	magnetic field
+j	磁石	じせき	magnet
+j	磁製	じせい	磁器製。
+j	磁針	じしん	magnetic needle
+j	示滅	じめつ	遷化すること。
+j	示現	じげん	仏や菩薩が衆生を救済するために姿を変えこの世に現れ…
+j	示談	じだん	settlement out of court; …
+j	示顕	じげん	示し顕すこと。
+j	神亀	じんき	miraculous and auspicious…
+j	神人	じにん	a low-ranking position at…
+j	神供	じんく	神前に供える物。供物。
+j	神供	じんぐ	神前に供える物。供物。
+j	神器	じんぎ	a godly weapon
+j	神庫	じんこ	shrine repository, buildi…
+j	神戸	じんこ	Kobe (the capital city of…
+j	神戸	じんご	Kobe (the capital city of…
+j	神祇	じんぎ	the gods of heaven and ea…
+j	神野	じんの	a surname
+j	神馬	じんめ	horse, or sometimes ema, …
+j	穰	じょう	a male given name
+j	糂汰	じんだ	「糂粏」に同じ。
+j	糂粏	じんだ	糠味噌。
+j	純	じゅん	innocent
+j	而立	じりつ	thirty years old
+j	耳介	じかい	外耳の一部で、外耳孔を囲んでいる外に突き出た器官。…
+j	耳坏	じはい	左右に耳のような取っ手があるさかずきのような食器。
+j	耳垢	じこう	earwax, cerumen
+j	耳孔	じこう	耳の孔。外耳道。
+j	耳孫	じそん	玄孫の子。
+j	耳形	じけい	葉や花弁などの基部の両端が耳状に張り出している形。
+j	耳漏	じろう	otorrhea
+j	耳炎	じえん	otitis, inflammation of t…
+j	耳珠	じじゅ	tragus
+j	耳環	じかん	耳朶に付ける装飾の輪。
+j	耳疾	じしつ	耳の疾病。
+j	耳痛	じつう	耳の痛み。
+j	耳目	じもく	ears and eyes, seeing and…
+j	耳石	じせき	otolith
+j	耳管	じかん	中耳から鼻の奥にある上咽頭につながる管。
+j	耳聾	じろう	deafness
+j	耳門	じもん	耳孔の入り口。
+j	耳鳴	じめい	周りで音がしなくても、自分には音が鳴っているように…
+j	耳鼻科	じびか	耳鼻咽喉科の略称。
+j	腎盂	じんう	renal pelvis
+j	自主	じしゅ	autonomy, independence
+j	自任	じにん	ある任務が自分にふさわしいと思うこと。
+j	自伝	じでん	an autobiography
+j	自体	じたい	from the start
+j	自作	じさく	handicraft
+j	自信	じしん	self-confidence
+j	自働	じどう	自然に動くこと。自分で動くこと。
+j	自党	じとう	自分が所属している党派。
+j	自公	じこう	the Liberal Democratic Pa…
+j	自処	じしょ	自分の居場所。
+j	自分	じぶん	oneself
+j	自切	じせつ	autotomy; self-amputation
+j	自判	じはん	自分で押印したり花押を書いたりすること。また、その…
+j	自制	じせい	temperance, restraint
+j	自剄	じけい	commit suicide by cutting…
+j	自力	じりき	by oneself
+j	自助	じじょ	self-help
+j	自劾	じがい	自ら自分の罪を挙げて官職を去ること。
+j	自動	じどう	automatic movement, autom…
+j	自反	じはん	自分の言動を反省すること。自省。
+j	自叙	じじょ	自分で自分のことを述べること。また、それを記したも…
+j	自問	じもん	asking oneself
+j	自嘲	じてう	self-ridicule
+j	自団	じだん	自分が所属する団体。当団。
+j	自国	じこく	one's own country
+j	自在	じざい	free
+j	自壊	じかい	self-destruction, self-de…
+j	自壞	じかい	自壊の旧字体表記。
+j	自大	じだい	他に対し自分を誇示すること。
+j	自失	じしつ	我を忘れ、茫然とすること。
+j	自如	じじょ	言動が普段と違いないこと。また、そのさま。
+j	自存	じそん	自分の生存。
+j	自学	じがく	self-study
+j	自宅	じたく	one's own home
+j	自守	じしゅ	自力で守ること。
+j	自室	じしつ	one's own room
+j	自害	じがい	suicide
+j	自尊	じそん	self-respect
+j	自尽	じじん	to commit suicide
+j	自序	じじょ	preface by the author
+j	自弁	じべん	かかる費用を自分で負担すること。
+j	自引き	じびき	ランダム封入のグッズや特典などで、目当てのものを自…
+j	自形	じけい	鉱物の特有な結晶面が発達した形。
+j	自律	じりつ	autonomy
+j	自得	じとく	自分の力で開悟、会得すること。
+j	自愛	じあい	self-love
+j	自慢	じまん	pride
+j	自戒	じかい	self-admonition
+j	自損	じそん	自らの過失により損害を受けたりけがをしたりすること。
+j	自撮り	じどり	selfie
+j	自敬	じけい	自分のなかに絶対的な価値と尊厳を認めること。自尊。
+j	自明	じめい	obvious, self-evident
+j	自暴	じぼう	自分で自分の身を損なうこと。
+j	自服	じふく	茶の湯で亭主が客の前で自分がたてた薄茶を飲むこと。
+j	自村	じそん	自分の住んでいる村。
+j	自校	じこう	自分が所属する学校。当校。
+j	自殺	じさつ	suicide
+j	自毛	じもう	もともと自分の皮膚から生えている毛髪。地毛。
+j	自民	じみん	
+j	自水	じすい	自ら水中に身を投げて死ぬこと。入水。
+j	自決	じけつ	deciding by oneself; solv…
+j	自沈	じちん	scuttling
+j	自治区	じちく	autonomous region, territ…
+j	自治旗	じちき	autonomous banner (type o…
+j	自涜	じとく	自分自身を涜すこと。
+j	自淫	じいん	
+j	自滅	じめつ	self-destruction, self-de…
+j	自演	じえん	自分の作品などを自分で演じること。
+j	自炊	じすい	cooking for oneself; maki…
+j	自爆	じばく	self-explosion; suicide b…
+j	自爪	じつめ	one's natural nails
+j	自生	じせい	spontaneous growth, natur…
+j	自由	じいう	free (as in freedom)
+j	自由	じゆう	free (as in freedom)
+j	自発	じはつ	spontaneous, voluntary act
+j	自白	じはく	confession
+j	自省	じせい	self-reflection
+j	自県	じけん	自分の住んでいる県。
+j	自社	じしゃ	one's own company
+j	自立	じりつ	independence, autonomy, s…
+j	自罪	じざい	人間の自由意思により現実的に犯される罪。
+j	自罰	じばつ	失敗や問題が起きた際に原因を自分の中に求めて自分を…
+j	自腹	じばら	one's own money; (or) pay…
+j	自著	じちょ	自分またはその人自身が書きあらわした本。自分の著書。
+j	自蔵	じぞう	機械や装置の内部に付属の機能が収められていること。…
+j	自薦	じせん	Self-recommendation (for …
+j	自行	じこう	sadhana doing by oneself
+j	自衛	じえい	self-defense
+j	自衛	じゑい	self-defense
+j	自裁	じさい	suicide
+j	自製	じせい	something made by oneself
+j	自見	じけん	自己流のやり方ですること。
+j	自覚	じかく	"higher mind": one of the…
+j	自解	じかい	（じげ）師の教えによらず、自分で理解し悟ること。
+j	自認	じにん	personally recognizing
+j	自誓	じせい	taking an oath to oneself
+j	自読	じどく	自力で読むこと。
+j	自謙	じけん	自らへりくだること。
+j	自警	じけい	自分（たち）自身で警戒すること。
+j	自責	じせき	self-reproach
+j	自走	じそう	self-propelled
+j	自足	じそく	self-sufficiency, to be s…
+j	自身	じしん	[one]self
+j	自軍	じぐん	one's own army or team
+j	自転	じてん	rotation around a fixed a…
+j	自運	じうん	書道で、意志のままに字を書くこと。また、そのように…
+j	自適	じてき	気がおもむくまま自在に過ごすこと。
+j	自邸	じてい	自分の屋敷。
+j	自門	じもん	自分の一家や一族。
+j	自閉	じへい	social withdrawal
+j	自陣	じじん	自分の陣地や陣営。
+j	自隊	じたい	自分が所属する隊。当隊。原隊。
+j	自養	じよう	生体が自身が生存に必要な栄養を無機物から合成できる…
+j	自首	じしゅ	surrender, the action of …
+j	自鬢	じびん	自分で自分の髪を結うこと。また、その髪。
+j	舒布	じょふ	述べること。
+j	舒鳧	じょふ	鴨。
+j	蕁麻	じんま	synonym of 刺草 (irakusa, “…
+j	薯蕷	じょよ	synonym of 長芋 (nagaimo, “…
+j	蛇皮	じゃひ	snakeskin
+j	蛇皮	じゃび	snakeskin
+j	術	じゅつ	technique
+j	褥	じょく	mattress, cushion
+j	褥	じよく	mattress, cushion
+j	襦袢	じばん	a lightweight under-robe …
+j	譲	じやう	a male given name
+j	譲	じょう	a male given name
+j	轜車	じしゃ	hearse (oxcart used as a …
+j	辞する	じする	to resign; to leave servi…
+j	辞世	じせい	a death poem
+j	辞令	じれい	letter of appointment
+j	辞任	じにん	resignation
+j	辞典	じてん	a dictionary
+j	辞去	じきょ	taking one's leave
+j	辞命	じめい	言葉遣い。言葉。
+j	辞年	じねん	除夜。
+j	辞書	じしょ	a dictionary (publication…
+j	辞林	じりん	dictionary
+j	辞柄	じへい	言い種。物言い。
+j	辞様	じよう	言葉遣い。言い回し。
+j	辞見	じけん	使者が出発や帰国などの際、別辞を述べるため目上の人…
+j	辞訣	じけつ	別れの言葉を述べること。
+j	辞説	じせつ	言辞。文辞。
+j	辞退	じたい	declining, turning down, …
+j	辭世	じせい	辞世の旧字体表記。
+j	辱	じょく	disgrace, shame, embarras…
+j	辱	じよく	disgrace, shame, embarras…
+j	迅駆	じんく	疾駆すること。
+j	述	じゅつ	statement
+j	邇言	じげん	卑近な言葉。
+j	邪呼	じゃこ	「邪許」の別表記。
+j	邪思	じゃし	邪な悪い考え。邪念。
+j	邪意	じゃい	evil intent
+j	邪意	じやい	evil intent
+j	邪智	じゃち	邪な知恵。悪知恵。
+j	邪気	じゃき	An evil or malevolent spi…
+j	邪気	じゃけ	An evil or malevolent spi…
+j	邪氣	じゃき	
+j	邪知	じゃち	邪な知恵。悪知恵。
+j	邪視	じゃし	sidelong glance
+j	邪許	じゃこ	大人数で一つの作業をする時の掛け声。
+j	邪辞	じゃじ	正しくない言葉。
+j	邪飛	じゃひ	ファウルの飛球。ファウルフライ。また、その飛球を野…
+j	邪鬼	じゃき	imp, devil, evil spirit
+j	邪魔	じゃま	in the way; hindering
+j	重	じゅう	a division
+j	重視	じゅし	value, esteem, respect, s…
+j	銃	じゅう	gun (firearm)
+j	銃	じゆう	gun (firearm)
+j	鋤犁	じょり	「鋤犂」の別表記。
+j	鋤犂	じょり	鋤。
+j	錠	じょう	a device used to make a d…
+j	鎖	じょう	a chain
+j	闍婆	じゃわ	
+j	闍婆	ジャワ	
+j	陣伍	じんご	軍の隊列。
+j	陣地	じんち	military position
+j	陣後	じんご	陣屋や陣列の後ろ。
+j	除喪	じょも	服喪の期間があけること。また、きりあげること。
+j	除夜	じょや	New Year's Eve
+j	除目	じもく	平安時代以降大臣以下主典以上を任官する儀式。
+j	雑魚	じゃこ	small fry, small, worthle…
+j	靖生	じょう	a male given name
+j	静	じやう	quiet
+j	静	じょう	quiet
+j	靱皮	じんぴ	植物の外皮の内側にある柔かな部分。
+j	順	じゅん	order, sequence, turn
+j	順	じゆん	order, sequence, turn
+j	頌偈	じゅげ	仏や菩薩の徳を讃えたり、仏教の真理を説いたりした韻…
+j	類聚	じゅう	collection of things in t…
+j	餌薬	じやく	medicine used for maintai…
+j	鮞岩	じがん	オーライトが集まった構造の岩石。
+j	鰣魚	じぎょ	Reeves' shad, Tenualosa r…
+j	鰣魚	ジギョ	Reeves' shad, Tenualosa r…
+j	鵲	じゃく	the Eurasian magpie, Pica…
+j	じいさん	じいさん	祖父のこと。ややくだけた表現。
+j	じいんと	じいんと	痛み・感動などで痺れたような感じを受けるさま。
+j	じぇんこ	じぇんこ	money
+j	じがばち	じがばち	膜翅目アナバチ科ジガバチ亜科またはジガバチ族の総称…
+j	じきばき	じきばき	wearing directly without …
+j	じくじく	じくじく	oozily
+j	じしゅう	じしゅう	次週: next week
+j	じしゅく	じしゅく	自粛: self-restraint, volun…
+j	じじばば	じじばば	爺と婆。高齢者。
+j	じたばた	じたばた	with a struggle, flailing
+j	じっくり	じっくり	carefully; deliberately (…
+j	じっしゃ	じっしゃ	実写
+j	じっそう	じっそう	実相: reality, the real sta…
+j	じっちゃ	じっちゃ	
+j	じっとり	じっとり	全体的にかなり湿っているさま。
+j	じっぷん	じっぷん	
+j	じつかぶ	じつかぶ	実株: shares actually traded
+j	じつざい	じつざい	実在: existence
+j	じつだん	じつだん	実弾: live ammunition, live…
+j	じとじと	じとじと	不快なほど湿り気を帯びているさま。
+j	じぶくる	じぶくる	臍を曲げて文句を言う。ぐずる。
+j	じまつげ	じまつげ	eyelash in its natural st…
+j	じむぐり	じむぐり	ナミヘビ科の蛇。無毒。日本の固有種で、地中に潜るこ…
+j	じむしつ	じむしつ	事務室: office
+j	じむしょ	じむしょ	
+j	じめじめ	じめじめ	muggy and uncomfortable, …
+j	じめつく	じめつく	じめじめする。湿気を感じる。
+j	じゃあね	じゃあね	see you, bye
+j	じゃくら	じゃくら	雀羅: sparrow net
+j	じゃしん	じゃしん	邪心: evil
+j	じゃっど	じゃっど	synonym of だ (da)
+j	じゃない	じゃない	
+j	じゃなく	じゃなく	
+j	じゃねぇ	じゃねぇ	
+j	じゃねー	じゃねー	
+j	じゃらす	じゃらす	to play with (a child or …
+j	じゃり番	じゃり番	子供向け番組。
+j	じゃん拳	じゃん拳	rock paper scissors (popu…
+j	じゃーね	じゃーね	
+j	じやくや	じやくや	the way in which somethin…
+j	じやじや	じやじや	the sound of something st…
+j	じゅうか	じゅうか	銃火: gunfire
+j	じゅうし	じゅうし	
+j	じゅうじ	じゅうじ	
+j	じゅうに	じゅうに	
+j	じゅうゆ	じゅうゆ	重油: fuel oil
+j	じゅくじ	じゅくじ	熟字: Chinese character com…
+j	じゅけん	じゅけん	
+j	じゅすい	じゅすい	受水
+j	じゅたい	じゅたい	受胎: conception; fertiliza…
+j	じゅだい	じゅだい	入内: imperial bridal party…
+j	じゅなん	じゅなん	受難: passion, suffering of…
+j	じゅばん	じゅばん	襦袢: a type of undershirt …
+j	じゅもく	じゅもく	樹木: tree, wooded area
+j	じゅよう	じゅよう	需要: need, demand
+j	じゅらく	じゅらく	入洛: proceeding to Kyoto, …
+j	じゅれい	じゅれい	樹齢
+j	じゅんき	じゅんき	淳基: a male given name
+j	じゅんじ	じゅんじ	淳二, 淳司, 純司, 純次, 隼士, 順治, 順…
+j	じゅんび	じゅんび	
+j	じゅんや	じゅんや	淳也, 淳哉, 殉也, 純矢, 純也, 惇也, 淳…
+j	じゅんろ	じゅんろ	順路: regular route
+j	じょうい	じょうい	上位: a high rank
+j	じょうき	じょうき	上記: the above, above-ment…
+j	じょうぎ	じょうぎ	定規: ruler
+j	じょうげ	じょうげ	上下: up and down
+j	じょうず	じょうず	上手: skillful, dexterous
+j	じょうふ	じょうふ	上布: a thin light cloth wo…
+j	じょうほ	じょうほ	譲歩: compromise
+j	じょうよ	じょうよ	剰余: remainder
+j	じょうろ	じょうろ	watering can (utensil for…
+j	じょうわ	じょうわ	承和: the Jōwa era (834–848)
+j	じょこつ	じょこつ	鋤骨: vomer bone
+j	じょしゅ	じょしゅ	助手: assistant, helper
+j	じょゆう	じょゆう	
+j	じりじり	じりじり	inching closer, little by…
+j	じり貧	じりひん	gradually becoming more h…
+j	じろじろ	じろじろ	staringly; scrutinisingly
+j	じろっと	じろっと	目玉を動かし睨むさま。
+j	じわじわ	じわじわ	steadily, slowly but cont…
+j	じんあい	じんあい	塵埃: dust, dirt, this drab…
+j	じんけん	じんけん	
+j	じんこう	じんこう	
+j	じんじん	じんじん	throbbing with pain
+j	じんそく	じんそく	
+j	じんとく	じんとく	人徳: natural virtue, perso…
+j	じんめい	じんめい	人名: person's name
+j	じんらい	じんらい	迅雷: thunderclap
+j	じんるい	じんるい	
+j	じんわり	じんわり	steadily, slowly but cont…
+j	じーなー	じーなー	
+j	ジウロン	ジウロン	
+j	ジェイド	ジェイド	a transliteration of the …
+j	ジェシカ	ジェシカ	Jessica (English given na…
+j	ジェダイ	ジェダイ	Jedi (fictional being)
+j	ジェット	ジェット	jet (airplane)
+j	ジェトン	ジェトン	公衆電話や地下鉄・乗合バスで用いられる専用のコイン。
+j	ジェニー	ジェニー	Jenny
+j	ジェノア	ジェノア	
+j	ジェラる	ジェラる	ジェラシーを感じる。妬く。[from 2012]
+j	ジェリコ	ジェリコ	
+j	ジェリー	ジェリー	a transliteration of the …
+j	ジェルス	ジェルス	
+j	ジェンガ	ジェンガ	
+j	ジェール	ジェール	
+j	ジェーン	ジェーン	Jane
+j	ジエンド	ジエンド	the end of an event; conc…
+j	ジオイド	ジオイド	
+j	ジオース	ジオース	diose
+j	ジカ熱	じかねつ	Zika fever
+j	ジカ熱	ジカねつ	Zika fever
+j	ジグザグ	ジグザグ	zig-zag
+j	ジグソー	ジグソー	細いブレードを上下に往復させることで切断を行う電動…
+j	ジッパー	ジッパー	zipper (US), zip fastener…
+j	ジハード	ジハード	jihad
+j	ジパング	ジパング	Japan
+j	ジプシー	ジプシー	Gypsy
+j	ジャイロ	ジャイロ	ジャイロコンパス、ジャイロスコープなどの略。
+j	ジャガー	ジャガー	a jaguar
+j	ジャガ芋	ジャガ芋	potato, Solanum tuberosum…
+j	ジャケ写	ジャケ写	
+j	ジャスト	ジャスト	just; precisely
+j	ジャッキ	ジャッキ	jack (device for raising …
+j	ジャック	ジャック	a jack (surface mounted c…
+j	ジャッグ	ジャッグ	
+j	ジャッジ	ジャッジ	審判、審査、判定、判断。
+j	ジャップ	ジャップ	Jap
+j	ジャニ系	ジャニ系	
+j	ジャバラ	ジャバラ	ムクロジ目ミカン科ミカン属に属する柑橘類の一種。学…
+j	ジャパン	ジャパン	Japan
+j	ジャフナ	ジャフナ	
+j	ジャムス	ジャムス	
+j	ジャレビ	ジャレビ	jalebi
+j	ジャワ人	ジャワ人	インドネシア・ジャワ島の主要民族。インドネシアの最…
+j	ジャワ島	ジャワ島	Java (an island of Indone…
+j	ジャワ海	ジャワ海	
+j	ジャワ犀	ジャワ犀	a Javan rhinoceros
+j	ジャワ語	じゃわご	Java language, Javanese
+j	ジャワ語	ジャワご	Java language, Javanese
+j	ジャワ語	ジャワ語	Java language, Javanese
+j	ジャンク	ジャンク	役に立たないもの。がらくた。
+j	ジャンプ	ジャンプ	a jump
+j	ジャンベ	ジャンベ	djembe
+j	ジャンボ	ジャンボ	大きいこと。
+j	ジャンル	ジャンル	genre
+j	ジャヴァ	ジャヴァ	
+j	ジャーク	ジャーク	肩に乗せたバーベルを反動で頭上へ差し上げること。
+j	ジャージ	ジャージ	「ジャージー」の表記ゆれ。
+j	ジャーン	ジャーン	
+j	ジュゴン	ジュゴン	カイギュウ目ジュゴン属に属する哺乳類の一種。学名:…
+j	ジュズウ	ジュズウ	
+j	ジュッバ	ジュッバ	jubbah
+j	ジュニア	ジュニア	junior
+j	ジュノー	ジュノー	Juneau
+j	ジュバン	ジュバン	「襦袢」のカタカナ表記。
+j	ジュライ	ジュライ	七月。
+j	ジュラ紀	じゅらき	the Jurassic period
+j	ジュラ紀	ジュラき	the Jurassic period
+j	ジュラ紀	ジュラ紀	the Jurassic period
+j	ジュリア	ジュリア	
+j	ジュース	ジュース	juice
+j	ジュート	ジュート	綱麻の繊維。袋などの材料となる。
+j	ジュール	ジュール	joule
+j	ジューン	ジューン	六月。
+j	ジョスト	ジョスト	
+j	ジョセフ	ジョセフ	Joseph
+j	ジョゼフ	ジョゼフ	
+j	ジョッキ	ジョッキ	large beer mug; stein; ta…
+j	ジョナる	ジョナる	to go to a Jonathan's (re…
+j	ジョブス	ジョブス	Jobs
+j	ジョブズ	ジョブズ	Jobs
+j	ジョルノ	ジョルノ	a transliteration of the …
+j	ジョーク	ジョーク	joke
+j	ジョージ	ジョージ	a transliteration of the …
+j	ジルコン	ジルコン	ジルコニウムのケイ酸塩鉱物。
+j	ジレンマ	ジレンマ	dilemma
+j	ジロンド	ジロンド	
+j	ジローナ	ジローナ	
+j	ジンクス	ジンクス	縁起の悪い言い伝え。
+j	ジングル	ジングル	a jingle (radio, advertis…
+j	ジーパン	ジーパン	synonym of ジーンズ (jīnzu, “…
+j	ジーンズ	ジーンズ	jeans (denim trousers)
+j	丈余	じょうよ	一丈より超える長さ。
+j	丈六	じょうら	一丈六尺の長さ。
+j	丈夫	じょうふ	durable, indestructible, …
+j	丈夫	じょうぶ	durable, indestructible, …
+j	丈母	じょうぼ	妻の母。
+j	上下	じやうか	ascending and descending,…
+j	上下	じやうげ	ascending and descending,…
+j	上下	じょうか	ascending and descending,…
+j	上下	じょうげ	ascending and descending,…
+j	上位	じやうゐ	a higher rank, an upper r…
+j	上位	じょうい	a higher rank, an upper r…
+j	上古	じやうこ	the distant past, ancient…
+j	上古	じょうこ	the distant past, ancient…
+j	上司	じょうし	boss
+j	上図	じょうず	the diagram above, the to…
+j	上地	じょうち	a surname
+j	上士	じゃうし	a person of good upbringi…
+j	上士	じょうし	a person of good upbringi…
+j	上市	じょうし	going on the market
+j	上座	じょうざ	seat of honor
+j	上意	じょうい	a command from a superior…
+j	上戸	じやうこ	a heavy drinker; a person…
+j	上戸	じやうご	a heavy drinker; a person…
+j	上戸	じょうこ	a heavy drinker; a person…
+j	上戸	じょうご	a heavy drinker; a person…
+j	上手	じやうず	skillful, dexterous
+j	上手	じやうて	skillful, dexterous
+j	上手	じょうず	skillful, dexterous
+j	上手	じょうて	skillful, dexterous
+j	上智	じょうち	優れた知恵。また、そのような知恵を持つ人。
+j	上梓	じょうし	publication
+j	上武	じょうぶ	上総国と武蔵国の略。
+j	上気	じやうき	rush of blood to the head…
+j	上気	じょうき	rush of blood to the head…
+j	上理	じょうり	東京にある名門私立大学: 上智大学（上）および東京…
+j	上田	じょうた	Ueda (a city in Nagano Pr…
+j	上田	じょうだ	Ueda (a city in Nagano Pr…
+j	上疏	じょうそ	事情や意見を述べる書状を上の者に差し出すこと。また…
+j	上皮	じょうひ	epithelium
+j	上知	じょうち	優れた知恵。また、そのような知恵を持つ人。
+j	上美	じょうび	非常に美しいこと。また、そのようなさま。
+j	上肢	じょうし	upper limbs; arms
+j	上裸	じょうら	naked upper body; bare-ch…
+j	上記	じょうき	the above-mentioned, above
+j	上賀	じょうが	賀を上申すること。
+j	上部	じょうぶ	upper part
+j	上都	じょうと	Xanadu (the summer capita…
+j	上顆	じょうか	an epicondyle
+j	上馬	じょうば	上等な馬。優れた馬。
+j	上馬	じょうめ	上等な馬。優れた馬。
+j	上駕	じょうが	良い馬。
+j	乗務	じょうむ	service as crew on a vehi…
+j	乗機	じょうき	その人が乗る航空機。
+j	乗輿	じょうよ	天子が使用する乗り物。
+j	乗馬	じょうば	riding a horse
+j	乗馬	じようば	riding a horse
+j	乗駕	じょうが	mounting (as in animal co…
+j	事力	じりょく	律令制で国司や大宰帥などの地方官に与えられ、雑役や…
+j	事務員	じむいん	clerk (one working with r…
+j	事務室	じむしつ	office
+j	事務所	じむしょ	an office
+j	事務的	じむてき	事務に関する様子。
+j	事局	じきょく	事の成り行き。情勢。
+j	事後法	じごほう	ex post facto law, retroa…
+j	事情	じじやう	circumstances
+j	事情	じじょう	circumstances
+j	事業	じぎょう	project, work
+j	事業家	じげふか	businessman; entrepreneur
+j	事行	じぎょう	平安時代、内裏を護る滝口の武士の地位の称。
+j	事象	じしやう	event; phenomenon
+j	事象	じしょう	event; phenomenon
+j	二乗	じじょう	squaring
+j	人世	じんせい	the human world
+j	人主	じんしゅ	人君。きみ。君主。
+j	人事課	じんじか	HR department, personnel …
+j	人体	じんたい	human body
+j	人体	じんてい	human body
+j	人倫	じんりん	human ethics
+j	人偶	じんぐう	互いに親愛すること。
+j	人傑	じんけつ	知恵と行動力が人並み外れて優れた人物。傑物。
+j	人力	じんりき	manpower, human power
+j	人勧	じんかん	人事院勧告。
+j	人卒	じんそつ	人民。
+j	人口	じんこう	population
+j	人台	じんだい	衣類の製作や陳列などに使用するための人体の型。
+j	人名	じんめい	person's name
+j	人君	じんくん	人である君主。君主。
+j	人命	じんめい	human life
+j	人員	じんいん	personnel
+j	人域	じんいき	人間の世界。人区。
+j	人声	じんせい	voice, human voice
+j	人外	じんがい	the middle of nowhere; a …
+j	人外	ジンガイ	the middle of nowhere; a …
+j	人天	じんてん	人間界の人間と天上界の天人。また、人間界と天上界。
+j	人孔	じんこう	manhole
+j	人定	じんてい	人が制定すること。
+j	人寰	じんかん	the land of the living; t…
+j	人寿	じんじゅ	人の寿命。
+j	人工	じんこう	man-made; artificial
+j	人影	じんえい	a figure of a person
+j	人徳	じんとく	natural virtue, personal …
+j	人心	じんしん	human nature; human heart…
+j	人性	じんせい	human nature
+j	人才	じんさい	才能があり役に立つ人物。
+j	人文	じんぶん	the humanities
+j	人文	じんもん	the humanities
+j	人日	じんじつ	Human day; also known as …
+j	人望	じんぼう	popularity; good reputati…
+j	人材	じんざい	talented person
+j	人格	じんかく	personality; a person's c…
+j	人権	じんけん	human rights
+j	人民	じんみん	the people, the general p…
+j	人海	じんかい	広い海のように人が多いこと。
+j	人煙	じんえん	人家から立ち上る生活で出る煙。
+j	人物	じんぶつ	person, figure, personage
+j	人犯	じんぱん	犯人。
+j	人狼	じんろう	a werewolf
+j	人生	じんせい	life
+j	人用	じんよう	人界の俗事に使うこと。
+j	人畜	じんちく	man and beast
+j	人皇	じんこう	神代の天皇に対し、神武天皇以後の天皇。
+j	人皇	じんのう	神代の天皇に対し、神武天皇以後の天皇。
+j	人目	じんもく	an attention, observation…
+j	人税	じんぜい	租税の分類分類方法の一つ。その者に帰属する収益、そ…
+j	人種	じんしゅ	race; ethnicity
+j	人籟	じんらい	人間が作り出す様々な音。
+j	人糞	じんぷん	human excrement
+j	人絹	じんけん	rayon
+j	人耦	じんぐう	互いに尊敬し親しみ合うこと。
+j	人肉	じんにく	human meat
+j	人豪	じんごう	器量が優れた人物。
+j	人財	じんざい	「人材」の異表記。
+j	人跡	じんせき	人が通った足跡。
+j	人身	じんしん	the human body
+j	人車	じんしゃ	rickshaw
+j	人造	じんざう	artificial, man-made, syn…
+j	人造	じんぞう	artificial, man-made, syn…
+j	人道	じんどう	humanity
+j	人選	じんせん	selection of a person
+j	人間	じんかん	human, person, human being
+j	人隷	じんれい	下僕。
+j	人雄	じんゆう	雄偉の人。
+j	人霊	じんれい	人間。
+j	人面	じんめん	人間の顔。また、人間の顔に似ているもの。
+j	人頭	じんとう	人の頭。
+j	人類	じんるい	mankind, the human race, …
+j	人骨	じんこつ	human bone
+j	什具	じゅうぐ	日常使用する器具や道具。
+j	什器	じゅうき	everyday fixture / furnit…
+j	仁人	じんじん	a benevolent person, a ph…
+j	仁勇	じんゆう	仁心と勇気。
+j	仁厚	じんこう	慈悲深いこと。人情が厚いこと。
+j	仁君	じんくん	仁徳のある慈悲深い君主。
+j	仁孝	じんこう	仁慈と孝行。
+j	仁宥	じんゆう	情け深くゆるすこと。
+j	仁寿	じんじゅ	the Ninju era, 851-854
+j	仁山	じんざん	仁者が楽しむ山。
+j	仁川	じんせん	Incheon (a city in South …
+j	仁廉	じんれん	情深く廉潔であること。そのさま。
+j	仁徳	じんとく	benevolence, goodness
+j	仁心	じんしん	benevolence; humanity
+j	仁恕	じんじょ	情に厚く、思いやりがあること。
+j	仁恵	じんけい	思いやりと情けをかけようという心。慈悲。恵み。
+j	仁愛	じんあい	benevolent; kindhearted
+j	仁政	じんせい	benevolent rule
+j	仁者	じんしゃ	a virtuous person
+j	仁謹	じんきん	仁厚。
+j	仁賢	じんけん	仁者と賢者。
+j	仁道	じんどう	人としての道。仁の道。
+j	仍多	じょうた	そのうえ。
+j	仕丁	じちょう	律令制で、諸国から出された成年男子に課された力役。
+j	仞積	じんせき	満載すること。
+j	住坐	じゅうざ	居住すること。
+j	住家	じゅうか	住居。すみか。すまい。
+j	住持	じゅうじ	head priest
+j	余剰	じょうよ	余り。残り。剰余。
+j	佳木斯	じゃむす	Jiamusi (a city in Heilon…
+j	佳木斯	ジャムス	Jiamusi (a city in Heilon…
+j	侍中	じちゅう	alternate name of 蔵人
+j	侍妾	じしょう	身分の高い人の側にいて、その身の回りの世話をする人。
+j	侍従	じじゅう	君主の側に仕えること。また、その人。
+j	侍食	じしょく	貴人のそばにいて一緒に食事をすること。陪食。
+j	儒人	じゅじん	儒者。
+j	儒仏	じゅぶつ	儒教と仏教。
+j	儒学	じゅがく	synonym of 儒教 (Jukyō, “Co…
+j	儒宗	じゅそう	儒学における大家。大儒。
+j	儒官	じゅかん	儒者をもって充てられる官職。
+j	儒教	じゆけう	Confucianism
+j	儒書	じゅしょ	儒学に関する書物。
+j	儒生	じゅせい	儒学を修学する者。儒者。
+j	儒礼	じゅれい	儒教に基づく儀礼や作法。
+j	儒祭	じゅさい	儒教の儀礼に基づき行われる祖先などを祀る祭事。
+j	儒胤	じゅいん	儒者の血筋。
+j	儒艮	じゅごん	a dugong
+j	儒艮	ジュゴン	a dugong
+j	儒葬	じゅそう	儒教の教えに基づく葬儀。
+j	儒門	じゅもん	儒学者の家柄。また、儒学者のなかま。
+j	充備	じゅうび	充分に整備すること。また、整えられていること。
+j	児客	じきゃく	こども。
+j	児童誌	じどうし	児童向けの情報を掲載した雑誌。
+j	児雷也	じらいや	
+j	兕牛	じぎゅう	兕と牛。
+j	入内	じゅだい	imperial bridal party's e…
+j	入木	じふぼく	calligraphy
+j	入木	じゅぼく	calligraphy
+j	入木	じゆぼく	calligraphy
+j	入来	じゅらい	august visit
+j	入棺	じゅかん	placing in the coffin
+j	入水	じゅすい	suicide by drowning, drow…
+j	入洛	じゅらく	proceeding to Kyoto, ente…
+j	入牢	じゅろう	imprisonment
+j	入牢	じゆらう	imprisonment
+j	入眼	じゅがん	叙位、除目の際、位階や官名が書かれた書面に名前を記…
+j	入眼	じゅげん	叙位、除目の際、位階や官名が書かれた書面に名前を記…
+j	入院	じゅいん	hospitalisation
+j	入韻	じゅいん	聯句や和漢聯句の二句目。
+j	冗句	じょうく	superfluous sentences
+j	冗句	じょーく	superfluous sentences
+j	冗句	ジョーク	superfluous sentences
+j	冗多	じょうた	言葉や文章が無駄に多いさま。
+j	冗語	じょうご	無駄な言葉や話。
+j	准尉	じゅんい	a warrant officer
+j	准尉	じゆんゐ	a warrant officer
+j	刃創	じんそう	刃物によるきず。刀傷。
+j	刃物	じんぶつ	blade, edged tool, often …
+j	剩餘	じょうよ	
+j	剰余	じょうよ	remainder
+j	剰語	じょうご	無駄な言葉や話。
+j	助命	じょめい	殺されるはずの人の命を助けること。
+j	助奏	じょそう	伴奏以外で補助される装飾的な演奏。オブリガート。
+j	助成	じょせい	financial assistance
+j	助成	じよせい	financial assistance
+j	助手	じょしゅ	assistant, helper
+j	助援	じょえん	助け、救うこと。援助。
+j	助攻	じょこう	主となる攻撃を助ける攻撃をすること。
+j	助業	じょごう	阿弥陀仏を対象とする正行のうち称名念仏（正定業）を…
+j	助演	じょえん	映画、演劇などで脇役として主役を助けて演じること。…
+j	助産	じょさん	midwifery, birth assistan…
+j	助産	じよさん	midwifery, birth assistan…
+j	助祭	じょさい	deacon (Catholic)
+j	助筆	じょひつ	他人が書いた文書に加筆して直すこと。
+j	助老	じょろう	老僧が座禅する際に肘をつくための台。また、顎をのせ…
+j	助葬	じょそう	経済的に困窮していたり、身寄りが無かったり、行旅死…
+j	助言	じょげん	advice (opinion recommend…
+j	助走	じょそう	run-up; approach run
+j	助音	じょいん	（じょいん、じょおん）主となる読経、歌唱、演奏する…
+j	助音	じょおん	（じょいん、じょおん）主となる読経、歌唱、演奏する…
+j	十万	じふまん	hundred thousand
+j	十三	じふさん	thirteen; 13
+j	十九	じゅうく	nineteen; 19
+j	十二	じゅうに	twelve; 12
+j	十二支	じふにし	the twelve earthly branch…
+j	十五	じゅうご	fifteen; 15
+j	十体	じったい	漢字の書で古文、大篆、籀文、小篆、八分、隷書、章草…
+j	十分	じっぷん	enough, plenty, sufficient
+j	十分	じふぶん	enough, plenty, sufficient
+j	十四	じゅうし	fourteen; 14
+j	十字	じゅうじ	ten characters
+j	十字架	じふじか	the cross, sign of the cr…
+j	十干	じっかん	the ten Heavenly Stems
+j	十度	じゅうど	十回。
+j	十徳	じっとく	十の徳目。八徳に忍、畏または勇、和を加えたもの。
+j	十戒	じっかい	the Ten Precepts/Commandm…
+j	十手	じってい	a Japanese martial arts t…
+j	十才	じっさい	生後10年目又は10年を経過した年齢の称。
+j	十方	じっぽう	四方と四隅（北東、北西、南東、南西）と上下の方向。
+j	十時	じゅうじ	ten o'clock
+j	十期	じゅっき	十の期間。
+j	十歳	じっさい	生後10年目又は10年を経過した年齢の称。
+j	十界	じっかい	仏教の世界を10段階に分けたもの。悟りの世界である…
+j	十種	じっしゅ	十の種類。
+j	十進	じっしん	decimal system
+j	十部	じゅうぶ	部首「⼗」で分類した漢字の一群。
+j	受信	じゅしん	reception of a signal, su…
+j	受像	じゅぞう	送信されたテレビ放送の電波を受信し、受像機にその映…
+j	受刑	じゅけい	imprisonment
+j	受動	じゅどう	passivity
+j	受命	じゅめい	命令を受けること。
+j	受容	じゅよう	reception, acceptance
+j	受授	じゅじゅ	相手から何かを受け取り、相手にも何かを渡すこと。授…
+j	受援	じゅえん	援助や支援を受け入れること。
+j	受法	じゅほう	弟子が師から仏法を受けること。
+j	受灌	じゅかん	灌頂を受けること。
+j	受益	じゅえき	benefitting by
+j	受禅	じゅぜん	帝位を譲り受けて即位すること。
+j	受福	じゅふく	福を受けること。
+j	受粉	じゅふん	花粉がおしべの先の柱頭につくこと。
+j	受精	じゅせい	fertilization
+j	受給	じゆきふ	collection of a payment
+j	受肉	じゅにく	Incarnation (incarnation …
+j	受肉	じゆにく	Incarnation (incarnation …
+j	受胎	じゅたい	conception; fertilization
+j	受託	じゅたく	receiving in trust, espec…
+j	受話器	じゅわき	telephone receiver
+j	受諾	じゅだく	acceptance
+j	受諾	じゆだく	acceptance
+j	受講	じゅこう	attending lectures or tak…
+j	受贈	じゅぞう	贈られた物を受け入れること。
+j	受贓	じゅぞう	不正な手段で得た金品をもらい受けること。
+j	受難	じゅなん	suffering; hardship; agony
+j	受電	じゅでん	act of receiving electric…
+j	受験	じゅけん	taking an exam, especiall…
+j	叙する	じょする	言葉で書き表す。
+j	叙事詩	じょじし	epic poetry
+j	叙報	じょほう	報賞すること。
+j	叙法	じょほう	叙述（表現）の仕方。
+j	叙等	じょとう	官吏に等級を与えること。
+j	叙説	じょせつ	順序立て言葉で説明すること。
+j	叙鈞	じょきん	計器。
+j	叙階	じょかい	カトリック教会で司教、司祭、助祭など聖職者の位を授…
+j	呪印	じゅいん	a cursed seal, stamp or i…
+j	呪文	じゅもん	an incantation, a spell, …
+j	呪殺	じゅさつ	呪い殺すこと。
+j	呪法	じゅほう	ritual where incantations…
+j	呪法	じゅほふ	ritual where incantations…
+j	呪物	じゅぶつ	超自然的な呪力をもち、神聖な物として見なされるもの。
+j	呪縛	じゅばく	a magical binding, spellb…
+j	呪願	じゅがん	法会や食事の際に施主の願意を述べ、仏、菩薩の加護を…
+j	咒文	じゅもん	
+j	咒縛	じゅばく	
+j	地の文	じのぶん	the non-conversational de…
+j	地上げ屋	じあげや	a real estate dealer who …
+j	地下人	じげにん	殿上を許されていない者。地下。地下家。
+j	地下人	じげびと	殿上を許されていない者。地下。地下家。
+j	地借	じしゃく	江戸時代で、主に家屋を建てるために土地を借りること…
+j	地団駄	じだんだ	furiously stamping one's …
+j	地境	じざかい	border, boundary
+j	地客	じきゃく	地元の客。
+j	地形	じぎょう	terrain, geographical fea…
+j	地性	じしょう	土地の状態や質。
+j	地滑り	じすべり	landslide
+j	地辷り	じすべり	地滑りの別形。
+j	地震	じぶるい	an earthquake
+j	地震波	じしんは	seismic wave
+j	地骨皮	じこっぴ	dried root-bark of Lycium…
+j	地鼠	じねずみ	a Dsinezumi shrew (Crocid…
+j	地鼠	ジネズミ	a Dsinezumi shrew (Crocid…
+j	城下	じゃうか	area below a castle
+j	城下	じょうか	area below a castle
+j	城地	じょうち	城郭と領地。
+j	城堡	じょうほ	城と砦。
+j	城趾	じょうし	城郭またはそれに付属した施設の跡。しろあと。
+j	城都	じょうと	都。都市。都会。
+j	城野	じょうの	a surname
+j	場裏	じょうり	その物事が行われている範囲の内側。
+j	場裡	じょうり	その物事が行われている範囲の内側。
+j	塵世	じんせい	the human world
+j	塵俗	じんぞく	穢れた俗世。俗世間。また、そこに住む人。
+j	塵刹	じんせつ	塵のように国土の数が多いこと。
+j	塵劫	じんこう	「塵点劫」の略。
+j	塵劫	じんごう	「塵点劫」の略。
+j	塵労	じんろう	煩悩。
+j	塵囂	じんごう	俗世間が汚なく、うるさいこと。また、そのような世間。
+j	塵垢	じんこう	（じんこう）ちりとあか。よごれ。
+j	塵寰	じんかん	穢れた世界。俗世間。
+j	塵巷	じんこう	人が群集する街。巷。
+j	塵氛	じんぷん	汚れた空気。
+j	塵点	じんてん	塵点劫における、世界を微塵に砕いた塵の一粒。
+j	塵点	じんでん	塵点劫における、世界を微塵に砕いた塵の一粒。
+j	塵累	じんるい	俗世間の煩わしい事柄。
+j	塵縁	じんえん	世俗の煩わしいつながり。
+j	塵肺	じんはい	pneumoconiosis
+j	塵肺	じんぱい	pneumoconiosis
+j	塵芥	じんかい	trash, rubbish
+j	塵芥	じんがい	trash, rubbish
+j	塵面	じんめん	汚れた顔。汚い顔。
+j	塵顔	じんがん	汚れた顔。汚い顔。
+j	塾歌	じゅくか	塾を代表する歌。
+j	壌土	じょうど	土。土壌。土地。
+j	壬寅	じんいん	Water Tiger, the thirty-n…
+j	壬申	じんしん	Water Monkey, the ninth t…
+j	壬辰	じんしん	Water Dragon, the twenty-…
+j	壽聯	じゅれん	寿聯の旧字体表記。
+j	女クラ	じょくら	female-only classroom
+j	女クラ	じょクラ	female-only classroom
+j	女仙	じょせん	女性の仙人。
+j	女会	じょかい	姦通、近親相姦など批判や処罰を受けるような男女関係。
+j	女体	じょたい	female body
+j	女優	じょゆう	female actor, actress
+j	女功	じょこう	機織りや裁縫など女性の手仕事。女紅。
+j	女友	じょゆう	female friend
+j	女声	じょせい	female voice
+j	女婿	じょせい	a son-in-law (husband of …
+j	女学	じょがく	education for girls
+j	女官	じょかん	a lady-in-waiting at court
+j	女工	じょこう	工場や作業場などで働く女性の工員。
+j	女帝	じょてい	an empress regnant, espec…
+j	女性	じょせい	a woman (adult female per…
+j	女戒	じょかい	女色についての戒め。
+j	女権	じょけん	women's rights
+j	女王	じょおう	a Japanese prince's unmar…
+j	女玩	じょがん	女の子向けの玩具。
+j	女生	じょせい	schoolgirl
+j	女皇	じょこう	empress, queen
+j	女真	じょしん	Jurchen; Jurchens (a Tung…
+j	女礼	じょれい	女性として身に付けて置くべき礼儀作法。
+j	女神	じょしん	a goddess (female deity)
+j	女系	じょけい	女性が継承する系統。
+j	女紅	じょこう	機織りや裁縫など女性の手仕事。女功。
+j	女衒	じょけん	someone who professionall…
+j	女衒	じょげん	someone who professionall…
+j	女装	じょそう	women's clothing; wearing…
+j	女装子	じょそこ	male-to-female crossdress…
+j	女見	じょけん	女を遊女屋や旅籠屋に売ることを生業とした人。
+j	女見	じょげん	女を遊女屋や旅籠屋に売ることを生業とした人。
+j	女誡	じょかい	女性についての戒め。
+j	女郎	じょうろ	young woman
+j	女郎	じょろう	young woman
+j	女陰	じょいん	female genitalia; vulva
+j	如今	じょこん	now; the present
+j	如同	じょどう	同じ様子であること。同じようにすること。
+j	如才	じょさい	手落ち。手抜かり。
+j	如月	じょげつ	the second month of the l…
+j	如雨露	じょうろ	散水や草木への水やりなどに使われる水などをためる部…
+j	如露	じょうろ	如雨露
+j	娘子	じょうし	娘。少女。
+j	嫋娜	じょうだ	裊娜。
+j	嫦娥	じやうが	Chang'e, the Chinese godd…
+j	嫦娥	じょうが	Chang'e, the Chinese godd…
+j	字余り	じあまり	having greater than expec…
+j	字形	じぎょう	the form or shape of a ch…
+j	字性	じしょう	文字の形。
+j	字脚	じきゃく	字の下体。
+j	字足らず	じたらず	短歌、俳句などで五音の句が四音以下、七音の句が六音…
+j	字送り	じおくり	a carriage return (The ac…
+j	字釈	じしゃく	字の意義を解釈すること。また、その解釈。
+j	孺人	じゅじん	中国で大夫の妻に対する敬語。
+j	孺嬰	じゅえい	赤ん坊。乳児。
+j	定府	じょうふ	江戸時代、幕府に仕える大名などが参勤交代せずに江戸…
+j	定木	じょうぎ	直線または曲線などの線を描くための用具。
+j	定規	じょうぎ	straightedge (instrument …
+j	実	じつさき	fruit (a product of ferti…
+j	実キロ	じっきろ	鉄道路線の実際の延長をキロメートルで表したもの。営…
+j	実伝	じつでん	その人についての実際の伝記。
+j	実体	じったい	substance; entity
+j	実体	じってい	substance; entity
+j	実体	じつたい	substance; entity
+j	実作	じっさく	the actual production of …
+j	実例	じつれい	example; illustration
+j	実働	じつどう	actual work
+j	実像	じつぞう	real image; one's real li…
+j	実兄	じっけい	one's own elder brother
+j	実写	じっしゃ	on-the-spot filming or ph…
+j	実刑	じっけい	jail sentence; gaol sente…
+j	実券	じっけん	a ticket (such as exchang…
+j	実効	じっこう	practical effect; efficac…
+j	実効	じつかう	practical effect; efficac…
+j	実動	じつどう	実際に機械などを運転すること。
+j	実務家	じつむか	person with a head for bu…
+j	実勢	じっせい	actual condition
+j	実包	じっぽう	ball cartridge
+j	実印	じついん	officially registered seal
+j	実名	じつめい	real name
+j	実員	じついん	actual number of people
+j	実在	じつざい	existence; reality
+j	実妹	じつまい	biological younger sister…
+j	実存	じつぞん	existence
+j	実学	じつがく	practical studies; applie…
+j	実害	じつがい	actual harm
+j	実射	じっしゃ	firing live shells
+j	実弟	じってい	one's (biological) younge…
+j	実弾	じつだん	live bullets; live ammuni…
+j	実形	じっけい	実際の姿形。ありのままの形。
+j	実感	じっかん	actual feeling
+j	実態	じったい	real situation; the reali…
+j	実戦	じっせん	actual combat
+j	実才	じっさい	実務を処理する能力。
+j	実数	じっすう	a real number (limit of a…
+j	実明	じつめい	正直でまじめなこと。また、そのようなさま。実直。
+j	実景	じっけい	actual view
+j	実月	じつつき	
+j	実株	じつかぶ	shares actually traded
+j	実根	じっこん	real root
+j	実検	じっけん	checking; inspecting
+j	実権	じっけん	real power; real authority
+j	実法	じっぽう	永遠に不変なものとして実在するもの。
+j	実測	じっそく	survey; actual measuremen…
+j	実演	じつえん	demonstration (showing ho…
+j	実物	じつぶつ	real thing; original
+j	実現	じつげん	implementation; materiali…
+j	実用	じつよう	practical use; utility
+j	実益	じつえき	actual profit; practical …
+j	実相	じっそう	the reality; the truth; t…
+j	実相	じつさう	the reality; the truth; t…
+j	実積	じっせき	実際の面積。
+j	実算	じっさん	〔厳密な値を求める計算ではなく〕近似値を求める計算…
+j	実系	じっけい	自然の血縁による系統。直系と傍系に分けられる。
+j	実線	じっせん	solid line
+j	実線	じつせん	solid line
+j	実績	じっせき	achievements; actual resu…
+j	実者	じっしゃ	神仏や霊がそのままの姿で出現したもの。
+j	実行	じっこう	practice
+j	実行	じつかう	practice
+j	実装	じっそう	package; implementation; …
+j	実見	じっけん	seeing with one's own eye…
+j	実親	じっしん	true parents (i.e. biolog…
+j	実親	じつおや	true parents (i.e. biolog…
+j	実解	じっかい	方程式の解のうち、実数であるもの。
+j	実説	じっせつ	true story
+j	実質	じっしつ	substance; essence
+j	実跡	じっせき	物事が行われた確かな形跡。
+j	実践	じっせん	practice
+j	実車	じっしゃ	occupied taxi
+j	実軸	じつじく	複素数平面で実部を表す軸。
+j	実道	じつどう	真の正しい道。
+j	実釣	じつてう	personally fishing
+j	実銘	じつめい	正直でまじめなこと。また、そのようなさま。実直。
+j	実録	じつろく	authentic account
+j	実際	じっさい	practice (as opposed to t…
+j	実需	じつじゅ	actual demand; user demand
+j	実音	じつおん	放送などで擬音ではない実際の音声。
+j	実額	じつがく	実際に必要とする（または使用した）金額。
+j	実験	じっけん	experiment
+j	實錄	じつろく	
+j	寺牒	じちょう	寺院から官庁に差し出す公文書。
+j	寺領	じりょう	寺院が有する領地。
+j	寿像	じゅぞう	存命中につくる肖像の彫刻や絵。
+j	寿宴	じゅえん	長寿を祝う宴会。
+j	寿星	じゅせい	カノープス。南極星。
+j	寿永	じゅえい	the Juei era, 1182-1184
+j	寿聯	じゅれん	長寿の祝聯。
+j	寿蔵	じゅぞう	自分が生きている間につくる墓。
+j	寿酒	じゅしゅ	長寿を祝う酒。
+j	寿限無	じゅげむ	a 古典落語 (koten rakugo, “ra…
+j	寿齢	じゅれい	長寿。長命。
+j	射礼	じゃらい	かつて一月十七日に内裏建礼門の門前で行われた弓射の…
+j	尋問	じんもん	questioning, interrogation
+j	尋幽	じんゆう	尋勝。尋景。
+j	尋景	じんけい	景色を訪うこと。
+j	尋玩	じんがん	玩味。
+j	尽勤	じんきん	尽くすこと。
+j	尽善	じんぜん	善を尽くすこと。
+j	尽夕	じんせき	終夜。
+j	尽日	じんじつ	月の末日。
+j	尽瘁	じんすい	自分の労苦を顧みることなく、全力を尽くすこと。尽力。
+j	尽竭	じんけつ	尽くすこと。
+j	尽言	じんげん	心中のことを憚らず全て言うこと。また、その言葉。
+j	巡夜	じゅんや	夜間の巡回をすること。夜警。
+j	巡査	じゅんさ	police officer (lowest po…
+j	巡視	じゅんし	patrol, inspection tour
+j	常備	じやうび	keeping something ready a…
+j	常備	じょうび	keeping something ready a…
+j	常務	じょうむ	everyday business, everyd…
+j	常座	じょうざ	きまった人がすわる座席。
+j	常時	じょうじ	done always, continuously…
+j	常歩	じょうほ	馬かゆっくりと一定の速さで歩くこと。
+j	常理	じょうり	普通、不変の道理。
+j	常置	じょうち	常に設置しておくこと。
+j	常語	じょうご	普段使用している言葉。
+j	常費	じょうひ	日常の活動に必要な費用、経費。
+j	常軌	じやうき	the normal way of doing s…
+j	常軌	じょうき	the normal way of doing s…
+j	序列	じょれつ	ranking, hierarchy
+j	序奏	じょそう	楽曲の主要な部分に入る前の導入部分。イントロダクシ…
+j	序室	じょしつ	教室。
+j	序幕	じょまく	opening act
+j	序数	じょすう	ordinal number
+j	序文	じょぶん	preface, foreword
+j	序盤	じょばん	opening
+j	序言	じょげん	序として述べる言葉。前書き。
+j	序説	じょせつ	本論に入る前書きとしての論説。
+j	序論	じょろん	論説の冒頭にこれから述べる内容の概要を述べたもの。
+j	序跋	じょばつ	preface and postscript
+j	弱化	じゃっか	weakening
+j	弱視	じゃくし	weak sight
+j	弱視	じやくし	weak sight
+j	弱起	じゃっき	楽曲が小節の拍の弱い部分から始まること。
+j	徐徐	じょじょ	little by little, slowly,…
+j	徐疾	じょしつ	遅いことと速いこと。遅いか速いか。速度の大小。
+j	徐行	じょこう	slow walking
+j	従事	じゅうじ	engagement in something
+j	従位	じゅうい	位階の同一等級を二分した時の下位。
+j	従坐	じゅうざ	「従座」の別表記。
+j	従士	じゅうし	ある者に付き従う武士。
+j	従婢	じゅうひ	召し使いの女性。
+j	従座	じゅうざ	連座すること。
+j	恕実	じょじつ	忠実なこと。また、そのようなさま。
+j	恕暴	じょぼう	寛厳。
+j	情事	じょうじ	love affair (an adulterou…
+j	情夫	じょうふ	a male lover, a male flin…
+j	情婦	じょうふ	a female lover, a female …
+j	情宜	じょうぎ	親しみ。馴染み。よしみ。
+j	情歌	じやうか	love song
+j	情歌	じょうか	love song
+j	情死	じょうし	lovers' suicide, double s…
+j	情火	じょうか	激しく燃え上がる情欲。
+j	情理	じょうり	both emotion and reason
+j	情痴	じょうち	理性を失うまで色情に溺れること。
+j	情義	じょうぎ	人情と義理。
+j	情致	じょうち	趣。風致。風情。
+j	情話	じょうわ	人情のこもった話。
+j	情誼	じょうぎ	親しみ。馴染み。よしみ。
+j	惇也	じゅんや	a male given name
+j	惹句	じゃっく	catchphrase
+j	慈奨	じしょう	慈愛ある天子の励まし。
+j	慈恤	じじゅつ	同情して可愛がること。慈しむこと。
+j	慈悲心	じひしん	慈悲の心。
+j	慈石	じしゃく	「磁石」の異表記。古代中国で使用されていた表記。
+j	慈祥	じしょう	慈しみ深く、善良であること。
+j	慈鳥	じちょう	crow, raven
+j	戍守	じゅしゅ	辺境を防ぎ守ること。また、その人。守戍。
+j	戎備	じゅうび	合戦の備え。軍備。
+j	戎具	じゅうぐ	軍事で使用する器具や道具。武具。兵器。
+j	戎夷	じゅうい	周辺の未開の土地や国。また、そこに暮らす民族。えび…
+j	戎衣	じゅうい	military clothing
+j	戎衣	じゆうい	military clothing
+j	戯れる	じゃれる	to play; to sport; to jok…
+j	承和	じょうわ	the Jōwa era, 834-848
+j	抒軸	じょじく	
+j	拾得	じっとく	picking up; finding
+j	持久	じきゅう	stamina; endurance
+j	持病	じびょう	incurable affliction; chr…
+j	持重	じちょう	慎重にすること。
+j	授受	じゅじゅ	giving and receiving; exc…
+j	授官	じゅかん	官職、官位を授けること。
+j	授手	じゅしゅ	仏、菩薩が衆生を救済するため、手を差し伸べること。
+j	授精	じゅせい	insemination, fertilizati…
+j	揉搓	じゅうさ	揉み解すこと。揉捏。
+j	攘夷	じやうい	expulsion of the foreigne…
+j	攘夷	じょうい	expulsion of the foreigne…
+j	攘臂	じょうひ	腕捲りすること。
+j	数珠	じゅじゅ	prayer beads
+j	日域	じちいき	太陽の照らす地域。転じて、天下。
+j	日域	じついき	太陽の照らす地域。転じて、天下。
+j	日外	じつがい	かつて。いつぞや。
+j	日星	じっせい	太陽と星。
+j	日月	じつげつ	sun and moon
+j	日本	じっぽん	Japan (ellipsis of 日本国 (N…
+j	日来	じつらい	日頃。普段。平生。
+j	時宗	じしゅう	日本の浄土教の仏教宗派の一つ。鎌倉時代の僧一遍によ…
+j	時尚	じしょう	その時代の好み。
+j	時局	じきょく	the current political sit…
+j	時差ぼけ	じさぼけ	jet lag
+j	時料	じりょう	その時々に必要となる費用。
+j	時正	じしょう	一日の昼夜の時間が同じであること。また、その日。春…
+j	時流	じりゅう	fashion, trend, currents …
+j	時潤	じじゅん	時雨。
+j	時潮	じちょう	その時代の風潮。
+j	時病	じびょう	時代時代における悪弊。
+j	時称	じしょう	その時代の人々が褒め称えること。
+j	時給	じきゅう	hourly wage
+j	時評	じひょう	社会で起きている出来事に関する評論。
+j	時鐘	じしょう	時刻を知らせる鐘。
+j	時間差	じかんさ	複数のことが行われる時間の差。
+j	杖屨	じょうく	杖と履物。
+j	条播	じょうは	畑に平行の畝を作り、そこに等間隔に種子を蒔くこと。
+j	条支	じょうし	古代中国におけるシリアの呼称。
+j	条派	じょうは	支流。
+j	条理	じょうり	logic; reasoning
+j	条規	じょうき	法令などの条文で定めた規定や規則。
+j	条里	じょうり	土地の区画。
+j	杼軸	じょじく	conception (of a piece of…
+j	柔皮	じゅうひ	鞣してやわらかくした皮。
+j	柔軟	じうなん	flexible
+j	柔道	じうだう	judo
+j	條理	じょうり	
+j	樹人	じゅじん	人材を養成すること。
+j	樹冠	じゅかん	樹木で上部の枝葉が繁っている部分。
+j	樹勢	じゅせい	樹木の育ちぶり。
+j	樹善	じゅぜん	善行。
+j	樹園	じゅえん	多くの樹木を植えた庭園。
+j	樹幹	じゅかん	tree trunk
+j	樹幹	じゆかん	tree trunk
+j	樹形	じゅけい	その樹木の全体的な外形。
+j	樹影	じゅえい	樹木の影や姿。
+j	樹徳	じゅとく	徳化を樹てること。
+j	樹木	じゅもく	tree
+j	樹林	じゅりん	a forest; woods
+j	樹根	じゅこん	樹木の根。
+j	樹洞	じゅどう	tree hollow
+j	樹海	じゅかい	sprawling and vast forest
+j	樹液	じゅえき	tree sap
+j	樹液	じゆえき	tree sap
+j	樹相	じゅそう	樹木のかたちやすがた。
+j	樹種	じゅしゅ	species/type/kind/variety…
+j	樹立	じゅりつ	establishment, foundation
+j	樹苑	じゅえん	多くの樹木を植えた庭園。
+j	樹莉亜	じゅりあ	a female given name
+j	樹蔭	じゅいん	shade of a tree
+j	樹間	じゅかん	木と木が生えている（植えてある）間隔。
+j	樹陰	じゅいん	樹木のつくる陰。木陰。
+j	樹霜	じゅそう	大気中の水蒸気が昇華して樹木の枝に付着し、結晶とな…
+j	樹高	じゅこう	height of a tree
+j	樹高	じゆかう	height of a tree
+j	樹齢	じゅれい	age of a tree
+j	次丁	じちょう	律令制で、老丁および軽い不具・病気のある男子。
+j	次世代	じせだい	next generation
+j	次回	じくわい	next time
+j	次客	じきゃく	茶会で招かれた客のうち正客の次の位の客。
+j	次将	じしょう	〔じしょう〕大将の次に位する者。
+j	次忠	じちゅう	最上（至忠）とはいえない忠義。
+j	次章	じしょう	次の章。
+j	次表	じひょう	次に掲示した図表。
+j	次週	じしゅう	next week
+j	次長	じちょう	deputy directorship; assi…
+j	次頁	じぺーじ	next page
+j	次頁	じページ	next page
+j	殉也	じゅんや	a male given name
+j	殉死	じゅんし	following one's master in…
+j	毽子	じぇんず	
+j	沈水	じんすい	【ちんすい】（サ変名詞）沈没。
+j	沈香	じんこう	agarwood
+j	治定	じじょう	落着すること。決定すること。
+j	治承	じしょう	the Jishō era, 1177-1181
+j	治暦	じりゃく	the Jiryaku era, 1065-1069
+j	治術	じじゅつ	国を治める方法。
+j	浄化	じょうか	purification; cleansing
+j	浄土	じやうど	the pure land, the celest…
+j	浄土	じょうど	the pure land, the celest…
+j	浄地	じょうち	寺社など清浄な土地。
+j	浄火	じょうか	神仏に捧げる神聖な火。
+j	淨化	じょうか	
+j	深泥	じんでい	泥が深いこと。また、そのような場所。深いぬかるみ。
+j	淳也	じゅんや	a male given name
+j	淳二	じゅんじ	a male given name
+j	淳化	じゅんか	手厚く教え、感化すること。
+j	淳司	じゅんじ	a male given name
+j	淳哉	じゅんや	a male given name
+j	淳基	じゅんき	a male given name
+j	淳子	じゅんこ	a female given name
+j	淳矢	じゅんや	a male given name
+j	渋滞	じふたい	congestion, traffic jam
+j	渋苦	じゅうく	味が渋く、苦いこと。
+j	準依	じゅんい	それを基準とし従うこと。
+j	準備	じゅんび	preparation
+j	準擬	じゅんぎ	手本、基準としてまねること。
+j	準次	じゅんじ	序次。次第。
+j	準規	じゅんき	準拠すべききまりや規則。
+j	滋潤	じじゅん	潤すこと。潤うこと。また、そのようなさま。
+j	漏斗	じやうご	a funnel (utensil used to…
+j	漏斗	じょうご	a funnel (utensil used to…
+j	潤子	じゅんこ	a female given name
+j	濡恋	じゅれん	色めいていること。濡れていること。そのさま。
+j	濡愞	じゅせん	柔弱。
+j	濡染	じゅせん	遍く潤うこと。
+j	熟す	じゅくす	
+j	熟地	じゅくち	よく肥えた土地
+j	熟字	じゅくじ	Chinese character compound
+j	熟知	じゅくち	thorough knowledge of
+j	熟視	じゅくし	じっとよく見ること。凝視すること。
+j	熟語	じゅくご	a kanji compound made by …
+j	熟議	じゅくぎ	充分にしっかりと論議を行うこと。
+j	燼灰	じんかい	もえさしと灰。また焼失すること。灰燼。
+j	燼灰	じんはい	もえさしと灰。また焼失すること。灰燼。
+j	爺婆	じじばば	elderly
+j	状日	じょうび	飛脚がもった書状が到着することが決まっている日。
+j	獣医	じゅうい	獣医師の略。
+j	獣医師	じういし	a veterinarian
+j	獣姦	じうかん	bestiality (sexual activi…
+j	獣害	じうがい	harm caused by wildlife
+j	獣皮	じゅうひ	獣類（けもの）の皮。
+j	獣脂	じゅうし	tallow
+j	珠海	じゅかい	Zhuhai (a prefecture-leve…
+j	珠理奈	じゅりな	a female given name
+j	琉球	じゅきゅ	Ryukyu
+j	甚兵衛	じんべえ	
+j	甚兵衛	じんべゑ	
+j	甚大	じんだい	serious, enormous
+j	甚寒	じんかん	非常に寒いこと。極寒。凜冽。
+j	甚平	じんべい	a sleeveless knee-length …
+j	甚緊	じんきん	緊急の事柄。
+j	甚酔	じんすい	酔っ払うこと。
+j	畳句	じょうく	文章などで同じ句を重ねて使用すること。また、その句。
+j	畳字	じょうじ	同じ漢字やかなを繰り返す際に使用する字。踊り字。
+j	痔病	じびょう	痔の病気。痔疾。
+j	直々	じきじき	personally, directly
+j	直伝	じきでん	direct teaching from mast…
+j	直堂	じきどう	禅寺で衆僧の衣鉢を当番で管理する役。
+j	直物	じきもの	商品市場で、受渡しがその場でできる商品。現物。
+j	直稲	じきとう	奈良時代から平安時代、売買で買い手が購入する物品と…
+j	直筆	じきひつ	the act of writing someth…
+j	直答	じきとう	（ちょくとう）即答すること。
+j	直箸	じかばし	directly using one's own …
+j	直置き	じかおき	placing directly on a sur…
+j	直道	じきどう	a male given name
+j	石榴	じゃくろ	pomegranate
+j	磁力	じりょく	magnetism; magnetic force
+j	磁化	じかする	magnetization (the act of…
+j	磁化率	じかりつ	magnetic susceptibility
+j	磁極	じきょく	鉄などを引き付ける力が最も強い、磁石の両端。
+j	磁気圏	じきけん	
+j	磁石	じしゃく	magnet
+j	磁石	じしやく	magnet
+j	示威	じいする	demonstration; manifestat…
+j	示寂	じじゃく	高僧が死ぬこと。
+j	示教	じきょう	具体的に示しながら教えること。
+j	神人	じんにん	a low-ranking position at…
+j	神代	じんだい	age of the gods
+j	神力	じんりき	神の霊妙な力。
+j	神大	じんだい	
+j	神官	じんかん	Shinto priest
+j	神官	じんがん	Shinto priest
+j	神宮	じんぐう	a building that enshrines…
+j	神楽	じんらく	sacred dancing and music …
+j	神民	じんみん	神社に属する下級神職や民。神人。
+j	神水	じんすい	神前に供える水。
+j	神水	じんずい	神前に供える水。
+j	神皇	じんのう	神代の天皇と神武天皇以後の天皇。
+j	神社	じんじゃ	a shrine, especially a Sh…
+j	神社	じんじや	a shrine, especially a Sh…
+j	神通	じんずう	a superpower, a divine or…
+j	神通	じんつう	a superpower, a divine or…
+j	神通	じんづう	a superpower, a divine or…
+j	禸部	じゅうぶ	部首「⽱」で分類した漢字の一群。
+j	穠緻	じょうち	細やかで美しいさま。
+j	穣二	じょうじ	a male given name
+j	竺学	じくがく	the study of Buddhism
+j	紓放	じょほう	免除すること。
+j	純乎	じゅんこ	純粋なさま。
+j	純也	じゅんや	a male given name
+j	純利	じゅんり	
+j	純化	じゅんか	純粋なものにすること。
+j	純司	じゅんじ	a male given name
+j	純子	じゅんこ	a female given name
+j	純次	じゅんじ	a male given name
+j	純矢	じゅんや	a male given name
+j	純美	じゅんび	純粋で美しいさま。
+j	絨衣	じゅうい	羅紗でできた衣服。
+j	絮叨	じょとう	多弁なさま。
+j	絮巾	じょきん	綿帽子。
+j	絮帽	じょぼう	綿帽子。
+j	絮袍	じょほう	綿入れ。
+j	絮襖	じょおう	綿の入った上着。
+j	縄河	じょうが	銀河。
+j	縄矩	じょうく	墨縄とさしがね。
+j	縦恣	じゅうし	好き勝手に振る舞うこと。
+j	縦波	じゅうは	a longitudinal wave
+j	耳下腺	じかせん	parotid gland
+j	耳標	じひょう	家畜の個体識別を容易にするために耳につける標識。
+j	耳順	じじゅん	60歳の異称。
+j	耳食	じしょく	人から聞いたことを鵜呑みにして信用する。
+j	耳鼻科	じびくわ	耳鼻咽喉科の略称。
+j	耳鼻科医	じびかい	an otorhinolaryngologist,…
+j	聚洛	じゅらく	人が集まる都。
+j	聚落	じゅらく	人が集まって住んでいる所。
+j	腎囊	じんのう	陰嚢。
+j	腎水	じんすい	精液。
+j	腎炎	じんえん	急性または慢性でおこる腎臓の炎症。腎臓炎。
+j	腎癌	じんがん	腎臓にできる癌。腎臓癌。
+j	腎盤	じんばん	腎盂。
+j	腎管	じんかん	無脊椎動物の排出器官。体内の排泄物はらっぱのような…
+j	腎臓	じんざう	kidney
+j	腎臓	じんぞう	kidney
+j	腎薬	じんやく	漢方で滋養強壮、精力増進の薬。
+j	自乗	じじょう	squaring
+j	自供	じきょう	confession
+j	自信家	じしんか	person who has great conf…
+j	自修	じしゅう	自分で学問を身に付けること。
+j	自傷	じしやう	self-harm; self-mutilation
+j	自傷	じしょう	self-harm; self-mutilation
+j	自分で	じぶんで	
+j	自分の	じぶんの	
+j	自動の	じどうの	
+j	自動化	じどうか	automation
+j	自動詞	じどうし	intransitive verb
+j	自嘲	じちょう	self-ridicule
+j	自国の	じこくの	
+j	自国語	じこくご	
+j	自堕落	じだらく	self-indulgent; undiscipl…
+j	自家用	じかよう	（営業用ではなく）自分の家（個人）として使用するこ…
+j	自家製	じかせい	something homemade
+j	自己愛	じこあい	narcissism; self-love
+j	自己満	じこまん	
+j	自性	じしょう	物の本来備わっている性質。
+j	自意識	じいしき	self-conscious, self-cons…
+j	自慢の	じまんの	
+j	自慰	じいする	self-consolation, making …
+j	自明な	じめいな	
+j	自明の	じめいの	
+j	自来也	じらいや	Jiraiya
+j	自死	じしする	suicide
+j	自死する	じしする	
+j	自殖	じしょく	一つの個体の中に生じた生殖細胞によって行う生殖。
+j	自治会	じちかい	大学、学校に在籍する学生、生徒、児童が共同生活を自…
+j	自治体	じちたい	municipality, local gover…
+j	自注	じちゅう	自作の詩文や作品に自分で注釈すること。また、その注…
+j	自流	じりゅう	自分なりの流儀。自己流。
+j	自浄	じじょう	海洋や河川、大気が人の手を借りずに自らの作用により…
+j	自火報	じかほう	
+j	自照	じしょう	自分自身を省みて深く観察すること。
+j	自玉	じぎょく	自分の王将または玉将。
+j	自生地	じせいち	ある植物が自然の環境のもとで発生、生育している土地。
+j	自由な	じゆうな	
+j	自由化	じゆうか	liberalization
+j	自由度	じゆうど	flexibility
+j	自由詩	じゆうし	free verse
+j	自画像	じがぞう	自らを描いた絵画。
+j	自称	じしょう	self-styled; self-proclai…
+j	自立語	じりつご	an autonomous/independent…
+j	自粛	じしゅく	self-restraint, voluntary…
+j	自給	じきゅう	self-sustenance
+j	自習	じしゅう	self-study; teaching ones…
+j	自色	じしょく	その鉱物固有の色。不純物で着色されてない色。
+j	自若	じじゃく	self-possessed; composed;…
+j	自若	じじやく	self-possessed; composed;…
+j	自虐	じぎゃく	torment of oneself
+j	自虐	じぎやく	torment of oneself
+j	自行	じぎやう	sadhana doing by oneself
+j	自行	じぎょう	sadhana doing by oneself
+j	自註	じちゅう	自作の詩文や作品に自分で注釈すること。また、その注…
+j	自証	じしょう	他に頼らず、自力で悟りを開くこと。
+j	自評	じひょう	自分で自作の物を評価すること。
+j	自負	じふする	self-confidence
+j	自販機	じはんき	自動販売機の略。
+j	自身で	じしんで	
+j	自身の	じしんの	
+j	自酌	じしゃく	自分で自分の杯に酒を注ぐこと。
+j	自重	じじゅう	one's own weight
+j	自重	じちょう	one's own weight
+j	自重	じぢゆう	one's own weight
+j	自順	じじゅん	従うこと。
+j	自食	じしょく	自分一人の能力で生活すること。自活。
+j	舒懐	じょかい	心に思っていることを述べること。述懐。
+j	舒疾	じょしつ	遅速。
+j	荀子	じゅんし	Xunzi
+j	草履	じやうり	a type of flat, thonged s…
+j	草履	じょうり	a type of flat, thonged s…
+j	草履	ジヤウリ	a type of flat, thonged s…
+j	草履	ジョウリ	a type of flat, thonged s…
+j	荏苒	じんぜん	段段と月日の経つこと。
+j	蒸機	じょうき	蒸気機関車。
+j	蒸気	じょうき	vapor; gas
+j	蒸氣	じょうき	
+j	蔘精	じんせい	ginseng extract
+j	薯蕷	じょうよ	synonym of 長芋 (nagaimo, “…
+j	蛇の目	じゃのめ	a black circle circled by…
+j	蛇口	じゃぐち	a tap; a faucet
+j	蛇性	じゃせい	蛇の性質。また、蛇のような性質。
+j	蛇淫	じゃいん	蛇と姦淫すること。
+j	蛇神	じゃしん	蛇の姿をしたり、蛇を依り代、化身とする神。
+j	蛇管	じゃかん	放熱や吸熱の効率を高めるため表面積を広げ、螺旋状に…
+j	蛇腹	じゃばら	蛇の腹部のような形状や模様。
+j	蛇舌	じゃぜつ	高御座の帽額の内側にさげた短冊のような薄金の飾り。
+j	蛇行	じゃこう	winding, meander
+j	蛇身	じゃしん	蛇の姿。蛇の形。蛇の体。
+j	蛇道	じゃどう	死後、蛇身に生まれ変わるとされる世界。
+j	術後	じゅつご	postoperative
+j	術智	じゅっち	技術と知恵。計略と才知。
+j	術知	じゅっち	技術と知恵。計略と才知。
+j	術語	じゅつご	term; terminology
+j	衽席	じんせき	寝床。敷物。
+j	裊娜	じょうだ	靭やかなさま。
+j	裊朶	じょうだ	裊娜。
+j	襦袢	じゅばん	a lightweight under-robe …
+j	襦袢	ジュバン	a lightweight under-robe …
+j	訊罪	じんざい	糾問すること。
+j	訊責	じんせき	責問すること。
+j	訊馘	じんかく	捕虜（訊）と討ち取った者から切り取った耳（馘）。
+j	誦呪	じゅじゅ	仏事で陀羅尼を唱えること。
+j	誦文	じゅもん	呪文、頌文を唱えること。また、その文。
+j	譲二	じょうじ	a male given name
+j	譲位	じょうい	君主、天皇がその位を次の者に譲ること。
+j	譲司	じょうじ	a male given name
+j	譲歩	じやうほ	concession; compromise
+j	譲歩	じょうほ	concession; compromise
+j	譲治	じょうじ	a male given name
+j	譲渡	じょうと	surrender
+j	貞和	じょうわ	the Jōwa era, 1345–1350 b…
+j	貞治	じょうじ	the Jōji era, 1262–1268 b…
+j	軸受	じくうけ	
+j	軸唇	じくしん	columellar lip
+j	軸棒	じくぼう	
+j	軸椎	じくつい	an axis (second cervical …
+j	軸索	じくさく	axon (a nerve fibre)
+j	軸足	じくあし	pivot foot (the foot arou…
+j	軸距	じくきょ	前の車軸と後ろの車軸の距離。最遠軸距。隣接軸距。軸…
+j	辞儀する	じぎする	
+j	辞却	じきゃく	辞退すること。
+j	辞職	じしょく	resignation
+j	辞色	じしょく	言葉（話し口）と顔色。
+j	辞表	じひょう	resignation letter
+j	辞譲	じじょう	謙遜して他のひとに譲ること。
+j	辱知	じょくち	知り合いであることの謙譲語。
+j	迅瀬	じんらい	流れが速い瀬。
+j	迅節	じんせつ	急調。
+j	迅走	じんそう	速く走ること。疾走。
+j	迅速	じんそく	rapid, quick, prompt
+j	迅雷	じんらい	thunderclap
+j	述語	じゅつご	predicate
+j	述語	ジュツゴ	predicate
+j	述辞	じゅつじ	
+j	述部	じゅつぶ	複数の文節で述語として働く文の成分。
+j	邪径	じゃけい	よこしまな道。不正な心や行為。
+j	邪心	じゃしん	evil heart; evil design
+j	邪性	じゃせい	性悪。
+j	邪恋	じゃれん	道ならぬ恋。道義から外れた恋愛。
+j	邪悪	じゃあく	wicked; evil; malicious
+j	邪慳	じゃけん	慈悲の心が無く、物事を荒く扱うこと。意地が悪いこと。
+j	邪推	じゃすい	間違った推測をすること。ひがみ、悪く推量すること。
+j	邪正	じゃせい	邪なことと正しいこと。
+j	邪淫	じゃいん	仏教で夫婦以外での性行為。また、夫婦間においてもし…
+j	邪眼	じゃがん	
+j	邪神	じゃしん	a wicked god
+j	邪祟	じゃすい	邪な祟り。
+j	邪菑	じゃさい	災い。
+j	邪見	じゃけん	因果の道理を無視した不正な見方。
+j	邪計	じゃけい	よこしまな計略。奸計。
+j	邪説	じゃせつ	よこしまな説。不正な説。
+j	邪道	じゃどう	evil path
+j	邪道	じやだう	evil path
+j	邪険	じゃけん	cruel and ruthless
+j	邪険	じやけん	cruel and ruthless
+j	醇乎	じゅんこ	純粋なさま。
+j	醇化	じゅんか	教え感化すること。
+j	醇美	じゅんび	こまやか、素朴で美しいさま。
+j	醸家	じょうか	味噌、醤油、酒などを醸造する家。
+j	重事	じゅうじ	重大なこと。重大な事業や事件。大事。
+j	重囲	じゅうい	act of surrounding or enc…
+j	重固	じゅうこ	堅固。
+j	重土	じゅうど	粘土質の土壌で耕作に適さない土地。重粘土。
+j	重度	じゅうど	severity, seriousness
+j	重機	じゅうき	heavy machinery; heavy eq…
+j	重油	じゅうゆ	fuel oil, heavy oil; bunk…
+j	重痼	じゅうこ	重病。
+j	重祚	じゅうそ	一度退位した天皇が再び即位すること。更位。
+j	重苦	じゅうく	堪え難い苦しみ。
+j	重荷	じゅうか	heavy burden, heavy respo…
+j	重視	じゅうし	value, esteem, respect, s…
+j	金門	じんめん	金でつくられた門。金色の門。
+j	銃士	じゅうし	a musketeer
+j	銃座	じゅうざ	射撃の際、銃を据える台。
+j	銃後	じゅうご	home front (civilian sphe…
+j	銃後	じゆうご	home front (civilian sphe…
+j	銃架	じゅうか	小銃を立て掛けるための台。
+j	銃火	じゅうか	gunfire
+j	鋤掊	じょほう	梳き取ること。
+j	鋤犁	じょれい	「鋤犂」の別表記。
+j	鋤犂	じょれい	鋤。
+j	鋤簾	じょれん	rake and winnow-like inst…
+j	鋤簾	じよれん	rake and winnow-like inst…
+j	鋤骨	じょこつ	a vomer bone
+j	鑲牙	じょうが	義歯。
+j	閏位	じゅんい	正統でない王位。
+j	陣する	じんする	陣を敷く。陣所を設営する。
+j	陣代	じんだい	主君の代理として戦場に赴き、軍務をとった者。
+j	陣僧	じんそう	日本の中世、武士とともに陣に赴き、死者の菩提を弔っ…
+j	陣内	じんない	陣屋の中。陣地の中。
+j	陣卒	じんそつ	兵卒。
+j	陣参	じんさん	陣所に参上すること。
+j	陣取る	じんどる	take up a position
+j	陣営	じんえい	military camp
+j	陣外	じんがい	陣屋の外。陣地の外。
+j	陣所	じんしょ	陣屋。陣営。
+j	陣痛	じんつう	labour pain
+j	陣立て	じんだて	戦場における陣の配置や編制の構え方。
+j	陣貝	じんがい	a Triton's trumpet (Charo…
+j	陣鉦	じんがね	戦場で進退の合図のために鳴らした銅鑼または半鐘。
+j	陣鐘	じんがね	戦場で進退の合図のために鳴らした銅鑼または半鐘。
+j	陣陣	じんじん	それぞれの陣。
+j	除亡	じょぼう	死亡すること。
+j	除伐	じょばつ	若い植林で不要な樹木を切って除くこと。
+j	除去	じょきょ	removal, elimination, dis…
+j	除号	じょごう	割り算（除法）を表す記号。÷。
+j	除名	じょめい	expulsion, excommunication
+j	除喪	じょそう	服喪の期間があけること。また、きりあげること。
+j	除塩	じょえん	土壌に含まれる塩分を取り除くこと。特に塩分を含んで…
+j	除外	じょがい	exclusion
+j	除害	じょがい	害となるものを除去すること。
+j	除幕	じょまく	unveiling
+j	除放	じょほう	免除すること。
+j	除数	じょすう	divisor
+j	除日	じょじつ	大晦日。
+j	除染	じょせん	decontamination, especial…
+j	除毒	じょどく	毒を取り除くこと。
+j	除毛	じょもう	hair removal
+j	除法	じょほう	division
+j	除湿	じょしつ	dehumidification
+j	除災	じょさい	災禍、災厄を除くこと。
+j	除熱	じょねつ	removal of heat
+j	除疾	じょしつ	治療すること。
+j	除算	じょさん	division
+j	除算	じょざん	division
+j	除籍	じょせき	removal of a name from th…
+j	除糞	じょふん	feces / dropping removal
+j	除肉	じょにく	flesh removal
+j	除草	じょそう	weeding (removal of weeds)
+j	除菌	じょきん	elimination of bacteria
+j	除隊	じょたい	discharge from the milita…
+j	除雪	じょせつ	snow removal
+j	除霊	じょれい	人などに取り憑いた霊を取り除くこと。
+j	雀士	じゃんし	mahjong player
+j	雀士	ジャンし	mahjong player
+j	雀羅	じゃくら	sparrow net
+j	集諦	じったい	つきない欲望が苦を生起させているという真理。苦しみ…
+j	需品	じゅひん	supplies
+j	需要	じゅよう	need; requirement
+j	需要	じゆえう	need; requirement
+j	需銓	じゅせん	調査。
+j	靭帯	じんたい	ligament
+j	靭性	じんせい	toughness
+j	靱帯	じんたい	靭帯の異表記。
+j	靱軟	じんなん	しなやかで強いこと。
+j	順に	じゅんに	in order, by turns
+j	順二	じゅんじ	a male given name
+j	順位	じゅんい	order, rank, precedence
+j	順化	じゅんか	acclimatization
+j	順子	じゅんこ	a run of three connected …
+j	順子	じゆんこ	a run of three connected …
+j	順次	じゅんじ	in order, one by one, one…
+j	順気	じゅんき	順当な気候。
+j	順治	じゅんじ	a male given name
+j	順義	じゅんぎ	道義や正義にしたがうこと。
+j	順路	じゅんろ	suggested route, suggeste…
+j	頌文	じゅもん	仏教経典の偈の文。
+j	食堂	じきだう	a room, hall, or building…
+j	食堂	じきどう	a room, hall, or building…
+j	食物	じきもつ	food, foodstuff
+j	饒多	じょうた	豊かで多いさま。
+j	馴化	じゅんか	「順化」の別表記。
+j	馴字	じゅんじ	馴養すること。
+j	馴致	じゅんち	馴染ませること。馴れさせること。
+j	鶉衣	じゅんい	継ぎはぎだらけの服。
+j	麝臍	じゃさい	麝香鹿の臍。また、その近くにある麝香嚢からつくられ…
+j	麝臍	じゃせい	麝香鹿の臍。また、その近くにある麝香嚢からつくられ…
+j	麝香	じゃかう	musk
+j	麝香	じゃこう	musk
+j	じいちゃん	じいちゃん	高齢の男性。また、祖父。
+j	じかんぎれ	じかんぎれ	時間切れ: being out of time, …
+j	じきテープ	じきテープ	磁気テープ: magnetic tape
+j	じさつする	じさつする	
+j	じさつてん	じさつてん	自殺点: own goal
+j	じっしょう	じっしょう	実正
+j	じっそくず	じっそくず	実測図: survey map
+j	じっちゃん	じっちゃん	
+j	じゃおどり	じゃおどり	蛇踊, 蛇踊り: dragon dance; sn…
+j	じゃかすか	じゃかすか	hand over fist, with grea…
+j	じゃがいも	じゃがいも	《分類学》（ジャガイモ：※片仮名表記限定） ナス目…
+j	じゃじゃ馬	じゃじゃ馬	restive horse
+j	じゃりタレ	じゃりタレ	子供のタレント。
+j	じゃり番	じゃりばん	子供向け番組。
+j	じゃんけん	じゃんけん	片手で「グー」又は「チョキ」又は「パー」の形を作り…
+j	じゃんまけ	じゃんまけ	losing in rock paper scis…
+j	じゃん拳	じゃんけん	rock paper scissors (popu…
+j	じゅういち	じゅういち	
+j	じゅうえん	じゅうえん	柔艶: slender and beautiful
+j	じゅうがつ	じゅうがつ	
+j	じゅうけい	じゅうけい	重慶: Chongqing
+j	じゅうこう	じゅうこう	重厚: profound, deep, state…
+j	じゅうごや	じゅうごや	
+j	じゅうさん	じゅうさん	
+j	じゅうしょ	じゅうしょ	
+j	じゅうそう	じゅうそう	重曹: sodium bicarbonate, b…
+j	じゅうぞう	じゅうぞう	十三: a male given name
+j	じゅうだい	じゅうだい	
+j	じゅうどう	じゅうどう	
+j	じゅうにじ	じゅうにじ	十二時: twelve o'clock; noon…
+j	じゅうぶん	じゅうぶん	
+j	じゅうよん	じゅうよん	
+j	じゅうろく	じゅうろく	
+j	じゅんいち	じゅんいち	純一, 順一, 準一, 潤一, 淳一, 凖一: a…
+j	じゅんかん	じゅんかん	
+j	じゅんけつ	じゅんけつ	純潔: chaste
+j	じゅんしゅ	じゅんしゅ	順守, 遵守: compliance, adher…
+j	じゅんしん	じゅんしん	純真: pure of mind or inten…
+j	じゅんじょ	じゅんじょ	順序: order, sequence, proc…
+j	じゅんせい	じゅんせい	純正, 醇正
+j	じゅんぞう	じゅんぞう	順三: a male given name
+j	じゅんとう	じゅんとう	順当: proper, right, reason…
+j	じゅんばん	じゅんばん	
+j	じゅんぱく	じゅんぱく	純白: pure white, snow whit…
+j	じゅんぷう	じゅんぷう	順風: favorable wind
+j	じゅんぺい	じゅんぺい	純平, 淳平, 準平, 順平: a male gi…
+j	じゅんぽう	じゅんぽう	遵法: law-abiding
+j	じゅんろう	じゅんろう	準郎: a male given name
+j	じゆうがた	じゆうがた	自由形, 自由型: freestyle swimm…
+j	じゆうせき	じゆうせき	自由席: unreserved seat
+j	じょうかい	じょうかい	上階: floor above
+j	じょうがい	じょうがい	場外: outside the premises
+j	じょうぎ座	じょうぎざ	Norma
+j	じょうぎ座	じょうぎ座	Norma
+j	じょうしょ	じょうしょ	情緒: atmosphere; emotion
+j	じょうそう	じょうそう	上層: upper level
+j	じょうたつ	じょうたつ	上達: improvement
+j	じょうちょ	じょうちょ	情緒: emotion, atmosphere
+j	じょうてい	じょうてい	上帝
+j	じょうふう	じょうふう	常風: a constant wind, a re…
+j	じょきょう	じょきょう	助教: assistant teacher
+j	じょしんご	じょしんご	
+j	じょすうし	じょすうし	助数詞: counter word, a Japa…
+j	じょっぴん	じょっぴん	（方言、北海道）鍵
+j	じょどうし	じょどうし	
+j	じょんから	じょんから	
+j	じょんがら	じょんがら	
+j	じらいげん	じらいげん	地雷原: minefield
+j	じれったい	じれったい	思い通りにいかずいらいらする。もどかしい。はがゆい。
+j	じんじょう	じんじょう	尋常: common, ordinary, nor…
+j	じんましん	じんましん	
+j	ジアゼパム	ジアゼパム	diazepam
+j	ジェイケイ	ジェイケイ	JK: highschoolgirl
+j	ジェイケー	ジェイケー	JK: highschoolgirl
+j	ジェイソン	ジェイソン	a transliteration of the …
+j	ジェイムズ	ジェイムズ	
+j	ジェット機	じぇっとき	jet plane (airplane power…
+j	ジェット機	ジェットき	jet plane (airplane power…
+j	ジェット機	ジェット機	jet plane (airplane power…
+j	ジェネギャ	ジェネギャ	
+j	ジェネラル	ジェネラル	「ゼネラル」の表記ゆれ。
+j	ジェノヴァ	ジェノヴァ	Genoa (a port city and co…
+j	ジェバンニ	ジェバンニ	someone who responds very…
+j	ジェフリー	ジェフリー	
+j	ジェラシー	ジェラシー	嫉妬。やきもち。悋気。
+j	ジェラート	ジェラート	gelato (Italian-style ice…
+j	ジェリカン	ジェリカン	
+j	ジェロニモ	ジェロニモ	
+j	ジェローム	ジェローム	
+j	ジェンダー	ジェンダー	gender
+j	ジェームス	ジェームス	a transliteration of the …
+j	ジェームズ	ジェームズ	a transliteration of the …
+j	ジオグリフ	ジオグリフ	
+j	ジギタリス	ジギタリス	
+j	ジスマーク	ジスマーク	日本産業規格の検査に合格している製品に付けることが…
+j	ジッグラト	ジッグラト	a ziggurat
+j	ジトーミル	ジトーミル	
+j	ジフィリス	ジフィリス	
+j	ジフテリア	ジフテリア	diphtheria
+j	ジムカーナ	ジムカーナ	自動車やオートバイ、馬術で行われる障害物競走。走行…
+j	ジモティキ	ジモティキ	
+j	ジモティー	ジモティー	locals
+j	ジャイナ教	ジャイナ教	Jainism
+j	ジャイプル	ジャイプル	
+j	ジャカルタ	ジャカルタ	Jakarta (the capital city…
+j	ジャガイモ	ジャガイモ	「じゃがいも」の学術的表記。
+j	ジャガタラ	ジャガタラ	Former name of Jakarta, u…
+j	ジャガリー	ジャガリー	
+j	ジャガ芋	じゃがいも	potato, Solanum tuberosum…
+j	ジャガ芋	ジャガいも	potato, Solanum tuberosum…
+j	ジャガ芋	ジャガイモ	potato, Solanum tuberosum…
+j	ジャクソン	ジャクソン	Jackson (the capital city…
+j	ジャグジー	ジャグジー	jacuzzi
+j	ジャグラー	ジャグラー	
+j	ジャケがい	ジャケがい	buying a book, DVD, etc. …
+j	ジャケット	ジャケット	jacket (piece of clothing…
+j	ジャケパン	ジャケパン	semi-formal clothing
+j	ジャケ写	じゃけしゃ	
+j	ジャケ写	ジャケしゃ	
+j	ジャコヴァ	ジャコヴァ	
+j	ジャスパー	ジャスパー	微細な石英の結晶が集まった鉱物晶（潜晶質石英）の群…
+j	ジャスミン	ジャスミン	jasmine (plant of genus J…
+j	ジャッカル	ジャッカル	a jackal
+j	ジャッキー	ジャッキー	a transliteration of the …
+j	ジャパレス	ジャパレス	日本食を取り扱っている海外のレストラン。
+j	ジャベリン	ジャベリン	
+j	ジャマイカ	ジャマイカ	Jamaica (an island and co…
+j	ジャムパン	ジャムパン	中にジャムを入れて焼いたパン。
+j	ジャルリグ	ジャルリグ	
+j	ジャロピー	ジャロピー	
+j	ジャワ人	じゃわじん	インドネシア・ジャワ島の主要民族。インドネシアの最…
+j	ジャワ原人	ジャワ原人	原人に属する化石人類。1891年にインドネシアジャ…
+j	ジャワ島	じゃわとう	Java (an island of Indone…
+j	ジャワ島	ジャワとう	Java (an island of Indone…
+j	ジャワ犀	じゃわさい	a Javan rhinoceros
+j	ジャワ犀	ジャワさい	a Javan rhinoceros
+j	ジャワ犀	ジャワサイ	a Javan rhinoceros
+j	ジャンキー	ジャンキー	junky (unhealthy)
+j	ジャングル	ジャングル	jungle
+j	ジャンバー	ジャンバー	ジャンパー。
+j	ジャンパー	ジャンパー	blouson, flight jacket, w…
+j	ジャンムー	ジャンムー	
+j	ジャーキン	ジャーキン	襟と袖の無い革製の短い上着。
+j	ジャーキー	ジャーキー	干し肉。
+j	ジャーゴン	ジャーゴン	（普通の人にはわからない）専門用語。符牒。転じて、…
+j	ジャージー	ジャージー	a tracksuit
+j	ジャータカ	ジャータカ	
+j	ジャーティ	ジャーティ	
+j	ジャーナル	ジャーナル	journal (newspaper or mag…
+j	ジャーニー	ジャーニー	旅行。長旅。
+j	ジャービル	ジャービル	
+j	ジャーマン	ジャーマン	ドイツ人。
+j	ジュエリー	ジュエリー	宝石類。
+j	ジュゴン目	ジュゴン目	《分類学》 哺乳綱獣亜綱真獣下綱アフリカ獣上目の下…
+j	ジュテーム	ジュテーム	I love you
+j	ジュデッカ	ジュデッカ	
+j	ジュネーブ	ジュネーブ	
+j	ジュネーヴ	ジュネーヴ	Geneva (a city in Switzer…
+j	ジュピター	ジュピター	Jupiter, the planet
+j	ジュベイナ	ジュベイナ	
+j	ジュリアン	ジュリアン	
+j	ジュンサイ	ジュンサイ	
+j	ジューコフ	ジューコフ	
+j	ジューサー	ジューサー	果物や野菜を圧縮したりすりおろしたりして汁を搾る器…
+j	ジョイフル	ジョイフル	嬉しい。楽しい。
+j	ジョギング	ジョギング	jogging (form of exercise)
+j	ジョッキー	ジョッキー	synonym of 騎手 (kishu, “jo…
+j	ジョホール	ジョホール	
+j	ジョンソン	ジョンソン	Johnson
+j	ジョーカー	ジョーカー	a joker
+j	ジョージア	ジョージア	Georgia (a transcontinent…
+j	ジョーダン	ジョーダン	a transliteration of the …
+j	ジョーンズ	ジョーンズ	a transliteration of the …
+j	ジルコニア	ジルコニア	二酸化ジルコニウム。
+j	ジルバーブ	ジルバーブ	jilbab
+j	ジロンド県	ジロンド県	
+j	ジンジャー	ジンジャー	ginger lily (Hedychium co…
+j	ジンジュウ	ジンジュウ	
+j	ジンバブエ	ジンバブエ	Zimbabwe (a country in So…
+j	ジヴァニア	ジヴァニア	zivania
+j	ジ・エンド	ジ・エンド	終わり。一巻の終わり。
+j	ジーエイト	ジーエイト	
+j	ジージャン	ジージャン	ジーンズでつくられたジャンパー。
+j	ジーベック	ジーベック	
+j	ジーメンス	ジーメンス	siemens
+j	丈六	じょうろく	一丈六尺の長さ。
+j	丈冊	じょうさつ	地籍や丈量を記載する帳簿。検地帳。
+j	丈夫な	じょうぶな	
+j	上世	じやうせい	antiquity, ancient times
+j	上世	じょうせい	antiquity, ancient times
+j	上人	じやうにん	court officials, courtiers
+j	上人	じょうにん	court officials, courtiers
+j	上仙	じょうせん	昇仙すること。
+j	上代	じやうだい	ancient times
+j	上代	じょうだい	ancient times
+j	上件	じょうけん	上（前）で述べた件。
+j	上位語	じょういご	ある言葉に対して、その言葉が意味する概念の範囲を覆…
+j	上体	じやうたい	upper body
+j	上体	じょうたい	upper body
+j	上例	じやうれい	previous example, above e…
+j	上例	じょうれい	previous example, above e…
+j	上信	じょうしん	上野（こうずけ、現在の群馬県）と信濃（現在の長野県…
+j	上僭	じょうせん	僭越。
+j	上元	じやうげん	Koshōgatsu (festival held…
+j	上元	じょうげん	Koshōgatsu (festival held…
+j	上党	じょうとう	
+j	上出来	じやうでき	well done; well made
+j	上出来	じょうでき	well done; well made
+j	上刻	じょうこく	かつて使用された時刻で一刻を三つに分割した最初の時…
+j	上半	じょうはん	first half; upper half
+j	上告	じょうこく	an appeal to a higher cou…
+j	上品	じょうひん	sophisticated, cultured
+j	上品	じょうぼん	sophisticated, cultured
+j	上唇	じょうしん	upper lip
+j	上啓	じょうけい	律令制で臣下が皇太子、皇后、皇太后、太皇太后にもう…
+j	上善	じょうぜん	至善。
+j	上国	じょうこく	都に近い国。かみがた。
+j	上国	じょうごく	都に近い国。かみがた。
+j	上壁	じょうへき	壁または壁状のものの上部、上の方。
+j	上声	じやうせい	the rising tone (one of t…
+j	上声	じょうせい	the rising tone (one of t…
+j	上天	じやうてん	Heaven, God
+j	上天	じょうてん	Heaven, God
+j	上官	じょうかん	a senior officer
+j	上客	じやうかく	a distinguished guest, gu…
+j	上客	じょうかく	a distinguished guest, gu…
+j	上察	じょうさつ	貴人などが察することの尊敬語。
+j	上寿	じょうじゅ	人の寿命が長いこと。特に100歳または120歳。
+j	上層	じょうそう	upper stratum
+j	上巻	じょうかん	volume I; volume of first
+j	上帝	じょうてい	lord, god
+j	上底	じょうてい	水平方向に平行な台形の上の辺。
+j	上座部	じょうざぶ	Theravada
+j	上弦	じやうげん	waxing crescent moon, a m…
+j	上弦	じょうげん	waxing crescent moon, a m…
+j	上懇	じょうこん	懇願すること。
+j	上所	じょうしょ	手紙の宛名の上に相手に応じて記入する語句。謹上、進…
+j	上手	じやうしゆ	skillful, dexterous
+j	上手	じょうしゅ	skillful, dexterous
+j	上手な	じょうずな	
+j	上掲	じょうけい	上で掲示すること。前で述べたこと。
+j	上方	じやうはう	upper part
+j	上方	じょうほう	upper part
+j	上日	じょうじつ	（じょうじつ）ついたち。
+j	上日	じょうにち	（じょうじつ）ついたち。
+j	上映	じょうえい	a film screening
+j	上書	じやうしよ	giving a letter to the go…
+j	上書	じょうしょ	giving a letter to the go…
+j	上来	じょうらい	それまで、それまでに。
+j	上栄	じょうえい	屋上の両翼。
+j	上格	じょうかく	ウラル語族の文法で、上部を示す格。
+j	上棟	じょうとう	家を新築する際に柱や梁を建てた上に棟木をかけること…
+j	上様	じやうさま	form of address or refere…
+j	上様	じょうさま	form of address or refere…
+j	上欄	じょうらん	上の方の欄。
+j	上段	じょうだん	上の段。
+j	上洛	じやうらく	going to Kyoto; going to …
+j	上洛	じょうらく	going to Kyoto; going to …
+j	上浣	じょうかん	「上澣」の別表記。
+j	上源	じょうげん	上流。
+j	上演	じょうえん	performance, presentation…
+j	上澣	じょうかん	上旬。
+j	上燗	じょうかん	日本酒の燗の温度帯のひとつ。45度前後のものをいう。
+j	上玉	じょうたま	fine jewel
+j	上玉	じょうだま	fine jewel
+j	上田	じょうでん	Ueda (a city in Nagano Pr…
+j	上甲	じやうかふ	a surname
+j	上甲	じょうこう	a surname
+j	上番	じょうばん	第一番。
+j	上皇	じょうこう	emperor emeritus, a livin…
+j	上眼	じょうがん	上瞼。
+j	上程	じょうてい	議案を議会、会議にかけること。
+j	上空	じやうくう	the skies, the air high a…
+j	上空	じょうくう	the skies, the air high a…
+j	上端	じょうたん	上部の端。
+j	上筆	じょうひつ	名人が書いたものやその筆跡。
+j	上等	じやうとう	high-quality; first-class…
+j	上等	じょうとう	high-quality; first-class…
+j	上米	じょうまい	（じょうまい）上等の米。
+j	上級	じやうきふ	superiority; upper class
+j	上線	じょうせん	tilde; over-line
+j	上編	じょうへん	書物を上下、上中下に分けた時の最初の編。
+j	上繭	じょうけん	機械製糸の原料に用いる上等な繭。
+j	上聞	じょうぶん	君主に申し上げること。
+j	上腕	じょうわん	an upper arm; a brachium
+j	上膊	じやうはく	upper arm
+j	上膊	じょうはく	upper arm
+j	上裁	じょうさい	天皇の上奏に対する裁可。
+j	上製	じやうせい	superior make, top-qualit…
+j	上製	じょうせい	superior make, top-qualit…
+j	上覧	じょうらん	天皇・将軍・貴人などが御覧になること。
+j	上言	じょうげん	言上すること。
+j	上計	じょうけい	上出来なはかりごとや計画。
+j	上質	じょうしつ	of fine quality, high qua…
+j	上越	じやうゑつ	the Kōzuke Province and t…
+j	上越	じょうえつ	the Kōzuke Province and t…
+j	上車	じょうしゃ	自動車・列車に乗ること。
+j	上輩	じょうはい	貴人。
+j	上辺	じょうへん	on the surface, seeming, …
+j	上達	じょうたつ	improvement in academic a…
+j	上酒	じょうしゅ	上等の酒。
+j	上門	じょうもん	superphylum
+j	上阪	じょうはん	地方から大阪に行くこと。
+j	上限	じょうげん	upper limit
+j	上院	じやうゐん	an upper house
+j	上院	じょういん	an upper house
+j	上陸	じやうりく	landing, coming on shore
+j	上陸	じょうりく	landing, coming on shore
+j	上階	じやうかい	upstairs; specifically, t…
+j	上階	じょうかい	upstairs; specifically, t…
+j	上面	じょうめん	exterior, appearance
+j	上顎	じやうがく	an upper jaw
+j	上顎	じょうがく	an upper jaw
+j	上首	じょうしゅ	一つの集団で最上位の者。
+j	上騰	じょうとう	高く上がること。
+j	上﨟	じょうろう	長く修行を積んだ高僧。
+j	乗じる	じょうじる	to take advantage of
+j	乗号	じょうごう	掛け算（乗法）の符号。×。
+j	乗員	じょういん	crew member on a vehicle …
+j	乗客	じょうかく	passenger
+j	乗居	じょうきょ	並ぶこと。
+j	乗数	じょうすう	multiplier, as b in a × b…
+j	乗権	じょうけん	威張ること。
+j	乗法	じょうはふ	multiplication
+j	乗法	じょうほう	multiplication
+j	乗用	じょうよう	乗って用いること。
+j	乗積	じょうせき	数を乗じて得た数値や式。積。
+j	乗算	じょうざん	multiplication
+j	乗船	じょうせん	embarkation of a vessel
+j	乗艇	じょうてい	艦艇、船艇に乗ること。また、乗っている艦艇、船艇。
+j	乗艦	じょうかん	艦船、艦艇に乗り組むこと。
+j	乗虚	じょうきょ	付け込むこと。
+j	乗車	じょうしゃ	getting in or on (a train…
+j	乗軒	じょうけん	大夫の車に乗ること。
+j	乗載	じょうさい	車や船舶などに人や物を積載すること。
+j	乗輦	じょうれん	乗車。
+j	乗遽	じょうきょ	早馬。
+j	乗間	じょうかん	すきに付け込むこと。
+j	乗降	じょうこう	getting on and getting of…
+j	乗除	じょうじょ	乗算と除算。
+j	乘算	じょうざん	
+j	事務処理	じむしょり	
+j	事務局	じむきょく	secretariat
+j	事務次官	じむじかん	日本の官職の一つ。内閣府にあっては、内閣総理大臣を…
+j	事務職	じむしょく	企業などで事務を担当する職。
+j	事務長	じむちょう	a manager, purser
+j	事実婚	じじつこん	common-law marriage
+j	事業化	じぎょうか	industrialization
+j	事業家	じぎょうか	businessman; entrepreneur
+j	人中	じんちゅう	society, company
+j	人乳	じんにゅう	人間の乳。
+j	人事院	じんじいん	内閣が所管する合議制の機関であるが、指揮監督は受け…
+j	人件費	じんけんひ	labor cost, payroll cost,…
+j	人力	じんりょく	manpower, human power
+j	人境	じんきょう	人が暮らしている所。人里。
+j	人外	じんぐわい	the middle of nowhere; a …
+j	人外	ジングワイ	the middle of nowhere; a …
+j	人寰	じんくわん	the land of the living; t…
+j	人尿	じんにょう	人の尿。
+j	人工の	じんこうの	
+j	人格化	じんかくか	personification, anthropo…
+j	人権屋	じんけんや	左翼人権活動家。
+j	人流	じんりゅう	movement of people (the p…
+j	人為的	じんいてき	artificial
+j	人物画	じんぶつが	人間を題材として描いた絵。
+j	人獣	じんじゅう	人間と獣類。
+j	人脈	じんみゃく	connections (people with …
+j	人鏡	じんきょう	人々の模範。人の鏡。
+j	人類史	じんるいし	人類の歴史。
+j	人鳥	じんちょう	penguin
+j	什一	じゅういち	古代中国の地租で井田法により収穫の十分の一を収納す…
+j	什宝	じゅうほう	宝物として所蔵する器物。
+j	仁侠	じんきょう	弱者を助け、強者を挫くという気立てに富むこと。男気。
+j	仁恤	じんじゅつ	憐れみ、情をかけること。
+j	仁矜	じんきょう	情け深いさま。
+j	仁義なき	じんぎなき	広島県を揶揄する造語。
+j	仁術	じんじゅつ	benevolent act
+j	仍貫	じょうかん	依然。仍旧。
+j	仗衛	じょうえい	儀仗。
+j	住する	じゅうする	住む。
+j	住人	じゅうにん	resident, inhabitant
+j	住処	じゅうしょ	住んでいる所。住まい。住所。
+j	住宅	じゅうたく	residence, house
+j	住室	じゅうしつ	集合住宅の部屋のうち、浴室や便所などの設備の一部を…
+j	住居	じゅうきょ	dwelling; house; residenc…
+j	住所	じゅうしょ	address
+j	住棟	じゅうとう	住居用の建物。
+j	住民	じゅうみん	citizens; inhabitants
+j	儒教	じゅきょう	Confucianism
+j	儒術	じゅじゅつ	儒教の道。儒学。
+j	儘教	じんきょう	とにもかくにも。
+j	充分	じゅうぶん	条件が満たされ不足のないさま。
+j	充員	じゅういん	（不足などによる）人員を補充すること。
+j	充填	じゅうてん	a filling of a tooth
+j	充実	じゅうじつ	fullness, substantiality
+j	充当	じゅうとう	allocation, appropriation
+j	充棟	じゅうとう	書物が棟木に届くほど多いこと。
+j	充沢	じゅうたく	元気。
+j	充満	じゅうまん	being filled with
+j	充溢	じゅういつ	abundance
+j	充溢	じゆういつ	abundance
+j	充牣	じゅうじん	to fill
+j	充牣	じゆうじん	to fill
+j	充積	じゅうせき	充満し、積み重なること。
+j	充血	じゅうけつ	congestion with blood; hy…
+j	充足	じゅうそく	sufficiency, being enough
+j	充選	じゅうせん	選入すること。
+j	充電	じゅうでん	electrical charging
+j	児童会	じどうかい	小学校の児童により、自発的・自治的な学校活動をする…
+j	児童婚	じどうこん	child marriage
+j	児童館	じどうかん	children's hall (Japanese…
+j	入木	じゅうぼく	calligraphy
+j	入興	じゅきょう	何かに興味を持つこと。興に入ること。
+j	冗員	じょういん	過剰となり無駄な人員。
+j	冗文	じょうぶん	無駄に長い文章。無駄な文章。
+j	冗漫	じょうまん	冗長で締まりがないこと。散漫なこと。
+j	冗筆	じょうひつ	無駄書き。
+j	冗舌	じょうぜつ	「饒舌」の別表記。
+j	冗言	じょうげん	pleonasm
+j	冗談	じょうだん	a joke
+j	冗賤	じょうせん	無用な人。
+j	冗雑	じょうざつ	無用が雑多にあり、煩わしいこと。また、そのようなさ…
+j	凖一	じゅんいち	a male given name
+j	剰員	じょういん	過剰となっている（無駄な）人員。
+j	剰銭	じょうせん	余剰金。
+j	助力	じょりょく	help; assistance; helping…
+j	助力	じよりよく	help; assistance; helping…
+j	助動詞	じょどうし	an auxiliary verb
+j	助教	じょきょう	assistant teacher, teachi…
+j	助数詞	じょすうし	counter word, a Japanese …
+j	助産婦	じょさんぷ	midwife
+j	助産師	じょさんし	midwife
+j	助産師	じよさんし	midwife
+j	助長	じょちょう	promotion, encouragement,…
+j	十ヶ月	じっかげつ	ten months
+j	十ヶ月	じっヶげつ	ten months
+j	十一	じゅういち	eleven; 11
+j	十一	ジュウイチ	eleven; 11
+j	十七	じゅうしち	seventeen; 17
+j	十七	じゅうなな	seventeen; 17
+j	十万	じゅうまん	hundred thousand
+j	十三	じゅうさん	thirteen; 13
+j	十三	じゅうぞう	thirteen; 13
+j	十九時	じゅうくじ	二十四時間制で午後七時のこと。
+j	十二司	じゅうにし	
+j	十二度	じゅうにど	十二回。とおあまりふたたび。
+j	十二支	じゅうにし	the twelve earthly branch…
+j	十二時	じゅうにじ	twelve o'clock; noon; mid…
+j	十五夜	じゅうごや	陰暦十五日の夜で、満月の夜。
+j	十五度	じゅうごど	回数が十五であること。十五回。とおあまりいつたび。
+j	十五時	じゅうごじ	二十四時間制で午後三時のこと。
+j	十代	じゅうだい	people from 10-19 years o…
+j	十億	じゅうおく	billion, milliard
+j	十全	じゅうぜん	full; complete
+j	十八	じゅうはち	eighteen; 18
+j	十八時	じゅうくじ	二十四時間制で午後六時のこと。
+j	十六	じゅうろく	sixteen; 16
+j	十六夜	じふろくや	the sixteenth night of th…
+j	十分	じゅうぶん	enough, plenty, sufficient
+j	十分	じゅっぷん	enough, plenty, sufficient
+j	十善	じゅうぜん	the ten good acts, (i.e. …
+j	十四	じゅうよん	fourteen; 14
+j	十四度	じゅうよど	（じゅうよんど）十四回。
+j	十四時	じゅうよじ	二十四時間制で午後二時のこと。
+j	十垓	じゅうがい	A trillion billion, 10²¹,…
+j	十女	じゅうじょ	姉妹のうち、十番目に生まれた女。
+j	十姉妹	じふしまつ	a Bengalese finch
+j	十姉妹	ジフシマツ	a Bengalese finch
+j	十字架	じゅうじか	the cross, sign of the cr…
+j	十字路	じゅうじろ	crossroads
+j	十字軍	じふじぐん	crusaders
+j	十宗	じっしゅう	日本における仏教で三論宗、法相宗、成実宗、倶舎宗、…
+j	十年	じゅうねん	ten years; the tenth year
+j	十悪	じゅうあく	the ten evil deeds, consi…
+j	十戒	じゅっかい	the Ten Precepts/Commandm…
+j	十才	じゅっさい	生後10年目又は10年を経過した年齢の称。
+j	十月	じゅうがつ	October
+j	十枚	じゅうまい	薄いものの枚数が十あること。
+j	十歳	じゅっさい	生後10年目又は10年を経過した年齢の称。
+j	十段	じゅうだん	A Japanese go tournament,…
+j	十溝	じゅっこう	
+j	十男	じゅうなん	兄弟のうち、十番目に生まれた男。
+j	十種	じゅっしゅ	十の種類。
+j	十章	じっしょう	十番目の章。
+j	十罪	じゅうざい	罪悪の中で特に重い10種類の罪。謀反、謀大逆、謀叛…
+j	十能	じゅうのう	金属製の鍋状の容器に木製の柄が付いた火の付いた炭を…
+j	十連	じゅうれん	十回連続。
+j	卹荒	じゅっこう	救荒。
+j	受信機	じゅしんき	receiver
+j	受傷	じゅしょう	傷を負うこと。
+j	受像機	じゅぞうき	人為的に送られる電波などの信号をアンテナで受け、増…
+j	受咎	じゅきゅう	咎を受けること。
+j	受教	じゅきょう	授業。
+j	受注	じゅちゅう	reception of orders
+j	受注	じゆちゆう	reception of orders
+j	受理	じゅりする	acceptance of documents t…
+j	受理する	じゅりする	
+j	受療	じゅりょう	受診すること。
+j	受章	じゅしょう	reception of an award
+j	受給	じゅきゅう	collection of a payment
+j	受話口	じゅわぐち	earpiece speaker
+j	受賕	じゅきゅう	収賄すること。
+j	受賞	じゅしょう	winning an award
+j	受難日	じゅなんび	キリストが十字架に架けられたとされる日。聖金曜日。
+j	受領	じゅりょう	receipt, acceptance
+j	受領	じゆりやう	receipt, acceptance
+j	受験期	じゅけんき	入学試験を目前に控えた時期、並びに入学試験の期間中。
+j	叙留	じょりゅう	律令制で位階は昇進するが、官職はそのまま留め置くこ…
+j	叙述	じょじゅつ	narration
+j	呪力	じゅりょく	呪術による超自然的な力や作用。
+j	呪術	じゅじゅつ	magic; spellcraft, sorcer…
+j	呪詛	じゅそする	curse, malediction
+j	地上げ	じあげする	the practice of filling l…
+j	地元愛	じもとあい	love for one's hometown
+j	地元民	じもとみん	locals
+j	地割り	じわりする	allotment of land
+j	地引網	じびきあみ	沖合いに張り、それを浜で引き寄せて漁をする大きな網。
+j	地役人	じやくにん	a government official loc…
+j	地獄耳	じごくみみ	人の秘密を人より早く聞き込んでくること。また、その…
+j	地獄道	じごくどう	仏教の六道の一つ。現世で悪業をはたらいた者が、その…
+j	地縛霊	じばくれい	ghost bound to a specific…
+j	地蔵堂	じぞうどう	地蔵菩薩を本尊して祀る堂宇。
+j	地蔵尊	じぞうそん	地蔵菩薩のこと。
+j	地蔵盆	じぞうぼん	京都を中心に7月24日（新暦で8月24日）に石造の…
+j	地雷	じがみなり	land mine
+j	地雷原	じらいげん	minefield
+j	地震予知	じしんよち	地震がいつどこでどの程度の規模で発生するか、具体的…
+j	地震学	じしんがく	seismology
+j	地震計	じしんけい	地震の揺れを測定する計器。
+j	地頭方	じとうほう	a surname
+j	城主	じょうしゅ	castellan
+j	城代	じょうだい	本来の城主に代わり城を守護、管理すること。また、そ…
+j	城内	じょうない	the inside of a castle, t…
+j	城北	じょうほく	城下町で城より北側の地域。
+j	城南	じょうなん	Seongnam (a city in South…
+j	城国	じょうこく	城と国。
+j	城堡	じょうほう	城と砦。
+j	城塞	じょうさい	citadel, fortress
+j	城墟	じょうきょ	城跡。
+j	城壁	じょうへき	fortress walls; town wall…
+j	城壕	じょうごう	城郭の周囲に掘られた壕。
+j	城守	じょうしゅ	城に籠もり、守ること。籠城。
+j	城島	じょうじま	a surname
+j	城廓	じょうかく	a castle wall, the outer …
+j	城東	じょうとう	城下町で城より東側の地域。
+j	城楼	じょうろう	城壁に設置された物見櫓。
+j	城番	じょうばん	城に詰め、城門の警固をした役。また、その兵士。
+j	城西	じょうさい	城下町で城より西側の地域。
+j	城西	じょうせい	城下町で城より西側の地域。
+j	城観	じょうかん	城闕。
+j	城輦	じょうれん	都城。
+j	城郊	じょうこう	城、市街地の近郊。
+j	城郭	じょうかく	castle
+j	城門	じょうもん	castle gate
+j	城関	じょうかん	
+j	城闕	じょうけつ	中国で宮城の門。
+j	城陽	じやうやう	Jōyō (a city in Kyoto Pre…
+j	城陽	じょうよう	Jōyō (a city in Kyoto Pre…
+j	場内	じょうない	within premises
+j	場外	じょうがい	outside premises
+j	場景	じょうけい	その場や具体的な場面での光景や有り様。
+j	塵中	じんちゅう	塵の中。
+j	塵境	じんきょう	六塵。
+j	塾堂	じゅくどう	門側の部屋。
+j	塾套	じゅくとう	陳腐。
+j	塾生	じゅくせい	塾で学ぶ生徒。
+j	塾講	じゅくこう	「塾講師」の略。
+j	塾頭	じゅくとう	塾の責任者。塾長。
+j	壌墳	じょうふん	耕地の上層にあり実際に耕作される土壌の部分。耕土。
+j	壌樹	じょうじゅ	墓樹。
+j	壬戌	じんじゅつ	Water Dog, the fifty-nint…
+j	女中	じょちゅう	synonym of 下女 (gejo, “mai…
+j	女囚	じょしゅう	女性の囚人。
+j	女子会	じょしかい	girls' night out
+j	女子校	じょしこう	girls' school
+j	女子高	じょしこう	生徒を女子に限定した高等学校。
+j	女将	じょしょう	a proprietress, a female …
+j	女性の	じょせいの	
+j	女性史	じょせいし	女性を主体とする歴史。
+j	女性器	じょせいき	女性の生殖器。おそそ。
+j	女性誌	じょせいし	女性向けの情報を掲載した雑誌。
+j	女性語	じょせいご	women's language; women's…
+j	女教	じょきょう	女性を対象とした教え。また、その教育。
+j	女武神	じょぶしん	
+j	女流	じょりゅう	female
+j	女王	じょうおう	a Japanese prince's unmar…
+j	女生徒	じょせいと	
+j	女直	じょちょく	
+j	女真語	じょしんご	the Jurchen language
+j	女色	じょしょく	woman's beauty or charms
+j	女貞子	じょていし	dried fruit of Ligustrum …
+j	女郎屋	じょろうや	brothel
+j	女郎花	じょろうか	yellow patrinia or golden…
+j	女高師	じょこうし	女子高等師範学校の略。
+j	嬈敗	じょうはい	悩ますこと。
+j	字上符	じじょうふ	
+j	字源的	じげんてき	graphically etymological;…
+j	字解	じかいする	explanation of a kanji
+j	字訳する	じやくする	
+j	定先	じょうせん	囲碁で一方の相手方が常に先手で打つ手合い割。
+j	定免	じょうめん	江戸時代、一定期間田畑にかけた定額の租税。
+j	定印	じょういん	禅定に入っていることを表す印契。
+j	定式	じょうしき	formula
+j	定石	じょうせき	A studied and standardize…
+j	定祐	じょうゆう	a male given name
+j	定紋	じょうもん	family crest
+j	定規座	じょうぎざ	
+j	定詰	じょうづめ	勤務のため一定の場所に始終詰めていること。また、そ…
+j	定説	じょうせつ	undisputed / settled theo…
+j	定賃	じょうちん	一定の賃金。
+j	定跡	じょうせき	A studied and standardize…
+j	実の有る	じつのある	solid; substantial
+j	実らしい	じちらしい	honest (appearance); sinc…
+j	実世界	じっせかい	
+j	実体化	じったいか	substantiation; materiali…
+j	実写化	じっしゃか	主に漫画、小説などを実際の俳優が演じる映画やドラマ…
+j	実力	じつりょく	merit, true ability
+j	実効値	じっこうち	ある量の二乗平均平方根をとった値。その量の強さの指…
+j	実収	じっしゅう	net income; profits or pay
+j	実名詞	じつめいし	noun substantive
+j	実性	じっしやう	real nature
+j	実性	じっしょう	real nature
+j	実情	じつじょう	real condition; actual ci…
+j	実教	じっきょう	仏説の真実をとく教え。
+j	実数の	じっすうの	
+j	実数部	じっすうぶ	
+j	実施	じっしする	practice, execution, enfo…
+j	実施する	じっしする	
+j	実施例	じっしれい	working example, practica…
+j	実時間	じつじかん	real time
+j	実業	じつぎょう	industry; business
+j	実正	じっしょう	確実であること。まちがい、偽りがないこと。
+j	実況	じっきょう	actual state; actual cond…
+j	実測図	じっそくず	measured map; surveyed map
+j	実状	じつじょう	real condition; actual ci…
+j	実用化	じつようか	making practical or usefu…
+j	実直	じっちょく	honest
+j	実相寺	じっそうじ	a surname
+j	実相寺	じつそうじ	a surname
+j	実習	じっしゅう	practice; training; drill
+j	実行時	じっこうじ	execution-time
+j	実証	じっしょう	actual proof
+j	実釣	じっちょう	personally fishing
+j	実際に	じっさいに	virtually; practically; i…
+j	実際の	じっさいの	
+j	実際家	じっさいか	practical individual
+j	実食	じっしょく	trying a food for oneself…
+j	実験値	じっけんち	test results
+j	実験区	じっけんく	対象実験で比較対象を設ける際に、その特定の条件を実…
+j	寂寞	じゃくまく	loneliness, desolation
+j	寂滅	じゃくめつ	煩悩から離れ、寂静の境地に入ること。涅槃。
+j	實習	じっしゅう	
+j	寿命	じゅみょう	age (whole duration of a …
+j	寿命	じゆみやう	age (whole duration of a …
+j	寿府	じゅねーぶ	ジュネーブの漢語表現。
+j	寿府	じゅねーゔ	ジュネーブの漢語表現。
+j	寿府	ジュネーブ	ジュネーブの漢語表現。
+j	寿府	ジュネーヴ	ジュネーブの漢語表現。
+j	寿量	じゅりょう	命数。
+j	寿陵	じゅりょう	生前につくる自分の墓。
+j	尉面	じょうめん	能面で老齢の翁を表した面。
+j	尋勝	じんしょう	尋景。
+j	尋小	じんしょう	尋常小学校。
+j	尋常	じんじやう	ordinary, common
+j	尋常	じんじょう	ordinary, common
+j	尋究	じんきゅう	どこまでも探し、調べること。
+j	尽力	じんりょく	exertion
+j	尽忠	じんちゅう	utter loyalty
+j	巡回	じゅんかい	going around
+j	巡守	じゅんしゅ	「巡狩」の別表記。
+j	巡察	じゅんさつ	見回って事情を調べること。
+j	巡幸	じゅんこう	to set out on a journey (…
+j	巡洋	じゅんよう	船舶などで海洋を巡ること。
+j	巡演	じゅんえん	演劇などを巡業すること。
+j	巡狩	じゅんしゅ	古代中国で天子が諸国の政治を視察したこと。
+j	巡礼	じゅんれい	pilgrimage
+j	巡航	じゅんこう	cruise
+j	巡行	じゅんこう	各地を巡り歩くこと。
+j	巡警	じゅんけい	patrolling
+j	巡酒	じゅんしゅ	主人を代わりながら酒宴を催すこと。
+j	帖括	じょうかつ	受験で経書の難しい語句を暗誦するためにまとめたもの。
+j	帖装	じょうそう	折り本。
+j	常主	じょうしゅ	定まった主人。
+j	常人	じょうじん	ordinary person; common p…
+j	常人	じょうにん	ordinary person; common p…
+j	常任	じょうにん	being regular, standing, …
+j	常体	じょうたい	writing style in which だ …
+j	常例	じやうれい	usual practice, custom
+j	常例	じょうれい	usual practice, custom
+j	常傭	じょうよう	人を期限を定めずに続けて雇っておくこと。
+j	常儒	じょうじゅ	平凡な儒者。
+j	常典	じょうてん	定まっている規則。変わらない掟。
+j	常分	じょうぶん	定分。生まれつき。宿命。
+j	常勤	じょうきん	full-time employment
+j	常品	じょうひん	一般職。
+j	常員	じょういん	常置されている人員。
+j	常圧	じょうあつ	1気圧前後の圧力。
+j	常在	じょうざい	時間の経過に関わらず恒常的に存在すること。
+j	常套	じょうとう	conventionality, triteness
+j	常客	じょうかく	a regular customer, custo…
+j	常居	じょうきょ	住むこと。
+j	常山	じゃうざん	Dichroa febrifuga, roots …
+j	常山	じょうざん	Dichroa febrifuga, roots …
+j	常山	ジョウザン	Dichroa febrifuga, roots …
+j	常平	じょうへい	米価その他の物価の安定を図る施策。
+j	常式	じょうしき	通常の決まった方式や儀式。
+j	常律	じょうりつ	通常の法律や規則。
+j	常御	じょうぎょ	常用すること。
+j	常態	じょうたい	混乱などが起こる前の平常のありさま。
+j	常数	じやうすう	natural course of things
+j	常数	じょうすう	natural course of things
+j	常服	じょうふく	普段着。
+j	常楽	じょうらく	常住であること。
+j	常民	じょうみん	一般の庶民。
+j	常法	じょうほう	決まっていて変わらない法則。一定のきまり。
+j	常温	じょうおん	room temperature (normal …
+j	常湿	じょうしつ	高すぎでも低すぎでもない、通常の湿度。普通、相対湿…
+j	常然	じょうぜん	自然。
+j	常玩	じょうがん	常用すること。
+j	常用	じゃうよう	common use; something tha…
+j	常用	じょうよう	common use; something tha…
+j	常田	じょうでん	荘園の領主が年貢などを賦課する土地。
+j	常磐	じやうばん	a rock that does not chan…
+j	常磐	じょうばん	a rock that does not chan…
+j	常篇	じょうへん	普通なこと。通常であること。また、そのようなさま。
+j	常経	じょうけい	常に変わらない道理。
+j	常総	じょうそう	Jōsō (a city in Ibaraki P…
+j	常考	じょうこう	thinking with common sense
+j	常膳	じょうぜん	日常の食事。常餐。
+j	常衡	じょうこう	avoirdupois system
+j	常見	じやうけん	sassatavādā, eternalism (…
+j	常見	じょうけん	sassatavādā, eternalism (…
+j	常設	じょうせつ	permanent; permanently in…
+j	常詰	じょうづめ	常に詰めていること。また、その人。
+j	常識	じやうしき	common knowledge
+j	常識	じょうしき	common knowledge
+j	常連	じやうれん	regular customer
+j	常連	じょうれん	regular customer
+j	常風	じやうふう	prevailing wind (regular …
+j	常風	じょうふう	prevailing wind (regular …
+j	常飲	じょういん	日常的によく飲用すること。
+j	常餐	じょうさん	日常の食事。常饌。
+j	常饌	じょうせん	日常の食事。常餐。
+j	常香	じょうこう	incense that burn in fron…
+j	序の口	じょのくち	beginning, start; used to…
+j	序二段	じょにだん	相撲（大相撲）の力士の階級で序の口の上、三段目の下。
+j	序数詞	じょすうし	順序を数えるのに用いる数詞。日本語の「一番」、英語…
+j	序曲	じょきょく	overture
+j	序章	じょしやう	preface, prologue
+j	序章	じょしょう	preface, prologue
+j	序詞	じょことば	A monotone prologue with …
+j	弱体	じゃくたい	weak; feeble
+j	弱冠	じゃっかん	20 years of age
+j	弱化	じやくくわ	weakening
+j	弱小	じやくせう	the small and weak
+j	弱年	じゃくねん	年齢が若いこと。また、そのような者。青年。早年。
+j	弱拍	じゃくはく	offbeat, an unaccented be…
+j	弱拍	じやくはく	offbeat, an unaccented be…
+j	弱毒	じゃくどく	毒性が弱いこと。また、弱いもの。
+j	弱点	じゃくてん	weak point, weakness, sho…
+j	弱点	じやくてん	weak point, weakness, sho…
+j	弱者	じゃくしゃ	a weakling
+j	弱者	じやくしや	a weakling
+j	弱肩	じゃっけん	野球などで、ボールを投げる力が弱く、遠くまで投げら…
+j	弱酸	じゃくさん	水溶液などで酸性が弱い酸。
+j	弱電	じゃくでん	weak current
+j	弱震	じゃくしん	weak earthquake (an earth…
+j	弱音	じゃくおん	feeble complaint; whine
+j	弱音	じやくおん	feeble complaint; whine
+j	徐々に	じょじょに	
+j	徐州	じょしゅう	Xuzhou (a prefecture-leve…
+j	従僕	じゅうぼく	attendant male servant
+j	従兵	じゅうへい	ある人に付き従う兵士。
+j	従前	じゅうぜん	previous; past
+j	従前	じゆうぜん	previous; past
+j	従卒	じゅうそつ	ある人に付き従う兵士。
+j	従因	じゅういん	間接的な原因。
+j	従姪	じゅうてつ	いとこめい。
+j	従属	じゅうぞく	subordination
+j	従心	じゅうしん	70歳の異称。
+j	従服	じゅうふく	されるままに従うこと。服従すること。
+j	従来	じゅうらい	old, existing, so far
+j	従業	じゆうげふ	being engaged in employme…
+j	従犯	じゅうはん	accomplice
+j	従甥	じゅうせい	いとこおい。
+j	従者	じゅうしゃ	attendant; servant; follo…
+j	従臣	じゅうしん	付き従う家臣。
+j	従軍	じゅうぐん	military service
+j	従道	じゅうどう	a male given name
+j	循分	じゅんぶん	自分の本分に安んじて満足すること。安分。
+j	循守	じゅんしゅ	遵守すること。
+j	循環	じゅんかん	circulation; loop
+j	怵惕	じゅってき	scared; alarmed
+j	恤兵	じゅっぺい	sending presents to soldi…
+j	恤兵	じゆつぺい	sending presents to soldi…
+j	恤民	じゅつみん	民を哀れみ、恵むこと。
+j	情交	じょうこう	close association, especi…
+j	情人	じょうじん	sweetheart
+j	情人	じょうにん	sweetheart
+j	情切	じょうせつ	真情。
+j	情動	じょうどう	一時的で急激な感情の動き、情緒。
+j	情勢	じやうせい	state of things, situation
+j	情勢	じょうせい	state of things, situation
+j	情報	じやうほう	information
+j	情報	じょうほう	information
+j	情実	じょうじつ	real situations; personal…
+j	情宣	じょうせん	情報を多くの人に宣伝すること。情報宣伝の略。
+j	情弊	じょうへい	個人的な感情が引き起こす弊害。情実がらみの弊害。
+j	情形	じょうけい	物事の有様。
+j	情念	じやうねん	passion
+j	情念	じょうねん	passion
+j	情性	じやうせい	affect (subjective feelin…
+j	情性	じょうせい	affect (subjective feelin…
+j	情恋	じょうれん	慕情。
+j	情恨	じょうこん	恨み。
+j	情愛	じょうあい	affection, love
+j	情懐	じょうかい	心の中で思っていること。
+j	情戀	じょうれん	情恋の旧字体表記。
+j	情景	じやうけい	sight, scene
+j	情景	じょうけい	sight, scene
+j	情欲	じやうよく	lust, sexual desire
+j	情欲	じょうよく	lust, sexual desire
+j	情炎	じょうえん	燃え上がるような激しい欲情。
+j	情熱	じやうねつ	enthusiasm, passion
+j	情熱	じょうねつ	enthusiasm, passion
+j	情箋	じょうせん	艶書。ラブレター。
+j	情緒	じょうしょ	emotion, feeling, spirit
+j	情緒	じょうちょ	emotion, feeling, spirit
+j	情調	じやうてう	atmosphere; mood
+j	情識	じょうしき	迷い。
+j	情願	じょうがん	実情を述べて願い出ること。懇願。嘆願。
+j	惹絆	じゃくはん	引き留められること。
+j	慈悲心	じひごころ	慈悲の心。
+j	慈悲深い	じひぶかい	beneficent
+j	戍城	じゅじょう	辺境を守る城。辺城。
+j	戎兵	じゅうへい	軍の兵隊。兵士。
+j	戎国	じゅうこく	野蛮な国。未開の国。
+j	戎旃	じゅうせん	軍旗。
+j	戎服	じゅうふく	戦時の際に着用する衣服。軍服。
+j	戎氈	じゅうせん	毛氈。
+j	戎狄	じゅうてき	西戎と北狄。古代中国で周辺の異民族や外国人に対する…
+j	成仏	じょうぶつ	gaining enlightenment
+j	成功	じょうごう	success
+j	成就	じやうじゆ	achievement, fulfillment
+j	成就	じょうじゅ	achievement, fulfillment
+j	成業	じょうごう	事業や学業を達成すること。
+j	成満	じょうまん	すべてが完成、成就すること。
+j	成選	じょうせん	律令制で官吏の定期の叙位。
+j	戯れ言	じゃれごと	a practical joke, prank
+j	承保	じょうほう	the Jōhō era, 1074-1077
+j	承元	じょうげん	the Jōgen era, 1207-1211
+j	承安	じょうあん	the Jōan era, 1171-1175
+j	承平	じょうへい	the Jōhei era, 931-938
+j	承徳	じょうとく	the Jōtoku era, 1097-1099
+j	承応	じょうおう	the Jōō era, 1652–1655
+j	承應	じょうおう	
+j	抒情	じょじょう	lyricism
+j	抒情	じよじやう	lyricism
+j	拯活	じょうかつ	救助すること。
+j	拯贍	じょうせん	救い出すこと。
+j	拯難	じょうなん	救済すること。
+j	持世菩薩	じせぼさつ	Vasudhara, a female Buddh…
+j	持参	じさんする	carrying, bringing, taking
+j	持参金	じさんきん	dowry
+j	持国天	じこくてん	Dhṛtarāṣṭra
+j	持続	じぞくする	continuation, sustainment
+j	持続的	じぞくてき	persistent, continuous, l…
+j	授与	じゅよする	awarding an award, a cred…
+j	授与する	じゅよする	
+j	授乳	じゅにゅう	lactation (process of pro…
+j	授業	じゅぎょう	instruction; teaching; sc…
+j	授称	じゅしょう	称号を授けること。
+j	授賞	じゅしょう	bestowal of an award
+j	授賞	じゆしやう	bestowal of an award
+j	揉捏	じゅうでつ	揉搓。
+j	揉捻	じゅうねん	茶葉を揉むこと。
+j	揉濯	じゅうたく	揉み洗い。
+j	擾乱	じょうらん	disturbance
+j	擾紊	じょうびん	乱すこと。
+j	攘取	じょうしゅ	盗むこと。
+j	攘善	じょうぜん	善を掠めること。
+j	攘巻	じょうけん	腕まくりすること。攘袪。
+j	攘患	じょうかん	禍患を除くこと。
+j	攘手	じょうしゅ	攘臂。
+j	攘拳	じょうけん	拳を振るうこと。
+j	攘窃	じょうせつ	盗むこと。
+j	攘袪	じょうきょ	腕捲りすること。攘巻。攘臂。
+j	政官	じょうがん	太政官の職員。
+j	数珠玉	じゅずだま	Job's tears, Coix lacryma…
+j	数珠玉	ジュズダマ	Job's tears, Coix lacryma…
+j	旬刊	じゅんかん	十日ごとに刊行すること。
+j	旬報	じゅんぽう	十日毎に刊行される新聞や雑誌。
+j	旬日	じゅんじつ	10日（ほど）の期間。
+j	旬祭	じゅんさい	宮中にある賢所・神殿・皇霊殿の三殿で元旦を除く毎月…
+j	旬間	じゅんかん	10日の期間。十日間。
+j	時代劇	じだいげき	period drama
+j	時刻表	じこくへう	timetable, schedule
+j	時短	じたんする	reduction in working time
+j	時空間	じくうかん	spacetime
+j	時系列	じけいれつ	ある現象の時間的変化を、連続的または不連続的に観測…
+j	時間切れ	じかんぎれ	expiration of the allotte…
+j	時間割	じかんわり	timetable
+j	時間外	じかんがい	ある範囲で決められた時間から外れていること。
+j	時間帯	じかんたい	time zone
+j	時間枠	じかんわく	
+j	時間的	じかんてき	時間の流れに従うさま。時間で判断するさま。
+j	時間軸	じかんじく	timeline
+j	時限スト	じげんすと	実施する時間を限って行うストライキ。
+j	晨朝	じんじょう	一日を六等分した六時のひとつ。元は辰の刻（午前8時…
+j	朮羮	じゅっこう	もちあわでつくった羹。
+j	杖刑	じょうけい	律の五刑の一つで、罪人を木製の杖で60回から100…
+j	杖殺	じょうさつ	杖で打ち殺すこと。
+j	杖罪	じょうざい	律令制の刑罰の一つ。杖で罪人の臀部を叩く罰。杖刑、…
+j	杖者	じょうしゃ	杖をついた者。
+j	杖道	じょうどう	a traditional Japanese ma…
+j	条令	じょうれい	regulations, ordinance
+j	条件	じょうけん	terms, conditions, or req…
+j	条例	じょうれい	regulations; rules; laws;…
+j	条坊	じょうぼう	町の道筋。
+j	条幹	じょうかん	枝と幹。
+j	条挙	じょうきょ	列挙すること。
+j	条文	じょうぶん	clauses or provisions (te…
+j	条書	じょうしょ	一つ一つの条目を箇条書きにすること。また、そのよう…
+j	条款	じょうかん	clause, article, condition
+j	条然	じょうぜん	嘯くさま。
+j	条片	じょうへん	
+j	条痕	じょうこん	linear mark; abrasion; sc…
+j	条端	じょうたん	条目。
+j	条約	じょうやく	treaty
+j	条緒	じょうしょ	条文。
+j	条線	じょうせん	すじ。線。
+j	条纓	じょうえい	胸繋。
+j	条芩	じょうごん	野生の黄芩（黄金花）の根を乾燥させた生薬。
+j	条達	じょうたつ	多方面に通知して知らせること。
+j	条陳	じょうちん	箇条書きにして述べ説くこと。
+j	条項	じょうこう	clause
+j	柔弱	じうじやく	weak; delicate; effeminate
+j	柔愿	じゅうげん	慎むこと。
+j	柔拳	じゅうけん	拳法の一つ。内家拳。
+j	柔橈	じゅうどう	たわむこと。
+j	柔毛	じゅうもう	やわらかい質の毛。
+j	柔民	じゅうみん	民を治めること。
+j	柔然	じゅうぜん	Rouran (a khaganate that …
+j	柔脆	じゅうぜい	柔らかく、脆いこと。また、そのさま。
+j	柔術	じうじゆつ	jujitsu
+j	柔軟	じゅうなん	flexible
+j	柔道	じゅうどう	judo
+j	柔靱	じゅうじん	柔軟であり、また強靭であるさま。
+j	條令	じょうれい	
+j	樹上	じゅじょう	木の上。
+j	樹杞林	じゅきりん	Jukirin (a town in Taiwan…
+j	樹杞林	じゆきりん	Jukirin (a town in Taiwan…
+j	樹氷	じゅひょう	ice tree, a tree complete…
+j	樹氷	じゆひよう	ice tree, a tree complete…
+j	次点者	じてんしゃ	
+j	殉じる	じゅんじる	特定の事物のために自らの生命を捧げる。殉ずる。
+j	殉ずる	じゅんずる	特定の事物のために自らの生命を捧げる。殉じる。
+j	殉国	じゅんこく	身命を国難に擲つこと。国家に殉ずること。
+j	殉教	じゆんけう	martyrdom
+j	殉節	じゅんせつ	節義や信念のために命を絶つこと。節義に殉じる。
+j	殉葬	じゅんそう	王侯の死に際し、家臣などを殉死させて葬る風習。
+j	殉難	じゅんなん	martyrdom
+j	汁水	じゅうすい	汁液。
+j	汁液	じゅうえき	植物から染み出たり、絞り出したりして出た汁。液汁。
+j	治世	じせいする	peaceful times
+j	治部省	じぶしょう	the Ministry of Ceremonies
+j	浄人	じょうにん	俗人の身分のままで寺に住み、僧に仕えて世話をする者。
+j	浄刹	じょうさつ	浄土のこと。
+j	浄刹	じょうせつ	浄土のこと。
+j	浄化	じやうくわ	purification; cleansing
+j	浄房	じょうぼう	便所。厠。
+j	浄水	じやうすい	water purification
+j	浄水	じょうすい	water purification
+j	浄洗	じょうせん	洗い、浄めること。
+j	浄潔	じょうけつ	清浄で潔白なこと。また、そのようなさま。
+j	浄瑠璃	じやうるり	jōruri (form of tradition…
+j	浄瑠璃	じょうるり	jōruri (form of tradition…
+j	浄眼	じょうがん	目を清めること。
+j	浄福	じょうふく	清浄な幸福。
+j	浄罪	じょうざい	それまでに犯した罪を浄めること。
+j	浄聖	じょうせい	a surname
+j	浄蘚	じょうせん	緑色の苔。
+j	浄財	じょうざい	寺院や慈善事業に寄付するための清浄な金銭。
+j	浄鉱	じょうこう	a male given name
+j	浄院	じょういん	寺院。仏寺。
+j	浄霊	じやうれい	A spiritual purification …
+j	浄霊	じょうれい	A spiritual purification …
+j	浄頭	じんじゅう	禅宗で便所を掃除などをする役。
+j	浄饌	じょうさん	精進料理。
+j	淨化	じやうくわ	
+j	淳一	じゅんいち	a male given name
+j	淳厚	じゅんこう	素朴で人情が厚いこと。また、そのようなさま。
+j	淳平	じゅんぺい	a male given name
+j	淳朴	じゅんぼく	飾り気がなく素直であること。また、そのようなさま。
+j	淳正	じゅんせい	飾り気がなく行いが正しいこと。
+j	渋噎	じゅういつ	噎ぶこと。
+j	渋滞	じゅうたい	congestion, traffic jam
+j	渋道	じゅうどう	石造の階段。石段。
+j	渋錬	じゅうれん	凝錬。
+j	渋難	じゅうなん	ことがなかなか進まないこと。難儀すること。
+j	渋面	じゅうめん	grimace
+j	準じる	じゅんじる	（「～に準じる」の形で）～を基準、規範として、それ…
+j	準ずる	じゅんずる	to correspond to; to be p…
+j	準一	じゅんいち	a male given name
+j	準則	じゅんそく	rules; regulations; stand…
+j	準平	じゅんぺい	a male given name
+j	準拠	じゅんきょ	conformance
+j	準星	じゅんせい	synonym of クエーサー (kuēsā, …
+j	準用	じゅんよう	本来のものに準じて適用すること。
+j	準線	じゅんせん	二次曲線において、曲線上の点から焦点に至る距離との…
+j	準郎	じゅんろう	a male given name
+j	溽暑	じょくしょ	heat and humidity
+j	滋養分	じようぶん	飲食物のなかの体の栄養となる成分。栄養分。
+j	滋養品	じようひん	栄養のある飲食物。滋養物。
+j	滋養物	じようぶつ	栄養のある飲食物。滋養品。
+j	潤一	じゅんいち	a male given name
+j	潤沢	じゅんたく	plentiful, ample
+j	潤滑	じゅんかつ	湿っていて滑らかなこと。また、そのようなさま。
+j	潤澤	じゅんたく	
+j	濁酒	じょくしゅ	unstrained, unfiltered, o…
+j	烝然	じょうぜん	久しく持つさま。
+j	烝薦	じょうせん	供物。
+j	烝衎	じょうかん	祭って楽しませること。
+j	焦れったい	じれったい	impatient, irritated
+j	熟した	じゅくした	
+j	熟する	じゅくする	（果実などが）熟れる。
+j	熟女	じゅくじょ	a mature woman
+j	熟女	じゆくぢよ	a mature woman
+j	熟慮	じゅくりょ	consideration
+j	熟成	じゅくせい	ripening; maturation
+j	熟眠	じゅくみん	sound sleep
+j	熟睡	じゅくすい	sound sleep
+j	熟練	じゅくれん	skill, proficiency, dexte…
+j	熟考	じゅっこう	deliberation, considerati…
+j	熟考	じゆくかう	deliberation, considerati…
+j	熟荒	じゅくこう	豊作で米価が下落し、かえって農家が困窮すること。豊…
+j	熟荒	じゅっこう	豊作で米価が下落し、かえって農家が困窮すること。豊…
+j	熟蕃	じゅくばん	civilized aboriginal
+j	熟蕃	じゆくばん	civilized aboriginal
+j	熟読	じゅくどく	reading carefully and tho…
+j	熟読	じゆくどく	reading carefully and tho…
+j	熟談	じゅくだん	納得するまで、よく話し合うこと。十分に相談すること。
+j	熟達	じゅくたつ	熟練して上達すること。
+j	熟銅	じゅくどう	よく精錬された上質な銅。
+j	熟音	じゅくおん	a mora with an onset cons…
+j	状元	じょうげん	進士に首席で合格した者。
+j	状態	じやうたい	the state or condition (o…
+j	状態	じょうたい	the state or condition (o…
+j	状景	じょうけい	「情景」の別表記。
+j	状貌	じょうぼう	容貌。顔形。
+j	獣人	じゅうじん	獣と人間の姿を併せ持つ人物。
+j	獣医師	じゅういし	a veterinarian
+j	獣大	じゅうだい	獣医大学、または獣医科大学の略。
+j	獣姦	じゅうかん	bestiality (sexual activi…
+j	獣害	じゅうがい	harm caused by wildlife
+j	獣帯	じゅうたい	黄道を中心に南北に約8度ずつとった帯状の空間。黄道…
+j	獣心	じゅうしん	野獣のように道理を弁えない残忍な心。
+j	獣性	じゅうせい	獣類の性質。
+j	獣毛	じゅうもう	獣類の体毛。
+j	獣炭	じゅうたん	炭の粉を練って獣の形にして、その中に香を入れたもの。
+j	獣畜	じゅうちく	獣。けだもの。獣類。畜類。
+j	獣疫	じゅうえき	獣類の疫病。特に家畜伝染病。
+j	獣肉	じゅうにく	けものの肉。
+j	獣舎	じゅうしゃ	an enclosure where animal…
+j	獣身	じゅうしん	（化物などの）首から下が獣の姿であること。
+j	甚急	じんきゅう	切迫すること。
+j	畳六	じょうろく	かつてのすごろくで二つの賽が二つとも六が出ること。
+j	畳肩	じょうけん	並ぶこと。
+j	畳見	じょうけん	重ねて会うこと。
+j	畳観	じょうかん	高楼。
+j	畳雪	じょうせつ	積雪すること。
+j	畳韻	じょういん	漢字二字の熟語で、両方の字の韻（韻母）が同じである…
+j	直訴	じきそする	direct complaint to a hig…
+j	磁化率	じくわりつ	magnetic susceptibility
+j	磁性体	じせいたい	磁性をもつ物質。また、磁場がある場所の中に置くこと…
+j	磁気テープ	じきてーぷ	magnetic tape
+j	磁気テープ	じきテープ	magnetic tape
+j	示談	じだんする	settlement out of court; …
+j	示談金	じだんきん	settlement money (out of …
+j	神名	じんみょう	name of a god, or name of…
+j	神宮寺	じんぐうじ	jingū-ji (a place of wors…
+j	神祇官	じんぎかん	the Department of Divinit…
+j	神領	じんりょう	神社が所有する領地。
+j	秦糺	じんぎょう	秦艽。
+j	秦艽	じんぎょう	dried roots of Gentiana m…
+j	穠繊	じょうせん	豊かで繊細なさま。
+j	紐帯	じゅうたい	band
+j	純一	じゅんいち	a male given name
+j	純一	じゅんいつ	a male given name
+j	純分	じゅんぶん	地金や金貨、銀貨に含まれる純金や純銀の分量。
+j	純実	じゅんじつ	飾らず誠実なこと。また、そのようなさま。
+j	純平	じゅんぺい	a male given name
+j	純愛	じゅんあい	pure love
+j	純林	じゅんりん	pure forest (forest compo…
+j	純欲	じゅんよく	makeup or fashion style a…
+j	純正	じゅんせい	genuine
+j	純水	じゅんすい	イオン交換樹脂による精製などにより、不純物を除去し…
+j	純潔	じゅんけつ	chaste
+j	純然	じゅんぜん	pure
+j	純然	じゆんぜん	pure
+j	純白	じゅんぱく	pure white, snow white
+j	純真	じゅんしん	pure of mind or intentions
+j	純粋	じゅんすい	pure, unmixed, genuine
+j	純精	じゅんせい	雑じり気が全くないさま。
+j	純系	じゅんけい	pure bloodline
+j	純絹	じゅんけん	繊維などが絹だけでできているもの。正絹。
+j	純臣	じゅんしん	この上なく忠義な臣下。
+j	純血	じゅんけつ	動物で同種の雌雄の間に生まれたもの。
+j	純金	じゅんきん	pure gold
+j	純銀	じゅんぎん	雑じり気のない純粋な金^([要出典])。銀無垢。
+j	純銅	じゅんどう	純度が99.9パーセント程度の銅。
+j	純陽	じゅんよう	陰りのない明るい陽光。
+j	純黒	じゅんこく	全く黒いこと。完全な黒色。真っ黒。
+j	終日	じゅうじつ	all day long, for a whole…
+j	絨毛	じゅうもう	villus
+j	絨毯	じゅうたん	carpet, rug
+j	絨線	じゅうせん	毛糸。
+j	絨緞	じゅうたん	「絨毯」の別表記。
+j	綬章	じゅしょう	功績を称え与えられる紐がついた記章。
+j	縄墨	じょうぼく	建築で使用するすみなわ。
+j	縄察	じょうさつ	糾察すること。
+j	縄律	じょうりつ	決まり。規則。法則。
+j	縄愆	じょうけん	過失を糾すこと。
+j	縄文	じょうもん	a pressed straw-rope patt…
+j	縄枢	じょうすう	縄で括った扉。
+j	縄梯	じょうてい	縄梯子。
+j	縄検	じょうけん	締め括ること。
+j	縄簾	じょうれん	なわすだれ。
+j	縄纓	じょうえい	天子（天皇）が父母の喪の際に使う黒と黄の冠につける…
+j	縦列	じゅうれつ	column, file
+j	縦射	じゅうしゃ	enfilade, a line of rakin…
+j	縦帯	じゅうたい	動物で頭から尾の方向に平行な縞模様。縦縞。
+j	縦断	じゅうだん	running lengthwise, cutti…
+j	縦横	じゅうおう	length and breadth
+j	縦横	じゆうわう	length and breadth
+j	縦裂	じゅうれつ	縦方向に裂けること。また、そのような割れ目。
+j	縦谷	じゅうこく	山脈と山脈との間にあり山脈に平行してある谷。
+j	縦貫	じゅうかん	lengthwise traversal
+j	縦逸	じゅういつ	ほしいままにすること。また、そのようなさま。
+j	縦陣	じゅうじん	艦隊の艦船を縦の方向へ直線に並べた陣形。
+j	縦隊	じゅうたい	column
+j	繞還	じょうかん	めぐること。
+j	繩索	じょうさく	
+j	耨耕	じょくこう	耕作に鍬を使用した農業。
+j	耨耕	じょっこう	耕作に鍬を使用した農業。
+j	聚積	じゅしゃく	accumulation, collection
+j	肇歳	じょうさい	年初。年頭。
+j	腎不全	じんふぜん	何らかの原因により腎臓の機能が相当低下した状態。
+j	腎症	じんしやう	nephropathy
+j	腎症	じんしょう	nephropathy
+j	自主	じしゅする	autonomy, independence
+j	自主性	じしゅせい	自分で考えて判断し行動できる性質。
+j	自主権	じしゅけん	他から干渉されず、自分のことを自分の意思で決定でき…
+j	自主的	じしゅてき	independent, sovereign, a…
+j	自主練	じしゅれん	
+j	自主練	じしゆれん	
+j	自作	じさくする	handicraft
+j	自信	じしんする	self-confidence
+j	自分事	じぶんごと	one's own concern or prob…
+j	自分撮り	じぶんどり	a photograph of oneself, …
+j	自制	じせいする	temperance, restraint
+j	自制心	じせいしん	self-control, self-restra…
+j	自剄	じけいする	commit suicide by cutting…
+j	自動化	じどうくわ	automation
+j	自動的	じどうてき	automatic
+j	自動車	じどうしゃ	automobile, car, motorcar
+j	自叙伝	じじょでん	自分が著述した自分の伝記。自伝。
+j	自句自解	じくじかい	writing and exegesis of o…
+j	自問	じもんする	asking oneself
+j	自国民	じこくみん	自国の国民。
+j	自在鉤	じざいかぎ	天井から囲炉裏やかまどの上に吊し、掛けたなべやかま…
+j	自壊	じかいする	self-destruction, self-de…
+j	自学	じがくする	self-study
+j	自害	じがいする	suicide
+j	自尊心	じそんしん	self-respect
+j	自尽	じじんする	to commit suicide
+j	自己中	じこちゅう	自己中心的な人のこと。また、その行為。物事について…
+j	自己中	じこちゅー	自己中心的な人のこと。また、その行為。物事について…
+j	自己中	ジコチュウ	自己中心的な人のこと。また、その行為。物事について…
+j	自己中	ジコチュー	自己中心的な人のこと。また、その行為。物事について…
+j	自己嫌悪	じこけんお	self-loathing; self-hatred
+j	自己意識	じこいしき	self-conscious, self-cons…
+j	自己暗示	じこあんじ	autosuggestion (suggestin…
+j	自己欺瞞	じこぎまん	自分で自分の心（良心、本心）を欺くこと。自欺。
+j	自己流	じこりゅう	師などにつかず自分一人で考え出した流儀ややり方。我…
+j	自己犠牲	じこぎせい	
+j	自己破壊	じこはかい	self-destruction
+j	自己破産	じこはさん	債務者自身が破産手続を申し立てること。
+j	自己資本	じこしほん	（簿記）総資本のうち負債でないもの。
+j	自己顕示	じこけんじ	being in the spotlight
+j	自律的	じりつてき	自分を律するさま。
+j	自愛	じあいする	self-love
+j	自慢	じまんする	pride
+j	自慢する	じまんする	
+j	自慰行為	じいこうい	性的な快感を得るため自ら性感帯を刺激すること。
+j	自我意識	じがいしき	self-conscious, self-cons…
+j	自戒	じかいする	self-admonition
+j	自撮り棒	じどりぼう	
+j	自明の理	じめいのり	
+j	自暴自棄	じぼうじき	desperate
+j	自殺	じさつする	suicide
+j	自殺する	じさつする	
+j	自殺点	じさつてん	own goal
+j	自殺者	じさつしゃ	suicide victim, suicide (…
+j	自民党	じみんとう	
+j	自決	じけつする	deciding by oneself; solv…
+j	自沈	じちんする	scuttling
+j	自治厨	じちちゅう	オンラインフォーラムやソーシャルメディアで、独りよ…
+j	自治寮	じちりょう	学生の自治によって運営される寄宿舎。
+j	自治州	じちしゅう	autonomous state or regio…
+j	自治政府	じちせいふ	自治区や自治領の政府。
+j	自治領	じちりょう	dominion (governed territ…
+j	自滅	じめつする	self-destruction, self-de…
+j	自炊	じすいする	cooking for oneself; maki…
+j	自然薯	じねんじょ	「やまのいも」の別称。自然生。
+j	自爆	じばくする	self-explosion; suicide b…
+j	自爆テロ	じばくてろ	suicide bombing (as terro…
+j	自爆テロ	じばくテロ	suicide bombing (as terro…
+j	自生	じせいする	spontaneous growth, natur…
+j	自生する	じせいする	
+j	自由人	じゆうじん	one who acts freely, rela…
+j	自由党	じゆうとう	liberal party
+j	自由刑	じいうけい	custodial sentence; any p…
+j	自由刑	じゆうけい	custodial sentence; any p…
+j	自由国	じゆうこく	
+j	自由席	じゆうせき	unreserved seat
+j	自由形	じいうがた	freestyle
+j	自由形	じゆうがた	freestyle
+j	自由律	じいうりつ	freeform tanka or haiku
+j	自由律	じゆうりつ	freeform tanka or haiku
+j	自由意志	じゆういし	
+j	自由民	じいうみん	freeman
+j	自由民	じゆうみん	freeman
+j	自画自讃	じがじさん	自画自賛の別形。
+j	自画自賛	じがじさん	self-praise
+j	自発性	じはつせい	spontaneity, initiative
+j	自発的	じはつてき	voluntary, of one's own i…
+j	自白	じはくする	confession
+j	自省	じせいする	self-reflection
+j	自称の	じしょうの	
+j	自立	じりつする	independence, autonomy, s…
+j	自立した	じりつした	
+j	自立して	じりつして	
+j	自立式	じりつしき	塔が支線などによる補助を受けず、自らの重さを支える…
+j	自立拍	じりつはく	any mora that is capable …
+j	自立的	じりつてき	他者に依存せず、自分で物事を行うさま。
+j	自給の	じきゅうの	
+j	自罰的	じばつてき	失敗や問題が起きた際に原因を自分の中に求めて自分を…
+j	自著	じちょする	自分またはその人自身が書きあらわした本。自分の著書。
+j	自薦	じせんする	Self-recommendation (for …
+j	自衛	じえいする	self-defense
+j	自衛官	じえいかん	an official in the Japan …
+j	自衛権	じえいけん	自国または自国民の権利や権益に対しての急迫不正の侵…
+j	自衛隊	じえいたい	the Japan Self-Defense Fo…
+j	自裁	じさいする	suicide
+j	自製	じせいする	something made by oneself
+j	自覚	じかくする	"higher mind": one of the…
+j	自認	じにんする	personally recognizing
+j	自誓	じせいする	taking an oath to oneself
+j	自警団	じけいだん	vigilante group; group th…
+j	自責点	じせきてん	
+j	自賠責	じばいせき	自動車損害賠償責任保険の略。
+j	自走	じそうする	self-propelled
+j	自走砲	じそうほう	火砲を自走可能な車体に搭載した軍用車両。
+j	自足	じそくする	self-sufficiency, to be s…
+j	自転	じてんする	rotation around a fixed a…
+j	自転車	じてんしゃ	a bicycle
+j	自転車	じてんしや	a bicycle
+j	自転車	じでんしゃ	a bicycle
+j	自轉車	じてんしゃ	
+j	自首	じしゅする	surrender, the action of …
+j	自鳴琴	じめいきん	synonym of オルゴール (orugōru…
+j	舒張	じょちょう	拡張する。
+j	舒暢	じょちょう	緊いものが弛むこと。
+j	若冠	じゃっかん	「弱冠」の誤り。
+j	若干	じゃっかん	a few, some
+j	若年	じゃくねん	young people
+j	若年	じやくねん	young people
+j	若輩	じゃくはい	a youth; a young person
+j	若輩	じやくはい	a youth; a young person
+j	茉莉	じゃすみん	synonym of 茉莉花 (matsurika…
+j	茉莉	じゃずみん	synonym of 茉莉花 (matsurika…
+j	茉莉	ジャスミン	synonym of 茉莉花 (matsurika…
+j	茉莉	ジャズミン	synonym of 茉莉花 (matsurika…
+j	茸線	じょうせん	刺繍に使用する毛糸。
+j	蒸散	じょうさん	気孔を通して植物の体内の水を水蒸気として出すこと。
+j	蒸泄	じょうせつ	蒸散すること。
+j	蒸熱	じょうねつ	蒸し暑いこと。蒸暑。
+j	蒸発	じょうはつ	evaporation
+j	蒸糈	じょうしょ	供米。
+j	蒸酒	じょうしゅ	酒を醸造すること。また、醸造酒。
+j	蒸騰	じょうとう	蒸気が立ち上ること。
+j	蓴菜	じゅんさい	water-shield, Brasenia sc…
+j	蓴菜	じゆんさい	water-shield, Brasenia sc…
+j	蓴菜	ジュンサイ	water-shield, Brasenia sc…
+j	蕁麻疹	じんましん	urticaria; hives
+j	薯蕷	じょうよう	synonym of 長芋 (nagaimo, “…
+j	藎筐	じんきょう	草編みの箱。
+j	蛇之助	じゃのすけ	heavy drinker, alcoholic
+j	蛇性	じゃしょう	蛇の性質。また、蛇のような性質。
+j	蛇皮線	じゃびせん	synonym of 三線 (sanshin): …
+j	蛇踊	じゃおどり	dragon dance, a tradition…
+j	術前	じゅつぜん	preoperative
+j	術式	じゅつしき	外科手術のこと。
+j	術数	じゅっすう	陰陽、観相、卜占などの総称。また、暦法、天文を含む…
+j	術策	じゅっさく	はかりごと。策謀。策略。
+j	術計	じゅっけい	手段。手立て。
+j	術道	じゅつどう	祈祷やまじないなどの術。
+j	褥瘡	じょくそう	bedsore
+j	褥草	じょくそう	家畜を飼育する小屋の床に敷く枯れ草や藁。
+j	襄岸	じょうがん	高岸。
+j	襄陽	じやうやう	Xiangyang (a prefecture-l…
+j	襄陽	じょうよう	Xiangyang (a prefecture-l…
+j	訊糾	じんきゅう	取り調べること。
+j	誠信	じょうしん	真実。誠実。
+j	諍乱	じょうらん	争い乱れること。
+j	諍論	じょうろん	論争。
+j	譲国	じょうこく	天皇や国王などが譲位して国を譲ること。
+j	譲譴	じょうけん	咎めること。
+j	貞元	じょうげん	the Jōgen era, 976-978
+j	貞応	じょうおう	the Jōō era, 1222–1224
+j	貞永	じょうえい	the Jōei era, 1232-1233
+j	貞観	じょうがん	the Jōgan era, 859-877
+j	蹂躙	じゅうりん	overrunning
+j	躡手	じょうしゅ	軽快。
+j	躡虚	じょうきょ	空を行くこと。
+j	躡跟	じょうこん	踏むこと。
+j	辞任	じにんする	resignation
+j	辞任する	じにんする	
+j	辞儀をする	じぎをする	to bow, to make a gesture…
+j	辞去	じきょする	taking one's leave
+j	辞書学	じしょがく	lexicography
+j	辞書形	じしょけい	dictionary form
+j	辞退	じたいする	declining, turning down, …
+j	辱交	じょくこう	その人と交際があることを謙譲する語。
+j	辱交	じょっこう	その人と交際があることを謙譲する語。
+j	迅急	じんきゅう	勢いが激しく、極めて急なこと。また、また、そのよう…
+j	迅速な	じんそくな	
+j	述する	じゅつする	述べる。
+j	述作	じゅっさく	先人の言葉を述べることと自分の新説を述べること。
+j	述懐	じゅっかい	an expression of one's th…
+j	遵奉	じゅんぽう	法令や教義などを遵守し従うこと。
+j	遵守	じゅんしゅ	compliance, observance, o…
+j	遵法	じゅんぽう	法令やきまりを遵守し行動すること。順法。
+j	遵用	じゅんよう	前例に従い、そのまま用いること。踏襲すること。
+j	遵行	じゅんこう	（じゅんこう）法令や規則に従って行うこと。
+j	遶縈	じょうえい	巡ること。転折。
+j	邪執	じゃしゅう	よこしまな執念。邪念。
+j	邪宗	じゃしゅう	heresy
+j	邪悪な	じゃあくな	
+j	邪教	じゃきょう	heretical religion, heresy
+j	邪正	じゃしょう	邪なことと正しいこと。
+j	邪気眼	じゃきがん	third eye that can see ev…
+j	邪直	じゃちょく	直線的に飛んだファウルの打球を野手が直接捕球してア…
+j	邪術	じゃじゅつ	black magic
+j	邪魔	じゃまする	in the way; hindering
+j	邪魔する	じゃまする	
+j	邪魔物	じゃまもの	あることをするのに邪魔になる物や人。
+j	邪魔者	じゃまもの	あることをするのに邪魔になる者。
+j	醇厚	じゅんこう	素朴で人情が厚いこと。また、そのようなさま。
+j	醇正	じゅんせい	純粋で雑じり気がないさま。純正。
+j	醇酒	じゅんしゅ	濃厚な濁酒。
+j	醇風	じゅんぷう	人情に厚く素朴な風習。
+j	醸成	じょうせい	brewing, fermentation
+j	醸造	じょうぞう	brewing
+j	醸酒	じょうしゅ	醸造して酒をつくること。また、醸造してつくられた酒。
+j	重㪘	じゅうれん	重斂の拡張新字体を用いた表記。
+j	重代	じゅうだい	先祖から代を重ねること。累代。
+j	重任	じゅうにん	important task, important…
+j	重体	じゅうたい	seriously ill
+j	重刑	じゅうけい	重い刑罰。
+j	重刷	じゅうさつ	一度発行した書物をさらに追加して印刷すること。増刷。
+j	重刻	じゅうこく	書物を重版すること。
+j	重厄	じゅうやく	重大な厄難。
+j	重厚	じゅうこう	profound, deep, stately, …
+j	重台	じゅうだい	重箱をのせるための台。
+j	重合	じゅうごう	polymerization
+j	重圏	じゅうけん	二重丸。
+j	重圧	じゅうあつ	crushing pressure
+j	重大	じゅうだい	important, significant
+j	重奏	じゅうそう	ensemble
+j	重婚	じゅうこん	bigamy
+j	重宝	じゅうほう	priceless treasure
+j	重山	じゅうざん	幾重にも重なった山。
+j	重工	じゅうこう	
+j	重心	じゅうしん	a center of gravity; a ce…
+j	重態	じゅうたい	病気や負傷の容態が非常に重いこと。
+j	重慶	じゅうけい	Chongqing (a direct-admin…
+j	重斂	じゅうれん	重税。
+j	重文	じゅうぶん	compound sentence
+j	重星	じゅうせい	肉眼や倍率の低い望遠鏡では一つの星に見えるが、実際…
+j	重書	じゅうしょ	貴重、重要な文書。
+j	重曹	じゅうそう	synonym of 重炭酸ナトリウム (jūta…
+j	重根	じゅうこん	2次以上の代数方程式を因数分解して解く際に複数出る…
+j	重殺	じゅうさつ	野手の連続したプレーで打者と一人の走者または二人の…
+j	重水	じゅうすい	heavy water
+j	重液	じゅうえき	純水より比重が大きい液体。
+j	重点	じゅうてん	important point
+j	重版	じゅうはん	reprint (new round of pri…
+j	重犯	じゅうはん	重い罪を犯すこと。また、そのような罪。
+j	重犯	じゅうぼん	重い罪を犯すこと。また、そのような罪。
+j	重用	じゅうよう	assignment to an importan…
+j	重瞳	じゅうどう	一つの目に瞳が二つあること。
+j	重石	じゅうせき	タングステン酸塩鉱物の総称。
+j	重砲	じゅうほう	口径が大きく威力がある大砲。
+j	重禄	じゅうろく	高い給。多くの知行。
+j	重税	じゅうぜい	負担の重い多額な税金。
+j	重箱	じゅうばこ	tiered boxes for holding …
+j	重篤	じゅうとく	seriously ill
+j	重罪	じゅうざい	serious crime; felony
+j	重臣	じゅうしん	senior statesman
+j	重蔵	じゅうぞう	a male given name
+j	重袋	じゅうたい	重量のあるものを入れるための袋。
+j	重複	じゅうふく	duplication
+j	重要	じゅうよう	important, significant
+j	重訂	じゅうてい	再度訂正すること。
+j	重訳	じゅうやく	他言語に翻訳されたものをさらに他の言語に翻訳するこ…
+j	重責	じゅうせき	重い責任。
+j	重載	じゅうさい	重い荷物。
+j	重連	じゅうれん	動力車を先頭に一括連結して運転すること。重連運転。
+j	重鎮	じゅうちん	leader, leading figure
+j	重電	じゅうでん	heavy electric
+j	銃丸	じゅうがん	銃火器の弾、弾丸。鉄砲玉、銃弾。
+j	銃兵	じゅうへい	火縄銃やマスケット銃で武装した歩兵。
+j	銃刀	じゅうとう	銃と刀剣。
+j	銃刑	じゅうけい	銃殺に処する刑罰。
+j	銃剣	じゅうけん	bayonet
+j	銃創	じゅうそう	bullet wound, gunshot wou…
+j	銃創	じゆうさう	bullet wound, gunshot wou…
+j	銃口	じゅうこう	muzzle (open end of a gun)
+j	銃声	じゅうせい	the sound of a gun's fire…
+j	銃工	じゅうこう	銃を作ったり、加工、修理を行う工匠。
+j	銃弾	じゅうだん	bullet (projectile)
+j	銃撃	じゅうげき	shooting; gun attack
+j	銃殺	じゅうさつ	shooting to death, execut…
+j	銃火	じゅうくわ	gunfire
+j	銃痕	じゅうこん	gunshot wound, gunshot ho…
+j	銃眼	じゅうがん	
+j	銃砲	じゅうほう	firearm; guns and cannons
+j	銃砲	じゆうはう	firearm; guns and cannons
+j	銃腹	じゅうふく	銃で銃身の中の部分。
+j	銃薬	じゅうやく	小銃に装填し、弾丸を発射させる火薬。
+j	銃身	じゅうしん	barrel (metallic tube of …
+j	銃陣	じゅうじん	銃で武装した部隊の陣。
+j	錠	じょうまえ	a device used to make a d…
+j	錠前	じょうまえ	padlock, lock
+j	錠剤	じょうざい	a tablet
+j	閏年	じゅんねん	a leap year
+j	閏日	じゅんじつ	leap day
+j	閏月	じゅんげつ	leap month
+j	閏統	じゅんとう	正統でない系統。傍系。
+j	陣太鼓	じんだいこ	戦場で進退の合図のために打ち鳴らす太鼓。
+j	除却	じょきゃく	固定資産の物理的な廃棄。
+j	除臭	じょしゅう	臭気を除去すること。消臭。
+j	除虫	じょちゅう	害虫を除去すること。
+j	除針器	じょしんき	
+j	除雪機	じょせつき	snowblower, snow plow (de…
+j	雀卓	じゃんたく	牌を打つのに用いる方形のテーブル。
+j	雀斑	じゃくはん	freckles
+j	雀瘢	じゃくはん	雀斑の異表記。
+j	雀荘	じゃんそう	shop where people can pla…
+j	雀荘	ジャンそう	shop where people can pla…
+j	雀躍	じゃくやく	leap for joy
+j	需供	じゅきょう	需要と供給。需給。
+j	需擾	じゅじょう	賄賂。
+j	需給	じゅきゅう	supply and demand
+j	需要家	じゅようか	person or group (organiza…
+j	順一	じゅんいち	a male given name
+j	順三	じゅんぞう	a male given name
+j	順便	じゅんべん	都合が良いこと。
+j	順修	じゅんしゅ	迷いを捨て、真理にかなう修行をすること。
+j	順守	じゅんしゅ	observance, adherence, co…
+j	順平	じゅんぺい	a male given name
+j	順序	じゅんじょ	order, sequence
+j	順延	じゅんえん	順番に期日を延ばすこと。
+j	順当	じゅんとう	proper, right, reasonable
+j	順徳	じゅんとく	
+j	順応	じゅんのう	acclimatization
+j	順応	じゆんおう	acclimatization
+j	順接	じゅんせつ	resultative, a particle o…
+j	順正	じゅんせい	道理に従い、行いが正しいこと。
+j	順民	じゅんみん	政策や教化などに従順な民。
+j	順法	じゅんぽう	compliance; law observance
+j	順番	じゅんばん	order, turn
+j	順縁	じゅんえん	老いた者から順に死んで行くこと。
+j	順行	じゅんこう	惑星が天球上を太陽と同じ向きに進むこと。
+j	順観	じゅんかん	順序にしたがい観想すること。
+j	順道	じゅんどう	順当な道筋であるさま。
+j	順風	じゅんぷう	favorable wind
+j	食頃	じききょう	食事を摂るくらい短い時間。
+j	饒羨	じょうせん	豊かで余ること。
+j	饒舌	じょうぜつ	talkative
+j	饒鬚	じょうしゅ	鬚が多いさま。
+j	馴養	じゅんよう	動物を飼い慣らすこと。
+j	馴鹿	じゅんろく	a reindeer (Rangifer tara…
+j	鵲橋	じやくけう	magpie bridge across the …
+j	じかだんぱん	じかだんぱん	直談判: direct negotiation, …
+j	じきゆにゅう	じきゆにゅう	直輸入: direct import
+j	じこけってい	じこけってい	自己決定: self-determination
+j	じっけんしつ	じっけんしつ	実験室: laboratory
+j	じっこうけん	じっこうけん	実行権: (computing) execute …
+j	じっせいかつ	じっせいかつ	実生活: real or actual life
+j	じったいけん	じったいけん	実体験: real experience
+j	じったいろん	じったいろん	実体論: substantialism
+j	じつざいろん	じつざいろん	実在論: realism
+j	じゃあまたね	じゃあまたね	
+j	じゃかじゃか	じゃかじゃか	Onomatopoeia for noisily …
+j	じゃがバター	じゃがバター	buttered potatoes
+j	じゃじゃうま	じゃじゃうま	暴れ馬。
+j	じゃじゃーん	じゃじゃーん	Representing fanfare: ta-…
+j	じゃじゃ馬	じゃじゃうま	restive horse
+j	じゃみじゃみ	じゃみじゃみ	スノーノイズ。
+j	じゃもんがん	じゃもんがん	蛇紋岩: serpentinite
+j	じゃもんせき	じゃもんせき	蛇紋石: serpentine
+j	じゃん拳ぽん	じゃん拳ぽん	
+j	じゅういちじ	じゅういちじ	十一時: eleven o'clock
+j	じゅうきがな	じゅうきがな	住基仮名: hentaigana for old …
+j	じゅうじぐん	じゅうじぐん	十字軍: crusaders
+j	じゅうじゅう	じゅうじゅう	sizzling
+j	じゅうすいそ	じゅうすいそ	重水素: heavy hydrogen
+j	じゅうたろう	じゅうたろう	重太郎: a male given name
+j	じゅうにがつ	じゅうにがつ	
+j	じゅうのあし	じゅうのあし	漢字の部首「⽱」の呼称の一つ。
+j	じゅうりょう	じゅうりょう	重量: weight
+j	じゅくじゅく	じゅくじゅく	水分が中から滲み出るさま。
+j	じゅるたんぼ	じゅるたんぼ	（方言）湿田。水田。
+j	じゅんちょう	じゅんちょう	順調: favorable
+j	じょうしょう	じょうしょう	
+j	じょうじゅつ	じょうじゅつ	杖術: jojutsu
+j	じょうじょう	じょうじょう	
+j	じょうびたき	じょうびたき	スズメ目スズメ科（ヒタキ科）ジョウビタキ属に属する…
+j	じょうみゃく	じょうみゃく	
+j	じょせつしゃ	じょせつしゃ	除雪車: snow plow (vehicle)
+j	じょちょくご	じょちょくご	
+j	じょぼじょぼ	じょぼじょぼ	with the sound of flowing…
+j	じょりじょり	じょりじょり	the sound of shaving a be…
+j	じろじろ見る	じろじろ見る	
+j	じんじんする	じんじんする	
+j	じんばきゅう	じんばきゅう	人馬宮: Sagittarius (astrolo…
+j	ジアスターゼ	ジアスターゼ	1833年フランスで初めて麦芽から分離されたアミラ…
+j	ジェイアール	ジェイアール	「JR」のカタカナ表記。
+j	ジェスイット	ジェスイット	
+j	ジェスチャー	ジェスチャー	gesture
+j	ジェットラグ	ジェットラグ	ジェット機で旅行した際に起こる時差ぼけ。
+j	ジェネリック	ジェネリック	generic
+j	ジェノサイド	ジェノサイド	genocide
+j	ジェルネイル	ジェルネイル	gel nail
+j	ジエン・ジー	ジエン・ジー	
+j	ジカルボン酸	ジカルボン酸	
+j	ジステンパー	ジステンパー	主にイヌ科やイタチ科の動物が罹るウイルス性の伝染病…
+j	ジップコード	ジップコード	ZIP code (US postal code)
+j	ジップライン	ジップライン	zipline
+j	ジブチ共和国	ジブチ共和国	ジブチの正式な国号。
+j	ジブラルタル	ジブラルタル	Gibraltar (a peninsula, c…
+j	ジベタリアン	ジベタリアン	ところ構わず地面に腰をついて座る人。
+j	ジムナジウム	ジムナジウム	gymnasium
+j	ジャイアント	ジャイアント	giant
+j	ジャイナ教徒	ジャイナ教徒	ジャイナ教の信者。
+j	ジャガーネコ	ジャガーネコ	ネコ目ネコ科オセロット属に属する食肉類の一種。学名…
+j	ジャガー人間	ジャガー人間	
+j	ジャグリング	ジャグリング	juggling (moving of objec…
+j	ジャコウウシ	ジャコウウシ	クジラ偶蹄目ウシ科ジャコウウシ属に属する鯨偶蹄類の…
+j	ジャコウネコ	ジャコウネコ	ネコ目（食肉目）ジャコウネコ科に属する動物の総称。
+j	ジャコビアン	ジャコビアン	イギリスのジェームズ1世(在位1601-25)の治…
+j	ジャジャーン	ジャジャーン	
+j	ジャスティス	ジャスティス	正義。
+j	ジャスティン	ジャスティン	
+j	ジャスミン米	ジャスミン米	
+j	ジャスミン茶	ジャスミン茶	中国の緑茶に乾燥させたジャスミンの花を混ぜた茶。茉…
+j	ジャスラック	ジャスラック	synonym of 日本音楽著作権協会 (“Ja…
+j	ジャズバンド	ジャズバンド	
+j	ジャッガリー	ジャッガリー	
+j	ジャックソン	ジャックソン	a transliteration of the …
+j	ジャナクプル	ジャナクプル	
+j	ジャバルプル	ジャバルプル	Jabalpur (a city in India)
+j	ジャパニーズ	ジャパニーズ	Japanese people.
+j	ジャパノイズ	ジャパノイズ	Japanoise
+j	ジャボチカバ	ジャボチカバ	jaboticaba
+j	ジャポニカ種	ジャポニカ種	ジャポニカ米の別称。
+j	ジャポニズム	ジャポニズム	
+j	ジャンバラヤ	ジャンバラヤ	
+j	ジャンビーヤ	ジャンビーヤ	jambiya
+j	ジャンプする	ジャンプする	
+j	ジャンボリー	ジャンボリー	
+j	ジャージー種	ジャージー種	「ジャージー」を参照。
+j	ジャーマニー	ジャーマニー	Germany
+j	ジュデッカ島	ジュデッカ島	
+j	ジュラルミン	ジュラルミン	duralumin
+j	ジュリエット	ジュリエット	天王星の衛星の固有名。
+j	ジュンガリア	ジュンガリア	
+j	ジョッキング	ジョッキング	ジョギングの別形。
+j	ジョッギング	ジョッギング	ジョギングの別形。
+j	ジョロウグモ	ジョロウグモ	クモ目ジョロウグモ科ジョロウグモ属に属する蜘蛛の一…
+j	ジョン・ブル	ジョン・ブル	
+j	ジョージアの	ジョージアの	
+j	ジョージアン	ジョージアン	イギリスのジョージ1世(在位1714-27)、ジョ…
+j	ジョージア人	ジョージア人	ジョージア国籍を持つ人、ジョージア出身者。
+j	ジョージア州	ジョージア州	the full form of ジョージア (“…
+j	ジョージア語	じょーじあご	Georgian (language)
+j	ジョージア語	ジョージアご	Georgian (language)
+j	ジョージア語	ジョージア語	Georgian (language)
+j	ジョーゼット	ジョーゼット	georgette
+j	ジョードプル	ジョードプル	
+j	ジルコニウム	ジルコニウム	zirconium, Zr
+j	ジロンド県人	ジロンド県人	
+j	ジンギスカン	ジンギスカン	a Japanese dish of lamb o…
+j	ジングルベル	ジングルベル	棒に多数の鈴を付けた打楽器。
+j	ジンゴイズム	ジンゴイズム	jingoism
+j	ジンバブエ人	ジンバブエ人	ジンバブエ国籍を有する者。ジンバブエ出身者。
+j	ジンベイザメ	ジンベイザメ	ジンベエザメの別称
+j	ジンベエザメ	ジンベエザメ	甚兵衛鮫の学術的表記。
+j	ジン・ラミー	ジン・ラミー	
+j	ジークハイル	ジークハイル	
+j	丈量	じょうりょう	土地の面積を測量すること。
+j	上上	じやうじやう	the best, great, superb
+j	上上	じょうじょう	the best, great, superb
+j	上下	じょうかする	ascending and descending,…
+j	上下	じょうげする	ascending and descending,…
+j	上下点	じょうげてん	in kambun, a tertiary typ…
+j	上乗	じょうじょう	非常によいさま。
+j	上京	じやうきやう	going to Tokyo
+j	上京	じょうきょう	going to Tokyo
+j	上半期	じょうはんき	the first half (of the) y…
+j	上古音	じょうこおん	漢字の音韻体系のうち、周から漢にかけて用いられてい…
+j	上品な	じょうひんな	
+j	上場	じょうじょう	listing a company on a st…
+j	上声	じやうしやう	the rising tone (one of t…
+j	上声	じょうしょう	the rising tone (one of t…
+j	上客	じやうきやく	a distinguished guest, gu…
+j	上客	じょうきゃく	a distinguished guest, gu…
+j	上将	じゃうしゃう	a high-ranking general (o…
+j	上将	じょうしょう	a high-ranking general (o…
+j	上局	じょうきょく	明治維新後の1868年政府が下局とともに設置した立…
+j	上州	じょうしゅう	Gunma (a prefecture of Ja…
+j	上市	じょうしする	going on the market
+j	上新粉	じょうしんこ	白米を日光で乾燥し、挽いて粉末にしたもののうち目が…
+j	上旬	じょうじゅん	the first 10 days of the …
+j	上昇	じょうしょう	ascent; rise
+j	上梓	じょうしする	publication
+j	上機嫌	じやうきげん	in a cheerful mood; in hi…
+j	上機嫌	じょうきげん	in a cheerful mood; in hi…
+j	上気	じょうきする	rush of blood to the head…
+j	上流	じょうりゅう	the upper reaches of a st…
+j	上生	じょうしょう	極楽浄土に往生する階位である九品のうち上品、中品、…
+j	上級	じょうきゅう	superiority; upper class
+j	上術	じょうじゅつ	よい方法。
+j	上表	じょうひょう	上に出した図表。
+j	上述	じょうじゅつ	the above-mentioned
+j	上長	じょうちょう	chief
+j	上饒	じょうじょう	Shangrao (a prefecture-le…
+j	上首尾	じょうしゅび	successful
+j	丞相	じょうしょう	prime minister (in ancien…
+j	丞相	じようしやう	prime minister (in ancien…
+j	乗下車	じょうげしゃ	乗車および下車。
+j	乗務	じょうむする	service as crew on a vehi…
+j	乗務員	じょうむいん	attendant on a train; air…
+j	乗務員	じょうむゐん	attendant on a train; air…
+j	乗客	じょうきゃく	passenger
+j	乗馬	じょうばする	riding a horse
+j	乗馬道	じょうばどう	乗馬をするために森林を切り開いて作った馬道。
+j	乗馬隊	じょうばたい	
+j	乗駕	じょうがする	mounting (as in animal co…
+j	事務弁護士	じむべんごし	solicitor (lawyer offerin…
+j	事務用品	じむようひん	事務作業に使用される道具。電卓、伝票、封筒など。
+j	事実上	じじつじやう	matter of fact; actually;…
+j	事実上	じじつじょう	matter of fact; actually;…
+j	事実上の	じじつじょう	
+j	事実無根	じじつむこん	groundless; entirely cont…
+j	事実誤認	じじつごにん	mistake of fact
+j	事情通	じじやうつう	An expert or someone who …
+j	事情通	じじょうつう	An expert or someone who …
+j	事故物件	じこぶっけん	過去に事件・事故などにより住民が死亡したことのある…
+j	事業主	じぎょうしゅ	ある事業を経営する人や団体。業主。
+j	事業主	じぎょうぬし	ある事業を経営する人や団体。業主。
+j	事業所	じぎょうしょ	同一の事業が行われる一定の場所。
+j	二乗	じじょうする	squaring
+j	人事異動	じんじいどう	組織内においてそこに所属する者の地位、職務、勤務地…
+j	人事考課	じんじこうか	従業員の勤務の成績や能力、適性、態度などを評価、査…
+j	人力車	じんりきしゃ	a rickshaw
+j	人口学	じんこうがく	demography
+j	人名訓	じんめいくん	人名に使われる、漢字の特殊な訓読み。
+j	人工物	じんこうぶつ	人の手で作られた物。アーティファクト。
+j	人工的	じんこうてき	artificial
+j	人工芝	じんこうしば	artificial turf, artifici…
+j	人文学	じんぶんがく	humanities
+j	人文的	じんぶんてき	academic (scholarly; lite…
+j	人格化	じんかくくわ	personification, anthropo…
+j	人格権	じんかくけん	personality rights
+j	人格者	じんかくしゃ	a man of character, a per…
+j	人民元	じんみんげん	renminbi (the official cu…
+j	人民党	じんみんとう	
+j	人民幣	じんみんへい	renminbi (the official cu…
+j	人民服	じんみんふく	大陸統治時代の中華民国で考案された同色で折襟の上衣…
+j	人為的な	じんいてきな	
+j	人物的	じんぶつてき	人物に関するさま。
+j	人生観	じんせいかん	view of life; perspective…
+j	人種的	じんしゅてき	人種に関すること。また、そのさま。
+j	人身事故	じんしんじこ	an accident resulting in …
+j	人身供儀	じんしんくぎ	生きた人間を神の生け贄として捧げること。また、生け…
+j	人道的	じんどうてき	humane
+j	人選	じんせんする	selection of a person
+j	人面魚	じんめんぎょ	fish with a human-like fa…
+j	人頭税	じんとうぜい	国民またはある地域の住民一人一人に定額でかかる税金。
+j	人類学	じんるいがく	anthropology
+j	人馬宮	じんばきゅう	Sagittarius
+j	什刹海	じっさつかい	
+j	什襲	じゅうしゅう	幾重にも重なること。
+j	仍旧	じょうきゅう	依然。前のまま。
+j	仗術	じょうじゅつ	杖道、警杖術の基本となった仗と呼ばれる棒によって相…
+j	住基仮名	じゅうきがな	hentaigana for old names …
+j	住宅地	じゅうたくち	住宅を建てるための土地。
+j	住職	じゅうしょく	serving as head priest of…
+j	侍従官	じじゅうかん	
+j	侍衛長	じえいちょう	captain of the guard; chi…
+j	儒学者	じゅがくしゃ	儒学の教えを学び、伝える者。
+j	充充	じゅうじゅう	うろうろするさま。
+j	充分だ	じゅうぶんだ	
+j	充分な	じゅうぶんな	
+j	充分に	じゅうぶんに	
+j	充給	じゅうきゅう	あてがい、支給すること。
+j	充電器	じゅうでんき	electrical charger
+j	充電器	じゆうでんき	electrical charger
+j	充電池	じゅうでんち	rechargeable battery
+j	児童ポルノ	じどうぽるの	child pornography
+j	児童ポルノ	じどうポルノ	child pornography
+j	児童館	じどうくわん	children's hall (Japanese…
+j	入内	じゅだいする	imperial bridal party's e…
+j	入水	じゅすいする	suicide by drowning, drow…
+j	入洛	じゅらくする	proceeding to Kyoto, ente…
+j	入牢	じゅろうする	imprisonment
+j	冗長	じょうちょう	redundant
+j	准士官	じゅんしかん	a warrant officer
+j	准将	じゅんしょう	a brigadier
+j	准将	じゆんしやう	a brigadier
+j	准州	じゅんしゅう	準州の別表記。
+j	准海尉	じゅんかいい	a warrant officer
+j	准空尉	じゅんくうい	a warrant officer
+j	准陸尉	じゅんりくい	a warrant officer
+j	剰余価値	じょうよかち	surplus value
+j	剰余金	じょうよきん	（会計）純資産のうち、資本金、資本準備金を控除した…
+j	助動詞の	じょどうしの	
+j	助成	じょせいする	financial assistance
+j	助成金	じょせいきん	subsidy; grant
+j	助成金	じよせいきん	subsidy; grant
+j	助手席	じょしゅせき	passenger seat
+j	助教諭	じょきょうゆ	小学校、中学校、高等学校で教諭を補助する職。
+j	助燃剤	じょねんざい	combustion / burning aid
+j	助燃剤	じよねんざい	combustion / burning aid
+j	助産学	じょさんがく	助産について研究する学問。
+j	助産所	じょさんしょ	助産師が助産を行う施設。
+j	助産所	じょさんじょ	助産師が助産を行う施設。
+j	助監督	じょかんとく	assistant director
+j	助言	じょげんする	advice (opinion recommend…
+j	助言する	じょげんする	
+j	助走	じょそうする	run-up; approach run
+j	十ヶ月	じゅっかげつ	ten months
+j	十ヶ月	じゅっヶげつ	ten months
+j	十一度	じゅういちど	回数が十一であること。十一回。
+j	十一時	じゅういちじ	eleven o'clock
+j	十七時	じゅうしちじ	二十四時間制で午後五時のこと。
+j	十七時	じゅうななじ	二十四時間制で午後五時のこと。
+j	十三度	じゅうさんど	十三回。とおあまりみたび。
+j	十三時	じゅうさんじ	二十四時間制で午後一時のこと。
+j	十三里	じゅうさんり	roast sweet potato
+j	十両	じゅうりょう	1両の10倍。
+j	十乗	じゅうじょう	「十乗観法」の略。
+j	十九	じゅうきゅう	nineteen; 19
+j	十九日	じゅうくにち	nineteen days
+j	十二分	じゅうにふん	more than enough
+j	十二分	じゅうにぶん	more than enough
+j	十二天	じゅうにてん	仏教で四方八方などを守護する十二人の天部。日天、月…
+j	十二宮	じふにきゆう	〔占星術〕 黄道十二宮のこと。獣帯を30度ずつ12…
+j	十二律	じゅうにりつ	standardized gamut of twe…
+j	十二日	じゅうににち	twelfth day of the month
+j	十二月	じふにぐわつ	December
+j	十二月	じゅうにがつ	December
+j	十五日	じゅうごにち	fifteenth day of the month
+j	十六夜	じゅうろくや	the sixteenth night of th…
+j	十六時	じゅうろくじ	二十四時間制で午後四時のこと。
+j	十分だ	じゅうぶんだ	
+j	十分に	じゅうぶんに	
+j	十四日	じゅうよっか	fourteenth day of the mon…
+j	十姉妹	じゅうしまつ	a Bengalese finch
+j	十姉妹	ジュウシマツ	a Bengalese finch
+j	十字線	じゅうじせん	reticle; crosshair
+j	十字街	じゅうじがい	
+j	十字軍	じゅうじぐん	crusaders
+j	十時打ち	じゅうじうち	列車が始発駅を発車する日の一か月前の午前十時、つま…
+j	十条	じゅうじょう	条坊で東西に通じる大路の一つ。
+j	十枚目	じゅうまいめ	複数ある枚数の十番目。
+j	十生児	じゅっせいじ	同じ両親から同じ日に生まれた十人の子供。
+j	十番目	じゅうばんめ	
+j	十章	じゅっしょう	十番目の章。
+j	十角形	じっかくけい	a decagon
+j	十角形	じっかっけい	a decagon
+j	十進数	じっしんすう	
+j	十進法	じっしんぽう	十を底として、十の累乗で桁を進める記数法。通常は、…
+j	受信	じゅしんする	reception of a signal, su…
+j	受信人	じゅしんにん	addressee
+j	受信箱	じゅしんばこ	in-box (electronic folder)
+j	受刑	じゅけいする	imprisonment
+j	受刑者	じゅけいしゃ	convict sentenced to time…
+j	受動態	じゅどうたい	passive voice
+j	受動的	じゅどうてき	passive (not active, but …
+j	受容	じゅようする	reception, acceptance
+j	受精	じゅせいする	fertilization
+j	受精卵	じゅせいらん	zygote; fertilised egg
+j	受胎	じゅたいする	conception; fertilization
+j	受託	じゅたくする	receiving in trust, espec…
+j	受託物	じゅたくぶつ	
+j	受託者	じゅたくしゃ	trustee
+j	受諾	じゅだくする	acceptance
+j	受講	じゅこうする	attending lectures or tak…
+j	受講生	じゅこうせい	students who are taking c…
+j	受贈者	じゅぞうしゃ	財産の贈与を受けた者。
+j	受難者	じゅなんしゃ	
+j	受電	じゅでんする	act of receiving electric…
+j	受験	じゅけんする	taking an exam, especiall…
+j	受験生	じゅけんせい	student who is preparing …
+j	叙情詩	じょじょうし	作者の感情や情緒を主観的に表した詩。
+j	呪縛	じゅばくする	a magical binding, spellb…
+j	呪術医	じゅじゅつい	
+j	呪術師	じゅじゅつし	呪術を行う者。呪師。魔術師。
+j	地主神	じしゅのかみ	土地の守護神。神社、寺院に祀られる。
+j	地主神	じぬしのかみ	土地の守護神。神社、寺院に祀られる。
+j	地獄の門	じごくのもん	
+j	地盤沈下	じばんちんか	地殻変動や地下水、天然ガスの採取などにより地盤が広…
+j	地蔵菩薩	じぞうぼさつ	Kṣitigarbha bodhisattva
+j	地金が出る	じがねがでる	普段、または今まで隠していた（悪い）性質が現れる。…
+j	地金の錆	じがねのさび	生まれつき持っている、悪い癖や習慣。生来の悪癖。（…
+j	地金を出す	じがねをだす	「地金が出る」の他動詞形。
+j	地震保険	じしんほけん	地震、噴火、津波に起因する財産の損害を補償する損害…
+j	地震探査	じしんたんさ	物理探査の一種で、弾性波探査・地震探鉱ともいう。人…
+j	地震津波	じしんつなみ	地震によって発生する津波
+j	城下町	じゃうかまち	castle town
+j	城下町	じょうかまち	castle town
+j	城之内	じょうのうち	a surname
+j	城州	じょうしゅう	山城国^(（やましろのくに）)の別称。山州。
+j	場長	じょうちょう	試験場など「場」が付く施設の責任者。
+j	塵旋風	じんせんぷう	
+j	塵点劫	じんでんごう	計ることができないほど非常に長い時間。塵劫。
+j	塾長	じゅくちょう	塾の代表者。
+j	女子児童	じょしじどう	
+j	女子力	じょしりょく	femininity; girliness
+j	女子寮	じょしりょう	girls' dormitory
+j	女子生徒	じょしせいと	
+j	女学校	じょがっこう	女子教育を行う学校。女学。
+j	女学生	じょがくせい	a female student; a schoo…
+j	女性学	じょせいがく	
+j	女性性	じょせいせい	
+j	女性愛	じょせいあい	
+j	女性的	じょせいてき	いかにも女らしい様。優雅さ、やわらかさなどを備えて…
+j	女王蜂	じょおうばち	queen bee
+j	女真族	じょしんぞく	中国東北部を中心にいたツングース系の民族。女真。
+j	女装	じょそうする	women's clothing; wearing…
+j	女装する	じょそうする	
+j	女郎蜘蛛	じょろうぐも	a jorōgumo
+j	女郎蜘蛛	じよらうぐも	a jorōgumo
+j	女郎蜘蛛	ジョロウグモ	a jorōgumo
+j	女郎蜘蛛	ジヨラウグモ	a jorōgumo
+j	如才ない	じょさいない	smart; clever
+j	如才ない	じよさいない	smart; clever
+j	如才なさ	じょさいなさ	
+j	如才無い	じょさいない	抜け目がない。
+j	嬢ちゃん	じょうちゃん	young girl, miss
+j	定命	じょうみょう	limit of human lifespan d…
+j	定額寺	じょうがくじ	朝廷が一定の数を定め、官寺に準じて保護した寺院。朝…
+j	実を言えば	じつをいえば	as a matter of fact; to t…
+j	実人生	じつじんせい	現実の生活や人生。
+j	実体化	じつたいくわ	substantiation; materiali…
+j	実体論	じったいろん	substantialism
+j	実体験	じったいけん	real experience; actual o…
+j	実利主義	じつりしゅぎ	utilitarianism
+j	実利的な	じつりてきな	
+j	実在	じつざいする	existence; reality
+j	実在論	じつざいろん	realism
+j	実地試験	じっちしけん	practical test
+j	実定法	じっていほう	positive law
+j	実引数	じつひきすう	actual parameter; argument
+j	実念論	じつねんろん	普遍的な概念は個物から独立し、また個物に先立ち客観…
+j	実感	じっかんする	actual feeling
+j	実戦的	じっせんてき	実際に戦うさま。実戦で役立つさま。
+j	実技試験	じつぎしけん	実際に技術、演技を行わせ、その出来映えなどを審査す…
+j	実数体	じっすうたい	real number field
+j	実数列	じっすうれつ	項が全て実数である数列。
+j	実時間の	じつじかんの	
+j	実検	じっけんする	checking; inspecting
+j	実業家	じつぎょうか	industrialist
+j	実測	じっそくする	survey; actual measuremen…
+j	実演	じつえんする	demonstration (showing ho…
+j	実物大	じつぶつだい	actual size
+j	実現	じつげんする	implementation; materiali…
+j	実現する	じつげんする	
+j	実生活	じっせいかつ	real or actual life
+j	実生活	じつせいかつ	real or actual life
+j	実用品	じつようひん	daily or domestic articles
+j	実用的	じつようてき	practical
+j	実相寺	じっしょうじ	a surname
+j	実社会	じっしゃかい	the (harsh) real world
+j	実行	じっこうする	practice
+j	実行する	じっこうする	
+j	実行キー	じっこうきー	エンターキー。
+j	実行権	じっこうけん	right to execute a file, …
+j	実行者	じっこうしゃ	performer
+j	実装	じっそうする	package; implementation; …
+j	実見	じっけんする	seeing with one's own eye…
+j	実解析	じつかいせき	real analysis
+j	実質的	じっしつてき	substantial
+j	実践	じっせんする	practice
+j	実践的	じっせんてき	practical
+j	実践的	じつせんてき	practical
+j	実録物	じつろくもの	true account (Edo-era gen…
+j	実関数	じつかんすう	real variable function
+j	実際性	じっさいせい	practically
+j	実際的	じっさいてき	practical
+j	実験	じっけんする	experiment
+j	実験する	じっけんする	
+j	実験台	じっけんだい	laboratory testing bench;…
+j	実験器具	じっけんきぐ	実験で使用する機器、用具の総称。
+j	実験室	じっけんしつ	synonym of 研究室 (kenkyūshi…
+j	実験式	じっけんしき	empirical formula
+j	実験的	じっけんてき	experimental
+j	実験群	じっけんぐん	experimental group
+j	実験者	じっけんしゃ	experimenter; researcher
+j	寂寂	じゃくじゃく	ひっそりとしてもの寂しいさま。
+j	寂静	じゃくじょう	quietness; tranquility; s…
+j	寂静	じやくじやう	quietness; tranquility; s…
+j	寿老人	じゅろうじん	Jurōjin, Japanese god of …
+j	尋問	じんもんする	questioning, interrogation
+j	尋問する	じんもんする	
+j	巡業	じゅんぎょう	各地を興行しながら回ること。
+j	巡爵	じゅんしゃく	平安時代以降、五年勤務した六位の蔵人の最も上位の者…
+j	巡視	じゅんしする	patrol, inspection tour
+j	巡視船	じゅんしせん	海上保安庁が海上警備の際に使う大型の船舶。
+j	巡視艇	じゅんしてい	海上保安庁が海上警備の際に使う小型の船舶。
+j	常住	じょうじゅう	消滅したり変化したりせずに永遠に存在すること。
+j	常備	じょうびする	keeping something ready a…
+j	常勝	じょうしょう	戦いや試合などで常に勝つこと。
+j	常命	じょうみょう	人間の普通の寿命。
+j	常夜灯	じょうやとう	夜間ずっと灯しておく灯火。
+j	常夜燈	じょうやとう	
+j	常套句	じょうとうく	conventional phrase, stoc…
+j	常套語	じょうとうご	conventional phrase, stoc…
+j	常客	じゃうきゃく	a regular customer, custo…
+j	常客	じょうきゃく	a regular customer, custo…
+j	常州	じょうしゅう	中華人民共和国・江蘇省南部の都市。常州市。
+j	常微分	じょうびぶん	（偏微分に対して）一変数関数の微分。
+j	常態化	じょうたいか	normalization
+j	常業	じょうぎょう	日常の業務や授業。
+j	常楽会	じょうらくえ	「涅槃会」の別称。
+j	常緑	じょうりょく	evergreen
+j	常螺旋	じょうらせん	螺旋のうち、円筒座標でr=a\z=bθと表示される…
+j	常識家	じょうしきか	常に一般的、常識的な考えや行動をとる人。
+j	常食	じやうしよく	daily food
+j	常食	じょうしょく	daily food
+j	常駐	じやうちゆう	continuous presence
+j	常駐	じょうちゅう	continuous presence
+j	序盤戦	じょばんせん	序盤の戦い。緒戦。
+j	序破急	じょはきゅう	a three-stage system tran…
+j	弱位相	じゃくいそう	XをK上のノルム空間とし、X^*={α~:~X→K…
+j	弱体化	じゃくたいか	組織・体制などの力が弱くなること。
+j	弱冠	じやくくわん	20 years of age
+j	弱化	じゃっかする	weakening
+j	弱塩基	じゃくえんき	水溶液などで電解度が小さい塩基。弱アルカリ。
+j	弱小	じゃくしょう	the small and weak
+j	弱素数	じゃくそすう	前後の素数の平均より自身が小さい素数。
+j	弱音器	じゃくおんき	mute (device for dulling …
+j	弱音器	じやくおんき	mute (device for dulling …
+j	徐行	じょこうする	slow walking
+j	従事	じゅうじする	engagement in something
+j	従事者	じゅうじしゃ	practitioner, worker
+j	従姉妹	じゅうしまい	a female cousin
+j	従戎	じゅうじゅう	従軍。
+j	従業	じゅうぎょう	being engaged in employme…
+j	従良	じゅうりょう	奈良時代、賤民が解放され良民となること。
+j	従衆	じゅうしゅう	衆議に従うこと。
+j	従軍画家	じゅぐんがか	従軍する画家。
+j	従量	じゅうりょう	according to volume
+j	従量	じゆうりやう	according to volume
+j	従順	じゅうじゅん	following orders; obedien…
+j	従順	じゆうじゆん	following orders; obedien…
+j	循環器	じゅんかんき	体液などを体内から全身に輸送する組織や器官の総称。
+j	情報化	じょうほうか	computerization; digitiza…
+j	情報屋	じょうほうや	情報や噂を収集、売買、提供したりする人。
+j	情報科	じょうほうか	後期中等教育で専門課程を設置している高等学校、中等…
+j	情報紙	じょうほうし	各種の情報を掲載した新聞。
+j	情報誌	じょうほうし	各種の情報を掲載した雑誌。
+j	情弱	じやうじやく	someone who is incapable …
+j	情弱	じょうじゃく	someone who is incapable …
+j	情死	じょうしする	lovers' suicide, double s…
+j	情況	じょうきょう	「状況」の別表記。
+j	情状	じやうじやう	circumstances
+j	情状	じょうじょう	circumstances
+j	情調	じょうちょう	atmosphere; mood
+j	慈悲忍辱	じひにんにく	慈悲心を抱くことと、どんな苦難にも耐えること。
+j	慈愛深い	じあいぶかい	
+j	戎戎	じゅうじゅう	盛んなさま。
+j	截拳道	じいくんどう	Jeet Kune Do
+j	截拳道	じーくんどー	Jeet Kune Do
+j	截拳道	ジークンドー	Jeet Kune Do
+j	承久	じょうきゅう	the Jōkyū era, 1219-1222
+j	承暦	じょうりゃく	the Jōryaku era, 1077-1081
+j	抒情詩	じょじょうし	lyric poetry
+j	抒情詩	じよじやうし	lyric poetry
+j	持久	じきゅうする	stamina; endurance
+j	持久戦	じきゅうせん	戦闘などで急戦などではなく時間をかけて戦うこと。
+j	持久走	じきゅうそう	endurance run, as part of…
+j	持続力	じぞくりょく	あることを持続してやっていく能力。
+j	授受	じゅじゅする	giving and receiving; exc…
+j	数珠繋ぎ	じゅずつなぎ	多くの人や物が数珠の玉を糸で繋いだように連なること…
+j	時代区分	じだいくぶん	ある国や地域の歴史について各時代の制度などの特徴ご…
+j	時代遅れ	じだいおくれ	outdated, behind the times
+j	時代錯誤	じだいさくご	anachronism
+j	時刻表	じこくひょう	timetable, schedule
+j	時差通勤	じさつうきん	ラッシュを避けるために時間をずらして通勤すること。
+j	時時刻刻	じじこっこく	経過する時間のその時々。
+j	時間の無駄	じかんのむだ	
+j	時間変化	じかんへんか	時間が経過するにしたがって起きる何かの変化。
+j	時間微分	じかんびぶん	微分変数が時刻t,[s]であるときの常微分の称。
+j	時間知覚	じかんちかく	
+j	時間稼ぎ	じかんかせぎ	物事の進行を故意に遅らせるなどして自分に有利な状況…
+j	時間表	じかんひょう	timetable, schedule
+j	杖術	じょうじゅつ	also known as 杖道 (jōdō), …
+j	杖道家	じょうどうか	杖道を行う武道家またはそれで生業としている者、修得…
+j	条虫	じょうちゅう	synonym of 真田虫 (Sanadamus…
+j	条虫	ジョウチュウ	synonym of 真田虫 (Sanadamus…
+j	柔弱	じゅうじゃく	weak; delicate; effeminate
+j	柔従	じゅうじゅう	素直なさま。
+j	柔然語	じゅうぜんご	4世紀から6世紀にかけてモンゴルと華北に居住した柔…
+j	柔組織	じゅうそしき	parenchyma
+j	柔術	じゅうじゅつ	jujitsu
+j	柔軟な	じゅうなんな	
+j	柔軟剤	じうなんざい	fabric softener
+j	柔道家	じゅうどうか	judoka, A practitioner of…
+j	柔道着	じゅうどうぎ	a set of wear in Japanese…
+j	柔順	じゅうじゅん	性格・態度などが素直で大人しいこと。
+j	條虫	じょうちゅう	扁形動物門条虫綱に属する扁平な寄生虫の総称。脊椎動…
+j	樹木学	じゅもくがく	
+j	樹皮を剥ぐ	じゅひをはぐ	
+j	樹立	じゅりつする	establishment, foundation
+j	次元定理	じげんていり	線型写像 T:V→Wに就て、 dim V=rank…
+j	次回予告	じかいよこく	テレビ番組などの次回の放送で取り上げる予定の内容を…
+j	殉情	じゅんじょう	感情のむくままに委ねること。
+j	殉教	じゅんきょう	martyrdom
+j	殉死	じゅんしする	following one's master in…
+j	殉職	じゅんしょく	dying at one's post
+j	沈丁花	じんちょうげ	winter daphne, Daphne odo…
+j	沈丁花	ジンチョウゲ	winter daphne, Daphne odo…
+j	沈香木	じんこうぼく	「雀榕」の異名。
+j	浄化	じょうかする	purification; cleansing
+j	浄化する	じょうかする	
+j	浄化槽	じょうかそう	
+j	浄妙	じょうみょう	極めて清浄なこと。また、そのようなさま。
+j	浄曲	じょうきょく	芸能としての浄瑠璃の異称。
+j	浄行	じょうぎょう	淫事のない清浄な行為。淫欲をつつしんで戒を守ること…
+j	淳良	じゅんりょう	素朴で善良なこと。また、そのようなさま。
+j	準備	じゅんびする	preparation
+j	準備する	じゅんびする	
+j	準備金	じゅんびきん	reserve fund
+j	準動詞	じゅんどうし	動詞から派生し、動詞以外の働きをするようになった不…
+j	準学士	じゅんがくし	高等専門学校本科を卒業し、あるいは高等専門学校本科…
+j	準州	じゅんしゅう	territory (administrative…
+j	準急	じゅんきゅう	急行より遅いが、各駅停車よりは速い列車種別。元は、…
+j	準縄	じゅんじょう	水準器と墨縄。
+j	準繩	じゅんじょう	準縄の旧字体表記。
+j	潤滑油	じゅんかつゆ	lubricating oil; grease
+j	濃香	じょうきょう	濃厚な香り。
+j	熟字訓	じゅくじくん	a kanji compound used to …
+j	熟知	じゅくちする	thorough knowledge of
+j	熟練な	じゅくれんな	
+j	熟議	じゅくぎする	充分にしっかりと論議を行うこと。
+j	状況	じょうきょう	situation (position vis-à…
+j	狃習	じゅうしゅう	習うこと。
+j	獣医学	じゅういがく	veterinary medicine
+j	甚兵衛鮫	じんべえざめ	a whale shark
+j	甚兵衛鮫	じんべゑざめ	a whale shark
+j	甚兵衛鮫	ジンベエザメ	a whale shark
+j	甚平鮫	じんべいざめ	テングザメ目ジンベイザメ科ジンベイザメ属に属する魚…
+j	甚平鮫	ジンベイザメ	テングザメ目ジンベイザメ科ジンベイザメ属に属する魚…
+j	直筆	じきひつする	the act of writing someth…
+j	直置き	じかおきする	placing directly on a sur…
+j	直談判	じかだんぱん	direct negotiation, direc…
+j	直輸入	じきゆにゅう	direct import
+j	示指伸筋	じししんきん	an extensor indicis
+j	神代文字	じんだいもじ	any of various writing sy…
+j	神祇官	じんぎくゎん	the Department of Divinit…
+j	神通力	じんずうりき	synonym of 神通 (jinzū)
+j	神通力	じんつうりき	synonym of 神通 (jinzū)
+j	純利益	じゅんりえき	
+j	純情	じゅんじやう	innocent, pure in heart
+j	純情	じゅんじょう	innocent, pure in heart
+j	純潔な	じゅんけつな	
+j	純熟	じゅんじゅく	慣れること。熟練すること。
+j	純粋さ	じゅんすいさ	
+j	純粋な	じゅんすいな	
+j	純良	じゅんりょう	a male given name
+j	純良	じゆんりやう	a male given name
+j	純色	じゅんしょく	混じり気のない色。
+j	純血の	じゅんけつの	
+j	純資産	じゅんしさん	資産から負債を差し引いた正味の資産。
+j	純量	じゅんりょう	総重量から風袋や不純物の重量を除いた正味の重量。
+j	紹隆	じょうりゅう	先人から引き継いだ事業をさらに盛んにすること。
+j	絛虫	じょうちゅう	synonym of 真田虫 (Sanadamus…
+j	絛虫	ジョウチュウ	synonym of 真田虫 (Sanadamus…
+j	絨球	じゅうきゅう	毛球。
+j	絨絨	じゅうじゅう	濃密なさま。
+j	絨綉	じゅうしゅう	色の刺繍。
+j	縦横家	じゅうおうか	School of Diplomacy
+j	縦貫	じゆうくわん	lengthwise traversal
+j	耳下腺炎	じかせんえん	ウイルス、細菌による耳下腺の炎症。
+j	耳小骨	じしょうこつ	an auditory ossicle
+j	腎臓学	じんぞうがく	
+j	腎臓炎	じんぞうえん	急性または慢性でおこる腎臓の炎症。腎炎。
+j	腎臓癌	じんぞうがん	腎臓にできる癌。腎癌。
+j	自主的な	じしゅてきな	
+j	自主的に	じしゅてきに	
+j	自主規制	じしゅきせい	self-restriction
+j	自乗	じじょうする	squaring
+j	自作自演	じさくじえん	directing (a show) and ac…
+j	自信がある	じしんがある	
+j	自分勝手	じぶんかって	他人の都合や状況を考えずに、自分のことだけを考える…
+j	自分探し	じぶんさがし	soul-searching
+j	自分本位	じぶんほんい	selfishness, self-centere…
+j	自分磨き	じぶんみがき	自分（特に容姿）を磨いて高めること。
+j	自分自身	じぶんじしん	myself, oneself
+j	自分語り	じぶんがたり	talking about oneself (es…
+j	自制がない	じせいがない	
+j	自動二輪	じどうにりん	自動二輪車の略称。
+j	自動化	じどうかする	automation
+j	自動化する	じどうかする	
+j	自動機械	じどうきかい	
+j	自動的な	じどうてきな	
+j	自問自答	じもんじとう	answering one's own quest…
+j	自営業	じえいぎょう	independent business
+j	自嘲	じちょうする	self-ridicule
+j	自在スパナ	じざいすぱな	
+j	自宅待機	じたくたいき	standing by at home (e.g.…
+j	自宅警備	じたくけいび	reclusiveness: NEETdom, e…
+j	自家受粉	じかじゅふん	雌雄同株の植物で、花粉が同じ個体にある花の雌しべに…
+j	自家用車	じかようしゃ	自家用自動車の略称。
+j	自家発電	じかはつでん	personal generation of el…
+j	自己分析	じこぶんせき	self-analysis; autoanalys…
+j	自己啓発	じこけいはつ	self-development
+j	自己性愛	じこせいあい	
+j	自己敗北	じこはいぼく	self-defeat
+j	自己決定	じこけってい	self-determination
+j	自己満足	じこまんぞく	self-satisfaction, self-c…
+j	自己相関	じこそうかん	autocorrelation
+j	自己研鑽	じこけんさん	self-improvement, improvi…
+j	自己認識	じこにんしき	
+j	自己防衛	じこぼうえい	self-defence
+j	自律破壊	じりつはかい	ロケットの打ち上げ時に異常が発生した際、安全の確保…
+j	自慢話	じまんばなし	gasconade
+j	自我実現	じがじつげん	self-realization
+j	自業自得	じごうじとく	make one's bed and lie in…
+j	自殺未遂	じさつみすい	attempted suicide
+j	自然生	じねんじょう	自然に生じ出ること。
+j	自由七科	じゆうしちか	中世大学で文法、修辞、論理、天文、数学、幾何、音楽…
+j	自由世界	じゆうせかい	
+j	自由主義	じゆうしゅぎ	liberalism
+j	自由化	じゆうかする	liberalization
+j	自由国家	じゆうこっか	国民の自由と平等な競争を個人で行い国家が最大限介入…
+j	自由帳	じゆうちょう	unruled notebook
+j	自由戦士	じゆうせんし	a freedom fighter
+j	自由業	じゆうぎょう	弁護士、医師、芸能人など専門的な技術、技能、知識を…
+j	自由科目	じゆうかもく	指定外の科目を選んで履修する科目。
+j	自由自在	じいうじざい	free, unrestricted
+j	自由自在	じゆうじざい	free, unrestricted
+j	自由落下	じいうらくか	freefall
+j	自由落下	じゆうらっか	freefall
+j	自画自賛	じぐわじさん	self-praise
+j	自称	じしょうする	self-styled; self-proclai…
+j	自粛	じしゅくする	self-restraint, voluntary…
+j	自給	じきゅうする	self-sustenance
+j	自習	じしゅうする	self-study; teaching ones…
+j	自習室	じしゅうしつ	自習専用の部屋。
+j	自転車屋	じてんしゃや	自転車を修理したり、売ったりする店。
+j	自重	じちょうする	one's own weight
+j	自閉症	じへいしょう	autism (neurological diso…
+j	自鳴鐘	じめいしょう	chime clock; striking clo…
+j	自鳴鐘	じめいしよう	chime clock; striking clo…
+j	若朽	じゃっきゅう	useless young person
+j	蒸気圧	じょうきあつ	vapor pressure (pressure …
+j	蒸気船	じょうきせん	steamship
+j	蒸汽船	じょうきせん	「蒸気船」の異綴。
+j	蒸留	じょうりゅう	distillation
+j	蒸着	じょうちゃく	真空の中で加熱、蒸発させた金属を他の物質の表面に付…
+j	蛇紋岩	じゃもんがん	serpentinite
+j	蛇紋石	じゃもんせき	serpentine
+j	蟯虫	じょうちゅう	pinworm
+j	術中	じゅっちゅう	trap
+j	術中	じゆつちゆう	trap
+j	術業	じゅつぎょう	学術ど技術。
+j	諄諄	じゅんじゅん	繰り返し丁寧に戒めるさま。
+j	譲歩	じょうほする	concession; compromise
+j	譲歩する	じょうほする	
+j	譲渡	じょうとする	surrender
+j	譲渡する	じょうとする	
+j	貞享	じょうきょう	the Jōkyō era, 1684–1688
+j	辞職	じしょくする	resignation
+j	辞職する	じしょくする	
+j	遵行	じゅんぎょう	（じゅんこう）法令や規則に従って行うこと。
+j	邪魔くさい	じゃまくさい	（方言）面倒だ。億劫だ。
+j	邪魔になる	じゃまになる	
+j	邪魔をする	じゃまをする	
+j	醸造家	じょうぞうか	醸造を業とする人。また、そのような家。
+j	重ガラス	じゅうがらす	隙間をあけた二枚以上のガラスの間にガスなどを封入し…
+j	重傷	じゅうしょう	serious wound
+j	重出	じゅうしゅつ	（文章のなかに）同じ内容のことが重なって出てくるこ…
+j	重力	じゅうりょく	gravity, gravitational fo…
+j	重唱	じゅうしょう	singing in parts
+j	重囚	じゅうしゅう	重犯。
+j	重大な	じゅうだいな	
+j	重太郎	じゅうたろう	a male given name
+j	重次郎	じゅうじろう	a male given name
+j	重水炉	じゅうすいろ	減速材で重水を使用する原子炉の総称。
+j	重水素	じゅうすいそ	deuterium; heavy hydrogen
+j	重病	じゅうびょう	serious illness; severe d…
+j	重症	じゅうしょう	severe illness
+j	重装備	じゅうそうび	equipped to the nines
+j	重要な	じゅうような	
+j	重視	じゅうしする	value, esteem, respect, s…
+j	重課金	じゅうかきん	金銭を課金し続けること。
+j	重賞	じゅうしょう	large prize (such as in h…
+j	重重	じゅうじゅう	very well, to a great ext…
+j	重量	じゅうりょう	weight
+j	重陽子	じゅうようし	
+j	重電機	じゅうでんき	発電機や電動機、変圧器など生産財として利用される重…
+j	重騎兵	じゅうきへい	重装備の騎兵。
+j	金門県	じんめんけん	中華民国福建省の県。
+j	銃傷	じゅうしょう	bullet wound, gunshot wou…
+j	銃床	じゅうしょう	gunstock
+j	銃猟	じゅうりょう	小銃を使用して鳥獣を狩猟すること。
+j	錠前屋	じょうまえや	a locksmith
+j	除去	じょきょする	removal, elimination, dis…
+j	除名	じょめいする	expulsion, excommunication
+j	除外	じょがいする	exclusion
+j	除外する	じょがいする	
+j	除外形	じょがいけい	exclusive
+j	除夜の鐘	じょやのかね	大晦日の夜（除夜）に、0時の前後に108回鳴らす鐘…
+j	除幕式	じょまくしき	unveiling ceremony
+j	除染	じょせんする	decontamination, especial…
+j	除染する	じょせんする	
+j	除毛	じょもうする	hair removal
+j	除毛する	じょもうする	
+j	除湿	じょしつする	dehumidification
+j	除熱	じょねつする	removal of heat
+j	除算	じょさんする	division
+j	除籍	じょせきする	removal of a name from th…
+j	除草	じょそうする	weeding (removal of weeds)
+j	除草剤	じょそうざい	herbicide; weedkiller
+j	除菌	じょきんする	elimination of bacteria
+j	除隊	じょたいする	discharge from the milita…
+j	除雪	じょせつする	snow removal
+j	除雪車	じょせつしゃ	snowplow (vehicle)
+j	静寂	じょうじゃく	quiet
+j	静注	じやうちゆう	静脈注射の略。
+j	静注	じょうちゅう	静脈注射の略。
+j	静脈	じょうみゃく	a vein
+j	靭帯学	じんたいがく	解剖学において靭帯を扱う分野。
+j	靱帯学	じんたいがく	靭帯学の異表記。
+j	順々	じゅんじゅん	(in) turn, (in) order
+j	順不同	じゅんふどう	not having a specific ord…
+j	順化	じゅんかする	acclimatization
+j	順境	じゅんきょう	すべてが順調で恵まれた境遇であること。
+j	順良	じゅんりょう	素直で善良なこと。また、そのようなさま。
+j	順調	じゅんちょう	satisfactory; favorable
+j	順順	じゅんじゅん	順序を追って行うさま。
+j	饒舌家	じょうぜつか	a garrulous person
+j	馴良	じゅんりょう	よく馴れて素直なこと。また、そのようなさま。
+j	鵲橋	じゃっきょう	magpie bridge across the …
+j	麝香牛	じゃこううし	musk ox, Ovibos moschatus
+j	麝香牛	じやかううし	musk ox, Ovibos moschatus
+j	麝香牛	ジャコウウシ	musk ox, Ovibos moschatus
+j	麝香猫	じゃこうねこ	any of the species of civ…
+j	麝香猫	じやかうねこ	any of the species of civ…
+j	麝香猫	ジャコウネコ	any of the species of civ…
+j	麝香獣	じゃかうじう	moschiferous animal (musk…
+j	麝香草	じゃこうそう	Chelonopsis moschata, a f…
+j	麝香草	じやかうさう	Chelonopsis moschata, a f…
+j	麝香草	ジャコウソウ	Chelonopsis moschata, a f…
+j	麝香鹿	じゃこうじか	musk deer, belonging to g…
+j	麝香鹿	じやかうじか	musk deer, belonging to g…
+j	麝香鹿	ジャコウジカ	musk deer, belonging to g…
+j	じかんりょこう	じかんりょこう	時間旅行: time travel
+j	じっしゅうせい	じっしゅうせい	実習生: trainee.
+j	じっせいかかく	じっせいかかく	実勢価格: (economics) market …
+j	じてんしゃどう	じてんしゃどう	自転車道: a bicycle lane
+j	じむしょくいん	じむしょくいん	事務職員: office worker, clerk
+j	じゃありません	じゃありません	
+j	じゃこうじゅう	じゃこうじゅう	麝香獣: moschiferous animal …
+j	じゃんけんぽい	じゃんけんぽい	
+j	じゃんけんぽん	じゃんけんぽん	used to initiate a round …
+j	じゃん拳	じゃんけんする	rock paper scissors (popu…
+j	じゅういちがつ	じゅういちがつ	
+j	じゅうごうたい	じゅうごうたい	重合体: polymer
+j	じゅうりょくは	じゅうりょくは	重力波: Gravitational wave.
+j	じゅんいちろう	じゅんいちろう	潤一郎: a male given name
+j	じゅんびちゅう	じゅんびちゅう	準備中: of a shop, the state…
+j	じょうげさゆう	じょうげさゆう	上下左右: up and down, left a…
+j	じょうこうごう	じょうこうごう	上皇后: empress emerita, for…
+j	じょしこうせい	じょしこうせい	女子高生: female high school …
+j	じょそんだんぴ	じょそんだんぴ	女尊男卑: female chauvinism
+j	じんぞうけんし	じんぞうけんし	人造絹糸: rayon
+j	ジェットスキー	ジェットスキー	船形のボードにエンジンやハンドルを取り付けウォータ…
+j	ジェネティック	ジェネティック	genetic; genetics
+j	ジェファーソン	ジェファーソン	Jefferson (a city in Geor…
+j	ジェマイティヤ	ジェマイティヤ	
+j	ジェラルディン	ジェラルディン	
+j	ジェルミナール	ジェルミナール	
+j	ジェルンディオ	ジェルンディオ	（伊:gerundioの音写）イタリア語での動詞の…
+j	ジェンダーレス	ジェンダーレス	gender-neutral
+j	ジェンダー研究	ジェンダー研究	
+j	ジェントルマン	ジェントルマン	紳士。
+j	ジェー・ポップ	ジェー・ポップ	
+j	ジグザグに進む	ジグザグに進む	
+j	ジグソーパズル	ジグソーパズル	a jigsaw puzzle
+j	ジストロフィー	ジストロフィー	dystrophy
+j	ジスプロシウム	ジスプロシウム	dysprosium, Dy
+j	ジャイアニズム	ジャイアニズム	"Jaianism": a bullying be…
+j	ジャイナ教	じゃいなきょう	Jainism
+j	ジャイナ教	ジャイナきょう	Jainism
+j	ジャガランディ	ジャガランディ	ネコ目ネコ科ピューマ属に属する食肉類の一種。学名:…
+j	ジャコウネコ科	ジャコウネコ科	《分類学》 哺乳綱獣亜綱ローラシア獣上目ネコ目ネコ…
+j	ジャコウネズミ	ジャコウネズミ	トガリネズミ目トガリネズミ科ジャコウネズミ属に属す…
+j	ジャストミート	ジャストミート	hitting the baseball squa…
+j	ジャスミン茶	じゃすみんちゃ	中国の緑茶に乾燥させたジャスミンの花を混ぜた茶。茉…
+j	ジャッカロープ	ジャッカロープ	
+j	ジャックポット	ジャックポット	jackpot (accumulating mon…
+j	ジャッグルする	ジャッグルする	
+j	ジャップランド	ジャップランド	Japan
+j	ジャニュアリー	ジャニュアリー	一月。
+j	ジャポニカ種	じゃぽにかしゅ	ジャポニカ米の別称。
+j	ジャマイカ英語	ジャマイカ英語	ジャマイカで話されている英語の変種。
+j	ジャワ原人	じゃわげんじん	原人に属する化石人類。1891年にインドネシアジャ…
+j	ジャンクション	ジャンクション	interchange which connect…
+j	ジャンクフード	ジャンクフード	栄養価に著しい偏りがみられる食品をジャンク (がら…
+j	ジャンクメール	ジャンクメール	spam
+j	ジャングルジム	ジャングルジム	公園などに設置される遊具の一つ。金属製のパイプを多…
+j	ジャンドゥーヤ	ジャンドゥーヤ	
+j	ジャンバヴァン	ジャンバヴァン	
+j	ジャンプカット	ジャンプカット	jumpcut
+j	ジャンプスケア	ジャンプスケア	ホラー映画やホラーゲームでよく使われる、大きい音と…
+j	ジャンプボール	ジャンプボール	ティップオフの旧称。
+j	ジャンボタニシ	ジャンボタニシ	原始紐舌目リンゴガイ科の巻貝。標準和名は「スクミリ…
+j	ジャージー島語	ジャージー島語	インド・ヨーロッパ語族イタリック語派に属し、イギリ…
+j	ジャーナリスト	ジャーナリスト	journalist
+j	ジャーナリズム	ジャーナリズム	journalism
+j	ジャーヒリーヤ	ジャーヒリーヤ	イスラム教が勃興する以前の時代。
+j	ジャールカンド	ジャールカンド	
+j	ジュデッカ島	じゅでっかしま	
+j	ジュニアユース	ジュニアユース	中学生年代のこと。
+j	ジュネーブ条約	ジュネーブ条約	
+j	ジョギングする	ジョギングする	
+j	ジョチ・ウルス	ジョチ・ウルス	
+j	ジョフロイネコ	ジョフロイネコ	ネコ目ネコ科オセロット属に属する食肉類の一種。学名…
+j	ジョンブリアン	ジョンブリアン	輝くような明るい黄色。
+j	ジョージア人	じょーじあじん	ジョージア国籍を持つ人、ジョージア出身者。
+j	ジョージタウン	ジョージタウン	George Town (the capital …
+j	ジンギスカン鍋	ジンギスカン鍋	ジンギスカンの調理に用いられる専用の鍋。
+j	ジンギス・カン	ジンギス・カン	
+j	ジンバブエ人	じんばぶえじん	ジンバブエ国籍を有する者。ジンバブエ出身者。
+j	ジン・トニック	ジン・トニック	
+j	ジークフリート	ジークフリート	
+j	ジーディーピー	ジーディーピー	
+j	上下左右	じょうげさゆう	up and down, left and rig…
+j	上位互換	じょういごかん	高機能の製品を以て、低機能の製品の為のものが利用で…
+j	上半身	じょうはんしん	the upper half of the body
+j	上告	じょうこくする	an appeal to a higher cou…
+j	上品振る	じょうひんぶる	be prudish, put on airs
+j	上国石	じょうこくせき	jokokuite
+j	上天	じょうてんする	Heaven, God
+j	上意下達	じょういかたつ	上位の者の意向や命令を下位の者に伝達すること。
+j	上手ごかし	じょうずごかし	御為ごかし。
+j	上斜筋	じょうしゃきん	a superior oblique muscle
+j	上映	じょうえいする	a film screening
+j	上水道	じょうすいどう	waterworks
+j	上洛	じょうらくする	going to Kyoto; going to …
+j	上演	じょうえんする	performance, presentation…
+j	上申書	じょうしんしょ	目上や上部機関に上申する書類。
+j	上白糖	じょうはくとう	質が上等な白砂糖。ショ糖を主成分とし、水分と転化糖…
+j	上皇后	じょうこうごう	empress emerita, a living…
+j	上等兵	じゃうとうへい	a superior private (enlis…
+j	上等兵	じょうとうへい	a superior private (enlis…
+j	上級生	じやうきふせい	upperclassman
+j	上腕筋	じょうわんきん	a brachialis muscle
+j	上腕骨	じやうわんこつ	a humerus
+j	上腕骨	じょうわんこつ	a humerus
+j	上達	じょうたつする	improvement in academic a…
+j	上陸	じょうりくする	landing, coming on shore
+j	上陸する	じょうりくする	
+j	上陸班	じょうりくはん	landing team, for explori…
+j	上顎洞	じょうがくどう	四つある副鼻腔のうち最大の空洞。鼻の左右にある。
+j	上顎骨	じょうがくこつ	a maxilla (bone of upper …
+j	乗用車	じょうようしゃ	passenger car
+j	乗算	じょうざんする	multiplication
+j	乗船	じょうせんする	embarkation of a vessel
+j	乗船する	じょうせんする	
+j	乗車	じょうしゃする	getting in or on (a train…
+j	乗車券	じょうしゃけん	ticket for riding a means…
+j	乗車率	じょうしゃりつ	車両の定員に占める実際に乗車している人の割合。
+j	乗降	じょうこうする	getting on and getting of…
+j	乗降口	じょうこうぐち	乗り物の出入口。乗り物の乗降するための出入口、通路。
+j	乗降車	じょうこうしゃ	乗車または降車。
+j	事前復興	じぜんふっこう	災害が起きる前に復興の方策について予め想定しておく…
+j	事務機器商	じむききしょう	古事務機器を扱う古物商。
+j	事務総長	じむそうちょう	
+j	事務職員	じむしょくいん	office worker, clerk
+j	事実を曲げる	じじつをまげる	to falsify a fact
+j	事実上の	じじつじょうの	
+j	事実調査	じじつちょうさ	fact-finding
+j	事実関係	じじつかんけい	actual relationship
+j	事業化	じぎょうかする	industrialization
+j	事業場	じぎょうじょう	同一の業務が行われる一定の場所。
+j	人中穴	じんちゅうけつ	
+j	人代名詞	じんだいめいし	人称代名詞のこと。
+j	人口密度	じんこうみつど	population density
+j	人工地震	じんこうじしん	核爆発などによって人工的に起こされる地震。
+j	人工無脳	じんこうむのう	人間のように思考することなく、特定のパターンから回…
+j	人工知能	じんこうちのう	artificial intelligence
+j	人工言語	じんこうげんご	constructed language, art…
+j	人工降雨	じんこうこうう	rainmaking; cloud seeding…
+j	人工頭脳	じんこうずのう	
+j	人文主義	じんぶんしゅぎ	humanism
+j	人文的な	じんぶんてきな	
+j	人文科学	じんぶんかがく	人間を対象とする科学の分野。文学、哲学、歴史学、言…
+j	人材管理	じんざいかんり	
+j	人格化	じんかくかする	personification, anthropo…
+j	人民の敵	じんみんのてき	
+j	人民主義	じんみんしゅぎ	
+j	人狼ゲーム	じんろうげーむ	Werewolf; Mafia (social d…
+j	人狼ゲーム	じんろうゲーム	Werewolf; Mafia (social d…
+j	人生の意味	じんせいのいみ	
+j	人生の意義	じんせいのいぎ	
+j	人畜無害	じんちくむがい	harmless to both humans a…
+j	人種主義	じんしゅしゅぎ	racism
+j	人種差別	じんしゅさべつ	racial discrimination
+j	人跡未踏	じんせきみとう	人がまだ足を踏み入れたことがない。
+j	人造絹糸	じんざうけんし	rayon
+j	人造絹糸	じんぞうけんし	rayon
+j	人造繊維	じんぞうせんい	化学繊維の別称。
+j	人道主義	じんどうしゅぎ	humanitarianism
+j	人馬一体	じんばいったい	unity of a horse and its …
+j	仍姪孫	じょうてっそん	昆姪孫の子。甥や姪の昆孫。
+j	住居	じゅうきょする	dwelling; house; residenc…
+j	住所録	じゅうしょろく	address book
+j	住民税	じゅうみんぜい	地方公共団体（都道府県、市区町村）が住民（個人、法…
+j	住空間	じゅうくうかん	living space
+j	儒林外史	じゅりんがいし	The Scholars; Unofficial …
+j	充填	じゅうてんする	a filling of a tooth
+j	充実	じゅうじつする	fullness, substantiality
+j	充当	じゅうとうする	allocation, appropriation
+j	充当する	じゅうとうする	
+j	充満	じゅうまんする	being filled with
+j	充溢	じゅういつする	abundance
+j	充牣	じゅうじんする	to fill
+j	充血	じゅうけつする	congestion with blood; hy…
+j	充血した	じゅうけつした	
+j	充足	じゅうそくする	sufficiency, being enough
+j	充電	じゅうでんする	electrical charging
+j	充電する	じゅうでんする	
+j	児童労働	じどうろうどう	児童による労働。日本国憲法第27条第三号では児童の…
+j	児童性愛	じどうせいあい	
+j	児童文学	じどうぶんがく	子供を対象とした文学。
+j	入水自殺	じゅすいじさつ	水中に身を投げて自殺すること。
+j	冗長な	じょうちょうな	
+j	准士官	じゆんしくわん	a warrant officer
+j	助力	じょりょくする	help; assistance; helping…
+j	助教授	じょきょうじゅ	assistant professor (defu…
+j	助長	じょちょうする	promotion, encouragement,…
+j	十一日	じゅういちにち	eleventh day of the month
+j	十一月	じゅういちがつ	November
+j	十七日	じゅうしちにち	seventeenth day of the mo…
+j	十七日	じゅうななにち	seventeenth day of the mo…
+j	十三日	じゅうさんにち	thirteenth day of the mon…
+j	十二ヶ月	じゅうにかげつ	twelve months
+j	十二ヶ月	じゅうにヶげつ	twelve months
+j	十二単	じゅうにひとえ	a ceremonial twelve-layer…
+j	十二宮	じゅうにきゅう	〔占星術〕 黄道十二宮のこと。獣帯を30度ずつ12…
+j	十二指腸	じふにしちやう	duodenum
+j	十二直	じゅうにちょく	暦注の一つ。こよみの日にちの下方に書かれ、日々の吉…
+j	十人十腹	じふにんとはら	synonym of 十人十色 (jūnin to…
+j	十人十色	じふにんといろ	to each his own; differen…
+j	十八日	じゅうはちにち	eighteenth day of the mon…
+j	十八番	じゅうはちばん	the 18 great plays of kab…
+j	十六島	じゅうろくしま	a region in Ibaraki Prefe…
+j	十六日	じゅうろくにち	sixteenth day of the month
+j	十円禿	じゅうえんはげ	円形脱毛症。
+j	十分	じゅうぶんする	enough, plenty, sufficient
+j	十卵性	じゅうらんせい	十の卵子が十の精子と同時に受精し、受精卵がそのまま…
+j	十善戒	じゅうぜんかい	十善を保持するための戒。十戒。
+j	十字砲火	じゅうじほうか	
+j	十年生	じゅうねんせい	その段階の学校に入って10年目の者。
+j	十枚落ち	じゅうまいおち	一方が王将と歩兵以外の全ての駒を落として行う対局。
+j	十芒星	じゅうぼうせい	十角形を用いた星型の図形。
+j	十阿僧祇	じゅうあそうぎ	
+j	十面体	じゅうめんたい	decahedron
+j	受信トレイ	じゅしんとれい	inbox
+j	受信トレイ	じゅしんトレイ	inbox
+j	受動分詞	じゅどうぶんし	
+j	受注	じゅちゅうする	reception of orders
+j	受章	じゅしょうする	reception of an award
+j	受給	じゅきゅうする	collection of a payment
+j	受胎告知	じゅたいこくち	新約聖書でマリアがイエスを懐胎したことを天使から告…
+j	受話器を取る	じゅわきをとる	
+j	受賞	じゅしょうする	winning an award
+j	受賞者	じゅしょうしゃ	one who receives a prize
+j	受難曲	じゅなんきょく	passion (song themed arou…
+j	受領	じゅりょうする	receipt, acceptance
+j	受領書	じゅりょうしょ	
+j	叙述	じょじゅつする	narration
+j	地熱発電	じねつはつでん	地熱によるエネルギーを電気に変換することによって行…
+j	地獄に落とす	じごくにおとす	
+j	地震学者	じしんがくしゃ	a seismologist
+j	地震探鉱	じしんたんこう	「地震探査」を参照。
+j	地震断層	じしんだんそう	地震によりずれ動いた断層。
+j	女子割礼	じょしかつれい	
+j	女子大学	じょしだいがく	女子を教育の対象とする大学。
+j	女子大生	じょしだいせい	女子大学（女子短期大学）の学生。
+j	女子学生	じょしがくせい	
+j	女子校生	じょしこうせい	a student of a women-only…
+j	女子高生	じょしこうせい	女子高の生徒。
+j	女尊男卑	じょそんだんぴ	female chauvinism, valuin…
+j	女性らしい	じょせいらしい	
+j	女性嫌悪	じょせいけんお	misogyny
+j	女性歌手	じょせいかしゅ	
+j	女性的な	じょせいてきな	
+j	女教皇	じょきょうおう	A high priestess
+j	女魔術師	じょまじゅつし	
+j	字幕スーパー	じまくすーぱー	スーパーインポーズのうち画像と字幕を一つの画像に焼…
+j	定額僧	じょうがくそう	国分寺や官寺などに一定の数が置かれ朝廷から供料が支…
+j	実体化	じったいかする	substantiation; materiali…
+j	実体鏡	じったいきょう	stereoscope
+j	実働時間	じつどうじかん	actual work hours
+j	実写映画	じっしゃえいが	live action film
+j	実力犯	じつりょくはん	暴行、脅迫を用いる犯罪。略取、誘拐、威迫、逮捕、監…
+j	実力者	じつりょくしゃ	big wheel - a person with…
+j	実効支配	じっこうしはい	ある地域にある国家が現に主権を及ぼしていること。主…
+j	実勢価格	じっせいかかく	market price
+j	実存の危機	じつぞんのきき	
+j	実存主義	じつぞんしゅぎ	existentialism
+j	実存的な	じつぞんてきな	
+j	実業界	じつぎょうかい	business world; business …
+j	実現象	じつげんしょう	（計算やシミュレーションに対して）現実の世界で実際…
+j	実生活	じつせいくわつ	real or actual life
+j	実用主義	じつようしゅぎ	pragmatism
+j	実用化	じつようかする	making practical or usefu…
+j	実用的な	じつようてきな	
+j	実習	じっしゅうする	practice; training; drill
+j	実習室	じっしゅうしつ	実習専用の部屋。
+j	実習生	じっしゅうせい	trainee
+j	実行できる	じっこうできる	
+j	実行力	じっこうりょく	ability to get things done
+j	実行可能	じっこうかのう	executable
+j	実行委員	じっこういいん	action committee; executi…
+j	実行機能	じっこうきのう	executive functioning; fu…
+j	実行行為	じっこうこうい	犯罪における特定の基本的構成要件に該当する、法益侵…
+j	実証	じっしょうする	actual proof
+j	実証的	じっしょうてき	empirical; positive
+j	実証論	じっしょうろん	positivism
+j	実質名詞	じっしつめいし	名詞のうち、名詞本来の具体的な意味を表すもの。
+j	実践理性	じっせんりせい	practical reason or ethics
+j	実食	じっしょくする	trying a food for oneself…
+j	実験場	じっけんじょう	proving ground; test site
+j	実験科学	じっけんかがく	empirical science
+j	実験結果	じっけんけっか	experimental results
+j	実験装置	じっけんそうち	experimental device; expe…
+j	尽力	じんりょくする	exertion
+j	巡回	じゅんかいする	going around
+j	巡回する	じゅんかいする	
+j	巡洋艦	じゅんようかん	a cruiser (class of warsh…
+j	巡洋艦	じゆんやうかん	a cruiser (class of warsh…
+j	巡礼	じゅんれいする	pilgrimage
+j	巡礼者	じゅんれいしゃ	
+j	巡航	じゅんこうする	cruise
+j	巡警	じゅんけいする	patrolling
+j	常任	じょうにんする	being regular, standing, …
+j	常勤	じょうきんする	full-time employment
+j	常平倉	じょうへいそう	昔の中国や日本で、米の価格を安定させるために、政府…
+j	常用	じょうようする	common use; something tha…
+j	常習犯	じやうしふはん	repeat offender (of crime…
+j	常設	じょうせつする	permanent; permanently in…
+j	常設展	じょうせつてん	博物館などで常時行われている展示。
+j	常識的	じょうしきてき	普通で当たり前であるさま。
+j	弱アルカリ	じゃくあるかり	「弱塩基」を参照。
+j	弱変化の	じゃくへんかの	
+j	従兄弟	じゅうけいてい	a male cousin
+j	従属	じゅうぞくする	subordination
+j	従属節	じゅうぞくせつ	subordinate clause
+j	従属節	じゆうぞくせつ	subordinate clause
+j	従軍	じゅうぐんする	military service
+j	従順な	じゅうじゅんな	
+j	循環	じゅんかんする	circulation; loop
+j	循環器科	じゅんかんきか	医学の分野の一つ。心臓や血管など循環器の疾患（高血…
+j	循環系	じゅんかんけい	心臓や血管、リンパ管など循環器を一つの器官の系統と…
+j	恤兵	じゅっぺいする	sending presents to soldi…
+j	情交	じょうこうする	close association, especi…
+j	情報学	じょうほうがく	情報のすべての過程を研究する科学の分野。別名、情報…
+j	情報戦	じょうほうせん	味方の情報を保護し、敵に対し攻撃、攪乱、妨害を行う…
+j	情報機器	じょうほうきき	information appliance
+j	情報源	じょうほうげん	情報が発信される元。出所。
+j	情緒的	じょうちょてき	情緒に関するさま。
+j	慈善団体	じぜんだんたい	charitable organization
+j	慈善活動	じぜんかつどう	
+j	成仏	じょうぶつする	gaining enlightenment
+j	成就	じょうじゅする	achievement, fulfillment
+j	持久力	じきゅうりょく	stamina, tenacity
+j	授乳	じゅにゅうする	lactation (process of pro…
+j	授乳する	じゅにゅうする	
+j	授業	じゅぎょうする	instruction; teaching; sc…
+j	授賞	じゅしょうする	bestowal of an award
+j	授賞式	じゅしょうしき	an awards ceremony
+j	擾乱	じょうらんする	disturbance
+j	数珠掛鳩	じゅずかけばと	Barbary dove
+j	数珠掛鳩	ジュズカケバト	Barbary dove
+j	時代精神	じだいせいしん	zeitgeist (the spirit of …
+j	時代遅れの	じだいおくれの	
+j	時代錯誤の	じだいさくごの	
+j	時制の一致	じせいのいっち	
+j	時期尚早	じきしょうそう	あることを行うには、まだ時期が早いこと。またそのさ…
+j	時空旅行	じくうりょこう	過去や未来に旅行すること。時間旅行。タイムトラベル。
+j	時間のかかる	じかんのかかる	
+j	時間の浪費	じかんのろうひ	
+j	時間をつぶす	じかんをつぶす	to kill time
+j	時間旅行	じかんりょこう	synonym of タイムトラベル (taimu…
+j	時間通りに	じかんどおりに	
+j	時限爆弾	じげんばくだん	a time bomb (bomb with a …
+j	杖刑	じょうけいする	律の五刑の一つで、罪人を木製の杖で60回から100…
+j	杖術家	じょうじゅつか	杖術を行う武術家またはそれで生業している者、修得し…
+j	条件法	じょうけんほう	
+j	条約港	じょうやくこう	条約によって開かれた港。特に日米修好通商条約によっ…
+j	柔術家	じゅうじゅつか	jujitsuka, A practitioner…
+j	柔軟剤	じゅうなんざい	fabric softener
+j	柔軟性	じゅうなんせい	flexibility, elasticity
+j	樹林気候	じゅりんきこう	樹木が生育できる気候。熱帯、温帯、冷帯（亜寒帯）。…
+j	次亜塩素酸	じあえんそさん	弱酸で水溶液としてだけ存在する塩素のオキソ酸。酸化…
+j	殉難	じゅんなんする	martyrdom
+j	浄土宗	じょうどしゅう	日本の浄土教の仏教宗派の一つ。鎌倉時代の僧法然によ…
+j	浄水	じょうすいする	water purification
+j	浄霊	じょうれいする	A spiritual purification …
+j	渋滞	じゅうたいする	congestion, traffic jam
+j	準会員	じゅんかいいん	
+j	準備中	じゅんびちゅう	of a shop, the state of b…
+j	準半壊	じゅんはんかい	自然災害により被害に遭った家屋などの1割から2割程…
+j	準巨星	じゅんきょせい	
+j	準惑星	じゅんわくせい	a dwarf planet
+j	準拠	じゅんきょする	conformance
+j	準用して	じゅんようして	
+j	準粒子	じゅんりゅうし	
+j	準衛星	じゅんえいせい	一時的に衛星のような挙動を示す天体。
+j	準静的	じゅんせいてき	状態の変化の形態の一種で、変化や動きが起きており状…
+j	潤一郎	じゅんいちろう	a male given name
+j	潤沢	じゅんたくする	plentiful, ample
+j	潤滑剤	じゅんかつざい	lubricant
+j	潤澤	じゅんたくする	
+j	熟慮	じゅくりょする	consideration
+j	熟成	じゅくせいする	ripening; maturation
+j	熟眠	じゅくみんする	sound sleep
+j	熟睡	じゅくすいする	sound sleep
+j	熟練	じゅくれんする	skill, proficiency, dexte…
+j	熟練者	じゅくれんしゃ	expert, skillful man
+j	熟考	じゅっこうする	deliberation, considerati…
+j	熟考する	じゅっこうする	
+j	熟語集	じゅくごしゅう	phrase book
+j	熟読	じゅくどくする	reading carefully and tho…
+j	状況下	じょうきょうか	ある状況にあること。接続助詞的にも用いられる。
+j	獣医学部	じゅういがくぶ	大学で獣医学を教授し、獣医師や愛玩動物看護師を養成…
+j	獣大生	じゅうだいせい	大学の獣医学部、獣医科大学で獣医学を学ぶ大学生。
+j	神護景雲	じんごけいうん	the Jingo-keiun era, 767-…
+j	純文学	じゅんぶんがく	belles-lettres
+j	純正律	じゅんせいりつ	just tuning; just intonat…
+j	純物質	じゅんぶっしつ	一種類の単体または化合物だけから成る物質。
+j	純米酒	じゅんまいしゅ	特定名称のひとつ。白米と米麹を原料として製造した清…
+j	縄文人	じょうもんじん	縄文時代に日本列島に暮らしていた人々。
+j	縄文土器	じょうもんどき	縄文時代に使われた縄の紋様のある土器。
+j	縦断	じゅうだんする	running lengthwise, cutti…
+j	縦貫	じゅうかんする	lengthwise traversal
+j	耳鼻咽喉科	じびいんこうか	otorhinolaryngology; otol…
+j	聚積	じゅしゃくする	accumulation, collection
+j	腎臓病	じんぞうびょう	腎炎、腎不全、ネフローゼなど腎臓に関連する疾患の総…
+j	自主練習	じしうれんしふ	voluntary practice by one…
+j	自信喪失	じしんそうしつ	loss of (self-)confidence
+j	自信満々	じしんまんまん	full of confidence
+j	自信過剰	じしんかじょう	overconfident
+j	自傷行為	じしょうこうい	自分の身体を意識的または無意思に傷つける行為。
+j	自分性愛	じぶんせいあい	
+j	自分撮り	じぶんどりする	a photograph of oneself, …
+j	自動三輪	じどうさんりん	自動三輪車の略称。
+j	自動実行	じどうじっこう	self-executing (computer …
+j	自動車線	じどうしゃせん	バスの路線。主に旧鉄道省・国鉄が運行したものをいう。
+j	自動車道	じどうしゃどう	expressway
+j	自動車駅	じどうしゃえき	旧国鉄のバスターミナルのうち鉄道駅と同じような業務…
+j	自学自習	じがくじしゅう	自分で勉強すること。
+j	自宅浪人	じたくろうにん	person who studies for th…
+j	自己中心	じこちゅうしん	selfishness, egocentrism
+j	自己主張	じこしゅちょう	self-assertion
+j	自己参照	じこさんしょう	
+j	自己学習	じこがくしゅう	
+j	自己破壊	じこはかいする	self-destruction
+j	自己紹介	じこしょうかい	self-introduction
+j	自己言及	じこげんきゅう	
+j	自己顕示欲	じこけんじよく	desire to be in the spotl…
+j	自律神経	じりつしんけい	意志と無関係に働き消化器、血管系、分泌腺、生殖器を…
+j	自慢に満ちた	じまんにみちた	
+j	自殺願望	じさつがんぼう	
+j	自由な世界	じゆうなせかい	
+j	自由の女神	じゆうのめがみ	Lady Liberty
+j	自由変数	じゆうへんすう	
+j	自由変項	じゆうへんこう	
+j	自由奔放	じいうほんぱう	doing as one pleases
+j	自由奔放	じゆうほんぽう	doing as one pleases
+j	自由市場	じゆうしじょう	free market
+j	自由放任	じゆうほうにん	
+j	自由研究	じいうけんきう	research project, done by…
+j	自由貿易	じゆうぼうえき	外国との貿易を行なう際に、政府の制約なしに自由に貿…
+j	自由選挙	じゆうせんきょ	権力が干渉せず自由に立候補と選挙戦が行われる選挙。
+j	自画自賛	じがじさんする	self-praise
+j	自給自足	じきゅうじそく	self-sufficiency
+j	自警団員	じけいだんいん	vigilante
+j	自費出版	じひしゅっぱん	
+j	自転車道	じてんしゃどう	a bicycle lane
+j	自転車道	じてんしやだう	a bicycle lane
+j	若輩者	じゃくはいもの	まだ、その経験が浅く、技術などが未熟な者。
+j	蒸気機関	じょうききかん	蒸気の持つ熱エネルギーを機械的な仕事に変換する装置。
+j	蒸発	じょうはつする	evaporation
+j	蒸発する	じょうはつする	
+j	蹂躙	じゅうりんする	overrunning
+j	辞書学者	じしょがくしゃ	lexicographer
+j	辞書攻撃	じしょこうげき	
+j	述懐	じゅっかいする	an expression of one's th…
+j	遵守	じゅんしゅする	compliance, observance, o…
+j	邪宗門	じゃしゅうもん	人心を惑わすような邪悪な宗教。邪教。
+j	邪悪な人	じゃあくなひと	
+j	醸成	じょうせいする	brewing, fermentation
+j	醸成する	じょうせいする	
+j	醸造	じょうぞうする	brewing
+j	醸造学	じょうぞうがく	醸造について研究する学問。発酵学。発酵科学。発酵工…
+j	醸造所	じょうぞうしょ	brewery (building where b…
+j	醸造所	じょうぞうじょ	brewery (building where b…
+j	重かつ大	じゅうかつだい	「重且つ大」の異表記。
+j	重且つ大	じゅうかつだい	重くて大きい様子。とても大きな意味がある様子。
+j	重且大	じゅうかつだい	「重且つ大」の異表記。
+j	重任	じゅうにんする	important task, important…
+j	重低音	じゅうていおん	bass sounds
+j	重力子	じゅうりょくし	重力を伝える素粒子。ゲージ粒子に属するボース粒子と…
+j	重力波	じゅうりょくは	gravitational wave
+j	重労働	じゅうろうどう	肉体的に力のいる労働。
+j	重合	じゅうごうする	polymerization
+j	重合体	じゅうごうたい	polymer
+j	重国籍	じゅうこくせき	multiple citizenship
+j	重奏	じゅうそうする	ensemble
+j	重婚	じゅうこんする	bigamy
+j	重炭酸	じゅうたんさん	bicarbonate
+j	重点的	じゅうてんてき	focused, concentrated
+j	重版	じゅうはんする	reprint (new round of pri…
+j	重用	じゅうようする	assignment to an importan…
+j	重積分	じゅうせきぶん	多変数関数に関する積分。多重積分。
+j	重箱読み	じゅうばこよみ	a reading pattern for kan…
+j	重粒子	じゅうりゅうし	
+j	重罪人	じゅうざいにん	重大な罪を犯した者。
+j	重複	じゅうふくする	duplication
+j	重要性	じゅうようせい	importance
+j	重金属	じゅうきんぞく	heavy metal
+j	銃剣道	じゅうけんどう	日本の武道の一つで銃剣を模した木銃を持って戦い、心…
+j	銃撃	じゅうげきする	shooting; gun attack
+j	銃撃戦	じゅうげきせん	gunfight; firefight
+j	銃殺	じゅうさつする	shooting to death, execut…
+j	銃殺隊	じゅうさつたい	firing squad
+j	銃砲店	じゅうほうてん	銃砲を販売する店。
+j	錠をあける	じょうをあける	
+j	除細動器	じょさいどうき	defibrillator
+j	除虫菊	じょちゅうぎく	キク科の多年草。夏に花が咲き、その花に殺虫成分が含…
+j	雀卵斑	じゃくらんはん	そばかす。
+j	雀躍	じゃくやくする	leap for joy
+j	需要がある	じゅようがある	
+j	順々に	じゅんじゅんに	
+j	順守	じゅんしゅする	observance, adherence, co…
+j	順序対	じゅんじょつい	
+j	順序数	じゅんじょすう	
+j	順延	じゅんえんする	順番に期日を延ばすこと。
+j	順応	じゅんのうする	acclimatization
+j	順応する	じゅんのうする	
+j	順接	じゅんせつする	resultative, a particle o…
+j	順調な	じゅんちょうな	
+j	順順に	じゅんじゅんに	by turns, in order
+j	麝香獣	じゃこうじゅう	moschiferous animal (musk…
+j	じどうはんばいき	じどうはんばいき	
+j	じゅうさんまいり	じゅうさんまいり	十三参り: A celebration for g…
+j	じょうきゅうせい	じょうきゅうせい	上級生: upperclassman
+j	じょうたいおこし	じょうたいおこし	sit-up
+j	じょうほうりろん	じょうほうりろん	情報理論: information theory
+j	じんぎれいちしん	じんぎれいちしん	仁義礼智信: the 5 Confucian vi…
+j	じんだいどじょう	じんだいどじょう	三重県に生息していたどじょうの変種。いもどじょう。
+j	ジェットエンジン	ジェットエンジン	圧縮した空気に点火することで推力を得るエンジン。
+j	ジェド・マロース	ジェド・マロース	
+j	ジェネレーション	ジェネレーション	世代。その世代に属する人たち。
+j	ジェロントロジー	ジェロントロジー	gerontology
+j	ジェンダークィア	ジェンダークィア	
+j	ジェンダーフリー	ジェンダーフリー	disregarding societal nor…
+j	ジェンダー同一性	ジェンダー同一性	
+j	ジエチルエーテル	ジエチルエーテル	二つのエチル基がエーテル結合した有機化合物。無色で…
+j	ジップファスナー	ジップファスナー	zipper (of jeans, or clot…
+j	ジフルオロメタン	ジフルオロメタン	difluoromethane
+j	ジブラルタル海峡	ジブラルタル海峡	
+j	ジャイナ教徒	じゃいなきょうと	ジャイナ教の信者。
+j	ジャイロコンパス	ジャイロコンパス	ジャイロスコープの原理を利用した羅針盤。
+j	ジャイロスコープ	ジャイロスコープ	a gyroscope
+j	ジャグリングする	ジャグリングする	
+j	ジャケットポテト	ジャケットポテト	
+j	ジャザーカッラー	ジャザーカッラー	jazakallah
+j	ジャストアイデア	ジャストアイデア	単なる思いつき。
+j	ジャスミンライス	ジャスミンライス	jasmine rice
+j	ジャックフルーツ	ジャックフルーツ	
+j	ジャックフロスト	ジャックフロスト	
+j	ジャバウォッキー	ジャバウォッキー	
+j	ジャバスクリプト	ジャバスクリプト	JavaScript
+j	ジャパノファイル	ジャパノファイル	
+j	ジャポニック語族	ジャポニック語族	
+j	ジャマイカ英語	じゃまいかえいご	ジャマイカで話されている英語の変種。
+j	ジャマーヒリーヤ	ジャマーヒリーヤ	
+j	ジャムセッション	ジャムセッション	jam session
+j	ジャンヌ・ダルク	ジャンヌ・ダルク	Joan of Arc
+j	ジャンプスタート	ジャンプスタート	jump start
+j	ジャージーシティ	ジャージーシティ	Jersey City
+j	ジャージー島語	じゃーじーとうご	インド・ヨーロッパ語族イタリック語派に属し、イギリ…
+j	ジャールカンド州	ジャールカンド州	
+j	ジュニパーベリー	ジュニパーベリー	西洋のねずの果実を乾燥させた香辛料。ジンの香り付け…
+j	ジュヌヴィエーヴ	ジュヌヴィエーヴ	
+j	ジュロンイースト	ジュロンイースト	Jurong East (a town in th…
+j	ジュークボックス	ジュークボックス	a jukebox
+j	ジューンドロップ	ジューンドロップ	杏等が6月に果実を落とす事。
+j	ジューンブライド	ジューンブライド	六月に挙式する花嫁。
+j	ジョイスティック	ジョイスティック	a joystick (mechanical co…
+j	ジョイントマット	ジョイントマット	mat of interlocking squar…
+j	ジョグジャカルタ	ジョグジャカルタ	
+j	ジョンソンの立体	ジョンソンの立体	
+j	ジョージア州	じょーじあしゅう	the full form of ジョージア (“…
+j	ジョージア州	ジョージアしゅう	the full form of ジョージア (“…
+j	ジンギスカン鍋	じんぎすかんなべ	ジンギスカンの調理に用いられる専用の鍋。
+j	ジンジャーエール	ジンジャーエール	生姜（ジンジャー）で風味をつけたアルコールを含まな…
+j	ジンジャービール	ジンジャービール	
+j	ジンバブエ共和国	ジンバブエ共和国	ジンバブエの正式な国号。
+j	上下関係	じょうげかんけい	組織、集団の中で地位や年齢などが上位と下位の者との…
+j	上京	じょうきょうする	going to Tokyo
+j	上双子筋	じょうそうしきん	an superior gemellus musc…
+j	上場	じょうじょうする	listing a company on a st…
+j	上昇	じょうしょうする	ascent; rise
+j	上直筋	じょうちょくきん	a superior rectus muscle
+j	上級生	じょうきゅうせい	upperclassman
+j	上級者	じょうきゅうしゃ	上手な人。技術が高い人。
+j	上述	じょうじゅつする	the above-mentioned
+j	上部構造	じょうぶこうぞう	史的唯物論で下部構造（社会の経済的な土台）の上に下…
+j	上院議員	じょういんぎいん	member of the upper house…
+j	事実に照らして	じじつにてらして	in view of the facts
+j	事実のとおりに	じじつのとおりに	
+j	事業所得	じぎょうしょとく	日本国の所得税法に規定する所得の種類の一つ。農業、…
+j	事業計画	じぎょうけいかく	business plan
+j	人事委員会	じんじいいんかい	地方自治法に基づき都道府県、政令指定都市、十五万人…
+j	人体実験	じんたいじっけん	testing on a living person
+j	人口の多い	じんこうのおおい	
+j	人口爆発	じんこうばくはつ	人口の急速な増加。
+j	人口調査	じんこうちょうさ	census
+j	人口過剰	じんこうかじょう	
+j	人工冬眠	じんこうとうみん	人工的に人間のエネルギー消費を低下させて冬眠状態に…
+j	人工呼吸	じんこうこきゅう	仮死に陥った者に人工的に呼吸を補助することによって…
+j	人工惑星	じんこうわくせい	太陽の周囲を直接公転する人工の物体。
+j	人工生命	じんこうせいめい	artificial life
+j	人工衛星	じんこうえいせい	an artificial satellite
+j	人工衛星	じんこうゑいせい	an artificial satellite
+j	人工透析	じんこうとうせき	腎臓の機能が著しく低下し、体内の老廃物が尿に排出さ…
+j	人格攻撃	じんかくこうげき	その人の意見ではなく、その背後にある性格や経歴を非…
+j	人権侵害	じんけんしんがい	公権力、他者などから基本的人権が踏みにじられること…
+j	人民主権	じんみんしゅけん	人民に主権があること。国民主権。
+j	人生類友	じんせいるいとも	
+j	人的証拠	じんてきしょうこ	personal evidence, testim…
+j	人的証拠	じんてきしようこ	personal evidence, testim…
+j	人種のるつぼ	じんしゅのるつぼ	
+j	人身の自由	じんしんのじゆう	personal freedom
+j	人身供儀	じんしんきょうぎ	生きた人間を神の生け贄として捧げること。また、生け…
+j	人身取引	じんしんとりひき	human trafficking
+j	人身売買	じんしんばいばい	human trafficking (the bu…
+j	人身攻撃	じんしんこうげき	criticism of a person due…
+j	人身賣買	じんしんばいばい	
+j	人造人間	じんざうにんげん	android, robot
+j	人造人間	じんぞうにんげん	android, robot
+j	人道回廊	じんどうかいろう	
+j	人類学者	じんるいがくしゃ	anthropologist
+j	仁義礼智信	じんぎれいちしん	the five Confucian virtue…
+j	住宅ローン	じゅうたくろーん	
+j	住所不定	じゅうしょふてい	一定の生活の場である居所を持たず転々とすること。
+j	住所氏名	じゅうしょしめい	one’s name and address
+j	住民票	じゅうみんひょう	Japanese residency card
+j	住職	じゅうしょくする	serving as head priest of…
+j	住要求	じゅうようきゅう	人が自分の住まいに求める要求。
+j	児童売春	じどうばいしゅん	child prostitution
+j	児童虐待	じどうぎゃくたい	child abuse
+j	児童虐待	じどうぎやくだい	child abuse
+j	冗談を言う	じょうだんをいう	
+j	冗長性	じょうちょうせい	
+j	准教授	じゅんきょうじゅ	大学において教授に次ぐ職階。
+j	准男爵	じゅんだんしゃく	
+j	助産学者	じょさんがくしゃ	助産学を研究する科学者。
+j	十万億土	じゅうまんおくど	eternal paradise
+j	十三参り	じゅうさんまいり	a celebration on 13th Apr…
+j	十中八九	じっちゅうはっく	mostly, probably
+j	十中八九	じふちゆうはつく	mostly, probably
+j	十九角形	じゅうくかくけい	an enneadecagon
+j	十九角形	じゅうくかっけい	an enneadecagon
+j	十二年生	じゅうにねんせい	その段階の学校に入って12年目の者。
+j	十二指腸	じゅうにしちょう	duodenum
+j	十二角形	じゅうにかくけい	a dodecagon
+j	十二角形	じゅうにかっけい	a dodecagon
+j	十二面体	じゅうにめんたい	dodecahedron
+j	十五角形	じゅうごかくけい	a pentadecagon
+j	十五角形	じゅうごかっけい	a pentadecagon
+j	十人十腹	じゅうにんとはら	synonym of 十人十色 (jūnin to…
+j	十人十色	じゅうにんといろ	to each his own; differen…
+j	十六強	じゅうろくきょう	round of 16; last sixteen…
+j	十六強	じゅうろっきょう	round of 16; last sixteen…
+j	十字軍騎士	じゅうじぐんきし	
+j	十把一絡げ	じっぱひとからげ	paint with a broad brush
+j	十種競技	じっしゅきょうぎ	合計十種目の競技を行い、その記録を点数化して合計得…
+j	受動喫煙	じゅどうきつえん	passive smoking
+j	地獄のシャワー	じごくのしゃわー	A very cold shower of a s…
+j	地獄のシャワー	じごくのシャワー	A very cold shower of a s…
+j	場内指名	じょうないしめい	visiting a kyabakura with…
+j	女子色情症	じょししきじょう	
+j	女性ホルモン	じょせいほるもん	主に卵巣から分泌され、性徴の発現や卵の形成などに関…
+j	女性上位	じょせいじょうい	性行為の際に仰向けになった男性の上に女性が跨る体位…
+j	女性警官	じょせいけいかん	
+j	女流詩人	じょりゅうしじん	
+j	字音仮名遣	じおんかなづかい	
+j	字音仮名遣	じおんかなづかひ	
+j	字音仮名遣い	じおんかなづかい	kanji pronunciation based…
+j	字音仮名遣い	じおんかなづかひ	kanji pronunciation based…
+j	実函数論	じつかんすうろん	実関数論の異表記。
+j	実利主義者	じつりしゅぎしゃ	a utilitarian
+j	実力行使	じつりょくこうし	use of force
+j	実力行為	じつりょくこうい	using force
+j	実地検証	じっちけんしょう	on-the-spot investigation
+j	実態調査	じったいちょうさ	factual investigation
+j	実時間処理	じつじかんしょり	real-time operation
+j	実況プレイ	じっきょうぷれい	
+j	実物取引	じつぶつとりひき	cash transaction
+j	実現可能な	じつげんかのうな	
+j	実用主義の	じつようしゅぎの	
+j	実用新案	じつようしんあん	practical model; utility …
+j	実行に移す	じっこうにうつす	put into effect, put into…
+j	実証主義	じっしょうしゅぎ	positivism
+j	実質賃金	じっしつちんぎん	real wages
+j	実関数論	じつかんすうろん	実解析。
+j	実際問題	じっさいもんだい	practical question (probl…
+j	実験動物	じっけんどうぶつ	experimental animal
+j	実験段階	じっけんだんかい	experimental stage
+j	実験科学	じつけんくわがく	empirical science
+j	寂滅為楽	じゃくめついらく	寂滅の境地を真の快楽とすること。悟りの世界に本当の…
+j	常用漢字	じやうようかんじ	kanji approved for regula…
+j	常用漢字	じょうようかんじ	kanji approved for regula…
+j	常緑樹	じょうりょくじゅ	evergreen tree
+j	常習犯	じょうしゅうはん	repeat offender (of crime…
+j	常習的な	じょうしゅうてき	
+j	常識はずれ	じょうしきはずれ	
+j	常連客	じょうれんきゃく	regular customer
+j	常食	じょうしょくする	daily food
+j	常駐	じょうちゅうする	continuous presence
+j	弱収束	じゃくしゅうそく	弱位相において有向点族の極限が収束すること。
+j	従業	じゅうぎょうする	being engaged in employme…
+j	従業員	じゅうぎょういん	employee
+j	従軍記者	じゅうぐんきしゃ	従軍する記者。
+j	従順	じゅうじゅんする	following orders; obedien…
+j	循環器学	じゅんかんきがく	cardiology, including the…
+j	情報処理	じょうほうしょり	元となる情報から計算により加工・抽出などを行って別…
+j	情報化	じょうほうかする	computerization; digitiza…
+j	情報格差	じょうほうかくさ	インターネット等の情報通信技術を利用可能な者とでき…
+j	情報機関	じょうほうきかん	情報の収集、分析などを行う政府機関。
+j	情報理論	じょうほうりろん	information theory
+j	情報科学	じょうほうかがく	information science
+j	情報量	じょうほうりょう	コンピュータで扱われ、ビットの整数倍で扱われる情報…
+j	慈善興行	じぜんこうぎょう	
+j	成実宗	じょうじつしゅう	日本の南都六宗の一つ。成実論を研究する論宗。
+j	持続可能性	じぞくかのうせい	環境や資源が将来に渡り持続できること。
+j	授業中	じゅぎょうちゅう	in class
+j	授業料	じゅぎょうりょう	授業を受けるために納める金。
+j	数珠順列	じゅずじゅんれつ	回転するか裏返して位置が同じになるものは1通りとし…
+j	時季変更権	じきへんこうけん	従業員の有休の取得について業務の運営に支障が出る場…
+j	時間の問題	じかんのもんだい	
+j	時間を費やす	じかんをついやす	ある物事に多くの時間を掛けるさま。その物事に携わっ…
+j	時間変化	じかんへんかする	時間が経過するにしたがって起きる何かの変化。
+j	柔道場	じゅうどうじょう	judo gymnasium, judo hall
+j	樹状突起	じゅじょうとっき	a dendrite
+j	殉教	じゅんきょうする	martyrdom
+j	殉教者	じゅんきょうしゃ	martyr
+j	殉職	じゅんしょくする	dying at one's post
+j	準備の出来た	じゅんびのできた	
+j	準優勝	じゅんゆうしょう	second place
+j	準平年値	じゅんへいねんち	30年分のデータによる平年値が取れない場合に、8年…
+j	準決勝	じゅんけっしょう	semifinal
+j	準決勝	じゆんけつしよう	semifinal
+j	潤滑剤	じゆんくわつざい	lubricant
+j	状態副詞	じょうたいふくし	副詞のうち、主に動詞を含む文節を修飾し、その事物の…
+j	状態変化	じょうたいへんか	状態が変わること。
+j	獣医大学	じゅういだいがく	獣医学系の単科大学。
+j	獣医学者	じゅういがくしゃ	獣医学を研究する科学者。
+j	直談判	じかだんぱんする	direct negotiation, direc…
+j	磁気二重層	じきにじゅうそう	厚さの方向にN極とS極に磁化した磁石の板。磁殻。
+j	示威運動者	じいうんどうしゃ	
+j	神姫流兵	じんきりゅうへい	兵庫の名門私立大学: 神戸国際大学（神）、姫路獨協…
+j	神社仏閣	じんじゃぶっかく	shrines and temples
+j	純粋主義	じゅんすいしゅぎ	
+j	縄文時代	じょうもんじだい	The Jomon Period of ancie…
+j	縦横無尽	じゅうおうむじん	free; unrestrained; as on…
+j	縦横無尽	じゆうわうむじん	free; unrestrained; as on…
+j	耳鼻咽喉科医	じびいんこうかい	耳鼻咽喉科を専門とする医師。
+j	腎臓結石	じんぞうけっせき	kidney stone
+j	自主練習	じしゅれんしゅう	voluntary practice by one…
+j	自作自演	じさくじえんする	directing (a show) and ac…
+j	自信過剰な	じしんかじょうな	
+j	自動二輪車	じどうにりんしゃ	motorcycle
+j	自動二輪車・原付商	じどうにりんしゃ	中古車（自動二輪車、原動機付自転車）を扱う古物商。
+j	自動券売機	じどうけんばいき	
+j	自動変速機	じどうへんそくき	An automatic transmission.
+j	自動小銃	じどうせうじゆう	an automatic rifle
+j	自動拳銃	じどうけんじゅう	automatic pistol
+j	自動改札機	じどうかいさつき	
+j	自動演奏機	じどうえんそうき	
+j	自動窓口機	じどうまどぐちき	
+j	自動販売機	じどうはんばいき	a vending machine
+j	自動車マニア	じどうしゃまにあ	
+j	自動車レース	じどうしゃれーす	
+j	自動車保険	じとうしゃほけん	自動車による損害を補償する損害保険
+j	自動車商	じどうしゃしょう	中古車（自動車）を扱う古物商。
+j	自動車模型	じどうしゃもけい	オートバイや建設機械、農業機械、貨物自動車、バス、…
+j	自動車電話	じどうしゃでんわ	移動電話の一種で自動車内に設置されるもの。
+j	自問自答	じもんじとうする	answering one's own quest…
+j	自宅警備員	じたくけいびいん	recluse: NEET, hikikomori…
+j	自己決定権	じこけっていけん	個人が自己が行うことについて（公共の福祉に反しない…
+j	自己満足	じこまんぞくする	self-satisfaction, self-c…
+j	自己満足する	じこまんぞくする	
+j	自己肯定感	じここうていかん	自分には長所があるという感覚。
+j	自意識過剰	じいしきかじょう	excessive self-consciousn…
+j	自治体警察	じちたいけいさつ	municipal police
+j	自由エネルギー	じゆうえねるぎー	ギブス自由エネルギー。
+j	自由中国	じゆうちゅうごく	Free China
+j	自由主義者	じゆうしゅぎしゃ	自由主義の立場をとりそれを主張する者。
+j	自由意志主義	じゆういししゅぎ	
+j	自由研究	じゆうけんきゅう	research project, done by…
+j	自由競争	じゆうきょうそう	制約や束縛を全く受けずそれぞれが自由に競争すること。
+j	自由裁量	じゆうさいりょう	
+j	自由診療	じゆうしんりょう	保険が適用されず全額を自己負担する診療。
+j	自給肥料	じきゅうひりょう	堆肥や厩肥など農家が自ら作ることができる肥料。
+j	自賠責保険	じばいせきほけん	自動車損害賠償責任保険の略。
+j	自転車に乗る	じてんしゃにのる	
+j	自転車利用	じてんしゃりよう	
+j	自転車商	じてんしゃしょう	中古車（自転車）を扱う古物商。
+j	蒸留	じょうりゅうする	distillation
+j	蒸留する	じょうりゅうする	
+j	蒸留水	じょうりゅうすい	distilled water
+j	蒸留酒	じょうりゅうしゅ	発酵させて造った醸造酒を蒸留して、ふくまれるアルコ…
+j	蒸発させる	じょうはつさせる	
+j	蓴羹鱸膾	じゅんこうろかい	故郷を懐かしく思うこと。
+j	譲渡所得	じょうとしょとく	capital gains
+j	軸性ベクトル	じくせいべくとる	擬ベクトル。
+j	辞書編集	じしょへんしゅう	
+j	邪智暴虐	じゃちぼうぎゃく	evil tyranny
+j	醸造業	じょうぞうぎょう	醸造を行う事業。
+j	重力井戸	じゅうりょくいど	
+j	重唱	じゅうしょうする	singing in parts
+j	重変記号	じゅうへんきごう	半音の2倍下げる、すなわち全音下げることを表す記号…
+j	重嬰記号	じゅうえいきごう	半音の2倍上げる、すなわち全音上げることを表す記号…
+j	重工業	じゅうこうぎょう	heavy industry
+j	重減七度	じゅうげんしちど	内包する半音が八である七度音程。
+j	重装歩兵	じゅうそうほへい	重装備の歩兵。
+j	重要である	じゅうようである	
+j	重要でない	じゅうようでない	
+j	重要臓器	じゅうようぞうき	
+j	重課金兵	じゅうかきんへい	重課金ユーザー。
+j	重軽傷	じゅうけいしょう	serious and minor injuries
+j	重量挙げ	じゅうりょうあげ	バーベルを両手で頭上に持ち上げその重さを競う競技。…
+j	銃剣術	じゅうけんじゅつ	軍隊で行われている銃剣によって相手を殺傷することを…
+j	銃剣道家	じゅうけんどうか	銃剣道を行う武道家またはそれで生業としている者、修…
+j	陣中見舞い	じんちゅうみまい	戦場にいる将兵を慰労すること。また、その場に持参し…
+j	需要独占	じゅようどくせん	
+j	麝香豌豆	じゃこうえんどう	sweet pea
+j	麝香豌豆	じやかうゑんどう	sweet pea
+j	麝香豌豆	ジャコウエンドウ	sweet pea
+j	じゅうたんばくげき	じゅうたんばくげき	絨毯爆撃: carpet bombing
+j	ジェイプサイ中間子	ジェイプサイ中間子	
+j	ジェスチャーゲーム	ジェスチャーゲーム	charades
+j	ジェチュポスポリタ	ジェチュポスポリタ	
+j	ジェットコースター	ジェットコースター	rollercoaster (amusement …
+j	ジェネリック医薬品	ジェネリック医薬品	generic medicine
+j	ジェンツーペンギン	ジェンツーペンギン	a gentoo penguin
+j	ジェームズ・ボンド	ジェームズ・ボンド	
+j	ジブチ共和国	じぶちきょうわこく	ジブチの正式な国号。
+j	ジベンゾジオキシン	ジベンゾジオキシン	
+j	ジャイアントパンダ	ジャイアントパンダ	a giant panda
+j	ジャイロモーメント	ジャイロモーメント	gyroscopic motion
+j	ジャストアイディア	ジャストアイディア	思いつき、考案、構想、着想、ふと考えたこと。
+j	ジャックオランタン	ジャックオランタン	ハロウィンの際に飾る、かぼちゃのお化け。
+j	ジャッファオレンジ	ジャッファオレンジ	
+j	ジャパニメーション	ジャパニメーション	
+j	ジャポニック語族	じゃぽにっくごぞく	
+j	ジャラーラーバード	ジャラーラーバード	
+j	ジャングルキャット	ジャングルキャット	ネコ目ネコ科ネコ属に属する食肉類の一種。学名:Fe…
+j	ジャヴァスクリプト	ジャヴァスクリプト	「ジャバスクリプト」の表記ゆれ。
+j	ジューンティーンス	ジューンティーンス	
+j	ジョックストラップ	ジョックストラップ	jockstrap
+j	ジョルダンの不等式	ジョルダンの不等式	0≦x≦π/2で成り立つ2/πx≦ sin x≦x…
+j	ジロ・デ・イタリア	ジロ・デ・イタリア	
+j	ジンジャークッキー	ジンジャークッキー	
+j	ジンジャースナップ	ジンジャースナップ	
+j	ジンジャーブレッド	ジンジャーブレッド	gingerbread (type of cake)
+j	上代日本語	じょうだいにほんご	奈良時代以前の日本語。『万葉集』などに用いられてい…
+j	上位互換性	じょういごかんせい	compatibility with an inf…
+j	上位集合	じょういしゅうごう	
+j	上半平面	じょうはんへいめん	虚部が正である複素数全体の集合。
+j	上唇挙筋	じょうしんきょきん	a levator labii superioris
+j	上後鋸筋	じょうこうきょきん	a serratus posterior supe…
+j	上級国民	じやうきふこくみん	person such as upper clas…
+j	上頭斜筋	じょうとうしゃきん	an obliquus capitis super…
+j	乗降人員	じょうこうじんいん	
+j	人口ピラミッド	じんこうぴらみっど	a population pyramid
+j	人口ピラミッド	じんこうピラミッド	a population pyramid
+j	人名用漢字	じんめいようかんじ	kanji approved for use in…
+j	人工呼吸器	じんこうこきゅうき	ventilator; artificial re…
+j	人工流産	じんこうりゅうざん	
+j	人文科学者	じんぶんかがくしゃ	人文科学を研究する科学者。
+j	人材開発部	じんざいかいはつぶ	
+j	人権蹂躙	じんけんじゅうりん	公権力、他者などから基本的人権が踏みにじられること…
+j	人海戦術	じんかいせんじゅつ	多くの兵員を繰り出し、数の力で圧倒する戦術。
+j	人道主義的	じんどうしゅぎてき	humanitarian
+j	人道主義者	じんどうしゅぎしゃ	humanitarian (person)
+j	人面獣心	じんめんじゅうしん	顔は人間であるが、心は獣のような心であること。
+j	住民発案	じゅうみんはつあん	国や地方公共団体に対し一定の数の住民が法令の制定や…
+j	児童文学者	じどうぶんがくしゃ	児童文学作品の創作者。
+j	児童相談所	じどうそうだんしょ	児童に関係する福祉のために都道府県毎に設置される組…
+j	十一年生	じゅういちねんせい	その段階の学校に入って11年目の者。
+j	十一角形	じゅういちかくけい	a hendecagon
+j	十一角形	じゅういちかっけい	a hendecagon
+j	十七角形	じゅうしちかくけい	a heptadecagon
+j	十七角形	じゅうしちかっけい	a heptadecagon
+j	十七角形	じゅうななかくけい	a heptadecagon
+j	十七角形	じゅうななかっけい	a heptadecagon
+j	十三年生	じゅうさんねんせい	その段階の学校に入って13年目の者。
+j	十三角形	じゅうさんかくけい	a tridecagon
+j	十三角形	じゅうさんかっけい	a tridecagon
+j	十中八九	じゅうちゅうはっく	mostly, probably
+j	十中八九	じゅっちゅうはっく	mostly, probably
+j	十二時間制	じゅうにじかんせい	時刻を午前、午後それぞれ零時から十二時までで表す方…
+j	十二音技法	じゅうにおんぎほう	
+j	十八角形	じゅうはちかくけい	an octadecagon
+j	十八角形	じゅうはちかっけい	an octadecagon
+j	十八角形	じゅうはっかくけい	an octadecagon
+j	十八角形	じゅうはっかっけい	an octadecagon
+j	十六角形	じゅうろくかくけい	a hexadecagon
+j	十六角形	じゅうろくかっけい	a hexadecagon
+j	十六角形	じゅうろっかっけい	a hexadecagon
+j	十六進法	じゅうろくしんほう	十六を底として、十六の累乗で桁を進める記数法。十六…
+j	十四角形	じゅうよんかくけい	a tetradecagon
+j	十四角形	じゅうよんかっけい	a tetradecagon
+j	十干十二支	じっかんじゅうにし	十干と十二支、またはそれらを組み合わせた表現の総称。
+j	十把一絡げ	じゅっぱひとからげ	paint with a broad brush
+j	十月革命	じゅうがつかくめい	
+j	十母十二子	じゅうぼじゅうにし	十干十二支に同じ。
+j	受験勉強	じゅけんべんきょう	受験するための勉強。
+j	叙述トリック	じょじゅつとりっく	misleading narrative rela…
+j	叙述トリック	じょじゅつトリック	misleading narrative rela…
+j	地毛証明書	じげしょうめいしょ	"natural hair certificate…
+j	女性器切除	じょせいきせつじょ	
+j	実存主義者	じつぞんしゅぎしゃ	an existentialist
+j	実情調査	じつじょうちょうさ	
+j	実業学校	じつぎょうがっこう	vocational school
+j	実況放送	じっきょうほうそう	on-the-spot or live broad…
+j	実況放送	じつきやうはうそう	on-the-spot or live broad…
+j	実物大模型	じつぶつだいもけい	full-size model; mock-up
+j	実物描写	じつぶつびょうしゃ	model drawing
+j	実用主義者	じつようしゅぎしゃ	a pragmatist
+j	実行委員会	じっこういいんかい	executive committee
+j	実証哲学	じっしょうてつがく	positivism
+j	実践躬行	じっせんきゅうこう	acting up to one's princi…
+j	実際の生活	じっさいのせいかつ	
+j	実験小説	じっけんしょうせつ	experimental novel
+j	実験心理学	じっけんしんりがく	experimental psychology
+j	実験材料	じっけんざいりょう	material for experiments;…
+j	尋常一様	じんじょういちよう	普通で、特にほかと変わったところのない様子。
+j	巡洋戦艦	じゅんようせんかん	a battle-cruiser
+j	巡洋戦艦	じゆんやうせんかん	a battle-cruiser
+j	巡航ミサイル	じゅんこうみさいる	a cruise missile
+j	巡航ミサイル	じゅんこうミサイル	a cruise missile
+j	常任理事国	じょうにんりじこく	国連の安全保障理事会で拒否権を持つ国。アメリカ合衆…
+j	常住不断	じょうじゅうふだん	ceaseless action, going w…
+j	常套手段	じょうとうしゅだん	one's usual practice, one…
+j	常用対数	じょうようたいすう	common logarithm, base 10…
+j	常用對數	じょうようたいすう	常用対数の旧字体表記。。
+j	常用手段	じょうようしゅだん	one's usual practice, one…
+j	常用薄明	じょうようはくめい	薄明のうち、太陽の高度が地平線下6度以内にある状態…
+j	常識改変	じょうしきかいへん	現実には非常識である事柄、非現実的である事柄が当然…
+j	常軌を逸した	じょうきをいっした	
+j	常軌を逸する	じょうきをいっする	to depart / be detached f…
+j	弱者男性	じゃくしゃだんせい	man with weak elements su…
+j	従動歯車	じゅうどうはぐるま	動力を供給される歯車。
+j	従属変数	じゅうぞくへんすう	ある変数を決めると別の変数が定まるときの後の方の変…
+j	従軍慰安婦	じゅうぐんいあんふ	comfort woman in the cont…
+j	情報化時代	じょうほうかじだい	
+j	情報工学	じょうほうこうがく	電子的な情報を工学的に扱う学問。
+j	情報技術	じょうほうぎじゅつ	information technology (t…
+j	情報検索	じょうほうけんさく	information retrieval
+j	情報番組	じょうほうばんぐみ	情報を提供する番組。
+j	情報科学	じやうほうくわがく	information science
+j	情報革命	じょうほうかくめい	情報の活用手段などが開拓されることによって、社会や…
+j	持続勃起症	じぞくぼっきしょう	
+j	授業参観	じゅぎょうさんかん	a visit by a student's gu…
+j	時間外労働	じかんがいろうどう	労働基準法などに規定される労働時間を超えて労働する…
+j	条件反射	じょうけんはんしゃ	動物で本来の反射の刺激とともにそれとは無関係な刺激…
+j	樹状細胞	じゅじょうさいぼう	T細胞に抗原提示を行う抗原提示細胞。
+j	殉教紀元	じゅんきょうきげん	ローマ皇帝のディオクレティアヌスが即位した西暦28…
+j	浄土真宗	じょうどしんしゅう	日本の浄土教の仏教宗派の一つ。鎌倉時代の僧親鸞によ…
+j	準チョコレート	じゅんちょこれーと	chocolate with lower caca…
+j	準チョコレート	じゅんチョコレート	chocolate with lower caca…
+j	準内陸国	じゅんないりくこく	国境の大半が陸上国境であり、海に面する部分がきわめ…
+j	準軍事組織	じゅんぐんじそしき	平時には警察活動を行い、戦時には軍隊の傘下に入り作…
+j	獣医科大学	じゅういかだいがく	獣医学系の単科大学。
+j	盛者必衰	じょうしゃひっすい	Everything prosperous wil…
+j	神姫流兵	じんきりゅうひょう	兵庫の名門私立大学: 神戸国際大学（神）、姫路獨協…
+j	純粋数学	じゅんすいすうがく	pure mathematics
+j	絨毯爆撃	じゅうたんばくげき	carpet bombing
+j	絨毯爆擊	じゅうたんばくげき	
+j	耳鼻咽喉科学	じびいんこうかがく	study of the ear, nose an…
+j	自動三輪車	じどうさんりんしゃ	オート三輪車。
+j	自動小銃	じどうしょうじゅう	an automatic rifle
+j	自動車学校	じどうしゃがっこう	driving school
+j	自動車工学	じどうしゃこうがく	自動車の原理、構造、設計、製造などを研究する工学。
+j	自動車整備士	じどうしゃせいびし	自動車等の整備を行う整備士。現在の日本では、道路運…
+j	自動車競技	じどうしゃきょうぎ	
+j	自動運転車	じどううんてんしゃ	人間が運転操作をせずに機械やシステムが操作する自動…
+j	自家用自動車	じかようじどうしゃ	個人で所有し利用するための自動車。自家用車。マイカ…
+j	自己中心性	じこちゅうしんせい	
+j	自己紹介	じこしょうかいする	self-introduction
+j	自律神経系	じりつしんけいけい	the autonomic nervous sys…
+j	自律訓練法	じりつくんれんほう	
+j	自由の女神像	じゆうのめがみぞう	the Statue of Liberty
+j	自給自足	じきゅうじそくする	self-sufficiency
+j	自覚症状	じかくしやうじやう	subjective symptoms, symp…
+j	自覚症状	じかくしょうじょう	subjective symptoms, symp…
+j	自転車競技	じてんしゃきょうぎ	自転車を用いて行われる競技の総称。
+j	蒸気機関車	じょうききかんしゃ	a steam locomotive
+j	蒸気機関車	じようきくわんしや	a steam locomotive
+j	遵法闘争	じゅんぽうとうそう	労働者が法令やルールなどを厳格に運用し業務を遅滞さ…
+j	醸造学者	じょうぞうがくしゃ	醸造学を研究する科学者。
+j	重合反応	じゅうごうはんのう	重合体を合成する化学反応。
+j	重商主義	じゅうしょうしゅぎ	
+j	重機関銃	じゅうきかんじゅう	heavy machine gun
+j	重炭酸塩	じゅうたんさんえん	「炭酸水素塩」を参照。
+j	重音脱落	じゅうおんだつらく	haplology
+j	銃剣術家	じゅうけんじゅつか	銃剣術を行う武術家またはそれで生業としている者、修…
+j	静脈瘤	じょうみゃくりゅう	varicose vein (medical co…
+j	順態接続	じゅんたいせつぞく	それまでの文脈から当然に予測されることが後に続くこと
+j	順法闘争	じゅんぽうとうそう	労働者が法令やルールなどを厳格に運用し業務を遅滞さ…
+j	順風満帆	じゅんぷうまんぱん	smooth sailing, everythin…
+j	麝香連理草	じゃこうれんりそう	sweet pea
+j	麝香連理草	ジャコウレンリソウ	sweet pea
+j	じしょうのちへいめん	じしょうのちへいめん	事象の地平面: event horizon
+j	じょじゅつけいようし	じょじゅつけいようし	叙述形容詞: predicative adject…
+j	ジェファーソンシティ	ジェファーソンシティ	Jefferson City
+j	ジェファーソンタウン	ジェファーソンタウン	Jeffersontown (a city in …
+j	ジエチレングリコール	ジエチレングリコール	
+j	ジャイアントイランド	ジャイアントイランド	クジラ偶蹄目ウシ科ブッシュバック属に属する鯨偶蹄類…
+j	ジャイアントエランド	ジャイアントエランド	クジラ偶蹄目ウシ科ブッシュバック属に属する鯨偶蹄類…
+j	ジュネーブ条約	じゅねーぶじょうやく	
+j	ジョイントベンチャー	ジョイントベンチャー	
+j	ジンジャービスケット	ジンジャービスケット	
+j	上半身裸	じょうはんしんはだか	one who is shirtless, top…
+j	上唇切歯筋	じょうしんせっしきん	an incisivus labii superi…
+j	上座部仏教	じょうざぶぶっきょう	現在、存在している仏教のうちの大きな一群のこと。
+j	上座部佛教	じょうざぶぶっきょう	
+j	上昇気流	じょうしょうきりゅう	downdraft
+j	上流社会	じょうりゅうしゃかい	
+j	上級国民	じょうきゅうこくみん	person such as upper clas…
+j	上腕二頭筋	じょうわんにとうきん	a biceps brachii muscle
+j	上行結腸	じょうこうけっちょう	結腸の一部で、盲腸から横行結腸まで上方に向かう部分。
+j	乗用自動車	じょうようじどうしゃ	人が乗るための自動車。乗用車。
+j	事象の地平面	じしょうのちへいめん	event horizon
+j	人体解剖学	じんたいかいぼうがく	human anatomy
+j	人口統計学	じんこうとうけいがく	demography
+j	人工現実感	じんこうげんじつかん	
+j	人工甘味料	じんこうかんみりょう	人工的、化学的に合成された甘味料。合成甘味料。
+j	人民共和国	じんみんきょうわこく	a people's republic
+j	住民投票	じゅうみんとうひょう	地方公共団体の議会の解散、首長の解職、その地方公共…
+j	児童虐待者	じどうぎゃくたいしゃ	
+j	十乗観法	じゅうじょうかんぽう	天台宗で悟りを得るために行われる十種類の観法。観不…
+j	十九角形	じゅうきゅうかくけい	an enneadecagon
+j	十九角形	じゅうきゅうかっけい	an enneadecagon
+j	十五種競技	じゅうごしゅきょうぎ	合計十五種目の競技を行い、その記録を点数化して合計…
+j	十八般兵器	じゅうはっぱんへいき	Eighteen Arms of Wushu, a…
+j	十分条件	じゅうぶんじょうけん	二つの命題があり、一つ目の命題が真であれば二つ目の…
+j	十四日年越し	じゅうよっかとしこし	旧正月の前日の1月14日に行われる年越しの行事。
+j	十進分類法	じっしんぶんるいほう	図書の分類法で、まず大まかに10の分野に分け、その…
+j	叙述形容詞	じょじゅつけいようし	predicative adjective
+j	地滑り的勝利	じすべりてきしょうり	
+j	場内信号機	じょうないしんごうき	停車場の入口に設置される信号機。
+j	女性実業家	じょせいじつぎょうか	
+j	実体顕微鏡	じったいけんびきょう	双眼実体顕微鏡。
+j	実証主義者	じっしょうしゅぎしゃ	a positivist
+j	巡回行列	じゅんかいぎょうれつ	(i, j)成分が(i-j)を次数で割ったものであ…
+j	巡航客船	じゅんこうきゃくせん	
+j	常任委員会	じょうにんいいんかい	国会に常設される委員会。
+j	常染色体	じやうせんしょくたい	autosome (any chromosome …
+j	常染色体	じょうせんしょくたい	autosome (any chromosome …
+j	常用外漢字	じょうようがいかんじ	kanji not approved for re…
+j	常緑高木	じょうりょくこうぼく	tall evergreen tree
+j	循環小数	じゅんかんしょうすう	repeating decimal
+j	循環小数	じゆんくわんせうすう	repeating decimal
+j	情報化社会	じょうほうかしゃかい	情報が諸資源と同等の価値を有し、それらを中心として…
+j	情報将校	じょうほうしょうこう	
+j	情報弱者	じやうほうじやくしや	synonym of 情弱 (jōjaku)
+j	情報弱者	じょうほうじゃくしゃ	synonym of 情弱 (jōjaku)
+j	情報産業	じょうほうさんぎょう	情報を生産・収集・加工・提供する等の形態で業務を行…
+j	情緒不安定	じょうちょふあんてい	emotional instability
+j	時間を無駄に過ごす	じかんをむだにすごす	
+j	時間外協定	じかんがいきょうてい	使用者と労働者との間で結ばれる、時間外労働や休日出…
+j	時間計算量	じかんけいさんりょう	time complexity
+j	条件収束	じょうけんしゅうそく	無限級数∑ₙ₌₁ ᪲a_nが通常の意味で収束するが…
+j	次亜塩素酸ソーダ	じあえんそさんそーだ	次亜塩素酸のナトリウム塩。強アルカリ性。次亜塩素酸…
+j	浄化槽管理士	じょうかそうかんりし	浄化槽の点検、修理、調整を行う職業。
+j	浄化槽設備士	じょうかそうせつびし	浄化槽の設置工事の監督を行う職業。
+j	準中型車	じゅんちゅうがたしゃ	準中型自動車の略称。
+j	準暴力団	じゅんぼうりょくだん	暴力団に準じた反社会的行為を行う集団。
+j	状態行列	じょうたいぎょうれつ	線型系の状態方程式に於ける状態ベクトルの係数行列。
+j	純粋主義者	じゅんすいしゅぎしゃ	
+j	縦列駐車	じゅうれつちゅうしゃ	
+j	自動車共済	じどうしゃきょうさい	自動車の所有、管理、使用によって生じる損害を補填す…
+j	自家用操縦士	じかようそうじゅうし	報酬を得ずに航空機を操縦する航空従事者。
+j	自己免疫疾患	じこめんえきしっかん	autoimmune disease
+j	自由至上主義	じゆうしじょうしゅぎ	
+j	自由貿易地域	じゆうぼうえきちいき	
+j	自由間接話法	じゆうかんせつわほう	
+j	辞書編集者	じしょへんしゅうしゃ	
+j	醸造アルコール	じょうぞうあるこーる	米穀などを醸造、蒸留した食用のエタノール。味や品質…
+j	重力加速度	じゅうりょくかそくど	自由落下の際の加速度。地球上では約9.8 m/s²。
+j	重厚長大	じゅうこうちょうだい	造船、石油化学、鉄鋼などの重工業。また、その特徴。
+j	重被牽引車	じゅうひけんいんしゃ	車両総重量が750kg超の被牽引自動車。
+j	重要文化財	じゅうようぶんかざい	文部科学大臣が指定した、重要な有形文化財。
+j	じたばたしても鶏は裸足	じたばたしても鶏は裸足	今にあれこれと言っても、事実は事実であるということ。
+j	ジェネリック医薬品	じぇねりっくいやくひん	generic medicine
+j	ジェネリック医薬品	ジェネリックいやくひん	generic medicine
+j	ジブラルタル海峡	じぶらるたるかいきょう	
+j	ジャパニーズボブテイル	ジャパニーズボブテイル	a Japanese Bobtail
+j	ジャンムー・カシミール	ジャンムー・カシミール	Jammu and Kashmir (a unio…
+j	ジョグジャカルタ特別州	ジョグジャカルタ特別州	
+j	ジョルダンの不等式	じょるだんのふとうしき	0≦x≦π/2で成り立つ2/πx≦ sin x≦x…
+j	ジンジャーブレッドマン	ジンジャーブレッドマン	
+j	ジンバブエ共和国	じんばぶえきょうわこく	ジンバブエの正式な国号。
+j	上流階級	じょうりゅうかいきゅう	社会的、経済的に高い地位の階級。上流。
+j	上眼瞼挙筋	じょうがんけんきょきん	a levator palpebrae super…
+j	上腕三頭筋	じょうわんさんとうきん	a triceps brachii muscle
+j	上腕神経痛	じょうわんしんけいつう	上肢の腕神経叢に沿って起きる疼痛。外傷、椎間板ヘル…
+j	人口に膾炙する	じんこうにかいしゃする	universally appreciated (…
+j	人格障害者	じんかくしょうがいしゃ	
+j	人身保護令状	じんしんほごれいじょう	
+j	人道に対する罪	じんどうにたいするつみ	crime against humanity
+j	十四種競技	じゅうよんしゅきょうぎ	合計十四種目の競技を行い、その記録を点数化して合計…
+j	十日十二辰	じゅうじつじゅうにしん	十干十二支に同じ。
+j	十種伝染病	じっしゅでんせんびょう	旧伝染病予防法の対象となったコレラ、赤痢、ペストな…
+j	女性恐怖症	じょせいきょうふしょう	
+j	女権拡張論	じょけんかくちょうろん	
+j	実験的研究	じっけんてきけんきゅう	experimental study
+j	尋常小学校	じんじやうせうがくかう	ordinary elementary school
+j	常温核融合	じょうおんかくゆうごう	cold fusion, cold nuclear…
+j	常用漢字表	じょうようかんじひょう	1981年内閣告示された常用漢字を示した表。本表と…
+j	弱肉強食	じゃくにくきょうしょく	law of the jungle
+j	従法線ベクトル	じゅうほうせんべくとる	曲線 C=boldsymbol p(t)∣t∈ℝに…
+j	準準決勝	じゅんじゅんけっしょう	準決勝への進出者、つまりベスト4を決めるための試合。
+j	状態方程式	じょうたいほうていしき	理想気体の圧力P、体積V、物質量n、気体定数R、絶…
+j	状態空間法	じょうたいくうかんほう	状態空間表現。
+j	耳鼻咽喉専門医	じびいんこうせんもんい	
+j	重力質量	じゅうりょくしつりょう	物体が及ぼす万有引力の大きさとして定義される質量。
+j	需要と供給	じゅようときょうきゅう	supply and demand
+j	静脈注射	じやうみやくちゆうしや	intravenous injection
+j	静脈注射	じょうみゃくちゅうしゃ	intravenous injection
+j	ジェイプサイ中間子	じぇいぷさいちゅうかんし	
+j	ジェネレーションギャップ	ジェネレーションギャップ	generation gap
+j	ジェントリフィケーション	ジェントリフィケーション	（スラム街などの）高級住宅地化、中産階級化。
+j	ジャスティフィケーション	ジャスティフィケーション	正当化。また、その根拠。
+j	ジャマイカ・クレオール語	ジャマイカ・クレオール語	
+j	ジャンムー・カシミール州	ジャンムー・カシミール州	
+j	上唇鼻翼挙筋	じょうしんびよくきょきん	a levator labii superiori…
+j	事業用操縦士	じぎょうようそうじゅうし	報酬を得て航空機を操縦したり、航空会社の副操縦士と…
+j	人口置換水準	じんこうちかんすいじゅん	男女の比率や生殖が可能な年齢になる前の死亡を考慮し…
+j	人民民主独裁	じんみんみんしゅどくさい	people's democratic dicta…
+j	人種差別主義者	じんしゅさべつしゅぎしゃ	racist person or people
+j	人類共通の敵	じんるいきょうつうのてき	hostis humani generis
+j	児童性虐待者	じどうせいぎゃくたいしゃ	
+j	十三恐怖症	じゅうさんきょうふしょう	
+j	十二指腸潰瘍	じふにしちやうくわいやう	duodenal ulcer
+j	十二指腸潰瘍	じゅうにしちょうかいよう	duodenal ulcer
+j	十分成長した	じゅうぶんせいちょうした	
+j	地震雷火事親父	じしんかみなりかじおやじ	the father is feared as m…
+j	女性同性愛者	じょせいどうせいあいしゃ	
+j	尋常小学校	じんじょうしょうがっこう	ordinary elementary school
+j	常微分方程式	じょうびぶんほうていしき	ordinary differential equ…
+j	情報で強化する	じょうほうできょうかする	
+j	情報提供者	じょうほうていきょうしゃ	
+j	情報生命科学	じょうほうせいめいかがく	
+j	情報通信業	じょうほうつうしんぎょう	情報の伝達、処理、提供をする産業。
+j	情状酌量	じやうじやうしやくりやう	mitigation of a sentence
+j	情状酌量	じょうじょうしゃくりょう	mitigation of a sentence
+j	次亜塩素酸ナトリウム	じあえんそさんなとりうむ	次亜塩素酸のナトリウム塩。強アルカリ性。次亜塩素酸…
+j	準中型トラック	じゅんちゅうがたとらっく	準中型自動車に分類されるトラック。
+j	準中型免許	じゅんちゅうがためんきょ	「準中型自動車運転免許」のこと。準中型自動車のほか…
+j	準褐色矮星	じゅんかっしょくわいせい	sub-brown dwarf
+j	状態空間モデル	じょうたいくうかんもでる	状態空間表現。
+j	純米吟醸酒	じゅんまいぎんじょうしゅ	特定名称のひとつ。精米歩合60%以下の白米と米麹を…
+j	純虚指数関数	じゅんきょしすうかんすう	cis,θ:= cos θ+i sin θと定義さ…
+j	自動現金預払機	じどうげんきんよはらいき	an automatic teller machi…
+j	自動車専用道路	じどうしゃせんようどうろ	自動車のみ通行を許可された道路。
+j	自転車競技場	じてんしゃきょうぎじょう	自転車競技を行うための施設。
+j	自閉スペクトラム症	じへいすぺくとらむしょう	自閉症スペクトラム障害。
+j	重力相互作用	じゅうりょくそうごさよう	gravitational interaction
+j	ジェネリックプログラミング	ジェネリックプログラミング	generic programming
+j	ジャイアント・インパクト説	ジャイアント・インパクト説	原始地球に火星ほどの大きさの原始惑星が衝突し、それ…
+j	人工妊娠中絶	じんこうにんしんちゅうぜつ	妊娠している女性の胎児が母体の外では単独で生命が維…
+j	人工着色料	じんこうちゃくしょくりょう	「合成着色料」を参照。
+j	住宅金融組合	じゅうたくきんゆうくみあい	building society
+j	女権拡張論者	じょけんかくちょうろんしゃ	
+j	常識的に考えて	じょうしきてきにかんがえて	thinking with common sense
+j	従属栄養生物	じゅうぞくえいようせいぶつ	
+j	情動脱力発作	じょうどうだつりょくほっさ	
+j	準中型自動車	じゅんちゅうがたじどうしゃ	道路交通法において大型自動車、中型自動車、普通自動…
+j	準中型貨物車	じゅんちゅうがたかもつしゃ	準中型貨物自動車の略称。
+j	状態遷移行列	じょうたいせんいぎょうれつ	伝達関数行列を mathbf G(s)= math…
+j	自動車教習所	じどうしゃきょうしゅうじょ	運転免許の取得を希望する人に必要な知識、技能を教授…
+j	自動車重量税	じどうしゃじゅうりょうぜい	日本国の「自動車重量税法」（昭和46年法律第89号…
+j	自民族中心主義	じみんぞくちゅうしんしゅぎ	
+j	重量挙げ選手	じゅうりょうきょげせんしゅ	
+j	ジェンダー・アイデンティティ	ジェンダー・アイデンティティ	
+j	ジュマーダー・アッ゠サーニー	ジュマーダー・アッ゠サーニー	Jumada II
+j	ジュマーダー・アル゠アーヒラ	ジュマーダー・アル゠アーヒラ	Jumada II
+j	ジュマーダー・アル゠ウーラー	ジュマーダー・アル゠ウーラー	Jumada I
+j	上代特殊仮名遣	じょうだいとくしゅかなづかい	distinctions in the usage…
+j	事実は小説より奇なり	じじつはしょうせつよりきなり	truth is stranger than fi…
+j	児孫のために美田を買わず	じそんのためにびでんをかわず	leave no property for you…
+j	女子高等師範学校	じょしこうとうしはんがっこう	高等女学校などの女子中等教育の教員を養成を目的に国…
+j	実情調査委員会	じつじょうちょうさいいんかい	fact-finding committee
+j	実質国内総生産	じっしつこくないそうせいさん	物価の変動を補正した国内総生産。
+j	情報処理技術者	じょうほうしょりぎじゅつしゃ	基本情報技術者、応用情報技術者の資格を有する者。
+j	情状酌量	じょうじょうしゃくりょうする	mitigation of a sentence
+j	状態空間表現	じょうたいくうかんひょうげん	物理的システムを入力変数・出力変数・状態変数の連立…
+j	純米大吟醸酒	じゅんまいだいぎんじょうしゅ	特定名称のひとつ。精米歩合50%以下の白米と米麹を…
+j	自動現金預払機	じどうげんきんあずけばらいき	an automatic teller machi…
+j	じたばたしても鶏は裸足	じたばたしてもにわとりははだし	今にあれこれと言っても、事実は事実であるということ。
+j	ジャーマン・シェパード・ドッグ	ジャーマン・シェパード・ドッグ	a German Shepherd Dog
+j	ジョグジャカルタ特別州	じょぐじゃかるたとくべつしゅう	
+j	上咽頭収縮筋	じょういんとうしゅうしゅくきん	a superior pharyngeal con…
+j	上理明青立法中	じょうりめいせいりっぽうちゅう	東京にある7つのの名門私立大学: 上智大学（上）、…
+j	人事を尽くして天命を待つ	じんじをつくしててんめいをまつ	to do one's level best an…
+j	実質経済成長率	じっしつけいざいせいちょうりつ	real economic growth rate
+j	情報で影響を上げる	じょうほうでえいきょうをあげる	
+j	自動化された機械学習	じどうかされたきかいがくしゅう	
+j	人畜共通感染症	じんちくきょうつうかんせんしょう	人間と動物に共通して感染する感染症。人獣共通感染症。
+j	人間到る処青山あり	じんかんいたるところせいざんあり	世の中何処ででも死ねるということ。また、そうである…
+j	準中型貨物自動車	じゅんちゅうがたかもつじどうしゃ	準中型自動車に分類される貨物自動車。準中型貨物車。
+j	人獣共通感染症	じんじゅうきょうつうかんせんしょう	zoonosis, more specifical…
+j	人生字を識るは憂患の始め	じんせいじをしるはゆうかんのはじめ	misery of life starts at …
+j	十有五にして学を志す	じゅうゆうごにしてがくをこころざす	人は十五歳になって初めて、人生の目標を定めるという…
+j	準中型自動車免許	じゅんちゅうがたじどうしゃめんきょ	「準中型自動車運転免許」のこと。準中型自動車のほか…
+j	自閉症スペクトラム障害	じへいしょうすぺくとらむしょうがい	神経発達症の一つ。コミュニケーションの障害や物事へ…
+j	重箱の隅を楊枝でほじくる	じゅうばこのすみをようじでほじくる	
+j	ジョルダンヒレナガチョウチンアンコウ	ジョルダンヒレナガチョウチンアンコウ	アンコウ目ヒレナガチョウチンアンコウ科に属する深海…
+j	准定期運送用操縦士	じゅんていきうんそうようそうじゅうし	国際線、国内線の副操縦士として大型の航空機を操縦す…
+j	重要業績評価指標	じゅうようぎょうせきひょうかしひょう	key performance indicator…
+j	情報処理安全確保支援士	じょうほうしょりあんぜんかくほしえんし	サイバーセキュリティの確保における相談や、必要な情…
+j	地獄への道は善意で舗装されている	じごくへのみちはぜんいでほそうされている	the road to hell is paved…
+j	自動車損害賠償責任保険	じとうしゃそんがいばいしょうせきにんほけん	自動車損害賠償保障法に基づき自動車を保有、運行する…
+j	重症急性呼吸器症候群	じゅうしょうきゅうせいこきゅうきしょうこうぐん	severe acute respiratory …

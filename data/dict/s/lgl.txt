@@ -1,0 +1,119 @@
+e	glad	glad	1 meaning
+e	glib	glib	1 meaning
+e	glue	glue	1 meaning
+e	glug	glug	1 meaning
+e	glut	glut	1 meaning
+e	glade	glade	1 meaning
+e	gland	gland	1 meaning
+e	glans	glans	1 meaning
+e	glare	glare	1 meaning
+e	glass	glass	2 meanings
+e	glaze	glaze	1 meaning
+e	glean	glean	1 meaning
+e	glide	glide	2 meanings
+e	globe	globe	2 meanings
+e	glomp	glomp	1 meaning
+e	glory	glory	4 meanings
+e	gloss	gloss	1 meaning
+e	glove	glove	2 meanings
+e	gluon	gluon	1 meaning
+e	glyph	glyph	1 meaning
+e	glacis	glacis	1 meaning
+e	gladly	gladly	1 meaning
+e	glaive	glaive	1 meaning
+e	glance	glance	2 meanings
+e	glider	glider	1 meaning
+e	glioma	glioma	1 meaning
+e	global	global	1 meaning
+e	gloomy	gloomy	2 meanings
+e	gloria	gloria	1 meaning
+e	glossy	glossy	1 meaning
+e	gluten	gluten	1 meaning
+e	glacier	glacier	1 meaning
+e	gladden	gladden	1 meaning
+e	glaring	glaring	2 meanings
+e	glasgow	glasgow	1 meaning
+e	glazier	glazier	1 meaning
+e	gliding	gliding	1 meaning
+e	glisten	glisten	1 meaning
+e	glitter	glitter	3 meanings
+e	glorify	glorify	2 meanings
+e	glottis	glottis	1 meaning
+e	glucose	glucose	1 meaning
+e	gluteal	gluteal	1 meaning
+e	gluteus	gluteus	1 meaning
+e	glutton	glutton	1 meaning
+e	glycine	glycine	1 meaning
+e	glabella	glabella	1 meaning
+e	glad wrap	gladwrap	1 meaning
+e	glasnost	glasnost	1 meaning
+e	glaucoma	glaucoma	1 meaning
+e	glendale	glendale	2 meanings
+e	globulin	globulin	1 meaning
+e	glorious	glorious	1 meaning
+e	glossary	glossary	1 meaning
+e	glowworm	glowworm	1 meaning
+e	glucagon	glucagon	1 meaning
+e	gluhwein	gluhwein	1 meaning
+e	glutelin	glutelin	1 meaning
+e	glutenin	glutenin	1 meaning
+e	gluttony	gluttony	1 meaning
+e	glycerol	glycerol	1 meaning
+e	glycogen	glycogen	1 meaning
+e	gällivare	gllivare	1 meaning
+e	gladiator	gladiator	1 meaning
+e	gladiolus	gladiolus	1 meaning
+e	glandular	glandular	1 meaning
+e	glass door	glassdoor	1 meaning
+e	glass wool	glasswool	1 meaning
+e	globalism	globalism	1 meaning
+e	glory days	glorydays	1 meaning
+e	glory hole	gloryhole	1 meaning
+e	glossitis	glossitis	1 meaning
+e	glottonym	glottonym	1 meaning
+e	glow stick	glowstick	1 meaning
+e	glutamine	glutamine	1 meaning
+e	glyceride	glyceride	1 meaning
+e	glycerine	glycerine	1 meaning
+e	glycoside	glycoside	1 meaning
+e	glaciology	glaciology	1 meaning
+e	glagolitic	glagolitic	1 meaning
+e	glans penis	glanspenis	1 meaning
+e	glaswegian	glaswegian	1 meaning
+e	glomerulus	glomerulus	1 meaning
+e	glossy ibis	glossyibis	1 meaning
+e	gloucester	gloucester	1 meaning
+e	gluttonous	gluttonous	2 meanings
+e	glycolipid	glycolipid	1 meaning
+e	glycosuria	glycosuria	1 meaning
+e	glass cutter	glasscutter	1 meaning
+e	glastonbury	glastonbury	1 meaning
+e	global south	globalsouth	1 meaning
+e	glottal stop	glottalstop	1 meaning
+e	glass ceiling	glassceiling	1 meaning
+e	glaucous gull	glaucousgull	1 meaning
+e	globetrotter	globetrotter	1 meaning
+e	glockenspiel	glockenspiel	1 meaning
+e	gluconic acid	gluconicacid	1 meaning
+e	glutamic acid	glutamicacid	1 meaning
+e	glycogenosis	glycogenosis	1 meaning
+e	glycoprotein	glycoprotein	1 meaning
+e	global cooling	globalcooling	1 meaning
+e	global warming	globalwarming	1 meaning
+e	globalisation	globalisation	1 meaning
+e	glorification	glorification	1 meaning
+e	glory-of-the-sun	gloryofthesun	1 meaning
+e	gluteus medius	gluteusmedius	1 meaning
+e	glutinous rice	glutinousrice	1 meaning
+e	glass harmonica	glassharmonica	1 meaning
+e	globus cruciger	globuscruciger	1 meaning
+e	glutaraldehyde	glutaraldehyde	1 meaning
+e	gluteus maximus	gluteusmaximus	1 meaning
+e	gluteus minimus	gluteusminimus	1 meaning
+e	globular cluster	globularcluster	1 meaning
+e	glossy antshrike	glossyantshrike	1 meaning
+e	glove compartment	glovecompartment	1 meaning
+e	glacial acetic acid	glacialaceticacid	1 meaning
+e	glorious revolution	gloriousrevolution	1 meaning
+e	glossopharyngeal nerve	glossopharyngealnerve	1 meaning
+e	global positioning system	globalpositioningsystem	2 meanings

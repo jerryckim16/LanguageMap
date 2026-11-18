@@ -1,0 +1,79 @@
+j	うば	uba	子供の母親に代わってその世話をする女性。元は、母親…
+j	うぶ	ubu	ういういしいこと。世間ずれしていないこと。
+j	ウベ	ube	
+j	乳母	uba	wet nurse
+j	右房	ubo	右心房。
+j	姥	uba	an old woman
+j	宇部	ube	a city in Yamaguchi Prefe…
+j	羽旄	ubo	竿の先端を雉の羽と旄牛（ヤク）の尾で装飾した幢。
+j	羽部	ubu	部首「⽻」で分類した漢字の一群。
+j	雨部	ubu	部首「⾬」で分類した漢字の一群。
+k	우비	ubi	
+e	ubac	ubac	1 meaning
+j	うばい	ubai	烏梅: (medicine) an unripe …
+j	うばう	ubau	人の物を無理に取る。ひったくる。
+j	優婆夷	ubai	在家の女性仏教徒。信女。
+j	奪う	ubau	to take by force, to rob,…
+j	烏梅	ubai	an unripe Japanese ume th…
+k	우박	ubak	hail (balls of ice)
+k	우붓	ubut	인도네시아 발리 기안야르 군의 마을. 인기 많…
+j	うばら	ubara	棘のある植物の総称。
+j	うぶぎ	ubugi	出産した子に初めて着せる衣服。
+j	うぶげ	ubuge	body hair of newborn infa…
+j	うぶゆ	ubuyu	生まれたばかりの赤ん坊を初めて入浴させること。また…
+j	烏木	uboku	synonym of 黒檀 (kokutan, “…
+k	우방	ubang	friendly state; ally
+k	우범	ubeom	likely to commit crime
+k	우북이	ubugi	
+k	우비다	ubida	to poke; to scrape out; t…
+k	우빙	ubing	freezing rain
+j	うばいあう	ubaiau	互いにあるものを奪い取ろうとする。
+j	うぶごえ	ubugoe	a baby's first cry
+j	うべなう	ubenau	宜と思う。その通りだとする。肯定する。承諾する。容…
+j	奪い合う	ubaiau	scramble for
+j	姥貝	ubagai	surf clam, Spisula sachal…
+j	祖母井	ubagai	a surname
+j	諾う	ubenau	to affirm
+k	우바새	ubasae	
+k	우변	ubyeon	
+j	うばざめ	ubazame	ネズミザメ目ウバザメ科に属するさめ。学名は Cet…
+j	うぶすな	ubusuna	その人が生まれた土地。故郷。
+j	ウバザメ	ubazame	うばざめの学術的表記。
+j	優婆塞	ubasoku	Male lay followers of the…
+j	右弁官	ubenkan	律令制で太政官のもとで兵部省、刑部省、大蔵省、宮内…
+j	姥捨て	ubasute	granny dumping, the pract…
+j	姥鮫	ubazame	basking shark, Cetorhinus…
+j	烏羽玉	ubatama	the seed of blackberry li…
+k	우부룩이	uburugi	
+j	うばいさる	ubaisaru	他人から物を奪ってどこかへ行ってしまう。
+j	うばいとる	ubaitoru	他人の物を無理に取って自分の物にする。
+j	奪い取る	ubaitoru	
+k	우북하다	ubukhada	'우부룩하다'의 준말.
+k	우빗우빗	ubidubit	
+e	ubiquitin	ubiquitin	1 meaning
+j	うばぐるま	ubaguruma	乳幼児を乗せる手押し車。
+j	乳母車	ubaguruma	a baby carriage
+k	우북수북	ubuksubuk	
+k	우불구불	ubulgubul	
+k	우빗대다	ubitdaeda	'우빗거리다'.
+e	ubiquinone	ubiquinone	1 meaning
+e	ubiquitous	ubiquitous	1 meaning
+j	うばめがし	ubamegashi	ブナ科コナラ属に分類される常緑広葉樹の1種。学名:…
+j	ウバメガシ	ubamegashi	姥目樫, 姥芽樫:, a species of o…
+j	姥目樫	ubamegashi	ubame oak, Quercus philly…
+j	姥芽樫	ubamegashi	
+k	우부룩하다	uburukhada	한데 많이 모여 더부룩하다.
+k	우불꾸불	ubulkkubul	
+j	うぶすながみ	ubusunagami	生まれた土地に祀られる鎮守神。
+k	우빗거리다	ubitgeorida	좀 넓은 틈이나 구멍 속을 가볍고 빠르게 자꾸…
+k	우범소년	ubeomsonyeon	
+k	우비적대다	ubijeokdaeda	'우비적거리다'.
+k	우빗우빗하다	ubidubithada	
+j	烏羽玉藻の	ubanotamamono	
+k	우북수북하다	ubuksubukhada	
+k	우불구불하다	ubulgubulhada	
+k	우불꾸불하다	ubulkkubulhada	
+k	우비적거리다	ubijeokgeorida	틈이나 구멍 속을 자꾸 함부로 긁어 파내다.
+k	우비적우비적	ubijeogubijeok	
+k	우비적우비적하다	ubijeogubijeokhada	
+k	우 불규칙 활용	ubulgyuchikhwaryong	어간 끝의 '우'가 어미 '-어' 앞에서 탈락…

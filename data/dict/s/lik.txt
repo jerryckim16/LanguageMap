@@ -1,0 +1,627 @@
+k	익	ik	표준어에서 ‘익측’을 달리 이르는 말.
+j	いか	ika	生物名としてのイカ、生物学等でいうイカ（軟体動物門…
+j	いき	iki	breath
+j	いく	iku	生, 活: (attaches to nouns)…
+j	いけ	ike	陸地に囲まれた水域のうち、規模の小さいもの。
+j	いこう	iko	休む。一息つく。
+j	イき	iki	
+j	イく	iku	
+j	イカ	ika	いかの学術的表記。
+j	以下	ika	less than; at most, not m…
+j	以降	iko	after (a given time)
+j	伊木	iki	a surname
+j	位記	iki	court rank diploma
+j	依稀	iki	faint, dim, vague, unclear
+j	偉功	iko	優れた立派なてがらや業績。
+j	偉効	iko	優れた効き目や効能。
+j	偉器	iki	skillfulness, skillful pe…
+j	偉躯	iku	a big body
+j	医家	ika	doctor
+j	医科	ika	medical school
+j	域	iki	region, level
+j	壱岐	iki	Iki (a city in Nagasaki P…
+j	如何	ika	what kind of
+j	委棄	iki	renunciation of ownership…
+j	威光	iko	自然に人を畏れさせ、服従させる威厳。
+j	幾	iku	some, several
+j	彙記	iki	indexing, index
+j	彝器	iki	ritual vessel
+j	息	iki	（ソク）息子。子。
+j	意企	iki	たくらむこと。くわだてること。計画すること。
+j	意向	iko	one's desires or intentio…
+j	意気	iki	spirits, especially high …
+j	易化	ika	becoming easy
+j	柔魚	ika	
+j	池	ike	a pond (small lake or poo…
+j	烏賊	ika	a squid (sea animal), a c…
+j	生く	iku	to live; to exist
+j	畏懼	iku	awe
+j	異化	ika	dissimilation
+j	異寇	iko	異国から攻めてくること。また、攻めてくる外敵。
+j	異構	iko	構成要素が同じで配置が異なる漢字のうち、字音・字義…
+j	異気	iki	strange atmosphere
+j	移行	iko	switchover
+j	移記	iki	transferring to the recor…
+j	移項	iko	代数における式の操作で、方程式の一方の辺の項を符号…
+j	維綱	iko	基本となるようなきまり。大綱。おきて。
+j	育	iku	to raise, to bring up; to…
+j	胃腔	iko	動物の胃の内腔。
+j	行く	iku	to go; to come to one's p…
+j	行け	ike	hypothetical and imperati…
+j	行こう	iko	
+j	衣架	ika	clothes rack
+j	衣桁	iko	屋内で着物を掛けておく移動式の家具。衣紋掛け。
+j	衣香	iko	衣服に焚き染める薫香。また、その香り。
+j	逝く	iku	to die, to pass away
+j	遺功	iko	死後に残された功績や手柄。
+j	遺孤	iko	orphan
+j	遺棄	iki	abandonment; desertion
+j	遺構	iko	remains, ruins of ancient…
+j	遺稿	iko	個人の死後に見つかった未発表の原稿。
+j	遺香	iko	香をたいた後に残ったかおり。
+j	郁	iku	fragrant; sweet-smelling
+j	閾	iki	threshold
+j	鰞	ika	
+e	ikea	ikea	1 meaning
+e	ikra	ikra	1 meaning
+j	いかい	ikai	「いかひ」に同じ。
+j	いかん	ikan	物事のなりゆきや状況。
+j	いきえ	ikie	動物の飼料や釣り餌で使用する生きたままの動物。いき…
+j	いくえ	ikue	幾つか、あるいはいくつも重なっていること。
+j	いくん	ikun	位勲: rank and order of mer…
+j	いけん	iken	to be not good, bad, forb…
+j	いこい	ikoi	「いこう」の連用形。
+j	いっく	ikku	一句: phrase (verse, line)
+j	イケア	ikea	
+j	イコン	ikon	主にギリシャ正教でのマリア、キリスト、聖者やそれに…
+j	一個	ikko	one (of anything)
+j	一句	ikku	phrase (verse, line)
+j	一向	ikko	completely
+j	一和	ikka	いくつかのものが調和していること。まとまりがあり円…
+j	一家	ikka	a family
+j	一己	ikko	oneself
+j	一戸	ikko	one household
+j	一揆	ikki	revolt, uprising, riot (o…
+j	一校	ikko	one school
+j	一気	ikki	a single attempt, one go,…
+j	一箇	ikka	一つ。一個。
+j	一考	ikko	consideration (thinking a…
+j	一行	ikko	a party, group, troupe
+j	一過	ikka	一度、短い時間で通過すること。
+j	一顧	ikko	one look back, a brief tu…
+j	一騎	ikki	騎乗したひとりの武士。
+j	位冠	ikan	an ancient headgear indic…
+j	位勲	ikun	rank and order of merit
+j	位官	ikan	rank, official position
+j	位階	ikai	court rank
+j	依拠	ikyo	dependence, basis (on con…
+j	依據	ikyo	dependence, basis (on con…
+j	偉観	ikan	magnificent sight; great …
+j	医官	ikan	doctor of Japan Self-Defe…
+j	医界	ikai	医師の世界。
+j	厳い	ikai	brave
+j	囲環	ikan	周りを取り囲むこと。また、その囲むもの。
+j	威権	iken	authority
+j	威海	ikai	Weihai (a city in Shandon…
+j	尉官	ikan	a junior officer
+j	意見	iken	opinion
+j	憩う	ikou	to take a breather, to re…
+j	瑋瓌	ikai	珍奇なさま。
+j	生き絵	ikie	生きているように描く絵。
+j	畏敬	ikei	reverence
+j	異教	ikyo	paganism; heathenism
+j	異系	ikei	別の系統。
+j	異見	iken	different opinion
+j	異観	ikan	curious spectacle
+j	異郷	ikyo	a faraway land; a foreign…
+j	異香	ikyo	普通と異なって優れた香り。
+j	移監	ikan	刑務所などに収容されている者を他の施設へ移送するこ…
+j	移管	ikan	transfer of operation, co…
+j	縊痕	ikon	首を吊った後にできるひもなどの跡。
+j	育夫	ikuo	a male given name
+j	衣冠	ikan	regular court dress, orig…
+j	衣裓	ikai	衣服の襟。
+j	逸機	ikki	好機を逸すること。
+j	違憲	iken	unconstitutionality
+j	遺恨	ikon	eternal grudge
+j	遺憾	ikan	feeling a regret that com…
+j	遺訓	ikun	words of wisdom from the …
+j	遺賢	iken	官職などに登用されないで、埋もれた有能な人材。
+j	郁伊	ikui	憂鬱であるさま。
+j	郁夫	ikuo	a male given name
+j	郁雄	ikuo	a male given name
+k	이끼	ikki	moss
+k	이케아	ikea	
+k	이콘	ikon	
+k	익다	ikda	to ripen
+k	익사	iksa	drowning
+k	익히	ikhi	자주 경험하여 조금도 서투르지 않게.
+k	읽다	ikda	to read
+e	i know	iknow	2 meanings
+j	いかが	ikaga	（相手の意向を尋ねる語）どのように。どう。
+j	いかけ	ikake	鋳掛: tinkering (the work o…
+j	いかす	ikasu	to be cool
+j	いかた	ikata	伊方: Ikata (a town in Ehim…
+j	いかだ	ikada	筏, 桴, 栰: a raft
+j	いかで	ikade	争で, 如何で, 怎: how
+j	いかに	ikani	how, in what way
+j	いかり	ikari	動詞「いかる」の連用形。
+j	いかる	ikaru	各地の山地に生息するスズメ目アトリ科の鳥。大きさは…
+j	いきおい	ikioi	発動しようとする力。ものが運動する際に生じる力。
+j	いきか	ikika	閾下: subliminal
+j	いきき	ikiki	行くことと来ること。往来。
+j	いきみ	ikimi	生きている体。生体。
+j	いきる	ikiru	（生）生命を維持する。
+j	いくこ	ikuko	郁子, 行子, 征子, 依久子, 以倶子: a f…
+j	いくさ	ikusa	戦い。戦争。合戦。
+j	いくじ	ikuji	何時。時間をたずねる語。
+j	いくみ	ikumi	如実: a female given name
+j	いくら	ikura	how much, how many
+j	いくろう	ikuro	育郎: a male given name
+j	いけす	ikesu	container, tank, or walle…
+j	いける	ikeru	生かしておく。
+j	いこく	ikoku	
+j	いっかん	ikkan	一環: one part
+j	イカす	ikasu	
+j	イカーマ	ikama	iqama
+j	イカール	ikaru	agal
+j	イキる	ikiru	to act cocky; to be full …
+j	イクラ	ikura	salmon roe, salmon eggs (…
+j	イケる	ikeru	
+j	イケボ	ikebo	
+j	イコール	ikoru	equal, equivalent, the sa…
+j	一介	ikkai	(being a) mere
+j	一件	ikken	one case, one matter
+j	一回	ikkai	one time
+j	一塊	ikkai	一つの塊。
+j	一強	ikkyo	ある分野で特定のものだけが強い（秀でる）こと。
+j	一挙	ikkyo	one effort, a single stro…
+j	一澗	ikkan	undecillion, 10³⁶, or a s…
+j	一犬	ikken	one dog
+j	一環	ikkan	link in a series of event…
+j	一系	ikkei	続いている一つの血統。
+j	一級	ikkyu	一つの階級。
+j	一興	ikkyo	ちょっとした面白み。
+j	一見	ikken	a glance, a look
+j	一計	ikkei	一つの謀や計略。
+j	一貫	ikkan	integration, consistency …
+j	一軒	ikken	一つの家。
+j	一階	ikkai	the ground floor, (US) th…
+j	一驚	ikkyo	びっくりすること。驚くこと。また、そのようなさま。
+j	争で	ikade	how
+j	伊国	ikoku	イタリア
+j	位格	ikaku	hypostasis
+j	勢い	ikioi	force, power, strength, e…
+j	医国	ikoku	国を統治すること。
+j	夷国	ikoku	未開の国。野蛮な国。えびすの国。
+j	威嚇	ikaku	threat
+j	幾ら	ikura	
+j	幾多	ikuta	many, much
+j	幾度	ikudo	how many times
+j	彙刻	ikoku	編集して刊行すること。
+j	怒り	ikari	anger
+j	息む	ikimu	
+j	意固地	ikoji	強情で自分の考えを押し通すこと。
+j	意気地	ikiji	courage, guts, willpower
+j	戦	ikusa	a battle, conflict, fight…
+j	斑鳩	ikaru	Japanese grosbeak
+j	気美	ikimi	a female given name
+j	池田	ikeda	Ikeda (a city in Osaka Pr…
+j	池辺	ikebe	a surname
+j	池野	ikeno	a surname
+j	活きる	ikiru	to live; to exist
+j	為国	ikoku	to govern the country
+j	生かす	ikasu	to make full use of (some…
+j	生きる	ikiru	to live; to exist
+j	生ける	ikeru	to put or arrange in a va…
+j	生日	ikuhi	a lucky day, auspicious d…
+j	生田	ikuta	a placename, especially i…
+j	生駒	ikoma	Ikoma (a city in Nara Pre…
+j	異国	ikoku	A foreign country; a fore…
+j	異國	ikoku	
+j	異客	ikaku	外国からの客
+j	碇	ikari	a surname
+j	筏	ikada	raft
+j	緯繣	ikaku	悖ること。
+j	育児	ikuji	bringing up children, chi…
+j	育毛	ikumo	promoting hair growth
+j	育英	ikuei	才能のある者を教育すること。
+j	育郎	ikuro	a male given name
+j	育雛	ikusu	brooding
+j	蜼玃	ikaku	尾長猿と大猿。
+j	行ける	ikeru	to be able to go
+j	逸球	ikkyu	守備側の選手が捕るべきボールを捕り損ねること。
+j	逸興	ikkyo	非常に興味深いさま。
+j	郁李	ikuri	synonym of 庭梅 (niwa-ume, …
+j	郁美	ikumi	a female given name
+j	郁靄	ikuai	何かが立ち込めているさま。
+j	鋳掛	ikake	tinkering (the work of a …
+j	錨	ikari	an anchor (tool to moor a…
+j	閾下	ikika	subliminal
+j	韋轂	ikoku	鞣し革で包んだ車輪。
+j	鵤	ikaru	
+k	익살	iksal	humour, joke, comicality,…
+j	いきあて	ikiate	目的地、終着地。ゆきあて。
+j	いきいき	ikiiki	vividly
+j	いきうめ	ikiume	自然災害や事故のため多量の土砂や積雪などに生きたま…
+j	いきがい	ikigai	生きている意義や値打ち。
+j	いきち	ikichi	生きている動物の血液。
+j	いくあて	ikuate	行くための目的、目的地。行った先で当てになる場所、…
+j	いくすえ	ikusue	遠い将来。
+j	いくつ	ikutsu	不確定な数を表す語。
+j	いくびょう	ikubyo	育苗: tending seedlings
+j	いけない	ikenai	bad, naughty
+j	いけにえ	ikenie	生きたまま神に捧げられる、人間や動物。「贄」は「供…
+j	イキ顔	ikigao	
+j	イクメン	ikumen	a man who actively partic…
+j	イケオジ	ikeoji	handsome older man
+j	イケメン	ikemen	a good-looking, handsome …
+j	イコセン	ikosen	eicosene
+j	イッカク	ikkaku	クジラ目ハクジラ亜目イッカク科イッカク属に属する鯨…
+j	一刻	ikkoku	stubborn
+j	一格	ikkaku	主格。
+j	一気見	ikkimi	binge-watching; watch mar…
+j	一角	ikkaku	a point
+j	医局	ikyoku	医務を取り扱う部局。
+j	医骨	ikotsu	医道の心得や秘訣。
+j	囲局	ikyoku	碁盤。
+j	域内	ikinai	一定の区域の内側。
+j	域外	ikigai	offshore; overseas; outsi…
+j	委却	ikyaku	自分の立場、考えなどを捨て去り、他へ委せること。
+j	委曲	ikyoku	all the details
+j	委決	iketsu	決定すること。
+j	威海衛	ikaiei	Weihaiwei (a concession i…
+j	幾つ	ikutsu	how many
+j	幾分	ikubun	somewhat
+j	幾千	ikusen	several thousand
+j	幾年	ikunen	how many years
+j	幾幾	ikuiku	いくつも。たくさん。
+j	幾歳	ikusai	どれくらいの（年単位の）期間。
+j	意向形	ikokei	an inflectional category:…
+j	池岡	ikeoka	a surname
+j	煜煜	ikuiku	光り輝くさま。
+j	燠休	ikukyu	慰め、安んずること。
+j	生き埋め	ikiume	live burial; burial alive
+j	生き甲斐	ikigai	A reason for living; one'…
+j	生き馬	ikiuma	a living horse
+j	生贄	ikenie	sacrifice, offering (to a…
+j	生霊	ikiryo	vengeful spirit
+j	異教徒	ikyoto	pagan; heathen; heretic
+j	育乳	ikunyu	fostering growth and heal…
+j	育休	ikukyu	育児休業（育児休暇）。
+j	育成	ikusei	raising of animals
+j	育種	ikushu	selective breeding (crop …
+j	育苗	ikubyo	the tending of crop seedl…
+j	胃下垂	ikasui	gastroptosis
+j	胃潰瘍	ikaiyo	gastric ulcer
+j	行かない	ikanai	
+j	遺却	ikyaku	忘失すること。
+j	遺憾砲	ikanho	遺憾の意。
+j	遺闕	iketsu	欠けて不足すること。
+j	遺骨	ikotsu	remains of a dead person,…
+j	郁文	ikubun	文化が盛んであること。
+j	郁氛	ikufun	かぐわしいさま。
+j	郁郁	ikuiku	文物が盛んなさま。
+k	이크라	ikeura	ikra, salmon roe
+k	이키가오	ikigao	
+k	익히다	ikhida	to become proficient in s…
+e	ikebana	ikebana	1 meaning
+j	いかけや	ikakeya	鋳掛屋: tinker (itinerant ti…
+j	いかさま	ikasama	deceptive
+j	いかすみ	ikasumi	squid ink
+j	いかつい	ikatsui	having a stern and grave …
+j	いかなご	ikanago	スズキ目イカナゴ科イカナゴ属に属する魚の一種。学名…
+j	いかなる	ikanaru	what; what kind of
+j	いかにも	ikanimo	very, so
+j	いかほど	ikahodo	不明な値段や分量、程度などを問うときに用いる。「お…
+j	いかもの	ikamono	おおげさに作られた物。
+j	いからす	ikarasu	怒らせる。立腹させる。
+j	いかれる	ikareru	to be crazy; to be insane…
+j	いかんせん	ikansen	unfortunately; regrettabl…
+j	いきがる	ikigaru	自分が粋な人物であるように振る舞う。
+j	いきぎれ	ikigire	運動や病気などで呼吸が苦しくなり、あえぐこと。
+j	いきくび	ikikubi	生きているものの首。
+j	いきさき	ikisaki	向かっていく地点や方向。
+j	いきどおり	ikidori	「いきどおる」の連用形。
+j	いきどおる	ikidoru	怒りが込み上げる。憤慨する。
+j	いきなり	ikinari	事が直前の事態と関係なく急に起こる様。
+j	いきぬき	ikinuki	緊張を解いて暫く休むこと。
+j	いきぬく	ikinuku	困難・苦しみなどを乗り越えて生きていく。
+j	いきのね	ikinone	breath
+j	いきはぎ	ikihagi	生きている獣の皮を、そのまま剥ぎ取ること。いけはぎ。
+j	いきはじ	ikihaji	生きているときに受ける恥辱。
+j	いきまく	ikimaku	怒って呼吸が激しくなる。せきこんで、息が荒くなる。
+j	いきます	ikimasu	formal of いく (iku)
+j	いきもの	ikimono	生命をもつもの。動物や植物、菌類、細菌などの総称。…
+j	いくたび	ikutabi	どれくらいの回数。何回。
+j	いくとせ	ikutose	いくつの年。
+j	いくばく	ikubaku	どれほど。いくら。
+j	いくまさ	ikumasa	郁将: a male given name
+j	いくらか	ikuraka	幾らか: some; somewhat
+j	いけいたい	ikeitai	異形態: allomorph
+j	いけがき	ikegaki	生きている樹木を並べて植え、整形した垣根。
+j	いけさま	ikesama	handsome man
+j	いけてる	iketeru	
+j	いけどり	ikedori	生きたまま捕らえること。
+j	いけどる	ikedoru	人や動物を生きたまま捕らえる。
+j	いけばな	ikebana	植物の花や葉、茎、枝などを花器に入れ美しく形を整え…
+j	いころす	ikorosu	to shoot to death
+j	イカサマ	ikasama	「いかさま」の片仮名表記。
+j	イカルス	ikarusu	
+j	イカロス	ikarosu	
+j	イカ耳	ikamimi	"Airplane ears", ears fol…
+j	イケてる	iketeru	attractive, cool
+j	イーカロス	ikarosu	Icarus
+j	イーコマース	ikomasu	
+j	一個人	ikkojin	組織や職業を離れた一人の私人。
+j	一喝	ikkatsu	a scolding
+j	一局	ikkyoku	one game (checkers, etc.)
+j	一括	ikkatsu	doing in bulk, in a lump …
+j	一決	ikketsu	議論などが一つにまとまること。
+j	一脚	ikkyaku	一本の脚。
+j	一貫校	ikkanko	一貫教育を重視して行っている学校。
+j	一軒家	ikkenya	集落などから離れ、一軒だけ建つ家。
+j	一過性	ikkasei	transience (disease, habi…
+j	如何せん	ikansen	
+j	已己巳己	ikomiki	things resembling each ot…
+j	幾久	ikuhisa	how long
+j	幾人	ikutari	personal interrogative pr…
+j	幾原	ikuhara	a surname
+j	幾許	ikubaku	how much, how many
+j	息切れ	ikigire	breathlessness
+j	息巻く	ikimaku	to be furious, be enraged
+j	息抜き	ikinuki	a breather, a break
+j	意気投合	ikitogo	finding a kindred spirit,…
+j	意気揚々	ikiyoyo	
+j	意気揚揚	ikiyoyo	triumphant
+j	意気込み	ikigomi	enthusiasm, eagerness, ze…
+j	意気込む	ikigomu	to be enthusiastic, to be…
+j	意見書	ikensho	written opinion
+j	意見欄	ikenran	suggestion box
+j	憤り	ikidori	resentment, indignation
+j	憤る	ikidoru	to be angry, to be enraged
+j	池ノ谷	ikenoya	a surname
+j	池上	ikegami	a surname
+j	池内	ikeuchi	a surname
+j	池原	ikehara	a surname
+j	池山	ikeyama	a surname
+j	池本	ikemoto	a surname
+j	池村	ikemura	a surname
+j	池永	ikenaga	a surname
+j	池沢	ikezawa	a surname
+j	池谷	iketani	a surname
+j	溢血	ikketsu	身体の組織の内部で血管から出血すること。
+j	生きてる	ikiteru	
+j	生き抜く	ikinuku	to survive
+j	生き方	ikikata	
+j	生き物	ikimono	synonym of 生物 (seibutsu, …
+j	生け花	ikebana	flower arrangement, →ikeb…
+j	生垣	ikegaki	hedge
+j	異化作用	ikasayo	
+j	異化効果	ikakoka	Verfremdungseffekt
+j	異口同音	ikudoon	with one voice, unanimity
+j	異形態	ikeitai	a variant form of a morph…
+j	移行する	ikosuru	
+j	粋がる	ikigaru	to be pretentious
+j	育児嚢	ikujino	主に有袋類（また単孔類の一部）の雌の下腹部にある育…
+j	育宏	ikuhiro	a male given name
+j	育薬	ikuyaku	gathering data on a drug …
+j	胃カメラ	ikamera	胃の内側の壁を撮影、検査するための医療機器。先端に…
+j	胃痙攣	ikeiren	stomach cramps
+j	胃角部	ikakubu	
+j	行き成り	ikinari	suddenly, all of a sudden
+j	言いこなす	ikonasu	to express well, to be ar…
+j	郁将	ikumasa	a male given name
+j	郁樸	ikuboku	教養がないさま。
+j	郁穆	ikuboku	穏やかで美しいさま。
+j	鋳掛屋	ikakeya	tinker (itinerant tinsmit…
+j	閾下の	ikikano	
+k	이케바나	ikebana	ikebana
+j	いかけし	ikakeshi	鋳掛師: tinker (itinerant ti…
+j	いかずち	ikazuchi	かみなり。
+j	いきいそぐ	ikiisogu	命の最期を意識して終わろうとする行為をする。
+j	いきかえる	ikikaeru	生命力を失ったものが息を吹き返す。
+j	いきさつ	ikisatsu	（ある事に至るまでの）複雑な事情。成り行き。
+j	いきたえる	ikitaeru	呼吸が止まり死ぬ。息が絶える。
+j	いきつぎ	ikitsugi	息継ぎ: breather; break to b…
+j	いきづかい	ikizukai	the way one is breathing
+j	いくさうま	ikusauma	戦争で使用する馬。
+j	いくさおの	ikusaono	戦争や戦闘で使用される斧の総称
+j	いくつか	ikutsuka	漠然と複数の数、それも多すぎない数を指す。
+j	いくつも	ikutsumo	幾つも: many, a great number…
+j	いっこだて	ikkodate	一戸建て: detached house
+j	イカフライ	ikafurai	
+j	イカルイト	ikaruito	Iqaluit (the capital city…
+j	イケボイス	ikeboisu	
+j	イケメンな	ikemenna	
+j	イコライザ	ikoraiza	equalizer (device for alt…
+j	イコライザー	ikoraiza	
+j	一回生	ikkaisei	first-year student; fresh…
+j	一回転	ikkaiten	物体などが、軸を中心に一度、円形の運動をすること。
+j	一戸建て	ikkodate	detached house
+j	一気飲み	ikkinomi	chugging; downing
+j	一角獣	ikkakuju	synonym of ユニコーン (yunikōn…
+j	一角馬	ikkakuba	
+j	一貫性	ikkansei	consistency
+j	一騎打ち	ikkiuchi	一騎ずつ一列になって行進すること。
+j	一騎討ち	ikkiuchi	single combat (duel betwe…
+j	幾つか	ikutsuka	a few, some
+j	幾つ目	ikutsume	
+j	幾日	ikunichi	how many days
+j	幾星霜	ikuseiso	many years' (toil or hard…
+j	幾重にも	ikuenimo	over and over, several ti…
+j	息をする	ikiosuru	
+j	息を吐く	ikiohaku	
+j	息を呑む	ikionomu	驚いてはっと息を止める。
+j	息継ぎ	ikitsugi	breather, break to breath…
+j	池ポチャ	ikepocha	a ball landing in a body …
+j	池松	ikematsu	a surname
+j	生きている	ikiteiru	
+j	生き返る	ikikaeru	to return to life, to be …
+j	異国人	ikokujin	a person from a foreign c…
+j	維管束	ikansoku	vascular bundle
+j	育毛剤	ikumozai	hair tonic
+j	行きつけ	ikitsuke	
+j	行きましょう	ikimasho	
+j	行き付け	ikitsuke	regular, favorite place t…
+j	衣錦の栄	ikinnoei	The return of the prodiga…
+j	郁烈	ikuretsu	強烈に匂うさま。
+j	鋳掛師	ikakeshi	tinker (itinerant tinsmit…
+k	이꼬마 시	ikkomasi	일본 나라 현에 위치한 도시 '이코마 시'의 …
+k	이끌다	ikkeulda	to pull; to draw; to attr…
+k	익사하다	iksahada	to drown
+j	いかのぼり	ikanobori	凧。
+j	いかめしい	ikameshii	grave; severe
+j	いかりがた	ikarigata	square shoulders
+j	いかりくるう	ikarikuru	度を越して激しく怒る。
+j	いかりこおり	ikarikori	錨氷: anchor ice
+j	いきおいこむ	ikioikomu	盛んに意気込む。威勢付く。奮い立つ。
+j	いきぐすり	ikigusuri	synonym of いくぐすり (生く薬, 生薬…
+j	いきじごく	ikijigoku	living hell; hell on earth
+j	いきちがい	ikichigai	「ゆきちがい」に同じ。
+j	いきちがう	ikichigau	人が行き来する。
+j	いきづくり	ikizukuri	生き作り: preparing sashimi f…
+j	いきづまり	ikizumari	「ゆきづまり」に同じ。
+j	いきづまる	ikizumaru	to be breathtaking
+j	いきどまり	ikidomari	道などでそこから先に行けなくなっていること。また、…
+j	いきのこり	ikinokori	「いきのこる」の連用形。
+j	いきのこる	ikinokoru	他の者が死んだ後も、死なずに残る。比喩的にも多く用…
+j	いきのびる	ikinobiru	死ぬ筈のところを死なずに、命が延びる。生き長らえる。
+j	いきぼとけ	ikibotoke	生身の仏。
+j	いきわかれ	ikiwakare	「いきわかれる」の未然形及び連用形。
+j	いきわたる	ikiwataru	ゆきわたる。
+j	いくぐすり	ikugusuri	elixir of eternal life; e…
+j	いくさがみ	ikusagami	戦の勝利を守る神。
+j	いくさぶね	ikusabune	軍船: wind or human-powered…
+j	いくそばく	ikusobaku	何十ばかり。どれ程たくさん。
+j	いくらかの	ikurakano	
+j	イコノロジー	ikonoroji	iconology
+j	イ形容詞	ikeiyoshi	日本語の形容詞の一つで、「明るい部屋」や「楽しい店…
+j	一ヶ月	ikkagetsu	one month (duration)
+j	一個ずつ	ikkozutsu	
+j	一斤染	ikkonzome	紅花で染めた薄紅色の絹物。
+j	一気呵成	ikkikasei	短期間で詩文を作成すること。
+j	一箇月	ikkagetsu	一年12ヶ月のうちの一つの月。
+j	威嚇する	ikakusuru	
+j	威嚇的	ikakuteki	threatening; menacing
+j	池袋	ikebukuro	Ikebukuro, an area of Tok…
+j	活け造り	ikezukuri	ikizukuri, preparing sash…
+j	生きられる	ikirareru	
+j	生き作り	ikizukuri	ikizukuri, preparing sash…
+j	生き別れ	ikiwakare	long separation of close …
+j	生き地獄	ikijigoku	この世に生きていながら味わう地獄のような苦しみ。
+j	生き字引	ikijibiki	person who is familiar wi…
+j	生き延びる	ikinobiru	to survive
+j	生き残り	ikinokori	survivor
+j	生き残る	ikinokoru	to survive
+j	生き物の	ikimonono	
+j	生き薬	ikigusuri	
+j	生く薬	ikugusuri	
+j	生魑魅	ikisudama	vengeful spirit
+j	行き止まり	ikidomari	a dead end, a cul-de-sac,…
+j	錨氷	ikarikori	anchor ice
+k	이퀄리티	ikwolliti	
+k	익숙하다	iksukhada	skilled
+j	いかにして	ikanishite	how, in what way
+j	いきがたえる	ikigataeru	息が続かない。息切れがする。
+j	いきました	ikimashita	
+j	いきりたつ	ikiritatsu	to be roused by fury, to …
+j	いくじなし	ikujinashi	
+j	いっかくじゅう座	ikkakujuza	Monoceros
+j	一喜一憂	ikkiichiyu	a feeling swinging back a…
+j	一家団欒	ikkadanran	一家族の皆が集まり、親密であること。
+j	医科大学	ikadaigaku	1886年から1919年までの帝国大学における分科…
+j	息を切らす	ikiokirasu	to be out of breath; to b…
+j	息を殺す	ikiokorosu	
+j	意気地なし	ikujinashi	spineless person, coward,…
+j	戦乙女	ikusaotome	主に戦場で評判が高く威厳を纏う、武器を持って戦う美…
+j	生きて生きよ	ikiteikiyo	
+j	異国情緒	ikokujocho	異国の風物が醸し出す雰囲気や趣き。異国情調。
+j	異国情調	ikokujocho	異国の風物が醸し出す雰囲気や趣き。異国情緒。
+j	異国趣味	ikokushumi	異国の風物から感じられる趣きや味わい。また、それを…
+j	育児休暇	ikujikyuka	「育児休業」を参照。
+j	育成する	ikuseisuru	
+j	鋳掛をする	ikakeosuru	
+k	이칼루이트	ikalluiteu	[~시(市)] Iqaluit (the capi…
+k	익살맞다	iksalmatda	말이나 하는 짓을 일부러 우습게 꾸미는 재주가…
+k	익죽대다	ikjukdaeda	'이기죽대다'의 준말.
+k	익죽익죽	ikjugikjuk	'이기죽이기죽'의 준말.
+k	익힘책	ikhimchaek	문제를 풀어 개념이나 원리를 익힐수 있게 만든…
+k	읽씹하다	ikssiphada	
+k	읽을거리	ikeulgeori	
+j	いかがわしい	ikagawashii	疑わしい、あやしい、よこしまな感じがする
+j	いかれぽんち	ikareponchi	軽薄で安っぽい男性。
+j	いきがきれる	ikigakireru	息切れがする。息が続かなくなる。あえぐ。
+j	いきぐるしい	ikigurushii	of difficulty breathing; …
+j	いきどおろしい	ikidoroshii	腹立たしい。
+j	いきわかれる	ikiwakareru	互いに生きたまま遠い場所に離れ離れとなる。
+j	いくらですか	ikuradesuka	
+j	いけしゃあしゃあ	ikeshaashaa	憎らしいほど厚かましく平然としている様子のこと。
+j	イケメンボイス	ikemenboisu	a cool voice, a suave voi…
+j	イコノグラフィー	ikonogurafi	synonym of 図像学 (zuzōgaku,…
+j	一件書類	ikkenshorui	dossier
+j	一家眷属	ikkakenzoku	血縁のある親族。
+j	一家眷族	ikkakenzoku	一家眷属の別形。
+j	一括贈与	ikkatsuzoyo	贈与者が受贈者に対し、財産を一括で贈与すること。教…
+j	一挙一動	ikkyoichido	one's every action
+j	如何わしい	ikagawashii	unreliable, doubtful, unc…
+j	息が切れる	ikigakireru	to run out of breath
+j	息を詰める	ikiotsumeru	
+j	息苦しい	ikigurushii	
+j	憤ろしい	ikidoroshii	angry
+j	戦女神	ikusamegami	
+j	生きた化石	ikitakaseki	
+j	生き別れる	ikiwakareru	to be separated from one'…
+j	生き残れる	ikinokoreru	
+j	育児休業	ikujikyugyo	parental leave
+j	軍大将	ikusadaisho	a commander
+j	錨を上げる	ikarioageru	
+k	이퀄라이저	ikwollaijeo	
+j	いきがつまる	ikigatsumaru	呼吸が苦しくなる。
+j	いきながらえる	ikinagaraeru	生き延びる。生き続ける。
+j	いくひさしく	ikuhisashiku	いつまでも変わらずに。末永く。
+j	一刻千金	ikkokusenkin	each moment is precious b…
+j	一国一城	ikkokuichijo	一つの国と一つの城を所有していること。
+j	一巻の終わり	ikkannoowari	
+j	一括払い	ikkatsubarai	lump-sum payment
+j	一挙両得	ikkyoryotoku	killing two birds with on…
+j	一攫千金	ikkakusenkin	making a killing in a sin…
+j	一石六斗	ikkokurokuto	being surprised twice
+j	幾久しく	ikuhisashiku	eternally; forever
+j	怒りを遷す	ikarioutsusu	to lash out, vent one's a…
+j	息をのむほど	ikionomuhodo	
+j	息をのむような	ikionomuyona	
+j	息を引き取る	ikiohikitoru	to die
+j	生き返らせる	ikikaeraseru	
+k	익숙해지다	iksukhaejida	to accustom, acclimatize …
+k	익죽거리다	ikjukgeorida	'이기죽거리다'의 준말.
+j	一国二制度	ikkokuniseido	one country, two systems
+j	一型アクセント	ikkeiakusento	the lack of any phonemic …
+j	息を切らして	ikiokirashite	
+j	生きる歓び	ikiruyorokobi	
+k	익스트라넷	ikseuteuranet	
+j	イクチオサウルス	ikuchiosaurusu	魚竜目イクチオサウルス科イクチオサウルス属に属する…
+j	イコノスタシス	ikonosutashisu	
+j	一件落着	ikkenrakuchaku	case closed
+j	一刻も早く	ikkokumohayaku	as soon as possible, imme…
+j	一虚一実	ikkyoichijitsu	constantly changing phase…
+j	生きている化石	ikiteirukaseki	
+k	익살스럽다	iksalseureopda	comical, funny, humorous
+k	익숙하지 않은	iksukhajianeun	
+k	익죽익죽하다	ikjugikjukhada	'이기죽이기죽하다'의 준말.
+j	いきあたりばったり	ikiataribattari	ゆきあたりばったりの異表記。
+j	イコクエイラクブカ	ikokueirakubuka	tope shark, soupfin shark…
+k	이끼도롱뇽	ikkidorongnyong	A Korean crevice salamand…
+j	いっきょしゅいっとうそく	ikkyoshuittosoku	一挙手一投足: each and every in…
+j	一挙手一投足	ikkyoshuittosoku	each and every individual…
+j	いきとしいけるもの	ikitoshiikerumono	世界中のすべての生き物。
+j	イクテュオケンタウロス	ikuteyuokentaurosu	
+j	威嚇的な武力	ikakutekinaburyoku	
+j	維管束植物	ikansokushokubutsu	vascular plant, tracheoph…
+j	行き所の無い駒	ikidokorononaikoma	敵陣の一番奥に歩兵、香車、桂馬のいずれかを、または…
+j	違憲立法審査権	ikenripposhinsaken	裁判所が法令や規則、処分などが憲法に適合するかどう…
+k	이크티오사우루스속	ikeutiosauruseusok	
+j	一国一城の主	ikkokuichijonoaruji	一つの国と一つの城を所有し、外からの干渉を受けない…
+j	いくにちもいくにちも	ikunichimoikunichimo	幾日も幾日も: day after day
+j	いく日もいく日も	ikunichimoikunichimo	幾日も幾日も: day after day
+k	익스트림 스포츠	ikseuteurimseupocheu	

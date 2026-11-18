@@ -1,0 +1,568 @@
+k	앗	at	oh
+k	았	at	(끝음절의 모음이 'ㅏ, ㅗ'인 용언의 어간 …
+e	atm	atm	2 meanings
+j	あて	ate	aim; object; end
+j	あと	ato	人や動物が移動した際に残った歩行の痕跡。あしあと。
+j	あとう	ato	あたう。
+j	アト	ato	atto-
+j	アート	ato	art
+j	丫頭	ato	頭をあげまきに結った年少の侍女。丫髻。
+j	亜等	ato	同等の人。
+j	咫	ata	roughly corresponds to th…
+j	後	ato	the back, the rear, behind
+j	蛙鬧	ato	蛙が争うこと。
+j	跡	ato	evidence of something pas…
+j	阿党	ato	力のある者に阿り、その仲間に加わること。また、その…
+j	鴉頭	ato	あげまき。丫髻。
+e	atom	atom	4 meanings
+j	あたい	atai	first-person pronoun: I, …
+j	あたう	atau	be able to (do); can (do)
+j	あたん	atan	あだ。恨み。
+j	亜炭	atan	完全に炭化しておらず発熱量が少ない石炭。
+j	値	atai	value, worth
+j	合った	atta	
+j	圧	atsu	pressure
+j	圧倒	atto	overwhelming
+j	阿弟	atei	弟を親しんでいう語。
+k	아따	atta	못마땅해서 내는 소리.
+k	아탄	atan	
+k	아톰	atom	
+k	아트	ateu	
+k	앗다	atda	to snatch, to rob, to cla…
+e	at all	atall	1 meaning
+e	atami	atami	1 meaning
+e	ateji	ateji	1 meaning
+e	atlas	atlas	3 meanings
+e	atoll	atoll	1 meaning
+e	atone	atone	1 meaning
+e	atopy	atopy	1 meaning
+e	attic	attic	2 meanings
+j	あたま	atama	かしらのいただきのあたりや、人間の髪の生えるあたり…
+j	あたら	atara	惜しいことに。残念ながら。
+j	あたり	atari	当たること。ぶつかること。
+j	あたる	ataru	動いてきた物がまともに接触する。
+j	あっち	atchi	I (first person pronoun)
+j	あつい	atsui	熱い: (of an object or feel…
+j	あてな	atena	封筒やはがきなどに書く名前や住所のこと。
+j	あてみ	atemi	拳、肘、足先などで相手の急所を突いたり、打ったりす…
+j	あてる	ateru	原義:最も適当な位置にすえる。
+j	あとで	atode	after, afterwards, later …
+j	あとめ	atome	inheritance
+j	あとり	atori	スズメ目アトリ科アトリ属に属する鳥の一種。学名:F…
+j	あとわ	atowa	進行方向の前後に車輪がある乗り物の後方にあるもの。…
+j	アタリ	atari	extremely rough draft of …
+j	アテナ	atena	ギリシア神話の、学問・技芸・職能・戦いの女神。
+j	アテネ	atene	Athens (a city, the capit…
+j	アテーナー	atena	Athena
+j	アトゥム	atumu	Atum - ancient Egyptian g…
+j	アトピー	atopi	atopy
+j	アトム	atomu	an atom (smallest amount …
+j	アトール	atoru	環礁。
+j	中る	ataru	to be harmed
+j	充てる	ateru	assign, allot, devote to
+j	厚い	atsui	
+j	可惜	atara	regrettably; to my great …
+j	宛てる	ateru	address
+j	宛名	atena	name and address (of a ma…
+j	宛字	ateji	（表記の揺れ）当て字を参照。
+j	当たり	atari	a hit
+j	当たる	ataru	to hit
+j	当てる	ateru	to hit, to collide
+j	当て子	ateko	
+j	当て字	ateji	The use of kanji chosen p…
+j	後で	atode	
+j	愛宕	atago	Mount Atago
+j	暑い	atsui	hot, baking (of weather)
+j	熱い	atsui	hot (of an object or feel…
+j	熱海	atami	Atami (a city in Shizuoka…
+j	能ふ	atafu	to be able
+j	花鶏	atori	a brambling
+j	辺り	atari	area
+j	頭	atama	head (body part)
+k	아테나	atena	Athena
+k	아테네	atene	Athens (the capital of Gr…
+k	아테지	ateji	The use of kanji chosen p…
+k	아토피	atopi	atopy
+k	앗싸	atssa	
+e	at best	atbest	1 meaning
+e	at dark	atdark	1 meaning
+e	at ease	atease	2 meanings
+e	at hand	athand	1 meaning
+e	at home	athome	1 meaning
+e	at last	atlast	2 meanings
+e	at most	atmost	1 meaning
+e	at once	atonce	1 meaning
+e	at sign	atsign	1 meaning
+e	ataman	ataman	1 meaning
+e	ataxia	ataxia	1 meaning
+e	atayal	atayal	2 meanings
+e	athena	athena	1 meaning
+e	athens	athens	1 meaning
+e	atlatl	atlatl	1 meaning
+e	atomic	atomic	1 meaning
+e	atrium	atrium	3 meanings
+e	attach	attach	1 meaning
+e	attaché	attach	1 meaning
+e	attack	attack	3 meanings
+e	attain	attain	1 meaning
+e	attend	attend	1 meaning
+e	attica	attica	1 meaning
+e	attire	attire	1 meaning
+j	あたえる	ataeru	to give something, to bes…
+j	あたおか	ataoka	insane, crazy, nuts, out …
+j	あたし	atashi	first person singular pro…
+j	あったら	attara	あたら。
+j	あっちゃえ	atchae	熱っちゃえ, 暑っちゃえ: (dialectal,…
+j	あつか	atsuka	ka-ending dialect form of…
+j	あつぎ	atsugi	防寒などのため衣類を幾重にも着ること。
+j	あつこ	atsuko	敦子, 温子, 篤子: a female give…
+j	あつさ	atsusa	熱いこと。またその程度。
+j	あつで	atsude	紙、布などの地が厚いこと。また、そのようなもの。
+j	あつみ	atsumi	厚いこと。また、その感じ。
+j	あつ子	atsuko	a female given name
+j	あてがう	ategau	to put against
+j	あとあじ	atoaji	後味: aftertaste
+j	あとあと	atoato	このあとのこと。将来。
+j	あといれ	atoire	putting in afterwards
+j	あとち	atochi	跡地: site of a demolished …
+j	アタッカ	atakka	楽章などの終止のあとに間を置かず次の部分に進むこと。
+j	アタッカー	atakka	攻撃をする人。
+j	アタック	atakku	attack
+j	アタマン	ataman	
+j	アッティカ	attika	
+j	アッティラ	attira	
+j	アテナイ	atenai	アテネの古代ギリシア語読み。
+j	アトリエ	atorie	A workshop; an artist's s…
+j	与える	ataeru	
+j	厚く	atsuku	
+j	厚さ	atsusa	
+j	厚み	atsumi	thickness
+j	厚子	atsuko	a female given name
+j	厚木	atsugi	Atsugi (a city in Kanagaw…
+j	厚田	atsuta	Atsuta (a former village …
+j	厚真	atsuma	Atsuma (a town in Iburi s…
+j	圧延	atsuen	素材を回転するローラーで挟み、送り出しながら厚みを…
+j	後味	atoaji	aftertaste (taste that pe…
+j	後産	atozan	afterbirth (material expe…
+j	後知恵	atojie	
+j	徳巳	atsumi	a female given name
+j	徳真	atsumi	a female given name
+j	敦也	atsuya	a male given name
+j	敦子	atsuko	a female given name
+j	敦美	atsumi	a female given name
+j	暑さ	atsusa	
+j	渥哉	atsuya	a male given name
+j	渥美	atsumi	a place name, such as tha…
+j	温允	atsuya	a male given name
+j	温子	atsumi	a female given name
+j	熱火	atsubi	roaring fire
+j	熱田	atsuta	Atsuta (a ward of Nagoya,…
+j	跡地	atochi	site of a demolished buil…
+j	集む	atsumu	
+k	아타만	ataman	
+k	아타셰	atasye	
+k	앗기다	atgida	
+e	at a loss	ataloss	1 meaning
+e	at first	atfirst	1 meaning
+e	at least	atleast	2 meanings
+e	at night	atnight	1 meaning
+e	at times	attimes	1 meaning
+e	atavism	atavism	1 meaning
+e	atelier	atelier	1 meaning
+e	atemoya	atemoya	1 meaning
+e	atheism	atheism	1 meaning
+e	atheist	atheist	2 meanings
+e	athlete	athlete	2 meanings
+e	atlanta	atlanta	1 meaning
+e	atomism	atomism	1 meaning
+e	atrophy	atrophy	1 meaning
+e	attaboy	attaboy	1 meaning
+e	attempt	attempt	3 meanings
+e	attract	attract	3 meanings
+j	あたかも	atakamo	just like
+j	あたたか	atataka	気候、温度が程よくあたたかいさま。
+j	あたふた	atafuta	flustered and hurried
+j	あたりき	atariki	当たり前であること。近世以後に職人などが用いたぞん…
+j	あたりめ	atarime	するめの忌み詞。
+j	あたりや	atariya	予想などが当たって利益を得ることがうまい人のこと。
+j	あったかい	attakai	physically warm
+j	あっと言う間	atoiuma	blink of an eye, in nothi…
+j	あついた	atsuita	厚い板。
+j	あつかい	atsukai	操作すること。
+j	あつかう	atsukau	機械・道具などを手で持ったり動かしたりして使う。
+j	あつがい	atsugai	蚕などを、標準より高い飼育密度で飼うこと。
+j	あつし	atsushi	アットゥシ。
+j	あつらえ	atsurae	「あつらえる」の未然形。
+j	あてがき	ategaki	writing a character with …
+j	あてこむ	atekomu	よい結果を当てにして何かを行う。
+j	あてさき	atesaki	手紙などを送付する先方や場所。
+j	あてにげ	atenige	車両、船舶などが他の車両、船舶に衝突事故を起こして…
+j	あてもの	atemono	言葉などに隠されているものを言って当てること。また…
+j	あとあし	atoashi	足が四本ある動物の、頭から遠いほうの二本の足。うし…
+j	あとおし	atooshi	pushing from behind
+j	あとかた	atokata	trace
+j	あとがき	atogaki	手紙の末尾に書きたす文書。追伸。
+j	あとがま	atogama	前任者が退いた後に代わってその立場に立つ人。
+j	あとさき	atosaki	前と後ろ。
+j	あとぜき	atozeki	closing the door behind o…
+j	あとぜめ	atozeme	後に攻撃する側になること。
+j	あとづけ	atozuke	back matter
+j	あととり	atotori	餅搗きの際、餅を搗く人の脇にいて餅を捏ねる人。捏ね…
+j	あとどり	atodori	post-wedding photography:…
+j	あとやま	atoyama	鉱山で採掘者（先山）を補助する者。また、採掘された…
+j	アタッシェ	atasshe	attaché (diplomatic offic…
+j	アットゥシ	attoshi	オヒョウなどの木の内皮の繊維を織ったアイヌの織物。…
+j	アテモヤ	atemoya	atemoya
+j	アテレコ	atereko	dubbing; revoicing; new o…
+j	アテローム	ateromu	atheroma (abnormal fatty …
+j	アトラス	atorasu	土星の第15衛星の固有名。
+j	アトラース	atorasu	両腕と頭で天空を支える巨神。
+j	アーティクル	atikuru	新聞・雑誌の記事。論説。
+j	アーティスト	atisuto	artist (person who create…
+j	アートペーパー	atopepa	写真銅版等、精巧な絵画の印刷に用いる洋紙。主に鉱物…
+j	アートワーク	atowoku	
+j	厚	atsushi	a male given name
+j	厚板	atsuita	
+j	圧入	atsunyu	pressing something in und…
+j	圧着	atchaku	adhesion by pressure
+j	圧電	atsuden	
+j	安通志	atsushi	a male given name
+j	宛先	atesaki	destination of a piece of…
+j	当たり屋	atariya	lucky person, especially …
+j	当て掻き	ategaki	
+j	当て込む	atekomu	count on
+j	当て逃げ	atenige	hit-and-run accident caus…
+j	後先	atosaki	before and after
+j	後厄	atoyaku	厄年の後の年。
+j	後川	atokawa	a surname
+j	後書き	atogaki	afterword (an epilogue)
+j	後株	atokabu	the state that 株式会社(かぶしきが…
+j	後腹	atobara	abdominal pain after preg…
+j	後舌	atojita	
+j	徳士	atsushi	a male given name
+j	徳志	atsushi	a male given name
+j	惇	atsushi	a male given name
+j	扱い	atsukai	handling
+j	扱う	atsukau	to handle, to manage, to …
+j	敦史	atsushi	a male given name
+j	敦司	atsushi	a male given name
+j	敦士	atsushi	a male given name
+j	敦志	atsushi	a male given name
+j	斡流	atsuryu	水が渦巻きながら流れること。
+j	暖か	atataka	warm
+j	淳	atsushi	a male given name
+j	淳史	atsushi	a male given name
+j	淳志	atsushi	a male given name
+j	熱燗	atsukan	heating up sake; warmed s…
+j	竺	atsushi	a male given name
+j	篤	atsushi	a male given name
+j	篤史	atsushi	a male given name
+j	篤志	atsushi	a male given name
+j	貴人	atebito	a superior
+j	貴志	atsushi	a male given name
+j	跡取り	atotori	
+j	頭の	atamano	
+k	앗쌤	atssaem	엇비슷하게 통한 구덩이
+e	at length	atlength	2 meanings
+e	atheroma	atheroma	1 meaning
+e	athletic	athletic	2 meanings
+e	atkinson	atkinson	1 meaning
+e	atlantis	atlantis	1 meaning
+e	atomizer	atomizer	1 meaning
+e	atrocity	atrocity	1 meaning
+e	attached	attached	1 meaning
+e	attitude	attitude	2 meanings
+e	attorney	attorney	1 meaning
+j	あたいする	ataisuru	価値がある。
+j	あたくし	atakushi	more polite form of あたし (…
+j	あたたかい	atatakai	physically warm
+j	あたりまえ	atarimae	そうであるべきこと。誰が考えても、もっともであるこ…
+j	あったまる	attamaru	「あたたまる」に同じ。
+j	あっためる	attameru	「あたためる」に同じ。
+j	あっち行け	atchiike	go away! piss off!
+j	あっというま	attoiuma	非常に短い時間のたとえ。
+j	あっという間	attoiuma	
+j	あつあつ	atsuatsu	very hot
+j	あつがみ	atsugami	厚みがある紙
+j	あつがり	atsugari	暑さに弱い人。
+j	あつがる	atsugaru	すぐに暑い、暑いと言う。
+j	あつぎり	atsugiri	厚く切ること。また、厚く切られたもの。
+j	あつぞこ	atsuzoko	底が厚いこと。特に、靴底が分厚いこと。
+j	あつまり	atsumari	集まること。また、集まったもの。
+j	あつまる	atsumaru	（人などが）集合する。
+j	あつめる	atsumeru	集合させる。
+j	あつもの	atsumono	肉や野菜を入れた吸い物。
+j	あつれき	atsureki	軋轢: conflict
+j	あてずっぽう	atezuppo	いい加減な見通しで事を行うこと。
+j	あてつけ	atetsuke	「当てつける」の未然形・連用形。
+j	あとぞなえ	atozonae	本隊の最後尾に待機し、後方からの追撃に備える軍勢。
+j	あとだし	atodashi	cheating at rock paper sc…
+j	あとつぎ	atotsugi	heir, successor (to a hou…
+j	あとばらい	atobarai	paying later; deferred pa…
+j	アッティカの	attikano	
+j	アットホーム	attohomu	cozy, homey, relaxed
+j	アットマーク	attomaku	synonym of 単価記号 (tanka ki…
+j	アテンション	atenshon	注意。関心。
+j	アトランタ	atoranta	Atlanta (the capital city…
+j	アトリウム	atoriumu	an atrium: a kind of larg…
+j	アーティチョーク	atichoku	artichoke (Vegetable)
+j	アートタイプ	atotaipu	写真版の一種。卵白・珪酸ソーダ等で下塗りしたつや消…
+j	亜大陸	atairiku	a subcontinent
+j	値する	ataisuru	to deserve; to be worth; …
+j	厚博	atsuhiro	a male given name
+j	厚澤	atsuzawa	a surname
+j	厚紙	atsugami	thick paper
+j	可惜し	atarashi	regrettable, ruesome; reg…
+j	圧倒する	attosuru	
+j	圧倒的	attoteki	overwhelming
+j	当たり前	atarimae	obvious, natural, of cour…
+j	当てずっぽう	atezuppo	a conjecture, guesswork
+j	当てもない	atemonai	aimless, random
+j	当て付け	atetsuke	
+j	後処理	atoshori	ものごとの後に行う処理のこと。
+j	敦規	atsunori	a male given name
+j	新し	atarashi	new, novel
+j	暖かい	atatakai	
+j	温かい	atatakai	
+j	篤紀	atsunori	a male given name
+j	貴裕	atsuhiro	a male given name
+j	軋轢	atsureki	conflict
+j	逸裕	atsuhiro	a male given name
+j	集まり	atsumari	collection
+j	集まる	atsumaru	to gather
+j	集める	atsumeru	to gather
+j	頭金	atamakin	a deposit (money given as…
+k	아뜩히	atteukhi	
+k	아트리움	ateurium	
+k	아틀리에	ateullie	atelier; workshop; studio
+k	앗구려	atguryeo	에라의 옛말.
+e	atavistic	atavistic	1 meaning
+e	atheistic	atheistic	1 meaning
+e	athletics	athletics	1 meaning
+e	atlas moth	atlasmoth	1 meaning
+e	atomic age	atomicage	1 meaning
+e	atomistic	atomistic	2 meanings
+e	atonement	atonement	2 meanings
+e	attack dog	attackdog	1 meaning
+e	attention	attention	3 meanings
+e	attentive	attentive	1 meaning
+e	attractor	attractor	1 meaning
+e	attribute	attribute	3 meanings
+e	attrition	attrition	2 meanings
+j	あたけぶね	atakebune	安宅船: a large warship usin…
+j	あたたかさ	atatakasa	あたたかいこと。また、その度合い。
+j	あたたかみ	atatakami	あたたかいこと。また、その程度。
+j	あたたまる	atatamaru	温度が適度に上がる。あたたかくなる。
+j	あたためる	atatameru	温度を適度に上げる、あたたかくする。
+j	あたまかず	atamakazu	人の数。人数。
+j	あたらしい	atarashii	今までに無かった。今までと違った。
+j	あっちへ行け	atchieike	
+j	あつよし	atsuyoshi	篤良: a male given name
+j	あつらえの	atsuraeno	
+j	あつらえる	atsuraeru	注文して作ってもらう。
+j	あてこすり	atekosuri	「あてこする」の連用形。
+j	あてこする	atekosuru	他事に託つけて遠回しに悪口や皮肉を言う。
+j	あてにする	atenisuru	
+j	あてはまる	atehamaru	ある事柄が一定の条件に適合する。
+j	あてはめる	atehameru	to apply, to adapt, to fit
+j	あとずさり	atozusari	前を向いたまま後退すること。
+j	あとづける	atozukeru	跡を辿って確かめる。
+j	あともどり	atomodori	来た方へ引き返すこと。
+j	アテンダンス	atendansu	出席。出勤。
+j	アテンダント	atendanto	付き添いをする人。
+j	アトキンソン	atokinson	a transliteration of the …
+j	アトス山	atosuyama	
+j	アトミズム	atomizumu	原子論。
+j	アトメートル	atometoru	国際単位系において10⁻¹⁸ mを表す単位。
+j	アトラクター	atorakuta	
+j	アトラトル	atoratoru	
+j	アーティファクト	atifakuto	artifact
+j	アートフラワー	atofurawa	造花。とりわけに芸術性の高い物。
+j	厚化粧	atsugesho	口紅やおしろいなどを厚くつけたはでな化粧。
+j	圧力	atsuryoku	pressure (a force applied…
+j	圧密	atsumitsu	
+j	圧電の	atsudenno	
+j	圧電気	atsudenki	
+j	安宅船	atakebune	atakebune (a large type o…
+j	当てにする	atenisuru	to count on, to expect, t…
+j	当てになる	ateninaru	reliable, dependable, tru…
+j	当てはまる	atehamaru	apply, hold true, be appl…
+j	当て擦る	atekosuru	
+j	後にする	atonisuru	to depart from; to leave
+j	後戻り	atomodori	turning back
+j	後退り	atozusari	stepping back
+j	敦世	atsutoshi	a male given name
+j	新しい	atarashii	new, novel
+j	暖かく	atatakaku	
+j	暖かさ	atatakasa	
+j	暖まる	atatamaru	
+j	暖める	atatameru	
+j	温かみ	atatakami	
+j	温まる	atatamaru	get warm
+j	温める	atatameru	to warm; to heat
+j	熱いです	atsuidesu	
+j	篤良	atsuyoshi	a male given name
+j	誂える	atsuraeru	to place an order for som…
+j	阿武船	atakebune	
+j	頭がいい	atamagaii	
+j	頭が良い	atamagaii	bright, intelligent, sharp
+j	頭打ち	atamauchi	
+j	頭数	atamakazu	the number of people; hea…
+k	아토스산	atoseusan	
+k	아티스트	atiseuteu	artist
+k	아티초크	atichokeu	artichoke
+e	at all costs	atallcosts	1 meaning
+e	at gunpoint	atgunpoint	1 meaning
+e	atmosphere	atmosphere	3 meanings
+e	atomic bomb	atomicbomb	1 meaning
+e	atomic mass	atomicmass	1 meaning
+e	attachment	attachment	1 meaning
+e	attaché case	attachcase	1 meaning
+e	attainment	attainment	1 meaning
+e	attendance	attendance	3 meanings
+e	attenuator	attenuator	1 meaning
+e	attic greek	atticgreek	1 meaning
+e	attractive	attractive	2 meanings
+j	あたじけない	atajikenai	けちである。欲が深い。
+j	あたらしさ	atarashisa	新しいこと。また、その程度。
+j	あたりどし	ataridoshi	year of good harvest
+j	あっという間に	attoiumani	
+j	あっと言う間に	attoiumani	
+j	あっと言わせる	atoiwaseru	to startle; to surprise; …
+j	あっと驚く	atoodoroku	to get a big surprise; to…
+j	あつつかう	atsutsukau	二倍にする。
+j	あとかたない	atokatanai	痕跡が全く残っていない。
+j	あとのつき	atonotsuki	前の月。先月。
+j	あとまわし	atomawashi	すべき順番を変えて後に回すこと。
+j	あとをつける	atotsukeru	尾行する。何かを追跡する。
+j	アトモスフィア	atomosufia	雰囲気。
+j	アトランダム	atorandamu	物事の結果や行動に、規則や秩序や意図がないさま。無…
+j	アトランティス	atorantisu	Atlantis (mythical countr…
+j	アトリビュート	atoribyuto	属性。
+j	アートトラック	atotorakku	
+j	当たり前の	atarimaeno	
+j	当てそこなう	atesokonau	
+j	当て付ける	atetsukeru	
+j	当て推量	atezuiryou	確実ではない根拠で推測すること。
+j	後回し	atomawashi	postponing, delaying, put…
+j	敦盛草	atsumoriso	large-flowered cypripediu…
+j	熱い戦争	atsuisenso	
+j	頭を刈る	atamaokaru	get a haircut
+k	아뜩하다	atteukhada	
+e	at the moment	atthemoment	1 meaning
+e	atheophobia	atheophobia	1 meaning
+e	atlantic cod	atlanticcod	1 meaning
+e	atomic clock	atomicclock	1 meaning
+e	attributive	attributive	2 meanings
+j	あたりさわり	atarisawari	being harmful
+j	あっちこっち	atchikotchi	
+j	あっちゃこっちゃ	atchakotcha	back and forth movement, …
+j	あとかたづけ	atokatazuke	物事が済んだ後に、元通りになるように整理・整頓する…
+j	あとじたぼいん	atojitaboin	後舌母音: back vowel
+j	あとづけする	atozukesuru	
+j	あとふところ	atofutokoro	養い親が子を実子のように育てること。
+j	アタッシェケース	atasshekesu	「アタッシュケース」の表記ゆれ。
+j	アタッシュケース	atasshukesu	硬くて箱型をしたブリーフケース。
+j	アッティカ方言	attikahogen	
+j	アトラクション	atorakushon	attraction
+j	アートディレクター	atodirekuta	映画、テレビ番組などでの美術的な効果を指揮する者。
+j	圧力波	atsuryokuha	流体や固体の中を伝播する圧力の変動による波動。
+j	圧電効果	atsudenkoka	
+j	後を付ける	atootsukeru	to follow, tag along
+j	後始末	atoshimatsu	物事が済んだ後の処置や整理。
+j	後舌母音	atojitaboin	back vowel
+j	暑さ指数	atsusashisu	湿球黒球温度の日本の官庁での呼称。
+j	頭に来る	atamanikuru	to become angry, offended…
+j	頭虱	atamajirami	a head louse
+j	鵶頭白し	atoshiroshi	前例がないこと。物事が成功しがたいこと。
+e	athlete's foot	athletesfoot	1 meaning
+e	athletic shoe	athleticshoe	1 meaning
+e	athwartships	athwartships	1 meaning
+e	atomic number	atomicnumber	1 meaning
+e	attila the hun	attilathehun	1 meaning
+j	あつかましい	atsukamashii	恥知らずで遠慮のない様子。
+j	あつくるしい	atsukurushii	気温・湿度が高く息苦しく感じる。
+j	あてにならない	ateninaranai	頼りにならない。期待できない。
+j	アタッチメント	atatchimento	機械・器具の付属品。
+j	アーティキュレーション	atikyureshon	articulation, manner in w…
+j	厚かましい	atsukamashii	shameless, brazen
+j	圧力計	atsuryokukei	pressure gauge, an instru…
+j	当てにならない	ateninaranai	unreliable, undependable,…
+j	後の祭り	atonomatsuri	to give advice in hindsig…
+j	暑苦しい	atsukurushii	stifling; oppressively hot
+j	集める人	atsumeruhito	
+j	頭が固い	atamagakatai	hard-headed, stubborn, ob…
+j	頭が悪い	atamagawarui	dumb, slow, stupid
+j	頭ごなし	atamagonashi	unsparingly; without list…
+j	頭に入る	atamanihairu	"to enter the head": for …
+j	頭に入れる	atamaniireru	to keep in mind
+j	頭に浮かぶ	atamaniukabu	to come into mind, to pop…
+j	頭を使う	atamaotsukau	to use one's head
+k	아뜩아뜩	atteugatteuk	
+k	아타셰케이스	atasyekeiseu	
+e	at first glance	atfirstglance	1 meaning
+e	at the same time	atthesametime	1 meaning
+e	atlantic ocean	atlanticocean	1 meaning
+e	atomic nucleus	atomicnucleus	1 meaning
+e	attorney-at-law	attorneyatlaw	1 meaning
+j	あたまがさがる	atamagasagaru	"the head lowers", descri…
+j	あたまでっかち	atamadekkachi	頭部が体に比べて大きいこと。また、そのような人やさ…
+j	厚かましさ	atsukamashisa	
+j	圧力釜	atsuryokugama	容器を密閉し、加熱することで容器内を高圧にする釜。…
+j	圧力鍋	atsuryokunabe	pressure cooker
+j	当たり前でしょ	atarimaedesho	
+j	新しいもの	atarashiimono	
+j	暑さしのぎ	atsusashinogi	beating the heat
+j	頭が切れる	atamagakireru	to be sharp; to be keen; …
+j	頭のいい人	atamanoiihito	
+j	頭高型	atamadakagata	a pitch accent pattern in…
+k	아틀란티스	ateullantiseu	Atlantis
+e	atlantic forest	atlanticforest	1 meaning
+e	atlantic puffin	atlanticpuffin	1 meaning
+e	atlantic salmon	atlanticsalmon	1 meaning
+e	atlas mountains	atlasmountains	1 meaning
+e	attention whore	attentionwhore	1 meaning
+e	attractiveness	attractiveness	1 meaning
+j	当たって砕けろ	atattekudakero	take a chance, give it a …
+j	頭がおかしい	atamagaokashii	insane, crazy, nuts, out …
+j	頭のおかしい	atamanookashii	
+e	at a loss for words	atalossforwords	1 meaning
+e	atherosclerosis	atherosclerosis	1 meaning
+e	atlantic herring	atlanticherring	1 meaning
+e	attorney general	attorneygeneral	1 meaning
+j	アテンションエコノミー	atenshonekonomi	インターネット上で人々の関心を集めることによって動…
+j	アトラス山脈	atorasusanmyaku	Atlas Mountains (a mounta…
+j	圧力団体	atsuryokudantai	特定の集団が自己の利益や主張を果たすために政治活動…
+j	頭が痛いです	atamagaitaidesu	
+e	at the end of the day	attheendoftheday	1 meaning
+j	アトランティックシティ	atorantikkushiti	Atlantic City
+j	当たり障りのない	atarisawarinonai	
+j	当て付けがましい	atetsukegamashii	insinuating
+k	아뜩아뜩하다	atteugatteukhada	
+j	アタランタアカタテハ	atarantaakatateha	
+j	圧倒的な力	attotekinachikara	
+k	앗살라무 알라이쿰	atsallamuallaikum	
+j	アーティスティックスイミング	atisutikkusuimingu	音楽に合わせて泳ぎ、演技の完成度を競う競技。
+j	アーティストインレジデンス	atisutoinrejidensu	artist-in-residence
+j	新しもの好きの	atarashimonosukino	
+j	頭に血が上る	atamanichiganoboru	
+k	아티스틱스위밍	atiseutikseuwiming	
+e	atmospheric pressure	atmosphericpressure	1 meaning
+e	at the end of one's tether	attheendofonestether	1 meaning
+e	attributive adjective	attributiveadjective	1 meaning
+j	当たり前のことと思う	atarimaenokototoomou	
+j	頭を殴りつける	atamawonaguritsukeru	
+j	あたまがまっしろになる	atamagamasshironinaru	"one's head turns white":…
+j	アーティフィシャル・インテリジェンス	atifisharuinterijensu	
+j	頭のネジが飛んでいる	atamanonejigatondeiru	
+j	当たらずと雖も遠からず	atarazutoiedomotokarazu	完全に合っているわけではないが、それほど的外れなも…
+j	新しい生活様式	atarashiseikatsuyoshiki	Used other than figurativ…
+j	頭のネジが外れている	atamanonejigahazureteiru	
+k	아티피셜 인텔리전스	atipisyeolintellijeonseu	
+j	羮に懲りて膾を吹く	atsumononikoritenamasuofuku	
+j	羹に懲りて膾を吹く	atsumononikoritenamasuofuku	once bitten, twice shy
+j	頭の中が真っ白になる	atamanonakagamasshironinaru	for one's mind to go blan…
+j	頭隠して尻隠さず	atamakakushiteshirikakusazu	one shouldn't bury one's …
+e	attack is the best form of defence	attackisthebestformofdefence	1 meaning
+j	頭の天辺から足の爪先まで	atamanoteppenkaraashinotsumasakimade	
+e	attention deficit hyperactivity disorder	attentiondeficithyperactivitydisorder	1 meaning

@@ -1,0 +1,2697 @@
+j	両	両	the both of something
+j	亡	亡	(ぼう) 死ぬこと。没。
+j	価	価	price
+j	信	信	trust, faith
+j	凡	凡	mediocre, ordinary
+j	叡	叡	clever; smart; sharp
+j	員	員	member
+j	寡	寡	minority
+j	岡	岡	（おか）日本人の姓の一つ。
+j	巡	巡	turn, round
+j	廡	廡	
+j	御	御	used to respectfully refe…
+j	怡	怡	rejoice; enjoy
+j	握	握	grip, hold
+j	条	条	paragraph
+j	枡	枡	masu (square wooden box)
+j	校	校	schools
+j	楡	楡	elm
+j	模	模	model; pattern
+j	橡	橡	synonym of 櫟 (kunugi, “sa…
+j	次	次	next, secondary
+j	没	没	没, ボツ: rejected, unused
+j	泡	泡	bubble
+j	無	無	nothing, nothingness
+j	牡	牡	
+j	狡	狡	slyness, sly act, sly per…
+j	瘡	瘡	sore
+j	管	管	pipe
+j	簡	簡	brief; simple
+j	聡	聡	bright, intelligent, smart
+j	股	股	crotch, the space between…
+j	胡	胡	
+j	葡	葡	ポルトガルを意味する語を作る。
+j	衡	衡	
+j	諡	諡	posthumous name
+j	謡	謡	popular song
+j	象	象	elephant
+j	財	財	money, wealth, riches
+j	跡	跡	evidence of something pas…
+j	轡	轡	a bit, the piece of horse…
+j	郡	郡	county, district
+j	鏡	鏡	a mirror (smooth reflecti…
+j	阡	阡	the number one thousand, …
+j	餡	餡	bean jam
+k	가	価	border, edge, end
+k	관	管	pipe; tube; duct
+k	군	郡	army
+k	냥	両	A liang, a Korean unit of…
+k	몰	没	died in...
+k	무	無	Korean radish, a variety …
+k	수	繡	way, means, possibility, …
+k	신	信	god, deity
+k	악	惡	evil; wickedness
+k	양	両	quantity, amount
+k	차	次	vehicle (usually refers t…
+k	치	癡	-'s worth of
+k	호	胡	number, issue, edition (o…
+j	両三	両三	二、三。
+j	両亡	両亡	共倒れ。
+j	両人	両人	対になっている二人。
+j	両側	両側	both sides
+j	両傍	両傍	両旁に同じ。
+j	両全	両全	双方とも完全であること。
+j	両刀	両刀	刀と脇差し。
+j	両刃	両刃	刀剣などの刃物で刀身などの両方に刃があるもの。
+j	両分	両分	二つに分けること。
+j	両吟	両吟	連歌、連句を二人で詠み合うこと。
+j	両唇	両唇	both lips
+j	両善	両善	どちらもよいこと。
+j	両国	両国	both countries
+j	両天	両天	雨天と晴天。また、それぞれに対応した傘。
+j	両存	両存	両方が存在すること。
+j	両家	両家	二つの家。二つの家庭。
+j	両岸	両岸	川や海峡などの左右両方の岸。
+j	両度	両度	再度。二度。
+j	両式	両式	二つの様式。
+j	両得	両得	一度に二つの利益を得ること。
+j	両心	両心	ふたごころ。
+j	両性	両性	male and female
+j	両手	両手	both hands; one's two han…
+j	両数	両数	2つの数を表す名詞や代名詞、形容詞の語形。双数。
+j	両断	両断	真っ二つに断ち切ること。
+j	両方	両方	both sides
+j	両旁	両旁	両側。
+j	両日	両日	二日の両方の日。二日間。
+j	両曜	両曜	太陽と月。
+j	両替	両替	exchange
+j	両月	両月	ふたつき。二ヵ月。
+j	両極	両極	north and south poles
+j	両様	両様	二種類の様式。二通り。
+j	両毛	両毛	上毛野（上野国）と下毛野（下野国）。
+j	両氏	両氏	二人の人。お二方。
+j	両生	両生	amphibious; amphibian
+j	両用	両用	一つのものが二通りに役に立つこと。一つのものを二通…
+j	両目	両目	両方の目。
+j	両眸	両眸	両眼。
+j	両眼	両眼	左右両方の目。
+j	両瞼	両瞼	両の瞼。
+j	両社	両社	二つの会社。
+j	両立	両立	coexistence, compatibilit…
+j	両端	両端	both ends
+j	両米	両米	南北の両アメリカ大陸。
+j	両統	両統	二つの皇統や血統。
+j	両翼	両翼	鳥や飛行機などの左右の翼。
+j	両者	両者	both sides, both parties
+j	両耳	両耳	両方の耳。
+j	両肩	両肩	左右両方の肩。
+j	両脇	両脇	both sides
+j	両脚	両脚	both legs
+j	両腕	両腕	左右両方の腕。
+j	両膝	両膝	両方の足の膝。
+j	両舷	両舷	左右の舷。
+j	両虎	両虎	二頭の虎。
+j	両親	両親	both parents
+j	両言	両言	二語。
+j	両論	両論	two arguments
+j	両足	両足	two feet; both legs
+j	両軍	両軍	両方の軍勢。
+j	両輪	両輪	車軸で繋がって対になった二つの車輪。
+j	両辺	両辺	右辺と左辺。
+j	両道	両道	二つの道や方面。
+j	両野	両野	上毛野（上野国）と下毛野（下野国）。
+j	両院	両院	二院制の両方の議院。
+j	両雄	両雄	two heroes
+j	両難	両難	二つの困難、難儀。
+j	両面	両面	表面と裏面の両方
+j	両頭	両頭	二つの頭部。
+j	亡い	亡い	
+j	亡き	亡き	dead; late; deceased
+j	亡人	亡人	他国に亡命した者。
+j	亡兄	亡兄	死亡した兄。亡き兄。
+j	亡児	亡児	死亡した児童。
+j	亡匿	亡匿	逃げ、隠れること。
+j	亡友	亡友	死亡した友人。亡き友。
+j	亡叛	亡叛	叛き、逃亡すること。
+j	亡君	亡君	亡くなった主君。
+j	亡命	亡命	exile
+j	亡国	亡国	the destruction of a coun…
+j	亡夫	亡夫	死亡した夫。亡き夫。
+j	亡失	亡失	うしないなくすこと。うしないなくなること。
+j	亡妹	亡妹	死亡した妹。亡き妹。
+j	亡妻	亡妻	one's deceased wife
+j	亡姉	亡姉	死亡した姉。亡き姉。
+j	亡婦	亡婦	死亡した婦人。亡き婦人。
+j	亡子	亡子	死亡した子供。亡き子。
+j	亡室	亡室	死亡した妻。
+j	亡帝	亡帝	亡くなった帝。
+j	亡師	亡師	亡くなった師匠。
+j	亡弟	亡弟	死亡した弟。亡き弟。
+j	亡徳	亡徳	道徳から外れること。失徳。
+j	亡心	亡心	亡霊。
+j	亡所	亡所	災害や戦乱などによって、人が住まなくなってしまった…
+j	亡故	亡故	死ぬこと。亡くなること。
+j	亡母	亡母	死んだ母。先妣。
+j	亡滅	亡滅	滅びること。また、滅ぼすこと。
+j	亡父	亡父	deceased father
+j	亡者	亡者	dead
+j	亡臣	亡臣	他国へ逃亡した家臣。
+j	亡芸	亡芸	無限。
+j	亡親	亡親	死亡した親。亡き親。
+j	亡道	亡道	無道。
+j	亡酒	亡酒	酒席を外すこと。
+j	亡霊	亡霊	a ghost; an apparition
+j	亡骸	亡骸	corpse, dead body
+j	亡魂	亡魂	死者の魂。成仏できない魂。亡霊。霊魂。
+j	価位	価位	価値。値段。値打ち。
+j	価値	価値	value, worth
+j	価数	価数	原子価の数。
+j	価格	価格	price
+j	価標	価標	化学構造を示す際に原子の間に書かれる線。
+j	価銭	価銭	価格。値段。
+j	価額	価額	あるものの価値を通貨の単位で評価・表示した指標。
+j	信一	信一	a male given name
+j	信也	信也	a male given name
+j	信二	信二	a male given name
+j	信交	信交	信じて交わること。
+j	信人	信人	a male given name
+j	信介	信介	a male given name
+j	信代	信代	a female given name
+j	信仰	信仰	belief, faith
+j	信任	信任	trust, confidence, creden…
+j	信伏	信伏	信頼して服従すること。
+j	信使	信使	使者。使節。
+j	信倚	信倚	信じて頼ること。信頼すること。
+j	信光	信光	a male given name
+j	信冠	信冠	冠位十二階で信の位の者が被る黄色の冠。
+j	信力	信力	神仏を信仰する力。
+j	信博	信博	a male given name
+j	信厚	信厚	誠実で手厚いさま。
+j	信口	信口	出任せに言うこと。
+j	信号	信号	a signal
+j	信司	信司	a male given name
+j	信吉	信吉	a male given name
+j	信向	信向	信仰すること。
+j	信吾	信吾	a male given name
+j	信哉	信哉	a male given name
+j	信士	信士	（しんし）信義、信仰の厚い人。
+j	信夫	信夫	a district of Fukushima P…
+j	信奉	信奉	belief, faith
+j	信女	信女	五戒を受けた優婆夷。
+j	信子	信子	a female given name
+j	信孝	信孝	a male given name
+j	信宏	信宏	a male given name
+j	信実	信実	sincerity; honesty; truth…
+j	信州	信州	Xinzhou (a historical sta…
+j	信平	信平	a male given name
+j	信幸	信幸	a male given name
+j	信広	信広	a male given name
+j	信廣	信廣	a male given name
+j	信弘	信弘	a male given name
+j	信彦	信彦	a male given name
+j	信徒	信徒	one who believes in a rel…
+j	信心	信心	piety; devotion
+j	信念	信念	belief, faith, conviction
+j	信恵	信恵	a female given name
+j	信愛	信愛	信用して愛すること。
+j	信憑	信憑	credence
+j	信敏	信敏	a male given name
+j	信教	信教	religious belief
+j	信明	信明	a male given name
+j	信書	信書	個人の間で意志疎通のためにやりとりされる手紙や文書。
+j	信服	信服	敬服し信頼すること。
+j	信望	信望	信用と人望。
+j	信条	信条	belief, article of faith
+j	信次	信次	a male given name
+j	信水	信水	信仰する心の澄んで清らかなことを清水に喩えていう語。
+j	信濃	信濃	Shinano Province, an old …
+j	信玄	信玄	a male given name
+j	信瑞	信瑞	印の珠。
+j	信用	信用	belief, trust, confidence
+j	信男	信男	a male given name
+j	信疑	信疑	信じることと疑うこと。
+j	信竹	信竹	a male given name
+j	信管	信管	fuse (detonating device)
+j	信約	信約	誓い。誓約。約束。
+j	信組	信組	信用協同組合（信用組合）の略。
+j	信義	信義	faith
+j	信者	信者	a believer (e.g. of a rel…
+j	信藤	信藤	a surname
+j	信行	信行	a male given name
+j	信言	信言	真実の言葉。信用できる言葉。
+j	信託	信託	trust, entrustment
+j	信証	信証	証拠。証。しるし。
+j	信認	信認	trust, faith, mandate (e.…
+j	信護	信護	a male given name
+j	信販	信販	「信用販売」の略。
+j	信賞	信賞	手柄のある者に必ず賞を与えること。
+j	信越	信越	信濃国と越後国。
+j	信郎	信郎	a male given name
+j	信郷	信郷	信じて従うこと。
+j	信金	信金	信用金庫。
+j	信長	信長	a male given name
+j	信陽	信陽	Xinyang (a city in China)
+j	信雄	信雄	a male given name
+j	信頼	信頼	reliance, trust, confiden…
+j	信験	信験	確かな証。
+j	倡優	倡優	俳優。芸人。
+j	倡女	倡女	妓女。遊女。
+j	倡言	倡言	提唱すること。
+j	倡館	倡館	妓楼。
+j	倡首	倡首	首唱すること。
+j	儡塊	儡塊	不平の気。
+j	儡然	儡然	落ち着かないこと。また、そのようなさま。
+j	凡事	凡事	珍しくないこと。普通にあること。
+j	凡人	凡人	an ordinary person
+j	凡作	凡作	平凡でつまらない出来の作品。
+j	凡例	凡例	legend, such as on a map
+j	凡俗	凡俗	ありきたりで取り柄がないさま。また、そのような人。
+j	凡僧	凡僧	An ordinary, lowly, itine…
+j	凡夫	凡夫	ordinary person; mortal p…
+j	凡小	凡小	平凡で器量が小さいこと。また、そのようなさま。
+j	凡常	凡常	平凡でありきたりであるさま。
+j	凡庸	凡庸	mediocre; ordinary
+j	凡愚	凡愚	平凡で愚かなさま。また、そのような人。
+j	凡慮	凡慮	平凡な考え。
+j	凡戦	凡戦	dull match
+j	凡才	凡才	mediocrity, ordinary abil…
+j	凡打	凡打	打者がヒットや犠打にならない球を打つこと。また、そ…
+j	凡智	凡智	並程度の知恵。
+j	凡浅	凡浅	平凡。
+j	凡界	凡界	凡俗の世界。俗界。
+j	凡百	凡百	さまざまなもの。もろもろ。かずかず。
+j	凡知	凡知	並程度の知恵。
+j	凡聖	凡聖	凡人と聖人。
+j	凡退	凡退	打者が安打や犠打を打ったり四死球で出塁したりするこ…
+j	凡骨	凡骨	突出した才能のない人。凡庸な人。
+j	剡章	剡章	奏章。
+j	匡史	匡史	a male given name
+j	匡司	匡司	a male given name
+j	匡哉	匡哉	a male given name
+j	匡子	匡子	a female given name
+j	匡導	匡導	導くこと。
+j	匡復	匡復	恢復すること。
+j	匡拯	匡拯	匡済すること。
+j	匡救	匡救	salvation; succour
+j	匡正	匡正	正しい状態に直すこと。
+j	匡済	匡済	悪を正し、世の乱れを救うこと。
+j	匡矯	匡矯	匡正すること。
+j	叡哲	叡哲	才知に優れ、道理に明るいこと。また、そのようなさま。
+j	叡喆	叡喆	才知に優れ、道理に明るいこと。また、そのようなさま。
+j	叡嘆	叡嘆	天子が御嘆きになること。
+j	叡山	叡山	比叡山の通称。
+j	叡念	叡念	天子の御心中、御考え。叡慮。
+j	叡情	叡情	天子の心情。
+j	叡慮	叡慮	天子の考えや気持ち。聖慮。
+j	叡断	叡断	天子の決断。
+j	叡明	叡明	（天子などが）聖明であること。
+j	叡智	叡智	深く物事の道理に通じる知恵。高い知性。
+j	叡王	叡王	将棋の八大タイトルの一つ。2017年に新設。
+j	叡知	叡知	「叡智」の別表記。
+j	叡聖	叡聖	天子の知徳が優れていること。
+j	叡聞	叡聞	天子がお聞きになること。
+j	叡覧	叡覧	天子や上皇、法皇などが御覧になること。
+j	叡質	叡質	聖明の質。
+j	員数	員数	人員やものの数、特に定員・定数などが決まっているも…
+j	員昌	員昌	a male given name
+j	堡塁	堡塁	fort, stronghold
+j	堡礁	堡礁	島・陸地から離れ、海岸に平行に発達した珊瑚礁。
+j	塡冊	塡冊	記帳。
+j	塡壑	塡壑	谷を埋めること。
+j	塡星	塡星	土星の異称。
+j	塡淤	塡淤	河川の水が泥で塞がること。塡閼。
+j	塡盈	塡盈	充満すること。
+j	塡閼	塡閼	河川の水が泥で塞がること。塡淤。
+j	嫡出	嫡出	birth in wedlock
+j	嫡嗣	嫡嗣	嫡出の世嗣ぎ。
+j	嫡妻	嫡妻	synonym of 前妻 (konami, “f…
+j	嫡子	嫡子	legitimate child
+j	嫡孫	嫡孫	eldest son's descendants
+j	嫡流	嫡流	lineage of the eldest son…
+j	嫡男	嫡男	oldest legitimate son
+j	寡フ	寡フ	widow or widower
+j	寡人	寡人	王侯の自称。
+j	寡作	寡作	芸術家などが作品を少ししか作らないこと。また、その…
+j	寡兵	寡兵	少ない人数の兵力。
+j	寡勢	寡勢	少ない軍勢または人数。
+j	寡占	寡占	oligopoly
+j	寡夫	寡夫	widower
+j	寡婦	寡婦	widow
+j	寡少	寡少	非常に少ないさま。
+j	寡居	寡居	独身または配偶者を亡くし一人暮らしすること。寡暮ら…
+j	寡断	寡断	優柔不断。
+j	寡照	寡照	日照時間が少ない天候。
+j	寡聞	寡聞	one's dearth of knowledge
+j	寡言	寡言	taciturn, reticent
+j	寡雨	寡雨	雨が寡ないこと。
+j	寡頭	寡頭	oligarch
+j	寡髪	寡髪	頭髪が抜け、少ないこと。
+j	寡黙	寡黙	reticent
+j	屡々	屡々	
+j	屡報	屡報	屢報の拡張新字体を用いた表記。
+j	屡次	屡次	度重なること。
+j	岡原	岡原	a surname
+j	岡山	岡山	Okayama (the capital city…
+j	岡島	岡島	a surname
+j	岡崎	岡崎	Okazaki (a city in Aichi …
+j	岡嶋	岡嶋	a surname
+j	岡巒	岡巒	丘陵、小山。
+j	岡本	岡本	a surname
+j	岡村	岡村	a surname
+j	岡沢	岡沢	a surname
+j	岡澤	岡澤	a surname
+j	岡田	岡田	a neighborhood of Chita, …
+j	岡部	岡部	a surname
+j	岡野	岡野	a surname
+j	峡中	峡中	谷間。谷合。
+j	峡城	峡城	谷にある城。
+j	峡景	峡景	谷あいの景色。
+j	峡水	峡水	谷川。
+j	峡江	峡江	fjord
+j	峡流	峡流	谷川。
+j	峡渓	峡渓	渓谷。
+j	峡湾	峡湾	fjord
+j	峡谷	峡谷	canyon, gorge
+j	峡部	峡部	isthmus
+j	峡間	峡間	谷間。谷あい。
+j	巡り	巡り	circumference
+j	巡る	巡る	go around, travel around
+j	巡回	巡回	going around
+j	巡夜	巡夜	夜間の巡回をすること。夜警。
+j	巡守	巡守	「巡狩」の別表記。
+j	巡察	巡察	見回って事情を調べること。
+j	巡幸	巡幸	to set out on a journey (…
+j	巡拝	巡拝	各地の神社や寺院を参拝して回ること。
+j	巡査	巡査	police officer (lowest po…
+j	巡検	巡検	見回って取り調べること。巡視。巡察。
+j	巡業	巡業	各地を興行しながら回ること。
+j	巡洋	巡洋	船舶などで海洋を巡ること。
+j	巡演	巡演	演劇などを巡業すること。
+j	巡爵	巡爵	平安時代以降、五年勤務した六位の蔵人の最も上位の者…
+j	巡狩	巡狩	古代中国で天子が諸国の政治を視察したこと。
+j	巡礼	巡礼	pilgrimage
+j	巡航	巡航	cruise
+j	巡行	巡行	各地を巡り歩くこと。
+j	巡見	巡見	見回ること。巡回。
+j	巡視	巡視	patrol, inspection tour
+j	巡覧	巡覧	あちこちを巡って見ること。
+j	巡警	巡警	patrolling
+j	巡遊	巡遊	あちこちを巡って旅すること。
+j	巡邏	巡邏	見回って歩くこと。警戒・監視の意味合いがある。
+j	巡酒	巡酒	主人を代わりながら酒宴を催すこと。
+j	巡錫	巡錫	
+j	帡幪	帡幪	周囲と上を覆う幕。帳幕。覆い。
+j	幡司	幡司	a surname
+j	幡屋	幡屋	
+j	幡蓋	幡蓋	幡と天蓋。
+j	廡傍	廡傍	軒の脇。
+j	彡旁	彡旁	漢字の部首「⼺」の呼称の一つ。
+j	彡部	彡部	部首「⼺」で分類した漢字の一群。
+j	御世	御世	天子、天皇が在位している間の治世。
+j	御中	御中	a meal, especially of ric…
+j	御主	御主	you (to someone of equal …
+j	御亭	御亭	相手の邸宅に対する尊敬語。
+j	御人	御人	侍御。
+j	御仁	御仁	「他人」の尊敬語。お方。現代ではときに諧謔的。
+j	御代	御代	天皇による治世。天皇の在位期間。ごだい。ごよ。
+j	御会	御会	歌会などの敬語。
+j	御体	御体	相手の体や体調について丁寧に言う語。
+j	御供	御供	供物。おそなえ。
+j	御侠	御侠	若い女性の行動などが活発で軽はずみなこと。
+j	御僧	御僧	「僧」（僧侶）を丁寧に言う語。
+j	御免	御免	something one wants to ha…
+j	御党	御党	相手の党に対する尊敬語。あなたの党。
+j	御判	御判	「印判、花押」の尊敬語。
+j	御前	御前	synonym of 前 (mae, “front…
+j	御句	御句	他人の作った句に対する尊敬語。
+j	御台	御台	（食事をのせる）台の丁寧語。
+j	御史	御史	古代中国の官名。元は君主に近侍する官吏であったが、…
+j	御名	御名	特定の人や神の名前に対して、敬意を表した呼称。直接…
+j	御器	御器	食べ物を盛り付けるための蓋がついた椀。
+j	御国	御国	land of the emperor, the …
+j	御園	御園	相手が属する「園」と呼ばれる施設を指す尊敬語。
+j	御地	御地	「相手が住んでいる地」を丁寧に言う語。
+j	御坊	御坊	寺院の敬称
+j	御大	御大	（おんたい）グループや団体で中心となる人物。
+j	御子	御子	A god or spirit's child.
+j	御学	御学	あなたの大学。
+j	御守	御守	a protective amulet or ta…
+j	御客	御客	「お客」を参照。
+j	御宰	御宰	江戸時代、奥女中に使用された下男。
+j	御宴	御宴	皇室、貴人が開く宴会。
+j	御寝	御寝	「ねる」ことの尊敬表現。
+j	御寮	御寮	貴人の子女に対する尊敬語。御料。御寮人。
+j	御寺	御寺	
+j	御局	御局	（会話語）あなたの局。
+j	御嶽	御嶽	Mount Ontake (a mountain …
+j	御幣	御幣	implement used in Shintō …
+j	御幸	御幸	（ごこう）上皇、女院の外出。
+j	御庁	御庁	（話し言葉）あなたの庁。
+j	御店	御店	（会話語）相手の店を指す尊敬語。
+j	御府	御府	天子が所有している書画、物品を入れておく倉庫。
+j	御座	御座	throne
+j	御庫	御庫	（話し言葉）あなたの信用金庫、労働金庫。
+j	御形	御形	cudweed (Gnaphalieae spp.)
+j	御影	御影	pictures of the emperor (…
+j	御心	御心	相手の心（気持ちや考えなど）に対する丁寧語。
+j	御忌	御忌	貴人や宗派の祖師の年忌。
+j	御念	御念	相手が念を入れることの丁寧語。
+j	御恩	御恩	他人からの恩に対する丁寧語。
+j	御意	御意	wish, desire (used instea…
+j	御感	御感	天皇、貴人が感心されること。また、気に入ること。
+j	御慶	御慶	お喜び。お祝い。
+j	御房	御房	寺院の敬称
+j	御所	御所	imperial palace
+j	御撰	御撰	天皇が編集したり著したりすること。また、その書物。
+j	御数	御数	
+j	御料	御料	天皇、貴人が所有したり、使用したりしている物に対す…
+j	御方	御方	synonym of 御方 (ōnkata)
+j	御族	御族	貴人の一族に対する尊敬語。
+j	御書	御書	手紙や書物などの尊敬語。
+j	御札	御札	talisman or amulet issued…
+j	御柳	御柳	ギョリュウ科の落葉高木。中国原産。
+j	御校	御校	（会話語）相手が属する学校を指す尊敬語。
+j	御歌	御歌	天皇、貴人がおつくりになった歌。
+j	御殻	御殻	okara (edible byproduct o…
+j	御殿	御殿	residential palace buildi…
+j	御湿	御湿	diaper
+j	御灯	御灯	神仏などの前に灯す灯火の丁寧語。
+j	御燗	御燗	「燗」を丁寧に言う語。
+j	御物	御物	天子、皇室の所有物。
+j	御猿	御猿	the shedding of the uteri…
+j	御璽	御璽	imperial seal, privy seal
+j	御用	御用	job, business for to do f…
+j	御田	御田	oden (a Japanese one pot …
+j	御番	御番	人の当番、夜番の尊敬語。
+j	御省	御省	（話し言葉）あなたの（行政の）省。
+j	御礼	御礼	「礼」の丁寧語。
+j	御社	御社	your company
+j	御節	御節	正月や節句の際に供される縁起を担ぐ食材を使用した料…
+j	御簾	御簾	(ぎょれん) 貴人の在所を囲う垂れ幕・すだれ。
+j	御紋	御紋	相手の紋章に対する尊敬語。
+j	御紙	御紙	相手が発行する新聞。
+j	御給	御給	朝廷から皇族、公卿などに年官、年爵を給すること。年…
+j	御縁	御縁	「縁」を丁寧に言う語。
+j	御老	御老	an old person
+j	御者	御者	carriage driver; coachman
+j	御職	御職	江戸時代、同類の中で頭に立つ者。
+j	御膳	御膳	food and drink for the Em…
+j	御船	御船	a surname
+j	御苑	御苑	imperial garden
+j	御茶	御茶	茶の丁寧語。
+j	御行	御行	クソニンジンの漢名。
+j	御衣	御衣	天子や貴人の衣服の尊敬語。
+j	御袋	御袋	one's own mother
+j	御製	御製	天皇自らが作った和歌や詩文。
+j	御覧	御覧	「見ること」の尊敬語。
+j	御託	御託	speaking in a selfish, pr…
+j	御記	御記	天子や貴人が記した日記などの記録の丁寧語。
+j	御詠	御詠	天皇や皇族が詠んだ詩歌。
+j	御誌	御誌	相手が発行する雑誌。
+j	御諚	御諚	貴人のお言葉。
+j	御身	御身	「身」の丁寧語。お体。
+j	御輦	御輦	貴人が使用する輦。
+j	御選	御選	天皇が選定すること。また、そのもの。
+j	御酒	御酒	「酒」の尊敬語。
+j	御采	御采	ある人の命令や指図の敬語。
+j	御門	御門	mikado (emperor of Japan)
+j	御院	御院	（会話語）相手が属する病院、医院または議院を指す尊…
+j	御陵	御陵	天皇、皇后、皇太后、太皇太后を葬る墓所。
+j	御階	御階	宮殿などの階段の丁寧な言い方。
+j	御集	御集	「集まること」の尊敬語。
+j	御難	御難	「災難、困難」を丁寧に言う語。
+j	御霊	御霊	soul, spirit of the dead
+j	御領	御領	領地に対する尊敬語。
+j	御題	御題	（おだい）詩歌などの「題」の丁寧語。
+j	御願	御願	阿弥陀如来の衆生を救済しようという誓願。
+j	御飯	御飯	cooked rice
+j	御館	御館	相手が属する「館」と呼ばれる施設を指す尊敬語。
+j	御饌	御饌	〔ごせん〕御饌米。
+j	御馳	御馳	御馳走の略。特別に食事などをふるまうこと。来客へ食…
+j	忡忡	忡忡	憂えるさま。
+j	忡惙	忡惙	懼れること。
+j	怡怡	怡怡	(文語) 喜び楽しむさま。
+j	怡悦	怡悦	喜び、楽しむこと。
+j	怡楽	怡楽	喜び、楽しむこと。
+j	怡然	怡然	怡楽するさま。
+j	惡罵	惡罵	悪罵の旧字体表記。
+j	惡運	惡運	
+j	惡露	惡露	
+j	拡充	拡充	expansion
+j	拡大	拡大	magnification
+j	拡延	拡延	時間や空間の連続的な広がり。
+j	拡張	拡張	An expansion or extension…
+j	拡散	拡散	diffusion, scattering, sp…
+j	拡材	拡材	販売拡張のための景品。
+j	拡縮	拡縮	expansion and contraction…
+j	採便	採便	検査等を目的として便を採ること。
+j	採光	採光	lighting; natural light; …
+j	採取	採取	picking, harvesting; coll…
+j	採否	採否	採用することと採用しないこと。
+j	採寸	採寸	taking measurements
+j	採尿	採尿	検査等を目的として尿を採ること。
+j	採択	採択	adoption (of a goal, reso…
+j	採掘	採掘	mining
+j	採決	採決	a vote
+j	採火	採火	火種となるところから火を取ること。
+j	採炭	採炭	石炭を採掘すること。露天掘りや坑内掘りなどの方法が…
+j	採点	採点	marking, scoring
+j	採琢	採琢	磨くこと。
+j	採用	採用	use, adopt, adoption
+j	採番	採番	（新しい）番号を既定のルールで採取すること。
+j	採石	採石	山などから石材を切り出すこと。
+j	採礦	採礦	mining
+j	採種	採種	次回の栽培のために種を採ること。
+j	採穂	採穂	穂を採ること。
+j	採算	採算	profit
+j	採納	採納	採り入れること。
+j	採薪	採薪	薪を採取すること。
+j	採蜜	採蜜	collection of honey from …
+j	採血	採血	taking blood; collecting …
+j	採訪	採訪	よその土地を訪れて歴史や民族の資料を採集すること。
+j	採譜	採譜	transcription
+j	採貝	採貝	業として貝類を採取すること。
+j	採鉱	採鉱	mining
+j	採録	採録	recording
+j	採集	採集	gathering, collection
+j	採餌	採餌	foraging
+j	握り	握り	grasping, gripping, seizi…
+j	握る	握る	to grasp, to grip, to hold
+j	握力	握力	grip strength
+j	握手	握手	handshake
+j	擡頭	擡頭	「台頭」の本来の表記。
+j	斡旋	斡旋	recommendation, mediation
+j	斡流	斡流	水が渦巻きながら流れること。
+j	晡時	晡時	申の刻。現在の午後三時から五時の間。
+j	条令	条令	regulations, ordinance
+j	条件	条件	terms, conditions, or req…
+j	条例	条例	regulations; rules; laws;…
+j	条坊	条坊	町の道筋。
+j	条幹	条幹	枝と幹。
+j	条挙	条挙	列挙すること。
+j	条播	条播	畑に平行の畝を作り、そこに等間隔に種子を蒔くこと。
+j	条支	条支	古代中国におけるシリアの呼称。
+j	条文	条文	clauses or provisions (te…
+j	条書	条書	一つ一つの条目を箇条書きにすること。また、そのよう…
+j	条款	条款	clause, article, condition
+j	条派	条派	支流。
+j	条然	条然	嘯くさま。
+j	条片	条片	
+j	条理	条理	logic; reasoning
+j	条痕	条痕	linear mark; abrasion; sc…
+j	条目	条目	法令など箇条書きの項目。また、そのような文書。
+j	条端	条端	条目。
+j	条約	条約	treaty
+j	条緒	条緒	条文。
+j	条線	条線	すじ。線。
+j	条纓	条纓	胸繋。
+j	条芩	条芩	野生の黄芩（黄金花）の根を乾燥させた生薬。
+j	条虫	条虫	synonym of 真田虫 (Sanadamus…
+j	条規	条規	法令などの条文で定めた規定や規則。
+j	条達	条達	多方面に通知して知らせること。
+j	条里	条里	土地の区画。
+j	条陳	条陳	箇条書きにして述べ説くこと。
+j	条項	条項	clause
+j	枡山	枡山	a surname
+j	枡田	枡田	a surname
+j	校下	校下	school district
+j	校了	校了	校正が完了すること。
+j	校債	校債	学校債。
+j	校僕	校僕	student studying and work…
+j	校具	校具	学校に備えられる道具や器具。
+j	校内	校内	the inside of a school bu…
+j	校則	校則	regulation that is enacte…
+j	校務	校務	学校の運営に関連する職務や事務。
+j	校区	校区	school district
+j	校医	校医	学校の児童、生徒の医療、衛生にあたる医師。学校医。
+j	校友	校友	alumnus
+j	校史	校史	学校の歴史。
+j	校合	校合	写本やコピーなどを原本とつきあわせて訂正や修正をす…
+j	校名	校名	name of a school
+j	校外	校外	off-campus
+j	校定	校定	revision
+j	校尉	校尉	中国の武官の官名の一つ。
+j	校庭	校庭	schoolyard
+j	校改	校改	改正すること。
+j	校旗	校旗	校章など学校のしるしとなる旗。
+j	校書	校書	底本となる本とその他の本とを比較、照合すること。校…
+j	校服	校服	school uniform
+j	校樹	校樹	並木。
+j	校歌	校歌	school song, school anthem
+j	校正	校正	proofreading and correcti…
+j	校注	校注	proofreading and annotati…
+j	校田	校田	奈良、平安時代に田地の実態を調査したこと。
+j	校異	校異	文献や文章の字句の同異を比較すること。また、その結…
+j	校章	校章	学校の記章。
+j	校紀	校紀	学校内における風紀。
+j	校繫	校繫	取り調べ。
+j	校舍	校舍	
+j	校舎	校舎	school building, schoolho…
+j	校色	校色	校風。
+j	校葬	校葬	学校が喪主となって行う葬儀。
+j	校規	校規	学校内における規則。校則。
+j	校訂	校訂	revision of a previously …
+j	校訓	校訓	school precepts
+j	校註	校註	文章を校訂し、注釈すること。また、その注釈。
+j	校讐	校讐	文章などを比較、対照して誤りなどを直すこと。校正す…
+j	校量	校量	較べ合わせて考えること。
+j	校長	校長	principal or headteacher …
+j	校門	校門	school gate, school entra…
+j	校閲	校閲	proofreading
+j	校風	校風	各学校の伝統的な気風。
+j	模作	模作	「摸作」の別表記。
+j	模倣	模倣	imitation, copying
+j	模写	模写	copy
+j	模刻	模刻	原本となる像を模倣して像を彫ること。
+j	模型	模型	a model
+j	模式	模式	a scheme; model; blueprint
+j	模擬	模擬	imitation, simulation, sh…
+j	模様	模様	pattern; design
+j	模範	模範	model
+j	模糊	模糊	vague; unclear
+j	模索	模索	groping
+j	模製	模製	真似て作ること。
+j	模試	模試	模擬試験。
+j	模造	模造	imitation
+j	次々	次々	one after another
+j	次ぐ	次ぐ	come after, continue afte…
+j	次に	次に	then, next
+j	次の	次の	
+j	次丁	次丁	律令制で、老丁および軽い不具・病気のある男子。
+j	次亜	次亜	hypo-; -ous (a compound w…
+j	次代	次代	the next era
+j	次位	次位	次の位。次の順位。次の位置。
+j	次便	次便	次に出す便り。
+j	次候	次候	七十二候において、節気を約5日で分けたもののうち第…
+j	次元	次元	a dimension
+j	次兄	次兄	二番目の兄。仲兄。
+j	次列	次列	順序づけること。
+j	次号	次号	next issue (of a magazine)
+j	次善	次善	最善に次ぎ二番目に善いこと。最善の行動がとれない場…
+j	次回	次回	next time
+j	次女	次女	second daughter
+j	次妃	次妃	正妃に次ぐ妃。
+j	次姉	次姉	上から二番目の姉。
+j	次子	次子	one's second son
+j	次官	次官	vice minister
+j	次客	次客	茶会で招かれた客のうち正客の次の位の客。
+j	次室	次室	主要な部屋に隣接した控え室。
+j	次将	次将	〔じしょう〕大将の次に位する者。
+j	次席	次席	席次が二番目であること。第二位。
+j	次序	次序	順序をつけること。また、その順序。次第。
+j	次忠	次忠	最上（至忠）とはいえない忠義。
+j	次数	次数	degree (of the power of a…
+j	次朗	次朗	a male given name
+j	次期	次期	the next period, the next…
+j	次末	次末	
+j	次条	次条	
+j	次様	次様	of lower calibre
+j	次点	次点	最高点につぐ点数。また、その点数の人。
+j	次生	次生	a male given name
+j	次男	次男	one's second son
+j	次章	次章	次の章。
+j	次第	次第	circumstances
+j	次表	次表	次に掲示した図表。
+j	次週	次週	next week
+j	次郎	次郎	a male given name
+j	次郞	次郞	a male given name
+j	次鋒	次鋒	5人制または7人制の団体戦における二番手。二陣。
+j	次長	次長	deputy directorship; assi…
+j	次韻	次韻	漢詩で、他人の詩と同じ韻字を同じ順序で使って詩を作…
+j	次頁	次頁	next page
+j	没入	没入	immersion, being absorbed…
+j	没前	没前	死ぬ前。
+j	没却	没却	捨て去って無いようにすること。
+j	没収	没収	confiscation, seizure, fo…
+j	没官	没官	（もっかん）犯罪者の家族、財産、土地などを官、幕府…
+j	没年	没年	a person's age at death
+j	没後	没後	after death
+j	没書	没書	新聞社や出版社が投稿された原稿を採用しないこと。没。
+j	没溺	没溺	水の中に落ちて溺れること。
+j	没稿	没稿	rejected draft
+j	没落	没落	downfall, collapse
+j	没薬	没薬	myrrh
+j	没頭	没頭	total concentration in so…
+j	泡影	泡影	水泡と物影。物事が儚いこと。
+j	泡沫	泡沫	a bubble, foam, froth
+j	泡盛	泡盛	awamori, a kind of strong…
+j	泡苔	泡苔	Callitriche japonica, a s…
+j	泡銭	泡銭	easy money
+j	淡々	淡々	
+j	淡い	淡い	pale; light
+j	淡交	淡交	（君子の）淡泊な交際。
+j	淡冶	淡冶	あっさりしていて美しいさま。
+j	淡古	淡古	古風で淡白な作風。古淡。
+j	淡味	淡味	あっさりした味。薄い味付け。薄味。
+j	淡州	淡州	淡路国^(（あわじのくに）)の別称。
+j	淡月	淡月	光が淡い月。おぼろづき。
+j	淡水	淡水	fresh water
+j	淡泊	淡泊	色・味などがしつこくないこと。
+j	淡海	淡海	a freshwater lake
+j	淡淡	淡淡	calmly, quietly
+j	淡湖	淡湖	淡水湖。
+j	淡然	淡然	あっさりしていること。淡泊なこと。また、そのような…
+j	淡画	淡画	淡い色彩の絵画。
+j	淡白	淡白	frank, candid
+j	淡碧	淡碧	淡い青色。
+j	淡竹	淡竹	Henon bamboo, Phyllostach…
+j	淡粧	淡粧	あっさりした化粧。薄化粧。
+j	淡紅	淡紅	淡い紅色。淡紅色。うすべに。
+j	淡紫	淡紫	淡い紫色。淡紫色。
+j	淡緑	淡緑	淡い緑色。
+j	淡色	淡色	淡い色。
+j	淡菜	淡菜	貽貝の別名。
+j	淡薄	淡薄	淡泊の異表記。
+j	淡路	淡路	Awaji Province, an old pr…
+j	淡雅	淡雅	あっさりしていて上品なさま。
+j	淡雲	淡雲	薄い雲。薄雲。
+j	淡青	淡青	白みを帯びた青色。
+j	淡麗	淡麗	（主に酒などの）口当たりがさっぱりしていて癖がない…
+j	淡黄	淡黄	light yellow
+j	渡す	渡す	to hand over
+j	渡る	渡る	航る: to traverse by boat, …
+j	渡世	渡世	世渡り。
+j	渡仏	渡仏	フランスへの渡航。
+j	渡会	渡会	a surname
+j	渡加	渡加	going to Canada
+j	渡口	渡口	渡し場。
+j	渡唐	渡唐	voyage to (Tang) China
+j	渡島	渡島	voyage to an island
+j	渡御	渡御	天皇、三后が外出すること。
+j	渡日	渡日	coming to Japan (of a for…
+j	渡来	渡来	crossing the sea from a f…
+j	渡橋	渡橋	crossing a bridge
+j	渡欧	渡欧	欧州（ヨーロッパ）に行くこと。
+j	渡河	渡河	crossing of a river
+j	渡津	渡津	旅客や貨物を対岸に渡すための場所。渡し場。
+j	渡海	渡海	crossing the sea
+j	渡渉	渡渉	川を渡ること。
+j	渡瀬	渡瀬	a surname
+j	渡独	渡独	ドイツへ行くこと。
+j	渡米	渡米	going to the United States
+j	渡航	渡航	voyage
+j	渡船	渡船	ferry
+j	渡英	渡英	イギリスへの渡航。
+j	渡貫	渡貫	a surname
+j	渡辺	渡辺	a surname: the 6th most c…
+j	渡邉	渡邉	a surname
+j	渡邊	渡邊	a surname
+j	渡部	渡部	a surname
+j	渡頭	渡頭	ferry landing, point of d…
+j	澡徳	澡徳	身を清め、徳を受けること。
+j	澡麻	澡麻	白い麻。
+j	濡れ	濡れ	imperfective and stem (or…
+j	濡恋	濡恋	色めいていること。濡れていること。そのさま。
+j	濡愞	濡愞	柔弱。
+j	濡染	濡染	遍く潤うこと。
+j	濡烏	濡烏	jet-black
+j	無い	無い	
+j	無き	無き	-less, lacking, nonexiste…
+j	無し	無し	nothing
+j	無上	無上	the best
+j	無下	無下	疑う余地のないこと。まさにその通り。紛れもない。
+j	無主	無主	所有者がないこと。また、主体がないこと。
+j	無事	無事	safe and sound
+j	無二	無二	Something not duplicated,…
+j	無人	無人	shorthanded, lack of help
+j	無代	無代	free of charge
+j	無休	無休	休みがないこと。休日や休業日がないこと。
+j	無位	無位	位、位階が無いこと。
+j	無住	無住	根拠、拠り所がないこと。
+j	無価	無価	（むか）価値がないこと。ただ。
+j	無偏	無偏	片方に偏らないこと。広く公平に行き渡ること。
+j	無傷	無傷	without injury: unhurt, u…
+j	無儔	無儔	無比。
+j	無償	無償	something done or given f…
+j	無光	無光	
+j	無党	無党	政党、党派に属さないこと。
+j	無冠	無冠	位を持たないこと。
+j	無刀	無刀	刀を帯びていないこと。丸腰。
+j	無制	無制	規定が無いこと。
+j	無力	無力	powerless
+j	無功	無功	下手なこと。未熟なこと。
+j	無効	無効	ineffective, invalid
+j	無動	無動	動きがないこと。揺らがないこと。
+j	無勢	無勢	軍勢や人数が少ないこと。
+j	無医	無医	医師がいないこと。医院（病院）がないこと。
+j	無印	無印	without a mark; unmarked
+j	無双	無双	matchless, peerless, unpa…
+j	無口	無口	reticent; untalkative
+j	無名	無名	namelessness, unnamedness…
+j	無味	無味	being flavorless
+j	無地	無地	plain, unfigured, pattern…
+j	無垢	無垢	spiritually pure, free fr…
+j	無城	無城	江戸時代城を所有しない大名の家格。
+j	無執	無執	一切の物事に執着しないこと。無着。
+j	無塩	無塩	塩分が含まれていないこと。塩味がないこと。
+j	無境	無境	外界という境は存在せず心が造出したものであるという…
+j	無声	無声	voiceless
+j	無妄	無妄	あざむかない、いつわらないこと。
+j	無妻	無妻	妻を持たないこと。また、その男性。
+j	無始	無始	the eternal without begin…
+j	無季	無季	四季のうち、どの季節にも属さないこと。
+j	無学	無学	学問を修めていないこと。
+j	無官	無官	官職が無いこと。
+j	無実	無実	false, untrue
+j	無害	無害	harmless; innocuous
+j	無宿	無宿	定職、一定の住居を持たないこと。また、そのような人。
+j	無封	無封	手紙などの封をしないこと。無緘。
+j	無尽	無尽	尽きることがないこと。
+j	無常	無常	transient, impermanent, m…
+j	無帽	無帽	帽子をかぶっていないさま。
+j	無形	無形	formlessness, bodylessnes…
+j	無役	無役	役目が無いこと。
+j	無征	無征	無税。
+j	無徒	無徒	a surname
+j	無徳	無徳	徳の無いこと。また、そのさま。
+j	無心	無心	being something that has …
+j	無念	無念	regrettable; unfortunate
+j	無性	無性	asexuality
+j	無恥	無恥	はじとも思わないこと。恥知らず。
+j	無情	無情	heartless, hardhearted, m…
+j	無惨	無惨	（仏教）罪を犯しても心に恥じないこと。
+j	無想	無想	何も考えないこと。
+j	無意	無意	意志のないこと。故意ではないこと。
+j	無感	無感	地震の揺れが人には感じられないほど小さいこと。
+j	無愧	無愧	shameless, even while com…
+j	無慙	無慙	罪を犯しても心に恥じないこと。
+j	無慧	無慧	白痴。
+j	無慮	無慮	about; nearly; roughly; a…
+j	無成	無成	成事が無いこと。
+j	無我	無我	anatta
+j	無才	無才	取り立てて言うほどの才能が無いこと。また、そのさま。
+j	無指	無指	adactylism; adactyly, the…
+j	無援	無援	支援や助けがないこと。
+j	無效	無效	
+j	無数	無数	innumerable, countless
+j	無敵	無敵	invincible, matchless
+j	無料	無料	free; at no cost
+j	無断	無断	without permission; witho…
+j	無明	無明	avidyā: unenlightenment, …
+j	無景	無景	殺風景なこと。また、そのようなさま。広漠。
+j	無智	無智	知識の無いこと。
+j	無暗	無暗	
+j	無月	無月	when the moon is not visi…
+j	無服	無服	喪に服することがないこと。喪に服さなくてよいこと。…
+j	無朕	無朕	兆候がないこと。
+j	無期	無期	indefinite
+j	無札	無札	客が本来所持しているべき切符を所持していない状態。
+j	無核	無核	
+j	無根	無根	拠り所がないこと。根拠がないこと。
+j	無様	無様	格好悪いこと。みっともないこと。醜態。
+j	無機	無機	the state or quality of b…
+j	無欠	無欠	欠けた所がないこと。
+j	無欲	無欲	何事にも欲がないこと。
+j	無死	無死	no outs; no player from t…
+j	無残	無残	残酷なこと。いたましいこと。あわれなこと。また、そ…
+j	無毒	無毒	毒が無いこと。
+j	無比	無比	absolute
+j	無毛	無毛	hairlessness
+j	無気	無気	無卦の異表記。
+j	無水	無水	waterless
+j	無法	無法	unreasonable, outrageous
+j	無派	無派	派閥、党派に属さないこと。
+j	無涯	無涯	果てしないこと。
+j	無漏	無漏	煩悩に関わりのない法（法則）のこと。すべての法は無…
+j	無灯	無灯	暗くても灯火をつけないこと。無灯火。
+j	無為	無為	to take no action; to let…
+j	無煙	無煙	煙が発生しないこと。煙が存在しないこと。
+j	無状	無状	目立った功績が無いこと。
+j	無理	無理	cannot, impossible, incap…
+j	無生	無生	物事は空であるため、なにも生ずることも滅することも…
+j	無産	無産	定職が無いこと。また、そのような人。
+j	無用	無用	useless
+j	無畏	無畏	畏れることがないこと。
+j	無異	無異	無事で異常がないこと。
+j	無疆	無疆	限り無いこと。また、そのさま。無限。
+j	無病	無病	in sound health, free fro…
+j	無痛	無痛	painless
+j	無益	無益	useless, futile, pointless
+j	無相	無相	姿・形の無いこと。
+j	無着	無着	一切の物事に執着しないこと。無執。
+j	無瞋	無瞋	憎しみのないこと。欲望の対象を捨てること。五位七十…
+j	無知	無知	ignorant
+j	無碍	無碍	（元は仏教語）何ら妨げるものなく、自由である様。
+j	無礙	無礙	（元は仏教語）何ら妨げるものなく、自由である様。
+j	無礼	無礼	impolite, rude
+j	無私	無私	unselfish; disinterested
+j	無税	無税	税金がないこと。課税されないこと。
+j	無稽	無稽	拠り所がないこと。根拠がないこと。
+j	無窓	無窓	（畜舎・鶏舎などに）窓が無いこと。
+j	無窮	無窮	infinity
+j	無策	無策	nonresponsive, do-nothing
+j	無算	無算	計算ができないこと。
+j	無粋	無粋	boorish; inelegant; taste…
+j	無精	無精	めんどくさがって物事を怠けること。
+j	無糖	無糖	the state of being sugar-…
+j	無終	無終	終わりがないこと。果てしないこと。
+j	無経	無経	狂言の演目「布施無経」、「目無経」の略。
+j	無給	無給	unpaid
+j	無線	無線	wireless
+j	無縁	無縁	縁がないこと。関係ないこと。
+j	無罪	無罪	innocence
+j	無罰	無罰	欲求が通らないとき、自分も他人も責めず、つじつまを…
+j	無聊	無聊	bored
+j	無職	無職	being unemployed
+j	無能	無能	incompetent, untalented
+j	無腰	無腰	刀剣をつけていないこと。丸腰。
+j	無臭	無臭	being odorless, unscented
+j	無興	無興	興がさめること。
+j	無色	無色	being colourless, colourl…
+j	無芸	無芸	これといった技芸を身に付けていないこと。また、その…
+j	無茶	無茶	absurd, nonsensical, unre…
+j	無菌	無菌	細菌が存在しないこと。また、そのような状態。
+j	無菜	無菜	副食物が無いまたは少ないこと。
+j	無蓋	無蓋	覆いとなる屋根が無いこと。
+j	無血	無血	血が無いこと。血が出ないこと。
+j	無表	無表	他人にしめすことのできない状態を表す言葉。業の状態…
+j	無見	無見	The conviction or strong …
+j	無視	無視	ignoring, neglect
+j	無言	無言	silence; not speaking
+j	無記	無記	釈迦が他の思想家が出した形而上学的な質問に沈黙して…
+j	無論	無論	no doubt, naturally, of c…
+j	無謀	無謀	rash; reckless
+j	無謬	無謬	思考や判断に誤り・誤謬がないこと。事実として誤謬が…
+j	無識	無識	知識・見識の無いこと。
+j	無象	無象	雑多なつまらない人やもの。
+j	無貪	無貪	貪りのないこと。五位七十五法の心所法のうち、大善地…
+j	無賃	無賃	賃料、料金がかからないこと。
+j	無趾	無趾	adactylism; adactyly, the…
+j	無辜	無辜	sinlessness, blamelessnes…
+j	無辺	無辺	広大で果てしないこと。また、そのようなさま。
+j	無道	無道	行いが道理に外れていること。
+j	無配	無配	無配当。
+j	無釉	無釉	釉を使わない陶器。
+j	無量	無量	immeasurable
+j	無鉛	無鉛	unleaded
+j	無銘	無銘	unsigned
+j	無銭	無銭	without money; no money
+j	無錫	無錫	Wuxi (a prefecture-level …
+j	無間	無間	絶え間ないこと。ひっきりなしであること。
+j	無闇	無闇	reckless, rash, unthinking
+j	無限	無限	unlimited, infinite, endl…
+j	無雙	無雙	
+j	無難	無難	inoffensive; safe; free f…
+j	無電	無電	無線電信や無線電話の略。
+j	無音	無音	silent, soundless
+j	無頗	無頗	無偏。
+j	無頼	無頼	scoundrelly
+j	無題	無題	no title
+j	無類	無類	peerless; unrivalled
+j	無風	無風	calm (period without wind)
+j	無駄	無駄	useless, pointless; meani…
+j	無骨	無骨	礼儀や作法を知らないこと。無作法。
+j	牡丹	牡丹	a peony, especially the C…
+j	牡熊	牡熊	male bear
+j	牡牛	牡牛	bull, male cow, ox
+j	牡犬	牡犬	a male dog
+j	牡虎	牡虎	male tiger
+j	牡蠣	牡蠣	oyster (edible)
+j	牡馬	牡馬	male horse
+j	牡鹿	牡鹿	a stag; a buck
+j	狡い	狡い	
+j	狡商	狡商	狡猾な商人。
+j	狡捷	狡捷	狡くてすばしこい。
+j	狡智	狡智	狡い知恵。悪知恵。
+j	狡猾	狡猾	craftiness
+j	狡獪	狡獪	悪賢く狡いこと。また、そのようなさま。
+j	狡知	狡知	狡い知恵。悪知恵。
+j	狡童	狡童	ずるがしこい子供。
+j	狡計	狡計	crafty trick; clever sche…
+j	痡毒	痡毒	毒害。
+j	瘡毒	瘡毒	synonym of 梅毒 (baidoku, “…
+j	瘡痕	瘡痕	切り傷の傷痕。
+j	瘡瘢	瘡瘢	傷跡。創痕。
+j	瘡腫	瘡腫	腫れ物。出来物。
+j	瘡蓋	瘡蓋	scab
+j	癡呆	癡呆	精神の働きが弱く呆けていること。
+j	癡言	癡言	思慮のないいい加減な言葉。戯言。
+j	癡闇	癡闇	「痴闇」の別表記。
+j	睡仙	睡仙	眠り上手。
+j	睡兀	睡兀	疲れて寝ること。
+j	睡味	睡味	寝心地。睡興。
+j	睡夢	睡夢	睡眠中に見る夢。
+j	睡姦	睡姦	相手の意識がない状態で性行為に及ぶこと。
+j	睡寐	睡寐	眠ること。睡眠。
+j	睡癖	睡癖	居眠りをする癖。
+j	睡眠	睡眠	sleep
+j	睡眼	睡眼	眠気の眼。
+j	睡瞼	睡瞼	眠って閉ざしている瞼。
+j	睡臥	睡臥	横になり睡眠をとること。
+j	睡興	睡興	睡味。寝心地。
+j	睡蓮	睡蓮	a water lily
+j	睡覚	睡覚	眠りから覚めること。
+j	睡語	睡語	寝言。
+j	睡郷	睡郷	夢の中の世界。夢の中。
+j	睡酣	睡酣	ぐっすりと寝込むこと。
+j	睡雁	睡雁	眠っている雁。
+j	睡雨	睡雨	宵越しの雨。
+j	睡響	睡響	鼾。
+j	睡魔	睡魔	"devil of sleepiness": (f…
+j	睡鳧	睡鳧	眠る鴨。
+j	睡鴨	睡鴨	香炉。
+j	禡旗	禡旗	禡牙。
+j	禡牙	禡牙	行軍の地で行う軍礼。
+j	管下	管下	役所などで管轄する範囲や区域の内部であること。管内。
+j	管内	管内	管轄や管区の内部。
+j	管制	管制	control by the state in r…
+j	管区	管区	jurisdiction
+j	管外	管外	管轄する区域の外。
+j	管子	管子	Guanzi
+j	管弦	管弦	wind and string instrumen…
+j	管掌	管掌	自分の管轄の仕事として責任を持ち取り扱うこと。
+j	管束	管束	束縛すること。抑圧すること。
+j	管状	管状	管のような形状。
+j	管理	管理	management, control; stew…
+j	管窺	管窺	見識や視野が狭いこと。
+j	管絃	管絃	管楽器と弦楽器。
+j	管翰	管翰	筆。
+j	管見	管見	（竹の管を通してみるように）見識が狭いこと。
+j	管財	管財	receivership
+j	管足	管足	棘皮動物の体表から突出している細い管状の器官。
+j	管路	管路	duct, pipe conduit, pipel…
+j	管轄	管轄	jurisdiction
+j	管鍼	管鍼	鍼の治療で鍼を管の中に通して使用するもの。
+j	管長	管長	宗教団体の最高指導者、責任者。
+j	管領	管領	（かんりょう、かんれい）領有し支配すること。
+j	簡便	簡便	handy
+j	簡保	簡保	「簡易保険（簡易生命保険）」の略。
+j	簡勁	簡勁	文章などが簡潔で力強いこと。
+j	簡単	簡単	easy
+j	簡宿	簡宿	「簡易宿所（簡易宿泊所）」の略。
+j	簡忽	簡忽	なおざりなこと。疎かなこと。
+j	簡抜	簡抜	選り抜くこと。
+j	簡択	簡択	（かんたく）えらぶこと。
+j	簡捷	簡捷	簡単で素早く行えること。
+j	簡明	簡明	terse (of a concise style…
+j	簡易	簡易	simple, easy
+j	簡札	簡札	文字を書き記す木や竹の札。
+j	簡派	簡派	人選のうえ派遣すること。
+j	簡潔	簡潔	concise, brief
+j	簡牒	簡牒	簡礼。略礼。
+j	簡牘	簡牘	document
+j	簡略	簡略	simple
+j	簡短	簡短	つくり･構成が込み入っておらず単純であるさま。
+j	簡約	簡約	concise, abridged
+j	簡素	簡素	simple, plain
+j	簡薄	簡薄	微薄なこと。また、そのようなさま。
+j	簡裁	簡裁	簡易裁判所の略。
+j	簡要	簡要	簡単で要領を得ていること。
+j	簡閲	簡閲	選んで調べること。
+j	紡ぐ	紡ぐ	to spin, to make yarn
+j	紡機	紡機	「紡績機械」の略。
+j	紡毛	紡毛	糸を紡ぐこと。
+j	紡糸	紡糸	糸をつむぐこと。また、その糸。
+j	紡績	紡績	thread spinning
+j	紡織	紡織	spinning and weaving
+j	紡纑	紡纑	麻糸を紡ぐこと。
+j	紡車	紡車	糸車。
+j	紡錘	紡錘	spindle
+j	絡む	絡む	to become entangled with
+j	絡車	絡車	糸を巻き取る車。
+j	繡坐	繡坐	繡席。
+j	繡扇	繡扇	刺繍の入った扇。
+j	繡花	繡花	花の模様の刺繍。
+j	翡翠	翡翠	jade (gem)
+j	聡い	聡い	clever, keen, smart, quic…
+j	聡之	聡之	a male given name
+j	聡子	聡子	a female given name
+j	聡希	聡希	a male given name
+j	聡彦	聡彦	a male given name
+j	聡志	聡志	a male given name
+j	聡慧	聡慧	perspicacious, clear-eyed…
+j	聡文	聡文	a male given name
+j	聡明	聡明	wise, smart, intelligent,…
+j	聡美	聡美	a female given name
+j	股下	股下	
+j	股割	股割	
+j	股引	股引	
+j	股掌	股掌	股と掌。
+j	股肉	股肉	鳥獣のももの部分の肉。腿肉。
+j	股肱	股肱	right-hand man; trusted a…
+j	股部	股部	股の部分。
+j	股間	股間	crotch (area between the …
+j	胡乱	胡乱	suspicious looking
+j	胡人	胡人	古代中国で北方に住んだ未開の民族。
+j	胡兵	胡兵	胡の国の兵士。
+j	胡同	胡同	hutong
+j	胡地	胡地	えびすが治める土地。
+j	胡坐	胡坐	両足を前に組んで座ること。
+j	胡床	胡床	腰掛け。床几。
+j	胡座	胡座	cross-legged sitting, Ind…
+j	胡弓	胡弓	kokyū (Japanese bowed lut…
+j	胡散	胡散	strange; suspicious
+j	胡桃	胡桃	walnut, tree of genus Jug…
+j	胡椒	胡椒	pepper
+j	胡楽	胡楽	古代中国の北方民族胡から中国に伝わった音楽。
+j	胡牀	胡牀	腰掛け。床几。
+j	胡獱	胡獱	a Steller sea lion, Eumet…
+j	胡琴	胡琴	biwa; pipa
+j	胡瓜	胡瓜	cucumber
+j	胡笳	胡笳	古く胡の国の人が吹いたという葦の葉を巻いて作った笛。
+j	胡粉	胡粉	powdered calcium carbonat…
+j	胡荽	胡荽	synonym of コリアンダー (korian…
+j	胡菜	胡菜	油菜の異称。
+j	胡虜	胡虜	古代中国で北方、西方の異民族。
+j	胡蝶	胡蝶	butterfly
+j	胡語	胡語	胡人の言葉。
+j	胡豆	胡豆	「豌豆」の別名。
+j	胡銅	胡銅	青銅の一種。
+j	胡鬼	胡鬼	羽子板でつく羽根のついたたま。
+j	胡麻	胡麻	sesame (Sesamum indicum),…
+j	舡人	舡人	船人。
+j	葡和	葡和	ポルトガル語と日本語。
+j	葡国	葡国	Portugal (a country in Eu…
+j	葡萄	葡萄	grape, grapevine
+j	葡訳	葡訳	ポルトガル語に訳すこと。また、その文章。
+j	葡語	葡語	Portuguese language
+j	蜡節	蜡節	蜡祭の会飲。
+j	蠡測	蠡測	法螺貝で海水を汲んで測ること。
+j	蠡結	蠡結	螺旋状の髪型。
+j	蠡酌	蠡酌	瓢半分の酌で水を汲むこと。
+j	衡器	衡器	物の重量をはかるための器具。はかり。
+j	衡平	衡平	釣合のとれていること、釣り合うようにすること。
+j	衡縦	衡縦	縦横。
+j	衡軛	衡軛	牛車のくびき。
+j	衡量	衡量	秤かけて重さや嵩を量ること。
+j	衡門	衡門	門柱の上部に冠木を渡した門。冠木門。
+j	誡勅	誡勅	戒勅の異表記。
+j	誡告	誡告	戒め告げること。
+j	誡飭	誡飭	戒勅の異表記。
+j	諡号	諡号	posthumous name
+j	諡法	諡法	諡をつける方法。
+j	諡聖	諡聖	聖人の称号を諡ること。
+j	謡曲	謡曲	a noh song
+j	謡言	謡言	噂。風説。流言。
+j	謡謳	謡謳	歌。
+j	象る	象る	to make a shape of, to mo…
+j	象亀	象亀	a giant tortoise
+j	象兵	象兵	軍象（戦象）を用いた戦術を行う兵種。
+j	象声	象声	漢字の造字法である六書のひとつ。関係する事物の意味…
+j	象外	象外	俗世を超越した世界。
+j	象嵌	象嵌	zogan, damascening, marqu…
+j	象形	象形	pictogram, particularly i…
+j	象徴	象徴	symbol
+j	象数	象数	易で卦に表れる形と数理。
+j	象棋	象棋	
+j	象牙	象牙	ivory
+j	象眼	象眼	金属、陶磁器、木材などに模様を彫り、金、銀などを嵌…
+j	象胥	象胥	古代中国で通訳の官吏。
+j	象虫	象虫	a weevil
+j	象限	象限	quadrant (region of the C…
+j	象隊	象隊	象に騎乗した隊。騎象隊。
+j	財利	財利	財物と利益。
+j	財力	財力	financial power, means; a…
+j	財務	財務	financial affairs; dealin…
+j	財団	財団	foundation
+j	財團	財團	財団の旧字体表記。
+j	財委	財委	財と米穀。
+j	財宝	財宝	財貨と宝物。宝。
+j	財布	財布	a container for one's mon…
+j	財形	財形	「勤労者財産形成貯蓄制度」の略。
+j	財投	財投	財政投融資。
+j	財択	財択	選択すること。
+j	財政	財政	finance, financial admini…
+j	財源	財源	financial resources, fund…
+j	財物	財物	property; valuables
+j	財産	財産	property, fortune, riches
+j	財界	財界	world of finance
+j	財相	財相	日本の財務大臣のこと。
+j	財神	財神	中華圏で財福を司るとされる神。複数の神がおり、武財…
+j	財福	財福	財産と幸福。
+j	財経	財経	財政と経済。
+j	財貨	財貨	有益な金品や物品のこと。
+j	財賦	財賦	財貨
+j	財閥	財閥	zaibatsu (a large busines…
+j	賡唱	賡唱	唱酬。
+j	賡歌	賡歌	他に続いて歌うこと。
+j	賡酬	賡酬	詩歌を互いに贈り合うこと。
+j	跡地	跡地	site of a demolished buil…
+j	踡焉	踡焉	屈まること。
+j	躡手	躡手	軽快。
+j	躡虚	躡虚	空を行くこと。
+j	躡跟	躡跟	踏むこと。
+j	轡虫	轡虫	giant katydid, Mecopoda n…
+j	逡巡	逡巡	hesitation, indecision, w…
+j	遡る	遡る	go back, extend back (in …
+j	遡上	遡上	going upstream
+j	遡及	遡及	retroactivity
+j	遡求	遡求	（法律）手形や小切手の満期支払日途過など、支払適状…
+j	遡江	遡江	川を遡上して行くこと。
+j	遡源	遡源	源に遡ること。
+j	遡航	遡航	船舶で水流を遡上して行くこと。
+j	遡行	遡行	水流を遡上して行くこと。
+j	郡代	郡代	室町時代は守護代のこと。
+j	郡令	郡令	郡長が発する行政命令。
+j	郡会	郡会	a district assembly/legis…
+j	郡内	郡内	その郡の区域。
+j	郡制	郡制	律令制において令制国の下におかれた郡に関する制度。
+j	郡区	郡区	郡と区。
+j	郡史	郡史	郡の歴史。また、それについて扱った書籍。
+j	郡司	郡司	律令制のもとで国司の下に置かれた地方行政の職。四等…
+j	郡営	郡営	郡（郡役所が存在した時代または日本以外の郡）が運営…
+j	郡国	郡国	中国漢代の地方行政組織。
+j	郡外	郡外	その郡以外の場所。
+j	郡守	郡守	郡の長。
+j	郡山	郡山	a city in Fukushima Prefe…
+j	郡市	郡市	地方行政区分における郡と市。
+j	郡庁	郡庁	かつての郡役所、または日本国外の郡の業務を行う役所。
+j	郡旗	郡旗	郡を象徴する旗。
+j	郡歌	郡歌	郡の象徴として歌われる歌。
+j	郡立	郡立	郡（郡役所が存在した時代または日本以外の郡）が設立…
+j	郡符	郡符	郡の印璽。
+j	郡花	郡花	郡を代表するものとして選定された花。
+j	郡蝶	郡蝶	郡を代表するものとして選定された蝶。
+j	郡衙	郡衙	律令制において郡司が政務を執った役所。
+j	郡議	郡議	郡（郡役所が存在した時代または日本以外の郡）の議会…
+j	郡道	郡道	郡（郡役所が存在した時代または日本以外の郡）が管理…
+j	郡部	郡部	郡に属する地域。
+j	郡都	郡都	郡の役所が置かれていた都市。
+j	郡長	郡長	かつての制度（郡制）で郡の行政を司った長官。
+j	郡領	郡領	律令制における郡司の大領と少領の総称。
+j	郡鳥	郡鳥	郡を代表するものとして選定された鳥。
+j	鏡像	鏡像	mirror image
+j	鏡匣	鏡匣	鏡など化粧道具を入れる箱。
+j	鏡台	鏡台	化粧などのため鏡を立てるように取り付けた台。
+j	鏡子	鏡子	a female given name
+j	鏡心	鏡心	鏡の中心。
+j	鏡架	鏡架	鏡をのせる台。鏡台。
+j	鏡水	鏡水	清澄な水。
+j	鏡筒	鏡筒	カメラや望遠鏡などでレンズを取り付け、焦点を合わせ…
+j	鏡胴	鏡胴	カメラや望遠鏡などでレンズを取り付ける筒状の部分。…
+j	鏡誡	鏡誡	明戒。
+j	鏡銅	鏡銅	合金（青銅）の一種。銅と錫の割合が2:1で、非常に…
+j	鏡鑑	鏡鑑	金属でできたかがみ。
+j	鏡面	鏡面	鏡の表面。
+j	鏡餅	鏡餅	a set of rice cakes for t…
+j	閡蔵	閡蔵	閉ざしてなおすこと。
+j	闡提	闡提	仏を信じない人の意。本来解脱の因を欠き、到底、成仏…
+j	闡明	闡明	explanation
+j	闡証	闡証	明かすこと。
+j	阡陌	阡陌	南北の道と東西の道。道が交差する場所。
+j	靡く	靡く	flutter, stream in wind o…
+j	靡屑	靡屑	非常に細かい粉やくず。
+j	靡然	靡然	旗などがなびくさま。配下としてなびき従うさま。
+j	靡顔	靡顔	きめの細かな顔。
+j	靡麗	靡麗	華やかで美しく、また贅沢なこと。また、そのようなさ…
+j	頡頏	頡頏	勢力がほぼ等しいもの同士が、互いに対抗して張り合っ…
+j	餡子	餡子	adzuki bean paste
+j	餡蜜	餡蜜	syrup-covered anko (bean …
+j	餡餅	餡餅	anmochi: mochi (a dough m…
+j	餡饅	餡饅	bun with azuki bean paste…
+j	髡刑	髡刑	髪を切る刑罰。剃髪刑。
+j	髡刖	髡刖	髡刑と足切り。
+j	鶡雞	鶡雞	山鳥。
+j	鶡鶏	鶡鶏	鶡雞の別表記。
+k	가격	価格	monetary price
+k	가치	価値	value
+k	간소	簡素	simplicity, frugality, ho…
+k	간체	簡体	Simplified Chinese
+k	간체	簡體	Simplified Chinese
+k	경성	鏡城	Seoul
+k	계명	誡命	commandment
+k	고비	股腓	crisis, critical moment
+k	과거	寡居	the past
+k	과두	寡頭	oligarch
+k	과부	寡婦	widow
+k	과점	寡占	
+k	관로	管路	duct, pipe conduit, pipel…
+k	관리	管理	administration, managemen…
+k	관할	管轄	jurisdiction
+k	광구	匡救	photosphere
+k	교가	校歌	The official song or anth…
+k	교복	校服	school uniform (the unifo…
+k	교사	校舍	a teacher, the profession…
+k	교사	校舎	a teacher, the profession…
+k	교외	校外	suburb; outskirts
+k	교장	校長	the principal or head tea…
+k	교정	校正	proofreading
+k	군민	郡民	monarch and people
+k	군비	郡費	armament (arms collective…
+k	군왕	郡王	king, sovereign
+k	낙제	絡蹄	failure (in an examinatio…
+k	냥반	両班	husband, man, mister
+k	담수	淡水	'민물'.
+k	담자	淡姿	fur mattress
+k	담황	淡黃	light yellow
+k	담황	淡黄	light yellow
+k	도강	渡江	crossing a river
+k	량반	両班	North Korea standard spel…
+k	리스크 관리	管理	
+k	망령	亡霊	spirit, soul
+k	망령	亡靈	spirit, soul
+k	망명	亡命	asylum; exile
+k	망신	亡身	humiliation; disgrace; sh…
+k	모란	牡丹	peony
+k	모방	模倣	imitation
+k	모범	模範	example; role model
+k	모사	模写	copy
+k	모사	模寫	copy
+k	모식	模式	type
+k	모양	模様	surface appearance
+k	모양	模樣	surface appearance
+k	모형	模型	model
+k	모형	模様	model
+k	모형	模樣	model
+k	몰락	没落	downfall; collapse
+k	몰수	没収	
+k	몰약	没薬	myrrh
+k	무고	無故	peace, safety
+k	무궁	無窮	infinity, eternity
+k	무기	無機	weapon, arms
+k	무능	無能	lack of talent
+k	무려	無慮	as many as, as much as, n…
+k	무력	無力	powerlessness
+k	무례	無礼	impoliteness, rudeness, d…
+k	무례	無禮	impoliteness, rudeness, d…
+k	무료	無料	free, at no cost, free of…
+k	무료	無聊	free, at no cost, free of…
+k	무리	無理	group, crowd, gang, horde
+k	무명	無名	unknown (obscure)
+k	무명	無明	unknown (obscure)
+k	무법	無法	lawlessness
+k	무사	無事	warrior
+k	무사	無死	warrior
+k	무상	無常	아무런 대가가 없음.
+k	무색	無色	being colourless
+k	무선	無線	being wireless
+k	무수	無数	innumerable quantity, cou…
+k	무수	無數	innumerable quantity, cou…
+k	무수	無水	innumerable quantity, cou…
+k	무시	無始	purposeful ignoring; disd…
+k	무시	無時	purposeful ignoring; disd…
+k	무시	無視	purposeful ignoring; disd…
+k	무심	無心	heedlessness, indifferenc…
+k	무아	無我	anatta; egolessness
+k	무용	無用	dance (especially as an a…
+k	무유	無乳	very flat chest, very und…
+k	무인	無人	uninhabited, unmanned
+k	무정	無情	heartlessness, pitilessne…
+k	무종	無終	the eternal without end
+k	무죄	無罪	innocence
+k	무진	無尽	no end; not limited
+k	무진	無盡	no end; not limited
+k	무풍	無風	풍속이 2m/s 이하로 약한 바람. 풍향을 확…
+k	무한	無限	infinity, infinitude, unl…
+k	무효	無効	
+k	무효	無效	
+k	방추	紡錘	spindle
+k	범례	凡例	introductory remarks, exp…
+k	범부	凡夫	ordinary person; mortal p…
+k	범인	凡人	criminal, offender, culpr…
+k	보루	堡塁	bastion
+k	보루	堡壘	bastion
+k	보초	堡礁	
+k	비어	鯡魚	obscenity; profanity; swe…
+k	비취	翡翠	jade (precious stone)
+k	상아	象牙	an ivory or tusk of eleph…
+k	상징	象徴	symbol
+k	상징	象徵	symbol
+k	상형	象形	pictogram, one of the six…
+k	서고	鼡姑	library (institution whic…
+k	서기	鼡技	Christian era, AD
+k	소급	遡及	applying or being done re…
+k	수련	睡蓮	water lily
+k	수면	睡眠	sleep
+k	순례	巡礼	pilgrimage
+k	순례	巡禮	pilgrimage
+k	순찰	巡察	
+k	순항	巡港	cruise (sea voyage)
+k	순항	巡航	cruise (sea voyage)
+k	시호	諡号	posthumous name
+k	시호	諡號	posthumous name
+k	신관	信管	
+k	신념	信念	belief
+k	신도	信徒	believer, disciple, follo…
+k	신뢰	信賴	trust; faith
+k	신뢰	信頼	trust; faith
+k	신앙	信仰	faith; (religious) belief
+k	신용	信用	credit, credibility, conf…
+k	신임	信任	trust
+k	신자	信者	believer
+k	신조	信条	
+k	신조	信條	
+k	신호	信号	signal; sign
+k	신호	信號	signal; sign
+k	악귀	惡鬼	evil spirit; demon; devil
+k	악녀	惡女	bad woman; evil woman; vi…
+k	악담	惡談	curse, abuse, malediction
+k	악당	惡黨	villain
+k	악덕	惡德	vice, immorality, corrupt…
+k	악동	惡童	naughty child; brat
+k	악랄	惡辣	viciousness; wickedness
+k	악력	握力	grasping power; grip
+k	악령	惡靈	evil spirit, malspecter
+k	악마	惡魔	a demon; a devil; a fiend
+k	악명	惡名	infamy
+k	악몽	惡夢	nightmare (a very bad or …
+k	악서	惡書	book that is harmful to t…
+k	악성	惡性	malignity
+k	악수	握手	handshake (grasping of ha…
+k	악습	惡習	bad habit, vice
+k	악역	惡役	villain, baddy (bad perso…
+k	악인	惡人	bad person; villain
+k	악전	惡錢	
+k	악지	惡地	badlands
+k	악취	惡臭	stink; stench
+k	악평	惡評	harsh review; bad reputat…
+k	악필	惡筆	sloppy handwriting
+k	악한	惡漢	villain
+k	악화	惡化	deterioration, degenerati…
+k	양국	両国	two countries; both count…
+k	양면	両面	two sides; both sides
+k	양반	両班	civil nobility and milita…
+k	양성	両性	positivity
+k	양자	両者	adopted son
+k	어도	御刀	a path which a school of …
+k	어도	御道	a path which a school of …
+k	어사	御史	imperial censor; in dynas…
+k	어사	御射	imperial censor; in dynas…
+k	어의	御医	sense, meaning of words; …
+k	어의	御衣	sense, meaning of words; …
+k	어의	御醫	sense, meaning of words; …
+k	예지	叡智	precognition, foreknowled…
+k	오심	惡心	nausea
+k	오열	惡熱	sobbing, wailing
+k	원수	員数	enemy
+k	원수	員數	enemy
+k	유진	楡津	Yujin Point, a cape (단) i…
+k	재계	財界	financial world
+k	재물	財物	property, belongings
+k	재벌	財閥	chaebol (a large, family-…
+k	재산	財產	public or private property
+k	재산	財産	public or private property
+k	재수	財数	study for the following y…
+k	재수	財數	study for the following y…
+k	재정	財政	finances; financial condi…
+k	재화	財貨	goods and services
+k	적자	嫡子	deficit, in the red
+k	적출	嫡出	child born in wedlock
+k	조건	条件	precondition or precondit…
+k	조례	条例	ordinance, regulation, by…
+k	조리	条理	logic, reason
+k	조약	条約	treaty; pact
+k	조항	条項	clause, article, provision
+k	차관	次官	vice minister, undersecre…
+k	차례	次例	order; sequence
+k	차수	次帥	vice marshal (a superior …
+k	차수	次数	vice marshal (a superior …
+k	차수	次數	vice marshal (a superior …
+k	차악	次悪	the lesser evil (of two b…
+k	차악	次惡	the lesser evil (of two b…
+k	차애	次愛	second favorite
+k	차원	次元	a dimension
+k	차차	次次	gradually, little by litt…
+k	채용	採用	recruitment
+k	채집	採集	collection
+k	채취	採取	collection
+k	천명	闡明	explanation, clarificatio…
+k	총명	聡明	intelligence
+k	파주	坡州	Paju (a city in Gyeonggi …
+k	포도	葡萄	grape (fruit)
+k	포어	葡語	
+k	포환	泡幻	cannonball
+k	협곡	峡谷	canyon, gorge
+k	협만	峡湾	fjord
+k	협부	峡部	isthmus
+k	호금	胡琴	huqin
+k	호밀	胡밀	rye
+k	호접	胡蝶	butterfly
+k	호초	胡椒	synonym of 후추 (huchu, “bl…
+k	확대	拡大	expansion
+k	확산	拡散	spreading; dissemination
+k	확장	拡張	extension; expansion; enl…
+k	확전	拡戦	
+k	환대	歡待	hospitality, a warm recep…
+k	환락	歡樂	pleasure
+k	환영	歡迎	welcome
+k	환호	歡呼	cheer, acclaim
+j	両利き	両利き	being ambidextrous
+j	両取り	両取り	fork
+j	両唇音	両唇音	bilabial
+j	両墓制	両墓制	遺体、遺骨を埋葬する墓と墓参、供養する墓を別に作る…
+j	両声字	両声字	漢字において、構成要素が両方とも表音の作用を持つ字。
+j	両声類	両声類	singer who can sing in bo…
+j	両天秤	両天秤	天秤。
+j	両対数	両対数	縦軸と横軸の両方が対数目盛になっているグラフ。
+j	両建て	両建て	銀行取引において、顧客の預金を担保として、資金を貸…
+j	両思い	両思い	互いの思いが通じていること。相思相愛。
+j	両性の	両性の	
+j	両性愛	両性愛	bisexuality
+j	両性的	両性的	bisexual, male and female
+j	両性説	両性説	Dyophysitism
+j	両成敗	両成敗	事のいかんを問わず、事件を起こした当事者の双方を罰…
+j	両方共	両方共	both
+j	両替商	両替商	手数料をとり貨幣の両替を商うこと。また、それを商う…
+j	両替屋	両替屋	bureau de change
+j	両棲類	両棲類	両生類の漢字制限前の表記。カエル、サンショウウオな…
+j	両極端	両極端	両方の端。
+j	両王手	両王手	一度に二つの駒でかける王手。
+j	両生類	両生類	amphibia, amphibians, amp…
+j	両眼鏡	両眼鏡	binoculars
+j	両立性	両立性	異種のものが良くなじむ性質，他者に配慮し，問題なく…
+j	両脚規	両脚規	pair of compasses
+j	両開き	両開き	左右二枚の扉が中央から分かれて開くもの。
+j	両陛下	両陛下	天皇と皇后。どちらも陛下という敬称で呼ばれることか…
+j	両院制	両院制	bicameralism (principle o…
+j	亡くす	亡くす	lose a person, suffer the…
+j	亡びる	亡びる	
+j	亡命者	亡命者	主に政治的、宗教的な迫害を避けるため他国に亡命する…
+j	価値観	価値観	values
+j	価格表	価格表	
+j	信じる	信じる	to believe
+j	信ずる	信ずる	believe, put trust in
+j	信仰心	信仰心	piety; devotion
+j	信仰的	信仰的	religious (committed to t…
+j	信任状	信任状	credentials; letter of cr…
+j	信号場	信号場	旅客や貨物を扱わず、列車の待避やすれ違いのためだけ…
+j	信号旗	信号旗	signal flag
+j	信号機	信号機	a traffic light
+j	信天翁	信天翁	an albatross, especially …
+j	信奉者	信奉者	
+j	信憑性	信憑性	credibility
+j	信濃国	信濃国	Shinano Province, a histo…
+j	信玄袋	信玄袋	布製の底が平らな袋で口を紐でしめる小物入れ。合切袋。
+j	信用性	信用性	
+j	信義則	信義則	『信義誠実の原則』の略
+j	凡ゆる	凡ゆる	
+j	凡ミス	凡ミス	basic mistake
+j	凡庸な	凡庸な	
+j	嫡出子	嫡出子	婚姻関係にある男女の間に生まれた子供。
+j	寡頭制	寡頭制	oligarchy
+j	寡黙な	寡黙な	
+j	岡山市	岡山市	岡山県の県庁所在地。
+j	岡山県	岡山県	a prefecture in the 中国 (C…
+j	岡崎屋	岡崎屋	a surname
+j	巡らす	巡らす	enclose, build a barrier …
+j	巡洋艦	巡洋艦	a cruiser (class of warsh…
+j	巡礼者	巡礼者	
+j	巡視船	巡視船	海上保安庁が海上警備の際に使う大型の船舶。
+j	巡視艇	巡視艇	海上保安庁が海上警備の際に使う小型の船舶。
+j	御する	御する	to control, to manage, to…
+j	御の字	御の字	とても結構なもの。最上なもの。
+j	御一新	御一新	Meiji Restoration
+j	御三家	御三家	the most noble three bran…
+j	御三時	御三時	afternoon refreshment (at…
+j	御下げ	御下げ	pigtails worn over the sh…
+j	御不浄	御不浄	toilet
+j	御世辞	御世辞	人を喜ばせるために実態以上によく言うほめことば。世…
+j	御主人	御主人	「主人」の尊敬語。
+j	御仏供	御仏供	an offering to Buddha (us…
+j	御仏前	御仏前	「仏前」を丁寧に言う語。
+j	御供物	御供物	「供物」を丁寧に言う語。
+j	御利益	御利益	answer to a prayer, divin…
+j	御前様	御前様	大名、高家、高官に対する尊敬語。
+j	御台所	御台所	「御台盤所」の略。御台。
+j	御台盤	御台盤	飯や食事を言う女房詞。御台。
+j	御史台	御史台	後漢から宋の時代まで置かれた官吏を監察する官庁。
+j	御呪い	御呪い	
+j	御器噛	御器噛	「ごきぶり」の別名。
+j	御団子	御団子	「団子」を丁寧に言う語。
+j	御園生	御園生	a surname
+j	御多分	御多分	大多数の人が従うような意見や行動。
+j	御子柴	御子柴	a surname
+j	御存じ	御存じ	「存じ（知っていること）」の丁寧語。御承知。お知り…
+j	御家人	御家人	a vassal, (particularly) …
+j	御寮人	御寮人	商家の若奥さん。主人の妻、又は大旦那の娘。「旦さん…
+j	御尤も	御尤も	もっともを丁寧に言う語。
+j	御崎馬	御崎馬	Misaki; a type of horse n…
+j	御巡り	御巡り	
+j	御府内	御府内	江戸時代、江戸市中で江戸町奉行が支配した範囲。
+j	御座す	御座す	to come
+j	御座成	御座成	in a perfunctory manner
+j	御座敷	御座敷	「座敷」を丁寧に言う語。
+j	御座楽	御座楽	uzagaku, court music of t…
+j	御庭番	御庭番	A group of onmitsu, gover…
+j	御弁当	御弁当	「弁当」を丁寧に言う語。
+j	御影石	御影石	granite
+j	御御籤	御御籤	a random fortune, often w…
+j	御惣菜	御惣菜	「惣菜」を丁寧に言う語。御総菜。
+j	御愛想	御愛想	相手に対する心遣い。もてなし。
+j	御手元	御手元	chopsticks
+j	御手本	御手本	「手本」を丁寧に言う語。
+j	御手洗	御手洗	purifying water at the en…
+j	御手許	御手許	chopsticks
+j	御掃除	御掃除	「掃除」の丁寧語。
+j	御新造	御新造	下級武家の妻女。「御新造様」。口述では「ごしんぞ」…
+j	御旅所	御旅所	神社の祭礼で、神輿を臨時に安置する場所。
+j	御曹司	御曹司	esteemed son
+j	御来光	御来光	高山に登り山頂から拝む日の出。
+j	御柳擬	御柳擬	common heather, Calluna v…
+j	御機嫌	御機嫌	「機嫌」を丁寧に言う語。
+j	御正月	御正月	「正月」を丁寧に言う語。
+j	御殿場	御殿場	Gotemba (a city in Shizuo…
+j	御母堂	御母堂	相手の母親（母堂）に対する敬語。
+j	御沙汰	御沙汰	「沙汰」を丁寧に言う語。天皇や貴顕からの指示や命令。
+j	御法度	御法度	「法度」を丁寧に言う語。
+j	御用達	御用達	官庁（とくに宮中）などに出入りし、受注したものを納…
+j	御用金	御用金	江戸時代、幕府、大名が財政不足を補てんするため、御…
+j	御田屋	御田屋	御田を提供する店、人。
+j	御破算	御破算	「破算」を丁寧に言った語。
+j	御祝儀	御祝儀	「祝儀」の丁寧語。
+j	御神木	御神木	
+j	御神酒	御神酒	sacramental sake or wine;…
+j	御粗末	御粗末	あまり上等でないことを謙遜、ひやかしなどを込めて言…
+j	御絞り	御絞り	moist hand towel
+j	御総菜	御総菜	「総菜」を丁寧に言う語。
+j	御老人	御老人	an old person
+j	御臨終	御臨終	「臨終」を丁寧に言う語。
+j	御自分	御自分	
+j	御苦労	御苦労	「苦労」の丁寧な表現。御骨折り。ご心配。
+j	御茶子	御茶子	a female usher at traditi…
+j	御菓子	御菓子	菓子を丁寧に言う語。
+j	御蔭様	御蔭様	somebody's assistance
+j	御襁褓	御襁褓	diaper
+j	御親兵	御親兵	1871年から翌年にかけて設置された天皇を護衛する…
+j	御託宣	御託宣	くどくどともったいぶって言うこと。御託。
+j	御詠歌	御詠歌	a pilgrim's hymn
+j	御越し	御越し	
+j	御辞儀	御辞儀	「辞儀」の丁寧語。
+j	御通じ	御通じ	「通じ」を丁寧に言う語。
+j	御釈迦	御釈迦	「釈迦」に対する敬称。
+j	御陀仏	御陀仏	死ぬこと。
+j	御降誕	御降誕	birth (regal)
+j	御霊前	御霊前	「霊前」を丁寧に言う語。
+j	御馳走	御馳走	treat, banquet, feast
+j	拡声器	拡声器	loudspeaker
+j	拡声機	拡声機	
+j	拡大鏡	拡大鏡	a magnifying glass
+j	拡張子	拡張子	a file extension
+j	拡張性	拡張性	
+j	拡音器	拡音器	
+j	採掘権	採掘権	鉱業権の一つで登録された一定の鉱区で鉱物を採掘し、…
+j	採石場	採石場	
+j	採算性	採算性	profitability
+j	採精室	採精室	
+j	握り拳	握り拳	clenched fist
+j	握り鋏	握り鋏	one-piece scissors; Japan…
+j	握力計	握力計	握力を計測するための器械。
+j	握手会	握手会	handshake event (event wh…
+j	握手券	握手券	ticket that enables a vis…
+j	条件法	条件法	
+j	条約港	条約港	条約によって開かれた港。特に日米修好通商条約によっ…
+j	枡記号	枡記号	The symbol 〼.
+j	校務員	校務員	a janitor (of a school)
+j	校友会	校友会	学生同士の親睦を深める団体。
+j	校正刷	校正刷	「校正刷り」の異表記。
+j	校長室	校長室	校長が執務を行う専用の部屋。
+j	模する	模する	imitate, pattern after
+j	模倣品	模倣品	広く何かを模倣した品物。
+j	模倣者	模倣者	
+j	模写説	模写説	copy theory
+j	模型屋	模型屋	模型を作って売る店。
+j	模型店	模型店	模型を販売する店。
+j	模型誌	模型誌	模型に関するニュースを中心に伝える雑誌。模型雑誌。
+j	模型鉄	模型鉄	鉄道模型を趣味とする者。
+j	模型銃	模型銃	「モデルガン」を参照。
+j	模式図	模式図	事物の典型的な形式を理解しやすいように図式的に示し…
+j	模擬刀	模擬刀	日本刀を模倣して作られた刀で居合道、剣道形の稽古や…
+j	模擬店	模擬店	学園祭などで一時的に商品を販売するために、商店に似…
+j	模範囚	模範囚	model prisoner
+j	模範的	模範的	模範とすべきほどすぐれているさま。
+j	模造刀	模造刀	日本刀を模倣して作られた刀。
+j	模造品	模造品	他のものを模倣してつくられたもの。
+j	模造紙	模造紙	poster paper
+j	次々に	次々に	
+j	次々末	次々末	
+j	次いで	次いで	next
+j	次世代	次世代	next generation
+j	次点者	次点者	
+j	次第に	次第に	gradually, increasingly, …
+j	次高山	次高山	former name of 玉山, the 2n…
+j	没する	没する	to sink
+j	没個性	没個性	lack of personality or in…
+j	没分暁	没分暁	ものわかりが悪いこと。
+j	没食子	没食子	oak gall
+j	泡立つ	泡立つ	
+j	泡風呂	泡風呂	
+j	淡婆姑	淡婆姑	
+j	淡水化	淡水化	海水に含まれる塩分を取り除いて淡水を得ること。
+j	淡水湖	淡水湖	水中に含まれる塩類の濃度が500 mg/L以下の湖。
+j	淡水魚	淡水魚	fresh water fish
+j	淡紅色	淡紅色	淡い紅色。淡紅。うすべに。
+j	淡紫色	淡紫色	淡い紫色。淡紫。
+j	淡緑色	淡緑色	
+j	淡路国	淡路国	日本の旧国（令制国）のひとつ。現在の兵庫県淡路島、…
+j	淡路島	淡路島	Awaji Island, an island i…
+j	淡黄色	淡黄色	pale yellow, lemon yellow
+j	渡し船	渡し船	ferry, ferryboat
+j	渡り者	渡り者	
+j	渡り鳥	渡り鳥	a bird of passage; a migr…
+j	渡り鴉	渡り鴉	
+j	渡世人	渡世人	博徒。ばくちうち。やくざもの。
+j	渡島国	渡島国	令制国の一つ。1869年に北海道に設置。概ね現在の…
+j	渡来人	渡来人	a foreigner who crossed t…
+j	渡船場	渡船場	渡し船が発着する場所。わたしば。
+j	濡らす	濡らす	to get something wet, to …
+j	濡れた	濡れた	
+j	濡れる	濡れる	get wet
+j	濡れ場	濡れ場	sex scene (segment in a m…
+j	濡れ性	濡れ性	
+j	濡れ手	濡れ手	wet hands
+j	濡れ衣	濡れ衣	wet clothes
+j	濡れ鼠	濡れ鼠	completely soaked
+j	濡羽色	濡羽色	jet-black
+j	無くす	無くす	to lose (something)
+j	無キャ	無キャ	個性に乏しく無気力な者。
+j	無一文	無一文	pennilessness
+j	無一物	無一物	ものを一切有していないこと。また、失うこと。
+j	無下に	無下に	冷淡なさま。
+j	無主地	無主地	どの国も領有権を主張していない土地。
+j	無主物	無主物	所有する者がいないもの。
+j	無事な	無事な	
+j	無事に	無事に	
+j	無二の	無二の	
+j	無人の	無人の	
+j	無人島	無人島	desert island (uninhabite…
+j	無人機	無人機	UAV, unmanned aerial vehi…
+j	無人駅	無人駅	unstaffed train station; …
+j	無何有	無何有	a state of pure naturalit…
+j	無作法	無作法	ill-mannered, rude
+j	無作為	無作為	random (sampling)
+j	無価値	無価値	価値がないこと。何の利益も生み出さないこと。
+j	無保険	無保険	保険に入っていないこと。保険の適用を受けていないこ…
+j	無修正	無修正	being uncensored, unalter…
+j	無傷の	無傷の	
+j	無免許	無免許	（本来取得すべき）免許を持っていないこと。免許を受…
+j	無党派	無党派	independence, nonpartisan…
+j	無冠詞	無冠詞	
+j	無分別	無分別	分別がないこと。思慮が足りないこと。
+j	無利子	無利子	利子が付かないこと。また、利子を付けないこと。
+j	無制限	無制限	unlimited, unrestricted
+j	無力な	無力な	
+j	無力化	無力化	
+j	無力感	無力感	feeling of powerlessness
+j	無効な	無効な	
+j	無効化	無効化	
+j	無勝負	無勝負	勝負がつかないこと。ひきわけ。勝負なし。
+j	無原罪	無原罪	
+j	無口な	無口な	
+j	無名な	無名な	
+j	無名の	無名の	
+j	無名指	無名指	synonym of 薬指: ring finger
+j	無名数	無名数	無次元量を表す数。
+j	無名氏	無名氏	anonymous person or author
+j	無問題	無問題	no problem
+j	無器用	無器用	「不器用」を参照。
+j	無器量	無器量	器量（才知や能力）がないこと。
+j	無国籍	無国籍	statelessness, the condit…
+j	無垢材	無垢材	一本の原木から直接必要な寸法に切り出した木材。
+j	無垢衣	無垢衣	(煩悩のない者（=無垢）が着ることから)「袈裟」の…
+j	無声音	無声音	voiceless sound
+j	無学の	無学の	
+j	無宗教	無宗教	no religious affiliation
+j	無害な	無害な	
+j	無宿の	無宿の	
+j	無尽庫	無尽庫	無限にあるのではないかと思わせるほど多くの資源があ…
+j	無尽蔵	無尽蔵	いくら取っても尽きないほど、たくさん有ること。
+j	無尽講	無尽講	「頼母子講」を参照。
+j	無尾目	無尾目	《分類学》 カエル目の、かつての標準和名、現在の異…
+j	無尾類	無尾類	無尾目に分類される両生類の総称。
+j	無差別	無差別	indiscriminate
+j	無形の	無形の	
+j	無彩色	無彩色	achromatic color
+j	無思慮	無思慮	思慮が足らないこと。また、そのようなさま。
+j	無性に	無性に	very much for no particul…
+j	無性の	無性の	
+j	無患子	無患子	Indian soapberry, Sapindu…
+j	無情な	無情な	
+j	無想定	無想定	心の活動作用を止息させる瞑想。無意識にまで至るほど…
+j	無想果	無想果	無想定を修することによって達する境地。無想天に生ま…
+j	無意味	無意味	meaningless
+j	無意義	無意義	meaningless
+j	無意識	無意識	unconscious
+j	無愛想	無愛想	in an unfriendly manner
+j	無感動	無感動	apathetic
+j	無感覚	無感覚	感覚がない状態。また、そのようなさま。
+j	無慈悲	無慈悲	merciless; ruthless
+j	無所属	無所属	independent, especially o…
+j	無承認	無承認	本来取得すべき承認が出ていない、または承認を受けて…
+j	無抵抗	無抵抗	抵抗（反抗）しないこと。また、そのようなさま。
+j	無政府	無政府	anarchy
+j	無教養	無教養	教養が備わっていないこと。また、そのようなさま。
+j	無数な	無数な	
+j	無数の	無数の	
+j	無敵の	無敵の	
+j	無料で	無料で	
+j	無暗に	無暗に	unreasonably
+j	無月経	無月経	amenorrhoea
+j	無期限	無期限	期限を設定していないこと。
+j	無条件	無条件	absolute, unconditional
+j	無案内	無案内	「不案内」に同じ。
+j	無條件	無條件	無条件の旧字体表記。
+j	無機物	無機物	炭素を含まない化合物及び二酸化炭素等一部の炭素化合…
+j	無機質	無機質	dietary minerals; inorgan…
+j	無欠の	無欠の	
+j	無毒な	無毒な	
+j	無気力	無気力	気力、やる気が無いこと。また、そのようなさま。
+j	無気味	無気味	
+j	無気音	無気音	破裂音・破擦音のうち、破裂の際に息だけの音を伴わな…
+j	無水物	無水物	anhydride
+j	無汗症	無汗症	汗を全くかくことができない症状。
+j	無沙汰	無沙汰	not contacting for a whil…
+j	無法な	無法な	
+j	無法者	無法者	法律や秩序に従わず犯罪をする人。乱暴者。非道者。無…
+j	無洗米	無洗米	no-wash rice; pre-washed …
+j	無添加	無添加	添加物を使用していないこと。
+j	無灯火	無灯火	夜間に自動車がライトを点灯せずに走行していること。
+j	無煙炭	無煙炭	anthracite
+j	無理だ	無理だ	
+j	無理な	無理な	
+j	無理数	無理数	an irrational number
+j	無理解	無理解	理解がないこと。相手の気持ちに対し理解を示さないこ…
+j	無生の	無生の	
+j	無生物	無生物	inanimate/non-living/inor…
+j	無用な	無用な	
+j	無症状	無症状	not showing symptoms; bei…
+j	無登録	無登録	登録をしていないこと。登録を受けていないこと。
+j	無益の	無益の	
+j	無知な	無知な	
+j	無礼な	無礼な	
+j	無礼講	無礼講	an unceremonious party, a…
+j	無神経	無神経	inconsiderate; insensitive
+j	無神論	無神論	atheism
+j	無秩序	無秩序	秩序がないこと。また、そのようなさま。
+j	無窮花	無窮花	synonym of 木槿 (mukuge, “H…
+j	無精者	無精者	slob, slouch (lazy, slove…
+j	無精髭	無精髭	
+j	無給医	無給医	unpaid doctor
+j	無線局	無線局	radio station
+j	無線機	無線機	radio; transceiver
+j	無縁な	無縁な	
+j	無縁仏	無縁仏	decedent without carers
+j	無縁墓	無縁墓	継承する管理者のいなくなった墓。無縁塚。
+j	無縫塔	無縫塔	主に禅宗の僧の墓で使用される卵の形をした墓石。卵塔。
+j	無罪な	無罪な	
+j	無罰的	無罰的	欲求が通らないとき、自分も他人も責めず、つじつまを…
+j	無能な	無能な	
+j	無能力	無能力	何かをする能力がないこと。
+j	無脂肪	無脂肪	fat free
+j	無脊椎	無脊椎	脊柱や脊椎がないこと。
+j	無脾症	無脾症	asplenia
+j	無自覚	無自覚	oblivious (unaware), unmi…
+j	無色の	無色の	
+j	無花果	無花果	common fig, Ficus carica
+j	無茶な	無茶な	
+j	無菌の	無菌の	
+j	無表情	無表情	expressionless
+j	無表業	無表業	行為者の内面に潜み他から認知されないような行為（業…
+j	無表色	無表色	行為者の内面に潜み他から認知されないような行為。五…
+j	無観客	無観客	観客を入れずに試合を行うこと。
+j	無言の	無言の	
+j	無言歌	無言歌	song without words
+j	無言症	無言症	mutism
+j	無計画	無計画	計画の無いこと。また、計画のないまま行う様子。
+j	無記載	無記載	
+j	無許可	無許可	本来取得すべき許可が出ていない、または許可を受けて…
+j	無認可	無認可	本来取得すべき認可が出ていない、または認可を受けて…
+j	無課金	無課金	金銭を課金しないこと。
+j	無謬の	無謬の	
+j	無責任	無責任	irresponsibility
+j	無資格	無資格	資格を持っていないこと。資格を受けていないこと。
+j	無軌道	無軌道	軌道がないこと。
+j	無造作	無造作	easy
+j	無過失	無過失	過失がないこと。
+j	無遠慮	無遠慮	遠慮がないさま。無作法なさま。
+j	無邪気	無邪気	innocent
+j	無配当	無配当	not paying dividend
+j	無重力	無重力	weightlessness
+j	無重量	無重量	weightlessness
+j	無鉄砲	無鉄砲	rash; reckless
+j	無関係	無関係	irrelevant, unrelated
+j	無関心	無関心	indifferent
+j	無防備	無防備	defenseless
+j	無限に	無限に	
+j	無限の	無限の	
+j	無限大	無限大	infinitely large
+j	無限小	無限小	infinitesimal
+j	無難な	無難な	
+j	無震帯	無震帯	長期に亘り大地震が発生しておらず、地震が切迫してい…
+j	無音の	無音の	
+j	無頓着	無頓着	careless, indifferent, ca…
+j	無頼漢	無頼漢	無頼な男性。ならずもの。
+j	無風の	無風の	
+j	無駄口	無駄口	meaningless prattle
+j	無駄話	無駄話	chatter, idle talk
+j	無駄足	無駄足	pointless outing
+j	無鰓類	無鰓類	
+j	牡丹峰	牡丹峰	Moranbong (a hill in Pyon…
+j	牡丹江	牡丹江	
+j	牡丹皮	牡丹皮	dried root-bark of Paeoni…
+j	牡丹蔓	牡丹蔓	Clematis apiifolia
+j	牡丹雪	牡丹雪	雪の結晶が多く付着しあい、大きな雪片となって降る雪。
+j	牡丹餅	牡丹餅	botamochi, a Japanese swe…
+j	牡牛座	牡牛座	
+j	牡羊座	牡羊座	黄道十二星座の第1星座。秋から冬にかけて見られる。…
+j	牡蠣油	牡蠣油	oyster sauce
+j	牡驢馬	牡驢馬	
+j	狡猾な	狡猾な	
+j	瘡の王	瘡の王	
+j	睡眠相	睡眠相	睡眠のサイクル。
+j	睡眠薬	睡眠薬	sleeping pill
+j	管制塔	管制塔	air traffic control tower
+j	管制官	管制官	航空管制官の略。
+j	管弦楽	管弦楽	orchestra
+j	管楽器	管楽器	wind instrument
+j	管歯目	管歯目	《分類学》 ツチブタ目の、かつての標準和名、現在の…
+j	管状花	管状花	合弁花で、花弁が管状に合わさっている花。
+j	管理人	管理人	janitor; manager; adminis…
+j	管理官	管理官	警察の官職で担当する特定の業務を管理し、部下を指揮…
+j	管理者	管理者	administrator, manager
+j	管理職	管理職	組織において管理や監督などを行う役職。また、そのよ…
+j	管財人	管財人	
+j	簡体字	簡体字	Simplified Chinese charac…
+j	簡化字	簡化字	Simplified Chinese charac…
+j	簡単な	簡単な	
+j	簡明な	簡明な	
+j	簡潔な	簡潔な	
+j	簡約化	簡約化	連立方程式の拡大係数行列に基本変形を施して簡約行列…
+j	簡素化	簡素化	simplification
+j	紡毛糸	紡毛糸	紡毛紡績によりつくられた短い羊毛などを含む糸。
+j	紡織工	紡織工	紡織を行う職人。
+j	紡織業	紡織業	textile industry
+j	絡まる	絡まる	to be entangled or wound …
+j	絡める	絡める	entangle, entwine
+j	絡新婦	絡新婦	美女に化ける蜘蛛の妖怪。
+j	絡繰り	絡繰り	mechanism, contraption
+j	翡翠の	翡翠の	
+j	聡一郎	聡一郎	a male given name
+j	聡和子	聡和子	a female given name
+j	聡明さ	聡明さ	
+j	聡明な	聡明な	
+j	股割り	股割り	
+j	股関節	股関節	骨盤と大腿骨とが接合する関節。
+j	胡志明	胡志明	Ho Chi Minh
+j	胡瓜魚	胡瓜魚	
+j	胡蘿蔔	胡蘿蔔	「人参」の異称及び異表記。
+j	胡蝶蘭	胡蝶蘭	Phalaenopsis aphrodite, a…
+j	胡麻塩	胡麻塩	gomashio (a condiment mad…
+j	胡麻油	胡麻油	sesame oil
+j	葡萄味	葡萄味	
+j	葡萄園	葡萄園	vineyard
+j	葡萄弾	葡萄弾	grapeshot
+j	葡萄月	葡萄月	
+j	葡萄牙	葡萄牙	ポルトガルの漢字表記。
+j	葡萄畑	葡萄畑	vineyard
+j	葡萄石	葡萄石	prehnite
+j	葡萄糖	葡萄糖	synonym of グルコース (gurukōs…
+j	葡萄膜	葡萄膜	uvea
+j	葡萄色	葡萄色	grape (colour)
+j	葡萄酒	葡萄酒	wine
+j	衡平法	衡平法	
+j	象徴的	象徴的	symbolic
+j	象海豹	象海豹	an elephant seal
+j	象牙色	象牙色	象牙のようなやや黄色がかった白色。アイボリー。
+j	象牙質	象牙質	dentin
+j	象牙鴎	象牙鴎	
+j	象皮病	象皮病	
+j	象皮症	象皮症	
+j	象限儀	象限儀	「四分儀」を参照。
+j	財テク	財テク	企業又は個人の財産を、タイムリーに収益力の高い運用…
+j	財務相	財務相	「財相」を参照。
+j	財務省	財務省	the Ministry of Finance
+j	財政学	財政学	国家や地方公共団体（地方政府）の財政についての理論…
+j	財政難	財政難	fiscal difficulties
+j	財産刑	財産刑	刑罰のうち財産を剝奪する内容とするもの。罰金、科料…
+j	財産家	財産家	財産を多く有し経済的に豊かな人。金持ち。
+j	財産権	財産権	私権の一種で、一定の価値を所有する権利。
+j	財産税	財産税	担税力と課税物件の相違を基準とした租税の分類方法の…
+j	跡取り	跡取り	
+j	遡上高	遡上高	津波が陸地に到達した際の一番高い標高。
+j	郡役所	郡役所	郡が存在した時代に郡の行政事務を扱っていた役所。
+j	郡議会	郡議会	地方公共団体の郡（日本以外）における議決機関。
+j	郡長室	郡長室	郡長が執務を行う専用の部屋。
+j	鏡文字	鏡文字	mirror writing
+j	靡かす	靡かす	to have ... waving or flu…
+j	餡パン	餡パン	中に餡（粒餡、漉し餡など）を入れて焼いたパン。
+j	餡掛け	餡掛け	thickened with starch
+k	가격대	価格帯	price range
+k	가격표	価格表	판매할 상품들의 가격을 적은 일람표.
+k	가성비	価性比	price-performance ratio, …
+k	가치관	価値観	value (one's morals, mora…
+k	간체자	簡体字	Simplified Chinese charac…
+k	간체자	簡體字	Simplified Chinese charac…
+k	간편식	簡便食	
+k	간화자	簡化字	
+k	과두제	寡頭制	oligarchy
+k	관리소	管理所	kwalliso; labor camps and…
+k	관리인	管理人	keeper; janitor; custodia…
+k	관리자	管理者	manager, administrator
+k	관악기	管楽器	wind instrument
+k	관악기	管樂器	wind instrument
+k	관제탑	管制塔	control tower
+k	관풍금	管風琴	pipe organ
+k	교정자	校正者	
+k	담파고	淡婆姑	tobacco
+k	담홍색	淡紅色	
+k	량강도	両江道	Ryanggang (a province of …
+k	량서류	両棲類	
+k	망명자	亡命者	
+k	망치다	亡치다	to spoil; to ruin
+k	망혼일	亡魂日	
+k	모란봉	牡丹峰	Moranbong (a hill in Pyon…
+k	모방자	模倣者	
+k	모우좌	牡牛座	Taurus
+k	몰상식	没常識	lack of common sense
+k	무관심	無関心	indifference
+k	무관심	無關心	indifference
+k	무교병	無酵餠	matzo
+k	무국적	無国籍	statelessness
+k	무국적	無國籍	statelessness
+k	무궁화	無窮花	Hibiscus syriacus; rose o…
+k	무균법	無菌法	
+k	무기음	無気音	unaspirated sound
+k	무기음	無氣音	unaspirated sound
+k	무능력	無能力	lack of ability, incompet…
+k	무리수	無理数	두 정수의 비의 형태로 나타낼 수 없는 실수.
+k	무리수	無理數	두 정수의 비의 형태로 나타낼 수 없는 실수.
+k	무망감	無望感	feeling of utter despair;…
+k	무명지	無名指	
+k	무상상	無想像	
+k	무새류	無鰓類	
+k	무선국	無線局	radio station
+k	무성애	無性愛	asexuality; non-sexuality
+k	무성음	無声音	unvoiced sound
+k	무성음	無聲音	unvoiced sound
+k	무소속	無所属	independent, especially o…
+k	무소속	無所屬	independent, especially o…
+k	무소유	無所有	nonpossession, nonownersh…
+k	무수히	無数히	endlessly
+k	무수히	無數히	endlessly
+k	무승부	無勝負	tie; draw
+k	무신론	無神論	atheism, antitheism, igno…
+k	무언가	無言歌	something
+k	무언증	無言症	mutism
+k	무연탄	無煙炭	
+k	무의미	無意味	nonsense
+k	무의식	無意識	자각이 없는 의식의 상태.
+k	무인기	無人機	
+k	무인도	無人島	an uninhabited island
+k	무작위	無作為	being random; randomness
+k	무작위	無作爲	being random; randomness
+k	무정부	無政府	anarchy
+k	무제한	無制限	limitlessness
+k	무조건	無条件	unconditionally
+k	무조건	無條件	unconditionally
+k	무중량	無重量	weightlessness
+k	무중력	無重力	weightlessness
+k	무증상	無症状	
+k	무증상	無症狀	
+k	무진장	無尽蔵	limitlessness
+k	무진장	無盡藏	limitlessness
+k	무차별	無差別	indiscriminate
+k	무책임	無責任	irresponsibility
+k	무척추	無脊椎	invertebracy
+k	무한대	無限大	
+k	무화과	無花果	fig
+k	범성애	凡性愛	pansexuality
+k	상아색	象牙色	코끼리 상아 처럼 연한 노란색.
+k	상아탑	象牙塔	university (especially as…
+k	수면제	睡眠剤	a soporific; a sleeping p…
+k	수면제	睡眠劑	a soporific; a sleeping p…
+k	순례자	巡礼者	
+k	순례자	巡禮者	
+k	순양함	巡洋艦	a cruiser (class of warsh…
+k	순찰대	巡察隊	
+k	신봉자	信奉者	
+k	신빙성	信憑性	credibility
+k	신용도	信用度	
+k	신용장	信用状	letter of credit
+k	신용장	信用狀	letter of credit
+k	신임장	信任状	이 낱말은 뜻풀이가 필요합니다. 뜻풀이를 추가…
+k	신임장	信任狀	이 낱말은 뜻풀이가 필요합니다. 뜻풀이를 추가…
+k	신천옹	信天翁	an albatross (seabird)
+k	신호등	信号灯	traffic light, signal lig…
+k	신호등	信號燈	traffic light, signal lig…
+k	신호총	信号銃	starter pistol, firearm u…
+k	신호총	信號銃	starter pistol, firearm u…
+k	악력계	握力計	grip strength meter
+k	악마화	惡魔化	
+k	악순환	惡循環	해결이 없고 고난과 고통이 계속 이어지는 것.
+k	악영향	惡影響	bad influence; adverse ef…
+k	악천후	惡天候	bad weather
+k	양서류	両棲類	amphibians, amphibia
+k	양성애	両性愛	bisexuality
+k	양순음	両脣音	bilabial
+k	양원제	両院制	
+k	재정적	財政的	financial; economic
+k	조건법	条件法	대개 인도 유럽어 문법에서 (앞 선) 문장에서…
+k	진종일	盡終日	synonym of 온종일 (onjong'il…
+k	차선책	次善策	the best alternative; sec…
+k	차차웅	次次雄	a royal title of the anci…
+k	채광창	採光窓	skylight
+k	채석장	採石場	quarry
+k	포도당	葡萄糖	glucose
+k	포도색	葡萄色	grape (color)
+k	포도아	葡萄牙	Portugal (a country in Eu…
+k	포도원	葡萄園	포도주의 원료가 되는 포도를 생산하는 곳을 가…
+k	포도주	葡萄酒	wine
+k	포도즙	葡萄汁	grape juice (liquid from …
+k	포도탄	葡萄弾	grapeshot
+k	포도탄	葡萄彈	grapeshot
+k	호지명	胡志明	Ho Chi Minh
+k	확대경	拡大鏡	magnifying glass
+k	확성기	拡声器	loudspeaker
+k	확장자	拡張子	file extension
+k	환영회	歡迎會	
+k	환호성	歡呼聲	cheer, shout of joy, excl…
+j	両刀使い	両刀使い	
+j	両刀論法	両刀論法	ジレンマ（dilemma）の訳語。
+j	両刀遣い	両刀遣い	two-sword fencing
+j	両性具有	両性具有	hermaphroditism
+j	両性愛の	両性愛の	
+j	両性愛者	両性愛者	bisexual person
+j	両性的な	両性的な	
+j	両棲類学	両棲類学	両生類学の漢字制限前の表記。
+j	両生類学	両生類学	爬虫両生類学の内、両生類について研究する学問。動物…
+j	両穴攻め	両穴攻め	
+j	両端揃え	両端揃え	justification
+j	両罰規定	両罰規定	法人の代表者や従業員が業務に関し違法行為を行った場…
+j	両論併記	両論併記	賛成と反対両方の意見を記載すること。互いに異なる意…
+j	亡くなる	亡くなる	to die
+j	亡命する	亡命する	
+j	亡命政府	亡命政府	government in exile
+j	亡羊補牢	亡羊補牢	問題が発生した後でも、それを反省し対策を講ずれば役…
+j	価値高い	価値高い	valuable
+j	価格時点	価格時点	不動産の価格判定の基準日（賃料の場合も「価格時点」…
+j	信任する	信任する	
+j	信号処理	信号処理	信号を数理手法で処理する学問・技術の総称。
+j	信号刺激	信号刺激	動物に一定の本能行動を引き起こす鍵となる刺激。
+j	信号拳銃	信号拳銃	信号弾を発射する銃。
+j	信号無視	信号無視	the act of crossing or en…
+j	信心深い	信心深い	神仏を信仰する気持ちが強い。
+j	信心深さ	信心深さ	
+j	信用保険	信用保険	債務者と債権者との契約で債務者が債務不履行となった…
+j	信用取引	信用取引	株式、債券、為替、商品と言ったものを、契約時点にお…
+j	信用組合	信用組合	明治時代の産業組合の一つ。1943年市街地信用組合…
+j	信用販売	信用販売	sales on credit
+j	信用金庫	信用金庫	Shinkin bank, a type of J…
+j	信託統治	信託統治	trusteeship
+j	信託銀行	信託銀行	信託業務を行う普通銀行。
+j	信販会社	信販会社	credit company
+j	信賞必罰	信賞必罰	良いことをした者には必ず褒美を与え、悪いことをした…
+j	信越地方	信越地方	長野県と新潟県の併称。
+j	信頼する	信頼する	
+j	寡頭政治	寡頭政治	oligarchy
+j	岡目八目	岡目八目	lookers-on see most of th…
+j	巡り会う	巡り会う	to meet fortuitously
+j	巡回する	巡回する	
+j	巡回行列	巡回行列	(i, j)成分が(i-j)を次数で割ったものであ…
+j	巡洋戦艦	巡洋戦艦	a battle-cruiser
+j	巡航客船	巡航客船	
+j	御下げ髪	御下げ髪	pigtails worn over the sh…
+j	御下賜金	御下賜金	天皇陛下から国民に寄付される金。
+j	御台盤所	御台盤所	大臣、大将、将軍の妻に対する敬称。御台所。御台。
+j	御名御璽	御名御璽	the Imperial Signature an…
+j	御天道様	御天道様	「太陽」を敬い、親しみを込めた語。御日様。
+j	御座成の	御座成の	
+j	御役御免	御役御免	Retire, dismiss or reliev…
+j	御愁傷様	御愁傷様	身内を亡くした者に対し、気の毒に思うさま。
+j	御無沙汰	御無沙汰	「無沙汰」を丁寧に言う語。長らく訪問や音信をしなか…
+j	御用商人	御用商人	官庁（特に宮中）などに出入りし、受注したものを納入…
+j	御用始め	御用始め	官公庁でその年の一般的な業務を開始すること。
+j	御用学者	御用学者	researchers who were empl…
+j	御用納め	御用納め	官公庁でその年の一般的な業務を終えること。
+j	御用組合	御用組合	労働組合で、その運営が、経営者の意向に沿うものであ…
+j	御用聞き	御用聞き	御用を受け十手、捕縄を預かり犯罪者の探索、捕縛を担…
+j	御目出糖	御目出糖	結婚などで祝儀として配る、赤飯を真似た菓子。
+j	御礼参り	御礼参り	神仏への祈願が成就した時、その御礼としてその社寺に…
+j	御種人参	御種人参	Panax ginseng (Chinese gi…
+j	御籠もり	御籠もり	a retirement for prayer t…
+j	御膳立て	御膳立て	「膳立て」を丁寧に言う語。
+j	御苦労様	御苦労様	相手の労苦を労う語。
+j	御茶の子	御茶の子	茶菓子。茶請け。
+j	御茶請け	御茶請け	「茶請け」を丁寧に言ったもの。
+j	御蔭様で	御蔭様で	
+j	御袋の味	御袋の味	
+j	御調子者	御調子者	おだてられてすぐ得意になり勢いづく者。
+j	御負けに	御負けに	what's more, to make matt…
+j	御飯茶碗	御飯茶碗	御飯を盛る茶碗。飯椀（飯碗）。
+j	御馳走様	御馳走様	食後の挨拶。
+j	拡大する	拡大する	
+j	拡大図書	拡大図書	弱視者などのために活字を拡大して印刷した図書。
+j	拡大家族	拡大家族	
+j	拡張する	拡張する	
+j	拡張文字	拡張文字	特定の環境で設定されたコンピュータなどで表示できる…
+j	拡張機能	拡張機能	
+j	拡張現実	拡張現実	
+j	採点する	採点する	
+j	採用する	採用する	
+j	採用試験	採用試験	新たに公務員や社員（従業員）として採用するかどうか…
+j	握り寿司	握り寿司	nigirizushi (hand-shaped …
+j	握手する	握手する	
+j	握髪吐哺	握髪吐哺	賢人を迎えるのに熱心であること。なお、握髪のみでこ…
+j	条件付き	条件付き	
+j	条件反射	条件反射	動物で本来の反射の刺激とともにそれとは無関係な刺激…
+j	条件収束	条件収束	無限級数∑ₙ₌₁ ᪲a_nが通常の意味で収束するが…
+j	校正する	校正する	
+j	校正刷り	校正刷り	校正をするために、仮に印刷した印刷物。校正されるこ…
+j	模倣する	模倣する	
+j	模倣的な	模倣的な	
+j	模型帆船	模型帆船	帆船模型の別称。
+j	模型船舶	模型船舶	船舶模型の別称。
+j	模型艦船	模型艦船	艦船模型の別称。
+j	模型鉄道	模型鉄道	鉄道模型の別称。
+j	模式標本	模式標本	タイプ標本の別名。
+j	模式産地	模式産地	タイプ産地の別称。
+j	模擬試験	模擬試験	a mock exam
+j	模擬選挙	模擬選挙	政治に関する教育の一環として実物に似せて作った架空…
+j	模様替え	模様替え	建物の構造や室内の装飾や物の配置を替えること。
+j	次のもの	次のもの	
+j	次元定理	次元定理	線型写像 T:V→Wに就て、 dim V=rank…
+j	次元解析	次元解析	
+j	次回予告	次回予告	テレビ番組などの次回の放送で取り上げる予定の内容を…
+j	没分暁漢	没分暁漢	道理を知らない男。説明、説得しても分からない男。わ…
+j	没収する	没収する	
+j	泡を吹く	泡を吹く	
+j	泡を食う	泡を食う	to be confused, to be sho…
+j	泡沫夢幻	泡沫夢幻	儚いこと。
+j	泡立てる	泡立てる	
+j	泡立て器	泡立て器	a whisk (kitchen utensil)
+j	淡粧濃抹	淡粧濃抹	薄化粧と厚化粧。
+j	淡色野菜	淡色野菜	緑黄色野菜以外の野菜。
+j	淡黄褐色	淡黄褐色	
+j	渡りに船	渡りに船	godsend, lifesaver
+j	渡り合う	渡り合う	fight with a weapon
+j	渡り廊下	渡り廊下	離れた二棟の建物の間をつないで渡れるようにした廊下。
+j	渡り歩く	渡り歩く	wander, hop, move from on…
+j	無くした	無くした	past tense and perfective…
+j	無くせる	無くせる	
+j	無くなす	無くなす	
+j	無くなる	無くなる	to disappear, to fade, to…
+j	無にする	無にする	無駄にする。
+j	無事息災	無事息災	being safe and healthy
+j	無二無三	無二無三	法華経で説く仏道は一乗であり、二乗、三乗はないこと。
+j	無作為な	無作為な	
+j	無価値な	無価値な	
+j	無信仰者	無信仰者	
+j	無免許の	無免許の	
+j	無党派層	無党派層	people who do not support…
+j	無制限の	無制限の	
+j	無反動砲	無反動砲	recoilless rifle
+j	無名の師	無名の師	おこす名分のない戦争。特に仕掛けられる側だけでなく…
+j	無名之師	無名之師	無名の師の漢語表記。
+j	無名戦士	無名戦士	戦場で死亡し、身元の分からない兵士。
+j	無味乾燥	無味乾燥	内容に面白みも風情もないこと。また、そのさま。
+j	無地雪加	無地雪加	
+j	無声子音	無声子音	voiceless consonant
+j	無声映画	無声映画	音声や音楽のない映像だけの映画。サイレント。
+j	無実の罪	無実の罪	a false charge
+j	無形資産	無形資産	会計学上の資産のうち、鉱業権、知的財産権（特許権、…
+j	無心連歌	無心連歌	誹諧の連歌。無心。
+j	無念無想	無念無想	（仏教）一切の想念を離れること。
+j	無性愛者	無性愛者	他者に対し恋愛感情や性的欲求を全く持たない性的指向…
+j	無性生殖	無性生殖	asexual reproduction
+j	無想無念	無想無念	（仏教）一切の想念を離れること。
+j	無意味な	無意味な	
+j	無意識的	無意識的	accidentally (unexpectedl…
+j	無感動な	無感動な	
+j	無感地震	無感地震	人間が揺れを感じることはないが、地震計には記録され…
+j	無感性な	無感性な	
+j	無感覚な	無感覚な	
+j	無感覚の	無感覚の	
+j	無慈悲な	無慈悲な	
+j	無我夢中	無我夢中	entirely engrossed in som…
+j	無教養者	無教養者	
+j	無敵の人	無敵の人	person who doesn't hesita…
+j	無敵艦隊	無敵艦隊	
+j	無断転載	無断転載	他人の著作物を、その著作権者からの許可を得ずに他の…
+j	無月期間	無月期間	
+j	無服の殤	無服の殤	7歳以下の者の死。礼において父母が喪に服することが…
+j	無期懲役	無期懲役	life imprisonment with wo…
+j	無期禁錮	無期禁錮	life imprisonment without…
+j	無期限に	無期限に	
+j	無条件に	無条件に	
+j	無条件の	無条件の	
+j	無権代理	無権代理	民事法の制度で、本人からの委任等正当の権限無く又は…
+j	無機化学	無機化学	inorganic chemistry
+j	無機能語	無機能語	話し言葉を文章化する際、取り除いたりしても解釈に影…
+j	無次元量	無次元量	次元が1である物理量。
+j	無水酢酸	無水酢酸	酢酸のカルボン酸無水物。CH₃CO-O-OCH₃C…
+j	無水醋酸	無水醋酸	「無水酢酸」の別表記。
+j	無法地帯	無法地帯	a lawless district, a hig…
+j	無為徒食	無為徒食	他人の役に立つような仕事もせず、飯を食うばかりであ…
+j	無為無能	無為無能	idle and incompetent
+j	無理する	無理する	
+j	無理やり	無理やり	forcibly, by force
+j	無理ゲー	無理ゲー	impossible (exceedingly d…
+j	無理強い	無理強い	to force; to compel
+j	無理心中	無理心中	forced double or multiple…
+j	無理無体	無理無体	強引に物事を行うこと。無理に強制すること。
+j	無理矢理	無理矢理	「無理遣り」の別表記。
+j	無理遣り	無理遣り	
+j	無理関数	無理関数	根号を含む関数。特に、根号の中が冪関数であるものを…
+j	無理難題	無理難題	an unreasonable demand
+j	無產階級	無產階級	
+j	無産階級	無産階級	synonym of プロレタリアート (puro…
+j	無病息災	無病息災	good health
+j	無盲腸目	無盲腸目	《分類学》 かつて使われていたモグラ目の標準和名、…
+j	無矛盾律	無矛盾律	
+j	無矛盾性	無矛盾性	ある公理系で互いに矛盾する公理が何も存在しないこと…
+j	無知蒙昧	無知蒙昧	知識、学問がなく、道理を知らないこと。
+j	無神経な	無神経な	
+j	無神論の	無神論の	
+j	無神論者	無神論者	atheist
+j	無私無欲	無私無欲	selflessness
+j	無秩序の	無秩序の	
+j	無精ひげ	無精ひげ	
+j	無糖練乳	無糖練乳	
+j	無線操縦	無線操縦	
+j	無線通信	無線通信	電波を使用して行う通信の総称。
+j	無線電信	無線電信	電波を利用して電信符号を送る通信方法。
+j	無線電報	無線電報	
+j	無線電話	無線電話	wireless telephone; cordl…
+j	無罪判決	無罪判決	acquittal (legal decision)
+j	無能力者	無能力者	Someone who does not have…
+j	無脂肪の	無脂肪の	
+j	無脂肪乳	無脂肪乳	牛乳から脂肪分を抜き去った牛乳。脱脂乳。
+j	無花果果	無花果果	syconium
+j	無菌状態	無菌状態	
+j	無蒸煮米	無蒸煮米	
+j	無表情な	無表情な	
+j	無規則な	無規則な	
+j	無視する	無視する	
+j	無言電話	無言電話	a silent call
+j	無認可校	無認可校	学校教育法などの法令に基づく認可を得たものではない…
+j	無課金兵	無課金兵	無課金ユーザー。
+j	無財餓鬼	無財餓鬼	財がなく、食物を摂ろうとしても摂れない餓鬼。
+j	無責任な	無責任な	
+j	無賃乗車	無賃乗車	a free ride
+j	無資格で	無資格で	
+j	無資格の	無資格の	
+j	無道路地	無道路地	（不動産） 道路に接していない宅地のこと。特に、法…
+j	無邪気な	無邪気な	
+j	無量光仏	無量光仏	
+j	無量大数	無量大数	In the traditional Japane…
+j	無量無辺	無量無辺	immeasurable and boundless
+j	無鈎鑷子	無鈎鑷子	先端部に鈎のない鑷子。無鈎。
+j	無銭飲食	無銭飲食	飲食店で代金を支払わずに飲食すること。
+j	無間地獄	無間地獄	阿鼻地獄。
+j	無関心な	無関心な	
+j	無闇矢鱈	無闇矢鱈	reckless, excessive
+j	無限小数	無限小数	終わりのない小数。有理数か無理数かで細分化され、有…
+j	無限数列	無限数列	項の数が無限である数列。
+j	無限級数	無限級数	infinite series
+j	無限責任	無限責任	債務者が負う責任に限りがなく、いざとなれば全財産を…
+j	無限軌道	無限軌道	起動輪、転輪、遊動輪、誘導輪を取り囲み、環状にした…
+j	無限遠点	無限遠点	無限に遠い場所にある点。ユークリッド幾何学において…
+j	無駄使い	無駄使い	
+j	無駄死に	無駄死に	無駄に死ぬこと。無益な死に方をすること。
+j	無駄遣い	無駄遣い	wasting one's time or mon…
+j	牡丹刷毛	牡丹刷毛	kabuki brush (a type of p…
+j	睡眠不足	睡眠不足	sleep deficiency
+j	睡眠負債	睡眠負債	日々の睡眠不足が積み重なり、それを解消できずに病気…
+j	管を巻く	管を巻く	
+j	管クラゲ	管クラゲ	
+j	管弦楽団	管弦楽団	orchestra (group)
+j	管状土錘	管状土錘	（考古学） 土器の錘（おもり）で、中央に孔が一つあ…
+j	管理する	管理する	
+j	管理会計	管理会計	企業を経営するための情報を、企業内部の経営者に提供…
+j	管腔器官	管腔器官	「中空器官」のこと。
+j	管見では	管見では	
+j	簡単明瞭	簡単明瞭	分かりやすくはっきりしているさま。
+j	簡易便所	簡易便所	
+j	簡易保険	簡易保険	2007年10月1日に実施された郵政民営化以前に、…
+j	簡易宿所	簡易宿所	A type of accommodation p…
+j	簡易端末	簡易端末	
+j	簡約する	簡約する	
+j	簡約行列	簡約行列	「全ての主成分が1」「主成分を持つ列ベクトルが基本…
+j	紡毛紡績	紡毛紡績	原料となる羊毛を開毛、添油、紡毛、精毛して紡毛糸を…
+j	紡績突起	紡績突起	「出糸突起」の旧称。
+j	絡み付く	絡み付く	twine around
+j	絡み合う	絡み合う	be intertwined with
+j	股座膏薬	股座膏薬	股の内側に張った膏薬が右や左の皮膚についたり離れた…
+j	胡散臭い	胡散臭い	dubious, suspicious
+j	胡椒海岸	胡椒海岸	現在のリベリア付近を指す歴史的地名。
+j	胡麻斑雀	胡麻斑雀	
+j	胡麻磨り	胡麻磨り	brown-nosing, apple-polis…
+j	葡和辞典	葡和辞典	ポルトガル語の単語や熟語を、日本語で定義し、用法等…
+j	葡萄の蔓	葡萄の蔓	
+j	葡萄パン	葡萄パン	レーズンパンの別称。
+j	葡萄栽培	葡萄栽培	viticulture
+j	葡萄球菌	葡萄球菌	staphylococcus
+j	葡萄膜炎	葡萄膜炎	uveitis
+j	葡萄酒学	葡萄酒学	oenology
+j	葡葡辞典	葡葡辞典	ポルトガル語の語句をポルトガル語で定義した辞典を、…
+j	象形文字	象形文字	hieroglyph, pictograph
+j	象徴する	象徴する	
+j	象徴主義	象徴主義	
+j	象牙の塔	象牙の塔	
+j	象牙海岸	象牙海岸	synonym of コートジボワール (Kōto…
+j	財務会計	財務会計	財務諸表を作成し、企業の経営成績や財政状態を、主に…
+j	財務大臣	財務大臣	財務省の長官（大臣）。財相。
+j	財務諸表	財務諸表	企業の経営成績と財政状態を企業の外部の利害関係者に…
+j	財団法人	財団法人	incorporated foundation; …
+j	財形貯蓄	財形貯蓄	勤労者財産形成貯蓄制度（財形）による貯蓄。
+j	財政関税	財政関税	関税のうち、財源を調達するための手段として輸入品に…
+j	遡及推論	遡及推論	アブダクション。
+j	鏡映文字	鏡映文字	mirror writing
+j	鏡花水月	鏡花水月	flowers reflected on a mi…
+k	간편식품	簡便食品	
+k	관현악단	管絃楽団	orchestra (group)
+k	관현악단	管絃樂團	orchestra (group)
+k	교정폭력	校庭暴力	school violence
+k	망명정부	亡命政府	
+k	망한민국	亡韓民国	South Korea
+k	망한민국	亡韓民國	South Korea
+k	무간지옥	無間地獄	Avīci (the lowest of the …
+k	무기징역	無期懲役	기한이 없는 무기한의 징역.
+k	무능력자	無能力者	an incompetent (person)
+k	무당연유	無糖煉乳	
+k	무리하다	無理하다	to be unreasonable
+k	무명투표	無名投票	
+k	무산계급	無産階級	proletariat
+k	무선전화	無線電話	wireless telephone; cordl…
+k	무선조종	無線操縦	
+k	무선조종	無線操縱	
+k	무선침묵	無線沈默	
+k	무선침묵	無線沈黙	
+k	무성영화	無声映畵	
+k	무성영화	無聲映畵	
+k	무소부지	無所不知	omniscience, infinite or …
+k	무신론자	無神論者	atheist, one who does not…
+k	무의식적	無意識的	
+k	무인점포	無人店鋪	cashierless store
+k	무전취식	無銭取食	
+k	무전취식	無錢取食	
+k	무태장어	無泰長魚	giant mottled eel (Anguil…
+k	상아해안	象牙海岸	Côte d'Ivoire (a country …
+k	상징주의	象徴主義	
+k	상징주의	象徵主義	
+k	수면부채	睡眠負債	
+k	순양전함	巡洋戦艦	
+k	순양전함	巡洋戰艦	
+k	신용등급	信用等級	credit rating
+k	신탁통치	信託統治	trusteeship (trust territ…
+k	악성종양	惡性腫瘍	a malignant tumor; cancer
+k	양성애자	両性愛者	a bisexual person
+k	양층언어	両層言語	
+k	재무제표	財務諸表	
+k	차례차례	次例次例	in turn, one by one
+k	포도주색	葡萄酒色	
+k	포말경기	泡沫景気	
+k	포말경기	泡沫景氣	
+k	확산하다	拡散하다	to spread, to diffuse
+k	환대산업	歡待産業	
+k	환송하다	歡送하다	to see off
+j	両性酸化物	両性酸化物	amphoteric oxide
+j	両手利きの	両手利きの	
+j	両棲類学者	両棲類学者	両生類学者の漢字制限前の表記。
+j	両生類学者	両生類学者	両生類学を研究する科学者。
+j	両端キュー	両端キュー	
+j	両面テープ	両面テープ	double-sided tape
+j	亡くなった	亡くなった	
+j	亡命希望者	亡命希望者	asylum seeker (one who se…
+j	価値がある	価値がある	
+j	価値観外交	価値観外交	民主主義、資本主義、自由主義、平和主義などの基本的…
+j	価格が手頃	価格が手頃	
+j	価格証明書	価格証明書	certificate of value
+j	信じない人	信じない人	
+j	信じられる	信じられる	
+j	信夫捩摺り	信夫捩摺り	synonym of 忍摺り (shinobu-z…
+j	信念させる	信念させる	
+j	信教の自由	信教の自由	freedom of religion
+j	信頼できる	信頼できる	
+j	巡り合わせ	巡り合わせ	fate, chance, destiny
+j	御免なさい	御免なさい	
+j	御座ります	御座ります	to go; to come; to be in …
+j	御御御付け	御御御付け	miso soup
+j	御手洗団子	御手洗団子	和菓子のひとつ。数個の団子を串に刺して、砂糖醤油の…
+j	御機嫌よう	御機嫌よう	主に久しぶりに再会したり、別れ際にする丁寧な挨拶一…
+j	御気に入り	御気に入り	「気に入り」を丁寧に言う語。
+j	御苦労さん	御苦労さん	相手の労苦を労う語で「御苦労様」よりくだけた表現。
+j	御覧になる	御覧になる	「見る」の尊敬語。
+j	御輿を担ぐ	御輿を担ぐ	他人をおだててその気にさせること。
+j	御近所さん	御近所さん	neighbor
+j	御都合主義	御都合主義	定まった意見を持たずその場やその時の状況に応じて自…
+j	御馳走さん	御馳走さん	「御馳走様」よりくだけた丁寧語。
+j	拡張新字体	拡張新字体	extended shinjitai (unoff…
+j	拡散モデル	拡散モデル	機械学習でノイズを加除しながら最終的に元のデータを…
+j	握り締める	握り締める	
+j	条件付きの	条件付きの	
+j	模型自動車	模型自動車	自動車模型の別称。
+j	模型航空機	模型航空機	軍用機などを含めた航空機やフィギュア、ジオラマを模…
+j	模擬テスト	模擬テスト	模擬試験と同じ。
+j	次亜塩素酸	次亜塩素酸	弱酸で水溶液としてだけ存在する塩素のオキソ酸。酸化…
+j	次第次第に	次第次第に	gradually (becoming a cer…
+j	泡立草軍配	泡立草軍配	カメムシ目カメムシ亜目グンバイムシ科に属する昆虫の…
+j	渡りに舟の	渡りに舟の	
+j	渡り労働者	渡り労働者	
+j	渡橋恐怖症	渡橋恐怖症	gephyrophobia
+j	濡れそぼつ	濡れそぼつ	be dripping wet, be compl…
+j	濡れ手で粟	濡れ手で粟	easy profit, raking in th…
+j	無くて七癖	無くて七癖	癖が無いように見える人でも、実は七つくらいは癖を持…
+j	無下にする	無下にする	to disregard; to squander
+j	無主地先占	無主地先占	無主地に対して最初に実効支配を及ぼすことで自国の領…
+j	無人航空機	無人航空機	drone (unmanned aerial ve…
+j	無人飛行機	無人飛行機	
+j	無何有の郷	無何有の郷	synonym of ユートピア (yūtopia…
+j	無冠の帝王	無冠の帝王	uncrowned king
+j	無力化する	無力化する	
+j	無効にする	無効にする	
+j	無向グラフ	無向グラフ	undirected graph
+j	無変化動詞	無変化動詞	
+j	無害化する	無害化する	
+j	無形文化財	無形文化財	演劇、音楽、工芸技術その他の無形の文化的所産で日本…
+j	無意識的に	無意識的に	
+j	無政府主義	無政府主義	synonym of アナキズム (anakizu…
+j	無政府状態	無政府状態	anarchy (absence of any f…
+j	無条件反射	無条件反射	動物が生まれつき持っている反射の反応。
+j	無条件降伏	無条件降伏	unconditional surrender
+j	無樹林気候	無樹林気候	樹木が生育できない気候。乾燥帯、寒帯。樹林気候と対…
+j	無機化合物	無機化合物	an inorganic compound
+j	無機化学者	無機化学者	無機化学を研究する科学者。
+j	無理もない	無理もない	natural, understandable, …
+j	無用の長物	無用の長物	
+j	無盡意菩薩	無盡意菩薩	
+j	無私無欲の	無私無欲の	
+j	無線周波数	無線周波数	
+j	無線従事者	無線従事者	総合無線通信士、海上無線通信士、海上特殊無線技士、…
+j	無胚乳種子	無胚乳種子	胚乳がなく、その養分が子葉に注がれる種子。
+j	無脊椎動物	無脊椎動物	invertebrate
+j	無脊椎状態	無脊椎状態	
+j	無記名投票	無記名投票	secret ballot
+j	無軌条電車	無軌条電車	trolleybus
+j	無辺行菩薩	無辺行菩薩	
+j	無限ループ	無限ループ	an infinite loop
+j	無限連鎖講	無限連鎖講	pyramid scheme
+j	無限遠直線	無限遠直線	無限遠点全体からなる集合。あらゆる方向における無限…
+j	無非点収差	無非点収差	
+j	無顆粒球症	無顆粒球症	agranulocytosis
+j	無駄にする	無駄にする	
+j	管区気象台	管区気象台	日本の気象台のうち広域に亘る業務を司るもので、札幌…
+j	管理栄養士	管理栄養士	厚生労働大臣の免許を受けて、管理栄養士の名称を用い…
+j	簡単のため	簡単のため	for simplicity; for the s…
+j	簡易トイレ	簡易トイレ	
+j	簡易宿泊所	簡易宿泊所	synonym of 簡易宿所 (kan'ishu…
+j	簡易裁判所	簡易裁判所	summary court; a type of …
+j	絡繰り人形	絡繰り人形	mechanical doll
+j	絡繰り時計	絡繰り時計	automaton clock, marionet…
+j	胡坐をかく	胡坐をかく	
+j	胡座をかく	胡座をかく	
+j	胡麻をする	胡麻をする	
+j	胡麻斑海豹	胡麻斑海豹	a spotted seal
+j	象徴天皇制	象徴天皇制	天皇は国政に関する権能をもたないとする日本国憲法の…
+k	망명 신청자	亡命申請者	
+k	모습	模襲/摸襲	the appearance of a person
+k	모형	模型/模形	model
+k	무궤도전차	無軌道電車	
+k	무기명투표	無記名投票	
+k	무단	無断/無端	without permission
+k	무단	無斷/無端	without permission
+k	무선주파수	無線周波数	
+k	무선주파수	無線周波數	
+k	무선호출기	無線呼出機	pager, beeper
+k	무인항공기	無人航空機	drone (unmanned aerial ve…
+k	무정부 상태	無政府状態	anarchy
+k	무정부 상태	無政府狀態	anarchy
+k	무정부주의	無政府主義	anarchism
+k	무지방 우유	無脂肪牛乳	
+k	무척추동물	無脊椎動物	invertebrate
+k	순항 유도탄	巡航誘導弾	cruise missile
+k	순항 유도탄	巡航誘導彈	cruise missile
+k	순회심판소	巡廻審判所	circuit court
+k	치매	癡呆/痴呆	dementia
+k	치한	癡漢/痴漢	pervert, sexual harasser,…
+k	포도상구균	葡萄状球菌	뭉쳐있는 모양이 포도처럼 생긴 구균.
+k	포도상구균	葡萄狀球菌	뭉쳐있는 모양이 포도처럼 생긴 구균.
+k	호접	胡蝶/蝴蝶	butterfly
+k	확장 신자체	拡張新字体	
+j	両意にとれる	両意にとれる	
+j	両棲爬虫類学	両棲爬虫類学	両生爬虫類学の漢字制限前の表記。
+j	両生爬虫類学	両生爬虫類学	両生類と爬虫類について研究する学問。動物学の一部。
+j	両開きのドア	両開きのドア	
+j	信じられない	信じられない	
+j	信号無視する	信号無視する	
+j	信用を落とす	信用を落とす	
+j	信用協同組合	信用協同組合	credit union
+j	巡航ミサイル	巡航ミサイル	a cruise missile
+j	御列席の皆様	御列席の皆様	
+j	御子様ランチ	御子様ランチ	幼児が好む食べ物や飾りつけのされた定食。
+j	御来場の皆様	御来場の皆様	
+j	御祈りメール	御祈りメール	
+j	御輿を上げる	御輿を上げる	ことに取り掛かること。
+j	御輿を据える	御輿を据える	ゆったり構えること。
+j	拡大係数行列	拡大係数行列	連立方程式A mathbf x= mathbf b…
+j	条件付き確率	条件付き確率	ある事象が起こったことを前提にした場合の、別のある…
+j	次亜塩素酸塩	次亜塩素酸塩	
+j	濡れ衣を着る	濡れ衣を着る	無実の罪を背負わされる。
+j	濡羽色の髪の	濡羽色の髪の	
+j	無形文化遺産	無形文化遺産	ユネスコが他に類の無い無形の文化財を指定し保護する…
+j	無性愛者です	無性愛者です	
+j	無政府主義者	無政府主義者	無政府主義の立場をとりそれを主張する者。
+j	無産階級独裁	無産階級独裁	
+j	無神論恐怖症	無神論恐怖症	
+j	無線呼び出し	無線呼び出し	
+j	無言フォロー	無言フォロー	相手に挨拶をせずにフォローを行うこと。
+j	無銭飲食する	無銭飲食する	
+j	無限責任社員	無限責任社員	合名会社、合資会社で会社の債務について会社の財産だ…
+j	無駄飯を食う	無駄飯を食う	他人の役に立つような仕事もせず、飯を食うばかりの生…
+j	無駄骨を折る	無駄骨を折る	
+j	睡眠時無呼吸	睡眠時無呼吸	
+j	睡眠時遊行症	睡眠時遊行症	somnambulism, sleepwalking
+j	管鮑の交わり	管鮑の交わり	良い友人付き合い。
+j	簡体字中国語	簡体字中国語	Simplified Chinese (Chine…
+j	簡易慣用字体	簡易慣用字体	simplified conventional f…
+j	簡易生命保険	簡易生命保険	「簡易保険」の正式名称。簡保。
+j	翡翠の髪状の	翡翠の髪状の	
+j	胡坐をかいた	胡坐をかいた	
+k	무산계급 독재	無産階級独裁	
+k	무산계급 독재	無産階級獨裁	
+k	무형문화유산	無形文化遺産	
+k	양서파충류학	両棲爬虫類学	
+j	両雄並び立たず	両雄並び立たず	二人の英雄が共存することはできないということ。同じ…
+j	信用を傷つける	信用を傷つける	
+j	模倣されやすい	模倣されやすい	
+j	模様替えをする	模様替えをする	
+j	泡立てクリーム	泡立てクリーム	whipped cream
+j	濡れ衣を着せる	濡れ衣を着せる	frame, falsely accuse
+j	無い袖は振れぬ	無い袖は振れぬ	無い物はどうしようもない。
+j	無きにしも非ず	無きにしも非ず	無いというわけではない。僅かながらある。
+j	無政府資本主義	無政府資本主義	
+j	簡易裁判所判事	簡易裁判所判事	裁判官の役職の一つで、簡易裁判所で裁判官を務める。
+j	象牙海岸共和国	象牙海岸共和国	synonym of コートジボワール共和国 (K…
+j	財布をなくした	財布をなくした	
+k	무호동중이작호	無虎洞中狸作虎	
+j	信心の名を借りた	信心の名を借りた	
+j	岡崎フラグメント	岡崎フラグメント	Okazaki fragment
+j	御茶の子さいさい	御茶の子さいさい	物事が容易にできること。とても易しいこと。
+j	次亜塩素酸ソーダ	次亜塩素酸ソーダ	次亜塩素酸のナトリウム塩。強アルカリ性。次亜塩素酸…
+j	無安打無得点試合	無安打無得点試合	野球・ソフトボールにおける投手の記録。一人の投手が…
+j	無知は至福である	無知は至福である	ignorance is bliss
+j	無線ネットワーク	無線ネットワーク	
+j	無線従事者免許証	無線従事者免許証	無線を扱うことについての許可を証する書面等、無線従…
+j	管を以て天を窺う	管を以て天を窺う	管の穴からでは狭い範囲しか天を見れないことから、見…
+j	簡易分数型漸化式	簡易分数型漸化式	a_n+1=(pa_n)/(qa_n+r)という形…
+k	재정적 보수주의자	財政的保守主義者	
+j	信頼できない語り手	信頼できない語り手	
+j	睡眠時無呼吸症候群	睡眠時無呼吸症候群	睡眠中に呼吸が十秒程度止まることと覚醒を繰り返す状…
+j	管の穴から天を覗く	管の穴から天を覗く	管の穴からでは狭い範囲しか天を見れないことから、見…
+j	信じようも信じまいと	信じようも信じまいと	
+j	次亜塩素酸ナトリウム	次亜塩素酸ナトリウム	次亜塩素酸のナトリウム塩。強アルカリ性。次亜塩素酸…
+j	鏡は重磨によって輝く	鏡は重磨によって輝く	
+j	無くて七癖有って四十八癖	無くて七癖有って四十八癖	人間には多かれ少なかれ誰にでも癖があるものだ。
+j	簡易メール転送プロトコル	簡易メール転送プロトコル	Simple Mail Transfer Prot…
+k	악화가 양화를 구축한다	惡貨가 良貨를 驅逐한다	bad money drives out good
+j	信じられないかもしれませんが	信じられないかもしれませんが	
+j	簡易ネットワーク管理プロトコル	簡易ネットワーク管理プロトコル	Simple Network Management…

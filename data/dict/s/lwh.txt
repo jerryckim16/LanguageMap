@@ -1,0 +1,192 @@
+e	5w1h	wh	1 meaning
+e	who	who	1 meaning
+e	why	why	2 meanings
+e	what	what	4 meanings
+e	when	when	4 meanings
+e	whey	whey	1 meaning
+e	whim	whim	1 meaning
+e	whip	whip	3 meanings
+e	whoa	whoa	1 meaning
+e	whale	whale	1 meaning
+e	wharf	wharf	1 meaning
+e	wheat	wheat	1 meaning
+e	wheel	wheel	7 meanings
+e	whelk	whelk	1 meaning
+e	where	where	6 meanings
+e	which	which	2 meanings
+e	while	while	2 meanings
+e	whisk	whisk	1 meaning
+e	white	white	7 meanings
+e	whole	whole	3 meanings
+e	whore	whore	3 meanings
+e	whose	whose	1 meaning
+e	wheeze	wheeze	1 meaning
+e	whence	whence	1 meaning
+e	whinge	whinge	1 meaning
+e	whiten	whiten	2 meanings
+e	why not	whynot	2 meanings
+e	whaling	whaling	1 meaning
+e	what for	whatfor	1 meaning
+e	whether	whether	2 meanings
+e	whisker	whisker	1 meaning
+e	whiskey	whiskey	1 meaning
+e	whisper	whisper	2 meanings
+e	whistle	whistle	4 meanings
+e	whither	whither	1 meaning
+e	whiting	whiting	1 meaning
+e	whitish	whitish	1 meaning
+e	whitlow	whitlow	1 meaning
+e	whopper	whopper	1 meaning
+e	whale oil	whaleoil	1 meaning
+e	whatever	whatever	2 meanings
+e	whatsapp	whatsapp	1 meaning
+e	whenever	whenever	2 meanings
+e	wherever	wherever	2 meanings
+e	whimbrel	whimbrel	1 meaning
+e	whinchat	whinchat	1 meaning
+e	whiplash	whiplash	1 meaning
+e	white day	whiteday	1 meaning
+e	white lie	whitelie	1 meaning
+e	white sea	whitesea	1 meaning
+e	white tea	whitetea	1 meaning
+e	white-eye	whiteeye	1 meaning
+e	whiteout	whiteout	1 meaning
+e	whodunit	whodunit	1 meaning
+e	what a pity	whatapity	1 meaning
+e	what about	whatabout	3 meanings
+e	wheat germ	wheatgerm	1 meaning
+e	wherefore	wherefore	1 meaning
+e	whetstone	whetstone	1 meaning
+e	whirlpool	whirlpool	1 meaning
+e	whirlwind	whirlwind	1 meaning
+e	white army	whitearmy	1 meaning
+e	white coat	whitecoat	1 meaning
+e	white flag	whiteflag	1 meaning
+e	white gold	whitegold	1 meaning
+e	white hole	whitehole	1 meaning
+e	white iron	whiteiron	1 meaning
+e	white lead	whitelead	1 meaning
+e	white rice	whiterice	1 meaning
+e	white wine	whitewine	1 meaning
+e	whitebait	whitebait	1 meaning
+e	whitefish	whitefish	1 meaning
+e	whitelist	whitelist	1 meaning
+e	who are you	whoareyou	1 meaning
+e	whole milk	wholemilk	1 meaning
+e	wholesale	wholesale	1 meaning
+e	whale shark	whaleshark	1 meaning
+e	what is more	whatismore	1 meaning
+e	what is that	whatisthat	1 meaning
+e	what kind of	whatkindof	1 meaning
+e	what number	whatnumber	1 meaning
+e	wheat flour	wheatflour	1 meaning
+e	wheelchair	wheelchair	1 meaning
+e	whereafter	whereafter	1 meaning
+e	white bread	whitebread	1 meaning
+e	white devil	whitedevil	1 meaning
+e	white dwarf	whitedwarf	1 meaning
+e	white goods	whitegoods	1 meaning
+e	white house	whitehouse	1 meaning
+e	white light	whitelight	1 meaning
+e	white magic	whitemagic	1 meaning
+e	white night	whitenight	1 meaning
+e	white noise	whitenoise	1 meaning
+e	white paper	whitepaper	2 meanings
+e	white stork	whitestork	1 meaning
+e	white sugar	whitesugar	1 meaning
+e	white trash	whitetrash	1 meaning
+e	whiteboard	whiteboard	1 meaning
+e	whitehorse	whitehorse	1 meaning
+e	whitsunday	whitsunday	1 meaning
+e	wholegrain	wholegrain	1 meaning
+e	wholesaler	wholesaler	1 meaning
+e	what the fuck	whatthefuck	2 meanings
+e	wheelbarrow	wheelbarrow	1 meaning
+e	wheelwright	wheelwright	1 meaning
+e	whereabouts	whereabouts	1 meaning
+e	wherewithal	wherewithal	1 meaning
+e	white clover	whiteclover	1 meaning
+e	white coffee	whitecoffee	1 meaning
+e	white knight	whiteknight	1 meaning
+e	white matter	whitematter	1 meaning
+e	white pepper	whitepepper	1 meaning
+e	white poplar	whitepoplar	1 meaning
+e	white terror	whiteterror	1 meaning
+e	white tongue	whitetongue	1 meaning
+e	white willow	whitewillow	1 meaning
+e	white-collar	whitecollar	1 meaning
+e	white-haired	whitehaired	1 meaning
+e	whitethroat	whitethroat	1 meaning
+e	whooper swan	whooperswan	1 meaning
+e	what time is it	whattimeisit	1 meaning
+e	what's your job	whatsyourjob	1 meaning
+e	whataboutism	whataboutism	1 meaning
+e	wheel and axle	wheelandaxle	1 meaning
+e	whipped cream	whippedcream	1 meaning
+e	white balance	whitebalance	1 meaning
+e	white wagtail	whitewagtail	1 meaning
+e	whale watching	whalewatching	1 meaning
+e	when it comes to	whenitcomesto	1 meaning
+e	whipping cream	whippingcream	1 meaning
+e	whiskered tern	whiskeredtern	1 meaning
+e	whistle-blower	whistleblower	1 meaning
+e	white genocide	whitegenocide	1 meaning
+e	white mulberry	whitemulberry	1 meaning
+e	white-eyed gull	whiteeyedgull	1 meaning
+e	white-naped tit	whitenapedtit	1 meaning
+e	whooping cough	whoopingcough	1 meaning
+e	whooping crane	whoopingcrane	1 meaning
+e	whaling station	whalingstation	1 meaning
+e	what a lovely day	whatalovelyday	1 meaning
+e	what is your name	whatisyourname	1 meaning
+e	what's the matter	whatsthematter	1 meaning
+e	wheel of fortune	wheeloffortune	1 meaning
+e	where do you live	wheredoyoulive	1 meaning
+e	whippersnapper	whippersnapper	1 meaning
+e	white blood cell	whitebloodcell	1 meaning
+e	white chocolate	whitechocolate	1 meaning
+e	white christmas	whitechristmas	1 meaning
+e	white goosefoot	whitegoosefoot	1 meaning
+e	white supremacy	whitesupremacy	1 meaning
+e	wholeheartedly	wholeheartedly	1 meaning
+e	wholemeal bread	wholemealbread	1 meaning
+e	whoopee cushion	whoopeecushion	1 meaning
+e	whoopie cushion	whoopiecushion	1 meaning
+e	what are you doing	whatareyoudoing	1 meaning
+e	what's done is done	whatsdoneisdone	1 meaning
+e	whatchamacallit	whatchamacallit	1 meaning
+e	whatever it takes	whateverittakes	1 meaning
+e	where are you from	whereareyoufrom	1 meaning
+e	white rhinoceros	whiterhinoceros	1 meaning
+e	white-bellied tit	whitebelliedtit	1 meaning
+e	white-naped crane	whitenapedcrane	1 meaning
+e	white-winged tern	whitewingedtern	1 meaning
+e	what would you like	whatwouldyoulike	1 meaning
+e	where is the toilet	whereisthetoilet	1 meaning
+e	white-tailed eagle	whitetailedeagle	1 meaning
+e	what date is it today	whatdateisittoday	1 meaning
+e	white-blue-white flag	whitebluewhiteflag	1 meaning
+e	white-tailed lapwing	whitetailedlapwing	1 meaning
+e	white-backed black tit	whitebackedblacktit	1 meaning
+e	white-throated dipper	whitethroateddipper	1 meaning
+e	white-winged black tit	whitewingedblacktit	1 meaning
+e	what's your phone number	whatsyourphonenumber	1 meaning
+e	wheelchair basketball	wheelchairbasketball	1 meaning
+e	when push comes to shove	whenpushcomestoshove	1 meaning
+e	white-rumped sandpiper	whiterumpedsandpiper	1 meaning
+e	white-bearded antshrike	whitebeardedantshrike	1 meaning
+e	what you see is what you get	whatyouseeiswhatyouget	1 meaning
+e	what languages do you speak	whatlanguagesdoyouspeak	1 meaning
+e	whistle past the graveyard	whistlepastthegraveyard	1 meaning
+e	white-throated kingfisher	whitethroatedkingfisher	1 meaning
+e	white-throated needletail	whitethroatedneedletail	1 meaning
+e	what kind of music do you like	whatkindofmusicdoyoulike	1 meaning
+e	white cloud mountain minnow	whitecloudmountainminnow	1 meaning
+e	white-shouldered antshrike	whiteshoulderedantshrike	1 meaning
+e	what goes around comes around	whatgoesaroundcomesaround	1 meaning
+e	when in rome, do as the romans do	wheninromedoastheromansdo	1 meaning
+e	where there's smoke, there's fire	wheretheressmoketheresfire	1 meaning
+e	where there is a will there is a way	wherethereisawillthereisaway	1 meaning
+e	when the cat's away the mice will play	whenthecatsawaythemicewillplay	1 meaning
+e	when life gives you lemons, make lemonade	whenlifegivesyoulemonsmakelemonade	1 meaning
+e	who keeps company with the wolf will learn to howl	whokeepscompanywiththewolfwilllearntohowl	1 meaning

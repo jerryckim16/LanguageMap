@@ -1,0 +1,100 @@
+e	awa	awa	1 meaning
+e	awl	awl	1 meaning
+e	awn	awn	1 meaning
+j	あわ	awa	液体が、気体を含み表面張力により球状となったもの、…
+j	アウェー	awe	敵地。
+j	アワ	awa	イネ科エノコログサ属の多年草。雑穀のひとつ。五穀の…
+j	アワー	awa	時間帯。
+j	安房	awa	Awa Province, an old prov…
+j	泡	awa	bubble
+j	粟	awa	foxtail millet
+j	阿波	awa	Awa (a city in Tokushima …
+e	away	away	1 meaning
+j	あわい	awai	色彩や味が明瞭でない、ぼんやりとした、微妙な。
+j	淡い	awai	pale; light
+e	await	await	2 meanings
+e	awake	awake	3 meanings
+e	award	award	1 meaning
+e	awful	awful	1 meaning
+j	あわあい	awaai	徳島県（阿波国）で行なわれる藍染め。また、その原材…
+j	あわす	awasu	あうようにする。
+j	あわせ	awase	合わせること。
+j	あわび	awabi	ミミガイ科の巻貝の総称。高級食材で、コリコリとした…
+j	あわや	awaya	nearly, almost, on the ve…
+j	あわれ	aware	【憐れ】気の毒に思う気持ち。
+j	アウォード	awodo	アワードの表記ゆれ。
+j	アワビ	awabi	「あわび」の学術的表記。
+j	アワード	awado	賞品。
+j	合わす	awasu	synonym of 合わせる (awaseru)
+j	合わせ	awase	joining together
+j	哀れ	aware	pitiful, miserable
+j	淡路	awaji	Awaji Province, an old pr…
+j	袷	awase	a lined kimono
+j	鮑	awabi	abalone
+e	awadhi	awadhi	1 meaning
+e	awaken	awaken	2 meanings
+e	awhile	awhile	2 meanings
+e	awning	awning	1 meaning
+j	あわうみ	awaumi	湖。湖水。
+j	合わない	awanai	
+j	淡海	awaumi	a freshwater lake
+e	awamori	awamori	1 meaning
+e	awesome	awesome	1 meaning
+e	awkward	awkward	2 meanings
+j	あわさる	awasaru	二つのものがぴったりとくっ付く。または、調和する。
+j	あわせる	awaseru	（全般）あうようにする。
+j	あわだま	awadama	鳥類にあたえるえさの一種で、殻をむいたアワに卵黄な…
+j	あわてる	awateru	思いがけない出来事に落ち着きを失う。
+j	あわもり	awamori	沖縄特産の焼酎（蒸留酒）。
+j	あわゆき	awayuki	うっすらと積もって柔らかく消えやすい春の雪。
+j	あわれみ	awaremi	同情。気の毒に思う気持ち。
+j	あわれむ	awaremu	同情する。気の毒に思う。
+j	アワディー語	awadigo	
+j	合わさる	awasaru	to match; to make a succe…
+j	合わせて	awasete	together with, at the sam…
+j	合わせる	awaseru	put together
+j	哀れな	awarena	
+j	哀れみ	awaremi	pity, compassion
+j	哀れむ	awaremu	to pity, to compassionate
+j	慌てて	awatete	
+j	慌てる	awateru	to panic; to lose one's p…
+j	憐れみ	awaremi	
+j	泡を食う	awaokuu	to be confused, to be sho…
+j	泡盛	awamori	awamori, a kind of strong…
+j	泡苔	awagoke	Callitriche japonica, a s…
+j	泡風呂	awaburo	
+j	粟粥	awagayu	millet porridge
+j	あわおどり	awaodori	特に徳島市で行われる盆踊り
+j	あわだち	awadachi	bubbling; foaming
+j	あわだつ	awadatsu	to froth, to foam, to lat…
+j	あわつぶ	awatsubu	粒状の泡。
+j	あわをふく	awaofuku	"to blow bubbles": to foa…
+j	合わさった	awasatta	
+j	慌てん坊	awatenbo	行動などに落ち着きがない人。不注意で失敗が多い人。…
+j	泡立つ	awadatsu	
+j	阿波踊り	awaodori	the Awa Dance Festival, a…
+e	awareness	awareness	2 meanings
+j	あわだてる	awadateru	to create a lather
+j	あわよくば	awayokuba	if all goes well, if circ…
+j	泡を吹く	awawofuku	
+j	泡立てる	awadateru	
+j	泡立て器	awadateki	a whisk (kitchen utensil)
+j	あわあわしい	awaawashii	色や味が薄く仄かであるさま。
+j	淡路島	awajishima	Awaji Island, an island i…
+j	あわただしい	awatadashii	急な事があって落ち着かないさま。
+j	合わせられる	awaserareru	
+j	慌ただしい	awatadashii	busy
+j	あわふきむし	awafukimushi	カメムシ目アワフキムシ上科に属する昆虫の総称。学名…
+j	併せられない	awaserarenai	
+j	合わせられない	awaserarenai	
+e	award ceremony	awardceremony	1 meaning
+j	あわてふためく	awatefutameku	突然の出来事などで狼狽え、騒ぐ。
+j	慌てふためく	awatefutameku	be flustered, be in a pan…
+j	泡立てクリーム	awadatekurimu	whipped cream
+j	憐れみ深い人	awaremibukaihito	
+j	泡立草軍配	awadachisogunbai	カメムシ目カメムシ亜目グンバイムシ科に属する昆虫の…
+j	あわてないでください	awatenaidekudasai	
+e	away with the fairies	awaywiththefairies	1 meaning
+j	鮑の貝の片想い	awabinokainokataomoi	片想いをしゃれて言う地口。
+j	慌てる乞食は貰いが少ない	awaterukojikiwamoraigasukunai	slow and steady wins the …
+e	a woman without a man is like a fish without a bicycle	awomanwithoutamanislikeafishwithoutabicycle	1 meaning

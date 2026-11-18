@@ -1,0 +1,2 @@
+e	hvac	hvac	1 meaning
+e	hvar	hvar	1 meaning

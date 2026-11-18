@@ -1,0 +1,431 @@
+e	ab	ab	1 meaning
+e	aba	aba	1 meaning
+e	abc	abc	1 meaning
+e	abs	abs	1 meaning
+j	あぶ	abu	ハエ目（双翅目）、ハエ亜目（短角亜目）アブ科に属す…
+j	アブ	abu	虻の学術的表記。
+j	安倍	abe	a surname
+j	安部	abe	a surname
+j	浮子	aba	a fishnet float
+j	虻	abu	a horsefly
+j	襾部	abu	部首「⾑」で分類した漢字の一群。
+j	阿倍	abe	a surname
+j	阿母	abo	母親を敬い、親しみをこめていう語。
+j	阿比	abi	red-throated loon, Gavia …
+j	阿部	abe	a surname
+k	아부	abu	남의 비위를 맞추어 알랑거림.
+k	아비	abi	Disrespectful term for an…
+e	abel	abel	2 meanings
+e	abet	abet	1 meaning
+e	abha	abha	1 meaning
+e	able	able	3 meanings
+j	あぼーん	abon	deletion; (by extension) …
+j	アバン	aban	
+j	アバーア	abaa	aba
+k	아바이	abai	father
+k	아벨	abel	Abel
+k	아브	abeu	
+k	압운	abun	rhyme in Classical Chines…
+e	a-bomb	abomb	1 meaning
+e	abaca	abaca	1 meaning
+e	aback	aback	1 meaning
+e	abase	abase	2 meanings
+e	abash	abash	1 meaning
+e	abaya	abaya	1 meaning
+e	abaza	abaza	2 meanings
+e	abbas	abbas	1 meaning
+e	abbey	abbey	1 meaning
+e	abbot	abbot	1 meaning
+e	abend	abend	2 meanings
+e	abhor	abhor	1 meaning
+e	abiko	abiko	1 meaning
+e	abjad	abjad	1 meaning
+e	abort	abort	4 meanings
+e	about	about	5 meanings
+e	abuja	abuja	1 meaning
+e	abura	abura	1 meaning
+e	abuse	abuse	7 meanings
+e	abyss	abyss	2 meanings
+j	あばく	abaku	暴く, 発く: to dig something …
+j	あばた	abata	天然痘の痕跡で、皮膚に大きな凹凸ができるもので、特…
+j	あばよ	abayo	a casual parting expressi…
+j	あばら	abara	荒ら, 荒, 疎ら, 疎: loosely spa…
+j	あばれ	abare	「あばれる」の未然形及び連用形。
+j	あびき	abiki	九州の東シナ海沿岸で春先に発生する副振動に伴う気象…
+j	あびる	abiru	湯や水を自分の体に注ぎかける。
+j	あぶく	abuku	あわ。気泡。
+j	あぶみ	abumi	馬の鞍から下げておき、人間が騎乗する際または騎乗中…
+j	あぶら	abura	油: oil,petroleum
+j	あぶる	aburu	to scorch, to broil, to t…
+j	アバサー	abasa	porcupinefish
+j	アバター	abata	avatar: a user's visual r…
+j	アバーヤ	abaya	abaya
+j	アブジャ	abuja	Abuja (the capital city o…
+j	アブハー	abuha	
+j	アブラ	abura	
+j	アベガー	abega	people who extremely crit…
+j	アベル	aberu	Abel
+j	アボート	aboto	ソフトウェアが、エラーなどのために実行処理を途中で…
+j	安孫子	abiko	a surname
+j	我孫子	abiko	Abiko (a city in Chiba Pr…
+j	暴く	abaku	
+j	油	abura	（あぶら）常温で液体またはゲル状の物質で、その組成…
+j	浴びる	abiru	to bathe, to shower, to t…
+j	痘痕	abata	pockmark (mark or scar)
+j	肋	abara	
+j	鐙	abumi	stirrup
+k	아바나	abana	Havana (the capital city …
+k	아바니	abani	father
+k	아바야	abaya	
+k	아바지	abaji	Pyongan, Hwanghae, Hamgyo…
+k	아바타	abata	인도 신화에 나오는 신 가운데 특히 비슈누의 …
+k	아방	abang	'아버지'를 의미하는 제주도 방언.
+k	아범	abeom	"아비"를 약간 대접하여 이르는 말이다.
+k	아부자	abuja	Abuja (the capital of Nig…
+k	아부쟈	abuja	나이지리아의 수도 이름 '아부자'의 북한말.
+k	아부지	abuji	Chungcheong, Gyeongsang, …
+e	abacus	abacus	2 meanings
+e	abadan	abadan	1 meaning
+e	abakan	abakan	1 meaning
+e	abatis	abatis	1 meaning
+e	abbess	abbess	1 meaning
+e	abbott	abbott	1 meaning
+e	abduct	abduct	1 meaning
+e	abject	abject	1 meaning
+e	abkhaz	abkhaz	1 meaning
+e	ablaut	ablaut	1 meaning
+e	ablaze	ablaze	3 meanings
+e	aboard	aboard	1 meaning
+e	abomey	abomey	1 meaning
+e	abound	abound	2 meanings
+e	abroad	abroad	2 meanings
+e	absent	absent	2 meanings
+e	absorb	absorb	6 meanings
+e	absurd	absurd	2 meanings
+e	abulia	abulia	1 meaning
+e	abydos	abydos	1 meaning
+j	あばばい	ababai	（方言、三重・徳島）まぶしい。
+j	あぶった	abutta	
+j	あぶない	abunai	災いが起こりそうである。危害をもたらす。危険だ。
+j	あぶらえ	aburae	「油絵」のひらがな表記。
+j	アッバース	abbasu	a transliteration of the …
+j	アバウト	abauto	rough, approximate
+j	アバカン	abakan	Abakan (a city in Russia)
+j	アバルア	abarua	クック諸島の首都。ラロトンガ島の北部にある。
+j	アビジャン	abijan	Abidjan (the de facto cap…
+j	アブサン	abusan	absinthe (liquor)
+j	アベック	abekku	a couple (on a date)
+j	アベニュー	abenyu	大通り。
+j	アベンド	abendo	ソフトウェアが異常な状態で終了すること。異常終了。…
+j	アボット	abotto	a transliteration of the …
+j	アーバーダーン	abadan	Abadan (a city in Iran)
+j	アーベント	abento	夕方から行われる音楽会などの催し。
+j	危ない	abunai	dangerous, critical, peri…
+j	油絵	aburae	oil painting
+k	아바단	abadan	이란 후제스탄 주(州)의 도시.
+k	아바칸	abakan	
+k	아버지	abeoji	father (parent)
+k	아베크	abekeu	a couple (on a date)
+k	아보메이	abomei	
+k	아브하	abeuha	
+k	압사라	absala	
+e	abaddon	abaddon	1 meaning
+e	abalone	abalone	1 meaning
+e	abandon	abandon	5 meanings
+e	abdomen	abdomen	3 meanings
+e	abettor	abettor	2 meanings
+e	abide by	abideby	1 meaning
+e	abidjan	abidjan	1 meaning
+e	ability	ability	2 meanings
+e	abinomn	abinomn	1 meaning
+e	ableism	ableism	1 meaning
+e	abolish	abolish	2 meanings
+e	abovyan	abovyan	1 meaning
+e	abraham	abraham	2 meanings
+e	abruzzo	abruzzo	1 meaning
+e	absalom	absalom	1 meaning
+e	abscess	abscess	1 meaning
+e	absence	absence	3 meanings
+e	absolve	absolve	1 meaning
+e	abstain	abstain	2 meanings
+e	abu bakr	abubakr	1 meaning
+e	abugida	abugida	1 meaning
+j	あばずれ	abazure	mean woman
+j	あばらや	abaraya	荒ら屋: run-down house
+j	あばれる	abareru	暴力をふるうなどして乱暴な行動をする。
+j	あびせる	abiseru	多くの湯水を注ぎかける。また、液体でないものをある…
+j	あぶなげ	abunage	あぶなそうなさま。
+j	あぶらげ	aburage	あぶらあげ。
+j	あぶらな	aburana	アブラナ科アブラナ属の二年草。別名を菜の花、菜種と…
+j	あぶらび	aburabi	油に灯芯を浸して灯す火。
+j	あぶらみ	aburami	獣肉、鳥肉、魚肉などのうち脂肪が多い部分。
+j	あぶらや	aburaya	油を作って売る店。
+j	あぶれる	abureru	仕事にありつけないでいる。
+j	あべこべ	abekobe	contrary, opposite, inver…
+j	アバカス	abakasu	abacus
+j	アバクロ	abakuro	Abercrombie & Fitch (clot…
+j	アバザ語	abazago	ロシアのカラチャイ・チェルケス共和国などで話されて…
+j	アバディーン	abadiin	
+j	アビドス	abidosu	
+j	アビニョン	abinyon	
+j	アブギダ	abugida	abugida
+j	アブジャド	abujado	abjad
+j	アブソーバー	abusoba	（衝撃などを）吸収する装置や材料。
+j	アブダビ	abudabi	Abu Dhabi (the capital ci…
+j	アブドラ	abudora	Abdullah (Muslim given na…
+j	アブラナ	aburana	植物の一種であるあぶらなの学術的表記。
+j	アブヴィル	abuviru	
+j	アボカド	abokado	avocado
+j	アボガド	abogado	アボカド。
+j	アボジレ	abojire	熱帯アフリカ西部からウガンダ南西部およびアンゴラに…
+j	アボディレ	abodire	アボジレを参照。
+j	暴れる	abareru	act violently, rage about…
+j	棈	abemaki	Chinese cork oak (Quercus…
+j	油菜	aburana	rapeseed, Brassica campes…
+j	浴びせる	abiseru	to pour (water) on
+k	아바똔	abatton	
+k	아발론	aballon	
+k	아버님	abeonim	honorific of 아버지 (abeoji,…
+k	아보뱐	abobyan	아르메니아의 도시. 예레반의 북동쪽에 위치해 …
+k	아보카도	abokado	avocado
+k	아부기다	abugida	
+k	아부다비	abudabi	Abu Dhabi (an emirate of …
+k	아부하다	abuhada	
+k	아브빌	abeubil	
+k	아비장	abijang	Abidjan (the largest city…
+k	아비지옥	abijiok	Avīci (the lowest of the …
+e	abattoir	abattoir	1 meaning
+e	abdicate	abdicate	1 meaning
+e	abductor	abductor	2 meanings
+e	abdullah	abdullah	1 meaning
+e	aberdeen	aberdeen	1 meaning
+e	abeyance	abeyance	1 meaning
+e	abkhazia	abkhazia	1 meaning
+e	ablative	ablative	1 meaning
+e	ablution	ablution	1 meaning
+e	abnormal	abnormal	2 meanings
+e	abomasum	abomasum	2 meanings
+e	abortion	abortion	2 meanings
+e	above all	aboveall	1 meaning
+e	abscissa	abscissa	2 meanings
+e	absinthe	absinthe	2 meanings
+e	absolute	absolute	4 meanings
+e	absorbed	absorbed	1 meaning
+e	abstract	abstract	9 meanings
+e	abstruse	abstruse	1 meaning
+e	abu dhabi	abudhabi	1 meaning
+e	abundant	abundant	1 meaning
+j	あばれうま	abareuma	気性が荒く御しがたい馬。駻馬。
+j	あばれんぼう	abarenbo	
+j	あぶらあげ	aburaage	薄く切った豆腐を油で揚げた食品。あぶらげ。あげ。薄…
+j	アバザ人	abazajin	
+j	アブセンス	abusensu	欠席。不在。
+j	アブハジア	abuhajia	Abkhazia (a geographic re…
+j	アーベル群	aberugun	
+j	暴れん坊	abarenbo	rambunctious child
+j	棈松	abematsu	a surname
+j	油揚げ	aburaage	aburaage, Japanese fried …
+j	網走	abashiri	a city in Hokkaido Prefec…
+j	脂性	aburasho	皮膚の表面があぶらぎっている体質。
+k	아바르어	abareueo	
+k	아버지임	abeojiim	
+k	아베 마리아	abemaria	
+k	아비뇽	abinyong	프랑스 남부 보클뤼즈에 속한 코뮌.
+k	아비달마	abidalma	Abhidharma
+k	아비도스	abidoseu	
+k	아비시니아	abisinia	
+k	아비포비아	abipobia	
+e	abandoned	abandoned	1 meaning
+e	abbeville	abbeville	1 meaning
+e	abduction	abduction	3 meanings
+e	abenomics	abenomics	1 meaning
+e	aberaeron	aberaeron	1 meaning
+e	aberfeldy	aberfeldy	1 meaning
+e	abolition	abolition	1 meaning
+e	abominate	abominate	1 meaning
+e	aborigine	aborigine	2 meanings
+e	abovesaid	abovesaid	1 meaning
+e	abstinent	abstinent	1 meaning
+e	absurdism	absurdism	1 meaning
+e	abundance	abundance	1 meaning
+e	abyssinia	abyssinia	1 meaning
+j	あばらぼね	abarabone	胸郭を構成する左右十二対の弓状の骨で内臓を保護する。
+j	あばら骨	abarabone	
+j	あばれがわ	abaregawa	大雨などで氾濫を繰り返す河川。
+j	あばれもの	abaremono	乱暴者。無法者。暴人。
+j	あぶくぜに	abukuzeni	働かずに、または不正な方法で得た金銭。悪銭。
+j	あぶらかす	aburakasu	油分のある植物の種子から油を搾り取った後のかす。肥…
+j	あぶらがみ	aburagami	桐油などを薄く塗った防水用の紙。
+j	あぶらぎり	aburagiri	トウダイグサ科の落葉高木。中国原産。材は家具や下駄…
+j	あぶらぎる	aburagiru	to be greasy
+j	あぶらざら	aburazara	灯火で灯油を入れる小さな皿。
+j	あぶらすぎ	aburasugi	マツ科の常緑高木。中国中西部から南部、台湾の山地に…
+j	あぶらぜみ	aburazemi	カメムシ目アブラゼミ属に属する虫の一種。学名:Gr…
+j	あぶらっこい	aburakkoi	greasy
+j	あぶらっぽい	aburappoi	脂っこい。
+j	あぶらはや	aburahaya	川魚の一種。本州、朝鮮半島、中国北部に生息し、体長…
+j	あぶりだす	aburidasu	to bring to light, to exp…
+j	あぶり焼き	aburiyaki	
+j	あぶれもの	aburemono	無職、浪人。無頼漢。ならずもの。無用者。
+j	あべこべの	abekobeno	
+j	アバンチュール	abanchuru	adventure; especially rom…
+j	アビシニア	abishinia	Abyssinia (former name of…
+j	アブサロム	abusaromu	
+j	アブノーマル	abunomaru	異常であるさま。
+j	アブハズ語	abuhazugo	The Abkhaz language.
+j	アブラハム	aburahamu	Abraham (prophet in the H…
+j	アブラハヤ	aburahaya	An Amur minnow (Rhynchocy…
+j	アブー・バクル	abubakuru	
+j	アボリジニ	aborijini	Aboriginal (used in the c…
+j	油かす	aburakasu	
+j	油を売る	aburaouru	waste time, dawdle
+j	油坊主	aburabozu	skilfish, Erilepis zonifer
+j	油桃	aburamomo	nectarine
+j	油桐	aburagiri	tung tree, Vernicia corda…
+j	油茅	aburagaya	
+j	泡銭	abukuzeni	easy money
+j	炙り出す	aburidasu	
+j	肋骨	abarabone	a rib (curved bone)
+j	脂っこい	aburakkoi	
+j	脂鰭	aburabire	adipose fin
+j	阿鼻叫喚	abikyokan	agonized crying out while…
+j	阿鼻地獄	abijigoku	Avīci (the lowest level o…
+k	아방궁	abanggung	wastefully extravagant ma…
+k	아브라함	abeuraham	Abraham
+k	아브자드	abeujadeu	
+k	아비시니안	abisinian	
+e	abbotsford	abbotsford	1 meaning
+e	abbreviate	abbreviate	1 meaning
+e	abdication	abdication	1 meaning
+e	abdullatif	abdullatif	1 meaning
+e	aberration	aberration	1 meaning
+e	abhidharma	abhidharma	1 meaning
+e	abirritant	abirritant	1 meaning
+e	abnormally	abnormally	1 meaning
+e	aboriginal	aboriginal	2 meanings
+e	abridgment	abridgment	2 meanings
+e	absolutely	absolutely	1 meaning
+e	absolution	absolution	2 meanings
+e	absolutist	absolutist	1 meaning
+e	absolutive	absolutive	1 meaning
+e	absolutize	absolutize	1 meaning
+e	absorbable	absorbable	1 meaning
+e	absorption	absorption	5 meanings
+e	abstemious	abstemious	2 meanings
+e	abstention	abstention	1 meaning
+e	abundantly	abundantly	1 meaning
+e	abyssinian	abyssinian	1 meaning
+j	あぶなげない	abunagenai	危険な様子でない。
+j	あぶらむし	aburamushi	カメムシ目アブラムシ上科の昆虫の総称。ありまき。
+j	アバークロンビー	abakuronbi	
+j	アビシニアン	abishinian	an Abyssinian (cat)
+j	アビタシオン	abitashion	住居。
+j	アブハジア語	abuhajiago	
+j	アブハズ人	abuhazujin	ジョージアのアブハジア共和国の主要民族。アブハズ語…
+j	アブラムシ	aburamushi	油虫: aphid
+j	アブラヤシ	aburayashi	
+j	アベンドする	abendosuru	
+j	油をひく	aburaohiku	
+j	油を塗る	aburaonuru	
+j	油差し	aburasashi	
+j	油椰子	aburayashi	
+j	油粘土	aburanendo	固まりにくくするため油などを混ぜた粘土。
+j	油絵の具	aburaenogu	油彩で使用する油性の絵の具。
+j	油虫	aburamushi	aphid
+j	鐙骨	abumikotsu	a stapes
+j	阿毘羅吽欠	abiraunken	a vi ra hūṃ khaṃ: a mantr…
+j	阿毘達磨	abidatsuma	
+k	아비규환	abigyuhwan	Avīci and Raurava, two of…
+e	abandon ship	abandonship	1 meaning
+e	abandonment	abandonment	2 meanings
+e	abbreviated	abbreviated	1 meaning
+e	abercrombie	abercrombie	1 meaning
+e	abietic acid	abieticacid	1 meaning
+e	abiogenesis	abiogenesis	1 meaning
+e	abolishment	abolishment	1 meaning
+e	abomination	abomination	1 meaning
+e	above the law	abovethelaw	1 meaning
+e	abracadabra	abracadabra	2 meanings
+j	あばれまわる	abaremawaru	あちこちで乱暴なことをする。
+j	あびせかける	abisekakeru	上から勢いよく水などを掛ける。
+j	あぶらぐすり	aburagusuri	薬剤を脂肪油などに加えた外用薬。
+j	アバンギャルド	abangyarudo	avant-garde
+j	アバンタイトル	abantaitoru	cold open
+j	アビエチン酸	abiechinsan	
+j	アブダクション	abudakushon	結論となる事象に規則を適用して前提を推論する方法。
+j	アブデラティフ	abuderatifu	
+j	アブラギッシュ	aburagisshu	greasy
+j	アベノマスク	abenomasuku	cloth masks distributed b…
+j	アベノミクス	abenomikusu	Abenomics
+j	アボガドロ数	abogadorosu	Avogadro's number (number…
+j	アボッツフォード	abottsufodo	
+j	油夜鷹	aburayotaka	oilbird, Steatornis carip…
+j	油薄	aburasusuki	a species of grass (Spodi…
+j	浴びせ倒し	abisetaoshi	a winning move in which t…
+j	阿部山椒魚	abesanshouo	
+k	아버지의 날	abeojiuinal	
+k	아부 바크르	abubakeureu	
+e	abbreviation	abbreviation	4 meanings
+e	abelian group	abeliangroup	1 meaning
+e	abessive case	abessivecase	1 meaning
+e	ablative case	ablativecase	1 meaning
+e	absent-minded	absentminded	1 meaning
+e	absolute zero	absolutezero	1 meaning
+e	absoluteness	absoluteness	1 meaning
+e	absquatulate	absquatulate	1 meaning
+e	abstract noun	abstractnoun	1 meaning
+e	abstract verb	abstractverb	1 meaning
+j	あばたもえくぼ	abatamoekubo	love is blind, one will o…
+j	あぶなっかしい	abunakkashii	いかにも危ない感じがする。
+j	アブルッツォ州	aburuttsoshu	
+j	アベノセイダーズ	abenoseidazu	
+j	危なっかしい	abunakkashii	seemingly dangerous; scary
+j	油で揚げた	aburadeageta	
+j	油を注ぐ	aburaososogu	
+k	아보가드로 수	abogadeurosu	
+e	abdominal pore	abdominalpore	1 meaning
+e	abdominal wall	abdominalwall	1 meaning
+e	absolute pitch	absolutepitch	1 meaning
+e	absolute space	absolutespace	1 meaning
+e	absolute value	absolutevalue	2 meanings
+j	あぶらとり紙	aburatorigami	aburatorigami (a traditio…
+j	アブストラクト	abusutorakuto	摘要。抜粋。
+j	アブラカダブラ	aburakadabura	
+j	アベックホームラン	abekkuhomuran	back-to-back home runs
+j	鐙骨筋	abumikotsukin	a stapedius muscle
+k	아방가르드	abanggareudeu	
+e	abe's salamander	abessalamander	1 meaning
+e	above-mentioned	abovementioned	1 meaning
+e	absent-mindedly	absentmindedly	1 meaning
+e	absolutive case	absolutivecase	1 meaning
+e	absolutization	absolutization	1 meaning
+e	abundant number	abundantnumber	1 meaning
+j	アボガドロていすう	abogadoroteisu	アボガドロ定数: the Avogadro con…
+j	アボガドロ定数	abogadoroteisu	Avogadro's number, Avogad…
+j	主油司	aburanotsukasa	a 律令 (ritsuryō) office un…
+j	油角鮫	aburatsunozame	a spiny dogfish
+k	아베도롱뇽	abedorongnyong	
+e	abdominal cavity	abdominalcavity	1 meaning
+e	abdominal muscle	abdominalmuscle	1 meaning
+e	abscission layer	abscissionlayer	1 meaning
+e	abstract algebra	abstractalgebra	1 meaning
+j	あぶり焼きにする	aburiyakinisuru	
+k	아브라카다브라	abeurakadabeura	
+e	abdominocentesis	abdominocentesis	1 meaning
+e	absolute geometry	absolutegeometry	1 meaning
+e	absolute majority	absolutemajority	1 meaning
+e	absolute monarchy	absolutemonarchy	1 meaning
+j	あびらうんけんそわか	abiraunkensowaka	阿毘羅吽欠蘇婆訶: a vi ra hūṃ kha…
+j	あぶり焼きにした	aburiyakinishita	
+j	アビシニアジャッカル	abishiniajakkaru	an Ethiopian wolf
+j	アブストラクトアート	abusutorakutoato	抽象芸術。
+e	abominable snowman	abominablesnowman	1 meaning
+e	absolute advantage	absoluteadvantage	1 meaning
+j	アボガドロの法則	abogadoronohosoku	全ての気体には同数の分子が存在する法則。アボガドロ…
+e	abductive reasoning	abductivereasoning	1 meaning
+e	absolute complement	absolutecomplement	1 meaning
+e	abundance of caution	abundanceofcaution	1 meaning
+e	absolute temperature	absolutetemperature	1 meaning
+e	a bad workman always blames his tools	abadworkmanalwaysblameshistools	1 meaning
+e	abkhaz autonomous soviet socialist republic	abkhazautonomoussovietsocialistrepublic	1 meaning
+j	アブハズ自治ソビエト社会主義共和国	abuhazujichisobietoshakaishugikyowakoku	

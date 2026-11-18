@@ -1,0 +1,29 @@
+e	ghee	ghee	1 meaning
+e	gheg	gheg	1 meaning
+e	ghana	ghana	1 meaning
+e	ghent	ghent	1 meaning
+e	ghost	ghost	1 meaning
+e	ghoul	ghoul	1 meaning
+e	ghusl	ghusl	1 meaning
+e	ghazal	ghazal	1 meaning
+e	ghazni	ghazni	2 meanings
+e	ghetto	ghetto	1 meaning
+e	gharial	gharial	1 meaning
+e	gherkin	gherkin	1 meaning
+e	ghostly	ghostly	1 meaning
+e	ghrelin	ghrelin	1 meaning
+e	ghanaian	ghanaian	1 meaning
+e	ghosting	ghosting	1 meaning
+e	ghaziabad	ghaziabad	1 meaning
+e	ghost goal	ghostgoal	1 meaning
+e	ghost ship	ghostship	1 meaning
+e	ghost town	ghosttown	1 meaning
+e	ghost word	ghostword	1 meaning
+e	ghibelline	ghibelline	1 meaning
+e	ghost story	ghoststory	1 meaning
+e	ghostwriter	ghostwriter	1 meaning
+e	ghost festival	ghostfestival	1 meaning
+e	ghost character	ghostcharacter	1 meaning
+e	ghost of christmas past	ghostofchristmaspast	1 meaning
+e	ghost of christmas present	ghostofchristmaspresent	1 meaning
+e	ghost of christmas yet to come	ghostofchristmasyettocome	1 meaning

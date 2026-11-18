@@ -1,0 +1,2766 @@
+j	み	み	味: (after an i-adjective …
+j	ミ	ミ	西洋音楽の階名 長音階の第3音、短音階の第5音の名。
+j	三	み	three, 3
+j	味	み	clever, smart, witty
+j	実	み	fruit (a product of ferti…
+j	巳	み	the Snake, the sixth of t…
+j	廻	み	imperfective and stem (or…
+j	弥	み	extending
+j	御	み	used to respectfully refe…
+j	微	み	tiny
+j	未	み	the Sheep, the eighth of …
+j	水	み	water (sometimes cold and…
+j	海	み	a sea, an ocean
+j	眉	み	eyebrow
+j	真実	み	true; genuine
+j	神	み	a spirit or an essence pr…
+j	箕	み	a winnow; a winnowing bas…
+j	美	み	beautiful
+j	見	み	seeing, looking
+j	身	み	a body
+j	魅	み	charm; fascination
+j	みい	みい	みっつ。さん。
+j	みう	みう	実生, 美羽, 視雨, 美雨, 愛生: a fem…
+j	みえ	みえ	「みえる」の未然形又は連用形。
+j	みお	みお	澪, 水尾, 水脈: a waterway, ch…
+j	みか	みか	三日: three days; third day
+j	みき	みき	木本植物の土から伸びて枝などにつながる太い部分。
+j	みぎ	みぎ	人が東を向いたときに南にあたる側。また、動物・人形…
+j	みこ	みこ	御子: a god's or spirit's c…
+j	みす	みす	寺院や神社などで用いるすだれ
+j	みず	みず	ミズ: Ms
+j	みせ	みせ	imperfective and stem (or…
+j	みそ	みそ	蒸した大豆に食塩と麹を加えてペースト状になるまで発…
+j	みぞ	みぞ	水を流すために地面に細長く掘られたもの。どぶ。
+j	みち	みち	現在地から、ある場所まで移動する際に経由する平面上…
+j	みつ	みつ	（打消しの語を伴って）満ちる。とどく。
+j	みと	みと	genitalia
+j	みな	みな	everyone, everybody
+j	みね	みね	山で高くなった場所。山の頂き。頂上。山頂。
+j	みの	みの	茅や菅などで編んで肩からかける雨具。
+j	みほ	みほ	実穂, 美穂, 美保, 未歩, 美帆, 美歩: a…
+j	みみ	みみ	耳: ear
+j	みめ	みめ	見た目。
+j	みや	みや	a female given name
+j	みよ	みよ	(imperial) reign
+j	みる	みる	【見る・視る】目を使って、物の形や色を知る。視覚に…
+j	ミカ	ミカ	
+j	ミサ	ミサ	Mass
+j	ミス	ミス	mistake, error
+j	ミズ	ミズ	未婚、既婚を問わず女性の姓の前につける敬称。
+j	ミニ	ミニ	mini
+j	ミノ	ミノ	
+j	ミラ	ミラ	
+j	ミリ	ミリ	milli-
+j	ミル	ミル	A strategy centered on de…
+j	ミー	ミー	I; me
+j	三	みい	three, 3
+j	三つ	みつ	three things
+j	三世	みよ	the "three lives", namely…
+j	三井	みい	a surname
+j	三井	みゐ	a surname
+j	三佳	みか	a female given name
+j	三十	みそ	thirty
+j	三和	みわ	the harmony or union of t…
+j	三日	みか	the third day of the month
+j	三木	みき	a place name, such as tha…
+j	三枝	みえ	a surname
+j	三毛	みけ	a calico cat's fur, featu…
+j	三瀬	みせ	a surname
+j	三田	みた	a place name
+j	三輪	みわ	a surname
+j	三重	みえ	triple, threefold, tripli…
+j	三重	みへ	triple, threefold, tripli…
+j	三野	みの	a surname
+j	三鬼	みき	a surname
+j	円	みつ	a round or circular objec…
+j	右	みぎ	right (direction)
+j	味噌	みそ	miso (fermented soybean p…
+j	味噌	ミソ	miso (fermented soybean p…
+j	妃	みめ	a noble's wife
+j	実名	みな	real name
+j	実地	みち	the actual site where som…
+j	実奈	みな	a female given name
+j	実子	みこ	biological child (as oppo…
+j	実己	みき	a female given name
+j	実樹	みき	a female given name
+j	実理	みり	practical theory or princ…
+j	実生	みう	seedling; plant raised fr…
+j	実生	みお	seedling; plant raised fr…
+j	実生	みき	seedling; plant raised fr…
+j	実生	みぶ	seedling; plant raised fr…
+j	実穂	みほ	a female given name
+j	実花	みか	a female given name
+j	実記	みき	true account
+j	宮	みや	the place where a god res…
+j	密	みつ	something without breaks …
+j	峰	みね	a small place in the moun…
+j	巫女	みこ	an unmarried woman who se…
+j	已波	みわ	a surname
+j	幹	みき	a tree trunk
+j	店	みせ	a commercial building; a …
+j	廻る	みる	to turn, to revolve
+j	御世	みよ	天子、天皇が在位している間の治世。
+j	御代	みよ	天皇による治世。天皇の在位期間。ごだい。ごよ。
+j	御子	みこ	A god or spirit's child.
+j	愛生	みう	a female given name
+j	愛音	みお	a female given name
+j	明	みん	bright, brightening
+j	未央	みお	a female given name
+j	未智	みち	a female given name
+j	未来	みく	the future
+j	未歩	みほ	a female given name
+j	未知	みち	unknown
+j	民	みん	citizen
+j	水	みず	water (sometimes cold and…
+j	水	みづ	water (sometimes cold and…
+j	水尾	みお	a female given name
+j	水尾	みを	a female given name
+j	水戸	みと	Mito (a city in Ibaraki P…
+j	水門閘門	みと	
+j	海松	みる	green sea or dead man's f…
+j	海松	ミル	green sea or dead man's f…
+j	満つ	みつ	to be full, mature
+j	溝	みぞ	ditch, channel
+j	澪	みお	a waterway, more specific…
+j	澪	みを	a waterway, more specific…
+j	甕	みか	large earthenware pot for…
+j	眉目	みめ	facial features
+j	眠	みん	rest (of a silkworm befor…
+j	神酒	みき	sacramental sake used in …
+j	神酒	みわ	sacramental sake used in …
+j	美佳	みか	a female given name
+j	美保	みほ	a female given name
+j	美優	みゆ	a female given name
+j	美和	みわ	a female given name
+j	美奈	みな	a female given name
+j	美姫	みき	a beautiful woman
+j	美娜	みな	a female given name
+j	美宥	みゆ	a female given name
+j	美帆	みほ	a female given name
+j	美希	みき	a female given name
+j	美揮	みき	a female given name
+j	美早	みさ	a female given name
+j	美智	みち	a female given name
+j	美来	みき	a female given name
+j	美来	みく	a female given name
+j	美来	みら	a female given name
+j	美果	みか	a female given name
+j	美栄	みえ	a female given name
+j	美樹	みき	a female given name
+j	美歩	みほ	a female given name
+j	美沙	みさ	a female given name
+j	美濃	みの	旧国名の一つ。美濃国。
+j	美穂	みほ	a female given name
+j	美紀	みき	a female given name
+j	美紗	みさ	a female given name
+j	美緒	みお	a female given name
+j	美羽	みう	a female given name
+j	美花	みか	a female given name
+j	美貴	みき	a female given name
+j	美雨	みう	a female given name
+j	美香	みか	a female given name
+j	美馬	みま	Mima (a city in Tokushima…
+j	耳	みみ	ear; ears
+j	胘	みげ	tripe, meat from a stomac…
+j	英貴	みき	a male given name
+j	蓑	みの	a raincoat made from that…
+j	蜜	みち	honey (viscous food produ…
+j	蜜	みつ	honey (viscous food produ…
+j	蜷	みな	synonym of 川蜷 (kawanina, …
+j	褌	みつ	loincloth; the traditiona…
+j	見た	みた	
+j	見て	みて	
+j	見ゆ	みゆ	所見: (Classical Japanese, …
+j	見よ	みよ	
+j	見る	みる	to see, to watch, to obse…
+j	見ろ	みろ	
+j	視雨	みう	a female given name
+j	視音	みお	a female given name
+j	観る	みる	
+j	診る	みる	examine
+j	道	みち	Tao (the way of nature), …
+j	針孔	みず	eye of a needle
+j	針孔	みぞ	eye of a needle
+j	針孔	みづ	eye of a needle
+j	みあい	みあい	見合い: miai, formal marriag…
+j	みあう	みあう	互いに見る。
+j	みいつ	みいつ	
+j	みいり	みいり	crop; harvest; income; pr…
+j	みうけ	みうけ	身売りによる芸妓などをその身代金などを支払い、その…
+j	みうち	みうち	family and close relatives
+j	みえこ	みえこ	美恵子, 三恵子, 巳恵子, 美愛子, 実絵子, …
+j	みえる	みえる	その物の存在を目で感じられる。
+j	みおも	みおも	妊娠していること。
+j	みかか	みかか	NTT (Nippon Telegraph and…
+j	みかけ	みかけ	外から見た感じ。うわべ。外見。
+j	みかげ	みかげ	神や貴人の霊魂。神霊。御霊。
+j	みかた	みかた	なかま。
+j	みかど	みかど	「天皇」の尊称。
+j	みかわ	みかわ	御溝
+j	みかん	みかん	
+j	みがき	みがき	「みがく」の連用形。
+j	みがく	みがく	形を整える。汚れを落とすことを目的として、こすった…
+j	みがら	みがら	当人の体。
+j	みがる	みがる	動作が俊敏であること。
+j	みきお	みきお	幹雄, 幹夫, 巳喜男, 美喜男, 三樹男, 己喜…
+j	みきき	みきき	見聞き, 見聞: looking and list…
+j	みきこ	みきこ	美樹子: a female given name
+j	みきり	みきり	「みきる」の連用形。
+j	みきる	みきる	終わりまで見る。
+j	みぎて	みぎて	右側の手。
+j	みぎめ	みぎめ	右側の目。右眼。
+j	みぎり	みぎり	time
+j	みぎわ	みぎわ	陸地が海や湖など水と接している場所。みずぎわ。みず…
+j	みくさ	みくさ	三つの種類。
+j	みくり	みくり	みくりやの略称。
+j	みこし	みこし	神社の祭礼で渡御の際、神霊の神体または霊代を奉安し…
+j	みこす	みこす	遠くのものを間にあるものを越して見る。
+j	みこと	みこと	神、貴人に対する尊称。
+j	みこみ	みこみ	物事の発生や完遂の期待ができること。その度合い。
+j	みこむ	みこむ	あてにする。将来に期待する。
+j	みごと	みごと	すばらしいさま。見るに値する事と言えるさま。
+j	みごろ	みごろ	見頃: best time to see
+j	みさお	みさお	志や主義・主張を変えずに貫くこと。
+j	みさき	みさき	岬, 崎: (geography) cape
+j	みさこ	みさこ	美沙子, 海沙子, 巳砂子, 実彩子, 美咲子, …
+j	みさわ	みさわ	三澤, 三沢, 美沢: a surname
+j	みしり	みしり	seeing and knowing [a per…
+j	みしる	みしる	見て知る。
+j	みじか	みじか	短いこと。
+j	みじめ	みじめ	哀れで見ていられないさま。なさけないさま。
+j	みすぎ	みすぎ	生活してゆくための手段。なりわい。
+j	みすじ	みすじ	三つの筋。三本。
+j	みずえ	みずえ	水江, 水映: a surname
+j	みずき	みずき	外敵を防ぐために造られた水堀。
+j	みずぎ	みずぎ	水泳の時に着る衣服。スイムウェア。
+j	みずけ	みずけ	物に含有される水分。
+j	みずこ	みずこ	生まれて日の浅い子。
+j	みずた	みずた	水をはった田。
+j	みずち	みずち	水中に潜み、角、四肢をもった蛇に似た姿をした毒を吐…
+j	みずで	みずで	書法の一つ。字の末尾を長く伸ばし、水が流れるように…
+j	みずな	みずな	「京菜」の異名。
+j	みずの	みずの	水野: a surname
+j	みずべ	みずべ	水面に近接した岸の周辺。
+j	みずほ	みずほ	みずみずしい稲穂。
+j	みせば	みせば	stand-out scene; (by exte…
+j	みせや	みせや	商店。みせ。
+j	みせる	みせる	人に見えるようにする。提示する。
+j	みそか	みそか	the last day of a month
+j	みそぎ	みそぎ	禊, 禊ぎ, 稧: purification ce…
+j	みそぐ	みそぐ	禊をする。斎戒沐浴する。
+j	みそじ	みそじ	thirty
+j	みそじ	みそぢ	thirty
+j	みそち	みそち	thirty
+j	みそら	みそら	空の美称。
+j	みぞれ	みぞれ	雪が降下中に融けかかって、雨が混ざったようになって…
+j	みたい	みたい	appended after the noun t…
+j	みたく	みたく	synonym of みたいに (mitai ni…
+j	みたけ	みたけ	体の高さ。身長。
+j	みたす	みたす	一杯にする。
+j	みたて	みたて	天皇を守る軍人。
+j	みたに	みたに	谷の美称。深い谷。
+j	みたま	みたま	神の霊。神霊。
+j	みたみ	みたみ	天皇の民。
+j	みため	みため	見た感じ。外見。外観。
+j	みたり	みたり	人数が、3であること。
+j	みだし	みだし	新聞などの記事でその内容がすぐわかるように文章の前…
+j	みだす	みだす	ばらばらにする。秩序をくずす。平穏でなくする。
+j	みだら	みだら	obscene, indecent
+j	みだり	みだり	乱れていること。
+j	みだれ	みだれ	「みだれる」の連用形。
+j	みちえ	みちえ	典江, 美智恵: a female given n…
+j	みちお	みちお	道雄, 道夫, 道生, 道郎, 通雄, 道男, 路…
+j	みちこ	みちこ	典子, 美智子, 允知子, 観智子, 道子: a …
+j	みちひ	みちひ	満潮と干潮。満干。
+j	みちる	みちる	一杯になる。
+j	みぢか	みぢか	自分に関係の深い様子。
+j	みっか	みっか	月の3番目の日。
+j	みっけ	みっけ	found you!
+j	みっつ	みっつ	個数が3個又は順番が3番目であること。みつ。
+j	みつえ	みつえ	光絵: a female given name
+j	みつお	みつお	実生, 光雄, 光男, 充男, 光生, 光郎, 光…
+j	みつき	みつき	三ヶ月。
+j	みつぎ	みつぎ	「みつぐ」の連用形。
+j	みつぐ	みつぐ	金品を仕送り生活の面倒を見る。
+j	みつけ	みつけ	「みつける」の未然形及び連用形。
+j	みつこ	みつこ	実子: a female given name
+j	みつご	みつご	同じ日に同じ両親から生まれた三人の子供。
+j	みつば	みつば	葉が三枚あること。また、三枚の葉。
+j	みつぼ	みつぼ	水滴。水泡。
+j	みつよ	みつよ	満代, 万葉, 美津代, 美鶴代: a femal…
+j	みづら	みづら	見た様子。
+j	みてる	みてる	見てる: contraction of 見ている
+j	みとせ	みとせ	3年間。
+j	みとむ	みとむ	認: a male given name
+j	みとめ	みとめ	「みとめる」の未然形及び連用形。
+j	みとる	みとる	見て知る。見極める。
+j	みどり	みどり	春から夏の草木の葉のような色。黄色と藍色の中間色で…
+j	みどろ	みどろ	名詞に付いて、それが身体中に付いてべとべとするさま…
+j	みなげ	みなげ	水中に飛び込んだり高所から飛び降りたりして自殺する…
+j	みなこ	みなこ	美奈子, 実名子, 美菜子: a female g…
+j	みなし	みなし	
+j	みなす	みなす	regard, consider
+j	みなと	みなと	水際に在って、船を停泊させ、人や荷物を乗り降りさせ…
+j	みなみ	みなみ	陽: a female given name
+j	みなも	みなも	水の表面。水面。
+j	みなり	みなり	身形, 身なり: outfit, attire
+j	みなわ	みなわ	和船で、帆桁の中央に結び付け、帆柱の先端の滑車を通…
+j	みぬく	みぬく	隠された本質・真相などを見通す。
+j	みぬま	みぬま	水を湛える沼。
+j	みねお	みねお	峰生: a male given name
+j	みねこ	みねこ	峰子: a female given name
+j	みのひ	みのひ	暦の上で巳にあたる日。
+j	みのり	みのり	作物などの実が生ること。
+j	みのる	みのる	実が生る。
+j	みはか	みはか	天皇・太皇太后・皇太后・皇后の墓。
+j	みはじ	みはじ	Used for remembering the …
+j	みはり	みはり	keeping watch
+j	みはる	みはる	【瞠る】目を大きく開いて見る。
+j	みばえ	みばえ	見た目が良いこと。
+j	みひけ	みひけ	short, brief
+j	みふゆ	みふゆ	冬の美称。
+j	みぶな	みぶな	京都市壬生周辺で栽培される「京菜」の一品種。
+j	みぶり	みぶり	意志や感情を伝える体の動き。
+j	みほこ	みほこ	美穂子, 視穂子, 三保子: a female g…
+j	みほん	みほん	
+j	みまい	みまい	見舞うこと。
+j	みまう	みまう	病人や災害に遭った人などを訪ねて慰める。
+j	みまん	みまん	未満: being under, below
+j	みみこ	みみこ	実実子: a female given name
+j	みみず	みみず	eye of a needle
+j	みみず	みみづ	eye of a needle
+j	みみわ	みみわ	耳朶につける環状の装飾。イヤリング。
+j	みむき	みむき	（意識して）その方に向いて見ること。
+j	みもい	みもい	水の美称。
+j	みもち	みもち	所行。
+j	みもと	みもと	身元, 身許: person's identity…
+j	みもの	みもの	見るのにあたいするもの。
+j	みゃあ	みゃあ	
+j	みやぎ	みやぎ	宮城: a surname
+j	みやけ	みやけ	大和朝廷の直轄地から収穫した穀物を収納した倉庫。
+j	みやげ	みやげ	旅行先から家などへ持ち帰るその土地の産物。
+j	みやこ	みやこ	皇居のある都市。首都。
+j	みやの	みやの	宮野: a surname
+j	みやび	みやび	courtly, elegant, refined…
+j	みやま	みやま	奥深い山。奥山。
+j	みゆき	みゆき	雪の美称。
+j	みょう	みょう	命: command; destiny
+j	みよい	みよい	見たさまがよい。見苦しくない。
+j	みよこ	みよこ	美代子: a female given name
+j	みより	みより	血縁者。身内。親族。親類。
+j	みりん	みりん	味醂: mirin; a form of Japa…
+j	みれる	みれる	「見る」の可能動詞。「見られる」のら抜き言葉。みる…
+j	みれん	みれん	未練: unwilling to give up …
+j	みわけ	みわけ	distinguishing; telling a…
+j	みんじ	みんじ	
+j	みんど	みんど	民度: social conditions; st…
+j	みんな	みんな	everyone, everybody
+j	ミイラ	ミイラ	過度に乾燥させることにより、腐敗せずいつまでも原形…
+j	ミカン	ミカン	「蜜柑」の学術的表記。
+j	ミカ書	ミカ書	
+j	ミクリ	ミクリ	ガマ目ミクリ科ミクリ属に属する多年草の一種。学名:…
+j	ミクロ	ミクロ	きわめて小さいこと。きわめて細かいこと。
+j	ミサキ	ミサキ	御先: an animal used as a v…
+j	ミサゴ	ミサゴ	ミサゴ科ミサゴ属の鳥の総称。別名、魚鷹。
+j	ミシン	ミシン	sewing machine
+j	ミスる	ミスる	to make a mistake
+j	ミスト	ミスト	mist (fine droplets)
+j	ミズキ	ミズキ	ミズキ目ミズキ科ミズキ属に属する落葉高木の一種。学…
+j	ミセス	ミセス	既婚女性の姓の前につける敬称。
+j	ミゾ語	ミゾ語	
+j	ミダス	ミダス	（ギリシャ神話）フリギアの王。
+j	ミット	ミット	mitt
+j	ミッド	ミッド	中間の。
+j	ミトラ	ミトラ	カトリック、ギリシャ正教、英国国教会の儀式の際に、…
+j	ミトン	ミトン	親指だけが分かれ、他の四本の指が一つに纏められてい…
+j	ミドル	ミドル	中間の。
+j	ミニー	ミニー	
+j	ミニ豚	ミニ豚	minipig
+j	ミノア	ミノア	
+j	ミバエ	ミバエ	
+j	ミマス	ミマス	土星の第一衛星の固有名。
+j	ミミズ	ミミズ	みみずの学術的表記。
+j	ミモザ	ミモザ	みなみじゅうじ座の西部にある一等星。みなみじゅうじ…
+j	ミュー	ミュー	mu (Greek letter)
+j	ミラノ	ミラノ	Milan (a city and comune,…
+j	ミラー	ミラー	mirror
+j	ミリア	ミリア	1万倍を表したメートル法の接頭辞。1935年に廃止。
+j	ミリ波	みりは	波長が1ミリメートルから1センチメートルの電波。
+j	ミリ波	ミリ波	波長が1ミリメートルから1センチメートルの電波。
+j	ミリ秒	ミリ秒	a millisecond
+j	ミリ豚	ミリ豚	熱狂的、狂信的な軍事好きのおたく。
+j	ミルク	ミルク	milk, usually cow's milk
+j	ミロス	ミロス	Milos (an island of Greec…
+j	ミンガ	ミンガ	
+j	ミンク	ミンク	a mink (mammal)
+j	ミンチ	ミンチ	Ground meat; minced meat;…
+j	ミント	ミント	mint (plant)
+j	ミース	ミース	Meath (a county of Irelan…
+j	ミート	ミート	獣肉。
+j	ミード	ミード	
+j	ミーム	ミーム	meme (unit of cultural in…
+j	ミール	ミール	食事。食材。
+j	ミーン	ミーン	The chirp of a cicada.
+j	ミ語法	ミ語法	古典日本語において上代以前に用いられた、形容詞の語…
+j	万葉	みつよ	myriads of leaves
+j	三つ	みっつ	three things
+j	三一	みいち	a male given name
+j	三一	みかず	a male given name
+j	三上	みかみ	a surname
+j	三井	みつい	a surname
+j	三井	みつゐ	a surname
+j	三人	みたり	three person; three people
+j	三保子	みほこ	a female given name
+j	三十歳	みそじ	生後30年目又は30年を経過した年齢の称。
+j	三千緒	みちお	a male given name
+j	三原	みはら	Mihara (a city in Hiroshi…
+j	三和	みつわ	the harmony or union of t…
+j	三国	みくに	three countries
+j	三好	みよし	Miyoshi (a city in Tokush…
+j	三宅	みやけ	a surname
+j	三実子	みみこ	Mimiko, a female Japanese…
+j	三富	みとみ	a surname
+j	三島	みしま	Mishima (a city in Shizuo…
+j	三平	みひら	a male given name
+j	三年	みとせ	three years; the third ye…
+j	三度	みたび	thrice; three times
+j	三日	みっか	the third day of the month
+j	三明	みあけ	Sanming (a prefecture-lev…
+j	三智夫	みちお	a male given name
+j	三村	みむら	a surname
+j	三樹男	みきお	a male given name
+j	三橋	みはし	a surname
+j	三次	みよし	Miyoshi (a city in Hirosh…
+j	三歳	みとせ	three years of age, three…
+j	三沢	みさわ	Misawa (a city in Aomori …
+j	三河	みかは	Mikawa Province, an old p…
+j	三河	みかわ	Mikawa Province, an old p…
+j	三浦	みうら	Miura (a city in Kanagawa…
+j	三澤	みさわ	a surname
+j	三神	みかみ	a surname
+j	三種	みくさ	三つの種類。
+j	三笘	みとま	a surname
+j	三笠	みかさ	Mikasa (a city in Sorachi…
+j	三船	みふね	a surname
+j	三苫	みとま	a surname
+j	三谷	みたに	a surname
+j	三輪田	みわた	a surname
+j	三郷	みさと	
+j	三雄	みつお	a male given name
+j	三鷹	みたか	Mitaka (a city in Tokyo p…
+j	下田	みさだ	Shimoda (a city in Shizuo…
+j	中子	みつこ	middle son
+j	乱す	みだす	to disturb
+j	京都	みやこ	a surname
+j	任那	みまな	Mimana, a place in ancien…
+j	允知子	みちこ	a female given name
+j	充	みつる	a male given name
+j	充喜	みつき	a male given name
+j	充男	みつお	a male given name
+j	光世	みつよ	a male given name
+j	光井	みつい	a surname
+j	光夫	みつお	a male given name
+j	光子	みつこ	a photon
+j	光生	みつお	a male given name
+j	光田	みつだ	a surname
+j	光男	みつお	a male given name
+j	光絵	みつえ	a female given name
+j	光郎	みつお	a male given name
+j	光雄	みつお	a male given name
+j	典子	みちこ	a female given name
+j	典江	みちえ	a female given name
+j	典生	みちお	a male given name
+j	南	みなみ	the south (cardinal point)
+j	南	みなん	the south (cardinal point)
+j	南	ミナミ	the south (cardinal point)
+j	右	みぎり	right (direction)
+j	右に	みぎに	
+j	右手	みぎて	right hand
+j	右田	みぎた	a surname
+j	味園	みその	a surname
+j	味官	みかん	味覚の器官。
+j	味方	みかた	friend; supporter; ally
+j	味淋	みりん	「味醂」の別表記。
+j	味精	みせい	深く味わうこと。
+j	味蕾	みらい	a tastebud
+j	味覚	みかく	sense of taste
+j	味解	みかい	文章の意味などを十分に味わい、理解すること。
+j	味醂	みりん	mirin: a type of sweet, t…
+j	命	みこと	life
+j	土産	みやげ	a souvenir
+j	妙	みょう	strange
+j	実	みのり	fruit (a product of ferti…
+j	実	みのる	fruit (a product of ferti…
+j	実はる	みはる	Miharu, a female Japanese…
+j	実り	みのり	crop; harvest
+j	実る	みのる	to bear fruit; to ripen
+j	実利子	みりこ	a female given name
+j	実利羽	みりは	a female given name
+j	実名子	みなこ	a female given name
+j	実名望	みなみ	a female given name
+j	実子	みつこ	biological child (as oppo…
+j	実子代	みねよ	a female given name
+j	実子都	みこと	a female given name
+j	実実子	みみこ	a female given name
+j	実家子	みかこ	a female given name
+j	実己	みつき	a female given name
+j	実彩子	みさこ	a female given name
+j	実智生	みちお	a male given name
+j	実梅	みうめ	Japanese apricot; ume
+j	実母紗	みもざ	a female given name
+j	実理	みのり	practical theory or princ…
+j	実理絵	みりえ	a female given name
+j	実生	みつお	seedling; plant raised fr…
+j	実生	みばえ	seedling; plant raised fr…
+j	実生利	みおり	a female given name
+j	実生子	みおこ	a female given name
+j	実生雄	みきお	a male given name
+j	実絵子	みえこ	a female given name
+j	実蝿	みばえ	
+j	実蠅	みばえ	Peacock fly, of the famil…
+j	実蠅	みばへ	Peacock fly, of the famil…
+j	実蠅	ミバエ	Peacock fly, of the famil…
+j	実見子	みみこ	a female given name
+j	宮井	みやい	a surname
+j	宮出	みやで	a surname
+j	宮古	みやこ	Miyako (a city in Iwate P…
+j	宮地	みやじ	a surname
+j	宮城	みやぎ	Miyagi (prefecture, see 宮…
+j	宮家	みやけ	a cadet branch of the Jap…
+j	宮田	みやた	a surname
+j	宮路	みやじ	a surname
+j	宮野	みやの	a surname
+j	宮間	みやま	a surname
+j	密使	みっし	secret envoy, secret mess…
+j	密儀	みつぎ	参加者に特別な資格を有したり、また特別な資格を与え…
+j	密度	みつど	density
+j	密議	みつぎ	secret conference
+j	密輸	みつゆ	smuggling
+j	密雨	みつう	細雨。
+j	實	みのる	a male given name
+j	尊	みこと	indicates respect and rev…
+j	屯倉	みやけ	大和朝廷の直轄地から収穫した穀物を収納した倉庫。
+j	岬	みさき	cape, promontory, point
+j	峰夫	みねお	a male given name
+j	峰子	みねこ	a female given name
+j	峰生	みねお	a male given name
+j	己喜男	みきお	a male given name
+j	已代志	みよし	a male given name
+j	已午	みうま	a surname
+j	巳喜男	みきお	a male given name
+j	巳砂子	みさこ	a female given name
+j	帝	みかど	（みかど）天下の最高支配者。天子。天皇の婉曲呼称、…
+j	幹夫	みきお	a male given name
+j	幹子	みきこ	a female given name
+j	幹雄	みきお	a male given name
+j	弥勒	みろく	Maitreya
+j	御供	みごく	供物。おそなえ。
+j	御国	みくに	land of the emperor, the …
+j	御嶽	みたけ	Mount Ontake (a mountain …
+j	御影	みえい	pictures of the emperor (…
+j	御影	みかげ	pictures of the emperor (…
+j	御族	みぞう	貴人の一族に対する尊敬語。
+j	御船	みふね	a surname
+j	御門	みかど	mikado (emperor of Japan)
+j	御霊	みたま	soul, spirit of the dead
+j	微塵	みじん	small piece, particle, fr…
+j	微塵	みぢん	small piece, particle, fr…
+j	惨め	みじめ	miserable, pitiful
+j	操	みさお	fidelity, honor, constancy
+j	明	みやう	bright, brightening
+j	明	みょう	bright, brightening
+j	明史	みんし	the History of Ming
+j	木乃伊	みいら	a mummy, deliberately pre…
+j	木乃伊	ミイラ	a mummy, deliberately pre…
+j	未分	みぶん	まだ分かれていないこと。
+j	未刊	みかん	not yet published
+j	未墾	みこん	まだ開墾されていないこと。
+j	未婚	みこん	being unmarried and never…
+j	未完	みかん	incompletion, unfinishedn…
+j	未定	みてい	being pending, to be dete…
+j	未必	みひつ	必ずしも起こるとは限らない状況。
+j	未明	みめい	early dawn
+j	未曽有	みそう	something that has never …
+j	未曽有	みぞう	something that has never …
+j	未曾有	みぞう	未曽有の旧字体表記。
+j	未来	みくる	the future
+j	未来	みらい	the future
+j	未決	みけつ	pending
+j	未済	みさい	unpaid, not yet settled
+j	未満	みまん	being under, below, less …
+j	未然	みぜん	having not yet happened
+j	未知の	みちの	
+j	未納	みなふ	being unpaid; being behin…
+j	未納	みのう	being unpaid; being behin…
+j	未練	みれん	unwilling to give up or l…
+j	未聞	みもん	まだ聞いたことがないこと。
+j	未見	みけん	まだ見たり会ったりしていないこと。
+j	未訳	みやく	まだ翻訳されていないこと。
+j	未読	みどく	unread (not yet read)
+j	未通	みつう	未だ通じていないこと。未開通。
+j	未進	みしん	nonpayment of tribute
+j	未遂	みすい	unsuccessful attempt
+j	未開	みかい	undeveloped; primitive
+j	民事	みんじ	civil affairs or affair
+j	民具	みんぐ	庶民が古くから日常生活で使ってきた道具や器具。
+j	民家	みんか	civilian house
+j	民度	みんど	the condition of the peop…
+j	民意	みんい	the will of the people; p…
+j	民話	みんわ	folktale, fairy tale
+j	民部	みんぶ	中国後周の時代に設置された人民の衆寡をはかる機関。
+j	水内	みのち	a surname
+j	水口	みぐち	an inlet or outlet for wa…
+j	水名	みずな	a female given name
+j	水城	みずき	a surname
+j	水奈	みずな	a female given name
+j	水子	みずこ	an aborted or miscarried …
+j	水子	みずご	an aborted or miscarried …
+j	水子	みづこ	an aborted or miscarried …
+j	水尾	みずお	a female given name
+j	水尾	みづを	a female given name
+j	水手	みずで	sailor, helmsman
+j	水木	みずき	Cornus controversa var. c…
+j	水木	みづき	Cornus controversa var. c…
+j	水木	ミズキ	Cornus controversa var. c…
+j	水木	ミヅキ	Cornus controversa var. c…
+j	水樹	みずき	a surname
+j	水気	みずけ	moisture; vapour (UK), va…
+j	水江	みずえ	a surname
+j	水泡	みなわ	bubble
+j	水田	みずた	paddy field
+j	水田	みづた	paddy field
+j	水着	みずぎ	swimsuit, a bathing suit,…
+j	水納	みずな	a surname
+j	水絵	みずえ	浮世絵で輪郭に墨の線を用いず、淡色だけの色板を使っ…
+j	水菜	みずな	mizuna
+j	水菜	みづな	mizuna
+j	水辺	みずべ	waterside, shoreline
+j	水野	みずの	a surname
+j	水面	みなも	surface of the water
+j	水面	みのも	surface of the water
+j	水魚	みずな	water and fish
+j	泉奈	みずな	a female given name
+j	泉菜	みずな	a female given name
+j	海沙子	みさこ	a female given name
+j	海砂	みずな	a female given name
+j	深雪	みゆき	deep snow
+j	渚	みぎは	beach
+j	渚	みぎわ	beach
+j	港	みなと	a sluice; a section of a …
+j	湊	みなと	a surname
+j	満	みちる	a male given name
+j	満	みつる	a male given name
+j	満	みのる	a male given name
+j	満たす	みたす	fill up
+j	満ちる	みちる	to be full
+j	満代	みつよ	a female given name
+j	満夫	みつお	a male given name
+j	満子	みつこ	a female given name
+j	満干	みちひ	満潮と干潮、潮の満ち引き。干満。
+j	満田	みつだ	a surname
+j	満男	みつお	a male given name
+j	溝部	みぞべ	a surname
+j	瑞凪	みずな	a female given name
+j	瑞名	みずな	a female given name
+j	瑞和	みずな	a female given name
+j	瑞奈	みずな	a female given name
+j	瑞季	みずき	a male given name
+j	瑞希	みずき	a female given name
+j	瑞穂	みずほ	fresh ears of rice
+j	瑞紀	みずき	a unisex given name
+j	瑞菜	みずな	a female given name
+j	瑞那	みずな	a female given name
+j	瑞香	みずか	a female given name
+j	瑞鳴	みずな	a female given name
+j	甕	みかわ	large earthenware pot for…
+j	皇	みゆき	creator
+j	盈男	みつお	a male given name
+j	眉間	みけん	glabella
+j	看取る	みとる	to nurse; to take care of…
+j	真冬	みふゆ	middle of winter; midwint…
+j	真央花	みおか	a female given name
+j	眠期	みんき	蚕が脱皮の直前、頭部をもたげて静止し、眠っているよ…
+j	磨き	みがき	
+j	磨く	みがく	to polish, to brush
+j	磨ぐ	みがく	
+j	神輿	みこし	mikoshi, portable shrine …
+j	禊	みそぎ	a form of ritual purifica…
+j	禊ぐ	みそぐ	to perform misogi (purifi…
+j	稔	みのる	a male given name
+j	箕田	みのだ	a surname
+j	箕面	みのお	Minoh (a city in Osaka Pr…
+j	簑田	みのだ	a surname
+j	粃	みよさ	empty grain husk
+j	結実	みのり	bearing fruit; being succ…
+j	綠	みどり	a female given name.
+j	緑	みどり	green (color)
+j	美代子	みよこ	a female given name
+j	美代志	みよし	a female given name
+j	美佐子	みさこ	a female given name
+j	美佐緒	みさお	a male given name
+j	美和子	みわこ	a female given name
+j	美咲	みさき	a female given name
+j	美咲子	みさこ	a female given name
+j	美喜男	みきお	a male given name
+j	美奈子	みなこ	a female given name
+j	美幸	みゆき	a female given name
+j	美弥子	みやこ	a female given name
+j	美恵子	みえこ	a female given name
+j	美春	みはる	a female given name
+j	美晴	みはる	a female given name
+j	美智夫	みちお	a male given name
+j	美智子	みちこ	a female given name
+j	美智恵	みちえ	a female given name
+j	美智生	みちお	a male given name
+j	美智男	みちお	a male given name
+j	美来	みくる	a female given name
+j	美来	みらい	a female given name
+j	美来	みるく	a female given name
+j	美沙子	みさこ	a female given name
+j	美沢	みさわ	a surname
+j	美津代	みつよ	a female given name
+j	美津紀	みずき	a female given name
+j	美由樹	みゆき	a female given name
+j	美由紀	みゆき	a female given name
+j	美穂子	みほこ	a female given name
+j	美紀	みのり	a female given name
+j	美織	みおり	a female given name
+j	美芳	みよし	a male given name
+j	美菜子	みなこ	a female given name
+j	美郷	みさと	a female given name
+j	美都子	みつこ	a female given name
+j	美里	みさと	a female given name
+j	美順	みゆき	a female given name
+j	美鶴代	みつよ	a female given name
+j	翠	みどり	a female given name
+j	耳環	みみわ	耳朶に付ける装飾の輪。
+j	脈	みゃく	pulse
+j	脈	みやく	pulse
+j	虬	みずち	
+j	虬	みづち	
+j	虯	みずち	
+j	虯	みづち	
+j	蚯蚓	みみず	a worm, such as an earthw…
+j	蚯蚓	ミミズ	a worm, such as an earthw…
+j	蜜柑	みかん	a satsuma tree, a mikan t…
+j	蜜柑	ミカン	a satsuma tree, a mikan t…
+j	見える	みえる	to be seen; to be found
+j	見して	みして	
+j	見せる	みせる	to show
+j	見た目	みため	appearance
+j	見る目	みるめ	prying eyes; people who m…
+j	見事	みごと	spectacular, splendid, ma…
+j	見出し	みだし	headline (of news)
+j	見出す	みだす	to find out
+j	見合い	みあい	miai, formal marriage int…
+j	見合う	みあう	exchange glances, look at…
+j	見張り	みはり	
+j	見張る	みはる	to watch
+j	見抜く	みぬく	to see through, to read i…
+j	見掛け	みかけ	outward appearance
+j	見方	みかた	aspect, viewpoint, opinion
+j	見本	みほん	sample, example
+j	見物	みもの	sightseeing
+j	見聞き	みきき	looking and listening, se…
+j	見舞い	みまい	visiting to ask after som…
+j	見舞い	みまひ	visiting to ask after som…
+j	見舞う	みまう	to visit to ask after som…
+j	見舞う	みまふ	to visit to ask after som…
+j	見越す	みこす	
+j	見込み	みこみ	chance, expectation, fear…
+j	見込む	みこむ	expect, project
+j	見遣る	みやる	gaze into the distance
+j	見頃	みごろ	best time to see
+j	視穂子	みほこ	a female given name
+j	視英子	みえこ	a female given name
+j	観智子	みちこ	a female given name
+j	観月	みづき	a surname
+j	認	みとむ	a male given name
+j	調	みつぐ	key
+j	貢	みつぎ	a male given name
+j	貢	みつぐ	a male given name
+j	貢ぐ	みつぐ	to tribute, to give tribu…
+j	路央	みちお	a male given name
+j	路生	みちお	a person on the road, a p…
+j	身偏	みへん	漢字の部首「⾝」が偏である場合の呼称。
+j	身元	みもと	person's identity
+j	身共	みども	I (personal pronoun), for…
+j	身内	みうち	
+j	身分	みぶん	social position, social s…
+j	身形	みなり	outfit, attire
+j	身投げ	みなげ	death by jumping into a b…
+j	身振り	みぶり	gesture, gesticulation
+j	身柄	みがら	body of that person
+j	身近	みぢか	near
+j	身重	みおも	being pregnant
+j	身長	みたけ	height; stature (the tall…
+j	通世	みちよ	a male given name
+j	通雄	みちお	a male given name
+j	道夫	みちお	a male given name
+j	道子	みちこ	a female given name
+j	道生	みちお	a male given name
+j	道男	みちお	a male given name
+j	道緒	みちお	a male given name
+j	道郎	みちお	a male given name
+j	道雄	みちお	a male given name
+j	都	みやこ	the place of residence of…
+j	陸男	みちお	a male given name
+j	雅ぶ	みやぶ	to be elegant, to be refi…
+j	雅美	みやび	a female given name
+j	霙	みぞれ	sleet
+j	魅する	みする	charm, captivate
+j	魅了	みれう	charm; captivation; enthr…
+j	魅佐子	みさこ	a female given name
+j	魅惑	みわく	fascination
+j	鶚	みさご	osprey, Pandion haliaetus
+j	鶚	ミサゴ	osprey, Pandion haliaetus
+j	みあげる	みあげる	下から上の方を見る。
+j	みあたる	みあたる	（多く打ち消しの形で）見付かる。発見される。
+j	みあわす	みあわす	互いに見る。
+j	みあわせ	みあわせ	「みあわせる」の未然形及び連用形。
+j	みいだす	みいだす	多くの中から価値あるものを選び出し、存在を公にする。
+j	みいとこ	みいとこ	曽祖父・曽祖母の兄弟姉妹の曽孫。祖父母のいとこの孫…
+j	みいみい	みいみい	猫や蟬などの鳴き声。
+j	みうける	みうける	見かける。
+j	みうごき	みうごき	体を動かすこと。身動ぎ。
+j	みおくり	みおくり	「みおくる」の連用形。
+j	みおくる	みおくる	去って行くものの後ろ姿を目で追う。
+j	みおさめ	みおさめ	見るのがそれで最後であること。
+j	みおとす	みおとす	見ていながらそこだけうっかり気づかないでいる。
+j	みおとり	みおとり	他のものと比べて劣って見えること。
+j	みおぼえ	みおぼえ	その物を以前に見たという記憶。
+j	みおやち	みおやち	先祖の力。
+j	みおろす	みおろす	上から下の方を見る。
+j	みかえす	みかえす	見返す: to look over, to loo…
+j	みかえり	みかえり	reward; returning the fav…
+j	みかえり	みかへり	reward; returning the fav…
+j	みかぎる	みかぎる	見込みがないと判断して諦める。見切りを付ける。
+j	みかける	みかける	（偶然）目に止まる。
+j	みかじめ	みかじめ	管理すること。監督すること。
+j	みかづき	みかづき	陰暦三日の月。
+j	みかねる	みかねる	to be unable to be a byst…
+j	みかわす	みかわす	互いに相手を見る。見合う。
+j	みがきこ	みがきこ	よごれや錆びがひどい物を磨くための粉末。
+j	みがって	みがって	自分だけの都合で行動すること。わがまま。
+j	みがまえ	みがまえ	「みがまえる」の未然形及び連用形。
+j	みがわり	みがわり	他人の代りとなること。その人。
+j	みきぞう	みきぞう	幹三: a male given name
+j	みきのり	みきのり	幹典: a male given name
+j	みきれる	みきれる	to accidentally enter a s…
+j	みぎあし	みぎあし	右側の足。
+j	みぎうえ	みぎうえ	右上: upper right
+j	みぎうで	みぎうで	右側の腕。
+j	みぎかた	みぎかた	右側の肩。
+j	みぎがわ	みぎがわ	右の側。
+j	みぎきき	みぎきき	日常において意のままに動かせる腕や手足、即ち、利き…
+j	みぎした	みぎした	右下: lower right
+j	みぎひざ	みぎひざ	右側の膝。
+j	みぎひじ	みぎひじ	右側の肘。
+j	みぎまき	みぎまき	渦、螺子などが右に巻いていること。時計の針と同じ向…
+j	みぎむき	みぎむき	右の方向に向く（向いている）こと。
+j	みぎより	みぎより	時計の針が進む方向によりをかけること。その組紐や縄…
+j	みくだす	みくだす	（自分の方が格が高いと見なして）相手を自分より品格…
+j	みくびる	みくびる	to underestimate, to beli…
+j	みくりや	みくりや	神社で神饌を調進する建物。
+j	みけねこ	みけねこ	三毛猫: a calico-colored cat.
+j	みごたえ	みごたえ	worth watching
+j	みごたえ	みごたへ	worth watching
+j	みごもる	みごもる	to be pregnant
+j	みさかい	みさかい	discrimination
+j	みさかい	みさかひ	discrimination
+j	みさげる	みさげる	相手の能力などが劣っている、低いものとして見る。見…
+j	みささぎ	みささぎ	天皇・太皇太后・皇太后・皇后の墓。かつては「みさざ…
+j	みしはせ	みしはせ	
+j	みしらぬ	みしらぬ	見たことも会ったこともなくて知らない。面識がない。
+j	みじかい	みじかい	ものの両端の距離が近い様。
+j	みじかよ	みじかよ	夏の短い夜。
+j	みじろぎ	みじろぎ	「みじろぐ」の連用形。
+j	みじろぐ	みじろぐ	to move slightly; to twit…
+j	みすえる	みすえる	じっと見る。見つめる。
+j	みすごす	みすごす	見落とす。
+j	みすてる	みすてる	困っている相手などを、そのことを知りながら放ってお…
+j	みすみす	みすみす	目の前にあり見ていながら。知っていながら。
+j	みずあか	みずあか	水に溶解している物質が固まり、浮遊、沈殿、付着した…
+j	みずあげ	みずあげ	船舶に積載された貨物を陸に揚げること。
+j	みずあめ	みずあめ	澱粉を酸や糖化酵素で糖化して作られた粘液状の甘味料。
+j	みずいと	みずいと	建築工事などで、水平線を示すのに使う糸。水縄。
+j	みずいれ	みずいれ	tray for holding water th…
+j	みずいれ	みづいれ	tray for holding water th…
+j	みずいろ	みずいろ	海や湖などを想わせる、青系統の色。ウォーターブルー。
+j	みずうみ	みずうみ	陸地に囲まれた水域のうち、規模の大きいもの。
+j	みずおち	みずおち	流れた水が落ちる場所。
+j	みずおと	みずおと	水が流れる音。また、水滴が落ちて立てる音。
+j	みずかき	みずかき	水上や水中、水辺で暮らす水鳥、哺乳類、両生類の手足…
+j	みずかさ	みずかさ	（河川などの）水量の多少、増減の程度。
+j	みずから	みずから	自分自身。
+j	みずがね	みずがね	〔雅語〕 水銀。
+j	みずがめ	みずがめ	水を貯めておくかめ。
+j	みずきり	みずきり	余分な水分を取ること。また、それをする設備や道具。
+j	みずぎわ	みずぎわ	陸が水面と接する場所。みぎわ。
+j	みずくさ	みずくさ	水辺に生息する植物。湿地植物、抽水性植物、浮葉性植…
+j	みずくち	みずくち	水の出入口。みなくち。
+j	みずぐち	みずぐち	水の出入口。みなくち。
+j	みずぐも	みずぐも	ミズクモ科の水中でくらす蜘蛛。
+j	みずごえ	みずごえ	液状の肥料。液肥。
+j	みずさし	みずさし	水などをある程度入れておき、花瓶やコップ、グラスな…
+j	みずさわ	みずさわ	a surname
+j	みずしま	みずしま	水嶋: a surname
+j	みずしめ	みずしめ	台所で水仕事をする下女。みずし。みずしおんな。
+j	みずぜめ	みずぜめ	water torture
+j	みずぜめ	みづぜめ	water torture
+j	みずそこ	みずそこ	海・川・湖沼などの底。水の底。
+j	みずぞこ	みずぞこ	河川や湖沼などの水の底。
+j	みずたま	みずたま	水が球形（またはそれに近い形）になったもの。また、…
+j	みずだこ	みずだこ	八腕形目マダコ科ミズダコ属に属する蛸の一種。学名:…
+j	みずつき	みずつき	馬具の一種で馬の手綱の両端を結びつける轡の引き手。…
+j	みずつぼ	みずつぼ	水壺。水甕。
+j	みずとり	みずとり	水を汲むこと
+j	みずどり	みずどり	水辺や水面で暮らす鳥の総称。
+j	みずなみ	みずなみ	水面に立つ波。
+j	みずなわ	みずなわ	水糸。
+j	みずのえ	みずのえ	十干の第9「壬」の和称。
+j	みずのて	みずのて	firefighting water
+j	みずのて	みづのて	firefighting water
+j	みずのと	みずのと	十干の第10「癸」の和称。
+j	みずはけ	みずはけ	水（水分）が流れていく具合。排水。
+j	みずはね	みずはね	水の流れを制御するために、河川や海岸に設置された工…
+j	みずばら	みずばら	過度に水を飲んだ時の腹の具合。
+j	みずひき	みずひき	水引: decorative cord made …
+j	みずぶき	みずぶき	「鬼蓮」の異称。
+j	みずぶろ	みずぶろ	浴槽に湯ではなく水を張った風呂。
+j	みずぼり	みずぼり	水を張った堀割。
+j	みずまし	みずまし	河川などの水量が増えること。増水。
+j	みずみち	みずみち	水が通る筋。水脈。
+j	みずむし	みずむし	足白癬の俗称。
+j	みずもれ	みずもれ	配管などから水が漏れること。
+j	みずやま	みずやま	水山, 端山: a surname
+j	みずやり	みずやり	栽培している植物に水を与えること。
+j	みせうり	みせうり	店で品物を売ること。また、その品物。
+j	みせかけ	みせかけ	「みせかける」の連用形。
+j	みせけち	みせけち	写本の際、または写本そのものに、誤字や消したい字が…
+j	みせさき	みせさき	店の前面。
+j	みせしめ	みせしめ	懲罰に際し、本人や周囲の人に同様の罪を犯させないよ…
+j	みせばん	みせばん	person in charge of recei…
+j	みせもの	みせもの	act; show
+j	みそかす	みそかす	miso dregs
+j	みそしる	みそしる	だしに野菜や魚介類などの具を加え、煮て、味噌で調味…
+j	みそのお	みそのお	御園生: a surname
+j	みぞおち	みぞおち	肋骨の正面中央下部の窪み。
+j	みぞごい	みぞごい	コウノトリ目サギ科ミゾゴイ属に属する鳥の一種。学名…
+j	みたいだ	みたいだ	のようだ。類似を表す。
+j	みたてる	みたてる	物を見て選定する。
+j	みたまや	みたまや	故人の御霊をまつる建物。霊屋
+j	みたらい	みたらい	「みたらし」に同じ。
+j	みたらし	みたらし	神社などで参拝前に手や口を洗い清める場所。手水舎。
+j	みだらな	みだらな	
+j	みだれる	みだれる	ばらばらになる
+j	みちいと	みちいと	つりざおの先から鉤素をつなぐところまでの糸。
+j	みちおみ	みちおみ	道臣: a male given name
+j	みちかけ	みちかけ	月が満ちることと欠けること。盈虧。
+j	みちかた	みちかた	道路の端に位置する地帯。ろかた。
+j	みちくさ	みちくさ	道端に生えている草。
+j	みちしお	みちしお	潮が満ちて海面が上昇すること。満潮。高潮。上げ潮。…
+j	みちすじ	みちすじ	通っていく道。
+j	みちたか	みちたか	道隆: a male given name
+j	みちたけ	みちたけ	三千丈: a male given name
+j	みちづれ	みちづれ	taking something/someone …
+j	みちとし	みちとし	道利, 道世, 通俊, 義利, 道俊, 通敏, 光…
+j	みちなか	みちなか	目的地への経路の途中。
+j	みちのく	みちのく	陸奥国（陸前、陸中、陸奥、岩代、磐城）の古称。
+j	みちのり	みちのり	ある所に行き着くまでの距離。
+j	みちはば	みちはば	width of the road
+j	みちばた	みちばた	roadside
+j	みちひき	みちひき	満潮と干潮。満潮になったり干潮になったりすること。…
+j	みちひこ	みちひこ	道彦: a male given name
+j	みちひさ	みちひさ	道久: a male given name
+j	みちびき	みちびき	導くこと。誘導。指導。
+j	みちびく	みちびく	目的の場所に連れて行く。案内する。
+j	みちみち	みちみち	あの道もこの道も。
+j	みっける	みっける	Gunma form of 見付ける (mitsu…
+j	みっちり	みっちり	to the fullest; seriously
+j	みつあい	みつあい	三本の糸や紐などをよりあわせること。
+j	みつあき	みつあき	光昭: a male given name
+j	みつあし	みつあし	足が三本あること。また、そのようなもの。
+j	みつあみ	みつあみ	plait, braid
+j	みつかる	みつかる	（こっそりしたことなどが）人の目にとまる。発見され…
+j	みつくち	みつくち	口唇口蓋裂の一種。上唇の中央が先天的に縦に裂けてい…
+j	みつける	みつける	求めている物を捜し出す。
+j	みつげつ	みつげつ	蜜月: honeymoon
+j	みつたか	みつたか	光尊: a male given name
+j	みつちか	みつちか	光親: a male given name
+j	みつのぶ	みつのぶ	光信: a male given name
+j	みつのり	みつのり	光則, 光教: a male given name
+j	みつひこ	みつひこ	光彦: a male given name
+j	みつひさ	みつひさ	満寿: a male given name
+j	みつひろ	みつひろ	光浩, 光宏, 充宏, 充広, 光広, 充弘, 光…
+j	みつぼし	みつぼし	三つの星。その形。
+j	みつまさ	みつまさ	光正: a male given name
+j	みつまた	みつまた	三叉: a three-way fork
+j	みつめる	みつめる	あるものをじっと見る。
+j	みつもり	みつもり	金額・量・期間等を前もって概算すること。
+j	みつもる	みつもる	予め大体の計算をして見当を付ける。
+j	みつやす	みつやす	光泰: a male given name
+j	みつゆき	みつゆき	充志: a male given name
+j	みつよし	みつよし	満芳: a male given name
+j	みづうみ	みづうみ	
+j	みていた	みていた	見ていた: perfective of 見ている
+j	みている	みている	見ている: present continuous …
+j	みてくれ	みてくれ	外見。外観。上辺。
+j	みてとる	みてとる	見破る。認める。
+j	みとおし	みとおし	見通すこと。
+j	みとおす	みとおす	初めから終わりまで全て見る。
+j	みとめる	みとめる	そこにあることを見て知る。
+j	みとれる	みとれる	to be captivated and unab…
+j	みどころ	みどころ	part to see especially; h…
+j	みどりご	みどりご	嬰児, 緑児: a newborn, an inf…
+j	みなおし	みなおし	「みなおす」の連用形。
+j	みなおす	みなおす	（他動詞）一度したことを改めて見る。
+j	みなかみ	みなかみ	川上。上流。
+j	みなぎる	みなぎる	水がいっぱいになる。水流の勢いが盛んである。
+j	みなくち	みなくち	川から田へ水を引き入れる口。みずぐち。
+j	みなぐち	みなぐち	河川から田んぼへ用水を引き入れる口。
+j	みなさま	みなさま	その場にいるすべての人。関係するすべての人。また大…
+j	みなさん	みなさん	「みなさま（皆様）」の少しくだけた尊敬語。
+j	みなしご	みなしご	両親を失った子供。
+j	みなそこ	みなそこ	海・川・湖沼などの底。水の底。
+j	みなづき	みなづき	（古語・雅語）六月。夏の季語。
+j	みなみな	みなみな	「皆」を重ねて強調した語。みんな。
+j	みなもと	みなもと	川の水の流れ出る所。
+j	みならい	みならい	見習うこと。
+j	みならう	みならう	模範的な人のする事を見て覚える。
+j	みなれる	みなれる	何度も見ていてよく知っている。
+j	みにくい	みにくい	見た目が悪い。
+j	みねうち	みねうち	刀剣の背の部分で打ちつけること。一般に相手致命傷を…
+j	みねぐも	みねぐも	積乱雲の別称。くものみね。ねぐも。雲峰。
+j	みのうえ	みのうえ	その人の過去から現在に至った境遇。
+j	みのがす	みのがす	to overlook by accident (…
+j	みのしろ	みのしろ	家財。財産。
+j	みのたけ	みのたけ	stature; height
+j	みのつき	みのつき	陰暦四月の異称。
+j	みのほど	みのほど	自分の身分・能力などの程度。
+j	みのむし	みのむし	ミノガ科に属する蛾の幼虫。特に大蓑蛾の幼虫を指す。…
+j	みはらい	みはらい	品物やサービス等に対する対価を、まだ支払っていない…
+j	みはらし	みはらし	広く遠くまで見渡すこと。眺め。
+j	みはらす	みはらす	広く遠くまで見渡す。
+j	みばらい	みばらい	「みはらい」の表記ゆれ。
+j	みひらき	みひらき	書物を開いた時の向かい合った左右の面。
+j	みぶるい	みぶるい	恐怖や寒さにより体が震えること。
+j	みまもる	みまもる	無事であるように注意して見る。
+j	みまわす	みまわす	回りをぐるっと見る。
+j	みまわり	みまわり	「みまわる」の連用形。
+j	みまわる	みまわる	見物や監視などのために回って歩く。
+j	みみあか	みみあか	耳の穴にたまる垢。
+j	みみあて	みみあて	耳当て, 耳あて: earmuffs
+j	みみいし	みみいし	石段の左右に置かれる石。
+j	みみうち	みみうち	相手の耳に口を近付けて囁くこと。
+j	みみかき	みみかき	耳の穴から耳垢を掻き出す行為。またそのための道具。
+j	みみきり	みみきり	人間の耳を切る行為。
+j	みみくそ	みみくそ	耳にたまる垢。耳垢。
+j	みみしい	みみしい	聾, 耳癈: (archaic, possibly…
+j	みみしい	みみしひ	聾, 耳癈: (archaic, possibly…
+j	みみずく	みみずく	フクロウ科のうち羽角がある種の総称。
+j	みみせん	みみせん	耳栓: earplug
+j	みみたぶ	みみたぶ	耳の下に垂れ下がるやわらかい肉。
+j	みみたぼ	みみたぼ	耳朶: earlobe
+j	みみだれ	みみだれ	耳の穴から分泌物が出る症状。耳漏。
+j	みみなり	みみなり	周りで音がしなくても、自分には音が鳴っているように…
+j	みみもと	みみもと	near the ear
+j	みめよい	みめよい	顔つきが美しい。器量がよい。
+j	みもだえ	みもだえ	苦しみや痛みなどのため体を捩るように動かすこと。
+j	みやかわ	みやかわ	宮川: a surname
+j	みやでら	みやでら	神仏習合により神社に付属して建立された寺院。神宮寺。
+j	みやびお	みやびお	洗練され、風雅な男性。風流な男性。
+j	みやぶる	みやぶる	秘密・計略などを見抜く。
+j	みるがい	みるがい	みるくいがいの別称。
+j	みるくい	みるくい	みるくいがいの別称。
+j	みるみる	みるみる	quickly before one's eyes…
+j	みわける	みわける	to distinguish; to tell a…
+j	みわたす	みわたす	遠くの方まで見る。
+j	ミェイク	ミェイク	Myeik (a city in southern…
+j	ミカエル	ミカエル	Michael
+j	ミキサー	ミキサー	mixer (blender)
+j	ミクロン	ミクロン	micron
+j	ミケーネ	ミケーネ	
+j	ミサイル	ミサイル	missile
+j	ミサンガ	ミサンガ	friendship bracelet; misa…
+j	ミシェル	ミシェル	a transliteration of the …
+j	ミシガン	ミシガン	Michigan (a state of the …
+j	ミシン目	みしんめ	perforation (hole)
+j	ミシン目	ミシンめ	perforation (hole)
+j	ミシン目	ミシン目	perforation (hole)
+j	ミジンコ	ミジンコ	「微塵子」の学術的表記。
+j	ミスコン	ミスコン	「ミスコンテスト」の略。
+j	ミスリル	ミスリル	
+j	ミズグモ	ミズグモ	「水蜘蛛」の学術的表記。
+j	ミズーリ	ミズーリ	Missouri (a state in the …
+j	ミゼット	ミゼット	
+j	ミゾラム	ミゾラム	
+j	ミダース	ミダース	Midas
+j	ミックス	ミックス	混ぜること。混和。
+j	ミツバチ	ミツバチ	「蜜蜂」の学術的表記。
+j	ミツマタ	ミツマタ	フトモモ目ジンチョウゲ科ミツマタ属に属する落葉低木…
+j	ミニカー	ミニカー	道路交通法においてエンジンの総排気量が20cc超5…
+j	ミニコン	ミニコン	「ミニコンピュータ」の略。
+j	ミニスカ	ミニスカ	ミニスカート。
+j	ミニバン	ミニバン	minivan
+j	ミニバー	ミニバー	minibar
+j	ミニパト	ミニパト	mini patrol car
+j	ミニマム	ミニマム	最小、最低限，最小限。
+j	ミニ豚	みにぶた	minipig
+j	ミニ豚	ミニぶた	minipig
+j	ミネソタ	ミネソタ	Minnesota (a state in the…
+j	ミネラル	ミネラル	mineral
+j	ミネルバ	ミネルバ	Minerva, the ancient Roma…
+j	ミハイル	ミハイル	
+j	ミマース	ミマース	ギリシア神話の巨人族。
+j	ミミズク	ミミズク	カメムシ目ミミズク科ミミズク属のカメムシの一種。学…
+j	ミモレ丈	ミモレ丈	ふくらはぎの中程までの丈のワンピースやスカート、パ…
+j	ミャオ族	ミャオ族	
+j	ミャオ語	ミャオ語	
+j	ミューズ	ミューズ	a muse
+j	ミュート	ミュート	muting (a technique used …
+j	ミュール	ミュール	mule (shoe)
+j	ミュー株	ミュー株	
+j	ミラクル	ミラクル	miracle
+j	ミラトレ	ミラトレ	
+j	ミラノの	ミラノの	
+j	ミラノ人	ミラノ人	
+j	ミラミチ	ミラミチ	
+j	ミランダ	ミランダ	天王星の第五衛星の固有名。
+j	ミラーノ	ミラーノ	Mirano
+j	ミリオタ	ミリオタ	軍事好きのオタク。
+j	ミリオン	ミリオン	百万。
+j	ミリヲタ	ミリヲタ	「ミリオタ」の別表記。
+j	ミリ豚	みりぶた	熱狂的、狂信的な軍事好きのおたく。
+j	ミルク缶	ミルク缶	
+j	ミルク蛇	ミルク蛇	
+j	ミンカン	ミンカン	他家が捨てた暗刻と同じ牌を槓したり、明刻と同じ牌を…
+j	ミンコー	ミンコー	ポンによりつくった刻子。
+j	ミンサー	ミンサー	meatgrinder, mincer (devi…
+j	ミンスク	ミンスク	Minsk (the capital city o…
+j	ミンブル	ミンブル	
+j	ミン南語	ミン南語	
+j	ミーグリ	ミーグリ	
+j	ミーハー	ミーハー	lowbrow
+j	ミープル	ミープル	
+j	ミーム化	ミーム化	
+j	ミーム学	ミーム学	memetics
+j	ミ語法	みごほう	古典日本語において上代以前に用いられた、形容詞の語…
+j	三つ組	みつぐみ	
+j	三つ編み	みつあみ	
+j	三ツ俣	みつまた	a surname
+j	三ツ俣	みツまた	a surname
+j	三七日	みなぬか	死去からその日を含めて21日目（に行われる法要）。
+j	三千丈	みちたけ	a male given name
+j	三千年	みちとし	a male given name
+j	三千秋	みちあき	a male given name
+j	三叉	みつまた	a three-way fork, such as…
+j	三平	みつひら	a male given name
+j	三日月	みかづき	a crescent moon on the th…
+j	三椏	みつまた	mitsumata, Edgeworthia ch…
+j	三椏	ミツマタ	mitsumata, Edgeworthia ch…
+j	三橋	みつはし	a surname
+j	三毛猫	みけねこ	a calico cat
+j	三毛貓	みけねこ	
+j	三菱	みつびし	Mitsubishi (industrial co…
+j	三重県	みえけん	a prefecture in the 近畿 (K…
+j	三重県	みへけん	a prefecture in the 近畿 (K…
+j	乱れる	みだれる	to be confused, to be dis…
+j	乱れ刃	みだれば	a curved temper line on a…
+j	乱れ緒	みだれお	tangled thread
+j	乱れ麻	みだれお	tangled thread or yarn
+j	倫明	みちあき	a male given name
+j	充宏	みつひろ	a male given name
+j	充広	みつひろ	a male given name
+j	充弘	みつひろ	a male given name
+j	充志	みつゆき	a male given name
+j	光久	みつひさ	a male given name
+j	光保	みつやす	a male given name
+j	光信	みつのぶ	a male given name
+j	光則	みつのり	a male given name
+j	光千年	みちとし	a male given name
+j	光博	みつひろ	a male given name
+j	光原	みつはら	a surname
+j	光圀	みつくに	a surname
+j	光宏	みつひろ	a male given name
+j	光尊	みつたか	a male given name
+j	光山	みつやま	a surname
+j	光岡	みつおか	a surname
+j	光広	みつひろ	a male given name
+j	光弘	みつひろ	a male given name
+j	光彦	みつひこ	a male given name
+j	光教	みつのり	a male given name
+j	光昭	みつあき	a male given name
+j	光正	みつまさ	a male given name
+j	光沢	みつざわ	luster, polish, gloss, sh…
+j	光治	みつはる	a male given name
+j	光泰	みつやす	a male given name
+j	光浩	みつひろ	a male given name
+j	光親	みつちか	a male given name
+j	光貴	みつたか	a male given name
+j	光郎	みつろう	a male given name
+j	冥加	みやうが	divine protection
+j	冥加	みょうが	divine protection
+j	南	みんなみ	the south (cardinal point)
+j	南に	みなみに	
+j	南の	みなみの	
+j	南方	みなかた	south, southern area
+j	南田	みなみだ	a surname
+j	南野	みなみの	a surname
+j	右上	みぎうえ	top right, upper right
+j	右上	みぎうへ	top right, upper right
+j	右下	みぎした	bottom right, lower right
+j	右側	みぎがわ	right-hand side
+j	右利き	みぎきき	right-handedness
+j	右肩	みぎかた	右側の肩。
+j	右腕	みぎうで	right arm
+j	名利	みょうり	名誉と利益。
+j	名字	みやうじ	surname, family name
+j	名字	みょうじ	surname, family name
+j	味噌汁	みそしる	miso soup: a soup, based …
+j	味方の	みかたの	
+j	壬	みずのえ	the ninth of the ten heav…
+j	壬	みづのえ	the ninth of the ten heav…
+j	夫婦	みょうと	husband and wife, married…
+j	妙味	みょうみ	優れた味わいや趣。
+j	妙機	みょうき	仏道修行に耐えうる優れた素質や能力。優れた機根。
+j	妙辞	みょうじ	立派な言葉や文章。
+j	嬰児	みどりご	baby, infant, newborn
+j	孤児	みなしご	an orphan
+j	実のない	みのない	
+j	実の有る	みのある	solid; substantial
+j	実生	みしやう	seedling; plant raised fr…
+j	実生	みしょう	seedling; plant raised fr…
+j	宮下	みやした	a surname
+j	宮下	みやしも	a surname
+j	宮下	みやもと	a surname
+j	宮人	みやびと	noble courtier
+j	宮内	みやうち	synonym of 宮中 (kyūchū, “t…
+j	宮前	みやまえ	a surname
+j	宮原	みやはら	a surname
+j	宮古語	みやこご	宮古列島で話される言語。ユネスコの消滅危険度評価に…
+j	宮号	みやがう	the title of a 宮家 (miyake…
+j	宮号	みやごう	the title of a 宮家 (miyake…
+j	宮坂	みやさか	a surname
+j	宮寺	みやでら	a surname
+j	宮山	みややま	a surname
+j	宮岡	みやおか	a surname
+j	宮島	みやじま	a surname
+j	宮崎	みやさき	Miyazaki (the capital cit…
+j	宮崎	みやざき	Miyazaki (the capital cit…
+j	宮川	みやかわ	a surname
+j	宮川	みやがわ	a surname
+j	宮本	みやもと	a surname
+j	宮村	みやむら	a surname
+j	宮森	みやもり	a surname
+j	宮武	みやたけ	a surname
+j	宮沢	みやざわ	a surname
+j	宮澤	みやざわ	a surname
+j	宮脇	みやわき	a surname
+j	宮西	みやにし	a surname
+j	宮越	みやこし	a surname
+j	宮里	みやざと	a surname
+j	宮﨑	みやざき	a surname
+j	密会	みっかい	closed meeting
+j	密偵	みってい	spy
+j	密号	みつごう	密教における諸尊、灌頂を受けたときなどの名称。
+j	密告	みっこく	tipoff
+j	密営	みつえい	a secret military camp in…
+j	密営	みりょん	a secret military camp in…
+j	密営	ミリョン	a secret military camp in…
+j	密売	みつばい	illicit sale
+j	密奏	みっそう	内密に奏上すること。密封した文書で奏聞すること。ま…
+j	密契	みっけい	内密の約束。密約。
+j	密室	みっしつ	hidden room; secret chamb…
+j	密密	みつみつ	厳重に守るべき秘密。
+j	密封	みっぷう	sealing
+j	密接	みっせつ	being physically close to…
+j	密教	みっけう	esoteric Buddhism
+j	密林	みつりん	a dense thicket; a jungle
+j	密竹	みっちく	密生している竹。翠竹。
+j	密約	みつやく	a secret agreement
+j	密航	みっこう	clandestine and illegal c…
+j	密航	みつかう	clandestine and illegal c…
+j	密葬	みっそう	秘密裏に遺体を葬ること。
+j	密蔵	みつぞう	密教の経典や教義。
+j	密行	みっこう	（みっこう）微行すること。
+j	密計	みっけい	内密の計略。秘密のはかりごと。
+j	密談	みつだん	内密な相談。
+j	密謀	みつぼう	secret scheme
+j	密送	みっそう	内密に送ること。
+j	密通	みっつう	secret communication with…
+j	密造	みつぞう	法令で作ることが禁止されている物を密かに製造するこ…
+j	密閉	みっぺい	airtightness
+j	密陽	みつやう	Miryang (a city in South …
+j	密陽	みつよう	Miryang (a city in South …
+j	密陽	みりゃん	Miryang (a city in South …
+j	密陽	ミリャン	Miryang (a city in South …
+j	密集	みつしふ	crowd, cluster, swarm
+j	密雲	みつうん	dense clouds; overcast
+j	導く	みちびく	to guide, to conduct
+j	導宏	みちひろ	a male given name
+j	峯岸	みねぎし	a surname
+j	峯本	みねもと	a surname
+j	巫女兵	みこへい	A warrior priestess
+j	巳己巳己	みこしき	よく似ているもののたとえ。参考：鈴木勝忠『続雑俳語…
+j	幣	みちぐら	paper or cloth offered on…
+j	幣	みてぐら	paper or cloth offered on…
+j	幹三	みきぞう	a male given name
+j	幹典	みきのり	a male given name
+j	店番	みせばん	店舗などの番をすること。
+j	御園生	みそのお	a surname
+j	御子柴	みこしば	a surname
+j	御手洗	みたらい	purifying water at the en…
+j	御手洗	みたらし	purifying water at the en…
+j	御手洗	みたらひ	purifying water at the en…
+j	御璽	みしるし	imperial seal, privy seal
+j	御陵	みささぎ	天皇、皇后、皇太后、太皇太后を葬る墓所。
+j	微塵子	みじんこ	a water flea of the genus…
+j	微塵子	みぢんこ	a water flea of the genus…
+j	微塵子	ミジンコ	a water flea of the genus…
+j	微塵子	ミヂンコ	a water flea of the genus…
+j	微塵粉	みじんこ	rice granules
+j	微塵粉	みぢんこ	rice granules
+j	微笑	みしょう	smile
+j	惨めさ	みじめさ	
+j	惨めな	みじめな	
+j	明初	みんしょ	中国の明の時代の初期。
+j	明刻	みんこー	「ミンコー」を参照。
+j	明日	みょうが	tomorrow
+j	明朝	みんてう	tomorrow morning
+j	明末	みんまつ	中国の明の時代の末期。
+j	明楽	みんがく	中国明の音楽。江戸時代の寛永年間に日本に渡来したが…
+j	明槓	みんかん	melded kong
+j	明槓	ミンカン	melded kong
+j	明銭	みんせん	中国明朝が鋳造した銭貨。室町時代、日本に輸入された…
+j	木兎	みみずく	
+j	木兎	ミミズク	
+j	木菟	みみずく	a horned owl
+j	木菟	みみづく	a horned owl
+j	木菟	ミミズク	a horned owl
+j	木菟	ミミヅク	a horned owl
+j	未了	みりょう	未だに終わらないこと。
+j	未使用	みしよう	something that has gone u…
+j	未修	みしゅう	まだ履修していない科目。
+j	未分化	みぶんか	いくつかの要素が混じり合い、分化すべきものが分かれ…
+j	未収	みしゅう	いまだに徴収や収納されていないこと。
+j	未完	みくわん	incompletion, unfinishedn…
+j	未所持	みしょじ	まだ所持していないこと。
+j	未曽有	みぞうう	something that has never …
+j	未来派	みらいは	futurism (art movement)
+j	未来視	みらいし	未来にある物を現在そこにあるかのように見ることので…
+j	未熟	みじゅく	immature
+j	未着	みちゃく	まだ到着しない（していない）こと。
+j	未知数	みちすう	unknown (variable)
+j	未舗装	みほそう	まだ舗装されていないさま。
+j	未詳	みしやう	being unclear; being unkn…
+j	未詳	みしょう	being unclear; being unkn…
+j	民主	みんしゅ	democracy
+j	民俗	みんぞく	folklore; folkway; folk c…
+j	民兵	みんぺい	a militia (army of traine…
+j	民初	みんしょ	中華民国の時代の初期。
+j	民営	みんえい	private (nongovernmental)…
+j	民国	みんこく	a republic, now only eith…
+j	民声	みんせい	国民や住民の声。輿論。
+j	民居	みんきょ	人民の住居。
+j	民放	みんぱう	民間放送の略。
+j	民放	みんぽう	民間放送の略。
+j	民政	みんせい	civil government
+j	民族	みんぞく	people, race, ethnic grou…
+j	民暴	みんぼう	「民事介入暴力」の略。
+j	民権	みんけん	civil rights
+j	民泊	みんぱく	a private residence tempo…
+j	民法	みんぽう	civil law
+j	民生	みんせい	consumer
+j	民芸	みんげい	庶民の生活から生まれたその土地土地の風土や習慣など…
+j	民謠	みんよう	
+j	民謡	みんよう	folk song (of the ordinar…
+j	民選	みんせん	国民が選挙すること。
+j	民間	みんかん	private, non-governmental
+j	民防	みんぼう	
+j	水上	みずかみ	aquatic
+j	水上	みづかみ	aquatic
+j	水上	みなかみ	aquatic
+j	水中	みずなか	underwater
+j	水俣	みなまた	Minamata (a city in Kumam…
+j	水内	みずうち	a surname
+j	水内	みずない	a surname
+j	水切り	みずきり	drainer, strainer
+j	水割り	みずわり	dilution of whiskey, shoc…
+j	水割り	みづわり	dilution of whiskey, shoc…
+j	水原	みずはら	a surname
+j	水原	みづはら	a surname
+j	水原	みなはら	a surname
+j	水口	みずくち	an inlet or outlet for wa…
+j	水口	みずぐち	an inlet or outlet for wa…
+j	水口	みづくち	an inlet or outlet for wa…
+j	水口	みづぐち	an inlet or outlet for wa…
+j	水口	みなぐち	an inlet or outlet for wa…
+j	水城	みずしろ	a surname
+j	水増し	みずまし	dilution
+j	水増し	みづまし	dilution
+j	水尾	みずのお	a female given name
+j	水尾	みづのを	a female given name
+j	水山	みずやま	a surname
+j	水島	みずしま	a surname
+j	水嶋	みずしま	a surname
+j	水差し	みずさし	pitcher; jug; ewer
+j	水底	みずそこ	the bottom or bed of a bo…
+j	水底	みなそこ	the bottom or bed of a bo…
+j	水底	みなぞこ	the bottom or bed of a bo…
+j	水引	みずひき	decorative Japanese cord …
+j	水引	ミズヒキ	decorative Japanese cord …
+j	水影	みずかげ	a reflection on water
+j	水影	みづかげ	a reflection on water
+j	水掻き	みずかき	swimfin, paddle (flat lim…
+j	水揚げ	みずあげ	landing (bringing to land…
+j	水揚げ	みづあげ	landing (bringing to land…
+j	水木	みずのき	Cornus controversa var. c…
+j	水本	みずもと	a surname
+j	水本	みづもと	a surname
+j	水本	みなもと	a surname
+j	水杉	みずすぎ	Lycopodiella cernuum
+j	水杉	みづすぎ	Lycopodiella cernuum
+j	水杉	ミズスギ	Lycopodiella cernuum
+j	水桶	みずおけ	bucket; pail (container f…
+j	水桶	みづをけ	bucket; pail (container f…
+j	水永	みずなが	a surname
+j	水沢	みずさわ	a surname
+j	水無月	みなづき	the sixth month of the lu…
+j	水牢	みずろう	水浸しにした牢屋に罪人を収容する刑罰。また、その牢…
+j	水玉	みずたま	a water droplet, such as …
+j	水玉	みづたま	a water droplet, such as …
+j	水瓶	みずがめ	water jug
+j	水綿	みずわた	spirogyra
+j	水綿	みづわた	spirogyra
+j	水色	みずいろ	light blue, sky blue, tur…
+j	水草	みずくさ	aquatic plants
+j	水菓子	みずがし	fruit
+j	水落	みずおち	a surname
+j	水虫	みずむし	athlete's foot
+j	水蚤	みじんこ	「微塵子」の別表記。
+j	水蚤	みぢんこ	「微塵子」の別表記。
+j	水蚤	ミジンコ	「微塵子」の別表記。
+j	水蚤	ミヂンコ	「微塵子」の別表記。
+j	水蜘蛛	みずぐも	a water spider, Argyronet…
+j	水蜘蛛	みづぐも	a water spider, Argyronet…
+j	水蜘蛛	ミズグモ	a water spider, Argyronet…
+j	水蜘蛛	ミヅグモ	a water spider, Argyronet…
+j	水谷	みずたに	a surname
+j	水銀	みずかね	mercury; quicksilver
+j	水銀	みずがね	mercury; quicksilver
+j	水銀	みづかね	mercury; quicksilver
+j	水銀	みづがね	mercury; quicksilver
+j	水風呂	みずぶろ	room temperature / cold b…
+j	水風呂	みづぶろ	room temperature / cold b…
+j	水飴	みずあめ	mizuame (glutinous starch…
+j	水魚	みずうお	water and fish
+j	水魚	ミズウオ	water and fish
+j	水鳥	みずとり	waterfowl
+j	淫らな	みだらな	
+j	湊谷	みなとや	a surname
+j	湖	みずうみ	a lake (body of water)
+j	湖	みづうみ	a lake (body of water)
+j	満ち引き	みちひき	synonym of 干満 (“ebb and f…
+j	満ち潮	みちしお	
+j	満寿	みつひさ	a male given name
+j	満潮	みちしお	high tide
+j	満芳	みつよし	a male given name
+j	源	みなもと	a fountainhead (source of…
+j	源本	みなもと	a surname
+j	準	みずもり	sub-; quasi-
+j	準	みづもり	sub-; quasi-
+j	溝	みぞさき	ditch, channel
+j	溝上	みぞうえ	Mizonoue (a neighborhood …
+j	溝上	みぞかみ	Mizonoue (a neighborhood …
+j	溝上	みぞがみ	Mizonoue (a neighborhood …
+j	溝五位	みぞごい	Japanese night heron
+j	溝五位	みぞごゐ	Japanese night heron
+j	溝五位	ミゾゴイ	Japanese night heron
+j	溝口	みぞぐち	a surname
+j	漲る	みなぎる	swell up, overflow, perva…
+j	猛火	みょうか	raging fire; inferno
+j	璽	みしるし	a seal or sigil carved in…
+j	癸	みずのと	the tenth of the ten heav…
+j	癸	みづのと	the tenth of the ten heav…
+j	皆さま	みなさま	everybody, everyone
+j	皆さん	みなさん	everybody, everyone
+j	皆川	みながは	a surname
+j	皆川	みながわ	a surname
+j	皆様	みなさま	
+j	眠剤	みんざい	soporific (drug)
+j	眠性	みんせい	蚕が脱皮する前に桑の葉を食べなくなる性質。
+j	短い	みじかい	short, brief (in time)
+j	短い	みちかい	short, brief (in time)
+j	端山	みずやま	a male given name
+j	箕作	みつくり	a winnowing basket maker
+j	箕作	みづくり	a winnowing basket maker
+j	簑原	みのはら	a surname
+j	緑の	みどりの	
+j	美作	みまさか	Mimasaka (a city in Okaya…
+j	美智久	みちひさ	a male given name
+j	美濃紙	みのがみ	Mino washi, a type of was…
+j	義利	みちとし	a male given name
+j	耳あて	みみあて	
+j	耳ん垢	みみんご	
+j	耳コピ	みみこぴ	replication of a piece of…
+j	耳コピ	みみコピ	replication of a piece of…
+j	耳偏	みみへん	漢字の部首「⽿」が偏である場合の呼称。
+j	耳切り	みみきり	the practice of cutting o…
+j	耳垂れ	みみだれ	ear discharge
+j	耳垢	みみあか	earwax, cerumen
+j	耳屎	みみくそ	
+j	耳当て	みみあて	earmuffs
+j	耳打ち	みみうち	whispering into someone's…
+j	耳掻き	みみかき	earpick
+j	耳木兎	みみずく	
+j	耳木兎	ミミズク	
+j	耳木菟	みみずく	
+j	耳木菟	ミミズク	
+j	耳朶	みみたぶ	earlobe
+j	耳朶	みみたぼ	earlobe
+j	耳栓	みみせん	earplug
+j	耳糞	みみくそ	earwax
+j	耳糞	みんくそ	earwax
+j	耳蝉	みみずく	an eared leaf-hopper (Led…
+j	耳鳴り	みみなり	tinnitus
+j	自ら	みずから	personally, by or for one…
+j	自ら	みづから	personally, by or for one…
+j	苗字	みょうじ	姓氏。姓。
+j	茗荷	みょうが	myoga or Japanese ginger …
+j	茗荷	ミョウガ	myoga or Japanese ginger …
+j	蒼鷺	みとさぎ	grey heron
+j	蓑笠	みのかさ	straw raincoat and bamboo…
+j	蓑虫	みのむし	bagworm, larva of moths o…
+j	蓑虫	ミノムシ	bagworm, larva of moths o…
+j	蘘荷	みょうが	茗荷の別表記
+j	蜜月	みつげつ	a honeymoon (period of ti…
+j	蜜柑	みっかん	a satsuma tree, a mikan t…
+j	蜜槽	みっそう	「蜜腺」に同じ。
+j	蜜槽	みつそう	「蜜腺」に同じ。
+j	蜜腺	みっせん	被子植物で花蜜を分泌する器官。花にあるものと花以外…
+j	蜜腺	みつせん	被子植物で花蜜を分泌する器官。花にあるものと花以外…
+j	蜜蜂	みつばち	honey bee
+j	蜜蜂	ミツバチ	honey bee
+j	蜜蝋	みつらふ	beeswax
+j	蜜蝋	みつろう	beeswax
+j	蜜蠟	みつろう	蜜蜂が巣を造る際に出す液体。巣を加熱、圧縮して採取…
+j	蜜豆	みつまめ	ゆでた赤豌豆、賽の目状に切った寒天、切った果物など…
+j	見えない	みえない	blind
+j	見える化	みえるか	Visualization.
+j	見え見え	みえみえ	being obvious or plain
+j	見せパン	みせぱん	boyshorts
+j	見せパン	みせパン	boyshorts
+j	見せ合う	みせあう	show each other, compare
+j	見せ掛け	みせかけ	
+j	見つける	みつける	
+j	見ていた	みていた	
+j	見る専	みるせん	exclusively lurking
+j	見上げる	みあげる	to look up at
+j	見下げる	みさげる	look down on, regard with…
+j	見下す	みくだす	to look down on, to scorn…
+j	見下ろす	みおろす	to overlook, to have a vi…
+j	見事	みんごと	spectacular, splendid, ma…
+j	見事な	みごとな	
+j	見付かる	みつかる	be discovered
+j	見付ける	みつける	to discover, to find
+j	見出し	みいだし	headline (of news)
+j	見出し語	みだしご	headword (of a dictionary)
+j	見出す	みいだす	to find out
+j	見取り図	みとりず	map
+j	見取り図	みとりづ	map
+j	見取図	みとりず	地形・建物・配置などの大体の様子を分かりやすく描い…
+j	見受ける	みうける	to judge (as something), …
+j	見回す	みまわす	to look around, to survey…
+j	見始め	みはじめ	the first sight of someth…
+j	見守る	みまもる	to look after
+j	見当たる	みあたる	to find the object of a s…
+j	見慣れる	みなれる	to grow accustomed to (a …
+j	見捨てる	みすてる	to abandon, to desert
+j	見据える	みすえる	stare intently at
+j	見掛ける	みかける	to come across, to notice…
+j	見晴らし	みはらし	view, vista
+j	見殺し	みごろし	standing by and watching …
+j	見渡す	みわたす	to look off into the dist…
+j	見目良い	みめよい	good looking
+j	見直す	みなおす	look over, go over, re-ex…
+j	見破る	みやぶる	to see through (a plot, a…
+j	見積もり	みつもり	estimation; quotation
+j	見積もる	みつもる	to estimate
+j	見納め	みおさめ	last sight of a person, l…
+j	見習い	みならい	apprenticeship
+j	見習い	みならひ	apprenticeship
+j	見習う	みならう	follow someone's example
+j	見落とす	みおとす	to overlook; to fail to n…
+j	見覚え	みおぼえ	something that gives the …
+j	見詰める	みつめる	to stare at
+j	見返し	みかえし	
+j	見返す	みかえす	to look over
+j	見返す	みかへす	to look over
+j	見送り	みおくり	send-off, farewell, such …
+j	見送る	みおくる	to see off (accompany, es…
+j	見逃す	みのがす	
+j	見透かす	みすかす	see through; have an insi…
+j	見通し	みとおし	view, outlook (wide visib…
+j	見通し	みとほし	view, outlook (wide visib…
+j	見通す	みとおす	get a clear view of, see …
+j	見通す	みとほす	get a clear view of, see …
+j	見開き	みひらき	double-page spread
+j	見開く	みひらく	become wide-eyed, open on…
+j	見限る	みかぎる	to give up on; to turn on…
+j	見飽きる	みあきる	to get tired of looking a…
+j	角鴟	みみずく	
+j	角鴟	ミミズク	
+j	認める	みとめる	to accept, admit, to appr…
+j	路晃	みちあき	a male given name
+j	路肩	みちかた	shoulder of a road (part …
+j	身になる	みになる	to do one good; to be ben…
+j	身の程	みのほど	one's social position
+j	身を売る	みをうる	to sell one's body
+j	身代わり	みがわり	substitution (for someone…
+j	身動き	みうごき	moving about
+j	身支度	みじたく	何かをするために、身なりを整えること。
+j	身罷る	みまかる	to die, to pass away
+j	身贔屓	みびいき	nepotism
+j	身軽い	みがるい	nimble
+j	通俊	みちとし	a male given name
+j	通哲	みちあき	a male given name
+j	通弘	みちひろ	a male given name
+j	通敏	みちとし	a male given name
+j	道	みちひろ	Tao (the way of nature), …
+j	道のり	みちのり	distance to one's destina…
+j	道世	みちとし	a male given name
+j	道中	みちなか	traveling, journeying
+j	道久	みちひさ	a male given name
+j	道俊	みちとし	a male given name
+j	道典	みちのり	a male given name
+j	道利	みちとし	a male given name
+j	道大	みちひろ	a male given name
+j	道師	みちのし	the fifth-highest of the …
+j	道幸	みちゆき	a surname
+j	道彦	みちひこ	a male given name
+j	道枝	みちえだ	a surname
+j	道程	みちのり	ある所に行き着くまでの距離。
+j	道章	みちあき	a male given name
+j	道端	みちばた	a surname
+j	道筋	みちすじ	itinerary
+j	道筋	みちすぢ	itinerary
+j	道義	みちよし	morality; moral principles
+j	道臣	みちおみ	a male given name
+j	道草	みちくさ	grass on the wayside
+j	道行	みちゆき	practice of Buddhism, esp…
+j	道行き	みちゆき	a travel, journey
+j	道裕	みちひろ	a male given name
+j	道隆	みちたか	a male given name
+j	達彬	みちあき	a male given name
+j	醜い	みにくい	ugly
+j	陵	みささぎ	imperial tomb
+j	陸奥	みちのく	Mutsu Province, an old pr…
+j	魅了	みりょう	charm; captivation; enthr…
+j	魅力	みりょく	allure, charm, glamour
+j	鳩尾	みずおち	the pit of the stomach, s…
+j	鳩尾	みぞおち	the pit of the stomach, s…
+j	鳩尾	みづおち	the pit of the stomach, s…
+j	鴟鵂	みみずく	
+j	鴟鵂	ミミズク	
+j	鵂	みみずく	
+j	鵂	ミミズク	
+j	鵩	みみずく	
+j	鵩	ミミズク	
+j	鶹	みみずく	
+j	鶹	ミミズク	
+j	みあやまる	みあやまる	見方を誤る。見間違う。見損なう。
+j	みあわせる	みあわせる	to cancel in light of cir…
+j	みうしなう	みうしなう	今まで見えていたものの行き先などが分からなくなる。
+j	みえかくれ	みえかくれ	見えたり見えなくなったりすること。
+j	みえがくれ	みえがくれ	見えたり見えなくなったりすること。
+j	みおつくし	みおつくし	船が往来する際の目印として立てられた、澪を示す杭。
+j	みかいはつ	みかいはつ	未開発: undeveloped
+j	みかげいし	みかげいし	花崗岩の通称。黒っぽいもの、白っぽいもの、赤みがか…
+j	みかじめ料	みかじめ料	protection money
+j	みかんせい	みかんせい	未完成: incompletion
+j	みがまえる	みがまえる	危機や攻撃に対応したり次の行動に移ったりするための…
+j	みきわめる	みきわめる	最後まで見届ける
+j	みぎはらい	みぎはらい	漢字の筆画の一つ。左から右への払い。
+j	みぎひだり	みぎひだり	右と左。「みぎひだりを見て横断する」
+j	みぎびらき	みぎびらき	蓋や扉などを右側へ移動させてひらく構造。
+j	みぎまわり	みぎまわり	時計の針が進む方向（右方向）に回る（回転する）こと…
+j	みぐるしい	みぐるしい	見るに堪えない。
+j	みことのり	みことのり	天皇のおっしゃること。また、その御言葉。
+j	みこともち	みこともち	in ancient Japan prior to…
+j	みごしらえ	みごしらえ	dress
+j	みごしらえ	みごしらへ	dress
+j	みさだめる	みさだめる	見てはっきり決める。見極める。
+j	みじかうた	みじかうた	基本的に五音、七音、五音、七音、七音の五句からなる…
+j	みじん切り	みじんぎり	chopping into small piece…
+j	みじん切り	みじん切り	chopping into small piece…
+j	みずあそび	みずあそび	海辺、河川、湖沼、プールなどで水に入って遊ぶこと。
+j	みずあたり	みずあたり	生水を飲んで下痢をすること。
+j	みずあらい	みずあらい	水洗い: washing with water
+j	みずいらず	みずいらず	水入らず: just among the imme…
+j	みずかがみ	みずかがみ	水面に周囲の影が写って見えること。
+j	みずがめ座	みずがめ座	星座のひとつ。水瓶にちなむ。
+j	みずくさい	みずくさい	よそよそしい。
+j	みずぐすり	みずぐすり	薬剤を液体に溶かしたもの。また、その飲み薬。
+j	みずけむり	みずけむり	細かい水の煙。水飛沫。靄。
+j	みずごころ	みずごころ	水泳の心得。遊泳のたしなみ。
+j	みずしげん	みずしげん	水資源: water resources
+j	みずしごと	みずしごと	水仕事: scrubbing and washin…
+j	みずしぶき	みずしぶき	水の飛び散る飛沫。
+j	みずすまし	みずすまし	コウチュウ目オサムシ亜目オサムシ上科ミズスマシ科に…
+j	みずたばこ	みずたばこ	水煙管。
+j	みずたまり	みずたまり	水が一時的にある場所に浅くたまったもの。
+j	みずっぽい	みずっぽい	watery; watered-down
+j	みずどけい	みずどけい	水時計: water clock
+j	みずのえね	みずのえね	十干十二支の49番目。じんし。
+j	みずのとい	みずのとい	十干十二支の60番目。十干十二支の最後。きがい。
+j	みずのとう	みずのとう	十干十二支の40番目。きぼう。
+j	みずのとみ	みずのとみ	十干十二支の30番目。きし。
+j	みずばかり	みずばかり	液体の比重をはかる秤。
+j	みずばしら	みずばしら	水が柱状に立ちのぼったもの。
+j	みずびたし	みずびたし	水の中に浸すこと。
+j	みずぶくれ	みずぶくれ	blister (on the skin)
+j	みずへび座	みずへび座	南天の星座のひとつ。旧名、こうみへび座。
+j	みずまくら	みずまくら	主に頭部を冷やすため、ゴムや樹脂などでできた袋に水…
+j	みずまわり	みずまわり	water-related facilities:…
+j	みずまわり	みづまはり	water-related facilities:…
+j	みずめがね	みずめがね	水中で目を開けて物を見るために着用するめがね。水中…
+j	みせかける	みせかける	実際はそうでないのに上辺だけをそれらしく見えるよう…
+j	みせざらし	みせざらし	店舗などで商品が売れずに長期間陳列してあること。
+j	みせじまい	みせじまい	商売をやめること。廃業すること。
+j	みせつける	みせつける	to show; to make a displa…
+j	みせびらき	みせびらき	商売を始めること。創業すること。
+j	みそかづき	みそかづき	陰暦の30日ごろに、明け方の東の空にかすかに見える…
+j	みそこなう	みそこなう	to see wrong
+j	みそさざい	みそさざい	スズメ目ミソサザイ科ミソサザイ属に属する鳥の一種。…
+j	みそっかす	みそっかす	miso dregs
+j	みそなわす	みそなわす	御覧になる。
+j	みだしなみ	みだしなみ	personal grooming, attent…
+j	みだれあし	みだれあし	疲労や酔いのため足取りがしっかりしないこと。
+j	みだれがみ	みだれがみ	ばらばらに乱れた頭髪。乱髪。
+j	みちおしえ	みちおしえ	斑猫の別称。
+j	みちがえる	みちがえる	見間違う。
+j	みちしるべ	みちしるべ	通行人に道を案内する標識。
+j	みちじゅん	みちじゅん	道順: itinerary, route
+j	みちすがら	みちすがら	道中。途上。道を過ぎながら。
+j	みちたりる	みちたりる	十分に満ちている。不足がなく満足している。
+j	みちのえき	みちのえき	道の駅: roadside station
+j	みちばしり	みちばしり	カッコウ目カッコウ科ミチバシリ属の鳥の総称。
+j	みつがしら	みつがしら	牛馬の背中の尻に近く高く盛り上がったいる部分。三封。
+j	みつぎもの	みつぎもの	被支配者が支配者に献上する金品。
+j	みつくろう	みつくろう	よく見て状況を判断する。
+j	みつけだす	みつけだす	見出す。いまだその実在に確証のない人・物を捜索して…
+j	みつじろう	みつじろう	光次郎: a male given name
+j	みつどもえ	みつどもえ	紋所の一つ。三つの巴を円形に組み合わせたもの。
+j	みとがめる	みとがめる	to question out of suspic…
+j	みとどける	みとどける	成り行きを最後まで見る。
+j	みどりいろ	みどりいろ	みどり。
+j	みどりがめ	みどりがめ	ミシシッピアカミミガメの幼体。
+j	みどりごけ	みどりごけ	緑色の苔。
+j	みどりのひ	みどりのひ	自然に感謝するための国民の祝日。5月4日。
+j	みどりむし	みどりむし	euglena
+j	みなごろし	みなごろし	massacre; slaughter
+j	みなとまち	みなとまち	port town
+j	みなみかぜ	みなみかぜ	南から吹いてくる風。夏の季語。
+j	みなみがわ	みなみがわ	南の方角。
+j	みなみまど	みなみまど	南側の窓。
+j	みなみむき	みなみむき	南の方角に向いていること。
+j	みのけだつ	みのけだつ	恐怖や寒さによって全身の毛が逆立つ。
+j	みのまわり	みのまはり	things used in daily life
+j	みのまわり	みのまわり	things used in daily life
+j	みはからう	みはからう	見て適当なものを選ぶ。判断する。
+j	みはるかす	みはるかす	遥かに見渡す。
+j	みふうずら	みふうずら	チドリ目ミフウズラ科に属する鳥の総称。学名:Tur…
+j	みまちがい	みまちがい	「みまちがう」の連用形。
+j	みまちがう	みまちがう	別の物と誤って認識する。見誤る。
+j	みみかざり	みみかざり	耳飾り: earring
+j	みみざわり	みみざわり	聞いた時の印象。
+j	みみずばれ	みみずばれ	welting
+j	みみっちい	みみっちい	情けなく感じられるほどけちくさい。
+j	みみどしま	みみどしま	聞きかじりの知識のみ豊富な若い女性。特に性的な事柄…
+j	みみなぐさ	みみなぐさ	ナデシコ科ミミナグサ属に属する植物の総称。
+j	みやげもの	みやげもの	土産とする物。
+j	みやこおち	みやこおち	京都から追われるように逃げること。
+j	みやこづめ	みやこづめ	将棋盤の中央（5五）で王将が詰むこと。
+j	みやこどり	みやこどり	チドリ目ミヤコドリ科の鳥の総称。嘴は橙、羽は黒また…
+j	みやびやか	みやびやか	上品で優雅なさま。
+j	みやまいり	みやまいり	神社を参詣すること。
+j	みゆびげら	みゆびげら	キツツキ目キツツキ科に属する鳥の一種。学名: Pi…
+j	みょうにち	みょうにち	
+j	みょうはち	みょうはち	妙鈸, 明鈸, 命鈸: Buddhist cymb…
+j	みをやつす	みをやつす	to be absorbed in
+j	みんしゅう	みんしゅう	
+j	みんぞくし	みんぞくし	民族誌: ethnography
+j	みんなして	みんなして	all together; in unison
+j	ミエリン鞘	ミエリン鞘	myelin sheath
+j	ミカイドウ	ミカイドウ	ホンカイドウとマンシュウズミの雑種。学名:Malu…
+j	ミコアイサ	ミコアイサ	カモ目カモ科アイサ属に属する水鳥の一種。学名:Me…
+j	ミコノス島	ミコノス島	Mykonos (island)
+j	ミシガン州	ミシガン州	the full form of ミシガン (“M…
+j	ミシガン湖	ミシガン湖	
+j	ミシシッピ	ミシシッピ	Mississippi (a state of t…
+j	ミジウィズ	ミジウィズ	mijwiz
+j	ミスタイプ	ミスタイプ	
+j	ミステイク	ミステイク	「ミステーク」の表記ゆれ。
+j	ミステリー	ミステリー	mystery (something secret…
+j	ミステーク	ミステーク	間違い。誤り。ミス。
+j	ミストラル	ミストラル	フランスローヌ川から地中海に向かって吹く乾燥して冷…
+j	ミストレス	ミストレス	a mistress (dominatrix)
+j	ミスマッチ	ミスマッチ	mismatch
+j	ミスリード	ミスリード	誤解させること。
+j	ミズガルズ	ミズガルズ	Midgard
+j	ミズスマシ	ミズスマシ	「みずすまし」の学術的表記。
+j	ミズンスル	ミズンスル	一番後ろのミズンマストに張る縦帆で、他の2枚の縦帆…
+j	ミズーリ川	ミズーリ川	
+j	ミズーリ州	ミズーリ州	the full form of ミズーリ (“M…
+j	ミソサザイ	ミソサザイ	
+j	ミソジニー	ミソジニー	misogyny
+j	ミチバシリ	ミチバシリ	「みちばしり」の学術的表記。
+j	ミッション	ミッション	mission (task)
+j	ミッドリフ	ミッドリフ	the midriff
+j	ミディアム	ミディアム	中間の。
+j	ミドリムシ	ミドリムシ	みどりむしの学術的表記。
+j	ミナレット	ミナレット	
+j	ミニゲーム	ミニゲーム	
+j	ミニゴルフ	ミニゴルフ	
+j	ミニスター	ミニスター	大臣。
+j	ミニチュア	ミニチュア	実物を縮小した模型。
+j	ミニバイク	ミニバイク	小型の自動二輪車、原動機付自転車。
+j	ミニブログ	ミニブログ	microblog
+j	ミニマップ	ミニマップ	A simple map connecting a…
+j	ミニ新幹線	ミニ新幹線	mini-shinkansen (conventi…
+j	ミニ独立国	ミニ独立国	mini-independent country
+j	ミネソタ州	ミネソタ州	the full form of ミネソタ (“M…
+j	ミネルウァ	ミネルウァ	Minerva
+j	ミネルヴァ	ミネルヴァ	
+j	ミノカサゴ	ミノカサゴ	カサゴ目フカサゴ科ミノカサゴ属に属する海水魚の一種…
+j	ミノルカ島	ミノルカ島	Minorca
+j	ミヒャエル	ミヒャエル	
+j	ミフウズラ	ミフウズラ	チドリ目ミフウズラ科ミフウズラ属に属する鳥の一種。…
+j	ミフラーブ	ミフラーブ	モスク内で礼拝の方向を示す設備。
+j	ミモレ丈	みもれだけ	ふくらはぎの中程までの丈のワンピースやスカート、パ…
+j	ミャンマー	ミャンマー	Myanmar (a country in Sou…
+j	ミヤコドリ	ミヤコドリ	チドリ目ミヤコドリ科ミヤコドリ属の鳥の一種。学名:…
+j	ミュリエル	ミュリエル	
+j	ミュンヘン	ミュンヘン	Munich (the capital and l…
+j	ミューオン	ミューオン	synonym of ミュー粒子 (myū ryū…
+j	ミュー粒子	ミュー粒子	a muon
+j	ミョウバン	ミョウバン	「明礬」のカタカナ表記。
+j	ミョルニル	ミョルニル	Mjollnir
+j	ミラノ人	みらのじん	
+j	ミランダ語	ミランダ語	
+j	ミラージュ	ミラージュ	蜃気楼。
+j	ミラー効果	ミラー効果	利得Aの反転増幅器の入出力間に静電容量Cの帰還容量…
+j	ミラー図法	ミラー図法	オズボーン・メイトランド・ミラー (1897-19…
+j	ミリオネア	ミリオネア	millionaire
+j	ミリグラム	ミリグラム	milligram (unit of mass)
+j	ミリツィア	ミリツィア	
+j	ミリバール	ミリバール	millibar
+j	ミリ秒	みりびょう	a millisecond
+j	ミリ秒	ミリびょう	a millisecond
+j	ミレニアム	ミレニアム	millennium
+j	ミレニアル	ミレニアル	millennial
+j	ミンスパイ	ミンスパイ	
+j	ミン南語	みんなんご	
+j	ミーカート	ミーカート	巡礼者がイフラームに着替える場所。
+j	ミーシェン	ミーシェン	中華人民共和国の雲南省産の米と水を使った麺。
+j	ミートパイ	ミートパイ	
+j	ミーム学	みーむがく	memetics
+j	ミーム学	ミームがく	memetics
+j	ミーム汚染	ミーム汚染	言葉や画像などの情報に対する認識が、ミームの影響に…
+j	ミーム職人	ミーム職人	
+j	三つ巴	みつどもえ	mon with three tomoe desi…
+j	三小	みつしょう	a surname
+j	光次郎	みつじろう	a male given name
+j	冥応	みょうおう	知らず知らずのうちに神仏が感応し利益を受けること。…
+j	冥感	みょうかん	知らず知らずのうちに神仏が感応し利益を受けること。…
+j	冥界	みやうかい	the underworld; the nethe…
+j	冥界	みょうかい	the underworld; the nethe…
+j	冥福	みょうふく	happiness in the next wor…
+j	冥見	みょうけん	人が気付かないところで神仏が衆生を守っていること。
+j	冥顕	みょうけん	見聞できる世界と見聞できない世界。
+j	冥顕	みょうげん	見聞できる世界と見聞できない世界。
+j	南	みなみする	the south (cardinal point)
+j	南側	みなみがわ	south side
+j	南口	みなみぐち	south exit
+j	南山	みなみやま	a surname
+j	南方	みなみかた	south, southern area
+j	南村	みなみむら	a surname
+j	南渕	みなみぶち	a surname
+j	南牟礼	みなみむれ	a surname
+j	南風	みなみかぜ	south wind, southerly
+j	右回り	みぎまわり	
+j	右左	みぎひだり	right and left
+j	右手法	みぎてほう	迷路で右手側の壁を辿っていくことでゴールに辿り着く…
+j	右揃え	みぎそろえ	right alignment
+j	右揃え	みぎぞろえ	right alignment
+j	名号	みょうごう	（めいごう）名称。名声。
+j	名田	みゃうでん	a land unit named after t…
+j	名田	みょうでん	a land unit named after t…
+j	名跡	みょうせき	family name
+j	味方	みかたする	friend; supporter; ally
+j	壬子	みずのえね	Water Rat, the forty-nint…
+j	妙手	みょうしゅ	a brilliant move, especia…
+j	妙案	みょうあん	素晴らしい考えや思いつき。
+j	妙法	みょうほう	巧妙な方法や手段。
+j	妙用	みょうよう	magical effect
+j	妙薬	みょうやく	mysterious wonder drug
+j	妙見	みょうけん	「妙見菩薩」の略。
+j	妙計	みょうけい	巧妙な計画や計略。
+j	妙趣	みょうしゅ	優れた趣や味わい。
+j	妙音	みょうおん	wonderful sound
+j	妙高	みょうこう	Mount Myōkō, a mountain i…
+j	妙齢	みょうれい	（特に女性の）年齢が若いこと。年頃。
+j	実を結ぶ	みをむすぶ	to bear fruit
+j	宮下	みやのした	a surname
+j	宮仕え	みやづかえ	court service
+j	宮古そば	みやこそば	宮古島発祥の沖縄そば。具材が麺の下に隠されているこ…
+j	宮古島	みやこじま	Miyako-jima (an island of…
+j	宮城県	みやぎけん	a prefecture in 東北 (Tōhok…
+j	宮女	みやおみな	a woman attendant in the …
+j	宮女	みやおんな	a woman attendant in the …
+j	宮女	みやをみな	a woman attendant in the …
+j	宮崎市	みやざきし	宮崎県の県庁所在地。中核市。
+j	密教	みっきょう	esoteric Buddhism
+j	密漁	みつりょう	獲ることが禁止されている魚介を密かに獲ること。
+j	密猟	みつりょう	poaching
+j	密着	みっちゃく	close contact
+j	密行	みつぎょう	（みっこう）微行すること。
+j	密議	みつぎする	secret conference
+j	密輸	みつゆする	smuggling
+j	密輸品	みつゆひん	smuggled goods
+j	密輸者	みつゆしゃ	
+j	密輸船	みつゆせん	
+j	密閉の	みっぺいの	
+j	密陀僧	みつだそう	litharge, lead monoxide
+j	密集	みっしゅう	crowd, cluster, swarm
+j	岬馬	みさきうま	Misaki; a type of horse n…
+j	帝雉	みかどきじ	mikado pheasant, Syrmatic…
+j	帝雉	ミカドキジ	mikado pheasant, Syrmatic…
+j	店仕舞い	みせじまい	closing up shop (for the …
+j	店仕舞い	みせじまひ	closing up shop (for the …
+j	御崎馬	みさきうま	Misaki; a type of horse n…
+j	御影石	みかげいし	granite
+j	明年	みょうねん	next year
+j	明日	みやうにち	tomorrow
+j	明日	みょうにち	tomorrow
+j	明旦	みょうたん	あしたの朝。明朝。
+j	明晩	みやうばん	tomorrow night
+j	明晩	みょうばん	tomorrow night
+j	明朝	みやうあさ	tomorrow morning
+j	明朝	みやうてう	tomorrow morning
+j	明朝	みょうあさ	tomorrow morning
+j	明朝	みんちょう	tomorrow morning
+j	明王	みょうおう	a Wisdom King in Vajrayan…
+j	明眼	みょうげん	あらゆるものの真実を見通せる眼力。
+j	明礬	みょうばん	alum
+j	明礬	ミョウバン	alum
+j	明神	みょうじん	an honorific for gods
+j	明闇	みょうあん	（みょうあん）この世とあの世。
+j	未亡人	みばうじん	widow
+j	未亡人	みぼうじん	widow
+j	未体験	みたいけん	unexperienced; something …
+j	未信者	みしんじゃ	unbeliever; nonbeliever
+j	未公開	みこうかい	一般の人や外部にはまだ公開されていないこと。または…
+j	未処分	みしょぶん	unsettled; unfinished; un…
+j	未加入	みかにゅう	まだ加入していないこと。また、そのさま。
+j	未婚者	みこんしゃ	未婚の人。独身者。
+j	未完成	みかんせい	incompletion, unfinishedn…
+j	未成年	みせいねん	a minor (someone under ei…
+j	未成線	みせいせん	まだ完成していない路線。
+j	未所有	みしょゆう	まだ所有していないこと。また、そのさま。
+j	未払いの	みばらいの	
+j	未来人	みらいじん	time traveller
+j	未来像	みらいぞう	将来を想定して描いた姿。ビジョン。
+j	未来学	みらいがく	futurology
+j	未来形	みらいけい	動詞や助動詞の活用形のひとつで、未来時制において用…
+j	未然形	みぜんけい	a Japanese verbal inflect…
+j	未熟さ	みじゅくさ	
+j	未登録	みとうろく	まだ登録していないこと。また、そのさま。
+j	未知の国	みちのくに	
+j	未確認	みかくにん	that which is not yet ver…
+j	未確認の	みかくにん	
+j	未経験	みけいけん	まだ経験したことがないこと。また、そのようなさま。
+j	未解決	みかいけつ	unsolved, unresolved
+j	未開人	みかいじん	barbarian
+j	未開封	みかいふう	まだ開封されていないさま。
+j	未開発	みかいはつ	undeveloped, untapped
+j	民主化	みんしゅか	democratization
+j	民事的	みんじてき	
+j	民営化	みんえいか	privatization
+j	民宿	みんしゅく	a private home with lodgi…
+j	民情	みんじょう	国民の生活の実情。
+j	民数記	みんすうき	Numbers
+j	民數記	みんすうき	
+j	民族誌	みんぞくし	ethnography
+j	民業	みんぎょう	private enterprise
+j	民衆	みんしゅう	people, mass, crowd
+j	民間	みんかんの	private, non-governmental
+j	水たまり	みずたまり	puddle (a small pool of w…
+j	水たまり	みづたまり	puddle (a small pool of w…
+j	水の泡	みずのあわ	coming to nothing
+j	水の華	みずのはな	
+j	水をさす	みずをさす	to pour water (into); to …
+j	水をやる	みずをやる	
+j	水を差す	みずをさす	
+j	水キセル	みずきせる	水にタバコの煙を通して喫煙する器具。
+j	水ギセル	みずぎせる	a hookah; a waterpipe
+j	水ギセル	みずギセル	a hookah; a waterpipe
+j	水タバコ	みずたばこ	
+j	水パイプ	みずぱいぷ	
+j	水仕事	みずしごと	housework that uses water…
+j	水仕事	みづしごと	housework that uses water…
+j	水入らず	みずいらず	just among the immediatel…
+j	水入らず	みづいらず	just among the immediatel…
+j	水性	みずしょう	the quality of being aque…
+j	水時計	みずどけい	water clock
+j	水柱	みずばしら	column of water
+j	水洗い	みずあらい	washing with water
+j	水溜り	みずたまり	puddle of water
+j	水澄	みずすまし	
+j	水澄	みづすまし	
+j	水澄	ミズスマシ	
+j	水澄	ミヅスマシ	
+j	水澄まし	みずすまし	a whirligig beetle
+j	水澄まし	みづすまし	a whirligig beetle
+j	水澄まし	ミズスまし	a whirligig beetle
+j	水澄まし	ミヅスマシ	a whirligig beetle
+j	水煙管	みずきせる	水キセルの別形。
+j	水煙管	みずぎせる	水キセルの別形。
+j	水煙管	みずギセル	水キセルの別形。
+j	水瓶座	みずがめざ	Aquarius
+j	水瓶座	みづがめざ	Aquarius
+j	水膨れ	みずぶくれ	
+j	水臭い	みずくさい	bland/thin/tasteless, due…
+j	水臭い	みづくさい	bland/thin/tasteless, due…
+j	水菓子屋	みずがしや	水菓子を売る店、その人。
+j	水葵	みずあおい	oval-leafed pondweed, Mon…
+j	水葵	みづあふひ	oval-leafed pondweed, Mon…
+j	水葵	ミズアオイ	oval-leafed pondweed, Mon…
+j	水薬	みずぐすり	potion; liquid medicine
+j	水行	みずぎょう	【すいぎょう・みずぎょう】神仏に祈願したり、心神の…
+j	水資源	みずしげん	water resources
+j	水飲み場	みずのみば	
+j	湊川	みなとがわ	a surname
+j	満ち満ちる	みちみちる	to be plenty full
+j	満ち足りる	みちたりる	to be content; to be sati…
+j	溝上	みぞのうえ	Mizonoue (a neighborhood …
+j	溝隠	みぞかくし	Chinese lobelia, Lobelia …
+j	溝隠	ミゾカクシ	Chinese lobelia, Lobelia …
+j	澪標	みおじるし	a dolphin erected as a da…
+j	澪標	みおつくし	a dolphin erected as a da…
+j	澪標	みおづくし	a dolphin erected as a da…
+j	澪標	みをじるし	a dolphin erected as a da…
+j	澪標	みをつくし	a dolphin erected as a da…
+j	澪標	みをづくし	a dolphin erected as a da…
+j	猛火	みやうくわ	raging fire; inferno
+j	癸亥	みずのとい	Water Boar, the sixtieth …
+j	癸卯	みずのとう	Water Rabbit, the fortiet…
+j	癸巳	みずのとみ	Water Snake, the thirtiet…
+j	皆殺し	みなごろし	
+j	禊	みそぎする	a form of ritual purifica…
+j	米線	みーしぇん	中華人民共和国の雲南省産の米と水を使った麺。
+j	緑川	みどりかわ	the name of various rivers
+j	緑川	みどりがわ	the name of various rivers
+j	緑色	みどりいろ	the color green
+j	緑虫	みどりむし	
+j	耳にする	みみにする	to hear, to hear by accid…
+j	耳を貸す	みみをかす	to listen to
+j	耳コピー	みみこぴー	
+j	耳コピー	みみコピー	
+j	耳レイプ	みみれいぷ	ear rape
+j	耳レイプ	みみレイプ	ear rape
+j	耳障り	みみざわり	offensive (to the ear), h…
+j	耳飾り	みみかざり	earring
+j	脈あり	みゃくあり	showing promise for furth…
+j	脈圧	みゃくあつ	最高血圧（最大血圧、収縮期血圧）から最低血圧（最小…
+j	脈打つ	みゃくうつ	to pulse, (of the heart) …
+j	脈拍	みゃくはく	pulse (regular beat cause…
+j	脈搏	みゃくはく	心臓の搏動によって血管（動脈）に感じられる脈動。脈。
+j	脈石	みゃくせき	gangue
+j	脈絡	みゃくらく	context
+j	脈診	みゃくしん	切診の一つで患者の両手首に指を当て脈を読み取り経絡…
+j	蓑笠子	みのかさご	
+j	蜜柑色	みかんいろ	
+j	見せ掛ける	みせかける	to disguise (something) a…
+j	見付け出す	みつけだす	to find, find out
+j	見合い	みあいする	miai, formal marriage int…
+j	見失う	みうしなう	to lose sight of something
+j	見定める	みさだめる	make sure of, gauge, disc…
+j	見届ける	みとどける	to make sure of
+j	見本市	みほんいち	trade fair
+j	見栄っ張り	みえっぱり	ostentatious, vain
+j	見栄をはる	みえをはる	
+j	見極める	みきわめる	make sure
+j	見比べる	みくらべる	to compare with the eye
+j	見聞き	みききする	looking and listening, se…
+j	見舞い金	みまいきん	solatium, condolence money
+j	見苦しい	みぐるしい	ugly, hard to look at
+j	見覚える	みおぼえる	to remember, to recognize…
+j	見違える	みちがえる	to take someone for someo…
+j	見違える	みちがへる	to take someone for someo…
+j	詔	みことのり	imperial edict
+j	認印	みとめいん	実印以外に個人で所持している印。
+j	貢物	みつぎもの	tribute
+j	身につける	みにつける	to learn, to acquire know…
+j	身に余る	みにあまる	to be more than one deser…
+j	身を伏せる	みをふせる	
+j	身を削る	みをけずる	to go through severe hard…
+j	身を尽くす	みをつくす	to wear out with one's he…
+j	身を投げる	みをなげる	to commit suicide by thro…
+j	身を起こす	みをおこす	be successful in life, bu…
+j	身内ネタ	みうちねた	inside joke; in-joke
+j	身内ネタ	みうちネタ	inside joke; in-joke
+j	身構える	みがまえる	stand ready, prepare ones…
+j	造木	みやつこぎ	synonym of 接骨木 (niwatoko,…
+j	造木	ミヤツコギ	synonym of 接骨木 (niwatoko,…
+j	道ならぬ	みちならぬ	道徳・道理に外れている。不道徳な。不義の。
+j	道の駅	みちのえき	roadside station, highway…
+j	道標	みちしるべ	signpost (post bearing a …
+j	道走	みちばしり	roadrunner, either of two…
+j	道走	ミチバシリ	roadrunner, either of two…
+j	道順	みちじゅん	route, itinerary
+j	都草	みやこぐさ	Lotus japonicus
+j	都草	ミヤコグサ	Lotus japonicus
+j	都落ち	みやこおち	escaping from Kyoto (or o…
+j	都鳥	みやこどり	東京都を象徴する鳥。正式には「都民の鳥」。
+j	閩南語	みんなんご	Southern Min; Min Nan (a …
+j	閩南語	ミンナンご	Southern Min; Min Nan (a …
+j	閩東語	みんとんご	Eastern Min; Min Dong (br…
+j	閩東語	ミントンご	Eastern Min; Min Dong (br…
+j	雅やか	みやびやか	elegant, graceful, refined
+j	魅惑	みわくする	fascination
+j	魅惑する	みわくする	
+j	魅惑的	みわくてき	人心を惹いて惑わすさま
+j	鷦鷯	みそさざい	wren, Troglodytes troglod…
+j	鷦鷯	ミソサザイ	wren, Troglodytes troglod…
+j	みがきたてる	みがきたてる	念入りにみがく。
+j	みぎよこがき	みぎよこがき	右横書き: writing from right …
+j	みこみちがい	みこみちがい	予想、見立てが外れること。見込み外れ。
+j	みこみはずれ	みこみはずれ	予想していたことと異なること。見込み違い。
+j	みすぼらしい	みすぼらしい	身なりが悪く粗末で、貧乏くさいさま。
+j	みずしおんな	みずしおんな	台所で水仕事をする下女。みずし。みずしめ。
+j	みずとらのお	みずとらのお	シソ科ミズトラノオ属の多年生植物。紫水虎の尾とも。…
+j	みずとるたま	みずとるたま	水晶の別名。
+j	みずなしがわ	みずなしがわ	増水時以外では表流水が確認できない川。
+j	みずのえいぬ	みずのえいぬ	十干十二支の59番目。じんじゅつ。
+j	みずのえうま	みずのえうま	十干十二支の19番目。じんご。
+j	みずのえさる	みずのえさる	十干十二支の9番目。じんしん。
+j	みずのえたつ	みずのえたつ	十干十二支の29番目。じんしん。
+j	みずのえとら	みずのえとら	十干十二支の39番目。じんいん。
+j	みずのとうし	みずのとうし	十干十二支の50番目。きちゅう。
+j	みずのととり	みずのととり	十干十二支の10番目。きゆう。
+j	みずのみやこ	みずのみやこ	水運が重要な役割を果たしている都市の通称。
+j	みずほのくに	みずほのくに	日本の美称。
+j	みずみずしい	みずみずしい	fresh
+j	みせびらかす	みせびらかす	自慢そうに人に見せる。
+j	みたらし団子	みたらし団子	御手洗団子 参照
+j	みちあふれる	みちあふれる	いっぱいになり溢れる。溢れ出るほどたくさんある。
+j	みっともない	みっともない	disgraceful, shameful, in…
+j	みつあなぐま	みつあなぐま	ミツアナグマ: a honey badger, a…
+j	みつゆにゅう	みつゆにゅう	密輸入: smuggling in
+j	みてみぬふり	みてみぬふり	pretending not to witness…
+j	みどりの窓口	みどりの窓口	JR ticket counter
+j	みなみまぐろ	みなみまぐろ	スズキ目サバ科の海水魚。全長約2.5メートル。体形…
+j	みなみアジア	みなみアジア	南アジア: South Asia
+j	みまちがえる	みまちがえる	見た物を他の物と誤認する。見誤る。
+j	みみぐるしい	みみぐるしい	聞くに堪えないさま。聞き苦しい。
+j	みみずとかげ	みみずとかげ	蚯蚓蜥蜴: worm lizard
+j	みやげばなし	みやげばなし	旅先や出先で見聞したり経験したりしたことについての…
+j	みやこわすれ	みやこわすれ	ミヤマヨメナの栽培品種。
+j	みやまおろし	みやまおろし	山奥から吹き降ろす風。
+j	みょうごにち	みょうごにち	
+j	みようみまね	みようみまね	他がしていることを見ながら同じように真似をすること。
+j	みるくいがい	みるくいがい	二枚貝綱バカガイ科ミルクイガイ属に属する二枚貝の一…
+j	みんみんぜみ	みんみんぜみ	カメムシ目セミ科ミンミンゼミ属に属するせみの一種。…
+j	ミエリン鞘	みえりんせう	myelin sheath
+j	ミクロネシア	ミクロネシア	Micronesia (a continental…
+j	ミクロ経済学	ミクロ経済学	家計や企業の個々の経済活動の分析から理論を構築する…
+j	ミコノス島	みこのすとう	Mykonos (island)
+j	ミコノス島	ミコノスとう	Mykonos (island)
+j	ミサキノハナ	ミサキノハナ	
+j	ミサンドリー	ミサンドリー	misandry
+j	ミザンセーヌ	ミザンセーヌ	
+j	ミシシッピ川	ミシシッピ川	
+j	ミシシッピ州	ミシシッピ州	the full form of ミシシッピ (“…
+j	ミシシッピ鰐	ミシシッピ鰐	American alligator
+j	ミジュウィズ	ミジュウィズ	
+j	ミスダンディ	ミスダンディ	trans man
+j	ミステリアス	ミステリアス	神秘的なさま。非常に不思議なさま。
+j	ミズナギドリ	みずなぎどり	
+j	ミズナギドリ	ミズナギドリ	
+j	ミソジニスト	ミソジニスト	
+j	ミッドターム	ミッドターム	中間試験。
+j	ミッドナイト	ミッドナイト	深夜。
+j	ミツアナグマ	ミツアナグマ	synonym of ラーテル (rāteru):…
+j	ミツクリザメ	ミツクリザメ	ネズミザメ目ミツクリザメ科に分類される深海ザメの一…
+j	ミトリダテス	ミトリダテス	
+j	ミドルエイジ	ミドルエイジ	中年。ミドル。
+j	ミドルエージ	ミドルエージ	「ミドルエイジ」の表記ゆれ。
+j	ミドルネーム	ミドルネーム	欧米の人名で名（ファーストネーム）と姓（ラストネー…
+j	ミドルパワー	ミドルパワー	
+j	ミナミキリン	ミナミキリン	キリンの一種。学名は Giraffa giraff…
+j	ミナミコガラ	ミナミコガラ	
+j	ミナミメダカ	ミナミメダカ	動物界脊椎動物門条鰭綱ダツ目メダカ科メダカ属の淡水…
+j	ミニスカート	ミニスカート	miniskirt
+j	ミニマリスト	ミニマリスト	（社会主義）最小限綱領派。穏健派。
+j	ミニマリズム	ミニマリズム	minimalism
+j	ミニマルペア	ミニマルペア	minimal pair
+j	ミニュエット	ミニュエット	
+j	ミニーマウス	ミニーマウス	Minnie Mouse
+j	ミネアポリス	ミネアポリス	Minneapolis
+j	ミノタウロス	ミノタウロス	Minotaur
+j	ミノルカ島	みのるかとう	Minorca
+j	ミノルカ島	ミノルカとう	Minorca
+j	ミャンマーの	ミャンマーの	
+j	ミャンマー人	ミャンマー人	Burmese (person, people f…
+j	ミャンマー語	みゃんまーご	ビルマ語に同じ。
+j	ミャンマー語	ミャンマー語	ビルマ語に同じ。
+j	ミャークフツ	ミャークフツ	
+j	ミヤマガラス	ミヤマガラス	スズメ目カラス属に属する鳥の一種。学名: Corv…
+j	ミュケーナイ	ミュケーナイ	
+j	ミュンスター	ミュンスター	
+j	ミュンヒェン	ミュンヒェン	
+j	ミュージアム	ミュージアム	museum
+j	ミュージカル	ミュージカル	a musical
+j	ミュージック	ミュージック	music
+j	ミューズリー	ミューズリー	muesli
+j	ミュータブル	ミュータブル	mutable
+j	ミューニック	ミューニック	
+j	ミラーボール	ミラーボール	disco ball, mirrorball
+j	ミラー効果	みらーこうか	利得Aの反転増幅器の入出力間に静電容量Cの帰還容量…
+j	ミリセカント	ミリセカント	
+j	ミリタリズム	ミリタリズム	軍国主義。
+j	ミリメートル	ミリメートル	millimetre, (US) millimet…
+j	ミリリットル	ミリリットル	millilitre, (US) millilit…
+j	ミルクセーキ	ミルクセーキ	milkshake
+j	ミルクティー	ミルクティー	milk tea
+j	ミルクメイド	ミルクメイド	
+j	ミルフィーユ	ミルフィーユ	mille-feuille, vanilla sl…
+j	ミンククジラ	ミンククジラ	
+j	ミンストレル	ミンストレル	
+j	ミンダナオ島	ミンダナオ島	Mindanao
+j	ミントソース	ミントソース	
+j	ミントチョコ	ミントチョコ	
+j	ミーティング	ミーティング	meeting
+j	ミートアップ	ミートアップ	共通の興味やテーマを持つ人々が一つの場所に集まるこ…
+j	ミートソース	ミートソース	挽き肉にトマトピューレ、玉葱などを加えて煮込んだソ…
+j	ミートボール	ミートボール	a meatball
+j	ミートローフ	ミートローフ	
+j	ミーム汚染	みーむおせん	言葉や画像などの情報に対する認識が、ミームの影響に…
+j	ミーヴァトン	ミーヴァトン	
+j	三つの密	みっつのみつ	the three 密 (mitsu)s that…
+j	三下り半	みくだりはん	a letter of divorce given…
+j	三日はしか	みっかはしか	
+j	三日ばしか	みっかばしか	
+j	三日坊主	みっかぼうす	someone who cannot stick …
+j	三日坊主	みっかぼうず	someone who cannot stick …
+j	三日天下	みっかてんか	a short-lived regime
+j	三日天下	みっかでんか	a short-lived regime
+j	三色菫	みいろすみれ	wild pansy, love-in-idlen…
+j	三行半	みくだりはん	a letter of divorce given…
+j	京職	みさとづかさ	律令制で京の司法、警察、民政などを司る役所。左京職…
+j	南の島	みなみのしま	"island of the south" (a …
+j	南アジア	みなみあじあ	South Asia (a geographic …
+j	南アジア	みなみアジア	South Asia (a geographic …
+j	南チロル	みなみちろる	
+j	右に同じ	みぎにおなじ	ditto, what someone said
+j	右クリック	みぎくりっく	a right-click
+j	右クリック	みぎクリック	a right-click
+j	右大臣	みぎのおとど	the minister of the right…
+j	右横書き	みぎよこがき	writing from right to lef…
+j	味方になる	みかたになる	
+j	壬午	みずのえうま	Water Horse, the nineteen…
+j	壬寅	みずのえとら	Water Tiger, the thirty-n…
+j	壬寅	みずのてとら	Water Tiger, the thirty-n…
+j	壬戌	みずのえいぬ	Water Dog, the fifty-nint…
+j	壬申	みずのえさる	Water Monkey, the ninth t…
+j	壬辰	みずのえたつ	Water Dragon, the twenty-…
+j	宮崎県	みやざきけん	a prefecture in Japan on …
+j	密会	みっかいする	closed meeting
+j	密偵	みっていする	spy
+j	密告	みっこくする	tipoff
+j	密売	みつばいする	illicit sale
+j	密売品	みつばいひん	
+j	密売者	みつばいしゃ	
+j	密封	みっぷうする	sealing
+j	密封する	みっぷうする	to seal, to be sealed up.
+j	密約	みつやくする	a secret agreement
+j	密航	みっこうする	clandestine and illegal c…
+j	密航者	みっこうしゃ	
+j	密謀	みつぼうする	secret scheme
+j	密輸入	みつゆにゅう	smuggling in
+j	密輸出	みつゆしゅつ	法を犯して、ひそかに物品を輸出すること。
+j	密通	みっつうする	secret communication with…
+j	密造者	みつぞうしゃ	
+j	密造酒	みつぞうしゅ	
+j	密閉	みっぺいする	airtightness
+j	帝揚羽	みかどあげは	common jay butterfly, Gra…
+j	帝揚羽	ミカドアゲハ	common jay butterfly, Gra…
+j	弥勒菩薩	みろくぼさつ	Maitreya bodhisattva
+j	御台所	みだいどころ	「御台盤所」の略。御台。
+j	明後日	みやうごにち	the day after tomorrow
+j	明後日	みょうごにち	the day after tomorrow
+j	明星	みやうじやう	a bright star, especially…
+j	明星	みょうじょう	a bright star, especially…
+j	明朝	みょうちょう	tomorrow morning
+j	明朝体	みんてうたい	the Ming typographic styl…
+j	明槓	ミンカンする	melded kong
+j	未使用品	みしようひん	an unused item
+j	未公表	みこうひょう	まだ公表されていないこと。
+j	未完了	みかんりょう	
+j	未成熟	みせいじゅく	まだ成熟していないこと。また、そのさま。
+j	未承認	みしょうにん	まだ承認していないこと。また、そのさま。
+j	未来分詞	みらいぶんし	分詞の一つで、不定法や能動態、未来を作るもの。
+j	未来時制	みらいじせい	future tense
+j	未熟者	みじゅくもの	green hand, novice
+j	未発表	みはっぴょう	まだおおやけに発表していないこと。
+j	民主党	みんしゅたう	the Democratic Party
+j	民主党	みんしゅとう	the Democratic Party
+j	民主的	みんしゅてき	democratic
+j	民事上	みんじじょう	
+j	民俗学	みんぞくがく	folkloristics
+j	民族学	みんぞくがく	ethnology
+j	民族性	みんぞくせい	
+j	民法典	みんぱふてん	civil code
+j	民法典	みんぽうてん	civil code
+j	民進党	みんしんたう	Democratic Party (a party…
+j	民進党	みんしんとう	Democratic Party (a party…
+j	民部卿	みんぶきょう	the Minister of Popular A…
+j	民部省	みんぶしゃう	the Ministry of Popular A…
+j	民部省	みんぶしょう	the Ministry of Popular A…
+j	民間人	みんかんじん	civilian (non-military pe…
+j	水に流す	みずにながす	to forgive and forget; to…
+j	水をあける	みずをあける	get a huge lead over an o…
+j	水先人	みずさきにん	一定の水先区で船舶に乗り込み安全に又は効率的に水路…
+j	水切り	みずきりする	drainer, strainer
+j	水増し	みずましする	dilution
+j	水大砲	みずたいほう	
+j	水戸黄門	みとこうもん	a nickname for Tokugawa M…
+j	水揚げ	みずあげする	landing (bringing to land…
+j	水栽培	みずさいばい	
+j	水治療	みずちりょう	
+j	水疱瘡	みずぼうそう	a contagious illness caus…
+j	水疱瘡	みづばうさう	a contagious illness caus…
+j	水羊羹	みずようかん	煮て溶かした寒天に砂糖やあずき餡や抹茶などを混ぜて…
+j	水芭蕉	みずばしょう	Asian skunk cabbage, Lysi…
+j	水芭蕉	ミズバショウ	Asian skunk cabbage, Lysi…
+j	水薙鳥	みずなぎどり	
+j	水鉄砲	みずでっぽう	water gun
+j	水際立つ	みずぎわだつ	to be preeminent
+j	水風船	みずふうせん	
+j	深山烏	みやまがらす	
+j	深山鴉	みやまがらす	
+j	癸丑	みずのとうし	Water Ox, the fiftieth te…
+j	癸酉	みずのととり	Water Rooster, the tenth …
+j	皆の衆	みなのしゅう	everyone
+j	皆の衆	みなのしゆう	everyone
+j	短くする	みじかくする	
+j	短くなる	みじかくなる	
+j	短母音	みじかぼいん	a short vowel
+j	箕作鮫	みつくりざめ	goblin shark, Mitsukurina…
+j	耳に残る	みみにのこる	to stay in one's memory
+j	耳を澄ます	みみをすます	to listen closely
+j	耳学問	みみがくもん	knowledge obtained via wo…
+j	耳打ち	みみうちする	whispering into someone's…
+j	脈略	みゃくりゃく	「脈絡（みゃくらく）」の誤り。
+j	蚯蚓蜥蜴	みみずとかげ	worm lizard
+j	蚯蚓蜥蜴	ミミズトカゲ	worm lizard
+j	蜜蜂学	みつばちがく	蜜蜂について研究する蜂学の一分野。
+j	見えなくなる	みえなくなる	
+j	見える化	みえるかする	Visualization.
+j	見せびらかし	みせびらかし	
+j	見せびらかす	みせびらかす	show off
+j	見世物小屋	みせものごや	a freak show
+j	見晴らし台	みはらしだい	景色を見渡すための台。展望台。
+j	見様見真似	みやうみまね	observe and repeat
+j	見様見真似	みようみまね	observe and repeat
+j	見積書	みつもりしょ	written quote, estimate, …
+j	見窄らしい	みすぼらしい	shabby, seedy
+j	見納め	みおさめする	last sight of a person, l…
+j	見込み違い	みこみちがい	miscalculation
+j	見間違える	みまちがえる	to misrecognize; to read …
+j	身を委ねる	みをゆだねる	to devote oneself to
+j	身を屈める	みをかがめる	
+j	身を知る雨	みをしるあめ	tears (drops from the eye…
+j	身代金	みのしろきん	ransom
+j	身分制度	みぶんせいど	社会的な身分を区分、固定し、その身分やそれに基づく…
+j	身分証	みぶんしょう	身分証明書。
+j	身動き	みうごきする	moving about
+j	身振り言語	みぶりげんご	
+j	造酒司	みきのつかさ	a 律令 (ritsuryō) position …
+j	道に沿って	みちにそって	
+j	道案内	みちあんない	道に不案内であったり迷ったりした人を先導して案内す…
+j	道草	みちくさする	grass on the wayside
+j	道草する	みちくさする	
+j	酒司	みきのつかさ	a 律令 (Ritsuryō) position …
+j	醜くする	みにくくする	
+j	鎮魂	みたましずめ	consolation and pacificat…
+j	鎮魂	みたましづめ	consolation and pacificat…
+j	魅了	みりょうする	charm; captivation; enthr…
+j	魅了する	みりょうする	
+j	魅力的	みりょくてき	charming; attractive (ple…
+j	魅力的	みりよくてき	charming; attractive (ple…
+j	みかじめ料	みかじめりょう	protection money
+j	みぎかたあがり	みぎかたあがり	数値が時間と共に増加していくこと。グラフに起こすと…
+j	みぎかたさがり	みぎかたさがり	数値が時間と共に減少していくこと。グラフに起こすと…
+j	みずのとひつじ	みずのとひつじ	十干十二支の20番目。きび。
+j	みせいねんしゃ	みせいねんしゃ	
+j	みだりがわしい	みだりがわしい	淫らである。如何わしい。
+j	みなみのうお座	みなみのうお座	南天の星座の一つで、トレミーの48星座の一つでもあ…
+j	みなみアフリカ	みなみアフリカ	南アフリカ: South Africa
+j	みのうえばなし	みのうえばなし	一身上の事について打ち明けた話。
+j	みのほどしらず	みのほどしらず	自分の身分・能力などを弁えないこと。また、その人。
+j	みみあたらしい	みみあたらしい	初めて聞くことである。
+j	みやまくわがた	みやまくわがた	甲虫目クワガタムシ科ミヤマクワガタ属に属するくわが…
+j	みわたすかぎり	みわたすかぎり	目が届く範囲すべて。
+j	ミエリン鞘	みえりんしょう	myelin sheath
+j	ミエリン鞘	ミエリンしょう	myelin sheath
+j	ミカヅキグサ属	ミカヅキグサ属	
+j	ミクロコスモス	ミクロコスモス	microcosm
+j	ミクロネシア人	ミクロネシア人	ミクロネシア連邦国籍を持つ人、ミクロネシア連邦出身…
+j	ミクロライオン	ミクロライオン	
+j	ミケランジェロ	ミケランジェロ	Michelangelo
+j	ミシガン州	みしがんしゅう	the full form of ミシガン (“M…
+j	ミシガン州	ミシガンしゅう	the full form of ミシガン (“M…
+j	ミシシッピ鰐	みししっぴわに	American alligator
+j	ミシシッピ鰐	ミシシッピわに	American alligator
+j	ミシシッピ鰐	ミシシッピワニ	American alligator
+j	ミスコンテスト	ミスコンテスト	未婚の女性を対象とした美人を選ぶコンテスト。ミスコ…
+j	ミステリアスな	ミステリアスな	
+j	ミズハタネズミ	ミズハタネズミ	
+j	ミズーリ州	みずーりしゅう	the full form of ミズーリ (“M…
+j	ミズーリ州	ミズーリしゅう	the full form of ミズーリ (“M…
+j	ミッキーマウス	ミッキーマウス	Mickey Mouse
+j	ミックスナッツ	ミックスナッツ	
+j	ミッドウェー島	ミッドウェー島	Midway Islands
+j	ミツバウツギ属	ミツバウツギ属	
+j	ミトコンドリア	ミトコンドリア	mitochondrion
+j	ミドルティーン	ミドルティーン	(和製英語) 15歳から17歳の人。
+j	ミナミイシガメ	ミナミイシガメ	イシガメ科イシガメ属のカメ。基亜種とヤエヤマイシガ…
+j	ミナミクロガラ	ミナミクロガラ	
+j	ミニマル・ペア	ミニマル・ペア	
+j	ミネストローネ	ミネストローネ	minestrone (thick Italian…
+j	ミネソタ州	みねそたしゅう	the full form of ミネソタ (“M…
+j	ミネソタ州	ミネソタしゅう	the full form of ミネソタ (“M…
+j	ミャンマー人	みゃんまーじん	Burmese (person, people f…
+j	ミャンマー人	ミャンマーじん	Burmese (person, people f…
+j	ミューオニウム	ミューオニウム	軽水素原子の陽子をミューオンに置き換えた粒子。
+j	ミュージカルの	ミュージカルの	
+j	ミュージシャン	ミュージシャン	musician
+j	ミューレックス	ミューレックス	
+j	ミュー粒子	みゅーりゅうし	a muon
+j	ミュー粒子	ミューりゅうし	a muon
+j	ミラートレード	ミラートレード	mirror trading
+j	ミリアメートル	ミリアメートル	メートル法における長さの単位。10⁴メートルに相当…
+j	ミリオンセラー	ミリオンセラー	百万以上購買された商品や書籍。
+j	ミリシーベルト	ミリシーベルト	
+j	ミリメートル波	みりめーとるは	波長が1ミリメートルから1センチメートルの電波。ミ…
+j	ミリメートル波	ミリメートル波	波長が1ミリメートルから1センチメートルの電波。ミ…
+j	ミルウォーキー	ミルウォーキー	Milwaukee (a city in Wisc…
+j	ミルククレート	ミルククレート	
+j	ミロのビーナス	ミロのビーナス	
+j	ミロバランノキ	ミロバランノキ	インドからインドシナにかけてを原産とするシクンシ科…
+j	ミンダナオ島	みんだなおとう	Mindanao
+j	ミンダナオ島	ミンダナオとう	Mindanao
+j	ミントグリーン	ミントグリーン	青みがかった緑。
+j	ミーアキャット	ミーアキャット	a meerkat
+j	ミーンズテスト	ミーンズテスト	means test, an inquiry in…
+j	三つ目小僧	みっつめこぞう	three-eyed goblin, a Japa…
+j	南アフリカ	みなみあふりか	South Africa (a country i…
+j	南アフリカ	みなみアフリカ	South Africa (a country i…
+j	南アメリカ	みなみあめりか	South America (the contin…
+j	南アメリカ	みなみアメリカ	South America (the contin…
+j	南アルプス	みなみあるぷす	Minami-Alps (a city in Ya…
+j	南アルプス	みなみアルプス	Minami-Alps (a city in Ya…
+j	南イエメン	みなみいえめん	イエメン人民民主共和国の通称。
+j	南オセチア	みなみおせちあ	コーカサス山脈南麓のツヒンヴァリ地域を実効支配して…
+j	南シナ海	みなみしなかい	the South China Sea
+j	南シナ海	みなみシナかい	the South China Sea
+j	南スーダン	みなみすーだん	South Sudan (a country in…
+j	南スーダン	みなみスーダン	South Sudan (a country in…
+j	南ベトナム	みなみべとなむ	South Vietnam (a former s…
+j	南ベトナム	みなみベトナム	South Vietnam (a former s…
+j	南半球	みなみはんきう	Southern Hemisphere (the …
+j	南支那海	みなみしなかい	
+j	南樺太	みなみからふと	the southern part of Sakh…
+j	南足柄	みなみあしがら	a city in Kanagawa Prefec…
+j	宮仕え	みやづかえする	court service
+j	宮沢賢治	みやざわけんじ	明治大正時代の日本の詩人、童話作家。1896年（明…
+j	密入国	みつにゅうこく	illegal immigration
+j	密出国	みつしゅっこく	正規の手続きを経ずにひそかに出国すること。
+j	密漁する	みつりょうする	
+j	密漁者	みつりょうしゃ	密漁を行う犯罪者。
+j	密猟	みつりょうする	poaching
+j	密猟する	みつりょうする	
+j	密猟者	みつりょうしゃ	密猟を行う犯罪者。
+j	密着	みっちゃくする	close contact
+j	密集	みっしゅうする	crowd, cluster, swarm
+j	店仕舞い	みせじまいする	closing up shop (for the …
+j	御手洗団子	みたらしだんご	和菓子のひとつ。数個の団子を串に刺して、砂糖醤油の…
+j	惨めに暮らす	みじめにくらす	
+j	明朝体	みんちょうたい	the Ming typographic styl…
+j	明礬石	みょうばんせき	alunite
+j	未上場	みじょうじょう	証券取引所に株式を上場していないこと。
+j	未就学児	みしゅうがくじ	小学校入学前の子供。
+j	未成年者	みせいねんしゃ	まだ成年に達していない者。
+j	未改造ペン	みかいぞうぺん	ペン回し用に改造されていない、普通のペン。
+j	未来永劫	みらいえいごう	forever, eternity
+j	未来進行	みらいしんこう	未来のある時点で行われている動作を表す時制。
+j	未練がましい	みれんがましい	not knowing when to let g…
+j	民主主義	みんしゅしゅぎ	democracy (rule by the pe…
+j	民主化	みんしゅかする	democratization
+j	民主化する	みんしゅかする	
+j	民主的な	みんしゅてきな	
+j	民事訴訟	みんじそしょう	民事事件について、私法を適用して審理を行い、解決す…
+j	民事責任	みんじせきにん	不法行為により他人に与えた損害に対し賠償する私法上…
+j	民俗誌学	みんぞくしがく	ethnography - the branch …
+j	民営化	みんえいかする	privatization
+j	民族主義	みんぞくしゅぎ	nationalism
+j	民族政治	みんぞくせいじ	
+j	民族楽器	みんぞくがっき	民族音楽を演奏するために用いる民族独自の楽器。
+j	民族舞踊	みんぞくぶよう	
+j	民間語源	みんかんごげん	
+j	民間説話	みんかんせつわ	
+j	民間資格	みんかんしかく	民間企業、団体独自の認定、発行された資格。
+j	水で薄める	みずでうすめる	
+j	水も滴る	みずもしたたる	to be splendidly handsome…
+j	水も漏らさぬ	みずももらさぬ	厳重に警戒している様子。
+j	水を得た魚	みずをえたうお	"a fish who's found water…
+j	水中毒	みすちゅうどく	真水の大量摂取、抗利尿ホルモンの過剰分泌などのため…
+j	水俣病	みなまたびょう	Minamata disease
+j	水切りボール	みずきりぼーる	
+j	水商売	みずしょうばい	bar and restaurant busine…
+j	水戸黄門	みとくわうもん	a nickname for Tokugawa M…
+j	水洗い	みずあらいする	washing with water
+j	水玉模様	みずたまもよう	水玉が散らばったように小さな円を全体的に散らした模…
+j	水畑鼠	みずはたねずみ	a European water vole (Ar…
+j	水畑鼠	ミズハタネズミ	a European water vole (Ar…
+j	水療法	みずりょうほう	
+j	癸未	みずのとひつじ	Water Sheep, the twentiet…
+j	緑の髪の	みどりのかみの	
+j	緑ナンバー	みどりなんばー	緑色の地に白い文字や数字で書かれた貨物や旅客などを…
+j	美以教会	みいきょうかい	Methodist Church
+j	美以教会	みいけうくわい	Methodist Church
+j	耳を疑う	みみをうたがう	to doubt what one just he…
+j	脈拍数	みゃくはくすう	pulse rate
+j	脈拍計	みゃくはくけい	pulse rate monitor
+j	脈管学	みゃくかんがく	解剖学において脈管を扱う分野。
+j	見かけによらず	みかけによらず	in contrast to (one's, it…
+j	見る影もない	みるかげもない	a mere shadow of, a pathe…
+j	見る影も無い	みるかげもない	以前の立派な姿とは見違えるほどみすぼらしいさま。
+j	見切り発車	みきりはっしゃ	バスなどの交通機関が、混雑などを理由に乗客を積み残…
+j	見合い結婚	みあいけっこん	
+j	見掛け倒しの	みかけだおしの	
+j	見渡す限り	みわたすかぎり	as far as the eye can see
+j	見立て殺人	みたてさつじん	an allusive murder (murde…
+j	身から出た錆	みからでたさび	reap what one sows, getti…
+j	身につまされる	みにつまされる	他人の境遇が自分に思い合わさって同情・哀切の念が起…
+j	身の毛がよだつ	みのけがよだつ	恐怖や寒さなどのため身体中の毛が立つ。
+j	身の毛が弥立つ	みのけがよだつ	「身の毛がよだつ」の異表記。
+j	身の毛が彌立つ	みのけがよだつ	「身の毛がよだつ」の異表記。旧字体を用いた表記。
+j	身も蓋もない	みもふたもない	frank; straightforward
+j	身元保証	みもとほしょう	ある者の資力や身上について請け合うこと。特にある使…
+j	身分相応	みぶんそうおう	appropriate to one's lot …
+j	道草を食う	みちくさをくう	waste time on the way, lo…
+j	都城	みやこのじょう	Miyakonojō, Miyazaki
+j	都落ち	みやこおちする	escaping from Kyoto (or o…
+j	闈司	みかどのつかさ	a 律令 (ritsuryō) position …
+j	魅力的な	みりょくてきな	
+j	みどりのカーテン	みどりのカーテン	緑のカーテン: a green wall (a w…
+j	みどりの窓口	みどりのまどぐち	JR ticket counter
+j	みなみじゅうじ座	みなみじゅうじざ	Crux; the Southern Cross
+j	みなみじゅうじ座	みなみじゅうじ座	Crux; the Southern Cross
+j	みなみはんきゅう	みなみはんきゅう	南半球: Southern Hemisphere
+j	ミカドチョウザメ	ミカドチョウザメ	チョウザメ (Acipenser mikadoi)…
+j	ミクロネシア人	みくろねしあじん	ミクロネシア連邦国籍を持つ人、ミクロネシア連邦出身…
+j	ミクロネシア連邦	ミクロネシア連邦	Federated States of Micro…
+j	ミクロネーション	ミクロネーション	
+j	ミシシッピ州	みししっぴしゅう	the full form of ミシシッピ (“…
+j	ミシシッピ州	ミシシッピしゅう	the full form of ミシシッピ (“…
+j	ミス・コンテスト	ミス・コンテスト	a beauty contest
+j	ミセス・ワタナベ	ミセス・ワタナベ	
+j	ミックスジュース	ミックスジュース	複数の種類の果物などが混ざったジュース。牛乳を入れ…
+j	ミックスダブルス	ミックスダブルス	
+j	ミッシングリンク	ミッシングリンク	
+j	ミッドウェー島	みっどうぇーとう	Midway Islands
+j	ミッドウェー島	ミッドウェーとう	Midway Islands
+j	ミッドランズ東部	ミッドランズ東部	
+j	ミッドランド東部	ミッドランド東部	
+j	ミナスジェライス	ミナスジェライス	
+j	ミナミコアリクイ	ミナミコアリクイ	southern tamandua, Tamand…
+j	ミナミスナヤツメ	ミナミスナヤツメ	すなやつめの一種。学名は Lethenteron …
+j	ミニコンピュータ	ミニコンピュータ	小さな部屋にも設置できる程度だが、マイクロコンピュ…
+j	ミニ新幹線	みにしんかんせん	mini-shinkansen (conventi…
+j	ミニ新幹線	ミニしんかんせん	mini-shinkansen (conventi…
+j	ミニ独立国	みにどくりつこく	mini-independent country
+j	ミニ独立国	ミニどくりつこく	mini-independent country
+j	ミューテーション	ミューテーション	mutation
+j	ミリアメートル波	みりあめーとるは	超長波の別名。
+j	ミリアメートル波	ミリアメートル波	超長波の別名。
+j	ミリタリーモデル	ミリタリーモデル	軍用列車、軍用車両、軍艦、軍用機といった兵器や銃な…
+j	ミレイコフスキー	ミレイコフスキー	
+j	ミレニアムベビー	ミレニアムベビー	西暦2000年に生まれた赤ん坊。
+j	ミロのヴィーナス	ミロのヴィーナス	the Venus de Milo
+j	南アジア人	みなみあじあじん	
+j	南アルタイ語	みなみあるたいご	ロシアの南部などで話されている、アルタイ諸語に属す…
+j	南カマリネス	みなみかまりねす	Camarines Sur (a province…
+j	南カマリネス	みなみカマリネス	Camarines Sur (a province…
+j	南スラブ人	みなみすらぶじん	「南スラヴ人」の表記揺れ。
+j	南スラヴ人	みなみすらゔじん	スラヴ人のうち南側に暮らす人々。スロベニア人、セル…
+j	南ローデシア	みなみろーでしあ	
+j	南半球	みなみはんきゅう	Southern Hemisphere (the …
+j	南回帰線	みなみかいきせん	the Tropic of Capricorn
+j	南朝鮮	みなみちょうせん	South Korea (a country in…
+j	右クリック	みぎクリックする	a right-click
+j	妙見菩薩	みょうけんぼさつ	天部の一人で、北極星または北斗七星を神格化したもの…
+j	密室殺人	みっしつさつじん	a locked-room murder (mur…
+j	密輸業者	みつゆぎょうしゃ	smuggler
+j	御台盤所	みだいばんどころ	大臣、大将、将軍の妻に対する敬称。御台所。御台。
+j	未完了相	みかんりょうそう	
+j	未来完了	みらいかんりょう	未来のある時点までに完了する動作や状態を示す時制。
+j	未雨綢繆	みうちゅうびゅう	to prepare before it is t…
+j	民主党員	みんしゅとういん	Democrat (a member or sup…
+j	民俗芸能	みんぞくげいのう	民間の生活文化に密着して伝承されてきた芸能。
+j	民俗音楽	みんぞくおんがく	民衆の間で伝承してきた独特の音楽。
+j	民営鉄道	みんえいてつどう	国営鉄道、公営鉄道に対し、個人や私企業によりが経営…
+j	民族主義の	みんぞくしゅぎの	
+j	民族浄化	みんぞくじょうか	
+j	民族衣装	みんぞくいしょう	その民族が着用する独特な衣装。
+j	民族音楽	みんぞくおんがく	その民族が伝承してきた独自の音楽。
+j	民衆の敵	みんしゅうのてき	
+j	民間信仰	みんかんしんこう	民間で伝えられている信仰。
+j	民間放送	みんかんはうそう	commercial broadcasting
+j	民間放送	みんかんほうそう	commercial broadcasting
+j	民間防衛	みんかんぼうえい	外敵からの攻撃や自然災害から民間人の生命、財産の被…
+j	水の泡となる	みずのあわとなる	これまで努力していたことが全て無駄となる。
+j	深山川蜻蛉	みやまがわとんぼ	Calopteryx cornelia (a sp…
+j	深山川蜻蛉	ミヤマガワトンボ	Calopteryx cornelia (a sp…
+j	緑のカーテン	みどりのかーてん	a green wall (a wall cove…
+j	緑のカーテン	みどりのカーテン	a green wall (a wall cove…
+j	緑花椰菜	みどりはなやさい	「ブロッコリー」の別名。
+j	緑花野菜	みどりはなやさい	synonym of ブロッコリー (burokk…
+j	緑花野菜	ミドリハナヤサイ	synonym of ブロッコリー (burokk…
+j	緑錦蛇	みどりにしきへび	a green tree python
+j	緑錦蛇	ミドリニシキヘビ	a green tree python
+j	耳の聞こえない	みみのきこえない	
+j	耳を傾ける	みみをかたむける	to listen carefully
+j	蜜月旅行	みつげつりょこう	蜜月にする旅行。新婚旅行。
+j	蜜蜂の巣箱	みつばちのすばこ	
+j	蜜蜂学者	みつばちがくしゃ	蜜蜂学について研究する科学者。
+j	見かけによらない	みかけによらない	
+j	身分不相応	みぶんふそうおう	beyond one's means or pos…
+j	みそかにつきがでる	みそかにつきがでる	ありえないこと。起こるはずのないこと。
+j	みなみのかんむり座	みなみのかんむり座	南天の星座の一つで、トレミーの48星座の一つでもあ…
+j	みなみのさんかく座	みなみのさんかく座	南天の星座の一つ。構成する主な星にアトリアがある。
+j	みにくいアヒルの子	みにくいアヒルの子	
+j	ミクロ経済学	みくろけいざいがく	家計や企業の個々の経済活動の分析から理論を構築する…
+j	ミッドフィールダー	ミッドフィールダー	midfielder
+j	ミナミジャガーネコ	ミナミジャガーネコ	
+j	ミネラルウォーター	ミネラルウォーター	mineral water (water cont…
+j	ミネラルウオーター	ミネラルウオーター	無機塩類を多く含む水。特にボトルに入っているそのよ…
+j	ミュンヒハウゼン数	ミュンヒハウゼン数	ある数の各桁をそれぞれ各桁の数で累乗した数の和と等…
+j	ミュージックビデオ	ミュージックビデオ	a music video
+j	ミルクチョコレート	ミルクチョコレート	Chocolate that includes m…
+j	ミンコフスキー時空	ミンコフスキー時空	Minkowski spacetime
+j	ミンコフスキー空間	ミンコフスキー空間	
+j	ミントチョコチップ	ミントチョコチップ	
+j	ミントチョコレート	ミントチョコレート	
+j	南アジア語族	みなみあじあごぞく	synonym of オーストロアジア語族
+j	南アジア語族	みなみアジアごぞく	synonym of オーストロアジア語族
+j	南アフリカ人	みなみあふりかじん	
+j	南スラヴ語群	みなみすらぶごぐん	印欧語族スラヴ語派の語群の一つ。バルカン半島のブル…
+j	南ヨーロッパ史	みなみよーろっぱし	世界史の中における南ヨーロッパに関係する事柄を総合…
+j	南九州	みなみきゅうしゅう	southern Kyūshū (a region…
+j	南十字星	みなみじゅうじせい	the Southern Cross
+j	南回帰線	みなみくわいきせん	the Tropic of Capricorn
+j	南大西洋	みなみたいせいやう	大西洋のうち南半球に位置する部分。
+j	南大西洋	みなみたいせいよう	大西洋のうち南半球に位置する部分。
+j	南太平洋	みなみたいへいよう	太平洋のうち南半球に位置する部分。
+j	南象海豹	みなみぞうあざらし	a southern elephant seal
+j	南象海豹	ミナミゾウアザラシ	a southern elephant seal
+j	宮内省	みやのうちのつかさ	the Ministry of the Imper…
+j	密入国	みつにゅうこくする	illegal immigration
+j	密入国者	みつにゅうこくしゃ	illegal immigrant
+j	明明後日	みやうみやうごにち	three days from today, tw…
+j	明明後日	みょうみょうごにち	three days from today, tw…
+j	民主カンプチア	みんしゅかんぷちあ	Democratic Kampuchea
+j	民主カンプチア	みんしゅカンプチア	Democratic Kampuchea
+j	民主主義者	みんしゅしゅぎしゃ	democrat
+j	民族主義者	みんぞくしゅぎしゃ	民族主義の立場をとりそれを主張する者。
+j	民族起源論	みんぞくきげんろん	ethnogenesis
+j	緑の黒髪の	みどりのくろかみの	
+j	脈管肉腫	みゃくかんにくしゅ	内皮細胞から発生する癌。
+j	見て見ぬふりをする	みてみぬふりをする	
+j	魅惑的な女	みわくてきなおんな	
+j	みずがめ座生まれの人	みずがめ座生まれの人	
+j	ミクロネシア連邦	みくろねしあれんぽう	Federated States of Micro…
+j	ミクロネシア連邦	ミクロネシアれんぽう	Federated States of Micro…
+j	ミッキーマウス保護法	ミッキーマウス保護法	アメリカ合衆国の著作権延長法（Copyright …
+j	ミネラルコルチコイド	ミネラルコルチコイド	
+j	ミネラロコルチコイド	ミネラロコルチコイド	
+j	ミャンマー連邦共和国	ミャンマー連邦共和国	the Republic of the Union…
+j	ミンコフスキー時空	みんこふすきーじくう	Minkowski spacetime
+j	ミンコフスキー時空	ミンコフスキーじくう	Minkowski spacetime
+j	ミンストレル・ショー	ミンストレル・ショー	
+j	ミートアンドグリート	ミートアンドグリート	meet-and-greet (event whe…
+j	南アフリカ英語	みなみあふりかえいご	南アフリカ共和国で話されている英語の変種。
+j	南オーストラリア	みなみおーすとらりあ	South Australia (a state …
+j	南オーストラリア	みなみオーストラリア	South Australia (a state …
+j	右クリックメニュー	みぎくりっくめにゅー	コンピュータで、右クリックしたときに表示されるメニ…
+j	民族宗教	みんぞくしゅうきょう	特定の民族を中心に信仰される宗教。
+j	水先案内人	みずさきあんないにん	水先人の旧称。
+j	水呑百姓	みずのみびゃくしょう	江戸時代、自ら田畑を持たず年貢を負担していない農民…
+j	身を粉にして働く	みをこにしてはたらく	
+j	身分証明書	みぶんしょうめいしょ	identification papers; ID…
+j	身分証明書	みぶんしようめいしよ	identification papers; ID…
+j	魅惑的な女性	みわくてきなじょせい	
+j	みんなさんはありがとう	みんなさんはありがとう	
+j	ミシシッピアカミミガメ	ミシシッピアカミミガメ	カメ目ヌマガメ科のカメ。原産地は北米だが、日本に持…
+j	ミスコミュニケーション	ミスコミュニケーション	
+j	ミディ゠ピレネー地域圏	ミディ゠ピレネー地域圏	
+j	ミドルエイジクライシス	ミドルエイジクライシス	
+j	ミミナガバンディクート	ミミナガバンディクート	
+j	ミュンヒハウゼン症候群	ミュンヒハウゼン症候群	
+j	南アフリカ連邦	みなみあふりかれんぽう	
+j	南アラビア連邦	みなみあらびあれんぽう	1959年から1967年までイエメン南部でアラビア…
+j	南奄美大島語	みなみあまみおおしまご	日本語族琉球語派北琉球語群に属し、奄美大島南部と周…
+j	右に曲がってください	みぎにまがってください	
+j	右大臣	みぎのおおいもうちぎみ	the minister of the right…
+j	右大臣	みぎのおほいまうちぎみ	the minister of the right…
+j	妙法蓮華経	みょうほうれんげきょう	the Lotus Sutra of the Su…
+j	民主社会主義	みんしゅしゃかいしゅぎ	democratic socialism
+j	民族社会主義	みんぞくしゃかいしゅぎ	synonym of ナチズム (Nachizum…
+j	民族統一主義	みんぞくとういつしゅぎ	irredentism
+j	ミイラ取りがミイラになる	ミイラ取りがミイラになる	翻心させようと説得を試みる人が却って相手の主張に同…
+j	ミランコビッチ・サイクル	ミランコビッチ・サイクル	
+j	右も左も分からない	みぎもひだりもわからない	初めての環境で何から始めていいかも分からない。
+j	右切り捨て可能素数	みぎきりすてかのうそすう	それ自身が素数であり、更に右から数字を順に取り除い…
+j	木乃伊取りが木乃伊になる	みいらとりがみいらになる	the searcher becomes the …
+j	木乃伊取りが木乃伊になる	ミイラとりがミイラになる	the searcher becomes the …
+j	未来完了進行	みらいかんりょうしんこう	未来のある時点まで続いている動作を表す時制。
+j	未確認飛行物体	みかくにんひかうぶつたい	an unidentified flying ob…
+j	未確認飛行物体	みかくにんひこうぶったい	an unidentified flying ob…
+j	民主社会主義	みんしゆしやくわいしゆぎ	democratic socialism
+j	民族ボルシェヴィズム	みんぞくぼるしぇゔぃずむ	
+j	民族社会主義	みんぞくしやくわいしゆぎ	synonym of ナチズム (Nachizum…
+j	道の傍の碑の文	みちのかたわらのひのぶん	素晴らしい文章。優れた文章。名文。
+j	みなみアフリカきょうわこく	みなみアフリカきょうわこく	南アフリカ共和国: Republic of Sou…
+j	ミステリークレイフィッシュ	ミステリークレイフィッシュ	ザリガニの一種の日本における通称。
+j	南アフリカ共和国	みなみあふりかきょうわこく	Republic of South Africa …
+j	南アフリカ共和国	みなみアフリカきょうわこく	Republic of South Africa …
+j	南スーダン共和国	みなみすーだんきょうわこく	Republic of South Sudan (…
+j	南スーダン共和国	みなみスーダンきょうわこく	Republic of South Sudan (…
+j	南ベトナム共和国	みなみべとなむきょうわこく	1969年から1976年にかけてベトナムに存在した…
+j	民事介入暴力	みんじかいにゅうぼうりょく	暴力団員が一般市民の日常生活や経済取引に民事的権利…
+j	見ては極楽住んでは地獄	みてはごくらくすんではじごく	what you see isn't always…
+j	ミャンマー連邦共和国	みゃんまーれんぽうきょうわこく	the Republic of the Union…
+j	ミャンマー連邦共和国	ミャンマーれんぽうきょうわこく	the Republic of the Union…
+j	導かれし者たち現象	みちびかれしものたちげんしょう	誰かが列に並ぶと、それに導かれるかのように他の人々…
+j	ミツクリエナガチョウチンアンコウ	ミツクリエナガチョウチンアンコウ	箕作柄長提灯鮟鱇: a triplewart se…
+j	水は方円の器に従う	みずはほうえんのうつわにしたがう	人は環境や交わり次第で善悪どちらにもなれるというこ…
+j	箕作柄長提灯鮟鱇	みつくりえながちょうちんあんこう	a triplewart seadevil (Cr…
+j	箕作柄長提灯鮟鱇	ミツクリエナガチョウチンアンコウ	a triplewart seadevil (Cr…
+j	実るほど頭の下がる稲穂かな	みのるほどあたまのさがるいなほかな	great men act humble
+j	水は方円の器に従う	みずはほうえんのうつわものにしたがう	人は環境や交わり次第で善悪どちらにもなれるというこ…

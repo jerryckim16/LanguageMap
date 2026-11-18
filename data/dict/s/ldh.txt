@@ -1,0 +1,12 @@
+e	dhaka	dhaka	1 meaning
+e	dhikr	dhikr	1 meaning
+e	dhole	dhole	1 meaning
+e	dharma	dharma	2 meanings
+e	dhokla	dhokla	1 meaning
+e	dhampir	dhampir	1 meaning
+e	dhivehi	dhivehi	1 meaning
+e	dhabihah	dhabihah	1 meaning
+e	dhu'l-qa'da	dhulqada	1 meaning
+e	dhu'l-hijja	dhulhijja	1 meaning
+e	dharmapala	dharmapala	1 meaning
+e	dharmachakra	dharmachakra	1 meaning

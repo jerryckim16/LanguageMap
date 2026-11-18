@@ -1,0 +1,744 @@
+e	by	by	2 meanings
+e	bye	bye	1 meaning
+j	びょう	byo	渺: boundless (usually in …
+j	ビュー	byu	view; scenery; scene; lan…
+j	廟	byo	mausoleum
+j	渺	byo	boundless, limitless, vas…
+j	眇	byo	small, minor, trifling
+j	秒	byo	second (one-sixtieth of a…
+j	鋲	byo	（ビョウ）画鋲。
+k	뵤	byo	
+k	뷰	byu	view
+e	byte	byte	1 meaning
+j	ビューア	byua	
+j	ビューアー	byua	viewer
+j	廟宇	byou	祖先や貴人を祀る場所。みたまや。宗廟。
+k	뱔	byal	see 배알
+k	벼	byeo	rice plant, paddy
+e	by god	bygod	1 meaning
+e	by now	bynow	1 meaning
+j	びゃく	byaku	白: white
+j	びょういん	byoin	
+j	びょうき	byoki	
+j	びょうほ	byoho	苗圃: seedbed, nursery
+j	びょうゆう	byoyu	病友: a sick friend, a frie…
+j	ビューティー	byuti	beauty, a combination of …
+j	ビューラー	byura	eyelash curler
+j	ビューワー	byuwa	閲覧するためのソフトウェア。
+j	屏風	byobu	a folding screen
+j	平等	byodo	even, equal
+j	廟号	byogo	a temple name (posthumous…
+j	廟堂	byodo	御霊屋。霊廟。
+j	廟塔	byoto	仏像などを安置する霊屋の塔。
+j	廟謨	byobo	廟堂の謀。朝廷の政策。
+j	描像	byozo	像を描くこと。また、その描いた像。
+j	描画	byoga	drawing, painting, portra…
+j	杪夏	byoka	the end of summer
+j	病児	byoji	sick/ill child
+j	病兒	byoji	
+j	病友	byoyu	a sick friend, a friend w…
+j	病因	byoin	the cause of a disease
+j	病夫	byofu	病気の夫。病に罹った夫。
+j	病婦	byofu	病気の婦人。病に罹った女。
+j	病巣	byoso	体の病気になっている箇所。病原のある箇所。
+j	病後	byogo	convalescence, the period…
+j	病期	byoki	病気の経過をその症状や特徴により区分した期間。
+j	病架	byoka	病人の褥。病気に罹った者が寝るための床。
+j	病棟	byoto	ward (part of a hospital,…
+j	病母	byobo	病気の母。病に罹った母親。
+j	病気	byoki	sickness, illness, disease
+j	病父	byofu	sick father
+j	病状	byojo	symptom (of an illness); …
+j	病狀	byojo	病状の旧字体表記。
+j	病理	byori	pathology
+j	病臥	byoga	bedriddenness, being bedr…
+j	病苦	byoku	病の苦しみ。
+j	病躯	byoku	病気の躯。病に罹った体。
+j	病院	byoin	hospital (large medical f…
+j	病鬼	byoki	人を病気にさせる鬼神。
+j	病魔	byoma	demon of ill health; dise…
+j	眇躯	byoku	小さい体。
+j	苗圃	byoho	seedbed
+j	苗胤	byoin	遠い血筋の子孫。
+j	苗裔	byoei	offspring; descendant; pr…
+k	벽	byeok	wall
+k	변	byeon	jargon, argot, lingo
+k	별	byeol	a star (celestial body)
+k	볌	byeom	반지나 병마개 따위가 헐거울 때 꼭 맞도록 끼…
+k	볏	byeot	comb
+k	볕	byeot	sunshine; warmth of sunbe…
+e	bye-bye	byebye	2 meanings
+e	bykhaw	bykhaw	1 meaning
+e	bylina	bylina	1 meaning
+e	bypass	bypass	3 meanings
+e	byword	byword	1 meaning
+j	びょうきゅう	byokyu	病休: sick leave
+j	びょうげん	byogen	病原: cause or source of a …
+j	びょうしゃ	byosha	描写: description; portrait
+j	びょうしょう	byosho	
+j	びょうびょう	byobyo	犬の遠吠え。
+j	ビュッフェ	byuffe	buffet (counter or sidebo…
+j	廟所	byosho	cemetery
+j	廟祀	byoshi	御霊屋、社に祀ること。
+j	廟見	byoken	祖廟や貴人を祀る廟に参詣し、参拝すること。
+j	描写	byosha	description; depiction; p…
+j	描寫	byosha	
+j	描線	byosen	drawn line
+j	淼淼	byobyo	水面が果てしなく広いさま。
+j	猫眼	byogan	猫の目。
+j	猫睛	byosei	猫の目。
+j	瓶水	byosui	
+j	病中	byochu	病気になっている間。
+j	病人	byonin	patient
+j	病休	byokyu	syllabic abbreviation of …
+j	病体	byotai	病気の身体。病に罹った体。
+j	病原	byogen	cause or source of a dise…
+j	病名	byomei	disease name
+j	病変	byohen	pathological change
+j	病妻	byosai	病気の妻。病に罹った妻。
+j	病床	byosho	sickbed
+j	病弊	byohei	evils
+j	病性	byosei	病気の性質、特性。病症。
+j	病患	byokan	disease; illness; sickness
+j	病態	byotai	pathophysiology; patholog…
+j	病斑	byohan	植物の葉や茎などが病害虫に冒されることでできり斑紋。
+j	病死	byoshi	death due to illness, exp…
+j	病牀	byosho	「病床」の別表記。
+j	病症	byosho	disease
+j	病監	byokan	監獄で病気になった収監者を収容する監房。
+j	病眼	byogan	眼病。また、眼病になっている目。めやみ。
+j	病者	byosha	病気の人。病に罹った者。
+j	病舎	byosha	病室のある建物。病棟。
+j	病間	byokan	病気にかかっている間。
+j	病題	byodai	算額のうち答えが一つに定まらないもの。
+j	病顔	byogan	病気を患っている人の顔。病気で疲れた人の顔。
+j	白狐	byakko	an arctic fox
+j	白虎	byakko	white tiger (tiger with w…
+j	眇蹇	byoken	眇で片足である状態。
+j	秒剣	byoken	秒針。
+j	秒間	byokan	秒単位の長さの時間。
+j	藐玩	byogan	軽蔑して扱うこと。
+j	藐視	byoshi	蔑んで視ること。軽視すること。
+j	謬伝	byuden	誤って伝えること。誤伝。
+j	謬見	byuken	fallacy
+j	錨床	byosho	船舶の甲板で収容した錨を置いておく場所。
+k	벼루	byeoru	inkstone
+k	벼리	byeori	manipulation rope of the …
+k	변이	byeoni	
+k	병	byeong	bottle; jar
+e	by heart	byheart	1 meaning
+e	bycatch	bycatch	1 meaning
+e	byoyomi	byoyomi	1 meaning
+j	びゃくり	byakuri	白痢: white diarrhoea
+j	びょうがく	byogaku	猫額: cat's forehead, small…
+j	びょうじょく	byojoku	病褥: sickbed
+j	ビューグル	byuguru	bugle (tubular glass or p…
+j	平等に	byodoni	
+j	廟神	byoshin	廟に祀らている神。
+j	渺漠	byobaku	広大で果てしないさま。
+j	渺邈	byobaku	広大で果てしないさま。
+j	漂浸	byoshin	濡れ、ひたること。
+j	猫額	byogaku	cat's forehead, smallness…
+j	病弱	byojaku	sickliness
+j	病歴	byoreki	clinical history
+j	病毒	byodoku	pathogen; noxa; disease
+j	病的	byoteki	体や精神が健全でないさま。
+j	病褥	byojoku	sickbed
+j	病身	byoshin	病気の身体。また、病弱な身。
+j	白夜	byakuya	the midnight sun (white n…
+j	白業	byakugo	good deed
+j	白毫	byakugo	urna
+j	白鑞	byakuro	しろめのこと。
+j	百部	byakubu	Stemona japonica, a speci…
+j	眇目	byomoku	片目。隻眼。
+j	眇薄	byohaku	拙く、劣ること。また、そのようなさま。
+j	眇身	byoshin	小さい体。眇躯。
+j	眇邈	byobaku	遥かに微かなさま。
+j	秒読み	byoyomi	countdown (counting down …
+j	秒速	byosoku	per second
+j	秒針	byoshin	second hand
+j	錨泊	byohaku	碇泊。
+k	뱌로자	byaroja	
+k	뱌비다	byabida	
+k	뱌지마	byajima	러시아의 도시. 스몰렌스크 주에 속해 있다.
+k	뱡기	byanggi	Hwanghae form of 비행기(飛行機)…
+k	벼락	byeorak	lightning (stroke)
+k	벼룩	byeoruk	flea
+k	벽보	byeokbo	wall poster; placard
+k	벽사	byeoksa	
+k	벽수	byeoksu	짙푸른 빛이 나도록 맑고 깊은 물.
+k	벽안	byeogan	blue eyes, green eyes
+k	벽옥	byeogok	미세한 석영결정이 모여서 생긴 광물이며 보석의…
+k	벽자	byeokja	a rare Chinese character
+k	벽지	byeokji	wallpaper
+k	변고	byeongo	
+k	변구	byeongu	
+k	변기	byeongi	toilet; urinal; bedpan
+k	변리	byeolli	
+k	변모	byeonmo	
+k	변보	byeonbo	
+k	변비	byeonbi	constipation
+k	변사	byeonsa	뜻밖의 사고로 죽음.
+k	변소	byeonso	toilet; WC
+k	변수	byeonsu	variable
+k	변압	byeonap	압력을 바꿈. 주로 전압을 가리킨다.
+k	변온	byeonon	온도가 변함.
+k	변위	byeonwi	(물리) 위치 변화를 나타내는 벡터양.
+k	변제	byeonje	payment
+k	변조	byeonjo	본래의 모습을 바꿔 사용함.
+k	변주	byeonju	playing a (musical) varia…
+k	변호	byeonho	
+k	별가	byeolga	
+k	별고	byeolgo	
+k	별도	byeoldo	special, separate
+k	별로	byeollo	very (in a negative conte…
+k	별리	byeolli	'이별'.
+k	별미	byeolmi	
+k	별세	byeolse	death; passing away
+k	별시	byeolsi	
+k	별의	byeorui	
+k	별인	byeolin	
+k	별일	byeoril	an unusual event; an odd …
+k	별자	byeolja	
+k	별호	byeolho	
+k	병아	byeonga	sick/ill child
+k	병오	byeongo	The forty-third term of t…
+k	뷰테인	byutein	butane
+e	by chance	bychance	1 meaning
+e	by dint of	bydintof	1 meaning
+e	by the way	bytheway	1 meaning
+j	びゃくだん	byakudan	白檀: Indian sandalwood
+j	びょうがちゅう	byogachu	病臥中: bedridden
+j	ビャクダン	byakudan	白檀: Indian sandalwood
+j	ビュザンセ	byuzanse	
+j	ビュレット	byuretto	burette
+j	廟闕	byoketsu	廟の門。
+j	病欠	byoketsu	absence due to illness
+j	病没	byobotsu	dying of disease
+j	病潔	byoketsu	潔癖症。
+j	病熱	byonetsu	病気に伴う発熱。
+j	病識	byoshiki	自身がその病気であるという認識。
+j	病院長	byoincho	病院の総責任者。
+j	白檀	byakudan	Indian sandalwood (Santal…
+j	白芷	byakushi	Angelica dahurica
+j	白蓮	byakuren	white lotus
+j	白蘞	byakuren	synonym of 鏡草 (kagamigusa…
+j	秒時計	byodokei	
+j	秒殺	byosatsu	seckilling
+j	苗栗	byoritsu	Miaoli (a county of Taiwa…
+j	藐忽	byokotsu	軽んじ、また蔑むこと。軽視すること。
+j	謬説	byusetsu	誤った説。
+k	벼랑	byeorang	cliff, precipice
+k	벼리다	byeorida	to forge a blade on, to s…
+k	벼슬	byeoseul	government official, offi…
+k	벽개	byeoggae	
+k	벽계	byeokgye	
+k	벽돌	byeokdol	brick
+k	벽해	byeokhae	짙푸른 바다.
+k	벽화	byeokhwa	mural; fresco
+k	변계	byeongye	
+k	변괴	byeongoe	이상야릇한 일이나 재변.
+k	변국	byeonguk	
+k	변난	byeonnan	트집을 잡아서 비난함.
+k	변또	byeontto	bento, Japanese lunchbox
+k	변란	byeollan	
+k	변론	byeollon	
+k	변말	byeonmal	
+k	변매	byeonmae	돈으로 쓰려고 환곡(還穀)을 타다가 팔던 일.
+k	변문	byeonmun	
+k	변민	byeonmin	
+k	변박	byeonbak	
+k	변발	byeonbal	몽골인이나 만주인의 풍습으로, 남자의 머리를 …
+k	변복	byeonbok	
+k	변속	byeonsok	
+k	변신	byeonsin	transformation, metamorph…
+k	변심	byeonsim	
+k	변옹	byeonong	
+k	변음	byeoneum	
+k	변작	byeonjak	어떤 것을 원래 목적에 어긋나게 사용함.
+k	변재	byeonjae	
+k	변좌	byeonjwa	
+k	변죽	byeonjuk	그릇이나 세간, 과녁 따위의 가장자리.
+k	변질	byeonjil	
+k	변체	byeonche	anomaly
+k	변태	byeontae	metamorphosis
+k	변한	byeonhan	Byeonhan confederacy
+k	변화	byeonhwa	change; variation
+k	별감	byeolgam	
+k	별개	byeolgae	
+k	별거	byeolgeo	
+k	별곡	byeolgok	
+k	별과	byeolgwa	
+k	별록	byeollok	
+k	별말	byeolmal	
+k	별반	byeolban	particularly
+k	별밤	byeolbam	starry night
+k	별복	byeolbok	참복과의 바닷물고기. 몸의 길이는 30cm 정…
+k	별빛	byeolbit	starlight
+k	별숲	byeolsup	
+k	별실	byeolsil	special room
+k	별찌	byeoljji	meteor; shooting star
+k	별표	byeolpyo	asterisk
+k	별학	byeolhak	
+k	볍씨	byeopssi	못자리에 뿌리는 벼의 씨.
+k	볏단	byeotdan	
+k	볏짚	byeotjip	rice straw
+k	병가	byeongga	병학(兵學)의 전문가.
+k	병고	byeonggo	
+k	병기	byeonggi	writing side by side
+k	병리	byeongni	
+k	병마	byeongma	병사(兵士)와 군마(軍馬)를 아울러 이르는 말.
+k	병사	byeongsa	soldier
+k	병세	byeongse	
+k	병어	byeongeo	silvery pomfret
+k	병인	byeongin	The third term of the Chi…
+k	병자	byeongja	The thirteenth term of th…
+k	병조	byeongjo	
+k	병후	byeonghu	
+e	by means of	bymeansof	1 meaning
+e	by no means	bynomeans	1 meaning
+e	by oneself	byoneself	2 meanings
+e	by-product	byproduct	1 meaning
+e	bydgoszcz	bydgoszcz	1 meaning
+e	byerazino	byerazino	1 meaning
+e	byproduct	byproduct	1 meaning
+e	byzantium	byzantium	1 meaning
+j	びゃくろく	byakuroku	白緑: whitish green
+j	ビャクシン	byakushin	
+j	ビュスチエ	byusuchie	
+j	ビューティフル	byutifuru	beautiful
+j	ビューファインダー	byufainda	
+j	描出	byoshutsu	描き出すこと。
+j	柏槇	byakushin	「イブキ」（伊吹）の別名。
+j	柏槙	byakushin	「イブキ」の別名。
+j	病原体	byogentai	pathogen
+j	病原菌	byogenkin	病気の原因となる細菌。
+j	病室	byoshitsu	sickroom, patient's room …
+j	病害虫	byogaichu	農作物における病気と害虫。また、その被害。
+j	病理学	byorigaku	pathology
+j	病虫害	byochugai	damage by plant disease a…
+j	病質	byoshitsu	病気の性質。
+j	白緑	byakuroku	whitish green
+j	秒速で	byosokude	with incredible speed; qu…
+k	뱦뺴	byapppyae	Touhou Project (東方Project)
+k	벼르다	byeoreuda	to look out for an opport…
+k	벽공	byeokgong	clear blue sky, cloudless…
+k	벽장	byeokjang	closet, cupboard
+k	벽촌	byeokchon	
+k	변강	byeongang	
+k	변덕	byeondeok	이랬다저랬다 잘 변하는 태도나 성질.
+k	변동	byeondong	change, fluctuation
+k	변리사	byeollisa	특허, 실용신안 따위에 관한 사무를 대리, 감…
+k	변방	byeonbang	
+k	변백	byeonbaek	
+k	변법	byeonbeop	
+k	변사자	byeonsaja	
+k	변상	byeonsang	손해가 일어났을 때 돈으로 갚는 것.
+k	변색	byeonsaek	
+k	변설	byeonseol	
+k	변압기	byeonapgi	transformer
+k	변압소	byeonapso	
+k	변역	byeonyeok	함수에서, 변수가 변할 수 있는 값의 범위.
+k	변이음	byeonieum	이음.
+k	변장	byeonjang	
+k	변전	byeonjeon	
+k	변절	byeonjeol	defection; treachery
+k	변제기	byeonjegi	
+k	변조기	byeonjogi	
+k	변조파	byeonjopa	
+k	변종	byeonjong	variety
+k	변칙	byeonchik	
+k	변통	byeontong	
+k	변하다	byeonhada	to change
+k	변호사	byeonhosa	lawyer, solicitor, counse…
+k	변호인	byeonhoin	counsel, attorney, defend…
+k	변환	byeonhwan	conversion, transformation
+k	별것	byeolgeot	a rarity; a curiosity; an…
+k	별관	byeolgwan	annex (a building constru…
+k	별궁	byeolgung	
+k	별기위	byeolgiwi	
+k	별나다	byeollada	eccentric, peculiar, biza…
+k	별나라	byeollara	the land of the stars
+k	별당	byeoldang	
+k	별도리	byeoldori	
+k	별바다	byeolbada	(referring to the appeara…
+k	별박이	byeolbagi	a horse with a white "sta…
+k	별유사	byeoryusa	
+k	별입시	byeoripsi	
+k	별자리	byeoljari	constellation
+k	별장	byeoljang	cottage, villa (a house u…
+k	별점	byeoljeom	
+k	별종	byeoljong	
+k	별칙	byeolchik	
+k	별항	byeolhang	
+k	볏섬	byeotseom	sack of rice
+k	병거	byeonggeo	전쟁할 때에 쓰는 수레.
+k	병골	byeonggol	
+k	병과	byeonggwa	군인이나 부대를 그 임무에 따라 나눔.
+k	병대	byeongdae	troops, soldiers, sailors
+k	병독	byeongdok	virus
+k	병립	byeongnip	
+k	병맛	byeongmat	taste that is absurd, sen…
+k	병살	byeongsal	double play
+k	병서	byeongseo	
+k	병술	byeongsul	The twenty-third term of …
+k	병신	byeongsin	moron, imbecile, idiot, r…
+k	병실	byeongsil	병이나 질병을 치료하거나 휴식을 취하는 방.
+k	병아리	byeongari	chick, baby chicken
+k	병액	byeongaek	
+k	병약	byeongyak	
+k	병원	byeongwon	hospital
+k	병음	byeongeum	Pinyin
+k	병작	byeongjak	
+k	병존	byeongjon	coexistence
+k	병졸	byeongjol	private, soldier
+k	병진	byeongjin	The fifty-third term of t…
+k	병질	byeongjil	
+k	병폐	byeongpye	
+k	병합	byeonghap	annexation
+k	병해	byeonghae	
+k	병화	byeonghwa	전쟁으로 인한 화재.
+e	by all means	byallmeans	1 meaning
+e	by and large	byandlarge	1 meaning
+e	by-election	byelection	1 meaning
+e	byalynichy	byalynichy	1 meaning
+e	byarozawka	byarozawka	1 meaning
+j	びゃくだんこう	byakudanko	白檀香: sandalwood incense
+j	びゃくだんゆ	byakudanyu	白檀油: sandalwood oil
+j	ビュザンティオン	byuzantion	Byzantium (an ancient Gre…
+j	平等主義	byodoshugi	egalitarianism
+j	描写する	byoshasuru	
+j	猫睛石	byoseiseki	cat's eye; cymophane
+j	白朮	byakujutsu	dried skin of young Atrac…
+j	白檀油	byakudanyu	sandalwood oil
+j	白檀香	byakudanko	sandalwood incense
+j	白蓮華	byakurenge	（びゃくれんげ）極楽浄土に咲く白い蓮華。また、その…
+k	뱌로자우카	byarojauka	
+k	벼농사	byeonongsa	rice growing
+k	벼룻물	byeorunmul	water poured on an inksto…
+k	벽걸이	byeokgeori	wall tapestry, hanging ta…
+k	벽계수	byeokgyesu	
+k	벽보판	byeokbopan	
+k	벽시계	byeoksigye	wall clock
+k	벽오동	byeogodong	
+k	벽치기	byeokchigi	wall construction
+k	변격	byeongyeok	
+k	변량	byeollyang	
+k	변론가	byeollonga	debater
+k	변류기	byeollyugi	
+k	변별	byeonbyeol	사물의 옳고 그름이나 좋고 나쁨 또는 이러한 …
+k	변성	byeonseong	
+k	변속기	byeonsokgi	
+k	변시체	byeonsiche	
+k	변이하다	byeonihada	change; mutate
+k	변주곡	byeonjugok	variation
+k	변증	byeonjeung	
+k	변질자	byeonjilja	
+k	변천	byeoncheon	
+k	변혁	byeonhyeok	어떤 것을 혁신적으로 바꾸게 하는 것을 가리키…
+k	변화구	byeonhwagu	breaking ball
+k	변화토	byeonhwato	
+k	별개의	byeolgaeui	
+k	별기군	byeolgigun	
+k	별따기	byeolttagi	
+k	별똥	byeolttong	meteor; shooting star
+k	별무늬	byeolmunui	star pattern; starspot
+k	별무반	byeolmuban	
+k	별문제	byeolmunje	
+k	별별	byeolbyeol	of various and unusual so…
+k	별세계	byeolsegye	
+k	별세초	byeolsecho	
+k	별수단	byeolsudan	
+k	별안간	byeorangan	suddenly
+k	별책	byeolchaek	딸림 책.
+k	별치부	byeolchibu	
+k	별칭	byeolching	another name
+k	별판부	byeolpanbu	
+k	병균	byeonggyun	
+k	병기고	byeonggigo	armoury; arsenal
+k	병나다	byeongnada	
+k	병동	byeongdong	
+k	병법	byeongbeop	strategy; tactics
+k	병사자	byeongsaja	
+k	병상	byeongsang	
+k	병색	byeongsaek	
+k	병석	byeongseok	
+k	병설	byeongseol	
+k	병역	byeongyeok	military service
+k	병장	byeongjang	sergeant
+k	병적	byeongjeok	
+k	병제사	byeongjesa	
+k	병중	byeongjung	
+k	병참	byeongcham	logistics (procurement, s…
+k	병풍	byeongpung	folding screen
+k	병환	byeonghwan	
+k	뷰파인더	byupaindeo	
+e	by a long shot	byalongshot	1 meaning
+j	ビャウィストク	byawisutoku	
+j	ビャンビャン麺	byanbyanmen	𰻞𰻞麺の別表記。
+j	平等にする	byodonisuru	
+j	描写的	byoushateki	
+j	病気になる	byokininaru	
+j	白蓮教	byakurenkyo	White Lotus (a religious …
+j	秒読みする	byoyomisuru	
+k	뱔리니치	byallinichi	
+k	벼락부자	byeorakbuja	upstart, nouveau riche
+k	벼락촉	byeorakchok	'피뢰침'의 북한말.
+k	벼메뚜기	byeomettugi	Oxya chinensis sinuosa, a…
+k	벽구름	byeokgureum	
+k	벽난로	byeongnallo	fireplace (an open hearth…
+k	벽돌집	byeokdoljip	
+k	벽력	byeongnyeok	thunder, bolt
+k	벽면	byeongmyeon	
+k	벽창우	byeokchangu	
+k	변경	byeongyeong	change
+k	변동비	byeondongbi	
+k	변두통	byeondutong	
+k	변명	byeonmyeong	justification, excuse, ap…
+k	변모하다	byeonmohada	
+k	변비하다	byeonbihada	중앙에서 멀리 떨어져서 하찮고 궁벽하다.
+k	변신술	byeonsinsul	변신을 할 수 있는 기술.
+k	변압풍	byeonappung	코리올리힘과 국소적인 지균풍의 가속도가 평형상…
+k	변이계수	byeonigyesu	
+k	변전소	byeonjeonso	electrical substation
+k	변절자	byeonjeolja	defector; turncoat; trait…
+k	변제하다	byeonjehada	
+k	변조관	byeonjogwan	
+k	변조하다	byeonjohada	
+k	변통수	byeontongsu	
+k	변한말	byeonhanmal	word that has undergone s…
+k	변형	byeonhyeong	metamorphosis; transforma…
+k	변호권	byeonhogwon	
+k	변호하다	byeonhohada	상대방의 편에 서서 대변인이 되다.
+k	변화신	byeonhwasin	
+k	변화표	byeonhwapyo	
+k	변환기	byeonhwangi	
+k	별명	byeolmyeong	alias, nickname
+k	별사건	byeolsageon	
+k	별사전	byeolsajeon	
+k	별세하다	byeolsehada	to die; to pass away
+k	별찌돌	byeoljjidol	'운석'의 북한말.
+k	별초군	byeolchogun	
+k	병나발	byeongnabal	
+k	병력	byeongnyeok	troops
+k	병렬	byeongnyeol	
+k	병리학	byeongnihak	pathology (branch of medi…
+k	병살타	byeongsalta	hitting into a double play
+k	병영	byeongyeong	
+k	병이 나다	byeonginada	
+k	병인학	byeonginhak	
+k	병작인	byeongjagin	
+k	병정	byeongjeong	soldier(s), servicemember…
+k	병증	byeongjeung	'병의 증세'를 줄인 말.
+k	병진자	byeongjinja	
+k	병충	byeongchung	
+k	병행	byeonghaeng	
+k	병혁	byeonghyeok	무기를 통틀어 이르는 말.
+e	byelaazyorsk	byelaazyorsk	1 meaning
+j	ビューロクラシー	byurokurashi	官僚主義。
+j	ビューロクラット	byurokuratto	官僚。
+j	病気不安症	byokifuansho	
+j	病理学者	byorigakusha	病理学を研究する科学者。
+k	벼룩이자리	byeorugijari	thyme-leaf sandwort (Aren…
+k	벼슬아치	byeoseulachi	
+k	벼슬하다	byeoseulhada	벼슬아치가 되거나 벼슬길에 오르다.
+k	벽돌색	byeokdolsaek	벽돌처럼 탁한 빨간 갈색.
+k	벽장문	byeokjangmun	
+k	벽진가야	byeokjingaya	성산가야.
+k	변곡점	byeongokjeom	
+k	변려문	byeollyeomun	
+k	변론주의	byeollonjuui	
+k	변론하다	byeollonhada	자신의 생각이나 주장을 밝히다.
+k	변모되다	byeonmodoeda	
+k	변박하다	byeonbakhada	
+k	변분법	byeonbunbeop	
+k	변비증	byeonbijeung	
+k	변성기	byeonseonggi	
+k	변성암	byeonseongam	오랜 기간 압력을 받아 변형이 일어난 암석.
+k	변속하다	byeonsokhada	
+k	변시증	byeonsijeung	
+k	변신하다	byeonsinhada	
+k	변실금	byeonsilgeum	대변이 의식적이지 않게 분비되는 현상. 원하지…
+k	변심하다	byeonsimhada	마음이 변하다.
+k	변이 지방	byeonijibang	synonym of 트랜스지방 (teuraen…
+k	변장술	byeonjangsul	
+k	변절한	byeonjeolhan	
+k	변조되다	byeonjodoeda	
+k	변질하다	byeonjilhada	
+k	변천사	byeoncheonsa	시간의 흐름에 따라 변하고 바뀌어 온 과정을 …
+k	변태근	byeontaegeun	
+k	변향부	byeonhyangbu	어린 사내아이의 오줌에 오래 담가 두었다가 꺼…
+k	변화하다	byeonhwahada	to change
+k	별거하다	byeolgeohada	
+k	별다르다	byeoldareuda	particular, special
+k	별동대	byeoldongdae	
+k	별작전	byeoljakjeon	
+k	별천지	byeolcheonji	
+k	병들다	byeongdeulda	to fall ill/sick, to beco…
+k	병따개	byeongttagae	bottle opener (device to …
+k	병마용	byeongmayong	
+k	병명	byeongmyeong	
+k	병원체	byeongwonche	
+k	병적부	byeongjeokbu	
+j	病的賭博	byotekitobaku	ギャンブル依存症を参照。
+k	벼룩시장	byeoruksijang	a flea market
+k	벽옥혼식	byeogokhonsik	
+k	벽지학교	byeokjihakgyo	
+k	변동하다	byeondonghada	
+k	변리공사	byeolligongsa	
+k	변상하다	byeonsanghada	
+k	변색하다	byeonsaekhada	
+k	변장하다	byeonjanghada	
+k	변재천	byeonjaecheon	
+k	변절하다	byeonjeolhada	to defect; to betray
+k	변정원	byeonjeongwon	
+k	변조요법	byeonjoyobeop	
+k	변조화폐	byeonjohwapye	
+k	변증학	byeonjeunghak	
+k	변질되다	byeonjildoeda	
+k	변칙적	byeonchikjeok	
+k	변태심리	byeontaesimni	정신의 이상이나 장애로 생기는 심리 현상.
+k	변통하다	byeontonghada	
+k	변함없다	byeonhameopda	
+k	변함없이	byeonhameopsi	unchangingly, constantly,…
+k	변화되다	byeonhwadoeda	
+k	변환하다	byeonhwanhada	
+k	별 아교 세포	byeolagyosepo	
+k	별정직	byeoljeongjik	
+k	별주부전	byeoljubujeon	
+k	병기창	byeonggichang	armoury; arsenal
+k	병리학자	byeongrihakja	
+k	병아리색	byeongarisaek	
+k	병아리콩	byeongarikong	chickpea
+k	병약하다	byeongyakhada	병으로 인하여 몸이 쇠약하다.
+k	병원균	byeongwongyun	
+k	병자사화	byeongjasahwa	
+k	병자호란	byeongjahoran	
+k	병존하다	byeongjonhada	to coexist
+k	병합설	byeonghapseol	구름 속에서 빗방울이 생성되는 과정을 설명한 …
+k	병합하다	byeonghaphada	
+j	ビュッシュ・ド・ノエル	byusshudonoeru	Yule log (log-shaped Chri…
+j	ビュルテンベルク	byurutenberuku	
+k	벼랑부처	byeorangbucheo	'마애불'의 북한말.
+k	벼랑오르기	byeorangoreugi	(등산) 벼랑을 오르는 북한의 국방 체육을 이…
+k	벽돌깨기	byeokdolkkaegi	
+k	벽전화기	byeokjeonhwagi	벽에 걸어 놓고 쓰는 전화기.
+k	변동되다	byeondongdoeda	
+k	변변하다	byeonbyeonhada	decent and satisfactory
+k	변별하다	byeonbyeolhada	
+k	변색되다	byeonsaekdoeda	
+k	변연대비	byeonyeondaebi	
+k	변온 동물	byeonondongmul	체온을 조절하는 능력이 없어서 바깥 온도에 따…
+k	변온동물	byeonondongmul	poikilotherm
+k	변위전류	byeonwijeollyu	
+k	변증법	byeonjeungbeop	근거를 제시하면서 이론을 증명하는 것.
+k	변증하다	byeonjeunghada	
+k	변천하다	byeoncheonhada	
+k	변태경	byeontaegyeong	
+k	변통되다	byeontongdoeda	
+k	변통성	byeontongseong	
+k	변혁하다	byeonhyeokhada	
+k	변화무궁	byeonhwamugung	
+k	변화무상	byeonhwamusang	
+k	변화형	byeonhwahyeong	
+k	변화화음	byeonhwahwaeum	화음 가운데서, 어떤 음을 올림표나 내림표로 …
+k	별거 아니에요	byeolgeoanieyo	
+k	별건체포	byeolgeonchepo	
+k	별단예금	byeoldanyegeum	
+k	별유천지	byeoryucheonji	being of or showing anoth…
+k	병가상사	byeonggasangsa	
+k	병렬문	byeongnyeolmun	
+k	병렬식	byeongnyeolsik	
+k	병먹금	byeongmeokgeum	not feeding the troll, ig…
+k	병무청	byeongmucheong	
+k	병상일지	byeongsangilji	
+k	병역기피	byeongyeokgipi	
+k	병역법	byeongyeokbeop	
+k	병역의무	byeongyeoguimu	
+k	병역제도	byeongyeokjedo	
+k	병인박해	byeonginbakhae	
+k	병인양요	byeonginyangyo	
+k	병조판서	byeongjopanseo	
+k	병참선	byeongchamseon	
+k	병충해	byeongchunghae	
+k	병합심리	byeonghapsimni	여러 관련이 있는 형사재판을 합쳐서 같은 형사…
+e	bystander effect	bystandereffect	1 meaning
+e	byzantine empire	byzantineempire	1 meaning
+j	病態生理学	byotaiseirigaku	
+k	뱡뱡면	byangbyangmyeon	
+k	벼락고기잡이	byeorakgogijabi	
+k	변경백	byeongyeongbaek	
+k	변경하다	byeongyeonghada	to change, to alter
+k	변광성	byeongwangseong	
+k	변덕날씨	byeondeoknalssi	자주 바뀌어 변화가 심한 날씨.
+k	변동소득	byeondongsodeuk	
+k	변명하다	byeonmyeonghada	
+k	변법자강	byeonbeopjagang	
+k	변별되다	byeonbyeoldoeda	
+k	변별력	byeonbyeollyeok	
+k	변색병	byeonsaekbyeong	
+k	변성남자	byeonseongnamja	
+k	변속장치	byeonsokjangchi	
+k	변천되다	byeoncheondoeda	
+k	변칙동사	byeonchikdongsa	
+k	변태설립	byeontaeseollip	
+k	변함없는	byeonhameomneun	
+k	변혁되다	byeonhyeokdoeda	
+k	변형엽	byeonhyeongyeop	
+k	변형하다	byeonhyeonghada	
+k	변화무쌍	byeonhwamussang	
+k	별똥별	byeolttongbyeol	shooting star; meteor
+k	병뚜껑	byeongttukkeong	
+k	병에 걸리다	byeongegeollida	
+k	벽게전화기	byeokgejeonhwagi	'벽전화기'의 북한말.
+k	벽해상전	byeokhaesangjeon	
+k	변경되다	byeongyeongdoeda	
+k	변동환율	byeondonghwanyul	
+k	변변찮다	byeonbyeonchanda	생김새가 바라는 것에 못 미치다.
+k	변성명	byeonseongmyeong	
+k	변역생사	byeonyeoksaengsa	
+k	변칙용언	byeonchigyongeon	
+k	변태 성욕	byeontaeseongyok	
+k	변태성욕	byeontaeseongyok	
+k	변형능	byeonhyeongneung	
+k	변형되다	byeonhyeongdoeda	
+k	변형력	byeonhyeongnyeok	stress
+k	변화난측	byeonhwanancheuk	
+k	변화불측	byeonhwabulcheuk	
+k	별 도리가 없다	byeoldorigaeopda	
+k	별꽃아재비	byeolkkochajaebi	
+k	별똥만발	byeolttongmanbal	meteor outburst
+k	별선군관	byeolseongungwan	
+k	병정개미	byeongjeonggaemi	army ant
+k	병합관할	byeonghapgwanhal	재판관할을 서로 합치는 일.
+k	변난공격	byeonnangonggyeok	
+k	변별학습	byeonbyeolhakseup	
+k	변성작용	byeonseongjagyong	
+k	변형시키다	byeonhyeongsikida	
+k	병참장교	byeongchamjanggyo	quartermaster (officer wh…
+k	병합과정	byeonghapgwajeong	구름 속에 비교적 큰 구름 알갱이가 떨어지면서…
+k	변덕스럽다	byeondeokseureopda	to be fickle, to be mercu…
+k	변론능력	byeollonneungnyeok	
+k	변형문법	byeonhyeongmunbeop	
+k	별과 별사이의	byeolgwabyeolsaiui	
+k	별말씀을요	byeolmalsseumeuryo	
+k	별이 빛나는 밤	byeoribinnaneunbam	The Starry Night (a paint…
+k	병 주고 약 준다	byeongjugoyakjunda	다른 사람을 못 살게 굴거나 어려움에 빠뜨리고…
+k	병역면제	byeongyeongmyeonje	
+k	변성광상	byeonseonggwangsang	
+k	변하지 않는 것	byeonhajianneungeot	
+k	변화무쌍하다	byeonhwamussanghada	
+k	별명을 짓다	byeolmyeongeuljitda	
+j	ビューフォート風力階級	byufotofuryokukaikyu	
+k	벼락치기를 하다	byeorakchigireulhada	
+k	벼랑끝 전술	byeorangkkeutjeonsul	
+k	병렬연결	byeongnyeoryeongyeol	전기회로에서 발전기, 전지 따위의 극을 같은 …
+k	별명을 붙이다	byeolmyeongeulbuchida	
+k	별선두리왕나비	byeolseonduriwangnabi	common tiger (Danaus genu…
+k	별이 빛나는 깃발	byeoribinnaneungitbal	
+k	병역명문가	byeongyeongmyeongmunga	3대(조부, 부, 백부, 숙부, 본인, 형제,…
+k	변형력을 주다	byeonhyeongnyeogeuljuda	
+k	별것 아니었습니다	byeolgeotanieotseumnida	
+k	병신도 제 재미에 산다	byeongsindojejaemiesanda	(비유) 사람은 잘났건 못났건 누구나 다 자기…
+k	변형 생성 문법	byeonhyeongsaengseongmunbeop	변형적으로 바뀌는 문법.
+k	벼는 익을수록 고개를 숙인다	byeoneunigeulsurokgogaereulsuginda	wise people are humble

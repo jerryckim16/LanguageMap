@@ -1,0 +1,103 @@
+k	루	루	rampart, military wall
+k	룩	룩	a rook
+k	룰	룰	rule
+k	룻	룻	Ruth
+k	루나	루나	로마의 달의 신의 이름.
+k	루넷	루넷	
+k	루두	루두	
+k	루머	루머	rumour
+k	루멘	루멘	lumen (SI-unit for lumino…
+k	루명	루명	'누명'의 북한말과 연변말.
+k	루뱅	루뱅	
+k	루베	루베	cubic metre
+k	루보	루보	
+k	루블	루블	ruble (Russian monetary u…
+k	루비	루비	ruby (type of gem)
+k	루선	루선	
+k	루설	루설	
+k	루세	루세	
+k	루손	루손	
+k	루수	루수	누수의 북한말과 연변말.
+k	루스	루스	a transliteration of the …
+k	루시	루시	Rus (medieval East Slavic…
+k	루아	루아	
+k	루이	루이	a transliteration of the …
+k	루저	루저	loser
+k	루적	루적	문화어 및 재일조선어에서 ‘누적’을 달리 이르…
+k	루주	루주	lipstick
+k	루지	루지	
+k	루출	루출	'누출'의 북한말과 연변말.
+k	루카	루카	Luke
+k	루키	루키	
+k	루트	루트	
+k	루틴	루틴	
+k	루페	루페	magnifying glass
+k	루프	루프	loop
+k	루피	루피	
+k	룰라	룰라	
+k	룰러	룰러	
+k	룰렛	룰렛	roulette
+k	루돌프	루돌프	
+k	루드라	루드라	
+k	루루이	루루이	'누누이'의 북한말.
+k	루미놀	루미놀	
+k	루브르	루브르	
+k	루비듐	루비듐	rubidium
+k	루사카	루사카	Lusaka (the capital city …
+k	루살카	루살카	
+k	루수기	루수기	
+k	루수이	루수이	
+k	루시퍼	루시퍼	Lucifer
+k	루안다	루안다	Luanda (the capital city …
+k	루이빌	루이빌	
+k	루이스	루이스	a transliteration of the …
+k	루체른	루체른	
+k	루키즘	루키즘	
+k	루터교	루터교	
+k	루테늄	루테늄	ruthenium
+k	루테인	루테인	
+k	루테튬	루테튬	lutetium
+k	룩소르	룩소르	
+k	룸비니	룸비니	
+k	루마니아	루마니아	Romania (a country in Eur…
+k	루멜리아	루멜리아	
+k	루므니야	루므니야	Romania
+k	루바슈카	루바슈카	kosovorotka, rubashka, to…
+k	루빅큐브	루빅큐브	여섯 가지 빛깔의 플라스틱 주사위 26개로 된…
+k	루손 섬	루손 섬	
+k	루스벨트	루스벨트	
+k	루이도르	루이도르	
+k	루이보스	루이보스	
+k	루즈벨트	루즈벨트	
+k	루카누스	루카누스	
+k	루카셴카	루카셴카	
+k	루카셴코	루카셴코	
+k	루테니아	루테니아	
+k	루트비어	루트비어	
+k	룸메이트	룸메이트	roommate (US), flatmate (…
+k	룸비니주	룸비니주	
+k	룸서비스	룸서비스	
+k	루마니아어	루마니아어	Romanian (language)
+k	루마니아의	루마니아의	
+k	루마니아인	루마니아인	주로 루마니아에 거주하고 있는 민족. 러시아,…
+k	루앙프라방	루앙프라방	
+k	루이 도르	루이 도르	
+k	루이지아나	루이지아나	[~주(州)] alternative form …
+k	루이지애나	루이지애나	[~주(州)] Louisiana (a stat…
+k	루터교회의	루터교회의	
+k	루트 박스	루트 박스	
+k	루프트한자	루프트한자	
+k	룩셈부르그	룩셈부르그	Luxembourg (a small count…
+k	룩셈부르크	룩셈부르크	Luxembourg (a small count…
+k	루빅스 큐브	루빅스 큐브	
+k	루카 복음서	루카 복음서	
+k	룩셈부르크어	룩셈부르크어	
+k	룩셈부르크인	룩셈부르크인	
+k	룩업 테이블	룩업 테이블	
+k	룸펠슈틸츠헨	룸펠슈틸츠헨	
+k	루마니아 사람	루마니아 사람	
+k	룩셈부르크 사람	룩셈부르크 사람	
+k	룩셈부르크 대공국	룩셈부르크 대공국	
+k	루간스크 인민공화국	루간스크 인민공화국	
+k	루트비히 판 베토벤	루트비히 판 베토벤	루트비히 판 베토벤, 독일의 작곡가(1770~…
+k	루마니아 사회주의 공화국	루마니아 사회주의 공화국	

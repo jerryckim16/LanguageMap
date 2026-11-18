@@ -1,0 +1,200 @@
+j	おい	oi	said to get someone's att…
+j	おおい	oi	Used to attract the atten…
+j	おーい	oi	
+j	多い	oi	there are many, there is …
+j	大い	oi	large, big
+j	大井	oi	a town in Kanagawa Prefec…
+j	大炊	oi	the Emperor's (rice) meal
+j	王位	oi	the throne
+j	甥	oi	nephew
+j	笈	oi	a box with legs that is c…
+j	老い	oi	old age
+j	覆い	oi	cover, wrapping
+k	오이	oi	cucumber
+e	oil	oil	5 meanings
+j	押印	oin	sealing, stamping (the ap…
+j	押韻	oin	rhyming
+k	오인	oin	mistaking (for something …
+k	오입	oip	
+e	oink	oink	1 meaning
+e	oita	oita	1 meaning
+j	おいおい	oioi	hey (used to get attentio…
+j	おいご	oigo	老子: child of older parents
+j	おいた	oita	mischief
+j	おいて	oite	追い手, 追手: a chaser, a purs…
+j	おいで	oide	「行くこと」、「来ること」、「居ること」の尊敬語。
+j	おいぬ	oinu	雄の犬
+j	おいぴー	oipi	
+j	おいめ	oime	過去に自分が世話になったり、傷つけてしまったりした…
+j	おいら	oira	一人称の人代名詞
+j	おいる	oiru	年を取って心身の働きが衰える。
+j	おおいに	oini	非常に。甚だ。
+j	おおいり	oiri	興行などで会場に観客が大勢入ること。
+j	お出で	oide	the act of going somewhere
+j	オイニー	oini	
+j	オイラー	oira	
+j	オイル	oiru	oil
+j	俺等	oira	
+j	大いに	oini	very, greatly
+j	大今	oima	a surname
+j	牡犬	oinu	a male dog
+j	老いた	oita	
+j	老いる	oiru	to age, to grow old
+j	老い子	oigo	a child of older parents
+j	追々	oioi	
+j	雄犬	oinu	a male dog; a he-dog
+k	오이다	oida	(받침 없는 어간, 'ㄹ' 받침인 용언의 어간…
+k	오이타	oita	
+j	おいごえ	oigoe	作物の生育途中で元肥を補うために施す肥料。追肥。
+j	おいっこ	oikko	one's own nephew
+j	おいらん	oiran	遊郭（江戸吉原）で姉女郎。
+j	おいわい	oiwai	「いわい」を丁寧に言う語。
+j	おいコン	oikon	
+j	おおいし	oishi	大きな岩石、石。
+j	お祝い	oiwai	a celebration
+j	大炊寮	oiryo	a 律令 (ritsuryō) position …
+j	大石	oishi	a surname
+j	花魁	oiran	an oiran (elder courtesan…
+j	追証	oisho	追加保証金の略語。為替や商品先物のなどの信用取引に…
+k	오이펜	oipen	
+e	oil rig	oilrig	1 meaning
+e	oilcan	oilcan	1 meaning
+j	おいうち	oiuchi	attack on a fleeing enemy
+j	おいえげい	oiegei	art (activity) that has b…
+j	おいかぜ	oikaze	進む方向に後ろから吹く風。順風。
+j	おいかわ	oikawa	物を背負うための袋物の革帯。
+j	おいこす	oikosu	後から来た者が先行していた者を抜いて前に出る。道路…
+j	おいこむ	oikomu	年をとり、体などが衰える。
+j	おいこめ	oikome	罪科のある者を家などに閉じ籠めて謹慎させること。
+j	おいしい	oishii	物の味が好みに合う。味が良い。
+j	おいだき	oidaki	御飯の不足を補うため追加で御飯を炊くこと。
+j	おいだす	oidasu	追って外へ出す。
+j	おいぬく	oinuku	後から来て追い付き、さらに先に出る。
+j	おいのり	oinori	
+j	おいはぎ	oihagi	通行人を脅したり襲ったりして衣服や所持品を奪い取る…
+j	おいぼれ	oibore	becoming senile, or someo…
+j	おいやる	oiyaru	追って、場所をあけさせる。
+j	おいらく	oiraku	年をとること
+j	おいわけ	oiwake	fork in a road
+j	おおいくさ	oikusa	規模が大きく激しい戦。
+j	おおいそぎ	oisogi	hurried; in a hurry
+j	おおいなる	oinaru	大きい。
+j	おおいぬ座	oinuza	Canis Major
+j	おおいびき	oibiki	大きな鼾をかくこと。また、その鼾。
+j	オイカワ	oikawa	コイ目コイ科ハス属に属する魚の一種。学名は Ops…
+j	オイスター	oisuta	牡蠣。
+j	及川	oikawa	a surname
+j	小井川	oikawa	a surname
+j	笈川	oikawa	a surname
+j	美味しい	oishii	delicious, tasty, somethi…
+j	老い耄れ	oibore	
+j	老川	oikawa	a surname
+j	老牛	oiushi	年老いた牛。
+j	追い出す	oidasu	to drive out, to expel
+j	追い打つ	oiutsu	to pursue and attack
+j	追い抜く	oinuku	to overtake, to outstrip
+j	追い越す	oikosu	to overtake; to pass
+j	追い込み	oikomi	final stage, home stretch…
+j	追い込む	oikomu	drive, force, corner, push
+j	追い遣る	oiyaru	
+j	追い風	oikaze	tailwind
+j	追川	oikawa	a surname
+j	追腹	oibara	seppuku of a retainer at …
+k	오일러	oilleo	
+k	오일팔	oilpal	1980년 5월에 일어난 대한민국의 민주화 운…
+k	오입질	oipjil	한자어 오입(誤入)의 뜻은 어디에 '잘못 들어…
+e	oikonym	oikonym	1 meaning
+e	oil cake	oilcake	1 meaning
+e	oil drum	oildrum	1 meaning
+e	oil lamp	oillamp	1 meaning
+e	oil palm	oilpalm	1 meaning
+e	oil well	oilwell	1 meaning
+e	oilbird	oilbird	1 meaning
+j	おいおとす	oiotosu	追い払う。
+j	おいかえす	oikaesu	来た者を追い立てて元来た方へ戻す。
+j	おいこし	oikoshi	passing another vehicle
+j	おいしそう	oishiso	
+j	おいたち	oitachi	子どもが成長して大きくなること。
+j	おいたつ	oitatsu	(自動詞) 育つ。成長する。生育する。
+j	おいつく	oitsuku	後から追っている者が先に出た者に行き着く。
+j	おいはらう	oiharau	邪魔なものを追い、退かせる。おっぱらう。
+j	オイラー線	oirasen	正三角形でない∆ABCの外心O・重心G・垂心Hの共…
+j	大一座	oichiza	a large performance troupe
+j	大井町	oimachi	a surname
+j	大分市	oitashi	大分県の県庁所在地。中核市。
+j	大分県	oitaken	a prefecture in Japan on …
+j	押韻する	oinsuru	
+j	生い立ち	oitachi	growth, upbringing
+j	生い立つ	oitatsu	to grow; to mature
+j	追い付く	oitsuku	to overtake, to catch up
+j	追い払う	oiharau	to drive away and get rid…
+k	오인하다	oinhada	to mistake; to recognize …
+k	오일장	oiljang	
+k	오입하다	oiphada	
+e	oil field	oilfield	1 meaning
+e	oilcloth	oilcloth	1 meaning
+e	oilpaper	oilpaper	1 meaning
+e	ointment	ointment	1 meaning
+j	おいうぐいす	oiuguisu	春が過ぎ夏になって鳴く鶯。
+j	おいかける	oikakeru	前のものを後から追う。
+j	おいたてる	oitateru	追って他の所へ行かせる。強制的に立ち退かせる。
+j	おいぬかす	oinukasu	「おいぬく」の俗な言い方。
+j	おいぼれる	oiboreru	高齢となり心や体の働きが鈍くなる。耄碌する。
+j	おおいかくす	oikakusu	上から物を被せて外から見えないようにする。
+j	オイコニム	oikonimu	
+j	オイタナジー	oitanaji	euthanasia
+j	オイディプス	oidipusu	
+j	オイディプース	oidipusu	Oedipus
+j	大一番	oichiban	その試合に勝つことで優勝や上位への昇進などが決まる…
+j	老い耄れる	oiboreru	to become senile
+j	覆い隠す	oikakusu	to conceal; to cover up
+j	追いかける	oikakeru	
+j	追い回す	oimawasu	chase around
+j	追い掛ける	oikakeru	to chase, run after
+k	오인되다	oindoeda	
+e	oil tanker	oiltanker	1 meaning
+j	おいかんむり	oikanmuri	漢字の部首「⽼」の呼称の一つ。
+j	おいがしら	oigashira	漢字の部首「⽼」の呼称の一つ。
+j	おいしげる	oishigeru	植物が盛んに生えて伸び、茂る。繁茂する。
+j	おいちょかぶ	oichokabu	Oicho-kabu (a Japanese ca…
+j	おいちらす	oichirasu	追い立てて、ちりぢりに逃げさせる。
+j	おいつめる	oitsumeru	逃げる場所がなくなるまで追う。
+j	おおいかんむり	oikanmuri	漢字の部首「⾑」の呼称の一つ。
+j	オイキムチ	oikimuchi	cucumber kimchi
+j	オイルランプ	oiruranpu	
+j	花魁鳥	oirandori	synonym of エトピリカ (etopiri…
+j	追い掛けっこ	oikakekko	chase (children's game)
+j	追い散らす	oichirasu	to drive away and disperse
+j	追い詰める	oitsumeru	hold an animal at bay, dr…
+j	追散らす	oichirasu	
+k	오이디푸스	oidipuseu	
+k	오입쟁이	oipjaengi	
+j	おいてきぼり	oitekibori	leaving someone behind; a…
+j	おいてけぼり	oitekebori	江戸本所にあった堀（錦糸堀）。釣り人が帰ろうとする…
+j	おいでになる	oideninaru	「行く」、「来る」、「居る」の尊敬語。
+j	おいもとめる	oimotomeru	目的とするものを追いかけて求める。追求する。
+j	おおいかぶさる	oikabusaru	to cover from above
+j	おおいかぶせる	oikabuseru	物の上から覆うように被せる。
+j	お出でになる	oideninaru	to come
+j	お祈りメール	oinorimeru	job rejection e-mail
+j	オイスターソース	oisutasosu	塩漬けにした牡蠣の身を発酵させてできる調味料。牡蠣…
+j	オイルクロス	oirukurosu	
+j	御祈りメール	oinorimeru	
+j	置いてけぼり	oitekebori	deserting a place and lea…
+k	오이냉국	oinaengguk	cucumber naengguk
+e	oil painting	oilpainting	2 meanings
+e	oil refinery	oilrefinery	1 meaning
+j	おいさらばえる	oisarabaeru	to age and become decrepit
+j	おいわけぶし	oiwakebushi	oiwake song, horseman’s s…
+j	おおいのかんむり	oinokanmuri	漢字の部首「⾑」の呼称の一つ。
+j	大いなる田舎	oinaruinaka	都会ではないが人口の多い集落。大聚邑。
+j	おいだしコンパ	oidashikonpa	party to celebrate the gr…
+j	おいでたなもし	oidetanamoshi	いらっしゃいませ。今日の日常生活における使用頻度は…
+j	オイスターホワイト	oisutahowaito	やや灰色がかった白。
+j	オイラーの公式	oiranokoshiki	eⁱᶿ= cos θ+i sin θという公式。
+j	オイラーの等式	oiranotoshiki	オイラーの公式のθにπを代入して右辺を移項した、e…
+j	オイラー方程式	oirahoteishiki	剛体の回転運動に関する運動方程式。オイラーの運動方…
+k	오일러의 공식	oilleouigongsik	
+j	老いては子に従え	oitewakonishitagae	parents should be guided …
+j	オイディプスコンプレックス	oidipusukonpurekkusu	
+j	オイラーの微分方程式	oiranobibunhoteishiki	∑ₖ₌₀ⁿa_kxᵏ(dᵏy)/(dxᵏ)=0と表…

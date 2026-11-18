@@ -230,10 +230,64 @@
     t("좋다", "jota", "いい", "いい", "ii", "good", "actions"),
     t("싫다", "silta", "嫌", "いや", "iya", "disliked, unpleasant", "actions"),
     t("크다", "keuda", "大きい", "おおきい", "ōkii", "big", "actions"),
+    t("시원하다", "siwonhada", "涼しい", "すずしい", "suzushii", "cool, pleasantly chilly", "untranslatable",
+      { note: "Only the 'cool' sense has a Japanese equivalent. Koreans also say 시원하다 after hot soup or a good massage, meaning 'refreshing, relieving', which Japanese has no single word for." }),
+
+    // ── Expressions English can't translate, but Korean and Japanese share ──
+    t("잘 먹겠습니다", "jal meokgetseumnida", "いただきます", "いただきます", "itadakimasu", "said before eating", "expressions",
+      { note: "Neither has a natural English equivalent, but Korean and Japanese line up closely." }),
+    t("잘 먹었습니다", "jal meogeotseumnida", "ごちそうさまでした", "ごちそうさまでした", "gochisōsama deshita", "said after eating", "expressions", { jaOrigin: "sino" }),
+    t("수고하셨습니다", "sugohasyeotseumnida", "お疲れ様でした", "おつかれさまでした", "otsukaresama deshita", "thanks for your hard work", "expressions"),
+    t("잘 부탁드립니다", "jal butakdeurimnida", "よろしくお願いします", "よろしくおねがいします", "yoroshiku onegaishimasu", "please treat me well; I'm counting on you", "expressions"),
     t("작다", "jakda", "小さい", "ちいさい", "chiisai", "small", "actions"),
+  ];
+
+  /*
+   * Words with no equivalent in the other language.
+   *
+   *   n(lang, word, romanization, kana (Japanese only), meaning, category?, options?)
+   *
+   * Each gets an arrow to ∅. `closest` lists the nearest word in the other
+   * language (drawn as a dotted "closest match" line), if there is one.
+   */
+  const n = (lang, word, rom, kana, en, opts = {}) => ({ lang, word, rom, kana, en, category: "untranslatable", ...opts });
+
+  const NO_EQUIVALENT = [
+    n("ko", "눈치", "nunchi", "", "the knack of reading the room and sensing unspoken feelings", {
+      closest: [{ word: "空気を読む", kana: "くうきをよむ", rom: "kūki o yomu", en: "to 'read the air'" }],
+      note: "Japanese has the idea, but as a phrase (空気を読む, 'read the air') rather than a noun for the skill itself." }),
+    n("ko", "정", "jeong", "", "deep affection and attachment that builds up over time", { hanja: "情",
+      closest: [{ word: "情", kana: "じょう", rom: "jō", en: "feelings, sympathy" }],
+      note: "Written 情 in both languages, but Japanese 情 means emotion or sympathy in general, not the sticky, long-built bond of Korean 정." }),
+    n("ko", "한", "han", "", "a collective, lingering sorrow and resentment", { hanja: "恨",
+      closest: [{ word: "恨み", kana: "うらみ", rom: "urami", en: "a grudge" }],
+      note: "Japanese 恨み is a grudge against someone. Korean 한 is a broader, shared sense of grief and unresolved injustice." }),
+    n("ko", "화병", "hwabyeong", "", "illness caused by bottled-up anger", { hanja: "火病",
+      note: "A Korean culture-bound syndrome. Japanese has no ordinary word for it." }),
+    n("ko", "시원하다", "siwonhada", "", "refreshing, relieving (of hot soup, a massage)",
+      { note: "The 'cool' sense maps to 涼しい, but this feeling of relief has no single Japanese word." }),
+    n("ko", "고소하다", "gosohada", "", "nutty and savory (like sesame oil)", {
+      closest: [{ word: "香ばしい", kana: "こうばしい", rom: "kōbashii", en: "fragrant, toasty" }] }),
+    n("ko", "갑질", "gapjil", "", "abuse of power by someone in a superior position", {
+      closest: [{ word: "パワハラ", kana: "パワハラ", rom: "pawahara", en: "power harassment" }],
+      note: "From 갑 (the dominant party in a contract). Japanese パワハラ is close, but limited to the workplace." }),
+    n("ja", "木漏れ日", "komorebi", "こもれび", "sunlight filtering through leaves",
+      { note: "Korean describes it with a phrase, such as 나뭇잎 사이로 비치는 햇살." }),
+    n("ja", "積ん読", "tsundoku", "つんどく", "buying books and leaving them unread in piles"),
+    n("ja", "侘び寂び", "wabi-sabi", "わびさび", "beauty in imperfection and impermanence",
+      { note: "Korean borrows the Japanese term (와비사비) when it needs it." }),
+    n("ja", "物の哀れ", "mono no aware", "もののあわれ", "a gentle sadness at the passing of things"),
+    n("ja", "もったいない", "mottainai", "もったいない", "regret at something being wasted", {
+      closest: [{ word: "아깝다", rom: "akkapda", en: "to be a pity, to be wasted" }],
+      note: "Korean 아깝다 is close, but もったいない also carries a moral sense that wasting things is wrong." }),
+    n("ja", "甘え", "amae", "あまえ", "depending on another's indulgence, like a child", {
+      closest: [{ word: "어리광", rom: "eorigwang", en: "acting like a spoiled child" }] }),
+    n("ja", "生き甲斐", "ikigai", "いきがい", "a reason for living", {
+      closest: [{ word: "삶의 보람", rom: "salmui boram", en: "the reward of living" }] }),
   ];
 
   const root = typeof window !== "undefined" ? window : globalThis;
   root.LANGUAGE_MAP_DATA = root.LANGUAGE_MAP_DATA || {};
   root.LANGUAGE_MAP_DATA.TRANSLATIONS = TRANSLATIONS;
+  root.LANGUAGE_MAP_DATA.NO_EQUIVALENT = NO_EQUIVALENT;
 })();

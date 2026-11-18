@@ -1,0 +1,39 @@
+e	khan	khan	1 meaning
+e	khat	khat	1 meaning
+e	khaki	khaki	2 meanings
+e	khmer	khmer	2 meanings
+e	khnum	khnum	1 meaning
+e	khost	khost	2 meanings
+e	khagan	khagan	1 meaning
+e	khakas	khakas	2 meanings
+e	khalid	khalid	1 meaning
+e	khanty	khanty	2 meanings
+e	khazar	khazar	1 meaning
+e	khitan	khitan	3 meanings
+e	khulna	khulna	1 meaning
+e	khural	khural	1 meaning
+e	khánh hoà	khnhho	1 meaning
+e	khadija	khadija	1 meaning
+e	kharkiv	kharkiv	1 meaning
+e	kherson	kherson	1 meaning
+e	khoisan	khoisan	1 meaning
+e	khopesh	khopesh	1 meaning
+e	khorgas	khorgas	1 meaning
+e	khamenei	khamenei	1 meaning
+e	khartoum	khartoum	1 meaning
+e	khorasan	khorasan	1 meaning
+e	khakassia	khakassia	1 meaning
+e	khakkhara	khakkhara	1 meaning
+e	khariboli	khariboli	1 meaning
+e	khabarovsk	khabarovsk	1 meaning
+e	khachapuri	khachapuri	1 meaning
+e	khan tengri	khantengri	1 meaning
+e	khmer rouge	khmerrouge	1 meaning
+e	khrushchev	khrushchev	1 meaning
+e	khövsgöl nuur	khvsglnuur	1 meaning
+e	khalifatabad	khalifatabad	1 meaning
+e	khmelnytskyi	khmelnytskyi	1 meaning
+e	khabarovsk krai	khabarovskkrai	1 meaning
+e	khanty-mansiysk	khantymansiysk	1 meaning
+e	khitan large script	khitanlargescript	1 meaning
+e	khitan small script	khitansmallscript	1 meaning

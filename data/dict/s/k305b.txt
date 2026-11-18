@@ -1,0 +1,5561 @@
+j	せ	せ	rapids, current
+j	セ	セ	Central League
+j	兄	せ	elder brother
+j	瀬	せ	（せ）浅瀬。
+j	狭	せ	narrow, small
+j	背	せ	one's back (part of the h…
+j	諾	せ	acceptance, consent, asse…
+j	せい	せい	原因、多くの場合、良くない結果の原因。
+j	せえ	せえ	synonym of へ (e, “to”)
+j	せき	せき	舎: house, dwelling, dwell…
+j	せく	せく	堰く, 塞く: (transitive) to d…
+j	せず	せず	
+j	せち	せち	世知: worldly wisdom
+j	せと	せと	両方の陸地が接近している狭い海峡・河峡。
+j	せな	せな	back
+j	せみ	せみ	カメムシ目（半翅目）頸吻亜目セミ上科の昆虫の総称。
+j	せむ	せむ	volitional of す (su, “to …
+j	せめ	せめ	攻め: attacking
+j	せよ	せよ	「する」の命令形。
+j	せり	せり	auction
+j	せる	せる	expresses causation: to m…
+j	せん	せん	
+j	セト	セト	Seth
+j	セパ	セパ	
+j	セブ	セブ	Cebu (an island in centra…
+j	セミ	セミ	「蟬（せみ）」の学術的表記。
+j	セム	セム	Shem
+j	セリ	セリ	植物の一種であるせりの学術的表記。
+j	セル	セル	a cell
+j	セロ	セロ	
+j	セ氏	せし	「摂氏」に同じ。
+j	セ氏	セし	「摂氏」に同じ。
+j	セ氏	セ氏	「摂氏」に同じ。
+j	世	せい	world, society
+j	世事	せじ	worldly matters, human af…
+j	世務	せむ	世の中の務め。
+j	世故	せこ	世間の風俗や習慣、それらに関する雑事。
+j	世智	せち	俗世間の一般的な知恵。
+j	世知	せち	worldly wisdom
+j	世話	せわ	care, looking after, help…
+j	世路	せろ	世の中を生きていく道。世途。
+j	世辞	せじ	flattery
+j	井	せい	well (water source)
+j	仙	せん	a sage or hermit, an enli…
+j	仟	せん	thousand
+j	先	せん	before, previous
+j	制	せい	system, organization
+j	刹	せつ	（セツ） 仏塔、寺院、聖堂。
+j	勢	せい	force
+j	勺	せき	18.039 milliliters (a ten…
+j	千	せん	a thousand, 1000
+j	咳	せき	a cough
+j	堰	せき	weir, dam
+j	声	せい	a voice
+j	姓	せい	a clan
+j	婿	せい	a son-in-law
+j	宣	せん	proclamation
+j	宵	せう	the hours after sunset un…
+j	小	せう	smallness; small size, sm…
+j	少輔	せう	junior assistant minister…
+j	尺	せき	the shaku, "metal shaku",…
+j	席	せき	seat
+j	性	せい	the nature of something
+j	戦	せん	a battle, conflict, fight…
+j	截	せつ	section
+j	所為	せい	one's deed
+j	所為	せゐ	one's deed
+j	招	せう	invitation; to invite
+j	政	せい	a government, rule
+j	斉	せい	a state in ancient China …
+j	施肥	せひ	fertilization
+j	星	せい	a star (luminous celestia…
+j	昭	せう	bright
+j	暹	せん	タイの旧称。
+j	栓	せん	stopper; cork; bung; plug
+j	梢	せう	a treetop
+j	正	せい	correctness
+j	氈	せん	a rug or mat woven from w…
+j	沼	せう	a swamp, a bog, a marsh, …
+j	洩	せつ	leak; escape
+j	清	せい	the Qing dynasty (1616–19…
+j	瀬名	せな	a surname
+j	瀬尾	せお	a surname
+j	瀬戸	せと	strait or channel
+j	照	せう	illuminate, shine
+j	狭	せば	narrow, small
+j	狭し	せし	narrow
+j	生	せい	a raw, uncooked state
+j	癤	せつ	furuncle, boil
+j	石	せき	a stone
+j	石花	せい	a shellfish, particularly…
+j	磧	せき	pebbled riverbed
+j	礁	せう	reef
+j	積	せき	product
+j	競	せり	
+j	競る	せる	to compete (against someo…
+j	筌	せん	a device placed in a rive…
+j	箋	せん	a slip of paper
+j	節	せつ	a knuckle, a joint
+j	簫	せう	xiao, a vertically blown …
+j	籍	せき	a family register
+j	精	せい	detailed, conscientious
+j	線	せん	line
+j	聖	せい	a very virtuous or godly …
+j	背	せい	one's back (part of the h…
+j	背子	せこ	term used by a woman for …
+j	背戸	せど	back door
+j	腺	せん	gland
+j	船	せん	ship (of a particular pur…
+j	芹	せり	water dropwort, Oenanthe …
+j	芹	セリ	water dropwort, Oenanthe …
+j	茜	せん	a madder plant of the gen…
+j	蝉	せび	generic name for a cicada…
+j	蝉	せみ	generic name for a cicada…
+j	蝉	セミ	generic name for a cicada…
+j	製	せい	make
+j	詔	せう	imperial edict
+j	説	せつ	theory
+j	責め	せめ	blame, blaming, reproval
+j	跡	せき	evidence of something pas…
+j	迫	せこ	a small valley (on the mo…
+j	迫	せり	a small valley (on the mo…
+j	迫る	せる	to approach, to reduce sp…
+j	選	せん	selection
+j	鈔	せう	an excerpt, an extract (w…
+j	銭	せん	a round coin with a squar…
+j	閃	せん	a female given name
+j	関	せき	barrier, gate
+j	關	せき	a surname
+j	阡	せん	the number one thousand, …
+j	隻	せき	boats or ships
+j	青	せい	one of three primary colo…
+j	靖	せい	a male given name
+j	靖奈	せな	a male given name
+j	静	せい	quiet
+j	餞	せん	a farewell; a valediction…
+j	鮮	せん	fresh
+j	齣	せき	a frame or panel of a com…
+j	齣	せつ	a frame or panel of a com…
+j	せいい	せいい	誠意: sincerity
+j	せいか	せいか	
+j	せいく	せいく	成句: idiom, set phrase
+j	せいこ	せいこ	成子, 聖子, 清子, 静子, 誠子, 晴子, 靖…
+j	せいご	せいご	鱸の幼魚の呼称。
+j	せいし	せいし	正視: looking at something …
+j	せいじ	せいじ	靖, 誠治, 誠二, 清治, 誠司, 成治, 成二…
+j	せいど	せいど	西土: the West; (historical…
+j	せいふ	せいふ	
+j	せいぶ	せいぶ	
+j	せいり	せいり	
+j	せうゆ	せうゆ	nonstandard historical sp…
+j	せえの	せえの	all together now!; one, t…
+j	せおう	せおう	背に乗せる。しょう。
+j	せかす	せかす	急がせる、急かせる。
+j	せがむ	せがむ	to pester and request
+j	せがれ	せがれ	自分の息子。
+j	せきゆ	せきゆ	
+j	せぎれ	せぎれ	渇水時に水が河床の砂礫内を流れてしまい、表流水が確…
+j	せこい	せこい	cheap, stingy
+j	せすじ	せすじ	背骨が通っている縦の筋。
+j	せせり	せせり	挵ること。弄ぶこと。
+j	せせる	せせる	つつく。ほる。ほじくる。
+j	せたけ	せたけ	背の高さ。身の丈。身長。
+j	せだい	せだい	
+j	せっせ	せっせ	diligently
+j	せった	せった	竹製の草履の裏に革を張った履き物。
+j	せっ器	せっき	
+j	せっ器	せっ器	
+j	せつこ	せつこ	節子: a female given name
+j	せつじ	せつじ	接辞: an affix
+j	せつな	せつな	刹那: instant, moment
+j	せつび	せつび	設備: equipment, facilities
+j	せつり	せつり	摂理: providence
+j	せとか	せとか	setoka, a cultivar of tan…
+j	せどり	せどり	brokerage
+j	せなか	せなか	背。胴の後ろ側のうち、腰より頭に近い部分。胸と腹の…
+j	せのび	せのび	立ち上がったり座ったままで背中をまっすぐにして伸ば…
+j	せびる	せびる	to pester and request
+j	せびれ	せびれ	dorsal fin
+j	せびろ	せびろ	背広: business suit
+j	せぶみ	せぶみ	（しばしば、先導するに当たって）実際に川や雪道に足…
+j	せぼね	せぼね	脊椎動物の体の軸をなす骨格。脊柱。
+j	せまい	せまい	面積が小さい。狭小な。
+j	せます	せます	
+j	せまる	せまる	間隔が小さくなる。
+j	せむし	せむし	傴僂: hunchback
+j	せめく	せめく	oppressive suffering
+j	せめて	せめて	at least
+j	せめる	せめる	攻撃する。
+j	せやな	せやな	synonym of そうだね (sō da ne)
+j	せりふ	せりふ	演劇やドラマ、映画で俳優が役として述べる言葉。
+j	せんき	せんき	戦記: war chronicle
+j	せんせ	せんせ	「先生」の幼児語。
+j	せんぞ	せんぞ	
+j	せんば	せんば	ものを煎るための浅い鍋。煎盤。
+j	せんぼ	せんぼ	せんぼうに同じ。
+j	せん妄	せん妄	譫妄の異表記。
+j	せーの	せーの	
+j	セイミ	セイミ	化学の旧称。江戸時代末期から明治時代初期に用いられ…
+j	セウタ	セウタ	
+j	セウト	セウト	straddling the line betwe…
+j	セカパ	セカパ	
+j	セクタ	セクタ	
+j	セクト	セクト	sect
+j	セタン	セタン	cetane, hexadecane
+j	セダン	セダン	sedan (body style of a ca…
+j	セッカ	セッカ	スズメ目セッカ科セッカ属の鳥の一種。
+j	セット	セット	set (collection of items)
+j	セテン	セテン	cetene, hexadecene
+j	セトリ	セトリ	
+j	セドナ	セドナ	イヌイットの海の女神。
+j	セビロ	セビロ	背広: business suit
+j	セピア	セピア	イカ墨からつくられる暗褐色の顔料。また、そのような…
+j	セフレ	セフレ	friend with benefits, fuc…
+j	セブン	セブン	seven
+j	セベク	セベク	Sobek; the ancient Egypti…
+j	セムラ	セムラ	
+j	セム人	セム人	セム語派を話す諸民族。アラブ人、ヘブライ人、アムハ…
+j	セリフ	セリフ	a serif
+j	セリン	セリン	serine
+j	セルカ	セルカ	a selfie
+j	セルフ	セルフ	自分自身で。
+j	セル画	せるが	cel drawing
+j	セル画	セルが	cel drawing
+j	セル画	セル画	cel drawing
+j	セレス	セレス	Ceres, the Roman goddess
+j	セレネ	セレネ	セレーネー: The goddess of the…
+j	セレブ	セレブ	female who is high-class,…
+j	セレマ	セレマ	
+j	セレン	セレン	selenium, Se
+j	セロリ	セロリ	celery
+j	センサ	センサ	sensor
+j	センス	センス	good sense for something …
+j	センチ	センチ	centi-
+j	セント	セント	cent (various national cu…
+j	センド	センド	sending, shipment
+j	セーキ	セーキ	
+j	セージ	セージ	シソ科アキギリ属の多年草または常緑低木。和名はヤク…
+j	セーヌ	セーヌ	Seine (a major river in t…
+j	セーフ	セーフ	safe
+j	セーブ	セーブ	saving, conservation, avo…
+j	セーミ	セーミ	セイミを参照。
+j	セール	セール	a sale
+j	セ氏度	せしど	
+j	セ氏度	セしど	
+j	セ氏度	セ氏度	
+j	世事	せいじ	worldly matters, human af…
+j	世人	せじん	people; the world; the pu…
+j	世代	せだい	generation
+j	世会	せかい	現世に生まれて会うこと。
+j	世俗	せぞく	secular
+j	世務	せいむ	世の中の務め。
+j	世嗣	せいし	諸侯、貴人の跡継ぎ。
+j	世外	せがい	世俗を離れた場所。また、そのような境涯。
+j	世婦	せいふ	女官。
+j	世子	せいし	heir or successor of an i…
+j	世宗	せそう	a temple name used for Ch…
+j	世家	せいか	古代中国で特典を与えられ、それを世襲する家柄。また…
+j	世尊	せそん	the World-Honored One, an…
+j	世帯	せたい	household
+j	世態	せたい	世の中の有り様や状態。世情。世相。
+j	世故	せいこ	世間の風俗や習慣、それらに関する雑事。
+j	世治	せいち	治世。
+j	世父	せいふ	父の兄で嫡男として家督を継ぐもの。
+j	世界	せかい	world
+j	世相	せそう	a phase of life
+j	世祖	せいそ	一つの王統、系統の祖先。
+j	世紀	せいき	century (100 years)
+j	世論	せろん	public opinion
+j	世譜	せいふ	系図。世系。
+j	世路	せいろ	世の中を生きていく道。世途。
+j	世途	せいと	世の中を生きていく道。世路。
+j	世道	せどう	世間で守るべき道義。
+j	世間	せけん	society, public
+j	井地	せいち	井田。
+j	井池	せいち	井戸と池の水。
+j	井花	せいか	丑寅の刻に井戸から汲む清冷な水。
+j	井華	せいか	丑寅の刻に井戸から汲む清冷な水。
+j	井蛙	せいあ	井戸の中に暮らす蛙。
+j	井鮒	せいふ	井中の鮒。
+j	仙	せんと	a sage or hermit, an enli…
+j	仙子	せんこ	immortal
+j	仙子	せんし	immortal
+j	倅	せがれ	son
+j	傴僂	せむし	hunchback
+j	僉議	せんぎ	多くの人数が集まって行う討議。
+j	兄人	せうと	a sibling
+j	先世	せんぜ	（せんせい）先代。祖先。
+j	先務	せんむ	まず最初にやるべき務め。急務。
+j	先古	せんこ	過去。昔。
+j	先史	せんし	prehistory
+j	先夜	せんや	先日の晩。
+j	先夫	せんぷ	one's ex-husband, former …
+j	先妣	せんぴ	deceased mother
+j	先婦	せんぷ	かつての妻。前妻。
+j	先師	せんし	a teacher or master who h…
+j	先手	せんて	vanguard
+j	先知	せんち	何かを前もって知ること。
+j	先祖	せんぞ	ancestor
+j	先規	せんき	以前からある規則。前例。
+j	先規	せんぎ	以前からある規則。前例。
+j	先議	せんぎ	ある議案などを他よりも先に審議すること。
+j	先負	せんぶ	The third day of the Roku…
+j	先非	せんぴ	過去に犯した罪過。前非。
+j	先駆	せんく	forerunner
+j	凄気	せいき	凄まじい気配や様子。
+j	切に	せつに	ねんごろに。大切に。丁寧に。
+j	切意	せつい	古歌や俗謡などを漢詩に訳すこと。
+j	切枝	せっし	樹木の幹を残して枝を切り落とし、新しい枝の芽を出さ…
+j	切歯	せっし	synonym of 門歯 (monshi, “i…
+j	切磋	せっさ	石や玉、骨などを切ったり磨いたりすること。
+j	切羽	せっぱ	thin washer on either sid…
+j	切記	せっき	牢記すること。
+j	切議	せつぎ	切論。痛論。
+j	制す	せいす	
+j	制可	せいか	天子、天皇が政務を裁可すること。
+j	制度	せいど	system; institution
+j	制止	せいし	constraint, control, chec…
+j	制治	せいち	治めること。
+j	制符	せいふ	日常生活や儀式の規範を定めた規則。
+j	制置	せいち	配置すること。
+j	制覇	せいは	the act of defeating in a…
+j	制規	せいき	定められた規則や決まり。
+j	制詞	せいし	a word of admonishment or…
+j	刹那	せちな	see 刹(せつ)那(な) (setsuna) b…
+j	刹那	せつな	see 刹(せつ)那(な) (setsuna) b…
+j	刹鬼	せっき	悪鬼。羅刹。
+j	剪枝	せんし	pruning, the trimming of …
+j	剪紙	せんし	jianzhi (Chinese paper cu…
+j	勢地	せいち	権勢の地位。
+j	勢威	せいい	権勢と威力。
+j	勢家	せいか	権勢をほこる家柄。
+j	勢富	せいふ	力と富。
+j	勢至	せいし	仏教の菩薩の一人勢至菩薩の略。
+j	勢藤	せとう	a surname
+j	勢語	せいご	
+j	千古	せんこ	遠い昔。太古。
+j	千喜	せんき	a male given name
+j	千思	せんし	様々なことを思うこと。また、その思い。
+j	千把	せんば	「千把扱き」を参照。
+j	千歯	せんば	「千歯扱き」を参照。
+j	千波	せんぱ	何回も寄せ来る波。
+j	千田	せんだ	a surname
+j	千里	せんり	1000 li, or 500 km
+j	単于	せんう	chanyu (a supreme ruler o…
+j	占夢	せんむ	夢で吉凶を占うこと。また、その判断。
+j	卩部	せつぶ	部首「⼙」で分類した漢字の一群。
+j	台詞	せりふ	a performer’s lines
+j	台詞	セリフ	a performer’s lines
+j	塼土	せんど	泥を固めること。
+j	塼塗	せんと	泥を固めること。
+j	声価	せいか	世間の評判や名声。
+j	声区	せいく	vocal register
+j	声妓	せいぎ	宴席などで歌を歌って客をもてなす芸者。
+j	声布	せいふ	名声が広まること。声馳。
+j	声母	せいぼ	the onset of a Chinese sy…
+j	声符	せいふ	漢字の形声文字で、音を表す部分。音符（2）。
+j	声部	せいぶ	part
+j	声馳	せいち	名声が広まること。
+j	夕暉	せきき	夕日の光。夕陽。
+j	夕暉	せっき	夕日の光。夕陽。
+j	夕部	せきぶ	部首「⼣」で分類した漢字の一群。
+j	夕霧	せきむ	夕方に立つ霧。
+j	妹尾	せのお	a surname
+j	姓氏	せいし	lineage/genealogy (かばね) a…
+j	宣下	せんげ	天皇などが宣旨を下すこと。
+j	宣布	せんぷ	proclamation
+j	宣撫	せんぶ	国民に政府の方針を広め、人心を安定させること。
+j	宣示	せんし	明らかにして広く知らせること。
+j	宣示	せんじ	明らかにして広く知らせること。
+j	専務	せんむ	exclusive responsibility
+j	専恣	せんし	わがまま。気まま。
+j	専科	せんか	専門の分野だけを学ぶ課程。
+j	射場	せきば	an archery range
+j	小字	せうじ	small text
+j	小差	せうさ	slight difference
+j	小我	せうが	an unenlightened person; …
+j	小破	せうは	mild damage
+j	小豆	せうづ	the azuki bean, Vigna ang…
+j	小路	せうぢ	lane, alley
+j	小雨	せうう	light rain, drizzle
+j	少佐	せうさ	a major
+j	少尉	せうゐ	the junior 判官 (jō, “third…
+j	尺地	せきち	僅かな土地。狭い土地。
+j	尺紙	せきし	僅かな紙。寸紙。
+j	尺素	せきそ	短い手紙。
+j	征夫	せいふ	他国に出征している人。
+j	征夷	せいい	conquest of barbarians
+j	征賦	せいふ	徴税すること。
+j	征途	せいと	旅に行く道。
+j	征野	せいや	戦場。
+j	征露	せいろ	conquest of Russia
+j	性具	せいぐ	a sex toy (sex aid)
+j	性器	せいき	genitalia; sex organs
+j	性地	せいち	性情。
+j	性夜	せいや	Christmas Eve, as a night…
+j	性奴	せいど	sex slave
+j	性差	せいさ	difference between the ge…
+j	性技	せいぎ	性愛、性行為などに関する技巧。
+j	性智	せいち	知恵。
+j	性氏	せいし	性と氏
+j	性理	せいり	人の本性と天による運命。
+j	懺悔	せんげ	repentance
+j	成事	せいじ	達成したこと。成就したこと。
+j	成二	せいじ	a male given name
+j	成務	せいむ	務めをなすこと。
+j	成句	せいく	idiom, set phrase
+j	成否	せいひ	成るか否か。成功するか失敗するか。
+j	成器	せいき	立派に完成させること。
+j	成子	せいこ	a female given name
+j	成家	せいか	a surname
+j	成果	せいか	accomplishments, results,…
+j	成歯	せいし	乳歯の後に生える永久歯。
+j	成治	せいじ	a male given name
+j	成規	せいき	明文化された規則。
+j	成語	せいご	set phrase
+j	成都	せいと	Chengdu (a subprovincial …
+j	成香	せいか	a promoted incense chario…
+j	戚里	せきり	天子の外戚。
+j	戦備	せんび	戦争の準備。
+j	戦務	せんむ	戦争における戦術や兵站などに関する事務。
+j	戦史	せんし	戦の歴史。
+j	戦地	せんち	戦闘が行われている土地。戦場。
+j	戦士	せんし	a soldier, a combatant, a…
+j	戦後	せんご	postwar, the postwar peri…
+j	戦意	せんい	fighting spirit
+j	戦斧	せんぷ	battleaxe, poleaxe
+j	戦旗	せんき	戦争の際に使用される旗。
+j	戦時	せんじ	wartime, times of war
+j	戦期	せんき	戦争の時期。
+j	戦果	せんか	military gains, spoils of…
+j	戦機	せんき	戦争を行うような機会。
+j	戦死	せんし	death in war
+j	戦火	せんか	fire of war; flames of war
+j	戦禍	せんか	damage caused by war, war…
+j	戦規	せんき	国際法上の戦争に関する規則。
+j	戦記	せんき	war chronicle
+j	戦誌	せんし	戦争の記録を記した書物。
+j	戦馬	せんば	戦場で使う馬。軍馬。
+j	戦鼓	せんこ	戦場で合図に使う太鼓。陣太鼓。
+j	截枝	せっし	樹木の幹を残して枝を切り落とし、新しい枝の芽を出さ…
+j	扇子	せんす	a hand-held folding fan: …
+j	扇架	せんか	書や絵が書かれた扇を広げて架ける台。
+j	扇起	せんき	扇動して何かを決起させること。
+j	抄紙	せうし	paper-making; manufacture…
+j	折価	せっか	値引きすること。値引きさせること。
+j	折愧	せっき	辱めること。
+j	拙夫	せっぷ	つまらない男。
+j	拙子	せっし	拙者。わたくし。
+j	拙家	せっか	自分の家を謙遜する語。
+j	拙意	せつい	自分の意見や気持ち。
+j	拙技	せつぎ	下手な技術や技芸。
+j	招撫	せうぶ	conversion of the enemy t…
+j	接地	せっち	landing an airplane etc.
+j	接尾	せつび	
+j	接語	せつご	clitic
+j	接辞	せつじ	an affix (a bound morphem…
+j	摂家	せっけ	公家の家格で摂政または関白に任命される藤原氏の一条…
+j	摂氏	せっし	Celsius
+j	摂津	せっつ	Settsu (a city in Osaka P…
+j	摂理	せつり	providence
+j	擅恣	せんし	わがまま。気まま。
+j	攻める	せめる	to attack; to assault
+j	政務	せいむ	government affairs; affai…
+j	政府	せいふ	government
+j	政治	せいじ	politics
+j	政治	せいぢ	politics
+j	政理	せいり	政治を執行すること。
+j	整備	せいび	improvement
+j	整地	せいち	flattening the earth
+j	整枝	せいし	pruning, cutting off unde…
+j	整治	せいじ	多くのものを整え、治めること。
+j	整治	せいち	多くのものを整え、治めること。
+j	整理	せいり	organizing something in o…
+j	斉家	せいか	自分の家の中を整え、治めること。
+j	斉愚	せいぐ	皆が愚かなさま。
+j	斉次	せいじ	次数が同じであること。同次。
+j	斉部	せいぶ	部首「⿑」で分類した漢字の一群。
+j	施主	せしゅ	alms giver; benefactor; p…
+j	施僧	せそう	僧侶に施しをすること。
+j	施工	せこう	construction
+j	施文	せもん	土器に文様を施すこと。
+j	施米	せまい	donated rice, rice given …
+j	施行	せこう	execution, carrying out
+j	施餓鬼	せがき	六道の一つ餓鬼道に行って飢餓に苦しむ無縁の餓鬼に飲…
+j	旋舞	せんぶ	トルコの神秘主義教団のメウレウィー教団で行われる修…
+j	旌幟	せいし	旗。幟。
+j	旌旗	せいき	banner; flag
+j	星位	せいい	天空における恒星の位置。
+j	星図	せいず	star chart
+j	星夜	せいや	starry night
+j	星布	せいふ	ばら撒くこと。
+j	星度	せいど	星の運行。
+j	星座	せいざ	constellation
+j	星斗	せいと	星。星辰。
+j	星河	せいが	銀河。天の川。
+j	星羅	せいら	a female given name
+j	星赴	せいふ	星馳。
+j	星雨	せいう	synonym of 流星雨 (ryūseiu, …
+j	星霧	せいむ	星雲。
+j	星馳	せいち	速く行くこと。
+j	星鶩	せいぶ	星馳。
+j	昭和	せうわ	the Shōwa era, 1926–1989
+j	晴儀	せいぎ	晴れがましい儀式。
+j	晴夜	せいや	よく晴れ渡った夜。
+j	晴雨	せいう	晴天と雨天。
+j	染戸	せんこ	（そめこ）令制において大蔵省織部司に属し、布地の染…
+j	染指	せんし	involvement in something,…
+j	栓子	せんし	a clot, a plug (especiall…
+j	栖墀	せいち	屋敷の庭園。
+j	栖遅	せいち	「棲遅」の別表記。
+j	棲遅	せいち	心静かにゆったりと住むこと。
+j	樵夫	せうふ	lumberjack, woodcutter
+j	正位	せいい	（せいい）正しい位置。
+j	正使	せいし	複数いる使者のうち代表となる使者。
+j	正価	せいか	掛け値無しの値段。
+j	正史	せいし	official history, authori…
+j	正坐	せいざ	日本の伝統的な、正しい姿勢での座り方。「正座」も参…
+j	正夢	せいむ	a dream that comes true, …
+j	正夫	せいふ	a male given name
+j	正字	せいじ	kyūjitai
+j	正座	せいざ	sitting (kneeling) in a p…
+j	正気	せいき	sanity; reason
+j	正矢	せいし	versine; versed sine
+j	正義	せいぎ	justice
+j	正規	せいき	regular
+j	正視	せいし	looking straight ahead
+j	正誤	せいご	right and wrong; correct …
+j	正課	せいか	学校などで履修すべき正規の課目。
+j	正議	せいぎ	道義にかなった正しい議論。
+j	正負	せいふ	positive and negative, pl…
+j	正貨	せいか	本位貨幣のこと。金本位制における金貨、銀本位制にお…
+j	正賦	せいふ	正税。
+j	正路	せいろ	（しょうろ、せいろ）正しい道。
+j	歳暮	せいぼ	歳の暮れ。一年の終わり。
+j	殺鬼	せっき	刹鬼。
+j	沼気	せうき	marsh gas, swamp gas, met…
+j	泄気	せっき	放屁すること。
+j	泉下	せんか	netherworld; underworld; …
+j	泉地	せんち	砂漠で泉のある場所。オアシス。
+j	泉池	せんち	池の水。池水。
+j	泉都	せんと	city of onsen (hot spring)
+j	浅智	せんち	浅はかな知恵。浅知恵。
+j	浅知	せんち	浅はかな知恵。浅知恵。
+j	浅膚	せんぷ	考えなどが浅はかなこと。また、そのようなさま。浅薄。
+j	消波	せうは	wave-cancelling
+j	消費	せうひ	consumption, expenditure
+j	清吏	せいり	清廉潔白な官吏。
+j	清和	せいわ	when the sky is clear and…
+j	清夜	せいや	涼しく爽やかな夜。
+j	清子	せいこ	a female given name
+j	清家	せいけ	a surname
+j	清徴	せいち	清澄な音。
+j	清暉	せいき	清らかな日光。
+j	清楚	せいそ	neat, clean
+j	清次	せいじ	a male given name
+j	清歌	せいか	清らかな声で歌うこと。また、そのような歌。
+j	清気	せいき	清涼な気。
+j	清治	せいじ	a male given name
+j	清治	せいち	a male given name
+j	清痴	せいち	潔癖症。
+j	清癯	せいく	ほっそりと痩せていて清らかに美しいこと。
+j	清矑	せいろ	清らかな瞳。
+j	清致	せいち	風流。
+j	清規	せいき	（せいき）会則など規則の美称。
+j	清話	せいわ	世俗離れした清らかな話。
+j	清誉	せいよ	高潔の名声。清名。
+j	清議	せいぎ	清らかな議論。
+j	清輝	せいき	清らかな日光。
+j	清野	せいの	a surname
+j	清雅	せいが	清らかで風雅なさま。
+j	済美	せいび	the attainment of virtue;…
+j	潜思	せんし	心を落ち着かせてよく考えること。潜考。
+j	潟湖	せきこ	沿岸の浅い海が砂州や砂嘴などの発達により外海と切り…
+j	瀬川	せがわ	a surname
+j	瀬越	せごえ	A Japanese surname.
+j	炻器	せきき	stoneware
+j	炻器	せっき	stoneware
+j	焦土	せうと	scorched earth
+j	焦眉	せうび	urgency
+j	焼死	せうし	burning to death
+j	焼燬	せうき	destruction by burning
+j	照度	せうど	illuminance
+j	照顧	せうこ	reflecting upon, consider…
+j	煽起	せんき	「扇起」の別表記。
+j	狭い	せばい	narrow, tight (of small w…
+j	狭い	せまい	narrow, tight (of small w…
+j	狭し	せばし	narrow
+j	狭し	せまし	narrow
+j	琁璣	せんき	渾天儀。
+j	璇図	せんと	版図。
+j	璇璣	せんき	渾天儀。
+j	璿図	せんと	版図。
+j	璿璣	せんき	渾天儀。
+j	生俘	せいふ	捕虜。
+j	生保	せいほ	life insurance
+j	生児	せいじ	生後間もない子。新生児。
+j	生務	せいむ	生計。
+j	生地	せいち	cloth, fabric
+j	生家	せいか	house where one was born
+j	生後	せいご	after birth, post natal
+j	生徒	せいと	pupil, educatee, student …
+j	生意	せいい	生き生きした様子。
+j	生果	せいか	raw fruit, fresh fruit
+j	生歯	せいし	子供に歯が生えること。生えた歯。
+j	生死	せいし	life and death; dead or a…
+j	生気	せいき	energy, liveliness, enthu…
+j	生理	せいり	menstruation; period
+j	生知	せいち	生まれながらにして道理に通じていること。
+j	生祠	せいし	徳のある存命中の人物を神として祀る祠。
+j	生紙	せいし	糊を加えず材料をすいたままの粗製の紙。
+j	生致	せいち	生け捕り。生擒。
+j	生覆	せいふ	天地が万物を覆い、育てること。
+j	生起	せいき	現象や事件などが起きること。
+j	生部	せいぶ	部首「⽣」で分類した漢字の一群。
+j	生阜	せいふ	生長すること。
+j	疝気	せんき	下腹部が痛む病気。
+j	盛事	せいじ	盛大な事業や催し。
+j	盛夏	せいか	midsummer
+j	盛時	せいじ	血気盛んな時期、年頃。
+j	盛期	せいき	prosperous time
+j	盛治	せいち	盛世。
+j	省句	せいく	文章を作成する際に無駄な語句を省くこと。また、その…
+j	省字	せいじ	正字から、一部の点画を省いた字。
+j	省思	せいし	自分の言動を振り返って考えること。
+j	省悟	せいご	a male given name
+j	瞻視	せんし	a look or watch over some…
+j	石化	せきか	地中などに埋もれた生物の遺骸に珪酸などが入り込んで…
+j	石化	せっか	地中などに埋もれた生物の遺骸に珪酸などが入り込んで…
+j	石器	せっき	stone implement, stone ar…
+j	石婦	せきふ	子に恵まれない女性。
+j	石斧	せきふ	stone axe
+j	石果	せきか	外果皮が薄く、中果皮が多肉となり、内果皮が硬くなり…
+j	石果	せっか	外果皮が薄く、中果皮が多肉となり、内果皮が硬くなり…
+j	石油	せきゆ	oil, petroleum
+j	石理	せきり	岩石を構成する組織やその状態。
+j	石碑	せきひ	stone engraved with memor…
+j	石花	せっか	a shellfish, particularly…
+j	石部	せきぶ	部首「⽯」で分類した漢字の一群。
+j	石鼠	せきそ	螻蛄の別名。
+j	砌下	せいか	軒下で雨垂れが落ちる場所に敷かれる石畳。
+j	硝子	せうし	glass (substance)
+j	積庾	せきゆ	物品を露天に置いて蓄えること。露積。
+j	積毀	せっき	積もるほど多くの讒言。
+j	穿刺	せんし	centesis, the insertion o…
+j	窃視	せっし	見てはいけないものをそっと覗き見ること。
+j	窃議	せつぎ	私議。
+j	笑気	せうき	laughing gas
+j	笑話	せうわ	a funny story
+j	笙歌	せいか	笙の曲に合わせて歌を歌うこと。また、その歌。
+j	節会	せちえ	節日や特に重要な公事がある時に天皇が諸臣を集め、酒…
+j	節分	せちぶ	立春 (Risshun), the first d…
+j	節句	せっく	a seasonal festival day, …
+j	節士	せっし	節義を守る男性。貞節がかたい男性。
+j	節婦	せっぷ	操が固い成人女性。
+j	節子	せつこ	a female given name
+j	節季	せっき	the end of the year, year…
+j	節度	せつど	moderation; restraint
+j	節気	せっき	the solar term in Chinese…
+j	節理	せつり	物事の道理。みちすじ。
+j	節着	せつぎ	正月の節で祝いの舞に着た綿服。節御。節衣。
+j	節符	せっぷ	割符。
+j	節義	せつぎ	節操と道義。人として正しい道。
+j	節麾	せっき	節旄。
+j	簫鼓	せうこ	flutes and drums
+j	精器	せいき	「精密器械」の略。
+j	精夫	せいふ	酋長。
+j	精子	せいし	a spermatozoon, a sperm c…
+j	精度	せいど	precision, accuracy
+j	精微	せいび	fine, subtle, precise, mi…
+j	精査	せいさ	close investigation
+j	精機	せいき	「精密機械」の略。
+j	精気	せいき	万物が生成するための元の気。
+j	精油	せいゆ	essential oil
+j	精粗	せいそ	細かいことと粗いこと。詳しいことと雑なこと。
+j	精緻	せいち	delicate, minute
+j	精美	せいび	exquisite, delicate, eleg…
+j	精翅	せいし	鱶の鰭を煮て、皮や筋を除去した食品。
+j	精華	せいか	最も優れているところ。
+j	精騎	せいき	選び抜かれた精鋭の騎兵。
+j	精魅	せいみ	物の怪や化け物の類。
+j	紲覊	せっき	縛ること。
+j	綴字	せつじ	spelling
+j	線区	せんく	鉄道やバスの路線のある一定の区間。
+j	線画	せんが	line art
+j	線維	せんい	糸。糸状のもの。
+j	線路	せんろ	railroad track
+j	繊維	せんい	fibre (single elongated p…
+j	繊美	せんび	ほっそりしてしなやかで美しいこと。また、そのような…
+j	繊靡	せんび	ほっそりしてしなやかで美しいこと。また、そのような…
+j	羨余	せんよ	余分。あまり。
+j	羨符	せんぷ	漢字の構成要素のうち、意味にも音にも無関係な部分。…
+j	翦屠	せんと	切り殺すこと。
+j	聖下	せいか	宗教の最高指導者に対する敬称。
+j	聖化	せいか	beatification, sanctifica…
+j	聖句	せいく	a holy or sacred text
+j	聖史	せいし	a male given name
+j	聖地	せいち	hallowed ground, holy pla…
+j	聖夜	せいや	Christmas Eve
+j	聖姿	せいし	天子、君主のお姿。
+j	聖子	せいこ	a female given name
+j	聖座	せいざ	Holy See
+j	聖徒	せいと	saint
+j	聖智	せいち	「聖知」の別表記。
+j	聖歌	せいか	a hymn
+j	聖武	せいぶ	聖と武。
+j	聖母	せいぼ	Our Lady
+j	聖油	せいゆ	カトリック教会で儀式などに使用される神聖な香油。
+j	聖火	せいか	a sacred fire or flame
+j	聖知	せいち	あらゆるものに通じる優れた知恵。また、それを有する…
+j	聖菓	せいか	イースターなどで祭壇に供える菓子。
+j	聖諭	せいゆ	天子のみことのり。勅諭。
+j	聖駕	せいが	天子、天皇が使用する乗り物。
+j	聲區	せいく	
+j	背丈	せたけ	height, stature
+j	背中	せなか	back (of a body)
+j	背伸び	せのび	stretching oneself
+j	背広	せびろ	a business suit
+j	背広	セビロ	a business suit
+j	背甲	せごう	（はいこう）亀などの背中側にある甲羅。
+j	背筋	せすじ	either the spine, or the …
+j	背筋	せすぢ	either the spine, or the …
+j	背負う	せおう	to be burdened with, to c…
+j	背負う	せおふ	to be burdened with, to c…
+j	背骨	せぼね	backbone (series of verte…
+j	背鰭	せびれ	
+j	腥気	せいき	生臭い匂い。
+j	腥腐	せいふ	腐臭。
+j	膻気	せんき	生臭いさま。
+j	臍下	せいか	臍の下。
+j	舎密	せいみ	chemistry
+j	舛部	せんぶ	部首「⾇」で分類した漢字の一群。
+j	船具	せんぐ	舵や錨など、船舶の用具。
+j	船医	せんい	doctor on board a ship, s…
+j	船夫	せんぷ	船頭。船乗り。かこ。
+j	船尾	せんび	stern
+j	船庫	せんこ	水辺に設けて船を納めておく建物。ふなぐら。
+j	船旗	せんき	船舶に立てる旗。
+j	船架	せんか	修理する船を陸上に引き上げるための車輪がついた台。
+j	船渡	せんと	渡し船。
+j	船艫	せんろ	船の後部。
+j	船路	せんろ	船が通る道。
+j	船醫	せんい	
+j	菁莪	せいが	人材育成をすること。
+j	蒸籠	せいろ	steamer basket
+j	蒸籠	セイロ	steamer basket
+j	蓆子	せきし	蓆。
+j	蕝儀	せつぎ	諸種の儀礼。
+j	蝉語	せんご	蝉の声。蝉吟。
+j	蟬珥	せんじ	冠飾。
+j	蟾酥	せんそ	toad venom
+j	製図	せいず	draftsmanship; drawing; s…
+j	製布	せいふ	繊維などから布地をつくること。
+j	製油	せいゆ	動植物から油脂を搾り取ること。
+j	製糸	せいし	spinning (usually silk)
+j	製紙	せいし	paper making, paper manuf…
+j	製菓	せいか	production of confections
+j	製靴	せいか	shoemaking
+j	褻器	せっき	おまる。
+j	褻戯	せつぎ	なれて翫ぶこと。褻翫
+j	褻衣	せつい	普段着。また、寝巻き。
+j	西予	せいよ	a city in Ehime Prefectur…
+j	西和	せいわ	スペイン語と日本語。「西和辞典」。
+j	西夏	せいか	the Western Xia dynasty (…
+j	西夷	せいい	西方の（未開の）異民族。
+j	西字	せいじ	西洋の言語で書かれた文章。
+j	西武	せいぶ	武蔵国の西部。
+j	西湖	せいこ	
+j	西瓜	せいか	watermelon
+j	西矩	せいく	外惑星が地球から見て太陽の西90度の方角に来ること…
+j	西紀	せいき	Christian era, AD
+j	西詩	せいし	西洋の詩。
+j	西語	せいご	Spanish language
+j	西部	せいぶ	the western part, the reg…
+j	西都	せいと	西方にある都。
+j	設備	せつび	building services, equipm…
+j	設施	せっし	establishment; installati…
+j	設施	せつし	establishment; installati…
+j	設疑	せつぎ	設問すること。
+j	設置	せっち	establishment, foundation…
+j	設置	せつち	establishment, foundation…
+j	詮議	せんぎ	discussion
+j	誓紙	せいし	written oath
+j	誓詞	せいし	vow, oath, pledge
+j	誠二	せいじ	a male given name
+j	誠司	せいじ	a male given name
+j	誠吾	せいご	a male given name
+j	誠意	せいい	sincerity
+j	誠治	せいじ	a male given name
+j	説示	せつじ	教えなどを分かりやすく説いて示すこと。
+j	説義	せつぎ	文章などの意義を明らかにすること。
+j	説話	せつわ	tale; narrative
+j	説起	せっき	説き起こすこと。
+j	説鬼	せっき	怪談。
+j	請暇	せいか	休暇を願い出ること。また、その休暇。
+j	責める	せめる	to blame
+j	責務	せきむ	responsibility, duty, obl…
+j	賎婢	せんぴ	身分の賤しい女性、端女。
+j	賎視	せんし	見下すこと。相手を軽蔑して見ること。
+j	賤奴	せんど	下僕。召し使い。奴。
+j	賤婢	せんぴ	身分の賤しい女性。端女。
+j	賤家	せんか	（せんか）賤しい身分の家柄。また、その人が住む家。
+j	賤視	せんし	contempt, scorn
+j	赤化	せきか	communization; turning Re…
+j	赤化	せっか	communization; turning Re…
+j	赤子	せきし	synonym of あかご (akago, “b…
+j	赤幟	せきし	赤旗。
+j	赤旗	せっき	red flag; flag that is co…
+j	赤気	せっき	夜に現れる赤い雲気。
+j	赤烏	せきう	synonym of 太陽 (taiyō, “th…
+j	赤痢	せきり	dysentery
+j	赤禍	せきか	共産主義によって起こる災い。
+j	赤禍	せっか	共産主義によって起こる災い。
+j	赤緯	せきい	declination
+j	赤露	せきろ	Soviet Union
+j	践土	せんど	反閇。
+j	践祚	せんそ	ascending (to the imperia…
+j	躋躓	せいち	昇降すること。
+j	迫る	せまる	to approach, to reduce sp…
+j	遷化	せんげ	高僧が死去すること。
+j	遷徙	せんし	movement
+j	遷移	せんい	a transition
+j	遷都	せんと	relocation of the capital
+j	選句	せんく	数ある俳句などの中からよいものを選び出すこと。
+j	選歌	せんか	選んだ歌。
+j	選科	せんか	規定された学科目のうち一部の科目を選択して学ぶ課程。
+j	銭価	せんか	金、銀に対する銭の価格。
+j	銭葵	せんき	common mallow (Malva sylv…
+j	鑷子	せっし	（せっし）ピンセット。
+j	閃火	せんか	煌めく火。閃く火。
+j	関根	せきね	a surname
+j	関谷	せきや	a surname
+j	隻耳	せきじ	片耳。
+j	雪子	せつこ	a female given name
+j	雪庇	せっぴ	山の稜線や崖の風下側に張り出すようにできた雪の吹き…
+j	雪意	せつい	雪が降りそうな空模様。
+j	雪気	せっき	雪意。
+j	雪眉	せつび	雪のように（白髪の）眉。
+j	雪肌	せっき	雪のように白い肌。
+j	雪膚	せっぷ	雪のように白い肌。
+j	雪花	せっか	snowflake
+j	雪花	せつか	snowflake
+j	雪華	せっか	雪の結晶。
+j	雪輝	せっき	雪明り。
+j	雪隠	せちん	synonym of 便所 (benjō, “to…
+j	雪隠	せんち	synonym of 便所 (benjō, “to…
+j	雪駄	せった	「せった」の漢字表記（当て字）。
+j	靑部	せいぶ	部首「⾭」で分類した漢字の一群。
+j	青侍	せいし	公家に出仕する六位の武士。
+j	青化	せいか	synonym of シアン化 (shian-ka…
+j	青史	せいし	annals of history; histor…
+j	青果	せいか	fruit and vegetables
+j	青磁	せいじ	celadon porcelain
+j	青糸	せいし	青い糸。
+j	青花	せいか	白い地に青い模様がある陶磁器。
+j	青華	せいか	白い地に青い模様がある陶磁器。
+j	青蚨	せいふ	「かげろう」の異称
+j	青蛾	せいが	黛で書かれた眉。
+j	青衣	せいい	（せいい）中国でかつて天子や后妃が春着として着用し…
+j	青部	せいぶ	部首「⾭」で分類した漢字の一群。
+j	青雨	せいう	青葉の木々に降る雨。
+j	青鳧	せいふ	銭。青鳧銭。
+j	靖	せいじ	a male given name
+j	静夜	せいや	静かな夜。
+j	静座	せいざ	姿勢を正し自身の呼吸に意識を向けることで心を安定さ…
+j	静思	せいし	meditation
+j	静止	せいし	stillness, being still, c…
+j	静置	せいち	standing
+j	静臥	せいが	静かに横たわること。
+j	騸馬	せんば	gelding
+j	鮬	せいご	a Japanese sea bass that …
+j	鮬	セイゴ	a Japanese sea bass that …
+j	鮮卑	せんぴ	Xianbei (group of norther…
+j	鮮度	せんど	freshness, how fresh some…
+j	齊部	せいぶ	部首「⿑」で分類した漢字の一群。
+j	せあぶら	せあぶら	pig's back fat
+j	せいあい	せいあい	性愛: eros
+j	せいあん	せいあん	西安: Xi'an
+j	せいいく	せいいく	生育: growth
+j	せいいち	せいいち	誠一: a male given name
+j	せいいん	せいいん	成員, 正員: regular member
+j	せいうち	せいうち	
+j	せいえき	せいえき	精液: semen
+j	せいおん	せいおん	静穏: tranquility
+j	せいかく	せいかく	性格: personality; character
+j	せいかん	せいかん	清閑
+j	せいがん	せいがん	請願: petition
+j	せいきち	せいきち	誠吉, 清吉: a male given name
+j	せいこう	せいこう	
+j	せいごう	せいごう	誠剛: a male given name
+j	せいさく	せいさく	
+j	せいしゃ	せいしゃ	生者: living person; living…
+j	せいしょ	せいしょ	聖書: the Bible
+j	せいじつ	せいじつ	
+j	せいじゃ	せいじゃ	正邪: right and wrong
+j	せいすけ	せいすけ	誠佑: a male given name
+j	せいせい	せいせい	refreshed
+j	せいぜい	せいぜい	
+j	せいそう	せいそう	清爽: refreshing
+j	せいぞう	せいぞう	製造: manufacturing
+j	せいたか	せいたか	身長や丈が高いこと。また、そのようなさまや人。
+j	せいたん	せいたん	清淡: clean and light, pure…
+j	せいだく	せいだく	清濁: good and evil; voiced…
+j	せいつう	せいつう	精通: expertise; semenarche
+j	せいてい	せいてい	制定: enactment, establishm…
+j	せいとう	せいとう	正統: legitimacy, orthodoxy
+j	せいなん	せいなん	西南: southwest
+j	せいにん	せいにん	勢人: (rare) a person with …
+j	せいはい	せいはい	成敗: success or failure
+j	せいぶつ	せいぶつ	
+j	せいへき	せいへき	性癖: inclination, habit, e…
+j	せいべつ	せいべつ	生別: lifelong separation
+j	せいほう	せいほう	
+j	せいほく	せいほく	西北: northwest
+j	せいもん	せいもん	正門: main gate
+j	せいよう	せいよう	
+j	せいらん	せいらん	青風: a breeze, a light wind
+j	せいろん	せいろん	正論: sound argument
+j	せおよぎ	せおよぎ	泳法の一つ。水面に仰向けとなり両手を交互に回し、足…
+j	せかせか	せかせか	haste
+j	せかせる	せかせる	to make ... hurry up; to …
+j	せきいつ	せきいつ	尺一: in ancient China, the…
+j	せきこむ	せきこむ	連続して激しい咳をする。
+j	せきせき	せきせき	続けざまに起こる様。
+j	せきぞう	せきぞう	石造: made of stone
+j	せきたん	せきたん	石炭: coal
+j	せきとり	せきとり	十両以上の力士の敬称。
+j	せきどめ	せきどめ	咳を止めること。また、その薬剤。
+j	せきにん	せきにん	
+j	せきぶつ	せきぶつ	石仏: stone Buddhist image
+j	せきぶね	せきぶね	関船: a type of military bo…
+j	せきぶん	せきぶん	積分: integral, integration
+j	せきもり	せきもり	関を守る役人、関所の番人。
+j	せきわけ	せきわけ	相撲の番付で大関の次ぎ、小結の上位。また、その力士。
+j	せしめる	せしめる	to make something one's o…
+j	せせなぎ	せせなぎ	浅瀬などを流れる水の音。小さな流れ。小川。せせらぎ。
+j	せせなげ	せせなげ	どぶ、みぞ、せせなぎ。
+j	せせらぎ	せせらぎ	a small stream, brooklet
+j	せっかい	せっかい	節介: meddling
+j	せっかく	せっかく	
+j	せっかち	せっかち	restless; impatient
+j	せっかん	せっかん	切諫
+j	せっけん	せっけん	石鹸: soap
+j	せっこつ	せっこつ	接骨: bonesetting
+j	せっしゅ	せっしゅ	摂取: intake; assimilation
+j	せっせい	せっせい	節制: temperance
+j	せっせと	せっせと	diligently; persistently;…
+j	せってい	せってい	
+j	せっぱん	せっぱん	折半: half
+j	せっぷく	せっぷく	切腹: seppuku, a Japanese s…
+j	せつじつ	せつじつ	
+j	せつじょ	せつじょ	接助: conjunctive particle;…
+j	せつぞう	せつぞう	雪像: snow sculpture
+j	せつだん	せつだん	切断: cutting, severance, s…
+j	せつどう	せつどう	接道: facing street
+j	せつない	せつない	感傷にひたること。さびしい、こいしい、ものがなしい…
+j	せつなさ	せつなさ	切ないこと。その度合い。
+j	せつぶん	せつぶん	節分: The last day of winte…
+j	せとぎわ	せとぎわ	瀬戸（狭い海峡）と外洋との境界。
+j	せともの	せともの	愛知県瀬戸市を中心につくられる陶磁器。
+j	せばまる	せばまる	to become narrow, to cont…
+j	せばめる	せばめる	to make narrow
+j	せみえび	せみえび	十脚目セミエビ科セミエビ属に属するえびの一種。学名…
+j	せむしの	せむしの	
+j	せめいる	せめいる	相手の陣中に攻めて入り込む。攻め込む。
+j	せめうま	せめうま	horse training
+j	せめこむ	せめこむ	相手の陣中に攻めて入り込む。攻め入る。
+j	せめとる	せめとる	攻めていって奪い取る。
+j	せもたれ	せもたれ	椅子の後ろにある、背中をもたせかける部分。
+j	せられる	せられる	passive/potential of せる
+j	せりあげ	せりあげ	劇場において役者や大道具を舞台や花道に押し上げるこ…
+j	せりうり	せりうり	auction; selling at aucti…
+j	せりさげ	せりさげ	劇場において舞台や花道の役者や大道具を奈落へ下げる…
+j	せりざわ	せりざわ	芹沢: a surname
+j	せりだす	せりだす	to jut out; to protrude
+j	せわしい	せわしい	忙しい。ひまがない。
+j	せんいち	せんいち	仙一: a male given name
+j	せんえき	せんえき	戦役: a war; a battle
+j	せんおん	せんおん	顫音: trill
+j	せんきょ	せんきょ	
+j	せんけい	せんけい	線形, 線型: (mathematics) bei…
+j	せんこう	せんこう	
+j	せんすい	せんすい	潜水: going underwater
+j	せんずり	せんずり	千摺り: masturbation (male)
+j	せんせい	せんせい	
+j	せんせき	せんせき	戦績: war record
+j	せんせー	せんせー	
+j	せんたい	せんたい	選対: election tactics
+j	せんない	せんない	やる甲斐がない。無益だ。
+j	せんにち	せんにち	千日: one thousand days
+j	せんにん	せんにん	immortal mountain fairy o…
+j	せんばつ	せんばつ	選抜: picking out the best
+j	せんぱい	せんぱい	
+j	せんひき	せんひき	物差し、定規。
+j	せんびき	せんびき	demarcation; drawing a li…
+j	せんぶん	せんぶん	線分: line segment
+j	せんべろ	せんべろ	千円あればべろべろに酔うことができるような、安価な…
+j	せんぼう	せんぼう	人形浄瑠璃や義太夫の社会で用いられる隠語のこと。せ…
+j	せんぼく	せんぼく	占卜: divination, fortune-t…
+j	せんめい	せんめい	
+j	せんめつ	せんめつ	殲滅: annihilation
+j	せんれつ	せんれつ	鮮烈: vividness
+j	せん妄	せんもう	譫妄の異表記。
+j	セアラー	セアラー	
+j	セイウチ	セイウチ	哺乳綱ネコ目（食肉目）セイウチ科セイウチ属に属する…
+j	セイケイ	セイケイ	「青鶏」の学術的表記。
+j	セイシュ	セイシュ	スイスのレマン湖で発生する副振動。
+j	セイタン	セイタン	seitan
+j	セイバー	セイバー	
+j	セイラム	セイラム	Salem (the capital city o…
+j	セイロン	セイロン	Ceylon (former name of Sr…
+j	セイント	セイント	
+j	セオドア	セオドア	
+j	セオリー	セオリー	theory
+j	セカント	セカント	secant
+j	セカンド	セカンド	a second gear (second low…
+j	セキレイ	セキレイ	「鶺鴒」の学術的表記。
+j	セクシー	セクシー	sexy
+j	セクター	セクター	sector
+j	セクトル	セクトル	扇形。
+j	セクハラ	セクハラ	(略語) セクシャルハラスメント（sexual h…
+j	セクマイ	セクマイ	syllabic abbreviation of …
+j	セクメト	セクメト	Sekhmet - the ancient Egy…
+j	セクロス	セクロス	synonym of セックス (sekkusu,…
+j	セクース	セクース	synonym of セックス (sekkusu,…
+j	セコイア	セコイア	redwood tree, Sequoia sem…
+j	セコハン	セコハン	「セカンドハンド」の略。
+j	セコンド	セコンド	second (attendant of a du…
+j	セザンヌ	セザンヌ	a transliteration of the …
+j	セシウム	セシウム	cesium, Cs
+j	セックス	セックス	sex, sexual intercourse
+j	セッター	セッター	setter (breed of dog)
+j	セッ・ス	セッ・ス	
+j	セネガル	セネガル	Senegal (a country in Wes…
+j	セノーテ	セノーテ	
+j	セビチェ	セビチェ	
+j	セビリア	セビリア	
+j	セビリャ	セビリャ	
+j	セビリヤ	セビリヤ	
+j	セピア画	セピア画	
+j	セピア色	セピア色	
+j	セブンス	セブンス	ストライクを7フレーム続けて成し遂げること。
+j	セボルガ	セボルガ	Seborga
+j	セマフォ	セマフォ	a semaphore
+j	セミナー	セミナー	大学で、教授の指導のもとに学生が研究、発表、討論す…
+j	セミプロ	セミプロ	完全なプロではないが、プロに迫るような技量や知識を…
+j	セム人	せむじん	セム語派を話す諸民族。アラブ人、ヘブライ人、アムハ…
+j	セム語派	せむごは	アフロ・アジア語族の主要な語派。アラビア語、ヘブラ…
+j	セム語派	セム語派	アフロ・アジア語族の主要な語派。アラビア語、ヘブラ…
+j	セメント	セメント	cement (a powdered substa…
+j	セモリナ	セモリナ	
+j	セラック	セラック	「シェラック」の表記揺れ。
+j	セラピー	セラピー	（薬、手術などによらない）治療や療法。テラピー。
+j	セリアン	セリアン	
+j	セリウム	セリウム	cerium, Ce
+j	セリフ体	セリフ体	文字にセリフと呼ばれる出っ張りを付けた欧文の書体。…
+j	セルキー	セルキー	
+j	セルゲイ	セルゲイ	a transliteration of the …
+j	セルパン	セルパン	
+j	セルビア	セルビア	Serbia (a country on the …
+j	セル画	せるぐわ	cel drawing
+j	セレクタ	セレクタ	選択する装置。
+j	セレクト	セレクト	選択。選好。
+j	セレーナ	セレーナ	a transliteration of the …
+j	セロハン	セロハン	cellophane
+j	センサス	センサス	人口調査、国勢調査。
+j	センサー	センサー	sensor
+j	センター	センター	a center (point equidista…
+j	センチ波	せんちは	波長が1センチメートルから10センチメートルの電波…
+j	センチ波	センチ波	波長が1センチメートルから10センチメートルの電波…
+j	センマイ	センマイ	
+j	セーター	セーター	a sweater
+j	セーヌ川	セーヌ川	
+j	セーラム	セーラム	アメリカ合衆国オレゴンの州都。
+j	セーラー	セーラー	sailor
+j	セールス	セールス	sales
+j	䙁縫	せんぽう	糸で綴じること。また、糸で綴じた（線装本の）冊子。
+j	世上	せじょう	世の中。世間。
+j	世世	せいせい	many generations; from ag…
+j	世代	せいだい	generation
+j	世俗の	せぞくの	
+j	世俗化	せぞくか	secularization
+j	世外	せいがい	世俗を離れた場所。また、そのような境涯。
+j	世婚	せいこん	歴代の婚姻関係。
+j	世宗	せじょん	a temple name used for Ch…
+j	世宗	セジョン	a temple name used for Ch…
+j	世官	せいかん	世襲する官職。
+j	世情	せじょう	世の中の事情。
+j	世態	せいたい	世の中の有り様や状態。世情。世相。
+j	世田谷	せたがや	Setagaya (one of 23 speci…
+j	世界化	せかいか	
+j	世界史	せかいし	world history
+j	世界時	せかいじ	Universal Time
+j	世界語	せかいご	international auxiliary l…
+j	世知弁	せちべん	八難の一つ「世智弁聡」の略。
+j	世系	せいけい	lineage; genealogy; pedig…
+j	世臣	せいしん	ある主君の家に代々仕える家臣。
+j	世襲	せしゅう	heredity
+j	世話人	せわにん	団体や会合などを組織・運営する際に、めんどうをみる…
+j	世話焼き	せわやき	bother; meddlesome person
+j	世論	せいろん	public opinion
+j	世諺	せいげん	世間で言い習わされてきたことわざ。
+j	世道	せいどう	世間で守るべき道義。
+j	井傍	せいぼう	井戸端。
+j	井幹	せいかん	井桁。
+j	井楼	せいろう	戦場で偵察のため材木を組んで立てたやぐら。
+j	井水	せいすい	wellwater
+j	井泉	せいせん	a water well
+j	井田	せいでん	a surname
+j	井目	せいもく	The nine points on a go b…
+j	井遂	せいすい	田んぼの区画。
+j	井鉞	せいえつ	ふたご座にある二つの星の固まり。
+j	井陘	せいけい	Jingxing (a country, a Ch…
+j	井魚	せいぎょ	狭い井戸の中に棲んでいる魚。
+j	仙一	せんいち	a male given name
+j	仙丹	せんたん	elixir (of life)
+j	仙人	せんにん	immortal mountain fairy o…
+j	仙北	せんぼく	Senboku (a city in Akita …
+j	仙去	せんきょ	仙人となって世を去ること。仙逝。
+j	仙台	せんだい	Sendai (the capital city …
+j	仙女	せんじょ	a nymph
+j	仙女	せんぢよ	a nymph
+j	仙女	せんにょ	a nymph
+j	仙客	せんかく	仙人。
+j	仙寰	せんかん	fairyland
+j	仙方	せんぽう	神仙の方術。仙術。
+j	仙族	せんぞく	神仙の一族。
+j	仙椎	せんつい	a sacral vertebra
+j	仙楽	せんがく	仙人が演奏する美しい音楽。
+j	仙法	せんぽう	the mystical arts of a ho…
+j	仙源	せんげん	仙境。
+j	仙界	せんかい	a secluded place
+j	仙禽	せんきん	仙界に住むといわれている霊鳥。
+j	仙窟	せんくつ	仙人が暮らす洞穴。
+j	仙籍	せんせき	殿上人の名札。
+j	仙茅	せんばう	dried rhizome of Curculig…
+j	仙茅	せんぼう	dried rhizome of Curculig…
+j	仙薬	せんやく	飲めば不老不死となるという薬。
+j	仙逝	せんせい	仙人となって世を去ること。仙去。
+j	仙院	せんいん	上皇、法皇が暮らす御所。仙洞。
+j	仙頭	せんとう	a surname
+j	仙頭	せんどう	a surname
+j	仙骨	せんこつ	the unworldly appearance …
+j	仙髄	せんずい	脊髄で仙椎がとおる部分。
+j	倩肦	せんへん	愛らしい口元と美しい目元。美人の形容。
+j	倩肦	せんべん	愛らしい口元と美しい目元。美人の形容。
+j	僉望	せんぼう	衆人が期待すること。
+j	僣主	せんしゅ	王位を奪い帝王を僭称する者。
+j	僭する	せんする	〔他者や他事を〕自分の身の程をわきまえずに真似る。
+j	僭主	せんしゅ	tyrant
+j	僭王	せんおう	pretender to the position…
+j	僭王	せんわう	pretender to the position…
+j	僭窃	せんせつ	stealing something that b…
+j	僭越	せんえつ	presumptuous, arrogant
+j	僭雑	せんざつ	乱れること。
+j	儕偶	せいぐう	同輩。
+j	儕匹	せいひつ	同輩。
+j	儕輩	せいはい	仲間。同輩。朋輩。
+j	先世	せんせい	（せんせい）先代。祖先。
+j	先主	せんしゅ	先代の主君や主人。
+j	先人	せんじん	ancestors; forebears; for…
+j	先代	せんだい	the previous head of a fa…
+j	先体	せんたい	動物の精子頭部の先端にある尖った部分。
+j	先例	せんれい	precedent
+j	先偏	せんぺん	戦車で突入すること。
+j	先入	せんにふ	preconception
+j	先公	せんこう	former lord, former ruler
+j	先兵	せんぺい	vanguard
+j	先制	せんせい	making the first move
+j	先刻	せんこく	already
+j	先勝	せんかち	The first day of the Roku…
+j	先占	せんせん	他人より先に占有すること。
+j	先厳	せんげん	亡父。
+j	先取	せんしゅ	receiving something befor…
+j	先取	せんしゆ	receiving something befor…
+j	先史の	せんしの	
+j	先君	せんくん	先代の君主。先公。
+j	先哲	せんてつ	great thinker of the past…
+j	先回	せんかい	last time
+j	先坊	せんぼう	前の皇太子。前坊。
+j	先報	せんぽう	先の知らせ。前報。
+j	先声	せんせい	前兆。前触れ。
+j	先天	せんてん	something one is born wit…
+j	先妻	せんさい	ex-wife; former wife
+j	先学	せんがく	学問上の先輩。
+j	先守	せんしゅ	スポーツの競技で先に守備をすること。
+j	先導	せんどう	leadership
+j	先帝	せんだい	先の帝。先代の皇帝や天子。
+j	先帝	せんてい	先の帝。先代の皇帝や天子。
+j	先年	せんねん	過去の年。往年。
+j	先手	せんしゅ	vanguard
+j	先攻	せんこう	going first (in an offens…
+j	先方	せんぱう	the other party
+j	先方	せんぽう	the other party
+j	先日	せんじつ	the other day
+j	先晩	せんばん	先日の晩。
+j	先月	せんげつ	last month
+j	先正	せんせい	前代の賢臣。
+j	先決	せんけつ	first consideration; firs…
+j	先烈	せんれつ	祖先の功績。前烈。
+j	先王	せんおう	先代の君主。
+j	先王	せんのう	先代の君主。
+j	先生	せんせい	an elder
+j	先番	せんばん	番号、順番が先であること。
+j	先発	せんぱつ	starting first, a head st…
+j	先登	せんとう	他人より先に城、敵陣に攻め入ること。
+j	先皇	せんおう	先代の天皇。
+j	先皇	せんこう	先代の天皇。
+j	先皇	せんのう	先代の天皇。
+j	先端	せんたん	pointed end
+j	先約	せんやく	promise that was made in …
+j	先緒	せんしょ	先人や先祖の遺業。
+j	先考	せんこう	one's deceased father
+j	先聖	せんせい	むかしの聖人。
+j	先腹	せんばら	ex-wife's child
+j	先腹	せんぷく	ex-wife's child
+j	先行	せんかう	the first, the vanguard, …
+j	先行	せんこう	the first, the vanguard, …
+j	先見	せんけん	foresight
+j	先言	せんげん	先人が残した言葉。
+j	先負	せんまけ	The third day of the Roku…
+j	先輩	せんぱい	an upperclassman
+j	先週	せんしう	last week
+j	先進	せんしん	being advanced
+j	先道	せんどう	「先導」の異表記。（参考：『角川新字源』改訂新版、…
+j	先遣	せんけん	sending ahead, advance
+j	先醒	せんせい	先覚。
+j	先鋒	せんぽう	spearhead; one that advan…
+j	先院	せんいん	先になった上皇または法皇。
+j	先陣	せんじん	本陣の前に置かれる陣のこと。さきぞなえ。先鋒。
+j	先隊	せんたい	先を進行する部隊。
+j	先頭	せんとう	head, front, lead, first
+j	全滅	せんめつ	annihilation; exterminati…
+j	凄光	せいこう	すさまじい光。ものすごい光。とても激しい光。
+j	凄切	せいせつ	身にしみるほど切ないさま。
+j	凄吟	せいぎん	（鳥獣が）悲しげに鳴くこと。
+j	凄惨	せいさん	gruesome, ghastly, grisly
+j	凄然	せいぜん	寒いこと。涼しいこと。
+j	凄絶	せいぜつ	incredible
+j	凄迷	せいめい	薄暗く、遥かなさま。
+j	凄黯	せいあん	薄暗いこと。また、そのようなさま。
+j	切ない	せつない	poignantly sad; filling o…
+j	切なる	せつなる	earnest, wholeheartedly
+j	切削	せっさく	machining
+j	切創	せっそう	切り傷。
+j	切実	せつじつ	acute, acuity, keen, keen…
+j	切断	せつだん	cutting, cutting off, sev…
+j	切望	せつぼう	earnest desire
+j	切点	せってん	point of contact
+j	切片	せっぺん	slice, segment
+j	切経	せっけい	切診の一つで経絡や経穴の皮膚表面を触診する診察法。…
+j	切緊	せっきん	非常に重要であること。
+j	切腹	せっぷく	seppuku (ritual suicide b…
+j	切要	せつよう	essential; vital
+j	切診	せっしん	四診の一つで、西洋医学における触診に相当し、触覚で…
+j	切論	せつろん	熱心に議論すること。
+j	切諫	せっかん	強く諫めること。
+j	切迫	せっぱく	urgency
+j	切開	せっかい	incision, section
+j	切除	せつじょ	cutting off, excision, -t…
+j	切電	せつでん	電話によるやり取りを終了して、電話を切ること。
+j	切韻	せついん	Qieyun (Chinese rhyme dic…
+j	切韻	せつゐん	Qieyun (Chinese rhyme dic…
+j	切願	せつがん	entreaty
+j	制する	せいする	to hold back; to rein in;…
+j	制令	せいれい	おきて。
+j	制作	せいさく	production
+j	制動	せいどう	braking action
+j	制名	せいめい	名付けること。
+j	制品	せいひん	product, manufactured good
+j	制圧	せいあつ	suppression, mastery, con…
+j	制外	せいがい	制規の範囲外。
+j	制定	せいてい	enactment, establishment,…
+j	制帽	せいぼう	ある集団、組織に所属する者が着用し、形や色などが規…
+j	制幣	せいへい	祭幣。
+j	制式	せいしき	defined style; standard
+j	制御	せいぎょ	control
+j	制慾	せいよく	「制欲」の別表記。
+j	制憲	せいけん	憲法を制定すること。
+j	制抑	せいよく	力により、勢力や行動などを抑え込むこと。
+j	制振	せいしん	特殊な装置などを使って振動を打ち消すこと。
+j	制服	せいふく	uniform
+j	制札	せいさつ	禁止する事項を箇条書きにして街角に立てた札。
+j	制権	せいけん	支配すること。
+j	制欲	せいよく	欲望を抑え込むこと。
+j	制汗	せいかん	sweat suppression
+j	制海	せいかい	軍事力を用いて海域を支配すること。
+j	制禁	せいきん	規則で、ある行為を禁止すること。禁制。
+j	制空	せいくう	軍事力を用いて空域を支配すること。
+j	制約	せいやく	restriction, limitation
+j	制芸	せいげい	八俣文。
+j	制裁	せいさい	punishment; sanction
+j	制言	せいごん	制止すること。
+j	制防	せいぼう	防止すること。
+j	制限	せいげん	limit, restriction
+j	制震	せいしん	「制振」に同じ。特に、地震に対する建築物・構造物の…
+j	刹竿	せっかん	寺院の門前などに立てる長い旗竿。
+j	刺客	せきかく	synonym of 暗殺者 (ansatsush…
+j	刺客	せっかく	synonym of 暗殺者 (ansatsush…
+j	剗刷	せんさつ	駆り集めること。
+j	剗海	せのうみ	a lake that existed at th…
+j	剗滌	せんでき	刈って除去すること。
+j	剪刀	せんたう	scissors, especially thos…
+j	剪刀	せんとう	scissors, especially thos…
+j	剪断	せんだん	shearing (deformation bec…
+j	剪斷	せんだん	剪断の旧字体表記。
+j	剪毛	せんもう	羊毛などを刈り取ること。
+j	剪滅	せんめつ	討ち滅ぼすこと。
+j	剪除	せんじょ	切って、除去すること。
+j	勢力	せいりき	influence, power, especia…
+j	勢名	せいめい	権勢と名誉。
+j	勢望	せいぼう	勢力と人望。
+j	勢権	せいけん	威勢と権力。権勢。
+j	勢相	せいそう	ある動作ができる（可能である）ことを表す文法の形式…
+j	勢車	せいしゃ	flywheel
+j	千万	せんばん	ten million
+j	千万	せんまん	ten million
+j	千三つ	せんみつ	嘘つき。[1672年～]
+j	千人	せんにん	1000の人数。
+j	千仞	せんじん	標高などが非常に高いこと。また、谷などが非常に深い…
+j	千倍	せんばい	ある数量に千をかけること。また、千をかけたもの。
+j	千億	せんおく	hundred billion
+j	千切り	せんぎり	だいこんやキャベツなどを細長く切ること。また、そう…
+j	千声	せんせい	多くの声や音。
+j	千変	せんぺん	様々に変化すること。次々と変化すること。
+j	千尋	せんじん	one thousand fathoms
+j	千峰	せんぽう	多くの峰。連峰。連山。
+j	千年	せんねん	a millennium; a thousand …
+j	千態	せんたい	さまざまな形態や状態。千状。
+j	千手	せんじゅ	非常に多くの手。
+j	千摺り	せんずり	masturbation (male)
+j	千方	せんぽう	あらゆる方策。万策。
+j	千日	せんにち	one thousand days
+j	千本	せんぼん	one thousand acupuncture …
+j	千束	せんぞく	束が千あること。多くの束。
+j	千枚	せんまい	枚数が1000あること。
+j	千極	せんごく	
+j	千歳	せんざい	synonym of 千年 (sennen, “a…
+j	千法	せんぽう	あらゆる方策。万策。
+j	千眼	せんげん	非常に多くの眼。
+j	千秋	せんしう	a thousand years; long ye…
+j	千篇	せんぺん	多数の詩文。
+j	千総	せんそう	A piece in Ko shogi
+j	千般	せんばん	色色。
+j	千般	せんぱん	色色。
+j	千行	せんこう	筋がいくつもあること。
+j	千言	せんげん	非常にたくさんの言葉。
+j	千足	せんそく	（せんそく）むかで。
+j	千足	せんぞく	（せんそく）むかで。
+j	千載	せんさい	a millennium, a thousand …
+j	千載	せんざい	a millennium, a thousand …
+j	千里馬	せんりば	Chollima (mythical Korean…
+j	千金	せんきん	a large amount of money
+j	千鈞	せんきん	極めて重いこと。
+j	千首	せんしゅ	1000個の和歌。
+j	占卜	せんぼく	
+j	占守	せんしゅ	Shumshu (an island of Jap…
+j	占居	せんきょ	ある場所を占めていること。
+j	占拠	せんきょ	occupation (act, process …
+j	占文	せんもん	占いをした結果、そこに現れた文言。
+j	占断	せんだん	占いにより何かを判断すること。
+j	占方	せんぽう	占いの方法や道具。
+j	占星	せんせい	星占い。占星術。
+j	占有	せんゆう	total possession, monopol…
+j	占法	せんぽう	占いの方法やその道具。
+j	占測	せんそく	占うこと。
+j	占用	せんよう	ある物を独占して使用すること。
+j	占筮	せんぜい	易で筮竹で卦を立てて物事の吉凶を判断すること。また…
+j	占考	せんこう	占って考え、判断すること。
+j	占騙	せんぺん	騙すこと。
+j	哨舎	せうしや	sentry-box
+j	声オタ	せいおた	声優好きのオタク。
+j	声ヲタ	せいをた	「声オタ」の別表記。
+j	声偶	せいぐう	対句。
+j	声優	せいいう	voice actor; voice actress
+j	声優	せいゆう	voice actor; voice actress
+j	声劇	せいげき	音声のみで構成する劇。
+j	声名	せいめい	良い評判。名声。
+j	声咽	せいえつ	声をあげて泣くこと。
+j	声嚢	せいのう	蛙の雄の喉のあたりにあり、鳴き声を共鳴させるための…
+j	声域	せいいき	vocal range
+j	声域	せいゐき	vocal range
+j	声帯	せいたい	vocal cords
+j	声援	せいえん	support; cheering on
+j	声明	せいめい	a public statement or dec…
+j	声望	せいぼう	prestige, reputation, pop…
+j	声欬	せいがい	咳払い。謦咳。
+j	声涙	せいるい	声と涙。
+j	声玩	せいがん	声色と玩好。
+j	声病	せいへい	詩賦の平仄が整わないこと。
+j	声紋	せいもん	声を周波数で分析する装置により縞模様の図表にしたも…
+j	声芳	せいほう	名声。
+j	声言	せいげん	言いふらすこと。
+j	声貌	せいぼう	声と容貌。
+j	声質	せいしつ	the qualities of a voice
+j	声道	せいどう	vocal tract
+j	声門	せいもん	glottis
+j	声音	せいおん	voice
+j	夕日	せきじつ	setting sun
+j	夕景	せっけい	（せっけい、ゆうけい）夕方の景色。
+j	夕陽	せきよう	夕方に沈もうとする太陽。
+j	姓名	せいめい	full name (of a person)
+j	姓望	せいぼう	姓と本貫。
+j	孅妍	せんけん	美しいさま。
+j	孱劣	せんれつ	弱々しく劣っていること。また、そのようさま。
+j	宣する	せんする	宣言する。
+j	宣伝	せんでん	advertisement, publicity
+j	宣制	せんせい	宣命を読み上げること。
+j	宣告	せんこく	verdict, sentence
+j	宣報	せんぽう	知らせること。
+j	宣戦	せんせん	declaring war
+j	宣教	せんけう	evangelism
+j	宣明	せんめい	宣言して明らかにすること。
+j	宣材	せんざい	promotional materials
+j	宣省	せんせい	巡察すること。
+j	宣聖	せんせい	孔子。
+j	宣言	せんげん	declaration
+j	宣託	せんたく	神仏のお告げ。
+j	宣誓	せんせい	oath, promise, swearing, …
+j	寂寂	せきせき	ひっそりとしてもの寂しいさま。
+j	寂寞	せきばく	loneliness, desolation
+j	寂寥	せきれう	desolate and hushed
+j	寂絶	せきぜつ	寂滅すること。
+j	専ブラ	せんぶら	
+j	専ブラ	せんブラ	
+j	専修	せんしう	specialization, specialis…
+j	専修	せんじゅ	specialization, specialis…
+j	専制	せんせい	despotism, autocracy (gov…
+j	専勢	せんせい	専権。
+j	専占	せんせん	自分一人だけで占有すること。
+j	専売	せんばい	monopoly
+j	専属	せんぞく	exclusive
+j	専征	せんせい	王命による征討。
+j	専念	せんねん	concentration, focus
+j	専攻	せんこう	academic major
+j	専政	せんせい	独断で政治を行うこと。
+j	専横	せんおう	偏狭な考え方で好き勝手に振舞うこと。
+j	専欲	せんよく	気儘なこと。また、そのようなさま。
+j	専用	せんよう	the exclusive use, dedica…
+j	専管	せんかん	一手に管理、管轄すること。
+j	専精	せんせい	精神を集中すること。また、そのようなさま。
+j	専誠	せんせい	誠心誠意。
+j	専門	せんもん	speciality/specialty; sub…
+j	専願	せんがん	入学試験で一つの学校だけに出願するか、その学校を第…
+j	專賣	せんばい	
+j	小円	せうゑん	a small circle
+j	小刀	せうたう	small knife, short sword
+j	小寒	せうかん	"Lesser Cold" (one of twe…
+j	小康	せうかう	a lull, a respite, a brea…
+j	小暑	せうしよ	Lesser Heat (the 11th of …
+j	小滿	せうまん	
+j	小火	せうくわ	small fire
+j	小社	せうしや	our company
+j	小竹	せうちく	a surname
+j	小篆	せうてん	small seal script
+j	小花	せうくわ	small flower
+j	小見	せうけん	narrow perspective
+j	小計	せうけい	subtotal
+j	小説	せうせつ	novel, story, fiction
+j	小隊	せうたい	a platoon
+j	小難	せうなん	a small misfortune
+j	小雪	せうせつ	a solar term denoting app…
+j	小額	せうがく	small denomination, small…
+j	少々	せうせう	a small amount
+j	少女	せうぢよ	a (young, little) girl
+j	少年	せうねん	a boy, a young man
+j	少数	せうすう	minority
+j	少林	せうりん	Shaolin
+j	少輔	せういう	junior assistant minister…
+j	尖体	せんたい	動物の精子頭部の先端にある尖った部分。先体。
+j	尖塔	せんたふ	steeple, spire
+j	尖塔	せんとう	steeple, spire
+j	尖峰	せんぽう	山頂が尖った形の峰。
+j	尖点	せんてん	
+j	尖端	せんたん	物の尖った端。
+j	尖足	せんそく	足先が下側に伸びて真っ直ぐになったまま戻らなくなっ…
+j	尖鋒	せんぽう	屠殺用の刀。
+j	尖頭	せんとう	先が尖っていること。また、そのような先。
+j	尺一	せきいつ	one shaku and one sun
+j	尺書	せきしょ	短い手紙や文書。
+j	尺牘	せきとく	a wooden block one seki i…
+j	尺縑	せきけん	僅かな量の絹。
+j	尺縑	せっけん	僅かな量の絹。
+j	尺蠖	せきかく	尺取り虫。
+j	尺蠖	せきわく	尺取り虫。
+j	山水	せんすい	landscape; hills and rive…
+j	山水	せんずい	landscape; hills and rive…
+j	山海	せんがい	mountains and seas
+j	山道	せんだう	mountain road; mountain p…
+j	山道	せんどう	mountain road; mountain p…
+j	川内	せんだい	a surname
+j	川原	せんげん	a place name
+j	川柳	せんりう	senryu: comic haiku
+j	川沢	せんたく	五地の一つ。川と沢（湿地）。
+j	川源	せんげん	水源。
+j	席代	せきだい	cover charge
+j	席巻	せきけん	conquering, sweeping
+j	席巻	せっけん	conquering, sweeping
+j	席替え	せきがえ	swapping seats, (especial…
+j	席替え	せきがへ	swapping seats, (especial…
+j	席決め	せきぎめ	deciding where people sit
+j	征する	せいする	征伐する。討伐する。攻撃して服従させる。
+j	征伐	せいばつ	conquest
+j	征北	せいほく	北征。
+j	征南	せいなん	南征。
+j	征服	せいふく	subjugation, conquest
+j	征東	せいとう	軍隊が東方へと征くこと。東方にいる敵を征伐すること。
+j	征税	せいぜい	強制的に租税を徴収すること。
+j	征蕃	せいばん	conquest of aboriginals
+j	征西	せいせい	軍隊が西方へと征くこと。西方にいる敵を征伐すること。
+j	征討	せいとう	subjugation, conquest
+j	征雁	せいがん	飛んで行く雁。
+j	征鞍	せいあん	出征の途にあり、鞍を置いた軍馬。
+j	征鴈	せいがん	征雁。
+j	忙しい	せはしい	busy
+j	忙しい	せわしい	busy
+j	性交	せいかう	sexual intercourse, sex, …
+j	性交	せいこう	sexual intercourse, sex, …
+j	性典	せいてん	性のことについて書かれた書物。
+j	性別	せいべつ	sex, gender
+j	性向	せいこう	propensity; inclination; …
+j	性善	せいぜん	the fundamental virtue of…
+j	性巣	せいそう	生殖腺のこと。男性（雄）の精巣、女性（雌）の卵巣。…
+j	性急	せいきふ	brash; impatient
+j	性悪	せいあく	bad-tempered
+j	性愛	せいあい	eros
+j	性感	せいかん	sexual feeling
+j	性慾	せいよく	「性欲」の別表記。
+j	性来	せいらい	いわれ。由来
+j	性格	せいかく	character of human (perso…
+j	性欲	せいよく	lust; sexual desire
+j	性毛	せいもう	陰部に生える毛。陰毛。
+j	性法	せいほう	自然法。
+j	性活	せいかつ	Used as a replacement for…
+j	性癖	せいへき	eccentricity, strange hab…
+j	性的	せいてき	sexual, sexually
+j	性能	せいのう	performance, efficiency
+j	性腺	せいせん	生殖腺。男性（雄）の精巣、女性（雌）の卵巣。
+j	性行	せいかう	character and conduct
+j	性行	せいこう	character and conduct
+j	性豪	せいごう	多くの相手と性行為を経験している者。
+j	性質	せいしつ	a person's nature or disp…
+j	性骨	せいこつ	技芸などでその人がもっている生まれつきのうまさ。
+j	悄悄	せうせう	spiritless, not energetic
+j	悄然	せうぜん	dejected
+j	悽咽	せいえつ	悲しみでむせび泣くこと。
+j	悽惨	せいさん	「凄惨」の別表記。
+j	悽然	せいぜん	痛み、悲しむこと。また、そのようなさま。
+j	惜別	せきべつ	regret at parting
+j	惜敗	せきはい	losing by a narrow margin
+j	慼慼	せきせき	憂え悲しむさま。
+j	憔悴	せうすい	weary; enervated
+j	憸言	せんげん	妄言。
+j	懺法	せんぼう	経文を読み、罪過を懺悔する法要。また、その時読む経…
+j	成一	せいいち	a male given name
+j	成人	せいじん	an adult; a grown-up
+j	成全	せいぜん	完全に作り上げること。成就すること。
+j	成分	せいぶん	ingredient
+j	成功	せいこう	success
+j	成名	せいめい	名声。
+j	成命	せいめい	天によって定められた命。
+j	成員	せいいん	member (e.g. of society)
+j	成因	せいいん	origin; cause (from which…
+j	成均	せいきん	古代中国の大学。
+j	成婚	せいこん	婚姻が成立すること。
+j	成年	せいねん	legal age, age (time of l…
+j	成形	せいけい	formation
+j	成徳	せいとく	a male given name
+j	成心	せいしん	ある立場に囚われた見方。
+j	成憲	せいけん	成文法。
+j	成擒	せいきん	捕虜となること。
+j	成敗	せいはい	settlement
+j	成敗	せいばい	settlement
+j	成文	せいぶん	written material, writing
+j	成斤	せいきん	律令制で租稲の量目の一つで、稲一束で一斤とした。
+j	成昏	せいこん	成婚すること。
+j	成木	せいぼく	樹木が生長すること。また、生長した樹木。
+j	成果	せいくわ	accomplishments, results,…
+j	成案	せいあん	既に出来上がった案。
+j	成歓	せいかん	喜ぶこと。
+j	成法	せいほう	成文法。
+j	成漢	せいかん	五胡十六国の一つ。後蜀。
+j	成犬	せいけん	成長して大きくなった犬。
+j	成立	せいりつ	birth; formation; coming …
+j	成童	せいどう	十五歳以上の少年。
+j	成算	せいさん	prospects of success, con…
+j	成約	せいやく	reaching an agreement
+j	成績	せいせき	results, score, achieveme…
+j	成聖	せいせい	consecration
+j	成育	せいいく	人や動物が成長すること。
+j	成言	せいげん	約すること。誓うこと。
+j	成豪	せいごう	a male given name
+j	成跡	せいせき	ある事柄のなりゆきやその結果。
+j	成選	せいせん	律令制で官吏の定期の叙位。
+j	成鳥	せいてう	mature bird
+j	成鶏	せいけい	mature chicken
+j	戚戚	せきせき	憂え悲しむさま。
+j	戦乙女	せのとめ	主に戦場で評判が高く威厳を纏う、武器を持って戦う美…
+j	戦乱	せんらん	war, disturbances, hostil…
+j	戦争	せんさう	war (conflict involving o…
+j	戦争	せんそう	war (conflict involving o…
+j	戦債	せんさい	戦争に伴う債務。
+j	戦列	せんれつ	line of battle
+j	戦前	せんぜん	pre-war
+j	戦功	せんこう	merit of war, distinguish…
+j	戦勢	せんせい	戦いの形勢。
+j	戦卒	せんそつ	兵卒。
+j	戦友	せんゆう	brother-in-arms (fellow c…
+j	戦国	せんごく	a warring state
+j	戦域	せんいき	war zone, theater of war
+j	戦報	せんぽう	戦況など戦争に関する報告。
+j	戦守	せんしゅ	戦うことと守ること。
+j	戦役	せんえき	a war
+j	戦慄	せんりつ	a shudder
+j	戦戦	せんせん	震え、戦くさま。畏れ、謹むさま。
+j	戦敗	せんぱい	defeat in war
+j	戦書	せんしょ	宣戦布告の文書。
+j	戦果	せんくわ	military gains, spoils of…
+j	戦歴	せんれき	戦闘に参加した経歴。
+j	戦没	せんぼつ	lost in action
+j	戦法	せんぽう	tactics
+j	戦犯	せんぱん	Person responsible for th…
+j	戦眩	せんげん	めまい。
+j	戦端	せんたん	戦いの端緒。
+j	戦線	せんせん	frontline
+j	戦績	せんせき	war record, military achi…
+j	戦艦	せんかん	battleship (warship)
+j	戦袍	せんぽう	陣羽織など鎧の上から着用する衣類。
+j	戦象	せんぞう	戦争で使用する象。
+j	戦跡	せんせき	old battlefield, site of …
+j	戦車	せんしゃ	tank (armoured fighting v…
+j	戦鋒	せんぽう	軍の勢力。軍勢。
+j	戦闘	せんとう	a battle, a fight, combat
+j	戦隊	せんたい	squadron
+j	戦雲	せんうん	"clouds of war": portent …
+j	截頭	せっとう	頭の部分を切り取ること。
+j	戰績	せんせき	war record, military achi…
+j	戰鬪	せんとう	
+j	扇動	せんどう	incitement, sedition, agi…
+j	扇形	せんけい	circular sector (shape)
+j	扇翼	せんよく	換気扇、扇風機などの羽根。
+j	扇面	せんめん	扇の地紙。
+j	抄写	せうしや	extracts; excerpts
+j	抄紙機	せうしき	paper machine
+j	抄速	せうそく	speed (速度) of the manufac…
+j	抄録	せうろく	excerpt, abstract (short …
+j	折乏	せつぼう	貧乏。
+j	折伏	せっぷく	（しゃくぶく）悪法を打ち砕き、迷いを覚まさせること。
+j	折俸	せつぼう	減俸すること。
+j	折券	せっけん	棒引き。
+j	折半	せっぱん	half
+j	折桂	せっけい	進士の試験に首席で合格すること。
+j	折檻	せっかん	severe disciplining
+j	折減	せつげん	減らすこと。
+j	折算	せっさん	仕訳して計算すること。
+j	折簡	せっかん	二つ切りにした紙に短い手紙を書くこと。また、その手…
+j	折角	せっかく	at great pains, going to …
+j	折鋒	せっぽう	下筆の方法。
+j	拙作	せっさく	まずい作品や製作。
+j	拙僧	せっそう	I, me (I, as a mere pries…
+j	拙劣	せつれつ	poor, inferior
+j	拙吟	せつぎん	bad or unskilled singing
+j	拙守	せっしゅ	まずい守備。
+j	拙工	せっこう	技術が下手な職人。また、技術の劣る物。
+j	拙店	せってん	自分の店の謙譲語。
+j	拙文	せつぶん	下手な文章。
+j	拙稿	せっこう	my manuscript
+j	拙稿	せつかう	my manuscript
+j	拙策	せっさく	まずい策略。
+j	拙者	せっしゃ	I; me
+j	拙著	せっちょ	my work
+j	拙見	せっけん	愚見。
+j	拙訳	せつやく	clumsy translation
+j	拙詠	せつえい	下手な詩歌。
+j	拙説	せっせつ	my theory
+j	拙論	せつろん	my argument
+j	拙謀	せつぼう	拙策。
+j	拙速	せっそく	(積極的評価)質は万全ではないが、仕事、処理などが…
+j	招待	せうたい	invitation
+j	招来	せうらい	invitation
+j	招牌	せうはい	A signboard; a doorplate
+j	招降	せうかう	entreating the enemy to s…
+j	拴束	せんそく	縛ること。
+j	掣牽	せいけん	引き、抑えること。
+j	掣筆	せいひつ	掣肘。
+j	掣肘	せいちう	impedance
+j	接する	せっする	to come in contact with, …
+j	接写	せっしゃ	macro photography, closeup
+j	接助	せつじょ	
+j	接受	せつじゅ	受け取ること。
+j	接合	せつごう	繋ぐこと。
+j	接吻	せっぷん	kiss
+j	接対	せったい	人を応接し、対面すること。
+j	接射	せっしゃ	皮膚に接するか非常に近い距離から銃などを発射するこ…
+j	接尾詞	せつびし	synonym of 接尾辞 (setsubiji…
+j	接尾語	せつびご	synonym of 接尾辞 (setsubiji…
+j	接尾辞	せつびじ	a suffix
+j	接岸	せつがん	coming alongside a pier
+j	接待	せったい	reception of a visitor, e…
+j	接心	せっしん	心が外界の事に接して感じること。
+j	接戦	せっせん	close combat
+j	接断	せつだん	to disconnect
+j	接格	せっかく	adessive case
+j	接点	せってん	a point of tangency
+j	接神	せっしん	神を降ろし祀ること。
+j	接種	せっしゅ	vaccination
+j	接続	せつぞく	connection
+j	接線	せっせん	a tangent
+j	接置詞	せっちし	
+j	接舷	せつげん	船舶が舷を他の船舶の舷や岸壁に付けること。
+j	接見	せっけん	interview
+j	接近	せっきん	getting closer, approachi…
+j	接道	せつどう	facing street. - refers t…
+j	接骨	せっこつ	bonesetting
+j	摂任	せつにん	各省の大臣に故障がある時、その大臣の権限を他の大臣…
+j	摂像	せつぞう	粘土で作られた像。塑像。
+j	摂兼	せっけん	兼摂すること。
+j	摂動	せつどう	太陽系の惑星が他の惑星の引力の影響により通常の楕円…
+j	摂取	せっしゅ	intake, assimilation
+j	摂心	せっしん	「接心」を参照。
+j	摂提	せってい	Jupiter (planet)
+j	摂検	せっけん	取り調べること。
+j	摂氏度	せっしど	
+j	摂生	せっせい	maintenance of health thr…
+j	摂社	せっしゃ	神社の本社に付属し、本社の祭神に縁故がある神を祭祀…
+j	摂籙	せつろく	摂政の異称。
+j	摂行	せっこう	職務などを代行すること。
+j	摂関	せっかん	摂政と関白。
+j	摂養	せつよう	体を労ること。養生。摂生。
+j	撰定	せんてい	書物、文書を編纂すること。
+j	撰文	せんぶん	作文をすること。また、その文章。
+j	撰続	せんぞく	既に撰集された書物や作品集のあとにさらに撰集して加…
+j	撰者	せんしゃ	compiler, editor
+j	撰者	せんじゃ	compiler, editor
+j	撰録	せんろく	文章や書物をつくり記録すること。
+j	擅制	せんせい	専制。
+j	擅勢	せんせい	専権。
+j	擠陥	せいかん	人を罪に陥れること。
+j	政争	せいそう	political struggle
+j	政令	せいれい	ordinance, government dec…
+j	政体	せいたい	国家の根本的な政治形態、統治形態。君主制、貴族制、…
+j	政党	せいたう	a political party
+j	政党	せいとう	a political party
+j	政刑	せいけい	政治と刑罰。
+j	政堂	せいどう	政治をとるための建物。
+j	政変	せいへん	coup d'état (sudden overt…
+j	政客	せいかく	politician
+j	政府の	せいふの	
+j	政教	せいけう	politics and religion
+j	政敵	せいてき	政治上の意見などが対立している相手。
+j	政柄	せいへい	政権。
+j	政権	せいけん	administration; regime
+j	政治化	せいじか	politicization
+j	政治史	せいじし	政治活動とそれに関する法制、社会、地理などについて…
+j	政治家	せいじか	politician, statesman
+j	政治家	せいぢか	politician, statesman
+j	政法	せいほう	政治の方法。政道。
+j	政界	せいかい	world of politics
+j	政策	せいさく	policy
+j	政経	せいけい	politics and economics
+j	政績	せいせき	政治における業績や実績。
+j	政見	せいけん	political views
+j	政談	せいだん	政治に関する談話や議論。
+j	政論	せいろん	政治に関する意見や議論。
+j	政道	せいどう	まつりごと。政治のやり方。
+j	政風	せいふう	style of government
+j	整体	せいたい	seitai therapy, using han…
+j	整備士	せいびし	車両や航空機など様々な機械を整備する職業。現在の日…
+j	整備屋	せいびや	整備場や整備士、整備工、整備員。
+j	整厳	せいげん	締まりがあり、重々しいさま。
+j	整合	せいがふ	matching; conformity; con…
+j	整合	せいごう	matching; conformity; con…
+j	整容	せいよう	姿などを整えること。
+j	整式	せいしき	polynomial
+j	整形	せいけい	fixing the shape of somet…
+j	整復	せいふく	骨折や脱臼などを元の正常な状態にすること。
+j	整数	せいすう	an integer
+j	整整	せいせい	正しく整っているさま。
+j	整正	せいせい	正しく整えること。また、整っているさま。
+j	整水	せいすい	浄水を電気分解して電解水素水（飲用アルカリ性電解水…
+j	整然	せいぜん	tidy; regular; orderly
+j	整経	せいけい	製織を準備する工程の一つ。
+j	整除	せいじょ	division without a remain…
+j	整頓	せいとん	order; arrangement; putti…
+j	整骨	せいこつ	synonym of 接骨 (sekkotsu, …
+j	整髪	せいはつ	hairdressing, hairstyling
+j	斉一	せいいつ	どれもみな一様であること。また、そのさま。
+j	斉厳	せいげん	厳かなさま。
+j	斉名	せいめい	同程度の名声があるさま。
+j	斉均	せいきん	均斉。
+j	斉奏	せいそう	複数の楽器で同じ旋律を演奏すること。
+j	斉射	せいしゃ	volley (of fire), fusilla…
+j	斉盟	せいめい	斎戒して誓うこと。
+j	斉紈	せいがん	中国斉で作られた正絹。
+j	斉限	せいげん	決まり。
+j	斥候	せきこう	patrol; scout
+j	斥候	せっこう	patrol; scout
+j	斥絶	せきぜつ	絶交すること。
+j	斥蠖	せきわく	尺取り虫。
+j	斥言	せきげん	明らかにそのことを指して言うこと。
+j	施肥	せひする	fertilization
+j	施行	せぎょう	execution, carrying out
+j	施術	せじゅつ	carrying out a procedure
+j	施術	せじゆつ	carrying out a procedure
+j	施錠	せじょう	act of locking
+j	施錠	せぢやう	act of locking
+j	施餓鬼会	せがきえ	施餓鬼。
+j	旃旌	せんせい	旗。
+j	旃毛	せんもう	毛織物の毛。フェルトウール。
+j	旋回	せんかい	revolution; rotation; tur…
+j	旋律	せんりつ	melody (sequence of notes…
+j	旋毛	せんもう	the head hairs that grow …
+j	旋法	せんぱふ	mode
+j	旋法	せんぽう	mode
+j	旋盤	せんばん	lathe
+j	旋眩	せんげん	めまい。
+j	旋転	せんてん	rotating, turning, revolv…
+j	旋風	せんぷう	an atmospheric phenomenon…
+j	旌命	せいめい	表彰し、招聘すること。
+j	旌幣	せいへい	礼者。
+j	旌節	せいせつ	使者の印とする旗。
+j	旌賢	せいけん	賢人を表彰すること。
+j	旌軒	せいけん	車と旗。
+j	旌銘	せいめい	葬送の旗。
+j	旌顕	せいけん	人の善行を賞して世に明らかにすること。
+j	昔人	せきじん	昔の人。
+j	昔彦	せきげん	前賢。先賢。
+j	昔昔	せきせき	ancient times, a very lon…
+j	昔言	せきげん	古人の言葉。
+j	昔賢	せきけん	昔の賢人や偉人。
+j	昔遊	せきゆう	かつて来訪したことがあること。
+j	星人	せいじん	extraterrestrial, alien
+j	星伝	せいでん	早馬。飛伝。
+j	星列	せいれつ	星のようにたくさん並び連なること。
+j	星号	せいごう	
+j	星命	せいめい	星占い。推命。
+j	星団	せいだん	star cluster
+j	星團	せいだん	星団の旧字体表記。
+j	星学	せいがく	天文学。
+j	星官	せいかん	天官。
+j	星彩	せいさい	starlight
+j	星散	せいさん	星が空に散らばっていること。
+j	星旄	せいぼう	星のように輝く旗。
+j	星明	せいめい	多くの星の明かり。
+j	星枢	せいすう	北斗七星に属するおおぐま座α星の別名。天枢。
+j	星港	せいこう	シンガポール。
+j	星漢	せいかん	銀河。銀漢。
+j	星点	せいてん	漢文を訓読する際、仮名のかわりに漢字の四隅などに付…
+j	星眼	せいがん	美しい眼。
+j	星神	せいしん	星と星座を司る神。ほしがみ。
+j	星群	せいぐん	asterism (small group of …
+j	星芒	せいぼう	星の光芒。星の光。
+j	星蹕	せいひつ	行幸の路。
+j	星躔	せいてん	月、星の運行。星度。
+j	星間	せいかん	interstellar
+j	星雲	せいうん	a nebula
+j	星震	せいしん	恒星や中性子星などで発生する震動。
+j	星霜	せいさう	time, years
+j	星霜	せいそう	time, years
+j	星風	せいふう	恒星風。
+j	昭南	せうなん	Syonan, Singapore (an isl…
+j	晴天	せいてん	clear skies
+j	晴明	せいめい	空が晴れて澄み渡ること。
+j	晴暄	せいけん	晴れて温かいさま。
+j	晴朗	せいらう	serene, clear
+j	晴朗	せいろう	serene, clear
+j	晴眼	せいがん	（盲者からみて）はっきり目が見える人。
+j	晴空	せいくう	clear sky
+j	晴軒	せいけん	晴天の軒。
+j	染心	せんしん	性欲などの煩悩に汚れた心。
+j	染心	せんじん	性欲などの煩悩に汚れた心。
+j	染料	せんれう	dye
+j	染毛	せんもう	髪の毛を染めること。
+j	染法	せんぽう	（せんぽう）染色する方法。
+j	染浴	せんよく	染色のための液。また、それを容れる容器。
+j	染髪	せんぱつ	髪の毛を染めること。
+j	栓塞	せんそく	栓で塞ぐこと。
+j	栓孔	せんこう	栓をさすための孔。
+j	栓抜き	せんぬき	bottle opener; corkscrew
+j	栖巌	せいがん	岩屋。洞穴。
+j	栴檀	せんだん	bead tree (Melia azedarac…
+j	栴檀	センダン	bead tree (Melia azedarac…
+j	桟香	せんこう	水に入れると浮かぶ香木。
+j	棲居	せいきょ	residence
+j	棲居	せいきよ	residence
+j	棲禽	せいきん	巣にいる鳥。
+j	棲魂	せいこん	心を休めること。
+j	棲鳳	せいほう	鳳が棲むこと。
+j	楔形	せっけい	楔のような形状であること。
+j	正人	せいじん	a male given name
+j	正仮名	せいかな	"correct kana": synonym o…
+j	正伝	せいでん	誇張などがない正確で正式な伝記。
+j	正体	せいたい	a natural, original, true…
+j	正作	せいさく	a male given name
+j	正信	せいしん	a male given name
+j	正俸	せいほう	官俸。
+j	正兵	せいへい	正正堂堂と正面から戦う軍隊。
+j	正典	せいてん	canon
+j	正円	せいえん	ゆがみのない完全な円。真円。
+j	正則	せいそく	correct rule
+j	正剛	せいごう	a male given name
+j	正副	せいふく	正と副。
+j	正割	せいかつ	secant
+j	正劇	せいげき	旧劇に対し、台詞や仕草を主とする新劇。
+j	正北	せいほく	まさに北の方角。
+j	正南	せいなん	まさに南の方角。
+j	正号	せいがう	plus sign
+j	正号	せいごう	plus sign
+j	正名	せいめい	名を正し、実質と一致させること。
+j	正員	せいいん	（しょういん）規定された定員内の職員。
+j	正善	せいぜん	正しく、理にかなっていること。また、そのようなさま。
+j	正堂	せいどう	（せいどう）表御殿。正殿。
+j	正塩	せいえん	水素イオンも水酸化物イオンも含まない塩。
+j	正妻	せいさい	legal wife
+j	正学	せいがく	（せいがく）正統な正しい学問。
+j	正官	せいかん	位階に相当する官。
+j	正室	せいしつ	one's legal wife (rather …
+j	正宴	せいえん	式場などで行う正式な形の宴会。
+j	正寝	せいしん	正殿。寝殿。
+j	正対	せいたい	対象に対し面と向かい合うこと。
+j	正式	せいしき	formal, official
+j	正弦	せいげん	sine
+j	正当	せいとう	right, legitimate, allowa…
+j	正心	せいしん	心を正しくすること。また、その心。
+j	正戦	せいせん	正正堂堂と行う戦争。
+j	正房	せいぼう	正寝。
+j	正拳	せいけん	人差し指から小指を掌側に曲げ、親指を曲げた四指の上…
+j	正接	せいせつ	tangent
+j	正教	せいけう	Orthodoxy (the Eastern Or…
+j	正数	せいすう	positive number
+j	正文	せいぶん	a male given name
+j	正方	せいほう	square
+j	正旦	せいたん	正月一日の朝。元旦。
+j	正明	せいめい	a male given name
+j	正朔	せいさく	元日。
+j	正格	せいかく	一定の規則に従っていること。また、その規則。
+j	正梱	せいこん	正しく梱包された状態。
+j	正業	せいげふ	upstanding line of busine…
+j	正楽	せいがく	courtly music
+j	正正	せいせい	正しく整っていること。また、そのようなさま。
+j	正殿	せいでん	宮殿の中心となる建造物。
+j	正法	せいほう	correct rule
+j	正用	せいよう	正しい用法。
+j	正監	せいかん	獄官。
+j	正看	せいかん	「正看護師」の略。
+j	正眼	せいがん	（せいがん）正視すること。
+j	正確	せいかく	accurate; exact; correct;…
+j	正税	せいぜい	律令制で国や郡の正倉に貯蔵された田租。
+j	正筆	せいひつ	その人が本当に書いた筆跡。肉筆。真筆。
+j	正答	せいたふ	answering correct
+j	正答	せいとう	answering correct
+j	正箱	せいばこ	梱包されたまま開封されていない箱。
+j	正系	せいけい	正しい血筋や系統。
+j	正経	せいけい	正しい道。
+j	正統	せいとう	legitimate; orthodox
+j	正緊	せいきん	本当。
+j	正聘	せいへい	正使。
+j	正行	せいこう	correct practices for liv…
+j	正装	せいそう	full dress, formal dress
+j	正襟	せいきん	襟を正し、容儀を整えること。
+j	正規化	せいきか	normalisation
+j	正解	せいかい	correct answer
+j	正訓	せいくん	漢字本来の意味に即した正しい訓。
+j	正論	せいろん	just argument
+j	正道	せいだう	correct path, path of rig…
+j	正道	せいどう	correct path, path of rig…
+j	正邪	せいじゃ	right and wrong
+j	正配	せいはい	正当（正式）な配偶者。
+j	正門	せいもん	main entrance, main gate
+j	正院	せいいん	明治初期の太政官制の最高機関。
+j	正陪	せいばい	正と副。正副。
+j	正陽	せいよう	陰暦四月。
+j	正音	せいおん	on'yomi pronunciation of …
+j	正餐	せいさん	dinner
+j	正鵠	せいこう	弓の的の中心にある黒い点。
+j	正鵠	せいこく	弓の的の中心にある黒い点。
+j	殲敵	せんてき	敵を滅ぼすこと。
+j	殲滅	せんめつ	annihilation, eradication…
+j	殺業	せつごう	十悪業の一つ。生き物を殺害する業。
+j	殺賊	せつぞく	阿羅漢。
+j	氈毳	せんぜい	毛織物。
+j	氈褥	せんぞく	毛織りの敷物
+j	汕頭	せんとう	Shantou (a prefecture-lev…
+j	沾袍	せんぽう	（涙などで）衣の胸元を濡らすこと。
+j	泄瀉	せっしゃ	下痢。腹下し。
+j	泉井	せんせい	自噴の井戸。
+j	泉亭	せんてい	泉水のそばのあずまや。
+j	泉原	せんげん	泉源。
+j	泉声	せんせい	泉から水が湧き出る音。
+j	泉水	せんすい	a surname
+j	泉源	せんげん	源。水源。
+j	泉石	せんせき	泉と岩石。
+j	泉質	せんしつ	温泉、鉱泉の水の化学的な性質。
+j	泉門	せんもん	fontanelle/fontanel, soft…
+j	洗刷	せんさつ	洗うこと。
+j	洗剔	せんてき	洗って取り去ること。
+j	洗剤	せんざい	detergent
+j	洗卵	せんらん	washing of an egg
+j	洗掘	せんくつ	水流により川底や堤防が削り取られること。
+j	洗浴	せんよく	湯浴み。入浴。
+j	洗滌	せんでき	rinsing
+j	洗濯	せんたく	laundry, washing
+j	洗濯	せんだく	laundry, washing
+j	洗眼	せんがん	washing the eyes
+j	洗礼	せんれい	baptism
+j	洗米	せんまい	washed rice
+j	洗練	せんれん	refinement, polish (clean…
+j	洗脳	せんなう	brain-washing
+j	洗脳	せんのう	brain-washing
+j	洗足	せんそく	汚れた足を洗うこと。また、それに使う湯水。
+j	洗足	せんぞく	汚れた足を洗うこと。また、それに使う湯水。
+j	洗身	せんしん	入浴時に全身を洗う行為。
+j	洗車	せんしゃ	washing an automobile or …
+j	洗面	せんめん	washing one's face
+j	洗顏	せんがん	
+j	洗顔	せんがん	washing one's face
+j	洗髪	せんぱつ	washing one's hair, a sha…
+j	浅俗	せんぞく	凡俗。卑俗。
+j	浅劣	せんれつ	浅はかで劣っていること。また、そのようなさま。
+j	浅堆	せんたい	海底で水深は浅いが州や礁より深いもの。堆。バンク。
+j	浅学	せんがく	学問や知識が未熟なこと。
+j	浅慮	せんりょ	浅はかな考え。浅見。
+j	浅才	せんさい	浅はかな才能。わずかな才能。
+j	浅海	せんかい	shallow sea
+j	浅眠	せんみん	眠りが浅いこと。熟睡できない状態。
+j	浅紅	せんこう	薄い紅色。桃色。
+j	浅聞	せんぶん	浅はかな見聞。物事を知らないこと。
+j	浅薄	せんぱく	shallow; disapproving a p…
+j	浅裂	せんれつ	植物の葉の縁が浅く切れ込むこと。また、その切れ込み。
+j	浅見	せんけん	a surname
+j	浅言	せんげん	鄙言。
+j	浅近	せんきん	浅はかなこと。
+j	浅香	せんこう	a surname
+j	浅黄	せんこう	薄い黄色。
+j	浙江	せっこう	Zhejiang (a province in e…
+j	海象	せいうち	a walrus
+j	海象	セイウチ	a walrus
+j	消化	せうくわ	digestion
+j	消失	せうしつ	the act of vanishing, a d…
+j	消毒	せうどく	disinfection
+j	消滅	せうめつ	lapse of a right
+j	消灯	せうとう	putting out the light(s);…
+j	消臭	せうしう	elimination of stenches
+j	消除	せうぢよ	vanishing, disappearance,…
+j	消雪	せうせつ	elimination of snow
+j	消音	せうおん	muting (sound)
+j	涎滴	せんてき	涎。
+j	淅淅	せきせき	風雨の音がするさま。
+j	淅瀝	せきれき	風雨の音や落葉の音などのものさびしいさま。
+j	淒然	せいぜん	寒いこと。涼しいこと。
+j	淒緊	せいきん	身が引き締まるさま。
+j	清㵎	せいかん	清流の谷川。
+j	清一	せいいち	a male given name
+j	清倹	せいけん	慎ましやかなさま。
+j	清健	せいけん	達者。
+j	清僧	せいそう	肉食、妻帯をせず行いが正しい僧侶。
+j	清冷	せいれい	清澄で冷たいこと。また、そのようなさま。
+j	清厳	せいげん	清廉で厳正なさま。
+j	清吉	せいきち	a male given name
+j	清名	せいめい	高潔の名声。清誉。
+j	清吟	せいぎん	清らかな声で吟詠すること。
+j	清安	せいあん	安らかなこと。また、そのようなさま。
+j	清容	せいよう	清らかな姿。
+j	清寧	せいねい	世が清く平穏なこと。また、そのようなさま。
+j	清平	せいへい	世の中が清らかに治まり、穏やかなさま。
+j	清廉	せいれん	upright, honest
+j	清心	せいしん	心の汚れを取り去り清らかにすること。また、そのよう…
+j	清愨	せいかく	素直なさま。
+j	清愿	せいげん	清愨なさま。
+j	清拭	せいしき	sponge bath
+j	清掃	せいそう	cleaning
+j	清新	せいしん	fresh
+j	清明	せいめい	Qingming ("Pure Brightnes…
+j	清晏	せいあん	安らかなこと。また、そのようなさま。
+j	清書	せいしょ	rewriting of handwritten …
+j	清朗	せいろう	清々しいこと。
+j	清樾	せいえつ	清らかで涼しい木陰。
+j	清水	せいすい	springwater
+j	清淡	せいたん	清らかでさっぱりしていること。
+j	清清	せいせい	不快なことがなくなり気分がさっぱりするさま。溜飲が…
+j	清減	せいげん	清痩なさま。
+j	清源	せいげん	a surname
+j	清溷	せいこん	かわや。便所。
+j	清潔	せいけつ	clean; hygienic
+j	清濁	せいだく	good and evil
+j	清然	せいぜん	清らかなこと。
+j	清爽	せいそう	空気などが爽やかで清々しい様。
+j	清玄	せいげん	奥深いさま。
+j	清玩	せいがん	清賞の品。
+j	清琴	せいきん	琴の音。
+j	清痩	せいそう	気品があり、スレンダーなさま。
+j	清発	せいはつ	清らかで、ひらめきがあること。頭がさえていること。…
+j	清白	せいはく	pure and clean
+j	清眸	せいぼう	目元が涼しいさま。
+j	清眼	せいがん	澄んだ眼。
+j	清禁	せいきん	宮殿。
+j	清福	せいふく	精神的に清浄な幸福。
+j	清穆	せいぼく	清らかで和やかなこと。手紙で相手を気遣い使われる語。
+j	清算	せいさん	settlement of accounts
+j	清節	せいせつ	穢れのない清らかな貞節。
+j	清簡	せいかん	手軽なさま。
+j	清絃	せいげん	清琴。
+j	清絶	せいぜつ	この上なく清らかなさま。
+j	清脆	せいぜい	清く脆い、儚いこと。また、そのさま。
+j	清芬	せいぶん	清香。
+j	清華家	せいがけ	日本で太政大臣に任命される家柄。主に三条家、西園寺…
+j	清蔵	せいぞう	a male given name
+j	清虚	せいきょ	心が潔白で欲やけがれがないこと。また、そのようなさ…
+j	清覧	せいらん	その人が見ること。
+j	清言	せいげん	清談。
+j	清談	せいだん	世俗を離れた高尚な話。
+j	清謐	せいひつ	清らかで物静かなこと。また、そのさま。
+j	清貧	せいひん	honest poverty
+j	清賢	せいけん	清く賢いさま。
+j	清越	せいえつ	声などが澄んで調子が高いこと。
+j	清蹕	せいひつ	行列の先駆。
+j	清適	せいてき	清々しく、心安らかなこと。また、そのようなさま。
+j	清邃	せいすい	清らかで邃いこと。また、そのさま。
+j	清酒	せいしゅ	sake, Japanese clear rice…
+j	清閑	せいかん	俗事に煩わされず静かなこと。手紙などで相手の閑暇な…
+j	清閟	せいひつ	奥深いこと。そのさま。
+j	清音	せいおん	a voiceless and unaspirat…
+j	清顔	せいがん	清標。
+j	清顕	せいけん	高位。
+j	清風	せいふう	清らかで爽やかな風。
+j	清香	せいこう	a female given name
+j	清魂	せいこん	清い心。
+j	清麗	せいれい	清く、麗しいこと。また、そのようなさま。
+j	済世	せいせい	salvation; relief; saving…
+j	済乏	せいぼう	貧困を救済すること。
+j	済幣	せいへい	救幣。
+j	済民	せいみん	民を苦しみから救済すること。
+j	済済	せいせい	数が多く盛んであること。また、そのようなさま。
+j	渫悪	せつあく	邪悪。
+j	溝	せせなき	ditch, channel
+j	溝	せせなぎ	ditch, channel
+j	溝	せせなげ	ditch, channel
+j	潜伏	せんぷく	concealment
+j	潜入	せんにふ	infiltration
+j	潜函	せんかん	土木建築工事における基礎工事で使用される鋼鉄製、コ…
+j	潜勢	せんせい	内面に潜んでいて表に現れない勢力。
+j	潜在	せんざい	hiddenness; invisibility;…
+j	潜声	せんせい	ひそひそ話の声。
+j	潜性	せんせい	recessiveness
+j	潜水	せんすい	diving underwater
+j	潜窟	せんくつ	隠れ家。
+j	潜精	せんせい	精神を集中すること。
+j	潜考	せんこう	心を落ち着かせて深く考えること。潜思。
+j	潜脱	せんだつ	法令やルールで禁止されている手段とその結果をその他…
+j	潜航	せんこう	underwater travel
+j	潜蔵	せんぞう	密かに隠し持つこと。
+j	潜行	せんかう	traveling underwater
+j	潜行	せんこう	traveling underwater
+j	潺湲	せんかん	清水が流れるさま。また、その音。
+j	潺潺	せんせん	murmuring, bubbling (rive…
+j	瀟洒	せうしや	stylish; smart; elegant
+j	瀬戸内	せとうち	Region of coastal areas a…
+j	瀬戸物	せともの	earthenware, china
+j	瀬戸茅	せとがや	Japanese foxtail (Alopecu…
+j	瀬戸茅	セトガヤ	Japanese foxtail (Alopecu…
+j	瀬戸際	せとぎわ	make or break moment, cri…
+j	焼結	せうけつ	sintering
+j	焼身	せうしん	self-immolation
+j	焼酎	せうちう	shochu (Japanese spirit d…
+j	煎じる	せんじる	to boil; to decoct; to in…
+j	煎法	せんぽう	煎じ薬などを煎じる方法。
+j	煎熬	せんごう	汁が無くなるまで煮詰めること。
+j	煎盤	せんばん	ものを煎るための浅い鍋。せんば。
+j	煎茶	せんちゃ	sencha (infused green tea)
+j	煎薬	せんやく	煮出してそれを飲む薬。煎じ薬。
+j	煎餅	せんべい	a Chinese sweet made out …
+j	照合	せうがふ	collation; comparison
+j	燒酒	せうしゆ	soju (Korean spirit tradi…
+j	牲幣	せいへい	生贄と供物。
+j	牲盟	せいめい	血盟すること。
+j	璇弁	せんべん	瓊弁。
+j	璿弁	せんべん	美玉で飾った馬の冠や頭部の飾。
+j	璿族	せんぞく	王族。
+j	甎砌	せんせい	かわらを敷いた道。
+j	甎縫	せんぽう	煉瓦を重ねた目地。
+j	生人	せいじん	生きている人。
+j	生体	せいたい	organism; living thing; a…
+j	生光	せいこう	皆既食が終わること。
+j	生兵	せいへい	まだ戦いに出たことがない兵士。
+j	生前	せいぜん	during one's lifetime, wh…
+j	生動	せいどう	life, vitality
+j	生協	せいけふ	生活協同組合（消費生活協同組合）の略。コープ（co…
+j	生卵	せいらん	なまの卵。
+j	生口	せいこう	prisoner of war or slave …
+j	生命	せいめい	life; one's existence
+j	生外	せいがい	世外。世俗を離れた場所。
+j	生存	せいぞん	living, life
+j	生孩	せいがい	乳児。
+j	生平	せいへい	普段。日常。平生。
+j	生年	せいねん	number of years since one…
+j	生彩	せいさい	vividness
+j	生得	せいとく	one's nature or personali…
+j	生息	せいそく	habitation
+j	生態	せいたい	ecology, mode of life of …
+j	生憎	せいそう	unfortunate, unfortunately
+j	生成	せいせい	generation, formation
+j	生擒	せいきん	生け捕り。生獲。
+j	生放	せいほう	賃金。
+j	生新	せいしん	いきいきとしていて新しいこと。また、そのようなさま。
+j	生日	せいじつ	a lucky day, auspicious d…
+j	生木	せいぼく	なまき。
+j	生果	せいくわ	raw fruit, fresh fruit
+j	生格	せいかく	genitive case
+j	生検	せいけん	biopsy
+j	生業	せいげふ	the occupation through wh…
+j	生歿	せいぼつ	生まれること死ぬこと。誕生と死歿。
+j	生残	せいざん	生き残ること。生き残り。
+j	生殺	せいさつ	生かすことと殺すこと。
+j	生民	せいみん	民。人民。
+j	生活	せいかつ	life; livelihood; daily l…
+j	生物	せいぶつ	an organism; a life form
+j	生獲	せいかく	生け捕り。生擒。
+j	生産	せいさん	production
+j	生痕	せいこん	堆積物の表面や内部に残された古生物の足跡や穿孔、排…
+j	生相	せいそう	（せいそう）地層における古生物をはじめ堆積物の生物…
+j	生硬	せいかう	crude
+j	生硬	せいこう	crude
+j	生禽	せいきん	「生擒」の別表記。
+j	生絹	せいけん	採取されまだ精錬されていない生糸。また、それを使用…
+j	生縑	せいけん	生絹。
+j	生繭	せいけん	煮沸や乾燥を行う前の蚕が作ったままの繭。
+j	生者	せいしゃ	living thing, animate bei…
+j	生者	せいじゃ	living thing, animate bei…
+j	生肉	せいにく	生の肉。鮮度の良い肉。
+j	生育	せいいく	growth
+j	生蕃	せいばん	uncivilized aboriginal
+j	生薬	せいやく	a natural remedy, an herb…
+j	生言	せいげん	誹謗する言葉。
+j	生計	せいけい	livelihood
+j	生誕	せいたん	birth; nativity
+j	生謀	せいぼう	生計。
+j	生還	せいかん	survival
+j	生霊	せいれい	vengeful spirit
+j	生面	せいめん	新しい方面。
+j	生養	せいよう	育て養うこと。
+j	生魂	せいこん	魂魄。
+j	生魚	せいぎょ	(せいぎょ) 生きている魚。
+j	生鮮	せいせん	fresh (food)
+j	瘠痩	せきそう	痩せること。痩せていること。
+j	瘠薄	せきはく	barren (not producing veg…
+j	盛世	せいせい	国力が盛んで太平な時代。盛代。
+j	盛代	せいだい	国力が盛んで太平な時代。盛世。
+j	盛会	せいかい	successful meeting
+j	盛冬	せいとう	冬の寒い盛り。
+j	盛名	せいめい	great reputation; fame; r…
+j	盛壮	せいそう	若く勢いが盛んなこと。
+j	盛大	せいだい	magnificent
+j	盛年	せいねん	prime of age
+j	盛徳	せいとく	立派な徳。優れた徳。
+j	盛挙	せいきょ	大きく盛んに行う計画や事業。
+j	盛旺	せいおう	気持ちや力が盛んなこと。また、そのようなさま。
+j	盛明	せいめい	昌盛の世。
+j	盛粧	せいそう	派手な化粧をすること。
+j	盛者	せいしゃ	a prosperous person, the …
+j	盛者	せいじゃ	a prosperous person, the …
+j	盛行	せいこう	盛んに行われること。
+j	盛衰	せいすい	rise and fall
+j	盛装	せいそう	華美に着飾ること。
+j	盛運	せいうん	fortune, prosperity, good…
+j	盛顔	せいがん	立派な顔。
+j	省作	せいさく	a male given name
+j	省察	せいさつ	反省し善悪、是非を自ら熟考すること。
+j	省文	せいぶん	文章の字句を省くこと。また、その字句。
+j	省方	せいほう	巡狩。
+j	省筆	せいひつ	文の語句を省略すること。また、その文。
+j	省約	せいやく	abbreviation; shortening
+j	省見	せいけん	恩顧。
+j	省親	せいしん	帰省し、親や親類にあって安否などを確認したりするこ…
+j	省覲	せいきん	帰省し両親や目上の人に面会して安否を問うこと。
+j	省銭	せいせん	江戸時代の通貨で百文未満であっても百文として通用さ…
+j	省鍳	せいかん	省察すること。
+j	眚愆	せいけん	減罪すること。
+j	眚病	せいへい	妖気の齎す病気。
+j	睛眸	せいぼう	瞳。黒目。
+j	睛迷	せいめい	目眩がすること。
+j	瞻奉	せんぽう	かしずくこと。
+j	瞻望	せんぼう	遠くを見渡すこと。
+j	瞻省	せんせい	孝養すること。
+j	石人	せきじん	人物の石像。
+j	石仏	せきぶつ	stone Buddhist image
+j	石像	せきぞう	stone statue
+j	石刀	せきとう	石でつくられた刀。
+j	石刃	せきじん	細長く両側に平行に近い刃を持つ石器。ブレード。
+j	石剣	せっけん	石でつくられた剣。
+j	石坑	せっこう	岩石で囲った穴。
+j	石塊	せっかい	a mass of stone; pebble
+j	石塔	せきとう	stone monument, especiall…
+j	石墨	せきぼく	炭素からなる元素鉱物の一つ。結晶構造は六方晶系で、…
+j	石室	せきしつ	stone hut
+j	石巌	せきがん	岩。岩石。
+j	石工	せきこう	stonemason; mason
+j	石工	せっこう	stonemason; mason
+j	石帯	せきたい	a stone or gem decorated …
+j	石庭	せきてい	
+j	石径	せっけい	石が多い小さな道。
+j	石拳	せきけん	（せっけん、せきけん）石のように固いこぶし。
+j	石拳	せっけん	（せっけん、せきけん）石のように固いこぶし。
+j	石文	せきぶん	石碑、かわらなどに刻まれた文。
+j	石斛	せっこく	Dendrobium moniliforme, a…
+j	石斛	セッコク	Dendrobium moniliforme, a…
+j	石材	せきざい	stone, as a building mate…
+j	石板	せきばん	薄い粘板岩の板に木製の枠をつけた持ち歩きのできる板…
+j	石核	せっかく	石器をつくった際に剝片などを剝ぎ取って残った部分。
+j	石棺	せきかん	sarcophagus
+j	石棺	せっかん	sarcophagus
+j	石椁	せきかく	石造の外側の棺。
+j	石榴	せきりう	pomegranate
+j	石槍	せきそう	打製石器の一種で、先端を尖らせた槍先形の石器。
+j	石槨	せっかく	古墳などで棺を覆う石でつくられた外側の箱状のもの。
+j	石潭	せきたん	岩の淵。
+j	石灰	せっかい	lime
+j	石炭	せきたん	coal
+j	石版	せきばん	a lithograph
+j	石盤	せきばん	slate, a sheet of slate u…
+j	石礫	せきれき	小さい石。石ころ。
+j	石窟	せっくつ	rock cave
+j	石竹	せきちく	A China pink (Dianthus ch…
+j	石竹	セキチク	A China pink (Dianthus ch…
+j	石筆	せきひつ	蝋石などを棒状に固めた筆記用具。
+j	石経	せっけい	石に刻まれた儒教などの経典。
+j	石綿	せきめん	asbestos
+j	石膏	せきかう	plaster
+j	石膏	せっこう	plaster
+j	石花	せきくゎ	a shellfish, particularly…
+j	石苔	せきたい	石の表面に生えた苔。
+j	石英	せきえい	quartz
+j	石蕊	せきずい	花苔。
+j	石蝋	せきらふ	paraffin
+j	石蝋	せきろう	paraffin
+j	石製	せきせい	stonen, made of stone
+j	石質	せきしつ	石の性質。
+j	石逕	せっけい	石が多い小さな道。
+j	石郭	せきかく	石造の外郭。
+j	石鎗	せきそう	石器時代につくられた石製の槍先。
+j	石闕	せっけつ	中国で帝王の墓や霊廟の前の左右に一対で建立された彫…
+j	石限	せきげん	石造の閘門。
+j	石階	せっかい	石でつくった階段。石段。
+j	石音	せきおん	（いしおと）碁石を打つ音。碁石が碁盤に触れて立てる…
+j	石髄	せきずい	鍾乳石。
+j	石鹸	せっけん	soap
+j	石鹼	せっけん	洗剤の一つ。代表的な製法は、動植物の油脂を水酸化ナ…
+j	石龕	せきがん	石の塔。石塔。
+j	砌水	せいすい	砌の水。
+j	硝安	せうあん	ammonium nitrate
+j	硝石	せうせき	saltpetre
+j	硝酸	せうさん	nitric acid (HNO₃)
+j	碩学	せきがく	学問が広く、深いこと。また、そのような人。博学。
+j	碩彦	せきげん	名士。
+j	碩画	せきかく	大計。
+j	碩言	せきげん	出任せ。大言。
+j	磧礫	せきれき	河原の小石。
+j	秈粟	せんぞく	うるちの粟。
+j	積分	せきぶん	integration
+j	積壑	せきがく	深い谷。
+j	積学	せきがく	学問の功を積むこと。また、そのような人。
+j	積層	せきそう	層を積み重ねること。ラミネート。
+j	積年	せきねん	long-standing, of many ye…
+j	積憂	せきゆう	幾重にも重なる憂いや心配ごと。
+j	積日	せきじつ	長い年月がたつこと。多くの日々。
+j	積送	せきそう	荷物を積んで送ること。
+j	積雪	せきせつ	fallen snow; snowfall
+j	積雲	せきうん	cumulus
+j	穽陥	せいかん	落とし穴。陥穽。
+j	穿井	せんせい	井戸を掘ること。
+j	穿孔	せんこう	perforating
+j	穿掘	せんくつ	穿ち、掘ること。
+j	穿札	せんさつ	甲を身に着用すること。
+j	穿窆	せんぺん	塚穴。
+j	穿貫	せんかん	貫き通すこと。
+j	穿鑿	せんさく	穴を穿つこと。
+j	穿頭	せんとう	
+j	窃取	せっしゅ	theft
+j	窃権	せっけん	権勢を盗むこと。
+j	窃用	せつよう	他人の物を断わりもなく使用すること。
+j	窃盗	せっとう	larceny, theft
+j	窃眸	せつぼう	盗み見ること。
+j	窃賊	せつぞく	こそどろ。小盗。
+j	競り合い	せりあい	competition
+j	競り合い	せりあひ	competition
+j	競り合う	せりあう	to struggle, to strive to…
+j	競り合う	せりあふ	to struggle, to strive to…
+j	競り売り	せりうり	
+j	競合	せりあい	competition, rivalry
+j	競売り	せりうり	
+j	笑納	せうなふ	accepting (a humble gift)
+j	笑覧	せうらん	looking at or watching so…
+j	筌蹄	せんてい	漁具の筌と猟に使う蹄。
+j	箭眼	せんがん	城内から外部へ矢を射るために櫓などの壁に開けられた…
+j	箭萌	せんぼう	初物の筍。
+j	箭鏃	せんぞく	やじり。
+j	節する	せっする	控える。節減する。〔何かの〕利用や消費を減らす。
+j	節倹	せっけん	無駄な費用を省き倹約すること。
+j	節刀	せっとう	将軍や遣唐使に対し天皇が任命の証として与えた刀。
+j	節分	せちぶん	立春 (Risshun), the first d…
+j	節分	せつぶん	立春 (Risshun), the first d…
+j	節制	せっせい	temperance; self-control;…
+j	節度使	せつどし	jiedushi (a regional mili…
+j	節操	せっそう	integrity; fidelity; prin…
+j	節文	せつぶん	節度を保ち、整えること。
+j	節旄	せつぼう	かつての中国で天子から征将や使節に任命の証として与…
+j	節水	せっすい	conservation of water
+j	節水	せつすい	conservation of water
+j	節減	せつげん	reduction
+j	節点	せってん	a joint (point where two …
+j	節用	せつよう	費用なとを節約すること。
+j	節税	せつぜい	法律上の規定に従い、税負担の軽減を図ること。
+j	節約	せつやく	frugality
+j	節酒	せっしゅ	飲む酒の量を減らすこと。
+j	節録	せつろく	適度に取捨して記録すること。また、その記録。
+j	節電	せつでん	the act of saving electri…
+j	籍甚	せきじん	評判、名声が高いさま。
+j	籍籍	せきせき	言い囃すさま。やかましいさま。騒がしいさま。
+j	精々	せいぜい	to the best of one's abil…
+j	精一	せいいち	a male given name
+j	精健	せいけん	強健。
+j	精到	せいとう	詳しくて行き届いていること。また、そのさま。
+j	精励	せいれい	conscientiousness or dete…
+j	精勤	せいきん	（せいきん）職務や学業を休むことなく真面目に励むこ…
+j	精包	せいほう	外部生殖器が発達していない動物の雄が、生殖器の付属…
+j	精厳	せいげん	厳密なこと。また、そのようなさま。
+j	精嚢	せいのう	男性生殖器の一部。精液の成分の一部を分泌する。
+j	精密	せいみつ	detailed
+j	精察	せいさつ	詳しく観察し、調査すること。
+j	精巣	せいそう	testicle
+j	精巧	せいかう	elaborate, delicate, exqu…
+j	精巧	せいこう	elaborate, delicate, exqu…
+j	精彩	せいさい	brilliance, luster, color…
+j	精悍	せいかん	fearless and determined
+j	精明	せいめい	道理に詳しく、明白なさま。
+j	精根	せいこん	精力と根気。
+j	精検	せいけん	精密検査。
+j	精液	せいえき	semen
+j	精深	せいしん	ある事柄について、深い知識を有すること。また、そう…
+j	精研	せいけん	詳しく研究すること。
+j	精確	せいかく	詳しくて間違いのない様子。
+j	精神	せいしん	psyche; spirit; soul; min…
+j	精穀	せいこく	穀物をついて精白すること。
+j	精算	せいさん	accurate calculation
+j	精管	せいかん	vas deferens
+j	精米	せいまい	rice cleaning / polishing
+j	精粋	せいすい	純粋で最も良いところ。
+j	精精	せいぜい	努め、励むこと。尽力すること。
+j	精糖	せいとう	粗糖を精製し白糖にすること。また、その白糖。
+j	精紡	せいぼう	紡績最後の工程で、粗紡した糸に強度や弾力などを持た…
+j	精索	せいさく	陰嚢から鼠径部の腹壁まで至る小指ほどの太さの管のよ…
+j	精細	せいさい	細かな点まで詳しいこと。
+j	精肉	せいにく	選び抜かれた上等な食肉。骨や腱、筋などをとりさり食…
+j	精舎	せいしゃ	a monastery, a temple, a …
+j	精製	せいせい	quality production
+j	精誠	せいせい	absolute sincerity; good …
+j	精誠	せいぜい	absolute sincerity; good …
+j	精読	せいどく	careful reading
+j	精農	せいのう	営農に精励、努力、研究を欠かさない農民。
+j	精通	せいつう	mastery, proficiency, exp…
+j	精選	せいせん	careful selection
+j	精鉄	せいてつ	精練された鉄。
+j	精銅	せいどう	純度が99.9パーセント以上に精練された銅。
+j	精銭	せいせん	良質の銭貨。
+j	精鋭	せいえい	elite
+j	精鋼	せいかう	refined steel
+j	精鋼	せいこう	refined steel
+j	精錬	せいれん	鉱石から不純物を取り除き純度を高めること。
+j	精霊	せいれい	the spirit or soul of a t…
+j	精飲	せいいん	drinking, swallowing semen
+j	精髄	せいずい	物事の本質。
+j	精麦	せいばく	大麦を食用に精白すること。またそのようにした大麦。
+j	結合	せつごう	combination; coupling; bi…
+j	綫縫	せんぽう	糸で綴じること。また、糸で綴じた（線装本の）冊子。
+j	綴文	せつぶん	文章を綴ること。作文。
+j	線分	せんぶん	line segment
+j	線形	せんけい	linear
+j	線径	せんけい	wire diameter
+j	線材	せんざい	断面が丸く、直径が5ミリメートル程度の線状の鋼材。
+j	線束	せんそく	ある点を通る直線全体の集合。点Gを中心、Lを直線と…
+j	線源	せんげん	radioactivity source
+j	線画	せんぐわ	line art
+j	線端	せんたん	tip of a stroke
+j	線賊	せんぞく	賊の手引き役。
+j	線金	せんきん	はりがね。金属線。
+j	線香	せんこう	incense stick
+j	績学	せきがく	積学すること。
+j	繊仄	せんそく	細巧。
+j	繊切り	せんぎり	「千切り」の異表記。
+j	繊妍	せんけん	繊姸の別表記。
+j	繊姸	せんけん	細身で美しいさま。
+j	繊手	せんしゅ	か細くしなやかな手。
+j	繊毛	せんもう	とても細い毛。
+j	繊毳	せんぜい	細い毛。
+j	繊細	せんさい	delicate, fine (sensibili…
+j	繊維素	せんいそ	セルロースのこと。
+j	繊足	せんそく	纏足。
+j	繊麗	せんれい	ほっそりとして、美しいこと。また、その様子。
+j	羨息	せんそく	羨余。
+j	羨望	せんぼう	envy
+j	羨欲	せんよく	欲しがること。
+j	羨粟	せんぞく	余った穀物や食料。
+j	羶腥	せんせい	生臭いさま。
+j	羼雑	せんざつ	混じること。
+j	翦剔	せんてき	切って取り除くこと。
+j	翦断	せんだん	剪断の異表記。
+j	翦斷	せんだん	翦断の旧字体表記。
+j	聖なる	せいなる	adnominal of 聖なり (sei nar…
+j	聖パン	せいぱん	sacramental bread
+j	聖パン	せいパン	sacramental bread
+j	聖一	せいいち	a male given name
+j	聖世	せいせい	優れた天子が統治する時代。聖代。
+j	聖主	せいしゅ	徳が高く、優れた君主。
+j	聖人	せいじん	a term used to refer to B…
+j	聖仙	せいせん	a saint, a sage, a hermit…
+j	聖代	せいだい	聖なる天子が統治する時代。聖世。
+j	聖体	せいたい	the body of the emperor
+j	聖像	せいぞう	An icon; a sacred image o…
+j	聖典	せいてん	religious text
+j	聖別	せいべつ	神聖な用途に当てるために人・物を世俗的使用から区別…
+j	聖剣	せいけん	holy or sanctified sword
+j	聖君	せいくん	知徳が非常に優れた君主。
+j	聖哲	せいてつ	知力、徳行に優れ、道理をわきまえた人。
+j	聖善	せいぜん	極めて善いこと。
+j	聖域	せいいき	a sanctuary (consecrated …
+j	聖域	せいゐき	a sanctuary (consecrated …
+j	聖域	せーいき	a sanctuary (consecrated …
+j	聖堂	せいどう	Confucian temple
+j	聖壇	せいだん	神を祭祀する壇。
+j	聖女	せいじょ	saintess; female saint
+j	聖女	せいぢよ	saintess; female saint
+j	聖州	せいしう	São Paulo (a state of Bra…
+j	聖年	せいねん	ローマ巡礼者に特別な赦しが与えられる年。
+j	聖徳	せいとく	仏の優れた徳。
+j	聖心	せいしん	psyche; spirit; soul; min…
+j	聖恩	せいおん	天子（天皇）の恩。聖沢。
+j	聖愛	せいあい	pure love
+j	聖慮	せいりょ	天子がお考えになっていること。叡慮。
+j	聖戦	せいせん	a holy war
+j	聖断	せいだん	天子による決断、判断。
+j	聖斷	せいだん	聖断の旧字体表記。
+j	聖日	せいじつ	聖なる祝祭日。また、日曜日。
+j	聖明	せいめい	天子の徳が聡明で優れていること。また、そのようなさ…
+j	聖暦	せいれき	天子の年齢。宝算。
+j	聖書	せいしょ	the Bible
+j	聖杯	せいはい	the Holy Grail
+j	聖楽	せいがく	キリスト教の宗教音楽。
+j	聖槍	せいそう	lance that was used to pi…
+j	聖樹	せいじゅ	a male given name
+j	聖櫃	せいひつ	アーク。
+j	聖水	せいすい	holy water
+j	聖火	せいくわ	a sacred fire or flame
+j	聖王	せいおう	高徳な君主。
+j	聖瑞	せいずい	聖なる兆し。
+j	聖痕	せいこん	両手、両足、脇腹、額に磔刑に処せられたキリストが負…
+j	聖盃	せいはい	神聖なさかずき。
+j	聖眷	せいけん	天子の顧寵。
+j	聖神	せいしん	Holy Spirit; Holy Ghost
+j	聖祭	せいさい	カトリックにおける祭儀。
+j	聖算	せいさん	天皇の年齢。
+j	聖者	せいじゃ	saint, holy person
+j	聖血	せいけつ	キリストが流した血。
+j	聖訓	せいくん	a male given name
+j	聖詠	せいえい	
+j	聖賢	せいけん	聖人と賢人。
+j	聖跡	せいせき	聖人の事跡やその遺跡。
+j	聖蹟	せいせき	聖人の事跡やその遺跡。
+j	聖酒	せいしゅ	sacramental alcoholic bev…
+j	聖釘	せいてい	nail that was used to cru…
+j	聖門	せいもん	聖人の教え。特に孔子の教え。
+j	聖霊	せいれい	the Holy Spirit; the Holy…
+j	聖顔	せいがん	天子の顔。龍顔。
+j	聖餅	せいへい	聖変化する前のパン。
+j	聖餐	せいさん	Holy Communion; Eucharist
+j	聖餐	せいざん	Holy Communion; Eucharist
+j	聖騎士	せいきし	paladin
+j	聲域	せいいき	
+j	聲域	せいゐき	
+j	聲帶	せいたい	
+j	聲望	せいぼう	
+j	聲門	せいもん	
+j	肖像	せうざう	portrait
+j	背もたれ	せもたれ	backrest; back of a chair
+j	脊椎	せきつい	vertebra
+j	脊索	せきさく	動物（脊椎動物、原索動物）の背部にある棒状の支持器…
+j	脊髄	せきずい	spinal cord
+j	脊髓	せきずい	spinal cord
+j	腊毒	せきどく	猛毒。
+j	腊葉	せきよう	草木の花を厚めの書籍や厚く重ねた新聞紙などの間に押…
+j	腥羶	せいせん	生臭いこと。
+j	腥肉	せいにく	（生臭い）生肉。
+j	腺房	せんぼう	acinus
+j	腺様	せんよう	adenoid (folds of lymphat…
+j	腺疫	せんえき	strangles
+j	腺癌	せんがん	adenocarcinoma
+j	腺腫	せんしゅ	腺（分泌腺）にできる良性腫瘍。
+j	膻腥	せんせい	膻気。生臭いさま。
+j	臍帯	せいたい	umbilical cord
+j	舛雑	せんざつ	混じること。
+j	船主	せんしゅ	shipowner
+j	船体	せんたい	ship's hull
+j	船倉	せんさう	cargo hold, ship's hold
+j	船倉	せんそう	cargo hold, ship's hold
+j	船側	せんそく	船体の側面。
+j	船内	せんない	船の中。
+j	船列	せんれつ	列をなして進む船。
+j	船台	せんだい	船舶を建造や修理する際にその船体を載せるための台。
+j	船員	せんいん	a sailor; the crew
+j	船員	せんゐん	a sailor; the crew
+j	船団	せんだん	fleet
+j	船外	せんがい	outside of a 船 – boat (船)…
+j	船室	せんしつ	cabin (private room on a …
+j	船工	せんこう	shipbuilder, shipwright, …
+j	船幅	せんぷく	船体の最も広い所の幅。
+j	船底	せんてい	船体の底の部分。また、そのような形をしたもの。
+j	船影	せんえい	船の姿。
+j	船房	せんぼう	船内にある部屋。船室。
+j	船手	せんしゅ	船頭。船夫。かこ。
+j	船楼	せんろう	船舶の上甲板の上に高くつくられた建造物。
+j	船橋	せんけう	bridge (on a ship)
+j	船渠	せんきょ	船舶の建造や修繕などを行うための建造物。ドック。
+j	船種	せんしゅ	艦船、船艇など船舶の用途などに分けた種類。
+j	船窓	せんそう	porthole
+j	船篷	せんぽう	舟の篷。
+j	船籍	せんせき	ship's nationality; ship'…
+j	船腹	せんぷく	船舶のはらの部分。
+j	船舶	せんぱく	a vessel; a ship
+j	船舷	せんげん	船端。船縁。
+j	船艇	せんてい	ship, boat
+j	船艙	せんそう	船舶で、貨物を積んでおく場所。ふなぐら。
+j	船艦	せんかん	船舶と軍艦。
+j	船装	せんそう	船体自体が完成し、航海するための塗装や装備の設置な…
+j	船足	せんそく	船の速度。ふなあし。
+j	船隊	せんたい	目的を同じくする二隻以上の船舶によって構成される隊…
+j	船頭	せんどう	sea captain
+j	船首	せんしゅ	bow; prow
+j	船齢	せんれい	船が進水してから経過した年数。
+j	芟除	せんじょ	elimination, scything
+j	芟除	せんぢよ	elimination, scything
+j	芹沢	せりさわ	a surname
+j	芹沢	せりざわ	a surname
+j	芹澤	せりさわ	a surname
+j	芹澤	せりざわ	a surname
+j	荐臻	せんしん	（災いなどが）次々と起こること。しきりに発生するこ…
+j	菁翠	せいすい	鮮緑。
+j	菁茅	せいぼう	祭りの際、酒をそそぐ茅萱。
+j	萋菶	せいほう	茂ること。
+j	萋迷	せいめい	深く茂ること。
+j	蒸籠	せいろう	steamer basket
+j	蕭瑟	せうしつ	rustling in the air; soug…
+j	薦奉	せんぽう	供え物。供物。
+j	薦挙	せんきょ	recommendation
+j	薦擢	せんてき	推挙。
+j	薦牲	せんせい	供牲。
+j	薦籩	せんぺん	供物。
+j	薦臻	せんしん	（災いなどが）次々と起こること。しきりに発生するこ…
+j	薦言	せんげん	薦めること。
+j	薦骨	せんこつ	薦椎が成長して癒合してできた三角形の椎骨で骨盤を形…
+j	薺菜	せいさい	dried Capsella bursa-past…
+j	藉甚	せきじん	評判、名声が高いさま。
+j	藉藉	せきせき	言い囃すさま。やかましいさま。騒がしいさま。
+j	蘚帽	せんぼう	蘚類の蒴を覆う器官。
+j	蘚苔	せんたい	bryophyte, moss
+j	蚺蛇	せんじゃ	python (a type of snake)
+j	蜻蛉	せいれい	dragonfly
+j	蜻蜓	せいてい	large dragonfly, specific…
+j	蜻蜓	セイテイ	large dragonfly, specific…
+j	蝉吟	せんぎん	蝉が鳴くこと。また、その声。蝉語。
+j	蝉噪	せんそう	蝉のやかましい鳴き声。
+j	蝉声	せんせい	蝉の鳴き声。
+j	蝉翼	せんよく	「蟬翼」の別表記。
+j	蝉脱	せんだつ	世俗の雑事から抜け出し超然とすること。
+j	蝉退	せんたい	蝉の脱け殻。漢方で生薬の一つとして用いられる。
+j	蝉騒	せんそう	蝉のやかましい鳴き声。
+j	蟬冕	せんべん	蟬珥。
+j	蟬噪	せんそう	「蝉噪」の別表記。
+j	蟬声	せんせい	蝉の鳴き声。
+j	蟬翼	せんよく	蟬の羽。転じて、薄く軽いもの。
+j	蟬脱	せんだつ	世俗の雑事から抜け出し超然とすること。
+j	蟬蛻	せんぜい	蟬の脱け殻。
+j	蟬蜎	せんけん	美しいさま。
+j	蟬退	せんたい	蟬の脱け殻。漢方で生薬の一つとして用いられる。
+j	蟬騒	せんそう	「蝉騒」の別表記。
+j	蟾窟	せんくつ	「月」の異称。
+j	蟾精	せんせい	月。
+j	蟾蜍	せんじょ	a toad (amphibian similar…
+j	蟾蜍	せんじよ	a toad (amphibian similar…
+j	蟾蜍	センジョ	a toad (amphibian similar…
+j	製する	せいする	〔物を〕作る。製造する。
+j	製パン	せいぱん	production of bread
+j	製パン	せいパン	production of bread
+j	製作	せいさく	manufacture
+j	製函	せいかん	段ボールを組み立てること。製箱。
+j	製剤	せいざい	薬剤を製造すること。薬物を使用に適した形や状態にす…
+j	製品	せいひん	商品として製造したもの。
+j	製本	せいほん	book binding, bookmaking
+j	製材	せいざい	木材を製造すること。原木を切断して角材や板材に加工…
+j	製法	せいはふ	manufacturing method, tec…
+j	製法	せいほう	manufacturing method, tec…
+j	製炭	せいたん	charcoal production
+j	製産	せいさん	製造し産出すること。
+j	製箱	せいはこ	製函。
+j	製粉	せいふん	固形物を砕いて粉末を製造すること。狭義には穀物を挽…
+j	製缶	せいかん	can manufacture
+j	製芸	せいげい	科挙で使用する八俣文。
+j	製茶	せいちゃ	茶の葉を飲料用に精製すること。
+j	製菓	せいくわ	production of confections
+j	製薬	せいやく	manufacture of pharmaceut…
+j	製造	せいぞう	manufacturing
+j	製鉄	せいてつ	ironmaking, the manufactu…
+j	製銑	せいせん	鉄鉱石から銑鉄を製造すること。
+j	製鋼	せいかう	steelmaking
+j	製鋼	せいこう	steelmaking
+j	製錦	せいきん	錦を織ること。
+j	製錬	せいれん	鉱石などを精製して、地金や合金などをつくること。
+j	製陶	せいたう	pottery manufacture
+j	製陶	せいとう	pottery manufacture
+j	製革	せいかく	皮から革を製造すること。生皮から鞣革をつくること。
+j	製靴	せいくわ	shoemaking
+j	製餡	せいあん	餡を製造、加工すること。
+j	製麹	せいきく	麹を製造すること。
+j	製麺	せいめん	麺類を製造すること。
+j	褻翫	せつがん	なれて翫ぶこと。褻戯。
+j	褻言	せつげん	みだらで下品な言葉。なれなれしい言葉。
+j	西人	せいじん	西方の人。
+j	西北	せいほく	northwest
+j	西南	せいなん	southwest
+j	西収	せいしゅ	秋の収穫。
+j	西哲	せいてつ	西洋の賢人や哲学者。
+j	西域	せいいき	Western Regions
+j	西域	せいゐき	Western Regions
+j	西堂	せいどう	禅宗で他の寺院の先代の住持。
+j	西壁	せいへき	west wall
+j	西夏語	せいかご	the Tangut language
+j	西学	せいがく	西洋の学問。
+j	西安	せいあん	Xi'an (a subprovincial ci…
+j	西寧	せいねい	Xining (a city in China)
+j	西岸	せいがん	西側の岸。
+j	西康	せいかう	Xikang
+j	西康	せいこう	Xikang
+j	西廂	せいそう	西の方にある棟の部屋。
+j	西征	せいせい	軍隊が西方へと征くこと。西方にいる敵を征伐すること。
+j	西教	せいけう	Christianity; literary, w…
+j	西方	せいはう	west, western area
+j	西方	せいほう	west, western area
+j	西晋	せいしん	魏晋南北朝時代の王朝の一つ。265年に魏の禅譲によ…
+j	西暦	せいれき	the western calendar
+j	西書	せいしょ	西洋（の言語）で書かれた書物。洋書。
+j	西欧	せいおう	Western world
+j	西江	せいこう	Xi River
+j	西洋	せいやう	The West, western countri…
+j	西洋	せいよう	The West, western countri…
+j	西涯	せいがい	西方の水涯。
+j	西溟	せいめい	西海。
+j	西漢	せいかん	前漢の別称。
+j	西牕	せいそう	西側の窓。
+j	西独	せいどく	ヨーロッパの国ドイツ連邦共和国の通称である西独逸の…
+j	西獨	せいどく	
+j	西福	せいふく	福岡にある名門私立大学: 西南学院大学（西）および…
+j	西窓	せいそう	西側の窓。
+j	西端	せいたん	ある地域で一番西にある場所。
+j	西経	せいけい	west longitude
+j	西經	せいけい	西経の旧字体表記。
+j	西線	せいせん	鉄道や道路などで西の方向にあるまたは西に向かう路線。
+j	西蔵	せいざう	synonym of チベット (Chibetto…
+j	西蔵	せいぞう	synonym of チベット (Chibetto…
+j	西行	せいかう	late Heian- to early Kama…
+j	西行	せいこう	late Heian- to early Kama…
+j	西訳	せいやく	スペイン語に訳すこと。また、その文章。
+j	西走	せいそう	西の方向に走ること。
+j	西軍	せいぐん	内乱などで東西にわかれた軍勢のうち西側の軍勢。
+j	西進	せいしん	advancement westward
+j	西遊	せいゆう	西方特に西洋へ旅行すること。
+j	西遷	せいせん	西方へ遷移すること。
+j	西郊	せいこう	都市の西方の郊外。
+j	西陲	せいすい	西方の辺境。
+j	西風	せいふう	westerly; west wind
+j	西鮮	せいせん	Heian'nan-dō, Heianhoku-d…
+j	設備士	せつびし	設備に関する業務を行う職業。現在の日本では、各種の…
+j	設問	せつもん	posing of a question; or,…
+j	設営	せつえい	setup
+j	設定	せってい	setup; establishment; cre…
+j	設立	せつりつ	establishment, foundation…
+j	設言	せつげん	話すこと。
+j	設計	せっけい	plan
+j	設謀	せつぼう	計策。
+j	設険	せっけん	防備すること。
+j	詔書	せうしよ	imperial edict
+j	詮ずる	せんずる	つきつめる。
+j	詮索	せんさく	inquiry, investigation
+j	詮言	せんげん	詮議の言葉。
+j	誓命	せいめい	君主の戒めの言葉。
+j	誓断	せいだん	誓い。誓約。
+j	誓書	せいしょ	written oath
+j	誓約	せいやく	A vow, oath or pledge; an…
+j	誓言	せいげん	oath; pledge; vow
+j	誓言	せいごん	oath; pledge; vow
+j	誓願	せいがん	oath, pledge
+j	誠一	せいいち	a male given name
+j	誠佑	せいすけ	a male given name
+j	誠信	せいしん	真実。誠実。
+j	誠剛	せいごう	a male given name
+j	誠吉	せいきち	a male given name
+j	誠実	せいじつ	sincerity, honesty, integ…
+j	誠心	せいしん	sincerity
+j	誠悃	せいこん	誠心。
+j	誠感	せいかん	真心の感応。
+j	誠慊	せいけん	真心。
+j	誠策	せいさく	a male given name
+j	誠言	せいげん	真心のこもった言葉。
+j	誠言	せいごん	真心のこもった言葉。
+j	誠謹	せいきん	慎み深いさま。
+j	誠願	せいがん	誠心で願うこと。
+j	説客	せっかく	諸国をめぐり、遊説する士。
+j	説得	せっとく	persuasion
+j	説文	せつもん	文字の原義やそのなりたちを説明すること。
+j	説明	せつめい	explanation
+j	説服	せっぷく	相手を説き伏せ自分の意見に従わせること。
+j	説法	せっぽう	expounding the teachings …
+j	説法	せつぽふ	expounding the teachings …
+j	説者	せっしゃ	説を立てる者。
+j	説言	せつげん	言うこと。
+j	請平	せいへい	休戦。請成。
+j	請成	せいせい	休戦。請平。
+j	請托	せいたく	「請託」の別表記。
+j	請減	せいげん	律令制である一定以上の身分の者に死罪の場合は勅許、…
+j	請見	せいけん	謁見を願い出ること。
+j	請訓	せいくん	外国に駐在する大使、公使、使節などが本国政府に訓令…
+j	請託	せいたく	特別の配慮を頼むこと。
+j	請謁	せいえつ	身分の高い者に面会を請うこと。
+j	請讞	せいげん	下級の官吏が扱いづらい案件を上級機関に回付して審理…
+j	請願	せいがん	petition
+j	謭劣	せんれつ	浅劣。
+j	譔言	せんげん	善言。
+j	譫妄	せんもう	delirium
+j	譫言	せんげん	incoherent talk, nonsense
+j	責任	せきにん	responsibility
+j	責問	せきもん	問い質して白状させること。
+j	責言	せきげん	難詰すること。
+j	賎人	せんじん	「賤人」の別表記。
+j	賎者	せんしゃ	「賤者」の別表記。
+j	賎者	せんじゃ	「賤者」の別表記。
+j	賤人	せんじん	an inferior; a petty pers…
+j	賤俗	せんぞく	賤しいさま。また、賤しい風俗。
+j	賤劣	せんれつ	卑しく劣っていること。また、そのようなさま。
+j	賤卒	せんそつ	兵卒。
+j	賤息	せんそく	愚息。
+j	賤民	せんみん	plebeian
+j	賤者	せんしゃ	身分の低い人。賤人。
+j	賤者	せんじゃ	身分の低い人。賤人。
+j	賤臣	せんしん	身分の賤しい臣下。
+j	賤陋	せんろう	身分や人品が賤しいこと。
+j	贍足	せんそく	充足すること。
+j	赤化	せきくわ	communization; turning Re…
+j	赤卒	せきそつ	赤蜻蛉の別名。
+j	赤壁	せきへき	Chibi
+j	赤外	せきがい	infrared
+j	赤峰	せきほう	Chifeng (a prefecture-lev…
+j	赤日	せきじつ	a red sun, a bright sun, …
+j	赤核	せきかく	中脳にある左右一対で卵形の神経核。
+j	赤漆	せきしつ	（せきしつ）木地を蘇芳で着色して漆を塗る技法。
+j	赤熱	せきねつ	真っ赤に熱すること。真っ赤になるまで熱すること。熱…
+j	赤燐	せきりん	燐の同位体の一つ。赤褐色の粉末で無毒。
+j	赤礬	せきばん	bieberite
+j	赤経	せきけい	right ascension
+j	赤経	せっけい	right ascension
+j	赤裸裸	せきらら	stark-naked; bare; naked
+j	赤誠	せきせい	sincerity
+j	赤身	せきしん	red flesh (of a fish); le…
+j	赤軍	せきぐん	the Red Army
+j	赤道	せきどう	equator
+j	赤鉛	せきえん	red lead
+j	赤雪	せきせつ	高山や極地で藻類が繁殖し、赤っぽく見える雪。
+j	赤面	せきめん	a blush
+j	赤顔	せきがん	顔を赤くすること。また、その顔。
+j	赤飯	せきはん	sekihan (rice dish)
+j	跣行	せんこう	裸足で歩いて行くこと。
+j	跣足	せんそく	bare foot
+j	践勢	せんせい	勢いを持つこと。
+j	践政	せんせい	執政。
+j	践翟	せんてき	立后。
+j	践行	せんこう	実行すること。履行すること。
+j	践言	せんげん	言ったとおりに実践すること。有言実行。
+j	践躋	せんせい	踏み締めて登ること。
+j	逝去	せいきょ	death
+j	逝水	せいすい	流れ行く川の水。
+j	遄征	せんせい	速やかに行くこと。遄行。
+j	遄行	せんこう	速やかに行くこと。遄征。
+j	遷代	せんたい	任期を終えて他の官職、または上級の官職に転任するこ…
+j	遷変	せんぺん	移り変わること。変遷。
+j	遷客	せんかく	流罪となった者。流人。
+j	遷宮	せんぐう	神社で祭神の神体を新築や改築などをした本殿に移すこ…
+j	遷延	せんえん	delaying
+j	遷擢	せんてき	昇任すること。
+j	遷替	せんたい	任期を終えて他の官職、または上級の官職に転任するこ…
+j	遷窆	せんへん	改葬すること。
+j	遷謫	せんたく	罪により官位を降格させ、地方へ送ること。
+j	遷逝	せんせい	死ぬこと。
+j	選する	せんする	選択する。選ぶ。
+j	選任	せんにん	appointment; election; no…
+j	選伐	せんばつ	木や枝を状態ごとに選んで切ること。
+j	選別	せんべつ	sorting (categorizing), c…
+j	選卒	せんそつ	精兵。
+j	選好	せんこう	preference
+j	選定	せんてい	careful selection
+j	選手	せんしゅ	player, at variety of spo…
+j	選抜	せんばつ	selecting the best
+j	選択	せんたく	a selection; a choice; an…
+j	選挙	せんきょ	election
+j	選挙	せんきよ	election
+j	選文	せんぶん	文を選ぶこと。
+j	選日	せんじつ	その日の干支、十二直などを見て、吉日を選ぶこと。ま…
+j	選書	せんしょ	selection of books
+j	選民	せんみん	chosen people
+j	選炭	せんたん	採掘した石炭を不純物や粗悪な物などと商品となるもの…
+j	選考	せんこう	screening of candidates
+j	選者	せんじゃ	多くの作品の中から優秀なものを選び出す役の人。
+j	選言	せんげん	択言。
+j	選鋒	せんぽう	撰び抜かれた優秀な兵士。精兵。
+j	選録	せんろく	選出して記録すること。
+j	醒眼	せいがん	酔いが醒めた顔。
+j	醒酔	せいすい	酒に酔うことと酔いから醒めること。
+j	釈奠	せきてん	年二回孔子に供物を捧げて祀る行事。陰暦二月と八月の…
+j	銑鉄	せんてつ	pig iron
+j	銑鋼	せんこう	銑鉄と鋼鉄の総称。
+j	銓択	せんたく	はかり（調べ）選ぶこと。
+j	銓考	せんこう	調べること。
+j	銓衡	せんこう	作品や人物などをよく観察するなどし、検討して選ぶこ…
+j	銛鋒	せんぽう	鋭鋒。
+j	銭湯	せんたう	communal bathhouse
+j	銭湯	せんとう	communal bathhouse
+j	閃光	せんこう	flash, glint
+j	閃閃	せんせん	ひらひら動くさま。
+j	閃電	せんでん	閃く電光。
+j	関口	せきぐち	a surname
+j	関岡	せきおか	a surname
+j	関枠	せきわく	筧で短くて横が広く、開戸が二枚あるもの。
+j	関脇	せきわけ	sekiwake, lit.: 'next to …
+j	関船	せきぶね	a type of military boat u…
+j	闡明	せんめい	explanation
+j	陝西	せんせい	Shaanxi (a province of Ch…
+j	隻手	せきしゅ	片方の手。
+j	隻腕	せきわん	a physical disability in …
+j	隻角	せきかく	左右一対のうち片方の角が無いこと。
+j	隻言	せきげん	片言。
+j	雪像	せつぞう	snow sculpture
+j	雪原	せつげん	snowfield
+j	雪堤	せってい	積雪の多い地域で、鉄道の線路脇の斜面から雪が滑り落…
+j	雪塊	せっかい	雪の塊。
+j	雪天	せってん	今にも雪が降りそうな空。
+j	雪害	せつがい	降雪や雪崩など、雪による災害。
+j	雪山	せっさん	snow-capped mountain
+j	雪山	せっせん	snow-capped mountain
+j	雪山	せつざん	snow-capped mountain
+j	雪峯	せっぽう	雪の積もった峯。
+j	雪崩	せつほう	an avalanche (large slidi…
+j	雪景	せっけい	雪が積もった景色。雪景色
+j	雪渓	せっけい	a valley with perpetual s…
+j	雪減	せつげん	無実の罪を灌ぐこと。雪冤。
+j	雪片	せっぺん	snowflake
+j	雪田	せつでん	高山などで積雪が長く残っている地域。雪原。
+j	雪白	せっぱく	snow-white, very white
+j	雪線	せっせん	積雪が年間を通し解ける地域と解けない地域を分ける境…
+j	雪花	せつくわ	snowflake
+j	雪行	せっこう	降雪または積雪の中を行くこと。
+j	雪隠	せっちん	synonym of 便所 (benjō, “to…
+j	雪隠	せついん	synonym of 便所 (benjō, “to…
+j	雪鶏	せっけい	
+j	霽明	せいめい	清らかで明るいこと。清明。晴明。
+j	霽月	せいげつ	雨が上がった後の澄んだ月。
+j	靑年	せいねん	
+j	青㵎	せいかん	清い㵎水。
+j	青冥	せいめい	青天。
+j	青函	せいかん	Aomori and Hakodate
+j	青天	せいてん	blue sky
+j	青姦	せいかん	having sex in the open air
+j	青宮	せいぐう	東宮。
+j	青山	せいざん	a green lush mountain or …
+j	青峰	せいほう	青々とした峰。
+j	青嵐	せいらん	青々とした山の気。
+j	青巌	せいがん	苔むした巌。
+j	青帮	せいほう	「チンパン」を参照。
+j	青幇	せいほう	「チンパン」を参照。
+j	青年	せいねん	a young man; a youth
+j	青林	せいりん	青々と茂った林。緑豊かな林。
+j	青楼	せいろう	the home of an aristocrat…
+j	青海	せいかい	Qinghai (a province in no…
+j	青熒	せいけい	灯火が青く光るさま。
+j	青眸	せいぼう	涼しい目元。
+j	青眼	せいがん	自分が好意のある人を迎える時の嬉しさ、喜びを表した…
+j	青碧	せいへき	青い色。青みがかった緑色。
+j	青綬	せいじゅ	青の印璽の綬。
+j	青苔	せいたい	青い色つまり緑色の苔。
+j	青茅	せいぼう	刈安。
+j	青草	せいそう	青くしげった草。また、そのような色。
+j	青蓬	せいほう	青い笘。
+j	青藍	せいらん	indigo, dark blue
+j	青蘭	せいらん	a female given name
+j	青蜂	せいぼう	膜翅目セイボウ科の昆虫（蜂）の総称。
+j	青蠅	せいよう	アオバエ。
+j	青衿	せいきん	青いえり。
+j	青袍	せいほう	青衣。
+j	青襟	せいきん	青いえり。
+j	青酸	せいさん	synonym of シアン化水素酸 (shian…
+j	青銅	せいどう	bronze
+j	青陽	せいよう	春。
+j	青雲	せいうん	Blue-tinged clouds
+j	青鞜	せいとう	bluestocking, a member of…
+j	青魚	せいぎょ	general term for a blue b…
+j	青鱗	せいりん	青く光って見える、魚のうろこ。
+j	青鶏	せいけい	a western swamphen
+j	青鶏	セイケイ	a western swamphen
+j	青鸞	せいらん	great argus pheasant (Arg…
+j	青鸞	セイラン	great argus pheasant (Arg…
+j	青黛	せいたい	青い黛。また、その黛で書いた眉。
+j	靖冥	せいめい	物静かなさま。
+j	靖国	せいこく	国を平安に治めること。
+j	靖献	せいけん	臣下が先王の霊に誠意を尽くすこと。
+j	靖綏	せいすい	鎮め、安んじること。
+j	靖難	せいなん	国の危難を鎮定すること。
+j	静厳	せいげん	静粛なさま。
+j	静圧	せいあつ	static pressure
+j	静安	せいあん	安静。
+j	静寧	せいねい	世が治まり平静であるさま。
+j	静居	せいきょ	心静かに暮らすこと。また、静かなすまい。
+j	静平	せいへい	世の乱れを鎮めて穏やかにすること。
+j	静心	せいしん	a calm mind, placid tempe…
+j	静態	せいたい	静止の状態。釣りあって動かない状態。
+j	静振	せいしん	風向、気圧など気象の変化により湾や湖沼の水位が振動…
+j	静止画	せいしが	still picture
+j	静水	せいすい	揺れたり流れたりしないで静止している水。
+j	静物	せいぶつ	a still life subject
+j	静的	せいてき	static
+j	静穏	せいおん	quiet, tranquil
+j	静観	せいかん	行動を起こさずに物事の成り行きを静かに見守ること。
+j	静謐	せいひつ	quiet, tranquil
+j	静邃	せいすい	幽邃。
+j	静閑	せいかん	もの静かなこと。また、そのようなさま。閑静。
+j	静電	せいでん	静電気。
+j	静養	せいやう	recuperate; convalescence
+j	静養	せいよう	recuperate; convalescence
+j	靜謐	せいひつ	静謐の旧字体表記。
+j	靜養	せいよう	静養の旧字体表記。
+j	顓制	せんせい	専制。
+j	顓政	せんせい	専政。
+j	顓望	せんぼう	寵愛。
+j	顫動	せんどう	vibration, tremble
+j	顫音	せんおん	trill
+j	顳顬	せふじゅ	temple (region of skull)
+j	餞別	せんべつ	farewell or parting meal …
+j	饌米	せんまい	washed rice for offering …
+j	騂剛	せいごう	赤い犠牲の牛。
+j	騂旄	せいぼう	赤い牛。
+j	騂犅	せいごう	赤い犠牲の牛。
+j	騂顔	せいがん	赤ら顔。
+j	鬋茅	せんぼう	茅を切ること。
+j	鮮人	せんじん	Korean (person)
+j	鮮好	せんこう	鮮やかで良いこと。
+j	鮮妍	せんけん	鮮姸の別表記。
+j	鮮姸	せんけん	鮮やかで美しいさま。
+j	鮮扁	せんぺん	清らかなさま。
+j	鮮明	せんめい	clear, distinct, vivid
+j	鮮烈	せんれつ	vivid
+j	鮮盛	せんせい	際立つさま。
+j	鮮紅	せんこう	scarlet, bright red
+j	鮮肉	せんにく	新鮮な食肉。
+j	鮮腥	せんせい	生臭いさま。
+j	鮮血	せんけつ	fresh blood
+j	鮮魚	せんぎょ	fresh fish
+j	鮮麗	せんれい	鮮やかで綺麗なこと。また、その様子。
+j	鶺鴒	せきれい	wagtail
+j	鶺鴒	セキレイ	wagtail
+j	鷦鷯	せうれう	wren, Troglodytes troglod…
+j	齎捧	せいぼう	捧持すること。
+j	齎金	せいきん	金を齎すこと。
+j	せいかもじ	せいかもじ	西夏文字: the Tangut script
+j	せいくらべ	せいくらべ	背比べ: comparing heights, c…
+j	せいしろう	せいしろう	清史郎: a male given name
+j	せいじゅつ	せいじゅつ	聖術: saint arts
+j	せいじろう	せいじろう	精二郎: a male given name
+j	せいぞろい	せいぞろい	large gathering of people
+j	せいぞろい	せいぞろひ	large gathering of people
+j	せいちゅう	せいちゅう	誠忠: loyal
+j	せいちょう	せいちょう	正調: traditional tune
+j	せいびょう	せいびょう	性病: a venereal disease
+j	せかいかん	せかいかん	世界観: worldview
+j	せからしい	せからしい	annoying
+j	せからしか	せからしか	ka-ending dialect form of…
+j	せきあぐる	せきあぐる	せきあげるの異表記。
+j	せきあげる	せきあげる	しきりに咳をする。咳き込む。
+j	せきたてる	せきたてる	早く物事を行うよう催促する。急がせる。せかす。
+j	せきとめる	せきとめる	to stop/hold back the flo…
+j	せきのやま	せきのやま	the most one can do
+j	せきばらい	せきばらい	合図や注意を引くため、わざと咳をすること。しわぶき。
+j	せつぞくし	せつぞくし	接続詞: conjunction (in Japa…
+j	せつにゅう	せつにゅう	切入: OFF/ON (on a switch)
+j	せとものや	せとものや	瀬戸物を含め陶磁器を販売する店、人。陶器商。
+j	せみくじら	せみくじら	セミクジラ科の哺乳類。北太平洋に生息。ひげくじらで…
+j	せみしぐれ	せみしぐれ	多くの蝉の鳴き声が一斉に聞こえるこどを時雨の音に例…
+j	せめおとす	せめおとす	攻めて相手の城を落とす。
+j	せめぎあう	せめぎあう	to battle (each other)
+j	せめたてる	せめたてる	激しい勢いで攻める。
+j	せめつづみ	せめつづみ	戦場で攻撃の合図のために鳴らした陣太鼓。
+j	せめよせる	せめよせる	攻め込んで敵の近くまで迫る。
+j	せわしない	せわしない	落ち着かない、忙しい。
+j	せんきょく	せんきょく	選曲
+j	せんしゅう	せんしゅう	
+j	せんじゅつ	せんじゅつ	戦術: tactic, tactics, stra…
+j	せんじょう	せんじょう	僭上: audacious
+j	せんだって	せんだって	先達て: recently, the other …
+j	セイシェル	セイシェル	「セーシェル」の別表記。
+j	セイボリー	セイボリー	
+j	セイレーン	セイレーン	a siren
+j	セイロン象	セイロン象	アジア象の基亜種。学名は Elephas maxi…
+j	セクキャバ	セクキャバ	セクシーキャバクラ。
+j	セクシスト	セクシスト	性別によって差別をする人。
+j	セクシズム	セクシズム	性別による差別。
+j	セクシャル	セクシャル	sexual
+j	セクション	セクション	section
+j	セクト主義	セクト主義	
+j	セグウェイ	セグウェイ	Segway (motorized vehicle…
+j	セグメント	セグメント	segment
+j	セッション	セッション	session
+j	セティボス	セティボス	天王星の衛星の固有名。
+j	セディーユ	セディーユ	cedilla
+j	セパレーツ	セパレーツ	上下に分かれそれぞれ自由に組み合わせることができる…
+j	セパレート	セパレート	別々に分かれていること。分離していること。
+j	セビージャ	セビージャ	
+j	セピア色の	セピア色の	
+j	セブアノ語	せぶあのご	the Cebuano language
+j	セブアノ語	セブアノご	the Cebuano language
+j	セブアノ語	セブアノ語	the Cebuano language
+j	セミクジラ	セミクジラ	「せみくじら」の学術的表記。
+j	セミコロン	セミコロン	a semicolon
+j	セミダブル	セミダブル	ベッドの大きさでダブルより小さく、シングルより大き…
+j	セミナール	セミナール	
+j	セミロング	セミロング	shoulder-length hair or h…
+j	セム族の人	セム族の人	
+j	セメスター	セメスター	1年を2つに分けた学期。
+j	セメント質	セメント質	歯根の象牙質の表面を覆う骨組織。白亜質。
+j	セラピスト	セラピスト	（薬や手術などによらない）治療をする人。ある療法を…
+j	セラミック	セラミック	陶磁器。窯業製品。
+j	セリフ体	せりふたい	文字にセリフと呼ばれる出っ張りを付けた欧文の書体。…
+j	セルシウス	セルシウス	
+j	セルジッペ	セルジッペ	
+j	セルツァー	セルツァー	seltzer
+j	セルビアの	セルビアの	
+j	セルビア人	セルビア人	Serb
+j	セルビア語	せるびあご	Serbian language
+j	セルビア語	セルビアご	Serbian language
+j	セルビア語	セルビア語	Serbian language
+j	セルフィー	セルフィー	a selfie
+j	セルフォン	セルフォン	
+j	セルフボウ	セルフボウ	
+j	セルフレジ	セルフレジ	self-checkout
+j	セルホーン	セルホーン	
+j	セルライト	セルライト	
+j	セルロイド	セルロイド	celluloid (variety of the…
+j	セルロース	セルロース	cellulose
+j	セレナーデ	セレナーデ	serenade
+j	セレナード	セレナード	serenade
+j	セレニウム	セレニウム	セレンの英語読み。
+j	セレニティ	セレニティ	serenity (a state of peac…
+j	セレモニー	セレモニー	ceremony
+j	セレーネー	セレーネー	The goddess of the Moon, …
+j	セロテープ	セロテープ	sellotape, cellophane tape
+j	セロトニン	セロトニン	serotonin
+j	セロファン	セロファン	ビスコースを処理して得られる透明のフィルム。包装な…
+j	センテンス	センテンス	sentence
+j	セントラル	セントラル	being central
+j	セーシェル	セーシェル	Seychelles (an archipelag…
+j	セーデッカ	セーデッカ	Seediq (Taiwanese indigen…
+j	セーフティ	セーフティ	セーフティーの表記ゆれ。
+j	セーラー服	セーラー服	sailor uniform
+j	セーリング	セーリング	帆走、航海。
+j	世俗化	せぞくくわ	secularization
+j	世俗的	せぞくてき	世間一般であるさま。普通であるさま。
+j	世局	せいきょく	世間の成り行き。時局。
+j	世帯主	せたいぬし	head of household, head o…
+j	世教	せいきょう	世の教え。儒教など。
+j	世界一	せかいいち	世界で順位が一番であること。
+j	世界人	せかいじん	
+j	世界地図	せかいちず	世界の全体またはほぼ全体を描いた地図。
+j	世界戦	せかいせん	世界規模での戦争。
+j	世界的	せかいてき	global
+j	世界線	せかいせん	world line
+j	世界観	せかいかん	worldview
+j	世知辛い	せちがらい	hard to live in; cold; cr…
+j	世紀末	せいきまつ	end of a century
+j	世話になる	せわになる	
+j	世話をする	せわをする	to take care
+j	世話を焼く	せわをやく	to go out of one's way to…
+j	世間体	せけんてい	appearance, public image,…
+j	世間態	せけんてい	
+j	井中	せいちゅう	井戸の中。
+j	井甃	せいしゅう	井戸の壁。
+j	井臼	せいきゅう	井戸と臼。
+j	亶翔	せんしょう	飛んで巡ること。
+j	仙仗	せんじょう	天子の儀仗。
+j	仙台市	せんだいし	宮城県の県庁所在地。東北地方の中心都市。
+j	仙境	せんきょう	fairyland, enchanted land
+j	仙宮	せんきゅう	仙人が住む場所。
+j	仙寰	せんくわん	fairyland
+j	仙氅	せんしょう	鶴氅。
+j	仙職	せんしょく	天子の詞臣。
+j	仙蓼	せんりょう	センリョウ科の常緑小低木。
+j	仙術	せんじゅつ	magic of an immortal
+j	仙郷	せんきょう	仙人が暮らしているという土地。
+j	僉属	せんしょく	僉望。
+j	僭上	せんじょう	audacious
+j	僭称	せんしょう	false claim of importance
+j	僭称	せんしよう	false claim of importance
+j	儕衆	せいしゅう	同輩。
+j	先だって	せんだって	先達て: recently
+j	先を越す	せんをこす	to take the initiative; t…
+j	先住	せんじゅう	prior residence, earlier …
+j	先住	せんぢゆう	prior residence, earlier …
+j	先倡	せんしょう	首唱すること。
+j	先入	せんにゅう	preconception
+j	先勝	せんしょう	The first day of the Roku…
+j	先史学	せんしがく	
+j	先回	せんくわい	last time
+j	先客	せんきゃく	a previous visitor, custo…
+j	先朝	せんちょう	先帝。
+j	先着	せんちゃく	first arrival
+j	先行詞	せんこうし	
+j	先蹤	せんしょう	先人の事業の跡。前蹤。
+j	先蹴	せんしゅう	kickoff (of a soccer or g…
+j	先述	せんじゅつ	the aforementioned, afore…
+j	先週	せんしゅう	last week
+j	先達て	せんだって	recently, the other day
+j	先頭の	せんとうの	
+j	先駆	せんくする	forerunner
+j	先駆者	せんくしゃ	trailblazer
+j	凄寥	せいりょう	寒気がするほど寂しいこと。また、そのようなさま。
+j	凄涼	せいりょう	emotionally desolate
+j	切入	せつにゅう	OFF/ON (on a switch)
+j	制勅	せいちょく	勅命。みことのり。
+j	制動機	せいどうき	brake (device used to slo…
+j	制勝	せいしょう	相手を押さえて勝利すること。
+j	制外子	せいがいこ	元々は陰間で、臨時に歌舞伎の舞台にあがる若衆。
+j	制宙	せいちゅう	軍事力を用いて宇宙空間を支配すること。
+j	制教	せいきょう	仏教における悪行を制止する教え。戒律。
+j	制止	せいしする	constraint, control, chec…
+j	制球	せいきゅう	投手がボールを思い通りに投げること。
+j	制覇	せいはする	the act of defeating in a…
+j	刹那的	せつなてき	ephemeral, transitory
+j	剡章	せんしょう	奏章。
+j	剪枝	せんしする	pruning, the trimming of …
+j	剪紙	せんしする	jianzhi (Chinese paper cu…
+j	勢力	せいりょく	influence, power, especia…
+j	勢州	せいしゅう	伊勢国^(（いせのくに）)の別称。
+j	勢揃い	せいぞろい	軍勢が揃うこと。
+j	千丈	せんじょう	一丈の千倍。
+j	千両	せんりょう	1000 ryō
+j	千両	センリョウ	1000 ryō
+j	千乗	せんじょう	千台の車。千台の戦車。
+j	千分比	せんぶんひ	全体を1000に分けたうちの割合。千分率。
+j	千年紀	せんねんき	millennium (thousand-year…
+j	千把扱き	せんばこき	稲穂から籾をこきとるための道具。千把。
+j	千把扱き	せんばごき	稲穂から籾をこきとるための道具。千把。
+j	千日手	せんにちて	repetition of the same mo…
+j	千歯扱き	せんばこき	稲穂から籾をこきとるための道具。千歯。
+j	千歯扱き	せんばごき	稲穂から籾をこきとるための道具。千歯。
+j	千状	せんじょう	さまざまな状態。千態。千状万態。
+j	千畳	せんじょう	千枚の畳。
+j	千秋	せんしゅう	a thousand years; long ye…
+j	千羽鶴	せんばづる	a set of one thousand ori…
+j	千觴	せんしょう	千の盃。
+j	千那由他	せんなゆた	
+j	千里眼	せんりがん	Qianliyan (god with extre…
+j	千鍾	せんしょう	数千石。
+j	占術	せんじゅつ	scry; scrying
+j	占領	せんりょう	occupation (of a place); …
+j	占食	せんしょく	卜兆。
+j	咳をする	せきをする	
+j	咳払い	せきばらい	clearing one's throat
+j	咳払い	せきばらひ	clearing one's throat
+j	嘶醜	せいしゅう	だみごえ。濁声。
+j	埏埴	せんしょく	粘土をこねること。
+j	堰を切る	せきをきる	for a dam to break and wa…
+j	墠場	せんじょう	野外の祭場。
+j	声曲	せいきょく	日本の伝統音楽において、声による楽曲。特に三味線を…
+j	声楽家	せいがくか	声楽を職業とする人。通常はクラシック音楽の歌手を指…
+j	声色	せいしょく	tone of voice
+j	声調	せいちょう	tone, note
+j	声量	せいりやう	strength of one's voice
+j	声量	せいりょう	strength of one's voice
+j	夕照	せきしょう	夕日。夕焼け。
+j	孅嗇	せんしょく	惜しむこと。
+j	宣力	せんりょく	尽力すること。
+j	宣召	せんしょう	召見すること。
+j	宣命	せんみょう	a document that conveys a…
+j	宣布	せんぷする	proclamation
+j	宣情	せんじょう	恋愛や愛情のことを描くこと。また、そのような物語や…
+j	宣招	せんしょう	宣召。
+j	宣教	せんきょう	evangelism
+j	宣章	せんしょう	明らかにすること。
+j	寂寥	せきりょう	desolate and hushed
+j	専修	せんしゅう	specialization, specialis…
+j	専城	せんじょう	城主。
+j	専場	せんじょう	独壇場。
+j	専掌	せんしょう	専らある業務を担当すること。
+j	専攻科	せんこうか	高等学校や高等専門学校などの本科を卒業した者により…
+j	専称	せんしょう	一途に仏の名を称えること。
+j	専門医	せんもんい	
+j	専門士	せんもんし	二年制から三年制の専門学校を卒業した者に与えられる…
+j	専門家	せんもんか	specialist; expert
+j	専門紙	せんもんし	専門家や愛好家向けの情報を掲載した新聞。専門新聞。
+j	専門誌	せんもんし	専門家や愛好家向けの情報を掲載した雑誌。専門雑誌。
+j	専門語	せんもんご	terminology
+j	専領	せんりょう	一人で領有すること。
+j	小中	せうちゆう	小学校 (shōgakkō, “elementar…
+j	小事件	せうじけん	small incident
+j	小会	せうくわい	meeting of a small number…
+j	小冊子	せうさっし	booklet, pamphlet, leafle…
+j	小名	せうみやう	During the Kamakura and M…
+j	小塊	せうくわい	small knob
+j	小火器	せうくわき	small arms
+j	小説家	せうせつか	novelist, fiction writer
+j	小銃	せうじゆう	a rifle (firearm with a r…
+j	小食	せうしよく	eating in small portions
+j	少将	せうしやう	the junior 次官 (suke, “dep…
+j	少林寺	せうりんじ	the Shaolin Monastery in …
+j	少納言	せうなごん	a lesser counselor in the…
+j	尖頭値	せんとうち	
+j	川壌	せんじょう	川の土。
+j	川柳	せんりゅう	senryu: comic haiku
+j	川色	せんしょく	川面の光。
+j	席上	せきじょう	座席や敷物の上。
+j	席料	せきりょう	cover charge
+j	席順	せきじゅん	order of seats
+j	忙しない	せはしない	busy; hurried
+j	忙しない	せわしない	busy; hurried
+j	急き立てる	せきたてる	
+j	性交死	せいこうし	腹上死。
+j	性力	せいりょく	sexual energy
+j	性加害	せいかがい	性犯罪の加害を行うこと。
+j	性奴隷	せいどれい	sex slave
+j	性差別	せいさべつ	gender discrimination
+j	性徴	せいちょう	a sex characteristic
+j	性急	せいきゅう	brash; impatient
+j	性情	せいじょう	disposition, nature
+j	性指向	せいしこう	性的指向の異称。
+j	性旭	せいきょく	a male given name
+j	性活	せいくわつ	Used as a replacement for…
+j	性状	せいじょう	人の性格と行動。
+j	性獣	せいじゅう	extremely sexual being
+j	性理学	せいりがく	宋学。
+j	性病	せいびやう	a sexually transmitted di…
+j	性病	せいびょう	a sexually transmitted di…
+j	性科学	せいかがく	sexology
+j	性習	せいしゅう	習慣。
+j	性自認	せいじにん	gender identity
+j	性行為	せいかうゐ	sexual acts such as inter…
+j	性行為	せいこうい	sexual acts such as inter…
+j	性被害	せいひがい	性犯罪の被害を受けること。
+j	懺悔	せんげする	repentance
+j	成人誌	せいじんし	成人向けの情報を掲載した雑誌。
+j	成年誌	せいねんし	成年向けの情報を掲載した雑誌。
+j	成文化	せいぶんか	codification, the act of …
+j	成果物	せいかぶつ	計画の結果で顧客に対し提供される商品やサービス。
+j	成業	せいぎょう	事業や学業を達成すること。
+j	成熟	せいじゅく	maturity
+j	成牛	せいぎゅう	成長して生殖可能な牛。
+j	成猫	せいびょう	成長した猫。
+j	成獣	せいじゅう	十分成長し成熟した獣類。
+j	成立	せいりゅう	birth; formation; coming …
+j	成苗	せいびょう	本葉が4枚以上ある手植え用の稲の苗。
+j	成虫	せいちゅう	imago (adult insect/ adul…
+j	成長	せいちょう	growth; maturation
+j	成鳥	せいちょう	mature bird
+j	戦中	せんちゅう	戦争が行われている間。戦時中。
+j	戦傷	せんしょう	（兵士が）戦闘で負傷すること。また、その傷。
+j	戦利品	せんりひん	spoils of war; prize; boo…
+j	戦力	せんりょく	military power
+j	戦勝	せんしょう	victory (in war)
+j	戦勝	せんしよう	victory (in war)
+j	戦場	せんじょう	battlefield
+j	戦場	せんぢやう	battlefield
+j	戦将	せんしょう	戦いにおける大将。
+j	戦弓	せんきゅう	war bow
+j	戦悚	せんしょう	慄え、怖れること。戦慄。
+j	戦死	せんしする	death in war
+j	戦況	せんきやう	war situation
+j	戦況	せんきょう	war situation
+j	戦状	せんじょう	戦争の状況。戦況。
+j	戦略	せんりゃく	strategy
+j	戦色	せんしょく	恐怖心。
+j	戦術	せんじゅつ	tactic, tactics
+j	戦讋	せんしょう	恐怖。
+j	戦間期	せんかんき	第一次世界大戦終戦から第二次世界大戦開戦までの時代。
+j	戦闘機	せんとうき	a fighter plane
+j	戦闘靴	せんとうか	combat boot
+j	戰力	せんりょく	戦力の旧字体表記。
+j	戰場	せんじょう	戦場の旧字体表記。
+j	扇状	せんじょう	扇を開いた形状。扇形。
+j	扇箑	せんしょう	扇子。
+j	扇翣	せんしょう	儀仗で用いる柄の長い団扇。
+j	扇風機	せんぷうき	a fan (electrical device)
+j	抄繊糸	せうせんし	Japanese paper yarn (yarn…
+j	折中	せっちゅう	「折衷」の別表記。
+j	折衝	せっしょう	negotiation
+j	折衷	せっちゅう	taking the best of two th…
+j	掣肘	せいちゅう	impedance
+j	掣袖	せいしゅう	近くから干渉し、その人の自由な行動を妨げること。掣…
+j	接収	せっしゅう	requisition, takeover, se…
+j	接合子	せつごうし	zygote (fertilized egg ce…
+j	接地	せっちする	landing an airplane etc.
+j	接地する	せっちする	
+j	接客	せっきゃく	customer service
+j	接着	せっちゃく	adhesion, bonding
+j	接続詞	せつぞくし	conjunction
+j	接続語	せつぞくご	文の中で、前の文との接続を示す語や文節。
+j	接続部	せつぞくぶ	複数の文節で接続語として働く文の成分。
+j	接蝕	せっしょく	掩蔽の際、月面の北または南の端をかすめて通過するこ…
+j	接触	せっしょく	making contact; touch
+j	接觸	せっしょく	
+j	接頭語	せっとうご	synonym of 接頭辞 (settōji, …
+j	接頭辞	せっとうじ	a prefix
+j	接食	せっしょく	掩蔽の際、月面の北または南の端をかすめて通過するこ…
+j	摂政	せっしょう	the chief advisor to the …
+j	摂政	せつしやう	the chief advisor to the …
+j	摂政	せふしやう	the chief advisor to the …
+j	摂関家	せっかんけ	日本で摂政、関白に任命される家柄。藤原氏のうち一条…
+j	摂食	せっしょく	feeding
+j	撰修	せんしゅう	書物を編纂すること。
+j	撰集	せんしゅう	a selection, an anthology
+j	攻め立てる	せめたてる	to attack incessantly
+j	攻太鼓	せめだいこ	戦場で攻撃の合図のために鳴らした陣太鼓。
+j	政務官	せいむかん	大臣を助ける役職。
+j	政客	せいきゃく	politician
+j	政局	せいきょく	political situation
+j	政庁	せいちょう	government (especially co…
+j	政府米	せいふまい	政府が生産者から買い入れ、管理する米。
+j	政府間	せいふかん	
+j	政情	せいじょう	政治や政界の情況。
+j	政敎	せいきょう	
+j	政教	せいきょう	politics and religion
+j	政治学	せいじがく	political science
+j	政治学	せいぢがく	political science
+j	政治犯	せいじはん	political offense
+j	政治的	せいじてき	political
+j	整備	せいびする	improvement
+j	整備員	せいびいん	交通関連の企業や軍隊、警察、消防などの官公庁で様々…
+j	整備工	せいびこう	工場で様々な機械の整備などをする機械工。
+j	整商	せいしょう	割り算で整数の商。
+j	整地	せいちする	flattening the earth
+j	整峻	せいしゅん	整厳。
+j	整流	せいりゅう	気体や液体の流れの乱れを整えること。
+j	整理	せいりする	organizing something in o…
+j	整理する	せいりする	
+j	斉唱	せいしょう	singing in unison; singin…
+j	斉次性	せいじせい	homogeneity
+j	斥力	せきりょく	repulsive force, repulsion
+j	施工	せこうする	construction
+j	施行	せこうする	execution, carrying out
+j	旋踵	せんしょう	踵を巡らすこと。向きを変えること。
+j	旌表	せいひょう	人の善行をほめて、広く世に示すこと。表旌。
+j	星晶	せいしょう	星の光。星芒。星彩。
+j	星条旗	せいでうき	Stars and Stripes (nation…
+j	星章	せいしょう	星形のしるし、記章。
+j	星菫派	せいきんは	与謝野鉄幹・与謝野晶子夫妻を筆頭とする、天の星や地…
+j	星蝕	せいしょく	恒星が地球から見て月の裏側に隠れ、見えなくなる現象…
+j	星野光	せいやこう	星や星雲の光の集まり。
+j	星食	せいしょく	恒星が地球から見て月の裏側に隠れ、見えなくなる現象…
+j	晴春	せいしゅん	晴れた春の日。
+j	晴朗な	せいろうな	
+j	晴雨計	せいうけい	気象の観測で使う気圧計。バロメーター。
+j	染匠	せんしょう	紺屋。染物屋。
+j	染尚	せんしょう	自筆を交換すること。
+j	染指	せんしする	involvement in something,…
+j	染料	せんりょう	dye
+j	染織	せんしょく	染めることと織ること。
+j	染色	せんしょく	staining, dyeing
+j	棲住	せいじゅう	居住すること。住むこと。
+j	棲集	せいしゅう	泊まること。
+j	正の数	せいのすう	positive number
+j	正中	せいちゅう	the exact middle (of some…
+j	正体字	せいたいじ	regular or traditional fo…
+j	正字法	せいじはふ	correct orthography
+j	正字法	せいじほう	correct orthography
+j	正帰還	せいきかん	出力の一部を帰還して入力にそのまま加算すること。ポ…
+j	正常	せいじやう	normal
+j	正常	せいじょう	normal
+j	正庁	せいちょう	表向きの座敷。正殿。
+j	正座	せいざする	sitting (kneeling) in a p…
+j	正式な	せいしきな	
+j	正式の	せいしきの	
+j	正弦波	せいげんは	sine wave
+j	正当化	せいとうか	justification, rationale,…
+j	正敎	せいきょう	
+j	正教	せいきょう	Orthodoxy (the Eastern Or…
+j	正業	せいぎょう	upstanding line of busine…
+j	正極	せいきょく	cathode; positive pole; p…
+j	正比例	せいひれい	proportionality
+j	正球	せいきゅう	
+j	正着	せいちゃく	囲碁や将棋、オセロ、麻雀などのゲームにおいて、その…
+j	正確	せいかくな	accurate; exact; correct;…
+j	正確さ	せいかくさ	
+j	正確な	せいかくな	
+j	正確に	せいかくに	
+j	正称	せいしょう	正式な名称。
+j	正統な	せいとうな	
+j	正義感	せいぎかん	不正を嫌い、正義を重んじる気持ち。
+j	正義漢	せいぎかん	正義を重んじ、行動する男。
+j	正脈	せいみゃく	性格、行動などが方正なこと。また、そのようなさま。
+j	正色	せいしょく	かつての中国で混じりけがなく正しい色。青、黄、赤、…
+j	正規軍	せいきぐん	国家により制度化され、国家の統制のもとにある正式な…
+j	正視	せいしする	looking straight ahead
+j	正論理	せいろんり	positive logic
+j	正賞	せいしやう	primary award
+j	正賞	せいしょう	primary award
+j	正閏	せいじゅん	common year and leap year
+j	正電気	せいでんき	positive charge
+j	正露丸	せいろがん	seirogan
+j	殲傷	せんしょう	死傷すること。
+j	殺生	せっしょう	cruel, wanton, merciless,…
+j	殺生	せつしやう	cruel, wanton, merciless,…
+j	氈条	せんじょう	毛布。
+j	氈褥	せんじょく	毛織りの敷物
+j	沾賞	せんしょう	受賞すること。
+j	沾辱	せんじょく	辱めること。
+j	泉壌	せんじょう	黄泉。
+j	泉州	せんしゅう	Quanzhou (a city in Fujia…
+j	洊畳	せんじょう	しきりに。
+j	洗浄	せんじやう	laundering
+j	洗浄	せんじょう	laundering
+j	洗滌	せんじょう	rinsing
+j	洗濯屋	せんたくや	laundry, a business that …
+j	洗濯機	せんたくき	washing machine
+j	洗濯機	せんたっき	washing machine
+j	洗面器	せんめんき	washbasin, sink
+j	浅情	せんじょう	薄情。
+j	浅笑	せんしょう	微笑すること。
+j	浅緑	せんりょく	うすみどり。
+j	浅草寺	せんそうじ	Sensō-ji (Buddhist temple…
+j	消化器	せうくわき	a digestive organ
+j	消極	せうきよく	passive, reluctant to pur…
+j	消火器	せうくわき	fire extinguisher
+j	消費者	せうひしや	consumer
+j	消長	せうちやう	prosperity and decline, r…
+j	消防士	せうばうし	a firefighter
+j	清亮	せいりょう	音などが清澄なさま。
+j	清勝	せいしょう	手紙の文章で相手が健康で過ごしていることを祝う気持…
+j	清史郎	せいしろう	a male given name
+j	清宵	せいしょう	夜気のすがすがしい宵。
+j	清峻	せいしゅん	清厳。
+j	清教徒	せいけうと	synonym of ピューリタン (Pyūrit…
+j	清朝	せいちょう	Qing dynasty
+j	清標	せいひょう	優れた風采。
+j	清流	せいりゅう	clear stream
+j	清涼	せいりやう	refreshing, cool
+j	清涼	せいりょう	refreshing, cool
+j	清淳	せいじゅん	精醇。
+j	清潔な	せいけつな	
+j	清澄	せいちょう	clear, serene
+j	清狂	せいきょう	狂人ほどではないが言動が常軌を逸しているさま。
+j	清祥	せいしょう	the best of spirits
+j	清秀	せいしゅう	清く、また秀でていること。また、そのようなさま。
+j	清秋	せいしゅう	空が澄み渡り、空気が澄んでいる秋。
+j	清純	せいじゅん	pure; innocent
+j	清興	せいきょう	elegant amusement
+j	清衆	せいしゅう	僧。
+j	清賞	せいしょう	褒め、愛でること。
+j	清醇	せいじゅん	醇酒。
+j	清雋	せいしゅん	清秀。
+j	済勝	せいしょう	景勝地を周遊すること。
+j	済衆	せいしゅう	民衆を救うこと。
+j	湔裳	せんしょう	厄祓い。
+j	潜入	せんにゅう	infiltration
+j	潜力	せんりょく	潜んでいる力。潜在能力。
+j	潜水具	せんすいぐ	潜水する際に使用する器具。
+j	潜水夫	せんすいふ	潜水して水中作業を行う職業。
+j	潜流	せんりゅう	海面に現れない海水の流れ。
+j	潜蹤	せんしょう	抜き足。
+j	濟勝	せいしょう	済勝の旧字体表記。
+j	焼却	せうきやく	incineration
+j	煎汁	せんじゅう	（薬草などを）煮出した汁。
+j	煎蒸	せんじょう	蒸すこと。
+j	璇霄	せんしょう	仙境。
+j	甎墻	せんしょう	煉瓦でできた塀。
+j	生力	せいりょく	life force
+j	生化学	せいかがく	biochemistry
+j	生協	せいきょう	生活協同組合（消費生活協同組合）の略。コープ（co…
+j	生徒会	せいとかい	student council
+j	生息地	せいそくち	habitat
+j	生業	せいぎょう	the occupation through wh…
+j	生殉	せいじゅん	生人を殉葬すること。
+j	生殖	せいしょく	reproduction, procreation
+j	生活	せいくわつ	life; livelihood; daily l…
+j	生活苦	せいかつく	低収入などによる生活していく上の苦労。
+j	生活費	せいかつひ	cost of living, living ex…
+j	生渋	せいじゅう	未熟。また、そのようなさま。
+j	生熟	せいじゅく	未熟であることと成熟していること。
+j	生牛	せいぎゅう	生きている牛。
+j	生理学	せいりがく	physiology
+j	生理痛	せいりつう	menstrual pain, menstrual…
+j	生理的	せいりてき	体に関係するさま。
+j	生肖	せいしょう	十二支に鼠、牛、虎、兎、竜、蛇、馬、羊、猿、鶏、犬…
+j	生臭	せいしゅう	生臭いこと。また、そのようなさま。
+j	生花店	せいかてん	生花を販売する店。
+j	生還	せいくわん	survival
+j	生長	せいちやう	growth, development
+j	生長	せいちょう	growth, development
+j	生食	せいしょく	食品を生で食すること。
+j	疝気筋	せんきすじ	疝気の時痛む筋肉。
+j	盛昌	せいしょう	勢いが盛んなさま。
+j	盛春	せいしゅん	春の盛り。
+j	盛業	せいぎょう	商売や事業が盛大であること。また、そのような商売、…
+j	盛況	せいきやう	an event or business that…
+j	盛況	せいきょう	an event or business that…
+j	盛秋	せいしゅう	秋の盛り。
+j	瞻渉	せんしょう	博覧。
+j	瞻矚	せんしょく	仰ぎ見ること。
+j	瞻視	せんしする	a look or watch over some…
+j	石匠	せきしょう	石材を加工する職人。石工。
+j	石塊	せきくわい	a mass of stone; pebble
+j	石家荘	せっかそう	
+j	石将	せきしやう	stone general (a piece us…
+j	石将	せきしょう	stone general (a piece us…
+j	石柱	せきちゅう	stone pillar; stone column
+j	石梁	せきりょう	石橋。
+j	石棺	せきくわん	sarcophagus
+j	石榴	せきりゅう	pomegranate
+j	石油王	せきゆおう	oil baron
+j	石灰素	せっかいそ	calcium, Ca
+j	石炭紀	せきたんき	the Carboniferous
+j	石稜	せきりょう	岩門。
+j	石窟寺	せっくつじ	cave temple
+j	石竜	せきりょう	「とかげ」の別名。
+j	石筍	せきじゅん	stalagmite
+j	石経	せっきょう	石に刻まれた儒教などの経典。
+j	石菖	せきしょう	Japanese sweet flag, Acor…
+j	石菖	セキショウ	Japanese sweet flag, Acor…
+j	石龍	せきりょう	「とかげ」の異称。
+j	硝子体	せうしたい	vitreous body
+j	積久	せききゅう	久しく経過すること。
+j	積極	せききよく	progressive, active, posi…
+j	積極	せっきょく	progressive, active, posi…
+j	積畳	せきじょう	積み重ねること。積み重なること。
+j	積量	せきりょう	乗り物などに積載する荷物の重量。
+j	穿入	せんにゅう	穴を開けながら入り込むこと。
+j	穿刺	せんしする	centesis, the insertion o…
+j	穿孔機	せんこうき	punch
+j	穿牆	せんしょう	垣を穿って破ること。
+j	窃触	せっしょく	何かにこっそり触ること。
+j	競り上げる	せりあげる	to bid up (price)
+j	箭篠	せんじょう	矢竹。
+j	節略	せつりゃく	適当に省いて略すこと。省略。
+j	節記号	せつきごう	section sign
+j	節食	せっしょく	temperance in eating
+j	篹食	せんしょく	供物。
+j	簫の笛	せうのふえ	xiao a Chinese end-blown …
+j	籤帖	せんじょう	付箋。
+j	精二郎	せいじろう	a male given name
+j	精力	せいりょく	energy; vigor
+j	精妙	せいみょう	精密で優れていること。精緻で巧みなこと。また、その…
+j	精密さ	せいみつさ	
+j	精密な	せいみつな	
+j	精強	せいきょう	他より優れていて強いこと。また、そのようなさま。
+j	精査	せいさする	close investigation
+j	精査する	せいさする	
+j	精汁	せいじゅう	精液。
+j	精溜	せいりゅう	蒸留で一度蒸発した気体を液体にして元のものに戻すこ…
+j	精漿	せいしょう	精液の精子以外の部分。精液血漿。
+j	精熟	せいじゅく	物事に精通し、熟練していること。
+j	精留	せいりゅう	蒸留で一度蒸発した気体を液体にして元のものに戻すこ…
+j	精神史	せいしんし	精神に関する歴史。
+j	精神科	せいしんか	臨床医学の分野の一つ。精神疾患の診断、治療、予防な…
+j	精秀	せいしゅう	優れること。
+j	精究	せいきゅう	詳しく調べ明らかにすること。
+j	精管	せいくゎん	vas deferens
+j	精純	せいじゅん	清潔。
+j	精良	せいりょう	fine, superior
+j	精虫	せいちゅう	精子。
+j	精醇	せいじゅん	純熟すること。
+j	綫条	せんじょう	糸筋。
+j	線虫	せんちゅう	線形動物門の動物の総称。動植物に寄生したり土中にい…
+j	線量	せんりょう	放射線の量。放射線量。照射線量と吸収線量がある。
+j	繊冗	せんじょう	瑣細。
+j	繊嗇	せんしょく	吝嗇。けち。
+j	繊弱	せんじゃく	しなやかなさま。
+j	繊細な	せんさいな	
+j	繊縟	せんじょく	繊細で華麗なさま。
+j	繊茸	せんじょう	びっしりと茂るさま。
+j	羶食	せんしょく	なまぐさい食物。
+j	翦傷	せんしょう	傷つけること。
+j	聖上	せいじやう	His Majesty (form of addr…
+j	聖上	せいじょう	His Majesty (form of addr…
+j	聖供	せいきょう	（しょうぐ）神仏、聖人に供える米や供物。
+j	聖勅	せいちょく	詔勅。みことのり。
+j	聖史劇	せいしげき	神秘劇。
+j	聖変化	せいへんか	
+j	聖州	せいしゅう	São Paulo (a state of Bra…
+j	聖廟	せいびょう	聖人を祭ってあるところ。
+j	聖書の	せいしょの	
+j	聖杖	せいじょう	A sacred staff, crook, cr…
+j	聖歌隊	せいかたい	choir
+j	聖爵	せいしゃく	chalice
+j	聖職	せいしょく	sacred profession; holy o…
+j	聖詔	せいしょう	天子、天皇の詔。
+j	聖躬	せいきゅう	天子の身体。
+j	聖遺物	せいいぶつ	relic
+j	聖骸布	せいがいふ	shroud that enveloped the…
+j	背の順	せのじゅん	order by height
+j	背伸び	せのびする	stretching oneself
+j	背広組	せびろぐみ	synonym of 文官 (bunkan, “c…
+j	背格好	せかっこう	build (of a person)
+j	背比べ	せいくらべ	comparison of statures
+j	背番号	せばんがう	number (on an athlete's u…
+j	背番号	せばんごう	number (on an athlete's u…
+j	背表紙	せびょうし	書籍の背面の綴じられている部分。普通題名や著者が書…
+j	脊柱	せきちゅう	a vertebral column; a spi…
+j	脊梁	せきりやう	spine, spinal column
+j	脊梁	せきりょう	spine, spinal column
+j	腥臭	せいしゅう	生臭い臭い。生臭いこと。そのさま。
+j	腺ペスト	せんぺすと	齧歯類から人間に感染するペスト。ノミが媒介する。
+j	船上	せんじょう	aboard a ship
+j	船中	せんちゅう	船の中。また、船の中にいる人。
+j	船乗	せんじょう	船と車。
+j	船匠	せんしょう	船大工。船工。
+j	船外	せんぐわい	outside of a 船 – boat (船)…
+j	船将	せんしょう	艦長。船長。
+j	船尾材	せんびざい	sternpost
+j	船尾楼	せんびろう	aftcastle, aftercastle, s…
+j	船廠	せんしょう	造船所。
+j	船橋	せんきょう	bridge (on a ship)
+j	船檣	せんしょう	帆柱。マスト。
+j	船級	せんきゅう	外国航路に就航する船舶に船級協会が認定する国際的な…
+j	船脚	せんきゃく	船の進行。また、その速度。ふなあし。
+j	船長	せんちやう	sea captain, skipper
+j	船長	せんちょう	sea captain, skipper
+j	船首旗	せんしゅき	
+j	苫壌	せんじょう	喪中。
+j	荐及	せんきゅう	（災いなどが）次々と起こること。しきりに発生するこ…
+j	荐畳	せんじょう	しきりに。
+j	荐食	せんしょく	しきりに食べること。
+j	薛延陀	せつえんだ	Xueyantuo (ancient Tiele …
+j	薦蓐	せんじょく	敷物。
+j	薦食	せんしょく	しきりに食べること。
+j	蘚牆	せんしょう	苔の生えた垣。
+j	蝉時雨	せみしぐれ	The sound of many cicadas…
+j	蝉表	せみおもて	A type of geta (sandal) i…
+j	製図	せいずする	draftsmanship; drawing; s…
+j	製氷	せいひょう	氷を製造すること。
+j	製油所	せいゆしょ	oil refinery
+j	製油所	せいゆじょ	oil refinery
+j	製畳	せいじょう	畳を製造すること。
+j	製絨	せいじゅう	毛織物を製造すること。
+j	製織	せいしょく	織物を製造すること。
+j	製菓	せいかする	production of confections
+j	製菓店	せいかてん	菓子を製造、販売する店。
+j	製靴店	せいかてん	靴を製造、販売する店。
+j	襜裳	せんしょう	はかま。
+j	西北の	せいほくの	
+j	西南の	せいなんの	
+j	西収	せいしゅう	秋の収穫。
+j	西城	せいじょう	a surname
+j	西夏文字	せいかもじ	the Tangut script (a logo…
+j	西微北	せいびほく	西と西北西との中間の方位。三十二方位の一つ。
+j	西微南	せいびなん	西と西南西との中間の方位。三十二方位の一つ。
+j	西戎	せいじゅう	中華思想で西方（チベット、トルコなど）の異民族の総…
+j	西敎	せいきょう	
+j	西教	せいきょう	Christianity; literary, w…
+j	西方の	せいほうの	
+j	西方矩	せいほうく	
+j	西洋化	せいようか	westernization
+j	西洋史	せいようし	ヨーロッパとそれに深く影響している古代オリエントの…
+j	西洋画	せいようが	西洋（風）の絵画。洋画。
+j	西洋碁	せいようご	checkers; draughts
+j	西流	せいりゅう	西方へ流れること。また、その流れ。
+j	西王母	せいおうぼ	Queen Mother of the West …
+j	西王母	せいわうぼ	Queen Mother of the West …
+j	西遼	せいりょう	Western Liao
+j	西部劇	せいぶげき	western (film genre)
+j	訕上	せんじょう	上を謗ること。
+j	訕笑	せんしょう	譏笑すること。
+j	設備	せつびする	building services, equipm…
+j	設備員	せつびいん	設備関連の企業で設置や維持管理を担当する社員。
+j	設備工	せつびこう	設備の設置や維持管理を行う職業。
+j	設施	せっしする	establishment; installati…
+j	設置	せっちする	establishment, foundation…
+j	設置者	せっちしゃ	施設や組織を（新たに）設置した者。
+j	設色	せっしょく	彩ること。彩色すること。
+j	設計図	せっけいず	plan; blueprint
+j	設計図	せつけいづ	plan; blueprint
+j	設計士	せっけいし	
+j	詔勅	せうちよく	rescript, imperial edict,…
+j	詮証	せんしょう	明かすこと。
+j	詮議	せんぎする	discussion
+j	誓衆	せいしゅう	大衆を戒めること。
+j	誠実な	せいじつな	
+j	誠志郎	せいしろう	a male given name
+j	誠忠	せいちゅう	誠意のこもった忠義であること。また、そのようなさま。
+j	誠恐	せいきょう	fearing
+j	誠直	せいちょく	誠実で偽りがないこと。また、そのさま。
+j	説教	せっきょう	sermon, preaching
+j	説経	せっきょう	僧が経典の意味を説き聞かせ、衆生を導くこと。
+j	請求	せいきゅう	a strong request
+j	請願	せいぐわん	petition
+j	責め立てる	せめたてる	to blame incessantly
+j	責了	せきりょう	修正指示を残したまま最終確認はせずに、その反映を編…
+j	責譲	せきじょう	罪過を咎めること。
+j	賤妾	せんしょう	賤しい側女。
+j	賤小	せんしょう	卑小。
+j	賤称	せんしょう	相手を身分的に蔑んで呼ぶ名称。
+j	賤職	せんしょく	卑職。
+j	賤視	せんしする	contempt, scorn
+j	贍給	せんきゅう	恵み、与えること。
+j	贍縟	せんじょく	文辞が繁密であること。
+j	赤化	せっかする	communization; turning Re…
+j	赤痢菌	せきりきん	赤痢を引き起こす細菌。
+j	赤竜	せきりゅう	五竜の一つで南方を守護する神獣。四神の朱雀に相当。…
+j	赤竜	せきりょう	五竜の一つで南方を守護する神獣。四神の朱雀に相当。…
+j	赤縄	せきじょう	夫婦の縁を結ぶという赤い縄。紅糸。
+j	赤脚	せっきゃく	肌に何も履いていない脚。裸足。素足
+j	赤色	せきしょく	Red.
+j	践祚	せんそする	ascending (to the imperia…
+j	迫り上がる	せりあがる	to rise gradually
+j	遷徙	せんしする	movement
+j	遷移	せんいする	a transition
+j	遷都	せんとする	relocation of the capital
+j	選入	せんにゅう	選んで入れること。
+j	選出	せんしゅつ	election
+j	選勝	せんしょう	名勝を周遊すること。
+j	選場	せんじょう	試験場。
+j	選奨	せんしょう	優秀なものを選び、奨励すること。
+j	選局	せんきょく	tuning
+j	選局	せんきよく	tuning
+j	選択肢	せんたくし	choice, alternative (a si…
+j	選挙区	せんきょく	constituency (a district …
+j	選挙区	せんきよく	constituency (a district …
+j	選曲	せんきょく	choosing a song
+j	選歌	せんかする	選んだ歌。
+j	選球	せんきゅう	discerning whether a pitc…
+j	選職	せんしょく	人選をする官吏。
+j	選集	せんしゅう	selection (of works, etc.)
+j	鐫譙	せんしょう	詰責すること。
+j	閃光	せんくわう	flash, glint
+j	関ケ原	せきがはら	
+j	関ヶ原	せきがはら	a town in Gifu Prefecture
+j	関ヶ原	せきゖはら	a town in Gifu Prefecture
+j	関ヶ原	せきヶはら	a town in Gifu Prefecture
+j	闡証	せんしょう	明かすこと。
+j	隻脚	せっきゃく	片方の足。
+j	雪上	せつじょう	積雪した雪の上。
+j	雪山偈	せっせんげ	『涅槃経』にある「諸行無常 是生滅法 生滅滅已 寂…
+j	雪月花	せつげっか	雪と月と花。四季における美しい眺め。
+j	雪月花	せつげつか	雪と月と花。四季における美しい眺め。
+j	雪花菜	せっかさい	豆腐を作る過程において大豆から豆乳を絞りとった際に…
+j	雪辱	せつじょく	revenge for embarrassment
+j	雪辱	せつじよく	revenge for embarrassment
+j	雪食	せっしょく	nivation
+j	青化カリ	せいかかり	synonym of シアン化カリウム (shia…
+j	青化カリ	せいかカリ	synonym of シアン化カリウム (shia…
+j	青化物	せいかぶつ	synonym of シアン化物 (shian k…
+j	青宮	せいきゅう	東宮。
+j	青州	せいしゅう	Qingzhou (a city in Shand…
+j	青年期	せいねんき	adolescence (period betwe…
+j	青年誌	せいねんし	青年向けの情報を掲載した雑誌。
+j	青春	せいしゅん	youth; adolescence
+j	青松	せいしょう	a verdantly green pine tr…
+j	青果店	せいかてん	青果を販売する店。
+j	青果物	せいかぶつ	生の野菜や果物の総称。
+j	青歯王	せいしおう	
+j	青牛	せいぎゅう	黒い毛の牛。
+j	青瓦台	せいがだい	（2022年まで大韓民国の大統領官邸のあった場所の…
+j	青竜	せいりゅう	Azure Dragon, one of the …
+j	青竜	せいりゆう	Azure Dragon, one of the …
+j	青竜	せいりょう	Azure Dragon, one of the …
+j	青竜	せいりよう	Azure Dragon, one of the …
+j	青色	せいしょく	blue (color)
+j	青苗	せいびょう	青青とした苗。
+j	青銅器	せいどうき	bronzeware
+j	青龍	せいりゅう	blue dragon, a piece in d…
+j	静修	せいしゅう	心身を静めて修養すること。
+j	静寂	せいじゃく	quiet
+j	静思	せいしする	meditation
+j	静止	せいしする	stillness, being still, c…
+j	静止系	せいしけい	静止した視点から見た系。
+j	静物画	せいぶつが	a still life
+j	静粛	せいしゅく	quiet
+j	静置	せいちする	standing
+j	静脈	せいみゃく	a vein
+j	静電気	せいでんき	static electricity
+j	鮮妝	せんしょう	清らかな装い。
+j	鮮明な	せんめいな	
+j	鮮浄	せんじょう	清らかなさま。
+j	鮮緑	せんりょく	鮮やかな緑。
+j	鮮色	せんしょく	vivid colors
+j	鮮食	せんしょく	鮮肉。
+j	鮮飾	せんしょく	鮮やかにまた綺麗に飾ること。また、その飾り。
+j	鱻食	せんしょく	魚鼈類の食事。
+j	せいいちろう	せいいちろう	清一郎, 誠一郎, 征一郎, 精一郎, 成一郎, …
+j	せいかつかん	せいかつかん	生活環: life cycle
+j	せいかんたい	せいかんたい	性感帯: erogenous zone
+j	せいきんせき	せいきんせき	青金石: lazurite
+j	せいさんえん	せいさんえん	青酸塩: cyanide
+j	せいしんてき	せいしんてき	
+j	せいじょうい	せいじょうい	正常位: missionary position
+j	せいじんしき	せいじんしき	成人式: coming of age ceremo…
+j	せいそういん	せいそういん	清掃員: cleaner, person who …
+j	せいぞうしゃ	せいぞうしゃ	
+j	せいちょうそ	せいちょうそ	生長素: (botany) auxin
+j	せいてんかん	せいてんかん	性転換: sex change
+j	せいもんおん	せいもんおん	声門音: glottal
+j	せかいへいわ	せかいへいわ	世界平和: world peace
+j	せかせかする	せかせかする	
+j	せきじゅうじ	せきじゅうじ	赤十字: the Red Cross
+j	せきたんさん	せきたんさん	石炭酸: (organic chemistry) …
+j	せぐりあげる	せぐりあげる	to well up
+j	せぐろいなご	せぐろいなご	バッタ目イナゴ科に属するばったの一種。学名:Shi…
+j	せせこましい	せせこましい	狭く窮屈だ。狭苦しい。
+j	せせらわらう	せせらわらう	馬鹿にして笑う、嘲笑う。
+j	せっきんおん	せっきんおん	接近音: approximant consonant
+j	せっこつぼく	せっこつぼく	接骨木: Sambucus sieboldiana
+j	せっせと働く	せっせと働く	
+j	せっちゅうじ	せっちゅうじ	接中辞: an infix
+j	せつやくする	せつやくする	
+j	せまくるしい	せまくるしい	狭くて窮屈に感じるさま。
+j	せまっている	せまっている	
+j	せんしんこく	せんしんこく	先進国: advanced country, de…
+j	せんすいかん	せんすいかん	潜水艦: submarine
+j	せんとうふく	せんとうふく	戦闘服: a battle or combat u…
+j	せんもんバカ	せんもんバカ	専門バカ: specialist fool
+j	セイロンゾウ	セイロンゾウ	セイロン象の学術的表記。
+j	セイロン象	せいろんぞう	アジア象の基亜種。学名は Elephas maxi…
+j	セオドライト	セオドライト	経緯儀。
+j	セカンダリー	セカンダリー	第二のもの。
+j	セキュリティ	セキュリティ	security
+j	セクシュアル	セクシュアル	「セクシャル」の表記ゆれ。
+j	セクシー素数	セクシー素数	差が６である２つの素数。
+j	セクステット	セクステット	
+j	セスジネズミ	セスジネズミ	
+j	セックスする	セックスする	
+j	セックスレス	セックスレス	やむを得ない理由がないのに長期間に亘り性行為を行っ…
+j	セッティング	セッティング	物を設置、配置すること。
+j	セットアップ	セットアップ	setup
+j	セットリスト	セットリスト	setlist
+j	セニョリータ	セニョリータ	
+j	セバストポリ	セバストポリ	
+j	セパタクロー	セパタクロー	sepak takraw
+j	セブンアップ	セブンアップ	
+j	セプテンバー	セプテンバー	九月。
+j	セミフレッド	セミフレッド	semifreddo
+j	セミリンガル	セミリンガル	複数言語に触れていながら、語彙の不足や誤った文法の…
+j	セメント質	せめんとしつ	歯根の象牙質の表面を覆う骨組織。白亜質。
+j	セラミックス	セラミックス	窯業で生産される無機質物の製品の総称。
+j	セランゴール	セランゴール	
+j	セラーズ主義	セラーズ主義	
+j	セリアック病	セリアック病	celiac disease
+j	セルシウス度	せるしうすど	the Celsius scale
+j	セルシウス度	セルシウスど	the Celsius scale
+j	セルシウス度	セルシウス度	the Celsius scale
+j	セルトラリン	セルトラリン	sertraline
+j	セルビア人	せるびあじん	Serb
+j	セルビア人	セルビアじん	Serb
+j	セルフィーユ	セルフィーユ	セリ科の一年草。ヨーロッパ原産。ハーブとして食用。…
+j	セルフカバー	セルフカバー	self-cover
+j	セルフネイル	セルフネイル	doing one's own nails
+j	セルモーター	セルモーター	starter motor
+j	セレクション	セレクション	選択。
+j	セレクティブ	セレクティブ	選択できる。
+j	セレネリオン	セレネリオン	皆既月食中にもかかわらず、大気による光の屈折の影響…
+j	セレブリティ	セレブリティ	a celebrity (a famous per…
+j	セレン化水素	セレン化水素	
+j	センザンコウ	センザンコウ	センザンコウ目センザンコウ科に属する哺乳類の総称。…
+j	センチグラム	センチグラム	質量の単位。グラムの百分の一。
+j	センチネル語	せんちねるご	インド領アンダマン諸島の北センチネル島でセンチネル…
+j	センチネル語	センチネル語	インド領アンダマン諸島の北センチネル島でセンチネル…
+j	センチュリー	センチュリー	世紀。百年。
+j	センテニアル	センテニアル	
+j	セントキッツ	セントキッツ	synonym of セントクリストファー (Se…
+j	セントジョン	セントジョン	Saint John (a city in New…
+j	セントヘレナ	セントヘレナ	
+j	セントポール	セントポール	Saint Paul (the capital c…
+j	セントユーロ	セントユーロ	
+j	セントルイス	セントルイス	St. Louis
+j	セントルシア	セントルシア	Saint Lucia (an island an…
+j	セントロメア	セントロメア	centromere
+j	センドバック	センドバック	もとの場所に送り返すこと。
+j	セーフガード	セーフガード	安全を確保するための見張りや警戒。
+j	セーフティー	セーフティー	安全。
+j	セーフモード	セーフモード	
+j	セーフワード	セーフワード	
+j	セーラー服	せーらーふく	sailor uniform
+j	セーラー服	セーラーふく	sailor uniform
+j	セールスマン	セールスマン	salesman; salesperson
+j	世俗主義	せぞくしゅぎ	
+j	世俗化	せぞくかする	secularization
+j	世俗的な	せぞくてきな	
+j	世智弁聡	せちべんそう	八難の一つで世知に長け、ずるいこと。世知弁。
+j	世界の窓	せかいのまど	社会の窓。
+j	世界中	せかいじゅう	throughout the world
+j	世界中	せかいちゅう	throughout the world
+j	世界中	せかいぢゅう	throughout the world
+j	世界中	せかいぢゆう	throughout the world
+j	世界主義	せかいしゅぎ	民族、国家を問わず全世界の人々を同胞とする考え方。…
+j	世界平和	せかいへいわ	world peace
+j	世界時計	せかいどけい	時差を考慮した世界各地の時刻を表示する時計。
+j	世界的な	せかいてきな	
+j	世界的に	せかいてきに	
+j	世界観	せかいくわん	worldview
+j	世界記録	せかいきろく	world record
+j	世界遺產	せかいいさん	
+j	世界遺產	せかいゐさん	
+j	世界遺産	せかいいさん	World Heritage Site, a pl…
+j	世界遺産	せかいゐさん	World Heritage Site, a pl…
+j	世襲	せしゅうする	heredity
+j	世間知らず	せけんしらず	ignorant of the way of th…
+j	世間話	せけんばなし	gossip, small talk
+j	世間離れ	せけんばなれ	世間（社会）の常識から外れていること。
+j	仙人草	せんにんそう	sweet autumn clematis, Cl…
+j	仙人草	センニンソウ	sweet autumn clematis, Cl…
+j	仙鶴草	せんかくそう	dried Agrimonia pilosa va…
+j	僭窃	せんせつする	stealing something that b…
+j	先々月	せんせんげつ	the month before last; tw…
+j	先先代	せんせんだい	先代の一代前。
+j	先先月	せんせんげつ	先月の前の月。
+j	先制	せんせいする	making the first move
+j	先取	せんしゅする	receiving something befor…
+j	先史地震	せんしじしん	文献の残っていない時代に起こり、地質学的な証拠だけ…
+j	先史時代	せんしじだい	prehistoric era, prehisto…
+j	先天性	せんてんせい	hereditary, congenital
+j	先天的	せんてんてき	congenital
+j	先導	せんどうする	leadership
+j	先攻	せんこうする	going first (in an offens…
+j	先決	せんけつする	first consideration; firs…
+j	先生方	せんせいがた	teachers
+j	先発	せんぱつする	starting first, a head st…
+j	先行	せんこうする	the first, the vanguard, …
+j	先見	せんけんする	foresight
+j	先進国	せんしんこく	advanced country, develop…
+j	先遣	せんけんする	sending ahead, advance
+j	先験的	せんけんてき	カントの哲学で、対象にかかわらず先天的に可能なかぎ…
+j	切分法	せつぶんほう	シンコペーション。
+j	切削	せっさくする	machining
+j	切断	せつだんする	cutting, cutting off, sev…
+j	切断する	せつだんする	
+j	切断者	せつだんしゃ	an amputee
+j	切望	せつぼうする	earnest desire
+j	切望する	せつぼうする	
+j	切磋琢磨	せっさたくま	applying oneself and stud…
+j	切経診	せっけいしん	切診の一つで経絡や経穴の皮膚表面を触診する診察法。…
+j	切羽詰まる	せっぱつまる	to be in a fix, to be at …
+j	切腹	せっぷくする	seppuku (ritual suicide b…
+j	切腹物	せっぷくもの	（切腹という刑罰があるような時代であれば）切腹に処…
+j	切迫	せっぱくする	urgency
+j	切開	せっかいする	incision, section
+j	切除	せつじょする	cutting off, excision, -t…
+j	切願	せつがんする	entreaty
+j	制作	せいさくする	production
+j	制動	せいどうする	braking action
+j	制動灯	せいどうとう	自分がフットブレーキを使用していることを他の交通に…
+j	制圧	せいあつする	suppression, mastery, con…
+j	制定	せいていする	enactment, establishment,…
+j	制定する	せいていする	
+j	制御	せいぎょする	control
+j	制御室	せいぎょしつ	a control room
+j	制御文字	せいぎょもじ	control character
+j	制御棒	せいぎょぼう	control rod
+j	制御盤	せいぎょばん	
+j	制服組	せいふくぐみ	synonym of 武官 (bukan, “mi…
+j	制汗剤	せいかんざい	antisudorific
+j	制海権	せいかいけん	軍事力を用いて海域を支配し、主導権を握れるようにす…
+j	制淫薬	せいいんやく	
+j	制空権	せいくうけん	air supremacy
+j	制約	せいやくする	restriction, limitation
+j	制裁	せいさいする	punishment; sanction
+j	制酸薬	せいさんやく	antacid, gastric antacid
+j	制限	せいげんする	limit, restriction
+j	制限する	せいげんする	
+j	剪断	せんだんする	shearing (deformation bec…
+j	剪断する	せんだんする	
+j	勢至菩薩	せいしぼさつ	Mahasthamaprapta, the bod…
+j	千万金	せんまんきん	多額の金銭。大金。
+j	千人針	せんにんばり	senninbari; a militaristi…
+j	千分率	せんぶんりつ	全体を1000に分けたうちの割合。千分比。
+j	千古不易	せんこふえき	eternally unchanging
+j	千寿菊	せんじゅぎく	
+j	千秋楽	せんしうらく	a Tang-style 雅楽 (gagaku, …
+j	千里万里	せんりばんり	はるか遠くであること。
+j	千首和歌	せんしゅわか	一人または複数の人で千首の和歌を詠むこと。また、そ…
+j	占拠	せんきょする	occupation (act, process …
+j	占拠する	せんきょする	
+j	占星学	せんせいがく	astrology
+j	占有	せんゆうする	total possession, monopol…
+j	占有する	せんゆうする	
+j	占有権	せんゆうけん	占有を要件として成立する物権。
+j	占筮法	せんぜいほう	易の卦を筮竹の数により得る方法。筮法。
+j	声援	せいえんする	support; cheering on
+j	声援する	せいえんする	
+j	声明	せいめいする	a public statement or dec…
+j	声明書	せいめいしょ	a (public) statement, man…
+j	声門音	せいもんおん	glottal
+j	宣伝	せんでんする	advertisement, publicity
+j	宣伝する	せんでんする	
+j	宣伝員	せんでんいん	
+j	宣伝文	せんでんぶん	
+j	宣告	せんこくする	verdict, sentence
+j	宣告する	せんこくする	
+j	宣戦	せんせんする	declaring war
+j	宣教師	せんきょうし	missionary
+j	宣言	せんげんする	declaration
+j	宣言する	せんげんする	
+j	宣言法	せんげんほう	ある状況を宣言する法律。
+j	宣誓	せんせいする	oath, promise, swearing, …
+j	専修	せんじゅする	specialization, specialis…
+j	専修科	せんしゅうか	大学や専門学校などで特別な知識や技術、技能を学ぶ学…
+j	専制	せんせいする	despotism, autocracy (gov…
+j	専売	せんばいする	monopoly
+j	専属	せんぞくする	exclusive
+j	専念	せんねんする	concentration, focus
+j	専攻	せんこうする	academic major
+j	専攻する	せんこうする	
+j	専用	せんようする	the exclusive use, dedica…
+j	専門バカ	せんもんばか	someone who is only knowl…
+j	専門バカ	せんもんバカ	someone who is only knowl…
+j	専門外	せんもんがい	outside of one's field of…
+j	専門店	せんもんてん	specialty store; boutique
+j	専門的	せんもんてき	expert, special
+j	専門馬鹿	せんもんばか	自分が専門する分野には精通しているが、それ以外のこ…
+j	小夜曲	せうやきょく	serenade
+j	小学生	せうがくせい	schoolchildren, schoolboy…
+j	小惑星	せうわくせい	an asteroid
+j	小数点	せうすうてん	decimal point, radix point
+j	小論文	せうろんぶん	short essay
+j	小陰唇	せういんしん	labia minora
+j	席巻	せっけんする	conquering, sweeping
+j	席替え	せきがえする	swapping seats, (especial…
+j	征伐	せいばつする	conquest
+j	征服	せいふくする	subjugation, conquest
+j	征服する	せいふくする	
+j	征服欲	せいふくよく	lust/desire for conquest
+j	征服者	せいふくしゃ	
+j	性ホルモン	せいほるもん	
+j	性交	せいこうする	sexual intercourse, sex, …
+j	性交する	せいこうする	
+j	性体験	せいたいけん	sexual experience
+j	性別違和	せいべついわ	gender dysphoria
+j	性別違和	せいべつゐわ	gender dysphoria
+j	性善説	せいぜんせつ	the theory that people ar…
+j	性役割	せいやくわり	gender role
+j	性悪説	せいあくせつ	the theory that people ar…
+j	性感帯	せいかんたい	an erogenous zone
+j	性搾取	せいさくしう	sexual exploitation
+j	性搾取	せいさくしゅ	sexual exploitation
+j	性教育	せいきょいく	sex education
+j	性教育	せいけういく	sex education
+j	性格型	せいかくがた	
+j	性犯罪	せいはんざい	自己の性欲を満たすことを動機とする犯罪行為。
+j	性生活	せいせいかつ	sex life
+j	性病の	せいびょうの	
+j	性病科	せいびょうか	
+j	性科学	せいくわがく	sexology
+j	性転換	せいてんかん	sex change
+j	性風俗	せいふうぞく	対価を受け取った上で客に性的な奉仕を行う産業。
+j	惜敗	せきはいする	losing by a narrow margin
+j	成人	せいじんする	an adult; a grown-up
+j	成人の日	せいじんのひ	成人となった人を祝う国民の祝日。成人式が行われる。…
+j	成人向け	せいじんむけ	for adult audiences (due …
+j	成人式	せいじんしき	coming-of-age ceremony (n…
+j	成功	せいこうする	success
+j	成功した	せいこうした	
+j	成功する	せいこうする	
+j	成功者	せいこうしゃ	（事業などで成功し）目的を達成した者。
+j	成層圏	せいそうけん	the stratosphere
+j	成年者	せいねんしゃ	adult; person of full age
+j	成形	せいけいする	formation
+j	成敗	せいばいする	settlement
+j	成文化	せいぶんくわ	codification, the act of …
+j	成文法	せいぶんほう	statute law
+j	成果主義	せいかしゅぎ	企業において、どれだけの利益を所属する企業に与えた…
+j	成立	せいりつする	birth; formation; coming …
+j	成約	せいやくする	reaching an agreement
+j	戦争	せんそうする	war (conflict involving o…
+j	戦争する	せんそうする	
+j	戦争好き	せんそうずき	warlike, bellicose
+j	戦争学	せんそうがく	戦争について研究する学問。軍事学。国防学。防衛学。
+j	戦慄	せんりつする	a shudder
+j	戦没	せんぼつする	lost in action
+j	戦略家	せんりゃくか	strategist
+j	戦術家	せんじゅつか	tactician
+j	戦車兵	せんしゃへい	戦車を使用しての攻撃や偵察、それに伴う整備を担当す…
+j	戦車砲	せんしゃほう	戦車に搭載されている大砲。
+j	戦闘	せんとうする	a battle, a fight, combat
+j	戦闘員	せんとういん	combatant; fighter
+j	戦闘服	せんとうふく	a battle or combat unifor…
+j	戦闘艦	せんとうかん	「戦艦」の旧称。
+j	戰國策	せんごくさく	
+j	扇動	せんどうする	incitement, sedition, agi…
+j	扇動する	せんどうする	
+j	扇動者	せんどうしゃ	
+j	扇状地	せんじょうち	河川が山地から平野部に出た場所で流れが緩やかになり…
+j	折半	せっぱんする	half
+j	折檻	せっかんする	severe disciplining
+j	拙訳	せつやくする	clumsy translation
+j	接中辞	せっちゅうじ	an infix
+j	接写	せっしゃする	macro photography, closeup
+j	接吻	せっぷんする	kiss
+j	接吻する	せっぷんする	
+j	接周辞	せっしゅうじ	a circumfix
+j	接岸	せつがんする	coming alongside a pier
+j	接待	せったいする	reception of a visitor, e…
+j	接戦	せっせんする	close combat
+j	接断	せつだんする	to disconnect
+j	接種	せっしゅする	vaccination
+j	接続	せつぞくする	connection
+j	接続する	せつぞくする	
+j	接続性	せつぞくせい	
+j	接続法	せつぞくほう	インド・ヨーロッパ諸語における言語学上の法の一つで…
+j	接続駅	せつぞくえき	
+j	接見	せっけんする	interview
+j	接近	せっきんする	getting closer, approachi…
+j	接近する	せっきんする	
+j	接近音	せっきんおん	approximant
+j	接骨	せっこつする	bonesetting
+j	接骨木	せっこつぼく	Japanese red elder, Sambu…
+j	摂取	せっしゅする	intake, assimilation
+j	摂取す	せっしゅする	
+j	摂取する	せっしゅする	
+j	摂氏温度	せっしおんど	synonym of セルシウス度 (Serush…
+j	摂氏温度	せつしをんど	synonym of セルシウス度 (Serush…
+j	摂生	せっせいする	maintenance of health thr…
+j	政党制	せいとうせい	政党政治の構成するものとして政党をその要素とする政…
+j	政府機関	せいふきかん	国や地方の政府の機関や部局ならびに一部の機能を移管…
+j	政治化	せいじかする	politicization
+j	政治化する	せいじかする	
+j	政治局	せいじきょく	
+j	政治的な	せいじてきな	
+j	政財界	せいざいかい	政界と財界の総称。
+j	整備場	せいびじょう	車両や船舶、航空機を含めた機械などの修理、点検、整…
+j	整備業	せいびぎょう	整備を行う事業。
+j	整列する	せいれつする	
+j	整合	せいごうする	matching; conformity; con…
+j	整合性	せいがふせい	integrity, quality of bei…
+j	整合性	せいごうせい	integrity, quality of bei…
+j	整形	せいけいする	fixing the shape of somet…
+j	整形外科	せいけいげか	orthopaedic surgery; plas…
+j	整数型	せいすうがた	integer data type
+j	整数論	せいすうろん	synonym of 数論 (sūron, “nu…
+j	整関数	せいかんすう	複素数平面の全域で定義される正則関数。
+j	整除	せいじょする	division without a remain…
+j	整頓	せいとんする	order; arrangement; putti…
+j	整頓する	せいとんする	
+j	整骨	せいこつする	synonym of 接骨 (sekkotsu, …
+j	施術	せじゅつする	carrying out a procedure
+j	施術室	せじゅつしつ	施術所で按摩マッサージ指圧師、はり師、灸師、柔道整…
+j	施術所	せじゅつしょ	はり師、灸師、按摩マッサージ指圧師、柔道整復師が施…
+j	施錠	せじょうする	act of locking
+j	旋回	せんかいする	revolution; rotation; tur…
+j	旋盤工	せんばんこう	turner (person working a …
+j	旋転	せんてんする	rotating, turning, revolv…
+j	星座早見	せいざはやみ	星図が印刷され固定された厚紙と、その上で動かせる透…
+j	星条旗	せいじょうき	Stars and Stripes (nation…
+j	晴眼者	せいがんしゃ	person who has no visual …
+j	栴檀林	せんだんりん	栴檀の林。
+j	棲居	せいきょする	residence
+j	楔形文字	せっけいもじ	cuneiform (ancient writin…
+j	正則性	せいそくせい	
+j	正反対	せいはんたい	exact opposite; contrary
+j	正射影	せいしゃえい	ある図形上の各点から、直線または平面上に下ろした垂…
+j	正常位	せいじょうい	missionary position
+j	正常化	せいじょうか	normalization
+j	正当性	せいとうせい	社会通念や法令に照らし合わせて、正しくまた道理にか…
+j	正攻法	せいこうはふ	straightforward, normal a…
+j	正攻法	せいこうほう	straightforward, normal a…
+j	正方形	せいほうけい	regular square, regular t…
+j	正書法	せいしょほう	orthography
+j	正書法	せいしよはふ	orthography
+j	正書法	せいしよほう	orthography
+j	正看護師	せいかんごし	（准看護師に対し）看護師のこと。
+j	正確性	せいかくせい	accuracy, exactness
+j	正社員	せいしゃいん	regular employee, full-ti…
+j	正答	せいとうする	answering correct
+j	正統性	せいとうせい	ある地域を支配する権力がその地域の支配者として地位…
+j	正規分布	せいきぶんぷ	normal distribution
+j	正規化	せいきかする	normalisation
+j	正規近似	せいききんじ	二項分布やポアソン分布などの与えられた確率分布の挙…
+j	正規雇用	せいきこよう	雇用の期間を定めず、フルタイムで雇用する形態の契約。
+j	正解	せいかいする	correct answer
+j	正誤表	せいごひょう	
+j	正露丸	せいろぐわん	seirogan
+j	正音学	せいおんがく	orthoepy
+j	残存する	せいぞんする	
+j	殲滅	せんめつする	annihilation, eradication…
+j	洗卵	せんらんする	washing of an egg
+j	洗口液	せんこうえき	mouthwash
+j	洗浄器	せんじょうき	
+j	洗滌	せんできする	rinsing
+j	洗濯	せんたくする	laundry, washing
+j	洗濯する	せんたくする	
+j	洗濯所	せんたくじょ	laundry (business); laund…
+j	洗濯板	せんたくいた	a washboard for scrubbing…
+j	洗濯物	せんたくもの	洗濯した物。
+j	洗礼名	せんれいめい	洗礼を受ける際に授けられる名前。
+j	洗礼堂	せいれいどう	
+j	洗礼盤	せんれいばん	
+j	洗練	せんれんする	refinement, polish (clean…
+j	洗脳	せんのうする	brain-washing
+j	洗脳する	せんのうする	
+j	洗車	せんしゃする	washing an automobile or …
+j	洗面	せんめんする	washing one's face
+j	洗面する	せんめんする	
+j	洗面台	せんめんだい	a washbasin
+j	洗面所	せんめんじょ	washroom (room for washin…
+j	洗顏	せんがんする	
+j	洗顔	せんがんする	washing one's face
+j	洗髪	せんぱつする	washing one's hair, a sha…
+j	消去法	せうきよはふ	process of elimination
+j	消失点	せうしつてん	vanishing point
+j	消火栓	せうくわせん	a fire hydrant
+j	消耗品	せうもうひん	commodity, consumable, ex…
+j	消防署	せうばうしよ	fire station, fire depart…
+j	消防隊	せうばうたい	fire brigade, company
+j	清一郎	せいいちろう	a male given name
+j	清拭	せいしきする	sponge bath
+j	清掃	せいそうする	cleaning
+j	清掃員	せいそういん	cleaner, person who cleans
+j	清教徒	せいきょうと	synonym of ピューリタン (Pyūrit…
+j	清明節	せいめいせつ	Tomb Sweeping Day, an ann…
+j	清書	せいしょする	rewriting of handwritten …
+j	清浄機	せいじょうき	大気や液体を清浄にし、それを保持する機器。
+j	清涼殿	せいろうでん	内裏の中で天皇が日常を過ごした殿舎。
+j	清算	せいさんする	settlement of accounts
+j	潛水艦	せんすいかん	
+j	潜伏	せんぷくする	concealment
+j	潜在	せんざいする	hiddenness; invisibility;…
+j	潜在的	せんざいてき	potential, possible
+j	潜水	せんすいする	diving underwater
+j	潜水船	せんすいせん	潜水、潜航を行う船舶。潜水艦。潜水艇。潜航艇。
+j	潜水艇	せんすいてい	submersible, small submar…
+j	潜水艦	せんすいかん	a submarine (undersea boa…
+j	潜航	せんこうする	underwater travel
+j	潜航艇	せんこうてい	潜水艦の旧名。
+j	潜行	せんこうする	traveling underwater
+j	瀬戸内海	せとないかい	Seto Inland Sea (the body…
+j	焦眉の急	せうびのきふ	urgent need
+j	焼却炉	せうきやくろ	incinerator
+j	煎じ薬	せんじぐすり	漢方薬を煮出してそれを飲む薬。煎薬。
+j	煽動する	せんどうする	
+j	生体学	せいたいがく	somatology
+j	生化学	せいくわがく	biochemistry
+j	生合成	せいごうせい	生体の体内で酵素などの働きにより[[有機物]が合成…
+j	生命体	せいめいたい	a lifeform
+j	生存	せいぞんする	living, life
+j	生存権	せいぞんけん	right to life
+j	生存者	せいぞんしゃ	survivor
+j	生年月	せいねんがつ	生まれた年と月。主に身分証明書・履歴書などの公的な…
+j	生息	せいそくする	habitation
+j	生態学	せいたいがく	ecology
+j	生態系	せいたいけい	an ecosystem (system of a…
+j	生成	せいせいする	generation, formation
+j	生成物	せいせいぶつ	化学反応で生成される物質。
+j	生殖器	せいしょくき	reproductive organ; genit…
+j	生没年	せいぼつねん	生年と没年。
+j	生活	せいかつする	life; livelihood; daily l…
+j	生活圏	せいかつけん	area in which someone's d…
+j	生活環	せいかつかん	life cycle
+j	生活難	せいかつなん	物価の高騰や収入の減少などにより生活することが困難…
+j	生活音	せいかつおん	sounds of daily life of a…
+j	生物テロ	せいぶつてろ	生物テロリズムの略。
+j	生物圏	せいぶつけん	biosphere (part of Earth …
+j	生物学	せいぶつがく	biology
+j	生物的	せいぶつてき	生物に関係するさま。生物が扱う事柄と関係するさま。
+j	生理がある	せいりがある	
+j	生産	せいさんする	production
+j	生産する	せいさんする	
+j	生産的	せいさんてき	生産をもたらすこと。また、そのさま。
+j	生産者	せいさんしゃ	producer, manufacturer, m…
+j	生石灰	せいせっかい	calcium oxide
+j	生育	せいいくする	growth
+j	生花商	せいかしょう	生花を売る人。
+j	生花業	せいかぎょう	花を仕入れて販売する事業。
+j	生誕	せいたんする	birth; nativity
+j	生還	せいかんする	survival
+j	生長素	せいちょうそ	auxin
+j	瘠痩	せきそうする	痩せること。痩せていること。
+j	盛装する	せいそうする	
+j	省約	せいやくする	abbreviation; shortening
+j	石器時代	せききじだい	the Stone Age
+j	石器時代	せっきじだい	the Stone Age
+j	石敢当	せきかんとう	主に丁字路の突き当たりに「石敢當（または石敢当）」…
+j	石敢当	せきがんとう	主に丁字路の突き当たりに「石敢當（または石敢当）」…
+j	石敢當	せきかんとう	stone tablet erected in s…
+j	石敢當	せきがんとう	stone tablet erected in s…
+j	石景山	せきけいざん	
+j	石決明	せっけつめい	washed and dried abalone …
+j	石油ランプ	せきゆらんぷ	
+j	石油化学	せきゆかがく	petrochemistry
+j	石灰岩	せっかいがん	limestone
+j	石灰水	せっかいすい	消石灰（水酸化カルシウム）の飽和水溶液。アルカリ性…
+j	石灰洞	せっかいどう	カルスト地形で地下水などが石灰岩を浸食することによ…
+j	石灰石	せっかいせき	limestone
+j	石炭酸	せきたんさん	phenol (caustic compound …
+j	石炭黒	せきたんくろ	
+j	石菖蒲	せきしやうぶ	rhizome of the Japanese r…
+j	石菖蒲	せきしょうぶ	rhizome of the Japanese r…
+j	石鹸入れ	せっけんいれ	soap dish
+j	積乱雲	せきらんうん	cumulonimbus
+j	積分学	せきぶんがく	微分積分学のうち、積分法を扱う分野。
+j	積分法	せきぶんほう	不定積分・定積分を求める手法。
+j	積雪	せきせつする	fallen snow; snowfall
+j	積雪深	せきせつしん	地表に積雪した深さ。積雪量。
+j	積雪草	せきせつそう	dried Centella asiatica, …
+j	穿孔	せんこうする	perforating
+j	穿山甲	せんざんかふ	a pangolin
+j	穿山甲	せんざんこう	a pangolin
+j	穿山甲	センザンカフ	a pangolin
+j	穿山甲	センザンコウ	a pangolin
+j	窃取	せっしゅする	theft
+j	窃盗	せっとうする	larceny, theft
+j	窃盗犯	せっとうはん	窃盗の罪を犯すこと。また、その犯人。
+j	窃盗者	せっとうしゃ	
+j	窃視症	せっししょう	
+j	競りにかける	せりにかける	
+j	節制	せっせいする	temperance; self-control;…
+j	節制した	せっせいした	
+j	節水	せっすいする	conservation of water
+j	節減	せつげんする	reduction
+j	節約	せつやくする	frugality
+j	節約する	せつやくする	
+j	節電	せつでんする	the act of saving electri…
+j	精を出して	せいをだして	
+j	精一杯	せいいっぱい	with one's best effort
+j	精励	せいれいする	conscientiousness or dete…
+j	精子バンク	せいしばんく	
+j	精密性	せいみつせい	
+j	精神界	せいしんかい	The spiritual world
+j	精神的	せいしんてき	mental, psychological
+j	精神科医	せいしんかい	psychiatrist
+j	精神論	せいしんろん	spiritualism
+j	精算	せいさんする	accurate calculation
+j	精米	せいまいする	rice cleaning / polishing
+j	精肉店	せいにくてん	精肉を販売する店。
+j	精製	せいせいする	quality production
+j	精読	せいどくする	careful reading
+j	精通	せいつうする	mastery, proficiency, exp…
+j	精選	せいせんする	careful selection
+j	精銅	せいどうする	純度が99.9パーセント以上に精練された銅。
+j	精錬所	せいれんしょ	refinery (building used t…
+j	精錬所	せいれんじょ	refinery (building used t…
+j	紹興酒	せうこうしゆ	Shaoxing wine
+j	線形性	せんけいせい	linearity
+j	線香代	せんこうだい	芸者、遊女を揚げて遊ぶ費用。花代。
+j	繊維機械	せんいきかい	繊維や繊維製品を製造する機械の総称。
+j	羨望	せんぼうする	envy
+j	聖人録	せいじんろく	
+j	聖公会	せいこうかい	イングランド国教会から派生したプロテスタントの宗派。
+j	聖四文字	せいよんもじ	テトラグラマトンの和名。
+j	聖書学	せいしょがく	ユダヤ教・キリスト教の聖書を批評・解釈することを通…
+j	聖火リレー	せいかりれー	Olympic torch relay
+j	聖火リレー	せいかリレー	Olympic torch relay
+j	聖誕祭	せいたんさい	synonym of クリスマス (Kurisum…
+j	聖誕節	せいたんせつ	synonym of クリスマス (Kurisum…
+j	聖餐式	せいさんしき	聖餐。
+j	肖像権	せうぜうけん	portraiture right; portra…
+j	背格好	せいかっこう	build (of a person)
+j	脊椎炎	せきついえん	何らかの原因により脊椎におこる炎症。
+j	脊髄癆	せきずいろう	tabes dorsalis
+j	船首楼	せんしゅろう	
+j	芟除	せんじょする	elimination, scything
+j	蘚苔学	せんたいがく	bryology
+j	製パン	せいパンする	production of bread
+j	製パン店	せいぱんてん	パンを製造、販売する店。
+j	製パン所	せいぱんじょ	パンを製造する所、工場。
+j	製作	せいさくする	manufacture
+j	製作所	せいさくじょ	品物を製作する所、工場。
+j	製作者	せいさくしゃ	producer, manufacturer
+j	製作者	せいさくしや	producer, manufacturer
+j	製品群	せいひんぐん	product line, family of p…
+j	製本	せいほんする	book binding, bookmaking
+j	製材所	せいざいしょ	sawmill, lumbermill
+j	製炭	せいたんする	charcoal production
+j	製粉所	せいふんしょ	mill
+j	製粉所	せいふんじょ	mill
+j	製糸業	せいしぎょう	the silk industry
+j	製紙業	せいしぎょう	the paper manufacturing i…
+j	製缶	せいかんする	can manufacture
+j	製菓業	せいかぎょう	菓子の製造して販売する事業。
+j	製菓機械	せいかきかい	製菓における工程を自動的に行う機械の総称。
+j	製薬	せいやくする	manufacture of pharmaceut…
+j	製造	せいぞうする	manufacturing
+j	製造する	せいぞうする	
+j	製造者	せいぞうしゃ	maker, manufacturer, prod…
+j	製鉄所	せいてつじょ	ironworks
+j	製鋼	せいこうする	steelmaking
+j	製鋼所	せいこうしょ	steelworks, steel mill
+j	製鋼所	せいこうじょ	steelworks, steel mill
+j	製陶	せいとうする	pottery manufacture
+j	製靴業	せいかぎょう	靴を製造して販売する事業。
+j	製麺所	せいめんじょ	麺類を製造する所、工場。
+j	西北西	せいほくせい	西と北西の中間の方位。十六方位の一つ。
+j	西南西	せいなんせい	西と南西の中間の方位。十六方位の一つ。
+j	西和辞典	せいわじてん	スペイン語の単語や熟語を、日本語で定義し、用法等を…
+j	西岸地区	せいがんちく	
+j	西洋人	せいようじん	Westerner
+j	西洋剣	せいようけん	中世から近代にかけてヨーロッパで使われた刀剣。洋剣。
+j	西洋梨	せいようなし	バラ科の落葉高木。ヨーロッパ原産の梨で、果実は食用…
+j	西洋風	せいやうふう	Western-style
+j	西洋風	せいようふう	Western-style
+j	西洋館	せいようかん	西洋風の住宅や建物。洋館。
+j	西行	せいこうする	late Heian- to early Kama…
+j	西進	せいしんする	advancement westward
+j	設問	せつもんする	posing of a question; or,…
+j	設営	せつえいする	setup
+j	設定	せっていする	setup; establishment; cre…
+j	設定する	せっていする	
+j	設立	せつりつする	establishment, foundation…
+j	設立者	せつりつしゃ	founder
+j	設計	せっけいする	plan
+j	設計する	せっけいする	
+j	設計者	せっけいしゃ	形や仕組みの組み立て、設計に従事する人。
+j	詮索	せんさくする	inquiry, investigation
+j	詮索する	せんさくする	
+j	誓約	せいやくする	A vow, oath or pledge; an…
+j	誓言	せいげんする	oath; pledge; vow
+j	誓言	せいごんする	oath; pledge; vow
+j	誓願	せいがんする	oath, pledge
+j	説得	せっとくする	persuasion
+j	説得する	せっとくする	
+j	説教師	せっきょうし	説教を職とする者。
+j	説明	せつめいする	explanation
+j	説明する	せつめいする	
+j	説明書	せつめいしょ	instruction manual
+j	説法	せっぽうする	expounding the teachings …
+j	請求書	せいきうしよ	a bill, a written stateme…
+j	請願	せいがんする	petition
+j	責め苛む	せめさいなむ	torture, torment, excruci…
+j	責任感	せきにんかん	a sense of responsibility
+j	責任者	せきにんしゃ	a person in charge; a per…
+j	赤十字	せきじゅうじ	the Red Cross
+j	赤外線	せきがいせん	infrared radiation
+j	赤新月	せきしんげつ	
+j	赤血球	せきけつきう	a red blood cell; an eryt…
+j	赤道面	せきどうめん	天体において、赤道と中心を通る平面。
+j	赤鉄鉱	せきてっこう	
+j	赤面	せきめんする	a blush
+j	赤面する	せきめんする	
+j	逝去	せいきょする	death
+j	逝去する	せいきょする	
+j	遷延	せんえんする	delaying
+j	遷移元素	せんいげんそ	a transition element
+j	選任	せんにんする	appointment; election; no…
+j	選別	せんべつする	sorting (categorizing), c…
+j	選別する	せんべつする	
+j	選定	せんていする	careful selection
+j	選帝侯	せんていこう	prince-elector, a member …
+j	選手村	せんしゅむら	Olympic village
+j	選手権	せんしゅけん	championship (position of…
+j	選手権	せんしゆけん	championship (position of…
+j	選抜	せんばつする	selecting the best
+j	選択	せんたくする	a selection; a choice; an…
+j	選択権	せんたくけん	choice, option
+j	選挙	せんきょする	election
+j	選挙する	せんきょする	
+j	選挙人	せんきょにん	voter
+j	選挙戦	せんきょせん	選挙における候補同士の争い。
+j	選挙権	せんきょけん	suffrage
+j	選書	せんしょする	selection of books
+j	選球眼	せんきうがん	an eye for discerning whe…
+j	選考	せんこうする	screening of candidates
+j	閃光彈	せんこうだん	
+j	闡明	せんめいする	explanation
+j	雪隠詰	せっちんづめ	「雪隠詰め」の異表記。
+j	雪隠詰め	せっちんづめ	将棋盤の隅（1一、1九、9一、9九のいずれか）で王…
+j	青化物	せいくわぶつ	synonym of シアン化物 (shian k…
+j	青年団	せいねんだん	一定の地域内に居住する青年期の人達で組織された自治…
+j	青春期	せいしゅんき	青年期。
+j	青果商	せいかしょう	青果を売る人
+j	青果業	せいかぎょう	野菜や果物を仕入れて販売する事業。
+j	青酸カリ	せいさんかり	synonym of シアン化カリウム (shia…
+j	青酸カリ	せいさんカリ	synonym of シアン化カリウム (shia…
+j	青酸塩	せいさんえん	synonym of シアン化物 (shian k…
+j	青金石	せいきんせき	lazurite, one of the main…
+j	静力学	せいりきがく	静的な物体に働く力についての力学。
+j	静止軌道	せいしきどう	公転周期が地球の自転周期と等しくなる人工衛星の軌道…
+j	静物画	せいぶつぐわ	a still life
+j	静電学	せいでんがく	
+j	静養	せいようする	recuperate; convalescence
+j	顫動	せんどうする	vibration, tremble
+j	顫動音	せんどうおん	synonym of 震え音 (furueon, …
+j	顳顬骨	せふじゅこつ	synonym of 側頭骨 (sokutōkot…
+j	鮮新世	せんしんせい	新第三紀の2番目の世。533万年前から258万年前…
+j	鮮魚店	せんぎょてん	鮮魚を販売する店。
+j	鯪鯉	せんざんこう	synonym of 穿山甲 (senzankō,…
+j	せいこうたいい	せいこうたいい	性交体位: sex position
+j	せいさつよだつ	せいさつよだつ	生殺与奪: having life and dea…
+j	せいしめんたい	せいしめんたい	正四面体: regular tetrahedron
+j	せいしょうどう	せいしょうどう	性衝動: sexual urge
+j	せいしんせいい	せいしんせいい	誠心誠意: in all sincerity; w…
+j	せいたかよもぎ	せいたかよもぎ	キク科の多年草。中国原産。別名高蓬。
+j	せいためんたい	せいためんたい	正多面体: regular polyhedron
+j	せいちょうせき	せいちょうせき	正長石: orthoclase
+j	せいようわさび	せいようわさび	
+j	せかいぎんこう	せかいぎんこう	世界銀行: World Bank
+j	せかいたいせん	せかいたいせん	世界大戦: World War
+j	せんしゅうらく	せんしゅうらく	千秋楽, 千穐楽: the final day o…
+j	せんしょくたい	せんしょくたい	
+j	せんまいどおし	せんまいどおし	束ねた紙に穴を開けるための錐。
+j	セイヨウスモモ	セイヨウスモモ	せいようすももの学術的表記。
+j	セカンドハンド	セカンドハンド	中古品。セコハン。
+j	セカンドレイプ	セカンドレイプ	insensitivity experienced…
+j	セキュリティー	セキュリティー	security; safety
+j	セクシャリティ	セクシャリティ	「セクシャリティー」の表記ゆれ。
+j	セクシー素数	せくしーそすう	差が６である２つの素数。
+j	セクスティング	セクスティング	
+j	セシウムイオン	セシウムイオン	イオン式Cs⁺で表されるセシウムの陽イオン。
+j	セジロクロガラ	セジロクロガラ	
+j	セジロタヒバリ	セジロタヒバリ	
+j	セックスをする	セックスをする	
+j	セックスシーン	セックスシーン	
+j	セネガル共和国	セネガル共和国	セネガルの正式な国号。
+j	セバストーポリ	セバストーポリ	
+j	セパレーション	セパレーション	分離。
+j	セブンイレブン	セブンイレブン	
+j	セブンスコード	セブンスコード	三和音に根音から短7度の音を加えたもの。四和音。
+j	セボシアリモズ	セボシアリモズ	
+j	セミトレーラー	セミトレーラー	
+j	セミナーハウス	セミナーハウス	大学が学生向けに運営する安価な宿泊施設。
+j	セミレチエ地方	セミレチエ地方	
+j	セルビア共和国	セルビア共和国	Republic of Serbia (offic…
+j	セルフサービス	セルフサービス	self-service
+j	セルフジャッジ	セルフジャッジ	審判員無しで選手同士による審判を行うこと。
+j	セルフタイマー	セルフタイマー	シャッターを切ってから実際に撮影が行われるまでに一…
+j	セレブリティー	セレブリティー	「セレブリティ」の表記ゆれ。
+j	セレベスウナギ	セレベスウナギ	鰻の一種。学名は Anguilla celebes…
+j	セロハンテープ	セロハンテープ	sellotape, cellophane tape
+j	センザンコウ目	センザンコウ目	《分類学》 哺乳綱獣亜綱ローラシア獣上目野獣真蹄類…
+j	センセーション	センセーション	爆発的な興奮を引き起こし、世間を驚かす事柄。
+j	センターバック	センターバック	
+j	センターフライ	センターフライ	中飛。
+j	センターライン	センターライン	自動車などの通行を方向別に区分するために道路に引か…
+j	センチメンタル	センチメンタル	物事に感じやすく涙脆いさま。感傷的なさま。センチ。
+j	センチメートル	センチメートル	centimetre
+j	センチリットル	センチリットル	
+j	センテナリアン	センテナリアン	centenarian
+j	セントジョンズ	セントジョンズ	St. John's (the capital c…
+j	セントポーリア	セントポーリア	African violet
+j	セント・クロイ	セント・クロイ	
+j	セント・ジョン	セント・ジョン	
+j	セヴァストポリ	セヴァストポリ	Sevastopol (a port city i…
+j	セヷストーポリ	セヷストーポリ	
+j	セーフティカー	セーフティカー	セーフティーカーの表記揺れ。
+j	世代交代	せだいこうたい	世代が入れ替わること。
+j	世業田	せいぎょうでん	かつての中国の制度で世襲が許された田地。永業。永業…
+j	世界の終り	せかいのおわり	
+j	世界は狭い	せかいはせまい	
+j	世界大戦	せかいたいせん	world war
+j	世界有数	せかいゆうすう	world leading
+j	世界秩序	せかいちつじょ	
+j	世界銀行	せかいぎんかう	the World Bank
+j	世界銀行	せかいぎんこう	the World Bank
+j	世話をする人	せわをするひと	
+j	世論調査	せろんちょうさ	public opinion poll
+j	世間は狭い	せけんはせまい	
+j	仙人掌	せんにんしょう	サボテン。覇王樹。
+j	僭称	せんしょうする	false claim of importance
+j	先々週	せんせんしゅう	the week before last; two…
+j	先住	せんじゅうする	prior residence, earlier …
+j	先住民	せんじゅうみん	indigenous people
+j	先住民	せんぢゆうみん	indigenous people
+j	先先週	せんせんしゅう	先週の前の週。
+j	先入観	せんにゅうかん	a preconception; a precon…
+j	先印欧語	せんいんおうご	印欧語がその地域で話されるようになる前に行われてい…
+j	先史時代の	せんしじだいの	
+j	先天的な	せんてんてきな	
+j	先発地震	せんぱつじしん	大地震が起きる前に同じ震源域で起きていた大地震。
+j	先着	せんちゃくする	first arrival
+j	先見の明	せんけんのめい	何か事が起こる前にそれを見抜く見識。
+j	先述	せんじゅつする	the aforementioned, afore…
+j	先陣を切る	せんじんをきる	to take the lead
+j	切断厨	せつだんちゅう	ragequitter
+j	切腹道具	せっぷくどうぐ	切腹する際に使用する道具。また、切腹させようとする…
+j	切開ライン	せっかいらいん	eyeliner applied to the i…
+j	切開ライン	せっかいライン	eyeliner applied to the i…
+j	制宙権	せいちゅうけん	軍事力を用いて宇宙空間を支配し、主導権を握れるよう…
+j	制御装置	せいぎょそうち	
+j	制限時間	せいげんじかん	time limit; maximum time …
+j	制限速度	せいげんそくど	
+j	前代未聞	せんだいみもん	An unheard of, unpreceden…
+j	勢力圏	せいりょくけん	sphere of influence
+j	千変万化	せんぺんばんか	innumerable changes; infi…
+j	千差万別	せんさばんべつ	various
+j	千思万考	せんしばんこう	いろいろと考えをめぐらすこと。また、その考え。
+j	千枚通し	せんまいどうし	an awl
+j	千枚通し	せんまいどおし	an awl
+j	千秋楽	せんしゅうらく	a Tang-style 雅楽 (gagaku, …
+j	千秋萬歲	せんずまんざい	
+j	千紅万紫	せんこうばんし	千紫万紅。
+j	千紫万紅	せんしばんこう	花などのさまざまな色。また、色とりどりの花が咲き乱…
+j	占星術	せんせいじゅつ	astrology
+j	占領	せんりょうする	occupation (of a place); …
+j	占領者	せんりょうしゃ	occupier
+j	占領軍	せんりょうぐん	ある地域を占領する軍隊。特に、第二次世界大戦後に日…
+j	咳エチケット	せきえちけっと	咳や嚏が出た際に病原体を拡散しないようにするための…
+j	咳払い	せきばらいする	clearing one's throat
+j	声楽曲	せいがくきょく	opera
+j	宣命書き	せんみゃうがき	A historical form of Japa…
+j	宣命書き	せんみょうがき	A historical form of Japa…
+j	宣戦布告	せんせんふこく	declaration of war
+j	宣教	せんきょうする	evangelism
+j	宣教学	せんきょうがく	
+j	専修	せんしゅうする	specialization, specialis…
+j	専制主義	せんせいしゅぎ	全ての権力が特定の個人または少数者によって独占され…
+j	専制政治	せんせいせいじ	autocracy
+j	専門用語	せんもんようご	ある特定の学術や業界、職業などで用いられる用語。
+j	専門職	せんもんしょく	特殊な知識、技術などを有し専門的な業務を行う職。
+j	専門雑誌	せんもんざっし	専門家や愛好家向けの情報を掲載した雑誌。専門誌。
+j	尖晶石	せんしょうせき	
+j	山海経	せんがいきゃう	the Classic of Mountains …
+j	山海経	せんがいきょう	the Classic of Mountains …
+j	性交体位	せいかうたいい	sex position
+j	性交体位	せいこうたいい	sex position
+j	性交渉	せいこうしょう	sexual relations
+j	性交體位	せいこうたいい	
+j	性教育	せいきょういく	sex education
+j	性暴力	せいぼうりょく	sexual assault; sexual vi…
+j	性暴力	せいぼうりよく	sexual assault; sexual vi…
+j	性的同意	せいてきどうい	性行為に関する当事者間の同意。
+j	性的嗜好	せいてきしこう	人間の性的行動において、何に性的な魅力を感じるのか…
+j	性的奴隷	せいてきどれい	本人の意に反して自由を拘束し、性的な行為などを強要…
+j	性的指向	せいてきしこう	sexual orientation
+j	性衝動	せいしょうどう	sexual urge; libido; sex …
+j	性転換	せいてんくわん	sex change
+j	性転換の	せいてんかんの	
+j	成人映画	せいじんえいが	
+j	成人病	せいじんびょう	40歳ごろから多く見られる疾患の総称。1997年生…
+j	成層圏の	せいそうけんの	
+j	成層火山	せいそうかざん	stratovolcano
+j	成文化	せいぶんかする	codification, the act of …
+j	成文化する	せいぶんかする	
+j	成熟	せいじゅくする	maturity
+j	成熟した	せいじゅくした	
+j	成熟する	せいじゅくする	
+j	成績表	せいせきひょう	report card (grades)
+j	成長	せいちょうする	growth; maturation
+j	成長する	せいちょうする	
+j	成長率	せいちょうりつ	ある期間で国内経済がどれだけ成長したかを表す率。経…
+j	戦争好きな	せんそうずきな	
+j	戦列歩兵	せんれつほへい	銃で武装し隊列を組んだ歩兵。
+j	戦力外	せんりょくがい	A phrase used in relation…
+j	戦勝	せんしょうする	victory (in war)
+j	戦国時代	せんごくじだい	the Warring States period…
+j	戦略核	せんりゃくかく	アメリカ合衆国とロシアが互いに双方を射程に収めるよ…
+j	戦略的	せんりゃくてき	strategic
+j	戦術的	せんじゅつてき	tactical
+j	戦車長	せんしゃちょう	戦車の責任者。
+j	戦闘力	せんとうりょく	fighting strength, fighti…
+j	戦隊長	せんたいちょう	戦隊の長。
+j	折衝	せっしょうする	negotiation
+j	折衝する	せっしょうする	
+j	掣肘	せいちゅうする	impedance
+j	接収	せっしゅうする	requisition, takeover, se…
+j	接客	せっきゃくする	customer service
+j	接弦定理	せつげんていり	円の弦とその一端から引いた接線とのなす角がその角内…
+j	接眼レンズ	せつがんれんず	望遠鏡や顕微鏡で、目で覗く方のレンズ。
+j	接着	せっちゃくする	adhesion, bonding
+j	接着剤	せっちゃくざい	adhesive
+j	接続副詞	せつぞくふくし	英語において接続詞のように、付け加えた文が前文と順…
+j	接続助詞	せつぞくじょし	conjunctive particle (abb…
+j	接続曲	せつぞくきょく	
+j	接触	せっしょくする	making contact; touch
+j	接触する	せっしょくする	
+j	接触線	せっしょくせん	
+j	摂関政治	せっかんせいじ	平安時代、天皇の代わりに藤原氏が摂政や関白となって…
+j	摂食	せっしょくする	feeding
+j	政党政治	せいとうせいじ	複数の政党が存在し、多数派の政党または複数の政党が…
+j	政府の長	せいふのちょう	
+j	政教分離	せいけうぶんり	separation of politics an…
+j	政治亡命	せいじぼうめい	
+j	政治学者	せいじがくしゃ	political scientist
+j	政治統合	せいじとうごう	特定の地域にある国家が共通の議会を導入するなどして…
+j	政治運動	せいじうんどう	ある政治的な目的や要求の実現のため個人または集団で…
+j	政策金利	せいさくきんり	
+j	整氷車	せいひょうしゃ	
+j	整理整頓	せいりせいとん	keeping things in order, …
+j	整級数	せいきゅうすう	冪級数。
+j	整腸剤	せいちょうざい	下痢止めや便秘の解消など腸の機能を正常にする薬剤。…
+j	整腸薬	せいちょうやく	下痢止めや便秘の解消など腸の機能を正常にする薬剤。…
+j	整髪料	せいはつりょう	整髪に使用する化粧品。
+j	斉唱	せいしょうする	singing in unison; singin…
+j	旋律的な	せんりつてきな	
+j	星河一天	せいがいってん	空一面に、帯状に無数の星が輝いて見える様子。
+j	晴耕雨読	せいこううどく	living in quiet retiremen…
+j	染色	せんしょくする	staining, dyeing
+j	染色体	せんしょくたい	chromosome
+j	染色質	せんしょくしつ	ドイツ語 Chromatin あるいは 英語 ch…
+j	染色體	せんしょくたい	染色体の旧字体表記。
+j	楔状骨	せつじやうこつ	a cuneiform bone
+j	楔状骨	せつじょうこつ	a cuneiform bone
+j	正中線	せいちゅうせん	体が左右対称の生物で前面及び背面の縦方向に真っ直ぐ…
+j	正五胞体	せいごほうたい	5-cell; regular pentachor…
+j	正四角形	せいしかっけい	正方形。
+j	正四面体	せいしめんたい	regular tetrahedron
+j	正多面体	せいためんたい	regular polyhedron
+j	正当化	せいとうかする	justification, rationale,…
+j	正教会	せいきょうかい	the Orthodox Church
+j	正教会	せいけうくわい	the Orthodox Church
+j	正比例	せいひれいする	proportionality
+j	正義の女神	せいぎのめがみ	Lady Justice
+j	正長石	せいちょうせき	orthoclase
+j	殺生	せっしょうする	cruel, wanton, merciless,…
+j	殺生石	せっしょうせき	Sesshōseki
+j	殺生石	せつしやうせき	Sesshōseki
+j	洗浄	せんじょうする	laundering
+j	洗浄剤	せんじょうざい	detergent, cleanser
+j	洗滌	せんじょうする	rinsing
+j	洗濯ばさみ	せんたくばさみ	a clothespin
+j	洗濯女	せんたくおんな	
+j	洗濯挟み	せんたくばさみ	洗濯した物を干すときに、落ちないように挟んで留める…
+j	洗車場	せんしゃじょう	car wash (place at which …
+j	浅指屈筋	せんしくっきん	a flexor digitorum superf…
+j	浅薄愚劣	せんぱくぐれつ	浅学で愚かなこと。
+j	消石灰	せうせきくわい	slaked lime; calcium hydr…
+j	消防局	せうばうきよく	fire department
+j	清少納言	せいせうなごん	pen name of a mid-Heian p…
+j	清掃業	せいそうぎょう	清掃を行う事業。
+j	清涼殿	せいりょうでん	内裏の中で天皇が日常を過ごした殿舎。
+j	潜伏期間	せんぷくきかん	incubation period
+j	潜入	せんにゅうする	infiltration
+j	潜入する	せんにゅうする	
+j	潜在力	せんざいりょく	
+j	潜在意識	せんざいいしき	the subconscious; the sub…
+j	潜在的な	せんざいてきな	
+j	潜望鏡	せんばうきやう	a periscope
+j	潜望鏡	せんぼうきょう	a periscope
+j	潜水球	せんすいきゅう	
+j	瀬戸内地方	せとうちちほう	Setouchi Region: region o…
+j	焦点深度	せうてんしんど	depth of focus
+j	焼身自殺	せうしんじさつ	self-immolation
+j	煽情的	せんじょうてき	人の情欲などを煽り立てるさま。
+j	生々流転	せいせいるてん	the circle of life
+j	生前贈与	せいぜんぞうよ	贈与者の生前に行う贈与。特に相続税の節税を目的とし…
+j	生化学者	せいかがくしゃ	生化学を研究する科学者。
+j	生命のない	せいめいのない	
+j	生命保険	せいめいほけん	人の死亡を保険金支払いの条件としている保険。
+j	生命力	せいめいりょく	vigour, vitality
+j	生命表	せいめいひょう	ある年齢の人がある期間内に死亡する確率を記した表。…
+j	生年月日	せいねんがっぴ	date of birth
+j	生殖	せいしょくする	reproduction, procreation
+j	生殖する	せいしょくする	
+j	生殖腺	せいしょくせん	卵をつくる卵巣と精子をつくる精巣。卵、精子をつくる…
+j	生殺与奪	せいさつよだつ	having life and death pow…
+j	生活の質	せいかつのしつ	
+j	生活リズム	せいかつりずむ	一日の生活の流れ、その繰り返し。何時に起床する、何…
+j	生活世界	せいかつせかい	
+j	生活指導	せいかつしどう	児童、生徒の日常的な生活における望ましい生活態度や…
+j	生活機能	せいかつきのう	生物が生命を維持するために持っている能力や働き。
+j	生活給	せいかつきゅう	労働者とその家族が生活を維持できる最低限度を保障す…
+j	生活道路	せいかつどうろ	residential road
+j	生活音	せいくわつおん	sounds of daily life of a…
+j	生物兵器	せいぶつへいき	a bioweapon, a biological…
+j	生物化学	せいぶつかがく	biological chemistry
+j	生物学の	せいぶつがくの	
+j	生物学史	せいぶつがくし	生物学に関する歴史。
+j	生物時計	せいぶつどけい	biological clock
+j	生理学者	せいりがくしゃ	生理学を研究する科学者。
+j	生産ライン	せいさんらいん	production line
+j	生産ライン	せいさんライン	production line
+j	生産力	せいさんりょく	財貨を生産することができる力。社会における生産力は…
+j	生産要素	せいさんようそ	財やサービスの生産に用いられる要素。一般に土地・労…
+j	生産量	せいさんりょう	output, throughput, produ…
+j	生痕化石	せいこんかせき	「生痕」を参照。
+j	生長	せいちょうする	growth, development
+j	石油ガス税	せきゆがすぜい	日本国の「石油ガス税法」（昭和40年法律第156号…
+j	石油ストーブ	せきゆすとーぶ	a kerosene heater
+j	石油ストーブ	せきゆストーブ	a kerosene heater
+j	石油タンカー	せきゆたんかー	
+j	石油ベンジン	せきゆべんじん	石油を分溜する際に摂氏30度から150度で得られる…
+j	石油精製	せきゆせいせい	
+j	石灰岩	せきくわいがん	limestone
+j	石灰石	せきくわいせき	limestone
+j	石炭タール	せきたんたーる	石油を乾溜することで得られる黒い油状の液体。コール…
+j	石窟寺院	せっくつじいん	cave temple
+j	積分区間	せきぶんくかん	定積分の上端をb, 下端をaとしたときの閉区間[a…
+j	積極的	せききよくてき	proactive, positive, acti…
+j	積極的	せっきょくてき	proactive, positive, acti…
+j	積載量	せきさいりょう	船舶や車両に積載されている荷物（貨物）の重量。
+j	積集合	せきしゅうごう	intersection
+j	積雪量	せきせつりょう	地表に積雪した深さ。積雪深。
+j	穿孔カード	せんこうかーど	「パンチカード」を参照。
+j	窃盗症	せっとうしょう	
+j	笑止千万	せうしせんばん	extreme ridicule
+j	節電モード	せつでんもーど	
+j	節食	せっしょくする	temperance in eating
+j	精力的	せいりょくてき	energetic, busy
+j	精密検査	せいみつけんさ	細かい所まで詳しく検査すること。
+j	精密科学	せいみつかがく	
+j	精神力	せいしんりょく	目的などを持った精神の強さ。気力。
+j	精神医学	せいしんいがく	psychiatry
+j	精神病	せいしんびやう	mental illness, psychosis
+j	精神病	せいしんびょう	mental illness, psychosis
+j	精神的に	せいしんてきに	
+j	精神遅滞	せいしんちたい	精神的な発達が遅れていること。精神薄弱。
+j	精米歩合	せいまいぶあい	精米前の玄米の総量に対する、精米（精白）したその白…
+j	精肉商	せいにくしょう	精肉を売る人。
+j	絶対主義	せったいしゅぎ	absolutism
+j	線ファスナー	せんふぁすなー	線状のファスナー。スライドファスナー。
+j	線対称	せんたいしょう	ある軸で折ると重なり合うような図形。
+j	線形論理	せんけいろんり	
+j	線量計	せんりょうけい	空気中の線量を測定する機器。放射線量計。
+j	線香花火	せんこうはなび	sparkler (a type of firew…
+j	繊維光学	せんいこうがく	fiber optics (US), fibre …
+j	聖体礼儀	せいたいれいぎ	
+j	聖火ランナー	せいからんなー	オリンピックの開催国でその国内をリレー（聖火リレー…
+j	聖職者	せいしょくしゃ	clergy, clergyman
+j	聖週間	せいしゅうかん	復活祭の前日までキリストの受難を記念するための一週…
+j	聖金曜日	せいきんようび	Good Friday
+j	聖餅容器	せいへいようき	
+j	背中の痛み	せなかのいたみ	
+j	背赤後家蜘蛛	せあかごけぐも	redback spider, Latrodect…
+j	背赤後家蜘蛛	セアカゴケグモ	redback spider, Latrodect…
+j	背黄青鸚哥	せきせいいんこ	オウム目インコ科の鳥。
+j	脊椎披裂	せきついひれつ	
+j	脊椎破裂	せきついはれつ	
+j	脊黄青鸚哥	せきせいいんこ	budgerigar, a species of …
+j	脊黄青鸚哥	セキセイインコ	budgerigar, a species of …
+j	船員保険	せんいんほけん	船員保険法に基づいて船員法に規定される船員とその被…
+j	船舶模型	せんぱくもけい	水上オートバイを含めた民間の船舶やフィギュア、ジオ…
+j	船長室	せんちょうしつ	船長の個室。
+j	製パン業	せいぱんぎょう	パンを製造して販売する事業。
+j	製パン機械	せいぱんきかい	製パンにおける工程を自動的に行う機械の総称。
+j	製茶業	せいちゃぎょう	茶葉を加工して緑茶や紅茶などにしたり、荒茶を製造、…
+j	製菓学校	せいかがっこう	製菓に関する教育を行う学校。
+j	製造ライン	せいぞうらいん	production line
+j	製造ライン	せいぞうライン	production line
+j	製造業	せいぞうぎょう	manufacturing industry
+j	西沙群島	せいさぐんたう	synonym of 西沙諸島 (Seisa Sh…
+j	西沙群島	せいさぐんとう	synonym of 西沙諸島 (Seisa Sh…
+j	西沙諸島	せいさしょとう	the Paracel Islands
+j	西洋医学	せいよういがく	西洋（ヨーロッパ）で起こり、発展した医学。
+j	西洋古典	せいようこてん	古典古代にギリシア語やラテン語で書かれた古典。
+j	西洋山葵	せいやうわさび	horseradish
+j	西洋山葵	せいようわさび	horseradish
+j	西洋山葵	セイヨウワサビ	horseradish
+j	西洋李	せいようすもも	Western plum (Prunus dome…
+j	西洋李	セイヨウスモモ	Western plum (Prunus dome…
+j	西洋気触れ	せいようかぶれ	西洋の文物が優れているものとして過度に取り入れたり…
+j	西洋薄荷	せいやうはくか	synonym of ペパーミント (pepāmi…
+j	西洋薄荷	せいようはっか	synonym of ペパーミント (pepāmi…
+j	西洋薄荷	セイヤウハクカ	synonym of ペパーミント (pepāmi…
+j	西洋薄荷	セイヨウハッカ	synonym of ペパーミント (pepāmi…
+j	西西辞典	せいせいじてん	スペイン語の語句をスペイン語で定義した辞典を、スペ…
+j	誠心誠意	せいしんせいい	in all sincerity; with on…
+j	説得力	せっとくりょく	persuasiveness
+j	説得力	せつとくりょく	persuasiveness
+j	説教	せっきょうする	sermon, preaching
+j	説教する	せっきょうする	
+j	説教者	せっきょうしゃ	preacher
+j	説文解字	せつもんかいじ	Shuowen Jiezi (an early 2…
+j	請求	せいきゅうする	a strong request
+j	請求する	せいきゅうする	
+j	請求書	せいきゅうしょ	a bill, a written stateme…
+j	責任のある	せきにんのある	
+j	責任転嫁	せきにんてんか	buck-passing, blame-switc…
+j	赤十字社	せきじふじしや	the Red Cross
+j	赤外線	せきぐわいせん	infrared radiation
+j	赤橙色	せきとうしょく	赤みがかった橙色。赤橙。
+j	赤色テロ	せきしょくてろ	red terror
+j	赤色テロ	せきしょくテロ	red terror
+j	赤血球	せっけっきゅう	a red blood cell; an eryt…
+j	赤褐色	せきかっしょく	reddish-brown; auburn
+j	赤褐色	せっかっしょく	reddish-brown; auburn
+j	赤道ギニア	せきどうぎにあ	Equatorial Guinea (a coun…
+j	赤道ギニア	せきどうギニア	Equatorial Guinea (a coun…
+j	赤道気団	せきどうきだん	赤道付近に発達する高温・多湿の気団。
+j	遷移金属	せんいきんぞく	a transition metal
+j	選出	せんしゅつする	election
+j	選局	せんきょくする	tuning
+j	選択公理	せんたくこうり	axiom of choice
+j	選択科目	せんたくかもく	選んで履修する科目。
+j	選曲	せんきょくする	choosing a song
+j	選民思想	せんみんしそう	自分たちの民族が神から選ばれ他の民族を導く特別な存…
+j	選球	せんきゅうする	discerning whether a pitc…
+j	選球眼	せんきゅうがん	an eye for discerning whe…
+j	閃緑岩	せんりょくがん	diorite
+j	関所破り	せきしょやぶり	関所の役人を欺いたりして通過したり、間道を通ったり…
+j	雪上車	せつじょうしゃ	無限軌道を装着した雪上、氷上を走行する自動車。
+j	雪中戦	せっちゅうせん	寒冷地で行われる陸戦。
+j	雪氷学	せっぴょうがく	glaciology
+j	雪花石膏	せっかせっこう	alabaster (variety of gyp…
+j	雪辱	せつじょくする	revenge for embarrassment
+j	青少年	せいしょうねん	a youth or young person
+j	青銅色	せいどうしょく	
+j	静止衛星	せいしえいせい	静止軌道にある衛星。地表からは常に同じ位置に見える。
+j	静電力	せいでんりょく	クーロン力。
+j	鮮魚商	せんぎょしょう	鮮魚を売る人。
+j	せいはちほうたい	せいはちほうたい	正八胞体: tesseract
+j	せいようしょうぎ	せいようしょうぎ	
+j	せっそくどうぶつ	せっそくどうぶつ	
+j	せんざいいちぐう	せんざいいちぐう	千載一遇: once in a lifetime
+j	セイロンニッケイ	セイロンニッケイ	
+j	セカンドアルバム	セカンドアルバム	second album
+j	セカンドレイパー	セカンドレイパー	セカンドレイプを行う人。セカンドレイピスト。
+j	セキザイユーカリ	セキザイユーカリ	
+j	セクシャリティー	セクシャリティー	性的な特質。
+j	セクシュアリティ	セクシュアリティ	「セクシャリティー」の表記ゆれ。
+j	セクストーション	セクストーション	相手の性的な画像や動画を手に入れて、インターネット…
+j	セグロジャッカル	セグロジャッカル	
+j	セシウム原子時計	セシウム原子時計	セシウムを使用した原子時計。1967年世界標準時計…
+j	セステルティウス	セステルティウス	
+j	セックスアピール	セックスアピール	sex appeal
+j	セックスショップ	セックスショップ	
+j	セックスフレンド	セックスフレンド	恋愛感情を伴わず、専ら性交を目的とし交際している相…
+j	セックスワーカー	セックスワーカー	
+j	セリアック病	せりあっくびょう	celiac disease
+j	セリアック病	セリアックびょう	celiac disease
+j	セルフプレジャー	セルフプレジャー	自分で自分に性的な快感を与えること。自慰行為。オナ…
+j	セルリアンブルー	セルリアンブルー	錫酸コバルトを焼成してつくる緑を帯びた青色の顔料。…
+j	セレンディピティ	セレンディピティ	偶然に思いがけない発見をする能力。
+j	センスのかたまり	センスのかたまり	having good taste
+j	センセーショナル	センセーショナル	sensational
+j	センターテーブル	センターテーブル	ローテーブル。
+j	センチメートル波	せんちめーとるは	波長が1センチメートルから10センチメートルの電波。
+j	センチメートル波	センチメートル波	波長が1センチメートルから10センチメートルの電波。
+j	セントエルモの火	せんとえるものひ	St. Elmo's fire (electric…
+j	セントエルモの火	セントエルモのひ	St. Elmo's fire (electric…
+j	セントエルモの火	セントエルモの火	St. Elmo's fire (electric…
+j	セントジョージズ	セントジョージズ	St. George's (the capital…
+j	セントビンセント	セントビンセント	Saint Vincent
+j	セヴァストーポリ	セヴァストーポリ	
+j	セーシェル共和国	セーシェル共和国	セーシェルの正式な国号。
+j	セーフティネット	セーフティネット	「セーフティーネット」の表記ゆれ。
+j	セーフティーカー	セーフティーカー	ペースカー。
+j	セールスウーマン	セールスウーマン	女性の販売員。特に女性の外回りの営業販売員。
+j	セールスポイント	セールスポイント	selling point
+j	世界主義者	せかいしゅぎしゃ	世界主義の立場をとりそれを主張する者。
+j	世界恐慌	せかいきょうこう	global economic crisis
+j	世襲財閥	せしゅうざいばつ	
+j	井底の蛙	せいていのかわず	a person of very limited …
+j	井底の蛙	せいていのかわづ	a person of very limited …
+j	先例に倣う	せんれいにならう	
+j	先口動物	せんこうどうぶつ	
+j	先発投手	せんぱつとうしゅ	
+j	先着順	せんちゃくじゅん	order of arrival
+j	先端技術	せんたんぎじゅつ	最も先進的な技術。
+j	切磋琢磨	せっさたくまする	applying oneself and stud…
+j	切縁結節	せつえんけっせつ	特に前歯の永久歯の先端に見られる三つの突起。
+j	制球力	せいきゅうりょく	ball control; the ability…
+j	制限選挙	せいげんせんきょ	選挙権に所得などの年齢以外の制限を付けて行われる選…
+j	千乗の国	せんじょうのくに	a state with a thousand c…
+j	千客万来	せんかくばんらい	endless arrival of custom…
+j	千山万水	せんざんばんすい	many mountains and rivers
+j	千年の都	せんねんのみやこ	1000年以上にわたって平安京という都であった、京…
+j	千年王国	せんねんおうこく	黙示録でキリストが再誕してから最後の審判が行われる…
+j	千手観音	せんじゅかんのん	the Thousand-Handed Bodhi…
+j	千篇一律	せんぺんいちりつ	たくさんある詩がどれも一律の調子で変化がないこと。
+j	千編一律	せんぺんいちりつ	all of the same pattern; …
+j	千載一遇	せんざいいちぐう	once in a lifetime
+j	占星術師	せんせいじゅつし	
+j	声調変化	せいちょうへんか	
+j	声調記号	せいちょうきごう	
+j	姓名判断	せいめいはんだん	fortunetelling based on o…
+j	専制君主	せんせいくんしゅ	専制的な政治を行う君主。
+j	専売特許	せんばいとっきょ	
+j	専用ブラウザ	せんようぶらうざ	An application specially …
+j	専用ブラウザ	せんようブラウザ	An application specially …
+j	専門学校	せんもんがっこう	academy (specialized scho…
+j	専門学生	せんもんがくせい	専門学校に在籍している生徒。専門学校生。
+j	専門新聞	せんもんしんぶん	専門家や愛好家向けの情報を掲載した新聞。専門紙。
+j	少納言局	せうなごんきよく	one of the 三局 (Sankyoku, …
+j	尖閣諸島	せんかくしょとう	
+j	性別移行の	せいべついこうの	
+j	性同一性	せいどういつせい	gender identity
+j	性差別的な	せいさべつてきな	
+j	性犯罪者	せいはんざいしゃ	
+j	性的倒錯	せいてきとうさく	異常性欲のうち質的に異常なこと。幼児や近親など性欲…
+j	性的役割	せいてきやくわり	社会生活における性別による役割。性役割。
+j	性的暴行	せいてきぼうこう	本人の意に反して性的な行為を行うこと。
+j	性的興奮	せいてきこうふん	
+j	性的逸脱	せいてきいつだつ	sexual deviation
+j	性転換	せいてんかんする	sex change
+j	性転換者	せいてんかんしゃ	
+j	成果を収める	せいかをおさめる	achieve success
+j	戦争学者	せんそうがくしゃ	
+j	戦争犯罪	せんそうはんざい	war crime
+j	戦力外	せんりよくぐわい	A phrase used in relation…
+j	戦犯裁判	せんぱんさいばん	戦争犯罪人を裁くために開かれる裁判。
+j	戦略ゲーム	せんりゃくげーむ	ストラテジーゲーム。
+j	戦略的な	せんりゃくてきな	
+j	折衷主義	せっちゅうしゅぎ	eclecticism
+j	接着力	せっちゃくりょく	
+j	接続水域	せつぞくすいいき	領海に接続する公海に設定することができる一定範囲の…
+j	摂神追桃	せっしんおうとう	関西地方にある4つの名門私立大学: 摂南大学（摂）…
+j	摂神追桃	せっしんついとう	関西地方にある4つの名門私立大学: 摂南大学（摂）…
+j	政情不安	せいじょうふあん	political instability
+j	政教分離	せいきょうぶんり	separation of politics an…
+j	政権交代	せいけんかうたい	a change in the political…
+j	政権交代	せいけんこうたい	a change in the political…
+j	政見放送	せいけんはうそう	party political broadcast
+j	政見放送	せいけんほうそう	party political broadcast
+j	整備工場	せいびこうじょう	
+j	斉天大聖	せいてんたいせい	An epithet for Sun Wukong…
+j	施工管理技士	せこうかんりぎし	建設機械施工管理技士、建築施工管理技士、電気工事施…
+j	星間物質	せいかんぶっしつ	星間空間にある様々な物質。
+j	星間空間	せいかんくうかん	恒星から十分に離れ、恒星風などの影響が及ばない空間。
+j	染色体の	せんしょくたいの	
+j	正々堂々	せいせいだうだう	fair and square
+j	正々堂々	せいせいどうどう	fair and square
+j	正三角形	せいさんかくけい	equilateral triangle
+j	正三角形	せいさんかっけい	equilateral triangle
+j	正八胞体	せいはちほうたい	tesseract; 8-cell
+j	正六面体	せいろくめんたい	立方体。
+j	正則関数	せいそくかんすう	領域内の全ての点で微分可能な複素関数。
+j	正割関数	せいかつかんすう	正割を導く関数。セカント。
+j	正射写真	せいしゃしゃしん	synonym of オルソ画像
+j	正常化	せいじょうかする	normalization
+j	正弦合成	せいげんごうせい	偏角の等しい正弦関数・余弦関数の一次結合を一つの正…
+j	正弦関数	せいげんかんすう	正弦を導く関数。サイン。
+j	正当防衛	せいとうぼうえい	（法律）急に乱暴を受けたときなどの不正な侵害に対し…
+j	正接関数	せいせつかんすう	正接を導く関数。タンジェント。
+j	正格活用	せいかくかつよう	a Japanese verbal inflect…
+j	正規行列	せいきぎょうれつ	自身の随伴行列との積が可換である正方行列。
+j	正規表現	せいきひょうげん	regular expression
+j	洗濯洗剤	せんたくせんざい	
+j	洗濯石鹸	せんたくせっけん	
+j	清少納言	せいしょうなごん	pen name of a mid-Heian p…
+j	清廉潔白	せいれんけっぱく	incorruptible; clean-hand…
+j	潜入させる	せんにゅうさせる	
+j	瀬戸際政策	せとぎわせいさく	
+j	生体工学	せいたいこうがう	生物が有する神経や感覚、制御などの機能を工学的に応…
+j	生体解剖	せいたいかいぼう	vivisection (The action o…
+j	生態学者	せいたいがくしゃ	生態学を研究する科学者。
+j	生態的地位	せいたいてきちい	
+j	生成文法	せいせいぶんぽう	
+j	生殖器官	せいしょくきかん	生物が有性生殖を行うための器官。生殖器。
+j	生活反応	せいかつはんのう	生死の境にある患者の生死を確認する生体の反応。
+j	生活方式	せいかつほうしき	
+j	生活様式	せいかつようしき	社会や集団なかで形成され、そこに属する人に共通して…
+j	生活環	せいくわつくわん	life cycle
+j	生活防水	せいかつぼうすい	雨に濡れるなどの日常生活における水濡れには対応して…
+j	生物化学	せいぶつくわがく	biological chemistry
+j	生物地理学	せいぶつちりがく	生物の地理的な分布やその起源、問題などについて研究…
+j	生物学的	せいぶつがくてき	生物学に関するさま。
+j	生物学者	せいぶつがくしゃ	biologist
+j	生物工学	せいぶつこうがく	biotechnology
+j	生物意味論	せいぶついみろん	
+j	生物災害	せいぶつさいがい	
+j	生物発光	せいぶつはっこう	
+j	生生発展	せいせいはってん	絶えず活動しながら発展すること。
+j	生産手段	せいさんしゅだん	生産過程で労働ともに生産物を作り出すために使用され…
+j	生産様式	せいさんようしき	生産力と生産関係の結合によって成り立つ社会の経済的…
+j	生産関係	せいさんかんけい	the relations of producti…
+j	生計を立てる	せいけいをたてる	to make a living
+j	積分変換	せきぶんへんかん	T[f(t)](u)=∫_(t_1)^(t_2)K…
+j	積分変数	せきぶんへんすう	積分を行う変数。
+j	積分定数	せきぶんていすう	constant of integration -…
+j	積極的な	せっきょくてきな	
+j	積極的に	せっきょくてきに	
+j	節足動物	せっそくどうぶつ	arthropod
+j	精力的に	せいりょくてきに	
+j	精液便所	せいえきべんじょ	
+j	精神分析	せいしんぶんせき	psychoanalysis
+j	精神異常	せいしんいじょう	
+j	精神疾患	せいしんしっかん	脳の器質的、機能的な障害により起こる疾患。
+j	精神療法	せいしんれうはふ	psychotherapy
+j	精霊信仰	せいれいしんこう	
+j	線型変換	せんけいへんかん	一次変換。
+j	線型形式	せんけいけいしき	「一次形式」に同じ。
+j	線型結合	せんけいけつごう	（数学）一次結合に同じ。
+j	線型関数	せんけいかんすう	一次関数。
+j	線形代数	せんけいだいすう	linear algebra
+j	線形動物	せんけいどうぶつ	roundworm, nematode, memb…
+j	線形変換	せんけいへんかん	一次変換。
+j	線形関数	せんけいかんすう	一次関数。
+j	聖霊降臨	せいれいこうりん	Pentecost
+j	背黒ジャッカル	せぐろじゃっかる	a black-backed jackal
+j	背黒ジャッカル	せぐろジャッカル	a black-backed jackal
+j	背黒ジャッカル	セグロジャッカル	a black-backed jackal
+j	脊椎動物	せきついどうぶつ	vertebrate
+j	脊索動物	せきさくどうぶつ	chordate
+j	脊髄反射	せきずいはんしゃ	spinal reflex
+j	脊髄反射	せきずいはんしや	spinal reflex
+j	船外活動	せんがいかつどう	extravehicular activity
+j	製パン学校	せいぱんがっこう	製パンに関する教育を行う学校。
+j	製糸工場	せいしこうじょう	filature, yarn-making fac…
+j	製糸業者	せいしぎょうしゃ	silk manufacturer
+j	製紙工場	せいしこうじょう	paper mill, paper factory
+j	製紙業者	せいしぎょうしゃ	paper manufacturer
+j	西沙諸島	せいしゃしょとう	the Paracel Islands
+j	西洋将棋	せいやうしやうぎ	chess (literally, western…
+j	西洋将棋	せいようしょうぎ	chess (literally, western…
+j	西洋接骨木	せいようにわとこ	black elder; elder (Sambu…
+j	西洋接骨木	セイヨウニワトコ	black elder; elder (Sambu…
+j	西洋料理	せいようりょうり	洋風の料理。洋食。
+j	西洋松露	せいようしょうろ	truffle, fungi of species…
+j	西洋松露	セイヨウショウロ	truffle, fungi of species…
+j	西洋柊	せいやうひひらぎ	Ilex aquifolium, English …
+j	西洋柊	せいようひいらぎ	Ilex aquifolium, English …
+j	西洋柊	セイヤウヒヒラギ	Ilex aquifolium, English …
+j	西洋柊	セイヨウヒイラギ	Ilex aquifolium, English …
+j	西洋榛	せいようはしばみ	Eurasian hazel (Corylus a…
+j	西洋榛	セイヨウハシバミ	Eurasian hazel (Corylus a…
+j	西洋浅葱	せいようあさつき	
+j	西洋音楽	せいようおんがく	ヨーロッパを中心に発展した音楽。洋楽。
+j	西高東低	せいこうとうてい	主に冬季に、日本の東側に低気圧、西側に高気圧が来る…
+j	設置義務資格	せっちぎむしかく	事業を行う際に事業所などに一名置かなくてはいけない…
+j	責任年齢	せきにんねんれい	刑事的な責任を負うことができる年齢。日本の刑法では…
+j	赤十字社	せきじゅうじしゃ	the Red Cross
+j	赤色野鶏	せきしょくやけい	a red junglefowl
+j	赤色野鶏	セキショクヤケイ	a red junglefowl
+j	赤褐色の	せきかっしょくの	
+j	遷移状態	せんいじょうたい	transition state
+j	選出公理	せんしゅつこうり	axiom of choice
+j	選挙人団	せんきょにんだん	
+j	選挙方法	せんきょほうほう	voting system
+j	青函トンネル	せいかんとんねる	Seikan Tunnel, a railway …
+j	青函トンネル	せいかんトンネル	Seikan Tunnel, a railway …
+j	青年運動	せいねんうんどう	青年を中心にして行われる社会的な運動。
+j	青春時代	せいしゅんじだい	youth (part of life follo…
+j	青銅器時代	せいどうきじだい	the Bronze Age
+j	静電定数	せいでんていすう	クーロンの法則の比例定数 kのこと。誘電率をεとし…
+j	静電気力	せいでんきりょく	クーロン力。
+j	せいさんしょうしゅ	せいさんしょうしゅ	正山小種: lapsang souchong tea
+j	せいしんりょうほう	せいしんりょうほう	精神療法: psychotherapy
+j	せいたんひゃくねん	せいたんひゃくねん	生誕百年: 100th birthday anni…
+j	せいもんはれつおん	せいもんはれつおん	声門破裂音: glottal stop
+j	セイタカミロバラン	セイタカミロバラン	
+j	セイバーメトリクス	セイバーメトリクス	
+j	セイヨウカノコソウ	セイヨウカノコソウ	
+j	セイヨウナナカマド	セイヨウナナカマド	
+j	セイント・ジョンズ	セイント・ジョンズ	
+j	セカンドオピニオン	セカンドオピニオン	second opinion
+j	セカンドパートナー	セカンドパートナー	close platonic partner (n…
+j	セカンドレイピスト	セカンドレイピスト	セカンドレイプを行う人。セカンドレイパー。
+j	セキュリティポリス	セキュリティポリス	police bodyguard; police …
+j	セクシュアリティー	セクシュアリティー	「セクシャリティー」の表記ゆれ。
+j	セクシーキャバクラ	セクシーキャバクラ	kyabakura that allows hea…
+j	セグメンテーション	セグメンテーション	市場細分化、分割。
+j	セグロシマアリモズ	セグロシマアリモズ	
+j	セパレート映像端子	セパレート映像端子	映像信号が、輝度信号(白黒映像信号)と色信号に分離…
+j	セボシカンムリガラ	セボシカンムリガラ	
+j	セルフコントロール	セルフコントロール	
+j	センターデフロック	センターデフロック	四輪駆動車の前後の車輪をつなぐ差動歯車（センターデ…
+j	センターポジション	センターポジション	member in an idol group w…
+j	セントジョージ海峡	セントジョージ海峡	
+j	セント・キャサリン	セント・キャサリン	
+j	セヴェロドネツィク	セヴェロドネツィク	
+j	セーヌ゠サン゠ドニ	セーヌ゠サン゠ドニ	
+j	セーファーセックス	セーファーセックス	性病を予防するための性交の方法。
+j	セーフティーゾーン	セーフティーゾーン	safety zone
+j	セーフティーネット	セーフティーネット	高所から転落した場合でもそれを受け止めるための網。
+j	セールス・ミックス	セールス・ミックス	製品の生産販売量の組み合わせ。→最適セールス・ミッ…
+j	世代宇宙船	せだいうちゅうせん	人間の寿命の内には辿り着けないような遠方の天体に向…
+j	世界の七不思議	せかいのななふしぎ	古代ギリシアで驚くべきとされた七つの建築物。ギザの…
+j	世界保健機構	せかいほけんきこう	World Health Organization…
+j	世界保健機関	せかいほけんきかん	the World Health Organiza…
+j	世界博覧会	せかいはくらんかい	
+j	世界宗教	せかいしゅうきょう	民族を超えて世界の広い範囲で信仰される宗教。
+j	先端装飾	せんたんそうしょく	
+j	制裁を加える	せいさいをくわえる	
+j	剪断応力	せんだんおうりょく	物体の接した面にずれが生じた時、物体内部に生じる応…
+j	勢力均衡	せいりょくきんこう	balance of power
+j	千万長者	せんばんちやうじや	multimillionaire
+j	千万長者	せんばんちょうじゃ	multimillionaire
+j	千両役者	せんりやうやくしや	prima donna, star actor
+j	千両役者	せんりょうやくしゃ	prima donna, star actor
+j	千変万化	せんぺんばんかする	innumerable changes; infi…
+j	千客万来	せんきゃくばんらい	endless arrival of custom…
+j	千態万状	せんたいばんじょう	さまざまな状態。千状。千態。千状万態。
+j	千手観音	せんじゆくわんおん	the Thousand-Handed Bodhi…
+j	千状万態	せんじょうばんたい	さまざまな状態。千状。千態。千態万状。
+j	千秋萬歲	せんしゅうばんぜい	
+j	声調発生	せいちょうはっせい	ある言語の非音韻的な特徴が失われることによって、声…
+j	声門破裂音	せいもんはれつおん	glottal stop
+j	声門閉鎖音	せいもんへいさおん	
+j	宣戦布告	せんせんふこくする	declaration of war
+j	専門教育	せんもんきょういく	特定の分野や内容について専門的に行われる教育。
+j	専門的知識	せんもんてきちしき	
+j	少林寺拳法	せうりんじけんぱふ	shorinji kempo
+j	性別移行者	せいべついこうしゃ	
+j	性嗜好異常	せいしこういじょう	
+j	性感染症	せいかんせんしやう	venereal disease (VD), se…
+j	性感染症	せいかんせんしょう	venereal disease (VD), se…
+j	性染色体	せいせんしょくたい	sex chromosome
+j	性染色體	せいせんしょくたい	
+j	性的にみだらな	せいてきにみだらな	
+j	性的暴力	せいてきぼうりょく	強姦やセクハラなど相手の同意を得ない性的な暴力。性…
+j	性的脅迫	せいてききょうはく	相手の性的な画像や動画を手に入れて、インターネット…
+j	性的虐待	せいてきぎゃくたい	sexual abuse
+j	性転換症	せいてんかんしょう	
+j	成人であること	せいじんであること	
+j	成功を収める	せいこうをおさめる	achieve success
+j	成功報酬	せいこうほうしゅう	completion bonus, fee pai…
+j	成熟分裂	せいじゅくぶんれつ	meiosis
+j	成長ホルモン	せいちょうほるもん	growth hormone
+j	成長ホルモン	せいちょうホルモン	growth hormone
+j	戦勝記念日	せんしょうきねんび	
+j	戦国大名	せんごくだいみょう	日本の戦国時代、地方で勢力を張り、周辺の国人などを…
+j	接続法二式	せつぞくほうにしき	ドイツ語の接続法のうち、主に非現実話法を表す形式。
+j	接触感染	せっしょくかんせん	病原体の付着した物体に触れ、その手で粘膜に触れるこ…
+j	政令指定都市	せいれいしていとし	地方自治法に基づき、都道府県とほぼ同一の財政上の権…
+j	政治的正しさ	せいじてきただしさ	
+j	政略結婚	せいりゃくけっこん	
+j	整備新幹線	せいびしんかんせん	全国新幹線鉄道整備法に基づき1973年に整備計画が…
+j	整形手術	せいけいしゅじゅつ	plastic surgery
+j	整理整頓	せいりせいとんする	keeping things in order, …
+j	晴耕雨読	せいこううどくする	living in quiet retiremen…
+j	正山小種	せいさんしょうしゅ	lapsang souchong tea
+j	正弦曲線	せいげんきょくせん	sinusoid (sine curve)
+j	正方行列	せいはうぎやうれつ	square matrix
+j	正方行列	せいほうぎょうれつ	square matrix
+j	正格活用	せいかくくゎつよう	a Japanese verbal inflect…
+j	正葉曲線	せいようきょくせん	薔薇曲線。
+j	正規方程式	せいきほうていしき	連立方程式A mathbf x= mathbf b…
+j	洗礼志願者	せんれいしがんしゃ	
+j	清濁併せ呑む	せいだくあわせのむ	to be broad-minded and ac…
+j	潜在能力	せんざいのうりょく	本来持っているが表に現れていない能力、可能性。
+j	瀬戸際戦術	せとぎわせんじゅつ	
+j	焦性葡萄酸	せうせいぶだうさん	pyruvic acid
+j	生命徴候	せいめいちょうこう	生体機能の状況を示す指標。脈拍、体温、呼吸、血圧、…
+j	生命現象	せいめいげんしょう	生物が生命を維持し、成長や生殖などを行う過程で生じ…
+j	生活水準	せいかつすいじゅん	ある国民階層の所得や消費などを数値化して示される生…
+j	生活環境	せいかつかんきょう	人間が日常の生活をする上で、直接または間接に影響を…
+j	生物テロリスト	せいぶつてろりすと	生物テロリズムを行うテロリスト。
+j	生物テロリズム	せいぶつてろりずむ	バイオテロリズムのこと。
+j	生物多様性	せいぶつたやうせい	biodiversity
+j	生物多様性	せいぶつたようせい	biodiversity
+j	生物物理学	せいぶつぶつりがく	biophysics
+j	生物言語学	せいぶつげんごがく	生物学等の知見によって言語能力の起源などを解明しよ…
+j	生理用ナプキン	せいりようなぷきん	
+j	生産関係	せいさんくゎんけい	the relations of producti…
+j	生誕百年	せいたんひゃくねん	100th birthday anniversary
+j	石油石炭税	せきゆせきたんぜい	日本国の「石油石炭税法」（昭和53年法律第25号）…
+j	積分曲線	せきぶんきょくせん	微分方程式の解関数が描く曲線。
+j	積極工作	せっきょくこうさく	
+j	精密化学品	せいみつかがくひん	fine chemical
+j	精巣上体	せいそうじょうたい	
+j	精神日本人	せいしんにほんじん	Japanophile
+j	精神状態	せいしんじょうたい	
+j	精神病学	せいしんびょうがく	psychiatry
+j	精神病質	せいしんびやうしつ	psychopathy
+j	精神病質	せいしんびょうしつ	psychopathy
+j	精神病院	せいしんびょういん	mental hospital
+j	精神療法	せいしんりょうほう	psychotherapy
+j	精神薄弱	せいしんはくじゃく	精神的な発達が遅れていること。精神遅滞。
+j	精神薬理学	せいしんやくりがく	
+j	精神障害	せいしんしょうがい	脳の器質的、機能的な障害によりおこる精神の働きが異…
+j	聖名祝日	せいめいしゅくじつ	
+j	聖痕をもつ人	せいこんをもつひと	
+j	船尾楼甲板	せんびろうかんぱん	poop deck
+j	製造業者	せいぞうぎょうしゃ	
+j	西方教会	せいほうきょうかい	東方教会と対比するために用いられる、ローマ・カトリ…
+j	西洋山薄荷	せいようやまはっか	
+j	説明がつかない	せつめいがつかない	
+j	赤縄を結ぶ	せきじょうをむすぶ	The betrothed are to tie …
+j	赤色人種	せきしょくじんしゅ	伝統的な人種の分類でアメリカ大陸の先住民を指す。
+j	赤色巨星	せきしょくきょせい	超新星とはならない質量の恒星が寿命を迎える直前に経…
+j	赤色矮星	せきしょくわいせい	red dwarf
+j	青天の霹靂	せいてんのへきれき	out of the blue, bolt fro…
+j	青色巨星	せいしょくきょせい	blue giant
+j	青酸化合物	せいさんかごうぶつ	synonym of シアン化物 (shian k…
+j	静電引力	せいでんいんりょく	クーロン力。
+j	せいせいしゅくしゅく	せいせいしゅくしゅく	計画を予定通りに、静かに行うさま。
+j	せいにじゅうめんたい	せいにじゅうめんたい	正二十面体: regular icosahedron
+j	セキュリティー手続き	セキュリティー手続き	
+j	セシウム原子時計	せしうむげんしどけい	セシウムを使用した原子時計。1967年世界標準時計…
+j	セデック族のテルク人	セデック族のテルク人	
+j	セネガル共和国	せねがるきょうわこく	セネガルの正式な国号。
+j	セルビア・クロアチア	セルビア・クロアチア	
+j	セルビア共和国	せるびあきょうわこく	Republic of Serbia (offic…
+j	セルビア共和国	セルビアきょうわこく	Republic of Serbia (offic…
+j	セルボ・クロアチア語	セルボ・クロアチア語	
+j	セントクリストファー	セントクリストファー	Saint Christopher
+j	世界保健機関	せかいほけんきくわん	the World Health Organiza…
+j	世界複合遺産	せかいふくごういさん	世界遺産のうち複合遺産のこと。
+j	世界貿易機関	せかいぼうえききかん	the World Trade Organizat…
+j	先カンブリア時代	せんかんぶりあじだい	the Precambrian eon
+j	先カンブリア時代	せんカンブリアじだい	the Precambrian eon
+j	専門学校生	せんもんがっこうせい	専門学校に在籍している生徒。専門学生。
+j	尖圭コンジローマ	せんけいこんじろーま	genital wart, condyloma, …
+j	尖圭コンジローマ	せんけいコンジローマ	genital wart, condyloma, …
+j	征夷大将軍	せいいたいしやうぐん	a commander of an expedit…
+j	征夷大将軍	せいいたいしょうぐん	a commander of an expedit…
+j	性的マイノリティ	せいてきまいのりてぃ	セクシャルマイノリティーのこと。
+j	性的倒錯者	せいてきとうさくしゃ	
+j	性的少数派	せいてきしょうすうは	sexual minority
+j	成層圏界面	せいそうけんかいめん	成層圏と中間圏の境界。
+j	戦々恐々	せんせんきょうきょう	trembling with fear; appr…
+j	戦争犯罪人	せんそうはんざいにん	戦争犯罪に該当する行為をした者。戦犯。
+j	戦争犯罪者	せんそうはんざいしゃ	a war criminal
+j	接続法一式	せつぞくほういっしき	ドイツ語の接続法のうち、主に間接話法を表す形式。
+j	摂政皇太子	せっしょうこうたいし	
+j	摂食障害	せっしょくしょうがい	心理的な要因により、摂食の行動に障害が起こること。
+j	政党の綱領	せいとうのこうりょう	
+j	旋律の美しい	せんりつのうつくしい	
+j	染色堅牢度	せんしょくけんろうど	color fastness
+j	正タイプ標本	せいたいぷひょうほん	ホロタイプの別名。
+j	正二十面体	せいにじゅうめんたい	regular icosahedron
+j	正十二面体	せいじゅうにめんたい	regular dodecahedron
+j	正定値行列	せいていちぎょうれつ	positive-definite matrix
+j	正射影ベクトル	せいしゃえいべくとる	正射影を表すベクトル。⃑aと⃑bのなす角をθとした…
+j	清教徒革命	せいきょうとかくめい	1642年からイギリスで始まった市民革命。
+j	清涼飲料	せいりょういんりょう	アルコールを含まず、炭酸などで清涼感をあたえる飲み…
+j	生活必需品	せいかつひつじゅひん	生活していく上で欠くことができない物品。
+j	積分方程式	せきぶんほうていしき	未知関数の原始関数または定積分を含む方程式。
+j	精神分析学	せいしんぶんせきがく	psychoanalysis
+j	精神安定剤	せいしんあんていざい	sedative, tranquilizer
+j	精神科病院	せいしんかびょういん	精神疾患の患者を診察、治療、ケアなどを行う病院。精…
+j	線型代数学	せんけいだいすうがく	linear algebra
+j	線型汎函数	せんけいはんかんすう	𝕂上線型空間Vに対し∀ boldsymbol x,…
+j	線形計画法	せんけいけいかくほう	linear programming
+j	聖霊降臨祭	せいれいこうりんさい	キリストが復活した後、50日後に聖霊が降臨したこと…
+j	背に腹はかえられぬ	せにはらはかえられぬ	大きなことのためには、些細なことを犠牲にするのは仕…
+j	背高泡立草	せいたかあわだちそう	キク科の多年草。北アメリカ原産。日本へは明治期に渡…
+j	脊柱起立筋	せきちゅうきりつきん	an erector spinae
+j	船体を横切って	せんたいをよこぎって	
+j	船外活動	せんがいかつどうする	extravehicular activity
+j	蝉は夏を知らない	せみはなつをしらない	春秋を知らない蝉は、夏を本当の意味では知らないとい…
+j	製造物責任	せいぞうぶつせきにん	製造物であって、その引き渡したものの欠陥により他人…
+j	西洋弟切草	せいようおとぎりそう	
+j	西洋鋸草	せいようのこぎりそう	common yarrow, Achillea m…
+j	西洋鋸草	セイヨウノコギリソウ	common yarrow, Achillea m…
+j	西部標準時	せいぶひょうじゅんじ	戦前に台湾、先島諸島で使われていた日本標準時より1…
+j	赤血球尿	せっけっきゅうにょう	赤血球の混入した尿。血尿。
+j	青函連絡船	せいかんれんらくせん	a ferry connecting Aomori…
+j	静止摩擦係数	せいしまさつけいすう	静止している物体の摩擦係数。
+j	せいしんぶんれつびょう	せいしんぶんれつびょう	精神分裂病
+j	せいにじゅうしほうたい	せいにじゅうしほうたい	正二十四胞体: 24-cell; regular …
+j	セアカフタマタクワガタ	セアカフタマタクワガタ	Hexarthrius parryi, a spe…
+j	セカンダリードミナント	セカンダリードミナント	ダイアトニックコードの5度上のドミナントコードを配…
+j	セキュリティー手続き	せきゅりてぃーてつづき	
+j	セクシャルハラスメント	セクシャルハラスメント	sexual harassment
+j	セクシャルマイノリティ	セクシャルマイノリティ	セクシャルマイノリティーの表記揺れ。
+j	セミクインセンテニアル	セミクインセンテニアル	
+j	セルビア・クロアチア語	せるびあ・くろあちあご	Serbo-Croatian (South Sla…
+j	セルビア・クロアチア語	セルビア・クロアチアご	Serbo-Croatian (South Sla…
+j	セルビア・クロアチア語	セルビア・クロアチア語	Serbo-Croatian (South Sla…
+j	セルビア・モンテネグロ	セルビア・モンテネグロ	Serbia and Montenegro (a …
+j	セントキッツ・ネイビス	セントキッツ・ネイビス	synonym of セントクリストファー・ネイビ…
+j	セントラルヒーティング	セントラルヒーティング	
+j	セーシェル共和国	せーしぇるきょうわこく	セーシェルの正式な国号。
+j	セールスプロモーション	セールスプロモーション	sales promotion
+j	世界教会主義	せかいきょうかいしゅぎ	
+j	世界貿易機関	せかいぼうえききくわん	the World Trade Organizat…
+j	先端巨大症	せんたんきょだいしょう	acromegaly
+j	切稜立方体	せつりょうりっぽうたい	chamfered cube
+j	専用自動車道	せんようじどうしゃどう	自動車運送事業者（自動車運送事業を経営する者をいう…
+j	征東大将軍	せいとうたいしやうぐん	a commander sent to subdu…
+j	征東大将軍	せいとうたいしょうぐん	a commander sent to subdu…
+j	征西大将軍	せいせいたいしやうぐん	a commander sent to subdu…
+j	征西大将軍	せいせいたいしょうぐん	a commander sent to subdu…
+j	性別越境者	せいべつえっきょうしゃ	transgender person
+j	性的マイノリティー	せいてきまいのりてぃー	セクシャルマイノリティーのこと。
+j	性的同意年齢	せいてきどういねんれい	性行為に同意する能力があると認められる年齢。
+j	性的少数者	せいてきしょうすうしゃ	a member of the sexual mi…
+j	性的虐待	せいてきぎゃくたいする	sexual abuse
+j	性的虐待する	せいてきぎゃくたいする	
+j	戦争を遂行する	せんそうをすいこうする	
+j	戦時共産主義	せんじきょうさんしゅぎ	
+j	星状膠細胞	せいじょうこうさいぼう	astrocyte
+j	正二十四胞体	せいにじゅうしほうたい	24-cell; regular icositet…
+j	正六百胞体	せいろっぴゃくほうたい	600-cell; regular hexacos…
+j	正十六胞体	せいじゅうろくほうたい	16-cell; regular hexadeca…
+j	正基準標本	せいきじゅんひょうほん	ホロタイプの別称。
+j	正準方程式	せいじゅんほうていしき	ハミルトンによる運動方程式̇p_i=-(∂H)/(…
+j	生成人工知能	せいせいじんこうちのう	ユーザの指示により新たなテキスト、画像、動画、作曲…
+j	石灰硫黄合剤	せっかいいおうごうざい	lime sulphur
+j	石炭のように黒い	せきたんのようにくろい	
+j	積分余弦関数	せきぶんよげんかんすう	余弦関数の広義積分を用いてCi,(x)=-∫ₓ ᪲…
+j	積分余接関数	せきぶんよせつかんすう	余接関数の広義積分を用いてCo,(x)=∫₀ˣ(c…
+j	精神分裂病	せいしんぶんれつびょう	schizophrenia
+j	精神分裂症	せいしんぶんれつしょう	schizophrenia
+j	精神病質者	せいしんびょうしつしゃ	
+j	精管切除術	せいかんせつじょじゅつ	vasectomy
+j	線状降水帯	せんじょうこうすいたい	複数の積乱雲が線状にいくつも発生し、激しい雨の範囲…
+j	聖徒の永遠堅持	せいとのえいえんけんじ	
+j	背に腹は代えられない	せにはらはかえられない	you can't make an omelett…
+j	せいめいちゅうしんしゅぎ	せいめいちゅうしんしゅぎ	生命中心主義: biocentrism (cosm…
+j	セクシャルマイノリティー	セクシャルマイノリティー	多数派（異性愛、シスジェンダー）とは異なる性的指向…
+j	セクシュアルハラスメント	セクシュアルハラスメント	
+j	セクシュアルマイノリティ	セクシュアルマイノリティ	セクシャルマイノリティーの表記揺れ。
+j	セパレート映像端子	せぱれーとえいぞうたんし	映像信号が、輝度信号(白黒映像信号)と色信号に分離…
+j	セブンスフラットナインス	セブンスフラットナインス	ドミナントセブンスコードに短九度のテンションノート…
+j	セント・ピーターズバーグ	セント・ピーターズバーグ	
+j	セーシェル・クレオール語	セーシェル・クレオール語	セーシェルで話されている、フランス語系クレオール言…
+j	千九百年代	せんきゅうひゃくねんだい	the 1900's
+j	千里の道も一歩から	せんりのみちもいっぽから	a journey of a thousand m…
+j	宣誓供述書	せんせいきょうじゅつしょ	
+j	急いては事を仕損じる	せいてはことをしそんじる	haste makes waste
+j	性別適合手術	せいべつてきごうしゅじつ	sex reassignment surgery;…
+j	性的嗜好障害	せいてきしこうしょうがい	
+j	性行為感染症	せいこういかんせんしょう	性行為により感染する疾患の総称。
+j	戦闘ストレス反応	せんとうすとれすはんのう	combat stress reaction, s…
+j	戦闘ストレス反応	せんとうストレスはんのう	combat stress reaction, s…
+j	扇風機の都市伝説	せんぷうきのとしでんせつ	
+j	清涼飲料水	せいりょういんりょうすい	soft drink
+j	生体防衛反応	せいたいぼうぎょはんのう	生体に細菌などが侵入した際に示す反応。
+j	生命中心主義	せいめいちゅうしんしゅぎ	biocentrism (cosmological…
+j	生命情報科学	せいめいじょうほうかがく	
+j	生死にかかわる問題	せいしにかかわるもんだい	
+j	生活習慣病	せいかつしゅうかんびょう	不適切な生活習慣（食事、飲酒、喫煙、運動不足、過度…
+j	生物情報科学	せいぶつじょうほうかがく	生物学に情報学、コンピューター科学などを取り込み、…
+j	生物統計学者	せいぶつとうけいがくしゃ	生物統計学を研究する科学者。
+j	生産年齢人口	せいさんねんれいじんこう	一般的に労働力となることができると考えられる、15…
+j	生産者物価指数	せいさんしゃぶっかしすう	
+j	石灰硫黄合剤	せきくわいいわうがふざい	lime sulphur
+j	積分余割関数	せきぶんせいせつかんすう	余割関数の広義積分を用いてTi,(x)=∫₀ˣ(c…
+j	積分方程式論	せきぶんほうていしきろん	関数方程式論のうち、積分方程式を扱う分野。
+j	積分正割関数	せきぶんせいかつかんすう	正割関数の広義積分を用いてSe,(x)=∫₀ˣ(s…
+j	積分正弦関数	せきぶんせいげんかんすう	正弦関数の広義積分を用いてSi,(x)=∫₀ˣ(s…
+j	積分正接関数	せきぶんせいせつかんすう	正接関数の広義積分を用いてTi,(x)=∫₀ˣ(t…
+j	精神分析学者	せいしんぶんせきがくしゃ	
+j	聖ゲオルギウス十字	せいげおるぎうすじゅうじ	
+j	赤外線天文学	せきがいせんてんもんがく	infrared astronomy
+j	選挙管理委員会	せんきょかんりいいんかい	選挙を管理する行政委員会。選管。
+j	青色超巨星	せいしょくちょうきょせい	blue supergiant
+j	せいひゃくにじゅうほうたい	せいひゃくにじゅうほうたい	正百二十胞体: 120-cell; regular…
+j	セクシュアルマイノリティー	セクシュアルマイノリティー	セクシャルマイノリティーの表記揺れ。
+j	セクシュアル・マイノリティ	セクシュアル・マイノリティ	
+j	セルビア・モンテネグロ連邦	セルビア・モンテネグロ連邦	the State Union of Serbia…
+j	セントキッツ・ネイビス連邦	セントキッツ・ネイビス連邦	synonym of セントクリストファー・ネイビ…
+j	セント・ジョーンズ・ワート	セント・ジョーンズ・ワート	
+j	世界最古の職業	せかいさいこのしょくぎょう	the world's oldest profes…
+j	世間は広い様で狭い	せけんはひろいようでせまい	
+j	性別適合手術	せいべつてきごうしゅじゅつ	sex reassignment surgery;…
+j	性同一性障害	せいどういつせいしやうがい	gender identity disorder
+j	性同一性障害	せいどういつせいしょうがい	gender identity disorder
+j	成成明学	せいせいめいがくどっこくむ	関東地方にある3つの名門私立大学: 成蹊大学（成）…
+j	成成明学獨國武	せいせいめいがくどっこくむ	関東地方にある6つの名門私立大学: 成蹊大学（成）…
+j	成成獨國武明学	せいせいどっこくむめいがく	関東地方にある6つの名門私立大学: 成蹊大学（成）…
+j	戦没将兵記念日	せんぼつしょうへいきねんび	
+j	正百二十胞体	せいひゃくにじゅうほうたい	120-cell; regular hecaton…
+j	生成型人工知能	せいせいがたじんこうちのう	
+j	生活協同組合	せいかつきょうどうくみあい	一般の消費者が生活の向上のために結成する組合の総称…
+j	西岸海洋性気候	せいがんかいようせいきこう	温帯のうち、年中降水がある程度あり、夏が冷涼な気候…
+j	赤道ギニア共和国	せきどうぎにあきょうわこく	Republic of Equatorial Gu…
+j	赤道ギニア共和国	せきどうギニアきょうわこく	Republic of Equatorial Gu…
+j	セントクリストファーネイビス	セントクリストファーネイビス	中部アメリカ、カリブ海上の国。小アンティル諸島のセ…
+j	性同一性障害の	せいどういつせいしょうがいの	
+j	正規形微分方程式	せいきけいびぶんほうていしき	最高次導関数に就いて解いた形の微分方程式。
+j	赤血球沈降速度	せっけっきゅうちんこうそくど	採取した血液に凝固を防ぐ薬剤を加えて試験管に入れ、…
+j	遷延性意識障害	せんえんせいいしきしょうがい	a persistent vegetative s…
+j	青天白日満地紅旗	せいてんはくじつまんちこうき	中華民国の国旗。
+j	セクシュアルオリエンテーション	セクシュアルオリエンテーション	性的指向。
+j	セルビア・モンテネグロ連邦	せるびあ・もんてねぐろれんぽう	the State Union of Serbia…
+j	セルビア・モンテネグロ連邦	セルビア・モンテネグロれんぽう	the State Union of Serbia…
+j	セントキッツ・ネイビス連邦	せんときっつ・ねいびすれんぽう	synonym of セントクリストファー・ネイビ…
+j	セントキッツ・ネイビス連邦	セントキッツ・ネイビスれんぽう	synonym of セントクリストファー・ネイビ…
+j	セントクリストファー・ネイビス	セントクリストファー・ネイビス	Saint Kitts and Nevis (a …
+j	千里の行も足下に始まる	せんりのこうもそっかにはじまる	a journey of a thousand m…
+j	性同一性障害者	せいどういつせいしょうがいしゃ	
+j	セントクリストファー・ネーヴィス	セントクリストファー・ネーヴィス	「セントクリストファーネイビス」を参照。
+j	セントビンセント・グレナディーン	セントビンセント・グレナディーン	Saint Vincent and the Gre…
+j	千里の道も一歩より始まる	せんりのみちもいっぽよりはじまる	a journey of a thousand m…
+j	生物多様性ホットスポット	せいぶつたようせいほっとすぽっと	
+j	セントクリストファー・ネイビス連邦	セントクリストファー・ネイビス連邦	Federation of Saint Chris…
+j	戦没将兵追悼記念日	せんぼつしょうへいついとうきねんび	
+j	生活衛生同業組合	せいかつせいせいどうぎょうくみあい	生活衛生関係営業の運営の適正化及び振興に関する法律…
+j	生活衛生関係営業	せいかつえいせいかんけいえいぎょう	生活衛生関係営業の運営の適正化及び振興に関する法律…
+j	船頭多くして船山に登る	せんどうおおくしてふねやまにのぼる	too many cooks spoil the …
+j	セミオートマチックトランスミッション	セミオートマチックトランスミッション	自動車やオートバイなどで自動的にクラッチを操作して…
+j	専門教育を主とする学科	せんもんきょういくをしゅとするがっか	後期中等教育で専門教育課程を設置している高等学校、…
+j	セントクリストファー・ネイビス連邦	せんとくりすとふぁー・ねいびすれんぽう	Federation of Saint Chris…
+j	セントクリストファー・ネイビス連邦	セントクリストファー・ネイビスれんぽう	Federation of Saint Chris…
+j	セントビンセント及びグレナディーン諸島	セントビンセント及びグレナディーン諸島	Saint Vincent and the Gre…
+j	切頂菱形三十面体	せっちょうりょうけいさんじゅうめんたい	
+j	千金の裘は一狐の腋に非ず	せんきんのきゅうはいっこのえきにあらず	To accomplish the governi…
+j	セントビンセント及びグレナディーン諸島	せんとびんせんとおよびぐれなでぃーんしょとう	Saint Vincent and the Gre…
+j	セントビンセント及びグレナディーン諸島	セントビンセントおよびグレナディーンしょとう	Saint Vincent and the Gre…

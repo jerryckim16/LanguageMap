@@ -1,0 +1,594 @@
+e	hu	hu	1 meaning
+j	ホゥー	hu	
+k	후	hu	after
+e	hub	hub	2 meanings
+e	hue	hue	2 meanings
+e	hug	hug	3 meanings
+e	huh	huh	5 meanings
+e	hui	hui	1 meaning
+e	hum	hum	2 meanings
+e	hun	hun	1 meaning
+e	hut	hut	2 meanings
+k	후에	hue	베트남의 도시.
+k	훅	huk	
+k	훈	hun	hun; the meaning of a han…
+k	희	hui	Symbol of marriage betwee…
+e	huge	huge	1 meaning
+e	hula	hula	1 meaning
+e	hull	hull	1 meaning
+e	hump	hump	3 meanings
+e	hung	hung	1 meaning
+e	hunt	hunt	3 meanings
+e	hure	hure	1 meaning
+e	hurt	hurt	5 meanings
+e	hush	hush	2 meanings
+e	husk	husk	1 meaning
+j	フレー	hure	主に競技で選手を激励や応援する時のかけ声。
+k	후고	hugo	
+k	후기	hugi	postscript, epilogue
+k	후다	huda	someone who has had sex; …
+k	후두	hudu	larynx
+k	후미	humi	산길이나 물가가 휘어서 굽어진 곳.
+k	후보	hubo	candidate
+k	후비	hubi	
+k	후사	husa	son
+k	후세	huse	future generations
+k	후수	husu	
+k	후예	huye	descendant, posterity
+k	후위	huwi	
+k	후유	huyu	whew, phew
+k	후의	huui	
+k	후인	huin	
+k	후일	huil	in the future, days to co…
+k	후임	huim	successor, replacement (f…
+k	후자	huja	the latter
+k	후제	huje	뒷날의 어느 때.
+k	후조	hujo	migratory bird; bird of p…
+k	후지	huji	Fuji
+k	후카	huka	
+k	후티	huti	
+k	흰	huin	'희다'의 관형사형.
+k	흼	huim	'희다'의 명사형.
+e	hubby	hubby	1 meaning
+e	hubei	hubei	1 meaning
+e	hukou	hukou	1 meaning
+e	human	human	2 meanings
+e	humid	humid	1 meaning
+e	humph	humph	1 meaning
+e	humus	humus	1 meaning
+e	hunan	hunan	1 meaning
+e	huqin	huqin	1 meaning
+e	hurry	hurry	2 meanings
+e	husky	husky	2 meanings
+k	후각	hugak	the sense of smell, smell…
+k	후간	hugan	
+k	후계	hugye	소장경(小腸經)에 속하는 혈(穴). 주먹을 가…
+k	후골	hugol	
+k	후과	hugwa	result
+k	후군	hugun	
+k	후끼	hukki	컴프레셔에서 보내는 공기를 이용해 용기에 담긴…
+k	후난	hunan	Hunan (a province of Chin…
+k	후뇌	hunoe	rhinencephalon
+k	후단	hudan	
+k	후대	hudae	
+k	후드	hudeu	hood (headwear)
+k	후라이	hurai	영어의 한국어 표기법에 따른 '프라이'(fry…
+k	후랄	hural	
+k	후록	hurok	
+k	후문	humun	back door
+k	후반	huban	second half
+k	후발	hubal	
+k	후배	hubae	a junior or younger in an…
+k	후베이	hubei	Hubei (a province in cent…
+k	후불	hubul	'후두융기'.
+k	후산	husan	
+k	후서	huseo	
+k	후손	huson	descendant; posterity; fu…
+k	후식	husik	small serving of food at …
+k	후신	husin	
+k	후실	husil	
+k	후원	huwon	support
+k	후월	huwol	
+k	후윤	huyun	descendant, scion, progeny
+k	후음	hueum	
+k	후작	hujak	marquess (a British noble…
+k	후진	hujin	
+k	후추	huchu	pepper
+k	후쿠이	hukui	
+k	후톤	huton	
+k	후퇴	hutoe	retreat
+k	후프	hupeu	
+k	후필	hupil	
+k	후학	huhak	
+k	후한	huhan	기원후 25년부터 220년까지 존재했던 중국의…
+k	후회	huhoe	regret
+k	훈기	hungi	
+k	훈도	hundo	조선 시대의 벼슬. 향교에 파견되어 유생을 교…
+k	훈사	hunsa	
+k	훈수	hunsu	
+k	훈시	hunsi	
+k	훈위	hunwi	
+k	훈제	hunje	the state of being smoked…
+k	훌라	hulla	
+k	훑다	hulda	to thrash (rice, etc.)
+k	희구	huigu	
+k	희다	huida	to be white
+k	희비	huibi	
+k	희사	huisa	
+k	희소	huiso	
+k	희수	huisu	
+e	huai'an	huaian	1 meaning
+e	huambo	huambo	1 meaning
+e	huayin	huayin	1 meaning
+e	hubbub	hubbub	1 meaning
+e	hubcap	hubcap	1 meaning
+e	hubert	hubert	1 meaning
+e	hubris	hubris	1 meaning
+e	hudson	hudson	1 meaning
+e	huelva	huelva	1 meaning
+e	humane	humane	1 meaning
+e	humble	humble	3 meanings
+e	hummer	hummer	1 meaning
+e	hummus	hummus	1 meaning
+e	humour	humour	2 meanings
+e	hunger	hunger	4 meanings
+e	hungry	hungry	1 meaning
+e	hunker	hunker	1 meaning
+e	hunter	hunter	2 meanings
+e	hurdle	hurdle	3 meanings
+e	hurrah	hurrah	1 meaning
+e	hurtle	hurtle	1 meaning
+e	husayn	husayn	1 meaning
+e	hussar	hussar	1 meaning
+e	hutong	hutong	1 meaning
+k	후궁	hugung	imperial concubine
+k	후급	hugeup	
+k	후덕	hudeok	
+k	후두부	hudubu	(formal) back of one's he…
+k	후두암	huduam	
+k	후딱	huttak	매우 날쌔게 행동하는 모양.
+k	후략	huryak	omission of succeeding te…
+k	후륜	huryun	
+k	후리다	hurida	
+k	후방	hubang	rear; back
+k	후보자	huboja	applicant, candidate
+k	후부의	hubuui	
+k	후비다	hubida	
+k	후살이	husari	여자가 남편이 죽거나 또는 그와 헤어진 후 다…
+k	후설	huseol	
+k	후송	husong	
+k	후연	huyeon	Later Yan
+k	후엽	huyeop	
+k	후이족	huijok	중국의 닝샤 후이족 자치구에 주로 거주하는 민…
+k	후임자	huimja	successor
+k	후장	hujang	후장식; 총이나 포의 장전을 총신 뒤의 폐쇄구…
+k	후지다	hujida	무엇의 질이나 성능이 변변치 못하다.
+k	후처	hucheo	
+k	후커우	hukeou	
+k	후투티	hututi	(학명: Upupa epops) 후투팃과의 새…
+k	후퉁	hutung	
+k	후하다	huhada	무엇에 대해 사람의 마음가짐 또는 태도가 너그…
+k	후환	huhwan	어떤 일로 말이암아 생기는, 뒷날의 근심.
+k	훈계	hungye	admonishment, rebuke, rep…
+k	훈독	hundok	semantic reading of a Kor…
+k	훈육	hunyuk	
+k	훈툰	huntun	wonton
+k	훈화	hunhwa	
+k	훌훌	hulhul	날짐승 따위가 잇따라 날개를 치며 가볍게 나는…
+k	훑개	hulgae	scanner, scanning device
+k	훗날	hunnal	future
+k	훗달	hutdal	next month; the following…
+k	훗에미	hudemi	stepmother
+k	희곡	huigok	play, drama
+k	희귀	huigwi	rarity, uncommonness
+k	희랍	huirap	Greece (a country in Sout…
+k	희박	huibak	
+k	희아리	huiari	약간 상해서 희끗희끗하게 얼룩이 진 고추.
+k	희화	huihwa	익살스러운 것이 됨. 또는 그렇게 함.
+k	흰자	huinja	
+e	huaibei	huaibei	1 meaning
+e	huainan	huainan	1 meaning
+e	huairou	huairou	1 meaning
+e	hualien	hualien	1 meaning
+e	huanren	huanren	1 meaning
+e	huaqiao	huaqiao	1 meaning
+e	huizhou	huizhou	1 meaning
+e	humerus	humerus	1 meaning
+e	hunchun	hunchun	1 meaning
+e	hundred	hundred	1 meaning
+e	hungary	hungary	1 meaning
+e	hungnam	hungnam	1 meaning
+e	hunting	hunting	1 meaning
+e	hurry up	hurryup	1 meaning
+e	husband	husband	1 meaning
+e	hustler	hustler	2 meanings
+k	후계자	hugyeja	successor
+k	후광	hugwang	
+k	후끈	hukkeun	몸이나 쇠 따위가 뜨거운 기운을 받아서 갑자기…
+k	후년	hunyeon	the year after next
+k	후다닥	hudadak	in a hurry; in a rush
+k	후두개	hudugae	
+k	후두골	hudugol	
+k	후두음	hudueum	
+k	후드티	hudeuti	
+k	후렴	huryeom	refrain, chorus (the chor…
+k	후로꾸	hurokku	fluke; lucky shot
+k	후루룩	hururuk	suddenly fluttering to fly
+k	후면	humyeon	
+k	후무스	humuseu	병아리콩을 으깬 것에 오일과 마늘을 섞어서 만…
+k	후반기	hubangi	
+k	후반부	hubanbu	
+k	후배위	hubaewi	doggy style
+k	후벽	hubyeok	
+k	후보작	hubojak	
+k	후생	husaeng	
+k	후원자	huwonja	
+k	후이저우	huijeou	
+k	후일담	huildam	
+k	후증	hujeung	
+k	후지산	hujisan	Mount Fuji (the highest m…
+k	후첩	hucheop	
+k	후쿠오카	hukuoka	
+k	후편	hupyeon	
+k	후행	huhaeng	
+k	훈가자	hungaja	a semantically-adapted ph…
+k	훈공	hungong	
+k	훈방	hunbang	
+k	훈색	hunsaek	
+k	훈연	hunyeon	smoking
+k	훈장	hunjang	order; medal; decoration
+k	훈춘	hunchun	Hunchun (a county-level c…
+k	훈풍	hunpung	
+k	훔침	humchim	stealing; theft
+k	훔키다	humkida	
+k	훔파다	humpada	
+k	희극	huigeuk	comedy; farce
+k	희나리	huinari	아직 덜 마른 장작
+k	희롱	huirong	말이나 행동으로 실없이 놀림.
+k	희망	huimang	hope, wish
+k	희색	huisaek	
+k	희석	huiseok	
+k	희열	huiyeol	
+k	흰곰	huingom	a polar bear
+k	흰눈	huinnun	하얀 눈.
+k	흰빛	huinbit	
+k	흰스	huinseu	syllabic abbreviation of …
+k	흰죽	huinjuk	쌀을 넣고 물을 넣고 끓여 만든 죽. 쌀 이외…
+k	흰쥐	huinjwi	
+e	huaiyang	huaiyang	1 meaning
+e	huangjiu	huangjiu	1 meaning
+e	huangmei	huangmei	1 meaning
+e	hugeness	hugeness	1 meaning
+e	hula hoop	hulahoop	1 meaning
+e	hulijing	hulijing	1 meaning
+e	humanism	humanism	3 meanings
+e	humanity	humanity	2 meanings
+e	humanoid	humanoid	2 meanings
+e	humidity	humidity	2 meanings
+e	humility	humility	1 meaning
+e	humorous	humorous	1 meaning
+e	humpback	humpback	2 meanings
+e	hurghada	hurghada	1 meaning
+j	不道徳	hudotoku	道徳に背くこと。道徳に反していること。
+k	후갑판	hugappan	
+k	후닥닥	hudakdak	갑자기 마구 뛰거나 몸을 일으키는 모양.
+k	후대뇌	hudaenoe	
+k	후두마비	hudumabi	
+k	후두염	huduyeom	
+k	후두엽	huduyeop	
+k	후라이판	huraipan	
+k	후레이크	hureikeu	
+k	후로시키	hurosiki	
+k	후리가나	hurigana	
+k	후미지다	humijida	몹시 구석지고 으슥하다.
+k	후백제	hubaekje	
+k	후사하다	husahada	
+k	후삼국	husamguk	
+k	후슈르	husyureu	
+k	후원군	huwongun	
+k	후원회	huwonhoe	
+k	후장포	hujangpo	
+k	후조선	hujoseon	기자조선.
+k	후지모리	hujimori	
+k	후진국	hujinguk	underdeveloped country
+k	후쿠시마	hukusima	Fukushima
+k	후타나리	hutanari	
+k	훈고학	hungohak	Classical Chinese text st…
+k	훈독자	hundokja	a semantically-adapted lo…
+k	훈련	hullyeon	training, drill, discipli…
+k	훈민가	hunminga	조선 시대에, 송강 정철이 지은 16수의 시조…
+k	훈제품	hunjepum	
+k	훈증	hunjeung	
+k	훌떡	hultteok	아주 남김없이 벗거나 벗어진 모양.
+k	훌렁	hulleong	속의 것이 시원스럽게 드러나도록 완전히 벗어지…
+k	훌쩍	huljjeok	액체 따위를 단숨에 남김없이 들이마시는 소리.…
+k	훔무스	hummuseu	'후무스'의 다른 표기.
+k	훔치다	humchida	to steal
+k	훔패다	humpaeda	
+k	희가스	huigaseu	화학 계열로 주기율표의 18족 원소를 말하는 …
+k	희끗	huikkeut	with a patch of white
+k	희년	huinyeon	드문 나이라는 뜻으로, 일흔 살을 이르는 말.
+k	희뜩	huitteuk	갑자기 몸을 뒤로 젖히며 자빠지는 모양.
+k	희랍어	huirabeo	
+k	희랍인	huirabin	
+k	희사함	huisaham	
+k	희생	huisaeng	sacrifice
+k	희성	huiseong	보기 드문 성씨. 상, 좌, 피, 계 등이 있…
+k	희소식	huisosik	good news
+k	희천	huicheon	Huichon (a city in Chagan…
+k	희토류	huitoryu	
+k	희한히	huihanhi	infrequently; rarely
+k	흰목이	huinmogi	
+k	흰색	huinsaek	The color white.
+k	흰쌀	huinssal	uncooked white rice; rice…
+k	흰자위	huinjawi	egg white
+k	흰흙	huinheuk	'백토'의 북한말.
+e	huai river	huairiver	1 meaning
+e	huainanzi	huainanzi	1 meaning
+e	hudson bay	hudsonbay	1 meaning
+e	hulunbuir	hulunbuir	1 meaning
+e	humiliate	humiliate	1 meaning
+e	hundredth	hundredth	1 meaning
+e	hungarian	hungarian	3 meanings
+e	hurricane	hurricane	2 meanings
+e	hush money	hushmoney	1 meaning
+k	후견인	hugyeonin	guardian
+k	후꾸오까	hukkuokka	일본의 도시와 현 후쿠오카의 북한말.
+k	후대하다	hudaehada	
+k	후두끼다	hudukkida	to be pursued, chased aft…
+k	후드득	hudeudeuk	깨나 콩 따위를 볶을 때 크게 튀는 소리.
+k	후라이팬	huraipaen	'프라이팬'의 비규범 표기.
+k	후렴구	huryeomgu	hook, chorus
+k	후박하다	hubakhada	
+k	후반전	hubanjeon	전반전 이후의 경기.
+k	후보생	hubosaeng	
+k	후설음	huseoreum	
+k	후안무치	huanmuchi	뻔뻔스러워 부끄러움이 없음.
+k	후어머니	hueomeoni	'새어머니'의 북한말.
+k	후원하다	huwonhada	
+k	후유증	huyujeung	sequela, aftereffect
+k	후진통	hujintong	
+k	후진하다	hujinhada	
+k	후추가루	huchugaru	'후춧가루'의 북한말.
+k	후추나무	huchunamu	
+k	후추통	huchutong	
+k	후퇴하다	hutoehada	to withdraw, to retreat
+k	후폭풍	hupokpung	
+k	후회하다	huhoehada	to regret
+k	후후년	huhunyeon	
+k	훈령	hullyeong	
+k	훈시하다	hunsihada	
+k	훈제하다	hunjehada	
+k	훌리건	hulligeon	hooligan
+k	희가극	huigageuk	
+k	희곡집	huigokjip	playbook
+k	희귀본	huigwibon	a rare or unique book or …
+k	희극인	huigeugin	‘희극배우’를 달리 이르는 말.
+k	희망자	huimangja	
+k	희미하다	huimihada	to be faint
+k	희비극	huibigeuk	
+k	희사금	huisageum	
+k	희석도	huiseokdo	
+k	희석제	huiseokje	
+k	희어지다	huieojida	
+k	흰 빵	huinppang	
+k	흰 서리	huinseori	
+k	흰개미	huingaemi	a termite; a white ant
+k	흰고래	huingorae	beluga whale, Delphinapte…
+k	흰둥이	huindungi	'백인'을 낮잡아 이르는 말.
+k	흰머리	huinmeori	
+k	흰비오리	huinbiori	The smew, Mergellus albel…
+k	흰산호	huinsanho	
+k	흰죽지	huinjukji	The common pochard, Aythy…
+e	hufflepuff	hufflepuff	1 meaning
+e	human being	humanbeing	1 meaning
+e	human right	humanright	1 meaning
+e	humanities	humanities	1 meaning
+e	humidifier	humidifier	1 meaning
+e	humoresque	humoresque	1 meaning
+e	humpbacked	humpbacked	1 meaning
+e	hunting dog	huntingdog	1 meaning
+e	hurdy-gurdy	hurdygurdy	1 meaning
+e	hurlyburly	hurlyburly	1 meaning
+k	후고구려	hugoguryeo	태봉.
+k	후두개음	hudugaeeum	epiglottal
+k	후두융기	huduyunggi	
+k	후물대다	humuldaeda	'후물거리다'.
+k	후물래미	humullaemi	food left over after a fe…
+k	후방주의	hubangjuui	NSFW
+k	후비병	hubibyeong	
+k	후빗대다	hubitdaeda	'후빗거리다'.
+k	후빗후빗	hubithubit	
+k	후살이하다	husarihada	여자가 남편이 죽거나 또는 그와 헤어진 후, …
+k	후송하다	husonghada	
+k	후실자식	husiljasik	
+k	후진성	hujinseong	
+k	후춧가루	huchutgaru	ground pepper
+k	훈계하다	hungyehada	to discipline, to admonis…
+k	훈련소	hullyeonso	
+k	훈요십조	hunyosipjo	
+k	훈훈하다	hunhunhada	to be comfortably warm
+k	훌라후프	hullahupeu	플라스틱으로 만든 둥근 테를 허리에 돌리는 놀…
+k	훑어보다	hulteoboda	to look (a person) up and…
+k	훑어읽다	hulteoikda	to skim (a text)
+k	희갈색	huigalsaek	
+k	희귀하다	huigwihada	rare, uncommon
+k	희떱다	huitteopda	
+k	희로애락	huiroaerak	joy, anger, sorrow, and h…
+k	희박하다	huibakhada	기체나 액체 따위의 밀도나 농도가 짙지 못하고…
+k	희붐하다	huibumhada	to be faintly bright just…
+k	희생자	huisaengja	victim, casualty
+k	희생타	huisaengta	sacrifice hit
+k	희소가치	huisogachi	
+k	희소성	huisoseong	
+k	희유기체	huiyugiche	
+k	희유원소	huiyuwonso	
+k	희한하다	huihanhada	to be rare or unusual
+k	흰수마자	huinsumaja	The Nakdong gudgeon, Gobi…
+e	human rights	humanrights	1 meaning
+e	human shield	humanshield	1 meaning
+e	humiliating	humiliating	1 meaning
+e	humiliation	humiliation	2 meanings
+e	hummingbird	hummingbird	1 meaning
+e	hungry ghost	hungryghost	1 meaning
+e	hunting horn	huntinghorn	1 meaning
+k	후각기관	hugakgigwan	
+k	후구동물	hugudongmul	
+k	후끈하다	hukkeunhada	몸이나 무엇이 열을 받아 뜨겁게 되다.
+k	후두연골	huduyeongol	
+k	후려치다	huryeochida	손이나 또는 다른 것으로 무엇을 매우 세차게 …
+k	후방가족	hubanggajok	'군인 가족'의 북한말.
+k	후설모음	huseolmoeum	
+k	후성설	huseongseol	
+k	후송되다	husongdoeda	
+k	후장총	hujangchong	
+k	후천적	hucheonjeok	연습을 통해 얻어진.
+k	후추병	huchubyeong	
+k	후허하오터	huheohaoteo	
+k	후형질	huhyeongjil	
+k	훈련원	hullyeonwon	
+k	훈방하다	hunbanghada	
+k	훌륭한	hullyunghan	
+k	훌쩍이다	huljjeogida	to sip (e.g. water)
+k	희귀성	huigwiseong	rarity, scarcity, uniquen…
+k	희극배우	huigeukbaeu	희극을 연기하는 배우.
+k	희랍문자	huirammunja	
+k	희롱꾼	huirongkkun	말이나 행동으로 실없이 놀리는 사람을 낮잡아 …
+k	희롱하다	huironghada	to taunt, to ridicule, to…
+k	희망봉	huimangbong	
+k	희망적	huimangjeok	희망을 많이 느끼고 있는.
+k	희망찬	huimangchan	'희망차다'의 관형사형.
+k	희망참	huimangcham	'희망차다'의 명사형.
+k	희망하다	huimanghada	to hope
+k	희생물	huisaengmul	sacrifice; victim
+k	흰기러기	huingireogi	The snow goose, Chen caer…
+k	흰눈색	huinnunsaek	흰눈과 유사한 색.
+k	흰부리아비	huinburiabi	The yellow-billed loon, G…
+k	흰점복	huinjeombok	The fine-patterned puffer…
+e	human pyramid	humanpyramid	1 meaning
+e	humanitarian	humanitarian	2 meanings
+e	hunger strike	hungerstrike	1 meaning
+e	hunting lodge	huntinglodge	1 meaning
+k	후각상실	hugaksangsil	anosmia, smell blindness
+k	후끈대다	hukkeundaeda	'후끈거리다'.
+k	후륜구동	huryungudong	
+k	후물거리다	humulgeorida	이가 빠진 입으로 음식을 우물거리며 잇따라 씹…
+k	후미장전	humijangjeon	
+k	후방교란	hubanggyoran	
+k	후방근무	hubanggeunmu	
+k	후비적하다	hubijeokhada	
+k	후빗거리다	hubitgeorida	깊고 넓은 틈이나 구멍 속을 조금씩 자꾸 긁거…
+k	후생사업	husaengsaeop	
+k	후천성	hucheonseong	
+k	후회막급	huhoemakgeup	일이 잘못된 후에 아무리 후회해도 어찌할 수 …
+k	훈련하다	hullyeonhada	
+k	훈몽자회	hunmongjahoe	Collection of Characters …
+k	훈주음종	hunjueumjong	In Old Korean orthography…
+k	훌륭하다	hullyunghada	excellent
+k	훔켜잡다	humkyeojapda	
+k	희귀병	huigwibyeong	a rare disease
+k	희극 기복	huigeukgibok	
+k	희랍교회	huirapgyohoe	
+k	희망고문	huimanggomun	"torture by hope"; anguis…
+k	희생양	huisaengyang	scapegoat
+k	희생하다	huisaenghada	
+k	희석률	huiseongnyul	용액이 묽어질수록 그 전해질의 이온화도는 더욱…
+k	희유금속	huiyugeumsok	
+k	흰갈매기	huingalmaegi	glaucous gull (Larus hype…
+k	흰다리새우	huindarisaeu	보리새우과의 한 품종.
+k	흰동가리	huindonggari	A clownfish, especially t…
+k	흰뺨오리	huinppyamori	The common goldeneye, Buc…
+k	흰올빼미	huinolppaemi	snowy owl
+k	흰코뿔소	huinkoppulso	white rhinoceros (Ceratot…
+k	흰턱제비	huinteokjebi	
+e	humboldt squid	humboldtsquid	1 meaning
+e	humpback whale	humpbackwhale	1 meaning
+k	후고구려국	hugoguryeoguk	태봉.
+k	후두결핵	hudugyeolhaek	
+k	후비적대다	hubijeokdaeda	'후비적거리다'.
+k	후생시설	husaengsiseol	
+k	후장총포	hujangchongpo	
+k	후줄근하다	hujulgeunhada	to droop down shabbily an…
+k	훈련도감	hullyeondogam	
+k	훈련생	hullyeonsaeng	
+k	희뜩대다	huitteukdaeda	'희뜩거리다'(갑자기 몸을 뒤로 젖히며 자꾸 …
+k	희토류 원소	huitoryuwonso	주기율표의 17개 화학 원소의 통칭으로, 스칸…
+k	희희낙락	huihuinangnak	
+k	흰꼬리수리	huinkkorisuri	The white-tailed eagle, H…
+k	흰머리수리	huinmeorisuri	bald eagle
+k	흰죽지수리	huinjukjisuri	The eastern imperial eagl…
+e	hubble constant	hubbleconstant	1 meaning
+e	human resources	humanresources	2 meanings
+e	human sacrifice	humansacrifice	1 meaning
+e	humidification	humidification	1 meaning
+e	hung parliament	hungparliament	1 meaning
+e	hungarian hound	hungarianhound	1 meaning
+e	hunmin jeongeum	hunminjeongeum	1 meaning
+e	hunter-gatherer	huntergatherer	1 meaning
+e	huntsman spider	huntsmanspider	1 meaning
+e	husband and wife	husbandandwife	1 meaning
+k	후끈거리다	hukkeungeorida	몸이나 쇠 따위가 뜨거운 기운을 받아 잇따라 …
+k	후라이드치킨	huraideuchikin	'프라이드치킨'의 비표준어.
+k	후빗후빗하다	hubithubithada	
+k	후생동물	husaengdongmul	
+k	후지와라 효과	hujiwarahyogwa	두 개의 태풍이 일정한 거리 이내에 위도와 나…
+k	후추 스프레이	huchuseupeurei	
+k	후치경음	huchigyeongeum	palatoalveolar
+k	훈련병	hullyeonbyeong	
+k	훈민정음	hunminjeongeum	hangul, the Korean script…
+k	훈훈하게 하다	hunhunhagehada	
+k	훔켜잡히다	humkyeojaphida	
+k	희말쑥하다	huimalssukhada	희고 말쑥하다.
+k	흰귀마모셋	huingwimamoset	buffy-tufted marmoset, bu…
+k	흰발망둑	huinbalmangduk	The white ventral goby, A…
+k	흰배슴새	huinbaeseumsae	The Bonin petrel, Pterodr…
+k	흰버드나무	huinbeodeunamu	
+k	흰이마기러기	huinimagireogi	The lesser white-fronted …
+k	흰줄박이오리	huinjulbagiori	The harlequin duck, Histr…
+e	hudsonian godwit	hudsoniangodwit	1 meaning
+e	humanitarianism	humanitarianism	1 meaning
+e	humboldt penguin	humboldtpenguin	1 meaning
+e	hundred thousand	hundredthousand	1 meaning
+k	후미장전식	humijangjeonsik	
+k	후비적거리다	hubijeokgeorida	틈이나 구멍 속을 자꾸 함부로 긁거나 돌려 파…
+k	후텁지근한	huteopjigeunhan	
+k	훈계방면	hungyebangmyeon	
+k	훈련대장	hullyeondaejang	
+k	훌쩍거리다	huljjeokgeorida	액체 따위를 남김없이 자꾸 들이마시다.
+k	희뜩거리다	huitteukgeorida	갑자기 몸을 뒤로 젖히며 자꾸 자빠지다.
+k	희생약극	huisaengyakgeuk	
+k	흰가룻병	huingarutbyeong	
+k	흰머리솔개	huinmeorisolgae	Brahminy kite (Haliastur …
+k	흰바위산양	huinbawisanyang	mountain goat
+e	human trafficking	humantrafficking	1 meaning
+k	후비적후비적	hubijeokhubijeok	
+k	후장식총포	hujangsikchongpo	
+k	후천면역	hucheonmyeonyeok	
+k	희끗희끗	huikkeuthuikkeut	speckled with white; griz…
+k	희번덕대다	huibeondeokdaeda	'희번덕거리다'.
+k	희색만면	huisaengmanmyeon	
+k	흰머리기러기	huinmeorigireogi	emperor goose (Anser cana…
+k	흰줄납줄개	huinjullapjulgae	The rose bitterling, Rhod…
+e	hungarian notation	hungariannotation	1 meaning
+k	흰눈썹울새	huinnunsseobulsae	
+k	흰배줄독수리	huinbaejuldoksuri	Bonelli's eagle (Aquila f…
+k	희번덕거리다	huibeondeokgeorida	눈을 크게 뜨고 흰자위를 자꾸 번득이며 움직이…
+k	흰날개해오라기	huinnalgaehaeoragi	Chinese pond heron (Ardeo…
+k	흰목벌잡이새	huinmokbeoljabisae	white-fronted bee-eater
+k	흰점어깨수리	huinjeomeokkaesuri	
+k	흰점찌르레기	huinjeomjjireuregi	
+k	흰죽지솔잣새	huinjukjisoljatsae	
+k	훈민정음도해	hunminjeongeumdohae	
+k	흰배환도상어	huinbaehwandosangeo	Atlantic thresher (Alopia…
+e	humanitarian corridor	humanitariancorridor	1 meaning
+k	후비적후비적하다	hubijeokhubijeokhada	
+k	흰등밭종다리	huindeungbatjongdari	
+k	흰뺨검둥오리	huinppyamgeomdungori	The Indian spot-billed du…
+e	humuhumunukunukuapuaa	humuhumunukunukuapuaa	1 meaning
+k	흰무늬엉겅퀴	huinmunuieonggeongkwi	
+k	흰배윗수염박쥐	huinbaewitsuyeombakjwi	Natterer's bat (Myotis na…
+e	human resource management	humanresourcemanagement	1 meaning
+k	훈민정음 언해본	hunminjeongeumeonhaebon	
+e	human immunodeficiency virus	humanimmunodeficiencyvirus	1 meaning
+k	흰넓적다리붉은쥐	huinneopjeokdaribulgeunjwi	The Korean field mouse, A…
+k	후천성면역결핍증	hucheonseongmyeonyeokgyeolpipjeung	acquired immune deficienc…

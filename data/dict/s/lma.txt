@@ -1,0 +1,5588 @@
+e	ma	ma	1 meaning
+j	ま	ma	the space between two (ph…
+j	まあ	ma	oh! dear! (expression of …
+j	まっ	ma	ちょうど。まさに。
+j	マ	ma	
+j	マー	ma	
+j	真っ	ma	prefixes nouns, adjective…
+j	魔	ma	demon, devil, evil spirit…
+k	마	ma	jinx; devil, demon; evil …
+e	mab	mab	1 meaning
+e	mad	mad	2 meanings
+e	mahé	mah	1 meaning
+e	malé	mal	1 meaning
+e	man	man	6 meanings
+e	mao	mao	1 meaning
+e	map	map	2 meanings
+e	mar	mar	1 meaning
+e	mat	mat	1 meaning
+e	maté	mat	1 meaning
+e	may	may	3 meanings
+j	まい	mai	will not, is not, cannot …
+j	まう	mau	synonym of しまう
+j	まえ	mae	空間的意義
+j	まお	mao	a female given name
+j	まーん	man	woman, ho
+j	マイ	mai	one's own
+j	マオウ	mao	「麻黄」の学術的表記。
+j	マン	man	-man
+j	万	man	ten thousand, myriad
+j	前	mae	the front
+j	毎	mai	each, every, per
+j	真以	mai	a female given name
+j	舞	mai	a type of traditional Jap…
+j	舞う	mau	to dance (in a graceful, …
+j	舞え	mae	hypothetical and imperati…
+j	萬	man	the number ten thousand, …
+j	魔王	mao	the devil, devil king
+j	麻苧	mao	青苧。苧麻。
+j	麻衣	mai	a female given name
+j	麻黄	mao	plants of genus Ephedra
+k	마아	maa	
+k	마오	mao	
+k	마이	mai	shirt jacket, especially …
+k	막	mak	rough, careless, of low q…
+k	만	man	ten thousand
+k	맏	mat	(친족 관계를 나타내는 일부 명사에 붙어) '…
+k	말	mal	speech
+k	맘	mam	one's mother
+k	맛	mat	taste, flavor
+k	맞	mat	(일부 명사에 붙어) '마주 대하여 하는', …
+k	맡	mat	moment, time
+k	매	mae	hawk
+e	ma'am	maam	1 meaning
+e	mace	mace	4 meanings
+e	mach	mach	1 meaning
+e	mage	mage	1 meaning
+e	magi	magi	1 meaning
+e	mahr	mahr	1 meaning
+e	maia	maia	1 meaning
+e	maid	maid	2 meanings
+e	mail	mail	3 meanings
+e	maim	maim	1 meaning
+e	main	main	2 meanings
+e	make	make	13 meanings
+e	male	male	3 meanings
+e	mali	mali	1 meaning
+e	mall	mall	1 meaning
+e	malmö	malm	1 meaning
+e	malt	malt	1 meaning
+e	mana	mana	1 meaning
+e	mane	mane	2 meanings
+e	mani	mani	1 meaning
+e	manx	manx	2 meanings
+e	many	many	1 meaning
+e	mara	mara	3 meanings
+e	mare	mare	1 meaning
+e	mari	mari	2 meanings
+e	mark	mark	8 meanings
+e	marl	marl	1 meaning
+e	mars	mars	3 meanings
+e	marx	marx	1 meaning
+e	mary	mary	3 meanings
+e	mask	mask	2 meanings
+e	mass	mass	5 meanings
+e	mast	mast	1 meaning
+e	masu	masu	1 meaning
+e	mate	mate	2 meanings
+e	maui	maui	1 meaning
+e	maul	maul	1 meaning
+e	maze	maze	1 meaning
+e	mazu	mazu	1 meaning
+j	まあい	maai	合間。間。ひま。
+j	まあまあ	mama	so-so, passable, tolerable
+j	まうえ	maue	直ぐ上。直上。
+j	まえお	maeo	下駄や草履などの履物で、前方にある穴（前壺) にす…
+j	まか	maka	「まく」の未然形。
+j	まが	maga	bad; disastrous
+j	まき	maki	winding
+j	まく	maku	巻く, 捲く: to roll something
+j	まけ	make	負けること。敗北。
+j	まげ	mage	髷: bun (hairstyle); chign…
+j	まこ	mako	麻姑: Magu (nymph in Chines…
+j	まご	mago	子の子である2親等の親族。
+j	まさ	masa	確実なこと。分明なこと。
+j	まじ	maji	indicating prohibition
+j	まじょう	majo	真情: hidden in one's heart…
+j	ます	masu	expresses politeness towa…
+j	ますぅ	masu	
+j	まず	mazu	最初に。第一に。
+j	ませ	mase	助動詞「ます」の未然形、命令形。
+j	まぜ	maze	南からの風。夏の季語。
+j	まそ	maso	麻の美称。
+j	まぞ	mazo	
+j	また	mata	又, 復: again; as well
+j	まだ	mada	実現していない状態である。
+j	まて	mate	真手: both hands together
+j	まで	made	until, up to, as far as
+j	まと	mato	円: (obsolete) round
+j	まとう	mato	着る。
+j	まど	mado	部屋などの壁や屋根に設けられた、採光や換気のための…
+j	まどう	mado	道や方向がわからなくて迷う。
+j	まな	mana	漢字。
+j	まね	mane	まねること。模倣すること。
+j	まは	maha	アブラナ科の越年草。「大根」または「油菜」の別名。
+j	まま	mama	as it is; remaining in a …
+j	まめ	mame	豆: bean
+j	まゆ	mayu	真冬, 真由, 真優: a female give…
+j	まよう	mayo	決断が付かない。
+j	まら	mara	
+j	まり	mari	鞠: ball
+j	まる	maru	forms intransitive 五段活用(ご…
+j	まれ	mare	数や頻度が少なくめずらしいさま。
+j	まろ	maro	I, me, my, mine
+j	マイア	maia	豊穣を司る大地の女神。
+j	マイン	main	Main (a river in Germany)
+j	マカ	maka	アブラナ科の多年草。南アメリカペルー原産。
+j	マカー	maka	Macintosh user
+j	マギー	magi	
+j	マグ	magu	a mug (large cup)
+j	マザー	maza	mother
+j	マジ	maji	serious, for real
+j	マス	masu	集団、集まり、多数、大量、大衆。
+j	マゾ	mazo	マゾヒズム。
+j	マッネ	mane	
+j	マナ	mana	mana
+j	マナー	mana	manners (etiquette)
+j	マニ	mani	
+j	マネ	mane	
+j	マネー	mane	money
+j	マフ	mafu	毛皮などで作った、両端から手を入れて用いる円筒状の…
+j	マブ	mabu	天王星の衛星の固有名。
+j	ママ	mama	mama, mamma, a childish f…
+j	マミー	mami	mommy, mummy
+j	マメ	mame	「まめ（豆）」の学術的表記。
+j	マユ	mayu	
+j	マヨ	mayo	マヨネーズの略語。
+j	マリ	mari	Mali (a country in West A…
+j	マリー	mari	Mary
+j	マル	mari	
+j	マレ	mare	Malé (the capital of the …
+j	マレー	mare	Malay
+j	マーカー	maka	a marker (marker pen)
+j	マーク	maku	mark, symbol, insignia
+j	マーサ	masa	
+j	マージ	maji	merge
+j	マージャー	maja	合併。合同。
+j	マース	masu	
+j	マーズ	mazu	MERS, Middle East respira…
+j	マーダー	mada	殺人（事件）、殺人者、殺人犯。
+j	マート	mato	mart
+j	マーヒ	mahi	
+j	マーワ	mawa	
+j	丸	maru	丸, 円: a circle
+j	侭	mama	an unknown-gender given n…
+j	俣	mata	（また）道や川などが、2方向に分岐するところ。
+j	儘	mama	the same, unchanged state…
+j	先ず	mazu	first of all
+j	前へ	maee	
+j	升	masu	a box used for measuring …
+j	又	mata	（また）さらに、くわえて。
+j	叉	mata	
+j	圸	mama	cliff
+j	増す	masu	to increase
+j	墹	mama	cliff
+j	媽祖	maso	Mazu (a sea goddess in Ea…
+j	巻き	maki	
+j	巻く	maku	to roll, to coil, to wind…
+j	幕	maku	curtain
+j	待て	mate	
+j	摩羅	mara	「魔羅」の別表記。
+j	摩耗	mamo	abrasion
+j	摩耶	maya	Maya (mother of Gautama B…
+j	摩訶	maka	something great, somethin…
+j	撒く	maku	to sprinkle; to scatter a…
+j	播く	maku	
+j	放る	maru	to excrete
+j	末羅	mara	「魔羅」の別表記。
+j	枡	masu	masu (square wooden box)
+j	毬	mari	a ball; (especially) a ba…
+j	牧	maki	pasture
+j	痳痺	mahi	痲痺（麻痺）の別表記。痲と痳の混同によるもの。
+j	眉	mayu	eyebrow
+j	眞子	mako	a female given name
+j	真上	maue	the area directly above
+j	真似	mane	imitation
+j	真優	mayu	a female given name
+j	真名	mana	synonym of 漢字 (kanji): Ch…
+j	真奈	mana	a female given name
+j	真帆	maho	a female given name
+j	真弥	maya	a female given name
+j	真梨	mari	a female given name
+j	真歩	maho	a female given name
+j	真由	mayu	a female given name
+j	真秀	maho	excellent, ample, complete
+j	真耶	maya	a female given name
+j	真菜	mana	a type of vegetable of Br…
+j	真野	mano	a surname
+j	真間	mama	a town in Ichikawa, Chiba…
+j	真風	maji	southern wind, a wind fro…
+j	真魚	mana	fish used for eating
+j	真麻	masa	a female given name
+j	磨瑩	maei	磨くこと。瑩磨。
+j	磨耗	mamo	abrasion, attrition (wear…
+j	稀	mare	rare
+j	窓	mado	window
+j	繭	mayu	a cocoon
+j	肉刺	mame	blister, corn
+j	股	mata	crotch, the space between…
+j	膜	maku	membrane; film
+j	茉奈	mana	a female given name
+j	蒔く	maku	sow, plant
+j	薪	maki	
+j	豆	mame	the pulses
+j	負け	make	defeat; loss
+j	間間	mama	sometimes, occasionally; …
+j	鞠	mari	
+j	馬哇	maui	
+j	馬子	mago	packhorse driver
+j	馬来	mare	「マライ」の漢字表記。
+j	髷	mage	bun (hairstyle); chignon;…
+j	魔女	majo	a witch, a sorceress
+j	魔導	mado	magic, sorcery
+j	魔尼	mani	jewel; pearl; gemstone
+j	魔気	maki	a demonic or devilish aur…
+j	魔法	maho	the arts of magic, spellc…
+j	魔羅	mara	Mara: a Buddhist demon th…
+j	魔道	mado	The dark side, the path o…
+j	魔防	mabo	「魔法防御」の略。魔法攻撃を防御する能力。
+j	魔鬼	maki	A demon ghost; a monster;…
+j	魔魅	mami	人をたぶらかす魔物。
+j	鱒	masu	trout, sea trout: more sp…
+j	麻也	maya	a female given name
+j	麻友	mayu	a female given name
+j	麻姑	mako	Magu (nymph in Chinese my…
+j	麻痺	mahi	paralysis
+j	麻部	mabu	部首「⿇」で分類した漢字の一群。
+j	麻里	mari	a female given name
+k	마고	mago	Magu, an immortal woman
+k	마구	magu	carelessly, recklessly, i…
+k	마기	magi	ultimately, at the end of…
+k	마노	mano	agate
+k	마누	manu	Manu (the progenitor of m…
+k	마니	mani	person
+k	마다	mada	to smash
+k	마도	mado	the world of evil spirits…
+k	마디	madi	joint, knuckle
+k	마라	mara	
+k	마루	maru	floor's covering, especia…
+k	마리	mari	animals; head (of cattle)…
+k	마마	mama	Your Highness, His Highne…
+k	마모	mamo	금속과 금속, 금속과 비금속, 비금속과 비금속…
+k	마부	mabu	horseman; coachman
+k	마비	mabi	paralysis (loss of muscle…
+k	마세	mase	당구에서, 큐를 수직으로 세워서 공을 내리찍어…
+k	마소	maso	horses and cattle
+k	마수	masu	
+k	마시	masi	(당구) 다 맞기.
+k	마안	maan	
+k	마유	mayu	mare's milk
+k	마이아	maia	
+k	마일	mail	mile
+k	마임	maim	
+k	마조	majo	
+k	마주	maju	face to face
+k	마카	maka	
+k	마키	maki	
+k	마포	mapo	mop (implement for washin…
+k	마하	maha	Mach
+k	막이	magi	damming (up), banking (up)
+k	만이	mani	In ancient China, indigen…
+k	많이	mani	many, much, a lot, plenty…
+k	맏이	maji	firstborn; the eldest (ch…
+k	말이	mali	'말니'의 비표준어.
+k	망	mang	any object that looks lik…
+k	맞이	maji	welcoming, receiving, gre…
+k	매우	maeu	very, extremely
+k	맥	maek	blood vein
+k	맨	maen	utmost, most
+k	맴	maem	제자리에 서서 뱅뱅 도는 장난.
+k	맵	maep	
+e	macapá	macap	1 meaning
+e	macau	macau	1 meaning
+e	macaw	macaw	1 meaning
+e	macho	macho	2 meanings
+e	macro	macro	1 meaning
+e	madam	madam	1 meaning
+e	mafia	mafia	2 meanings
+e	magas	magas	1 meaning
+e	magic	magic	2 meanings
+e	magma	magma	2 meanings
+e	magog	magog	1 meaning
+e	magus	magus	1 meaning
+e	mahdi	mahdi	1 meaning
+e	mahua	mahua	1 meaning
+e	maiko	maiko	1 meaning
+e	maine	maine	2 meanings
+e	mainz	mainz	1 meaning
+e	maize	maize	1 meaning
+e	major	major	3 meanings
+e	maker	maker	1 meaning
+e	malay	malay	1 meaning
+e	malta	malta	2 meanings
+e	malwa	malwa	1 meaning
+e	mambo	mambo	1 meaning
+e	manat	manat	2 meanings
+e	mandu	mandu	1 meaning
+e	manga	manga	2 meanings
+e	mange	mange	1 meaning
+e	mango	mango	2 meanings
+e	mania	mania	1 meaning
+e	manju	manju	1 meaning
+e	manky	manky	1 meaning
+e	manly	manly	1 meaning
+e	manna	manna	1 meaning
+e	manor	manor	1 meaning
+e	manpo	manpo	1 meaning
+e	manti	manti	1 meaning
+e	manul	manul	1 meaning
+e	maori	maori	2 meanings
+e	maple	maple	1 meaning
+e	maqam	maqam	1 meaning
+e	march	march	5 meanings
+e	mario	mario	1 meaning
+e	marks	marks	1 meaning
+e	marry	marry	2 meanings
+e	marsh	marsh	1 meaning
+e	masan	masan	1 meaning
+e	maser	maser	1 meaning
+e	mason	mason	1 meaning
+e	match	match	5 meanings
+e	maths	maths	1 meaning
+e	matte	matte	1 meaning
+e	matzo	matzo	1 meaning
+e	mauve	mauve	2 meanings
+e	maxim	maxim	1 meaning
+e	maybe	maybe	2 meanings
+e	mayor	mayor	1 meaning
+e	mâche	mache	1 meaning
+e	mâcon	macon	1 meaning
+j	まあか	maaka	純粋な赤い色。まっか。
+j	まあじ	maaji	アジ科の海水魚。食用となる。学名は Trachur…
+j	まいあい	maiai	「眉間」が変化したもの。
+j	まいく	maiku	満育: a male given name
+j	まいこ	maiko	京都の五花街において、芸妓の見習い修行段階の者で、…
+j	まいご	maigo	（「まよい・子」の転）自分が現在いる場所や保護者の…
+j	まいど	maido	毎度: always, constantly
+j	まいみ	maimi	祭祀の際、神事に携わる者が散斎（荒忌み）のあとに行…
+j	まいり	mairi	「まいる」の連用形。
+j	まいる	mairu	「いく」「くる」。参上する。
+j	まえば	maeba	最前に生えている歯。門歯。切歯。
+j	まえわ	maewa	進行方向の前後に車輪がある乗り物の前方にあるもの。…
+j	まがい	magai	本物と区別が付かないほど似せてあること。また、その…
+j	まがう	magau	to be mistaken for, to be…
+j	まがお	magao	serious face; straight fa…
+j	まきえ	makie	漆工芸の一つで、漆を縫った器物に金銀や色のついた粉…
+j	まきお	makio	真樹夫: a male given name
+j	まけん	maken	魔剣: cursed sword
+j	まげん	magen	魔幻: illusion, apparition
+j	まごい	magoi	鱗が黒っぽい鯉。
+j	まし	mashi	汝: second person pronoun;…
+j	ましょ	masho	助動詞「ます」の未然形。
+j	ましょう	masho	Induces or stimulates oth…
+j	まじん	majin	魔人: magician; sorcerer; c…
+j	ますお	masuo	万寿男: a male given name
+j	まずい	mazui	not tasting good
+j	ません	masen	A suffix used to form the…
+j	まだい	madai	スズキ目タイ科に属する海水魚。食用とされる。
+j	まだん	madan	魔男: wizard
+j	まち	machi	住宅や商店が多く人が密集して住んでいる場所。都会。
+j	まっか	makka	赤の色が濃いこと。
+j	まっき	makki	真っ黄色。
+j	まっこう	makko	額の真ん中。
+j	まっす	massu	to do; expresses humblene…
+j	まった	matta	進行を一時的に止めること。また、その掛け声。
+j	まって	matte	待って, 俟って: conjunctive for…
+j	まっとう	matto	全う: synonym of 全く (mattak…
+j	まっぱ	mappa	真っ裸。何も身につけていないこと。
+j	まっぽ	mappo	cop (police officer)
+j	まつ	matsu	マツ。
+j	まなお	manao	正しく偽りのないさま。気持ちが真っ直ぐなさま。
+j	まぶい	mabui	（俗語_古いやくざ言葉）（女性に対して）美しい、魅…
+j	まよい	mayoi	迷うこと。
+j	まるい	marui	round, circular
+j	まれお	mareo	典男: a male given name
+j	まろい	maroi	円形をしている。まるい。
+j	まんが	manga	
+j	まんげ	mange	女性の陰毛。
+j	まんこ	manko	female genitals: a cunt, …
+j	まんこう	manko	満腔: throughout the body; …
+j	まんごう	mango	万劫: an extremely long per…
+j	まんじゅう	manju	饅頭: manjū, a type of bun …
+j	まんどう	mando	万灯: ten thousand lights
+j	まんま	manma	御飯、めし。
+j	ま行	magyo	the sixth row of the 五十音図…
+j	マイカ	maika	
+j	マイカー	maika	A privately-owned car.
+j	マイク	maiku	音を電気信号に変換する装置。マイクロフォンの略。M…
+j	マイト	maito	dynamite
+j	マイナ	maina	マイナンバー。
+j	マイナー	maina	minor; insignificant; obs…
+j	マイム	maimu	synonym of パントマイム (pantom…
+j	マイラ	maira	
+j	マイル	mairu	a mile
+j	マウス	mausu	a mouse, especially a lab…
+j	マウラー	maura	
+j	マオリ	maori	ニュージーランドの先住民。
+j	マカオ	makao	Macau (a city, special ad…
+j	マコン	makon	
+j	マシュー	mashu	
+j	マタイ	matai	Matthew
+j	マッカ	makka	メッカのアラビア語読み。
+j	マック	makku	synonym of マクドナルド (MakuDo…
+j	マッダ	madda	
+j	マット	matto	mat
+j	マッハ	mahha	Mach
+j	マップ	mappu	map
+j	マツ	matsu	マツ科マツ属の針葉樹。特にアカマツやクロマツを指す…
+j	マティア	matia	Matthias
+j	マトン	maton	mutton (meat)
+j	マニア	mania	fervent enthusiast of som…
+j	マフア	mahua	
+j	マフィア	mafia	mafia
+j	マフィン	mafin	muffin (individual cake)
+j	マライ	marai	「マレー」の表記ゆれ。
+j	マリア	maria	Mary
+j	マリオ	mario	a transliteration of the …
+j	マリン	marin	海の。海洋の。
+j	マリーン	marin	海の。海洋の。
+j	マルーン	marun	黒みがかった赤い茶色。濃い栗色。
+j	マロン	maron	chestnut (nut of a chestn…
+j	マンガ	manga	
+j	マンコ	manko	
+j	マンゴー	mango	mango (fruit)
+j	マンズ	manzu	麻雀の数牌で漢数字の一から九と萬と書かれたもので、…
+j	マンセー	manse	hurrah! manse!
+j	マンティ	manti	
+j	マンデー	mande	月曜日。
+j	マント	manto	a kind of loose cloak, si…
+j	マントー	manto	「マントウ」を参照。
+j	マンド	mando	聞き手に要求や命令するような発話。
+j	マンドゥ	mandu	
+j	マンナ	manna	
+j	マンネ	manne	maknae (youngest member o…
+j	マンバ	manba	有鱗目コブラ科マンバ属に属する蛇の総称。学名:De…
+j	マンファ	manfa	
+j	マンボ	manbo	mambo (Latin American mus…
+j	マンボウ	manbo	フグ目マンボウ科に属する魚類の総称。
+j	マンモ	manmo	
+j	マン屁	manpe	
+j	マン島	manto	Isle of Man (an island an…
+j	マーゲイ	magei	a margay
+j	マーシュ	mashu	
+j	マージャン	majan	麻雀。
+j	マージン	majin	もうけ。
+j	マーチ	machi	march
+j	マーティン	matin	Martin
+j	マーマン	maman	
+j	マーリン	marin	
+j	万宝	manpo	多くの宝
+j	万寿男	masuo	a male given name
+j	万度	mando	祭礼などに用いる四角い枠に薄い紙をはり、中に灯火を…
+j	万延	manen	the Man'en era, 1860–1861
+j	万永	manei	a surname
+j	万治	manji	the Manji era, 1651-1661
+j	万灯	mando	ten thousand lights
+j	万草	manso	数多くの草。あらゆる草。
+j	万葉	manyo	myriads of leaves
+j	万里絵	marie	a female given name
+j	不味い	mazui	
+j	丸い	marui	
+j	丸尾	maruo	a surname
+j	優夫	masao	a male given name
+j	典男	mareo	a male given name
+j	前に	maeni	before, previously
+j	前の	maeno	
+j	前歯	maeba	front teeth; front tooth
+j	前田	maeda	The neighborhoods of Inaz…
+j	前野	maeno	a surname
+j	卍	manji	swastika, especially a le…
+j	卐	manji	
+j	参り	mairi	visiting a shrine or temp…
+j	参る	mairu	to go
+j	哩	mairu	mile (mi)
+j	埋芻	maisu	silage
+j	埋草	maiso	silage
+j	埋葬	maiso	burial (of a body or ashe…
+j	埋蔵	maizo	deposit
+j	埋藏	maizo	埋蔵の旧字体表記。
+j	増し	mashi	increase, extra
+j	増井	masui	a surname
+j	売僧	maisu	corrupt (Buddhist) priest…
+j	媽港	makao	
+j	嫚辞	manji	軽蔑する言葉。嫚言。
+j	待ち	machi	
+j	待った	matta	past tense and perfective…
+j	待つ	matsu	to wait for, to await
+j	待てい	matei	
+j	待井	machi	a surname
+j	惑い	madoi	delusion
+j	惑う	madou	to get lost
+j	慢気	manki	驕り、高ぶる気持ち。慢心。
+j	慢語	mango	驕り高ぶり、他人を見下すような言葉。慢言。
+j	抹香	makko	powder incense
+j	摩損	mason	「磨損」の別表記。
+j	撒き餌	makie	baiting, chumming, luring…
+j	政夫	masao	a male given name
+j	政雄	masao	a male given name
+j	昌男	masao	a male given name
+j	昧爽	maiso	明け方の薄暗い時分。未明。昧旦。
+j	末世	masse	仏法が衰えた末法の世。
+j	末期	makki	final period; terminal pe…
+j	末法	mappo	the age of decadence, the…
+j	末派	mappa	末流。末の流派。
+j	末項	makko	最後の項、条項。
+j	松	matsu	a pine tree
+j	枚数	maisu	紙や板など薄い物や平面的な物など「枚」で数えるもの…
+j	檬果	mango	
+j	正夫	masao	a male given name
+j	正男	masao	a male given name
+j	正雄	masao	a male given name
+j	毎句	maiku	一句ごと。
+j	毎夜	maiyo	nightly
+j	毎度	maido	always, constantly
+j	毎戸	maiko	every house
+j	毎時	maiji	every hour
+j	満員	manin	full house; filled to cap…
+j	満城	manjo	城に満ちていること。
+j	満堂	mando	堂の中に人などが満ちていること。
+j	満場	manjo	the whole audience; the e…
+j	満庫	manko	倉庫内に多くの物が入り、いっぱいであること。
+j	満期	manki	expiration (of the term);…
+j	満珠	manju	潮を満ちさせることができるという珠。しおみつたま。
+j	満盈	manei	filled to capacity
+j	満眸	manbo	見渡す限り。満目。
+j	満育	maiku	a male given name
+j	満腔	manko	throughout the body; the …
+j	満蒙	manmo	満州とモンゴル。
+j	滿盈	manei	
+j	滿腔	manko	満腔の旧字体表記。
+j	漫歩	manpo	特に目的もなくぶらぶら歩くこと。
+j	漫湖	manko	Lake Man, a mangrove wetl…
+j	漫符	manpu	icon, manga mark, cartoon…
+j	漫罵	manba	derision
+j	漫語	mango	よく考えずに言うとりとめのない言葉。漫言。
+j	澳門	makao	synonym of マカオ: Macau (a …
+j	町	machi	a town, a city
+j	眞下	makka	a surname
+j	真っ向	makko	directly opposite, right …
+j	真っ赤	makka	extremely red, purely red…
+j	真依子	maiko	a female given name
+j	真実井	mamii	a surname
+j	真実亜	mamia	a female given name
+j	真実伊	mamii	a female given name
+j	真実彩	mamia	a female given name
+j	真実恵	mamie	a female given name
+j	真実栄	mamie	a female given name
+j	真実生	mamio	a female given name
+j	真実衣	mamii	a female given name
+j	真梨絵	marie	a female given name
+j	真樹夫	makio	a male given name
+j	真生	masao	a male given name
+j	真雁	magan	greater white-fronted goo…
+j	真青	masao	deep blue, purely or enti…
+j	真鯛	madai	red seabream, Pagrus major
+j	真鯵	maaji	
+j	磨損	mason	摩擦により表面が減ること。擦り減ること。
+j	磨洗	masen	磨き、洗うこと。
+j	紛い	magai	
+j	纏う	matou	to be dressed in, wear, p…
+j	翻車魚	manbo	ocean sunfish, Mola mola
+j	聖雄	masao	a male given name
+j	舞子	maiko	dancing girl, particularl…
+j	舞衣子	maiko	a female given name
+j	舞野	maino	a surname
+j	萬子	manzu	character tile
+j	蒔絵	makie	maki-e: decorative lacque…
+j	蔓延	manen	spread of a disease
+j	蔓草	manso	蔓性の草。はびこる草。
+j	蔓語	mango	冗雑な言葉。蔓辞。
+j	蔓辞	manji	冗雑な言葉。蔓語。
+j	蔓防	manbo	
+j	襠	machi	gusset, gore, godet
+j	賣僧	maisu	
+j	迷う	mayou	to be confused
+j	迷子	maigo	lost child; stray child
+j	雅生	masao	a male given name
+j	饅頭	manju	manjū, a type of bun typi…
+j	魔乳	manyu	witch's milk
+j	魔人	majin	a person who has some sup…
+j	魔処	masho	魔物が住むと考えられていた場所。
+j	魔剣	maken	cursed sword
+j	魔剤	mazai	energy drink
+j	魔境	makyo	place occupied by demons
+j	魔幻	magen	A demonic illusion, ghost…
+j	魔弾	madan	magic bullet
+j	魔性	masho	having an evil spirit or …
+j	魔所	masho	魔物が住むと考えられていた場所。
+j	魔手	mashu	悪魔の手。
+j	魔球	makyu	insane curve ball
+j	魔男	madan	
+j	魔界	makai	the world of demons
+j	魔眼	magan	evil eye
+j	魔神	majin	a malevolent deity that c…
+j	魔酔	masui	あることに熱中、陶酔すること。
+j	魔鏡	makyo	Chinese magic mirror
+j	麻子	mashi	hempseed
+j	麻将	majan	麻雀の異表記。
+j	麻煩	mahan	面倒。
+j	麻理恵	marie	a female given name
+j	麻紙	mashi	麻の繊維を原料としてつくられた紙。
+j	麻衣子	maiko	a female given name
+j	麻酔	masui	anesthesia
+j	麻雀	majan	mahjong
+k	마감	magam	finish
+k	마개	magae	stopper, plug
+k	마계	magye	the world of demons
+k	마귀	magwi	devil; demon; evil spirit…
+k	마니아	mania	어느 한 분야에 관심이 많아 열심인 사람.
+k	마님	manim	Master, Madame
+k	마달	madal	ritual songs and invocati…
+k	마담	madam	술집 등의 여주인.
+k	마대	madae	삼베나 비닐 따위로 만든 자루이다. 포대, 자…
+k	마더	madeo	mother
+k	마룩	maruk	'국물'의 북한말.
+k	마리아	maria	
+k	마리오	mario	
+k	마몬	mamon	
+k	마산	masan	
+k	마술	masul	magic (performance magic,…
+k	마실	masil	casually leaving home (to…
+k	마약	mayak	drug, narcotic
+k	마우자	mauja	Russian person
+k	마육	mayuk	horsemeat
+k	마을	maeul	village, hamlet, usually …
+k	마음	maeum	mind, heart (i.e. one's e…
+k	마이라	maira	
+k	마이코	maiko	
+k	마작	majak	mahjong
+k	마저	majeo	all, with no remainder
+k	마즈	majeu	
+k	마진	majin	매출이익; 원가와 판매가에 차이를 둬 거둬 들…
+k	마찌	majji	
+k	마차	macha	horse-drawn carriage, hor…
+k	마치	machi	exactly the same, as if, …
+k	마카오	makao	Macau (a city, special ad…
+k	마커	makeo	marker pen
+k	마켓	maket	market
+k	마크	makeu	mark
+k	마태	matae	
+k	마트	mateu	mart
+k	마티아	matia	Matthias
+k	마틴	matin	
+k	마피아	mapia	mafia
+k	마학	mahak	
+k	마한	mahan	Mahan confederacy
+k	막다	makda	to stop up
+k	막부	makbu	shogunate
+k	막자	makja	
+k	막후	makhu	behind the scenes
+k	만가	manga	'만화'의 일본어 투.
+k	만고	mango	아주 오랜 옛날. (비유) 아주 오랜 시간 동…
+k	만기	mangi	
+k	만두	mandu	mandu, a form of dumpling…
+k	만루	mallu	bases loaded
+k	만리	malli	
+k	만무	manmu	
+k	만사	mansa	
+k	만세	manse	hurrah, hooray
+k	만수	mansu	longevity
+k	만유	manyu	all that exists, everythi…
+k	만인	manin	
+k	만일	manil	if; perchance
+k	만자	manja	swastika
+k	만조	manjo	high tide
+k	만주	manju	Manchuria (a region of no…
+k	만파	manpa	
+k	만포	manpo	Manpo (a city in Chagang …
+k	만호	manho	
+k	많다	manta	many, much, a lot, plenti…
+k	말고	malgo	
+k	말기	malgi	final period; terminal pe…
+k	말다	malda	to not do something, to s…
+k	말레	malle	Malé (the capital city of…
+k	말로	mallo	
+k	말리	malli	Mali (a country in Africa)
+k	말미	malmi	very end, close
+k	말세	malse	the end of the world
+k	말소	malso	지움, 지워 없앰.
+k	말수	malsu	
+k	말와	marwa	
+k	말의	marui	
+k	말일	maril	the last day of a month i…
+k	말투	maltu	manner of speaking
+k	맑다	makda	to be clear, clean, fresh…
+k	맘마	mamma	meal, pap, milk
+k	맘보	mambo	
+k	망아	manga	
+k	맞다	matda	to be correct, right
+k	맡다	matda	to take on a task or job;…
+k	매기	maegi	
+k	매다	maeda	to tie, to gird, to bind,…
+k	매도	maedo	sale, selling
+k	매미	maemi	cicada (sound-making inse…
+k	매부	maebu	손위 누이나 손아래 누이의 남편을 이르거나 부…
+k	매사	maesa	
+k	매수	maesu	사들이기.
+k	매시	maesi	
+k	매암	maeam	
+k	매운	maeun	'맵다'의 관형사형.
+k	매움	maeum	'맵다'의 명사형.
+k	매인	maein	
+k	매일	maeil	every day
+k	매임	maeim	tying, dependence, boundi…
+k	매입	maeip	사들이기.
+k	매자	maeja	barberry (fruit)
+k	매제	maeje	자기 누이 동생의 남편. (부록: 가족과 친척)
+k	매주	maeju	every week
+k	매파	maepa	
+k	맥아	maega	malt
+k	맥우	maegu	
+k	맹	maeng	after all, just as expect…
+e	macana	macana	1 meaning
+e	macron	macron	2 meanings
+e	macula	macula	1 meaning
+e	mad dog	maddog	1 meaning
+e	maddah	maddah	1 meaning
+e	madden	madden	2 meanings
+e	madder	madder	4 meanings
+e	madman	madman	1 meaning
+e	madras	madras	1 meaning
+e	madrid	madrid	1 meaning
+e	maggie	maggie	1 meaning
+e	maggot	maggot	2 meanings
+e	maglev	maglev	1 meaning
+e	magnet	magnet	1 meaning
+e	magpie	magpie	2 meanings
+e	magyar	magyar	1 meaning
+e	mahout	mahout	1 meaning
+e	maiden	maiden	2 meanings
+e	mainly	mainly	1 meaning
+e	majuro	majuro	1 meaning
+e	makati	makati	1 meaning
+e	make do	makedo	1 meaning
+e	make it	makeit	1 meaning
+e	makeup	makeup	1 meaning
+e	makira	makira	1 meaning
+e	maknae	maknae	1 meaning
+e	maktab	maktab	1 meaning
+e	malabo	malabo	1 meaning
+e	malaga	malaga	1 meaning
+e	malate	malate	1 meaning
+e	malawi	malawi	1 meaning
+e	malian	malian	1 meaning
+e	malibu	malibu	1 meaning
+e	malice	malice	1 meaning
+e	mallet	mallet	1 meaning
+e	mallow	mallow	1 meaning
+e	mamiku	mamiku	1 meaning
+e	mammal	mammal	1 meaning
+e	mammon	mammon	1 meaning
+e	mamzer	mamzer	1 meaning
+e	man day	manday	1 meaning
+e	man-day	manday	1 meaning
+e	manage	manage	3 meanings
+e	manama	manama	1 meaning
+e	manaus	manaus	1 meaning
+e	manchu	manchu	4 meanings
+e	mangan	mangan	1 meaning
+e	manger	manger	1 meaning
+e	manhua	manhua	1 meaning
+e	manhwa	manhwa	1 meaning
+e	maniac	maniac	2 meanings
+e	manila	manila	1 meaning
+e	manned	manned	1 meaning
+e	manner	manner	2 meanings
+e	mantis	mantis	1 meaning
+e	mantle	mantle	2 meanings
+e	mantou	mantou	1 meaning
+e	mantra	mantra	3 meanings
+e	manual	manual	3 meanings
+e	manure	manure	1 meaning
+e	maoism	maoism	1 meaning
+e	maoist	maoist	2 meanings
+e	maputo	maputo	1 meaning
+e	maqama	maqama	1 meaning
+e	maraca	maraca	1 meaning
+e	maraud	maraud	1 meaning
+e	marble	marble	2 meanings
+e	marche	marche	1 meaning
+e	margay	margay	1 meaning
+e	margin	margin	2 meanings
+e	mari el	mariel	1 meaning
+e	marian	marian	1 meaning
+e	marimo	marimo	1 meaning
+e	marina	marina	1 meaning
+e	marine	marine	3 meanings
+e	marius	marius	1 meaning
+e	market	market	4 meanings
+e	markka	markka	1 meaning
+e	markup	markup	1 meaning
+e	marlin	marlin	1 meaning
+e	marmot	marmot	1 meaning
+e	maroon	maroon	2 meanings
+e	marram	marram	1 meaning
+e	marrow	marrow	1 meaning
+e	marten	marten	1 meaning
+e	martha	martha	1 meaning
+e	martin	martin	1 meaning
+e	martyr	martyr	3 meanings
+e	masaru	masaru	1 meaning
+e	mascot	mascot	1 meaning
+e	masdar	masdar	1 meaning
+e	maseru	maseru	1 meaning
+e	masses	masses	1 meaning
+e	massif	massif	1 meaning
+e	master	master	12 meanings
+e	matcha	matcha	1 meaning
+e	mating	mating	1 meaning
+e	matrix	matrix	6 meanings
+e	matsue	matsue	1 meaning
+e	matter	matter	6 meanings
+e	mature	mature	4 meanings
+e	mauser	mauser	1 meaning
+e	may day	mayday	1 meaning
+e	mayday	mayday	1 meaning
+e	mayfly	mayfly	1 meaning
+e	maykop	maykop	1 meaning
+e	mañjuśrī	majuri	1 meaning
+e	maṅgala	magala	1 meaning
+j	まいうど	maiudo	舞楽を舞う人。
+j	まいおうぎ	maiogi	舞に使う扇。
+j	まいった	maitta	参った: I give up, I've had …
+j	まいない	mainai	礼として神や人に物を贈ること。また、そのようなもの。
+j	まいにん	mainin	舞楽を舞う人。
+j	まいまい	maimai	幸若舞。また、それを舞う者。
+j	まえうり	maeuri	入場券・乗車券などを使用当日以前に売ること。また、…
+j	まえおき	maeoki	本論に入る前に述べること。また、その言葉。
+j	まえまえ	maemae	ずっと前。以前。
+j	まかす	makasu	相手を負けさせる。
+j	まかず	makazu	部屋の数。
+j	まかせ	makase	名詞の後について、そのものに委ねることを表す。
+j	まかな	makana	鉋の美称。
+j	まかり	makari	Used to add emphasis.
+j	まかる	makaru	to be able to be lowered;…
+j	まがき	magaki	竹や柴で目を荒く編んで作った垣根。
+j	まがす	magasu	（方言、青森・秋田・山形・宮城）（液体などを）こぼ…
+j	まがね	magane	純粋な金。純金。
+j	まがも	magamo	カモ目カモ科マガモ属に属する鳥の総称。学名:Ana…
+j	まがり	magari	曲がっていること。
+j	まがる	magaru	真っ直ぐでなくなる。
+j	まきげ	makige	巻いた毛。渦状または螺旋状に曲がった毛。カール。
+j	まきこ	makiko	牧子: a female given name
+j	まきす	makisu	makisu, a mat usually mad…
+j	まきぞう	makizo	万喜三: a male given name
+j	まきば	makiba	牛や馬などの家畜を放牧する場所。
+j	まぎり	magiri	knife
+j	まぎる	magiru	帆船を間切り走りで進める。
+j	まぎわ	magiwa	何かが起きる寸前。何かを行う寸前。
+j	まくら	makura	就寝時の首や肩への負担を軽減することや、髪形を乱さ…
+j	まくる	makuru	うすいものの端を持って上げ、中が見えるようにする。…
+j	まぐさ	magusa	牛馬の飼料とする草や藁。
+j	まぐそ	maguso	馬の糞。
+j	まぐれ	magure	紛れること。
+j	まぐろ	maguro	スズキ目サバ科マグロ属の魚の総称。
+j	まぐわ	maguwa	農具の一つで、牛馬に牽かせて農地などを耕す鍬。まん…
+j	まけじ	makeji	
+j	まける	makeru	相手と争った結果、相手より劣る立場となる。
+j	まげて	magete	道理や意思に反してでも行動すること。無理にでも。
+j	まげる	mageru	棒状又は板状のものの両端を近づける方向に力を加える…
+j	まこと	makoto	truth; reality; fact; gen…
+j	まこも	makomo	イネ科の多年草。水辺に生え、葉は筵に使用され、若芽…
+j	まさか	masaka	unexpectedly, inconceivab…
+j	まさき	masaki	正木, 柾: Japanese spindle
+j	まさご	masago	細かな砂。
+j	まさじ	masaji	正次: a male given name
+j	まさに	masani	正に: (chiefly literary) tr…
+j	まさみ	masami	誠実, 信実, 真実: a female give…
+j	まさめ	masame	縦方向へ真っ直ぐ通った木目。
+j	まさや	masaya	昌也, 正也, 将也, 匡哉, 誠也, 将弥: a…
+j	まさる	masaru	他と比べて良好な状態である。優れている。
+j	まざる	mazaru	他の物が入る。いりまじる。まじる。
+j	ましお	mashio	潮、汐、潮水。
+j	まじき	majiki	adnominal of まじ (maji, “s…
+j	まじに	majini	
+j	まじめ	majime	真剣でいい加減な所のないこと。
+j	まじる	majiru	ある物の中に他の物が入る。
+j	ますうり	masuri	ますではかって売ること。はかりうり。
+j	ますぐ	masugu	「まっすぐ」と同じ。
+j	ますた	masuta	
+j	ますほ	masuho	益穂: a male given name
+j	ますみ	masumi	真澄, 益已: a unisex given na…
+j	ますめ	masume	cell of a grid
+j	ますや	masuya	枡を作って売る店。
+j	まずめ	mazume	dimly light time of day, …
+j	まずる	mazuru	to flub
+j	ませる	maseru	to be mature for one's age
+j	まぜる	mazeru	ある物に他の物を加えて一つにする。混合する。
+j	またぎ	matagi	二股に分かれている木。
+j	またぐ	matagu	（…をまたぐ）足をもち上げて股を開き、…の上を通る。
+j	またね	matane	bye, see you
+j	または	matawa	選択的な複数のものを併記する場合に用いる。
+j	またも	matamo	synonym of また (mata, “aga…
+j	まだか	madaka	スズキの別名のひとつ。成魚になる手前の成長段階の呼…
+j	まだき	madaki	early
+j	まだこ	madako	タコ目マダコ科マダコ属に属する蛸の一種。学名:Oc…
+j	まだに	madani	ダニ目マダニ亜目マダニ科に属するだにの総称。
+j	まだら	madara	variegated
+j	まぢか	majika	間近
+j	まっさお	massao	混じり気なく青い様。
+j	まっし	masshi	（方言、石川県）軽い命令。～しなさい。
+j	まったい	mattai	全て備わっている。欠けている所や誤りが無い。
+j	まつお	matsuo	松尾: a surname
+j	までに	madeni	by (a certain time)
+j	まとば	matoba	的を掛け、弓や射撃などの練習をする場所。
+j	まとめ	matome	collection (of informatio…
+j	まとも	matomo	正面に向かうこと。
+j	まとり	matori	鳥の美称。
+j	まどか	madoka	まるいさま。円環が完成したさま。
+j	まどべ	madobe	窓辺: the area near a windo…
+j	まどり	madori	建物の部屋の配置。
+j	まなか	manaka	
+j	まなこ	manako	the pupil
+j	まなと	manato	学人: a male given name
+j	まなび	manabi	学ぶことによって得られた知識や技能。
+j	まなぶ	manabu	勉強する。学問をする。
+j	まなべ	manabe	真鍋: a surname
+j	まにあう	maniau	時間に遅れずに着く。時間に遅れずに達成する。
+j	まぬけ	manuke	何かを行ったときに、大事なところが足りず、完成して…
+j	まねき	maneki	招き: invitation
+j	まねく	maneku	合図をして人を呼び寄せる。
+j	まねる	maneru	他のものがすることと同じことをすること。
+j	まばら	mabara	barren, sparse, thin, str…
+j	まひと	mahito	「八色の姓」の第一位の姓。皇族出身の者に与えられた…
+j	まひる	mahiru	太陽が高く昼間の盛りの時間。白昼。
+j	まひわ	mahiwa	スズメ目アトリ科カワラヒワ属に属する鳥の一種。学名…
+j	まびく	mabiku	間隔が詰まっているものの間にあるものを取り除き、間…
+j	まふぐ	mafugu	フグ目フグ科トラフグ属に属する魚の一種。学名:Ta…
+j	まふゆ	mafuyu	冬の寒さの最も厳しい時分。概ね寒の入りから立春の頃…
+j	まぶす	mabusu	to apply (a powder) as a …
+j	まぶた	mabuta	眼球の前面を上下から覆って開閉する皮膚。眼瞼。
+j	まぶな	mabuna	きんぶなの別称。
+j	まぶる	maburu	表面にまんべんなく付着させる。まみれさせる。まぶす。
+j	まぼる	maboru	to eat
+j	ままこ	mamako	stepchild
+j	ままよ	mamayo	An exclamation of resigna…
+j	まみこ	mamiko	真実子, 麻実子, 眞実子, 舞実子, 磨実子, …
+j	まみず	mamizu	塩分などが混じっていない水。淡水。
+j	まみよ	mamiyo	真実世, 真実代: a female given …
+j	まみれ	mamire	語の後ろにつき、それが一面にくっついて汚れているこ…
+j	まもの	mamono	偽物でない本物。
+j	まもり	mamori	守り, 守, 護り, 衛: defense, pr…
+j	まもる	mamoru	害が及ばないように防ぐ。
+j	まゆあい	mayuai	眉と眉との間。眉間
+j	まゆうど	mayudo	舞楽を舞う人。
+j	まゆげ	mayuge	まぶたの上方に横長（弓状）に生える毛。また、その一…
+j	まゆこ	mayuko	真悠子, 麻祐子, 真由子: a female g…
+j	まゆね	mayune	眉の根元。また、眉。まよね。
+j	まゆみ	mayumi	弓の美称。
+j	まゆ毛	mayuge	
+j	まよけ	mayoke	warding off evil
+j	まよこ	mayoko	directly to the side
+j	まよね	mayone	眉の根元。また、眉。まゆね。
+j	まらす	marasu	to do; expresses humblene…
+j	まりこ	mariko	毬子, 鞠子, 典子, 真理子, 麻里子, 万里子…
+j	まりな	marina	
+j	まりも	marimo	毬藻: Aegagropila linnaei, …
+j	まるき	maruki	log
+j	まるた	maruta	皮をはいだだけの木材。丸材。丸太ん棒。
+j	まるで	marude	at all; in the slightest
+j	まるび	marubi	貧乏人のこと。1984年の流行語。
+j	まるぶ	marubu	to roll or roll over; to …
+j	まるみ	marumi	丸い度合い。
+j	まれに	mareni	たまに。滅多にないが。珍しく。
+j	まろうど	marodo	来訪した人。御客。まれびと。
+j	まろぶ	marobu	ころがる。
+j	まわす	mawasu	物体を円の軌跡を描くように動かす。
+j	まわた	mawata	繭（屑繭など）を煮て引き伸ばしてつくる綿。
+j	まわり	mawari	「まわる」の連用形。
+j	まわる	mawaru	何かを中心に円運動をする。
+j	まんぜん	manzen	漫然: aimless
+j	まんだん	mandan	漫談: comic chat; desultory…
+j	まんまん	manman	synonym of おまんこ (omanko, …
+j	まん腸	mancho	sunfish intestine
+j	マイアミ	maiami	Miami (a city, the county…
+j	マイコン	maikon	「マイクロコンピュータ」の略。
+j	マイセン	maisen	
+j	マイマイ	maimai	「舞舞」の学術的表記。
+j	マインド	maindo	mindset; spirit
+j	マウイ島	mauito	
+j	マウント	maunto	a mount, a stand
+j	マウンド	maundo	mound
+j	マカク	makaku	サル目オナガザル科マカク属に属する猿の総称。学名：…
+j	マカティ	makati	
+j	マカナ	makana	macana
+j	マカーマ	makama	
+j	マカーム	makamu	
+j	マガモ	magamo	カモ目カモ科マガモ属に属する鳥の一種。学名:Ana…
+j	マクる	makuru	to eat at McDonald's
+j	マクド	makudo	
+j	マクルー	makuru	makruh
+j	マクロ	makuro	きわめて大きいこと。
+j	マグス	magusu	magus
+j	マグマ	maguma	magma
+j	マグル	maguru	
+j	マグロ	maguro	魚の一種であるまぐろの学術的表記。
+j	マグワ	maguwa	
+j	マケイン	makein	
+j	マコモ	makomo	
+j	マコレ	makore	熱帯アフリカ西部および西中央部に分布するアカテツ科…
+j	マサバ	masaba	サバ目サバ科の海水魚。学名は Scomber ja…
+j	マザボ	mazabo	
+j	マシン	mashin	machine (mechanical devic…
+j	マシーン	mashin	「マシン」の表記ゆれ。
+j	マジャル	majaru	ハンガリーの人口の大多数を占める民族。
+j	マジュロ	majuro	Majuro (the capital city …
+j	マスカー	masuka	養生テープとガムテープの役割を兼ね備えたテープ。
+j	マスク	masuku	a mask (cover to mouth an…
+j	マスター	masuta	a manager; a barkeeper, a…
+j	マステ	masute	
+j	マスト	masuto	mast (support of a sail)
+j	マズル	mazuru	犬や馬などの、口や鼻が前面に突き出た部分。
+j	マセル	maseru	Maseru (the capital of Le…
+j	マターリ	matari	
+j	マダム	madamu	既婚女性。奥様。
+j	マダラ	madara	タラ目タラ科マダラ属に属する魚の一種。学名:Gad…
+j	マッシャー	massha	
+j	マッシュ	masshu	mash
+j	マッチ	matchi	match (device)
+j	マッチョ	matcho	macho (a macho person)
+j	マッツァー	mattsa	
+j	マティーニ	matini	martini (cocktail)
+j	マディーナ	madina	
+j	マドジョウ	madojo	ドジョウの別称。
+j	マナティー	manati	a manatee
+j	マナト	manato	トルクメニスタン、アゼルバイジャンの通貨。
+j	マナーマ	manama	Manama (the capital of Ba…
+j	マニトゥ	manitu	
+j	マニラ	manira	Manila (the capital city …
+j	マネージャ	maneja	「マネージャー」の表記ゆれ。
+j	マネージャー	maneja	manager
+j	マフラー	mafura	a scarf, a muffler (a nec…
+j	マフル	mafuru	
+j	マプト	maputo	Maputo (the capital of Mo…
+j	マミる	mamiru	頭部を嚙まれて宙吊りにされる。
+j	マミク	mamiku	
+j	マユミ	mayumi	ニシキギ目ニシキギ科ニシキギ属に属する落葉低木、落…
+j	マヨラー	mayora	a mayonnaise freak
+j	マラウイ	maraui	Malawi (a country in Sout…
+j	マラガ	maraga	
+j	マラキ	maraki	
+j	マラス	marasu	ミャンマーからパプアシアにかけて分布するヤナギ科（…
+j	マラボ	marabo	Malabo (a city in Equator…
+j	マラヤ	maraya	Malaya (a former country;…
+j	マリアン	marian	
+j	マリナ	marina	
+j	マリナー	marina	航海する人。
+j	マリネ	marine	marinade
+j	マリブ	maribu	
+j	マリモ	marimo	毬藻: Aegagropila linnaei, …
+j	マリーナ	marina	
+j	マリ語	marigo	ロシアのマリ・エル共和国などで話されている、ウラル…
+j	マルク	maruku	mark (unit of weight)
+j	マルケ	maruke	
+j	マルコ	maruko	Mark (the Evangelist)
+j	マルス	marusu	マールス。
+j	マルタ	maruta	Malta (an archipelago and…
+j	マルヌ	marunu	Marne (a department of Gr…
+j	マルメ	marume	
+j	マル暴	marubo	organized crime groups, e…
+j	マレー語	marego	the Malay language
+j	マレー象	marezo	マレー半島に生息するアジア象の亜種。学名は Ele…
+j	マンガン	mangan	manganese
+j	マンチ	manchi	munchies (cannabis-induce…
+j	マントウ	mantou	中国の点心の一種。小麦粉に酵母を加えて発酵させた後…
+j	マンモン	manmon	
+j	マーコール	makoru	クジラ偶蹄目ウシ科ヤギ属に属する鯨偶蹄類の一種。学…
+j	マーフォーク	mafoku	merfolk
+j	マーブル	maburu	marble
+j	マーメード	mamedo	マーメイドの異表記。
+j	マールス	marusu	Mars
+j	マールワー	maruwa	
+j	メガス	magasu	
+j	万々	manman	
+j	万両	manryo	一両の一万倍。
+j	万偲央	mashio	a female given name
+j	万善	manzen	ten thousand virtues
+j	万喜三	makizo	a male given name
+j	万垢	manaka	フォロワーが1万人以上のアカウント。
+j	万実子	mamiko	a female given name
+j	万巻	mangan	多くの巻物や書物。
+j	万栖	masumi	a male given name
+j	万病	manbyo	all kinds of sicknesses
+j	万言	mangen	多くの言葉。
+j	万里子	mariko	a female given name
+j	万金	mankin	多額の金銭。
+j	丸で	marude	
+j	丸め	marume	
+j	丸太	maruta	a log: unsawn lumber (UK)…
+j	丸子	maruko	a district of Kawasaki, K…
+j	丸木	maruki	a surname
+j	丸毛	marumo	a surname
+j	丸田	maruta	a surname
+j	丸秘	maruhi	secret matter
+j	任す	makasu	to entrust
+j	任せ	makase	imperfective and stem (or…
+j	優人	masato	a male given name
+j	允	makoto	a male given name
+j	全い	mattai	complete, perfect, infall…
+j	円子	maruko	a surname
+j	前売り	maeuri	advance sale (of tickets)
+j	前岡	maeoka	a surname
+j	前置き	maeoki	preface; introduction
+j	前金	maekin	monetary payment given in…
+j	勝る	masaru	to be superior to, to exc…
+j	匡哉	masaya	a male given name
+j	升海	masumi	a male given name
+j	参った	maitta	
+j	又は	matawa	or
+j	又甥	mataoi	甥の子。
+j	又造	matazo	a male given name
+j	又野	matano	a surname
+j	司	mamoru	a male given name
+j	回	mawari	a turn, times around some…
+j	回す	mawasu	turn, spin, rotate
+j	回り	mawari	回り, 廻り: rotation, circula…
+j	回る	mawaru	to turn; to revolve; to s…
+j	執	mamoru	a male given name
+j	塗れ	mamire	covered with
+j	増さる	masaru	increase
+j	増尾	mashio	a surname
+j	増田	masuda	a surname
+j	増見	masumi	a male given name
+j	妙実子	mamiko	a female given name
+j	嫚言	mangen	軽蔑する言葉。嫚辞。
+j	学ぶ	manabu	to study
+j	学人	manato	a male given name
+j	守り	mamori	defense, protection
+j	守る	mamoru	護る: to protect, to defend
+j	完い	mattai	
+j	将人	masato	a male given name
+j	将弥	masaya	a male given name
+j	将斗	masato	a male given name
+j	将樹	masaki	a male given name
+j	將	masaru	a male given name
+j	展	makoto	a male given name
+j	巻き毛	makige	a curl of hair; ringlet
+j	幕屋	makuya	hut with curtains, tent
+j	幕田	makuta	a surname
+j	幕間	makuai	intermission (between act…
+j	慢性	mansei	chronicity, inveteracy (a…
+j	慢言	mangen	驕り高ぶり、他人を見下すような言葉。慢語。
+j	抹消	massho	erasure
+j	抹茶	matcha	matcha (a Japanese powder…
+j	招き	maneki	invitation
+j	招く	maneku	to beckon
+j	捲る	makuru	to roll up (one's sleeves…
+j	摩虎羅	makora	Makora, Mahāla (one of th…
+j	摩訶衍	makaen	
+j	政人	masato	a male given name
+j	政基	masaki	a male given name
+j	政子	masako	a female given name
+j	政樹	masaki	a male given name
+j	政次	masaji	a male given name
+j	昌也	masaya	a male given name
+j	昌人	masato	a male given name
+j	昌子	masako	a female given name
+j	昌己	masami	a male given name
+j	昌樹	masaki	a male given name
+j	昌美	masami	a male given name
+j	昌谷	masaya	a surname
+j	昌輝	masaki	a male given name
+j	昌都	masato	a male given name
+j	昧旦	maitan	明け方の薄暗い時分。未明。昧爽。
+j	晩羹	mankan	昼間の間食。
+j	曲がる	magaru	to bend, to curve, to war…
+j	曲げる	mageru	bend
+j	末梢	massho	treetop; tip; the end of …
+j	末社	massha	undershrine; subordinate …
+j	末端	mattan	tip, end, point
+j	松井	matsui	a surname
+j	松尾	matsuo	a surname
+j	松江	matsue	Matsue (the capital city …
+j	枕	makura	pillow
+j	枚挙	maikyo	一つ一つ数え上げること。
+j	枡田	masuda	a surname
+j	柾	masaki	Japanese spindle, Euonymu…
+j	柾目	masame	straight grain (of wood)
+j	柾美	masami	a female given name
+j	桝田	masuda	a surname
+j	楣	magusa	a lintel
+j	正に	masani	
+j	正也	masaya	a male given name
+j	正人	masato	a male given name
+j	正喜	masaki	a male given name
+j	正巳	masami	a male given name
+j	正木	masaki	Japanese spindletree Euon…
+j	正樹	masaki	a male given name
+j	正次	masaji	a male given name
+j	正海	masami	a male given name
+j	正都	masato	a male given name
+j	毎々	maimai	always
+j	毎分	maifun	一分ごと。一分あたり。
+j	毎回	maikai	every time
+j	毎晩	maiban	every evening
+j	毎朝	maiasa	every morning
+j	毎歳	maisai	every year, annually
+j	毎毎	maimai	毎回。いつも。つねづね。
+j	毎秒	maibyo	per second
+j	毎週	maishu	every week; weekly
+j	毬藻	marimo	Aegagropila linnaei, a sp…
+j	混ざる	mazaru	to be mixed with; to blen…
+j	混じる	majiru	mix with, blend with, join
+j	混ぜる	mazeru	to mix, to blend
+j	満々	manman	full of; brimming with
+j	満タン	mantan	a container (especially o…
+j	満了	manryo	expiration, reaching the …
+j	満人	manjin	「満州人」を参照。
+j	満会	mankai	無尽などの会期が満了すること。
+j	満地	manchi	地面全体に満ちていること。
+j	満塁	manrui	bases loaded
+j	満天	manten	the whole sky
+j	満実子	mamiko	a female given name
+j	満州	manshu	Manchuria (a region of no…
+j	満帆	manpan	full sail, sailing downwi…
+j	満干	mankan	満潮と干潮、潮の満ち引き。干満。
+j	満床	mansho	病院で、入院用のベッドが全て使われていて空きがない…
+j	満懐	mankai	胸一杯。
+j	満水	mansui	Being full to the brim wi…
+j	満池	manchi	池全体に水が満ちていること。
+j	満洲	manshu	満州の別表記。
+j	満満	manman	満ち溢れるほどであるさま。
+j	満潮	mancho	high tide
+j	満点	manten	a perfect score; full mar…
+j	満貫	mangan	a win achieving five 飜 (h…
+j	満載	mansai	full load; being fully lo…
+j	満里奈	marina	
+j	満開	mankai	full bloom
+j	満面	manmen	one's whole face; one's e…
+j	満願	mangan	願望が満たされること。
+j	滿州	manshu	Manchu (a Tungusic people…
+j	滿懷	mankai	満懐の旧字体表記。
+j	滿開	mankai	満開の旧字体表記。
+j	滿點	manten	
+j	漫才	manzai	Japanese double act stand…
+j	漫漫	manman	遠くまで広々としたさま。
+j	漫然	manzen	casually; aimlessly
+j	漫画	mangwa	a drawing or painting mad…
+j	漫研	manken	
+j	漫芸	mangei	寄席などの興行で演じられる滑稽な芸。
+j	漫言	mangen	よく考えずに言うとりとめのない言葉。漫語。
+j	漫誕	mantan	散漫。
+j	漫談	mandan	incoherent, nonsense talk
+j	燐寸	matchi	マッチ。すりつけぎ。火柴。
+j	牧場	makiba	livestock farm, ranch
+j	牧子	makiko	a female given name
+j	牧瀬	makise	a surname
+j	牧田	makita	a surname
+j	玫瑰	maikai	synonym of 浜梨 (hama-nasu,…
+j	理人	masato	a male given name
+j	的場	matoba	a surname
+j	益已	masumi	a unisex given name
+j	益田	masuda	Masuda (a city in Shimane…
+j	益穂	masuho	a male given name
+j	益荒	masura	having the strength of a …
+j	眉実子	mamiko	a female given name
+j	眉根	mayune	part of the eyebrow close…
+j	眉毛	mayuge	eyebrow (hair)
+j	眞人	masato	a male given name
+j	眞住	masumi	a female given name
+j	眞佐人	masato	a male given name
+j	眞実子	mamiko	a female given name
+j	眞山	mayama	a surname
+j	眞樹子	makiko	a female given name
+j	眞澄	masumi	a female given name
+j	眞澄実	masumi	a female given name
+j	眞澄美	masumi	a female given name
+j	眞由美	mayumi	a female given name
+j	真っ青	massao	deep blue, purely or enti…
+j	真ん前	manmae	right in front
+j	真中	manaka	a surname
+j	真人	masato	a male given name
+j	真仮名	magana	a syllabary with characte…
+j	真似る	maneru	to imitate
+j	真佐人	masato	a male given name
+j	真冬	mafuyu	middle of winter; midwint…
+j	真名古	manako	a surname
+j	真塩	mashio	refined salt
+j	真墨	masumi	a female given name
+j	真奈巳	manami	a female given name
+j	真奈美	manami	a female given name
+j	真子	masako	a female given name
+j	真実世	mamiyo	a female given name
+j	真実也	mamiya	a male given name
+j	真実代	mamiyo	a female given name
+j	真実佳	mamika	a female given name
+j	真実加	mamika	a female given name
+j	真実奈	mamina	a female given name
+j	真実妃	mamiki	a female given name
+j	真実子	mamiko	a female given name
+j	真実花	mamika	a female given name
+j	真実菜	mamina	a female given name
+j	真実路	mamiji	a female given name
+j	真実香	mamika	a female given name
+j	真寿美	masumi	a female given name
+j	真山	mayama	a surname
+j	真崎	masaki	a surname
+j	真弓	mayumi	bow (laudatory)
+j	真悠子	mayuko	a female given name
+j	真昼	mahiru	noon; midday; broad dayli…
+j	真水	mamizu	fresh water, potable water
+j	真汐	mashio	a female given name
+j	真澄	masumi	perfect clearness
+j	真牡蠣	magaki	pacific oyster, Crassostr…
+j	真珠美	masumi	a female given name
+j	真理子	mariko	a female given name
+j	真琴	makoto	a unisex given name
+j	真由子	mayuko	a female given name
+j	真由弓	mayumi	a female given name
+j	真由美	mayumi	a female given name
+j	真登	masato	a male given name
+j	真砂土	masado	花崗岩などが風化することによってできた砂質土。マサ…
+j	真竹	madake	timber bamboo (Phyllostac…
+j	真紀子	makiko	a female given name
+j	真美子	mamiko	a female given name
+j	真翔	manato	a male given name
+j	真者	mamono	the real person, not an i…
+j	真芯	mashin	sweet spot of a bat
+j	真菰	makomo	Manchurian wild rice (Ziz…
+j	真蜱	madani	a tick (arachnid)
+j	真規	masaki	a male given name
+j	真輝	masaki	a male given name
+j	真鍋	manabe	a surname
+j	真面	matomo	direct, straight, frontwa…
+j	真面目	majime	serious, earnest
+j	真鯊	mahaze	yellowfin goby (Acanthogo…
+j	真鱈	madara	pacific cod, Gadus macroc…
+j	真鴨	magamo	mallard, Anas platyrhynch…
+j	真鶸	mahiwa	a Eurasian siskin, Spinus…
+j	瞞人	manjin	人を騙すこと。
+j	瞼	mabuta	eyelid
+j	磨実子	mamiko	a female given name
+j	秣	magusa	grass or straw used as an…
+j	窓辺	madobe	the area near a window, t…
+j	籬	magaki	roughly woven fence
+j	紛れ	magure	luck, a fluke, a chance
+j	罷づ	makazu	to leave
+j	聖樹	masaki	a male given name
+j	膜状	makujo	膜のような状態や形状。
+j	舞実子	mamiko	a female given name
+j	萬歳	manzai	door-to-door manzai; Edo …
+j	誠	makoto	
+j	誠也	masaya	a male given name
+j	謾誕	mantan	偽り。
+j	護	mamoru	a male given name
+j	負かす	makasu	to defeat (someone); to w…
+j	負ける	makeru	to lose; to be defeated
+j	跨ぐ	matagu	to step over, to cross
+j	間に合う	maniau	to be in time (for), to m…
+j	間取り	madori	floor plan; layout of a b…
+j	間宮	mamiya	a surname
+j	間引く	mabiku	thin out
+j	間抜け	manuke	slipshod, careless, stupi…
+j	間近	majika	near, close
+j	雅二	masaji	a male given name
+j	雅人	masato	a male given name
+j	雅子	masako	a female given name
+j	雅実	masami	a male given name
+j	雅実子	mamiko	a female given name
+j	雅巳	masami	a female given name
+j	雅樹	masaki	a male given name
+j	雅治	masaji	a male given name
+j	雅紀	masaki	a male given name
+j	雅美	masami	a female given name
+j	雅貴	masaki	a male given name
+j	饅羹	mankan	昼間の間食。
+j	馬原	mahara	a surname
+j	馬尼剌	manira	
+j	馬弔	machao	madiao (Chinese trick-tak…
+j	魔族	mazoku	race of demons living in …
+j	魔法の	mahono	
+j	魔法円	mahoen	magic circle
+j	魔法数	mahosu	陽子や中性子の数がその数になると原子がより安定する…
+j	魔物	mamono	an evil spirit, a monster…
+j	鮪	maguro	tuna (fish of the genus T…
+j	麻垂れ	madare	the "dotted cliff" radica…
+j	麻物	mamono	a rope or cord made from …
+j	麻疹	mashin	measles
+j	麻痺る	mahiru	to be numb
+j	麻祐子	mayuko	a female given name
+j	麻美子	mamiko	a female given name
+j	麻花兒	mafaru	mahua, a Chinese snack al…
+j	麻薬	mayaku	opiate or opioid
+j	麻藥	mayaku	
+j	麻里子	mariko	a female given name
+k	마가리	magari	오두막 혹은 오막살이를 가리키는 북한말.
+k	마고자	magoja	magoja, a jacket worn in …
+k	마괘	magwae	magoja, a jacket worn in …
+k	마구로	maguro	
+k	마구리	maguri	긴 상자 등에서 양쪽에 있는 두 끝면.
+k	마극	mageuk	'마르크'의 음역어.
+k	마나마	manama	Manama (the capital city …
+k	마녀	manyeo	witch, sorceress
+k	마농	manong	(제주) 마늘
+k	마누라	manura	wife (married woman)
+k	마늘	maneul	garlic
+k	마니옥	maniok	
+k	마당	madang	A yard, plaza, or courtya…
+k	마루타	maruta	human test subject of Uni…
+k	마른	mareun	
+k	마름	mareum	water chestnut, water cal…
+k	마리나	marina	
+k	마멋	mameot	marmot
+k	마무리	mamuri	finishing, completion, co…
+k	마바리	mabari	
+k	마법	mabeop	magic, sorcery, black art
+k	마빡	mappak	신체 부분 '이마'의 속된 말.
+k	마사지	masaji	massage
+k	마상	masang	
+k	마선	maseon	sewing machine
+k	마세루	maseru	Maseru (the capital city …
+k	마수다	masuda	to break, smash, be damag…
+k	마슬	maseul	(제주 방언) 식물 '마늘'.
+k	마시기	masigi	
+k	마시나	masina	automobile, car
+k	마시다	masida	to drink
+k	마와리	mawari	training period for news …
+k	마와시	mawasi	(당구) 돌리기.
+k	마왕	mawang	devil king
+k	마우스	mauseu	mouse (input device)
+k	마우재	maujae	Russian person, Russian
+k	마유주	mayuju	
+k	마이웨이	maiwei	Acting independently, wit…
+k	마이크	maikeu	mike; microphone
+k	마인어	maineo	Malay language (Southeast…
+k	마장	majang	mahjong
+k	마전	majeon	
+k	마주로	majuro	
+k	마중	majung	meeting; picking up (e.g.…
+k	마쥬로	majuro	마셜 제도의 수도 '마주로'의 북한말.
+k	마지기	majigi	
+k	마지다	majida	
+k	마찰	machal	friction
+k	마취	machwi	anesthesia
+k	마침	machim	just, just in time
+k	마카티	makati	
+k	마카파	makapa	
+k	마캉	makang	
+k	마컴	makeom	
+k	마타리	matari	(학명: Patrinia scabiosaefo…
+k	마태오	mataeo	Matthew
+k	마푸토	maputo	Maputo (the capital city …
+k	마하 수	mahasu	
+k	마하수	mahasu	
+k	마후라	mahura	목도리.
+k	마흔	maheun	forty
+k	막대	makdae	'막대기'의 준말.
+k	막돌	makdol	useless stone, random sto…
+k	막새	maksae	Korean tongued imbrex or …
+k	막잔	makjan	
+k	막집	makjip	구석기 시대의 한반도의 집인 막집은 움집과 달…
+k	막차	makcha	the last train; the last …
+k	만감	mangam	
+k	만개	mangae	꽃이 활짝 다 핌.
+k	만곡	mangok	
+k	만국	manguk	
+k	만군	mangun	
+k	만날	mannal	every day; always; all th…
+k	만남	mannam	meeting, encounter
+k	만담	mandam	satire, lampoon; irony, s…
+k	만대	mandae	
+k	만렙	mallep	게임에서 최고 레벨을 뜻한다.
+k	만료	mallyo	
+k	만류	mallyu	Gulf Stream (warm ocean c…
+k	만만	manman	보통 정도보다 훨씬 더 넘어선 상태로.
+k	만물	manmul	all things; the world
+k	만민	manmin	
+k	만발	manbal	full bloom
+k	만복	manbok	
+k	만분	manbun	
+k	만삭	mansak	
+k	만숙	mansuk	
+k	만신	mansin	female trance possession …
+k	만실	mansil	모든 방을 사람들이 이용하고 있어 비어 있는 …
+k	만약	manyak	if, in the event that.
+k	만억	maneok	trillion, 10¹²
+k	만원	manwon	
+k	만월	manwol	full moon
+k	만재	manjae	(선박) 화물을 최대한으로 가득 채움
+k	만족	manjok	satisfaction
+k	만추	manchu	late autumn, the end of a…
+k	만치	manchi	'만큼'.
+k	만트	manteu	
+k	만필	manpil	
+k	만학	manhak	
+k	만혼	manhon	
+k	만화	manhwa	comics, manga, manhwa, ma…
+k	만회	manhoe	recovery; restoration; re…
+k	많은	maneun	'많다'의 관형사형.
+k	많음	maneum	'많다'의 명사형.
+k	말갈	malgal	
+k	말과	malgwa	
+k	말국	malguk	
+k	말굽	malgup	말의 발톱.
+k	말단	maldan	
+k	말따	maltta	나라 이름 '몰타'의 북한말.
+k	말레이	mallei	Malay
+k	말림	mallim	
+k	말맛	malmat	'어감'.
+k	말뫼	malmoe	
+k	말문	malmun	mouth
+k	말밑	malmit	(언어) 어원.
+k	말밥	malbap	'구설수'의 북한말.
+k	말복	malbok	
+k	말산	malsan	
+k	말살	malsal	
+k	말씨	malssi	way of speaking; wording;…
+k	말음	mareum	
+k	말직	maljik	
+k	말차	malcha	matcha
+k	말초	malcho	
+k	맑스	makseu	‘마르크스’.
+k	맘속	mamsok	'마음속'의 준말.
+k	맛세이	matsei	(당구) '마세'의 입말.
+k	맛집	matjip	delicious restaurant
+k	망가	mangga	
+k	망고	manggo	mango
+k	망기	manggi	forgetting something
+k	망루	mangnu	watchtower
+k	망부	mangbu	
+k	망사	mangsa	
+k	망울	mangul	lump; globule
+k	망인	mangin	죽은 사람.
+k	망일	mangil	
+k	망자	mangja	'망인'.
+k	망제	mangje	멀리 떨어진 곳에서 조상의 무덤이 있는 쪽을 …
+k	망조	mangjo	
+k	망토	mangto	cape; cloak
+k	맞서	matseo	
+k	맞아요	majayo	
+k	매각	maegak	
+k	매개	maegae	둘 사이에 관계를 맺어줌
+k	매국	maeguk	
+k	매너	maeneo	
+k	매달	maedal	monthly
+k	매독	maedok	syphilis
+k	매료	maeryo	
+k	매립	maerip	메움.
+k	매매	maemae	buying and selling
+k	매몰	maemol	보이지 않게 파묻는 것.
+k	매물	maemul	article for sale; somethi…
+k	매복	maebok	ambush
+k	매분	maebun	
+k	매실	maesil	ume, Japanese apricot (Pr…
+k	매씨	maessi	sister of a male
+k	매월	maewol	monthly, every month, eac…
+k	매음	maeeum	prostitution
+k	매이다	maeida	to be tied, to be bound, …
+k	매직	maejik	이나 을 받고 을 시킴.
+k	매진	maejin	
+k	매질	maejil	매로 때리는 일.
+k	매체	maeche	A medium.
+k	매초	maecho	
+k	매탄	maetan	coal
+k	매튜	maetyu	
+k	매트	maeteu	침대나 또는 운동을 하기 위해 마루 위에 까는…
+k	매표	maepyo	
+k	매해	maehae	한 해 한 해 (1년 1년).
+k	매혹	maehok	
+k	매화	maehwa	Prunus mume, a fruit tree
+k	매회	maehoe	
+k	맥고	maekgo	
+k	맥다	maekda	
+k	맥도	maekdo	
+k	맥비	maekbi	
+k	맥소	maekso	
+k	맥암	maegam	
+k	맥주	maekju	beer
+k	맥피	maekpi	
+k	맨위	maenwi	apex, peak, pinnacle, sum…
+k	맨입	maenip	
+k	맵다	maepda	spicy, hot (usually of fo…
+k	맹아	maenga	
+k	맺다	maetda	to complete or conclude
+e	macabre	macabre	1 meaning
+e	macaque	macaque	1 meaning
+e	macaron	macaron	1 meaning
+e	macbeth	macbeth	1 meaning
+e	machete	machete	1 meaning
+e	machine	machine	3 meanings
+e	madeira	madeira	1 meaning
+e	madhesh	madhesh	1 meaning
+e	madhhab	madhhab	1 meaning
+e	madison	madison	1 meaning
+e	madness	madness	1 meaning
+e	madrasa	madrasa	1 meaning
+e	maestro	maestro	1 meaning
+e	mafalde	mafalde	1 meaning
+e	mag book	magbook	1 meaning
+e	magadan	magadan	1 meaning
+e	magenta	magenta	1 meaning
+e	maghreb	maghreb	1 meaning
+e	magical	magical	1 meaning
+e	magnify	magnify	1 meaning
+e	mahjong	mahjong	1 meaning
+e	maibara	maibara	1 meaning
+e	maid café	maidcaf	1 meaning
+e	mailman	mailman	1 meaning
+e	maitake	maitake	1 meaning
+e	majesty	majesty	2 meanings
+e	make out	makeout	1 meaning
+e	make use	makeuse	1 meaning
+e	malabon	malabon	1 meaning
+e	malacca	malacca	1 meaning
+e	malachi	malachi	3 meanings
+e	malaise	malaise	2 meanings
+e	malakal	malakal	1 meaning
+e	malaria	malaria	1 meaning
+e	mallard	mallard	1 meaning
+e	malleus	malleus	1 meaning
+e	malolos	malolos	1 meaning
+e	maltese	maltese	4 meanings
+e	maltose	maltose	1 meaning
+e	malware	malware	1 meaning
+e	mammoth	mammoth	1 meaning
+e	mamushi	mamushi	1 meaning
+e	man-hour	manhour	1 meaning
+e	man-made	manmade	1 meaning
+e	manacle	manacle	1 meaning
+e	manager	manager	1 meaning
+e	managua	managua	1 meaning
+e	manakin	manakin	1 meaning
+e	manatee	manatee	1 meaning
+e	mandala	mandala	1 meaning
+e	mandate	mandate	2 meanings
+e	mandela	mandela	1 meaning
+e	mangaka	mangaka	1 meaning
+e	manhole	manhole	1 meaning
+e	maniple	maniple	1 meaning
+e	manipur	manipur	1 meaning
+e	manitou	manitou	1 meaning
+e	mankind	mankind	1 meaning
+e	manners	manners	1 meaning
+e	mansion	mansion	1 meaning
+e	manx cat	manxcat	1 meaning
+e	mapuche	mapuche	1 meaning
+e	maqluba	maqluba	1 meaning
+e	marabou	marabou	1 meaning
+e	maranhão	maranho	1 meaning
+e	marathi	marathi	1 meaning
+e	marciac	marciac	1 meaning
+e	marimba	marimba	1 meaning
+e	markham	markham	1 meaning
+e	married	married	1 meaning
+e	marry me	marryme	2 meanings
+e	marshal	marshal	1 meaning
+e	martian	martian	1 meaning
+e	martini	martini	1 meaning
+e	marwari	marwari	1 meaning
+e	marxism	marxism	2 meanings
+e	marxist	marxist	2 meanings
+e	mascara	mascara	3 meanings
+e	mashhad	mashhad	1 meaning
+e	masonry	masonry	4 meanings
+e	massage	massage	2 meanings
+e	masseur	masseur	1 meaning
+e	mastiff	mastiff	1 meaning
+e	mata utu	matautu	1 meaning
+e	matador	matador	1 meaning
+e	matthew	matthew	3 meanings
+e	mattock	mattock	1 meaning
+e	maudlin	maudlin	2 meanings
+e	maximum	maximum	2 meanings
+e	mayotte	mayotte	1 meaning
+e	mazurka	mazurka	1 meaning
+j	まいあし	maiashi	漢字の部首「⾇」が脚であるときの呼称。
+j	まいかぜ	maikaze	つむじかぜ、旋風の別称。
+j	まいこむ	maikomu	舞うように入ってくる。
+j	まいたけ	maitake	舞茸: maitake
+j	まいづる	maizuru	舞を舞っているような鶴。
+j	まいひめ	maihime	舞を舞う女性（少女）。
+j	まいびと	maibito	舞楽を舞う人。
+j	まえあし	maeashi	足が四本ある動物の、頭に近いほうの二本の足。
+j	まえいわい	maeiwai	良い結果となることを見越して前以て祝うこと。
+j	まえかた	maekata	時間的に二つに分けてその早い方。また、その早い方に…
+j	まえがき	maegaki	本文の前に書き添える文。
+j	まえがみ	maegami	額上部の髪。
+j	まえがり	maegari	支給日の前に賃金分などを借りること。
+j	まえがわ	maegawa	前の側。前方。
+j	まえげり	maegeri	空手やキックボクシング等で相手に正対して前方に蹴り…
+j	まえだれ	maedare	前垂れ: apron
+j	まえづけ	maezuke	front matter
+j	まえとび	maetobi	縄跳びの縄を後ろから前に回して跳ぶ方法。
+j	まえどり	maedori	pre-wedding photography
+j	まえにわ	maeniwa	建物の正面にある庭。
+j	まえのり	maenori	用事のある場所に前日の内に入っておくこと。
+j	まえはま	maehama	foreshore
+j	まえふり	maefuri	lead-in; introduction
+j	まえぶれ	maebure	前以て知らせること。予告。
+j	まえむき	maemuki	forward-facing
+j	まおとこ	maotoko	夫の有る女の情夫。
+j	まかない	makanai	「まかなう」の連用形。
+j	まかなう	makanau	遣り繰りして、間に合わせる。
+j	まきがい	makigai	軟体動物門腹足綱に属する動物の総称。
+j	まきぞえ	makizoe	getting involved in, gett…
+j	まくうち	makuchi	相撲の番付で横綱から前頭までの地位。幕の内。
+j	まぐはひ	maguwai	facing one another and be…
+j	まぐわい	maguwai	sexual intercourse
+j	まぐわう	maguwau	to have sex
+j	まけいぬ	makeinu	喧嘩に負けて、尻尾を巻いて逃げる犬。
+j	まけいろ	makeiro	負けそうな気配。敗色。
+j	まけんき	makenki	相手に負けまいとする気性。勝ち気。
+j	まげもん	magemon	fake, counterfeit, forgery
+j	まさうみ	masaumi	将海: a male given name
+j	まさおき	masaoki	雅興: a male given name
+j	まさおみ	masaomi	正臣: a male given name
+j	まさなお	masanao	昌尚, 真尚, 正作: a male given …
+j	ましこ	mashiko	猿の別称。
+j	ました	mashita	すぐ下。直下。
+j	まして	mashite	much more, still less, le…
+j	ましな	mashina	
+j	ましほ	mashiho	a male given name
+j	ましょうか	mashoka	
+j	ましら	mashira	猿。
+j	ましろ	mashiro	全く白いこと。また、そのさま。
+j	まじえる	majieru	中に一緒に加える。
+j	まじない	majinai	神仏などに祈って災いや病気から逃れられようとするこ…
+j	まじなう	majinau	災いや病気から逃れられるように、また他人に災いが下…
+j	まじゅつ	majutsu	魔術: spellcraft; sorcery, …
+j	まじょっこ	majokko	young witch girl
+j	ますらお	masurao	勇しくて立派な男性。
+j	まずし	mazushi	modernized spelling of まづ…
+j	まだるい	madarui	言動が手間取ったり、のろかったりしてじれったいさま。
+j	まちあい	machiai	まちあわせること。また、そのような場所。
+j	まちだ	machida	区画ごとに分けられた田。
+j	まちや	machiya	町中にある家。
+j	まぢかい	majikai	距離が近い。
+j	まっくら	makkura	非常に暗いこと。また、そのようなさま。
+j	まっくろ	makkuro	全く黒いこと。また、そのさま。
+j	まっさき	massaki	一番先。先頭。
+j	まっさら	massara	brand-new; untouched; unu…
+j	まっすぐ	massugu	まったくまがっていない様子。
+j	まっする	massuru	
+j	まったく	mattaku	すっかり。完全に。
+j	まったり	mattari	full-bodied, rich
+j	まつうら	matsura	松浦: a surname
+j	まつげ	matsuge	eyelash
+j	まつだ	matsuda	松田: a surname
+j	まつば	matsuba	松の葉。また、それを象った紋所。
+j	まつみ	matsumi	one who is waiting passiv…
+j	まつり	matsuri	神や霊といったものに対して、尊んでいるあるいはおそ…
+j	まつる	matsuru	儀式を行い神霊を慰める。
+j	まつろう	matsuro	従う。服従する。
+j	まてがい	mategai	マテガイ: a razor clam, more …
+j	まである	madearu	is possible; is a possibi…
+j	まどろい	madoroi	sluggish, dull
+j	まないた	manaita	まな板, 俎, 俎板, 爼, 真魚板: chopp…
+j	まなかい	manakai	目と目の間。転じて、目の前。眼前。
+j	まなつ	manatsu	夏の暑さの最も厳しい時分。概ね梅雨明けから立秋の頃…
+j	まな板	manaita	a chopping board, a cutti…
+j	まばゆい	mabayui	光が強くて目を開けていられない。
+j	まぶし	mabushi	蚕に繭を作らせる型枠。
+j	まほうし	mahoshi	魔法師, 魔法士: an evil priest …
+j	まほし	mahoshi	to want (to do); to hope …
+j	ままおや	mamaoya	血の繋がりの無い親。
+j	まみえる	mamieru	会う。お目にかかる。
+j	まむし	mamushi	蝮: viper
+j	まゆペン	mayupen	眉ペン: eyebrow pencil
+j	まるがお	marugao	輪郭が丸みを帯びた顔。
+j	まるきん	marukin	金持ちのこと。1984年の流行語
+j	まるっと	marutto	まるごと、そっくり。
+j	まるみえ	marumie	すっかり見えること。
+j	まわし	mawashi	「まわす」の連用形。
+j	まんじる	manjiru	女性器から排出される愛液の俗称。
+j	まんすじ	mansuji	pudendal cleft; cameltoe
+j	まんずり	manzuri	（女性）オナニー。
+j	まんだら	mandara	曼荼羅, 曼陀羅: mandala
+j	まんなか	mannaka	中央。中心。中間点。
+j	まんまと	manmato	巧く。首尾良く。
+j	まんまる	manmaru	完全にまるい円や球。
+j	まんりき	manriki	万力: vice; jack; capstan
+j	まん汁	manjiru	
+j	マイクラ	maikura	
+j	マイクル	maikuru	
+j	マイクロ	maikuro	micro-
+j	マイケミ	maikemi	
+j	マイケル	maikeru	a transliteration of the …
+j	マイコープ	maikopu	
+j	マイスィル	maisiru	gambling
+j	マイスター	maisuta	meister; master (person o…
+j	マイスリー	maisuri	Myslee; Ambien (zolpidem)
+j	マイタケ	maitake	舞茸: maitake
+j	マイナス	mainasu	minus
+j	マイブーム	maibumu	someone's current persona…
+j	マイページ	maipeji	
+j	マイペース	maipesu	doing something at one's …
+j	マイホーム	maihomu	自分の家。自宅。
+j	マイルカ	mairuka	クジラ目マイルカ科マイルカ属に属するイルカの総称。…
+j	マイルド	mairudo	mild (in flavor)
+j	マイレージ	maireji	mileage
+j	マインツ	maintsu	
+j	マウンテン	maunten	山。
+j	マエバリ	maebari	前貼り: a type of strapless …
+j	マオウ属	maozoku	
+j	マオリ語	maorigo	Maori (language of the Mā…
+j	マカロン	makaron	macaron
+j	マガジン	magajin	magazine (a type of publi…
+j	マガダン	magadan	Magadan (a port city, the…
+j	マキアート	makiato	
+j	マキシ	makishi	
+j	マクロン	makuron	macron (diacritical mark)
+j	マコロン	makoron	
+j	マザコン	mazakon	syllabic abbreviation of …
+j	マジェラン	majeran	
+j	マジェンタ	majenta	Magenta
+j	マジック	majikku	magic
+j	マジパン	majipan	marzipan
+j	マスコン	masukon	鉄道車両の速さを調節する装置。
+j	マゼラン	mazeran	a transliteration of the …
+j	マゼンタ	mazenta	magenta (pinkish-purple c…
+j	マタウトゥ	matautu	
+j	マチェテ	machete	machete (a sword-like too…
+j	マチク	machiku	ミャンマー（ビルマ）北部から中華人民共和国南部や台…
+j	マッカリ	makkari	
+j	マッカーサー	makkasa	a transliteration of the …
+j	マックス	makkusu	最大限。極限。
+j	マッコリ	makkori	makgeolli
+j	マッサージ	massaji	massage (rubbing, kneadin…
+j	マッスル	massuru	筋肉。
+j	マッハ数	mahhasu	
+j	マッフル	maffuru	加熱する場所が露出していない炉。
+j	マツダ	matsuda	Mazda, the car company
+j	マテガイ	mategai	a razor clam, more specif…
+j	マテ茶	matecha	mate, yerba mate tea
+j	マディソン	madison	Madison (the capital city…
+j	マデイラ	madeira	
+j	マデリン	maderin	
+j	マトウダイ	matodai	
+j	マトック	matokku	
+j	マドンナ	madonna	Madonna (Mary, the mother…
+j	マナウス	manausu	Manaus (a municipality, t…
+j	マナグア	managua	Managua (the capital of N…
+j	マニ教	manikyo	3世紀、イランでマニが創始した宗教。ペルシャのゾロ…
+j	マヌエル	manueru	a transliteration of the …
+j	マヌカン	manukan	synonym of マネキン (manekin,…
+j	マネキン	manekin	a mannequin
+j	マネロン	maneron	
+j	ママっ子	mamakko	a child who is overly att…
+j	マムシ	mamushi	蝮: mamushi; pit viper
+j	マヨット	mayotto	東アフリカのマダガスカル北西沖にあるフランスの海外…
+j	マラソン	marason	a marathon (road race)
+j	マラッカ	marakka	Malacca (a city in Malays…
+j	マラトン	maraton	Marathon (a town in Attic…
+j	マラトーン	maraton	
+j	マラボン	marabon	
+j	マラリア	mararia	malaria
+j	マラーイカ	maraika	天使。
+j	マリウス	mariusu	
+j	マリガン	marigan	mulligan
+j	マリンバ	marinba	marimba
+j	マリ人	marijin	ロシア連邦マリ・エル共和国の主要民族。ウラル人の一…
+j	マルウェア	maruwea	malware
+j	マルシェ	marushe	市場。市。
+j	マルチ	maruchi	多数の。
+j	マルッカ	marukka	フィンランドのユーロ採用前の通貨。
+j	マルフィン	marufin	南米中南部産のミカン科の木本の一つ。学名: Bal…
+j	マル経	marukei	経済学の分野の一つであるマルクス経済学の略。
+j	マレット	maretto	a mallet
+j	マロニエ	maronie	ムクロジ科の落葉高木。南ヨーロッパ原産。多く街路樹…
+j	マンクス	mankusu	a Manx (cat)
+j	マングース	mangusu	mongoose
+j	マンション	manshon	a condominium
+j	マンスリー	mansuri	monthly
+j	マンダラ	mandara	曼荼羅: (Hinduism, Buddhism)…
+j	マンティーカ	mantika	Manteca (a city in San Jo…
+j	マンティ語	mantigo	
+j	マンデラ	mandera	
+j	マントラ	mantora	真言。
+j	マントル	mantoru	ガス灯の炎を覆い、光を強くするもの。ガスマントル。
+j	マンネリ	manneri	マンネリズム (英: mannerism) の略語…
+j	マンパワー	manpawa	labor force, human resour…
+j	マンホール	manhoru	manhole
+j	マンモス	manmosu	a mammoth (elephant-like …
+j	マン振り	manburi	swinging with all of one'…
+j	マーカーペン	makapen	a marker pen
+j	マーガリン	magarin	margarine
+j	マーキュリー	makyuri	synonym of 水星 (Suisei, “M…
+j	マーキング	makingu	標識や印を付けること。
+j	マーケット	maketto	market (formally organize…
+j	マース川	masugaw	
+j	マーメイド	mameido	a mermaid
+j	マーモット	mamotto	a marmot
+j	マーライオン	maraion	上半身がライオンで下半身が魚の伝説上の生き物。
+j	万バズ	manbazu	投稿に1万以上のいいねが付くこと。
+j	万一	manichi	perhaps
+j	万作	mansaku	
+j	万力	manriki	a vise/vice (two-jawed in…
+j	万引	manbiki	万引きの異表記。
+j	万引き	manbiki	shoplifting
+j	万波	mannami	a surname
+j	万能膏	mannoko	あらゆる腫れ物や傷などに効果があるという膏薬。
+j	丸見え	marumie	completely visible
+j	丸顔	marugao	round face
+j	交える	majieru	to mix, to bring into
+j	交じった	majitta	
+j	仁志	masashi	a male given name
+j	優志	masashi	a male given name
+j	全く	mattaku	(not) at all
+j	前付	maezuke	
+j	前借り	maegari	advance (in an amount of …
+j	前側	maegawa	
+j	前厄	maeyaku	厄年の前年。
+j	前原	maehara	a surname
+j	前口上	maekojo	preliminary statements; i…
+j	前園	maezono	a surname
+j	前垂れ	maedare	apron
+j	前島	maejima	a surname
+j	前川	maekawa	a surname
+j	前掛け	maekake	apron (an article of clot…
+j	前書き	maegaki	preface, foreword
+j	前村	maemura	a surname
+j	前株	maekabu	the state that 株(かぶ)式(しき)…
+j	前澤	maezawa	a surname
+j	前立て	maedate	placket
+j	前触	maebure	前触れ: (figurative) a harbi…
+j	前触れ	maebure	harbinger; messenger; her…
+j	前貼り	maebari	a type of strapless Japan…
+j	前足	maeashi	forefoot
+j	前里	maesato	a surname
+j	前髪	maegami	bangs; fringe (hair in fr…
+j	匡史	masashi	a male given name
+j	匡司	masashi	a male given name
+j	参らす	mairasu	to do
+j	又姪	matamei	姪の子。
+j	守らう	mamorau	to be watching continuous…
+j	将史	masashi	a male given name
+j	将司	masashi	a male given name
+j	将志	masashi	a male given name
+j	将明	masaaki	a male given name
+j	将海	masaumi	a male given name
+j	巻貝	makigai	conch
+j	幕開き	makuaki	演劇などで舞台の幕が開くこと。
+j	幕開け	makuake	演劇などで舞台の幕が開くこと。
+j	廻し	mawashi	mawashi: the loincloth wo…
+j	待合	machiai	rendezvous; meeting; assi…
+j	慢心	manshin	conceit, pride
+j	摩天楼	matenro	a skyscraper (tall buildi…
+j	摩尼教	manikyo	Manichaeism
+j	摩擦	masatsu	friction
+j	政司	masashi	a male given name
+j	政明	masaaki	a male given name
+j	政昭	masaaki	a male given name
+j	政晃	masaaki	a male given name
+j	斉史	masashi	a male given name
+j	昌尚	masanao	a male given name
+j	昌志	masashi	a male given name
+j	曲がった	magatta	
+j	曼荼羅	mandara	a mandala
+j	曼陀羅	mandara	「曼荼羅」の別表記。
+j	末利	matsuri	とるにたらない利益。
+j	末寺	matsuji	本山の寺院に付属または支配下にある寺院。
+j	末尾	matsubi	end, tail
+j	末期の	makkino	
+j	末裔	matsuei	descendant
+j	末路	matsuro	end of the road
+j	松家	matsuka	a surname
+j	松戸	matsudo	Matsudo (a city in Chiba …
+j	松木	matsuki	a surname
+j	松田	matsuda	a surname
+j	松葉	matsuba	pine needle
+j	松野	matsuno	a surname
+j	枕絵	makurae	男女の性交（性行為）を描いた絵画。春画。笑い絵。
+j	正介	masaaki	a male given name
+j	正司	masashi	a male given name
+j	正岡	masaoka	a surname
+j	正志	masashi	a male given name
+j	正明	masaaki	a male given name
+j	正昭	masaaki	a male given name
+j	正晃	masaaki	a male given name
+j	正臣	masaomi	a male given name
+j	況して	mashite	
+j	満作	mansaku	bumper crop, abundant har…
+j	満席	manseki	full house
+j	満座那	manzana	
+j	満悦	manetsu	pleased; satisfied
+j	満族	manzoku	「満州族」を参照。
+j	満更	manzara	正に。ひたすら。
+j	満期日	mankibi	the due date
+j	満目	manmoku	見渡す限り。満眸。
+j	満腹	manpuku	full stomach
+j	満足	manzoku	happy, satisfying, suffic…
+j	満身	manshin	the whole body
+j	満額	mangaku	full monetary amount dema…
+j	滿身	manshin	
+j	漫画字	mangaji	an orthographic handwriti…
+j	漫画家	mangaka	a cartoonist; a comics ar…
+j	爼	manaita	a board used to cut fish …
+j	町家	machiya	a traditional Japanese to…
+j	町田	machida	Machida (a city in Tokyo …
+j	益荒男	masurao	a strong, brave man
+j	真っ先	massaki	the very first; the forem…
+j	真っ暗	makkura	total darkness
+j	真っ直ぐ	massugu	straight, direct, right
+j	真っ黒	makkuro	deep black; pitch-black
+j	真ん中	mannaka	center, core, dead center…
+j	真ん丸	manmaru	perfect circle
+j	真下	mashita	the area directly below; …
+j	真之	masashi	a male given name
+j	真喜志	makishi	a surname
+j	真夏	manatsu	midsummer
+j	真実愛	machika	a female given name
+j	真尚	masanao	a male given name
+j	真島	mashima	a surname
+j	真柴	mashiba	a surname
+j	真逆	magyaku	complete opposite
+j	眩い	mabayui	glaring, dazzling
+j	睫毛	matsuge	まつげ。
+j	磨滅	mametsu	wear, abrasion, being wor…
+j	祇晶	masaaki	a male given name
+j	祭り	matsuri	festival
+j	祭る	matsuru	to worship, to enshrine, …
+j	窓台	madodai	windowsill
+j	米原	maibara	
+j	紛いの	magaino	
+j	継兄	mamaani	older paternal half broth…
+j	継妹	mamaimo	younger paternal half sis…
+j	舛添	masuzoe	a surname
+j	舞姫	maihime	female dancer; danseuse
+j	舞浜	maihama	a surname
+j	舞茸	maitake	maitake
+j	舞鶴	maizuru	a dancing crane
+j	茉莉	matsuri	synonym of 茉莉花 (matsurika…
+j	蟶貝	mategai	
+j	街中	machiju	街の全体。街の全部。
+j	街子	machiko	a female given name
+j	街着	machigi	streetwear, urban clothing
+j	豆偏	mamehen	漢字の部首「⾖」が偏である場合の呼称。
+j	豆本	mamehon	持ち運び用の極めて小型の本。
+j	豆球	mamekyu	
+j	負け犬	makeinu	loser; failure
+j	賄い	makanai	boarding, meals; a person…
+j	賄う	makanau	to provide meals
+j	迷い家	mayoiga	in Tohoku and Kanto legen…
+j	邁進	maishin	striving, advancing forwa…
+j	間柴	mashiba	a surname
+j	雅亮	masaaki	a male given name
+j	雅史	masashi	a male given name
+j	雅司	masashi	a male given name
+j	雅明	masaaki	a male given name
+j	雅昭	masaaki	a male given name
+j	雅興	masaoki	a male given name
+j	饅頭屋	manjuya	饅頭を作って売る店。
+j	馬渕	mabuchi	a surname
+j	魔力	maryoku	magical power/strength
+j	魔女団	majodan	
+j	魔導書	madosho	
+j	魔改造	makaizo	makaizou, modification of…
+j	魔方陣	mahojin	magic square
+j	魔法師	mahoshi	An evil priest or monk
+j	魔法杖	mahozue	
+j	魔法瓶	mahobin	thermos
+j	魔法陣	mahojin	magic circle
+j	魔窟	makutsu	lair of disreputables
+j	魔術	majutsu	spellcraft, sorcery, witc…
+j	魔道師	madoshi	a practitioner of magic: …
+j	麻竹	machiku	Taiwan giant bamboo (Dend…
+k	마가단	magadan	
+k	마가렛	magaret	
+k	마가린	magarin	margarine (spread)
+k	마가스	magaseu	
+k	마가을	magaeul	'늦가을'의 북한말.
+k	마감일	magamil	
+k	마고그	magogeu	
+k	마구간	magugan	stable (for horses)
+k	마그마	mageuma	magma
+k	마나과	managwa	Managua (the capital city…
+k	마나님	mananim	
+k	마나트	manateu	
+k	마냥	manyang	늦모내기.
+k	마니교	manigyo	Manichaeism
+k	마닐라	manilla	Manila (the capital city …
+k	마단조	madanjo	
+k	마데이라	madeira	
+k	마돈나	madonna	
+k	마디풀	madipul	
+k	마라손	marason	(육상) '마라톤'의 북한말.
+k	마라초	maracho	'궐련'의 북한말.
+k	마라톤	maraton	marathon (road race)
+k	마력	maryeok	horsepower
+k	마련	maryeon	preparation, arrangement
+k	마루문	marumun	
+k	마루폭	marupok	
+k	마르다	mareuda	to dry up
+k	마르코	mareuko	Mark
+k	마리아주	mariaju	pairing wine with food
+k	마릿수	maritsu	
+k	마마보이	mamaboi	momma's boy, mummy's boy,…
+k	마모셋	mamoset	marmoset
+k	마분지	mabunji	
+k	마사크	masakeu	
+k	마상이	masangi	거룻배처럼 노를 젓는 작은 배.
+k	마소렛	masoret	기원후 8세기를 전후로 히브어 구약성서를 검토…
+k	마술사	masulsa	magician, conjurer
+k	마스다	maseuda	to break (something).
+k	마싸지	massaji	North Korea standard spel…
+k	마쓰에	masseue	
+k	마애불	maaebul	
+k	마에가리	maegari	미리 받기, 당겨 받기.
+k	마에바시	maebasi	
+k	마오리어	maorieo	
+k	마요트	mayoteu	
+k	마운드	maundeu	
+k	마을의	maeurui	
+k	마이애미	maiaemi	Miami (a city, the county…
+k	마이컴	maikeom	
+k	마이클	maikeul	
+k	마인드	maindeu	
+k	마자르	majareu	
+k	마쟈르	majareu	Hungary (a country in Eur…
+k	마젠타	majenta	밝은 자주색으로 감산혼합의 삼원색 중 하나이다.
+k	마지막	majimak	the end; the last thing
+k	마체테	machete	machete
+k	마치다	machida	to finish
+k	마카크	makakeu	
+k	마케터	maketeo	
+k	마크제	makeuje	
+k	마키아토	makiato	
+k	마파람	maparam	south wind
+k	마팔데	mapalde	mafalde
+k	마해자	mahaeja	a person who looks worse …
+k	마호멧	mahomet	
+k	마황	mahwang	
+k	마흐디	maheudi	Mahdi (messianic figure i…
+k	막내	mangnae	the youngest son or daugh…
+k	막바지	makbaji	end
+k	막상	maksang	really, actually, when yo…
+k	막장	makjang	last of the fan rafters, …
+k	막히다	makhida	to become blocked or clos…
+k	만강	mangang	
+k	만관	mangwan	
+k	만근	mangeun	
+k	만금	mangeum	
+k	만기일	mangiil	
+k	만끽	mankkik	마음껏 먹고 마심.
+k	만나기	mannagi	meeting (action noun of t…
+k	만나다	mannada	to meet; to see (someone)
+k	만다라	mandara	
+k	만두기	mandugi	함경도 및 중국에 사는 한국 사람이 말하는 송…
+k	만두피	mandupi	
+k	만득	mandeuk	
+k	만려	manryeo	
+k	만방	manbang	
+k	만보기	manbogi	걸음 수를 측정하는 기계.
+k	만상	mansang	
+k	만석	manseok	
+k	만선	manseon	
+k	만세보	mansebo	
+k	만수위	mansuwi	멱찬 물 높이.
+k	만연	manyeon	식물의 줄기가 널리 뻗는다는 뜻으로, 전염병이…
+k	만용	manyong	recklessness; bravado
+k	만자기	manjagi	
+k	만장	manjang	
+k	만적	manjeok	
+k	만전	manjeon	
+k	만점	manjeom	full marks; perfect score
+k	만종	manjong	
+k	만주어	manjueo	Manchu (language)
+k	만주인	manjuin	
+k	만지다	manjida	to touch
+k	만찬	manchan	
+k	만춘	manchun	late spring
+k	만취	manchwi	
+k	만큼	mankeum	the degree or extent to w…
+k	만하다	manhada	to be worthy of; to be en…
+k	맏딸	matttal	딸이 둘보다 많은 집안에서 맨 먼저 태어난 딸.
+k	맏아바이	madabai	uncle, especially the old…
+k	말갛다	malgata	clear
+k	말고기	malgogi	horsemeat
+k	말관	malgwan	
+k	말권	malgwon	
+k	말기다	malgida	
+k	말꾼	malkkun	
+k	말나리	mallari	Lilium distichium
+k	말뚝	malttuk	wooden pile; stake
+k	말라가	mallaga	
+k	말라기	mallagi	
+k	말라보	mallabo	Malabo (a city in Equator…
+k	말라위	mallawi	Malawi (a country in Afri…
+k	말라카	mallaka	
+k	말리다	mallida	to stop, to keep
+k	말벌	malbeol	any wasp or hornet in the…
+k	말빨	malppal	'말발'의 비표준어.
+k	말석	malseok	
+k	말소리	malsori	말하는 소리.
+k	말씬	malssin	
+k	말엽	maryeop	
+k	말째	maljjae	
+k	말콩	malkong	
+k	말하기	malhagi	speech; speaking
+k	말하다	malhada	to speak, to talk
+k	맑히다	makhida	
+k	맘카페	mamkape	an Internet forum for par…
+k	맙소사	mapsosa	oh my God!, good heavens!
+k	맛깔	matkkal	음식 맛의 성질.
+k	맛보다	matboda	to taste, to try (by tast…
+k	맛빡	matppak	'마빡'의 비표준어.
+k	맛있다	masitda	to be delicious
+k	맛젓	matjeot	matjeot (pickled fermente…
+k	망각	manggak	corner where two walls me…
+k	망간	manggan	manganese
+k	망곡	manggok	
+k	망국	mangguk	이미 망하여 없어진 나라.
+k	망돌	mangdol	'맷돌'의 북한말.
+k	망둑	mangduk	goby
+k	망막	mangmak	retina
+k	망발	mangbal	
+k	망신	mangsin	humiliation; disgrace; sh…
+k	망아지	mangaji	foal, colt
+k	망언	mangeon	망령된 발언을 이르는 말.
+k	망월	mangwol	full moon
+k	망작	mangjak	질 및 흥행이 좋지 못하여 부정적으로 여겨지는…
+k	망초	mangcho	Erigeron canadensis (Cana…
+k	망치	mangchi	hammer
+k	망태	mangtae	
+k	망패	mangpae	말이나 행동이 도리에 어긋나 주책없고 막됨.
+k	망할	manghal	
+k	망홀	manghol	‘맨홀’을 달리 이르는 말.
+k	맞고소	matgoso	
+k	맞선	matseon	formal marriage interview…
+k	맞춤	matchum	order; an article ordered…
+k	맞히다	machida	어떤 물건으로 타인에게 해를 입을 정도의 강력…
+k	맡기다	matgida	to cause to take on; to e…
+k	매가리	maegari	
+k	매갈이	maegali	
+k	매기다	maegida	to rate, to estimate, to …
+k	매니악	maeniak	
+k	매듭	maedeup	knot, tie
+k	매리비	maeribi	
+k	매번	maebeon	all the time
+k	매상	maesang	판매.
+k	매설	maeseol	laying underground
+k	매수인	maesuin	물건의 소유권을 다른 사람에게서 넘겨받는 사람.
+k	매시시	maesisi	
+k	매연	maeyeon	
+k	매염	maeyeom	
+k	매일의	maeirui	
+k	매자기	maejagi	사초과의 여러해살이풀. 높이는 1.5미터 정도…
+k	매장	maejang	shop; store
+k	매점	maejeom	cafeteria, canteen, snack…
+k	매주의	maejuui	
+k	매춘	maechun	prostitution
+k	매출	maechul	sale; selling
+k	매케인	maekein	
+k	맥각	maekgak	
+k	맥간	maekgan	
+k	맥곡	maekgok	
+k	맥노	maengno	
+k	맥리	maengni	
+k	맥박	maekbak	pulse; pulsation
+k	맥반	maekban	
+k	맥분	maekbun	‘밀가루’를 달리 이르는 말.
+k	맥작	maekjak	
+k	맥진	maekjin	
+k	맥추	maekchu	harvest season for barley…
+k	맨날	maennal	daily, every day
+k	맨눈	maennun	the naked eye, bare-eye
+k	맨발	maenbal	barefoot
+k	맨살	maensal	
+k	맨손	maenson	bare hands, being empty-h…
+k	맨홀	maenhol	땅속에 묻은 수도관이나 하수관, 배선 따위를 …
+k	맷돌	maetdol	millstone
+k	맹세	maengse	pledge; oath; vow
+k	맹수	maengsu	
+k	맹예	maengye	older brother of a boy
+k	맹인	maengin	blind person
+k	맹자	maengja	Mencius, a Chinese philos…
+k	맹타	maengta	
+k	맹호	maengho	
+e	macaroni	macaroni	1 meaning
+e	machismo	machismo	1 meaning
+e	mackerel	mackerel	1 meaning
+e	madeline	madeline	1 meaning
+e	madrigal	madrigal	1 meaning
+e	madurese	madurese	1 meaning
+e	maebashi	maebashi	1 meaning
+e	magazine	magazine	3 meanings
+e	magellan	magellan	1 meaning
+e	magic eye	magiceye	1 meaning
+e	magician	magician	1 meaning
+e	magnesia	magnesia	1 meaning
+e	magnetic	magnetic	4 meanings
+e	magnolia	magnolia	1 meaning
+e	mahakala	mahakala	1 meaning
+e	maharaja	maharaja	1 meaning
+e	mahayana	mahayana	1 meaning
+e	mahi-mahi	mahimahi	1 meaning
+e	mahogany	mahogany	2 meanings
+e	mahoraga	mahoraga	1 meaning
+e	main verb	mainverb	1 meaning
+e	mainland	mainland	1 meaning
+e	mainmast	mainmast	1 meaning
+e	mainstay	mainstay	1 meaning
+e	maintain	maintain	1 meaning
+e	maitreya	maitreya	1 meaning
+e	majestic	majestic	1 meaning
+e	major key	majorkey	1 meaning
+e	majority	majority	2 meanings
+e	makassar	makassar	1 meaning
+e	make love	makelove	1 meaning
+e	make room	makeroom	1 meaning
+e	makemake	makemake	2 meanings
+e	makeover	makeover	1 meaning
+e	makhorka	makhorka	1 meaning
+e	making-of	makingof	1 meaning
+e	makuuchi	makuuchi	1 meaning
+e	malagasy	malagasy	1 meaning
+e	malakoff	malakoff	1 meaning
+e	malatang	malatang	1 meaning
+e	malaysia	malaysia	1 meaning
+e	maldives	maldives	1 meaning
+e	malinger	malinger	1 meaning
+e	mallorca	mallorca	1 meaning
+e	maltreat	maltreat	1 meaning
+e	mama's boy	mamasboy	1 meaning
+e	mameluke	mameluke	1 meaning
+e	man-month	manmonth	1 meaning
+e	man-of-war	manofwar	1 meaning
+e	manchego	manchego	1 meaning
+e	mandarin	mandarin	2 meanings
+e	mandolin	mandolin	2 meanings
+e	mandopop	mandopop	1 meaning
+e	mandrake	mandrake	1 meaning
+e	mandrill	mandrill	1 meaning
+e	maneuver	maneuver	2 meanings
+e	mangrove	mangrove	1 meaning
+e	manhwaga	manhwaga	1 meaning
+e	manicure	manicure	1 meaning
+e	manifest	manifest	5 meanings
+e	manifold	manifold	1 meaning
+e	manitoba	manitoba	1 meaning
+e	manta ray	mantaray	1 meaning
+e	mantissa	mantissa	1 meaning
+e	manwhore	manwhore	1 meaning
+e	marasmus	marasmus	1 meaning
+e	marathon	marathon	2 meanings
+e	marauder	marauder	1 meaning
+e	margaret	margaret	2 meanings
+e	marginal	marginal	4 meanings
+e	margrave	margrave	1 meaning
+e	marigold	marigold	2 meanings
+e	marinade	marinade	1 meaning
+e	marinate	marinate	1 meaning
+e	mariupol	mariupol	1 meaning
+e	marjoram	marjoram	2 meanings
+e	marmoset	marmoset	1 meaning
+e	marquess	marquess	1 meaning
+e	marriage	marriage	3 meanings
+e	marsh tit	marshtit	1 meaning
+e	martinez	martinez	1 meaning
+e	mary jane	maryjane	1 meaning
+e	maryland	maryland	1 meaning
+e	marzipan	marzipan	1 meaning
+e	maskable	maskable	1 meaning
+e	mass noun	massnoun	1 meaning
+e	massacre	massacre	1 meaning
+e	masseter	masseter	1 meaning
+e	mastitis	mastitis	1 meaning
+e	mastodon	mastodon	1 meaning
+e	masu-seki	masuseki	1 meaning
+e	matanzas	matanzas	1 meaning
+e	matatabi	matatabi	1 meaning
+e	matawari	matawari	1 meaning
+e	matchbox	matchbox	1 meaning
+e	material	material	4 meanings
+e	maternal	maternal	2 meanings
+e	matildas	matildas	1 meaning
+e	matthias	matthias	1 meaning
+e	mattress	mattress	1 meaning
+e	maturity	maturity	1 meaning
+e	maunaloa	maunaloa	1 meaning
+e	maximize	maximize	2 meanings
+e	mazel tov	mazeltov	1 meaning
+j	まいあがる	maiagaru	舞うように揺れながら高く上がる。
+j	まえしり	maeshiri	女陰。女性の生殖器。まえじり。
+j	まえだおす	maedaosu	日程をそれまでの予定より早める。前倒しする。
+j	まえばし	maebashi	前橋: Maebashi
+j	まえばらい	maebarai	payment in advance
+j	まえもって	maemotte	ある事が行われる前に。
+j	まかせる	makaseru	権限などを他人に譲って自由にやらせる。
+j	まがたま	magatama	古代、翡翠、瑪瑙などでつくられ、装身具や祭祀に用い…
+j	まきがみ	makigami	書状のために半切紙を横に長く繋ぎ合わせ、巻くように…
+j	まきぐも	makigumo	氷晶からなる繊維状に散った白い雲。別名、すじぐも。
+j	まきこみ	makikomi	柔道において技をかける際に相手を自分に合わせ巻きこ…
+j	まきこむ	makikomu	巻いて中に入れる。
+j	まきとる	makitoru	（糸やホースなど細長いものを）巻きながら取る。
+j	まきはだ	makihada	槙の皮を柔らかくしたもの。水漏れを防ぐための充填剤…
+j	まきひげ	makihige	植物の葉や茎が変形して細い蔓状になったもの。周囲の…
+j	まきもの	makimono	書画を軸に巻いたもの。
+j	まきわり	makiwari	木を割って、たきぎにすること。
+j	まぎらす	magirasu	他のものと混同させて分からないようにする。
+j	まぎれる	magireru	他の物と入り交じって区別が付かなくなる。
+j	まくぎれ	makugire	芝居が一段落して幕が降りること。また、その場面。
+j	まくなぎ	makunagi	蠛蠓: a kind of biting midge
+j	まくらぎ	makuragi	線路のレールの下に敷いてレールを支えるための角柱状…
+j	まくらべ	makurabe	「枕辺」のひらがな表記。
+j	まくらや	makuraya	枕を作って売る店。
+j	まくれる	makureru	【捲れる】うすい物の端が巻いて引き上げられる。
+j	まぐさば	magusaba	秣を刈り取る草地。
+j	まけぐみ	makegumi	losers, dropout
+j	まけこす	makekosu	勝った回数が負けた回数を下回る。
+j	まけじと	makejito	refusing to lose
+j	まげあし	mageashi	漢字の部首「⼪」の呼称の一つ。
+j	まげもの	magemono	スギやヒノキの薄い板を曲げてつくった容器。
+j	まことに	makotoni	sincerely; truly
+j	まごころ	magokoro	sincerity; devotion
+j	まごのて	magonote	多くは細長い竹の板や木製の棒の先に指を少し曲げたよ…
+j	まごまご	magomago	confused; perplexed; at a…
+j	まさいち	masaichi	正一: a male given name
+j	まさかず	masakazu	政数, 昌和, 政和, 将和, 正和, 仁一, 雅…
+j	まさかり	masakari	伐木用の大型の斧。武器や刑具としても用いられた。
+j	まさくに	masakuni	正邦: a male given name
+j	まさぐる	masaguru	手先を動かして探す。
+j	まさたか	masataka	政隆, 雅敬, 真貴, 政孝, 正孝, 雅貴, 誠…
+j	まさたけ	masatake	正武, 正剛, 正毅, 政武, 昌武: a mal…
+j	まさとも	masatomo	優友: a male given name
+j	まさひこ	masahiko	将彦, 昌彦, 雅彦, 正彦, 政彦, 晶彦, 允…
+j	まさひさ	masahisa	昌久: a male given name
+j	まさひで	masahide	政秀: a male given name
+j	まさひと	masahito	正人, 雅人, 雅仁, 真仁, 眞人: a mal…
+j	まさひろ	masahiro	a male given name
+j	まさゆき	masayuki	正之, 昌幸, 昌之, 雅行, 雅之, 正行, 正…
+j	まさゆめ	masayume	夢で見たことが現実で起こること。また、実際に起こっ…
+j	まざまざ	mazamaza	現実を明白に見せつけたり、いやおうなく感じさせたり…
+j	ましろい	mashiroi	本当に白い。真っ白な。
+j	まじきり	majikiri	部屋を仕切ること。また、そのための仕切り。
+j	まじたれ	majitare	（かきたれに対して）本気の彼女。真剣な交際相手。
+j	まじまじ	majimaji	hard, (look) intently
+j	まじもの	majimono	神仏に祈り他人に災厄が及ぶようにすること。他人を呪…
+j	まじりあう	majiriau	互いにいりまじる。
+j	まじりけ	majirike	純粋ではなく他の物質が混ざっていること。また、その…
+j	まじろぐ	majirogu	瞬きをする。瞬く。
+j	まじわり	majiwari	「まじわる」の連用形。
+j	まじわる	majiwaru	交差する。
+j	ますがた	masugata	枡のような四角形。
+j	ますたけ	masutake	鱒茸: sulphur shelf
+j	ますます	masumasu	even more
+j	ますわな	masuwana	ますおとし。
+j	まずしい	mazushii	収入がすくなく生活が厳しい。お金がない。貧乏だ。
+j	まずまず	mazumazu	being tentatively accepta…
+j	ませがき	masegaki	竹や木を粗く編み、低くつくった垣。
+j	まぜがき	mazegaki	Writing certain kanji of …
+j	まぜこぜ	mazekoze	jumbled
+j	またがる	matagaru	（跨がる・股がる）股を開き両足を広げて挟むようにし…
+j	またぎき	matagiki	直接ではなく人づてに聞くこと。
+j	またぐら	matagura	crotch, space between the…
+j	またたき	matataki	瞬き: a wink
+j	またたく	matataku	まぶたを開けたり閉じたりする。
+j	またたび	matatabi	江戸時代、博徒・遊び人・芸者といった共同体から外れ…
+j	またの名	matanona	
+j	またまた	matamata	again and again; repeated…
+j	またもや	matamoya	「またも（副詞）」に疑問や詠嘆の意を添えた言葉。
+j	まだまだ	madamada	yet, still
+j	まちうけ	machiuke	待受画面の略。
+j	まちがい	machigai	「まちがう」の連用形。
+j	まちがう	machigau	間違う: make a mistake, be i…
+j	まちがえ	machigae	「まちがえる」の未然形・連用形。
+j	まっかっか	makkakka	「真っ赤」を強調した語。
+j	まっきいろ	makkiiro	非常に黄色いこと。真っ黄。
+j	まっきっき	makkikki	「真っ黄」を強調した語。
+j	まっしろ	masshiro	全く白いこと。また、そのさま。
+j	まつち	matsuchi	真土: good quality soil sui…
+j	まとがわ	matogawa	弓道の射場で的の背後に張る皮や布の幕。
+j	まとだま	matodama	オブジェクトボール
+j	まとまり	matomari	unity, coherence
+j	まとまる	matomaru	一つの統一したものになる。一体になる。
+j	まとめる	matomeru	個個のものを集めて一つにする。
+j	まどぎわ	madogiwa	窓の近く。窓辺。
+j	まどろみ	madoromi	light sleep; a doze; a sn…
+j	まどろむ	madoromu	微睡む: doze off
+j	まどわく	madowaku	window frame
+j	まどわす	madowasu	人の考えを混乱させる。
+j	まなじり	manajiri	the outward corner of one…
+j	まなづる	manazuru	ツル目ツル科ツル属に属する鳥の一種。学名は Gru…
+j	まなびや	manabiya	学問をする場所。学校。校舎。
+j	まなまず	manamazu	ナマズの別称。
+j	まにまに	manimani	at the mercy of
+j	まねごと	manegoto	ものまね。
+j	まばたき	mabataki	「まばたく」の連用形。
+j	まばたく	mabataku	瞼を瞬間的に開けたり閉めたりする。またたく。
+j	まばゆき	mabayuki	
+j	まふゆび	mafuyubi	最高気温が0℃未満の日。
+j	まぶしい	mabushii	光が目に痛い。目をつぶりたくなるほど明るい。
+j	まぶれる	mabureru	「まみれる」に同じ。
+j	まほろば	mahoroba	wonderful place
+j	ままごと	mamagoto	幼児、特に女児が玩具を使い家事の真似事をする遊び。
+j	ままたき	mamataki	飯をたくこと。
+j	ままはは	mamahaha	実父の後妻。
+j	まみれる	mamireru	to be smeared (with blood…
+j	まめすけ	mamesuke	体格が小さい男性。
+j	まめどろ	mamedoro	cuckolding another yakuza…
+j	まめまき	mamemaki	豆撒き, 豆蒔き: bean scattering…
+j	まめやか	mameyaka	真面目なさま。誠実なさま。
+j	まもなく	mamonaku	間断なく。絶え間なく。
+j	まやかす	mayakasu	ごまかす。だます。
+j	まゆずみ	mayuzumi	眉を書くこと。また、そのような眉やそのための墨。
+j	まゆだま	mayudama	小正月に飾る柳や竹などに繭の形にした小さな餅や団子…
+j	まよなか	mayonaka	夜の中間点。夜のもっとも更けた時刻。
+j	まよわす	mayowasu	迷うようにする。惑わす。
+j	まらする	marasuru	
+j	まるあらい	maruarai	和服などを、解かずに丸ごと洗うこと。
+j	まるいし	maruishi	角がなく丸い石。
+j	まるがり	marugari	頭髪全体を短く刈り込むこと。また、そのような髪型。
+j	まるきり	marukiri	（下に打ち消しの語を伴い）全然。まったく。まるっき…
+j	まるごと	marugoto	entirely, wholly, complet…
+j	まるざら	maruzara	round plate
+j	まるたけ	marutake	伐採したまま、割ったり削ったりするなど加工していな…
+j	まるっこい	marukkoi	roundish
+j	まるづか	maruzuka	上から見て円形となるように土を積み上げた塚。古墳の…
+j	まるどり	marudori	残さず全部取ること。
+j	まるなげ	marunage	outsourcing; subcontracti…
+j	まるのこ	marunoko	丸鋸: circular saw
+j	まるのみ	marunomi	丸鑿, 円鑿: gouge (tool used …
+j	まるまる	marumaru	圏点を二つ以上連ねたもの。
+j	まるめる	marumeru	丸くする。
+j	まるもうけ	marumoke	元手が掛からず、収入が全て儲けとなること。丸得。
+j	まるやき	maruyaki	食材を切らずにそのままの形で焼くこと。また、そのよ…
+j	まるやけ	maruyake	火事ですっかり焼けること。
+j	まれびと	marebito	来訪した人。御客。まろうど。
+j	まろやか	maroyaka	round, rounded
+j	まんげきょう	mangekyo	
+j	まんげつ	mangetsu	
+j	まんぽけい	manpokei	万歩計: pedometer
+j	まんまるい	manmarui	ほぼ完全な円形や球形であるさま。
+j	まーぼどうふ	mabodofu	麻婆豆腐: mapo doufu - a hot …
+j	キチェ・マム語派	mamugoha	マヤ語族の系統的分類の一つ。マム・イシル語群と大キ…
+j	マイナンバー	mainanba	my number, individual num…
+j	マイバッグ	maibaggu	(和製英語)買い物時などに持参して品物を持って帰る…
+j	マイワシ	maiwashi	
+j	マウナロア	maunaroa	
+j	マオリ人	maorijin	
+j	マカロニ	makaroni	macaroni
+j	マキラ島	makirato	
+j	マクタブ	makutabu	maktab
+j	マクベス	makubesu	
+j	マクルーバ	makuruba	maqluba (Levantine dish o…
+j	マグリブ	maguribu	the Maghreb
+j	マグレブ	magurebu	マグリブの表記揺れ。
+j	マケマケ	makemake	太陽系の準惑星の一つ。4つ目の準惑星とされる。
+j	マザーズデー	mazazude	
+j	マザーボード	mazabodo	a motherboard
+j	マシン語	mashingo	
+j	マジかよ	majikayo	
+j	マジギレ	majigire	absolutely furious
+j	マジシャン	majishan	stage magician (performer)
+j	マジタレ	majitare	woman who one dates out o…
+j	マジャル語	majarugo	ハンガリー語のこと。
+j	マジョリティ	majoriti	多数。多数派。過半数。
+j	マジョリティー	majoriti	majority
+j	マジレス	majiresu	a serious comment or repl…
+j	マスカラ	masukara	mascara
+j	マスゲーム	masugemu	大人数が一団となって一斉に体操や競技、ダンスなどを…
+j	マスコミ	masukomi	mass communication; mass …
+j	マスゴミ	masugomi	mass media that are consi…
+j	マスジド	masujido	masjid
+j	マスタケ	masutake	鱒茸: sulphur shelf
+j	マスターキー	masutaki	特定のマスターグループに属する複数の異なる錠前をす…
+j	マスタード	masutado	mustard
+j	マスダル	masudaru	
+j	マスダール	masudaru	
+j	マスティフ	masutifu	mastiff
+j	マスプロ	masupuro	大量生産を意味するマスプロダクション (mass …
+j	マス・コミ	masukomi	
+j	マス掻き	masukaki	
+j	マズゴミ	mazugomi	マスコミ。
+j	マズハブ	mazuhabu	madhhab
+j	マズルカ	mazuruka	
+j	マタドール	matadoru	スペインの闘牛で最後牛に剣でとどめを刺す主役の闘牛…
+j	マタニティ	mataniti	「マタニティー」の表記ゆれ。
+j	マタニティー	mataniti	母性。
+j	マタハラ	matahara	マタニティハラスメント。
+j	マタマタ	matamata	カメ目ヘビクビガメ科マタマタ属に属する亀の総称。学…
+j	マダミス	madamisu	
+j	マチアプ	machiapu	マッチングアプリ。
+j	マチエール	machieru	素材、材料、物質、材質。
+j	マッカーシー	makkashi	
+j	マッキンリー	makkinri	
+j	マッピング	mappingu	mapping (activity)
+j	マツエク	matsueku	
+j	マツテン	matsuten	ネコ目イタチ科イタチ亜科テン属に属する食肉類の一種…
+j	マドゥラ島	madorato	大スンダ列島の一つでジャワ島北東部に位置する島。
+j	マドラサ	madorasa	madrasa
+j	マドラス	madorasu	
+j	マドリード	madorido	Madrid (a city and munici…
+j	マドレーヌ	madorenu	
+j	マナーモード	manamodo	silent mode, vibrate mode
+j	マニアック	maniakku	as of an ardent fan; geeky
+j	マニキュア	manikyua	manicure
+j	マニトバ	manitoba	Manitoba (a province in w…
+j	マニプル	manipuru	
+j	マニュアル	manyuaru	a manual book or booklet
+j	マニューシャ	manyusha	minutiae
+j	マネタリー	manetari	通貨の、貨幣の。
+j	マネーゲーム	manegemu	高い配当や金利を狙って投機的な資金運用すること。
+j	マハラジャ	maharaja	
+j	マハラム	maharamu	mahram
+j	マハーラージャ	maharaja	
+j	マフラム	mafuramu	
+j	マホガニー	mahogani	センダン科の常緑高木。北アメリカ南部から西インド諸…
+j	マホルカ	mahoruka	
+j	ママレード	mamaredo	
+j	ママ友	mamatomo	a “mom-friend”: a mother …
+j	マムゼール	mamuzeru	
+j	マメイチ	mameichi	a full cycle around Shōdo…
+j	マヨネーズ	mayonezu	mayonnaise
+j	マヨラナ	mayorana	
+j	マラカス	marakasu	打楽器の一つで、マラカ（ウリ科の植物）の実を乾燥さ…
+j	マラカル	marakaru	
+j	マラコフ	marakofu	
+j	マラニョン	maranyon	
+j	マラリヤ	marariya	
+j	マラーティー語	maratigo	Marathi, the language of …
+j	マリネード	marinedo	マリネの漬け汁。また、それに浸す調理法。
+j	マリファナ	marifana	marijuana
+j	マリワナ	mariwana	
+j	マルクス	marukusu	Marx
+j	マルコフ	marukofu	a transliteration of the …
+j	マルスム	marusumu	御言、お言葉
+j	マルタの	marutano	
+j	マルタ島	marutato	シチリアの南に位置する島。マルタ共和国の首都である…
+j	マルタ語	marutago	the Maltese language
+j	マルトース	marutosu	麦芽糖
+j	マルメロ	marumero	quince, Cydonia oblonga
+j	マレーグマ	mareguma	a sun bear
+j	マレーシア	mareshia	Malaysia (a country in So…
+j	マレーバク	marebaku	Malaysian tapir, Tapirus …
+j	マレー川	maregawa	
+j	マロロス	marorosu	
+j	マンダリン	mandarin	中国清の時代の官僚。
+j	マンチェゴ	manchego	
+j	マンティコア	mantikoa	a manticore
+j	マンドリン	mandorin	日本の琵琶に似た撥弦楽器。弦を義甲で弾奏する。
+j	マークアップ	makuappu	
+j	マージナル	majinaru	末端の、辺境の、限界の。
+j	マーズローバー	mazuroba	火星の探査に使われる車両。
+j	マーマレード	mamaredo	marmalade
+j	万歩計	manpokei	pedometer
+j	万華鏡	mangekyo	a kaleidoscope (tube of m…
+j	万葉集	manyoshu	Japan's oldest anthology …
+j	丸々	marumaru	entirely, completely, who…
+j	丸ごと	marugoto	
+j	丸まる	marumaru	to become round; to huddl…
+j	丸める	marumeru	to roll up, to make into …
+j	丸呑み	marunomi	swallowing something whole
+j	丸坊主	marubozu	頭髪全体を剃ったり刈ったりした状態。
+j	丸山	maruyama	a surname
+j	丸川	marukawa	a surname
+j	丸文字	marumoji	a highly rounded feminine…
+j	丸洗い	maruarai	washing something whole (…
+j	丸焼け	maruyake	completely burned
+j	丸石	maruishi	cobblestone
+j	丸鋸	marunoko	circular saw
+j	丸鑿	marunomi	gouge (tool used to gouge…
+j	交わり	majiwari	association
+j	交わる	majiwaru	to cross, to intersect
+j	仁一	masakazu	a male given name
+j	任せる	makaseru	to entrust something to s…
+j	優典	masanori	a male given name
+j	優友	masatomo	a male given name
+j	允彦	masahiko	a male given name
+j	円屋根	maruyane	
+j	円山	maruyama	a surname
+j	前以て	maemotte	beforehand; in advance
+j	前橋	maebashi	Maebashi (a city in Gunma…
+j	前褌	maemitsu	The front part of a sumo …
+j	勝信	masanobu	a male given name
+j	勾玉	magatama	a particular kind of curv…
+j	又もや	matamoya	once again
+j	埋没	maibotsu	complete burial
+j	埋葬地	maisochi	遺体または遺骨を埋葬する場所。墓所。墓地。
+j	埋設	maisetsu	laying underground, bury …
+j	増本	masumoto	a surname
+j	増永	masunaga	a surname
+j	学び舎	manabiya	school, school building
+j	孫の手	magonote	a backscratcher
+j	将之	masayuki	a male given name
+j	将和	masakazu	a male given name
+j	将大	masahiro	a male given name
+j	将彦	masahiko	a male given name
+j	將大	masahiro	a male given name
+j	巻き尺	makijaku	
+j	巻き毛の	makigeno	
+j	巻き舌	makijita	The act of trilling, espe…
+j	巻き込む	makikomu	to envelop; to engulf; to…
+j	巻き雲	makigumo	
+j	巻物	makimono	a scroll, a long wound-up…
+j	幕内	makuuchi	the upper five ranks amon…
+j	幕切れ	makugire	ending of a show; curtain…
+j	幕張	makuhari	Makuhari (a region of Chi…
+j	微睡む	madoromu	to doze off, to nap
+j	惑わす	madowasu	to perplex
+j	慢性の	manseino	
+j	抹殺	massatsu	erasure
+j	捲き雲	makigumo	
+j	捲雲	makigumo	
+j	摩睺羅伽	magoraga	
+j	政一	masaichi	a male given name
+j	政信	masanobu	a male given name
+j	政博	masahiro	a male given name
+j	政和	masakazu	a male given name
+j	政孝	masataka	a male given name
+j	政幸	masayuki	a male given name
+j	政彦	masahiko	a male given name
+j	政敬	masanori	a male given name
+j	政数	masakazu	a male given name
+j	政文	masafumi	a male given name
+j	政武	masatake	a male given name
+j	政秀	masahide	a male given name
+j	政行	masayuki	a male given name
+j	政隆	masataka	a male given name
+j	昌久	masahisa	a male given name
+j	昌之	masayuki	a male given name
+j	昌則	masanori	a male given name
+j	昌和	masakazu	a male given name
+j	昌宏	masahiro	a male given name
+j	昌幸	masayuki	a male given name
+j	昌広	masahiro	a male given name
+j	昌弘	masahiro	a male given name
+j	昌彦	masahiko	a male given name
+j	昌徳	masanori	a male given name
+j	昌治	masaharu	a male given name
+j	昌浩	masahiro	a male given name
+j	昌範	masanori	a male given name
+j	晶彦	masahiko	a male given name
+j	木天蓼	matatabi	matatabi, Actinidia polyg…
+j	末代	matsudai	perpetuity
+j	末年	matsunen	ある人の人生やある時代の終盤または最後の年。
+j	末流	matsuryu	河川の下流。
+j	末端の	mattanno	
+j	末筆	mappitsu	final words in a message
+j	松前	matsumae	松前町: Matsumae (a town in …
+j	松岡	matsuoka	a surname
+j	松浦	matsuura	a place name,
+j	枕木	makuragi	railway sleeper; railroad…
+j	枡山	masuyama	a surname
+j	枡記号	masukigo	The symbol 〼.
+j	桝席	masuseki	
+j	槇本	makimoto	a surname
+j	槙原	makihara	a surname
+j	槙本	makimoto	a surname
+j	正之	masayuki	a male given name
+j	正信	masanobu	a male given name
+j	正博	masahiro	a male given name
+j	正夢	masayume	a dream that comes true, …
+j	正大	masahiro	a male given name
+j	正孝	masataka	a male given name
+j	正宏	masahiro	a male given name
+j	正宗	masamune	a male given name
+j	正宣	masanobu	a male given name
+j	正広	masahiro	a male given name
+j	正弘	masahiro	a male given name
+j	正彦	masahiko	a male given name
+j	正文	masafumi	a male given name
+j	正晴	masaharu	a male given name
+j	正洋	masahiro	a male given name
+j	正浩	masahiro	a male given name
+j	正秀	masahide	a male given name
+j	正裕	masahiro	a male given name
+j	正邦	masakuni	a male given name
+j	毎世紀	maiseiki	それぞれの世紀。
+j	毎年	maitoshi	every year
+j	毎日	mainichi	every day; daily
+j	毎月	maitsuki	every month
+j	毎週の	maishuno	
+j	満を持す	manojisu	to wait for the perfect o…
+j	満喫	mankitsu	having one's fill of food…
+j	満州語	manshugo	Manchu (language)
+j	満州里	manshuri	
+j	満月	mangetsu	full moon
+j	満洲語	manshugo	満洲族が話す言語で、ツングース諸語に分類される。満…
+j	満酌	manshaku	酒をなみなみと注ぐこと。
+j	漫喫	mankitsu	「漫画喫茶」の略。
+j	漫画本	mangahon	a comic book, a cartoon b…
+j	牧原	makihara	a surname
+j	牧本	makimoto	a surname
+j	牧谷	makitani	a surname
+j	玫瑰花	maikaika	dried petals of Rosa rugo…
+j	町版	machihan	民間の書店で出版した本。坊刻本。
+j	町衆	machishu	町の人々。
+j	的山	matoyama	a surname
+j	益山	masuyama	a surname
+j	益川	masukawa	a surname
+j	真っ白	masshiro	pure white, snow-white, p…
+j	真っ黒い	makkuroi	completely black, pitch b…
+j	真ん丸い	manmarui	perfectly round
+j	真仁	masahito	a male given name
+j	真似事	manegoto	sham; mockery
+j	真博	masahiro	a male given name
+j	真史	masafumi	a male given name
+j	真土	matsuchi	good quality soil suitabl…
+j	真夜中	mayonaka	midnight
+j	真大	masahiro	a male given name
+j	真孔雀	makujaku	a green peafowl
+j	真宏	masahiro	a male given name
+j	真後ろ	maushiro	right behind
+j	真正面	mashomen	right in front; directly …
+j	真貴	masataka	a male given name
+j	真面目に	majimeni	
+j	眩しい	mabushii	dazzling; glaring; bright
+j	瞬き	matataki	a wink
+j	瞬く	matataku	to twinkle (e.g. stars)
+j	窓際	madogiwa	at the window
+j	紛れる	magireru	to disappear into; to be …
+j	纏まる	matomaru	be collected, be all toge…
+j	纏める	matomeru	collect, bring together
+j	股割	matawari	
+j	股割り	matawari	
+j	膜電位	makudeni	a membrane potential
+j	舞い上がる	maiagaru	to fly up in swaying moti…
+j	舞い踊る	maiodoru	to dance
+j	萁	mamegara	bean husk
+j	薪本	makimoto	a surname
+j	蠛蠓	makunagi	a kind of biting midge
+j	街金	machikin	特定の地域内で小規模に営業している正規の（許可を受…
+j	誠隆	masataka	a male given name
+j	豆撒き	mamemaki	ritual bean scattering, e…
+j	豆鹿	mamejika	
+j	負け組	makegumi	
+j	貧しい	mazushii	poor (impoverished, lacki…
+j	跨がる	matagaru	to straddle; to mount (to…
+j	迷い線	mayoisen	rough lines of a rough sk…
+j	迷わす	mayowasu	to confuse
+j	迷迭香	mannenro	rosemary (Salvia rosmarin…
+j	鉞	masakari	large axe (used for felli…
+j	間も無く	mamonaku	soon
+j	間を空ける	maoakeru	
+j	間仕切り	majikiri	
+j	間違い	machigai	a mistake
+j	間違う	machigau	to be wrong, to be incorr…
+j	雅之	masayuki	a male given name
+j	雅亘	masanobu	a male given name
+j	雅仁	masahito	a male given name
+j	雅博	masahiro	a male given name
+j	雅弘	masahiro	a male given name
+j	雅彦	masahiko	a male given name
+j	雅敬	masataka	a male given name
+j	雅晴	masaharu	a male given name
+j	雅法	masanori	a male given name
+j	雅行	masayuki	a male given name
+j	雅裕	masahiro	a male given name
+j	雅規	masanori	a male given name
+j	雅計	masakazu	a male given name
+j	靺鞨	makkatsu	Mohe, an ancient ethnic g…
+j	飯事	mamagoto	playing house
+j	馬徳里	madorido	
+j	魔が差す	magasasu	to have a malicious impul…
+j	魔女狩り	majogari	a witch-hunt
+j	鱒茸	masutake	sulphur shelf
+j	麻姑掻痒	makosoyo	事物が思うとおり行くこと。
+j	麻姑掻癢	makosoyo	麻姑掻痒の別形。
+j	麻婆豆腐	mabodofu	mapo doufu, a spicy chili…
+j	麻痺する	mahisuru	
+j	麻辣鍋	maranabe	mala hotpot
+j	麻酔剤	masuizai	anesthetic, anaesthetic
+j	麻酔科医	masuikai	麻酔科を専門とする医師。
+j	黛	mayuzumi	drawn in eyebrows
+k	마경	magyeong	hemp stalk
+k	마구다지	magudaji	'마구잡이'의 북한말.
+k	마구마구	magumagu	
+k	마구잡이	magujabi	
+k	마기꾼	magikkun	a person who looks much b…
+k	마나우스	manauseu	
+k	마네킹	maneking	mannequin
+k	마니토바	manitoba	[~주(州)] alternative form …
+k	마다하다	madahada	거절하거나 싫다고 하다.
+k	마담뚜	madamttu	
+k	마당가	madangga	
+k	마두금	madugeum	morin khuur
+k	마두라어	maduraeo	
+k	마디마디	madimadi	
+k	마라케시	marakesi	
+k	마라탕	maratang	malatang (hot, spicy soup…
+k	마라티어	maratieo	인도제어의 하나로, 인도 뭄바이 및 그 부근에…
+k	마람풀	marampul	
+k	마로끄	marokkeu	Morocco (a country in Nor…
+k	마루턱	maruteok	
+k	마르스	mareuseu	Mars
+k	마르크	mareukeu	독일의 화폐 단위.
+k	마른입	mareunip	
+k	마름모	mareummo	rhombus, diamond
+k	마리우폴	mariupol	Mariupol (a city in Donet…
+k	마리전	marijeon	
+k	마립간	maripgan	a royal title of the anci…
+k	마법사	mabeopsa	wizard, magician, sorcerer
+k	마법의	mabeobui	
+k	마뿌또	mapputto	모잠비크의 수도 이름 '마푸토' 또는 '마푸투…
+k	마상의	masangui	
+k	마섬유	maseomyu	
+k	마스크	maseukeu	a mask (cover to mouth an…
+k	마스터	maseuteo	
+k	마스트	maseuteu	
+k	마오이즘	maoijeum	
+k	마오타이 주	maotaiju	
+k	마욘산	mayonsan	
+k	마을굿	maeulgut	
+k	마음속	maeumsok	one's heart, the bottom o…
+k	마음씨	maeumssi	temper, disposition
+k	마이소르	maisoreu	
+k	마이코프	maikopeu	
+k	마이크로	maikeuro	
+k	마인 강	maingang	
+k	마인츠	maincheu	
+k	마일리지	mailliji	
+k	마장조	majangjo	
+k	마젤란	majellan	
+k	마주하다	majuhada	눈앞에 무엇을 두고 바라보고 있다. 무엇과 얼…
+k	마지않다	majianta	'마지아니하다'의 준말.
+k	마지팬	majipaen	
+k	마진율	majinyul	
+k	마취제	machwije	anaesthetic
+k	마카로니	makaroni	macaroni
+k	마카롱	makarong	
+k	마커펜	makeopen	
+k	마케마케	makemake	
+k	마케팅	maketing	marketing
+k	마파두부	mapadubu	mapo doufu
+k	마하라자	maharaja	
+k	마하연	mahayeon	
+k	마호가니	mahogani	
+k	마후라가	mahuraga	
+k	마흔네	maheunne	
+k	마흔두	maheundu	
+k	마흔세	maheunse	
+k	막낭	mangnang	
+k	막대기	makdaegi	stick
+k	막창	makchang	abomasum (rennet stomach)
+k	만국기	mangukgi	flags of all nations
+k	만년	mannyeon	old age
+k	만능	manneung	omnipotence
+k	만다린	mandarin	중국에서 쓰이는 표준 중국어(보통화)를 가리키…
+k	만담가	mandamga	
+k	만델라	mandella	
+k	만도팝	mandopap	
+k	만두국	manduguk	dumpling soup
+k	만땅	manttang	가득, 가득 채움.
+k	만력	mallyeok	앞으로 백 년 동안의 천문과 절기를 추산하여 …
+k	만료일	mallyoil	
+k	만리화	mallihwa	early forsythia (Forsythi…
+k	만만세	manmanse	to long live (in exclamat…
+k	만만히	manmanhi	
+k	만면	manmyeon	(흔히 '만면에' 꼴로 쓰여) 온 얼굴.
+k	만보계	manbogye	'만보기'.
+k	만새기	mansaegi	mahi-mahi
+k	만성	manseong	chronicity, being chronic
+k	만수국	mansuguk	French marigold (Tagetes …
+k	만수르	mansureu	a fabulously rich person,…
+k	만수산	mansusan	
+k	만승	manseung	만대의 병거(兵車)라는 뜻으로, 천자 또는 천…
+k	만우절	manujeol	April Fools' Day
+k	만인교	maningyo	
+k	만인산	maninsan	
+k	만자문	manjamun	
+k	만주국	manjuguk	Manchukuo
+k	만주족	manjujok	만주에서 발상한 민족.
+k	만트라	manteura	
+k	만행	manhaeng	barbaric action; barbarity
+k	만화가	manhwaga	comics artist; cartoonist…
+k	많아지다	manajida	to become more, increase,…
+k	맏아들	madadeul	the eldest son
+k	말그레	malgeure	'말그레하다'의 어근.
+k	말꼬리	malkkori	
+k	말끔	malkkeum	하나도 남김이 없이
+k	말나식	mallasik	manas-vijnana: the sevent…
+k	말년	mallyeon	
+k	말다툼	maldatum	quarrel, dispute
+k	말디브	maldibeu	Maldives (an archipelago …
+k	말똥	malttong	말의 똥.
+k	말라리아	mallaria	학질모기에게 물려서 감염되는 전염병. 전형적 …
+k	말라본	mallabon	
+k	말라칼	mallakal	
+k	말레이어	malleieo	Malay; Malaysian (languag…
+k	말리화	mallihwa	
+k	말미잘	malmijal	
+k	말뿌리	malppuri	root (of a word).
+k	말실수	malsilsu	
+k	말싸움	malssaum	'말다툼'.
+k	말쑥이	malssugi	
+k	말씀	malsseum	word or speech
+k	말없이	mareopsi	silently, without saying …
+k	말줄기	maljulgi	한자어 문법 용어 '어간'의 북한말.
+k	말짱	maljjang	(부정의 뜻을 나타내는 서술어와 함께 쓰여) …
+k	말카닥	malkadak	
+k	말티즈	maltijeu	
+k	말혁	malhyeok	
+k	맘대로	mamdaero	'마음대로'의 준말.
+k	맘루크	mamnukeu	
+k	맘모스	mammoseu	큰, 대형, 매머드.
+k	맛내기	mannaegi	synonym of 화학조미료(化學調味料) (…
+k	맛없다	madeopda	to be tasteless, not tasty
+k	맛조개	matjogae	razor clam, jackknife cla…
+k	망건	manggeon	
+k	망극	manggeuk	immeasurability, quality …
+k	망나니	mangnani	yahoo, thug, ruffian
+k	망상	mangsang	delusion
+k	망설	mangseol	'거짓말'.
+k	망양	mangyang	
+k	망연	mangyeon	
+k	망전	mangjeon	
+k	망종	mangjong	
+k	망처	mangcheo	
+k	망친	mangchin	
+k	망탕	mangtang	'되는대로 마구'.
+k	망하다	manghada	to fail, to go under; to …
+k	맞대다	matdaeda	서로 가깝게 마주 대하다.
+k	맞바람	matbaram	사람이나 물체의 진행 방향과 반대 방향에서 불…
+k	맞벌이	matbeori	working together for a li…
+k	맞서기	matseogi	(태권도) '겨루기, 대련'의 북한말.
+k	맞서다	matseoda	to stand face to face wit…
+k	맞이하다	majihada	to receive (guests)
+k	맞추다	matchuda	to set, adjust, to tune, …
+k	매가오리	maegaori	
+k	매구북	maegubuk	
+k	매너티	maeneoti	
+k	매년	maenyeon	every year
+k	매니저	maenijeo	manager
+k	매달다	maedalda	to hang; to suspend
+k	매달의	maedarui	
+k	매력	maeryeok	charm, attractiveness, (s…
+k	매련	maeryeon	터무니없는 고집을 부릴 정도로 어리석고 둔함.
+k	매리복	maeribok	The vermiculated puffer, …
+k	매매가	maemaega	
+k	매시간	maesigan	
+k	매실주	maesilju	plum wine; umeshu
+k	매운맛	maeunmat	입 안 점막을 자극하였을 때 느낄 수 있는 알…
+k	매음부	maeeumbu	
+k	매주간	maejugan	
+k	매직아이	maejigai	
+k	매치다	maechida	
+k	매칭	maeching	matchmaking
+k	매카서	maekaseo	
+k	매크로	maekeuro	
+k	매표구	maepyogu	ticket window
+k	매표소	maepyoso	ticket office, booking of…
+k	매향	maehyang	the fragrance of plum blo…
+k	매화가	maehwaga	
+k	매화포	maehwapo	
+k	맥고자	maekgoja	
+k	맥고지	maekgoji	
+k	맥관	maekgwan	
+k	맥궁	maekgung	
+k	맥날	maengnal	
+k	맥동	maekdong	
+k	맥락	maengnak	context
+k	맥류	maengnyu	
+k	맥석	maekseok	gangue
+k	맥아더	maegadeo	
+k	맥점	maekjeom	strategically crucial are…
+k	맥탕	maektang	
+k	맨망	maenmang	요망스럽게 까붊. 또는 그런 짓.
+k	맨틀	maenteul	지각을 구성하는 판.
+k	맬롱	maellong	
+k	맬룽	maellung	
+k	맬웨어	maerweeo	malware (software develop…
+k	맴돌이	maemdori	맴을 돎.
+k	맴맴	maemmaem	
+k	맴찢	maemjjit	매우 연민을 느끼거나 속상하다.
+k	맵쌀	maepssal	
+k	맹목	maengmok	
+k	맹물	maengmul	아무것도 넣지 않은 물.
+k	맹신	maengsin	
+k	맹추	maengchu	무엇을 빨리 알아채지 못하는 어리석고 둔한 사…
+k	맺히다	maechida	to form, bear (fruit), bl…
+k	맽기다	maetgida	
+e	1 maccabees	maccabees	1 meaning
+e	macadamia	macadamia	1 meaning
+e	macarthur	macarthur	1 meaning
+e	maccabees	maccabees	1 meaning
+e	macchiato	macchiato	1 meaning
+e	macdonald	macdonald	1 meaning
+e	macedonia	macedonia	3 meanings
+e	macerator	macerator	1 meaning
+e	machmeter	machmeter	1 meaning
+e	macintosh	macintosh	1 meaning
+e	macrocosm	macrocosm	1 meaning
+e	madeleine	madeleine	1 meaning
+e	maelstrom	maelstrom	2 meanings
+e	mafaldine	mafaldine	1 meaning
+e	magdeburg	magdeburg	1 meaning
+e	magic wand	magicwand	1 meaning
+e	magic word	magicword	1 meaning
+e	magnesium	magnesium	1 meaning
+e	magnetism	magnetism	1 meaning
+e	magnitude	magnitude	5 meanings
+e	mail order	mailorder	1 meaning
+e	mailplane	mailplane	1 meaning
+e	maine coon	mainecoon	1 meaning
+e	mainframe	mainframe	1 meaning
+e	mainshock	mainshock	1 meaning
+e	major axis	majoraxis	1 meaning
+e	make a move	makeamove	1 meaning
+e	make fun of	makefunof	1 meaning
+e	make haste	makehaste	1 meaning
+e	make money	makemoney	1 meaning
+e	make sense	makesense	2 meanings
+e	make-koshi	makekoshi	1 meaning
+e	makeshift	makeshift	1 meaning
+e	makgeolli	makgeolli	1 meaning
+e	makizushi	makizushi	1 meaning
+e	mako shark	makoshark	1 meaning
+e	malachite	malachite	1 meaning
+e	malayalam	malayalam	1 meaning
+e	malaysian	malaysian	1 meaning
+e	malformed	malformed	1 meaning
+e	malic acid	malicacid	1 meaning
+e	malicious	malicious	1 meaning
+e	malignant	malignant	1 meaning
+e	malleolus	malleolus	1 meaning
+e	man'yōgana	manyogana	1 meaning
+e	manchukuo	manchukuo	1 meaning
+e	manchuria	manchuria	1 meaning
+e	mandatory	mandatory	1 meaning
+e	maned wolf	manedwolf	1 meaning
+e	mangaluru	mangaluru	1 meaning
+e	manganese	manganese	1 meaning
+e	manganite	manganite	1 meaning
+e	manhattan	manhattan	1 meaning
+e	manhuajia	manhuajia	1 meaning
+e	manifesto	manifesto	1 meaning
+e	mannequin	mannequin	2 meanings
+e	manometer	manometer	1 meaning
+e	manticore	manticore	1 meaning
+e	manzhouli	manzhouli	1 meaning
+e	map lichen	maplichen	1 meaning
+e	mapo doufu	mapodoufu	1 meaning
+e	maracanaço	maracanao	1 meaning
+e	marcassin	marcassin	1 meaning
+e	mare's milk	maresmilk	1 meaning
+e	margarine	margarine	1 meaning
+e	margarita	margarita	1 meaning
+e	marijuana	marijuana	1 meaning
+e	marinette	marinette	1 meaning
+e	maritozzo	maritozzo	1 meaning
+e	marker pen	markerpen	1 meaning
+e	marketing	marketing	1 meaning
+e	markstone	markstone	1 meaning
+e	marmalade	marmalade	1 meaning
+e	marquetry	marquetry	1 meaning
+e	marrakech	marrakech	1 meaning
+e	marseille	marseille	1 meaning
+e	marsupial	marsupial	1 meaning
+e	martyrdom	martyrdom	1 meaning
+e	marvelous	marvelous	1 meaning
+e	masculine	masculine	5 meanings
+e	masculism	masculism	1 meaning
+e	mashallah	mashallah	1 meaning
+e	masochism	masochism	1 meaning
+e	masochist	masochist	1 meaning
+e	mass grave	massgrave	1 meaning
+e	mass media	massmedia	1 meaning
+e	mass start	massstart	1 meaning
+e	master key	masterkey	1 meaning
+e	matchless	matchless	1 meaning
+e	matchmake	matchmake	1 meaning
+e	matriarch	matriarch	1 meaning
+e	matsumoto	matsumoto	1 meaning
+e	matsutake	matsutake	1 meaning
+e	matsuyama	matsuyama	1 meaning
+e	mauritius	mauritius	1 meaning
+e	mausoleum	mausoleum	1 meaning
+e	mayflower	mayflower	1 meaning
+j	まいねずみ	mainezumi	中国原産のはつかねずみの変種。体は白色で、先天的に…
+j	まいもどる	maimodoru	(転々と移動した後) もとの場所に戻る。
+j	まえかがみ	maekagami	bending forwards
+j	まえこごみ	maekogomi	「まえかがみ」に同じ。
+j	まえだおし	maedaoshi	日程をそれまでの予定より早めること。
+j	まえのめり	maenomeri	leaning forwards, almost …
+j	まがいもの	magaimono	imitation; fake; sham
+j	まがもいろ	magamoiro	鴨の羽色。
+j	まきあげる	makiageru	巻いて上に上げる。
+j	まきおこす	makiokosu	風が巻くように吹き上がる。
+j	まきおこる	makiokoru	渦を巻くように上方に上る。
+j	まきかえす	makikaesu	巻いて元に戻す。
+j	まきがまえ	makigamae	漢字の部首「⼌」が構えであるときの呼称。
+j	まきずし	makizushi	酢飯と具を海苔などで巻いたすし。
+j	まきつく	makitsuku	巻くようにしてものに絡まり付く。
+j	まくのうち	makunochi	芝居幕（演技）と幕の合間。幕間。
+j	まくわうり	makuwauri	ウリ科キュウリ属のつる性一年草。果実は縞のある楕円…
+j	まぐさ桶	magusaoke	
+j	まぐろどん	magurodon	丼に白飯を入れ、まぐろの切り身とわさび、海苔を載せ…
+j	まけいくさ	makeikusa	戦いに負けること。また、負けた戦い。負けて当然の戦…
+j	まけこし	makekoshi	「まけこす」の連用形。
+j	まごつく	magotsuku	どうして良いか分からず迷う。
+j	まさかつ	masakatsu	正勝: a male given name
+j	まさしく	masashiku	certainly, surely, undoub…
+j	まさつぐ	masatsugu	真, 正次, 正継, 昌次, 雅継, 将嗣, 政嗣…
+j	まさとし	masatoshi	将俊, 昌利, 正利, 雅俊, 正年, 全敏, 正…
+j	まさみつ	masamitsu	将光: a male given name
+j	まさよし	masayoshi	正義, 方禧, 政良, 政義, 正幸, 雅由, 正…
+j	ましぐら	mashigura	猛烈な勢いで突き進むさま。まっしぐら。
+j	ましてや	mashiteya	
+j	まします	mashimasu	（古風、ときに諧謔的）いらっしゃる。
+j	まじ卍	majimanji	cool, awesome, wicked, wi…
+j	ますいやく	masuiyaku	麻酔薬: anesthetic
+j	ますずし	masuzushi	鱒を使った発酵させずに酢で味付けしたおしずし並びに…
+j	ますみつ	masumitsu	益光: a male given name
+j	まずしさ	mazushisa	貧しいこと。その度合い。
+j	まぜかえす	mazekaesu	何回もかき混ぜる。
+j	またいとこ	mataitoko	second cousin (grandnephe…
+j	またがし	matagashi	現在自分が借りている物をさらに他人に貸し出すこと。
+j	またとない	matatonai	unique, matchless, unpara…
+j	また今度	matakondo	
+j	また後で	mataatode	
+j	まだしも	madashimo	
+j	まだるこい	madarukoi	まだるっこいに同じ。
+j	まちかど	machikado	市街をとおる道路の角。
+j	まちなか	machinaka	商店や住宅が集まっている地域。市街。
+j	まちなみ	machinami	町に人家が並んでいる様子。また、その家々。
+j	まちばり	machibari	糸を通す穴がなく、小さな玉などが付いた針。小町針。
+j	まちぶせ	machibuse	不意を襲ったり驚かしたりするために隠れて待つこと。
+j	まちぼうけ	machiboke	being stood up
+j	まっさかり	massakari	ちょうど今が盛りの時期であること。また、そのような…
+j	まっすぐな	massuguna	
+j	まっぱだか	mappadaka	何も身に着けていないこと。全裸。
+j	まつかさ	matsukasa	松笠: pinecone
+j	まつかぜ	matsukaze	松を吹く風。
+j	まつかわ	matsukawa	松の樹皮。
+j	まつくぼ	matsukubo	松久保: a surname
+j	まつざわ	matsuzawa	松沢, 松澤: a surname
+j	まつたけ	matsutake	ハラタケ目キンシメジ属に属するきのこの一種。学名:…
+j	まつばら	matsubara	松原: a surname
+j	まつぶさ	matsubusa	松房: a species of climbing…
+j	まつむら	matsumura	松村: a surname
+j	まつもと	matsumoto	松本: a surname
+j	まつやに	matsuyani	松脂: pine resin
+j	まつやま	matsuyama	松山: a surname
+j	まつわる	matsuwaru	絡みつく。
+j	までもない	mademonai	it is unnecessary to; the…
+j	まどあかり	madoakari	窓から入る光。
+j	まどぐち	madoguchi	事務室の一部を仕切り、直接外来者と応対して金銭や書…
+j	まどろこい	madorokoi	synonym of まどろい
+j	まなざし	manazashi	a gaze, look
+j	まなつび	manatsubi	最高気温が30℃以上の日。
+j	まにあわせ	maniawase	代用品などで急場をしのぐこと。また、その物。
+j	まのあたり	manoatari	the immediate area in fro…
+j	まひがし	mahigashi	ちょうど東の方向。
+j	まひ状態	mahijotei	
+j	まびさし	mabisashi	兜の鉢の正面前方にある庇のように額を覆う部分。
+j	まぶだち	mabudachi	true friend; real one
+j	まぼろし	maboroshi	実体がないのに実在するように見えること。幻影。ファ…
+j	まめつぶ	mametsubu	豆の粒。
+j	まやかし	mayakashi	「まやかす」の連用形。
+j	まよいこむ	mayoikomu	to become hopelessly lost…
+j	まりねっと	marinetto	
+j	まるきこえ	marukikoe	すっかり聞こえること。
+j	まるごし	marugoshi	武士が刀を持っていないこと。
+j	まるだし	marudashi	すべて出すこと。隠していたものなどをさらけ出すこと。
+j	まるっきり	marukkiri	（下に打ち消しの語を伴い）全然。まったく。まるきり。
+j	まるつけ	marutsuke	grading answers
+j	まるもち	marumochi	搗き立ての餅を丸く整えたもの。
+j	まんいちろう	manichiro	万一郎: a male given name
+j	まんがいち	mangaichi	
+j	まんこする	mankosuru	
+j	まんどころ	mandokoro	政務を取り扱う所。政庁。
+j	マイクロ波	maikuroha	a microwave
+j	マイナカード	mainakado	マイナンバーカード。
+j	マイナーコード	mainakodo	短音階での和音。
+j	マイノリティ	mainoriti	少数。少数派。
+j	マイノリティー	mainoriti	minority
+j	マイヨ・ジョーヌ	maiyojonu	
+j	マインスイーパー	mainsuipa	
+j	マウスピース	mausupisu	a part of a brass instrum…
+j	マエストロ	maesutoro	maestro
+j	マカッサル	makassaru	
+j	マキシム	makishimu	金言。格言。
+j	マクワウリ	makuwauri	
+j	マグカップ	magukappu	a mug (large cup)
+j	マグネット	magunetto	磁石（特に、冷蔵庫などに貼り付けて使う小型のもの）。
+j	マグライト	maguraito	Maglite
+j	マケドニア	makedonia	Macedonia (a geographic r…
+j	マシナリー	mashinari	機械、機械装置。
+j	マシマロ	mashimaro	
+j	マシュハド	mashuhado	
+j	マシュマロ	mashumaro	marshmallow (confectioner…
+j	マシュリク	mashuriku	アラブ諸国の東側の地域で、主にエジプトを指し、中東…
+j	マシンガン	mashingan	synonym of 機関銃 (kikanjū, …
+j	マジックアイ	majikkuai	
+j	マジャル人	majarujin	ハンガリーの主要民族。ウラル人の一派。
+j	マジャール人	majarujin	「マジャル人」の別表記。
+j	マジ卍	majimanji	「まじ卍」の異表記。
+j	マスをかく	masuokaku	to masturbate
+j	マスカット	masukatto	Muscat (the capital of Om…
+j	マスキング	masukingu	遮蔽すること。
+j	マスケット	masuketto	
+j	マスコット	masukotto	a mascot
+j	マスジッド	masujiddo	モスク。マスジド。
+j	マスタング	masutangu	a mustang (horse)
+j	マスチフ	masuchifu	mastiff
+j	マストドン	masutodon	ゾウ目（長鼻目）マムート科 に分類される絶滅哺乳類…
+j	マストバイ	masutobai	must-buy product
+j	マスメディア	masumedia	mass media
+j	マゼラン雲	mazeranun	南天にある大マゼラン雲と小マゼラン雲の2つの銀河の…
+j	マタンサス	matansasu	
+j	マチュリテ	machurite	スイスの高校卒業及び大学入学資格。また、その試験。
+j	マッコルリ	makkoruri	
+j	マッチング	matchingu	matching
+j	マットレス	mattoresu	mattress (a pad on which …
+j	マツカワ	matsukawa	カレイ目カレイ科マツカワ属に属する魚の一種。学名:…
+j	マテリアル	materiaru	原料。材料。
+j	マドゥラ人	madorajin	インドネシア・マドゥラ島の主要民族。オーストロネシ…
+j	マドリッド	madoriddo	Madrid (a small town in H…
+j	マニラ麻	maniraasa	
+j	マネタイズ	manetaizu	monetization
+j	マホメット	mahometto	
+j	ママチャリ	mamachari	a women's city bicycle, a…
+j	マライシア	maraishia	
+j	マラキ書	marakisho	
+j	マラケシ	marakeshi	
+j	マラケシュ	marakeshu	
+j	マラーケシュ	marakeshu	
+j	マリア・ローザ	mariaroza	
+j	マリウポリ	mariupori	Mariupol (a city in Donet…
+j	マリネット	marinetto	
+j	マリンドゥケ	marindoke	
+j	マルキョク	marukyoku	パラオの首都。
+j	マルケ州	marukeshu	
+j	マルセイユ	maruseiyu	Marseille (the capital ci…
+j	マルタ人	marutajin	
+j	マルチーズ	maruchizu	a Maltese (breed of dog)
+j	マルモット	marumotto	a marmot
+j	マレフィック	marefikku	
+j	マレー諸島	mareshoto	太平洋の西部、東南アジア島嶼部の赤道付近に連なる諸…
+j	マンガロール	mangaroru	
+j	マングローブ	mangurobu	mangrove
+j	マンゴージュース	mangojusu	
+j	マンツーマン	mantsuman	man-to-man, one-to-one
+j	マントヒヒ	mantohihi	「マント狒狒」の学術的表記。
+j	マント狒狒	mantohihi	オナガザル科の哺乳類。アラビアから北アフリカにかけ…
+j	マンドリル	mandoriru	a mandrill
+j	マンネライン	mannerain	maknae line (younger memb…
+j	マンネリ化	mannerika	becoming routine and dull
+j	マンハッタン	manhattan	Manhattan (a borough and …
+j	マンモス校	manmosuko	児童数・生徒数が多く大規模な学校。
+j	マーガレット	magaretto	marguerite
+j	マークシート	makushito	bubble sheet; OMR sheet; …
+j	マーケットイン	makettoin	市場の需要を基本に事業活動を展開すること。
+j	マーケティング	maketingu	marketing
+j	マーシャル語	masharugo	マーシャル諸島で話されている、オーストロネシア語族…
+j	マーシャーアッラー	mashaarra	mashallah
+j	マーモセット	mamosetto	marmoset
+j	マーレーコッド	marekoddo	
+j	万が一	mangaichi	by any chance, just in ca…
+j	万一郎	manichiro	a male given name
+j	万年青	mannensei	「おもと」の漢名。
+j	万葉仮名	manyogana	man'yōgana (the early Jap…
+j	丸っ切り	marukkiri	completely, perfectly
+j	丸出し	marudashi	complete exposure; uncove…
+j	丸太ん棒	marutanbo	樹皮を剥いだままで加工されていない断面が丸い木材。…
+j	丸括弧	marukakko	a parenthesis; a bracket …
+j	丸腰	marugoshi	unarmed; unequipped
+j	先ず以て	mazumotte	
+j	全うする	mattosuru	
+j	全敏	masatoshi	a male given name
+j	前倒し	maedaoshi	acceleration of a plan
+j	前売り券	maeuriken	ticket sold in advance; p…
+j	前泊	maedomari	a surname
+j	参らする	mairasuru	adnominal of 参らす (mawiras…
+j	参らせる	mairaseru	
+j	又貸し	matagashi	subletting, sublease
+j	埋葬する	maisosuru	
+j	増し刷り	mashizuri	
+j	増嶋	masushima	a surname
+j	増渕	masubuchi	a surname
+j	孫弟子	magodeshi	弟子が師匠になった場合において、更にその弟子のこと。
+j	孫衛星	magoeisei	衛星の周囲を公転する天体。
+j	完うする	mattosuru	
+j	将俊	masatoshi	a male given name
+j	将光	masamitsu	a male given name
+j	将利	masatoshi	a male given name
+j	将次	masatsugu	a male given name
+j	将至	masayoshi	a male given name
+j	巻き寿司	makizushi	makizushi (sushi made rol…
+j	巻き直す	makinaosu	
+j	巻き起こす	makiokosu	to create; to stir up (de…
+j	巻き返す	makikaesu	regain one's strength
+j	幕下	makushita	The third-highest divisio…
+j	幕串	makugushi	A curtain hanger: a post …
+j	幻	maboroshi	an illusion, a phantom, a…
+j	待ち伏せ	machibuse	ambush (a disposition or …
+j	待ち針	machibari	pin for securing items to…
+j	待つこと	matsukoto	
+j	愛弟子	manadeshi	a favorite pupil or disci…
+j	慢性病	manseibyo	chronic disease
+j	摩擦音	masatsuon	a fricative
+j	摩訶薩埵	makasatta	synonym of 摩訶薩 (makasatsu…
+j	撒菱	makibishi	a caltrop; more specifica…
+j	政俊	masatoshi	a male given name
+j	政嗣	masatsugu	a male given name
+j	政敏	masatoshi	a male given name
+j	政義	masayoshi	a male given name
+j	政聡	masatoshi	a male given name
+j	政良	masayoshi	a male given name
+j	方禧	masayoshi	a male given name
+j	方義	masayoshi	a male given name
+j	昌俊	masatoshi	a male given name
+j	昌利	masatoshi	a male given name
+j	昌次	masatsugu	a male given name
+j	昌義	masayoshi	a male given name
+j	曲げやすい	mageyasui	
+j	曼荼羅花	mandarake	白色で芳香がある天界の花で、その花を見た者を楽しま…
+j	松中	matsunaka	a surname
+j	松久保	matsukubo	a surname
+j	松元	matsumoto	a surname
+j	松原	matsubara	Matsubara (a city in Osak…
+j	松坂	matsusaka	a surname
+j	松山	matsuyama	Matsuyama (the capital ci…
+j	松崎	matsuzaki	a surname
+j	松川	matsukawa	a surname
+j	松広	matsuhiro	a surname
+j	松房	matsubusa	Schisandra repanda, a spe…
+j	松月	matsuzuki	a surname
+j	松本	matsumoto	Matsumoto (a city in Naga…
+j	松村	matsumura	a surname
+j	松森	matsumori	a surname
+j	松比良	matsuhira	a surname
+j	松毬	matsukasa	
+j	松永	matsunaga	a surname
+j	松沢	matsuzawa	a surname
+j	松沼	matsunuma	a surname
+j	松波	matsunami	a surname
+j	松盛	matsumori	a surname
+j	松笠	matsukasa	pinecone
+j	松脂	matsuyani	pine resin
+j	松茸	matsutake	matsutake, Tricholoma mat…
+j	松谷	matsutani	a surname
+j	松長	matsunaga	a surname
+j	松阪	matsusaka	Matsusaka (a city in Mie …
+j	松風	matsukaze	wind blowing through pine…
+j	正俊	masatoshi	a male given name
+j	正充	masamitsu	a male given name
+j	正光	masamitsu	a male given name
+j	正克	masakatsu	a male given name
+j	正利	masatoshi	a male given name
+j	正吉	masayoshi	a male given name
+j	正年	masatoshi	a male given name
+j	正幸	masayoshi	a male given name
+j	正敏	masatoshi	a male given name
+j	正継	masatsugu	a male given name
+j	正芳	masayoshi	a male given name
+j	況してや	mashiteya	
+j	混ぜ御飯	mazegohan	炊いた御飯に別に調理した野菜や肉、魚介類などの具を…
+j	満室	manshitsu	いくつかある部屋がすべて使用され空きがないこと。
+j	満州人	manshujin	Manchu (person, people)
+j	満年齢	mannenrei	年齢の数え方の一つ。誕生日から一年間は月数とし、以…
+j	満洲人	manshujin	満州人の別表記。
+j	満足度	manzokudo	degree of satisfaction
+j	満遍無い	manbennai	thorough; not omitting an…
+j	漫才師	manzaishi	person who performs manza…
+j	漫画肉	manganiku	"comics meat", a cut of m…
+j	牧月	makitsuki	
+j	町並み	machinami	townscape, the look of a …
+j	町中	machinaka	downtown
+j	町医者	machiisha	江戸時代、幕府などに仕えず市中で開業していた医者。
+j	町道場	machidojo	a town dojo
+j	的串	matogushi	wooden target holder
+j	益光	masumitsu	a male given name
+j	眉唾	mayutsuba	questionable story, dubio…
+j	真っ昼間	mappiruma	high noon
+j	真っ暗な	makkurana	
+j	真っ最中	massaichu	midst; middle of
+j	真っ正面	masshomen	synonym of 真正面 (mashōmen)
+j	真っ白い	masshiroi	completely white
+j	真っ盛り	massakari	prime; peak
+j	真っ裸	mappadaka	stark naked
+j	真っ黒け	makkuroke	pitch-black; completely b…
+j	真に受ける	maniukeru	to take seriously, to bel…
+j	真二つ	mafutatsu	
+j	真四角	mashikaku	完全に四角（正方形）であるさま。
+j	真夏日	manatsubi	"tropical day": a day on …
+j	真桑瓜	makuwauri	Oriental melon, a cultiva…
+j	真逆な	magyakuna	
+j	真逆の	magyakuno	
+j	禍津日	magatsuhi	
+j	窓口	madoguchi	window, counter (an area …
+j	窓関数	madokansu	スペクトルリーケージを抑制するために時間領域で元信…
+j	紛い物	magaimono	
+j	纏わる	matsuwaru	be connected, be related …
+j	股下	matashita	
+j	舞い落ちる	maiochiru	to fall as if dancing; to…
+j	舞子鳥	maikodori	
+j	茅台酒	maotaichu	Moutai (beverage)
+j	茉莉花	matsurika	Arabian jasmine (Jasminum…
+j	蔓延する	manensuru	
+j	蔓荊子	mankeishi	fruit of Vitex rotundifol…
+j	街角	machikado	a street corner
+j	豆いじり	mameijiri	
+j	豆台風	mametaifu	勢力の割に小型の台風。
+j	豆油	mameabura	soybean oil
+j	豆鉄砲	mameteppo	実弾の代わりに大豆を入れたおもちゃの鉄砲。
+j	負け越し	makekoshi	
+j	間誤付く	magotsuku	be baffled, be perplexed,…
+j	雅俊	masatoshi	a male given name
+j	雅慎	masamitsu	a male given name
+j	雅敏	masatoshi	a male given name
+j	雅由	masayoshi	a male given name
+j	雅稔	masatoshi	a male given name
+j	魔法少女	mahoshojo	magical girl (a girl or y…
+j	麻冠	makanmuri	漢字の部首「⼴」が冠であるときの呼称。
+j	麻薬犬	mayakuken	drug dog, dope dog
+j	麻酔薬	masuiyaku	anesthetic, anaesthetic
+k	마갈궁	magalgung	Capricorn
+k	마감하다	magamhada	
+k	마나과 호	managwaho	
+k	마니푸르	manipureu	
+k	마당굿	madanggut	
+k	마당발	madangbal	
+k	마드라사	madeurasa	
+k	마들렌	madeullen	
+k	마땅히	mattanghi	무엇이 주어진 상황에 꼭 알맞아서.
+k	마라냥	maranyang	
+k	마라카스	marakaseu	
+k	마라토너	maratoneo	
+k	마렵다	maryeopda	to feel like pooping or u…
+k	마루뼈	maruppyeo	두개골을 이루는 뼈 중 정수리와 귀 위 양 측…
+k	마르세유	mareuseyu	
+k	마른 눈	mareunnun	습기가 적어 뭉쳐지지 않고 가루로 내리는 눈.
+k	마른풀	mareunpul	
+k	마름쇠	mareumsoe	
+k	마름질	mareumjil	
+k	마리화나	marihwana	marijuana
+k	마리후아나	marihuana	marijuana
+k	마린두케	marinduke	
+k	마모되다	mamodoeda	
+k	마무르다	mamureuda	to finish off; to give th…
+k	마방진	mabangjin	
+k	마비되다	mabidoeda	
+k	마비성	mabiseong	
+k	마상재	masangjae	
+k	마스카라	maseukara	mascara (eyelash cosmetic)
+k	마시멜로	masimello	
+k	마시쿨리	masikulli	
+k	마실 가다	masilgada	to go to town
+k	마실 것	masilgeot	
+k	마애조각	maaejogak	
+k	마약상	mayaksang	
+k	마여름	mayeoreum	'늦여름'의 북한말.
+k	마요네즈	mayonejeu	mayonnaise
+k	마요르카	mayoreuka	
+k	마음좋다	maeumjota	
+k	마이너스	maineoseu	minus
+k	마일 매 시	mailmaesi	
+k	마저럼	majeoreom	
+k	마적단	majeokdan	
+k	마조르카	majoreuka	
+k	마주르카	majureuka	
+k	마주잡기	majujapgi	(레슬링) 상대를 잡는 손 기술을 이르는 북한…
+k	마주치다	majuchida	to meet, to run into
+k	마직물	majingmul	
+k	마쯔에 시	majjeuesi	일본 시마네 현의 현청 '마쓰에 시'의 북한말.
+k	마찰음	machareum	fricative
+k	마천루	macheollu	skyscraper
+k	마취과	machwigwa	
+k	마취약	machwiyak	anaesthetic
+k	마취학	machwihak	마취에 대하여 연구하는 학문
+k	마침내	machimnae	finally; in the end.
+k	마침표	machimpyo	period; full stop
+k	마카다미아	makadamia	
+k	마카베오기	makabeogi	
+k	마카사르	makasareu	
+k	마케도니아	makedonia	Macedonia (a geographic r…
+k	마크롱	makeurong	a transliteration of the …
+k	마크하다	makeuhada	
+k	마키즈시	makijeusi	
+k	마킹펜	makingpen	
+k	마팔디네	mapaldine	mafaldine
+k	마피아 게임	mapiageim	
+k	마호르카	mahoreuka	
+k	마흔한	maheunhan	
+k	막걸리	makgeolli	makgeolli (makkoli), a tr…
+k	막다른	makdareun	'막다르다'의 관형사형.
+k	막머리	mangmeori	'까까머리'의 북한말.
+k	막일꾼	magilkkun	
+k	막찍기	makjjikgi	고래고기를 막 썰어 막장, 초장, 고추장, 기…
+k	만돌린	mandollin	서양 탄현 악기의 하나. 몸통은 달걀을 세로로…
+k	만들다	mandeulda	to make
+k	만무방	manmubang	염치가 없이 막된 사람.
+k	만무하다	manmuhada	
+k	만병	manbyeong	all kinds of sicknesses
+k	만부당	manbudang	
+k	만선기	manseongi	
+k	만연히	manyeonhi	어떤 목적이 없이 되는대로 하는 태도가 있게.
+k	만요가나	manyogana	
+k	만유하다	manyuhada	to be omnipresent
+k	만작이다	manjagida	
+k	만저우리	manjeouri	
+k	만조선	manjoseon	
+k	만조하다	manjohada	얼굴이나 모습이 초라하고 잔망하다.
+k	만족감	manjokgam	
+k	만주어의	manjueoui	
+k	만주인의	manjuinui	
+k	만티코어	mantikoeo	
+k	만평	manpyeong	
+k	만회골	manhoegol	
+k	많관부	mankwanbu	
+k	맏형	mathyeong	the eldest brother
+k	말경	malgyeong	
+k	말곡식	malgoksik	
+k	말단직	maldanjik	
+k	말대꾸	maldaekku	backtalk, retort, sass, t…
+k	말레이시아	malleisia	Malaysia (a country in As…
+k	말미암다	malmiamda	to be engendered; to be c…
+k	말소하다	malsohada	
+k	말솜씨	malsomssi	one's way of speaking; el…
+k	말썽	malsseong	일을 들추어내어 트집이나 문젯거리를 일으키는 …
+k	말씬히	malssinhi	
+k	말이 아니다	marianida	to be unreasonable; to be…
+k	말토오스	maltooseu	
+k	맘마통	mammatong	large breasts (of a woman)
+k	맛있는	masinneun	
+k	망구순	manggusun	
+k	망국사	mangguksa	
+k	망년	mangnyeon	
+k	망시민	mangsimin	netizen
+k	망정	mangjeong	(주로 어미 '-기에', '-니', '-니까'…
+k	망제혼	mangjehon	
+k	망치다	mangchida	to spoil; to ruin
+k	망태기	mangtaegi	net/mesh bag
+k	망향	manghyang	nostalgia; missing or thi…
+k	망혼일	manghonil	
+k	맞게 하다	matgehada	
+k	맞모금	matmogeum	
+k	맞옮기다	madomgida	본디 글의 말을 맞대어 다른 말로 옮기다.
+k	매개물	maegaemul	
+k	매구럭	maegureok	
+k	매국노	maegungno	traitor (one who violates…
+k	매김씨	maegimssi	'관형사'.
+k	매뉴얼	maenyueol	
+k	매니토바	maenitoba	[~주(州)] Manitoba (a provi…
+k	매다루다	maedaruda	
+k	매도하다	maedohada	to sell
+k	매디슨	maediseun	
+k	매매혼	maemaehon	
+k	매머드	maemeodeu	mammoth
+k	매부리코	maeburiko	
+k	매상고	maesanggo	판매액.
+k	매섭다	maeseopda	sharp, acute
+k	매수하다	maesuhada	
+k	매염제	maeyeomje	
+k	매옴하다	maeomhada	
+k	매욱하다	maeukhada	
+k	매움하다	maeumhada	
+k	매음굴	maeeumgul	brothel (house of prostit…
+k	매인당	maeindang	
+k	매입장	maeipjang	
+k	매입하다	maeiphada	
+k	매자나무	maejanamu	A barberry plant, particu…
+k	매장지	maejangji	
+k	매직펜	maejikpen	
+k	매춘부	maechunbu	prostitute, hooker, call …
+k	매춘소	maechunso	
+k	매표원	maepyowon	
+k	매형	maehyeong	자기 누나의 남편. (부록: 가족과 친척)
+k	맥각소	maekgakso	
+k	맥농	maengnong	
+k	맥랑	maengnang	
+k	맥망	maengmang	보리, 밀 따위의 까끄라기.
+k	맥아당	maegadang	
+k	맥주잔	maekjujan	
+k	맥킨리	maekkilli	
+k	맥파계	maekpagye	
+k	맥황	maekhwang	
+k	맨땅	maenttang	bare ground
+k	맨발로	maenballo	
+k	맨발의	maenbarui	
+k	맨션	maensyeon	condominium
+k	맴돌다	maemdolda	to circle, encircle
+k	맷맷이	maenmaesi	
+k	맹공	maenggong	
+k	맹용	maengyong	굳세고 용감함.
+k	맹장	maengjang	
+k	맹점	maengjeom	blind spot
+k	맹종	maengjong	
+e	maastricht	maastricht	1 meaning
+e	macedonian	macedonian	3 meanings
+e	mach number	machnumber	1 meaning
+e	machine gun	machinegun	1 meaning
+e	mackintosh	mackintosh	1 meaning
+e	macroblock	macroblock	1 meaning
+e	macrophage	macrophage	1 meaning
+e	macuahuitl	macuahuitl	1 meaning
+e	madagascar	madagascar	1 meaning
+e	magistrate	magistrate	1 meaning
+e	magna carta	magnacarta	1 meaning
+e	magnum opus	magnumopus	2 meanings
+e	magpie-lark	magpielark	1 meaning
+e	mahasattva	mahasattva	1 meaning
+e	mahāmāyūrī	mahamayuri	1 meaning
+e	maiden name	maidenname	1 meaning
+e	maidenhair	maidenhair	1 meaning
+e	main clause	mainclause	1 meaning
+e	main course	maincourse	1 meaning
+e	mainlander	mainlander	1 meaning
+e	mainspring	mainspring	1 meaning
+e	mainstream	mainstream	2 meanings
+e	major scale	majorscale	1 meaning
+e	major third	majorthird	1 meaning
+e	make the bed	makethebed	1 meaning
+e	maknae line	maknaeline	1 meaning
+e	malacology	malacology	1 meaning
+e	malefactor	malefactor	1 meaning
+e	malevolent	malevolent	2 meanings
+e	mamoncillo	mamoncillo	1 meaning
+e	man of steel	manofsteel	1 meaning
+e	management	management	1 meaning
+e	managerial	managerial	1 meaning
+e	manchester	manchester	1 meaning
+e	mango juice	mangojuice	1 meaning
+e	mangosteen	mangosteen	1 meaning
+e	manipulate	manipulate	1 meaning
+e	manosphere	manosphere	1 meaning
+e	manuscript	manuscript	3 meanings
+e	many thanks	manythanks	1 meaning
+e	maple sugar	maplesugar	1 meaning
+e	maple syrup	maplesyrup	1 meaning
+e	mapudungun	mapudungun	1 meaning
+e	marathoner	marathoner	1 meaning
+e	marble cake	marblecake	1 meaning
+e	mares' tails	marestails	1 meaning
+e	marijampolė	marijampol	1 meaning
+e	marinduque	marinduque	2 meanings
+e	marionette	marionette	1 meaning
+e	marquisate	marquisate	1 meaning
+e	marron glacé	marronglac	1 meaning
+e	marshrutka	marshrutka	1 meaning
+e	martial art	martialart	1 meaning
+e	martial law	martiallaw	1 meaning
+e	martingale	martingale	1 meaning
+e	martinican	martinican	1 meaning
+e	martinique	martinique	1 meaning
+e	masala chai	masalachai	1 meaning
+e	mascarpone	mascarpone	1 meaning
+e	masquerade	masquerade	2 meanings
+e	mass murder	massmurder	1 meaning
+e	mass number	massnumber	1 meaning
+e	mastectomy	mastectomy	1 meaning
+e	mastercard	mastercard	1 meaning
+e	mastermind	mastermind	1 meaning
+e	masturbate	masturbate	1 meaning
+e	match point	matchpoint	1 meaning
+e	matchmaker	matchmaker	1 meaning
+e	matchstick	matchstick	1 meaning
+e	mato grosso	matogrosso	1 meaning
+e	matriarchy	matriarchy	1 meaning
+e	matterhorn	matterhorn	1 meaning
+e	maturation	maturation	1 meaning
+e	mauritania	mauritania	1 meaning
+e	mayonnaise	mayonnaise	1 meaning
+e	mazandaran	mazandaran	1 meaning
+j	まえがしら	maegashira	相撲における幕内力士の階級で横綱と三役を除いたもの…
+j	まえつづり	maetsuzuri	ドイツ語で、動詞の前に付ける接頭辞。
+j	まかりとおる	makaritoru	まかり通る, 罷り通る: let go uncha…
+j	まかり通る	makaritoru	to go unchallenged
+j	まがりかど	magarikado	道路や廊下、通路などが折れ曲がっている場所。
+j	まきかえし	makikaeshi	「まきかえす」の連用形。
+j	まきたばこ	makitabako	細く固く巻いて棒状にしたたばこ。葉巻煙草と紙巻煙草…
+j	まくらなげ	makuranage	枕投げ: pillow fight
+j	まくらもと	makuramoto	寝ている枕のそば。
+j	まぐろおんな	maguroonna	dead fish, a woman who li…
+j	まけおしみ	makeoshimi	敗北してもそれを悔しく思い、敗北を認めなかったり、…
+j	まごむすこ	magomusuko	孫息子: grandson (son of one…
+j	まごむすめ	magomusume	孫娘: granddaughter (daught…
+j	まさつち	masatsuchi	やわらかい表土の下にあるかたい土。
+j	ましまし	mashimashi	大量に入っている様子（「マシマシ」と書くことも多い…
+j	まじりもの	majirimono	
+j	ますおとし	masuotoshi	ふせた升を棒で支え、その下に餌を置き、鼠が触れると…
+j	まぜっかえす	mazekkaesu	
+j	またたくま	matatakuma	極めて短い時間。
+j	まだらうし	madaraushi	体毛が斑模様になっている牛。
+j	まだらねこ	madaraneko	さまざまに入り混じった毛色のネコ。
+j	まだるっこい	madarukkoi	言動が遅かったり、回りくどかったりしていらいらする…
+j	まちあかり	machiakari	街明かり: the lights of a dis…
+j	まちあわせ	machiawase	「まちあわせる」の未然形、連用形。
+j	まちうける	machiukeru	期待しながら待つ。準備して待つ。待ち構える。
+j	まちがえる	machigaeru	やりそこなう。失敗する。まちがう。
+j	まちまち	machimachi	different from one another
+j	まっかん蟹	makkangani	coconut crab
+j	まっしぐら	masshigura	at full speed, full speed…
+j	まっしろけ	masshiroke	very white
+j	まったなし	mattanashi	"now or never!", "time's …
+j	まっぷたつ	mapputatsu	ちょうど半分ぐらいにする。また、半分ぐらいになる。
+j	まつした	matsushita	松下: a surname
+j	まつのうち	matsunochi	正月の松飾りのある期間。一般に元日から1月7日まで…
+j	まつばいろ	matsubairo	成長した松の葉のような深緑。松葉。
+j	まつばづえ	matsubazue	足に大きな負傷をしたり、足が不自由な人が脇の下に挟…
+j	まつむし	matsumushi	【マツムシ、松虫】バッタ目コオロギ科の昆虫の一種。…
+j	まといつく	matoitsuku	絡み付く。纏わり付く。
+j	まとはずれ	matohazure	要点から外れていること。
+j	まとめがみ	matomegami	updo (hair style)
+j	まどろっこい	madorokkoi	言動が遅かったり、回りくどかったりしていらいらする…
+j	まどガラス	madogarasu	window glass; plate glass
+j	まながつお	managatsuo	スズキ目マナガツオ科に属する魚の総称。
+j	まぬかれる	manukareru	好ましくないことに出会わずに済む。
+j	まぬがれる	manugareru	まぬかれるに同じ。
+j	まねきねこ	manekineko	前足で人を招く姿をした猫の置物。
+j	ままちち	mamachichi	実母の後夫。
+j	ままむすこ	mamamusuko	血の繋がりのない息子。
+j	ままむすめ	mamamusume	血の繋がりのない娘。
+j	まもりがみ	mamorigami	ある物を守護する神。守護神。
+j	まもりふだ	mamorifuda	神仏の分霊が宿り、人や家屋などを加護するという紙製…
+j	まるうつし	marutsushi	文書や絵画などの全部または一部をそっくり写すこと。
+j	まるきぶね	marukibune	丸木を刳り抜いて作ったふね。
+j	まるはだか	maruhadaka	全身になにも身に付けるていないこと。全裸。
+j	まるめこむ	marumekomu	丸めて何かの中に入れる。
+j	まるわかり	maruwakari	ある物事について全て理解できること。
+j	まわりこむ	mawarikomu	周囲を回るようにして入り込む。
+j	まわれみぎ	mawaremigi	体を右に回転させて真後ろに方向転換させる号令。
+j	まんじともえ	manjitomoe	卍巴: the quality or state …
+j	まんなかっこ	mannakakko	middle child
+j	まんまんしゃん	manmanshan	Buddha
+j	マイクロフォン	maikurofon	a microphone
+j	マイクロホン	maikurohon	音を電気信号に変換する装置。マイクと略されたり、M…
+j	マイクロ秒	maikurobyo	microsecond - a unit of t…
+j	マイメンシン	maimenshin	
+j	マイルストーン	mairusuton	milestone, one of a serie…
+j	マイル毎時	mairumaiji	速度の単位のひとつ。1時間に1マイル進む速さ。時速…
+j	マウスパッド	mausupaddo	
+j	マウスホイール	mausuhoiru	
+j	マウスボタン	mausubotan	コンピュータのマウスの上部にある操作用のボタン。
+j	マウソレウム	mausoreumu	
+j	マウンテン・ビュー	mauntenbyu	
+j	マカウィトル	makawitoru	
+j	マキバドリ	makibadori	
+j	マギンダナオ	magindanao	
+j	マクスウェル	makusuweru	磁束の単位(CGS単位系)。記号 Mx。
+j	マクロファージ	makurofaji	a macrophage
+j	マグショット	magushotto	
+j	マグネシア	maguneshia	magnesia
+j	マコンデ人	makondejin	タンザニア南部の主要民族。バントゥー人の一派。
+j	マサイキリン	masaikirin	キリンの一種。学名は Giraffa tippel…
+j	マサーラー・チャイ	masarachai	
+j	マシニング	mashiningu	
+j	マシンルーム	mashinrumu	機械室。
+j	マジックペン	majikkupen	magic marker; marker
+j	マジョルカ島	majorukato	Mallorca, Majorca (an isl…
+j	マスカポーネ	masukapone	
+j	マスカレード	masukaredo	masquerade
+j	マスク不可	masukufuka	
+j	マスク可能	masukukano	
+j	マススタート	masusutato	
+j	マスターする	masutasuru	
+j	マスターアップ	masutaappu	completion of development
+j	マスターカード	masutakado	
+j	マスターピース	masutapisu	masterpiece
+j	マスティク島	masutikuto	Mustique
+j	マソヒズム	masohizumu	
+j	マゾヒスト	mazohisuto	a masochist
+j	マゾヒズム	mazohizumu	masochism
+j	マチェドニア	machedonia	果物や野菜を入れたサラダの一種。マセドニア、マセド…
+j	マチュピチュ	machupichu	Machu Picchu (ancient Inc…
+j	マッサージ師	massajishi	マッサージを業とする者。按摩マッサージ指圧師。
+j	マッシュアップ	masshuappu	mashup
+j	マッシュルーム	masshurumu	button mushroom, Agaricus…
+j	マッターホルン	mattahorun	
+j	マッチ箱	matchibako	matchbox
+j	マツムシ	matsumushi	「まつむし」の学術的表記。
+j	マデシ州	madeshishu	
+j	マドゥラ国	madorakoku	マドゥラ島に1948年から1950年まで存在したイ…
+j	マドリガル	madorigaru	
+j	マナガツオ	managatsuo	スズキ目マナガツオ科マナガツオ属に属する魚の一種。…
+j	マニフェスト	manifesuto	manifesto (declaration of…
+j	マニプルス	manipurusu	
+j	マニ車	maniguruma	
+j	マヌカハニー	manukahani	manuka honey
+j	マヌルネコ	manuruneko	Pallas's cat; manul
+j	マハーバーラタ	mahabarata	
+j	マミーブラウン	mamiburaun	
+j	マメコガネ	mamekogane	
+j	マヤ語族	mayagozoku	マヤ人によって使われる、一群の言語。話者はユカタン…
+j	マヨルカ島	mayorukato	
+j	マラスムス	marasumasu	
+j	マリオネット	marionetto	marionette
+j	マリトッツォ	maritottso	maritozzo (Italian pastry…
+j	マリーゴールド	marigorudo	キク科タゲテス属の一年草の総称。メキシコ原産。観賞…
+j	マルガリータ	marugarita	margarita
+j	マルキスト	marukisuto	
+j	マルゲリータ	marugerita	トマトソースの上にモッツァレラチーズとバジルを入れ…
+j	マルチパン	maruchipan	marzipan
+j	マルチング	maruchingu	保温・保水などのために畑の表面を藁やビニールシート…
+j	マルティニーク	marutiniku	Martinique (an island, ov…
+j	マルティネス	marutinesu	
+j	マルミミゾウ	marumimizo	丸耳象の学術的表記。
+j	マレーシア語	mareshiago	マレー語に同じ。
+j	マンガン族	manganzoku	周期表で第7族の元素。
+j	マンゴージンジャー	mangojinja	
+j	マンジュシャゲ	manjushage	曼珠沙華, 曼殊沙華: red spider li…
+j	マンセル値	manseruchi	色の色相、明度、彩度を記号と数値で表現したもの。
+j	マンダルヨン	mandaruyon	Mandaluyong (an independe…
+j	マンチェスター	manchesuta	Manchester (a major city …
+j	マンドポップ	mandopoppu	
+j	マーキングペン	makingupen	a marking pen
+j	マーシャル人	masharujin	マーシャル諸島国籍を持つ人、マーシャル諸島出身者。
+j	マーブルケーキ	maburukeki	
+j	マールワーリー語	maruwarigo	
+j	万年茸	mannentake	マンネンタケ科の茸。霊芝。
+j	万年雪	mannenyuki	夏の間も溶けずに残る雪。
+j	万角形	mankakukei	
+j	丸の内	marunouchi	area within the inner cit…
+j	丸め込む	marumekomu	
+j	丸ノ内	marunouchi	
+j	丸太小屋	marutagoya	a log cabin
+j	丸木舟	marukibune	
+j	丸耳象	marumimizo	an African forest elephant
+j	丸裸	maruhadaka	completely undressed, bei…
+j	丸齧り	marukajiri	taking a bite out of some…
+j	免れる	manukareru	to escape
+j	前林	maebayashi	a surname
+j	前頭	maegashira	maegashira
+j	区区	machimachi	various, divided
+j	卍巴	manjitomoe	the quality or state of f…
+j	回り灯籠	mawaridoro	走馬灯。
+j	埋蔵物	maizobutsu	
+j	孫会社	magogaisha	a subsidiary of a subsidi…
+j	孫娘	magomusume	granddaughter
+j	孫息子	magomusuko	grandson
+j	守って良い	mamotteyoi	
+j	守り人	mamoribito	a guard; a watchman
+j	守り抜く	mamorinuku	protect until the end
+j	巻き戻す	makimodosu	to return something to a …
+j	巻き返し	makikaeshi	recovery, rally
+j	待ち受ける	machiukeru	await, look forward to
+j	待ち合せ	machiawase	
+j	待ち合わせ	machiawase	appointment; arrangement …
+j	愛娘	manamusume	beloved daughter
+j	慢性的	manseiteki	chronic
+j	抹消する	masshosuru	
+j	招き猫	manekineko	maneki-neko, beckoning ca…
+j	斑雲	madaragumo	
+j	曲がり角	magarikado	corner, turn, turning
+j	曼殊沙華	manjushage	
+j	曼珠沙華	manjushage	synonym of 彼岸花 (higanbana…
+j	末日	matsujitsu	last day (of some period,…
+j	末梢的	masshoteki	trivial, nonessential
+j	松下	matsushita	a surname
+j	松島	matsushima	a surname
+j	松嶋	matsushima	a surname
+j	松平	matsudaira	a placename, especially o…
+j	松橋	matsuhashi	a surname
+j	松葉杖	matsubazue	a crutch (device to assis…
+j	松虫	matsumushi	a pine cricket (Xenogryll…
+j	枕カバー	makurakaba	pillow case
+j	枕投げ	makuranage	pillow fight
+j	枚挙する	maikyosuru	
+j	毎年の	maitoshino	
+j	毎日の	mainichino	
+j	毎月の	maigetsuno	
+j	満を持する	manojisuru	to stand ready and have b…
+j	満場一致	manjoitchi	unanimity
+j	満州国	manshukoku	Manchuria, Manchukuo
+j	満州族	manshuzoku	主に中国東北部（旧満洲）に住むツングース系民族。満…
+j	満洲国	manshukoku	満州国の別表記。
+j	満洲族	manshuzoku	満州族の異表記。
+j	満足感	manzokukan	feeling of satisfaction
+j	満身創痍	manshinsoi	having wounds all over on…
+j	漫画喫茶	mangakissa	manga café
+j	漫言放語	mangenhogo	思慮せず、思うがままに言い散らすこと。
+j	牧場鳥	makibadori	meadowlark
+j	的外れ	matohazure	irrelevance, wild
+j	真っ二つ	mapputatsu	into exactly two equal pa…
+j	真っ赤な嘘	makkanauso	
+j	真似られる	manerareru	
+j	真名鰹	managatsuo	
+j	真逆様	masakasama	
+j	真魚鰹	managatsuo	Pampus punctatissimus, a …
+j	瞬く間	matatakuma	instant (period of time),…
+j	磨羯宮	makatsukyu	Capricorn
+j	磨製石器	maseisekki	主に弥生時代に盛行した、研磨して仕上げた石器。
+j	窓ガラス	madogarasu	窓に使用された板ガラス。
+j	窓拭き器	madofukiki	ワイパー。
+j	継娘	mamamusume	
+j	継家族	mamakazoku	再婚や事実婚などにより血縁のない親子関係や兄弟関係…
+j	継息子	mamamusuko	
+j	街明かり	machiakari	the lights of a distant t…
+j	豆戦車	mamesensha	tankette
+j	豆甘	mameumashi	Japanese grosbeak
+j	豆電球	mamedenkyu	miniature light bulb
+j	負け惜しみ	makeoshimi	not wanting to admit one …
+j	迷い星	mayoiboshi	planet
+j	間が抜ける	maganukeru	to be offbeat
+j	間違える	machigaeru	to make a mistake, to mak…
+j	間違った	machigatta	
+j	魔法の杖	mahonotsue	magic wand
+j	魔法使い	mahotsukai	a magic user, such as a m…
+j	魔術師	majutsushi	magician, conjurer
+j	鯧	managatsuo	
+j	鱒の介	masunosuke	chinook salmon; king salm…
+k	마감되다	magamdoeda	
+k	마개뽑이	magaeppobi	
+k	마그네틱	mageunetik	
+k	마그레브	mageurebeu	
+k	마께도니아	makkedonia	Macedonia (a geographic r…
+k	마늘쪽	maneuljjok	
+k	마당극	madanggeuk	
+k	마당놀이	madangnori	
+k	마더보드	madeobodeu	
+k	마드라스	madeuraseu	Madras, Chennai (a city, …
+k	마드리갈	madeurigal	
+k	마드리드	madeurideu	Madrid (the capital city …
+k	마룻바닥	marutbadak	
+k	마르멜로	mareumello	quince
+k	마르모트	mareumoteu	a marmot
+k	마른 뇌우	mareunnoeu	뇌우 속의 번개가 지면을 향해서 내려올 때 비…
+k	마른세수	mareunsesu	
+k	마른침	mareunchim	
+k	마리네뜨	marinetteu	
+k	마리네이드	marineideu	
+k	마맛자국	mamatjaguk	
+k	마몬치요	mamonchiyo	
+k	마무리투수	mamuritusu	closer
+k	마무리하다	mamurihada	to conclude, to complete,…
+k	마법봉	mabeopbong	
+k	마비시키다	mabisikida	
+k	마사지하다	masajihada	to massage
+k	마슈하드	masyuhadeu	
+k	마스다르	maseudareu	
+k	마스카트	maseukateu	
+k	마스코트	maseukoteu	행운을 가져온다고 여기는 물건. 또는 단체나 …
+k	마스토돈	maseutodon	
+k	마쓰야마	masseuyama	
+k	마약견	mayakgyeon	
+k	마우스 휠	mauseuhwil	
+k	마을 사람	maeulsaram	
+k	마음가짐	maeumgajim	
+k	마음껏	maeumkkeot	to one's heart's content
+k	마음대로	maeumdaero	as one pleases/likes
+k	마음성	maeumseong	nature
+k	마음잡다	maeumjapda	
+k	마이멘싱	maimensing	
+k	마이크로파	maikeuropa	microwave
+k	마잔다란	majandaran	
+k	마잘 토브	majaltobeu	
+k	마제석기	majeseokgi	'간석기'.
+k	마중객	majunggaek	
+k	마중하다	majunghada	to meet, to pick up (e.g.…
+k	마지노선	majinoseon	absolute limit
+k	마지못해	majimothae	
+k	마찬가지	machangaji	being exactly the same; i…
+k	마찰고도	machalgodo	대기경계층에 있어서 지면의 마찰 영향이 없어지…
+k	마찰적	machaljeok	
+k	마찰풍	machalpung	마찰에 의한 저항으로 인해 복잡한 양상을 띠는…
+k	마찰하다	machalhada	to rub
+k	마촘하다	machomhada	
+k	마춤하다	machumhada	
+k	마취하다	machwihada	약물 따위를 이용하여 얼마 동안 의식이나 감각…
+k	마츠모토	macheumoto	
+k	마카리오스	makarioseu	
+k	마켓 미터	maketmiteo	
+k	마키라 섬	makiraseom	
+k	마타리꽃	matarikkot	
+k	마포걸레	mapogeolle	
+k	마푸체족	mapuchejok	
+k	마하바라타	mahabarata	
+k	마호병	mahobyeong	보온병.
+k	마흔아홉	maheunahop	
+k	마흔째	maheunjjae	숫자 '마흔'의 차례를 세는 말. (부록: 한…
+k	막고무신	makgomusin	마구 생긴 고무신.
+k	막난눈	mangnannun	'막눈'의 북한말.
+k	막내 라인	maknaerain	maknae line (younger memb…
+k	막다르다	makdareuda	to be closed off, to be a…
+k	막대하다	makdaehada	
+k	막중한	makjunghan	'막중하다'의 관형사형.
+k	막창자	makchangja	cecum
+k	만개하다	mangaehada	꽃이나 무엇이 활짝 피다.
+k	만공산	mangongsan	
+k	만국지도	mangukjido	'세계지도'.
+k	만기제대	mangijedae	
+k	만듦새	mandeumsae	
+k	만료점	mallyojeom	
+k	만류하다	mallyuhada	
+k	만리타국	mallitaguk	
+k	만만하다	manmanhada	weak; easy to manipulate,…
+k	만문하다	manmunhada	'만만하다'의 북한말.
+k	만물상	manmulsang	
+k	만민법	manminbeop	
+k	만발하다	manbalhada	to be in full bloom
+k	만사휴의	mansahyuui	
+k	만세력	manseryeok	
+k	만수향	mansuhyang	
+k	만시지탄	mansijitan	(사자성어) 때가 지났을 때에야 비로소 한탄한…
+k	만실하다	mansilhada	방 안에 가득하다.
+k	만연체	manyeonche	verbose prose style
+k	만엽집	manyeopjip	Man'yōshū
+k	만자창	manjachang	
+k	만작하다	manjakhada	
+k	만족하다	manjokhada	to feel happy / satisfied
+k	만주문자	manjumunja	
+k	만주토끼	manjutokki	
+k	만찬회	manchanhoe	
+k	만천하	mancheonha	
+k	만화방	manhwabang	comic book (rental) store
+k	만회하다	manhoehada	to recover; to restore; t…
+k	많이 먹어	manimeogeo	
+k	말개지다	malgaejida	
+k	말끔히	malkkeumhi	티 없이 깨끗하고 밝게.
+k	말똥히	malttonghi	
+k	말뚱히	malttunghi	
+k	말린 자두	mallinjadu	
+k	말뭉치	malmungchi	corpus
+k	말버릇	malbeoreut	
+k	말살하다	malsalhada	annihilate, exterminate, …
+k	말소되다	malsodoeda	
+k	말씨름	malssireum	말로서 하는 씨름. 다시 말해 말로 하는 싸움.
+k	말을 놓다	mareulnota	to forgo linguistic forma…
+k	말을 타다	mareultada	
+k	말장난	maljangnan	무엇을 두고 재미 삼아 혹은 아무 쓸데없이 주…
+k	말주변	maljubyeon	way of expression, manner…
+k	말짱히	maljjanghi	
+k	말초적	malchojeok	
+k	말티메디아	maltimedia	'멀티미디어'의 북한말.
+k	말판게임	malpangeim	'보드게임'.
+k	맑스주의	makseujuui	Marxism
+k	맑은국	malgeunguk	
+k	망가지다	manggajida	to break, to be destroyed…
+k	망국배	manggukbae	
+k	망령	mangnyeong	spirit, soul
+k	망명	mangmyeong	asylum; exile
+k	망부석	mangbuseok	Mong Fu Shek
+k	망신살	mangsinsal	
+k	망주석	mangjuseok	
+k	망지소조	mangjisojo	
+k	맞춤아기	matchumagi	
+k	매끈히	maekkeunhi	
+k	매년의	maenyeonui	
+k	매니큐어	maenikyueo	manicure
+k	매달리다	maedallida	to be hung from; to dangle
+k	매도담보	maedodambo	
+k	매련히	maeryeonhi	
+k	매료하다	maeryohada	to enthrall, to captivate…
+k	매립하다	maeriphada	
+k	매만지다	maemanjida	to adjust, to tidy with t…
+k	매매장	maemaejang	
+k	매매하다	maemaehada	
+k	매몰하다	maemolhada	인정이나 싹싹한 맛이 없고 쌀쌀맞다.
+k	매복하다	maebokhada	
+k	매사냥	maesanyang	
+k	매수되다	maesudoeda	
+k	매스컴	maeseukeom	mass communication
+k	매암매암	maeammaeam	'맴맴'.
+k	매욱스레	maeukseure	
+k	매운 소스	maeunsoseu	
+k	매음녀	maeeumnyeo	
+k	매음하다	maeeumhada	to engage in prostitution…
+k	매입되다	maeipdoeda	
+k	매입소각	maeipsogak	
+k	매입원가	maeibwonga	
+k	매정히	maejeonghi	
+k	매지매지	maejimaeji	
+k	매진하다	maejinhada	
+k	매질하다	maejilhada	to whip, to flog
+k	매춘굴	maechungul	brothel
+k	매출액	maechuraek	sales, sales figures
+k	매캐하다	maekaehada	연기나 곰팡이 따위의 냄새가 약간 맵고 싸하다.
+k	매콤하다	maekomhada	to have a spicy taste
+k	매킨토시	maekintosi	
+k	매표하다	maepyohada	
+k	매혹적	maehokjeok	매력이 있는.
+k	매혹하다	maehokhada	
+k	매화점	maehwajeom	
+k	맥고모자	maekgomoja	밀짚모자.
+k	맥동지	maekdongji	
+k	맥량	maengnyang	
+k	맥박계	maekbakgye	
+k	맥사가리	maeksagari	'가치(價値)'의 강원도 사투리.
+k	맥주컵	maekjukeop	
+k	맥줏집	maekjutjip	
+k	맨드릴	maendeuril	
+k	맨들다	maendeulda	
+k	맨얼굴	maeneolgul	
+k	맨투맨	maentumaen	
+k	맹격	maenggyeok	
+k	맹길다	maenggilda	synonym of 만들다 (mandeulda…
+k	맹꽁	maengkkong	ribbit; while croaking
+k	맹렬	maengnyeol	Root of 맹렬(猛烈)하다 (maengny…
+k	맺어지다	maejeojida	
+k	맺음말	maejeummal	conclusion
+e	machination	machination	1 meaning
+e	machine tool	machinetool	1 meaning
+e	machu picchu	machupicchu	1 meaning
+e	made in china	madeinchina	1 meaning
+e	made in japan	madeinjapan	1 meaning
+e	magic bullet	magicbullet	1 meaning
+e	magic carpet	magiccarpet	1 meaning
+e	magic mirror	magicmirror	2 meanings
+e	magic square	magicsquare	1 meaning
+e	magical girl	magicalgirl	1 meaning
+e	magnanimity	magnanimity	1 meaning
+e	magnanimous	magnanimous	1 meaning
+e	magnificent	magnificent	1 meaning
+e	magpie-goose	magpiegoose	1 meaning
+e	maguindanao	maguindanao	1 meaning
+e	maha kassapa	mahakassapa	1 meaning
+e	mahabharata	mahabharata	1 meaning
+e	maharashtra	maharashtra	1 meaning
+e	maidservant	maidservant	1 meaning
+e	mailing list	mailinglist	1 meaning
+e	maintenance	maintenance	1 meaning
+e	major arcana	majorarcana	1 meaning
+e	make a living	makealiving	1 meaning
+e	make friends	makefriends	2 meanings
+e	make light of	makelightof	1 meaning
+e	make strange	makestrange	1 meaning
+e	makhachkala	makhachkala	1 meaning
+e	malapropism	malapropism	1 meaning
+e	malfunction	malfunction	2 meanings
+e	mammography	mammography	1 meaning
+e	mandaluyong	mandaluyong	1 meaning
+e	mango ginger	mangoginger	1 meaning
+e	manichaeism	manichaeism	1 meaning
+e	manipulator	manipulator	1 meaning
+e	mantelpiece	mantelpiece	1 meaning
+e	manual labor	manuallabor	1 meaning
+e	manufacture	manufacture	3 meanings
+e	marchioness	marchioness	1 meaning
+e	marginalize	marginalize	1 meaning
+e	marine corps	marinecorps	1 meaning
+e	marital rape	maritalrape	1 meaning
+e	market price	marketprice	1 meaning
+e	market share	marketshare	1 meaning
+e	market value	marketvalue	1 meaning
+e	marketplace	marketplace	1 meaning
+e	markov chain	markovchain	1 meaning
+e	marsh mallow	marshmallow	1 meaning
+e	marshmallow	marshmallow	1 meaning
+e	maryborough	maryborough	1 meaning
+e	masculinity	masculinity	1 meaning
+e	masdevallia	masdevallia	1 meaning
+e	masking tape	maskingtape	1 meaning
+e	master stock	masterstock	1 meaning
+e	masterpiece	masterpiece	1 meaning
+e	mastication	mastication	1 meaning
+e	match fixing	matchfixing	1 meaning
+e	matchmaking	matchmaking	1 meaning
+e	materialism	materialism	1 meaning
+e	materialize	materialize	1 meaning
+e	mathematics	mathematics	1 meaning
+e	mathematize	mathematize	1 meaning
+e	mating press	matingpress	1 meaning
+e	matrimonial	matrimonial	1 meaning
+j	まあたらしい	maatarashii	全く新しい。
+j	まいまいむし	maimaimushi	「みずすまし」の別名。
+j	まえじたぼいん	maejitaboin	前舌母音: front vowel
+j	まきちらす	makichirasu	辺り一面に撒く。
+j	まきつける	makitsukeru	まわりをぐるぐる巻いてつける。
+j	まきばしら	makibashira	真木柱, 槙柱: thirty-first cha…
+j	まぐれあたり	magureatari	偶然あたること。
+j	まけずぎらい	makezugirai	負けることを嫌う性質。性格が強情で我慢強いこと。
+j	まぜあわせる	mazeawaseru	異なる物同士を混ぜて一緒にする。
+j	またたくうち	matatakuchi	「瞬く間」に同じ。
+j	まだらばった	madarabatta	バッタ目バッタ科マダラバッタ属に属するばったの一種…
+j	まちおこし	machiokoshi	revitalization of a town …
+j	まちかねる	machikaneru	待ち時間が長く待ち切れなくなる。待ちわびる。
+j	まちがいない	machigainai	確実であるさま。間違いがないさま。
+j	まちづくり	machizukuri	development / planning of…
+j	まちどおしい	machidoshii	待ち望むものが早く来ないかと期待するさま。
+j	まちのぞむ	machinozomu	その時が早く来るように期待する。
+j	まちはずれ	machihazure	市街の家並みが途切れる辺り。
+j	まちぶせる	machibuseru	目的とする相手が来るのを隠れて待つ。
+j	まちもうける	machimokeru	将来起こることを予想し、あらかじめ準備をして待つこ…
+j	まちわびる	machiwabiru	長く待ち続け気を揉む。
+j	まっさかさま	massakasama	全くさかさまである様子。
+j	まつかざり	matsukazari	正月に門口や玄関口などに飾る左右一対の松の飾り。門…
+j	まつげカーラー	matsugekara	
+j	まつばがに	matsubagani	十脚目マツバガニ属に属する甲殻類の一種。学名:Hy…
+j	まつふぐり	matsufuguri	まつかさの俗称
+j	まつぼくり	matsubokuri	まつかさの俗称
+j	まつりごと	matsurigoto	祭り事。古代に置いて祭政一致であったことから転じて…
+j	まとめサイト	matomesaito	website that specializes …
+j	まぼろしとう	maboroshito	phantom island
+j	まむしぐさ	mamushigusa	サトイモ科の多年草。北海道から九州にかけて分布し、…
+j	まむしざけ	mamushizake	まむしを焼酎に浸した蛇酒。
+j	まるきばし	marukibashi	a log bridge
+j	まるじるし	marujirushi	丸印: a circle, equivalent …
+j	まるつぶれ	marutsubure	物体や計画が完全に潰れること。
+j	まわしげり	mawashigeri	
+j	まわしのみ	mawashinomi	複数の人で一つのグラスやさかずきなどをまわしながら…
+j	まわしぶみ	mawashibumi	複数の人に知らせるように順に回した手紙や通知。
+j	まわしもの	mawashimono	秘密や内情を密かに探る者。
+j	まわりあわせ	mawariawase	自然に回ってくる運命。巡り合わせ。
+j	まわりくどい	mawarikudoi	indirect
+j	まわりみち	mawarimichi	回り道: detour
+j	マイクロバス	maikurobasu	minibus (a small bus)
+j	マイクロビーズ	maikurobizu	
+j	マイクロメータ	maikurometa	
+j	マイグレーション	maigureshon	移動、移行。
+j	マイナス記号	mainasukigo	
+j	マイナーチェンジ	mainachenji	minor change, often to a …
+j	マインドセット	maindosetto	mindset
+j	マインドマップ	maindomappu	a mind map
+j	マウスウォッシュ	mausuwosshu	
+j	マウスカーソル	mausukasoru	コンピュータのユーザーインターフェースの一つで、ポ…
+j	マウスブルーダー	mausuburuda	
+j	マウンテンボーダー	mauntenboda	マウンテンボードの選手。
+j	マウンテンボード	mauntenbodo	一枚のスノーボードの形をした板状に足を固定し、平地…
+j	マウント解除	mauntokaijo	unmounting
+j	マカオ・パタカ	makaopataka	
+j	マキシマム	makishimamu	最大限、最高。
+j	マキバシギ	makibashigi	
+j	マクロ言語	makurogengo	アプリケーションの枠内で動作し、その機能を拡張、ま…
+j	マグニチュード	magunichudo	magnitude
+j	マグネトロン	magunetoron	超短波発生用の磁電管。
+j	マケドニアの	makedoniano	
+j	マケドニア語	makedoniago	the Macedonian language
+j	マシンツール	mashintsuru	
+j	マジックテープ	majikkutepu	Velcro
+j	マジックミラー	majikkumira	a one-way mirror
+j	マスカレイド	masukareido	
+j	マスクメロン	masukumeron	muskmelon
+j	マスクラット	masukuratto	ネズミ目ネズミ科マスクラット属に属する齧歯類の一種…
+j	マスク美人	masukubijin	woman who is more beautif…
+j	マスケット銃	masukettoju	
+j	マスタープラン	masutapuran	a master plan
+j	マスデバリア	masudebaria	
+j	マチルダス	machirudasu	The Matildas.
+j	マッコウクジラ	makkokujira	「抹香鯨」の学術的表記。
+j	マッサージする	massajisuru	
+j	マッチポンプ	matchiponpu	benefiting from a problem…
+j	マトリックス	matorikkusu	
+j	マドモアゼル	madomoazeru	
+j	マニエリスム	manierisumu	Mannerism
+j	マニキュア液	manikyuaeki	nail polish
+j	マニピュレータ	manipyureta	
+j	マニプル州	manipurushu	
+j	マニラ海溝	manirakaiko	フィリピンの西、南シナ海にある海溝。
+j	マネジメント	manejimento	management
+j	マネーサプライ	manesapurai	金融機関と中央政府を除いた一般法人、個人、地方公共…
+j	マハチカラ	mahachikara	
+j	マプチェ族	mapuchezoku	
+j	マラカナッソ	marakanasso	
+j	マラガシ語	maragashigo	
+j	マリッジブルー	marijjiburu	doubt, nervousness, or de…
+j	マリヤンポレ	mariyampore	
+j	マリョルカ島	maryorukato	Mallorca, Majorca (an isl…
+j	マリンビスト	marinbisuto	マリンバの演奏者。
+j	マリー゠ガラント	marigaranto	
+j	マルキーズ人	marukizujin	仏領ポリネシアのマルキーズ諸島の主要民族。ポリネシ…
+j	マルシアック	marushiakku	
+j	マルチゴール	maruchigoru	
+j	マルチバス	maruchibasu	
+j	マレーガビアル	maregabiaru	a false gavial; a Malayan…
+j	マレーシア人	mareshiajin	Malay, a Malaysian person
+j	マンゴスチン	mangosuchin	mangosteen
+j	マントルピース	mantorupisu	壁につくられた装飾された暖炉。また、その上にある飾…
+j	マンドラゴラ	mandoragora	ナス目ナス科マンドラゴラ属に属する多年草の総称。学…
+j	マンモグラフィー	manmogurafi	
+j	マーシャルアーツ	masharuatsu	martial arts
+j	万年筆	mannenhitsu	a fountain pen
+j	万引きする	manbikisuru	
+j	丸写し	maruutsushi	an exact copy
+j	丸印	marujirushi	check mark, indicated in …
+j	前舌母音	maejitaboin	front vowel
+j	回し者	mawashimono	
+j	回り合わせ	mawariawase	luck, fortune
+j	回り将棋	mawarishogi	将棋の駒と将棋盤を使った2人で行うゲームの一つ。す…
+j	回り道	mawarimichi	detour, taking the long w…
+j	巻き添えを食う	makizoeokuu	to get involved in someth…
+j	幕間弁当	makuaibento	幕の内弁当の別名。
+j	待ち伏せる	machibuseru	to ambush
+j	待ち侘びる	machiwabiru	eagerly await
+j	待ち望む	machinozomu	eagerly await
+j	待ち遠しい	machidoshii	anxiously awaited
+j	抹香鯨	makkokujira	a sperm whale
+j	摩擦角	masatsukaku	angle of friction
+j	撒き散らす	makichirasu	to scatter, spread around
+j	政	matsurigoto	a government, rule
+j	松尾芭蕉	matsuobasho	江戸時代前期日本の俳諧師（≒俳人）。寛永21年（1…
+j	枕営業	makuraeigyo	using sexual favors to im…
+j	枕団子	makuradango	故人の枕元に供える白い団子。
+j	混ぜ合わせる	mazeawaseru	
+j	満州事変	manshujihen	「満洲事変」の別表記。
+j	満洲事変	manshujihen	関東軍がポーツマス条約により日本に譲渡された南満洲…
+j	満腹する	manpukusuru	
+j	満艦飾	mankanshoku	the maritime practice of …
+j	漫言放言	mangenhogen	漫言放語の別形。
+j	牧乗せ台	makinosedai	
+j	猿蜘蛛	mashiragumo	
+j	町外れ	machihazure	outskirts
+j	町役場	machiyakuba	town hall
+j	益荒男振り	masuraoburi	a masculine poetic style …
+j	眉を寄せる	mayuoyoseru	knit one's brows
+j	真っ只中	mattadanaka	right in the middle of
+j	真っ昼間に	mappirumani	
+j	真っ逆様	massakasama	head over heels; headlong…
+j	真新しい	maatarashii	brand new
+j	磨穿鉄硯	masentekken	showing unyielding dilige…
+j	紛れもない	magiremonai	unmistakable, obvious, ce…
+j	紛れ当たり	magureatari	a chance hit; a fluke
+j	蝮草	mamushigusa	Arisaema serratum, a spec…
+j	豆回し	mamemawashi	Japanese grosbeak
+j	豆蔦蘭	mamezutaran	
+j	負けず嫌い	makezugirai	hating to lose, unyielding
+j	間に合わせる	maniawaseru	
+j	間違いない	machigainai	
+j	魔法の絨毯	mahonojutan	
+k	마견하다	magyeonhada	
+k	마구리면	magurimyeon	마구리가 되는 단면.
+k	마구잡이식	magujabisik	
+k	마권업자	magwoneopja	
+k	마귀상어	magwisangeo	goblin shark
+k	마그네슘	mageunesyum	magnesium (chemical eleme…
+k	마깝잖다	makkapjanta	'마땅찮다'의 북한말.
+k	마끌루바	makkeulluba	
+k	마늘빵	maneulppang	
+k	마니푸르 주	manipureuju	
+k	마땅하다	mattanghada	to be suitable, to be app…
+k	마뜩하다	matteukhada	꽤 마음에 들다.
+k	마련하다	maryeonhada	to have something ready, …
+k	마록마록	marongmarok	
+k	마르크스	mareukeuseu	
+k	마르크화	mareukeuhwa	
+k	마무리되다	mamuridoeda	
+k	마법의 말	mabeobuimal	
+k	마부작침	mabujakchim	no matter how difficult a…
+k	마비되는	mabidoeneun	
+k	마살라 차이	masallachai	
+k	마샬군도	masyalgundo	나라 이름 '마셜 제도'의 북한말.
+k	마성적	maseongjeok	
+k	마셜 제도	masyeoljedo	Marshall Islands (a count…
+k	마스까트	maseukkateu	오만의 수도 이름 '무스카트'의 북한말.
+k	마스터스	maseuteoseu	
+k	마우스피스	mauseupiseu	
+k	마을버스	maeulbeoseu	town shuttle bus
+k	마음먹다	maeummeokda	to decide, to make up one…
+k	마음쓰다	maeumsseuda	to use one's head, brain,…
+k	마음에 품다	maeumepumda	
+k	마이동풍	maidongpung	(사자성어) 말의 귀를 동풍이 스친다. 남의 …
+k	마이크로폰	maikeuropon	microphone
+k	마장마술	majangmasul	
+k	마젠타색	majentasaek	
+k	마지못하다	majimothada	(흔히 '마지못해' 꼴로 쓰여) 마음이 내키지…
+k	마차부자리	machabujari	
+k	마찰 계수	machalgyesu	
+k	마찰되다	machaldoeda	to be rubbed
+k	마찰력	machallyeok	마찰하고 있는 두 물체 중 한물체가 움직이려는…
+k	마카오 파타카	makaopataka	
+k	마케도니아어	makedoniaeo	Macedonian (a South Slavi…
+k	마케도니아의	makedoniaui	
+k	마케도니아인	makedoniain	
+k	마태복음	mataebogeum	
+k	마투그로수	matugeurosu	
+k	마흔일곱	maheunilgop	
+k	마힐료프	mahillyopeu	
+k	막감개구	makgamgaegu	
+k	막내딸	mangnaettal	여러 딸 가운데 맨 나중에 태어난 딸.
+k	막대빵	makdaeppang	
+k	막대인간	makdaeingan	
+k	막무가내	mangmuganae	달리 어찌할 수 없음.
+k	막중하다	makjunghada	매우 중요하다.
+k	막창구이	makchanggui	makchang gui (pork or bee…
+k	막힘없다	makhimeopda	unobstructed, unhindered
+k	만근이래	mangeunirae	
+k	만끽하다	mankkikhada	
+k	만년필	mannyeonpil	a fountain pen
+k	만등회	mandeunghoe	
+k	만료되다	mallyodoeda	
+k	만리경	malligyeong	
+k	만물박사	manmulbaksa	
+k	만반진수	manbanjinsu	
+k	만세무강	mansemugang	
+k	만수무강	mansumugang	
+k	만연하다	manyeonhada	to spread, to pervade, to…
+k	만원사례	manwonsarye	
+k	만작대다	manjakdaeda	'만작거리다'.
+k	만화책	manhwachaek	comic book
+k	만회되다	manhoedoeda	to be recoverd; to be res…
+k	많이 드세요	manideuseyo	
+k	말거머리	malgeomeori	horse-leech
+k	말더듬이	maldeodeumi	
+k	말라가시어	mallagasieo	마다가스카르의 공용어 및 인근지역(코모로, 마…
+k	말랑하다	mallanghada	
+k	말롤로스	mallolloseu	
+k	말살되다	malsaldoeda	
+k	말쌀하다	malssalhada	모질고 쌀쌀하다.
+k	말쑥하다	malssukhada	
+k	말씬하다	malssinhada	
+k	말줄임표	maljurimpyo	
+k	말캉하다	malkanghada	너무 익거나 곯아서 물크러질 정도로 말랑하다.
+k	말풍선	malpungseon	speech bubble
+k	말하지 않다	malhajianta	
+k	맑은탕	malgeuntang	
+k	망가니즈	mangganijeu	manganese
+k	망각하다	manggakhada	
+k	망고 주스	manggojuseu	
+k	망궐례	manggwollye	
+k	망발하다	mangbalhada	
+k	망설이다	mangseorida	to hesitate, to waver
+k	망신하다	mangsinhada	
+k	망언다사	mangeondasa	
+k	망언하다	mangeonhada	
+k	망중한	mangjunghan	
+k	망향가	manghyangga	
+k	맞머리못	manmeorimot	'리벳'의 북한말.
+k	맞은바람	mateunbaram	
+k	맞은편	majeunpyeon	other side
+k	맞춤법	matchumbeop	orthography
+k	매개 모음	maegaemoeum	(언어) 두 자음 사이에서 음을 고르게 하는 …
+k	매기그물	maegigeumul	
+k	매기챠몰	maegichamol	미역국을 뜻하는 고려말.
+k	매니토바 주	maenitobaju	캐나다에 위치한 주. 주도는 위니펙.
+k	매듭 이론	maedeupiron	
+k	매디니푸루	maedinipuru	
+k	매료되다	maeryodoeda	
+k	매매단위	maemaedanwi	
+k	매매되다	maemaedoeda	
+k	매몰되다	maemoldoeda	
+k	매미나방	maeminabang	spongy moth (Lymantria di…
+k	매상금	maesanggeum	판매액.
+k	매설하다	maeseolhada	
+k	매시근히	maesigeunhi	
+k	매시시하다	maesisihada	
+k	매우 기쁜	maeugippeun	
+k	매우 무더운	maeumudeoun	
+k	매입장세	maeipjangse	주식을 사기 좋은 시기로, 일시적으로 주가가 …
+k	매장하다	maejanghada	to bury, to inter
+k	매조미쌀	maejomissal	
+k	매진되다	maejindoeda	
+k	매춘하다	maechunhada	to engage in prostitution…
+k	매출장	maechuljang	
+k	매트리스	maeteuriseu	mattress
+k	매혹되다	maehokdoeda	
+k	맥각균	maekgakgyun	
+k	맥관계	maekgwangye	
+k	맥관학	maekgwanhak	
+k	맥령	maengnyeong	synonym of 보릿고개 (boritgog…
+k	맥을 보다	maegeulboda	to check someone's pulse
+k	맥쩍다	maekjjeokda	심심하고 재미가 없다.
+k	맨드라미	maendeurami	cockscomb (Celosia argent…
+k	맨처음	maencheoeum	very beginning, first, ou…
+k	맨해튼	maenhaeteun	
+k	맴매하다	maemmaehada	어린아이의 말로, '매질하다'를 일컫는 말.
+k	맹근히	maenggeunhi	
+k	맹글다	maenggeulda	synonym of 만들다 (mandeulda…
+k	맹꽁이	maengkkongi	the boreal digging frog, …
+k	맹세하다	maengsehada	to swear; to vow; to pled…
+k	맹크스	maengkeuseu	
+e	macadamia nut	macadamianut	1 meaning
+e	mad scientist	madscientist	1 meaning
+e	mademoiselle	mademoiselle	1 meaning
+e	magic lantern	magiclantern	1 meaning
+e	magic realism	magicrealism	1 meaning
+e	magna graecia	magnagraecia	1 meaning
+e	magnetic flux	magneticflux	1 meaning
+e	magnetic pole	magneticpole	1 meaning
+e	magnetic tape	magnetictape	1 meaning
+e	magnitogorsk	magnitogorsk	1 meaning
+e	maguari stork	maguaristork	1 meaning
+e	maiden flight	maidenflight	1 meaning
+e	maiden voyage	maidenvoyage	1 meaning
+e	main diagonal	maindiagonal	1 meaning
+e	main sequence	mainsequence	1 meaning
+e	major general	majorgeneral	1 meaning
+e	make a mistake	makeamistake	1 meaning
+e	make an effort	makeaneffort	1 meaning
+e	make ends meet	makeendsmeet	1 meaning
+e	malabar coast	malabarcoast	1 meaning
+e	malnutrition	malnutrition	1 meaning
+e	maltreatment	maltreatment	1 meaning
+e	mammary gland	mammarygland	1 meaning
+e	man of letters	manofletters	1 meaning
+e	man of the hour	manofthehour	1 meaning
+e	mandarin duck	mandarinduck	1 meaning
+e	mandarin fish	mandarinfish	1 meaning
+e	mangelwurzel	mangelwurzel	1 meaning
+e	manipulative	manipulative	1 meaning
+e	manner adverb	manneradverb	1 meaning
+e	manslaughter	manslaughter	1 meaning
+e	mansplaining	mansplaining	1 meaning
+e	manspreading	manspreading	1 meaning
+e	mantis shrimp	mantisshrimp	1 meaning
+e	manufacturer	manufacturer	1 meaning
+e	marie-galante	mariegalante	1 meaning
+e	marine mammal	marinemammal	1 meaning
+e	maritime pine	maritimepine	1 meaning
+e	marseillaise	marseillaise	1 meaning
+e	marsh harrier	marshharrier	1 meaning
+e	marsh warbler	marshwarbler	1 meaning
+e	marvel of peru	marvelofperu	1 meaning
+e	master of arts	masterofarts	1 meaning
+e	masturbation	masturbation	1 meaning
+e	maternal aunt	maternalaunt	1 meaning
+e	mating season	matingseason	1 meaning
+e	matter of time	matteroftime	1 meaning
+e	maximization	maximization	1 meaning
+e	mazar-i-sharif	mazarisharif	1 meaning
+j	まがりくねる	magarikuneru	幾重にも折れ曲がる。
+j	まぎらわしい	magirawashii	よく似ていて間違えやすい。
+j	まくらかざり	makurakazari	故人の枕元に置く祭壇。仏式と神道式がある。
+j	まくらがえし	makuragaeshi	枕の向きを変えること。特に故人の枕を北の方へ変える…
+j	まくらことば	makurakotoba	枕詞, 枕言葉: an epithet; intr…
+j	まさかの時	masakanotoki	time of need, rainy day
+j	またたくあいだ	matatakuaida	極めて短い時間。
+j	まだるこしい	madarukoshii	まだるっこしいに同じ。
+j	まちあわせる	machiawaseru	複数の人が予め場所や時間を決めて互いに集まる。
+j	まちかまえる	machikamaeru	期待しながら待つ。準備して待つ。待ち受ける。
+j	まったくもって	mattakumotte	「まったく」を強調した言い方。本当に。
+j	まつばやし	matsubayashi	松を植えたり、松が多い林。
+j	まつぼっくり	matsubokkuri	pinecone
+j	まつりあげる	matsuriageru	崇拝する。
+j	まどろこしい	madorokoshii	synonym of まどろい (madoroi)
+j	まないたのこい	manaitanokoi	運命が他人の意のままで他に選択の余地のない状態。
+j	まねきよせる	manekiyoseru	呼んだり合図したりして近くに来させる。
+j	まばたきする	mabatakisuru	
+j	まめまめしい	mamemameshii	怠けずによく働くさま。
+j	まゐらせさうらふ	mairasesorou	
+j	マイクロウェーブ	maikuroweebu	
+j	マイトネリウム	maitoneriumu	meitnerium
+j	マイナンバーカード	mainanbakado	my number card, individua…
+j	マイナーセブンス	mainasebunsu	短三和音に短七度を加えた四和音。
+j	マインクラフト	mainkurafuto	Minecraft
+j	マウォポルスカ	mawoporusuka	
+j	マウスシールド	mausushirudo	口に装着し唾液の飛散を防ぐための透明な覆い。
+j	マウンテンバイク	mauntenbaiku	mountain bike
+j	マクデブルク	makudeburuku	
+j	マクドナルド	makudonarudo	McDonald's (fast food res…
+j	マグナ・カルタ	magunakaruta	
+j	マグネシウム	maguneshiumu	magnesium, Mg
+j	マケドニア人	makedoniajin	Macedonian (person, peopl…
+j	マスカルポーネ	masukarupone	mascarpone
+j	マスケルポーネ	masukerupone	
+j	マスタードガス	masutadogasu	mustard gas
+j	マスターベーション	masutabeshon	synonym of オナニー (onanī, “…
+j	マストアイテム	masutoaitemu	must-have
+j	マタジャムノキ	matajamunoki	中国（広東省、旧広西省）から熱帯アジアおよびオース…
+j	マダガスカル	madagasukaru	Madagascar (an island and…
+j	マッカーシズム	makkashizumu	McCarthyism
+j	マッキントッシュ	makkintosshu	レインコートに用いられるゴム引きの防水生地。
+j	マッシュポテト	masshupoteto	
+j	マッチポイント	matchipointo	
+j	マットグロッソ	mattogurosso	
+j	マトリョーシカ	matoryoshika	matryoshka, Russian doll
+j	マネタリスト	manetarisuto	マネタリズムを主張する経済学者。
+j	マネタリズム	manetarizumu	マネーサプライは物価水準を変化させるだけで実物経済…
+j	マネタリーベース	manetaribesu	現金通貨と民間金融機関の法定準備金の合計。
+j	ママさんダンプ	mamasandanpu	
+j	マミジロゲリ	mamijirogeri	
+j	マラヤーラム語	marayaramugo	the Malayalam language
+j	マリアナ海溝	marianakaiko	the Mariana Trench
+j	マリアナ諸島	marianashoto	北西太平洋にあるアメリカ合衆国領の諸島。
+j	マリネにする	marinenisuru	
+j	マリリン・モンロー	maririnmonro	
+j	マルサ・マトルー	marusamatoru	
+j	マルチメディア	maruchimedia	
+j	マルチ商法	maruchishoho	synonym of 連鎖販売取引 (rensa …
+j	マレーシア英語	mareshiaeigo	マレーシアで話されている英語の変種。
+j	マレーシア華語	mareshiakago	中国語の方言の一つで、マレーシアで話されている標準…
+j	マレーヤマネコ	mareyamaneko	ネコ目ネコ科ベンガルヤマネコ属に属する食肉類の一種…
+j	マロングラッセ	marongurasse	
+j	マーシャルしょとう	masharushoto	マーシャル諸島: Marshall Islands
+j	マーシャル諸島	masharushoto	Marshall Islands (a count…
+j	マーストリヒト	masutorihito	Maastricht (capital of th…
+j	マーダーミステリー	madamisuteri	murder mystery
+j	マーフィーの法則	mafinohosoku	
+j	マーブルキャット	maburukyatto	ネコ目ネコ科マーブルキャット属に属する食肉類の一種…
+j	万々が一	manmangaichi	synonym of 万が一 (man ga ic…
+j	巻き添え被害	makizoehigai	collateral damage
+j	待ちに待った	machinimatta	long-awaited
+j	待ち合わせる	machiawaseru	to arrange to meet; to re…
+j	待ち構える	machikamaeru	wait for; watch for; lie …
+j	忠実忠実しい	mamemameshii	hardworking, painstaking,…
+j	抹殺する	massatsusuru	
+j	摩擦係数	masatsukeisu	摩擦の働きやすさを表す無次元の物理量。
+j	摩擦力	masatsuryoku	ある物体が他の物体と接して運動しようとしている時や…
+j	曲がりくねる	magarikuneru	
+j	末尾再帰	matsubisaiki	tail recursion
+j	末尾子音	matsubishiin	
+j	末梢的な	masshotekina	
+j	末端価格	mattankakaku	流通の最終段階での価格。
+j	末端小粒	mattanshoryu	telomere
+j	松林	matsubayashi	pinewood forest
+j	松葉牡丹	matsubabotan	Portulaca grandiflora
+j	枕言葉	makurakotoba	
+j	枕詞	makurakotoba	a pillow word, an epithet…
+j	正岡子規	masaokashiki	明治時代の日本の俳人・歌人、国語学研究家。1867…
+j	満喫する	mankitsusuru	
+j	満足した	manzokushita	
+j	真っ平御免	mappiragomen	something completely unap…
+j	瞬く間に	matatakumani	
+j	祭り上げる	matsuriageru	
+j	禍々しい	magamagashii	ominous; suggestive of ba…
+j	窓側席	madogawaseki	
+j	窓際族	madogiwazoku	those who are given desk …
+j	紛らわしい	magirawashii	mistakable, misleading, c…
+j	膜鳴楽器	makumeigakki	タンブリンやティンパニなど、張られた膜の振動によっ…
+j	茉莉花茶	matsurikacha	jasmine flower tea
+j	豆名月	mamemeigetsu	陰暦九月十三夜の月。
+j	豆知識	mamechishiki	trivia
+j	賄い料理	makanairyori	family meal (meal served …
+j	間違いなく	machigainaku	
+j	馬子にも衣装	magonimoisho	clothes don't make the ma…
+j	魔性の女	mashounoonna	
+j	魔法のキノコ	mahonokinoko	
+j	麻酔をかける	masuiokakeru	
+k	마귀할멈	magwihalmeom	witch, hag (ugly or unple…
+k	마누라쟁이	manurajaengi	
+k	마늘냉이	maneullaengi	garlic mustard
+k	마늘치킨	maneulchikin	닭튀김에 다진 마늘과 간장, 설탕 따위를 섞은…
+k	마니풀루스	manipulluseu	
+k	마라샹궈	marasyanggwo	spicy numbing stir-fry pot
+k	마려워지다	maryeowojida	
+k	마련되다	maryeondoeda	to be prepared, to be arr…
+k	마롱마롱	marongmarong	
+k	마르시룻카	mareusirutka	러시아, 우크라이나, 에스토니아, 라트비아, …
+k	마르티니크	mareutinikeu	Martinique (an island, ov…
+k	마른장마	mareunjangma	시기적으로는 장마철인데 비가 없거나 비가 적은…
+k	마멀레이드	mameolleideu	marmalade
+k	마법소녀	mabeopsonyeo	magical girl (a girl or y…
+k	마블 케이크	mabeulkeikeu	
+k	마술 지팡이	masuljipangi	
+k	마스크 팩	maseukeupaek	
+k	마스크팩	maseukeupaek	facial mask
+k	마우스 패드	mauseupaedeu	
+k	마음고생	maeumgosaeng	
+k	마음에 들다	maeumedeulda	to catch one's fancy, to …
+k	마이크로칩	maikeurochip	
+k	마조히스트	majohiseuteu	
+k	마주뜨리다	majutteurida	('…과'가 나타나지 않을 때는 여럿임을 뜻하…
+k	마쯔야마 시	majjeuyamasi	일본 에히메 현의 현청 '마쓰야마 시'의 북한…
+k	마찰시키다	machalsikida	to cause to rub
+k	마찰층	machalcheung	지구 표면마찰의 영향이 미치는 대기경계층으로 …
+k	마쿠라코토바	makurakotoba	
+k	마쿠아후이틀	makuahuiteul	
+k	마트료시카	mateuryosika	matryoshka, Russian doll
+k	마하치칼라	mahachikalla	
+k	마흔다섯	maheundaseot	
+k	막내둥이	mangnaedungi	여러 형제 가운데 나이가 가장 어린 아이.
+k	막내아들	mangnaeadeul	여러 아들 가운데 맨 나중에 태어난 아들.
+k	막다른 골	makdareungol	
+k	막다른 길	makdareungil	
+k	막대사탕	makdaesatang	막대가 달려있는 사탕.
+k	막상막하	maksangmakha	(사자성어) 높고 낮음이 없다. 여러 사람 가…
+k	만각형	mangakhyeong	
+k	만경대	mangyeongdae	Mangyongdae (a neighbourh…
+k	만근지래	mangeunjirae	
+k	만날 약속	mannalyaksok	
+k	만년설	mannyeonseol	높은 산이나 고위도의 몹시 추운 지역에서 쌓인…
+k	만달루용	mandalluyong	
+k	만만찮다	manmanchanta	보통이 아니어서 손쉽게 다룰 수 없다.
+k	만백성	manbaekseong	
+k	만병초	manbyeongcho	
+k	만생종	mansaengjong	
+k	만성적	manseongjeok	chronic
+k	만성절	manseongjeol	
+k	만세동락	mansedongnak	
+k	만신창이	mansinchangi	being covered with wounds
+k	만억년	maneongnyeon	
+k	만유인력	manyuillyeok	universal gravitation
+k	만장일치	manjangilchi	unanimity
+k	만족시키다	manjoksikida	
+k	만주사변	manjusabyeon	
+k	만주호랑이	manjuhorangi	
+k	만포장이다	manpojangida	to be generous and plenti…
+k	만풍년	manpungnyeon	'대풍년'의 북한말.
+k	만화경	manhwagyeong	a kaleidoscope (tube of m…
+k	말굽자석	malgupjaseok	말굽 모양으로 생긴 자석.
+k	말그레하다	malgeurehada	조금 말그스름하다.
+k	말끄러미	malkkeureomi	눈을 똑바로 뜨고 오도카니 한곳만 바라보는 모…
+k	말끔하다	malkkeumhada	티 없이 깨끗하고 밝게 보이다.
+k	말다툼하다	maldatumhada	말로서 서로 다투다.
+k	말똥가리	malttonggari	The common buzzard, Buteo…
+k	말똥구리	malttongguri	dung beetle
+k	말똥하다	malttonghada	눈빛이나 정신 따위가 생기가 있고 말갛다.
+k	말뚱하다	malttunghada	
+k	말라깽이	mallakkaengi	a skinny person, a living…
+k	말라빠지다	mallappajida	scrawny, raw-boned
+k	말랑대다	mallangdaeda	'말랑거리다'.
+k	말소등기	malsodeunggi	
+k	말싸움하다	malssaumhada	'말다툼하다'.
+k	말씀하다	malsseumhada	to speak, to say
+k	말씬대다	malssindaeda	'말씬거리다'.
+k	말씹조개	malssipjogae	freshwater mussel
+k	말짱하다	maljjanghada	흠이 없고 온전하다.
+k	말카닥하다	malkadakhada	
+k	말캉대다	malkangdaeda	'말캉거리다'.
+k	말하자면	malhajamyeon	
+k	맑은얼음	makeuneoleum	투명한 얼음
+k	망가나이트	mangganaiteu	
+k	망각되다	manggakdoeda	
+k	망각증	manggakjeung	'건망증'의 북한말.
+k	망갈로르	manggalloreu	
+k	망고스틴	manggoseutin	The mangosteen
+k	망국대부	manggukdaebu	
+k	망국지민	manggukjimin	
+k	망국지본	manggukjibon	
+k	망국지음	manggukjieum	나라를 망하게 하는 음악, 즉 난잡하고 저속한…
+k	망국지탄	manggukjitan	
+k	망국지한	manggukjihan	
+k	망극하다	manggeukhada	immeasurable, immense, ex…
+k	망년지우	mangnyeonjiu	
+k	망년회	mangnyeonhoe	송년 모임, 송년회.
+k	망명자	mangmyeongja	
+k	망발되다	mangbaldoeda	
+k	망상하다	mangsanghada	이치에 맞지 아니한 망령된 생각을 하다.
+k	망연하다	mangyeonhada	clueless
+k	망울망울	mangulmangul	우유나 풀 따위 속에 망울이 여기저기 잘고 동…
+k	망원사진	mangwonsajin	
+k	망자존대	mangjajondae	
+k	망치뼈	mangchippyeo	
+k	매가오릿과	maegaoritgwa	
+k	매기단하다	maegidanhada	일의 뒤끝을 깨끗하게 맺다.
+k	매끈하다	maekkeunhada	무엇의 겉이 반지랍고 부드럽다.
+k	매끌하다	maekkeulhada	
+k	매끼럽다	maekkireopda	Pyongan and Hwanghae form…
+k	매도저당	maedojeodang	
+k	매듭짓다	maedeupjitda	
+k	매력적	maeryeokjeok	매력이 있고 기품이 있는.
+k	매력점	maeryeokjeom	
+k	매련하다	maeryeonhada	
+k	매몰비용	maemolbiyong	
+k	매삼매삼	maesammaesam	
+k	매설되다	maeseoldoeda	
+k	매스 미디어	maeseumidieo	mass media
+k	매슥대다	maeseukdaeda	'매슥거리다'.
+k	매아지구름	maeajigureum	
+k	매장되다	maejangdoeda	
+k	매장량	maejangnyang	
+k	매정하다	maejeonghada	
+k	매출원가	maechurwonga	
+k	매츳하다	maecheuthada	
+k	매치광이	maechigwangi	
+k	매혹적인	maehokjeogin	
+k	맥도날드	maekdonaldeu	McDonald's
+k	맥락막	maengnangmak	
+k	맥립종	maengnipjong	
+k	맥문동	maengmundong	
+k	맥상상	maeksangsang	
+k	맥주병	maekjubyeong	맥주를 담는 병. 또는 맥주가 담긴 병.
+k	맬롱하다	maellonghada	
+k	맬룽하다	maellunghada	
+k	맵살스레	maepsalseure	
+k	맵시 쿼크	maepsikwokeu	
+k	맷맷하다	maenmaethada	
+k	맹도견	maengdogyeon	
+k	맹맹히	maengmaenghi	
+k	맹목적	maengmokjeok	blind (love, passion, etc…
+e	machicolation	machicolation	1 meaning
+e	machine pistol	machinepistol	1 meaning
+e	macromolecule	macromolecule	1 meaning
+e	mad cow disease	madcowdisease	1 meaning
+e	madhya pradesh	madhyapradesh	1 meaning
+e	magic mushroom	magicmushroom	1 meaning
+e	magnetic field	magneticfield	1 meaning
+e	magnetization	magnetization	1 meaning
+e	magnetosphere	magnetosphere	1 meaning
+e	mahabaleshwar	mahabaleshwar	1 meaning
+e	mahāpratisarā	mahapratisara	1 meaning
+e	mainland china	mainlandchina	1 meaning
+e	mammatus cloud	mammatuscloud	1 meaning
+e	man of the world	manoftheworld	1 meaning
+e	management sim	managementsim	1 meaning
+e	mandela effect	mandelaeffect	1 meaning
+e	mandelbrot set	mandelbrotset	1 meaning
+e	manifestation	manifestation	1 meaning
+e	map projection	mapprojection	1 meaning
+e	marilyn monroe	marilynmonroe	1 meaning
+e	marine biology	marinebiology	1 meaning
+e	marital status	maritalstatus	1 meaning
+e	market economy	marketeconomy	1 meaning
+e	married couple	marriedcouple	1 meaning
+e	marseille soap	marseillesoap	1 meaning
+e	marsh marigold	marshmarigold	1 meaning
+e	marsupial lion	marsupiallion	1 meaning
+e	martial artist	martialartist	1 meaning
+e	mary magdalene	marymagdalene	1 meaning
+e	masked lapwing	maskedlapwing	1 meaning
+e	massachusetts	massachusetts	1 meaning
+e	master bedroom	masterbedroom	1 meaning
+e	master's degree	mastersdegree	1 meaning
+e	master's thesis	mastersthesis	1 meaning
+e	maternal death	maternaldeath	1 meaning
+e	maternal uncle	maternaluncle	1 meaning
+e	mathematician	mathematician	1 meaning
+e	maudgalyayana	maudgalyayana	1 meaning
+e	maxwell's demon	maxwellsdemon	1 meaning
+j	まいまいつぶり	maimaitsuburi	「かたつむり」の別名。
+j	まくしたてる	makushitateru	立て続けに喋る。言い立てる。
+j	まくらをぬらす	makuraonurasu	つらさや悲しさで寝床でひそかに泣く。
+j	まことしやか	makotoshiyaka	本当ではない、あるいは本当かどうかはわからないのに…
+j	まだるっこしい	madarukkoshii	言動が遅かったり、回りくどかったりしていらいらする…
+j	まとわりつく	matowaritsuku	絡み付く。
+j	まどろっこしい	madorokkoshii	synonym of まどろい
+j	ままごとをする	mamagotoosuru	
+j	まゆつばもの	mayutsubamono	人をだますもの。また、真偽の疑わしいもの。眉に唾を…
+j	まるはなばち	maruhanabachi	ミツバチ科ミツバチ亜科に属する蜂。
+j	まんぐりがえし	mangurigaeshi	男性が女性の脚を頭の方に持って行き膣が上を向いた状…
+j	マイクログラム	maikuroguramu	microgram
+j	マイクロスコープ	maikurosukopu	顕微鏡。光学顕微鏡。
+j	マイクロソフト	maikurosofuto	Microsoft
+j	マイクロチップ	maikurochippu	機械や体内に埋め込んで使う、超小型の集積回路。
+j	マイクロバイオーム	maikurobaiomu	人の腸内や皮膚など特定の環境に共生する微生物（細菌…
+j	マイクロビキニ	maikurobikini	布地の面積が非常に小さいビキニタイプの水着。
+j	マイクロブログ	maikuroburogu	非常に短い文章を投稿するためのブログ。
+j	マイクロメートル	maikurometoru	micrometre, (US) micromet…
+j	マイコプラズマ	maikopurazuma	細菌の中で最も小型の種類で細胞壁を持たない。ヒトに…
+j	マイナス成長	mainasuseicho	経済成長率が0 %未満、つまり国内総生産が減少して…
+j	マインドスポーツ	maindosupotsu	mind sport
+j	マカロニチーズ	makaronichizu	
+j	マクシミリアン	makushimirian	a transliteration of the …
+j	マサチューセッツ	masachusettsu	Massachusetts (a state of…
+j	マザーリシャリーフ	mazarisharifu	
+j	マジェランアイナメ	majeranainame	Patagonian toothfish (Dis…
+j	マスキュリズム	masukyurizumu	
+j	マスキングテープ	masukingutepu	masking tape
+j	マゼラン海峡	mazerankaikyo	
+j	マネキン人形	manekinningyo	synonym of マネキン (manekin,…
+j	マハラシュトラ	maharashutora	
+j	マライトゲタケ	maraitogetake	マライ、スマトラ、ジャワ、インドシナ、フィリピン（…
+j	マラッカ海峡	marakkakaikyo	
+j	マルキシスト	marukushisuto	
+j	マルキシズム	marukishizumu	マルクス主義。マルクシズム。
+j	マルキーズ諸島	marukizushoto	
+j	マルクシズム	marukushizumu	マルクス主義。マルキシズム。
+j	マルクスしゅぎ	marukusushugi	マルクス主義: Marxism
+j	マルクス主義	marukusushugi	Marxism
+j	マルコフ連鎖	marukofurensa	Markov chain
+j	マルコフ過程	marukofukatei	Markov process
+j	マルサス主義	marusasushugi	Malthusianism
+j	マルシュルートカ	marushurutoka	
+j	マルチタスク	maruchitasuku	
+j	マルチモーダル	maruchimodaru	ソフトウェアが画像、動画、音声、テキストなど複数の…
+j	マルハナバチ	maruhanabachi	「丸花蜂」の学術的表記。
+j	マレーシア料理	mareshiaryori	マレーシアの伝統的な料理。
+j	マーキュロクロム	makyurokuromu	有機水銀を含む消毒剤。固体は青緑または緑褐色の結晶…
+j	マークアップ言語	makuappugengo	
+j	マーチングバンド	machingubando	marching band
+j	丸花蜂	maruhanabachi	bumblebee
+j	円花蜂	maruhanabachi	
+j	又貸しする	matagashisuru	
+j	待ち伏せする	machibusesuru	
+j	待ち受け画面	machiukegamen	待受画面の表記揺れ。
+j	待ち行列	machigyoretsu	
+j	待受け画面	machiukegamen	待受画面の表記揺れ。
+j	待受画面	machiukegamen	携帯電話でどのアプリケーションも開いていない際の画…
+j	待合室	machiaishitsu	waiting room, waiting area
+j	慢性疾患	manseishikkan	慢性的な経過をたどる疾患の総称。慢性病。
+j	拙い	mazuitsutanai	
+j	捲し立てる	makushitateru	to talk on and on; to rat…
+j	曲がりくねった	magarikunetta	
+j	末期の水	matsugonomizu	臨終の際、近親者などがその人の口に含ませる水。死に…
+j	末梢神経	masshoshinkei	中枢神経系と体の各所を結ぶ神経の総称。
+j	枕状溶岩	makurajoyogan	玄武岩のような溶岩が水中に流れだし、急に冷やされた…
+j	枕草子	makuranososhi	The Pillow Book (collecti…
+j	毎日熱	mainichinetsu	
+j	満州民族	manshuminzoku	満洲民族の別表記。
+j	満洲民族	manshuminzoku	満州族の別名。
+j	満漢全席	mankanzenseki	Manchu–Han Imperial Feast
+j	満足させる	manzokusaseru	
+j	眉を顰める	mayuohisomeru	to frown, to scowl, to ra…
+j	眉唾物	mayutsubamono	questionable story, dubio…
+j	眉根を寄せる	mayuneoyoseru	to frown, to scowl, to ra…
+j	街の天使	machinotenshi	売春婦。特に街娼。
+j	負けるが勝ち	makerugakachi	つまらない争いを避け、その時は相手に勝ちを譲ること…
+j	貧しくする	mazushikusuru	
+j	間怠っこしい	madarukkoshii	slow, tedious, sluggish, …
+j	間違い電話	machigaidenwa	
+j	麻薬捜査犬	mayakusosaken	
+k	마그네사이트	mageunesaiteu	탄산 마그네슘으로 이루어진 탄산염 광물. 삼방…
+k	마녀사냥	manyeosanyang	
+k	마당너구리	madangneoguri	dog (animal)
+k	마땅찮다	mattangchanta	
+k	마뜩찮다	matteukchanta	'마뜩잖다'의 충청도 사투리.
+k	마르세유 비누	mareuseyubinu	
+k	마른반찬	mareunbanchan	
+k	마른번개	mareunbeongae	
+k	마른오징어	mareunojingeo	
+k	마른행주	mareunhaengju	
+k	마름질하다	mareumjilhada	옷감이나 재목 따위를 치수에 맞도록 재거나 자…
+k	마법 지팡이	mabeopjipangi	
+k	마법사의 돌	mabeopsauidol	
+k	마법의 단어	mabeobuidaneo	
+k	마수걸이하다	masugeorihada	
+k	마스터카드	maseuteokadeu	
+k	마이너스극	maineoseugeuk	'음극'.
+k	마이크로네시아	maikeuronesia	나라 이름 '미크로네시아'의 북한말.
+k	마이크로미터	maikeuromiteo	
+k	마이크로비즈	maikeurobijeu	
+k	마이크로코드	maikeurokodeu	
+k	마이트너륨	maiteuneoryum	meitnerium
+k	마지막 한 잔	majimakhanjan	
+k	마푸둥군어	mapudungguneo	남아메리카에 거주하는 마푸체족들이 쓰는 마푸체…
+k	마푸퉁군어	maputungguneo	
+k	마흔여덟	maheunyeodeol	
+k	마흔여섯	maheunyeoseot	
+k	만고불멸	mangobulmyeol	
+k	만고불변	mangobulbyeon	
+k	만고역적	mangoyeokjeok	
+k	만고절색	mangojeolsaek	
+k	만고풍상	mangopungsang	(사자성어) 오랜 세월 동안 겪은 많은 어려움.
+k	만다린 칼라	mandarinkalla	
+k	만들어지다	mandeureojida	to be made
+k	만분다행	manbundahaeng	
+k	만승지국	manseungjiguk	병거(兵車) 일만 채를 갖출 만한 힘이 있는 …
+k	만작거리다	manjakgeorida	'만지작거리다'의 준말.
+k	만작만작	manjangmanjak	
+k	만조백관	manjobaekgwan	조정의 모든 벼슬아치.
+k	만지작대다	manjijakdaeda	'만지작거리다'.
+k	말 그대로의	malgeudaeroui	
+k	말괄량이	malgwallyangi	말이나 하는 짓이 얌전하지 못하고 마치 사내처…
+k	말대꾸하다	maldaekkuhada	to talk back, retort, bac…
+k	말똥대다	malttongdaeda	'말똥거리다'.
+k	말뚱대다	malttungdaeda	
+k	말라얄람어	mallayallameo	Malayalam (a Dravidian la…
+k	말려들다	malryeodeulda	
+k	말카닥대다	malkadakdaeda	
+k	망가트리다	manggateurida	'망가뜨리다'.
+k	망극지은	manggeukjieun	
+k	망글대다	manggeuldaeda	
+k	망상증	mangsangjeung	
+k	망설대다	mangseoldaeda	'망설거리다'.
+k	망신시키다	mangsinsikida	
+k	망연자실	mangyeonjasil	
+k	망원 렌즈	mangwonrenjeu	
+k	망원경	mangwongyeong	telescope
+k	망중유한	mangjungyuhan	
+k	망중투한	mangjungtuhan	
+k	망측하다	mangcheukhada	
+k	망한민국	manghanminguk	South Korea
+k	망해도법	manghaedobeop	
+k	맞부딪치다	matbuditchida	to run into, to collide w…
+k	맞춤법의	matchumbeobui	
+k	맞흥정	matheungjeong	face-to-face bargaining, …
+k	매개변수	maegaebyeonsu	수학에서 두 변수를 묶어주는 변수.
+k	매끄럽다	maekkeureopda	to be smooth, velvety, sl…
+k	매끈대다	maekkeundaeda	'매끈거리다' .
+k	매끌대다	maekkeuldaeda	
+k	매도증서	maedojeungseo	
+k	매련스레	maeryeonseure	
+k	매련퉁이	maeryeontungi	
+k	매릴랜드	maerillaendeu	[~주(州)] alternative form …
+k	매매가격	maemaegagyeok	
+k	매발톱꽃	maebaltopkkot	columbine (any of various…
+k	매스껍다	maeseukkeopda	
+k	매시근하다	maesigeunhada	기운이 없고 나른하다.
+k	매인이름씨	maeinireumssi	(문법) 의존명사.
+k	매입상환	maeipsanghwan	
+k	매정스레	maejeongseure	
+k	매지근하다	maejigeunhada	더운 기운이 조금 있다.
+k	매초롬하다	maechoromhada	젊고 건강하여 아름다운 태가 있다.
+k	매치 포인트	maechipointeu	
+k	맥각병	maekgakbyeong	
+k	맥간세공	maekgansegong	
+k	맨체스터	maencheseuteo	
+k	맹그로브	maenggeurobeu	
+k	맹근하다	maenggeunhada	약간 매지근하다.
+k	맹랑하다	maengnanghada	생각하던 바와 달리 허망하다.
+k	맹려하다	maengnyeohada	사나워 도리에 어긋나다.
+k	맹장염	maengjangyeom	appendicitis (inflammatio…
+e	macaroni cheese	macaronicheese	1 meaning
+e	macroeconomics	macroeconomics	1 meaning
+e	magnesium oxide	magnesiumoxide	1 meaning
+e	make love, not war	makelovenotwar	1 meaning
+e	make up one's mind	makeuponesmind	1 meaning
+e	male chauvinism	malechauvinism	1 meaning
+e	male chauvinist	malechauvinist	1 meaning
+e	manchurian hare	manchurianhare	1 meaning
+e	mandarin collar	mandarincollar	1 meaning
+e	mandarin orange	mandarinorange	2 meanings
+e	marbled polecat	marbledpolecat	1 meaning
+e	marfan syndrome	marfansyndrome	1 meaning
+e	maritime earwig	maritimeearwig	1 meaning
+e	mark of the beast	markofthebeast	1 meaning
+e	markup language	markuplanguage	1 meaning
+e	marriage agency	marriageagency	1 meaning
+e	marsh sandpiper	marshsandpiper	1 meaning
+e	mashed potatoes	mashedpotatoes	1 meaning
+e	mass production	massproduction	1 meaning
+e	masturbatorium	masturbatorium	1 meaning
+e	maternity leave	maternityleave	1 meaning
+j	まかりまちがう	makarimachigau	synonym of まちがう (machigau…
+j	まぐわをかける	maguwawokakeru	
+j	まつやにあぶら	matsuyaniabura	松脂油: turpentine
+j	まつりばやし	matsuribayashi	神社の祭礼で笛や太鼓などで演奏される囃子。
+j	まつわりつく	matsuwaritsuku	絡み付く。
+j	マイナスドライバー	mainasudoraiba	flathead screwdriver
+j	マカロニペンギン	makaronipengin	
+j	マキバタヒバリ	makibatahibari	
+j	マクロコスモス	makurokosumosu	macrocosm
+j	マグナ・グラエキア	magunaguraekia	
+j	マグリブ礼拝	maguribureihai	日没直後に行う礼拝。
+j	マケドニア王国	makedoniaokoku	
+j	マザコンの男	mazakonnootoko	
+j	マシンリーダブル	mashinridaburu	
+j	マスギャザリング	masugyazaringu	世界中から大勢の観光客が一か所に集まり、感染症の拡…
+j	マスク会食	masukukaishoku	A proposed way of a dinin…
+j	マスク生活	masukuseikatsu	"mask life": daily wearin…
+j	マタニティードレス	matanitidoresu	妊婦のために胸回り、腹回りがゆったりつくられたドレ…
+j	マダガスカル語	madagasukarugo	The Malagasy language.
+j	マッチングアプリ	matchinguapuri	恋愛相手を探すためのスマートフォンのアプリケーショ…
+j	マニラ糸芭蕉	maniraitobasho	
+j	マニラ首都圏	manirashutoken	Metro Manila (a metropoli…
+j	マネーロンダリング	manerondaringu	不正な手段で得た資金を口座を転々と移動させて判らな…
+j	マネー・ロンダリング	manerondaringu	synonym of 資金洗浄 (“money l…
+j	マネー・ローンダリング	manerondaringu	
+j	マミジロコガラ	mamijirokogara	
+j	マラバール海岸	marabarukaigan	
+j	マラプロピズム	marapuropizumu	
+j	マルタ騎士団	marutakishidan	11世紀から18世紀までロドス島やマルタを領有した…
+j	マルチリンガル	maruchiringaru	3つ以上の言語を話すことができる人。
+j	マルティニーク人	marutinikuhito	
+j	マンダリンオレンジ	mandarinorenji	ムクロジ目ミカン科ミカン属に属する常緑低木の柑橘類…
+j	マンデラエフェクト	manderaefekuto	synonym of マンデラ効果 (Mander…
+j	マンハッタン距離	manhattankyori	各座標の差（の絶対値）の総和で表される距離。L¹距…
+j	マーケットプレイス	makettopureisu	物の売り買いがなされる広場。市場。
+j	幕の内弁当	makunochibento	小さな俵形に握ったおにぎりと、煮物・卵焼き・焼き魚…
+j	松脂油	matsuyaniabura	turpentine
+j	松葉崩し	matsubakuzushi	a sex position in which a…
+j	満更でもない	manzarademonai	not so bad; not that bad
+j	牧場田雲雀	makibatahibari	meadow pipit, Anthus prat…
+j	真似鶫	maneshitsugumi	a northern mockingbird
+j	真心込めて	magokorokomete	
+j	窓側の席	madogawanoseki	
+j	窓側座席	madogawazaseki	
+j	股座膏薬	mataguragoyaku	股の内側に張った膏薬が右や左の皮膚についたり離れた…
+j	魔女の集まり	majonoatsumari	
+j	麻薬常習者	mayakujoshusha	
+k	마그나 카르타	mageunakareuta	
+k	마늘냉국	maneullaengguk	garlic naengguk
+k	마다가스카르	madagaseukareu	Madagascar (an island cou…
+k	마디아프라데시	madiapeuradesi	
+k	마롱 글라세	maronggeullase	
+k	마르띠니끄	mareuttinikkeu	북아메리카에 위치한 프랑스령 '마르티니크'의 …
+k	마르크시즘	mareukeusijeum	
+k	마스카르포네	maseukareupone	
+k	마약 중독자	mayakjungdokja	
+k	마이크로버스	maikeurobeoseu	minibus
+k	마케도니아 사람	makedoniasaram	
+k	마키아벨리즘	makiabellijeum	
+k	마터호른산	mateohoreunsan	
+k	마하라슈트라	maharasyuteura	
+k	마하츠깔라	mahacheukkalla	러시아의 도시 '마하치칼라'의 북한말.
+k	만능선수	manneungseonsu	
+k	만델라 효과	mandellahyogwa	
+k	만리장성	mallijangseong	Great Wall of China (an a…
+k	만사태평	mansataepyeong	
+k	만성병	manseongbyeong	
+k	만약을 위해	manyageulwihae	
+k	만장일치로	manjangilchiro	
+k	만화영화	manhwayeonghwa	animated cartoon
+k	말긋말긋	malgeunmalgeut	
+k	말랑거리다	mallanggeorida	매우 또는 여기저기가 야들야들하게 보드랍고 무…
+k	말랑말랑	mallangmallang	
+k	말승냥이	malseungnyangi	large wolf or dhole
+k	말씨름하다	malssireumhada	말로서 씨름하다. 다시 말해 말로 싸움하다.
+k	말씬거리다	malssingeorida	잘 익거나 물러서 매우 또는 여기저기가 연하고…
+k	말씬말씬	malssinmalssin	
+k	말음 법칙	mareumbeopchik	국어의 자음이 종성으로 쓰일 때, 제 음가를 …
+k	말캉거리다	malkanggeorida	너무 익거나 곯아서 물크러질 정도로 매우 또는…
+k	말캉말캉	malkangmalkang	
+k	맑은착빙	makeunchakbing	공기 중의 과냉각된 물방울이 얼음이 되어 지물…
+k	맛있게 드세요	masitgedeuseyo	enjoy your meal, bon appé…
+k	맛젖버섯	matjeotbeoseot	
+k	망가뜨리다	manggatteurida	부수거나 찌그러지게 하여 못 쓰게 만들다.
+k	망각곡선	manggakgokseon	
+k	망국민족	manggungminjok	
+k	망극지통	manggeukjitong	
+k	망년지교	mangnyeonjigyo	
+k	망망대해	mangmangdaehae	크기가 한없이 커서 끝이 보이지 않는 막막한 …
+k	망실망실	mangsilmangsil	
+k	맞닥뜨리다	matdaktteurida	
+k	맞아넘어지기	majaneomeojigi	(권투) '녹다운'의 북한말.
+k	매그니튜드	maegeunityudeu	
+k	매끄러지다	maekkeureojida	
+k	매달린 사람	maedalrinsaram	The Hanged Man (Tarot car…
+k	매련쟁이	maeryeonjaengi	
+k	매롱매롱	maerongmaerong	
+k	매매결혼	maemaegyeolhon	
+k	매사추세츠	maesachusecheu	[~주(州)] Massachusetts (a …
+k	매스 스타트	maeseuseutateu	
+k	매슥거리다	maeseukgeorida	먹은 것이 되넘어 올 것같이 속이 자꾸 울렁거…
+k	매실매실히	maesilmaesilhi	
+k	매욱스럽다	maeukseureopda	
+k	매작지근히	maejakjigeunhi	
+k	매출원장	maechurwonjang	
+k	매표소 실패	maepyososilpae	
+k	매화타령	maehwataryeong	
+k	맥박곡선	maekbakgokseon	
+k	맴돌이운동	maemdoliundong	
+k	맹렬하다	maengnyeolhada	furious; fierce
+k	맹맹하다	maengmaenghada	음식 따위가 제맛이 나지 아니하고 싱겁다.
+k	맹비난하다	maengbinanhada	to condemn harshly
+e	macaroni penguin	macaronipenguin	1 meaning
+e	machine language	machinelanguage	1 meaning
+e	machine learning	machinelearning	1 meaning
+e	machine-readable	machinereadable	1 meaning
+e	maclaurin series	maclaurinseries	1 meaning
+e	magnetic compass	magneticcompass	1 meaning
+e	magnifying glass	magnifyingglass	1 meaning
+e	maintainability	maintainability	1 meaning
+e	mandate of heaven	mandateofheaven	1 meaning
+e	manic depression	manicdepression	1 meaning
+e	manoeuvrability	manoeuvrability	1 meaning
+e	marginal utility	marginalutility	1 meaning
+e	marine biologist	marinebiologist	1 meaning
+e	marshall islands	marshallislands	1 meaning
+e	marshalling yard	marshallingyard	1 meaning
+e	marxism-leninism	marxismleninism	1 meaning
+e	marxist-leninist	marxistleninist	1 meaning
+e	masked palm civet	maskedpalmcivet	1 meaning
+e	master craftsman	mastercraftsman	1 meaning
+e	master of science	masterofscience	1 meaning
+e	materialization	materialization	1 meaning
+e	mato grosso do sul	matogrossodosul	1 meaning
+j	まことしやかな	makotoshiyakana	
+j	まだに感染症	madanikansensho	「真蜱感染症」の異表記。
+j	まだ生まれていない	madaumareteinai	
+j	まちがいさがし	machigaisagashi	間違い探し: spot the difference
+j	まないたにのせる	manaitaninoseru	批評や考察などの対象として取り上げる。
+j	マイクロコンピュータ	maikurokonpyuta	卓上に置けるような小型のコンピュータ。マイクロプロ…
+j	マイクロコンピューター	maikurokonpyuta	microcomputer
+j	マインドコントロール	maindokontororu	
+j	マカダミアナッツ	makadamianattsu	
+j	マカロニウェスタン	makaroniwesutan	
+j	マカロニウエスタン	makaroniuesutan	a spaghetti western
+j	マカロニ・ウェスタン	makaroniwesutan	
+j	マグダラのマリア	magudaranomaria	Mary Magdalene
+j	マグネシウムイオン	maguneshiumuion	イオン式Mg²⁺で表されるマグネシウムの陽イオン。
+j	マシニングセンター	mashiningusenta	machining center
+j	マジカルステッキ	majikarusutekki	magical girl's magic wand…
+j	マダニ感染症	madanikansensho	「真蜱感染症」の異表記。
+j	マッチドグリップ	matchidogurippu	matched grip
+j	マディヤ・プラデーシュ	madiyapuradeshu	
+j	マニュスクリプト	manyusukuriputo	手書きの文書。手稿。写本。
+j	マハーバレーシュワル	mahabareshuwaru	
+j	マヒリョウ	mahiryomahiryou	
+j	マラウイ共和国	marauikyowakoku	マラウイの正式な国号。
+j	マルケサス諸島	marukesasushoto	
+j	マルセイユ石鹸	maruseiyusekken	
+j	マルタ共和国	marutakyowakoku	Republic of Malta (offici…
+j	マルファン症候群	marufanshokogun	
+j	マンション管理士	manshonkanrishi	マンションの管理、大規模修繕等を行う職業。
+j	マンション管理業	manshonkanrigyo	マンション管理組合から委託を受けて管理事務（マンシ…
+j	マンスプレイニング	mansupureiningu	
+j	マンスプレッディング	mansupureddingu	
+j	丸ゴシック体	marugoshikkutai	rounded sans-serif
+j	実しやかに	makotoshiyakani	as if it were true; with …
+j	待ちくたびれる	machikutabireru	to be tired of waiting, t…
+j	枕を重ねる	makuraokasaneru	夜を共にする。
+j	真似を許さない	manewoyurusanai	
+j	真心を込めて	magokorookomete	
+j	真蜱感染症	madanikansensho	「重症熱性血小板減少症候群」の別名。SFTS。
+j	禍津日神	magatsuhinokami	the gods of calamity or m…
+j	間違い探し	machigaisagashi	spot the difference (puzz…
+j	麻薬探知犬	mayakutanchiken	
+k	마그데부르크	mageudebureukeu	
+k	마나사로와르 호	manasarowareuho	
+k	마다가스까르	madagaseukkareu	섬 또는 나라 이름 '마다가스카르'의 북한에서…
+k	마라손경기	marasongyeonggi	'마라톤'의 북한말.
+k	마로끄 왕국	marokkeuwangguk	
+k	마록마록하다	marongmarokhada	
+k	마르크스주의	mareukeuseujuui	Marxism
+k	마리아 막달레나	mariamakdalrena	
+k	마모셋원숭이	mamosedwonsungi	marmoset
+k	마법의 버섯	mabeobuibeoseot	
+k	마스킹 테이프	maseukingteipeu	
+k	마스트리히트	maseuteurihiteu	
+k	마약탐지견	mayaktamjigyeon	
+k	마오쩌둥주의	maojjeodungjuui	
+k	마음을 바꾸다	maeumeulbakkuda	
+k	마음의 상처	maeumuisangcheo	
+k	마이크로그램	maikeurogeuraem	
+k	막감개구하다	makgamgaeguhada	
+k	막다른 골목	makdareungolmok	
+k	막대그래프	makdaegeuraepeu	
+k	막창자꼬리	makchangjakkori	막창자(맹장) 끝에 붙어 있는 자루주머니 모양…
+k	만델라 이펙트	mandellaipekteu	
+k	만면희색	manmyeonhuisaek	기쁨으로 가득한 얼굴빛.
+k	만사형통	mansahyeongtong	
+k	만족스럽다	manjokseureopda	to be satisfactory
+k	만지작거리다	manjijakgeorida	가볍게 주무르듯이 자꾸 만지다.
+k	만패불청	manpaebulcheong	바둑에서, 큰 패가 생겼을 때 상대편이 어떠한…
+k	만학천봉	manhakcheonbong	
+k	말그스레하다	malgeuseurehada	
+k	말그스름히	malgeuseureumhi	
+k	말똥거리다	malttonggeorida	생기 있고 또랑또랑한 눈알을 자꾸 굴리며 말끄…
+k	말뚱거리다	malttunggeorida	
+k	말라바르 해안	mallabareuhaean	
+k	말을 더듬다	mareuldeodeumda	
+k	말이 씨가 된다	marissigadoenda	Watch what you say; be ca…
+k	말초신경	malchosingyeong	
+k	말카닥거리다	malkadakgeorida	
+k	맑스그레하다	makseugeurehada	
+k	맛있게 먹어요	masitgemeogeoyo	
+k	망글거리다	manggeulgeorida	
+k	망사 스타킹	mangsaseutaking	
+k	망설거리다	mangseolgeorida	이리저리 생각만 자꾸 하고 태도를 결정하지 못…
+k	매끄당하다	maekkeudanghada	
+k	매끈거리다	maekkeungeorida	매끄럽고 반드러워서 자꾸 밀리어 나가다.
+k	매끌거리다	maekkeulgeorida	
+k	매스커레이드	maeseukeoreideu	
+k	매슥매슥	maeseungmaeseuk	
+k	매시드 포테이토	maesideupoteito	
+k	매크로 블록	maekeurobeullok	
+k	맨스플레인	maenseupeullein	mansplaining
+k	맴돌이흐름	maemdoliheureum	바람이 통과하는 길에 있는 장애물의 크기 정도…
+k	맹모삼천	maengmosamcheon	(고사성어) '맹모삼천지교'를 줄여 이르는 말.
+e	machiavellianism	machiavellianism	1 meaning
+e	machine-translate	machinetranslate	1 meaning
+e	macrophotography	macrophotography	1 meaning
+e	mahāsthāmaprāpta	mahasthamaprapta	1 meaning
+e	male circumcision	malecircumcision	1 meaning
+e	managing director	managingdirector	1 meaning
+e	mao zedong thought	maozedongthought	1 meaning
+e	marquesas islands	marquesasislands	1 meaning
+e	marriage equality	marriageequality	1 meaning
+e	masticatory force	masticatoryforce	1 meaning
+e	materials science	materialsscience	1 meaning
+j	マイクロコントローラ	maikurokontorora	
+j	マイクロプロセッサ	maikuropurosessa	マイクロコンピュータのマイクロプロセッサとは、コン…
+j	マイクロプロセッサー	maikuropurosessa	
+j	マイナーアドイレブンス	mainaadoirebunsu	短三和音に根音から完全十一度の音を加えたコード。
+j	マクロ経済学	makurokeizaigaku	個々の経済活動を集計し、一国または地域全体の経済活…
+j	マグニトゴルスク	magunitogorusuku	
+j	マサチューセッツ州	masachusettsushu	the full form of マサチューセッツ…
+j	マザーコンプレックス	mazakonpurekkusu	Oedipus complex
+j	マジックリアリズム	majikkuriarizumu	
+j	マスターベーションする	masutabeshonsuru	
+j	マスプロダクション	masupurodakushon	大量生産。量産。
+j	マッドサイエンティスト	maddosaientisuto	
+j	マハラシュトラ州	maharashutorashu	
+j	マミジロアジサシ	mamijiroajisashi	
+j	マリ・エル共和国	marierukyowakoku	
+j	マルクス主義者	marukusushugisha	
+j	マンゲルヴルツェル	mangeruvurutseru	
+j	マンデルブロ集合	manderuburoshugo	
+j	守ってはならない	mamottehanaranai	
+j	曲がりくねっている	magarikunetteiru	
+j	末尾呼び出し	matsubiyobidashi	tail call
+j	末梢神経系	masshoshinkeikei	a peripheral nervous syst…
+j	毎日毎日	mainichimainichi	
+j	眉白野鶲	mamijironohitaki	
+j	麻薬中毒者	mayakuchudokusha	
+k	마구간지신풀이	maguganjisinpuri	
+k	마그나 그라이키아	mageunageuraikia	
+k	마그네틱테이프	mageunetikteipeu	
+k	마다가스카르어	madagaseukareueo	
+k	마디아프라데시 주	madiapeuradesiju	
+k	마롱마롱하다	marongmaronghada	
+k	마르코 복음서	mareukobogeumseo	
+k	마스터베이션	maseuteobeisyeon	masturbation
+k	마스터플랜	maseuteopeullaen	종합 계획, 기본 계획, 기본 설계
+k	마이크로네이션	maikeuroneisyeon	
+k	마이크로소프트	maikeurosopeuteu	Microsoft
+k	마인크래프트	mainkeuraepeuteu	
+k	마자르이샤리프	majaleuisyalipeu	
+k	마젤란 해협	majellanhaehyeop	
+k	마투그로수두술	matugeurosudusul	
+k	마하라슈트라 주	maharasyuteuraju	Maharashtra (a state in w…
+k	만경창파	mangyeongchangpa	
+k	만병통치	manbyeongtongchi	
+k	만재배수량	manjaebaesuryang	(선박) 배에 화물을 가득 적재했을 때 밀려나…
+k	만지적거리다	manjijeokgeorida	'만지작거리다'의 비표준어.
+k	말단비대증	maldanbidaejeung	
+k	말똥말똥	malttongmalttong	
+k	말뚱말뚱	malttungmalttung	
+k	말라프로피즘	mallapeuropijeum	
+k	맛있게 드십시오	masitgedeusipsio	
+k	망글망글	manggeulmanggeul	
+k	망설망설	mangseolmangseol	
+k	망울망울하다	mangulmangulhada	
+k	맞춤형아기	matchumhyeongagi	
+k	매끄당대다	maekkeudangdaeda	'매끄당거리다'.
+k	매끈둥하다	maekkeundunghada	
+k	매끈매끈	maekkeunmaekkeun	무엇의 겉이 반지랍고 미끄러운 모양 또는 그런…
+k	매끌매끌	maekkeulmaekkeul	
+k	매시강수량	maesigangsuryang	1시간을 기준으로, 매 시간마다 관측한 비 또…
+k	매실매실하다	maesilmaesilhada	
+k	매작지근하다	maejakjigeunhada	
+k	매춘관광	maechungwangwang	
+k	매츳매츳	maecheunmaecheut	
+k	맥주 양조장	maekjuyangjojang	
+k	맨둥맨둥	maendungmaendung	
+k	맨송맨송	maensongmaensong	
+k	맨숭맨숭	maensungmaensung	
+k	맨해튼 거리	maenhaeteungeori	
+k	맬롱맬롱	maellongmaellong	
+k	맬룽맬룽	maellungmaellung	
+k	맵살스럽다	maepsalseureopda	
+e	make oneself at home	makeoneselfathome	1 meaning
+e	maladministration	maladministration	1 meaning
+e	malayan night heron	malayannightheron	1 meaning
+e	maternity hospital	maternityhospital	1 meaning
+e	mathematical model	mathematicalmodel	1 meaning
+j	マクスウェルの悪魔	makusuwerunoakuma	Maxwell's demon
+j	マグネシウム合金	maguneshiumugokin	
+j	マジックマッシュルーム	majikkumasshurumu	magic mushroom
+j	マスコミュニケーション	masukomyunikeshon	mass communication; mass …
+j	マッチングドネーション	matchingudoneshon	（企業などが個人などの寄付に合わせて）同額の寄付を…
+j	マミジロミツドリ	mamijiromitsudori	
+j	マラカナンの悲劇	marakanannohigeki	
+j	枕を共にする	makuraotomonisuru	夜を共にする。
+j	蒔かぬ種は生えぬ	makanutanewahaenu	
+j	間違いを認める	machigaiomitomeru	
+j	麻薬密売人	mayakumitsubainin	
+k	마르크스주의자	mareukeuseujuuija	
+k	마오쩌둥 사상	maojjeodungsasang	Maoism; Mao Zedong Thought
+k	마이크로블로그	maikeurobeullogeu	microblog
+k	마카로니웨스턴	makaroniweseuteon	
+k	마카베오기 상권	makabeogisanggwon	1 Maccabees
+k	막대나선은하	makdaenaseoneunha	
+k	만작만작하다	manjangmanjakhada	
+k	만지작만지작	manjijangmanjijak	
+k	많거나 적거나	mankeonajeokgeona	
+k	말그스름하다	malgeuseureumhada	
+k	말라 비틀어지다	mallabiteureojida	부피가 작다
+k	말썽꾸러기	malsseongkkureogi	troublemaker, mischief-ma…
+k	말카닥말카닥	malkadangmalkadak	
+k	말할 것도 없다	malhalgeotdoeopda	
+k	맛있었습니다	masisseotseumnida	
+k	망명정부	mangmyeongjeongbu	
+k	망원경자리	mangwongyeongjari	
+k	매끈둥대다	maekkeundungdaeda	'매끈둥거리다'
+k	매련스럽다	maeryeonseureopda	터무니없는 고집을 부릴 정도로 어리석고 둔한 …
+k	매부리바다거북	maeburibadageobuk	hawksbill sea turtle
+k	매정스럽다	maejeongseureopda	
+k	맥동전파원	maekdongjeonpawon	pulsar
+k	맥주 두 잔 주세요	maekjudujanjuseyo	
+k	맹렬해지다	maengnyeolhaejida	to fiercen, grow violent
+e	machine translation	machinetranslation	2 meanings
+e	magnesium carbonate	magnesiumcarbonate	1 meaning
+e	make yourself at home	makeyourselfathome	1 meaning
+e	manchurian wild rice	manchurianwildrice	1 meaning
+j	マケドニア共和国	makedoniakyowakoku	Republic of Macedonia (fo…
+j	マディヤ・プラデーシュ州	madiyapuradeshushu	
+j	マトリョーシカ人形	matoryoshikaningyo	「マトリョーシカ」を参照。
+j	マルクス・レーニン主義	marukusureninshugi	Marxism-Leninism
+j	マルクス経済学	marukusukeizaigaku	1867年から1894年にかけてマルクス及びエンゲ…
+j	マレーアカニシキヘビ	mareakanishikihebi	a Brongersma's short-tail…
+j	全く分かりません	mattakuwakarimasen	
+j	勝るとも劣らない	masarutomootoranai	to compare favorably
+j	慢性疲労症候群	manseihiroshokogun	
+j	松方正義	matsukatamasayoshi	明治時代から大正時代の日本の政治家・教育者。183…
+k	마더 콤플렉스	madeokompeullekseu	the condition of being a …
+k	마라카낭의 비극	marakananguibigeuk	
+k	마르탱뒤가르	mareutaengdwigareu	
+k	마음을 아프게 하다	maeumeulapeugehada	
+k	마이크로컴퓨터	maikeurokeompyuteo	
+k	마이크로프로세서	maikeuropeuroseseo	microprocessor
+k	만지적만지적	manjijeokmanjijeok	'만지작만지작'의 비표준어.
+k	말긋말긋하다	malgeunmalgeuthada	
+k	말뚝망둥어	malttungmangdungeo	The shuttles mudskipper, …
+k	말랑말랑하다	mallangmallanghada	
+k	말씬말씬하다	malssinmalssinhada	
+k	말초 신경계	malchosingyeonggye	(의학) 말초 신경 계통
+k	말캉말캉하다	malkangmalkanghada	
+k	망델브로 집합	mangdelbeurojiphap	
+k	망실망실하다	mangsilmangsilhada	
+k	매끄당거리다	maekkeudanggeorida	몹시 매끄러워서 넘어질 듯 자꾸 밀리어 나가다.
+k	매롱매롱하다	maerongmaeronghada	
+k	맨둥맨둥히	maendungmaendunghi	'맨둥맨둥'.
+k	맨송맨송히	maensongmaensonghi	
+e	macular degeneration	maculardegeneration	1 meaning
+e	magnetic flux density	magneticfluxdensity	1 meaning
+e	make a name for oneself	makeanameforoneself	1 meaning
+e	marriage certificate	marriagecertificate	1 meaning
+e	maternal grandfather	maternalgrandfather	1 meaning
+e	maternal grandmother	maternalgrandmother	1 meaning
+j	マイクロプラスチック	maikuropurasuchikku	微小になったプラスチック。
+j	マタニティハラスメント	matanitiharasumento	workplace discrimination …
+j	マタニティーハラスメント	matanitiharasumento	
+j	マテリアルアドバンテージ	materiaruadobanteji	盤上に残っている自分の駒の価値の合計が、相手よりも…
+j	丸呑みフェティシズム	marunomifetishizumu	
+k	마우나케아 천문대	maunakeacheonmundae	
+k	마케도니아 공화국	makedoniagonghwaguk	
+k	만병통치약	manbyeongtongchiyak	panacea; cure-all (all-cu…
+k	말괄량이 삐삐	malgwallyangippippi	
+k	말코손바닥사슴	malkosonbadaksaseum	elk, moose
+k	맞춤법 검사기	matchumbeopgeomsagi	
+k	매끈둥거리다	maekkeundunggeorida	부드럽고 매끄러워서 자꾸 밀리어 나가다.
+k	매슥매슥하다	maeseungmaeseukhada	
+k	맹꽁징꽁	maengkkongjingkkong	
+e	madagascar periwinkle	madagascarperiwinkle	1 meaning
+e	magnetohydrodynamics	magnetohydrodynamics	1 meaning
+e	mathematical analysis	mathematicalanalysis	1 meaning
+e	matter of life and death	matteroflifeanddeath	1 meaning
+e	may the force be with you	maytheforcebewithyou	1 meaning
+j	マクスウェル方程式	makusuweruhoteishiki	「マクスウェルの方程式」の異表記。
+j	マタイによる福音書	matainiyorofukuinsho	
+j	マダラカンムリアリモズ	madarakammuriarimozu	
+j	慢性アルコール中毒	manseiarukoruchudoku	アルコール飲料の一定量の継続的な摂取により、アルコ…
+j	毎日が勉強です	mainichigabenkyodesu	
+j	真綿で首を絞める	mawatadekubioshimeru	"to strangle with floss-s…
+j	迷ってしまいました	mayotteshimaimashita	
+k	마그니토고르스크	mageunitogoreuseukeu	
+k	마께도니아 공화국	makkedoniagonghwaguk	
+k	마름모십이면체	mareummosibimyeonche	
+k	마스터베이션하다	maseuteobeisyeonhada	손이나 다른 물건으로 자기의 성기를 자극하여 …
+k	많은 시간이 걸리다	maneunsiganigeollida	
+k	말똥말똥하다	malttongmalttonghada	
+k	말뚱말뚱하다	malttungmalttunghada	
+k	말짱말짱하다	maljjangmaljjanghada	
+k	망글망글하다	manggeulmanggeulhada	
+k	매개변수화하다	maegaebyeonsuhwahada	
+k	매끈매끈하다	maekkeunmaekkeunhada	무엇의 겉이 반지랍고 미끄럽다.
+k	매끌매끌하다	maekkeulmaekkeulhada	몹시 매끄럽다.
+k	매츳매츳하다	maecheunmaecheuthada	
+k	맥스웰의 도깨비	maekseuweruidokkaebi	
+k	맨둥맨둥하다	maendungmaendunghada	
+k	맨송맨송하다	maensongmaensonghada	
+k	맨숭맨숭하다	maensungmaensunghada	
+k	맬롱맬롱하다	maellongmaellonghada	
+k	맬룽맬룽하다	maellungmaellunghada	
+k	맹꽁맹꽁	maengkkongmaengkkong	ribbit-ribbit; while croa…
+k	맹모삼천지교	maengmosamcheonjigyo	(고사성어) 맹자의 어머니가 어린 아들 맹자를…
+e	make one's bed and lie in it	makeonesbedandlieinit	1 meaning
+e	marriage of convenience	marriageofconvenience	1 meaning
+e	mathematical economics	mathematicaleconomics	1 meaning
+j	マットグロッソ・ド・スル州	mattogurossodosurushu	
+j	マルコによる福音書	marukoniyorofukuinsho	
+j	マーシャル諸島共和国	masharushotokyowakoku	Republic of the Marshall …
+k	마그니또고르스크	mageunittogoreuseukeu	러시아 첼랴빈스크 주의 도시 '마그니토고르스크…
+k	만지작만지작하다	manjijangmanjijakhada	
+k	말단청색증	maldancheongsaekjeung	
+k	말은 청산유수다	maleuncheongsanyusuda	쉴 새없이 말을 늘어놓는 사람을 견주어 말할 …
+k	말카닥말카닥하다	malkadangmalkadakhada	
+k	망명 신청자	mangmyeongsincheongja	
+e	magnetic susceptibility	magneticsusceptibility	1 meaning
+e	magnetoencephalography	magnetoencephalography	1 meaning
+e	magnificent frigatebird	magnificentfrigatebird	1 meaning
+e	many hands make light work	manyhandsmakelightwork	1 meaning
+j	まん延防止等重点措置	manenboshitojutensochi	特定の地域において新型インフルエンザ等感染症の蔓延…
+j	マクスウェルの方程式	makusuwerunohoteishiki	電磁気学の基礎方程式。
+j	マニュアルトランスミッション	manyuarutoransumisshon	自動車やオートバイ、農業機械などにおいてエンジンの…
+j	マルチカルチュラリズム	maruchikaruchurarizumu	
+j	待てば海路の日和あり	matebakaironohiyoriari	good things come to those…
+k	마름모육팔면체	mareummoyukpalmyeonche	
+k	만나서 반갑습니다	mannaseobangapseumnida	pleased to meet you
+k	말초 신경 계통	malchosingyeonggyetong	(의학) 중추 신경 계통으로부터 피부, 근육,…
+k	말초신경계통	malchosingyeonggyetong	
+k	매끄당매끄당	maekkeudangmaekkeudang	
+e	make a spectacle of oneself	makeaspectacleofoneself	1 meaning
+e	many a mickle makes a muckle	manyamicklemakesamuckle	1 meaning
+j	マルチプレキシングする	maruchipurekishingusuru	
+k	마스터베이션을 하다	maseuteobeisyeoneulhada	
+k	마이크로프로그래밍	maikeuropeurogeuraeming	
+k	맹꽁징꽁하다	maengkkongjingkkonghada	
+e	magnetic resonance imaging	magneticresonanceimaging	1 meaning
+e	make hay while the sun shines	makehaywhilethesunshines	1 meaning
+j	豆を煮るに萁を燃く	mameonirunimamegaraotaku	豆を煮るにその萁を燃くの別形。
+k	마음을 따뜻하게 하다	maeumeulttatteuthagehada	
+k	매끈둥매끈둥	maekkeundungmaekkeundung	
+k	맹꽁맹꽁하다	maengkkongmaengkkonghada	'맹꽁징꽁하다'.
+e	make an exhibition of oneself	makeanexhibitionofoneself	1 meaning
+j	マイナーシックスフラットファイブ	mainashikkusufurattofaibu	短三和音の5度を半音下げ、6度を加えたコード。
+j	慢性閉塞性肺疾患	manseiheisokuseihaishikkan	
+j	摩訶般若波羅蜜多心経	makahannyaharamittashingyo	synonym of 般若心経 (Hannya S…
+j	蒔いた種は刈らねばならない	maitatanewakaranebanaranai	
+k	만성 소모성 질병	manseongsomoseongjilbyeong	
+k	매끄당매끄당하다	maekkeudangmaekkeudanghada	
+e	make a mountain out of a molehill	makeamountainoutofamolehill	1 meaning
+e	man shall not live by bread alone	manshallnotlivebybreadalone	1 meaning
+k	마지막에 웃는 자가 승자다	majimageunneunjagaseungjada	
+k	말은 보태고 떡은 뗀다	maleunbotaegotteokeunttenda	말은 입에서 입으로 전해지면서 부풀려지기 마련…
+j	豆を煮るにその萁を燃く	mameonirunisonomamegaraotaku	親しい者や内輪同士で争うということ。煮豆燃萁。
+k	매끈둥매끈둥하다	maekkeundungmaekkeundunghada	
+k	만성 폐쇄성 폐질환	manseongpyeswaeseongpyejilhwan	
+j	満足と放縦の牧歌的な土地	manzokutohojunobokkatekinatochi	
+j	まさかの時の友こそ真の友	masakanotokinotomokososhinnotomo	
+j	マケドニア旧ユーゴスラビア共和国	makedoniakyuyugosurabiakyowakoku	former Yugoslav Republic …
+j	末日聖徒イエス・キリスト教会	matsujitsuseitoiesukirisutokyokai	
+j	学びて思わざれば則ち罔し	manabiteomowazarebasunawachikurashi	If one learns without thi…
+k	말 한마디에 천 냥 빚도 갚는다	malhanmadiecheonnyangbitdogapneunda	말만 잘하면 어려운 일이나 불가능해 보이는 일…
+k	망상형 정신 분열병	mangsanghyeongjeongsinbunyeolbyeong	
+k	말만 잘하면 천 냥 빚도 가린다	malmanjalhamyeoncheonnyangbitdogarinda	말을 함부로 하지 말고 때와 장소에 따라서 조…
+j	慢性原発性副腎皮質機能低下症	manseigenpatsuseifukujinhishitsukinoteikasho	副腎の機能低下により、低血圧、低血糖、皮膚などへの…

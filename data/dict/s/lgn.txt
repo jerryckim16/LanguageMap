@@ -1,0 +1,13 @@
+e	gnu	gnu	1 meaning
+e	gnat	gnat	1 meaning
+e	gnaw	gnaw	1 meaning
+e	gnash	gnash	1 meaning
+e	gnome	gnome	1 meaning
+e	gnarly	gnarly	1 meaning
+e	gneiss	gneiss	1 meaning
+e	gnomon	gnomon	1 meaning
+e	gnocchi	gnocchi	1 meaning
+e	gnomefish	gnomefish	1 meaning
+e	gnoseology	gnoseology	1 meaning
+e	gnosticism	gnosticism	1 meaning
+e	gnatcatcher	gnatcatcher	1 meaning

@@ -1,0 +1,1711 @@
+j	あん	an	to be
+j	アン	an	案: plan, scheme
+j	安	an	calm; peaceful
+j	按	an	push (with hands); press
+j	晏	an	late (of time)
+j	暗	an	darkness
+j	案	an	desk; table
+j	餡	an	bean jam
+k	안	an	inside
+e	and	and	5 meanings
+e	ann	ann	1 meaning
+e	ant	ant	2 meanings
+e	any	any	3 meanings
+j	あな	ana	Exclamatory; ah!; oh!; my…
+j	あに	ani	親を同じくする年上の男子。実兄。
+j	あにい	ani	elder brother (term of ad…
+j	あね	ane	姉: elder sister, mostly o…
+j	あの	ano	that ... over there (far …
+j	あのう	ano	excuse me (to draw attent…
+j	あのぉ	ano	
+j	あのー	ano	
+j	あーね	ane	ああ、なるほどね。
+j	アナ	ana	Honorific used for news a…
+j	兄	ani	elder brother
+j	姉	ane	elder sister
+j	姐	ane	
+j	孔	ana	(あな) くぼんだ所。穴ぼこ。鼻や耳の穴、陰門につ…
+j	安慰	ani	心を安らかにして慰めること。
+j	安易	ani	easy
+j	穴	ana	hole
+j	豈	ani	a rhetorical interrogativ…
+k	아니	ani	no; not
+k	안에	ane	
+k	앙	ang	Conveys a baby's crying.
+e	anal	anal	1 meaning
+e	anew	anew	1 meaning
+e	anfo	anfo	1 meaning
+e	anju	anju	1 meaning
+e	ankh	ankh	1 meaning
+e	anna	anna	1 meaning
+e	anoa	anoa	1 meaning
+e	anti-	anti	1 meaning
+e	antu	antu	1 meaning
+e	anus	anus	1 meaning
+e	anya	anya	1 meaning
+j	あんき	anki	
+j	あんこ	anko	daughter; young lady
+j	あんじょう	anjo	具合よく。うまく。
+j	あんた	anta	対称の代名詞「あなた」のぞんざいな表現。
+j	あんだ	anda	編板の訛。
+j	あんど	ando	「安堵」のひらがな表記。
+j	あんな	anna	like that, such (referrin…
+j	あんね	anne	
+j	あんべ	anbe	sickness
+j	あんま	anma	あんまり。大して。それほど。
+j	あんまー	anma	
+j	あんよ	anyo	foot
+j	アノア	anoa	anoa
+j	アンカー	anka	anchor (a tool used to mo…
+j	アンク	anku	ankh
+j	アンケ	anke	
+j	アンコウ	anko	鮟鱇: anglerfish
+j	アンコー	anko	自摸によりつくった刻子。
+j	アンジェ	anje	
+j	アンジョ	anjo	（キリシタンの用語で）天使。
+j	アンズ	anzu	あんずの学術的表記。
+j	アンダー	anda	under
+j	アンテ	ante	土星の第49衛星の固有名。
+j	アンド	ando	and
+j	アンナ	anna	Anne
+j	アンバー	anba	琥珀。
+j	アンプ	anpu	amp, amplifier
+j	アンマー	anma	
+j	アンヤ	anya	
+j	アーニャ	anya	
+j	安住	anju	living in peace
+j	安価	anka	inexpensive (with high qu…
+j	安保	anpo	syllabic abbreviation of …
+j	安危	anki	safety and danger
+j	安否	anpi	a person's safety
+j	安和	anna	the name of an era that e…
+j	安固	anko	安定してしっかりしていること。また、そのようなさま。
+j	安城	anjo	The city of Anjō, a city …
+j	安堵	ando	relief
+j	安奈	anna	a female given name
+j	安康	anko	the state of being safe a…
+j	安徽	anki	Anhui (a province in east…
+j	安打	anda	hit
+j	安撫	anbu	人民を安んじ、なだめること。
+j	安歩	anpo	静かに歩くこと。
+j	安永	anei	the An'ei era, 1772-1781
+j	安臥	anga	身体が安楽な姿勢で寝ること。
+j	安藤	ando	a surname
+j	安轡	anpi	鞍馬。
+j	安陽	anyo	Anyang (a city in Henan, …
+j	庵号	ango	「庵」で終わる称号。
+j	庵野	anno	a surname
+j	按司	anji	琉球に置かれた階級及び称号の一つ。
+j	按摩	anma	massage
+j	按撫	anbu	安撫。綏撫。
+j	按舞	anbu	舞うこと。
+j	按語	ango	すでに出てきた文章や字句についての考証、説明または…
+j	按轡	anpi	徐行すること。按節。
+j	晏如	anjo	peaceful, at ease
+j	晏駕	anga	天子、天皇が崩御することの婉曲的な表現。
+j	暗に	anni	はっきりとは示さないさま。
+j	暗刻	anko	「アンコー」を参照。
+j	暗号	ango	code; cipher
+j	暗合	ango	a coincidental match; a c…
+j	暗喩	anyu	metaphor
+j	暗器	anki	a hidden weapon
+j	暗夜	anya	光のない暗い夜。
+j	暗夫	anpu	愚夫。
+j	暗女	anjo	淫売婦。
+j	暗影	anei	shadow, gloom
+j	暗愚	angu	道理に暗く愚かなこと。
+j	暗数	ansu	実際の数値と統計に現れる数値との差。
+j	暗暗	anan	密かなさま。
+j	暗溝	anko	culvert, underground drai…
+j	暗示	anji	hint, implication, intima…
+j	暗窖	anko	a dark cave, a dark under…
+j	暗花	anka	中国の陶磁器で装飾に見られる技法の一つ。
+j	暗記	anki	rote memorization
+j	暗譜	anpu	memorization of a score
+j	暗部	anbu	暗い部分。隠された部分。
+j	暗雲	anun	dark cloud
+j	暗香	anko	a fragrance or scent from…
+j	杏堂	ando	a surname
+j	杏奈	anna	a female given name
+j	杏子	anzu	an apricot, especially th…
+j	杏梨	anri	a female given name
+j	杏里	anri	a female given name
+j	杏野	anno	a surname
+j	案下	anka	机の下。机下。
+j	案主	anju	平安時代～鎌倉時代に置かれた、諸機関で文書や記録を…
+j	案比	anpi	戸口調査。
+j	案語	ango	「按語」の異表記。
+j	案部	anbu	配置すること。手配すること。
+j	罨法	anpo	充血や炎症を起こしている場所に水や湯、薬剤で浸した…
+j	行宮	angu	temporary imperial reside…
+j	諳記	anki	「暗記」の別表記。
+j	諳譜	anpu	「暗譜」参照。
+j	闇闇	anan	暗いさま。
+j	阿南	anan	Anan, Tokushima
+j	鞍上	anjo	on a horse’s saddle; (by …
+j	鞍瓦	anga	馬に乗せる鞍の骨組みとなる部分。鞍橋。
+j	鞍轡	anpi	手綱をとること。
+j	鞍部	anbu	saddle (of a hill or a mo…
+j	鞍馬	anba	pommel horse
+j	鞍鼻	anbi	外傷、梅毒、先天的な奇形などにより鼻根部が陥没した…
+j	餡子	anko	adzuki bean paste
+j	鮟鱇	anko	blackmouth angler, Lophio…
+j	鷃鷃	anan	みふうずら（ふなしうずら）。
+k	아낙	anak	synonym of 아낙네 (anangne, …
+k	아내	anae	wife, especially one's own
+k	아냐	anya	여자 이름, 동슬라브권 여성 이름인 Анна의…
+k	아뇨	anyo	'아니요'의 준말.
+k	아닌	anin	'아니다'의 관형사형.
+k	아님	anim	'아니다'의 명사형.
+k	안가	anga	임금이 세상을 떠남.
+k	안구	angu	eyeball
+k	안나	anna	
+k	안다	anda	to hug, to embrace
+k	안도	ando	
+k	안마	anma	massage
+k	안무	anmu	choreography
+k	안보	anbo	편안히 보전됨. 또는 편안히 보전함.
+k	안부	anbu	news; tidings
+k	안수	ansu	
+k	안온	anon	조용하고 편안함.
+k	안와	anwa	eye socket
+k	안위	anwi	편안함과 위태함을 아울러 이르는 말.
+k	안일	anil	
+k	안주	anju	snacks served with alcoho…
+k	안타	anta	hit
+k	안티	anti	hater, hate
+k	안하	anha	눈 아래. 내려다보이는 곳.
+k	앉다	anda	to sit, to squat
+k	앉아	anja	
+k	않니	anni	
+k	않다	anta	auxiliary adjective used …
+e	anapa	anapa	1 meaning
+e	angat	angat	1 meaning
+e	angel	angel	2 meanings
+e	anger	anger	3 meanings
+e	angle	angle	5 meanings
+e	anglo-	anglo	1 meaning
+e	angry	angry	1 meaning
+e	anhui	anhui	1 meaning
+e	anima	anima	1 meaning
+e	anime	anime	1 meaning
+e	anion	anion	1 meaning
+e	anise	anise	1 meaning
+e	ankle	ankle	1 meaning
+e	annam	annam	1 meaning
+e	annas	annas	1 meaning
+e	annex	annex	4 meanings
+e	annoy	annoy	1 meaning
+e	annul	annul	1 meaning
+e	anode	anode	1 meaning
+e	antly	antly	1 meaning
+e	anvil	anvil	2 meanings
+e	anyon	anyon	1 meaning
+j	あなご	anago	穴子, 𫙕: conger eel
+j	あなた	anata	貴方, 貴女, 貴男: you (second-p…
+j	あなば	anaba	excellent but unknown pla…
+j	あにき	aniki	「兄貴」のひらがな表記。
+j	あねき	aneki	「姉貴」のひらがな表記。
+j	あねご	anego	elder sister
+j	あのさ	anosa	
+j	あのさあ	anosa	
+j	あのね	anone	hey
+j	あのねえ	anone	
+j	あのよ	anoyo	死後の世界。来世。
+j	あの世	anoyo	the world of the dead; th…
+j	あんぜん	anzen	
+j	あんたい	antai	「安泰」のひらがな表記。
+j	あんち	anchi	
+j	あんちゅう	anchu	暗中: the situation in the …
+j	あんパン	anpan	anpan (a Japanese sweet r…
+j	アナゴ	anago	
+j	アナザー	anaza	spin-off
+j	アナニー	anani	anal masturbation
+j	アナパ	anapa	
+j	アナル	anaru	anus
+j	アナーキー	anaki	政治的な秩序が失われているさま。無政府状態。
+j	アニオン	anion	an anion
+j	アニス	anisu	anise, Pimpinella anisum
+j	アニマ	anima	精神。霊魂。
+j	アニメ	anime	anime, Japanese animation
+j	アノード	anodo	an anode
+j	アンカン	ankan	自摸によりつくった槓子。
+j	アンガイ	angai	
+j	アンチ	anchi	hater; anti-fan; anti
+j	アントン	anton	a transliteration of the …
+j	アンフェア	anfea	不公平なさま。
+j	アンペア	anpea	ampere
+j	アンマン	anman	Amman (the capital of Jor…
+j	エニオン	anyon	
+j	兄上	aniue	older brother
+j	兄貴	aniki	a big brother (someone wh…
+j	塩梅	anbai	seasoning
+j	姉上	aneue	older sister
+j	姉御	anego	姉に対する敬語。
+j	姉貴	aneki	elder sister (respectful …
+j	安元	angen	the Angen era, 1175-1177
+j	安全	anzen	safe; secure
+j	安処	ansho	落ち着いていること。また、そのような場所。
+j	安分	anbun	自分の本分に安んじて満足すること。
+j	安南	annan	Annam (the former name of…
+j	安定	antei	stability
+j	安寧	annei	peacefulness, tranquillity
+j	安平	anhei	
+j	安慶	ankei	Anqing (a city in Anhui, …
+j	安懐	ankai	懐くこと。
+j	安所	ansho	安処。
+j	安政	ansei	the Ansei era, 1854-1860
+j	安泰	antai	secure, calm
+j	安牌	anpai	安全牌。
+j	安産	anzan	safe/uncomplicated childb…
+j	安眠	anmin	sound sleep
+j	安穏	annon	peaceful, quiet
+j	安置	anchi	enshrinement, ensconcing,…
+j	安西	anzai	a surname
+j	安貞	antei	the Antei era, 1227-1229
+j	安閑	ankan	安らかで静かであること。また、そのようなさま。
+j	安静	ansei	quiet, peaceful
+j	安頓	anton	配置。安置。
+j	安養	annyo	安養浄土。
+j	庵主	anshu	庵室の主人。
+j	按劾	angai	弾劾すること。
+j	按手	anshu	手を人の頭の上に置き、霊力を授かるように祈ること。
+j	按排	anbai	体や物事の具合や様子。
+j	按配	anbai	体や物事の具合や様子。
+j	按針	anjin	piloting of a ship
+j	晏然	anzen	安らかで落ちついている様子。
+j	暗中	anchu	the situation in the dark
+j	暗主	anshu	愚かな君主。暗君。
+j	暗唱	ansho	recitation from memory
+j	暗所	ansho	dark place
+j	暗晦	ankai	暗いこと。また、そのようなさま。
+j	暗槓	ankan	concealed kong
+j	暗流	anryu	地表などに現れない水の流れ。伏流。
+j	暗涙	anrui	密かに流す涙。
+j	暗渠	ankyo	覆いをした水路。
+j	暗澹	antan	dim, dark
+j	暗点	anten	scotoma, scotomatous
+j	暗然	anzen	gloomy
+j	暗礁	ansho	reef
+j	暗算	anzan	mental arithmetic (doing …
+j	暗視	anshi	暗い所でもものが見えること。ものをみること。
+j	暗証	ansho	password
+j	暗誦	ansho	「暗唱」に同じ。
+j	暗転	anten	dimming, taking a turn fo…
+j	案件	anken	matter, something to talk…
+j	案内	annai	guidance
+j	案外	angai	unexpectedly
+j	案屯	anton	駐留すること。
+j	案文	anbun	draft (of a writing)
+j	案配	anbai	体や物事の具合や様子。
+j	穴場	anaba	
+j	穴子	anago	conger eel
+j	行内	annai	（あんない）宮中。禁中。
+j	行灯	andon	an enclosed paper-covered…
+j	行脚	angya	walking pilgrimage
+j	諳誦	ansho	「暗唱」に同じ。
+j	闇晦	ankai	暗くて愚かなこと。また、そのようなさま。
+j	闇解	ankai	黙して識ること。
+j	鞍山	anzan	Anshan (a city in Liaonin…
+j	鞍点	anten	ある方向で極大だが別の方向で極小であるような点。ヘ…
+j	鞍鎧	angai	鞍と甲冑。
+j	鞍韉	ansen	馬の背中に据える馬具と、その下に敷く敷物。「くら」…
+j	餡パン	anpan	中に餡（粒餡、漉し餡など）を入れて焼いたパン。
+j	餡饅	anman	bun with azuki bean paste…
+j	黭黮	antan	陰気で暗い様子。
+j	黯然	anzen	「暗然」参照。
+k	아나파	anapa	
+k	아니다	anida	to not be (something)
+k	아니라	anira	is not […] , but rather
+k	아니리	aniri	
+k	아니마	anima	
+k	아니메	anime	anime
+k	아니야	aniya	no
+k	아니요	aniyo	no
+k	악마	angma	a demon; a devil; a fiend
+k	안각	angak	
+k	안감	angam	
+k	안개	angae	fog, mist
+k	안거	angeo	
+k	안계	angye	
+k	안과	angwa	ophthalmology
+k	안국	anguk	
+k	안길	angil	
+k	안남	annam	Annam (the former name of…
+k	안내	annae	guidance
+k	안달	andal	속을 태우며 조급하게 구는 일.
+k	안대	andae	eye patch
+k	안목	anmok	appreciative eye (for); d…
+k	안민	anmin	
+k	안반	anban	wooden board used for kne…
+k	안배	anbae	알맞게 잘 배치하거나 처리함.
+k	안분	anbun	
+k	안산	ansan	
+k	안식	ansik	
+k	안심	ansim	relief, peacefulness
+k	안아키	anaki	
+k	안약	anyak	
+k	안이리	aniri	
+k	안직	anjik	
+k	안집	anjip	
+k	안치	anchi	안전하게 잘 둠.
+k	안팎	anpak	안과 밖. 속과 겉.
+k	안표	anpyo	
+k	안해	anhae	wife
+k	안화	anhwa	'안온'(조용하고 편안함).
+k	안후이	anhui	Anhui (a province in east…
+k	안휘	anhwi	Anhui (a province in east…
+k	않은	aneun	'않다'의 관형사형.
+k	않음	aneum	'않다'의 명사형.
+k	앙모	angmo	우러러 그리워함.
+e	anadyr	anadyr	1 meaning
+e	analog	analog	1 meaning
+e	anatta	anatta	1 meaning
+e	anceps	anceps	1 meaning
+e	anchor	anchor	3 meanings
+e	ancona	ancona	1 meaning
+e	and how	andhow	1 meaning
+e	andrew	andrew	2 meanings
+e	anemia	anemia	1 meaning
+e	angara	angara	1 meaning
+e	angela	angela	1 meaning
+e	angers	angers	1 meaning
+e	angler	angler	1 meaning
+e	angola	angola	1 meaning
+e	angora	angora	1 meaning
+e	anicca	anicca	1 meaning
+e	animal	animal	4 meanings
+e	ankara	ankara	1 meaning
+e	anklet	anklet	1 meaning
+e	annaba	annaba	1 meaning
+e	annual	annual	1 meaning
+e	anorak	anorak	1 meaning
+e	anoxia	anoxia	1 meaning
+e	anping	anping	1 meaning
+e	anshan	anshan	1 meaning
+e	answer	answer	5 meanings
+e	anthem	anthem	3 meanings
+e	anther	anther	1 meaning
+e	anting	anting	1 meaning
+e	antler	antler	1 meaning
+e	antlia	antlia	1 meaning
+e	anubis	anubis	1 meaning
+e	anyhow	anyhow	1 meaning
+e	anyone	anyone	1 meaning
+e	anyway	anyway	2 meanings
+j	あなうま	anauma	競馬で一見勝ちそうな馬ではないが番狂わせで勝ちそう…
+j	あなうめ	anaume	filling a hole
+j	あにさん	anisan	自分の兄や若い男性を親しみを込めて呼ぶ語。
+j	あにぶん	anibun	兄分: sworn elder brother; …
+j	あねさん	anesan	姉を親しみを込めて呼ぶ語。
+j	あねぶん	anebun	姉分: sworn elder sister
+j	あんぐり	anguri	shocked with one's mouth …
+j	あんしん	anshin	
+j	あんだら	andara	愚かであること。愚かである人。阿呆。馬鹿。間抜け。
+j	あんちゃん	anchan	自分の兄の愛称。
+j	あんなに	annani	to that extent; to that d…
+j	あんまり	anmari	度が過ぎているさま。
+j	アナンケ	ananke	木星の第12衛星の固有名。
+j	アニオタ	aniota	anime fan, otaku
+j	アニソン	anison	anime song
+j	アニリン	anirin	aniline
+j	アニヲタ	aniota	「アニオタ」の別表記。
+j	アネモイ	anemoi	ボレアース・ノトス・ゼピュロス・エウロスの四柱の風…
+j	アンカラ	ankara	Ankara (the capital city …
+j	アンガラ	angara	現在のシベリア地域に古生代に存在した大陸。のちにロ…
+j	アンギラ	angira	Anguilla (an archipelago …
+j	アンギーナ	angina	口峡炎。
+j	アングラ	angura	underground (outside the …
+j	アングル	anguru	angle
+j	アンケート	anketo	questionnaire
+j	アンゲラ	angera	
+j	アンコーナ	ankona	
+j	アンコール	ankoru	encore! (please perform a…
+j	アンゴラ	angora	angora
+j	アンゴラウサギ	angora	飼育用のうさぎの一種。小型で長い体毛をもつ。アンゴ…
+j	アンジェラ	anjera	
+j	アンジェーヌ	anjenu	
+j	アンスコ	ansuko	アンダースコート。
+j	アンセム	ansemu	anthem (religious song)
+j	アンソニー	ansoni	Anthony
+j	アンダーバー	andaba	underscore
+j	アンティル	antiru	
+j	アンティーク	antiku	骨董品。古美術。
+j	アンティーブ	antibu	
+j	アンテナ	antena	antenna (device to receiv…
+j	アンデス	andesu	南アメリカ大陸西部にある、世界で最長の山脈。
+j	アンデレ	andere	Andrew
+j	アントレ	antore	正式な西洋料理で魚料理の次に出される肉料理。
+j	アンドラ	andora	Andorra (a microstate in …
+j	アンドル	andoru	a transliteration of the …
+j	アンドレ	andore	a transliteration of the …
+j	アンドーラ	andora	Andora
+j	アンナス	annasu	
+j	アンニュイ	annyui	ennui
+j	アンパイア	anpaia	競技や試合の審判員。特に野球の塁審、球審など。
+j	アンビル	anbiru	かなとこ。かなしき。
+j	アンブル	anburu	
+j	アンプル	anpuru	ampoule (small glass vial…
+j	アーンミーヤ	anmiya	'ammiyya (vernacular Arab…
+j	兄分	anibun	sworn elder brother
+j	姉分	anebun	sworn elder sister
+j	安佚	anitsu	「安逸」の別表記。
+j	安価な	ankana	
+j	安保理	anpori	syllabic abbreviation of …
+j	安宅	antaku	心配なく安心して身を置ける場所。
+j	安心	anshin	unworrying, safe
+j	安息	ansoku	rest
+j	安楽	anraku	at ease and free from pai…
+j	安神	anshin	心を安んずること。安心。
+j	安身	anshin	ease in one's body, relax…
+j	安逸	anitsu	easygoing and enjoyable
+j	安適	anteki	feeling well in mind and …
+j	按腹	anpuku	按摩療法で腹部を揉み、摩ること。
+j	暗々裏	ananri	covert
+j	暗号化	angoka	encryption
+j	暗弱	anjaku	道理がわからず劣っていること。またそのさま。
+j	暗暗裏	ananri	他人の知らないうち。内々。
+j	暗暗裡	ananri	他人の知らないうち。内々。
+j	暗躍	anyaku	secret maneuvering
+j	暗鬱	anutsu	gloomy
+j	暗黒	ankoku	dark
+j	暗黙	anmoku	inaudible, silent, tacit,…
+j	案じる	anjiru	worry about, be anxious
+j	案ずる	anzuru	案じる (ザ行上一段活用) に同じ。
+j	案の定	annojo	expectedly; as expected; …
+j	穴師	anashi	（あなし）芝居茶屋の使用人であるが茶屋の主人に代わ…
+j	穴開け	anaake	
+j	穴馬	anauma	
+j	闇弱	anjaku	道理がわからず劣っていること。またそのさま。
+j	餡掛け	ankake	thickened with starch
+j	鮟肝	ankimo	monkfish liver
+k	아노락	anorak	
+k	아니스	aniseu	
+k	아니에요	anieyo	
+k	악랄	angnal	viciousness; wickedness
+k	악물	angmul	'악종'.
+k	안강	angang	
+k	안건	angeon	의논하거나 조사하거나 또는 해결해야 할 일.
+k	안공	angong	
+k	안근	angeun	
+k	안기다	angida	to be hugged, to be embra…
+k	안기부	angibu	
+k	안까이	ankkai	woman
+k	안나바	annaba	
+k	안다리	andari	
+k	안도라	andora	Andorra (a microstate in …
+k	안된	andoen	'안되다'의 관형사형.
+k	안됨	andoem	'안되다'의 명사형.
+k	안마기	anmagi	
+k	안마사	anmasa	
+k	안무가	anmuga	
+k	안방	anbang	inner room
+k	안색	ansaek	
+k	안습	anseup	teariness
+k	안양	anyang	(불교) 마음을 편안히 하고 몸을 쉬게 함.
+k	안으로	aneuro	
+k	안장	anjang	saddle
+k	안전	anjeon	safety
+k	안주인	anjuin	주로 상대방 남자의 아내를 약간 높여 부르는 …
+k	안중	anjung	
+k	안즉	anjeuk	
+k	안짝	anjjak	
+k	안쪽	anjjok	inside
+k	안착	anchak	
+k	안채	anchae	In traditional Korean arc…
+k	안코나	ankona	
+k	안테나	antena	antenna, aerial
+k	앉아라	anjara	
+k	앉은	anjeun	
+k	앙각	anggak	
+k	앙까	angkka	wife, woman
+k	앙분	angbun	
+k	앙숙	angsuk	bearing hatred against on…
+k	앙심	angsim	grudge; spite
+k	앙앙	angang	while crying loudly
+k	앙이다	angida	to be not (something)
+k	앙칼	angkal	매우 모질고 날카로움.
+k	앙콜	angkol	'앙코르'의 비표준어.
+k	앙크	angkeu	
+k	앙탈	angtal	
+k	앙화	anghwa	
+e	anagram	anagram	1 meaning
+e	anahita	anahita	1 meaning
+e	anal fin	analfin	1 meaning
+e	anal sex	analsex	1 meaning
+e	analogy	analogy	1 meaning
+e	analyst	analyst	2 meanings
+e	analyze	analyze	1 meaning
+e	anarchy	anarchy	2 meanings
+e	anatase	anatase	1 meaning
+e	anatman	anatman	1 meaning
+e	anatoli	anatoli	1 meaning
+e	anatomy	anatomy	1 meaning
+e	anchovy	anchovy	1 meaning
+e	ancient	ancient	1 meaning
+e	andiron	andiron	1 meaning
+e	andisol	andisol	1 meaning
+e	andorra	andorra	1 meaning
+e	android	android	2 meanings
+e	anemone	anemone	1 meaning
+e	angeles	angeles	1 meaning
+e	angioma	angioma	1 meaning
+e	angling	angling	1 meaning
+e	angrily	angrily	1 meaning
+e	anguish	anguish	3 meanings
+e	angulus	angulus	1 meaning
+e	animacy	animacy	1 meaning
+e	animate	animate	1 meaning
+e	animism	animism	1 meaning
+e	animose	animose	1 meaning
+e	aniseed	aniseed	1 meaning
+e	annatto	annatto	1 meaning
+e	annelid	annelid	1 meaning
+e	annoyed	annoyed	1 meaning
+e	annuity	annuity	1 meaning
+e	annulus	annulus	1 meaning
+e	anomaly	anomaly	2 meanings
+e	anosmia	anosmia	1 meaning
+e	another	another	2 meanings
+e	antacid	antacid	2 meanings
+e	antaeus	antaeus	1 meaning
+e	antalya	antalya	1 meaning
+e	antares	antares	1 meaning
+e	antenna	antenna	1 meaning
+e	anthill	anthill	1 meaning
+e	anthony	anthony	1 meaning
+e	anthrax	anthrax	1 meaning
+e	anti-fan	antifan	1 meaning
+e	anti-war	antiwar	1 meaning
+e	antibes	antibes	1 meaning
+e	antigen	antigen	1 meaning
+e	antioch	antioch	1 meaning
+e	antique	antique	2 meanings
+e	antlion	antlion	1 meaning
+e	antonym	antonym	1 meaning
+e	antwerp	antwerp	2 meanings
+e	anxiety	anxiety	3 meanings
+e	anxious	anxious	1 meaning
+e	anytime	anytime	1 meaning
+j	あなぐま	anaguma	将棋で玉の囲い方の一つ。
+j	あなぐら	anagura	cellar
+j	あなたの	anatano	
+j	あなづり	anazuri	ice fishing
+j	あなどる	anadoru	たいしたものではないと軽んじて考える。
+j	あなほり	anahori	digging a hole; hole-digg…
+j	あなぼこ	anaboko	穴。窪み。
+j	あによめ	aniyome	兄の配偶者。
+j	あねむこ	anemuko	姉の配偶者。
+j	あのかた	anokata	彼の（ところにいる）人の尊敬語。三人称単数。
+j	あのひと	anohito	きみ。江戸時代に対等または目下の者に対して使われた…
+j	あの人	anohito	he, she, that person over…
+j	あの方	anokata	he, she, that person
+j	あんぜんもう	anzenmo	安全網: safety net, security…
+j	あんまし	anmashi	
+j	あんみつ	anmitsu	「餡蜜」のひらがな表記。
+j	アナウンサー	anaunsa	a media announcer, a TV o…
+j	アナウンス	anaunsu	an announcement (as via a…
+j	アナグマ	anaguma	ネコ目イタチ科イヌ亜目アナグマ亜科アナグマ属に属す…
+j	アナテマ	anatema	anathema (ban or curse)
+j	アナディリ	anadiri	Anadyr (a city in Russia)
+j	アナトリー	anatori	
+j	アナトーリー	anatori	
+j	アナナス	ananasu	パイナップル科アナナス属の多年草。特に実はパイナッ…
+j	アナログ	anarogu	being analog (represented…
+j	アナロジー	anaroji	類比、推論、類推。
+j	アニマル	animaru	動物。
+j	アニマート	animato	元気に、動いて、活気を持って。
+j	アニムス	animusu	女性の無意識の中にある男性的な一面。
+j	アニメーター	animeta	an animator
+j	アニ豚	anibuta	熱狂的、狂信的なアニメ好きのおたく。
+j	アヌビス	anubisu	Anubis
+j	アネモネ	anemone	キンポウゲ目キンポウゲ科イチリンソウ属に属する多年…
+j	アンカーマン	ankaman	
+j	アンガット	angatto	
+j	アンクルン	ankurun	
+j	アンダーウェア	andawea	肌着。下着。
+j	アンダーウエア	andauea	underwear, foundation gar…
+j	アンダーソン	andason	a transliteration of the …
+j	アンダーヘア	andahea	pubic hair
+j	アンダーヘアー	andahea	陰毛。性毛。
+j	アンダーラン	andaran	
+j	アンチョビ	anchobi	anchovy
+j	アンチョビー	anchobi	カタクチイワシ科の小型の海水魚。また、塩漬けにした…
+j	アンティグア	antigua	Antigua
+j	アンデッド	andeddo	undead (those creatures w…
+j	アントニオ	antonio	a transliteration of the …
+j	アントワン	antowan	
+j	アンドリュー	andoryu	
+j	アンハッピー	anhappi	不幸であるさま。
+j	アンバー色	anbairo	
+j	アンモニア	anmonia	ammonia (the compound NH₃)
+j	アンラッキー	anrakki	unlucky
+j	アーノルド	anorudo	a transliteration of the …
+j	フルーツ飴	anzuame	（主に串に刺した）生のフルーツに飴を絡めたもの。
+j	亜熱帯	anettai	the subtropics
+j	侮り	anadori	contempt, scorn
+j	侮る	anadoru	belittle, underestimate, …
+j	兄嫁	aniyome	
+j	安全帽	anzenbo	safety helmet, hard hat
+j	安全日	anzenbi	性行為を行っても妊娠する可能性が低いとされる日。
+j	安全網	anzenmo	safety net, security net
+j	安定化	anteika	
+j	安定器	anteiki	stabilizer
+j	安直	anchoku	cheap, inexpensive
+j	安着	anchaku	気分が落ち着くこと。
+j	按摩師	anmashi	按摩を業とする者。按摩マッサージ指圧師
+j	按節	ansetsu	徐行すること。按轡。
+j	暗号名	angomei	
+j	暗号文	angobun	暗号を使った文。
+j	暗号論	angoron	cryptography
+j	暗殺	ansatsu	assassination
+j	暗穴	anketsu	暗い穴。
+j	暗色	anshoku	dark color
+j	暗順応	anjunno	明るい場所から暗い場所に入ったときの目の順応。
+j	杏子色	anzuiro	
+j	杏子色の	anzuiro	
+j	杏子飴	anzuame	（主に串に刺した）生の杏子に飴を絡めたもの。
+j	案内嬢	annaijo	usherette
+j	案内所	annaijo	information centre, infor…
+j	案内状	annaijo	letter of invitation
+j	殷血	anketsu	赤黒い血。黒ずんだ血。
+j	穴久保	anakubo	a surname
+j	穴倉	anagura	
+j	穴熊	anaguma	Japanese badger (Meles an…
+j	穴窯	anagama	anagama kiln (form of dra…
+j	穴蔵	anagura	
+j	穴鳥	anadori	
+j	窖	anagura	
+j	諳厄利亜	angeria	England (a country in Eur…
+j	餡蜜	anmitsu	syrup-covered anko (bean …
+j	餡餅	anmochi	anmochi: mochi (a dough m…
+k	아나가야	anagaya	아라가야.
+k	아나디리	anadiri	
+k	아나테마	anatema	anathema
+k	아나히타	anahita	
+k	아낙각	anakgak	(수학) '내각'의 북한말.
+k	아낙네	anangne	결혼을 한 여자와 성숙한 여자를 통칭하는 말.…
+k	아네모네	anemone	학명: anemone 미나리아재빗과의 지중해 …
+k	아녀자	anyeoja	
+k	아늑히	aneukhi	
+k	아니하다	anihada	'않다'의 본말.
+k	악녀	angnyeo	bad woman; evil woman; vi…
+k	악몽	angmong	nightmare (a very bad or …
+k	안개비	angaebi	입자가 매우 가늘고 안개처럼 보이는 비.
+k	안과의	angwaui	
+k	안광	angwang	눈의 정기.
+k	안나스	annaseu	
+k	안남미	annammi	
+k	안남인	annamin	
+k	안내기	annaegi	
+k	안내도	annaedo	guide map
+k	안내소	annaeso	information centre, infor…
+k	안내인	annaein	guide (person)
+k	안내자	annaeja	관광지나 유명명소를 소개하는 사람.
+k	안단테	andante	
+k	안도감	andogam	
+k	안되다	andoeda	to fail, to not do/go well
+k	안뜰	antteul	courtyard, inner garden
+k	안면	anmyeon	person's face
+k	안벽	anbyeok	
+k	안사돈	ansadon	
+k	안사람	ansaram	(one's) wife
+k	안식일	ansigil	Shabbat
+k	안악골	anakgol	
+k	안야국	anyaguk	아라가야.
+k	안이하다	anihada	
+k	안정	anjeong	stability (A consistent s…
+k	안창	anchang	
+k	안초비	anchobi	European anchovy (Engraul…
+k	안치다	anchida	밥이나 떡 등을 만들기 위해 냄비에 재료를 넣…
+k	안치소	anchiso	
+k	안타키아	antakia	터키 남부 하타이 주의 중심지로 하타이주의 주…
+k	안티몬	antimon	준금속 원소. 잘 부스러진다. 네 가지 동소체…
+k	안티크	antikeu	
+k	앉히다	anchida	
+k	앙고라	anggora	염소의 한 품종. 몸에는 윤이 나는 흰색의 긴…
+k	앙구다	angguda	
+k	앙금	anggeum	녹말 따위의 아주 잘고 부드러운 가루가 물에 …
+k	앙양	angyang	정신이나 사기 따위를 드높이고 북돋움.
+k	앙카라	angkara	Ankara (the capital city …
+k	앙하다	anghada	
+e	anabasis	anabasis	1 meaning
+e	anaconda	anaconda	1 meaning
+e	anaerobe	anaerobe	1 meaning
+e	analects	analects	2 meanings
+e	analysis	analysis	4 meanings
+e	anaphase	anaphase	1 meaning
+e	anathema	anathema	2 meanings
+e	anatolia	anatolia	1 meaning
+e	ancestor	ancestor	3 meanings
+e	ancients	ancients	1 meaning
+e	andersen	andersen	1 meaning
+e	andesine	andesine	1 meaning
+e	andesite	andesite	1 meaning
+e	androgen	androgen	1 meaning
+e	anecdote	anecdote	2 meanings
+e	aneurysm	aneurysm	1 meaning
+e	angelica	angelica	2 meanings
+e	angklung	angklung	1 meaning
+e	angstrom	angstrom	1 meaning
+e	anguilla	anguilla	1 meaning
+e	animable	animable	1 meaning
+e	animated	animated	1 meaning
+e	animator	animator	1 meaning
+e	annotate	annotate	1 meaning
+e	announce	announce	1 meaning
+e	annoying	annoying	1 meaning
+e	annually	annually	1 meaning
+e	anorexia	anorexia	1 meaning
+e	answerer	answerer	1 meaning
+e	anteater	anteater	1 meaning
+e	antelope	antelope	1 meaning
+e	anterior	anterior	1 meaning
+e	antibody	antibody	1 meaning
+e	antidote	antidote	1 meaning
+e	antihero	antihero	1 meaning
+e	antilles	antilles	1 meaning
+e	antimony	antimony	1 meaning
+e	antinomy	antinomy	1 meaning
+e	antipode	antipode	1 meaning
+e	antipole	antipole	2 meanings
+e	antitank	antitank	1 meaning
+e	anusvara	anusvara	1 meaning
+e	anything	anything	2 meanings
+e	anywhere	anywhere	1 meaning
+e	anzac day	anzacday	1 meaning
+e	çanakkale	anakkale	1 meaning
+e	śāntideva	antideva	1 meaning
+j	あなうさぎ	anausagi	穴兎: a common rabbit
+j	あながち	anagachi	（打消の語を伴って）必ずしも。一概に。
+j	あなたいろ	anatairo	synonym of きみいろ (kimiiro)
+j	あなばち	anabachi	膜翅目アナバチ科に属する昆虫の総称。学名:Sphe…
+j	あのよいき	anoyoiki	
+j	あんそくこう	ansokuko	安息香: benzoin
+j	あんぽんたん	anpontan	愚か者、馬鹿者。
+j	アナウサギ	anausagi	穴兎: a common rabbit
+j	アナコンダ	anakonda	an anaconda (any of vario…
+j	アナトリア	anatoria	Anatolia
+j	アナレンマ	anarenma	同じ地点で同じ時刻の太陽が1年間で描く8の字の軌跡。
+j	アニマンガ	animanga	manga created from prints…
+j	アニュラス	anyurasu	
+j	アノラック	anorakku	anorak, parka
+j	アノーサイト	anosaito	
+j	アンケプス	ankepusu	
+j	アンコウ目	ankomoku	条鰭綱の目。鮟鱇などが含まれる。
+j	アンジェラス	anjerasu	カトリックで一日三回行われるお告げの祈り。また、そ…
+j	アンジェリク	anjeriku	二つのネックと14～18本の弦を持つリュートに似た…
+j	アンジャベル	anjaberu	a carnation flower
+j	アンゼリカ	anzerika	
+j	アンソロジー	ansoroji	anthology (collection of …
+j	アンタリヤ	antariya	
+j	アンタルヤ	antaruya	
+j	アンタレス	antaresu	Antares
+j	アンダルス	andarusu	al-Andalus
+j	アンダーパス	andapasu	underpass
+j	アンダーライン	andarain	下線。
+j	アンチック	anchikku	antique: a typeface featu…
+j	アンチモン	anchimon	antimony
+j	アンティークの	antikuno	
+j	アンテロープ	anteropu	an antelope (mammal of th…
+j	アントニム	antonimu	対義語。
+j	アントリム	antorimu	Antrim (a county of North…
+j	アントワーヌ	antowanu	
+j	アントワープ	antowapu	Antwerp (a province of Fl…
+j	アンドソル	andosoru	
+j	アンパッサン	anpassan	
+j	アンビエント	anbiento	
+j	アンブレラ	anburera	洋風の雨傘。
+j	アンヘレス	anheresu	Angeles (the largest city…
+j	アンマウント	anmaunto	unmounting
+j	兄弟子	anideshi	a senior disciple or appr…
+j	安価スレ	ankasure	電子掲示板で、レス番号を指定し、その番号に書き込ま…
+j	安保闘争	anpotoso	1959年から1960年にかけて行われた日米安全保…
+j	安全ピン	anzenpin	a safety pin
+j	安全弁	anzenben	ボイラー、ボンベの中の圧力が異常に高くなった時に自…
+j	安全性	anzensei	safety, security
+j	安全牌	anzenpai	a tile that one can safel…
+j	安定剤	anteizai	stabilizer; stabilizing a…
+j	安定性	anteisei	stability
+j	安山岩	anzangan	中性火山岩の一種。深成岩の閃緑岩に対応する化学組成…
+j	安息香	ansokuko	benzoin
+j	安本丹	anpontan	fool
+j	強ち	anagachi	always, (not) necessarily
+j	按手礼	anshurei	牧師や司祭など聖職者を任命する際、按手によって聖別…
+j	暗号学	angogaku	
+j	暗号放送	angohoso	
+j	暗室	anshitsu	a darkroom (dark room whe…
+j	暗記する	ankisuru	
+j	暗黙の	anmokuno	
+j	杏茸	anzutake	
+j	案内人	annainin	a guide; a person who sho…
+j	案内書	annaisho	guidebook; guide
+j	案内者	annaisha	学識経験者。
+j	案山子	anzanshi	a scarecrow
+j	穴兎	anausagi	a common rabbit
+j	穴開け器	anaakeki	
+j	行在所	anzaisho	天皇が行幸の際、その場所に設置される仮の居所。行宮。
+j	阿摩勒	anmaroku	
+k	아나운서	anaunseo	an announcer, of a perfor…
+k	아나콘다	anakonda	anaconda
+k	아나톨리	anatolli	러시아 남성의 이름.
+k	아내상	anaesang	
+k	아누비스	anubiseu	
+k	아니꼬운	anikkoun	'아니꼽다'의 관형사형.
+k	아니꼬움	anikkoum	'아니꼽다'의 명사형.
+k	아니면	animyeon	or; if not
+k	악력	angnyeok	grasping power; grip
+k	악마학	angmahak	
+k	악마화	angmahwa	
+k	악물다	angmulda	to grit, to clench
+k	안 돼요	andwaeyo	No! (can't, don't allow, …
+k	안가슴	angaseum	앙가슴의 동의어.
+k	안가시위	angasiwi	임금이 행차할 때 편히 모시라는 뜻으로, 봉도…
+k	안간힘	anganhim	
+k	안갚음	angapeum	
+k	안개달	angaedal	
+k	안경	angyeong	glasses, spectacles
+k	안고수비	angosubi	눈은 높으나 손은 낮음
+k	안고하다	angohada	안전하고 튼튼하다.
+k	안과학	angwahak	
+k	안구근	angugeun	
+k	안내문	annaemun	notice, instruction
+k	안내서	annaeseo	guidebook; guide
+k	안내실	annaesil	
+k	안내업	annaeeop	
+k	안내원	annaewon	
+k	안녕	annyeong	peace; tranquility
+k	안도하다	andohada	
+k	안동네	andongne	
+k	안동포	andongpo	
+k	안드레아	andeurea	Andrew
+k	안드레이	andeurei	Andrey (a male given name)
+k	안마당	anmadang	courtyard
+k	안마법	anmabeop	
+k	안마하다	anmahada	
+k	안무상	anmusang	
+k	안무하다	anmuhada	
+k	안보관	anbogwan	안보에 대한 견해나 주장.
+k	안보적	anbojeok	
+k	안부 인사	anbuinsa	
+k	안부하다	anbuhada	어떤 사람이 편안하게 잘 지내는지 그렇지 아니…
+k	안살림	ansallim	
+k	안수하다	ansuhada	
+k	안심해	ansimhae	
+k	안온하다	anonhada	
+k	안일주의	aniljuui	
+k	안일하다	anilhada	
+k	안장부	anjangbu	2개의 저기압을 연결하는 저압골과 2개의 고기…
+k	안전도	anjeondo	
+k	안전모	anjeonmo	safety helmet, hard hat
+k	안주하다	anjuhada	
+k	안치실	anchisil	
+k	안타까이	antakkai	
+k	안투리움	anturium	
+k	안티모니	antimoni	antimony
+k	안티오키아	antiokia	the city of Antioch
+k	안티팬	antipaen	
+k	안팎일	anpakkil	
+k	안하무인	anhamuin	
+k	앉은키	anjeunki	
+k	앙가트	anggateu	
+k	앙골라	anggolla	Angola (a country in Afri…
+k	앙길라	anggilla	
+k	앙까라	angkkara	터키의 수도 이름 '앙카라'의 북한말.
+k	앙등	angdeung	a sudden rise, advance, j…
+k	앙케트	angketeu	questionnaire
+k	앙코르	angkoreu	좋은 평을 받은 노래나 예술 작품을 다시 연주…
+k	앙트레	angteure	
+e	anabolism	anabolism	1 meaning
+e	anaerobic	anaerobic	1 meaning
+e	anal beads	analbeads	1 meaning
+e	analgesic	analgesic	1 meaning
+e	analogist	analogist	1 meaning
+e	analogize	analogize	1 meaning
+e	analogous	analogous	1 meaning
+e	analytics	analytics	1 meaning
+e	anamnesis	anamnesis	1 meaning
+e	anarchism	anarchism	1 meaning
+e	anatolius	anatolius	1 meaning
+e	anatomist	anatomist	1 meaning
+e	ancestral	ancestral	1 meaning
+e	anchor ice	anchorice	1 meaning
+e	anchorage	anchorage	1 meaning
+e	andalusia	andalusia	1 meaning
+e	andromeda	andromeda	2 meanings
+e	angel dust	angeldust	1 meaning
+e	angel hair	angelhair	1 meaning
+e	angiology	angiology	1 meaning
+e	angkor wat	angkorwat	1 meaning
+e	anglicise	anglicise	1 meaning
+e	anhydride	anhydride	1 meaning
+e	anhydrite	anhydrite	1 meaning
+e	anilingus	anilingus	1 meaning
+e	animation	animation	1 meaning
+e	animatism	animatism	1 meaning
+e	animosity	animosity	1 meaning
+e	anklebone	anklebone	1 meaning
+e	ankylosis	ankylosis	1 meaning
+e	annealing	annealing	1 meaning
+e	annin tofu	annintofu	1 meaning
+e	announcer	announcer	2 meanings
+e	annoyance	annoyance	1 meaning
+e	anodontia	anodontia	1 meaning
+e	anonymous	anonymous	1 meaning
+e	anopheles	anopheles	1 meaning
+e	anorthite	anorthite	1 meaning
+e	anschluss	anschluss	1 meaning
+e	antarctic	antarctic	2 meanings
+e	anthology	anthology	1 meaning
+e	anthurium	anthurium	1 meaning
+e	antiarmor	antiarmor	1 meaning
+e	anticline	anticline	1 meaning
+e	antipathy	antipathy	1 meaning
+e	antipodal	antipodal	2 meanings
+e	antiprism	antiprism	1 meaning
+e	antiquark	antiquark	1 meaning
+e	antiquity	antiquity	1 meaning
+e	antisense	antisense	1 meaning
+e	antitheft	antitheft	1 meaning
+e	antivirus	antivirus	1 meaning
+e	antonymic	antonymic	1 meaning
+e	antshrike	antshrike	1 meaning
+e	anucleate	anucleate	1 meaning
+e	anuruddha	anuruddha	1 meaning
+e	anzoátegui	anzotegui	1 meaning
+j	あなたがた	anatagata	あなたたち。二人称複数。
+j	あのよゆき	anoyoyuki	"going to the otherworld"…
+j	あんこくがい	ankokugai	暗黒街: underworld
+j	アナキスト	anakisuto	an anarchist
+j	アナキズム	anakizumu	anarchism
+j	アナグラム	anaguramu	anagram
+j	アナグリフ	anagurifu	anaglyph
+j	アナポリス	anaporisu	Annapolis (the capital ci…
+j	アナリスト	anarisuto	analyst (person who analy…
+j	アナルビーズ	anarubizu	anal beads (sex toy)
+j	アナーキスト	anakisuto	無政府主義者。
+j	アナーキズム	anakizumu	アナキズムの異表記。
+j	アニサキス	anisakisu	anisakid
+j	アニバーサリー	anibasari	周年祭、記念祭。
+j	アニミズム	animizumu	遍くものに霊魂が宿るという思想。精霊信仰。
+j	アニメーション	animeshon	animation, a cartoon
+j	アニメ化す	animekasu	
+j	アニョロッティ	anyorotti	
+j	アヌスヴァーラ	anusuvara	
+j	アネクドート	anekudoto	anecdote
+j	アネクメーネ	anekumene	高山や極地、砂漠など、人間が居住できない地域、また…
+j	アノテーション	anoteshon	注釈、注。
+j	アンカレッジ	ankarejji	Anchorage (the largest ci…
+j	アンクレット	ankuretto	anklet
+j	アンサンブル	ansanburu	ensemble
+j	アンサーソング	ansasongu	answer song
+j	アンザック・デー	anzakkude	
+j	アンシュルス	anshurusu	
+j	アンスリウム	ansuriumu	
+j	アンソアテギ	ansoategi	
+j	アンダースコア	andasukoa	an underscore
+j	アンダーライター	andaraita	有価証券を発行する際、発行者からその証券の全部また…
+j	アンチスレ	anchisure	hate thread
+j	アンチテーゼ	anchiteze	ある肯定的な命題、主張に対して立てられる否定的な命…
+j	アンチノミー	anchinomi	antinomy
+j	アンチヒーロー	anchihiro	
+j	アンチモニー	anchimoni	アンチモンの英語読み。
+j	アンデルセン	anderusen	
+j	アントニウス	antoniusu	Antony
+j	アントラセン	antorasen	anthracene
+j	アンドロイド	andoroido	android (a robot that loo…
+j	アンドロゲン	andorogen	androgen
+j	アンバランス	anbaransu	釣り合いの取れていないこと。また、そのさま。不均衡。
+j	アンバー色の	anbairono	
+j	アンパサンド	anpasando	ampersand
+j	アンフェタミン	anfetamin	amphetamine
+j	アンモナイト	anmonaito	an ammonite (extinct ceph…
+j	アンモニウム	anmoniumu	ammonium
+j	アンラ・マンユ	anramanyu	ゾロアスター教の闇と悪の神。対となる光と善の神アフ…
+j	アーネンエルベ	anenerube	
+j	アーンドメディア	andomedia	第三者が利害の関係もなく評価を行い、発信する媒体。
+j	姉羽鶴	anehazuru	a demoiselle crane
+j	安全素數	anzensosu	
+j	安否不明	anpifumei	fate of someone being unk…
+j	安定の弧	anteinoko	ヨーロッパ。
+j	安心感	anshinkan	sense of security
+j	安楽椅子	anrakuisu	ひじ掛けがつき、ゆったりと座ることができる椅子。
+j	安楽死	anrakushi	euthanasia
+j	安質母尼	anchimoni	antimony
+j	安養浄土	annyojodo	極楽浄土。
+j	按兵不動	anpeifudo	to bide one's time; to wa…
+j	暗号通貨	angotsuka	cryptocurrency
+j	暗唱する	anshosuru	
+j	暗記して	ankishite	
+j	暗送秋波	ansoshuha	to give someone the eye; …
+j	暗黒街	ankokugai	underworld (part of socie…
+j	暗黒郷	ankokukyo	
+j	暗黒面	ankokumen	the dark, cruel side of a…
+j	杏仁豆腐	annindofu	annin tofu
+j	案内する	annaisuru	
+j	案内役	annaiyaku	
+j	穴兄弟	anakyodai	multiple males sharing on…
+j	貴方方	anatagata	
+k	아나키즘	anakijeum	anarchism
+k	아나톨리아	anatollia	Anatolia
+k	아날로그	anallogeu	analog, analogue
+k	아뇰로티	anyolloti	agnolotti
+k	아늑하다	aneukhada	포근하게 감싸 안기듯 편안하고 조용한 느낌이 …
+k	아니꼽다	anikkopda	to be pitiful; to rouse c…
+k	악령	angnyeong	evil spirit, malspecter
+k	악마적	angmajeok	
+k	악명	angmyeong	infamy
+k	안개꽃	angaekkot	baby's breath (flowering …
+k	안개시리	angaesiri	fog
+k	안거하다	angeohada	
+k	안과의사	angwauisa	
+k	안나반나	annabanna	anapanasati (meditation e…
+k	안내양	annaeyang	버스에서 가이드를 맡은 여성.
+k	안내장	annaejang	letter of notice, informa…
+k	안내하다	annaehada	to guide, to lead, to ush…
+k	안달하다	andalhada	
+k	안도현	andohyeon	옌볜 조선족 자치주에 위치한 도시 '안투 현'…
+k	안됐다	andwaetda	
+k	안면부	anmyeonbu	
+k	안배하다	anbaehada	
+k	안산하다	ansanhada	
+k	안식처	ansikcheo	
+k	안식하다	ansikhada	
+k	안심하다	ansimhada	to rest easy; to feel rel…
+k	안이꼽다	anikkopda	
+k	안전띠	anjeontti	
+k	안전문	anjeonmun	‘스크린도어’를 달리 이르는 말.
+k	안전원	anjeonwon	'경찰관'의 북한말.
+k	안전판	anjeonpan	
+k	안전핀	anjeonpin	
+k	안전화	anjeonhwa	
+k	안정세	anjeongse	
+k	안정제	anjeongje	
+k	안존하다	anjonhada	
+k	안주머니	anjumeoni	
+k	안질환	anjilhwan	
+k	안치하다	anchihada	
+k	안타까운	antakkaun	'안타깝다'의 관형사형.
+k	안타까움	antakkaum	'안타깝다'의 명사형.
+k	안타레스	antareseu	
+k	안타이오스	antaioseu	
+k	앉으세요	anjeuseyo	
+k	앙가슴	anggaseum	남자나 여자의 가슴 사이의 공간을 말한다.
+k	앙갚음	anggapeum	남에게 입은 피해를 잊지 않고, 다시 남에게 …
+k	앙갱이	anggaengi	
+k	앙상히	angsanghi	
+k	앙파상	angpasang	
+e	anabaptism	anabaptism	1 meaning
+e	anastasius	anastasius	1 meaning
+e	anastrophe	anastrophe	1 meaning
+e	ancapistan	ancapistan	1 meaning
+e	and so forth	andsoforth	1 meaning
+e	andalusian	andalusian	1 meaning
+e	andaman sea	andamansea	1 meaning
+e	anderlecht	anderlecht	1 meaning
+e	andromache	andromache	1 meaning
+e	andronicus	andronicus	1 meaning
+e	androphobe	androphobe	1 meaning
+e	anemometer	anemometer	1 meaning
+e	anesthesia	anesthesia	1 meaning
+e	anesthetic	anesthetic	1 meaning
+e	angel shark	angelshark	1 meaning
+e	angiosperm	angiosperm	1 meaning
+e	anglerfish	anglerfish	1 meaning
+e	anglo-saxon	anglosaxon	1 meaning
+e	anglophone	anglophone	1 meaning
+e	animal feed	animalfeed	1 meaning
+e	annexation	annexation	1 meaning
+e	annihilate	annihilate	1 meaning
+e	anno domini	annodomini	1 meaning
+e	annotation	annotation	2 meanings
+e	anomadassi	anomadassi	1 meaning
+e	antagonism	antagonism	1 meaning
+e	antagonist	antagonist	1 meaning
+e	antarctica	antarctica	1 meaning
+e	antebellum	antebellum	1 meaning
+e	antecedent	antecedent	1 meaning
+e	antechinus	antechinus	1 meaning
+e	anthracene	anthracene	1 meaning
+e	anthracite	anthracite	1 meaning
+e	anti-semite	antisemite	1 meaning
+e	antibiotic	antibiotic	1 meaning
+e	antichrist	antichrist	2 meanings
+e	anticipate	anticipate	1 meaning
+e	anticlimax	anticlimax	1 meaning
+e	antidoping	antidoping	1 meaning
+e	antifreeze	antifreeze	1 meaning
+e	antigorite	antigorite	1 meaning
+e	antiheroic	antiheroic	1 meaning
+e	antimatter	antimatter	1 meaning
+e	antiproton	antiproton	1 meaning
+e	antiquated	antiquated	1 meaning
+e	antiseptic	antiseptic	1 meaning
+e	antishinto	antishinto	1 meaning
+e	antisocial	antisocial	2 meanings
+e	antithesis	antithesis	1 meaning
+e	anxiolytic	anxiolytic	1 meaning
+j	あなかんむり	anakanmuri	漢字の部首「⽳」の呼称の一つ。
+j	あなたたち	anatatachi	あなたがた。二人称複数。
+j	あにはからん	anihakaran	（古語又は文語的用法。多くは「～とは」等の文に前置…
+j	あんしょうばんごう	anshobango	暗証番号, 暗唱番号: PIN number, P…
+j	アナバシス	anabashisu	
+j	アニメソング	animesongu	アニメのオープニング・エンディング含め作品中で流さ…
+j	アニリングス	aniringasu	
+j	アノード反応	anodohanno	電子を放出する（酸化される）電気化学反応。2H₂O…
+j	アンインストール	aninsutoru	uninstallation
+j	アンガラ川	angaragawa	Angara (a river in Russia)
+j	アンクル・サム	ankurusamu	Uncle Sam
+j	アンゴラ山羊	angorayagi	an Angora goat
+j	アンダマン海	andamankai	インド洋東端のアンダマン諸島、マレー半島、インドシ…
+j	アンダルシア	andarushia	Andalusia (a historical r…
+j	アンダーシャツ	andashatsu	undershirt, singlet
+j	アンダースカート	andasukato	透けるのを防止したり装飾したりするためにスカートの…
+j	アンダースコート	andasukoto	スコートの下に履く専用下着。アンスコ。
+j	アンダーバスト	andabasuto	underbust measurement
+j	アンチパターン	anchipatan	
+j	アンディシンバー	andishinba	（太陰太陽暦の閏月などの）一年のうちの13番目の月。
+j	アントルコート	antorukoto	
+j	アンドゥトロワ	andotorowa	いち、に、さん。ひい、ふう、みい。
+j	アンドロニク	andoroniku	
+j	アンドロマケー	andoromake	
+j	アンドロメダ	andoromeda	
+j	アンドロメダー	andoromeda	Andromeda
+j	アンドロメデー	andoromede	
+j	アンバーグリス	anbagurisu	
+j	アンピプテラ	anpiputera	
+j	アンフィトリテ	anfitorite	Amphitrite, an ancient Gr…
+j	アンプリファイア	anpurifaia	電子機器の一種で、電気信号の増幅器。
+j	アン・ドゥ・トロワ	andotorowa	「アンドゥトロワ」の異表記。
+j	安全保障	anzenhosho	security
+j	安全率	anzenritsu	建造物やその部材の安全の程度を示すための比率。
+j	安全装置	anzensochi	機械や設備の誤操作や誤作動などによる危険から作業者…
+j	安定した	anteishita	
+j	安死術	anshijutsu	method of euthanasia
+j	按分比例	anbunhirei	ある量を与えられた比で配分すること。比例配分。
+j	晏子の御	anshinogyo	人の権威に寄りかかり、得意になること。
+j	暗号化する	angokasuru	
+j	暗号資産	angoshisan	cryptoasset
+j	暗殺者	ansatsusha	assassin
+j	暗紫色	anshishoku	
+j	暗証番号	anshobango	PIN number, PIN
+j	穴燕	anatsubame	
+j	貴方達	anatatachi	you (second-person plural…
+k	아나그램	anageuraem	애너그램의 비규범 표기.
+k	아늑대다	aneukdaeda	'아느작대다'의 준말.
+k	아늑아늑	aneuganeuk	'아느작아느작'의 준말.
+k	아는 사람	aneunsaram	
+k	아늘대다	aneuldaeda	'아늘거리다'.
+k	아늘아늘	aneuraneul	
+k	악랄하다	angnalhada	vicious; wicked
+k	악머구리	angmeoguri	잘 우는 개구리란 뜻으로 참개구리를 일컫는다.
+k	악물리다	angmullida	
+k	안가라 강	angaragang	
+k	안강망	angangmang	
+k	안검염	angeomyeom	
+k	안겨지다	angyeojida	
+k	안경사	angyeongsa	optician
+k	안경알	angyeongal	안경테에 끼우는 렌즈.
+k	안경테	angyeongte	안경알을 끼우는 테두리.
+k	안공일세	angongilse	
+k	안내되다	annaedoeda	
+k	안내받다	annaebatda	
+k	안녕히	annyeonghi	peacefully, in peace
+k	안다만해	andamanhae	
+k	안배되다	anbaedoeda	
+k	안분지족	anbunjijok	
+k	안빈낙도	anbinnakdo	가난한 생활을 하면서 편안한 마음으로 도를 즐…
+k	안식년	ansiknyeon	성경에 나오는 규정으로 7년마다 돌아오는 해.…
+k	안식향	ansikhyang	
+k	안장하다	anjanghada	
+k	안전가옥	anjeongaok	safehouse
+k	안전망	anjeonmang	
+k	안전사고	anjeonsago	
+k	안전유리	anjeonyuri	
+k	안전제일	anjeonjeil	safety first
+k	안전하다	anjeonhada	to be safe
+k	안정감	anjeonggam	
+k	안정화	anjeonghwa	
+k	안주시키다	anjusikida	
+k	안착하다	anchakhada	
+k	안치되다	anchidoeda	
+k	안타깝다	antakkapda	unfortunate, poor, pitiab…
+k	안트라센	anteurasen	anthracene
+k	안티센스	antisenseu	
+k	앉은자리	anjeunjari	one's spot; one's place
+k	앉을배이	anjeulbaei	sled; sleigh
+k	앙다물다	angdamulda	
+k	앙알대다	angaldaeda	'앙알거리다'.
+k	앙알앙알	angarangal	
+k	앙앙하다	anganghada	
+k	앙잘하다	angjalhada	
+k	앙칼지다	angkaljida	
+k	앙탈하다	angtalhada	
+e	an apple a day	anappleaday	1 meaning
+e	anachronism	anachronism	2 meanings
+e	anadiplosis	anadiplosis	1 meaning
+e	anagama kiln	anagamakiln	1 meaning
+e	anal fissure	analfissure	1 meaning
+e	anal fistula	analfistula	1 meaning
+e	analog clock	analogclock	1 meaning
+e	anaphylaxis	anaphylaxis	1 meaning
+e	ancestorism	ancestorism	1 meaning
+e	ancien régime	ancienrgime	1 meaning
+e	ancient rome	ancientrome	1 meaning
+e	androgynous	androgynous	2 meanings
+e	androphilia	androphilia	1 meaning
+e	androphobia	androphobia	1 meaning
+e	andrushivka	andrushivka	1 meaning
+e	anesthetize	anesthetize	1 meaning
+e	angle of view	angleofview	1 meaning
+e	anglicanism	anglicanism	1 meaning
+e	anglosphere	anglosphere	1 meaning
+e	animated oat	animatedoat	1 meaning
+e	animateness	animateness	1 meaning
+e	anniversary	anniversary	2 meanings
+e	annual leave	annualleave	1 meaning
+e	anthocyanin	anthocyanin	1 meaning
+e	anti-gravity	antigravity	1 meaning
+e	anti-villain	antivillain	1 meaning
+e	anti-zionism	antizionism	1 meaning
+e	anticyclone	anticyclone	1 meaning
+e	antidumping	antidumping	1 meaning
+e	antifascism	antifascism	1 meaning
+e	antifascist	antifascist	1 meaning
+e	antiheroism	antiheroism	1 meaning
+e	antinuclear	antinuclear	1 meaning
+e	antioxidant	antioxidant	1 meaning
+e	antipattern	antipattern	1 meaning
+e	antipyretic	antipyretic	1 meaning
+e	antlered god	antleredgod	1 meaning
+e	antofagasta	antofagasta	1 meaning
+j	あなたがたの	anatagatano	
+j	あの方々	anokatagata	they, those people
+j	あんこくじだい	ankokujidai	暗黒時代: a historical period…
+j	あんこくせいうん	ankokuseiun	暗黒星雲: a type of interstel…
+j	あんだらくさい	andarakusai	あんだらを強めて言う言葉。あほくさい。ばかくさい。
+j	あんちゅうもさく	anchumosaku	暗中模索: groping in the dark…
+j	アナグマの家	anagumanoie	アナグマが居住するために掘られた穴。
+j	アナリティクス	anaritikusu	
+j	アナログ放送	anaroguhoso	連続的な量を用いて信号を送信する放送。
+j	アニメ音楽	animeongaku	アニメで使用されるアニメソング、BGMの総称。
+j	アンカピスタン	ankapisutan	
+j	アンクル・ファッカー	ankurufakka	
+j	アンケートちょうさ	anketochosa	アンケート調査: questionnaire su…
+j	アンケート調査	anketochosa	questionnaire survey
+j	アンコール・ワット	ankoruwatto	Angkor Wat
+j	アンゴラ兎	angorausagi	an Angora rabbit
+j	アンチウィルス	anchiwirusu	
+j	アンチウイルス	anchiuirusu	
+j	アントシアニン	antoshianin	anthocyanin
+j	アントロポセン	antoroposen	
+j	アントワープ市	antowapushi	
+j	アンビバレント	anbibarento	一つの物事に対し、全く相反する感情、態度、考えを抱…
+j	アンフレンドリー	anfurendori	友好的でないさま。
+j	安全カメラ	anzenkamera	security camera
+j	安全ベルト	anzenberuto	synonym of シートベルト (shīto …
+j	安定成長	anteiseicho	極端なインフレーションやデフレーション、貿易黒字・…
+j	安定的な	anteitekina	
+j	安定資産	anteishisan	経済の状況によらず価値が安定した資産。
+j	安息日	ansokunichi	Sabbath (Biblical seventh…
+j	安息香酸	ansokukosan	benzoic acid
+j	暗中模索	anchumosaku	groping in the dark, inve…
+j	暗中飛躍	anchuhiyaku	裏にまわって策をめぐらし、密かに行動すること。「暗…
+j	暗殺する	ansatsusuru	
+j	暗箭傷人	ansenshojin	to backstab; to underhand…
+j	暗記学習	ankigakushu	
+j	暗赤色	ansekishoku	
+j	暗黒星雲	ankokuseiun	a type of interstellar cl…
+j	暗黒時代	ankokujidai	a historical period where…
+j	案内広告	annaikokoku	
+k	아나스타시오	anaseutasio	
+k	아나운서실	anaunseosil	
+k	악력계	angnyeokgye	grip strength meter
+k	안개구름	angaegureum	'층운'.
+k	안경곰	angyeonggom	곰과의 종. 남아메리카의 서늘한 삼림에 서식하…
+k	안경원	angyeongwon	
+k	안경집	angyeongjip	spectacle case
+k	안구돌출	angudolchul	
+k	안다만 제도	andamanjedo	
+k	안달복달	andalbokdal	
+k	안드로마케	andeuromake	
+k	안드로메다	andeuromeda	
+k	안드로이드	andeuroideu	android
+k	안방마님	anbangmanim	
+k	안스럽다	anseureopda	'안쓰럽다'의 비표준어.
+k	안식시키다	ansiksikida	
+k	안심시키다	ansimsikida	
+k	안쓰러운	ansseureoun	'안쓰럽다'의 관형사형.
+k	안쓰러움	ansseureoum	'안쓰럽다'의 명사형.
+k	안장되다	anjangdoeda	
+k	안전거리	anjeongeori	
+k	안전성	anjeonseong	safety, security
+k	안전지대	anjeonjidae	
+k	안정권	anjeonggwon	
+k	안정률	anjeongnyul	
+k	안정적	anjeongjeok	
+k	안정하다	anjeonghada	
+k	안질뱅이	anjilbaengi	'썰매'의 강원도 사투리.
+k	안집시키다	anjipsikida	
+k	안착되다	anchakdoeda	
+k	앉으십시오	anjeusipsio	
+k	앙가조촘	anggajochom	
+k	앙당하다	angdanghada	모양이 어울리지 아니하게 작다.
+k	앙련좌	angnyeonjwa	
+k	앙바틈히	angbateumhi	
+k	앙상블	angsangbeul	ensemble
+k	앙상하다	angsanghada	꼭 짜이지 아니하여 어울리지 아니하고 어설프다.
+k	앙앙대다	angangdaeda	'앙앙거리다'.
+k	앙양하다	angyanghada	
+k	앙잘대다	angjaldaeda	'앙잘거리다'.
+k	앙큼하다	angkeumhada	욕심을 갖고 몰래 무엇을 손에 넣으려는 엉뚱하…
+k	앙헬레스	anghelleseu	
+e	anaplasmosis	anaplasmosis	1 meaning
+e	ancient egypt	ancientegypt	1 meaning
+e	ancient greek	ancientgreek	1 meaning
+e	andean condor	andeancondor	1 meaning
+e	angel of death	angelofdeath	1 meaning
+e	angle bracket	anglebracket	3 meanings
+e	animal rights	animalrights	1 meaning
+e	ankylosaurus	ankylosaurus	1 meaning
+e	annihilation	annihilation	2 meanings
+e	annihilative	annihilative	1 meaning
+e	announcement	announcement	1 meaning
+e	annual report	annualreport	1 meaning
+e	antananarivo	antananarivo	1 meaning
+e	anthelmintic	anthelmintic	1 meaning
+e	anthropocene	anthropocene	1 meaning
+e	anthropology	anthropology	1 meaning
+e	anthroponymy	anthroponymy	1 meaning
+e	anti-aircraft	antiaircraft	1 meaning
+e	anti-japanese	antijapanese	1 meaning
+e	anti-semitism	antisemitism	1 meaning
+e	antifeminism	antifeminism	1 meaning
+e	antihumanism	antihumanism	1 meaning
+e	antihydrogen	antihydrogen	1 meaning
+e	antimateriel	antimateriel	1 meaning
+e	antiparticle	antiparticle	1 meaning
+j	あなたたちの	anatatachino	
+j	あの人達	anohitotachi	they, those people
+j	アナウンスメント	anaunsumento	an announcement (as via a…
+j	アナフィラキシー	anafirakishi	anaphylaxis
+j	アナムネーシス	anamuneshisu	想起。
+j	アナルセックス	anarusekkusu	anal sex
+j	アニサキス症	anisakisusho	anisakiasis
+j	アニシナーベ語	anishinabego	
+j	アニマルライト	animaruraito	動物にも人間と同じ権利があり、公平に生きるとするこ…
+j	アンオブタニウム	anobutaniumu	
+j	アンソロポシーン	ansoroposhin	
+j	アンタッチャブル	antatchaburu	インドの不可触民。ハリジャン。
+j	アンタナナリボ	antananaribo	Antananarivo (the capital…
+j	アンダマン諸島	andamanshoto	Andaman Islands
+j	アンダルシアの	andarushiano	
+j	アンダーグラウンド	andaguraundo	地下。
+j	アンチエイジング	anchieijingu	anti-aging
+j	アンチエイリアス	anchieiriasu	anti-aliasing
+j	アンチドーピング	anchidopingu	
+j	アンデルレヒト	anderurehito	
+j	アントファガスタ	antofagasuta	
+j	アントルメンティエ	antorumentie	料理の飾りつけや盛り付けなどの仕上げを担当するパテ…
+j	アントレプレナー	antorepurena	
+j	アンドラ公国	andorakokoku	Principality of Andorra (…
+j	アンドロメダ座	andoromedaza	Andromeda
+j	アンニョンハセヨ	annyonhaseyo	hello, hi (in a Korean co…
+j	安全港規定	anzenkokitei	safe harbor rule
+j	安全第一	anzendaiichi	safety first
+j	暗紫色の	anshishokuno	
+j	穴開けパンチ	anaakepanchi	
+j	豈図らんや	anihakaranya	an expression of surprise…
+k	아느작대다	aneujakdaeda	'아느작거리다'.
+k	아늑거리다	aneukgeorida	'아느작거리다'의 준말.
+k	아늘거리다	aneulgeorida	빠르고 가볍게 춤추듯이 잇따라 흔들리다.
+k	안 봐도 비디오	anbwadobidio	[like] a video tape even …
+k	안갚음하다	angapeumhada	
+k	안개 수집기	angaesujipgi	
+k	안경다리	angyeongdari	안경테의 좌우에 달아 귀에 거는 부분.
+k	안경방	angyeongbang	
+k	안경잡이	angyeongjabi	안경을 쓴 사람을 낮잡아 이르는 말.
+k	안경점	angyeongjeom	
+k	안구은행	angueunhaeng	
+k	안내광고	annaegwanggo	
+k	안녕하다	annyeonghada	well, healthy
+k	안도라라베야	andorarabeya	Andorra la Vella (the cap…
+k	안드루시우카	andeurusiuka	
+k	안마당지기	anmadangjigi	'내야수'의 북한말.
+k	안쓰럽다	ansseureopda	
+k	안은문장	aneunmunjang	(언어) 주어와 서술어의 관계가 두 번 이상 …
+k	안전벨트	anjeonbelteu	seat belt
+k	안전시설	anjeonsiseol	
+k	안절부절	anjeolbujeol	while being on tenterhook…
+k	안정기단	anjeonggidan	대기성층이 정역학적(靜力學的)으로 안정한 기단.
+k	안정되다	anjeongdoeda	
+k	안정성	anjeongseong	
+k	안정책	anjeongchaek	
+k	안타나나리보	antananaribo	Antananarivo (the capital…
+k	안티 파시즘	antipasijeum	
+k	앉은뱅이	anjeunbaengi	
+k	앙글대다	anggeuldaeda	'앙글거리다'.
+k	앙등하다	angdeunghada	물건값이 뛰어오르다.
+k	앙똥하다	angttonghada	
+k	앙상궂다	angsanggutda	
+k	앙알거리다	angalgeorida	윗사람에 대하여 조금 원망스럽게 자꾸 입속말로…
+k	앙잘앙잘	angjarangjal	
+k	앙큼스레	angkeumseure	
+e	anachronistic	anachronistic	1 meaning
+e	anal sphincter	analsphincter	1 meaning
+e	anantacaritra	anantacaritra	1 meaning
+e	ancient greece	ancientgreece	1 meaning
+e	ancient of days	ancientofdays	1 meaning
+e	andhra pradesh	andhrapradesh	1 meaning
+e	andrewsarchus	andrewsarchus	1 meaning
+e	anglicisation	anglicisation	1 meaning
+e	anglo-american	angloamerican	1 meaning
+e	angry young man	angryyoungman	1 meaning
+e	animal kingdom	animalkingdom	1 meaning
+e	animal product	animalproduct	1 meaning
+e	animal testing	animaltesting	1 meaning
+e	anthropophagy	anthropophagy	1 meaning
+e	anthrozoology	anthrozoology	1 meaning
+e	anti-personnel	antipersonnel	1 meaning
+e	antibacterial	antibacterial	2 meanings
+e	anticlimactic	anticlimactic	1 meaning
+e	anticlockwise	anticlockwise	2 meanings
+e	anticommunism	anticommunism	1 meaning
+e	anticommunist	anticommunist	1 meaning
+e	antihistamine	antihistamine	1 meaning
+e	antisymmetric	antisymmetric	1 meaning
+e	antiterrorism	antiterrorism	1 meaning
+j	あんこくたいりく	ankokutairiku	暗黒大陸: Dark Continent
+j	アナクロニズム	anakuronizumu	時代錯誤。時代遅れ。
+j	アナグラム的	anaguramuteki	アナグラムに関するさま。
+j	アナスタシウス	anasutashiusu	
+j	アナスタシオス	anasutashiosu	
+j	アナログテレビ	anaroguterebi	アナログ放送のみ受信可能なテレビ。
+j	アニマルライツ	animaruraitsu	アニマルライトの表記ゆれ。
+j	アニメーション化す	animeshonkasu	
+j	アンキロサウルス	ankirosaurusu	
+j	アングライゼーション	anguraizeshon	
+j	アングロアメリカ	anguroamerika	北アメリカのうちカナダとアメリカ合衆国のこと。
+j	アングロサクソン	angurosakuson	Anglo-Saxon
+j	アンダーハンドパス	andahandopasu	両腕を伸ばして両手を組み、ひじから先でボールをパス…
+j	アンチクリナル	anchikurinaru	anticlinal, (describing a…
+j	アンティグア・バーブーダ	antiguababuda	Antigua and Barbuda (a co…
+j	アンデスコンドル	andesukondoru	Andean condor
+j	アンドラ・ラ・ベリャ	andoraraberya	Andorra la Vella (the cap…
+j	アンドル゠エ゠ロワール	andoruerowaru	
+j	アンファンテリブル	anfanteriburu	
+j	安全剃刀	anzenkamisori	safety razor
+j	安全色彩	anzenshikisai	災害や事故を防止したり、救急の体制を表したりするた…
+j	安定行列	anteigyoretsu	全ての固有値の実部が負である正方行列。安定性行列。
+j	安心立命	anjinritsumei	spiritual peace and enlig…
+j	暗赤色の	ansekishokuno	
+j	暗黒エネルギー	ankokuenerugi	
+j	暗黒大陸	ankokutairiku	Dark Continent
+k	아는 것이 탈	aneungeosital	folly to be wise, ignoran…
+k	안감생심	angamsaengsim	
+k	안경닦이	angyeongdakki	안경알에 묻은 얼룩을 닦는데 쓰는 천.
+k	안도라공국	andoragongguk	
+k	안동답답이	andongdapdabi	
+k	안따나나리부	anttananaribu	마다가스카르의 수도 이름 '안타나나리보'의 북…
+k	안식향산	ansikhyangsan	
+k	안전밸브	anjeonbaelbeu	
+k	안전장치	anjeonjangchi	
+k	안정시키다	anjeongsikida	
+k	안타까워하다	antakkawohada	to pity, to feel sorry for
+k	안토파가스타	antopagaseuta	
+k	안티구아 바부다	antiguababuda	
+k	안티구아바부다	antiguababuda	나라 이름 '앤티가 바부다'의 북한말.
+k	앙기작대다	anggijakdaeda	'앙기작거리다'.
+k	앙바틈하다	angbateumhada	짤막하고 딱 바라져 있다.
+k	앙실방실	angsilbangsil	
+k	앙앙거리다	anganggeorida	어린아이가 자꾸 크게 울다.
+k	앙잘거리다	angjalgeorida	작은 소리로 원망스럽게 종알종알 군소리를 자꾸…
+k	앙증맞다	angjeungmatda	
+k	앙코르 와트	angkoreuwateu	
+e	analog computer	analogcomputer	1 meaning
+e	andaman islands	andamanislands	1 meaning
+e	andes mountains	andesmountains	1 meaning
+e	andorra la vella	andorralavella	1 meaning
+e	angina pectoris	anginapectoris	1 meaning
+e	annular eclipse	annulareclipse	1 meaning
+e	anomalous water	anomalouswater	1 meaning
+e	antaphrodisiac	antaphrodisiac	1 meaning
+e	anthropologist	anthropologist	1 meaning
+e	anthropophobia	anthropophobia	1 meaning
+e	anti-militarism	antimilitarism	1 meaning
+e	anticommutator	anticommutator	1 meaning
+e	antidepressant	antidepressant	2 meanings
+e	antiderivative	antiderivative	1 meaning
+e	antigovernment	antigovernment	1 meaning
+e	antispeciesism	antispeciesism	1 meaning
+j	アナプラズマ症	anapurazumasho	
+j	アニマルスポーツ	animarusupotsu	動物を用いるスポーツの総称。動物競技。
+j	アンティセミティズム	antisemitizumu	
+j	アンデス山脈	andesusanmyaku	Andes (a mountain range i…
+j	アントルプルヌール	antorupurunuru	
+j	アンドラ・ラ・ヴェリャ	andoraravuerya	「アンドラ・ラ・ベリャ」の表記ゆれ。
+j	アンペールの法則	anperunohosoku	電流と磁場の関係における法則。
+j	安分守己	anbunshukisuru	to abide by the law and d…
+k	아나스타시우스	anaseutasiuseu	
+k	아나코 자본주의	anakojabonjuui	
+k	아날로그시계	anallogeusigye	analog clock, analogue cl…
+k	아느작거리다	aneujakgeorida	부드럽고 가느다란 나뭇가지나 풀잎 따위가 춤추…
+k	아느작아느작	aneujaganeujak	
+k	아늑아늑하다	aneuganeukhada	
+k	아늘아늘하다	aneuraneulhada	
+k	아니나 다를까	aninadareulkka	
+k	안경쟁이	angyeongjaengi	bespectacled person, glas…
+k	안공일세하다	angongilsehada	
+k	안녕질서	annyeongjilseo	
+k	안녕하세요	annyeonghaseyo	How are you?
+k	안데스 산맥	andeseusanmaek	
+k	안데스산맥	andeseusanmaek	남아메리카의 서쪽에 있는 세계에서 가장 긴 산…
+k	안면승마	anmyeonseungma	facesitting
+k	안방극장	anbanggeukjang	
+k	안성맞춤	anseongmatchum	perfect fitting; perfecti…
+k	안전표지판	anjeonpyojipan	
+k	안주애기박쥐	anjuaegibakjwi	The Asian parti-colored b…
+k	안테키누스속	antekinuseusok	
+k	안트베르펀	anteubereupeon	벨기에의 도시 이름. 안트베르펀 주의 주도. …
+k	안트베르펜	anteubeureupen	
+k	앙그라 마이뉴	anggeuramainyu	
+k	앙글거리다	anggeulgeorida	어린아이가 소리 없이 자꾸 귀엽게 웃다.
+k	앙글앙글	anggeuranggeul	
+k	앙금앙금	anggeumanggeum	
+k	앙당그리다	angdanggeurida	
+k	앙시앵 레짐	angsiaengrejim	
+k	앙알앙알하다	angarangalhada	
+k	앙큼앙큼	angkeumangkeum	
+e	ancestor worship	ancestorworship	1 meaning
+e	anesthetization	anesthetization	1 meaning
+e	aneurysmography	aneurysmography	1 meaning
+e	angry fruit salad	angryfruitsalad	1 meaning
+e	angular velocity	angularvelocity	1 meaning
+e	animal husbandry	animalhusbandry	1 meaning
+e	animated cartoon	animatedcartoon	1 meaning
+e	anorexia nervosa	anorexianervosa	1 meaning
+e	antarctic circle	antarcticcircle	1 meaning
+e	antepenultimate	antepenultimate	1 meaning
+e	anterior chamber	anteriorchamber	1 meaning
+e	anthropomorphic	anthropomorphic	1 meaning
+e	anti-americanism	antiamericanism	1 meaning
+j	あなたが大嫌い	anatagadaikirai	
+j	あなたが好きです	anatagasukidesu	
+j	アングロサクソン語	angurosakusongo	アングロサクソン人によって話された古英語の別称。
+j	アンコントローラブル	ankontororaburu	uncontrollable
+j	アンゴラ共和国	angorakyowakoku	the Republic of Angola
+j	アンチペリプラナー	anchiperipurana	antiperiplanar, (describi…
+j	アンドリューサルクス	andoryusarukusu	
+j	安全保障会議	anzenhoshokaigi	
+j	暗黒物質	ankokubusshitsu	dark matter
+k	악명 높은	angmyeongnopeun	
+k	안데스콘도르	andeseukondoreu	
+k	안드로메다자리	andeuromedajari	
+k	안전면도기	anjeonmyeondogi	safety razor
+k	안킬로사우루스	ankillosauruseu	
+k	앉은검정	anjeungeomjeong	
+k	앙가조촘하다	anggajochomhada	
+k	앙글방글	anggeulbanggeul	
+k	앙금쌀쌀	anggeumssalssal	
+k	앙기작거리다	anggijakgeorida	되똥거리며 나릿나릿 걷거나 기다.
+k	앙상블예보	angsangbeulyebo	수치예보모델이 가지는 초기장의 불확실성과 예측…
+k	앙칼스럽다	angkalseureopda	
+k	앙큼상큼	angkeumsangkeum	
+e	analytical engine	analyticalengine	1 meaning
+e	angle of incidence	angleofincidence	2 meanings
+e	animal liberation	animalliberation	1 meaning
+e	answering machine	answeringmachine	1 meaning
+e	anthropocentrism	anthropocentrism	1 meaning
+e	anthropomorphism	anthropomorphism	1 meaning
+e	antiangiogenesis	antiangiogenesis	1 meaning
+e	antireductionism	antireductionism	1 meaning
+j	アナルセックスする	anarusekkususuru	
+j	アニメーションスタジオ	animeshonsutajio	an animation studio
+j	アンティグア・グアテマラ	antiguaguatemara	Antigua Guatemala
+j	安定性行列	anteiseigyoretsu	安定行列。
+k	아는 것이 힘이다	aneungeosihimida	
+k	악마의 변호인	angmauibyeonhoin	
+k	안 봐도 블루레이	anbwadobeullurei	
+k	안경돌고래	angyeongdolgorae	spectacled porpoise (Phoc…
+k	안경원숭이	angyeongwonsungi	tarsier
+k	안녕히 가세요	annyeonghigaseyo	goodbye (said by the pers…
+k	안데를레흐트	andereulleheuteu	
+k	안드라프라데시	andeurapeuradesi	
+k	안절부절하다	anjeolbujeolhada	'안절부절못하다'의 비규범 표기.
+k	안정화시키다	anjeonghwasikida	
+k	앙기작앙기작	anggijaganggijak	
+k	앙잘앙잘하다	angjarangjalhada	
+k	앙큼스럽다	angkeumseureopda	
+e	analytic mechanics	analyticmechanics	1 meaning
+e	anaphylactic shock	anaphylacticshock	1 meaning
+e	anarcho-capitalism	anarchocapitalism	1 meaning
+e	anglican communion	anglicancommunion	1 meaning
+e	antigua and barbuda	antiguaandbarbuda	1 meaning
+j	あなたは誰ですか	anatawadaredesuka	
+j	アンチクライマックス	anchikuraimakkusu	修辞法の一つ。強い調子から弱い調子に落とす表現方法。
+j	アンティアメリカニズム	antiamerikanizumu	
+j	アーノルド・キアリ奇形	anorudokiarikikei	
+j	安全保障理事会	anzenhoshorijikai	
+k	안녕히 계세요	annyeonghigyeseyo	goodbye (said by the pers…
+k	안옹근이름씨	anonggeunireumssi	(문법) 의존명사.
+k	앙당그러지다	angdanggeureojida	
+k	앙실방실하다	angsilbangsilhada	
+k	앙증스럽다	angjeungseureopda	
+e	analytic philosophy	analyticphilosophy	1 meaning
+e	anglo-egyptian sudan	angloegyptiansudan	1 meaning
+e	antarctic peninsula	antarcticpeninsula	1 meaning
+j	アナフィラキシーショック	anafirakishishokku	anaphylactic shock
+j	アナログシンセサイザー	anarogushinsesaiza	analog synthesizer
+j	アーンドラ・プラデーシュ州	andorapuradeshushu	
+k	아느작아느작하다	aneujaganeujakhada	
+k	안녕하십니까	annyeonghasimnikka	How are you?
+k	안녕히 가십시오	annyeonghigasipsio	
+k	안녕히 주무세요	annyeonghijumuseyo	
+k	안드라프라데시 주	andeurapeuradesiju	
+k	앙골라공화국	anggollagonghwaguk	
+k	앙글앙글하다	anggeuranggeulhada	
+k	앙금앙금하다	anggeumanggeumhada	
+k	앙큼앙큼하다	angkeumangkeumhada	
+e	a nod is as good as a wink	anodisasgoodasawink	1 meaning
+e	angular acceleration	angularacceleration	1 meaning
+e	anti-intellectualism	antiintellectualism	1 meaning
+j	アングリカン・コミュニオン	angurikankomuyunion	
+j	穴があったら入りたい	anagaattarahairitai	ashamed and unable to sho…
+k	아날로그 컴퓨터	anallogeukeompyuteo	
+k	안녕히 계십시오	annyeonghigyesipsio	
+k	안절부절못하다	anjeolbujeolmothada	to be on tenterhooks, to …
+k	앉은레스링자세	anjeulleseuringjase	(레슬링) 방어 선수가 두 손을 앞으로 뻗고 …
+k	앙글방글하다	anggeulbanggeulhada	
+e	anthropomorphization	anthropomorphization	1 meaning
+j	アンダマン・ニコバル諸島	andamannikobarushoto	
+j	安全衛生責任者	anzeneiseisekininsha	特定元方事業の事業場において労働者の指揮、監督を行…
+j	安息香酸ナトリウム	ansokukosannatoriumu	
+k	안녕히 주무십시오	annyeonghijumusipsio	
+k	안다만 니코바르 제도	andamannikobareujedo	
+k	앉은출발달리기	anjeunchulbaldalligi	(육상) 단거리 달리기에서 웅크린 자세에서 뛰…
+k	앙기작앙기작하다	anggijaganggijakhada	
+e	ankylosing spondylitis	ankylosingspondylitis	1 meaning
+k	아누다라삼먁삼보리	anudarasammyaksambori	
+k	앉은뱅이책상	anjeunbaengichaeksang	
+j	アナログデジタルコンバータ	anarogudejitarukonbata	
+j	案ずるより産むが易し	anzuruyoriumugayasushi	Doing something is easier…
+k	안개관측시스템	angaegwancheuksiseutem	안개를 관측하는 장비를 말함.
+k	아니 땐 불에 연기 나랴	anittaenbureyeonginarya	
+e	analog-to-digital converter	analogtodigitalconverter	1 meaning
+e	andaman and nicobar islands	andamanandnicobarislands	1 meaning
+e	anterior cruciate ligament	anteriorcruciateligament	1 meaning
+j	鞍上人なく鞍下馬なし	anjohitonakuankaumanashi	「鞍上人無く鞍下馬無し」の異表記。
+j	鞍上人無く鞍下馬無し	anjohitonakuankaumanashi	馬術に優れた人が、巧みに馬を操る様子。人馬一体とな…
+e	an army marches on its stomach	anarmymarchesonitsstomach	1 meaning
+j	あなたは結婚していますか	anatawakekkonshiteimasuka	
+j	アンチロック・ブレーキ・システム	anchirokkuburekishisutemu	急ブレーキによりタイヤがロックされると摩擦係数が小…
+j	阿耨多羅三藐三菩提	anokutarasanmyakusanbodai	the supreme perfect enlig…
+k	아니 땐 굴뚝에 연기 나랴	anittaengulttugeyeonginarya	
+k	아니땐 굴뚝에 연기나랴	anittaengulttukeyeonginarya	
+e	an eye for an eye, a tooth for a tooth	aneyeforaneyeatoothforatooth	1 meaning
+e	antidisestablishmentarianism	antidisestablishmentarianism	1 meaning
+j	あなたの電話を使用できますか	anatanodenwaoshiyodekimasuka	
+k	아니 땐 굴뚝에 연기 날까	anittaengulttugeyeonginalkka	굴뚝에서 연기가 나는 것은 이전에 아궁이에서 …
+e	an apple a day keeps the doctor away	anappleadaykeepsthedoctoraway	1 meaning
+e	antisocial personality disorder	antisocialpersonalitydisorder	1 meaning
+k	안 좋은 일은 생기고 난 뒤 해결하려고 하기보단 아예 생기지조차 않게 막는게 더 낫다	anjoeunireunsaenggigonandwihaegyeolharyeogohagibodanayesaenggijijochaankemangneungedeonatda	

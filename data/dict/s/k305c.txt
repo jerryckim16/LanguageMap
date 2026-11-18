@@ -1,0 +1,956 @@
+j	ぜ	ぜ	sentence-ending particle …
+j	前	ぜ	the front
+j	是	ぜ	right, justice
+j	ぜき	ぜき	相撲において、四股名につける関取への敬称。「～関」。
+j	ぜに	ぜに	金属製の貨幣。
+j	ゼタ	ゼタ	zetta-
+j	ゼブ	ゼブ	zebu
+j	ゼミ	ゼミ	「ゼミナール」の略。
+j	ゼロ	ゼロ	zero (number)
+j	全	ぜん	entire, complete, overall
+j	前	ぜん	the front
+j	善	ぜん	good, good deed
+j	是非	ぜひ	right and wrong
+j	然	ぜん	-like; resembling
+j	禅	ぜん	dhyana-samadhi
+j	税	ぜい	tax, duty, customs (money…
+j	膳	ぜん	small Japanese meal tray
+j	贅	ぜい	luxury, extravagance
+j	銭	ぜに	a round coin with a squar…
+j	関	ぜき	barrier, gate
+j	ぜいご	ぜいご	アジの持つとげのような鱗のこと。稜鱗。ぜんご。
+j	ぜんき	ぜんき	前記: preface; the aforemen…
+j	ぜんぎ	ぜんぎ	前戯: foreplay
+j	ぜんこ	ぜんこ	全戸: all the houses
+j	ぜんご	ぜんご	pointy scales near the ta…
+j	ぜんぶ	ぜんぶ	
+j	ぜんら	ぜんら	全裸: to be wearing nothing…
+j	ゼウス	ゼウス	Zeus
+j	ゼット	ゼット	The name of the Latin scr…
+j	ゼッド	ゼッド	ラテンアルファベットの最後の文字。
+j	ゼニス	ゼニス	天頂。
+j	ゼブラ	ゼブラ	しまうま。
+j	ゼプト	ゼプト	zepto-
+j	ゼリー	ゼリー	jelly (dessert)
+j	ゼルダ	ゼルダ	Zelda
+j	ゼータ	ゼータ	Ζ, ζ: the Greek letter ze…
+j	ゼーレ	ゼーレ	synonym of 魂 (tamashī, “s…
+j	全備	ぜんび	完全に装備されていること。完備。
+j	全句	ぜんく	俳句などの句全体。
+j	全土	ぜんど	the whole country
+j	全姿	ぜんし	全体のすがたかたち。全容。
+j	全市	ぜんし	その市全体。
+j	全戸	ぜんこ	一家内のすべて。
+j	全智	ぜんち	「全知」の別表記。
+j	全機	ぜんき	仏教で働きや機能全体。生活全体。
+j	全治	ぜんじ	full recovery
+j	全治	ぜんち	full recovery
+j	全治	ぜんぢ	full recovery
+j	全癒	ぜんゆ	病気やけががすっかり治癒すること。全快。本復。
+j	全知	ぜんち	omniscience
+j	全紙	ぜんし	漉いたままの大きさの和紙。
+j	全美	ぜんび	完全に整い、すべてに良いこと。また、そのようなさま。
+j	全裸	ぜんら	To be wearing nothing; st…
+j	全躯	ぜんく	体全体。全身。
+j	全部	ぜんぶ	the whole thing; everythi…
+j	前世	ぜんせ	previous life; past life;…
+j	前古	ぜんこ	むかし。いにしえ。
+j	前史	ぜんし	ある歴史的な事象の起因を説明するために書くそれ以前…
+j	前場	ぜんば	株式市場で午前の取引。
+j	前夜	ぜんや	eve, the night before
+j	前夫	ぜんぷ	one's ex-husband, former …
+j	前婦	ぜんぷ	かつての妻。先婦。
+j	前座	ぜんざ	opening to a performance;…
+j	前後	ぜんご	front and behind
+j	前戯	ぜんぎ	foreplay
+j	前期	ぜんき	the first or earlier part
+j	前歯	ぜんし	front teeth; front tooth
+j	前知	ぜんち	何かが起こる前に知ること。予知。
+j	前科	ぜんか	criminal record, previous…
+j	前置	ぜぬち	placing before
+j	前置	ぜんち	placing before
+j	前翅	ぜんし	昆虫で中胸部から出る前部一対の翅。
+j	前肢	ぜんし	足が四本ある動物の、頭に近いほうの二本の足。まえあ…
+j	前胃	ぜんい	複数の胃を持つ動物で、食道に近い側の胃。
+j	前胡	ぜんこ	dried roots of Angelica d…
+j	前記	ぜんき	preface, the opening sect…
+j	前途	ぜんと	future, prospects, outlook
+j	前過	ぜんか	過去に犯した過ち。
+j	前部	ぜんぶ	front part, the front
+j	前非	ぜんぴ	以前に犯した罪過や悪事。
+j	単于	ぜんう	chanyu (a supreme ruler o…
+j	善事	ぜんじ	よい行い。
+j	善否	ぜんぴ	良いことと、そうでないこと。善し悪し。善悪。
+j	善図	ぜんと	良計。
+j	善意	ぜんい	good intentions, goodwill
+j	善狐	ぜんこ	good foxes or Inari foxes
+j	善美	ぜんび	goodness and beauty
+j	善途	ぜんと	善根を積む道。
+j	噬狗	ぜいく	噛み癖のある犬。
+j	噬膚	ぜいふ	肌を噛む。
+j	女衒	ぜげん	someone who professionall…
+j	巛部	ぜんぶ	部首「⼮」で分類した漢字の一群。
+j	是正	ぜせい	correction
+j	是認	ぜにん	approval
+j	是非	ぜっぴ	right and wrong
+j	毳布	ぜいふ	毛布。
+j	漸悟	ぜんご	修行の進展に応じて段階的に悟りが達成されること。
+j	漸次	ぜんじ	gradually
+j	砌下	ぜいか	軒下で雨垂れが落ちる場所に敷かれる石畳。
+j	禅位	ぜんい	天子がその地位を譲ること。
+j	禅家	ぜんか	禅宗。また、その寺院。
+j	禅家	ぜんけ	禅宗。また、その寺院。
+j	禅寺	ぜんじ	Zen temple
+j	禅師	ぜんじ	朝廷から知徳が優れた禅僧に贈られる称号。
+j	禅徒	ぜんと	仏教徒の総称。
+j	禅機	ぜんき	禅で無我の境地を得た者から出る心の働き。
+j	禅語	ぜんご	禅宗独特のことば・術語。
+j	禅那	ぜんな	dhyana
+j	税務	ぜいむ	租税の賦課や徴収などに関する行政の事務。
+j	税賦	ぜいふ	年貢。
+j	税駕	ぜいが	車に繋がれていた馬を解き放つこと。
+j	絶伎	ぜつぎ	絶技。
+j	絶佳	ぜっか	この上なくよいこと。非常に美しいこと。
+j	絶句	ぜっく	being at a loss for words
+j	絶奇	ぜっき	非常に珍しいこと。奇絶。
+j	絶家	ぜっか	後を継ぐ者がおらず家が絶えること。また、その家。
+j	絶家	ぜっけ	後を継ぐ者がおらず家が絶えること。また、その家。
+j	絶技	ぜつぎ	極めて優れた技術や演技。
+j	絶棄	ぜっき	すべて棄てること。
+j	絶気	ぜっき	死ぬこと。
+j	絶美	ぜつび	この上なく美しいこと。また、そのようなさま。
+j	絶起	ぜっき	絶望の起床、つまり重要な予定に遅れるほどの寝坊。
+j	脆化	ぜいか	金属などが様々な要因により脆くなること。
+j	膳司	ぜんし	a 律令 (ritsuryō) position …
+j	膳夫	ぜんぷ	飲食物を調理する者。
+j	膳部	ぜんぶ	膳にのせて提供する食事。
+j	舌下	ぜっか	舌の下の部分。
+j	舌禍	ぜっか	slip of the tongue
+j	舌部	ぜつぶ	部首「⾆」で分類した漢字の一群。
+j	贅句	ぜいく	無駄な句。必要のない句。
+j	贅語	ぜいご	むだな言葉。
+j	銭座	ぜにざ	江戸時代に江戸幕府の下請けで硬貨を製造した業者。
+j	零和	ぜろわ	zero-sum
+j	零和	ゼロわ	zero-sum
+j	髯奴	ぜんど	口髭が濃い者、特に欧米人を指す。
+j	ぜいぜい	ぜいぜい	激しい運動や呼吸器の疾患などにより呼吸が荒くなった…
+j	ぜえぜえ	ぜえぜえ	wheezing, gasping (the so…
+j	ぜっぺき	ぜっぺき	絶壁: a precipice
+j	ぜにがめ	ぜにがめ	ニホンイシガメもしくはクサガメの幼体のこと。
+j	ぜにみせ	ぜにみせ	江戸時代、金貨や銀貨を銭と交換することを業とした、…
+j	ぜひとも	ぜひとも	是非とも, 是非共: by all means (…
+j	ぜんいん	ぜんいん	全員: everyone
+j	ぜんかく	ぜんかく	全角: em, em quad (printing…
+j	ぜんこく	ぜんこく	
+j	ぜんじん	ぜんじん	前人: predecessor
+j	ぜんせい	ぜんせい	全盛: height of prosperity
+j	ぜんせん	ぜんせん	前線: front
+j	ぜんぞう	ぜんぞう	善蔵: a male given name
+j	ぜんたい	ぜんたい	
+j	ぜんふり	ぜんふり	maxxing out only one stat…
+j	ぜんまい	ぜんまい	シダ綱ゼンマイ属に属する植物の一種。別名、ぜんまい…
+j	ゼカリヤ	ゼカリヤ	
+j	ゼッケン	ゼッケン	the bib with an athlete's…
+j	ゼット旗	ぜっとき	The Z semaphore flag. It …
+j	ゼット旗	ゼットき	The Z semaphore flag. It …
+j	ゼット旗	ゼット旗	The Z semaphore flag. It …
+j	ゼニガメ	ゼニガメ	「銭亀」の学術的表記。
+j	ゼネコン	ゼネコン	general contractor
+j	ゼネスト	ゼネスト	「ゼネラル・ストライキ」の略。総同盟罷業。大規模に…
+j	ゼネラル	ゼネラル	general; universal
+j	ゼファー	ゼファー	
+j	ゼベダイ	ゼベダイ	Zebedee
+j	ゼラチン	ゼラチン	gelatin (a protein derive…
+j	ゼラルダ	ゼラルダ	
+j	ゼロから	ゼロから	一から。
+j	ゼロヨン	ゼロヨン	自動車やバイクで停止した状態から400メートル走行…
+j	ゼロ年代	ゼロ年代	西暦2000年から2009年までの10年間（「20…
+j	ゼロ成長	ゼロ成長	国内総生産の伸び率が零、つまり横ばいであること。
+j	ゼロ打ち	ぜろうち	選挙で出口調査などの結果から投票の終了と同時に当確…
+j	ゼロ打ち	ゼロ打ち	選挙で出口調査などの結果から投票の終了と同時に当確…
+j	ゼロ番目	ゼロ番目	
+j	ゼロ行列	ゼロ行列	全ての成分が 0 である行列。零行列。
+j	ゼータ株	ゼータ株	
+j	全クリ	ぜんくり	
+j	全クリ	ぜんクリ	
+j	全会	ぜんかい	whole assembly (everyone …
+j	全体	ぜんたい	entirety
+j	全像	ぜんぞう	全体像。
+j	全党	ぜんたう	all political parties
+j	全党	ぜんとう	all political parties
+j	全冊	ぜんさつ	複数の冊子からなる書物の全部。
+j	全判	ぜんばん	印刷用紙で原紙の規格寸法で裁断されていない紙。
+j	全割	ぜんかつ	動物の発生段階で卵割が受精卵全体にわたるもの。等割…
+j	全割れ	ぜんわれ	想定される震源域全体が一度に破壊されて起きる巨大地…
+j	全功	ぜんこう	a male given name
+j	全員	ぜんいん	everybody; all members
+j	全問	ぜんもん	all questions
+j	全国	ぜんこく	the whole country; the en…
+j	全国	ぜんごく	the whole country; the en…
+j	全域	ぜんいき	the entire area, the area…
+j	全域	ぜんゐき	the entire area, the area…
+j	全壊	ぜんかい	complete destruction
+j	全天	ぜんてん	whole sky
+j	全学	ぜんがく	大学内の全部。大学全体。
+j	全容	ぜんよう	entire appearance (容貌) or…
+j	全射	ぜんしゃ	surjection
+j	全射	ぜんしや	surjection
+j	全島	ぜんとう	その島全体。
+j	全巻	ぜんかん	全ての巻。
+j	全幅	ぜんぷく	being on all fronts
+j	全店	ぜんてん	その店舗全体（の商品）。
+j	全快	ぜんかい	complete healing (of an i…
+j	全性	ぜんせい	天性を全うすること。
+j	全成	ぜんせい	すべて成し遂げること。
+j	全損	ぜんそん	a total loss, a write-off
+j	全摘	ぜんてき	synonym of 全摘出
+j	全敗	ぜんぱい	utter defeat
+j	全数	ぜんすう	調べる対象の全ての数。
+j	全整	ぜんせい	完整。
+j	全文	ぜんぶん	full text
+j	全日	ぜんじつ	every day
+j	全景	ぜんけい	panoramic view, panorama
+j	全書	ぜんしょ	complete book; complete s…
+j	全村	ぜんそん	その村全体。
+j	全権	ぜんけん	full authority, carte bla…
+j	全段	ぜんだん	すべての段または段落。
+j	全消し	ぜんけし	complete clearing
+j	全清	ぜんせい	中国の音韻学における子音の分類で、無気無声音のもの。
+j	全滅	ぜんめつ	annihilation; exterminati…
+j	全点	ぜんてん	全ての点。
+j	全然	ぜんぜん	(not) at all
+j	全班	ぜんぱん	すべての班。
+j	全璧	ぜんぺき	全てが備わっていること。欠点がないこと。
+j	全的	ぜんてき	全てがそうであるさま。すべてに及ぶさま。
+j	全盛	ぜんせい	height of prosperity
+j	全盲	ぜんまう	entirely blind; completel…
+j	全盲	ぜんもう	entirely blind; completel…
+j	全知の	ぜんちの	
+j	全社	ぜんしゃ	whole company
+j	全篇	ぜんぺん	「全編」の別表記。
+j	全米	ぜんべい	アメリカ合衆国の全土。
+j	全線	ぜんせん	all lines of a transporta…
+j	全編	ぜんぺん	all installments
+j	全縁	ぜんえん	葉縁が平坦で滑らかになっておりぎざぎざの無いこと。
+j	全聾	ぜんろう	being fully deaf
+j	全能	ぜんのう	omnipotent
+j	全般	ぜんぱん	something as a whole
+j	全舷	ぜんげん	新聞業界の用語で、記者などが部署ごとに慰安旅行に行…
+j	全船	ぜんせん	全部の船。
+j	全艦	ぜんかん	全ての艦。
+j	全蠲	ぜんけん	すべてを免れること。
+j	全裂	ぜんれつ	植物の葉、花弁、萼などの縁の切れ込みが深く、基部ま…
+j	全角	ぜんかく	the state of being fullwi…
+j	全訳	ぜんやく	complete translation
+j	全貌	ぜんばう	the whole picture, the fu…
+j	全貌	ぜんぼう	the whole picture, the fu…
+j	全身	ぜんしん	the whole body, head to t…
+j	全車	ぜんしゃ	すべての車。
+j	全軍	ぜんぐん	軍隊や競技のチームに属する全員。
+j	全速	ぜんそく	「全速力」の略。
+j	全部で	ぜんぶで	
+j	全部の	ぜんぶの	
+j	全開	ぜんかい	being all the way open
+j	全院	ぜんいん	その院全体。
+j	全隊	ぜんたい	全ての部隊。
+j	全霊	ぜんれい	持っている精神力全部。
+j	全面	ぜんめん	whole area
+j	全音	ぜんおん	二つの半音を含む音程。長二度の音程。
+j	全額	ぜんがく	total amount
+j	全館	ぜんかん	全ての館
+j	全駒	ぜんごま	ひとそろいの駒のすべて。全部の駒。
+j	冉冉	ぜんぜん	次第に進行していくさま。次第に侵していくさま。
+j	前世	ぜんせい	previous life; past life;…
+j	前主	ぜんしゅ	前の君主。
+j	前人	ぜんじん	predecessor; person before
+j	前代	ぜんだい	今よりも前の時代。
+j	前任	ぜんにん	one's former post or appo…
+j	前作	ぜんさく	previously created work, …
+j	前例	ぜんれい	precedent
+j	前傾	ぜんけい	体などを前の方向へ傾けること。
+j	前前	ぜんぜん	かつて。以前。
+j	前功	ぜんこう	先人の功績。
+j	前半	ぜんはん	first half
+j	前号	ぜんごう	previous issue
+j	前哨	ぜんせう	frontline
+j	前哲	ぜんてつ	昔の哲人や優れた思想家。先哲。
+j	前回	ぜんかい	last time (the previous o…
+j	前因	ぜんいん	前世の因縁。
+j	前坊	ぜんぼう	前の皇太子。先坊。
+j	前報	ぜんぽう	先の知らせ。先報。
+j	前壁	ぜんぺき	前方の壁。
+j	前夕	ぜんせき	the previous night; last …
+j	前失	ぜんしつ	以前行った過ちや過失。
+j	前奏	ぜんそう	prelude
+j	前妻	ぜんさい	ex-wife; former wife
+j	前官	ぜんかん	前に任命されていた官職。
+j	前室	ぜんしつ	古墳で玄室の前にある小さい部屋。
+j	前山	ぜんざん	
+j	前巻	ぜんかん	前の巻。
+j	前席	ぜんせき	前にある席。
+j	前年	ぜんねん	the previous year, last y…
+j	前庭	ぜんてい	front garden, front yard
+j	前引け	ぜんびけ	株式市場で午前の最後の取引。
+j	前彦	ぜんげん	前賢。
+j	前念	ぜんねん	一刹那を前後に分けた前半の瞬間。
+j	前愆	ぜんけん	前過。
+j	前掲	ぜんけい	前に掲げたり述べたりしたもの。
+j	前提	ぜんてい	prerequisite
+j	前文	ぜんぶん	the above sentence; the p…
+j	前方	ぜんぽう	the front, the area befor…
+j	前日	ぜんじつ	the previous day; the day…
+j	前星	ぜんせい	皇太子の異称。
+j	前晩	ぜんばん	前の晩。昨晩。
+j	前景	ぜんけい	foreground
+j	前月	ぜんげつ	last month
+j	前検	ぜんけん	前日検査の略。公営競技などで開催の前日に出場選手に…
+j	前段	ぜんだん	前の段。また、前出た一つのくぎり。
+j	前殿	ぜんでん	前後にある殿舎のうち前方のもの。
+j	前泊	ぜんぱく	a surname
+j	前港	ぜんこう	河川の港で大型の船舶が入港できる河口またはそれに近…
+j	前漢	ぜんかん	紀元前202年から紀元後8年までの漢王朝の通称。
+j	前灯	ぜんとう	乗り物で前方を照らす灯火。前照灯。
+j	前烈	ぜんれつ	祖先の功績。先烈。
+j	前程	ぜんてい	行く先。
+j	前端	ぜんたん	front end
+j	前篇	ぜんぺん	「前編」の別表記。
+j	前約	ぜんやく	promise that was made in …
+j	前納	ぜんのう	前もって金銭などを納めること。
+j	前線	ぜんせん	frontline of a warzone
+j	前編	ぜんぺん	a prequel
+j	前縁	ぜんえん	leading edge
+j	前罪	ぜんざい	以前犯した罪。
+j	前置詞	ぜんちし	preposition
+j	前翼	ぜんよく	前方に取り付けた水平尾翼。先尾翼。カナード
+j	前者	ぜんしゃ	the former
+j	前聖	ぜんせい	むかしの聖人。
+j	前脳	ぜんのう	脊椎動物の個体が発生する際、神経管の先端にできる膨…
+j	前腕	ぜんわん	a forearm; an antebrachium
+j	前膊	ぜんぱく	前腕。
+j	前菜	ぜんさい	appetizer, starter, hors …
+j	前行	ぜんこう	前進すること。
+j	前衛	ぜんえい	vanguard (leading units o…
+j	前見	ぜんけん	予め調べること。予め見ておくこと。
+j	前角	ぜんかく	脊髄の灰白質の前側。前柱。
+j	前言	ぜんげん	previous remarks, last st…
+j	前説	ぜんせつ	前述の説。
+j	前諾	ぜんだく	以前、承諾したこと。
+j	前賢	ぜんけん	昔の賢人。先哲。
+j	前跡	ぜんせき	先人の事跡。
+j	前身	ぜんしん	a person's past
+j	前転	ぜんてん	前方に回転すること。
+j	前輪	ぜんりん	前後に車輪が付いている乗り物の前の車輪。
+j	前轍	ぜんてつ	前に通った車の轍。
+j	前進	ぜんしん	advance, advancement, pro…
+j	前金	ぜんきん	monetary payment given in…
+j	前門	ぜんもん	a front gate
+j	前陰	ぜんいん	生殖器。陰部。
+j	前陳	ぜんちん	前に述べたこと。
+j	前電	ぜんでん	以前に打った電報。
+j	前震	ぜんしん	本震の前触れとして発生する比較的小さい地震。
+j	前面	ぜんめん	the front, the part in fr…
+j	前頭	ぜんとう	maegashira
+j	前験	ぜんけん	前兆。
+j	善三	ぜんぞう	a male given name
+j	善人	ぜんにん	good person; virtuous per…
+j	善俗	ぜんぞく	良俗。
+j	善処	ぜんしょ	to handle things properly
+j	善友	ぜんゆう	善い友人。
+j	善哉	ぜんざい	red-bean soup
+j	善報	ぜんぽう	善行を積むことで得られるよい報い。
+j	善声	ぜんせい	美声。
+j	善女	ぜんにょ	a pious woman; a woman wi…
+j	善導	ぜんだう	guiding benevolently
+j	善導	ぜんどう	guiding benevolently
+j	善弁	ぜんべん	巧弁。
+j	善念	ぜんねん	良い心。善良な気持ち。
+j	善悪	ぜんあく	good and evil
+j	善悪	ぜんなく	good and evil
+j	善悪	ぜんまく	good and evil
+j	善意の	ぜんいの	
+j	善感	ぜんかん	種痘が上手くつくこと。
+j	善戦	ぜんせん	good fight; fighting to t…
+j	善根	ぜんこん	よい果報を招くための元となるよい行い。
+j	善業	ぜんごう	good deeds
+j	善業	ぜんごふ	good deeds
+j	善法	ぜんぽう	道理にかない、自分の利益となる方法。
+j	善現	ぜんげん	「善現天」の略。
+j	善用	ぜんよう	good use
+j	善男	ぜんなん	a male given name
+j	善神	ぜんしん	善良な神。福をもたらす神。
+j	善蔵	ぜんぞう	a male given name
+j	善行	ぜんこう	good deed, benevolence
+j	善見	ぜんけん	「善見天」の略。
+j	善言	ぜんげん	手本となる良い言葉。
+j	善趣	ぜんしゅ	現世で善行をした者が死後に赴く世界。天、人、阿修羅…
+j	善逝	ぜんぜい	仏（如来）の十号（十個の称号）の一つ。煩悩を絶って…
+j	喘息	ぜんそく	asthma
+j	喘鳴	ぜんめい	気管支の狭窄などにより呼吸に伴いぜーぜー、ヒューヒ…
+j	噬斉	ぜいせい	臍を噛むこと。後悔。
+j	噬犬	ぜいけん	噛み癖のある犬。
+j	噬臍	ぜいせい	臍を噬むこと。後悔。
+j	帨巾	ぜいきん	手拭き。
+j	擾乱	ぜうらん	disturbance
+j	是是非非	ぜぜひひ	物事を客観的に公平に判断すること。
+j	是非とも	ぜひとも	by all means (with the se…
+j	染心	ぜんしん	性欲などの煩悩に汚れた心。
+j	染法	ぜんぼう	（せんぽう）染色する方法。
+j	毳袍	ぜいぼう	毛の長衣。
+j	漸増	ぜんぞう	だんだん増えること。
+j	漸変	ぜんへん	次第にゆっくりと変化すること。
+j	漸滅	ぜんめつ	次第に滅びること。
+j	漸苞	ぜんぼう	茂ること。
+j	漸近	ぜんきん	asymptote
+j	漸進	ぜんしん	gradual progress
+j	漸騰	ぜんとう	相場・物価などが段段高くなること。
+j	然諾	ぜんだく	引き受けること。
+j	発条	ぜんまい	spring (device made of fl…
+j	禅制	ぜんせい	禅譲の詔。
+j	禅刹	ぜんさつ	禅寺。
+j	禅学	ぜんがく	Zen studies; Zen practice
+j	禅客	ぜんかく	禅を修行する僧侶。
+j	禅室	ぜんしつ	坐禅をする部屋。
+j	禅寺	ぜんでら	Zen temple
+j	禅席	ぜんせき	座禅を行う場所
+j	禅庵	ぜんあん	禅僧の庵室。
+j	禅心	ぜんしん	一点のことに集中し、乱れることのない禅定の心。
+j	禅房	ぜんぼう	禅寺の僧房。
+j	禅札	ぜんさつ	在家信者からの書面。
+j	禅棲	ぜんせい	出家。
+j	禅榻	ぜんとう	坐禅をする時に使用する腰掛け。
+j	禅法	ぜんぽう	禅定による修行の方法。
+j	禅源	ぜんげん	本覚。
+j	禅窟	ぜんくつ	禅僧の庵室。
+j	禅鋒	ぜんぽう	禅機。
+j	禅門	ぜんもん	禅宗。
+j	禅閣	ぜんかく	禅宗の寺院。禅寺。
+j	禅院	ぜんいん	禅宗寺院。禅寺。
+j	税介	ぜいかい	甲を脱ぐこと。
+j	税別	ぜいべつ	tax excluded; excluding t…
+j	税制	ぜいせい	taxation system
+j	税契	ぜいけい	権利証書。
+j	税抜き	ぜいぬき	tax excluded; without tax…
+j	税政	ぜいせい	租税に関する行政。
+j	税権	ぜいけん	課税できる権利。
+j	税法	ぜいほう	tax law; taxation law
+j	税率	ぜいりつ	tax rate
+j	税理士	ぜいりし	a tax accountant
+j	税込み	ぜいこみ	tax included; with tax; a…
+j	税金	ぜいきん	tax
+j	税銀	ぜいぎん	税金。
+j	税関	ぜいかん	customs house
+j	税額	ぜいがく	租税の金額。税金の額。
+j	筮卜	ぜいぼく	筮竹を使って行う占い。
+j	筮法	ぜいほう	易の卦を筮竹の数により得る方法。占筮法。
+j	筮験	ぜいけん	卜筮の験。
+j	絶する	ぜっする	to be unspeakable; to be …
+j	絶亡	ぜつぼう	滅亡すること。
+j	絶交	ぜっこう	breakup; breaking off one…
+j	絶代	ぜつだい	その時代に並ぶものがいないこと。
+j	絶体	ぜったい	「絶体絶命」の略。
+j	絶俗	ぜつぞく	俗事に関わりを持たないこと。
+j	絶倒	ぜっとう	笑い転げること。
+j	絶倫	ぜつりん	unparalleled, peerless
+j	絶命	ぜつめい	to die
+j	絶品	ぜっぴん	item/work of outstanding …
+j	絶域	ぜついき	遠隔の土地や外国。
+j	絶壁	ぜっぺき	a precipice (a very steep…
+j	絶壑	ぜつがく	険しくきりたった谷。
+j	絶大	ぜつだい	immense
+j	絶好	ぜっこう	excellent
+j	絶妙	ぜつめう	exquisite, superb, marvel…
+j	絶学	ぜつがく	学問をやめること。
+j	絶対	ぜったい	absolute, limitless
+j	絶島	ぜっとう	遠隔の島。孤島。
+j	絶嶮	ぜっけん	絶険。
+j	絶弦	ぜつげん	愛用の琴の弦を断ち、以後琴をひかないこと。
+j	絶待	ぜつだい	互いに対立している関係を超越していること。
+j	絶息	ぜっそく	息が絶えること。死ぬこと。絶命。
+j	絶悪	ぜつあく	悪を断つこと。
+j	絶族	ぜつぞく	縁が切れること。
+j	絶景	ぜっけい	breathtaking scenery
+j	絶景	ぜつけい	breathtaking scenery
+j	絶望	ぜつばう	despair; hopelessness
+j	絶望	ぜつぼう	despair; hopelessness
+j	絶海	ぜっかい	distant sea
+j	絶海	ぜつかい	distant sea
+j	絶滅	ぜつめつ	extinction; annihilation;…
+j	絶版	ぜっぱん	out of print
+j	絶筆	ぜっぴつ	the last written work pro…
+j	絶絃	ぜつげん	愛用の琴の弦を断ち、以後琴をひかないこと。
+j	絶続	ぜつぞく	断続すること。
+j	絶縁	ぜつえん	ending contact
+j	絶艶	ぜつえん	最上級に美しいこと。また、そのさま。
+j	絶許	ぜっきょ	絶対に許せないの略。
+j	絶許	ぜつきよ	絶対に許せないの略。
+j	絶許	ぜつゆる	絶対に許せないの略。
+j	絶豔	ぜつえん	最上級に美しいこと。また、そのさま。
+j	絶貌	ぜつぼう	容色が非常によいこと。絶色。
+j	絶賛	ぜっさん	high praise, rave review
+j	絶足	ぜっそく	高足。
+j	絶遠	ぜつえん	極めて遠いこと。また、そのさま。
+j	絶険	ぜっけん	切り立って非常に険しいこと。また、そのようなさま。
+j	絶高	ぜっこう	非常に高いこと。この上なく高大なこと。
+j	繕性	ぜんせい	性を養い、おさめること。
+j	繕生	ぜんせい	繕性。
+j	耎脆	ぜんぜい	弱いさま。
+j	脆性	ぜいせい	brittleness
+j	脆薄	ぜいはく	脆く薄いこと。また、そのさま。
+j	膳献	ぜんけん	供献するもの。
+j	膳番	ぜんばん	膳部の番人、またはその担当。
+j	膳立て	ぜんだて	setting out a meal on a t…
+j	膳組	ぜんぐみ	膳に並べる料理の種類や数などを定めること。また、そ…
+j	舌代	ぜつだい	口上で述べる代わりに簡単に文章で書いたもの。
+j	舌内	ぜつない	in Sanskrit phonology, co…
+j	舌剣	ぜっけん	剣のように鋭い弁舌。舌鋒。
+j	舌尖	ぜっせん	tonguetip
+j	舌戦	ぜっせん	弁舌による戦い。
+j	舌炎	ぜつえん	glossitis
+j	舌癌	ぜつがん	tongue cancer
+j	舌癖	ぜつへき	口の中での舌の位置や動きなどの癖。
+j	舌端	ぜったん	舌の先端。
+j	舌筋	ぜっきん	a tongue muscle
+j	舌耕	ぜっこう	講談や講義など弁説により生計を立てること。
+j	舌苔	ぜったい	病気などにより舌の表面に苔が生えたようにできる付着…
+j	舌言	ぜつげん	口先の言葉。
+j	舌診	ぜっしん	望診の一つで患者の舌を観察し経絡の異常を診察するこ…
+j	舌鋒	ぜっぽう	論法や弁舌が激しく鋭いこと。
+j	舌音	ぜつおん	a lingual sound
+j	舌骨	ぜっこつ	a hyoid bone
+j	苒苒	ぜんぜん	草が盛んに生い茂ること。
+j	薇	ぜんまい	Japanese flowering fern (…
+j	薇	ゼンマイ	Japanese flowering fern (…
+j	蚺蛇	ぜんじゃ	python (a type of snake)
+j	蛻変	ぜいへん	蟬が卵、幼虫、成虫と姿を変えること。
+j	蛻形	ぜいけい	脱皮。
+j	蛻殻	ぜいかく	脱皮。
+j	蛻演	ぜいえん	変化すること。
+j	蛻解	ぜいかい	仙術で肉体は生時と変わらず、霊魂だけ体外に抜け出す…
+j	蛻變	ぜいへん	蛻変の旧字体表記。
+j	蝉退	ぜんたい	蝉の脱け殻。漢方で生薬の一つとして用いられる。
+j	蟬退	ぜんたい	蟬の脱け殻。漢方で生薬の一つとして用いられる。
+j	蠕動	ぜんどう	芋虫やミミズなどのように体全体の伸縮を用いて動くこ…
+j	蠕蠕	ぜんぜん	小さな虫やそのようなものが蠢くさま。
+j	説客	ぜいかく	諸国をめぐり、遊説する士。
+j	贅婿	ぜいせい	夫が妻の家に婿として入ること。入婿。
+j	贅弁	ぜいべん	無駄な言葉。贅言。
+j	贅文	ぜいぶん	無駄な文字や文句。
+j	贅沢	ぜいたく	luxury; extravagance
+j	贅肉	ぜいにく	excess fat on one's body,…
+j	贅言	ぜいげん	無駄な言葉を言うこと。また、その言葉。
+j	銭ゲバ	ぜにげば	金銭への強い執着をからかっていう俗語的表現。
+j	銭亀	ぜにかめ	an immature Japanese pond…
+j	銭亀	ぜにがめ	an immature Japanese pond…
+j	銭札	ぜにさつ	江戸時代から明治の初期にかけて紙幣の額面を銭高を表…
+j	銭苔	ぜにごけ	Marchantia polymorpha, a …
+j	銭苔	ゼニゴケ	Marchantia polymorpha, a …
+j	零戦	ぜろせん	
+j	零戦	ゼロせん	
+j	零才	ぜろさい	1歳になる前の乳児。零歳。
+j	零歳	ぜろさい	1歳になる前の乳児。零才。
+j	ぜいちょう	ぜいちょう	税調: short for 税制調査会
+j	ぜったいち	ぜったいち	絶対値: (mathematics) absolu…
+j	ぜにあおい	ぜにあおい	銭葵: common mallow (Malva …
+j	ぜにたむし	ぜにたむし	顔面、躯幹、四肢に白癬菌が感染し、円形の小さな水疱。
+j	ぜんじろう	ぜんじろう	善治郎: a male given name
+j	ゼイヴィア	ゼイヴィア	
+j	ゼカリヤ書	ゼカリヤ書	
+j	ゼクエンツ	ゼクエンツ	「ゼクウェンツ」の表記ゆれ。
+j	ゼスチャー	ゼスチャー	「ジェスチャー」の表記ゆれ。
+j	ゼタバイト	ゼタバイト	zettabyte
+j	ゼタビット	ゼタビット	
+j	ゼパニヤ書	ゼパニヤ書	
+j	ゼビバイト	ゼビバイト	zebibyte
+j	ゼビビット	ゼビビット	zebibit
+j	ゼピュロス	ゼピュロス	西風の神。ローマ神話におけるファウォーニウスに相当。
+j	ゼプトモル	ゼプトモル	
+j	ゼミナール	ゼミナール	seminar
+j	ゼムフィラ	ゼムフィラ	
+j	ゼラニウム	ゼラニウム	
+j	ゼロコロナ	ゼロコロナ	zero COVID (having zero C…
+j	ゼロックス	ゼロックス	photocopy; xerox
+j	ゼロベース	ゼロベース	ゼロベース予算の略。各部の予算をすべてゼロにもどし…
+j	ゼロ番目	ぜろばんめ	
+j	全世界	ぜんせかい	the whole world
+j	全乳	ぜんにゅう	脂肪を抜き取らない絞ったままの牛乳。
+j	全休	ぜんきゅう	一日中休みであること。
+j	全体の	ぜんたいの	
+j	全入	ぜんにゅう	すべて入れること。
+j	全力	ぜんりょく	utmost, full power
+j	全勝	ぜんしょう	complete victory
+j	全区間	ぜんくかん	全ての区間。
+j	全国紙	ぜんこくし	全国を対象として発行され、全国で販売・配達される新…
+j	全射の	ぜんしゃの	
+j	全州	ぜんしゅう	
+j	全微分	ぜんびぶん	多変数関数に対し、各変数方向への偏微分と無限小の積…
+j	全曲	ぜんきょく	the entire tune or song
+j	全治	ぜんじする	full recovery
+j	全治	ぜんちする	full recovery
+j	全焼	ぜんしょう	complete destruction by f…
+j	全球	ぜんきゅう	地球全体。
+j	全画面	ぜんがめん	
+j	全盛期	ぜんせいき	heyday; glory years
+j	全称	ぜんしょう	universal quantifier
+j	全稱	ぜんしょう	
+j	全粒	ぜんりゅう	
+j	全羅道	ぜんらどう	朝鮮八道の一つ。現在の大韓民国全北特別自治道・全羅…
+j	全能の	ぜんのうの	
+j	全自動	ぜんじどう	完全に自動であること。自分から手を加える必要がない…
+j	全豹	ぜんぴょう	the whole situation
+j	全部俺	ぜんぶおれ	a one-man genre of music …
+j	全量	ぜんりやう	entire quantity
+j	全量	ぜんりょう	entire quantity
+j	全長	ぜんちょう	total length, span
+j	全集	ぜんしゅう	complete works (of someon…
+j	前世界	ぜんせかい	有史以前の世界。
+j	前乳	ぜんにゅう	授乳の際、飲み始めに出る薄い母乳。
+j	前借	ぜんしゃく	支給日の前に賃金分などを借りること。
+j	前兆	ぜんちょう	harbinger, omen, premonit…
+j	前哨	ぜんしょう	frontline
+j	前回	ぜんくわい	last time (the previous o…
+j	前夜祭	ぜんやさい	festivities that take pla…
+j	前宵	ぜんしょう	前夜。昨夜。
+j	前後	ぜんごする	front and behind
+j	前打音	ぜんだおん	西洋音楽で、ある音符の前に短く演奏される音。倚音。
+j	前接語	ぜんせつご	enclitic
+j	前条	ぜんじょう	前に記された条項、条文。
+j	前柱	ぜんちゅう	脊髄の灰白質の前側。前角。
+j	前機種	ぜんきしゅ	
+j	前生	ぜんしょう	生まれる前の世。前世。
+j	前略	ぜんりゃく	Forgive me for dispensing…
+j	前置	ぜんちする	placing before
+j	前置格	ぜんちかく	prepositional case
+j	前置詞句	ぜんちしく	(文法, 統語論) 前置詞を主要部とする句。文中で…
+j	前職	ぜんしょく	previous job / occupation
+j	前職	ぜんしよく	previous job / occupation
+j	前蜀	ぜんしょく	五代十国の一つで、節度使であった王建が907年四川…
+j	前衝	ぜんしょう	A piece in Ko shogi, whic…
+j	前表	ぜんぴょう	前に掲げた図表。
+j	前蹤	ぜんしょう	先人の事業の跡。先蹤。
+j	前述	ぜんじゅつ	the aforementioned, afore…
+j	前週	ぜんしゅう	the previous week
+j	前面の	ぜんめんの	
+j	前駆体	ぜんくたい	
+j	善将	ぜんしょう	良将。
+j	善巧	ぜんぎょう	衆生の機根に応じ、巧みに教化する手段。
+j	善治郎	ぜんじろう	a male given name
+j	善男子	ぜんなんし	仏法に帰依し、守る男子。善男。
+j	善祥	ぜんしょう	めでたい印。吉祥。瑞祥。
+j	善良	ぜんりょう	goodness; virtue
+j	善行	ぜんぎょう	good deed, benevolence
+j	是が非でも	ぜがひでも	by all means, absolutely …
+j	是正	ぜせいする	correction
+j	是認	ぜにんする	approval
+j	漸化式	ぜんかしき	数列のある項の数値を、直前の1つ以上の項を用いて表…
+j	漸将	ぜんしょう	次第に進むこと。漸進。
+j	漸教	ぜんきょう	衆生の機根に応じ、易しい教えから段階的に教え導くこ…
+j	然乃	ぜんじょう	しかる後に。それから。
+j	禅宗	ぜんしゅう	Zen Buddhism
+j	禅定	ぜんじょう	六波羅蜜の一つ。心を静寂にし、一点に集中させる瞑想。
+j	禅杖	ぜんじょう	坐禅の際、眠気を覚ますための杖。
+j	禅牀	ぜんしょう	禅榻。
+j	禅行	ぜんぎょう	禅の修行。
+j	税務署	ぜいむしょ	tax office
+j	税収	ぜいしゅう	revenue, yield of taxes, …
+j	税糧	ぜいりょう	主に中国明の時代での土地にかかる租税。
+j	税調	ぜいちょう	税制調査会の略。
+j	税鈔	ぜいしょう	税金。
+j	税関	ぜいくわん	customs house
+j	税関吏	ぜいかんり	customs officer
+j	税餉	ぜいしょう	租税。
+j	絶句	ぜっくする	being at a loss for words
+j	絶叫	ぜっきょう	screaming / shouting at t…
+j	絶命	ぜつみやう	to die
+j	絶命	ぜつみょう	to die
+j	絶境	ぜっきょう	人里離れ、人がほとんど住んでいないような場所。
+j	絶妙	ぜつみょう	exquisite, superb, marvel…
+j	絶対に	ぜったいに	
+j	絶対の	ぜったいの	
+j	絶対値	ぜったいち	absolute value (numerical…
+j	絶対知	ぜったいち	知識の最高段階で主観と客観とが統一された哲学的な知…
+j	絶色	ぜっしょく	容色が非常によいこと。また、そのようなさま。
+j	絶頂	ぜっちょう	top; summit; peak (highes…
+j	絶食	ぜっしょく	fasting; abstinence from …
+j	脆亮	ぜいりょう	清脆なこと。また、そのようなさま。
+j	脆弱	ぜいじゃく	vulnerable, fragile, dest…
+j	脆弱	ぜいじやく	vulnerable, fragile, dest…
+j	膳食	ぜんしょく	食事。
+j	蛻留	ぜいりゅう	ぬけがらが残ること。
+j	蟯虫	ぜうちゆう	pinworm
+j	蠕虫	ぜんちゅう	worm
+j	説客	ぜいきゃく	諸国をめぐり、遊説する士。
+j	贅冗	ぜいじょう	余分なもの。
+j	贅瘤	ぜいりゅう	無用な瘤。
+j	贅聚	ぜいしゅう	集めること。
+j	贅賸	ぜいしょう	無駄。
+j	銭葵	ぜにあおい	common mallow (Malva sylv…
+j	ぜっしんおん	ぜっしんおん	舌唇音: linguolabial
+j	ぜっぱいおん	ぜっぱいおん	舌背音: dorsal consonant
+j	ぜんごさゆう	ぜんごさゆう	前後左右: in all directions
+j	ぜんまいばね	ぜんまいばね	
+j	ぜんりつせん	ぜんりつせん	前立腺: prostate
+j	ぜんりょうだ	ぜんりょうだ	
+j	ゼクウェンツ	ゼクウェンツ	反復進行。
+j	ゼッタバイト	ゼッタバイト	
+j	ゼニアオイ属	ゼニアオイ属	Malva
+j	ゼネラリスト	ゼネラリスト	広い分野に亘る知識や能力を持つ人。
+j	ゼノフォビア	ゼノフォビア	外国人や未知のものに対する嫌悪や恐怖。
+j	ゼノフォーブ	ゼノフォーブ	
+j	ゼムクリップ	ゼムクリップ	paperclip
+j	ゼムストヴォ	ゼムストヴォ	
+j	ゼレンスキー	ゼレンスキー	a transliteration of the …
+j	ゼロカーボン	ゼロカーボン	二酸化炭素の排出量と吸収量が同じであるか吸収量の方…
+j	ゼロゼロ年代	ゼロゼロ年代	「ゼロ年代」に同じ。
+j	ゼロベクトル	ゼロベクトル	synonym of 零ベクトル (rei-bek…
+j	ゼロ和ゲーム	ゼロ和ゲーム	
+j	ゼロ年代	ぜろねんだい	西暦2000年から2009年までの10年間（「20…
+j	ゼントルマン	ゼントルマン	
+j	ゼーラント州	ゼーラント州	
+j	ゼーラント語	ぜーらんとご	ゼーランド語の異綴。
+j	ゼーラント語	ゼーラント語	ゼーランド語の異綴。
+j	ゼーランド語	ぜーらんどご	オランダのゼーラント州やグーレー＝オーフェルフラッ…
+j	ゼーランド語	ゼーランド語	オランダのゼーラント州やグーレー＝オーフェルフラッ…
+j	全体像	ぜんたいぞう	一纏まりのものとして見た姿形。全像。
+j	全体的	ぜんたいてき	overall, general, on the …
+j	全単射	ぜんたんしゃ	（数学）全射かつ単射である写像。双射、一対一対応と…
+j	全国的	ぜんこくてき	nationwide
+j	全壊	ぜんかいする	complete destruction
+j	全快	ぜんかいする	complete healing (of an i…
+j	全性愛	ぜんせいあい	pansexuality
+j	全摘	ぜんてきする	synonym of 全摘出
+j	全敗	ぜんぱいする	utter defeat
+j	全滅	ぜんめつする	annihilation; exterminati…
+j	全終止	ぜんしゅうし	ドミナント（VまたはV7など）からトニック（I）を…
+j	全般的	ぜんぱんてき	overall, general, across-…
+j	全裸待機	ぜんらたいき	"on standby stark naked":…
+j	全訳	ぜんやくする	complete translation
+j	全身浴	ぜんしんよく	概ねくび辺りまでの全身をお湯につける入浴法。
+j	全身的	ぜんしんてき	体全身に関係するさま
+j	全開	ぜんかいする	being all the way open
+j	全面的	ぜんめんてき	complete, all-out, genera…
+j	全音階	ぜんおんかい	diatonic scale
+j	前任者	ぜんにんしゃ	predecessor
+j	前半戦	ぜんはんせん	
+j	前古未曾有	ぜんこみぞう	昔から一度もないこと。
+j	前哨地	ぜんしょうち	
+j	前哨戦	ぜんせうせん	preliminary skirmish
+j	前後不覚	ぜんごふかく	前後も分からなくなるほど正体がないこと。
+j	前後左右	ぜんごさゆう	in all directions
+j	前後賞	ぜんごしょう	宝くじで、当選した番号の前後の番号に与えられる賞。
+j	前提	ぜんていする	prerequisite
+j	前日譚	ぜんじつたん	prequel
+j	前眼房	ぜんがんぼう	anterior chamber (space b…
+j	前立腺	ぜんりつせん	prostate
+j	前線帯	ぜんせんたい	2つの気団の境界の領域。一般に、100km以上の幅…
+j	前線面	ぜんせんめん	気団と気団がぶつかる面。
+j	前置記法	ぜんちきほう	prefix notation
+j	前腕骨	ぜんわんこつ	an antebrachial bone
+j	前臼歯	ぜんきゅうし	小臼歯。
+j	前葉体	ぜんようたい	シダ植物の配偶体。通常1センチメートル程度のハート…
+j	前衛的	ぜんえいてき	avant-garde
+j	前近代	ぜんきんだい	近代よりも前の時代。
+j	前述の	ぜんじゅつの	
+j	前途多難	ぜんとたなん	将来や目的の達成にたくさんの困難があること。
+j	前進	ぜんしんする	advance, advancement, pro…
+j	前進する	ぜんしんする	
+j	前進的	ぜんしんてき	前進していくさま
+j	前部座席	ぜんぶざせき	
+j	前鋸筋	ぜんきょきん	a serratus anterior muscle
+j	前頭筋	ぜんとうきん	a frontalis muscle
+j	前頭葉	ぜんとうえふ	a frontal lobe
+j	前頭葉	ぜんとうよう	a frontal lobe
+j	前頭骨	ぜんとうこつ	a frontal bone
+j	善は急げ	ぜんはいそげ	make hay while the sun sh…
+j	善処	ぜんしょする	to handle things properly
+j	善女人	ぜんにょにん	仏法に帰依し、守る女子。善女。
+j	善導	ぜんどうする	guiding benevolently
+j	善戦	ぜんせんする	good fight; fighting to t…
+j	善法堂	ぜんぽうどう	忉利天にある帝釈天の善見城の外にある堂宇。
+j	善現天	ぜんげんてん	色界十七天の一つ。善現。
+j	善見天	ぜんけんてん	色界十七天の一つ。善見。
+j	漸新世	ぜんしんせい	古第三紀の最後の世。3390万年前から2303万年…
+j	漸近線	ぜんきんせん	asymptote
+j	漸進	ぜんしんする	gradual progress
+j	漸進的	ぜんしんてき	手順を経て徐々に目的を実現していくさま。
+j	然諾	ぜんだくする	引き受けること。
+j	禅問答	ぜんもんだふ	Zen riddle dialogue
+j	禅問答	ぜんもんどう	Zen riddle dialogue
+j	絶不調	ぜっふちょう	in very bad condition
+j	絶不調	ぜつふちょう	in very bad condition
+j	絶交	ぜっこうする	breakup; breaking off one…
+j	絶命	ぜつめいする	to die
+j	絶妙	ぜつみょうな	exquisite, superb, marvel…
+j	絶対善	ぜったいぜん	absolute good
+j	絶対善	ぜつたいぜん	absolute good
+j	絶対性	ぜったいせい	
+j	絶対悪	ぜったいあく	absolute evil
+j	絶対悪	ぜつたいあく	absolute evil
+j	絶対格	ぜったいかく	absolutive case
+j	絶対的	ぜったいてき	absolute
+j	絶対誤差	ぜったいごさ	誤差の絶対値をとったもの。
+j	絶望	ぜつぼうする	despair; hopelessness
+j	絶望した	ぜつぼうした	
+j	絶望する	ぜつぼうする	
+j	絶望的	ぜつぼうてき	desperate
+j	絶滅	ぜつめつする	extinction; annihilation;…
+j	絶滅した	ぜつめつした	
+j	絶筆	ぜっぴつする	the last written work pro…
+j	絶縁	ぜつえんする	ending contact
+j	絶縁体	ぜつえんたい	insulator
+j	絶賛	ぜっさんする	high praise, rave review
+j	脆弱な	ぜいじゃくな	
+j	膳は急げ	ぜんはいそげ	
+j	膳立て	ぜんだてする	setting out a meal on a t…
+j	舌内音	ぜつないおん	in Sanskrit phonology, a …
+j	舌唇音	ぜっしんおん	linguolabial
+j	舌唇音	ぜつしんおん	linguolabial
+j	舌尖音	ぜっせんおん	an apical consonant
+j	舌背音	ぜっぱいおん	dorsal
+j	舌背音	ぜつぱいおん	dorsal
+j	舌骨筋	ぜっこつきん	a hyoid muscle
+j	贅沢	ぜいたくする	luxury; extravagance
+j	贅沢品	ぜいたくひん	生活していく上で必ずしも使用するものではない高価な…
+j	ぜっちょうおん	ぜっちょうおん	舌頂音: coronal consonant
+j	ぜんぜつぼいん	ぜんぜつぼいん	前舌母音: front vowel
+j	ぜんまい仕掛け	ぜんまいじかけ	
+j	ぜんまい仕掛け	ぜんまい仕掛け	
+j	ゼニアオイ属	ぜにあおいぞく	Malva
+j	ゼニアオイ属	ゼニアオイぞく	Malva
+j	ゼネレーション	ゼネレーション	「ジェネレーション」の表記ゆれ。
+j	ゼノジェンダー	ゼノジェンダー	
+j	ゼプトメートル	ゼプトメートル	国際単位系において10⁻²¹ mを表す単位。
+j	ゼリービーンズ	ゼリービーンズ	
+j	ゼロの状態から	ゼロの状態から	
+j	ゼロサムゲーム	ゼロサムゲーム	
+j	ゼロックスする	ゼロックスする	
+j	ゼロトレランス	ゼロトレランス	
+j	ゼロ成長	ぜろせいちょう	国内総生産の伸び率が零、つまり横ばいであること。
+j	全会一致	ぜんかいいっち	unanimous
+j	全体主義	ぜんたいしゅぎ	totalitarianism
+j	全体会議	ぜんたいかいぎ	
+j	全勝	ぜんしょうする	complete victory
+j	全単射の	ぜんたんしゃの	
+j	全寮制	ぜんりょうせい	学校に在籍する人全員が入寮する制度。
+j	全摘出	ぜんてきしゅつ	complete removal
+j	全数把握	ぜんすうはあく	感染症を診断した全ての医療機関に報告を求め、感染状…
+j	全焼	ぜんしょうする	complete destruction by f…
+j	全知全能	ぜんちぜんのう	omniscience and omnipoten…
+j	全羅北道	ぜんらほくだう	North Jeolla (a province …
+j	全羅北道	ぜんらほくどう	North Jeolla (a province …
+j	全羅南道	ぜんらなんだう	South Jeolla (a province …
+j	全羅南道	ぜんらなんどう	South Jeolla (a province …
+j	全身麻酔	ぜんしんますい	麻酔薬の吸入または注射により全身に麻酔をかけること。
+j	全速力	ぜんそくりょく	そのものが出せる最大の速さ。
+j	前代未聞	ぜんだいみもん	An unheard of, unpreceden…
+j	前例のない	ぜんれいのない	
+j	前哨戦	ぜんしょうせん	preliminary skirmish
+j	前奏曲	ぜんそうきょく	組曲などの前に演奏される小曲。
+j	前後関係	ぜんごかんけい	context (text in which a …
+j	前方互換	ぜんぽうごかん	古い製品を以て、新しい製品の為のものが利用できるこ…
+j	前時代的	ぜんじだいてき	一昔前の時代のことで古く、今の時代に合わないさま。
+j	前照灯	ぜんしょうとう	headlight, front vehicle …
+j	前照燈	ぜんしょうとう	
+j	前略	ぜんりゃくする	Forgive me for dispensing…
+j	前置胎盤	ぜんちたいばん	placenta praevia
+j	前置血管	ぜんちけっかん	vasa previa
+j	前舌母音	ぜんぜつぼいん	front vowel
+j	前輪駆動	ぜんりんくどう	
+j	前述	ぜんじゅつする	the aforementioned, afore…
+j	前途洋々	ぜんとやうやう	good prospects; clear sai…
+j	前途洋々	ぜんとようよう	good prospects; clear sai…
+j	前途洋洋	ぜんとようよう	将来が開け、希望に満ち溢れていること。
+j	前進色	ぜんしんしょく	手前の方に進んで見える色。主に暖色が該当する。
+j	前駆物質	ぜんくぶっしつ	
+j	善財童子	ぜんざいどうじ	Sudhana (main character o…
+j	絶叫	ぜっきょうする	screaming / shouting at t…
+j	絶命	ぜつみょうする	to die
+j	絶好調	ぜっこうちょう	going very well; going gr…
+j	絶対主義	ぜったいしゅぎ	absolutism
+j	絶対温度	ぜったいおんど	絶対零度を零度とし、摂氏と同じ間隔で目盛を振った温…
+j	絶対湿度	ぜったいしつど	absolute humidity
+j	絶対的な	ぜったいてきな	
+j	絶対零度	ぜったいれいど	absolute zero (coldest po…
+j	絶対零度	ぜつたいれいど	absolute zero (coldest po…
+j	絶望的な	ぜつぼうてきな	
+j	絶縁テープ	ぜつえんてーぷ	
+j	絶食	ぜっしょくする	fasting; abstinence from …
+j	脆弱性	ぜいじゃくせい	vulnerability
+j	脆弱性	ぜいじやくせい	vulnerability
+j	舌頂音	ぜっちょうおん	coronal
+j	舌頂音	ぜつちやうおん	coronal
+j	舌骨下筋	ぜっこつかきん	an infrahyoid muscle
+j	零集合	ぜろしゅうごう	測度が 0 の集合。
+j	ぜにがたあざらし	ぜにがたあざらし	アザラシ科のアザラシ。千島列島南部に生息する。
+j	ゼニガタアザラシ	ゼニガタアザラシ	「銭形海豹」の学術的表記。
+j	ゼロエミッション	ゼロエミッション	異業種間協同で資源の使用効率を高め、全体で廃棄物が…
+j	ゼロゼロ年代	ぜろぜろねんだい	「ゼロ年代」に同じ。
+j	ゼロメートル地帯	ゼロメートル地帯	標高0メートル未満の地域。
+j	全俺が泣いた	ぜんおれがないた	I cried my eyes out
+j	全国予報区	ぜんこくよほうく	日本全国が単一の予報区の範囲となるような予報区。
+j	全波全中	ぜんぱぜんちゅう	大地震などの緊急事態が発生した際にNHKの全てのチ…
+j	全身免疫	ぜんしんめんえき	general immunity
+j	全身全霊	ぜんしんぜんれい	completely devoted; body …
+j	全速前進	ぜんそくぜんしん	full speed ahead
+j	全集中	ぜんしゅうちゅう	一つの事柄にすべての意識を傾けること。
+j	前兆的な	ぜんちょうてきな	
+j	前口動物	ぜんこうどうぶつ	
+j	前後撞着	ぜんごどうちゃく	前後の辻褄が合わず矛盾すること。
+j	前斜角筋	ぜんしゃかくきん	an anterior scalene muscle
+j	前立腺炎	ぜんりつせんえん	prostatitis
+j	前立腺癌	ぜんりつせんがん	prostate cancer
+j	前置血管	ぜんちけつくわん	vasa previa
+j	前脛骨筋	ぜんけいこつきん	a tibialis anterior muscle
+j	前途遼遠	ぜんとりょうえん	これからの道程や目標の達成までが非常に長いこと。
+j	善男善女	ぜんなんぜんにょ	善男子と善女人。仏法に深く帰依した男女。
+j	是非曲直	ぜひきょくちょく	right and wrong; merits (…
+j	税収入	ぜいしゅうにゅう	tax revenue
+j	税理士法人	ぜいりしほうじん	税理士業務を組織的に行うことを目的として、税理士が…
+j	税金申告	ぜいきんしんこく	
+j	絶体絶命	ぜったいぜつめい	matter of life and death;…
+j	絶妙好辞	ぜつみょうこうじ	素晴らしい文章。優れた文章。名文。
+j	絶対複数	ぜったいふくすう	名詞が常に複数形で使用され、単数形が存在しないこと。
+j	絶対貧困	ぜったいひんこん	absolute poverty
+j	絶対音感	ぜったいおんかん	absolute pitch, perfect p…
+j	絶望の定理	ぜつぼうのていり	安定結婚問題における、「ある安定マッチングに入れな…
+j	舌咽神経	ぜついんしんけい	
+j	銭形海豹	ぜにがたあざらし	a harbor seal
+j	銭形海豹	ゼニガタアザラシ	a harbor seal
+j	ゼネラルストライキ	ゼネラルストライキ	全国、全産業（または一つの地域全体や産業全体）の労…
+j	ゼロメートル地帯	ぜろめーとるちたい	標高0メートル未満の地域。
+j	全体主義的	ぜんたいしゅぎてき	
+j	全体主義者	ぜんたいしゅぎしゃ	全体主義の立場をとりそれを主張する者。
+j	全摘出	ぜんてきしゅつする	complete removal
+j	全球凍結	ぜんきゅうとうけつ	先カンブリア時代に赤道に至るまで地球の表面すべてが…
+j	全般的にみて	ぜんぱんてきにみて	
+j	前提条件	ぜんていじょうけん	precondition; prerequisite
+j	前方互換性	ぜんぽうごかんせい	forward compatibility
+j	前方後円墳	ぜんぽうこえんふん	keyhole tomb; a tomb with…
+j	前期高齢者	ぜんきこうれいしゃ	65歳から74歳の高齢者。
+j	前衛芸術	ぜんえいげいじゅつ	avant-garde art
+j	前頭直筋	ぜんとうちょくきん	a rectus capitis anterior…
+j	絶叫クイーン	ぜっきょうくいーん	
+j	絶対主義者	ぜったいしゅぎしゃ	an absolutist, one who fa…
+j	絶対収束	ぜったいしゅうそく	無限級数∑ₙ₌₁ ᪲a_nに対し、∑ₙ₌₁ ᪲|a…
+j	絶対等級	ぜったいとうきゅう	天体の明るさの尺度で、10パーセクの距離から見た時…
+j	絶対領域	ぜったいりょういき	exposed skin of the thigh…
+j	絶望の起床	ぜつぼうのきしょう	"awakening of despair": w…
+j	舌骨上筋	ぜっこつじょうきん	an suprahyoid muscle
+j	ぜいせいちょうさかい	ぜいせいちょうさかい	税制調査会: Select Committee o…
+j	ゼネラルマネージャー	ゼネラルマネージャー	synonym of 総支配人 (sōshihai…
+j	ゼノンのパラドックス	ゼノンのパラドックス	Zeno's paradox
+j	全力投球	ぜんりょくとうきゅう	投手が全力を尽くして投球すること。
+j	前方後円墳	ぜんぱうこうゑんふん	keyhole tomb; a tomb with…
+j	前方後円墳	ぜんぽうこうえんふん	keyhole tomb; a tomb with…
+j	善意の第三者	ぜんいのだいさんしゃ	当事者間に存在する法律関係や特定の事情を知らない第…
+j	税制調査会	ぜいせいちょうさかい	Select Committee on the T…
+j	絶対君主制	ぜったいくんしゅせい	absolute monarchy
+j	ゼネラルコントラクター	ゼネラルコントラクター	土木から建築の工事を一括して行う大手建設業者。ゼネ…
+j	絶滅収容所	ぜつめつしゅうようじょ	
+j	前進的母音同化	ぜんしんてきぼいんどうか	前の音節の母音に影響されて、続く音節の母音が同じ、…
+j	絶対的な優位性	ぜったいできなゆうぃせい	
+j	絶対菜食主義	ぜったいさいしょくしゅぎ	veganism
+j	全国通訳案内士	ぜんこくつうやくあんないし	報酬を得て通訳案内を職業とする者。
+j	前期中等教育	ぜんきちゅうとうきょういく	中等教育の前半の段階。日本では中学校、中等教育学校…
+j	絶対菜食主義者	ぜったいさいしょくしゅぎしゃ	a vegan
+j	全断面トンネル掘進機	ぜんだんめんとんねるくっしんき	
+j	全国人民代表大会	ぜんこくじんみんだいひょうたいかい	National People's Congress

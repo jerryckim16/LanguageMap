@@ -1,0 +1,235 @@
+k	입	ip	mouth
+k	잎	ip	leaf, leafage, foliage
+e	ipod	ipod	1 meaning
+j	一報	ippo	quick notice
+j	一方	ippo	one side, one-way
+j	一歩	ippo	step; pace
+j	一法	ippo	一つの方法。
+j	一波	ippa	一回の波。
+j	一派	ippa	一つの流派。
+j	一臂	ippi	a (helping) hand
+j	一風	ippu	一吹きの風。
+k	이팔	ipal	sixteen
+k	이폐	ipye	남에게 폐를 끼침.
+k	이표	ipyo	
+k	입고	ipgo	물건이 들어옴.
+k	입구	ipgu	entrance
+k	입다	ipda	to wear, to put on (cloth…
+k	입도	ipdo	
+k	입사	ipsa	entry to a company
+k	입소	ipso	연구소나 시설에 들어감.
+k	입수	ipsu	
+k	입시	ipsi	an entrance examination, …
+k	입자	ipja	particle, grain
+k	입지	ipji	
+k	입하	ipha	
+k	입후	iphu	황후로 들어감. 또는 황후로 맞아들임.
+j	いっぱい	ippai	容器が満ちるほどの量。ぎりぎり。「一杯」を参照。
+j	いっぴょう	ippyo	一票: one vote
+j	いっぽん	ippon	一本: one version; one book…
+j	一品	ippin	one item
+j	一平	ippei	a male given name
+j	一拝	ippai	一度だけ拝礼すること。
+j	一敗	ippai	one defeat
+j	一斑	ippan	spot (glimpse, outline); …
+j	一本	ippon	Used other than figurativ…
+j	一杯	ippai	a lot, loads
+j	一片	ippen	piece, slice
+j	一盃	ippai	「一杯」に同じ。
+j	一票	ippyo	one vote
+j	一篇	ippen	一つの詩文や書物。
+j	一編	ippen	一つの詩文や書物。
+j	一般	ippan	general, common, ordinary
+j	一遍	ippen	once, one time
+j	一飯	ippan	a (single) meal
+j	逸品	ippin	rarity
+k	이빠이	ippai	a lot, to a great extent
+k	이빨	ippal	tooth
+k	이파리	ipari	나무나 풀에 달린 하나하나의 잎
+k	이풍	ipung	
+k	입각	ipgak	
+k	입국	ipguk	entry into a country
+k	입김	ipgim	warm air, breath
+k	입단	ipdan	joining / entering an org…
+k	입대	ipdae	enlistment, enrollment
+k	입술	ipsul	lips
+k	입스	ipseu	
+k	입체	ipche	'체당(替當)'을 일상적으로 이르는 말.
+k	입추	ipchu	
+k	입학	iphak	admission or entrance to …
+k	입회	iphoe	
+k	잎새	ipsae	
+e	iphone	iphone	1 meaning
+j	いっぷく	ippuku	一幅: one scroll, one pictu…
+j	イップス	ippusu	
+j	一匹	ippiki	one small animal
+j	一幅	ippuku	a scroll
+j	一拍	ippaku	one beat, the note length…
+j	一服	ippuku	a puff; a dose; a cup of …
+j	一泊	ippaku	an overnight stay, one ni…
+k	입공	ipgong	조공(朝貢)을 바침.
+k	입관	ipgwan	
+k	입금	ipgeum	deposit
+k	입덕	ipdeok	entering a fandom
+k	입덧	ipdeot	morning sickness
+k	입동	ipdong	
+k	입방	ipbang	
+k	입법	ipbeop	legislation; lawmaking
+k	입빠이	ipppai	
+k	입쌀	ipssal	plain rice
+k	입장	ipjang	standpoint; perspective
+k	입적	ipjeok	
+k	입찰	ipchal	bid, tender (in an auctio…
+k	입춘	ipchun	
+k	입헌	ipheon	헌법을 제정하는 것.
+k	입후보	iphubo	
+k	입히다	iphida	to dress, to clothe
+k	잎벌	ipbeol	
+k	잎파구	ippagu	'잎사귀'의 강원도 사투리.
+e	ipswich	ipswich	1 meaning
+j	イピロス	ipirosu	
+j	一本気	ippongi	state of being unadultera…
+j	一発	ippatsu	Used other than figurativ…
+j	一般に	ippanni	
+j	一般化	ippanka	広く行き渡ること。全般に通用させること。
+j	一般道	ippando	高速道路以外の歩行者、軽車両、自動車が通行する道路…
+j	一般項	ippanko	数列の第n項をnの式で表したもの。
+k	이뽑기	ippopgi	'발치'의 북한말.
+k	이쁘다	ippeuda	'예쁘다'.
+k	이프르	ipeureu	
+k	입격	ipgyeok	
+k	입겿	ipgyeot	synonym of 구결(口訣) (gugyeo…
+k	입다툼	ipdatum	'말다툼'의 비표준어.
+k	입방아	ipbanga	gossip
+k	입성	ipseong	entering tone (one of the…
+k	입조심	ipjosim	소문이 나거나 일이 잘못되지 않도록 입을 조심…
+k	입증	ipjeung	논거를 대서 보이다. 수학이나 논리학보다는 과…
+k	입체의	ipcheui	
+k	입체파	ipchepa	
+k	잎거미	ipgeomi	
+k	잎사귀	ipsagwi	
+j	イペリット	iperitto	yperite, mustard gas
+j	一方的	ippoteki	一方だけに偏るさま。
+j	一歩一歩	ippoippo	
+j	一般人	ippanjin	commoner; ordinary person
+j	一般名	ippanmei	
+j	一般論	ippanron	特定の事柄ではなく全体に通じるような論。
+k	이팝나무	ipamnamu	Chinese fringetree (Chion…
+k	입법부	ipbeopbu	
+k	입법자	ipbeopja	legislator, lawmaker
+k	입병	ipbyeong	입에 나는 질병. 흔히, 구내염과 구순염 등을…
+k	입사하다	ipsahada	to enter a company
+k	입실론	ipsillon	그리스어 알파벳의 스무째 글자, Υ / υ.
+k	입찰자	ipchalja	
+k	잎꼭지	ipkkokji	petiole
+k	잎담배	ipdambae	
+e	ip address	ipaddress	1 meaning
+j	イプシロン	ipushiron	ギリシア文字のアルファベットで5番目の文字、Ε、ε…
+j	一夫一妻	ippuissai	monogamy
+j	一夫多妻	ipputasai	polygyny (plurality of wi…
+j	一方通行	ippotsuko	a one-way street
+j	一本槍	ipponyari	一つのことだけに注力し、他のことには見向きもしない…
+j	一本締め	ipponjime	ceremonial hand clapping …
+j	一歩ずつ	ippozutsu	one step at a time (stead…
+j	一発屋	ippatsuya	one-hit wonder
+j	一發屋	ippatsuya	
+j	一般向け	ippanmuke	for all audiences (due to…
+j	一般席	ippanseki	general admission seat
+j	一般的	ippanteki	広く全体に及ぶ様子。多くの人に関わる様子。
+j	一般角	ippankaku	角を回転の向きと大きさを表す量として拡張したもの。…
+j	一般道路	ippandoro	高速道路以外の歩行者、軽車両、自動車が通行する道路…
+k	이쁘네요	ippeuneyo	(to be) cute
+k	이프리트	ipeuriteu	
+k	입대하다	ipdaehada	to enlist, join up, join …
+k	입방골	ipbanggol	
+k	입방체	ipbangche	cube
+k	입씨름	ipssireum	'말다툼'.
+k	입장료	ipjangnyo	entrance fee, admission f…
+k	입학금	iphakgeum	
+k	입학하다	iphakhada	to enter a school
+k	잎갈나무	ipgallamu	A larch, especially the O…
+k	잎파랑이	ipparangi	chlorophyll
+j	一品料理	ippinryori	à la carte dish
+j	一夫一婦の	ippuippuno	
+j	一方的な	ippotekina	
+j	一本道	ipponmichi	straight road; direct path
+j	一杯一杯	ippaiippai	本当にぎりぎりな限度。ぎりぎり限度（特に、それ以上…
+j	一歩千金	ippusenkin	歩兵1枚であっても時には金将1000枚にも匹敵する…
+j	一発芸	ippatsugei	party trick
+j	一般式	ippanshiki	化学物質の元素組成を示した化学式。
+j	一般教養	ippankyoyo	特定の分野に片寄らない幅広い教養。
+j	一般米語	ippanbeigo	
+j	一般職	ippanshoku	企業などで一般的な業務を行う職。
+k	입당송	ipdangsong	
+k	입덕하다	ipdeokhada	to enter a fandom
+k	입덧하다	ipdeothada	
+k	입방근	ipbanggeun	
+k	입법예고	ipbeobyego	정부가 법령을 제정하거나 개정하기 전에 입법의…
+k	입스위치	ipseuwichi	
+k	입장권	ipjanggwon	admission ticket
+k	입찰하다	ipchalhada	
+k	입풍금	ippunggeum	harmonica
+j	一匹狼	ippikiokami	lone wolf
+j	一夫一婦制	ippuippusei	monogamy
+j	一本調子	ipponchoshi	話し方や曲調などが単調で変化がないさま。
+j	一杯にする	ippainisuru	
+j	一杯になる	ippaininaru	
+j	一杯食わす	ippaikuwasu	deceive, play a trick on …
+j	一発撮り	ippatsudori	recording video or audio …
+j	一般ピープル	ippanpipuru	「一般人」のやや軽口風な言い方。
+j	一般会計	ippankaikei	国や地方公共団体の会計のうち一般的な事業を行うため…
+j	一般名詞	ippanmeishi	
+j	一般教書	ippankyosho	
+k	입방미터	ipbangmiteo	
+k	입자가속기	ipjagasokgi	particle accelerator
+k	입조심하다	ipjosimhada	소문이 나거나 일이 잘못되지 않도록 입을 조심…
+k	입증하다	ipjeunghada	to give proof, to testify…
+k	입천장	ipcheonjang	palate of the mouth
+k	입체형	ipchehyeong	'입체도형'.
+k	입학시험	iphaksiheom	
+k	잎궐련	ipgwollyeon	
+j	一夫一妻制	ippuissaisei	婚姻における制度、特に法制度のひとつ。ある人に対し…
+j	一夫多妻制	ipputasaisei	polygyny
+j	一発勝負	ippatsushobu	一回だけで勝敗を決すること。
+k	이팔분쟁	ipalbunjaeng	
+k	입법기관	ipbeopgigwan	정부의 법을 제정하는 곳.
+k	입술연지	ipsullyeonji	lipstick
+k	입자물리학	ipjamullihak	particle physics
+k	잎새버섯	ipsaebeoseot	maitake, hen of the woods
+j	イプシロン株	ipushironkabu	
+j	一本取られた	ippontorareta	
+j	一票の格差	ippyonokakusa	選挙区ごとに有権者の数が異なるために当選に必要な票…
+j	一般疑問文	ippangimonbun	
+j	一般相対論	ippansotairon	「一般相対性理論」の略。
+k	입법부작위	ipbeopbujagwi	헌법상 입법의무가 있는 자가 입법을 하지 않는…
+k	입씨름하다	ipssireumhada	'말다툼하다'.
+k	입체도형	ipchedohyeong	삼차원 공간에서 부피를 가지는 도형.
+k	입향순속	iphyangsunsok	a traveler ought to follo…
+k	입헌 군주제	ipheongunjuje	(정치) 군주가 헌법에서 정한 제한된 권력을 …
+k	입헌군주제	ipheongunjuje	constitutional monarchy
+j	一般自動車道	ippanjidoshado	専用自動車道以外の自動車道（道路運送法第二条第八項…
+k	이쁘디이쁘다	ippeudiippeuda	'예쁘디예쁘다'.
+k	이팔청춘	ipalcheongchun	sweet sixteen; prime of l…
+k	입자 동물원	ipjadongmurwon	
+k	입증 책임	ipjeungchaegim	
+k	입헌 군주국	ipheongunjuguk	(정치) 입헌 군주제를 행하는 나라.
+k	잎겨드랑이	ipgyeodeurangi	axil
+k	잎지는키나무	ipjineunkinamu	'낙엽교목'의 북한말.
+j	一百八盤	ippyakuhachiban	百八回も曲がりくねった坂道。幾重にも折れ曲がった坂…
+j	一般の人々	ippannohitobito	
+j	一般用医薬品	ippanyoiyakuhin	医師の処方箋なしで購入可能な医薬品。
+j	一辺二角相等	ippennikakusoto	二角一辺相等。
+k	입 가벼운 사람	ipgabyeounsaram	
+k	입천장소리	ipcheonjangsori	
+j	一杯おごりますよ	ippaiogorimasuyo	
+j	一泊二食制	ippakunishokusei	
+k	입방아를 찧다	ipbangareuljjita	
+k	입천장뼈	ipcheonjangppyeo	
+k	입술없음증	ipsureopseumjeung	
+j	一敗地に塗れる	ippaichinimamireru	再起が不能なほどに打ち負かされること。
+j	一般教書演説	ippankyoshoenzetsu	
+j	一般相対性理論	ippansotaiseiriron	general relativity
+j	一辺両端角相等	ippenryotankakusoto	二角夾辺相等。
+k	이플루오린화 산소	ipeulluorinhwasanso	
+j	一杯おごらせてください	ippaiogorasetekudasai	
+j	一般型二元連立漸化式	ippangatanigenrenritsuzenkashiki	a_n+1=pa_n+qb_n\b_n+1=ra_…

@@ -1,0 +1,503 @@
+e	url	url	1 meaning
+e	urn	urn	1 meaning
+j	うら	ura	表面と反対の面。下または陰になって見えない部分。
+j	うり	uri	ウリ科の植物の総称。
+j	うる	uru	物や権利、情報などを代金と引き換えに提供する。
+j	うるう	uru	暦法等時刻算出法と天文上の位置の差異を調整するため…
+j	うろ	uro	somewhat insufficiently u…
+j	ウラー	ura	hooray! (in the context o…
+j	ウリ	uri	うり（瓜）の学術的表記。
+j	ウル	uru	
+j	ウール	uru	wool
+j	占	ura	fortune-telling
+j	売り	uri	selling
+j	売る	uru	to sell (something) (to a…
+j	浦	ura	bay; inlet
+j	烏鷺	uro	crows and herons
+j	瓜	uri	gourd, squash, melon
+j	裏	ura	backside, back, behind, o…
+j	迂路	uro	遠回りとなる道。回り道。
+j	閏	uru	bissextile. intercalary, …
+j	雨裏	uri	雨中。
+k	우레	ure	thunder
+k	우로	uro	rain and dew
+k	우리	uri	cage, pen, coop, enclosur…
+e	urad	urad	1 meaning
+e	urdu	urdu	1 meaning
+e	urea	urea	1 meaning
+e	urge	urge	5 meanings
+e	urna	urna	1 meaning
+e	uruk	uruk	1 meaning
+j	うりゅう	uryu	瓜が生えている場所。瓜畑。
+j	うるおう	uruo	水分を帯びて湿る。またみずみずしくなる。
+j	うれい	urei	fear, misgiving
+j	うれえ	uree	うれい。
+j	ウラン	uran	uranium
+j	ウーラン	uran	uhlan (soldier with lance)
+j	胡乱	uron	suspicious looking
+j	雨林	urin	a rainforest
+j	雨竜	uryu	Uryū (a district of Sorac…
+j	雨量	uryo	rainfall (meteorology: am…
+k	우란	uran	uranium
+k	우래	urae	door
+k	우뢰	uroe	
+k	우룩	uruk	
+k	우린	urin	topic-marked form of 우리 (…
+k	우릴	uril	'우리를'의 구어 표현.
+k	우림	urim	rainforest
+k	울안	uran	yard, enclosure
+e	urate	urate	1 meaning
+e	urban	urban	1 meaning
+e	uriah	uriah	1 meaning
+e	uriel	uriel	1 meaning
+e	urine	urine	1 meaning
+e	urumi	urumi	1 meaning
+j	うらうえ	uraue	裏面と表面。
+j	うらて	urate	back / behind of a buildi…
+j	うらの	urano	浦野: a Japanese surname
+j	うらみ	urami	恨むこと。また、その心。怨恨。
+j	うらむ	uramu	【恨む・怨む】ひどい仕打ちをした相手に対し憎く思う…
+j	うらめ	urame	the other side of a die, …
+j	うらら	urara	うららか。
+j	うらる	uraru	URL, Uniform Resource Loc…
+j	うりいえ	uriie	売りに出されている家屋。うりや。
+j	うりき	uriki	売ろうとする気持ち。
+j	うりこ	uriko	a sales clerk, shop assis…
+j	うりて	urite	売買で売る方の側。
+j	うりね	urine	売り値: selling price
+j	うりば	uriba	売り場: place where things a…
+j	うりぼう	uribo	
+j	うりや	uriya	売りに出されている家屋。うりいえ。
+j	うるうび	urubi	閏年に増やす日付。現在多くの国で使われているグレゴ…
+j	うるおい	uruoi	適度な水気。
+j	うるか	uruka	鮎の内蔵。
+j	うるせぇ	uruse	
+j	うるま	uruma	沖縄県の雅称。
+j	うるむ	urumu	to be wet or moist, espec…
+j	うるめ	urume	「うるめいわし」の略。
+j	うれる	ureru	果実が育ちきる。果実が育って、食べられるようになる…
+j	うろこ	uroko	鱗: scale (of a fish, rept…
+j	ウラマー	urama	ulama
+j	ウラル	uraru	Ural
+j	ウリヤ	uriya	
+j	ウルク	uruku	
+j	ウルズ	uruzu	《神話》 北欧神話に登場する運命の女神達ノルニル（…
+j	ウルフ	urufu	wolf
+j	ウルミ	urumi	urumi
+j	ウルミー	urumi	
+j	ウルル	ururu	Uluru (giant rock in Aust…
+j	ウルーミ	urumi	
+j	売り値	urine	selling price, sale price…
+j	売り場	uriba	place where things are so…
+j	売り手	urite	seller
+j	売れる	ureru	to sell, to sell well, to…
+j	恨み	urami	resentment
+j	恨む	uramu	to hold a grudge, to rese…
+j	有楽	uraku	a surname
+j	浦和	urawa	Urawa (a ward of Saitama …
+j	浦田	urata	a surname
+j	浦賀	uraga	Uraga (a region of Yokosu…
+j	浦野	urano	a surname
+j	潤い	uruoi	moisture, damp, wetness
+j	潤う	uruou	to get wet, to be moisten…
+j	熟れる	ureru	to ripen, mature
+j	瓜坊	uribo	a young wild boar
+j	裏の	urano	
+j	裏地	uraji	衣服の裏につける布地。
+j	裏戸	urado	back door
+j	閏日	urubi	leap day
+j	鱗	uroko	scale (of a fish, reptile…
+k	우려	uryeo	concern; worry
+k	우롱	urong	
+k	우뢔	urwae	
+k	우루루	ururu	
+k	우리다	urida	to soak out, infuse, exto…
+k	우리엘	uriel	
+k	우리의	uriui	
+k	울음	ureum	crying, weeping
+e	uracil	uracil	1 meaning
+e	urania	urania	1 meaning
+e	uranus	uranus	2 meanings
+e	urartu	urartu	1 meaning
+e	urchin	urchin	1 meaning
+e	uremia	uremia	1 meaning
+e	ureter	ureter	1 meaning
+e	urgent	urgent	1 meaning
+e	urinal	urinal	1 meaning
+e	ursine	ursine	1 meaning
+e	ursula	ursula	1 meaning
+e	urtext	urtext	1 meaning
+j	うらうら	uraura	clearly and gently (of th…
+j	うらごえ	uragoe	裏声: falsetto
+j	うらない	uranai	様々な方法で、運勢や未来などの見えないところの事を…
+j	うらなう	uranau	将来の運勢や物事の吉凶を現れた形象などを基に判断す…
+j	うりあげ	uriage	商品を売ったときに得られる代金。
+j	うりかい	urikai	buying and selling; comme…
+j	うるうびょう	urubyo	leap second
+j	うるおす	uruosu	水分を与える。
+j	うるさい	urusai	so thoroughly knowledgeab…
+j	うるし	urushi	ウルシ科ウルシ属に属する落葉高木。花は夏の季語で実…
+j	うるせえ	urusee	
+j	うるち	uruchi	non-glutinous rice
+j	うるっと	urutto	涙がこぼれそうになるさま。
+j	うれえる	ureeru	良くない状態になるのではないかと心配する。
+j	うれし	ureshi	
+j	うれっこ	urekko	人気のある娼妓や芸者。
+j	うれぴい	urepii	
+j	うろうろ	urouro	aimlessly, loiteringly
+j	うろおぼえ	uroboe	確かでなく、ぼんやりと覚えていること。また、その記…
+j	ウラジオ	urajio	
+j	ウラニア	urania	
+j	ウリエル	urieru	Uriel
+j	ウルシ	urushi	うるしの学術的表記。
+j	ウルレア	ururea	
+j	ウレタン	uretan	カルバミン酸のエステル。
+j	ウーラニアー	urania	Urania
+j	占い	uranai	fortune-telling
+j	占う	uranau	tell someone's fortune, d…
+j	売れっ子	urekko	popular person
+j	売れ線	uresen	that which sells
+j	売上げ	uriage	sales
+j	得撫	uruppu	Urup (an island of Russia)
+j	憂える	ureeru	be anxious, mourn
+j	浦塩	urajio	
+j	浦臼	urausu	Urausu (a town in Kabato …
+j	漆	urushi	lacquer
+j	潤す	uruosu	to wet, to moisten
+j	煩い	urusai	
+j	盂蘭盆	urabon	a Buddhist observance hon…
+j	羽林家	urinke	日本で武門を司る公家の家格。
+j	芋栗	uritsu	どんぐり。
+j	蔚山	urusan	Ulsan (a city in South Ko…
+j	裏垢	uraaka	secret personal account (…
+j	裏声	uragoe	falsetto
+j	裏本	urabon	hardcore pornography; 'un…
+j	裏紋	uramon	正式な紋所の代わりに使う紋。替紋。
+j	裏芸	uragei	普段は表に出さないが宴会などの際に披露する芸。隠し…
+j	裏門	uramon	back gate; back door
+j	雨裂	uretsu	地表を雨水が流れることで起こる侵食により、柔らかい…
+k	우라니아	urania	
+k	우량	uryang	물건의 품질이나 상태가 좋음.
+k	우렁	ureong	'우렁이'의 비표준어.
+k	우루크	urukeu	
+k	우릉	ureung	
+k	우리말	urimal	the Korean language
+k	우리집	urijip	Hanok
+e	urachus	urachus	1 meaning
+e	ural owl	uralowl	1 meaning
+e	uranian	uranian	1 meaning
+e	uranium	uranium	1 meaning
+e	urethra	urethra	1 meaning
+e	urinate	urinate	1 meaning
+e	urolith	urolith	1 meaning
+e	urology	urology	1 meaning
+e	uruguay	uruguay	1 meaning
+e	urvashi	urvashi	1 meaning
+j	うらうち	urauchi	補強や修復の目的で、書画の裏面や器の内側などに和紙…
+j	うらかぜ	urakaze	浦に吹く風。浜風。
+j	うらかた	urakata	someone from inside, some…
+j	うらがき	uragaki	endorsement
+j	うらがわ	uragawa	裏に面する部分。
+j	うらぎり	uragiri	裏切ること。
+j	うらぎる	uragiru	味方にそむき敵につく。
+j	うらだな	uradana	裏通りや商家の背後につくられた（粗末な）家や長屋。
+j	うらづけ	urazuke	よりどころとなるもの。証拠。保証。
+j	うらとり	uratori	fact checking
+j	うらどおり	uradori	表通りに対し裏手を通る道。
+j	うらどり	uradori	
+j	うらなみ	uranami	浦に打ち寄せてくる波。
+j	うらにわ	uraniwa	建物の裏側にある庭。
+j	うらはく	urahaku	裏拍: (music) syncopated be…
+j	うらはら	urahara	opposing; opposite
+j	うらばり	urabari	物の裏に紙や布を張って補強すること。またそのように…
+j	うらまき	uramaki	裏巻: the portion of the ba…
+j	うらやま	urayama	家の背後にある山。
+j	うらやむ	urayamu	他人の望ましい状態を見て自分もそうなりたいと思う。
+j	うららか	uraraka	空がよく晴れてのどかに照っているさま。
+j	うらわざ	urawaza	（【裏業】とも） 格技において、相手が技を仕掛けて…
+j	うらルート	uraruto	back channel
+j	うらロム	uraromu	tampered ROM
+j	うりきれ	urikire	「うりきれる」の連用形。
+j	うりこむ	urikomu	うまく物品を売り付ける。
+j	うりだす	uridasu	売り始める。
+j	うりもの	urimono	something that is sold
+j	うりよね	uriyone	貯蔵してある米を時機をみて売り出すこと。また、その…
+j	うるうづき	uruzuki	陰暦においては、閏となる月。太陽暦（グレゴリオ暦等…
+j	うる覚え	uruoboe	
+j	うれしい	ureshii	望むことと合致したり、望む以上に好ましい事象に遭遇…
+j	うれゆき	ureyuki	売れて行くこと。売れる具合。
+j	うろくず	urokuzu	鱗: scale of a fish; fish
+j	うろ覚え	urooboe	unclear memory; vague rec…
+j	うーろんちゃ	uroncha	ウーロン茶, 烏龍茶: oolong tea
+j	ウラヌス	uranusu	Uranus
+j	ウラノス	uranosu	
+j	ウラルトゥ	urarutu	
+j	ウラン・ウデ	uranude	Ulan-Ude (the capital cit…
+j	ウリナラ	urinara	South Korea (used to expr…
+j	ウルガタ	urugata	Vulgate (Latin edition of…
+j	ウルグアイ	uruguai	Uruguay (a country in Sou…
+j	ウルスラ	urusura	
+j	ウルトラ	urutora	ultra
+j	ウルドゥー語	urudugo	Urdu
+j	ウロンゴン	urongon	
+j	ウーラノス	uranosu	Uranus
+j	ウーロン茶	uroncha	茶葉を発酵途中で加熱して発酵を止め、半発酵させた茶…
+j	売り出す	uridasu	put on sale, put on the m…
+j	売り切れ	urikire	sold out
+j	売り込む	urikomu	to sell
+j	売れ行き	ureyuki	sales, demand
+j	嬉しい	ureshii	happy, glad
+j	浦沢	urasawa	a surname
+j	烏龍茶	uroncha	oolong tea
+j	瓜皮	urikawa	dwarf arrowhead, Sagittar…
+j	盂蘭盆会	urabone	盂蘭盆のこと。
+j	盂蘭盆會	urabone	
+j	糶	uriyone	売りに出す米。また、米を売り出すこと。
+j	羨み	urayami	envy
+j	羨む	urayamu	to envy, to be jealous of
+j	裏付け	urazuke	guarantee, endorsement
+j	裏側	uragawa	the other side; reverse s…
+j	裏切り	uragiri	treachery, betrayal
+j	裏切る	uragiru	to betray, to sell someon…
+j	裏向	uramuki	
+j	裏向き	uramuki	actual and hidden
+j	裏山	urayama	mountain or hill that is …
+j	裏巻	uramaki	the portion of the back o…
+j	裏庭	uraniwa	backyard (yard to the rea…
+j	裏打ち	urauchi	backing, lining
+j	裏技	urawaza	An underhanded trick.
+j	裏拍	urahaku	syncopated beat, an accen…
+j	裏白	urajiro	something white on the ba…
+j	裏箔	urahaku	the application of silk a…
+j	裏通り	uradori	side street, alley (narro…
+j	裏金	uragane	a thin piece of metal att…
+j	閏月	uruzuki	leap month
+j	雨量計	uryokei	pluviometer; rain gauge
+j	麗か	uraraka	beautiful; fine
+k	우라늄	uranyum	uranium
+k	우라니움	uranium	'우라늄'의 북한말.
+k	우렁이	ureongi	river snail (freshwater s…
+k	우루과이	urugwai	Uruguay (a country in Sou…
+k	우룸치	urumchi	신장 위구르 자치구 우루무치의 연변말
+k	우르르	ureureu	사람이나 동물 따위가 한꺼번에 움직이거나 한곳…
+k	우리 나라	urinara	North Korea and Yanbian s…
+k	우리글	urigeul	한국 사람들 사이에서 ‘한글’를 스스럼 없이 …
+k	우리나라	urinara	Korea; my country; our co…
+k	우리들	urideul	we, us
+k	울음보	ureumbo	burst of tears; the act o…
+e	urbanite	urbanite	1 meaning
+e	urgently	urgently	1 meaning
+e	uric acid	uricacid	1 meaning
+e	urushiol	urushiol	1 meaning
+j	うらおもて	uraomote	裏面と表面。
+j	うらがえす	uragaesu	表と裏を入れ替える。
+j	うらぐち	uraguchi	建物の正面ではなく裏側にある出入り口。
+j	うらごし	uragoshi	fine strainer
+j	うらまち	uramachi	表通りを入った裏の通りにあるまち。
+j	うらわかい	urawakai	年が若い。幼い。初々しい。取分け女性に対して言う。
+j	うらをかく	uraokaku	to outwit; to defeat with…
+j	うらメニュー	uramenyu	secret menu item
+j	うら若い	urawakai	young and inexperienced i…
+j	うりあげる	uriageru	商品を売り尽くす。
+j	うりぬし	urinushi	ある品物を売る人。
+j	うりはらう	uriharau	すべて売り切る。売ってしまって手放す。売却する。
+j	うるうどし	urudoshi	a leap year, a year with …
+j	うれしさ	ureshisa	嬉しいこと。その度合い。
+j	うろたえる	urotaeru	to be baffled; to be bewi…
+j	うろちょろ	urochoro	目障りな程あちこち動き回るさま。
+j	うろつく	urotsuku	to loiter; to putter; to …
+j	ウラシル	urashiru	uracil
+j	ウラニウム	uraniumu	ウランの英語読み。
+j	ウラル人	urarujin	ヨーロッパ北東部からシベリアにかけて暮らし、ウラル…
+j	ウリチ語	urichigo	
+j	ウルチャ語	uruchago	
+j	ウルフムーン	urufumun	ネイティブアメリカンの暦で1月の満月のこと。
+j	ウルヴァシー	uruvashi	
+j	売り出し	uridashi	bargain sale
+j	売り払う	uriharau	to sell completely with d…
+j	嬉しく	ureshiku	
+j	浦和市	urawashi	埼玉県の県庁所在地であった市。2002年に大宮市、…
+j	烏魯木斉	urumuchi	Ürümqi (a prefecture-leve…
+j	瓜実蠅	urimibae	melon fly (Bactrocera cuc…
+j	裏世界	urasekai	コンピュータゲームで、バグによって行くことのできる…
+j	裏口	uraguchi	back door
+j	裏日本	uranihon	part of Japan adjacent to…
+j	裏表	uraomote	back and front; both sides
+j	裏返す	uragaesu	to reverse something, to …
+j	裏返る	uragaeru	to be turned over, to be …
+j	裏関数	urakansu	像関数。
+j	鬱陵島	ururundo	
+k	우라누스	uranuseu	Uranus
+k	우라르투	urareutu	
+k	우련히	uryeonhi	
+k	우롱차	urongcha	oolong tea
+k	우루무치	urumuchi	
+k	우룩우룩	uruguruk	
+k	우르두어	ureudueo	Urdu
+k	우르륵	ureureuk	
+k	우르를	ureureul	
+k	우리 은하	urieunha	
+e	urination	urination	1 meaning
+e	urologist	urologist	1 meaning
+e	ursa major	ursamajor	1 meaning
+e	ursa minor	ursaminor	1 meaning
+e	urticaria	urticaria	1 meaning
+j	うらうつり	urautsuri	裏移り, 裏写り, 裏うつり: (printing…
+j	うらがえし	uragaeshi	「うらがえす」の連用形。
+j	うらづける	urazukeru	物の裏側に布や紙を張って補強する。裏打ちする。
+j	うらぶれる	urabureru	心が萎れ、力を落とす。
+j	うらみごと	uramigoto	恨む気持ちを述べる言葉。
+j	うらめしい	urameshii	憎らしい。
+j	うりきれる	urikireru	商品が全て売れること。
+j	うりことば	urikotoba	ものを売りつけるときに使う言葉。転じて、喧嘩を仕掛…
+j	うりさげる	urisageru	政府などが民間に物品を売り渡す。払い下げる。
+j	うりたたく	uritataku	換金のために損をして売る。
+j	うりとばす	uritobasu	惜しげもなく売却する。
+j	うりわたす	uriwatasu	自分のものを売って相手に渡す。
+j	うるわしい	uruwashii	心的に豊かで人に感銘を与えるさま。
+j	うれのこり	urenokori	売れ残ること。また、その品物。
+j	うれのこる	urenokoru	売れずに後へ残る。
+j	ウラジーミル	urajimiru	a transliteration of the …
+j	ウリジナル	urijinaru	韓国起源説。
+j	ウルカヌス	urukanusu	
+j	ウルシオール	urushioru	
+j	ウロボロス	uroborosu	
+j	占い師	uranaishi	fortune-teller
+j	売り切れる	urikireru	to sell out; to be sold o…
+j	売り捌く	urisabaku	sell on a wide scale
+j	売り渡す	uriwatasu	sell over to
+j	売り飛ばす	uritobasu	to sell off
+j	売れ残り	urenokori	unsold items/goods
+j	怨めしい	urameshii	begrudging, reproachful, …
+j	粳米	uruchimai	炊いときに粘りの少ない米。うるち。
+j	裏付ける	urazukeru	to prove
+j	裏向きの	uramukino	
+j	裏工作	urakosaku	underhanded dealings
+j	裏社会	urashakai	underbelly of society
+j	裏表紙	urabyoshi	back page; back cover
+j	裏返し	uragaeshi	inside out
+j	鱗雲	urokogumo	synonym of 巻積雲 (kensekiun…
+j	麗しい	uruwashii	beautiful
+k	우락부락	urakburak	
+k	우량계	uryanggye	pluviometer; rain gauge
+k	우러르다	ureoreuda	to raise one's head, to l…
+k	우레 같은	uregateun	
+k	우려하다	uryeohada	
+k	우롱하다	uronghada	사람을 어리석게 보고 함부로 대하거나 웃음거리…
+k	우루루하다	ururuhada	
+k	우르릉	ureureung	
+k	울음소리	ureumsori	crying, sobbing (of human…
+e	urinalysis	urinalysis	1 meaning
+j	うらみぶし	uramibushi	song expressing resentment
+j	うりあげだか	uriagedaka	商品の販売やサービスにより得た金額。
+j	うりつける	uritsukeru	無理に売ろうとする。押し付けるように売る。
+j	うりふたつ	urifutatsu	二つの瓜。
+j	うるしぬり	urushinuri	器物の表面に漆を塗ること。また、そのような器物。
+j	うれしなき	ureshinaki	嬉し泣き: crying for happiness
+j	ウランガラス	urangarasu	uranium glass
+j	ウランゲリ島	urangeruto	
+j	ウランバートル	uranbatoru	Ulaanbaatar (the capital …
+j	ウルシノキ	urushinoki	
+j	ウルフカット	urufukatto	wolf cut (heavily layered…
+j	売上高	uriagedaka	amount sold, sales
+j	売掛金	urikakekin	accounts receivable (tota…
+j	嬉しがる	ureshigaru	
+j	嬉し泣き	ureshinaki	crying for happiness
+j	漆の木	urushinoki	
+j	漆原	urushihara	a surname
+j	瓜二つ	urifutatsu	as alike as two peas in a…
+j	瓜実顔	urizanegao	oval face (e.g. of a beau…
+j	裏番組	urabangumi	ある番組と同時に別の放送局で放送されている番組。
+j	裏話	urabanashi	account of a matter only …
+j	雨露霜雪	urososetsu	種々の気象変化。
+k	우럭우럭	ureogureok	
+k	우렁하다	ureonghada	
+k	우련하다	uryeonhada	형태가 약간 나타나 보일 정도로 희미하다.
+k	우로보로스	uroboroseu	
+k	우루루우루루	ururuururu	
+k	우룽우룽	urungurung	
+k	우릉하다	ureunghada	
+e	urban legend	urbanlegend	1 meaning
+j	うらがなしい	uraganashii	何と無く悲しい。
+j	うらぎりもの	uragirimono	裏切る者。敵に内通し、見方を陥れる者。
+j	うらさびしい	urasabishii	何となく寂しい。
+j	うらめにでる	uramenideru	"to appear on the other s…
+j	うらやましい	urayamashii	他人の様子を見て、自分もそのようになりたいと思う気…
+j	うりのなかご	urinonakago	瓜の中心の種子を含む柔らかい部分。
+j	うるめいわし	urumeiwashi	ニシン科の海水魚。干物として食用される。うるめ。
+j	ウラジロモミ	urajiromomi	
+j	ウラル梟	urarufukuro	
+j	ウルフハウンド	urufuhaundo	
+j	ウルメイワシ	urumeiwashi	round herring
+j	売りつくし	uritsukushi	
+j	浦百姓	urabyakusho	江戸時代、本百姓に対し漁村の住民。漁師のほか農民、…
+j	羨ましい	urayamashii	enviable
+j	裏切り者	uragirimono	A traitor, betrayer, turn…
+j	裏返しで	uragaeshide	
+j	鱗を落とす	urokoootosu	
+k	우랄산맥	uralsanmaek	
+k	우러러보다	ureoreoboda	to look up to; to turn on…
+k	우럭볼락	ureokbollak	Sebastes hubbsi, a specie…
+k	우렁각시	ureonggaksi	someone who helps others …
+k	우룽주룽	urungjurung	
+k	우르르하다	ureureuhada	
+k	우릉대다	ureungdaeda	
+e	urban warfare	urbanwarfare	1 meaning
+e	urbanization	urbanization	1 meaning
+e	urinary tract	urinarytract	1 meaning
+e	uroflowmetry	uroflowmetry	1 meaning
+j	うら悲しく	uraganashiku	
+j	うれしく思う	ureshikuomou	
+j	うれしなみだ	ureshinamida	嬉し涙: tears of joy
+j	ウラシマ効果	urashimakoka	
+j	ウラジオストク	urajiosutoku	Vladivostok (a city in Ru…
+j	ウルトラマリン	urutoramarin	ultramarine (pigment)
+j	嬉し涙	ureshinamida	tears of joy
+j	恨みを晴らす	uramioharasu	to take vengeance, to rev…
+j	浦塩斯徳	urajiosutoku	
+j	浦島効果	urashimakoka	time dilation
+j	浦潮斯徳	urajiosutoku	
+j	鱗を除く	urokoonozoku	
+k	우렁쉥이	ureongswengi	
+k	우렁우렁	ureongureong	
+k	우루룩우루룩	ururugururuk	
+k	우룩우룩하다	urugurukhada	
+k	우르륵하다	ureureukhada	
+k	우릉우릉	ureungureung	
+k	우리나라 사람	urinarasaram	
+e	ural mountains	uralmountains	1 meaning
+e	urban planning	urbanplanning	1 meaning
+j	ウラジカフカス	urajikafukasu	
+j	ウラジミロフカ	urajimirofuka	ユジノサハリンスク（豊原）の旧称。ロシア帝国時代に…
+j	ウラル山脈	urarusanmyaku	
+j	ウリヤノフスク	uriyanofusuku	
+j	売上総利益	uriagesorieki	売上高から売上原価を差し引いた利益。粗利。
+j	裏書きをする	uragakiwosuru	
+k	우락부락하다	urakburakhada	
+k	우르릉하다	ureureunghada	
+k	우릉거리다	ureunggeorida	
+e	urim and thummim	urimandthummim	1 meaning
+e	urinary bladder	urinarybladder	1 meaning
+j	ウリムとトンミム	urimutotonmimu	
+j	ウルトラマラソン	urutoramarason	フルマラソンより長い距離を走るマラソン。
+j	ウルヴァーハンプトン	uruvuahanputon	
+k	우랄알타이어족	uraraltaieojok	(언어학) 우랄어족과 알타이어족을 한데 묶어 …
+k	우럭우럭하다	ureogureokhada	
+k	우루루우루루하다	ururuururuhada	
+k	우룽우룽하다	urungurunghada	
+k	우르르우르르	ureureuureureu	
+k	우르릉대다	ureureungdaeda	'우르릉거리다'.
+j	ウリムとトムミム	urimutotomumimu	
+j	ウルグアイスペイン語	uruguaisupeingo	ウルグアイで話されているスペイン語の変種。
+j	裏表逆に	uraomotegyakuni	
+k	우룽주룽하다	urungjurunghada	
+j	ウルトラマリンブルー	urutoramarinburu	濃い紫がかった青。
+k	우렁우렁하다	ureongureonghada	
+k	우루룩우루룩하다	ururugururukhada	
+k	우르릉거리다	ureureunggeorida	천둥 따위가 무겁고 둔하게 울리는 소리가 잇따…
+k	우릉우릉하다	ureungureunghada	
+k	우르릉우르릉	ureureungureureung	
+j	ウルグアイ東方共和国	uruguaitohokyowakoku	
+j	ウルトラナショナリズム	urutoranashonarizumu	
+k	우르릉우르릉하다	ureureungureureunghada	
+j	瓜に爪あり爪に爪なし	urinitsumearitsumenitsumenashi	There is a claw in 瓜 (“me…

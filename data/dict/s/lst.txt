@@ -1,0 +1,582 @@
+e	-st	st	1 meaning
+e	1st	st	1 meaning
+e	sty	sty	2 meanings
+e	stab	stab	1 meaning
+e	stag	stag	1 meaning
+e	star	star	9 meanings
+e	stay	stay	3 meanings
+e	stem	stem	7 meanings
+e	step	step	16 meanings
+e	stew	stew	1 meaning
+e	stir	stir	8 meanings
+e	stop	stop	6 meanings
+e	stub	stub	2 meanings
+e	stun	stun	2 meanings
+e	stye	stye	1 meaning
+e	styx	styx	2 meanings
+e	stack	stack	2 meanings
+e	staff	staff	3 meanings
+e	stage	stage	4 meanings
+e	stain	stain	2 meanings
+e	stair	stair	2 meanings
+e	stake	stake	2 meanings
+e	stale	stale	2 meanings
+e	stalk	stalk	3 meanings
+e	stall	stall	7 meanings
+e	stamp	stamp	2 meanings
+e	stand	stand	14 meanings
+e	stare	stare	1 meaning
+e	start	start	8 meanings
+e	stasi	stasi	1 meaning
+e	state	state	9 meanings
+e	stave	stave	1 meaning
+e	steak	steak	1 meaning
+e	steal	steal	6 meanings
+e	steam	steam	5 meanings
+e	steel	steel	1 meaning
+e	steep	steep	4 meanings
+e	steer	steer	7 meanings
+e	stele	stele	1 meaning
+e	stent	stent	1 meaning
+e	stern	stern	3 meanings
+e	stick	stick	15 meanings
+e	stiff	stiff	9 meanings
+e	still	still	8 meanings
+e	stilt	stilt	1 meaning
+e	sting	sting	4 meanings
+e	stink	stink	4 meanings
+e	stock	stock	4 meanings
+e	stoic	stoic	4 meanings
+e	stoke	stoke	2 meanings
+e	stone	stone	7 meanings
+e	stool	stool	2 meanings
+e	stoop	stoop	1 meaning
+e	store	store	2 meanings
+e	stork	stork	1 meaning
+e	storm	storm	3 meanings
+e	story	story	1 meaning
+e	stove	stove	2 meanings
+e	strap	strap	1 meaning
+e	straw	straw	3 meanings
+e	strew	strew	1 meaning
+e	strip	strip	5 meanings
+e	study	study	4 meanings
+e	stuff	stuff	6 meanings
+e	stump	stump	1 meaning
+e	stunt	stunt	1 meaning
+e	stupa	stupa	1 meaning
+e	style	style	3 meanings
+e	st. vith	stvith	1 meaning
+e	stable	stable	2 meanings
+e	stairs	stairs	1 meaning
+e	stalin	stalin	1 meaning
+e	stamen	stamen	1 meaning
+e	stance	stance	1 meaning
+e	stapes	stapes	1 meaning
+e	staple	staple	2 meanings
+e	starch	starch	1 meaning
+e	starve	starve	3 meanings
+e	static	static	2 meanings
+e	statue	statue	1 meaning
+e	status	status	3 meanings
+e	stay up	stayup	1 meaning
+e	steady	steady	1 meaning
+e	stench	stench	1 meaning
+e	steppe	steppe	2 meanings
+e	stereo	stereo	1 meaning
+e	steric	steric	1 meaning
+e	stevia	stevia	1 meaning
+e	sticky	sticky	2 meanings
+e	stifle	stifle	4 meanings
+e	stigma	stigma	4 meanings
+e	stingy	stingy	2 meanings
+e	stinky	stinky	1 meaning
+e	stocky	stocky	1 meaning
+e	stoker	stoker	1 meaning
+e	stolen	stolen	1 meaning
+e	stolin	stolin	1 meaning
+e	stolon	stolon	1 meaning
+e	stoned	stoned	1 meaning
+e	stonen	stonen	1 meaning
+e	stooge	stooge	1 meaning
+e	storey	storey	1 meaning
+e	storge	storge	1 meaning
+e	stormy	stormy	2 meanings
+e	strain	strain	2 meanings
+e	strait	strait	2 meanings
+e	streak	streak	1 meaning
+e	stream	stream	3 meanings
+e	street	street	1 meaning
+e	stress	stress	8 meanings
+e	strict	strict	2 meanings
+e	strife	strife	1 meaning
+e	strike	strike	6 meanings
+e	string	string	5 meanings
+e	stripe	stripe	1 meaning
+e	strive	strive	1 meaning
+e	stroke	stroke	3 meanings
+e	stroll	stroll	2 meanings
+e	strong	strong	10 meanings
+e	struct	struct	1 meaning
+e	struga	struga	1 meaning
+e	stubby	stubby	1 meaning
+e	stucco	stucco	1 meaning
+e	studio	studio	5 meanings
+e	stuffy	stuffy	1 meaning
+e	stupid	stupid	3 meanings
+e	sturdy	sturdy	1 meaning
+e	stylus	stylus	2 meanings
+e	stymie	stymie	1 meaning
+e	st. john's	stjohns	2 meanings
+e	st. pölten	stplten	1 meaning
+e	stack up	stackup	1 meaning
+e	stadium	stadium	1 meaning
+e	stagger	stagger	1 meaning
+e	stalker	stalker	1 meaning
+e	stammer	stammer	2 meanings
+e	stand up	standup	2 meanings
+e	stand-in	standin	1 meaning
+e	stand-up	standup	1 meaning
+e	stapler	stapler	1 meaning
+e	starlet	starlet	1 meaning
+e	starter	starter	1 meaning
+e	startle	startle	1 meaning
+e	startup	startup	1 meaning
+e	statics	statics	1 meaning
+e	station	station	5 meanings
+e	statism	statism	1 meaning
+e	statues	statues	1 meaning
+e	statute	statute	1 meaning
+e	stealth	stealth	1 meaning
+e	steamed	steamed	1 meaning
+e	steamer	steamer	3 meanings
+e	stearin	stearin	1 meaning
+e	steeple	steeple	1 meaning
+e	stencil	stencil	1 meaning
+e	stephen	stephen	2 meanings
+e	stepson	stepson	1 meaning
+e	sterile	sterile	3 meanings
+e	sterlet	sterlet	1 meaning
+e	steroid	steroid	1 meaning
+e	sticker	sticker	1 meaning
+e	stiffly	stiffly	1 meaning
+e	stilton	stilton	1 meaning
+e	stinger	stinger	2 meanings
+e	stipend	stipend	1 meaning
+e	stir-fry	stirfry	2 meanings
+e	stirrup	stirrup	1 meaning
+e	stollen	stollen	1 meaning
+e	stomach	stomach	2 meanings
+e	stopgap	stopgap	2 meanings
+e	storage	storage	1 meaning
+e	strange	strange	3 meanings
+e	stratum	stratum	5 meanings
+e	stratus	stratus	1 meaning
+e	strauss	strauss	1 meaning
+e	stretch	stretch	5 meanings
+e	striped	striped	1 meaning
+e	strudel	strudel	1 meaning
+e	stubble	stubble	2 meanings
+e	student	student	2 meanings
+e	stumble	stumble	2 meanings
+e	stun gun	stungun	1 meaning
+e	stupefy	stupefy	1 meaning
+e	stutter	stutter	1 meaning
+e	styrene	styrene	1 meaning
+e	staccato	staccato	1 meaning
+e	stage gay	stagegay	1 meaning
+e	stairway	stairway	1 meaning
+e	stalking	stalking	1 meaning
+e	stallion	stallion	1 meaning
+e	stalwart	stalwart	1 meaning
+e	stampede	stampede	1 meaning
+e	stand out	standout	1 meaning
+e	standard	standard	3 meanings
+e	stanford	stanford	2 meanings
+e	stannane	stannane	1 meaning
+e	star trek	startrek	1 meaning
+e	star wars	starwars	2 meanings
+e	stardust	stardust	2 meanings
+e	starfish	starfish	1 meaning
+e	starkers	starkers	1 meaning
+e	starling	starling	1 meaning
+e	starring	starring	1 meaning
+e	steaming	steaming	1 meaning
+e	steering	steering	1 meaning
+e	stem cell	stemcell	1 meaning
+e	step on it	steponit	1 meaning
+e	stephano	stephano	1 meaning
+e	sterling	sterling	2 meanings
+e	stibnite	stibnite	1 meaning
+e	stick out	stickout	1 meaning
+e	stigmata	stigmata	1 meaning
+e	stilbene	stilbene	1 meaning
+e	stiletto	stiletto	1 meaning
+e	stimulus	stimulus	1 meaning
+e	stingray	stingray	1 meaning
+e	stinkbug	stinkbug	1 meaning
+e	stocking	stocking	1 meaning
+e	stone age	stoneage	2 meanings
+e	stop sign	stopsign	1 meaning
+e	stopcock	stopcock	1 meaning
+e	stopover	stopover	1 meaning
+e	story arc	storyarc	1 meaning
+e	stowaway	stowaway	1 meaning
+e	straddle	straddle	1 meaning
+e	straight	straight	8 meanings
+e	strainer	strainer	1 meaning
+e	stranger	stranger	2 meanings
+e	strangle	strangle	1 meaning
+e	strategy	strategy	3 meanings
+e	straw hat	strawhat	1 meaning
+e	stray dog	straydog	1 meaning
+e	streaker	streaker	1 meaning
+e	streamer	streamer	1 meaning
+e	strength	strength	1 meaning
+e	stressed	stressed	2 meanings
+e	strident	strident	1 meaning
+e	stripper	stripper	1 meaning
+e	stroller	stroller	1 meaning
+e	struggle	struggle	2 meanings
+e	stubborn	stubborn	1 meaning
+e	stubtail	stubtail	1 meaning
+e	studying	studying	1 meaning
+e	stuffing	stuffing	1 meaning
+e	stunning	stunning	2 meanings
+e	stuntman	stuntman	1 meaning
+e	sturgeon	sturgeon	1 meaning
+e	st. george's	stgeorges	1 meaning
+e	stability	stability	1 meaning
+e	stable fly	stablefly	1 meaning
+e	stableman	stableman	1 meaning
+e	stage left	stageleft	1 meaning
+e	stage name	stagename	1 meaning
+e	staircase	staircase	1 meaning
+e	stairwell	stairwell	1 meaning
+e	stalemate	stalemate	2 meanings
+e	stalinism	stalinism	1 meaning
+e	stalinist	stalinist	1 meaning
+e	stamp duty	stampduty	1 meaning
+e	stanchion	stanchion	1 meaning
+e	stapedius	stapedius	1 meaning
+e	star anise	staranise	2 meanings
+e	star chart	starchart	1 meaning
+e	star finch	starfinch	1 meaning
+e	star fruit	starfruit	1 meaning
+e	starboard	starboard	1 meaning
+e	starbucks	starbucks	1 meaning
+e	starlight	starlight	1 meaning
+e	start menu	startmenu	1 meaning
+e	statement	statement	3 meanings
+e	statesman	statesman	1 meaning
+e	stationer	stationer	1 meaning
+e	statuette	statuette	1 meaning
+e	status bar	statusbar	1 meaning
+e	status quo	statusquo	1 meaning
+e	stavanger	stavanger	1 meaning
+e	stavropol	stavropol	1 meaning
+e	steamboat	steamboat	1 meaning
+e	steampunk	steampunk	1 meaning
+e	steamship	steamship	1 meaning
+e	steatosis	steatosis	1 meaning
+e	steelyard	steelyard	1 meaning
+e	stegosaur	stegosaur	1 meaning
+e	stepchild	stepchild	1 meaning
+e	steradian	steradian	1 meaning
+e	sterilize	sterilize	1 meaning
+e	sternpost	sternpost	1 meaning
+e	stevedore	stevedore	1 meaning
+e	stigmatic	stigmatic	1 meaning
+e	still life	stilllife	1 meaning
+e	stillborn	stillborn	1 meaning
+e	stimulant	stimulant	2 meanings
+e	stimulate	stimulate	2 meanings
+e	stipulate	stipulate	1 meaning
+e	stock dove	stockdove	1 meaning
+e	stockfish	stockfish	1 meaning
+e	stockholm	stockholm	1 meaning
+e	stockinet	stockinet	1 meaning
+e	stockpile	stockpile	1 meaning
+e	stone pine	stonepine	1 meaning
+e	stone wall	stonewall	1 meaning
+e	stonecrop	stonecrop	1 meaning
+e	stonefish	stonefish	1 meaning
+e	stoneware	stoneware	1 meaning
+e	stop codon	stopcodon	1 meaning
+e	stopwatch	stopwatch	1 meaning
+e	storeroom	storeroom	1 meaning
+e	storm door	stormdoor	1 meaning
+e	storytime	storytime	1 meaning
+e	stralsund	stralsund	1 meaning
+e	stratagem	stratagem	1 meaning
+e	strategic	strategic	1 meaning
+e	streaming	streaming	1 meaning
+e	streamlet	streamlet	1 meaning
+e	street art	streetart	1 meaning
+e	stretcher	stretcher	1 meaning
+e	strikeout	strikeout	1 meaning
+e	strip club	stripclub	1 meaning
+e	strobilus	strobilus	1 meaning
+e	strontium	strontium	1 meaning
+e	structure	structure	5 meanings
+e	stuttgart	stuttgart	1 meaning
+e	styrofoam	styrofoam	1 meaning
+e	stag beetle	stagbeetle	1 meaning
+e	stage right	stageright	1 meaning
+e	stage-coach	stagecoach	1 meaning
+e	stagnation	stagnation	3 meanings
+e	stalactite	stalactite	1 meaning
+e	stalagmite	stalagmite	1 meaning
+e	stalingrad	stalingrad	1 meaning
+e	stand on end	standonend	1 meaning
+e	standpoint	standpoint	1 meaning
+e	standstill	standstill	1 meaning
+e	star system	starsystem	1 meaning
+e	stark naked	starknaked	1 meaning
+e	start codon	startcodon	1 meaning
+e	starvation	starvation	1 meaning
+e	state visit	statevisit	1 meaning
+e	stationary	stationary	3 meanings
+e	stationery	stationery	1 meaning
+e	statistics	statistics	2 meanings
+e	statute law	statutelaw	1 meaning
+e	steakhouse	steakhouse	1 meaning
+e	steam train	steamtrain	1 meaning
+e	steamed egg	steamedegg	1 meaning
+e	steelworks	steelworks	1 meaning
+e	step by step	stepbystep	1 meaning
+e	step ladder	stepladder	1 meaning
+e	stepfather	stepfather	1 meaning
+e	stepmother	stepmother	1 meaning
+e	stepsister	stepsister	1 meaning
+e	stereotype	stereotype	1 meaning
+e	stewardess	stewardess	1 meaning
+e	stickiness	stickiness	1 meaning
+e	stigmatism	stigmatism	3 meanings
+e	stigmatize	stigmatize	1 meaning
+e	stillbirth	stillbirth	1 meaning
+e	stinky tofu	stinkytofu	1 meaning
+e	stirrup cup	stirrupcup	1 meaning
+e	stitchbird	stitchbird	1 meaning
+e	stochastic	stochastic	1 meaning
+e	stock price	stockprice	1 meaning
+e	stomatitis	stomatitis	1 meaning
+e	stone loach	stoneloach	1 meaning
+e	stonehenge	stonehenge	1 meaning
+e	stonemason	stonemason	1 meaning
+e	stoner rock	stonerrock	1 meaning
+e	stop-motion	stopmotion	1 meaning
+e	storehouse	storehouse	1 meaning
+e	storm cloud	stormcloud	1 meaning
+e	storyboard	storyboard	1 meaning
+e	strabismus	strabismus	1 meaning
+e	straightly	straightly	1 meaning
+e	strasbourg	strasbourg	1 meaning
+e	strategist	strategist	1 meaning
+e	strawberry	strawberry	4 meanings
+e	street food	streetfood	1 meaning
+e	strengthen	strengthen	1 meaning
+e	stress ball	stressball	1 meaning
+e	stretching	stretching	1 meaning
+e	strike zone	strikezone	1 meaning
+e	striptease	striptease	1 meaning
+e	stroganoff	stroganoff	1 meaning
+e	stronghold	stronghold	1 meaning
+e	strychnine	strychnine	1 meaning
+e	stupendous	stupendous	2 meanings
+e	stuttering	stuttering	1 meaning
+e	stylesheet	stylesheet	1 meaning
+e	stylistics	stylistics	1 meaning
+e	stylophone	stylophone	1 meaning
+e	st. elmo's fire	stelmosfire	1 meaning
+e	st. john's wort	stjohnswort	2 meanings
+e	stage fright	stagefright	1 meaning
+e	stagflation	stagflation	1 meaning
+e	stakeholder	stakeholder	2 meanings
+e	standardise	standardise	1 meaning
+e	star cluster	starcluster	1 meaning
+e	star of david	starofdavid	1 meaning
+e	star wars day	starwarsday	1 meaning
+e	star-crossed	starcrossed	1 meaning
+e	stara zagora	starazagora	1 meaning
+e	start button	startbutton	1 meaning
+e	state of mind	stateofmind	1 meaning
+e	state secret	statesecret	1 meaning
+e	steam engine	steamengine	1 meaning
+e	steamroller	steamroller	1 meaning
+e	stearic acid	stearicacid	1 meaning
+e	steel square	steelsquare	1 meaning
+e	steelmaking	steelmaking	1 meaning
+e	stellar wind	stellarwind	1 meaning
+e	step pyramid	steppyramid	1 meaning
+e	stepanakert	stepanakert	1 meaning
+e	stepbrother	stepbrother	1 meaning
+e	steppe eagle	steppeeagle	1 meaning
+e	stethoscope	stethoscope	1 meaning
+e	stick figure	stickfigure	1 meaning
+e	stick insect	stickinsect	1 meaning
+e	stimulation	stimulation	1 meaning
+e	stipulation	stipulation	1 meaning
+e	stock market	stockmarket	1 meaning
+e	stomachache	stomachache	1 meaning
+e	stomatology	stomatology	1 meaning
+e	stone circle	stonecircle	1 meaning
+e	storm petrel	stormpetrel	1 meaning
+e	storyteller	storyteller	1 meaning
+e	straight man	straightman	1 meaning
+e	stratopause	stratopause	1 meaning
+e	stray bullet	straybullet	1 meaning
+e	streetlight	streetlight	1 meaning
+e	striped bass	stripedbass	1 meaning
+e	stroboscope	stroboscope	1 meaning
+e	stroke order	strokeorder	1 meaning
+e	strong flour	strongflour	1 meaning
+e	stroopwafel	stroopwafel	1 meaning
+e	stunt double	stuntdouble	1 meaning
+e	stuntperson	stuntperson	1 meaning
+e	st. petersburg	stpetersburg	1 meaning
+e	st. thomas bean	stthomasbean	1 meaning
+e	stage manager	stagemanager	1 meaning
+e	stained glass	stainedglass	1 meaning
+e	standard time	standardtime	1 meaning
+e	standing wave	standingwave	1 meaning
+e	star duckweed	starduckweed	1 meaning
+e	state funeral	statefuneral	1 meaning
+e	state of japan	stateofjapan	1 meaning
+e	state of libya	stateoflibya	1 meaning
+e	station wagon	stationwagon	1 meaning
+e	statistician	statistician	1 meaning
+e	status symbol	statussymbol	1 meaning
+e	steam turbine	steamturbine	1 meaning
+e	steeplechase	steeplechase	1 meaning
+e	stepdaughter	stepdaughter	1 meaning
+e	sterilizable	sterilizable	1 meaning
+e	stiletto heel	stilettoheel	1 meaning
+e	store manager	storemanager	1 meaning
+e	stradivarius	stradivarius	1 meaning
+e	straight line	straightline	1 meaning
+e	straightener	straightener	1 meaning
+e	straitjacket	straitjacket	1 meaning
+e	strange quark	strangequark	1 meaning
+e	strategy game	strategygame	1 meaning
+e	stratigraphy	stratigraphy	1 meaning
+e	stratosphere	stratosphere	1 meaning
+e	street corner	streetcorner	1 meaning
+e	street racing	streetracing	1 meaning
+e	streetwalker	streetwalker	1 meaning
+e	string cheese	stringcheese	1 meaning
+e	string theory	stringtheory	1 meaning
+e	stubbornness	stubbornness	1 meaning
+e	st. stephen's day	ststephensday	1 meaning
+e	stabilization	stabilization	1 meaning
+e	stand to reason	standtoreason	1 meaning
+e	stand-up comedy	standupcomedy	1 meaning
+e	standard gauge	standardgauge	1 meaning
+e	staple remover	stapleremover	1 meaning
+e	state of israel	stateofisrael	1 meaning
+e	state of matter	stateofmatter	1 meaning
+e	state of the art	stateoftheart	2 meanings
+e	state religion	statereligion	1 meaning
+e	statesmanship	statesmanship	1 meaning
+e	stationmaster	stationmaster	1 meaning
+e	steering wheel	steeringwheel	1 meaning
+e	stepping stone	steppingstone	1 meaning
+e	sterilization	sterilization	2 meanings
+e	stock exchange	stockexchange	1 meaning
+e	stoichiometry	stoichiometry	1 meaning
+e	stomach cancer	stomachcancer	1 meaning
+e	stomach lining	stomachlining	1 meaning
+e	stracciatella	stracciatella	2 meanings
+e	straight ahead	straightahead	1 meaning
+e	straight angle	straightangle	1 meaning
+e	straight flush	straightflush	1 meaning
+e	straight pride	straightpride	1 meaning
+e	straight razor	straightrazor	1 meaning
+e	strait of dover	straitofdover	1 meaning
+e	strait of kerch	straitofkerch	1 meaning
+e	stratocumulus	stratocumulus	1 meaning
+e	stratospheric	stratospheric	1 meaning
+e	stratovolcano	stratovolcano	1 meaning
+e	straw mushroom	strawmushroom	1 meaning
+e	street sweeper	streetsweeper	2 meanings
+e	streptococcus	streptococcus	1 meaning
+e	strikebreaker	strikebreaker	1 meaning
+e	strikethrough	strikethrough	1 meaning
+e	structuralism	structuralism	2 meanings
+e	stuffed animal	stuffedanimal	1 meaning
+e	sturm und drang	sturmunddrang	2 meanings
+e	st. george's cross	stgeorgescross	1 meaning
+e	stage direction	stagedirection	1 meaning
+e	stainless steel	stainlesssteel	1 meaning
+e	stamping ground	stampingground	1 meaning
+e	stand corrected	standcorrected	1 meaning
+e	staphylococcus	staphylococcus	1 meaning
+e	staring contest	staringcontest	1 meaning
+e	starry flounder	starryflounder	1 meaning
+e	state of affairs	stateofaffairs	1 meaning
+e	state of eritrea	stateoferitrea	1 meaning
+e	stealth fighter	stealthfighter	1 meaning
+e	steller sea lion	stellersealion	1 meaning
+e	sterling silver	sterlingsilver	1 meaning
+e	stilt sandpiper	stiltsandpiper	1 meaning
+e	stirrup leather	stirrupleather	1 meaning
+e	stock character	stockcharacter	1 meaning
+e	strait of hormuz	straitofhormuz	1 meaning
+e	strait of sicily	straitofsicily	1 meaning
+e	stratification	stratification	1 meaning
+e	stratus fractus	stratusfractus	1 meaning
+e	striped catfish	stripedcatfish	1 meaning
+e	student council	studentcouncil	1 meaning
+e	stumbling block	stumblingblock	1 meaning
+e	sturmabteilung	sturmabteilung	1 meaning
+e	styloid process	styloidprocess	1 meaning
+e	stand on ceremony	standonceremony	1 meaning
+e	standard english	standardenglish	1 meaning
+e	standardization	standardization	2 meanings
+e	standing ovation	standingovation	1 meaning
+e	star of bethlehem	starofbethlehem	1 meaning
+e	stars and stripes	starsandstripes	1 meaning
+e	starting pitcher	startingpitcher	1 meaning
+e	state capitalism	statecapitalism	1 meaning
+e	state of the union	stateoftheunion	1 meaning
+e	stationary front	stationaryfront	1 meaning
+e	statue of liberty	statueofliberty	1 meaning
+e	steam locomotive	steamlocomotive	1 meaning
+e	straightforward	straightforward	1 meaning
+e	strait of malacca	straitofmalacca	1 meaning
+e	strait of messina	straitofmessina	1 meaning
+e	stratford-on-avon	stratfordonavon	1 meaning
+e	streisand effect	streisandeffect	1 meaning
+e	striped beakfish	stripedbeakfish	1 meaning
+e	stymphalian bird	stymphalianbird	1 meaning
+e	st george's channel	stgeorgeschannel	1 meaning
+e	staggered shelves	staggeredshelves	1 meaning
+e	standard language	standardlanguage	1 meaning
+e	standard of living	standardofliving	1 meaning
+e	state of emergency	stateofemergency	2 meanings
+e	state of palestine	stateofpalestine	1 meaning
+e	strait of magellan	straitofmagellan	1 meaning
+e	striped threadfin	stripedthreadfin	1 meaning
+e	standard deviation	standarddeviation	1 meaning
+e	static electricity	staticelectricity	2 meanings
+e	stochastic process	stochasticprocess	1 meaning
+e	stockholm syndrome	stockholmsyndrome	1 meaning
+e	strait of gibraltar	straitofgibraltar	1 meaning
+e	stratum granulosum	stratumgranulosum	1 meaning
+e	stripe-breasted tit	stripebreastedtit	1 meaning
+e	striped field mouse	stripedfieldmouse	1 meaning
+e	structural formula	structuralformula	1 meaning
+e	star-spangled banner	starspangledbanner	2 meanings
+e	stick one's tongue out	stickonestongueout	1 meaning
+e	still waters run deep	stillwatersrundeep	1 meaning
+e	straits settlements	straitssettlements	1 meaning
+e	stringed instrument	stringedinstrument	1 meaning
+e	strong nuclear force	strongnuclearforce	2 meanings
+e	strawberry saxifrage	strawberrysaxifrage	1 meaning
+e	state-owned enterprise	stateownedenterprise	1 meaning
+e	statistical inference	statisticalinference	1 meaning
+e	statistical mechanics	statisticalmechanics	1 meaning
+e	statute of limitations	statuteoflimitations	1 meaning
+e	streak-backed antshrike	streakbackedantshrike	1 meaning
+e	strike while the iron is hot	strikewhiletheironishot	1 meaning
+e	strong nuclear interaction	strongnuclearinteraction	1 meaning

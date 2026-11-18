@@ -1,0 +1,27 @@
+e	ox	ox	1 meaning
+e	oxfam	oxfam	1 meaning
+e	oxide	oxide	1 meaning
+e	oxime	oxime	1 meaning
+e	oxcart	oxcart	1 meaning
+e	oxford	oxford	1 meaning
+e	oxtail	oxtail	1 meaning
+e	oxygen	oxygen	3 meanings
+e	oxazole	oxazole	1 meaning
+e	oxidant	oxidant	1 meaning
+e	oxonium	oxonium	1 meaning
+e	oxyacid	oxyacid	1 meaning
+e	oxpecker	oxpecker	1 meaning
+e	oxymoron	oxymoron	1 meaning
+e	oxytocin	oxytocin	1 meaning
+e	oxbow lake	oxbowlake	1 meaning
+e	oxidation	oxidation	2 meanings
+e	oxygenate	oxygenate	1 meaning
+e	oxyphenol	oxyphenol	1 meaning
+e	oxalic acid	oxalicacid	1 meaning
+e	oxeye daisy	oxeyedaisy	1 meaning
+e	oxygen mask	oxygenmask	1 meaning
+e	oxychloride	oxychloride	1 meaning
+e	oxyhydrogen	oxyhydrogen	1 meaning
+e	oxyrhynchus	oxyrhynchus	1 meaning
+e	oxidizing agent	oxidizingagent	1 meaning
+e	oxygen difluoride	oxygendifluoride	1 meaning

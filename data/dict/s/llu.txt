@@ -1,0 +1,98 @@
+e	lua	lua	1 meaning
+e	lux	lux	1 meaning
+e	luck	luck	1 meaning
+e	luge	luge	2 meanings
+e	luke	luke	3 meanings
+e	lula	lula	1 meaning
+e	lump	lump	1 meaning
+e	lung	lung	1 meaning
+e	lure	lure	1 meaning
+e	lurk	lurk	1 meaning
+e	luso-	luso	1 meaning
+e	lust	lust	1 meaning
+e	lute	lute	1 meaning
+e	lubny	lubny	1 meaning
+e	lucan	lucan	1 meaning
+e	lucky	lucky	2 meanings
+e	lumen	lumen	2 meanings
+e	lunch	lunch	2 meanings
+e	lupus	lupus	1 meaning
+e	lutsk	lutsk	1 meaning
+e	luxon	luxon	1 meaning
+e	luxor	luxor	1 meaning
+e	luzon	luzon	1 meaning
+e	luanda	luanda	1 meaning
+e	lucian	lucian	1 meaning
+e	lucina	lucina	1 meaning
+e	lucite	lucite	1 meaning
+e	lumber	lumber	1 meaning
+e	lupine	lupine	1 meaning
+e	lusaka	lusaka	1 meaning
+e	luster	luster	3 meanings
+e	lutein	lutein	1 meaning
+e	luxury	luxury	1 meaning
+e	luzhou	luzhou	2 meanings
+e	lucerne	lucerne	1 meaning
+e	lucifer	lucifer	1 meaning
+e	luckily	luckily	1 meaning
+e	lucknow	lucknow	1 meaning
+e	luddite	luddite	1 meaning
+e	luganda	luganda	1 meaning
+e	luggage	luggage	1 meaning
+e	luhansk	luhansk	1 meaning
+e	lullaby	lullaby	1 meaning
+e	lumbago	lumbago	1 meaning
+e	lumbini	lumbini	2 meanings
+e	luminol	luminol	1 meaning
+e	lump sum	lumpsum	1 meaning
+e	lunatic	lunatic	1 meaning
+e	luoyang	luoyang	1 meaning
+e	lustful	lustful	1 meaning
+e	lucciana	lucciana	1 meaning
+e	ludhiana	ludhiana	1 meaning
+e	lukewarm	lukewarm	2 meanings
+e	lunarian	lunarian	1 meaning
+e	lunchbox	lunchbox	2 meanings
+e	lungfish	lungfish	1 meaning
+e	lunokhod	lunokhod	1 meaning
+e	lutetium	lutetium	1 meaning
+e	lutheran	lutheran	1 meaning
+e	lubricant	lubricant	1 meaning
+e	lubricate	lubricate	1 meaning
+e	lucrative	lucrative	1 meaning
+e	lucubrate	lucubrate	1 meaning
+e	lufthansa	lufthansa	1 meaning
+e	lunar year	lunaryear	1 meaning
+e	lunchtime	lunchtime	1 meaning
+e	luxuriant	luxuriant	1 meaning
+e	luxurious	luxurious	1 meaning
+e	lucid dream	luciddream	1 meaning
+e	lucky charm	luckycharm	1 meaning
+e	lukashenko	lukashenko	1 meaning
+e	lumberjack	lumberjack	1 meaning
+e	luminosity	luminosity	1 meaning
+e	lunar phase	lunarphase	1 meaning
+e	lunchbreak	lunchbreak	1 meaning
+e	lung cancer	lungcancer	1 meaning
+e	luxembourg	luxembourg	3 meanings
+e	luxury good	luxurygood	1 meaning
+e	ludwigsburg	ludwigsburg	1 meaning
+e	luggage cart	luggagecart	1 meaning
+e	lunar module	lunarmodule	1 meaning
+e	lutheranism	lutheranism	1 meaning
+e	luzon strait	luzonstrait	1 meaning
+e	luang prabang	luangprabang	1 meaning
+e	luminous flux	luminousflux	1 meaning
+e	lunar eclipse	lunareclipse	1 meaning
+e	lunar new year	lunarnewyear	1 meaning
+e	luxembourger	luxembourger	1 meaning
+e	lunar calendar	lunarcalendar	1 meaning
+e	luxembourgish	luxembourgish	2 meanings
+e	lumbar puncture	lumbarpuncture	1 meaning
+e	lumbar vertebra	lumbarvertebra	1 meaning
+e	luminous energy	luminousenergy	1 meaning
+e	lump in one's throat	lumpinonesthroat	1 meaning
+e	luminous intensity	luminousintensity	1 meaning
+e	lumpenproletariat	lumpenproletariat	1 meaning
+e	lunisolar calendar	lunisolarcalendar	1 meaning
+e	luhansk people's republic	luhanskpeoplesrepublic	1 meaning

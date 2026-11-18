@@ -1,0 +1,214 @@
+j	大江	oe	a surname
+j	終え	oe	end; conclusion; finish
+k	외	oe	other things
+j	御猿	oen	the shedding of the uteri…
+j	応援	oen	support
+j	応永	oei	the Ōei era, 1394-1428
+j	黄鉛	oen	クロム酸鉛を主な成分とする黄色顔料。クロムイエロー。
+k	외이	oei	바깥귀의 동의어.
+k	왼	oen	left, left-hand
+j	おえる	oeru	続けていたことを終わらせる。
+j	オーエス	oesu	
+j	オーエル	oeru	OL: an "office lady" (non…
+j	大枝	oeda	
+j	大江戸	oedo	江戸の雅称。
+j	応益	oeki	各自がそれぞれ受け取る利益の程度に応じること。
+j	終える	oeru	to end (something), to co…
+k	오에루	oeru	
+k	오음	oeum	a pentatonic scale
+k	외가	oega	어머니의 친정.
+k	외다	oeda	to repeat, recite, reiter…
+k	외로	oero	In the left direction
+k	외모	oemo	appearance, look (outward)
+k	외무	oemu	foreign affairs
+k	외부	oebu	exterior
+k	외야	oeya	outfield
+k	외어	oeeo	
+k	외유	oeyu	
+k	외의	oeui	outer garment, overcoat
+k	외인	oein	person not belonging to o…
+k	외자	oeja	
+k	외제	oeje	
+k	외지	oeji	a foreign newspaper
+k	외투	oetu	overcoat
+j	おえっと	oetto	軽い吐き気をもよおすさま。
+j	嗚咽	oetsu	sobbing
+j	応援歌	oenka	主にスポーツで自分の応援するチームや選手を激励する…
+j	応援法	oenho	
+k	오에스	oeseu	
+k	외계	oegye	outer space
+k	외곬	oegol	한쪽 방향으로만 트인 길.
+k	외과	oegwa	surgery
+k	외교	oegyo	diplomacy
+k	외국	oeguk	a foreign country
+k	외래	oerae	foreign, alien, imported,…
+k	외로이	oeroi	홀로 있어서 상태나 마음이 쓸쓸하여.
+k	외발	oebal	두 발이 아닌 한쪽만의 발.
+k	외빈	oebin	
+k	외손	oeson	
+k	외숙	oesuk	외삼촌.
+k	외식	oesik	eating out (dining at a r…
+k	외신	oesin	
+k	외심	oesim	circumcenter
+k	외우다	oeuda	to utter; to recite; to c…
+k	외재	oejae	어떤 사물이나 범위 안에 있지 않고 밖에 있음…
+k	외퀴	oekwi	a foreign (non-Korean) K-…
+k	외해	oehae	
+k	외화	oehwa	foreign currency
+j	お絵かき	oekaki	drawing; doodling
+j	お絵描き	oekaki	
+j	応援団	oendan	cheer group
+k	외관	oegwan	밖에서 본 모습.
+k	외동	oedong	
+k	외딴	oettan	외따로 떨어져 있는.
+k	외딸	oettal	only daughter
+k	외로운	oeroun	'외롭다'의 관형사형.
+k	외로움	oeroum	loneliness, lonesomeness
+k	외무부	oemubu	foreign ministry, (depart…
+k	외부의	oebuui	
+k	외부인	oebuin	outsider
+k	외상	oesang	injury
+k	외설	oeseol	obscenity (something that…
+k	외야수	oeyasu	outfielder
+k	외양	oeyang	
+k	외외가	oeoega	외할머니의 부모가 사는 집.
+k	외용	oeyong	
+k	외전	oejeon	supplementary story; spin…
+k	외조모	oejomo	
+k	외조부	oejobu	
+k	외출	oechul	going out
+k	외침	oechim	cry, shout, call, yell, s…
+k	외톨이	oetori	'외돌토리'
+k	외핵	oehaek	outer core
+k	외환	oehwan	foreign exchange
+k	왼발	oenbal	
+k	왼손	oenson	left hand
+e	oedipus	oedipus	1 meaning
+e	oestrus	oestrus	1 meaning
+j	応援方法	oenhoho	
+k	외계어	oegyeeo	The style of writing in w…
+k	외계의	oegyeui	
+k	외계인	oegyein	alien; extraterrestrial
+k	외과의	oegwaui	
+k	외교부	oegyobu	foreign ministry, (depart…
+k	외국어	oegugeo	foreign language
+k	외국인	oegugin	foreigner
+k	외눈의	oenunui	
+k	외독소	oedokso	exotoxin
+k	외래어	oeraeeo	loanword (word taken from…
+k	외래의	oeraeui	
+k	외력	oeryeok	external force
+k	외롭다	oeropda	alone, lonely, solitary
+k	외면	oemyeon	exterior surface; outward…
+k	외성	oeseong	outer city, outer city wa…
+k	외손자	oesonja	grandson (daughter's son)
+k	외손주	oesonju	
+k	외숙부	oesukbu	외삼촌의 다른 한자어. 때로는 줄여서 '외숙'…
+k	외아들	oeadeul	only son
+k	외음부	oeeumbu	
+k	외입질	oeipjil	
+k	외자식	oejasik	
+k	외정	oejeong	
+k	외측	oecheuk	
+k	외치다	oechida	to shout or cry out
+k	외투막	oetumak	
+k	외향	oehyang	
+k	왼쪽	oenjjok	left side
+k	왼통	oentong	Seoul, Jeolla dialect, Py…
+e	oenology	oenology	1 meaning
+j	おえらいさん	oeraisan	（企業、団体の役員など）地位、身分が高い人。えらい…
+j	おえらがた	oeragata	（企業、団体の役員など）地位、身分が高い人達。えら…
+k	외갓집	oegatjip	'외가'.
+k	외골목	oegolmok	
+k	외골수	oegolssu	한 가지에만 집중하고 파고드는 사람.
+k	외과학	oegwahak	
+k	외기권	oegigwon	지구대기의 바깥 우주공간.
+k	외몽고	oemonggo	Outer Mongolia
+k	외무상	oemusang	
+k	외사촌	oesachon	
+k	외숙모	oesungmo	wife of one's maternal un…
+k	외잘만	oejalman	Hwanghae form of 외할머니 (oe…
+k	외통수	oetongsu	
+k	외판원	oepanwon	travelling salesperson
+k	외형	oehyeong	
+k	왼쪽에	oenjjoge	
+k	왼편	oenpyeon	'왼쪽'.
+e	oenophile	oenophile	1 meaning
+k	외과의사	oegwauisa	
+k	외교관	oegyogwan	diplomat
+k	외교적	oegyojeok	
+k	외꺼풀	oekkeopul	
+k	외돌토리	oedoltori	매인 데도 없고 의지할 데도 없는 홀몸.
+k	외래종	oeraejong	다른 지역이나 다른 나라에서 들어온 품종.
+k	외로치기	oerochigi	(탁구) '백핸드'의 북한말.
+k	외몽골	oemonggol	
+k	외무성	oemuseong	
+k	외삼촌	oesamchon	maternal uncle
+k	외손녀	oesonnyeo	granddaughter (daughter's…
+k	외식하다	oesikhada	to eat out; to dine out (…
+k	외양간	oeyanggan	
+k	외인부대	oeinbudae	foreign legion; army unit…
+k	외접원	oejeobwon	circumcircle
+k	외톨박이	oetolbagi	알이 하나만 여물어 들어 있는 밤송이나 통마늘…
+k	왼심실	oensimsil	심장의 왼쪽 아래에 있는 방.
+e	oesophagus	oesophagus	1 meaning
+j	お絵かきボード	oekakibodo	magnetic drawing board
+k	오음음계	oeumeumgye	
+k	외골격	oegolgyeok	
+k	외국산의	oeguksanui	
+k	외국에 가다	oegugegada	
+k	외동딸	oedongttal	only daughter
+k	외륜선	oeryunseon	
+k	외부효과	oebuhyogwa	
+k	외상으로	oesangeuro	
+k	외설하다	oeseolhada	obscene
+k	외잘머니	oejalmeoni	Hwanghae form of 외할머니 (oe…
+k	외전근	oejeongeun	
+k	외출하다	oechulhada	to go out
+k	외표벽	oepyobyeok	
+k	외할머니	oehalmeoni	maternal grandmother
+k	왼발잡이	oenbaljabi	
+k	왼손잡이	oensonjabi	left-handed person; left-…
+k	왼심방	oensimbang	심장의 왼쪽 위에 있는 방.
+k	외동아들	oedongadeul	
+k	외면하다	oemyeonhada	to look away, to turn awa…
+k	외복사근	oeboksageun	abdominal external obliqu…
+k	외숙모님	oesungmonim	
+k	외온동물	oeondongmul	ectotherm
+k	외출혈	oechulhyeol	
+k	외할아버지	oeharabeoji	maternal grandfather
+k	외향적	oehyangjeok	
+k	왼쪽으로	oenjjogeuro	
+k	외교 관계	oegyogwangye	
+k	외뿔소자리	oeppulsojari	
+k	외행성	oehaengseong	
+k	외향성	oehyangseong	
+k	외형률	oehyeongryul	정형시에서 음의 고저, 장단, 음보 따위의 규…
+k	외환 시장	oehwansijang	
+k	외교특권	oegyoteukgwon	
+k	외삼촌댁	oesamchondaek	
+k	외상질하다	oesangjilhada	
+e	oedipus complex	oedipuscomplex	1 meaning
+j	お絵かき掲示板	oekakikeijiban	online oekaki message boa…
+k	외모지상주의	oemojisangjuui	
+k	외발자전거	oebaljajeongeo	unicycle
+k	외계 행성	oegyehaengseong	
+k	외계행성	oegyehaengseong	태양계 밖에 있는 행성.
+k	외교부 장관	oegyobujanggwan	
+k	외국인 노동자	oeguginnodongja	
+k	외국인등록	oegugindeungnok	foreigner/alien registrat…
+k	외레순 해협	oeresunhaehyeop	
+k	외설스럽다	oeseolseureopda	
+k	외떡잎식물	oetteogipsingmul	
+k	왼발잡이 선수	oenbaljabiseonsu	
+k	외모는 속임수다	oemoneunsogimsuda	
+k	외배엽형의	oebaeyeophyeongui	
+j	応益負担の原則	oekifutannogensoku	租税原則の一つ。公共財からの利益を受ける者は、その…
+k	외국인혐오증	oeguginhyeomojeung	xenophobia
+k	외출금지령	oechulgeumjiryeong	
+k	외측설상골	oecheukseolsanggol	
+k	왼쪽으로 돌아주세요	oenjjogeurodorajuseyo	
+k	외국 것을 싫어하는	oegukgeoseulsireohaneun	
+k	외상 후 스트레스 장애	oesanghuseuteureseujangae	
+k	외상후 스트레스 장애	oesanghuseuteureseujangae	
+k	외국어로서의 러시아어 능력 평가 시험	oegugeoroseouireosiaeoneungnyeokpyeonggasiheom	

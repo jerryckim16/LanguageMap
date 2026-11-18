@@ -1,0 +1,2 @@
+e	rgb	rgb	1 meaning
+e	rgyalrong	rgyalrong	1 meaning

@@ -1,0 +1,2422 @@
+j	㐧	㐧	数詞に前置して序数詞を造る。
+j	僧	僧	priest, bonze
+j	凧	凧	kite (a tethered object l…
+j	勧	勧	persuade; recommend; advi…
+j	圧	圧	pressure
+j	大	大	big, large
+j	姧	姧	wicked
+j	寧	寧	peaceful, gentle
+j	巧	巧	a male given name
+j	座	座	names of constellations
+j	弧	弧	arc
+j	性	性	the nature of something
+j	慧	慧	a male given name
+j	捧	捧	a surname
+j	斧	斧	axe, hatchet
+j	旧	旧	old things, original stat…
+j	朧	朧	hazy, cloudy
+j	榧	榧	Japanese nutmeg yew, Torr…
+j	欧	欧	（オウ）ヨーロッパに関する漢語を生成する。
+j	照	照	illuminate, shine
+j	牧	牧	pasture
+j	璧	璧	annular jade disc of ritu…
+j	瘧	瘧	（ギャク、おこり）マラリア。
+j	砧	砧	a fulling block, a wooden…
+j	碧	碧	
+j	磧	磧	pebbled riverbed
+j	笧	笧	
+j	筧	筧	a surname
+j	苧	苧	synonym of 麻 (asa, “hemp”…
+j	莧	莧	Amaranthus tricolor (Jose…
+j	螧	螧	lobster, prawn, shrimp
+j	覧	覧	（「ご覧になる」などの形で）「みる」の漢語表現、主…
+j	貧	貧	(ひん) 貧しいこと。貧乏。
+j	鄧	鄧	
+j	鉧	鉧	spongiform crude iron mad…
+j	鎧	鎧	armor
+j	霧	霧	mist, fog
+j	顧	顧	looks back, double-takes …
+j	鯧	鯧	
+j	鰧	鰧	
+j	鱧	鱧	daggertooth pike conger, …
+j	鳧	鳧	a grey-headed lapwing
+k	구	旧	nine
+k	내	內	stream, brook
+k	녕	寧	peace
+k	노	盧	string, cord (twisted hem…
+k	대	大	something large; somethin…
+k	등	鄧	back of a person or animal
+k	벽	璧	wall
+k	벽	碧	wall
+k	성	性	anger, rage, wrath
+k	학	瘧	crane (bird)
+k	호	弧	number, issue, edition (o…
+j	㡧画	㡧画	「パノラマ」に同じ。広い眺め。全景。
+j	僧伽	僧伽	
+j	僧体	僧体	僧侶の姿。僧形。
+j	僧供	僧供	僧に対する供養。また、その供物。
+j	僧侶	僧侶	group of Buddhist monks
+j	僧俗	僧俗	僧侶と在家の者。
+j	僧兵	僧兵	A warrior priest or monk
+j	僧具	僧具	僧が用いる器具。
+j	僧団	僧団	特別な修行する僧侶の集まり。
+j	僧坊	僧坊	寺院に付属し、僧侶が起居する家屋。
+j	僧堂	僧堂	禅宗寺院で座禅を行う堂宇。もとは座禅のほか食事や睡…
+j	僧官	僧官	僧侶に対し朝廷から与えられる官職。
+j	僧家	僧家	residence of a Buddhist m…
+j	僧尼	僧尼	男性の僧と尼僧。
+j	僧帽	僧帽	a type of hat worn by mon…
+j	僧庵	僧庵	Buddhist priest's hermita…
+j	僧形	僧形	僧侶の姿。僧体。
+j	僧徒	僧徒	Buddhist believers; monks…
+j	僧戒	僧戒	precepts which monks obse…
+j	僧房	僧房	「僧坊」の別表記。
+j	僧服	僧服	僧尼が着る衣服。
+j	僧正	僧正	Buddhist high priest
+j	僧籍	僧籍	僧侶、僧尼としての宗派の籍。
+j	僧綱	僧綱	仏教の僧尼を統率し、寺院を統括する官職。
+j	僧衣	僧衣	僧尼が着用する衣服。
+j	僧趺	僧趺	趺坐の法。
+j	僧都	僧都	the second highest rank o…
+j	僧門	僧門	仏道。仏門。
+j	僧院	僧院	monastery; temple
+j	僧階	僧階	rank of a monk
+j	僧雛	僧雛	幼少または少年の僧。
+j	僧食	僧食	僧侶の食事。
+j	內核	內核	
+j	內殻	內殻	
+j	內腔	內腔	
+j	內角	內角	
+j	內郭	內郭	
+j	勧め	勧め	suggestion, recommendatio…
+j	勧励	勧励	勧め、奨励すること。
+j	勧募	勧募	勧め、募ること。
+j	勧化	勧化	仏説を説いて、勧めること。
+j	勧告	勧告	recommendation, advice
+j	勧善	勧善	善いことを勧めること。
+j	勧奨	勧奨	ある事をするように勧めること。
+j	勧学	勧学	学問を勧めること。
+j	勧工	勧工	工業を奨励すること。
+j	勧懲	勧懲	勧善懲悪の略。
+j	勧杯	勧杯	杯を差し出して、酒を勧めること。
+j	勧業	勧業	産業を勧励すること。
+j	勧盃	勧盃	杯を差し出して、酒を勧めること。
+j	勧誘	勧誘	soliciting, inducement
+j	勧説	勧説	説いて勧めること。
+j	勧請	勧請	sharing of a deity with a…
+j	勧賞	勧賞	功労を褒め、褒美を与えること。
+j	勧農	勧農	農業を奨励すること。
+j	勧進	勧進	temple solicitation
+j	勧降	勧降	降伏を勧めること。
+j	喧争	喧争	騒ぎ、争うこと。
+j	喧伝	喧伝	世に広く言い囃すこと。
+j	喧喧	喧喧	喧しいさま。騒がしいさま。
+j	喧嘩	喧嘩	a fight, a physical confr…
+j	喧噪	喧噪	the loud sounds coming fr…
+j	喧囂	喧囂	がやがやしていること。人々がやかましく声や音を立て…
+j	喧擾	喧擾	喧しくうるさいこと。騒擾。
+j	喧訟	喧訟	競って騒ぎ立てること。
+j	喧闐	喧闐	どよめき。
+j	喧雑	喧雑	騒々しいこと。
+j	喧騒	喧騒	loud, noisy, chaotic, cla…
+j	喧鬧	喧鬧	noisy; loud; bustling
+j	圧す	圧す	to squish
+j	圧下	圧下	下方向に押さえつけること。
+j	圧伏	圧伏	力で押さえつけ服従させること。
+j	圧倒	圧倒	overwhelming
+j	圧入	圧入	pressing something in und…
+j	圧制	圧制	oppressive
+j	圧力	圧力	pressure (a force applied…
+j	圧勝	圧勝	overwhelming, crushing vi…
+j	圧壊	圧壊	力を加えて壊すこと。また、力が加わって壊れること。
+j	圧密	圧密	
+j	圧巻	圧巻	the highlight, the part b…
+j	圧延	圧延	素材を回転するローラーで挟み、送り出しながら厚みを…
+j	圧抑	圧抑	無理に押さえつけること。抑圧。
+j	圧搾	圧搾	compression
+j	圧政	圧政	tyrannical rule
+j	圧服	圧服	subjugation
+j	圧死	圧死	death by crushing
+j	圧殺	圧殺	crushing to death
+j	圧痕	圧痕	圧力が加わりできる跡。
+j	圧着	圧着	adhesion by pressure
+j	圧縮	圧縮	compression
+j	圧芻	圧芻	青刈りしたとうもろこし、ライ麦、牧草などを細切りに…
+j	圧覚	圧覚	圧力を感じる感覚。
+j	圧迫	圧迫	pressure, oppression
+j	圧電	圧電	
+j	大い	大い	large, big
+j	大の	大の	fully grown; adult
+j	大上	大上	your mother (of a noble p…
+j	大下	大下	a surname
+j	大世	大世	a male given name
+j	大乗	大乗	Mahayana
+j	大乱	大乱	戦乱などにより世の中が大きく乱れること。
+j	大事	大事	important
+j	大井	大井	a town in Kanagawa Prefec…
+j	大人	大人	an adult, a grown-up
+j	大今	大今	a surname
+j	大介	大介	a male given name
+j	大仏	大仏	great statue of Buddha
+j	大仙	大仙	優れた仙人。
+j	大仰	大仰	exaggerated
+j	大任	大任	重大な任務。
+j	大会	大会	convention; rally; mass m…
+j	大伴	大伴	a surname
+j	大伸	大伸	a male given name
+j	大佐	大佐	a colonel
+j	大体	大体	general, rough (idea)
+j	大作	大作	epic
+j	大使	大使	ambassador
+j	大便	大便	shit, excrement, faeces
+j	大倉	大倉	a surname
+j	大倫	大倫	人倫の大きな道。
+j	大儀	大儀	laborious, troublesome
+j	大儒	大儒	儒学の大学者。
+j	大優	大優	寛大で、何事にも動じないこと。また、そのようなさま。
+j	大儺	大儺	大晦日に鬼を追い払う行事。追儺。
+j	大元	大元	中国の元王朝。
+j	大兄	大兄	男性同士で年上や先輩などに対する敬語。
+j	大兇	大兇	この上もない罪悪。また、それをする人。大凶。
+j	大全	大全	complete (collection, wor…
+j	大公	大公	a grand duke
+j	大兵	大兵	弓を引くのが強いさま。また、そのような人。
+j	大内	大内	the spacious interior of …
+j	大円	大円	a great circle
+j	大冊	大冊	
+j	大凡	大凡	おおよそ。大略。大概。
+j	大凶	大凶	very unlucky
+j	大函	大函	貴翰。
+j	大刀	大刀	long sword; katana
+j	大分	大分	much, many
+j	大切	大切	important, weighty
+j	大初	大初	原初。
+j	大判	大判	large size
+j	大別	大別	大まかに分けること。また、その区分。
+j	大利	大利	大きな利益。
+j	大刹	大刹	大きな寺院。巨刹。
+j	大剣	大剣	大きな刀剣。グレートソード。ツーハンドソード。
+j	大力	大力	非常に強い力。また、その持ち主。
+j	大功	大功	great achievement
+j	大助	大助	a male given name
+j	大勇	大勇	真の勇気。
+j	大勝	大勝	crushing victory
+j	大勢	大勢	in a crowd, as a crowd
+j	大勲	大勲	a great deed, distinguish…
+j	大化	大化	great moral influence
+j	大北	大北	大敗すること。
+j	大匙	大匙	tablespoon
+j	大匠	大匠	技量の優れた職人。
+j	大区	大区	1872年から1878年にかけて設置された地方行政…
+j	大升	大升	律令制における容積の単位。約0.71リットル。小升…
+j	大半	大半	the greater part, most of
+j	大卒	大卒	having graduated from uni…
+j	大厄	大厄	おおきな厄難。
+j	大原	大原	a surname, 大 (Ō) - big; 原…
+j	大友	大友	a surname
+j	大台	大台	a benchmark; an important…
+j	大史	大史	a male given name
+j	大司	大司	a male given name
+j	大吉	大吉	very lucky
+j	大同	大同	roughly the same
+j	大名	大名	one who owns much land
+j	大后	大后	an empress (of ancient or…
+j	大君	大君	the emperor, His Majesty
+j	大吾	大吾	a male given name
+j	大呂	大呂	中国音楽における音名・十二律のひとつ。
+j	大命	大命	君主の命令。
+j	大和	大和	Yamato (a town in the Shi…
+j	大唐	大唐	「大唐米」（注：「たいとうごめ」「たいとうまい」と…
+j	大問	大問	question that is composed…
+j	大喊	大喊	大声で叫ぶこと。盛んにかちどきをあげること。
+j	大喚	大喚	大声で叫ぶこと。盛んにかちどきをあげること。
+j	大喜	大喜	大きな喜び。
+j	大喝	大喝	大きな声で叱ること。
+j	大喪	大喪	天皇の葬儀。
+j	大営	大営	大事業。大きな仕事。おおしごと。
+j	大嗣	大嗣	a male given name
+j	大嘗	大嘗	大嘗祭。
+j	大嘘	大嘘	huge lie; humongous lie; …
+j	大嘴	大嘴	a toucan, a bird in the f…
+j	大器	大器	大きな器、容器。
+j	大国	大国	big country, major power
+j	大圏	大圏	大きな輪。
+j	大地	大地	Earth, firm ground
+j	大坂	大坂	a surname
+j	大坪	大坪	a surname
+j	大型	大型	large size, large
+j	大垣	大垣	Ōgaki (a city in Gifu Pre…
+j	大城	大城	a surname
+j	大場	大場	a surname
+j	大塊	大塊	大きな塊。
+j	大塔	大塔	大きな塔。
+j	大塚	大塚	a surname
+j	大壇	大壇	密教の法要で導師が使用する大型で方形の壇。
+j	大壊	大壊	大きく崩れること。
+j	大壮	大壮	とても盛んであること。
+j	大声	大声	loud voice
+j	大変	大変	difficult, hard
+j	大夢	大夢	大きな理想や夢。
+j	大大	大大	large; fat
+j	大夫	大夫	an office in Zhou Dynasty…
+j	大奥	大奥	The inner chamber (inner …
+j	大奸	大奸	非常に悪賢いこと。また、そのような人。
+j	大妖	大妖	great demon
+j	大妻	大妻	本妻。
+j	大姉	大姉	徳が備わった女性。
+j	大姦	大姦	非常に悪賢いこと。また、そのような人。
+j	大姪	大姪	
+j	大字	大字	a large character
+j	大孝	大孝	非常に孝行であること。至孝。
+j	大学	大学	Great Learning
+j	大學	大學	
+j	大守	大守	古代中国の郡の長官。
+j	大安	大安	Fifth day of Rokkuyō cale…
+j	大宗	大宗	物事のおおもと。
+j	大官	大官	身分が高い官僚。高官。
+j	大宛	大宛	中国漢の時代、中央アジアのフェルガナ盆地にあったイ…
+j	大宝	大宝	a great treasure
+j	大宰	大宰	大宰府。
+j	大害	大害	大きな災害や損害。
+j	大家	大家	landlord or landlady, the…
+j	大寒	大寒	"Greater Cold" (one of tw…
+j	大寺	大寺	規模や勢力が大きな寺院。
+j	大専	大専	一番大切または大事なこと。また、そのようなさま。
+j	大射	大射	かつて一月十七日に内裏建礼門の門前で行われた弓射の…
+j	大将	大将	the commander of the 近衛府 …
+j	大尉	大尉	the senior 判官 (jō, “third…
+j	大小	大小	large and small
+j	大尺	大尺	律令制の長さの単位で、小尺による一尺二寸を一尺とす…
+j	大尽	大尽	rich person
+j	大尾	大尾	終わり。
+j	大局	大局	general situation; the wh…
+j	大層	大層	exaggerated
+j	大山	大山	great mountain
+j	大岳	大岳	大きい山。
+j	大島	大島	large island
+j	大崎	大崎	Ōsaki (a city in Miyagi P…
+j	大嶋	大嶋	a surname
+j	大嶌	大嶌	a surname
+j	大嶽	大嶽	「大岳」の別表記。
+j	大川	大川	Ōkawa (a city in Fukuoka …
+j	大州	大州	広大な陸地。大陸。
+j	大工	大工	carpenter
+j	大差	大差	large difference
+j	大巻	大巻	巻数、紙数が多い書物。
+j	大帝	大帝	a "great emperor" (used i…
+j	大師	大師	Great teacher; great or s…
+j	大帳	大帳	四度の公文の一つ。大計帳。
+j	大幅	大幅	wide, broad (especially m…
+j	大幣	大幣	a wooden wand with paper …
+j	大平	大平	a surname
+j	大庁	大庁	摂政、関白の母親に対する敬称。大政所。
+j	大度	大度	寛大で度量が大きいこと。また、そのようなさま。
+j	大庭	大庭	a surname
+j	大廈	大廈	large building; skyscrape…
+j	大廟	大廟	君主の祖霊を祀った御霊屋。
+j	大弁	大弁	（大辨）律令制で太政官の判官である弁官のうち上位の…
+j	大弊	大弊	甚大な弊害。
+j	大弓	大弓	a longbow, a great bow
+j	大弼	大弼	古代日本で紫微中台で少弼とともに次官。
+j	大役	大役	責任が重い任務。
+j	大従	大従	律令制で官職に就いている一品親王家、一位の公卿家に…
+j	大得	大得	大利。
+j	大徳	大徳	立派な徳。
+j	大心	大心	仏が悟りを得ようという心。大菩提心。
+j	大志	大志	great determination; grea…
+j	大忠	大忠	（たいちゅう、だいちゅう）この上なく大きな忠義。
+j	大恩	大恩	大きな恩。厚恩。
+j	大息	大息	溜め息をつくこと。嘆くこと。
+j	大悔	大悔	痛恨。
+j	大悟	大悟	enlightenment
+j	大患	大患	大きな憂いや心配。
+j	大悪	大悪	大きな悪事。
+j	大悲	大悲	great compassion
+j	大意	大意	purport, gist, general id…
+j	大愚	大愚	exceedingly foolish
+j	大慶	大慶	something very joyous and…
+j	大憂	大憂	大きな心配事。
+j	大憲	大憲	非常に重要な憲章。
+j	大戎	大戎	兵站業務をおこなう車両。重兵車。元戎。
+j	大成	大成	completion; accomplishment
+j	大我	大我	an enlightened person; on…
+j	大戒	大戒	背くことができない大きな法則。
+j	大戟	大戟	dried root of Euphorbia l…
+j	大戦	大戦	a great war, a great batt…
+j	大所	大所	大きな社寺。
+j	大手	大手	major company
+j	大才	大才	優れた才能や器量。また、それを持った人。宏才。
+j	大抵	大抵	おおよそ。おおかた。大概。大体。
+j	大挙	大挙	大勢で向かうこと。
+j	大捷	大捷	「大勝」の異綴。
+j	大損	大損	大きな損害。
+j	大政	大政	天下を統治する政。
+j	大敗	大敗	crushing defeat
+j	大数	大数	大きな数値。
+j	大敵	大敵	powerful rival; strong en…
+j	大斂	大斂	納棺の礼。
+j	大斗	大斗	枓栱の最下部にある最も大きな斗。
+j	大斧	大斧	両手で用いる中国の戦斧の一種。
+j	大方	大方	the majority, the large p…
+j	大日	大日	
+j	大旨	大旨	概要。大意。
+j	大旱	大旱	長期間雨が降らず、ひどい日照りとなること。
+j	大昌	大昌	a male given name
+j	大明	大明	太陽（と月）。
+j	大昔	大昔	very distant past
+j	大晦	大晦	the last day of the year,…
+j	大景	大景	広く雄大な景色。
+j	大智	大智	広大で優れた知恵。
+j	大暑	大暑	Greater Heat (12th of the…
+j	大曲	大曲	highest ranking of gagaku…
+j	大書	大書	writing in large script
+j	大會	大會	
+j	大月	大月	a city in Yamanashi Prefe…
+j	大有	大有	六十四卦の一つ。卦の形はであり、乾下離上で構成され…
+j	大望	大望	大きな希望。
+j	大木	大木	large tree
+j	大本	大本	foundation, basis
+j	大杉	大杉	a surname
+j	大村	大村	Ōmura (a city in Nagasaki…
+j	大束	大束	束が大きいこと。また、そのようなもの。
+j	大杯	大杯	大きなさかずき。
+j	大東	大東	東の果て。極東。
+j	大林	大林	a surname
+j	大枚	大枚	vast sum of money
+j	大枝	大枝	
+j	大柄	大柄	large, big-boned
+j	大核	大核	原生生物の繊毛虫類の細胞にある2種類の細胞核のうち…
+j	大根	大根	the fundamental root or o…
+j	大棗	大棗	dried jujube fruit
+j	大棟	大棟	ridge (highest point on a…
+j	大森	大森	a surname
+j	大検	大検	文部科学省が行っていた大学入学資格検定。2005年…
+j	大業	大業	a great deed; a grand und…
+j	大楼	大楼	大きな楼閣。
+j	大概	大概	generality
+j	大槻	大槻	a surname
+j	大権	大権	明治憲法で天皇が有する統治権。
+j	大樹	大樹	big tree
+j	大橋	大橋	a surname
+j	大機	大機	大政。
+j	大檣	大檣	メーンマスト。
+j	大正	大正	the Taishō era, 1912-1926
+j	大段	大段	大略。大体。おおよそ。
+j	大毅	大毅	律令制で一つの軍団の長官。
+j	大毒	大毒	非常に有毒なもの。また、その毒。
+j	大気	大気	an atmosphere
+j	大水	大水	flood
+j	大永	大永	the Daiei era, 1521-1528
+j	大汗	大汗	モンゴル帝国の支配者（皇帝）の称号。
+j	大江	大江	a surname
+j	大沢	大沢	a surname
+j	大河	大河	a large river
+j	大治	大治	the Daiji era, 1126–1131
+j	大沼	大沼	a surname
+j	大波	大波	great wave
+j	大洋	大洋	great sea
+j	大洗	大洗	大洗町: Ōarai (a town in Iba…
+j	大津	大津	a large port or harbor
+j	大洲	大洲	a city in Ehime Prefectur…
+j	大浦	大浦	a surname
+j	大浪	大浪	大きな波。
+j	大海	大海	ocean
+j	大清	大清	中国の清王朝。
+j	大渦	大渦	大きな「うず」。特に、大きく渦を巻く海水。大型の渦…
+j	大湾	大湾	a surname
+j	大満	大満	傲ること。
+j	大滝	大滝	a surname
+j	大漁	大漁	漁業において、獲物が多く水揚げされること。
+j	大漢	大漢	大男。
+j	大漸	大漸	（特に天子の）病気が次第に悪くなること。
+j	大潦	大潦	大水。
+j	大濤	大濤	大波。波濤。
+j	大瀛	大瀛	大海。
+j	大灘	大灘	山（陸地）が見えなくなるほどの沖合い。外洋。
+j	大火	大火	large fire, inferno, conf…
+j	大炊	大炊	the Emperor's (rice) meal
+j	大熊	大熊	a surname
+j	大熱	大熱	高熱。
+j	大父	大父	祖父。
+j	大爺	大爺	伯父。
+j	大牢	大牢	古代中国において天子が神へ捧げた牛・羊・豚などの供…
+j	大物	大物	大きな物。おおもの。
+j	大特	大特	「大型特殊自動車」または「大型特殊自動車免許（大型…
+j	大獄	大獄	重大な犯罪、事件により多くの人が検挙され、投獄され…
+j	大王	大王	a "great king" (used in t…
+j	大理	大理	根本となる道理。
+j	大瑞	大瑞	非常にめでたい前兆。
+j	大甥	大甥	
+j	大用	大用	（たいよう）重要なはたらき。重大な要件。重要なはた…
+j	大田	大田	a city in Shimane Prefect…
+j	大畑	大畑	a surname
+j	大畜	大畜	たくさん蓄える。
+j	大略	大略	approximately
+j	大番	大番	殿上人が宮中に当直すること。
+j	大疫	大疫	広い範囲に拡大した疫病。
+j	大病	大病	a severe illness
+j	大痴	大痴	非常に愚かであること。大愚。
+j	大癡	大癡	非常に愚かであること。大愚。
+j	大白	大白	大きな盃。大盃。
+j	大皿	大皿	large dish
+j	大盃	大盃	大きな盃。
+j	大盗	大盗	人数が多く規模も大きい泥棒。
+j	大盞	大盞	大きな盃。大杯。
+j	大監	大監	太宰府の判官（三等官）のうち少監の上位。
+j	大盤	大盤	a tray for carrying food …
+j	大矢	大矢	a surname
+j	大知	大知	a male given name
+j	大矩	大矩	大地。
+j	大石	大石	a surname
+j	大砲	大砲	gun
+j	大破	大破	heavy damage
+j	大礫	大礫	直径が64ミリメートル以上256ミリメートル未満の…
+j	大礼	大礼	国家や皇室における重要な儀式。
+j	大社	大社	an especially large or hi…
+j	大祐	大祐	a male given name
+j	大祝	大祝	古代の官職の一つ。
+j	大神	大神	a god
+j	大祥	大祥	「大祥忌」の略。
+j	大祭	大祭	社寺などで重要な祭事。
+j	大禄	大禄	多くの俸禄や知行。
+j	大禍	大禍	大きな災い。
+j	大福	大福	daifuku, a Japanese confe…
+j	大禘	大禘	郊祭。
+j	大秦	大秦	中国漢代、ローマ帝国に対する呼称。
+j	大空	大空	firmament; heavens; sky
+j	大竇	大竇	大きな穴。
+j	大童	大童	having messy hair
+j	大端	大端	あらまし。
+j	大竹	大竹	a surname
+j	大笑	大笑	uproarious laughter
+j	大筋	大筋	outline; gist; summary
+j	大筒	大筒	a large bamboo sake barrel
+j	大節	大節	大きな節操。
+j	大篆	大篆	large seal script: a call…
+j	大簇	大簇	「太簇」の別表記。
+j	大簡	大簡	簡略すぎるさま。
+j	大粒	大粒	large drop
+j	大粮	大粮	律令時代において、下級の役人に支給された米・塩・布…
+j	大系	大系	一つのテーマのもとに、主要な項目を一定の順序に系統…
+j	大約	大約	大体の状態。
+j	大経	大経	（たいけい）大きな道筋。大道。
+j	大統	大統	皇統。洪統。
+j	大綱	大綱	fundamental principles; o…
+j	大編	大編	長く雄大に書かれた編章の詩歌や文章。
+j	大罪	大罪	grave sin; deadly sin; gr…
+j	大群	大群	a large group of people o…
+j	大義	大義	重要または大切な意義や意味。
+j	大翔	大翔	a male given name
+j	大老	大老	尊敬される高齢の賢人。
+j	大聖	大聖	（だいしょう）仏の尊称。
+j	大股	大股	having one's legs far apa…
+j	大胆	大胆	bold, daring
+j	大脳	大脳	cerebrum
+j	大腸	大腸	large intestine, bowel, c…
+j	大腿	大腿	thigh
+j	大膳	大膳	grey plover, Pluvialis sq…
+j	大膽	大膽	
+j	大臣	大臣	a government minister of …
+j	大興	大興	
+j	大舶	大舶	大きな船舶。
+j	大船	大船	大きな船。
+j	大艦	大艦	大きな軍艦。
+j	大著	大著	
+j	大葬	大葬	天皇・太皇太后・皇太后・皇后の葬儀。
+j	大蒜	大蒜	garlic
+j	大蔵	大蔵	an imperial treasury
+j	大薊	大薊	milk thistle, Silybum mar…
+j	大薬	大薬	非常に高価な薬。
+j	大薯	大薯	
+j	大藤	大藤	a surname
+j	大藩	大藩	石高（領地）の大きい藩。
+j	大虎	大虎	酷く酒に酔った人。
+j	大蚊	大蚊	a cranefly
+j	大蛇	大蛇	a large snake
+j	大蟲	大蟲	虎。
+j	大衆	大衆	the public
+j	大行	大行	大きな仕事や事業。
+j	大裕	大裕	a male given name
+j	大西	大西	a surname
+j	大要	大要	gist, summary, outline, m…
+j	大覚	大覚	正覚を得ること。悟りを開くこと。
+j	大観	大観	wide view, broad survey
+j	大角	大角	（だいかく）アルクトゥルス。うしかい座のアルファ星。
+j	大言	大言	分不相応に大袈裟に言うこと。
+j	大計	大計	大規模な計画。遠大な計画。
+j	大証	大証	大阪証券取引所の略。
+j	大詔	大詔	天皇が国民に告げる詔勅。
+j	大谷	大谷	a surname
+j	大豆	大豆	soybean, soya
+j	大豪	大豪	大富豪。
+j	大貫	大貫	a surname
+j	大貴	大貴	a male given name
+j	大賀	大賀	a surname
+j	大賞	大賞	grand prize
+j	大賢	大賢	非常に賢いこと。また、そのような人。賢人。
+j	大赤	大赤	陰陽道における凶日の一つ赤口日のこと。
+j	大赦	大赦	amnesty
+j	大越	大越	the official name referri…
+j	大路	大路	wide road
+j	大身	大身	高い身分の者。高位で禄が多い者。
+j	大車	大車	elecampane (Inula heleniu…
+j	大軍	大軍	large army
+j	大較	大較	あらまし。大概。大略。
+j	大輔	大輔	a male given name
+j	大輝	大輝	a male given name
+j	大輦	大輦	王の手車（車輪のついた輦）。
+j	大輪	大輪	large-flowered
+j	大農	大農	豪農。
+j	大迫	大迫	a surname
+j	大逆	大逆	high treason
+j	大造	大造	天皇の慶事により大赦すること。
+j	大連	大連	Dalian (a major subprovin…
+j	大進	大進	律令制における中宮職などに置かれた四等官の判官のう…
+j	大過	大過	serious error
+j	大道	大道	（だいどう）幅の広い道路。
+j	大遠	大遠	極めて遠いこと。また、そのようなさま。極遠。
+j	大邱	大邱	Daegu (a city in South Ko…
+j	大郎	大郎	a male given name
+j	大部	大部	lengthy
+j	大都	大都	大きな都市。
+j	大酒	大酒	たくさんの量の酒を飲むこと。
+j	大酔	大酔	酒にひどく酔うこと。
+j	大野	大野	Ōno (a city in Fukui Pref…
+j	大量	大量	mass, massive
+j	大金	大金	大量の現金。大きな金額。
+j	大釜	大釜	cauldron
+j	大銜	大銜	大官。高官。
+j	大鋸	大鋸	large saw for cutting boa…
+j	大鎌	大鎌	a scythe, a curved, conca…
+j	大鑑	大鑑	ある特定分野の事項について網羅し、その一冊をみれば…
+j	大門	大門	large front gate
+j	大関	大関	ozeki, literally 'great b…
+j	大阪	大阪	a surname
+j	大陸	大陸	a continent
+j	大隅	大隅	Ōsumi Province, an old pr…
+j	大隈	大隈	a surname
+j	大隊	大隊	a battalion
+j	大隠	大隠	総てを悟りきり、俗事に惑わされない超越者。
+j	大雅	大雅	純粋で高潔であること。
+j	大難	大難	大きな災難や難儀。
+j	大雨	大雨	heavy rain, downpour
+j	大雪	大雪	heavy snow
+j	大震	大震	非常に被害が大きい地震。大地震。
+j	大霧	大霧	濃霧。
+j	大青	大青	アブラナ科の二年草。中国原産。葉は青色染料の原料と…
+j	大面	大面	(タイメン、おおづら、おおつら)体の割に大きな顔。
+j	大韓	大韓	
+j	大音	大音	大きな音や声。大音声。
+j	大領	大領	律令制における郡司の長。
+j	大頭	大頭	leader of a large group
+j	大願	大願	大きな願い。
+j	大風	大風	（おおかぜ、たいふう）強く吹く風。
+j	大食	大食	gluttony
+j	大飯	大飯	big meals
+j	大饗	大饗	盛大な饗宴。
+j	大駒	大駒	major piece
+j	大高	大高	a surname
+j	大魁	大魁	心が広く立派なこと。また、そのようなさま。
+j	大魚	大魚	a big fish
+j	大鮃	大鮃	
+j	大鯨	大鯨	大きな鯨
+j	大鴉	大鴉	
+j	大鴎	大鴎	
+j	大鷭	大鷭	coot, specifically Eurasi…
+j	大鷲	大鷲	a Steller's sea eagle (Ha…
+j	大鷺	大鷺	ダイサギ。
+j	大鹿	大鹿	a large deer
+j	大麦	大麦	barley
+j	大麻	大麻	hemp, cannabis
+j	大黄	大黄	rhubarb, plants of genus …
+j	大黒	大黒	Daikokuten, Japanese name…
+j	姧濫	姧濫	よこしまで、淫らなこと。
+j	寧ろ	寧ろ	rather, instead
+j	寧夏	寧夏	Ningxia, Ningxia Hui Auto…
+j	寧子	寧子	a female given name
+j	寧安	寧安	
+j	寧平	寧平	
+j	寧志	寧志	a male given name
+j	寧日	寧日	peaceful days; time of pe…
+j	寧波	寧波	Ningbo (a port city, pref…
+j	寧順	寧順	
+j	岧岧	岧岧	山が高いさま。
+j	巧い	巧い	
+j	巧偽	巧偽	巧みに人を偽ること。
+j	巧匠	巧匠	技が巧みな大工。
+j	巧妙	巧妙	ingenious; skillful; clev…
+j	巧弁	巧弁	弁舌が巧みなこと。
+j	巧打	巧打	打者がうまい打ち方をすること。難しいボールでも上手…
+j	巧技	巧技	巧みな技術や技芸などのこと。
+j	巧拙	巧拙	workmanship, skill, abili…
+j	巧智	巧智	巧みな才知。
+j	巧知	巧知	巧みな才知。
+j	巧笑	巧笑	愛嬌のある笑い。
+j	巧緻	巧緻	精巧で、また緻密であること。
+j	巧者	巧者	熟練していて巧みなこと。また、そのような人やさま。
+j	巧舌	巧舌	巧言。
+j	巧芸	巧芸	技芸。
+j	巧言	巧言	flattery
+j	巧計	巧計	巧みな謀。
+j	巧詐	巧詐	巧みに騙すこと。
+j	巧説	巧説	言葉が巧みなこと。
+j	巧遅	巧遅	出来は精巧であるが、時間がかかること。
+j	座る	座る	to sit, to have a seat
+j	座れ	座れ	
+j	座上	座上	上席。上座。
+j	座下	座下	座席の側。座右。
+j	座中	座中	座敷の中。
+j	座主	座主	学徳が優れ、一座の上首である僧。
+j	座乗	座乗	指揮官や司令官が艦船や飛行機に搭乗して指揮を執るこ…
+j	座位	座位	seat
+j	座像	座像	statue in sitting posture
+j	座剤	座剤	「坐剤」を参照。
+j	座卓	座卓	a low table, used while s…
+j	座右	座右	身近。身辺。
+j	座員	座員	劇団などの一座に所属する人。
+j	座学	座学	learning by pure classroo…
+j	座客	座客	その場に同席している客。
+j	座射	座射	弓道で膝を地につけた姿勢で矢を番えて、立ち上がって…
+j	座屈	座屈	柱状のものや縦長の板などに縦方向に圧力を加えた時、…
+j	座州	座州	船舶が浅瀬に乗り上げて動けなくなること。
+j	座席	座席	seat
+j	座敷	座敷	a traditional Japanese-st…
+j	座業	座業	座って行う仕事や職業。坐業。
+j	座標	座標	coordinate
+j	座次	座次	座る場所の順序。席次。席順。
+j	座法	座法	way of sitting, way to sit
+j	座礁	座礁	running aground
+j	座礼	座礼	座ったままで行う礼。
+j	座禅	座禅	a form of sitting meditat…
+j	座職	座職	sedentary job
+j	座臥	座臥	座ることと横になって寝ること。起居。
+j	座興	座興	主に宴会の席などでその場を楽しませる遊芸。
+j	座蒲	座蒲	Japanese-style bedding
+j	座薬	座薬	suppository
+j	座視	座視	傍観しているだけで手を出さないこと。
+j	座談	座談	座って楽に話し合うこと。
+j	座部	座部	
+j	座金	座金	washer (flat disk)
+j	座長	座長	劇団、演芸などの一座の頭。
+j	座隠	座隠	囲碁。また、囲碁を打つこと。
+j	座頭	座頭	blind man
+j	座食	座食	living in idleness
+j	座骨	座骨	an ischium
+j	座高	座高	sitting height, formerly …
+j	弧度	弧度	「ラジアン」に同じ。
+j	弧灯	弧灯	アーク灯の別称。
+j	弧状	弧状	弓形になっている状態。
+j	弧辰	弧辰	男子の生まれた日に門へ弓を掛けること。
+j	弧長	弧長	弧の長さ。
+j	彧彧	彧彧	草木が茂る様。
+j	性交	性交	sexual intercourse, sex, …
+j	性具	性具	a sex toy (sex aid)
+j	性典	性典	性のことについて書かれた書物。
+j	性分	性分	nature (of a person)
+j	性別	性別	sex, gender
+j	性力	性力	sexual energy
+j	性向	性向	propensity; inclination; …
+j	性命	性命	生まれながらの性質と運命。
+j	性善	性善	the fundamental virtue of…
+j	性器	性器	genitalia; sex organs
+j	性地	性地	性情。
+j	性夜	性夜	Christmas Eve, as a night…
+j	性奴	性奴	sex slave
+j	性巣	性巣	生殖腺のこと。男性（雄）の精巣、女性（雌）の卵巣。…
+j	性差	性差	difference between the ge…
+j	性徴	性徴	a sex characteristic
+j	性急	性急	brash; impatient
+j	性悪	性悪	bad-tempered
+j	性情	性情	disposition, nature
+j	性愛	性愛	eros
+j	性感	性感	sexual feeling
+j	性慾	性慾	「性欲」の別表記。
+j	性戒	性戒	（仏教）その行為自体が罪となるものを戒としたもの。
+j	性技	性技	性愛、性行為などに関する技巧。
+j	性旭	性旭	a male given name
+j	性智	性智	知恵。
+j	性来	性来	いわれ。由来
+j	性根	性根	一つのことを長くやり続ける根気。
+j	性格	性格	character of human (perso…
+j	性欲	性欲	lust; sexual desire
+j	性比	性比	
+j	性毛	性毛	陰部に生える毛。陰毛。
+j	性氏	性氏	性と氏
+j	性法	性法	自然法。
+j	性活	性活	Used as a replacement for…
+j	性海	性海	海のように広く深い仏の真如の世界。
+j	性状	性状	人の性格と行動。
+j	性獣	性獣	extremely sexual being
+j	性理	性理	人の本性と天による運命。
+j	性病	性病	a sexually transmitted di…
+j	性癖	性癖	eccentricity, strange hab…
+j	性的	性的	sexual, sexually
+j	性習	性習	習慣。
+j	性能	性能	performance, efficiency
+j	性腺	性腺	生殖腺。男性（雄）の精巣、女性（雌）の卵巣。
+j	性行	性行	character and conduct
+j	性豪	性豪	多くの相手と性行為を経験している者。
+j	性質	性質	a person's nature or disp…
+j	性霊	性霊	霊妙な心。精神。
+j	性骨	性骨	技芸などでその人がもっている生まれつきのうまさ。
+j	悧口	悧口	「利口」の別表記。
+j	悧巧	悧巧	「利口」の別表記。
+j	惧れ	惧れ	
+j	愧佩	愧佩	恥じて服すること。愧服。
+j	愧忿	愧忿	愧憤。
+j	愧憤	愧憤	恥じ、憤ること。
+j	愧服	愧服	恥じて服すること。愧佩。
+j	愧死	愧死	恥ずかしく思い死ぬこと。
+j	愧艴	愧艴	恥じて怒ること。
+j	愧赧	愧赧	恥ずかしさのあまり赤面すること。愧靦。
+j	愧靦	愧靦	恥ずかしさのあまり赤面すること。愧赧。
+j	慧子	慧子	a female given name
+j	慧極	慧極	a surname
+j	慧眼	慧眼	discerning
+j	慧知	慧知	a male given name
+j	憧れ	憧れ	yearning; longing
+j	憧憬	憧憬	longing
+j	捧ぐ	捧ぐ	synonym of 捧げる (sasageru)
+j	捧呈	捧呈	手に捧げて差し上げること。
+j	捧手	捧手	拱手。
+j	捧持	捧持	高く捧げ、持つこと。
+j	捧腹	捧腹	腹を抱えて笑うこと。
+j	捧袂	捧袂	拱手。
+j	捧読	捧読	目の前に高く捧げるように持って読むこと。
+j	控え	控え	
+j	控制	控制	捕らえて自由に行動させないこと。
+j	控室	控室	
+j	控訴	控訴	the first appeal to a hig…
+j	控除	控除	that which is deducted; d…
+j	摧兀	摧兀	高く聳えるさま。
+j	摧心	摧心	心を砕き、苦心すること。
+j	摧挫	摧挫	挫くこと。
+j	摧身	摧身	身を砕き、苦労すること。
+j	摧鋒	摧鋒	敵の鋭鋒を砕くこと。
+j	敧倒	敧倒	倒れること。
+j	敧坐	敧坐	楽に座ること。
+j	敧牀	敧牀	籐で作られた椅子。
+j	斧政	斧政	斧正すること。
+j	斧斤	斧斤	まさかり。おの。
+j	斧槍	斧槍	
+j	斧正	斧正	freely copyediting anothe…
+j	斧繍	斧繍	斧の形の刺繍。
+j	斧藻	斧藻	梁楹の飾り。
+j	斧資	斧資	旅費。
+j	斧道	斧道	日本の武道の一つ。斧を用いて戦い心身を鍛錬すること…
+j	斧鉞	斧鉞	axe and hatchet
+j	旧中	旧中	戦前の学校令に基づく中学校。
+j	旧交	旧交	昔からの付き合い。
+j	旧人	旧人	paleoanthropic man (e.g. …
+j	旧伝	旧伝	古くから言い伝えられていること。
+j	旧住	旧住	古くから居住していること。
+j	旧債	旧債	昔の負債。
+j	旧儀	旧儀	古来の儀式。
+j	旧典	旧典	古い法典や制度。
+j	旧制	旧制	old system, old style
+j	旧券	旧券	日本で1885年に発行が開始された紙幣。
+j	旧劇	旧劇	新劇、新派劇に対し能楽、歌舞伎など日本古来の演劇。
+j	旧労	旧労	長年出仕し功労があること。また、その功労。
+j	旧友	旧友	old friend, crony
+j	旧号	旧号	雑誌などの古い号。バックナンバー。
+j	旧名	旧名	former name
+j	旧国	旧国	歴史のある国。
+j	旧堤	旧堤	つくりかえることが必要な堤防。
+j	旧墟	旧墟	remains of ruins
+j	旧大	旧大	戦前の学校令に基づく大学。
+j	旧夫	旧夫	かつての夫。前夫。
+j	旧套	旧套	古びたやり方。
+j	旧姓	旧姓	a "former family name" (a…
+j	旧婦	旧婦	かつての妻。前妻。
+j	旧字	旧字	"old characters": synonym…
+j	旧宅	旧宅	以前居住していた家。
+j	旧家	旧家	old, distinguished house,…
+j	旧小	旧小	戦前の学校令による小学校。
+j	旧居	旧居	former residence
+j	旧巣	旧巣	古巣のこと。
+j	旧帝	旧帝	旧帝国大学の略。
+j	旧年	旧年	last year
+j	旧弊	旧弊	antiquated
+j	旧式	旧式	old-fashioned
+j	旧怨	旧怨	古くから持つ怨み。
+j	旧悪	旧悪	むかし犯した悪事。
+j	旧情	旧情	昔から心に抱いている感情。
+j	旧態	旧態	old state of affairs, bus…
+j	旧慣	旧慣	古い習慣、ならわし。
+j	旧懐	旧懐	昔を懐かしく思うこと。
+j	旧故	旧故	古くからのなじみ。旧友。
+j	旧教	旧教	synonym of カトリシズム (Katori…
+j	旧日	旧日	the old days
+j	旧暦	旧暦	the old lunisolar Japanes…
+j	旧書	旧書	古文書。
+j	旧来	旧来	being from since previous…
+j	旧染	旧染	古くからのならわし。旧慣。
+j	旧株	旧株	old stock
+j	旧業	旧業	昔やっていたしごとや業務。
+j	旧法	旧法	古い法令。廃止された法令。
+j	旧注	旧注	古典でかつて出された註釈。古注。
+j	旧派	旧派	old school
+j	旧版	旧版	old edition, former editi…
+j	旧物	旧物	古くからある物。
+j	旧病	旧病	持病。
+j	旧盆	旧盆	陰暦（旧暦）で行うお盆。
+j	旧知	旧知	old acquaintance
+j	旧称	旧称	former name, old name
+j	旧章	旧章	先王が制定した旧法。古くからのきまり。
+j	旧約	旧約	以前の約束や契約。
+j	旧縁	旧縁	昔の縁故。
+j	旧績	旧績	昔の功績。
+j	旧罪	旧罪	古い罪。
+j	旧習	旧習	ancient customs or practi…
+j	旧聞	旧聞	かつて聞いて新しくない話。
+j	旧臘	旧臘	新年からみて昨年の十二月。
+j	旧臣	旧臣	昔から仕えている家臣。
+j	旧蔵	旧蔵	以前から所蔵していること。
+j	旧藩	旧藩	former 藩 (han, “domain”)
+j	旧規	旧規	かつてあった規定。
+j	旧観	旧観	昔のありさまや姿。
+j	旧記	旧記	古い事柄を記した文書。
+j	旧訳	旧訳	（きゅうやく）昔翻訳された訳。
+j	旧説	旧説	かつて唱えられていた説。
+j	旧誼	旧誼	古い馴染みや誼。
+j	旧識	旧識	古くからの知り合い。
+j	旧跡	旧跡	かつて歴史上の事件や戦などがあった場所。古跡。
+j	旧車	旧車	classic car, collectible …
+j	旧遊	旧遊	以前来訪、旅行したことがあること。
+j	旧道	旧道	old road
+j	旧邸	旧邸	かつて住んでいた屋敷。
+j	旧都	旧都	former capital
+j	旧里	旧里	hometown
+j	旧離	旧離	江戸時代、目上の者（伯父、兄など）から失踪など不品…
+j	旧領	旧領	古来領有している土地。
+j	旧題	旧題	以前の古い題。
+j	旧館	旧館	旧い館。特に、新館と対比して古い方の館。
+j	旧高	旧高	戦前の学校令に基づく高等学校。旧制高等学校の略。
+j	昧旦	昧旦	明け方の薄暗い時分。未明。昧爽。
+j	昧死	昧死	（死をも覚悟して）意見を上申・具申すること。
+j	昧爽	昧爽	明け方の薄暗い時分。未明。昧旦。
+j	朧夜	朧夜	朧月の夜。
+j	朧月	朧月	the moon on a hazy night,…
+j	朧朣	朧朣	鼓の音が畳み、重なるさま。
+j	朧気	朧気	dim, faint, hazy
+j	朧雲	朧雲	synonym of 高層雲 (kōsōun, “…
+j	桧山	桧山	a male given name
+j	梧岫	梧岫	先帝の墓所。
+j	梧桐	梧桐	synonym of 青桐 (aogiri, “C…
+j	梧楸	梧楸	梧桐と木豇豆。
+j	梧葉	梧葉	「あおぎり」の葉。
+j	槧工	槧工	刻字工。
+j	欧亜	欧亜	Eurasia (a supercontinent…
+j	欧人	欧人	European
+j	欧化	欧化	ヨーロッパ風にすること。
+j	欧字	欧字	ヨーロッパの文字。主にラテン文字。
+j	欧州	欧州	Europe (a continent locat…
+j	欧文	欧文	European (Latin) characte…
+j	欧洲	欧洲	（欧羅巴洲の略）ヨーロッパ、欧州。
+j	欧米	欧米	Developed nations of Euro…
+j	欧陽	欧陽	a surname from Chinese
+j	欧露	欧露	ヨーロッパロシア。
+j	欧風	欧風	ヨーロッパの形式、気風。
+j	湧き	湧き	welling up, surging
+j	湧出	湧出	gushing forth
+j	湧川	湧川	a surname
+j	湧水	湧水	地中から水が湧き出ること。また、その水。湧き水。
+j	湧泉	湧泉	湧出する泉。
+j	湧然	湧然	水などが涌出すること。
+j	照り	照り	sunshine
+j	照る	照る	to shine
+j	照久	照久	a male given name
+j	照乾	照乾	乾杯すること。
+j	照井	照井	a surname
+j	照人	照人	a male given name
+j	照会	照会	inquiry, reference
+j	照依	照依	例に依ること。
+j	照勘	照勘	照合すること。
+j	照勝	照勝	a male given name
+j	照合	照合	collation; comparison
+j	照嘉	照嘉	a male given name
+j	照夫	照夫	a male given name
+j	照子	照子	a female given name
+j	照察	照察	本質をはっきり察知すること。洞察。
+j	照対	照対	二つの物事が対応すること。対照。
+j	照射	照射	exposure to light
+j	照尺	照尺	銃の照準装置。銃身の手前側に取り付け、銃身の先端に…
+j	照幸	照幸	a male given name
+j	照度	照度	illuminance
+j	照影	照影	映った影。
+j	照応	照応	二つの物事が相互に関連し、対応すること。
+j	照文	照文	a male given name
+j	照明	照明	lighting
+j	照星	照星	銃身の先端上方にある突起で照尺とともに照準をあわせ…
+j	照映	照映	照り、映えること。
+j	照朝	照朝	a male given name
+j	照校	照校	文章などを照合して確認すること。
+j	照款	照款	引き合わせること。
+j	照準	照準	one's aim, a sight at som…
+j	照然	照然	明らかなさま。
+j	照看	照看	世話をすること。
+j	照破	照破	仏の智慧の光が無明の闇を照らして打ち破ること。
+j	照管	照管	気をつけること。世話をすること。
+j	照美	照美	a female given name
+j	照見	照見	映し出すこと。
+j	照覧	照覧	はっきり見ること。
+j	照鑒	照鑒	宗教用語で神仏が衆生を照らしみて守ること。神仏が目…
+j	照門	照門	銃の照準を合わせる器具の一つ。照尺に付属し、照星と…
+j	照雄	照雄	a male given name
+j	照顧	照顧	reflecting upon, consider…
+j	照験	照験	照勘すること。
+j	燧人	燧人	古代中国の伝説的な帝王。火の使い方と食に対する利用…
+j	燧木	燧木	火を取る木材。
+j	燧火	燧火	打ち火。切り火。
+j	燧烟	燧烟	燧煙の異表記。
+j	燧烽	燧烽	狼煙。
+j	燧煙	燧煙	烽火。
+j	燧石	燧石	flint
+j	燧鏡	燧鏡	火を取る鏡。
+j	牧人	牧人	herdsman, shepherd
+j	牧会	牧会	プロテスタントの教会で牧師が教会のために行う説教や…
+j	牧原	牧原	a surname
+j	牧地	牧地	牧畜を行う土地。牧草地。
+j	牧場	牧場	livestock farm, ranch
+j	牧夫	牧夫	herdsman
+j	牧子	牧子	a female given name
+j	牧守	牧守	（中国で）地方の長官。
+j	牧師	牧師	clergyman, pastor, minist…
+j	牧月	牧月	
+j	牧本	牧本	a surname
+j	牧歌	牧歌	songs sung by shepherds
+j	牧民	牧民	人民を治めること。
+j	牧瀬	牧瀬	a surname
+j	牧田	牧田	a surname
+j	牧畜	牧畜	pastoralism
+j	牧童	牧童	牧場で家畜の世話をする者。（特に子供を指す）
+j	牧笛	牧笛	a whistle, a flute use to…
+j	牧羊	牧羊	羊の飼育繁殖をすること。
+j	牧舎	牧舎	牧場で飼育している家畜を入れるための建物。
+j	牧草	牧草	pasturage, grass for graz…
+j	牧谷	牧谷	a surname
+j	牧豎	牧豎	牧童。
+j	牧野	牧野	livestock farm; ranch
+j	獧捷	獧捷	敏捷なこと。また、そのようなさま。
+j	獧浮	獧浮	軽薄。
+j	獧給	獧給	敏捷。
+j	獧薄	獧薄	軽薄。
+j	獧黠	獧黠	険猾の異表記。
+j	瘧師	瘧師	a surname
+j	瘧疾	瘧疾	瘧。
+j	盧橘	盧橘	synonym of 金柑 (kinkan, “k…
+j	砧声	砧声	砧で物を叩く音。
+j	砧骨	砧骨	an anvil; an incus (bone …
+j	碧唯	碧唯	a female given name
+j	碧天	碧天	blue sky
+j	碧梧	碧梧	「あおぎり」の異名。
+j	碧海	碧海	blue sea
+j	碧漣	碧漣	碧く透き通った水が波打つこと。
+j	碧玉	碧玉	jasper (precious stone, m…
+j	碧生	碧生	a female given name
+j	碧眼	碧眼	blue eyes
+j	碧空	碧空	blue sky
+j	碧落	碧落	blue sky
+j	碧虚	碧虚	blue sky
+j	碧霄	碧霄	blue sky
+j	磧礫	磧礫	河原の小石。
+j	礧砢	礧砢	「磊砢」の別表記。
+j	秧歌	秧歌	田植え歌。
+j	秧田	秧田	苗代。
+j	秧鶏	秧鶏	
+j	簧舌	簧舌	巧言。
+j	粧す	粧す	dress up oneself, adorn o…
+j	粧具	粧具	化粧に使用する道具。
+j	粧奩	粧奩	繍奩。
+j	粧扮	粧扮	扮装すること。
+j	粧梳	粧梳	髪を結うこと。
+j	粧痕	粧痕	化粧したあと。
+j	糧仗	糧仗	食糧と武器。
+j	糧秣	糧秣	food and fodder; provisio…
+j	糧米	糧米	食糧としての米。
+j	糧途	糧途	生活の糧を得る方法。
+j	糧道	糧道	食料を運搬する道。
+j	糧食	糧食	食糧。食物。特に、貯蔵ないしは携行する食糧。
+j	繧繝	繧繝	a dyed pattern consisting…
+j	臧貶	臧貶	褒貶すること。
+j	苧環	苧環	a winding or ball of hemp…
+j	苧麻	苧麻	synonym of 苧 (karamushi, …
+j	虧全	虧全	欠けることと、満ちること。虧盈。
+j	虧損	虧損	利益などが欠けて損なわれること。
+j	虧盈	虧盈	欠けることと、満ちること。虧全。
+j	虧累	虧累	巻き添え。
+j	虧膳	虧膳	自粛して食膳を減らすこと。減膳。
+j	蠧毒	蠧毒	虫による食害。
+j	蠧賊	蠧賊	物事を損ない、害すること。また、それを行う者。
+j	覧者	覧者	閲覧する人。読者。
+j	諧和	諧和	harmony
+j	諧声	諧声	音声が調和すること、また、調和した音声。
+j	諧応	諧応	よく調和し、和むこと。
+j	諧易	諧易	くつろぎ、親しむこと。
+j	諧謔	諧謔	humor
+j	諧附	諧附	従い、付くこと。
+j	諧音	諧音	音が調和すること。音の調和。
+j	貧し	貧し	stem of 貧する
+j	貧乏	貧乏	poor
+j	貧乳	貧乳	small breasts; flat chest
+j	貧僧	貧僧	貧乏な僧侶。
+j	貧困	貧困	poor, impoverished
+j	貧地	貧地	貧しい人々が暮らす土地。
+j	貧学	貧学	貧しくとも学問にはげむこと。
+j	貧家	貧家	生活に困窮している家庭。貧しい家。
+j	貧富	貧富	wealth and poverty
+j	貧弱	貧弱	poor, feeble, scanty
+j	貧打	貧打	打撃がふるわないこと。打線の調子が悪く、好機でも得…
+j	貧果	貧果	乏しい果報、結果。
+j	貧民	貧民	poor person
+j	貧生	貧生	貧しい人。また、貧しい書生。
+j	貧相	貧相	having a shabby, poor fig…
+j	貧窮	貧窮	extreme poverty
+j	貧者	貧者	poor person; pauper
+j	貧苦	貧苦	貧乏で苦しむこと。
+j	貧血	貧血	anemia
+j	貧賤	貧賤	poor, lowly, inferior
+j	貧農	貧農	poor farmer, poor peasant
+j	貧鉱	貧鉱	有用な鉱物があまり含まれていない鉱山。
+j	赧面	赧面	恥ずかしくて赤面すること。赧顔。
+j	赧顔	赧顔	恥ずかしくて赤面すること。
+j	跧伏	跧伏	腹這うこと。
+j	釧路	釧路	Kushiro (a city in Hokkai…
+j	鎧冑	鎧冑	鎧と冑。
+j	鎧師	鎧師	よろいを作る工匠。
+j	鎧球	鎧球	synonym of アメリカンフットボール (A…
+j	鎧草	鎧草	Angelica dahurica
+j	鎧袖	鎧袖	鎧の袖。
+j	鎧装	鎧装	漏電や損傷の防止のため電線をテープなどで覆うこと。…
+j	隧口	隧口	墓地への道の入り口。
+j	隧埏	隧埏	墓室の道。埏隧。
+j	隧戸	隧戸	墓道の前の門。
+j	隧路	隧路	隧道。トンネル。
+j	隧道	隧道	tunnel
+j	霧中	霧中	霧の中。
+j	霧島	霧島	a surname
+j	霧散	霧散	vanishing, disappearance,…
+j	霧月	霧月	
+j	霧氷	霧氷	rime
+j	霧海	霧海	一面に立ち込めた霧。
+j	霧消	霧消	霧が晴れて残らないようにすっかり消え去ること。
+j	霧灯	霧灯	濃霧や豪雨などで視界不良のときに用いる灯火類。
+j	霧砲	霧砲	霧などで視界が悪い時、航行する船舶などに警告などの…
+j	霧笛	霧笛	foghorn
+j	霧虹	霧虹	fogbow
+j	霧裏	霧裏	霧の中。
+j	霧視	霧視	blurred vision; cloudy vi…
+j	霧鐘	霧鐘	航路標識に設置され、濃霧の際に自動的に警報を鳴らし…
+j	霧雨	霧雨	a drizzle
+j	霧雲	霧雲	synonym of 層雲 (sōun, “str…
+j	顧問	顧問	adviser, counselor, consu…
+j	顧客	顧客	regular customer; patron
+j	顧寵	顧寵	目にかけ、寵愛すること。
+j	顧念	顧念	気にかけること。
+j	顧慮	顧慮	concern, solicitude, misg…
+j	顧眄	顧眄	かえりみること。あたりをみること。目をかけること。
+j	顧眷	顧眷	目にかけること。ひいき。眷顧。
+j	顧視	顧視	振り返り見ること。
+j	顧遇	顧遇	厚遇すること。
+j	鬧事	鬧事	commotion
+j	鳧乙	鳧乙	鳧と燕。
+j	鳧影	鳧影	鳧の飛ぶ姿。
+j	鳧氏	鳧氏	鐘を鋳造する職人。鐘師。
+j	鳧浴	鳧浴	吐納の術。
+j	鳧渚	鳧渚	鴨の遊ぶ渚。
+j	鳧翁	鳧翁	雄の鴨。
+j	鳧脛	鳧脛	鴨の脚。短いものの喩え。
+j	鳧舟	鳧舟	鴨の形の舟。鳧船。
+j	鳧舫	鳧舫	鳧舟。
+j	鳧船	鳧船	鳧舟。
+j	鳧藻	鳧藻	（鳬が藻と戯れるように）喜び騷ぐこと。
+j	鳧趨	鳧趨	足早に行くこと。
+j	鳧鐘	鳧鐘	鐘。
+j	鳧雁	鳧雁	鳧と雁。
+j	鳧飛	鳧飛	退官。
+j	鳧鴨	鳧鴨	鴨と家鴨。
+j	鳧鷖	鳧鷖	鴨と鷗。水禽。
+j	鳧鷗	鳧鷗	鳧と鷗。
+j	齧る	齧る	chew, gnaw
+j	齧歯	齧歯	植物などを齧るために鋭く尖った前歯。
+k	거동	擧動	behavior, demeanor, setup…
+k	고객	顧客	customer
+k	고문	顧問	torture (intentional caus…
+k	공고	控告	announcement
+k	교언	巧言	flattery
+k	구가	旧家	an old family
+k	구미	欧美	taste, palate
+k	구성	旧姓	configuration, arrangemen…
+k	구습	旧習	old customs, conventional…
+k	구식	旧式	old style
+k	구약	旧約	Old Testament
+k	구인	旧人	arrest, apprehension
+k	구정	旧正	Korean New Year; Lunar Ne…
+k	구주	欧洲	the Savior; the Messiah
+k	권고	勧告	advice
+k	내각	內閣	cabinet (of a government)
+k	내강	內腔	lumen (cavity within tubu…
+k	내계	內界	inner world
+k	내공	內攻	
+k	내과	內科	internal medicine
+k	내란	內亂	internal strife; civil war
+k	내륙	內陸	inland
+k	내리	內裏	downwards; from top to bo…
+k	내면	內面	inner side
+k	내무	內務	internal affairs; home af…
+k	내벽	內壁	
+k	내부	內部	The interior or inside.
+k	내수	內需	domestic demand
+k	내시	內侍	
+k	내심	內心	incenter
+k	내야	內野	infield
+k	내외	內外	inside and outside
+k	내용	內容	that which is contained i…
+k	내응	內應	secret message; private c…
+k	내장	內臟	viscera, internal organ
+k	내전	內戰	civil war
+k	내지	內地	from how many to how many…
+k	내칙	內則	bylaw, customary rule
+k	내해	內海	
+k	내핵	內核	inner core
+k	녕파	寧波	
+k	대가	大家	master, leading figure
+k	대강	大綱	outline; summary
+k	대개	大概	for the most part; largel…
+k	대개	大槪	for the most part; largel…
+k	대공	大公	
+k	대교	大橋	large bridge
+k	대구	大口	A cod or haddock, especia…
+k	대구	大邱	A cod or haddock, especia…
+k	대국	大国	big country, major power
+k	대국	大國	big country, major power
+k	대국	大局	big country, major power
+k	대군	大君	
+k	대궐	大闕	palace
+k	대금	大笒	daegeum (traditional Kore…
+k	대기	大気	air; atmosphere
+k	대기	大氣	air; atmosphere
+k	대기	大饑	air; atmosphere
+k	대뇌	大脳	cerebrum
+k	대뇌	大腦	cerebrum
+k	대대	大帯	generation after generati…
+k	대대	大帶	generation after generati…
+k	대대	大隊	generation after generati…
+k	대덕	大徳	[~구] Daedeok (a district …
+k	대덕	大德	[~구] Daedeok (a district …
+k	대도	大道	
+k	대동	大東	Dae-dong (a locality in D…
+k	대동	大洞	Dae-dong (a locality in D…
+k	대두	大豆	soybean
+k	대략	大略	approximately
+k	대량	大量	large amounts
+k	대련	大連	Dalian (a subprovincial c…
+k	대령	大嶺	waiting for an order; wai…
+k	대령	大霊	waiting for an order; wai…
+k	대령	大靈	waiting for an order; wai…
+k	대령	大領	waiting for an order; wai…
+k	대로	大路	the same way as, the mann…
+k	대륙	大陸	continent
+k	대리	大利	deputy, proxy, substitute
+k	대리	大理	deputy, proxy, substitute
+k	대마	大麻	hemp (Cannabis sativa)
+k	대망	大亡	great hopes; great aspira…
+k	대망	大望	great hopes; great aspira…
+k	대망	大網	great hopes; great aspira…
+k	대망	大蟒	great hopes; great aspira…
+k	대문	大門	gate, (front/main) entran…
+k	대박	大박	big win, great success, b…
+k	대변	大便	excrement, feces, stool
+k	대부	大夫	godfather
+k	대붕	大鵬	peng (mythical Chinese bi…
+k	대비	大妃	a queen dowager
+k	대사	大事	ambassador
+k	대사	大使	ambassador
+k	대사	大蛇	ambassador
+k	대사	大赦	ambassador
+k	대산	大蒜	garlic
+k	대선	大仙	syllabic abbreviation of …
+k	대선	大禅	syllabic abbreviation of …
+k	대선	大禪	syllabic abbreviation of …
+k	대선	大船	syllabic abbreviation of …
+k	대선	大選	syllabic abbreviation of …
+k	대수	大数	a large number
+k	대수	大數	a large number
+k	대수	大水	a large number
+k	대식	大食	
+k	대신	大臣	substitution, replacement…
+k	대양	大洋	ocean
+k	대왕	大王	monarch, great king
+k	대요	大要	gist, summary, outline, m…
+k	대용	大用	substitute
+k	대월	大越	Đại Việt, the official na…
+k	대위	大尉	captain
+k	대위	大意	captain
+k	대인	大人	an adult, a grown-up
+k	대자	大字	large text
+k	대장	大将	general; admiral
+k	대장	大將	general; admiral
+k	대장	大腸	general; admiral
+k	대저	大抵	generally, as a rule
+k	대저	大著	generally, as a rule
+k	대전	大田	Daejeon (a city in South …
+k	대좌	大佐	
+k	대중	大衆	crowd; party
+k	대지	大地	earth; Mother Earth; firm…
+k	대첩	大捷	great victory
+k	대체	大体	main principle; outline
+k	대체	大體	main principle; outline
+k	대충	大総	approximately
+k	대충	大總	approximately
+k	대퇴	大腿	thigh
+k	대포	大砲	cannon
+k	대피	大皮	evacuation, taking shelter
+k	대학	大学	college, university
+k	대학	大學	college, university
+k	대한	大寒	great khan (the emperor o…
+k	대한	大恨	great khan (the emperor o…
+k	대한	大旱	great khan (the emperor o…
+k	대한	大汗	great khan (the emperor o…
+k	대한	大限	great khan (the emperor o…
+k	대한	大韓	great khan (the emperor o…
+k	대형	大形	Large; on a large scale.
+k	대황	大黃	rhubarb (any of several s…
+k	대황	大黄	rhubarb (any of several s…
+k	대회	大会	a competition, contest or…
+k	대회	大晦	a competition, contest or…
+k	대회	大會	a competition, contest or…
+k	동경	憧憬	yearning; longing
+k	목단	牧丹	peony
+k	목사	牧師	pastor, minister
+k	목자	牧者	shepherd
+k	목장	牧場	farm, ranch, pasture
+k	목적	牧笛	a goal; an objective
+k	목축	牧畜	pastoralism
+k	벽공	碧空	clear blue sky, cloudless…
+k	벽안	碧眼	blue eyes, green eyes
+k	벽옥	碧玉	미세한 석영결정이 모여서 생긴 광물이며 보석의…
+k	비자	榧子	visa (travel permit)
+k	빈곤	貧困	poverty
+k	빈민	貧民	poor people
+k	빈부	貧富	rich and poor
+k	빈약	貧弱	poorness; meagreness
+k	빈유	貧乳	small breasts
+k	빈자	貧者	poor person; pauper
+k	빈혈	貧血	
+k	성감	性感	sexual feeling
+k	성격	性格	character, temperament
+k	성교	性交	sexual intercourse, coitu…
+k	성기	性器	genitalia, sex organs
+k	성능	性能	performance
+k	성덕	性徳	attainment of virtue; vir…
+k	성덕	性德	attainment of virtue; vir…
+k	성별	性別	sex, gender
+k	성병	性病	a sexually transmitted di…
+k	성욕	性慾	sexual desire
+k	성적	性的	achievements; accomplishm…
+k	성정	性情	nature (of a person); tem…
+k	성질	性質	temper, nature, quality
+k	성향	性向	inclination, tendency
+k	수도	隧道	capital (of a country)
+k	수석	燧石	premiere; head
+k	승가	僧伽	
+k	승려	僧侶	Buddhist monk
+k	승방	僧坊	dormitories in Buddhist m…
+k	승방	僧房	dormitories in Buddhist m…
+k	승복	僧服	acceptance, acknowledgeme…
+k	승원	僧院	monastery, temple
+k	승정	僧正	
+k	승탑	僧塔	small stupa for storing s…
+k	압권	圧巻	the highlight, the best p…
+k	압도	圧倒	overwhelm; overpower
+k	압력	圧力	pressure
+k	압박	圧迫	pressure
+k	압사	圧死	death by crushing
+k	압정	圧政	thumbtack, tack, drawing …
+k	압제	圧制	oppression; tyranny; desp…
+k	양식	糧食	form; format; style
+k	영하	寧夏	temperature below zero
+k	오동	梧桐	paulownia
+k	조교	照校	assistant teacher, assist…
+k	조명	照明	어떤 공간을 비추는 빛.
+k	조사	照射	investigation; examination
+k	조회	照会	inquiry
+k	조회	照會	inquiry
+k	좌석	座席	seat
+k	좌표	座標	coordinates
+k	학질	瘧疾	'말라리아'.
+k	해학	諧謔	humour
+k	혜능	慧能	Huineng
+k	희생	犧牲	sacrifice
+j	僧帽弁	僧帽弁	a mitral valve
+j	僧帽筋	僧帽筋	a trapezius muscle
+j	勧める	勧める	suggest, recommend, advise
+j	勧学院	勧学院	821年、藤原冬嗣が設立した藤原氏の教育機関。藤原…
+j	勧誘員	勧誘員	
+j	喧しい	喧しい	clamorous
+j	喧嘩屋	喧嘩屋	喧嘩早く、好んで喧嘩をする人。
+j	喧嘩腰	喧嘩腰	attitude that is ready to…
+j	圧する	圧する	〔何かに〕圧力を加える。加圧する。おさえつける。
+j	圧倒的	圧倒的	overwhelming
+j	圧制的	圧制的	権力や暴力を用いて自由を拘束するさま。
+j	圧制者	圧制者	
+j	圧力波	圧力波	流体や固体の中を伝播する圧力の変動による波動。
+j	圧力計	圧力計	pressure gauge, an instru…
+j	圧力釜	圧力釜	容器を密閉し、加熱することで容器内を高圧にする釜。…
+j	圧力鍋	圧力鍋	pressure cooker
+j	圧搾機	圧搾機	press; a device used to s…
+j	圧縮機	圧縮機	compressor
+j	圧電の	圧電の	
+j	圧電気	圧電気	
+j	大々的	大々的	great; large-scale; exten…
+j	大いに	大いに	very, greatly
+j	大きい	大きい	big
+j	大きさ	大きさ	
+j	大きな	大きな	synonym of 大きい (ōkii, “bi…
+j	大きに	大きに	greatly, considerably
+j	大さじ	大さじ	
+j	大した	大した	big, quite, very great, c…
+j	大して	大して	（あとに打消しの語を伴い）それほど。さほど。あまり。
+j	大なり	大なり	「＞」の不等号。
+j	大の月	大の月	旧暦で30日の月。新暦で31日の月。
+j	大まか	大まか	general; broad; rough
+j	大コケ	大コケ	
+j	大一座	大一座	a large performance troupe
+j	大一番	大一番	その試合に勝つことで優勝や上位への昇進などが決まる…
+j	大丈夫	大丈夫	a man of class; a great m…
+j	大三元	大三元	a 役満 (yakuman, “limit”) h…
+j	大不敬	大不敬	great disrespect, especia…
+j	大主教	大主教	archbishop
+j	大久保	大久保	a surname
+j	大乗的	大乗的	個人的な感情や利害などにとらわれずに広い視点や立場…
+j	大事件	大事件	major incident
+j	大事業	大事業	大きな仕事。大規模な事業。
+j	大二病	大二病	大学二年生ぐらいに見られる言動や思考を揶揄した語。…
+j	大二郎	大二郎	a male given name
+j	大井町	大井町	a surname
+j	大人数	大人数	たくさんの人数。
+j	大人気	大人気	very popular
+j	大企業	大企業	large company, conglomera…
+j	大住戸	大住戸	床面積が120㎡以上の住戸。
+j	大体は	大体は	
+j	大使館	大使館	embassy
+j	大元帥	大元帥	a generalissimo
+j	大先輩	大先輩	veteran, someone who is o…
+j	大八洲	大八洲	
+j	大八車	大八車	大きな荷物や複数の荷物を運搬するための二輪車で複数…
+j	大公国	大公国	a grand duchy
+j	大具足	大具足	刀剣、弓矢、槍、薙刀、甲冑などの大きな武具の総称。
+j	大内裏	大内裏	古代、宮都で内裏と諸官庁のあった区域。
+j	大円筋	大円筋	a teres major muscle
+j	大冒険	大冒険	great adventure
+j	大出来	大出来	well done; great result (…
+j	大出血	大出血	major hemorrhaging, massi…
+j	大分市	大分市	大分県の県庁所在地。中核市。
+j	大分県	大分県	a prefecture in Japan on …
+j	大切さ	大切さ	
+j	大切な	大切な	
+j	大判官	大判官	律令制で、判官のうち上位の者。
+j	大前提	大前提	major premise
+j	大動揺	大動揺	
+j	大動脈	大動脈	aorta
+j	大勝利	大勝利	大差で圧倒的に勝つこと。
+j	大勢至	大勢至	
+j	大勲位	大勲位	an order of merit higher …
+j	大博士	大博士	明治時代に制度上存在した最高の学位。博士会の諮問と…
+j	大叔母	大叔母	
+j	大叔父	大叔父	
+j	大口魚	大口魚	（タイコウギョ）「鱈」の漢名。
+j	大司教	大司教	archbishop
+j	大合唱	大合唱	多人数での合唱。
+j	大和口	大和口	Japanese language
+j	大和国	大和国	日本の旧国（令制国）のひとつ。現在の奈良県にあたる。
+j	大和歌	大和歌	waka; tanka; Japanese son…
+j	大和琴	大和琴	a six-stringed koto or zi…
+j	大和田	大和田	a surname
+j	大和絵	大和絵	日本の事象や風景を描いた絵画。
+j	大和魂	大和魂	the Japanese spirit
+j	大唐米	大唐米	外来の下等な水稲の一種で、小粒で味は悪いが、炊飯す…
+j	大喜利	大喜利	the final act of the day
+j	大喧嘩	大喧嘩	great fight
+j	大喪儀	大喪儀	皇室の儀式として行われる天皇・皇后・太皇太后・皇太…
+j	大嘗祭	大嘗祭	a grand ritual to give th…
+j	大四喜	大四喜	a winning hand with tripl…
+j	大回転	大回転	giant slalom
+j	大団円	大団円	小説・劇などの最後の部分。
+j	大国主	大国主	a kami of nation-building…
+j	大團圓	大團圓	大団円の旧字体表記。
+j	大地法	大地法	普遍的な、いつも心とともにはたらく心作用。説一切有…
+j	大地神	大地神	大地と地震を司る神。
+j	大地震	大地震	a large earthquake; typic…
+j	大型の	大型の	
+j	大型株	大型株	large-capital stock
+j	大型車	大型車	a heavy vehicle, (especia…
+j	大域的	大域的	全体に関わるさま。大局的。
+j	大声で	大声で	
+j	大変動	大変動	
+j	大多数	大多数	great majority
+j	大多數	大多數	great majority
+j	大大的	大大的	規模が大きいさま。
+j	大天使	大天使	an archangel
+j	大天狗	大天狗	大柄の天狗。
+j	大太鼓	大太鼓	a large drum
+j	大失態	大失態	大きな失態。重大なやりそこない。
+j	大失敗	大失敗	大きな失敗。重大なやりそこない。
+j	大女子	大女子	big sand lance
+j	大好き	大好き	loved; lovable; very like…
+j	大好物	大好物	most favorite, (especiall…
+j	大嫌い	大嫌い	loathsome; detestable
+j	大字報	大字報	dazibao; hand-written pos…
+j	大学の	大学の	
+j	大学校	大学校	academy or non-university…
+j	大学生	大学生	a (university) student
+j	大学祭	大学祭	大学で行われる学校祭。
+j	大学群	大学群	複数の大学を、ある共通点や類似点など（偏差値や立地…
+j	大学芋	大学芋	candied sweet potato
+j	大学院	大学院	graduate school
+j	大宇宙	大宇宙	macrocosm
+j	大守宮	大守宮	a tokay gecko
+j	大宰帥	大宰帥	律令制で大宰府の長官。
+j	大宰府	大宰府	律令制で西海道（九州、壱岐、対馬）を管轄するととも…
+j	大宰相	大宰相	
+j	大家守	大家守	
+j	大家族	大家族	extended family
+j	大富豪	大富豪	uber rich person
+j	大審院	大審院	supreme court of the Empi…
+j	大寿林	大寿林	
+j	大将軍	大将軍	under the 律令 (Ritsuryō) s…
+j	大小便	大小便	faeces and urine
+j	大尺鷸	大尺鷸	
+j	大局的	大局的	物事を全体で見て判断しながら行動するさま。大乗的。
+j	大局観	大局観	物事の全体的な成り行きについての見方・判断。
+j	大山猫	大山猫	a Eurasian lynx
+j	大山祇	大山祇	the kami of the mountains…
+j	大山積	大山積	
+j	大山鼠	大山鼠	an edible dormouse
+j	大峡谷	大峡谷	The Grand Canyon
+j	大広間	大広間	banquet hall
+j	大強風	大強風	風力9（20.8 m/sから24.4 m/s）の風…
+j	大彗星	大彗星	特に明るく見え、肉眼で容易に観測することができる彗…
+j	大往生	大往生	peaceful death
+j	大御所	大御所	親王、摂関家、将軍家などの隠居所。また、隠居した人。
+j	大恐慌	大恐慌	the Great Depression
+j	大惨事	大惨事	catastrophe, great disast…
+j	大所帯	大所帯	large household
+j	大手門	大手門	城の正門。
+j	大拍子	大拍子	a stick-drummed rope-tens…
+j	大掃除	大掃除	general cleaning (especia…
+j	大文字	大文字	a capital letter; a majus…
+j	大方は	大方は	
+j	大日本	大日本	日本の雅称。
+j	大旦那	大旦那	寺院の檀家のうち多くの布施をする檀家。
+j	大明神	大明神	an honorific for gods
+j	大時化	大時化	stormy weather at sea
+j	大晦日	大晦日	the last day of the year,…
+j	大智郎	大智郎	a male given name
+j	大暴れ	大暴れ	
+j	大暴風	大暴風	
+j	大本営	大本営	the Imperial General Head…
+j	大杓鴫	大杓鴫	a Eurasian curlew (Numeni…
+j	大杓鷸	大杓鷸	
+j	大東亜	大東亜	東アジアの別称「東亜」を誇張した語。
+j	大東犬	大東犬	日本犬の犬種の一つで沖縄県の南大東島原産。別名は和…
+j	大根足	大根足	大根のように太く不恰好な足。
+j	大樺斑	大樺斑	monarch butterfly, Danaus…
+j	大正琴	大正琴	Nagoya harp, stringed mus…
+j	大正解	大正解	
+j	大比叡	大比叡	比叡山。
+j	大毛蓼	大毛蓼	
+j	大気圏	大気圏	an atmosphere (gases surr…
+j	大気圧	大気圧	大気の圧力。
+j	大江戸	大江戸	江戸の雅称。
+j	大河内	大河内	a surname
+j	大治朗	大治朗	a male given name
+j	大波武	大波武	
+j	大洋州	大洋州	Oceania (a continental re…
+j	大津市	大津市	滋賀県の県庁所在地。中核市。
+j	大津波	大津波	
+j	大洪水	大洪水	great flood; deluge
+j	大海原	大海原	the vast ocean
+j	大海烏	大海烏	a great auk
+j	大海馬	大海馬	a great seahorse
+j	大涌谷	大涌谷	Ōwakudani (volcanic valle…
+j	大混乱	大混乱	非常に混乱した状態。
+j	大漁旗	大漁旗	漁船が漁から帰港する際に、大漁であったことを港にい…
+j	大潮差	大潮差	spring range
+j	大火事	大火事	規模の大きな火事。大火。
+j	大火災	大火災	conflagration
+j	大災害	大災害	catastrophe, disaster
+j	大炊寮	大炊寮	a 律令 (ritsuryō) position …
+j	大熊座	大熊座	おおぐま座。
+j	大熊猫	大熊猫	
+j	大犬座	大犬座	おおいぬ座。
+j	大猷院	大猷院	Taiyū-in (mausoleum of To…
+j	大理国	大理国	7世紀頃から10世紀初めにかけて中国雲南省のあたり…
+j	大理石	大理石	marble (stone)
+j	大瑠璃	大瑠璃	a blue-and-white flycatch…
+j	大田原	大田原	Ōtawara (a city in Tochig…
+j	大発会	大発会	the first trading session…
+j	大発作	大発作	grand mal (seizure)
+j	大白鳥	大白鳥	Cygnus cygnus: a whooper …
+j	大百舌	大百舌	
+j	大目玉	大目玉	Used other than figurativ…
+j	大相撲	大相撲	a grand sumo wrestling to…
+j	大磐石	大磐石	large boulder
+j	大祖母	大祖母	「曽祖母」のこと。
+j	大祖父	大祖父	great-grandfather
+j	大祥忌	大祥忌	人が死んだ翌翌年の命日に行う法事。
+j	大祭司	大祭司	ユダヤ教における祭司の長。
+j	大福餅	大福餅	餡を薄い餅の皮で包んだ和菓子。
+j	大空也	大空也	a male given name
+j	大立者	大立者	
+j	大笑い	大笑い	uproariously funny
+j	大粛清	大粛清	the Great Purge
+j	大納会	大納会	取引所でその年の一般的な取引を終える立合。
+j	大納言	大納言	a chief counselor in the …
+j	大統領	大統領	a president (the head of …
+j	大耳狐	大耳狐	bat-eared fox (Otocyon me…
+j	大聖堂	大聖堂	cathedral
+j	大胆な	大胆な	
+j	大胆に	大胆に	
+j	大胸筋	大胸筋	a pectoralis major muscle
+j	大腰筋	大腰筋	a psoas major muscle
+j	大腸癌	大腸癌	大腸に発生する癌。
+j	大腸菌	大腸菌	E. coli (Escherichia coli)
+j	大腿筋	大腿筋	a thigh muscle
+j	大腿部	大腿部	脚の付け根から膝までの部分。腿。大腿。
+j	大腿骨	大腿骨	a thighbone; a femur
+j	大臀筋	大臀筋	a gluteus maximus muscle
+j	大臣家	大臣家	日本で内大臣に任命される家柄で正親町三条家、三条西…
+j	大自然	大自然	nature, specifically its …
+j	大至急	大至急	非常に急を要するさま。
+j	大臼歯	大臼歯	molar (back tooth)
+j	大茴香	大茴香	synonym of 唐樒 (tōshikimi,…
+j	大草原	大草原	grassland, prairie, savan…
+j	大葦切	大葦切	
+j	大蔵卿	大蔵卿	the Minister of the Treas…
+j	大蔵省	大蔵省	the Ministry of the Treas…
+j	大蔵経	大蔵経	仏教の経典（経蔵、律蔵、論蔵）の総称。
+j	大虐殺	大虐殺	massacre
+j	大蜥蜴	大蜥蜴	monitor lizard, a large c…
+j	大蝙蝠	大蝙蝠	a megabat
+j	大蟇蛙	大蟇蛙	cane toad (Rhinella marin…
+j	大蟻食	大蟻食	a giant anteater (Myrmeco…
+j	大衆化	大衆化	
+j	大衆的	大衆的	大衆に関すること。また、そのさま。
+j	大衆紙	大衆紙	大衆向けの情報を掲載した新聞。大衆新聞。
+j	大衆誌	大衆誌	大衆向けの情報を掲載した雑誌。大衆雑誌。
+j	大衆魚	大衆魚	一般市民が通常買えるような安価な魚。
+j	大袈裟	大袈裟	exaggerated, high-flown
+j	大西洋	大西洋	the Atlantic Ocean
+j	大規模	大規模	large-scale
+j	大試験	大試験	学年末試験または卒業試験のこと。
+j	大詰め	大詰め	the end, the last scene
+j	大語族	大語族	規模の大きな語族。
+j	大豆肉	大豆肉	soymeat
+j	大赤斑	大赤斑	Great Red Spot
+j	大躍進	大躍進	Great Leap Forward
+j	大転子	大転子	a greater trochanter
+j	大辛螺	大辛螺	synonym of 赤螺 (akanishi, …
+j	大辞林	大辞林	Daijirin (a comprehensive…
+j	大迦葉	大迦葉	
+j	大逆罪	大逆罪	the crime of high treason
+j	大通り	大通り	main street; boulevard
+j	大過去	大過去	過去よりさらに前の動作や状態を表す時制。英語では過…
+j	大道り	大道り	main street, avenue (broa…
+j	大道具	大道具	scenery; stage setting; s…
+j	大道芸	大道芸	an act performed at amuse…
+j	大道走	大道走	greater roadrunner, Geoco…
+j	大違い	大違い	great difference (between…
+j	大還暦	大還暦	数え年121歳の祝い。
+j	大邸宅	大邸宅	mansion
+j	大部分	大部分	the greater part, the mos…
+j	大都会	大都会	大きい都会。大きい都市。大都市。
+j	大都市	大都市	a metropolis, a large city
+j	大量の	大量の	
+j	大鋸屑	大鋸屑	
+j	大阪市	大阪市	大阪府の府庁所在地。政令指定都市の一つ。
+j	大阪府	大阪府	a prefecture in the 近畿 (K…
+j	大阪弁	大阪弁	大阪地方で話されている日本語の方言。
+j	大阪湾	大阪湾	大阪府、兵庫県に囲まれた瀬戸内海東端の海域。
+j	大陪審	大陪審	
+j	大陰唇	大陰唇	labia majora
+j	大陸島	大陸島	大陸の近くにあり大陸から分かれてできたと見られる島…
+j	大陸度	大陸度	大陸性気候の度合いを数値で表した指標。大きくなるほ…
+j	大陸棚	大陸棚	continental shelf
+j	大陸法	大陸法	civil law
+j	大陸間	大陸間	
+j	大隅国	大隅国	日本の旧国（令制国）のひとつ。現在の鹿児島県東部に…
+j	大隊長	大隊長	大隊の長。
+j	大雀蜂	大雀蜂	Japanese giant hornet (Ve…
+j	大雑把	大雑把	rough, approximate
+j	大雪山	大雪山	Daisetsuzan (a mountain r…
+j	大震災	大震災	great disaster resulting …
+j	大静脈	大静脈	vena cava
+j	大音声	大音声	大きな声。大声。
+j	大食い	大食い	eating a large amount of …
+j	大食の	大食の	
+j	大食漢	大食漢	大食な男性。
+j	大騒ぎ	大騒ぎ	uproar, brouhaha
+j	大鰐鮫	大鰐鮫	smalltooth sand tiger, Od…
+j	大鷺草	大鷺草	Habenaria dentata
+j	大麻油	大麻油	麻の実からとる油。食用や塗料の原料に使用される。あ…
+j	大黒天	大黒天	Daikokuten, Japanese name…
+j	大黒柱	大黒柱	the large, central pillar…
+j	寧馨児	寧馨児	小さい頃から非常に優秀な子。神童。
+j	巧妙な	巧妙な	
+j	巧実子	巧実子	a female given name
+j	座入り	座入り	仲間に入ること。
+j	座天使	座天使	キリスト教などの学派における、天使の階層の一つ。又…
+j	座布団	座布団	Japanese cushion
+j	座席車	座席車	鉄道の車両の種類のうち、寝台車と対の意味で、寝台の…
+j	座敷牢	座敷牢	rooms for confining crimi…
+j	座敷童	座敷童	a kind of yōkai: a red-fa…
+j	座標系	座標系	coordinate system
+j	座標軸	座標軸	座標を定めるための基準の直線。
+j	座禅草	座禅草	skunk cabbage, Symplocarp…
+j	座蒲団	座蒲団	椅子や床に座る際に、敷く小さな布団。
+j	座談会	座談会	symposium, forum
+j	座金物	座金物	鋲を打つ際に鋲頭の下に保護や装飾などのために入れる…
+j	座頭虫	座頭虫	a harvestman, arachnids o…
+j	座頭鯨	座頭鯨	a humpback whale
+j	弧光灯	弧光灯	アーク灯の別称。
+j	弧度法	弧度法	角度をラジアンで表す方式。
+j	性交死	性交死	腹上死。
+j	性交渉	性交渉	sexual relations
+j	性体験	性体験	sexual experience
+j	性内的	性内的	
+j	性加害	性加害	性犯罪の加害を行うこと。
+j	性善説	性善説	the theory that people ar…
+j	性奴隷	性奴隷	sex slave
+j	性差別	性差別	gender discrimination
+j	性役割	性役割	gender role
+j	性念場	性念場	「正念場」の別表記。
+j	性悪説	性悪説	the theory that people ar…
+j	性感帯	性感帯	an erogenous zone
+j	性懲り	性懲り	心の底から懲りること。
+j	性指向	性指向	性的指向の異称。
+j	性搾取	性搾取	sexual exploitation
+j	性教育	性教育	sex education
+j	性暴力	性暴力	sexual assault; sexual vi…
+j	性格型	性格型	
+j	性犯罪	性犯罪	自己の性欲を満たすことを動機とする犯罪行為。
+j	性理学	性理学	宋学。
+j	性生活	性生活	sex life
+j	性病の	性病の	
+j	性病科	性病科	
+j	性科学	性科学	sexology
+j	性細胞	性細胞	有性生殖の生殖細胞。
+j	性自認	性自認	gender identity
+j	性虐待	性虐待	
+j	性行為	性行為	sexual acts such as inter…
+j	性衝動	性衝動	sexual urge; libido; sex …
+j	性被害	性被害	性犯罪の被害を受けること。
+j	性転換	性転換	sex change
+j	性風俗	性風俗	対価を受け取った上で客に性的な奉仕を行う産業。
+j	悧巧な	悧巧な	
+j	慧実子	慧実子	a female given name
+j	憧れる	憧れる	long for, yearn for, have…
+j	捧げる	捧げる	to give
+j	控えめ	控えめ	
+j	控え室	控え室	waiting room; anteroom
+j	控訴院	控訴院	appellate court of the Em…
+j	旧ソ連	旧ソ連	former Soviet Union; ex-U…
+j	旧世界	旧世界	the Old World
+j	旧仮名	旧仮名	"old kana": synonym of 歴史…
+j	旧保守	旧保守	
+j	旧元日	旧元日	旧暦の1月1日（元日）。旧正月。
+j	旧国名	旧国名	令制国の名称。
+j	旧大陸	旧大陸	the Old World
+j	旧字体	旧字体	kyūjitai (traditional for…
+j	旧市街	旧市街	
+j	旧式の	旧式の	
+j	旧態然	旧態然	「旧態依然」の誤り
+j	旧正月	旧正月	Lunar New Year
+j	旧海軍	旧海軍	戦前の大日本帝国の海軍。
+j	旧知己	旧知己	old friend
+j	旧軍人	旧軍人	ex-soldier
+j	旧陸軍	旧陸軍	戦前の大日本帝国の陸軍。
+j	朧昆布	朧昆布	とろろ昆布の一種。昆布を酢で湿らせ、ごく薄く長く削…
+j	朧月夜	朧月夜	a hazy-mooned night
+j	朧豆腐	朧豆腐	豆腐の製造過程に於いて、豆乳に凝固剤（にがり等）を…
+j	欧州の	欧州の	
+j	欧州人	欧州人	ヨーロッパ人。
+j	欧州化	欧州化	
+j	欧州蓬	欧州蓬	mugwort (Artemisia vulgar…
+j	欧米人	欧米人	欧米の人。西洋人。
+j	欧米化	欧米化	westernization
+j	欧羅巴	欧羅巴	ヨーロッパの日本語による漢字表記。
+j	湧き水	湧き水	springwater
+j	照する	照する	てらす、あかるくする。
+j	照らす	照らす	to illuminate
+j	照れる	照れる	be shy
+j	照れ屋	照れ屋	shy person
+j	照会先	照会先	
+j	照準具	照準具	
+j	照準器	照準器	sight (device used in aim…
+j	照準機	照準機	銃砲で目的物に照準するための装置。照準器。
+j	照葉樹	照葉樹	表面が光沢の強い深緑色の葉を持つ常緑広葉樹。
+j	牧場鳥	牧場鳥	meadowlark
+j	牧歌的	牧歌的	のどかでのんびりとした様子。
+j	牧畜家	牧畜家	牧畜を家業として生計を立てる農家。
+j	牧畜業	牧畜業	畜産業のうち、家畜を人工的に養育する事業。
+j	牧畜犬	牧畜犬	herding dog
+j	牧羊犬	牧羊犬	sheep dog, sheepdog
+j	牧草地	牧草地	pasture
+j	諧謔曲	諧謔曲	
+j	諧謔的	諧謔的	諧謔に関するさま。
+j	貧しい	貧しい	poor (impoverished, lacki…
+j	貧する	貧する	貧乏になる。
+j	貧乏な	貧乏な	
+j	貧乏人	貧乏人	貧しい暮らしを送る人、貧しい人。
+j	貧乏神	貧乏神	取り憑いた人間や家族を貧乏にしたり不運にしたりする…
+j	貧困率	貧困率	poverty rate
+j	貧困線	貧困線	poverty line
+j	貧困者	貧困者	pauper
+j	貧打戦	貧打戦	両チームともに打線の調子が悪く、得点が少ない試合。…
+j	貧栄養	貧栄養	oligotrophic
+j	貧歯目	貧歯目	《分類学》 かつて使われていた異節上目の標準和名、…
+j	貧歯類	貧歯類	
+j	貧民窟	貧民窟	slum
+j	貧民街	貧民街	slum
+j	貧血症	貧血症	
+j	釧路国	釧路国	令制国の一つ。1869年に北海道に設置。概ね現在の…
+j	鎧直垂	鎧直垂	a kind of narrow-sleeved …
+j	鎧通し	鎧通し	a straight and stout shor…
+j	顧みる	顧みる	to reconsider, to look ba…
+j	齧歯目	齧歯目	《分類学》 ネズミ目の、かつての標準和名、現在では…
+j	齧歯類	齧歯類	rodent (mammal of the ord…
+k	고문관	顧問官	a maladapted conscript, a…
+k	공제액	控除額	
+k	구대륙	旧大陸	the Old World
+k	구라파	欧羅巴	Europe (a continent locat…
+k	구미권	欧美圏	
+k	구미인	欧美人	
+k	구미화	欧美化	westernization
+k	구석기	旧石器	
+k	구세계	旧世界	Old World
+k	구소련	旧蘇聯	former Soviet Union; ex-U…
+k	구자체	旧字体	
+k	내국인	內國人	national (of a country); …
+k	내독소	內毒素	endotoxin
+k	내몽고	內蒙古	Inner Mongolia (a Mongoli…
+k	내부자	內部者	
+k	내시경	內視鏡	
+k	내야수	內野手	infielder
+k	내전근	內轉筋	
+k	내접원	內接圓	incircle
+k	내파음	內破音	implosive
+k	대가족	大家族	
+k	대공국	大公国	grand duchy
+k	대공국	大公國	grand duchy
+k	대공황	大恐慌	the Great Depression
+k	대관령	大関嶺	Daegwallyeong
+k	대관령	大關嶺	Daegwallyeong
+k	대교구	大敎区	archdiocese, archeparchy
+k	대교구	大敎區	archdiocese, archeparchy
+k	대규모	大規模	largeness in scale.
+k	대기권	大気圏	atmosphere
+k	대기권	大氣圈	atmosphere
+k	대기업	大企業	large company, conglomera…
+k	대다수	大多数	the great majority, the b…
+k	대다수	大多數	the great majority, the b…
+k	대도시	大都市	large city, metropolis
+k	대동강	大同江	Taedong (a river in North…
+k	대동맥	大動脈	
+k	대두어	大頭魚	The bighead carp, Aristic…
+k	대둔근	大臀筋	gluteus maximus
+k	대륙법	大陸法	
+k	대륙붕	大陸棚	
+k	대리석	大理石	marble
+k	대마도	大馬島	Daemado (an island of Sou…
+k	대문자	大文字	capital letter, upper cas…
+k	대법원	大法院	
+k	대보름	大보름	'대보름날'.
+k	대부분	大部分	the majority, the better …
+k	대사관	大使館	an embassy
+k	대서양	大西洋	the Atlantic Ocean
+k	대성당	大聖堂	cathedral
+k	대숙청	大粛清	
+k	대숙청	大肅淸	
+k	대식가	大食家	
+k	대약진	大躍進	
+k	대양주	大洋洲	
+k	대역죄	大逆罪	the crime of high treason…
+k	대원군	大院君	the Heungseon Daewongun, …
+k	대원수	大元帥	generalissimo, grand mars…
+k	대음순	大陰脣	labia majora
+k	대자보	大字報	dazibao; hand-written pos…
+k	대장균	大腸菌	E. coli (Escherichia coli)
+k	대재상	大宰相	
+k	대저택	大邸宅	mansion
+k	대종가	大宗家	the household of a promin…
+k	대주가	大酒家	
+k	대주교	大主敎	archbishop
+k	대천사	大天使	an archangel
+k	대청국	大淸國	Qing dynasty
+k	대청국	大清国	Qing dynasty
+k	대청소	大淸掃	
+k	대청소	大清掃	
+k	대취타	大吹打	daechwita (traditional Ko…
+k	대통령	大統領	president of a country
+k	대평원	大平原	
+k	대포자	大胞子	a megaspore, a macrospore
+k	대폭적	大幅的	drastic, substantial
+k	대학교	大学校	college, university
+k	대학교	大學校	college, university
+k	대학살	大虐殺	massacre
+k	대학생	大学生	college student, universi…
+k	대학생	大學生	college student, universi…
+k	대학원	大学院	graduate school, postgrad…
+k	대학원	大學院	graduate school, postgrad…
+k	대한국	大漢国	China
+k	대한국	大漢國	China
+k	대홍수	大洪水	the Flood
+k	대황어	大黃魚	The Pacific redfin, Tribo…
+k	대황어	大黄魚	The Pacific redfin, Tribo…
+k	목양견	牧羊犬	
+k	목초지	牧草地	pasture, farmland, grazin…
+k	봄맞이 대청소	大淸掃	
+k	봄맞이 대청소	大清掃	
+k	빈민가	貧民街	slum
+k	빈민굴	貧民窟	slum
+k	설치류	齧齒類	rodent
+k	성감대	性感帯	erogenous zone
+k	성감대	性感帶	erogenous zone
+k	성관계	性関係	sexual relations; sexual …
+k	성관계	性關係	sexual relations; sexual …
+k	성교육	性敎育	성의 육체적, 정신적 측면에 대한 교육.
+k	성노예	性奴隸	
+k	성도착	性倒錯	
+k	성리학	性理学	Neo-Confucianism
+k	성리학	性理學	Neo-Confucianism
+k	성매매	性売買	prostitution
+k	성매매	性賣買	prostitution
+k	성생활	性生活	sex life, sexual life
+k	성애물	性愛物	erotica
+k	성전환	性転換	sex change
+k	성전환	性轉換	sex change
+k	성진국	性進国	any country whose culture…
+k	성진국	性進國	any country whose culture…
+k	성차별	性差別	gender discrimination, se…
+k	성폭행	性暴行	rape
+k	성학대	性虐待	
+k	성행위	性行為	sex, a sex act
+k	성행위	性行爲	sex, a sex act
+k	압력계	圧力計	pressure gauge, manometer
+k	조회수	照会数	viewcount
+k	조회수	照會數	viewcount
+k	좌우명	座右銘	motto
+k	희생물	犧牲物	sacrifice; victim
+k	희생양	犧牲羊	scapegoat
+k	희생자	犧牲者	victim, casualty
+k	희생타	犧牲打	sacrifice hit
+j	勧善懲悪	勧善懲悪	善を勧め、悪を懲らしめること。
+j	勧進相撲	勧進相撲	戦災や天災からの復旧にかかる費用を捻出するために行…
+j	喧々囂々	喧々囂々	
+j	喧伝する	喧伝する	
+j	喧喧囂囂	喧喧囂囂	多くの人が、がやがやと騒ぐ様。
+j	喧喧諤諤	喧喧諤諤	（誤用が定着したもの）議論が白熱し、銘々が自らの主…
+j	喧嘩する	喧嘩する	
+j	喧嘩別れ	喧嘩別れ	fighting/arguing and brea…
+j	喧嘩早い	喧嘩早い	小さなことでもすぐ喧嘩をするさま。喧嘩っ早い。
+j	圧し合う	圧し合う	to jostle, to shove
+j	圧倒する	圧倒する	
+j	圧力団体	圧力団体	特定の集団が自己の利益や主張を果たすために政治活動…
+j	圧搾空気	圧搾空気	
+j	圧縮する	圧縮する	
+j	圧縮空気	圧縮空気	compressed air
+j	圧迫する	圧迫する	
+j	圧迫面接	圧迫面接	応募者に対して威圧的な言動を行なったり答えにくい質…
+j	圧電効果	圧電効果	
+j	大それた	大それた	absurd, outrageous, ridic…
+j	大まかに	大まかに	
+j	大グロス	大グロス	1728個（12グロス）のまとまり。
+j	大リーグ	大リーグ	Major League Baseball
+j	大丈夫な	大丈夫な	
+j	大乗仏教	大乗仏教	Mahayana
+j	大事無い	大事無い	not worrisome, unimportant
+j	大人しい	大人しい	quiet
+j	大人ぶる	大人ぶる	to act like an adult (whe…
+j	大人買い	大人買い	Of an adult, buying (chie…
+j	大使館員	大使館員	大使館に勤務する職員。
+j	大具足虫	大具足虫	等脚目オオグソクムシ属に属する甲殻類の一種。学名:…
+j	大内転筋	大内転筋	an adductor magnus
+j	大判焼き	大判焼き	「今川焼き」の別称。
+j	大前庭腺	大前庭腺	Bartholin's gland
+j	大動脈弁	大動脈弁	左心室と大動脈との境にある半月のような形で三枚から…
+j	大口バス	大口バス	a largemouth bass
+j	大同団結	大同団結	考えなどに小異はあるが一つの目的を達成するため、複…
+j	大同小異	大同小異	almost the same, not much…
+j	大名卸し	大名卸し	filleting a fish into thr…
+j	大吟醸酒	大吟醸酒	特定名称のひとつ。精米歩合50%以下の白米と米麹と…
+j	大和仮名	大和仮名	平仮名 (hiragana) and 片仮名 (k…
+j	大和撫子	大和撫子	synonym of 撫子 (nadeshiko,…
+j	大和時代	大和時代	大和に豪族の政権が成立してから飛鳥時代の終わりまで…
+j	大和朝廷	大和朝廷	畿内大和の豪族が大王を中心に連合して作られた政権。…
+j	大和民族	大和民族	日本語を母語とし、日本国民の大部分を占める民族。
+j	大和王権	大和王権	大和を中心とした豪族らの連合政権。
+j	大和言葉	大和言葉	a Japanese word of ancien…
+j	大和郡山	大和郡山	Yamatokōriyama (a city in…
+j	大和高田	大和高田	Yamatotakada (a city in N…
+j	大善地法	大善地法	善心とあい伴う心作用。説一切有部などが提唱した、五…
+j	大喪の礼	大喪の礼	国葬として行われる天皇の葬儀。
+j	大器晩成	大器晩成	great talents mature late…
+j	大国主命	大国主命	A kami of nation-building…
+j	大土蜘蛛	大土蜘蛛	tarantula, a spider of fa…
+j	大型バス	大型バス	乗車定員30人以上、全長10mから12m、車幅2.…
+j	大型二輪	大型二輪	大型自動二輪車の略称。
+j	大型免許	大型免許	「大型自動車運転免許」のこと。大型自動車のほか、中…
+j	大型連休	大型連休	休日が数日連続してあること。
+j	大変感謝	大変感謝	
+j	大好きな	大好きな	
+j	大学生活	大学生活	大学に在学している間の学内、学外におけるさまざまな…
+j	大学病院	大学病院	研究、教育、診療のため医科大学や歯科大学、大学の医…
+j	大学都市	大学都市	
+j	大学院生	大学院生	graduate student (abbr. 院…
+j	大安吉日	大安吉日	the taian day, one of the…
+j	大山椒魚	大山椒魚	a Japanese giant salamand…
+j	大山津見	大山津見	
+j	大山積命	大山積命	大山祇: (mythology, Shinto) …
+j	大山積神	大山積神	大山祇: (mythology, Shinto) …
+j	大当たり	大当たり	
+j	大後頭孔	大後頭孔	
+j	大悟徹底	大悟徹底	完全な悟りを得て一切の疑念が無くなること。
+j	大慈大悲	大慈大悲	縋るべき、仏の大いなる慈悲。
+j	大掛かり	大掛かり	large-scale
+j	大政奉還	大政奉還	1867年に江戸幕府15代将軍徳川慶喜が朝廷に政権…
+j	大文字の	大文字の	
+j	大文字草	大文字草	ユキノシタ目ユキノシタ科ユキノシタ属に属する多年草…
+j	大日如来	大日如来	Vairocana (or Mahāvairoca…
+j	大日孁貴	大日孁貴	synonym of 天照 (Amaterasu)
+j	大根卸し	大根卸し	大根の根をおろし金で細かくしたもの。和食で薬味とし…
+j	大根役者	大根役者	a bad actor, a wooden act…
+j	大樹将軍	大樹将軍	（「後漢書」の故事から）将軍、征夷大将軍の異称。大…
+j	大正三色	大正三色	錦鯉の品種。
+j	大正時代	大正時代	元号が大正であった時代。1912年7月30日から1…
+j	大死一番	大死一番	今までのことを全て投げ捨て、仏に縋ること。
+j	大気汚染	大気汚染	air pollution
+j	大渦巻き	大渦巻き	maelstrom, large whirlpool
+j	大王烏賊	大王烏賊	a giant squid
+j	大目白鮫	大目白鮫	bull shark, Carcharhinus …
+j	大硨磲貝	大硨磲貝	
+j	大統領令	大統領令	executive order
+j	大統領職	大統領職	
+j	大肚王国	大肚王国	18世紀から19世紀初めまで台湾に存在した国家。
+j	大股座り	大股座り	
+j	大股開き	大股開き	
+j	大胆不敵	大胆不敵	intrepidity
+j	大胡麻斑	大胡麻斑	
+j	大脳皮質	大脳皮質	cerebral cortex
+j	大腿直筋	大腿直筋	a rectus femoris muscle
+j	大腿筋膜	大腿筋膜	a fascia lata
+j	大自在天	大自在天	ヒンズー教のシバが仏教に取り入れられ仏法の守護神と…
+j	大興安嶺	大興安嶺	
+j	大花素馨	大花素馨	
+j	大英帝国	大英帝国	the British Empire
+j	大菱形筋	大菱形筋	a rhomboid major muscle
+j	大菱形骨	大菱形骨	手根骨の一つで、有頭骨と小菱形骨、有鉤骨をつないで…
+j	大蔵大臣	大蔵大臣	大蔵省の長官（大臣）。蔵相。
+j	大衆主義	大衆主義	
+j	大衆伝達	大衆伝達	「マスコミュニケーション」の訳。マスコミ。
+j	大衆媒体	大衆媒体	mass media
+j	大衆文化	大衆文化	pop culture
+j	大衆新聞	大衆新聞	大衆向けの情報を掲載した新聞。大衆紙。
+j	大衆雑誌	大衆雑誌	大衆向けの情報を掲載した雑誌。大衆誌。
+j	大衆音楽	大衆音楽	ポピュラーミュージックのこと。
+j	大衆食堂	大衆食堂	一般大衆向けに比較的安価な料理や食事を提供する食堂。
+j	大行天皇	大行天皇	天皇の崩御後、追号を贈られるまでの呼称。
+j	大西洋鮭	大西洋鮭	
+j	大西洋鱈	大西洋鱈	an Atlantic cod
+j	大規模の	大規模の	
+j	大言壮語	大言壮語	boasting, bragging
+j	大越史記	大越史記	Annals of Đại Việt (offic…
+j	大道具師	大道具師	大道具方。
+j	大道商人	大道商人	a street vendor, a pitchm…
+j	大道芸人	大道芸人	大道芸をする芸人。
+j	大選挙区	大選挙区	定数が複数の選挙区。
+j	大酒飲み	大酒飲み	a heavy drinker
+j	大量生産	大量生産	mass production
+j	大量発生	大量発生	
+j	大量絶滅	大量絶滅	古生代から現在までに5回（現在進行中の絶滅を含め6…
+j	大量虐殺	大量虐殺	massacre, genocide
+j	大金持ち	大金持ち	the very rich, the super …
+j	大阪場所	大阪場所	3月に大阪市で行われる大相撲の本場所の通称。
+j	大阪民国	大阪民国	大阪府を揶揄する造語。テパンミングク（대판민국）。
+j	大陸国家	大陸国家	領域の全部又は大半を大陸が占める国家。
+j	大陸政策	大陸政策	Continental Policy (a Pan…
+j	大陸斜面	大陸斜面	The steep, narrow fringe …
+j	大陸横断	大陸横断	
+j	大陸移動	大陸移動	
+j	大隈重信	大隈重信	明治時代から大正時代の日本の政治家・教育者。183…
+j	大雄宝殿	大雄宝殿	Mahavira Hall, the main h…
+j	大雄寶殿	大雄寶殿	
+j	大雨時行	大雨時行	七十二候の一つ。大暑の末候（日本・中国）。ときどき…
+j	大韓帝国	大韓帝国	Korean Empire
+j	大韓民国	大韓民国	Republic of Korea (offici…
+j	大韓海峡	大韓海峡	
+j	大頬骨筋	大頬骨筋	a zygomaticus major muscle
+j	大頭黒鴎	大頭黒鴎	
+j	大願成就	大願成就	大願がかなうこと。
+j	大風呂敷	大風呂敷	
+j	大食細胞	大食細胞	synonym of マクロファージ (makur…
+j	巧言令色	巧言令色	（他人に好かれたり、気を引いたりするため）言葉を巧…
+j	座り込み	座り込み	sit-in (protest)
+j	座り込む	座り込む	to sit down heavily
+j	座作進退	座作進退	日常の立ち居振舞い。行儀。
+j	座右の銘	座右の銘	motto; favorite saying
+j	座標平面	座標平面	座標軸が定められた平面。
+j	弧状列島	弧状列島	弧を描くように連なる列島。島弧。
+j	性交する	性交する	
+j	性交体位	性交体位	sex position
+j	性交體位	性交體位	
+j	性別違和	性別違和	gender dysphoria
+j	性同一性	性同一性	gender identity
+j	性感染症	性感染症	venereal disease (VD), se…
+j	性染色体	性染色体	sex chromosome
+j	性染色體	性染色體	
+j	性格障害	性格障害	
+j	性犯罪者	性犯罪者	
+j	性的倒錯	性的倒錯	異常性欲のうち質的に異常なこと。幼児や近親など性欲…
+j	性的同意	性的同意	性行為に関する当事者間の同意。
+j	性的嗜好	性的嗜好	人間の性的行動において、何に性的な魅力を感じるのか…
+j	性的奴隷	性的奴隷	本人の意に反して自由を拘束し、性的な行為などを強要…
+j	性的役割	性的役割	社会生活における性別による役割。性役割。
+j	性的指向	性的指向	sexual orientation
+j	性的暴力	性的暴力	強姦やセクハラなど相手の同意を得ない性的な暴力。性…
+j	性的暴行	性的暴行	本人の意に反して性的な行為を行うこと。
+j	性的脅迫	性的脅迫	相手の性的な画像や動画を手に入れて、インターネット…
+j	性的興奮	性的興奮	
+j	性的虐待	性的虐待	sexual abuse
+j	性的逸脱	性的逸脱	sexual deviation
+j	性転換の	性転換の	
+j	性転換症	性転換症	
+j	性転換者	性転換者	
+j	旧ユーゴ	旧ユーゴ	ユーゴスラビアのこと。崩壊し、存在しない国家となっ…
+j	旧世界猿	旧世界猿	synonym of 尾長猿 (onagazaru…
+j	旧口動物	旧口動物	
+j	旧套墨守	旧套墨守	古いしきたりや方法などを固く守ること。また、そのた…
+j	旧帝大学	旧帝大学	Former Imperial Universit…
+j	旧態依然	旧態依然	旧い態度や方法のままで、変化や進歩をしない様子。
+j	旧約聖書	旧約聖書	the Old Testament
+j	欧亜主義	欧亜主義	
+j	欧化主義	欧化主義	近代化を進めるためにヨーロッパの様々な制度や文化を…
+j	欧州議会	欧州議会	European Parliament
+j	欧州連合	欧州連合	the European Union
+j	湧き出る	湧き出る	
+j	照り焼き	照り焼き	teriyaki (Japanese cuisin…
+j	照り返し	照り返し	reflection; reflected lig…
+j	照り返す	照り返す	to reflect (light, heat, …
+j	照れ笑い	照れ笑い	embarrassed smile
+j	照れ臭い	照れ臭い	embarrassing, feeling emb…
+j	照れ隠し	照れ隠し	hiding one's embarrassment
+j	照射する	照射する	
+j	照明する	照明する	
+j	照準する	照準する	
+j	牧乗せ台	牧乗せ台	
+j	貧乏削り	貧乏削り	鉛筆を両側から削って使うこと。
+j	貧富の差	貧富の差	wealth inequality
+j	貧栄養湖	貧栄養湖	oligotrophic lake
+j	鎧袖一触	鎧袖一触	to defeat an opponent in …
+j	霧吹き器	霧吹き器	液体に圧力を加え、霧状にして吹き付ける器具。
+j	顧客たち	顧客たち	
+j	齧り付く	齧り付く	bite into
+j	齧歯動物	齧歯動物	
+k	구라파인	欧羅巴人	
+k	구약 성서	旧約聖書	
+k	구약성경	旧約聖経	Old Testament
+k	권선징악	勧善懲悪	rewarding the good and pu…
+k	내복사근	內腹斜筋	abdominal internal obliqu…
+k	내시경술	內視鏡術	
+k	내연 기관	內燃機關	
+k	내측광근	內側廣筋	vastus medialis
+k	대강대강	大綱大綱	roughly; carelessly
+k	대경실색	大驚失色	
+k	대기만성	大器晩成	a great talent takes time…
+k	대기현상	大気現象	atmospheric phenomenon
+k	대기현상	大氣現象	atmospheric phenomenon
+k	대능형골	大菱形骨	
+k	대도시권	大都市圈	
+k	대도시권	大都市圏	
+k	대동소이	大同小異	being almost the same
+k	대량 살인	大量殺人	
+k	대량생산	大量生產	
+k	대량학살	大量虐殺	massacre, genocide
+k	대변보다	大便보다	to defecate
+k	대서양림	大西洋林	
+k	대영제국	大英帝国	the British Empire
+k	대영제국	大英帝國	the British Empire
+k	대월사기	大越史記	Annals of Đại Việt (offic…
+k	대중가요	大衆歌謠	popular songs
+k	대중가요	大衆歌謡	popular songs
+k	대중교통	大衆交通	public transport; public …
+k	대중매체	大衆媒体	mass media
+k	대중매체	大衆媒體	mass media
+k	대중문화	大衆文化	pop culture
+k	대중음악	大衆音楽	popular music
+k	대중음악	大衆音樂	popular music
+k	대중주의	大衆主義	
+k	대프리카	大프리카	Daegu, as a place that re…
+k	대하소설	大河小說	epic novel series
+k	대하소설	大河小説	epic novel series
+k	대학원생	大学院生	postgraduate student
+k	대학원생	大學院生	postgraduate student
+k	대한 제국	大韓帝国	Korean Empire
+k	대한 제국	大韓帝國	Korean Empire
+k	대한 해협	大韓海峡	동해와 동중국해 사이에 맞닿아 있는 해협.
+k	대한 해협	大韓海峽	동해와 동중국해 사이에 맞닿아 있는 해협.
+k	대한민국	大韓民国	Republic of Korea (offici…
+k	대한민국	大韓民國	Republic of Korea (offici…
+k	벽옥혼식	碧玉婚式	
+k	성교 체위	性交体位	sex position
+k	성교 체위	性交體位	sex position
+k	성록화물	性錄畵物	
+k	성록화물	性録畵物	
+k	성범죄자	性犯罪者	
+k	성염색체	性染色体	
+k	성염색체	性染色體	
+k	성욕 도착	性慾倒錯	
+k	성적 도착	性的倒錯	
+k	성적 학대	性的虐待	
+k	성정체성	性正体性	
+k	성정체성	性正體性	
+k	성차별적	性差別的	
+k	압력단체	圧力団体	
+k	압전 효과	圧電効果	
+k	조사하다	照射하다	to investigate, to examin…
+j	喧嘩っ早い	喧嘩っ早い	quarrelsome, combative, q…
+j	喧嘩を売る	喧嘩を売る	to look for a fight, to p…
+j	喧嘩を買う	喧嘩を買う	to take on a fight, to ta…
+j	喧嘩両成敗	喧嘩両成敗	
+j	圧倒的な力	圧倒的な力	
+j	大きいこと	大きいこと	
+j	大きくする	大きくする	
+j	大きくなる	大きくなる	
+j	大きな声で	大きな声で	
+j	大はしゃぎ	大はしゃぎ	
+j	大アルカナ	大アルカナ	タロットカードの一組78枚の内、22枚で構成される…
+j	大カロリー	大カロリー	
+j	大ハンマー	大ハンマー	sledgehammer
+j	大リーガー	大リーガー	大リーグに出場する選手。
+j	大丈夫かよ	大丈夫かよ	
+j	大不善地法	大不善地法	悪心とあい伴う心作用。説一切有部などが提唱した、五…
+j	大久保利通	大久保利通	江戸時代末期から明治時代の日本の政治家・藩士。18…
+j	大事にする	大事にする	
+j	大人げない	大人げない	
+j	大人しやか	大人しやか	
+j	大人になる	大人になる	to grow up; to become an …
+j	大人に成る	大人に成る	
+j	大人の事情	大人の事情	"the affairs of adults", …
+j	大体の目安	大体の目安	
+j	大便をする	大便をする	
+j	大元帥明王	大元帥明王	Atavaka (Buddhist deity)
+j	大勢至菩薩	大勢至菩薩	「勢至菩薩」を参照。
+j	大回り乗車	大回り乗車	JRの大都市近郊区間内では同じ駅を二度通らない限り…
+j	大坐します	大坐します	to be
+j	大型バイク	大型バイク	大型自動二輪車に分類されるオートバイ。
+j	大型自動車	大型自動車	道路交通法において中型自動車、準中型自動車、普通自…
+j	大型計算機	大型計算機	企業や政府機関などの基幹系システムに用いられる、大…
+j	大型貨物車	大型貨物車	大型貨物自動車の略称。
+j	大型量販店	大型量販店	
+j	大威德明王	大威德明王	Daiitoku Myōō, the Japane…
+j	大学院大学	大学院大学	graduate research univers…
+j	大宜津比売	大宜津比売	a food goddess, daughter …
+j	大後頭直筋	大後頭直筋	a rectus capitis posterio…
+j	大日本帝国	大日本帝国	Empire of Japan (official…
+j	大本営発表	大本営発表	Imperial General Headquar…
+j	大東亜帝国	大東亜帝国	東京にある5つの名門私立大学: 大東文化大学（大）…
+j	大東亜戦争	大東亜戦争	the Greater East Asia War…
+j	大根おろし	大根おろし	大根卸しを参照。
+j	大正ロマン	大正ロマン	大正時代に花開いた和洋折衷の文化。
+j	大母音推移	大母音推移	the Great Vowel Shift
+j	大河ドラマ	大河ドラマ	
+j	大津波警報	大津波警報	最大で高さ3 m超の津波が予想される際に発表される…
+j	大海の一滴	大海の一滴	
+j	大満州帝国	大満州帝国	
+j	大満洲帝国	大満洲帝国	
+j	大煩悩地法	大煩悩地法	すべての悪心と有覆無記心にあい伴う心作用。説一切有…
+j	大王具足虫	大王具足虫	等脚目オオグソクムシ属に属する甲殻類の一種。学名:…
+j	大王酸漿魷	大王酸漿魷	
+j	大目に見る	大目に見る	to let pass; to let off
+j	大祖国戦争	大祖国戦争	Great Patriotic War
+j	大笑いする	大笑いする	
+j	大納言小豆	大納言小豆	マメ科ササゲ属の小豆の品種。
+j	大統一理論	大統一理論	
+j	大聖堂構内	大聖堂構内	
+j	大聖歓喜天	大聖歓喜天	「歓喜天」の別名。
+j	大脳生理学	大脳生理学	cerebrophysiology; cerebr…
+j	大脳辺縁系	大脳辺縁系	
+j	大腸内視鏡	大腸内視鏡	
+j	大腸憩室症	大腸憩室症	
+j	大腿二頭筋	大腿二頭筋	a biceps femoris muscle
+j	大腿四頭筋	大腿四頭筋	a quadriceps femoris musc…
+j	大航海時代	大航海時代	15世紀から17世紀まで、ヨーロッパ人が世界に進出…
+j	大船に乗る	大船に乗る	頼りになる人にすべて任せて、大いに安心すること。
+j	大葉女郎花	大葉女郎花	synonym of 丸葉金鈴花 (marubak…
+j	大衆化する	大衆化する	
+j	大規模半壊	大規模半壊	自然災害により被害に遭った家屋などの4割から5割が…
+j	大躍進政策	大躍進政策	the Great Leap Forward
+j	大選挙区制	大選挙区制	当選者を1選挙区から2名以上選出する選挙制度。
+j	大都会岡山	大都会岡山	岡山県を揶揄する造語。
+j	大陸性気候	大陸性気候	大陸の海から遠く離れた地域に見られる気候の特徴。日…
+j	大随求菩薩	大随求菩薩	
+j	大項目主義	大項目主義	百科事典の編纂において、見出し語の数を少なくし、そ…
+j	巧言令色な	巧言令色な	
+j	座りなさい	座りなさい	
+j	性ホルモン	性ホルモン	
+j	性別移行の	性別移行の	
+j	性別移行者	性別移行者	
+j	性別越境者	性別越境者	transgender person
+j	性嗜好異常	性嗜好異常	
+j	性差別的な	性差別的な	
+j	性的倒錯者	性的倒錯者	
+j	性的少数派	性的少数派	sexual minority
+j	性的少数者	性的少数者	a member of the sexual mi…
+j	控えている	控えている	
+j	控訴裁判所	控訴裁判所	
+j	旧に復する	旧に復する	be restored to the former…
+j	旧ソビエト	旧ソビエト	ソビエト連邦のこと。崩壊し、存在しない国家となった…
+j	旧世界ザル	旧世界ザル	
+j	旧東ドイツ	旧東ドイツ	東ドイツのこと。存在しない国家となったため、旧が付…
+j	旧石器時代	旧石器時代	the Paleolithic
+j	旧西ドイツ	旧西ドイツ	西ドイツのこと。存在しない国家となったため、旧が付…
+j	照らし出す	照らし出す	illuminate, light up
+j	照り付ける	照り付ける	blaze down on, (for the s…
+j	牧地マリ語	牧地マリ語	
+j	牧場田雲雀	牧場田雲雀	meadow pipit, Anthus prat…
+j	盧溝橋事件	盧溝橋事件	Marco Polo Bridge Incident
+j	貧しくする	貧しくする	
+j	鎧土竜蜚蠊	鎧土竜蜚蠊	the giant burrowing cockr…
+j	霧島つつじ	霧島つつじ	ツツジ科ツツジ属の まとまりに入る木であるところの…
+k	구석기 시대	旧石器時代	Stone Age, Paleolithic pe…
+k	구적	旧跡／旧蹟	enemy; foe
+k	대서양대구	大西洋大口	Atlantic cod
+k	대서양연어	大西洋鰱魚	Atlantic salmon
+k	대서양청어	大西洋靑魚	Atlantic herring (Clupea …
+k	대일본제국	大日本帝国	Empire of Japan
+k	대일본제국	大日本帝國	Empire of Japan
+k	대장내시경	大腸內視鏡	
+k	대장내시경	大腸内視鏡	
+k	대조국전쟁	大祖国戦争	
+k	대조국전쟁	大祖國戰爭	
+k	대중주의자	大衆主義者	
+k	대퇴사두근	大腿四頭筋	quadriceps femoris
+k	대퇴이두근	大腿二頭筋	biceps femoris
+k	성별 불쾌감	性別不快感	
+k	승원	僧院/僧園	monastery, temple
+k	좌석	座席/坐席	seat
+j	圧縮天然ガス	圧縮天然ガス	
+j	大いなる田舎	大いなる田舎	都会ではないが人口の多い集落。大聚邑。
+j	大きいお友達	大きいお友達	adult fans of an anime, a…
+j	大きなお世話	大きなお世話	
+j	大きなお友達	大きなお友達	
+j	大きな範囲で	大きな範囲で	
+j	大アナコンダ	大アナコンダ	a green anaconda
+j	大アルマジロ	大アルマジロ	a giant armadillo (Priodo…
+j	大キチェ語群	大キチェ語群	キチェ・マム語派の一つ。ポコム語群とキチェ語群に分…
+j	大スンダ列島	大スンダ列島	太平洋にあるジャワ島、スマトラ島、ボルネオ島（カリ…
+j	大マゼラン雲	大マゼラン雲	
+j	大丈夫ですか	大丈夫ですか	
+j	大倭日高見国	大倭日高見国	日本神話における大和国の美称。
+j	大倭根子天皇	大倭根子天皇	A respectful term of addr…
+j	大勝利を成す	大勝利を成す	
+j	大型トラック	大型トラック	大型自動車に分類されるトラック。
+j	大型ハンマー	大型ハンマー	
+j	大型二輪免許	大型二輪免許	「大型自動二輪車運転免許」のこと。大型自動二輪車の…
+j	大型特殊免許	大型特殊免許	「大型特殊自動車運転免許」のこと。大型特殊自動車の…
+j	大好きである	大好きである	
+j	大東亜共栄圏	大東亜共栄圏	Greater East Asia Co-Pros…
+j	大王酸漿烏賊	大王酸漿烏賊	a colossal squid
+j	大盤振る舞い	大盤振る舞い	a large banquet; a feast
+j	大統領図書館	大統領図書館	アメリカ合衆国で大統領の退任時に建設され、その大統…
+j	大統領執務室	大統領執務室	
+j	大統領当選者	大統領当選者	
+j	大腿筋膜張筋	大腿筋膜張筋	a tensor fasciae latae
+j	大袈裟に言う	大袈裟に言う	
+j	大西洋標準時	大西洋標準時	Atlantic Standard Time
+j	大越史記全書	大越史記全書	Complete Annals of Đại Vi…
+j	大量破壊兵器	大量破壊兵器	a weapon of mass destruct…
+j	大陸プレート	大陸プレート	主に大陸の地下に位置するプレート。
+j	大陸間弾道弾	大陸間弾道弾	synonym of 大陸間弾道ミサイル (tai…
+j	大魚を逸する	大魚を逸する	大きな利益を逃すこと。
+j	性別適合手術	性別適合手術	sex reassignment surgery;…
+j	性同一性障害	性同一性障害	gender identity disorder
+j	性的同意年齢	性的同意年齢	性行為に同意する能力があると認められる年齢。
+j	性的嗜好障害	性的嗜好障害	
+j	性的虐待する	性的虐待する	
+j	性的過剰社会	性的過剰社会	
+j	性行為感染症	性行為感染症	性行為により感染する疾患の総称。
+j	旧制専門学校	旧制専門学校	1903年から1950年まで制度として存在した日本…
+j	旧制高等学校	旧制高等学校	1894年から1950年まで制度として存在した日本…
+j	旧北イエメン	旧北イエメン	北イエメンのこと。存在しない国家となったため、旧が…
+j	旧北ベトナム	旧北ベトナム	北ベトナムのこと。存在しない国家となったため、旧が…
+j	旧南イエメン	旧南イエメン	南イエメンのこと。存在しない国家となったため、旧が…
+j	旧南ベトナム	旧南ベトナム	南ベトナムのこと。存在しない国家となったため、旧が…
+j	欧州中央銀行	欧州中央銀行	
+j	欧州中心主義	欧州中心主義	
+j	欧州懐疑主義	欧州懐疑主義	
+j	照る照る坊主	照る照る坊主	a small, traditional hand…
+j	貧乏にする人	貧乏にする人	
+j	貧困ビジネス	貧困ビジネス	poverty business
+j	顧客サポート	顧客サポート	
+j	顧客サービス	顧客サービス	
+k	대량살륙무기	大量殺戮武器	
+k	대량살상무기	大量殺傷武器	weapon of mass destruction
+k	대량파괴무기	大量破壊武器	
+k	대량파괴무기	大量破壞武器	
+k	대륙의 기상	大陸의 気像	an event of extraordinary…
+k	대륙의 기상	大陸의 氣像	an event of extraordinary…
+k	대월사기전서	大越史記全書	Complete Annals of Đại Vi…
+k	성정체성 장애	性正体性障礙	
+k	성정체성 장애	性正體性障礙	
+j	大なりイコール	大なりイコール	「≧」の不等号。
+j	大は小を兼ねる	大は小を兼ねる	大きい物であれば、小さい物の用途にも用いられる。余…
+j	大マジェラン雲	大マジェラン雲	
+j	大マゼラン星雲	大マゼラン星雲	
+j	大マゼラン銀河	大マゼラン銀河	
+j	大人のおもちゃ	大人のおもちゃ	synonym of 性具
+j	大使館付き武官	大使館付き武官	military officer attached…
+j	大型特殊自動車	大型特殊自動車	道路交通法における全長12m以下、全幅2.5m以下…
+j	大型自動二輪車	大型自動二輪車	道路交通法における総排気量400cc超かつ道路運送…
+j	大型自動車免許	大型自動車免許	「大型自動車運転免許」のこと。大型自動車のほか、中…
+j	大型貨物自動車	大型貨物自動車	大型自動車に分類される貨物自動車。大型貨物車。
+j	大当たりをひく	大当たりをひく	
+j	大日本帝国憲法	大日本帝国憲法	1889年に公布された日本の憲法。1947年に日本…
+j	大気汚染防止法	大気汚染防止法	Air Pollution Control Law
+j	大統領就任期間	大統領就任期間	
+j	座ってください	座ってください	
+j	弧長パラメータ	弧長パラメータ	曲線 C=ima( boldsymbol q)上に…
+j	性同一性障害の	性同一性障害の	
+j	性同一性障害者	性同一性障害者	
+j	性的にみだらな	性的にみだらな	
+j	照らし合わせる	照らし合わせる	check against, compare
+j	貧乏人の子沢山	貧乏人の子沢山	（元来の意味）貧乏人は、遊ぶ金もなく子作りに励むく…
+j	貧困スパイラル	貧困スパイラル	cycle of poverty
+j	大きさ順に並べる	大きさ順に並べる	
+j	大姦は忠に似たり	大姦は忠に似たり	大悪人こそ、巧みに主君の忠臣を装うものだということ。
+j	大船に乗ったよう	大船に乗ったよう	大船に乗る参照。
+j	大規模言語モデル	大規模言語モデル	人間による大量の文章を機械学習によって整理し、単語…
+j	大風呂敷を広げる	大風呂敷を広げる	実現不可能だと思えるような計画を立てること。
+j	性的マイノリティ	性的マイノリティ	セクシャルマイノリティーのこと。
+j	旧ユーゴスラビア	旧ユーゴスラビア	ユーゴスラビアのこと。崩壊し、存在しない国家となっ…
+k	대륙 간 탄도 미사일	大陸間弾道미사일	intercontinental ballisti…
+k	대륙 간 탄도 미사일	大陸間彈道미사일	intercontinental ballisti…
+k	대륙 간 탄도 유도탄	大陸間弾道誘導弾	
+k	대륙 간 탄도 유도탄	大陸間彈道誘導彈	
+k	대학수학능력시험	大学修学能力試験	College Scholastic Abilit…
+k	대학수학능력시험	大學修學能力試驗	College Scholastic Abilit…
+j	大きさ順に選別する	大きさ順に選別する	
+j	大きな悪いオオカミ	大きな悪いオオカミ	
+j	大二十面半十二面体	大二十面半十二面体	great icosihemidodecahedr…
+j	大切にしてください	大切にしてください	
+j	大型特殊自動車免許	大型特殊自動車免許	「大型特殊自動車運転免許」のこと。大型特殊自動車の…
+j	大型自動二輪車免許	大型自動二輪車免許	「大型自動二輪車運転免許」のこと。大型自動二輪車の…
+j	大山鳴動して鼠一匹	大山鳴動して鼠一匹	all bark and no bite; gre…
+j	大陸間弾道ミサイル	大陸間弾道ミサイル	an intercontinental balli…
+j	巧詐は拙誠に如かず	巧詐は拙誠に如かず	巧みに詐ることは、拙くとも誠実であることには及ばな…
+j	性的マイノリティー	性的マイノリティー	セクシャルマイノリティーのこと。
+j	大根どきの医者いらず	大根どきの医者いらず	大根の収穫時期は、皆が健康になり医者が不要になると…
+j	大男総身に知恵が回りかね	大男総身に知恵が回りかね	体が大きく間抜けな男をからかっていう言葉。または、…
+j	鳧脛短しと雖も之を続がば則ち憂えん	鳧脛短しと雖も之を続がば則ち憂えん	鴨の足が短いからといって足を継ぎ足し伸ばしてやって…
+k	대브리텐 및 북아일랜드 련합 왕국	大브리텐 및 北아일랜드 聯合 王国	United Kingdom of Great B…
+k	대브리텐 및 북아일랜드 련합 왕국	大브리텐 및 北아일랜드 聯合 王國	United Kingdom of Great B…

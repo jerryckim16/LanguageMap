@@ -1,0 +1,772 @@
+k	야	야	hey
+k	약	약	drug; medicine
+k	얄	얄	
+k	양	양	quantity, amount
+k	야간	야간	nighttime, night
+k	야객	야객	
+k	야견	야견	
+k	야경	야경	night view; nightscape
+k	야곱	야곱	Jacob
+k	야공	야공	
+k	야광	야광	
+k	야구	야구	baseball (ball game)
+k	야권	야권	야당과 야당을 지지하는 세력 안에 드는 사람이…
+k	야근	야근	night overtime, night shi…
+k	야금	야금	'이불'.
+k	야기	야기	
+k	야남	야남	
+k	야단	야단	disturbance; commotion
+k	야담	야담	
+k	야당	야당	the opposition party
+k	야덟	야덟	Pyongan, Northern Jeolla,…
+k	야동	야동	porn, pornographic video
+k	야드	야드	yard (unit of length)
+k	야든	야든	
+k	야라	야라	
+k	야랄	야랄	fuckery, foolery
+k	야레	야레	The Amur ide, Leuciscus w…
+k	야르	야르	'좋거나 신나는 감정을 표현할 때 사용하는 감…
+k	야마	야마	'아지랑이'.
+k	야만	야만	barbarism
+k	야말	야말	
+k	야망	야망	ambition, aspiration
+k	야바	야바	ya ba
+k	야반	야반	
+k	야발	야발	frick! crap!
+k	야밤	야밤	midnight, dead of night, …
+k	야사	야사	
+k	야산	야산	
+k	야생	야생	the wild
+k	야설	야설	erotic fiction, pornograp…
+k	야성	야성	
+k	야속	야속	속되고 야만스러운 풍속.
+k	야수	야수	beast; brute
+k	야스	야스	sex
+k	야습	야습	
+k	야시	야시	
+k	야식	야식	late-night meal; midnight…
+k	야심	야심	ambition, aspiration
+k	야영	야영	
+k	야옹	야옹	with a meow
+k	야외	야외	the outside; outdoors; th…
+k	야욕	야욕	
+k	야우	야우	
+k	야유	야유	heckling, jeer, catcall
+k	야인	야인	
+k	야자	야자	the coconut palm, or more…
+k	야전	야전	
+k	야중	야중	Seoul, Chungcheong, and J…
+k	야짤	야짤	erotic image
+k	야차	야차	yaksha; or, the indigenou…
+k	야채	야채	vegetable
+k	야추	야추	penis
+k	야크	야크	
+k	야파	야파	
+k	야학	야학	
+k	야한	야한	coldness at night
+k	야합	야합	
+k	야행	야행	nocturnal, travelling at …
+k	야호	야호	yahoo!, hurray! (interjec…
+k	야화	야화	
+k	야회	야회	soiree, evening party
+k	야후	야후	
+k	야훼	야훼	Yahweh (personal name of …
+k	약간	약간	smallness, triviality (us…
+k	약골	약골	
+k	약과	약과	yakgwa (very greasy Korea…
+k	약관	약관	terms
+k	약국	약국	pharmacy, drugstore
+k	약다	약다	cunning, shrewd, sly
+k	약대	약대	college of pharmacy; scho…
+k	약도	약도	rough sketch, rough map
+k	약동	약동	
+k	약량	약량	
+k	약력	약력	profile
+k	약령	약령	
+k	약명	약명	약의 이름.
+k	약무	약무	
+k	약물	약물	drug
+k	약밥	약밥	synonym of 약식(藥食) (yaksik…
+k	약방	약방	pharmacy, drugstore
+k	약병	약병	medicine bottle, vial
+k	약분	약분	
+k	약사	약사	pharmacist, chemist
+k	약산	약산	weak acid
+k	약세	약세	
+k	약소	약소	작고 약함.
+k	약속	약속	promise
+k	약수	약수	(수학)
+k	약시	약시	
+k	약식	약식	informality; simplicity; …
+k	약실	약실	pharmacy, drugstore
+k	약어	약어	abbreviation, acronym, sh…
+k	약언	약언	
+k	약용	약용	
+k	약은	약은	'약다'의 관형사형.
+k	약음	약음	'약다'의 명사형.
+k	약인	약인	
+k	약자	약자	abbreviation, acronym
+k	약장	약장	
+k	약재	약재	medicine, pharmaceutical,…
+k	약전	약전	
+k	약점	약점	weakness, weak point, sho…
+k	약정	약정	어떤 일을 약속하여 정함.
+k	약제	약제	medicine; drugs; chemicals
+k	약조	약조	
+k	약종	약종	
+k	약주	약주	alcohol; drink (beverage)
+k	약지	약지	'약손가락'.
+k	약진	약진	weak earthquake
+k	약질	약질	
+k	약체	약체	실력이나 힘 또는 능력이 약한 개인 혹은 조직…
+k	약초	약초	medicinal plant or herb
+k	약취	약취	
+k	약칭	약칭	abbreviation
+k	약탈	약탈	plundering; pillaging; lo…
+k	약탕	약탕	
+k	약표	약표	
+k	약품	약품	medicine; drugs
+k	약학	약학	pharmacy, pharmacology
+k	약함	약함	
+k	약협	약협	shell (cartridge of a bre…
+k	약호	약호	
+k	약혼	약혼	engagement (promise to ma…
+k	약화	약화	힘이나 기능 등이 약해짐. 또는 그렇게 되게 …
+k	약효	약효	medicinal efficacy
+k	얄타	얄타	
+k	얇다	얇다	thin (of something flat, …
+k	얇은	얇은	'얇다'의 관형사형.
+k	얇음	얇음	'얇다'의 명사형.
+k	얌냠	얌냠	'냠냠'을 비표준어.
+k	얌심	얌심	
+k	얌얌	얌얌	
+k	얌전	얌전	성품이나 태도가 침착하고 단정함.
+k	얌차	얌차	yum cha
+k	얌체	얌체	마음이 올바르지 못하여 부끄러움을 모르고 자기…
+k	얌치	얌치	
+k	양가	양가	양민의 집.
+k	양각	양각	(미술) 명암 효과를 이용하여 글자나 모양을 …
+k	양감	양감	부피에 대한 느낌.
+k	양강	양강	
+k	양갱	양갱	
+k	양검	양검	
+k	양계	양계	
+k	양곡	양곡	양식으로 쓰는 곡식.
+k	양곤	양곤	Yangon (largest city in M…
+k	양과	양과	Western candies (as oppos…
+k	양관	양관	
+k	양광	양광	sunlight, sunshine
+k	양국	양국	two countries; both count…
+k	양궁	양궁	Western archery
+k	양극	양극	
+k	양금	양금	a hammered dulcimer used …
+k	양기	양기	
+k	양녀	양녀	'수양녀'.
+k	양념	양념	seasoning
+k	양놈	양놈	Westerner, Western bastar…
+k	양단	양단	
+k	양달	양달	sunny spot
+k	양대	양대	
+k	양도	양도	
+k	양돈	양돈	
+k	양동	양동	
+k	양력	양력	solar calendar
+k	양로	양로	
+k	양론	양론	
+k	양리	양리	
+k	양립	양립	두 가지가 동시에 따로 성립함.
+k	양막	양막	
+k	양말	양말	socks
+k	양매	양매	
+k	양면	양면	two sides; both sides
+k	양모	양모	wool, fleece
+k	양민	양민	
+k	양반	양반	civil nobility and milita…
+k	양방	양방	
+k	양백	양백	
+k	양변	양변	
+k	양병	양병	
+k	양보	양보	giving up one's seat or p…
+k	양복	양복	Western clothing; a suit;…
+k	양봉	양봉	beekeeping, apiculture
+k	양부	양부	
+k	양분	양분	
+k	양산	양산	parasol
+k	양상	양상	aspect
+k	양생	양생	
+k	양서	양서	
+k	양성	양성	positivity
+k	양손	양손	
+k	양수	양수	positive number
+k	양식	양식	form; format; style
+k	양신	양신	virtuous minister; virtuo…
+k	양심	양심	conscience
+k	양안	양안	동안과 서안.
+k	양압	양압	보다 높은 .
+k	양약	양약	좋은 약을 가리키는 말.
+k	양양	양양	어린아이가 우는 소리를 내며 자꾸 보채는 모양.
+k	양어	양어	
+k	양염	양염	Hwanghae form of 양념 (yang…
+k	양옆	양옆	
+k	양옥	양옥	Western-style house
+k	양우	양우	good friend
+k	양원	양원	
+k	양위	양위	
+k	양유	양유	sheep milk
+k	양육	양육	
+k	양은	양은	nickel silver
+k	양인	양인	
+k	양자	양자	adopted son
+k	양잠	양잠	
+k	양장	양장	재주와 꾀가 많은 훌륭한 장수.
+k	양적	양적	
+k	양젖	양젖	
+k	양조	양조	
+k	양좀	양좀	
+k	양주	양주	Western liquor, especiall…
+k	양즈	양즈	style
+k	양지	양지	sunny spot
+k	양질	양질	good quality
+k	양쪽	양쪽	both sides, both parties
+k	양처	양처	
+k	양철	양철	앞과 뒷 면에 주석을 입힌 얇은 철판.
+k	양초	양초	candle; taper
+k	양추	양추	
+k	양축	양축	가축을 먹여 기르는 것
+k	양춤	양춤	
+k	양측	양측	
+k	양치	양치	toothbrushing
+k	양친	양친	
+k	양키	양키	Yankee
+k	양태	양태	The bartail flathead, Pla…
+k	양털	양털	wool, sheepswool
+k	양파	양파	onion
+k	양팔	양팔	both arms
+k	양편	양편	
+k	양푼	양푼	음식을 담거나 데우는 데 쓰는 그릇. 높이가 …
+k	양하	양하	myoga
+k	양해	양해	agreement; consent
+k	양형	양형	형벌의 가벼움과 무거움의 정도.
+k	양혜	양혜	synonym of 구두 (gudu, “dre…
+k	양호	양호	상태가 매우 안정적인 것.
+k	양화	양화	
+k	양회	양회	
+k	얕다	얕다	to be shallow
+k	얕은	얕은	'얕다'의 관형사형.
+k	얕음	얕음	'얕다'의 명사형.
+k	야간부	야간부	
+k	야간의	야간의	
+k	야개기	야개기	'목'을 의미하는 제주도 방언.
+k	야경꾼	야경꾼	watchman
+k	야경증	야경증	night terrors
+k	야고보	야고보	
+k	야광봉	야광봉	
+k	야광충	야광충	
+k	야구공	야구공	야구 경기에 쓰는 공.
+k	야구부	야구부	
+k	야구장	야구장	baseball field; baseball …
+k	야구화	야구화	야구 경기를 할 때에 신는 운동화.
+k	야금술	야금술	
+k	야뇨증	야뇨증	
+k	야누스	야누스	옛 로마에서 문을 지키는 신의 이름. 문으로 …
+k	야당계	야당계	
+k	야당권	야당권	야당이 중심이 되는 지역.
+k	야드를	야드를	
+k	야래향	야래향	Tonking jasmine (Telosma …
+k	야로나	야로나	coronavirus; COVID-19
+k	야르르	야르르	
+k	야리다	야리다	
+k	야마토	야마토	Yamato (ancient name for …
+k	야만성	야만성	
+k	야만인	야만인	barbarian; savage
+k	야만적	야만적	
+k	야만족	야만족	
+k	야맹증	야맹증	night blindness, moon bli…
+k	야물다	야물다	
+k	야물커	야물커	
+k	야벅지	야벅지	thigh
+k	야별초	야별초	
+k	야부리	야부리	gibberish, nonsense, lie;…
+k	야비한	야비한	
+k	야삼경	야삼경	
+k	야상곡	야상곡	'녹턴'.
+k	야생의	야생의	
+k	야생적	야생적	
+k	야생종	야생종	
+k	야생화	야생화	
+k	야성미	야성미	
+k	야성적	야성적	
+k	야수다	야수다	
+k	야수성	야수성	
+k	야수적	야수적	
+k	야수파	야수파	20세기 초반의 모더니즘 예술에서 잠시 나타나…
+k	야시장	야시장	
+k	야심가	야심가	
+k	야심작	야심작	
+k	야심적	야심적	
+k	야심히	야심히	
+k	야영객	야영객	
+k	야영지	야영지	
+k	야오이	야오이	
+k	야옹이	야옹이	고양이.
+k	야외극	야외극	
+k	야운데	야운데	Yaoundé (the capital of C…
+k	야웅게	야웅게	
+k	야웅이	야웅이	'야옹이'의 북한말.
+k	야위다	야위다	몸에 살이 빠지다.
+k	야위죽	야위죽	
+k	야유적	야유적	
+k	야유회	야유회	picnic
+k	야자수	야자수	a palm tree
+k	야자술	야자술	
+k	야자심	야자심	
+k	야자유	야자유	coconut oil
+k	야적장	야적장	
+k	야전군	야전군	
+k	야전삽	야전삽	
+k	야전포	야전포	
+k	야젓이	야젓이	
+k	야지랑	야지랑	(일부 동사와 함께 쓰여) 얄밉도록 능청맞고 …
+k	야채전	야채전	vegetable pancake
+k	야채즙	야채즙	vegetable juice (liquid f…
+k	야쿠자	야쿠자	yakuza
+k	야하다	야하다	to be lewd, to be NSFW
+k	야학교	야학교	
+k	야행성	야행성	nocturnality
+k	야행차	야행차	night train
+k	야회복	야회복	
+k	약간의	약간의	
+k	약국방	약국방	
+k	약동감	약동감	
+k	약령시	약령시	
+k	약리학	약리학	pharmacology
+k	약명전	약명전	'약명표'.
+k	약명표	약명표	약 이름을 한글과 로마자로 써 놓은 표.
+k	약물학	약물학	
+k	약방문	약방문	
+k	약봉지	약봉지	
+k	약빠른	약빠른	'약빠르다'의 관형사형.
+k	약빠름	약빠름	'약빠르다'의 명사형.
+k	약소국	약소국	힘이 매우 약한 나라.
+k	약왕귀	약왕귀	
+k	약재상	약재상	
+k	약정서	약정서	
+k	약제관	약제관	
+k	약제사	약제사	pharmacist, druggist
+k	약제실	약제실	
+k	약제학	약제학	pharmaceutics, pharmacolo…
+k	약조금	약조금	
+k	약주상	약주상	
+k	약체화	약체화	
+k	약치료	약치료	
+k	약탈물	약탈물	
+k	약탈자	약탈자	marauder, looter, plunder…
+k	약탈혼	약탈혼	
+k	약탕관	약탕관	
+k	약탕기	약탕기	
+k	약품명	약품명	
+k	약하다	약하다	to be weak
+k	약학자	약학자	
+k	약혼기	약혼기	
+k	약혼남	약혼남	
+k	약혼녀	약혼녀	fiancée
+k	약혼식	약혼식	engagement ceremony
+k	약혼자	약혼자	fiancé or fiancée (man or…
+k	약화학	약화학	
+k	얀데레	얀데레	yandere
+k	얀덱스	얀덱스	
+k	얄궂다	얄궂다	to be weird, strange, que…
+k	얄밉다	얄밉다	사람의 말, 짓, 태도가 약아빠져서 밉다.
+k	얇히다	얇히다	
+k	얌체공	얌체공	
+k	양각기	양각기	
+k	양갈보	양갈보	foreigner's whore, a pros…
+k	양계장	양계장	
+k	양고기	양고기	가축 양을 도살하여 마련한 고기. 요리할 때는…
+k	양곤마	양곤마	
+k	양곱창	양곱창	tripe of the small intest…
+k	양공주	양공주	
+k	양과자	양과자	
+k	양괄식	양괄식	
+k	양교맥	양교맥	기경 팔맥의 하나. 음교맥과 짝을 이루어 인체…
+k	양귀비	양귀비	opium poppy (Papaver somn…
+k	양귀자	양귀자	white devil; Western devi…
+k	양극단	양극단	
+k	양극선	양극선	
+k	양념통	양념통	
+k	양다래	양다래	(학명: actinidia deliciosa)…
+k	양다리	양다리	both legs
+k	양도인	양도인	양도 행위를 하는 사람. 넘겨주는 사람.
+k	양도체	양도체	
+k	양동이	양동이	bucket, pail (container)
+k	양로원	양로원	a nursing home
+k	양로쵈	양로쵈	mutton kebab
+k	양막류	양막류	
+k	양면성	양면성	
+k	양명학	양명학	
+k	양모의	양모의	
+k	양모작	양모작	
+k	양모지	양모지	lanolin
+k	양모직	양모직	
+k	양미간	양미간	
+k	양반전	양반전	
+k	양반집	양반집	
+k	양배추	양배추	cabbage
+k	양뱌기	양뱌기	two hundred
+k	양버들	양버들	
+k	양변기	양변기	
+k	양복장	양복장	wardrobe; closet (one's s…
+k	양봉가	양봉가	apiculturist, beekeeper
+k	양봉장	양봉장	apiary, bee house
+k	양부모	양부모	
+k	양부인	양부인	foreigner's wife
+k	양산도	양산도	
+k	양상추	양상추	iceberg lettuce
+k	양생법	양생법	
+k	양서류	양서류	amphibians, amphibia
+k	양성애	양성애	bisexuality
+k	양성의	양성의	
+k	양성자	양성자	proton; a positively char…
+k	양성화	양성화	
+k	양손녀	양손녀	
+k	양손자	양손자	
+k	양송이	양송이	
+k	양수기	양수기	
+k	양수사	양수사	cardinal
+k	양순음	양순음	bilabial
+k	양식당	양식당	Western restaurant
+k	양식점	양식점	
+k	양심수	양심수	
+k	양심적	양심적	옳고 그름을 도덕적으로 잘 분별할 줄 아는.
+k	양아치	양아치	'거지'를 속되게 일컫는 말. 중고등 학생들 …
+k	양악기	양악기	
+k	양압력	양압력	부력에 의해 물체가 위로 뜨려고 할 때 받는 …
+k	양약방	양약방	
+k	양어장	양어장	
+k	양어지	양어지	
+k	양옥집	양옥집	a Western-style house
+k	양요리	양요리	
+k	양원제	양원제	
+k	양유맥	양유맥	기경 팔맥의 하나. 전신의 양맥과 음맥들을 서…
+k	양육권	양육권	custody (the legal right …
+k	양육비	양육비	
+k	양의사	양의사	'의사'.
+k	양이온	양이온	
+k	양자론	양자론	양자와 관련된 이론.
+k	양자리	양자리	Aries
+k	양자수	양자수	
+k	양자점	양자점	
+k	양자화	양자화	quantization
+k	양잠업	양잠업	
+k	양장본	양장본	hardcover
+k	양장점	양장점	
+k	양장피	양장피	중화요리의 하나. 전분으로 만든 얇은 판을 두…
+k	양저우	양저우	
+k	양전기	양전기	
+k	양전자	양전자	positron
+k	양조장	양조장	brewery, distillery
+k	양조주	양조주	
+k	양지꽃	양지꽃	cinquefoil, particularly …
+k	양쪽성	양쪽성	
+k	양쪽의	양쪽의	
+k	양철공	양철공	
+k	양철통	양철통	
+k	양치기	양치기	shepherding
+k	양치류	양치류	관다발식물의 일종. 전세계에 1만2,000종 …
+k	양치질	양치질	
+k	양탄자	양탄자	carpet, tapestry
+k	양파링	양파링	
+k	양판점	양판점	
+k	양품점	양품점	
+k	양피지	양피지	parchment
+k	양하다	양하다	서늘하다.
+k	양호필	양호필	
+k	양화점	양화점	
+k	얕보다	얕보다	to look down on; to under…
+k	얕잡다	얕잡다	to underrate, to belittle
+k	야간근무	야간근무	
+k	야간냉각	야간냉각	지표면이나 지표에 인접한 기층이 야간복사의 방…
+k	야간뇌우	야간뇌우	야간의 구름 상부에서의 심한 복사냉각으로 뇌우…
+k	야간도주	야간도주	
+k	야간병원	야간병원	
+k	야간복사	야간복사	지표면으로부터의 상향 복사에너지에서 대기 속의…
+k	야간비행	야간비행	
+k	야간열차	야간열차	
+k	야간작업	야간작업	
+k	야간촬영	야간촬영	
+k	야간학교	야간학교	
+k	야경국가	야경국가	
+k	야광나무	야광나무	
+k	야광도료	야광도료	
+k	야광명월	야광명월	
+k	야광시계	야광시계	
+k	야구르트	야구르트	‘요구르트’를 달리 이르는 말.
+k	야구하다	야구하다	to play baseball
+k	야금대다	야금대다	'야금거리다'.
+k	야금야금	야금야금	entering the mouth little…
+k	야긋야긋	야긋야긋	
+k	야기하다	야기하다	to cause; bring about; le…
+k	야꾸쯔크	야꾸쯔크	러시아의 도시 '야쿠츠크'의 북한말.
+k	야꾸찌야	야꾸찌야	러시아의 공화국 '사하 공화국' 또는 '야쿠티…
+k	야단법석	야단법석	
+k	야단야단	야단야단	
+k	야단하다	야단하다	to cause a disturbance
+k	야댜하다	야댜하다	to not use honorifics or …
+k	야드르르	야드르르	
+k	야들야들	야들야들	
+k	야랑자대	야랑자대	(뜻) 고만고만한 무리 가운데 가장 뛰어나다.
+k	야룩야룩	야룩야룩	
+k	야르하다	야르하다	기분좋다
+k	야른야른	야른야른	
+k	야릇하다	야릇하다	to be queer, to be weird,…
+k	야리끼리	야리끼리	작업을 빨리 끝내기 위한 목적으로 작업량을 달…
+k	야리야리	야리야리	
+k	야릿야릿	야릿야릿	
+k	야릿하다	야릿하다	빛깔이나 소리, 형체 따위가 선명하지 못하고 …
+k	야마가타	야마가타	
+k	야마구찌	야마구찌	'야마구치 시'와 '야마구치 현'의 북한말.
+k	야마구치	야마구치	
+k	야마나시	야마나시	
+k	야멸치다	야멸치다	타인의 사정을 돌보지 않고 자기 일만 생각하다.
+k	야무지다	야무지다	
+k	야물대다	야물대다	'야물거리다'.
+k	야물야물	야물야물	
+k	야민정음	야민정음	A humorous form of speaki…
+k	야반도주	야반도주	
+k	야불대다	야불대다	'야불거리다'.
+k	야불야불	야불야불	
+k	야비하다	야비하다	to be base, to be mean, t…
+k	야생동물	야생동물	wild animal; wildlife
+k	야생식물	야생식물	
+k	야속하다	야속하다	cold; cruel
+k	야수선택	야수선택	fielder's choice
+k	야슥야슥	야슥야슥	
+k	야슬대다	야슬대다	'야스락대다'의 준말.
+k	야슬야슬	야슬야슬	
+k	야심만만	야심만만	
+k	야심스레	야심스레	
+k	야심하다	야심하다	
+k	야옹대다	야옹대다	'아옹거리다'.
+k	야옹야옹	야옹야옹	
+k	야옹하다	야옹하다	
+k	야외극장	야외극장	
+k	야외무대	야외무대	
+k	야외수업	야외수업	
+k	야울야울	야울야울	
+k	야유하다	야유하다	
+k	야자나무	야자나무	a palm tree
+k	야자열매	야자열매	
+k	야자집게	야자집게	coconut crab (Birgus latr…
+k	야전병원	야전병원	
+k	야젓잖다	야젓잖다	
+k	야젓잖이	야젓잖이	
+k	야젓하다	야젓하다	
+k	야죽대다	야죽대다	'야기죽대다'의 준말.
+k	야죽야죽	야죽야죽	'야기죽야기죽'의 준말.
+k	야즐대다	야즐대다	
+k	야즐야즐	야즐야즐	
+k	야질대다	야질대다	가만히 있지 못하고 몸이나 궁둥이를 방정맞게 …
+k	야질야질	야질야질	
+k	야질하다	야질하다	
+k	야쿠르트	야쿠르트	brand name for a dairy pr…
+k	야쿠츠크	야쿠츠크	Yakutsk (a city, the regi…
+k	야쿠트어	야쿠트어	
+k	야쿠티아	야쿠티아	
+k	야키소바	야키소바	yakisoba (Japanese dish)
+k	야트막이	야트막이	
+k	야틈하다	야틈하다	'야트막하다'의 준말.
+k	야행하다	야행하다	to travel by night
+k	약동하다	약동하다	
+k	약물소독	약물소독	
+k	약물요법	약물요법	
+k	약물중독	약물중독	
+k	약바르다	약바르다	'약빠르다'의 비규범 표기.
+k	약방기생	약방기생	
+k	약분가능	약분가능	
+k	약빠르다	약빠르다	하는 짓이나 눈치가 빠르다.
+k	약사삼존	약사삼존	
+k	약사여래	약사여래	
+k	약상보살	약상보살	
+k	약소국가	약소국가	
+k	약소민족	약소민족	
+k	약속되다	약속되다	
+k	약속어음	약속어음	발행한 사람이 그 어음을 가지고 있는 사람에게…
+k	약속하는	약속하는	
+k	약속하다	약속하다	to promise
+k	약손가락	약손가락	넷째 손가락.
+k	약시하다	약시하다	
+k	약식재판	약식재판	
+k	약식절차	약식절차	
+k	약약하다	약약하다	실증이 나서 귀찮고 괴롭다.
+k	약왕보살	약왕보살	
+k	약용백분	약용백분	'땀띠약'의 북한말.
+k	약용식물	약용식물	
+k	약용효모	약용효모	
+k	약육강식	약육강식	law of the jungle
+k	약이름표	약이름표	'약명표'를 다듬은 말.
+k	약죽대다	약죽대다	'야기죽대다'의 준말.
+k	약죽약죽	약죽약죽	'야기죽야기죽'의 준말.
+k	약진하다	약진하다	to rush; to dash
+k	약차하다	약차하다	
+k	약초학자	약초학자	herbalist; medical botani…
+k	약취강도	약취강도	
+k	약취유괴	약취유괴	
+k	약취유인	약취유인	
+k	약탈하다	약탈하다	
+k	약학대학	약학대학	
+k	약해지다	약해지다	힘이나 기운이 없어지게 되다.
+k	약혼반지	약혼반지	engagement ring
+k	약혼하다	약혼하다	
+k	약화되다	약화되다	
+k	약화하다	약화하다	
+k	얄긋대다	얄긋대다	'얄긋거리다'.
+k	얄팍하다	얄팍하다	
+k	얌전하다	얌전하다	gentle, meek, obedient
+k	양극처리	양극처리	금속 부품을 전지(電池)의 양극으로 전류를 통…
+k	양념치킨	양념치킨	고추장, 마늘, 설탕 등을 넣어 만든 양념장에…
+k	양념하다	양념하다	to season, to spice up
+k	양도담보	양도담보	
+k	양도소득	양도소득	
+k	양도하다	양도하다	to hand over, to give up,…
+k	양동작전	양동작전	
+k	양두구육	양두구육	양의 머리를 걸어 놓고 개고기를 판다는 뜻으로…
+k	양두마차	양두마차	
+k	양러우촨	양러우촨	
+k	양러우촬	양러우촬	mutton kebab
+k	양로보험	양로보험	
+k	양로연금	양로연금	
+k	양말인형	양말인형	
+k	양면작전	양면작전	
+k	양미역취	양미역취	국화과의 여러해살이풀. 키가 1.0~2.5m이…
+k	양반계급	양반계급	
+k	양보하다	양보하다	to concede, to yield, to …
+k	양복쟁이	양복쟁이	a man in Western clothes
+k	양상군자	양상군자	
+k	양상소사	양상소사	
+k	양성반응	양성반응	
+k	양성생식	양성생식	
+k	양성애자	양성애자	a bisexual person
+k	양성잡종	양성잡종	
+k	양성전이	양성전이	
+k	양성종양	양성종양	
+k	양성평등	양성평등	남녀를 차별하지 않음.
+k	양숟가락	양숟가락	
+k	양원제도	양원제도	
+k	양원제의	양원제의	
+k	양입제출	양입제출	수입을 헤아려 지출을 계획함.
+k	양자역학	양자역학	quantum mechanics
+k	양자우물	양자우물	
+k	양자장론	양자장론	
+k	양자택일	양자택일	
+k	양적완화	양적완화	
+k	양지머리	양지머리	
+k	양지식물	양지식물	
+k	양층언어	양층언어	
+k	양치식물	양치식물	
+k	양치하다	양치하다	
+k	양타동사	양타동사	
+k	양태부사	양태부사	화자(話者)의 태도를 나타내는 문장 부사. '…
+k	양털더미	양털더미	fleece
+k	양털지방	양털지방	suint
+k	양해각서	양해각서	
+k	야간 시력	야간 시력	
+k	야구 모자	야구 모자	baseball cap
+k	야구 선수	야구 선수	baseball player
+k	야금거리다	야금거리다	무엇을 입 안에 넣고 잇따라 조금씩 먹어 들어…
+k	야기죽대다	야기죽대다	'야기죽거리다'.
+k	야누코비치	야누코비치	
+k	야드를하다	야드를하다	'야드르르하다'의 준말.
+k	야로슬라블	야로슬라블	
+k	야르르하다	야르르하다	
+k	야만스럽다	야만스럽다	미개하고 문화 수준이 낮은 데가 있다.
+k	야말 반도	야말 반도	
+k	야무수크로	야무수크로	Yamoussoukro (the capital…
+k	야무쑤끄로	야무쑤끄로	코트디부아르의 수도 이름 '야무수크로'의 북한…
+k	야물거리다	야물거리다	어린아이나 염소, 토끼 따위가 무엇을 먹느라고…
+k	야불거리다	야불거리다	입을 자주 놀려 잇따라 말하다.
+k	야생 동물	야생 동물	
+k	야스락대다	야스락대다	'야스락거리다'.
+k	야슬거리다	야슬거리다	'야스락거리다'의 준말.
+k	야심스럽다	야심스럽다	
+k	야옹거리다	야옹거리다	고양이가 자꾸 울다.
+k	야위죽대다	야위죽대다	
+k	야위죽하다	야위죽하다	
+k	야죽거리다	야죽거리다	'야기죽거리다'의 준말.
+k	야즐거리다	야즐거리다	
+k	야지랑스레	야지랑스레	
+k	야지러지다	야지러지다	
+k	야질거리다	야질거리다	
+k	야채 주스	야채 주스	vegetable juice (beverage…
+k	야채공포증	야채공포증	lachanophobia
+k	야트막하다	야트막하다	
+k	야행성동물	야행성동물	밤에 주로 활동하는 동물.
+k	약과 먹기	약과 먹기	(비유) 하기에 쉽고도 즐거운 일.
+k	약물 남용	약물 남용	
+k	약물 중독	약물 중독	
+k	약삭빠르다	약삭빠르다	하는 짓이나 눈치가 빨라서 무엇이 자신에게 이…
+k	약속의 땅	약속의 땅	the Promised Land
+k	약아빠지다	약아빠지다	남 보다 이익을 더 얻기 위하여 몰래 꾀를 부…
+k	약죽거리다	약죽거리다	'야기죽거리다'의 준말.
+k	약화시키다	약화시키다	
+k	얀마옌 섬	얀마옌 섬	
+k	얄긋거리다	얄긋거리다	짜인 물건의 사개가 맞지 아니하고 느슨하여 이…
+k	양고추냉이	양고추냉이	
+k	양귀비 씨	양귀비 씨	
+k	양날의 검	양날의 검	
+k	양버즘나무	양버즘나무	American planetree
+k	양성 모음	양성 모음	어감이 밝은 모음. ㅏ, ㅗ 등이 있다.
+k	양소래없다	양소래없다	to be immature, to lack c…
+k	양손잡이의	양손잡이의	
+k	양수 냄비	양수 냄비	
+k	양음 부호	양음 부호	acute accent
+k	양자 얽힘	양자 얽힘	
+k	양자화하다	양자화하다	
+k	양치질하다	양치질하다	
+k	양형 부당	양형 부당	범행의 동기나 결과에 비추어 볼 때 형량이 지…
+k	야구 글러브	야구 글러브	
+k	야구 동영상	야구 동영상	Used other than figurativ…
+k	야구 방망이	야구 방망이	
+k	야금야금하다	야금야금하다	
+k	야긋야긋하다	야긋야긋하다	
+k	야기죽거리다	야기죽거리다	자꾸 밉살스럽게 재깔이며 짓궂게 빈정거리다.
+k	야기죽야기죽	야기죽야기죽	
+k	야단야단하다	야단야단하다	
+k	야드르르하다	야드르르하다	
+k	야들야들하다	야들야들하다	
+k	야룩야룩하다	야룩야룩하다	
+k	야른야른하다	야른야른하다	
+k	야리야리하다	야리야리하다	
+k	야물야물하다	야물야물하다	
+k	야불야불하다	야불야불하다	
+k	야스락거리다	야스락거리다	입담 좋게 잇따라 말을 늘어놓다.
+k	야스락야스락	야스락야스락	
+k	야슥야슥하다	야슥야슥하다	
+k	야슬야슬하다	야슬야슬하다	
+k	야옹야옹하다	야옹야옹하다	
+k	야위죽거리다	야위죽거리다	
+k	야위죽야위죽	야위죽야위죽	
+k	야죽야죽하다	야죽야죽하다	
+k	야즐야즐하다	야즐야즐하다	
+k	야지랑스럽다	야지랑스럽다	
+k	야질야질하다	야질야질하다	
+k	약방에 감초	약방에 감초	감초가 들어가는 한약이 무척 많은 것을 빗대어…
+k	약죽약죽하다	약죽약죽하다	
+k	양갈래 머리	양갈래 머리	
+k	양극성 장애	양극성 장애	
+k	양반다리하는	양반다리하는	
+k	양서파충류학	양서파충류학	
+k	양성애 혐오	양성애 혐오	
+k	양자 색역학	양자 색역학	
+k	양자전기역학	양자전기역학	quantum electrodynamics
+k	양쯔강고기압	양쯔강고기압	양쯔 강 근처에서 생성되는 이동성고기압.
+k	양쯔강돌고래	양쯔강돌고래	
+k	양형영성체파	양형영성체파	
+k	약사유리광여래	약사유리광여래	
+k	약한 상호작용	약한 상호작용	
+k	양서파충류학자	양서파충류학자	
+k	야기죽야기죽하다	야기죽야기죽하다	
+k	야마노테센 게임	야마노테센 게임	
+k	야스락야스락하다	야스락야스락하다	
+k	야위죽야위죽하다	야위죽야위죽하다	
+k	양립할 수 없는	양립할 수 없는	
+k	양심적 병역거부자	양심적 병역거부자	conscientious objector

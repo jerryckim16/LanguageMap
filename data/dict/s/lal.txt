@@ -1,0 +1,633 @@
+k	알	al	egg, roe (of fish)
+e	ale	ale	1 meaning
+e	ali	ali	1 meaning
+e	all	all	6 meanings
+e	a lot	alot	3 meanings
+e	alas	alas	1 meaning
+e	albi	albi	1 meaning
+e	alec	alec	1 meaning
+e	alga	alga	1 meaning
+e	alif	alif	1 meaning
+e	ally	ally	3 meanings
+e	alms	alms	1 meaning
+e	aloe	aloe	1 meaning
+e	alps	alps	1 meaning
+e	also	also	1 meaning
+e	alto	alto	2 meanings
+e	alum	alum	1 meaning
+k	안라	alla	아라가야.
+k	알다	alda	to know, understand (to h…
+k	알라	alla	Allah (God’s name in Isla…
+k	알리	alli	
+k	알바	alba	part-time job; side job
+k	알자	alja	지위가 높은 사람에게 뵙기를 청하여 내는 명함.
+k	알제	alje	Algiers (the capital city…
+k	알토	alto	
+k	알파	alpa	alpha (name of the Greek,…
+k	앓다	alta	to suffer from an illness
+e	alarm	alarm	3 meanings
+e	album	album	3 meanings
+e	alder	alder	1 meaning
+e	aleph	aleph	1 meaning
+e	alert	alert	2 meanings
+e	alfvén	alfvn	1 meaning
+e	alias	alias	1 meaning
+e	alibi	alibi	1 meaning
+e	alice	alice	1 meaning
+e	alien	alien	5 meanings
+e	alike	alike	1 meaning
+e	alive	alive	1 meaning
+e	all of	allof	1 meaning
+e	allah	allah	1 meaning
+e	alley	alley	1 meaning
+e	allow	allow	3 meanings
+e	alloy	alloy	1 meaning
+e	allyl	allyl	1 meaning
+e	alone	alone	1 meaning
+e	along	along	2 meanings
+e	aloof	aloof	1 meaning
+e	aloud	aloud	1 meaning
+e	alpha	alpha	1 meaning
+e	altai	altai	1 meaning
+e	altar	altar	1 meaning
+e	alter	alter	1 meaning
+e	alvin	alvin	1 meaning
+k	안락	allak	comfort
+k	알곡	algok	grain, cereal, corn
+k	알락	allak	
+k	알람	allam	mechanical alarm (e.g. to…
+k	알로에	alloe	
+k	알림	allim	
+k	알몸	almom	naked body, bare body, nu…
+k	알못	almot	ignoramus (especially whe…
+k	알밤	albam	chestnut
+k	알밥	albap	a bowl of rice served wit…
+k	알새	alsae	열매나 과실 따위의 알의 크기.
+k	알집	aljip	'난소'의 토박이말. 또는 난소 대신 남한에 …
+k	알짜	aljja	best; top; cream of the c…
+k	알칸	alkan	alkane
+k	알켄	alken	alkene
+k	알콜	alkol	영어 'alcohol'의 비표준어. 바른 표기…
+k	알킨	alkin	alkyne
+k	알타이	altai	Altay
+k	알트	alteu	
+k	알판	alpan	CD, compact disc
+k	알펜	alpen	
+e	alaska	alaska	1 meaning
+e	albany	albany	1 meaning
+e	albedo	albedo	2 meanings
+e	albeit	albeit	1 meaning
+e	albert	albert	1 meaning
+e	albino	albino	2 meanings
+e	albury	albury	1 meaning
+e	alcove	alcove	1 meaning
+e	alecto	alecto	1 meaning
+e	aleppo	aleppo	1 meaning
+e	alight	alight	1 meaning
+e	aligot	aligot	1 meaning
+e	aliyah	aliyah	1 meaning
+e	alkali	alkali	1 meaning
+e	alkane	alkane	1 meaning
+e	alkene	alkene	1 meaning
+e	alkyne	alkyne	1 meaning
+e	all day	allday	1 meaning
+e	allege	allege	2 meanings
+e	allele	allele	1 meaning
+e	allier	allier	1 meaning
+e	allies	allies	2 meanings
+e	allude	allude	1 meaning
+e	allure	allure	2 meanings
+e	almaty	almaty	1 meaning
+e	almería	almera	1 meaning
+e	almond	almond	1 meaning
+e	almost	almost	1 meaning
+e	alpaca	alpaca	1 meaning
+e	alsace	alsace	1 meaning
+e	alt key	altkey	1 meaning
+e	altaic	altaic	1 meaning
+e	altair	altair	1 meaning
+e	always	always	2 meanings
+k	알가부	algabu	
+k	알게로	algero	
+k	알고무	algomu	(탁구) 탁구 라켓의 표면에 붙여진 돌기 고무…
+k	알구다	alguda	Gangwon, Pyongan, and Ham…
+k	알라디	alladi	Aladi (a town in Jilin, J…
+k	알레포	allepo	Aleppo (a city in Syria)
+k	알로기	allogi	
+k	알록이	alroki	'알로기'의 비표준어.
+k	알롱	allong	
+k	알리고	alligo	aligot (a potato and chee…
+k	알리다	allida	to inform, to announce, t…
+k	알리비	allibi	
+k	알리야	alliya	
+k	알마티	almati	Almaty (a city in Kazakhs…
+k	알베도	albedo	표면이나 물체에 입사된 일사에 대한 반사된 일…
+k	알보리	albori	
+k	알부자	albuja	
+k	알비노	albino	멜라닌 색소의 결핍으로 태어날 때부터 피부, …
+k	알선	alseon	
+k	알씬	alssin	
+k	알제리	aljeri	Algeria (a country in Nor…
+k	알카인	alkain	
+k	알케인	alkein	
+k	알코올	alkool	alcohol
+k	알탕	altang	명태알, 곤이 따위를 콩나물, 무, 미나리와 …
+k	알파카	alpaka	낙타과의 동물. 남아메리카의 안데스산맥에 서식…
+e	a little	alittle	1 meaning
+e	al dente	aldente	1 meaning
+e	al-qaeda	alqaeda	1 meaning
+e	alabama	alabama	4 meanings
+e	aladdin	aladdin	1 meaning
+e	alagoas	alagoas	1 meaning
+e	alanine	alanine	1 meaning
+e	albania	albania	1 meaning
+e	alberta	alberta	1 meaning
+e	albireo	albireo	1 meaning
+e	albumin	albumin	1 meaning
+e	alcazar	alcazar	1 meaning
+e	alchemy	alchemy	1 meaning
+e	alcmene	alcmene	1 meaning
+e	alcohol	alcohol	2 meanings
+e	alewife	alewife	1 meaning
+e	alexius	alexius	1 meaning
+e	alfalfa	alfalfa	1 meaning
+e	alfredo	alfredo	1 meaning
+e	algebra	algebra	3 meanings
+e	algeria	algeria	1 meaning
+e	alghero	alghero	1 meaning
+e	algiers	algiers	1 meaning
+e	ali baba	alibaba	1 meaning
+e	alimony	alimony	1 meaning
+e	alishan	alishan	1 meaning
+e	alkanet	alkanet	1 meaning
+e	all hail	allhail	1 meaning
+e	allergy	allergy	4 meanings
+e	allonge	allonge	1 meaning
+e	allowed	allowed	1 meaning
+e	almanac	almanac	1 meaning
+e	almirah	almirah	1 meaning
+e	already	already	3 meanings
+e	alumnus	alumnus	2 meanings
+e	alunite	alunite	1 meaning
+k	안라국	allaguk	아라가야.
+k	안락사	allaksa	euthanasia
+k	안력	allyeok	
+k	알가난	alganan	
+k	알거지	algeoji	a penniless person
+k	알까기	alkkagi	hatching
+k	알뜰	altteul	
+k	알라닌	allanin	
+k	알라딘	alladin	Aladdin
+k	알라신	allasin	Allah (the Islamic god)
+k	알레프	allepeu	히브리어 첫째 알파벳 'א'의 이름. (부록:…
+k	알렉토	allekto	
+k	알력	allyeok	conflict
+k	알롱이	allongi	
+k	알리바이	allibai	
+k	알리에주	allieju	
+k	알리프	allipeu	아랍 문자에서 쓰이는 문자 중 하나이다.
+k	알릴기	allilgi	allyl
+k	알마틔	almatui	'알마티'의 연변말.
+k	알맞다	almatda	to be just right; suited
+k	알바니아	albania	Albania (a country in Sou…
+k	알버타	albeota	[~주(州)] alternative form …
+k	알부민	albumin	albumin
+k	알비레오	albireo	
+k	알뿌리	alppuri	
+k	알자스	aljaseu	
+k	알집암	aljibam	'난소암'의 북한말.
+k	알차다	alchada	to be fully ripe
+k	알카에다	alkaeda	
+k	알칸나	alkanna	
+k	알칼리	alkalli	alkali
+k	알토란	altoran	
+k	알트 키	alteuki	
+k	알파벳	alpabet	the Latin alphabet
+k	알펜파	alpenpa	
+k	알현	alhyeon	audience with a superior,…
+e	alaverdi	alaverdi	1 meaning
+e	albacore	albacore	1 meaning
+e	albanian	albanian	3 meanings
+e	albinism	albinism	1 meaning
+e	aldehyde	aldehyde	1 meaning
+e	aleister	aleister	1 meaning
+e	algerian	algerian	2 meanings
+e	alienate	alienate	1 meaning
+e	alistair	alistair	1 meaning
+e	alkaline	alkaline	1 meaning
+e	alkaloid	alkaloid	1 meaning
+e	all along	allalong	1 meaning
+e	all in all	allinall	1 meaning
+e	all night	allnight	1 meaning
+e	all right	allright	5 meanings
+e	allegory	allegory	1 meaning
+e	alleluia	alleluia	1 meaning
+e	allen key	allenkey	1 meaning
+e	allergen	allergen	1 meaning
+e	allergic	allergic	2 meanings
+e	alliance	alliance	1 meaning
+e	allocate	allocate	3 meanings
+e	allspice	allspice	2 meanings
+e	allusion	allusion	1 meaning
+e	alluvium	alluvium	1 meaning
+e	almighty	almighty	1 meaning
+e	aloe vera	aloevera	1 meaning
+e	aloo gobi	aloogobi	1 meaning
+e	alpha ray	alpharay	1 meaning
+e	alphabet	alphabet	1 meaning
+e	alsatian	alsatian	1 meaning
+e	alt-right	altright	1 meaning
+e	altar boy	altarboy	1 meaning
+e	alter ego	alterego	1 meaning
+e	although	although	2 meanings
+e	altitude	altitude	2 meanings
+e	altruism	altruism	1 meaning
+e	alveolar	alveolar	1 meaning
+e	alveolus	alveolus	1 meaning
+k	알가붕	algabung	
+k	알갈림	alkallim	
+k	알갱이	algaengi	grain, corn, pellet
+k	알근히	algeunhi	
+k	알라바마	allabama	[~주(州)] alternative form …
+k	알락오리	allagori	The gadwall (Mareca strep…
+k	알랑수	allangsu	
+k	알레고리	allegori	allegory
+k	알리바무	allibamu	
+k	알리바바	allibaba	Ali Baba
+k	알맞은	almajeun	'알맞다'의 관형사형.
+k	알맞음	almajeum	'알맞다'의 명사형.
+k	알맹이	almaengi	substance, content, depth
+k	알배추	albaechu	small, young, sweet napa …
+k	알비노의	albinoui	
+k	알사탕	alsatang	
+k	알선자	alseonja	
+k	알숭어	alsungeo	숭엇과에 속하는 바닷물고기. 몸은 가늘고 길며…
+k	알스트	alseuteu	
+k	알제리의	aljeriui	
+k	알제리인	aljeriin	주로 알제리에 거주하는 민족. 일부는 프랑스에…
+k	알찌개	aljjigae	달걀이나 생선알에 여러 가지 양념을 넣고 끓은…
+k	알큰히	alkeunhi	
+k	알타이르	altaireu	
+k	알파 입자	alpaipja	
+k	알프스	alpeuseu	
+e	al hoceima	alhoceima	1 meaning
+e	al-andalus	alandalus	1 meaning
+e	alabamian	alabamian	1 meaning
+e	alabaster	alabaster	1 meaning
+e	albatross	albatross	2 meanings
+e	albondiga	albondiga	1 meaning
+e	alchemist	alchemist	1 meaning
+e	alcoholic	alcoholic	4 meanings
+e	aldebaran	aldebaran	1 meaning
+e	alejandro	alejandro	1 meaning
+e	alemannic	alemannic	1 meaning
+e	alexander	alexander	1 meaning
+e	alexandra	alexandra	1 meaning
+e	alfvén wave	alfvnwave	1 meaning
+e	algherese	algherese	1 meaning
+e	algorithm	algorithm	1 meaning
+e	alice band	aliceband	1 meaning
+e	alicyclic	alicyclic	1 meaning
+e	aliphatic	aliphatic	1 meaning
+e	all at once	allatonce	1 meaning
+e	all blacks	allblacks	1 meaning
+e	all thumbs	allthumbs	1 meaning
+e	allahabad	allahabad	1 meaning
+e	allantois	allantois	1 meaning
+e	alligator	alligator	1 meaning
+e	allometry	allometry	1 meaning
+e	allomorph	allomorph	1 meaning
+e	allophone	allophone	1 meaning
+e	allowance	allowance	1 meaning
+e	alma mater	almamater	2 meanings
+e	almandine	almandine	1 meaning
+e	almost all	almostall	1 meaning
+e	along with	alongwith	1 meaning
+e	alongside	alongside	2 meanings
+e	alor setar	alorsetar	1 meaning
+e	alpenglow	alpenglow	1 meaning
+e	alpha male	alphamale	2 meanings
+e	alternate	alternate	2 meanings
+e	altimeter	altimeter	1 meaning
+e	aluminium	aluminium	1 meaning
+k	안락의자	allaguija	armchair
+k	안락하다	allakhada	
+k	알게 뭐야	algemwoya	what the hell?; who cares?
+k	알게르어	algereueo	
+k	알기살기	algisalgi	
+k	알데바란	aldebaran	
+k	알데히드	aldehideu	aldehyde
+k	알뜰히	altteulhi	
+k	알라배마	allabaema	[~주(州)] alternative form …
+k	알락도요	allakdoyo	wood sandpiper (Tringa gl…
+k	알랑쇠	allangsoe	
+k	알레그로	allegeuro	빠르게.
+k	알레르기	allereugi	allergy
+k	알렐루야	allelluya	
+k	알려진	allyeojin	
+k	알로스타	alloseuta	
+k	알로에 베라	alloebera	
+k	알록점	allokjeom	
+k	알림법	allimbeop	
+k	알림장	allimjang	
+k	알바니아어	albaniaeo	Albanian (language)
+k	알바니아의	albaniaui	
+k	알바니아인	albaniain	주로 알바니아, 코소보에 거주하는 민족. 일부…
+k	알바생	albasaeng	part-time worker
+k	알바아마하	albaamaha	
+k	알밥젓	albapjeot	'명란젓'의 북한말.
+k	알버섯	albeoseot	Rhizopogon rubescens
+k	알싸하다	alssahada	
+k	알자스어	aljaseueo	
+k	알카사르	alkasareu	
+k	알코올계	alkoolgye	알코올 비중계.
+k	알크메네	alkeumene	
+k	알파벳의	alpabesui	
+k	알팔루자	alpalluja	
+k	알프레도	alpeuredo	
+k	알호세이마	alhoseima	
+e	alarm clock	alarmclock	1 meaning
+e	alcoholism	alcoholism	2 meanings
+e	alexandria	alexandria	2 meanings
+e	algal bloom	algalbloom	1 meaning
+e	algolagnia	algolagnia	1 meaning
+e	all the best	allthebest	1 meaning
+e	all the more	allthemore	1 meaning
+e	all the same	allthesame	1 meaning
+e	allegation	allegation	1 meaning
+e	allegiance	allegiance	1 meaning
+e	allosaurus	allosaurus	1 meaning
+e	alloy steel	alloysteel	1 meaning
+e	almond milk	almondmilk	1 meaning
+e	aloha shirt	alohashirt	1 meaning
+e	alprazolam	alprazolam	1 meaning
+e	altruistic	altruistic	1 meaning
+k	안락성	allakseong	
+k	알겠어요	algesseoyo	
+k	알고리듬	algorideum	(가산) 수학 문제를 푸는 순서 있는 단계들의…
+k	알고리즘	algorijeum	algorism, algorithm
+k	알근하다	algeunhada	매워서 입 안이 조금 알알하다.
+k	알껍질	alkkeopjil	eggshell
+k	알데하이드	aldehaideu	
+k	알라고아스	allagoaseu	
+k	알락알락	allagallak	
+k	알람시계	allamsigye	alarm clock
+k	알래스카	allaeseuka	[~주(州)] Alaska (a state o…
+k	알레르기아	alrereugia	
+k	알려지다	allyeojida	to be made known
+k	알록알록	allogallok	'알로록알로록'의 준말.
+k	알롱지다	allongjida	
+k	알루미늄	alluminyum	aluminium (a silvery meta…
+k	알루미니움	alluminium	'알루미늄'의 북한말.
+k	알룩알룩	allugalluk	
+k	알밋알밋	almidalmit	오물쪼물하며 미적미적 미루는 모양.
+k	알선하다	alseonhada	
+k	알씬하다	alssinhada	
+k	알짜배기	aljjabaegi	
+k	알큰하다	alkeunhada	매워서 입 안이 조금 알알하다.
+k	알타이어족	altaieojok	(언어학) 터키어파, 몽골어파, 만주퉁구스어파…
+k	알파 변이	alpabyeoni	
+k	알파벳순	alpabetsun	로마자의 순서.
+e	alarm system	alarmsystem	1 meaning
+e	alcohol-free	alcoholfree	1 meaning
+e	aldaric acid	aldaricacid	1 meaning
+e	aldopentose	aldopentose	1 meaning
+e	alessandria	alessandria	1 meaning
+e	alexandrine	alexandrine	1 meaning
+e	alexandrite	alexandrite	1 meaning
+e	alexithymia	alexithymia	1 meaning
+e	alkali metal	alkalimetal	1 meaning
+e	allahu akbar	allahuakbar	1 meaning
+e	allee effect	alleeeffect	1 meaning
+e	allelopathy	allelopathy	1 meaning
+e	alleviation	alleviation	1 meaning
+e	almond paste	almondpaste	1 meaning
+e	also known as	alsoknownas	1 meaning
+e	alternately	alternately	1 meaning
+e	alternative	alternative	3 meanings
+e	altocumulus	altocumulus	1 meaning
+e	altostratus	altostratus	1 meaning
+k	알고 싶어요	algosipeoyo	
+k	알뜰하다	altteulhada	
+k	알라베르디	allabereudi	
+k	알라하바드	allahabadeu	
+k	알락달락	allakdallak	
+k	알랑대다	allangdaeda	'알랑거리다'.
+k	알량하다	allyanghada	시시하고 보잘것없다.
+k	알레이스터	alleiseuteo	Aleister (male given name)
+k	알렉산더	alleksandeo	Alexander, the Ancient Gr…
+k	알렉시오스	alleksioseu	
+k	알록달록	allokdallok	
+k	알룩달룩	allukdalluk	
+k	알른대다	alleundaeda	'알른거리다'.
+k	알선책	alseonchaek	
+k	알쏭하다	alssonghada	
+k	알씬대다	alssindaeda	'알씬거리다'.
+k	알아맞추다	alamatchuda	'알아맞히다'의 비표준어.
+k	알전등	aljeondeung	
+k	알제리 사람	aljerisaram	
+k	알좌자이르	aljwajaireu	알제리의 수도 이름 '알제'의 북한말.
+k	알찐대다	aljjindaeda	'알찐거리다'.
+k	알칼로이드	alkalloideu	alkaloid
+k	알코올성	alkoolseong	
+k	알파인 스키	alpainseuki	
+k	알현하다	alhyeonhada	【…에/에게】【…을】 지체가 높고 귀한 사람을…
+e	alcohol abuse	alcoholabuse	1 meaning
+e	all of a sudden	allofasudden	1 meaning
+e	all saints' day	allsaintsday	1 meaning
+e	all-you-can-eat	allyoucaneat	1 meaning
+e	allative case	allativecase	1 meaning
+e	alliteration	alliteration	1 meaning
+e	alliterative	alliterative	1 meaning
+e	alpha variant	alphavariant	1 meaning
+e	alpha version	alphaversion	1 meaning
+e	alphabetical	alphabetical	2 meanings
+e	alphanumeric	alphanumeric	1 meaning
+e	alpine chough	alpinechough	1 meaning
+e	alpine skiing	alpineskiing	1 meaning
+k	안락해지다	allakhaejida	
+k	알근알근	algeunalgeun	
+k	알금뱅이	algeumbaengi	
+k	알금삼삼	algeumsamsam	
+k	알금솜솜	algeumsomsom	
+k	알금알금	algeumalgeum	
+k	알람두릴라	allamdurilla	
+k	알랑알랑	allangallang	
+k	알래스카 주	allaeseukaju	캐나다 서쪽에 위치한 미국의 주. 서쪽은 러시…
+k	알레한드로	allehandeuro	
+k	알로사우루스	allosauruseu	
+k	알롱알롱	allongallong	
+k	알른알른	alleunalleun	
+k	알바니아 사람	albaniasaram	
+k	알바트로스	albateuroseu	
+k	알씬알씬	alssinalssin	
+k	알자스로렌	aljaseuroren	Alsace-Lorraine (a histor…
+k	알짱대다	aljjangdaeda	'알짱거리다'.
+k	알쫑대다	aljjongdaeda	'알쫑거리다'.
+k	알찐알찐	aljjinaljjin	
+k	알칼리성	alkalliseong	
+k	알코올음료	alkooreumnyo	알코올이 함유된 음료.
+k	알파벳순의	alpabetsunui	
+k	알함두릴라	alhamdurilla	
+k	앍음앍음	algeumalgeum	
+e	a lie has no legs	aliehasnolegs	1 meaning
+e	alaska pollock	alaskapollock	1 meaning
+e	albertosaurus	albertosaurus	1 meaning
+e	alhamdulillah	alhamdulillah	1 meaning
+e	all-wheel drive	allwheeldrive	1 meaning
+e	alluvial plain	alluvialplain	1 meaning
+e	alpha and omega	alphaandomega	1 meaning
+e	alpha centauri	alphacentauri	1 meaning
+e	alpha particle	alphaparticle	1 meaning
+e	altai republic	altairepublic	1 meaning
+e	alternatively	alternatively	1 meaning
+e	alto saxophone	altosaxophone	1 meaning
+e	aluminium foil	aluminiumfoil	1 meaning
+k	안락사시키다	allaksasikida	
+k	알가관정	algagwanjeong	
+k	알겠습니다	algetseumnida	
+k	알근달근	algeundalgeun	
+k	알기살기하다	algisalgihada	
+k	알뜰시장	altteulsijang	
+k	알락할미새	allakhalmisae	white wagtail
+k	알락해오라기	allakhaeoragi	The great bittern, Botaur…
+k	알랑거리다	allanggeorida	to flatter, fawn, adulate…
+k	알랑방귀	allangbanggwi	coarse flattery
+k	알래스카만	allaeseukaman	
+k	알롱달롱	allongdallong	
+k	알루미늄박	alluminyumbak	
+k	알른거리다	alleungeorida	무엇이 조금씩 보이다 말다 하다.
+k	알맞춤하다	almatchumhada	
+k	알씬거리다	alssingeorida	작은 것이 잇따라 눈앞에 잠깐씩 나타났다 없어…
+k	알찌근하다	aljjigeunhada	'알짝지근하다'의 준말.
+k	알찐거리다	aljjingeorida	남의 비위를 맞추려고 가까이 붙어서 계속 아첨…
+k	알코올 남용	alkoolnamyong	
+k	알코올 중독	alkooljungdok	
+k	알코올램프	alkoollaempeu	알코올을 연료로 쓰는 실험 기구. 알코올이 담…
+k	알토 색소폰	altosaeksopon	
+k	알프라졸람	alpeurajollam	
+e	alcalá de henares	alcaldehenares	1 meaning
+e	alexandroupoli	alexandroupoli	1 meaning
+e	algerian arabic	algerianarabic	1 meaning
+e	alliteratively	alliteratively	1 meaning
+e	alphabetically	alphabetically	1 meaning
+e	alpine accentor	alpineaccentor	1 meaning
+e	alsace-lorraine	alsacelorraine	1 meaning
+e	aluminium oxide	aluminiumoxide	1 meaning
+e	alveolar artery	alveolarartery	1 meaning
+k	알딸딸하다	alttalttalhada	
+k	알락알락하다	allagallakhada	
+k	알레르기성	allereugiseong	allergic
+k	알렉산드리아	alleksandeuria	Alexandria (a city in Egy…
+k	알로록알로록	allorogallorok	
+k	알로하 셔츠	allohasyeocheu	
+k	알록알록하다	allogallokhada	
+k	알루미늄 포일	alluminyumpoil	
+k	알룩알룩하다	allugallukhada	
+k	알밋알밋하다	almidalmithada	
+k	알쏭알쏭	alssongalssong	
+k	알쑹알쑹	alssungalssung	
+k	알짱거리다	aljjanggeorida	남의 비위를 맞추려고 아첨을 하며 계속 남을 …
+k	알짱알짱	aljjangaljjang	
+k	알쫑거리다	aljjonggeorida	남의 비위를 맞추려고 가까이 붙어서 그럴듯한 …
+k	알쫑알쫑	aljjongaljjong	
+k	알칼리 금속	alkalligeumsok	
+k	알칼리금속	alkalligeumsok	주기율표 ⅠA족에 속하는 리튬, 나트륨, 칼륨…
+e	alaskan malamute	alaskanmalamute	1 meaning
+e	aleutian islands	aleutianislands	1 meaning
+e	algebraic number	algebraicnumber	1 meaning
+e	alive and kicking	aliveandkicking	1 meaning
+e	all-purpose flour	allpurposeflour	1 meaning
+e	alternative rock	alternativerock	1 meaning
+k	안립행보살	alliphaengbosal	
+k	알고 싶습니다	algosipseumnida	
+k	알뜰살뜰	altteulsaltteul	
+k	알라후 아크바르	allahuakeubareu	
+k	알락개구리매	allakgaegurimae	The pied harrier, Circus …
+k	알락달락하다	allakdallakhada	
+k	알레르기 비염	allereugibiyeom	
+k	알렉싼드르	allekssandeureu	러시아의 남자 이름 '알렉산드르'의 북한말.
+k	알로록달로록	allorokdallorok	
+k	알로르스타르	alloreuseutareu	
+k	알록달록하다	allokdallokhada	다색의; 여러 색이 다양하게 존재하는.
+k	알룩달룩하다	allukdallukhada	
+k	알류샨 열도	allyusyanyeoldo	
+k	알쏭달쏭	alssongdalssong	
+k	알쑹달쑹	alssungdalssung	
+k	알코올 중독의	alkooljungdogui	
+k	알코올 중독자	alkooljungdokja	
+k	알타이 공화국	altaigonghwaguk	
+e	alcohol addiction	alcoholaddiction	1 meaning
+e	all bark and no bite	allbarkandnobite	1 meaning
+e	allergic rhinitis	allergicrhinitis	1 meaning
+e	almost everywhere	almosteverywhere	1 meaning
+e	altitude sickness	altitudesickness	1 meaning
+k	알근알근하다	algeunalgeunhada	
+k	알금삼삼하다	algeumsamsamhada	
+k	알금솜솜하다	algeumsomsomhada	
+k	알금알금하다	algeumalgeumhada	
+k	알랑똥땅	allangttongttang	
+k	알랑알랑하다	allangallanghada	남에게 잘 보이기 위해 비위를 맞추며 환심을 …
+k	알로롱알로롱	allorongallorong	
+k	알롱알롱하다	allongallonghada	
+k	알른알른하다	alleunalleunhada	
+k	알리프 마크수라	allipeumakeusura	아랍어 문자 ى.
+k	알씬알씬하다	alssinalssinhada	
+k	알잘딱깔센	aljalttakkkalsen	알아서 잘 때 깔끔하고 센스있게.
+k	알짝지근하다	aljjakjigeunhada	
+k	알찐알찐하다	aljjinaljjinhada	
+k	알칼리 토금속	alkallitogeumsok	
+k	알칼리토금속	alkalritogeumsok	
+k	알코올 의존증	alkooluijonjeung	
+k	알코올이 들어간	alkoorideureogan	
+k	앍음앍음하다	algeumalgeumhada	
+e	a little bird told me	alittlebirdtoldme	1 meaning
+e	alexander the great	alexanderthegreat	1 meaning
+e	algebraic analysis	algebraicanalysis	1 meaning
+e	algebraic equation	algebraicequation	1 meaning
+e	algebraic geometry	algebraicgeometry	1 meaning
+e	alice in wonderland	aliceinwonderland	1 meaning
+e	all rights reserved	allrightsreserved	1 meaning
+e	alphabetical order	alphabeticalorder	1 meaning
+e	alternative energy	alternativeenergy	1 meaning
+e	alumni association	alumniassociation	1 meaning
+e	alzheimer's disease	alzheimersdisease	1 meaning
+k	알근달근하다	algeundalgeunhada	
+k	알뜰살뜰히	altteulsaltteulhi	
+k	알로롱달로롱	allorongdallorong	
+k	알롱달롱하다	allongdallonghada	
+k	알바니아공화국	albaniagonghwaguk	
+k	알베르토사우루스	albereutosauruseu	
+e	albany pitcher plant	albanypitcherplant	1 meaning
+e	alcohol use disorder	alcoholusedisorder	1 meaning
+e	alkaline earth metal	alkalineearthmetal	1 meaning
+e	all roads lead to rome	allroadsleadtorome	1 meaning
+e	alternating current	alternatingcurrent	1 meaning
+k	알로록알로록하다	allorogallorokhada	
+k	알쏭알쏭하다	alssongalssonghada	
+k	알쑹알쑹하다	alssungalssunghada	
+k	알짱알짱하다	aljjangaljjanghada	
+k	알쫑알쫑하다	aljjongaljjonghada	
+k	알츠하이머 병	alcheuhaimeobyeong	
+k	알코올 사용 장애	alkoolsayongjangae	
+e	alternative medicine	alternativemedicine	1 meaning
+k	알뜰살뜰하다	altteulsaltteulhada	
+k	알라꿍달라꿍	allakkungdallakkung	
+k	알로록달로록하다	allorokdallorokhada	
+k	알쏭달쏭하다	alssongdalssonghada	
+k	알쑹달쑹하다	alssungdalssunghada	
+k	알칼리토류금속	alkalritoryugeumsok	
+e	all's fair in love and war	allsfairinloveandwar	1 meaning
+e	all's well that ends well	allswellthatendswell	1 meaning
+k	알랑똥땅하다	allangttongttanghada	
+k	알로롱알로롱하다	allorongalloronghada	
+k	알로롱달로롱하다	allorongdalloronghada	
+e	alligator snapping turtle	alligatorsnappingturtle	1 meaning
+k	알라꿍달라꿍하다	allakkungdallakkunghada	
+k	알렉산드로스 대왕	alleksandeuroseudaewang	
+e	all that glitters is not gold	allthatglittersisnotgold	1 meaning
+k	알래스칸 맬러뮤트	allaeseukanmaelleomyuteu	
+e	alice in wonderland syndrome	aliceinwonderlandsyndrome	1 meaning
+k	알제리 인민민주공화국	aljeriinminminjugonghwaguk	
+e	a leopard cannot change its spots	aleopardcannotchangeitsspots	1 meaning
+e	alternative dispute resolution	alternativedisputeresolution	1 meaning

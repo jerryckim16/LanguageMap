@@ -1,0 +1,26 @@
+e	equal	equal	1 meaning
+e	equip	equip	1 meaning
+e	equine	equine	1 meaning
+e	equity	equity	2 meanings
+e	equally	equally	1 meaning
+e	equator	equator	1 meaning
+e	equinox	equinox	1 meaning
+e	equality	equality	3 meanings
+e	equalize	equalize	1 meaning
+e	equation	equation	1 meaning
+e	equal sign	equalsign	1 meaning
+e	equalizer	equalizer	2 meanings
+e	equipment	equipment	2 meanings
+e	equivocal	equivocal	2 meanings
+e	equanimity	equanimity	1 meaning
+e	equanimous	equanimous	1 meaning
+e	equatorial	equatorial	1 meaning
+e	equivalent	equivalent	3 meanings
+e	equilibrium	equilibrium	3 meanings
+e	equivocation	equivocation	1 meaning
+e	equestrianism	equestrianism	1 meaning
+e	equal temperament	equaltemperament	1 meaning
+e	equatorial guinea	equatorialguinea	1 meaning
+e	equivalence class	equivalenceclass	1 meaning
+e	equilateral triangle	equilateraltriangle	1 meaning
+e	equivalence relation	equivalencerelation	1 meaning

@@ -1,0 +1,5 @@
+e	cng	cng	1 meaning
+e	c`num`	cnum	1 meaning
+e	cần thơ	cnth	1 meaning
+e	cnidarian	cnidarian	1 meaning
+e	cnidocyte	cnidocyte	1 meaning

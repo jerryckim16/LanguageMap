@@ -1,0 +1,2854 @@
+j	人	人	a person, human
+j	伺	伺	（うかがい）指示を仰ぐこと。そのための書状。
+j	俺	俺	I, me
+j	儺	儺	driving away the gods of …
+j	出	出	being from a certain place
+j	刺	刺	a thorn, prickle
+j	勺	勺	18.039 milliliters (a ten…
+j	区	区	ward, section, district
+j	叺	叺	straw bag
+j	噺	噺	
+j	基	基	foundation
+j	堺	堺	Sakai (a city in Osaka Pr…
+j	墺	墺	オーストリアを意味する語を作る。
+j	壺	壺	A pot or jar; a vessel or…
+j	寺	寺	a temple
+j	尺	尺	the shaku, "metal shaku",…
+j	嶺	嶺	（みね、ね）山の頂。
+j	建	建	a male given name
+j	挺	挺	long and narrow things su…
+j	捺	捺	a female given name
+j	揺	揺	shaking, swinging, trembl…
+j	旺	旺	a male given name
+j	智	智	a male given name
+j	机	机	desk; table
+j	桺	桺	
+j	棺	棺	coffin
+j	樺	樺	a birch (plant of genus B…
+j	決	決	decision, vote
+j	渺	渺	boundless, limitless, vas…
+j	為	為	the twelfth string on a 箏…
+j	爺	爺	a grandfather
+j	獺	獺	an otter
+j	町	町	a town, a city
+j	発	発	departure
+j	皺	皺	a pattern of cracks and w…
+j	確	確	certain, definite
+j	空	空	the sky
+j	竺	竺	a male given name
+j	紺	紺	navy blue, dark blue
+j	綺	綺	a female given name
+j	肺	肺	lung
+j	腺	腺	gland
+j	苺	苺	a strawberry (plant of ge…
+j	葺	葺	roofing, roofed with
+j	薺	薺	shepherd's purse, Capsell…
+j	藺	藺	a rush
+j	螺	螺	any shellfish with a spir…
+j	諺	諺	a proverb (phrase express…
+j	辺	辺	place, general area, vici…
+j	遺	遺	something fallen, somethi…
+j	鎺	鎺	habaki: a metal collar mo…
+j	険	険	steepness (of mountain); …
+j	鵺	鵺	synonym of 虎鶇 (tora tsugu…
+j	鷺	鷺	heron
+j	麺	麺	noodles
+k	공	空	ball
+k	관	棺	pipe; tube; duct
+k	구	区	nine
+k	기	基	energy, spirit (of a pers…
+k	대	臺	something large; somethin…
+k	발	発	foot (of a human or amoth…
+k	선	腺	judging the quality of a …
+k	인	人	person; people; human, hu…
+k	페	肺	lung
+k	폐	肺	lung (organ)
+j	人々	人々	people, each person, ever…
+j	人の	人の	
+j	人世	人世	the human world
+j	人中	人中	society, company
+j	人主	人主	人君。きみ。君主。
+j	人乳	人乳	人間の乳。
+j	人事	人事	human affairs
+j	人人	人人	
+j	人件	人件	人事に関すること。
+j	人位	人位	人間としての地位。
+j	人体	人体	human body
+j	人倫	人倫	human ethics
+j	人偏	人偏	the kanji radical 人 on th…
+j	人偶	人偶	互いに親愛すること。
+j	人傑	人傑	知恵と行動力が人並み外れて優れた人物。傑物。
+j	人出	人出	crowd; turnout
+j	人前	人前	the public
+j	人力	人力	manpower, human power
+j	人勧	人勧	人事院勧告。
+j	人区	人区	人間の世界。人域。
+j	人卒	人卒	人民。
+j	人参	人参	a carrot (Daucus carota s…
+j	人口	人口	population
+j	人台	人台	衣類の製作や陳列などに使用するための人体の型。
+j	人吉	人吉	Hitoyoshi (a city in Kuma…
+j	人名	人名	person's name
+j	人君	人君	人である君主。君主。
+j	人命	人命	human life
+j	人和	人和	harmony among people
+j	人品	人品	品性。人格。人柄。
+j	人員	人員	personnel
+j	人垣	人垣	crowd of people
+j	人域	人域	人間の世界。人区。
+j	人境	人境	人が暮らしている所。人里。
+j	人士	人士	person (of standing)
+j	人声	人声	voice, human voice
+j	人外	人外	the middle of nowhere; a …
+j	人天	人天	人間界の人間と天上界の天人。また、人間界と天上界。
+j	人夫	人夫	（古用）肉体労働を担う労働者。
+j	人妻	人妻	a married woman
+j	人子	人子	人間の子。
+j	人孔	人孔	manhole
+j	人定	人定	人が制定すること。
+j	人家	人家	house, dwelling
+j	人寰	人寰	the land of the living; t…
+j	人寿	人寿	人の寿命。
+j	人尿	人尿	人の尿。
+j	人工	人工	man-made; artificial
+j	人年	人年	
+j	人形	人形	doll; puppet
+j	人影	人影	a figure of a person
+j	人後	人後	losing out to others, com…
+j	人徳	人徳	natural virtue, personal …
+j	人心	人心	human nature; human heart…
+j	人性	人性	human nature
+j	人情	人情	humanity, empathy, sympat…
+j	人意	人意	人の心。
+j	人戸	人戸	民家。人家。
+j	人手	人手	person's hand, person's w…
+j	人才	人才	才能があり役に立つ人物。
+j	人数	人数	the number of people
+j	人文	人文	the humanities
+j	人日	人日	Human day; also known as …
+j	人時	人時	
+j	人月	人月	
+j	人望	人望	popularity; good reputati…
+j	人材	人材	talented person
+j	人柄	人柄	personality, character; p…
+j	人柱	人柱	hitobashira; human sacrif…
+j	人格	人格	personality; a person's c…
+j	人権	人権	human rights
+j	人民	人民	the people, the general p…
+j	人気	人気	popularity
+j	人治	人治	権力者の人徳による統治。
+j	人波	人波	surging crowd, wave of hu…
+j	人流	人流	movement of people (the p…
+j	人海	人海	広い海のように人が多いこと。
+j	人災	人災	人間の不注意や不作為により発生したり被害が拡大した…
+j	人為	人為	artificial, human work, m…
+j	人煙	人煙	人家から立ち上る生活で出る煙。
+j	人熊	人熊	
+j	人物	人物	person, figure, personage
+j	人犯	人犯	犯人。
+j	人狼	人狼	a werewolf
+j	人獅	人獅	
+j	人獣	人獣	人間と獣類。
+j	人生	人生	life
+j	人用	人用	人界の俗事に使うこと。
+j	人界	人界	（仏教）人間が住む世界。人間界。
+j	人畜	人畜	man and beast
+j	人皇	人皇	神代の天皇に対し、神武天皇以後の天皇。
+j	人目	人目	an attention, observation…
+j	人相	人相	looks, physiognomy, count…
+j	人知	人知	人間の持つ知識・知見。
+j	人称	人称	person
+j	人税	人税	租税の分類分類方法の一つ。その者に帰属する収益、そ…
+j	人種	人種	race; ethnicity
+j	人籟	人籟	人間が作り出す様々な音。
+j	人糞	人糞	human excrement
+j	人絹	人絹	rayon
+j	人繞	人繞	漢字の部首「⼉」が繞である場合の呼称。
+j	人耦	人耦	互いに尊敬し親しみ合うこと。
+j	人肉	人肉	human meat
+j	人肥	人肥	人の糞尿を原料とした肥料。
+j	人脈	人脈	connections (people with …
+j	人臣	人臣	家臣。臣下。家来。
+j	人虎	人虎	
+j	人虱	人虱	head louse (Pediculus hum…
+j	人血	人血	人の血。人間の血液。
+j	人視	人視	人として扱うこと。
+j	人言	人言	世の中の言葉やうわさ。
+j	人証	人証	personal evidence
+j	人語	人語	human speech
+j	人豪	人豪	器量が優れた人物。
+j	人財	人財	「人材」の異表記。
+j	人質	人質	a hostage
+j	人足	人足	土木工事・荷役などの力仕事に従事する労働者。
+j	人跡	人跡	人が通った足跡。
+j	人身	人身	the human body
+j	人車	人車	rickshaw
+j	人造	人造	artificial, man-made, syn…
+j	人道	人道	humanity
+j	人達	人達	
+j	人選	人選	selection of a person
+j	人部	人部	部首「⼈」で分類した漢字の一群。
+j	人里	人里	a place inhabited by peop…
+j	人鏡	人鏡	人々の模範。人の鏡。
+j	人長	人長	a surname
+j	人間	人間	human, person, human being
+j	人隷	人隷	下僕。
+j	人雄	人雄	雄偉の人。
+j	人霊	人霊	人間。
+j	人面	人面	人間の顔。また、人間の顔に似ているもの。
+j	人頭	人頭	人の頭。
+j	人類	人類	mankind, the human race, …
+j	人馬	人馬	horse and rider
+j	人骨	人骨	human bone
+j	人魂	人魂	A disembodied human soul;…
+j	人魚	人魚	a merperson
+j	人鳥	人鳥	penguin
+j	人鼠	人鼠	
+j	伺い	伺い	
+j	伺う	伺う	to ask about
+j	伺候	伺候	waiting on someone
+j	伺察	伺察	ひそかに人の様子をうかがうこと。
+j	伺持	伺持	貴人などの側に仕えること。
+j	俺も	俺も	
+j	俺氏	俺氏	I, me
+j	俺等	俺等	
+j	俺達	俺達	we; us
+j	儺声	儺声	追儺の声。
+j	出し	出し	continuative of 出す
+j	出す	出す	to take out, to get out
+j	出ず	出ず	
+j	出づ	出づ	to come out, go out
+j	出て	出て	
+j	出る	出る	to leave a place
+j	出世	出世	success in life
+j	出京	出京	地方から京へ出ること。上京。
+j	出仕	出仕	役所、特に官庁に仕えること。
+j	出会	出会	出会うこと。邂逅。
+j	出入	出入	income and expenses
+j	出兵	出兵	the dispatching of troops
+j	出典	出典	authority, source (of a q…
+j	出処	出処	「出所」の別表記。
+j	出前	出前	catering; food supplied t…
+j	出力	出力	generating power, output
+j	出動	出動	going into action, e.g. t…
+j	出勤	出勤	going to work
+j	出口	出口	exit; outlet
+j	出向	出向	secondment; temporary tra…
+j	出品	出品	putting a product on disp…
+j	出国	出国	exit from a country
+j	出土	出土	archaeological excavation
+j	出城	出城	城を出ること。
+j	出域	出域	ある地域から出ること。
+j	出場	出場	appearance on stage
+j	出塁	出塁	times on base
+j	出境	出境	他の地域へ出ること。
+j	出奔	出奔	flight
+j	出孝	出孝	葬儀の仕上げ。
+j	出定	出定	禅定を終えて座禅の場から離れ、平常に戻ること。
+j	出家	出家	priest, bonze
+j	出展	出展	博覧会や展覧会などに作品を出すこと。
+j	出山	出山	山を出ること。
+j	出島	出島	Dejima (a former island i…
+j	出帆	出帆	setting sail
+j	出師	出師	軍隊を送り出すこと。出兵。
+j	出席	出席	attendance, presence
+j	出幸	出幸	行幸。
+j	出店	出店	branch (store)
+j	出府	出府	江戸時代、幕府がある江戸に出向くこと。
+j	出庫	出庫	倉庫から物を出すこと。
+j	出廬	出廬	一度隠棲した者が再び世間に戻り官職などに就職するこ…
+j	出廷	出廷	裁判などにより法廷に出ること。
+j	出張	出張	business trip
+j	出征	出征	joining a military and go…
+j	出御	出御	天皇や皇后、将軍などの外出や臣下の前にお出ましする…
+j	出恭	出恭	便所へ行くこと。
+j	出房	出房	囚人が独房から出ること。
+j	出所	出所	source, origin
+j	出挙	出挙	古代日本で農民に種籾のほか金品を貸し付け、利息を付…
+j	出捐	出捐	金銭や物品を寄付すること。
+j	出撃	出撃	a sortie
+j	出札	出札	切符の発売をすること。
+j	出来	出来	occurrence, happening, ta…
+j	出校	出校	学校に出席すること。
+j	出格	出格	elative, elative case
+j	出桜	出桜	leaving Sacramento
+j	出梅	出梅	梅雨が終わること。梅雨明け。
+j	出棺	出棺	葬式の際、故人を納めた棺を火葬場に送り出すこと。
+j	出檻	出檻	檻から出ること。監獄から出ること。
+j	出欠	出欠	attendance, roll call
+j	出歯	出歯	
+j	出水	出水	Izumi (a city and train s…
+j	出汁	出汁	
+j	出没	出没	appearing and disappearing
+j	出港	出港	a ship's departure from a…
+j	出漁	出漁	漁師が漁に出ること。
+j	出演	出演	an appearance (as on a st…
+j	出火	出火	outbreak of fire
+j	出炭	出炭	木炭を生産すること
+j	出版	出版	the selling and distribut…
+j	出猟	出猟	猟師などが山野へ狩猟に出ること。
+j	出獄	出獄	release, discharge from p…
+j	出現	出現	appearance, entrance, rev…
+j	出生	出生	birth
+j	出産	出産	childbirth, child-bearing…
+j	出番	出番	one's turn
+j	出発	出発	departure
+j	出監	出監	（動物が）檻から出ること。
+j	出目	出目	眼球が普通より突き出している状態。また、その状態の…
+j	出社	出社	going to work, going to o…
+j	出禁	出禁	ban on showing up/appeari…
+j	出稿	出稿	記事などの原稿が出きあがってくること。
+j	出穂	出穂	植物などの穂が出ること。
+j	出立	出立	departure on a journey
+j	出精	出精	懸命に物事をすること。
+j	出納	出納	receipts and expenditures
+j	出群	出群	他に抜きん出て非常に優れていること。抜群。
+j	出羽	出羽	旧国名。東山道に位置する。出羽国。現在の山形県と北…
+j	出自	出自	source, birthplace, place…
+j	出航	出航	sailing, a ship casting o…
+j	出船	出船	船が出港すること。
+j	出色	出色	他より目立って優れていること。
+j	出花	出花	first brew of tea
+j	出芽	出芽	植物の芽が出ること。発芽。
+j	出荷	出荷	shipping
+j	出薪	出薪	薪取り。
+j	出藍	出藍	pupil excelling his master
+j	出血	出血	hemorrhage, bleeding
+j	出行	出行	出て行くこと。出発。
+j	出言	出言	発言。
+j	出訴	出訴	訴え出ること。提訴すること。
+j	出講	出講	他に出向いて講義すること。また、講義のために出向く…
+j	出費	出費	spending, expenditure
+j	出資	出資	investment (contribution …
+j	出走	出走	entry in a race
+j	出超	出超	a trade surplus
+j	出身	出身	hometown, the place one c…
+j	出軍	出軍	戦場に軍勢、軍隊を送ること。
+j	出遊	出遊	外出して野山で遊ぶこと。
+j	出郊	出郊	野に出ること。
+j	出郷	出郷	故郷を出て他の土地に移ること。
+j	出金	出金	withdrawal (of money)
+j	出門	出門	外出のため門を出ること。
+j	出降	出降	降嫁すること。
+j	出院	出院	議員が議院・議会に出席すること。
+j	出陣	出陣	going to battle, leaving …
+j	出陳	出陳	博覧会などに自分の作品などを出品して陳列すること。
+j	出雲	出雲	Izumo (a city in Shimane …
+j	出頭	出頭	presence, appearance
+j	出題	出題	issuing a question
+j	出願	出願	an application (a verbal …
+j	出馬	出馬	riding out on a horse; of…
+j	出駕	出駕	貴人が駕籠、車などで外出すること。
+j	出鼻	出鼻	projecting part of a moun…
+j	刺し	刺し	a bamboo reed used to tak…
+j	刺す	刺す	to pierce, to stab, to st…
+j	刺傷	刺傷	刃物などで刺して傷付けること。また、その傷。
+j	刺創	刺創	先端が尖ったものを刺してできた創傷。
+j	刺史	刺史	古代中国の地方監察官または地方官。
+j	刺客	刺客	synonym of 暗殺者 (ansatsush…
+j	刺戟	刺戟	触覚や視覚などの感覚を引き起こすこと。神経を興奮さ…
+j	刺撃	刺撃	武器で刺したり斬ったり打ったりすること。
+j	刺殺	刺殺	stabbing to death
+j	刺毒	刺毒	いくつかの動物の体表にある針や棘にある毒。
+j	刺毛	刺毛	植物の表皮にあるとげのような毛。毒を有するものもあ…
+j	刺激	刺激	stimulus, stimulation, im…
+j	刺突	刺突	突き刺すこと。
+j	刺絡	刺絡	瀉血すること。
+j	刺繍	刺繍	embroidery
+j	刺股	刺股	sasumata, a man catcher u…
+j	刺胞	刺胞	a cnidocyte
+j	刺草	刺草	nettle, Urtica thunbergia…
+j	刺蛾	刺蛾	イラガ科の蛾。幼虫（いらむし）は毒を持ち、触ると痛…
+j	刺衝	刺衝	突き刺すこと。
+j	刺身	刺身	sashimi, a dish of sliced…
+j	刺通	刺通	（串でさすように）鋭利なもので突き刺すこと。
+j	刺青	刺青	tattoo
+j	区会	区会	「区議会」の略。
+j	区内	区内	区分されたものの中。
+j	区分	区分	division
+j	区別	区別	distinction, difference
+j	区制	区制	行政の制度としての区。
+j	区劃	区劃	仕切ること。そのしきり。境界。
+j	区勢	区勢	区の人口、財政、産業、経済、資源などの情勢。
+j	区区	区区	various, divided
+j	区史	区史	特別区の歴史。また、それについて扱った書籍。
+j	区営	区営	区（主に東京都の特別区）が運営する施設。
+j	区域	区域	area, district, section, …
+j	区外	区外	区域の外側の地域。
+j	区快	区快	「区間快速」の略。
+j	区政	区政	区の政治、行政。
+j	区旗	区旗	特別区や行政区を象徴する旗。
+j	区木	区木	特別区や行政区を代表するものとして選定された木。
+j	区歌	区歌	特別区や行政区の象徴として歌われる歌。
+j	区民	区民	地方行政単位である「特別区」の住民。
+j	区点	区点	row and cell identifying …
+j	区画	区画	a section, especially a d…
+j	区立	区立	established by the ward
+j	区系	区系	地球上の生物を特徴によって地域的に分類した時のそれ…
+j	区花	区花	特別区や行政区を代表するものとして選定された花。
+j	区議	区議	「区議会議員」の略。
+j	区道	区道	区（主に東京都の特別区）が管理する道路。
+j	区部	区部	区が設置されている地域。通常は東京都の特別区が設置…
+j	区長	区長	区の首長。
+j	区間	区間	segment, section, especia…
+j	区隊	区隊	陸上自衛隊の編制上の単位の一つ。教育隊の下に置かれ…
+j	区鳥	区鳥	特別区や行政区を代表するものとして選定された鳥。
+j	咺唏	咺唏	悲泣すること。
+j	哺乳	哺乳	lactation, nursing
+j	哺育	哺育	動物の親がその子を養育すること。
+j	哺養	哺養	保育すること。
+j	噺家	噺家	professional rakugo story…
+j	固い	固い	hard
+j	固体	固体	a solid
+j	固化	固化	物がかたまること。また、物をかためること。
+j	固哉	固哉	頑固なこと。また、そのようなさま。
+j	固唾	固唾	saliva that collects in t…
+j	固執	固執	persistence
+j	固守	固守	固く守り、保つこと。
+j	固定	固定	fixation, fixedness
+j	固形	固形	solid form
+j	固態	固態	固体の状態。
+j	固持	固持	tenacity or persistence, …
+j	固有	固有	characteristic of, partic…
+j	固溶	固溶	ある原子が化合することなく固体の別の原子の中にラン…
+j	固相	固相	solid phase
+j	固着	固着	固くなって付着すること。
+j	固結	固結	固まること。
+j	固護	固護	固守すること。
+j	固辞	固辞	firm refusal
+j	固陋	固陋	stubborn and narrow-minded
+j	基体	基体	物の性質や状態、変化の基礎となっていると思われるも…
+j	基剤	基剤	薬剤の吸収をよくしたり患部の保護などのため膏薬の賦…
+j	基史	基史	a male given name
+j	基嗣	基嗣	a male given name
+j	基因	基因	cause; origin
+j	基圖	基圖	basemap
+j	基地	基地	base (e.g. military, rese…
+j	基址	基址	土台。基礎。基盤。
+j	基壇	基壇	建物を建てるために土を盛ったり、石を組んだりした壇。
+j	基安	基安	a male given name
+j	基宏	基宏	a male given name
+j	基層	基層	base layer; the underlyin…
+j	基岩	基岩	建造物の基礎となる地盤の岩石。また、その層。
+j	基幹	基幹	nucleus, backbone, basic,…
+j	基底	基底	base; basis
+j	基康	基康	a male given name
+j	基数	基数	cardinal number
+j	基明	基明	a male given name
+j	基本	基本	basis, foundation
+j	基材	基材	外観を美しく見せるための紙や布、板を張り付けたり、…
+j	基板	基板	circuit board
+j	基根	基根	根元。基本。根本。
+j	基業	基業	基盤、基礎となる事業。
+j	基泰	基泰	a male given name
+j	基準	基準	standard, basis, criterio…
+j	基点	基点	（距離を測る時の）もとになる点や場所。
+j	基盤	基盤	base, foundation, basis
+j	基石	基石	foundation stone; corners…
+j	基礎	基礎	base, basis, foundation, …
+j	基節	基節	多くの節足動物の関節肢の第一関節。甲殻類では、前底…
+j	基範	基範	a male given name
+j	基米	基米	kilometre
+j	基線	基線	三角測量などで基準となる直線。
+j	基肥	基肥	種蒔きなど耕作の前に施す肥料。もとごえ。
+j	基調	基調	basis, basic theme, basic…
+j	基質	基質	何かの物質などの基盤となる物質。
+j	基軸	基軸	中心や基本となるもの。中軸。
+j	基部	基部	基礎となる部分
+j	基金	基金	fund
+j	基隆	基隆	Keelung (a city in Taiwan)
+j	基音	基音	出ている中で振動数の最も低い音。
+j	堺市	堺市	大阪府の中部にある都市。
+j	墺国	墺国	オーストリアの日本語による漢字表記。
+j	壺中	壺中	inside of a jar
+j	壺人	壺人	漏刻の係。
+j	壺漿	壺漿	壺の中の飲み物。
+j	壺草	壺草	Asiatic pennywort, gotu k…
+j	壺觴	壺觴	酒を入れる壺と盃。
+j	壺金	壺金	
+j	孺人	孺人	中国で大夫の妻に対する敬語。
+j	孺嬰	孺嬰	赤ん坊。乳児。
+j	孺子	孺子	童。こども。
+j	孺形	孺形	天児。
+j	寺中	寺中	寺の境内のこと。
+j	寺主	寺主	temple administrator, a p…
+j	寺井	寺井	a surname
+j	寺人	寺人	古代中国において君主に近侍した家臣。
+j	寺兵	寺兵	寺院が備えていた兵士。僧兵。
+j	寺内	寺内	寺の境内。
+j	寺判	寺判	寺院の印判。
+j	寺刹	寺刹	寺。寺院。
+j	寺務	寺務	寺院の事務。
+j	寺号	寺号	the official name of a Bu…
+j	寺園	寺園	a surname
+j	寺坊	寺坊	寺内の僧の宿所。
+j	寺塔	寺塔	寺院の塔。仏塔。
+j	寺官	寺官	寺院の事務職。
+j	寺宝	寺宝	寺の宝。
+j	寺家	寺家	寺院。
+j	寺尾	寺尾	a surname
+j	寺山	寺山	a surname
+j	寺岡	寺岡	a surname
+j	寺島	寺島	a surname
+j	寺崎	寺崎	a surname
+j	寺役	寺役	a tax that temples levied…
+j	寺恩	寺恩	寺家から給せられる恩恵。
+j	寺房	寺房	寺内の僧の宿所。
+j	寺本	寺本	a surname
+j	寺格	寺格	寺の格式。
+j	寺楼	寺楼	寺院の高殿。
+j	寺檀	寺檀	寺院と檀家。
+j	寺水	寺水	a surname
+j	寺沢	寺沢	a surname
+j	寺牒	寺牒	寺院から官庁に差し出す公文書。
+j	寺田	寺田	a surname
+j	寺社	寺社	temples and shrines
+j	寺観	寺観	仏教の寺院と道教の道観。
+j	寺門	寺門	temple gate
+j	寺閣	寺閣	寺院の高殿。寺楼。
+j	寺院	寺院	Buddhist temple, wat
+j	寺領	寺領	寺院が有する領地。
+j	寺額	寺額	寺号を記した額。
+j	尺一	尺一	one shaku and one sun
+j	尺八	尺八	shakuhachi, a Japanese en…
+j	尺地	尺地	僅かな土地。狭い土地。
+j	尺寸	尺寸	ほんのわずかなもの。
+j	尺屈	尺屈	手首の関節を小指側（尺骨のある方向）へ曲げること。
+j	尺度	尺度	a measure, a tool to meas…
+j	尺書	尺書	短い手紙や文書。
+j	尺牘	尺牘	a wooden block one seki i…
+j	尺紙	尺紙	僅かな紙。寸紙。
+j	尺素	尺素	短い手紙。
+j	尺縑	尺縑	僅かな量の絹。
+j	尺翰	尺翰	手紙。書翰。
+j	尺蛾	尺蛾	鱗翅目シャクガ科に属する昆虫の総称。幼虫は尺取り虫。
+j	尺蠖	尺蠖	尺取り虫。
+j	尺骨	尺骨	an elbow bone; an ulna
+j	尺鷸	尺鷸	
+j	嶺月	嶺月	山上の月。
+j	嶺梅	嶺梅	大庾嶺の梅。
+j	嶺臣	嶺臣	a male given name
+j	幺䯢	幺䯢	些細なこと。とるに足りないこと。
+j	幺幺	幺幺	小さいさま。
+j	幺蔑	幺蔑	微小なこと。また、そのようなさま。
+j	幺部	幺部	部首「⼳」で分類した漢字の一群。
+j	幺陋	幺陋	小さく醜いさま。
+j	幺麼	幺麼	些細なこと。とるに足りないこと。
+j	建つ	建つ	to be founded, to be cons…
+j	建一	建一	a male given name
+j	建久	建久	the Kenkyū era, 1190-1199
+j	建仁	建仁	the Kennin era, 1201-1204
+j	建仮	建仮	（会計）建設仮勘定 の略。
+j	建保	建保	日本の元号の一つ。建暦の後、承久の前。1213年1…
+j	建儲	建儲	立太子すること。
+j	建元	建元	（新たに）元号を定めること。
+j	建具	建具	建物や外部、建物の内部を仕切るための開閉できる障子…
+j	建前	建前	official policy or positi…
+j	建勲	建勲	勲功を立てること。
+j	建国	建国	establishment of a nation
+j	建太	建太	a male given name
+j	建夫	建夫	a male given name
+j	建学	建学	学校を創設、創立すること。
+j	建屋	建屋	building or structure for…
+j	建市	建市	a male given name
+j	建常	建常	旗を建てる台。
+j	建徳	建徳	the Kentoku era, 1370-137…
+j	建暦	建暦	the Kenryaku era, 1211-12…
+j	建材	建材	building material, constr…
+j	建植	建植	信号機や標柱などを設置すること。
+j	建極	建極	創業。建基。
+j	建樹	建樹	樹立すること。
+j	建武	建武	the Kenmu era, 1334-1336 …
+j	建永	建永	the Ken'ei era, 1206-1207
+j	建治	建治	the Kenji era, 1275-1278
+j	建法	建法	法を創制すること。
+j	建物	建物	
+j	建玉	建玉	信用取引、先物取引、オプション取引などにおいて未決…
+j	建白	建白	petition, memorial
+j	建碑	建碑	碑を建てること。
+j	建窯	建窯	福建省にあった陶窯群。建盞（天目茶碗）を産出した。
+j	建立	建立	erection, particularly of…
+j	建築	建築	architecture
+j	建紀	建紀	a male given name
+j	建義	建義	義軍を興すこと。
+j	建艦	建艦	艦船を建造すること。
+j	建言	建言	（役所などに）意見を申し立てること。また、その意見。
+j	建設	建設	construction, building (o…
+j	建議	建議	proposition, proposal
+j	建軍	建軍	軍隊を編制すること。
+j	建造	建造	construction
+j	建都	建都	首都を建設すること。
+j	建長	建長	the Kenchō era, 1249-1256
+j	建首	建首	部首を立てること。
+j	建鼓	建鼓	かつて中国の雅楽で使われた一本の脚のある太鼓。楹鼓。
+j	懺悔	懺悔	repentance
+j	懺法	懺法	経文を読み、罪過を懺悔する法要。また、その時読む経…
+j	懺謝	懺謝	懺悔すること。
+j	挺出	挺出	being outstanding
+j	挺立	挺立	真っ直ぐ立つこと。
+j	挺身	挺身	みずからが人に先んじて進むこと。身を挺して事にあた…
+j	挺進	挺進	大勢のなかから先んじて進むこと。
+j	捺印	捺印	affixing one's seal
+j	捺染	捺染	模様を切り抜いた型紙を布地にあて染料を塗って模様を…
+j	捺落	捺落	奈落の異表記。
+j	揺り	揺り	shaking
+j	揺る	揺る	to shake, to sway, to qua…
+j	揺れ	揺れ	
+j	揺光	揺光	北斗七星の柄杓の柄の先端にある星。おおぐま座η星の…
+j	揺動	揺動	揺れ動くこと。
+j	揺手	揺手	手を振ること。
+j	揺揺	揺揺	ゆらゆら揺れ動く様子。
+j	揺曳	揺曳	ゆらゆらと動く（棚引く）こと。
+j	揺籃	揺籃	a rocking cradle (for a b…
+j	揺蕩	揺蕩	揺れ動くこと。揺り動かすこと。
+j	揺蚊	揺蚊	chironomid, any of variou…
+j	揺首	揺首	首を振ること。
+j	携帯	携帯	holding
+j	携持	携持	携え持つこと。
+j	携挙	携挙	
+j	携番	携番	
+j	携行	携行	taking with one, carrying…
+j	摺剪	摺剪	鋏。
+j	擺列	擺列	並べること。
+j	擺線	擺線	（幾何学）サイクロイド。
+j	擺脱	擺脱	取り去ること。
+j	旺盛	旺盛	flourishing
+j	智久	智久	a male given name
+j	智之	智之	a male given name
+j	智也	智也	a male given name
+j	智人	智人	a male given name
+j	智仁	智仁	a male given name
+j	智利	智利	チリの漢字表記。
+j	智則	智則	a male given name
+j	智剣	智剣	智恵が煩悩や生死の絆を断ち切ることを剣に例えたもの…
+j	智力	智力	知力と同義。
+j	智加	智加	a female given name
+j	智勇	智勇	智恵と勇気。
+j	智印	智印	「智慧」を表す印。
+j	智史	智史	a male given name
+j	智哉	智哉	a male given name
+j	智啓	智啓	a male given name
+j	智嚢	智嚢	知恵袋。
+j	智士	智士	a male given name
+j	智子	智子	a female given name
+j	智宏	智宏	a male given name
+j	智実	智実	a female given name
+j	智将	智将	戦略や戦術に秀でた大将、武将。
+j	智弘	智弘	a male given name
+j	智徳	智徳	a male given name
+j	智志	智志	a male given name
+j	智恵	智恵	a female given name
+j	智慧	智慧	道理を判断し処理する能力。
+j	智慮	智慮	賢い考え。
+j	智晃	智晃	a male given name
+j	智樹	智樹	a male given name
+j	智歯	智歯	「知歯」の別表記。
+j	智水	智水	仏の智慧を清澄で煩悩を洗い流す水にたとえた語。
+j	智治	智治	a male given name
+j	智男	智男	a male given name
+j	智略	智略	resource
+j	智秀	智秀	a male given name
+j	智秋	智秋	a male given name
+j	智紀	智紀	a male given name
+j	智絵	智絵	a female given name
+j	智美	智美	a female given name
+j	智義	智義	a male given name
+j	智者	智者	知者の別形。
+j	智能	智能	物事を理解したり判断したりする頭の働き。
+j	智行	智行	a male given name
+j	智術	智術	知恵を働かせた巧みな計略。
+j	智裕	智裕	a male given name
+j	智見	智見	見ることと知ること。見識。
+j	智規	智規	a male given name
+j	智覚	智覚	感覚器官を通して外界の事物を認識すること。
+j	智解	智解	知恵の力で悟ること。
+j	智計	智計	知恵を働かせたはかりごと。
+j	智謀	智謀	巧みな謀。
+j	智識	智識	知っていること。理解していること。
+j	智隆	智隆	a male given name
+j	智雄	智雄	a male given name
+j	智香	智香	a female given name
+j	机上	机上	on the desk
+j	机下	机下	A term of respect appende…
+j	机右	机右	机の側。座右。
+j	机榻	机榻	机と腰掛。
+j	机辺	机辺	机の周辺。
+j	棺側	棺側	棺の傍ら。
+j	棺台	棺台	棺（柩）を安置するための台。
+j	棺桶	棺桶	coffin
+j	棺槨	棺槨	inner and outer coffins
+j	樺太	樺太	Karafuto, Sakhalin (an is…
+j	樺山	樺山	a surname
+j	樺戸	樺戸	Kabato (a district of Sor…
+j	樺斑	樺斑	plain tiger (Danaus chrys…
+j	欺き	欺き	
+j	欺く	欺く	trick, deceive
+j	欺侮	欺侮	欺き、侮ること。
+j	欺慢	欺慢	欺き、侮ること。
+j	欺瞞	欺瞞	deception, deceit
+j	欺罔	欺罔	deception
+j	欺計	欺計	他人を欺くたくらみ。
+j	欺誣	欺誣	騙すこと。
+j	欺讕	欺讕	事実でないことを事実であるかのように騙すこと。誣妄。
+j	欺騙	欺騙	deception, fallacy
+j	殺し	殺し	murder
+j	殺す	殺す	to kill, to put to death
+j	殺人	殺人	homicide, especially murd…
+j	殺伐	殺伐	murderous, cruel
+j	殺傷	殺傷	An act of hurting and kil…
+j	殺到	殺到	a rush
+j	殺声	殺声	音色などが暗いこと。また、そのような音楽。
+j	殺害	殺害	killing, murder
+j	殺意	殺意	urge to kill, intent to m…
+j	殺戮	殺戮	a slaughter, a massacre
+j	殺手	殺手	精兵
+j	殺業	殺業	十悪業の一つ。生き物を殺害する業。
+j	殺気	殺気	killing intent; bloodthir…
+j	殺生	殺生	cruel, wanton, merciless,…
+j	殺略	殺略	人を殺して財物を奪うこと。
+j	殺節	殺節	冬の季節。冬季。
+j	殺菌	殺菌	sterilization
+j	殺虫	殺虫	insect killing
+j	殺賊	殺賊	阿羅漢。
+j	殺陣	殺陣	stage combat
+j	殺青	殺青	竹を炙って青みを取ること。
+j	殺鬼	殺鬼	刹鬼。
+j	殺鼠	殺鼠	killing rodents
+j	決別	決別	bidding farewell; parting…
+j	決勝	決勝	final
+j	決塞	決塞	開通すること。
+j	決壊	決壊	collapse
+j	決定	決定	decision
+j	決心	決心	resolution
+j	決志	決志	志を決定すること。決意。決心。
+j	決意	決意	personal determination, r…
+j	決戦	決戦	a final battle, a showdown
+j	決択	決択	（けったく）選んで決めること。
+j	決断	決断	decision
+j	決明	決明	synonym of 夷草 (ebisu-gusa…
+j	決死	決死	ready to die
+j	決水	決水	堤防や水門を破壊して水を流すこと。
+j	決決	決決	水が流れるさま。
+j	決河	決河	河川の堤防が決壊すること。河の水が堤防を破って流出…
+j	決済	決済	settlement of payment
+j	決潰	決潰	決壊。
+j	決然	決然	思い切り決心したさま。きっぱり。
+j	決着	決着	conclusion, end
+j	決答	決答	はっきり答えること。また、その答。
+j	決策	決策	戦略・方策を決定すること。また、決定された策略。
+j	決筴	決筴	施策を定めること。
+j	決算	決算	settlement of accounts
+j	決行	決行	execution
+j	決裁	決裁	組織において責任のある者が部下から提出された案件に…
+j	決裂	決裂	rupture (e.g. of friendly…
+j	決議	決議	resolution
+j	決起	決起	arousal
+j	決選	決選	上位の得票者から更に選び出すこと。
+j	決闘	決闘	duel
+j	渺漠	渺漠	広大で果てしないさま。
+j	渺邈	渺邈	広大で果てしないさま。
+j	溺愛	溺愛	pampering; spoiling
+j	溺死	溺死	drowning
+j	溺殺	溺殺	溺れさせて殺すこと。
+j	溺水	溺水	水中などで溺れ、気管の中に液体が入り窒息の状態にな…
+j	潺湲	潺湲	清水が流れるさま。また、その音。
+j	潺潺	潺潺	murmuring, bubbling (rive…
+j	為る	為る	
+j	為人	為人	personality, character, p…
+j	為体	為体	
+j	為国	為国	to govern the country
+j	為念	為念	念の為。漢文調の文章や俗な文章で記述される書き方。
+j	為政	為政	administering affairs of …
+j	為景	為景	a male given name
+j	為替	為替	money order
+j	為男	為男	a male given name
+j	為風	為風	技として習得すべき風習。
+j	爺婆	爺婆	elderly
+j	狺犬	狺犬	吠え立てる犬。
+j	狺狺	狺狺	sound of a dog barking
+j	琺瑯	琺瑯	enamel (vitreous enamel)
+j	町丁	町丁	市区町村の下に設定される、町や字などの区分。
+j	町中	町中	downtown
+j	町人	町人	a townsperson
+j	町会	町会	かつての制度の町（地方公共団体）の議決機関。
+j	町内	町内	町の中。
+j	町制	町制	地方公共団体の町としての制度。
+j	町勢	町勢	町の人口、財政、産業、経済、資源などの情勢。
+j	町区	町区	イギリスのタウンシップ。
+j	町史	町史	町の歴史。また、それについて扱った書籍。
+j	町名	町名	name of a town or a town-…
+j	町営	町営	町が経営しているもの。
+j	町場	町場	宿場と宿場との区間の距離。
+j	町外	町外	その町以外の場所。
+j	町家	町家	a traditional Japanese to…
+j	町政	町政	町の政治、行政。
+j	町旗	町旗	町を象徴する旗。
+j	町木	町木	町を代表するものとして選定された木。
+j	町村	町村	towns and villages
+j	町歌	町歌	町の象徴として歌われる歌。
+j	町歩	町歩	山林や田畑の面積の単位。1町歩は約9917.36m…
+j	町民	町民	地方行政単位である「町」の住民。
+j	町版	町版	民間の書店で出版した本。坊刻本。
+j	町獣	町獣	町を代表するものとして選定された動物。哺乳類以外の…
+j	町田	町田	Machida (a city in Tokyo …
+j	町税	町税	地方公共団体の町が住民に対して賦課し、徴収する租税。
+j	町立	町立	managed by the town
+j	町花	町花	町を代表するものとして選定された花。
+j	町蝶	町蝶	町を代表するものとして選定された蝶。
+j	町衆	町衆	町の人々。
+j	町議	町議	「町議会議員」の略。
+j	町道	町道	a town road
+j	町長	町長	town mayor
+j	町鳥	町鳥	町を代表するものとして選定された鳥。
+j	痺鰻	痺鰻	electric eel
+j	痺鱏	痺鱏	electric ray
+j	痺鱝	痺鱝	
+j	発つ	発つ	to depart, such as on a t…
+j	発上	発上	発生して昇ること。
+j	発令	発令	official announcement
+j	発企	発企	「発起」の別表記。
+j	発会	発会	会合をはじめて開くこと。その会合。
+j	発伝	発伝	関所を開くこと。
+j	発作	発作	paroxysmal attack; epilep…
+j	発信	発信	a broadcast, providing in…
+j	発光	発光	luminescence, emission of…
+j	発出	発出	to send/bring forth, to i…
+j	発刊	発刊	publication
+j	発券	発券	issuing a 券 – ticket, pas…
+j	発効	発効	coming into effect, comin…
+j	発動	発動	putting a machine into op…
+j	発句	発句	hokku, a form of Japanese…
+j	発向	発向	目的地に向かい出発すること。
+j	発問	発問	問いを発すること。質問すること。
+j	発報	発報	何かの知らせを発すること。
+j	発声	発声	vocalization (act of voca…
+j	発売	発売	sale, the selling of some…
+j	発奮	発奮	inspiration
+j	発寒	発寒	a neighborhood of Sapporo…
+j	発射	発射	launch, firing
+j	発展	発展	development
+j	発布	発布	憲法や法律が制定又は改正されたことを広く公に知らし…
+j	発彦	発彦	a male given name
+j	発心	発心	religious awakening
+j	発情	発情	sexual arousal
+j	発想	発想	idea, conception
+j	発意	発意	coming up with an idea
+j	発憤	発憤	ある事に刺激を受けて気持ちを奮い起こすこと。
+j	発才	発才	女性がおしゃべりなこと。また、そのようなさま。
+j	発振	発振	振動が発生すること。
+j	発掘	発掘	an excavation
+j	発揚	発揚	rousing; raising; enhanci…
+j	発揮	発揮	exhibition; display; mani…
+j	発散	発散	dissipation, emanation, s…
+j	発明	発明	invention
+j	発条	発条	spring (device made of fl…
+j	発根	発根	植物が根を出すこと。根が出ること。
+j	発案	発案	suggestion, idea
+j	発歳	発歳	新年。
+j	発毛	発毛	毛が生えること。
+j	発汗	発汗	sweat production; perspir…
+j	発泡	発泡	foaming
+j	発注	発注	an order for materials
+j	発港	発港	船舶が港から出ること。出港。
+j	発源	発源	水が湧出する元。水源。濫觴。
+j	発火	発火	ignition
+j	発災	発災	何らかの災害が発生すること。
+j	発煙	発煙	emitting smoke
+j	発熱	発熱	fever (having higher body…
+j	発狂	発狂	going mad
+j	発現	発現	隠れているものが実際に現れ出ること。
+j	発生	発生	occurrence, incidence
+j	発番	発番	issuing a number
+j	発疱	発疱	皮膚に水疱を発すること。
+j	発疹	発疹	rash
+j	発病	発病	attack of a disease
+j	発症	発症	outbreak of illness
+j	発癌	発癌	carcinogenesis
+j	発着	発着	arrival and departure
+j	発砲	発砲	firing of a gun
+j	発破	発破	rock blasting
+j	発祥	発祥	origin
+j	発禁	発禁	発売禁止処分、発売頒布禁止処分の略。
+j	発端	発端	origin, beginning
+j	発給	発給	政府や公的な機関が、求めに応じて書類を発行すること。
+j	発育	発育	growth, development
+j	発航	発航	船舶が港から出航すること。
+j	発船	発船	船が出港すること。また、船を出港させること。
+j	発艦	発艦	軍艦や艦船が出港すること。
+j	発色	発色	production of color
+j	発芽	発芽	germination
+j	発蛾	発蛾	繭をつくり蛹となった蚕が羽化して繭から出ること。
+j	発行	発行	issue, publication
+j	発表	発表	announcement; publication…
+j	発見	発見	discovery
+j	発覚	発覚	detection, disclosure, ex…
+j	発言	発言	comment
+j	発話	発話	utterance
+j	発語	発語	speech production
+j	発議	発議	proposal
+j	発赤	発赤	炎症などによる充血で皮膚や粘膜が赤くなること。
+j	発走	発走	陸上競技や競馬などで走り出すこと。スタート。
+j	発起	発起	新しい物事を計画すること。
+j	発足	発足	start, inauguration, esta…
+j	発車	発車	departure (of a vehicle)
+j	発送	発送	dispatching, shipping
+j	発途	発途	出発すること。門出。出立。
+j	発進	発進	乗り物などが出発して前に進むこと。
+j	発達	発達	development
+j	発遣	発遣	使者、使節を派遣すること。
+j	発酵	発酵	fermentation
+j	発銹	発銹	銹を生じること。
+j	発錆	発錆	さびが発生すること。または、発生したさびのこと。
+j	発隊	発隊	部隊を編成し活動を開始すること。
+j	発雷	発雷	雲の中で雷がおこること。
+j	発電	発電	power generation (electri…
+j	発露	発露	exposure, manifestation
+j	発音	発音	pronunciation
+j	発頭	発頭	漢字の部首「⽨」が冠である場合の呼称。
+j	発願	発願	菩薩などが誓願を立てること。
+j	発駕	発駕	駕篭が出発すること。
+j	皺曲	皺曲	「褶曲」の異表記。
+j	皺襞	皺襞	皺。襞。
+j	眺め	眺め	view, prospect, scenery
+j	眺望	眺望	view
+j	確か	確か	certain, clear, without a…
+j	確乎	確乎	しっかりして確かなこと。
+j	確保	確保	guarantee
+j	確信	確信	conviction, confidence in
+j	確切	確切	確かで適切なこと。
+j	確固	確固	しっかりして確かなこと。
+j	確執	確執	vendetta (bitter, destruc…
+j	確報	確報	確かな報せ。正確な情報。
+j	確変	確変	パチンコ、パチスロで、通常より大当たりが高い確率で…
+j	確守	確守	確実に守ること。しっかり守ること。
+j	確定	確定	decision
+j	確実	確実	certain, reliable
+j	確山	確山	
+j	確度	確度	正確さ、確実さの度合い。
+j	確当	確当	事実とあっていて間違いないこと。また、そのようなさ…
+j	確殺	確殺	確実に殺すこと。確実に仕留めること。
+j	確然	確然	確かで定まっているさま。
+j	確率	確率	probability
+j	確知	確知	明確に知ること。
+j	確立	確立	establishment
+j	確答	確答	はっきりした返答。
+j	確約	確約	a guarantee; a firm promi…
+j	確言	確言	affirmation, assertion
+j	確証	確証	decisive proof; a proof b…
+j	確認	確認	confirmation
+j	確論	確論	根拠のある明白な議論。
+j	示す	示す	to show, to have somebody…
+j	示偏	示偏	left aligned kanji radica…
+j	示唆	示唆	implication
+j	示威	示威	demonstration; manifestat…
+j	示寂	示寂	高僧が死ぬこと。
+j	示度	示度	計器の示す目盛り数値。特に気圧計の数値。
+j	示指	示指	index finger; forefinger
+j	示教	示教	具体的に示しながら教えること。
+j	示滅	示滅	遷化すること。
+j	示現	示現	仏や菩薩が衆生を救済するために姿を変えこの世に現れ…
+j	示範	示範	模範を示すこと。
+j	示談	示談	settlement out of court; …
+j	示達	示達	上位の者から下位の者へ文書で示して通達すること。
+j	示部	示部	部首「⽰」で分類した漢字の一群。
+j	示顕	示顕	示し顕すこと。
+j	祺然	祺然	安らかなさま。
+j	祺福	祺福	幸福。
+j	禺京	禺京	禺彊。
+j	禺強	禺強	禺彊。
+j	禺彊	禺彊	北海の神。
+j	禺疆	禺疆	禺彊。
+j	空き	空き	room; space
+j	空く	空く	become empty (not crowded…
+j	空け	空け	emptiness, hollowness
+j	空で	空で	by heart, from memory, by…
+j	空の	空の	
+j	空中	空中	midair; the air; the sky
+j	空位	空位	組織に定められた地位に誰もついていないこと。
+j	空佐	空佐	a field officer
+j	空冷	空冷	機械などの熱を空気で冷却すること。
+j	空券	空券	運送人や倉庫会社が運送品や寄託物を受け取っていない…
+j	空前	空前	being unprecedented
+j	空劫	空劫	四劫の一つ。世界が壊滅し、再生するまでの何もない期…
+j	空包	空包	演習などのため実弾でなく発射の音だけが出る銃弾。
+j	空匱	空匱	空しいこと。乏しいこと。
+j	空地	空地	synonym of 空き地 (akichi)
+j	空域	空域	airspace
+j	空堀	空堀	dry moat
+j	空士	空士	an airman
+j	空子	空子	a female given name
+j	空室	空室	人がいない部屋。何もない部屋。
+j	空将	空将	a lieutenant general
+j	空尉	空尉	a junior officer
+j	空屋	空屋	人の住んでいない家屋。
+j	空師	空師	高い木に登り枝おろしや伐採等の作業をする職人。
+j	空席	空席	vacant seat
+j	空帷	空帷	無人。
+j	空幕	空幕	空帷。
+j	空想	空想	fantasy, daydream; someth…
+j	空戦	空戦	空中戦闘、航空戦闘、空中作戦、航空作戦の略称。^(…
+j	空所	空所	空いている場所。何もなく、あるいは使用されていない…
+j	空手	空手	karate
+j	空拳	空拳	手に何も持たないこと。素手。
+j	空振	空振	噴火や爆発により空気が振動すること。
+j	空挺	空挺	空中挺進の略
+j	空撮	空撮	aerial photography
+j	空曹	空曹	a non-commissioned officer
+j	空木	空木	Deutzia crenata
+j	空欄	空欄	blank lines; empty columns
+j	空母	空母	航空母艦の略。
+j	空気	空気	air, atmosphere
+j	空洞	空洞	hollow
+j	空海	空海	虚空と大海
+j	空涙	空涙	
+j	空港	空港	airport
+j	空漠	空漠	果てしなく広大なこと。また、そのようなさま。
+j	空濛	空濛	小雨などが降って薄暗いさま。
+j	空然	空然	ぼんやりしているさま。うつろなさま。
+j	空爆	空爆	aerial bombing
+j	空疎	空疎	外見だけで内容や実質が伴わないこと。また、そのよう…
+j	空発	空発	目標が定まらずに発射すること。
+j	空白	空白	blank, empty
+j	空相	空相	すべてのものが空であること。また、その姿や様相。
+j	空知	空知	a place name
+j	空砲	空砲	blank, blank ammunition
+j	空箱	空箱	empty box
+j	空紙	空紙	白紙。
+j	空耗	空耗	減って無くなること。無駄に費やすこと。
+j	空耳	空耳	auditory hallucination, m…
+j	空腸	空腸	jejunum
+j	空腹	空腹	hungry
+j	空自	空自	航空自衛隊の略。
+j	空船	空船	人や貨物をのせていない船。
+j	空色	空色	sky blue
+j	空虚	空虚	empty, vacant, void, holl…
+j	空蝉	空蝉	a living being
+j	空蝶	空蝶	アゲハチョウ。
+j	空襲	空襲	air raid
+j	空見	空見	一切のものが空であるという教えに執着すること。
+j	空観	空観	すべてのものには永久に不変の実体というものはなく、…
+j	空言	空言	empty words, falsehood
+j	空説	空説	根拠のない話。
+j	空調	空調	air conditioning
+j	空論	空論	empty theory; an armchair…
+j	空豆	空豆	
+j	空費	空費	a waste
+j	空走	空走	運転者がブレーキを操作した後、ブレーキが作動する直…
+j	空路	空路	air lane; airway
+j	空車	空車	旅客を乗せていない列車やバス、タクシーなどのこと。…
+j	空軍	空軍	air force
+j	空転	空転	idling (of an engine)
+j	空輪	空輪	四輪の一つ。風輪の下にある虚空の層。
+j	空輸	空輸	air transportation
+j	空迫	空迫	貧窮すること。
+j	空送	空送	空中輸送、航空輸送の略。航空機を用いて貨物を運搬す…
+j	空造	空造	手ぶら。
+j	空運	空運	航空機を用いて旅客、貨物などを輸送すること。空輸。
+j	空閑	空閑	ひまなこと。空いていること。また、そのようなさま。
+j	空間	空間	space
+j	空闊	空闊	広々としている様。
+j	空隙	空隙	gap; space; opening; crack
+j	空電	空電	雷や雲間放電などで発生する電磁波、電波雑音。
+j	空霊	空霊	霊活。
+j	空鼾	空鼾	a fake snore, a snore del…
+j	窺う	窺う	to peek; to peep; to watc…
+j	窺察	窺察	窺い、観察すること。
+j	窺測	窺測	窺い、推測すること。
+j	窺瞯	窺瞯	窺うこと。
+j	窺知	窺知	探って知ること。窺い知ること。
+j	窺窓	窺窓	覗き窓。
+j	窺窬	窺窬	隙を伺い狙うこと。
+j	窺臨	窺臨	上から覗き込むこと。
+j	窺見	窺見	spying
+j	窺覘	窺覘	窺い狙うこと。
+j	竺学	竺学	the study of Buddhism
+j	糺弾	糺弾	「糾弾」の別表記。
+j	紺屋	紺屋	染物屋。もとは藍染を言ったが後に染物全般を言う。
+j	紺碧	紺碧	azure, deep blue
+j	紺色	紺色	navy blue; dark blue
+j	紺蓋	紺蓋	紺色の車蓋。
+j	紺藍	紺藍	紫がかった濃い青色。
+j	紺野	紺野	a surname
+j	紺青	紺青	Prussian blue, deep blue,…
+j	絺綌	絺綌	葛布や、それを用いて仕立てた衣服、帷子。
+j	綺寮	綺寮	彫刻などのある美しい飾り窓。綺窓。
+j	綺槞	綺槞	綺櫳の拡張新字体を用いた表記。
+j	綺櫳	綺櫳	綺窓。綺寮。
+j	綺窓	綺窓	彫刻などのある美しい飾り窓。綺寮。
+j	綺紛	綺紛	綺錯。
+j	綺綾	綺綾	綾絹。
+j	綺羅	綺羅	beautiful clothes
+j	綺襦	綺襦	綾の下着。
+j	綺語	綺語	十悪の一つで、真実ではなく、ことばを巧みに飾ること。
+j	綺談	綺談	面白いようにつくられた話。
+j	綺錯	綺錯	綾絹の模様のように美しく交わるさま。
+j	綺麗	綺麗	pretty, gorgeous, beautif…
+j	縺れ	縺れ	
+j	缺格	缺格	あることに必要な資格を欠いていること。
+j	缺点	缺点	欠点の異表記。
+j	翺翔	翺翔	鳥が空高く飛ぶこと。
+j	肺の	肺の	
+j	肺尖	肺尖	肺の上部の尖った部分。
+j	肺性	肺性	
+j	肺患	肺患	肺の疾患。
+j	肺書	肺書	クモ綱の腹部の左右に対になってある呼吸器。書肺。
+j	肺炎	肺炎	pneumonia
+j	肺疫	肺疫	牛が罹患する肺炎や肋膜炎などの疾患。家畜伝染病の一…
+j	肺疾	肺疾	肺の疾患。特に、肺結核。
+j	肺病	肺病	lung disease, chest troub…
+j	肺癆	肺癆	肺結核のかつての呼称。
+j	肺癌	肺癌	lung cancer
+j	肺肝	肺肝	肺と肝臓。
+j	肺胞	肺胞	気管支の末端に付いた、葡萄の房状になっている部分。
+j	肺腑	肺腑	lungs; internal organs
+j	肺臓	肺臓	lungs
+j	肺門	肺門	肺臓の両側の、気管支・肺動脈・肺静脈が出入りする部…
+j	肺魚	肺魚	a lungfish
+j	腺房	腺房	acinus
+j	腺様	腺様	adenoid (folds of lymphat…
+j	腺疫	腺疫	strangles
+j	腺癌	腺癌	adenocarcinoma
+j	腺腫	腺腫	腺（分泌腺）にできる良性腫瘍。
+j	膺懲	膺懲	chastisement, penalty, pu…
+j	苺色	苺色	
+j	葺く	葺く	to make (a roof); to that…
+j	葺繕	葺繕	（屋根などを）葺き直すこと。
+j	蕺草	蕺草	chameleon plant (Houttuyn…
+j	薺菜	薺菜	dried Capsella bursa-past…
+j	藺草	藺草	Juncus effusus, commonly …
+j	虺虺	虺虺	雷の音。雷鳴。
+j	虺蝮	虺蝮	まむし。
+j	虺韡	虺韡	光り輝くこと。また、そのさま。
+j	蚺蛇	蚺蛇	python (a type of snake)
+j	蛺蝶	蛺蝶	
+j	螺子	螺子	a screw
+j	螺旋	螺旋	a helix, a spiral
+j	螺線	螺線	巻き貝のような渦巻き状の線。スパイラル。
+j	螺貝	螺貝	synonym of 螺 (tsubu, “spi…
+j	螺鈿	螺鈿	mother-of-pearl inlay, of…
+j	螺髪	螺髪	仏像に見られる、巻貝状に丸まった髪の毛。
+j	診る	診る	examine
+j	診候	診候	診察すること。
+j	診察	診察	medical examination
+j	診断	診断	diagnosis
+j	診査	診査	医師が該当者について健康状態などについて診察や検査…
+j	診療	診療	medical examination and t…
+j	診祟	診祟	祟りを診ること。
+j	診脈	診脈	脈を診ること。脈拍を診察すること。
+j	診腹	診腹	手で腹部に触れて診察すること。腹診。
+j	諺文	諺文	hangul
+j	諺解	諺解	Japanese-language annotat…
+j	諺言	諺言	諺。
+j	諺語	諺語	proverb
+j	豺武	豺武	勇猛。
+j	豺虎	豺虎	やまいぬと虎。
+j	貺賜	貺賜	たまうこと。
+j	賺す	賺す	to coax, to cajole
+j	賺得	賺得	騙し取ること。
+j	趺処	趺処	僧。
+j	趺坐	趺坐	両足を互いに組み合わせて座ること。
+j	辺り	辺り	area
+j	辺備	辺備	国境の防備。
+j	辺兵	辺兵	国境や辺境を守備する兵。
+j	辺功	辺功	辺境の地を守備し、外敵からの攻撃から守った手柄。
+j	辺務	辺務	辺塞の防備。
+j	辺国	辺国	国境近くの辺鄙な国。
+j	辺土	辺土	都から遠く離れた土地。辺地。
+j	辺地	辺地	辺鄙な所。辺境。僻地。
+j	辺城	辺城	辺境を守る城。戍城。
+j	辺域	辺域	辺境。辺地。田舎。
+j	辺塞	辺塞	都から遠く離れた国境。それを防衛する砦。辺境。
+j	辺境	辺境	frontier, border area
+j	辺寇	辺寇	辺境で外敵が侵攻してくること。
+j	辺幣	辺幣	中国共産党が発行した紙幣。
+j	辺戍	辺戍	国境、辺境の守備。
+j	辺戒	辺戒	辺境を警備すること。
+j	辺材	辺材	木材の表皮近くの淡色で軟らかい部分。
+j	辺民	辺民	片田舎の住民。
+j	辺海	辺海	陸地近辺の海。近海。
+j	辺涯	辺涯	遠い果て。
+j	辺獄	辺獄	limbo (place for innocent…
+j	辺界	辺界	国境。
+j	辺疆	辺疆	中央から遠く離れた国境付近の土地。
+j	辺裔	辺裔	辺境の地。荒陲。
+j	辺鄙	辺鄙	distant; remote
+j	辺関	辺関	国境や辺境にある関所。
+j	辺防	辺防	辺境や国境を警備すること。
+j	辺陬	辺陬	片田舎。
+j	辺隙	辺隙	辺境の紛争。
+j	辺際	辺際	果て。際限。
+j	辺風	辺風	辺境に吹く風。
+j	迺時	迺時	すぐさま。即刻。即時。
+j	遺す	遺す	
+j	遺事	遺事	matters conveyed from the…
+j	遺伝	遺伝	genetic; genetics
+j	遺体	遺体	corpse, remains
+j	遺作	遺作	unpublished works left be…
+j	遺俗	遺俗	現在も残っている昔からの風俗。
+j	遺児	遺児	orphan; child left by the…
+j	遺利	遺利	人が何かをした後の取り残した利益。
+j	遺制	遺制	今でも残っている古い制度。
+j	遺功	遺功	死後に残された功績や手柄。
+j	遺却	遺却	忘失すること。
+j	遺命	遺命	故人の遺した命令。
+j	遺品	遺品	thing left behind by a de…
+j	遺嘱	遺嘱	生きている内に死後のことを頼むこと。死者の生前の頼…
+j	遺址	遺址	ruins; relics; historical…
+j	遺失	遺失	金品を失くしたり、置き忘れたりすること。
+j	遺子	遺子	養育する親の死後に残された子供。遺児。
+j	遺存	遺存	今もなお残っていること。
+j	遺孤	遺孤	orphan
+j	遺宝	遺宝	死んだ人が残した財産。
+j	遺尿	遺尿	主に夜間、睡眠中に無意識に尿を漏らすこと。遺溺。寝…
+j	遺屍	遺屍	遺棄された死骸。
+j	遺式	遺式	昔から伝わる形式や習慣。
+j	遺影	遺影	portrait of a deceased pe…
+j	遺徳	遺徳	死後、後世にのこる徳。
+j	遺志	遺志	will of the deceased; one…
+j	遺恨	遺恨	eternal grudge
+j	遺恩	遺恩	故人が残した恩恵。
+j	遺意	遺意	故人の意志。遺志。
+j	遺憾	遺憾	feeling a regret that com…
+j	遺戒	遺戒	先人が後の人に残した訓戒。遺訓。
+j	遺文	遺文	documents left by a decea…
+j	遺族	遺族	the bereaved family, fami…
+j	遺旨	遺旨	昔の人が残した考え。
+j	遺書	遺書	a letter or note left by …
+j	遺棄	遺棄	abandonment; desertion
+j	遺業	遺業	先人が残した業績。
+j	遺構	遺構	remains, ruins of ancient…
+j	遺民	遺民	君主や政府が滅んだ後に残された人民。
+j	遺沢	遺沢	後世まで残る故人の恵沢。
+j	遺法	遺法	昔から引き継がれてきた法や制度。
+j	遺流	遺流	子孫。末裔。
+j	遺溺	遺溺	夜、眠っているときに小便を漏らすこと。遺尿。寝小便…
+j	遺漏	遺漏	仕事や作業などでその内容に漏れや落ちがあること。
+j	遺灰	遺灰	遺体を火葬にして残った灰。
+j	遺烈	遺烈	achievements of one's anc…
+j	遺物	遺物	relic (artifact left behi…
+j	遺珠	遺珠	拾われずに残っているきれいな玉。
+j	遺産	遺産	heritage, inheritance, le…
+j	遺留	遺留	forgetting; leaving behind
+j	遺矢	遺矢	大小便を漏らすこと。
+j	遺稿	遺稿	個人の死後に見つかった未発表の原稿。
+j	遺策	遺策	計画などに手抜かりがあること。
+j	遺算	遺算	見込み違い。
+j	遺精	遺精	性交や自慰によらず、不随意に射精すること。
+j	遺美	遺美	先人が残した美しく立派なもの。
+j	遺習	遺習	現在でも残る昔からの習慣や風俗。
+j	遺聞	遺聞	一般には知られていない風聞や事柄。逸聞。
+j	遺腹	遺腹	父親の死後に出生した子ども。
+j	遺臣	遺臣	前朝、先代に仕えていた旧臣。
+j	遺草	遺草	発表する前に作者が死んでしまった詩歌の原稿。
+j	遺著	遺著	posthumous work
+j	遺言	遺言	will (legal document)
+j	遺訓	遺訓	words of wisdom from the …
+j	遺詔	遺詔	天子の御遺言。
+j	遺詠	遺詠	故人の遺作で未発表の詩歌。
+j	遺誡	遺誡	先人が後の人に残した訓戒。遺訓。
+j	遺財	遺財	死んだ人が残した財産。
+j	遺賢	遺賢	官職などに登用されないで、埋もれた有能な人材。
+j	遺贈	遺贈	bequeathing; bequeathment…
+j	遺跡	遺跡	a place of historical or …
+j	遺闕	遺闕	欠けて不足すること。
+j	遺霊	遺霊	故人の霊魂。
+j	遺領	遺領	領主の死後に遺された領地。
+j	遺風	遺風	昔からの風習。
+j	遺香	遺香	香をたいた後に残ったかおり。
+j	遺骨	遺骨	remains of a dead person,…
+j	遺骸	遺骸	corpse
+j	遺髪	遺髪	hair of a dead person
+j	醺然	醺然	酔って気持ちがよくなるさま。
+j	醺臉	醺臉	酔った顔。酔顔。
+j	醺醺	醺醺	酒に酔うさま。
+j	険呑	険呑	
+j	険固	険固	険しい地形を利用し、守りが堅固なこと。また、そのよ…
+j	険塞	険塞	敵方が攻めにくく、守備に都合のよい険しい地にある要…
+j	険夷	険夷	険しいことと平らなこと。険易。
+j	険峭	険峭	険しいさま。
+j	険峻	険峻	山や坂が高く険しいこと。また、そのような場所。
+j	険嶺	険嶺	高く険しい嶺。
+j	険巇	険巇	険しく危ういさま。
+j	険悪	険悪	sharp (offensive, critica…
+j	険情	険情	邪心。
+j	険戯	険戯	険巇なさま。
+j	険所	険所	険しい場所。
+j	険易	険易	険しいことと平らなこと。険夷。
+j	険猾	険猾	狡猾。
+j	険相	険相	険悪な顔の表情。また、そのようなさま。
+j	険粧	険粧	奇服。
+j	険絶	険絶	最上級に険しいこと。また、そのさま。
+j	険艱	険艱	斜面などが険しく、登攀が困難なこと。
+j	険薄	険薄	悲運。
+j	険衣	険衣	奇抜な衣服。奇服。
+j	険要	険要	地形が険しく、守るのに都合が良いこと。そのさま。ま…
+j	険謁	険謁	婦人による請託。
+j	険路	険路	険しい道。
+j	険遠	険遠	険しく遠いさま。
+j	険釁	険釁	困難で不幸なこと。
+j	険阻	険阻	山や道などが険しいこと。また、険しい所。
+j	険隘	険隘	険しく狭いこと。また、そのような場所や様子。
+j	険難	険難	危険と感じること。また、そのようなさま。
+j	険魄	険魄	悪霊。
+j	靺鞨	靺鞨	Mohe, an ancient ethnic g…
+j	鞺鞳	鞺鞳	鐘、太鼓の音がするさま。
+j	餺飥	餺飥	Hōtō, a noodle soup and t…
+j	鰺刺	鰺刺	tern, a bird in the subfa…
+j	鴺胡	鴺胡	ペリカン。
+j	鵺的	鵺的	どちらともつかない曖昧な様子。正体の知れない怪しげ…
+j	鶺鴒	鶺鴒	wagtail
+j	鷺宮	鷺宮	A common place name in ci…
+j	鷺草	鷺草	white egret flower, Pecte…
+j	麺包	麺包	パンの漢字表記。
+j	麺子	麺子	そうめん、そば、うどんといった、いわゆる麺類のこと。
+j	麺屋	麺屋	麺料理を作って客に提供する飲食店、人。
+j	麺棒	麺棒	rolling pin
+j	麺汁	麺汁	そばやうどんなどの麺料理に使用する、出汁、醤油、味…
+j	麺液	麺液	麺汁の異表記。
+j	麺碼	麺碼	メンマの漢字表記。
+j	麺粉	麺粉	小麦粉。
+j	麺類	麺類	noodles
+j	麺麭	麺麭	パンの漢字表記。
+k	각오	覺悟	determination, resolution
+k	감색	紺色	navy blue; dark blue
+k	강도	强盗	robber
+k	강도	强盜	robber
+k	강렬	强烈	Root of 강렬히 (gangnyeolhi)…
+k	건국	建国	establishment of a nation
+k	건국	建國	establishment of a nation
+k	건물	建物	building, construction, e…
+k	건설	建設	construction
+k	건의	建議	proposition, proposal
+k	건조	建造	construction
+k	건축	建築	architecture; construction
+k	결단	決断	decision
+k	결단	決斷	decision
+k	결렬	決裂	breakdown
+k	결석	缺席	absence
+k	결손	缺損	모자람.
+k	결승	決勝	final; the last round of …
+k	결심	決心	resolution, determination
+k	결원	缺員	
+k	결의	決意	determination, resolution
+k	결의	決議	determination, resolution
+k	결점	缺點	flaw; defect; shortcoming
+k	결정	決定	decision
+k	결투	決闘	duel
+k	결투	決鬪	duel
+k	결핍	缺乏	lack; deficiency
+k	결함	缺陷	defect; flaw; fault
+k	고사	固辞	examination, test
+k	고사	固辭	examination, test
+k	고성	固城	shouting, shout, yell
+k	고수	固守	coriander/cilantro
+k	고유	固有	characteristics, essence,…
+k	고정	固定	fixity; immobility
+k	고집	固執	stubbornness
+k	고체	固体	solid
+k	고체	固體	solid
+k	공간	空間	space, room
+k	공강	空講	break between lectures
+k	공군	空軍	air force
+k	공기	空器	air
+k	공기	空気	air
+k	공기	空氣	air
+k	공동	空洞	commonality, sharedness (…
+k	공란	空欄	빈칸.
+k	공백	空白	gap, space
+k	공상	空想	fantasy, daydream
+k	공색	空色	
+k	공수	空輸	air transportation
+k	공습	空襲	air raid; aerial strike
+k	공약	空約	pledge, promise
+k	공언	空言	prattle; empty words
+k	공예	空誉	crafts, handicraft
+k	공예	空譽	crafts, handicraft
+k	공장	空腸	factory
+k	공적	空寂	public, official, related…
+k	공중	空中	the air, midair
+k	공차	空車	an empty car
+k	공창	空唱	workyard, factory yard, s…
+k	공책	空冊	notebook, jotter
+k	공폭	空爆	aerial bombardment; bombi…
+k	공핍	空乏	depletion, depravation
+k	공항	空港	airport
+k	공허	空虚	emptiness, vacuity, inani…
+k	공허	空虛	emptiness, vacuity, inani…
+k	구간	区間	section, segment (of a ro…
+k	구별	区別	A distinction; a differen…
+k	구분	区分	category; classification;…
+k	구역	区域	area, zone, precinct
+k	구청	区庁	district office
+k	구획	区㓰	
+k	기금	基金	fund
+k	기독	基督	Christ
+k	기만	欺瞞	deception, trickery (usua…
+k	기망	欺罔	fraud; deception
+k	기반	基盤	base, foundation
+k	기본	基本	basis, foundation
+k	기수	基数	
+k	기수	基數	
+k	기저	基底	base; basis
+k	기점	基点	starting point
+k	기점	基點	starting point
+k	기준	基準	a fundamental standard or…
+k	기지	基地	base (e.g. military, rese…
+k	기질	基質	temperament, disposition
+k	기초	基礎	foundation, basis
+k	기판	基板	circuit board
+k	나각	螺角	nagak, a seashell horn us…
+k	나사	螺糸	screw (fastener)
+k	나사	螺絲	screw (fastener)
+k	나선	螺旋	spiral; helix
+k	나의	儺儀	A traditional practice in…
+k	나전	螺鈿	mother-of-pearl inlay, of…
+k	대동	臺東	Dae-dong (a locality in D…
+k	대만	臺灣	Taiwan (a partly-recogniz…
+k	대본	臺本	screenplay, script (of a …
+k	대북	臺北	Taipei (the capital city …
+k	대요	臺腰	gist, summary, outline, m…
+k	대장	臺帳	general; admiral
+k	라선	螺旋	
+k	령동	嶺東	
+k	령서	嶺西	
+k	면발	麺발	noodle strand
+k	발각	発覚	detection; exposure
+k	발간	発刊	publishing of a book
+k	발견	発見	find; discovery
+k	발광	発光	luminescence
+k	발광	発狂	luminescence
+k	발굴	発掘	exhumation
+k	발급	発給	issuing (a document such …
+k	발기	発起	erection
+k	발단	発端	beginning; origin
+k	발달	発達	development (of something)
+k	발매	発売	sale, release
+k	발명	発明	invention
+k	발병	発病	footsoreness
+k	발사	発射	launch, discharge, fire, …
+k	발상	発想	conception; idea
+k	발생	発生	occurrence, incidence
+k	발아	発芽	
+k	발언	発言	comment; statement
+k	발열	発熱	heat
+k	발음	発音	pronunciation
+k	발인	発靷	carrying out a coffin
+k	발작	発作	
+k	발전	発展	development; growth
+k	발전	発電	development; growth
+k	발정	発情	oestrus, rut
+k	발차	発車	
+k	발포	発砲	
+k	발표	発表	presentation; exhibition;…
+k	발행	発行	publication
+k	발화	発火	
+k	발효	発効	taking effect
+k	발휘	発揮	show, demonstrate, exhibit
+k	변제	辺際	payment
+k	변주	辺柱	playing a (musical) varia…
+k	사내	寺內	a lad; a young man, espec…
+k	사내	寺内	a lad; a young man, espec…
+k	사원	寺院	member of a company
+k	사찰	寺刹	Buddhist temple
+k	사후	伺候	after the fact, post-, su…
+k	살균	殺菌	sterilization
+k	살육	殺戮	slaughter; massacre
+k	살인	殺人	murder, homicide
+k	살해	殺害	murder
+k	솔로몬의 지혜	智慧	Wisdom of Solomon
+k	쇄도	殺到	rush, flood
+k	시범	示範	demonstration, exhibition
+k	시사	示唆	suggestion; implication
+k	시위	示威	demonstration; protest
+k	언간	諺簡	any pre-contemporary lett…
+k	언문	諺文	hangul; the Korean alphab…
+k	언해	諺解	Korean-language annotatio…
+k	영남	嶺南	[~지방(地方)] Yeongnam (a reg…
+k	영동	嶺東	Yeongdong, South Korea
+k	영서	嶺西	Yeongseo, South Korea
+k	왕성	旺盛	flourishing; prosperity
+k	요람	揺籃	cradle
+k	요약	幺弱	summary, synopsis
+k	위주	為主	
+k	유감	遺憾	regret
+k	유기	遺棄	abandonment
+k	유명	遺命	famous, well-known
+k	유물	遺物	relic, artifact
+k	유산	遺產	property left (by a decea…
+k	유산	遺産	property left (by a decea…
+k	유서	遺書	a letter or note left by …
+k	유언	遺言	last words; testament
+k	유적	遺蹟	a place of historical or …
+k	유전	遺伝	genetic; genetics
+k	유전	遺傳	genetic; genetics
+k	유정	遺精	oil well
+k	유해	遺骸	harmful
+k	익사	溺死	drowning
+k	인간	人間	human, human being
+k	인격	人格	personality, character
+k	인공	人工	artificiality
+k	인구	人口	population
+k	인권	人権	human rights (the basic r…
+k	인권	人權	human rights (the basic r…
+k	인기	人気	popularity
+k	인기	人氣	popularity
+k	인도	人道	sidewalk, pavement, walkw…
+k	인력	人力	gravitation, gravity
+k	인류	人類	humankind, humanity
+k	인륜	人倫	human ethics
+k	인맥	人脈	connections (people with …
+k	인명	人名	person's name
+k	인명	人命	person's name
+k	인물	人物	the physical figure of a …
+k	인민	人民	the people (of a country)…
+k	인부	人夫	labourer; worker (especia…
+k	인사	人事	greeting
+k	인사	人士	greeting
+k	인삼	人蔘	ginseng (any of several p…
+k	인상	人相	impression
+k	인생	人生	one's life
+k	인성	人性	quality of one's characte…
+k	인세	人世	royalty payment
+k	인수	人獣	factor
+k	인수	人獸	factor
+k	인심	人心	care, compassion, sympath…
+k	인어	人魚	merperson; merfolk
+k	인영	人影	shadow of a person
+k	인원	人員	staff; personnel; employee
+k	인자	人子	factor
+k	인재	人材	talented person
+k	인적	人的	trace of people, presence…
+k	인적	人跡	trace of people, presence…
+k	인정	人情	recognition, acknowledgme…
+k	인조	人造	artificiality, manmade qu…
+k	인종	人種	race; ethnicity
+k	인중	人中	philtrum
+k	인지	人指	cognition
+k	인질	人質	hostage
+k	인체	人体	human body, organism
+k	인체	人體	human body, organism
+k	인칭	人称	person
+k	인칭	人稱	person
+k	인형	人形	doll, puppet, action figu…
+k	인호	人虎	
+k	자객	刺客	assassin
+k	자극	刺戟	stimulation; stimulus
+k	자밀	刺蜜	camelthorn (bush of the g…
+k	자상	刺傷	a cut, a stab, stab wound…
+k	자수	刺繍	embroidery
+k	자수	刺繡	embroidery
+k	자포	刺胞	cnidocyte
+k	정보	町步	information
+k	정보	町歩	information
+k	지력	智力	지혜의 움직임.
+k	지룽	基隆	타이완섬 북부에 위치한 도시.
+k	지치	智歯	
+k	지치	智齒	
+k	지혜	智慧	wisdom
+k	진단	診断	diagnosis
+k	진단	診斷	diagnosis
+k	진찰	診察	examination; checkup
+k	참회	懺悔	confession; repentance
+k	척량	尺量	measuring with a ruler
+k	천로	淺露	path to the skies, road t…
+k	천지	淺智	heaven and earth
+k	천지	淺知	heaven and earth
+k	초헌	軺軒	sedan chair for governmen…
+k	출가	出嫁	marriage, marrying (of a …
+k	출가	出家	marriage, marrying (of a …
+k	출구	出口	exit
+k	출국	出国	leaving a country
+k	출국	出國	leaving a country
+k	출근	出勤	going to work
+k	출금	出金	withdrawal (of money)
+k	출납	出納	receipt and disbursement;…
+k	출력	出力	output
+k	출루	出塁	getting on base
+k	출루	出壘	getting on base
+k	출발	出発	departure
+k	출발	出發	departure
+k	출범	出帆	a ship's departure from a…
+k	출산	出産	childbirth
+k	출생	出生	birth (process of childbe…
+k	출석	出席	presence, attendance
+k	출신	出身	a native; someone native-…
+k	출연	出捐	appearance (for a perform…
+k	출연	出演	appearance (for a perform…
+k	출입	出入	entrance and exit
+k	출장	出張	going out somewhere on bu…
+k	출전	出典	authority, source (of a q…
+k	출처	出処	source, origin
+k	출처	出處	source, origin
+k	출토	出土	excavation
+k	출판	出版	publication; press; publi…
+k	출현	出現	appearance, entrance, rev…
+k	출혈	出血	bleeding; haemorrhage
+k	타이난	臺南	
+k	타이중	臺中	
+k	폐렴	肺炎	pneumonia
+k	폐암	肺癌	lung cancer
+k	폐어	肺魚	lungfish
+k	폐포	肺胞	pulmonary alveolus
+k	포연	酺宴	gunsmoke, smoke produced …
+k	험담	険談	slander, gossip, backbiti…
+k	험악	険悪	danger
+k	화목	樺木	firewood
+k	화태	樺太	
+k	확률	確率	probability
+k	확립	確立	establishment, settlement
+k	확보	確保	guarantee
+k	확신	確信	conviction, confidence
+k	확실	確実	certainty, reliability, t…
+k	확실	確實	certainty, reliability, t…
+k	확약	確約	assurance, firm promise
+k	확인	確認	check; confirmation; veri…
+k	휴대	携帯	to carry (in compounds); …
+k	휴대	携帶	to carry (in compounds); …
+j	人の世	人の世	the human world
+j	人の子	人の子	
+j	人の道	人の道	人間として踏み行うべき道筋。人が人として生きてゆく…
+j	人一倍	人一倍	more than other people; w…
+j	人並み	人並み	average, ordinary
+j	人中穴	人中穴	
+j	人中黄	人中黄	medicine extracted from h…
+j	人事課	人事課	HR department, personnel …
+j	人事院	人事院	内閣が所管する合議制の機関であるが、指揮監督は受け…
+j	人件費	人件費	labor cost, payroll cost,…
+j	人力車	人力車	a rickshaw
+j	人口学	人口学	demography
+j	人名学	人名学	
+j	人名訓	人名訓	人名に使われる、漢字の特殊な訓読み。
+j	人型の	人型の	
+j	人工の	人工の	
+j	人工物	人工物	人の手で作られた物。アーティファクト。
+j	人工的	人工的	artificial
+j	人工芝	人工芝	artificial turf, artifici…
+j	人差し	人差し	
+j	人差指	人差指	「ひとさしゆび」の漢語表現。
+j	人形劇	人形劇	puppet show (theatrical p…
+j	人形司	人形司	頭師、手足師、髪付師、小道具師、織物師が担当して作…
+j	人形家	人形家	someone who makes dolls a…
+j	人形師	人形師	a dollmaker, a person who…
+j	人心地	人心地	consciousness
+j	人情家	人情家	人情のある人。
+j	人情本	人情本	江戸時代後期から明治初期まで続いた小説の形態。洒落…
+j	人文字	人文字	大勢の人が集まって列に並び大きな文字をつくること。…
+j	人文学	人文学	humanities
+j	人文的	人文的	academic (scholarly; lite…
+j	人新世	人新世	
+j	人格化	人格化	personification, anthropo…
+j	人格権	人格権	personality rights
+j	人格者	人格者	a man of character, a per…
+j	人権屋	人権屋	左翼人権活動家。
+j	人殺し	人殺し	murder
+j	人民元	人民元	renminbi (the official cu…
+j	人民党	人民党	
+j	人民幣	人民幣	renminbi (the official cu…
+j	人民服	人民服	大陸統治時代の中華民国で考案された同色で折襟の上衣…
+j	人気者	人気者	popular person
+j	人為的	人為的	artificial
+j	人物画	人物画	人間を題材として描いた絵。
+j	人物的	人物的	人物に関するさま。
+j	人生観	人生観	view of life; perspective…
+j	人皮畜	人皮畜	「人皮畜生」の略。
+j	人相学	人相学	その人の顔つきや表情などから性格や気質などを判定す…
+j	人相見	人相見	人相を見てその人の運勢を占う職業の人。
+j	人種的	人種的	人種に関すること。また、そのさま。
+j	人肌燗	人肌燗	日本酒の燗の温度帯のひとつ。35度前後のものをいう。
+j	人込み	人込み	crowd of people
+j	人通り	人通り	coming and going of peopl…
+j	人道的	人道的	humane
+j	人間の	人間の	
+j	人間学	人間学	人間の本質や意義を哲学的に明らかにしようとする学問。
+j	人間性	人間性	一人の人間としてのあるべき姿。
+j	人間業	人間業	human feat
+j	人間界	人間界	人間が暮らす世界。人界。
+j	人間的	人間的	性格や行動、考えなどに人間として当然あるべき要素を…
+j	人間道	人間道	人間として履行すべき道徳。
+j	人非人	人非人	人道に悖る行いをする者を罵っていう語。
+j	人面魚	人面魚	fish with a human-like fa…
+j	人頭税	人頭税	国民またはある地域の住民一人一人に定額でかかる税金。
+j	人類史	人類史	人類の歴史。
+j	人類学	人類学	anthropology
+j	人食い	人食い	
+j	人馬宮	人馬宮	Sagittarius
+j	人魚姫	人魚姫	The Little Mermaid
+j	俺の嫁	俺の嫁	mai waifu
+j	出した	出した	
+j	出だし	出だし	
+j	出っ歯	出っ歯	a protruding tooth; a buc…
+j	出てけ	出てけ	
+j	出不精	出不精	disliking leaving one's h…
+j	出世間	出世間	（仏教）世俗を離れ、迷いや煩悩を絶ち悟りの境地に入…
+j	出世魚	出世魚	a fish whose popular appe…
+j	出任せ	出任せ	arbitrary, random remark
+j	出会い	出会い	encounter; meeting by cha…
+j	出会う	出会う	to meet by chance, run in…
+j	出入り	出入り	coming in and going out
+j	出入口	出入口	exit or entrance
+j	出入国	出入国	entry into and exit from …
+j	出出福	出出福	醜女。ブス。阿多福。阿亀。
+j	出切る	出切る	to exhaust, to have none …
+j	出品物	出品物	
+j	出囃子	出囃子	music played upon one's a…
+j	出回る	出回る	to appear on the market; …
+j	出塁率	出塁率	
+j	出席簿	出席簿	roll book
+j	出張る	出張る	
+j	出張所	出張所	branch office
+j	出張料	出張料	業者を自宅など職場以外の場所に呼ぶのにかかる料金。
+j	出揃う	出揃う	to all show up; to be all…
+j	出札口	出札口	ticket window
+j	出札所	出札所	ticket office
+j	出来る	出来る	
+j	出来事	出来事	incident, event
+j	出来心	出来心	a sudden evil thought; wh…
+j	出来星	出来星	upstart, nouveau riche
+j	出来物	出来物	tumour, boil
+j	出来高	出来高	
+j	出次数	出次数	outdegree
+j	出歯亀	出歯亀	voyeur, Peeping Tom
+j	出歯鼠	出歯鼠	a mole rat
+j	出水管	出水管	二枚貝で体内に水を排出するための管。外套膜が変化し…
+j	出演者	出演者	番組や作品、舞台などで芸などを披露する人。演者。
+j	出無精	出無精	外出することを嫌うこと。また、そのようなさまや人。
+j	出版権	出版権	著作物を出版（複製、販売など）する権利。版権。
+j	出版物	出版物	publication (issue of pri…
+j	出版社	出版社	publisher; publishing hou…
+j	出生地	出生地	birthplace (location)
+j	出生届	出生届	子が出生したとき戸籍法に基づき14日以内に市区町村…
+j	出生率	出生率	birthrate
+j	出産率	出産率	birthrate
+j	出発地	出発地	departure place, place of…
+j	出発点	出発点	starting point
+j	出盛り	出盛り	
+j	出目金	出目金	金魚の品種の一つ。目が左右に大きく突き出てている。
+j	出稽古	出稽古	home tutoring, teaching t…
+j	出納係	出納係	cashier; teller
+j	出納簿	出納簿	
+j	出羽国	出羽国	日本の旧国（令制国）のひとつ。現在の山形県と秋田県…
+j	出羽守	出羽守	an official post "governo…
+j	出職人	出職人	外の現場に出て働く職人。大工など。対義語は自宅で働…
+j	出血熱	出血熱	
+j	出資者	出資者	investor
+j	出走馬	出走馬	horses participating in a…
+j	出身地	出身地	ある人が生まれ育った土地。
+j	出迎え	出迎え	greeting; welcoming; meet…
+j	出退社	出退社	出社と退社。
+j	出雲国	出雲国	日本の旧国（令制国）のひとつ。現在の島根県東部にあ…
+j	出願者	出願者	applicant
+j	出鱈目	出鱈目	nonsensical
+j	刺さる	刺さる	to protrude, to stick out
+j	刺し傷	刺し傷	stab wound
+j	刺激的	刺激的	感性に影響を及ぼすさま。気持ちを興奮させるさま。
+j	刺激臭	刺激臭	つんとした嗅覚を刺激するような嫌なにおい。
+j	刺細胞	刺細胞	刺胞動物の表皮にある細胞で毒のある刺胞がある。
+j	区切り	区切り	parse
+j	区切る	区切る	to mark off, to demarcate…
+j	区役所	区役所	ward office
+j	区議会	区議会	a ward assembly
+j	区長室	区長室	区長が執務を行う専用の部屋。
+j	哺乳期	哺乳期	lactation period
+j	哺乳瓶	哺乳瓶	baby bottle (bottle with …
+j	哺乳綱	哺乳綱	生物の分類階級の1つ。哺乳類がこれに含まれる。
+j	哺乳類	哺乳類	mammals (Mammalia)
+j	固まり	固まり	lump, mass, clump, clod, …
+j	固まる	固まる	to harden; to become firm
+j	固める	固める	harden
+j	固定費	固定費	生産高や売上高に関係なく固定的に発生する費用。
+j	固定長	固定長	fixed length (e.g. block)
+j	固形墨	固形墨	
+j	固形物	固形物	solid, especially food
+j	固形食	固形食	嚙んで食べる通常の食べ物。
+j	固有の	固有の	
+j	固有値	固有値	eigenvalue
+j	固有性	固有性	あるものに元々備わっている性質。
+j	固有時	固有時	proper time (time as meas…
+j	固溶体	固溶体	ある原子が化合することなくランダムに別の原子の中に…
+j	固都税	固都税	「固定資産税と都市計画税」を総称した略語。
+j	基づく	基づく	be based on
+j	基亜種	基亜種	種を代表する亜種。原名亜種、承名亜種、原亜種とも呼…
+j	基地外	基地外	Used other than figurativ…
+j	基地局	基地局	base station
+j	基数詞	基数詞	基数を表す数詞。
+j	基本列	基本列	「コーシー列」に同じ。
+j	基本形	基本形	
+j	基本的	基本的	fundamental, basic
+j	基本給	基本給	給料の手当などを含まない基本的な部分。本俸。
+j	基準値	基準値	何かを判定する際に基準となる数値。
+j	基準日	基準日	基準となる日。
+j	基準点	基準点	位置や標高を正確に測定され、地図作成の基準となる点。
+j	基盤岩	基盤岩	bedrock
+j	基督敎	基督敎	
+j	基督教	基督教	キリスト教の漢字表記。
+j	基礎の	基礎の	
+j	基礎的	基礎的	fundamental, basic
+j	墺地利	墺地利	オーストリアの当て字。オーストリアを参照。墺太利。
+j	墺太利	墺太利	オーストリアの当て字。オーストリアを参照。墺地利。
+j	壺珊瑚	壺珊瑚	
+j	尺取虫	尺取虫	measuring worm; looper
+j	尺貫法	尺貫法	The traditional Japanese …
+j	建てる	建てる	to build, to construct
+j	建て網	建て網	a fish-trap, a set net
+j	建付地	建付地	建物などの敷地に供せられ、実際に建物などがある土地…
+j	建具屋	建具屋	建具を作って売る店。
+j	建具師	建具師	建具を作る職人。
+j	建白書	建白書	petition, memorial
+j	建築士	建築士	licensed architect, a per…
+j	建築学	建築学	architecture, architecton…
+j	建築家	建築家	architect
+j	建築物	建築物	building; structure; edif…
+j	建蔽率	建蔽率	建築物の建築面積の、敷地面積に対する割合。
+j	建設業	建設業	土木、建築の工事を行う営業。
+j	建設物	建設物	
+j	建設的	建設的	物事を打ち建てたり、良い方向へもっていこうとするさ…
+j	建設者	建設者	
+j	建造物	建造物	建物・橋・塔など建造した物。
+j	懺悔室	懺悔室	confessional
+j	挺する	挺する	何かのために進んで、攻撃や不利益を受ける状況に〔何…
+j	揺する	揺する	shake, rock, swing
+j	揺らぐ	揺らぐ	to waver, to sway back an…
+j	揺らす	揺らす	to shake; to wobble; to m…
+j	揺り籠	揺り籠	a rocking cradle (for a b…
+j	揺るぎ	揺るぎ	shaking, wavering
+j	揺るぐ	揺るぐ	to shake, to waver
+j	揺れる	揺れる	to shake, to quake, to sw…
+j	揺蕩い	揺蕩い	bobbing, to moving about …
+j	揺蕩う	揺蕩う	to bob, to move about unc…
+j	携える	携える	carry, hold
+j	携わる	携わる	to take part, to particip…
+j	携帯品	携帯品	身に付け携帯する品物。所持品。
+j	智天使	智天使	a cherub
+j	智実子	智実子	a female given name
+j	智次郎	智次郎	a male given name
+j	机の上	机の上	
+j	机上論	机上論	armchair theory; speculat…
+j	樺の木	樺の木	birch (tree)
+j	樺太島	樺太島	「樺太」を参照。
+j	樺太庁	樺太庁	日本統治時代の樺太の行政を担った官庁。1907年設…
+j	樺太鱒	樺太鱒	
+j	欺瞞的	欺瞞的	deceptive
+j	殺した	殺した	
+j	殺し屋	殺し屋	hitman; contract killer
+j	殺人犯	殺人犯	人を殺害することで成立する犯罪。また、その犯人。
+j	殺人罪	殺人罪	故意に人を死に至らしめる罪。
+j	殺人者	殺人者	a murderer
+j	殺人鬼	殺人鬼	bloodthirsty killer
+j	殺処分	殺処分	
+j	殺生石	殺生石	Sesshōseki
+j	殺菌剤	殺菌剤	germicide (an agent that …
+j	殺菌灯	殺菌灯	水銀の放電による紫外線を利用して殺菌を行う低圧水銀…
+j	殺虫剤	殺虫剤	insecticide
+j	殺風景	殺風景	drab; dreary; boring; dull
+j	殺鼠剤	殺鼠剤	rodenticide
+j	決して	決して	(not) ever, (not) by any …
+j	決する	決する	to decide, to make a deci…
+j	決まり	決まり	rules
+j	決まる	決まる	to be decided, to be conc…
+j	決める	決める	to make a choice between …
+j	決め顔	決め顔	face pose (a face made wh…
+j	決り字	決り字	
+j	決勝戦	決勝戦	final (match or game to d…
+j	決勝点	決勝点	最後の勝敗を決める地点。ゴール。フィニッシュ。
+j	決勝線	決勝線	finish line
+j	決定戦	決定戦	playoff; tiebreaker; a ma…
+j	決定木	決定木	decision tree
+j	決定版	決定版	definitive edition
+j	決定的	決定的	物事がほぼ決まっているさま。
+j	決定論	決定論	
+j	決断力	決断力	判断を迫られた時に、きっぱり決断できる能力。
+j	決明子	決明子	seed of Senna obtusifolia…
+j	決死隊	決死隊	
+j	溺らす	溺らす	
+j	溺れる	溺れる	
+j	為合う	為合う	to do something together,…
+j	為政者	為政者	statesperson; politician
+j	琺瑯質	琺瑯質	
+j	町並み	町並み	townscape, the look of a …
+j	町内会	町内会	Japanese town neighbourho…
+j	町医者	町医者	江戸時代、幕府などに仕えず市中で開業していた医者。
+j	町外れ	町外れ	outskirts
+j	町役場	町役場	town hall
+j	町村会	町村会	
+j	町村制	町村制	1888年から1947年にかけて日本で行われた町村…
+j	町議会	町議会	a town assembly
+j	町道場	町道場	a town dojo
+j	町長室	町長室	町長が執務を行う専用の部屋。
+j	痺れた	痺れた	
+j	痺れる	痺れる	to become numb, to go to …
+j	発する	発する	emit, give off, beam
+j	発メロ	発メロ	
+j	発作的	発作的	突然激しい症状が現れるさま。
+j	発信音	発信音	
+j	発動機	発動機	motor; engine
+j	発売中	発売中	for sale
+j	発売日	発売日	the date a product is to …
+j	発売機	発売機	
+j	発射体	発射体	
+j	発射台	発射台	
+j	発射物	発射物	
+j	発展家	発展家	（主に酒食の面で）手広く活動する人。
+j	発展的	発展的	developing, constructive,…
+j	発情期	発情期	sexually active period, m…
+j	発振器	発振器	
+j	発明家	発明家	発明を行う個人。
+j	発明者	発明者	発明において技術的な着想を提供する人。
+j	発案権	発案権	議案を提出する権限。
+j	発汗剤	発汗剤	sudorific; diaphoretic; p…
+j	発泡剤	発泡剤	製品や物質に泡を発生させる薬剤。
+j	発泡膏	発泡膏	「発泡薬」に同じ。
+j	発泡薬	発泡薬	皮膚に貼り付けて刺激を与え水疱を起こさせる膏薬。発…
+j	発泡酒	発泡酒	a beer made with less mal…
+j	発火点	発火点	
+j	発煙弾	発煙弾	
+j	発生学	発生学	embryology (of any specie…
+j	発癌性	発癌性	
+j	発砲弾	発砲弾	
+j	発祥地	発祥地	place of origin, birthpla…
+j	発禁本	発禁本	banned book
+j	発行者	発行者	
+j	発表会	発表会	recital (performance)
+j	発起人	発起人	ある活動について発起した者。
+j	発送電	発送電	発電と送電。
+j	発酵乳	発酵乳	乳酸発酵により乳酸を加工した飲料で無脂乳固形分が8…
+j	発酵学	発酵学	発酵について研究する学問。醸造学。醸造科学。醸造工…
+j	発電所	発電所	power plant
+j	発電機	発電機	generator (machine that c…
+j	皺ばむ	皺ばむ	
+j	皺眉筋	皺眉筋	a corrugator supercilii
+j	眺める	眺める	to look at, to view, to g…
+j	確かに	確かに	
+j	確たる	確たる	definite, sure, certain
+j	確信犯	確信犯	someone imprisoned or pro…
+j	確定石	確定石	対局が終わるまで返らないことが確定している石。隅の…
+j	確実な	確実な	
+j	確実に	確実に	
+j	確実度	確実度	certainty
+j	確実性	確実性	certainty
+j	確率論	確率論	probability theory
+j	示名条	示名条	電話機の、ボタンの割当用途などを記載しておく札。示…
+j	示性式	示性式	分子式の官能基を区別するため化学式を用いて表現した…
+j	示談金	示談金	settlement money (out of …
+j	空き地	空き地	unused plot of land; glade
+j	空き家	空き家	an abandoned home, a vaca…
+j	空き巣	空き巣	empty nest
+j	空き瓶	空き瓶	empty bottle
+j	空き缶	空き缶	empty can (container)
+j	空けた	空けた	
+j	空ける	空ける	to empty; to pour out
+j	空しい	空しい	empty, hollow, void
+j	空っぽ	空っぽ	empty
+j	空の便	空の便	航空機による輸送。
+j	空オケ	空オケ	「カラオケ」の漢字表記。
+j	空中戦	空中戦	航空機同士における空中での戦闘。
+j	空中権	空中権	（建築）建築基準法又は都市計画法 に基づき、土地の…
+j	空中線	空中線	synonym of アンテナ (antena, …
+j	空事象	空事象	根元事象を一つも含まない事象。
+j	空元気	空元気	false cheerfulness
+j	空回り	空回り	idling (of an engine)
+j	空城計	空城計	Empty Fort Strategy (stra…
+j	空将補	空将補	a major general
+j	空幕長	空幕長	航空幕僚長の略。
+j	空想家	空想家	visionary
+j	空手家	空手家	karate practitioner
+j	空手形	空手形	融通手形。
+j	空手道	空手道	karate
+j	空振り	空振り	swinging and missing; hit…
+j	空挺兵	空挺兵	paratrooper
+j	空梅雨	空梅雨	dry rainy season
+j	空模様	空模様	look of the sky; weather
+j	空気感	空気感	emotional atmosphere
+j	空気銃	空気銃	air gun
+j	空洞の	空洞の	
+j	空洞化	空洞化	体制、政策、方針などが中身のない形式だけのものにな…
+j	空焚き	空焚き	heating empty cookware (a…
+j	空疎な	空疎な	
+j	空腹な	空腹な	
+j	空色の	空色の	
+j	空虚な	空虚な	
+j	空論家	空論家	
+j	空軍国	空軍国	強力な空軍を持っている国。エアパワー。
+j	空間の	空間の	
+j	空間的	空間的	空間に関するさま。広がっていくさま。
+j	空集合	空集合	empty set
+j	空飛ぶ	空飛ぶ	to fly in the air
+j	空騒ぎ	空騒ぎ	
+j	空高い	空高い	high in the sky
+j	空高さ	空高さ	altitude
+j	紺掻き	紺掻き	藍染を行う紺屋。
+j	紺搔き	紺搔き	藍染を行う紺屋。
+j	紺碧の	紺碧の	
+j	綺想曲	綺想曲	
+j	綺羅星	綺羅星	glittering stars
+j	綺羅衣	綺羅衣	美服。
+j	綺麗な	綺麗な	
+j	綺麗事	綺麗事	lip service; promising bu…
+j	縺れる	縺れる	
+j	縺れ雲	縺れ雲	cirrus intortus cloud
+j	縺れ髪	縺れ髪	tangled hair
+j	肺動脈	肺動脈	心臓から出て肺に血液を送る血管。静脈血が流れている…
+j	肺塵症	肺塵症	
+j	肺循環	肺循環	心臓の右心室から出て左右の肺動脈、肺、肺静脈と通っ…
+j	肺気腫	肺気腫	emphysema
+j	肺水腫	肺水腫	pulmonary edema
+j	肺活量	肺活量	vital capacity
+j	肺結核	肺結核	pulmonary tuberculosis
+j	肺静脈	肺静脈	肺から出て心臓に血液を送る血管。動脈血か流れている…
+j	腺状の	腺状の	
+j	苺味の	苺味の	
+j	苺色の	苺色の	
+j	葺き師	葺き師	屋根葺きを業とする工匠。
+j	螺旋形	螺旋形	a helix shape, a spiral s…
+j	診察券	診察券	
+j	診察台	診察台	examination table or bed …
+j	診察室	診察室	医療機関で医師が患者を診察するための部屋。
+j	診断書	診断書	医師による診断の内容を証明するために発行される書面。
+j	診療所	診療所	a clinic (medical facilit…
+j	診療録	診療録	
+j	辺境の	辺境の	
+j	辺境伯	辺境伯	
+j	辺鄙な	辺鄙な	
+j	遺伝子	遺伝子	gene
+j	遺伝学	遺伝学	genetics
+j	遺伝率	遺伝率	
+j	遺伝病	遺伝病	inherited disease
+j	遺伝的	遺伝的	genetic
+j	遺傳子	遺傳子	
+j	遺失物	遺失物	（法律）持ち主が落としたり、置き忘れたりした品物。
+j	遺憾砲	遺憾砲	遺憾の意。
+j	遺留分	遺留分	相続で配偶者・子供のために法律上必ず留保されなけれ…
+j	遺留品	遺留品	置き忘れられた物品。遺失物。落とし物。忘れ物。
+j	遺言状	遺言状	遺言を記した書面。
+j	遺言者	遺言者	testator
+j	錺り師	錺り師	錺りをする工匠
+j	錺金具	錺金具	社寺や神輿、仏壇、仏具などに使われる装飾用の金具。
+j	険しい	険しい	steep, rugged
+j	鰺ヶ沢	鰺ヶ沢	a town in Nishitsugaru di…
+k	각성제	覺醒劑	중추 신경을 흥분시켜 잠이 오는 것을 억제하고…
+k	강대국	强大国	great power
+k	강대국	强大國	great power
+k	건설업	建設業	building industry; constr…
+k	건설자	建設者	
+k	건축가	建築家	architect
+k	건축물	建築物	building, structure, arch…
+k	건축학	建築学	architecture, architecton…
+k	건축학	建築學	architecture, architecton…
+k	결단코	決断코	definitely, absolutely, b…
+k	결단코	決斷코	definitely, absolutely, b…
+k	결명차	決明茶	sickle senna (Senna tora)
+k	결승선	決勝線	
+k	결승전	決勝戦	
+k	결승전	決勝戰	
+k	결승점	決勝点	
+k	결승점	決勝點	
+k	결정론	決定論	determinism
+k	고유어	固有語	a word that is part of a …
+k	공간적	空間的	
+k	공기총	空気銃	
+k	공기총	空氣銃	
+k	공론가	空論家	
+k	공매도	空売渡	short selling, short sale…
+k	공매도	空賣渡	short selling, short sale…
+k	공상가	空想家	dreamer, visionary
+k	공성계	空城計	Empty Fort Strategy (stra…
+k	공수도	空手道	karate
+k	공심채	空心菜	water spinach (Ipomoea aq…
+k	구분자	区分字	delimiter
+k	기독교	基督敎	Christianity, especially …
+k	기라성	綺羅星	glittering star
+k	기본적	基本的	basic, fundamental
+k	기수사	基数詞	cardinal
+k	기수사	基數詞	cardinal
+k	기준계	基準系	
+k	기지촌	基地村	gijichon; camptown
+k	나선상	螺旋状	spiral, spirality, spiral…
+k	나선상	螺旋狀	spiral, spirality, spiral…
+k	나선형	螺旋形	spiral
+k	대만어	臺灣語	대만에서 사용하는 한어파의 한 언어.
+k	대만인	臺灣人	Taiwanese (person); espec…
+k	면	麺/麪	cotton (both the fiber an…
+k	발간사	発刊辞	preface
+k	발매기	発売機	vending machine
+k	발명가	発明家	새로운 것을 발명하는 사람을 가리키는 말.
+k	발명자	発明者	
+k	발사대	発射台	launch pad
+k	발사체	発射体	
+k	발송인	発送人	
+k	발송자	発送者	sender
+k	발연기	発煙器	bad acting
+k	발음법	発音法	pronunciation method
+k	발전기	発展期	generator (machine that c…
+k	발전기	発電機	generator (machine that c…
+k	발전소	発電所	power station; power plant
+k	발진기	発振器	
+k	발출론	発出論	
+k	발포주	発泡酒	low-malt beer
+k	발행소	発行所	publisher
+k	발행인	発行人	publisher
+k	법랑질	琺瑯質	tooth enamel
+k	변경백	辺境伯	
+k	살모사	殺母蛇	mamushi
+k	살인자	殺人者	murderer
+k	살인죄	殺人罪	
+k	살처분	殺処分	mass cull of livestock fo…
+k	살처분	殺處分	mass cull of livestock fo…
+k	살충제	殺虫剤	해충을 죽이는 약품.
+k	살충제	殺蟲劑	해충을 죽이는 약품.
+k	살풍경	殺風景	desolate scene, desolate …
+k	시위대	示威隊	protestors, demonstrators
+k	시위자	示威者	protester
+k	오지리	墺地利	Austria (a country in Eur…
+k	요람본	揺籃本	incunabulum
+k	위하다	為하다	to help, to serve, to ben…
+k	유가족	遺家族	bereaved family
+k	유기견	遺棄犬	abandoned dog; dog abando…
+k	유류분	遺留分	재산 가운데 상속인이 임의로 처리하지 못하고 …
+k	유실자	遺失者	
+k	유적지	遺跡地	a historic site
+k	유전자	遺伝子	gene
+k	유전자	遺傳子	gene
+k	유전학	遺伝学	genetics (as a field of s…
+k	유전학	遺傳學	genetics (as a field of s…
+k	인간성	人間性	사람의 됨됨이. 또는 사람이 가진 본성.
+k	인간적	人間的	humane
+k	인건비	人件費	labour cost, personnel ex…
+k	인공어	人工語	'기계어'.
+k	인구학	人口学	
+k	인구학	人口學	
+k	인도교	人道敎	footbridge, pedestrian ov…
+k	인도교	人道橋	footbridge, pedestrian ov…
+k	인도적	人道的	humanitarian, humane
+k	인력거	人力車	rickshaw
+k	인류학	人類学	anthropology
+k	인류학	人類學	anthropology
+k	인마궁	人馬宮	Sagittarius
+k	인문학	人文学	humanities
+k	인문학	人文學	humanities
+k	인민폐	人民幣	renminbi (the official cu…
+k	인사과	人事課	HR department, personnel …
+k	인삼차	人蔘茶	ginseng tea
+k	인생관	人生観	view of life; outlook on …
+k	인생관	人生觀	view of life; outlook on …
+k	인위적	人為的	자연스럽지 않고 작위적인 느낌이 드는 것.
+k	인위적	人爲的	자연스럽지 않고 작위적인 느낌이 드는 것.
+k	인질극	人質劇	hostage-taking incident
+k	인형극	人形劇	puppet show
+k	접의자	摺椅子	
+k	지리산	智異山	Mount Jiri, Jirisan (a mo…
+k	지천사	智天使	
+k	지혜서	智慧書	Wisdom of Solomon
+k	진료소	診療所	clinic
+k	진찰대	診察台	examination table or bed …
+k	진찰대	診察臺	examination table or bed …
+k	출납계	出納係	cashier; teller
+k	출루율	出塁率	OBP; on-base percentage
+k	출루율	出壘率	OBP; on-base percentage
+k	출발지	出発地	departure place, place of…
+k	출발지	出發地	departure place, place of…
+k	출산율	出産率	birthrate; fertility rate
+k	출생일	出生日	birthday, birth date
+k	출생지	出生地	birthplace; place of birth
+k	출원자	出願者	applicant
+k	출입구	出入口	exit or entrance
+k	출입장	出納簿	
+k	출장소	出張所	branch office
+k	출판물	出版物	publication (issue of pri…
+k	출판사	出版社	publisher; publishing hou…
+k	폐기종	肺気腫	pulmonary emphysema
+k	폐기종	肺氣腫	pulmonary emphysema
+k	포유류	哺乳類	mammal
+k	확실성	確実性	confidence, certainty, su…
+k	확실성	確實性	confidence, certainty, su…
+k	확진자	確診者	confirmed disease case
+k	휴대용	携帯用	portable
+k	휴대용	携帶用	portable
+j	人でなし	人でなし	brute
+j	人を食う	人を食う	to despise, to look down,…
+j	人事不省	人事不省	（「人事」は「意識」の古い表現、「不省」は認識がな…
+j	人事異動	人事異動	組織内においてそこに所属する者の地位、職務、勤務地…
+j	人事考課	人事考課	従業員の勤務の成績や能力、適性、態度などを評価、査…
+j	人代名詞	人代名詞	人称代名詞のこと。
+j	人体実験	人体実験	testing on a living person
+j	人力車夫	人力車夫	人力車を引いて人を運ぶことを仕事にする人。車夫と同…
+j	人口学者	人口学者	
+j	人口密度	人口密度	population density
+j	人口爆発	人口爆発	人口の急速な増加。
+j	人口調査	人口調査	census
+j	人口過剰	人口過剰	
+j	人工内耳	人工内耳	
+j	人工冬眠	人工冬眠	人工的に人間のエネルギー消費を低下させて冬眠状態に…
+j	人工呼吸	人工呼吸	仮死に陥った者に人工的に呼吸を補助することによって…
+j	人工地震	人工地震	核爆発などによって人工的に起こされる地震。
+j	人工惑星	人工惑星	太陽の周囲を直接公転する人工の物体。
+j	人工流産	人工流産	
+j	人工無脳	人工無脳	人間のように思考することなく、特定のパターンから回…
+j	人工生命	人工生命	artificial life
+j	人工知能	人工知能	artificial intelligence
+j	人工衛星	人工衛星	an artificial satellite
+j	人工言語	人工言語	constructed language, art…
+j	人工透析	人工透析	腎臓の機能が著しく低下し、体内の老廃物が尿に排出さ…
+j	人工降雨	人工降雨	rainmaking; cloud seeding…
+j	人工頭脳	人工頭脳	
+j	人差し指	人差し指	an index finger; a forefi…
+j	人形の家	人形の家	
+j	人形芝居	人形芝居	操り人形を使って行う芝居。人形劇。
+j	人形遣い	人形遣い	人形浄瑠璃で人形を操ること。また、その人。
+j	人文主義	人文主義	humanism
+j	人文的な	人文的な	
+j	人文科学	人文科学	人間を対象とする科学の分野。文学、哲学、歴史学、言…
+j	人材管理	人材管理	
+j	人格攻撃	人格攻撃	その人の意見ではなく、その背後にある性格や経歴を非…
+j	人格障害	人格障害	
+j	人権侵害	人権侵害	公権力、他者などから基本的人権が踏みにじられること…
+j	人権蹂躙	人権蹂躙	公権力、他者などから基本的人権が踏みにじられること…
+j	人民の敵	人民の敵	
+j	人民主権	人民主権	人民に主権があること。国民主権。
+j	人民主義	人民主義	
+j	人民学校	人民学校	朝鮮民主主義人民共和国における初等教育機関「인민학…
+j	人気歌手	人気歌手	
+j	人海戦術	人海戦術	多くの兵員を繰り出し、数の力で圧倒する戦術。
+j	人減らし	人減らし	labor cut
+j	人為分類	人為分類	《分類学等》［広義］ 人間とのつながりや区別しやす…
+j	人為的な	人為的な	
+j	人生類友	人生類友	
+j	人畜無害	人畜無害	harmless to both humans a…
+j	人的証拠	人的証拠	personal evidence, testim…
+j	人皮畜生	人皮畜生	外見は人であるが、心は畜生と同じであること。人皮畜。
+j	人相書き	人相書き	犯人や行方不明者を捜すためにその人の人相を書いて配…
+j	人知れず	人知れず	in secret
+j	人種主義	人種主義	racism
+j	人種差別	人種差別	racial discrimination
+j	人笑わせ	人笑わせ	
+j	人見知り	人見知り	shyness, fear of strangers
+j	人跡未踏	人跡未踏	人がまだ足を踏み入れたことがない。
+j	人身事故	人身事故	an accident resulting in …
+j	人身供儀	人身供儀	生きた人間を神の生け贄として捧げること。また、生け…
+j	人身取引	人身取引	human trafficking
+j	人身売買	人身売買	human trafficking (the bu…
+j	人身御供	人身御供	human sacrifice
+j	人身攻撃	人身攻撃	criticism of a person due…
+j	人身賣買	人身賣買	
+j	人造人間	人造人間	android, robot
+j	人造絹糸	人造絹糸	rayon
+j	人造繊維	人造繊維	化学繊維の別称。
+j	人道主義	人道主義	humanitarianism
+j	人道回廊	人道回廊	
+j	人間の盾	人間の盾	human shield
+j	人間不信	人間不信	distrust of other people
+j	人間国宝	人間国宝	living national treasure
+j	人間好き	人間好き	
+j	人間嫌い	人間嫌い	misanthropy
+j	人間将棋	人間将棋	鎧や着物で着飾った人間を駒に見立てて将棋を指す催し…
+j	人間工学	人間工学	
+j	人間模様	人間模様	人間同士でしたり・されたりで起こる様々な出来事や事…
+j	人間関係	人間関係	組織、集団、社会など内外における人と人との関係やつ…
+j	人間離れ	人間離れ	性質や能力が通常の人間と掛け離れていること。
+j	人面獣心	人面獣心	顔は人間であるが、心は獣のような心であること。
+j	人頭獅身	人頭獅身	
+j	人類学者	人類学者	anthropologist
+j	人馬一体	人馬一体	unity of a horse and its …
+j	俺俺詐欺	俺俺詐欺	特殊詐欺の一種。電話で親族（息子、孫など）を装い、…
+j	出かける	出かける	
+j	出し抜け	出し抜け	
+j	出し狭間	出し狭間	
+j	出っ張り	出っ張り	projection, bulge (someth…
+j	出っ張る	出っ張る	
+j	出てくる	出てくる	
+j	出て行く	出て行く	
+j	出て行け	出て行け	
+j	出で立ち	出で立ち	outfit, dress, attire
+j	出世払い	出世払い	paying after career advan…
+j	出任せの	出任せの	
+j	出会い系	出会い系	dating website
+j	出会い頭	出会い頭	moment when both sides me…
+j	出先機関	出先機関	branch office
+j	出処進退	出処進退	官に出仕することと民間に退くこと。
+j	出刃包丁	出刃包丁	和包丁の一つ。刃のみねが厚く、刃先が尖った包丁。魚…
+j	出力行列	出力行列	線型系の出力方程式に於ける状態ベクトルの係数行列。
+j	出力装置	出力装置	コンピュータが、処理した結果を使用者に示すのに使用…
+j	出勤する	出勤する	
+j	出口戦略	出口戦略	事業、政策、投資、軍事行動といった終わらせ方によっ…
+j	出口調査	出口調査	投票所の出口で報道機関が個人から投票先を聞き取り、…
+j	出国する	出国する	
+j	出奇制勝	出奇制勝	to win by a surprise move
+j	出席する	出席する	
+j	出掛ける	出掛ける	go out
+j	出撃する	出撃する	
+j	出来合い	出来合い	being ready-made
+j	出来栄え	出来栄え	that which is done, or pr…
+j	出歯雀鯛	出歯雀鯛	a green chromis (Chromis …
+j	出没する	出没する	
+j	出港停止	出港停止	
+j	出版する	出版する	
+j	出生する	出生する	
+j	出産する	出産する	
+j	出産休暇	出産休暇	maternity leave
+j	出発する	出発する	
+j	出発時刻	出発時刻	
+j	出発進行	出発進行	列車が停車場を発車する際に、出発信号機が進行を現示…
+j	出糸突起	出糸突起	クモ類の肛門前方にある二対から四対の蜘蛛の糸を吐き…
+j	出荷する	出荷する	
+j	出血する	出血する	
+j	出身成分	出身成分	songbun (a system of ascr…
+j	出迎える	出迎える	greet, welcome, meet a gu…
+j	出馬する	出馬する	
+j	刺々しい	刺々しい	sharp, stinging, harsh
+j	刺すこと	刺すこと	
+j	刺激する	刺激する	
+j	刺激的な	刺激的な	
+j	刺繍する	刺繍する	
+j	刺胞動物	刺胞動物	a cnidarian
+j	刺身包丁	刺身包丁	a sashimi knife
+j	区分的に	区分的に	
+j	区別する	区別する	
+j	哺乳する	哺乳する	
+j	哺乳動物	哺乳動物	mammal
+j	哺乳類学	哺乳類学	哺乳類について研究する学問。動物学の一部。
+j	固く結ぶ	固く結ぶ	
+j	固ゆで卵	固ゆで卵	
+j	固体力学	固体力学	固体の性質などを力学の観点から考察する学問。
+j	固執した	固執した	
+j	固執する	固執する	
+j	固定する	固定する	
+j	固定媒体	固定媒体	fixed media
+j	固定資本	固定資本	fixed capital
+j	固定資産	固定資産	簿記上の資産のうち、営業循環基準や一年基準によって…
+j	固定電話	固定電話	fixed-line telephone; lan…
+j	固形石鹸	固形石鹸	bar soap
+j	固有名詞	固有名詞	proper noun
+j	固有空間	固有空間	ある固有値に対する固有ベクトルの全体から成る集合に…
+j	固有運動	固有運動	恒星が銀河の中でその位置を変えること。
+j	固有関数	固有関数	eigenfunction
+j	基幹事務	基幹事務	マンション管理組合が管理業者に委託する業務のうち、…
+j	基本単位	基本単位	単位系の基準となる単位。
+j	基本原理	基本原理	
+j	基本変形	基本変形	行列のある行・列に対して行う、定数倍、位置の交換、…
+j	基本的な	基本的な	
+j	基本粒子	基本粒子	
+j	基本行列	基本行列	n次単位行列I_nの(i, j)成分をcに置き換え…
+j	基準標本	基準標本	タイプ標本の別名。
+j	基準産地	基準産地	タイプ産地の別名。
+j	基督教徒	基督教徒	a Christian person, Chris…
+j	基礎代謝	基礎代謝	生物が生命を維持するために必要な最低限度のエネルギ…
+j	基礎医学	基礎医学	臨床医学や社会医学の基礎となる身体の構造、構成や病…
+j	基礎歯学	基礎歯学	臨床歯学の基礎となる歯の構造、構成や病気に関する基…
+j	基礎法学	基礎法学	個別の法の解釈や欠缺について研究するのではなく、あ…
+j	基礎疾患	基礎疾患	別の疾患の危険を高める可能性のある疾患。
+j	基礎研究	基礎研究	
+j	基礎科学	基礎科学	学問の基礎部分を対象とする科学の分野。別名、純粋科…
+j	基礎薬学	基礎薬学	臨床薬学や医療薬学、社会薬学の基礎となる薬の開発、…
+j	基軸通貨	基軸通貨	国際的な取引で用いられる通貨。
+j	寺内正毅	寺内正毅	明治時代から大正時代にかけての軍人・政治家（185…
+j	尺取り虫	尺取り虫	尺蛾の幼虫。
+j	嶺上開花	嶺上開花	drawing the winning tile …
+j	建て増し	建て増し	
+j	建て直す	建て直す	
+j	建築業界	建築業界	
+j	建設する	建設する	
+j	建設国債	建設国債	国が道路、ダムなどの社会資本整備の財源を確保するた…
+j	建設機械	建設機械	建設現場で使用される機械の総称。
+j	建設現場	建設現場	a construction site
+j	建設的な	建設的な	
+j	建議する	建議する	
+j	揺さぶり	揺さぶり	shaking, a jolt
+j	揺さぶる	揺さぶる	to (make something) shake
+j	揺さ振る	揺さ振る	
+j	揺らめく	揺らめく	to flicker, to quiver, to…
+j	揺り椅子	揺り椅子	synonym of ロッキングチェア (rokk…
+j	揺れ動く	揺れ動く	to tremble
+j	携帯口糧	携帯口糧	携帯用の口糧。携帯する際の利便性を考慮してつくられ…
+j	携帯番号	携帯番号	mobile phone number
+j	携帯電話	携帯電話	cellular phone, mobile ph…
+j	智行仏母	智行仏母	
+j	机上空論	机上空論	
+j	樺太雷鳥	樺太雷鳥	
+j	殺し合い	殺し合い	
+j	殺し文句	殺し文句	男女間で相手を魅了し悩殺するような言葉。
+j	殺すこと	殺すこと	
+j	殺人光線	殺人光線	
+j	殺到する	殺到する	
+j	殺害する	殺害する	
+j	殺戮する	殺戮する	
+j	殺菌する	殺菌する	
+j	決まって	決まって	always, invariably
+j	決まり字	決まり字	in 歌ガルタ (uta-garuta), the…
+j	決まり手	決まり手	
+j	決定する	決定する	
+j	決定的な	決定的な	
+j	決心する	決心する	
+j	決意する	決意する	
+j	決着する	決着する	
+j	溺死する	溺死する	
+j	為替介入	為替介入	
+j	為替手形	為替手形	振出人が支払人にあてて、一定の金額を受取人または指…
+j	為替相場	為替相場	
+j	町村議会	町村議会	legislatures of towns and…
+j	発がん性	発がん性	carcinogenicity
+j	発信主義	発信主義	隔地者に対する意思表示において、その意思表示を発信…
+j	発動機船	発動機船	発動機（内燃機関）を推進の動力とする船舶。
+j	発声映画	発声映画	映像とともに音声を出す映画。トーキー。
+j	発売する	発売する	
+j	発売禁止	発売禁止	prohibition of sale, incl…
+j	発射する	発射する	
+j	発展する	発展する	
+j	発展途上	発展途上	
+j	発掘する	発掘する	
+j	発散する	発散する	
+j	発散級数	発散級数	
+j	発明する	発明する	
+j	発泡する	発泡する	
+j	発火する	発火する	
+j	発火温度	発火温度	
+j	発煙硝酸	発煙硝酸	white fuming nitric acid,…
+j	発煙硫酸	発煙硫酸	oleum; fuming sulfuric ac…
+j	発生学者	発生学者	発生学を研究する科学者。
+j	発癌物質	発癌物質	carcinogen
+j	発砲する	発砲する	
+j	発砲許可	発砲許可	
+j	発破技士	発破技士	建設現場や採掘場などで発破を行う際に穿孔や装填、点…
+j	発芽する	発芽する	
+j	発芽玄米	発芽玄米	sprouted brown rice, germ…
+j	発菩提心	発菩提心	開悟しようという心を持つこと。発心。
+j	発表する	発表する	
+j	発見する	発見する	
+j	発語行為	発語行為	speech act
+j	発足する	発足する	
+j	発車する	発車する	
+j	発送する	発送する	
+j	発達する	発達する	
+j	発達障害	発達障害	developmental disability
+j	発酵する	発酵する	
+j	発酵学者	発酵学者	発酵学を研究する科学者。
+j	発酵食品	発酵食品	微生物の働きにより食材を発酵させた食品。
+j	発震機構	発震機構	地震を引き起こした断層の動き。
+j	発音する	発音する	
+j	発音記号	発音記号	phonetic symbol
+j	確かめる	確かめる	to verify, to find out, t…
+j	確かめ算	確かめ算	検算。
+j	確信した	確信した	
+j	確定申告	確定申告	納税義務者が前年一年間の所得、税額などを所轄の税務…
+j	確率分布	確率分布	probability distribution
+j	確率変動	確率変動	change in odds, often fou…
+j	確率変数	確率変数	試行の結果によってどの値をとるか定まり、とり得る値…
+j	確率標本	確率標本	
+j	確率測度	確率測度	事象の確率を測る測度。
+j	確率空間	確率空間	probability space
+j	確率行列	確率行列	全ての成分が非負かつ各行または各列の総和が1である…
+j	確率過程	確率過程	stochastic process
+j	確言する	確言する	
+j	確認する	確認する	
+j	示名条片	示名条片	電話機の、ボタンの割当用途などを記載しておく札。示…
+j	示指伸筋	示指伸筋	an extensor indicis
+j	示準化石	示準化石	index fossil
+j	空き部屋	空き部屋	
+j	空っぽな	空っぽな	
+j	空にする	空にする	
+j	空に満つ	空に満つ	allusion to 大和 (Yamato, a…
+j	空の要塞	空の要塞	
+j	空中ヨガ	空中ヨガ	
+j	空中写真	空中写真	aerial photograph
+j	空中分解	空中分解	disintegration in mid-air
+j	空中回廊	空中回廊	
+j	空中戦闘	空中戦闘	戦闘機同士の戦闘。
+j	空中挺進	空中挺進	航空機を用いて地上部隊を敵地に降下させ侵攻させるこ…
+j	空中文字	空中文字	skywriting
+j	空中栽培	空中栽培	地面を這う性質の蔓性植物を支柱や壁面などに誘引し、…
+j	空中爆撃	空中爆撃	航空機などを使い空中から敵地や艦船を爆撃すること。…
+j	空中鞦韆	空中鞦韆	高い天井から長いロープで吊るされた鞦韆。また、それ…
+j	空似言葉	空似言葉	
+j	空前絶後	空前絶後	something extremely uncom…
+j	空即是色	空即是色	fundamental doctrine that…
+j	空威張り	空威張り	
+j	空手道場	空手道場	空手道をするための武道場。
+j	空挺部隊	空挺部隊	空挺兵で構成される部隊。国により陸軍、海軍あるいは…
+j	空気力学	空気力学	aerodynamics
+j	空気感染	空気感染	飛沫が乾燥した飛沫核が空気中を浮遊し粘膜に入ること…
+j	空気椅子	空気椅子	wall squat
+j	空気輸送	空気輸送	乗客が非常に少なく、空気だけを運んでいるような状態…
+j	空腹切る	空腹切る	切腹の真似をする。
+j	空腹病む	空腹病む	腹痛を装う。
+j	空襲警報	空襲警報	空襲を住民に知らせ、避難を促すために発する警報。
+j	空調設備	空調設備	
+j	空軍基地	空軍基地	airbase (military airport)
+j	空輸挺進	空輸挺進	航空機を用いて地上部隊を敵地に降下させ侵攻させるこ…
+j	空間微分	空間微分	∇(ナブラ)で表記される微分操作である勾配・発散・…
+j	肺動脈弁	肺動脈弁	右心室と肺動脈との境にある半月のような形で三枚から…
+j	肺腑の言	肺腑の言	嘘偽りのない心からの言葉。
+j	腺ペスト	腺ペスト	齧歯類から人間に感染するペスト。ノミが媒介する。
+j	苺ジャム	苺ジャム	strawberry jam
+j	螺子回し	螺子回し	screwdriver (tool)
+j	螺旋翼機	螺旋翼機	
+j	螺旋階段	螺旋階段	spiral staircase
+j	診察する	診察する	
+j	診断する	診断する	
+j	診療報酬	診療報酬	公的な保険診療で医療サービスを受けた際に、医療機関…
+j	躺平主義	躺平主義	
+j	遺伝子型	遺伝子型	genotype (combination of …
+j	遺伝子座	遺伝子座	遺伝子がコードされる染色体上の領域。
+j	遺伝子病	遺伝子病	遺伝病に同じ。
+j	遺伝学者	遺伝学者	遺伝学を研究する科学者。
+j	遺伝情報	遺伝情報	遺伝現象を担う情報。核酸によってコードされた遺伝子…
+j	遺伝暗号	遺伝暗号	codon (sequence of 3 adja…
+j	遺伝物質	遺伝物質	遺伝情報を担う物質。DNA、RNA、染色体などを指…
+j	遺憾千万	遺憾千万	非常に残念（=遺憾）でたまらない事。思いどおりに事…
+j	遺産分割	遺産分割	遺産を相続分に応じて分割すること。
+j	錺金具師	錺金具師	錺金具を作る職人。
+k	건조하다	建造하다	to be dry
+k	건축업자	建築業者	
+k	결사옹위	決死擁衛	defending and safeguardin…
+k	고유명사	固有名詞	proper noun
+k	고정자산	固定資産	
+k	고집불통	固執不通	Implacable stubbornness; …
+k	공군 기지	空軍基地	
+k	공기권총	空気拳銃	
+k	공기권총	空氣拳銃	
+k	공기방석	空気方席	air cushion
+k	공기방석	空氣方席	air cushion
+k	공기소총	空気小銃	
+k	공기소총	空氣小銃	
+k	공기조화	空気調和	
+k	공기조화	空氣調和	
+k	공수부대	空輸部隊	airborne unit
+k	공허하다	空虚하다	to be void; to be empty
+k	공허하다	空虛하다	to be void; to be empty
+k	기간시설	基幹施設	
+k	기독교도	基督敎徒	Christian
+k	기독교인	基督敎人	
+k	기독교화	基督敎化	
+k	기반시설	基盤施設	infrastructure
+k	기저세포	基底細胞	basal cell
+k	기초하다	基礎하다	to be based on
+k	대만 해협	臺灣海峽	Taiwan Strait
+k	발달장애	発達障碍	
+k	발암물질	発癌物質	
+k	발연황산	発煙黄酸	
+k	발음기관	発音器官	vocal organs
+k	살상지대	殺傷地帯	
+k	살상지대	殺傷地帶	
+k	인간공학	人間工学	
+k	인간공학	人間工學	
+k	인간혐오	人間嫌悪	misanthropy, misanthropism
+k	인간혐오	人間嫌惡	misanthropy, misanthropism
+k	인공위성	人工衛星	an artificial satellite
+k	인공유산	人工流産	
+k	인공지능	人工知能	artificial intelligence
+k	인구 밀도	人口密度	
+k	인구조사	人口調査	census
+k	인도주의	人道主義	humanitarianism
+k	인문주의	人文主義	
+k	인물사전	人物事典	a biographical dictionary
+k	인민 위원	人民委員	
+k	인민학교	人民学校	elementary school
+k	인민학교	人民學校	elementary school
+k	인사하다	人事하다	to greet
+k	인산인해	人山人海	huge crowd of people, thr…
+k	인신공격	人身攻撃	개인의 신상에 대한 언어상의 공격적인 행동.
+k	인신공격	人身攻擊	개인의 신상에 대한 언어상의 공격적인 행동.
+k	인신매매	人身売買	
+k	인신매매	人身賣買	
+k	인재유출	人材流出	
+k	인조모피	人造毛皮	faux fur
+k	인조인간	人造人間	android (robot with human…
+k	인종 차별	人種差別	racism
+k	인종차별	人種差別	주로 피부색에 따라 사람을 나누어서 법적, 정…
+k	인지상정	人之常情	human nature; what is nat…
+k	인체공학	人体工学	
+k	인체공학	人體工學	
+k	자상하다	刺傷하다	to have a heart, to be co…
+k	자포동물	刺胞動物	cnidarian
+k	출구조사	出口調査	
+k	출생년도	出生年度	
+k	출생연도	出生年度	
+k	출신성분	出身成分	songbun (family political…
+k	출애굽기	出埃及記	Exodus (second book of th…
+k	출입금지	出入禁止	
+k	출항정지	出港停止	
+k	험악하다	険悪하다	dangerous, perilous
+k	확고하다	確固하다	to be firm, to be staunch…
+k	확증편향	確証偏向	confirmation bias
+k	확증편향	確證偏向	confirmation bias
+k	휴대식량	携帯食糧	'전투식량'.
+k	휴대식량	携帶食糧	'전투식량'.
+k	휴대전화	携帯電話	cellular phone, mobile ph…
+k	휴대전화	携帶電話	cellular phone, mobile ph…
+j	人事委員会	人事委員会	地方自治法に基づき都道府県、政令指定都市、十五万人…
+j	人体解剖学	人体解剖学	human anatomy
+j	人参エキス	人参エキス	ginseng extract
+j	人口の多い	人口の多い	
+j	人口統計学	人口統計学	demography
+j	人名用漢字	人名用漢字	kanji approved for use in…
+j	人工呼吸器	人工呼吸器	ventilator; artificial re…
+j	人工現実感	人工現実感	
+j	人工甘味料	人工甘味料	人工的、化学的に合成された甘味料。合成甘味料。
+j	人工着色料	人工着色料	「合成着色料」を参照。
+j	人形浄瑠璃	人形浄瑠璃	日本の伝統芸能のひとつ。大夫とよばれる語り手に三味…
+j	人懐っこい	人懐っこい	
+j	人手に渡る	人手に渡る	自分の所有物が他人の手に渡り他人の所有物になる。
+j	人文科学者	人文科学者	人文科学を研究する科学者。
+j	人材開発部	人材開発部	
+j	人格障害者	人格障害者	
+j	人民共和国	人民共和国	a people's republic
+j	人気がある	人気がある	
+j	人気のある	人気のある	
+j	人物四行詩	人物四行詩	
+j	人狼ゲーム	人狼ゲーム	Werewolf; Mafia (social d…
+j	人生の意味	人生の意味	
+j	人生の意義	人生の意義	
+j	人生ゲーム	人生ゲーム	
+j	人目が煩い	人目が煩い	things will turn out unfa…
+j	人目に付く	人目に付く	to be within others' sigh…
+j	人目に余る	人目に余る	to be too prominent, pret…
+j	人目に晒す	人目に晒す	to publicly expose
+j	人目に立つ	人目に立つ	to be conspicuous; to att…
+j	人目を奪う	人目を奪う	to grab attention; to att…
+j	人目を引く	人目を引く	to grab attention; to att…
+j	人目を忍ぶ	人目を忍ぶ	to avoid being seen; to b…
+j	人目を憚る	人目を憚る	to be afraid of others, t…
+j	人目を盗む	人目を盗む	to do (something) in secr…
+j	人称代名詞	人称代名詞	personal pronoun
+j	人稱代名詞	人稱代名詞	
+j	人身の自由	人身の自由	personal freedom
+j	人道主義的	人道主義的	humanitarian
+j	人道主義者	人道主義者	humanitarian (person)
+j	人間の尺度	人間の尺度	
+j	人間チェス	人間チェス	着飾った人間を駒に見立ててチェスを指す催し物。人間…
+j	人間ドック	人間ドック	health screening
+j	人間ドッグ	人間ドッグ	
+j	人間行動学	人間行動学	人間の行動や心の働きを様様な学問を組み合わせて解明…
+j	人食い人種	人食い人種	cannibalistic tribe
+j	出しゃばる	出しゃばる	meddle, interfere, butt in
+j	出し惜しみ	出し惜しみ	
+j	出アフリカ	出アフリカ	アフリカで誕生した人類がアフリカ大陸の外に進出した…
+j	出エジプト	出エジプト	旧約聖書でイスラエル人が弾圧されていたエジプトから…
+j	出入国管理	出入国管理	国家が国境、空港、港湾において人の出国、入国、滞在…
+j	出力方程式	出力方程式	システムの入力と出力の関係を表すベクトル関数の関数…
+j	出来るだけ	出来るだけ	as much as one can; as mu…
+j	出来レース	出来レース	事前に示し合わされ勝者が決められたレース。また、そ…
+j	出来上がり	出来上がり	finish, being ready, comp…
+j	出来上がる	出来上がる	to complete, fulfill
+j	出版の自由	出版の自由	freedom of press
+j	出生証明書	出生証明書	birth certificate
+j	出産証明書	出産証明書	birth certificate
+j	出発信号機	出発信号機	停車場の出口に設置される信号機。
+j	出藍の誉れ	出藍の誉れ	student surpassing one's …
+j	出鼻を折る	出鼻を折る	to spoil someone's start;…
+j	刺しそうな	刺しそうな	
+j	区分けする	区分けする	
+j	区分地上権	区分地上権	（法律）工作物を所有するために、他人の土地の地下又…
+j	区分所有権	区分所有権	一棟の建物に、構造上区分された数個の部分で独立して…
+j	区分所有者	区分所有者	区分所有建物で区分所有権を有する者。
+j	区分求積法	区分求積法	Riemann sum
+j	区切り文字	区切り文字	delimiter; separator char…
+j	区別できる	区別できる	
+j	区点コード	区点コード	kuten code, the 4-digit c…
+j	哺乳類学者	哺乳類学者	哺乳類学を研究する科学者。
+j	固唾を呑む	固唾を呑む	holding one's breath in a…
+j	固定された	固定された	
+j	固定小数点	固定小数点	
+j	固定相場制	固定相場制	ある通貨と別の通貨の為替レートを固定する制度。
+j	固定資産税	固定資産税	property tax. One of Japa…
+j	固有モード	固有モード	
+j	固有名詞学	固有名詞学	
+j	固有多項式	固有多項式	固有方程式の左辺または右辺の多項式。λ を変数とし…
+j	固有形容詞	固有形容詞	固有名詞から派生した形容詞。Japanから派生した…
+j	固有方程式	固有方程式	1個のスカラーを変数とするスカラー行列をある正方行…
+j	固溶化処理	固溶化処理	「溶体化処理」に同じ。
+j	基本合意書	基本合意書	Ｍ＆Ａ取引等において、契約予定当事者同士が本契約締…
+j	基本的人権	基本的人権	人が生まれながらにして持っている権利。
+j	基礎となる	基礎となる	
+j	基礎を築く	基礎を築く	
+j	基礎化粧品	基礎化粧品	肌の清潔や健康を保持するための化粧品。
+j	基礎獣医学	基礎獣医学	臨床獣医学や応用獣医学の基礎となる動物の構造、構成…
+j	基礎自治体	基礎自治体	最小レベルの自治体。日本では市町村に相当する。
+j	建てられる	建てられる	
+j	建国記念日	建国記念日	
+j	建築設備士	建築設備士	建築士に対し建築設備の設計、工事監理の助言を行う職…
+j	建設仮勘定	建設仮勘定	（会計）有形固定資産の科目の一つ。建物、構築物など…
+j	揺るぎない	揺るぎない	immobile, solid, firm
+j	携帯基地局	携帯基地局	cell phone relay-station
+j	机上の空論	机上の空論	armchair theory
+j	殺伐とした	殺伐とした	
+j	決まり文句	決まり文句	いつも決まって言う文句。
+j	決めつける	決めつける	
+j	決勝進出者	決勝進出者	
+j	決河の勢い	決河の勢い	河の水が堤防を破って流出するかのような、猛烈な勢い。
+j	為せば成る	為せば成る	where there is a will
+j	為替レート	為替レート	
+j	発展途上の	発展途上の	
+j	発展途上国	発展途上国	developing country, emerg…
+j	発泡ワイン	発泡ワイン	
+j	発生させる	発生させる	
+j	発生生物学	発生生物学	developmental biology
+j	発端とする	発端とする	
+j	発語内行為	発語内行為	illocutionary act
+j	発電用水車	発電用水車	
+j	確率論的な	確率論的な	
+j	示威運動者	示威運動者	
+j	空き巣狙い	空き巣狙い	sneak thief
+j	空中生物学	空中生物学	aerobiology
+j	空中飛行器	空中飛行器	
+j	空中飛行機	空中飛行機	
+j	空気を読む	空気を読む	to sense or guess the moo…
+j	空気清浄機	空気清浄機	air purifier
+j	空腹を立つ	空腹を立つ	立腹した振りをする。
+j	空間計算量	空間計算量	space complexity
+j	空飛ぶ円盤	空飛ぶ円盤	
+j	紺セーラー	紺セーラー	navy blue serafuku
+j	紺屋の白袴	紺屋の白袴	他人に手を回しすぎて自分には手が回らないこと。
+j	肺尖カタル	肺尖カタル	肺尖部に起こる結核性の炎症。
+j	葺き替える	葺き替える	reroof
+j	遺伝子工学	遺伝子工学	
+j	遺伝子汚染	遺伝子汚染	genetic contamination
+j	遺伝子疾患	遺伝子疾患	遺伝病に同じ。
+j	遺伝子発現	遺伝子発現	
+j	遺伝的特性	遺伝的特性	
+j	遺体安置所	遺体安置所	morgue, mortuary
+j	遺産管理人	遺産管理人	
+k	강제수용소	强制収容所	concentration camp, inter…
+k	강제수용소	强制收容所	concentration camp, inter…
+k	고유형용사	固有形容詞	
+k	공기부양정	空気浮揚艇	hovercraft
+k	공기부양정	空氣浮揚艇	hovercraft
+k	공기청정기	空気清浄器	공기를 정화하는 기계.
+k	공기청정기	空氣淸淨器	공기를 정화하는 기계.
+k	기저세포암	基底細胞癌	basal cell carcinoma
+k	대사	臺詞/臺辭	ambassador
+k	발광민대구	発光민大口	luminous hake (Steindachn…
+k	발전도상국	発展途上国	developing country
+k	유적	遺蹟/遺跡	a place of historical or …
+k	유전자공학	遺伝子工学	
+k	유전자공학	遺傳子工學	
+k	인간 말종	人間 末種	scum of the earth, worst …
+k	인공두뇌학	人工頭脳学	
+k	인공두뇌학	人工頭腦學	
+k	인공호흡기	人工呼吸器	ventilator; artificial re…
+k	인구통계학	人口統計学	
+k	인구통계학	人口統計學	
+k	인명 살상용	人命殺傷用	
+k	인명구조원	人命救助員	
+k	인민공화국	人民共和国	
+k	인민공화국	人民共和國	
+k	인의 장막	人의 帳幕	a human wall; a human bar…
+k	인의 장벽	人의 障壁	synonym of 인의 장막 (in-ui j…
+k	인칭대명사	人称代名詞	personal pronoun
+k	인칭대명사	人稱代名詞	personal pronoun
+k	지혜	智慧/知慧	wisdom
+k	출생 증명서	出生証明書	
+k	출생 증명서	出生證明書	
+k	휴대용 풍금	携帯用風琴	barrel organ
+k	휴대용 풍금	携帶用風琴	barrel organ
+j	人口置換水準	人口置換水準	男女の比率や生殖が可能な年齢になる前の死亡を考慮し…
+j	人工妊娠中絶	人工妊娠中絶	妊娠している女性の胎児が母体の外では単独で生命が維…
+j	人民民主独裁	人民民主独裁	people's democratic dicta…
+j	人目に現わる	人目に現わる	to be noticeable; to attr…
+j	人目を避ける	人目を避ける	to avoid being seen; to b…
+j	人種のるつぼ	人種のるつぼ	
+j	人見知りする	人見知りする	
+j	人身保護令状	人身保護令状	
+j	人込みの場所	人込みの場所	
+j	人道主義的な	人道主義的な	
+j	人間中心主義	人間中心主義	
+j	人類共通の敵	人類共通の敵	hostis humani generis
+j	出たとこ勝負	出たとこ勝負	doing something without b…
+j	出る所へ出る	出る所へ出る	to appeal to the court, p…
+j	出エジプト記	出エジプト記	Exodus (book of Torah and…
+j	出頭を命ずる	出頭を命ずる	
+j	出鼻をくじく	出鼻をくじく	to spoil someone's start;…
+j	刺激性異嗅症	刺激性異嗅症	
+j	区分所有建物	区分所有建物	一棟の建物のうち構造上区分された部分が独立して住居…
+j	固定ハンドル	固定ハンドル	「固定ハンドルネーム」の異称。
+j	固有ベクトル	固有ベクトル	与えられた正方行列 A とゼロベクトルではないある…
+j	基本ベクトル	基本ベクトル	一つの成分が1で残りの成分が0である列ベクトル。i…
+j	基本相互作用	基本相互作用	fundamental interaction
+j	基礎付け主義	基礎付け主義	
+j	尺で鯛を釣る	尺で鯛を釣る	obtaining something large…
+j	尺側手根伸筋	尺側手根伸筋	an extensor carpi ulnaris
+j	尺側手根屈筋	尺側手根屈筋	a flexor carpi ulnaris
+j	建国記念の日	建国記念の日	the National Foundation D…
+j	建設に適した	建設に適した	
+j	携帯情報端末	携帯情報端末	
+j	決まりが悪い	決まりが悪い	面目が立たない。普通の人が守るべき常識から逸脱して…
+j	決着を付ける	決着を付ける	
+j	為にする議論	為にする議論	すでに目的・結論を先行して実質上決めていたが、議論…
+j	痺れを切らす	痺れを切らす	to get tired of waiting
+j	発生生物学者	発生生物学者	発生生物学を研究する科学者。
+j	発語媒介行為	発語媒介行為	perlocutionary act
+j	発車メロディ	発車メロディ	jingle played when a trai…
+j	確信している	確信している	
+j	確率密度関数	確率密度関数	連続型確率変数Xがある確率分布に従うとき、以下を満…
+j	示し合わせる	示し合わせる	conspire, arrange to do s…
+j	空中ブランコ	空中ブランコ	trapeze
+j	空想科学小説	空想科学小説	
+j	空気よめない	空気よめない	unable to pick up on soci…
+j	空港ラウンジ	空港ラウンジ	
+j	綺羅星の如し	綺羅星の如し	衣装や装束が立派である様。
+j	遺失物取扱所	遺失物取扱所	
+k	공기조화기술	空気調和技術	
+k	공기조화기술	空氣調和技術	
+k	공상과학 소설	空想科学小説	
+k	공상과학 소설	空想科學小說	
+k	발음 구별 기호	発音区別記号	
+k	발음 구별 부호	発音区別符号	
+k	발포성 포도주	発泡性葡萄酒	
+k	인간중심주의	人間中心主義	
+k	인적자원 유출	人的資源流出	
+k	인종차별주의	人種差別主義	racism
+j	人口に膾炙する	人口に膾炙する	universally appreciated (…
+j	人口ピラミッド	人口ピラミッド	a population pyramid
+j	人獣共通感染症	人獣共通感染症	zoonosis, more specifical…
+j	人生意気に感ず	人生意気に感ず	人は、欲得ではなく、他人の何かをしようとする強い意…
+j	人畜共通感染症	人畜共通感染症	人間と動物に共通して感染する感染症。人獣共通感染症。
+j	人種差別主義者	人種差別主義者	racist person or people
+j	人道に対する罪	人道に対する罪	crime against humanity
+j	人間ピラミッド	人間ピラミッド	
+j	人間動物関係学	人間動物関係学	
+j	出会い系サイト	出会い系サイト	（主に交際相手などの）出会いを求めている者同士の仲…
+j	出来るだけ早く	出来るだけ早く	
+j	出来る限り早期	出来る限り早期	
+j	携帯型ゲーム機	携帯型ゲーム機	持ち運んで色々な場所で遊ぶことができるゲーム機。
+j	殺人スズメバチ	殺人スズメバチ	Japanese giant hornet (Ve…
+j	発光ダイオード	発光ダイオード	light-emitting diode, LED
+j	発泡スチロール	発泡スチロール	styrofoam
+j	発車メロディー	発車メロディー	
+j	空樽は音が高い	空樽は音が高い	知識や中身のない人ほど得意気にしゃべる。
+j	空気を読まない	空気を読まない	
+j	空港ターミナル	空港ターミナル	
+j	肺表面活性物質	肺表面活性物質	
+j	診療放射線技師	診療放射線技師	病院、診療所などの医療機関で放射線を照射して撮影、…
+j	豺狼道に当たる	豺狼道に当たる	politics abound in usurpe…
+j	遺伝子組み換え	遺伝子組み換え	
+k	공기방석자동차	空気方席自動車	hovercraft
+k	공기방석자동차	空氣方席自動車	hovercraft
+k	기독교 민주주의	基督教民主主義	
+k	인도주의적 회랑	人道主義的回廊	
+k	인종차별주의자	人種差別主義者	racist
+j	人の噂も七十五日	人の噂も七十五日	他人が自分のことを噂していたとしても、75日も経て…
+j	人を呪わば穴二つ	人を呪わば穴二つ	chickens come home to roo…
+j	人並みにおごれや	人並みにおごれや	無理数√3の小数第7位 1.7320508... …
+j	人材マネジメント	人材マネジメント	
+j	人間万事塞翁が馬	人間万事塞翁が馬	
+j	俺はお前が好きだ	俺はお前が好きだ	
+j	出る杭は打たれる	出る杭は打たれる	他人と違って目立つ人は他人と同じように矯正されると…
+j	出る釘は打たれる	出る釘は打たれる	the nail that sticks out …
+j	出入国在留管理庁	出入国在留管理庁	出入国、外国人の在留、難民認定などを取り扱う法務省…
+j	空間偏微分演算子	空間偏微分演算子	演算子∇=∂/(∂x)\∂/(∂y)\∂/(∂z)…
+j	人の褌で相撲を取る	人の褌で相撲を取る	他人の物を利用して、身を削ったり努力すること無しに…
+j	人免疫不全ウイルス	人免疫不全ウイルス	human immunodeficiency vi…
+j	人間到る処青山あり	人間到る処青山あり	世の中何処ででも死ねるということ。また、そうである…
+j	出るくいは打たれる	出るくいは打たれる	
+j	出物腫れ物所嫌わず	出物腫れ物所嫌わず	屁も腫れ物も時や場所に関係なく出るということ。
+j	固定ハンドルネーム	固定ハンドルネーム	特に電子掲示板上で、固定されたハンドルネーム。また…
+j	揺り籠から墓場まで	揺り籠から墓場まで	
+j	棺を蓋いて事定まる	棺を蓋いて事定まる	人の評価は死ぬまで定まらないことのたとえ。
+j	人生はそういうものだ	人生はそういうものだ	
+j	溺れる者は藁をも掴む	溺れる者は藁をも掴む	
+j	溺れる者は藁をも摑む	溺れる者は藁をも摑む	（「溺れそうになっている人は、麦藁のように頼りない…
+j	人生はそういうものです	人生はそういうものです	
+j	俺はお前のことが好きだ	俺はお前のことが好きだ	
+j	空間コンピューティング	空間コンピューティング	
+j	人事を尽くして天命を待つ	人事を尽くして天命を待つ	to do one's level best an…
+j	人生字を識るは憂患の始め	人生字を識るは憂患の始め	misery of life starts at …
+j	人を射んとせばまず馬を射よ	人を射んとせばまず馬を射よ	begin with the lesser thi…
+j	空港へどう行ったらいいですか	空港へどう行ったらいいですか	
+j	人はパンのみにて生くる者に非ず	人はパンのみにて生くる者に非ず	man shall not live by bre…
+j	人生はおもしろおかしいことばかりではない	人生はおもしろおかしいことばかりではない	

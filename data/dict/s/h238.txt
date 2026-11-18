@@ -1,0 +1,320 @@
+k	예	예	yes (affirms the truth of…
+k	옛	옛	old; bygone
+k	예각	예각	직각보다 작은 각.
+k	예감	예감	premonition; hunch
+k	예견	예견	
+k	예결	예결	
+k	예고	예고	
+k	예과	예과	
+k	예구	예구	An example of a text
+k	예궐	예궐	대궐 안으로 들어감.
+k	예규	예규	
+k	예금	예금	deposit; savings
+k	예기	예기	The Book of Rites or Clas…
+k	예날	예날	'옛날'의 북한말.
+k	예납	예납	
+k	예년	예년	the average year, usual y…
+k	예능	예능	entertainment, performing…
+k	예다	예다	to go
+k	예단	예단	
+k	예담	예담	
+k	예당	예당	
+k	예대	예대	
+k	예덕	예덕	
+k	예도	예도	
+k	예람	예람	
+k	예령	예령	
+k	예론	예론	
+k	예리	예리	
+k	예망	예망	
+k	예매	예매	
+k	예맥	예맥	
+k	예멘	예멘	Yemen (a country in Asia)
+k	예명	예명	stage name
+k	예모	예모	예복을 입을 때 격식에 맞추어 쓰는 모자.
+k	예문	예문	example sentence, sample …
+k	예물	예물	gift, present
+k	예민	예민	
+k	예방	예방	prevention
+k	예배	예배	divine worship, religious…
+k	예백	예백	
+k	예법	예법	사람으로서 작고 큰 사회 집단에서 지켜야 할 …
+k	예보	예보	forecast
+k	예복	예복	formalwear
+k	예봉	예봉	
+k	예부	예부	
+k	예불	예불	
+k	예비	예비	reserves
+k	예쁜	예쁜	'예쁘다'의 관형사형.
+k	예쁨	예쁨	'예쁘다'의 명사형.
+k	예사	예사	보통 있는 일.
+k	예산	예산	budget; budgeting
+k	예상	예상	expectation, anticipation
+k	예서	예서	
+k	예선	예선	
+k	예성	예성	
+k	예속	예속	사람이나 단체에 강제로 소속되어 있다
+k	예수	예수	Jesus
+k	예순	예순	sixty
+k	예술	예술	art; fine art
+k	예습	예습	
+k	예시	예시	example
+k	예식	예식	ceremony
+k	예신	예신	
+k	예심	예심	
+k	예약	예약	reservation, booking, app…
+k	예양	예양	
+k	예언	예언	prophecy; prediction
+k	예열	예열	preheating (cooking, indu…
+k	예외	예외	exception
+k	예우	예우	
+k	예월	예월	
+k	예의	예의	manners; etiquette; polit…
+k	예인	예인	끌어서 당김.
+k	예일	예일	Yale
+k	예입	예입	
+k	예자	예자	
+k	예장	예장	
+k	예전	예전	the old days, the old tim…
+k	예절	예절	courtesy; etiquette; mann…
+k	예정	예정	prediction, expectation
+k	예제	예제	example question
+k	예조	예조	
+k	예종	예종	
+k	예좌	예좌	Leo
+k	예주	예주	
+k	예증	예증	
+k	예지	예지	precognition, foreknowled…
+k	예진	예진	
+k	예찬	예찬	
+k	예참	예참	
+k	예측	예측	prediction
+k	예치	예치	
+k	예토	예토	
+k	예티	예티	
+k	예판	예판	‘예조 판서’를 줄여 이르는 말.
+k	예팔	예팔	
+k	예편	예편	
+k	예포	예포	
+k	예하	예하	(불교)
+k	예학	예학	
+k	예항	예항	
+k	예행	예행	rehearsal
+k	예후	예후	prognosis
+k	옌볜	옌볜	중국 길림성 지방의 한국 사람이 모여 사는 자…
+k	옌지	옌지	Yanji (a county-level cit…
+k	옐친	옐친	
+k	옘병	옘병	
+k	옛글	옛글	synonym of 고전(古典) (gojeon…
+k	옛날	옛날	the past
+k	옛돈	옛돈	
+k	옛말	옛말	archaism
+k	옛벗	옛벗	
+k	옛적	옛적	old days; ancient times
+k	예고편	예고편	
+k	예광탄	예광탄	
+k	예금액	예금액	
+k	예금주	예금주	예금을 맡기는 자.
+k	예니레	예니레	six or seven days, about …
+k	예닐곱	예닐곱	six or seven
+k	예대율	예대율	
+k	예레반	예레반	Yerevan (the capital city…
+k	예리성	예리성	
+k	예리코	예리코	
+k	예리한	예리한	
+k	예매권	예매권	
+k	예모관	예모관	
+k	예문관	예문관	
+k	예방법	예방법	
+k	예방책	예방책	
+k	예배당	예배당	chapel; church
+k	예불상	예불상	
+k	예불화	예불화	
+k	예비군	예비군	armed reserve, reservists
+k	예비금	예비금	
+k	예비대	예비대	
+k	예비병	예비병	reservist, reserve soldier
+k	예비비	예비비	
+k	예비역	예비역	
+k	예비의	예비의	
+k	예쁘다	예쁘다	to be pretty, lovely, bea…
+k	예산서	예산서	
+k	예산안	예산안	
+k	예상사	예상사	보통 있는 일.
+k	예상외	예상외	
+k	예선로	예선로	towpath
+k	예속화	예속화	
+k	예수금	예수금	
+k	예수재	예수재	
+k	예수회	예수회	Society of Jesus
+k	예순네	예순네	
+k	예순둘	예순둘	
+k	예순세	예순세	
+k	예순셋	예순셋	
+k	예순째	예순째	sixtieth
+k	예순한	예순한	
+k	예술가	예술가	artist
+k	예술계	예술계	
+k	예술관	예술관	
+k	예술미	예술미	
+k	예술사	예술사	
+k	예술원	예술원	
+k	예술인	예술인	예술 분야에 종사하는 사람.
+k	예술적	예술적	매우 아름답고 우아하게 보이는.
+k	예술제	예술제	
+k	예술파	예술파	
+k	예술품	예술품	work of art, artwork, pie…
+k	예술학	예술학	
+k	예시위	예시위	
+k	예식장	예식장	
+k	예약금	예약금	
+k	예약자	예약자	
+k	예언자	예언자	prophet
+k	예외법	예외법	
+k	예외적	예외적	예외로 하는.
+k	예인선	예인선	tugboat
+k	예입금	예입금	
+k	예작부	예작부	
+k	예장함	예장함	
+k	예전색	예전색	
+k	예정설	예정설	
+k	예정일	예정일	
+k	예정지	예정지	
+k	예증권	예증권	
+k	예찬자	예찬자	
+k	예초기	예초기	
+k	예취기	예취기	lawnmower
+k	예치금	예치금	
+k	예컨대	예컨대	for example, for instance
+k	옛날에	옛날에	
+k	옛이응	옛이응	the obsolete Korean conso…
+k	옛한글	옛한글	old hangul (obsolete pre-…
+k	예감하다	예감하다	
+k	예견되다	예견되다	
+k	예견하다	예견하다	앞으로 일어날 일을 미리 알다.
+k	예고되다	예고되다	
+k	예고하다	예고하다	
+k	예금되다	예금되다	
+k	예금통장	예금통장	
+k	예금하다	예금하다	
+k	예금협정	예금협정	
+k	예납되다	예납되다	
+k	예납하다	예납하다	
+k	예능교육	예능교육	
+k	예니체리	예니체리	
+k	예단하다	예단하다	
+k	예라스흐	예라스흐	
+k	예레미야	예레미야	
+k	예루살렘	예루살렘	Jerusalem (the claimed (a…
+k	예리하다	예리하다	관찰이나 판단이 정확하고 날카롭다.
+k	예매되다	예매되다	
+k	예매하다	예매하다	
+k	예모답다	예모답다	
+k	예민하다	예민하다	무엇인가를 느끼는 능력이나 분석하고 판단하는 …
+k	예방되다	예방되다	
+k	예방의학	예방의학	
+k	예방접종	예방접종	vaccination
+k	예방주사	예방주사	
+k	예방하다	예방하다	
+k	예배하다	예배하다	(종교) 신과 같은 절대자를 받드는 의식을 치…
+k	예보되다	예보되다	
+k	예보하다	예보하다	앞일을 미리 알리다
+k	예불하다	예불하다	
+k	예비교육	예비교육	
+k	예비선거	예비선거	
+k	예비시험	예비시험	
+k	예비신문	예비신문	voir dire
+k	예비지식	예비지식	
+k	예비하다	예비하다	
+k	예비회담	예비회담	
+k	예사롭다	예사롭다	
+k	예사소리	예사소리	a basic consonant jamo; a…
+k	예산심의	예산심의	
+k	예산집행	예산집행	
+k	예산초과	예산초과	
+k	예산편성	예산편성	
+k	예상되다	예상되다	to be predicted or antici…
+k	예상하다	예상하다	to expect, to anticipate,…
+k	예속되다	예속되다	
+k	예속하다	예속하다	
+k	예순다섯	예순다섯	
+k	예순아홉	예순아홉	
+k	예순여덟	예순여덟	
+k	예순여섯	예순여섯	
+k	예순일곱	예순일곱	
+k	예술대학	예술대학	
+k	예술사진	예술사진	
+k	예술체조	예술체조	
+k	예술헤엄	예술헤엄	'싱크로나이즈드스위밍'의 북한말.
+k	예술헤염	예술헤염	(수영) '수중발레'의 북한말.
+k	예스럽다	예스럽다	archaic
+k	예습하다	예습하다	
+k	예시되다	예시되다	
+k	예시하다	예시하다	
+k	예약되다	예약되다	무엇을 얻기 위해 미리 약속되다.
+k	예약전보	예약전보	
+k	예약전화	예약전화	
+k	예약출판	예약출판	
+k	예약판매	예약판매	
+k	예약하다	예약하다	to make a reservation, to…
+k	예언되다	예언되다	
+k	예언하다	예언하다	to predict, to foretell, …
+k	예외주의	예외주의	
+k	예의범절	예의범절	
+k	예의염치	예의염치	
+k	예인하다	예인하다	
+k	예입하다	예입하다	
+k	예정되다	예정되다	
+k	예정하다	예정하다	
+k	예조판서	예조판서	
+k	예증하다	예증하다	
+k	예지하다	예지하다	
+k	예찬하다	예찬하다	
+k	예측되다	예측되다	
+k	예측하다	예측하다	to predict
+k	예치하다	예치하다	
+k	예탁하다	예탁하다	더럽고 흐리다.
+k	예테보리	예테보리	
+k	예편되다	예편되다	
+k	예편하다	예편하다	
+k	예행연습	예행연습	
+k	옐로카드	옐로카드	yellow card
+k	옐리스타	옐리스타	
+k	옛 한글	옛 한글	옛날에 쓰였지만 지금은 쓰이지 않는 한글 자모…
+k	옛이야기	옛이야기	synonym of 옛날이야기 (yennall…
+k	예각삼각형	예각삼각형	세 내각이 90°미만인 삼각형.
+k	예를 들면	예를 들면	
+k	예비 부품	예비 부품	
+k	예쁘장하다	예쁘장하다	제법 예쁘다.
+k	예속시키다	예속시키다	
+k	예속화되다	예속화되다	
+k	예속화하다	예속화하다	남의 지배나 지휘 아래에 묶이게 되다, 혹은 …
+k	예외적으로	예외적으로	
+k	예전의 성	예전의 성	
+k	예절바르다	예절바르다	to behave well, to have g…
+k	옐로나이프	옐로나이프	[~시(市)] Yellowknife (the …
+k	옛날 옛적	옛날 옛적	
+k	옛날이야기	옛날이야기	an old story, old tale, f…
+k	예니세이 강	예니세이 강	
+k	예블레보리주	예블레보리주	
+k	예쁘디예쁘다	예쁘디예쁘다	매우 예쁘다.
+k	예수회 사람	예수회 사람	
+k	예술지상주의	예술지상주의	
+k	예일 대학교	예일 대학교	
+k	예일 표기법	예일 표기법	
+k	옐로 페이지	옐로 페이지	
+k	옐브루스 산	옐브루스 산	
+k	옛날 옛적에	옛날 옛적에	
+k	예그헤그나조르	예그헤그나조르	
+k	예까쩨린부르그	예까쩨린부르그	러시아에 위치한 '예카테린부르크'을 일컫는 북…
+k	예나 지금이나	예나 지금이나	whether in old times or n…
+k	예루살렘 신전	예루살렘 신전	이스라엘 백성이 여호와를 예배하기 위하여 세운…
+k	예르바 부에나	예르바 부에나	
+k	예수 그리스도	예수 그리스도	
+k	예스트리클란드	예스트리클란드	
+k	예카테린부르크	예카테린부르크	Yekaterinburg (a city, th…
+k	옐로 저널리즘	옐로 저널리즘	
+k	예측할 수 없다	예측할 수 없다	
+k	예절바르게 행동하다	예절바르게 행동하다	
+k	예수그리스도후기성도교회	예수그리스도후기성도교회	
+k	옛적부터 항상 계신 이	옛적부터 항상 계신 이	

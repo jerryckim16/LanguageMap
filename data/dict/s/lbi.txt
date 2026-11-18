@@ -1,0 +1,1796 @@
+e	bi	bi	1 meaning
+e	bi-	bi	1 meaning
+j	び	bi	美: beautiful
+j	ビー	bi	The name of the Latin scr…
+j	弥	bi	extending
+j	微	bi	tiny
+j	美	bi	beautiful
+k	비	bi	rain
+e	bia	bia	1 meaning
+e	bib	bib	1 meaning
+e	bid	bid	2 meanings
+e	big	big	2 meanings
+e	bin	bin	3 meanings
+e	bit	bit	6 meanings
+j	びん	bin	
+j	ビア	bia	ビール。
+j	ビン	bin	瓶: bottle
+j	ビーン	bin	豆。
+j	保栄茂	bin	a place name
+j	壜	bin	bottle
+j	微意	bii	わずかな志。寸志。
+j	敏	bin	quick, sharp
+j	瓶	bin	bottle, jug, or jar made …
+j	閩	bin	Min, one of the Ten Kingd…
+j	鬢	bin	sidelocks
+k	비아	bia	
+k	빅	bik	
+k	빈	bin	Vienna (the capital city …
+k	빌	bil	별의 경상도 방언
+k	빎	bim	prayer
+k	빔	bim	emptiness, void
+k	빗	bit	comb (toothed or serrated)
+k	빚	bit	debt
+k	빛	bit	light, gleam, glow
+e	bias	bias	2 meanings
+e	bide	bide	1 meaning
+e	bike	bike	3 meanings
+e	bile	bile	1 meaning
+e	bill	bill	4 meanings
+e	bind	bind	3 meanings
+e	bird	bird	1 meaning
+e	bite	bite	9 meanings
+e	biwa	biwa	1 meaning
+e	biñan	bian	1 meaning
+j	びおん	bion	微温
+j	びき	biki	匹 (ひき) の音便変化。
+j	びく	biku	earlobe
+j	びこ	biko	美子: a female given name
+j	びこう	biko	
+j	びた	bita	鐚銭のこと。
+j	びび	bibi	微微: slight; insignificant…
+j	びら	bira	宣伝や広告のため人目がつく所に置いたり張り出したり…
+j	びり	biri	one who comes in last
+j	びる	biru	to act like (something); …
+j	びろ	biro	drool, saliva
+j	ビアン	bian	
+j	ビク	biku	
+j	ビクッ	biku	
+j	ビザ	biza	synonym of 査証 (sashō, “vi…
+j	ビジュ	biju	ビジュアル。
+j	ビジー	biji	busy (phone line, compute…
+j	ビス	bisu	screw (metal fastener)
+j	ビズ	bizu	「ビジネス」の略。
+j	ビデ	bide	a bidet that only cleans …
+j	ビバ	biba	viva
+j	ビフォー	bifo	（主に複合語で）何かをする前。
+j	ビブ	bibu	
+j	ビヤ	biya	ビール。
+j	ビラ	bira	flyer; handout; leaflet
+j	ビリ	biri	びりっけつの略。最下位。しんがり。
+j	ビリー	biri	Billy
+j	ビル	biru	bill of sale, invoice
+j	ビロウ	biro	ヤシ目ヤシ科ビロウ属に属する常緑高木の一種。学名:…
+j	ビーカー	bika	beaker (flat-bottomed ves…
+j	ビーズ	bizu	beads, a bead (a small ro…
+j	ビート	bito	ばた足。
+j	ビーバー	biba	beaver (aquatic rodent)
+j	ビーフ	bifu	beef
+j	ビーム	bimu	beam (ray)
+j	ビール	biru	beer (alcoholic drink mad…
+j	備忘	bibo	reminder
+j	備砲	biho	軍艦などに備えられた大砲。
+j	備考	biko	a note (for reference), NB
+j	尾灯	bito	taillight; taillamp
+j	尾筒	bito	鳥類の尾の付け根を覆う羽毛。
+j	尾籠	biro	careless, thoughtless, ru…
+j	尾行	biko	tailing, shadowing
+j	尾部	bibu	
+j	尾鉱	biko	tailings
+j	尾錠	bijo	buckle
+j	弥縫	biho	縫って繕うこと。
+j	微光	biko	微かな光。
+j	微利	biri	僅かな利益。
+j	微功	biko	僅かな功績。多くは、自己の功に対する謙譲語。
+j	微動	bido	minuscule movement
+j	微哦	biga	微吟。
+j	微微	bibi	slight; insignificant; sm…
+j	微恙	biyo	a minor ailment; a minor …
+j	微温	bion	僅かに温かいこと。
+j	微糖	bito	糖分が僅かに含まれること。
+j	微行	biko	貴人がその身分を隠し、密かに出歩くこと。おしのび、…
+j	微運	biun	having bad luck
+j	微雲	biun	thin clouds
+j	微音	bion	かすかな音。
+j	微香	biko	微かな香り。
+j	微騰	bito	物価や相場などが僅かに上がること。
+j	枇杷	biwa	loquat, Eriobotrya japoni…
+j	比丘	biku	bhikkhu
+j	獼猴	biko	猿。
+j	琵琶	biwa	biwa (plucked, fretted pe…
+j	琵音	bion	arpeggio
+j	眉刀	bito	なぎなた。
+j	眉蛾	biga	蛾眉。
+j	美利	biri	巨利。
+j	美化	bika	beautification
+j	美味	bimi	delicious, tasty, scrumpt…
+j	美女	bijo	a beautiful girl or woman…
+j	美妓	bigi	美しい芸妓、芸者。
+j	美姫	biki	a beautiful woman
+j	美容	biyo	beauty (especially of a p…
+j	美技	bigi	見事な技術や演技。
+j	美校	biko	美術学校。
+j	美相	biso	美しい相貌や姿。
+j	美童	bido	容姿の美しい少年。
+j	美肴	biko	美味しい酒肴。
+j	美艶	bien	美しく艶かしいさま。艶美。
+j	美行	biko	良い行い。
+j	美装	biso	美しく装飾すること。
+j	美貌	bibo	beautiful countenance
+j	美道	bido	男色の道。若衆道。
+j	美醞	biun	美酒。
+j	美音	bion	美しい音声。
+j	美風	bifu	良い習わし。美しい風習。
+j	美高	biko	美術高等学校の略。
+j	蒲葵	biro	fountain palm or Chinese …
+j	魚籠	biku	a fish basket; a creel
+j	麋梨	biri	老人。麋黎。
+j	麥酒	biru	
+j	鼻口	biko	鼻と口。
+j	鼻孔	biko	a nostril
+j	鼻漏	biro	runny nose, rhinorrhea
+j	鼻炎	bien	nasal inflammation; rhini…
+j	鼻腔	biko	nasal cavity - a large ai…
+j	鼻部	bibu	部首「⿐」で分類した漢字の一群。
+j	鼻音	bion	a nasal sound
+j	鼻頭	bito	鼻の先。はなさき。はながしら。
+k	비가	biga	
+k	비게	bige	
+k	비고	bigo	note
+k	비구	bigu	
+k	비누	binu	soap
+k	비니	bini	beanie (cap), tuque, knit…
+k	비다	bida	to be empty (in general)
+k	비데	bide	bidet
+k	비도	bido	injustice
+k	비리	biri	
+k	비보	bibo	
+k	비비	bibi	여러 번 꼬이거나 뒤틀린 모양.
+k	비소	biso	arsenic
+k	비수	bisu	dagger
+k	비암	biam	snake
+k	비애	biae	grief; sorrow; sadness
+k	비어	bieo	obscenity; profanity; swe…
+k	비엔	bien	
+k	비옥	biok	fertility
+k	비옷	biot	raincoat
+k	비와	biwa	
+k	비위	biwi	법에 어긋남. 또는 그런 일.
+k	비유	biyu	metaphor; figure of speech
+k	비의	biui	pluvial, pluvious
+k	비익	biik	
+k	비인	biin	지체가 낮고 천한 사람.
+k	비자	bija	visa (travel permit)
+k	비제	bije	
+k	비지	biji	tofu dregs, or a Korean d…
+k	비쿠	biku	
+k	비파	bipa	pipa
+k	비하	biha	
+k	비호	biho	protection, shelter, refu…
+k	빈우	binu	
+k	빙	bing	round; while circling a r…
+e	bialy	bialy	1 meaning
+e	bible	bible	2 meanings
+e	bicol	bicol	1 meaning
+e	biden	biden	1 meaning
+e	bidet	bidet	1 meaning
+e	bihar	bihar	1 meaning
+e	biker	biker	1 meaning
+e	bikol	bikol	1 meaning
+e	bilby	bilby	1 meaning
+e	bindi	bindi	1 meaning
+e	bingo	bingo	2 meanings
+e	birch	birch	1 meaning
+e	birth	birth	3 meanings
+e	bison	bison	2 meanings
+e	bitch	bitch	3 meanings
+e	bixie	bixie	1 meaning
+j	びし	bishi	釣り糸につけるおもり。
+j	びじん	bijin	
+j	びせい	bisei	美晴: clement, clear said o…
+j	びっこ	bikko	cripple; someone who is u…
+j	びりょ	biryo	尾閭: a hole that is said t…
+j	びれい	birei	美麗: (extreme) beauty
+j	びろーん	biron	塗仏の別名。
+j	びんた	binta	a slap on the face
+j	びんぼう	binbo	
+j	ビアリ	biari	
+j	ビオラ	biora	viola
+j	ビガン	bigan	Vigan (a city, the provin…
+j	ビサウ	bisau	Bissau (the capital city …
+j	ビジョン	bijon	vision (ideal or goal)
+j	ビック	bikku	
+j	ビッグ	biggu	big (large or extensive)
+j	ビット	bitto	bit
+j	ビデオ	bideo	video
+j	ビフォア	bifoa	ビフォーの表記揺れ。
+j	ビフォアー	bifoa	ビフォーの表記揺れ。
+j	ビライ	birai	
+j	ビンゴ	bingo	bingo (game)
+j	ビンタ	binta	
+j	ビンディー	bindi	bindi (the "holy dot")
+j	ビンドゥ	bindo	デーヴァナーガリーにおいて鼻母音又は鼻子音を表す記…
+j	ビンロウ	binro	ヤシ科ビンロウ属の常緑高木。芽を食用とする。ヤシ科…
+j	ビーガン	bigan	魚介類、鶏卵、牛乳及びそれらの加工品などを含め、動…
+j	ビーサン	bisan	syllabic abbreviation of …
+j	ビーチ	bichi	beach
+j	ビーツ	bitsu	beet (vegetable)
+j	ビーフン	bifun	うるち米を原料とする麺の一種。
+j	便乗	binjo	hitchhiking
+j	便乘	binjo	
+j	便風	binpu	都合の良い風。順風。
+j	備供	bikyu	準備し供給すること。
+j	備前	bizen	Bizen (a city in Okayama …
+j	備品	bihin	equipment
+j	備州	bishu	吉備国又はそれを分割した備前国と備中国と備後国をあ…
+j	備後	bingo	Bingo Province, an old pr…
+j	備急	bikyu	急用に備えること。
+j	備礼	birei	礼を備えること。
+j	備聆	birei	詳しく聞くこと。備聞。
+j	備聞	bibun	詳しく聞くこと。備聆。
+j	劘厲	birei	摩って磨くこと。
+j	媚嬌	bikyo	艶かしいさま。
+j	媚態	bitai	男性に媚びるように艶かしい女性の態度。
+j	媚眼	bigan	媚びた目つき。
+j	媚笑	bisho	男の気を引くような笑い。
+j	媚麗	birei	媚びて美しいこと。また、そのようなさま。
+j	尾大	bidai	尾の方が首よりも大きいこと。
+j	尾州	bishu	尾張国^(（おわりのくに）)の別称。張州。
+j	尾端	bitan	尻尾の先。
+j	尾輪	birin	tailwheel
+j	尾閭	biryo	a hole that is said to be…
+j	弥久	bikyu	長期にわたること。長引くこと。
+j	弥天	biten	空一面。
+j	弥漫	biman	ある風潮、気分などが一面に広がること。
+j	弭散	bisan	解散すること。
+j	彌久	bikyu	「弥久」の別表記。
+j	微分	bibun	differentiation
+j	微声	bisei	微かな声。
+j	微妙	bimyo	subtle
+j	微官	bikan	地位の低い官吏。
+j	微小	bisho	tiny; petty; very small
+j	微少	bisho	非常に少ないこと。
+j	微志	bishi	寸志。微意。
+j	微才	bisai	僅かな才能。
+j	微旨	bishi	深奥で微妙な趣旨。
+j	微明	bimei	僅かに明るいこと。うすあかり。
+j	微減	bigen	僅かに減少すること。
+j	微玷	biten	微瑕。
+j	微睡	bisui	light sleep; a doze; a sn…
+j	微笑	bisho	smile
+j	微粉	bifun	細かい粉。
+j	微細	bisai	minute; fine; tiny
+j	微罪	bizai	a misdemeanor
+j	微言	bigen	奥深く微妙な言葉。
+j	微賤	bisen	身分、地位が低く賤しいこと。また、そのようなさま。
+j	微酔	bisui	少し酒に酔うこと。ほろ酔い。微醺。
+j	微醺	bikun	わずかに酒に酔うこと。
+j	微量	biryo	trace in amount
+j	檳榔	binro	An areca or betel palm Ar…
+j	瀰天	biten	空に満ち渡っていること。
+j	瀰散	bisan	拡散すること。
+j	瀰漫	biman	ある風潮、気分などが一面に広がること。
+j	眉斑	bihan	supercilium
+j	眉眼	bigan	眉目。
+j	眉黛	bitai	黛。
+j	美乳	binyu	beautiful breasts
+j	美人	bijin	a beautiful woman, a beau…
+j	美名	bimei	美しい名前や名称。
+j	美君	bikun	容姿がすぐれた女性。
+j	美唄	bibai	Bibai (a city in Sorachi,…
+j	美境	bikyo	佳境。
+j	美声	bisei	beautiful voice
+j	美大	bidai	美術大学。
+j	美妙	bimyo	とても美しいこと。
+j	美形	bikei	美しい容貌。美人。
+j	美感	bikan	美しいと感じる気持ち。美に対する感覚。
+j	美政	bisei	立派な政治。優れた政治。
+j	美文	bibun	美しい形容を用いて飾り立て、修辞上の技巧を凝らした…
+j	美景	bikei	美しい景色。
+j	美材	bizai	よい材木。良材。
+j	美点	biten	charm; virtue
+j	美田	biden	a paddy field with rich s…
+j	美男	binan	handsome man, good-lookin…
+j	美盛	bisei	立派なさま。
+j	美称	bisho	褒め称えること。
+j	美膳	bizen	御馳走。美饌。
+j	美芹	bikin	芹のような野菜（山菜）も御馳走と思うこと。
+j	美菜	bisai	おいしいおかず。
+j	美観	bikan	美しい眺め。
+j	美觀	bikan	美観の旧字体表記。
+j	美言	bigen	立派で優れた言葉。
+j	美談	bidan	beautiful story
+j	美邸	bitei	立派な邸宅。
+j	美酒	bishu	味の良い酒。
+j	美醜	bishu	美しいことと醜いこと。美しいか醜いか。
+j	美錦	bikin	美しい錦。
+j	美響	bikyo	美声。
+j	美顔	bigan	美しい顔。
+j	美饌	bisen	御馳走。美膳。
+j	美麗	birei	beautiful
+j	苾	bichi	only used in 苾蒭
+j	貧乏	binbo	poor
+j	閩語	bingo	福州語。
+j	靡然	bizen	旗などがなびくさま。配下としてなびき従うさま。
+j	靡顔	bigan	きめの細かな顔。
+j	靡麗	birei	華やかで美しく、また贅沢なこと。また、そのようなさ…
+j	麋丸	bigan	「墨」の異名。
+j	麋粉	bifun	粉砕すること。
+j	麋黎	birei	老人。麋梨。
+j	鼻尖	bisen	鼻の先端。鼻端。鼻先。
+j	鼻柱	bichu	鼻の中のあなを左右に分ける部分。鼻中隔。
+j	鼻根	bikon	the nose and the faculty …
+j	鼻梁	biryo	bridge (bony ridge of the…
+j	鼻液	bieki	鼻水。
+j	鼻竅	bikyo	鼻孔。
+j	鼻端	bitan	（びたん）鼻の先。
+j	鼻酸	bisan	悲惨。
+j	鼻鏡	bikyo	鼻腔内を検査するための鏡がついた器具。
+j	鼻閉	bihei	鼻孔が何らかの事由により詰り、空気の通りが悪くなる…
+k	비각	bigak	arms and legs; limbs
+k	비간	bigan	
+k	비개	bigae	Gangwon, Gyeongsang, Jeol…
+k	비계	bigye	fat in meat, especially p…
+k	비골	bigol	fibula
+k	비교	bigyo	comparison
+k	비굴	bigul	용기나 줏대가 없이 남에게 굽히기 쉬움.
+k	비김	bigim	comparison
+k	비난	binan	criticism, reproach, cond…
+k	비닉	binik	concealment
+k	비닐	binil	vinyl (substance)
+k	비단	bidan	silk (fiber)
+k	비달	bidal	
+k	비답	bidap	관리와 백성이 임금에게 올린 상소에 대한 임금…
+k	비대	bidae	몸에 살이 쪄서 뚱뚱함.
+k	비데오	bideo	video
+k	비디오	bidio	video
+k	비례	birye	두 개의 양에 대해서 비가 같은 것을 나타내는…
+k	비례의	birye	
+k	비록	birok	even if; although
+k	비료	biryo	fertilizer
+k	비르	bireu	beer
+k	비막	bimak	
+k	비만	biman	obesity
+k	비문	bimun	epigraph
+k	비물	bimul	빗물의 북한말.
+k	비밀	bimil	secret
+k	비박	bibak	bivouac (encampment for t…
+k	비버	bibeo	beaver (aquatic mammal)
+k	비빔	bibim	a mix; mixing
+k	비사우	bisau	Bissau (the capital city …
+k	비새	bisae	hinny
+k	비서	biseo	secretary
+k	비약	biyak	
+k	비얼	bieol	
+k	비오리	biori	A merganser.
+k	비우다	biuda	to empty, drain; evacuate…
+k	비원	biwon	서울 창덕궁 북쪽 울안에 있는 최대의 궁중 정…
+k	비육	biyuk	
+k	비율	biyul	ratio, percentage
+k	비음	bieum	nasal voice
+k	비읍	bieup	the name of the sixth jam…
+k	비이다	biida	
+k	비재	bijae	재주가 없음.
+k	비제이	bijei	streamer, a person who st…
+k	비족	bijok	
+k	비죽	bijuk	비웃거나 언짢거나 울려고 할 때 소리 없이 입…
+k	비준	bijun	어떤 한 조약을 헌법상의 조약 체결권자가 최종…
+k	비즈	bijeu	
+k	비커	bikeo	
+k	비탄	bitan	
+k	비탈	bital	The slope of a mountain, …
+k	비트	biteu	bit
+k	비판	bipan	criticism, critique
+k	비품	bipum	
+k	비하우	bihau	
+k	비화	bihwa	
+k	비휴	bihyu	pixiu
+k	빈가	binga	
+k	빈고	bingo	
+k	빈도	bindo	frequency
+k	빈모	binmo	
+k	빈부	binbu	rich and poor
+k	빈사	binsa	
+k	빈소	binso	
+k	빈와	binwa	
+k	빈유	binyu	small breasts
+k	빈자	binja	poor person; pauper
+k	빈조	binjo	
+k	빈타	binta	야구에서, 안타가 거의 나지 않음을 이르는 말.
+k	빌기	bilgi	prayer
+k	빌다	bilda	to wish, to pray for some…
+k	빌라	billa	
+k	빌미	bilmi	a pretext, reason, or cau…
+k	빗다	bitda	to comb
+k	빚다	bitda	to brew (alcohol)
+e	bianca	bianca	2 meanings
+e	biceps	biceps	1 meaning
+e	bicker	bicker	1 meaning
+e	bicone	bicone	1 meaning
+e	bidder	bidder	1 meaning
+e	big air	bigair	1 meaning
+e	big ben	bigben	1 meaning
+e	big mac	bigmac	1 meaning
+e	big toe	bigtoe	1 meaning
+e	bigamy	bigamy	1 meaning
+e	bigoli	bigoli	1 meaning
+e	bigwig	bigwig	1 meaning
+e	bikini	bikini	1 meaning
+e	billow	billow	1 meaning
+e	binary	binary	5 meanings
+e	binder	binder	1 meaning
+e	biotin	biotin	1 meaning
+e	birdie	birdie	1 meaning
+e	bishop	bishop	2 meanings
+e	bisque	bisque	1 meaning
+e	bissau	bissau	1 meaning
+e	bistro	bistro	1 meaning
+e	bitmap	bitmap	1 meaning
+e	bitola	bitola	1 meaning
+e	bitter	bitter	3 meanings
+j	びくに	bikuni	比丘尼: bhikkhuni
+j	びっちゅう	bitchu	備中: Bitchū Province, an o…
+j	びびる	bibiru	to be scared from shock
+j	びみょい	bimyoi	
+j	びやく	biyaku	媚薬: an aphrodisiac, a lov…
+j	びりの	birino	
+j	びんずい	binzui	スズメ目セキレイ科タヒバリ属に属する鳥の一種。学名…
+j	ビアンカ	bianka	天王星の衛星の固有名。
+j	ビキニ	bikini	bikini
+j	ビギナー	bigina	初心者。初学者。
+j	ビクター	bikuta	a transliteration of the …
+j	ビゴリ	bigori	bigoli
+j	ビジター	bijita	訪問する人。
+j	ビジホ	bijiho	syllabic abbreviation of …
+j	ビスク	bisuku	bisque (soup)
+j	ビターズ	bitazu	リキュールに苦みのある草を漬け込んで作る酒。
+j	ビッチ	bitchi	slut; woman of poor condu…
+j	ビトラ	bitora	
+j	ビニる	biniru	(俗語) コンビニへ行く。
+j	ビニャン	binyan	
+j	ビニル	biniru	「ビニール」の表記ゆれ。
+j	ビニール	biniru	vinyl, PVC (substance)
+j	ビネガー	binega	vinegar
+j	ビハール	biharu	
+j	ビバーク	bibaku	bivouac
+j	ビリオン	birion	十億または一兆（billion）。
+j	ビルド	birudo	build
+j	ビルマ	biruma	Burma (a country in South…
+j	ビロード	birodo	velvet
+j	ビークル	bikuru	a vehicle
+j	ビーグル	biguru	a beagle (dog)
+j	ビートル	bitoru	beetle
+j	ビードロ	bidoro	synonym of 硝子 (garasu, “g…
+j	ビーナス	binasu	Venus, the planet
+j	ビープ音	bipuon	
+j	ビールス	birusu	ウイルスのドイツ語読み。
+j	ビー玉	bidama	a marble (spherical ball)
+j	便名	binmei	
+j	便箋	binsen	letter paper
+j	便船	binsen	都合よく出港する船。
+j	便追	binzui	
+j	備中	bitchu	Bitchū Province, an old p…
+j	備進	bishin	準備して進上すること。
+j	備長	bincho	備長炭の略。
+j	媚薬	biyaku	an aphrodisiac, a love po…
+j	尾椎	bitsui	a coccygeal vertebra
+j	尾翼	biyoku	航空機が飛行する際機体の安定を保つため、最後部につ…
+j	微弱	bijaku	faint; feeble; weak
+j	微気候	bikiko	microclimate
+j	微禄	biroku	僅かな俸給。
+j	微絨毛	bijumo	microvillus
+j	微臣	bishin	地位の低い家臣。
+j	微落	biraku	物価や相場などが僅かに下がること。
+j	微薄	bihaku	僅かであること。少ないこと。また、そのようなさま。
+j	微震	bishin	静止している人や敏感な人などのみが感じられる程度の…
+j	憫笑	binsho	憐れんで笑うこと。「憫」は「あわれむ」の意。
+j	敏感	binkan	sensitive
+j	敏慧	binkei	clever; intelligent
+j	敏捷	binsho	nimble, agile (having the…
+j	敏腕	binwan	having great ability
+j	比丘尼	bikuni	bhikkhuni, a Buddhist nun
+j	獼猴桃	bikoto	キウイフルーツ。キウイ・キウイフルーツとも読むとさ…
+j	琵琶湖	biwako	Lake Biwa (the largest la…
+j	眉目	bimoku	facial features
+j	糜粥	bijuku	chyme
+j	紊乱	binran	disorder; confusion (of r…
+j	美俗	bizoku	美しく麗しい習慣や習慣。
+j	美化語	bikago	beautified language, word…
+j	美学	bigaku	aesthetics (the study of …
+j	美容院	biyoin	beauty parlor
+j	美尻	bijiri	形が整って引き締まった、美しい尻。
+j	美徳	bitoku	virtue
+j	美服	bifuku	美しい衣服。
+j	美白	bihaku	beauty of one's skin ligh…
+j	美的	biteki	aesthetic (concerned with…
+j	美神	bishin	美に関する神。ビーナス。
+j	美禄	biroku	手厚い給与。
+j	美肌	bihada	beautiful skin
+j	美身	bishin	身体を美しくすること。
+j	苾芻	bisshu	
+j	苾蒭	bisshu	bhikkhu
+j	閩南	binnan	southern Fujian (a region…
+j	頻鳥	bincho	迦陵頻伽。
+j	麋鹿	biroku	elk and deer
+j	鼻母音	biboin	nasal vowel
+j	鼻翼	biyoku	synonym of 小鼻 (kobana, “w…
+j	鼻音化	bionka	
+k	비강	bigang	
+k	비건	bigeon	vegan
+k	비겁	bigeop	cowardice
+k	비관	bigwan	pessimism
+k	비구니	biguni	bhikkhuni
+k	비극	bigeuk	tragedy
+k	비글	bigeul	
+k	비기다	bigida	to tie or draw with (in s…
+k	비녀	binyeo	hairpin (often decorative)
+k	비늘	bineul	scales (covering the skin…
+k	비니루	biniru	vinyl (substance)
+k	비듬	bideum	dandruff
+k	비로소	biroso	For the first time; only …
+k	비률	biryul	
+k	비름	bireum	amaranth (plant of the ge…
+k	비리다	birida	smelling of fish, fishy
+k	비리온	birion	
+k	비바리	bibari	'처녀'의 제주도 방언.
+k	비방	bibang	slander
+k	비백	bibaek	
+k	비번	bibeon	off duty
+k	비범	bibeom	
+k	비법	bibeop	secret; magic formula; kn…
+k	비비다	bibida	to rub, to chafe
+k	비비시	bibisi	
+k	비상	bisang	emergency
+k	비석	biseok	죽은 사람이나 장소를 기리기 위하여 돌에 글을…
+k	비선	biseon	다른 사람 모르게 어떤 인물이나 단체와 관계를…
+k	비숍	bisyop	a bishop
+k	비습	biseup	공기 가운데 포함된 수증기의 양을 표시하는 수치
+k	비싸우	bissau	기니비사우의 수도 이름 '비사우'의 북한말.
+k	비싼	bissan	'비싸다'의 관형사형.
+k	비쌈	bissam	'비싸다'의 명사형.
+k	비양	biyang	
+k	비엔나	bienna	synonym of 빈 (bin, “Vienn…
+k	비엔주	bienju	
+k	비역	biyeok	homosexual activity among…
+k	비열	biyeol	사람의 짓, 태도, 성격이 추하고 보잘것 없음.
+k	비염	biyeom	rhinitis
+k	비오틴	biotin	
+k	비올라	biolla	
+k	비와 호	biwaho	
+k	비용	biyong	cost, expense
+k	비웃다	biutda	to sneer at, to jeer at, …
+k	비육우	biyugu	
+k	비익조	biikjo	
+k	비장	bijang	남 모르게 숨겨 간직하고 있음.
+k	비적	bijeok	bandit
+k	비전	bijeon	
+k	비점	bijeom	
+k	비중	bijung	specific gravity
+k	비쭉	bijjuk	비웃거나 언짢거나 울려고 할 때 소리 없이 입…
+k	비참	bicham	misery
+k	비축	bichuk	stock, supply, reserve
+k	비취	bichwi	jade (precious stone)
+k	비키니	bikini	bikini (two-piece swimsui…
+k	비키다	bikida	step aside; step back
+k	비통	bitong	몹시 슬퍼서 마음이 아픔.
+k	비틀	biteul	힘이 없거나 어지러워서 몸을 바로 가누지 못하…
+k	비하다	bihada	to compare
+k	비환	bihwan	슬픔과 기쁨
+k	빅 벤	bikben	
+k	빅에어	bigeeo	
+k	빅풋	bikput	
+k	빈계	bingye	
+k	빈곤	bingon	poverty
+k	빈국	binguk	
+k	빈뇨	binnyo	pollakiuria, frequent uri…
+k	빈대	bindae	bedbug
+k	빈록	billok	
+k	빈말	binmal	헛되고 쓸데없는 말.
+k	빈민	binmin	poor people
+k	빈발	binbal	
+k	빈볼	binbol	beanball
+k	빈삭	binsak	
+k	빈손	binson	empty hand
+k	빈씨	binssi	
+k	빈약	binyak	poorness; meagreness
+k	빈얀	binyan	
+k	빈칸	binkan	blank space
+k	빈터	binteo	glade, clearing
+k	빈핍	binpip	가난하여 아무것도 없음.
+k	빌라이	billai	
+k	빌림	billim	a loan
+k	빌빌	bilbil	기운 없이 행동하는 모양.
+k	빗각	bitgak	예각이나 둔각과 같이 직각이나 평각이 아닌 각.
+k	빗물	binmul	rainwater
+k	빗발	bitbal	
+k	빗살	bitsal	빗의 갈라진 낱낱의 살.
+k	빗속	bitsok	in the midst of rain; in …
+k	빗치	bitchi	the sun
+k	빙고	binggo	bingo (game)
+k	빙기	binggi	
+k	빙모	bingmo	다른 사람의 장모.
+k	빙수	bingsu	shaved ice, bingsu
+k	빙어	bingeo	A Japanese smelt (Hypomes…
+k	빙하	bingha	glacier
+k	빙호	bingho	
+k	빛갈	bitgal	'빛깔'의 북한말.
+k	빛살	bitsal	ray, beam, light
+k	빛알	bichal	synonym of 광자(光子) (gwangj…
+k	빛의	bichui	
+e	biaroza	biaroza	1 meaning
+e	bicycle	bicycle	1 meaning
+e	big bang	bigbang	1 meaning
+e	big data	bigdata	1 meaning
+e	bigfoot	bigfoot	1 meaning
+e	bigotry	bigotry	1 meaning
+e	bilious	bilious	1 meaning
+e	billing	billing	1 meaning
+e	billion	billion	2 meanings
+e	binding	binding	1 meaning
+e	biology	biology	1 meaning
+e	biomass	biomass	1 meaning
+e	biotite	biotite	1 meaning
+e	biplane	biplane	1 meaning
+e	biretta	biretta	1 meaning
+e	biryani	biryani	1 meaning
+e	biscuit	biscuit	1 meaning
+e	bishkek	bishkek	1 meaning
+e	bislama	bislama	1 meaning
+e	bismuth	bismuth	1 meaning
+e	bit part	bitpart	1 meaning
+e	bitcoin	bitcoin	1 meaning
+e	bitrate	bitrate	1 meaning
+e	bittern	bittern	2 meanings
+e	bitumen	bitumen	1 meaning
+e	bivalve	bivalve	1 meaning
+e	bivouac	bivouac	1 meaning
+e	bizarre	bizarre	1 meaning
+j	びくっと	bikutto	驚きで瞬間的に身を震わせるさま。
+j	びしょうじょ	bishojo	美少女: a beautiful young gi…
+j	びじゅつ	bijutsu	
+j	びっくり	bikkuri	startledly, surprisedly, …
+j	びっくる	bikkuru	to be surprised
+j	びったり	bittari	ぴったり付き添う（まといつく）様子。
+j	びんづけ	binzuke	鬢付: A wax used to form a …
+j	ビアホール	biahoru	beerhall
+j	ビアマグ	biamagu	ビールを飲む際に用いられる取っ手付きのコップ。
+j	ビオチン	biochin	biotin
+j	ビオトープ	biotopu	野生の生物が生息する場所。
+j	ビクーニャ	bikunya	a vicuna
+j	ビシュト	bishuto	bisht
+j	ビシュヌ	bishunu	ブラフマー、シヴァとともに三大神の一人。
+j	ビジット	bijitto	訪問。
+j	ビジュアル	bijuaru	visual
+j	ビスチェ	bisuche	bustier
+j	ビタミン	bitamin	a vitamin
+j	ビッグエア	bigguea	
+j	ビニ本	binibon	ビニールの袋に入れて販売される本。特に性行為の写真…
+j	ビバップ	bibappu	
+j	ビビンバ	bibinba	bibimbap (Korean dish)
+j	ビル街	birukai	commercial highrise area
+j	ビレッジ	birejji	村落。
+j	ビーシュラ	bishura	Vizsla
+j	ビート板	bitoban	kickboard
+j	ビーバームーン	bibamun	ネイティブアメリカンの暦で11月の満月のこと。
+j	ビーンボール	binboru	
+j	ビー・ビー・シー	bibishi	
+j	備蓄	bichiku	stock, supply
+j	備設	bisetsu	多く備えること。
+j	劘切	bisetsu	切磋すること。
+j	尾宿	bishuku	Tail
+j	尾流雲	biryuun	virga
+j	尾行者	bikosha	tailer; tail (a person wh…
+j	尾骨	bikotsu	a tailbone; a coccyx
+j	弥節	bisetsu	少し安らぐさま。
+j	弭節	bisetsu	制御し緩やかにすること。
+j	微レ存	bireson	has a small possibility o…
+j	微分法	bibunho	導関数を求める手法。
+j	微小な	bishona	
+j	微熱	binetsu	slight fever
+j	微課金	bikakin	金銭を少額課金すること。
+j	微雪	bisetsu	雪が少し降ること。また、その雪。
+j	敏速	binsoku	素早いこと。また、そのようなさま。敏捷。
+j	檳榔子	binroji	areca nut or betel nut, t…
+j	琵琶師	biwashi	琵琶を製作する技師。
+j	瓶掘り	binhori	ボトルディギング。
+j	瓶詰	binzume	packed into a bottle
+j	眉雪	bisetsu	雪眉。
+j	糜滅	bimetsu	跡形もなく消えること。原形をとどめることなく消滅す…
+j	縻切	bisetsu	切り離すこと。
+j	美容師	biyoshi	beautician (one who does …
+j	美容所	biyosho	美容師が美容を行う施設、店舗。美容室。美容院。
+j	美少女	bishojo	beautiful young girl
+j	美玉	bigyoku	美しい宝玉。
+j	美脚	bikyaku	gorgeous legs
+j	美色	bishoku	beautiful color
+j	美術	bijutsu	fine arts
+j	美食	bishoku	delicious food; fine cuis…
+j	美髪	bihatsu	beautiful hair
+j	美麗島	bireito	「台湾」の異称。
+j	貧乏な	binbona	
+j	鐚銭	bitasen	shoddy coin
+j	閩東語	bintogo	Eastern Min; Min Dong (br…
+j	靡屑	bisetsu	非常に細かい粉やくず。
+j	鬢長	binnaga	albacore, longfin tuna (T…
+j	鼻下長	bikacho	
+j	鼻子音	bishiin	nasal consonant
+j	鼻準	bisetsu	鼻柱。鼻梁。
+j	鼻癤	bisetsu	鼻の鼻前庭の毛穴や傷口から主に黄色ブドウ球菌が感染…
+j	鼻骨	bikotsu	a nasal bone
+k	비가 오다	bigaoda	
+k	비격	bigyeok	issuing of a manifesto
+k	비견	bigyeon	
+k	비결	bigyeol	secret
+k	비골리	bigolli	bigoli
+k	비과세	bigwase	
+k	비꼬다	bikkoda	남의 마음에 거슬릴 정도로 빈정거리다.
+k	비끗	bikkeut	맞추어 끼울 물건이 꼭 들어맞지 않고 어긋나는…
+k	비끼다	bikkida	to lie aslant; to hang at…
+k	비난자	binanja	critic, censor, accuser
+k	비네거	binegeo	vinegar
+k	비노크	binokeu	
+k	비누대	binudae	
+k	비단옷	bidanot	silk clothes
+k	비둘기	bidulgi	pigeon, dove
+k	비등	bideung	
+k	비련	biryeon	
+k	비룡	biryong	
+k	비루스	biruseu	virus
+k	비밀리	bimilli	secrecy, clandestineness
+k	비바람	bibaram	비가 내리면서 부는 바람.
+k	비바체	bibache	매우 빠르게.
+k	비속어	bisogeo	vulgarism; slang
+k	비슈누	bisyunu	Vishnu
+k	비싸다	bissada	expensive
+k	비앙카	biangka	
+k	비와꼬	biwakko	일본 서쪽의 시가 현에 위치한 호수 비와 호의…
+k	비웃음	biuseum	
+k	비율의	biyului	
+k	비인간	biingan	인간적이지 않은 것.
+k	비정	bijeong	사람으로서의 따뜻한 정이나 인간미가 없음.
+k	비주룩	bijuruk	'비죽'의 본말.
+k	비주얼	bijueol	외견, 겉모습.
+k	비집다	bijipda	맞붙은 데를 벌리어 틈이 나게 하다.
+k	비척	bicheok	'콧등'.
+k	비첨	bicheom	
+k	비추다	bichuda	to shine, to light up
+k	비치다	bichida	to shine
+k	비쿠냐	bikunya	
+k	비타민	bitamin	vitamin
+k	비탈도	bitaldo	'경사도'의 북한말.
+k	비토리아	bitoria	
+k	비티니아	bitinia	
+k	비하르	bihareu	
+k	비행	bihaeng	flight; flying
+k	빈객	bingaek	
+k	빈궁	bingung	
+k	빈농	binnong	
+k	빈도수	bindosu	
+k	빈방	binbang	empty room
+k	빈사자	binsaja	
+k	빈상	binsang	궁색해 보이는 인상.
+k	빈양	binyang	'암양'.
+k	빈전	binjeon	
+k	빈처	bincheo	
+k	빈촌	binchon	
+k	빈축	binchuk	
+k	빈틈	binteum	gap, opening
+k	빈티지	bintiji	포도주의 생산 년도 또는 포도의 수확.
+k	빌딩	bilding	building (the structure)
+k	빌런	billeon	villain (especially of Am…
+k	빌리나	billina	
+k	빌리다	billida	to borrow
+k	빌베리	bilberi	진달래과 산앵두나무속에 속한 종과 일부 종들을…
+k	빗금	bitgeum	a slash; a virgule
+k	빗기다	bitgida	to comb (someone else's h…
+k	빗자루	bitjaru	broom
+k	빗장	bitjang	문을 닫고 가로질러 잠그는 막대기.
+k	빙과	binggwa	frozen dessert
+k	빙산	bingsan	iceberg (huge mass of flo…
+k	빙실	bingsil	슬며시 입을 벌릴 듯하면서 소리 없이 부드럽고…
+k	빙싯	bingsit	
+k	빙원	bingwon	
+k	빙저	bingjeo	
+k	빙판	bingpan	
+k	빛깔	bitkkal	colour, hue
+k	빛나다	binnada	to shine (means to emit b…
+k	빛샘	bitsaem	
+e	bianqing	bianqing	1 meaning
+e	biathlon	biathlon	1 meaning
+e	białystok	biaystok	1 meaning
+e	bibimbap	bibimbap	1 meaning
+e	biblical	biblical	1 meaning
+e	bicolano	bicolano	1 meaning
+e	bicolour	bicolour	1 meaning
+e	biennale	biennale	1 meaning
+e	biennial	biennial	2 meanings
+e	big apple	bigapple	1 meaning
+e	big mouth	bigmouth	1 meaning
+e	bilabial	bilabial	1 meaning
+e	bilaspur	bilaspur	1 meaning
+e	bile acid	bileacid	1 meaning
+e	bile duct	bileduct	1 meaning
+e	bile salt	bilesalt	1 meaning
+e	billhook	billhook	1 meaning
+e	binnacle	binnacle	1 meaning
+e	biphenyl	biphenyl	1 meaning
+e	biphobia	biphobia	1 meaning
+e	birdcage	birdcage	1 meaning
+e	birdlime	birdlime	1 meaning
+e	birdsong	birdsong	1 meaning
+e	birthday	birthday	2 meanings
+e	bisector	bisector	1 meaning
+e	bisexual	bisexual	3 meanings
+e	bit by bit	bitbybit	1 meaning
+e	bithynia	bithynia	1 meaning
+j	びくびく	bikubiku	trembling
+j	びしゃもん	bishamon	毘沙門: Vaiśravaṇa
+j	びっしょり	bisshori	all-wet; soaked; drenched
+j	びっしり	bisshiri	隙間なく何かが並んでいるさま。または、詰まっている…
+j	びりびり	biribiri	in a manner of ripping, t…
+j	ビアガーデン	biagaden	「ビヤガーデン」の表記ゆれ。
+j	ビエルゾン	bieruzon	
+j	ビエンチャン	bienchan	「ヴィエンチャン」の異表記。
+j	ビエンナーレ	biennare	a biennial event, especia…
+j	ビクビク	bikubiku	
+j	ビゴローソ	bigoroso	力強く。
+j	ビザンツ	bizantsu	
+j	ビザンティン	bizantin	the quality of being Byza…
+j	ビショップ	bishoppu	a bishop
+j	ビジネス	bijinesu	business
+j	ビスコース	bisukosu	セルロースを苛性ソーダ（水酸化ナトリウム）で処理し…
+j	ビストロ	bisutoro	洋風で気軽に利用できる小型のレストラン。
+j	ビスマス	bisumasu	bismuth
+j	ビスマーク	bisumaku	Bismarck (the capital cit…
+j	ビタ止め	bitadome	catching a ball without c…
+j	ビチューメン	bichumen	瀝青。
+j	ビッグバン	bigguban	the Big Bang
+j	ビッグベン	bigguben	
+j	ビッグ・ベン	bigguben	Big Ben (the hour bell in…
+j	ビテュニア	bityunia	
+j	ビニル基	biniruki	エチレンから一つの水素原子を取り除いた構造の一価の…
+j	ビヒクル	bihikuru	媒介物。
+j	ビフェニル	bifeniru	biphenyl
+j	ビフォーナイン	bifonain	（午前9時に）出勤する前の時間。
+j	ビフテキ	bifuteki	ビーフステーキ。
+j	ビブラート	biburato	vibrato
+j	ビヤホール	biyahoru	ビール（特に生ビール）を中心にそれとつまみを提供す…
+j	ビリオネア	birionea	billionaire
+j	ビリジアン	birijian	水酸化クロムを主な原料とする顔料。及びその顔料が示…
+j	ビリヤニ	biriyani	インド、パキスタン付近で供される炊き込みご飯風の料…
+j	ビリヤード	biriyado	billiards (cue sport)
+j	ビリヤーニー	biriyani	
+j	ビルトイン	birutoin	内蔵、作りつけ。
+j	ビルベリー	biruberi	ツツジ科スノキ属に属するいくつかの低灌木種。または…
+j	ビルボード	birubodo	
+j	ビルマの	birumano	
+j	ビルマ語	birumago	Burmese language
+j	ビン南語	binnango	
+j	ビーシー州	bishishu	BC, British Columbia (a p…
+j	ビートの根	bitonone	
+j	ビートニク	bitoniku	
+j	ビートルズ	bitoruzu	
+j	ビートルート	bitoruto	
+j	ビーフジャーキー	bifujaki	牛肉の干し肉。
+j	ビール学	birugaku	
+j	ビール腹	birubara	ビールを習慣的に飲み過ぎて太り、丸く突き出た腹。
+j	ビーンバッグ	binbaggu	beanbag (piece of furnitu…
+j	備忘録	biboroku	memorandum
+j	尾側の	bisokuno	
+j	尾状核	bijokaku	caudate nucleus
+j	尾状花序	bijokajo	catkin
+j	尾行する	bikosuru	
+j	弥漫性	bimansei	病気の症状などが特定の1ヵ所だけでなく広範囲に広が…
+j	弥縫策	bibosaku	一時的に取り繕い、その場を逃れるための方策。
+j	微粒子	biryushi	とても細かくて小さい粒。
+j	微調整	bichosei	tuning a radio or televis…
+j	敏感な	binkanna	
+j	敏捷な	binshona	
+j	毘沙門	bishamon	Bishamonten, Japanese nam…
+j	毘那夜迦	binayaka	
+j	琵琶琴	biwagoto	synonym of 琵琶 (biwa, “fou…
+j	琵琶鱒	biwamasu	Biwa trout, Oncorhynchus …
+j	美バスト	bibasuto	beautiful bust (breasts)
+j	美人蕉	bijinsho	synonym of 姫芭蕉 (himebashō…
+j	美人計	bijinkei	honey traps
+j	美化する	bikasuru	
+j	美大生	bidaisei	大学の美術学部、美術大学で美術を学ぶ大学生。
+j	美容外科	biyogeka	外科の分野の一つ。美容を目的とした整形手術を主とす…
+j	美少年	bishonen	pretty young boy, beautif…
+j	美意識	biishiki	sense of beauty; aestheti…
+j	美男子	bidanshi	beautiful young man
+j	美的な	bitekina	
+j	美辞学	bijigaku	synonym of 修辞学 (shūjigaku…
+j	美青年	biseinen	容貌の美しい青年。
+j	貧乏人	binbonin	貧しい暮らしを送る人、貧しい人。
+j	閩南語	binnango	Southern Min; Min Nan (a …
+j	鼻カタル	bikataru	鼻炎。
+j	鼻唇溝	bishinko	
+j	鼻根筋	bikonkin	a procerus muscle
+j	鼻濁音	bidakuon	The allophonic variation …
+k	비가 와요	bigawayo	it’s raining
+k	비강도	bigangdo	어떤 물질의 (강도)/(비중).
+k	비겁자	bigeopja	coward
+k	비경	bigyeong	비(脾)에 속하고 위(胃)에 이어지는 경맥.
+k	비구름	bigureum	rain cloud, nimbus (cloud…
+k	비극의	bigeugui	
+k	비날론	binallon	vinylon, a synthetic fibe…
+k	비너스	bineoseu	금성, 샛별.
+k	비누통	binutong	비누를 담아 두는 조그만 통.
+k	비눗물	binunmul	비누를 푼 물.
+k	비닐론	binillon	
+k	비닐류	binillyu	vinyls
+k	비단길	bidangil	Silk Road
+k	비디오폰	bidiopon	
+k	비뚤다	bittulda	crooked; awry; skew
+k	비린내	birinnae	fish-like smell
+k	비망기	bimanggi	a document or form on whi…
+k	비명	bimyeong	scream, shriek
+k	비무장	bimujang	무장되어 있지 않은 상태.
+k	비범인	bibeomin	
+k	비빔밥	bibimbap	bibimbap
+k	비사맥	bisamaek	프러시아의 재상 비스마르크(Bismarck)를…
+k	비상구	bisanggu	emergency exit
+k	비상시	bisangsi	
+k	비스켓	biseuket	
+k	비스킷	biseukit	
+k	비아그라	biageura	
+k	비알코올	bialkool	
+k	비엔티안	bientian	Vientiane (the capital ci…
+k	비예하다	biyehada	
+k	비옥하다	biokhada	to be rich, to be fertile
+k	비유법	biyubeop	표현하고자 하는 대상을 다른 대상에 비유하여 …
+k	비유적	biyujeok	figurative, metaphorical
+k	비유하다	biyuhada	땅이 걸고 기름지다.
+k	비율빈	biyulbin	
+k	비음화	bieumhwa	(언어) 비강으로 이어지는 날숨의 통로를 닫아…
+k	비자금	bijageum	slush fund
+k	비자나무	bijanamu	The kaya or Japanese nutm…
+k	비장미	bijangmi	
+k	비좁은	bijobeun	
+k	비지깨	bijikkae	matches
+k	비직업	bijigeop	
+k	비추이다	bichuida	to be shone, to light up
+k	비치볼	bichibol	
+k	비크슈	bikeusyu	
+k	비탈각	bitalgak	'경사각'의 북한말.
+k	비트닉	biteunik	
+k	비트족	biteujok	
+k	비틀기	biteulgi	
+k	비틀다	biteulda	힘 있게 바싹 꼬면서 틀다.
+k	비파나무	bipanamu	loquat (fruit tree)
+k	비평	bipyeong	criticism
+k	비하하다	bihahada	
+k	비형	bihyeong	에이비오식 혈액형의 하나.
+k	비호권	bihogwon	
+k	비호하다	bihohada	to wail with grief
+k	빅맥	bingmaek	Big Mac
+k	빅뱅	bikbaeng	우주 생성의 시발이 된 것으로 여겨지는 대폭발.
+k	빅토르	biktoreu	a transliteration of the …
+k	빅토리아	biktoria	Victoria (a city, the cap…
+k	빈격	bingyeok	
+k	빈광	bingwang	
+k	빈땅	binttang	vacant land
+k	빈민가	binminga	slum
+k	빈익빈	binikbin	
+k	빈지문	binjimun	shutter
+k	빈첩	bincheop	
+k	빈함옥	binhamok	
+k	빈혈	binhyeol	
+k	빌레이카	billeika	
+k	빌보드	bilbodeu	
+k	빗대다	bitdaeda	곧바로 말하지 아니하고 빙 둘러서 말하다.
+k	빗변	bitbyeon	
+k	빗줄기	bitjulgi	
+k	빙관	binggwan	
+k	빙글	binggeul	
+k	빙긋	binggeut	
+k	빙붕	bingbung	
+k	빙빙	bingbing	round and round; while re…
+k	빙상	bingsang	
+k	빙시레	bingsire	
+k	빙싯이	bingsisi	
+k	빙장	bingjang	다른 사람의 장인.
+k	빙점	bingjeom	ice point
+k	빙하기	binghagi	빙하시대에 지구의 북쪽으로 거의 반이 빙하로 …
+k	빙하토	binghato	
+k	빙하호	binghaho	
+k	빙환	binghwan	
+k	빛내다	binnaeda	to make (something) shine
+k	빛줄기	bitjulgi	
+e	bianzhong	bianzhong	1 meaning
+e	bicameral	bicameral	1 meaning
+e	bieberite	bieberite	1 meaning
+e	big cheese	bigcheese	1 meaning
+e	big dipper	bigdipper	1 meaning
+e	bijection	bijection	1 meaning
+e	bijective	bijective	1 meaning
+e	bilateral	bilateral	2 meanings
+e	bilingual	bilingual	2 meanings
+e	bilirubin	bilirubin	1 meaning
+e	billboard	billboard	1 meaning
+e	billiards	billiards	1 meaning
+e	billy goat	billygoat	1 meaning
+e	binturong	binturong	1 meaning
+e	biography	biography	1 meaning
+e	biohazard	biohazard	1 meaning
+e	biologist	biologist	1 meaning
+e	biosphere	biosphere	1 meaning
+e	bioweapon	bioweapon	1 meaning
+e	birdbrain	birdbrain	1 meaning
+e	birdhouse	birdhouse	1 meaning
+e	birth name	birthname	1 meaning
+e	birthmark	birthmark	1 meaning
+e	birthrate	birthrate	1 meaning
+e	birthyear	birthyear	1 meaning
+e	bit bucket	bitbucket	1 meaning
+e	bitch slap	bitchslap	1 meaning
+e	biwa trout	biwatrout	1 meaning
+j	びくつく	bikutsuku	怖がってびくびくする。
+j	びしょぬれ	bishonure	びしょびしょに濡れること。
+j	びしょ濡れ	bishonure	sopping
+j	びんざさら	binzasara	編木: (music) a Japanese pe…
+j	ビイズニッラー	bizunirra	if Allah permits
+j	ビオリスト	biorisuto	ビオラの演奏家。
+j	ビカーラ種	bikarashu	バイカラウナギの別称。
+j	ビクトリア	bikutoria	セーシェルの首都。
+j	ビザンチン	bizanchin	ビザンチウムの。
+j	ビシュケク	bishukeku	Bishkek (the capital city…
+j	ビスケット	bisuketto	biscuit
+j	ビスケー湾	bisukewan	大西洋の北東部、東をフランス、南をスペインに囲まれ…
+j	ビスミッラー	bisumirra	bismillah
+j	ビッグデータ	biggudeta	big data
+j	ビッシング	bisshingu	
+j	ビットコイン	bittokoin	Bitcoin (cryptocurrency)
+j	ビットレート	bittoreto	bitrate
+j	ビデオカード	bideokado	a video card
+j	ビデオゲーマー	bideogema	
+j	ビデオゲーム	bideogemu	synonym of コンピュータゲーム (kon…
+j	ビデオコール	bideokoru	
+j	ビデオテープ	bideotepu	videotape
+j	ビトリオール	bitorioru	vitriol
+j	ビハール州	biharushu	
+j	ビピリジン	bipirijin	
+j	ビフォーアフター	bifoafuta	ある出来事の前と後。
+j	ビブラフォン	biburafon	
+j	ビヤガーデン	biyagaden	庭園や広いビルの屋上など屋外に開設されるビールを中…
+j	ビリニュス	birinyusu	Vilnius (the capital of L…
+j	ビリルビン	birirubin	
+j	ビルヂング	birujingu	ビルディングの表記揺れ。主に歴史的仮名遣いが使われ…
+j	ビルディング	birudingu	a building
+j	ビルマ人	birumajin	Burmese (person, people f…
+j	ビレッタ帽	birettabo	
+j	ビロビジャン	birobijan	Birobidzhan (a city in Ru…
+j	ビロードアオイ	birodoaoi	
+j	ビーチバレー	bichibare	beach volleyball (sport)
+j	ビーチボール	bichiboru	beach ball
+j	ビールサロン	birusaron	
+j	ビール一杯	biruippai	
+j	尾索類	bisakurui	原索動物のうち尾索綱に分類される動物。幼い時期また…
+j	尾部銃手	bibujushu	tail gunner
+j	微分学	bibungaku	微分積分学のうち、微分法を扱う分野。
+j	微分幾何	bibunkika	differential geometry
+j	微惑星	biwakusei	太陽系の初期に存在し、現在の惑星の原型となった直径…
+j	微積分	bisekibun	calculus (differential ca…
+j	微視的	bishiteki	人の肉眼では見えないほど極めて微細であるさま。
+j	琵琶法師	biwahoshi	盲目で僧の姿をし、琵琶を弾きながら経文をとなえたり…
+j	瓶の首	binnokubi	
+j	編木	binzasara	a Japanese percussion ins…
+j	美学者	bigakusha	美学を研究する科学者。
+j	美容体操	biyotaiso	calisthenics
+j	美術家	bijutsuka	画家や彫刻家など美術の仕事を専門とする芸術家。
+j	美術科	bijutsuka	大学や短期大学に設置している美術に関する学科。美術…
+j	美辞麗句	bijireiku	flowery words
+j	美食家	bishokuka	好んで贅沢でおいしい食事や食品を食べる人。グルメ。
+j	貧乏神	binbogami	取り憑いた人間や家族を貧乏にしたり不運にしたりする…
+j	鼻中隔	bichukaku	a nasal septum
+k	비가 오는	bigaoneun	
+k	비공개	bigonggae	
+k	비공식	bigongsik	
+k	비교급	bigyogeup	comparative
+k	비교적	bigyojeok	comparative
+k	비교하다	bigyohada	to compare
+k	비그늘	bigeuneul	
+k	비금속	bigeumsok	금속이 아닌 것.
+k	비난하다	binanhada	to condemn, to denounce, …
+k	비단뱀	bidanbaem	
+k	비디오 게임	bidiogeim	
+k	비디오게임	bidiogeim	
+k	비로비잔	birobijan	Birobidzhan (a city, the …
+k	비론하다	bironhada	비교하여 논하다.
+k	비롯하다	birothada	to begin or originate (in)
+k	비르야니	bireuyani	
+k	비망록	bimangnok	memorandum
+k	비백서	bibaekseo	
+k	비브라토	bibeurato	
+k	비산하다	bisanhada	날아서 흩어짐.
+k	비술나무	bisullamu	
+k	비슈누파	bisyunupa	
+k	비아 페라타	biaperata	
+k	비약하다	biyakhada	to jump; to leap
+k	비얀시코	biyansiko	
+k	비엔날레	biennalle	
+k	비영리	biyeongni	non-profit
+k	비유되다	biyudoeda	
+k	비읍시옷	bieupsiot	한글의 겹받침 'ㅄ'의 이름. (부록: 한글 …
+k	비일비재	biilbijae	
+k	비잔티온	bijantion	Byzantium (an ancient Gre…
+k	비잔티움	bijantium	Byzantium (an ancient Gre…
+k	비저항	bijeohang	
+k	비참한	bichamhan	
+k	비치하다	bichihada	
+k	비트맵	biteumaep	
+k	비트코인	biteukoin	bitcoin (cryptocurrency)
+k	비틀스	biteulseu	Beatles
+k	비틀즈	biteuljeu	
+k	비판적	bipanjeok	critical
+k	비판하다	bipanhada	to criticize
+k	비하르 주	bihareuju	
+k	비하인드	bihaindeu	
+k	비핵화	bihaekhwa	denuclearization
+k	비행기	bihaenggi	airplane
+k	비행사	bihaengsa	pilot (controller of airc…
+k	비화가야	bihwagaya	한국의 역사에서, 경상도 창녕 지방 부분에 있…
+k	빅 데이터	bikdeiteo	
+k	빅 애플	bikaepeul	
+k	빅텐트	biktenteu	다양하고 광범위 정치적 견해를 포함하는 것
+k	빈 병	binbyeong	
+k	빈민굴	binmingul	slum
+k	빈배합	binbaehap	콘크리트나 모르타르를 만들 때, 시멘트를 표준…
+k	빈번히	binbeonhi	번거러울 정도로 자주.
+k	빈자소인	binjasoin	
+k	빈청	bincheong	
+k	빈투롱	binturong	
+k	빌뉴스	billyuseu	Vilnius (the capital city…
+k	빗나가다	bitnagada	
+k	빗방울	bitbangul	raindrop
+k	빙결	binggyeol	freezing
+k	빙그레	binggeure	
+k	빙긋이	binggeusi	
+k	빙끗	bingkkeut	
+k	빙정	bingjeong	ice crystals
+k	빙포차	bingpocha	
+k	빙하곡	binghagok	
+k	빙하쥐	binghajwi	glacier rat (Rattus richa…
+k	빙하탁	binghatak	
+k	빙하학	binghahak	빙하와 관련된 것을 연구하는 학문이나 분야.
+k	빚음감	bijeumgam	plasticizer
+e	bichon frisé	bichonfris	1 meaning
+e	bid rigging	bidrigging	1 meaning
+e	big bad wolf	bigbadwolf	1 meaning
+e	big picture	bigpicture	1 meaning
+e	bilocation	bilocation	1 meaning
+e	binary star	binarystar	1 meaning
+e	binoculars	binoculars	1 meaning
+e	biological	biological	2 meanings
+e	biophysics	biophysics	1 meaning
+e	bipedalism	bipedalism	1 meaning
+e	bipyridine	bipyridine	1 meaning
+e	biratnagar	biratnagar	1 meaning
+e	bird cherry	birdcherry	1 meaning
+e	bird of prey	birdofprey	1 meaning
+e	bird strike	birdstrike	1 meaning
+e	birmingham	birmingham	3 meanings
+e	birth canal	birthcanal	1 meaning
+e	birthplace	birthplace	2 meanings
+e	birthright	birthright	1 meaning
+e	birthstone	birthstone	1 meaning
+e	bisque doll	bisquedoll	1 meaning
+e	bissextile	bissextile	1 meaning
+e	bitterling	bitterling	1 meaning
+e	bitterness	bitterness	1 meaning
+j	びしばし	bishibashi	with force; forcefully; m…
+j	びしびし	bishibishi	
+j	びしょびしょ	bishobisho	raining heavily, pouring,…
+j	びちょびちょ	bichobicho	
+j	びりっけつ	birikketsu	最下位。びり。
+j	チベット・ビルマ語派	birumagoha	シナ・チベット語族の一つ。チベット語群、東ボディッ…
+j	ビクトリアン	bikutorian	ビクトリア女王時代の美術様式やファッション。
+j	ビザンティウム	bizantiumu	コンスタンティノープル（イスタンブール）の遷都以前…
+j	ビシビシ	bishibishi	
+j	ビジュアルアート	bijuaruato	
+j	ビジュアル系	bijuarukei	「ヴィジュアル系」の表記ゆれ。
+j	ビスカッチャ	bisukatcha	
+j	ビスクドール	bisukudoru	bisque doll
+j	ビスマルク	bisumaruku	Bismarck (outside the US)
+j	ビスラマ語	bisuramago	The Bislama language.
+j	ビタミン剤	bitaminzai	vitamin pills
+j	ビッグフット	biggufutto	a Bigfoot
+j	ビッグマック	biggumakku	Big Mac
+j	ビッグリップ	biggurippu	宇宙の終焉についての仮説の一つ。今後宇宙を満たすダ…
+j	ビットマップ	bittomappu	bitmap
+j	ビデオデッキ	bideodekki	VCR
+j	ビデオ会議	bideokaigi	離れた場所にある議場をネットワークで接続して行う会…
+j	ビデオ通話	bideotsuwa	
+j	ビニールテープ	binirutepu	素材として塩化ビニールなどを使用したテープ。
+j	ビニール傘	binirugasa	傘のところにビニールを張った傘。
+j	ビニ袋	binibukuro	
+j	ビフォアアフター	bifoaafuta	ビフォーアフターの表記揺れ。
+j	ビフォアーアフター	bifoaafuta	ビフォーアフターの表記揺れ。
+j	ビフォーコロナ	bifokorona	"before corona": before C…
+j	ビルヘルム	biruherumu	
+j	ビルマネム	birumanemu	
+j	ビルマ文字	birumamoji	ビルマ語などで使われている文字。
+j	ビントロング	bintorongu	binturong
+j	ビーチサッカー	bichisakka	
+j	ビーチタオル	bichitaoru	a beach towel
+j	ビーフステーキ	bifusuteki	beefsteak (steak)
+j	ビールグラス	birugurasu	
+j	備蓄米	bichikumai	凶作に備え政府が備蓄している米。
+j	備長炭	binchozumi	high-quality charcoal mad…
+j	尾閭骨	biryokotsu	coccyx, tailbone
+j	尾骶骨	biteikotsu	coccyx, tailbone
+j	微分係数	bibunkeisu	平均変化率の変化の幅を0に近づけた極限値。その点に…
+j	微分変数	bibunhensu	微分を行う変数。
+j	微生物	biseibutsu	microorganism, microbe
+j	微課金兵	bikakinhei	微課金ユーザー。
+j	美容室	biyoshitsu	beauty parlour
+j	美容整形	biyoseikei	通常生活する上では問題はないが、美容のために外科の…
+j	美術品	bijutsuhin	work of art
+j	美術界	bijutsukai	美術家、ギャラリスト、キュレーター、コレクターなど…
+j	美術館	bijutsukan	art gallery, art museum
+k	비가 옵니다	bigaomnida	
+k	비겁하다	bigeophada	비열하고 겁이 많다.
+k	비관적	bigwanjeok	
+k	비관주의	bigwanjuui	
+k	비군사화	bigunsahwa	
+k	비뇨기과	binyogigwa	urology; department of ur…
+k	비누 거품	binugeopum	
+k	비누상자	binusangja	
+k	비단결	bidangyeol	silklike texture; somethi…
+k	비단잉어	bidaningeo	koi
+k	비단조개	bidanjogae	Megangulus venulosus (syn…
+k	비대면	bidaemyeon	직접 얼굴을 맞대고 하지 않는 것.
+k	비대칭	bidaeching	
+k	비듬하다	bideumhada	'비스듬하다'의 준말.
+k	비롯되다	birotdoeda	to start, to begin
+k	비밀투표	bimiltupyo	
+k	비방하다	bibanghada	다른 사람을 비웃고 헐뜯는 말을 여기저기 퍼뜨…
+k	비범하다	bibeomhada	매우 독특하고 특이한 면이 있다.
+k	비살생	bisalsaeng	
+k	비상장	bisangjang	
+k	비상하다	bisanghada	unusual; extreme
+k	비섯하다	biseothada	
+k	비슈케크	bisyukekeu	Bishkek (the capital city…
+k	비스무트	biseumuteu	bismuth
+k	비스트로	biseuteuro	
+k	비슥하다	biseukhada	
+k	비습하다	biseuphada	몸에 살이 지고 습기가 많다
+k	비슷하다	biseuthada	to be similar (but not id…
+k	비어 가든	bieogadeun	
+k	비열하다	biyeolhada	사람의 하는 짓, 태도, 성격이 천하고 보잘것…
+k	비오는 날	bioneunnal	
+k	비육불포	biyukbulpo	고기를 먹지 아니하면 배가 부르지 아니하다는 …
+k	비육지탄	biyukjitan	
+k	비익연리	biigyeolli	부부사이의 화목함을 비유하는 말.
+k	비인간화	biinganhwa	
+k	비인도적	biindojeok	inhumane
+k	비장하다	bijanghada	몸집이 크고 힘이 세다.
+k	비죽대다	bijukdaeda	'비죽거리다'.
+k	비참하다	bichamhada	miserable, tragic, woeful…
+k	비축하다	bichukhada	to stockpile, to store up…
+k	비치사커	bichisakeo	
+k	비콜 반도	bikolbando	
+k	비콜어군	bikoreogun	
+k	비탈면	bitalmyeon	'경사면'.
+k	비트 뿌리	biteuppuri	
+k	비평가	bipyeongga	a critic; reviewer
+k	비표준어	bipyojuneo	표준어가 아닌 말.
+k	비행대	bihaengdae	
+k	빅토리아호	biktoriaho	
+k	빈곤하다	bingonhada	to be poor
+k	빈말하다	binmalhada	쓸데없고 뜻이 없는 말을 하다.
+k	빈발하다	binbalhada	
+k	빈번한	binbeonhan	
+k	빈약하다	binyakhada	
+k	빈핍하다	binpiphada	
+k	빌리루빈	billirubin	
+k	빌보르데	bilboreude	
+k	빙그르	binggeureu	
+k	빙끗이	bingkkeusi	
+k	빙식곡	bingsikgok	
+k	빙점하	bingjeomha	
+k	빙주석	bingjuseok	종유석.
+k	빙초산	bingchosan	
+k	빙탄간	bingtangan	얼음과 숯의 사이. 다시 말해 서로 어울리지 …
+k	빙판길	bingpangil	
+e	bicephalous	bicephalous	1 meaning
+e	bicol region	bicolregion	1 meaning
+e	bicycle kick	bicyclekick	1 meaning
+e	bicycle lane	bicyclelane	1 meaning
+e	bifurcation	bifurcation	1 meaning
+e	bighead carp	bigheadcarp	1 meaning
+e	billionaire	billionaire	1 meaning
+e	binimetinib	binimetinib	1 meaning
+e	biocentrism	biocentrism	1 meaning
+e	biomolecule	biomolecule	1 meaning
+e	bioresource	bioresource	1 meaning
+e	birch bolete	birchbolete	1 meaning
+e	birdcatcher	birdcatcher	1 meaning
+e	birdwatcher	birdwatcher	1 meaning
+e	birobidzhan	birobidzhan	1 meaning
+e	bisexuality	bisexuality	1 meaning
+e	biting midge	bitingmidge	1 meaning
+e	bitter melon	bittermelon	2 meanings
+e	bittercress	bittercress	1 meaning
+e	bittersweet	bittersweet	2 meanings
+j	びくっとする	bikuttosuru	
+j	びた一文	bitaichimon	
+j	びっくりする	bikkurisuru	
+j	びっくりばこ	bikkuribako	蓋を開けると中にはいっている物が飛び出し、開けた人…
+j	びっくりみず	bikkurimizu	麺類などを茹でる際に途中で差す水。
+j	びっくりマーク	bikkurimaku	吃驚マーク: an exclamation mark
+j	びっくり箱	bikkuribako	
+j	ビカーラウナギ	bikaraunagi	バイカラウナギの別称。
+j	ビサヤ諸島	bisayashoto	Visayas
+j	ビザンチウム	bizanchiumu	東ローマ帝国（395年~1453年）の首都。現在の…
+j	ビジネスマン	bijinesuman	何かの事業を営む人。実業家。
+j	ビジネス誌	bijinesushi	ビジネスに関するニュースを中心に伝える雑誌。ビジネ…
+j	ビスタ・サイズ	bisutasaizu	
+j	ビックリマーク	bikkurimaku	吃驚マーク: an exclamation mark
+j	ビッグエンディアン	bigguendian	複数バイトのデータを、最上位のバイトから順に格納す…
+j	ビッグスクーター	biggusukuta	乗り物の一種。大型の自動二輪車。250cc以上のス…
+j	ビッグ・アップル	bigguappuru	
+j	ビデオカメラ	bideokamera	video camera
+j	ビデオグラム	bideoguramu	
+j	ビデオソフト	bideosofuto	
+j	ビデオチャット	bideochatto	
+j	ビニールハウス	biniruhausu	鉄製パイプなどを等間隔に建てプラスチック（ビニール…
+j	ビフォアコロナ	bifoakorona	
+j	ビリャンシーコ	biryanshiko	
+j	ビルマゴウカン	birumagokan	
+j	ビートボックス	bitobokkusu	beatbox
+j	ビートルマニア	bitorumania	
+j	備蓄する	bichikusuru	
+j	吃驚マーク	bikkurimaku	an exclamation mark
+j	毘沙門天	bishamonten	the Japanese name for the…
+j	美少女ゲーム	bishojogemu	
+j	美術学	bijutsugaku	美術に関連する学問的な研究の総称。
+j	美食学	bishokugaku	
+j	貧乏削り	binbokezuri	鉛筆を両側から削って使うこと。
+j	鐚一文	bitaichimon	金属の質が悪い一文銭。
+j	鼻出血	bishukketsu	鼻から出血すること。鼻血。
+k	비거니즘	bigeonijeum	
+k	비근대다	bigeundaeda	'비근거리다'.
+k	비누받침	binubatchim	
+k	비누질하다	binujilhada	
+k	비눗방울	binutbangul	soap bubble
+k	비닐봉지	binilbongji	plastic bag
+k	비닐봉투	binilbongtu	plastic bag
+k	비닐하우스	binilhauseu	
+k	비데오필림	bideopillim	videotape
+k	비둘기고기	bidulgigogi	
+k	비둘기색	bidulgisaek	
+k	비둘기자리	bidulgijari	
+k	비둘기콩	bidulgikong	pigeon pea
+k	비등점	bideungjeom	
+k	비등하다	bideunghada	
+k	비디오 게이머	bidiogeimeo	
+k	비디오 카메라	bidiokamera	
+k	비디오테이프	bidioteipeu	videotape
+k	비딱대다	bittakdaeda	'비딱거리다'.
+k	비량하다	biryanghada	
+k	비례하는	biryehaneun	
+k	비로자나불	birojanabul	
+k	비밀번호	bimilbeonho	password
+k	비밀보장	bimilbojang	질병이나 노령, 근로 능력의 상실 따위로 생활…
+k	비상 사태	bisangsatae	
+k	비상사태	bisangsatae	emergency, state of emerg…
+k	비슈께크	bisyukkekeu	키르기스스탄의 수도 이름 '비슈케크'의 북한말.
+k	비스듬히	biseudeumhi	무엇이 똑바르지 않고 옆으로 기울어서.
+k	비스케이 만	biseukeiman	
+k	비스케이만	biseukeiman	
+k	비슥대다	biseukdaeda	'비슥거리다'.
+k	비슬대다	biseuldaeda	'비슬거리다'.
+k	비윤리적	biyunrijeok	
+k	비인간적	biinganjeok	인간적이지 않은.
+k	비적성	bijeokseong	
+k	비정상	bijeongsang	정상적이지 않은 것.
+k	비정하다	bijeonghada	
+k	비종교자	bijonggyoja	
+k	비쭉대다	bijjukdaeda	'비쭉거리다'.
+k	비천상	bicheonsang	
+k	비천하다	bicheonhada	지위나 신분이 낮고 천하다.
+k	비출혈	bichulhyeol	
+k	비칠대다	bichildaeda	'비칠거리다'.
+k	비콜 지방	bikoljibang	
+k	비텝스크	bitepseukeu	
+k	비트레이트	biteureiteu	
+k	비트박스	biteubakseu	beatbox
+k	비틀대다	biteuldaeda	to stagger, to falter, to…
+k	비틀마니아	biteulmania	
+k	비폭력	bipongnyeok	nonviolence
+k	비행선	bihaengseon	dirigible, airship, blimp
+k	비행장	bihaengjang	aerodrome; aifield; airst…
+k	비행하다	bihaenghada	
+k	빈개념	bingaenyeom	
+k	빈계사신	bingyesasin	
+k	빈광대	bingwangdae	
+k	빈궁하다	bingunghada	
+k	빈뇨증	binnyojeung	
+k	빈대떡	bindaetteok	bindaetteok; A Korean pan…
+k	빈번하다	binbeonhada	무엇이 일어나는 횟수가 잦다.
+k	빈축하다	binchukhada	
+k	빈트후크	binteuhukeu	Windhoek (the capital cit…
+k	빌레브룩	billebeuruk	
+k	빌려주다	billyeojuda	
+k	빙기옥골	binggiokgol	
+k	빙심옥호	bingsimokho	
+k	빙싯하다	bingsithada	
+k	빙자옥질	bingjaokjil	
+k	빙퇴석	bingtoeseok	moraine
+k	빙하시대	binghasidae	
+k	빚지고 있다	bitjigoitda	
+e	biblical blue	biblicalblue	1 meaning
+e	bibliography	bibliography	3 meanings
+e	bibliomaniac	bibliomaniac	1 meaning
+e	bicameralism	bicameralism	1 meaning
+e	bicentennial	bicentennial	1 meaning
+e	bidding price	biddingprice	1 meaning
+e	bide one's time	bideonestime	1 meaning
+e	biliary tract	biliarytract	1 meaning
+e	bill of lading	billoflading	1 meaning
+e	bill of rights	billofrights	1 meaning
+e	billiard ball	billiardball	1 meaning
+e	binary number	binarynumber	1 meaning
+e	binary system	binarysystem	1 meaning
+e	biochemistry	biochemistry	1 meaning
+e	biodiversity	biodiversity	1 meaning
+e	biogeography	biogeography	1 meaning
+e	biographical	biographical	1 meaning
+e	biomechanics	biomechanics	1 meaning
+e	biosemantics	biosemantics	1 meaning
+e	bird's-eye view	birdseyeview	1 meaning
+e	birdwatching	birdwatching	1 meaning
+e	birth control	birthcontrol	1 meaning
+e	birthday cake	birthdaycake	1 meaning
+e	birthday card	birthdaycard	1 meaning
+e	birthday suit	birthdaysuit	1 meaning
+e	bitter almond	bitteralmond	1 meaning
+j	びっくりした	bikkurishita	
+j	ビオラ・ダ・ガンバ	bioradaganba	16世紀から18世紀のヨーロッパで使われていた地面…
+j	ビション・フリーゼ	bishonfurize	
+j	ビジネスウーマン	bijinesuuman	女性のビジネスマン。
+j	ビットバケツ	bittobaketsu	
+j	ビデオカセット	bideokasetto	
+j	ビデオクリップ	bideokurippu	「プロモーションビデオ」を参照。
+j	ビデオテックス	bideotekkusu	videotex
+j	ビドゴシュチ	bidogoshuchi	
+j	ビニールレコード	binirurekodo	a vinyl record (LP)
+j	ビニール袋	binirubukuro	plastic bag
+j	ビバリーヒルズ	bibarihiruzu	Beverly Hills
+j	ビバリー・ヒルズ	bibarihiruzu	
+j	ビラートナガル	biratonagaru	
+j	ビリヤードボール	biriyadoboru	
+j	ビーチサンダル	bichisandaru	flip-flop (footwear)
+j	ビー・エム・ダブリュー	biemudaburyu	
+j	ブィドゴシュチュ	bidogoshuchu	
+j	微分積分	bibunsekibun	微分と積分。
+j	微調整する	bichoseisuru	
+j	眉毛下制筋	bimokaseikin	a depressor supercilii
+j	美人薄命	bijinhakumei	beauty and long life seld…
+j	美術学校	bijutsugakko	美術や工芸に関する専門教育を行う学校。美校。
+j	美食術	bishokujutsu	
+k	비과학적	bigwahakjeok	
+k	비관적인	bigwanjeokin	
+k	비금비금	bigeumbigeum	equally matched, nip and …
+k	비누칠하다	binuchilhada	
+k	비단 주머니	bidanjumeoni	bag of tricks; cunning ma…
+k	비단마모셋	bidanmamoset	common marmoset
+k	비단털쥐	bidanteoljwi	The greater long-tailed h…
+k	비도덕적	bidodeokjeok	
+k	비디오 카세트	bidiokaseteu	
+k	비디오 클립	bidiokeullip	
+k	비뚤어지다	bittureojida	become crooked; distort
+k	비랏나가르	birannagareu	
+k	비리비리하다	biribirihada	
+k	비밀결사	bimilgyeolsa	secret society
+k	비발산고도	bibalsangodo	수렴•발산이 없는 고도.
+k	비범죄화	bibeomjoehwa	
+k	비상계단	bisanggyedan	
+k	비상출구	bisangchulgu	emergency exit
+k	비선형	biseonhyeong	
+k	비슷비슷	biseutbiseut	여럿이 다 거의 같은 모양.
+k	비슷한말	biseuthanmal	
+k	비쓸대다	bisseuldaeda	'비쓸거리다'.
+k	비엔나 소시지	biennasosiji	
+k	비올리스트	biolliseuteu	
+k	비위난정	biwinanjeong	
+k	비이성적	biiseongjeok	
+k	비정되다	bijeongdoeda	
+k	비주얼 노벨	bijueolnobel	visual novel (mainly Japa…
+k	비주얼노벨	bijueollobel	
+k	비죽거리다	bijukgeorida	비웃거나 언짢거나 울려고 할 때 소리 없이 입…
+k	비척대다	bicheokdaeda	'비치적대다'의 준말.
+k	비쳅스크	bichepseukeu	
+k	비콜라노 족	bikollanojok	
+k	비평하다	bipyeonghada	어떤 소재에 대해 평가를 말하다.
+k	비행기표	bihaenggipyo	airplane ticket
+k	비행정	bihaengjeong	
+k	빈둥대다	bindungdaeda	'빈둥거리다'.
+k	빈들대다	bindeuldaeda	'빈들거리다'.
+k	빈민층	binmincheung	
+k	빈자일등	binjaildeung	
+k	빈지워칭	binjiwoching	binge watching
+k	빈털터리	binteolteori	
+k	빌어먹을	bireomeogeul	damn it!; shit!
+k	빗장뼈	bitjangppyeo	clavicle, collarbone (bon…
+k	빙긋하다	binggeuthada	
+k	빙빙하다	bingbinghada	
+k	빙상관	bingsanggwan	skating rink; hockey rink
+k	빙설기후	bingseolgihu	
+k	빙시레하다	bingsirehada	
+k	빙식단구	bingsikdangu	
+k	빙실대다	bingsildaeda	'빙실거리다'.
+k	빙싯대다	bingsitdaeda	'빙싯거리다'.
+k	빙탄지간	bingtanjigan	(한자성어) 얼음과 숯의 사이. 얼음과 숯이 …
+k	빙탕후루	bingtanghuru	
+k	빙하계류	binghagyeryu	
+k	빛 현상	bithyeonsang	
+k	빛이 있으라	bichiisseura	
+e	biceps brachii	bicepsbrachii	1 meaning
+e	biceps femoris	bicepsfemoris	1 meaning
+e	biconditional	biconditional	1 meaning
+e	bidirectional	bidirectional	1 meaning
+e	bildungsroman	bildungsroman	1 meaning
+e	biliary sludge	biliarysludge	1 meaning
+e	billiard table	billiardtable	1 meaning
+e	binge watching	bingewatching	1 meaning
+e	bioaccumulate	bioaccumulate	1 meaning
+e	biostatistics	biostatistics	1 meaning
+e	biotechnology	biotechnology	1 meaning
+e	bird's nest soup	birdsnestsoup	1 meaning
+e	birefringence	birefringence	1 meaning
+e	birthday party	birthdayparty	1 meaning
+j	びんぞこめがね	binzokomegane	"bottle-bottom glasses": …
+j	びんながまぐろ	binnagamaguro	スズキ目サバ科の海水魚。全長約1メートル。胸びれが…
+j	ビギナーズラック	biginazurakku	beginner's luck
+j	ビジネスパーソン	bijinesupason	「ビジネスマン」の性中立的な表現。
+j	ビジネスライク	bijinesuraiku	事務的。
+j	ビジュアルノベル	bijuarunoberu	a visual novel
+j	ビターチョコレート	bitachokoreto	砂糖やミルクが少なく苦みの強いチョコレート。
+j	ビッグクランチ	biggukuranchi	宇宙の終焉についての仮説の一つ。宇宙は今後膨張から…
+j	ビニメチニブ	binimechinibu	
+j	ビブリオグラフィ	biburiogurafi	書誌学または、書誌。
+j	ビロード革命	birodokakumei	
+j	ビワコオオナマズ	biwakoonamazu	琵琶湖水系固有のナマズの一種。滋賀弁ではおおなまず…
+j	ビンエツタヌキ	binetsutanuki	大陸産タヌキの基亜種。学名は Nyctereute…
+j	微分幾何学	bibunkikagaku	differential geometry
+j	微積分学	bisekibungaku	calculus, infinitesimal c…
+j	美術品商	bijutsuhinsho	the business of selling a…
+j	美術学部	bijutsugakubu	絵画、彫刻などの美術を教授・研究する学部。
+j	美術室	bijutsushitsu	学校での美術の授業や作品の制作ができる設備がある部…
+j	鼻孔開大筋	bikokaidaikin	a dilator naris
+j	鼻形成術	bikeiseijutsu	rhinoplasty
+k	비격식체	bigyeoksikche	the Korean informal speec…
+k	비공식적	bigongsikjeok	
+k	비교언어학	bigyoeoneohak	
+k	비근거리다	bigeungeorida	물건의 사개가 느즈러져 이리저리 흔들거리다.
+k	비드고슈치	bideugosyuchi	
+k	비딱거리다	bittakgeorida	물체가 비스듬하게 이쪽저쪽으로 자꾸 기울어지다.
+k	비뚜름하다	bittureumhada	조금 비뚤다.
+k	비례대표제	biryedaepyoje	
+k	비리쩍하다	birijjeokhada	냄새나 맛이 개운하지 못하고 비린 듯하다.
+k	비무장 지대	bimujangjidae	
+k	비무장지대	bimujangjidae	
+k	비문법적	bimunbeopjeok	
+k	비비적대다	bibijeokdaeda	'비비적거리다'.
+k	비스듬하다	biseudeumhada	수평이나 수직이 되지 아니하고 한쪽으로 기운 …
+k	비스름하다	biseureumhada	('…과'가 나타나지 않을 때는 여럿임을 뜻하…
+k	비슥거리다	biseukgeorida	어떠한 일에 대하여 탐탁히 여기지 아니하고 자…
+k	비슬거리다	biseulgeorida	힘없이 자꾸 비틀거리다.
+k	비아냥대다	bianyangdaeda	'비아냥거리다'.
+k	비아위스토크	biawiseutokeu	
+k	비엠더블유	biemdeobeuryu	
+k	비올론첼로	biollonchello	
+k	비위생적	biwisaengjeok	
+k	비일비재하다	biilbijaehada	
+k	비자동성	bijadongseong	
+k	비정부 기구	bijeongbugigu	
+k	비쭉거리다	bijjukgeorida	비웃거나 언짢거나 울려고 할 때 소리 없이 입…
+k	비치발리볼	bichiballibol	beach volleyball
+k	비칠거리다	bichilgeorida	몸을 바로 가누지 못하고 쓰러질 듯이 이리저리…
+k	비틀거리다	biteulgeorida	to stumble; to stagger
+k	비틀배틀	biteulbaeteul	
+k	비판적 사고	bipanjeoksago	
+k	비행구름	bihaenggureum	항공기가 한랭하고 습한 하늘을 날 때 그 뒤에…
+k	비행접시	bihaengjeopsi	
+k	비현실감	bihyeonsilgam	
+k	빈칸채우기	binkanchaeugi	
+k	빈혈증	binhyeoljeung	
+k	빌라스푸르	billaseupureu	
+k	빙결고도	binggyeolgodo	기온이 0℃가 되는 고도.
+k	빙그레하다	binggeurehada	
+k	빙그르르	binggeureureu	몸이나 물건 따위가 넓게 한 바퀴 도는 모양.
+k	빙글대다	binggeuldaeda	'빙글거리다'.
+k	빙긋대다	binggeutdaeda	'빙긋거리다'.
+k	빙끗하다	bingkkeuthada	
+k	빙빙대다	bingbingdaeda	'빙빙거리다'.
+k	빙상호케이	bingsanghokei	'아이스하키'의 북한말.
+k	빙식윤회	bingsigyunhoe	
+k	빙정석	bingjeongseok	
+k	빙정설	bingjeongseol	과냉각된 구름 알갱이의 평형수증기압이 얼음의 …
+k	빙정점	bingjeongjeom	
+k	빙정핵	bingjeonghaek	빙정이 만들어 질 때 중심이 되는 고체의 작은…
+e	bicol peninsula	bicolpeninsula	1 meaning
+e	binary operator	binaryoperator	1 meaning
+e	binary relation	binaryrelation	1 meaning
+e	bioinformatics	bioinformatics	1 meaning
+e	bird of paradise	birdofparadise	2 meanings
+j	びくともしない	bikutomoshinai	
+j	ビジネスクラス	bijinesukurasu	business class
+j	ビジネスチャンス	bijinesuchansu	business opportunity
+j	ビジネスホテル	bijinesuhoteru	a cheap, conveniently loc…
+j	ビジネスモデル	bijinesumoderu	企業が多くの利益を上げるための手法。
+j	ビタミン過剰症	bitaminkajosho	hypervitaminosis
+j	ビルマネムノキ	birumanemunoki	
+j	天鵞絨金黒	biroudokinkuro	
+j	微生物学	biseibutsugaku	microbiology
+j	美人コンテスト	bijinkontesuto	a beauty pageant
+j	美術大学	bijutsudaigaku	art university
+j	美術学者	bijutsugakusha	美術学を研究する科学者。
+k	비공개 합의	bigonggaehabui	
+k	비굴스럽다	bigulseureopda	
+k	비금속원소	bigeumsokwonso	
+k	비까비까하다	bikkabikkahada	번쩍번쩍하다.
+k	비늘껍질	bineulkkeopjil	
+k	비둘기조롱이	bidulgijorongi	The Amur falcon, Falco am…
+k	비례적 유추	bilyejeogyuchu	
+k	비밀스럽다	bimilseureopda	to be secret, to be secre…
+k	비발산층	bibalsancheung	
+k	비쓸거리다	bisseulgeorida	힘없이 자꾸 비틀거리다.
+k	비엘스코비아와	bielseukobiawa	폴란드 남쪽에 위치한 도시.
+k	비육불포하다	biyukbulpohada	늙은이가 쇠약해진 지경에 있다. 고기를 먹지 …
+k	비잔티움 제국	bijantiumjeguk	Byzantine Empire (an anci…
+k	비즈니스맨	bijeuniseumaen	
+k	비척거리다	bicheokgeorida	'비치적거리다'의 준말.
+k	비치적대다	bichijeokdaeda	'비치적거리다'.
+k	비프스테이크	bipeuseuteikeu	
+k	비행기 모드	bihaenggimodeu	
+k	비현실적	bihyeonsiljeok	
+k	빈곤망상	bingonmangsang	
+k	빈둥거리다	bindunggeorida	아무 일도 하지 아니하고 자꾸 게으름을 피우며…
+k	빈들거리다	bindeulgeorida	부끄러운 줄 모르고 게으름을 피우며 뻔뻔스럽게…
+k	빈영양호	binyeongyangho	물속의 영양 염류 농도가 낮아서 생물 생산력이…
+k	빙끗대다	bingkkeutdaeda	'빙끗거리다'.
+k	빙산의 일각	bingsanuiilgak	tip of the iceberg
+k	빙상돛배	bingsangdotbae	'빙상요트'의 북한말.
+k	빙상무용	bingsangmuyong	figure ice skating
+k	빙실거리다	bingsilgeorida	슬며시 입을 벌릴 듯하면서 소리 없이 부드럽고…
+k	빙실빙실	bingsilbingsil	
+k	빙싯거리다	bingsitgeorida	입을 슬며시 벌릴 듯하면서 소리 없이 거볍고 …
+k	빙싯빙싯	bingsitbingsit	
+k	빙장어른	bingjangeoreun	다른 사람의 장인을 높여 부르는 말.
+k	빙정안개	bingjeongangae	주로 빙정으로 되어 있는 안개.
+k	빙충맞다	bingchungmatda	
+k	빙하지형	binghajihyeong	
+k	빛굽힘성	bitguphimseong	'굴광성'의 북한말.
+k	빛을 발하다	bicheulbalhada	to turn out to be useful;…
+e	bill of materials	billofmaterials	1 meaning
+e	binary operation	binaryoperation	1 meaning
+e	binocular vision	binocularvision	1 meaning
+e	bioaccumulation	bioaccumulation	1 meaning
+e	biological clock	biologicalclock	1 meaning
+e	bioluminescence	bioluminescence	1 meaning
+e	bipolar disorder	bipolardisorder	1 meaning
+e	birds of a feather	birdsofafeather	1 meaning
+j	ビクトリア朝の	bikutoriachouno	
+j	ビザンツ帝国	bizantsuteikoku	東ローマ帝国の別名。
+j	ビザンティン帝国	bizantinteikoku	Byzantine Empire (an anci…
+j	ビワヨシノボリ	biwayoshinobori	よしのぼりの一種。学名は Rhinogobius …
+j	ビートボックスする	bitobokkususuru	
+j	微分方程式	bibunhoteishiki	differential equation
+j	貧乏にする人	binbonisuruhito	
+k	비결정론	bigyeoljeongnon	
+k	비늘껍데기	bineulkkeopdegi	
+k	비디오 게임 콘솔	bidiogeimkonsol	
+k	비밀경찰	bimilgyeongchal	
+k	비비적거리다	bibijeokgeorida	('…과'가 나타나지 않을 때는 여럿임을 뜻하…
+k	비빔냉면	bibimnaengmyeon	차가운 육수 대신 양념장을 넣어 비벼먹는 냉면…
+k	비상식량	bisangsingnyang	뜻밖의 긴급한 사태가 일어났을 때에 쓰기 위하…
+k	비상장 주식	bisangjangjusik	private equity, OTC stock…
+k	비아냥거리다	bianyanggeorida	얄밉게 빈정거리며 자꾸 놀리다.
+k	비영리 단체	biyeongnidanche	
+k	비영리단체	biyeongnidanche	non-profit organization
+k	비인칭 동사	biinchingdongsa	
+k	비트박스하다	biteubakseuhada	
+k	비행기구름	bihaenggigureum	
+k	빙공영사	binggongyeongsa	
+k	빙글거리다	binggeulgeorida	입을 조금 벌리고 소리 없이 귀엽고 보드랍게 …
+k	빙긋거리다	binggeutgeorida	입을 슬쩍 벌릴 듯하면서 소리 없이 거볍게 자…
+k	빙빙거리다	bingbinggeorida	약간 넓은 일정한 범위를 자꾸 돌다.
+k	빙정구름	bingjeonggureum	대기의 온도가 0℃ 이하일 때 대기 속에 생기…
+k	빙정효과	bingjeonghyogwa	구름 속에 과냉각된 물방울로 된 구름방울과 빙…
+e	binary arithmetic	binaryarithmetic	1 meaning
+e	birth certificate	birthcertificate	1 meaning
+e	bisexual lighting	bisexuallighting	1 meaning
+j	びっくりおいたちこ	bikkurioitachiko	とてもびっくりしたという無駄口。
+j	ビアフラ共和国	biafurakyowakoku	1967年から1970年までナイジェリア南東部に存…
+j	ビザンチン帝国	bizanchinteikoku	東ローマ帝国のこと。
+j	ビルドゥングスロマーン	birudunguzuroman	
+j	ビーフストロガノフ	bifusutoroganofu	
+j	微分積分学	bibunsekibungaku	多変数実数値関数の微分と積分に関わる事柄を扱う学問…
+j	美術高等学校	bijutsukotogakko	美術に関する課程を設置する高等学校。美高。
+k	비너노이슈타트	bineonoisyutateu	
+k	비단털들쥐	bidanteoldeuljwi	The royal vole, Eothenomy…
+k	비방한 위하여	bibanghanwihayeo	
+k	비위난정하다	biwinanjeonghada	
+k	비치적거리다	bichijeokgeorida	몸을 한쪽으로 약간 비틀거리거나 가볍게 절룩거…
+k	비할 데가 없는	bihaldegaeomneun	
+k	빙글빙글	binggeulbinggeul	going round and round
+k	빙긋빙긋	binggeutbinggeut	
+k	빙끗거리다	bingkkeutgeorida	입을 슬쩍 벌릴 듯하면서 소리 없이 거볍게 자…
+k	빙상경기	bingsanggyeonggi	
+k	빙정옥결	bingjeongokgyeol	
+e	biangbiang noodles	biangbiangnoodles	1 meaning
+j	ビジネスアナリスト	bijinesuanarisuto	
+j	ビタミン欠乏症	bitaminketsubosho	
+j	微生物学者	biseibutsugakusha	微生物学を研究する科学者。
+j	鼻中隔下制筋	bichukakukaseikin	a depressor septi nasi
+k	비단열과정	bidanyeolgwajeong	대기의 상승•하강과정에서 가열이 있거나, 또는…
+k	비단열변화	bidanyeolbyeonhwa	어떤 경계 사이에 열의 교환이 있을 때의 열역…
+k	비선형성	biseonhyeongseong	
+k	빈센트 반 고흐	binsenteubangoheu	
+k	빙그르르하다	binggeureureuhada	
+k	빙벽등반	bingbyeokdeungban	
+k	빙하성층	binghaseongcheung	
+k	빛 좋은 개살구	bitjoteungaesalgu	겉으로 보기에는 먹음직스러운 개살구는 시고 떫…
+j	ビデオカセットレコーダー	bideokasettorekoda	
+j	微分方程式論	bibunhoteishikiron	関数方程式論のうち、微分方程式を扱う分野。
+k	비금속광택	bigeumsokgwangtaek	금속 이외의 물질에서 나는 광택. 금강석, 유…
+k	비까번쩍하다	bikkabeonjjeokhada	번쩍번쩍하다.
+k	비엘라지오르스크	biellajioreuseukeu	
+k	비행기관측	bihaenggigwancheuk	항공기의 기체에 장비된 기상측기나 항공기에서 …
+k	비활동전선	bihwaldongjeonseon	구름이나 강수를 거의 동반하지 아니하는 전선.…
+k	빈 수레가 요란하다	binsuregayoranhada	empty vessels make the mo…
+k	빙끗빙끗	bingkkeutbingkkeut	
+k	빙실빙실하다	bingsilbingsilhada	
+k	빙싯빙싯하다	bingsitbingsithada	
+e	binge eating disorder	bingeeatingdisorder	1 meaning
+e	biodiversity hotspot	biodiversityhotspot	1 meaning
+e	bishnupriya manipuri	bishnupriyamanipuri	1 meaning
+j	ビジネスインテリジェンス	bijinesuinterijensu	
+j	ビルトインスタビライザー	birutoinsutabiraiza	自動安定化装置と訳され、財政が景気を自動的に安定化…
+j	ビールを二つください	biruofutatsukudasai	
+k	비디오카세트 레코더	bidiokaseteurekodeo	
+k	비명횡사하다	bimyeonghoengsahada	
+k	비물질문화유산	bimuljilmunhwayusan	
+k	비행기록장치	bihaenggirokjangchi	flight data recorder
+k	비행장경보	bihaengjanggyeongbo	비행장에 머물러 있는 항공기 및 항공 관련 여…
+e	binomial nomenclature	binomialnomenclature	1 meaning
+j	美人というも皮一重	bijintoiumokawahitoe	
+k	비늘흰발망둑	bineulhuinbalmangduk	A Korean species of goby,…
+k	비단털등줄쥐	bidanteoldeungjuljwi	the Chinese striped hamst…
+k	비유클리드 기하학	biyukeullideugihahak	
+k	비전선 스콜선	bijeonseonseukolseon	
+k	비프스트로가노프	bipeuseuteuroganopeu	
+k	비행정보구역	bihaengjeongboguyeok	비행 중에 있는 항공기에 안전하고 효율적인 운…
+k	빙글빙글하다	binggeulbinggeulhada	
+k	빙긋빙긋하다	binggeutbinggeuthada	
+k	비가 억수같이 내리다	bigaeoksugachinaerida	
+k	비행장 기상예보	bihaengjanggisangyebo	항공기의 이•착륙에 필요한 비행장 내의 예보.
+k	비에르흐니아드빈스크	bierheuniadeubinseukeu	
+k	비행 스파게티 괴물	bihaengseupagetigoemul	
+k	빙끗빙끗하다	bingkkeutbingkkeuthada	
+j	ビシュヌプリヤ・マニプリ語	bishunupuriyamanipurigo	
+j	ビワコガタスジシマドジョウ	biwakogatasujishimadojo	コガタスジシマドジョウの亜種。かつてはスジシマドジ…
+k	비동기 전송 방식	bidonggijeonsongbangsik	
+k	비영리적인 번역	biyeongnijeoginbeonyeok	
+k	비옥한 초승달 지대	biokhanchoseungdaljidae	
+k	비읍 불규칙 활용	bieupbulgyuchikhwaryong	어간의 말음인 'ㅂ'이 '아'나 '아'로 시작…
+k	비 온 뒤에 땅이 굳어진다	biondwiettangigudeojinda	풍파가 있은 후에 일이 더 단단해진다.
+k	비즈니스 애널리스트	bijeuniseuaeneolliseuteu	
+j	ビジュアルプログラミング言語	bijuarupuroguramingugengo	オブジェクトを利用して直感的にプログラムを作成する…
+k	빛나는 것이 모두 금 아니라	binnaneungeosimodugeumanira	
+e	birds of a feather flock together	birdsofafeatherflocktogether	1 meaning
+k	빌어먹을 안내서를 읽으시오	bireomeogeulannaeseoreulilgeusio	

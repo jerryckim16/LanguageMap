@@ -1,0 +1,228 @@
+e	scab	scab	1 meaning
+e	scam	scam	1 meaning
+e	scan	scan	1 meaning
+e	scar	scar	1 meaning
+e	scat	scat	1 meaning
+e	scot	scot	1 meaning
+e	scud	scud	2 meanings
+e	scale	scale	12 meanings
+e	scalp	scalp	1 meaning
+e	scamp	scamp	2 meanings
+e	scare	scare	3 meanings
+e	scarf	scarf	1 meaning
+e	scary	scary	1 meaning
+e	scaup	scaup	1 meaning
+e	scene	scene	2 meanings
+e	scent	scent	7 meanings
+e	schwa	schwa	1 meaning
+e	scion	scion	3 meanings
+e	scold	scold	1 meaning
+e	scone	scone	1 meaning
+e	scoop	scoop	2 meanings
+e	score	score	3 meanings
+e	scorn	scorn	4 meanings
+e	scots	scots	1 meaning
+e	scour	scour	1 meaning
+e	scout	scout	3 meanings
+e	scowl	scowl	2 meanings
+e	scrap	scrap	2 meanings
+e	screw	screw	2 meanings
+e	scrum	scrum	3 meanings
+e	scuba	scuba	1 meaning
+e	scurf	scurf	1 meaning
+e	scute	scute	1 meaning
+e	scalar	scalar	2 meanings
+e	scales	scales	1 meaning
+e	scanty	scanty	1 meaning
+e	scarab	scarab	3 meanings
+e	scarce	scarce	1 meaning
+e	scared	scared	1 meaning
+e	scenic	scenic	1 meaning
+e	schema	schema	1 meaning
+e	scheme	scheme	6 meanings
+e	schism	schism	2 meanings
+e	schist	schist	1 meaning
+e	scholz	scholz	1 meaning
+e	school	school	7 meanings
+e	schuss	schuss	2 meanings
+e	scorch	scorch	1 meaning
+e	scotch	scotch	2 meanings
+e	scoter	scoter	1 meaning
+e	scrape	scrape	1 meaning
+e	scrawl	scrawl	1 meaning
+e	scream	scream	2 meanings
+e	screen	screen	9 meanings
+e	scribe	scribe	2 meanings
+e	script	script	5 meanings
+e	scroll	scroll	2 meanings
+e	scrubs	scrubs	1 meaning
+e	scurvy	scurvy	1 meaning
+e	scylla	scylla	1 meaning
+e	scythe	scythe	1 meaning
+e	scabies	scabies	1 meaning
+e	scallop	scallop	1 meaning
+e	scalpel	scalpel	1 meaning
+e	scalper	scalper	1 meaning
+e	scammer	scammer	1 meaning
+e	scamper	scamper	1 meaning
+e	scandal	scandal	1 meaning
+e	scanner	scanner	4 meanings
+e	scarlet	scarlet	4 meanings
+e	scatter	scatter	4 meanings
+e	scenery	scenery	1 meaning
+e	sceptre	sceptre	1 meaning
+e	schagen	schagen	1 meaning
+e	scheldt	scheldt	1 meaning
+e	scherzo	scherzo	1 meaning
+e	scholar	scholar	3 meanings
+e	schuman	schuman	1 meaning
+e	science	science	4 meanings
+e	scooter	scooter	3 meanings
+e	scorpio	scorpio	1 meaning
+e	scraper	scraper	1 meaning
+e	scrapie	scrapie	1 meaning
+e	scratch	scratch	1 meaning
+e	scrawny	scrawny	1 meaning
+e	screwed	screwed	1 meaning
+e	scrotum	scrotum	1 meaning
+e	scuffle	scuffle	1 meaning
+e	scuttle	scuttle	1 meaning
+e	scythia	scythia	1 meaning
+e	scabbard	scabbard	1 meaning
+e	scaffold	scaffold	2 meanings
+e	scamorza	scamorza	1 meaning
+e	scandium	scandium	1 meaning
+e	scanties	scanties	1 meaning
+e	scaphism	scaphism	1 meaning
+e	scenario	scenario	1 meaning
+e	schedule	schedule	1 meaning
+e	schengen	schengen	1 meaning
+e	schiller	schiller	1 meaning
+e	schizoid	schizoid	2 meanings
+e	schnapps	schnapps	1 meaning
+e	schoolie	schoolie	1 meaning
+e	schooner	schooner	1 meaning
+e	schubert	schubert	1 meaning
+e	schwartz	schwartz	1 meaning
+e	sciatica	sciatica	1 meaning
+e	scimitar	scimitar	1 meaning
+e	scissors	scissors	2 meanings
+e	scornful	scornful	1 meaning
+e	scorpion	scorpion	1 meaning
+e	scorpius	scorpius	1 meaning
+e	scotland	scotland	1 meaning
+e	scotsman	scotsman	1 meaning
+e	scouting	scouting	1 meaning
+e	scramble	scramble	1 meaning
+e	scranton	scranton	1 meaning
+e	screw you	screwyou	1 meaning
+e	scrofula	scrofula	1 meaning
+e	scrutiny	scrutiny	1 meaning
+e	sculptor	sculptor	1 meaning
+e	scythian	scythian	1 meaning
+e	scale tree	scaletree	1 meaning
+e	scamdemic	scamdemic	1 meaning
+e	scapegoat	scapegoat	2 meanings
+e	scarecrow	scarecrow	1 meaning
+e	scatology	scatology	1 meaning
+e	scavenger	scavenger	1 meaning
+e	schilling	schilling	1 meaning
+e	schnitzel	schnitzel	1 meaning
+e	school age	schoolage	1 meaning
+e	school bus	schoolbus	1 meaning
+e	schoolbag	schoolbag	1 meaning
+e	schoolboy	schoolboy	1 meaning
+e	schumaker	schumaker	1 meaning
+e	scientist	scientist	1 meaning
+e	sclerosis	sclerosis	1 meaning
+e	scooby-doo	scoobydoo	1 meaning
+e	scorecard	scorecard	1 meaning
+e	scoundrel	scoundrel	1 meaning
+e	scramasax	scramasax	1 meaning
+e	scrapyard	scrapyard	1 meaning
+e	screwball	screwball	1 meaning
+e	scripture	scripture	2 meanings
+e	scroll bar	scrollbar	1 meaning
+e	scrunchie	scrunchie	1 meaning
+e	sculpture	sculpture	2 meanings
+e	scale model	scalemodel	1 meaning
+e	scanlation	scanlation	1 meaning
+e	scaredy-cat	scaredycat	1 meaning
+e	schaerbeek	schaerbeek	1 meaning
+e	school trip	schooltrip	1 meaning
+e	school year	schoolyear	1 meaning
+e	schoolgirl	schoolgirl	1 meaning
+e	schwannoma	schwannoma	1 meaning
+e	scientific	scientific	1 meaning
+e	scoreboard	scoreboard	1 meaning
+e	screen door	screendoor	1 meaning
+e	screen name	screenname	1 meaning
+e	screenplay	screenplay	1 meaning
+e	screenshot	screenshot	1 meaning
+e	scrutinize	scrutinize	1 meaning
+e	scaffolding	scaffolding	1 meaning
+e	scalability	scalability	1 meaning
+e	scambaiting	scambaiting	1 meaning
+e	scandinavia	scandinavia	1 meaning
+e	schizotypal	schizotypal	1 meaning
+e	scholarship	scholarship	2 meanings
+e	schoolchild	schoolchild	1 meaning
+e	schrödinger's	schrdingers	1 meaning
+e	science room	scienceroom	1 meaning
+e	scientology	scientology	1 meaning
+e	scissor kick	scissorkick	1 meaning
+e	scotch broom	scotchbroom	1 meaning
+e	scotomatous	scotomatous	1 meaning
+e	scream queen	screamqueen	1 meaning
+e	screensaver	screensaver	1 meaning
+e	screwdriver	screwdriver	2 meanings
+e	scriptorium	scriptorium	1 meaning
+e	scroll wheel	scrollwheel	1 meaning
+e	scuba diving	scubadiving	1 meaning
+e	scarlet fever	scarletfever	1 meaning
+e	scatterbrain	scatterbrain	1 meaning
+e	scheherazade	scheherazade	2 meanings
+e	schengen area	schengenarea	1 meaning
+e	scholar's mate	scholarsmate	1 meaning
+e	schoolmaster	schoolmaster	3 meanings
+e	sciatic nerve	sciaticnerve	1 meaning
+e	scimitarbill	scimitarbill	1 meaning
+e	scorched rice	scorchedrice	1 meaning
+e	scorpion kick	scorpionkick	1 meaning
+e	scorpionfish	scorpionfish	1 meaning
+e	scotland yard	scotlandyard	1 meaning
+e	scrambled egg	scrambledegg	1 meaning
+e	screenwriter	screenwriter	1 meaning
+e	scalar product	scalarproduct	1 meaning
+e	scaling ladder	scalingladder	1 meaning
+e	schadenfreude	schadenfreude	1 meaning
+e	schizophrenia	schizophrenia	1 meaning
+e	schläfli symbol	schlflisymbol	1 meaning
+e	scholarliness	scholarliness	1 meaning
+e	scholasticism	scholasticism	1 meaning
+e	school uniform	schooluniform	1 meaning
+e	schutzstaffel	schutzstaffel	1 meaning
+e	science center	sciencecenter	1 meaning
+e	scientologist	scientologist	1 meaning
+e	scorched earth	scorchedearth	1 meaning
+e	screen of death	screenofdeath	1 meaning
+e	scribing block	scribingblock	1 meaning
+e	scatterbrained	scatterbrained	1 meaning
+e	schrödinger's cat	schrdingerscat	1 meaning
+e	schwarzenegger	schwarzenegger	1 meaning
+e	science fantasy	sciencefantasy	1 meaning
+e	science fiction	sciencefiction	1 meaning
+e	scientific name	scientificname	1 meaning
+e	scottish gaelic	scottishgaelic	1 meaning
+e	screen printing	screenprinting	1 meaning
+e	scalene triangle	scalenetriangle	1 meaning
+e	school counselor	schoolcounselor	1 meaning
+e	school of thought	schoolofthought	1 meaning
+e	scarlet pimpernel	scarletpimpernel	1 meaning
+e	scientific method	scientificmethod	1 meaning
+e	schleswig-holstein	schleswigholstein	1 meaning
+e	scandinavian peninsula	scandinavianpeninsula	1 meaning
+e	scanning electron microscope	scanningelectronmicroscope	1 meaning
+e	schizoid personality disorder	schizoidpersonalitydisorder	1 meaning
+e	schizotypal personality disorder	schizotypalpersonalitydisorder	1 meaning
+e	scanning transmission electron microscope	scanningtransmissionelectronmicroscope	1 meaning

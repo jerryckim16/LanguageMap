@@ -9,10 +9,11 @@ vm.createContext(sandbox);
 for (const f of ["../data/words.js", "../data/translations.js", "../js/model.js"]) {
   vm.runInContext(readFileSync(fileURLToPath(new URL(f, import.meta.url)), "utf8"), sandbox);
 }
-const { WORDS, TRANSLATIONS, CATEGORIES } = sandbox.LANGUAGE_MAP_DATA;
+const { WORDS, TRANSLATIONS, CATEGORIES, NO_EQUIVALENT } = sandbox.LANGUAGE_MAP_DATA;
 const model = sandbox.LANGUAGE_MAP_MODEL;
 
 const HANGUL = /^[가-힣]+$/;
+const HANGUL_PHRASE = /^[가-힣]+( [가-힣]+)*$/;
 const KANA = /^[぀-ゟ゠-ヿ]+$/;
 const KINDS = new Set(["translation", "loan", "char"]);
 const ORIGINS = new Set(["native", "sino", "loan"]);
@@ -48,7 +49,7 @@ for (const e of WORDS) {
 const pairs = new Set();
 for (const t of TRANSLATIONS) {
   const err = (m) => errors.push(`translations.js ${t.ko} → ${t.ja}: ${m}`);
-  if (!HANGUL.test(t.ko)) err(`Korean "${t.ko}" is not pure Hangul`);
+  if (!HANGUL_PHRASE.test(t.ko)) err(`Korean "${t.ko}" is not pure Hangul`);
   if (!KANA.test(t.jaKana)) err(`Japanese reading "${t.jaKana}" is not kana`);
   if (!t.koRom || !t.jaRom) err("missing romanization");
   if (!t.en) err("missing English gloss");
@@ -60,6 +61,20 @@ for (const t of TRANSLATIONS) {
   const key = `${t.ko}#${t.sense || ""}→${t.ja}`;
   if (pairs.has(key)) err("duplicate link");
   pairs.add(key);
+}
+
+// Words with no equivalent.
+for (const n of NO_EQUIVALENT) {
+  const err = (m) => errors.push(`NO_EQUIVALENT ${n.word}: ${m}`);
+  if (!["ko", "ja"].includes(n.lang)) err(`lang must be "ko" or "ja"`);
+  if (n.lang === "ko" && !HANGUL_PHRASE.test(n.word)) err("Korean word is not Hangul");
+  if (n.lang === "ja" && !KANA.test(n.kana)) err("Japanese word needs a kana reading");
+  if (!n.rom || !n.en) err("needs romanization and a meaning");
+  for (const c of n.closest || []) {
+    if (n.lang === "ko" && !KANA.test(c.kana || "")) err(`closest ${c.word} needs a kana reading`);
+    if (n.lang === "ja" && !HANGUL_PHRASE.test(c.word)) err(`closest ${c.word} is not Hangul`);
+    if (!c.rom || !c.en) err(`closest ${c.word} needs romanization and a meaning`);
+  }
 }
 
 // One written Japanese word should always have the same reading.
@@ -82,5 +97,6 @@ if (errors.length) {
 }
 const types = {};
 for (const c of model.comps) types[c.type] = (types[c.type] || 0) + 1;
+console.log(`No-equivalent words: ${NO_EQUIVALENT.length}`);
 console.log(`OK: ${model.koWords.size} Korean words, ${model.jaWords.size} Japanese words, ${model.links.length} links, ${model.chars.size} characters.`);
 console.log(`Mappings: ${Object.entries(types).map(([k, v]) => `${k} ×${v}`).join(", ")}`);

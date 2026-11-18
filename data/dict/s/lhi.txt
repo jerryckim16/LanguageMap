@@ -1,0 +1,3440 @@
+e	hi	hi	1 meaning
+j	ひ	hi	indeed, truly
+j	ヒ	hi	Twitter
+j	丕	hi	an orthographic borrowing…
+j	卑	hi	ある電極の電極電位が相手となる電極や基準となる電位…
+j	否	hi	no
+j	比	hi	a ratio
+j	火	hi	a flame
+j	目翳	hi	cataracts: cloudy aberrat…
+j	碑	hi	stone engraved with memor…
+j	緋	hi	scarlet
+j	被	hi	-ed, -ee (marks the passi…
+j	費	hi	cost, fee
+j	郫	hi	
+j	非	hi	negative prefix: in-, non…
+j	飛	hi	fly, flying
+k	히	hi	Conveys a nervous laughte…
+e	hip	hip	1 meaning
+e	his	his	1 meaning
+e	hit	hit	7 meanings
+e	hiv	hiv	1 meaning
+j	ひい	hii	ひとつ。いち。
+j	ひえ	hie	「ひえる」の未然形及び連用形。
+j	ひん	hin	
+j	秘奥	hio	物事の奥底。
+j	稗	hie	Japanese barnyard millet …
+j	緋衣	hii	緋色の衣。赤い衣服。
+j	貧	hin	(ひん) 貧しいこと。貧乏。
+j	非違	hii	法令に違反すること。また、その行為。違法。
+k	힐	hil	high heels
+k	힘	him	strength; power
+e	hick	hick	1 meaning
+e	hida	hida	1 meaning
+e	hide	hide	3 meanings
+e	hifu	hifu	1 meaning
+e	high	high	2 meanings
+e	hiji	hiji	1 meaning
+e	hike	hike	4 meanings
+e	hill	hill	5 meanings
+e	hilt	hilt	1 meaning
+e	hind	hind	1 meaning
+e	hint	hint	2 meanings
+e	hire	hire	2 meanings
+e	hiss	hiss	2 meanings
+j	ひいる	hiru	moth
+j	ひおおい	hioi	fixture that blocks sunli…
+j	ひか	hika	悲歌
+j	ひき	hiki	ひくこと。「ひく」の連用形名詞化。
+j	ひく	hiku	（原義）ものを自分の方向へ動かす。
+j	ひげ	hige	facial hair on the upper …
+j	ひこ	hiko	a prince
+j	ひこお	hiko	彦男: a male given name
+j	ひご	higo	thin strip of bamboo
+j	ひざ	hiza	下腿と大腿が接するところの関節およびその付近。主に…
+j	ひじ	hiji	前腕と上腕が接するところの関節、およびその周辺。
+j	ひじゅう	hiju	比重: specific gravity; rel…
+j	ひじょう	hijo	
+j	ひた	hita	（名詞、動詞の前に付き）一途に。まったく。直ちに。
+j	ひだ	hida	衣服や布地などの折り目の部分。
+j	ひで	hide	樹脂分の多い松の根株。
+j	ひと	hito	（生物としては多く「ヒト」と表記）人類。現生人。学…
+j	ひな	hina	生まれたばかりの鳥。ひよこ。
+j	ひば	hiba	干した葉のこと。
+j	ひひ	hihi	the sound of an animal
+j	ひび	hibi	皹, 皸, 胼: a crack in one's…
+j	ひふ	hifu	
+j	ひぼう	hibo	
+j	ひま	hima	時間、あいだ。
+j	ひめ	hime	女子の美称。
+j	ひも	himo	繊維を束ねて細長くした、糸より太く縄より細いもの。…
+j	ひや	hiya	cold drinking water
+j	ひゆ	hiyu	ナデシコ目ヒユ科ヒユ属に属する一年草の一種。学名:…
+j	ひら	hira	平らなこと。
+j	ひる	hiru	嚔る: to sneeze
+j	ひれ	hire	魚類と水生の哺乳類が泳ぐために持つ膜状の器官。胸鰭…
+j	ひろ	hiro	尺貫法の長さの単位。大人が手を広げた長さで、主に漁…
+j	ひろう	hiro	落ちている物を、つかみ上げて持つ。
+j	ひろお	hiro	洋雄, 浩郎, 寛雄, 宏雄, 展生: a mal…
+j	ヒゲ	hige	
+j	ヒス	hisu	「ヒステリー」の略。
+j	ヒト	hito	「ひと」の学術的表記、主に種としての人類（Homo…
+j	ヒヒ	hihi	サル目オナガザル科オナガザル亜科ヒヒ属に属する霊長…
+j	ヒラ	hira	ニシン目ニシン科の海水魚。南日本沖からインド洋にか…
+j	ヒル	hiru	丘。
+j	ヒレ	hire	fillet, filet (boneless c…
+j	ヒワ	hiwa	スズメ目アトリ科ヒワ亜科の鳥類の総称。
+j	ヒース	hisu	ツツジ科エリカ属、ギョリュウモドキ属などの低木の総…
+j	ヒーター	hita	heater (device that produ…
+j	ヒート	hito	暑熱。高温。熱気。
+j	ヒーハー	hiha	
+j	ヒープ	hipu	
+j	ヒーラー	hira	character that responsibl…
+j	ヒール	hiru	synonym of 踵 (kakato, “he…
+j	ヒーロー	hiro	a hero (person of great b…
+j	ヒ素	hiso	arsenic (chemical element)
+j	丕基	hiki	君主が国家を統治するための基礎。
+j	人	hito	a person, human
+j	冷ゆ	hiyu	
+j	匕部	hibu	部首「⼔」で分類した漢字の一群。
+j	匪徒	hito	bandit
+j	匹	hiki	small animals
+j	卑下	hige	humility
+j	卑語	higo	swearword, vulgar express…
+j	卑陋	hiro	身分が卑しいこと。
+j	否運	hiun	非運。不運。
+j	品位	hini	dignity; grace; nobility
+j	姫	hime	a noblewoman
+j	婢女	hijo	下女。
+j	寛雄	hiro	a male given name
+j	尋	hiro	fathom, a unit of measure…
+j	干る	hiru	to dry
+j	干魚	hiuo	
+j	平	hira	something flat; flattened
+j	平礼	hire	薄く漆を塗ったしなやかな烏帽子。
+j	庇保	hiho	庇うこと。庇護。
+j	庇護	higo	protection
+j	引き	hiki	pull, patronage
+j	引く	hiku	to pull (something toward…
+j	弾く	hiku	to play (a stringed or ke…
+j	彦	hiko	a prince
+j	彦男	hiko	a male given name
+j	彼我	higa	相手と自分。
+j	悲号	higo	悲しみ、泣き叫ぶこと。
+j	悲哀	hiai	sorrow, sadness
+j	悲喜	hiki	joys and sorrows
+j	悲報	hiho	news that brings sorrow
+j	悲壮	hiso	solemn and stirring; trag…
+j	悲悼	hito	mourning
+j	悲愧	hiki	悲しみ、慚ること。
+j	悲愴	hiso	pathetic, sad, sorrowful
+j	悲慟	hido	悲しんで泣き叫ぶこと。
+j	悲歌	hika	sad melody; stirring stra…
+j	悲母	hibo	慈悲、情け深い母。
+j	悲話	hiwa	悲しい話し。
+j	悲運	hiun	sad fate
+j	批答	hito	表奏に対して答えること。
+j	披露	hiro	announcement, expression,…
+j	披風	hifu	a simple padded overcoat …
+j	挽く	hiku	to saw; to grind (e.g. co…
+j	日傭	hiyo	日雇い。
+j	日日	hibi	day by day
+j	日歩	hibu	元金100円に対する１日あたりの利息の割合。
+j	日賦	hibu	債務などを毎日少しずつ返済していくこと。
+j	日野	hino	Hino (a city in Tokyo pre…
+j	日間	hiai	days (of duration)
+j	昼	hiru	the daytime
+j	暇	hima	free; leisure; idle; vaca…
+j	枚	hira	thin and flat object
+j	樋道	hido	液体を導くために架け渡す溝や管。
+j	檜曾	hiso	細い角材。
+j	檜楚	hiso	細い角材。
+j	檜葉	hiba	synonym of 翌檜 (asunaro, “…
+j	比叡	hiei	比叡山、またはその山頂にある延暦寺の通称。
+j	比喩	hiyu	simile, metaphor, allegory
+j	比嘉	higa	a surname from Okinawan
+j	比容	hiyo	単位質量の物体が占める容積。
+j	比島	hito	フィリピン諸島。
+j	比擬	higi	なぞらえること。比較すること。
+j	比校	hiko	比べること。比較すること。
+j	比比	hihi	どれもこれも。
+j	比考	hiko	比較して考え合わせること。
+j	比部	hibu	部首「⽐」で分類した漢字の一群。
+j	比重	hiju	specific gravity
+j	氷木	higi	神社建築で屋根の千木の先端を地面と平行に削ったもの。
+j	氷見	himi	a surname
+j	氷魚	hiuo	juvenile 鮎 (ayu, “sweetfi…
+j	洋雄	hiro	a male given name
+j	浩郎	hiro	a male given name
+j	狒々	hihi	a hihi (Japanese monkey-l…
+j	狒狒	hihi	日本に伝わる妖怪「ひひ」。サルを大型化したような姿…
+j	疋	hiki	
+j	疲労	hiro	fatigue
+j	疲馬	hiba	疲れた馬。疲弊した馬。
+j	皮下	hika	皮膚の内層部。
+j	皮相	hiso	表面。上辺。
+j	皮膚	hifu	skin
+j	皮裏	hiri	皮膚の内側。
+j	皮部	hibu	部首「⽪」で分類した漢字の一群。
+j	砒化	hika	arsenication
+j	砒素	hiso	原子番号 33、元素記号 As の半金属元素。同素…
+j	碑伝	hide	修験者が峰入り修行を終えたしるしとして建立した石造…
+j	秀づ	hizu	to surpass, stand out, be…
+j	秘事	hiji	secret
+j	秘儀	higi	secret ceremonies
+j	秘宝	hiho	hidden treasure; treasure…
+j	秘戯	higi	人目を避けて行う戯れ。特に、性行為。
+j	秘技	higi	secret skill
+j	秘方	hiho	秘密にして人に教えない薬の調合方法。
+j	秘法	hiho	秘密の方法。
+j	秘湯	hito	a little-known hot spring
+j	秘画	higa	春画。
+j	秘義	higi	奥深くに秘められてなかなか触れられない教え。
+j	秘蔵	hizo	storing away of a cherish…
+j	秘蘊	hiun	学問や技芸などで奥深く最も重要なこと。奥義。
+j	秘要	hiyo	秘密にしている重要な事柄。
+j	秘記	hiki	秘密の記録。
+j	秘話	hiwa	untold story
+j	秘語	higo	（特定の組織やグループ内で使用される）秘密の言葉。
+j	秘道	hido	特定の人以外には教えない、秘密な事柄。
+j	粃糠	hiko	husks and bran
+j	紐	himo	string, cord, laces
+j	罷工	hiko	strike (work stoppage)
+j	肘	hiji	elbow
+j	肥効	hiko	作物の生育に対する肥料の効果。
+j	肥後	higo	Higo Province, an old pro…
+j	肥痩	hiso	肥えていることと痩せていること。肥瘠。
+j	肥馬	hiba	肥えて太った馬。
+j	脾臓	hizo	spleen
+j	脾臟	hizo	spleen
+j	膝	hiza	knee
+j	莧	hiyu	Amaranthus tricolor (Jose…
+j	蒜	hiru	allium; garlic
+j	蓖麻	hima	synonym of 唐胡麻 (tōgoma, “…
+j	蚍蜉	hifu	large ant
+j	蛭	hiru	a leech
+j	蜚語	higo	根拠のない話。うわさ。言いふらし。
+j	蜚雲	hiun	飛雲。
+j	被動	hido	受け身であること。自分からは働きかけない様子。消極…
+j	被布	hifu	a simple padded overcoat …
+j	被風	hifu	a simple padded overcoat …
+j	裨補	hiho	助け、補うこと。
+j	襞	hida	pleat
+j	誹毀	hiki	defamation
+j	誹謗	hibo	slander
+j	誹議	higi	謗ること。非難すること。
+j	譬喩	hiyu	物事の説明を印象強くするために、他の類似した物事を…
+j	費府	hifu	Philadelphia
+j	費用	hiyo	cost
+j	贔屓	hiki	favor, partiality, patron…
+j	轢く	hiku	to run over (with a vehic…
+j	退く	hiku	to draw back, to recede, …
+j	避孕	hiyo	避妊。
+j	避諱	hiki	中国など漢字文化圏においてかつて存在した、天子・皇…
+j	避謗	hibo	謗りを避けること。
+j	鄙俚	hiri	言葉遣いや風俗が田舎っぽくいやしいこと。また、その…
+j	鄙語	higo	田舎びた卑しい言葉。卑語。
+j	鄙陋	hiro	身分が賤しいこと。
+j	雛	hina	a type of small doll, typ…
+j	霏霏	hihi	しきりに雨や雪が降るさま。
+j	非事	hiji	仏教で食事を摂ってはならない時間。正午から後夜まで。
+j	非器	hiki	ある事をするにあたり、それを行う器量、能力、才能が…
+j	非常	hijo	extraordinary, unusual
+j	非情	hijo	heartlessness
+j	非我	higa	自我に対立して存在する外界。
+j	非望	hibo	その人の身分に不相応な大きな望み。
+j	非業	higo	前世の業の報いに寄らないこと。特に、横死や夭逝とい…
+j	非武	hibu	武器を持たないこと。武装をしないこと。
+j	非毀	hiki	他人の悪口を言うこと。
+j	非法	hiho	法に外れること。
+j	非空	hiku	(仏教) 空ではないこと。
+j	非義	higi	義理や道理に背くこと。
+j	非行	hiko	misconduct
+j	非議	higi	謗ること。非難すること。
+j	非負	hifu	non-negative
+j	非運	hiun	tragically bad luck; ill …
+j	非道	hido	unjust; inhuman
+j	非部	hibu	部首「⾮」で分類した漢字の一群。
+j	領巾	hire	a long narrow strip of fa…
+j	飛動	hido	飛んで動くこと。また、飛ぶように動くこと。
+j	飛報	hiho	urgent message, express m…
+j	飛揚	hiyo	空高く飛び上がること。
+j	飛梭	hisa	自動織機で横糸を通す装置。
+j	飛砂	hisa	海岸などで風によって舞い上がる砂。
+j	飛絮	hijo	風に飛ぶ柳の綿毛のついた種子。
+j	飛花	hika	風に飛ばされ、散る花。
+j	飛蝗	hiko	migratory locust
+j	飛行	hiko	flying; flight
+j	飛語	higo	baseless rumours, false r…
+j	飛部	hibu	部首「⾶」で分類した漢字の一群。
+j	飛雲	hiun	風に吹かれ空を飛んでいく雲。蜚雲。
+j	飛颺	hiyo	「飛揚」の別表記。
+j	飛騨	hida	Hida (a city in Gifu Pref…
+j	飛騰	hito	高く上がること。
+j	飛鷲	hiju	古典的大型将棋の駒の一つ。本将棋には存在せず、中将…
+j	飛鼠	hiso	bat (small flying mammal)
+j	鬚	hige	ひげを参照。
+j	鰭	hire	fin (of a fish)
+j	鶸	hiwa	a finch of genus Cardueli…
+k	히피	hipi	
+k	힝	hing	
+e	hijab	hijab	1 meaning
+e	hijra	hijra	2 meanings
+e	hiker	hiker	1 meaning
+e	hilsa	hilsa	1 meaning
+e	hindi	hindi	1 meaning
+e	hindu	hindu	2 meanings
+e	hinge	hinge	1 meaning
+e	hinny	hinny	1 meaning
+e	hit on	hiton	1 meaning
+j	ひいきする	hiiki	
+j	ひいて	hiite	and (as a result) even
+j	ひえる	hieru	温度が下がる。
+j	ひおうぎ	hiogi	日本の宮中で用いられた木製の扇。
+j	ひかえ	hikae	控えること。
+j	ひがい	higai	毎日入用な分だけ購入すること。
+j	ひくい	hikui	位置が基準面と比べて下にある。物が上方にあまり伸び…
+j	ひごい	higoi	体色が赤っぽい鯉。
+j	ひさい	hisai	被災: suffering from a disa…
+j	ひさお	hisao	久雄: a male given name
+j	ひし	hishi	彼此: here and there
+j	ひじゅん	hijun	批准: ratification
+j	ひすい	hisui	狡い。けちで抜け目が無い。
+j	ひたい	hitai	forehead
+j	ひだい	hidai	塩をかけ干した鯛。
+j	ひち	hichi	
+j	ひっき	hikki	
+j	ひつ	hitsu	蓋付きの大型の箱。
+j	ひてい	hitei	
+j	ひでお	hideo	a male given name
+j	ひとえ	hitoe	花びらが単弁であること。
+j	ひどい	hidoi	cruel
+j	ひのえ	hinoe	十干の第3「丙」の和称。
+j	ひはん	hihan	
+j	ひひーん	hihin	neigh; whinny (cry of a h…
+j	ひめい	himei	悲鳴: scream, shriek
+j	ひめう	himeu	ペリカン目ウ科ウ属に属する鳥の一種。学名:Phal…
+j	ひらう	hirau	(方言、西日本・茨城等) 拾う。
+j	ひりょう	hiryo	悲寥
+j	ひろい	hiroi	広い, 弘い, 宏い: wide, broad
+j	ひんぬー	hinnu	貧乳。
+j	ヒアリ	hiari	fire ant, especially the …
+j	ヒガイ	higai	コイ目コイ科ヒガイ属に属する魚の一種。学名:Sar…
+j	ヒスイ	hisui	
+j	ヒッキー	hikki	Hikaru Utada, singer-song…
+j	ヒック	hikku	
+j	ヒット	hitto	a hit (the act of being s…
+j	ヒッピー	hippi	
+j	ヒップ	hippu	hip size
+j	ヒンジ	hinji	蝶番。
+j	ヒンズー	hinzu	
+j	ヒント	hinto	hint, clue
+j	ヒンドゥー	hindu	a Hindu
+j	一重	hitoe	single, onefold
+j	丕業	higyo	大きな事業。大業。
+j	久雄	hisao	a male given name
+j	低い	hikui	low
+j	冷える	hieru	to become cold, cool down
+j	匕首	hishu	synonym of あいくち: aikuchi,…
+j	匙量	hiryo	薬剤をはかる匙で一杯分の量。
+j	匪躬	hikyu	自分の身を顧みず、国家や主君に忠節を尽くすこと。
+j	匪魁	hikai	匪賊のかしら。
+j	匹夫	hippu	身分の低い男性。
+j	匹婦	hippu	身分の低い女性。
+j	卑官	hikan	low official
+j	卑小	hisho	petty; trifling
+j	卑怯	hikyo	unfair, dirty
+j	卑猥	hiwai	obscene
+j	卑礼	hirei	丁重に取り扱うこと。
+j	卑称	hisho	自分や相手の地位や行動などについて卑小な言葉で呼称…
+j	卑諺	higen	「鄙諺」の異表記。
+j	卑賤	hisen	humble, plebeian
+j	卑近	hikin	通俗的で身近な様子。卑くて近い様子。
+j	単衣	hitoe	an unlined open-sleeved r…
+j	否定	hitei	denial, negation
+j	否戻	hirei	悖ること。
+j	否認	hinin	denial
+j	品藻	hinso	品評。品定め。
+j	品行	hinko	moral conduct, behavior
+j	埤益	hieki	「裨益」の別表記。
+j	壽夫	hisao	a male given name
+j	姫鵜	himeu	a pelagic cormorant, Uril…
+j	婢妾	hisho	servant girls and concubi…
+j	宏雄	hiroo	a male given name
+j	寛郎	hiroo	a male given name
+j	尚郎	hisao	a male given name
+j	干鯛	hidai	dried and salted seabream
+j	平井	hirai	a surname
+j	平尾	hirao	a surname
+j	平緒	hirao	ceremonial sword-belt mad…
+j	広い	hiroi	
+j	広井	hiroi	a surname
+j	彼岸	higan	the opposite shore
+j	彼此	hishi	synonym of あれこれ
+j	必須	hissu	indispensable, essential
+j	悲傷	hisho	grief
+j	悲史	hishi	悲しい史実。痛ましい史実。
+j	悲吟	higin	悲しい声や悲しみを込めて詩歌を吟ずること。
+j	悲嘆	hitan	grief
+j	悲恋	hiren	悲しい恋。悲しい結末を迎える恋愛。
+j	悲惨	hisan	miserable, tragic, woeful…
+j	悲慙	hizan	悲愧。
+j	悲憤	hifun	resentment, grief, indign…
+j	悲懐	hikai	悲しい思い。
+j	悲歎	hitan	悲しみ、嘆くこと。
+j	悲涙	hirui	悲しみで流す涙。
+j	悲涼	hiryo	sadness and loneliness, a…
+j	悲田	hiden	病人や困窮者などあわれみを受ける者。
+j	悲痛	hitsu	heartbreaking; heartwrenc…
+j	悲観	hikan	a compassionate world vie…
+j	悲酸	hisan	悲惨と同義。
+j	悲願	higan	earnest wish
+j	悲鳴	himei	scream, shriek
+j	批准	hijun	ratification
+j	批判	hihan	a criticism; a comment
+j	批反	hihan	批答すること。
+j	批点	hiten	非難、批判されるべき点。
+j	批評	hihyo	criticism (evaluation of …
+j	批難	hinan	「非難」の別表記。
+j	披尋	hijin	調べること。
+j	披展	hiten	書状を開いて読むこと。
+j	披繹	hieki	調べ、尋ねること。
+j	拾う	hirou	to pick up
+j	控え	hikae	
+j	斐紙	hishi	ジンチョウゲ科に属する雁皮の樹皮を原料とした和紙の…
+j	日を追う	hioou	day by day; with each pas…
+j	日佐夫	hisao	a male given name
+j	日偏	hihen	漢字の部首「⽇」が偏である場合の呼称。
+j	日出夫	hideo	a male given name
+j	日浦	hiura	a surname
+j	日番	hiban	日中の警固の当番。
+j	樋門	himon	sluice gate
+j	檜扇	hiogi	formal folding fan made f…
+j	櫃	hitsu	chest, an item of furnitu…
+j	比例	hirei	proportion, ratio
+j	比定	hitei	同質のものが無い時、類似のものと比較して、そのもの…
+j	比来	hirai	recently; lately
+j	比況	hikyo	comparison
+j	比肩	hiken	equal footing, equal rank
+j	比量	hiryo	comparison
+j	比類	hirui	parallel, equal, match
+j	火偏	hihen	漢字の部首「⽕」が偏である場合の呼称。
+j	火燗	higan	徳利を使わず燗鍋で直接酒を燗にすること。また、徳利…
+j	火病	hibyo	朝鮮民族特有の精神疾患または文化依存症候群。
+j	牝馬	hinba	mare (female horse)
+j	疲弊	hihei	exhaustion; fatigue
+j	疲役	hieki	役務に疲れること。
+j	疲憊	hihai	疲れて弱ること。
+j	疲民	himin	疲困の民。
+j	疲黎	hirei	疲民。
+j	皮弁	hiben	skin flap
+j	皮癬	hizen	疥癬のこと。
+j	皮筋	hikin	一方が骨や腱に付き、もう一方が皮膚に付着する筋肉。
+j	皮脂	hishi	sebum
+j	砒酸	hisan	arsenic acid
+j	碑文	hibun	epigraph
+j	碑銘	himei	石碑に刻まれた銘。
+j	秀夫	hideo	a male given name
+j	秀男	hideo	a male given name
+j	秀郎	hideo	a male given name
+j	秀雄	hideo	a male given name
+j	秕政	hisei	misrule, bad government
+j	秘伝	hiden	confidential, secret trad…
+j	秘史	hishi	secret history, hidden hi…
+j	秘境	hikyo	unexplored region or land
+j	秘巻	hikan	秘書。
+j	秘教	hikyo	秘密の儀式を重んじる宗教。
+j	秘文	himon	秘密の呪文。
+j	秘書	hisho	secretary (person keeping…
+j	秘笈	hikyu	書物を秘蔵するための箱。
+j	秘計	hikei	secret stratagem
+j	秘邃	hisui	隠れて邃いこと。そのさま。
+j	稗販	hihan	小商人。
+j	筆下	hikka	筆の先。
+j	筆架	hikka	使った筆を乗せ架けておく台。
+j	筆禍	hikka	自分が書いた文章が原因で起きる災禍。
+j	筆答	hitto	written answer
+j	筆記	hikki	notetaking; notes
+j	筆鋒	hippo	筆の穂先。
+j	筆頭	hitto	tip of a brush
+j	粃政	hisei	「秕政」の異表記。
+j	緋色	hiiro	scarlet
+j	罷人	hijin	生活に困窮している人。
+j	罷免	himen	dismissal (deprivation of…
+j	罷尽	hijin	疲れ切ること。
+j	罷市	hishi	都市の商人が行うストライキ。
+j	罷業	higyo	not working, quitting one…
+j	罷軟	hinan	弱弱しく仕事の能力がないこと。
+j	翡翠	hisui	jade (gem)
+j	肥前	hizen	Hizen Province, an old pr…
+j	肥大	hidai	stout; fat
+j	肥州	hishu	肥前国^(（ひぜんのくに）)と肥後国^(（ひごのく…
+j	肥料	hiryo	fertilizer
+j	肥満	himan	obesity
+j	肥胖	hihan	肥えて太ること。また、そのようなさま。
+j	脾疳	hikan	漢方で小児の慢性消化器障害。
+j	芰	hishi	
+j	英夫	hideo	a male given name
+j	英生	hideo	a male given name
+j	英男	hideo	a male given name
+j	英郎	hideo	a male given name
+j	菱	hishi	water caltrop, Trapa nata…
+j	蘋風	hinpu	浮草を吹き揺るがせる風。
+j	蜚蠊	hiren	ごきぶり。
+j	蜚讒	hizan	蜚語。
+j	被官	hikan	律令制で上級官庁に直属する下級官庁。また、その役人。
+j	被害	higai	suffering damage; being i…
+j	被弾	hidan	弾丸・爆弾などをうけること。
+j	被水	hisui	水を被って濡れること。
+j	被災	hisai	suffering from a disaster…
+j	被病	hibyo	病気にかかること。病をもらうこと。
+j	被管	hikan	「被官」の別表記。
+j	被讒	hizan	讒言を受けること。
+j	被雷	hirai	飛行機が雷を受けること。
+j	裨益	hieki	benefit; helpful contribu…
+j	裨販	hihan	a petty trader
+j	誹刺	hishi	他人を悪く言うこと。けなすこと。誹謗すること。
+j	誹訾	hishi	「誹刺」の異表記。
+j	豼貅	hikyu	
+j	貔貅	hikyu	pixiu, a mythical horned …
+j	貧僧	hinso	貧乏な僧侶。
+j	貧家	hinka	生活に困窮している家庭。貧しい家。
+j	貧富	hinpu	wealth and poverty
+j	貧打	hinda	打撃がふるわないこと。打線の調子が悪く、好機でも得…
+j	貧果	hinka	乏しい果報、結果。
+j	貧相	hinso	having a shabby, poor fig…
+j	貧者	hinja	poor person; pauper
+j	貧農	hinno	poor farmer, poor peasant
+j	貧鉱	hinko	有用な鉱物があまり含まれていない鉱山。
+j	費消	hisho	持っている金品を全て使い切ってしまうこと。
+j	賁臨	hirin	客の来訪に対する敬語。
+j	賓辞	hinji	論理学における述語。
+j	避妊	hinin	contraception
+j	避暑	hisho	avoiding the heat; beatin…
+j	避止	hishi	abstention
+j	避球	hikyu	ドッジボール。
+j	避粉	hifun	花粉症の原因となる花粉の飛散が少ないまたはない地域…
+j	避讒	hizan	避謗。
+j	避退	hitai	evacuation
+j	避難	hinan	evacuation
+j	避雷	hirai	avoidance of striking lig…
+j	鄙懐	hikai	いやしい思い。
+j	鄙見	hiken	自分の意見。
+j	鄙言	higen	田舎の卑しい言葉。鄙語。
+j	鄙諺	higen	俗な世間で使われている諺。鄙俗な諺。
+j	非人	hinin	beggar, outcast, lowest-r…
+j	非例	hirei	前例がないこと。また、前例がないような勝手な行動を…
+j	非冷	hirei	冷蔵、冷凍する機能のない設備や冷蔵、冷凍の必要のな…
+j	非凡	hibon	singular, being out of or…
+j	非刺	hishi	「誹刺」の異表記。
+j	非命	himei	事故や災害などにより死ぬこと。非業の死。
+j	非婚	hikon	結婚していないこと。
+j	非形	higyo	形に現れないこと。
+j	非戦	hisen	戦争に参加しないこと。
+j	非才	hisai	才能が劣っていること。
+j	非文	hibun	文法的に成立しない文。
+j	非正	hisei	
+j	非礼	hirei	impoliteness, discourtesy
+j	非訾	hishi	「誹刺」の異表記。
+j	非認	hinin	物事を認めないこと。非とすること。
+j	非難	hinan	accusation, criticism, bl…
+j	非零	hirei	零でないこと。
+j	頻度	hindo	frequency (rate of occurr…
+j	頻用	hinyo	頻繁に使用、利用すること。
+j	飛丸	higan	飛んでくる弾丸。
+j	飛仙	hisen	空中を飛行する仙人。
+j	飛伝	hiden	宿継ぎの早馬。
+j	飛天	hiten	空中を舞う天人、天女。
+j	飛州	hishu	飛騨国^(（ひだのくに）)の別称。
+j	飛弾	hidan	飛んでくる弾丸。
+j	飛散	hisan	flying, scattering, dispe…
+j	飛来	hirai	arrival by flying (e.g. b…
+j	飛泉	hisen	高い場所から落ちる水。滝。
+j	飛湍	hitan	水の流れが激しい瀬。急湍。
+j	飛牛	higyu	flying ox (piece in chu s…
+j	飛球	hikyu	fly ball
+j	飛禽	hikin	飛ぶ鳥。鳥類。
+j	飛竜	hiryu	flying dragon
+j	飛翔	hisho	high flight
+j	飛翻	hihan	飛んで翻ること。
+j	飛船	hisen	高速で進む船。
+j	飛言	higen	根も葉もない噂。流言。飛語。
+j	飛車	hisha	a flying chariot (piece w…
+j	飛輓	hiban	兵糧の輸送をすること。
+j	飛雁	higan	飛んでいる雁。
+j	飛電	hiden	稲光。電光。
+j	飛駅	hieki	律令制の駅制で緊急連絡の場合に使われた施設。または…
+j	飛鳥	hicho	a flying bird
+j	飛龍	hiryu	a "flying dragon" (shogi …
+j	鰉	higai	Sarcocheilichthys variega…
+k	히읗	hieut	the name of the fourteent…
+k	히잡	hijap	hijab
+k	히죽	hijuk	만족스러운 듯이 슬쩍 한 번 웃는 모양.
+k	히터	hiteo	heater (device that produ…
+k	히트	hiteu	hit (the act of being str…
+k	히프	hipeu	butt
+e	hi-tech	hitech	1 meaning
+e	hiatus	hiatus	1 meaning
+e	hiccup	hiccup	2 meanings
+e	hickey	hickey	1 meaning
+e	hidden	hidden	1 meaning
+e	hijack	hijack	2 meanings
+e	hijiki	hijiki	1 meaning
+e	hiking	hiking	1 meaning
+e	hinder	hinder	3 meanings
+e	hip-hop	hiphop	1 meaning
+e	hippie	hippie	1 meaning
+e	hirado	hirado	1 meaning
+e	hither	hither	1 meaning
+e	hitler	hitler	1 meaning
+e	hitman	hitman	1 meaning
+j	ひえびえ	hiebie	（空気が）ひんやりと冷たく感じられるさま。
+j	ひかげ	hikage	日光によってできる影。
+j	ひかり	hikari	太陽や炎から発せられる、目に見えるもので、周囲の物…
+j	ひかる	hikaru	光を放つ、光源となる、発光する。また光を反射して輝…
+j	ひがき	higaki	檜の薄い板を網代に組んだ垣。
+j	ひがさ	higasa	日傘: parasol
+j	ひがた	higata	tideland
+j	ひがむ	higamu	素直に受け取らない。自分にとって悪く解釈する。心が…
+j	ひがめ	higame	やぶにらみ。
+j	ひがら	higara	coal tit (Periparus ater)
+j	ひきあい	hikiai	「ひきあう」の連用形。
+j	ひきあう	hikiau	互いに引っ張る。
+j	ひきた	hikita	疋田: a surname
+j	ひきど	hikido	左右に引いて開閉するとびら。
+j	ひきや	hikiya	relocating a building wit…
+j	ひきり	hikiri	乾燥した檜の木口に棒を当て、激しく揉むようにして摩…
+j	ひくて	hikute	誘い掛ける人。
+j	ひぐま	higuma	羆, 緋熊, 樋熊: a brown bear
+j	ひぐれ	higure	日が暮れる頃。
+j	ひけめ	hikeme	自分が他人と比べて劣っていると考えること。
+j	ひける	hikeru	消極的になる。気後れする。
+j	ひげね	higene	単子葉類の植物の茎から下にひげのように生える根。
+j	ひこうき	hikoki	「飛行機」のひらがな表記。
+j	ひこく	hikoku	被告: defendant, the accused
+j	ひごと	higoto	ひび。毎日。
+j	ひごろ	higoro	平生。いつも。普段。
+j	ひさき	hisaki	久貴: a male given name
+j	ひさぎ	hisagi	synonym of きささげ
+j	ひさく	hisaku	
+j	ひさぐ	hisagu	to sell
+j	ひさこ	hisako	寿子, 恒子: a female given na…
+j	ひさご	hisago	ゆうがお、瓢箪、冬瓜などとその果実の総称。
+j	ひさと	hisato	久人: a male given name
+j	ひさめ	hisame	氷雨: sleeting rain
+j	ひじき	hijiki	ヒバマタ目ホンダワラ科ホンダワラ属に属する海藻の一…
+j	ひじゅらー	hijura	
+j	ひじょうすう	hijosu	被乗数: multiplicand
+j	ひじょうに	hijoni	
+j	ひじょすう	hijosu	被除数: dividend
+j	ひじり	hijiri	徳の高い僧侶。
+j	ひずみ	hizumi	歪むこと。また、その程度。
+j	ひずむ	hizumu	正しい形が失われる。いびつになる。
+j	ひぜに	hizeni	daily income
+j	ひぜめ	hizeme	建物などに放火することで敵を攻めること。火攻。
+j	ひそか	hisoka	他人に知られないようにするさま。
+j	ひそむ	hisomu	中に隠れて外に現れない。
+j	ひたき	hitaki	鶲, 火焼: an Old World flyca…
+j	ひたす	hitasu	液体につける。液体につけてその液体を含ませる。ぬら…
+j	ひたる	hitaru	水の中に浸かる。浸かって濡れる。
+j	ひだか	hidaka	日がまだ高いさま。日中。
+j	ひだき	hidaki	火焚, 肥田木: a surname
+j	ひだこ	hidako	温熱に長くあたることによって皮膚に生じる赤褐色の網…
+j	ひだね	hidane	摩擦によって火を作るとき、最初に作るごく小さな火。…
+j	ひだま	hidama	fireball
+j	ひだり	hidari	観測者を中心とした方向の一つ。東に向かって北の方向。
+j	ひっしょう	hissho	必勝: certain victory
+j	ひっすい	hissui	必衰: inevitable decline
+j	ひづけ	hizuke	手紙や書類に書きこむ、作成した時の年月日。
+j	ひづめ	hizume	中型、大型の草食哺乳動物のうち、ゾウ目 (長鼻目)…
+j	ひでこ	hideko	秀子: a female given name
+j	ひでじ	hideji	英司: a male given name
+j	ひでと	hideto	栄斗, 秀人: a male given name
+j	ひでみ	hidemi	英美: a male given name
+j	ひでよ	hideyo	英世: a male given name
+j	ひでり	hideri	太陽が照ること。
+j	ひでろう	hidero	秀朗: a male given name
+j	ひとうけ	hitoke	他人の評判や信用。
+j	ひとおき	hitoki	女見。
+j	ひとき	hitoki	仁紀: a male given name
+j	ひとけ	hitoke	人気: presence of people
+j	ひとで	hitode	棘皮動物門のいくつかの綱の総称。
+j	ひとは	hitoha	一枚の葉。
+j	ひとま	hitoma	一つの部屋。
+j	ひとみ	hitomi	脊椎動物及び軟体動物頭足類の目において、眼の内側に…
+j	ひとめ	hitome	世間の人々の目。他人の見る目。「人目を気にする」「…
+j	ひとや	hitoya	捕らえた罪人を収容する建物。
+j	ひとよ	hitoyo	日没から夜明けまで。一晩。
+j	ひとり	hitori	人数が、1であること。
+j	ひどく	hidoku	「ひどい」の連用形。
+j	ひどさ	hidosa	ひどいこと。その度合い。
+j	ひどり	hidori	何かを行う日にちを選んで決めること。
+j	ひなた	hinata	日が当たっている場所。
+j	ひなみ	hinami	日南: a surname
+j	ひにく	hiniku	皮肉: ironic, sarcastic
+j	ひねり	hineri	ひねること。ねじること。
+j	ひねる	hineru	わざと通常と異なる風体をする、一風変わったことをす…
+j	ひのうみ	hinomi	辺り一帯が炎に囲われている状態を、海に例えることで…
+j	ひのき	hinoki	ヒノキ科ヒノキ属の針葉樹。日本と台湾に分布する。日…
+j	ひので	hinode	朝をむかえ、東から太陽が出ること。また、その時。天…
+j	ひのと	hinoto	十干の第4「丁」の和称。
+j	ひのとう	hinoto	十干十二支の4番目。ていぼう。
+j	ひのべ	hinobe	予定の日を先へ移すこと。
+j	ひばな	hibana	細かく飛び散る火の粉。
+j	ひばり	hibari	鳥の名。ヒバリを参照。
+j	ひびき	hibiki	音や振動が辺りに伝わること。
+j	ひびく	hibiku	音や振動が辺りに伝わる。
+j	ひぶせ	hibuse	火災を防止すること。火難除け。
+j	ひぶた	hibuta	cover for the flash pan o…
+j	ひぶね	hibune	戦国時代、水上の戦さで敵方の船を火攻めにするため、…
+j	ひまご	himago	great-grandchild
+j	ひみこ	himiko	卑弥呼: Himiko, semi-legenda…
+j	ひみず	himizu	火と水。
+j	ひむろ	himuro	冬に採取した天然の氷を夏まで保存しておく部屋または…
+j	ひめる	himeru	隠して人に知られないようにする。
+j	ひもと	himoto	火を使用する場所。
+j	ひもの	himono	a tub, basin, barrel, or …
+j	ひやけ	hiyake	主に太陽からの紫外線により皮膚にメラニンが沈着して…
+j	ひやす	hiyasu	物の温度をさげる。
+j	ひやま	hiyama	桧山: a male given name
+j	ひやり	hiyari	冷たく感じる様。
+j	ひよけ	hiyoke	preventing or protecting …
+j	ひよこ	hiyoko	鳥のひな。特にニワトリのひなを言う。
+j	ひより	hiyori	天気。空模様。
+j	ひよる	hiyoru	to sit on the fence; to b…
+j	ひよわ	hiyowa	ひ弱いさま。脆弱なさま。
+j	ひらき	hiraki	「ひらく」の連用形。
+j	ひらく	hiraku	開く: to open
+j	ひらじ	hiraji	平地: plain weave fabric
+j	ひらた	hirata	平田: a surname
+j	ひらて	hirate	五本の指を開いた手。
+j	ひらに	hirani	（懇願して）どうか。なにとぞ。
+j	ひらめ	hirame	平たいこと。その様。
+j	ひらや	hiraya	一階建ての建物。
+j	ひらり	hirari	lightly, nimbly, (of leav…
+j	ひるげ	hiruge	昼に摂る食事。ひるけ。
+j	ひるね	hirune	昼間に寝ること。夏の季語。
+j	ひるま	hiruma	日の出から日没まで。昼の時間帯。
+j	ひるむ	hirumu	怖気づいて気力が挫ける。
+j	ひろおみ	hiromi	宏臣, 博臣: a male given name
+j	ひろき	hiroki	浩基, 浩樹, 裕貴, 弘樹, 博樹, 大樹, 弘…
+j	ひろく	hiroku	widely, broadly
+j	ひろこ	hiroko	裕子, 浩子, 博子, 弘子, 宏子, 尋子, 祥…
+j	ひろさ	hirosa	広いこと。
+j	ひろじ	hiroji	博治, 博爾, 博次, 博二, 博司, 浩次, 浩…
+j	ひろせ	hirose	幅のある瀬。
+j	ひろと	hiroto	敬人, 寛人, 裕人, 博人, 浩人, 弘人: a…
+j	ひろば	hiroba	多くの人が集まることができる、広くて平らな公共の場…
+j	ひろま	hiroma	広い部屋や座敷。
+j	ひろむ	hiromu	to broaden; to widen
+j	ひろめ	hirome	「ひろめる」の未然形及び連用形。
+j	ひわだ	hiwada	檜の樹皮。
+j	ひわり	hiwari	賃金・料金などを一日あたりで割り当てること。また、…
+j	ひんがん	hingan	玢岩: porphyrite
+j	ひんせい	hinsei	品性: personality
+j	ひんせん	hinsen	貧賤: poor, lowly, inferior
+j	ひんだい	hindai	品題: evaluation; title
+j	ひんちゃ	hincha	品茶: tea evaluation; a gam…
+j	ひんにょう	hinnyo	頻尿: pollakiuria, frequent…
+j	ひんみん	hinmin	貧民: poor people
+j	ひサロ	hisaro	
+j	ひ弱	hiyowa	weak, feeble
+j	ヒイアカ	hiiaka	ハウメアの衛星の固有名。二つ見つかっているうちの大…
+j	ヒカマ	hikama	
+j	ヒガラ	higara	スズメ目シジュウカラ科シジュウカラ属に属する鳥の一…
+j	ヒグマ	higuma	羆, 緋熊, 樋熊: a brown bear
+j	ヒザマ	hizama	沖縄県の沖永良部島に伝わる妖怪の一種で姿は鶏に似て…
+j	ヒジャブ	hijabu	hijab
+j	ヒジャーブ	hijabu	hijab
+j	ヒジュラー	hijura	hijra
+j	ヒジリ	hijiri	聖: a name
+j	ヒタキ	hitaki	スズメ目ヒタキ上科ヒタキ科に属する鳥の総称。つぐみ…
+j	ヒダーヤ	hidaya	guidance
+j	ヒチュン	hichun	
+j	ヒッヒッフー	hihifu	A chant for breathing to …
+j	ヒトデ	hitode	ひとでの学術的表記。
+j	ヒトラー	hitora	Hitler
+j	ヒト科	hitoka	Hominidae
+j	ヒドラ	hidora	a hydra (any of several s…
+j	ヒノキ	hinoki	植物の一種であるひのきの学術的表記。
+j	ヒバリ	hibari	スズメ目ヒバリ科ヒバリ属に属する鳥の一種。学名:A…
+j	ヒブナ	hibuna	緋鮒の学術的表記。
+j	ヒマール	himaru	khimar
+j	ヒミズ	himizu	トガリネズミ目モグラ科ヒミズ属に属するもぐらの一種…
+j	ヒヨス	hiyosu	henbane
+j	ヒラメ	hirame	カレイ目カレイ亜目ヒラメ科の魚の一種。またはヒラメ…
+j	ヒラリー	hirari	
+j	ヒルギ	hirugi	
+j	ヒルサ	hirusa	
+j	ヒロイン	hiroin	a heroine (female hero)
+j	ヒースロー	hisuro	
+j	一人	hitori	one person
+j	一目	hitome	a glance; a look
+j	一間	hitoma	one room
+j	丕績	hiseki	偉大な功績や手柄。
+j	久人	hisato	a male given name
+j	久貴	hisaki	a male given name
+j	久野	hisano	a surname
+j	人の	hitono	
+j	人出	hitode	crowd; turnout
+j	人手	hitode	person's hand, person's w…
+j	人目	hitome	an attention, observation…
+j	人長	hitosa	a surname
+j	仁紀	hitoki	a male given name
+j	仁美	hitomi	a female given name
+j	僻む	higamu	to be overly sensitive; t…
+j	光	hikari	a light, beam, illuminati…
+j	光る	hikaru	to shine, gleam, glitter
+j	光梨	hikari	a female given name
+j	光水子	himiko	a female given name
+j	光瑠	hikaru	a female given name
+j	光璃	hikari	a female given name
+j	光莉	hikari	a female given name
+j	冷え性	hiesho	cold intolerance
+j	冷え症	hiesho	冷え性の別表記。
+j	冷やす	hiyasu	to cool down
+j	匪賊	hizoku	bandit
+j	匹儔	hitchu	匹敵すること。また、そのようなもの。なかま。
+j	匹田	hikita	a surname
+j	卑俗	hizoku	vulgarity
+j	卑属	hizoku	ある人から見て親族の関係が下位（あとの世代）となる…
+j	卑弥呼	himiko	a semi-legendary queen of…
+j	卑弥子	himiko	a female given name
+j	卑約	hiyaku	衰弱すること。
+j	卑罵語	hibago	相手を蔑んだり罵ったりする語。
+j	博三	hirozo	a male given name
+j	博人	hiroto	a male given name
+j	博喜	hiroki	a male given name
+j	博実	hiromi	a male given name
+j	博己	hiromi	a male given name
+j	博巳	hiromi	a male given name
+j	博幹	hiroki	a male given name
+j	博樹	hiroki	a male given name
+j	博次	hiroji	a male given name
+j	博治	hiroji	a male given name
+j	博爾	hiroji	a male given name
+j	博紀	hiroki	a male given name
+j	博美	hiromi	a unisex given name
+j	博臣	hiromi	a male given name
+j	博貴	hiroki	a male given name
+j	品名	hinmei	product name
+j	品性	hinsei	character, personality
+j	品種	hinshu	brand, kind, description
+j	品胎	hintai	三つ子を妊娠、出産すること。
+j	品致	hinchi	品物の良し悪しや趣。
+j	品茶	hincha	tea evaluation
+j	品評	hinpyo	criticism, estimation, co…
+j	品詞	hinshi	a part of speech
+j	品題	hindai	evaluation
+j	啓貴	hiroki	a male given name
+j	大輝	hiroki	a male given name
+j	妃美子	himiko	a female given name
+j	妃魅姑	himiko	a female given name
+j	妃魅子	himiko	a female given name
+j	姫奈	himena	a female given name
+j	姫巫女	himiko	a female given name
+j	姫美子	himiko	a female given name
+j	姫路	himeji	Himeji (a city in Hyōgo P…
+j	姫野	himeno	a surname
+j	宏宜	hiroki	a male given name
+j	宏実	hiromi	a female given name
+j	宏樹	hiroki	a male given name
+j	宏海	hiromi	a male given name
+j	宏紀	hiroki	a male given name
+j	宏臣	hiromi	a male given name
+j	密か	hisoka	secret
+j	寛乃	hirono	a female given name
+j	寛人	hiroto	a male given name
+j	寛子	hiroko	a female given name
+j	寛己	hiromi	a male given name
+j	寛樹	hiroki	a male given name
+j	寛生	hiroki	a male given name
+j	寿子	hisako	a female given name
+j	尋葵	hiroki	a male given name
+j	左	hidari	left, the side of the lef…
+j	干物	himono	乾燥させた食物の総称。
+j	平屋	hiraya	one story house or other …
+j	平戸	hirado	Hirado (a city in Nagasak…
+j	平手	hirate	open hand; palm
+j	平日	hirabi	a weekday, an ordinary day
+j	平瀬	hirase	a surname
+j	平田	hirata	a rice paddy on flat terr…
+j	平目	hirame	
+j	平賀	hiraga	a surname
+j	平間	hirama	a surname
+j	広く	hiroku	
+j	広さ	hirosa	
+j	広基	hiroki	a male given name
+j	広場	hiroba	open area, square
+j	広岡	hiroka	a surname
+j	広布	hirome	Undaria undarioides, a sp…
+j	広樹	hiroki	a male given name
+j	広瀬	hirose	a surname
+j	広田	hirota	a surname
+j	広間	hiroma	parlor, salon, hall; a la…
+j	廣瀬	hirose	a surname
+j	廣田	hirota	a surname
+j	引き戸	hikido	sliding door
+j	引ける	hikeru	close, be over (e.g., sch…
+j	引け目	hikeme	sense of inferiority
+j	引数	hikisu	an argument
+j	引田	hikita	a surname
+j	弘人	hiroto	a male given name
+j	弘務	hiromu	a male given name
+j	弘基	hiroki	a male given name
+j	弘樹	hiroki	a male given name
+j	弘田	hirota	a surname
+j	弘美	hiromi	a unisex given name
+j	弼成	hissei	助けて成し遂げさせること。輔成。
+j	彦根	hikone	Hikone (a city in Shiga P…
+j	彬彬	hinpin	refinement and substance;…
+j	彼岸会	higane	春分と秋分の日を中日とした前後一週間を中心に寺院で…
+j	必中	hitchu	必ず命中すること。
+j	必修	hisshu	a must-study, a must-lear…
+j	必勝	hissho	certain victory
+j	必死	hisshi	mortal
+j	必置	hitchi	必ず設置しなければならないこと。
+j	必聴	hitcho	must-hear
+j	必至	hisshi	inevitable, certain, nece…
+j	必衰	hissui	inevitable decline
+j	必見	hikken	a must-see
+j	怯む	hirumu	to flinch
+j	悲劇	higeki	tragedy (type of theatric…
+j	悲咽	hietsu	sobbing
+j	披瀝	hireki	making known one's opinion
+j	披読	hidoku	書物などを開いて読むこと。
+j	披針	hishin	刃針。
+j	披露宴	hiroen	a banquet held to celebra…
+j	捻り	hineri	a twist
+j	捻る	hineru	to twist (to turn by pinc…
+j	擯介	hinkai	儀礼を補助する者。
+j	擯退	hintai	退け、除け者にする。擯斥。
+j	敬人	hiroto	a male given name
+j	斌斌	hinpin	外見と実質を兼ね備えているさま。
+j	斐実子	himiko	a female given name
+j	斐美子	himiko	a female given name
+j	日々の	hibino	
+j	日の出	hinode	sunrise
+j	日よけ	hiyoke	
+j	日付	hizuke	date (point of time at wh…
+j	日佳瑠	hikaru	a female given name
+j	日傘	higasa	parasol
+j	日取り	hidori	appointed date; schedule
+j	日向	hinata	the direction the sun is …
+j	日向子	hinako	a female given name
+j	日和	hiyori	weather (conditions)
+j	日和る	hiyoru	
+j	日孁	hirume	synonym of 天照 (Amaterasu)
+j	日実子	himiko	a female given name
+j	日巳子	himiko	a female given name
+j	日弥子	himiko	a female given name
+j	日影	hikage	shadow
+j	日暮	higure	日が暮れる頃。
+j	日暮れ	higure	sunset, sundown, dusk, ev…
+j	日比野	hibino	a surname
+j	日永	hinaga	long day in spring
+j	日焼け	hiyake	sunburn, suntan
+j	日照り	hideri	shining of the sun
+j	日珠子	himiko	a female given name
+j	日笠	hikasa	a surname
+j	日美子	himiko	a female given name
+j	日見子	himiko	a female given name
+j	日長	hinaga	
+j	日除け	hiyoke	a blind such as a Venetia…
+j	日陰	hikage	shade (place shaded from …
+j	日雀	higara	coal tit, Periparus ater
+j	日頃	higoro	habitually; usually
+j	日高	hidaka	a surname
+j	日魅子	himiko	a female given name
+j	旱	hideri	a sunny day
+j	昼寝	hirune	siesta (afternoon nap)
+j	昼間	hiruma	daytime
+j	昼餉	hiruge	昼飯。昼食。
+j	暇な	himana	
+j	柊	hiragi	疼木: Osmanthus heterophyll…
+j	栄斗	hideto	a male given name
+j	桧山	hiyama	a male given name
+j	梭子魚	higouo	synonym of 飛魚 (tobi-uo, “…
+j	楸	hisagi	synonym of 楸 (kisasage, “…
+j	樋熊	higuma	
+j	檜	hinoki	Japanese cypress (Chamaec…
+j	歪み	hizumi	distortion, deformation
+j	歪む	hizumu	to become bent, deformed,…
+j	殯宮	hinkyu	天皇、皇族、貴人の棺を本葬までの間、安置しておく仮…
+j	比する	hisuru	（「～に・と比する」の形で）～と比べる。対比する。
+j	比呂美	hiromi	a unisex given name
+j	比国	hikoku	the Philippines
+j	比売知	himeji	
+j	比奈子	hinako	a female given name
+j	比目魚	hirame	
+j	比羅夫	hirafu	a male given name
+j	比翼	hiyoku	flying wing to wing; ofte…
+j	比較	hikaku	comparison
+j	氷実子	himiko	a female given name
+j	氷室	himuro	icehouse
+j	氷水女	himiko	a female given name
+j	氷美子	himiko	a female given name
+j	氷見子	himiko	a female given name
+j	氷雨	hisame	hail
+j	洋海	hiromi	a male given name
+j	浜死	hinshi	死にかかること。瀕死。
+j	浜海	hinkai	臨海。海辺。
+j	浜涯	hingai	水涯。水際。水辺。
+j	浩也	hiroya	a male given name
+j	浩人	hiroto	a male given name
+j	浩代	hiroyo	a female given name
+j	浩基	hiroki	a male given name
+j	浩子	hiroko	a female given name
+j	浩己	hiromi	a male given name
+j	浩弥	hiroya	a male given name
+j	浩樹	hiroki	a male given name
+j	浩美	hiromi	a male given name
+j	海星	hitode	a starfish; a sea star
+j	浸す	hitasu	soak, immerse
+j	浸る	hitaru	to soak; to be submerged …
+j	潜む	hisomu	hide oneself
+j	瀕死	hinshi	being moribund, the verge…
+j	瀕海	hinkai	海に面していること。臨海。
+j	火の気	hinoke	火の温かみ。
+j	火の粉	hinoko	
+j	火打	hiuchi	Hiuchi, a mountain in Nii…
+j	火水	himizu	fire and water
+j	火種	hidane	live coals; embers; tinde…
+j	火花	hibana	spark; cinder; ember (par…
+j	火見子	himiko	a female given name
+j	火鍋	hinabe	hot pot
+j	火魅子	himiko	a female given name
+j	牝牛	hingyu	cow, heifer
+j	独り	hitori	alone, by oneself
+j	玢岩	hingan	porphyrite
+j	畢生	hissei	命が尽きるまでの間。終生。一生涯。
+j	畢竟	hikkyo	after all
+j	疋田	hikita	a surname
+j	皮下の	hikano	
+j	皮疹	hishin	皮膚の発疹。
+j	皮肉	hiniku	ironic
+j	皮膚炎	hifuen	dermatitis
+j	皮膚科	hifuka	dermatology
+j	皮革	hikaku	leather, hide (skin of an…
+j	皮革・ゴム製品商	hikaku	古皮、古ゴムを扱う古物商。
+j	瞳	hitomi	pupil
+j	砒石	hiseki	砒素を含む有毒な鉱石。
+j	碑刻	hikoku	碑文を刻した石碑。
+j	碑石	hiseki	碑の材料となる石材。
+j	秀でる	hideru	to surpass, to stand out,…
+j	秀人	hideto	a male given name
+j	秀喜	hideki	a male given name
+j	秀子	hideko	a female given name
+j	秀実	hidemi	a female given name
+j	秀旗	hideki	a male given name
+j	秀朗	hidero	a male given name
+j	秀樹	hideki	a male given name
+j	秀輝	hideki	a male given name
+j	秀香	hideka	a female given name
+j	秘する	hisuru	〔情報を〕隠して人に知らせない。秘密にする。
+j	秘める	himeru	to hide, keep (feelings o…
+j	秘儀の	higino	
+j	秘匿	hitoku	concealment
+j	秘策	hisaku	secret plan
+j	秘薬	hiyaku	secret medicine, nostrum
+j	秘跡	hiseki	キリストが定めた神が恵みを信徒に与える儀式。サクラ…
+j	秘蹟	hiseki	カトリックでキリストが定めた神が恵みを信徒に与える…
+j	秘録	hiroku	秘密の記録。
+j	秘鑰	hiyaku	秘密のかぎ。
+j	稟性	hinsei	天から授かった、生まれ付きの性質。天賦の資質。「稟…
+j	稟懇	hinkon	懇請すること。
+j	稟請	hinsei	「申請」に同じ。「稟」は「申す」の意。「りんせい」…
+j	稟貸	hintai	租税を一時的に貸し付けること。
+j	筆写	hissha	copying, written transcri…
+j	筆勢	hissei	a brush stroke, pen stroke
+j	筆池	hitchi	筆の穂先を洗うための容器。筆洗。
+j	筆牀	hissho	「筆架」に同じ。
+j	筆生	hissei	書写を役目または職とする者。
+j	筆硯	hikken	brush and inkstone
+j	筆端	hittan	tip of a writing brush; t…
+j	筆算	hissan	written calculation; calc…
+j	筆管	hikkan	筆の軸。
+j	筆紙	hisshi	筆と紙。
+j	筆者	hissha	I, the author, the writer…
+j	筆致	hitchi	stroke of a brush
+j	筆試	hisshi	written exam
+j	筆誅	hitchu	罪過や欠点などを書き立てて責めること。
+j	紘子	hiroko	a female given name
+j	紘毅	hiroki	a male given name
+j	緋実子	himiko	a female given name
+j	緋桃	himomo	花が緋色の桃。
+j	緋熊	higuma	
+j	緋美子	himiko	a female given name
+j	緋鮒	hibuna	鮒が突然変異で赤変したもの。
+j	緋鳥	hidori	
+j	繽紛	hinpun	of many small things, lyi…
+j	罷国	hikoku	疲弊した国。
+j	羆	higuma	a brown bear
+j	聖	hijiri	a very virtuous or godly …
+j	肥沃	hiyoku	fertile, productive
+j	肥瘠	hiseki	plumpness and leanness
+j	脾腹	hibara	脇腹。横腹。
+j	腓腹	hifuku	a calf; a sura (back of t…
+j	英世	hideyo	a male given name
+j	英樹	hideki	a male given name
+j	英機	hideki	a male given name
+j	英美	hidemi	a male given name
+j	英輝	hideki	a male given name
+j	菲沃斯	hiyosu	
+j	蛭子	hiruko	son of 伊弉諾 (Izanagi) and …
+j	被乗数	hijosu	multiplicand, as a in a ×…
+j	被加数	hikasu	augend
+j	被告	hikoku	defendant, the accused
+j	被曝	hibaku	exposure to radiation
+j	被服	hifuku	clothing
+j	被毒	hidoku	being poisoned; poisoning
+j	被爆	hibaku	being bombed
+j	被膜	himaku	物を覆っている膜。
+j	被覆	hifuku	cover, coating
+j	被除数	hijosu	dividend
+j	裕三	hiromi	a male given name
+j	裕人	hiroto	a male given name
+j	裕子	hiroko	a female given name
+j	裕樹	hiroki	a male given name
+j	裕紀	hiroki	a male given name
+j	裕美	hiromi	a unisex given name
+j	裕見	hiromi	a female given name
+j	裕貴	hiroki	a male given name
+j	褶	hirami	pleated over-skirt worn o…
+j	貧し	hinshi	stem of 貧する
+j	貧乳	hinnyu	small breasts; flat chest
+j	貧困	hinkon	poor, impoverished
+j	貧地	hinchi	貧しい人々が暮らす土地。
+j	貧民	hinmin	poor person
+j	貧生	hinsei	貧しい人。また、貧しい書生。
+j	貧窮	hinkyu	extreme poverty
+j	貧賤	hinsen	poor, lowly, inferior
+j	費額	higaku	入費の額。
+j	賓待	hintai	上客として扱う。賓接。
+j	蹄	hizume	a hoof
+j	輝璃	hikari	a female given name
+j	輝莉	hikari	a female given name
+j	避匿	hitoku	avoiding and hiding away …
+j	鄙俗	hizoku	いなかびていること。
+j	鄙薄	hihaku	despisal, contempt, scorn
+j	鈹鍼	hishin	刃針。
+j	開き	hiraki	opening (e.g. of a hinged…
+j	陽王子	himiko	a female given name
+j	雲雀	hibari	lark, skylark (Alauda arv…
+j	非ゼロ	hizero	
+j	非モテ	himote	non-popular
+j	非上場	hijojo	証券取引所に株式を上場しないこと。
+j	非力	hiriki	powerless; incompetent; w…
+j	非合法	higoho	法律の規定に違反していること。合法でないこと。
+j	非合理	higori	illogical
+j	非同期	hidoki	
+j	非営利	hieiri	自己の営利を目的としない活動。
+j	非常に	hijoni	
+j	非常時	hijoji	国内または世界において戦乱や天災で危機的な状況の場…
+j	非役	hiyaku	つとめる役がないこと。
+j	非心	hishin	邪心。悪心。
+j	非核	hikaku	non-nuclear
+j	非武装	hibuso	国家が一切の武力を保持していないこと。
+j	非素数	hisosu	「合成数」に同じ。
+j	非負数	hifusu	
+j	響	hibiki	a unisex given name
+j	響き	hibiki	echo, sound, reverberatio…
+j	響く	hibiku	to echo, to resound
+j	頻回	hinkai	ある行為や出来事が多く繰り返している様子
+j	頻尿	hinnyo	pollakiuria, frequent uri…
+j	頻繁	hinpan	frequent
+j	頻頻	hinpin	続けざまに起こる様子。
+j	飛信	hishin	至急の手紙。急信。
+j	飛実子	himiko	a female given name
+j	飛燕草	hienso	Delphinium ajacis
+j	飛留間	hiruma	a surname
+j	飛白	hihaku	漢字を刷毛でかすれたように書く書体。
+j	飛膜	himaku	鳥類以外の脊椎動物で空中を滑空したりするために前肢…
+j	飛行器	hikoki	
+j	飛行場	hikojo	an airfield; a non-commer…
+j	飛行機	hikoki	an airplane, aeroplane
+j	飛越	hietsu	障害物を飛び越すこと。
+j	飛跡	hiseki	霧箱、泡箱などで観られる荷電した粒子の軌跡。
+j	飛躍	hiyaku	significant leap forward
+j	飛轂	hikoku	速く走る車。
+j	飛魄	hihaku	空中を飛ぶ人魂。
+j	飛鹿	hiroku	古典的大型将棋の駒の一つ。本将棋には存在せず、中将…
+j	鬢台	hindai	鬢道具をのせておく台。
+j	鮃	hirame	an olive flounder
+j	鶲	hitaki	an Old World flycatcher: …
+j	鹿尾菜	hijiki	
+k	히로인	hiroin	
+k	히어로	hieoro	hero
+k	히쭉	hijjuk	만족스러운 듯이 슬쩍 한 번 웃는 모양.
+k	힌트	hinteu	hint, clue
+k	힐난	hillan	blame; censure
+k	힘살	himsal	muscle
+k	힘센	himsen	
+k	힘줄	himjul	sinew, tendon
+k	힙합	hiphap	hip-hop
+e	hideout	hideout	1 meaning
+e	highway	highway	1 meaning
+e	hillary	hillary	1 meaning
+e	himalia	himalia	1 meaning
+e	himself	himself	1 meaning
+e	hind leg	hindleg	1 meaning
+e	hip bone	hipbone	1 meaning
+e	hipster	hipster	1 meaning
+e	histone	histone	1 meaning
+e	history	history	5 meanings
+e	hitachi	hitachi	1 meaning
+e	hittite	hittite	2 meanings
+j	ひあがる	hiagaru	池や湖などが乾き、水が無くなる。
+j	ひあそび	hiasobi	playing with fire
+j	ひあたり	hiatari	receiving sunlight
+j	ひあぶり	hiaburi	死刑の方法の一つ。死刑囚に火を放って焼死させる。
+j	ひいては	hiitewa	synonym of ひいて
+j	ひいでる	hiideru	他（他の人）より能力が優れている。ぬきんでる。得意…
+j	ひいらぎ	hiiragi	スズキ目ヒイラギ属に属する魚の一種。学名:Nuch…
+j	ひえこみ	hiekomi	「ひえこむ」の連用形。
+j	ひえこむ	hiekomu	冷え込む: get colder, cool do…
+j	ひえっぴえ	hieppie	being chilly
+j	ひえピタ	hiepita	cold compress
+j	ひかえめ	hikaeme	modest, reserved, demure,…
+j	ひかえる	hikaeru	wait nearby
+j	ひがえり	higaeri	出かけた先で宿泊せずにその日の内に帰ること。
+j	ひがし	higashi	地球上における、方角・方位であり、一般には春分又は…
+j	ひきあげ	hikiage	「ひきあげる」の未然形及び連用形。
+j	ひきあて	hikiate	将来の特定の支出のために、資金を準備しておくこと。…
+j	ひきいる	hikiiru	to lead, head (a group or…
+j	ひきうけ	hikiuke	「ひきうける」の未然形、連用形。
+j	ひきかえ	hikikae	「ひきかえる」の未然形及び連用形。
+j	ひきざん	hikizan	
+j	ひき臼	hikiusu	
+j	ひぐち	higuchi	経糸と緯糸を交差させるために経糸を上下に分けて開け…
+j	ひけし	hikeshi	fire extinguishing
+j	ひげんすう	higensu	被減数: minuend
+j	ひこうし	hikoshi	飛行士: a pilot (person in c…
+j	ひこつ	hikotsu	腓骨: (anatomy) calf bone, …
+j	ひこばえ	hikobae	樹木などの切り株や根元から生える芽。また、それが延…
+j	ひさあき	hisaaki	久晃: a male given name
+j	ひさし	hisashi	eaves (of a roof)
+j	ひざし	hizashi	sunshine
+j	ひしぐ	hishigu	押し潰す。圧し潰す。
+j	ひしゃく	hishaku	水などの液体を掬うのに用いる、柄がついた小型の器。
+j	ひしゃぐ	hishagu	to flatten
+j	ひだち	hidachi	「ひだつ」の連用形。
+j	ひだつ	hidatsu	日が経過するにつれて成長したり、病気がよくなったり…
+j	ひだるい	hidarui	ひもじい。
+j	ひちら	hichira	饆饠: senbei-like crackers
+j	ひっかく	hikkaku	爪や刺などで搔く。
+j	ひっこす	hikkosu	to move house, to change …
+j	ひっこみ	hikkomi	引っ込むこと。引き込み。
+j	ひっこむ	hikkomu	突き出た物が元の状態に戻る。
+j	ひっそり	hissori	quietly, silently
+j	ひっぱる	hipparu	引いて弛まないようにする。
+j	ひつき	hitsuki	太陽と月。
+j	ひつぎ	hitsugi	亡骸を納めるための箱。
+j	ひつけ	hitsuke	setting fire
+j	ひつじ	hitsuji	ウシ目ウシ科ヤギ亜科ヒツジ属の鯨偶蹄類の総称。学名…
+j	ひであき	hideaki	秀昭, 英明, 秀章, 秀明, 秀聡, 英昭, 栄…
+j	ひとあと	hitoato	人が通った足跡。
+j	ひとあめ	hitoame	一雨: a single rainfall; a …
+j	ひといき	hitoiki	一回の呼吸。一呼吸。
+j	ひとえに	hitoeni	あることのみだけで。ひたすらに、一筋に、ひたぶるに…
+j	ひとかい	hitokai	人身売買を生業とする者。
+j	ひとくい	hitokui	人を食べること。食人。カニバリズム。
+j	ひとこえ	hitokoe	一度声を出すこと。一度鳴くこと。またその声。
+j	ひとごえ	hitogoe	人の声。人が話したり騒いだりする声。
+j	ひとし	hitoshi	仁, 均, 等, 斉, 旬, 準, 仁志, 人志:…
+j	ひとっこ	hitokko	synonym of ひと (hito, “per…
+j	ひとっぱ	hitoppa	一枚の葉。
+j	ひとつ	hitotsu	個数が1であること。
+j	ひとまえ	hitomae	人前: the public
+j	ひとよい	hitoyoi	feeling ill in crowds of …
+j	ひとりい	hitorii	ひとりで生活すること。
+j	ひどけい	hidokei	日時計: sundial
+j	ひなつ	hinatsu	日夏: a surname
+j	ひにち	hinichi	日数。
+j	ひのいり	hinoiri	太陽が沈むこと。また、その時。天文学的には太陽の上…
+j	ひのえね	hinoene	十干十二支の13番目。へいし。
+j	ひのし	hinoshi	陶器や金属でできた底が平らな容器に炭火などをいれ、…
+j	ひのとい	hinotoi	十干十二支の24番目。ていがい。
+j	ひばし	hibashi	炭火を挟む際に使う金属製の箸。
+j	ひばち	hibachi	灰を入れ、そこに火をつけた炭を置き、暖をとったり、…
+j	ひぼし	hiboshi	食料がなく飢えること。
+j	ひまし	himashi	日を追うごとに増加すること。
+j	ひもじい	himojii	hungry, starving
+j	ひもち	himochi	日数が経っても性質あまり変化しないこと。
+j	ひもパン	himopan	a type of panty that is w…
+j	ひやあせ	hiyaase	恥ずかしいときや恐ろしいときに出る汗。
+j	ひやし	hiyashi	「ひやす」の連用形。
+j	ひやとい	hiyatoi	一日を単位に雇用の契約をすること。また、そのような…
+j	ひよわい	hiyowai	とても弱々しい。脆弱なさま。
+j	ひらいた	hiraita	（薄くて）平らな板。平たい板。へいばん。
+j	ひらたい	hiratai	凹凸がなく、平らであるさま。
+j	ひらち	hirachi	平地: flat land
+j	ひるがお	hirugao	ナス目ヒルガオ属に属する多年草。学名:Calyst…
+j	ひるまえ	hirumae	正午になる少し前。
+j	ひろあき	hiroaki	啓昭, 弘昭, 博明, 裕明, 裕章, 敬章, 広…
+j	ひろし	hiroshi	広し: Classical Japanese an…
+j	ひんこく	hinkoku	稟告: (rare, possibly obsol…
+j	ひんむく	hinmuku	手荒に衣服などを剝ぎ取る。
+j	ひんもく	hinmoku	品目: item, article; a list…
+j	ひんやり	hinyari	chilly
+j	ひ孫	hiimago	
+j	ひ弱い	hiyowai	weak
+j	ヒクイナ	hikuina	ツル目クイナ科クイナ属に属する鳥の一種。学名:Po…
+j	ヒストン	hisuton	真核生物の染色体を構成する塩基性タンパク質の一群。…
+j	ヒッグス	higgusu	a transliteration of the …
+j	ヒツジ	hitsuji	ウシ目ウシ科ヤギ亜科ヒツジ属に属する鯨偶蹄類の一種…
+j	ヒバゴン	hibagon	
+j	ヒマリア	himaria	木星の第6衛星の固有名。
+j	ヒヨッコ	hiyokko	
+j	ヒロポン	hiropon	methamphetamine
+j	ヒンディー語	hindigo	Hindi language
+j	ヒーティング	hitingu	加熱。暖房。
+j	一つ	hitotsu	one thing
+j	一息	hitoiki	a (single) breath
+j	一晩	hitoban	a night
+j	一雨	hitoame	a single rainfall
+j	丁亥	hinotoi	Fire Boar, the twenty-fou…
+j	丁卯	hinotou	Fire Rabbit, the fourth t…
+j	丙子	hinoene	Fire Rat, the thirteenth …
+j	久	hisashi	a male given name
+j	久士	hisashi	a male given name
+j	久志	hisashi	a male given name
+j	久晃	hisaaki	a male given name
+j	乾菓子	higashi	干菓子の別形。
+j	人前	hitomae	the public
+j	人声	hitogoe	voice, human voice
+j	人食い	hitokui	
+j	仁	hitoshi	a male given name
+j	低声	hikigoe	a low voice, a whisper
+j	保裕	hiroshi	a male given name
+j	冷え切る	hiekiru	to become completely chil…
+j	冷え込み	hiekomi	cooling down
+j	冷え込む	hiekomu	get colder, cool down
+j	冷や汗	hiyaase	cold sweat
+j	匹敵	hitteki	bearing comparison with, …
+j	卑劣	hiretsu	mean, despicable, dirty, …
+j	卑屈	hikutsu	subservient, servile
+j	卑拙	hisetsu	田舎びて無骨なこと。洗練されていないこと。また、そ…
+j	卑職	hishoku	低い官職。
+j	卑賎な	hisenna	
+j	博史	hiroshi	a male given name
+j	博司	hiroshi	a male given name
+j	博明	hiroaki	a male given name
+j	博昭	hiroaki	a male given name
+j	博視	hiroshi	a male given name
+j	史	hiroshi	a male given name
+j	否定の	hiteino	
+j	否定語	hiteigo	negation; negative word
+j	否決	hiketsu	decline, refusal (by deci…
+j	品する	hinsuru	評価する。批評する。
+j	品字様	hinjiyo	Han character that is of …
+j	品字藻	hinjimo	
+j	品格	hinkaku	dignity
+j	品目	hinmoku	item, article
+j	啓昭	hiroaki	a male given name
+j	圮絶	hizetsu	滅び去ること。滅亡。
+j	均	hitoshi	a male given name
+j	大史	hiroshi	a male given name
+j	大嗣	hiroshi	a male given name
+j	契	hisashi	a male given name
+j	妃殿下	hidenka	Your Highness/Her Highnes…
+j	宏	hiroshi	a male given name
+j	宏志	hiroshi	a male given name
+j	宏明	hiroaki	a male given name
+j	宥明	hiroaki	a male given name
+j	寛明	hiroaki	a male given name
+j	寛暁	hiroaki	a male given name
+j	寿巳	hisashi	a male given name
+j	常陸	hitachi	Hitachi Province, an old …
+j	干上がる	hiagaru	to dry up, to be arid or …
+j	干菓子	higashi	水分が少なく乾燥した和菓子の総称。
+j	平たい	hiratai	flat, even, level, smooth
+j	平地	hirachi	flat land
+j	平岡	hiraoka	a surname
+j	平文	hirabun	cleartext
+j	平椀	hirawan	底が浅く平たい椀。
+j	広明	hiroaki	a male given name
+j	広末	hirosue	a surname
+j	庇	hisashi	
+j	庇護者	higosha	庇護をする人。
+j	廂	hisashi	
+j	廡	hisashi	
+j	引き算	hikizan	subtraction
+j	引き網	hikiami	
+j	引っ張り	hippari	
+j	引っ張る	hipparu	pull, yank
+j	引っ掻く	hikkaku	to scratch
+j	引っ越す	hikkosu	
+j	引っ込み	hikkomi	retreat; retirement; depr…
+j	引っ込む	hikkomu	retire, withdraw
+j	弘	hiroshi	a male given name
+j	弘司	hiroshi	a male given name
+j	弘明	hiroaki	a male given name
+j	弘昭	hiroaki	a male given name
+j	弘至	hiroshi	a male given name
+j	必定	hitsujo	inevitably, certainly
+j	必要	hitsuyo	needed, necessary
+j	必需	hitsuju	need, necessity, requirem…
+j	悲切	hisetsu	哀切。
+j	悲惨な	hisanna	
+j	悲田院	hidenin	poorhouse
+j	批折	hisetsu	挫くこと。
+j	批評家	hihyoka	critic
+j	批難の	hinanno	
+j	披泄	hisetsu	漏らすこと。
+j	披裂	hiretsu	arytenoidness
+j	拓晃	hiroaki	a male given name
+j	挽き茶	hikicha	
+j	控えめ	hikaeme	
+j	擯斥	hinseki	退けること。除け者にすること。排斥すること。
+j	敬章	hiroaki	a male given name
+j	日にち	hinichi	日日の異表記。
+j	日の入	hinoiri	
+j	日の入り	hinoiri	sunset
+j	日夏	hinatsu	a surname
+j	日帰り	higaeri	day trip
+j	日持ち	himochi	keeping for a long time, …
+j	日時計	hidokei	a sundial
+j	日立	hidachi	growth as the days pass
+j	日雇い	hiyatoi	day labor (employment on …
+j	昼前	hirumae	before noon, mid to late …
+j	昼練	hiruren	部活動で、昼休みに行われる練習。
+j	昼顔	hirugao	false bindweed (Calystegi…
+j	晝前	hirumae	
+j	暇人	himajin	a person with free time; …
+j	未	hitsuji	the Sheep, the eighth of …
+j	東	higashi	the east (compass point)
+j	柄杓	hishaku	a ladle, a water dipper
+j	栄明	hideaki	a male given name
+j	棺	hitsugi	coffin
+j	樋口	higuchi	a surname
+j	比叡山	hieizan	Mount Hiei (a mountain on…
+j	比日	hinichi	Philippines and Japan
+j	比熱	hinetsu	単位質量の物質の温度を単位温度だけ上げるのに必要な…
+j	比率	hiritsu	ratio, proportion, percen…
+j	比色	hishoku	色の色調、濃淡を比べること。
+j	泌尿器	hinyoki	a urinary organ
+j	洋志	hiroshi	a male given name
+j	浩	hiroshi	a male given name
+j	浩志	hiroshi	a male given name
+j	浩明	hiroaki	a male given name
+j	浩章	hiroaki	a male given name
+j	瀕する	hinsuru	差し迫る。陥ろうとする。
+j	火加減	hikagen	strength of the fire
+j	火時計	hidokei	a clock that tells time u…
+j	火熨斗	hinoshi	ladle-shaped flat iron fo…
+j	火箸	hibashi	fire tongs
+j	火鉢	hibachi	hibachi (charcoal-powered…
+j	率いる	hikiiru	
+j	皮膚病	hifubyo	dermatosis
+j	皮膚癌	hifugan	skin cancer (malignant gr…
+j	皮膚科医	hihukai	皮膚科を専門とする医師。
+j	皮褐	hikatsu	粗末な毛皮の衣服。
+j	砒酸塩	hisanen	arsenate
+j	碾き臼	hikiusu	
+j	秀でた	hiideta	
+j	秀史	hideshi	a male given name
+j	秀司	hideshi	a male given name
+j	秀明	hideaki	a male given name
+j	秀昭	hideaki	a male given name
+j	秀直	hidenao	a male given name
+j	秀章	hideaki	a male given name
+j	秀聡	hideaki	a male given name
+j	秘密	himitsu	secret
+j	秘結	hiketsu	便の動きが滞り出なくなること。便秘。
+j	秘蔵っ子	hizokko	
+j	秘術	hijutsu	secret art
+j	秘訣	hiketsu	secret, key, secret trick
+j	秘説	hisetsu	秘密にして人に知られない説。
+j	稟告	hinkoku	reporting (especially to …
+j	筆画	hikkaku	stroke (of a Chinese char…
+j	筆記具	hikkigu	筆記用具の意。筆記に使用する道具。
+j	筆跡	hisseki	handwriting
+j	紘	hiroshi	a male given name
+j	緋色の	hiirono	
+j	罷職	hishoku	to quit one's job as a go…
+j	羊	hitsuji	a sheep (animal)
+j	翡翠の	hisuino	
+j	肥立つ	hidatsu	to grow up, day by day
+j	脾泄	hisetsu	下痢。
+j	腓骨	hikotsu	a calf bone; a fibula
+j	膝裏	hizaura	
+j	英昭	hideaki	a male given name
+j	菱田	hishida	a surname
+j	蓖麻子	himashi	蓖麻（唐胡麻）の種子。あぶら分は蓖麻子油の原料とな…
+j	蓽茇	hihatsu	long pepper, Piper longum
+j	蘖	hikobae	sprouts from the stump of…
+j	被減数	higensu	minuend
+j	被疑者	higisha	suspect
+j	被虐	higyaku	suffering pain, enduring …
+j	被褐	hikatsu	粗末な衣服を着ること。
+j	裕亮	hiroaki	a male given name
+j	裕明	hiroaki	a male given name
+j	裕昭	hiroaki	a male given name
+j	裕章	hiroaki	a male given name
+j	譬説	hisetsu	比喩。
+j	貧する	hinsuru	貧乏になる。
+j	貧学	hingaku	貧しくとも学問にはげむこと。
+j	貧弱	hinjaku	poor, feeble, scanty
+j	貧栄養	hineiyo	oligotrophic
+j	賓格	hinkaku	目的格。
+j	逼塞	hissoku	逼迫すること。
+j	逼迫	hippaku	stringency
+j	避妊の	hininno	
+j	避妊具	hiningu	避妊のために使用する器具。コンドームなど男性が使用…
+j	避難所	hinanjo	a shelter
+j	避難路	hinanro	fire escape (emergency do…
+j	鄙劣	hiretsu	「卑劣」の別表記。
+j	鄙拙	hisetsu	卑拙なこと。
+j	鉱	hiroshi	a male given name
+j	雛壇	hinadan	a special tiered display …
+j	非リア充	hiriaju	a person not fulfilled in…
+j	非公表	hikohyo	公表しないこと。
+j	非公認	hikonin	
+j	非公開	hikokai	一般の人には公開しないこと。
+j	非凡な	hibonna	
+j	非加入	hikanyu	加入の状態でないこと。また、そのさま。
+j	非可算	hikasan	uncountable
+j	非同盟	hidomei	他国と同盟を結ばないこと。特に、軍事同盟を結ばない…
+j	非太刀	hidachi	相手のすきを見て太刀で一撃すること。
+j	非性愛	hiseiai	asexuality
+j	非所持	hishoji	所持しないこと。
+j	非所有	hishoyu	所有しないこと。
+j	非職	hishiki	（ひしき）ある職務を行う資格がないこと。
+j	非行者	hikosha	
+j	非課税	hikazei	税金が課されないこと。課税されないこと。
+j	非連動	hirendo	連動しないこと。
+j	非難の	hinanno	
+j	飛屑	hisetsu	風に吹き飛ばされる細かなもの。
+j	飛竜頭	hiryuzu	a kind of fritter made of…
+j	飛節	hisetsu	四肢動物の後肢にある関節。人の足の踵やくるぶしにあ…
+j	飛脚	hikyaku	courier
+j	飛行体	hikotai	飛行する物体の総称。飛翔体。
+j	飛行士	hikoshi	a pilot (person in charge…
+j	飛行性	hikosei	
+j	飛行船	hikosen	a dirigible; an airship
+j	飛行艇	hikotei	flying boat
+j	飛行隊	hikotai	軍隊の中で航空機を運用する部隊。
+j	飛距離	hikyori	打球が飛んだ距離。
+j	飛雪	hisetsu	風に飛ばされながら降る雪。
+j	飛龍頭	hiryuzu	「飛竜頭」の別表記。
+j	饆饠	hichira	senbei-like crackers
+j	饑い	hidarui	
+k	히끔	hikkeum	
+k	히드라	hideura	hydra (any of several sma…
+k	히드로	hideuro	
+k	히타치	hitachi	
+k	힌디어	hindieo	Hindi (language)
+k	힐금	hilgeum	
+k	힐긋	hilgeut	거볍게 슬쩍 한 번 흘겨보는 모양.
+k	힐링	hilling	destressing; mental uplif…
+k	힘바리	himbari	A muscleman, someone so s…
+k	힘주다	himjuda	to use force, to exert st…
+k	힘찬	himchan	'힘차다'의 관형사형.
+k	힘참	himcham	'힘차다'의 명사형.
+e	hibiscus	hibiscus	1 meaning
+e	high card	highcard	1 meaning
+e	high five	highfive	1 meaning
+e	high jump	highjump	1 meaning
+e	high seas	highseas	1 meaning
+e	high tide	hightide	1 meaning
+e	high-beam	highbeam	2 meanings
+e	high-rise	highrise	1 meaning
+e	highborn	highborn	1 meaning
+e	highland	highland	1 meaning
+e	highness	highness	1 meaning
+e	hilarity	hilarity	1 meaning
+e	hill mari	hillmari	1 meaning
+e	himation	himation	1 meaning
+e	hinayana	hinayana	1 meaning
+e	hind limb	hindlimb	1 meaning
+e	hinduism	hinduism	1 meaning
+e	hinomaru	hinomaru	1 meaning
+e	hip flask	hipflask	1 meaning
+e	hiragana	hiragana	1 meaning
+e	hirakata	hirakata	1 meaning
+e	hiri motu	hirimotu	1 meaning
+e	historic	historic	1 meaning
+e	hit point	hitpoint	1 meaning
+e	hitherto	hitherto	1 meaning
+j	ひえめし	hiemeshi	稗を炊いた飯。
+j	ひおうぎがい	hiogigai	イタヤガイ目イタヤガイ科に属する二枚貝の一種。学名…
+j	ひおむし	hiomushi	朝に生まれ、夕方には死ぬといわれる虫。カゲロウ。
+j	ひからす	hikarasu	光るようにする。光沢を出す。
+j	ひかれる	hikareru	引かれる, 惹かれる, 魅かれる: to be c…
+j	ひがごと	higagoto	道理や事実に合わない事柄。
+j	ひがらめ	higarame	双方の目の瞳の向く方向が一致しないこと。斜視。ひが…
+j	ひきうたい	hikiutai	長唄などで唄と三味線の演奏を一人で行うこと。
+j	ひきがね	hikigane	銃の点火装置の一部。指で引くと嚙み合いが外れ、撃茎…
+j	ひきこみ	hikikomi	引き込むこと。引き入れること。
+j	ひきこむ	hikikomu	引いて中に入れる。
+j	ひきさく	hikisaku	引っ張りながら裂く。
+j	ひきさげ	hikisage	「ひきさげる」の未然形及び連用形。
+j	ひきしお	hikishio	潮が引いて海面が下降すること。干潮。下げ潮。落ち潮。
+j	ひきずる	hikizuru	重いものなどを地面を擦りながら引っ張る。
+j	ひきだす	hikidasu	引いて外に出す。
+j	ひきとめ	hikitome	引き留めること。
+j	ひきとり	hikitori	
+j	ひきとる	hikitoru	自分の手元に受け取る。自分が管理し、また責任を負う…
+j	ひきなみ	hikinami	浜に打ち寄せてから沖に引いていく波。（対義語）寄せ…
+j	ひきなわ	hikinawa	物に付けてそれを引く縄。
+j	ひきにげ	hikinige	車両などで人を轢いてそのまま逃げること。
+j	ひきぬく	hikinuku	引っ張るようにして抜く。
+j	ひきふね	hikifune	つなで他の船をひくこと。
+j	ひきもの	hikimono	宴会などで客に送る土産物。招待客に送る品物。引き出…
+j	ひきわけ	hikiwake	引き分け: a draw
+j	ひき逃げ	hikinige	a hit and run (the crime …
+j	ひくひく	hikuhiku	体の一部などが小刻みに震えるさま。
+j	ひくめる	hikumeru	位置や数値などを低くする。
+j	ひぐるま	higuruma	ひまわりの別名。夏の季語。
+j	ひげそり	higesori	髭を剃るための道具。
+j	ひげづら	higezura	bearded face
+j	ひこうしん	hikoshin	粃糠疹: pityriasis
+j	ひさいち	hisaichi	被災地: area hit by a disast…
+j	ひさかき	hisakaki	ツツジ目モッコク科ヒサカキ属に属す樹木の総称。学名…
+j	ひさかず	hisakazu	久一: a male given name
+j	ひさしい	hisashii	長い時間が経過した。
+j	ひさすけ	hisasuke	久扶, 尚輔: a male given name
+j	ひさとも	hisatomo	久朋: a male given name
+j	ひさのぶ	hisanobu	寿伸: a male given name
+j	ひさのり	hisanori	久則: a male given name
+j	ひさひこ	hisahiko	久彦: a male given name
+j	ひざうち	hizauchi	膝を地につけた姿勢で射撃すること。
+j	ひざかけ	hizakake	保温などのため、椅子などにかけたときに膝にかける布…
+j	ひざげり	hizageri	空手やキックボクシング等で膝を用いて相手を攻撃する…
+j	ひざもと	hizamoto	膝の側。膝に近い所。
+j	ひじかけ	hijikake	armrest
+j	ひすがら	hisugara	一日の初めから終わりまで。朝から夜まで。
+j	ひすばる	hisubaru	（方言、徳島・茨城等）萎びる
+j	ひそかに	hisokani	
+j	ひそひそ	hisohiso	in a whisper, in a low vo…
+j	ひそめる	hisomeru	隠す。
+j	ひたすら	hitasura	determinedly, with one's …
+j	ひたたれ	hitatare	鎌倉時代以降武家の男性が着用する衣服。江戸時代には…
+j	ひたひた	hitahita	水が何度も打ち当たるさま。また、その音。
+j	ひたぶる	hitaburu	それだけを追求するさま。ひたすらするさま。
+j	ひたむき	hitamuki	single-minded
+j	ひだまり	hidamari	日光がよく当り、暖かい場所。
+j	ひだりうえ	hidariue	左上: upper left
+j	ひだりて	hidarite	左側の手。
+j	ひだりま	hidarima	左巻き: counter-clockwise; e…
+j	ひだりめ	hidarime	左側の目。左眼。
+j	ひっかえす	hikkaesu	元の状態にめどる。元の場所、方向に戻る。
+j	ひっこし	hikkoshi	moving house
+j	ひっさつ	hissatsu	必殺: lethality
+j	ひでかず	hidekazu	英和, 英員, 秀一, 秀和: a male gi…
+j	ひでたか	hidetaka	英孝, 英貴, 英隆, 秀崇, 秀孝, 英貴: a…
+j	ひでたけ	hidetake	秀武: a male given name
+j	ひでとみ	hidetomi	秀臣: a male given name
+j	ひでとも	hidetomo	英智: a male given name
+j	ひでのぶ	hidenobu	英信: a male given name
+j	ひでのり	hidenori	英智, 秀範, 秀憲, 英典, 秀則, 秀典, 英…
+j	ひではる	hideharu	秀治: a male given name
+j	ひでひろ	hidehiro	秀浩: a male given name
+j	ひでふみ	hidefumi	英文: a male given name
+j	ひでまさ	hidemasa	英正: a male given name
+j	ひでみね	hidemine	秀実: a male given name
+j	ひでゆき	hideyuki	秀行: a male given name
+j	ひとあし	hitoashi	人の行き来。往来。
+j	ひとおもい	hitoomoi	having only fleeting suff…
+j	ひとかげ	hitokage	人の姿。
+j	ひとがた	hitogata	人の形。人の形をしたもの。
+j	ひとがら	hitogara	人柄: personality, characte…
+j	ひときれ	hitokire	一つ（一枚）の小さな切れ端。一片。
+j	ひときわ	hitokiwa	身分などの一つの階級。
+j	ひとぎき	hitogiki	他人に聞かれること。
+j	ひとくさ	hitokusa	一つの種類。
+j	ひとけた	hitoketa	数字の桁が1であること。
+j	ひとこと	hitokoto	ひとつのことば。同じ一種類の言葉。
+j	ひところ	hitokoro	以前のある時や時期。
+j	ひとごと	hitogoto	他人の言う言葉、世人の言う言葉、世評。
+j	ひとごみ	hitogomi	大勢の人で込み合うこと。また、そのような場所。雑踏。
+j	ひとざと	hitozato	人が住んでいる里。集落となっている所。
+j	ひとしい	hitoshii	二つ以上のもののあいだに数値的な差がない。同等であ…
+j	ひとしお	hitoshio	一塩: a small amount of salt
+j	ひとすじ	hitosuji	one long thin item
+j	ひとたび	hitotabi	一回。一遍。
+j	ひとだま	hitodama	人魂: disembodied soul
+j	ひとづて	hitozute	being heard from someone …
+j	ひとづま	hitozuma	他人の妻。
+j	ひととおり	hitotori	一度通過すること。
+j	ひととき	hitotoki	しばらく。
+j	ひととせ	hitotose	1年間。
+j	ひとどおり	hitodori	通行人の往来。
+j	ひとなみ	hitonami	人並: being average, ordina…
+j	ひとはだ	hitohada	human skin
+j	ひとびと	hitobito	人の複数。人の集団、または集団をなす人。
+j	ひとふろ	hitofuro	風呂に一回入浴すること。簡単に入浴すること。
+j	ひとまく	hitomaku	(a single) act
+j	ひとまず	hitomazu	for the time being, for t…
+j	ひとまね	hitomane	他人の話し方、声、動作、やり方などを真似ること。
+j	ひとむれ	hitomure	
+j	ひとやね	hitoyane	漢字の部首「⼈」の呼称の一つ。
+j	ひとやま	hitoyama	一つの山。
+j	ひとりご	hitorigo	兄弟姉妹がいない一人の子。ひとりっこ。
+j	ひとりね	hitorine	（相手もなく）一人だけで寝ること。
+j	ひとりみ	hitorimi	single (not in a relation…
+j	ひながた	hinagata	実物をそのまま小さくかたどって作られたもの。
+j	ひなどり	hinadori	鳥類の孵化したばかりの小さな子鳥。
+j	ひなびる	hinabiru	田舎ふうになる。田舎らしい雰囲気となる。
+j	ひなもり	hinamori	夷守: co-chieftain in ancie…
+j	ひにひに	hinihini	その日毎に。一日毎に。
+j	ひねくる	hinekuru	（弄くる・把玩くる）手先で拈り弄ぶ。
+j	ひねずみ	hinezumi	火鼠: fire-rat; a creature …
+j	ひねもす	hinemosu	一日中、朝から晩まで、終日。
+j	ひのえいぬ	hinoeinu	十干十二支の23番目。へいじゅつ。
+j	ひのえうま	hinoeuma	十干十二支の43番目。へいご。
+j	ひのかみ	hinokami	太陽神。
+j	ひのくれ	hinokure	日が暮れる頃。
+j	ひのたま	hinotama	一塊の火。
+j	ひのとみ	hinotomi	十干十二支の54番目。ていし。
+j	ひのとり	hinotori	火の鳥: A phoenix, more spec…
+j	ひのまる	hinomaru	太陽をかたどった丸。
+j	ひのもと	hinomoto	「日本」の美称。
+j	ひばかり	hibakari	薩摩焼や唐津焼などにおいて文永・慶長の役の後で朝鮮…
+j	ひひとひ	hihitohi	（副詞的にもちいて）一日中。日中の間。
+j	ひひらく	hihiraku	to prattle on; to orate
+j	ひびかす	hibikasu	響かせる。
+j	ひびわれ	hibiware	罅割れること。またそのようにしてできた割れ目。
+j	ひび割れ	hibiware	
+j	ひぶくれ	hibukure	blister
+j	ひまわり	himawari	キク科ヒマワリ属の一年草。北アメリカ原産。高さ約2…
+j	ひみここ	himikoko	卑弥弓呼: Himikoko, semi-lege…
+j	ひめがき	himegaki	城壁の上に設けた、低い塀。
+j	ひめぎす	himegisu	バッタ目ヒメギス属に属する昆虫の一種。学名:Eob…
+j	ひめくり	himekuri	flipping daily
+j	ひめごと	himegoto	secret
+j	ひめひば	himehiba	かたひばの別名。
+j	ひめみこ	himemiko	皇女。内親王。
+j	ひめもす	himemosu	一日の初めから終わりまで。朝から夜まで。
+j	ひめゆり	himeyuri	ユリ目ユリ科スカシユリ属に属するすかしゆりの近縁種…
+j	ひもじさ	himojisa	ひもじいこと。その度合い。
+j	ひもとく	himotoku	to read (a book)
+j	ひものや	himonoya	商品として干物を専門または中心として扱う店。また、…
+j	ひやかす	hiyakasu	ものを冷やす。
+j	ひやける	hiyakeru	十分に冷却される。
+j	ひやざけ	hiyazake	燗をしない常温または冷やした酒。冷や。
+j	ひやっこい	hiyakkoi	冷たい。冷ややかなさま。
+j	ひやみず	hiyamizu	冷たい水。
+j	ひやむぎ	hiyamugi	小麦粉を原料といた麺でうどんより細く、素麺より太い…
+j	ひややか	hiyayaka	冷たく感じられるさま。
+j	ひよどり	hiyodori	スズメ目ヒヨドリ科ヒヨドリ属に属する鳥の総称。
+j	ひよめき	hiyomeki	新生児の頭蓋骨の上部、骨同士がまだ発達せず未縫合の…
+j	ひよりみ	hiyorimi	天候を観測すること。天気の変化を観察すること。
+j	ひらがな	hiragana	仮名の一種。漢字の草書体を起源とするもので、片仮名…
+j	ひらきど	hirakido	片方を蝶番で止め、もう片方を引いたり押したりして開…
+j	ひらける	hirakeru	開いた状態になる。
+j	ひらじろ	hirajiro	平地に築かた城。
+j	ひらたけ	hiratake	ハラタケ目ヒラタケ属に属するきのこの一種。学名:P…
+j	ひらづみ	hirazumi	stacking books on top of …
+j	ひらばり	hirabari	棟がなく布帛を平らに張った屋根。また、そのような屋…
+j	ひらひら	hirahira	with a flicker
+j	ひらまく	hiramaku	平張りの幕。
+j	ひらまさ	hiramasa	スズキ目アジ科ブリモドキ亜科ブリ属に属する魚の一種…
+j	ひらめき	hirameki	閃くこと。ひらひらと揺れ動くこと。
+j	ひらめく	hirameku	きらりと輝く。
+j	ひりだす	hiridasu	腹の中の物を出す。
+j	ひりひり	hirihiri	being irritating, smartin…
+j	ひるがた	hirugata	朝型と夜型の中間の生活リズム。また、そのような人間。
+j	ひるごろ	hirugoro	午前11時頃から午後1時頃までの2時間前後。
+j	ひるすぎ	hirusugi	正午を過ぎた時分。昼下がり。
+j	ひるどき	hirudoki	正午頃。
+j	ひるめろ	hirumero	昼メロ: soap opera
+j	ひるドラ	hirudora	daytime television drama
+j	ひれふす	hirefusu	膝、両手を地につき、頭を地面につけてうつむく。平伏…
+j	ひれ伏す	hirefusu	to prostrate oneself
+j	ひろかず	hirokazu	弘和, 浩一, 泰一, 拓一, 寛和, 博一, 展…
+j	ひろがり	hirogari	広がること。
+j	ひろがる	hirogaru	to spread, to extend
+j	ひろくに	hirokuni	博国: a male given name
+j	ひろげる	hirogeru	to spread open, to unfold
+j	ひろたか	hirotaka	仁貴: a male given name
+j	ひろたみ	hirotami	啓民: a male given name
+j	ひろのぶ	hironobu	広信: a male given name
+j	ひろのり	hironori	壽統, 浩徳, 浩典, 紘範, 弘教, 弘典, 裕…
+j	ひろはる	hiroharu	裕治, 宏治: a male given name
+j	ひろひさ	hirohisa	博久, 裕久: a male given name
+j	ひろひと	hirohito	裕仁: the 124th emperor of …
+j	ひろびろ	hirobiro	空間が広く、開放感がある様子。
+j	ひろふみ	hirofumi	弘文, 博文, 浩文, 浩史, 洋文, 裕文: a…
+j	ひろまさ	hiromasa	宏昌, 大昌, 博正, 博雅, 浩雅: a mal…
+j	ひろまる	hiromaru	to spread; to go around (…
+j	ひろめる	hiromeru	to broaden; to widen
+j	ひろもと	hiromoto	広基, 博元: a male given name
+j	ひろもり	hiromori	博盛: a male given name
+j	ひろやす	hiroyasu	博康, 浩康, 弘泰: a male given …
+j	ひろゆき	hiroyuki	博幸, 浩行, 宏行, 裕幸, 浩之, 宏之, 裕…
+j	ヒアリング	hiaringu	hearing; ability to hear
+j	ヒゲガラ	higegara	
+j	ヒサカキ	hisakaki	ツツジ目モッコク科ヒサカキ属に属す常緑樹。学名:E…
+j	ヒステリー	hisuteri	hysteria
+j	ヒストリー	hisutori	歴史、経歴、履歴。
+j	ヒズボラ	hizubora	
+j	ヒッタイト	hittaito	
+j	ヒットマン	hittoman	
+j	ヒトカラ	hitokara	one-man karaoke session
+j	ヒトヒト	hitohito	human-to-human, H2H
+j	ヒトリガ	hitoriga	
+j	ヒト・ヒト	hitohito	
+j	ヒバカリ	hibakari	ユウダ科ヒバカリ属に属する無毒の蛇。学名:Amph…
+j	ヒペリオン	hiperion	土星の第7衛星の固有名。
+j	ヒマダニ	himadani	
+j	ヒマティオン	himation	
+j	ヒマラヤ	himaraya	the Himalayas
+j	ヒマワリ	himawari	ひまわりの学術的表記。
+j	ヒメウイキョウ	himeikyo	
+j	ヒメコラ	himekora	
+j	ヒメネス	himenesu	
+j	ヒメマス	himemasu	サケ目サケ科に属するOncorhynchus ne…
+j	ヒヤヒヤ	hiyahiya	謹聴せよ。聴け。
+j	ヒヨドリ	hiyodori	スズメ目ヒヨドリ科ヒヨドリ属の鳥の一種。学名:Hy…
+j	ヒラマメ	hiramame	
+j	ヒリヒリ	hirihiri	
+j	ヒルビリー	hirubiri	アメリカアパラチア山脈南部の農民の間で歌われたカン…
+j	ヒロイック	hiroikku	heroic
+j	ヒンズー人	hinzujin	
+j	ヒンズー教	hinzukyo	バラモン教の聖典やカースト制度を継承し、土着の信仰…
+j	ヒンドゥー人	hindujin	
+j	ヒンドゥー教	hindukyo	Hinduism
+j	ヒートアップ	hitoappu	加熱すること。
+j	一人で	hitoride	
+j	一人の	hitorino	
+j	一入	hitoshio	especially
+j	一切れ	hitokire	
+j	一吹き	hitofuki	a (single) blast of air (…
+j	一振り	hitofuri	the act of swinging somet…
+j	一組	hitokumi	
+j	一花	hitohana	one flower
+j	一苦労	hitokuro	ちょとした苦労。
+j	一通り	hitotori	the basics, a general idea
+j	一際	hitokiwa	noticeably, especially
+j	一頃	hitokoro	once; at one time
+j	一風呂	hitofuro	a bath (a single instance…
+j	丁巳	hinotomi	Fire Snake, the fifty-fou…
+j	丙午	hinoeuma	Fire Horse, the forty-thi…
+j	丙戌	hinoeinu	Fire Dog, the twenty-thir…
+j	久々	hisabisa	being for the first time …
+j	久しい	hisashii	long, a long time since
+j	久一	hisakazu	a male given name
+j	久元	hisamoto	a male given name
+j	久則	hisanori	a male given name
+j	久彦	hisahiko	a male given name
+j	久扶	hisasuke	a male given name
+j	久朋	hisatomo	a male given name
+j	久高	hisataka	a surname
+j	人々	hitobito	people, each person, ever…
+j	人の世	hitonoyo	the human world
+j	人の子	hitonoko	
+j	人を食う	hitookuu	to despise, to look down,…
+j	人並み	hitonami	average, ordinary
+j	人中	hitonaka	society, company
+j	人垣	hitogaki	crowd of people
+j	人妻	hitozuma	a married woman
+j	人影	hitokage	a figure of a person
+j	人文字	hitomoji	大勢の人が集まって列に並び大きな文字をつくること。…
+j	人柄	hitogara	personality, character; p…
+j	人波	hitonami	surging crowd, wave of hu…
+j	人込み	hitogomi	crowd of people
+j	人通り	hitodori	coming and going of peopl…
+j	人里	hitozato	a place inhabited by peop…
+j	人魂	hitodama	A disembodied human soul;…
+j	仁貴	hirotaka	a male given name
+j	他人事	hitogoto	someone else's concern or…
+j	低まる	hikumaru	to be lowered, to become …
+j	低める	hikumeru	to lower (something)
+j	冷やかす	hiyakasu	to refrigerate, cool
+j	冷ややか	hiyayaka	cold; chilly
+j	卑下する	higesuru	
+j	卑弥弓呼	himikoko	Himikoko/Himikuku, a semi…
+j	卑怯な	hikyouna	
+j	博一	hirokazu	a male given name
+j	博久	hirohisa	a male given name
+j	博之	hiroyuki	a male given name
+j	博元	hiromoto	a male given name
+j	博典	hironori	a male given name
+j	博和	hirokazu	a male given name
+j	博国	hirokuni	a male given name
+j	博幸	hiroyuki	a male given name
+j	博康	hiroyasu	a male given name
+j	博征	hiroyuki	a male given name
+j	博文	hirofumi	a male given name
+j	博正	hiromasa	a male given name
+j	博盛	hiromori	a male given name
+j	向日葵	himawari	a sunflower, Helianthus a…
+j	否定形	hiteikei	negative form
+j	否定文	hiteibun	否定の内容を示す文。
+j	品の良い	hinnoyoi	
+j	啓之	hiroyuki	a male given name
+j	啓民	hirotami	a male given name
+j	壽統	hironori	a male given name
+j	夷守	hinamori	a co-chieftain in ancient…
+j	姫乃樹	himenogi	a surname
+j	姫君	himegimi	title for a daughter of a…
+j	姫川	himekawa	Hime River (a river in Wa…
+j	姫様	himesama	A title of respect used w…
+j	姫風露	himefuro	herb Robert (Geranium rob…
+j	姫鱒	himemasu	
+j	宏一	hirokazu	a male given name
+j	宏之	hiroyuki	a male given name
+j	宏倫	hironori	a male given name
+j	宏和	hirokazu	a male given name
+j	宏昌	hiromasa	a male given name
+j	宏治	hiroharu	a male given name
+j	宏行	hiroyuki	a male given name
+j	密やか	hisoyaka	quiet; calm; still
+j	寛之	hiroyuki	a male given name
+j	寛貴	hirotaka	a male given name
+j	寿伸	hisanobu	a male given name
+j	尚徳	hisanori	a male given name
+j	尚成	hisanori	a male given name
+j	尚輔	hisasuke	a male given name
+j	展和	hirokazu	a male given name
+j	左に	hidarini	
+j	左上	hidariue	top left, upper left
+j	左手	hidarite	left hand
+j	平仮名	hiragana	hiragana, a Japanese syll…
+j	平伏す	hirefusu	
+j	平城	hirajiro	a castle built on level g…
+j	平山	hirayama	a surname
+j	平嶋	hirajima	a surname
+j	平川	hirakawa	Hirakawa (a city in Aomor…
+j	平沢	hirasawa	a surname
+j	平議員	hiragiin	
+j	平針	hirabari	a flat needle
+j	広々	hirobiro	
+j	広がる	hirogaru	
+j	広げる	hirogeru	
+j	広まる	hiromaru	
+j	広める	hiromeru	
+j	広之	hiroyuki	a male given name
+j	広信	hironobu	a male given name
+j	広山	hiroyama	a surname
+j	広幸	hiroyuki	a male given name
+j	広永	hironaga	a surname
+j	廣山	hiroyama	a surname
+j	引かれる	hikareru	to be charmed by; to be a…
+j	引きずる	hikizuru	
+j	引き下げ	hikisage	reduction, cut
+j	引き出す	hikidasu	take out, withdraw
+j	引き分け	hikiwake	draw, tie
+j	引き取る	hikitoru	take back, collect, claim
+j	引き幕	hikimaku	
+j	引き抜き	hikinuki	
+j	引き摺る	hikizuru	drag, pull
+j	引き眉	hikimayu	eyebrows that have been d…
+j	引き裂く	hikisaku	to tear to shreds/pieces;…
+j	引き金	hikigane	trigger (of a gun)
+j	引く数	hikukazu	
+j	引っ越し	hikkoshi	
+j	引っ返す	hikkaesu	
+j	弘之	hiroyuki	a male given name
+j	弘介	hiroyuki	a male given name
+j	弘典	hironori	a male given name
+j	弘兼	hirokane	a surname
+j	弘前	hirosaki	a city in Aomori Prefectu…
+j	弘幸	hiroyuki	a male given name
+j	弘教	hironori	a male given name
+j	弘文	hirofumi	a male given name
+j	弘泰	hiroyasu	a male given name
+j	彦坂	hikosaka	a surname
+j	必殺	hissatsu	lethality, deadliness
+j	必然	hitsuzen	certain, inevitable, nece…
+j	必着	hitchaku	must be delivered, must b…
+j	必至の	hisshino	
+j	必達	hittatsu	目的に必ず到達すること。
+j	悲劇の	higekino	
+j	惹かれる	hikareru	
+j	扁豆	hiramame	
+j	挽き肉	hikiniku	細かく切ったり、すり潰した肉。
+j	挽肉	hikiniku	ground meat, minced meat
+j	日が浅い	higaasai	be new, it has not been l…
+j	日に日に	hinihini	day by day, gradually
+j	日の丸	hinomaru	a circle, usually colored…
+j	日の本	hinomoto	
+j	日の浅い	hinoasai	
+j	日丸屋	himaruya	a surname
+j	日和見	hiyorimi	weather watching
+j	日替わり	higawari	
+j	日溜まり	hidamari	a place in the sun
+j	昼ドラ	hirudora	昼の同じ時間帯に放送されているドラマ。
+j	昼メロ	hirumero	soap opera
+j	昼時	hirudoki	
+j	昼間の	hirumano	
+j	東へ	higashie	
+j	枚方	hirakata	Hirakata (a city in Osaka…
+j	柃	hisakaki	Eurya japonica var. japon…
+j	柊草	hiragiso	Ajuga incisa
+j	比翼草	hiyokuso	Veronica laxa
+j	泰一	hirokazu	a male given name
+j	洋幸	hiroyuki	a male given name
+j	洋文	hirofumi	a male given name
+j	浩之	hiroyuki	a male given name
+j	浩仁	hirohito	a male given name
+j	浩典	hironori	a male given name
+j	浩史	hirofumi	a male given name
+j	浩幸	hiroyuki	a male given name
+j	浩康	hiroyasu	a male given name
+j	浩徳	hironori	a male given name
+j	浩文	hirofumi	a male given name
+j	浩行	hiroyuki	a male given name
+j	浩雅	hiromasa	a male given name
+j	潜める	hisomeru	to hide; to conceal
+j	瀕死の	hinshino	
+j	火かき棒	hikakibo	poker (for poking for pok…
+j	火の玉	hinotama	
+j	火の鳥	hinotori	a phoenix, more specifica…
+j	火縄銃	hinawaju	harquebus, matchlock
+j	火脹れ	hibukure	
+j	火達磨	hidaruma	全身が炎に包まれているさま。
+j	火鼠	hinezumi	a fire-rat: an imaginary …
+j	畢業	hitsugyo	業を終えること。卒業すること。
+j	皮肉な	hinikuna	
+j	皮肉る	hinikuru	to speak cynically or wit…
+j	皮脂腺	hishisen	皮膚（真皮）の中にあって毛嚢に開口し、皮脂を分泌す…
+j	皮質	hishitsu	cortex
+j	直垂	hitatare	a two-piece set of clothi…
+j	砒化する	hikasuru	
+j	神籬	himoroki	in Shintō, a holy area su…
+j	秀之	hideyuki	a male given name
+j	秀典	hidenori	a male given name
+j	秀則	hidenori	a male given name
+j	秀和	hidekazu	a male given name
+j	秀孝	hidetaka	a male given name
+j	秀寛	hidehiro	a male given name
+j	秀崇	hidetaka	a male given name
+j	秀幸	hideyuki	a male given name
+j	秀彦	hidehiko	a male given name
+j	秀忠	hidetada	a male given name
+j	秀憲	hidenori	a male given name
+j	秀文	hidefumi	a male given name
+j	秀武	hidetake	a male given name
+j	秀治	hideharu	a male given name
+j	秀浩	hidehiro	a male given name
+j	秀範	hidenori	a male given name
+j	秀臣	hidetomi	a male given name
+j	秀行	hideyuki	a male given name
+j	秘境駅	hikyoeki	a train station distant f…
+j	秘書官	hishokan	高官の秘書を行う職員。
+j	稗粒種	hiryushu	milium
+j	筆台	hitsudai	筆を乗せる台。
+j	筆名	hitsumei	synonym of ペンネーム (pen nēm…
+j	筆触	hisshoku	stroke, style of drawing …
+j	筆記体	hikkitai	cursive script, cursive w…
+j	筆記者	hikkisha	a copyist, stenographer, …
+j	筆談	hitsudan	communication by pen and …
+j	筆陣	hitsujin	文章により論戦をすること。
+j	筆順	hitsujun	stroke order, stroke orde…
+j	等しい	hitoshii	equal
+j	粃糠疹	hikoshin	pityriasis
+j	紘範	hironori	a male given name
+j	終日	hinemosu	all day long, for a whole…
+j	緋目高	himedaka	ミナミメダカの改良品種。
+j	罅割れ	hibiware	developing a crack (thin …
+j	肘掛け	hijikake	
+j	肥沃な	hiyokuna	
+j	肥満症	himansho	
+j	腓腸筋	hichokin	synonym of 腓腹筋 (hifukukin…
+j	膕	hikagami	a knee pit
+j	膝小僧	hizakozo	足の膝関節の前面部分。膝蓋。膝頭。
+j	膝皿	hizasara	The kneecap, the patella.
+j	英之	hideyuki	a male given name
+j	英信	hidenobu	a male given name
+j	英典	hidenori	a male given name
+j	英則	hidenori	a male given name
+j	英史	hidefumi	a male given name
+j	英員	hidekazu	a male given name
+j	英孝	hidetaka	a male given name
+j	英幸	hideyuki	a male given name
+j	英彦	hidehiko	a male given name
+j	英正	hidemasa	a male given name
+j	英行	hideyuki	a male given name
+j	英貴	hidetaka	a male given name
+j	英隆	hidetaka	a male given name
+j	菱食	hishikui	taiga bean goose (Anser f…
+j	蛭石	hiruishi	vermiculite
+j	蜚蠊類	hirenrui	蜚蠊目に分類される昆虫の総称。
+j	被写体	hishatai	写真で撮影の対象となる物体。
+j	被害者	higaisha	victim, casualty
+j	被封籤	hifukuji	取った籤の表面を硬貨などで削ることで結果を確認する…
+j	被検体	hikentai	
+j	被検者	hikensha	
+j	被災地	hisaichi	area hit by a disaster, d…
+j	被災者	hisaisha	victim of a disaster
+j	被選挙	hisenkyo	選挙に立候補すること。
+j	被験者	hikensha	test subject; participant…
+j	裕久	hirohisa	a male given name
+j	裕之	hiroyuki	a male given name
+j	裕仁	hirohito	a male given name (Hirohi…
+j	裕典	hironori	a male given name
+j	裕和	hirokazu	a male given name
+j	裕幸	hiroyuki	a male given name
+j	裕文	hirofumi	a male given name
+j	裕治	hiroharu	a male given name
+j	裕行	hiroyuki	a male given name
+j	裕規	hironori	a male given name
+j	貧打戦	hindasen	両チームともに打線の調子が悪く、得点が少ない試合。…
+j	貧血	hinketsu	anemia
+j	賓客	hinkyaku	honored guest
+j	賓接	hinsetsu	上客として扱う。賓待。
+j	贔屓贔屓	hikibiki	each person supporting (p…
+j	避寒地	hikanchi	避寒を目的に訪れる温暖な土地。
+j	避暑地	hishochi	summer retreat
+j	鄙びる	hinabiru	to give off a rural/rusti…
+j	閃き	hirameki	a flair, a flash (of insp…
+j	閃く	hirameku	to flash
+j	雛型	hinagata	model, template
+j	雛尖	hinasaki	clitoris; a small protrus…
+j	雛形	hinagata	
+j	雛菊	hinagiku	a daisy: a wild flowering…
+j	雛霰	hinarare	sweetened rice-flour cake…
+j	雛鳥	hinadori	chick
+j	非人称	hininsho	意味上の主語がなく、形だけの主語を取る人称。英語の…
+j	非合法化	higohoka	
+j	非対称	hitaisho	
+j	非戦論	hisenron	戦争はすべきでないとする論説や意見、主張。
+j	非推奨	hisuisho	deprecation
+j	非核化	hikakuka	denuclearization
+j	非線形	hisenkei	nonlinear
+j	頻繁な	hinpanna	
+j	頻繁に	hinpanni	
+j	頻脈	hinmyaku	
+j	顋門	hiyomeki	fontanelle/fontanel, soft…
+j	顰蹙	hinshuku	a scowl, a frown
+j	飛翔体	hishotai	flying object, projectile
+j	飛蚊症	hibunsho	eye floaters (as a diseas…
+j	髭剃り	higesori	shaver; razor
+j	髭雀	higegara	
+j	鬻女	hisakime	a female peddler
+j	魅かれる	hikareru	
+j	鵯	hiyodori	brown-eared bulbul, Hypsi…
+j	鸙野	hibarino	a surname
+k	히라가나	hiragana	hiragana
+k	히로시마	hirosima	
+k	히페리온	hiperion	
+k	힌두교	hindugyo	Hinduism
+k	힐끔	hilkkeum	거볍게 곁눈질하여 슬쩍 한 번 쳐다보는 모양.
+k	힐끗	hilkkeut	
+k	힐러리	hilleori	
+k	힐책	hilchaek	rebuke, reprimand
+k	힘껏	himkkeot	with might and main, amain
+k	힘내다	himnaeda	to pluck up one's heart, …
+k	힘없다	himeopda	weak; powerless
+k	힘없이	himeopsi	
+k	힘차다	himchada	strong, powerful, vigorou…
+e	hibakusha	hibakusha	1 meaning
+e	hibernate	hibernate	1 meaning
+e	hierarchy	hierarchy	1 meaning
+e	hieromonk	hieromonk	1 meaning
+e	high heels	highheels	1 meaning
+e	high-class	highclass	1 meaning
+e	high-speed	highspeed	1 meaning
+e	highchair	highchair	1 meaning
+e	highlight	highlight	4 meanings
+e	hilarious	hilarious	1 meaning
+e	hillbilly	hillbilly	1 meaning
+e	hilversum	hilversum	1 meaning
+e	himalayan	himalayan	1 meaning
+e	himalayas	himalayas	1 meaning
+e	hindrance	hindrance	1 meaning
+e	hindsight	hindsight	1 meaning
+e	hindu kush	hindukush	1 meaning
+e	hindustan	hindustan	2 meanings
+e	hippology	hippology	1 meaning
+e	hippurate	hippurate	1 meaning
+e	hiratsuka	hiratsuka	1 meaning
+e	hiroshima	hiroshima	1 meaning
+e	histamine	histamine	1 meaning
+e	histidine	histidine	1 meaning
+e	histology	histology	1 meaning
+e	historian	historian	2 meanings
+e	hit and run	hitandrun	3 meanings
+e	hitchcock	hitchcock	1 meaning
+e	hitchhike	hitchhike	1 meaning
+e	hitlerism	hitlerism	1 meaning
+j	ひがんばな	higanbana	彼岸花: red spider lily (Lyc…
+j	ひきあげる	hikiageru	引っ張って上に上げる。
+j	ひきあわせ	hikiawase	「ひきあわせる」の未然形及び連用形。
+j	ひきいれる	hikiireru	引いて中に入れる。
+j	ひきうける	hikiukeru	物事を責任を持って受け持つ。
+j	ひきおこす	hikiokosu	倒れていた物を引っ張って起こす。
+j	ひきかえす	hikikaesu	もとの方向に戻る。
+j	ひきかえる	hikikaeru	物同士を交換する。取り替える。
+j	ひきがえる	hikigaeru	カエル目ヒキガエル科に属するかえるの総称。学名:B…
+j	ひきしめ	hikishime	「ひきしめる」の未然形及び連用形。
+j	ひきたつ	hikitatsu	見栄えがある。
+j	ひきだし	hikidashi	引き出し, 引出し: drawer
+j	ひきつぎ	hikitsugi	「ひきつぐ」の連用形。
+j	ひきつぐ	hikitsugu	仕事などの後を受け継ぐ。継承する。
+j	ひきつけ	hikitsuke	「ひきつける」の未然形及び連用形。
+j	ひきつる	hikitsuru	筋肉が攣って痛む。
+j	ひくいどり	hikuidori	ダチョウ目ヒクイドリ科ヒクイドリ属の鳥の総称。
+j	ひくつく	hikutsuku	to twitch
+j	ひぐらし	higurashi	日の出から日暮れまで、一日中。
+j	ひげなし	higenashi	
+j	ひげをそる	higeosoru	
+j	ひこうしき	hikoshiki	非公式: informal, unofficial…
+j	ひこほし	hikohoshi	牽牛星、アルタイル。ひこぼし。
+j	ひこぼし	hikoboshi	牽牛星。アルタイル。ひこほし。
+j	ひさしく	hisashiku	久しく: for a long time
+j	ひさよし	hisayoshi	寿好: a male given name
+j	ひしがた	hishigata	菱の実の形。
+j	ひしきじ	hishikiji	非識字: illiteracy
+j	ひしげる	hishigeru	押し潰される。圧し潰される。
+j	ひしめく	hishimeku	to crowd together; to thr…
+j	ひしゃげる	hishageru	to flatten
+j	ひじょうしき	hijoshiki	非常識: lack of common sense…
+j	ひずみ計	hizumikei	地殻変動の観測の一部として、岩盤の収縮や膨張など（…
+j	ひだりうで	hidariude	左側の腕。
+j	ひだりまえ	hidarimae	相手から見て、左の衽を上に出して和服を着ること。
+j	ひっかかる	hikkakaru	突き出したものに止められる。
+j	ひっかける	hikkakeru	（突起や環状のものに）かませる・ぶらさげる。
+j	ひっこぬく	hikkonuku	synonym of ひきぬく (hikinuku)
+j	ひっこめる	hikkomeru	突き出ている物を元の状態に戻す。
+j	ひっさげる	hissageru	手に提げて持つ。
+j	ひったくり	hittakuri	snatch theft
+j	ひったくる	hittakuru	他人が持っている所持品を摑んで無理やり奪い取る。
+j	ひっぱたく	hippataku	「はたく」を強調する語。強く叩く。
+j	ひでつぐ	hidetsugu	英嗣: a male given name
+j	ひでとし	hidetoshi	英俊, 英智, 秀敏, 豪紀, 英利, 秀俊: a…
+j	ひでみち	hidemichi	秀道: a male given name
+j	ひでみつ	hidemitsu	秀光: a male given name
+j	ひでりあめ	hideriame	日は照っているが雨が降ること。天気雨。狐の嫁入り。
+j	ひとあたり	hitoatari	impression that a person …
+j	ひとえぎぬ	hitoeginu	平安時代、装束の下に着た裏地のない衣服。
+j	ひとえもの	hitoemono	裏をつけずに仕立てた和服。特に長着。
+j	ひとかかえ	hitokakae	両手を広げ、抱えるくらいの太さや大きさ。
+j	ひとくち	hitokuchi	一度に沢山のものを口に入れること。
+j	ひとさらい	hitosarai	人、特に女こどもを暴力を用いたり騙したりして連れ去…
+j	ひとじち	hitojichi	人質: hostage; prisoner
+j	ひとそろい	hitosoroi	一揃い: a complete set of so…
+j	ひとたち	hitotachi	人々。
+j	ひとっとび	hitottobi	hop, skip, and a jump (sh…
+j	ひとっぱも	hitoppamo	（打消語を後接して）少しも～ない。ちっとも～ない。
+j	ひとつき	hitotsuki	一つの暦法上の月に相当する時間。
+j	ひとつご	hitotsugo	兄弟姉妹がいない子供。ひとりっこ。
+j	ひとつば	hitotsuba	ウラボシ科の常緑性羊歯植物。また、ヒトツバ属やそれ…
+j	ひとつぶ	hitotsubu	一粒: a grain (of rice); a …
+j	ひとなつ	hitonatsu	一つの夏の期間。
+j	ひとばらい	hitobarai	密談などのため、関係者以外の者をその場や部屋から遠…
+j	ひとふし	hitofushi	竹や草木の一つの節。
+j	ひとよんで	hitoyonde	people call me/them
+j	ひとりおや	hitorioya	両親のうちどちらか一方がいないこと。片親。
+j	ひなあそび	hinaasobi	古は女子の雛人形を弄ぶ事。
+j	ひなあられ	hinaarare	ひなまつりに供えられるあられ。加熱したもち米に、紅…
+j	ひなげし	hinageshi	ケシ目ケシ属に属する植物の一種。学名:Papave…
+j	ひにしる	hinishiru	つねる。
+j	ひのえさる	hinoesaru	十干十二支の33番目。へいしん。
+j	ひのえとら	hinoetora	十干十二支の3番目。へいいん。
+j	ひのした	hinoshita	日の下: (idiomatic) under th…
+j	ひのとうし	hinotoshi	十干十二支の14番目。ていちゅう。
+j	ひばしら	hibashira	空中に柱のように立ち上る赤い気。
+j	ひみかし	himikashi	synonym of 東 (higashi, “e…
+j	ひもむし	himomushi	紐形動物門に属する動物の総称。紐形動物。
+j	ひも理論	himoriron	
+j	ひやかし	hiyakashi	冷やかし: making fun of
+j	ひやめし	hiyameshi	冷えた飯。[1692年～]
+j	ひややっこ	hiyayakko	冷奴: hiyayakko
+j	ひらおよぎ	hiraoyogi	体を下向きにし、左右対称に両手を胸の前で水を搔き、…
+j	ひらつく	hiratsuku	薄く軽い物が風などにより揺れ動く。
+j	ひりつく	hiritsuku	ひりひりと痛む。
+j	ひるがえす	hirugaesu	素早く裏返す。急に向きを逆にする。ひっくり返す。
+j	ひるがえる	hirugaeru	風にひらひらとなびく。
+j	ひるめし	hirumeshi	昼に食べる食事。「昼食」よりも庶民的な用法のことば。
+j	ひろかつ	hirokatsu	裕勝, 博勝, 博且: a male given …
+j	ひろしき	hiroshiki	大きな広間。
+j	ひろしげ	hiroshige	寛茂: a male given name
+j	ひろつぐ	hirotsugu	浩継: a male given name
+j	ひろとし	hirotoshi	弘寿: a male given name
+j	ひろみつ	hiromitsu	博満: a male given name
+j	ひろよし	hiroyoshi	博睦: a male given name
+j	ひんがちゃん	hingachan	
+j	ひんしつ	hinshitsu	品質: quality
+j	ひんまげる	hinmageru	to bend
+j	ひんみんがい	hinmingai	貧民街: slum
+j	ヒアシンス	hiashinsu	「ヒヤシンス」の表記ゆれ。
+j	ヒエラルキー	hieraruki	ピラミッド型の階層構造。
+j	ヒエラルヒー	hieraruhi	ヒエラルキーの別形。
+j	ヒガンバナ	higanbana	彼岸花: red spider lily (Lyc…
+j	ヒキガエル	hikigaeru	ひきがえるの学術的表記。
+j	ヒクイドリ	hikuidori	ダチョウ目ヒクイドリ科ヒクイドリ属の鳥の一種。学名…
+j	ヒグラシ	higurashi	カメムシ目セミ科ヒグラシ属に属する蟬の総称。学名:…
+j	ヒゲワシ	higewashi	タカ目タカ科ヒゲワシ属に属する猛禽類の一種。学名:…
+j	ヒスタミン	hisutamin	生体に広く存在するアミンの一種で、通常肥満細胞や好…
+j	ヒス構文	hisukobun	非論理的な飛躍、論点のすり替え、またはヒステリック…
+j	ヒップスター	hippusuta	hipster
+j	ヒドラジン	hidorajin	hydrazine (NH₂-NH₂)
+j	ヒドラゾン	hidorazon	hydrazone
+j	ヒドロ虫	hidorochu	Hydrozoa; hydrozoan
+j	ヒベルニア	hiberunia	古代ローマでアイルランド島を指した名。
+j	ヒマラヤン	himarayan	a Himalayan (cat breed)
+j	ヒメリンゴ	himeringo	バラ目バラ科リンゴ属に属する落葉高木の一種。学名:…
+j	ヒラメ筋	hiramekin	a soleus muscle
+j	ヒルトップ	hirutoppu	hilltop
+j	ヒロイズム	hiroizumu	heroism
+j	ヒロシマ	hiroshima	（原子爆弾の被爆地としての）広島市。
+j	ヒンディッシュ	hindisshu	インド英語。
+j	ヒートポンプ	hitoponpu	仕事を受け取って、温度が低い熱源から温度が高い熱源…
+j	ヒートマップ	hitomappu	
+j	一つ目	hitotsume	first, initial
+j	一人っ子	hitorikko	only child
+j	一口	hitokuchi	eating or drinking all of…
+j	一夏	hitonatsu	one summer
+j	一揃い	hitosoroi	a complete set of somethi…
+j	一晩中	hitobanju	all night
+j	一粒	hitotsubu	a grain (of rice); a drop…
+j	丙寅	hinoetora	Fire Tiger, the third ter…
+j	丙申	hinoesaru	Fire Monkey, the thirty-t…
+j	久しく	hisashiku	for a long time
+j	久敏	hisatoshi	a male given name
+j	久義	hisayoshi	a male given name
+j	人吉	hitoyoshi	Hitoyoshi (a city in Kuma…
+j	人差し	hitosashi	
+j	人質	hitojichi	a hostage
+j	人達	hitotachi	
+j	光あれ	hikariare	
+j	冷奴	hiyayakko	hiyayakko (a Japanese dis…
+j	卑劣な	hiretsuna	
+j	卑屈な	hikutsuna	
+j	卑怯者	hikyomono	coward
+j	卑金属	hikinzoku	a base metal
+j	博且	hirokatsu	a male given name
+j	博光	hiromitsu	a male given name
+j	博勝	hirokatsu	a male given name
+j	博敏	hirotoshi	a male given name
+j	博満	hiromitsu	a male given name
+j	博睦	hiroyoshi	a male given name
+j	博義	hiroyoshi	a male given name
+j	否定する	hiteisuru	
+j	否定的	hiteiteki	negative
+j	品質	hinshitsu	quality
+j	啓充	hiromitsu	a male given name
+j	姫カット	himekatto	hime cut, a hairstyle fea…
+j	姫プレイ	himepurei	allowing male players to …
+j	宏典	hiromichi	a male given name
+j	寛茂	hiroshige	a male given name
+j	寿好	hisayoshi	a male given name
+j	平塚	hiratsuka	Hiratsuka (a city in Kana…
+j	平松	hiramatsu	a surname
+j	平泳ぎ	hiraoyogi	breaststroke
+j	平社員	hirashain	ordinary employee
+j	平調子	hirajoshi	the most common method of…
+j	平野水	hiranosui	synonym of 炭酸水 (tansansui…
+j	広光	hiromitsu	a male given name
+j	広島	hiroshima	Hiroshima (the capital ci…
+j	引き上げる	hikiageru	pull up, lift up
+j	引き付け	hikitsuke	convulsions
+j	引き出し	hikidashi	drawer (open-topped box i…
+j	引き受ける	hikiukeru	accept a responsibility, …
+j	引き払う	hikiharau	to leave, to clear out
+j	引き攣り	hikitsuri	scar
+j	引き継ぐ	hikitsugu	to take over; to take on;…
+j	引き起こす	hikiokosu	cause, bring about
+j	引けを取る	hikeotoru	be outdone by
+j	引っかかる	hikkakaru	
+j	引っ叩く	hippataku	to slap, to strike, to sp…
+j	引っ掛かる	hikkakaru	to snag onto; to catch on
+j	引っ掛ける	hikkakeru	be caught in, hook
+j	引っ提げる	hissageru	carry in one's hands
+j	引っ込める	hikkomeru	to draw in, to pull back
+j	引出	hikidashi	
+j	引出し	hikidashi	
+j	弘光	hiromitsu	a male given name
+j	弘寿	hirotoshi	a male given name
+j	弘義	hiroyoshi	a male given name
+j	彦星	hikoboshi	Hikoboshi (Japanese versi…
+j	彼岸花	higanbana	red spider lily (Lycoris …
+j	必読	hitsudoku	required reading
+j	悲観的	hikanteki	pessimistic
+j	批准する	hijunsuru	
+j	批判する	hihansuru	
+j	批判的	hihanteki	critical, showing critici…
+j	批評する	hihyosuru	
+j	日の下	hinoshita	under the sun
+j	日向燗	hinatakan	日本酒の燗の温度帯のひとつ。30度前後のものをいう。
+j	日暮らし	higurashi	from morning to evening, …
+j	日照り雨	hideriame	sun shower
+j	昼ご飯	hirugohan	lunch
+j	昼職	hirushoku	job that is not in the ni…
+j	昼行灯	hiruandon	役に立たない人。
+j	昼飯	hirumeshi	lunch
+j	晩蝉	higurashi	
+j	曾お祖母さん	hiiobasan	
+j	東の	higashino	
+j	比較厨	hikakuchu	コンテンツや作品、人物などを、むやみに他のものと比…
+j	比較級	hikakukyu	comparative
+j	泌尿器科	hinyokika	the department of urology
+j	洋光	hiromitsu	a male given name
+j	浩俊	hirotoshi	a male given name
+j	浩継	hirotsugu	a male given name
+j	火が付く	higatsuku	to catch fire; to be igni…
+j	火に油	hiniabura	
+j	火狐	higitsune	Firefox (web browser)
+j	火食い鳥	hikuidori	a southern cassowary
+j	皮下脂肪	hikashibo	
+j	砒化水素	hikasuiso	arsine
+j	秀俊	hidetoshi	a male given name
+j	秀光	hidemitsu	a male given name
+j	秀吉	hideyoshi	a male given name
+j	秀敏	hidetoshi	a male given name
+j	秀道	hidemichi	a male given name
+j	秘伝要員	hidenyoin	
+j	秘匿名	hitokumei	
+j	秘密の	himitsuno	
+j	秘密裏	himitsuri	内密の状態で実行すること。秘密裡。
+j	秘密裡	himitsuri	内密の状態で実行すること。秘密裏。
+j	稟質	hinshitsu	天から受けた性質。うまれつき。稟性。
+j	筆圧	hitsuatsu	筆記用具で文字などを書く際に紙面にかける圧力。
+j	筆記用具	hikkiyogu	筆記に使用する道具。鉛筆やシャープペン、ボールペン…
+j	等しく	hitoshiku	
+j	篳篥	hichiriki	a cylindrical double reed…
+j	紐理論	himoriron	synonym of 弦理論 (genriron,…
+j	紐鶏頭	himogeito	
+j	紘通	hiromichi	a male given name
+j	緋連雀	hirenjaku	Japanese waxwing, Bombyci…
+j	翻す	hirugaesu	to turn over; to flip over
+j	翻る	hirugaeru	to turn over; to be flipp…
+j	肘鉄	hijitetsu	肘を突き出してのけること。肘鉄砲。
+j	肘鉄砲	hijideppo	肘を突き出してのけること。肘鉄。
+j	肥大する	hidaisuru	
+j	肥育	hiikusuru	to fatten (livestock)
+j	腓腹筋	hifukukin	a gastrocnemius muscle
+j	英利	hidetoshi	a male given name
+j	英嗣	hidetsugu	a male given name
+j	茅蜩	higurashi	evening cicada
+j	菱形	hishigata	rhombus
+j	蓖麻子油	himashiyu	トウゴマの種子から抽出された油脂。下剤や化粧品など…
+j	蜩	higurashi	the evening cicada (Tanna…
+j	蟇蛙	hikigaeru	a toad (amphibian similar…
+j	被告人	hikokunin	defendant; the accused; r…
+j	被害妄想	higaimoso	persecutory delusion
+j	被扶養者	hifuyosha	ある者に扶養されている者。
+j	被爆地	hibakuchi	原子爆弾が投下された広島市と長崎市。
+j	被爆者	hibakusha	a person who was bombed (…
+j	被覆形	hifukukei	in Japanese morphology, a…
+j	被雇用者	hikoyosha	employee
+j	裕勝	hirokatsu	a male given name
+j	裕良	hiroyoshi	a male given name
+j	豪紀	hidetoshi	a male given name
+j	貧困線	hinkonsen	poverty line
+j	貧困者	hinkonsha	pauper
+j	貧富の差	hinpunosa	wealth inequality
+j	貧栄養湖	hineiyoko	oligotrophic lake
+j	貧歯類	hinshirui	
+j	貧民街	hinmingai	slum
+j	避妊薬	hininyaku	contraceptive medicine, a…
+j	避難する	hinansuru	
+j	避雷針	hiraishin	lightning rod
+j	雛罌粟	hinageshi	Papaver rhoeas, common po…
+j	非ナチ化	hinachika	denazification
+j	非ネイティブ	hineitibu	
+j	非公式	hikoshiki	informal, unofficial, pri…
+j	非可逆	hikagyaku	
+j	非同時性	hidojisei	
+j	非国民	hikokumin	unpatriotic person, trait…
+j	非常事態	hijojitai	state of emergency (unusu…
+j	非常口	hijoguchi	emergency exit
+j	非常識	hijoshiki	lack of common sense, tho…
+j	非戦闘員	hisentoin	一般国民。民間人。
+j	非政治化	hiseijika	
+j	非日常	hinichijo	日常行うこと（状態）でないこと。また、そのようなさ…
+j	非暴力	hiboryoku	nonviolence
+j	非正規化	hiseikika	
+j	非課税の	hikazeino	
+j	非識字	hishikiji	illiteracy
+j	非軍事化	higunjika	demilitarization
+j	非金属	hikinzoku	金属としての性質を持たない物質。
+j	非難する	hinansuru	
+j	非難囂囂	hinangogo	責め立てる声がやかましいさま。
+j	頻出	hinshutsu	appearing frequently
+j	飛行機酔い	hikokiyoi	
+j	髭鷲	higewashi	
+k	히로뽕	hiroppong	
+k	히말라야	himallaya	
+k	히메네스	himeneseu	
+k	히브리어	hibeurieo	Hebrew language
+k	히브리의	hibeuriui	
+k	히브리인	hibeuriin	
+k	히스테리	hiseuteri	hysteria
+k	히아신스	hiasinseu	
+k	히트 맵	hiteumaep	
+k	히틀러	hiteulleo	Hitler
+k	힘겨운	himgyeoun	'힘겹다'의 관형사형.
+k	힘겨움	himgyeoum	'힘겹다'의 명사형.
+k	힘들다	himdeulda	difficult
+k	힘쓰다	himsseuda	to labour; to exert onese…
+k	힘이 되다	himidoeda	to be supportive, to be o…
+e	hieroglyph	hieroglyph	1 meaning
+e	hierophant	hierophant	1 meaning
+e	higgs boson	higgsboson	1 meaning
+e	high jumper	highjumper	1 meaning
+e	high priest	highpriest	1 meaning
+e	high roller	highroller	1 meaning
+e	high school	highschool	1 meaning
+e	high street	highstreet	1 meaning
+e	high-octane	highoctane	1 meaning
+e	highwayman	highwayman	1 meaning
+e	higonokami	higonokami	1 meaning
+e	hikikomori	hikikomori	1 meaning
+e	hiking boot	hikingboot	1 meaning
+e	hindustani	hindustani	1 meaning
+e	hinge joint	hingejoint	1 meaning
+e	hippodrome	hippodrome	1 meaning
+e	hippogriff	hippogriff	1 meaning
+e	hippophile	hippophile	1 meaning
+e	hispaniola	hispaniola	1 meaning
+e	historical	historical	1 meaning
+e	hit-by-pitch	hitbypitch	1 meaning
+e	hitchhiker	hitchhiker	1 meaning
+j	ひうちいし	hiuchiishi	石英の一種。打ち合わせた際に火花を発生させ点火に用…
+j	ひかげもの	hikagemono	何らかの理由により公然と交流することをはばかる人。
+j	ひからせる	hikaraseru	光るようにする。光らす。
+j	ひからびた	hikarabita	
+j	ひからびる	hikarabiru	すっかり乾き、水分が無くなる。
+j	ひかりおち	hikariochi	悪だった登場人物が善になること。
+j	ひかるかみ	hikarukami	かみなり。雷神。雷光。
+j	ひきおこし	hikiokoshi	引き起こすこと。
+j	ひきがたり	hikigatari	playing an instrument and…
+j	ひきこめる	hikikomeru	引っ込める。
+j	ひきこもり	hikikomori	引き籠もり: a homebody, a shut…
+j	ひきこもる	hikikomoru	外に出ないで家の中などに入ったままでいる。
+j	ひきさがる	hikisagaru	手を引く。
+j	ひきさげる	hikisageru	手に提げて持つ。
+j	ひきたてる	hikitateru	横になっている（倒れている）ものを引いて立てる。
+j	ひきでもの	hikidemono	主人から招待客への贈り物。
+j	ひきとめる	hikitomeru	行く人を引いてとどまらせる。引いて行かないようにす…
+j	ひきのばす	hikinobasu	引っ張ってのばす。
+j	ひきはがす	hikihagasu	引くように剥がす。無理に剥ぎ取る。
+j	ひきはなす	hikihanasu	無理に離れさせる。
+j	ひきまわす	hikimawasu	引っ張って回す。
+j	ひきよせる	hikiyoseru	引き寄せる: to draw or pull so…
+j	ひきわける	hikiwakeru	引き離す。分ける。
+j	ひきわたす	hikiwatasu	引き渡す: hand over, turn ove…
+j	ひぐれがた	higuregata	日が暮れる頃。
+j	ひけらかす	hikerakasu	to show off; to make a di…
+j	ひげくじら	higekujira	鯨偶蹄目ヒゲクジラ亜目に属するくじらの総称。学名:…
+j	ひごのかみ	higonokami	肥後守: A folding pocket kni…
+j	ひざくりげ	hizakurige	徒歩で旅行すること。
+j	ひざまくら	hizamakura	他人の膝（太股のあたり）を枕にして横になること。
+j	ひざまずく	hizamazuku	主に礼拝に際してや屈服の意を表して、膝を地面や床に…
+j	ひしもち	hishimochi	ひなまつりに供える餅。紅・白・緑の3色の餅を重ね、…
+j	ひだりあし	hidariashi	左側の足。
+j	ひだりかた	hidarikata	左側の肩。
+j	ひだりがわ	hidarigawa	左の側。
+j	ひだりきき	hidarikiki	日常において意のままに動かすことのできる腕や手足、…
+j	ひだりひざ	hidarihiza	左側の膝。
+j	ひだりひじ	hidarihiji	左側の肘。
+j	ひだりまき	hidarimaki	渦、螺子などが左に巻いていること。時計の針が反対に…
+j	ひだりみぎ	hidarimigi	左と右。
+j	ひだりむき	hidarimuki	左の方向に向く（向いている）こと。
+j	ひだりより	hidariyori	時計の針が進む方向と逆方向によりをかけること。その…
+j	ひっこしや	hikkoshiya	引っ越しを行う運送業。
+j	ひっとらえる	hittoraeru	
+j	ひつじかい	hitsujikai	羊飼い: shepherd
+j	ひでのすけ	hidenosuke	秀之助: a male given name
+j	ひとさかり	hitosakari	ある時期盛んであること。
+j	ひとだかり	hitodakari	throng of people
+j	ひとちがい	hitochigai	mistaking someone for som…
+j	ひとづかれ	hitozukare	exhaustion from interacti…
+j	ひとづきあい	hitozukiai	他人との付き合い。
+j	ひととなり	hitotonari	生まれつきの性質。
+j	ひとにぎり	hitonigiri	片手の掌を握ること。また、その程度のわずかな量。わ…
+j	ひとまかせ	hitomakase	自分のすべきことを他の人に任せること。またそのさま。
+j	ひとまたぎ	hitomatagi	
+j	ひとまとめ	hitomatome	一つにまとめること。一括。
+j	ひとめぐり	hitomeguri	一回巡ること。
+j	ひとめぼれ	hitomebore	人や物を一度見ただけで惚れ込むこと。
+j	ひとやすみ	hitoyasumi	少し休むこと。
+j	ひとよざけ	hitoyozake	甘酒。
+j	ひとりきり	hitorikiri	all on one's own
+j	ひとりぎめ	hitorigime	自分ひとりの考えだけで決めてしまうこと。
+j	ひとりごと	hitorigoto	talking to oneself; speak…
+j	ひとりざけ	hitorizake	drinking alone
+j	ひとりじめ	hitorijime	一人の個人や一つの組織がある物事を占有すること。独…
+j	ひとりずもう	hitorizumo	相手がいるかのように一人で相撲を取る神事。
+j	ひとりたび	hitoritabi	連れを伴わない一人だけでする旅。
+j	ひとりでに	hitorideni	by oneself
+j	ひとわたり	hitowatari	一度。一回。
+j	ひどりがも	hidorigamo	カモ目カモ科マガモ属に属する鳥の一種。学名:Ana…
+j	ひねくれた	hinekureta	
+j	ひねくれる	hinekureru	ものがねじれる。ゆがむ。
+j	ひのえたつ	hinoetatsu	十干十二支の53番目。へいしん。
+j	ひのととり	hinototori	十干十二支の34番目。ていゆう。
+j	ひびかせる	hibikaseru	音や声を反響させる。
+j	ひびわれる	hibiwareru	ひびが入る。割れ目ができる。
+j	ひび割れる	hibiwareru	to develop a crack
+j	ひふきだけ	hifukidake	火を吹き起こすのに使う竹筒。吹き竹。
+j	ひめねずみ	himenezumi	ネズミ目ネズミ科アカネズミ属に属するねずみの一種。…
+j	ひもすがら	himosugara	一日の初めから終わりまで。朝から夜まで。
+j	ひやけどめ	hiyakedome	sunscreen
+j	ひよけざる	hiyokezaru	ヒヨケザル目に属する猿の総称。学名:Dermopt…
+j	ひらてうち	hirateuchi	五本の指を開いた平手で叩くこと。
+j	ひらとばり	hiratobari	上からのごみを防ぐため、平らに張った幕。
+j	ひらべったい	hirabettai	平らなさま。平たい。扁平なさま。
+j	ひるさがり	hirusagari	正午を少し過ぎた時分。14時頃。
+j	ひるやすみ	hiruyasumi	昼食のための休憩の時間。
+j	ひろいあげる	hiroiageru	床や地面などにあるものを拾って手に取る。
+j	ひわたぶき	hiwatabuki	檜の樹皮を重ねることで屋根を葺いたりすること。その…
+j	ひわだぶき	hiwadabuki	檜の樹皮を重ねることで屋根を葺いたりすること。その…
+j	ヒキオコシ	hikiokoshi	シソ目シソ科ヤマハッカ属に属する多年草の一種。学名…
+j	ヒゲクジラ	higekujira	「鬚鯨」の学術的表記。
+j	ヒゲホオジロ	higehojiro	
+j	ヒジュラ暦	hijurareki	ムハンマドがメッカに移った年（西暦622年）を元年…
+j	ヒスチジン	hisuchijin	histidine
+j	ヒッタイト語	hittaitogo	
+j	ヒットソング	hittosongu	
+j	ヒット曲	hittokyoku	hit song
+j	ヒップホップ	hippuhoppu	hip-hop
+j	ヒツジバエ	hitsujibae	
+j	ヒトヨタケ	hitoyotake	
+j	ヒビスカス	hibisukasu	「ハイビスカス」の表記ゆれ。
+j	ヒメハジロ	himehajiro	
+j	ヒヤシンス	hiyashinsu	キジカクシ目ヒヤシンス属に属する多年草の一種。学名…
+j	ヒヨコ豆	hiyokomame	
+j	ヒンズー教徒	hinzukyoto	ヒンズー教を信仰する者。
+j	ヒンターランド	hintarando	後背地。
+j	ヒンドゥスターン	hindusutan	
+j	ヒンドスタン	hindosutan	
+j	ヒートシンク	hitoshinku	
+j	一人部屋	hitoribeya	single room
+j	一区切り	hitokugiri	a break, an end, a demarc…
+j	一夜茸	hitoyotake	
+j	一握り	hitonigiri	a handful
+j	一目惚れ	hitomebore	love at first sight (an i…
+j	一目見る	hitomemiru	
+j	一節切	hitoyogiri	traditional Japanese end-…
+j	一絡げ	hitokarage	to tie together in a bund…
+j	一騒ぎ	hitosawagi	trouble (distressful or d…
+j	丁丑	hinotoushi	Fire Ox, the fourteenth t…
+j	丁酉	hinototori	Fire Rooster, the thirty-…
+j	丙辰	hinoetatsu	Fire Dragon, the fifty-th…
+j	人型の	hitogatano	
+j	人心	hitogokoro	human nature; human heart…
+j	人虱	hitojirami	head louse (Pediculus hum…
+j	人身御供	hitomigoku	human sacrifice
+j	光桃	hikarimomo	nectarine
+j	冬山椒	hiyuzansho	ミカン科サンショウ属の常緑低木。
+j	冷やし麺	hiyashimen	麺を冷やして味をつけて食べる料理。冷製麺。
+j	否定動詞	hiteidoshi	
+j	否認防止	hininboshi	nonrepudiation
+j	品行方正	hinkohosei	acting without blame, irr…
+j	姫始め	himehajime	Doing a number of traditi…
+j	姫羽白	himehajiro	bufflehead, Bucephala alb…
+j	姫遊び	himenasobi	flirting with girls
+j	左側	hidarigawa	left-hand side
+j	左利き	hidarikiki	the ability to use a left…
+j	左巻き	hidarimaki	being counter-clockwise
+j	左手法	hidariteho	迷路で左手側の壁を辿っていくことでゴールに辿り着く…
+j	干乾びる	hikarabiru	to dry up
+j	干物女	himonoonna	dried-fish woman; a woman…
+j	平信徒	hirashinto	
+j	平手打ち	hirateuchi	
+j	引きこもり	hikikomori	hikikomori
+j	引き下げる	hikisageru	to pull down
+j	引き伸ばす	hikinobasu	
+j	引き分ける	hikiwakeru	pull apart
+j	引き寄せる	hikiyoseru	to draw or pull something…
+j	引き渡す	hikiwatasu	hand over, turn over (a c…
+j	引き留める	hikitomeru	to detain, to check, to r…
+j	引き立てる	hikitateru	favor, show advantage to
+j	引き籠もり	hikikomori	
+j	引き離す	hikihanasu	
+j	引受人	hikiukenin	
+j	引当金	hikiatekin	簿記の上で、将来の特定の費用または損失に備えると共…
+j	引換券	hikikaeken	後で物品やサービスと引き換えることができる券。
+j	弾きこなす	hikikonasu	to play an instrument ski…
+j	必履修	hitsurishu	卒業するのに必ず履修しなければならないこと。必修と…
+j	必殺の	hissatsuno	
+j	必滅	hitsumetsu	mortality, the inevitabil…
+j	必然の	hitsuzenno	
+j	必要性	hitsuyosei	necessity (quality or sta…
+j	必要悪	hitsuyoaku	necessary evil
+j	必需品	hitsujuhin	necessaries, a necessary …
+j	必須条件	hissujoken	
+j	悲劇的	higekiteki	悲惨なさま。
+j	悲観主義	hikanshugi	pessimism
+j	披裂筋	hiretsukin	an arytenoid muscle
+j	拾い上げる	hiroiageru	to pick up
+j	挽肉器	hikinikuki	meatgrinder (device for c…
+j	挽肉機	hikinikuki	meatgrinder (device for c…
+j	控えている	hikaeteiru	
+j	日に焼ける	hiniyakeru	
+j	日の本の	hinomotono	the rising sun, allusion …
+j	日割りする	hiwarisuru	
+j	日向水	hinatamizu	water warmed in the sun
+j	日焼けする	hiyakesuru	
+j	日陰者	hikagemono	social outcast; people wh…
+j	昼ドラマ	hirudorama	
+j	昼下がり	hirusagari	slightly after noon; earl…
+j	昼休み	hiruyasumi	lunchbreak
+j	昼寝する	hirunesuru	
+j	昼日中	hiruhinaka	
+j	比例した	hireishita	
+j	比例して	hireishite	
+j	比例定数	hireiteisu	比例や一次関数の式で、変化させる数に付される係数。
+j	比例式	hireishiki	複数の比の値が等しいことを示す式。
+j	比喩的な	hiyutekina	
+j	比良颪	hiraoroshi	滋賀県の比良山地から琵琶湖方面に吹き下ろす颪。
+j	比較する	hikakusuru	
+j	比較的	hikakuteki	comparatively, relatively
+j	泌尿器科医	hinyokikai	泌尿器科を専門とする医師。
+j	火の洗礼	hinosenrei	
+j	火の車	hinokuruma	synonym of 火車 (kasha, “a …
+j	火を付ける	hiotsukeru	
+j	火を点ける	hiotsukeru	
+j	火打石	hiuchiishi	flint
+j	為人	hitotonari	personality, character, p…
+j	独り占め	hitorijime	having something all to o…
+j	独り言	hitorigoto	
+j	疲労困憊	hirokonpai	exhaustion; supreme tired…
+j	皮膚科学	hifukagaku	dermatology
+j	秀之助	hidenosuke	a male given name
+j	秘術師	hijutsushi	A practitioner of secret …
+j	筆脈	hitsumyaku	the flow between two disc…
+j	筆舌	hitsuzetsu	文章と言葉。
+j	緋鳥鴨	hidorigamo	
+j	羊偏	hitsujihen	漢字の部首「⽺」が偏である場合の呼称。
+j	羊飼い	hitsujikai	shepherd
+j	肥後守	higonokami	the Governor of Higo
+j	肥満細胞	himansaibo	ヒスタミンの分泌を行い、アレルギーやアナフィラキシ…
+j	腓骨筋	hikotsukin	a peroneus muscle
+j	膝の皿	hizanosara	the kneecap, the patella
+j	膝枕	hizamakura	a position in which one l…
+j	被保険者	hihokensha	insured person
+j	被告席	hikokuseki	dock (part of a courtroom…
+j	被後見人	hikokennin	
+j	被抑留者	hikoryusha	
+j	被演算子	hienzanshi	operand
+j	被爆国	hibakukoku	原子爆弾の投下による被害を受けた国。2024年現在…
+j	被牽引車	hikeninsha	被牽引自動車
+j	誹謗中傷	hibochusho	slander
+j	貧歯目	hinshimoku	《分類学》 かつて使われていた異節上目の標準和名、…
+j	質性	hitotonari	生まれつき備わっている性質。
+j	跪く	hizamazuku	to kneel
+j	避暑客	hishokyaku	
+j	避難指示	hinanshiji	evacuation order
+j	閃かす	hiramekasu	brandish, flash
+j	開けゴマ	hirakegoma	
+j	開け胡麻	hirakegoma	open sesame!
+j	開本	hirakimoto	a surname
+j	雛蝙蝠	hinakomori	an Asian particolored bat…
+j	非プーチン化	hipuchinka	
+j	非マハラム	himaharamu	non-mahram
+j	非マフラム	himafuramu	
+j	非人間化	hiningenka	
+j	非口腔音化	hikokoonka	debuccalization
+j	非実在	hijitsuzai	
+j	非常大権	hijotaiken	大日本帝国憲法で戦時や国家事変の場合に天皇に認めら…
+j	非常階段	hijokaidan	stairs used in emergencies
+j	非正式	hiseishiki	unofficial
+j	非点収差	hitenshusa	astigmatism (defect of a …
+j	非現実	higenjitsu	現実ではないこと。
+j	非該当例	higaitorei	
+j	非開示合意	hikaijigoi	
+j	風信子	hiyashinsu	hyacinth
+j	飛びはねる	hibihaneru	
+j	飛花落葉	hikarakuyo	春に咲いた花が風に飛散し、青葉が秋に色付いて落葉す…
+j	飛行機雲	hikokigumo	vapor trail, contrail
+j	飛行甲板	hikokanpan	
+j	飛躍する	hiyakusuru	
+j	飛躍的	hiyakuteki	rapid
+j	髭頬白	higehojiro	
+j	鬚鯨	higekujira	a baleen whale
+j	鬻人	hisakihito	a person who sells items;…
+k	히말라얀	himallayan	
+k	히스타민	hiseutamin	
+k	히스파니아	hiseupania	고대 로마 제정 시대의 지방 행정 구역 이름으…
+k	히키코모리	hikikomori	
+k	히프노스	hipeunoseu	
+k	힘겹다	himgyeopda	
+k	힘드는	himdeuneun	
+e	hibernation	hibernation	1 meaning
+e	hide and seek	hideandseek	1 meaning
+e	high society	highsociety	1 meaning
+e	high treason	hightreason	1 meaning
+e	high-quality	highquality	1 meaning
+e	highlighter	highlighter	2 meanings
+e	hillwalking	hillwalking	1 meaning
+e	hippocampus	hippocampus	1 meaning
+e	hippocrates	hippocrates	1 meaning
+e	historicism	historicism	1 meaning
+j	ひがしかぜ	higashikaze	東から吹いてくる風。
+j	ひがしがわ	higashigawa	東の方角。
+j	ひがしくに	higashikuni	東久邇
+j	ひがしまど	higashimado	東側の窓。
+j	ひがしむき	higashimuki	東の方を向いていること。
+j	ひきあわせる	hikiawaseru	（互いに）合わせる。
+j	ひきおよぼす	hikioyobosu	ある作用、影響などを遠くまでまたは他のものに及ぼす。
+j	ひきしまる	hikishimaru	弛みなどがなく固く締まっている。
+j	ひきしめる	hikishimeru	引っ張って強く締める。
+j	ひきちぎる	hikichigiru	引っ張って無理に切る。
+j	ひきつける	hikitsukeru	近くへ引き寄せる。
+j	ひきつづき	hikitsuzuki	continuing from before
+j	ひきつれる	hikitsureru	【引き連れる】後ろに従えて行く。連れていく。
+j	ひきのばし	hikinobashi	引っ張って長くしたり大きくしたりすること。拡大する…
+j	ひきわたし	hikiwatashi	「ひきわたす」の連用形。
+j	ひさしぶり	hisashiburi	前にその物事を経験してから、長い時間が経過して再び…
+j	ひざがしら	hizagashira	足の膝関節の前面部分。膝蓋。膝小僧。
+j	ひそひそ声	hisohisogoe	very quiet voice
+j	ひだりした	hidarishita	左下: bottom left
+j	ひだりはらい	hidariharai	漢字の筆画の一つ。右から左への払い。
+j	ひっくるめる	hikkurumeru	to treat as a whole
+j	ひっぱりだこ	hipparidako	in great demand
+j	ひつじごや	hitsujigoya	羊を飼うための小屋。
+j	ひつじさる	hitsujisaru	方角の称で、西南をさす。
+j	ひつじのひ	hitsujinohi	暦の上で未にあたる日。
+j	ひつじ雲	hitsujigumo	
+j	ひとえまぶた	hitoemabuta	上瞼に横ひだの無い、一重の瞼。
+j	ひとがしら	hitogashira	漢字の部首「⼈」の呼称の一つ。
+j	ひとごろし	hitogoroshi	何らかの方法で人を殺すこと。殺人。また、人を殺した…
+j	ひとしきり	hitoshikiri	for a while, for some time
+j	ひとつかみ	hitotsukami	片手で一回掴むこと。また、それくらいの分量。
+j	ひとつづき	hitotsuzuki	物事が切れ目なく続いていること。
+j	ひとつまみ	hitotsumami	塩などを指先で量る目分量の一。
+j	ひとでなし	hitodenashi	人道を弁えていない者を罵っていう語。「人の形をして…
+j	ひとばしら	hitobashira	橋・堤防・城などを築くとき、完成を祈って生きた人間…
+j	ひとべらし	hitoberashi	人減らし: labor cut
+j	ひとみしり	hitomishiri	主に子供が、見慣れない人を見て嫌ったり恥ずかしがっ…
+j	ひとむかし	hitomukashi	もう昔のことと感じられる程度の過去。
+j	ひとりあるき	hitoriaruki	他の人が付き添わずに一人だけで歩くこと。
+j	ひとりがち	hitorigachi	being the lone winner
+j	ひとりごつ	hitorigotsu	独り言を言う。
+j	ひとりずまい	hitorizumai	独身でひとりだけで生活すること。
+j	ひとりだち	hitoridachi	他人の助けや物の支えによらず自分一人の力で立つこと。
+j	ひとりエッチ	hitorietchi	自慰。オナニー。せんずり。
+j	ひと焼き分	hitoyakibun	
+j	ひどく嫌う	hidokukirau	
+j	ひなたぼっこ	hinatabokko	日のあたる場所で暖まること。
+j	ひなまつり	hinamatsuri	三月三日の上巳の節句に女の子の成長と幸福を祈って行…
+j	ひびが入る	hibigahairu	to develop a crack, to br…
+j	ひまわりいろ	himawariiro	ひまわりの花弁のような鮮やかな黄色。
+j	ひやけサロン	hiyakesaron	tanning parlour
+j	ひやりはっと	hiyarihatto	事故や損傷には至らなかったが、あるいは些細な事故や…
+j	ひらあやまり	hiraayamari	ひたすら謝罪すること。平身低頭。
+j	ひらかんむり	hirakanmuri	漢字の部首「⼍」の呼称の一つ
+j	ひらきなおる	hirakinaoru	急に態度を変え真面目にやる。
+j	ひらばやし	hirabayashi	平林: a surname
+j	ひんみんくつ	hinminkutsu	貧民窟: slum
+j	ヒアルロン酸	hiaruronsan	hyaluronic acid
+j	ヒエログリフ	hierogurifu	hieroglyphs (mainly used …
+j	ヒステリック	hisuterikku	ヒステリーを起こした。
+j	ヒストリック	hisutorikku	歴史的な。歴史のある。
+j	ヒッタイト人	hittaitojin	現在は消滅したインド・ヨーロッパ系民族の一つ。古代…
+j	ヒッチコック	hitchikokku	
+j	ヒッチハイカー	hitchihaika	通りがかりの自動車などに無料で乗せてもらうよう交渉…
+j	ヒッチハイク	hitchihaiku	徒歩での旅行で途中、通りすがりの自動車に乗せてもら…
+j	ヒットポイント	hittopointo	体力や生命力を数値化したもの。0になると死亡若しく…
+j	ヒッポグリフ	hippogurifu	
+j	ヒトラー主義	hitorashugi	
+j	ヒドロサンゴ	hidorosango	
+j	ヒドロニウム	hidoroniumu	
+j	ヒバリシギ	hibarishigi	
+j	ヒポコンデリー	hipokonderi	hypochondria
+j	ヒメウミガメ	himeumigame	
+j	ヒヤリ・ハット	hiyarihatto	workplace incident that i…
+j	ヒラミレモン	hiramiremon	シークヮーサーの和名。
+j	ヒリモツ語	hirimotsugo	The Hiri Motu language.
+j	ヒングリッシュ	hingurisshu	インド英語。
+j	ヒンドゥー教徒	hindoukyoto	「ヒンズー教徒」を参照。
+j	ヒートアイランド	hitoairando	都市の中心で郊外より気温が高くなっている地域。
+j	ヒ化ガリウム	hikagariumu	
+j	一つ目の	hitotsumeno	
+j	一つ釜	hitotsukama	the one rice pot
+j	一人エッチ	hitorietchi	一人で行う性的な行為。自慰行為。
+j	一人当たり	hitoriatari	
+j	一人遊び	hitoriasobi	
+j	一仕事	hitoshigoto	task; (doing a) bit of wo…
+j	一掴み	hitotsukami	
+j	一昔	hitomukashi	ages ago
+j	一重まぶた	hitoemabuta	
+j	久しぶり	hisashiburi	after a long time of abse…
+j	人でなし	hitodenashi	brute
+j	人一倍	hitoichibai	more than other people; w…
+j	人心地	hitogokochi	consciousness
+j	人柱	hitobashira	hitobashira; human sacrif…
+j	人殺し	hitogoroshi	murder
+j	人減らし	hitoberashi	labor cut
+j	人目を奪う	hitomeoubau	to grab attention; to att…
+j	人目を引く	hitomeohiku	to grab attention; to att…
+j	人知れず	hitoshirezu	in secret
+j	人肌燗	hitohadakan	日本酒の燗の温度帯のひとつ。35度前後のものをいう。
+j	人見知り	hitomishiri	shyness, fear of strangers
+j	光の剣	hikarinoken	
+j	光ファイバ	hikarifaiba	
+j	光ファイバー	hikarifaiba	optical fiber, optical fi…
+j	光時計	hikaridokei	光の振動を利用して精密に時間を測定する時計。
+j	否定的な	hiteitekina	
+j	姫海亀	himeumigame	an olive ridley sea turtle
+j	姫連雀	himerenjaku	
+j	左下	hidarishita	bottom left, lower left
+j	左前の	hidarimaeno	
+j	左揃え	hidarisoroe	left alignment
+j	平林	hirabayashi	a surname
+j	広島忌	hiroshimaki	1945年8月6日、広島市への原子爆弾の投下により…
+j	引きつける	hikitsukeru	
+j	引き付ける	hikitsukeru	fascinate, captivate, cha…
+j	引き千切る	hikichigiru	tear off, rip off
+j	引き合わせる	hikiawaseru	introduce someone to some…
+j	引き渡し	hikiwatashi	delivery; handing over
+j	引き続く	hikitsuzuku	continue
+j	引き締める	hikishimeru	tighten
+j	引っ掻き回す	hikkamawasu	
+j	引っ込み思案	hikkomijian	reserved; introverted; re…
+j	引渡し	hikiwatashi	
+j	彼岸桜	higanzakura	バラ科に属する落葉小高木。春の彼岸の頃に葉よりも先…
+j	必然性	hitsuzensei	necessity; inevitability
+j	必須科目	hissukamoku	試験を受験する際に必須となる科目。
+j	悲鳴をあげる	himeioageru	
+j	悲鳴を上げる	himeioageru	to let out a scream (or o…
+j	惹きつける	hikitsukeru	
+j	惹き付ける	hikitsukeru	
+j	批判的な	hihantekina	
+j	控え室	hikaeshitsu	waiting room; anteroom
+j	控室	hikaeshitsu	
+j	日の目を見る	hinomeomiru	日光を浴びる。
+j	日出づる国	hiizurukuni	
+j	日向ぼっこ	hinatabokko	basking in the sun
+j	日焼けした	hiyakeshita	
+j	東アジア	higashiajia	East Asia (a geographic r…
+j	東ジャワ	higashijawa	
+j	東側	higashigawa	east side
+j	東山	higashiyama	a surname
+j	東村	higashimura	a surname
+j	比を求める	hiomotomeru	obtain the ratio
+j	比例代表	hireidaihyo	政党に対する投票の得票率に応じて各党に議席を配分す…
+j	比例配分	hireihaibun	ある量を与えられた比で配分すること。按分比例。
+j	比翼連理	hiyokurenri	夫婦、男女の仲が睦まじいこと。
+j	泌尿器学	hinyokigaku	synonym of 泌尿器科学 (hinyōki…
+j	火付け役	hitsukeyaku	one who sets fire to some…
+j	火縄筒	hinawazutsu	雷管ではなく火縄により火薬に点火し、弾丸を発射する…
+j	皮膚視覚	hifushikaku	皮膚で物を見ることのできる超能力。
+j	砒化ガリウム	hikagariumu	砒素とガリウムを反応させて得る化合物。金属光沢のあ…
+j	秘密箱	himitsubako	
+j	秘密鍵	himitsukagi	secret key; private key
+j	筆記試験	hikkishiken	問題に対し紙面に答案を記載、提出させる試験。ペーパ…
+j	筆跡学	hissekigaku	graphology
+j	筆頭著者	hittochosha	first author; lead author
+j	緋色の服	hiironofuku	
+j	羊小屋	hitsujigoya	
+j	羊雲	hitsujigumo	synonym of 高積雲 (kōsekiun,…
+j	聖法師	hijirihoshi	坊主。坊主。僧侶。
+j	肘掛け椅子	hijikakeisu	armchair
+j	膝頭	hizagashira	the front of the knee
+j	蛭蓆	hirumushiro	
+j	被相続人	hisozokunin	亡くなった人。相続人が相続によって承継した財産や権…
+j	被選挙人	hisenkyonin	選挙される人。被選挙権を有する人。
+j	被選挙権	hisenkyoken	選挙に立候補する権利。
+j	貧困率	hinkonritsu	poverty rate
+j	貧民窟	hinminkutsu	slum
+j	貧血症	hinketsusho	
+j	費用対効果	hiyotaikoka	cost-effectiveness, perfo…
+j	避難訓練	hinankunren	災害や事故、事件などの際の護身、避難する方法や経路…
+j	開き直る	hirakinaoru	to become defiant
+j	雛祭り	hinamatsuri	The Japanese festival of …
+j	非スターリン化	hisutarinka	
+j	非交和集合	hikowashugo	互いに素な集合の和集合。非交和。直和。
+j	非人工的	hijinkoteki	人工的でないさま。
+j	非人道的	hijindoteki	inhumane
+j	非修非学	hishuhigaku	修行も学問もしないこと。
+j	非公式の	hikoshikino	
+j	非同盟運動	hidomeiundo	
+j	非対称ペン	hitaishopen	左右が対称になっていないペン回し用のペン。
+j	非対称性	hitaishosei	
+j	非文法的	hibunpoteki	
+j	非晶質	hishoshitsu	amorphous
+j	非暴力の	hiboryokuno	
+j	非正規雇用	hiseikikoyo	雇用期間の定めがあり、フルタイムより労働時間や日数…
+j	非社交的	hishakoteki	unsociable; retiring; sol…
+j	非線形性	hisenkeisei	
+j	飛沫核	himatsukaku	唾液の飛沫から水分が蒸発し、微小な粒子となったもの。
+j	髀肉の嘆	hinikunotan	功名を立てる事柄が無く、嘆くこと。
+j	髭題目	higedaimoku	日蓮宗または法華宗で「題目（南無妙法蓮華経）」の「…
+j	鰭玻璃草	hireharisou	
+k	히스패닉	hiseupaenik	미국에 거주하는 중남미의 스페인어권 출신의 이…
+k	힌두스탄	hinduseutan	
+k	힐금하다	hilgeumhada	
+k	힐긋하다	hilgeuthada	
+k	힐링타임	hillingtaim	respite; break; breather;…
+k	힝둥새	hingdungsae	
+e	hieroglyphic	hieroglyphic	1 meaning
+e	high fidelity	highfidelity	1 meaning
+e	high schooler	highschooler	1 meaning
+e	hilbert space	hilbertspace	1 meaning
+e	hippopotamus	hippopotamus	1 meaning
+e	hippuric acid	hippuricacid	1 meaning
+e	hispanophone	hispanophone	1 meaning
+e	historically	historically	1 meaning
+j	ひいなまつり	hiinamatsuri	弥生3日の上巳の節句にひいなにんぎょうを祭って女の…
+j	ひきずりこむ	hikizurikomu	ひきずって（無理やり）中に入れる。
+j	ひきずりだす	hikizuridasu	引き摺るようにして外に出す。むりやり引っ張り出す。
+j	ひきとどめる	hikitodomeru	行く人を引いてとどまらせる。引いて行かないようにす…
+j	ひたいかくし	hitaikakushi	a kind of short ornamenta…
+j	ひだりびらき	hidaribiraki	蓋や扉などを左側へ移動させてひらく構造。
+j	ひだりまわり	hidarimawari	時計の針が進む方向とは逆の方向（左方向）に回る（回…
+j	ひっきりなし	hikkirinashi	絶え間のないこと。「引っ切り」は「切れ目」「区切り…
+j	ひっくりかえす	hikkurikaesu	順序や方向を逆にする。
+j	ひっくりかえる	hikkurikaeru	順序や方向が逆になる。
+j	ひっくり返す	hikkurikaesu	to turn over, upside down
+j	ひっくり返る	hikkurikaeru	to be overturned
+j	ひっこしそば	hikkoshisoba	転居してきた者が近く（そば）に来たしるしとして近隣…
+j	ひっこみがち	hikkomigachi	家に籠もって外に出ないさま。
+j	ひっさつわざ	hissatsuwaza	必殺技: lethal technique
+j	ひつどくしょ	hitsudokusho	必読書: required reading
+j	ひつまぶし	hitsumabushi	細かく切ったうなぎの蒲焼きを御飯に乗せたり、混ぜ合…
+j	ひとかたまり	hitokatamari	一つの塊。一つの集団。
+j	ひとききぼれ	hitokikibore	falling in love on first …
+j	ひとさわがせ	hitosawagase	わけもなく周囲の人を騒がせ困らせること。また、その…
+j	ひとつばし	hitotsubashi	一本だけ架かっている橋。
+j	ひとつぼし	hitotsuboshi	明けの明星または宵の明星。
+j	ひとはだぬぐ	hitohadanugu	to lend a helping hand
+j	ひとふでがき	hitofudegaki	線分のみにより構成された図形を一回に点のみを共有し…
+j	ひとまとまり	hitomatomari	物事が纏まること。
+j	ひとりしばい	hitorishibai	俳優が一人で演じる劇。
+j	ひとりせせり	hitoriseseri	マスターベーション。
+j	ひとりひとり	hitorihitori	それぞれの人。銘銘。
+j	ひとりぼっち	hitoribotchi	loneliness; solitude
+j	ひとりぽっち	hitoripotchi	
+j	ひとりむすこ	hitorimusuko	兄弟のない息子。
+j	ひとりむすめ	hitorimusume	姉妹のない娘。
+j	ひとりよがり	hitoriyogari	自分ひとりだけで良いと思って、他人の意見を顧みない…
+j	ひなつぼし	hinatsuboshi	火星の和名。なつひぼし。
+j	ひびきわたる	hibikiwataru	音が一面に響く。
+j	ひまつぶし	himatsubushi	無駄に時間を過ごすこと。
+j	ひりひりする	hirihirisuru	
+j	ひ孫娘	himagomusume	
+j	ヒストグラム	hisutoguramu	ある度数分布をもとに、横軸に階級、縦軸に度数を取り…
+j	ヒットエンドラン	hittoendoran	a hit and run
+j	ヒドロ虫類	hidorochurui	
+j	ヒナイシドジョウ	hinaishidojo	コイ目ドジョウ科シマドジョウ属イシドジョウ種群に分…
+j	ヒポクラテス	hipokuratesu	Hippocrates
+j	ヒマラヤスギ	himarayasugi	「ヒマラヤ杉」の学術的表記。
+j	ヒマラヤ杉	himarayasugi	deodar (Cedrus deodara)
+j	ヒマラヤ熊	himarayaguma	synonym of 月の輪熊 (tsukinow…
+j	ヒメコラノキ	himekoranoki	
+j	ヒメリュウキンカ	himeryukinka	
+j	ヒリガイノン語	hirigainongo	オーストロネシア語族フィリピン語群中央ビサヤ諸語に…
+j	ヒリヒリする	hirihirisuru	
+j	ヒルフェルスム	hiruferusumu	
+j	一つおきの	hitotsuokino	
+j	一つずつ	hitotsuzutsu	
+j	一人一人	hitorihitori	each person
+j	一口大	hitokuchidai	the size of one bite; bei…
+j	一腹の子	hitoharanoko	
+j	人笑わせ	hitowarawase	
+j	光キャリア	hikarikyaria	
+j	光ディスク	hikaridisuku	an optical disc
+j	光回線	hikarikaisen	optical line
+j	冷やし中華	hiyashichuka	hiyashi Chūka, a dish of …
+j	否定論理和	hiteironriwa	
+j	姫山翡翠	himeyamasemi	
+j	左回り	hidarimawari	
+j	左団扇	hidariuchiwa	
+j	平手裏剣	hirashuriken	A flat shuriken; also kno…
+j	広口瓶	hirokuchibin	jar; widemouthed bottle
+j	広島市	hiroshimashi	広島県の県庁所在地。
+j	広島県	hiroshimaken	a prefecture in the 中国 (C…
+j	引かれる数	hikarerukazu	
+j	引き伸ばせる	hikinobaseru	
+j	引き立て役	hikitateyaku	
+j	引き離れる	hikihanareru	
+j	引っくり返る	hikkurikaeru	
+j	引っ切り無し	hikkirinashi	incessant, continuous
+j	引っ繰り返す	hikkurikaesu	
+j	引っ繰り返る	hikkurikaeru	
+j	彦火火出見	hikohohodemi	son of 瓊瓊杵 (Ninigi) and 木…
+j	必修科目	hisshukamoku	必ず履修しなければならない科目。
+j	必殺技	hissatsuwaza	a lethal technique
+j	必滅の	hitsumetsuno	
+j	必然的	hitsuzenteki	certain, inevitable, nece…
+j	必要する	hitsuyotosur	
+j	必要条件	hitsuyojoken	二つの命題があり、一つ目の命題が真であれば二つ目の…
+j	必読書	hitsudokusho	required reading
+j	悲喜こもごも	hikikomogomo	bittersweet
+j	悲喜交交	hikikomogomo	bittersweet
+j	日焼けマシーン	hiyakemashin	
+j	日高国	hidakanokuni	令制国の一つ。1869年に北海道に設置。概ね現在の…
+j	昼も夜も	hirumoyorumo	
+j	暇つぶし	himatsubushi	killing time
+j	柊黐	hiiragimochi	synonym of 西洋柊 (seiyō hii…
+j	櫃まぶし	hitsumabushi	marinated grilled eel on …
+j	比誘電率	hiyudenritsu	真空の誘電率に対する誘電体の誘電率の比。εᵣやκと…
+j	比較できる	hikakudekiru	
+j	比較的に	hikakutekini	
+j	火之炫毘古	hinokakabiko	
+j	火夏星	hinatsuboshi	Mars
+j	火遊びをする	hiasobiosuru	
+j	独り善がり	hitoriyogari	self-centered, self-right…
+j	皮肉好きな	hinikuzukina	
+j	秘密主義	himitsushugi	何でも秘密にしようとする考え方や主張。
+j	秘密兵器	himitsuheiki	兵器のうち特に機密性の高いもの。秘密裏に開発、使用…
+j	秘密基地	himitsukichi	secret base (of the milit…
+j	秘密投票	himitsutohyo	投票者の氏名を記さずに行う投票。
+j	肥満症学	himanshogaku	
+j	膝を屈する	hizaokussuru	
+j	被修飾語	hishushokugo	a modified word
+j	被写体振れ	hishataibure	シャッターを開いている間に被写体が動くことによって…
+j	被服室	hifukushitsu	被服の裁縫を行うための設備のある部屋。
+j	誹謗する人	hibosuruhito	
+j	避難勧告	hinankankoku	2021年までの制度で、避難指示より弱いが危険な場…
+j	開き直った	hirakinaotta	
+j	非公式に	hikoushikini	
+j	非分離動詞	hibunridoshi	ドイツ語の動詞で、前綴りがあるが分離して枠構造を作…
+j	非可算集合	hikasanshugo	
+j	非喫煙者	hikitsuensha	
+j	非営利会計	hieirikaikei	営利を目的としない組織体が計算主体となる会計。非営…
+j	非営利団体	hieiridantai	非営利で活動する団体。
+j	非実際的	hijissaiteki	impractical; unpractical
+j	非対称的	hitaishoteki	asymmetrical (not symmetr…
+j	非武装地帯	hibusochitai	停戦状態の国家間に設置される、軍事活動が許されない…
+j	非決算の	hirenketsuno	
+j	非生産的	hiseisanteki	unproductive
+j	非科学的	hikagakuteki	unscientific
+j	非識字者	hishikijisha	
+j	顰蹙を買う	hinshukuokau	to displease someone (due…
+j	鵯花	hiyodoribana	Eupatorium makinoi
+k	히드록시기	hideuroksigi	hydroxyl
+k	히우데자네이루	hiudejaneiru	
+k	히포그리프	hipogeuripeu	
+k	힐금대다	hilgeumdaeda	'힐금거리다'.
+k	힐긋대다	hilgeutdaeda	'힐긋거리다'.
+k	힐끔하다	hilkkeumhada	
+k	힐끗하다	hilkkeuthada	
+k	힐책하다	hilchaekhada	to rebuke, to reprimand
+e	high priestess	highpriestess	1 meaning
+e	high-speed rail	highspeedrail	1 meaning
+e	hit the jackpot	hitthejackpot	1 meaning
+j	ひかげばしら	hikagebashira	日陰の計測のために立てる柱。古代の日時計の一種。
+j	ひかりました	hikarimashita	
+j	ひきずりおろす	hikizuriorosu	引き摺るように下ろす。
+j	ひそみにならう	hisomininarau	to imitate blindly
+j	ひっかきまわす	hikkakimawasu	手荒に掻き回す。
+j	ひっすしぼうさん	hissushibosan	必須脂肪酸: (biochemistry) ess…
+j	ひっすアミノさん	hissuaminosan	必須アミノ酸: (biochemistry) es…
+j	ひとさしゆび	hitosashiyubi	人間の手の指のうち、親指の隣にある指。
+j	ひともしごろ	hitomoshigoro	灯火を点す頃。日暮れ。
+j	ひとやまあてる	hitoyamaateru	to strike it rich
+j	ひとりぐらし	hitorigurashi	日常的に単身で生活すること。
+j	ひとりごちる	hitorigochiru	独り言を言う。もっぱら連用形で用いられる。
+j	ひなんせいかつ	hinanseikatsu	避難生活: living in evacuatio…
+j	ひねりつぶす	hineritsubusu	捻って潰す。
+j	ひのとひつじ	hinotohitsuji	十干十二支の44番目。ていび。
+j	ひめうみすずめ	himeumisuzume	ウミスズメ科のヒメウミスズメ属に属する鳥類。
+j	ヒガシゴリラ	higashigorira	ゴリラの一種。学名は Gorilla bering…
+j	ヒステリシス	hisuterishisu	
+j	ヒッグス粒子	higgusuryushi	Higgs particle
+j	ヒッポクラテース	hippokuratesu	
+j	ヒトツバタゴ	hitotsubatago	シソ目モクセイ科ヒトツバタゴ属に属する落葉高木の一…
+j	ヒメウミスズメ	himeumisuzume	「ひめうみすずめ」の学術的表記。
+j	ヒメハマシギ	himehamashigi	
+j	ヒラコテリウム	hirakoteriumu	《分類学》 ウマ目ウマ科 に分類される絶滅奇蹄類の…
+j	ヒレナガウナギ	hirenagaunagi	ニュージーランドオオウナギの別称。学名は Angu…
+j	ヒンドゥスターニー語	hindusutanigo	
+j	一つにする	hitotsunisuru	
+j	一つ目小僧	hitotsumekozo	one-eyed goblin, a Japane…
+j	一人暮らし	hitorigurashi	living by oneself, living…
+j	一旗揚げる	hitohataageru	To make a name for yourse…
+j	一粒種	hitotsubudane	
+j	一足早い	hitoashihayai	slightly early
+j	丁未	hinotohitsuji	Fire Sheep, the forty-fou…
+j	人差し指	hitosashiyubi	an index finger; a forefi…
+j	人差指	hitosashiyubi	「ひとさしゆび」の漢語表現。
+j	人懐っこい	hitonatsukkoi	
+j	人目に付く	hitomenitsuku	to be within others' sigh…
+j	人目に余る	hitomeniamaru	to be too prominent, pret…
+j	人目に立つ	hitomenitatsu	to be conspicuous; to att…
+j	人目を盗む	hitomeonusumu	to do (something) in secr…
+j	人目を避ける	hitomeosakeru	to avoid being seen; to b…
+j	人食い人種	hitokuijinshu	cannibalistic tribe
+j	光通信	hikaritsushin	optical communication
+j	姫アルマジロ	himearumajiro	a pink fairy armadillo
+j	平田海亀	hirataumigame	a flatback sea turtle
+j	引き摺り下ろす	hikizuriorosu	
+j	引き金を引く	hikiganeohiku	to pull the trigger
+j	必死になって	hisshininatte	
+j	必置資格	hitchishikaku	事業を行う際に事業所などに一名置かなくてはいけない…
+j	必要とする	hitsuyotosuru	
+j	必須アミノ酸	hissuaminosan	essential amino acid
+j	必須脂肪酸	hissushibosan	essential fatty acid
+j	悲観主義者	hikanshugisha	pessimist
+j	捻り潰す	hineritsubusu	to pinch and crush
+j	日和見主義	hiyorimishugi	opportunism
+j	日替わり料理	higawariryori	
+j	日焼け止め剤	hiyakedomezai	
+j	東かがわ	higashikagawa	Higashikagawa (a city in …
+j	東ティモール	higashitimoru	East Timor (a country in …
+j	東ドイツ	higashidoitsu	East Germany (a former Co…
+j	東半球	higashihankyu	Eastern Hemisphere (the h…
+j	東海岸	higashikaigan	東部の海岸沿いの地域。
+j	東独逸	higashidoitsu	ヨーロッパにあった国ドイツ民主共和国の通称である東…
+j	比例復活	hireifukkatsu	衆議院選挙で小選挙区で落選した候補者が比例代表で当…
+j	比較文学	hikakubungaku	comparative literature
+j	泌尿器科学	hinyokikagaku	urology
+j	火之夜藝速	hinoyagihayao	
+j	火縄銃騎兵	hinawajukihei	火縄銃で武装した騎兵。
+j	秘密にする	himitsunisuru	
+j	秘密結社	himitsukessha	secret society
+j	秘密集団	himitsushudan	
+j	聖シノド	hijirishinodo	
+j	肥満恐怖症	himankyofusho	
+j	被官百姓	hikanbyakusho	戦国時代から江戸時代にかけて有力な農家に隷属した小…
+j	避難生活	hinanseikatsu	living in evacuation shel…
+j	雲雀千鳥	hibarichidori	
+j	非ナチ化する	hinachikasuru	
+j	非代替トークン	hidaitaitokun	non-fungible token
+j	非周期彗星	hishukisuisei	双曲線または放物線の軌道を描き、一度しか太陽に接近…
+j	非常にブサイク	hijonibusaiku	
+j	非正規雇用の	hiseikikoyono	
+j	非親告罪	hishinkokuzai	被害者などが訴えなく（告訴しなく）ても検察官が起訴…
+j	非論理的な	hironritekina	
+j	飛沫感染	himatsukansen	患者の咳やくしゃみ、会話などにより飛散する飛沫の中…
+k	히드로퀴논	hideurokwinon	
+k	히드록실기	hideuroksilgi	hydroxyl
+k	히틀러주의	hiteulleojuui	
+k	힌두교 신자	hindugyosinja	
+k	힌두스탄어	hinduseutaneo	
+k	힐끔대다	hilkkeumdaeda	'힐끔거리다'.
+k	힐끗대다	hilkkeutdaeda	'힐끗거리다'.
+k	힘들어하다	himdeureohada	
+e	high definition	highdefinition	1 meaning
+e	high technology	hightechnology	1 meaning
+e	high-resolution	highresolution	1 meaning
+e	highway robbery	highwayrobbery	1 meaning
+e	hit it and quit it	hititandquitit	1 meaning
+j	ひかりかがやく	hikarikagayaku	光を放ち輝く。煌めく。
+j	ひげを生やした	higeohayashita	
+j	ひじかわあらし	hijikawaarashi	愛媛県大洲市で観察される初冬の朝に大洲盆地で発生し…
+j	ひだりよこがき	hidariyokogaki	左から右に書く横書き。
+j	ひつじのつき	hitsujinotsuki	陰暦六月の異称。
+j	ひとつひとつ	hitotsuhitotsu	一つずつ。
+j	ひのもとのくに	hinomotonokuni	「日本」の異称。
+j	ひまわり学級	himawarigakkyu	synonym of 特別支援学級
+j	ひやかしきゃく	hiyakashikyaku	window-shopper
+j	ひらたくわがた	hiratakuwagata	甲虫目クワガタムシ科オオクワガタ属に属するくわがた…
+j	ひろばきょうふしょう	hirobakyofusho	
+j	ヒトコブラクダ	hitokoburakuda	一瘤駱駝の学術的表記。
+j	ヒメウズラシギ	himeuzurashigi	
+j	ヒレアシトウネン	hireashitounen	
+j	一瘤駱駝	hitokoburakuda	a dromedary (Camelus drom…
+j	人目が煩い	hitomegaurusai	things will turn out unfa…
+j	人目に晒す	hitomenisarasu	to publicly expose
+j	人目を忍ぶ	hitomeoshinobu	to avoid being seen; to b…
+j	光り輝く	hikarikagayaku	to shine, glitter
+j	光を放つ	hikariohanatsu	shed light, give off ligh…
+j	光導電性	hikaridodensei	
+j	否定論理積	hiteironriseki	
+j	品質係数	hinshitsukeisu	共振周波数を半値幅で割った値。Q値。
+j	品質保証	hinshitsuhosho	
+j	品質管理	hinshitsukanri	
+j	姫花蕨	himehanawarabi	
+j	平手打ちする	hirateuchisuru	
+j	広場恐怖症	hirobakyofusho	agoraphobia
+j	引け目を感じる	hikemeokanjiru	to feel inferior, to feel…
+j	必然的な	hitsuzentekina	
+j	必然的に	hitsuzentekini	
+j	日の本の国	hinomotonokuni	the Land of the Rising Su…
+j	日付変更線	hizukehenkosen	世界的な日付を調整するため、東経180度の太平洋に…
+j	日和見感染	hiyorimikansen	免疫が弱まっているために、通常では考えられない病原…
+j	東アジア人	higashiajiajin	
+j	東チモール	higashichimoru	East Timor (a country in …
+j	東ベルリン	higashiberurin	
+j	東ヨーロッパ	higashiyoroppa	Eastern Europe (a socio-p…
+j	比例代表制	hireidaihyosei	proportional representati…
+j	火之迦具土	hinokagutsuchi	
+j	独り占めする	hitorijimesuru	
+j	疲癃残疾	hiryuzanshitsu	疲れて弱る病気と、心身が損なわれる病気。
+j	被写界深度	hishakaishindo	depth of field
+j	被害者たたき	higaishatataki	
+j	被牽引自動車	hikeninjidosha	道路交通法において他の車両によって牽引、運搬される…
+j	貧困ビジネス	hinkonbijinesu	poverty business
+j	非協力的	hikyoryokuteki	協力的ではないさま。
+j	非宗教的な	hishukyotekina	
+j	非常に貧しい	hijonimazushii	
+j	非政府組織	hiseifusoshiki	non-governmental organiza…
+j	非武装中立	hibusochuritsu	軍隊や軍事同盟を持たない安全保障の方針。
+j	非犯罪化する	hihanzaikasuru	
+j	非現実的	higenjitsuteki	unrealistic
+j	非現実話法	higenjitsuwaho	現実には有り得ないこと、起こらなかったことを仮定し…
+j	非難を表す	hinanwoarawasu	
+k	히가시오사까 시	higasiosakkasi	일본 오사카 부에 위치한 '히가시오사카 시'의…
+k	히스테리시스	hiseuterisiseu	
+k	히스토그램	hiseutogeuraem	통계나 수치를 그래프로 나타낸 것.
+k	히에로글리프	hierogeullipeu	
+k	힐금거리다	hilgeumgeorida	볍게 곁눈질하여 자꾸 슬쩍슬쩍 쳐다보다.
+k	힐금힐금	hilgeumhilgeum	
+k	힐긋거리다	hilgeutgeorida	거볍게 자꾸 슬쩍슬쩍 흘겨보다.
+k	힐긋힐긋	hilgeuthilgeut	거볍게 슬쩍슬쩍 자꾸 흘겨보는 모양.
+e	hierarchization	hierarchization	1 meaning
+e	higher education	highereducation	1 meaning
+e	himachal pradesh	himachalpradesh	1 meaning
+e	hispanic america	hispanicamerica	1 meaning
+j	ひそひそばなし	hisohisobanashi	他人に聞こえないように小声でする話。
+j	ひだりがわつうこう	hidarigawatsuko	左側通行: Keep Left
+j	ひどくおもしろい	hidokuomoshiroi	
+j	ヒッチハイクする	hitchihaikusuru	
+j	ヒドロキシルき	hidorokishiruki	ヒドロキシル基: (organic chemist…
+j	ヒドロキシル基	hidorokishiruki	hydroxyl
+j	ヒラヨシノボリ	hirayoshinobori	ヤイマヒラヨシノボリとケンムンヒラヨシノボリの総称。
+j	ヒルベルト空間	hiruberutokukan	バナッハ空間に任意の内積 ⟨x,y⟩を導入し、 ノ…
+j	ヒーリング・ミュージック	hiringumyujikku	New Age music
+j	一つにできる	hitotsunidekiru	
+j	一人尺八	hitorijakuhachi	
+j	一泡吹かせる	hitoawafukaseru	to surprise someone, to s…
+j	一溜まりもない	hitotamarimonai	not standing a chance (ag…
+j	人目に現わる	hitomeniarawaru	to be noticeable; to attr…
+j	人目を憚る	hitomeohabakaru	to be afraid of others, t…
+j	人見知りする	hitomishirisuru	
+j	人込みの場所	hitogominobasho	
+j	光を韜む	hikariotsutsumu	to hide one's talents
+j	品格を与える	hinkakuwoataeru	
+j	左側通行	hidarigawatsuko	Keep Left, a message on a…
+j	広々とした	hirobirotoshita	
+j	批判を許さない	hihanoyurusanai	
+j	披裂軟骨	hiretsunankotsu	an arytenoid cartilage
+j	日がな一日	higanaichinichi	all day
+j	日前大神	hinokumanookami	the deification of the mi…
+j	日暮れ時兆候	higuredokichoko	
+j	東シナ海	higashishinakai	the East China Sea
+j	東ネグロス	higashinegurosu	
+j	東プロイセン	higashipuroisen	
+j	東支那海	higashishinakai	東シナ海の別表記。
+j	東村山	higashimurayama	Higashimurayama (a city i…
+j	比較言語学	hikakugengogaku	comparative linguistics
+j	畢生の大作	hisseinotaisaku	
+j	秘密主義者	himitsushugisha	秘密主義を貫く者。
+j	秘密警察	himitsukeisatsu	secret police
+j	羊の毛皮	hitsujinokegawa	
+j	被子植物	hishishokubutsu	angiosperm
+j	貧困スパイラル	hinkonsupairaru	cycle of poverty
+j	非分離複合語	hibunrifukugogo	屈折語のように語と語同士に間を設けて書き表す言語で…
+j	非同期転送モード	hidokitensomodo	asynchronous transfer mode
+j	非同盟中立	hidomeichuritsu	他国との軍事同盟を結ばずに中立を保つこと。
+j	非常事態宣言	hijojitaisengen	state of emergency (gover…
+j	飛行禁止空域	hikokinshikuiki	
+k	히트 앤드 런	hiteuaendeureon	
+k	히틀러리즘	hiteulleorijeum	
+k	힐끔거리다	hilkkeumgeorida	거볍게 곁눈질하여 자꾸 슬쩍슬쩍 쳐다보다.
+k	힐끗거리다	hilkkeutgeorida	거볍게 자꾸 슬쩍슬쩍 흘겨보다.
+k	힙 플라스크	hippeullaseukeu	hip flask
+e	higgledy-piggledy	higgledypiggledy	1 meaning
+e	high commissioner	highcommissioner	1 meaning
+j	ヒガシシマドジョウ	higashishimadojo	コイ目ドジョウ科シマドジョウ属シマドジョウ種群に属…
+j	ヒゴタイサイコ属	higotaisaikozoku	
+j	ヒゴロモコンロンカ	higoromokonronka	アカネ科コンロンカ属のつる植物の一種。学名: Mu…
+j	ヒスパニオライスカ	hisupanioraisuka	
+j	ヒリヒリしている	hirihirishiteiru	
+j	一つにできない	hitotsunidekinai	
+j	一つの中国	hitotsunochugoku	大陸の中華人民共和国と台湾の中華民国のどちらかだけ…
+j	一人っ子政策	hitorikkoseisaku	
+j	一括りにする	hitokukurinisuru	
+j	一溜まりもなく	hitotamarimonaku	
+j	一目見ただけで	hitomemitadakede	
+j	姫首輪鴎	himekubiwakamome	
+j	日和見主義者	hiyorimishugisha	
+j	東エルサレム	higashierusaremu	
+j	東スラブ人	higashisurabujin	「東スラヴ人」の表記揺れ。
+j	東スラヴ人	higashisuravujin	スラヴ人のうち東側に暮らす人々。ロシア人、ウクライ…
+j	東山文化	higashiyamabunka	室町時代後期に京都の東山で興った質素な文化。
+j	火に油を注ぐ	hiniaburaososogu	to add fuel to the fire
+j	羊の鳴き声	hitsujinonakigoe	
+j	聖アンデレ十字	hijirianderejuji	
+j	肥後体柴胡属	higotaisaikozoku	
+j	非代替性トークン	hidaitaiseitokun	non-fungible token
+j	非独立性の	hidokuritsuseino	
+j	非現実的な	higenjitsutekina	
+k	히우그란지두술	hiugeuranjidusul	
+k	힐끔힐끔	hilkkeumhilkkeum	
+k	힐끗힐끗	hilkkeuthilkkeut	거볍게 슬쩍슬쩍 자꾸 흘겨보는 모양.
+e	hidden markov model	hiddenmarkovmodel	1 meaning
+e	high-level language	highlevellanguage	1 meaning
+j	ヒドロキシルアミン	hidorokishiruamin	hydroxylamine (NH₂OH)
+j	人並みにおごれや	hitonaminiogoreya	無理数√3の小数第7位 1.7320508... …
+j	東ゲルマン人	higashigerumanjin	ゲルマン人のうち東方に暮らした人々。ゴート人、ヴァ…
+j	東ヨーロッパ史	higashiyoroppashi	世界史の中における東ヨーロッパに関係する事柄を総合…
+j	独りにしてくれ	hitorinishitekure	
+j	翡翠の髪状の	hisuinokanzashino	
+j	被害者バッシング	higaishabasshingu	
+j	飛沫核感染	himatsukakukansen	飛沫が乾燥した飛沫核が空気中を浮遊し粘膜に入ること…
+k	히마찰프라데시	himachalpeuradesi	
+e	his imperial majesty	hisimperialmajesty	1 meaning
+j	ヒマーチャル・プラデーシュ	himacharupuradeshu	
+j	ヒンドゥークシュ山脈	hindukushusanmyaku	
+j	光生物学	hikariseibutsugaku	
+j	日暮れて道遠し	hikuretemichitoshi	arduous is the race again…
+j	東シベリア海	higashishiberiakai	
+j	東スラヴ語群	higashisurabugogun	印欧語族スラヴ語派の語群の一つ。ロシア語、ウクライ…
+j	東トルキスタン	higashitorukisutan	トルキスタンの東部、タリム盆地を中心とした地域。現…
+j	東バルト語群	higashibarutogogun	印欧語族バルト語派の語群の一つ。東欧のリトアニア語…
+j	東ローマ帝国	higashiromateikoku	the Eastern Roman Empire
+j	東側諸国	higashigawashokoku	the Eastern Bloc
+j	比較言語学者	hikakugengogakusha	comparative linguist
+j	被差別部落民	hisabetsuburakumin	synonym of 部落民 (burakumin)
+j	非実在高齢者	hijitsuzaikoreisha	死後も死亡届が出されないために戸籍上生存しているこ…
+j	飛躍しすぎている	hiyakushisugiteiru	
+k	힐금힐금하다	hilgeumhilgeumhada	
+k	힐긋힐긋하다	hilgeuthilgeuthada	
+k	힐베르트 공간	hilbereuteugonggan	
+j	ひげを生やした女性	higeohayashitajosei	
+j	ひめやくしまだから	himeyakushimadakara	depressed cowry, Mauritia…
+j	ヒッチハイクする人	hitchihaikusuruhito	
+j	ヒドロキソコバラミン	hidorokisokobaramin	hydroxocobalamin
+j	ヒレナガチョウチンアンコウ	hirenagachochinanko	アンコウ目ヒレナガチョウチンアンコウ科の深海魚。1…
+j	一筋縄で行かぬ	hitosujinawadeikanu	
+j	東ゲルマン語群	higashigerumangogun	印欧語族ゲルマン語派の語群の一つ。ゴート語、ヴァン…
+j	東ヨーロッパ時間	higashiyoroppajikan	Eastern European Time
+j	被爆者健康手帳	hibakushakenkotecho	被爆者に対して交付され、取得することで医療費などの…
+j	非の打ち所がない	hinouchidokoroganai	impeccable, faultless, pe…
+j	非の打ち所が無い	hinouchidokoroganai	非難するような欠点が無い。
+j	非ユークリッド幾何学	hiyukuriddokikagaku	平行線公準を満たさない場合を考える幾何学。
+j	非常点滅表示灯	hijotenmetsuhyojito	ハザードランプ。
+k	히마찰프라데시 주	himachalpeuradesiju	
+e	hispaniolan crossbill	hispaniolancrossbill	1 meaning
+e	history repeats itself	historyrepeatsitself	1 meaning
+j	ひがしにほんあまがえる	higashinihonamagaeru	あまがえる一種。学名は Dryophytes le…
+j	ひったくりに遭いました	hittakuriniaimashita	
+j	ヒガシニホンアマガエル	higashinihonamagaeru	ひがしにほんあまがえるの学術的表記。
+j	ヒポクラテスの誓い	hipokuratesunochikai	the Hippocratic oath
+j	一筋縄じゃ行かない	hitosujinawajaikanai	
+j	一筋縄で行かない	hitosujinawadeikanai	
+j	広島型原爆	hiroshimagatagenbaku	広島市に投下されたものと同型の原子爆弾。
+j	批判的人種理論	hihantekijinshuriron	
+j	独りにしてください	hitorinishitekudasai	
+j	脾臓摘出術	hizoutekishutsujutsu	
+j	非武装中立地帯	hibusochuritsuchitai	非武装地帯のこと。
+k	히드록소코발라민	hideuroksokoballamin	
+k	힐끔힐끔하다	hilkkeumhilkkeumhada	
+k	힐끗힐끗하다	hilkkeuthilkkeuthada	
+e	high fructose corn syrup	highfructosecornsyrup	1 meaning
+e	historical linguistics	historicallinguistics	1 meaning
+e	historical materialism	historicalmaterialism	1 meaning
+j	ヒマーチャル・プラデーシュ州	himacharupuradeshushu	
+j	ヒレナガチョウチンアンコウ科	hirenagachochinankoka	アンコウ目の下位に分類される魚類の1科。
+j	一筋縄では行かぬ	hitosujinawadewaikanu	
+j	人免疫不全ウイルス	hitomenekifuzenuirusu	human immunodeficiency vi…
+j	左鮃右鰈	hidarihiramemigikarei	The way to distinguish an…
+k	히우그란지두노르치	hiugeuranjidunoreuchi	
+e	himalayan black-lored tit	himalayanblackloredtit	1 meaning
+j	一筋縄では行かない	hitosujinawadewaikanai	not straightforward; not …
+j	左に曲がってください	hidarinimagattekudasai	
+j	左切り捨て可能素数	hidarikirisutekanososu	それ自身が素数であり、更に左から数字を順に取り除い…
+j	東日本大震災	higashinihondaishinsai	The Great Eastern Japan E…
+j	肥沃な三日月地帯	hiyokunamikazukichitai	Fertile Crescent (a cresc…
+j	非カルケドン派正教会	hikarukedonhaseikyokai	カルケドン公会議の決議に反発し成立したアルメニア使…
+j	人を呪わば穴二つ	hitoonorowabaanafutatsu	chickens come home to roo…
+j	必要は発明の母	hitsuyowahatsumeinohaha	
+j	羊の皮を着た狼	hitsujinokawaokitaokami	
+j	菱形二十・十二面体	hishigatanijujunimentai	
+k	히읗 불규칙 활용	hieutbulgyuchikhwaryong	일부 형용사에서 어간의 끝 'ㅎ'이 어미 'ㄴ…
+e	high-definition television	highdefinitiontelevision	1 meaning
+j	一夜一夜に人見ごろ	hitoyohitoyonihitomigoro	無理数√2の小数第8位 1.41421356...…
+j	人を射んとせばまず馬を射よ	hitoointosebamazuumaoiyo	begin with the lesser thi…
+j	光るものすべて金ならず	hikarumonosubetekinnarazu	
+j	人の噂も七十五日	hitonowasamoshichijugonichi	他人が自分のことを噂していたとしても、75日も経て…
+j	非対称デジタル加入者線	hitaishodejitarukanyushasen	Asymmetric Digital Subscr…
+j	一つのことに全てを賭ける	hitotsunokotonisubeteokakeru	
+j	東ティモール民主共和国	higashitimoruminshukyowakoku	東南アジアティモール島にある東ティモールの正式名称。
+j	庇を貸して母屋を取られる	hisashiokashiteomoyaotorareru	一部を貸してやがて全部奪われる。
+j	火の無い所に煙は立たぬ	hinonaitokoronikemuriwatatanu	何か噂が立つからには、それなりの根拠があるものだ。
+j	日の下に新しきものなし	hinoshitaniatarashikimononashi	
+j	火のないところに煙は立たない	hinonaitokoronikemuriwatatanai	where there's smoke, ther…
+j	非アルコール性脂肪性肝疾患	hiarukoruseishiboseikanshikkan	
+j	人はパンのみにて生くる者に非ず	hitowapannominiteikurumononiarazu	man shall not live by bre…
+e	hippopotomonstrosesquipedaliophobia	hippopotomonstrosesquipedaliophobia	1 meaning

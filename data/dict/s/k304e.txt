@@ -1,0 +1,1590 @@
+j	ぎ	ぎ	（接続助詞）終止形について仮定を表す。たら。と。
+j	偽	ぎ	a falsehood, lie
+j	儀	ぎ	ceremony
+j	妓	ぎ	female entertainer
+j	技	ぎ	technique, art, skill
+j	着	ぎ	used to count suits of cl…
+j	義	ぎ	justice; a situation whic…
+j	蟻	ぎ	ant
+j	議	ぎ	discussion; deliberation;…
+j	魏	ぎ	Wei kingdom in China
+j	ぎか	ぎか	偽果: accessory fruit
+j	ぎぎ	ぎぎ	疑義: a doubt
+j	ぎく	ぎく	疑懼: uneasiness
+j	ぎざ	ぎざ	notch
+j	ぎし	ぎし	技師: engineer; technician
+j	ぎじ	ぎじ	
+j	ぎす	ぎす	きりぎりすの別称。
+j	ぎふ	ぎふ	古着。
+j	ぎぼ	ぎぼ	柄杓を意味する琉球語のにーぶ、じーぶが由来の日本人…
+j	ぎり	ぎり	just barely
+j	ギア	ギア	gear
+j	ギガ	ギガ	giga-
+j	ギグ	ギグ	小規模な演奏会での演奏。
+j	ギス	ギス	嬰ト。
+j	ギゾ	ギゾ	
+j	ギブ	ギブ	「ギブアップ」の略。
+j	ギャ	ギャ	
+j	ギヤ	ギヤ	「ギア」の表記ゆれ。
+j	ギロ	ギロ	
+j	ギー	ギー	ghee
+j	䱀䰲	ぎぎ	ぎぎ、ギギ科の淡水の硬骨魚。
+j	偽位	ぎい	虚位。
+j	偽器	ぎき	偽物の器物。
+j	偽意	ぎい	偽りの心。
+j	偽扉	ぎひ	古代エジプトの墓につくられた出入りの出来ない扉。
+j	偽果	ぎか	accessory fruit
+j	偽詐	ぎさ	偽り、騙すこと。嘘。
+j	偽貨	ぎか	偽造通貨。にせがね。
+j	切り	ぎり	切り, 切, 限: limits, bounds,…
+j	切れ	ぎれ	sharpness, cutting quality
+j	劓刵	ぎじ	古代中国で鼻や耳をそぐこと。
+j	君	ぎみ	an emperor
+j	妓夫	ぎふ	夜鷹に従い、客引きや護衛をする男。
+j	妓婦	ぎふ	芸妓。
+j	妓家	ぎか	芸妓などを置き、客に対し遊芸をさせる家。
+j	岐阜	ぎふ	Gifu (the capital city of…
+j	巍峨	ぎが	山などが高くそびえること。また、そのようなさま。
+j	巍巍	ぎぎ	towering; lofty
+j	御	ぎょ	used to respectfully refe…
+j	御	ぎよ	used to respectfully refe…
+j	戯侮	ぎぶ	戯れ、侮ること。
+j	戯婦	ぎふ	初夜に友人や縁者が集まり新婦をからかう習俗。
+j	戯画	ぎが	caricature (satirical por…
+j	戯耍	ぎさ	誂うこと。
+j	戯衣	ぎい	舞台衣装。
+j	技士	ぎし	特定の技術資格を有する者。また、それらの資格者に与…
+j	技師	ぎし	engineer
+j	擬古	ぎこ	むかしの風習ややり方をまねること。
+j	擬扉	ぎひ	古代エジプトの墓につくられた出入りの出来ない扉。
+j	擬死	ぎし	動物が急激な刺激に対し、死んでしまったかのように不…
+j	擬議	ぎぎ	熟考すること。よく議論すること。
+j	擬餌	ぎじ	釣りで実際に生きた餌に似せて人工的に作った餌。擬似…
+j	欺侮	ぎぶ	欺き、侮ること。
+j	欺誣	ぎふ	騙すこと。
+j	気味	ぎみ	sensation, feeling
+j	牛	ぎう	cow, bull, ox, cattle, a …
+j	犠打	ぎだ	ゴロやフライで打者はアウトになるがランナーは進塁で…
+j	犠賦	ぎふ	犠牲を徴収こと。
+j	犠飛	ぎひ	犠牲フライのこと。
+j	疑似	ぎじ	suspected, doubtful; pseu…
+j	疑怖	ぎふ	疑い、怖れること。
+j	疑惧	ぎく	fears and doubts
+j	疑懼	ぎく	apprehension; uneasiness
+j	疑沮	ぎそ	疑阻。
+j	疑畏	ぎい	疑い、恐れること。
+j	疑異	ぎい	疑い、怪しむこと。
+j	疑義	ぎぎ	doubt; doubtful point
+j	疑阻	ぎそ	疑い、阻むこと。
+j	義務	ぎむ	duty, obligation
+j	義和	ぎわ	Yihe era of Chinese histo…
+j	義士	ぎし	righteous person
+j	義夫	ぎふ	a male given name
+j	義姉	ぎし	sister-in-law (spouse's e…
+j	義婦	ぎふ	節婦。
+j	義意	ぎい	意義。
+j	義指	ぎし	指を失った人が、失った指の代わりに装着する人工の指。
+j	義故	ぎこ	以前恩義をかけたゆかりのある者。
+j	義枝	ぎし	接ぎ木で台木に接ぐ方の木。接ぎ穂。
+j	義歯	ぎし	dentures; false teeth
+j	義母	ぎぼ	a mother by moral princip…
+j	義父	ぎふ	a father by moral princip…
+j	義理	ぎり	duty, obligation, burden …
+j	義疏	ぎそ	経典の意義や内容を解説した書物。
+j	義義	ぎぎ	Tachysurus nudiceps, a sp…
+j	義義	ギギ	Tachysurus nudiceps, a sp…
+j	義耳	ぎじ	人工の耳。
+j	義肢	ぎし	artificial limb; prosthet…
+j	義解	ぎげ	explanation (of meaning);…
+j	義鼻	ぎび	人工の鼻。
+j	羲和	ぎか	太陽（や月）。
+j	蛾傅	ぎふ	蟻が甘い物や餌に群がるように大勢の者が群集すること。
+j	蛾附	ぎふ	蟻が甘い物や餌に群がるように大勢の者が群集すること。
+j	蟻付	ぎふ	蟻が甘い物や餌に群がるように大勢の者が群集すること。
+j	蟻夢	ぎむ	儚い夢。
+j	蟻浮	ぎふ	濁り酒。蟻酒。
+j	蟻附	ぎふ	「蟻付」の別表記。
+j	蟻鼻	ぎび	（蟻の鼻のように）微細なこと。
+j	議事	ぎじ	proceedings of a congress…
+j	議故	ぎこ	律令制の六議の一つで、天皇の側近で優遇されていた者…
+j	銀	ぎん	silver (lustrous, white, …
+j	魚	ぎょ	fish
+j	魚	ぎよ	fish
+j	ぎいち	ぎいち	義一: a male given name
+j	ぎけい	ぎけい	偽計
+j	ぎけつ	ぎけつ	議決: decision, vote
+j	ぎしょ	ぎしょ	偽書: apocryphal writing
+j	ぎそく	ぎそく	偽足, 擬足: pseudopod
+j	ぎねん	ぎねん	疑念: doubts
+j	ぎぶつ	ぎぶつ	偽物: something fake; count…
+j	ぎまい	ぎまい	姉分: sister-in-law (spouse…
+j	ぎゃあ	ぎゃあ	強いまたは突然の驚きや恐怖、痛みなどで出す声を表す…
+j	ぎゃく	ぎゃく	逆: reverse, opposite, con…
+j	ぎゃふ	ぎゃふ	the ice goby, Leucopsario…
+j	ぎゃー	ぎゃー	
+j	ぎょゆ	ぎょゆ	魚油: fish oil
+j	ぎらん	ぎらん	きらんに同じ。
+j	ぎりり	ぎりり	物の軋む音。
+j	ギアナ	ギアナ	南アメリカ北東部ガイアナ、スリナム、フランス領ギア…
+j	ギアラ	ギアラ	
+j	ギザ十	ギザ十	側面がギザギザになっている10円硬貨。1951年か…
+j	ギター	ギター	guitar
+j	ギテガ	ギテガ	Gitega (the capital city …
+j	ギニア	ギニア	Guinea (a country in West…
+j	ギニー	ギニー	guinea (British gold coin)
+j	ギフト	ギフト	gift, present
+j	ギブス	ギブス	「ギプス」の表記ゆれ。
+j	ギプス	ギプス	plaster cast
+j	ギャグ	ギャグ	gag (joke made in a perfo…
+j	ギャバ	ギャバ	gamma-aminobutyric acid
+j	ギャフ	ギャフ	a gaff: a long handle or …
+j	ギャラ	ギャラ	所定の労働、労役、役務、実績、功績に対して支払われ…
+j	ギャル	ギャル	a girl or young woman
+j	ギャー	ギャー	「ぎゃあ」のカタカナ表記。
+j	ギヤー	ギヤー	「ギア」の表記ゆれ。
+j	ギュメ	ギュメ	
+j	ギリ健	ギリ健	
+j	ギルト	ギルト	金箔。
+j	ギルド	ギルド	中世ヨーロッパの都市で発達した商工業者による同業者…
+j	ギーク	ギーク	グロテスクな芸をする芸人。
+j	ギーザ	ギーザ	
+j	ギープ	ギープ	ヤギとヒツジの交雑種。
+j	伎女	ぎじょ	a female dancer trainer b…
+j	伎楽	ぎがく	gigaku (extinct genre of …
+j	伎癢	ぎよう	「技癢」の異表記。
+j	伎道	ぎどう	方術。
+j	偽作	ぎさく	本物に見せ掛けてつくること。贋作。
+j	偽典	ぎてん	ユダヤ教・キリスト教の文書のうち正典および外典に含…
+j	偽印	ぎいん	偽造された印鑑。また、それによる印影。
+j	偽名	ぎめい	a pseudonym
+j	偽善	ぎぜん	hypocrisy
+j	偽増	ぎぞう	偽り、飾ること。偽飾。
+j	偽学	ぎがく	正道に反するような学問。
+j	偽層	ぎそう	主要な地層と平行でない葉理。斜交葉理。クロスラミナ。
+j	偽書	ぎしょ	本物に似せて作られた偽物の手紙や書物。
+j	偽版	ぎはん	偽造された版木。また、それによる印刷物。
+j	偽物	ぎぶつ	something fake; counterfe…
+j	偽籍	ぎせき	律令制のもとで租税の賦課などを逃れるため戸籍を偽る…
+j	偽葉	ぎよう	「仮葉」に同じ。
+j	偽薬	ぎやく	a placebo
+j	偽装	ぎさう	camouflage, disguise
+j	偽装	ぎそう	camouflage, disguise
+j	偽製	ぎせい	偽物をつくること。偽造。
+j	偽計	ぎけい	他人を欺くための計略。
+j	偽誓	ぎせい	
+j	偽足	ぎそく	アメーバや白血球などで見られる原形質の一時的な突起…
+j	偽軍	ぎぐん	puppet army
+j	偽造	ぎぞう	forgery; falsification; f…
+j	偽道	ぎどう	邪道。
+j	偽金	ぎきん	硫化錫（Ⅳ）からなる金色の顔料。
+j	偽電	ぎでん	偽の電報。
+j	儀介	ぎすけ	a male given name
+j	儀典	ぎてん	儀式に関する規定。
+j	儀刀	ぎとう	儀式の際に威儀を整えるために佩刀する太刀。
+j	儀制	ぎせい	儀式と制度。
+j	儀則	ぎそく	儀式。式典。
+j	儀容	ぎよう	礼儀に適った態度・装い。
+j	儀式	ぎしき	ritual; ceremony
+j	儀文	ぎぶん	型。形式。
+j	儀服	ぎふく	式服。
+j	儀法	ぎほう	きまり。規定。おきて。
+j	儀礼	ぎれい	etiquette, ceremony, cour…
+j	儀節	ぎせつ	節制。礼節。
+j	儀範	ぎはん	従うべき模範。手本。
+j	劓刑	ぎけい	古代中国の五刑の一つ。罪人の鼻を削ぎ落とす刑罰。
+j	劓墨	ぎぼく	鼻を削ぐ刑と入れ墨をする刑こと。
+j	劓馘	ぎかく	古代中国で鼻や耳をそぐこと。
+j	吟句	ぎんく	吟詠する詩歌の句。
+j	吟味	ぎんみ	thoroughly reviewing
+j	吟哦	ぎんが	to recite poetry with a c…
+j	吟歩	ぎんぽ	詩歌をつくったり吟じたりしながら歩くこと。
+j	吟詩	ぎんし	詩を吟詠すること。
+j	吟香	ぎんか	吟醸酒のような華やかな果物の香り。
+j	妓名	ぎめい	芸妓、遊女などの名。
+j	妓夫	ぎゅう	夜鷹に従い、客引きや護衛をする男。
+j	妓女	ぎじょ	a female dancer trainer b…
+j	妓女	ぎぢよ	a female dancer trainer b…
+j	妓楼	ぎろう	brothel
+j	妓楽	ぎがく	妓女が演奏する音楽。
+j	妓生	ぎせい	kisaeng (Korean courtesan)
+j	妓籍	ぎせき	芸者としての籍や身分。
+j	妓院	ぎいん	a brothel or similar busi…
+j	妓館	ぎかん	娼婦を置いて客をもてなす店。遊女屋。
+j	嫌い	ぎらい	hateful, detestable, disa…
+j	嫌い	ぎらひ	hateful, detestable, disa…
+j	宜蘭	ぎらん	Yilan (a city in Taiwan)
+j	巍廓	ぎかく	高く、広いさま。
+j	巍然	ぎぜん	高くそびえたつこと。
+j	巍闕	ぎけつ	宮城（皇居）の門。
+j	御句	ぎょく	他人の作った句に対する尊敬語。
+j	御史	ぎょし	古代中国の官名。元は君主に近侍する官吏であったが、…
+j	御府	ぎょふ	天子が所有している書画、物品を入れておく倉庫。
+j	御座	ぎょざ	throne
+j	御忌	ぎょき	貴人や宗派の祖師の年忌。
+j	御意	ぎょい	wish, desire (used instea…
+j	御歌	ぎょか	天皇、貴人がおつくりになった歌。
+j	御璽	ぎょじ	imperial seal, privy seal
+j	御衣	ぎょい	天子や貴人の衣服の尊敬語。
+j	御記	ぎょき	天子や貴人が記した日記などの記録の丁寧語。
+j	戯作	ぎさく	gesaku
+j	戯墨	ぎぼく	戯れに書いた書画。戯筆。
+j	戯媟	ぎせつ	なれて侮ること。
+j	戯弄	ぎろう	戯れ、弄ぶこと。からかうこと。
+j	戯慢	ぎまん	戯れ、侮ること。
+j	戯文	ぎぶん	戯れに書く文章。
+j	戯書	ぎしょ	"playful writing", a type…
+j	戯物	ぎぶつ	玩弄するもの。翫具。
+j	戯筆	ぎひつ	戯れに書いた書画。戯墨。
+j	戯言	ぎげん	nonsense, balderdash
+j	戯訓	ぎくん	playful kun'yomi in the M…
+j	技名	ぎめい	name of a technique / move
+j	技工	ぎこう	手で加工を行なう技術。また、それを有する者。
+j	技巧	ぎかう	technique, technical abil…
+j	技巧	ぎこう	technique, technical abil…
+j	技法	ぎほう	technique
+j	技癢	ぎよう	自分の手腕・腕前を見せたくてむずむずすること、腕が…
+j	技能	ぎのう	A technical skill that ha…
+j	技芸	ぎげい	美術や工芸などの技術。
+j	擬する	ぎする	なぞらえる。見立てる。
+j	擬主	ぎしゅ	主君のふりをすること。
+j	擬似餌	ぎじえ	釣りで実際に生きた餌に似せて人工的に作った餌。
+j	擬作	ぎさく	ある物に似せてつくること。
+j	擬制	ぎせい	便宜的に想定すること。かりになぞらえること。擬似的…
+j	擬勢	ぎせい	見せ掛けの勢い。
+j	擬声	ぎせい	人や動物の音声を真似ること。また、その音声。
+j	擬岩	ぎがん	artificial rock
+j	擬態	ぎたい	mimicry
+j	擬戦	ぎせん	実戦に準じて行う戦い。
+j	擬木	ぎぼく	コンクリートやモルタルなどで木材の木目や年輪などを…
+j	擬物	ぎぶつ	人などを物になぞらえること。
+j	擬石	ぎせき	コンクリートなどにより自然の石に似せて人工的につく…
+j	擬薬	ぎやく	
+j	擬装	ぎそう	disguise
+j	擬製	ぎせい	imitation, forgery, copy
+j	擬足	ぎそく	アメーバや白血球などで見られる原形質の一時的な突起…
+j	擬造	ぎぞう	なぞらえ、造ること。
+j	擬闘	ぎとう	俳優や役者が、演技で行う喧嘩や格闘。
+j	擬音	ぎおん	foley, sound effects
+j	暁	ぎょう	dawn, daybreak
+j	曦輪	ぎりん	太陽。羲輪。
+j	業	ぎょう	work, task, business: the…
+j	欺慢	ぎまん	欺き、侮ること。
+j	欺瞞	ぎまん	deception, deceit
+j	欺計	ぎけい	他人を欺くたくらみ。
+j	欺讕	ぎらん	事実でないことを事実であるかのように騙すこと。誣妄。
+j	漁務	ぎょむ	漁業、水産業に関する仕事。
+j	漁区	ぎょく	漁業者が漁をすることができる区画。
+j	漁史	ぎょし	文人などの雅号の下に添えて使用する語。
+j	漁場	ぎょば	fishing ground
+j	漁夫	ぎょふ	fisherman
+j	漁家	ぎょか	漁業により生計をたてる家。
+j	漁火	ぎょか	夜間、漁をする際に魚などを集めるために漁船で焚く火。
+j	牛	ぎゅう	cow, bull, ox, cattle, a …
+j	牛歩	ぎうほ	snail's pace
+j	牛脂	ぎうし	tallow of cow
+j	牛馬	ぎうば	oxen and horses, beasts o…
+j	牛鬼	ぎうき	ox yōkai
+j	犠牲	ぎせい	sacrifice
+j	玉	ぎょく	球, 珠: a ball
+j	玉	ぎよく	球, 珠: a ball
+j	疑乱	ぎらん	疑い、戸惑うこと。
+j	疑似の	ぎじの	
+j	疑問	ぎもん	a question (implies a dou…
+j	疑団	ぎだん	心中に残る疑念のかたまり。
+j	疑心	ぎしん	doubts, apprehension
+j	疑念	ぎねん	doubt
+j	疑惑	ぎわく	doubt, suspicion
+j	疑殆	ぎたい	疑い、恐れること。
+j	疑点	ぎてん	疑問に思う所。
+j	疑物	ぎぶつ	真似てつくられた物。にせもの。
+j	疑獄	ぎごく	major bribery incident of…
+j	祇園	ぎおん	Gion (a district of Kyoto)
+j	祇園	ぎをん	Gion (a district of Kyoto)
+j	祇林	ぎりん	祇園。
+j	祇樹	ぎじゅ	祇園。
+j	禦止	ぎょし	防禦し、阻止すること。
+j	義一	ぎいち	a male given name
+j	義人	ぎじん	righteous person; pious p…
+j	義倉	ぎそう	凶作に備え、食料を蓄えておく倉庫。
+j	義僕	ぎぼく	忠実な下僕。忠僕。
+j	義兄	ぎけい	brother-in-law (spouse's …
+j	義分	ぎぶん	人道のために尽くすこと。
+j	義勇	ぎゆう	courage and loyalty
+j	義卒	ぎそつ	正義のために起こす兵。義軍。
+j	義妹	ぎまい	sister-in-law (spouse's y…
+j	義廩	ぎりん	義倉。
+j	義弟	ぎてい	brother-in-law (spouse's …
+j	義憤	ぎふん	righteous indignation
+j	義戦	ぎせん	正義のために戦う戦争。
+j	義手	ぎしゅ	artificial arm
+j	義手	ぎしゆ	artificial arm
+j	義断	ぎだん	縁を切ること。義絶。
+j	義殿	ぎでん	寺院。
+j	義烈	ぎれつ	righteousness
+j	義爪	ぎそう	ギターなど弦楽器の弦を弾くために付ける人工の爪。ピ…
+j	義理の	ぎりの	
+j	義田	ぎでん	中国で一族の中で困窮者の救済や教育、祭祀などのため…
+j	義疏	ぎしょ	経典の意義や内容を解説した書物。
+j	義眼	ぎがん	人工の眼。入れ目。
+j	義節	ぎせつ	節義。
+j	義荘	ぎそう	義田。
+j	義血	ぎけつ	道理を重んじ、人に尽くそうという精神。
+j	義親	ぎしん	a parent-in-law
+j	義解	ぎかい	explanation (of meaning);…
+j	義訓	ぎくん	false reading (a kanji co…
+j	義説	ぎせつ	注解。
+j	義賊	ぎぞく	a gentleman thief
+j	義贈	ぎぞう	賄賂。
+j	義趣	ぎしゅ	物事の根本となるような意味。
+j	義足	ぎそく	artificial leg
+j	義軍	ぎぐん	正義のために行う戦争。また、その軍勢。
+j	義金	ぎきん	義捐金（義援金）に同じ。
+j	義門	ぎもん	意味。
+j	羲輪	ぎりん	太陽。曦輪。
+j	艤装	ぎさう	rigging
+j	艤装	ぎそう	rigging
+j	虐	ぎゃく	to oppress, to persecute,…
+j	螘動	ぎどう	騒乱。
+j	蟻伏	ぎふく	一斉に降伏すること。
+j	蟻動	ぎどう	乱れること。
+j	蟻封	ぎほう	蟻が地中に営巣する際に地上へ出し、積み上げた土。
+j	蟻穴	ぎけつ	蟻がつくった巣穴。
+j	蟻蚕	ぎさん	孵化したばかりの蚕。
+j	蟻酒	ぎしゅ	濁り酒。
+j	蟻酸	ぎさん	formic acid
+j	行	ぎやう	a line of text
+j	行	ぎょう	a line of text
+j	議する	ぎする	（「～を議する」の形で）～について話し合う。～につ…
+j	議会	ぎかい	a legislature (government…
+j	議員	ぎいん	a member of a legislature…
+j	議員	ぎゐん	a member of a legislature…
+j	議官	ぎかん	明治初期、立法機関を構成した官職の名称。
+j	議定	ぎてい	agreement
+j	議席	ぎせき	parliamentary seat or sea…
+j	議所	ぎしょ	内裏の宜陽殿にある一室で、公卿が集議したところ。
+j	議政	ぎせい	討議、論議により政治を行うこと。
+j	議案	ぎあん	legislative bill
+j	議決	ぎけつ	decision; resolution
+j	議能	ぎのう	律令制の六議の一つ。文武に優れその才能を発揮してい…
+j	議覆	ぎふく	再議すること。
+j	議説	ぎせつ	議論。
+j	議論	ぎろん	discussion
+j	議院	ぎいん	parliament; congress; hou…
+j	議題	ぎだい	agenda
+j	逆	ぎゃく	reverse; contrary; opposi…
+j	銀価	ぎんか	（通常、1グラム当たりの）銀の価格。
+j	銀器	ぎんき	silver, silverware (knive…
+j	銀地	ぎんじ	布や紙などの下地に、銀泥を塗ったり、銀箔を張ったり…
+j	銀字	ぎんじ	銀泥で書かれた文字。
+j	銀宝	ぎんぽ	ニシキギンポ科の海産の魚。うみどじょう。かみそりう…
+j	銀布	ぎんふ	銀色の布
+j	銀布	ぎんぷ	銀色の布
+j	銀座	ぎんざ	Ginza, a district in Toky…
+j	銀庫	ぎんこ	金庫。
+j	銀歯	ぎんば	銀でできた義歯。
+j	銀河	ぎんが	synonym of 銀河系 (Gingakei,…
+j	銀砂	ぎんさ	銀粉。
+j	銀窠	ぎんか	銀印。
+j	銀粉	ぎんこ	silver powder / dust
+j	銀糸	ぎんし	銀色の糸。
+j	銀紙	ぎんし	aluminium foil; tin foil
+j	銀蛾	ぎんが	ヤガ科の蛾。学名はChasminodes albo…
+j	銀貨	ぎんか	silver (coins), silver co…
+j	魏軍	ぎぐん	Wei (魏) army
+j	魏闕	ぎけつ	宮城（皇居）の門。
+j	魚油	ぎょゆ	fish oil
+j	魚肆	ぎょし	魚屋。
+j	魚蝦	ぎょか	魚と蝦。
+j	魚部	ぎょぶ	部首「⿂」で分類した漢字の一群。
+j	魚鰕	ぎょか	魚と鰕。
+j	魚鼓	ぎょく	木材を魚の形にして中空にした仏具。魚板。
+j	ぎいぎい	ぎいぎい	creaking, as of wood or a…
+j	ぎくっと	ぎくっと	不意をつかれて驚くさま。
+j	ぎざぎざ	ぎざぎざ	のこぎりの歯のような細かい刻み目やその刻み目がある…
+j	ぎしぎし	ぎしぎし	タデ科の多年草。学名はRumex japonicu…
+j	ぎすぎす	ぎすぎす	unsociably
+j	ぎっしり	ぎっしり	tightly
+j	ぎっちょ	ぎっちょ	left-handedness, left-han…
+j	ぎっちり	ぎっちり	tightly, fitting close
+j	ぎゃくに	ぎゃくに	
+j	ぎゃふん	ぎゃふん	speechlessly, in a tongue…
+j	ぎゅうし	ぎゅうし	牛脂: tallow of cow
+j	ぎゅっと	ぎゅっと	squeezing tightly
+j	ぎゅるる	ぎゅるる	An onomatopoeia of the ru…
+j	ぎゅんと	ぎゅんと	contracting
+j	ぎょうこ	ぎょうこ	
+j	ぎょうむ	ぎょうむ	
+j	ぎょかく	ぎょかく	漁獲: fishing; a catch/haul…
+j	ぎょそん	ぎょそん	漁村: fishing village
+j	ぎょにく	ぎょにく	魚肉: fish meat, fish
+j	ぎらぎら	ぎらぎら	glaring, dazzling; glitte…
+j	ぎらつく	ぎらつく	to shine
+j	ぎりぎり	ぎりぎり	just barely, at the last …
+j	ぎんぎん	ぎんぎん	犬や虫などがうるさく鳴くさま。
+j	ぎんこう	ぎんこう	
+j	ぎんざけ	ぎんざけ	鮭の一種。別名はコーホーサーモン、シルバーサーモン…
+j	ぎんざん	ぎんざん	銀山: silver mine
+j	ぎんだら	ぎんだら	銀鱈: sablefish
+j	ぎんぱく	ぎんぱく	銀箔: silver leaf
+j	ぎんぱつ	ぎんぱつ	銀髪: silver hair
+j	ぎんぶな	ぎんぶな	鮒の一種。学名は Carassius langsd…
+j	ギウアン	ギウアン	
+j	ギシギシ	ギシギシ	「ぎしぎし」の学術的表記。
+j	ギニア湾	ギニア湾	大西洋の東端にあり、西アフリカの海岸線が赤道付近で…
+j	ギベリン	ギベリン	
+j	ギミック	ギミック	gimmick
+j	ギャザー	ギャザー	布を縫って縮めることでできるひだ。
+j	ギャップ	ギャップ	gap; contrast; discrepancy
+j	ギャリー	ギャリー	
+j	ギャレー	ギャレー	
+j	ギャング	ギャング	gang
+j	ギヤマン	ギヤマン	（ダイヤモンドの刃を用いて細工したことから）ガラス…
+j	ギュムリ	ギュムリ	
+j	ギョプる	ギョプる	to enjoy samgyeopsal
+j	ギョーザ	ギョーザ	
+j	ギヨチン	ギヨチン	ギロチン。
+j	ギヨーム	ギヨーム	
+j	ギラキ語	ギラキ語	
+j	ギラード	ギラード	
+j	ギリシア	ギリシア	ヨーロッパ南西部、バルカン半島南端に位置する国。首…
+j	ギリシャ	ギリシャ	Greece (a country in Sout…
+j	ギリ健	ぎりけん	
+j	ギリ健	ギリけん	
+j	ギルガル	ギルガル	
+j	ギルダー	ギルダー	guilder (Dutch and Surina…
+j	ギルロイ	ギルロイ	Gilroy (a city in Califor…
+j	ギロチン	ギロチン	a guillotine (machine use…
+j	ギロピタ	ギロピタ	
+j	ギンガム	ギンガム	gingham
+j	ギンザケ	ギンザケ	ぎんざけの学術的表記。
+j	ギンダラ	ギンダラ	銀鱈: sablefish
+j	ギンナン	ギンナン	銀杏: nut of the ginkgo tree
+j	仰仆	ぎょうふ	仰向け。仰倒。
+j	仰思	ぎょうし	仰ぎ、慕うこと。仰慕。
+j	仰慕	ぎょうぼ	仰ぎ、慕うこと。仰思。
+j	仰臥	ぎょうが	lying down face up
+j	仰視	ぎょうし	仰ぎ見ること。
+j	仰訴	ぎょうそ	訴えること。
+j	伎倆	ぎりょう	持っている技術。腕前。
+j	伎術	ぎじゅつ	技。
+j	偽君子	ぎくんし	hypocrite
+j	偽朝	ぎちょう	正統ではない朝廷、政府。
+j	偽経	ぎきやう	false scripture; specific…
+j	偽経	ぎきょう	false scripture; specific…
+j	偽証	ぎしょう	perjury
+j	偽飾	ぎしょく	偽り、飾ること。偽増。
+j	儀仗	ぎじょう	ornamental weapon for cer…
+j	儀表	ぎひょう	模範。手本。
+j	凝固	ぎょうこ	The act of solidifying or…
+j	凝思	ぎょうし	思いを凝らすこと。凝意。
+j	凝意	ぎょうい	思いを凝らすこと。凝思。
+j	凝止	ぎょうし	止まること。
+j	凝澌	ぎょうし	凍ること。
+j	凝脂	ぎょうし	凝結した脂肪。凝った脂。
+j	凝華	ぎょうか	物質が液体を経ずに気体から固体に変化すること。
+j	凝視	ぎょうし	stare
+j	凝離	ぎょうり	偏析。
+j	刑部	ぎょうぶ	the Ministry of Justice
+j	卬視	ぎょうし	仰ぎ見ること。
+j	吟ずる	ぎんずる	
+j	吟呻	ぎんしん	呻吟すること。
+j	吟声	ぎんせい	詩歌を吟ずること。また、その声。
+j	吟客	ぎんかく	詩歌を詠む風流な人。
+j	吟心	ぎんしん	吟情。
+j	吟殺	ぎんさつ	歌う。
+j	吟研	ぎんけん	吟味すること。
+j	吟社	ぎんしゃ	society of poets
+j	吟社	ぎんしや	society of poets
+j	吟箋	ぎんせん	詩歌を書くための用紙。
+j	吟肩	ぎんけん	詩人。
+j	吟詠	ぎんえい	recitation (of poetry); c…
+j	吟身	ぎんしん	詩人。
+j	吟道	ぎんどう	日本の芸道の一つで詩吟や吟詠に礼法や作法を加えたも…
+j	吟香	ぎんこう	吟醸酒のような華やかな果物の香り。
+j	唫呻	ぎんしん	呻吟すること。
+j	嚚人	ぎんじん	頑愚（な人）。
+j	圉人	ぎょじん	うまかい。圉者。
+j	圉者	ぎょしゃ	牧畜する者。圉人。
+j	圉臣	ぎょしん	うまかい。
+j	垠堮	ぎんがく	辺際。
+j	宜昌	ぎしょう	Yichang (a city in Hubei,…
+j	岐阜県	ぎふけん	an inland prefecture in t…
+j	崟崟	ぎんぎん	高峻。
+j	崟嶔	ぎんきん	高峻なこと。また、そのようなさま。
+j	希臘	ぎりしあ	ギリシアの漢字表記。
+j	希臘	ぎりしゃ	ギリシアの漢字表記。
+j	希臘	ギリシア	ギリシアの漢字表記。
+j	希臘	ギリシャ	ギリシアの漢字表記。
+j	御する	ぎょする	to control, to manage, to…
+j	御世	ぎょせい	天子、天皇が在位している間の治世。
+j	御人	ぎょじん	侍御。
+j	御会	ぎょかい	歌会などの敬語。
+j	御宴	ぎょえん	皇室、貴人が開く宴会。
+j	御幸	ぎょこう	（ごこう）上皇、女院の外出。
+j	御影	ぎょえい	pictures of the emperor (…
+j	御感	ぎょかん	天皇、貴人が感心されること。また、気に入ること。
+j	御慶	ぎょけい	お喜び。お祝い。
+j	御撰	ぎょせん	天皇が編集したり著したりすること。また、その書物。
+j	御札	ぎょさつ	talisman or amulet issued…
+j	御物	ぎょぶつ	天子、皇室の所有物。
+j	御簾	ぎょれん	(ぎょれん) 貴人の在所を囲う垂れ幕・すだれ。
+j	御者	ぎょしゃ	carriage driver; coachman
+j	御苑	ぎょえん	imperial garden
+j	御詠	ぎょえい	天皇や皇族が詠んだ詩歌。
+j	御輦	ぎょれん	貴人が使用する輦。
+j	御選	ぎょせん	天皇が選定すること。また、そのもの。
+j	御階	ぎょかい	宮殿などの階段の丁寧な言い方。
+j	御題	ぎょだい	（おだい）詩歌などの「題」の丁寧語。
+j	御饌	ぎょせん	〔ごせん〕御饌米。
+j	戯作語	ぎさくご	戯れや技巧を目的として一時的に作られた語。創作者の…
+j	戯曲	ぎきょく	play, drama
+j	戯評	ぎひょう	漫画や戯文で社会を批評すること。
+j	技倆	ぎりょう	持っている技術。
+j	技曲	ぎきょく	軽業や曲馬などの技をしていく中での変化。
+j	技能士	ぎのうし	技能検定に合格し与えられるその職種の技能を証明する…
+j	技術	ぎじゅつ	technology
+j	技量	ぎりょう	ability, competence
+j	擬人化	ぎじんか	anthropomorphization, per…
+j	擬似的	ぎじてき	そのものではないが、それによく似ている様子。
+j	擬声語	ぎせいご	onomatopoeia (word that s…
+j	擬宝珠	ぎぼうし	ornamental metal finials …
+j	擬宝珠	ギボウシ	ornamental metal finials …
+j	擬態語	ぎたいご	an ideophone; a word the …
+j	擬距離	ぎきょり	距離関数の定義からd(x,y)=0⟺x=yを抜いた…
+j	擬音語	ぎおんご	an onomatopoeic word, a w…
+j	擬餌針	ぎじばり	実際に生きた餌に似せて羽毛や模型など人工的に作った…
+j	擬餌鉤	ぎじばり	実際に生きた餌に似せて羽毛や模型など人工的に作った…
+j	暁字	ぎょうじ	告白すること。
+j	暁悟	ぎょうご	悟ること。暁解。
+j	暁慰	ぎょうい	慰めること。
+j	暁気	ぎょうき	明け方の空気。
+j	暁示	ぎょうじ	諭すこと。
+j	暁起	ぎょうき	朝早く暁の頃に起床すること。
+j	暁霧	ぎょうむ	明け方に出る霧。朝霧。
+j	暁鴉	ぎょうあ	明け方の頃に鳴くからす。
+j	暁鼓	ぎょうこ	夜明けを知らせるために鳴らされる太鼓。
+j	暁鼯	ぎょうご	明け方、餌をあさる鼯鼠。
+j	業務	ぎょうむ	business, business duties
+j	業祚	ぎょうそ	王業。
+j	沂鄂	ぎんがく	器物の縁につけた凹凸の文様。
+j	漁する	ぎょする	〔水産物・魚介類を〕取り集める。漁獲する。
+j	漁人	ぎょじん	fisher
+j	漁人	ぎよじん	fisher
+j	漁侵	ぎょしん	侵奪すること。
+j	漁協	ぎょけふ	漁業協同組合の略。JF(Japan Fisheri…
+j	漁政	ぎょせい	漁業に関する行政。
+j	漁村	ぎょそん	fishing village
+j	漁業	ぎよげふ	fishing industry, fishery
+j	漁民	ぎょみん	fisherman
+j	漁法	ぎょほう	fishing method
+j	漁法	ぎよはふ	fishing method
+j	漁港	ぎょこう	fishing port
+j	漁灯	ぎょとう	漁猟の際に用いる灯火。漁火。
+j	漁獲	ぎょかく	fishing
+j	漁網	ぎょもう	fishing net
+j	漁者	ぎょしゃ	漁師。
+j	漁舎	ぎょしゃ	漁夫の家。
+j	漁船	ぎょせん	fishing boat
+j	澆季	ぎょうき	道徳が衰退し、情が薄くなった時代。
+j	澆弛	ぎょうし	末世。
+j	澆漓	ぎょうり	情が軽薄なこと。澆薄。
+j	牛丼	ぎうどん	gyudon: a Japanese dish o…
+j	牛歩	ぎゅうほ	snail's pace
+j	牛皮	ぎゅうひ	oxhide
+j	牛耳る	ぎうじる	to rule; to control
+j	牛脂	ぎゅうし	tallow of cow
+j	牛舎	ぎうしゃ	cowshed, byre, cattle barn
+j	牛車	ぎうしや	an ornately decorated sin…
+j	牛車	ぎっしゃ	an ornately decorated sin…
+j	牛部	ぎゅうぶ	部首「⽜」で分類した漢字の一群。
+j	牛酪	ぎうらく	butter
+j	牛馬	ぎゅうば	oxen and horses, beasts o…
+j	牛鬼	ぎゅうき	ox yōkai
+j	狺犬	ぎんけん	吠え立てる犬。
+j	狺狺	ぎんぎん	sound of a dog barking
+j	玉兎	ぎょくと	The legendary Jade Rabbit…
+j	玉器	ぎょっき	玉で製造または装飾された器物。
+j	玉宇	ぎょくう	玉のように美しく飾られた御殿。
+j	玉座	ぎょくざ	a throne (ornate seat)
+j	玉机	ぎょっき	玉で装飾された机。
+j	玉沙	ぎょくさ	玉砂利。
+j	玉璽	ぎょくじ	the emperor's seal
+j	玉肌	ぎょっき	玉のように美しい肌。
+j	玉部	ぎょくぶ	部首「⽟」で分類した漢字の一群。
+j	玉露	ぎょくろ	a dewdrop appearing like …
+j	疑似的	ぎじてき	そのものではないが、それによく似ている様子。
+j	疑問符	ぎもんふ	a question mark
+j	疑問視	ぎもんし	疑わしく思うこと。疑問に感じること。
+j	疑問詞	ぎもんし	interrogative, including …
+j	疑惧	ぎくする	fears and doubts
+j	疑止	ぎょうし	止まること。
+j	疑氷	ぎひょう	（硬い氷のような）疑い。疑念。疑惑。
+j	瘧師	ぎゃくし	a surname
+j	祇園会	ぎおんえ	京都祇園社（八坂神社）の祭礼。現在7月に行われる。
+j	祇王寺	ぎおうじ	a nunnery in front of Sag…
+j	羊蹄	ぎしぎし	Japanese dock, Rumex japo…
+j	羊蹄	ギシギシ	Japanese dock, Rumex japo…
+j	義務的	ぎむてき	compulsory
+j	義務論	ぎむろん	
+j	義和団	ぎわだん	
+j	義塚	ぎちょう	無縁の故人を祀った塚。
+j	義塾	ぎじゅく	private school
+j	義太夫	ぎだゆう	
+j	義旧	ぎきゅう	むかしの縁故の人。
+j	義経記	ぎけいき	the Gikeiki; the Chronicl…
+j	義脚	ぎきゃく	足を失った人が、失った足の代わりに装着する人工の足。
+j	翹企	ぎょうき	待ち望むこと。翹趾。
+j	翹楚	ぎょうそ	才能が抜きん出ていること。
+j	翹異	ぎょうい	特異。
+j	翹趾	ぎょうし	待ち望むこと。翹企。
+j	艤舟	ぎしゅう	出航のための船の準備をすること。
+j	蟻丘	ぎきゅう	蟻塚。
+j	蟻宮	ぎきゅう	蟻塚。
+j	蟻術	ぎじゅつ	小さな蟻が土で蟻塚を築く方法。
+j	蟻集	ぎしゅう	蟻が餌に群がるように集まること。
+j	蟻鼻銭	ぎびせん	春秋戦国時代の楚で使われていた青銅製の貨幣。
+j	行事	ぎやうじ	function, event
+j	行事	ぎょうじ	function, event
+j	行儀	ぎやうぎ	manners; behavior
+j	行儀	ぎょうぎ	manners; behavior
+j	行司	ぎやうじ	sumo referee
+j	行司	ぎょうじ	sumo referee
+j	行歩	ぎょうぶ	歩くこと。歩行。
+j	行苦	ぎょうく	哲学的、存在論（人間学）的な、人としての苦。格別の…
+j	行訴	ぎょうそ	行政訴訟の略。
+j	誾誾	ぎんぎん	一方に偏らず正当なさま。
+j	議事堂	ぎじどう	議会の議事を行うための建築。
+j	議事録	ぎじろく	minutes (the official not…
+j	議会	ぎくわい	a legislature (government…
+j	議場	ぎじょう	meeting place; assembly h…
+j	議定	ぎじょう	agreement
+j	議長	ぎちょう	chairman (person presidin…
+j	逆に	ぎゃくに	conversely, on the contra…
+j	逆手	ぎゃくて	turn the tables on someone
+j	逆流	ぎゃくる	counter current, flowing …
+j	逆火	ぎゃっか	内燃機関で点火時期の不整などにより気筒から吸気管や…
+j	銀ムツ	ぎんむつ	Patagonian toothfish (Dis…
+j	銀ムツ	ぎんムツ	Patagonian toothfish (Dis…
+j	銀主	ぎんしゅ	江戸時代、上方で大名に金銭を貸し付けた者。
+j	銀傘	ぎんさん	the roof of the Kōshien S…
+j	銀元	ぎんげん	清代末期に製造された洋式の一元銀貨。1930年代ま…
+j	銀券	ぎんけん	銀貨と兌換可能な紙幣。
+j	銀剣	ぎんけん	銀でできた剣。
+j	銀印	ぎんいん	銀製の印章。
+j	銀台	ぎんだい	銀で（美しく）装飾した台。
+j	銀塩	ぎんえん	silver salt; silver halide
+j	銀宝	ぎんぽう	ニシキギンポ科の海産の魚。うみどじょう。かみそりう…
+j	銀屏	ぎんぺい	地紙の全体に銀箔をおいてつくられた屏風。銀屏風。
+j	銀山	ぎんざん	silver mine
+j	銀嶺	ぎんれい	雪が積もり銀白色に輝く嶺。
+j	銀川	ぎんせん	Yinchuan (a city in China)
+j	銀幕	ぎんまく	silver screen, movie scre…
+j	銀幣	ぎんぺい	銀の貨幣。
+j	銀扇	ぎんせん	地紙に銀箔を押した扇。
+j	銀札	ぎんさつ	銀の札。また、銀色の札。
+j	銀朱	ぎんしゅ	硫化水銀を主な成分とする朱色の顔料。朱。天然の原料…
+j	銀杏	ぎんなん	ginkgo tree (Ginkgo bilob…
+j	銀漢	ぎんかん	synonym of 銀河系 (Gingakei,…
+j	銀盤	ぎんばん	
+j	銀砂	ぎんしゃ	銀粉。
+j	銀箔	ぎんぱく	silver leaf
+j	銀箭	ぎんせん	銀製の矢。銀色をした矢。
+j	銀簪	ぎんかん	銀製の簪。
+j	銀簪	ぎんしん	銀製の簪。
+j	銀粉	ぎんぷん	silver powder / dust
+j	銀紙	ぎんがみ	aluminium foil; tin foil
+j	銀経	ぎんけい	銀河座標における経度。
+j	銀線	ぎんせん	銀製の線。
+j	銀翼	ぎんよく	飛行機の翼。
+j	銀色	ぎんいろ	silver (color)
+j	銀葉	ぎんよう	銀を紙のように延ばしたもの。
+j	銀蟾	ぎんせん	「月」の異称。
+j	銀行	ぎんかう	a bank (financial institu…
+j	銀行	ぎんこう	a bank (financial institu…
+j	銀製	ぎんせい	銀でつくられていること。また、そのようなもの。
+j	銀角	ぎんかく	銀でできた角または角笛。
+j	銀貨	ぎんくわ	silver (coins), silver co…
+j	銀輪	ぎんりん	銀でつくられた輪。銀色の輪。
+j	銀針	ぎんしん	銀でできた針。
+j	銀鈴	ぎんれい	銀でできた鈴。
+j	銀鉱	ぎんこう	silver mine
+j	銀銭	ぎんせん	銀貨。
+j	銀鍼	ぎんしん	（鍼灸で使う）銀でできた鍼。
+j	銀閣	ぎんかく	銀で装飾された楼閣。
+j	銀震	ぎんしん	円盤状の銀河でその中のガスが垂直方向に振動してでき…
+j	銀髪	ぎんぱつ	silver hair
+j	銀魚	ぎんぎょ	銀白色の鱗の金魚。
+j	銀鮫	ぎんざめ	a silver chimaera (Chimae…
+j	銀鮫	ギンザメ	a silver chimaera (Chimae…
+j	銀鯛	ぎんだい	「アフリカチヌ」の別名。
+j	銀鱈	ぎんだら	sablefish
+j	銀鱈	ギンダラ	sablefish
+j	銀鱗	ぎんりん	銀色の鱗。
+j	銀鱶	ぎんぶか	synonym of 銀鮫 (ginzame, “…
+j	銀鱶	ギンブカ	synonym of 銀鮫 (ginzame, “…
+j	銀鶏	ぎんけい	キジ目キジ科キンケイ属に属する鳥の一種。学名:Ch…
+j	銀鼠	ぎんねず	銀色がかった鼠色。銀鼠色。
+j	餃子	ぎょうざ	gyoza: a kind of dumpling…
+j	馭神	ぎょしん	神を祀り、祟りを防ぐこと。
+j	馭者	ぎょしゃ	御者。
+j	驍武	ぎょうぶ	強く勇ましいこと。また、そのようなさま。
+j	魚人	ぎょじん	人と魚の特徴を併せもつ（架空の）生物。
+j	魚介	ぎょかい	marine products, seafood,…
+j	魚信	ぎょしん	魚が餌に食い付くこと。また、そのことによって浮きや…
+j	魚偏	ぎょへん	漢字の部首「⿂」が偏である場合の呼称。
+j	魚卵	ぎょらん	roe (eggs of fish)
+j	魚塩	ぎょえん	魚と塩。海産物の総称。
+j	魚形	ぎょけい	魚類の形。
+j	魚影	ぎょえい	水中を泳いでいる魚の姿。また、魚の集まり具合。
+j	魚拓	ぎょたく	gyotaku
+j	魚探	ぎょたん	魚群探知機の略。
+j	魚族	ぎょぞく	魚類。
+j	魚板	ぎょばん	木材を魚の形にして中空にした仏具。魚鼓。
+j	魚柝	ぎょたく	木魚。
+j	魚梯	ぎょてい	河川の堰やダムなどで魚が遡上できなくなった場所に魚…
+j	魚灯	ぎょとう	「魚灯油」の略。
+j	魚物	ぎょぶつ	魚。魚類。
+j	魚眼	ぎょがん	a fish eye
+j	魚種	ぎょしゅ	魚類の種類。
+j	魚網	ぎょもう	魚を獲るための網。漁網。
+j	魚群	ぎょぐん	school (of fish)
+j	魚肉	ぎょにく	fish meat, fish
+j	魚膾	ぎょかい	魚を使用した膾。
+j	魚菜	ぎょさい	魚や野菜類。
+j	魚袋	ぎょたい	a sharkskin-covered woode…
+j	魚貝	ぎょかい	魚貝類の通称。
+j	魚貫	ぎょかん	串ざしの魚のように大勢が列をなして行くこと。
+j	魚道	ぎょどう	fishway; fish ladder
+j	魚雁	ぎょがん	手紙。書簡。
+j	魚雷	ぎょらい	torpedo
+j	魚類	ぎょるい	fishes
+j	魚鱗	ぎょりん	魚の鱗。
+j	魚鼈	ぎょべつ	魚とすっぽん。
+j	齗齗	ぎんぎん	争うさま。
+j	齗齶	ぎんがく	歯茎。
+j	ぎいちろう	ぎいちろう	義一郎: a male given name
+j	ぎくしゃく	ぎくしゃく	rough; unsteady
+j	ぎこちない	ぎこちない	awkward, clumsy
+j	ぎごちない	ぎごちない	「ぎこちない」の表記ゆれ。
+j	ぎっくり腰	ぎっくり腰	thrown out back, strained…
+j	ぎなたよみ	ぎなたよみ	単語の区切りを間違えたために意味を誤解すること。
+j	ぎなた読み	ぎなたよみ	misparsing of a phrase; r…
+j	ぎなた読み	ぎなた読み	misparsing of a phrase; r…
+j	ぎゃくせつ	ぎゃくせつ	逆説: paradox
+j	ぎゃくばり	ぎゃくばり	doing the reverse of what…
+j	ぎゃくばり	ぎやくばり	doing the reverse of what…
+j	ぎゃんなき	ぎゃんなき	wailing of a baby
+j	ぎゅうどん	ぎゅうどん	
+j	ぎょうかん	ぎょうかん	
+j	ぎょうさつ	ぎょうさつ	行殺: A quick or effortless…
+j	ぎょうさん	ぎょうさん	おおげさな。
+j	ぎょくへん	ぎょくへん	玉篇: Yupian
+j	ぎょしゃ座	ぎょしゃざ	Auriga
+j	ぎょしゃ座	ぎょしゃ座	Auriga
+j	ぎりぎりの	ぎりぎりの	
+j	ぎんのすけ	ぎんのすけ	銀之助: a male given name
+j	ぎんやんま	ぎんやんま	トンボ目ヤンマ科ギンヤンマ属に属するとんぼの一種。…
+j	ギガバイト	ギガバイト	gigabyte
+j	ギガビット	ギガビット	
+j	ギガヘルツ	ギガヘルツ	周波数で1ヘルツの十億倍。
+j	ギガワット	ギガワット	
+j	ギガワロス	ギガワロス	LMAO
+j	ギザ十	ぎざじゅう	側面がギザギザになっている10円硬貨。1951年か…
+j	ギタリスト	ギタリスト	guitarist
+j	ギトギトな	ギトギトな	
+j	ギニア湾	ぎにあわん	大西洋の東端にあり、西アフリカの海岸線が赤道付近で…
+j	ギビバイト	ギビバイト	gibibyte
+j	ギビビット	ギビビット	gibibit
+j	ギブアップ	ギブアップ	giving up, resignation, s…
+j	ギムレット	ギムレット	gimlet (cocktail)
+j	ギャグセン	ギャグセン	ability to crack jokes
+j	ギャグマン	ギャグマン	
+j	ギャバジン	ギャバジン	gabardine
+j	ギャラリー	ギャラリー	gallery
+j	ギャルもじ	ギャルもじ	ギャル文字: cryptic writing; c…
+j	ギャルゲー	ギャルゲー	galge (game centered arou…
+j	ギャルソン	ギャルソン	a young man; a boy
+j	ギャルバン	ギャルバン	
+j	ギャル文字	ぎゃるもじ	a form of cryptic Japanes…
+j	ギャル文字	ギャルもじ	a form of cryptic Japanes…
+j	ギャル文字	ギャル文字	a form of cryptic Japanes…
+j	ギャロップ	ギャロップ	a gallop
+j	ギャロン語	ぎゃろんご	Rgyalrong languages
+j	ギャロン語	ギャロンご	Rgyalrong languages
+j	ギャロン語	ギャロン語	Rgyalrong languages
+j	ギャンブル	ギャンブル	gamble
+j	ギリシアの	ギリシアの	
+j	ギリシア人	ギリシア人	Greek (person, people)
+j	ギリシア語	ぎりしあご	the Greek language
+j	ギリシア語	ギリシアご	the Greek language
+j	ギリシア語	ギリシア語	the Greek language
+j	ギリシャの	ギリシャの	
+j	ギリシャ人	ギリシャ人	Greek (person, people)
+j	ギリシャ語	ぎりしゃご	the Greek language
+j	ギリシャ語	ギリシャご	the Greek language
+j	ギリシャ語	ギリシャ語	the Greek language
+j	ギンギツネ	ギンギツネ	silver fox (melanistic fo…
+j	ギンバイカ	ギンバイカ	
+j	仰信	ぎょうしん	教えを仰ぎ信じること。信仰。
+j	仰倒	ぎょうとう	仰向け。仰仆。
+j	仰天	ぎやうてん	being deeply surprised
+j	仰天	ぎょうてん	being deeply surprised
+j	仰奉	ぎょうほう	仕えること。
+j	仰山	ぎょうさん	exaggerated
+j	仰望	ぎょうぼう	期待すること。
+j	仰登	ぎょうとう	登ること。
+j	仰瞻	ぎょうせん	仰ぎ見ること。
+j	仰羨	ぎょうせん	羨慕すること。
+j	仰臥	ぎやうぐわ	lying down face up
+j	仰藉	ぎょうしゃ	仰ぎ、依ること。
+j	仰賛	ぎょうさん	鑽仰すること。
+j	仰転	ぎやうてん	knockdown
+j	仰転	ぎょうてん	knockdown
+j	伎芸天	ぎげいてん	大自在天の髪の生え際から生まれたとされる天女。一面…
+j	偽善者	ぎぜんしゃ	a hypocrite
+j	偽本影	ぎほんえい	「擬本影」の異表記。
+j	偽終止	ぎしゅうし	西洋音楽で全終止すると思わせ、主和音てはない和音で…
+j	偽装	ぎそうする	camouflage, disguise
+j	偽装する	ぎそうする	
+j	偽造	ぎぞうする	forgery; falsification; f…
+j	偽造する	ぎぞうする	
+j	偽造者	ぎぞうしゃ	forger, counterfeiter
+j	偽陰性	ぎいんせい	検査で陽性と判定すべきものを誤って陰性と判定するこ…
+j	偽陽性	ぎようせい	検査で本来は陰性であるべきところを誤って陽性と判定…
+j	僥会	ぎょうかい	遇合すること。
+j	僥倖	ぎょうこう	an almost impossible luck…
+j	僥冒	ぎょうぼう	貪ること。
+j	僥望	ぎょうぼう	僥倖を望むこと。
+j	僥薄	ぎょうはく	澆薄。
+j	儀三郎	ぎさぶろう	a male given name
+j	儀式的	ぎしきてき	儀式に関すること、儀式となっていること。また、その…
+j	儀礼的	ぎれいてき	形式通りに物事を行い誠実でないさま。
+j	凝凍	ぎょうとう	凍ること。
+j	凝塊	ぎょうかい	凝り固まったもの。
+j	凝定	ぎょうてい	静止すること。
+j	凝念	ぎょうねん	一つのことに思いを凝らすこと。
+j	凝望	ぎょうぼう	目を凝らして遠くを見つめること。
+j	凝析	ぎょうせき	疏水コロイドに少量の電解質を加えると沈澱する現象。
+j	凝湛	ぎょうたん	深くたたえられた水が清く澄むさま。
+j	凝濁	ぎょうだく	沈殿し濁ったものを個体にすること。
+j	凝灰	ぎょうかい	堅く固まった灰。
+j	凝然	ぎょうぜん	じっとして動かないさま。
+j	凝白	ぎょうはく	雪。
+j	凝眸	ぎょうぼう	凝視すること。
+j	凝睇	ぎょうてい	見つめること。
+j	凝瞳	ぎょうどう	凝視すること。
+j	凝神	ぎょうしん	心を凝らすこと。
+j	凝粋	ぎょうすい	精粋。
+j	凝結	ぎょうけつ	液体中のコロイド粒子が結合して大きな粒子となり沈殿…
+j	凝網	ぎょうもう	厳しい法令や規則。
+j	凝血	ぎょうけつ	
+j	凝邃	ぎょうすい	幽邃。静邃。
+j	凝集	ぎようしふ	clumping, cohesion, agglu…
+j	刑法	ぎょうほう	criminal law
+j	卬望	ぎょうぼう	期待すること。
+j	吟叫	ぎんきょう	泣き叫ぶこと。
+j	吟味台	ぎんみだい	a tray on a point-of-sale…
+j	吟唱	ぎんしょう	詩歌を声高く吟ずること。
+j	吟情	ぎんじょう	詩歌を吟詠しようという気持ち。
+j	吟興	ぎんきょう	詩歌を作ろうという興味。
+j	吟蛩	ぎんきょう	蟋蟀。
+j	吟誦	ぎんしょう	声高く詩歌をうたうこと。
+j	吟道家	ぎんどうか	吟道の指導を職業とする人。
+j	吟醸	ぎんじょう	careful brewing with care…
+j	吟響	ぎんきょう	吟声。
+j	吟鳥	ぎんちょう	囀る鳥。啼鳥。
+j	喁望	ぎょうぼう	仰望すること。
+j	嚚凶	ぎんきょう	凶愚なさま。
+j	嶢榭	ぎょうしゃ	高台。
+j	嶢然	ぎょうぜん	特出するさま。
+j	形像	ぎょうぞう	仏や菩薩、人などの姿形を象った画像や彫像。
+j	形相	ぎょうそう	facial expression (especi…
+j	御史台	ぎょしだい	後漢から宋の時代まで置かれた官吏を監察する官庁。
+j	御柳	ぎょりゅう	ギョリュウ科の落葉高木。中国原産。
+j	御集	ぎょしゅう	「集まること」の尊敬語。
+j	戯曲家	ぎきょくか	戯曲を書く人。
+j	技士長	ぎしちょう	技士を管理、統括する責任者。
+j	技師長	ぎしちょう	技師を管理、統括する責任者。
+j	技能工	ぎのうこう	技能をもち工場で製造を行う職業。
+j	技術家	ぎじゅつか	技術を活かすことを職業とする人。技術者。
+j	技術科	ぎじゅつか	中学校、義務教育学校後期課程、中等教育学校中等部、…
+j	擬ベクトル	ぎべくとる	座標系の向きを変える座標変換に於いて向きが変わるベ…
+j	擬人的	ぎじんてき	
+j	擬情語	ぎじょうご	an ideophone that represe…
+j	擬本影	ぎほんえい	光源の前にある物体が、その光源の内側に完全に含まれ…
+j	擬製	ぎせいする	imitation, forgery, copy
+j	擬陽性	ぎようせい	検査で完全に陽性ではないがそれに近い判定。疑陽性。
+j	暁人	ぎょうじん	聡明な人。
+j	暁会	ぎょうかい	悟ること。
+j	暁光	ぎょうこう	light of the dawn
+j	暁天	ぎょうてん	夜明けの空。
+j	暁川	ぎょうせん	朝の川。
+j	暁庭	ぎょうてい	朝の庭。
+j	暁慧	ぎょうけい	聡いさま。
+j	暁日	ぎょうじつ	朝日。
+j	暁旦	ぎょうたん	夜明け。明け方。
+j	暁星	ぎょうせい	夜明けの空に残る星。
+j	暁晦	ぎょうかい	明暗。
+j	暁更	ぎょうこう	dawn
+j	暁望	ぎょうぼう	明け方の眺め。
+j	暁水	ぎょうすい	朝の川（の流れ）。
+j	暁白	ぎょうはく	空が白むこと。
+j	暁的	ぎょうてき	悟ること。
+j	暁箭	ぎょうせん	朝の水時計。
+j	暁紅	ぎょうこう	morning glow, the red col…
+j	暁蟬	ぎょうぜん	朝の蟬。
+j	暁解	ぎょうかい	悟ること。暁悟。
+j	暁通	ぎょうつう	事情などについて精通していること。
+j	暁達	ぎょうたつ	物事や道理に通じていること。通暁。
+j	暁雞	ぎょうけい	晨鶏。
+j	暁魄	ぎょうはく	朝の月。
+j	業主	ぎょうしゅ	proprietor; business owner
+j	業体	ぎょうたい	風采。風体。
+j	業体	ぎょうてい	風采。風体。
+j	業室	ぎょうしつ	実験や研究などの作業をする部屋。
+j	業態	ぎょうたい	事業や営業、業務の形態、状態。
+j	業産	ぎょうさん	生業。
+j	業界	ぎょうかい	business, industry
+j	業種	ぎょうしゅ	a kind of business; a typ…
+j	業績	ぎょうせき	performance, achievement,…
+j	業者	ぎょうしゃ	vendor, merchant, dealer
+j	業連	ぎょうれん	業務連絡。
+j	業間	ぎょうかん	業務と業務との合間。
+j	欺瞞	ぎまんする	deception, deceit
+j	欺瞞的	ぎまんてき	deceptive
+j	毬杖	ぎっちょう	木製の毬を打つホッケーのような遊戯または競技。また…
+j	漁協	ぎょきょう	漁業協同組合の略。JF(Japan Fisheri…
+j	漁場	ぎょじょう	fishing ground
+j	漁夫の利	ぎょふのり	fishing in troubled water…
+j	漁夫之利	ぎょふのり	winning by default, fishi…
+j	漁業	ぎょぎょう	fishing industry, fishery
+j	漁樵	ぎょしょう	漁師と樵。また、その仕事。
+j	漁礁	ぎょしょう	魚などが集まり漁などにも使用される海底の岩礁。廃船…
+j	漁舟	ぎょしゅう	漁をするための小さな船舶。
+j	漁色	ぎょしょく	次から次へと女色を漁ること。
+j	澆浅	ぎょうせん	浅薄。
+j	澆漑	ぎょうがい	水やり。
+j	澆蕩	ぎょうとう	浮薄。
+j	澆薄	ぎょうはく	道徳が廃れ、情が非常にうすくなること。また、そのよ…
+j	牛タン	ぎゅうたん	ox tongue
+j	牛タン	ぎゅうタン	ox tongue
+j	牛丼	ぎゅうどん	gyudon: a Japanese dish o…
+j	牛乳	ぎうにゆう	cow's milk
+j	牛刀	ぎゅうとう	a double beveled kitchen …
+j	牛店	ぎゅうてん	牛肉料理を食べさせる料理屋。
+j	牛溲	ぎゅうそう	牛の尿。
+j	牛痘	ぎゅうとう	牛の痘瘡。
+j	牛種	ぎゅうしゅ	小牛。
+j	牛童	ぎゅうどう	牛飼いの少年。牛豎。
+j	牛糞	ぎゅうふん	牛の糞。
+j	牛耳る	ぎゅうじる	to rule; to control
+j	牛肉	ぎゅうにく	cow meat, beef
+j	牛舎	ぎゅうしゃ	cowshed, byre, cattle barn
+j	牛菜	ぎゅうさい	牛蒡。
+j	牛角	ぎゅうかく	ox horn, cow horn
+j	牛豎	ぎゅうじゅ	牛飼いの少年。
+j	牛蹄	ぎゅうてい	牛の蹄。
+j	牛車	ぎゅうしゃ	an ornately decorated sin…
+j	牛酪	ぎゅうらく	butter
+j	牛面	ぎゅうめん	（ごめん）牛の顔につける面。
+j	牛飯	ぎゅうめし	丼飯に玉葱などとともに甘辛く煮た牛肉を汁どともに掛…
+j	牛骨	ぎゅうこつ	牛の骨。
+j	牛鼎	ぎゅうてい	大きな鼎。
+j	犠牲祭	ぎせいさい	
+j	犠牲者	ぎせいしゃ	casualty, victim
+j	玉代	ぎょくだい	芸者、遊女を揚げて遊ぶ費用。花代。
+j	玉体	ぎょくたい	(your) body (especially t…
+j	玉体	ぎよくたい	(your) body (especially t…
+j	玉光	ぎょくこう	玉の輝き。
+j	玉光	ぎょっこう	玉の輝き。
+j	玉冠	ぎょっかん	玉で装飾された冠。
+j	玉匣	ぎょっこう	たまくしげ。玉手箱。
+j	玉塵	ぎょくじん	snow
+j	玉塵	ぎょくぢん	snow
+j	玉女	ぎょくじょ	玉のように美しい女性。
+j	玉容	ぎょくよう	玉のように美しい容貌。
+j	玉屑	ぎょくせつ	玉の粉末。
+j	玉延	ぎょくえん	長芋。山芋。薯蕷。
+j	玉折	ぎょくせつ	若くして死ぬこと。
+j	玉楼	ぎょくろう	玉で装飾された立派な高殿。
+j	玉樹	ぎょくじゅ	美しい木。
+j	玉泉	ぎょくせん	清らかな泉。
+j	玉液	ぎょくえき	美しい液体。茶や酒の形容。
+j	玉淵	ぎょくえん	清らかで美しい淵。
+j	玉漏	ぎょくろう	玉で装飾された水時計。
+j	玉玲	ぎょくれい	玉の音。
+j	玉瑛	ぎょくえい	水晶。
+j	玉璜	ぎょくこう	佩玉。
+j	玉皇	ぎょっこう	the Jade Emperor
+j	玉石	ぎょくせき	wheat and chaff, the good…
+j	玉石	ぎよくせき	wheat and chaff, the good…
+j	玉砕	ぎょくさい	dying in an honorable def…
+j	玉稿	ぎょくこう	立派な原稿。
+j	玉稿	ぎょっこう	立派な原稿。
+j	玉竹	ぎょくちく	dried roots of Polygonatu…
+j	玉筵	ぎょくえん	立派で美しい筵。
+j	玉篇	ぎょくへん	Yupian
+j	玉簡	ぎょっかん	相手の手紙に対する尊敬語。
+j	玉簪	ぎょくさん	玉で飾った簪。
+j	玉簪	ぎょくしん	玉で飾った簪。
+j	玉翰	ぎょっかん	相手の手紙に対する尊敬語。
+j	玉膏	ぎょっこう	仙薬で玉の精液。
+j	玉船	ぎょくせん	酒器。
+j	玉茎	ぎょくけい	penis (literally, “jade s…
+j	玉茎	ぎょっけい	penis (literally, “jade s…
+j	玉葉	ぎょくよう	玉のように美しい葉。
+j	玉蟾	ぎょくせん	月の中にいるとされる三つ足のがま。
+j	玉衡	ぎょくこう	五胡十六国時代に成漢で用いられた元号。西暦では31…
+j	玉酒	ぎょくしゅ	玉のように良い酒。うまい酒。
+j	玉醴	ぎょくれい	玉液。
+j	玉釧	ぎょくせん	玉を連ねて飾った玉。
+j	玉鉤	ぎょっこう	玉でつくられた鉤。
+j	玉門	ぎょくもん	beautifully decorated gate
+j	玉音	ぎょくいん	voice of the emperor
+j	玉音	ぎょくおん	voice of the emperor
+j	玉音	ぎよくいん	voice of the emperor
+j	玉音	ぎよくおん	voice of the emperor
+j	玉饌	ぎょくせん	御馳走。
+j	玉髄	ぎょくずい	chalcedony
+j	疑似科学	ぎじかがく	pseudoscience
+j	疑問	ぎもんする	a question (implies a dou…
+j	疑問文	ぎもんぶん	interrogative sentence; q…
+j	疑陽性	ぎようせい	検査で完全に陽性ではないがそれに近い判定。擬陽性。
+j	瘧疾	ぎゃくしつ	瘧。
+j	義一郎	ぎいちろう	a male given name
+j	義勇兵	ぎゆうへい	a military volunteer, a v…
+j	義勇軍	ぎゆうぐん	volunteer army
+j	義務付ける	ぎむづける	require, bind, obligate, …
+j	義捐金	ぎえんきん	donation money
+j	義理の兄	ぎりのあに	
+j	義理チョコ	ぎりちょこ	Valentine's Day chocolate…
+j	義理チョコ	ぎりチョコ	Valentine's Day chocolate…
+j	翹敬	ぎょうけい	崇敬すること。
+j	翹望	ぎょうぼう	首を長くすること。強く待ち望むこと。
+j	翹然	ぎょうぜん	卓出するさま。
+j	翹瞻	ぎょうせん	仰ぎ、望むこと。
+j	翹首	ぎょうしゅ	首を長くすること。強く待ち望むこと。
+j	艤装	ぎそうする	rigging
+j	虐待	ぎゃくたい	abuse; maltreatment; mist…
+j	虐政	ぎゃくせい	人民を苦しめる、悪い政治。むごい政治。暴虐な政治。
+j	虐殺	ぎゃくさつ	massacre, slaughter
+j	蟻酸塩	ぎさんえん	formate
+j	行人	ぎょうにん	（ぎょうにん）
+j	行住	ぎょうじゅ	行くことと留まること。立ち居。
+j	行内	ぎょうない	（あんない）宮中。禁中。
+j	行列	ぎやうれつ	a line or queue, a proces…
+j	行列	ぎょうれつ	a line or queue, a proces…
+j	行取り	ぎょうどり	the distribution of any p…
+j	行外	ぎょうがい	書いた行の外側。
+j	行実	ぎょうじつ	その人が行ってきた事柄。また、それを記した文。
+j	行幸	ぎょうこう	to set out on a journey (…
+j	行幸	ぎょうごう	to set out on a journey (…
+j	行政	ぎやうせい	government, administration
+j	行政	ぎょうせい	government, administration
+j	行方	ぎやうはう	one's whereabouts, direct…
+j	行方	ぎょうほう	one's whereabouts, direct…
+j	行書	ぎやうしよ	semi-cursive script
+j	行書	ぎょうしょ	semi-cursive script
+j	行替え	ぎょうがえ	文章の途中で行を変えること。文章をいったん区切り、…
+j	行末	ぎょうまつ	文章の行の最後。
+j	行業	ぎょうごう	behavior, conduct
+j	行殺	ぎょうさつ	A quick or effortless kil…
+j	行水	ぎょうずい	潔斎のため清水で体を清めること。
+j	行法	ぎょうほう	法律を執行すること。
+j	行程	ぎょうてい	distance, path
+j	行粧	ぎょうそう	外出や旅での装い。行装。
+j	行者	ぎょうじゃ	ascetic; pilgrim; devotee
+j	行草	ぎょうそう	書体のうち行書と草書。
+j	行装	ぎょうそう	旅行の身支度や準備。
+j	行跡	ぎょうせき	behavior
+j	行迹	ぎょうせき	行跡の異表記。
+j	行間	ぎゃうかん	a line gap, the white spa…
+j	行間	ぎょうかん	a line gap, the white spa…
+j	行頭	ぎょうとう	文章の行の始め。
+j	行香	ぎょうごう	法会に参加する僧に香を配り、渡すこと。また、その役…
+j	議定	ぎていする	agreement
+j	議定書	ぎていしょ	protocol
+j	議所	ぎのところ	内裏の宜陽殿にある一室で、公卿が集議したところ。
+j	議決	ぎけつする	decision; resolution
+j	議論	ぎろんする	discussion
+j	議論する	ぎろんする	
+j	逆ナン	ぎゃくなん	when a woman hits on a man
+j	逆ナン	ぎゃくナン	when a woman hits on a man
+j	逆パカ	ぎゃくぱか	closing a flip phone in t…
+j	逆パカ	ぎゃくパカ	closing a flip phone in t…
+j	逆修	ぎゃくしゅ	迷い、真理から遠ざかること。
+j	逆光	ぎゃっこう	被写体など対象の後ろからさす光線。
+j	逆切れ	ぎゃくぎれ	本来怒られるべき人が、逆に怒り出すこと。また、単に…
+j	逆剣	ぎゃくけん	時計の針を逆回しにすること。
+j	逆剣	ぎゃっけん	時計の針を逆回しにすること。
+j	逆引き	ぎゃくびき	reverse lookup
+j	逆引き	ぎやくびき	reverse lookup
+j	逆張り	ぎゃくばり	取引で人気がある時に売り、人気の無い時に買うこと。
+j	逆心	ぎゃくしん	主君に謀反を企む心。
+j	逆態	ぎゃくたい	逆接。逆態接続。
+j	逆成	ぎゃくせい	造語方法の一つ。本来は接尾語でも語尾でもない部位を…
+j	逆接	ぎゃくせつ	adversative, contrastive;…
+j	逆換	ぎゃっかん	ある判断で、その主語の矛盾概念を主語とする判断を導…
+j	逆数	ぎゃくすう	multiplicative inverse; r…
+j	逆日歩	ぎゃくひぶ	株式を信用取引するとき、売建の借株について、貸株料…
+j	逆浪	ぎゃくろう	逆巻く波。
+j	逆球	ぎゃくだま	捕手が要求したコースとは反対の方向に外れた投球。
+j	逆神	ぎゃくがみ	予想がことごとく外れてしまう人。
+j	逆神	ぎゃくしん	予想がことごとく外れてしまう人。
+j	逆算	ぎゃくさん	inference, back calculati…
+j	逆縁	ぎゃくえん	仏法を謗るなどの悪行が仏道に入る因縁となること。
+j	逆臣	ぎゃくしん	a traitorous minister
+j	逆臣	ぎやくしん	a traitorous minister
+j	逆行	ぎゃっこう	going backwards
+j	逆行	ぎやくこう	going backwards
+j	逆説	ぎゃくせつ	paradox
+j	逆賊	ぎゃくぞく	traitor to the ruler
+j	逆賊	ぎやくぞく	traitor to the ruler
+j	逆走	ぎゃくそう	running in the opposite d…
+j	逆走	ぎやくそう	running in the opposite d…
+j	逆転	ぎゃくてん	reversal
+j	逆送	ぎゃくそう	送り返すこと。
+j	逆進	ぎゃくしん	本来の方向とは逆に進むこと。
+j	逆風	ぎゃくふう	adverse wind, headwind
+j	逆風	ぎやくふう	adverse wind, headwind
+j	銀メダル	ぎんめだる	silver medal
+j	銀メダル	ぎんメダル	silver medal
+j	銀丁	ぎんちょう	江戸時代の銀貨である丁銀。
+j	銀世界	ぎんせかい	広い範囲に雪が降り積もり、白く美しいさまの形容。
+j	銀之助	ぎんのすけ	a male given name
+j	銀将	ぎんしやう	a silver general (piece t…
+j	銀将	ぎんしょう	a silver general (piece t…
+j	銀屏	ぎんびょう	地紙の全体に銀箔をおいてつくられた屏風。銀屏風。
+j	銀星石	ぎんせいし	
+j	銀杏	ぎんきやう	ginkgo tree (Ginkgo bilob…
+j	銀杏	ぎんきょう	ginkgo tree (Ginkgo bilob…
+j	銀河団	ぎんがだん	galaxy cluster
+j	銀河年	ぎんがねん	太陽系が銀河系を一周公転するのにかかる時間。約2億…
+j	銀河系	ぎんがけい	the Milky Way
+j	銀河群	ぎんがぐん	数個から数十個の銀河が重力により結びついてできた集…
+j	銀砂子	ぎんすなご	細かく切り刻んだ銀箔。
+j	銀竜	ぎんりゅう	銀色の竜。五竜の一つとして白竜が置き換えられたもの。
+j	銀竜	ぎんりょう	銀色の竜。五竜の一つとして白竜が置き換えられたもの。
+j	銀粘土	ぎんねんど	silver clay
+j	銀舎利	ぎんしゃり	白米だけを炊いたもの。戦後まもなくまでは日本全国で…
+j	銀色	ぎんしょく	silver (color)
+j	銀蜻蜓	ぎんやんま	lesser emperor, Anax part…
+j	銀行家	ぎんこうか	banker (one who conducts …
+j	銀行屋	ぎんこうや	銀行、銀行家、銀行員
+j	銀賞	ぎんしょう	競技会などで金賞に次ぐ賞。
+j	銀鍍金	ぎんめっき	銀の薄膜を他の金属の表面に覆うこと。
+j	銀鏡	ぎんかがみ	（ぎんきょう）銀の表面を磨いた鏡。また、ガラスの表…
+j	銀鏡	ぎんきょう	（ぎんきょう）銀の表面を磨いた鏡。また、ガラスの表…
+j	銀髪の	ぎんぱつの	
+j	銀鼠	ぎんねずみ	銀色がかった鼠色。銀鼠色。
+j	顒敬	ぎょうけい	敬うこと。
+j	顒望	ぎょうぼう	仰望すること。
+j	顒然	ぎょうぜん	慎むさま。
+j	餃子屋	ぎょうざや	餃子を作って売る店。
+j	驍名	ぎょうめい	武勇のほまれ高い評判。
+j	驍猛	ぎょうもう	荒々しく猛々しいこと。また、そのようなさま。
+j	驍芸	ぎょうげい	馬戯。曲馬。
+j	驍騰	ぎょうとう	良質な馬。駿馬。
+j	魚礁	ぎょしょう	魚などが集まり漁などにも使用される海底の岩礁。廃船…
+j	魚竜	ぎょりゅう	an ichthyosaur
+j	魚臭	ぎょしゅう	魚の（生臭い）匂い。
+j	魚醤	ぎょしょう	魚介類に塩を加え、発酵させた調味料の一種。魚醤油。
+j	魚食	ぎょしょく	主として魚を食べること。
+j	ぎきょうだい	ぎきょうだい	義兄弟: sworn brothers; brot…
+j	ぎっくりごし	ぎっくりごし	ひねったり力をいれた時などに突発的に腰におこる激痛。
+j	ぎっくり腰	ぎっくりごし	thrown out back, strained…
+j	ぎゃあぎゃあ	ぎゃあぎゃあ	crying
+j	ぎゃあぎゃあ	ぎやあぎやあ	crying
+j	ぎゃくしゅう	ぎゃくしゅう	逆襲: a counterattack
+j	ぎゃくりゅう	ぎゃくりゅう	逆流: flowing in the revers…
+j	ぎゃっきょう	ぎゃっきょう	逆境: adversity
+j	ぎゅうぎゅう	ぎゅうぎゅう	crammed tightly
+j	ぎゅうにゅう	ぎゅうにゅう	「牛乳」のひらがな表記。
+j	ぎょうぎしば	ぎょうぎしば	行儀芝: Bermuda grass (Cynod…
+j	ぎょかいるい	ぎょかいるい	魚介類: seafood, marine prod…
+j	ぎょろぎょろ	ぎょろぎょろ	with staring eyes
+j	ぎんもくせい	ぎんもくせい	銀木犀: The white-blooming v…
+j	ギアボックス	ギアボックス	
+j	ギガピクセル	ギガピクセル	
+j	ギトギトする	ギトギトする	
+j	ギニアビサウ	ギニアビサウ	Guinea-Bissau (a country …
+j	ギニアビサオ	ギニアビサオ	「ギニアビサウ」を参照。
+j	ギニアピッグ	ギニアピッグ	天竺鼠。モルモット。
+j	ギニア共和国	ギニア共和国	the Republic of Guinea
+j	ギニーピッグ	ギニーピッグ	a guinea pig
+j	ギフトカード	ギフトカード	
+j	ギベリオブナ	ギベリオブナ	鮒の一種。別名はアムールブナ
+j	ギムナジウム	ギムナジウム	ドイツなどの中等教育機関。
+j	ギャグボール	ギャグボール	
+j	ギャザリング	ギャザリング	集めたもの。集合。
+j	ギャップ萌え	ぎゃっぷもえ	moe arising from a contra…
+j	ギャップ萌え	ギャップもえ	moe arising from a contra…
+j	ギャップ萌え	ギャップ萌え	moe arising from a contra…
+j	ギャラクシー	ギャラクシー	銀河。天の川。
+j	ギャランティ	ギャランティ	appearance fee; performan…
+j	ギャランドゥ	ギャランドゥ	happy trail
+j	ギャルゲーム	ギャルゲーム	galge (game centered arou…
+j	ギャルピース	ギャルピース	逆さまの「平和」または「Vサイン」のように人差し指…
+j	ギャンビット	ギャンビット	
+j	ギャンブラー	ギャンブラー	gambler
+j	ギュッとする	ギュッとする	
+j	ギリシア人	ぎりしあじん	Greek (person, people)
+j	ギリシア人	ギリシアじん	Greek (person, people)
+j	ギリシア数字	ギリシア数字	古代ギリシアで創作され用いられた記数法。独自の文字…
+j	ギリシア文字	ぎりしあもじ	ギリシア語を表記する文字体系。紀元前10世紀から紀…
+j	ギリシア文字	ギリシア文字	ギリシア語を表記する文字体系。紀元前10世紀から紀…
+j	ギリシア料理	ギリシア料理	ギリシアの伝統的な料理。
+j	ギリシア正教	ギリシア正教	東方正教会の別名。ギリシアを総本山とすることから呼…
+j	ギリシア火薬	ギリシア火薬	
+j	ギリシア神話	ギリシア神話	古代ギリシアに伝わる神話や伝説。
+j	ギリシャ人	ぎりしゃじん	Greek (person, people)
+j	ギリシャ人	ギリシャじん	Greek (person, people)
+j	ギリシャ正教	ギリシャ正教	東方正教会の別名。ギリシャを総本山とすることから呼…
+j	ギリヤーク語	ぎりやーくご	Gilyak language
+j	ギリヤーク語	ギリヤークご	Gilyak language
+j	ギリヤーク語	ギリヤーク語	Gilyak language
+j	ギルバート語	ぎるばーとご	the Gilbertese language
+j	ギルバート語	ギルバートご	the Gilbertese language
+j	ギルバート語	ギルバート語	the Gilbertese language
+j	ギンモクセイ	ギンモクセイ	銀木犀: The white-blooming v…
+j	仰承	ぎょうしょう	承ること。
+j	仰臥	ぎょうがする	lying down face up
+j	仰視	ぎょうしする	仰ぎ見ること。
+j	偽証	ぎしょうする	perjury
+j	偽証罪	ぎしょうざい	
+j	僥競	ぎょうきょう	貪り、求めること。
+j	儀同三司	ぎどうさんし	Chinese equivalent of 准大臣…
+j	凝乳	ぎょうにゅう	カード（curd）を形成した乳。
+j	凝固	ぎょうこする	The act of solidifying or…
+j	凝固する	ぎょうこする	
+j	凝固剤	ぎょうこざい	物が凝固するのを促進させる薬剤薬剤や物質。
+j	凝固点	ぎょうこてん	凝固の起こる温度。
+j	凝固熱	ぎょうこねつ	凝固するときに外部へ放出される熱量。
+j	凝妝	ぎょうしょう	装いを凝らすこと。凝粧。
+j	凝寂	ぎょうじゃく	静寂なさま。
+j	凝峻	ぎょうしゅん	厳しく、重々しいこと。また、そのようなさま。
+j	凝浄	ぎょうじょう	（水などが）澄むこと。
+j	凝着	ぎょうちゃく	種類の異なる物質が接触した際にお互いにくっつくこと。
+j	凝粧	ぎょうしょう	装いを凝らすこと。凝妝。
+j	凝縮	ぎょうしゅく	condensation (of vapor)
+j	凝視	ぎょうしする	stare
+j	凝重	ぎょうじゅう	重々しいさま。
+j	凝集	ぎょうしゅう	clumping, cohesion, agglu…
+j	吟詠	ぎんえいする	recitation (of poetry); c…
+j	喁喁	ぎょうぎょう	魚があぎとうこと。また、そのようなさま。
+j	技能職	ぎのうしょく	工場などで製造などを行う職。
+j	技術的	ぎじゅつてき	technical
+j	技術者	ぎじゅつしゃ	technician, engineer
+j	擬人化	ぎじんかする	anthropomorphization, per…
+j	暁教	ぎょうきょう	教えること。
+j	暁暁	ぎょうぎょう	弁舌が巧みなこと。また、そのようなさま。巧弁。
+j	暁熟	ぎょうじゅく	clear comprehension; full…
+j	暁鐘	ぎょうしょう	夜明けに鳴らされる鐘。
+j	業況	ぎょうきょう	ある期間における業種や企業規模による景気の状況。
+j	業界紙	ぎょうかいし	業界関係者向けの情報を掲載した新聞。業界新聞。
+j	業界誌	ぎょうかいし	業界関係者向けの情報を掲載した雑誌。業界雑誌。
+j	業習	ぎょうしゅう	習慣。
+j	漁獲	ぎょかくする	fishing
+j	漁色家	ぎょしょくか	
+j	澆競	ぎょうきょう	我がちなこと。また、そのようなさま。
+j	牛乳	ぎゅうにゅう	cow's milk
+j	牛乳屋	ぎうにゆうや	dairy (shop selling dairy…
+j	牛溲	ぎゅうしゅう	牛の尿。
+j	牛鍋屋	ぎゅうなべや	牛鍋を提供する店、人。
+j	犠牲にする	ぎせいにする	
+j	犠牲フライ	ぎせいふらい	打者がフライを打ち、野手が捕球してアウトになっても…
+j	玉城	ぎょくじょう	a surname from Okinawan
+j	玉将	ぎょくしょう	a jeweled general (one of…
+j	玉将	ぎよくしやう	a jeweled general (one of…
+j	玉帳	ぎょくちょう	玉で装飾された帳。
+j	玉牒	ぎょくちょう	皇帝、皇室の系譜。
+j	玉皇	ぎよくくわう	the Jade Emperor
+j	疑似乱数	ぎじらんすう	乱数に似せてコンピュータが行う計算によって求められ…
+j	疑心暗鬼	ぎしんあんき	once you suspect somethin…
+j	祇園祭	ぎおんまつり	「祇園会」に同じ。
+j	紙婚式	ぎんこんしき	
+j	義侠心	ぎきょうしん	正義のため強者をくじき、弱者をたすけようという気性。
+j	義兄妹	ぎきょうだい	義理の兄と妹。またはその関係。
+j	義兄弟	ぎきやうだい	sworn brothers
+j	義兄弟	ぎきょうだい	sworn brothers
+j	義務教育	ぎむけういく	compulsory education
+j	義理の姉妹	ぎりのしまい	
+j	義肢装具士	ぎしそうぐし	義肢や装具の装着部位への採寸、採型、製作、身体への…
+j	蟯虫	ぎょうちゅう	pinworm
+j	蟯虫	ギョウチュウ	pinworm
+j	行住	ぎょうじゅう	行くことと留まること。立ち居。
+j	行儀芝	ぎょうぎしば	Bermuda grass (Cynodon da…
+j	行儀芝	ギョウギシバ	Bermuda grass (Cynodon da…
+j	行商	ぎやうしやう	peddling, hawking, the ac…
+j	行商	ぎょうしょう	peddling, hawking, the ac…
+j	行揃え	ぎょうそろえ	
+j	行政区	ぎやうせいく	administrative region
+j	行政区	ぎょうせいく	administrative region
+j	行政府	ぎょうせいふ	行政機関のこと。
+j	行送り	ぎょうおくり	a line feed (On a typewri…
+j	議事妨害	ぎじぼうがい	
+j	議事日程	ぎじにってい	order of the day, agenda
+j	議定	ぎじょうする	agreement
+j	議論好きの	ぎろんずきの	
+j	議長国	ぎちょうこく	host country
+j	逆コース	ぎゃくこーす	戦後のGHQが日本の共産化を防ぐために行なった政策…
+j	逆レイプ	ぎゃくれいぷ	reverse rape (rape of a m…
+j	逆レイプ	ぎゃくレイプ	reverse rape (rape of a m…
+j	逆上	ぎゃくじょう	frenzy, distraction
+j	逆位相	ぎゃくいそう	位相の差がπであること。直交。
+j	逆効果	ぎゃくこうか	opposite effect; an effec…
+j	逆効果	ぎゃっこうか	opposite effect; an effec…
+j	逆境	ぎゃっきょう	adverse circumstances, ad…
+j	逆戻り	ぎゃくもどり	再度元の場所や状態に戻ること。
+j	逆止弁	ぎゃくしべん	check valve
+j	逆比例	ぎゃくひれい	ある変数が何倍かに変化すると、それに伴って別の変数…
+j	逆流	ぎゃくりゅう	counter current, flowing …
+j	逆王手	ぎゃくおうて	cross-check
+j	逆襲	ぎゃくしゅう	counterattack
+j	逆説の	ぎゃくせつの	
+j	逆順	ぎゃくじゅん	in reverse order, opposit…
+j	銀婚式	ぎんこんしき	silver anniversary
+j	銀屏風	ぎんびょうぶ	地紙の全体に銀箔をおいてつくられた屏風。銀屏。
+j	銀木犀	ぎんもくせい	the white-blooming variet…
+j	銀木犀	ギンモクセイ	the white-blooming variet…
+j	銀行券	ぎんこうけん	banknote, paper money
+j	銀行印	ぎんこういん	金融機関に登録し、口座などの手続きを行うのに用いる…
+j	銀行員	ぎんこういん	銀行に勤務する職員。行員。
+j	銀製品	ぎんせいひん	
+j	銀鼠色	ぎんねずいろ	「銀鼠」を参照。
+j	顒顒	ぎょうぎょう	君子が威厳に満ちていること。また、そのようなさま。。
+j	驍将	ぎょうしょう	strongly brave general
+j	魚介類	ぎょかいるい	seafood, marine products,…
+j	魚眼石	ぎょがんせき	an apophyllite
+j	魚腥草	ぎょせいそう	dried Houttuynia cordata …
+j	魚貝類	ぎょかいるい	魚介類の別形。特に魚類と貝類をさす。
+j	魚類学	ぎょるいがく	ichthyology
+j	魚鱗癬	ぎょりんせん	ichthyosis (disease which…
+j	ぎゃくゆにゅう	ぎゃくゆにゅう	逆輸入: reimportation
+j	ぎょうかいがん	ぎょうかいがん	凝灰岩: tuff
+j	ぎょうれつしき	ぎょうれつしき	行列式: determinant
+j	ギグエコノミー	ギグエコノミー	gig economy
+j	ギフトショップ	ギフトショップ	gift shop
+j	ギフトボックス	ギフトボックス	
+j	ギモンフタテハ	ギモンフタテハ	
+j	ギャップイヤー	ギャップイヤー	大学の入試合格後、高等学校を卒業してから大学入学ま…
+j	ギャランティー	ギャランティー	報酬、対価。しばしばギャラと省略される。
+j	ギャランドゥー	ギャランドゥー	
+j	ギャングスター	ギャングスター	
+j	ギリギリ健常者	ギリギリ健常者	person who resembles a pe…
+j	ギリシア数字	ぎりしあすうじ	古代ギリシアで創作され用いられた記数法。独自の文字…
+j	ギリシア正教会	ギリシア正教会	東方正教会の別名。ギリシアを総本山とすることから呼…
+j	ギリシア神話	ぎりしあしんわ	古代ギリシアに伝わる神話や伝説。
+j	ギリシア語辞典	ギリシア語辞典	ギリシア語の単語や熟語、用法等を解説した辞書。
+j	ギリシャ共和国	ギリシャ共和国	Hellenic Republic (offici…
+j	ギリシャ正教会	ギリシャ正教会	東方正教会の別名。ギリシャを総本山とすることから呼…
+j	ギリュウモドキ	ギリュウモドキ	
+j	ギルガメッシュ	ギルガメッシュ	Gilgamesh (king of Uruk)
+j	仰天	ぎょうてんする	being deeply surprised
+j	偽装結婚	ぎそうけっこん	
+j	僥倖	ぎょうこうする	an almost impossible luck…
+j	凝固させる	ぎょうこさせる	
+j	凝灰岩	ぎょうかいがん	tuff
+j	凝集度	ぎょうしゅうど	
+j	刑部省	ぎゃうぶしゃう	the Ministry of Justice
+j	刑部省	ぎょうぶしょう	the Ministry of Justice
+j	吟遊詩人	ぎんいうしじん	troubadour
+j	吟遊詩人	ぎんゆうしじん	troubadour
+j	吟醸	ぎんじょうする	careful brewing with care…
+j	吟醸酒	ぎんじょうしゅ	特定名称のひとつ。精米歩合60%以下の白米と米麹と…
+j	御名御璽	ぎょめいぎょじ	the Imperial Signature an…
+j	技術力	ぎじゅつりょく	技術を用いて商品を提供する能力。
+j	技術職	ぎじゅつしょく	企業で製品の製造を担当する職。
+j	擬孔雀石	ぎくじゃくせき	pseudomalachite
+j	暁新世	ぎょうしんせい	古第三紀の最初の世。6600万年前から5600万年…
+j	漁業権	ぎょぎょうけん	漁業に関する権利。
+j	牛乳屋	ぎゅうにゅうや	dairy (shop selling dairy…
+j	牛耕式	ぎゅうこうしき	boustrophedon (text writt…
+j	犠牲飛球	ぎせいひきゅう	犠牲フライのこと。
+j	玉砕	ぎょくさいする	dying in an honorable def…
+j	玉音盤	ぎょくおんばん	玉音放送に用いる天皇の肉声を録音したレコード。
+j	祇園信仰	ぎおんしんこう	牛頭天王に対し疫病退散などを願う信仰。
+j	義務教育	ぎむきょういく	compulsory education
+j	義理の弟	ぎりのおとうと	
+j	義理人情	ぎりにんじょう	過去の関係から絶つことのできない付き合い、思いやり。
+j	虐待	ぎゃくたいする	abuse; maltreatment; mist…
+j	虐待する	ぎゃくたいする	
+j	虐殺	ぎゃくさつする	massacre, slaughter
+j	虐殺者	ぎゃくさつしゃ	虐殺する者。
+j	行ベクトル	ぎょうべくとる	row vector
+j	行ベクトル	ぎょうベクトル	row vector
+j	行儀がよい	ぎょうぎがよい	
+j	行儀作法	ぎょうぎさほう	立ち居振舞いの作法。
+j	行刑学	ぎょうけいがく	
+j	行列	ぎょうれつする	a line or queue, a proces…
+j	行列式	ぎょうれつしき	determinant
+j	行政学	ぎょうせいがく	社会科学の一分野で、行政の機能、変遷などを考察し、…
+j	行政権	ぎょうせいけん	国家の統治権のうち、行政を行う権限。
+j	行政法	ぎょうせいほう	行政の組織とその作用についての法令の総称。特に国、…
+j	行政的	ぎょうせいてき	行政に関するさま。
+j	行番号	ぎょうばんごう	line number
+j	行疫神	ぎょうえきがみ	疫病を流行させる神。疫病神。
+j	行疫神	ぎょうやくじん	疫病を流行させる神。疫病神。
+j	逆ハーレム	ぎゃくはーれむ	reverse harem, a situatio…
+j	逆ハーレム	ぎゃくハーレム	reverse harem, a situatio…
+j	逆再生	ぎゃくさいせい	reverse playback
+j	逆変換	ぎゃくへんかん	ある変換が全単射であるときに定義される逆写像。また…
+j	逆推論	ぎゃくすいろん	
+j	逆斜線	ぎゃくしゃせん	backslash (punctuation)
+j	逆疑問符	ぎゃくぎもんふ	
+j	逆算	ぎゃくさんする	inference, back calculati…
+j	逆行	ぎゃっこうする	going backwards
+j	逆説的	ぎゃくせつてき	逆説に関するさま、一見真理に背いているているようで…
+j	逆走	ぎゃくそうする	running in the opposite d…
+j	逆転	ぎゃくてんする	reversal
+j	逆転勝ち	ぎゃくてんがち	comeback victory, coming …
+j	逆転負け	ぎゃくてんまけ	優勢で勝っていたチームが逆転されて敗北すること。
+j	逆輸入	ぎゃくゆにゅう	reimportation
+j	逆進	ぎゃくしんする	本来の方向とは逆に進むこと。
+j	逆進性	ぎゃくしんせい	所得の低い者が高い者より税金の負担が大きくなってい…
+j	逆関数	ぎゃくかんすう	inverse function
+j	銀の弾丸	ぎんのだんがん	a silver bullet (straight…
+j	銀河座標	ぎんがざひょう	天球上の座標の表し方の一つ。天の川の中心線を銀緯0…
+j	銀灰色	ぎんかいしょく	silver gray
+j	銀白色	ぎんはくしょく	白く輝く銀色。よく磨かれた銀の光沢の色。
+j	銀白色	ぎんぱくしょく	白く輝く銀色。よく磨かれた銀の光沢の色。
+j	銀行業	ぎんこうぎょう	
+j	魚眼レンズ	ぎょがんれんず	a fisheye lens
+j	魚眼レンズ	ぎょがんレンズ	a fisheye lens
+j	ぎっこんばったん	ぎっこんばったん	seesaw; teeter-totter
+j	ぎったんばっこん	ぎったんばっこん	synonym of シーソー (shīsō, “…
+j	ギガノトサウルス	ギガノトサウルス	竜盤目獣脚亜目カルカロドントサウルス科ギガノトサウ…
+j	ギシギシアンアン	ギシギシアンアン	sexual intercourse
+j	ギブアンドテイク	ギブアンドテイク	交換すること。
+j	ギブアンドテーク	ギブアンドテーク	give and take
+j	ギャンブル依存症	ギャンブル依存症	ギャンブルにのめり込み、その衝動を押さえられなくな…
+j	ギリシア料理	ぎりしありょうり	ギリシアの伝統的な料理。
+j	ギリシア語辞典	ぎりしあごじてん	ギリシア語の単語や熟語、用法等を解説した辞書。
+j	仰々しい	ぎょうぎょうしい	exaggerated
+j	仰仰しい	ぎょうぎょうしい	大袈裟であるさま。
+j	偽玄武岩破璃	ぎげんぶがんはり	シュードタキライト。
+j	凝灰岩	ぎようくわいがん	tuff
+j	凝縮	ぎょうしゅくする	condensation (of vapor)
+j	凝縮する	ぎょうしゅくする	
+j	凝集	ぎょうしゅうする	clumping, cohesion, agglu…
+j	凝集数	ぎょうしゅうすう	aggregation number
+j	御柳擬	ぎょりゅうもどき	common heather, Calluna v…
+j	御柳擬	ギョリュウモドキ	common heather, Calluna v…
+j	技能講習	ぎのうこうしゅう	労働安全衛生法において作業主任者や就業制限のある業…
+j	技術家庭科	ぎじゅつかていか	中学校の教科の一つ。
+j	暁熟	ぎょうじゅくする	clear comprehension; full…
+j	業務核都市	ぎょうむかくとし	東京都区部における人口及び行政、経済、文化等に関す…
+j	業界用語	ぎょうかいようご	
+j	業界雑誌	ぎょうかいざっし	業界関係者向けの情報を掲載した雑誌。業界誌。
+j	牛乳瓶	ぎゅうにゅうびん	
+j	祇園精舎	ぎおんしょうじゃ	インド舎衛国の須達長者が舎衛城の南の祇陀太子の庭園…
+j	義兄弟姉妹	ぎけいていしまい	義理の兄弟姉妹のこと。またはその関係。
+j	行儀が悪い	ぎょうぎがわるい	
+j	行商	ぎょうしょうする	peddling, hawking, the ac…
+j	行商人	ぎょうしょうにん	peddler, hawker
+j	行政区画	ぎょうせいくかく	administrative division
+j	行政機関	ぎょうせいきかん	国家や地方の行政の事務を執行し、行政権を行使する機…
+j	行政職	ぎょうせいしょく	行政事務に従事する公務員。
+j	行末揃え	ぎょうまつそろえ	alignment of characters t…
+j	行末揃え	ぎょうまつぞろえ	alignment of characters t…
+j	行間を読む	ぎょうかんをよむ	to read between the lines
+j	行頭揃え	ぎょうとうそろえ	alignment of characters t…
+j	行頭揃え	ぎょうとうぞろえ	alignment of characters t…
+j	議会図書館	ぎかいとしょかん	議会に附属して設置され、議会としての業務を助けるた…
+j	逆上	ぎゃくじょうする	frenzy, distraction
+j	逆感嘆符	ぎゃくかんたんふ	
+j	逆流	ぎゃくりゅうする	counter current, flowing …
+j	逆行列	ぎゃくぎょうれつ	inverse matrix
+j	逆襲	ぎゃくしゅうする	counterattack
+j	逆説的な	ぎゃくせつてきな	
+j	銀灰色	ぎんくわいしよく	silver gray
+j	銀白色の	ぎんはくしょくの	
+j	銀行業務	ぎんこうぎょうむ	
+j	魚群探知機	ぎょぐんたんちき	fishfinder
+j	魚類学的	ぎょるいがくてき	ichthyological
+j	魚類学者	ぎょるいがくしゃ	ichthyologist
+j	ギザの大ピラミッド	ギザの大ピラミッド	
+j	ギニアビサウ共和国	ギニアビサウ共和国	Republic of Guinea-Bissau…
+j	ギニアビサオ共和国	ギニアビサオ共和国	「ギニアビサウ」を参照。
+j	ギニア共和国	ぎにあきょうわこく	the Republic of Guinea
+j	ギニア共和国	ギニアきょうわこく	the Republic of Guinea
+j	ギャリソンキャップ	ギャリソンキャップ	
+j	ギャロップで駆ける	ギャロップで駆ける	
+j	ギリシア正教	ぎりしあせいきょう	東方正教会の別名。ギリシアを総本山とすることから呼…
+j	ギリシャヨーグルト	ギリシャヨーグルト	
+j	ギリシャ正教	ぎりしゃせいきょう	東方正教会の別名。ギリシャを総本山とすることから呼…
+j	儀同三司母	ぎどうさんしのはは	a courtesy name of Takash…
+j	凝縮させる	ぎょうしゅくさせる	
+j	凝集力	ぎょうしゅうりょく	cohesion (the various int…
+j	技術的負債	ぎじゅつてきふさい	
+j	業界新聞	ぎょうかいしんぶん	業界関係者向けの情報を掲載した新聞。業界紙。
+j	牛乳配達	ぎゅにゅうはいたつ	
+j	牛飲馬食	ぎゅういんばしょく	drinking like a fish and …
+j	玉皇大帝	ぎょくこうたいてい	Jade Emperor
+j	玉音放送	ぎょくおんほうそう	天皇の肉声を録音したラジオ・テレビの放送。特に、1…
+j	行政処分	ぎょうせいしょぶん	行政機関が法令に基づき国民に権利を付与したり、義務…
+j	行政区画	ぎやうせいくくわく	administrative division
+j	行政改革	ぎょうせいかいかく	国や地方公共団体などの行政機関の機構や運営方法など…
+j	行政解剖	ぎょうせいかいぼう	行政上の目的から犯罪性のない変死体についてその死因…
+j	行政訴訟	ぎょうせいそしょう	国や地方自治体などの行政機関が当事者となる訴訟。私…
+j	議論百出	ぎろんひゃくしゅつ	many arguments arising fr…
+j	逆コンパイラー	ぎゃくこんぱいらー	
+j	逆三角形	ぎゃくさんかくけい	底辺が上、底辺に対する頂点が下に位置する三角形。
+j	逆三角形	ぎゃくさんかっけい	底辺が上、底辺に対する頂点が下に位置する三角形。
+j	逆態接続	ぎゃくたいせつぞく	二つの文や句を接続する時、前の文や句の内容と後の文…
+j	逆行推論	ぎゃっこうすいろん	アブダクション。
+j	逆転勝ち	ぎゃくてんがちする	comeback victory, coming …
+j	魚肉ソーセージ	ぎょにくそーせーじ	獣肉などではなく魚肉を主な原料とするソーセージ。
+j	ギブス自由エネルギー	ギブス自由エネルギー	反応が自発的に進行するかどうかの指標。記号は「G」…
+j	ギラン・バレー症候群	ギラン・バレー症候群	
+j	ギリシャ共和国	ぎりしゃきょうわこく	Hellenic Republic (offici…
+j	ギリシャ共和国	ギリシャきょうわこく	Hellenic Republic (offici…
+j	玉皇上帝	ぎょくこうじょうてい	Jade Emperor
+j	行基本変形	ぎょうきほんへんけい	行列の行に対して行う基本変形。基本行列を右から掛け…
+j	行政委員会	ぎょうせいいいんかい	国や地方公共団体で政治的中立や公平性が必要な行政に…
+j	逆余割関数	ぎゃくよかつかんすう	余割関数の逆関数。arccsc。
+j	逆余弦関数	ぎゃくよげんかんすう	余弦関数の逆関数。arccos。
+j	逆余接関数	ぎゃくよせつかんすう	余接関数の逆関数。arccot。
+j	逆転写酵素	ぎゃくてんしゃこうそ	
+j	ギブス自由エネルギー	ぎぶすじゆうえねるぎー	反応が自発的に進行するかどうかの指標。記号は「G」…
+j	ギャンブル依存症	ぎゃんぶるいぞんしょう	ギャンブルにのめり込み、その衝動を押さえられなくな…
+j	ギリギリ健常者	ぎりぎりけんじょうしゃ	person who resembles a pe…
+j	ギリギリ健常者	ギリギリけんじょうしゃ	person who resembles a pe…
+j	ギリシア正教会	ぎりしあせいきょうかい	東方正教会の別名。ギリシアを総本山とすることから呼…
+j	ギリシャ正教会	ぎりしゃせいきょうかい	東方正教会の別名。ギリシャを総本山とすることから呼…
+j	ギンホオエボシアリモズ	ギンホオエボシアリモズ	
+j	技術的特異点	ぎじゅつてきとくいてん	人工知能が人間の知能を上回り、その発展が予測できな…
+j	業務独占資格	ぎょうむどくせんしかく	名称を含め業務の独占を許可された国家資格。
+j	牛飲馬食	ぎゅういんばしょくする	drinking like a fish and …
+j	疑心暗鬼を生ず	ぎしんあんきをしょうず	once you suspect somethin…
+j	義務教育学校	ぎむきょういくがっこう	現在の学校教育法においては、初等教育と前期中等教育…
+j	逆ポーランド記法	ぎゃくぽーらんどきほう	reverse Polish notation
+j	逆ポーランド記法	ぎゃくポーランドきほう	reverse Polish notation
+j	逆ラプラス変換	ぎゃくらぷらすへんかん	ラプラス変換 ℒ[f(x)](s)=F(s)に対し…
+j	逆三角関数	ぎゃくさんかくかんすう	三角関数の逆関数。接頭辞「arc」を用いて表される。
+j	逆正割関数	ぎゃくせいかつかんすう	正割関数の逆関数。arcsec。
+j	逆正弦関数	ぎゃくせいげんかんすう	正弦関数の逆関数。arcsin。
+j	逆正接関数	ぎゃくせいせつかんすう	正接関数の逆関数。arctan。
+j	逆行性射精	ぎゃっこうせいしゃせい	
+j	銀河系外星雲	ぎんがけいがいせいうん	見た目が星雲に似ていることから、銀河系以外の銀河を…
+j	銀行の明細書	ぎんこうのめいさいしょ	
+j	ギニアビサウ共和国	ぎにあびさうきょうわこく	Republic of Guinea-Bissau…
+j	ギニアビサウ共和国	ギニアビサウきょうわこく	Republic of Guinea-Bissau…
+j	ギラン・バレー症候群	ぎらん・ばれーしょうこうぐん	
+j	漁業協同組合	ぎょぎょうきょうどうくみあい	水産業協同組合法に基づき漁業を営む個人、法人によっ…
+j	逆双曲線関数	ぎゃくそうきょくせんかんすう	双曲線関数の逆関数。接頭辞「ar」を用いて表される。
+j	牛海綿状脳症	ぎゅうかいめんじょうのうしょう	bovine spongiform encepha…
+j	逆双曲余割関数	ぎゃくそうきょくよせつかんすう	双曲線余接関数の逆関数。arcsch。
+j	逆双曲余弦関数	ぎゃくそうきょくよげんかんすう	双曲線余弦関数の逆関数。arcosh。
+j	逆双曲余接関数	ぎゃくそうきょくよせつかんすう	双曲線余接関数の逆関数。arcoth。
+j	逆アドレス解決プロトコル	ぎゃくあどれすかいけつぷろとこる	Reverse Address Resolutio…
+j	逆アドレス解決プロトコル	ぎゃくアドレスかいけつプロトコル	Reverse Address Resolutio…
+j	逆双曲正割関数	ぎゃくそうきょくせいかつかんすう	双曲線正割関数の逆関数。arsech。
+j	逆双曲正弦関数	ぎゃくそうきょくせいげんかんすう	双曲線正弦関数の逆関数。arsinh。
+j	逆双曲正接関数	ぎゃくそうきょくせいせつかんすう	双曲線正接関数の逆関数。artanh。
+j	逆双曲線余割関数	ぎゃくそうきょくせんよかつかんすう	双曲線余弦関数の逆関数。arcosh。
+j	逆双曲線余弦関数	ぎゃくそうきょくせんよげんかんすう	双曲線余弦関数の逆関数。arcosh。
+j	逆双曲線余接関数	ぎゃくそうきょくせんよせつかんすう	双曲線余接関数の逆関数。arcoth。
+j	逆双曲線正割関数	ぎゃくそうきょくせんせいかつかんすう	双曲線正割関数の逆関数。arcosh。
+j	逆双曲線正弦関数	ぎゃくそうきょくせんせいげんかんすう	双曲線正弦関数の逆関数。arsinh。
+j	逆双曲線正接関数	ぎゃくそうきょくせんせいせつかんすう	双曲線正接関数の逆関数。artanh。

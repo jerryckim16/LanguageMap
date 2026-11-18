@@ -1,0 +1,49 @@
+k	좌	좌	'왼쪽'.
+k	좍	좍	
+k	좌경	좌경	
+k	좌관	좌관	
+k	좌기	좌기	
+k	좌뇌	좌뇌	
+k	좌담	좌담	
+k	좌변	좌변	
+k	좌빨	좌빨	a left-winger (implying t…
+k	좌석	좌석	seat
+k	좌선	좌선	
+k	좌식	좌식	living in idleness
+k	좌안	좌안	left bank
+k	좌약	좌약	
+k	좌우	좌우	left and right
+k	좌익	좌익	
+k	좌절	좌절	frustration; setback
+k	좌좀	좌좀	a left-winger
+k	좌창	좌창	
+k	좌천	좌천	
+k	좌초	좌초	running aground
+k	좌측	좌측	
+k	좌파	좌파	left wing; the left
+k	좌편	좌편	
+k	좌표	좌표	coordinates
+k	좌현	좌현	port (left hand side of a…
+k	좡어	좡어	
+k	좡족	좡족	
+k	좌경화	좌경화	
+k	좌담회	좌담회	
+k	좌독기	좌독기	조선 시대에, 행진할 때는 주장(主將)의 뒤에…
+k	좌변기	좌변기	
+k	좌심방	좌심방	'왼심방'.
+k	좌심실	좌심실	'왼심실'.
+k	좌우명	좌우명	motto
+k	좌익수	좌익수	left fielder
+k	좌절된	좌절된	
+k	좌표계	좌표계	(수학) 좌표의 종류, 원점, 좌표축 등을 통…
+k	좌표축	좌표축	(수학) 좌표를 정할 때 그 표준이 되는 축.
+k	좌회전	좌회전	left turn
+k	좌우하다	좌우하다	
+k	좌지우지	좌지우지	push around, boss around
+k	좌초되다	좌초되다	
+k	좌골신경통	좌골신경통	
+k	좌절시키다	좌절시키다	
+k	좌표 평면	좌표 평면	(수학) 좌표계가 정해진 평면.
+k	좌로들어 총	좌로들어 총	
+k	좌표를 찍다	좌표를 찍다	to mark the coordinate po…
+k	좌회전 하세요	좌회전 하세요	

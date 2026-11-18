@@ -1,0 +1,883 @@
+e	-on	on	1 meaning
+j	オン	on	of a device, being on, be…
+j	唵	on	om, aum
+j	恩	on	obligation
+j	温	on	warm
+j	溫	on	a female given name
+j	音	on	sound
+k	온	on	all, whole, entire
+e	one	one	7 meanings
+e	ōno	ono	1 meaning
+j	おうな	ona	old woman
+j	おおね	one	物事の大本。根本。
+j	おおの	ono	広い野原。
+j	おに	oni	日本における代表的な伝説上の生物。強力な力を有し、…
+j	おね	one	尾根: a mountain ridge
+j	おの	ono	木を叩き切ったり割ったりする道具。
+j	お姉	one	older sister; young lady
+j	オネェ	one	
+j	オネエ	one	effeminate man
+j	オーナー	ona	an owner, especially of a…
+j	大根	one	the fundamental root or o…
+j	大野	ono	Ōno (a city in Fukui Pref…
+j	太安	ono	a surname
+j	小野	ono	field
+j	尾根	one	a mountain ridge
+j	応能	ono	各自のそれぞれが持つ能力の程度に応じること。
+j	懊悩	ono	worry; agony
+j	斧	ono	axe, hatchet
+j	王の	ono	
+j	蔭位	oni	律令制で皇族や貴族の子孫（五位以上の子、三位以上の…
+j	鬼	oni	ghost
+k	오니	oni	polluted soil
+k	온오	ono	
+k	옹	ong	
+e	once	once	2 meanings
+e	one's	ones	1 meaning
+e	only	only	3 meanings
+e	onus	onus	3 meanings
+e	onyx	onyx	1 meaning
+j	おんおん	onon	大声で泣くさま。
+j	おんが	onga	温雅, 溫雅: graceful; affable
+j	おんぎ	ongi	恩義: favor, obligation
+j	おんこ	onko	synonym of 一位 (ichii): th…
+j	おんじょ	onjo	the elderly
+j	おんそ	onso	音素: phoneme
+j	おんど	ondo	
+j	おんな	onna	人のうち、男でない側の者。女子。またはY染色体を持…
+j	おんぶ	onbu	a piggyback ride; being c…
+j	おニュー	onyu	new
+j	オンエア	onea	being on the air, being t…
+j	オンエアー	onea	on air (transmitting live)
+j	オンゲ	onge	syllabic abbreviation of …
+j	オンゲー	onge	
+j	オンス	onsu	ounce
+j	オンニ	onni	unnie (elder sister, or a…
+j	オンリー	onri	...だけ。それ以外の物は含まない。
+j	大嘗	onie	大嘗祭。
+j	女	onna	a female person
+j	尾上	onoe	peak; summit
+j	往年	onen	former, once
+j	御党	onto	相手の党に対する尊敬語。あなたの党。
+j	御園	onen	相手が属する「園」と呼ばれる施設を指す尊敬語。
+j	御庫	onko	（話し言葉）あなたの信用金庫、労働金庫。
+j	御族	onzo	貴人の一族に対する尊敬語。
+j	御校	onko	（会話語）相手が属する学校を指す尊敬語。
+j	御院	onin	（会話語）相手が属する病院、医院または議院を指す尊…
+j	応仁	onin	the Ōnin era, 1467-1469
+j	恩倖	onko	慈しみ。恩恵。
+j	恩幸	onko	慈しみ。恩恵。
+j	恩引	onin	招待。
+j	恩怨	onen	情けと怨み。
+j	恩情	onjo	目上の者が目下の者にかける情け深い心。
+j	恩波	onpa	恩恵が波が広がるように行き渡ること。
+j	恩田	onda	a surname
+j	恩義	ongi	favor, obligation, debt o…
+j	恩蔭	onin	おかげ。
+j	恩補	onpo	恩賞として主君から職を授けられること。
+j	恩隠	onin	恩蔭の異表記。
+j	恩顧	onko	情けをかけること。ひいきにすること。
+j	横難	onan	不慮の災難。
+j	温乎	onko	穏やかなさま。
+j	温厚	onko	mild-mannered, gentle, af…
+j	温和	onwa	mild
+j	温度	ondo	temperature (a measure of…
+j	温情	onjo	kindness
+j	温故	onko	昔のことをよく調べること。
+j	温柔	onju	loving, gentle, sweet
+j	温雅	onga	graceful; affable
+j	温風	onpu	陰暦の晩夏に吹く、あたたかく湿った風。
+j	王難	onan	国王から受ける災難や刑罰。国王の命に背いたことで起…
+j	穏和	onwa	穏やかで和んでいること。
+j	穏固	onko	しっかりしていて丈夫なさま。
+j	蔭補	onpo	父祖の功績により、その子孫に官位が授けられること。
+j	遠志	onji	root of Polygala tenuifol…
+j	遠流	onru	律令制の流罪のうち最も重い刑罰。都から遠隔の流刑地…
+j	遠離	onri	separation by a great dis…
+j	音価	onka	ある音（または休止）に与えられた楽譜上の時間の長さ。
+j	音叉	onsa	a tuning fork
+j	音均	onin	音韻の異表記。
+j	音校	onko	音楽学校。
+j	音波	onpa	sound wave
+j	音符	onpu	musical note
+j	音素	onso	a phoneme
+j	音義	ongi	sound and meaning
+j	音譜	onpu	sheet music
+j	音部	onbu	部首「⾳」で分類した漢字の一群。
+j	音韻	onin	phoneme
+j	音頭	ondo	the person who sings firs…
+j	音高	onko	音の高さ。
+k	오뇌	onoe	
+k	오누이	onui	brother and sister; sibli…
+k	오늬	onui	arrow notch
+k	온기	ongi	
+k	온도	ondo	temperature (a measure of…
+k	온수	onsu	warm water; hot water
+k	온위	onwi	어떤 압력의 건조공기를 단열변화에 의해 100…
+k	온유	onyu	
+k	온주	onju	Wenzhou (a prefecture-lev…
+k	온후	onhu	
+e	on air	onair	1 meaning
+e	ondol	ondol	1 meaning
+e	onega	onega	1 meaning
+e	onion	onion	3 meanings
+e	onium	onium	2 meanings
+e	onsen	onsen	1 meaning
+e	onset	onset	1 meaning
+e	ontic	ontic	1 meaning
+j	おおなき	onaki	大声をあげて泣くこと。号泣すること。
+j	おおなみ	onami	大きな波。高波。波濤。大波。
+j	おおなわ	onawa	多数の人が一斉に同じ縄を跳ぶこと。また、それに使わ…
+j	おなか	onaka	腹の美化語。胴の、胃や腸などがある部分。胴の、肋骨…
+j	おなが	onaga	尾が長いこと。
+j	おなご	onago	おんなのこと。やや古めかしい感じの語。
+j	おなじ	onaji	複数の事物について、その属性の全てに異なる点のない…
+j	おなべ	onabe	Used other than figurativ…
+j	おなら	onara	gas, wind, a fart
+j	おにか	onika	鬼化: devil
+j	おにご	onigo	歯が生えて生まれた子。
+j	おにび	onibi	暗い雨夜に墓地や湿地などで空中を浮遊する青白い怪火…
+j	おねじ	oneji	螺旋状のねじの山が円筒形または円錐形の棒の外側に向…
+j	おねむ	onemu	sleepiness
+j	おのおの	onono	たくさんの人や物のひとつひとつ。銘銘。各自。各個。
+j	おのこ	onoko	男, 男の子: a boy
+j	おのれ	onore	漢字の部首「⼰」の呼称の一つ。
+j	おんかい	onkai	音階: musical scale
+j	おんけい	onkei	
+j	おんし	onshi	御師
+j	おんせん	onsen	
+j	おんだん	ondan	
+j	おんち	onchi	音痴: the state of being to…
+j	お腹	onaka	belly, tummy, stomach, ab…
+j	オナる	onaru	to masturbate
+j	オナガ	onaga	スズメ目カラス科オナガ属に属する鳥の一種。学名:C…
+j	オナニー	onani	masturbation, onanism (ma…
+j	オナヌー	onanu	オナニー。自慰。
+j	オナホ	onaho	
+j	オニオン	onion	たまねぎ。
+j	オーナス	onasu	重荷、負担。
+j	同じ	onaji	same, identical
+j	大女子	onago	big sand lance
+j	大幣	onusa	a wooden wand with paper …
+j	大沼	onuma	a surname
+j	大波	onami	great wave
+j	大貫	onuki	a surname
+j	小沼	onuma	a surname
+j	小野田	onoda	a surname
+j	尾長	onaga	azure-winged magpie
+j	御中	onaka	a meal, especially of ric…
+j	御大	ontai	（おんたい）グループや団体で中心となる人物。
+j	御庁	oncho	（話し言葉）あなたの庁。
+j	御店	onten	（会話語）相手の店を指す尊敬語。
+j	御省	onsho	（話し言葉）あなたの（行政の）省。
+j	御礼	onrei	「礼」の丁寧語。
+j	御社	onsha	your company
+j	御紙	onshi	相手が発行する新聞。
+j	御誌	onshi	相手が発行する雑誌。
+j	御館	onkan	相手が属する「館」と呼ばれる施設を指す尊敬語。
+j	怨念	onnen	grudge
+j	怨霊	onryo	a ghost, particularly a v…
+j	恩人	onjin	benefactor (one who gives…
+j	恩典	onten	a (special) favor; a priv…
+j	恩命	onmei	情けのある御命令。ありがたい御言葉。
+j	恩地	onchi	武家が勲功に対して恩賞を君主から与えられた領地。恩…
+j	恩寵	oncho	appreciation (by a God or…
+j	恩師	onshi	greatly respected teacher…
+j	恩恵	onkei	favour
+j	恩眷	onken	目をかけて慈しむこと。情けをかけること。
+j	恩簡	onkan	相手からの手紙に対する尊敬語。
+j	恩讐	onshu	恩と仇。
+j	恩貸	ontai	恩情を施すこと。慈悲の心で与えること。
+j	恩賜	onshi	gift from the emperor
+j	恩賞	onsho	reward
+j	恩赦	onsha	a legislative or executiv…
+j	恩霑	onten	恩沢。
+j	恩領	onryo	武家で勲功に対する恩賞として君主から与えられた領地…
+j	斧道	onodo	日本の武道の一つ。斧を用いて戦い心身を鍛錬すること…
+j	温仁	onjin	思いやり。
+j	温冷	onrei	hot and cold
+j	温存	onzon	preservation, conservatio…
+j	温官	onkan	役得により給与以外の収益がある官職。
+j	温尋	onjin	調べること。
+j	温州	onshu	Wenzhou (a prefecture-lev…
+j	温帯	ontai	temperate zone
+j	温床	onsho	hotbed
+j	温感	onkan	皮膚で感じられる温度の感覚。特に、温かいという感覚。
+j	温暖	ondan	warm
+j	温水	onsui	warm or lukewarm water
+j	温泉	onsen	a hot spring
+j	温灸	onkyu	円筒形の器にもぐさを入れ、間接的に患部を加熱する灸。
+j	温点	onten	皮膚や粘膜にあり暖かさを温度を感じる感覚点。
+j	温燻	onkun	hot smoking: smoking food…
+j	温良	onryo	性格などが穏やかで素直なさま。
+j	温薫	onkun	温燻の別表記。
+j	温藉	onsha	心が温かく寛大で優しいこと。また、そのようなさま。
+j	温言	ongen	優しく温かみのある言葉。
+j	温調	oncho	写真の画像で色調が褐色を帯び温かみを与えること。
+j	温順	onjun	gentle; meek; obedient
+j	穏便	onbin	gentle; quiet; amicable; …
+j	穏健	onken	moderate
+j	翁長	onaga	a surname
+j	蔭子	onshi	律令制で蔭位を受ける貴族の子。
+j	諺文	onmon	hangul
+j	隠地	onchi	年貢を免れるために存在を隠して耕作する田畑。
+j	隠形	ongyo	hiding one's body (using …
+j	隠田	onden	日本中世から近世にかけ、領主などに隠して耕作し、年…
+j	音便	onbin	euphony (sound change)
+j	音写	onsha	transcription
+j	音名	onmei	pitch name; musical alpha…
+j	音域	oniki	range
+j	音塵	onjin	訪れ。
+j	音声	onsei	speech sound, voice
+j	音大	ondai	音楽大学の略。
+j	音子	onshi	phonon
+j	音感	onkan	sense of sound, pitch
+j	音栓	onsen	a stop or register in an …
+j	音源	ongen	source of a sound
+j	音痴	onchi	tone deafness; being tone…
+j	音盤	onban	disk, record (a vinyl pho…
+j	音程	ontei	interval
+j	音線	onsen	a sound ray, an acoustic …
+j	音訊	onjin	便り。
+j	音訓	onkun	on'yomi and kun'yomi of a…
+j	音調	oncho	intonation; accent
+j	音量	onryo	sound volume
+j	音階	onkai	musical scale
+j	音響	onkyo	sound; acoustics
+j	鬼コ	oniko	何度もしつこく電話をかけること。頻繁に電話すること。
+j	鬼子	onigo	changeling; a child which…
+j	鬼火	onibi	a will o' the wisp
+k	오녀	onyeo	오냐의 옛말.
+k	오늄	onyum	onium
+k	오늘	oneul	today; this day
+k	온각	ongak	
+k	온갖	ongat	all; every; all kinds of
+k	온난	onnan	
+k	온대	ondae	temperate zone
+k	온돌	ondol	ondol, hypocaust (a Korea…
+k	온몸	onmom	whole body, entire body
+k	온밤	onbam	all night, the whole night
+k	온센	onsen	
+k	온스	onseu	
+k	온실	onsil	greenhouse
+k	온음	oneum	(음악) 두 개의 반음을 가진 음의 간격.
+k	옹기	onggi	pottery; earthenware
+k	옹호	ongho	protection
+e	on foot	onfoot	1 meaning
+e	on hand	onhand	1 meaning
+e	on time	ontime	2 meanings
+e	one day	oneday	2 meanings
+e	one-way	oneway	2 meanings
+e	onesie	onesie	1 meaning
+e	online	online	2 meanings
+e	onward	onward	1 meaning
+j	おおにし	onishi	真西の方角
+j	おなちゅう	onachu	going to or being graduat…
+j	おな中	onachu	出身中学校が同じであること。
+j	おに電	oniden	「鬼電」の異表記。
+j	おぬし	onushi	そなた。お前。二人称単数。
+j	おねがい	onegai	願い。特に、依頼。
+j	おねしょ	onesho	bedwetting
+j	おねんね	onenne	bye-bye, beddy-bye, going…
+j	おのし	onoshi	そなた。お前。二人称単数。
+j	おんがく	ongaku	
+j	おんどく	ondoku	音読: reading aloud
+j	おんどり	ondori	雄の鳥。おとり。
+j	おんどれ	ondore	
+j	おんなご	onnago	女の子。
+j	おんなじ	onnaji	おなじ。
+j	おんなで	onnade	女性の労力や働き手。
+j	おんぼろ	onboro	beat up and worn out
+j	おんよみ	onyomi	
+j	お兄さん	onisan	elder brother
+j	お名前	onamae	(your/his, etc.) name
+j	お姉さん	onesan	elder sister: used as ter…
+j	お寝小	onesho	
+j	お願い	onegai	request, wish, favor
+j	オナ禁	onakin	abstinence from masturbat…
+j	オナ電	onaden	
+j	オニウム	oniumu	onium
+j	オニ電	oniden	「鬼電」の異表記。
+j	オンする	onsuru	
+j	オンエアーの	oneano	
+j	オンコード	onkodo	通常のルート音とは異なる音をベース音として弾くコー…
+j	オンドル	ondoru	朝鮮半島などで用いられる床暖房。古くはかまどや炉か…
+j	オンライン	onrain	online
+j	オンローダー	onroda	オンロードの走行を目的とした自動車、オートバイ、自…
+j	オンロード	onrodo	車両で舗装路を走行すること。
+j	オン飲み	onnomi	an online drinking party;…
+j	各々	onoono	each, every
+j	大人数	oninzu	たくさんの人数。
+j	大西	onishi	a surname
+j	女の	onnano	
+j	女手	onnade	a woman's work or effort
+j	女気	onnagi	feminine spirit; gentlene…
+j	女湯	onnayu	women's bath (in a public…
+j	御の字	onnoji	とても結構なもの。最上なもの。
+j	御主	onushi	you (to someone of equal …
+j	御学	ongaku	あなたの大学。
+j	御嶽	ontake	Mount Ontake (a mountain …
+j	御方	onkata	synonym of 御方 (ōnkata)
+j	恩信	onshin	情けがあり誠意があること。
+j	恩審	onshin	情けのある命により再審すること。
+j	恩徳	ontoku	恩と徳。恩恵。恵み。
+j	恩德	ontoku	恩徳の旧字体表記。
+j	恩沢	ontaku	神仏がもたらす恩恵。主君から下賜される恩賞。恵み。…
+j	恩禄	onroku	主君からの禄に対する尊敬語。
+j	押捺	onatsu	stamping
+j	温信	onshin	誠実。
+j	温慎	onshin	謹み深いさま。
+j	温浴	onyoku	warm bath
+j	温玉	ontama	「温泉玉子」の略。
+j	温突	ondoru	ondol (Korean underfloor …
+j	温風器	onpuki	fan heater
+j	瘟疹	onshin	流行り病。流行病。
+j	瘟神	onshin	疫病神。
+j	穏和な	onwana	
+j	穏審	onshin	落ち着くこと。
+j	穏身	onshin	適度。
+j	雄鳥	ondori	a male bird
+j	雄鶏	ondori	a rooster (male chicken; …
+j	音仮名	ongana	an orthographic technique…
+j	音信	onshin	correspondence; news (com…
+j	音圧	onatsu	sound pressure
+j	音引き	onbiki	phonetic collocation, ord…
+j	音楽	ongaku	music
+j	音訳	onyaku	transcription, transcribi…
+j	音読	ondoku	reading aloud
+j	音読み	onyomi	the reading of a Japanese…
+j	音速	onsoku	the speed of sound
+j	鬼デン	oniden	「鬼電」の異表記。
+j	鬼単	onitan	単位を取るのが難しい科目。
+j	鬼電	oniden	calling incessantly on th…
+j	黄熱	onetsu	アフリカ西部、中南米に多く見られる黄熱ウイルスによ…
+k	오나홀	onahol	
+k	오너라	oneora	come, come over
+k	오느비	oneubi	
+k	옥내	ongnae	inside of a house; (~-에서 …
+k	옥문	ongmun	prison gate
+k	온라인	onnain	being online
+k	온상	onsang	
+k	온점	onjeom	dot, full stop
+k	온탕	ontang	
+k	온통	ontong	all, wholly, entirely, al…
+k	옹립	ongnip	enthroning
+k	옹저	ongjeo	
+k	옹졸	ongjol	Root of 옹졸하다 (ongjolhada)…
+k	옹진	ongjin	Ongjin (a county of Inche…
+k	옻나무	onnamu	Chinese lacquer tree (Tox…
+e	on earth	onearth	1 meaning
+e	onanism	onanism	1 meaning
+e	oncilla	oncilla	1 meaning
+e	one-eyed	oneeyed	1 meaning
+e	one-shot	oneshot	1 meaning
+e	oneiric	oneiric	1 meaning
+e	oneness	oneness	1 meaning
+e	oneself	oneself	1 meaning
+e	ongoing	ongoing	2 meanings
+e	onigiri	onigiri	1 meaning
+e	ontario	ontario	2 meanings
+j	おながれ	onagare	目上の人が杯に残したものを注いでもらった酒。
+j	おなじく	onajiku	同様に。
+j	おなもみ	onamomi	キク目キク科オナモミ属に属する一年草。学名:Xan…
+j	おなクラ	onakura	in the same class at scho…
+j	おにいさん	oniisan	兄・兄さんを丁寧に言う語。
+j	おにぎり	onigiri	「にぎりめし」の女性語。
+j	おにのこ	oninoko	蓑虫の異名。
+j	おにばす	onibasu	スイレン科の一年草。水生で池沼に生える。全体的にと…
+j	おにばば	onibaba	老婆の姿をした鬼。
+j	おにロリ	onirori	カップリングであり、成熟した男性と若い少女の間の関係
+j	おねえさん	oneesan	姉・姉さんを丁寧に言う語。
+j	おねロリ	onerori	yuri coupling between a m…
+j	おのこご	onokogo	男の子子: boy; man
+j	おののく	ononoku	小刻みに震える。恐怖のときに使うことが多いが、寒さ…
+j	おんせつ	onsetsu	
+j	お姉ちゃん	onechan	elder sister, (big) sis
+j	お握り	onigiri	a closing or grasping of …
+j	オナクラ	onakura	
+j	オナバレ	onabare	being discovered in the a…
+j	オナベバー	onabeba	dyke or FTM-staffed bar
+j	オナホール	onahoru	pocketpussy; onahole
+j	オニキス	onikisu	
+j	オニユリ	oniyuri	ユリ目ユリ科ユリ属に属する多年草の一種。学名:Li…
+j	オヌヌヌ	onununu	おすすめ。
+j	オヌヌメ	onunume	おすすめ。
+j	オネガ湖	onegako	
+j	オンサイト	onsaito	現在在る、その場。現場。
+j	オンタリオ	ontario	Ontario (a province in ea…
+j	オンフック	onfukku	電話を使い終えるために、受話器をフックに載せる動作。
+j	オンリーワン	onriwan	それ一つしかない、その人一人しかいないこと。
+j	同じく	onajiku	similarly
+j	女偏	onnahen	漢字の部首「⼥」が偏である場合の呼称。
+j	女顔	onnagao	feminine face
+j	小野寺	onodera	a surname
+j	己妻	onozuma	one’s spouse, mate; wife,…
+j	御局	onkyoku	（会話語）あなたの局。
+j	御曹司	onzoshi	esteemed son
+j	怨憎会苦	onzoeku	憎い者と会う苦しみ。仏教にいう四苦八苦のひとつ。
+j	戦く	ononoku	to tremble in fear
+j	温塩水	onensui	warm salt water (used to …
+j	温州語	onshugo	呉語の方言の一つ。中国・浙江省の温州市で話される。…
+j	温度計	ondokei	a thermometer
+j	温暖化	ondanka	地球全体の平均気温が上がること。
+j	温熱	onnetsu	温かく感じられる熱。
+j	温色	onshoku	温かみを感じさせる色。暖色。
+j	男の子子	onokogo	boy
+j	穏健派	onkenha	pacifist
+j	穏截	onsetsu	古代日本で国司などが公の物や売り払いの差額を横領す…
+j	自ずと	onozuto	by itself, naturally, on …
+j	陰陽寮	onyoryo	a 律令 (ritsuryō) departmen…
+j	陰陽師	onmyoji	a practitioner of 陰陽道 (on…
+j	陰陽道	onmyodo	a traditional body of Jap…
+j	隠密	onmitsu	stealthy, covert, underco…
+j	音切	onsetsu	反切。
+j	音声化	onseika	
+j	音律	onritsu	rhythm; temperament
+j	音挿入	onsonyu	
+j	音曲	ongyoku	楽器演奏や歌謡などの総称。楽曲。
+j	音痴の	onchino	
+j	音節	onsetsu	a syllable
+j	音調素	onchoso	a toneme
+j	音韻論	oninron	phonology (subfield of li…
+j	音響の	onkyono	
+j	鬼コール	onikoru	何度もしつこく電話をかけること。頻繁に電話すること。
+j	鬼リピ	oniripi	endless repeating
+j	鬼事	onigoto	tag (game)
+j	鬼婆	onibaba	hag, nasty old woman
+j	鬼嫁	oniyome	cruel wife, termagant wif…
+j	鬼百合	oniyuri	tiger lily, Lilium lancif…
+j	鬼蓮	onibasu	prickly waterlily, Euryal…
+j	鬼蜘蛛	onigumo	orbweaver spider (Araneus…
+k	오네가호	onegaho	
+k	오뉴월	onyuwol	May and June
+k	오니기리	onigiri	주먹밥; 주로 일식(日食) 삼각김밥.
+k	오닉스	onikseu	
+k	온도계	ondogye	thermometer
+k	온천	oncheon	hot spring, thermal sprin…
+k	온타리오	ontario	[~주(州)] Ontario (a provin…
+k	옹근	onggeun	
+k	옹색	ongsaek	형편이 넉넉하지 못하여 생활에 필요한 것이 없…
+k	옹호자	onghoja	
+e	on credit	oncredit	1 meaning
+e	on the way	ontheway	1 meaning
+e	oncogene	oncogene	1 meaning
+e	oncology	oncology	1 meaning
+e	one by one	onebyone	1 meaning
+e	one or two	oneortwo	1 meaning
+e	ontology	ontology	2 meanings
+j	おにあそび	oniasobi	おにごっこ。
+j	おにごっこ	onigokko	子供の遊びの一つ。鬼となるものを決め、鬼が他のもの…
+j	おにむしゃ	onimusha	勇猛な武者。
+j	おにやらい	oniyarai	大晦日に鬼（疫鬼）を追い払う行事。追儺。
+j	おにやんま	oniyanma	トンボ目オニヤンマ科オニヤンマ属に属するとんぼの総…
+j	おにわばん	oniwaban	御庭番: A group of undercove…
+j	おにショタ	onishota	カップリングであり、成熟した男性と若い少年の間の関係
+j	おねショタ	oneshota	coupling between a mature…
+j	おんながた	onnagata	【女方】ある集団が男女の差異で分けられるときの女性…
+j	おんなぐせ	onnaguse	one's treatment of women
+j	おんなだけ	onnadake	「めだけ」の別名。
+j	おんなのこ	onnanoko	女の子供。幼女。女児。
+j	おんなもの	onnamono	女物: women's goods; (theat…
+j	おんなやま	onnayama	（特に二つ並んだ山で）斜面がなだらかでおんならしい…
+j	お兄ちゃん	oniichan	elder brother
+j	オナペット	onapetto	object of fantasy during …
+j	オニオコゼ	oniokoze	鬼鰧, 鬼虎魚: scorpionfish, In…
+j	オニックス	onikkusu	
+j	オニヤンマ	oniyanma	トンボ目オニヤンマ科オニヤンマ属に属するとんぼの一…
+j	オントロジー	ontoroji	
+j	オンニライン	onnirain	unnie line (elder members…
+j	オンパレード	onparedo	cavalcade; lineup
+j	オンボーカル	onbokaru	normal audio including th…
+j	女の子	onnanoko	a child that is female; a…
+j	女好き	onnazuki	having characteristics ap…
+j	女形	onnagata	male actor who plays fema…
+j	女文字	onnamoji	女性が書いた文字。
+j	女物	onnamono	women's goods
+j	御庭番	oniwaban	A group of onmitsu, gover…
+j	恩返し	ongaeshi	requital of a favor
+j	温室	onshitsu	a greenhouse (building in…
+j	音位転倒	onitento	言語において、音の位置が入れ替わること。音位転換。
+j	音大生	ondaisei	music college student; mu…
+j	音楽の	ongakuno	
+j	音楽会	ongakkai	concert (a musical entert…
+j	音楽家	ongakuka	musician
+j	音楽科	ongakuka	大学や短期大学に設置している音楽に関する学科。音楽…
+j	音程感	onteikan	「音感」を参照。
+j	音素文字	onsomoji	phonemic script; phonetic…
+j	音訳語	onyakugo	a word that represents th…
+j	音質	onshitsu	audio quality
+j	音部記号	onbukigo	a symbol placed at the st…
+j	鬼ごっこ	onigokko	tag (game)
+j	鬼塚	onitsuka	a surname
+j	鬼武者	onimusha	非常に勇猛な武者。荒々しい武者。
+j	鬼遊び	oniasobi	tag (game)
+j	鬼鰧	oniokoze	Inimicus japonicus, devil…
+k	오늘 밤	oneulbam	
+k	오늘날	oneullal	these days; modern times
+k	오늘밤	oneulbam	
+k	온공일	ongongil	Sunday
+k	온난한	onnanhan	
+k	온난화	onnanhwa	
+k	온도장	ondojang	온도의 일정한 분포를 보이고 있는 넓은 지역.
+k	온도풍	ondopung	기온의 수평적인 분포에 따라 생기는 바람.
+k	온음계	oneumgye	(음악) 한 옥타브가 다섯 개의 온음과 두 개…
+k	온음표	oneumpyo	whole note, 𝅝
+k	온종일	onjongil	the whole day
+k	온풍기	onpunggi	fan heater
+k	온화한	onhwahan	
+k	온흐림	onheurim	전체 구름량이 10이고, 시정이 1km 이상이…
+k	옹고집	onggojip	무엇이 옳고 그른 것에 관여하지 않고 자신의 …
+k	옹당이	ongdangi	
+k	옹라이소	ongnaiso	
+k	옹벽	ongbyeok	retaining wall
+e	on one's own	ononesown	1 meaning
+e	on purpose	onpurpose	1 meaning
+e	once again	onceagain	1 meaning
+e	one o'clock	oneoclock	1 meaning
+e	oniomania	oniomania	1 meaning
+e	onion ring	onionring	1 meaning
+e	only child	onlychild	1 meaning
+j	おないどし	onaidoshi	同じ年齢。また、そのような人。
+j	おながざる	onagazaru	サル目オナガザル科に属する哺乳類のうち尾の長い猿の…
+j	おながどり	onagadori	鶏の品種の一つで高知県原産。別名、ながおどり。おす…
+j	おなじみの	onajimino	
+j	おにおおはし	oniohashi	キツツキ目オオハシ科オオハシ属に属する鳥の一種。学…
+j	おにぎりや	onigiriya	御握りを作って売る店。
+j	おのずから	onozukara	ひとりでに。自然に。
+j	おのづくり	onozukuri	漢字の部首「⽄」の呼称の一つ。
+j	おんいてんかん	onitenkan	音位転換: metathesis (the tra…
+j	おんせいがく	onseigaku	
+j	おんなあそび	onnaasobi	男性が不特定の女性と気ままに情事にふけること。
+j	おんなあるじ	onnaaruji	一家や商店の女性のあるじ。女主人。
+j	おんにゃのこ	onnyanoko	
+j	おんぶばった	onbubatta	バッタ目オンブバッタ科オンブバッタ属に属するばった…
+j	お姉言葉	onekotoba	exaggerated way of speaki…
+j	オウンドメディア	ondomedia	企業などの組織自らが、配布・配信まで携わって全体を…
+j	オナガザル	onagazaru	「尾長猿」の学術的表記。
+j	オナニスト	onanisuto	onanist, masturbator
+j	オナニスム	onanisumu	
+j	オナニーする	onanisuru	
+j	オナニールーム	onanirumu	
+j	オニーロロジー	oniroroji	
+j	オノマトペ	onomatope	onomatopoeia
+j	オンザロック	onzarokku	グラスに大きく砕いた氷塊を入れて、比較的アルコール…
+j	オンスクリーン	onsukurin	being on-screen
+j	オンタリオ湖	ontarioko	
+j	オンデバイス	ondebaisu	サーバーに接続せずオフラインで処理が完結すること。…
+j	オンデマンド	ondemando	消費者の需要に応じてサービスを供給すること。
+j	オンバランス	onbaransu	貸借対照表に計上されていること。
+j	オンブズマン	onbuzuman	ombudsman
+j	同い年	onaidoshi	being born in the same ye…
+j	同じこと	onajikoto	
+j	同じひと	onajihito	
+j	同じもの	onajimono	
+j	同じような	onajiyona	
+j	女天下	onnadenka	the state of women being …
+j	女嫌い	onnagirai	misogyny (of an attitude)
+j	女家長	onnakacho	a matriarch, the female h…
+j	尾長猿	onagazaru	an Old World monkey
+j	尾長鮫	onagazame	thresher shark, a shark i…
+j	尾長鴨	onagagamo	northern pintail, Anas ac…
+j	尾長鶏	onagadori	an onagadori, a breed of …
+j	恩知らず	onshirazu	ungrateful
+j	恩義がある	ongigaaru	
+j	温情主義	onjoshugi	
+j	温水プール	onsuipuru	温水を使用したプール。
+j	温泉マーク	onsenmaku	a hot spring icon (♨)
+j	温血の	onketsuno	
+j	温風至	onpuitaru	七十二候の一つ。小暑の初候（日本・略本暦、中国・宣…
+j	自ずから	onozukara	by itself, naturally, on …
+j	隠密の	onmitsuno	
+j	隠田鮫	ondenzame	a Pacific sleeper shark (…
+j	音位転換	onitenkan	metathesis (the transposi…
+j	音名記号	onmeikigo	五線譜の基準となる音高を決定するために冒頭に書く記…
+j	音声メール	onseimeru	
+j	音声学	onseigaku	phonetics
+j	音声記号	onseikigo	phonetic symbol
+j	音楽界	ongakukai	音楽の分野。
+j	音楽隊	ongakutai	band (almost always a bra…
+j	音波探査	onpatansa	地震波を使用し、水底下の地質構造等を調べる手法。地…
+j	音波探知	onpatanpa	
+j	音素合流	onsogoryu	
+j	音韻転倒	onintento	前の子音と、次の子音が入れ替わること。間と後ろの母…
+j	音響効果	onkyokoka	synonym of 効果音 (kōkaon, “…
+j	音響学	onkyogaku	acoustics (the study of s…
+j	鬼燻	onifusube	Calvatia nipponica, a typ…
+j	黄熱病	onetsubyo	「黄熱」のこと。
+k	오늘 밤에	oneulbame	
+k	온고지신	ongojisin	
+k	온돌방	ondolbang	room with ondol (floor he…
+k	온두라스	onduraseu	Honduras (a country in Ce…
+k	온순하다	onsunhada	성격이 부드럽고 온화하다.
+k	온쉼표	onswimpyo	whole rest, 𝄻
+k	온저항	onjeohang	
+k	온타리오호	ontarioho	
+k	온화하다	onhwahada	to be gentle, to be affab…
+k	옹글다	onggeulda	to be intact, whole, unbr…
+k	옹호하다	onghohada	to protect; to defend
+e	on all fours	onallfours	1 meaning
+e	on the house	onthehouse	1 meaning
+e	on the rocks	ontherocks	1 meaning
+e	on the whole	onthewhole	1 meaning
+e	one and only	oneandonly	1 meaning
+e	one another	oneanother	1 meaning
+e	one at a time	oneatatime	1 meaning
+e	oneirology	oneirology	1 meaning
+e	onomastics	onomastics	1 meaning
+j	おならをする	onaraosuru	to fart
+j	おにがしま	onigashima	鬼が住んでいるとされる伝説の島。
+j	おのがじし	onogajishi	人それぞれに、銘々に。
+j	おのみあぶら	onomiabura	麻の実からとる油。食用や塗料の原料に使用される。あ…
+j	おんながらみ	onnagarami	"involving oneself with w…
+j	おんなこども	onnakodomo	女と子供。
+j	おんなごころ	onnagokoro	女性が持つ特有な優しさなどの心。
+j	おんなざかり	onnazakari	成熟し女性として一番美しい年頃。
+j	おんなのひと	onnanohito	大人の女。
+j	おんならしい	onnarashii	いかにも女性特有の性質を持っているさま。
+j	おんなわらべ	onnawarabe	女の子。少女。
+j	おんなわらわ	onnawarawa	女の子。少女。
+j	お上り様	onoborisan	
+j	オニオンリング	onionringu	onion ring
+j	オンラインゲーム	onraingemu	online game
+j	オーナードライバー	onadoraiba	自家用車を自分で運転する人。
+j	乳母日傘	onbahigasa	having been indulged and …
+j	女になる	onnaninaru	to mature; to gain indepe…
+j	女の人	onnanohito	a woman, a female adult p…
+j	女らしい	onnarashii	womanly, feminine
+j	女ホイホイ	onnahoihoi	
+j	女主人	onnashujin	一家や商店の女性のあるじ。女主。
+j	女庭訓	onnateikin	a Meiji-era homeschooling…
+j	女心	onnagokoro	the heart (mind, feelings…
+j	女教士	onnakyoshi	
+j	女武神	onnabushin	
+j	女祭司	onnasaishi	
+j	温泉療法	onsenryoho	
+j	音声合成	onseigosei	voice synthesis
+j	音声器官	onseikikan	speech organ
+j	音楽ゲーム	ongakugemu	rhythm game, music game (…
+j	音楽学	ongakugaku	musicology
+j	音楽用語	ongakuyogo	音楽に関する用語。
+j	鬼が笑う	onigawarau	来年の事を言えば鬼が笑う。
+j	鬼大嘴	onioohashi	
+k	오늘 아침	oneulachim	
+k	온난기단	onnangidan	지표면보다 상대적으로 기온이 높은 기단.
+k	온실 기체	onsilgiche	
+k	온실가루이	onsilgarui	glasshouse whitefly
+k	온실가스	onsilgaseu	태양복사 또는 지구복사를 흡수하여 재방출하는,…
+k	온전하다	onjeonhada	to be whole, to be intact…
+k	온주밀감	onjumilgam	satsuma (fruit)
+k	옹그리다	onggeurida	
+k	옹근달	onggeundal	'보름달'의 북한말.
+k	옹기옹기	onggionggi	
+k	옹알대다	ongaldaeda	'옹알거리다'.
+k	옹알옹알	ongarongal	
+k	옹졸하다	ongjolhada	narrow-minded; to be into…
+k	옹크리다	ongkeurida	
+e	on top of that	ontopofthat	1 meaning
+e	on your marks	onyourmarks	1 meaning
+e	oneiromancy	oneiromancy	1 meaning
+e	ontological	ontological	1 meaning
+j	おにくわがた	onikuwagata	甲虫目クワガタムシ科オニクワガタ属に属するくわがた…
+j	おんきょうりょうし	onkyoryoshi	音響量子: phonon
+j	おんなたらし	onnatarashi	lady-killer (uncaring wom…
+j	おんならしさ	onnarashisa	女らしいこと。
+j	お腹が空く	onakagasuku	to become hungry
+j	オナニークラブ	onanikurabu	
+j	オナニー三昧	onanisanmai	
+j	オンブズパーソン	onbuzupason	オンブズマン。
+j	オンラインストア	onrainsutoa	online store
+j	オンライン授業	onrainjugyo	離れた場所にいる学生と教員をネットワークで接続して…
+j	オンロードバイク	onrodobaiku	オンロードの走行を前提としたオートバイ、自転車。
+j	女たらし	onnatarashi	
+j	女らしさ	onnarashisa	
+j	女垂らし	onnatarashi	
+j	女族長	onnazokucho	a matriarch, the female h…
+j	女誑し	onnatarashi	
+j	女魔法師	onnamahoshi	A sorceress; a female sor…
+j	尾長梟	onagafukuro	a northern hawk owl
+j	温帯降雨林	ontaikourin	temperate rainforest
+j	温故知新	onkochishin	One should be able to der…
+j	温暖前線	ondanzensen	warm front
+j	温泉卵	onsentamago	hot spring egg; onsen tam…
+j	温泉玉子	onsentamago	「温泉卵」の別表記。
+j	音信不通	onshinfutsu	訪問や便りなどが無いこと。
+j	音楽学校	ongakugakko	音楽に関する専門教育を行う学校。音校。
+j	音楽理論	ongakuriron	
+j	音楽療法	ongakuryoho	music therapy
+j	音源モジュール	ongenmojuru	シンセサイザーから鍵盤など演奏するのに必要な部品を…
+j	音節文字	onsetsumoji	syllabic character, sylla…
+j	音響量子	onkyoryoshi	phonon
+j	鬼に金棒	oninikanabo	making someone or somethi…
+j	鬼鰺刺	oniajisashi	
+k	온난고기압	onnangogiap	같은 고도면(기압면)에서 기온이 주위보다 상대…
+k	온도감률	ondogamryul	
+k	온도보정	ondobojeong	수은기압계로 기압을 측정할 때 필요한 보정의 …
+k	온실효과	onsilhyogwa	greenhouse effect
+k	온정주의	onjeongjuui	이웃이나 아랫사람을 이해하고 따듯하게 대하려는…
+k	옹기종기	onggijonggi	in a huddle / cluster
+k	옹색하다	ongsaekhada	형편이 넉넉하지 못해 생활하기가 어렵다.
+k	옹잘대다	ongjaldaeda	'옹잘거리다'.
+e	on the one hand	ontheonehand	1 meaning
+e	one fell swoop	onefellswoop	1 meaning
+e	one-hit wonder	onehitwonder	2 meanings
+e	one-way street	onewaystreet	1 meaning
+e	one-way ticket	onewayticket	1 meaning
+e	only-begotten	onlybegotten	1 meaning
+e	onomatopoeia	onomatopoeia	2 meanings
+e	onychophoran	onychophoran	1 meaning
+j	おなかがゆるい	onakagayurui	"one's belly is loose": (…
+j	おんなぶげいしゃ	onnabugeisha	女武芸者: a female martial ar…
+j	おんなわらわべ	onnawarawabe	（複数人の）女子。
+j	お腹が空いた	onakagasuita	[I am / someone is] hungry
+j	お願いだから	onegaidakara	
+j	オニオングラタン	onionguratan	
+j	オンアラハシャノウ	onarahashano	An esoteric Buddhist mant…
+j	オングストローム	ongusutoromu	angstrom
+j	オンラインカジノ	onrainkajino	施設に出向かずにインターネットに接続して賭博を行う…
+j	オンラインショップ	onrainshoppu	online shop
+j	唵阿毘羅吽欠	onabiraunken	oṃ a vi ra hūṃ khaṃ: an i…
+j	女の子っぽい	onnanokoppoi	
+j	女武芸者	onnabugeisha	A female practitioner of …
+j	女預言者	onnayogensha	
+j	温室効果	onshitsukoka	the greenhouse effect
+j	温熱療法	onnetsuryoho	heat therapy
+j	音声合成器	onseigoseiki	
+j	音声学者	onseigakusha	音声学を研究する科学者。
+j	音楽レーベル	ongakureberu	
+j	音楽学部	ongakugakubu	歌唱、演奏などの音楽を教授・研究する学部。
+j	音楽室	ongakushitsu	学校での音楽の授業や楽器の演奏ができる設備のある部…
+j	音楽的な	ongakutekina	
+j	音素分裂	onsobunretsu	
+j	鬼木走	onikibashiri	
+j	鬼糸巻鱏	oniitomakiei	manta ray; specifically, …
+k	온난저기압	onnanjeogiap	주위보다 중심부가 따뜻한 저기압.
+k	온대저기압	ondaejeogiap	온대 지방에서 발생한 저기압.
+k	온대하우기후	ondaehaugihu	여름에는 남서 계절풍(몬순)에 의해 매우 덥고…
+k	온도역전	ondoyeokjeon	
+k	온도조절기	ondojojeolgi	
+k	옹개옹개	onggaeonggae	
+k	옹근가림	onggeungarim	'개기식'의 북한말.
+k	옹근일식	onggeunilsik	'개기일식'의 북한말.
+k	옹당이지다	ongdangijida	
+k	옹스트롬	ongseuteurom	
+k	옹알거리다	ongalgeorida	나직한 목소리로 똑똑하지 않게 혼자 입속말을 …
+k	옹잘옹잘	ongjarongjal	
+e	on the contrary	onthecontrary	1 meaning
+e	on the safe side	onthesafeside	1 meaning
+e	once and for all	onceandforall	1 meaning
+e	once upon a time	onceuponatime	1 meaning
+e	one for the road	onefortheroad	1 meaning
+e	one-night stand	onenightstand	1 meaning
+e	oneirophrenia	oneirophrenia	1 meaning
+j	おなかペコペコ	onakapekopeko	
+j	お涙頂戴	onamidachodai	
+j	お願いします	onegaishimasu	Please (emphasize a reque…
+j	オオノコギリザメ	onokogirizame	サカタザメ目ノコギリエイ科に属する魚類。以前は「ノ…
+j	オンライン診療	onrainshinryo	直接病院に行かずに、ビデオ会議などを用いて診察を行…
+j	オンライン飲み会	onrainnomikai	各自が自宅からビデオ会議に接続して擬似的に行う飲み…
+j	女友達	onnatomodachi	
+j	尾長犬鷲	onagainuwashi	
+j	恩を仇で返す	onoadadekaesu	to return evil for good
+j	温厚篤実	onkotokujitsu	having a gentle and since…
+j	温良恭倹譲	onryokyokenjo	Be cordial, kind, courteo…
+j	音楽大学	ongakudaigaku	音楽系の単科大学。
+j	音楽学者	ongakugakusha	音楽学を研究する科学者。
+k	오늘 저녁	oneuljeonyeok	
+k	오늘저녁	oneuljeonyeok	
+k	온난전선	onnanjeonseon	전선 중에서 따뜻한 기단이 찬 기단 쪽으로 이…
+k	옹개종개	onggaejonggae	
+k	옹근월식	onggeunwolsik	'개기월식'의 북한말.
+k	옹성대다	ongseongdaeda	'옹성거리다'.
+k	옹잘거리다	ongjalgeorida	불평이나 원망, 탄식 따위를 입속말로 혼자 자…
+k	옹졸봉졸	ongjolbongjol	
+e	on the other hand	ontheotherhand	1 meaning
+e	one step at a time	onestepatatime	1 meaning
+e	one-child policy	onechildpolicy	1 meaning
+e	one-dimensional	onedimensional	1 meaning
+e	one-party system	onepartysystem	1 meaning
+j	おんなのこすわり	onnanokosuwari	a sitting position simila…
+j	女の子らしい	onnanokorashii	
+j	温冷交代浴	onreikotaiyoku	alternating hot-cold bath
+j	温泉療法学	onsenryohogaku	
+j	音源ライブラリ	ongenraiburari	
+j	音源ライブラリー	ongenraiburari	
+j	音響音声学	onkyoonseigaku	acoustic phonetics
+j	鬼達磨虎魚	onidarumaokoze	
+j	鬼達磨鰧	onidarumaokoze	reef stonefish, Synanceia…
+k	온혈동물	onhyeoldongmul	endotherm, warm-blooded a…
+k	옹긋옹긋	onggeudonggeut	
+k	옹기옹기하다	onggionggihada	
+k	옹송그리다	ongsonggeurida	
+k	옹송크리다	ongsongkeurida	
+k	옹알옹알하다	ongarongalhada	
+e	on a regular basis	onaregularbasis	1 meaning
+e	once in a blue moon	onceinabluemoon	1 meaning
+e	one after another	oneafteranother	1 meaning
+e	one moment, please	onemomentplease	1 meaning
+j	お腹が空いている	onakagasuiteiru	
+j	オニチカラシバ	onichikarashiba	
+j	オンラインショッピング	onrainshoppingu	online shopping
+j	温室育ち	onshitsusodachi	sheltered upbringing
+j	温熱性紅斑	onnetsuseikohan	温熱に長くあたることによって皮膚に生じる赤褐色の網…
+j	音楽高等学校	ongakukotogakko	音楽に関する課程を設置する高等学校。音高。
+j	音素配列論	onsohairetsuron	
+k	옹근이름씨	onggeunireumssi	(문법) 자립명사.
+k	옹긋봉긋	onggeutbonggeut	
+k	옹기종기하다	onggijonggihada	
+k	옹성거리다	ongseonggeorida	여러 사람이 모여 조금 소란스럽게 소곤거리며 …
+k	옹송망송	ongsongmangsong	
+e	on pins and needles	onpinsandneedles	1 meaning
+e	on-base percentage	onbasepercentage	1 meaning
+j	お願いいたします	onegaiitashimasu	
+j	オニオングラタンスープ	onionguratansupu	French onion soup
+j	オニテンジクネズミ	onitenjikunezumi	
+j	同じ穴の狢	onajiananomujina	seemingly not part of the…
+j	温室効果ガス	onshitsukokagasu	a greenhouse gas
+j	音声合成ソフト	onseigoseisofuto	
+j	鬼天竺鼠	onitenjikunezumi	capybara (Hydrochoerus hy…
+k	온실 속의 화초	onsilsoguihwacho	"flower in a greenhouse";…
+k	옹개옹개하다	onggaeonggaehada	
+k	옹긋쫑긋	onggeutjjonggeut	
+k	옹성옹성	ongseongongseong	
+k	옹잘옹잘하다	ongjarongjalhada	
+e	one hundred million	onehundredmillion	1 meaning
+e	one hundred percent	onehundredpercent	2 meanings
+j	お名前は何ですか	onamaewanandesuka	
+j	お腹が空いています	onakagasuiteimasu	
+j	オンガスジシマドジョウ	ongasujishimadojo	ナミスジシマドジョウの亜種。かつてはスジシマドジョ…
+j	応能負担の原則	onofutannogensoku	租税原則の一つ。担税力のある者はその経済的な能力に…
+k	오늘적끝남	oneuljeokkkeunnam	
+k	온대편서풍	ondaepyeonseopung	아열대고압대에서 대략 위도 60도까지의 온대지…
+k	옹개종개하다	onggaejonggaehada	
+k	옹졸봉졸하다	ongjolbongjolhada	
+e	on your mark, get set, go	onyourmarkgetsetgo	1 meaning
+e	once bitten, twice shy	oncebittentwiceshy	1 meaning
+j	オンマイタレイヤソワカ	onmaitareiyasowaka	An esoteric Buddhist mant…
+j	温暖湿潤気候	ondanshitsujunkiko	温帯のうち、平均気温の平年値が22℃以上の月があり…
+j	音波水中探知機	onpasuichutanchiki	
+j	鬼瓦にも化粧	onigawaranimokesho	どれだけ醜くとも、化粧をすれば見栄えがよくなる。
+k	옹긋옹긋하다	onggeudonggeuthada	
+e	on the same wavelength	onthesamewavelength	1 meaning
+e	one's days are numbered	onesdaysarenumbered	1 meaning
+j	同じコインの裏表	onajikoinnouraomote	
+j	同じ船に乗っている	onajifuneninotteiru	
+j	鬼の居ぬ間の洗濯	oninoinumanosentaku	遠慮しなければならない人がいない間に十分にくつろい…
+k	옹긋봉긋하다	onggeutbonggeuthada	
+k	옹송망송하다	ongsongmangsonghada	
+e	one country, two systems	onecountrytwosystems	1 meaning
+j	おのれに忠実であれ	onorenichujitsudeare	to thine own self be true
+k	옹긋쫑긋하다	onggeutjjonggeuthada	
+k	옹성옹성하다	ongseongongseonghada	
+j	唵蘇羅薩縛帝曳娑婆訶	onsorasobateieisowaka	an esoteric Buddhist mant…
+j	唵訶訶訶尾娑摩曳娑婆訶	onkakakabisanmaeisowaka	An esoteric Buddhist mant…
+j	お腹がいっぱいになりました	onakagaippaininarimashita	
+k	온난형 폐색전선	onnanhyeongpyesaekjeonseon	한랭전선은 온난전선보다 이동속도가 빠르기 때문…
+e	one's bark is worse than one's bite	onesbarkisworsethanonesbite	1 meaning
+e	one swallow does not a summer make	oneswallowdoesnotasummermake	1 meaning
+j	女賢しゅうして牛売り損なう	onnasakashushiteushiurisokonau	A clever woman can't sell…
+e	one may as well hang for a sheep as a lamb	onemayaswellhangforasheepasalamb	1 meaning
+k	오는 정이 있어야 가는 정이 있다	oneunjeongiiteoyaganeunjeongiitda	
+j	己に如かざる者を友とするなかれ	onorenishikazarumonootomotosurunakare	Do not befriend people wh…
+j	音声高さアクセント	onjotakasaakusentoonseitakasaakusento	
+k	오뉴월 닭이 오죽하여 지붕에 올라갈까	onyuwoldakiojukhayeojibungeolragalkka	곡식이 귀한 오뉴월에 닭이 초가지붕을 허비러 …
+j	己の父を知る者は賢い子である	onorenochichioshirumonowakashikoikodearu	

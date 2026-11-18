@@ -1,0 +1,2 @@
+e	bzzt	bzzt	1 meaning
+e	bézier curve	bziercurve	1 meaning

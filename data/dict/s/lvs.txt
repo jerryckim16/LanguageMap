@@ -1,0 +1,2 @@
+e	v sign	vsign	1 meaning
+e	västerbotten	vsterbotten	1 meaning

@@ -1,0 +1,314 @@
+k	특	특	
+k	틀	틀	frame, framework
+k	틈	틈	crack; gap
+k	트다	트다	to open, to clear (a way,…
+k	트랙	트랙	track
+k	트램	트램	tram
+k	트랩	트랩	
+k	트럭	트럭	truck
+k	트롤	트롤	troll
+k	트름	트름	
+k	트리	트리	
+k	트릴	트릴	
+k	트림	트림	burp, belching
+k	트윈	트윈	
+k	트윗	트윗	
+k	트젠	트젠	
+k	트집	트집	공연히 조그만 흠을 들추어내어 불평을 하거나 …
+k	특가	특가	
+k	특강	특강	
+k	특검	특검	
+k	특공	특공	
+k	특과	특과	
+k	특권	특권	privilege
+k	특근	특근	
+k	특급	특급	
+k	특기	특기	specialty (of a person)
+k	특단	특단	보통과 구별되게 다름.
+k	특대	특대	
+k	특등	특등	
+k	특례	특례	special case
+k	특매	특매	
+k	특명	특명	
+k	특무	특무	
+k	특별	특별	The state or quality of b…
+k	특보	특보	special report
+k	특사	특사	envoy, emissary (usually …
+k	특산	특산	
+k	특상	특상	
+k	특색	특색	special characteristic, d…
+k	특선	특선	
+k	특설	특설	
+k	특성	특성	characteristic
+k	특수	특수	specialness
+k	특실	특실	
+k	특약	특약	
+k	특용	특용	
+k	특위	특위	
+k	특유	특유	having a particular, spec…
+k	특이	특이	
+k	특장	특장	
+k	특전	특전	
+k	특정	특정	particular, specific, cer…
+k	특종	특종	
+k	특지	특지	
+k	특진	특진	
+k	특질	특질	characteristic; property;…
+k	특집	특집	
+k	특징	특징	distinguishing characteri…
+k	특차	특차	
+k	특채	특채	
+k	특칭	특칭	
+k	특파	특파	
+k	특품	특품	
+k	특필	특필	
+k	특허	특허	
+k	특혜	특혜	special privilege
+k	특활	특활	
+k	특효	특효	
+k	특히	특히	in particular, notably
+k	튼살	튼살	stretch mark
+k	틀니	틀니	dentures; false teeth
+k	틀다	틀다	to turn, twist, wrench
+k	틀림	틀림	
+k	틈새	틈새	
+k	트래커	트래커	
+k	트래픽	트래픽	
+k	트랙볼	트랙볼	
+k	트랙타	트랙타	
+k	트랙터	트랙터	tractor
+k	트랜스	트랜스	trans
+k	트럼펫	트럼펫	trumpet (instrument)
+k	트럼프	트럼프	(a pack or deck of) playi…
+k	트렁크	트렁크	trunk, suitcase
+k	트레마	트레마	
+k	트레이	트레이	tray (object on which thi…
+k	트레인	트레인	
+k	트레일	트레일	
+k	트렌드	트렌드	trend
+k	트렌치	트렌치	trench
+k	트력제	트력제	Donald Trump
+k	트로이	트로이	
+k	트로트	트로트	trot, a 20th century genr…
+k	트로프	트로프	trope (something recurrin…
+k	트로피	트로피	trophy
+k	트롤리	트롤리	trolley
+k	트롤링	트롤링	
+k	트롬본	트롬본	
+k	트루먼	트루먼	
+k	트뤼도	트뤼도	a transliteration of the …
+k	트리거	트리거	
+k	트리다	트리다	(몇몇 동사의 '아', '어' 연결형 또는 어…
+k	트리오	트리오	(음악) 삼중창, 삼중주.
+k	트리콧	트리콧	
+k	트리톤	트리톤	
+k	트리튬	트리튬	
+k	트베리	트베리	
+k	트위터	트위터	Twitter (a social-network…
+k	트위트	트위트	
+k	트윈룸	트윈룸	
+k	트이다	트이다	get cleared, be opened
+k	트페미	트페미	a feminist on Twitter.
+k	특공대	특공대	적을 기습 공격하기 위하여 특별히 편성하여 훈…
+k	특권층	특권층	
+k	특급시	특급시	a special-level city
+k	특기병	특기병	
+k	특기생	특기생	
+k	특기자	특기자	
+k	특등실	특등실	
+k	특등품	특등품	
+k	특례법	특례법	
+k	특매장	특매장	
+k	특별반	특별반	
+k	특별법	특별법	
+k	특별비	특별비	
+k	특별상	특별상	
+k	특별석	특별석	
+k	특별시	특별시	special city (South Korea…
+k	특별한	특별한	
+k	특별히	특별히	especially, in particular…
+k	특산물	특산물	a (regional) speciality
+k	특산종	특산종	
+k	특산품	특산품	
+k	특수대	특수대	
+k	특수복	특수복	
+k	특수부	특수부	
+k	특수성	특수성	
+k	특수직	특수직	
+k	특수층	특수층	
+k	특약점	특약점	
+k	특유성	특유성	
+k	특이성	특이성	
+k	특이점	특이점	
+k	특이형	특이형	
+k	특전사	특전사	
+k	특정물	특정물	
+k	특정인	특정인	
+k	특정주	특정주	
+k	특지가	특지가	
+k	특집극	특집극	
+k	특집호	특집호	
+k	특징적	특징적	
+k	특파원	특파원	special correspondent; on…
+k	특허권	특허권	
+k	특허법	특허법	
+k	특허증	특허증	
+k	특허청	특허청	
+k	특허품	특허품	
+k	특화점	특화점	
+k	특효약	특효약	
+k	튼튼한	튼튼한	
+k	튼튼히	튼튼히	strongly; firmly
+k	틀딱충	틀딱충	boomer, out-of-touch old …
+k	틀리다	틀리다	to become turned, twisted
+k	틀이다	틀이다	틀리다의 옛말.
+k	틈나다	틈나다	
+k	틈서리	틈서리	
+k	틈타다	틈타다	
+k	틈틈이	틈틈이	
+k	트라우마	트라우마	
+k	트라이플	트라이플	
+k	트란스발	트란스발	
+k	트래픽콘	트래픽콘	
+k	트랜스맨	트랜스맨	
+k	트랜잭션	트랜잭션	
+k	트램펄린	트램펄린	trampoline (gymnastic and…
+k	트러스트	트러스트	trust (company)
+k	트럼페터	트럼페터	
+k	트럼페트	트럼페트	
+k	트레이너	트레이너	trainer (coach)
+k	트레이닝	트레이닝	training
+k	트레일러	트레일러	견인차 뒤에 연결하는 운반 차량.
+k	트렝가누	트렝가누	
+k	트로이카	트로이카	troika (carriage)
+k	트로필륨	트로필륨	tropylium
+k	트르들로	트르들로	속이 비어 있고 원기둥 모양으로 생긴, 중부 …
+k	트리데칸	트리데칸	
+k	트리아지	트리아지	
+k	트리코산	트리코산	
+k	트리폴리	트리폴리	Tripoli (the capital of L…
+k	트리푸라	트리푸라	
+k	트릴레마	트릴레마	
+k	트림하다	트림하다	to burp; to belch
+k	트빌리시	트빌리시	Tbilisi (the capital of G…
+k	트위스트	트위스트	
+k	트윈테일	트윈테일	
+k	특공무술	특공무술	
+k	특권계급	특권계급	
+k	특근수당	특근수당	
+k	특무대장	특무대장	
+k	특무상사	특무상사	
+k	특별규정	특별규정	
+k	특별나다	특별나다	
+k	특별담보	특별담보	
+k	특별명령	특별명령	
+k	특별방송	특별방송	
+k	특별배당	특별배당	
+k	특별법원	특별법원	
+k	특별사면	특별사면	
+k	특별선거	특별선거	
+k	특별예금	특별예금	
+k	특별은행	특별은행	
+k	특별임용	특별임용	
+k	특별하다	특별하다	to be special or exceptio…
+k	특별형법	특별형법	
+k	특별활동	특별활동	
+k	특별회계	특별회계	
+k	특수교육	특수교육	
+k	특수문자	특수문자	
+k	특수법인	특수법인	
+k	특수부대	특수부대	special forces
+k	특수우편	특수우편	
+k	특수은행	특수은행	
+k	특수하다	특수하다	special, exceptional
+k	특수회사	특수회사	
+k	특용작물	특용작물	
+k	특유하다	특유하다	
+k	특이체질	특이체질	
+k	특이하다	특이하다	unusual, unique, peculiar…
+k	특정가격	특정가격	
+k	특정자본	특정자본	
+k	특정하다	특정하다	particular, specific, cer…
+k	특종기사	특종기사	
+k	특징짓다	특징짓다	to characterize, mark, di…
+k	특채하다	특채하다	
+k	특출하다	특출하다	
+k	특특하다	특특하다	천 따위의 바탕이 촘촘하고 조금 두껍다.
+k	특허권자	특허권자	
+k	특허출원	특허출원	
+k	특혜관세	특혜관세	
+k	특혜무역	특혜무역	
+k	튼실하다	튼실하다	
+k	튼튼하다	튼튼하다	sturdy, strong
+k	틀려먹다	틀려먹다	
+k	틀려지다	틀려지다	
+k	틀림없다	틀림없다	to be precisely correct
+k	틀림없이	틀림없이	correctly, errorlessly
+k	틀어막다	틀어막다	
+k	틀어잡다	틀어잡다	
+k	틀어쥐다	틀어쥐다	
+k	틀어지다	틀어지다	
+k	틈바구니	틈바구니	
+k	트라이베카	트라이베카	
+k	트라이앵글	트라이앵글	triangle
+k	트라이포드	트라이포드	
+k	트라키아어	트라키아어	
+k	트랜스남성	트랜스남성	
+k	트랜스미터	트랜스미터	
+k	트랜스젠더	트랜스젠더	transgender
+k	트랜스지방	트랜스脂肪	trans fat
+k	트랜스지방	트랜스지방	trans fat
+k	트랜스펙션	트랜스펙션	
+k	트랜지스터	트랜지스터	transistor
+k	트램트레인	트램트레인	
+k	트럼프주의	트럼프주의	
+k	트렌치코트	트렌치코트	
+k	트로이목마	트로이목마	
+k	트롤리버스	트롤리버스	trolleybus
+k	트롱프뢰유	트롱프뢰유	trompe l'oeil
+k	트루바두르	트루바두르	
+k	트리니다드	트리니다드	Trinidad
+k	트리부누스	트리부누스	
+k	트리아콘탄	트리아콘탄	
+k	트리코세인	트리코세인	
+k	특별인출권	특별인출권	
+k	특별자치도	특별자치도	도중에서 국가의 기능중 일부가 이양된 도. 제…
+k	특별행정구	특별행정구	
+k	특허 괴물	특허 괴물	
+k	틀어박히다	틀어박히다	
+k	트라이데케인	트라이데케인	
+k	트라이아스기	트라이아스기	
+k	트라이애슬론	트라이애슬론	
+k	트란실바니아	트란실바니아	
+k	트랜스 음악	트랜스 음악	
+k	트랜스클루전	트랜스클루전	
+k	트랜스포비아	트랜스포비아	
+k	트럭 운전사	트럭 운전사	
+k	트레이닝바지	트레이닝바지	
+k	트로이 목마	트로이 木馬	Trojan horse
+k	트로이 목마	트로이 목마	Trojan horse
+k	트로츠키주의	트로츠키주의	
+k	트롬보니스트	트롬보니스트	
+k	트리케라톱스	트리케라톱스	triceratops
+k	트리푸라 주	트리푸라 주	
+k	특수군사작전	특수군사작전	
+k	트라이아콘테인	트라이아콘테인	
+k	트란스옥시아나	트란스옥시아나	
+k	트랜스베스티즘	트랜스베스티즘	
+k	트로이아 전쟁	트로이아 전쟁	
+k	트루아리비에르	트루아리비에르	
+k	트리스탄다쿠냐	트리스탄다쿠냐	
+k	트리파노소마증	트리파노소마증	
+k	트리플 플레이	트리플 플레이	
+k	트위스트 타이	트위스트 타이	
+k	트란스니스트리아	트란스니스트리아	Transnistria (a geographi…
+k	트란스발 공화국	트란스발 공화국	
+k	트래킹 오래걷기	트래킹 오래걷기	
+k	트레이싱 페이퍼	트레이싱 페이퍼	
+k	트리니대드토바고	트리니대드토바고	나라 이름 '트리니다드 토바고'의 북한말.
+k	틀린 그림 찾기	틀린 그림 찾기	synonym of 다른 그림 찾기 (dare…
+k	트랜지스터 라디오	트랜지스터 라디오	
+k	트리니다드 토바고	트리니다드 토바고	Trinidad and Tobago (a co…
+k	트리니대드 토바고	트리니대드 토바고	
+k	트라이나이트로톨루엔	트라이나이트로톨루엔	
+k	트라이메틸렌트라이나이트라민	트라이메틸렌트라이나이트라민	헥사메틸렌테트라민을 처리하여 얻을 수 있는 바…

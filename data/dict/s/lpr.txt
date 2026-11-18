@@ -1,0 +1,578 @@
+e	pro	pro	1 meaning
+e	pry	pry	1 meaning
+e	pram	pram	1 meaning
+e	pray	pray	3 meanings
+e	prey	prey	1 meaning
+e	prod	prod	1 meaning
+e	prom	prom	1 meaning
+e	prop	prop	1 meaning
+e	praia	praia	1 meaning
+e	prank	prank	1 meaning
+e	prawn	prawn	1 meaning
+e	press	press	6 meanings
+e	preta	preta	1 meaning
+e	price	price	2 meanings
+e	prick	prick	1 meaning
+e	pride	pride	5 meanings
+e	prime	prime	12 meanings
+e	print	print	2 meanings
+e	prion	prion	1 meaning
+e	prior	prior	2 meanings
+e	prism	prism	2 meanings
+e	prize	prize	9 meanings
+e	probe	probe	4 meanings
+e	promo	promo	1 meaning
+e	proof	proof	1 meaning
+e	prose	prose	1 meaning
+e	protégé	protg	1 meaning
+e	proud	proud	4 meanings
+e	prove	prove	1 meaning
+e	provo	provo	1 meaning
+e	proxy	proxy	2 meanings
+e	prune	prune	1 meaning
+e	précis	prcis	1 meaning
+e	prague	prague	1 meaning
+e	praise	praise	3 meanings
+e	prajna	prajna	1 meaning
+e	pravda	pravda	1 meaning
+e	prayer	prayer	2 meanings
+e	precum	precum	1 meaning
+e	preeti	preeti	1 meaning
+e	prefab	prefab	2 meanings
+e	prefer	prefer	1 meaning
+e	prefix	prefix	1 meaning
+e	pretty	pretty	1 meaning
+e	priest	priest	1 meaning
+e	primer	primer	6 meanings
+e	prince	prince	2 meanings
+e	prison	prison	1 meaning
+e	privet	privet	1 meaning
+e	pro tem	protem	2 meanings
+e	pro-war	prowar	1 meaning
+e	profit	profit	1 meaning
+e	prolix	prolix	1 meaning
+e	prompt	prompt	2 meanings
+e	proper	proper	8 meanings
+e	proton	proton	1 meaning
+e	praetor	praetor	1 meaning
+e	prairie	prairie	1 meaning
+e	praline	praline	1 meaning
+e	pramana	pramana	1 meaning
+e	prancer	prancer	1 meaning
+e	precede	precede	1 meaning
+e	precise	precise	2 meanings
+e	predict	predict	1 meaning
+e	preface	preface	1 meaning
+e	preheat	preheat	1 meaning
+e	prelude	prelude	1 meaning
+e	premise	premise	3 meanings
+e	prepare	prepare	2 meanings
+e	prequel	prequel	1 meaning
+e	present	present	4 meanings
+e	presley	presley	1 meaning
+e	presume	presume	1 meaning
+e	pretend	pretend	1 meaning
+e	pretext	pretext	1 meaning
+e	pretzel	pretzel	1 meaning
+e	prevent	prevent	1 meaning
+e	preview	preview	4 meanings
+e	pricing	pricing	1 meaning
+e	prickle	prickle	1 meaning
+e	primacy	primacy	1 meaning
+e	primary	primary	1 meaning
+e	primate	primate	2 meanings
+e	pringle	pringle	1 meaning
+e	printed	printed	1 meaning
+e	printer	printer	3 meanings
+e	pripyat	pripyat	2 meanings
+e	privacy	privacy	2 meanings
+e	private	private	8 meanings
+e	prizren	prizren	1 meaning
+e	pro rata	prorata	1 meaning
+e	pro-verb	proverb	1 meaning
+e	problem	problem	2 meanings
+e	proceed	proceed	1 meaning
+e	process	process	3 meanings
+e	prodigy	prodigy	3 meanings
+e	prodrug	prodrug	1 meaning
+e	produce	produce	1 meaning
+e	product	product	5 meanings
+e	profane	profane	3 meanings
+e	profile	profile	5 meanings
+e	progeny	progeny	1 meaning
+e	program	program	5 meanings
+e	project	project	2 meanings
+e	proline	proline	1 meaning
+e	promise	promise	2 meanings
+e	promote	promote	1 meaning
+e	pronoia	pronoia	1 meaning
+e	pronoun	pronoun	1 meaning
+e	propane	propane	1 meaning
+e	prophet	prophet	2 meanings
+e	propose	propose	3 meanings
+e	prorate	prorate	1 meaning
+e	prosaic	prosaic	2 meanings
+e	prosody	prosody	1 meaning
+e	prosper	prosper	1 meaning
+e	protect	protect	1 meaning
+e	protein	protein	2 meanings
+e	protest	protest	2 meanings
+e	protist	protist	1 meaning
+e	protium	protium	1 meaning
+e	proudly	proudly	1 meaning
+e	proverb	proverb	1 meaning
+e	provide	provide	2 meanings
+e	proviso	proviso	1 meaning
+e	provoke	provoke	1 meaning
+e	provost	provost	3 meanings
+e	prowess	prowess	2 meanings
+e	prudent	prudent	1 meaning
+e	prussia	prussia	2 meanings
+e	practice	practice	4 meanings
+e	practise	practise	1 meaning
+e	prairial	prairial	1 meaning
+e	pratfall	pratfall	1 meaning
+e	preacher	preacher	1 meaning
+e	preamble	preamble	1 meaning
+e	precious	precious	1 meaning
+e	predator	predator	1 meaning
+e	pregnant	pregnant	1 meaning
+e	prehnite	prehnite	1 meaning
+e	premiere	premiere	1 meaning
+e	premises	premises	1 meaning
+e	premolar	premolar	1 meaning
+e	presence	presence	2 meanings
+e	preserve	preserve	1 meaning
+e	pressure	pressure	4 meanings
+e	prestige	prestige	1 meaning
+e	pretoria	pretoria	1 meaning
+e	pretrial	pretrial	1 meaning
+e	previous	previous	1 meaning
+e	priapism	priapism	1 meaning
+e	price tag	pricetag	1 meaning
+e	prideful	prideful	1 meaning
+e	primeval	primeval	1 meaning
+e	primrose	primrose	1 meaning
+e	princess	princess	2 meanings
+e	printing	printing	1 meaning
+e	priority	priority	1 meaning
+e	prisoner	prisoner	2 meanings
+e	pristina	pristina	1 meaning
+e	pro forma	proforma	1 meaning
+e	probable	probable	2 meanings
+e	probably	probably	1 meaning
+e	proceeds	proceeds	1 meaning
+e	proclaim	proclaim	1 meaning
+e	prodigal	prodigal	1 meaning
+e	prodrome	prodrome	1 meaning
+e	producer	producer	3 meanings
+e	profound	profound	1 meaning
+e	progeria	progeria	1 meaning
+e	progress	progress	2 meanings
+e	prohibit	prohibit	1 meaning
+e	prolapse	prolapse	2 meanings
+e	prologue	prologue	1 meaning
+e	properly	properly	1 meaning
+e	property	property	6 meanings
+e	prophecy	prophecy	1 meaning
+e	propiska	propiska	1 meaning
+e	propolis	propolis	1 meaning
+e	proposal	proposal	3 meanings
+e	prospect	prospect	1 meaning
+e	prostate	prostate	1 meaning
+e	protease	protease	1 meaning
+e	protocol	protocol	2 meanings
+e	protrude	protrude	1 meaning
+e	provence	provence	1 meaning
+e	provençal	provenal	1 meaning
+e	proverbs	proverbs	1 meaning
+e	province	province	1 meaning
+e	proxy war	proxywar	1 meaning
+e	prudence	prudence	1 meaning
+e	prurient	prurient	1 meaning
+e	pruzhany	pruzhany	1 meaning
+e	practical	practical	3 meanings
+e	pragmatic	pragmatic	1 meaning
+e	prank call	prankcall	1 meaning
+e	prankster	prankster	1 meaning
+e	precedent	precedent	2 meanings
+e	precipice	precipice	1 meaning
+e	precision	precision	3 meanings
+e	precocity	precocity	1 meaning
+e	precuneus	precuneus	1 meaning
+e	precursor	precursor	2 meanings
+e	predation	predation	1 meaning
+e	predatory	predatory	3 meanings
+e	predicate	predicate	2 meanings
+e	preferans	preferans	1 meaning
+e	preferred	preferred	1 meaning
+e	pregnancy	pregnancy	1 meaning
+e	prejudice	prejudice	2 meanings
+e	prescribe	prescribe	2 meanings
+e	preseason	preseason	1 meaning
+e	president	president	3 meanings
+e	presidium	presidium	1 meaning
+e	pressburg	pressburg	1 meaning
+e	preterite	preterite	2 meanings
+e	prevalent	prevalent	1 meaning
+e	prey nokor	preynokor	1 meaning
+e	price list	pricelist	1 meaning
+e	priceless	priceless	1 meaning
+e	priestess	priestess	1 meaning
+e	prime time	primetime	1 meaning
+e	principal	principal	3 meanings
+e	principle	principle	4 meanings
+e	privateer	privateer	1 meaning
+e	privatize	privatize	1 meaning
+e	privilege	privilege	1 meaning
+e	proactive	proactive	1 meaning
+e	probation	probation	2 meanings
+e	proboscis	proboscis	1 meaning
+e	procedure	procedure	4 meanings
+e	processor	processor	1 meaning
+e	proclitic	proclitic	1 meaning
+e	procreate	procreate	1 meaning
+e	procyonid	procyonid	1 meaning
+e	profanity	profanity	2 meanings
+e	professor	professor	1 meaning
+e	profiling	profiling	1 meaning
+e	profiteer	profiteer	1 meaning
+e	projector	projector	1 meaning
+e	prolactin	prolactin	1 meaning
+e	prolixity	prolixity	1 meaning
+e	promenade	promenade	1 meaning
+e	prominent	prominent	3 meanings
+e	promising	promising	1 meaning
+e	promotion	promotion	2 meanings
+e	pronghorn	pronghorn	1 meaning
+e	pronounce	pronounce	1 meaning
+e	proofread	proofread	1 meaning
+e	propagate	propagate	1 meaning
+e	propagule	propagule	1 meaning
+e	propargyl	propargyl	1 meaning
+e	propeller	propeller	1 meaning
+e	propylene	propylene	1 meaning
+e	prosecute	prosecute	1 meaning
+e	prostrate	prostrate	1 meaning
+e	protester	protester	1 meaning
+e	prothorax	prothorax	1 meaning
+e	protostar	protostar	1 meaning
+e	prototype	prototype	1 meaning
+e	protozoan	protozoan	1 meaning
+e	provident	provident	1 meaning
+e	provision	provision	3 meanings
+e	provolone	provolone	1 meaning
+e	pragmatics	pragmatics	1 meaning
+e	pragmatism	pragmatism	1 meaning
+e	pragmatist	pragmatist	1 meaning
+e	prairie dog	prairiedog	1 meaning
+e	prayer book	prayerbook	1 meaning
+e	precarious	precarious	1 meaning
+e	precaution	precaution	1 meaning
+e	precession	precession	1 meaning
+e	prediction	prediction	1 meaning
+e	preeminent	preeminent	1 meaning
+e	prefecture	prefecture	1 meaning
+e	preferable	preferable	1 meaning
+e	preference	preference	4 meanings
+e	prehistory	prehistory	3 meanings
+e	prep school	prepschool	2 meanings
+e	prepayment	prepayment	1 meaning
+e	presbyopia	presbyopia	1 meaning
+e	prescriber	prescriber	1 meaning
+e	present-day	presentday	1 meaning
+e	presentism	presentism	1 meaning
+e	presidency	presidency	2 meanings
+e	presumably	presumably	1 meaning
+e	pretty much	prettymuch	1 meaning
+e	prevention	prevention	1 meaning
+e	preventive	preventive	1 meaning
+e	previously	previously	1 meaning
+e	price index	priceindex	1 meaning
+e	pride month	pridemonth	1 meaning
+e	prima donna	primadonna	2 meanings
+e	primary key	primarykey	1 meaning
+e	primordial	primordial	1 meaning
+e	prioritize	prioritize	1 meaning
+e	prison camp	prisoncamp	1 meaning
+e	prison cell	prisoncell	1 meaning
+e	private key	privatekey	1 meaning
+e	private law	privatelaw	1 meaning
+e	privileged	privileged	1 meaning
+e	prize money	prizemoney	1 meaning
+e	processing	processing	1 meaning
+e	procession	procession	1 meaning
+e	prodigious	prodigious	1 meaning
+e	producible	producible	1 meaning
+e	production	production	1 meaning
+e	productive	productive	2 meanings
+e	profession	profession	1 meaning
+e	proficient	proficient	1 meaning
+e	profitable	profitable	1 meaning
+e	programmer	programmer	2 meanings
+e	projectile	projectile	1 meaning
+e	projection	projection	1 meaning
+e	prokaryote	prokaryote	1 meaning
+e	prokletije	prokletije	1 meaning
+e	prometheus	prometheus	1 meaning
+e	promethium	promethium	1 meaning
+e	prominence	prominence	2 meanings
+e	promontory	promontory	1 meaning
+e	propaganda	propaganda	1 meaning
+e	propensity	propensity	1 meaning
+e	proper noun	propernoun	1 meaning
+e	proper time	propertime	1 meaning
+e	prophetess	prophetess	1 meaning
+e	proportion	proportion	1 meaning
+e	proprietor	proprietor	3 meanings
+e	propulsion	propulsion	1 meaning
+e	prosciutto	prosciutto	1 meaning
+e	prosecutor	prosecutor	2 meanings
+e	prospector	prospector	1 meaning
+e	prosperity	prosperity	1 meaning
+e	prosperous	prosperous	2 meanings
+e	prosthesis	prosthesis	1 meaning
+e	prostitute	prostitute	1 meaning
+e	protection	protection	1 meaning
+e	proteomics	proteomics	1 meaning
+e	protestant	protestant	1 meaning
+e	protoplasm	protoplasm	1 meaning
+e	protostome	protostome	1 meaning
+e	protractor	protractor	1 meaning
+e	providence	providence	2 meanings
+e	provitamin	provitamin	1 meaning
+e	prayer beads	prayerbeads	1 meaning
+e	prayer wheel	prayerwheel	1 meaning
+e	preah vihear	preahvihear	2 meanings
+e	precipitate	precipitate	1 meaning
+e	predecessor	predecessor	2 meanings
+e	predicament	predicament	1 meaning
+e	predicative	predicative	1 meaning
+e	predictable	predictable	1 meaning
+e	preferences	preferences	1 meaning
+e	prehistoric	prehistoric	1 meaning
+e	preliminary	preliminary	2 meanings
+e	premonition	premonition	1 meaning
+e	preparation	preparation	1 meaning
+e	preposition	preposition	1 meaning
+e	present arms	presentarms	2 meanings
+e	preventable	preventable	1 meaning
+e	prickly pear	pricklypear	2 meanings
+e	pride parade	prideparade	1 meaning
+e	prime factor	primefactor	1 meaning
+e	prime number	primenumber	1 meaning
+e	prison guard	prisonguard	1 meaning
+e	probability	probability	3 meanings
+e	probolinggo	probolinggo	1 meaning
+e	procreation	procreation	2 meanings
+e	prodigal son	prodigalson	1 meaning
+e	proficiency	proficiency	1 meaning
+e	programming	programming	1 meaning
+e	progress bar	progressbar	1 meaning
+e	prohibition	prohibition	4 meanings
+e	proletarian	proletarian	1 meaning
+e	proletariat	proletariat	1 meaning
+e	promotional	promotional	1 meaning
+e	proofreader	proofreader	1 meaning
+e	property law	propertylaw	1 meaning
+e	prophylaxis	prophylaxis	1 meaning
+e	proposition	proposition	4 meanings
+e	propranolol	propranolol	1 meaning
+e	pros and cons	prosandcons	1 meaning
+e	prosecution	prosecution	2 meanings
+e	proselytize	proselytize	1 meaning
+e	proso millet	prosomillet	1 meaning
+e	prostatitis	prostatitis	1 meaning
+e	prosthetist	prosthetist	1 meaning
+e	protagonist	protagonist	1 meaning
+e	proterozoic	proterozoic	1 meaning
+e	protest song	protestsong	1 meaning
+e	proto-italic	protoitalic	1 meaning
+e	proto-slavic	protoslavic	1 meaning
+e	proto-turkic	prototurkic	1 meaning
+e	protologism	protologism	1 meaning
+e	protoplanet	protoplanet	1 meaning
+e	provisional	provisional	1 meaning
+e	provocation	provocation	1 meaning
+e	proxy server	proxyserver	1 meaning
+e	practitioner	practitioner	1 meaning
+e	praseodymium	praseodymium	1 meaning
+e	pre-ejaculate	preejaculate	1 meaning
+e	precognition	precognition	1 meaning
+e	precondition	precondition	1 meaning
+e	preoperative	preoperative	1 meaning
+e	preposterous	preposterous	1 meaning
+e	prerequisite	prerequisite	1 meaning
+e	presbyterian	presbyterian	2 meanings
+e	prescription	prescription	1 meaning
+e	prescriptive	prescriptive	1 meaning
+e	present tense	presenttense	1 meaning
+e	presentation	presentation	2 meanings
+e	presentiment	presentiment	1 meaning
+e	preservation	preservation	1 meaning
+e	preservative	preservative	1 meaning
+e	press release	pressrelease	1 meaning
+e	presumptuous	presumptuous	1 meaning
+e	primary color	primarycolor	1 meaning
+e	prince regent	princeregent	1 meaning
+e	princess tree	princesstree	1 meaning
+e	principality	principality	2 meanings
+e	priority seat	priorityseat	1 meaning
+e	private parts	privateparts	1 meaning
+e	privy council	privycouncil	1 meaning
+e	proadjective	proadjective	1 meaning
+e	problem child	problemchild	1 meaning
+e	productivity	productivity	1 meaning
+e	professional	professional	2 meanings
+e	profit margin	profitmargin	1 meaning
+e	progesterone	progesterone	1 meaning
+e	promised land	promisedland	1 meaning
+e	proofreading	proofreading	1 meaning
+e	propaedeutic	propaedeutic	1 meaning
+e	propagandist	propagandist	1 meaning
+e	proportional	proportional	1 meaning
+e	prostitution	prostitution	1 meaning
+e	protactinium	protactinium	1 meaning
+e	protectorate	protectorate	2 meanings
+e	proto-japonic	protojaponic	1 meaning
+e	prussian blue	prussianblue	2 meanings
+e	père david's tit	predavidstit	1 meaning
+e	practical joke	practicaljoke	1 meaning
+e	praise the lord	praisethelord	1 meaning
+e	praying mantis	prayingmantis	2 meanings
+e	precious metal	preciousmetal	1 meaning
+e	precious stone	preciousstone	1 meaning
+e	precipitation	precipitation	2 meanings
+e	precipitously	precipitously	1 meaning
+e	preconception	preconception	1 meaning
+e	pregnancy test	pregnancytest	1 meaning
+e	pregnant woman	pregnantwoman	1 meaning
+e	preponderance	preponderance	1 meaning
+e	pressure gauge	pressuregauge	1 meaning
+e	pressure point	pressurepoint	1 meaning
+e	primary colour	primarycolour	1 meaning
+e	primary school	primaryschool	1 meaning
+e	primary sector	primarysector	1 meaning
+e	prime minister	primeminister	1 meaning
+e	primorsky krai	primorskykrai	1 meaning
+e	prince consort	princeconsort	1 meaning
+e	prince of peace	princeofpeace	1 meaning
+e	prince of wales	princeofwales	1 meaning
+e	printing house	printinghouse	1 meaning
+e	printing press	printingpress	1 meaning
+e	prisoner of war	prisonerofwar	1 meaning
+e	privacy policy	privacypolicy	1 meaning
+e	private school	privateschool	1 meaning
+e	private sector	privatesector	1 meaning
+e	privatization	privatization	1 meaning
+e	procedural law	procedurallaw	1 meaning
+e	procrastinate	procrastinate	1 meaning
+e	procuratorate	procuratorate	1 meaning
+e	progressivism	progressivism	1 meaning
+e	proliferation	proliferation	1 meaning
+e	pronunciation	pronunciation	2 meanings
+e	propositional	propositional	1 meaning
+e	prosopagnosia	prosopagnosia	1 meaning
+e	prosopography	prosopography	1 meaning
+e	prostaglandin	prostaglandin	1 meaning
+e	prostatectomy	prostatectomy	1 meaning
+e	protected area	protectedarea	1 meaning
+e	protectionism	protectionism	1 meaning
+e	protestantism	protestantism	1 meaning
+e	proto-germanic	protogermanic	1 meaning
+e	proto-koreanic	protokoreanic	1 meaning
+e	proto-language	protolanguage	1 meaning
+e	prairie chicken	prairiechicken	1 meaning
+e	prajnaparamita	prajnaparamita	1 meaning
+e	predestination	predestination	1 meaning
+e	predeterminism	predeterminism	1 meaning
+e	predictability	predictability	1 meaning
+e	predisposition	predisposition	1 meaning
+e	preferred stock	preferredstock	1 meaning
+e	prefix notation	prefixnotation	1 meaning
+e	prescriptivism	prescriptivism	1 meaning
+e	present perfect	presentperfect	1 meaning
+e	president-elect	presidentelect	1 meaning
+e	pressure cooker	pressurecooker	1 meaning
+e	prickly lettuce	pricklylettuce	1 meaning
+e	primeval forest	primevalforest	1 meaning
+e	prince charming	princecharming	2 meanings
+e	private message	privatemessage	1 meaning
+e	production line	productionline	1 meaning
+e	progressive tax	progressivetax	1 meaning
+e	project manager	projectmanager	1 meaning
+e	promissory note	promissorynote	1 meaning
+e	proper fraction	properfraction	1 meaning
+e	proprioception	proprioception	1 meaning
+e	prostate cancer	prostatecancer	1 meaning
+e	prosthodontics	prosthodontics	1 meaning
+e	predicative case	predicativecase	1 meaning
+e	preemptive right	preemptiveright	1 meaning
+e	presbyterianism	presbyterianism	1 meaning
+e	press conference	pressconference	1 meaning
+e	primary industry	primaryindustry	1 meaning
+e	prismatic colors	prismaticcolors	1 meaning
+e	private property	privateproperty	1 meaning
+e	proboscis monkey	proboscismonkey	1 meaning
+e	processed cheese	processedcheese	1 meaning
+e	procrastination	procrastination	1 meaning
+e	prognostication	prognostication	1 meaning
+e	progressive rock	progressiverock	1 meaning
+e	projective space	projectivespace	1 meaning
+e	proper adjective	properadjective	1 meaning
+e	protection money	protectionmoney	1 meaning
+e	preach to deaf ears	preachtodeafears	1 meaning
+e	preach to the choir	preachtothechoir	1 meaning
+e	predictive coding	predictivecoding	1 meaning
+e	preemptive strike	preemptivestrike	1 meaning
+e	prescription drug	prescriptiondrug	1 meaning
+e	prestidigitation	prestidigitation	1 meaning
+e	private detective	privatedetective	1 meaning
+e	probability space	probabilityspace	1 meaning
+e	probation officer	probationofficer	1 meaning
+e	product placement	productplacement	1 meaning
+e	progressive house	progressivehouse	1 meaning
+e	pronominal adverb	pronominaladverb	1 meaning
+e	przewalski's horse	przewalskishorse	1 meaning
+e	pratītyasamutpāda	pratityasamutpada	1 meaning
+e	preparatory school	preparatoryschool	2 meanings
+e	prepositional case	prepositionalcase	1 meaning
+e	present continuous	presentcontinuous	1 meaning
+e	present participle	presentparticiple	1 meaning
+e	private enterprise	privateenterprise	1 meaning
+e	private first class	privatefirstclass	2 meanings
+e	probability theory	probabilitytheory	1 meaning
+e	project management	projectmanagement	1 meaning
+e	proto-indo-european	protoindoeuropean	1 meaning
+j	プロレタリア独裁	proretariadokusai	
+e	prince edward island	princeedwardisland	1 meaning
+e	probability density	probabilitydensity	1 meaning
+e	probability measure	probabilitymeasure	1 meaning
+e	producer price index	producerpriceindex	1 meaning
+e	projective geometry	projectivegeometry	1 meaning
+e	protoplanetary disk	protoplanetarydisk	1 meaning
+e	prefecture-level city	prefecturelevelcity	1 meaning
+e	prenuptial agreement	prenuptialagreement	1 meaning
+e	prepositional phrase	prepositionalphrase	1 meaning
+e	printed circuit board	printedcircuitboard	1 meaning
+e	programming language	programminglanguage	1 meaning
+e	propaganda of the deed	propagandaofthedeed	1 meaning
+e	proportional analogy	proportionalanalogy	1 meaning
+e	practice makes perfect	practicemakesperfect	1 meaning
+e	predicative adjective	predicativeadjective	1 meaning
+e	premature ejaculation	prematureejaculation	1 meaning
+e	prepositional article	prepositionalarticle	1 meaning
+e	primary school student	primaryschoolstudent	1 meaning
+e	prisoner of conscience	prisonerofconscience	1 meaning
+e	professional wrestler	professionalwrestler	1 meaning
+e	preestablished harmony	preestablishedharmony	1 meaning
+e	pride comes before a fall	pridecomesbeforeafall	1 meaning
+e	principality of andorra	principalityofandorra	1 meaning
+e	professional wrestling	professionalwrestling	1 meaning
+e	propositional attitude	propositionalattitude	1 meaning
+e	presumption of innocence	presumptionofinnocence	1 meaning
+e	principle of least action	principleofleastaction	1 meaning
+e	probability distribution	probabilitydistribution	1 meaning
+e	prevention is better than cure	preventionisbetterthancure	1 meaning
+e	proportional representation	proportionalrepresentation	1 meaning
+e	protectorate of bohemia and moravia	protectorateofbohemiaandmoravia	1 meaning

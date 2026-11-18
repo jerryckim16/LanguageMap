@@ -1,0 +1,385 @@
+e	la	la	1 meaning
+e	lac	lac	1 meaning
+e	lad	lad	1 meaning
+e	lag	lag	1 meaning
+e	lao	lao	3 meanings
+e	lap	lap	1 meaning
+e	lat	lat	1 meaning
+e	lau	lau	1 meaning
+e	law	law	4 meanings
+e	lay	lay	2 meanings
+e	-land	land	1 meaning
+e	lace	lace	1 meaning
+e	lack	lack	2 meanings
+e	lada	lada	1 meaning
+e	lady	lady	5 meanings
+e	lain	lain	1 meaning
+e	lair	lair	1 meaning
+e	lake	lake	2 meanings
+e	lakh	lakh	1 meaning
+e	lama	lama	1 meaning
+e	lamb	lamb	2 meanings
+e	lame	lame	2 meanings
+e	lamp	lamp	2 meanings
+e	land	land	8 meanings
+e	lane	lane	3 meanings
+e	laos	laos	1 meaning
+e	larb	larb	1 meaning
+e	lard	lard	1 meaning
+e	lari	lari	1 meaning
+e	lark	lark	1 meaning
+e	larp	larp	4 meanings
+e	lass	lass	1 meaning
+e	last	last	4 meanings
+e	late	late	7 meanings
+e	lava	lava	1 meaning
+e	lawn	lawn	3 meanings
+e	lazy	lazy	1 meaning
+e	álava	lava	1 meaning
+e	åland	land	1 meaning
+e	la niña	lania	1 meaning
+e	la paz	lapaz	1 meaning
+e	label	label	1 meaning
+e	labia	labia	1 meaning
+e	ladle	ladle	1 meaning
+e	lager	lager	1 meaning
+e	lagos	lagos	1 meaning
+e	lahar	lahar	1 meaning
+e	lahti	lahti	1 meaning
+e	laius	laius	1 meaning
+e	laksa	laksa	1 meaning
+e	lamer	lamer	1 meaning
+e	lamia	lamia	1 meaning
+e	lance	lance	2 meanings
+e	laozi	laozi	1 meaning
+e	lapta	lapta	1 meaning
+e	lapti	lapti	1 meaning
+e	larch	larch	1 meaning
+e	large	large	1 meaning
+e	larva	larva	3 meanings
+e	laser	laser	1 meaning
+e	lasik	lasik	1 meaning
+e	lassi	lassi	1 meaning
+e	latch	latch	1 meaning
+e	later	later	2 meanings
+e	latex	latex	1 meaning
+e	lathe	lathe	2 meanings
+e	latin	latin	8 meanings
+e	latte	latte	1 meaning
+e	laugh	laugh	5 meanings
+e	laura	laura	1 meaning
+e	laval	laval	4 meanings
+e	laver	laver	1 meaning
+e	layer	layer	3 meanings
+e	lazio	lazio	1 meaning
+e	láadan	ladan	1 meaning
+e	lab rat	labrat	1 meaning
+e	labneh	labneh	1 meaning
+e	labour	labour	3 meanings
+e	labrum	labrum	1 meaning
+e	labuan	labuan	1 meaning
+e	lackey	lackey	2 meanings
+e	ladakh	ladakh	1 meaning
+e	ladder	ladder	1 meaning
+e	ladies	ladies	1 meaning
+e	ladino	ladino	1 meaning
+e	ladoga	ladoga	1 meaning
+e	lagoon	lagoon	1 meaning
+e	lahore	lahore	1 meaning
+e	lambda	lambda	1 meaning
+e	lambic	lambic	1 meaning
+e	lament	lament	1 meaning
+e	lamina	lamina	1 meaning
+e	lancet	lancet	1 meaning
+e	lander	lander	1 meaning
+e	langhe	langhe	1 meaning
+e	langya	langya	1 meaning
+e	laocoön	laocon	1 meaning
+e	lap cat	lapcat	1 meaning
+e	lap dog	lapdog	1 meaning
+e	laptop	laptop	1 meaning
+e	laputa	laputa	1 meaning
+e	laredo	laredo	1 meaning
+e	larper	larper	1 meaning
+e	larynx	larynx	1 meaning
+e	lastly	lastly	2 meanings
+e	latent	latent	1 meaning
+e	latest	latest	1 meaning
+e	lather	lather	1 meaning
+e	latino	latino	1 meaning
+e	latium	latium	1 meaning
+e	lative	lative	1 meaning
+e	latona	latona	1 meaning
+e	latter	latter	1 meaning
+e	latvia	latvia	1 meaning
+e	launch	launch	2 meanings
+e	laurel	laurel	1 meaning
+e	lavash	lavash	1 meaning
+e	lawful	lawful	1 meaning
+e	lawyer	lawyer	1 meaning
+e	lay off	layoff	1 meaning
+e	layman	layman	1 meaning
+e	layoff	layoff	1 meaning
+e	layout	layout	2 meanings
+e	la rioja	larioja	1 meaning
+e	la tuque	latuque	1 meaning
+e	la union	launion	1 meaning
+e	laborer	laborer	1 meaning
+e	lace bug	lacebug	1 meaning
+e	lacking	lacking	1 meaning
+e	laconic	laconic	1 meaning
+e	lacquer	lacquer	1 meaning
+e	lactose	lactose	1 meaning
+e	lake tai	laketai	1 meaning
+e	lakshmi	lakshmi	1 meaning
+e	lambada	lambada	1 meaning
+e	lampoon	lampoon	1 meaning
+e	lamprey	lamprey	1 meaning
+e	landing	landing	3 meanings
+e	langsat	langsat	1 meaning
+e	languid	languid	2 meanings
+e	lanolin	lanolin	1 meaning
+e	lansing	lansing	1 meaning
+e	lantana	lantana	1 meaning
+e	lantern	lantern	1 meaning
+e	lanyard	lanyard	1 meaning
+e	lanzhou	lanzhou	1 meaning
+e	laotian	laotian	2 meanings
+e	lapland	lapland	1 meaning
+e	lapwing	lapwing	1 meaning
+e	larceny	larceny	1 meaning
+e	larimar	larimar	1 meaning
+e	larissa	larissa	1 meaning
+e	las piñas	laspias	1 meaning
+e	lasagna	lasagna	2 meanings
+e	lash out	lashout	2 meanings
+e	latakia	latakia	1 meaning
+e	latency	latency	4 meanings
+e	lateral	lateral	3 meanings
+e	lattice	lattice	3 meanings
+e	latvian	latvian	3 meanings
+e	laundry	laundry	3 meanings
+e	laupele	laupele	1 meaning
+e	law firm	lawfirm	1 meaning
+e	lawsuit	lawsuit	1 meaning
+e	lay open	layopen	1 meaning
+e	layover	layover	1 meaning
+e	lazarus	lazarus	1 meaning
+e	à la carte	lacarte	1 meaning
+j	ランバーダ	lambada	
+e	la mancha	lamancha	1 meaning
+e	la spezia	laspezia	1 meaning
+e	laayoune	laayoune	1 meaning
+e	labellum	labellum	1 meaning
+e	labrador	labrador	2 meanings
+e	lacrosse	lacrosse	1 meaning
+e	ladleful	ladleful	1 meaning
+e	lady luck	ladyluck	1 meaning
+e	lady's man	ladysman	1 meaning
+e	ladybird	ladybird	1 meaning
+e	ladylike	ladylike	1 meaning
+e	lahmacun	lahmacun	1 meaning
+e	lake biwa	lakebiwa	1 meaning
+e	lake erie	lakeerie	1 meaning
+e	lakeside	lakeside	2 meanings
+e	lalibela	lalibela	1 meaning
+e	lame duck	lameduck	1 meaning
+e	laminate	laminate	1 meaning
+e	lamppost	lamppost	1 meaning
+e	lancelet	lancelet	1 meaning
+e	lancelot	lancelot	1 meaning
+e	land mine	landmine	1 meaning
+e	landform	landform	1 meaning
+e	landline	landline	1 meaning
+e	landlord	landlord	1 meaning
+e	landmark	landmark	2 meanings
+e	landmass	landmass	1 meaning
+e	langkawi	langkawi	1 meaning
+e	language	language	5 meanings
+e	languish	languish	2 meanings
+e	lankaran	lankaran	1 meaning
+e	lap dance	lapdance	1 meaning
+e	lapidary	lapidary	1 meaning
+e	las vegas	lasvegas	1 meaning
+e	last call	lastcall	1 meaning
+e	last meal	lastmeal	1 meaning
+e	last mile	lastmile	2 meanings
+e	last time	lasttime	1 meaning
+e	last week	lastweek	1 meaning
+e	last word	lastword	1 meaning
+e	last year	lastyear	1 meaning
+e	lastborn	lastborn	2 meanings
+e	lateness	lateness	1 meaning
+e	latitude	latitude	2 meanings
+e	latte art	latteart	2 meanings
+e	laugh off	laughoff	1 meaning
+e	laughter	laughter	2 meanings
+e	laurasia	laurasia	1 meaning
+e	laureate	laureate	1 meaning
+e	laurence	laurence	1 meaning
+e	lava lamp	lavalamp	1 meaning
+e	lavender	lavender	3 meanings
+e	laxative	laxative	1 meaning
+e	lay an egg	layanegg	2 meanings
+e	lay judge	layjudge	1 meaning
+e	layabout	layabout	1 meaning
+e	laystall	laystall	1 meaning
+e	laziness	laziness	1 meaning
+e	labour law	labourlaw	1 meaning
+e	labyrinth	labyrinth	1 meaning
+e	lactation	lactation	1 meaning
+e	lagniappe	lagniappe	1 meaning
+e	lake huron	lakehuron	1 meaning
+e	lakhnauti	lakhnauti	1 meaning
+e	lamb of god	lambofgod	1 meaning
+e	lampblack	lampblack	1 meaning
+e	lampshade	lampshade	1 meaning
+e	landcover	landcover	1 meaning
+e	landowner	landowner	1 meaning
+e	landscape	landscape	2 meanings
+e	landslide	landslide	2 meanings
+e	languedoc	languedoc	1 meaning
+e	lanthanum	lanthanum	1 meaning
+e	laptev sea	laptevsea	1 meaning
+e	laryngeal	laryngeal	1 meaning
+e	laser beam	laserbeam	1 meaning
+e	last night	lastnight	2 meanings
+e	laugh line	laughline	1 meaning
+e	laughable	laughable	1 meaning
+e	launch pad	launchpad	1 meaning
+e	law school	lawschool	1 meaning
+e	lawnmower	lawnmower	1 meaning
+e	layperson	layperson	2 meanings
+e	lazybones	lazybones	1 meaning
+e	la rochelle	larochelle	1 meaning
+e	laboratory	laboratory	2 meanings
+e	labour camp	labourcamp	1 meaning
+e	lacedaemon	lacedaemon	1 meaning
+e	lactic acid	lacticacid	1 meaning
+e	lake geneva	lakegeneva	1 meaning
+e	lake skadar	lakeskadar	1 meaning
+e	lamarckism	lamarckism	1 meaning
+e	lamentable	lamentable	1 meaning
+e	lamination	lamination	1 meaning
+e	land bridge	landbridge	1 meaning
+e	landlocked	landlocked	1 meaning
+e	lansquenet	lansquenet	1 meaning
+e	lanthanide	lanthanide	1 meaning
+e	lapidation	lapidation	1 meaning
+e	large-scale	largescale	1 meaning
+e	laryngitis	laryngitis	1 meaning
+e	lascivious	lascivious	1 meaning
+e	lassa fever	lassafever	1 meaning
+e	last resort	lastresort	1 meaning
+e	last supper	lastsupper	1 meaning
+e	latent heat	latentheat	1 meaning
+e	law of sines	lawofsines	1 meaning
+e	lawrencium	lawrencium	1 meaning
+e	lawyer's wig	lawyerswig	1 meaning
+e	labia majora	labiamajora	1 meaning
+e	labia minora	labiaminora	1 meaning
+e	labiodental	labiodental	1 meaning
+e	labor market	labormarket	1 meaning
+e	labour force	labourforce	1 meaning
+e	labour party	labourparty	1 meaning
+e	labradoodle	labradoodle	1 meaning
+e	lack of sleep	lackofsleep	1 meaning
+e	lacquerware	lacquerware	1 meaning
+e	ladies first	ladiesfirst	1 meaning
+e	lady justice	ladyjustice	1 meaning
+e	lady liberty	ladyliberty	1 meaning
+e	lake ontario	lakeontario	1 meaning
+e	lakshadweep	lakshadweep	1 meaning
+e	lammergeier	lammergeier	1 meaning
+e	laparoscopy	laparoscopy	1 meaning
+e	lapis lazuli	lapislazuli	1 meaning
+e	large bonito	largebonito	1 meaning
+e	laryngology	laryngology	1 meaning
+e	last quarter	lastquarter	1 meaning
+e	latchkey kid	latchkeykid	1 meaning
+e	latin church	latinchurch	1 meaning
+e	laughing gas	laughinggas	1 meaning
+e	laughing owl	laughingowl	1 meaning
+e	launderette	launderette	1 meaning
+e	laundry soap	laundrysoap	1 meaning
+e	law and order	lawandorder	1 meaning
+e	lawlessness	lawlessness	1 meaning
+e	lacrimal bone	lacrimalbone	1 meaning
+e	laissez faire	laissezfaire	1 meaning
+e	lake district	lakedistrict	1 meaning
+e	lake michigan	lakemichigan	1 meaning
+e	lake superior	lakesuperior	1 meaning
+e	lake victoria	lakevictoria	1 meaning
+e	lamentations	lamentations	1 meaning
+e	land of israel	landofisrael	1 meaning
+e	landing strip	landingstrip	1 meaning
+e	language code	languagecode	1 meaning
+e	large breasts	largebreasts	1 meaning
+e	laser printer	laserprinter	1 meaning
+e	last judgment	lastjudgment	1 meaning
+e	last respects	lastrespects	1 meaning
+e	latin america	latinamerica	1 meaning
+e	latinization	latinization	1 meaning
+e	laurel wreath	laurelwreath	1 meaning
+e	law of nations	lawofnations	1 meaning
+e	labyrinthitis	labyrinthitis	1 meaning
+e	lacedaemonian	lacedaemonian	1 meaning
+e	lachanophobia	lachanophobia	1 meaning
+e	lacrimal gland	lacrimalgland	1 meaning
+e	ladder lottery	ladderlottery	1 meaning
+e	lady's bedstraw	ladysbedstraw	1 meaning
+e	lady-in-waiting	ladyinwaiting	2 meanings
+e	lagrange point	lagrangepoint	1 meaning
+e	lake constance	lakeconstance	1 meaning
+e	lakshmanavati	lakshmanavati	1 meaning
+e	lambda variant	lambdavariant	1 meaning
+e	land of liberty	landofliberty	1 meaning
+e	laryngologist	laryngologist	1 meaning
+e	latin alphabet	latinalphabet	1 meaning
+e	latin american	latinamerican	1 meaning
+e	laughing stock	laughingstock	1 meaning
+e	launch vehicle	launchvehicle	1 meaning
+e	la pérouse strait	laprousestrait	1 meaning
+e	lambda calculus	lambdacalculus	1 meaning
+e	language family	languagefamily	1 meaning
+e	language police	languagepolice	1 meaning
+e	language school	languageschool	1 meaning
+e	large intestine	largeintestine	1 meaning
+e	largemouth bass	largemouthbass	1 meaning
+e	laryngological	laryngological	1 meaning
+e	lasciviousness	lasciviousness	1 meaning
+e	law of the jungle	lawofthejungle	1 meaning
+e	laboratory mouse	laboratorymouse	1 meaning
+e	lactovegetarian	lactovegetarian	1 meaning
+e	language barrier	languagebarrier	1 meaning
+e	language isolate	languageisolate	1 meaning
+e	lantern festival	lanternfestival	1 meaning
+e	laplace operator	laplaceoperator	1 meaning
+e	lapland longspur	laplandlongspur	1 meaning
+e	lapsang souchong	lapsangsouchong	1 meaning
+e	lateral thinking	lateralthinking	1 meaning
+e	labored breathing	laboredbreathing	1 meaning
+e	language exchange	languageexchange	1 meaning
+e	laplace transform	laplacetransform	1 meaning
+e	laugh one's head off	laughonesheadoff	1 meaning
+e	lavender marriage	lavendermarriage	1 meaning
+e	labour aristocracy	labouraristocracy	1 meaning
+e	labrador retriever	labradorretriever	1 meaning
+e	largehead hairtail	largeheadhairtail	1 meaning
+e	law of large numbers	lawoflargenumbers	1 meaning
+e	lacto-ovo-vegetarian	lactoovovegetarian	1 meaning
+e	lactose intolerance	lactoseintolerance	1 meaning
+e	ladies and gentlemen	ladiesandgentlemen	1 meaning
+e	land of the rising sun	landoftherisingsun	1 meaning
+e	large language model	largelanguagemodel	1 meaning
+e	laughing kookaburra	laughingkookaburra	1 meaning
+e	languedoc-roussillon	languedocroussillon	1 meaning
+e	law of excluded middle	lawofexcludedmiddle	1 meaning
+e	lady amherst's pheasant	ladyamherstspheasant	1 meaning
+e	large magellanic cloud	largemagellaniccloud	1 meaning
+e	large-tailed antshrike	largetailedantshrike	1 meaning
+e	lateral cuneiform bone	lateralcuneiformbone	1 meaning
+e	law of noncontradiction	lawofnoncontradiction	1 meaning
+e	laser-plasma accelerator	laserplasmaaccelerator	1 meaning
+e	laughter is the best medicine	laughteristhebestmedicine	1 meaning
+e	lao people's democratic republic	laopeoplesdemocraticrepublic	1 meaning

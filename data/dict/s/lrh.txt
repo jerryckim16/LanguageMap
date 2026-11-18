@@ -1,0 +1,45 @@
+e	rho	rho	1 meaning
+e	rhea	rhea	4 meanings
+e	rheum	rheum	2 meanings
+e	rhine	rhine	1 meaning
+e	rhone	rhone	1 meaning
+e	rhyme	rhyme	6 meanings
+e	rhodes	rhodes	2 meanings
+e	rhythm	rhythm	1 meaning
+e	rhenium	rhenium	1 meaning
+e	rhizoid	rhizoid	1 meaning
+e	rhizome	rhizome	1 meaning
+e	rhodium	rhodium	1 meaning
+e	rhombus	rhombus	1 meaning
+e	rhubarb	rhubarb	1 meaning
+e	rhapsody	rhapsody	2 meanings
+e	rheostat	rheostat	1 meaning
+e	rhetoric	rhetoric	1 meaning
+e	rhinitis	rhinitis	1 meaning
+e	rhodesia	rhodesia	1 meaning
+e	rhineland	rhineland	1 meaning
+e	rheumatism	rheumatism	1 meaning
+e	rhinestone	rhinestone	1 meaning
+e	rhinoceros	rhinoceros	1 meaning
+e	rhinovirus	rhinovirus	1 meaning
+e	rhythm game	rhythmgame	1 meaning
+e	rhinoplasty	rhinoplasty	1 meaning
+e	rhizosphere	rhizosphere	1 meaning
+e	rhode island	rhodeisland	1 meaning
+e	rheumatology	rheumatology	1 meaning
+e	rhododendron	rhododendron	1 meaning
+e	rhythm guitar	rhythmguitar	1 meaning
+e	rhesus macaque	rhesusmacaque	1 meaning
+e	rhodochrosite	rhodochrosite	1 meaning
+e	rhythm section	rhythmsection	1 meaning
+e	rhythm and blues	rhythmandblues	1 meaning
+e	rhyme dictionary	rhymedictionary	1 meaning
+e	rhinoceros beetle	rhinocerosbeetle	1 meaning
+e	rhyming dictionary	rhymingdictionary	1 meaning
+e	rhetorical question	rhetoricalquestion	1 meaning
+e	rhythmic gymnastics	rhythmicgymnastics	1 meaning
+e	rheumatoid arthritis	rheumatoidarthritis	1 meaning
+e	rhineland-palatinate	rhinelandpalatinate	1 meaning
+e	rhombic dodecahedron	rhombicdodecahedron	1 meaning
+e	rhombicuboctahedron	rhombicuboctahedron	1 meaning
+e	rhombicosidodecahedron	rhombicosidodecahedron	1 meaning

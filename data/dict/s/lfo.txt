@@ -1,0 +1,422 @@
+j	フォー	fo	four
+e	fog	fog	1 meaning
+e	for	for	1 meaning
+e	fox	fox	1 meaning
+j	フォン	fon	音量の単位。1フォンは1デシベルに等しい。
+e	foal	foal	1 meaning
+e	foam	foam	2 meanings
+e	foil	foil	2 meanings
+e	fold	fold	2 meanings
+e	fond	fond	1 meaning
+e	font	font	2 meanings
+e	food	food	2 meanings
+e	fool	fool	4 meanings
+e	foot	foot	4 meanings
+e	forb	forb	1 meaning
+e	ford	ford	3 meanings
+e	fore	fore	1 meaning
+e	fork	fork	5 meanings
+e	form	form	4 meanings
+e	fort	fort	1 meaning
+e	foul	foul	1 meaning
+e	four	four	2 meanings
+e	foxy	foxy	1 meaning
+j	フォト	foto	「フォトグラフ」の略。
+j	フォロー	foro	follow
+j	フォーク	foku	fork (utensil)
+j	フォース	fosu	fourth
+j	フォード	fodo	Ford
+j	フォーム	fomu	shape or structure
+j	フォーモ	fomo	FOMO, fear of missing out
+j	フォール	foru	fall
+e	focus	focus	8 meanings
+e	foley	foley	1 meaning
+e	folks	folks	1 meaning
+e	folly	folly	1 meaning
+e	for it	forit	1 meaning
+e	force	force	7 meanings
+e	forge	forge	2 meanings
+e	forte	forte	2 meanings
+e	forty	forty	1 meaning
+e	forum	forum	3 meanings
+e	fossa	fossa	1 meaning
+e	found	found	2 meanings
+e	foyer	foyer	1 meaning
+j	フォイル	foiru	
+j	フォッサ	fossa	a fossa (mammal)
+j	フォトン	foton	光子。
+j	フォノン	fonon	phonon
+j	フォロイー	foroi	followee
+j	フォンク	fonku	
+j	フォント	fonto	font
+j	フォーティーン	fotin	fourteen
+e	fodder	fodder	1 meaning
+e	fogbow	fogbow	1 meaning
+e	folder	folder	2 meanings
+e	follow	follow	4 meanings
+e	foment	foment	1 meaning
+e	fomite	fomite	1 meaning
+e	fondle	fondle	1 meaning
+e	fondue	fondue	1 meaning
+e	foo dog	foodog	1 meaning
+e	forage	forage	2 meanings
+e	forbid	forbid	1 meaning
+e	forced	forced	1 meaning
+e	forest	forest	1 meaning
+e	forger	forger	1 meaning
+e	forget	forget	4 meanings
+e	formal	formal	3 meanings
+e	format	format	3 meanings
+e	former	former	2 meanings
+e	foshan	foshan	1 meaning
+e	fossil	fossil	2 meanings
+e	fourth	fourth	2 meanings
+e	fowler	fowler	1 meaning
+e	foxnut	foxnut	1 meaning
+j	フォアマン	foaman	
+j	フォボス	fobosu	火星の衛星のひとつ。（2つあるうちの内側のもの。）
+j	フォルダ	foruda	a folder (organizer)
+j	フォルダー	foruda	
+j	フォルテ	forute	音楽の強弱記号のひとつで「強く」を意味する。記号f。
+j	フォルム	forumu	形。外形。
+j	フォロバ	foroba	following back in return
+j	フォロワー	forowa	follower; adherent; disci…
+j	フォワード	fowado	forward
+j	フォンデュ	fondyu	fondue
+j	フォーカス	fokasu	focus
+j	フォーカード	fokado	synonym of フォー・オブ・ア・カインド …
+j	フォークナー	fokuna	a transliteration of the …
+j	フォーマル	fomaru	かしこまっている。くだけていない。
+j	フォーラム	foramu	forum
+j	フォールト	foruto	fault
+j	風牌	fonpai	wind tile
+e	foghorn	foghorn	1 meaning
+e	folding	folding	2 meanings
+e	foldout	foldout	1 meaning
+e	foliage	foliage	1 meaning
+e	folkway	folkway	1 meaning
+e	food web	foodweb	1 meaning
+e	foolish	foolish	1 meaning
+e	foot job	footjob	1 meaning
+e	footage	footage	1 meaning
+e	for free	forfree	1 meaning
+e	for good	forgood	1 meaning
+e	for real	forreal	1 meaning
+e	for sale	forsale	1 meaning
+e	for sure	forsure	1 meaning
+e	forceps	forceps	1 meaning
+e	fordism	fordism	1 meaning
+e	forearm	forearm	1 meaning
+e	foreign	foreign	2 meanings
+e	foreleg	foreleg	1 meaning
+e	foreman	foreman	2 meanings
+e	foresee	foresee	1 meaning
+e	foretop	foretop	1 meaning
+e	forever	forever	2 meanings
+e	forgery	forgery	2 meanings
+e	forgive	forgive	1 meaning
+e	forkful	forkful	1 meaning
+e	forlorn	forlorn	2 meanings
+e	formant	formant	1 meaning
+e	formate	formate	1 meaning
+e	formosa	formosa	1 meaning
+e	formula	formula	4 meanings
+e	forsake	forsake	1 meaning
+e	forties	forties	1 meaning
+e	fortify	fortify	1 meaning
+e	fortuna	fortuna	2 meanings
+e	fortune	fortune	4 meanings
+e	forward	forward	5 meanings
+e	founder	founder	2 meanings
+e	foundry	foundry	1 meaning
+e	foxfire	foxfire	1 meaning
+e	foxhole	foxhole	2 meanings
+e	foxtail	foxtail	1 meaning
+e	foxtrot	foxtrot	1 meaning
+j	フォアグラ	foagura	foie gras
+j	フォアボール	foaboru	synonym of 四球 (shikyū, “w…
+j	フォクシー	fokushi	
+j	フォックス	fokkusu	fox
+j	フォトショ	fotosho	photoshopping
+j	フォンドボー	fondobo	「フォン・ド・ヴォー」の表記ゆれ。
+j	フォークロア	fokuroa	民間の伝承。
+j	フォーマット	fomatto	format, file type
+j	フォーミュラ	fomyura	formula (a set approach)
+e	focaccia	focaccia	1 meaning
+e	foie gras	foiegras	1 meaning
+e	foldable	foldable	1 meaning
+e	folk song	folksong	1 meaning
+e	folklore	folklore	1 meaning
+e	folktale	folktale	1 meaning
+e	follicle	follicle	2 meanings
+e	follower	follower	2 meanings
+e	fondness	fondness	1 meaning
+e	food cart	foodcart	1 meaning
+e	food coma	foodcoma	1 meaning
+e	foodporn	foodporn	1 meaning
+e	foosball	foosball	1 meaning
+e	football	football	2 meanings
+e	footbath	footbath	1 meaning
+e	foothill	foothill	1 meaning
+e	footnote	footnote	2 meanings
+e	footpath	footpath	1 meaning
+e	footrace	footrace	1 meaning
+e	footrest	footrest	1 meaning
+e	footwear	footwear	1 meaning
+e	footwrap	footwrap	1 meaning
+e	foraging	foraging	1 meaning
+e	forcibly	forcibly	1 meaning
+e	forecast	forecast	2 meanings
+e	forehead	forehead	1 meaning
+e	foremast	foremast	1 meaning
+e	forename	forename	1 meaning
+e	forensic	forensic	3 meanings
+e	foreplay	foreplay	1 meaning
+e	foreskin	foreskin	1 meaning
+e	forester	forester	1 meaning
+e	forestry	forestry	1 meaning
+e	forget it	forgetit	2 meanings
+e	forklift	forklift	1 meaning
+e	formalin	formalin	1 meaning
+e	formerly	formerly	2 meanings
+e	fortieth	fortieth	1 meaning
+e	fortress	fortress	1 meaning
+e	fortuity	fortuity	1 meaning
+e	forty-one	fortyone	1 meaning
+e	forty-six	fortysix	1 meaning
+e	forty-two	fortytwo	1 meaning
+e	fougasse	fougasse	1 meaning
+e	foul play	foulplay	2 meanings
+e	fountain	fountain	1 meaning
+e	four-eyes	foureyes	1 meaning
+e	fourteen	fourteen	1 meaning
+e	foxglove	foxglove	1 meaning
+j	フォカッチャ	fokatcha	
+j	フォトコピー	fotokopi	
+j	フォルトゥナ	forutuna	Fortuna, the ancient Roma…
+j	フォルモサ	forumosa	台湾の雅称。
+j	フォロリク	fororiku	フォローリクエスト。
+j	フォローする	forosuru	
+j	フォローアップ	foroappu	追跡。
+j	フォワグラ	fowagura	
+j	フォン・ド・ヴォー	fondovuo	フランス料理で用いる、子牛肉からとった出汁。
+j	フォークギター	fokugita	アコースティックギターのうち金属製の弦を張ったもの…
+j	フォークボール	fokuboru	a forkball
+j	フォークローダー	fokuroda	前方にフォークを搭載し、上下にリフトアームで動かす…
+j	フォーディズム	fodizumu	
+j	フォービスム	fobisumu	
+j	フォービズム	fobizumu	
+j	フォーヴィスム	fovisumu	fauvism
+e	folic acid	folicacid	1 meaning
+e	folk dance	folkdance	1 meaning
+e	folk music	folkmusic	1 meaning
+e	following	following	2 meanings
+e	fomalhaut	fomalhaut	1 meaning
+e	food chain	foodchain	2 meanings
+e	food court	foodcourt	1 meaning
+e	food truck	foodtruck	1 meaning
+e	foodstuff	foodstuff	1 meaning
+e	fool's gold	foolsgold	1 meaning
+e	fool's mate	foolsmate	1 meaning
+e	footlight	footlight	1 meaning
+e	footprint	footprint	1 meaning
+e	footstool	footstool	1 meaning
+e	for-profit	forprofit	1 meaning
+e	forbidden	forbidden	1 meaning
+e	forebrain	forebrain	1 meaning
+e	forefront	forefront	1 meaning
+e	foreigner	foreigner	1 meaning
+e	foreshock	foreshock	1 meaning
+e	foresight	foresight	2 meanings
+e	forgetful	forgetful	1 meaning
+e	formalism	formalism	1 meaning
+e	formation	formation	5 meanings
+e	formulate	formulate	1 meaning
+e	fornicate	fornicate	1 meaning
+e	forsythia	forsythia	1 meaning
+e	fortaleza	fortaleza	1 meaning
+e	fortnight	fortnight	1 meaning
+e	fortniter	fortniter	1 meaning
+e	forty-five	fortyfive	1 meaning
+e	forty-four	fortyfour	1 meaning
+e	forty-nine	fortynine	1 meaning
+e	fossilize	fossilize	2 meanings
+e	fossorial	fossorial	1 meaning
+j	フォアマスト	foamasuto	
+j	フォルニョート	forunyoto	土星の第42衛星の固有名。
+j	フォルマント	forumanto	formant
+j	フォローバック	forobakku	相手が自分のアカウントをフォローした際に、自分もそ…
+j	フォークソング	fokusongu	folk song (of the Western…
+j	フォークダンス	fokudansu	a folk dance
+j	フォーク一杯	fokuippai	
+j	フォーミュラカー	fomyuraka	車輪とドライバーがむき出しになっているレーシングカ…
+e	follow suit	followsuit	1 meaning
+e	fontanelle	fontanelle	1 meaning
+e	fool around	foolaround	1 meaning
+e	footballer	footballer	1 meaning
+e	footbridge	footbridge	1 meaning
+e	for example	forexample	1 meaning
+e	force field	forcefield	1 meaning
+e	forecastle	forecastle	1 meaning
+e	forefather	forefather	1 meaning
+e	forefinger	forefinger	1 meaning
+e	foreground	foreground	1 meaning
+e	foreign key	foreignkey	1 meaning
+e	foreperson	foreperson	2 meanings
+e	forest fire	forestfire	1 meaning
+e	formatting	formatting	1 meaning
+e	formic acid	formicacid	1 meaning
+e	formidable	formidable	1 meaning
+e	formula one	formulaone	1 meaning
+e	fortissimo	fortissimo	1 meaning
+e	fortuitous	fortuitous	1 meaning
+e	forty-eight	fortyeight	1 meaning
+e	forty-seven	fortyseven	1 meaning
+e	forty-three	fortythree	1 meaning
+e	fossil fuel	fossilfuel	1 meaning
+e	foster care	fostercare	1 meaning
+e	foster home	fosterhome	1 meaning
+e	foundation	foundation	4 meanings
+e	four o'clock	fouroclock	1 meaning
+e	four-corner	fourcorner	1 meaning
+e	fourteenth	fourteenth	2 meanings
+e	fourth wall	fourthwall	1 meaning
+e	fox sparrow	foxsparrow	1 meaning
+j	フォトグラフ	fotogurafu	photograph; picture
+j	フォトグラファー	fotogurafa	写真家。
+j	フォトダイオード	fotodaiodo	
+j	フォトマスク	fotomasuku	
+j	フォルダわけ	forudawake	sorting into folders
+j	フォルダーわけ	forudawake	
+j	フォークシンガー	fokushinga	folk singer (of the moder…
+j	フォークリフト	fokurifuto	a forklift
+j	フォーミュラ・ワン	fomyurawan	
+e	focal length	focallength	1 meaning
+e	foley artist	foleyartist	1 meaning
+e	fomentation	fomentation	1 meaning
+e	foodstagram	foodstagram	1 meaning
+e	fool's errand	foolserrand	1 meaning
+e	footbinding	footbinding	1 meaning
+e	for god's sake	forgodssake	1 meaning
+e	foraminifer	foraminifer	1 meaning
+e	forbiddance	forbiddance	1 meaning
+e	forced labor	forcedlabor	1 meaning
+e	foreign debt	foreigndebt	1 meaning
+e	forget-me-not	forgetmenot	1 meaning
+e	forgiveness	forgiveness	1 meaning
+e	forlorn hope	forlornhope	1 meaning
+e	formulation	formulation	1 meaning
+e	fornication	fornication	1 meaning
+e	fort collins	fortcollins	1 meaning
+e	forthcoming	forthcoming	1 meaning
+e	fortnightly	fortnightly	1 meaning
+e	fortunately	fortunately	1 meaning
+e	fosbury flop	fosburyflop	1 meaning
+e	foul-mouthed	foulmouthed	1 meaning
+e	fountain pen	fountainpen	1 meaning
+e	four hundred	fourhundred	1 meaning
+e	four of a kind	fourofakind	1 meaning
+e	fourth grade	fourthgrade	1 meaning
+e	fourth reich	fourthreich	1 meaning
+j	フォトアルバム	fotoarubamu	
+j	フォトショする	fotoshosuru	
+j	フォトジェニック	fotojenikku	写真に美しく写る。
+j	フォトナキッズ	fotonakizzu	Fortnite kids; child Fort…
+j	フォーチュン・クッキー	fochunkukki	a fortune cookie (snack)
+j	フォートコリンズ	fotokorinzu	
+j	フォーマットする	fomattosuru	
+j	フォーマルハウト	fomaruhauto	みなみのうお座にある一等星。みなみのうお座アルファ…
+j	フォーリーアーティスト	foriatisuto	
+e	fog collector	fogcollector	1 meaning
+e	folding chair	foldingchair	1 meaning
+e	folding knife	foldingknife	1 meaning
+e	folk medicine	folkmedicine	1 meaning
+e	folk religion	folkreligion	1 meaning
+e	folliculitis	folliculitis	1 meaning
+e	food additive	foodadditive	1 meaning
+e	for the sake of	forthesakeof	1 meaning
+e	force majeure	forcemajeure	2 meanings
+e	formal system	formalsystem	1 meaning
+e	formaldehyde	formaldehyde	1 meaning
+e	forster's tern	forsterstern	1 meaning
+e	fort-de-france	fortdefrance	1 meaning
+e	foster father	fosterfather	1 meaning
+e	foster mother	fostermother	1 meaning
+e	foul language	foullanguage	1 meaning
+e	four thousand	fourthousand	1 meaning
+e	fourth person	fourthperson	1 meaning
+e	fowling piece	fowlingpiece	1 meaning
+j	フォトレジスタ	fotorejisuta	
+j	フォトレジスト	fotorejisuto	photoresist
+j	フォルティッシモ	forutisshimo	非常に強く。ff。
+j	フォーカスグループ	fokasugurupu	focus group
+j	フォー・オブ・ア・カインド	foobuakaindo	a four of a kind
+e	folding screen	foldingscreen	1 meaning
+e	folk etymology	folketymology	1 meaning
+e	folkloristics	folkloristics	1 meaning
+e	food colouring	foodcolouring	1 meaning
+e	food poisoning	foodpoisoning	1 meaning
+e	football match	footballmatch	1 meaning
+e	foramen magnum	foramenmagnum	1 meaning
+e	forbidden city	forbiddencity	1 meaning
+e	foreign legion	foreignlegion	1 meaning
+e	foreign policy	foreignpolicy	1 meaning
+e	foreshadowing	foreshadowing	1 meaning
+e	fortississimo	fortississimo	1 meaning
+e	fortune cookie	fortunecookie	1 meaning
+e	fortune teller	fortuneteller	1 meaning
+e	fourier series	fourierseries	1 meaning
+e	foxtail barley	foxtailbarley	1 meaning
+e	foxtail millet	foxtailmillet	2 meanings
+j	フォスフォフィライト	fosufofiraito	phosphophyllite
+j	フォルクスワーゲン	forukusuwagen	
+j	フォローリクエスト	fororikuesuto	非公開のアカウントに対してフォローを許可するよう申…
+j	フォール゠ド゠フランス	forudofuransu	
+e	foodstagrammer	foodstagrammer	1 meaning
+e	for good measure	forgoodmeasure	1 meaning
+e	foreign affairs	foreignaffairs	2 meanings
+e	foreign country	foreigncountry	1 meaning
+e	formal language	formallanguage	1 meaning
+e	fortune-telling	fortunetelling	1 meaning
+e	fortysomething	fortysomething	1 meaning
+e	four-leaf clover	fourleafclover	1 meaning
+e	four-wheel drive	fourwheeldrive	1 meaning
+j	フォックストロット	fokkusutorotto	
+j	フォンタン手術	fontanshujutsu	先天性の心臓の奇形に対する手術法。上大静脈と下大静…
+j	フォークランドしょとう	fokurandoshoto	フォークランド諸島: Falkland Islan…
+j	フォークランド紛争	fokurandofunso	
+j	フォークランド諸島	fokurandoshoto	Falkland Islands (an arch…
+j	フォールディングナイフ	forudingunaifu	
+e	for the time being	forthetimebeing	1 meaning
+e	foreign currency	foreigncurrency	1 meaning
+e	foreign exchange	foreignexchange	1 meaning
+e	foreign language	foreignlanguage	1 meaning
+e	foreign minister	foreignminister	1 meaning
+e	forensic science	forensicscience	1 meaning
+e	foundationalism	foundationalism	1 meaning
+e	fountain of youth	fountainofyouth	1 meaning
+e	four noble truths	fournobletruths	1 meaning
+e	four-dimensional	fourdimensional	1 meaning
+e	football hooligan	footballhooligan	1 meaning
+e	for better or worse	forbetterorworse	1 meaning
+e	forklift operator	forkliftoperator	1 meaning
+e	fourier transform	fouriertransform	1 meaning
+j	フォルティッシッシモ	forutisshisshimo	fortississimo
+e	forward compatible	forwardcompatible	1 meaning
+e	foucault's pendulum	foucaultspendulum	1 meaning
+e	foundation garment	foundationgarment	1 meaning
+e	for your information	foryourinformation	1 meaning
+j	フォイエルバッハの定理	foierubahhanoteiri	正三角形でない三角形に就いて、九点円と内接円は常に…
+j	フォスファチジルセリン	fosufachijiruserin	
+j	フォークリフト運転者	fokurifutountensha	
+e	foot-and-mouth disease	footandmouthdisease	1 meaning
+e	forest green tree frog	forestgreentreefrog	1 meaning
+e	fortune favors the bold	fortunefavorsthebold	1 meaning
+e	forward compatibility	forwardcompatibility	1 meaning
+j	フォースと共にあらんことを	fosutotomoniarankotoo	
+e	four treasures of the study	fourtreasuresofthestudy	1 meaning
+e	four books and five classics	fourbooksandfiveclassics	1 meaning
+e	foreign exchange certificate	foreignexchangecertificate	1 meaning
+e	forbidden fruit is the sweetest	forbiddenfruitisthesweetest	1 meaning
+e	four horsemen of the apocalypse	fourhorsemenoftheapocalypse	1 meaning
+e	former yugoslav republic of macedonia	formeryugoslavrepublicofmacedonia	1 meaning

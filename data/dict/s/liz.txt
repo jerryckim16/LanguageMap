@@ -1,0 +1,107 @@
+e	izu	izu	1 meaning
+j	いざ	iza	join in; a phrase uttered…
+j	いぞう	izo	
+j	伊豆	izu	Izu (a city in Shizuoka P…
+j	伊豆・小笠原海溝	izu	伊豆諸島・小笠原諸島の東方の沖合にある海溝。
+j	出ず	izu	
+j	出づ	izu	to come out, go out
+j	遺贈	izo	bequeathing; bequeathment…
+e	izba	izba	1 meaning
+j	いずい	izui	（方言、主に北海道・宮城県など）違和感がある。しっ…
+j	以前	izen	before, formerly, ago
+j	依存	izon	dependency
+j	依然	izen	same (as before)
+j	委蕤	izui	柔らかなさま。
+j	威蕤	izui	盛んなこと。また、そのようなさま。
+j	已然	izen	already being so (see 已然形)
+j	怡然	izen	怡楽するさま。
+j	異存	izon	objection
+j	異材	izai	特別に優れた才能の持ち主。
+j	萎蕤	izui	萎れること。
+e	izium	izium	1 meaning
+e	izmir	izmir	1 meaning
+e	izumo	izumo	1 meaning
+j	いざま	izama	座っている姿勢や態度。居住まい。
+j	いざよう	izayo	進もうとして進まない。躊躇う。
+j	いざる	izaru	すわる。
+j	いずく	izuku	indefinite interrogative …
+j	いずこ	izuko	indefinite interrogative …
+j	いずみ	izumi	水が湧き出る場所。また、そこから湧き出る水。夏の季…
+j	いずも	izumo	出雲のひらがな表記。
+j	いずら	izura	
+j	いずれ	izure	which... (of three or mor…
+j	いぞく	izoku	遺族: bereaved family
+j	イザヤ	izaya	
+j	イザーファ	izafa	
+j	イザール	izaru	izaar
+j	イズバ	izuba	
+j	イズム	izumu	an ism
+j	イーゼル	izeru	an easel
+j	イ族	izoku	彝族の別表記。
+j	井沢	izawa	a surname
+j	何ら	izura	where
+j	出水	izumi	Izumi (a city and train s…
+j	出雲	izumo	Izumo (a city in Shimane …
+j	和泉	izumi	Izumi (a city in Osaka Pr…
+j	夷俗	izoku	異国人、異民族の風俗。
+j	彝族	izoku	中華人民共和国に住む少数民族の一つ。
+j	泉	izumi	natural spring, a wellspr…
+j	泉水	izumi	a surname
+j	異俗	izoku	異なる風俗。変わった風俗。
+j	異族	izoku	異なる種族や民族。
+j	異賊	izoku	異国（外国）の賊。
+j	躄	izari	the action of moving forw…
+j	躄る	izaru	to slide on one's knees w…
+j	遺俗	izoku	現在も残っている昔からの風俗。
+j	遺族	izoku	the bereaved family, fami…
+j	飯塚	izuka	Iizuka (a city in Fukuoka…
+j	飯綱	izuna	a least weasel
+e	izmail	izmail	1 meaning
+j	いざない	izanai	「いざなう」の連用形。
+j	いざなう	izanau	さそう。勧める。
+j	いざよい	izayoi	【猶予:熟字訓】動詞「いざよう」の名詞化。進もうと…
+j	いずし	izushi	乳酸発酵させて作るなれずし。
+j	いずまい	izumai	座っている姿勢や態度。居様。
+j	以前に	izenni	
+j	以前の	izenno	
+j	十六夜	izayoi	the sixteenth night of th…
+j	猶予い	izayoi	a hesitation, a pause
+j	猶予う	izayou	to pause, to hesitate
+e	-ization	ization	1 meaning
+e	izakaya	izakaya	1 meaning
+e	izanagi	izanagi	1 meaning
+e	izanami	izanami	1 meaning
+e	izhevsk	izhevsk	1 meaning
+j	いざかや	izakaya	簡単な料理を食べさせたり、安い酒を飲ませたりする簡…
+j	いざこざ	izakoza	dispute; trouble
+j	いずれも	izuremo	何れも: all, every, both, any
+j	イズミル	izumiru	
+j	イゼベル	izeberu	
+j	イゾルデ	izorude	
+j	伊弉冉尊	izanami	Izanami, the Japanese cre…
+j	伊邪那岐	izanagi	Izanagi, the Japanese cre…
+j	伊邪那美	izanami	Izanami, the Japanese cre…
+j	伊邪那美命	izanami	Izanami, the Japanese cre…
+j	依存性	izonsei	生物に対し依存症を引き起こす性質。
+j	依存症	izonsho	addiction
+j	居酒屋	izakaya	An izakaya: a Japanese ba…
+j	已然形	izenkei	a verbal inflectional cat…
+j	いずくんぞ	izukunzo	（反語を表わす。「いづくにぞ」の音変化）どうして〜…
+j	イザヤ書	izayasho	
+j	安んぞ	izukunzo	how, why
+j	居催促	izaisoku	座り込んでしつこく（何かを）催促すること。
+j	伊豆の国	izunokuni	Izunokuni (a city in Shiz…
+j	位相変調	izohencho	
+j	依存性の	izonseino	
+j	泉川	izumikawa	a surname
+j	いざしらず	izashirazu	I don't know about […] , …
+j	いざよいづき	izayoizuki	陰暦で十六夜の月。既望の月、十六夜の月。
+j	十六夜薔薇	izayoibara	The chestnut or burr rose…
+j	いざとなると	izatonaruto	
+j	いずれにせよ	izureniseyo	either way, at any rate
+j	依然として	izentoshite	still, as always, as usua…
+j	いざとなったら	izatonattara	
+j	いずれにしろ	izurenishiro	at any rate, anyhow, in a…
+j	いざと言う時に	izatoyutokini	
+j	いざよいのつき	izayoinotsuki	十六夜月。
+j	いずれにしても	izurenishitemo	either way, at any rate

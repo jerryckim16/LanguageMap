@@ -1,0 +1,505 @@
+k	옷	ot	clothing; clothes
+k	옻	ot	lacquer
+e	ota	ota	1 meaning
+j	おうて	ote	敵の正面から攻撃する部隊。大手。
+j	おおて	ote	城の正面。
+j	おた	ota	おたく（特定の趣味に非常に没頭している人）。
+j	おて	ote	手を丁寧に言う語。
+j	おと	oto	耳に達して感覚を生じる振動。
+j	オタ	ota	
+j	オート	oto	being auto, being automat…
+j	ヲタ	ota	
+j	嘔吐	oto	vomiting
+j	大手	ote	major company
+j	太田	ota	Ōta (a city in Gunma Pref…
+j	応答	oto	response
+j	桜桃	oto	A bird cherry, mazzard ch…
+j	王党	oto	royalist party, king's pa…
+j	王手	ote	check (move threatening t…
+j	王統	oto	royal bloodline
+j	王都	oto	royal capital
+j	黄桃	oto	桃の品種の一つ。果肉は黄色く濃厚。
+k	오타	ota	typo; typographical error
+k	오토	oto	
+k	오티	oti	
+e	otsu	otsu	1 meaning
+e	otto	otto	1 meaning
+j	おった	otta	past tense and perfective…
+j	おって	otte	やがて。まもなく。
+j	おっと	otto	oops, whoops, whoa, oh no…
+j	オットー	otto	a transliteration of the …
+j	乙	otsu	the second of the ten Cel…
+j	変若つ	otsu	to become young, to retur…
+j	大津	otsu	a large port or harbor
+j	夫	otto	husband
+j	応天	oten	中国宋の時代の府。現在の河南省商邱。
+j	応対	otai	reception (of guests), re…
+j	横帯	otai	動物で頭から尾の方向に直交する縞模様。よこじま。
+j	横転	oten	a turn or roll onto one's…
+j	横隊	otai	横方向に並んだ隊形。
+j	汚点	oten	discolored spot or area
+j	淤滞	otai	滞ること。
+j	甕天	oten	小見識を例えること。
+j	落つ	otsu	to fall
+j	鶯囀	oten	鶯の鳴き声。
+j	黄体	otai	脊椎動物（特に哺乳類）の卵巣で排卵した後の卵胞から…
+j	黄点	oten	黄斑。
+e	otaku	otaku	1 meaning
+e	otaru	otaru	1 meaning
+e	other	other	5 meanings
+e	otter	otter	2 meanings
+j	おおたか	otaka	鳥の名、詳細は「オオタカ」参照。
+j	おおたに	otani	大谷, 大澗, 大渓, 太谷, 大多新, 大尾谷,…
+j	おおたば	otaba	束が大きいもの。
+j	おおとも	otomo	おおきいおともだちの略称。
+j	おおとら	otora	よっぱらい。泥酔した者。
+j	おおとり	otori	any large bird (crane, st…
+j	おおとろ	otoro	まぐろの腹肉前部のよく脂の乗った部分。
+j	おたく	otaku	家、家庭。その居住者を敬うときに使われる。
+j	おたな	otana	奉公人や出入りの商人、職人などがその商家を指す尊敬…
+j	おたま	otama	eggs (of a chicken)
+j	おてて	otete	hand
+j	おてら	otera	「寺（語義1）」。
+j	おとうと	ototo	親を同じくする年下の男子。実弟。
+j	おとおり	otori	通ることの尊敬語。
+j	おとこ	otoko	人の性別の一方で、Y染色体を持ち、子を産めない側（…
+j	おとご	otogo	兄弟姉妹のうち最も年下の者。すえっこ（末っ子）。
+j	おとす	otosu	空中において、物をその重みにより下の方へ移す。
+j	おとど	otodo	the residence of a noble …
+j	おとな	otona	一定の年齢に達した人。現代日本では(民法で)18歳…
+j	おとめ	otome	年の若い女性。むすめ。しょうじょ。
+j	おとも	otomo	「とも（供、伴）」を丁寧に言う語。
+j	おとや	otoya	手に持った二本の矢のうち、二番目に射る矢。二の矢。
+j	おとり	otori	鳥や獣を誘い寄せるために使う同類の鳥・獣。
+j	おとる	otoru	品質・数量・能力などが他と比べて及ばない。
+j	お宅	otaku	your home
+j	お寺	otera	temple
+j	お得	otoku	
+j	お玉	otama	
+j	オオタカ	otaka	タカ目タカ科ハイタカ属に属する猛禽類の一種。学名:…
+j	オタク	otaku	geek, nerd, freak, no-lif…
+j	オタサー	otasa	オタクが集まるサークル。
+j	オタワ	otawa	Ottawa (a city in Ontario…
+j	オータム	otamu	autumn, fall
+j	オートマ	otoma	「オートマチック」、「オートマチックトランスミッシ…
+j	ヲタク	otaku	
+j	乙女	otome	daughter
+j	乙子	otogo	youngest child
+j	二矢	otoya	a male given name
+j	劣る	otoru	to be poor at
+j	囮	otori	decoy
+j	大人	otona	an adult, a grown-up
+j	大伴	otomo	a surname
+j	大友	otomo	a surname
+j	大滝	otaki	a surname
+j	大竹	otake	a surname
+j	大虎	otora	酷く酒に酔った人。
+j	大谷	otani	a surname
+j	大高	otaka	a surname
+j	奥陶紀	otoki	synonym of オルドビス紀
+j	小樽	otaru	a city in Hokkaido Prefec…
+j	弟	ototo	one’s own younger brother
+j	応徳	otoku	the Ōtoku era, 1084-1087
+j	汚涜	otoku	汚すこと。瀆すこと。
+j	汚瀆	otoku	汚すこと。瀆すこと。
+j	男	otoko	a male person
+j	落てる	oteru	
+j	落とす	otosu	to drop (something)
+j	音の	otono	
+j	音ゲ	otoge	音楽ゲーム。
+j	音ゲー	otoge	音楽ゲーム。
+k	오똑	ottok	'오뚝' 을 비표준어.
+k	오뚝	ottuk	
+k	오타와	otawa	[~시(市)] Ottawa (a city in…
+k	오타쿠	otaku	otaku
+k	옷감	otgam	cloth, material, fabric
+k	옷깃	otgit	collar
+e	otiose	otiose	2 meanings
+e	otitis	otitis	1 meaning
+e	ottawa	ottawa	2 meanings
+e	ōtsuki	otsuki	1 meaning
+j	おおたち	otachi	大きな太刀。
+j	おおつぶ	otsubu	粒が大きいこと。また、そのような粒。
+j	おたおた	otaota	不意の出来事などにうろたえてどうして良いか分からな…
+j	おたおめ	otaome	
+j	おたがい	otagai	「たがい」を丁寧に言う語。関係を持つ双方。
+j	おっちゃん	otchan	
+j	おっとり	ottori	calm, quiet (personality)
+j	おつき	otsuki	honorific of つき (tsuki, “…
+j	おつげ	otsuge	神仏からの知らせ。神託。
+j	おつゆ	otsuyu	「つゆ」を丁寧に言う語。しるもの。
+j	おつり	otsuri	代価以上の金銭を支払ったときに戻される差額の金銭「…
+j	おてあげ	oteage	お手上げ: throwing up one's h…
+j	おてんき	otenki	
+j	おてんば	otenba	恥じらいやつつしみなどかなく活発な若い女性。フラッ…
+j	おとうさん	otosan	親しみと敬意を込めて自分の父親を呼ぶ語あるいは指す…
+j	おとがい	otogai	chin
+j	おととい	ototoi	昨日の一日前。今日の二日前。[10世紀～]
+j	おとろえ	otoroe	「おとろえる」の未然形及び連用形。
+j	お互い	otagai	each other
+j	お手上げ	oteage	throwing up one's hands: …
+j	お手本	otehon	
+j	お父さん	otosan	father
+j	お転婆	otenba	tomboyish
+j	お通し	otoshi	appetizer; starter; hors …
+j	お釣り	otsuri	change (money given back …
+j	オタリア	otaria	a South American sea lion
+j	オタ芸	otagei	otagei: the dancing perfo…
+j	オトメン	otomen	a man with the sensitive …
+j	オートバイ	otobai	a motorcycle
+j	乙部	otsubu	部首「⼄」で分類した漢字の一群。
+j	凹凸	ototsu	that which has a non-flat…
+j	大坪	otsubo	a surname
+j	大塚	otsuka	a surname
+j	大手門	otemon	城の正門。
+j	大月	otsuki	a city in Yamanashi Prefe…
+j	大槻	otsuki	a surname
+j	大粒	otsubu	large drop
+j	御手本	otehon	「手本」を丁寧に言う語。
+j	横突	ototsu	
+j	横突起	otokki	a transverse process
+j	王太后	otaigo	
+j	頤	otogai	
+j	黄鉄鉱	otekko	pyrite
+k	오똑이	ottoki	'오뚝이'의 비표준어.
+k	오뚜기	ottugi	'오뚝이'의 비표준어.
+k	오뚝이	ottugi	아무렇게나 굴려도 오뚝오뚝 일어서는 장난감.
+k	오띠기	ottigi	'오뚝이'의 비표준어.
+k	오토만	otoman	
+k	오토바이	otobai	motorcycle
+k	옷장	otjang	wardrobe, closet
+k	옻칠	otchil	
+e	othniel	othniel	1 meaning
+e	otolith	otolith	1 meaning
+e	ottoman	ottoman	5 meanings
+e	ōtawara	otawara	1 meaning
+j	おおてすじ	otesuji	城の正面の通り。
+j	おおとかげ	otokage	有鱗目オオトカゲ科に属するとかげの総称。学名: V…
+j	おたけび	otakebi	勇ましい男性のような叫び声をあげること。また、その…
+j	おたずね	otazune	尋ねることやその動作をする人を敬う語。
+j	おたとも	otatomo	otaku friend
+j	おったつ	ottatsu	
+j	おっとせい	ottosei	
+j	おっとっと	ottotto	Said to warn someone to b…
+j	おっ死ぬ	otchinu	to kick the bucket; to die
+j	おつかい	otsukai	
+j	おてあらい	otearai	(まれ) 手を洗う場所、手水場。
+j	おてぃんてぃん	otintin	
+j	おてだま	otedama	手に収まる程度の布袋にあずきなどを入れた玩具。また…
+j	おてなみ	otenami	「てなみ」を丁寧に言う語。技量。うでまえ。
+j	おてふき	otefuki	「てふき」の丁寧な言い方。
+j	おてもと	otemoto	「てもと」を丁寧に言う語。
+j	おてもり	otemori	自分の都合の良いように物事を進めること。
+j	おとうさま	otosama	
+j	おとこおび	otokobi	男性が締める帯。
+j	おとこぎ	otokogi	強い者を挫き、弱い者を助けようという男らしい気質、…
+j	おとこで	otokode	男性の労力や働き手。
+j	おとさた	otosata	音沙汰, 音さた: news, letter
+j	おとずれ	otozure	「おとずれる」の未然形及び連用形。
+j	おとつい	ototsui	おととい、一昨日。現在でも西日本では用い東京でも老…
+j	おとなげ	otonage	大人らしい分別や冷静を持った言動。形容詞「ない」を…
+j	おとひめ	otohime	妹の姫。
+j	おとめざ	otomeza	乙女座, おとめ座: Virgo
+j	おとめ座	otomeza	Virgo (constellation)
+j	おともれ	otomore	leakage of sound from hea…
+j	おとズレ	otozure	音ズレ, 音ずれ: audio being out…
+j	お使い	otsukai	
+j	お徳用	otokuyo	
+j	お手並み	otenami	
+j	お手元	otemoto	chopsticks
+j	お手洗い	otearai	a restroom, a toilet, a l…
+j	お手許	otemoto	chopsticks
+j	オオトカゲ	otokage	有鱗目オオトカゲ科に属するとかげの総称である大蜥蝪…
+j	オットセイ	ottosei	おっとせいの学術的表記。
+j	オットマン	ottoman	ottoman (fabric)
+j	オートハープ	otohapu	ドイツの楽器製作者C.A.Gütterが19世紀末…
+j	オートファジー	otofaji	autophagy
+j	オートミール	otomiru	oatmeal
+j	オートムギ	otomugi	「オート麦」の学術的表記。
+j	オートメ化	otomeka	
+j	オートレーサー	otoresa	オートレースの選手。
+j	オートレース	otoresu	小型自動車競争法に定められた競走車を用いて行われる…
+j	オート麦	otomugi	燕麦。
+j	乙女ゲー	otomege	
+j	乙女座	otomeza	
+j	乙姫	otohime	Otohime, princess of Ryūg…
+j	乙巡	otsujun	second-class cruiser
+j	乙種	otsushu	second-class (I.E. of les…
+j	乙繞	otsunyo	漢字の部首「⼄」が繞である場合の呼称。
+j	乙類	otsurui	shochu produced by simple…
+j	嘔吐する	otosuru	
+j	大津市	otsushi	滋賀県の県庁所在地。中核市。
+j	大田原	otawara	Ōtawara (a city in Tochig…
+j	大蜥蜴	otokage	monitor lizard, a large c…
+j	小田切	otagiri	a zone in Nagano, Japan
+j	弟姫	otohime	a noblewoman who is young…
+j	弟嫁	otoyome	
+j	御手元	otemoto	chopsticks
+j	御手許	otemoto	chopsticks
+j	海狗	ottosei	おっとせいの異名。
+j	王太子	otaishi	crown prince
+j	男の	otokono	
+j	男手	otokode	a man's work or effort
+j	男気	otokogi	a masculine temperament; …
+j	男湯	otokoyu	men's bath (in a public b…
+j	膃肭臍	ottosei	a fur seal; more specific…
+j	阿多福	otafuku	「阿多福面」の略。
+j	雄叫び	otakebi	acting manly or with auth…
+j	音ゲーマー	otogema	person who plays rhythm g…
+j	音ズレ	otozure	audio being out-of-sync w…
+j	音ハメ	otohame	syncing actions to music;…
+j	音割れ	otoware	clipping
+j	音沙汰	otosata	news, correspondence
+k	오터개	oteogae	
+k	오토파지	otopaji	
+k	오퇴뭐	otoemwo	(뜻). 오늘 퇴근하고 뭐하니?
+k	오트밀	oteumil	oatmeal
+k	옷걸이	otgeori	coat hanger
+e	otherkin	otherkin	1 meaning
+e	otorrhea	otorrhea	1 meaning
+j	おおつづみ	otsuzumi	能楽や長唄などの囃子などで使用する大型の鼓。おおか…
+j	おおつなみ	otsunami	非常に高い（通常3メートルを超える）津波。
+j	おたかつ	otakatsu	otaku activities
+j	おたんちん	otanchin	まぬけ。のろま。おたんこなす。
+j	おつかれ	otsukare	「つかれ」を丁寧に言う語。
+j	おてつき	otetsuki	touching the wrong card
+j	おてらさん	oterasan	寺の僧侶、特に住職を尊敬した語。御寺様。
+j	おとうとぶん	ototobun	弟分: sworn younger brother
+j	おとこあま	otokoama	男性の海人。
+j	おとこうけ	otokouke	appealing / attractive to…
+j	おとこおんな	otokonna	男のような女。
+j	おとこまえ	otokomae	man's appearance, man's l…
+j	おとしご	otoshigo	貴人が正妻以外の女性に生ませた子。落胤。
+j	おととし	ototoshi	昨年より一つ前の年。今年より二つ前の年。
+j	おとなし	otonashi	音が聞こえないこと。反応がないこと。何らの行動も起…
+j	おとろえる	otoroeru	力などが弱くなる。
+j	お互いに	otagaini	
+j	お疲れ	otsukare	
+j	お誕生日	otanjobi	
+j	を通して	otoshite	throughout
+j	オトニエル	otonieru	
+j	オートマトン	otomaton	
+j	オートロック	otorokku	automatic locking
+j	嘔吐物	otobutsu	vomit; vomitus
+j	大人買い	otonagai	Of an adult, buying (chie…
+j	大津波	otsunami	
+j	弟分	ototobun	sworn younger brother
+j	御旅所	otabisho	神社の祭礼で、神輿を臨時に安置する場所。
+j	応対する	otaisuru	
+j	王手は追う手	otehaote	必至に至る見込み無く、むやみに王手をかけても相手を…
+j	男親	otokooya	male parent; father
+j	男顔	otokogao	masculine face
+j	落とし子	otoshigo	love child
+j	衰える	otoroeru	weaken, waste away, decli…
+j	音フェチ	otofechi	having the autonomous sen…
+j	音鉄	ototetsu	fan of the sounds related…
+j	黄橙色	otoshoku	黄色と橙色の中間色。
+k	오타와족	otawajok	
+k	오탄당	otandang	
+k	오톨오톨	otorotol	
+k	옷고름	otgoreum	a coat string
+k	옷차림	otcharim	attired appearance
+e	other than	otherthan	1 meaning
+e	otherwise	otherwise	3 meanings
+e	otome game	otomegame	1 meaning
+j	おおたかがり	otakagari	大鷹を使って冬に行う鷹狩り。
+j	おためづく	otamezuku	御為ごかし。
+j	おてらさま	oterasama	寺の僧侶、特に住職を尊敬した語。御寺さん。
+j	おとがいきん	otogaikin	頤筋: mentalis
+j	おとこえし	otokoeshi	オミナエシ科の多年草。中国、朝鮮半島、日本に自生。
+j	おとこだて	otokodate	男気（おとこぎ）が勝ること。また、そのような人。
+j	おとこづれ	otokozure	accompanied by a man or b…
+j	おとこなき	otokonaki	crying
+j	おとこのこ	otokonoko	男の子供。
+j	おとこやま	otokoyama	（特に二つ並んだ山で）斜面が険しく男らしい山。
+j	おとしあな	otoshiana	人や動物をその中に落とすために掘られた穴。
+j	おとずれる	otozureru	ある場所へ行く、来る。訪問する。来訪する。
+j	おとなしい	otonashii	騒いだりせず静かにしているさま。
+j	おとなっぽい	otonappoi	態度や容姿などが大人びて見えるさま。
+j	おとなびる	otonabiru	大人らしくなる。
+j	おとむすめ	otomusume	長女に対し、それより年下の娘。
+j	お問い合わせ	otoiawase	
+j	オトガイ筋	otogaikin	a mentalis muscle
+j	オートクレーブ	otokurebu	耐圧性の装置や容器。圧熱滅菌器、高圧消毒機。
+j	オートバイ商	otobaisho	中古車（オートバイ）を扱う古物商。
+j	オートフォーカス	otofokasu	
+j	オートボルタ	otoboruta	
+j	オートメーション	otomeshon	automation
+j	オートモビル	otomobiru	自動車。オート。
+j	オートレース場	otoresujo	オートレースが行なわれる走路、及び観覧などのための…
+j	オートヴォルタ	otovoruta	
+j	オート三輪	otosanrin	オート三輪車の略称。
+j	一昨日来い	ototoikoi	go away, and do not ever …
+j	乙号券	otsugoken	日本で1910年に発行が開始された紙幣。
+j	乙女ゲーム	otomegemu	otome game
+j	囮捜査	otorisosa	sting (police operation)
+j	大人しい	otonashii	quiet
+j	大人ぶる	otonaburu	to act like an adult (whe…
+j	男の娘	otokonoko	A male who has feminine a…
+j	男の子	otokonoko	a boy
+j	男文字	otokomoji	男性が書いた文字。
+j	膃肭	otsutotsu	太り、やわらかいこと。
+j	落し穴	otoshiana	
+j	落とし穴	otoshiana	a pit trap or snare
+j	落穴	otoshiana	
+j	訪れる	otozureru	visit, call on, pay somew…
+j	音が大きい	otogaokii	
+j	音を出す	otowodasu	
+j	頤筋	otogaikin	
+k	오뚝하다	ottukhada	
+k	오턱하다	oteokhada	
+k	오토릭샤	otoriksya	
+k	오토매톤	otomaeton	
+k	오토메 게임	otomegeim	
+k	오톨도톨	otoldotol	
+k	오트볼타	oteubolta	
+k	옻그릇	otgeureut	
+e	otherworld	otherworld	1 meaning
+e	ottava rima	ottavarima	1 meaning
+j	おおとしそば	otoshisoba	年越し蕎麦（としこしそば）。
+j	おたのしみ	otanoshimi	enjoyment
+j	おたんこなす	otankonasu	まぬけ。のろま。おたんちん。
+j	おったまげる	ottamageru	
+j	おつきさま	otsukisama	月に対し親しみを込めた言い方。
+j	おとしがみ	otoshigami	便所用の紙。
+j	おとしこむ	otoshikomu	抽象的なものを、より具体的なものに適用する。
+j	おとしだま	otoshidama	新年を祝い、主に目上から目下に贈る金品。
+j	おとしぶみ	otoshibumi	公然には言えないことを文書として落としておくこと。…
+j	おとしみず	otoshimizu	稲を刈る前に田を干すため流す水。その仕事。
+j	おとしめる	otoshimeru	人の劣っている点を挙げて悪く言う。見下す。さげすむ。
+j	おとしもの	otoshimono	元々誰か所持していた人が不注意で落としたり、忘れた…
+j	お互い様	otagaisama	we are in the same boat
+j	お年寄り	otoshiyori	
+j	お年玉	otoshidama	a red envelope
+j	お月様	otsukisama	the Moon
+j	お玉一杯	otamaippai	
+j	オッターヴァ・リーマ	ottavarima	
+j	オートクチュール	otokuchuru	haute couture
+j	オート・リクシャー	otorikusha	
+j	凹多角形	otakakukei	内角のうち一つ以上が凹角からなる多角形。
+j	大人げない	otonagenai	
+j	大晦	otsugomori	the last day of the year,…
+j	弟弟子	ototodeshi	a junior disciple or appr…
+j	御天道様	otentosama	「太陽」を敬い、親しみを込めた語。御日様。
+j	男嫌い	otokogirai	misandry (of an attitude)
+j	落し物	otoshimono	lost property
+j	貶める	otoshimeru	abase (to lower in ranks …
+j	阿多福面	otafukumen	丸顔で額が高く、頬がふくよかで鼻が低い（中年）女性…
+k	오똑오똑	ottokottok	'오뚝오뚝' 을 비표준어.
+k	오똘대다	ottoldaeda	'오똘거리다'
+k	오똘오똘	ottorottol	자꾸 까불거나 몸을 흔들어 방정맞은 모양.
+k	오뚝오뚝	ottugottuk	
+k	오토머튼	otomeoteun	
+j	おおとのごもる	otonogomoru	to sleep
+j	おたずねもの	otazunemono	奉行所、警察などが捕えようと行方を追っている犯罪容…
+j	おっちょこちょい	otchokochoi	scatterbrained, careless,…
+j	おっつかっつ	ottsukattsu	nearly equal
+j	おつかれかい	otsukarekai	function in recognition o…
+j	おつかれさん	otsukaresan	「おつかれさま」よりくだけた丁寧語。
+j	おとぎの国	otoginokuni	
+j	おとこざかり	otokozakari	心身が充実し男性として一番活気がある年頃。
+j	おとこのひと	otokonohito	大人の男。
+j	おとこまさり	otokomasari	女が男のように気性が強いこと。また男性が優位にある…
+j	おとこやもめ	otokoyamome	妻を失った男。妻のいない男。
+j	おとこよもぎ	otokoyomogi	キク目キク科キク亜科ヨモギ属の多年草。地下茎を持た…
+j	おとこらしい	otokorashii	いかにも男性特有の性質を持っているさま。
+j	おとしいれる	otoshiireru	計略にかけて騙し、困難な状態にさせる。
+j	おとめごころ	otomegokoro	年が若く、純真で無邪気な女性が抱く感情（または、そ…
+j	オタサーの姫	otasanohime	lone girl in a group of m…
+j	オタネニンジン	otaneninjin	「御種人参」の学術的表記。
+j	オートキュイジーヌ	otokyuijinu	宮廷料理に端を発する、伝統的で格式高いフレンチ。複…
+j	オートパイロット	otopairotto	autopilot
+j	オートフェラチオ	otoferachio	
+j	オートマチック	otomachikku	automatic
+j	乙女心	otomegokoro	feelings and emotions of …
+j	嘔吐恐怖症	otokyofusho	恐怖症のひとつ。自分が吐くことまたは、他人が吐くこ…
+j	大人になる	otonaninaru	to grow up; to become an …
+j	大人に成る	otonaninaru	
+j	大人の事情	otonanojijo	"the affairs of adults", …
+j	大土蜘蛛	otsuchigumo	tarantula, a spider of fa…
+j	夫の権利	ottonokenri	marital rights (of husban…
+j	御種人参	otaneninjin	Panax ginseng (Chinese gi…
+j	男の人	otokonohito	man, male adult person
+j	男やもめ	otokoyamome	widower
+j	男らしい	otokorashii	manly
+j	男勝り	otokomasari	a spirited or strong-mind…
+j	男寡	otokoyamome	
+j	男心	otokogokoro	masculine/manly heart
+j	男言葉	otokokotoba	male language, men's words
+j	落し主	otoshinushi	
+j	落とし主	otoshinushi	
+j	阿多福風邪	otafukukaze	「流行性耳下腺炎」の俗称。
+j	陥れる	otoshiireru	to frame, to entrap
+j	黄体ホルモン	otaihorumon	黄体や胎盤から分泌される女性ホルモンの一つ。発情ホ…
+k	오토메이션	otomeisyeon	automation
+k	오토파일럿	otopailleot	
+j	おおつづらふじ	otsuzurafuji	キンポウゲ目ツヅラフジ属に属するつる植物。学名:S…
+j	おおとらつぐみ	otoratsugumi	スズメ目ツグミ科トラツグミ属に属するとらつぐみの亜…
+j	おたまじゃくし	otamajakushi	汁をすくうのに使う長い柄のついた半球形の杓子。おた…
+j	おためごかし	otamegokashi	表向きは相手の為にするように見せて、その実自分の利…
+j	おつかれさま	otsukaresama	相手の労苦を労う言葉。
+j	おつハムニダ	otsuhamunida	おつかれさまでした。
+j	おてつだいさん	otetsudaisan	世帯主などに雇われ家事などの補助を行う女性。
+j	おとがいぜっきん	otogaizekkin	頤舌筋: genioglossus
+j	おとぎばなし	otogibanashi	退屈を紛らすためのはなし。
+j	おとぎ話	otogibanashi	fairy tale
+j	おとこらしさ	otokorashisa	男らしいこと。
+j	おとこをみせる	otokoomiseru	to show off one's masculi…
+j	おとしこめる	otoshikomeru	おとしこむに同じ。
+j	おとなしやか	otonashiyaka	穏やかで落ち着いているさま。
+j	お手伝いさん	otetsudaisan	maid
+j	お玉杓子	otamajakushi	a ladle (deep-bowled spoo…
+j	お疲れ様	otsukaresama	
+j	オタマジャクシ	otamajakushi	おたまじゃくしの学術的表記。
+j	オトガイ舌筋	otogaizekkin	a genioglossus muscle
+j	オート三輪車	otosanrinsha	貨物自動車型の三輪自動車。
+j	大人しやか	otonashiyaka	
+j	横突間筋	ototsukankin	an intertransversarius mu…
+j	漢らしさ	otokorashisa	
+j	男たらし	otokotarashi	
+j	男らしさ	otokorashisa	
+j	男を磨く	otokoomigaku	to strengthen one's honor…
+j	男殺し	otokogoroshi	an enticing woman (see si…
+j	男誑し	otokotarashi	coquette
+j	音を立てずに	otootatezuni	
+j	頤舌筋	otogaizekkin	
+k	오똘거리다	ottolgeorida	방정맞게 자꾸 까불거나 몸을 흔들다.
+k	오톨오톨하다	otorotolhada	
+e	otaheite apple	otaheiteapple	1 meaning
+e	ottoman empire	ottomanempire	1 meaning
+j	おたかくとまる	otakakutomaru	to act superior; be haugh…
+j	お手並み拝見	otenamihaiken	let's see what you've got…
+j	オートガイネフィリア	otugainefiria	
+j	オートバイシクル	otobaishikuru	a motorized bicycle: a mo…
+j	大人のおもちゃ	otonanoomocha	synonym of 性具
+j	大津波警報	otsunamikeiho	最大で高さ3 m超の津波が予想される際に発表される…
+j	男が廃る	otokogasutaru	one loses his reputation …
+k	오토클레이브	otokeulleibeu	
+k	오톨도톨하다	otoldotolhada	
+e	otolaryngology	otolaryngology	1 meaning
+e	ottoman turkish	ottomanturkish	1 meaning
+j	おおつごもりそば	otsugomorisoba	年越し蕎麦（としこしそば）。大晦日は現代では一般に…
+j	オートラジオグラフィー	otorajiogurafi	
+k	오똘랑대다	ottollangdaeda	
+k	오똘오똘하다	ottorottolhada	
+k	오뚝오뚝하다	ottugottukhada	
+j	お誕生日おめでとう	otanjobiomedeto	happy birthday
+j	落とし物センター	otoshimonosenta	
+k	옷깃을 여미다	otgiseulyeomida	
+j	お疲れ様です	otsukaresamadesu	I appreciate your efforts…
+k	오똘랑거리다	ottollanggeorida	
+j	お釣りは結構です	otsuriwakekkodesu	
+j	オトガイ舌骨筋	otogaizekkotsukin	a geniohyoid muscle
+j	おとめ座超銀河団	otomezachogingadan	
+j	男の中の男	otokononakanootoko	
+k	오똘랑오똘랑	ottollangottollang	
+j	お手伝いしましょうか	otetsudaishimashoka	
+j	お手洗いはどこですか	otearaiwadokodesuka	
+j	お疲れ様でした	otsukaresamadeshita	I appreciate your efforts…
+e	otorhinolaryngologist	otorhinolaryngologist	1 meaning
+j	お手伝いいただけますか	otetsudaiitadakemasuka	
+k	오똘랑오똘랑하다	ottollangottollanghada	
+j	お誕生日おめでとうございます	otanjobiomedetogozaimasu	happy birthday
+j	オートマチックトランスミッション	otomachikkutoransumisshon	自動車やオートバイにおいてエンジンの回転数やアクセ…
+j	負うた子に教えられて浅瀬を渡る	otakonioshierareteasaseowataru	a fool may give a wise ma…
+j	男は閾を跨げば七人の敵あり	otokowashikiomatagebashichininnotekiari	It's difficult to make a …

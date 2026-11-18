@@ -3,145 +3,101 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Korean–Japanese Word Map</title>
-  <meta name="description" content="An interactive map of how Korean words map onto Japanese words: one-to-one, splits, merges, shared characters, loanwords and false friends.">
+  <title>Korean–Japanese Language Map</title>
+  <meta name="description" content="Interactive maps of Korean and Japanese: a kanji overlap map and a full Korean ↔ Japanese dictionary map with meanings and synonyms.">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Sans+JP:wght@400;500;700&family=Noto+Sans+KR:wght@400;500;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="css/styles.css">
+  <link rel="stylesheet" href="css/site.css">
+  <style>
+    body { overflow: auto; display: block; }
+    .home { max-width: 980px; margin: 0 auto; padding: 48px 20px 64px; }
+    .home h1 { font-size: clamp(28px, 5vw, 44px); margin: 0 0 10px; letter-spacing: -0.02em; }
+    .home h1 .arrow { color: var(--accent); margin: 0 6px; }
+    .lede { color: var(--muted); font-size: 17px; line-height: 1.6; max-width: 680px; margin: 0 0 32px; }
+    .cards-home { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 18px; }
+    .page-card {
+      display: flex; flex-direction: column; gap: 10px; text-decoration: none; color: inherit;
+      background: var(--panel); border: 1px solid var(--border); border-radius: 16px; padding: 22px;
+      transition: box-shadow .15s, transform .15s;
+    }
+    .page-card:hover { box-shadow: var(--shadow); transform: translateY(-2px); }
+    .page-card h2 { margin: 0; font-size: 21px; }
+    .page-card p { margin: 0; color: var(--muted); line-height: 1.55; }
+    .page-card .go { margin-top: auto; font-weight: 600; color: var(--accent); }
+    .demo { background: var(--bg); border-radius: 12px; padding: 14px; display: flex; align-items: center; justify-content: center; gap: 10px; flex-wrap: wrap; font-size: 20px; font-weight: 700; min-height: 96px; }
+    .demo .k { color: var(--ko); }
+    .demo .j { color: var(--ja); }
+    .demo .c { width: 40px; height: 40px; border-radius: 50%; background: var(--char-fill); color: var(--char-text); display: inline-flex; align-items: center; justify-content: center; }
+    .demo .m { font-size: 12px; font-weight: 500; color: var(--muted); border: 1px solid var(--border); border-radius: 999px; padding: 3px 9px; background: var(--panel); }
+    .demo .ar { color: var(--muted); font-weight: 400; }
+    .demo rt { font-size: 0.45em; }
+    .stats-home { display: flex; gap: 28px; flex-wrap: wrap; margin: 34px 0 0; }
+    .stats-home div { font-size: 13px; color: var(--muted); }
+    .stats-home strong { display: block; font-size: 24px; color: var(--text); }
+    .credits { margin-top: 36px; color: var(--muted); font-size: 12.5px; line-height: 1.6; }
+    .credits a { color: inherit; }
+  </style>
 </head>
 <body>
-  <!-- Shared arrowhead markers for every SVG on the page. -->
-  <svg class="defs" aria-hidden="true" focusable="false"><defs id="marker-defs"></defs></svg>
-
   <header class="topbar">
     <div class="brand">
-      <h1><span lang="ko">한</span><span class="arrow">→</span><span lang="ja">日</span> Word Map</h1>
-      <p class="tagline">How Korean words map onto Japanese words</p>
+      <h1><a href="index.html"><span lang="ko">한</span><span class="arrow">↔</span><span lang="ja">日</span> Language Map</a></h1>
     </div>
-
-    <div class="search">
-      <input id="search" type="search" autocomplete="off" spellcheck="false"
-             placeholder="Search 머리, はげ, 学校, atama, hair…" aria-label="Search words">
-      <ul id="search-results" class="search-results" role="listbox" hidden></ul>
-    </div>
-
-    <nav class="tabs" role="tablist" aria-label="Views">
-      <button role="tab" class="tab" data-view="mapping" aria-selected="true">Mapping</button>
-      <button role="tab" class="tab" data-view="network" aria-selected="false">Network</button>
-      <button role="tab" class="tab" data-view="list" aria-selected="false">List</button>
-      <button role="tab" class="tab" data-view="sounds" aria-selected="false">Sounds</button>
+    <nav class="site-nav" aria-label="Pages">
+      <a href="index.html" aria-current="page">Home</a>
+      <a href="kanji.html">Kanji overlap</a>
+      <a href="dictionary.html">Dictionary map</a>
     </nav>
-    <button id="about-btn" class="icon-btn" aria-label="About this map" title="About">?</button>
   </header>
 
-  <div class="layout">
-    <aside class="filters" aria-label="Filters">
-      <section>
-        <h2>Direction</h2>
-        <div class="segmented" role="group" aria-label="Arrow direction">
-          <button data-dir="ko2ja" aria-pressed="true"><span lang="ko">한국어</span> → <span lang="ja">日本語</span></button>
-          <button data-dir="ja2ko" aria-pressed="false"><span lang="ja">日本語</span> → <span lang="ko">한국어</span></button>
+  <main class="home">
+    <h1><span lang="ko">한국어</span><span class="arrow">↔</span><span lang="ja">日本語</span></h1>
+    <p class="lede">Two ways to explore how Korean and Japanese vocabulary line up: the words they share through
+      Chinese characters, and a full dictionary that maps every word to its meanings, synonyms and
+      equivalents. Some words have no equivalent at all.</p>
+
+    <div class="cards-home">
+      <a class="page-card" href="kanji.html">
+        <div class="demo" aria-hidden="true">
+          <span class="k" lang="ko">학교</span><span class="ar">—</span><span class="c" lang="ja">学</span><span class="ar">—</span>
+          <span class="j" lang="ja"><ruby>学<rt>がっ</rt></ruby><ruby>校<rt>こう</rt></ruby></span>
         </div>
-      </section>
-      <section>
-        <h2>Connection types</h2>
-        <div id="kind-chips" class="chips"></div>
-      </section>
-      <section>
-        <h2>Categories</h2>
-        <div id="category-chips" class="chips"></div>
-      </section>
-      <section class="toggles">
-        <h2>Options</h2>
-        <label class="toggle"><input type="checkbox" id="opt-broken"> Only non-one-to-one mappings</label>
-        <label class="toggle"><input type="checkbox" id="opt-chars" checked> Show shared characters (network)</label>
-      </section>
-      <section class="legend">
-        <h2>Legend</h2>
-        <div class="legend-row"><span class="lg-word lg-ko" lang="ko">머리</span> Korean word</div>
-        <div class="legend-row"><span class="lg-word lg-ja" lang="ja">頭</span> Japanese word</div>
-        <div class="legend-row"><span class="lg-char" lang="ja">学</span> Shared character</div>
-        <div class="legend-row"><svg class="lg-arrow" viewBox="0 0 44 12"><path d="M6 6 H38" marker-start="url(#m-translation)" marker-end="url(#m-translation)"/></svg> one-to-one (a bijection)</div>
-        <div class="legend-row"><svg class="lg-arrow" viewBox="0 0 44 12"><path d="M4 6 H38" marker-end="url(#m-translation)"/></svg> one-way: a split or a merge</div>
-      </section>
-      <p id="stats" class="stats"></p>
-    </aside>
-
-    <main class="stage">
-      <section id="view-mapping" class="view active" aria-label="Mapping diagrams">
-        <div class="mapping-intro">
-          <p>Each category is drawn as a function from the set of Korean words to the set of Japanese words.
-             <strong>↔</strong> marks a one-to-one pair. A single arrowhead marks a word that
-             <strong>splits</strong> into several words in the other language, or several words that
-             <strong>merge</strong> into one. Hover or tap a word to trace its arrows.</p>
-          <div id="kind-legend" class="kind-legend"></div>
+        <h2>Kanji overlap map</h2>
+        <p>Words written with the same Chinese characters in both languages (hanja 한자 / kanji 漢字), linked through
+          the characters they share. Includes false friends and the sound patterns that connect readings like 학 and がく.</p>
+        <span class="go">Open the kanji map →</span>
+      </a>
+      <a class="page-card" href="dictionary.html">
+        <div class="demo" aria-hidden="true">
+          <span class="k" lang="ko">머리</span><span class="ar">→</span>
+          <span style="display:grid;gap:4px"><span class="m">head</span><span class="m">hair</span></span><span class="ar">→</span>
+          <span class="j" lang="ja" style="display:grid;gap:2px"><ruby>頭<rt>あたま</rt></ruby><ruby>髪<rt>かみ</rt></ruby></span>
         </div>
-        <div id="mapping-sections"></div>
-      </section>
+        <h2>Dictionary map</h2>
+        <p>A Korean ↔ Japanese dictionary with every word linked to its meanings, so you can see synonyms, words with
+          many meanings, splits and merges, and words with no equivalent (눈치, 木漏れ日).</p>
+        <span class="go">Open the dictionary →</span>
+      </a>
+    </div>
 
-      <section id="view-network" class="view" aria-label="Word network">
-        <svg id="graph" role="img" aria-label="Network of Korean and Japanese words linked by translation arrows and shared characters"></svg>
-        <div class="map-controls">
-          <button class="icon-btn" id="zoom-in" aria-label="Zoom in">+</button>
-          <button class="icon-btn" id="zoom-out" aria-label="Zoom out">−</button>
-          <button class="icon-btn" id="zoom-reset" aria-label="Fit to screen" title="Fit to screen">⤢</button>
-        </div>
-        <p class="hint">Drag to pan · scroll to zoom · click a word or character</p>
-        <div id="tooltip" class="tooltip" hidden></div>
-      </section>
+    <div class="stats-home" id="stats-home"></div>
 
-      <section id="view-list" class="view" aria-label="Word list">
-        <div id="word-list"></div>
-      </section>
+    <p class="credits">Dictionary data comes from <a href="https://www.wiktionary.org/" target="_blank" rel="noopener">Wiktionary</a>
+      (English, Korean and Japanese editions), extracted by <a href="https://kaikki.org/" target="_blank" rel="noopener">Wiktextract / kaikki.org</a>,
+      and is available under <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener">CC BY-SA 4.0</a>.
+      Curated word pairs, notes and the site itself are part of this project.</p>
+  </main>
 
-      <section id="view-sounds" class="view" aria-label="Sound patterns">
-        <div class="sounds-intro">
-          <h2>Sound correspondences</h2>
-          <p>Words written with the same characters often sound alike, because Sino-Korean and
-             Sino-Japanese readings both come from Middle Chinese, and syllable endings match up in regular ways.
-             Characters are grouped below by the final consonant (받침) of their Korean reading.
-             Click a character to see it in the network.</p>
-        </div>
-        <div id="sound-groups" class="sound-groups"></div>
-      </section>
-    </main>
-
-    <aside id="detail" class="detail" aria-live="polite" hidden>
-      <button id="detail-close" class="icon-btn detail-close" aria-label="Close details">×</button>
-      <div id="detail-body"></div>
-    </aside>
-  </div>
-
-  <dialog id="about">
-    <form method="dialog">
-      <button class="icon-btn dialog-close" aria-label="Close">×</button>
-    </form>
-    <h2>About this map</h2>
-    <p>This map shows how the vocabulary of Korean lines up with Japanese. Each Korean word points
-       to the Japanese word or words used for the same meaning.</p>
-    <h3>Bijections, splits and merges</h3>
-    <ul>
-      <li><strong>One-to-one (↔):</strong> 달 ↔ 月. Both words mean "moon" and "month", so you can translate back and forth.</li>
-      <li><strong>Split (1 → 2):</strong> Korean 머리 is both 頭 (head) and 髪 (hair) in Japanese.</li>
-      <li><strong>Merge (2 → 1):</strong> Korean 다리 (leg) and 발 (foot) are both 足 in Japanese.</li>
-      <li><strong>Homonyms</strong> are separate words with a small number: 눈¹ (eye) and 눈² (snow).</li>
-    </ul>
-    <h3>Kinds of connection</h3>
-    <ul id="about-kinds"></ul>
-    <h3>Notes</h3>
-    <ul>
-      <li>A word list can't capture every nuance. The arrows show the usual, everyday equivalent.</li>
-      <li>Korean is romanized with Revised Romanization, Japanese with Hepburn.</li>
-      <li>Pronunciation (🔊) uses your browser's built-in speech voices.</li>
-      <li>To add words, edit <code>data/translations.js</code> (any words) or <code>data/words.js</code> (same-character pairs).</li>
-    </ul>
-  </dialog>
-
-  <script src="vendor/d3.min.js"></script>
-  <script src="data/words.js"></script>
-  <script src="data/translations.js"></script>
-  <script src="js/model.js"></script>
-  <script src="js/app.js"></script>
+  <script>
+    fetch("data/dict/meta.json").then((r) => r.json()).then((m) => {
+      const fmt = (n) => n.toLocaleString();
+      document.getElementById("stats-home").innerHTML =
+        `<div><strong>${fmt(m.koEntries)}</strong>Korean entries</div>` +
+        `<div><strong>${fmt(m.jaEntries)}</strong>Japanese entries</div>` +
+        `<div><strong>${fmt(m.meanings)}</strong>shared meanings</div>`;
+    }).catch(() => {});
+  </script>
 </body>
 </html>

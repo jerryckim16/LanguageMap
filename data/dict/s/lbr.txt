@@ -1,0 +1,324 @@
+e	bra	bra	1 meaning
+e	bro	bro	2 meanings
+e	brag	brag	1 meaning
+e	bran	bran	1 meaning
+e	brat	brat	1 meaning
+e	brew	brew	2 meanings
+e	bric	bric	1 meaning
+e	brie	brie	1 meaning
+e	brno	brno	1 meaning
+e	brace	brace	1 meaning
+e	bract	bract	1 meaning
+e	braid	braid	3 meanings
+e	brain	brain	6 meanings
+e	brake	brake	2 meanings
+e	brand	brand	2 meanings
+e	brass	brass	1 meaning
+e	brave	brave	1 meaning
+e	bravo	bravo	1 meaning
+e	brawl	brawl	1 meaning
+e	brașov	braov	1 meaning
+e	bread	bread	2 meanings
+e	break	break	16 meanings
+e	bream	bream	1 meaning
+e	breda	breda	1 meaning
+e	breed	breed	7 meanings
+e	brest	brest	2 meanings
+e	breve	breve	1 meaning
+e	brian	brian	1 meaning
+e	bribe	bribe	1 meaning
+e	brick	brick	4 meanings
+e	brics	brics	1 meaning
+e	bride	bride	1 meaning
+e	brief	brief	1 meaning
+e	brine	brine	2 meanings
+e	bring	bring	1 meaning
+e	brisk	brisk	2 meanings
+e	broad	broad	2 meanings
+e	broil	broil	1 meaning
+e	broke	broke	1 meaning
+e	bronx	bronx	1 meaning
+e	brony	brony	1 meaning
+e	brook	brook	1 meaning
+e	broom	broom	1 meaning
+e	broth	broth	2 meanings
+e	brown	brown	3 meanings
+e	bruit	bruit	1 meaning
+e	bruno	bruno	2 meanings
+e	brush	brush	7 meanings
+e	brute	brute	1 meaning
+e	bryan	bryan	1 meaning
+e	bryce	bryce	1 meaning
+e	braces	braces	1 meaning
+e	brahma	brahma	1 meaning
+e	brahmi	brahmi	1 meaning
+e	brahui	brahui	1 meaning
+e	braise	braise	1 meaning
+e	branch	branch	3 meanings
+e	brandy	brandy	1 meaning
+e	brazil	brazil	1 meaning
+e	breast	breast	2 meanings
+e	breath	breath	3 meanings
+e	breeze	breeze	1 meaning
+e	bremen	bremen	1 meaning
+e	breton	breton	1 meaning
+e	brexit	brexit	1 meaning
+e	bridge	bridge	5 meanings
+e	bridle	bridle	1 meaning
+e	briefs	briefs	1 meaning
+e	bright	bright	3 meanings
+e	briton	briton	1 meaning
+e	brixen	brixen	1 meaning
+e	broken	broken	2 meanings
+e	broker	broker	1 meaning
+e	bronze	bronze	4 meanings
+e	brooch	brooch	1 meaning
+e	browse	browse	1 meaning
+e	bruges	bruges	2 meanings
+e	bruise	bruise	2 meanings
+e	brunch	brunch	1 meaning
+e	brunei	brunei	1 meaning
+e	brutal	brutal	1 meaning
+e	brabant	brabant	2 meanings
+e	bracken	bracken	1 meaning
+e	bracket	bracket	1 meaning
+e	bragança	bragana	1 meaning
+e	bragger	bragger	1 meaning
+e	brahman	brahman	1 meaning
+e	brahmin	brahmin	1 meaning
+e	braille	braille	1 meaning
+e	braless	braless	1 meaning
+e	brandon	brandon	2 meanings
+e	braslaw	braslaw	1 meaning
+e	brasília	braslia	1 meaning
+e	bravado	bravado	1 meaning
+e	bravery	bravery	1 meaning
+e	brazier	brazier	1 meaning
+e	break up	breakup	2 meanings
+e	breaker	breaker	2 meanings
+e	breathe	breathe	5 meanings
+e	breccia	breccia	1 meaning
+e	bregenz	bregenz	2 meanings
+e	brendan	brendan	1 meaning
+e	brewery	brewery	1 meaning
+e	bribery	bribery	2 meanings
+e	brigade	brigade	1 meaning
+e	brigand	brigand	1 meaning
+e	bring it	bringit	1 meaning
+e	bring up	bringup	2 meanings
+e	brioche	brioche	1 meaning
+e	brisket	brisket	1 meaning
+e	bristol	bristol	1 meaning
+e	britain	britain	1 meaning
+e	british	british	5 meanings
+e	britpop	britpop	1 meaning
+e	brixton	brixton	1 meaning
+e	broaden	broaden	2 meanings
+e	brocade	brocade	1 meaning
+e	bromide	bromide	1 meaning
+e	bromine	bromine	1 meaning
+e	brothel	brothel	1 meaning
+e	brother	brother	3 meanings
+e	brovary	brovary	1 meaning
+e	brownie	brownie	2 meanings
+e	brush up	brushup	1 meaning
+e	brusque	brusque	2 meanings
+e	bruxism	bruxism	1 meaning
+e	bryansk	bryansk	1 meaning
+e	bracelet	bracelet	1 meaning
+e	brackish	brackish	1 meaning
+e	bradford	bradford	1 meaning
+e	braggart	braggart	1 meaning
+e	brain fog	brainfog	1 meaning
+e	brain rot	brainrot	1 meaning
+e	brampton	brampton	1 meaning
+e	brand new	brandnew	1 meaning
+e	brandish	brandish	1 meaning
+e	breadbox	breadbox	1 meaning
+e	break bad	breakbad	1 meaning
+e	break out	breakout	2 meanings
+e	breakout	breakout	1 meaning
+e	breeches	breeches	1 meaning
+e	breisgau	breisgau	1 meaning
+e	brethren	brethren	1 meaning
+e	brezhnev	brezhnev	1 meaning
+e	briefing	briefing	1 meaning
+e	brighten	brighten	4 meanings
+e	brindisi	brindisi	1 meaning
+e	brisbane	brisbane	1 meaning
+e	brittany	brittany	2 meanings
+e	broccoli	broccoli	1 meaning
+e	brochure	brochure	1 meaning
+e	bromance	bromance	1 meaning
+e	bronchus	bronchus	1 meaning
+e	brooklyn	brooklyn	1 meaning
+e	brouhaha	brouhaha	1 meaning
+e	brown rat	brownrat	1 meaning
+e	brumaire	brumaire	1 meaning
+e	brush pen	brushpen	1 meaning
+e	brussels	brussels	6 meanings
+e	bryology	bryology	1 meaning
+e	bryozoan	bryozoan	1 meaning
+e	brain cell	braincell	1 meaning
+e	brain stem	brainstem	1 meaning
+e	brainless	brainless	1 meaning
+e	brainwash	brainwash	2 meanings
+e	brainwave	brainwave	1 meaning
+e	brambling	brambling	1 meaning
+e	brass band	brassband	1 meaning
+e	bratwurst	bratwurst	1 meaning
+e	brazil nut	brazilnut	2 meanings
+e	brazilian	brazilian	1 meaning
+e	bread roll	breadroll	1 meaning
+e	break away	breakaway	1 meaning
+e	break down	breakdown	2 meanings
+e	break wind	breakwind	1 meaning
+e	breakable	breakable	1 meaning
+e	breakdown	breakdown	3 meanings
+e	breakfast	breakfast	2 meanings
+e	breathe in	breathein	1 meaning
+e	breathing	breathing	1 meaning
+e	bric-a-brac	bricabrac	1 meaning
+e	briefcase	briefcase	1 meaning
+e	brigadier	brigadier	1 meaning
+e	brimstone	brimstone	1 meaning
+e	brinkmate	brinkmate	1 meaning
+e	briticism	briticism	1 meaning
+e	broad bean	broadbean	1 meaning
+e	broadband	broadband	1 meaning
+e	broadcast	broadcast	3 meanings
+e	broadside	broadside	1 meaning
+e	brokerage	brokerage	1 meaning
+e	bronze age	bronzeage	1 meaning
+e	brown bear	brownbear	1 meaning
+e	brown rice	brownrice	1 meaning
+e	brown-nose	brownnose	2 meanings
+e	brushwood	brushwood	1 meaning
+e	brutalism	brutalism	1 meaning
+e	brain death	braindeath	1 meaning
+e	brain drain	braindrain	1 meaning
+e	brain tumor	braintumor	1 meaning
+e	bratislava	bratislava	1 meaning
+e	brazen bull	brazenbull	1 meaning
+e	bread knife	breadknife	1 meaning
+e	bread maker	breadmaker	1 meaning
+e	breadboard	breadboard	1 meaning
+e	breadcrumb	breadcrumb	2 meanings
+e	breadcrust	breadcrust	1 meaning
+e	breadfruit	breadfruit	2 meanings
+e	breadstick	breadstick	1 meaning
+e	breakdance	breakdance	1 meaning
+e	breakpoint	breakpoint	1 meaning
+e	breakwater	breakwater	1 meaning
+e	breast milk	breastmilk	1 meaning
+e	breast pump	breastpump	1 meaning
+e	breastbone	breastbone	1 meaning
+e	breastfeed	breastfeed	1 meaning
+e	brent goose	brentgoose	1 meaning
+e	brick house	brickhouse	1 meaning
+e	bricklayer	bricklayer	1 meaning
+e	bride price	brideprice	1 meaning
+e	bridegroom	bridegroom	1 meaning
+e	bridesmaid	bridesmaid	1 meaning
+e	bridgehead	bridgehead	1 meaning
+e	bridgetown	bridgetown	1 meaning
+e	bridle path	bridlepath	1 meaning
+e	brighten up	brightenup	1 meaning
+e	brightness	brightness	1 meaning
+e	brihaspati	brihaspati	1 meaning
+e	broad gauge	broadgauge	1 meaning
+e	broadsword	broadsword	1 meaning
+e	broken hill	brokenhill	1 meaning
+e	bronchitis	bronchitis	1 meaning
+e	bronzeware	bronzeware	1 meaning
+e	brook trout	brooktrout	1 meaning
+e	broomstick	broomstick	1 meaning
+e	brown bread	brownbread	1 meaning
+e	brown dwarf	browndwarf	1 meaning
+e	brown trout	browntrout	1 meaning
+e	brownshirt	brownshirt	1 meaning
+e	bruschetta	bruschetta	1 meaning
+e	brute force	bruteforce	2 meanings
+e	brachiosaur	brachiosaur	1 meaning
+e	bradycardia	bradycardia	1 meaning
+e	brain cancer	braincancer	1 meaning
+e	brain damage	braindamage	1 meaning
+e	bralessness	bralessness	1 meaning
+e	brandenburg	brandenburg	1 meaning
+e	brazen-faced	brazenfaced	1 meaning
+e	brazzaville	brazzaville	1 meaning
+e	breadwinner	breadwinner	1 meaning
+e	break a sweat	breakasweat	1 meaning
+e	break the ice	breaktheice	1 meaning
+e	breastplate	breastplate	1 meaning
+e	breech birth	breechbirth	1 meaning
+e	breeze-block	breezeblock	1 meaning
+e	bridal carry	bridalcarry	1 meaning
+e	bridled tern	bridledtern	1 meaning
+e	brittle star	brittlestar	1 meaning
+e	broadcaster	broadcaster	1 meaning
+e	broken heart	brokenheart	1 meaning
+e	bronze medal	bronzemedal	1 meaning
+e	brotherhood	brotherhood	1 meaning
+e	brown shrike	brownshrike	1 meaning
+e	brucellosis	brucellosis	1 meaning
+e	brahminy kite	brahminykite	1 meaning
+e	brainwashing	brainwashing	1 meaning
+e	bras d'honneur	brasdhonneur	1 meaning
+e	breakdancing	breakdancing	1 meaning
+e	breaker point	breakerpoint	1 meaning
+e	breaking news	breakingnews	1 meaning
+e	breakthrough	breakthrough	2 meanings
+e	breast cancer	breastcancer	1 meaning
+e	breast pocket	breastpocket	1 meaning
+e	breaststroke	breaststroke	1 meaning
+e	breathalyzer	breathalyzer	1 meaning
+e	breathtaking	breathtaking	1 meaning
+e	breechloader	breechloader	1 meaning
+e	bring to a boil	bringtoaboil	1 meaning
+e	bring to light	bringtolight	1 meaning
+e	brinkmanship	brinkmanship	1 meaning
+e	british isles	britishisles	1 meaning
+e	broadcasting	broadcasting	1 meaning
+e	bromomethane	bromomethane	1 meaning
+e	brother-in-law	brotherinlaw	5 meanings
+e	brachiosaurus	brachiosaurus	1 meaning
+e	brackish water	brackishwater	1 meaning
+e	brainstorming	brainstorming	1 meaning
+e	brass knuckles	brassknuckles	1 meaning
+e	breach of trust	breachoftrust	1 meaning
+e	break one's fast	breakonesfast	1 meaning
+e	breast implant	breastimplant	1 meaning
+e	breastfeeding	breastfeeding	1 meaning
+e	breechloading	breechloading	1 meaning
+e	british empire	britishempire	1 meaning
+e	broad daylight	broaddaylight	1 meaning
+e	brother-in-arms	brotherinarms	1 meaning
+e	break-even point	breakevenpoint	1 meaning
+e	breathlessness	breathlessness	1 meaning
+e	bright and early	brightandearly	1 meaning
+e	british english	britishenglish	1 meaning
+e	bronze medalist	bronzemedalist	1 meaning
+e	brownian motion	brownianmotion	1 meaning
+e	brush one's teeth	brushonesteeth	1 meaning
+e	brussels sprout	brusselssprout	1 meaning
+e	brandenburg gate	brandenburggate	1 meaning
+e	brass instrument	brassinstrument	1 meaning
+e	breakfast cereal	breakfastcereal	1 meaning
+e	british columbia	britishcolumbia	1 meaning
+e	brood parasitism	broodparasitism	1 meaning
+e	breach of contract	breachofcontract	1 meaning
+e	bread and circuses	breadandcircuses	1 meaning
+e	breath of fresh air	breathoffreshair	1 meaning
+e	british shorthair	britishshorthair	1 meaning
+e	brazilian jiu-jitsu	brazilianjiujitsu	1 meaning
+e	bring home the bacon	bringhomethebacon	1 meaning
+e	break someone's heart	breaksomeonesheart	1 meaning
+e	breast augmentation	breastaugmentation	1 meaning
+e	british thermal unit	britishthermalunit	1 meaning
+e	bromofluoromethane	bromofluoromethane	1 meaning
+e	british virgin islands	britishvirginislands	1 meaning
+e	broad-billed sandpiper	broadbilledsandpiper	1 meaning
+e	brussels-capital region	brusselscapitalregion	1 meaning
+e	british antarctic territory	britishantarcticterritory	1 meaning
+e	british indian ocean territory	britishindianoceanterritory	1 meaning

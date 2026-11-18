@@ -1,0 +1,2604 @@
+j	乗	乗	power
+j	仗	仗	military strength
+j	俗	俗	worldly
+j	列	列	line, row
+j	北	北	north (cardinal point)
+j	南	南	the south (cardinal point)
+j	受	受	（ジュ）感受作用。五蘊のひとつ。
+j	塗	塗	（ぬり）塗ること。また、塗った物。
+j	増	増	increase
+j	嫗	嫗	a grown woman
+j	字	字	letter, character
+j	宗	宗	a surname
+j	店	店	a commercial building; a …
+j	弗	弗	fluorine, fluoride
+j	得	得	beneficial; with gain
+j	志	志	intention, aspiration, ai…
+j	敗	敗	losses
+j	斗	斗	an obsolete unit of liqui…
+j	旗	旗	flag
+j	暗	暗	darkness
+j	林	林	a grove, woods, copse
+j	栗	栗	Japanese chestnut, Castan…
+j	棗	棗	the jujube or Chinese dat…
+j	樗	樗	
+j	気	気	spirit, mood
+j	汗	汗	sweat
+j	澗	澗	undecillion, a number of …
+j	燗	燗	warming up sake; warmed s…
+j	狗	狗	a puppy or dog
+j	甗	甗	（ゲン）古代中国で用いられていた炊器。
+j	碗	碗	bowl
+j	稗	稗	Japanese barnyard millet …
+j	算	算	（サン）算木。
+j	簗	簗	（やな）杭や石で川の水流を堰き止めて一箇所を開け、…
+j	粗	粗	roughness, crudeness
+j	紗	紗	a coarse gauze woven of r…
+j	舗	舗	folded texts, especially …
+j	苗	苗	seedling; young plant
+j	茗	茗	tea, especially tea picke…
+j	著	著	book
+j	蕗	蕗	giant butterbur (Petasite…
+j	蝗	蝗	（いなご）昆虫の一種。直翅目・バッタ亜目・イナゴ科…
+j	街	街	town, district, area
+j	餗	餗	
+j	鮗	鮗	（このしろ）ニシン目コノシロ属に属する魚の一種。
+j	鱗	鱗	scale (of a fish, reptile…
+j	麗	麗	a female given name
+j	龗	龗	a dragon kami of water (r…
+k	가	街	border, edge, end
+k	간	澗	for
+k	구	狗	nine
+k	기	旗	energy, spirit (of a pers…
+k	기	気	energy, spirit (of a pers…
+k	남	南	other person, other peopl…
+k	득	得	gain; benefit
+k	렬	列	
+k	북	北	a generic term meaning dr…
+k	불	弗	fire; flame
+k	산	算	mountain
+k	속	俗	the interior or inside, e…
+k	수	受	way, means, possibility, …
+k	승	乗	victory
+k	열	列	ten
+k	저	著	that (distal determiner)
+k	패	敗	defeat; loss
+k	항	抗	clause, section; item (in…
+j	乗り	乗り	(act of) riding
+j	乗る	乗る	to get on/ride (a bus, a …
+j	乗冪	乗冪	累乗に同じ。
+j	乗務	乗務	service as crew on a vehi…
+j	乗号	乗号	掛け算（乗法）の符号。×。
+j	乗合	乗合	a meeting or encounter wh…
+j	乗員	乗員	crew member on a vehicle …
+j	乗客	乗客	passenger
+j	乗居	乗居	並ぶこと。
+j	乗数	乗数	multiplier, as b in a × b…
+j	乗根	乗根	「累乗根」（=root）のこと。
+j	乗権	乗権	威張ること。
+j	乗機	乗機	その人が乗る航空機。
+j	乗法	乗法	multiplication
+j	乗物	乗物	
+j	乗用	乗用	乗って用いること。
+j	乗積	乗積	数を乗じて得た数値や式。積。
+j	乗算	乗算	multiplication
+j	乗組	乗組	crew
+j	乗羃	乗羃	累乗に同じ。
+j	乗船	乗船	embarkation of a vessel
+j	乗艇	乗艇	艦艇、船艇に乗ること。また、乗っている艦艇、船艇。
+j	乗艦	乗艦	艦船、艦艇に乗り組むこと。
+j	乗虚	乗虚	付け込むこと。
+j	乗車	乗車	getting in or on (a train…
+j	乗軒	乗軒	大夫の車に乗ること。
+j	乗載	乗載	車や船舶などに人や物を積載すること。
+j	乗輦	乗輦	乗車。
+j	乗輿	乗輿	天子が使用する乗り物。
+j	乗遽	乗遽	早馬。
+j	乗間	乗間	すきに付け込むこと。
+j	乗降	乗降	getting on and getting of…
+j	乗除	乗除	乗算と除算。
+j	乗馬	乗馬	riding a horse
+j	乗駕	乗駕	mounting (as in animal co…
+j	仗術	仗術	杖道、警杖術の基本となった仗と呼ばれる棒によって相…
+j	仗衛	仗衛	儀仗。
+j	俗世	俗世	the (secular) world, eart…
+j	俗了	俗了	俗化してしまうこと。
+j	俗事	俗事	世俗の煩雑なこと。日常の雑多なこと。
+j	俗交	俗交	世俗における交際。
+j	俗人	俗人	layperson, laity (as oppo…
+j	俗信	俗信	民間で行われる宗教的な占いやまじない、呪術などの習…
+j	俗化	俗化	世俗の潮流に感化されること。
+j	俗名	俗名	secular name
+j	俗吏	俗吏	見識のない凡庸な官吏。
+j	俗地	俗地	風雅でない俗悪な土地。
+j	俗塵	俗塵	dust of the transient wor…
+j	俗士	俗士	出家していない在俗の人。
+j	俗姓	俗姓	（ぞくしょう、ぞくせい）僧の出家する前の姓。
+j	俗字	俗字	a kanji variant that is w…
+j	俗学	俗学	世間で行われる通俗的な学問。
+j	俗客	俗客	風流を解さない人。
+j	俗家	俗家	世俗の人の家。在家。
+j	俗心	俗心	名利や愛憎など世俗的なものに惹かれる心。
+j	俗悪	俗悪	vulgar and unpleasant
+j	俗懐	俗懐	名利など世俗的な思い。
+j	俗智	俗智	俗事に関する智恵。
+j	俗歌	俗歌	世間で流行している歌。
+j	俗気	俗気	vulgarity
+j	俗物	俗物	cheap thing; cheap person
+j	俗用	俗用	世俗の用事や雑事。
+j	俗界	俗界	俗人が暮らす世界。俗世間。
+j	俗知	俗知	俗事に関する智恵。
+j	俗称	俗称	common name, popular name
+j	俗耳	俗耳	世間の人の耳。
+j	俗衆	俗衆	世俗のひとびと。
+j	俗見	俗見	laymen's opinion
+j	俗解	俗解	通俗的な解説や解釈。
+j	俗言	俗言	日常で使われる言葉。俗語。
+j	俗話	俗話	secular speech
+j	俗語	俗語	common language (as oppos…
+j	俗説	俗説	popular belief, common sa…
+j	俗論	俗論	世俗の議論や意見。
+j	俗諺	俗諺	proverb; popular saying
+j	俗謡	俗謡	ある土地でうたわれていた民謡が一般化し、伴奏などが…
+j	俗間	俗間	俗人の社会。世間。俗世間。
+j	兗州	兗州	Yanzhou (a city in Shando…
+j	冗句	冗句	superfluous sentences
+j	冗員	冗員	過剰となり無駄な人員。
+j	冗多	冗多	言葉や文章が無駄に多いさま。
+j	冗文	冗文	無駄に長い文章。無駄な文章。
+j	冗漫	冗漫	冗長で締まりがないこと。散漫なこと。
+j	冗筆	冗筆	無駄書き。
+j	冗舌	冗舌	「饒舌」の別表記。
+j	冗言	冗言	pleonasm
+j	冗語	冗語	無駄な言葉や話。
+j	冗談	冗談	a joke
+j	冗費	冗費	無益の費用。
+j	冗賤	冗賤	無用な人。
+j	冗長	冗長	redundant
+j	冗雑	冗雑	無用が雑多にあり、煩わしいこと。また、そのようなさ…
+j	列世	列世	歴代。代代。
+j	列伝	列伝	多くの人の伝記を簡潔に書き並べたもの。
+j	列侯	列侯	古代中国、前漢や後漢における爵位の一つ。
+j	列傳	列傳	列伝の旧字体表記。
+j	列名	列名	表形式のデータで縦方向の列の見出し。カラム名。
+j	列品	列品	陳列している品物。陳列品。
+j	列国	列国	nations; states
+j	列墉	列墉	姫垣を列ねること。また、そのようなさま。
+j	列子	列子	Liezi (Taoist philosopher)
+j	列居	列居	並んで居ること。並んで列のように座っていること。
+j	列島	列島	archipelago, chain of isl…
+j	列席	列席	attendance, presence
+j	列強	列強	great power (powerful sta…
+j	列挙	列挙	enumeration, specification
+j	列柱	列柱	
+j	列次	列次	順番。順序。次第。
+j	列氏	列氏	Réaumur
+j	列火	列火	the name of the bottom "f…
+j	列福	列福	beatification
+j	列聖	列聖	歴代の天子。
+j	列藩	列藩	並び立つ多くの藩。
+j	列記	列記	列挙した順に書き記すこと。
+j	列車	列車	train
+j	剗刷	剗刷	駆り集めること。
+j	剗海	剗海	a lake that existed at th…
+j	剗滌	剗滌	刈って除去すること。
+j	北に	北に	
+j	北の	北の	
+j	北へ	北へ	
+j	北上	北上	going north
+j	北京	北京	Beijing (a direct-adminis…
+j	北信	北信	northern Nagano (a region…
+j	北側	北側	north side
+j	北光	北光	オーロラ。
+j	北冬	北冬	冬。
+j	北加	北加	Northern California (a re…
+j	北原	北原	a surname
+j	北叟	北叟	北方に暮らす老人。特に「塞翁が馬」の塞翁。
+j	北口	北口	north exit
+j	北周	北周	中国南北朝時代、北朝の一つ。557年西魏の宇文覚が…
+j	北国	北国	northern provinces; north…
+j	北堂	北堂	古代の中国で主婦の部屋。
+j	北壁	北壁	northern wall
+j	北大	北大	
+j	北天	北天	北方の空。
+j	北夷	北夷	北方の異族。北戎。
+j	北宋	北宋	the Northern Song dynasty…
+j	北山	北山	a surname
+j	北岸	北岸	北側の岸。
+j	北島	北島	a surname
+j	北川	北川	a surname
+j	北州	北州	北国。
+j	北平	北平	Beiping, a former name of…
+j	北征	北征	軍隊が北方へと征くこと。北方にいる敵を征伐すること。
+j	北戎	北戎	北夷。
+j	北斗	北斗	Big Dipper
+j	北方	北方	north, northern area
+j	北曲	北曲	中国元の時代に盛行した北方系の歌曲及びその戯曲。金…
+j	北朝	北朝	the Northern dynasties
+j	北本	北本	a city in Saitama Prefect…
+j	北村	北村	a surname
+j	北条	北条	Hōjō (a former city in Eh…
+j	北東	北東	northeast
+j	北極	北極	North Pole, the Arctic
+j	北欧	北欧	synonym of 北ヨーロッパ: Northe…
+j	北武	北武	武蔵国の北部。
+j	北沢	北沢	a surname
+j	北洋	北洋	北方の海洋。
+j	北洲	北洲	「北倶盧洲」の略。
+j	北流	北流	北に向かって河川などが流れること。
+j	北海	北海	northern sea
+j	北漢	北漢	五代十国の一つ。後漢滅亡の翌年に劉崇が建国した。
+j	北牕	北牕	北側の窓。
+j	北狄	北狄	古代の中国で、北方に住む民族をまとめて指した呼称。
+j	北田	北田	a surname
+j	北窓	北窓	北側の窓。
+j	北端	北端	the northern end, the nor…
+j	北米	北米	North America (the contin…
+j	北総	北総	「下総国」の異称。
+j	北線	北線	鉄道や道路などで北の方向にあるまたは北に向かう路線。
+j	北緯	北緯	north latitude
+j	北西	北西	northwest
+j	北見	北見	北見国の略。
+j	北走	北走	北の方向に走ること。
+j	北軍	北軍	the Union Army
+j	北辰	北辰	北極星。
+j	北辺	北辺	北の辺境。
+j	北進	北進	advancement northward
+j	北遷	北遷	北方へ遷移すること。
+j	北郊	北郊	都市の北方の郊外。
+j	北部	北部	northern part, northern a…
+j	北都	北都	（平城京を南都というのに対し）平安京（京都）。
+j	北野	北野	a surname
+j	北阿	北阿	北アフリカの別称。西アジアと中東。
+j	北限	北限	生物の分布などで北の限界。
+j	北陸	北陸	Hokuriku (a geographical …
+j	北雁	北雁	北方の雁。
+j	北面	北面	北に面すること、又は、北に面した部分。
+j	北韓	北韓	northern Korea
+j	北風	北風	northerly; north wind
+j	北首	北首	頭を北に向けて寝ること。北枕。
+j	北魏	北魏	Northern Wei
+j	北鮮	北鮮	Kankyōnan-dō and Kankyōho…
+j	南に	南に	
+j	南の	南の	
+j	南へ	南へ	
+j	南ア	南ア	南アフリカ共和国の略。
+j	南下	南下	going south
+j	南中	南中	culmination
+j	南丹	南丹	the southern area of the …
+j	南亜	南亜	
+j	南京	南京	Nanjing (a major city, th…
+j	南仏	南仏	Southern France (a region…
+j	南低	南低	「南岸低気圧」の略称。
+j	南信	南信	southern Nagano (a region…
+j	南側	南側	south side
+j	南加	南加	Southern California (a re…
+j	南北	南北	north and south
+j	南口	南口	south exit
+j	南国	南国	southern land; southern c…
+j	南國	南國	
+j	南天	南天	the southern skies
+j	南央	南央	southern Oregon (a region…
+j	南宋	南宋	the Southern Song dynasty…
+j	南宮	南宮	a city in northern Hebei,…
+j	南寧	南寧	Nanning (a prefecture-lev…
+j	南山	南山	a surname
+j	南岸	南岸	south coast
+j	南島	南島	南の方向にある島。
+j	南帯	南帯	世界の植物分布をいくつかの特徴により分けた区域の一…
+j	南幌	南幌	Nanporo (a town in Sorach…
+j	南征	南征	軍隊が南方へと征くこと。南方にいる敵を征伐すること。
+j	南戯	南戯	南曲。
+j	南投	南投	Nantou (a county in centr…
+j	南支	南支	「南支那」の略で、中国南部の異称。
+j	南方	南方	south, southern area
+j	南昌	南昌	
+j	南曲	南曲	中国南宋の時代浙江省で起こった戯曲。明の時代北曲に…
+j	南曹	南曹	かつて藤原氏の教育機関「勧学院」の別称。
+j	南朋	南朋	a unisex given name
+j	南朝	南朝	the Southern dynasties
+j	南村	南村	a surname
+j	南条	南条	a surname
+j	南東	南東	southeast
+j	南枝	南枝	南の方向へ伸びた枝。
+j	南柯	南柯	南に差し出した枝。
+j	南極	南極	South Pole
+j	南欧	南欧	Southern Europe (a sociop…
+j	南武	南武	武蔵国の南部。
+j	南洋	南洋	South Seas; Southeast Asia
+j	南浦	南浦	Nampo (a city in North Ko…
+j	南海	南海	a southern sea
+j	南渕	南渕	a surname
+j	南漢	南漢	五代十国の一つ。劉龑が建国し、広東・広西・ベトナム…
+j	南無	南無	Used in Buddhist salutati…
+j	南燭	南燭	sea bilberry, Vaccinium b…
+j	南牕	南牕	南側の窓。
+j	南瓜	南瓜	pumpkin; squash
+j	南田	南田	a surname
+j	南砺	南砺	
+j	南窓	南窓	南側の窓。
+j	南端	南端	southern edge, southern e…
+j	南米	南米	South America (the contin…
+j	南総	南総	「上総国」の異称。
+j	南線	南線	鉄道や道路などで南の方向にあるまたは南に向かう路線。
+j	南緯	南緯	south latitude
+j	南華	南華	書籍名「南華真経」の略。哲学書『荘子』。
+j	南薑	南薑	greater galangal (Alpinia…
+j	南藩	南藩	南の方にある藩屏。
+j	南蛮	南蛮	a foreigner from Portugal…
+j	南西	南西	southwest
+j	南詔	南詔	Nanzhao (a kingdom that f…
+j	南走	南走	南の方向に走ること。
+j	南越	南越	Nanyue (204 BC-111 BC)
+j	南軍	南軍	内乱などで南北にわかれた軍勢のうち南側の軍勢。
+j	南辺	南辺	南の辺境。
+j	南通	南通	Nantong (a city in Jiangs…
+j	南進	南進	advancement southward
+j	南遷	南遷	南へ場所を移すこと。
+j	南郊	南郊	都市の南方の郊外。
+j	南部	南部	southern part, southern a…
+j	南都	南都	synonym of 平城京 (Heijō-kyō…
+j	南里	南里	a surname
+j	南野	南野	a surname
+j	南阿	南阿	dated spelling of 南ア (Nan…
+j	南限	南限	生物の分布などで南の限界。
+j	南陽	南陽	
+j	南雄	南雄	a male given name
+j	南雲	南雲	a surname
+j	南面	南面	南に面すること、又は、南に面した部分。
+j	南韓	南韓	southern Korea
+j	南風	南風	south wind, southerly
+j	南鮮	南鮮	Keishōnan-dō, Keishōhoku-…
+j	受け	受け	
+j	受付	受付	receipt, reception, accep…
+j	受任	受任	任命や任務を受けること。
+j	受信	受信	reception of a signal, su…
+j	受傷	受傷	傷を負うこと。
+j	受像	受像	送信されたテレビ放送の電波を受信し、受像機にその映…
+j	受刑	受刑	imprisonment
+j	受動	受動	passivity
+j	受命	受命	命令を受けること。
+j	受咎	受咎	咎を受けること。
+j	受容	受容	reception, acceptance
+j	受寄	受寄	寄託を引き受けること。
+j	受弘	受弘	a male given name
+j	受戒	受戒	仏教で仏門に入るものが、師となるものから仏教におけ…
+j	受授	受授	相手から何かを受け取り、相手にも何かを渡すこと。授…
+j	受援	受援	援助や支援を受け入れること。
+j	受教	受教	授業。
+j	受検	受検	検定・検査・検閲などを受けること。
+j	受業	受業	教えを受けること。
+j	受法	受法	弟子が師から仏法を受けること。
+j	受注	受注	reception of orders
+j	受灌	受灌	灌頂を受けること。
+j	受理	受理	acceptance of documents t…
+j	受療	受療	受診すること。
+j	受益	受益	benefitting by
+j	受禅	受禅	帝位を譲り受けて即位すること。
+j	受福	受福	福を受けること。
+j	受章	受章	reception of an award
+j	受粉	受粉	花粉がおしべの先の柱頭につくこと。
+j	受精	受精	fertilization
+j	受納	受納	（金品などを）受け取り、受け入れること。
+j	受給	受給	collection of a payment
+j	受肉	受肉	Incarnation (incarnation …
+j	受胎	受胎	conception; fertilization
+j	受託	受託	receiving in trust, espec…
+j	受記	受記	仏が弟子に将来仏になることを予言すること。
+j	受訴	受訴	訴訟を受理すること。
+j	受診	受診	診療を受けること。
+j	受話	受話	相手の声を聞くこと。受信すること。
+j	受諾	受諾	acceptance
+j	受講	受講	attending lectures or tak…
+j	受賕	受賕	収賄すること。
+j	受賞	受賞	winning an award
+j	受贈	受贈	贈られた物を受け入れること。
+j	受贓	受贓	不正な手段で得た金品をもらい受けること。
+j	受身	受身	
+j	受難	受難	suffering; hardship; agony
+j	受電	受電	act of receiving electric…
+j	受領	受領	receipt, acceptance
+j	受験	受験	taking an exam, especiall…
+j	啗齧	啗齧	噛むこと。咀嚼すること。
+j	嘗て	嘗て	
+j	嘗め	嘗め	lick
+j	嘗糞	嘗糞	糞を嘗めること。
+j	嘗膳	嘗膳	毒見。
+j	嘗試	嘗試	attempt; try
+j	嘗酒	嘗酒	新しい酒の味を利いて確かめること。
+j	嘗饌	嘗饌	毒見。嘗膳。
+j	囗部	囗部	部首「⼞」で分類した漢字の一群。
+j	塗る	塗る	to paint, to plaster
+j	塗れ	塗れ	covered with
+j	塗塀	塗塀	築地。
+j	塗布	塗布	coating; application
+j	塗師	塗師	木地師の挽いた木地に漆を塗る職人。
+j	塗抹	塗抹	smearing, a smear
+j	塗料	塗料	paint
+j	塗板	塗板	チョークで文字などを書くため一面に塗料を塗った板。…
+j	塗沫	塗沫	塗り付けること。塗布すること。
+j	塗炭	塗炭	extreme distress
+j	塗薬	塗薬	
+j	塗装	塗装	coating, painting
+j	塗裝	塗裝	塗装の旧字体表記。
+j	増し	増し	increase, extra
+j	増す	増す	to increase
+j	増ゆ	増ゆ	
+j	増井	増井	a surname
+j	増価	増価	資産などの価値が増すこと。
+j	増俸	増俸	raising salaries
+j	増光	増光	光の強さが増すこと。また、光の強さを増やすこと。
+j	増兵	増兵	兵力を増やすこと。
+j	増分	増分	変数が増加した量。
+j	増刊	増刊	an extra issue, an extra …
+j	増刷	増刷	additional printing
+j	増加	増加	increasing (increased amo…
+j	増劫	増劫	四劫のうちの住劫で、人間の寿命が10歳から年々、ま…
+j	増勢	増勢	増大する形勢や勢力。
+j	増単	増単	学習指導要領に示されている各科目の単位数を増やすこ…
+j	増反	増反	田畑の作付け面積を増やすこと。↔︎減反。
+j	増収	増収	increased income, increas…
+j	増員	増員	acquiring of new employee…
+j	増大	増大	increase (increased amoun…
+j	増尾	増尾	a surname
+j	増嵩	増嵩	金額・人数などが増加して嵩むこと。
+j	増嶋	増嶋	a surname
+j	増幅	増幅	amplification
+j	増床	増床	医療機関で入院患者のための病床を増やすこと。
+j	増強	増強	strengthening, augmentati…
+j	増徴	増徴	税を今までより多く徴収すること。
+j	増悪	増悪	exacerbation, aggravation
+j	増感	増感	写真乳剤に微量の薬剤などを加えて感度を高めること。
+j	増成	増成	従来よりも増加または増大すること。前にもまして大き…
+j	増援	増援	人員を増やして援助すること。
+j	増本	増本	a surname
+j	増枠	増枠	割り当ての枠を増やすこと。
+j	増殖	増殖	increase, propagation, mu…
+j	増水	増水	rising water of a river, …
+j	増永	増永	a surname
+j	増渕	増渕	a surname
+j	増減	増減	increase and decrease, fl…
+j	増炭	増炭	石炭を産出する量を増やすこと。また、その量が増える…
+j	増生	増生	細胞が刺激などにより過剰に分裂し、器官や組織が大き…
+j	増産	増産	生産量を増やすこと。
+j	増田	増田	a surname
+j	増益	増益	increase in profits
+j	増盛	増盛	あることが以前より勢いが増し、盛んになること。
+j	増税	増税	tax hike
+j	増築	増築	addition to a building
+j	増結	増結	addition of train cars
+j	増給	増給	給料が増えること。
+j	増菌	増菌	菌が増えること。
+j	増血	増血	体の中の血液を増やすこと。
+j	増補	増補	出版した本に内容を追加し、補うこと。
+j	増見	増見	a male given name
+j	増訂	増訂	書物の内容の不足を付け加え不備を訂正すること。
+j	増設	増設	adding facilities or equi…
+j	増資	増資	資本金を増やすこと。
+j	増車	増車	車両の数を増加すること。
+j	増速	増速	加速。
+j	増進	増進	increase; enhancement; pr…
+j	増量	増量	increase in amount
+j	増長	増長	得意になって思い上がること。
+j	増額	増額	increase (in an amount of…
+j	套言	套言	ありふれた言葉。
+j	套語	套語	ありふれた言葉。
+j	套路	套路	中国武術における動作の型。
+j	嫗煦	嫗煦	温め、養育すること。
+j	嫗詡	嫗詡	慰撫すること。
+j	字体	字体	the form of a character t…
+j	字典	字典	dictionary of kanji; Han …
+j	字句	字句	文字と言葉。語句。
+j	字号	字号	number indicating the siz…
+j	字墨	字墨	詩文、書画を書くこと。また、そのような技術。文墨。
+j	字学	字学	文字学。
+j	字幕	字幕	title (e.g. of a movie)
+j	字引	字引	dictionary
+j	字彙	字彙	dictionary
+j	字形	字形	the form or shape of a ch…
+j	字性	字性	文字の形。
+j	字数	字数	文字の数。文字数。
+j	字書	字書	Kanji dictionary; Han cha…
+j	字林	字林	Chinese character diction…
+j	字格	字格	もじ（とくに漢字）を書く際の法則。
+j	字母	字母	letter; (in the context o…
+j	字民	字民	民を養うこと。
+j	字源	字源	etymology of a written sy…
+j	字牌	字牌	honor tile
+j	字画	字画	stroke (in a Chinese char…
+j	字眼	字眼	詩文の中で、一字の巧拙によってその価値が左右するよ…
+j	字素	字素	grapheme
+j	字義	字義	meaning of a word
+j	字脚	字脚	字の下体。
+j	字舞	字舞	雅楽で舞人が字の形に並んで舞うもの。
+j	字解	字解	explanation of a kanji
+j	字訓	字訓	（じきん）文字などを教えること。
+j	字訳	字訳	transliteration
+j	字釈	字釈	字の意義を解釈すること。また、その解釈。
+j	字間	字間	an intercharacter space, …
+j	字面	字面	impression derived from o…
+j	字音	字音	a pronunciation of a cert…
+j	字類	字類	漢字・漢語を音や意義で分類しまとめたもの。
+j	字體	字體	
+j	宗一	宗一	a male given name
+j	宗主	宗主	a suzerain (a kind of lea…
+j	宗介	宗介	a male given name
+j	宗佑	宗佑	a male given name
+j	宗像	宗像	Munakata (a city in Fukuo…
+j	宗儀	宗儀	宗教における儀式。祭祀。
+j	宗八	宗八	a male given name
+j	宗制	宗制	宗教上の制度。
+j	宗則	宗則	a male given name
+j	宗助	宗助	a male given name
+j	宗務	宗務	宗教に関する事務。
+j	宗匠	宗匠	master
+j	宗司	宗司	a male given name
+j	宗大	宗大	a male given name
+j	宗子	宗子	一族の長となるべき子。本家、宗家を継ぐべき子。
+j	宗学	宗学	それぞれの宗門、宗派の教義に関する学問。
+j	宗家	宗家	本家。流派の家元。
+j	宗師	宗師	尊敬すべき師匠や師範。
+j	宗廟	宗廟	祖先の霊を祭祀する所。
+j	宗徒	宗徒	ある宗教・宗派に属する信徒。
+j	宗教	宗教	religion
+j	宗族	宗族	祖先を同じくする一族の本家と分家。一門。
+j	宗旨	宗旨	tenet; doctrine
+j	宗法	宗法	（しゅうほう）宗門の規則。宗祖が説いた教え。
+j	宗派	宗派	religious sect
+j	宗源	宗源	あらゆるものの源。
+j	宗男	宗男	a male given name
+j	宗直	宗直	a male given name
+j	宗祀	宗祀	尊んで祀ること。
+j	宗祖	宗祖	a founder of a religious …
+j	宗祝	宗祝	祭祀を司る役人。
+j	宗義	宗義	（仏教）その宗派の根本となる教義。
+j	宗芳	宗芳	a male given name
+j	宗規	宗規	宗教上の規則や約束ごと。
+j	宗論	宗論	（仏教）経典の宗旨を論じたもの。
+j	宗谷	宗谷	cape Souya on Hokkaidou i…
+j	宗輔	宗輔	a male given name
+j	宗門	宗門	宗旨。宗派。
+j	宗風	宗風	宗派の風習。
+j	店主	店主	shopkeeper; storekeeper; …
+j	店内	店内	the inside of a store; in…
+j	店則	店則	店舗で店員、従業員などが遵守すべき規則。
+j	店名	店名	name of a business
+j	店員	店員	shop clerk, salesperson
+j	店売	店売	店を構えて客に売ること。
+j	店外	店外	店舗の外側。店の外。
+j	店屋	店屋	商店。
+j	店番	店番	店舗などの番をすること。
+j	店舗	店舗	shop
+j	店鋪	店鋪	「店舗」の別表記。
+j	店長	店長	manager (of a shop)
+j	店頭	店頭	shop front, counter
+j	弗化	弗化	弗素と化合すること。
+j	弗素	弗素	原子番号 9、元素記号 F の非金属元素。ハロゲン…
+j	彗光	彗光	彗星の光。
+j	彗星	彗星	comet
+j	彗芒	彗芒	彗星の尾の光。
+j	得る	得る	to get, acquire, gain, ob…
+j	得三	得三	a male given name
+j	得代	得代	官職（特に国司）が任期満了により交替すること。
+j	得体	得体	nature
+j	得分	得分	もうけ。利益。
+j	得利	得利	利益。利得。もうけ。
+j	得喪	得喪	得ることと失うこと。利得と喪失。
+j	得失	得失	advantages and disadvanta…
+j	得度	得度	becoming a monk
+j	得心	得心	十分に納得すること。
+j	得恋	得恋	恋愛が成就し、相思相愛になること。
+j	得意	得意	triumphant, proud
+j	得撫	得撫	Urup (an island of Russia)
+j	得替	得替	官職（特に国司）が任期満了により交替すること。
+j	得点	得点	score, points gained
+j	得理	得理	勝訴すること。
+j	得益	得益	利益を得ること。
+j	得票	得票	gaining votes
+j	得策	得策	利益がある計画や手段。そのほうが得になってよいこと。
+j	得見	得見	a male given name
+j	得過	得過	得罪すること。
+j	得道	得道	the state of being enligh…
+j	得選	得選	律令制において考課の対象とされる官職。
+j	得郎	得郎	a male given name
+j	志す	志す	to aspire to, to aim for,…
+j	志保	志保	a female given name
+j	志倉	志倉	a surname
+j	志向	志向	intention; being so minde…
+j	志塚	志塚	a surname
+j	志士	志士	a person of principles, p…
+j	志太	志太	a surname
+j	志学	志学	学問に志すこと。
+j	志尚	志尚	こころざし。
+j	志州	志州	志摩国^(（しまのくに）)の別称。
+j	志帆	志帆	a female given name
+j	志念	志念	深く思い定めること。
+j	志怪	志怪	前近代中国の散文体文章の分類の一つで、不思議な事や…
+j	志恵	志恵	a female given name
+j	志慮	志慮	意志と思慮。考え。
+j	志摩	志摩	Shima (a city in Mie Pref…
+j	志操	志操	心に固く守って変えない志。
+j	志方	志方	a surname
+j	志明	志明	a male given name
+j	志望	志望	wish, desire, ambition
+j	志村	志村	a surname
+j	志束	志束	a female given name
+j	志格	志格	志が高いさま。
+j	志業	志業	学問や事業に志すこと。
+j	志気	志気	物事をしようとする意気込み。
+j	志水	志水	a surname
+j	志田	志田	a surname
+j	志節	志節	志操。
+j	志絵	志絵	a female given name
+j	志行	志行	志と行い。
+j	志賀	志賀	neighborhoods of Kita war…
+j	志郎	志郎	a male given name
+j	志野	志野	a surname
+j	志願	志願	volunteering
+j	抗う	抗う	to fight against, to go a…
+j	抗争	抗争	fighting, resistance, ant…
+j	抗体	抗体	antibody
+j	抗剄	抗剄	首を斬ること。斬首。
+j	抗力	抗力	流体中を運動する、または流れの中にある物体に働く抵…
+j	抗原	抗原	an antigen
+j	抗告	抗告	an appeal in court
+j	抗弁	抗弁	refutation; plea; protest…
+j	抗心	抗心	何かに抵抗しようという気持ち。
+j	抗戦	抗戦	resisting and fighting
+j	抗抵	抗抵	抵抗すること。
+j	抗拒	抗拒	あらがいこばむこと。抵抗し拒否すること。
+j	抗撃	抗撃	相手に抵抗し、攻撃すること。
+j	抗敵	抗敵	敵対すること。
+j	抗日	抗日	anti-Japanese
+j	抗章	抗章	上書すること。
+j	抗菌	抗菌	antibacterial
+j	抗言	抗言	protest
+j	抗論	抗論	対抗して議論すること。抗弁。反論。
+j	抗議	抗議	protest, objection
+j	抗越	抗越	志を高くして従わないこと。
+j	拗執	拗執	自分の考えを頑固に主張すること。頑ななこと。また、…
+j	拗音	拗音	one of the full-sized kan…
+j	拗頸	拗頸	強情なさま。
+j	捗る	捗る	to make good progress (on…
+j	搗布	搗布	paddle weed (Ecklonia cav…
+j	搗衣	搗衣	しなやかさや艶をだすため砧で衣をうつこと。
+j	敗乱	敗乱	敗れ、乱れること。
+j	敗亡	敗亡	（はいぼう）戦いに負けて滅びること。
+j	敗俗	敗俗	風俗を損なうこと。
+j	敗兆	敗兆	戦いに敗れる兆候。敗徴。
+j	敗勢	敗勢	敗れそうな形勢。
+j	敗北	敗北	defeat, loss
+j	敗因	敗因	cause of defeat; reason o…
+j	敗報	敗報	戦いに負けた知らせ。
+j	敗壊	敗壊	敗れ壊れること。
+j	敗将	敗将	戦いに敗れた軍勢の大将。
+j	敗屋	敗屋	廃屋の別表記。
+j	敗徳	敗徳	不徳。
+j	敗徴	敗徴	戦いに敗れる兆候。敗兆。
+j	敗戦	敗戦	defeat in war or competit…
+j	敗根	敗根	声聞、縁覚の二乗。敗種。
+j	敗死	敗死	戦いに敗北して死ぬこと。
+j	敗残	敗残	戦いに敗れても生き残ること。
+j	敗毀	敗毀	敗れ、こわれること。やぶりこわすこと。毀敗。
+j	敗滅	敗滅	負けて滅びること。
+j	敗着	敗着	負けの原因となった悪手。
+j	敗種	敗種	声聞、縁覚の二乗。敗根。
+j	敗絮	敗絮	使い古され、役に立たなくなった綿。
+j	敗績	敗績	今までの功績を失ってしまうほど大敗すること。
+j	敗者	敗者	loser
+j	敗色	敗色	敗北しそうな気配。負け色。
+j	敗衄	敗衄	戦に敗れること。
+j	敗訴	敗訴	losing a lawsuit
+j	敗走	敗走	rout
+j	敗軍	敗軍	defeat of an army in war
+j	敗退	敗退	elimination (in a competi…
+j	敗醤	敗醤	女郎花、男郎花の漢名。
+j	斗升	斗升	「斗枡」の別表記。
+j	斗帳	斗帳	帳台の上を覆うとばり。
+j	斗拱	斗拱	
+j	斗枡	斗枡	1斗（約18リットル）を量るための升。
+j	斗柄	斗柄	北斗七星の柄杓の柄の部分。
+j	斗栱	斗栱	an architectural structur…
+j	斗棒	斗棒	枡に入れたものを平らに均す棒。
+j	斗筲	斗筲	度量の小さいこと。
+j	斗米	斗米	一斗の米。少ない米。
+j	斗部	斗部	部首「⽃」で分類した漢字の一群。
+j	斗酒	斗酒	a large volume of sake
+j	旗下	旗下	大将の旗の下。麾下。旗本。
+j	旗亭	旗亭	酒場。料理屋。宿屋。
+j	旗兵	旗兵	中国清国の八旗の兵士。
+j	旗印	旗印	
+j	旗号	旗号	旗章。旗印。
+j	旗国	旗国	船舶・航空機が登録され、所属している国。
+j	旗幟	旗幟	banner, flag (particularl…
+j	旗弁	旗弁	蝶形花冠の上部にある花びら。
+j	旗手	旗手	standard-bearer
+j	旗旌	旗旌	旗。幟。
+j	旗本	旗本	retainer of a shogun
+j	旗標	旗標	旗章。
+j	旗津	旗津	
+j	旗物	旗物	旗章。
+j	旗瓣	旗瓣	「旗弁」の別表記。
+j	旗章	旗章	旗印。
+j	旗竿	旗竿	flagpole, flagstaff
+j	旗艦	旗艦	flagship
+j	旗袍	旗袍	a qipao (Chinese one-piec…
+j	旗門	旗門	スキー競技でコース上に立てられる二本の旗。
+j	旗頭	旗頭	はたがしら。
+j	旗鼓	旗鼓	軍旗と太鼓。
+j	暗い	暗い	
+j	暗に	暗に	はっきりとは示さないさま。
+j	暗中	暗中	the situation in the dark
+j	暗主	暗主	愚かな君主。暗君。
+j	暗刻	暗刻	「アンコー」を参照。
+j	暗号	暗号	code; cipher
+j	暗合	暗合	a coincidental match; a c…
+j	暗君	暗君	治世において、愚かなふるまいを行うなど、聡明とは言…
+j	暗唱	暗唱	recitation from memory
+j	暗喩	暗喩	metaphor
+j	暗器	暗器	a hidden weapon
+j	暗夜	暗夜	光のない暗い夜。
+j	暗夫	暗夫	愚夫。
+j	暗女	暗女	淫売婦。
+j	暗室	暗室	a darkroom (dark room whe…
+j	暗幕	暗幕	外からの光を遮蔽したり、室内の光が漏洩しないように…
+j	暗弱	暗弱	道理がわからず劣っていること。またそのさま。
+j	暗影	暗影	shadow, gloom
+j	暗愚	暗愚	道理に暗く愚かなこと。
+j	暗所	暗所	dark place
+j	暗数	暗数	実際の数値と統計に現れる数値との差。
+j	暗晦	暗晦	暗いこと。また、そのようなさま。
+j	暗暗	暗暗	密かなさま。
+j	暗槓	暗槓	concealed kong
+j	暗殺	暗殺	assassination
+j	暗流	暗流	地表などに現れない水の流れ。伏流。
+j	暗涙	暗涙	密かに流す涙。
+j	暗渠	暗渠	覆いをした水路。
+j	暗溝	暗溝	culvert, underground drai…
+j	暗澹	暗澹	dim, dark
+j	暗点	暗点	scotoma, scotomatous
+j	暗然	暗然	gloomy
+j	暗礁	暗礁	reef
+j	暗示	暗示	hint, implication, intima…
+j	暗穴	暗穴	暗い穴。
+j	暗窖	暗窖	a dark cave, a dark under…
+j	暗算	暗算	mental arithmetic (doing …
+j	暗線	暗線	光の連続スペクトルの中に現れる暗い線。
+j	暗色	暗色	dark color
+j	暗花	暗花	中国の陶磁器で装飾に見られる技法の一つ。
+j	暗視	暗視	暗い所でもものが見えること。ものをみること。
+j	暗記	暗記	rote memorization
+j	暗証	暗証	password
+j	暗誦	暗誦	「暗唱」に同じ。
+j	暗譜	暗譜	memorization of a score
+j	暗躍	暗躍	secret maneuvering
+j	暗転	暗転	dimming, taking a turn fo…
+j	暗部	暗部	暗い部分。隠された部分。
+j	暗闇	暗闇	darkness, the dark, compl…
+j	暗雲	暗雲	dark cloud
+j	暗香	暗香	a fragrance or scent from…
+j	暗鬱	暗鬱	gloomy
+j	暗鬼	暗鬼	暗がりの中に見て取る鬼の姿。また、錯覚や妄想から生…
+j	暗黒	暗黒	dark
+j	暗黙	暗黙	inaudible, silent, tacit,…
+j	朗吟	朗吟	声高く詩歌を詠うこと。
+j	朗唱	朗唱	声高らかに歌うこと。
+j	朗報	朗報	good news
+j	朗天	朗天	晴れ渡った空。熙天。
+j	朗悟	朗悟	穎悟。
+j	朗月	朗月	明るく、澄んだ月。
+j	朗笑	朗笑	朗らかに笑うこと。
+j	朗詠	朗詠	節をつけて詩歌を読むこと。
+j	朗話	朗話	他の人が聞いて、その心が明るくなるような話。
+j	朗誦	朗誦	詩句などを大きな声を出して読むこと。
+j	朗読	朗読	reading a text out loud f…
+j	林下	林下	禅宗で地方にある大寺。
+j	林亭	林亭	林の中にあるあずまや。
+j	林務	林務	森林に関する業務や事務。
+j	林地	林地	woodland; forest land
+j	林壑	林壑	林と谷。
+j	林学	林学	silviculture, forestry
+j	林床	林床	forest floor
+j	林政	林政	森林、林業に関する政策や行政。
+j	林木	林木	forest tree
+j	林業	林業	forestry
+j	林檎	林檎	apple
+j	林況	林況	status of a forest
+j	林泉	林泉	多くの木立や小川、池がある庭園。
+j	林産	林産	production from the fores…
+j	林田	林田	a surname
+j	林相	林相	森林を構成する植物の種類や生え方による形態。
+j	林立	林立	be bristling with (standi…
+j	林縁	林縁	森林の周縁の部分。森林のへり。
+j	林藪	林藪	林としげみ。
+j	林道	林道	林の中を通る道。
+j	林邑	林邑	Lâm Ấp (an ancient kingdo…
+j	林野	林野	森林と原野。
+j	林鍾	林鍾	十二律の一つ。
+j	林鐘	林鐘	中国十二律の一つ。
+j	林間	林間	林の中。林中。
+j	栗原	栗原	Kurihara (a city in Miyag…
+j	栗園	栗園	栗の木を多く植えた庭園や農園。
+j	栗山	栗山	a surname
+j	栗林	栗林	a surname
+j	栗毛	栗毛	chestnut color, often app…
+j	栗田	栗田	a surname
+j	栗罅	栗罅	栗のいがが割れること。
+j	栗羽	栗羽	a surname
+j	栗色	栗色	maroon (color)
+j	栗茸	栗茸	chestnut mushroom, brick …
+j	栗鼠	栗鼠	a squirrel (rodent of fam…
+j	梗咽	梗咽	噎ぶこと。
+j	梗塞	梗塞	blockage
+j	梗概	梗概	outline, summary
+j	梗絶	梗絶	断絶。
+j	樗材	樗材	役に立たない材木。
+j	樗沢	樗沢	a surname
+j	樗蒲	樗蒲	「樗蒲一」の略。
+j	気丈	気丈	気がしっかりしているさま。
+j	気乾	気乾	屋外で乾燥させた木材に含まれる水分が大気中の湿度と…
+j	気伏	気伏	承知すること。納得すること。
+j	気体	気体	gas; vapor
+j	気倒	気倒	苛立つこと。
+j	気候	気候	climate
+j	気儘	気儘	selfish; self-willed
+j	気分	気分	feeling, mood
+j	気前	気前	generosity
+j	気力	気力	spirit, drive, morale, vi…
+j	気功	気功	qigong (system of breathi…
+j	気勢	気勢	fervor, vigor, ardor, spi…
+j	気化	気化	evaporation
+j	気合	気合	Fighting spirit; spirit; …
+j	気吹	気吹	呼吸。
+j	気味	気味	sensation, feeling
+j	気品	気品	refinement, elegance, the…
+j	気喘	気喘	喘ぐこと。
+j	気嚢	気嚢	鳥類に見られる呼吸器官で、肺や気管に繋がる袋状のも…
+j	気団	気団	air mass
+j	気圏	気圏	大気が地球を取り巻いている範囲。大気圏。
+j	気圧	気圧	atmospheric pressure
+j	気塊	気塊	同質の大気の集まり。気団。
+j	気孔	気孔	stoma
+j	気学	気学	kigaku: a form of fortune…
+j	気宇	気宇	心の広さ。気構え。
+j	気室	気室	圧縮空気が入った室。
+j	気密	気密	airtight
+j	気層	気層	大気の層。
+j	気形	気形	生物。動物。
+j	気心	気心	temper, disposition
+j	気性	気性	temper (of human or anima…
+j	気息	気息	breath, breathing
+j	気態	気態	気体の状態。
+j	気根	気根	植物で茎や幹の地上部分から露出した根。
+j	気格	気格	品格、気品。
+j	気楽	気楽	comfortable; easy
+j	気概	気概	mettle, grit, spirit
+j	気欝	気欝	気分が晴れ晴れとせず鬱ぐこと。
+j	気死	気死	憤死すること。また、気絶すること。
+j	気殺	気殺	憤死すること。
+j	気気	気気	人それぞれの気質。
+j	気氛	気氛	運気。
+j	気泡	気泡	液体、固体の中の空気を含む泡。
+j	気流	気流	airflow, air current
+j	気海	気海	海のように広大な大気。
+j	気温	気温	air temperature, atmosphe…
+j	気滞	気滞	漢方で気の巡りが悪くなり、滞っている状態。
+j	気灯	気灯	ガス灯。
+j	気炎	気炎	high spirit; enthusiasm
+j	気焔	気焔	意気が盛んなこと。気勢。
+j	気物	気物	時の物。
+j	気球	気球	balloon (inflatable objec…
+j	気病	気病	心配や心労などによる病気。
+j	気相	気相	gaseous phase
+j	気短	気短	落ち着いていられないさま。せっかちなさま。性急。
+j	気稟	気稟	生まれつきの気質。
+j	気筒	気筒	cylinder (part of an engi…
+j	気管	気管	trachea
+j	気節	気節	気概があり節操がかたいこと。気骨。
+j	気絶	気絶	a faint, knockout or othe…
+j	気美	気美	a female given name
+j	気胞	気胞	（魚の）浮き袋。
+j	気胸	気胸	pneumothorax
+j	気脈	気脈	血液が通る所。血管。
+j	気腔	気腔	呼吸細気管支、肺胞道、肺胞嚢、肺胞のそれぞれの内腔。
+j	気腫	気腫	臓器や組織に病的にガスなどが状態。
+j	気色	気色	one's looks, (expression …
+j	気血	気血	人体の中の生気と血液。
+j	気象	気象	weather, meteorological p…
+j	気質	気質	temperament, disposition
+j	気転	気転	「機転」の別表記。
+j	気軽	気軽	lighthearted, casual, rel…
+j	気迫	気迫	drive, determination, spi…
+j	気運	気運	時勢の成り行き。時運。
+j	気道	気道	呼吸のため肺まで空気が通るための通路。
+j	気配	気配	appearance, sign, hint, a…
+j	気量	気量	度量。
+j	気鋭	気鋭	意気込みが盛んで鋭いこと。また、そのようなさま。
+j	気長	気長	行動がゆったりしているさま。せかせかしていないさま。
+j	気門	気門	昆虫などの腹部にある呼吸するための穴。
+j	気随	気随	acting as one pleases
+j	気障	気障	affected, disagreeable, p…
+j	気音	気音	
+j	気韻	気韻	気品のある様子。特に、書画などの風雅な趣。
+j	気類	気類	物同士の間に働く見えない力。
+j	気風	気風	気性。特にある集団や土地の人々に共通する気質。
+j	気骨	気骨	spine (metaphor for coura…
+j	気鬱	気鬱	gloomy
+j	気魂	気魂	魂。精神。
+j	気魄	気魄	ひるむことなく立ち向かう強い精神力。
+j	汗国	汗国	《世界史》 テュルク・モンゴル系民族の国家における…
+j	汗水	汗水	profuse sweat
+j	汗疹	汗疹	miliaria: prickly heat, h…
+j	汗瘡	汗瘡	発汗や皮膚の長期の湿潤のため皮膚にできる赤い小さな…
+j	汗竹	汗竹	記録。汗簡。
+j	汗簡	汗簡	記録。史書。汗青。
+j	汗腺	汗腺	sweat gland
+j	汗血	汗血	血のような汗。
+j	汗衣	汗衣	下着。
+j	汗衫	汗衫	汗取りの下着。主に麻製で、奈良時代ごろ、男女が共に…
+j	汗青	汗青	records, chronicles, anna…
+j	汗顔	汗顔	ashamed, embarrassed
+j	汗馬	汗馬	馬を走らせ発汗させること。
+j	洗い	洗い	washing
+j	洗う	洗う	to wash
+j	洗刷	洗刷	洗うこと。
+j	洗剔	洗剔	洗って取り去ること。
+j	洗剤	洗剤	detergent
+j	洗卵	洗卵	washing of an egg
+j	洗掘	洗掘	水流により川底や堤防が削り取られること。
+j	洗浄	洗浄	laundering
+j	洗浴	洗浴	湯浴み。入浴。
+j	洗滌	洗滌	rinsing
+j	洗濯	洗濯	laundry, washing
+j	洗熊	洗熊	a raccoon (nocturnal omni…
+j	洗眼	洗眼	washing the eyes
+j	洗礼	洗礼	baptism
+j	洗米	洗米	washed rice
+j	洗練	洗練	refinement, polish (clean…
+j	洗脳	洗脳	brain-washing
+j	洗足	洗足	汚れた足を洗うこと。また、それに使う湯水。
+j	洗身	洗身	入浴時に全身を洗う行為。
+j	洗車	洗車	washing an automobile or …
+j	洗除	洗除	洗って除くこと。
+j	洗面	洗面	washing one's face
+j	洗顏	洗顏	
+j	洗顔	洗顔	washing one's face
+j	洗髪	洗髪	washing one's hair, a sha…
+j	渗水	渗水	滲水の拡張新字体表記。
+j	澗声	澗声	谷川の水が流れる音。
+j	澗水	澗水	water of mountain stream
+j	澗谷	澗谷	谷。谷川。
+j	煗然	煗然	暖かなさま。
+j	燗番	燗番	酒の燗の具合を見る人。
+j	燗酒	燗酒	warmed sake
+j	狗吠	狗吠	the barking of a dog, or …
+j	狗盗	狗盗	sneak thief, literally "t…
+j	狗肉	狗肉	dog meat
+j	狗馬	狗馬	狗と馬。犬馬。
+j	猗靡	猗靡	麗しいこと。そのさま。
+j	甗錡	甗錡	甑と窯。
+j	盗み	盗み	theft
+j	盗む	盗む	to steal
+j	盗人	盗人	thief, robber
+j	盗伐	盗伐	secretly felling trees
+j	盗作	盗作	plagiarism, crib
+j	盗取	盗取	盗み取ること。
+j	盗品	盗品	盗んだ品物。
+j	盗塁	盗塁	stealing a base
+j	盗心	盗心	物などを盗もうという気持ち。
+j	盗掘	盗掘	許可を得ずに勝手に土地を掘削し、財物を窃取すること。
+j	盗撮	盗撮	secret photography, voyeu…
+j	盗汗	盗汗	寝ている間にかく汗。ねあせ。
+j	盗犯	盗犯	窃盗や強盗の犯罪又は犯人。
+j	盗用	盗用	unauthorized use, piracy …
+j	盗癖	盗癖	
+j	盗窃	盗窃	こっそり盗むこと。
+j	盗窟	盗窟	盗賊の隠れ家。
+j	盗罪	盗罪	窃盗や強盗など盗みの罪。
+j	盗聴	盗聴	wiretapping; bugging; eav…
+j	盗視	盗視	こっそり盗み見ること。
+j	盗賊	盗賊	thief, robber
+j	盗贓	盗贓	盗んで手に入れた財物。
+j	盗難	盗難	theft (passive)
+j	盗電	盗電	electricity theft
+j	盗食	盗食	eating the meal that serv…
+j	矗矗	矗矗	高く聳えるさま。
+j	祗候	祗候	側近くに仕えること。
+j	祗恪	祗恪	慎むこと。
+j	祗承	祗承	勅使が下向したときの饗応をすること。また、その役人。
+j	稗史	稗史	かつて中国の稗官が集録した民間に伝わるうわさやもの…
+j	稗官	稗官	petty official tasked wit…
+j	稗糲	稗糲	質の悪い米。
+j	稗販	稗販	小商人。
+j	算入	算入	factoring in, including
+j	算出	算出	calculation
+j	算勘	算勘	（算木で）占い、考えること。
+j	算学	算学	mathematics
+j	算定	算定	計算して数値を割り出すこと。
+j	算当	算当	計算して見当をつけること。
+j	算数	算数	arithmetic; calculation
+j	算木	算木	counting rod
+j	算段	算段	devising means to, workin…
+j	算法	算法	operation
+j	算用	算用	計算すること。勘定すること。
+j	算略	算略	物事をうまく行うための方策。
+j	算盤	算盤	an abacus
+j	算筆	算筆	計算と習字、読み書き。
+j	算籌	算籌	算木。
+j	算者	算者	計算（算術）が得意な人。
+j	算術	算術	arithmetic
+j	算譜	算譜	program (software applica…
+j	算賀	算賀	長寿を祝うこと。四十歳以降10年ごとに行われる。
+j	算部	算部	寿命。
+j	算額	算額	sangaku (ema on which is …
+j	粗い	粗い	coarse, rough (in regards…
+j	粗俗	粗俗	粗野で乱暴なこと。不作法。
+j	粗利	粗利	売上総利益の別称。
+j	粗品	粗品	present
+j	粗大	粗大	coarse, rough, bulky
+j	粗宴	粗宴	my humble banquet
+j	粗密	粗密	coarseness and fineness; …
+j	粗布	粗布	coarse-woven cloth
+j	粗忽	粗忽	軽はずみなこと。そそっかしいこと。また、そのさま。
+j	粗悪	粗悪	of poor quality
+j	粗描	粗描	大雑把に描写すること。また、その描写。
+j	粗放	粗放	大まかで締まりがないこと。やりっぱなしであること。
+j	粗景	粗景	gift
+j	粗暴	粗暴	荒くて乱暴なこと。
+j	粗服	粗服	粗末な衣服。粗悪な衣服。
+j	粗末	粗末	coarse, rough, plain, poo…
+j	粗朶	粗朶	薪や海苔栽培などのために用いる、切り取ったか細い枝。
+j	粗氷	粗氷	過冷却された霧の粒が樹木や岩石についてできた透明ま…
+j	粗漏	粗漏	「疎漏」の別表記。
+j	粗略	粗略	疎かなこと。また、そのようなさま。なげやり。ぞんざ…
+j	粗相	粗相	to blunder
+j	粗笨	粗笨	rough; coarse
+j	粗筋	粗筋	synopsis (short summary o…
+j	粗糖	粗糖	甘蔗から製糖したままの褐色の砂糖。
+j	粗糙	粗糙	coarse, rough
+j	粗糠	粗糠	rice hulls; chaff
+j	粗糲	粗糲	unpolished, coarse rice; …
+j	粗紡	粗紡	紡績で綿を紡いで撚りをかけ、太い糸のようにする工程。
+j	粗細	粗細	粗いことと細かいこと。
+j	粗肴	粗肴	粗末な肴。
+j	粗茶	粗茶	粗末な茶。上質でない茶。
+j	粗菜	粗菜	粗末な菜。上等でないおかず。
+j	粗衣	粗衣	粗末な衣服。
+j	粗製	粗製	作りが粗末、粗雑であること。また、そのようなもの。
+j	粗豪	粗豪	猛々しいこと。荒々しいこと。また、そのようなさま。
+j	粗造	粗造	物を粗末、粗雑に造ること。
+j	粗酒	粗酒	粗末な酒。
+j	粗野	粗野	vulgar; rough; crass; rude
+j	粗鉱	粗鉱	鉱山から採掘されたばかりで選鉱されていない鉱石。原…
+j	粗銅	粗銅	銅の精錬で、原鉱を炉で溶融してできる鈹を転炉して酸…
+j	粗鋼	粗鋼	加工される前の製鋼されたばかりの鋼。
+j	粗陋	粗陋	粗野で卑しいこと。
+j	粗陶	粗陶	古代中国で砂の混じった粘土でつくられた土器。摶泥。
+j	粗雑	粗雑	雑なこと。いいかげんなこと。ぞんざいなこと。
+j	粗面	粗面	rough surface
+j	粗食	粗食	粗末な食事をすること。またはその内容。
+j	粗飯	粗飯	粗末な食事。他人に出す食事に対する謙譲語。
+j	粗餐	粗餐	粗末な食事。他人に出す食事に対する謙譲語。
+j	粗鬆	粗鬆	大雑把で粗いこと。
+j	粗魯	粗魯	荒々しく愚かなこと。
+j	紗子	紗子	a female given name
+j	紗巾	紗巾	紗でできた頭巾。
+j	紗弥	紗弥	a female given name
+j	紗灯	紗灯	薄絹や薄紗を張った灯籠。紗籠。
+j	紗綾	紗綾	平織りの地に綾織りで文様を織った光沢のある絹織物。
+j	紗織	紗織	a female given name
+j	紗羅	紗羅	うすぎぬ。
+j	緗簡	緗簡	書籍。
+j	緗縑	緗縑	縑。
+j	縗帽	縗帽	喪服と帽。
+j	縗服	縗服	喪服。
+j	縗絰	縗絰	喪服。
+j	耗少	耗少	減少すること。
+j	耗弱	耗弱	diminishment and weakening
+j	耗損	耗損	使い減らすこと。また、ものの減ること。
+j	臗骨	臗骨	骨盤を構成する骨の一つで、腸骨、坐骨、恥骨が結合し…
+j	舗兵	舗兵	見回りの兵卒。邏卒。
+j	舗石	舗石	道路に敷いてある石。しきいし。
+j	舗装	舗装	pavement
+j	舗道	舗道	paved road; paved street;…
+j	苗圃	苗圃	seedbed
+j	苗字	苗字	姓氏。姓。
+j	苗床	苗床	seedbed
+j	苗木	苗木	sapling; seedling
+j	苗条	苗条	植物の葉と茎の総称。
+j	苗栗	苗栗	Miaoli (a county of Taiwa…
+j	苗胤	苗胤	遠い血筋の子孫。
+j	苗裔	苗裔	offspring; descendant; pr…
+j	茗器	茗器	teaware
+j	茗園	茗園	tea plantation
+j	茗宴	茗宴	
+j	茗粥	茗粥	奈良地方で奈良茶飯。
+j	茗艼	茗艼	「酩酊」の別表記。
+j	茗荷	茗荷	myoga or Japanese ginger …
+j	茗醼	茗醼	tea party
+j	茗鼎	茗鼎	茶釜。
+j	著す	著す	to write, to publish
+j	著作	著作	writing of a book
+j	著剣	著剣	銃の先端に銃剣を取り付けること。
+j	著名	著名	noted, celebrated
+j	著増	著増	顕著に増加すること。著しく増えること。
+j	著手	著手	犯罪の遂行に直接関係ある行為を開始すること。
+j	著明	著明	clear
+j	著書	著書	a written work
+j	著減	著減	顕著に減少すること。著しく減ること。
+j	著者	著者	author
+j	著聞	著聞	世間によく知られていること。
+j	著述	著述	書物を著作すること。
+j	著類	著類	着用するもの。衣類。衣類。
+j	著騰	著騰	著しく騰貴すること。
+j	蔗境	蔗境	会話や文章などが段々面白くなるところ。佳境。
+j	蔗糖	蔗糖	sucrose
+j	蕗草	蕗草	licorice
+j	薗田	薗田	a surname
+j	薗部	薗部	a surname
+j	蝗害	蝗害	蝗などによる農作物の被害。
+j	蝗虫	蝗虫	synonym of 稲子 (inago, “lo…
+j	蝗豆	蝗豆	carob
+j	街上	街上	街頭。路上。巷間。
+j	街中	街中	街の全体。街の全部。
+j	街区	街区	city block
+j	街商	街商	店舗を持たず街頭で商いをする者。露店商。
+j	街娼	街娼	prostitute, whore, street…
+j	街子	街子	a female given name
+j	街宣	街宣	人通りのある街頭で行う宣伝活動。街頭宣伝の略。
+j	街店	街店	店舗。
+j	街村	街村	街道に沿って人家が帯状に発達している村落。
+j	街灯	街灯	street light
+j	街燈	街燈	
+j	街着	街着	streetwear, urban clothing
+j	街衢	街衢	街。市街。ちまた。
+j	街角	街角	a street corner
+j	街路	街路	street, road, avenue
+j	街道	街道	a highway
+j	街郭	街郭	街路によって区切られる一区画。街区。
+j	街金	街金	特定の地域内で小規模に営業している正規の（許可を受…
+j	街録	街録	街頭録音の略。^([要出典])
+j	街頭	街頭	street, street corner; ne…
+j	街鼓	街鼓	城の守備で警戒のため夜間に太鼓を打つこと。
+j	覗く	覗く	
+j	託け	託け	excuse, pretext, plea
+j	託す	託す	「託する」に同じ。
+j	託つ	託つ	complain about
+j	託児	託児	乳幼児を預けて世話を頼むこと。
+j	託宣	託宣	an oracle, a divine revel…
+j	託承	託承	後事を引き受けること。
+j	託生	託生	「托生」に同じ。
+j	託言	託言	口実。
+j	託送	託送	他者に委託して物品を送ること。
+j	謗る	謗る	to slander; to vilify
+j	謗家	謗家	誹謗する人。
+j	謗毀	謗毀	そしること。けなすこと。誹謗。
+j	謗法	謗法	仏法を謗り、あなどること。
+j	謗言	謗言	謗る言葉。悪口。
+j	謗語	謗語	誹り。暴言。
+j	謗議	謗議	悪し様な批評。悪口を言うこと。
+j	謗讟	謗讟	謗り。
+j	跗節	跗節	昆虫の足の先のふし。
+j	跗骨	跗骨	足根骨。
+j	轗頓	轗頓	挫折すること。
+j	迗逇	迗逇	天下に背くこと。
+j	逗子	逗子	Zushi (a city in Kanagawa…
+j	逗引	逗引	誘うこと。
+j	逗留	逗留	staying; sojourn
+j	醗酵	醗酵	「発酵」の別表記。
+j	鉗口	鉗口	「箝口」の別表記。
+j	鉗噤	鉗噤	口を塞ぐこと。
+j	鉗塞	鉗塞	口を塞ぐこと。
+j	鉗子	鉗子	forceps
+j	鉗梏	鉗梏	首枷と手枷。
+j	鎗然	鎗然	金属製の楽器からでる音のさま。
+j	鎗田	鎗田	a surname
+j	鎗術	鎗術	槍術の別表記。
+j	鎗銀	鎗銀	銀蒔絵。
+j	鏗然	鏗然	shrilling (of metal, ston…
+j	鏗鏗	鏗鏗	ringing through (of the s…
+j	鏗鏘	鏗鏘	resounding (of bells, sto…
+j	鏗鐘	鏗鐘	鐘を打つこと。
+j	頗る	頗る	extremely, highly
+j	饗会	饗会	酒宴。
+j	饗供	饗供	御供物。
+j	饗報	饗報	神を祀り、その恩恵に報いること。
+j	饗宴	饗宴	a feast (meal)
+j	饗応	饗応	酒食などを提供してもてなすこと。
+j	饗慶	饗慶	慶を受けること。
+j	饗搨	饗搨	透写すること。透き写しすること。
+j	饗祚	饗祚	天の幸いを受けること。
+j	饗福	饗福	受福すること。
+j	饗膳	饗膳	もてなしの料理をそろえた膳。饗饌、酒肴。
+j	饗薦	饗薦	供物。お供え。
+j	饗賜	饗賜	持て成し、賜ること。
+j	饗饌	饗饌	もてなしのために用意された膳。
+j	鱗介	鱗介	魚類と貝類。魚介。
+j	鱗屑	鱗屑	皮膚病などにより皮膚表面の角質が厚くなり、小さく剝…
+j	鱗形	鱗形	鱗のような形状。
+j	鱗木	鱗木	scale tree, trees of the …
+j	鱗片	鱗片	鱗の一片。
+j	鱗状	鱗状	魚などの鱗のような形状や模様。
+j	鱗粉	鱗粉	蝶や蛾の翅を覆う粉。
+j	鱗茎	鱗茎	bulb (of a plant)
+j	鱗葉	鱗葉	ユリやたまねぎなどの鱗茎をつくる多肉で鱗状の葉。鱗…
+j	鱗被	鱗被	lodicule
+j	鱗雲	鱗雲	synonym of 巻積雲 (kensekiun…
+j	麗か	麗か	beautiful; fine
+j	麗人	麗人	synonym of 美人 (bijin, “be…
+j	麗句	麗句	飾られた言葉。
+j	麗司	麗司	a male given name
+j	麗奈	麗奈	a female given name
+j	麗姿	麗姿	麗しい姿。端麗な姿。
+j	麗娜	麗娜	a female given name
+j	麗子	麗子	a female given name
+j	麗容	麗容	麗しい容姿。端麗な姿。
+j	麗日	麗日	beautiful day
+j	麗水	麗水	
+j	麗江	麗江	
+j	麗紅	麗紅	柑橘の品種の一つ。
+j	麗続	麗続	連なること。
+j	麗色	麗色	のどかで麗しい景色。
+j	麗艶	麗艶	麗しく艶かしいこと。また、そのようなさま。
+j	麗華	麗華	a female given name
+j	麗辞	麗辞	美しく飾った言葉や文章。
+j	麗香	麗香	a female given name
+j	齗齗	齗齗	争うさま。
+j	齗齶	齗齶	歯茎。
+k	가각	街角	거리의 모서리.
+k	가구	街区	family; household
+k	가구	街區	family; household
+k	가도	街道	두 도시를 잇는 도로
+k	가로	街路	across; horizontally
+k	가창	街娼	singing
+k	겸각	鉗脚	
+k	경개	梗概	
+k	경개	梗槪	
+k	경색	梗塞	blockage
+k	구장	狗醤	sports field for ball gam…
+k	구장	狗醬	sports field for ball gam…
+k	구탕	狗湯	
+k	기공	気功	qigong
+k	기공	気孔	qigong
+k	기관	気管	engine; machine
+k	기구	気球	device; tool
+k	기도	気道	prayer (practice of commu…
+k	기발	旗발	flag
+k	기분	気分	feeling, mood
+k	기상	気像	weather
+k	기상	気象	weather
+k	기색	気色	countenance, sign
+k	기선	気船	steamship
+k	기어	旗魚	yes, yeah
+k	기염	気焔	flamelike vigor
+k	기온	気温	air temperature
+k	기질	気質	temperament, disposition
+k	기체	気体	gas
+k	기치	旗幟	banner, flag
+k	기풍	気風	spirit, ethos
+k	기학	旗学	vexillology
+k	기학	旗學	vexillology
+k	기함	旗艦	flagship
+k	기함	気陥	flagship
+k	기합	気合	concentration of spirit
+k	기후	気候	climate (long-term atmosp…
+k	기흉	気胸	
+k	깃대	旗대	flagpole, flagstaff
+k	남경	南京	
+k	남과	南瓜	pumpkin
+k	남궁	南宮	a surname from Chinese
+k	남극	南極	south pole
+k	남녕	南寧	
+k	남동	南東	southeast
+k	남만	南蛮	southern barbarians (usua…
+k	남만	南蠻	southern barbarians (usua…
+k	남미	南美	South America (the contin…
+k	남방	南方	south, southward, directi…
+k	남부	南部	the south
+k	남북	南北	north and south, (especia…
+k	남산	南山	Namsan Mountain (a mounta…
+k	남서	南西	southwest
+k	남선	南鮮	South Korea, the southern…
+k	남원	南原	[~시] Namwon (a city in No…
+k	남월	南越	Nanyue, the Zhao Dynasty'…
+k	남조	南詔	
+k	남창	南昌	남색(男色) 파는 일을 직업으로 하는 남자.
+k	남측	南側	the south; the south side
+k	남평	南平	
+k	남포	南浦	Nampo (a city in North Ko…
+k	남한	南韓	synonym of 한국 (Han'guk): …
+k	남해	南海	South Sea (between Jeju a…
+k	남행	南行	southbound
+k	남향	南向	southward, southernly dir…
+k	낭독	朗読	reading a text out loud f…
+k	낭독	朗讀	reading a text out loud f…
+k	낭송	朗誦	recitation (of a poem or …
+k	도난	盗難	robbery; theft
+k	도록	盗録	catalogue (a book contain…
+k	도료	塗料	paint
+k	도루	盗塁	stealing a base
+k	도벽	盗癖	kleptomania
+k	도작	盗作	plagiarism, crib
+k	도적	盗賊	bandit
+k	도청	盗聴	provincial government bui…
+k	두연	斗然	spontaneously, suddenly
+k	득남	得男	getting a son
+k	득녀	得女	getting a daughter
+k	득도	得道	the state of being enligh…
+k	득점	得点	score, points gained
+k	득점	得點	score, points gained
+k	득표	得票	receiving votes
+k	렬도	列島	'열도'의 북한말.
+k	렬씨	列氏	Réaumur
+k	렬차	列車	'열차'의 북한말과 연변말.
+k	묘포	苗圃	seedbed
+k	발효	醗酵	taking effect
+k	북경	北京	Beijing (the capital city…
+k	북괴	北傀	the north puppet regime, …
+k	북극	北極	north pole, Arctic
+k	북동	北東	northeast
+k	북두	北斗	
+k	북미	北美	North America (the contin…
+k	북방	北方	north, northern area
+k	북벌	北伐	northern conquest; conque…
+k	북부	北部	northern part, northern a…
+k	북서	北西	northwest
+k	북송	北宋	Northern Song
+k	북송	北送	Northern Song
+k	북위	北緯	north latitude
+k	북위	北魏	north latitude
+k	북장	北醤	fermented soybean paste (…
+k	북장	北醬	fermented soybean paste (…
+k	북측	北側	the north; the north side
+k	북풍	北風	north wind
+k	북한	北韓	North Korea (a country in…
+k	불소	弗素	(화학) 플루오린; 원소기호 F의 독성이 강한…
+k	불화	弗貨	discord; disharmony
+k	사모	紗帽	teacher's wife
+k	사창	紗窓	government office of the …
+k	사천	泗川	Sichuan (a province in ce…
+k	산법	算法	algorithm
+k	산수	算術	arithmetic
+k	산술	算術	arithmetic, calculation
+k	산정	算定	summit, peak (of a mounta…
+k	산판	算板	abacus
+k	세뇌	洗脳	brainwashing; indoctrinat…
+k	세뇌	洗腦	brainwashing; indoctrinat…
+k	세례	洗礼	baptism (by sprinkling)
+k	세례	洗禮	baptism (by sprinkling)
+k	세면	洗面	washing one's face
+k	세모	洗毛	triangle
+k	세수	洗手	washing one's face
+k	세자	洗者	A son of king, who is to …
+k	세제	洗剤	detergent
+k	세제	洗劑	detergent
+k	세차	洗車	washing the car
+k	세척	洗滌	cleansing; rinsing
+k	세탁	洗濯	doing laundry
+k	속견	俗見	laymen's opinion
+k	속담	俗談	proverb, adage, saying
+k	속명	俗名	
+k	속세	俗世	the (secular) world, eart…
+k	속어	俗語	slang
+k	속음	俗音	vernacular pronunciation;…
+k	속자	俗字	a hanja variant that is w…
+k	속칭	俗称	common name
+k	속칭	俗稱	common name
+k	수고	受苦	effort, trouble
+k	수급	受給	supply and demand
+k	수난	受難	passion: suffering of Chr…
+k	수락	受諾	acceptance
+k	수령	受領	leader
+k	수부	受付	sailor, seaman
+k	수정	受精	crystal
+k	수지	受持	income and expenditure
+k	수취	受取	receipt, receiver, recipi…
+k	수태	受胎	conception; fertilization
+k	쉐수	洗手	Gangwon, Gyeongsang, Pyon…
+k	승객	乗客	passenger
+k	승극	乗隙	act of seizing an opportu…
+k	승마	乗馬	horseback riding, equestr…
+k	승법	乗法	multiplication
+k	승수	乗数	multiplier
+k	암기	暗記	memorization
+k	암묵	暗默	silence, tacitness
+k	암묵	暗黙	silence, tacitness
+k	암살	暗殺	assassination
+k	암송	暗誦	
+k	암시	暗示	hint; implication; sugges…
+k	암실	暗室	a darkroom (a dark room, …
+k	암유	暗喩	metaphor
+k	암유	暗喻	metaphor
+k	암초	暗礁	reef
+k	암표	暗票	ticket from a scalper
+k	암향	暗香	deep and subtle fragrance…
+k	암호	暗号	password, code
+k	암호	暗號	password, code
+k	암흑	暗黑	dark (a complete or parti…
+k	암흑	暗黒	dark (a complete or parti…
+k	여수	麗水	Yeosu (a city in South Je…
+k	열강	列强	
+k	열거	列挙	예를 들거나 설명하면서 자료를 보여주는 것.
+k	열거	列擧	예를 들거나 설명하면서 자료를 보여주는 것.
+k	열도	列島	archipelago
+k	열방	列邦	various nations
+k	열씨	列氏	Réaumur
+k	열차	列車	train
+k	완구	碗口	toy (something to play wi…
+k	임관	林冠	canopy
+k	임금	林檎	king; monarch
+k	임상	林床	clinical
+k	임업	林業	forestry
+k	자당	蔗糖	
+k	자막	字幕	subtitle
+k	자모	字母	jamo, letter (of the alph…
+k	자서	字書	dictionary
+k	자음	字音	consonant
+k	자전	字典	Chinese character diction…
+k	자체	字体	the thing itself
+k	자체	字體	the thing itself
+k	자판	字板	keyboard
+k	자형	字形	
+k	저자	著者	market
+k	저작	著作	
+k	점원	店員	shop assistant, salescler…
+k	점장	店長	store/shop manager
+k	점주	店主	shopkeeper, storekeeper, …
+k	점포	店鋪	store
+k	조언	粗言	advice
+k	조율	棗栗	tuning (musical instrumen…
+k	조제	粗製	compounding
+k	종교	宗敎	religion
+k	종어	宗魚	The long-snout bullhead, …
+k	종주	宗主	suzerain; feudal lord
+k	종파	宗派	denomination; (religious)…
+k	증가	増加	growth, increase
+k	증설	増設	extending or adding insta…
+k	증세	増税	symptom (of a disease)
+k	증편	増便	Korean steamed rice cake …
+k	지사	志士	governor
+k	지원	志願	support; aid
+k	탁치	託治	trusteeship
+k	패배	敗北	defeat
+k	패자	敗者	loser (person who fails t…
+k	패전	敗戦	defeat (in a war or sport…
+k	패전	敗戰	defeat (in a war or sport…
+k	한선	汗腺	
+k	항고	抗告	appeal
+k	항소	抗訴	appeal
+k	항암	抗癌	being anticancer (treatin…
+k	항역	抗疫	fighting an epidemic
+k	항원	抗原	antigen
+k	항의	抗議	protest
+k	항일	抗日	resistance to Japan; anti…
+k	항쟁	抗争	strife; struggle; resista…
+k	항쟁	抗爭	strife; struggle; resista…
+k	항체	抗体	antibody
+k	항체	抗體	antibody
+k	향응	饗応	echo, reciprocation
+k	향응	饗應	echo, reciprocation
+k	혜성	彗星	comet
+k	황충	蝗虫	메뚜깃과의 곤충. 몸의 길이는 4.8~6.5c…
+k	황충	蝗蟲	메뚜깃과의 곤충. 몸의 길이는 4.8~6.5c…
+j	乗じる	乗じる	to take advantage of
+j	乗せる	乗せる	give someone a ride
+j	乗って	乗って	
+j	乗り場	乗り場	boarding place for an air…
+j	乗り手	乗り手	
+j	乗り気	乗り気	interested, enthusiastic,…
+j	乗り物	乗り物	vehicle (conveyance)
+j	乗り鉄	乗り鉄	railfan who likes to ride…
+j	乗下車	乗下車	乗車および下車。
+j	乗務員	乗務員	attendant on a train; air…
+j	乗換え	乗換え	
+j	乗換駅	乗換駅	interchange
+j	乗用車	乗用車	passenger car
+j	乗組員	乗組員	member of the crew, crewm…
+j	乗車券	乗車券	ticket for riding a means…
+j	乗車率	乗車率	車両の定員に占める実際に乗車している人の割合。
+j	乗降口	乗降口	乗り物の出入口。乗り物の乗降するための出入口、通路。
+j	乗降車	乗降車	乗車または降車。
+j	乗馬道	乗馬道	乗馬をするために森林を切り開いて作った馬道。
+j	乗馬隊	乗馬隊	
+j	俗世間	俗世間	俗人の住む世。俗世。うきよ。
+j	俗受け	俗受け	世間一般の評判を得ること。
+j	俗字体	俗字体	本来の字が長い間使用されることで省略されたり、崩れ…
+j	俗物の	俗物の	
+j	冗長な	冗長な	
+j	冗長性	冗長性	
+j	列する	列する	attend
+j	列挙型	列挙型	
+j	列柱廊	列柱廊	等間隔に立てた柱に梁と屋根をかけた回廊。柱廊。コロ…
+j	列車砲	列車砲	鉄道車両に大砲を搭載し、軌道を走らせ移動する兵器。
+j	北九州	北九州	northern Kyūshū (a region…
+j	北京人	北京人	Beijinger
+j	北京語	北京語	Mandarin Chinese
+j	北北東	北北東	北と北東の中間の方位。十六方位の一つ。
+j	北北西	北北西	北と北西の中間の方位。十六方位の一つ。
+j	北半球	北半球	Northern Hemisphere (the …
+j	北国人	北国人	
+j	北寄貝	北寄貝	synonym of 姥貝 (ubagai, “s…
+j	北広島	北広島	Kitahiroshima (a city in …
+j	北廣島	北廣島	
+j	北微東	北微東	北と北北東との中間の方位。三十二方位の一つ。
+j	北微西	北微西	北と北北西との中間の方位。三十二方位の一つ。
+j	北政所	北政所	摂関家の妻の家政機関。また、妻のこと。後に大臣、大…
+j	北斗星	北斗星	北の空のおおぐま座にある柄杓のように並ぶ七つの星。…
+j	北方の	北方の	
+j	北日本	北日本	日本列島の北部地域。「東日本」／「西日本」に比べて…
+j	北朝鮮	北朝鮮	North Korea (a country in…
+j	北東の	北東の	
+j	北栗鼠	北栗鼠	a red squirrel (Sciurus v…
+j	北極光	北極光	オーロラの内、北極近辺で見られるもの。
+j	北極兎	北極兎	「ホッキョクウサギ」を参照。
+j	北極圈	北極圈	
+j	北極圏	北極圏	北緯66度33分以北の地域。
+j	北極星	北極星	the North Star, Pole Star…
+j	北極洋	北極洋	synonym of 北極海
+j	北極海	北極海	the Arctic Ocean
+j	北極点	北極点	North Pole
+j	北極熊	北極熊	a polar bear
+j	北極狐	北極狐	an arctic fox
+j	北極狼	北極狼	an Arctic wolf (Canis lup…
+j	北極線	北極線	Arctic Circle (one of the…
+j	北極鯨	北極鯨	a bowhead
+j	北氷洋	北氷洋	synonym of 北極海
+j	北沙参	北沙参	dried roots of Glehnia li…
+j	北海道	北海道	an island prefecture on t…
+j	北西の	北西の	
+j	北見国	北見国	令制国の一つ。1869年に北海道に設置。概ね現在の…
+j	北進論	北進論	Hokushin-ron, Imperial Ja…
+j	北陸道	北陸道	律令制の五畿七道または五畿八道の一つ。おおむね現在…
+j	南の島	南の島	"island of the south" (a …
+j	南九州	南九州	southern Kyūshū (a region…
+j	南京玉	南京玉	glass bead
+j	南京虫	南京虫	bedbug
+j	南京袋	南京袋	黄麻の繊維で織った目の粗い布袋。
+j	南京豆	南京豆	synonym of 落花生 (rakkasei,…
+j	南京鉋	南京鉋	柄が左右に突き出ており、その中間に刃が付いている鉋。
+j	南京錠	南京錠	padlock
+j	南京鼠	南京鼠	中国原産のはつかねずみの変種。体は白色で、実験用ま…
+j	南冠座	南冠座	みなみのかんむり座。
+j	南北朝	南北朝	the Northern and Southern…
+j	南半球	南半球	Southern Hemisphere (the …
+j	南南東	南南東	南と南東の中間の方位。十六方位の一つ。
+j	南南西	南南西	南と南西の中間の方位。十六方位の一つ。
+j	南国人	南国人	
+j	南大洋	南大洋	the Southern Ocean
+j	南天紋	南天紋	a kind of 家紋 (kamon, “fam…
+j	南奈子	南奈子	a female given name
+j	南実子	南実子	a female given name
+j	南微東	南微東	南と南南東との中間の方位。三十二方位の一つ。
+j	南微西	南微西	南と南南西との中間の方位。三十二方位の一つ。
+j	南方の	南方の	
+j	南日本	南日本	日本列島の南部地域。「東日本」／「西日本」に比べて…
+j	南朝鮮	南朝鮮	South Korea (a country in…
+j	南東の	南東の	
+j	南東部	南東部	southeast part, southeast…
+j	南極光	南極光	オーロラの内、南極近辺で見られるもの。
+j	南極圈	南極圈	
+j	南極圏	南極圏	南緯66度33分以南の地域。
+j	南極星	南極星	天の南極の近くにある明るい恒星。存在すれば南半球で…
+j	南極海	南極海	the South Polar Ocean; th…
+j	南極点	南極点	south pole
+j	南極線	南極線	Antarctic Circle (one of …
+j	南樺太	南樺太	the southern part of Sakh…
+j	南氷洋	南氷洋	synonym of 南極海
+j	南沙参	南沙参	dried roots of Adenophora…
+j	南津子	南津子	a female given name
+j	南海道	南海道	律令制の五畿七道または五畿八道の一つ。おおむね現在…
+j	南無三	南無三	Used to express surprise …
+j	南牟礼	南牟礼	a surname
+j	南瓜子	南瓜子	dried and flavoured pumpk…
+j	南蛮人	南蛮人	a foreigner from Portugal…
+j	南蛮寺	南蛮寺	安土桃山時代、キリスト教の教会堂の総称。
+j	南蛮笛	南蛮笛	チャルメラ。
+j	南蛮船	南蛮船	室町時代後期から江戸時代初期にかけて南洋から来航し…
+j	南蛮錐	南蛮錐	先端が螺旋となっており把手が丁字で両手で回す錐。も…
+j	南蛮黍	南蛮黍	「玉蜀黍」の別名。
+j	南西の	南西の	
+j	南足柄	南足柄	a city in Kanagawa Prefec…
+j	南進論	南進論	Nanshin-ron, Imperial Jap…
+j	南魚座	南魚座	みなみのうお座。
+j	受かる	受かる	pass a test, examination,…
+j	受けて	受けて	
+j	受ける	受ける	to receive, to get, to be…
+j	受け子	受け子	person who collects or re…
+j	受け板	受け板	
+j	受け皿	受け皿	a saucer, tray
+j	受け盤	受け盤	地層の傾斜が地形の傾斜に対して差し目に傾斜している…
+j	受け身	受け身	that which is passive (no…
+j	受付中	受付中	currently accepting, now …
+j	受付係	受付係	receptionist, clerk
+j	受信人	受信人	addressee
+j	受信機	受信機	receiver
+j	受信箱	受信箱	in-box (electronic folder)
+j	受像機	受像機	人為的に送られる電波などの信号をアンテナで受け、増…
+j	受入れ	受入れ	
+j	受入国	受入国	
+j	受刑者	受刑者	convict sentenced to time…
+j	受動態	受動態	passive voice
+j	受動的	受動的	passive (not active, but …
+j	受取人	受取人	addressee (the person or …
+j	受容性	受容性	
+j	受益格	受益格	
+j	受益者	受益者	あることによって利益を受ける人。
+j	受精卵	受精卵	zygote; fertilised egg
+j	受精膜	受精膜	受精直後に卵の周りにできる膜。
+j	受継ぐ	受継ぐ	
+j	受託物	受託物	
+j	受託者	受託者	trustee
+j	受話口	受話口	earpiece speaker
+j	受話器	受話器	telephone receiver
+j	受講生	受講生	students who are taking c…
+j	受賞者	受賞者	one who receives a prize
+j	受贈者	受贈者	財産の贈与を受けた者。
+j	受身形	受身形	the passive form or conju…
+j	受難日	受難日	キリストが十字架に架けられたとされる日。聖金曜日。
+j	受難曲	受難曲	passion (song themed arou…
+j	受難者	受難者	
+j	受領書	受領書	
+j	受験期	受験期	入学試験を目前に控えた時期、並びに入学試験の期間中。
+j	受験生	受験生	student who is preparing …
+j	受験者	受験者	
+j	嘗める	嘗める	
+j	塗り絵	塗り絵	輪郭だけが描かれた絵に色を塗っていく遊び。
+j	塗り薬	塗り薬	liniment, ointment, salve
+j	塗布剤	塗布剤	coating agent
+j	塗装工	塗装工	建物に塗装を行う職業。
+j	増える	増える	to increase (in numbers, …
+j	増さる	増さる	increase
+j	増やす	増やす	increase
+j	増一度	増一度	音楽で内包する半音が1である1度音程。
+j	増七度	増七度	音楽で内包する半音が12である七度音程。
+j	増三度	増三度	音楽で内包する半音が5である3度音程。
+j	増上慢	増上慢	実力が伴わないのに自慢すること。自信過剰。
+j	増九度	増九度	音楽で内包する半音が十五である九度音程。オクターヴ…
+j	増二度	増二度	音楽で内包する半音が3である2度音程。
+j	増五度	増五度	音楽で内包する半音が8である5度音程。
+j	増八度	増八度	音楽で内包する半音が十三である八度音程。「オクター…
+j	増六度	増六度	音楽で内包する半音が10である6度音程。
+j	増加分	増加分	
+j	増加量	増加量	
+j	増十度	増十度	音楽で内包する半音が十七である十度音程。オクターヴ…
+j	増四度	増四度	音楽で内包する半音が6である4度音程。三全音。
+j	増幅器	増幅器	amplifier
+j	増幅率	増幅率	利得。
+j	増長天	増長天	Virūḍhaka
+j	字一色	字一色	all honours: a 役満 (yakuma…
+j	字上符	字上符	
+j	字余り	字余り	having greater than expec…
+j	字取り	字取り	the distribution of any p…
+j	字消し	字消し	消しゴム。
+j	字源的	字源的	graphically etymological;…
+j	字送り	字送り	a carriage return (The ac…
+j	宗一郎	宗一郎	a male given name
+j	宗主国	宗主国	suzerain (dominant nation…
+j	宗主國	宗主國	
+j	宗主権	宗主権	suzerainty, the power of …
+j	宗主權	宗主權	
+j	宗太鰹	宗太鰹	「ソウダガツオ」の漢字表記。
+j	宗教学	宗教学	religious studies
+j	宗教家	宗教家	信者。
+j	宗教的	宗教的	宗教に関するさま。
+j	店屋物	店屋物	飲食店で提供される料理。また、それを取り寄せたもの。
+j	店屋者	店屋者	売春をする女性。遊女。
+j	店晒し	店晒し	shopworn goods; old stock
+j	弗化物	弗化物	fluoride
+j	彗美子	彗美子	a female given name
+j	得する	得する	利益を得る。
+j	得ない	得ない	cannot
+j	得意先	得意先	regular customer; patron
+j	得意気	得意気	proud, proudly, boastful,…
+j	得意顔	得意顔	自慢そうな顔つき。
+j	得手公	得手公	「猿」を擬人化した語。猿公。
+j	得点板	得点板	
+j	得票率	得票率	percentage of votes obtai…
+j	得難い	得難い	rare, precious
+j	志向性	志向性	現象学で意識はあるものに常時向けられているという性…
+j	志実子	志実子	a female given name
+j	志恵子	志恵子	a female given name
+j	志摩国	志摩国	日本の旧国（令制国）のひとつ。現在の三重県志摩半島…
+j	志望書	志望書	
+j	志望校	志望校	dream school, school of o…
+j	志津花	志津花	a female given name
+j	志津香	志津香	a female given name
+j	志野焼	志野焼	Shino ware
+j	志願兵	志願兵	volunteer soldier
+j	志願制	志願制	徴兵を行わず、全ての兵士を志願兵で賄う制度。
+j	志願者	志願者	applicant
+j	志鶴花	志鶴花	a female given name
+j	志鶴香	志鶴香	a female given name
+j	抗うつ	抗うつ	
+j	抗する	抗する	to resist; to defy
+j	抗弁権	抗弁権	相手側の請求権の行使に対し、それを一時的に拒否でき…
+j	抗毒素	抗毒素	antitoxin, antivenom
+j	抗生剤	抗生剤	antibiotics
+j	抗癌剤	抗癌剤	癌細胞の増殖を抑える薬剤の総称。
+j	抗神道	抗神道	
+j	抗菌性	抗菌性	a quality that prevents b…
+j	抗菌薬	抗菌薬	antibacterial (antibacter…
+j	抗議者	抗議者	protester
+j	抗鬱剤	抗鬱剤	鬱病などで抑鬱気分、意欲の減退を改善する薬剤。抗鬱…
+j	抗鬱薬	抗鬱薬	「抗鬱剤」を参照。
+j	拗ける	拗ける	to be physically crooked …
+j	拗ねる	拗ねる	to sulk
+j	拗らす	拗らす	make a disease worse, agg…
+j	拗促音	拗促音	拗音と促音。
+j	敗北者	敗北者	競技などで敗北した者。敗者。敗残者。
+j	敗戦国	敗戦国	戦争に負けた国。
+j	敗戦者	敗戦者	loser
+j	敗残者	敗残者	競技などで敗残した者。敗者。敗北者。
+j	敗血症	敗血症	
+j	旗揚げ	旗揚げ	raising an army
+j	旗章学	旗章学	vexillology
+j	旗竿地	旗竿地	（不動産） 路地状の部分で道路と接する宅地のこと。
+j	旗艦店	旗艦店	会社の中で最大の設備・規模を有する中核店舗、あるい…
+j	暗々裏	暗々裏	covert
+j	暗がり	暗がり	darkness
+j	暗号化	暗号化	encryption
+j	暗号名	暗号名	
+j	暗号学	暗号学	
+j	暗号文	暗号文	暗号を使った文。
+j	暗号論	暗号論	cryptography
+j	暗暗裏	暗暗裏	他人の知らないうち。内々。
+j	暗暗裡	暗暗裡	他人の知らないうち。内々。
+j	暗殺者	暗殺者	assassin
+j	暗紫色	暗紫色	
+j	暗赤色	暗赤色	
+j	暗順応	暗順応	明るい場所から暗い場所に入ったときの目の順応。
+j	暗黒街	暗黒街	underworld (part of socie…
+j	暗黒郷	暗黒郷	
+j	暗黒面	暗黒面	the dark, cruel side of a…
+j	暗黙の	暗黙の	
+j	朗らか	朗らか	cheerful, merry
+j	朗読劇	朗読劇	登場人物を演じる俳優などが台本を朗読しながら演じる…
+j	林務官	林務官	
+j	林学者	林学者	林学を研究する科学者。
+j	林檎病	林檎病	fifth disease
+j	林檎酒	林檎酒	apple cider (alcoholic); …
+j	林檎酸	林檎酸	malic acid
+j	林檎飴	林檎飴	candy apple
+j	林邑楽	林邑楽	rinyu-gaku, bugaku music …
+j	林野庁	林野庁	国有林事業を行う官庁。
+j	栗名月	栗名月	陰暦九月十三夜の月。
+j	栗色の	栗色の	
+j	栗金団	栗金団	A confection made from bo…
+j	栗金飩	栗金飩	
+j	棗椰子	棗椰子	the date palm, Phoenix da…
+j	樗蒲一	樗蒲一	中国から伝わったさいころ一個をつかったばくち。
+j	気がね	気がね	「気兼ね」の異表記。
+j	気さく	気さく	friendly, unassuming, ope…
+j	気づく	気づく	
+j	気の毒	気の毒	pitiful, unfortunate, sor…
+j	気まま	気まま	
+j	気乗り	気乗り	willingness
+j	気付く	気付く	to become aware, to notice
+j	気休め	気休め	temporary comfort; tempor…
+j	気体の	気体の	
+j	気候値	気候値	気候を表す統計の数値。平年値など。
+j	気候学	気候学	climatology
+j	気候帯	気候帯	地球を気候を元に大まかに区分したもの。熱帯、乾燥帯…
+j	気兼ね	気兼ね	constraint; reserve; feel…
+j	気分屋	気分屋	moody person
+j	気分的	気分的	その時に応じて変えるさま。
+j	気動車	気動車	a self-powered (e.g. by s…
+j	気化熱	気化熱	液体が気化する際に周囲から奪う熱。
+j	気取り	気取り	affectation, pretension, …
+j	気取る	気取る	to be affected
+j	気圧波	気圧波	空振によって気圧の違いが生じる波。
+j	気圧計	気圧計	barometer
+j	気密の	気密の	
+j	気張る	気張る	
+j	気後れ	気後れ	diffidence, losing one's …
+j	気抜け	気抜け	それまでの緊張が解けたり、心が抜けてしまったりして…
+j	気持ち	気持ち	a feeling, sensation, fee…
+j	気構え	気構え	kanji radical 84, 气
+j	気温計	気温計	気温を測定するための温度計。
+j	気狂い	気狂い	気違いの別形。
+j	気疲れ	気疲れ	mental fatigue
+j	気立て	気立て	personality, temperament
+j	気管支	気管支	気管が二本に分岐する所から肺までの管。
+j	気紛れ	気紛れ	capricious, fickle, flakey
+j	気苦労	気苦労	気遣いや気配りで精神的に疲れること。
+j	気触れ	気触れ	a rash
+j	気象台	気象台	meteorological observatory
+j	気象学	気象学	meteorology
+j	気象庁	気象庁	Japanese Meteorological A…
+j	気象潮	気象潮	気象現象による潮位の変動。
+j	気象病	気象病	meteoropathy
+j	気負う	気負う	get worked up, try (too) …
+j	気軽な	気軽な	
+j	気違い	気違い	madman, lunatic
+j	気遣い	気遣い	consideration, thoughtful…
+j	気遣う	気遣う	to feel apprehensive abou…
+j	気配り	気配り	あれこれと気をつかうこと。配慮すること。
+j	気障り	気障り	気持ちに差し障りが生じる。
+j	気高い	気高い	noble, sublime
+j	気鬱症	気鬱症	depression
+j	汗ばむ	汗ばむ	to be sweaty
+j	汗塗れ	汗塗れ	drenched in sweat
+j	汗臭い	汗臭い	stinking of sweat
+j	洗口液	洗口液	mouthwash
+j	洗浄剤	洗浄剤	detergent, cleanser
+j	洗浄器	洗浄器	
+j	洗濯女	洗濯女	
+j	洗濯屋	洗濯屋	laundry, a business that …
+j	洗濯所	洗濯所	laundry (business); laund…
+j	洗濯板	洗濯板	a washboard for scrubbing…
+j	洗濯機	洗濯機	washing machine
+j	洗濯物	洗濯物	洗濯した物。
+j	洗礼名	洗礼名	洗礼を受ける際に授けられる名前。
+j	洗礼堂	洗礼堂	
+j	洗礼盤	洗礼盤	
+j	洗車場	洗車場	car wash (place at which …
+j	洗面台	洗面台	a washbasin
+j	洗面器	洗面器	washbasin, sink
+j	洗面所	洗面所	washroom (room for washin…
+j	燗する	燗する	〔酒を〕飲む前に適度に温める。
+j	狗奴国	狗奴国	an ancient Japanese state…
+j	狗尾草	狗尾草	Grass of species Setaria …
+j	盗り鉄	盗り鉄	収集または転売する目的で、鉄道関連設備の備品を盗む…
+j	盗人猫	盗人猫	他の家の食べ物を盗む猫。泥棒猫。
+j	盗掘者	盗掘者	盗掘を行う者。
+j	盗聴器	盗聴器	bug (an electronic listen…
+j	稗粒種	稗粒種	milium
+j	稗粒腫	稗粒腫	
+j	算する	算する	計算する。数える。
+j	粗ちん	粗ちん	small, pathetic dick
+j	粗利益	粗利益	
+j	粗大塵	粗大塵	冷蔵庫、洗濯機などの家電製品、箪笥、ソファー、テー…
+j	粗悪品	粗悪品	品質が粗悪で役に立たない物。
+j	粗挽き	粗挽き	a coarse grind; something…
+j	粗末な	粗末な	
+j	粗目糖	粗目糖	granulated sugar
+j	粗粒砂	粗粒砂	直径が2分の1ミリメートル以上1ミリメートル未満の…
+j	粗製品	粗製品	作りが粗雑または品質が悪い製品。
+j	紗也香	紗也香	a female given name
+j	紗南子	紗南子	a female given name
+j	紗友里	紗友里	a female given name
+j	紗奈子	紗奈子	a female given name
+j	紗弥子	紗弥子	a female given name
+j	紗菜子	紗菜子	a female given name
+j	紗那子	紗那子	a female given name
+j	苗代苺	苗代苺	Australian raspberry, Rub…
+j	著しい	著しい	significant, remarkable (…
+j	著しく	著しく	
+j	著作家	著作家	文を著すことを職業とする人。
+j	著作権	著作権	copyright
+j	著作物	著作物	著作された書物。
+j	著作者	著作者	著作物を作る人。
+j	著名な	著名な	
+j	著名人	著名人	well-known person
+j	著述家	著述家	文章を著述することを業とする者。
+j	著述業	著述業	著述することで恒常的に収入を得る業。
+j	街中華	街中華	日本において、中華料理を日本人向けにアレンジし、大…
+j	街宣車	街宣車	a propaganda truck, a mot…
+j	街路樹	街路樹	roadside tree
+j	街路灯	街路灯	street light, street lamp
+j	覗き穴	覗き穴	peephole (hole in a door …
+j	覗き魔	覗き魔	
+j	託ける	託ける	use as an excuse, use som…
+j	託する	託する	to entrust (someone) with
+j	託児所	託児所	daycare
+j	鎗術家	鎗術家	鎗術を行う武術家またはそれで生業としている者、修得…
+j	饗する	饗する	（「誰かを饗する」「何かを饗する」または「誰かに何…
+j	鱗片葉	鱗片葉	芽鱗、鱗葉のように鱗状に重なる葉。
+j	鱗珪石	鱗珪石	tridymite
+j	鱗甲目	鱗甲目	《分類学》 センザンコウ目の、かつての標準和名、現…
+j	鱗甲類	鱗甲類	鱗甲目に属する哺乳類の総称。
+j	鱗石英	鱗石英	tridymite
+j	鱗翅目	鱗翅目	《分類学》 チョウ目、ガ目の、かつての標準和名、現…
+j	鱗翅類	鱗翅類	鱗翅目に属する昆虫の総称。
+j	鱗鉄鉱	鱗鉄鉱	lepidocrocite
+j	麗しい	麗しい	beautiful
+j	麗実名	麗実名	a female given name
+k	가로등	街路灯	streetlamp, streetlight
+k	가로등	街路燈	streetlamp, streetlight
+k	가로수	街路樹	roadside tree; street tree
+k	가판대	街販台	kiosk, stand
+k	가판대	街販臺	kiosk, stand
+k	기도학	気道学	
+k	기상학	気象学	meteorology
+k	기식성	気息性	
+k	기압계	気圧計	대기의 압력을 측정하는 측기.
+k	기후학	気候学	climatology
+k	남가주	南加州	
+k	남과인	南瓜仁	
+k	남극권	南極圈	
+k	남극권	南極圏	
+k	남극점	南極点	
+k	남극점	南極點	
+k	남극해	南極海	the South Polar Ocean; th…
+k	남남동	南南東	
+k	남남서	南南西	
+k	남대양	南大洋	
+k	남로당	南労党	
+k	남로당	南勞黨	
+k	남미동	南微東	
+k	남미서	南微西	
+k	남반구	南半球	Southern Hemisphere (the …
+k	남빙양	南氷洋	synonym of 남극해 (Namgeukha…
+k	남서부	南西部	southwest (of ...)
+k	남아공	南阿共	남아프리카공화국의 두음어.
+k	남양주	南楊州	Namyangju (a city in Gyeo…
+k	남조선	南朝鮮	South Korea (a country in…
+k	도청기	盗聴機	bug (an electronic listen…
+k	득점판	得点板	scoreboard
+k	득점판	得點板	scoreboard
+k	득표차	得票差	
+k	라디오 수신기	受信機	
+k	발효소	醗酵素	
+k	북가주	北加州	
+k	북극성	北極星	
+k	북극점	北極点	
+k	북극점	北極點	
+k	북극해	北極海	the Arctic Ocean
+k	북두성	北斗星	
+k	북미동	北微東	
+k	북미서	北微西	
+k	북반구	北半球	Northern Hemisphere (the …
+k	북방어	北方語	
+k	북북동	北北東	
+k	북북서	北北西	
+k	북빙양	北氷洋	synonym of 북극해 (Bukgeukha…
+k	북조선	北朝鮮	North Korea (a country in…
+k	북한어	北韓語	North Korean standard lan…
+k	북해도	北海道	Hokkaido (a prefecture, a…
+k	사모뿔	紗帽뿔	"horns" of a samo
+k	세면기	洗面器	washbasin, sink
+k	세면대	洗面台	
+k	세면대	洗面臺	
+k	세탁기	洗濯機	washing machine
+k	세탁소	洗濯所	laundry; dry cleaner
+k	세탁실	洗濯室	laundry room
+k	세탁제	洗濯剤	detergent, cleanser
+k	세탁제	洗濯劑	detergent, cleanser
+k	수동태	受動態	passive voice
+k	수상기	受像機	
+k	수상자	受賞者	winner
+k	수신기	受信機	receiver
+k	수신인	受信人	addressee, receiver
+k	수정란	受精卵	zygote; fertilised egg
+k	수취인	受取人	addressee, receiver
+k	수탁물	受託物	
+k	수탁인	受託人	
+k	수탁자	受託者	
+k	수험생	受験生	
+k	수험생	受驗生	
+k	수화기	受話器	telephone receiver
+k	승무원	乗務員	crewman, crew member, fli…
+k	승용차	乗用車	a (passenger) car, sedan
+k	승차권	乗車券	ticket
+k	승차장	乗車場	stand, platform, station,…
+k	승합차	乗合車	van, full-size van, 15-pa…
+k	암살자	暗殺者	assassin
+k	암순응	暗順応	dark adaptation; adaptati…
+k	암순응	暗順應	dark adaptation; adaptati…
+k	암시장	暗市場	black market
+k	암표상	暗票商	ticket scalper
+k	암호학	暗号学	
+k	암호학	暗號學	
+k	암호화	暗号化	
+k	암호화	暗號化	
+k	암흑가	暗黑街	underworld
+k	암흑가	暗黒街	underworld
+k	암흑기	暗黑期	
+k	암흑기	暗黒期	
+k	열거형	列挙型	
+k	열거형	列擧型	
+k	임관층	林冠層	forest canopy
+k	저작권	著作権	copyright
+k	저작권	著作權	copyright
+k	종교적	宗敎的	religiosity, religiousnes…
+k	종주국	宗主国	suzerain
+k	종주국	宗主國	suzerain
+k	종주권	宗主権	
+k	종주권	宗主權	
+k	증가량	増加量	
+k	증폭기	増幅器	
+k	지원군	志願軍	auxiliary troops
+k	지원병	志願兵	volunteer soldier
+k	지원서	志願書	application
+k	지원자	志願者	supporter
+k	탁아소	託児所	daycare; nursery
+k	탁아소	託兒所	daycare; nursery
+k	패배자	敗北者	defeated person; loser
+k	패혈증	敗血症	
+k	항독소	抗毒素	antitoxin
+k	항생제	抗生剤	antibiotic
+k	항생제	抗生劑	antibiotic
+k	항암제	抗癌剤	anticancer drug
+k	항암제	抗癌劑	anticancer drug
+j	乗っ切る	乗っ切る	to overcome
+j	乗っ取り	乗っ取り	
+j	乗っ取る	乗っ取る	to take possession of (by…
+j	乗り出す	乗り出す	to lean over, lean forward
+j	乗り切る	乗り切る	to weather (e.g. a storm,…
+j	乗り換え	乗り換え	transfer, change
+j	乗り越す	乗り越す	to ride past, ride beyond…
+j	乗り込む	乗り込む	to get in (a vehicle); to…
+j	乗り逃げ	乗り逃げ	accepting a ride and then…
+j	乗船する	乗船する	
+j	乗降人員	乗降人員	
+j	乗馬猟兵	乗馬猟兵	ドイツやスペインなどの国で使われていた軽騎兵の一種…
+j	兗州巻柏	兗州巻柏	片檜葉の漢名。
+j	列挙する	列挙する	
+j	列氏温度	列氏温度	synonym of レオミュール度 (Reomy…
+j	列王記上	列王記上	
+j	列王記下	列王記下	
+j	列聖する	列聖する	
+j	列記する	列記する	
+j	列車交換	列車交換	単線の区間に設けられた停車場で、上り列車と下り列車…
+j	北アジア	北アジア	アジアの一部であり、ユーラシア大陸北部の地域。ロシ…
+j	北インド	北インド	
+j	北ダコタ	北ダコタ	
+j	北九州市	北九州市	福岡県の北東部にある都市。
+j	北京原人	北京原人	原人に属する化石人類。中華人民共和国北京房山県周口…
+j	北京官話	北京官話	Mandarin (literally: Beij…
+j	北京政府	北京政府	1913年から1928年まで北京に存在した中華民国…
+j	北伝仏教	北伝仏教	インドから北方のルートを経て伝播した仏教の総称。狭…
+j	北倶盧洲	北倶盧洲	須弥山の四大洲の一つ。北方にあり他の三洲より優れ、…
+j	北回帰線	北回帰線	the Tropic of Cancer
+j	北大西洋	北大西洋	North Atlantic
+j	北太平洋	北太平洋	太平洋のうち北半球に位置する部分。
+j	北山文化	北山文化	室町時代前期に京都の北山で興った豪華な文化。
+j	北斗七星	北斗七星	the Big Dipper, the Plough
+j	北方航路	北方航路	
+j	北方領土	北方領土	the Northern Territories,…
+j	北朝鮮の	北朝鮮の	
+j	北朝鮮人	北朝鮮人	
+j	北条時宗	北条時宗	鎌倉時代後期（1251年（建長3年）5月15日 ‐…
+j	北東微北	北東微北	北東と北北東との中間の方位。三十二方位の一つ。
+j	北東微東	北東微東	北東と東北東との中間の方位。三十二方位の一つ。
+j	北柳虫食	北柳虫食	
+j	北欧古詩	北欧古詩	
+j	北欧神話	北欧神話	北ヨーロッパに伝わる神話。
+j	北欧諸国	北欧諸国	Nordic countries (a regio…
+j	北洋軍閥	北洋軍閥	Beiyang Army
+j	北海道犬	北海道犬	日本犬の犬種の一つで北海道原産の中型犬。日本の天然…
+j	北西微北	北西微北	北西と北北西との中間の方位。三十二方位の一つ。
+j	北西微西	北西微西	北西と西北西との中間の方位。三十二方位の一つ。
+j	北象海豹	北象海豹	a northern elephant seal
+j	北陸地方	北陸地方	中部地方の一部を含む日本海側にあり、行政区分として…
+j	南の冠座	南の冠座	
+j	南アジア	南アジア	South Asia (a geographic …
+j	南インド	南インド	
+j	南シナ海	南シナ海	the South China Sea
+j	南ダコタ	南ダコタ	
+j	南チロル	南チロル	
+j	南三角座	南三角座	みなみのさんかく座。
+j	南中国海	南中国海	
+j	南京条約	南京条約	アヘン戦争を終結させるため、清とイギリスの間で結ば…
+j	南伝仏教	南伝仏教	インドから南方のルートを経て伝播した仏教の総称。
+j	南北戦争	南北戦争	American Civil War (civil…
+j	南北戰爭	南北戰爭	
+j	南十字座	南十字座	みなみじゅうじ座。
+j	南十字星	南十字星	the Southern Cross
+j	南回帰線	南回帰線	the Tropic of Capricorn
+j	南大西洋	南大西洋	大西洋のうち南半球に位置する部分。
+j	南太平洋	南太平洋	太平洋のうち南半球に位置する部分。
+j	南島語族	南島語族	synonym of オーストロネシア語族
+j	南愛名中	南愛名中	愛知の名門私立大学: 南山大学（南）、愛知大学（愛…
+j	南支那海	南支那海	
+j	南斗六星	南斗六星	いて座にある柄杓のように並ぶ六つの星。
+j	南方振動	南方振動	the Southern Oscillation
+j	南東微南	南東微南	南東と南南東との中間の方位。三十二方位の一つ。
+j	南東微東	南東微東	南東と東南東との中間の方位。三十二方位の一つ。
+j	南極半島	南極半島	
+j	南極大陸	南極大陸	Antarctica (the southernm…
+j	南極投票	南極投票	不在者投票の一種で投票日に南極の観測基地またはその…
+j	南極老人	南極老人	カノープス。南極老人星。
+j	南沙群島	南沙群島	synonym of 南沙諸島 (Nansa Sh…
+j	南沙諸島	南沙諸島	the Spratly Islands
+j	南洋群島	南洋群島	日本が第一次世界大戦後に委任統治した北太平洋の群島…
+j	南無三宝	南無三宝	三宝（仏、法、僧）に帰依する意。
+j	南船北馬	南船北馬	船を使い、馬を使って北へ南へと動き回るように、あち…
+j	南蛮漬け	南蛮漬け	a Japanese dish similar t…
+j	南蛮烏瓜	南蛮烏瓜	gac
+j	南蛮煙管	南蛮煙管	Aeginetia indica: Indian …
+j	南蛮繁縷	南蛮繁縷	Silene baccifera, a speci…
+j	南蛮菓子	南蛮菓子	室町時代以降、西洋（南蛮）から日本へ伝来した金平糖…
+j	南蛮辛子	南蛮辛子	「唐辛子」の別名。
+j	南西微南	南西微南	南西と南南西との中間の方位。三十二方位の一つ。
+j	南西微西	南西微西	南西と西南西との中間の方位。三十二方位の一つ。
+j	南西諸島	南西諸島	九州の南方から台湾の北東にかけて、約1200キロメ…
+j	南象海豹	南象海豹	a southern elephant seal
+j	南進政策	南進政策	Nanshin-ron, Imperial Jap…
+j	南都六宗	南都六宗	奈良時代、南都を中心とした仏教の宗派。法相宗、三論…
+j	南高北低	南高北低	主に夏季に、日本の北側に低気圧、南側に高気圧が来る…
+j	受け入れ	受け入れ	
+j	受け取り	受け取り	receipt, the acceptance o…
+j	受け取る	受け取る	to receive
+j	受け持ち	受け持ち	
+j	受け持つ	受け持つ	take charge of, be in cha…
+j	受け流す	受け流す	
+j	受け継ぐ	受け継ぐ	to inherit, to succeed
+j	受動分詞	受動分詞	
+j	受動喫煙	受動喫煙	passive smoking
+j	受取手形	受取手形	売上の際に受け取った手形のこと。また、その手形の債…
+j	受理する	受理する	
+j	受胎告知	受胎告知	新約聖書でマリアがイエスを懐胎したことを天使から告…
+j	受験勉強	受験勉強	受験するための勉強。
+j	受験戦争	受験戦争	高学歴を求め進学競争が激化した状態を戦争にたとえた…
+j	嘗てない	嘗てない	unprecedented
+j	増し刷り	増し刷り	
+j	増やせる	増やせる	
+j	増加する	増加する	
+j	増十一度	増十一度	音楽で内包する半音が十八である十一度音程。オクター…
+j	増十三度	増十三度	音楽で内包する半音が22である13度音程。オクター…
+j	増十二度	増十二度	音楽で内包する半音が20である12度音程。オクター…
+j	増十五度	増十五度	音楽で内包する半音が25である15度音程。オクター…
+j	増十四度	増十四度	音楽で内包する半音が二十四である十四度音程。オクタ…
+j	増大する	増大する	
+j	増強する	増強する	
+j	増悪犯罪	増悪犯罪	「ヘイトクライム」を参照。
+j	嫗伏孕鬻	嫗伏孕鬻	(四字熟語)鳥や獣が子を産んで育てること。
+j	字句解析	字句解析	
+j	字訳する	字訳する	
+j	字足らず	字足らず	短歌、俳句などで五音の句が四音以下、七音の句が六音…
+j	宗教団体	宗教団体	a denomination
+j	宗教法人	宗教法人	法人として認められた寺社などの宗教施設。
+j	宗谷海峡	宗谷海峡	北海道と樺太の間にある海峡。
+j	店仕舞い	店仕舞い	closing up shop (for the …
+j	得られる	得られる	
+j	得意がる	得意がる	自慢する、誇らしげに振る舞う。
+j	志望動機	志望動機	reasons for one's applica…
+j	志願して	志願して	
+j	志願する	志願する	
+j	抗うつ剤	抗うつ剤	antidepressant
+j	抗うつ薬	抗うつ薬	antidepressant
+j	抗えない	抗えない	
+j	抗不安薬	抗不安薬	
+j	抗生物質	抗生物質	antibiotics
+j	抗議する	抗議する	
+j	抗議運動	抗議運動	protests
+j	搗ち割り	搗ち割り	crushed bite-size ice
+j	搗ち合う	搗ち合う	conflict with
+j	敗北する	敗北する	
+j	敗北主義	敗北主義	
+j	旗幟鮮明	旗幟鮮明	making one's position cle…
+j	暗くする	暗くする	
+j	暗中模索	暗中模索	groping in the dark, inve…
+j	暗中飛躍	暗中飛躍	裏にまわって策をめぐらし、密かに行動すること。「暗…
+j	暗号放送	暗号放送	
+j	暗号資産	暗号資産	cryptoasset
+j	暗号通貨	暗号通貨	cryptocurrency
+j	暗唱する	暗唱する	
+j	暗殺する	暗殺する	
+j	暗箭傷人	暗箭傷人	to backstab; to underhand…
+j	暗紫色の	暗紫色の	
+j	暗記して	暗記して	
+j	暗記する	暗記する	
+j	暗記学習	暗記学習	
+j	暗証番号	暗証番号	PIN number, PIN
+j	暗赤色の	暗赤色の	
+j	暗送秋波	暗送秋波	to give someone the eye; …
+j	暗雲低迷	暗雲低迷	良くない事が起こりそうな気配がすること。黒雲が低く…
+j	暗黒大陸	暗黒大陸	Dark Continent
+j	暗黒星雲	暗黒星雲	a type of interstellar cl…
+j	暗黒時代	暗黒時代	a historical period where…
+j	暗黒物質	暗黒物質	dark matter
+j	林業機械	林業機械	林業で使用される機械の総称。
+j	林檎の木	林檎の木	
+j	林檎の花	林檎の花	
+j	林檎酸塩	林檎酸塩	malate
+j	林蘿秘邃	林蘿秘邃	林の中に女蘿が茂って密かに奥深い
+j	林野火災	林野火災	山林、原野の草木が火災によりある程度の範囲が焼失す…
+j	林間学校	林間学校	山で児童に自然を体験させるために行われる行事。
+j	気がある	気がある	to have an interest in so…
+j	気がする	気がする	to give off the sense tha…
+j	気が乗る	気が乗る	関心を持ち意欲的になる。多く否定文で用いる。
+j	気が利く	気が利く	細かい所まで注意が行き届く。
+j	気が合う	気が合う	to get along (with someon…
+j	気が向く	気が向く	to feel inclined to do so…
+j	気が回る	気が回る	to pay attention to detai…
+j	気が多い	気が多い	
+j	気が弱い	気が弱い	
+j	気が散る	気が散る	to be distracted
+j	気が早い	気が早い	せっかちである。
+j	気が狂う	気が狂う	to go crazy, to go mad
+j	気が緩む	気が緩む	feel relaxed
+j	気が若い	気が若い	
+j	気が違う	気が違う	to go mad, to become insa…
+j	気が重い	気が重い	not in the mood to do thi…
+j	気が長い	気が長い	
+j	気さくに	気さくに	
+j	気だるい	気だるい	
+j	気にする	気にする	to care about something, …
+j	気になる	気になる	to cause concern, to be w…
+j	気に入り	気に入り	「気に入る」の連用形。
+j	気に入る	気に入る	to like, to be fond of, t…
+j	気に病む	気に病む	to worry, to fret
+j	気に障る	気に障る	causing unhappy feelings
+j	気のせい	気のせい	sensing something that is…
+j	気の弱い	気の弱い	
+j	気まぐれ	気まぐれ	
+j	気まずい	気まずい	embarrassing (atmosphere)
+j	気をつけ	気をつけ	直立不動の姿勢を取らせる号令。
+j	気を付け	気を付け	attention
+j	気を失う	気を失う	やる気を失う。意気沮喪する。
+j	気を引く	気を引く	それとなく相手の心を探る。
+j	気を抜く	気を抜く	to relax one's attention;…
+j	気を揉む	気を揉む	いろいろ心配する。やきもきする。
+j	気を許す	気を許す	警戒心や緊張を緩める。
+j	気を遣う	気を遣う	あれこれと配慮する。
+j	気を配る	気を配る	様々に注意を払う。
+j	気候危機	気候危機	地球温暖化の影響で発生する可能性がある、生態系の破…
+j	気候変動	気候変動	climate change
+j	気候学者	気候学者	気候学を研究する科学者。
+j	気候悪戯	気候悪戯	
+j	気候感度	気候感度	何らかの因子が気候に及ぼす影響の程度。
+j	気分転換	気分転換	
+j	気分障害	気分障害	精神疾患の一群であり、ある程度の期間にわたって持続…
+j	気化する	気化する	
+j	気味悪い	気味悪い	
+j	気圧の谷	気圧の谷	低圧部から高圧部に向かい張り出した部分。
+j	気圧配置	気圧配置	天気図上での高気圧や低気圧、前線などの配置。
+j	気忙しい	気忙しい	忙しく心が落ち着かない。
+j	気息奄奄	気息奄奄	息が絶え絶えで今にも死にそうなさま。
+j	気掛かり	気掛かり	気に掛かること。心配なこと。懸念すること。
+j	気管支炎	気管支炎	bronchitis
+j	気紛れな	気紛れな	
+j	気絶する	気絶する	
+j	気色ばむ	気色ばむ	荒立った心情を顕にする。（文語表現）怒る。
+j	気触れる	気触れる	to break out in a rash
+j	気象兵器	気象兵器	気象現象を人工的に起こし、敵に損害を与えるための兵…
+j	気象学者	気象学者	気象学を研究する科学者。
+j	気象官署	気象官署	
+j	気象情報	気象情報	予想される未来の気象の状況に基づいて発表される情報。
+j	気象津波	気象津波	高潮のこと。
+j	気象災害	気象災害	大雨、強風、雷などの気象現象によって生じる様々な災…
+j	気象衛星	気象衛星	a weather satellite
+j	気象観測	気象観測	気象の状態や現象を知るため、気温、気圧、風向き、風…
+j	気象警報	気象警報	大雨、大雪、暴風などによる重大な災害が予想される際…
+j	気象通報	気象通報	観測された気象に関する情報を特定の機関または広く一…
+j	気道確保	気道確保	自発的な呼吸の停止や、気道の狭窄や閉塞がある場合、…
+j	気違い水	気違い水	「酒」のこと。
+j	気違い雨	気違い雨	一旦晴れたと思うと、急にまた雨が降ること。
+j	気難しい	気難しい	difficult, hard to please…
+j	気鳴楽器	気鳴楽器	笛やオルガンなど、空気を音源とする楽器。鞭や刀も含…
+j	汗だくの	汗だくの	
+j	汗をかく	汗をかく	to sweat
+j	汗牛充棟	汗牛充棟	蔵書が非常に多いこと。
+j	洗い出し	洗い出し	washout
+j	洗い浚い	洗い浚い	everything, leaving out n…
+j	洗い越し	洗い越し	
+j	洗濯する	洗濯する	
+j	洗濯挟み	洗濯挟み	洗濯した物を干すときに、落ちないように挟んで留める…
+j	洗濯洗剤	洗濯洗剤	
+j	洗濯石鹸	洗濯石鹸	
+j	洗練する	洗練する	
+j	洗脳する	洗脳する	
+j	洗面する	洗面する	
+j	盗まれた	盗まれた	
+j	盗み寄生	盗み寄生	
+j	盗み聞き	盗み聞き	eavesdropping
+j	盗人上戸	盗人上戸	甘味も酒も好む人。また、大酒しても酔いの回らない人。
+j	盗塁する	盗塁する	
+j	盗賊の鍵	盗賊の鍵	
+j	盗難防止	盗難防止	
+j	祗管打坐	祗管打坐	只管打坐の別形。
+j	算出する	算出する	
+j	算定する	算定する	
+j	算用数字	算用数字	Hindu-Arabic numeral
+j	算盤高い	算盤高い	calculating, miserly, sti…
+j	算術平均	算術平均	arithmetic mean
+j	算術数列	算術数列	
+j	算術演算	算術演算	arithmetic operation
+j	算術級数	算術級数	等差数列のそれぞれの項を順次加算した形の級数。等差…
+j	粗大ごみ	粗大ごみ	bulky waste
+j	粗衣粗食	粗衣粗食	粗衣と粗食。粗末な衣服と粗末な食事。質素な生活の譬…
+j	粗製乱造	粗製乱造	粗製濫造を参照。
+j	粗製濫造	粗製濫造	品質が良くないものを数多く作ること。
+j	舗装する	舗装する	
+j	著作権法	著作権法	著作権、著作隣接権、および著作物に関わるその他の事…
+j	著作権者	著作権者	ある著作物の著作権を有する人または法人等の組織。著…
+j	著作物性	著作物性	ある創作物が著作権法によって保護される著作物に該当…
+j	蕗蒲公英	蕗蒲公英	
+j	街の天使	街の天使	売春婦。特に街娼。
+j	街明かり	街明かり	the lights of a distant t…
+j	街談巷説	街談巷説	ちまたのうわさ。
+j	街頭演説	街頭演説	街頭で通行人を対象に自分の主義主張を演説すること。
+j	轗軻数奇	轗軻数奇	人の不運な様子。
+j	鉗子分娩	鉗子分娩	補助経腟分娩の方法の一つ。
+j	鱗を除く	鱗を除く	
+j	鱗次櫛比	鱗次櫛比	魚の鱗や櫛の歯のように多くのものが整然と並ぶこと。…
+j	麗々しい	麗々しい	
+j	麗麗しい	麗麗しい	ことさらに目立たせるせるように派手にする。
+k	가두녀성	街頭女性	homemaker
+k	기관지염	気管支炎	bronchitis
+k	기미상궁	気味尚宮	a royal court woman respo…
+k	기상학자	気象学者	meteorologist
+k	기후 변화	気候変化	climate change
+k	남극대륙	南極大陸	Antarctica (the southernm…
+k	남남북녀	南男北女	in dynastic Korea, the no…
+k	남대서양	南大西洋	
+k	남동미남	南東微南	
+k	남동미동	南東微東	
+k	남북문제	南北問題	an inter-Korean issue, a …
+k	남북전쟁	南北戦争	the Korean War, Korean ci…
+k	남북전쟁	南北戰爭	the Korean War, Korean ci…
+k	남서미남	南西微南	
+k	남서미서	南西微西	
+k	남십자성	南十字星	
+k	남오미자	南五味子	The kadsura (Kadsura japo…
+k	남중국해	南中国海	South China Sea (a sea in…
+k	남중국해	南中國海	South China Sea (a sea in…
+k	남회귀선	南回帰線	
+k	남회귀선	南回歸線	
+k	도청장치	盗聴装置	
+k	득의양양	得意揚揚	being smug, being puffed …
+k	북대서양	北大西洋	
+k	북동미동	北東微東	
+k	북동미북	北東微北	
+k	북두칠성	北斗七星	the Big Dipper, the Plough
+k	북서미북	北西微北	
+k	북서미서	北西微西	
+k	북서항로	北西航路	
+k	불화수소	弗化水素	hydrogen fluoride
+k	세탁 세제	洗濯洗剤	
+k	세탁 세제	洗濯洗劑	
+k	수동분사	受動分詞	
+k	수지하다	受持하다	to uphold principles, val…
+k	암호화폐	暗号貨幣	cryptocurrency
+k	암호화폐	暗號貨幣	cryptocurrency
+k	암흑시대	暗黑時代	
+k	암흑시대	暗黒時代	
+k	여순 사건	麗順事件	
+k	임연수어	林延壽魚	Arabesque greenling (Pleu…
+k	임연수어	林延寿魚	Arabesque greenling (Pleu…
+k	종교 개혁	宗教改革	
+k	증강 현실	増强現実	
+k	증력 장치	増力装置	
+k	패전하다	敗戦하다	to lose, to be defeated (…
+k	패전하다	敗戰하다	to lose, to be defeated (…
+k	항산화제	抗酸化剤	
+k	항산화제	抗酸化劑	
+k	항생물질	抗生物質	antibiotic
+k	항우울제	抗憂鬱剤	
+k	항우울제	抗憂鬱劑	
+j	乗せること	乗せること	
+j	乗りこなす	乗りこなす	to manage skillfully, to …
+j	乗り上げる	乗り上げる	run aground
+j	乗り入れる	乗り入れる	to drive or ride into
+j	乗り換える	乗り換える	transfer, change (e.g., a…
+j	乗り物酔い	乗り物酔い	motion sickness
+j	乗り越える	乗り越える	to climb over
+j	乗り遅れる	乗り遅れる	
+j	乗り過ごす	乗り過ごす	to miss one's stop (ridin…
+j	乗合自動車	乗合自動車	bus; omnibus
+j	乗用自動車	乗用自動車	人が乗るための自動車。乗用車。
+j	俗ラテン語	俗ラテン語	Vulgar Latin
+j	冗談を言う	冗談を言う	
+j	列ベクトル	列ベクトル	column vector
+j	列基本変形	列基本変形	行列の列に対して行う基本変形。基本行列を左から掛け…
+j	北アフリカ	北アフリカ	North Africa (a geographi…
+j	北アメリカ	北アメリカ	North America (the contin…
+j	北アルプス	北アルプス	synonym of 飛驒山脈 (Hida San…
+j	北イエメン	北イエメン	イエメン・アラブ共和国の通称。
+j	北オセチア	北オセチア	ロシア連邦を構成する共和国の一つ。首都はウラジカフ…
+j	北オランダ	北オランダ	
+j	北キプロス	北キプロス	Northern Cyprus (a geogra…
+j	北ベトナム	北ベトナム	North Vietnam (a former c…
+j	北ホラント	北ホラント	
+j	北亜米利加	北亜米利加	北アメリカを参照。
+j	北京ダック	北京ダック	Peking duck
+j	北信越地方	北信越地方	信越地方と北陸地方を足した地域区分。
+j	北方化する	北方化する	
+j	北東アジア	北東アジア	東アジアを東南アジアと明確に区別して呼ぶ名称。
+j	北極海航路	北極海航路	北極海を通りアジア、北アメリカ、ヨーロッパを結ぶ航…
+j	北琉球語群	北琉球語群	琉球語派の一つ。話者は沖縄県北部地域に多い。
+j	北米合衆国	北米合衆国	United States of America
+j	南アジア人	南アジア人	
+j	南アフリカ	南アフリカ	South Africa (a country i…
+j	南アメリカ	南アメリカ	South America (the contin…
+j	南アルプス	南アルプス	Minami-Alps (a city in Ya…
+j	南イエメン	南イエメン	イエメン人民民主共和国の通称。
+j	南オセチア	南オセチア	コーカサス山脈南麓のツヒンヴァリ地域を実効支配して…
+j	南オランダ	南オランダ	
+j	南コタバト	南コタバト	
+j	南コルシカ	南コルシカ	
+j	南スラブ人	南スラブ人	「南スラヴ人」の表記揺れ。
+j	南スラヴ人	南スラヴ人	スラヴ人のうち南側に暮らす人々。スロベニア人、セル…
+j	南スーダン	南スーダン	South Sudan (a country in…
+j	南ブーフ川	南ブーフ川	
+j	南ベトナム	南ベトナム	South Vietnam (a former s…
+j	南ホラント	南ホラント	
+j	南北朝時代	南北朝時代	日本で朝廷が北朝と南朝に分裂してから再び統一される…
+j	南岸低気圧	南岸低気圧	晩冬から初春にかけて本州の南の海上を通過し、太平洋…
+j	南方化する	南方化する	
+j	南極老人星	南極老人星	カノープスのこと。日本の本土では南の空低くにしか昇…
+j	南海トラフ	南海トラフ	静岡県から宮崎県にかけての太平洋沖合にあるトラフ。
+j	南琉球語群	南琉球語群	琉球語派の一つ。話者は沖縄県南部地域に多い。
+j	受けのよい	受けのよい	
+j	受け付ける	受け付ける	receive, accept
+j	受け入れる	受け入れる	accept (a proposal or an …
+j	受け止める	受け止める	catch or stop a moving ob…
+j	受信トレイ	受信トレイ	inbox
+j	受精可能な	受精可能な	
+j	受胎可能な	受胎可能な	
+j	塗り付ける	塗り付ける	
+j	増やせない	増やせない	
+j	増税メガネ	増税メガネ	Fumio Kishida, Prime Mini…
+j	増進させる	増進させる	
+j	字音仮名遣	字音仮名遣	
+j	得られない	得られない	
+j	得心が行く	得心が行く	十分に納得して気持ちが落ち着くこと。
+j	抗ウィルス	抗ウィルス	
+j	抗ウイルス	抗ウイルス	
+j	暗号化する	暗号化する	
+j	栗きんとん	栗きんとん	a confection made from bo…
+j	気がふれる	気がふれる	to go crazy, to lose one'…
+j	気が変わる	気が変わる	to change one's mind
+j	気が大きい	気が大きい	些細なことに気をとめない。度量が広い。
+j	気が小さい	気が小さい	些細なことを気にする。度量が小さい。
+j	気が引ける	気が引ける	気後れする。引け目を感じる。
+j	気が抜ける	気が抜ける	心の緊張や意欲がなくなって、ぼんやりする。
+j	気が狂った	気が狂った	
+j	気が触れた	気が触れた	
+j	気が触れる	気が触れる	精神の状態がおかしくなる。
+j	気にかける	気にかける	to be concerned about, to…
+j	気にするな	気にするな	plain negative imperative…
+j	気に掛かる	気に掛かる	心配になって頭から離れない。
+j	気に掛ける	気に掛ける	心配する。
+j	気に留める	気に留める	to bear in mind; to pay h…
+j	気の大きい	気の大きい	
+j	気まぐれな	気まぐれな	
+j	気をそらす	気をそらす	
+j	気を付けて	気を付けて	Watch yourself, be carefu…
+j	気を付ける	気を付ける	to be careful; to watch o…
+j	気を落とす	気を落とす	to become disheartened
+j	気候最適期	気候最適期	紀元前4000年ごろに発生した温暖期。近年の地球温…
+j	気前のよさ	気前のよさ	
+j	気前の良い	気前の良い	
+j	気化させる	気化させる	
+j	気圧の尾根	気圧の尾根	高圧部から低圧部に向かい張り出した部分。
+j	気持ちいい	気持ちいい	feeling good
+j	気持ち悪い	気持ち悪い	sick, having an urge to v…
+j	気持ち良い	気持ち良い	体の調子がよい。気分がいい。
+j	気絶させる	気絶させる	
+j	気象予報士	気象予報士	日本の気象業務法に基づき、所定の国家試験に合格して…
+j	気象注意報	気象注意報	大雨、大雪、強風などによる災害が予想される際に気象…
+j	気違い沙汰	気違い沙汰	crazy behavior, an insane…
+j	気遣わしい	気遣わしい	anxious
+j	洗濯できる	洗濯できる	
+j	洗濯ばさみ	洗濯ばさみ	a clothespin
+j	洗礼志願者	洗礼志願者	
+j	盗人の昼寝	盗人の昼寝	盗人が夜に備えて昼寝をするように、一見油断している…
+j	算術演算子	算術演算子	arithmetic operator
+j	粗探しする	粗探しする	
+j	粗粒シルト	粗粒シルト	直径が32分の1ミリメートル以上16分の1ミリメー…
+j	著作権侵害	著作権侵害	copyright infringement, p…
+j	著作隣接権	著作隣接権	著作物が公衆により利用できるようになる過程や著作物…
+j	街路清掃人	街路清掃人	
+j	街路清掃車	街路清掃車	
+j	鱗を落とす	鱗を落とす	
+k	기상관측소	気象観測所	기상관측 예를 들면 종관기상관측과 방재용 기상…
+k	기절	気絶/気絶	fainting; loss of conscio…
+k	남아메리카	南아메리카	South America (the contin…
+k	북극 해항로	北極海航路	
+k	북아메리카	北아메리카	North America (the contin…
+k	투서	套署/套書	stamp; seal
+k	패자부활전	敗者復活戦	토너먼트 경기에서 진 사람이나 팀에게 다시 그…
+k	패자부활전	敗者復活戰	토너먼트 경기에서 진 사람이나 팀에게 다시 그…
+j	乗り組ませる	乗り組ませる	
+j	乗合タクシー	乗合タクシー	
+j	北カマリネス	北カマリネス	Camarines Norte (a provin…
+j	北カロライナ	北カロライナ	
+j	北ゲルマン人	北ゲルマン人	ゲルマン人のうち北方に暮らす人々。デンマーク人、ス…
+j	北コーカサス	北コーカサス	
+j	北フリジア語	北フリジア語	ドイツの一部地域などで話されている、インド・ヨーロ…
+j	北マケドニア	北マケドニア	North Macedonia (a countr…
+j	北ヨーロッパ	北ヨーロッパ	ヨーロッパ北部の地域。デンマーク、スウェーデン、ノ…
+j	北レフコシャ	北レフコシャ	事実上の独立国である北キプロスの首都。
+j	北ローデシア	北ローデシア	Northern Rhodesia - a for…
+j	北ンデベレ語	北ンデベレ語	
+j	北大西洋条約	北大西洋条約	the North Atlantic Treaty
+j	北大西洋海流	北大西洋海流	the North Atlantic Current
+j	北奄美大島語	北奄美大島語	日本語族琉球語派北琉球語群に属し、奄美大島北部で話…
+j	北辰妙見菩薩	北辰妙見菩薩	
+j	北部サーミ語	北部サーミ語	ウラル語族フィン・ウゴル語派に属する言語で北欧ラッ…
+j	南アジア語族	南アジア語族	synonym of オーストロアジア語族
+j	南アフリカ人	南アフリカ人	
+j	南アルタイ語	南アルタイ語	ロシアの南部などで話されている、アルタイ諸語に属す…
+j	南カマリネス	南カマリネス	Camarines Sur (a province…
+j	南カロライナ	南カロライナ	
+j	南コーカサス	南コーカサス	
+j	南スラヴ語群	南スラヴ語群	印欧語族スラヴ語派の語群の一つ。バルカン半島のブル…
+j	南ヨーロッパ	南ヨーロッパ	ヨーロッパ南部の地域。スペイン、ポルトガル、ギリシ…
+j	南ローデシア	南ローデシア	
+j	南北アメリカ	南北アメリカ	the Americas (two contine…
+j	南奄美大島語	南奄美大島語	日本語族琉球語派北琉球語群に属し、奄美大島南部と周…
+j	南無阿弥豆腐	南無阿弥豆腐	synonym of 南無阿弥陀仏 (Namu A…
+j	南無阿弥陀仏	南無阿弥陀仏	Namo Amitābhāya, a Buddhi…
+j	南米コンドル	南米コンドル	Andean condor
+j	南西諸島海溝	南西諸島海溝	琉球海溝の別名。
+j	南部アフリカ	南部アフリカ	アフリカ大陸南部。
+j	受話器を取る	受話器を取る	
+j	字幕スーパー	字幕スーパー	スーパーインポーズのうち画像と字幕を一つの画像に焼…
+j	字音仮名遣い	字音仮名遣い	kanji pronunciation based…
+j	弗化物イオン	弗化物イオン	フッ化物イオンの表記揺れ。
+j	敗北を認める	敗北を認める	
+j	林檎ジュース	林檎ジュース	林檎を絞った果汁。アップルジュース。
+j	気が気でない	気が気でない	very anxious, very worrie…
+j	気が知れない	気が知れない	相手の考えていることが理解できない。
+j	気が進まない	気が進まない	
+j	気が遠くなる	気が遠くなる	to faint, to lose conscio…
+j	気にくわない	気にくわない	unable to stomach, sticki…
+j	気にしないで	気にしないで	
+j	気に食わない	気に食わない	自分の意に沿わない。気に入らない。嫌だ。
+j	気のおけない	気のおけない	親しくて気を遣う必要のない。
+j	気の毒に思う	気の毒に思う	
+j	気の遠くなる	気の遠くなる	
+j	気を取られる	気を取られる	to be preoccupied, distra…
+j	気を取り直す	気を取り直す	to rethink a situation an…
+j	気付かれない	気付かれない	
+j	気分を害する	気分を害する	
+j	気合を入れる	気合を入れる	to fire up, to psych up, …
+j	気心の知れた	気心の知れた	信頼がおける。
+j	気違いじみた	気違いじみた	
+j	気骨が折れる	気骨が折れる	気を遣って精神的に疲れる。
+j	洗礼者ヨハネ	洗礼者ヨハネ	
+j	盗まれました	盗まれました	
+j	盗人猛猛しい	盗人猛猛しい	悪事を咎められておきながら、開き直ること。
+j	粗製ガソリン	粗製ガソリン	「ナフサ」を参照。
+j	著作者人格権	著作者人格権	ある著作物に対する著作者の名誉や功績を守ることを目…
+j	隗より始めよ	隗より始めよ	one should start a big pr…
+k	기가 막히다	気가 막히다	to be astounding, astound…
+k	나무아미타불	南無阿弥陀仏	Namo Amitābhāya, a Buddhi…
+k	나무아미타불	南無阿彌陀佛	Namo Amitābhāya, a Buddhi…
+j	乗り掛かった船	乗り掛かった船	事を始めたからには、後戻りはできないということ。
+j	冗談じゃないよ	冗談じゃないよ	
+j	北アイルランド	北アイルランド	Northern Ireland (a const…
+j	北アメリカ大陸	北アメリカ大陸	アメリカ大陸のうち、パナマ地峡以北にある部分。北米…
+j	北ゲルマン語群	北ゲルマン語群	印欧語族ゲルマン語派の語群の一つ。北欧のノルウェー…
+j	北ザンボアンガ	北ザンボアンガ	
+j	北ブラバント州	北ブラバント州	
+j	北マリアナ諸島	北マリアナ諸島	Northern Mariana Islands …
+j	北ヨークシャー	北ヨークシャー	
+j	北ヨーロッパ史	北ヨーロッパ史	世界史の中における北ヨーロッパに関係する事柄を総合…
+j	南アフリカ英語	南アフリカ英語	南アフリカ共和国で話されている英語の変種。
+j	南アフリカ連邦	南アフリカ連邦	
+j	南アメリカ大陸	南アメリカ大陸	アメリカ大陸のうち、パナマ地峡以南にある部分。南米…
+j	南アラビア連邦	南アラビア連邦	1959年から1967年までイエメン南部でアラビア…
+j	南サルディニア	南サルディニア	
+j	南サルデーニャ	南サルデーニャ	
+j	南ザンボアンガ	南ザンボアンガ	
+j	南ヨーロッパ史	南ヨーロッパ史	世界史の中における南ヨーロッパに関係する事柄を総合…
+j	南北アメリカの	南北アメリカの	
+j	南無妙法蓮華経	南無妙法蓮華経	a mantra commonly chanted…
+j	得手に帆を揚ぐ	得手に帆を揚ぐ	synonym of 得手に帆を揚げる (ete …
+j	抗ヒスタミン剤	抗ヒスタミン剤	
+j	抗ヒスタミン薬	抗ヒスタミン薬	antihistamine
+j	暗黒エネルギー	暗黒エネルギー	
+j	気が向いている	気が向いている	
+j	気候ストライキ	気候ストライキ	
+j	列聖調査審問検事	列聖調査審問検事	
+j	北アメリカ大平原	北アメリカ大平原	
+j	北大西洋条約機構	北大西洋条約機構	冷戦のソビエト連邦や東ヨーロッパをはじめとする社会…
+j	北部アイルランド	北部アイルランド	北アイルランドを参照
+j	南アフリカ共和国	南アフリカ共和国	Republic of South Africa …
+j	南オーストラリア	南オーストラリア	South Australia (a state …
+j	南スーダン共和国	南スーダン共和国	Republic of South Sudan (…
+j	南ベトナム共和国	南ベトナム共和国	1969年から1976年にかけてベトナムに存在した…
+j	宗教にかこつけた	宗教にかこつけた	
+j	得手に帆を揚げる	得手に帆を揚げる	機会に恵まれ、自分の得意な事を（調子に乗って）大い…
+j	暗礁に乗り上げる	暗礁に乗り上げる	思わぬ障害にぶつかり物事が行き詰まる。
+j	気をつけて下さい	気をつけて下さい	
+j	気候変動枠組条約	気候変動枠組条約	地球温暖化防止の枠組みとなる国連条約。
+j	盗人にも仁義あり	盗人にも仁義あり	悪行を行う業界であっても、やはり義は存在していると…
+j	盗聴器を仕掛ける	盗聴器を仕掛ける	
+k	북대서양 조약 기구	北大西洋条約機構	
+k	북대서양 조약 기구	北大西洋條約機構	
+j	北アメリカプレート	北アメリカプレート	北アメリカ大陸の大部分がその上に乗っている大陸プレ…
+j	北マケドニア共和国	北マケドニア共和国	Republic of North Macedon…
+j	南アフリカの呼び声	南アフリカの呼び声	
+j	南マットグロッソ州	南マットグロッソ州	
+j	気にしないでください	気にしないでください	
+j	盗人にも三分の理あり	盗人にも三分の理あり	どんなことでも理由付け出来ないことはないということ。
+j	北米航空宇宙防衛司令部	北米航空宇宙防衛司令部	the North American Aerosp…
+j	宗教は民衆の阿片である	宗教は民衆の阿片である	宗教は民衆の正常な感覚を麻痺させるものである、とい…
+j	宗教は生活の法則である	宗教は生活の法則である	宗教は人生の行動規範である、ということ。
+j	北ライン゠ヴェストファーレン	北ライン゠ヴェストファーレン	
+j	盗人を捕らえて見れば我が子なり	盗人を捕らえて見れば我が子なり	意外な出来事が起こって処置に窮すること。

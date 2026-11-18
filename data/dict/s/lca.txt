@@ -1,0 +1,737 @@
+e	café	caf	1 meaning
+e	cam	cam	1 meaning
+e	can	can	4 meanings
+e	cap	cap	5 meanings
+e	car	car	1 meaning
+e	cat	cat	2 meanings
+e	caw	caw	1 meaning
+e	cage	cage	1 meaning
+e	cain	cain	1 meaning
+e	cake	cake	1 meaning
+e	calf	calf	2 meanings
+e	call	call	11 meanings
+e	calm	calm	8 meanings
+e	camp	camp	2 meanings
+e	cane	cane	3 meanings
+e	cant	cant	4 meanings
+e	cape	cape	2 meanings
+e	card	card	1 meaning
+e	care	care	3 meanings
+e	carl	carl	1 meaning
+e	carp	carp	1 meaning
+e	cart	cart	2 meanings
+e	case	case	6 meanings
+e	cash	cash	1 meaning
+e	cask	cask	1 meaning
+e	cast	cast	4 meanings
+e	caul	caul	1 meaning
+e	cave	cave	1 meaning
+e	cabal	cabal	1 meaning
+e	cabin	cabin	3 meanings
+e	cable	cable	2 meanings
+e	cacao	cacao	2 meanings
+e	cache	cache	1 meaning
+e	cadre	cadre	1 meaning
+e	cairn	cairn	1 meaning
+e	cairo	cairo	1 meaning
+e	calyx	calyx	2 meanings
+e	camel	camel	1 meaning
+e	cameo	cameo	1 meaning
+e	canal	canal	2 meanings
+e	canapé	canap	1 meaning
+e	cancún	cancn	1 meaning
+e	candy	candy	1 meaning
+e	canelé	canel	1 meaning
+e	canna	canna	1 meaning
+e	canoe	canoe	2 meanings
+e	canon	canon	4 meanings
+e	caper	caper	2 meanings
+e	capiz	capiz	1 meaning
+e	carat	carat	2 meanings
+e	carer	carer	1 meaning
+e	cargo	cargo	1 meaning
+e	caria	caria	1 meaning
+e	carob	carob	2 meanings
+e	carol	carol	1 meaning
+e	carry	carry	1 meaning
+e	caste	caste	1 meaning
+e	catch	catch	5 meanings
+e	cater	cater	1 meaning
+e	catty	catty	1 meaning
+e	cause	cause	3 meanings
+e	cachaça	cachaa	1 meaning
+e	cactus	cactus	1 meaning
+e	caddie	caddie	1 meaning
+e	caecum	caecum	1 meaning
+e	caelum	caelum	1 meaning
+e	caesar	caesar	1 meaning
+e	caiman	caiman	1 meaning
+e	cairns	cairns	1 meaning
+e	cajole	cajole	1 meaning
+e	calais	calais	1 meaning
+e	calico	calico	2 meanings
+e	caliph	caliph	1 meaning
+e	call-up	callup	1 meaning
+e	callus	callus	1 meaning
+e	calque	calque	1 meaning
+e	camera	camera	2 meanings
+e	camper	camper	2 meanings
+e	campus	campus	2 meanings
+e	canaan	canaan	1 meaning
+e	canada	canada	1 meaning
+e	canard	canard	2 meanings
+e	canary	canary	2 meanings
+e	cancan	cancan	1 meaning
+e	cancel	cancel	1 meaning
+e	cancer	cancer	3 meanings
+e	candle	candle	1 meaning
+e	candor	candor	2 meanings
+e	cangue	cangue	1 meaning
+e	canine	canine	1 meaning
+e	canned	canned	1 meaning
+e	cannes	cannes	1 meaning
+e	cannon	cannon	1 meaning
+e	cannot	cannot	1 meaning
+e	canopy	canopy	1 meaning
+e	cantal	cantal	1 meaning
+e	canton	canton	7 meanings
+e	canvas	canvas	2 meanings
+e	canyon	canyon	1 meaning
+e	car key	carkey	1 meaning
+e	carafe	carafe	1 meaning
+e	carane	carane	1 meaning
+e	carbon	carbon	3 meanings
+e	cardia	cardia	1 meaning
+e	career	career	2 meanings
+e	caress	caress	2 meanings
+e	caries	caries	1 meaning
+e	carina	carina	1 meaning
+e	carlos	carlos	1 meaning
+e	carmen	carmen	1 meaning
+e	carpel	carpel	1 meaning
+e	carpet	carpet	1 meaning
+e	carrel	carrel	1 meaning
+e	carrot	carrot	1 meaning
+e	cartel	cartel	1 meaning
+e	carter	carter	2 meanings
+e	carton	carton	1 meaning
+e	casbah	casbah	1 meaning
+e	casein	casein	1 meaning
+e	cashew	cashew	1 meaning
+e	casing	casing	1 meaning
+e	casino	casino	1 meaning
+e	casque	casque	1 meaning
+e	cassia	cassia	1 meaning
+e	caster	caster	2 meanings
+e	castle	castle	1 meaning
+e	casual	casual	6 meanings
+e	cat café	catcaf	1 meaning
+e	catchy	catchy	1 meaning
+e	cathay	cathay	1 meaning
+e	cation	cation	1 meaning
+e	catkin	catkin	1 meaning
+e	catnip	catnip	2 meanings
+e	cattle	cattle	2 meanings
+e	caucus	caucus	2 meanings
+e	caudal	caudal	1 meaning
+e	causal	causal	1 meaning
+e	cave in	cavein	1 meaning
+e	caviar	caviar	1 meaning
+e	cavite	cavite	1 meaning
+e	cavity	cavity	3 meanings
+e	cabaret	cabaret	1 meaning
+e	cabbage	cabbage	3 meanings
+e	cabinet	cabinet	3 meanings
+e	cacique	cacique	1 meaning
+e	cadaver	cadaver	1 meaning
+e	cadmium	cadmium	1 meaning
+e	caesium	caesium	1 meaning
+e	caesura	caesura	1 meaning
+e	cagayan	cagayan	1 meaning
+e	cahoots	cahoots	1 meaning
+e	calamba	calamba	1 meaning
+e	calapan	calapan	1 meaning
+e	calcite	calcite	1 meaning
+e	calcium	calcium	1 meaning
+e	caldera	caldera	1 meaning
+e	calgary	calgary	1 meaning
+e	caliban	caliban	1 meaning
+e	caliber	caliber	2 meanings
+e	calling	calling	2 meanings
+e	calorie	calorie	1 meaning
+e	caltrop	caltrop	2 meanings
+e	calumny	calumny	1 meaning
+e	calypso	calypso	1 meaning
+e	calzone	calzone	1 meaning
+e	camagüey	camagey	1 meaning
+e	cambion	cambion	1 meaning
+e	cameron	cameron	1 meaning
+e	camorra	camorra	1 meaning
+e	camp bed	campbed	1 meaning
+e	camphor	camphor	1 meaning
+e	camping	camping	1 meaning
+e	candela	candela	1 meaning
+e	candida	candida	1 meaning
+e	cangjie	cangjie	2 meanings
+e	canning	canning	1 meaning
+e	cannoli	cannoli	1 meaning
+e	cantata	cantata	1 meaning
+e	canteen	canteen	2 meanings
+e	capable	capable	1 meaning
+e	capella	capella	1 meaning
+e	capital	capital	6 meanings
+e	capitol	capitol	2 meanings
+e	capsize	capsize	2 meanings
+e	capstan	capstan	2 meanings
+e	capsule	capsule	3 meanings
+e	captain	captain	5 meanings
+e	captcha	captcha	1 meaning
+e	caption	caption	1 meaning
+e	captive	captive	1 meaning
+e	capture	capture	5 meanings
+e	car door	cardoor	1 meaning
+e	car wash	carwash	1 meaning
+e	caracal	caracal	1 meaning
+e	caracas	caracas	1 meaning
+e	caramel	caramel	2 meanings
+e	caravan	caravan	2 meanings
+e	caravel	caravel	1 meaning
+e	carbene	carbene	1 meaning
+e	carbine	carbine	1 meaning
+e	carcass	carcass	1 meaning
+e	cardiff	cardiff	1 meaning
+e	careful	careful	2 meanings
+e	caribou	caribou	1 meaning
+e	carjack	carjack	1 meaning
+e	carnage	carnage	1 meaning
+e	carpool	carpool	1 meaning
+e	carrack	carrack	1 meaning
+e	carrion	carrion	1 meaning
+e	cartoon	cartoon	1 meaning
+e	carving	carving	1 meaning
+e	cashier	cashier	2 meanings
+e	casimir	casimir	1 meaning
+e	cassava	cassava	1 meaning
+e	cassock	cassock	1 meaning
+e	cast net	castnet	1 meaning
+e	cast out	castout	1 meaning
+e	casting	casting	1 meaning
+e	cat flap	catflap	1 meaning
+e	cat food	catfood	1 meaning
+e	cat meat	catmeat	1 meaning
+e	cat tree	cattree	1 meaning
+e	cat's eye	catseye	1 meaning
+e	cat's-paw	catspaw	1 meaning
+e	catalan	catalan	3 meanings
+e	catalpa	catalpa	1 meaning
+e	catarrh	catarrh	1 meaning
+e	catch up	catchup	1 meaning
+e	catcher	catcher	1 meaning
+e	catfish	catfish	1 meaning
+e	catgirl	catgirl	1 meaning
+e	cathode	cathode	1 meaning
+e	catloaf	catloaf	1 meaning
+e	cattail	cattail	1 meaning
+e	catwalk	catwalk	1 meaning
+e	catànies	catnies	1 meaning
+e	caution	caution	1 meaning
+e	cavalry	cavalry	1 meaning
+e	caveman	caveman	1 meaning
+e	cayenne	cayenne	1 meaning
+e	cabernet	cabernet	1 meaning
+e	cable car	cablecar	1 meaning
+e	cable tie	cabletie	1 meaning
+e	cableway	cableway	1 meaning
+e	cabrales	cabrales	1 meaning
+e	cachexia	cachexia	1 meaning
+e	cadillac	cadillac	1 meaning
+e	caesarea	caesarea	1 meaning
+e	caffeine	caffeine	1 meaning
+e	cagliari	cagliari	1 meaning
+e	caiaphas	caiaphas	1 meaning
+e	cake shop	cakeshop	1 meaning
+e	calabash	calabash	2 meanings
+e	calabria	calabria	1 meaning
+e	calamari	calamari	1 meaning
+e	calamite	calamite	1 meaning
+e	calamity	calamity	2 meanings
+e	calculus	calculus	3 meanings
+e	calcutta	calcutta	1 meaning
+e	calendar	calendar	2 meanings
+e	calender	calender	1 meaning
+e	calf bone	calfbone	1 meaning
+e	call sign	callsign	1 meaning
+e	calliope	calliope	1 meaning
+e	callisto	callisto	2 meanings
+e	calm down	calmdown	2 meanings
+e	calmness	calmness	1 meaning
+e	caloocan	caloocan	1 meaning
+e	calumpit	calumpit	1 meaning
+e	calvados	calvados	2 meanings
+e	cambodia	cambodia	1 meaning
+e	cambrian	cambrian	1 meaning
+e	cambyses	cambyses	1 meaning
+e	camellia	camellia	1 meaning
+e	cameltoe	cameltoe	1 meaning
+e	cameroon	cameroon	1 meaning
+e	camisole	camisole	1 meaning
+e	camomile	camomile	2 meanings
+e	campaign	campaign	1 meaning
+e	campania	campania	1 meaning
+e	campeche	campeche	1 meaning
+e	campfire	campfire	1 meaning
+e	camphene	camphene	1 meaning
+e	campsite	campsite	1 meaning
+e	camucamu	camucamu	1 meaning
+e	can't wait	cantwait	1 meaning
+e	canadian	canadian	2 meanings
+e	canberra	canberra	1 meaning
+e	cane toad	canetoad	1 meaning
+e	canistel	canistel	2 meanings
+e	canister	canister	2 meanings
+e	cannabis	cannabis	1 meaning
+e	cannibal	cannibal	1 meaning
+e	canoeing	canoeing	1 meaning
+e	canonize	canonize	1 meaning
+e	cantopop	cantopop	1 meaning
+e	capacity	capacity	6 meanings
+e	cape town	capetown	1 meaning
+e	capoeira	capoeira	1 meaning
+e	caponata	caponata	1 meaning
+e	caps lock	capslock	1 meaning
+e	capsicum	capsicum	1 meaning
+e	capybara	capybara	1 meaning
+e	carapace	carapace	1 meaning
+e	carbonyl	carbonyl	2 meanings
+e	carboxyl	carboxyl	1 meaning
+e	card game	cardgame	1 meaning
+e	cardamom	cardamom	2 meanings
+e	cardigan	cardigan	1 meaning
+e	cardinal	cardinal	5 meanings
+e	cardioid	cardioid	1 meaning
+e	carditis	carditis	1 meaning
+e	carefree	carefree	1 meaning
+e	careless	careless	1 meaning
+e	carillon	carillon	1 meaning
+e	carlisle	carlisle	1 meaning
+e	carnauba	carnauba	1 meaning
+e	carnival	carnival	1 meaning
+e	carotene	carotene	1 meaning
+e	carousel	carousel	2 meanings
+e	carriage	carriage	1 meaning
+e	carry out	carryout	1 meaning
+e	carthage	carthage	1 meaning
+e	casanova	casanova	1 meaning
+e	cash crop	cashcrop	1 meaning
+e	cash desk	cashdesk	1 meaning
+e	cashbook	cashbook	1 meaning
+e	cashless	cashless	1 meaning
+e	cashmere	cashmere	2 meanings
+e	cassette	cassette	2 meanings
+e	cast iron	castiron	1 meaning
+e	castanet	castanet	1 meaning
+e	castella	castella	1 meaning
+e	castling	castling	1 meaning
+e	castrate	castrate	1 meaning
+e	castrato	castrato	2 meanings
+e	castries	castries	1 meaning
+e	casualty	casualty	1 meaning
+e	cat's claw	catsclaw	1 meaning
+e	catacomb	catacomb	1 meaning
+e	catalyst	catalyst	1 meaning
+e	catamite	catamite	1 meaning
+e	catapult	catapult	1 meaning
+e	cataract	cataract	2 meanings
+e	category	category	2 meanings
+e	catenary	catenary	1 meaning
+e	catering	catering	1 meaning
+e	catfight	catfight	1 meaning
+e	catheter	catheter	1 meaning
+e	cathetus	cathetus	1 meaning
+e	cathexis	cathexis	1 meaning
+e	catholic	catholic	1 meaning
+e	caucasus	caucasus	2 meanings
+e	caudillo	caudillo	1 meaning
+e	cauldron	cauldron	1 meaning
+e	caulerpa	caulerpa	1 meaning
+e	causeway	causeway	1 meaning
+e	cautious	cautious	1 meaning
+e	cavalier	cavalier	1 meaning
+e	cabin crew	cabincrew	1 meaning
+e	cabriolet	cabriolet	1 meaning
+e	cacophony	cacophony	1 meaning
+e	cafeteria	cafeteria	2 meanings
+e	caffè latte	cafflatte	1 meaning
+e	café au lait	cafaulait	1 meaning
+e	calcarean	calcarean	1 meaning
+e	calculate	calculate	3 meanings
+e	caledonia	caledonia	1 meaning
+e	calendula	calendula	1 meaning
+e	calgarian	calgarian	1 meaning
+e	calibrate	calibrate	1 meaning
+e	calimocho	calimocho	1 meaning
+e	callirrhoë	callirrho	1 meaning
+e	calvinism	calvinism	1 meaning
+e	calvinist	calvinist	1 meaning
+e	cambodian	cambodian	2 meanings
+e	cambridge	cambridge	2 meanings
+e	camcorder	camcorder	1 meaning
+e	camel case	camelcase	1 meaning
+e	camembert	camembert	1 meaning
+e	cameraman	cameraman	1 meaning
+e	camp fever	campfever	1 meaning
+e	can opener	canopener	1 meaning
+e	canaan dog	canaandog	1 meaning
+e	candareen	candareen	1 meaning
+e	candidate	candidate	2 meanings
+e	candlemas	candlemas	1 meaning
+e	candy cane	candycane	1 meaning
+e	cane corso	canecorso	1 meaning
+e	cannonade	cannonade	1 meaning
+e	cannoneer	cannoneer	1 meaning
+e	canonical	canonical	1 meaning
+e	cantonese	cantonese	5 meanings
+e	capacitor	capacitor	1 meaning
+e	cape verde	capeverde	1 meaning
+e	capernaum	capernaum	1 meaning
+e	capillary	capillary	1 meaning
+e	capriccio	capriccio	1 meaning
+e	capricorn	capricorn	1 meaning
+e	capsaicin	capsaicin	1 meaning
+e	capsizing	capsizing	1 meaning
+e	captivate	captivate	1 meaning
+e	captivity	captivity	1 meaning
+e	car rental	carrental	1 meaning
+e	carabiner	carabiner	1 meaning
+e	caracalla	caracalla	1 meaning
+e	carbazole	carbazole	1 meaning
+e	carboline	carboline	1 meaning
+e	carbon tax	carbontax	1 meaning
+e	carbonado	carbonado	1 meaning
+e	carbonara	carbonara	1 meaning
+e	carbonate	carbonate	1 meaning
+e	carbuncle	carbuncle	1 meaning
+e	carcinoma	carcinoma	1 meaning
+e	card stunt	cardstunt	1 meaning
+e	cardboard	cardboard	1 meaning
+e	careerist	careerist	1 meaning
+e	carefully	carefully	1 meaning
+e	cargo cult	cargocult	1 meaning
+e	cargo ship	cargoship	1 meaning
+e	caribbean	caribbean	1 meaning
+e	carinthia	carinthia	2 meanings
+e	carnation	carnation	2 meanings
+e	carnitine	carnitine	1 meaning
+e	carnivore	carnivore	2 meanings
+e	carpe diem	carpediem	1 meaning
+e	carpenter	carpenter	1 meaning
+e	cartesian	cartesian	1 meaning
+e	cartilage	cartilage	1 meaning
+e	cartouche	cartouche	2 meanings
+e	cartridge	cartridge	2 meanings
+e	caryopsis	caryopsis	1 meaning
+e	case study	casestudy	1 meaning
+e	cashew nut	cashewnut	1 meaning
+e	casserole	casserole	2 meanings
+e	cassowary	cassowary	1 meaning
+e	castellan	castellan	1 meaning
+e	castor oil	castoroil	1 meaning
+e	castrator	castrator	1 meaning
+e	casual sex	casualsex	1 meaning
+e	cataclysm	cataclysm	3 meanings
+e	catalepsy	catalepsy	1 meaning
+e	catalogue	catalogue	1 meaning
+e	catalonia	catalonia	1 meaning
+e	catalysis	catalysis	1 meaning
+e	catamaran	catamaran	1 meaning
+e	cataplexy	cataplexy	1 meaning
+e	catatonia	catatonia	1 meaning
+e	catch fire	catchfire	1 meaning
+e	catechism	catechism	1 meaning
+e	catharsis	catharsis	2 meanings
+e	cathartic	cathartic	1 meaning
+e	cathedral	cathedral	1 meaning
+e	catherine	catherine	1 meaning
+e	cattleman	cattleman	1 meaning
+e	caucasian	caucasian	2 meanings
+e	caudal fin	caudalfin	1 meaning
+e	causality	causality	1 meaning
+e	causation	causation	1 meaning
+e	causative	causative	3 meanings
+e	cauterize	cauterize	1 meaning
+e	cavalaire	cavalaire	1 meaning
+e	cavalcade	cavalcade	1 meaning
+e	cavatelli	cavatelli	1 meaning
+e	cabanatuan	cabanatuan	1 meaning
+e	cabin fever	cabinfever	1 meaning
+e	cacomistle	cacomistle	1 meaning
+e	cadaverine	cadaverine	1 meaning
+e	caipirinha	caipirinha	1 meaning
+e	cajolement	cajolement	1 meaning
+e	calamondin	calamondin	1 meaning
+e	calcareous	calcareous	1 meaning
+e	calcitriol	calcitriol	1 meaning
+e	calculator	calculator	3 meanings
+e	california	california	1 meaning
+e	call center	callcenter	1 meaning
+e	call it a day	callitaday	2 meanings
+e	calumniate	calumniate	1 meaning
+e	camelthorn	camelthorn	1 meaning
+e	camerawork	camerawork	1 meaning
+e	camouflage	camouflage	4 meanings
+e	campground	campground	1 meaning
+e	can of worms	canofworms	1 meaning
+e	canada lynx	canadalynx	1 meaning
+e	candy apple	candyapple	1 meaning
+e	cannonball	cannonball	1 meaning
+e	cantaloupe	cantaloupe	1 meaning
+e	canterbury	canterbury	1 meaning
+e	cantilever	cantilever	1 meaning
+e	canvasback	canvasback	1 meaning
+e	caoutchouc	caoutchouc	1 meaning
+e	capability	capability	1 meaning
+e	capetonian	capetonian	1 meaning
+e	capirotada	capirotada	1 meaning
+e	capitalism	capitalism	1 meaning
+e	capitalist	capitalist	1 meaning
+e	capitulate	capitulate	1 meaning
+e	cappadocia	cappadocia	1 meaning
+e	cappuccino	cappuccino	2 meanings
+e	capricious	capricious	1 meaning
+e	caravaggio	caravaggio	1 meaning
+e	carboxylic	carboxylic	1 meaning
+e	carburetor	carburetor	1 meaning
+e	carcinogen	carcinogen	1 meaning
+e	card reader	cardreader	1 meaning
+e	cardholder	cardholder	1 meaning
+e	cardiology	cardiology	1 meaning
+e	carelessly	carelessly	1 meaning
+e	caricature	caricature	2 meanings
+e	carotenoid	carotenoid	1 meaning
+e	carrier bag	carrierbag	1 meaning
+e	carrot cake	carrotcake	1 meaning
+e	cartomancy	cartomancy	1 meaning
+e	cartoonist	cartoonist	1 meaning
+e	casablanca	casablanca	1 meaning
+e	case closed	caseclosed	1 meaning
+e	caspian sea	caspiansea	1 meaning
+e	caspian tit	caspiantit	1 meaning
+e	cassiopeia	cassiopeia	2 meanings
+e	castor bean	castorbean	1 meaning
+e	castration	castration	2 meanings
+e	castrative	castrative	1 meaning
+e	casus belli	casusbelli	1 meaning
+e	cat burglar	catburglar	1 meaning
+e	cat's cradle	catscradle	1 meaning
+e	cat's tongue	catstongue	1 meaning
+e	catabolism	catabolism	1 meaning
+e	cataphatic	cataphatic	1 meaning
+e	cataphract	cataphract	2 meanings
+e	catch a cold	catchacold	1 meaning
+e	catechumen	catechumen	1 meaning
+e	categorize	categorize	1 meaning
+e	catholicos	catholicos	1 meaning
+e	catoblepas	catoblepas	1 meaning
+e	cavitation	cavitation	1 meaning
+e	cabbage roll	cabbageroll	1 meaning
+e	caesar salad	caesarsalad	1 meaning
+e	calcifediol	calcifediol	1 meaning
+e	calculating	calculating	2 meanings
+e	calculation	calculation	1 meaning
+e	calibration	calibration	1 meaning
+e	californian	californian	1 meaning
+e	californium	californium	1 meaning
+e	call it quits	callitquits	1 meaning
+e	calligraphy	calligraphy	1 meaning
+e	calorie bomb	caloriebomb	1 meaning
+e	calorimeter	calorimeter	1 meaning
+e	camaraderie	camaraderie	1 meaning
+e	camera phone	cameraphone	1 meaning
+e	camomile tea	camomiletea	1 meaning
+e	camphor tree	camphortree	1 meaning
+e	can i help you	canihelpyou	1 meaning
+e	canada goose	canadagoose	1 meaning
+e	candelabrum	candelabrum	1 meaning
+e	candidiasis	candidiasis	1 meaning
+e	candlelight	candlelight	1 meaning
+e	candlepower	candlepower	1 meaning
+e	candlestick	candlestick	1 meaning
+e	candrabindu	candrabindu	1 meaning
+e	cannibalism	cannibalism	1 meaning
+e	capacitance	capacitance	1 meaning
+e	cape jasmine	capejasmine	1 meaning
+e	capital city	capitalcity	1 meaning
+e	capital gain	capitalgain	1 meaning
+e	capitol hill	capitolhill	1 meaning
+e	capricornus	capricornus	1 meaning
+e	carbon paper	carbonpaper	1 meaning
+e	carboplatin	carboplatin	1 meaning
+e	carcassonne	carcassonne	1 meaning
+e	cardinality	cardinality	1 meaning
+e	career woman	careerwoman	1 meaning
+e	carnivorous	carnivorous	1 meaning
+e	carpathians	carpathians	1 meaning
+e	carrageenan	carrageenan	1 meaning
+e	carriageway	carriageway	1 meaning
+e	carrier wave	carrierwave	1 meaning
+e	carrion crow	carrioncrow	1 meaning
+e	carsickness	carsickness	1 meaning
+e	cartography	cartography	1 meaning
+e	caspian gull	caspiangull	1 meaning
+e	caspian tern	caspiantern	1 meaning
+e	cassiterite	cassiterite	1 meaning
+e	castile soap	castilesoap	1 meaning
+e	casting vote	castingvote	1 meaning
+e	cat and mouse	catandmouse	1 meaning
+e	catachresis	catachresis	1 meaning
+e	catastrophe	catastrophe	1 meaning
+e	catchphrase	catchphrase	1 meaning
+e	categorical	categorical	2 meanings
+e	cater-corner	catercorner	1 meaning
+e	caterpillar	caterpillar	2 meanings
+e	catholicism	catholicism	1 meaning
+e	cauda equina	caudaequina	1 meaning
+e	cauliflower	cauliflower	1 meaning
+e	causeway bay	causewaybay	1 meaning
+e	caustic soda	causticsoda	1 meaning
+e	cabinetmaker	cabinetmaker	1 meaning
+e	caciocavallo	caciocavallo	1 meaning
+e	cagayan de oro	cagayandeoro	1 meaning
+e	calamari ring	calamariring	1 meaning
+e	calandra lark	calandralark	1 meaning
+e	calcium oxide	calciumoxide	1 meaning
+e	calendar year	calendaryear	1 meaning
+e	calisthenics	calisthenics	1 meaning
+e	calligrapher	calligrapher	1 meaning
+e	camarines sur	camarinessur	1 meaning
+e	can you help me	canyouhelpme	1 meaning
+e	cancellation	cancellation	1 meaning
+e	candid camera	candidcamera	1 meaning
+e	candleholder	candleholder	1 meaning
+e	candraprabha	candraprabha	1 meaning
+e	cannon fodder	cannonfodder	1 meaning
+e	capitulation	capitulation	1 meaning
+e	capsule hotel	capsulehotel	1 meaning
+e	caramel apple	caramelapple	1 meaning
+e	caravanserai	caravanserai	1 meaning
+e	carbohydrate	carbohydrate	1 meaning
+e	carbolic acid	carbolicacid	1 meaning
+e	carbon offset	carbonoffset	1 meaning
+e	carbonic acid	carbonicacid	1 meaning
+e	carcinogenic	carcinogenic	1 meaning
+e	cardboard box	cardboardbox	1 meaning
+e	cardiologist	cardiologist	1 meaning
+e	career change	careerchange	1 meaning
+e	carelessness	carelessness	1 meaning
+e	caribbean sea	caribbeansea	1 meaning
+e	carmeltazite	carmeltazite	1 meaning
+e	carpenter bee	carpenterbee	1 meaning
+e	carpet beater	carpetbeater	1 meaning
+e	carpet beetle	carpetbeetle	1 meaning
+e	carrying pole	carryingpole	1 meaning
+e	carte blanche	carteblanche	1 meaning
+e	cartographer	cartographer	1 meaning
+e	carving knife	carvingknife	1 meaning
+e	cash register	cashregister	1 meaning
+e	catastrophic	catastrophic	1 meaning
+e	cause of death	causeofdeath	1 meaning
+e	cave painting	cavepainting	1 meaning
+e	cackling goose	cacklinggoose	1 meaning
+e	caesaropapism	caesaropapism	1 meaning
+e	cagayan valley	cagayanvalley	1 meaning
+e	call the police	callthepolice	1 meaning
+e	caltanissetta	caltanissetta	1 meaning
+e	canada thistle	canadathistle	1 meaning
+e	canary islands	canaryislands	1 meaning
+e	cancel culture	cancelculture	1 meaning
+e	candle snuffer	candlesnuffer	1 meaning
+e	capital letter	capitalletter	1 meaning
+e	carbon dioxide	carbondioxide	1 meaning
+e	carbon neutral	carbonneutral	1 meaning
+e	carboniferous	carboniferous	1 meaning
+e	carbonization	carbonization	1 meaning
+e	cardiac arrest	cardiacarrest	1 meaning
+e	cardinal point	cardinalpoint	1 meaning
+e	carotid artery	carotidartery	1 meaning
+e	carpet bombing	carpetbombing	1 meaning
+e	carrier pigeon	carrierpigeon	1 meaning
+e	cat-o'-nine-tails	catoninetails	1 meaning
+e	categorically	categorically	1 meaning
+e	cayenne pepper	cayennepepper	2 meanings
+e	cayman islands	caymanislands	1 meaning
+e	calcium carbide	calciumcarbide	1 meaning
+e	california roll	californiaroll	1 meaning
+e	calot's triangle	calotstriangle	1 meaning
+e	camarines norte	camarinesnorte	1 meaning
+e	camelopardalis	camelopardalis	1 meaning
+e	canadian dollar	canadiandollar	1 meaning
+e	cape gooseberry	capegooseberry	2 meanings
+e	cape of good hope	capeofgoodhope	1 meaning
+e	carbon monoxide	carbonmonoxide	1 meaning
+e	carboxylic acid	carboxylicacid	1 meaning
+e	carcinogenesis	carcinogenesis	1 meaning
+e	cardinal number	cardinalnumber	2 meanings
+e	cardiomyopathy	cardiomyopathy	1 meaning
+e	cardiovascular	cardiovascular	1 meaning
+e	carrot and stick	carrotandstick	1 meaning
+e	castor bean tick	castorbeantick	1 meaning
+e	castor oil plant	castoroilplant	1 meaning
+e	catch red-handed	catchredhanded	1 meaning
+e	category theory	categorytheory	1 meaning
+e	cathode ray tube	cathoderaytube	1 meaning
+e	catholic church	catholicchurch	1 meaning
+e	caudate nucleus	caudatenucleus	1 meaning
+e	cauliflower ear	cauliflowerear	1 meaning
+e	cause and effect	causeandeffect	1 meaning
+e	cable television	cabletelevision	1 meaning
+e	calcium chloride	calciumchloride	1 meaning
+e	california quail	californiaquail	1 meaning
+e	call an ambulance	callanambulance	1 meaning
+e	call and response	callandresponse	1 meaning
+e	canterbury bells	canterburybells	1 meaning
+e	capital gains tax	capitalgainstax	1 meaning
+e	carbon footprint	carbonfootprint	1 meaning
+e	carbonated water	carbonatedwater	1 meaning
+e	carcinogenicity	carcinogenicity	1 meaning
+e	cardinal numeral	cardinalnumeral	1 meaning
+e	cardinal symptom	cardinalsymptom	1 meaning
+e	cardiopulmonary	cardiopulmonary	1 meaning
+e	caroline islands	carolineislands	1 meaning
+e	caseous necrosis	caseousnecrosis	1 meaning
+e	catch one's breath	catchonesbreath	1 meaning
+e	caesarean section	caesareansection	1 meaning
+e	calcium hydroxide	calciumhydroxide	1 meaning
+e	california condor	californiacondor	1 meaning
+e	call into question	callintoquestion	1 meaning
+e	can i buy you a drink	canibuyyouadrink	1 meaning
+e	can i use your phone	caniuseyourphone	1 meaning
+e	canadian football	canadianfootball	1 meaning
+e	capitalist roader	capitalistroader	1 meaning
+e	carbon neutrality	carbonneutrality	1 meaning
+e	carpenter's square	carpenterssquare	1 meaning
+e	cartesian product	cartesianproduct	1 meaning
+e	cassata siciliana	cassatasiciliana	1 meaning
+e	castilla-la mancha	castillalamancha	1 meaning
+e	caterpillar track	caterpillartrack	1 meaning
+e	cabernet sauvignon	cabernetsauvignon	2 meanings
+e	cambrian explosion	cambrianexplosion	1 meaning
+e	canary in a coal mine	canaryinacoalmine	1 meaning
+e	capital punishment	capitalpunishment	1 meaning
+e	carolina chickadee	carolinachickadee	1 meaning
+e	cat scratch disease	catscratchdisease	1 meaning
+e	caterpillar fungus	caterpillarfungus	1 meaning
+e	calm before the storm	calmbeforethestorm	1 meaning
+e	cannizzaro reaction	cannizzaroreaction	1 meaning
+e	capeverdean crioulo	capeverdeancrioulo	1 meaning
+e	carbon tetrachloride	carbontetrachloride	1 meaning
+e	castelnau's antshrike	castelnausantshrike	1 meaning
+e	calculus of variations	calculusofvariations	1 meaning
+e	carpal tunnel syndrome	carpaltunnelsyndrome	1 meaning
+e	cartesian coordinates	cartesiancoordinates	1 meaning
+e	call the fire department	callthefiredepartment	1 meaning
+e	cardiovascular disease	cardiovasculardisease	1 meaning
+e	carry coals to newcastle	carrycoalstonewcastle	1 meaning
+e	cast pearls before swine	castpearlsbeforeswine	1 meaning
+e	categorical imperative	categoricalimperative	1 meaning
+e	carbon emissions trading	carbonemissionstrading	1 meaning
+e	cardiopulmonary resuscitation	cardiopulmonaryresuscitation	1 meaning

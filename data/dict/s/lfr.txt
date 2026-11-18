@@ -1,0 +1,227 @@
+e	fri	fri	1 meaning
+e	fry	fry	2 meanings
+e	free	free	6 meanings
+e	fret	fret	1 meaning
+e	frog	frog	2 meanings
+e	from	from	2 meanings
+e	frot	frot	2 meanings
+e	frame	frame	5 meanings
+e	franc	franc	1 meaning
+e	frank	frank	3 meanings
+e	frass	frass	1 meaning
+e	fraud	fraud	2 meanings
+e	freak	freak	2 meanings
+e	fresh	fresh	2 meanings
+e	freud	freud	1 meaning
+e	freya	freya	2 meanings
+e	fried	fried	1 meaning
+e	frigg	frigg	1 meaning
+e	frill	frill	1 meaning
+e	front	front	7 meanings
+e	frost	frost	2 meanings
+e	froth	froth	2 meanings
+e	frown	frown	1 meaning
+e	fruit	fruit	3 meanings
+e	france	france	1 meaning
+e	franco-	franco	1 meaning
+e	freeze	freeze	3 meanings
+e	french	french	5 meanings
+e	frenzy	frenzy	1 meaning
+e	fresco	fresco	1 meaning
+e	friday	friday	1 meaning
+e	friend	friend	3 meanings
+e	frieze	frieze	1 meaning
+e	fright	fright	1 meaning
+e	frisia	frisia	1 meaning
+e	friuli	friuli	1 meaning
+e	frolic	frolic	1 meaning
+e	frozen	frozen	1 meaning
+e	frugal	frugal	1 meaning
+e	fractal	fractal	2 meanings
+e	fragile	fragile	1 meaning
+e	frailty	frailty	1 meaning
+e	frances	frances	1 meaning
+e	francis	francis	1 meaning
+e	frankly	frankly	1 meaning
+e	frantic	frantic	1 meaning
+e	freckle	freckle	1 meaning
+e	freedom	freedom	2 meanings
+e	freeman	freeman	1 meaning
+e	freesia	freesia	1 meaning
+e	freezer	freezer	2 meanings
+e	fregola	fregola	1 meaning
+e	freight	freight	5 meanings
+e	frenemy	frenemy	1 meaning
+e	fretsaw	fretsaw	1 meaning
+e	frigate	frigate	2 meanings
+e	frisbee	frisbee	1 meaning
+e	frisian	frisian	1 meaning
+e	fritter	fritter	1 meaning
+e	frustum	frustum	1 meaning
+e	fraction	fraction	2 meanings
+e	fracture	fracture	2 meanings
+e	fragment	fragment	2 meanings
+e	fragrant	fragrant	1 meaning
+e	francium	francium	1 meaning
+e	freak out	freakout	2 meanings
+e	free edge	freeedge	1 meaning
+e	free kick	freekick	1 meaning
+e	free time	freetime	1 meaning
+e	free will	freewill	1 meaning
+e	freeball	freeball	1 meaning
+e	freecell	freecell	1 meaning
+e	freetown	freetown	1 meaning
+e	freeware	freeware	1 meaning
+e	freiburg	freiburg	1 meaning
+e	frenulum	frenulum	1 meaning
+e	frequent	frequent	1 meaning
+e	fresh air	freshair	1 meaning
+e	freshman	freshman	1 meaning
+e	friction	friction	3 meanings
+e	fried egg	friedegg	1 meaning
+e	friendly	friendly	6 meanings
+e	frighten	frighten	1 meaning
+e	frimaire	frimaire	1 meaning
+e	friulian	friulian	1 meaning
+e	frog legs	froglegs	1 meaning
+e	from a to z	fromatoz	1 meaning
+e	front end	frontend	1 meaning
+e	frontier	frontier	1 meaning
+e	fructose	fructose	1 meaning
+e	fruit fly	fruitfly	2 meanings
+e	fractious	fractious	1 meaning
+e	fragrance	fragrance	1 meaning
+e	frame rate	framerate	1 meaning
+e	framework	framework	2 meanings
+e	franchise	franchise	1 meaning
+e	francisco	francisco	1 meaning
+e	francolin	francolin	1 meaning
+e	frankfurt	frankfurt	2 meanings
+e	fraudster	fraudster	1 meaning
+e	freak show	freakshow	1 meaning
+e	frederick	frederick	1 meaning
+e	free china	freechina	1 meaning
+e	free state	freestate	1 meaning
+e	free throw	freethrow	1 meaning
+e	free trade	freetrade	1 meaning
+e	free verse	freeverse	1 meaning
+e	free world	freeworld	1 meaning
+e	freemason	freemason	1 meaning
+e	freestyle	freestyle	2 meanings
+e	freewheel	freewheel	1 meaning
+e	fremantle	fremantle	1 meaning
+e	frenchify	frenchify	1 meaning
+e	frenchman	frenchman	1 meaning
+e	frequency	frequency	2 meanings
+e	freshness	freshness	1 meaning
+e	fricative	fricative	1 meaning
+e	fried rice	friedrice	1 meaning
+e	frogmouth	frogmouth	1 meaning
+e	frogspawn	frogspawn	1 meaning
+e	from now on	fromnowon	1 meaning
+e	front door	frontdoor	1 meaning
+e	front line	frontline	1 meaning
+e	front seat	frontseat	1 meaning
+e	front yard	frontyard	1 meaning
+e	frontflip	frontflip	1 meaning
+e	frost fair	frostfair	1 meaning
+e	frostbite	frostbite	1 meaning
+e	fructidor	fructidor	1 meaning
+e	fruit tree	fruittree	1 meaning
+e	fruitcake	fruitcake	1 meaning
+e	fruitless	fruitless	1 meaning
+e	frying pan	fryingpan	1 meaning
+e	franchisee	franchisee	1 meaning
+e	franchisor	franchisor	1 meaning
+e	fraudulent	fraudulent	1 meaning
+e	free market	freemarket	1 meaning
+e	free speech	freespeech	1 meaning
+e	freedom day	freedomday	1 meaning
+e	freelancer	freelancer	1 meaning
+e	freeloader	freeloader	1 meaning
+e	freezer bag	freezerbag	1 meaning
+e	french kiss	frenchkiss	1 meaning
+e	frequently	frequently	1 meaning
+e	fresh water	freshwater	1 meaning
+e	friend zone	friendzone	1 meaning
+e	friendship	friendship	2 meanings
+e	frightened	frightened	1 meaning
+e	front vowel	frontvowel	1 meaning
+e	frozen food	frozenfood	1 meaning
+e	fruit juice	fruitjuice	1 meaning
+e	fruit salad	fruitsalad	1 meaning
+e	frustrated	frustrated	2 meanings
+e	franche-comté	franchecomt	1 meaning
+e	franchising	franchising	1 meaning
+e	frappuccino	frappuccino	1 meaning
+e	fredericton	fredericton	1 meaning
+e	free as a bird	freeasabird	1 meaning
+e	free radical	freeradical	1 meaning
+e	freemasonry	freemasonry	2 meanings
+e	french fries	frenchfries	1 meaning
+e	french toast	frenchtoast	1 meaning
+e	frenchwoman	frenchwoman	1 meaning
+e	fresnel lens	fresnellens	1 meaning
+e	frigatebird	frigatebird	1 meaning
+e	frightening	frightening	1 meaning
+e	frog in a well	froginawell	1 meaning
+e	from scratch	fromscratch	2 meanings
+e	front garden	frontgarden	1 meaning
+e	frontal bone	frontalbone	1 meaning
+e	frontal lobe	frontallobe	1 meaning
+e	frustration	frustration	1 meaning
+e	francophonie	francophonie	1 meaning
+e	frankincense	frankincense	1 meaning
+e	freckled duck	freckledduck	1 meaning
+e	free morpheme	freemorpheme	1 meaning
+e	free of charge	freeofcharge	1 meaning
+e	free software	freesoftware	1 meaning
+e	free variable	freevariable	1 meaning
+e	freezing rain	freezingrain	1 meaning
+e	french guiana	frenchguiana	1 meaning
+e	freudian slip	freudianslip	1 meaning
+e	fried chicken	friedchicken	1 meaning
+e	friendliness	friendliness	1 meaning
+e	friendly fire	friendlyfire	1 meaning
+e	frobisher bay	frobisherbay	1 meaning
+e	from the get-go	fromthegetgo	1 meaning
+e	franklin's gull	franklinsgull	1 meaning
+e	free trade area	freetradearea	1 meaning
+e	freezing point	freezingpoint	1 meaning
+e	french paradox	frenchparadox	1 meaning
+e	french riviera	frenchriviera	1 meaning
+e	friend request	friendrequest	1 meaning
+e	frilled lizard	frilledlizard	1 meaning
+e	fragrant orchid	fragrantorchid	1 meaning
+e	franco-provençal	francoprovenal	1 meaning
+e	freedom fighter	freedomfighter	1 meaning
+e	french canadian	frenchcanadian	1 meaning
+e	french republic	frenchrepublic	1 meaning
+e	from time to time	fromtimetotime	1 meaning
+e	frankfurt am main	frankfurtammain	1 meaning
+e	freestyle skiing	freestyleskiing	1 meaning
+e	french indochina	frenchindochina	1 meaning
+e	french onion soup	frenchonionsoup	1 meaning
+e	french polynesia	frenchpolynesia	1 meaning
+e	front-wheel drive	frontwheeldrive	1 meaning
+e	fractal dimension	fractaldimension	1 meaning
+e	frame of reference	frameofreference	1 meaning
+e	freedom of the city	freedomofthecity	1 meaning
+e	french revolution	frenchrevolution	1 meaning
+e	freedom of assembly	freedomofassembly	1 meaning
+e	freedom of religion	freedomofreligion	1 meaning
+e	freedom of the press	freedomofthepress	1 meaning
+e	free indirect speech	freeindirectspeech	1 meaning
+e	french sign language	frenchsignlanguage	1 meaning
+e	friend with benefits	friendwithbenefits	1 meaning
+e	freedom of expression	freedomofexpression	1 meaning
+e	frequency modulation	frequencymodulation	1 meaning
+e	friuli-venezia giulia	friuliveneziagiulia	1 meaning
+e	frankenstein's monster	frankensteinsmonster	1 meaning
+e	freedom of association	freedomofassociation	1 meaning
+e	from the river to the sea	fromtherivertothesea	1 meaning
+e	from the cradle to the grave	fromthecradletothegrave	1 meaning
+e	french republican calendar	frenchrepublicancalendar	1 meaning
+e	frequently asked questions	frequentlyaskedquestions	1 meaning
+e	from the bottom of one's heart	fromthebottomofonesheart	1 meaning
+e	french southern and antarctic lands	frenchsouthernandantarcticlands	1 meaning

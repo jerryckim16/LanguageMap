@@ -1,0 +1,232 @@
+e	ex	ex	2 meanings
+e	ex-	ex	1 meaning
+e	exa-	exa	1 meaning
+e	exit	exit	3 meanings
+e	exon	exon	1 meaning
+e	ex-gay	exgay	1 meaning
+e	exact	exact	1 meaning
+e	exalt	exalt	2 meanings
+e	excel	excel	2 meanings
+e	exert	exert	1 meaning
+e	exile	exile	2 meanings
+e	exine	exine	1 meaning
+e	exist	exist	1 meaning
+e	expel	expel	3 meanings
+e	exposé	expos	1 meaning
+e	extol	extol	1 meaning
+e	extra	extra	3 meanings
+e	extra-	extra	1 meaning
+e	exult	exult	1 meaning
+e	ex-wife	exwife	1 meaning
+e	exabit	exabit	1 meaning
+e	exceed	exceed	1 meaning
+e	except	except	1 meaning
+e	excess	excess	2 meanings
+e	excite	excite	3 meanings
+e	excuse	excuse	4 meanings
+e	exeter	exeter	1 meaning
+e	exhale	exhale	1 meaning
+e	exhume	exhume	1 meaning
+e	exodus	exodus	3 meanings
+e	exonym	exonym	1 meaning
+e	exotic	exotic	2 meanings
+e	expand	expand	5 meanings
+e	expect	expect	1 meaning
+e	expend	expend	1 meaning
+e	expert	expert	3 meanings
+e	expire	expire	1 meaning
+e	export	export	3 meanings
+e	expose	expose	2 meanings
+e	extant	extant	2 meanings
+e	extent	extent	1 meaning
+e	exabyte	exabyte	1 meaning
+e	exactly	exactly	1 meaning
+e	examine	examine	4 meanings
+e	example	example	3 meanings
+e	excerpt	excerpt	1 meaning
+e	excited	excited	2 meanings
+e	exciton	exciton	1 meaning
+e	exclaim	exclaim	1 meaning
+e	exclude	exclude	1 meaning
+e	excrete	excrete	1 meaning
+e	execute	execute	3 meanings
+e	exhaust	exhaust	2 meanings
+e	exhibit	exhibit	1 meaning
+e	expense	expense	1 meaning
+e	explain	explain	2 meanings
+e	explode	explode	2 meanings
+e	exploit	exploit	2 meanings
+e	explore	explore	2 meanings
+e	expound	expound	1 meaning
+e	express	express	5 meanings
+e	extinct	extinct	4 meanings
+e	extract	extract	2 meanings
+e	extreme	extreme	6 meanings
+e	ex libris	exlibris	1 meaning
+e	exbibyte	exbibyte	1 meaning
+e	excenter	excenter	1 meaning
+e	exchange	exchange	3 meanings
+e	excircle	excircle	1 meaning
+e	excuse me	excuseme	5 meanings
+e	executor	executor	1 meaning
+e	exegesis	exegesis	1 meaning
+e	exercise	exercise	4 meanings
+e	existent	existent	1 meaning
+e	existing	existing	1 meaning
+e	exit poll	exitpoll	1 meaning
+e	exorcism	exorcism	1 meaning
+e	exorcist	exorcist	1 meaning
+e	exoteric	exoteric	1 meaning
+e	expected	expected	1 meaning
+e	explicit	explicit	2 meanings
+e	explorer	explorer	1 meaning
+e	exponent	exponent	1 meaning
+e	exporter	exporter	1 meaning
+e	exposure	exposure	2 meanings
+e	external	external	1 meaning
+e	extranet	extranet	1 meaning
+e	ex-husband	exhusband	1 meaning
+e	exactness	exactness	1 meaning
+e	exam paper	exampaper	2 meanings
+e	exanimate	exanimate	1 meaning
+e	excalibur	excalibur	1 meaning
+e	excavator	excavator	1 meaning
+e	excellent	excellent	1 meaning
+e	exception	exception	3 meanings
+e	excessive	excessive	1 meaning
+e	excipient	excipient	1 meaning
+e	excise tax	excisetax	1 meaning
+e	exclusion	exclusion	1 meaning
+e	excrement	excrement	1 meaning
+e	excretion	excretion	1 meaning
+e	excursion	excursion	1 meaning
+e	execution	execution	3 meanings
+e	executive	executive	1 meaning
+e	existence	existence	1 meaning
+e	exoplanet	exoplanet	1 meaning
+e	exosphere	exosphere	1 meaning
+e	expansion	expansion	1 meaning
+e	expensive	expensive	1 meaning
+e	expertise	expertise	1 meaning
+e	exploiter	exploiter	1 meaning
+e	explosion	explosion	2 meanings
+e	explosive	explosive	1 meaning
+e	expulsion	expulsion	1 meaning
+e	exquisite	exquisite	1 meaning
+e	extension	extension	10 meanings
+e	extensive	extensive	1 meaning
+e	extortion	extortion	1 meaning
+e	extradite	extradite	1 meaning
+e	extremely	extremely	1 meaning
+e	extremism	extremism	1 meaning
+e	extremist	extremist	1 meaning
+e	extremity	extremity	2 meanings
+e	extrovert	extrovert	1 meaning
+e	exacerbate	exacerbate	1 meaning
+e	exaggerate	exaggerate	1 meaning
+e	exasperate	exasperate	1 meaning
+e	excavation	excavation	1 meaning
+e	excellence	excellence	1 meaning
+e	excellency	excellency	1 meaning
+e	executable	executable	1 meaning
+e	exhibition	exhibition	3 meanings
+e	exhumation	exhumation	1 meaning
+e	exorbitant	exorbitant	1 meaning
+e	exotically	exotically	1 meaning
+e	expatriate	expatriate	6 meanings
+e	expectedly	expectedly	1 meaning
+e	expedition	expedition	1 meaning
+e	experience	experience	4 meanings
+e	experiment	experiment	2 meanings
+e	expiry date	expirydate	1 meaning
+e	explicitly	explicitly	1 meaning
+e	exposition	exposition	2 meanings
+e	expression	expression	5 meanings
+e	expressway	expressway	2 meanings
+e	extinction	extinction	1 meaning
+e	extinguish	extinguish	2 meanings
+e	exultation	exultation	1 meaning
+e	ex-boyfriend	exboyfriend	1 meaning
+e	ex-president	expresident	1 meaning
+e	exaggerated	exaggerated	1 meaning
+e	examination	examination	2 meanings
+e	exceptional	exceptional	2 meanings
+e	excessively	excessively	1 meaning
+e	exclamation	exclamation	1 meaning
+e	exclusive or	exclusiveor	1 meaning
+e	executioner	executioner	2 meanings
+e	exhaust pipe	exhaustpipe	1 meaning
+e	existential	existential	1 meaning
+e	exoskeleton	exoskeleton	1 meaning
+e	expectation	expectation	2 meanings
+e	expectorant	expectorant	1 meaning
+e	expenditure	expenditure	2 meanings
+e	experienced	experienced	1 meaning
+e	explanation	explanation	1 meaning
+e	exploration	exploration	1 meaning
+e	exponential	exponential	3 meanings
+e	extensively	extensively	2 meanings
+e	externalist	externalist	2 meanings
+e	extradition	extradition	1 meaning
+e	extravagant	extravagant	1 meaning
+e	ex-girlfriend	exgirlfriend	1 meaning
+e	exact science	exactscience	1 meaning
+e	exaggeration	exaggeration	1 meaning
+e	exaggerative	exaggerative	1 meaning
+e	exchange rate	exchangerate	1 meaning
+e	exclusionary	exclusionary	1 meaning
+e	exercise ball	exerciseball	1 meaning
+e	exercise book	exercisebook	1 meaning
+e	expansionism	expansionism	1 meaning
+e	experimental	experimental	1 meaning
+e	exploitation	exploitation	1 meaning
+e	express train	expresstrain	1 meaning
+e	exterminator	exterminator	1 meaning
+e	extortionist	extortionist	1 meaning
+e	extra base hit	extrabasehit	1 meaning
+e	extramarital	extramarital	1 meaning
+e	extravagance	extravagance	1 meaning
+e	extreme sport	extremesport	1 meaning
+e	extroversion	extroversion	1 meaning
+e	exceptionally	exceptionally	1 meaning
+e	excommunicate	excommunicate	1 meaning
+e	exhibitionism	exhibitionism	1 meaning
+e	exhibitionist	exhibitionist	1 meaning
+e	expectoration	expectoration	2 meanings
+e	expressionism	expressionism	2 meanings
+e	expropriation	expropriation	1 meaning
+e	extension cord	extensioncord	1 meaning
+e	extractor hood	extractorhood	1 meaning
+e	extrajudicial	extrajudicial	1 meaning
+e	extraordinary	extraordinary	1 meaning
+e	extrapolation	extrapolation	1 meaning
+e	exceptionalism	exceptionalism	1 meaning
+e	exclusive right	exclusiveright	1 meaning
+e	executable code	executablecode	1 meaning
+e	executive order	executiveorder	1 meaning
+e	exhibition game	exhibitiongame	1 meaning
+e	existentialism	existentialism	1 meaning
+e	existentialist	existentialist	1 meaning
+e	exponentiation	exponentiation	1 meaning
+e	expressionless	expressionless	1 meaning
+e	extended family	extendedfamily	1 meaning
+e	extracorporeal	extracorporeal	1 meaning
+e	exchange student	exchangestudent	1 meaning
+e	exclamation mark	exclamationmark	1 meaning
+e	excommunication	excommunication	1 meaning
+e	extracurricular	extracurricular	1 meaning
+e	examination table	examinationtable	1 meaning
+e	exception handler	exceptionhandler	1 meaning
+e	experience points	experiencepoints	1 meaning
+e	extraterrestrial	extraterrestrial	2 meanings
+e	existential crisis	existentialcrisis	1 meaning
+e	exponential growth	exponentialgrowth	1 meaning
+e	extended shinjitai	extendedshinjitai	1 meaning
+e	executive committee	executivecommittee	1 meaning
+e	exponential function	exponentialfunction	1 meaning
+e	extraterritoriality	extraterritoriality	1 meaning
+e	exponential smoothing	exponentialsmoothing	1 meaning
+e	explosive cyclogenesis	explosivecyclogenesis	1 meaning
+e	extrasensory perception	extrasensoryperception	1 meaning
+e	extravehicular activity	extravehicularactivity	1 meaning
+e	exponential distribution	exponentialdistribution	1 meaning

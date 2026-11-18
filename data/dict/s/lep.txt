@@ -1,0 +1,114 @@
+j	エペ	epe	epee (fencing sword)
+k	에페	epe	
+e	epee	epee	1 meaning
+e	epic	epic	2 meanings
+k	에프	epeu	
+k	에픽	epik	
+e	epoch	epoch	1 meaning
+e	epona	epona	1 meaning
+j	エポナ	epona	
+j	閲兵	eppei	整列させた軍の部隊を元首、司令官などが巡視、検閲す…
+k	에펜아	epena	girl
+k	에포나	epona	
+e	epione	epione	1 meaning
+e	epipen	epipen	1 meaning
+e	epirus	epirus	2 meanings
+e	eponym	eponym	1 meaning
+j	エピック	epikku	
+j	エピペン	epipen	epipen (device designed t…
+j	エプロン	epuron	an apron (clothing)
+j	エポック	epokku	時代。
+k	에펜디	ependi	
+k	에피오네	epione	
+e	ephedra	ephedra	1 meaning
+e	ephesus	ephesus	1 meaning
+e	epidote	epidote	1 meaning
+e	epigram	epigram	1 meaning
+e	episode	episode	2 meanings
+e	epitaph	epitaph	1 meaning
+e	epithet	epithet	2 meanings
+e	epitome	epitome	1 meaning
+e	epoxide	epoxide	1 meaning
+e	epsilon	epsilon	1 meaning
+e	epstein	epstein	1 meaning
+j	エピソード	episodo	episode
+j	エピタフ	epitafu	
+j	エピファニー	epifani	
+j	エピロス	epirosu	
+j	エピローグ	epirogu	epilogue
+j	エポニム	eponimu	人名を由来とし、その由来とする人名あるいはその一部…
+j	エープリル	epuriru	「エイプリル」の表記ゆれ。
+k	에펠탑	epeltap	the Eiffel Tower
+k	에푸수수	epususu	
+e	epiblast	epiblast	1 meaning
+e	epicycle	epicycle	1 meaning
+e	epidemic	epidemic	3 meanings
+e	epigraph	epigraph	1 meaning
+e	epilepsy	epilepsy	1 meaning
+e	epilogue	epilogue	2 meanings
+e	epiphany	epiphany	3 meanings
+j	エピゴーネン	epigonen	epigone
+j	エピセンター	episenta	震央。
+j	エペイロス	epeirosu	
+k	에페소스	epesoseu	
+k	에피데믹	epidemik	
+k	에피소드	episodeu	episode
+k	에피타프	epitapeu	
+k	엡실론	epsillon	그리스어 알파벳의 다섯째 글자 이름. Ε / …
+e	epaulette	epaulette	1 meaning
+e	ephedrine	ephedrine	1 meaning
+e	ephemeral	ephemeral	1 meaning
+e	ephesians	ephesians	1 meaning
+e	epicentre	epicentre	2 meanings
+e	epiclesis	epiclesis	1 meaning
+e	epidermis	epidermis	1 meaning
+e	epigraphy	epigraphy	1 meaning
+e	epilation	epilation	1 meaning
+e	epistasis	epistasis	1 meaning
+e	epistaxis	epistaxis	1 meaning
+e	epistemic	epistemic	1 meaning
+j	エピグラフ	epigurafu	
+j	エプシロン	epushiron	epsilon
+j	エプスタイン	epusutain	
+k	에폭시드	epoksideu	
+k	에피타이저	epitaijeo	
+k	에필로그	epillogeu	
+k	엡스타인	epseutain	
+e	epenthesis	epenthesis	1 meaning
+e	epicanthus	epicanthus	1 meaning
+e	epicardium	epicardium	1 meaning
+e	epididymis	epididymis	1 meaning
+e	epiglottis	epiglottis	1 meaning
+e	epimetheus	epimetheus	1 meaning
+e	episiotomy	episiotomy	1 meaning
+e	epithelium	epithelium	1 meaning
+j	エピオルニス	epiorunisu	《分類学》 エピオルニス目エピオルニス科 に分類さ…
+j	エピデミック	epidemikku	特定の地域に感染症が突発的に拡大している状態。
+j	エピネフリン	epinefurin	adrenaline
+j	エピメテウス	epimeteusu	土星の第11衛星の固有名。
+j	エピメーテウス	epimeteusu	ギリシア神話の神。イーアペトスとクリュメネーの息子。
+j	閲兵式	eppeishiki	元首や司令官などが整列した軍隊を閲兵する儀式。
+e	epidemicity	epidemicity	1 meaning
+e	epigenetics	epigenetics	2 meanings
+e	epinephrine	epinephrine	1 meaning
+e	epitrochoid	epitrochoid	1 meaning
+e	epoch-making	epochmaking	1 meaning
+j	エピタラヒリ	epitarahiri	
+k	에푸수수하다	epususuhada	
+k	에피네프린	epinepeurin	
+k	에피메테우스	epimeteuseu	
+e	epicureanism	epicureanism	1 meaning
+e	epidemiology	epidemiology	1 meaning
+e	epistemology	epistemology	1 meaning
+j	エピクレーシス	epikureshisu	epiclesis
+e	e pluribus unum	epluribusunum	1 meaning
+e	epitrachelion	epitrachelion	1 meaning
+e	epstein island	epsteinisland	1 meaning
+j	エピゲネティクス	epigenetikusu	エピジェネティクスの別形。
+j	エピジェネティクス	epijenetikusu	個体発生における遺伝子発現の制御の研究。
+j	エポックメーキング	epokkumekingu	画期的であるさま。
+e	epsilon variant	epsilonvariant	1 meaning
+j	エピジェネティックス	epijenetikkusu	エピジェネティクスの別形。
+j	エポックメイキング	epokkumeikingu	画期的であるさま。
+k	엡실론 변이	epsillonbyeoni	
+j	エペソ人への手紙	epesobitoenotegami	Ephesians

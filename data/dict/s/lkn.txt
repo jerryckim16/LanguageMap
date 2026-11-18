@@ -1,0 +1,46 @@
+e	knee	knee	1 meaning
+e	knit	knit	1 meaning
+e	knot	knot	6 meanings
+e	know	know	4 meanings
+e	knack	knack	1 meaning
+e	knave	knave	2 meanings
+e	knead	knead	2 meanings
+e	kneel	kneel	1 meaning
+e	knife	knife	2 meanings
+e	knock	knock	2 meanings
+e	knoll	knoll	1 meaning
+e	knight	knight	3 meanings
+e	knee pad	kneepad	1 meaning
+e	kneecap	kneecap	1 meaning
+e	knesset	knesset	1 meaning
+e	knocker	knocker	1 meaning
+e	knossos	knossos	1 meaning
+e	know-how	knowhow	1 meaning
+e	knuckle	knuckle	1 meaning
+e	knee-high	kneehigh	1 meaning
+e	knitting	knitting	2 meanings
+e	knitwear	knitwear	1 meaning
+e	knockoff	knockoff	1 meaning
+e	knockout	knockout	1 meaning
+e	knotweed	knotweed	1 meaning
+e	knightess	knightess	1 meaning
+e	knockdown	knockdown	1 meaning
+e	knotgrass	knotgrass	1 meaning
+e	know-it-all	knowitall	1 meaning
+e	knowledge	knowledge	3 meanings
+e	knoxville	knoxville	1 meaning
+e	königsberg	knigsberg	1 meaning
+e	knife block	knifeblock	1 meaning
+e	knock-knock	knockknock	1 meaning
+e	knot theory	knottheory	1 meaning
+e	know thyself	knowthyself	1 meaning
+e	knuckleball	knuckleball	1 meaning
+e	kneaded eraser	kneadederaser	1 meaning
+e	knit one's brows	knitonesbrows	1 meaning
+e	know one's place	knowonesplace	1 meaning
+e	knowledge base	knowledgebase	1 meaning
+e	knickerbockers	knickerbockers	1 meaning
+e	knights templar	knightstemplar	1 meaning
+e	knitting needle	knittingneedle	1 meaning
+e	knowledge is power	knowledgeispower	1 meaning
+e	königsberger klopse	knigsbergerklopse	1 meaning

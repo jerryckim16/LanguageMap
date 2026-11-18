@@ -1,0 +1,720 @@
+e	pyu	pyu	1 meaning
+e	pyx	pyx	1 meaning
+j	ピュー	pyu	
+k	퍄	pya	synonym of ㅗㅜㅑ (ouya)
+k	폐	pye	lung (organ)
+k	표	pyo	ticket
+j	ぴょん	pyon	with an upwards launching…
+j	ピュア	pyua	pure (of heart)
+k	퍅	pyak	
+k	펴	pyeo	
+k	퓸	pyum	fume
+e	pygmy	pygmy	4 meanings
+e	pylon	pylon	3 meanings
+e	pyran	pyran	1 meaning
+j	ピュレ	pyure	
+j	ピューター	pyuta	
+j	ピューマ	pyuma	a puma
+j	ピューレ	pyure	
+k	편	pyeon	side
+k	폄	pyeom	
+k	폐가	pyega	
+k	폐기	pyegi	못 쓰게 된 것을 버림.
+k	폐비	pyebi	
+k	폐사	pyesa	
+k	폐수	pyesu	
+k	폐안	pyean	
+k	폐암	pyeam	lung cancer
+k	폐어	pyeeo	lungfish
+k	폐옥	pyeok	
+k	폐위	pyewi	
+k	폐유	pyeyu	
+k	폐의	pyeui	
+k	폐인	pyein	the handicapped, the crip…
+k	폐제	pyeje	버려서 없애는 것.
+k	폐지	pyeji	abolition; discontinuation
+k	폐포	pyepo	pulmonary alveolus
+k	폐하	pyeha	His Majesty, Your Majesty
+k	폐후	pyehu	
+k	표고	pyogo	shiitake mushroom
+k	표기	pyogi	external inscription
+k	표리	pyori	
+k	표시	pyosi	겉으로 드러내 보임.
+k	표어	pyoeo	slogan; motto
+k	표의	pyoui	semantic or ideographic r…
+k	표제	pyoje	title; heading
+k	표지	pyoji	sign; notice
+k	표토	pyoto	
+k	표피	pyopi	
+k	퓨마	pyuma	puma, mountain lion, coug…
+e	pyrite	pyrite	1 meaning
+e	pyrope	pyrope	1 meaning
+e	python	python	2 meanings
+e	pyuria	pyuria	1 meaning
+j	ぴょこん	pyokon	hopping
+k	펴다	pyeoda	to spread, stretch, or ex…
+k	평	pyeong	criticism
+k	폐간	pyegan	
+k	폐거	pyegeo	
+k	폐교	pyegyo	
+k	폐국	pyeguk	자기 나라를 겸손하게 이르는 말.
+k	폐단	pyedan	evil; negative effect
+k	폐막	pyemak	
+k	폐목	pyemok	
+k	폐문	pyemun	
+k	폐물	pyemul	
+k	폐쇠	pyesoe	한자어 '폐쇄'(閉鎖)의 비표준어.
+k	폐업	pyeeop	
+k	폐차	pyecha	wreck (car that has been …
+k	폐품	pyepum	waste; junk
+k	폐합	pyehap	
+k	폐해	pyehae	
+k	폐허	pyeheo	ruins
+k	폐회	pyehoe	
+k	표독	pyodok	사납고 독살스러움.
+k	표류	pyoryu	물 위에 떠서 정처 없이 흘러감.
+k	표본	pyobon	sample; example; specimen
+k	표식	pyosik	sign; notice
+k	표음	pyoeum	phonetic representation, …
+k	표준	pyojun	standard (level of qualit…
+k	표치	pyochi	취지를 드러내 보임.
+k	퓨란	pyuran	furan
+k	퓨린	pyurin	purine
+k	퓨즈	pyujeu	
+e	pylorus	pylorus	1 meaning
+e	pyongan	pyongan	1 meaning
+e	pyramid	pyramid	2 meanings
+e	pyrosis	pyrosis	1 meaning
+e	pyrrole	pyrrole	1 meaning
+j	ピョンヤン	pyonyan	朝鮮民主主義人民共和国の首都。「평양（平壌）」の音…
+j	ピョートル	pyotoru	a transliteration of the …
+j	平壌	pyonyan	Pyongyang (the capital ci…
+k	펴이다	pyeoida	
+k	편도	pyeondo	almond
+k	편두	pyeondu	
+k	편리	pyeolli	convenience
+k	편모	pyeonmo	single mother
+k	편수	pyeonsu	one hand
+k	편안	pyeonan	being well, comfort, cozi…
+k	편암	pyeonam	schist
+k	편애	pyeonae	partiality; predilection
+k	편의	pyeonui	convenience
+k	편익	pyeonik	
+k	편입	pyeonip	'편입학'.
+k	편자	pyeonja	horseshoe
+k	편제	pyeonje	
+k	편지	pyeonji	letter (written message)
+k	편파	pyeonpa	공정하지 못하고 어느 한쪽으로 치우쳐 있음
+k	편히	pyeonhi	at ease
+k	폄하	pyeomha	derogation; disparagement
+k	평이	pyeongi	easiness, facility
+k	폐강	pyegang	
+k	폐공	pyegong	a tribute
+k	폐관	pyegwan	
+k	폐궁	pyegung	
+k	폐급	pyegeup	military supplies that sh…
+k	폐백	pyebaek	pyebaek (a traditional Ko…
+k	폐색	pyesaek	
+k	폐석	pyeseok	
+k	폐선	pyeseon	
+k	폐쇄	pyeswae	closure, shutdown
+k	폐습	pyeseup	
+k	폐염	pyeyeom	'폐렴'의 비표준어.
+k	폐엽	pyeyeop	
+k	폐장	pyejang	'허파'.
+k	폐적	pyejeok	
+k	폐절	pyejeol	
+k	폐점	pyejeom	
+k	폐지안	pyejian	실시해 오던 제도나 법규, 일 따위를 그만두거…
+k	표범	pyobeom	leopard (Panthera pardus)…
+k	표보기	pyobogi	'검표'의 북한말.
+k	표상	pyosang	
+k	표적	pyojeok	target
+k	표절	pyojeol	plagiarism
+k	표제어	pyojeeo	entry (in a dictionary), …
+k	표하다	pyohada	to express; to show
+k	푯말	pyonmal	
+e	pyinkado	pyinkado	1 meaning
+e	pyometra	pyometra	1 meaning
+e	pyrazine	pyrazine	1 meaning
+e	pyrazole	pyrazole	1 meaning
+e	pyrenees	pyrenees	1 meaning
+e	pyridine	pyridine	1 meaning
+e	pyroxene	pyroxene	1 meaning
+e	pyruvate	pyruvate	1 meaning
+j	ぴょんぴょん	pyonpyon	繰り返し跳ねる様子。
+j	ピューリタン	pyuritan	a Puritan
+j	平昌	pyonchan	Pyeongchang (a county of …
+k	펴지다	pyeojida	
+k	편각	pyeongak	
+k	편달	pyeondal	
+k	편대	pyeondae	formation (of warships, w…
+k	편독	pyeondok	
+k	편람	pyeollam	handbook, manual, guide
+k	편린	pyeollin	small bit, tiny glimpse
+k	편물	pyeonmul	
+k	편복	pyeonbok	bat (small flying mammal)
+k	편식	pyeonsik	partial eclipse
+k	편심	pyeonsim	senior editor
+k	편안이	pyeonani	
+k	편육	pyeonyuk	pyeonyuk (beef or pork th…
+k	편작	pyeonjak	supremely talented doctor
+k	편재	pyeonjae	ubiquitousness
+k	편저	pyeonjeo	
+k	편직	pyeonjik	
+k	편집	pyeonjip	edit
+k	편차	pyeoncha	정도에 의한 차이를 가리키는 말.
+k	폄박	pyeombak	남을 헐뜯고 얕잡음.
+k	폄훼	pyeomhwe	disparagement
+k	평가	pyeongga	evaluation, assessment
+k	평두	pyeongdu	
+k	평로	pyeongno	(농업)
+k	평보	pyeongbo	
+k	평사	pyeongsa	(역사)
+k	평소	pyeongso	the ordinary; ordinary co…
+k	평수	pyeongsu	floor space
+k	평시	pyeongsi	peacetime
+k	평안	pyeongan	peace
+k	평야	pyeongya	plain; flat open country
+k	평어	pyeongeo	
+k	평온	pyeongon	tranquility; calmness
+k	평운	pyeongun	
+k	평의	pyeongui	
+k	평인	pyeongin	
+k	평일	pyeongil	weekday
+k	평자	pyeongja	(역사)
+k	평조	pyeongjo	
+k	평주	pyeongju	
+k	평지	pyeongji	flat land, plain
+k	평토	pyeongto	
+k	폐간호	pyeganho	
+k	폐광	pyegwang	
+k	폐구간	pyegugan	
+k	폐기물	pyegimul	
+k	폐렴	pyeryeom	pneumonia
+k	폐멸	pyemyeol	
+k	폐모음	pyemoeum	
+k	폐정	pyejeong	
+k	폐첨	pyecheom	
+k	표결	pyogyeol	vote
+k	표면	pyomyeon	surface, face
+k	표정	pyojeong	an expression of feeling,…
+k	표주박	pyojubak	조롱박이나 둥근 박을 반으로 쪼개어 만든 작은…
+k	표준시	pyojunsi	
+k	표준어	pyojuneo	standard language
+k	표지판	pyojipan	sign, notice, signboard
+k	표창	pyochang	
+k	표현	pyohyeon	expression (through words…
+k	퓨디파이	pyudipai	
+k	퓨라잔	pyurajan	furazan
+e	pyeonghae	pyeonghae	1 meaning
+e	pyongyang	pyongyang	1 meaning
+e	pyramidic	pyramidic	1 meaning
+e	pyrethrum	pyrethrum	1 meaning
+e	pyrolysis	pyrolysis	1 meaning
+e	pyromania	pyromania	1 meaning
+j	ピュリスム	pyurizumu	
+k	펴내다	pyeonaeda	to publish, to issue
+k	펴낸이	pyeonaeni	synonym of 발행인(發行人) (balh…
+k	펴놓다	pyeonotda	
+k	펴아나다	pyeoanada	'피어나다'의 옛말.
+k	편당	pyeondang	
+k	편마암	pyeonmaam	
+k	편법	pyeonbeop	
+k	편종	pyeonjong	bianzhong
+k	편중	pyeonjung	bias
+k	편지지	pyeonjiji	편지를 쓰는데 사용되는 종이.
+k	편찬	pyeonchan	
+k	편취	pyeonchwi	defrauding; swindling
+k	편하다	pyeonhada	easygoing; comfortable
+k	평각	pyeonggak	항상 180도인 각.
+k	평거	pyeonggeo	
+k	평교	pyeonggyo	
+k	평단	pyeongdan	
+k	평란	pyeongnan	
+k	평론	pyeongnon	어떤 것에 대해서 평가를 내리거나 비평하는 것.
+k	평림	pyeongnim	
+k	평목	pyeongmok	
+k	평문	pyeongmun	
+k	평민	pyeongmin	commoner
+k	평반	pyeongban	
+k	평발	pyeongbal	
+k	평복	pyeongbok	
+k	평분	pyeongbun	
+k	평삭	pyeongsak	
+k	평서	pyeongseo	
+k	평순	pyeongsun	발음할 때에 둥글게 오므리지 않는 입술.
+k	평신	pyeongsin	
+k	평심	pyeongsim	
+k	평언	pyeongeon	
+k	평원	pyeongwon	flat, plain, prairie
+k	평음	pyeongeum	'예사소리'.
+k	평작	pyeongjak	
+k	평저	pyeongjeo	
+k	평좌	pyeongjwa	
+k	평준	pyeongjun	
+k	평직	pyeongjik	
+k	평치	pyeongchi	
+k	평탄	pyeongtan	
+k	평판	pyeongpan	reputation
+k	평해	pyeonghae	Pyeonghae, a town in Nort…
+k	평화	pyeonghwa	peace
+k	평회	pyeonghoe	비평하는 모임.
+k	폐경	pyegyeong	menopause
+k	폐기종	pyegijong	pulmonary emphysema
+k	폐기하다	pyegihada	
+k	폐막식	pyemaksik	closing ceremony
+k	폐병	pyebyeong	
+k	폐사하다	pyesahada	
+k	폐쇄기	pyeswaegi	
+k	폐수관	pyesugwan	
+k	폐수종	pyesujong	
+k	폐장암	pyejangam	
+k	폐지하다	pyejihada	to abolish, repeal, disco…
+k	폐집합	pyejiphap	
+k	폐합하다	pyehapada	
+k	폐회식	pyehoesik	closing ceremony
+k	표기법	pyogibeop	notation, orthography
+k	표기하다	pyogihada	to write; to note; to tra…
+k	표명	pyomyeong	의사나 태도를 분명하게 드러냄.
+k	표백제	pyobaekje	bleach (chemical)
+k	표시하다	pyosihada	to express, state
+k	표준궤	pyojungwe	standard gauge
+k	표준말	pyojunmal	'표준어'.
+k	표준화	pyojunhwa	standardization
+e	pyatigorsk	pyatigorsk	1 meaning
+e	pyeongtaek	pyeongtaek	1 meaning
+e	pyridazine	pyridazine	1 meaning
+e	pyridoxine	pyridoxine	1 meaning
+e	pyrimidine	pyrimidine	1 meaning
+e	pyromaniac	pyromaniac	1 meaning
+e	pyrophobia	pyrophobia	1 meaning
+e	pythagoras	pythagoras	1 meaning
+j	ぴょこぴょこ	pyokopyoko	hopping
+j	ピュグマイオイ	pyugumaioi	Pygmies
+j	平昌邑	pyonchanyu	
+k	편견	pyeongyeon	prejudice; bias
+k	편력	pyeollyeok	
+k	편리화	pyeollihwa	'운동화'의 북한말.
+k	편면	pyeonmyeon	
+k	편모류	pyeonmoryu	
+k	편벽	pyeonbyeok	
+k	편성	pyeonseong	organization; formation; …
+k	편승	pyeonseung	
+k	편입학	pyeoniphak	
+k	편저자	pyeonjeoja	
+k	편제표	pyeonjepyo	
+k	편집기	pyeonjipgi	editor (program for modif…
+k	편집부	pyeonjipbu	
+k	편집인	pyeonjibin	editor
+k	편집자	pyeonjipja	editor
+k	편철	pyeoncheol	
+k	편충	pyeonchung	
+k	편향	pyeonhyang	
+k	편협	pyeonhyeop	narrow-mindedness
+k	펼치다	pyeolchida	to stretch; to lay out; t…
+k	평가자	pyeonggaja	
+k	평강	pyeonggang	
+k	평관	pyeonggwan	
+k	평균	pyeonggyun	average; mean
+k	평당	pyeongdang	
+k	평맥	pyeongmaek	
+k	평미레	pyeongmire	
+k	평방	pyeongbang	the second power of a num…
+k	평범	pyeongbeom	commonness; commonplacene…
+k	평사포	pyeongsapo	
+k	평상	pyeongsang	low wooden bench
+k	평석	pyeongseok	(역사)
+k	평수위	pyeongsuwi	1년 중 185일동안은 이 수위로 내려가지 않…
+k	평시조	pyeongsijo	
+k	평안도	pyeongando	Pyongan (a province of Ko…
+k	평안히	pyeonganhi	
+k	평양	pyeongyang	Pyongyang (the capital ci…
+k	평열	pyeongyeol	
+k	평온히	pyeongonhi	
+k	평입자	pyeongipja	
+k	평장	pyeongjang	
+k	평전	pyeongjeon	critical biography
+k	평점	pyeongjeom	
+k	평택	pyeongtaek	[~시(市)] Pyeongtaek (a cit…
+k	평토제	pyeongtoje	
+k	폐각근	pyegakgeun	
+k	폐간하다	pyeganhada	
+k	폐곡선	pyegokseon	
+k	폐기되다	pyegidoeda	
+k	폐백반	pyebaekban	
+k	폐쇄음	pyeswaeeum	'파열음'.
+k	폐업하다	pyeeophada	
+k	폐음절	pyeeumjeol	
+k	폐지되다	pyejidoeda	to be annulled; to be rep…
+k	폐차하다	pyechahada	
+k	폐회하다	pyehoehada	
+k	표어문자	pyoeomunja	logogram
+k	표의문자	pyouimunja	ideogram
+k	표표하다	pyopyohada	사람의 생김새나 풍채, 옷차림 따위가 눈에 띄…
+k	표현미	pyohyeonmi	
+e	pyeongchang	pyeongchang	3 meanings
+e	pyrocumulus	pyrocumulus	1 meaning
+e	pyrokinesis	pyrokinesis	1 meaning
+e	pyrrhuloxia	pyrrhuloxia	1 meaning
+e	pyruvic acid	pyruvicacid	1 meaning
+j	ピュタゴラス	pyutagorasu	「ピタゴラス」の表記ゆれ。
+j	ピュータゴラース	pyutagorasu	
+j	平倉洞	pyonchandon	
+j	平昌郡	pyonchangun	
+k	펴낸곳	pyeonaengot	synonym of 출판사(出版社) (chul…
+k	편 번호	pyeonbeonho	
+k	편경	pyeongyeong	bianqing
+k	편도선	pyeondoseon	tonsil
+k	편도염	pyeondoyeom	tonsillitis
+k	편두통	pyeondutong	
+k	편리하다	pyeollihada	convenient and useful
+k	편모균	pyeonmogyun	
+k	편안하다	pyeonanhada	comfortable, relaxed, eas…
+k	편의점	pyeonuijeom	convenience store
+k	편의주의	pyeonuijuui	
+k	편적운	pyeonjeogun	
+k	편제하다	pyeonjehada	각각의 것을 모아 군대나 단체 등을 조직하다.
+k	편집실	pyeonjipsil	
+k	편찮다	pyeonchanta	to be ill, sick
+k	편파적	pyeonpajeok	공정하지 못하고 한쪽으로 치우친.
+k	평견	pyeonggyeon	
+k	평결	pyeonggyeol	verdict, decision
+k	평고대	pyeonggodae	
+k	평교사	pyeonggyosa	
+k	평교자	pyeonggyoja	
+k	평년	pyeongnyeon	
+k	평등	pyeongdeung	equality
+k	평론가	pyeongnonga	critic, reviewer
+k	평리원	pyeongniwon	
+k	평면	pyeongmyeon	plane (level or flat surf…
+k	평민어	pyeongmineo	
+k	평분시	pyeongbunsi	
+k	평사원	pyeongsawon	
+k	평생	pyeongsaeng	one's entire life, lifeti…
+k	평성	pyeongseong	level tone (one of the fo…
+k	평순히	pyeongsunhi	
+k	평승	pyeongseung	
+k	평신도	pyeongsindo	
+k	평안계	pyeongangye	
+k	평영	pyeongyeong	얼굴을 내민 다음 다시 잠수를 하는 수영방법.
+k	평의원	pyeonguiwon	
+k	평의회	pyeonguihoe	council
+k	평이하다	pyeongihada	to be easy; to be simple;…
+k	평정	pyeongjeong	calmness; peace
+k	평지림	pyeongjirim	
+k	평창	pyeongchang	Pyeongchang (a city and c…
+k	평측	pyeongcheuk	평자(平字)와 측자(仄字)라는 뜻으로, 한문의…
+k	평탄히	pyeongtanhi	바닥이 평평하게.
+k	평판기	pyeongpangi	
+k	평행	pyeonghaeng	parallel
+k	평화리	pyeonghwari	
+k	평화시	pyeonghwasi	
+k	폐간되다	pyegandoeda	
+k	폐강하다	pyeganghada	
+k	폐경기	pyegyeonggi	menopause
+k	폐동맥	pyedongmaek	
+k	폐쇄적	pyeswaejeok	
+k	폐쇄하다	pyeswaehada	개방된 곳을 닫다.
+k	폐수처리	pyesucheori	
+k	폐전색	pyejeonsaek	
+k	폐환하다	pyehwanhada	
+k	폐회되다	pyehoedoeda	
+k	표를 하다	pyoreulhada	
+k	표믕롬	pyomeungnom	inverted question mark (¿)
+k	표범피부	pyobeompibu	leopardskin
+k	표음문자	pyoeummunja	말소리를 그대로 기호로 나타낸 문자. 한글, …
+k	표준시간	pyojunsigan	
+k	표준시계	pyojunsigye	시각의 표준이 되는 정확한 시계.
+k	표창식	pyochangsik	
+e	pyrophyllite	pyrophyllite	1 meaning
+e	pyrotechnics	pyrotechnics	1 meaning
+j	ピューリッツァー賞	pyurittsasho	
+k	편가르기	pyeongareugi	a game used to split teams
+k	편모조류	pyeonmojoryu	
+k	편모충	pyeonmochung	편모충류
+k	편직물	pyeonjingmul	
+k	편집관	pyeonjipgwan	
+k	편집장	pyeonjipjang	editor-in-chief
+k	편집하다	pyeonjiphada	to edit
+k	편집후기	pyeonjiphugi	
+k	편파성	pyeonpaseong	
+k	편히 쉬라	pyeonhiswira	
+k	평가하다	pyeonggahada	to evaluate, to assess, t…
+k	평경	pyeonggyeong	
+k	평교간	pyeonggyogan	
+k	평균시	pyeonggyunsi	
+k	평균의	pyeonggyunui	
+k	평균인	pyeonggyunin	
+k	평대문	pyeongdaemun	
+k	평로강	pyeongnogang	
+k	평론계	pyeongnongye	
+k	평론집	pyeongnonjip	
+k	평명	pyeongmyeong	
+k	평민회	pyeongminhoe	
+k	평범히	pyeongbeomhi	
+k	평상시	pyeongsangsi	
+k	평서문	pyeongseomun	화자가 사건의 내용을 객관적으로 진술하는 문장.
+k	평안하다	pyeonganhada	
+k	평오량	pyeongoryang	
+k	평온하다	pyeongonhada	매우 고요하고 잔잔하다.
+k	평의하다	pyeonguihada	
+k	평준화	pyeongjunhwa	
+k	평토장	pyeongtojang	
+k	평토하다	pyeongtohada	
+k	평형	pyeonghyeong	balance, equilibrium
+k	평활도	pyeonghwaldo	
+k	폐강되다	pyegangdoeda	
+k	폐결핵	pyegyeolhaek	
+k	폐렴균	pyeryeomgyun	
+k	폐쇄되다	pyeswaedoeda	문 등이 닫히다.
+k	폐일언하다	pyeireonhada	(주로 '폐일언하고' 꼴로 쓰여) 이러니저러니…
+k	폐정맥	pyejeongmaek	
+k	폐출혈	pyechulhyeol	
+k	폐혈관	pyehyeolgwan	
+k	폐활량	pyehwallyang	
+k	표고버섯	pyogobeoseot	synonym of 표고 (pyogo, “sh…
+k	표면적	pyomyeonjeok	겉으로 나타나 보이는.
+k	표준 아랍어	pyojunarabeo	
+k	표현법	pyohyeonbeop	표현하는 방법.
+k	표현주의	pyohyeonjuui	20세기초에 일어난 미술의 한 양식을 가리키는…
+k	표현하다	pyohyeonhada	to express (a thought or …
+e	pyramid scheme	pyramidscheme	1 meaning
+k	편당적	pyeondangjeok	
+k	편모슬하	pyeonmoseulha	'편모시하'.
+k	편모운동	pyeonmoundong	
+k	편성표	pyeonseongpyo	
+k	편수 냄비	pyeonsunaembi	
+k	편안히 하다	pyeonanhihada	
+k	편의금고	pyeonuigeumgo	'전당포'의 북한말.
+k	편지봉투	pyeonjibongtu	편지를 넣는 봉투.
+k	편집광	pyeonjipgwang	
+k	편집위원	pyeonjibwiwon	
+k	편집증	pyeonjipjeung	paranoia
+k	편취하다	pyeonchwihada	남을 속이어 재물이나 이익 따위를 빼앗다.
+k	편층운	pyeoncheungun	
+k	펼쳐지다	pyeolcheojida	to unfold
+k	평가되다	pyeonggadoeda	
+k	평균대	pyeonggyundae	
+k	평균율	pyeonggyunyul	
+k	평균치	pyeonggyunchi	
+k	평균화	pyeonggyunhwa	
+k	평길하다	pyeonggilhada	
+k	평두량	pyeongduryang	
+k	평두정	pyeongdujeong	
+k	평란하다	pyeongnanhada	
+k	평량자	pyeongnyangja	
+k	평론하다	pyeongnonhada	사물의 가치, 우열 등을 평가하다.
+k	평면도	pyeongmyeondo	집이나 구조물을 하늘에서 아래로 바라본 상태로…
+k	평면미	pyeongmyeonmi	
+k	평면파	pyeongmyeonpa	
+k	평민적	pyeongminjeok	
+k	평민주의	pyeongminjuui	
+k	평범한	pyeongbeomhan	
+k	평범화	pyeongbeomhwa	
+k	평복하다	pyeongbokhada	
+k	평분하다	pyeongbunhada	
+k	평사낙안	pyeongsanagan	
+k	평상복	pyeongsangbok	
+k	평생도	pyeongsaengdo	
+k	평서법	pyeongseobeop	
+k	평수량	pyeongsuryang	
+k	평순하다	pyeongsunhada	
+k	평신하다	pyeongsinhada	
+k	평안남도	pyeongannamdo	South Pyongan (a province…
+k	평안북도	pyeonganbukdo	North Pyongan, North Pyeo…
+k	평의되다	pyeonguidoeda	
+k	평좌하다	pyeongjwahada	
+k	평준법	pyeongjunbeop	
+k	평준점	pyeongjunjeom	
+k	평준하다	pyeongjunhada	
+k	평천하	pyeongcheonha	
+k	평측자	pyeongcheukja	
+k	평치하다	pyeongchihada	
+k	평탄하다	pyeongtanhada	
+k	평판하다	pyeongpanhada	
+k	평행의	pyeonghaengui	
+k	평허하다	pyeongheohada	
+k	평화유지	pyeonghwayuji	peacekeeping
+k	평화적	pyeonghwajeok	peaceful
+k	평화주의	pyeonghwajuui	pacifism
+k	평화하다	pyeonghwahada	평온하고 화목하다.
+k	폐차처분	pyechacheobun	
+k	표견대리	pyogyeondaeri	(법률) 대리권이 없는 자가 대리 행위를 한 …
+k	표명하다	pyomyeonghada	
+k	표범상어	pyobeomsangeo	leopard shark, catshark, …
+k	표본 공간	pyobongonggan	
+k	표현되다	pyohyeondoeda	to be expressed, to be re…
+k	퓨처 베이스	pyucheobeiseu	
+k	퓨처 하우스	pyucheohauseu	
+e	pyramidal tract	pyramidaltract	1 meaning
+e	pyrrhic victory	pyrrhicvictory	1 meaning
+j	ピャチゴルスク	pyachigorusuku	Pyatigorsk (a spa city in…
+j	ピュロスの勝利	pyurosunoshori	
+k	편서풍파	pyeonseopungpa	편서풍에서 나타나는 기류의 파동.
+k	편성하다	pyeonseonghada	
+k	편집병	pyeonjipbyeong	paranoia
+k	편편하다	pyeonpyeonhada	comfortable
+k	편향된	pyeonhyangdoen	
+k	편향적	pyeonhyangjeok	한쪽으로만 치우친.
+k	편협하다	pyeonhyeophada	provincial, narrow-minded
+k	편히 있어요	pyeonhiisseoyo	
+k	평가절하	pyeonggajeolha	
+k	평균기온	pyeonggyungion	
+k	평균적	pyeonggyunjeok	
+k	평균점	pyeonggyunjeom	
+k	평균하다	pyeonggyunhada	
+k	평년값	pyeongnyeongap	일정 지역의 기후를 나타내기 위하여 관측된 기…
+k	평년작	pyeongnyeonjak	
+k	평년치	pyeongnyeonchi	
+k	평등심	pyeongdeungsim	
+k	평란되다	pyeongnandoeda	
+k	평량립	pyeongnyangnip	
+k	평론되다	pyeongnondoeda	
+k	평면각	pyeongmyeongak	
+k	평방근	pyeongbanggeun	'제곱근'.
+k	평범하다	pyeongbeomhada	average, ordinary, common…
+k	평사도법	pyeongsadobeop	
+k	평순모음	pyeongsunmoeum	입술을 둥글게 오므리지 않고 발음하는 모음. …
+k	평심서기	pyeongsimseogi	
+k	평연하다	pyeongyeonhada	평범하고 자연스럽다.
+k	평장하다	pyeongjanghada	
+k	평정심	pyeongjeongsim	peace of mind
+k	평준되다	pyeongjundoeda	
+k	평지풍파	pyeongjipungpa	
+k	평창군	pyeongchanggun	
+k	평창읍	pyeongchangeup	
+k	평측식	pyeongcheuksik	
+k	평평히	pyeongpyeonghi	
+k	평행한	pyeonghaenghan	
+k	평형세	pyeonghyeongse	
+k	평화 조약	pyeonghwajoyak	
+k	평화롭다	pyeonghwaropda	peaceful, pacific, amicab…
+k	평화면	pyeonghwamyeon	
+k	평화조약	pyeonghwajoyak	
+k	평활근	pyeonghwalgeun	
+k	평활하다	pyeonghwalhada	
+k	폐색장치	pyesaekjangchi	
+k	표준 편차	pyojunpyeoncha	(통계) 분산 (variance)에 양의 제곱…
+k	표현의 자유	pyohyeonuijayu	
+k	표현형	pyohyeonhyeong	phenotype
+k	퓰리처상	pyullicheosang	
+e	pygmy chimpanzee	pygmychimpanzee	1 meaning
+e	pyroclastic flow	pyroclasticflow	1 meaning
+k	편대비행	pyeondaebihaeng	
+k	편도선염	pyeondoseonyeom	
+k	편모충류	pyeonmochungnyu	편모충강의 원생동물.
+k	편찮으시다	pyeonchaneusida	to be ill, sick: honorifi…
+k	편히 쉬소서	pyeonhiswisoseo	
+k	평결하다	pyeonggyeolhada	
+k	평균량	pyeonggyullyang	
+k	평등관	pyeongdeunggwan	
+k	평등권	pyeongdeunggwon	헌법에 근거해서 국민 모두가 자유를 누릴 수 …
+k	평등주의	pyeongdeungjuui	
+k	평등하다	pyeongdeunghada	사람 사이에 차별이 없고 올바른 대우를 하다.
+k	평면적	pyeongmyeonjeok	
+k	평면지도	pyeongmyeonjido	
+k	평명체	pyeongmyeongche	
+k	평민층	pyeongmincheung	
+k	평방메터	pyeongbangmeteo	
+k	평방미터	pyeongbangmiteo	square metre
+k	평서형	pyeongseohyeong	(언어) 용언 및 서술격 조사 '이다'의 활용…
+k	평시징발	pyeongsijingbal	
+k	평시편제	pyeongsipyeonje	
+k	평정건	pyeongjeonggeon	
+k	평정법	pyeongjeongbeop	
+k	평정하다	pyeongjeonghada	to suppress; to repress; …
+k	평지낙상	pyeongjinaksang	
+k	평지돌출	pyeongjidolchul	
+k	평창동	pyeongchangdong	
+k	평천관	pyeongcheongwan	
+k	평판인쇄	pyeongpaninswae	
+k	평편하다	pyeongpyeonhada	
+k	평행맥	pyeonghaengmaek	
+k	평행봉	pyeonghaengbong	
+k	평행선	pyeonghaengseon	parallel lines
+k	평행하다	pyeonghaenghada	to be parallel
+k	평형추	pyeonghyeongchu	
+k	평화 회담	pyeonghwahoedam	
+k	평화공세	pyeonghwagongse	
+k	평화산업	pyeonghwasaneop	
+k	평화운동	pyeonghwaundong	
+k	평화주의자	pyeonghwajuuija	
+k	평화통일	pyeonghwatongil	
+k	폐색전선	pyesaekjeonseon	
+k	폐활량계	pyehwallyanggye	
+e	pyroligneous acid	pyroligneousacid	1 meaning
+e	pyrénées-orientales	pyrnesorientales	1 meaning
+k	편력하는	pyeollyeokhaneun	
+k	편집 분쟁	pyeonjipbunjaeng	edit war
+k	편하게 있어요	pyeonhageisseoyo	
+k	평가발행	pyeonggabalhaeng	
+k	평가절상	pyeonggajeolsang	
+k	평강의 왕	pyeongganguiwang	
+k	평결되다	pyeonggyeoldoeda	
+k	평균정오	pyeonggyunjeongo	
+k	평면묘사	pyeongmyeonmyosa	
+k	평민계급	pyeongmingyegeup	
+k	평생소원	pyeongsaengsowon	
+k	평생토록	pyeongsaengtorok	
+k	평소처럼	pyeongsocheoreom	
+k	평시봉쇄	pyeongsibongswae	
+k	평정기준	pyeongjeonggijun	
+k	평정되다	pyeongjeongdoeda	
+k	평평하다	pyeongpyeonghada	표면이 매끄럽고 거칠지 않다.
+k	평행되다	pyeonghaengdoeda	
+k	평행력	pyeonghaengnyeok	
+k	평행면	pyeonghaengmyeon	
+k	평행이동	pyeonghaengidong	
+k	평형하다	pyeonghyeonghada	
+k	평화 유지군	pyeonghwayujigun	
+k	평화공존	pyeonghwagongjon	
+k	폐소공포증	pyesogongpojeung	claustrophobia
+k	표준발음법	pyojunbareumbeop	어떤 언어에 대한 발음상의 규칙과 규범
+k	편지 공화국	pyeonjigonghwaguk	
+k	평균태양	pyeonggyuntaeyang	
+k	평균풍속	pyeonggyunpungsok	
+k	평등사상	pyeongdeungsasang	
+k	평면경	pyeongmyeongyeong	
+k	평면형	pyeongmyeonhyeong	'평면도형'.
+k	평생교육	pyeongsaenggyoyuk	
+k	평정해산	pyeongjeonghaesan	
+k	폐실공포증	pyesilgongpojeung	synonym of 폐소공포증(閉所恐怖症) (…
+k	표면장력	pyomyeonjangnyeok	surface tension
+k	표범장지뱀	pyobeomjangjibaem	Mongolian racerunner (Ere…
+e	pythagorean theorem	pythagoreantheorem	1 meaning
+k	편형동물	pyeonhyeongdongmul	
+k	평균수명	pyeonggyunsumyeong	
+k	평등선거	pyeongdeungseongeo	
+k	평등성지	pyeongdeungseongji	
+k	평면곡선	pyeongmyeongokseon	
+k	평시점령	pyeongsijeomnyeong	
+k	평행직선	pyeonghaengjikseon	
+k	평형감각	pyeonghyeonggamgak	
+k	평형기관	pyeonghyeonggigwan	
+k	평화 협상	pyeonghwahyeopsang	
+k	평화스럽다	pyeonghwaseureopda	걱정이나 탈이 없이 조용하고 화목한 듯하다.
+k	폐쇄공포증	pyeswaegongpojeung	synonym of 폐소공포증(閉所恐怖症) (…
+k	폐쇄성 수역	pyeswaeseongsuyeok	외부로부터 들어오는 또는 외부로 나가는 물의 …
+k	편도 승차권	pyeondoseungchagwon	
+k	편협한 신앙	pyeonhyeophansinang	
+k	평균속력	pyeonggyunsongnyeok	
+k	평면대칭	pyeongmyeondaeching	
+k	평면도형	pyeongmyeondohyeong	평면에 그려진 도형.
+k	평형기능	pyeonghyeonggineung	
+k	평형하천	pyeonghyeonghacheon	
+k	폐열회수보일러	pyeyeolhoesuboilleo	가스터빈 에서 발생한 고온의 배기열을 회수하여…
+k	평균연령	pyeonggyunyeollyeong	
+k	평상시처럼	pyeongsangsicheoreom	
+k	평양냉면	pyeongyangnaengmyeon	메밀국수에 찬 장국을 부어 만든 평양의 향토 …
+k	평판측량	pyeongpancheungnyang	
+k	평균자책점	pyeonggyunjachaekjeom	ERA; earned run average
+k	평화혁명	pyeonghwahyeongmyeong	
+k	편미분방정식	pyeonmibunbangjeongsik	
+k	평면측량	pyeongmyeoncheungnyang	
+k	평정심이 있는	pyeongjeongsimiissneun	
+k	평평탄탄하다	pyeongpyeongtantanhada	
+k	평행육면체	pyeonghaengyungmyeonche	평행사변형의 면이 6개인 다면체를 가리키는 말.
+k	평행사변형	pyeonghaengsabyeonhyeong	두 쌍의 대변이 평행한 사각형.
+k	편집성 성격 장애	pyeonjipseongseonggyeokjangae	
+k	평안 감사도 저 싫으면 그만이다	pyeongangamsadojeosileumyeongeumanida	아무리 좋은 것이라도 자신이 하지 않으려면 소…

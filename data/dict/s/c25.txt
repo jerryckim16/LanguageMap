@@ -1,0 +1,1654 @@
+j	丙	丙	the third of the ten heav…
+j	乙	乙	the second of the ten Cel…
+j	仙	仙	a sage or hermit, an enli…
+j	余	余	over, more than, a little…
+j	候	候	the season, the weather o…
+j	務	務	a male given name
+j	匙	匙	spoon, scoop
+j	塙	塙	a place name
+j	夙	夙	early time, especially ea…
+j	妙	妙	strange
+j	宙	宙	mid-air
+j	帙	帙	a type of protective case…
+j	彙	彙	to sort and collect by ca…
+j	恙	恙	disaster; calamity
+j	拙	拙	（セツ）得意でない事、苦手。
+j	挙	挙	行動。くわだて。ふるまい。
+j	教	教	teaching
+j	料	料	fee, cost
+j	曙	曙	dawn (the time when night…
+j	標	標	sign
+j	橙	橙	the bitter orange (Citrus…
+j	沙	沙	one hundred millionth (1 …
+j	涙	涙	tear, teardrop
+j	煙	煙	smoke
+j	牙	牙	fang, tusk, tooth (partic…
+j	留	留	（リュウ）惑星の動きが順行から逆行へ、もしくは逆行…
+j	笙	笙	a free-reed woodwind musi…
+j	箙	箙	a box-shaped quiver with …
+j	紙	紙	paper
+j	継	継	the joining of things tog…
+j	蒙	蒙	the fourth of the sixty-f…
+j	蛙	蛙	a frog (amphibious animal)
+j	裙	裙	skirt hem
+j	鄙	鄙	a countrified or rustic p…
+j	鐙	鐙	stirrup
+j	隙	隙	gap; space
+j	霙	霙	sleet
+j	静	静	quiet
+j	香	香	a pleasant smell; a scent…
+j	鮙	鮙	
+j	鵙	鵙	
+k	병	丙	bottle; jar
+k	쌍	雙	pair
+k	을	乙	B; used to enumerate the …
+k	적	炙	enemy; opponent; adversary
+k	조	趙	foxtail millet (Setaria i…
+k	질	帙	quality
+k	향	香	incense
+j	丙丁	丙丁	十干の丙と丁。
+j	丙午	丙午	Fire Horse, the forty-thi…
+j	丙夜	丙夜	third watch of the five n…
+j	丙子	丙子	Fire Rat, the thirteenth …
+j	丙寅	丙寅	Fire Tiger, the third ter…
+j	丙戌	丙戌	Fire Dog, the twenty-thir…
+j	丙申	丙申	Fire Monkey, the thirty-t…
+j	丙種	丙種	third class
+j	丙辰	丙辰	Fire Dragon, the fifty-th…
+j	乙丑	乙丑	Wood Ox, the second term …
+j	乙乙	乙乙	進み難いさま。
+j	乙亥	乙亥	Wood Boar, the twelfth te…
+j	乙卯	乙卯	Wood Rabbit, the fifty-se…
+j	乙夜	乙夜	second watch of the five …
+j	乙女	乙女	daughter
+j	乙姫	乙姫	Otohime, princess of Ryūg…
+j	乙子	乙子	youngest child
+j	乙巡	乙巡	second-class cruiser
+j	乙巳	乙巳	Wood Snake, the forty-sec…
+j	乙未	乙未	Wood Sheep, the thirty-se…
+j	乙波	乙波	貿易の相手方に対し、取引の諸条件（価格、納期、決済…
+j	乙涼	乙涼	a female given name
+j	乙科	乙科	漢代、三部門あった官吏任用試験のうちの第一。
+j	乙種	乙種	second-class (I.E. of les…
+j	乙繞	乙繞	漢字の部首「⼄」が繞である場合の呼称。
+j	乙部	乙部	部首「⼄」で分類した漢字の一群。
+j	乙酉	乙酉	Wood Rooster, the twenty-…
+j	乙類	乙類	shochu produced by simple…
+j	乙鳥	乙鳥	「ツバメ」の異称。
+j	亙絶	亙絶	遠く隔たっていること。また、そのさま。
+j	仙一	仙一	a male given name
+j	仙丹	仙丹	elixir (of life)
+j	仙人	仙人	immortal mountain fairy o…
+j	仙仗	仙仗	天子の儀仗。
+j	仙北	仙北	Senboku (a city in Akita …
+j	仙去	仙去	仙人となって世を去ること。仙逝。
+j	仙台	仙台	Sendai (the capital city …
+j	仙境	仙境	fairyland, enchanted land
+j	仙女	仙女	a nymph
+j	仙好	仙好	a male given name
+j	仙娥	仙娥	女性の仙人。仙女。
+j	仙子	仙子	immortal
+j	仙客	仙客	仙人。
+j	仙宮	仙宮	仙人が住む場所。
+j	仙家	仙家	仙人が住む所。
+j	仙寰	仙寰	fairyland
+j	仙方	仙方	神仙の方術。仙術。
+j	仙族	仙族	神仙の一族。
+j	仙椎	仙椎	a sacral vertebra
+j	仙楽	仙楽	仙人が演奏する美しい音楽。
+j	仙氅	仙氅	鶴氅。
+j	仙法	仙法	the mystical arts of a ho…
+j	仙洞	仙洞	仙人の居所。
+j	仙源	仙源	仙境。
+j	仙界	仙界	a secluded place
+j	仙禽	仙禽	仙界に住むといわれている霊鳥。
+j	仙窟	仙窟	仙人が暮らす洞穴。
+j	仙籍	仙籍	殿上人の名札。
+j	仙職	仙職	天子の詞臣。
+j	仙茅	仙茅	dried rhizome of Curculig…
+j	仙蓼	仙蓼	センリョウ科の常緑小低木。
+j	仙薬	仙薬	飲めば不老不死となるという薬。
+j	仙術	仙術	magic of an immortal
+j	仙逝	仙逝	仙人となって世を去ること。仙去。
+j	仙道	仙道	仙人が使う方術。
+j	仙郷	仙郷	仙人が暮らしているという土地。
+j	仙院	仙院	上皇、法皇が暮らす御所。仙洞。
+j	仙頭	仙頭	a surname
+j	仙骨	仙骨	the unworldly appearance …
+j	仙髄	仙髄	脊髄で仙椎がとおる部分。
+j	余す	余す	to leave over, to spare
+j	余り	余り	excessive, extreme
+j	余る	余る	be left over
+j	余事	余事	そのこと以外の事。
+j	余人	余人	other people; others
+j	余儀	余儀	another method
+j	余光	余光	日が暮れても残っている光。
+j	余党	余党	伐ち漏らした徒党。残党。
+j	余分	余分	rest; remaining
+j	余切	余切	余接の異表記。
+j	余剰	余剰	余り。残り。剰余。
+j	余割	余割	cosecant
+j	余力	余力	spare energy, time, money
+j	余勢	余勢	余分な勢い。はずみ。
+j	余味	余味	an aftertaste
+j	余命	余命	remaining length of life …
+j	余善	余善	念仏以外の他の善行。
+j	余喘	余喘	息が絶えそうであるが、まだ息をしていること。虫の息。
+j	余国	余国	ほかの国。他国。外国。
+j	余地	余地	room, margin, space, vaca…
+j	余執	余執	心から離れない執念。
+j	余声	余声	後に残る声や音。
+j	余威	余威	あることを達成した後に残った勢い。余勢。
+j	余子	余子	any child who is not the …
+j	余宮	余宮	a surname
+j	余寒	余寒	春になっても寒いこと。
+j	余年	余年	死ぬまでの人生。
+j	余弦	余弦	cosine
+j	余得	余得	余分な利得、利益。
+j	余徳	余徳	先人が残した恩徳。余沢。
+j	余念	余念	thinking of something else
+j	余恵	余恵	本来受けるはずでなかった恩恵。
+j	余情	余情	行為や表現のあとに残る印象や趣。
+j	余意	余意	implied meaning
+j	余慶	余慶	祖先の善行のお陰で子孫が得る幸福。
+j	余憤	余憤	静まらないで残っている怒り。
+j	余所	余所	another place; somewhere …
+j	余技	余技	hobby
+j	余接	余接	cotangent
+j	余映	余映	後に残存するかがやき。
+j	余暇	余暇	free time; leisure; spare…
+j	余材	余材	余分な材料や材木。
+j	余栄	余栄	死後に残る名誉。
+j	余桃	余桃	食べ残しの桃。
+j	余殃	余殃	祖先の悪事の報いが災いとなり子孫に残ること。
+j	余沢	余沢	blessings
+j	余波	余波	aftermath; after-effect
+j	余澤	余澤	Yosawa, a Japanese family…
+j	余瀝	余瀝	器の底に残った酒や汁などの雫。
+j	余熱	余熱	remaining heat
+j	余燼	余燼	何かが燃えた残り。もえさし。
+j	余生	余生	remaining length of life …
+j	余白	余白	whitespace
+j	余矢	余矢	coversine; coversed sine
+j	余禄	余禄	余分の所得。正規の収入以外の利益。
+j	余程	余程	very much, very many, a g…
+j	余算	余算	（古）残りの寿命。余命。
+j	余罪	余罪	現在問われている罪以外に犯した罪。
+j	余習	余習	昔から残る習慣。余臭。
+j	余聞	余聞	本筋から外れた事柄。聞き漏れ、記録されていない事柄…
+j	余臭	余臭	後に残存しているにおい。
+j	余興	余興	extra entertainment, side…
+j	余色	余色	
+j	余芳	余芳	残存している芳香。
+j	余薫	余薫	後に残る香り。余香。
+j	余蘊	余蘊	余分な蓄え。
+j	余裔	余裔	子孫。末裔。
+j	余裕	余裕	surplus
+j	余西	余西	a surname
+j	余角	余角	complementary angle
+j	余計	余計	excessive, unnecessary, u…
+j	余詰	余詰	詰将棋で、意図したもの以外の解答。
+j	余話	余話	世間にあまり知られていない事柄。余談。余聞。
+j	余説	余説	本文を補足する説明。
+j	余談	余談	digression, aside, sequel…
+j	余論	余論	本論を補うために付け加えられる論。
+j	余財	余財	余分な財産、財物。
+j	余贏	余贏	のこり。あまり。
+j	余銭	余銭	余った金銭。余分な金銭。
+j	余震	余震	aftershock
+j	余音	余音	the remaining echoes of a…
+j	余韻	余韻	reverberation
+j	余響	余響	音が消えても残る響き。
+j	余香	余香	後に残る香り。余薫。
+j	余齢	余齢	これから先、残った年齢。余生。余命。
+j	候う	候う	to serve
+j	候人	候人	（こうじん）中国で賓客を送迎した者。
+j	候文	候文	sorobun, a historical lit…
+j	候補	候補	candidate
+j	候証	候証	徴候。
+j	候鐘	候鐘	時計。
+j	候音	候音	guttural or throaty sound…
+j	候騎	候騎	敵の状況などを探るための騎兵。
+j	候鳥	候鳥	migratory bird
+j	備え	備え	preparation
+j	備中	備中	Bitchū Province, an old p…
+j	備供	備供	準備し供給すること。
+j	備前	備前	Bizen (a city in Okayama …
+j	備品	備品	equipment
+j	備州	備州	吉備国又はそれを分割した備前国と備中国と備後国をあ…
+j	備後	備後	Bingo Province, an old pr…
+j	備忘	備忘	reminder
+j	備急	備急	急用に備えること。
+j	備砲	備砲	軍艦などに備えられた大砲。
+j	備礼	備礼	礼を備えること。
+j	備考	備考	a note (for reference), NB
+j	備聆	備聆	詳しく聞くこと。備聞。
+j	備聞	備聞	詳しく聞くこと。備聆。
+j	備荒	備荒	凶作や天災に対して備えること。
+j	備蓄	備蓄	stock, supply
+j	備設	備設	多く備えること。
+j	備進	備進	準備して進上すること。
+j	備長	備長	備長炭の略。
+j	写し	写し	copy, replica, transcript…
+j	写す	写す	to copy
+j	写る	写る	to be photographed, to be…
+j	写メ	写メ	text message with an imag…
+j	写像	写像	mapping, map
+j	写場	写場	写真撮影ができる施設。写真館。
+j	写字	写字	文字を書き写すこと。
+j	写実	写実	realism; real picture
+j	写搨	写搨	模写すること。
+j	写本	写本	manuscript, codex
+j	写植	写植	写真植字。「しゃちょく」は、出版・印刷業界での慣用…
+j	写生	写生	sketch
+j	写真	写真	photograph
+j	写経	写経	handwritten copy of a sut…
+j	写譜	写譜	楽譜を書き写すこと。
+j	務め	務め	
+j	務歯	務歯	tooth of a zip fastener (…
+j	匙脚	匙脚	匙の脚。
+j	匙量	匙量	薬剤をはかる匙で一杯分の量。
+j	叙上	叙上	「如上」の別表記。
+j	叙事	叙事	narration, a description …
+j	叙任	叙任	位に叙し、官職に任ずること。
+j	叙位	叙位	位階に叙すること。また、叙せられること。
+j	叙勲	叙勲	勲章を与えること。
+j	叙唱	叙唱	レチタティーヴォ。
+j	叙報	叙報	報賞すること。
+j	叙官	叙官	官に任命すること。任官。叙任。
+j	叙情	叙情	感情を述べ表すこと。
+j	叙文	叙文	
+j	叙法	叙法	叙述（表現）の仕方。
+j	叙留	叙留	律令制で位階は昇進するが、官職はそのまま留め置くこ…
+j	叙等	叙等	官吏に等級を与えること。
+j	叙説	叙説	順序立て言葉で説明すること。
+j	叙賜	叙賜	勲章などを与えること。
+j	叙述	叙述	narration
+j	叙鈞	叙鈞	計器。
+j	叙階	叙階	カトリック教会で司教、司祭、助祭など聖職者の位を授…
+j	嚙砕	嚙砕	嚙み砕くこと。
+j	堙滅	堙滅	「湮滅」の別表記。
+j	堙鬱	堙鬱	気が鬱ぐこと。
+j	塙解	塙解	的確な解釈。
+j	夙に	夙に	early in the morning, bri…
+j	夙世	夙世	前世。宿世。
+j	夙好	夙好	昔からの交際。
+j	夙志	夙志	cherished desire; cherish…
+j	夙成	夙成	若い時から学業などが出来上がること。早熟。
+j	夙興	夙興	朝早くから起きること。
+j	妙味	妙味	優れた味わいや趣。
+j	妙境	妙境	技芸などの何ともいえない境地。
+j	妙手	妙手	a brilliant move, especia…
+j	妙技	妙技	大変優れた技。
+j	妙案	妙案	素晴らしい考えや思いつき。
+j	妙機	妙機	仏道修行に耐えうる優れた素質や能力。優れた機根。
+j	妙法	妙法	巧妙な方法や手段。
+j	妙用	妙用	magical effect
+j	妙策	妙策	優れた策。巧みな策。
+j	妙薬	妙薬	mysterious wonder drug
+j	妙見	妙見	「妙見菩薩」の略。
+j	妙計	妙計	巧妙な計画や計略。
+j	妙諦	妙諦	卓越した、極まった真理のこと。
+j	妙趣	妙趣	優れた趣や味わい。
+j	妙辞	妙辞	立派な言葉や文章。
+j	妙音	妙音	wonderful sound
+j	妙高	妙高	Mount Myōkō, a mountain i…
+j	妙齢	妙齢	（特に女性の）年齢が若いこと。年頃。
+j	宙水	宙水	通常の地下水の上方に水脈から分断されて存在する地下…
+j	峙つ	峙つ	聳つ, 稜立つ: to tower, to ris…
+j	彙刻	彙刻	編集して刊行すること。
+j	彙報	彙報	種類別に分類し纏めた報告。
+j	彙記	彙記	indexing, index
+j	忙中	忙中	忙しい最中。
+j	忙功	忙功	忙工。
+j	忙工	忙工	忙しい時に雇う手伝い。
+j	忙急	忙急	忙しいさま。
+j	忙殺	忙殺	being worked to death
+j	忙閑	忙閑	忙しいことと、ひまなこと。
+j	怙恃	怙恃	頼りにすること。
+j	恙虫	恙虫	harvest mite, chigger
+j	慙伏	慙伏	恥じて伏すこと。
+j	慙悔	慙悔	罪過を恥じ、悔いること。慙愧。
+j	慙惶	慙惶	恥じ恐れること。慙懼。
+j	慙愧	慙愧	自分の行為を反省して恥じること。
+j	慙懼	慙懼	恥じ恐れること。慙惶。
+j	慙服	慙服	慙伏すること。
+j	慙死	慙死	恥じて死ぬこと。
+j	慙羞	慙羞	恥じること。赤面すること。
+j	慙謝	慙謝	恥じて謝ること。
+j	慙靦	慙靦	恥じて赤面すること。
+j	憙猟	憙猟	猟を好むこと。
+j	拙い	拙い	
+j	拙作	拙作	まずい作品や製作。
+j	拙僧	拙僧	I, me (I, as a mere pries…
+j	拙劣	拙劣	poor, inferior
+j	拙吟	拙吟	bad or unskilled singing
+j	拙夫	拙夫	つまらない男。
+j	拙子	拙子	拙者。わたくし。
+j	拙宅	拙宅	自宅を謙遜していう語。小宅。
+j	拙守	拙守	まずい守備。
+j	拙家	拙家	自分の家を謙遜する語。
+j	拙工	拙工	技術が下手な職人。また、技術の劣る物。
+j	拙店	拙店	自分の店の謙譲語。
+j	拙悪	拙悪	拙劣で粗悪であること。
+j	拙意	拙意	自分の意見や気持ち。
+j	拙技	拙技	下手な技術や技芸。
+j	拙攻	拙攻	スポーツなどでまずい攻撃をすること。
+j	拙文	拙文	下手な文章。
+j	拙歌	拙歌	下手な歌。
+j	拙稿	拙稿	my manuscript
+j	拙策	拙策	まずい策略。
+j	拙者	拙者	I; me
+j	拙著	拙著	my work
+j	拙見	拙見	愚見。
+j	拙訳	拙訳	clumsy translation
+j	拙詠	拙詠	下手な詩歌。
+j	拙説	拙説	my theory
+j	拙論	拙論	my argument
+j	拙謀	拙謀	拙策。
+j	拙速	拙速	(積極的評価)質は万全ではないが、仕事、処理などが…
+j	挙げ	挙げ	imperfective and stem (or…
+j	挙る	挙る	gather all together, grou…
+j	挙上	挙上	顎先、下顎、 肩甲骨や骨盤を引き上げること。
+j	挙人	挙人	中国明、清で科挙の進士の受験資格を得た者。
+j	挙体	挙体	全体。
+j	挙例	挙例	例を挙げること。
+j	挙党	挙党	一つの党派全体。また、党派全体が一丸となること。
+j	挙兵	挙兵	gathering of troops
+j	挙動	挙動	conduct, behavior
+j	挙句	挙句	「挙げ句」の別表記。
+j	挙場	挙場	その場にいるもの全員。満場。
+j	挙家	挙家	家の中全体。家中。
+j	挙式	挙式	holding a ceremony (espec…
+j	挙手	挙手	raising one's hand
+j	挙措	挙措	挙げることと置くこと。
+j	挙楽	挙楽	音楽を演奏すること。
+j	挙止	挙止	挙動。立ち居振舞い。
+j	挙火	挙火	炊事をすること。
+j	挙状	挙状	日本の古代から中世にかけての推挙する書状。
+j	挙用	挙用	下位にある者を引き上げて用いること。
+j	挙筋	挙筋	a levator
+j	挙行	挙行	儀式や行事を行うこと。
+j	挙証	挙証	証拠を挙げること。立証すること。
+j	挙踵	挙踵	足の爪先で立つこと。
+j	挙身	挙身	体を起こすこと。
+j	挙銭	挙銭	銭貨で行う出挙。
+j	攙合	攙合	混入。
+j	教え	教え	
+j	教主	教主	宗教の一派を開いた者。教祖。
+j	教人	教人	a surname
+j	教会	教会	church
+j	教具	教具	学習や教授で使用する器具。
+j	教典	教典	宗教の基本的な教えを記した書物。
+j	教則	教則	instruction; teaching; sc…
+j	教務	教務	school affairs
+j	教化	教化	enlightenment, civilisati…
+j	教区	教区	diocese
+j	教卓	教卓	teacher's desk in a class…
+j	教命	教命	教訓。
+j	教員	教員	teacher, schoolteacher
+j	教唆	教唆	instigation, incitement
+j	教団	教団	religious organization
+j	教場	教場	武芸を教習する所。
+j	教壇	教壇	教室や講堂などで教師が立つための壇。
+j	教士	教士	剣道や弓道など武道の団体が与える称号の第二位。
+j	教大	教大	教育大学の略。
+j	教委	教委	教育委員会の略。
+j	教学	教学	education and learning
+j	教宗	教宗	an unknown-gender given n…
+j	教官	教官	instructor
+j	教宣	教宣	（政党や労働組合などの）教育と宣伝。
+j	教室	教室	classroom
+j	教導	教導	instruction; teaching
+j	教師	教師	teacher
+j	教徒	教徒	religious believer
+j	教意	教意	教義の意味や内容。
+j	教戒	教戒	Admonition, counseling.
+j	教授	教授	professor
+j	教採	教採	教員採用試験の略。
+j	教擾	教擾	教馴すること。
+j	教旨	教旨	教えの趣旨。
+j	教書	教書	a message, an address, a …
+j	教本	教本	textbook; manual
+j	教材	教材	teaching materials
+j	教条	教条	dogma, doctrine
+j	教案	教案	
+j	教権	教権	教育上、教員が学生や生徒に対して持つ権限。
+j	教母	教母	godmother
+j	教法	教法	teaching methods
+j	教派	教派	一つの宗教の流派。宗派。
+j	教父	教父	godfather
+j	教理	教理	doctrine; dogma
+j	教生	教生	a male given name
+j	教皇	教皇	a pope
+j	教相	教相	仏が説いた法（仏法）の特徴や相違。また、それについ…
+j	教研	教研	教育研究、または教育研究所の略。
+j	教示	教示	instruction, guidance, te…
+j	教祖	教祖	a founder of a religious …
+j	教禅	教禅	教宗と禅宗。
+j	教科	教科	subject; curriculum
+j	教程	教程	curriculum
+j	教範	教範	教育の規範。また、その書物。
+j	教籍	教籍	宗教の教義を記した書物。
+j	教練	教練	大正末期から終戦まで中等学校以上の男子を対象に行わ…
+j	教義	教義	doctrine, dogma
+j	教習	教習	instruction, training
+j	教職	教職	teaching, the profession …
+j	教肄	教肄	教習すること。
+j	教育	教育	education
+j	教規	教規	宗教における規則。
+j	教観	教観	天台宗における教相（理論）と観心（実践）。
+j	教訓	教訓	lesson, teaching
+j	教誡	教誡	「教戒」の別表記。
+j	教誨	教誨	教え諭すこと。
+j	教説	教説	宗教上の教え。
+j	教諭	教諭	teacher
+j	教護	教護	不良少年などを教育、保護すること。
+j	教跡	教跡	仏が説いた教説。
+j	教道	教道	教化を進める方法。
+j	教鞭	教鞭	pointer
+j	教順	教順	教化すること。
+j	教頭	教頭	vice-principal or deputy …
+j	教養	教養	cultivation, refinement, …
+j	教馴	教馴	慣らすこと。
+j	料亭	料亭	high-end traditional Japa…
+j	料俸	料俸	俸給。
+j	料地	料地	ある目的に使用される土地。用地。
+j	料峭	料峭	春の風が少し寒く感じられるさま。
+j	料検	料検	調べること。
+j	料檢	料檢	料検の旧字体表記。
+j	料然	料然	明朗なさま。
+j	料率	料率	料金を逓増したり逓減したりする基準の割合。
+j	料理	料理	cooking; cuisine
+j	料簡	料簡	思案。考え。
+j	料紙	料紙	ある用途に使用する紙。用紙。
+j	料足	料足	ある用件にかかる費用。代価。
+j	料金	料金	fee, charge, fare
+j	料馬	料馬	ある目的に使用する馬。
+j	曙光	曙光	daybreak, the first light…
+j	曙日	曙日	朝日。
+j	曙景	曙景	明け方の景色。
+j	曙色	曙色	pink tinged with yellow
+j	曙覧	曙覧	
+j	曙鶯	曙鶯	朝方の鶯。
+j	曙鼓	曙鼓	曙を知らせる太鼓の音。
+j	杙創	杙創	鋭利ではない物体が人体に刺さってできた傷。
+j	槙原	槙原	a surname
+j	槙本	槙本	a surname
+j	標冠	標冠	首位。
+j	標尺	標尺	水準測量で計測点に立てる目盛りのついた尺。
+j	標徴	標徴	外面に現れたしるし。
+j	標旗	標旗	（ひょうき、しるしばた） 目印の旗。目印として立て…
+j	標木	標木	目印となるような樹木。
+j	標本	標本	sample; specimen
+j	標柱	標柱	目印に立てる柱。
+j	標検	標検	標榜すること。
+j	標榜	標榜	advocacy
+j	標注	標注	書物の本文の欄外にある注釈。
+j	標津	標津	Shibetsu (a town in Hokka…
+j	標準	標準	standard, level, the mark…
+j	標白	標白	明示すること。
+j	標的	標的	target
+j	標目	標目	何かのめじるしとなるもの、目標。
+j	標石	標石	markstone
+j	標示	標示	目印として示すこと。また、目印となる図・文字・記号…
+j	標章	標章	印とする記章や記号。
+j	標線	標線	メスフラスコなどで規定の液量を示す線。
+j	標記	標記	subject (of an email)
+j	標註	標註	書物の本文の欄外にある注釈。
+j	標語	標語	motto, slogan, catchword
+j	標識	標識	sign, mark
+j	標鑒	標鑒	目立つさま。
+j	標題	標題	title
+j	標高	標高	elevation
+j	橙皮	橙皮	dried peel of Citrus × au…
+j	橙色	橙色	the color orange
+j	歙硯	歙硯	中国婺源県の歙渓で産出される硯石。
+j	沙参	沙参	synonym of 釣鐘人参 (tsurigan…
+j	沙子	沙子	
+j	沙市	沙市	Shashi (a district of Jin…
+j	沙希	沙希	a female given name
+j	沙弥	沙弥	male Buddhist novice
+j	沙月	沙月	a female given name
+j	沙村	沙村	a surname
+j	沙樹	沙樹	a female given name
+j	沙汰	沙汰	washing away sand to obta…
+j	沙港	沙港	Seattle (a city in Washin…
+j	沙漠	沙漠	砂漠と同義。
+j	沙界	沙界	インドのガンジス川の砂粒(恒河沙)の数が非常にたく…
+j	沙礫	沙礫	砂と小石。
+j	沙紀	沙紀	a female given name
+j	沙織	沙織	a female given name
+j	沙羅	沙羅	sal; shala (Shorea robust…
+j	沙翁	沙翁	William Shakespeare, Engl…
+j	沙耶	沙耶	a female given name
+j	沙虫	沙虫	caddisworm, caddis fly la…
+j	沙蚕	沙蚕	clam worms, sandworms, ra…
+j	沙都	沙都	
+j	沙金	沙金	砂礫の中に含まれる、粒状の金。
+j	沙門	沙門	
+j	沙陀	沙陀	Shatuo (a Turkic tribe th…
+j	沙頭	沙頭	砂浜。砂の上。
+j	沙魚	沙魚	
+j	沙鳧	沙鳧	砂浜にいる鴨。
+j	沙鶏	沙鶏	ハト目サケイ科の鳥類の総称。砂鶏。
+j	洙泗	洙泗	中国山東省を流れる泗水とその支流の洙水。
+j	浙江	浙江	Zhejiang (a province in e…
+j	涙囊	涙囊	鼻の付け根付近にあり、上下の小涙管からの涙液がたま…
+j	涙声	涙声	tearful voice
+j	涙淵	涙淵	涙が溜まって淵のように見える状態のこと。
+j	涙珠	涙珠	涙の珠。
+j	涙痕	涙痕	涙を流した痕。
+j	涙目	涙目	tear-filled eyes; eyes br…
+j	涙管	涙管	涙が眼から鼻のほうへ流れるための管。
+j	涙腺	涙腺	lacrimal gland, tear gland
+j	涙袋	涙袋	infraorbital hypertrophic…
+j	涙道	涙道	涙が眼から鼻のほうへ流れる道。涙管。
+j	涙雨	涙雨	rain falling at a time of…
+j	涙骨	涙骨	a lacrimal bone
+j	淙淙	淙淙	sound of flowing water
+j	渙散	渙散	病気による発熱が徐々にさがること。
+j	渙渙	渙渙	水が盛んに流れるさま。
+j	渙発	渙発	issuing of an imperial ed…
+j	烙印	烙印	火で焼いた金属製の印で付けられたしるし。焼き印。
+j	焙烙	焙烙	a type of Japanese earthe…
+j	焙焼	焙焼	焙り、焼くこと。
+j	焙煎	焙煎	roasting (of coffee beans…
+j	焙茶	焙茶	茶を焙じること。
+j	煙い	煙い	smoky
+j	煙る	煙る	smoke
+j	煙台	煙台	Yantai (a coastal prefect…
+j	煙塵	煙塵	煙と塵。
+j	煙客	煙客	霞を食べて生きるとされる仙人。
+j	煙害	煙害	smoke pollution; damage o…
+j	煙島	煙島	island which is in the mi…
+j	煙嶂	煙嶂	霧や霞がかかる険しい峰。
+j	煙幕	煙幕	a smokescreen
+j	煙弾	煙弾	smoke bomb
+j	煙散	煙散	煙のように消えて失くなること。
+j	煙楼	煙楼	chimney
+j	煙死	煙死	火災で煙や有毒ガスを吸ったりして死亡すること。
+j	煙毒	煙毒	排煙に含まれる有毒な物質。
+j	煙水	煙水	a water surface shrouded …
+j	煙波	煙波	靄の立ち込めた水面。煙濤。煙浪。
+j	煙浪	煙浪	煙波。
+j	煙濤	煙濤	煙波。
+j	煙火	煙火	煙と火。
+j	煙煤	煙煤	煤。油煙。
+j	煙熅	煙熅	こもること。
+j	煙爨	煙爨	火を使用し炊爨すること。
+j	煙硝	煙硝	硝石（硝酸カリウム）。
+j	煙磴	煙磴	slope which is in the mis…
+j	煙突	煙突	chimney, smokestack
+j	煙筒	煙筒	synonym of 煙突 (entotsu, “…
+j	煙管	煙管	a tobacco pipe with a met…
+j	煙草	煙草	synonym of タバコ (tabako, “…
+j	煙道	煙道	flue
+j	煙雨	煙雨	非常に細かい雨。
+j	煙雲	煙雲	煙や雲。
+j	煙霞	煙霞	煙と霞。
+j	煙霧	煙霧	smoke and fog
+j	熙天	熙天	晴れ渡った空。朗天。
+j	熙然	熙然	喜ぶこと。そのさま。
+j	熙熙	熙熙	やわらぎ楽しんでいるさま。
+j	牙人	牙人	中国で商取引の仲買業者。牙行。
+j	牙保	牙保	売買を仲介すること。
+j	牙偏	牙偏	漢字の部首「⽛」が偏である場合の呼称。
+j	牙刷	牙刷	歯磨き。
+j	牙吏	牙吏	牙門の吏員。
+j	牙商	牙商	a broker, a dealer, a sal…
+j	牙城	牙城	城の中で大将がいる場所。本丸。
+j	牙官	牙官	武官。
+j	牙旗	牙旗	天子、大将軍の陣所に立てる大きな旗。
+j	牙歯	牙歯	歯。牙。
+j	牙殿	牙殿	象牙でできた御殿。
+j	牙獐	牙獐	
+j	牙癢	牙癢	歯噛み（歯ぎしり）。
+j	牙盤	牙盤	象牙でできた盆。
+j	牙筆	牙筆	象牙でできた筆管。牙管。
+j	牙管	牙管	象牙でできた筆管。牙筆。
+j	牙粉	牙粉	歯磨き粉。
+j	牙纛	牙纛	天子や将軍が持つ、先に象牙の装飾がついた旗。
+j	牙虫	牙虫	water scavenger beetle, a…
+j	牙行	牙行	中国で商取引の仲買業者。牙人。
+j	牙軸	牙軸	a scroll roller made of i…
+j	牙部	牙部	部首「⽛」で分類した漢字の一群。
+j	牙銭	牙銭	口銭。
+j	牙門	牙門	大将がいる陣営。本陣。[1724年～]
+j	狙い	狙い	
+j	狙う	狙う	to aim
+j	狙公	狙公	猿を飼育する者。猿回し。
+j	狙撃	狙撃	sniping
+j	狙猴	狙猴	猿の別称。
+j	瑙魯	瑙魯	ナウルの漢字表記。
+j	留め	留め	stopping
+j	留主	留主	
+j	留任	留任	remaining in office
+j	留保	留保	reservation, retainment
+j	留学	留学	studying abroad
+j	留守	留守	absence
+j	留年	留年	出席日数の不足や成績不良等により進級または卒業する…
+j	留広	留広	a male given name
+j	留影	留影	見えるものの姿。
+j	留心	留心	心を留めること。
+j	留意	留意	to take notice in, to pay…
+j	留数	留数	residue
+j	留滞	留滞	同じ場所に留まること。
+j	留置	留置	detainment, custody
+j	留萌	留萌	Rumoi (a city in Hokkaido…
+j	留袖	留袖	a kimono with short squar…
+j	留飲	留飲	飲み続けること。
+j	留鳥	留鳥	nonmigratory bird
+j	痙性	痙性	中枢神経の損傷により筋肉が持続的に緊張して硬くなっ…
+j	痙攣	痙攣	convulsion, spasm, cramp,…
+j	痙縮	痙縮	痙性が進むこと。
+j	痙風	痙風	痙攣すること。
+j	礙滞	礙滞	滞ること。
+j	笙歌	笙歌	笙の曲に合わせて歌を歌うこと。また、その歌。
+j	笙箎	笙箎	笙と横笛。
+j	笙管	笙管	笙。
+j	篙人	篙人	船頭。
+j	篙漿	篙漿	竿。
+j	紙パ	紙パ	
+j	紙上	紙上	on paper
+j	紙価	紙価	紙の価格。
+j	紙傘	紙傘	紙張りの傘。唐傘。
+j	紙券	紙券	紙でできており、何らかの証明に用いる券。
+j	紙器	紙器	紙でつくられた容器や器具。
+j	紙型	紙型	paper mould
+j	紙塑	紙塑	粘土と紙を練り合わせ、作った製品。
+j	紙墨	紙墨	紙と墨。
+j	紙尾	紙尾	文章の末尾。文末。
+j	紙屑	紙屑	wastepaper
+j	紙工	紙工	紙を加工したり細工したりすること。
+j	紙巻	紙巻	
+j	紙帳	紙帳	紙を張り合わせて作った蚊帳。
+j	紙幣	紙幣	paper money
+j	紙張	紙張	「紙帳」の異表記。
+j	紙戸	紙戸	律令制で、図書寮に50戸置かれた品部。毎年10月か…
+j	紙料	紙料	紙と水を混合したもので、紙にする直前のもの。
+j	紙本	紙本	紙の地に書かれた書画や文書。
+j	紙格	紙格	明かり障子。
+j	紙炮	紙炮	「紙砲」の別表記。
+j	紙燭	紙燭	宮中において夜間の行事で使用した松の枝などでできた…
+j	紙片	紙片	piece of paper; scrap of …
+j	紙牌	紙牌	カルタなど紙でつくられた札。
+j	紙砲	紙砲	銃床を紙の張り子とした鉄砲。
+j	紙筆	紙筆	紙と筆。
+j	紙箋	紙箋	文字を書くための紙の札。
+j	紙線	紙線	紙を撚ってつくるこより。
+j	紙背	紙背	紙の裏。
+j	紙花	紙花	葬儀で使用する紙で出来た造花。
+j	紙袋	紙袋	paper bag
+j	紙製	紙製	紙で作ってあること。また、その物。
+j	紙誌	紙誌	新聞や雑誌の総称。
+j	紙質	紙質	quality or characteristic…
+j	紙銭	紙銭	紙幣。
+j	紙鑢	紙鑢	
+j	紙閣	紙閣	紙でできた壁や仕切り。また、それで仕切られた部屋。
+j	紙障	紙障	紙を張った障子。紙障子。明かり障子。
+j	紙面	紙面	space on a page (e.g. in …
+j	紙魚	紙魚	Any insect of the family …
+j	紙鳶	紙鳶	kite
+j	継ぐ	継ぐ	to succeed (someone), to …
+j	継代	継代	現在培養している細胞や細菌などの一部を別の新しい培…
+j	継兄	継兄	older paternal half broth…
+j	継受	継受	受け継ぐこと。引き継ぐこと。
+j	継嗣	継嗣	跡取り。後継ぎ。世継ぎ。
+j	継妹	継妹	younger paternal half sis…
+j	継妻	継妻	後添いの女性の配偶者。後妻。継室。
+j	継娘	継娘	
+j	継子	継子	stepchild
+j	継室	継室	のちぞい。後妻。
+j	継承	継承	succession, accession, in…
+j	継投	継投	relieving the pitcher
+j	継業	継業	事業を継ぐこと。
+j	継母	継母	a stepmother
+j	継泳	継泳	競泳で行われるリレー。メドレーリレーとフリーリレー…
+j	継父	継父	stepfather
+j	継紹	継紹	先人の事業などを受け継ぐこと。
+j	継統	継統	系統を継承すること。
+j	継続	継続	continuation
+j	継走	継走	陸上競技のリレーのこと。
+j	継起	継起	occurring in succession
+j	継述	継述	先人の業績を引き継いで述べること。
+j	繙読	繙読	書物を繙いて読むこと。
+j	繙閲	繙閲	書物をひもといて調べること。
+j	臙脂	臙脂	cochineal
+j	艙口	艙口	
+j	芙蓉	芙蓉	hibiscus (Hibiscus mutabi…
+j	蒙兀	蒙兀	新唐書、古唐書に書かれている、モンゴル族の国と推定…
+j	蒙古	蒙古	Mongolia (a country in Ea…
+j	蒙和	蒙和	モンゴル語と日本語。「蒙和辞典」。
+j	蒙塵	蒙塵	天子が変事がおきた際に避難し逃れること。
+j	蒙昧	蒙昧	unenlightened; uncivilize…
+j	蒙疆	蒙疆	Mengjiang (historical pup…
+j	蕙心	蕙心	美人で上品な心。
+j	蕙風	蕙風	芳しい風。
+j	薙ぐ	薙ぐ	mow down, cut down
+j	薙刀	薙刀	naginata: a traditional J…
+j	薙工	薙工	理髪師。
+j	蛙化	蛙化	蛙化現象。
+j	蛙声	蛙声	蛙が鳴く声。
+j	蛙肉	蛙肉	蛙の肉
+j	蛙鬧	蛙鬧	蛙が争うこと。
+j	蝙蝠	蝙蝠	a bat (small flying mamma…
+j	衙参	衙参	朝夕、官吏が朝廷などに参集すること。
+j	衙府	衙府	役所。官庁。
+j	衙推	衙推	軍府の官。
+j	衙斎	衙斎	官邸。
+j	衙日	衙日	衙参の日。
+j	衙門	衙門	官衙。役所。官庁。
+j	裙子	裙子	僧衣の一部で巻いて腰から下を覆うもの。
+j	裙帯	裙帯	（くんたい）衣服のすそとおび。
+j	裙褘	裙褘	裳と肘掛け。
+j	謙り	謙り	
+j	謙る	謙る	abase oneself while prais…
+j	謙一	謙一	a male given name
+j	謙二	謙二	a male given name
+j	謙伍	謙伍	a male given name
+j	謙信	謙信	上杉謙信のこと。
+j	謙克	謙克	謙抑。
+j	謙吾	謙吾	a male given name
+j	謙如	謙如	a male given name
+j	謙宏	謙宏	a male given name
+j	謙巽	謙巽	謙遜すること。
+j	謙廉	謙廉	謙虚で廉潔なこと。そのさま。
+j	謙弥	謙弥	a male given name
+j	謙徳	謙徳	謙譲することによる徳。
+j	謙恪	謙恪	謙謹。
+j	謙愨	謙愨	謙慎。
+j	謙抑	謙抑	humble restraint; modesty…
+j	謙損	謙損	へりくだり、退くこと。また、そのようなさま。謙退。
+j	謙次	謙次	a male given name
+j	謙称	謙称	話し手側が自分を謙遜した呼び方。
+j	謙虚	謙虚	modest
+j	謙虛	謙虛	modest
+j	謙語	謙語	謙遜した言葉。謙譲語。
+j	謙謹	謙謹	謙恭。恭謙。
+j	謙譲	謙譲	modest, humble
+j	謙辞	謙辞	へりくだって言う言葉。
+j	謙退	謙退	へりくだるさま。謙遜。謙譲。
+j	謙遜	謙遜	humility
+j	謙飭	謙飭	謙謹。
+j	謙默	謙默	謙黙の旧字体表記。
+j	謙黙	謙黙	控えめで寡黙なこと。そのさま。
+j	蹙沓	蹙沓	密集すること。
+j	這う	這う	to crawl, to creep
+j	這子	這子	a crawling baby
+j	這界	這界	this world
+j	這箇	這箇	指示詞「これ」、「この」の宋代以降の表現に影響を受…
+j	這般	這般	これら。
+j	這裏	這裏	here
+j	遙遠	遙遠	遙か遠いこと。そのさま。
+j	鄙人	鄙人	野人。
+j	鄙俗	鄙俗	いなかびていること。
+j	鄙俚	鄙俚	言葉遣いや風俗が田舎っぽくいやしいこと。また、その…
+j	鄙劣	鄙劣	「卑劣」の別表記。
+j	鄙吝	鄙吝	卑しいこと。けちなこと。
+j	鄙懐	鄙懐	いやしい思い。
+j	鄙拙	鄙拙	卑拙なこと。
+j	鄙薄	鄙薄	despisal, contempt, scorn
+j	鄙見	鄙見	自分の意見。
+j	鄙言	鄙言	田舎の卑しい言葉。鄙語。
+j	鄙語	鄙語	田舎びた卑しい言葉。卑語。
+j	鄙諺	鄙諺	俗な世間で使われている諺。鄙俗な諺。
+j	鄙陋	鄙陋	身分が賤しいこと。
+j	銙帯	銙帯	「銙」と呼ばれる金銀、玉石などでつくられた装飾を付…
+j	鐙骨	鐙骨	a stapes
+j	隙壊	隙壊	崩れ。
+j	隙孔	隙孔	すきまとあな。隙穴。
+j	隙穴	隙穴	すきまとあな。隙孔。
+j	隙間	隙間	crevice, crack, gap
+j	雙六	雙六	
+j	雙子	雙子	
+j	雙方	雙方	
+j	雙晶	雙晶	
+j	静か	静か	inaudible, quiet, silent
+j	静修	静修	心身を静めて修養すること。
+j	静厳	静厳	静粛なさま。
+j	静圧	静圧	static pressure
+j	静夜	静夜	静かな夜。
+j	静安	静安	安静。
+j	静寂	静寂	quiet
+j	静寧	静寧	世が治まり平静であるさま。
+j	静居	静居	心静かに暮らすこと。また、静かなすまい。
+j	静岡	静岡	Shizuoka (a prefecture of…
+j	静平	静平	世の乱れを鎮めて穏やかにすること。
+j	静座	静座	姿勢を正し自身の呼吸に意識を向けることで心を安定さ…
+j	静心	静心	a calm mind, placid tempe…
+j	静思	静思	meditation
+j	静態	静態	静止の状態。釣りあって動かない状態。
+j	静振	静振	風向、気圧など気象の変化により湾や湖沼の水位が振動…
+j	静止	静止	stillness, being still, c…
+j	静水	静水	揺れたり流れたりしないで静止している水。
+j	静注	静注	静脈注射の略。
+j	静物	静物	a still life subject
+j	静生	静生	a male given name
+j	静的	静的	static
+j	静穏	静穏	quiet, tranquil
+j	静粛	静粛	quiet
+j	静置	静置	standing
+j	静聴	静聴	静かに聞くこと。
+j	静脈	静脈	a vein
+j	静臥	静臥	静かに横たわること。
+j	静観	静観	行動を起こさずに物事の成り行きを静かに見守ること。
+j	静謐	静謐	quiet, tranquil
+j	静邃	静邃	幽邃。
+j	静閑	静閑	もの静かなこと。また、そのようなさま。閑静。
+j	静電	静電	静電気。
+j	静養	静養	recuperate; convalescence
+j	静香	静香	a female given name
+j	香り	香り	
+j	香る	香る	to waft; to drift in the …
+j	香会	香会	聞香をする集まり。
+j	香信	香信	干ししいたけの規格のひとつ。傘がひらき、肉はうすめ…
+j	香具	香具	香道で使用する道具や器具。
+j	香典	香典	仏式の弔事において死者に供える金銭。
+j	香処	香処	嗅覚の対象。十二処のひとつ。香、香境に同じ（ウィキ…
+j	香台	香台	香炉を載せるための台。
+j	香味	香味	飲食物の匂いと味。
+j	香境	香境	嗅覚の対象。六境のひとつ。香、香処に同じ（ウィキペ…
+j	香奈	香奈	a female given name
+j	香奠	香奠	「香典」の別表記。
+j	香山	香山	a surname
+j	香川	香川	Kagawa prefecture
+j	香席	香席	聞香の会席。
+j	香料	香料	spice
+j	香春	香春	a female given name
+j	香月	香月	a female given name
+j	香木	香木	香りのする木。
+j	香枕	香枕	枕の中で香が焚けるしくみになっているもの。
+j	香案	香案	香炉を載せる机。
+j	香椿	香椿	Chinese mahogany, Toona s…
+j	香橙	香橙	synonym of 九年母 (kunenbo, …
+j	香気	香気	fragrance (pleasant smell…
+j	香氣	香氣	香気の旧字体表記。
+j	香水	香水	perfume, cologne
+j	香油	香油	髪に付けたり体に塗ったりする匂いの良い油。
+j	香港	香港	Hong Kong (a city, island…
+j	香火	香火	仏前や故人に供える線香の火。
+j	香炉	香炉	incense burner, censer (a…
+j	香烟	香烟	香煙の別表記。
+j	香煎	香煎	赤米（外来の下等な米）を煎って香料を混合した粉。
+j	香煙	香煙	香の煙。
+j	香牀	香牀	香木でできた牀。
+j	香物	香物	香るもの。
+j	香猊	香猊	獅子の形をした香炉。
+j	香界	香界	嗅覚の対象。六境のひとつである、香境、もしくは十二…
+j	香盤	香盤	incense burner, incense t…
+j	香筵	香筵	聞香の会席。
+j	香粧	香粧	香料と化粧品。
+j	香純	香純	a female given name
+j	香織	香織	a female given name
+j	香美	香美	Kami (a city in Kōchi Pre…
+j	香脂	香脂	整髪剤など芳香のある固形の脂肪。
+j	香舜	香舜	a male given name
+j	香芝	香芝	Kashiba (a city in Nara P…
+j	香花	香花	a female given name
+j	香苗	香苗	a unisex given name
+j	香茅	香茅	sweetgrass (Anthoxanthum …
+j	香草	香草	fragrant herb
+j	香菇	香菇	干ししいたけの規格のひとつ。傘のひらき具合や肉の厚…
+j	香菜	香菜	coriander
+j	香華	香華	仏前に供える香と仏花。
+j	香葱	香葱	葱。
+j	香蕈	香蕈	synonym of 椎茸 (“shiitake”…
+j	香薷	香薷	synonym of 薙刀香薷 (naginata…
+j	香螺	香螺	イトマキボラ科で食用となる巻き貝の「ナガニシ（長螺…
+j	香資	香資	money given for incense t…
+j	香車	香車	an incense chariot (piece…
+j	香道	香道	traditional art of incens…
+j	香部	香部	部首「⾹」で分類した漢字の一群。
+j	香酒	香酒	香り高く上質な酒。芳酒。
+j	香閨	香閨	閨房。
+j	香雲	香雲	香の煙が雲のように漂うこと。
+j	香頭	香頭	seasoning for 吸い物 (suimon…
+j	香餌	香餌	香りのよい餌。
+j	香香	香香	漬け物。香の物。
+j	香魚	香魚	sweetfish
+j	駙馬	駙馬	a Chinese prince consort,…
+j	騙す	騙す	to cheat, to deceive
+j	騙る	騙る	騙る, 拐る: to swindle someon…
+j	騙取	騙取	他人の物を言葉巧みに騙して取ること。
+j	髙橋	髙橋	a surname
+j	鷙勇	鷙勇	fierce and brave
+j	鷙強	鷙強	rough and strong
+j	鷙悍	鷙悍	fierce and tough
+j	鷙猛	鷙猛	fierce; cruel; violent
+j	鷙禽	鷙禽	bird of prey
+j	鷙鳥	鷙鳥	bird of prey
+j	鸙野	鸙野	a surname
+j	黙々	黙々	silent (especially when w…
+j	黙り	黙り	staying completely silent…
+j	黙る	黙る	to be silent
+j	黙会	黙会	言葉を待たずに会得すること。
+j	黙働	黙働	話さずに掃除などの作業をすること。
+j	黙契	黙契	当事者間の暗黙の了解によって約束が成立すること。ま…
+j	黙座	黙座	黙ったまま、座っていること。
+j	黙念	黙念	黙って考え込むさま。沈思黙考するさま。
+j	黙想	黙想	meditation; silent contem…
+j	黙止	黙止	黙ったままでいること。無言でほうっておくこと。
+j	黙殺	黙殺	ignoring someone's sugges…
+j	黙然	黙然	silently; without a word
+j	黙示	黙示	hint; suggestion
+j	黙礼	黙礼	a silent bow
+j	黙祷	黙祷	a silent prayer, a moment…
+j	黙禱	黙禱	口に出さず、心の中で祈ること。
+j	黙秘	黙秘	silence; not speaking; no…
+j	黙約	黙約	当事者間の暗黙の了解によって成立した約束。黙示的な…
+j	黙考	黙考	meditation (on), silent c…
+j	黙視	黙視	黙ったまま見ていること。立ち入らず見ていること。
+j	黙認	黙認	tolerance
+j	黙読	黙読	reading to oneself, readi…
+j	黙過	黙過	tacit approval
+j	黙食	黙食	eating in silence (withou…
+j	黙黙	黙黙	言葉を発しないさま。特に作業などを進めるにあたって…
+j	鼙鼓	鼙鼓	戦場で用いる太鼓。軍鼓。
+k	거동	挙動	behavior, demeanor, setup…
+k	겸손	謙遜	modesty, humility
+k	경련	痙攣	convulsions; spasms
+k	계량	継樑	measuring, measurement
+k	계량	継糧	measuring, measurement
+k	계모	継母	stepmother
+k	계부	継父	stepfather
+k	계속	継続	continuously
+k	계철	継鉄	a yoke
+k	계투	継投	relieving the pitcher
+k	극간	隙間	
+k	낙인	烙印	brand, stamp
+k	누선	涙腺	lacrimal gland
+k	눈사태	沙汰	avalanche
+k	등색	橙色	tangerine (color)
+k	등자	橙子	stirrup
+k	등자	鐙子	stirrup
+k	료금	料金	North Korea standard spel…
+k	료리	料理	North Korea, Yanbian, and…
+k	루선	涙腺	
+k	망월	忙月	full moon
+k	몽강	蒙疆	Mengjiang (historical pup…
+k	몽고	蒙古	Mongolia (a country in Ea…
+k	몽상	蒙喪	dreaming, daydreaming
+k	몽어	蒙語	Mongolian language
+k	묘미	妙味	charm
+k	묘약	妙薬	mysterious wonder drug, e…
+k	묘약	妙藥	mysterious wonder drug, e…
+k	무정	務停	heartlessness, pitilessne…
+k	묵고	黙考	silent contemplation
+k	묵념	黙念	silent contemplation, a m…
+k	묵도	黙祷	
+k	묵살	黙殺	disregarding or ignoring …
+k	묵시	黙示	hint, suggestion, implica…
+k	묵시	黙視	hint, suggestion, implica…
+k	묵인	黙認	connivance, tacitly toler…
+k	묵주	黙珠	rosary
+k	배소	焙焼	paixiao (Chinese pan pipe)
+k	배소	焙燒	paixiao (Chinese pan pipe)
+k	병술	丙戌	The twenty-third term of …
+k	병신	丙申	moron, imbecile, idiot, r…
+k	병오	丙午	The forty-third term of t…
+k	병인	丙寅	The third term of the Chi…
+k	병자	丙子	The thirteenth term of th…
+k	병진	丙辰	The fifty-third term of t…
+k	비고	備考	note
+k	비축	備蓄	stock, supply, reserve
+k	사루	沙漏	
+k	사막	沙漠	desert (barren area)
+k	사문	沙門	
+k	사미	沙弥	novice Buddhist monk
+k	사미	沙彌	novice Buddhist monk
+k	사발	沙鉢	bowl
+k	사방	沙防	four sides, (in) all dire…
+k	사본	写本	copy; duplicate
+k	사상	写像	history, historic
+k	사생	写生	sketching, drawing from n…
+k	사암	沙巌	sandstone
+k	사암	沙巖	sandstone
+k	사인	沙仁	signature
+k	사장	沙場	CEO or director of a comp…
+k	사진	写真	photograph, picture
+k	사진	写真	photograph, picture
+k	사탕	沙糖	candy (piece of candy)
+k	사하	沙下	Saha (a district of the M…
+k	생황	笙簧	a free reed mouth organ w…
+k	서광	曙光	daybreak, the first light…
+k	서법	叙法	calligraphy
+k	서술	叙述	description, depiction, n…
+k	서해	曙海	the Yellow Sea (the weste…
+k	선경	仙境	
+k	선남	仙男	fairy man
+k	선녀	仙女	immortal
+k	선조	仙鳥	ancestor
+k	쌍방	雙方	both parties, both sides
+k	쌍벽	雙璧	twin matchless stars (two…
+k	쌍점	雙點	colon (punctuation)
+k	쌍정	雙晶	twin crystal
+k	쌍친	雙親	(both) parents
+k	아비	衙婢	Disrespectful term for an…
+k	아산	牙山	Asan (a city in South Chu…
+k	아성	牙城	아기(牙旗)를 세운 성이라는 뜻으로, 주장(主…
+k	아쟁	牙箏	ajaeng, a bowed zither us…
+k	연기	煙気	acting
+k	연기	煙氣	acting
+k	연막	煙幕	smokescreen
+k	연무	煙霧	smoke and fog
+k	연수	煙樹	training, research
+k	연정	煙艇	love, affection; romantic…
+k	연지	臙脂	blusher, blush, rouge (es…
+k	연초	煙草	cigarette
+k	요금	料金	fee, charge, fare
+k	요리	料理	cooking; cuisine.
+k	유념	留念	dear thought as not to fo…
+k	유보	留保	deferral, delaying; reser…
+k	유심	留心	SIM card
+k	유치	留置	attraction
+k	유학	留学	Confucianism
+k	유학	留學	Confucianism
+k	을묘	乙卯	The fifty-second term of …
+k	을미	乙未	The thirty-second term of…
+k	을사	乙巳	The forty-second term of …
+k	을유	乙酉	The twenty-second term of…
+k	을축	乙丑	The second term of the Ch…
+k	을해	乙亥	The twelfth term of the C…
+k	저격	狙撃	sniping
+k	저격	狙擊	sniping
+k	저번	這番	last time
+k	저해	狙害	prevention, hampering, hi…
+k	절강	浙江	Zhejiang (a province in e…
+k	정맥	静脈	vein
+k	정식	静息	formality, proper manner
+k	정지	静止	stop, halt
+k	조항	趙恒	clause, article, provision
+k	졸음	拙吟	drowsiness; sleepiness
+k	졸작	拙作	poor-quality work; subpar…
+k	지갑	紙匣	wallet, purse
+k	지대	紙袋	a region or area; a distr…
+k	지면	紙面	the surface of paper, the…
+k	지배	紙背	rule, control, command
+k	지상	紙上	paper, (in) the newspaper
+k	지연	紙鳶	delay
+k	지폐	紙幣	bill, note, banknote, pap…
+k	편복	蝙蝠	bat (small flying mammal)
+k	편취	騙取	defrauding; swindling
+k	표기	標記	external inscription
+k	표본	標本	sample; example; specimen
+k	표식	標識	sign; notice
+k	표어	標語	slogan; motto
+k	표적	標的	target
+k	표제	標題	title; heading
+k	표준	標準	standard (level of qualit…
+k	표지	標識	sign; notice
+k	향기	香気	fragrance, aroma, perfume
+k	향기	香氣	fragrance, aroma, perfume
+k	향낭	香嚢	
+k	향낭	香囊	
+k	향로	香炉	censer, incense burner, t…
+k	향로	香爐	censer, incense burner, t…
+k	향료	香料	spice; flavoring
+k	향미	香味	flavour; smack
+k	향수	香水	perfume, cologne (substan…
+k	향유	香油	perfumed hair-oil
+k	향초	香烛	fragrant herb
+k	향초	香燭	fragrant herb
+k	향초	香草	fragrant herb
+k	향초	香醋	fragrant herb
+k	향항	香港	Hong Kong (a city, island…
+k	후반	候班	second half
+k	후보	候補	candidate
+k	후조	候鳥	migratory bird; bird of p…
+k	희천	熙川	Huichon (a city in Chagan…
+j	丙号券	丙号券	日本で1916年に発行が開始された紙幣。
+j	乙号券	乙号券	日本で1910年に発行が開始された紙幣。
+j	乙女座	乙女座	
+j	乙女心	乙女心	feelings and emotions of …
+j	仙人掌	仙人掌	サボテン。覇王樹。
+j	仙人穀	仙人穀	
+j	仙人草	仙人草	sweet autumn clematis, Cl…
+j	仙台市	仙台市	宮城県の県庁所在地。東北地方の中心都市。
+j	仙鶴草	仙鶴草	dried Agrimonia pilosa va…
+j	余っ程	余っ程	
+j	余事象	余事象	定めた事象が起こらない事象。
+j	余分な	余分な	
+j	余分に	余分に	
+j	余剰金	余剰金	余った金銭。
+j	余因子	余因子	ある正方行列から指定する1つの成分を含む行と列を抜…
+j	余因数	余因数	余因子。
+j	余所事	余所事	something of other's affa…
+j	余所目	余所目	the eyes of another; an o…
+j	余所者	余所者	outsider
+j	余所見	余所見	looking off; looking at s…
+j	余計な	余計な	
+j	候背診	候背診	切診の一つで患者の背部に手を当てたり観察したりして…
+j	候補生	候補生	一定の課程を修了して、特定の官職や地位につくことが…
+j	候補者	候補者	candidate (a person who i…
+j	備える	備える	to prepare
+j	備わる	備わる	to be equipped with, to p…
+j	備中国	備中国	日本の旧国（令制国）のひとつ。現在の岡山県西部にあ…
+j	備前国	備前国	日本の旧国（令制国）のひとつ。現在の岡山県東南部、…
+j	備後国	備後国	日本の旧国（令制国）のひとつ。現在の広島県東半分に…
+j	備忘録	備忘録	memorandum
+j	備蓄米	備蓄米	凶作に備え政府が備蓄している米。
+j	備長炭	備長炭	high-quality charcoal mad…
+j	写字室	写字室	
+j	写実的	写実的	realistic; graphic; true …
+j	写植機	写植機	
+j	写真家	写真家	photographer
+j	写真屋	写真屋	写真の撮影を行う店、人。
+j	写真帖	写真帖	photo album
+j	写真師	写真師	
+j	写真店	写真店	写真を売る店。
+j	写真機	写真機	camera
+j	写真術	写真術	
+j	写真集	写真集	photobook, photo album
+j	写真館	写真館	photographic studio
+j	務まる	務まる	
+j	務める	務める	to assume a role; to serv…
+j	匙加減	匙加減	薬を調合する加減。転じて、手加減、手ごころ。
+j	叙する	叙する	言葉で書き表す。
+j	叙事詩	叙事詩	epic poetry
+j	叙情詩	叙情詩	作者の感情や情緒を主観的に表した詩。
+j	叙述語	叙述語	
+j	妙実子	妙実子	a female given name
+j	宙乗り	宙乗り	歌舞伎で役者の体を天井からワイヤーなどで吊るして移…
+j	宙吊り	宙吊り	suspended in midair
+j	宙返り	宙返り	somersault (the act of go…
+j	忙しい	忙しい	busy
+j	忙中閑	忙中閑	a moment of quietude duri…
+j	恙虫病	恙虫病	scrub typhus, bush typhus
+j	挙がる	挙がる	
+j	挙げた	挙げた	
+j	挙げる	挙げる	
+j	挙げ句	挙げ句	連歌、誹諧連歌の最後の句。
+j	挙って	挙って	all, unanimously
+j	挙動犯	挙動犯	外部的結果の発生を必要とせず、特定の身体的動静のみ…
+j	教える	教える	to inform, to teach, to i…
+j	教え子	教え子	
+j	教わる	教わる	to be taught
+j	教会堂	教会堂	信徒が礼拝や宗教的な集会などを行う建造物。教会。
+j	教会法	教会法	
+j	教会論	教会論	
+j	教区長	教区長	
+j	教唆犯	教唆犯	abettor; instigator
+j	教唆者	教唆者	
+j	教大生	教大生	大学の教育学部、教育大学で教育を学ぶ大学生。
+j	教室長	教室長	学習塾や予備校の教室の責任者。
+j	教授会	教授会	大学の教授や准教授が学部ごとに集まって行われる会議。
+j	教父母	教父母	godparent
+j	教皇庁	教皇庁	バチカンにある、全世界のカトリック全体を統括する役…
+j	教皇派	教皇派	
+j	教皇領	教皇領	
+j	教科書	教科書	a textbook
+j	教義学	教義学	dogmatics
+j	教習所	教習所	特別な技能、技術などを教習したり、習得させたりする…
+j	教習生	教習生	教習所で学ぶ生徒。
+j	教習者	教習者	教習所で免許取得のため通学している者。教習生。
+j	教習船	教習船	小型船舶教習所で使用する小型船舶。
+j	教習艇	教習艇	小型船舶教習所で使用する小型船舶、水上オートバイ。
+j	教習車	教習車	自動車教習所で使用する自動車、オートバイ。
+j	教職員	教職員	学校などで教育に従事する人。
+j	教育史	教育史	教育に関する歴史の総称。
+j	教育学	教育学	pedagogy (activities of e…
+j	教育家	教育家	教育に携わる人。
+j	教育権	教育権	教育の内容、方法を決定し、実施する権力。
+j	教育法	教育法	教育の方法、やり方。
+j	教育界	教育界	the education world, the …
+j	教育的	教育的	教育する上で望ましいさま。
+j	教育者	教育者	educator
+j	教育職	教育職	教育を司り、教育に従事する公務員。
+j	教育長	教育長	地方公共団体の教育行政の責任者。
+j	教訓的	教訓的	教訓に関するさま
+j	教誨師	教誨師	prison chaplain
+j	教養部	教養部	1990年代まで大学に存在した教養教育を担う部署。
+j	料理の	料理の	
+j	料理人	料理人	chef, cook
+j	料理屋	料理屋	a restaurant
+j	料理店	料理店	restaurant, eatery
+j	料理法	料理法	
+j	料理酒	料理酒	cooking wine
+j	料理長	料理長	厨房で料理人を統括する最高責任者。
+j	料金所	料金所	toll booth, tollgate, tol…
+j	標本室	標本室	標本を収蔵する部屋。
+j	標本木	標本木	生物季節観測で、開花・満開・紅葉・黄葉・落葉などの…
+j	標準の	標準の	
+j	標準化	標準化	standardization
+j	標準時	標準時	standard time
+j	標準的	標準的	物事の基準となるさま。
+j	標準語	標準語	the standard language (of…
+j	標準軌	標準軌	standard gauge
+j	標題紙	標題紙	title page (page in a boo…
+j	橙色の	橙色の	
+j	沙也加	沙也加	a female given name
+j	沙保里	沙保里	a female given name
+j	沙南子	沙南子	a female given name
+j	沙名子	沙名子	a female given name
+j	沙央理	沙央理	a female given name
+j	沙奈子	沙奈子	a female given name
+j	沙実子	沙実子	a female given name
+j	沙弥佳	沙弥佳	a female given name
+j	沙弥尼	沙弥尼	出家、剃髪し十戒を受けた若い尼僧。
+j	沙悟浄	沙悟浄	Sha Wujing
+j	沙由梨	沙由梨	a female given name
+j	沙緒理	沙緒理	a female given name
+j	沙羅樹	沙羅樹	sal; shala (Shorea robust…
+j	沙耶香	沙耶香	a female given name
+j	沙菜子	沙菜子	a female given name
+j	沙那子	沙那子	a female given name
+j	沙那恵	沙那恵	a female given name
+j	涙ぐむ	涙ぐむ	to have tears in one's ey…
+j	涙の雫	涙の雫	
+j	涙滴型	涙滴型	
+j	焙じ茶	焙じ茶	roasted green tea
+j	煙出し	煙出し	
+j	煙霧質	煙霧質	an aerosol
+j	狙撃兵	狙撃兵	狙撃を専門とする歩兵。
+j	狙撃手	狙撃手	a sniper
+j	狙撃銃	狙撃銃	a sniper rifle
+j	狙撃隊	狙撃隊	狙撃手、狙撃兵で構成される部隊。
+j	留まる	留まる	keep (to remain in, to be…
+j	留めた	留めた	
+j	留める	留める	to hold, to keep (to a li…
+j	留め具	留め具	離れてしまったり動いてしまったりしないように留める…
+j	留め金	留め金	clasp (fastener or holder)
+j	留学生	留学生	international student, st…
+j	留學生	留學生	
+j	留守中	留守中	during absence from home
+j	留守居	留守居	主人や家の人が不在の際、その家を守ること。留守番。
+j	留守札	留守札	不在の旨を書き記して掲げおく札。
+j	留守番	留守番	house-sitting; being at h…
+j	留守録	留守録	voicemail
+j	留守電	留守電	「留守番電話」。
+j	留実子	留実子	a female given name
+j	留寿都	留寿都	Rusutsu (a village in Hok…
+j	留置場	留置場	警察署などに付属して設置され、犯罪の容疑者を収容す…
+j	留置線	留置線	列車を一時的に置いておくための線路。通常、駅に隣接…
+j	留美子	留美子	a female given name
+j	留辺蘂	留辺蘂	Rubeshibe (a former town …
+j	紙一重	紙一重	slight difference
+j	紙吹雪	紙吹雪	confetti
+j	紙婚式	紙婚式	
+j	紙巻き	紙巻き	a roll of paper
+j	紙挟み	紙挟み	
+j	紙漉師	紙漉師	紙を漉いて和紙を作る工匠。
+j	紙粘土	紙粘土	パルプや古紙などをちぎって水に浸してパルプのように…
+j	紙綴器	紙綴器	
+j	紙芝居	紙芝居	kamishibai: story told by…
+j	紙障子	紙障子	組み格子に薄い紙を張った障子。紙障。明かり障子。
+j	紙風船	紙風船	紙を球形になるように張り合わせ空気を吹き込んだ玩具。
+j	継ぎ目	継ぎ目	joint
+j	継家族	継家族	再婚や事実婚などにより血縁のない親子関係や兄弟関係…
+j	継息子	継息子	
+j	継承者	継承者	successor, heir
+j	臙脂虫	臙脂虫	
+j	芙実子	芙実子	a female given name
+j	芙美子	芙美子	a female given name
+j	芙蓉峰	芙蓉峰	富士山。
+j	芙蓉蟹	芙蓉蟹	crab foo young (Chinese d…
+j	蒙古の	蒙古の	
+j	蒙古人	蒙古人	
+j	蒙古斑	蒙古斑	Mongolian spot
+j	蒙古語	蒙古語	「モンゴル語」を参照。
+j	蒙古馬	蒙古馬	a Mongolian horse
+j	薙刀術	薙刀術	naginatajutsu
+j	薙鎌術	薙鎌術	薙鎌によって相手を倒す武術。
+j	蛙の卵	蛙の卵	
+j	蝙蝠傘	蝙蝠傘	a Western-style umbrella …
+j	蝙蝠扇	蝙蝠扇	a kind of folding paper f…
+j	蝙蝠蛸	蝙蝠蛸	
+j	蝙蝠蛾	蝙蝠蛾	Endoclita excrescens, as …
+j	謙った	謙った	
+j	謙二郎	謙二郎	a male given name
+j	謙太朗	謙太朗	a male given name
+j	謙次郎	謙次郎	a male given name
+j	謙治郎	謙治郎	a male given name
+j	謙虚な	謙虚な	
+j	謙譲語	謙譲語	humble language
+j	鄙びる	鄙びる	to give off a rural/rusti…
+j	鐙骨筋	鐙骨筋	a stapedius muscle
+j	雙子宮	雙子宮	
+j	静かな	静かな	
+j	静かに	静かに	
+j	静けさ	静けさ	
+j	静まる	静まる	to quiet down
+j	静める	静める	to silence
+j	静力学	静力学	静的な物体に働く力についての力学。
+j	静岡市	静岡市	静岡県の県庁所在地。
+j	静岡県	静岡県	Shizuoka (a prefecture in…
+j	静止画	静止画	still picture
+j	静止系	静止系	静止した視点から見た系。
+j	静物画	静物画	a still life
+j	静脈瘤	静脈瘤	varicose vein (medical co…
+j	静脈血	静脈血	全身で二酸化炭素を取り入れ、酸素を放出した血液。肺…
+j	静電力	静電力	クーロン力。
+j	静電学	静電学	
+j	静電気	静電気	static electricity
+j	香しい	香しい	
+j	香の物	香の物	漬け物。ぬかづけ。香香。
+j	香り米	香り米	
+j	香り袋	香り袋	
+j	香代子	香代子	a female given name
+j	香具師	香具師	person who makes or sells…
+j	香味料	香味料	食べ物や飲み物に香味を与えるために加える材料。ネギ…
+j	香央里	香央里	a female given name
+j	香奈子	香奈子	a female given name
+j	香川県	香川県	a prefecture of Japan in …
+j	香豌豆	香豌豆	sweet pea
+j	香辛料	香辛料	spice
+j	香道家	香道家	香道の指導を職業とする人。
+j	騙し絵	騙し絵	trompe l'oeil
+j	黙する	黙する	だまる。沈黙する。
+j	黙って	黙って	
+j	黙示録	黙示録	the Apocalypse; the Revel…
+j	黙秘権	黙秘権	the right to remain silent
+k	계승자	継承者	successor, heir
+k	교과서	教科書	a textbook
+k	교육학	教育学	pedagogy
+k	교육학	教育學	pedagogy
+k	료리법	料理法	
+k	료리사	料理師	North Korea standard spel…
+k	몽고어	蒙古語	몽골어.
+k	몽고인	蒙古人	Mongolian (person)
+k	몽고점	蒙古点	Mongolian spot
+k	몽고점	蒙古點	Mongolian spot
+k	묘향산	妙香山	Mount Myohyang (a mountai…
+k	묵시록	黙示録	
+k	비망기	備忘記	a document or form on whi…
+k	비망록	備忘錄	memorandum
+k	비망록	備忘録	memorandum
+k	사과주	沙果酒	cider; alcoholic beverage…
+k	사과즙	沙果汁	apple juice (liquid from …
+k	사루계	沙漏計	
+k	사리원	沙里院	Sariwon (a city in South …
+k	사막화	沙漠化	desertification
+k	사진가	写真家	photographer, a photo art…
+k	사진기	写真機	camera (a device for taki…
+k	사진사	写真師	photographer
+k	사진술	写真術	photography
+k	사진집	写真集	
+k	사진첩	写真帖	photo album
+k	서사시	叙事詩	epic poem, narrative poem…
+k	서술자	叙述者	narrator (of a story)
+k	서정시	叙情詩	sentimental poetry, lyric…
+k	선인장	仙人掌	cactus
+k	쌍곡선	雙曲線	hyperbola (geometric curv…
+k	쌍기역	雙기역	the name of jamo ㄲ (kk), …
+k	쌍녀궁	雙女宮	Virgo
+k	쌍디귿	雙디귿	the name of jamo ㄸ (tt), …
+k	쌍반점	雙半點	semicolon
+k	쌍비읍	雙비읍	the name of jamo ㅃ (pp), …
+k	쌍시옷	雙시옷	the name of jamo ㅆ (ss), …
+k	쌍아궁	雙兒宮	Gemini
+k	쌍안경	雙眼鏡	binoculars
+k	쌍어궁	雙魚宮	Pisces
+k	쌍자궁	雙子宮	Gemini
+k	쌍절곤	雙截棍	nunchucks
+k	쌍절곤	雙節棍	nunchucks
+k	쌍지읒	雙지읒	the name of jamo ㅉ (jj), …
+k	연막탄	煙幕弾	
+k	연막탄	煙幕彈	
+k	연무제	煙霧剤	
+k	연무제	煙霧劑	
+k	연무질	煙霧質	aerosol
+k	요금소	料金所	toll booth, tollgate, tol…
+k	요리법	料理法	
+k	요리사	料理師	cook, chef
+k	요리책	料理冊	
+k	요한 묵시록	黙示録	Book of Revelation; The A…
+k	유하다	留하다	to be; to exist
+k	유학생	留学生	international student, st…
+k	유학생	留學生	international student, st…
+k	을해자	乙亥字	"1455 type", a Joseon-era…
+k	저격병	狙撃兵	
+k	저격수	狙撃手	
+k	저격수	狙擊手	
+k	정물화	静物畵	still life
+k	정역학	静力学	statics
+k	정전기	静電気	static electricity
+k	지점토	紙粘土	
+k	지철기	紙綴器	
+k	지혼식	紙婚式	
+k	표제어	標題語	entry (in a dictionary), …
+k	표준궤	標準軌	standard gauge
+k	표준시	標準時	
+k	표준어	標準語	standard language
+k	표준화	標準化	standardization
+k	표지판	標識板	sign, notice, signboard
+k	향로석	香炉石	a stone in front of a tom…
+k	향로석	香爐石	a stone in front of a tom…
+k	향신료	香辛料	spice
+k	후보자	候補者	applicant, candidate
+j	乙女ゲー	乙女ゲー	
+j	余儀無い	余儀無い	unavoidable
+j	余割関数	余割関数	余割を導く関数。コセカント。
+j	余弦合成	余弦合成	偏角の等しい正弦関数・余弦関数の一次結合を一つの余…
+j	余弦関数	余弦関数	余弦を導く関数。コサイン。
+j	余所乍ら	余所乍ら	casually
+j	余所行き	余所行き	going out
+j	余接関数	余接関数	余接を導く関数。コタンジェント。
+j	余裕綽々	余裕綽々	calm, with composure
+j	余裕綽綽	余裕綽綽	落ち着き払っているさま。
+j	余韻嫋々	余韻嫋々	lingering in the air
+j	余韻嫋嫋	余韻嫋嫋	物事が終わった後まで残るさま。
+j	備忘価額	備忘価額	（会計）減価償却等が完了した資産のように0貨幣単位…
+j	備蓄する	備蓄する	
+j	写実主義	写実主義	realism; literalism
+j	写真写り	写真写り	写真撮影した際の写り方。
+j	写真撮影	写真撮影	
+j	写真植字	写真植字	phototypesetting; photoco…
+j	写真機商	写真機商	中古カメラを扱う古物商。
+j	妙見菩薩	妙見菩薩	天部の一人で、北極星または北斗七星を神格化したもの…
+j	宙に浮く	宙に浮く	to float in midair
+j	忙しない	忙しない	busy; hurried
+j	挙動不審	挙動不審	behaving suspiciously; sk…
+j	挙国一致	挙国一致	国民全員が心を一つにし、ある目的に向かうこと。
+j	教えて君	教えて君	someone who immediately p…
+j	教会会議	教会会議	
+j	教会学校	教会学校	「日曜学校」に同じ。
+j	教務部長	教務部長	
+j	教外別伝	教外別伝	禅宗で文字など表に表されたものでなく仏の真理を直接…
+j	教授言語	教授言語	教育機関で授業の際に教員の主に用いる言語。
+j	教条主義	教条主義	dogmatism
+j	教條主義	教條主義	
+j	教科書体	教科書体	a style reminiscent of 楷(…
+j	教習施設	教習施設	特別な技術、技能などを教習したり、習得させたりする…
+j	教習機関	教習機関	特別な技術、技能などを教習したり、習得させたりする…
+j	教育する	教育する	
+j	教育ママ	教育ママ	
+j	教育上の	教育上の	
+j	教育大学	教育大学	教育系の単科大学。
+j	教育学者	教育学者	教育学を研究する科学者。
+j	教育学部	教育学部	大学の学部として設置されているものの一つ。学校教員…
+j	教育実習	教育実習	teaching practice
+j	教育機関	教育機関	educational institution
+j	教育漢字	教育漢字	the 1,026 kanji taught in…
+j	教育的な	教育的な	
+j	教育職員	教育職員	学校などで教育に従事する人。
+j	教育訓練	教育訓練	現在または将来に渡って要求される能力を開発するため…
+j	教養小説	教養小説	
+j	料理する	料理する	
+j	料理の本	料理の本	
+j	料理学校	料理学校	料理に関する教育を行う学校。
+j	料理番組	料理番組	cooking show
+j	料簡違い	料簡違い	考えが間違っていること。
+j	料額印面	料額印面	郵便はがきなどの表面にある、切手に類似する図柄が印…
+j	標本空間	標本空間	確率論において、試行による結果全体の集合。
+j	標本調査	標本調査	統計的な分析のために、母集団の一部を調査すること。…
+j	標準偏差	標準偏差	standard deviation
+j	標準入力	標準入力	standard input
+j	標準内積	標準内積	2つの実ベクトル A = (a₁ a₂ ... a…
+j	標準出力	標準出力	standard output
+j	標準和名	標準和名	あるものに対して一つ以上ある和名のうち、標準とされ…
+j	標準時間	標準時間	standard time
+j	標準的な	標準的な	
+j	標準英語	標準英語	
+j	標準電波	標準電波	標準時を送信するための電波。
+j	沙羅双樹	沙羅双樹	sal; shala (Shorea robust…
+j	涙ぐんだ	涙ぐんだ	
+j	涙を流す	涙を流す	
+j	涙腺崩壊	涙腺崩壊	violent crying
+j	炙り出す	炙り出す	
+j	焙焼した	焙焼した	
+j	焙焼する	焙焼する	
+j	煙に巻く	煙に巻く	（通常、受け身で用いて）（特に火事などの場合に）煙…
+j	煙り出し	煙り出し	
+j	煙探知機	煙探知機	
+j	煙突雨燕	煙突雨燕	
+j	牙を剥く	牙を剥く	to be hostile
+j	狙撃する	狙撃する	
+j	留保する	留保する	
+j	留意する	留意する	
+j	痙性麻痺	痙性麻痺	中枢神経の障害により痙縮を伴う麻痺。
+j	痙攣性の	痙攣性の	
+j	紙おむつ	紙おむつ	
+j	紙やすり	紙やすり	sandpaper
+j	紙コップ	紙コップ	a paper cup
+j	紙パック	紙パック	carton (box-like containe…
+j	紙ヤスリ	紙ヤスリ	
+j	紙巻煙草	紙巻煙草	「紙巻きたばこ」の別表記。
+j	紙蚊帳釣	紙蚊帳釣	papyrus (plant in the sed…
+j	紙飛行機	紙飛行機	a paper aeroplane
+j	継承する	継承する	
+j	継続する	継続する	
+j	蒙古人種	蒙古人種	
+j	蒙古文字	蒙古文字	「モンゴル文字」を参照。
+j	蒙古襲来	蒙古襲来	元寇の別名。
+j	蒙古野馬	蒙古野馬	a Przewalski's horse
+j	蒙和辞典	蒙和辞典	モンゴル語の単語や熟語を、日本語で定義し、用法等を…
+j	蒙昧主義	蒙昧主義	obscurantism (deliberate …
+j	蒙蒙辞典	蒙蒙辞典	モンゴル語の語句をモンゴル語で定義した辞典を、モン…
+j	薙ぎ払う	薙ぎ払う	to mow down
+j	薙刀術家	薙刀術家	薙刀術を行う武術家またはそれで生業としている者、修…
+j	薙刀香薷	薙刀香薷	Vietnamese balm, Elsholtz…
+j	蛙化現象	蛙化現象	disliking someone once th…
+j	蛙鳴蝉噪	蛙鳴蝉噪	やかましく騒ぐこと。騒がしいだけの無駄な論議。蛙や…
+j	謙遜した	謙遜した	
+j	躙り寄る	躙り寄る	to sidle up to; to scoot …
+j	這い出す	這い出す	crawl out, creep out
+j	這い出る	這い出る	to crawl out
+j	静止した	静止した	
+j	静止衛星	静止衛星	静止軌道にある衛星。地表からは常に同じ位置に見える。
+j	静止軌道	静止軌道	公転周期が地球の自転周期と等しくなる人工衛星の軌道…
+j	静脈注射	静脈注射	intravenous injection
+j	静電定数	静電定数	クーロンの法則の比例定数 kのこと。誘電率をεとし…
+j	静電容量	静電容量	
+j	静電引力	静電引力	クーロン力。
+j	静電気力	静電気力	クーロン力。
+j	香ばしい	香ばしい	fragrant, aromatic
+j	香り高い	香り高い	
+j	香を聞く	香を聞く	to smell incense
+j	香囲粉陣	香囲粉陣	香りの囲いと白粉の陣ということから、多くの美女に囲…
+j	香港ドル	香港ドル	
+j	香港風邪	香港風邪	H3N2亜型のインフルエンザウイルスが引き起こすイ…
+j	香箱座り	香箱座り	sitting in a catloaf pose
+j	騙し取る	騙し取る	
+j	騙取する	騙取する	
+j	鷙鳥厲疾	鷙鳥厲疾	七十二候の一つ。大寒の次候（中国）。鷲や鷹などが空…
+j	黙らせる	黙らせる	
+j	黙り込む	黙り込む	to fall silent, to go qui…
+j	黙認する	黙認する	
+k	몽매주의	蒙昧主義	obscurantism
+k	사발통문	沙鉢通文	
+k	사상누각	沙上楼閣	모래 위에 세워진 누각처럼 기초가 약해 위태롭…
+k	사상누각	沙上樓閣	모래 위에 세워진 누각처럼 기초가 약해 위태롭…
+k	쌍봉낙타	雙峯駱駝	Bactrian camel
+k	쌍봉낙타	雙峰駱駝	Bactrian camel
+k	을사오적	乙巳五賊	the Five Eulsa Traitors: …
+k	정전용량	静電容量	
+k	표준 편차	標準偏差	(통계) 분산 (variance)에 양의 제곱…
+k	표준시간	標準時間	
+j	乙女ゲーム	乙女ゲーム	otome game
+j	余ベクトル	余ベクトル	コベクトル。
+j	余分に払う	余分に払う	
+j	余因子行列	余因子行列	正方行列Aに対し、(i, j)成分がAの(i, j…
+j	余裕がある	余裕がある	
+j	備え付ける	備え付ける	provide with; equip with;…
+j	写実主義者	写実主義者	a realist
+j	写真を撮る	写真を撮る	
+j	写真屋さん	写真屋さん	
+j	匙を投げる	匙を投げる	to throw in the towel, to…
+j	叙述形容詞	叙述形容詞	predicative adjective
+j	妙法蓮華経	妙法蓮華経	the Lotus Sutra of the Su…
+j	妙見尊星王	妙見尊星王	
+j	挙措を失う	挙措を失う	
+j	教えること	教えること	
+j	教会ソナタ	教会ソナタ	sonata da chiesa
+j	教科書検定	教科書検定	完成した教科書に不備がないか、文部科学省が点検する…
+j	教科用図書	教科用図書	textbook (abbr. 教科書)
+j	教育委員会	教育委員会	国や地方公共団体などに設置される教育行政を司る行政…
+j	教育実習生	教育実習生	student teacher
+j	教鞭をとる	教鞭をとる	教師として勤務する。
+j	標本化周期	標本化周期	アナログ信号を標本化するときの、標本の時間間隔。サ…
+j	標準中国語	標準中国語	中国語のうち、中華人民共和国における標準語。祖語は…
+j	標準化する	標準化する	
+j	標準化変量	標準化変量	あるデータの値からそのデータの算術平均を引き、その…
+j	標的型攻撃	標的型攻撃	サイバー攻撃のうち特定の個人や事業者を狙って行われ…
+j	涙ぐましい	涙ぐましい	touching; moving; painful
+j	煙突掃除人	煙突掃除人	
+j	留守番電話	留守番電話	an answering machine
+j	紙巻き煙草	紙巻き煙草	
+j	紙巻たばこ	紙巻たばこ	
+j	紙巻タバコ	紙巻タバコ	
+j	蛙の子は蛙	蛙の子は蛙	A child grows up to be ve…
+j	蛙の面に水	蛙の面に水	蛙の面へ水の別形。
+j	蛙の面へ水	蛙の面へ水	何をしても平然としていられるさま。
+j	蛙の頬冠り	蛙の頬冠り	先を見据えることのできない人。
+j	静かにする	静かにする	
+j	静まり返る	静まり返る	for a silence to fall, fa…
+j	香りのよい	香りのよい	
+j	香港ポップ	香港ポップ	
+j	香箱を作る	香箱を作る	猫などが、足を折りたたみ蹲る。
+j	黙っている	黙っている	
+j	黙りこくる	黙りこくる	to fall silent, to clam up
+j	黙りなさい	黙りなさい	? of 黙る: please be quiet
+k	사개	沙疥/砂疥	dovetail
+k	사과	沙果/砂果	apple
+k	사구	沙丘/砂丘	sand dune
+k	사기	沙器/砂器	fraud; swindle
+k	사막	沙漠/砂漠	desert (barren area)
+k	사문	沙紋/砂紋	
+k	사석	沙錫/砂錫	private occasion; private…
+k	사장	沙場/砂場	CEO or director of a comp…
+k	사포	沙布/砂布	sandpaper
+k	표제	標題/表題	title; heading
+j	余所余所しい	余所余所しい	cold, distant
+j	余計なお世話	余計なお世話	
+j	叙述トリック	叙述トリック	misleading narrative rela…
+j	挙げ句の果て	挙げ句の果て	in the end
+j	教会ラテン語	教会ラテン語	
+j	教会ローマ字	教会ローマ字	
+j	教育訓練給付	教育訓練給付	雇用保険の被保険者または被保険者であった者（労働者…
+j	料理用りんご	料理用りんご	
+j	標本化周波数	標本化周波数	アナログ信号を標本化するときの、標本化周期の逆数。…
+j	標準複素内積	標準複素内積	標準エルミート内積に同じ。
+j	紙巻きたばこ	紙巻きたばこ	a cigarette
+j	紙巻きタバコ	紙巻きタバコ	
+j	継ぎ合わせる	継ぎ合わせる	to join together
+j	継続は力なり	継続は力なり	何かを継続して行えば、いずれは結果として現れるもの…
+j	蛙の面に小便	蛙の面に小便	like water off a duck's b…
+j	這っても黒豆	這っても黒豆	明らかに間違いとわかっても、自分の間違いを認めよう…
+j	静かなる革命	静かなる革命	
+j	静止摩擦係数	静止摩擦係数	静止している物体の摩擦係数。
+j	香港ポップス	香港ポップス	
+j	香港教育字形	香港教育字形	「常用字字形表」に掲載された字形。
+j	黙ってしまう	黙ってしまう	
+k	교회 일치 운동	教会一致運動	
+k	교회 일치 운동	教會一致運動	
+k	연기 감지기	煙気 感知器	
+k	연기 감지기	煙氣 感知器	
+j	余り物に福あり	余り物に福あり	残り物には福があるの別形。
+j	余り茶に福あり	余り茶に福あり	茶筒の使い残した茶葉や、飲み残しの茶には、思いがけ…
+j	余計なお世話だ	余計なお世話だ	
+j	写真写りがいい	写真写りがいい	photogenic
+j	教えてエロい人	教えてエロい人	Someone tell me!
+j	教材用のカード	教材用のカード	
+j	教育訓練給付金	教育訓練給付金	雇用保険の被保険者または被保険者であった者（教育訓…
+j	標準アラビア語	標準アラビア語	
+j	黙示録の四騎士	黙示録の四騎士	
+j	余り物に福がある	余り物に福がある	余ったものや、人が残したものの中には、思いがけず良…
+j	隙あらば自分語り	隙あらば自分語り	talking about oneself whe…
+j	余命いくばくもない	余命いくばくもない	
+j	備えあれば憂いなし	備えあれば憂いなし	事前に起こりうることを色々と想定して備えておけば、…
+j	教うるは学ぶの半ば	教うるは学ぶの半ば	By teaching, we learn. Do…
+j	教育訓練休暇給付金	教育訓練休暇給付金	雇用保険の一般被保険者が、職業に関する教育訓練を受…
+j	教育訓練支援給付金	教育訓練支援給付金	厚生労働大臣の指定する専門実践教育訓練を受けている…
+j	標準エルミート内積	標準エルミート内積	2つの複素ベクトル A = (a₁ a₂ ... …
+j	教会のネズミのように貧しい	教会のネズミのように貧しい	

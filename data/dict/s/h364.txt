@@ -1,0 +1,116 @@
+k	폐	폐	lung (organ)
+k	폐가	폐가	
+k	폐간	폐간	
+k	폐강	폐강	
+k	폐거	폐거	
+k	폐경	폐경	menopause
+k	폐공	폐공	a tribute
+k	폐관	폐관	
+k	폐광	폐광	
+k	폐교	폐교	
+k	폐국	폐국	자기 나라를 겸손하게 이르는 말.
+k	폐궁	폐궁	
+k	폐급	폐급	military supplies that sh…
+k	폐기	폐기	못 쓰게 된 것을 버림.
+k	폐단	폐단	evil; negative effect
+k	폐렴	폐렴	pneumonia
+k	폐막	폐막	
+k	폐멸	폐멸	
+k	폐목	폐목	
+k	폐문	폐문	
+k	폐물	폐물	
+k	폐백	폐백	pyebaek (a traditional Ko…
+k	폐병	폐병	
+k	폐비	폐비	
+k	폐사	폐사	
+k	폐색	폐색	
+k	폐석	폐석	
+k	폐선	폐선	
+k	폐쇄	폐쇄	closure, shutdown
+k	폐쇠	폐쇠	한자어 '폐쇄'(閉鎖)의 비표준어.
+k	폐수	폐수	
+k	폐습	폐습	
+k	폐안	폐안	
+k	폐암	폐암	lung cancer
+k	폐어	폐어	lungfish
+k	폐업	폐업	
+k	폐염	폐염	'폐렴'의 비표준어.
+k	폐엽	폐엽	
+k	폐옥	폐옥	
+k	폐위	폐위	
+k	폐유	폐유	
+k	폐의	폐의	
+k	폐인	폐인	the handicapped, the crip…
+k	폐장	폐장	'허파'.
+k	폐적	폐적	
+k	폐절	폐절	
+k	폐점	폐점	
+k	폐정	폐정	
+k	폐제	폐제	버려서 없애는 것.
+k	폐지	폐지	abolition; discontinuation
+k	폐차	폐차	wreck (car that has been …
+k	폐첨	폐첨	
+k	폐포	폐포	pulmonary alveolus
+k	폐품	폐품	waste; junk
+k	폐하	폐하	His Majesty, Your Majesty
+k	폐합	폐합	
+k	폐해	폐해	
+k	폐허	폐허	ruins
+k	폐회	폐회	
+k	폐후	폐후	
+k	폐각근	폐각근	
+k	폐간호	폐간호	
+k	폐결핵	폐결핵	
+k	폐경기	폐경기	menopause
+k	폐곡선	폐곡선	
+k	폐구간	폐구간	
+k	폐기물	폐기물	
+k	폐기종	폐기종	pulmonary emphysema
+k	폐동맥	폐동맥	
+k	폐렴균	폐렴균	
+k	폐막식	폐막식	closing ceremony
+k	폐모음	폐모음	
+k	폐백반	폐백반	
+k	폐쇄기	폐쇄기	
+k	폐쇄음	폐쇄음	'파열음'.
+k	폐쇄적	폐쇄적	
+k	폐수관	폐수관	
+k	폐수종	폐수종	
+k	폐음절	폐음절	
+k	폐장암	폐장암	
+k	폐전색	폐전색	
+k	폐정맥	폐정맥	
+k	폐지안	폐지안	실시해 오던 제도나 법규, 일 따위를 그만두거…
+k	폐집합	폐집합	
+k	폐출혈	폐출혈	
+k	폐혈관	폐혈관	
+k	폐활량	폐활량	
+k	폐회식	폐회식	closing ceremony
+k	폐간되다	폐간되다	
+k	폐간하다	폐간하다	
+k	폐강되다	폐강되다	
+k	폐강하다	폐강하다	
+k	폐기되다	폐기되다	
+k	폐기하다	폐기하다	
+k	폐사하다	폐사하다	
+k	폐색장치	폐색장치	
+k	폐색전선	폐색전선	
+k	폐쇄되다	폐쇄되다	문 등이 닫히다.
+k	폐쇄하다	폐쇄하다	개방된 곳을 닫다.
+k	폐수처리	폐수처리	
+k	폐업하다	폐업하다	
+k	폐지되다	폐지되다	to be annulled; to be rep…
+k	폐지하다	폐지하다	to abolish, repeal, disco…
+k	폐차처분	폐차처분	
+k	폐차하다	폐차하다	
+k	폐합하다	폐합하다	
+k	폐환하다	폐환하다	
+k	폐활량계	폐활량계	
+k	폐회되다	폐회되다	
+k	폐회하다	폐회하다	
+k	폐소공포증	폐소공포증	claustrophobia
+k	폐쇄공포증	폐쇄공포증	synonym of 폐소공포증(閉所恐怖症) (…
+k	폐실공포증	폐실공포증	synonym of 폐소공포증(閉所恐怖症) (…
+k	폐일언하다	폐일언하다	(주로 '폐일언하고' 꼴로 쓰여) 이러니저러니…
+k	폐쇄성 수역	폐쇄성 수역	외부로부터 들어오는 또는 외부로 나가는 물의 …
+k	폐열회수보일러	폐열회수보일러	가스터빈 에서 발생한 고온의 배기열을 회수하여…

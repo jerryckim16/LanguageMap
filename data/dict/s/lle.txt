@@ -1,0 +1,260 @@
+e	leg	leg	5 meanings
+e	leo	leo	3 meanings
+e	let	let	2 meanings
+e	leu	leu	1 meaning
+e	lev	lev	1 meaning
+e	lead	lead	11 meanings
+e	leaf	leaf	3 meanings
+e	leah	leah	1 meaning
+e	leak	leak	5 meanings
+e	lean	lean	4 meanings
+e	leap	leap	5 meanings
+e	leek	leek	1 meaning
+e	lees	lees	1 meaning
+e	left	left	7 meanings
+e	lego	lego	1 meaning
+e	lena	lena	1 meaning
+e	lend	lend	1 meaning
+e	lens	lens	2 meanings
+e	lent	lent	1 meaning
+e	leon	leon	2 meanings
+e	lest	lest	1 meaning
+e	leto	leto	1 meaning
+e	levi	levi	1 meaning
+e	levy	levy	5 meanings
+e	lewd	lewd	1 meaning
+e	lezhë	lezh	2 meanings
+e	learn	learn	4 meanings
+e	leash	leash	1 meaning
+e	least	least	1 meaning
+e	leave	leave	3 meanings
+e	leduc	leduc	1 meaning
+e	leech	leech	1 meaning
+e	leeds	leeds	1 meaning
+e	legal	legal	3 meanings
+e	lemma	lemma	3 meanings
+e	lemon	lemon	4 meanings
+e	lemur	lemur	1 meaning
+e	lenin	lenin	1 meaning
+e	leper	leper	1 meaning
+e	lepus	lepus	1 meaning
+e	lerik	lerik	1 meaning
+e	leshy	leshy	1 meaning
+e	let be	letbe	2 meanings
+e	let go	letgo	1 meaning
+e	lethe	lethe	1 meaning
+e	letup	letup	1 meaning
+e	level	level	4 meanings
+e	lever	lever	2 meanings
+e	leyte	leyte	2 meanings
+e	lezgi	lezgi	1 meaning
+e	leaded	leaded	1 meaning
+e	leader	leader	1 meaning
+e	league	league	2 meanings
+e	leaven	leaven	1 meaning
+e	lebbek	lebbek	1 meaning
+e	lecher	lecher	1 meaning
+e	lechon	lechon	1 meaning
+e	ledger	ledger	1 meaning
+e	leeway	leeway	2 meanings
+e	legacy	legacy	1 meaning
+e	legato	legato	1 meaning
+e	legend	legend	3 meanings
+e	legion	legion	1 meaning
+e	leiden	leiden	1 meaning
+e	lender	lender	1 meaning
+e	length	length	2 meanings
+e	lennon	lennon	1 meaning
+e	lentil	lentil	2 meanings
+e	lepton	lepton	1 meaning
+e	leslie	leslie	1 meaning
+e	lesson	lesson	5 meanings
+e	lessor	lessor	1 meaning
+e	let's go	letsgo	3 meanings
+e	lethal	lethal	1 meaning
+e	letter	letter	2 meanings
+e	leuven	leuven	1 meaning
+e	levant	levant	1 meaning
+e	lexeme	lexeme	1 meaning
+e	ålesund	lesund	1 meaning
+e	le havre	lehavre	1 meaning
+e	leading	leading	1 meaning
+e	leaflet	leaflet	1 meaning
+e	leakage	leakage	1 meaning
+e	leander	leander	2 meanings
+e	leap day	leapday	1 meaning
+e	learned	learned	1 meaning
+e	learner	learner	1 meaning
+e	leather	leather	1 meaning
+e	lebanon	lebanon	1 meaning
+e	lechery	lechery	1 meaning
+e	lecture	lecture	1 meaning
+e	legging	legging	1 meaning
+e	leghorn	leghorn	1 meaning
+e	legible	legible	1 meaning
+e	leglock	leglock	1 meaning
+e	leipzig	leipzig	1 meaning
+e	leisure	leisure	2 meanings
+e	lemming	lemming	1 meaning
+e	lens cap	lenscap	1 meaning
+e	leopard	leopard	1 meaning
+e	leotard	leotard	1 meaning
+e	leporid	leporid	1 meaning
+e	leprosy	leprosy	1 meaning
+e	lesbian	lesbian	2 meanings
+e	lesotho	lesotho	1 meaning
+e	let down	letdown	2 meanings
+e	lettuce	lettuce	2 meanings
+e	leucine	leucine	1 meaning
+e	leucoma	leucoma	1 meaning
+e	level up	levelup	1 meaning
+e	leveret	leveret	1 meaning
+e	lexical	lexical	2 meanings
+e	lexicon	lexicon	1 meaning
+e	leanness	leanness	1 meaning
+e	leap year	leapyear	1 meaning
+e	leapfrog	leapfrog	1 meaning
+e	learning	learning	1 meaning
+e	lecithin	lecithin	1 meaning
+e	lecturer	lecturer	1 meaning
+e	left bank	leftbank	1 meaning
+e	left hand	lefthand	1 meaning
+e	left wing	leftwing	1 meaning
+e	left-wing	leftwing	1 meaning
+e	leftover	leftover	1 meaning
+e	legalese	legalese	1 meaning
+e	legalism	legalism	3 meanings
+e	legalize	legalize	1 meaning
+e	legitime	legitime	1 meaning
+e	leinster	leinster	1 meaning
+e	lemonade	lemonade	2 meanings
+e	lengthen	lengthen	1 meaning
+e	leniency	leniency	1 meaning
+e	leninism	leninism	1 meaning
+e	leninist	leninist	1 meaning
+e	lenition	lenition	1 meaning
+e	leonardo	leonardo	1 meaning
+e	leopolis	leopolis	2 meanings
+e	les bleus	lesbleus	1 meaning
+e	less than	lessthan	1 meaning
+e	let alone	letalone	1 meaning
+e	let loose	letloose	1 meaning
+e	let me see	letmesee	1 meaning
+e	let's play	letsplay	1 meaning
+e	lethargy	lethargy	2 meanings
+e	leukemia	leukemia	1 meaning
+e	level off	leveloff	1 meaning
+e	leverage	leverage	1 meaning
+e	le vauclin	levauclin	1 meaning
+e	lebkuchen	lebkuchen	1 meaning
+e	lectotype	lectotype	1 meaning
+e	leftovers	leftovers	1 meaning
+e	legendary	legendary	1 meaning
+e	legislate	legislate	1 meaning
+e	leicester	leicester	1 meaning
+e	lemon balm	lemonbalm	1 meaning
+e	lend a hand	lendahand	1 meaning
+e	lend-lease	lendlease	1 meaning
+e	leningrad	leningrad	1 meaning
+e	letterbox	letterbox	3 meanings
+e	leukocyte	leukocyte	1 meaning
+e	leviathan	leviathan	1 meaning
+e	leviticus	leviticus	1 meaning
+e	leyden jar	leydenjar	1 meaning
+e	le lamentin	lelamentin	1 meaning
+e	lead guitar	leadguitar	1 meaning
+e	leadership	leadership	1 meaning
+e	leaf beetle	leafbeetle	1 meaning
+e	leaf insect	leafinsect	1 meaning
+e	leaf sheath	leafsheath	1 meaning
+e	lectionary	lectionary	1 meaning
+e	lederhosen	lederhosen	1 meaning
+e	leeuwarden	leeuwarden	1 meaning
+e	left-footer	leftfooter	2 meanings
+e	left-handed	lefthanded	1 meaning
+e	left-hander	lefthander	1 meaning
+e	legislator	legislator	1 meaning
+e	legitimacy	legitimacy	1 meaning
+e	legitimize	legitimize	1 meaning
+e	lemniscate	lemniscate	1 meaning
+e	lemon juice	lemonjuice	1 meaning
+e	lemongrass	lemongrass	1 meaning
+e	lengthwise	lengthwise	1 meaning
+e	leopard cat	leopardcat	1 meaning
+e	leprechaun	leprechaun	1 meaning
+e	leptonetid	leptonetid	1 meaning
+e	less is more	lessismore	1 meaning
+e	letter case	lettercase	2 meanings
+e	lexicology	lexicology	1 meaning
+e	île-de-france	ledefrance	1 meaning
+e	leading edge	leadingedge	2 meanings
+e	league table	leaguetable	1 meaning
+e	least weasel	leastweasel	1 meaning
+e	leave behind	leavebehind	1 meaning
+e	left fielder	leftfielder	1 meaning
+e	legal person	legalperson	1 meaning
+e	legal tender	legaltender	1 meaning
+e	legislation	legislation	2 meanings
+e	legislature	legislature	1 meaning
+e	lengthening	lengthening	1 meaning
+e	leopard seal	leopardseal	1 meaning
+e	lexical item	lexicalitem	1 meaning
+e	leave me alone	leavemealone	1 meaning
+e	legalization	legalization	1 meaning
+e	lemon chicken	lemonchicken	1 meaning
+e	lemon verbena	lemonverbena	1 meaning
+e	lepidopteran	lepidopteran	1 meaning
+e	lesser poland	lesserpoland	1 meaning
+e	letter opener	letteropener	1 meaning
+e	levantine sea	levantinesea	1 meaning
+e	lexicography	lexicography	1 meaning
+e	lead poisoning	leadpoisoning	1 meaning
+e	leaf-cutter ant	leafcutterant	1 meaning
+e	leakproofness	leakproofness	1 meaning
+e	learning curve	learningcurve	1 meaning
+e	legion of honor	legionofhonor	1 meaning
+e	leishmaniasis	leishmaniasis	1 meaning
+e	lemon squeezer	lemonsqueezer	1 meaning
+e	lepidocrocite	lepidocrocite	1 meaning
+e	leptospirosis	leptospirosis	1 meaning
+e	lesser kestrel	lesserkestrel	1 meaning
+e	letter carrier	lettercarrier	1 meaning
+e	letters patent	letterspatent	1 meaning
+e	level crossing	levelcrossing	1 meaning
+e	lexicographer	lexicographer	1 meaning
+e	lecture theatre	lecturetheatre	1 meaning
+e	letter of credit	letterofcredit	1 meaning
+e	letter of intent	letterofintent	1 meaning
+e	leading question	leadingquestion	1 meaning
+e	league of nations	leagueofnations	1 meaning
+e	least flycatcher	leastflycatcher	1 meaning
+e	lenticular cloud	lenticularcloud	1 meaning
+e	lesser celandine	lessercelandine	1 meaning
+e	let there be light	lettherebelight	1 meaning
+e	lethal injection	lethalinjection	1 meaning
+e	levantine arabic	levantinearabic	1 meaning
+e	lexical analysis	lexicalanalysis	1 meaning
+e	lexical category	lexicalcategory	1 meaning
+e	lebanese republic	lebaneserepublic	1 meaning
+e	lemon meringue pie	lemonmeringuepie	1 meaning
+e	lenticular galaxy	lenticulargalaxy	1 meaning
+e	lesser yellowlegs	lesseryellowlegs	1 meaning
+e	letter of credence	letterofcredence	1 meaning
+e	left-luggage office	leftluggageoffice	1 meaning
+e	legislative branch	legislativebranch	1 meaning
+e	lenticular bracket	lenticularbracket	1 meaning
+e	letter to the editor	lettertotheeditor	1 meaning
+e	l'esprit de l'escalier	lespritdelescalier	1 meaning
+e	leaning tower of pisa	leaningtowerofpisa	1 meaning
+e	learning disability	learningdisability	1 meaning
+e	leave someone on read	leavesomeoneonread	1 meaning
+e	lesser spotted eagle	lesserspottedeagle	1 meaning
+e	let sleeping dogs lie	letsleepingdogslie	1 meaning
+e	least common multiple	leastcommonmultiple	1 meaning
+e	least significant bit	leastsignificantbit	1 meaning
+e	legal representative	legalrepresentative	1 meaning
+e	let bygones be bygones	letbygonesbebygones	1 meaning
+e	leave well enough alone	leavewellenoughalone	1 meaning
+e	lesser black-backed gull	lesserblackbackedgull	1 meaning
+e	letter of recommendation	letterofrecommendation	1 meaning
+e	lesser white-fronted goose	lesserwhitefrontedgoose	1 meaning

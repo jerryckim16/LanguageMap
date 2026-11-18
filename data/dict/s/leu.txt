@@ -1,0 +1,545 @@
+k	으	eu	한글 홀소리 'ㅡ'의 이름. (부록: 한글 자…
+k	으아	eua	감탄하여 외치는 소리.
+k	은	eun	silver
+k	을	eul	B; used to enumerate the …
+k	음	eum	hmm, umm, uh; indicating …
+k	읍	eup	a town with at least 2000…
+e	euro	euro	1 meaning
+e	euro-	euro	1 meaning
+k	에우다	euda	to encircle
+k	으나	euna	('ㄹ'을 제외한 받침 있는 용언의 어간이나 …
+k	으레	eure	customarily; typically; c…
+k	으로	euro	
+k	으악	euak	놀라거나 어떤 일을 당했을 때 크게 지르는 소…
+k	은이	euni	
+k	응	eung	yes
+e	euler	euler	1 meaning
+e	eupen	eupen	1 meaning
+k	에웅이	eungi	
+k	으느	euneu	
+k	으아리	euari	Clematis terniflora var. …
+k	으음	eueum	
+k	으이구	euigu	expression of surprise; o…
+k	으찌	eujji	
+k	은사	eunsa	
+k	은수	eunsu	
+k	은애	eunae	
+k	은어	euneo	An ayu (Plecoglossus alti…
+k	은위	eunwi	
+k	은유	eunyu	metaphor
+k	은인	eunin	benefactor
+k	은자	eunja	hermit; recluse
+k	은제	eunje	Jeolla dialect, Chungcheo…
+k	은지	eunji	
+k	은하	eunha	Milky Way
+k	읃다	eutda	
+k	을미	eulmi	The thirty-second term of…
+k	을사	eulsa	The forty-second term of …
+k	을유	euryu	The twenty-second term of…
+k	읊다	eupda	to recite
+k	음가	eumga	phonetic value
+k	음기	eumgi	
+k	음모	eummo	conspiracy
+k	음미	eummi	
+k	음보	eumbo	시에서 운율을 이루는 기본 단위.
+k	음부	eumbu	private parts
+k	음세	eumse	('ㄹ'을 제외한 받침 있는 동사 어간 뒤에 …
+k	음소	eumso	phoneme
+k	음수	eumsu	negative number
+k	음악	eumak	music
+k	음어	eumeo	codeword
+k	음운	eumun	phoneme
+k	음유	eumyu	
+k	음의	eumui	
+k	음조	eumjo	
+k	음주	eumju	consumption of alcohol
+k	음지	eumji	shady spot, shadowed place
+k	음파	eumpa	sound wave
+k	읍소	eupso	눈물을 흘리며 하소연을 간절히 함.
+k	읎다	eupda	
+e	euboea	euboea	1 meaning
+e	euclid	euclid	1 meaning
+e	eugene	eugene	1 meaning
+e	eulogy	eulogy	1 meaning
+e	eunuch	eunuch	2 meanings
+e	eureka	eureka	1 meaning
+e	europa	europa	2 meanings
+e	europe	europe	1 meaning
+j	エウアンテ	euante	木星の第33衛星の固有名。
+j	エウボイア	euboia	
+j	エウレカ	eureka	
+j	エウロス	eurosu	東風の神。ローマ神話におけるウルトゥルヌスに相当。
+j	エウロパ	europa	木星の第二衛星の固有名。
+j	エウロペ	europe	「エウローペー」の別表記。
+j	エウローペー	europe	Europa
+k	에우로파	europa	
+k	에우로페	europe	
+k	으늑	euneuk	평화, 평온, 안녕
+k	으른	eureun	Jeolla dialect, Chungcheo…
+k	으며	eumyeo	('ㄹ'을 제외한 받침 있는 용언의 어간이나 …
+k	으세요	euseyo	('ㄹ'을 제외한 받침 있는 용언의 어간 뒤에…
+k	으쌰	eussya	Let's do it!
+k	으응	eueung	
+k	으적	eujeok	꽤 단단한 물건을 깨물어 부스러뜨릴 때 나는 …
+k	으째	eujjae	
+k	으티기	eutigi	
+k	윽윽	eugeuk	
+k	은계	eungye	
+k	은닉	eunnik	concealment
+k	은둔	eundun	세상일을 피하여 숨음.
+k	은막	eunmak	
+k	은박	eunbak	
+k	은발	eunbal	silver hair
+k	은빛	eunbit	silver, argent
+k	은신	eunsin	hiding
+k	은원	eunwon	
+k	은퇴	euntoe	retirement
+k	은패	eunpae	
+k	은폐	eunpye	
+k	은혜	eunhye	grace, benefit, blessing
+k	은화	eunhwa	silver coin
+k	을묘	eulmyo	The fifty-second term of …
+k	을해	eulhae	The twelfth term of the C…
+k	음각	eumgak	주어진 선분을 축으로 하여 회전하였을 때, 오…
+k	음감	eumgam	
+k	음계	eumgye	musical scale
+k	음달	eumdal	'응달'의 북한말.
+k	음담	eumdam	
+k	음독	eumdok	reading or phonetic value…
+k	음란	eumnan	obsceneness; lewdness
+k	음료	eumnyo	drink, beverage
+k	음매	eummae	소나 송아지의 울음소리를 나타내는 말.
+k	음목	eummok	vagina
+k	음문	eummun	vulva, vagina
+k	음반	eumban	record, album, disk
+k	음복	eumbok	
+k	음서	eumseo	
+k	음속	eumsok	소리가 매질(媒質)을 통하여 전파되는 속도. …
+k	음순	eumsun	labia
+k	음식	eumsik	food, including drink
+k	음약	eumyak	
+k	음욕	eumyok	lust; sexual desire
+k	음원	eumwon	a sound source
+k	음이온	eumion	
+k	음질	eumjil	audio quality
+k	음치	eumchi	
+k	음탐	eumtam	
+k	음폭	eumpok	
+k	음표	eumpyo	note
+k	음해	eumhae	
+k	음허	eumheo	
+k	음화	eumhwa	사진술에서 실제 대상과 명암이 반대로 된 것.
+k	음훈	eumhun	hundok (the Korean native…
+k	읍내	eumnae	
+k	응가	eungga	poo, pooing, caca
+k	응고	eunggo	
+k	응모	eungmo	application, entry, submi…
+k	응보	eungbo	retribution, revenge
+k	응소	eungso	reporting for duty; respo…
+k	응수	eungsu	response, retort, riposte…
+k	응시	eungsi	applying for an examinati…
+k	응코	eungko	
+e	euanthe	euanthe	1 meaning
+e	eugenia	eugenia	1 meaning
+e	euglena	euglena	1 meaning
+e	eurabia	eurabia	1 meaning
+e	eurasia	eurasia	1 meaning
+e	europol	europol	1 meaning
+e	europop	europop	1 meaning
+e	eurybia	eurybia	1 meaning
+e	eustace	eustace	1 meaning
+e	euterpe	euterpe	1 meaning
+e	eutocia	eutocia	1 meaning
+j	エウヘニア	euhenia	
+j	エウポリエ	euporie	木星の第34衛星の固有名。
+k	에우로비아	eurobia	
+k	에우리비아	euribia	
+k	으떤	eutteon	
+k	으뜸	eutteum	first, principal, main, k…
+k	으로서	euroseo	('ㄹ'로 끝나지 않는 받침이 있는 명사나 대…
+k	으르다	eureuda	to menace, to intimidate,…
+k	으쓱	eusseuk	갑자기 어깨를 한 번 들먹이는 모양.
+k	으찌나	eujjina	
+k	으터게	euteoge	
+k	으트게	euteuge	
+k	은공	eungong	
+k	은근	eungeun	politeness, courtesy
+k	은덕	eundeok	
+k	은상	eunsang	
+k	은색	eunsaek	silver (colour)
+k	은전	eunjeon	
+k	은하수	eunhasu	the Milky Way
+k	을축	eulchuk	The second term of the Ch…
+k	음가자	eumgaja	a phonetically-adapted ph…
+k	음극	eumgeuk	
+k	음낭	eumnang	scrotum
+k	음녀	eumnyeo	
+k	음덕	eumdeok	
+k	음률	eumnyul	
+k	음모자	eummoja	
+k	음색	eumsaek	
+k	음송	eumsong	
+k	음쓰	eumsseu	
+k	음악가	eumakga	musician (person who perf…
+k	음악사	eumaksa	음악의 역사를 가리키는 말.
+k	음악의	eumagui	
+k	음양	eumyang	negative and positive; yi…
+k	음역	eumyeok	transliteration
+k	음전	eumjeon	말이나 행동이 곱고 우아함. 또는 얌전하고 점…
+k	음절	eumjeol	syllable
+k	음탕	eumtang	debauchery, lewdness, dis…
+k	음핵	eumhaek	clitoris
+k	읍니다	eupnida	'-습니다' (1988년까지 있다, 없다, 과…
+k	응낙	eungnak	
+k	응달	eungdal	shade; shaded spot
+k	응답	eungdap	answer
+k	응대	eungdae	response, reaction
+k	응분	eungbun	that which is deserved or…
+k	응원	eungwon	cheering (for); rooting f…
+k	응웬	eungwen	a transliteration of the …
+k	응집	eungjip	한군데에 엉겨서 뭉침.
+e	eugenics	eugenics	1 meaning
+e	euphoria	euphoria	1 meaning
+e	eurobeat	eurobeat	1 meaning
+e	european	european	2 meanings
+e	europium	europium	1 meaning
+e	eurozone	eurozone	1 meaning
+e	eurydice	eurydice	1 meaning
+e	eustress	eustress	1 meaning
+e	euxenite	euxenite	1 meaning
+j	エウケラデ	eukerade	木星の第47衛星の固有名。
+j	エウテルペ	euterupe	
+j	エウテルペー	euterupe	Euterpe
+j	エウリドメ	euridome	木星の第32衛星の固有名。
+k	으깨다	eukkaeda	to grind or crush through…
+k	으뜨게	eutteuge	
+k	으셔요	eusyeoyo	('ㄹ'을 제외한 받침 있는 용언의 어간 뒤에…
+k	으지적	eujijeok	'으적'의 본말.
+k	으찌께	eujjikke	
+k	으트끼	euteukki	
+k	은대구	eundaegu	sablefish (Anoplopoma fim…
+k	은메달	eunmedal	silver medal
+k	은밀히	eunmilhi	
+k	은박지	eunbakji	
+k	은세계	eunsegye	
+k	은수저	eunsujeo	a silver spoon and chopst…
+k	은시목	eunsimok	
+k	은정	eunjeong	
+k	은제품	eunjepum	
+k	은종이	eunjongi	
+k	은하계	eunhagye	galaxy, galactic system
+k	은하단	eunhadan	galaxy cluster
+k	은행	eunhaeng	a bank (financial institu…
+k	을거나	eulgeona	자신의 어떤 의사에 대하여 자문하거나 상대편의…
+k	을렁	eulreong	
+k	을릉	eulreung	
+k	을해자	eulhaeja	"1455 type", a Joseon-era…
+k	음독자	eumdokja	a semantically-adapted ph…
+k	음량	eumnyang	sound volume
+k	음력	eumnyeok	the traditional lunisolar…
+k	음렬	eumnyeol	pudendal cleft
+k	음료수	eumnyosu	beverage, drink
+k	음마개	eummagae	
+k	음모론	eummoron	conspiracy theory
+k	음성	eumseong	voice
+k	음수대	eumsudae	
+k	음식비	eumsikbi	
+k	음악계	eumakgye	
+k	음악과	eumakgwa	
+k	음악대	eumakdae	
+k	음악실	eumaksil	
+k	음악학	eumakhak	musicology
+k	음악회	eumakhoe	concert
+k	음영	eumyeong	shadow; shade
+k	음운론	eumunnon	phonology
+k	음운학	eumunhak	
+k	음정	eumjeong	interval
+k	음창	eumchang	
+k	음함수	eumhamsu	
+k	음행	eumhaeng	
+k	음향	eumhyang	sound
+k	음흉	eumhyung	겉으로는 부드러워 보이나 속으로는 엉큼하고 흉…
+k	응가위	eunggawi	
+k	응급	eunggeup	emergency
+k	응당	eungdang	rightly, deservedly
+k	응득	eungdeuk	indulgence
+k	응모자	eungmoja	entry, applicant
+k	응석	eungseok	
+k	응연	eungyeon	rightly, rightfully, appr…
+k	응용	eungyong	application, usage
+k	응우옌	eunguyen	a transliteration of the …
+k	응응	eungeung	어린아이가 응석을 부리며 잇따라 우는 소리. …
+k	응접	eungjeop	reception (act of receivi…
+k	응축	eungchuk	기체의 상에서 액체의 상으로 변하는 것을 가리…
+k	응코어	eungkoeo	
+k	응하다	eunghada	to answer, respond
+e	eucharist	eucharist	2 meanings
+e	eukaryote	eukaryote	1 meaning
+e	euphemism	euphemism	2 meanings
+e	euphonium	euphonium	1 meaning
+e	euphorbia	euphorbia	1 meaning
+e	euphrates	euphrates	1 meaning
+e	euripides	euripides	1 meaning
+e	eurodance	eurodance	1 meaning
+j	エウリュディケー	euryudike	
+k	에우테르페	eutereupe	
+k	으깨이다	eukkaeida	
+k	으드득	eudeudeuk	매우 단단한 물건을 힘껏 깨물어 깨뜨리는 소리.
+k	으떻게	eutteotge	
+k	으러지다	eureojida	
+k	으로부터	eurobuteo	'ㄹ'로 끝나지 않는 받침이 있는 명사나 대명…
+k	으챱따	euchaptta	서비스나 상품을 제공하는 사람에게 하는 시녀짓…
+k	으텋개	euteotgae	
+k	으틓개	euteutgae	
+k	윽물다	eungmulda	
+k	은경	eungyeong	
+k	은근히	eungeunhi	slowly and constantly
+k	은도금	eundogeum	
+k	은매화	eunmaehwa	
+k	은빛의	eunbichui	
+k	은연어	eunyeoneo	the coho salmon, Oncorhyn…
+k	은유법	eunyubeop	사물의 상태나 움직임을 암시적으로 나타내는 수…
+k	은자메나	eunjamena	N'Djamena (the capital ci…
+k	은혼식	eunhonsik	silver anniversary
+k	은화과	eunhwagwa	syconium
+k	읊조리다	eupjorida	to recite, to chant
+k	음경	eumgyeong	penis
+k	음모설	eummoseol	conspiracy theory
+k	음미하다	eummihada	남녀 교제나 풍속, 몸차림 따위가 절도가 없이…
+k	음바바네	eumbabane	Mbabane (the capital of E…
+k	음식값	eumsikgap	food price, cost of food/…
+k	음악 게임	eumakgeim	
+k	음악당	eumakdang	
+k	음악적	eumakjeok	
+k	음양가	eumyangga	School of Naturalists
+k	음양도	eumyangdo	
+k	음양사	eumyangsa	고대 일본의 율령제하에서 천문, 점술, 역 등…
+k	음양소	eumyangso	
+k	음역어	eumyeogeo	a word that represents th…
+k	음역자	eumyeokja	a sinogram created and us…
+k	음용수	eumyongsu	drinking water
+k	음울하다	eumulhada	기분이나 분위기 따위가 음침하고 우울하다.
+k	음유맥	eumyumaek	기경 팔맥의 하나. 전신의 음맥(陰脈)들을 서…
+k	음유시인	eumyusiin	troubadour, bard, minstrel
+k	음유하다	eumyuhada	
+k	음전기	eumjeongi	
+k	음전자	eumjeonja	
+k	음주하다	eumjuhada	
+k	읍사무소	eupsamuso	
+k	응 아니야	eunganiya	yeah, no (sarcastic negat…
+k	응결	eunggyeol	coagulation; condensation
+k	응고물	eunggomul	
+k	응답기	eungdapgi	responder, answering mach…
+k	응룡	eungnyong	
+k	응원가	eungwonga	
+k	응회암	eunghoeam	tuff
+e	eucalyptus	eucalyptus	1 meaning
+e	eudiometer	eudiometer	1 meaning
+e	euhemerism	euhemerism	1 meaning
+e	euromaidan	euromaidan	1 meaning
+e	eurovision	eurovision	2 meanings
+e	euthanasia	euthanasia	1 meaning
+j	エウリピデス	euripidesu	
+j	エウリーピデース	euripidesu	
+k	으뜸음	eutteumeum	음계의 첫 소리.
+k	으뜸패	eutteumpae	trump
+k	으면서	eumyeonseo	('ㄹ'을 제외한 받침 있는 용언의 어간이나 …
+k	으슥하다	euseukhada	to be desolate, to be sec…
+k	윽다물다	eukdamulda	
+k	윽윽하다	eugeukhada	
+k	은단풍	eundanpung	
+k	은밀하다	eunmilhada	to be secret, to be cover…
+k	은신처	eunsincheo	hideout, hideaway, refuge…
+k	은은하다	euneunhada	to be faint, to be indist…
+k	은탄환	euntanhwan	
+k	은퇴하다	euntoehada	to retire
+k	은행가	eunhaengga	banker
+k	은회색	eunhoesaek	
+k	을 깨우다	eulkkaeuda	
+k	을사오적	eulsaojeok	the Five Eulsa Traitors: …
+k	음교맥	eumgyomaek	기경 팔맥의 하나. 양교맥과 짝을 이루어 전신…
+k	음란하다	eumnanhada	obscene, lewd
+k	음복하다	eumbokhada	
+k	음산하다	eumsanhada	
+k	음소문자	eumsomunja	phonemic script; phonetic…
+k	음식물	eumsingmul	food and drink
+k	음식점	eumsikjeom	restaurant, eatery
+k	음악광	eumakgwang	
+k	음자리표	eumjaripyo	
+k	음절순	eumjeolsun	(격식) 가나다순; 단어나 문장을 음절의 순서…
+k	음절초	eumjeolcho	
+k	음탐하다	eumtamhada	
+k	음탕한	eumtanghan	
+k	음해하다	eumhaehada	
+k	음향기	eumhyanggi	
+k	음향의	eumhyangui	
+k	응고열	eunggoyeol	
+k	응고점	eunggojeom	
+k	응니애미	eungniaemi	
+k	응시하다	eungsihada	눈길을 모아 한 곳을 똑바로 바라보다.
+k	응아응아	eungaeunga	
+k	응원단	eungwondan	
+e	euphemistic	euphemistic	1 meaning
+e	eurasianism	eurasianism	1 meaning
+e	european eel	europeaneel	1 meaning
+e	europeanity	europeanity	1 meaning
+e	europeanize	europeanize	1 meaning
+j	エウクレイデス	eukureidesu	Euclid
+k	에우리피데스	euripideseu	
+k	으뜨끔	eutteukkeum	
+k	으뜸꼴	eutteumkkol	(언어) 기본형.
+k	으쓱하다	eusseukhada	to shrug (shoulders)
+k	윽물리다	eungmullida	
+k	윽윽대다	eugeukdaeda	
+k	은백색	eunbaeksaek	은의 빛깔과 같은 흰색..
+k	은행원	eunhaengwon	은행에서 근무하는 사람.
+k	을 따라서	eulttaraseo	
+k	을 보호하다	eulbohohada	
+k	을 위해서	eulwihaeseo	
+k	음경암	eumgyeongam	
+k	음극관	eumgeukgwan	
+k	음극선	eumgeukseon	
+k	음밀암밀	eummirammil	
+k	음성학	eumseonghak	말소리를 연구하는 학문이나 분야.
+k	음성화	eumseonghwa	
+k	음악교육	eumakgyoyuk	
+k	음악대학	eumakdaehak	
+k	음악상자	eumaksangja	
+k	음악학교	eumakhakgyo	
+k	음역하다	eumyeokhada	to transliterate (to repr…
+k	음전극	eumjeongeuk	
+k	음주운전	eumjuunjeon	
+k	음침하다	eumchimhada	to be gloomy, dismal, som…
+k	음탕하다	eumtanghada	perverted, lewd, lascivio…
+k	음핵포피	eumhaekpopi	
+k	음향학	eumhyanghak	소리, 초음파 등을 연구하는 과학이나 분야.
+k	음휼하다	eumhyulhada	
+k	응급실	eunggeupsil	emergency room
+k	응낙하다	eungnakhada	
+k	응답하다	eungdaphada	to respond; answer
+k	응원법	eungwonbeop	fanchant
+k	응원하다	eungwonhada	to cheer on; to support
+k	응접실	eungjeopsil	drawing room
+k	응집하다	eungjiphada	한군데에 엉겨서 뭉치다. 또는 엉겨서 뭉치게 …
+e	euler's number	eulersnumber	1 meaning
+e	eurasian lynx	eurasianlynx	1 meaning
+e	eurasian teal	eurasianteal	1 meaning
+e	eurasian wren	eurasianwren	1 meaning
+e	eurocentrism	eurocentrism	1 meaning
+e	european shag	europeanshag	1 meaning
+e	europeanness	europeanness	1 meaning
+j	エウスタキオ管	eusutakiokan	
+j	エウヘメリズム	euhemerizumu	
+k	으리으리하다	eurieurihada	재산이나 세력의 크기가 크다
+k	으스스하다	euseuseuhada	creepy
+k	은행권	eunhaenggwon	banknote, paper money
+k	은행나무	eunhaengnamu	ginkgo (tree)
+k	은행장	eunhaengjang	은행을 대표하여 직무상 최고 책임을 맡고 있는…
+k	을 통하여	eultonghayeo	
+k	을밋을밋	eulmiseulmit	기한이나 일 따위를 우물쩍거리며 잇따라 미루는…
+k	음경골	eumgyeonggol	baculum
+k	음성기호	eumseonggiho	
+k	음양력	eumyangnyeok	
+k	음절문자	eumjeolmunja	
+k	음지식물	eumjisingmul	
+k	음청류	eumcheongnyu	nonalcoholic beverage inc…
+k	음파 탐지기	eumpatamjigi	
+k	음흉하다	eumhyunghada	겉으로는 부드러워 보이나 속으로는 엉큼하고 흉…
+k	응소병	eungsobyeong	enlisted soldier; recruit…
+k	응애응애	eungaeeungae	
+k	응얼대다	eungeoldaeda	'응얼거리다'.
+k	응응하다	eungeunghada	
+k	응집력	eungjimnyeok	cohesion, cohesive force
+k	응징하다	eungjinghada	to punish
+e	euler's formula	eulersformula	1 meaning
+e	eurasian hobby	eurasianhobby	1 meaning
+e	european bison	europeanbison	1 meaning
+e	european holly	europeanholly	1 meaning
+e	european robin	europeanrobin	1 meaning
+e	european union	europeanunion	1 meaning
+k	으스름하다	euseureumhada	misty; hazy; vague
+k	윽박지르다	eukbakjireuda	누구를 심하게 정신적으로 억눌러 기를 꺾다.
+k	윽윽거리다	eugeukgeorida	
+k	은방울꽃	eunbangulkkot	lily of the valley
+k	은행업무	eunhaengeommu	
+k	음담패설	eumdampaeseol	
+k	음성 모음	eumseongmoeum	어감이 어두운 모음. ㅓ, ㅜ 등이 있다.
+k	음성모음	eumseongmoeum	negative vowel
+k	음성언어	eumseongeoneo	
+k	음악영화	eumagyeonghwa	
+k	음운 변화	eumunbyeonhwa	음운 체계 안의 어떤 음운 또는 그 체계 자체…
+k	음향신호	eumhyangsinho	
+k	응가나산어	eungganasaneo	러시아에 거주하는 응가나산인들이 사용하는 사모…
+k	응응대다	eungeungdaeda	'응응거리다'.
+e	euclidean space	euclideanspace	2 meanings
+e	eurasian magpie	eurasianmagpie	1 meaning
+e	eurasian siskin	eurasiansiskin	1 meaning
+e	eurasian wigeon	eurasianwigeon	1 meaning
+e	european roller	europeanroller	1 meaning
+e	euroscepticism	euroscepticism	1 meaning
+e	eustachian tube	eustachiantube	1 meaning
+k	에우클레이데스	eukeulleideseu	
+k	은행 계좌	eunhaenggyejwa	
+k	음성 메세지	eumseongmeseji	
+k	음성기관	eumseonggigwan	
+k	음양상박	eumyangsangbak	음과 양이 서로 합하지 아니함.
+k	음풍농월	eumpungnongwol	
+k	음향관제	eumhyanggwanje	
+k	음향양자	eumhyangyangja	phonon
+k	음향효과	eumhyanghyogwa	
+k	응가를 누다	eunggareulnuda	
+k	응게룰무드	eunggerulmudeu	
+k	응얼거리다	eungeolgeorida	글이나 노래 따위를 입속말로 자꾸 읽거나 읊다.
+k	응얼응얼	eungeoreungeol	
+k	응용과학	eungyonggwahak	
+k	응축원반	eungchugwonban	
+e	eurasian bittern	eurasianbittern	1 meaning
+e	eurasian wryneck	eurasianwryneck	1 meaning
+e	european peacock	europeanpeacock	1 meaning
+e	european polecat	europeanpolecat	1 meaning
+e	europeanisation	europeanisation	1 meaning
+k	으스러트리다	euseureoteurida	'으스러뜨리다'.
+k	은 대장장이	eundaejangjangi	
+k	은색마모셋	eunsaengmamoset	silvery marmoset
+k	음극선관	eumgeukseongwan	
+k	음성반응	eumseongbaneung	
+k	응급처치	eunggeupcheochi	
+k	응응거리다	eungeunggeorida	어린아이가 응석을 부리며 잇따라 울다.
+e	eurasian blackcap	eurasianblackcap	1 meaning
+e	eurasian eagle owl	eurasianeagleowl	1 meaning
+e	eurasian nuthatch	eurasiannuthatch	1 meaning
+e	eurasian pygmy owl	eurasianpygmyowl	1 meaning
+e	eurasian scops owl	eurasianscopsowl	1 meaning
+e	eurasian woodcock	eurasianwoodcock	1 meaning
+e	european bee-eater	europeanbeeeater	1 meaning
+e	european hedgehog	europeanhedgehog	1 meaning
+k	으스러뜨리다	euseureotteurida	to crush; to mash
+k	은메달리스트	eunmedalliseuteu	
+k	을밋을밋하다	eulmiseulmithada	
+k	음성 사서함	eumseongsaseoham	voicemail
+k	음성상징	eumseongsangjing	
+k	응등그리다	eungdeunggeurida	
+e	euclidean distance	euclideandistance	1 meaning
+e	euclidean geometry	euclideangeometry	1 meaning
+e	eurasian bullfinch	eurasianbullfinch	1 meaning
+e	eurasian spoonbill	eurasianspoonbill	1 meaning
+e	european goldfinch	europeangoldfinch	1 meaning
+e	european water vole	europeanwatervole	1 meaning
+k	으르렁거리다	eureureonggeorida	
+k	은근히 끓이다	eungeunhikkeurida	
+k	음주측정기	eumjucheukjeonggi	
+e	european bitterling	europeanbitterling	1 meaning
+e	european parliament	europeanparliament	1 meaning
+e	european turtle dove	europeanturtledove	1 meaning
+k	응얼응얼하다	eungeoreungeolhada	
+e	eurasian sparrowhawk	eurasiansparrowhawk	1 meaning
+e	eurasian stone-curlew	eurasianstonecurlew	1 meaning
+e	eurasian treecreeper	eurasiantreecreeper	1 meaning
+e	european central bank	europeancentralbank	1 meaning
+k	응등그러지다	eungdeunggeureojida	
+e	eurasian black vulture	eurasianblackvulture	1 meaning
+e	european river lamprey	europeanriverlamprey	1 meaning
+k	을씨년스럽다	eulssinyeonseureopda	to be shabby, to be drear…
+e	eurasian economic union	eurasianeconomicunion	1 meaning
+k	음절의 끝소리 규칙	eumjeoruikkeutsorigyuchik	말음 법칙.
+k	은유를 사용하여 기술하다	eunyureulsayonghayeogisulhada	

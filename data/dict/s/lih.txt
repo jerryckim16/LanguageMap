@@ -1,0 +1,95 @@
+j	いひ	ihi	水を引く樋。
+j	いほう	iho	位袍
+j	イヒ	ihi	Ihy - the ancient Egyptia…
+j	依庇	ihi	お陰。
+j	帷被	ihi	とばりと夜具。
+j	彙報	iho	種類別に分類し纏めた報告。
+j	慰譬	ihi	諭すこと。
+j	椅披	ihi	もたれ。
+j	畏避	ihi	避けること。
+j	異邦	iho	a foreign country
+j	痿疲	ihi	疲れること。
+j	移封	iho	大名などの領地を他へうつすこと。転封。
+j	蝟皮	ihi	ハリネズミの皮。乾燥させ焼いて粉末にしたものは薬用…
+j	違法	iho	illegal
+j	違非	ihi	違戻。
+j	遺法	iho	昔から引き継がれてきた法や制度。
+k	이하	iha	the following; hereinafter
+k	이호	iho	
+k	이후	ihu	the time following a give…
+j	位牌	ihai	mortuary tablet; spirit t…
+j	異変	ihen	abnormality; deviancy fro…
+j	移変	ihen	移り変わること。変動すること。
+j	違反	ihan	violation
+j	違犯	ihan	violation
+j	違背	ihai	violation, transgression
+j	遺品	ihin	thing left behind by a de…
+j	遺灰	ihai	遺体を火葬にして残った灰。
+j	韋編	ihen	書物を綴じる紐。
+k	이학	ihak	
+k	이해	ihae	understanding, comprehens…
+k	이혼	ihon	divorce (legal dissolutio…
+k	이화	ihwa	
+k	이후에	ihue	
+j	以北	ihoku	north of
+j	伊原	ihara	a surname
+j	医伯	ihaku	優れた医師。
+j	威迫	ihaku	人を脅すこと。威嚇。脅迫。
+j	帷薄	ihaku	室内を仕切る垂れ衣と簾。
+j	胃壁	iheki	胃の内壁。
+j	違法な	ihona	
+j	違法に	ihoni	
+j	違法の	ihono	
+k	이항	ihang	
+k	이화우	ihwau	a shower of pear blossoms…
+k	이히히	ihihi	
+j	いはつ	ihatsu	遺髪: hair of a dead person
+j	異表記	ihyoki	ある単語の異なる表記。
+j	異邦人	ihojin	foreigner, alien
+j	衣鉢	ihatsu	僧侶が着る三衣と一つの鉢。
+j	違法性	ihosei	illegality
+j	違法行為	ihokoi	法秩序に反するような行為。
+j	遺髪	ihatsu	hair of a dead person
+k	이행	ihaeng	fulfillment; performance;…
+k	이향	ihyang	이상한 느낌이 들며 좋게 느껴지는 향기.
+k	이황	ihwang	조선시대의 학자, 정치가. 자는 경호(景浩),…
+k	이회암	ihoeam	
+j	いはゆる	ihayuru	
+j	違反者	ihansha	
+k	이형	ihyeong	atypical appearance, hete…
+k	이혼남	ihonnam	
+e	i hate you	ihateyou	1 meaning
+j	いはしむ	ihashimu	
+j	違反する	ihansuru	
+j	違法配当	ihohaito	会社が配当可能利益がないにも拘わらず利益の配当をす…
+k	이해하다	ihaehada	to understand or comprehe…
+k	이혼녀	ihonnyeo	
+k	이혼하다	ihonhada	to get a divorce
+e	i have aids	ihaveaids	1 meaning
+j	違反切符	ihankippu	
+k	이합체시	ihapchesi	일반적으로 행별 글자로 특정한 단어 및 문장을…
+k	이해되다	ihaedoeda	
+k	이해력	ihaeryeok	
+k	이혼가족	ihongajok	결혼한 부부가 헤어진 가족.
+e	i have a cold	ihaveacold	1 meaning
+j	違反できる	ihandekiru	
+k	이행하다	ihaenghada	to fulfill, to execute, t…
+k	이형태	ihyeongtae	한 형태소가 주위 환경에 따라 음상(音相)을 …
+k	이혼했다	ihonhaetda	
+e	i have a fever	ihaveafever	1 meaning
+k	이해관계	ihaegwangye	
+k	이화작용	ihwajagyong	
+e	i have no money	ihavenomoney	1 meaning
+k	이해 못해요	ihaemothaeyo	
+k	이해가 안 가요	ihaegaangayo	
+k	이해할 수 있다	ihaehalsuitda	
+e	i have a headache	ihaveaheadache	1 meaning
+e	i have a question	ihaveaquestion	1 meaning
+k	이하부정관	ihabujeonggwan	
+k	이해가 빠르게	ihaegappareuge	
+e	i have a toothache	ihaveatoothache	1 meaning
+e	i hope you're happy	ihopeyourehappy	1 meaning
+k	이해할 수 있는	ihaehalsuinneun	
+k	이해할 수 없는	ihaehalsueomneun	
+k	이향견문록	ihyanggyeonmullok	
+k	이해가 못 알아들었어요	ihaegamotaradeureosseoyo	

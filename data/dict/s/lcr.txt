@@ -1,0 +1,277 @@
+e	crt	crt	1 meaning
+e	cry	cry	7 meanings
+e	crab	crab	1 meaning
+e	crag	crag	1 meaning
+e	cram	cram	2 meanings
+e	crap	crap	2 meanings
+e	cree	cree	2 meanings
+e	crew	crew	6 meanings
+e	crib	crib	3 meanings
+e	crop	crop	7 meanings
+e	crow	crow	1 meaning
+e	crack	crack	2 meanings
+e	craft	craft	1 meaning
+e	cramp	cramp	2 meanings
+e	crane	crane	2 meanings
+e	crash	crash	8 meanings
+e	crave	crave	2 meanings
+e	crawl	crawl	2 meanings
+e	crazy	crazy	2 meanings
+e	creak	creak	2 meanings
+e	cream	cream	7 meanings
+e	creed	creed	2 meanings
+e	creek	creek	1 meaning
+e	creep	creep	2 meanings
+e	crepe	crepe	2 meanings
+e	cress	cress	1 meaning
+e	crest	crest	1 meaning
+e	crete	crete	1 meaning
+e	crime	crime	2 meanings
+e	crius	crius	1 meaning
+e	croak	croak	3 meanings
+e	crock	crock	1 meaning
+e	crone	crone	2 meanings
+e	crony	crony	1 meaning
+e	crook	crook	3 meanings
+e	cross	cross	7 meanings
+e	crowd	crowd	2 meanings
+e	crown	crown	2 meanings
+e	cruel	cruel	1 meaning
+e	cruet	cruet	1 meaning
+e	crumb	crumb	2 meanings
+e	crush	crush	3 meanings
+e	crust	crust	2 meanings
+e	crypt	crypt	1 meaning
+e	cradle	cradle	3 meanings
+e	crafty	crafty	1 meaning
+e	cranky	cranky	1 meaning
+e	crater	crater	4 meanings
+e	crayon	crayon	1 meaning
+e	crease	crease	1 meaning
+e	create	create	2 meanings
+e	credit	credit	11 meanings
+e	creepy	creepy	1 meaning
+e	creole	creole	2 meanings
+e	cretan	cretan	1 meaning
+e	crimea	crimea	1 meaning
+e	crisis	crisis	4 meanings
+e	critic	critic	1 meaning
+e	crocus	crocus	1 meaning
+e	cronus	cronus	1 meaning
+e	cronut	cronut	1 meaning
+e	crosne	crosne	1 meaning
+e	crotch	crotch	2 meanings
+e	crouch	crouch	1 meaning
+e	cruise	cruise	1 meaning
+e	crutch	crutch	1 meaning
+e	crypto-	crypto	1 meaning
+e	créteil	crteil	1 meaning
+e	córdoba	crdoba	1 meaning
+e	cracker	cracker	3 meanings
+e	crampon	crampon	1 meaning
+e	craving	craving	1 meaning
+e	crawley	crawley	1 meaning
+e	creator	creator	3 meanings
+e	creeper	creeper	2 meanings
+e	cremate	cremate	1 meaning
+e	crevice	crevice	1 meaning
+e	cricket	cricket	2 meanings
+e	crimson	crimson	2 meanings
+e	crinoid	crinoid	1 meaning
+e	cripple	cripple	2 meanings
+e	croatia	croatia	1 meaning
+e	crochet	crochet	1 meaning
+e	crooked	crooked	2 meanings
+e	crop top	croptop	1 meaning
+e	croquet	croquet	1 meaning
+e	croquis	croquis	1 meaning
+e	crosier	crosier	1 meaning
+e	crow-tit	crowtit	1 meaning
+e	crowbar	crowbar	1 meaning
+e	crowded	crowded	1 meaning
+e	cruelty	cruelty	1 meaning
+e	cruiser	cruiser	2 meanings
+e	crumble	crumble	2 meanings
+e	crumple	crumple	1 meaning
+e	crusade	crusade	3 meanings
+e	crybaby	crybaby	2 meanings
+e	cryptic	cryptic	2 meanings
+e	cryptid	cryptid	1 meaning
+e	crystal	crystal	3 meanings
+e	crabmeat	crabmeat	1 meaning
+e	cranefly	cranefly	1 meaning
+e	crawford	crawford	1 meaning
+e	crayfish	crayfish	1 meaning
+e	creampie	creampie	1 meaning
+e	creatine	creatine	1 meaning
+e	creation	creation	3 meanings
+e	creative	creative	2 meanings
+e	creature	creature	1 meaning
+e	credence	credence	1 meaning
+e	creditor	creditor	1 meaning
+e	crescent	crescent	2 meanings
+e	cressida	cressida	1 meaning
+e	cribbing	cribbing	1 meaning
+e	criminal	criminal	3 meanings
+e	critical	critical	4 meanings
+e	croatian	croatian	2 meanings
+e	cronyism	cronyism	1 meaning
+e	cross out	crossout	1 meaning
+e	crossbar	crossbar	1 meaning
+e	crossbow	crossbow	1 meaning
+e	crossing	crossing	1 meaning
+e	crotchet	crotchet	1 meaning
+e	crown cap	crowncap	1 meaning
+e	crucible	crucible	1 meaning
+e	crucifix	crucifix	1 meaning
+e	crude oil	crudeoil	1 meaning
+e	crumpled	crumpled	1 meaning
+e	crusader	crusader	1 meaning
+e	cruzeiro	cruzeiro	1 meaning
+e	crème brûlée	crmebrle	1 meaning
+e	crab louse	crablouse	1 meaning
+e	crab stick	crabstick	1 meaning
+e	crabgrass	crabgrass	1 meaning
+e	crabshell	crabshell	1 meaning
+e	crackdown	crackdown	1 meaning
+e	cradle cap	cradlecap	1 meaning
+e	craft beer	craftbeer	1 meaning
+e	craftsman	craftsman	1 meaning
+e	cranachan	cranachan	1 meaning
+e	cranberry	cranberry	1 meaning
+e	crapshoot	crapshoot	1 meaning
+e	cream puff	creampuff	1 meaning
+e	cream soda	creamsoda	1 meaning
+e	cream soup	creamsoup	1 meaning
+e	credulous	credulous	1 meaning
+e	cremation	cremation	1 meaning
+e	crescendo	crescendo	3 meanings
+e	cricketer	cricketer	1 meaning
+e	crinoline	crinoline	1 meaning
+e	criterion	criterion	1 meaning
+e	criticism	criticism	1 meaning
+e	criticize	criticize	2 meanings
+e	cro-magnon	cromagnon	1 meaning
+e	crocodile	crocodile	1 meaning
+e	croissant	croissant	1 meaning
+e	croquette	croquette	1 meaning
+e	cross-eyed	crosseyed	1 meaning
+e	crossbeam	crossbeam	1 meaning
+e	crossfire	crossfire	1 meaning
+e	crosshair	crosshair	1 meaning
+e	crossover	crossover	2 meanings
+e	crosstalk	crosstalk	2 meanings
+e	crossvine	crossvine	1 meaning
+e	crosswalk	crosswalk	1 meaning
+e	crossword	crossword	1 meaning
+e	crow's feet	crowsfeet	1 meaning
+e	crêpe paper	crpepaper	1 meaning
+e	crab nebula	crabnebula	1 meaning
+e	crab plover	crabplover	1 meaning
+e	cram school	cramschool	1 meaning
+e	cranesbill	cranesbill	1 meaning
+e	craniotomy	craniotomy	1 meaning
+e	crankshaft	crankshaft	1 meaning
+e	crater lake	craterlake	1 meaning
+e	creaminess	creaminess	1 meaning
+e	creativity	creativity	1 meaning
+e	credential	credential	1 meaning
+e	credit card	creditcard	1 meaning
+e	cretaceous	cretaceous	1 meaning
+e	crime scene	crimescene	1 meaning
+e	crimean war	crimeanwar	1 meaning
+e	cross-dress	crossdress	1 meaning
+e	crossroads	crossroads	1 meaning
+e	cruise ship	cruiseship	1 meaning
+e	crustacean	crustacean	1 meaning
+e	cryptolect	cryptolect	1 meaning
+e	cryptology	cryptology	1 meaning
+e	crash course	crashcourse	1 meaning
+e	cream cheese	creamcheese	1 meaning
+e	creationism	creationism	1 meaning
+e	credentials	credentials	1 meaning
+e	credibility	credibility	1 meaning
+e	credit union	creditunion	1 meaning
+e	creepypasta	creepypasta	1 meaning
+e	crematorium	crematorium	1 meaning
+e	crepuscular	crepuscular	2 meanings
+e	crested ibis	crestedibis	1 meaning
+e	crested lark	crestedlark	1 meaning
+e	criminal law	criminallaw	1 meaning
+e	criminalize	criminalize	1 meaning
+e	criminology	criminology	1 meaning
+e	critical hit	criticalhit	1 meaning
+e	crocodilian	crocodilian	1 meaning
+e	cross to bear	crosstobear	1 meaning
+e	cross-cousin	crosscousin	1 meaning
+e	cross-legged	crosslegged	2 meanings
+e	cross-stitch	crossstitch	1 meaning
+e	crown prince	crownprince	2 meanings
+e	crucian carp	cruciancarp	2 meanings
+e	crucifixion	crucifixion	1 meaning
+e	cryovolcano	cryovolcano	1 meaning
+e	cryptomeria	cryptomeria	1 meaning
+e	cryptovirus	cryptovirus	1 meaning
+e	crystal ball	crystalball	1 meaning
+e	crystalline	crystalline	1 meaning
+e	crystallite	crystallite	1 meaning
+e	crystalloid	crystalloid	1 meaning
+e	crème de cacao	crmedecacao	1 meaning
+e	crêpe de chine	crpedechine	1 meaning
+e	crack cocaine	crackcocaine	1 meaning
+e	cranial nerve	cranialnerve	1 meaning
+e	credit rating	creditrating	1 meaning
+e	crescent moon	crescentmoon	1 meaning
+e	crimean tatar	crimeantatar	2 meanings
+e	criminal code	criminalcode	1 meaning
+e	cringeworthy	cringeworthy	1 meaning
+e	critical mass	criticalmass	1 meaning
+e	crop rotation	croprotation	1 meaning
+e	cross country	crosscountry	1 meaning
+e	cross oneself	crossoneself	1 meaning
+e	cross section	crosssection	1 meaning
+e	crotonic acid	crotonicacid	1 meaning
+e	crowdfunding	crowdfunding	1 meaning
+e	cryptography	cryptography	1 meaning
+e	cryptomnesia	cryptomnesia	1 meaning
+e	crystal class	crystalclass	1 meaning
+e	crystal clear	crystalclear	1 meaning
+e	crystal habit	crystalhabit	1 meaning
+e	crab-eating fox	crabeatingfox	1 meaning
+e	crabeater seal	crabeaterseal	1 meaning
+e	craftsmanship	craftsmanship	1 meaning
+e	criminologist	criminologist	1 meaning
+e	critical point	criticalpoint	1 meaning
+e	crocodile bird	crocodilebird	1 meaning
+e	crocodile tear	crocodiletear	2 meanings
+e	crohn's disease	crohnsdisease	1 meaning
+e	croquembouche	croquembouche	1 meaning
+e	cross one's legs	crossoneslegs	1 meaning
+e	cross-dressing	crossdressing	1 meaning
+e	cross-platform	crossplatform	1 meaning
+e	crossing guard	crossingguard	1 meaning
+e	crown of thorns	crownofthorns	1 meaning
+e	crown princess	crownprincess	1 meaning
+e	cruise control	cruisecontrol	1 meaning
+e	cruise missile	cruisemissile	1 meaning
+e	crystal system	crystalsystem	1 meaning
+e	cranberry juice	cranberryjuice	1 meaning
+e	criminal record	criminalrecord	1 meaning
+e	cryptocurrency	cryptocurrency	1 meaning
+e	crystal lattice	crystallattice	1 meaning
+e	creative commons	creativecommons	1 meaning
+e	criminalization	criminalization	1 meaning
+e	cross tabulation	crosstabulation	1 meaning
+e	cryptobranchoid	cryptobranchoid	1 meaning
+e	crimean peninsula	crimeanpeninsula	1 meaning
+e	critical thinking	criticalthinking	1 meaning
+e	croix-des-bouquets	croixdesbouquets	1 meaning
+e	cross one's fingers	crossonesfingers	1 meaning
+e	cross-examination	crossexamination	1 meaning
+e	critical race theory	criticalracetheory	1 meaning
+e	cross-country skiing	crosscountryskiing	1 meaning
+e	cream-colored courser	creamcoloredcourser	1 meaning
+e	crime against humanity	crimeagainsthumanity	1 meaning
+e	critical reynolds number	criticalreynoldsnumber	1 meaning
+e	creutzfeldt-jakob disease	creutzfeldtjakobdisease	1 meaning
+e	cross my heart and hope to die	crossmyheartandhopetodie	1 meaning

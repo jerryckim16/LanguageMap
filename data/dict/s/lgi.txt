@@ -1,0 +1,1931 @@
+j	ぎ	gi	（接続助詞）終止形について仮定を表す。たら。と。
+j	ギー	gi	ghee
+j	偽	gi	a falsehood, lie
+j	儀	gi	ceremony
+j	妓	gi	female entertainer
+j	技	gi	technique, art, skill
+j	義	gi	justice; a situation whic…
+j	議	gi	discussion; deliberation;…
+j	魏	gi	Wei kingdom in China
+k	기	gi	energy, spirit (of a pers…
+e	gig	gig	1 meaning
+e	gin	gin	1 meaning
+j	ギア	gia	gear
+j	偽位	gii	虚位。
+j	偽意	gii	偽りの心。
+j	戯衣	gii	舞台衣装。
+j	疑畏	gii	疑い、恐れること。
+j	疑異	gii	疑い、怪しむこと。
+j	義意	gii	意義。
+j	銀	gin	silver (lustrous, white, …
+k	기아	gia	hunger, starvation
+k	기우	giu	groundless worry; unfound…
+k	기이	gii	strangeness, weirdness
+k	긴	gin	'길다'의 관형사형.
+k	길	gil	a road, a path, a street,…
+k	긺	gim	'길다'의 명사형.
+k	김	gim	laver (nori, a type of ed…
+k	깁	gip	silk (in general)
+k	깃	git	collar
+e	gift	gift	2 meanings
+e	gifu	gifu	1 meaning
+e	giga-	giga	1 meaning
+e	gill	gill	2 meanings
+e	gilo	gilo	1 meaning
+e	girl	girl	2 meanings
+e	gist	gist	1 meaning
+e	give	give	1 meaning
+e	giza	giza	1 meaning
+e	gizo	gizo	1 meaning
+j	ぎいぎい	gigi	creaking, as of wood or a…
+j	ぎか	gika	偽果: accessory fruit
+j	ぎぎ	gigi	疑義: a doubt
+j	ぎく	giku	疑懼: uneasiness
+j	ぎざ	giza	notch
+j	ぎじ	giji	
+j	ぎす	gisu	きりぎりすの別称。
+j	ぎふ	gifu	古着。
+j	ぎぼ	gibo	柄杓を意味する琉球語のにーぶ、じーぶが由来の日本人…
+j	ぎり	giri	just barely
+j	ギガ	giga	giga-
+j	ギグ	gigu	小規模な演奏会での演奏。
+j	ギス	gisu	嬰ト。
+j	ギゾ	gizo	
+j	ギター	gita	guitar
+j	ギニー	gini	guinea (British gold coin)
+j	ギブ	gibu	「ギブアップ」の略。
+j	ギヤ	giya	「ギア」の表記ゆれ。
+j	ギヤー	giya	「ギア」の表記ゆれ。
+j	ギロ	giro	
+j	ギーク	giku	グロテスクな芸をする芸人。
+j	ギーザ	giza	
+j	ギープ	gipu	ヤギとヒツジの交雑種。
+j	伎女	gijo	a female dancer trainer b…
+j	伎癢	giyo	「技癢」の異表記。
+j	伎道	gido	方術。
+j	偽印	giin	偽造された印鑑。また、それによる印影。
+j	偽器	giki	偽物の器物。
+j	偽増	gizo	偽り、飾ること。偽飾。
+j	偽層	giso	主要な地層と平行でない葉理。斜交葉理。クロスラミナ。
+j	偽扉	gihi	古代エジプトの墓につくられた出入りの出来ない扉。
+j	偽果	gika	accessory fruit
+j	偽葉	giyo	「仮葉」に同じ。
+j	偽装	giso	camouflage, disguise
+j	偽詐	gisa	偽り、騙すこと。嘘。
+j	偽貨	gika	偽造通貨。にせがね。
+j	偽造	gizo	forgery; falsification; f…
+j	偽道	gido	邪道。
+j	儀仗	gijo	ornamental weapon for cer…
+j	儀刀	gito	儀式の際に威儀を整えるために佩刀する太刀。
+j	儀容	giyo	礼儀に適った態度・装い。
+j	儀法	giho	きまり。規定。おきて。
+j	劓刵	giji	古代中国で鼻や耳をそぐこと。
+j	妓女	gijo	a female dancer trainer b…
+j	妓婦	gifu	芸妓。
+j	妓家	gika	芸妓などを置き、客に対し遊芸をさせる家。
+j	妓楼	giro	brothel
+j	妓院	giin	a brothel or similar busi…
+j	岐阜	gifu	Gifu (the capital city of…
+j	巍峨	giga	山などが高くそびえること。また、そのようなさま。
+j	巍巍	gigi	towering; lofty
+j	戯侮	gibu	戯れ、侮ること。
+j	戯婦	gifu	初夜に友人や縁者が集まり新婦をからかう習俗。
+j	戯弄	giro	戯れ、弄ぶこと。からかうこと。
+j	戯画	giga	caricature (satirical por…
+j	戯耍	gisa	誂うこと。
+j	技工	giko	手で加工を行なう技術。また、それを有する者。
+j	技巧	giko	technique, technical abil…
+j	技法	giho	technique
+j	技癢	giyo	自分の手腕・腕前を見せたくてむずむずすること、腕が…
+j	技能	gino	A technical skill that ha…
+j	擬古	giko	むかしの風習ややり方をまねること。
+j	擬扉	gihi	古代エジプトの墓につくられた出入りの出来ない扉。
+j	擬装	giso	disguise
+j	擬議	gigi	熟考すること。よく議論すること。
+j	擬造	gizo	なぞらえ、造ること。
+j	擬闘	gito	俳優や役者が、演技で行う喧嘩や格闘。
+j	擬音	gion	foley, sound effects
+j	擬餌	giji	釣りで実際に生きた餌に似せて人工的に作った餌。擬似…
+j	欺侮	gibu	欺き、侮ること。
+j	欺誣	gifu	騙すこと。
+j	犠打	gida	ゴロやフライで打者はアウトになるがランナーは進塁で…
+j	犠賦	gifu	犠牲を徴収こと。
+j	犠飛	gihi	犠牲フライのこと。
+j	疑似	giji	suspected, doubtful; pseu…
+j	疑怖	gifu	疑い、怖れること。
+j	疑惧	giku	fears and doubts
+j	疑懼	giku	apprehension; uneasiness
+j	疑沮	giso	疑阻。
+j	疑義	gigi	doubt; doubtful point
+j	疑阻	giso	疑い、阻むこと。
+j	祇園	gion	Gion (a district of Kyoto)
+j	祇樹	giju	祇園。
+j	義倉	giso	凶作に備え、食料を蓄えておく倉庫。
+j	義勇	giyu	courage and loyalty
+j	義務	gimu	duty, obligation
+j	義和	giwa	Yihe era of Chinese histo…
+j	義婦	gifu	節婦。
+j	義故	giko	以前恩義をかけたゆかりのある者。
+j	義母	gibo	a mother by moral princip…
+j	義爪	giso	ギターなど弦楽器の弦を弾くために付ける人工の爪。ピ…
+j	義父	gifu	a father by moral princip…
+j	義理	giri	duty, obligation, burden …
+j	義疏	giso	経典の意義や内容を解説した書物。
+j	義義	gigi	Tachysurus nudiceps, a sp…
+j	義耳	giji	人工の耳。
+j	義荘	giso	義田。
+j	義贈	gizo	賄賂。
+j	義鼻	gibi	人工の鼻。
+j	羲和	gika	太陽（や月）。
+j	艤装	giso	rigging
+j	蛾傅	gifu	蟻が甘い物や餌に群がるように大勢の者が群集すること。
+j	蛾附	gifu	蟻が甘い物や餌に群がるように大勢の者が群集すること。
+j	螘動	gido	騒乱。
+j	蟻付	gifu	蟻が甘い物や餌に群がるように大勢の者が群集すること。
+j	蟻動	gido	乱れること。
+j	蟻夢	gimu	儚い夢。
+j	蟻封	giho	蟻が地中に営巣する際に地上へ出し、積み上げた土。
+j	蟻浮	gifu	濁り酒。蟻酒。
+j	蟻附	gifu	「蟻付」の別表記。
+j	蟻鼻	gibi	（蟻の鼻のように）微細なこと。
+j	議事	giji	proceedings of a congress…
+j	議員	giin	a member of a legislature…
+j	議場	gijo	meeting place; assembly h…
+j	議定	gijo	agreement
+j	議故	giko	律令制の六議の一つで、天皇の側近で優遇されていた者…
+j	議案	gian	legislative bill
+j	議能	gino	律令制の六議の一つ。文武に優れその才能を発揮してい…
+j	議院	giin	parliament; congress; hou…
+k	기고	gigo	
+k	기구	gigu	device; tool
+k	기기	gigi	machine, device, equipmen…
+k	기네	gine	나라 이름 '기니'의 북한말.
+k	기니	gini	Guinea (a country in Afri…
+k	기다	gida	to crawl, to creep, to gr…
+k	기도	gido	prayer (practice of commu…
+k	기로	giro	
+k	기마	gima	riding a horse
+k	기무	gimu	밖으로 드러나지 않게 비밀을 지켜야 할 중요한…
+k	기미	gimi	The fifty-sixth term of t…
+k	기보	gibo	
+k	기부	gibu	contribution, donation
+k	기사	gisa	an article, such as in a …
+k	기세	gise	
+k	기소	giso	prosecution, indictment
+k	기수	gisu	
+k	기악	giak	
+k	기안	gian	일의 계획을 짜거나 서류의 바탕을 만드는 일.…
+k	기암	giam	
+k	기압	giap	특정지점의 지구 대기의 압력.
+k	기어	gieo	yes, yeah
+k	기예	giye	
+k	기온	gion	air temperature
+k	기와	giwa	roof tile
+k	기요	giyo	
+k	기운	giun	strength, vigor
+k	기울	giul	bran
+k	기웃	giut	무엇을 보려고 고개나 몸 따위를 한쪽으로 조금…
+k	기위	giwi	어떤 시점보다 앞서. 다 끝나거나 지난 일을 …
+k	기유	giyu	The forty-sixth term of t…
+k	기인	giin	
+k	기일	giil	deathday
+k	기입	giip	record; entry
+k	기자	gija	reporter, journalist, new…
+k	기제	gije	mechanism
+k	기조	gijo	
+k	기주	giju	연직으로 서있는 관과 같은 것 속에 들어있는 …
+k	기지	giji	base (e.g. military, rese…
+k	기타	gita	guitar
+k	기포	gipo	거품.
+k	기피	gipi	evasion; avoidance
+k	기하	giha	'얼마'.
+k	기호	giho	sign; symbol; mark
+k	기후	gihu	climate (long-term atmosp…
+k	길이	giri	length; distance
+k	깊이	gipi	deeply; profoundly
+e	giant	giant	2 meanings
+e	giddy	giddy	2 meanings
+e	gilet	gilet	1 meaning
+e	gimel	gimel	1 meaning
+e	gimpo	gimpo	1 meaning
+e	ginza	ginza	1 meaning
+e	girly	girly	1 meaning
+j	ぎけい	gikei	偽計
+j	ぎし	gishi	技師: engineer; technician
+j	ぎしょ	gisho	偽書: apocryphal writing
+j	ぎねん	ginen	疑念: doubts
+j	ぎまい	gimai	姉分: sister-in-law (spouse…
+j	ぎらん	giran	きらんに同じ。
+j	ぎんこう	ginko	
+j	ギアナ	giana	南アメリカ北東部ガイアナ、スリナム、フランス領ギア…
+j	ギアラ	giara	
+j	ギウアン	giuan	
+j	ギニア	ginia	Guinea (a country in West…
+j	伎倆	giryo	持っている技術。腕前。
+j	偽典	giten	ユダヤ教・キリスト教の文書のうち正典および外典に含…
+j	偽名	gimei	a pseudonym
+j	偽善	gizen	hypocrisy
+j	偽書	gisho	本物に似せて作られた偽物の手紙や書物。
+j	偽朝	gicho	正統ではない朝廷、政府。
+j	偽版	gihan	偽造された版木。また、それによる印刷物。
+j	偽経	gikyo	false scripture; specific…
+j	偽製	gisei	偽物をつくること。偽造。
+j	偽計	gikei	他人を欺くための計略。
+j	偽証	gisho	perjury
+j	偽誓	gisei	
+j	偽軍	gigun	puppet army
+j	偽金	gikin	硫化錫（Ⅳ）からなる金色の顔料。
+j	偽電	giden	偽の電報。
+j	儀典	giten	儀式に関する規定。
+j	儀制	gisei	儀式と制度。
+j	儀文	gibun	型。形式。
+j	儀礼	girei	etiquette, ceremony, cour…
+j	儀範	gihan	従うべき模範。手本。
+j	儀表	gihyo	模範。手本。
+j	劓刑	gikei	古代中国の五刑の一つ。罪人の鼻を削ぎ落とす刑罰。
+j	吟句	ginku	吟詠する詩歌の句。
+j	吟味	ginmi	thoroughly reviewing
+j	吟哦	ginga	to recite poetry with a c…
+j	吟情	ginjo	詩歌を吟詠しようという気持ち。
+j	吟歩	ginpo	詩歌をつくったり吟じたりしながら歩くこと。
+j	吟詠	ginei	recitation (of poetry); c…
+j	吟道	gindo	日本の芸道の一つで詩吟や吟詠に礼法や作法を加えたも…
+j	吟醸	ginjo	careful brewing with care…
+j	吟香	ginko	吟醸酒のような華やかな果物の香り。
+j	妓名	gimei	芸妓、遊女などの名。
+j	妓館	gikan	娼婦を置いて客をもてなす店。遊女屋。
+j	宜昌	gisho	Yichang (a city in Hubei,…
+j	宜蘭	giran	Yilan (a city in Taiwan)
+j	巍然	gizen	高くそびえたつこと。
+j	戯慢	giman	戯れ、侮ること。
+j	戯文	gibun	戯れに書く文章。
+j	戯書	gisho	"playful writing", a type…
+j	戯訓	gikun	playful kun'yomi in the M…
+j	戯評	gihyo	漫画や戯文で社会を批評すること。
+j	技倆	giryo	持っている技術。
+j	技名	gimei	name of a technique / move
+j	技士	gishi	特定の技術資格を有する者。また、それらの資格者に与…
+j	技師	gishi	engineer
+j	技芸	gigei	美術や工芸などの技術。
+j	技量	giryo	ability, competence
+j	擬主	gishu	主君のふりをすること。
+j	擬似餌	gijie	釣りで実際に生きた餌に似せて人工的に作った餌。
+j	擬制	gisei	便宜的に想定すること。かりになぞらえること。擬似的…
+j	擬勢	gisei	見せ掛けの勢い。
+j	擬声	gisei	人や動物の音声を真似ること。また、その音声。
+j	擬岩	gigan	artificial rock
+j	擬態	gitai	mimicry
+j	擬戦	gisen	実戦に準じて行う戦い。
+j	擬死	gishi	動物が急激な刺激に対し、死んでしまったかのように不…
+j	擬製	gisei	imitation, forgery, copy
+j	曦輪	girin	太陽。羲輪。
+j	欺慢	giman	欺き、侮ること。
+j	欺瞞	giman	deception, deceit
+j	欺計	gikei	他人を欺くたくらみ。
+j	欺讕	giran	事実でないことを事実であるかのように騙すこと。誣妄。
+j	犠牲	gisei	sacrifice
+j	疑乱	giran	疑い、戸惑うこと。
+j	疑問	gimon	a question (implies a dou…
+j	疑団	gidan	心中に残る疑念のかたまり。
+j	疑念	ginen	doubt
+j	疑殆	gitai	疑い、恐れること。
+j	疑氷	gihyo	（硬い氷のような）疑い。疑念。疑惑。
+j	疑点	giten	疑問に思う所。
+j	祇園会	gione	京都祇園社（八坂神社）の祭礼。現在7月に行われる。
+j	祇林	girin	祇園。
+j	祇王寺	gioji	a nunnery in front of Sag…
+j	義人	gijin	righteous person; pious p…
+j	義兄	gikei	brother-in-law (spouse's …
+j	義分	gibun	人道のために尽くすこと。
+j	義塚	gicho	無縁の故人を祀った塚。
+j	義士	gishi	righteous person
+j	義妹	gimai	sister-in-law (spouse's y…
+j	義姉	gishi	sister-in-law (spouse's e…
+j	義廩	girin	義倉。
+j	義弟	gitei	brother-in-law (spouse's …
+j	義憤	gifun	righteous indignation
+j	義戦	gisen	正義のために戦う戦争。
+j	義手	gishu	artificial arm
+j	義指	gishi	指を失った人が、失った指の代わりに装着する人工の指。
+j	義断	gidan	縁を切ること。義絶。
+j	義旧	gikyu	むかしの縁故の人。
+j	義枝	gishi	接ぎ木で台木に接ぐ方の木。接ぎ穂。
+j	義歯	gishi	dentures; false teeth
+j	義殿	giden	寺院。
+j	義田	giden	中国で一族の中で困窮者の救済や教育、祭祀などのため…
+j	義眼	gigan	人工の眼。入れ目。
+j	義肢	gishi	artificial limb; prosthet…
+j	義解	gikai	explanation (of meaning);…
+j	義訓	gikun	false reading (a kanji co…
+j	義趣	gishu	物事の根本となるような意味。
+j	義軍	gigun	正義のために行う戦争。また、その軍勢。
+j	義金	gikin	義捐金（義援金）に同じ。
+j	義門	gimon	意味。
+j	羲輪	girin	太陽。曦輪。
+j	艤舟	gishu	出航のための船の準備をすること。
+j	蟻丘	gikyu	蟻塚。
+j	蟻宮	gikyu	蟻塚。
+j	蟻蚕	gisan	孵化したばかりの蚕。
+j	蟻酒	gishu	濁り酒。
+j	蟻酸	gisan	formic acid
+j	蟻集	gishu	蟻が餌に群がるように集まること。
+j	議会	gikai	a legislature (government…
+j	議官	gikan	明治初期、立法機関を構成した官職の名称。
+j	議所	gisho	内裏の宜陽殿にある一室で、公卿が集議したところ。
+j	議政	gisei	討議、論議により政治を行うこと。
+j	議論	giron	discussion
+j	議連	giren	
+j	議長	gicho	chairman (person presidin…
+j	議題	gidai	agenda
+j	銀価	ginka	（通常、1グラム当たりの）銀の価格。
+j	銀印	ginin	銀製の印章。
+j	銀器	ginki	silver, silverware (knive…
+j	銀地	ginji	布や紙などの下地に、銀泥を塗ったり、銀箔を張ったり…
+j	銀塩	ginen	silver salt; silver halide
+j	銀字	ginji	銀泥で書かれた文字。
+j	銀宝	ginpo	ニシキギンポ科の海産の魚。うみどじょう。かみそりう…
+j	銀布	ginfu	銀色の布
+j	銀座	ginza	Ginza, a district in Toky…
+j	銀庫	ginko	金庫。
+j	銀歯	ginba	銀でできた義歯。
+j	銀河	ginga	synonym of 銀河系 (Gingakei,…
+j	銀窠	ginka	銀印。
+j	銀葉	ginyo	銀を紙のように延ばしたもの。
+j	銀蛾	ginga	ヤガ科の蛾。学名はChasminodes albo…
+j	銀行	ginko	a bank (financial institu…
+j	銀貨	ginka	silver (coins), silver co…
+j	銀鉱	ginko	silver mine
+j	魏軍	gigun	Wei (魏) army
+k	기각	gigak	dismissal, rejection
+k	기간	gigan	a set interval or period …
+k	기갈	gigal	(속어) 억지로 여성스러움을 흉내내고자 하는 …
+k	기갑	gigap	기계로 무장하는 것. 또는 그렇게 된 물체.
+k	기개	gigae	
+k	기거	gigeo	
+k	기계	gigye	machine; machinery
+k	기괴	gigoe	
+k	기교	gigyo	
+k	기국	giguk	
+k	기납	ginap	
+k	기내	ginae	나라의 수도를 중심으로 하여 사방으로 뻗어 나…
+k	기단	gidan	상대적으로 넓은 면적에 퍼져 있는 수평적으로 …
+k	기담	gidam	
+k	기대	gidae	expectation; hope
+k	기독	gidok	Christ
+k	기래	girae	
+k	기레이	girei	(당구) 좋아!.
+k	기록	girok	a record (of something)
+k	기뢰	giroe	
+k	기류	giryu	
+k	기린	girin	a giraffe (mammal)
+k	기립	girip	
+k	기마에	gimae	선심, 호기.
+k	기마이	gimai	The tendency to give out …
+k	기만	giman	deception, trickery (usua…
+k	기말	gimal	
+k	기묘	gimyo	The sixteenth term of the…
+k	기물	gimul	object; article
+k	기민	gimin	굶주린 백성.
+k	기밀	gimil	secret
+k	기반	giban	base, foundation
+k	기발	gibal	flag
+k	기복	gibok	땅이 고르지 않고 높아졌다 낮아졌다 함.
+k	기본	gibon	basis, foundation
+k	기분	gibun	feeling, mood
+k	기세이	gisei	
+k	기속	gisok	
+k	기숙	gisuk	
+k	기술	gisul	technology
+k	기스	giseu	흠, 흠집.
+k	기식	gisik	남의 집에 붙어서 밥을 얻어먹고 지냄.
+k	기실	gisil	actually; as a matter of …
+k	기십	gisip	
+k	기애이	giaei	
+k	기약	giyak	vow to meet; promise to m…
+k	기억	gieok	recall; the faculty of me…
+k	기업	gieop	a business
+k	기여	giyeo	contribution
+k	기외이	gioei	
+k	기우제	giuje	
+k	기웃이	giusi	'기웃'
+k	기원	giwon	praying
+k	기육	giyuk	
+k	기율	giyul	
+k	기윽	gieuk	the name of the second ja…
+k	기이다	giida	to hide/conceal a fact fr…
+k	기작	gijak	어떤 일이 일어나는 작용의 과정
+k	기재	gijae	기량(器量)과 재능을 아울러 이르는 말.
+k	기저	gijeo	base; basis
+k	기존	gijon	existing (already); preex…
+k	기준	gijun	a fundamental standard or…
+k	기진	gijin	
+k	기질	gijil	temperament, disposition
+k	기차	gicha	train
+k	기체	giche	gas
+k	기초	gicho	foundation, basis
+k	기치	gichi	banner, flag
+k	기탁	gitak	어떤 일을 부탁하여 맡겨 둠.
+k	기탄	gitan	
+k	기판	gipan	circuit board
+k	기폭	gipok	
+k	기표	gipyo	
+k	기품	gipum	
+k	기필	gipil	꼭 이루어지기를 기약함.
+k	기학	gihak	vexillology
+k	기한	gihan	time limit
+k	기함	giham	flagship
+k	기합	gihap	concentration of spirit
+k	기해	gihae	The thirty-sixth term of …
+k	기혼	gihon	이미 결혼함.
+k	기화	gihwa	
+k	기회	gihoe	opportunity
+k	기효	gihyo	기이한 효험. 또는 뛰어난 효험.
+k	긱사	giksa	
+k	긴요	ginyo	
+k	긴자	ginja	일본 도쿄 중앙부에 있는 번화가. 유명 백화점…
+k	긷다	gitda	to draw (water from a wel…
+k	길가	gilga	roadside
+k	길게	gilge	
+k	길다	gilda	to be long
+k	길미	gilmi	
+k	길보	gilbo	
+k	길운	girun	fortune; good luck
+k	길일	giril	
+k	길조	giljo	
+k	김포	gimpo	Gimpo (a city in Gyeonggi…
+k	깁다	gipda	to sew, to mend; to patch…
+k	깁옷	gibot	silk clothes
+k	깃다	gitda	
+k	깅이	gingi	게의 제주도 사투리.
+k	깇다	gitda	to cough (must always tak…
+k	깊다	gipda	to be deep
+e	gibbon	gibbon	1 meaning
+e	giblet	giblet	1 meaning
+e	giggle	giggle	1 meaning
+e	gigolo	gigolo	2 meanings
+e	gilaki	gilaki	1 meaning
+e	gilded	gilded	1 meaning
+e	gilgal	gilgal	1 meaning
+e	gimlet	gimlet	2 meanings
+e	ginger	ginger	6 meanings
+e	ginkgo	ginkgo	2 meanings
+e	girder	girder	1 meaning
+e	girdle	girdle	1 meaning
+e	girona	girona	1 meaning
+e	gitega	gitega	1 meaning
+e	give up	giveup	3 meanings
+j	ぎいち	giichi	義一: a male given name
+j	ぎそく	gisoku	偽足, 擬足: pseudopod
+j	ぎっちょ	gitcho	left-handedness, left-han…
+j	ぎりり	giriri	物の軋む音。
+j	ぎんぎん	gingin	犬や虫などがうるさく鳴くさま。
+j	ぎんざん	ginzan	銀山: silver mine
+j	ギザ十	gizaju	側面がギザギザになっている10円硬貨。1951年か…
+j	ギテガ	gitega	Gitega (the capital city …
+j	ギフト	gifuto	gift, present
+j	ギブス	gibusu	「ギプス」の表記ゆれ。
+j	ギプス	gipusu	plaster cast
+j	ギヨーム	giyomu	
+j	ギラード	girado	
+j	ギルダー	giruda	guilder (Dutch and Surina…
+j	ギルト	giruto	金箔。
+j	ギルド	girudo	中世ヨーロッパの都市で発達した商工業者による同業者…
+j	ギンナン	ginnan	銀杏: nut of the ginkgo tree
+j	伎楽	gigaku	gigaku (extinct genre of …
+j	偽作	gisaku	本物に見せ掛けてつくること。贋作。
+j	偽学	gigaku	正道に反するような学問。
+j	偽籍	giseki	律令制のもとで租税の賦課などを逃れるため戸籍を偽る…
+j	偽薬	giyaku	a placebo
+j	偽足	gisoku	アメーバや白血球などで見られる原形質の一時的な突起…
+j	儀介	gisuke	a male given name
+j	儀則	gisoku	儀式。式典。
+j	儀服	gifuku	式服。
+j	劓墨	giboku	鼻を削ぐ刑と入れ墨をする刑こと。
+j	劓馘	gikaku	古代中国で鼻や耳をそぐこと。
+j	吟叫	ginkyo	泣き叫ぶこと。
+j	吟唱	ginsho	詩歌を声高く吟ずること。
+j	吟声	ginsei	詩歌を吟ずること。また、その声。
+j	吟研	ginken	吟味すること。
+j	吟社	ginsha	society of poets
+j	吟箋	ginsen	詩歌を書くための用紙。
+j	吟肩	ginken	詩人。
+j	吟興	ginkyo	詩歌を作ろうという興味。
+j	吟蛩	ginkyo	蟋蟀。
+j	吟詩	ginshi	詩を吟詠すること。
+j	吟誦	ginsho	声高く詩歌をうたうこと。
+j	吟響	ginkyo	吟声。
+j	吟鳥	gincho	囀る鳥。啼鳥。
+j	嚚人	ginjin	頑愚（な人）。
+j	嚚凶	ginkyo	凶愚なさま。
+j	妓楽	gigaku	妓女が演奏する音楽。
+j	妓籍	giseki	芸者としての籍や身分。
+j	崟崟	gingin	高峻。
+j	崟嶔	ginkin	高峻なこと。また、そのようなさま。
+j	巍廓	gikaku	高く、広いさま。
+j	戯墨	giboku	戯れに書いた書画。戯筆。
+j	技能工	ginoko	技能をもち工場で製造を行う職業。
+j	擬する	gisuru	なぞらえる。見立てる。
+j	擬似語	gijigo	
+j	擬作	gisaku	ある物に似せてつくること。
+j	擬情語	gijogo	an ideophone that represe…
+j	擬木	giboku	コンクリートやモルタルなどで木材の木目や年輪などを…
+j	擬石	giseki	コンクリートなどにより自然の石に似せて人工的につく…
+j	擬薬	giyaku	
+j	擬足	gisoku	アメーバや白血球などで見られる原形質の一時的な突起…
+j	擬音語	giongo	an onomatopoeic word, a w…
+j	牛車	gissha	an ornately decorated sin…
+j	狺犬	ginken	吠え立てる犬。
+j	狺狺	gingin	sound of a dog barking
+j	疑似の	gijino	
+j	疑心	gishin	doubts, apprehension
+j	疑惑	giwaku	doubt, suspicion
+j	疑獄	gigoku	major bribery incident of…
+j	義一	giichi	a male given name
+j	義僕	giboku	忠実な下僕。忠僕。
+j	義塾	gijuku	private school
+j	義太夫	gidayu	
+j	義理の	girino	
+j	義親	gishin	a parent-in-law
+j	義賊	gizoku	a gentleman thief
+j	義足	gisoku	artificial leg
+j	蟻伏	gifuku	一斉に降伏すること。
+j	誾誾	gingin	一方に偏らず正当なさま。
+j	議する	gisuru	（「～を議する」の形で）～について話し合う。～につ…
+j	議事堂	gijido	議会の議事を行うための建築。
+j	議席	giseki	parliamentary seat or sea…
+j	議覆	gifuku	再議すること。
+j	銀丁	gincho	江戸時代の銀貨である丁銀。
+j	銀主	ginshu	江戸時代、上方で大名に金銭を貸し付けた者。
+j	銀傘	ginsan	the roof of the Kōshien S…
+j	銀元	gingen	清代末期に製造された洋式の一元銀貨。1930年代ま…
+j	銀券	ginken	銀貨と兌換可能な紙幣。
+j	銀剣	ginken	銀でできた剣。
+j	銀台	gindai	銀で（美しく）装飾した台。
+j	銀将	ginsho	a silver general (piece t…
+j	銀屏	ginpei	地紙の全体に銀箔をおいてつくられた屏風。銀屏風。
+j	銀山	ginzan	silver mine
+j	銀嶺	ginrei	雪が積もり銀白色に輝く嶺。
+j	銀川	ginsen	Yinchuan (a city in China)
+j	銀幣	ginpei	銀の貨幣。
+j	銀扇	ginsen	地紙に銀箔を押した扇。
+j	銀朱	ginshu	硫化水銀を主な成分とする朱色の顔料。朱。天然の原料…
+j	銀漢	ginkan	synonym of 銀河系 (Gingakei,…
+j	銀盤	ginban	
+j	銀砂	ginsha	銀粉。
+j	銀竜	ginryu	銀色の竜。五竜の一つとして白竜が置き換えられたもの。
+j	銀箭	ginsen	銀製の矢。銀色をした矢。
+j	銀粉	ginpun	silver powder / dust
+j	銀糸	ginshi	銀色の糸。
+j	銀経	ginkei	銀河座標における経度。
+j	銀線	ginsen	銀製の線。
+j	銀色	giniro	silver (color)
+j	銀蟾	ginsen	「月」の異称。
+j	銀製	ginsei	銀でつくられていること。また、そのようなもの。
+j	銀賞	ginsho	競技会などで金賞に次ぐ賞。
+j	銀輪	ginrin	銀でつくられた輪。銀色の輪。
+j	銀鈴	ginrei	銀でできた鈴。
+j	銀銭	ginsen	銀貨。
+j	銀魚	gingyo	銀白色の鱗の金魚。
+j	銀鯛	gindai	「アフリカチヌ」の別名。
+j	銀鱗	ginrin	銀色の鱗。
+j	銀鶏	ginkei	キジ目キジ科キンケイ属に属する鳥の一種。学名:Ch…
+j	齗齗	gingin	争うさま。
+k	기가다	gigada	
+k	기강	gigang	
+k	기객	gigaek	
+k	기겁	gigeop	숨이 막힐 듯이 갑작스럽게 겁을 내며 놀람.
+k	기고가	gigoga	
+k	기공	gigong	qigong
+k	기관	gigwan	engine; machine
+k	기권	gigwon	권리를 포기함.
+k	기근	gigeun	famine, failure of crops
+k	기금	gigeum	fund
+k	기나피	ginapi	
+k	기네기	ginegi	
+k	기녀	ginyeo	courtesan
+k	기덕	gideok	
+k	기동	gidong	manoeuvre
+k	기둥	gidung	pillar, column, post
+k	기득	gideuk	
+k	기레기	giregi	trash journalist, pressti…
+k	기름	gireum	oil
+k	기리다	girida	to extol, to praise, to h…
+k	기린아	girina	
+k	기망	gimang	fraud; deception
+k	기모노	gimono	kimono (traditional Japan…
+k	기방	gibang	
+k	기백	gibaek	
+k	기법	gibeop	technique
+k	기보기	gibogi	
+k	기부자	gibuja	
+k	기사도	gisado	chivalry (ethical code)
+k	기상	gisang	weather
+k	기색	gisaek	countenance, sign
+k	기석	giseok	go stone
+k	기선	giseon	steamship
+k	기수사	gisusa	cardinal
+k	기수의	gisuui	
+k	기슭	giseuk	foot (of a mountain)
+k	기습	giseup	raid, surprise attack
+k	기시다	gisida	Gyeongsang, Gangwon, Seou…
+k	기얘이	giyaei	
+k	기역	giyeok	the name of the second ja…
+k	기연	giyeon	기이한 인연.
+k	기염	giyeom	flamelike vigor
+k	기왕	giwang	
+k	기용	giyong	
+k	기우단	giudan	
+k	기울기	giulgi	
+k	기울다	giulda	to tilt, to slant, to inc…
+k	기이한	giihan	
+k	기장	gijang	pilot in command; plane c…
+k	기적	gijeok	miracle
+k	기전	gijeon	mechanism
+k	기절	gijeol	fainting; loss of conscio…
+k	기점	gijeom	starting point
+k	기제사	gijesa	해마다 사람이 죽은 날에 지내는 제사.
+k	기종	gijong	
+k	기중	gijung	
+k	기착	gichak	
+k	기축	gichuk	The twenty-sixth term of …
+k	기침	gichim	cough
+k	기테가	gitega	
+k	기풍	gipung	spirit, ethos
+k	기피자	gipija	
+k	기항	gihang	
+k	기획	gihoek	plan, design, project
+k	기후구	gihugu	기후구분에 의하여 지역 구분된 개개의 지역.
+k	기후도	gihudo	지역의 기후를 나타낸 기후분포 지도.
+k	긴밀	ginmil	
+k	긴박	ginbak	매우 다급하고 절박함.
+k	긴업	gineop	auspicious rat snake; the…
+k	길림	gillim	Jilin (a province of Chin…
+k	길막	gilmak	the act of blocking someo…
+k	길목	gilmok	corner, street corner
+k	김멜	gimmel	gimel (ג), the third lett…
+k	김밥	gimbap	kimbap (a Korean dish of …
+k	김심	gimsim	Northern Gyeonggi form of…
+k	김치	gimchi	kimchi, a dish made with …
+k	깁스	gipseu	cast (supportive and immo…
+k	깃대	gitdae	flagpole, flagstaff
+k	깃발	gitbal	flag
+k	깃펜	gitpen	
+k	깊은	gipeun	'깊다'의 관형사형.
+k	깊음	gipeum	'깊다'의 명사형.
+e	giardia	giardia	1 meaning
+e	gibibit	gibibit	1 meaning
+e	giddyup	giddyup	1 meaning
+e	giftbox	giftbox	1 meaning
+e	gigabit	gigabit	2 meanings
+e	giggles	giggles	1 meaning
+e	gillard	gillard	1 meaning
+e	gimmick	gimmick	1 meaning
+e	gingham	gingham	1 meaning
+e	gino-sho	ginosho	1 meaning
+e	ginseng	ginseng	2 meanings
+e	giraffe	giraffe	1 meaning
+e	girlish	girlish	1 meaning
+e	gironde	gironde	1 meaning
+e	gizzard	gizzard	1 meaning
+j	ぎくっと	gikutto	不意をつかれて驚くさま。
+j	ぎけつ	giketsu	議決: decision, vote
+j	ぎぶつ	gibutsu	偽物: something fake; count…
+j	ぎんざけ	ginzake	鮭の一種。別名はコーホーサーモン、シルバーサーモン…
+j	ぎんだら	gindara	銀鱈: sablefish
+j	ぎんぱく	ginpaku	銀箔: silver leaf
+j	ぎんぶな	ginbuna	鮒の一種。学名は Carassius langsd…
+j	ギベリン	giberin	
+j	ギミック	gimikku	gimmick
+j	ギヤマン	giyaman	（ダイヤモンドの刃を用いて細工したことから）ガラス…
+j	ギリシャ	girisha	Greece (a country in Sout…
+j	ギリ健	giriken	
+j	ギルロイ	giruroi	Gilroy (a city in Califor…
+j	ギンガム	gingamu	gingham
+j	ギンザケ	ginzake	ぎんざけの学術的表記。
+j	ギンダラ	gindara	銀鱈: sablefish
+j	伎術	gijutsu	技。
+j	偽本影	gihonei	「擬本影」の異表記。
+j	偽装の	gisouno	
+j	偽造者	gizosha	forger, counterfeiter
+j	偽陰性	giinsei	検査で陽性と判定すべきものを誤って陰性と判定するこ…
+j	偽陽性	giyosei	検査で本来は陰性であるべきところを誤って陽性と判定…
+j	偽飾	gishoku	偽り、飾ること。偽増。
+j	儀式	gishiki	ritual; ceremony
+j	儀節	gisetsu	節制。礼節。
+j	吟ずる	ginzuru	
+j	吟呻	ginshin	呻吟すること。
+j	吟客	ginkaku	詩歌を詠む風流な人。
+j	吟心	ginshin	吟情。
+j	吟身	ginshin	詩人。
+j	吟道家	gindoka	吟道の指導を職業とする人。
+j	唫呻	ginshin	呻吟すること。
+j	垠堮	gingaku	辺際。
+j	岐阜県	gifuken	an inland prefecture in t…
+j	巍闕	giketsu	宮城（皇居）の門。
+j	希臘	girisha	ギリシアの漢字表記。
+j	戯媟	gisetsu	なれて侮ること。
+j	戯曲	gikyoku	play, drama
+j	戯物	gibutsu	玩弄するもの。翫具。
+j	戯筆	gihitsu	戯れに書いた書画。戯墨。
+j	技曲	gikyoku	軽業や曲馬などの技をしていく中での変化。
+j	技能士	ginoshi	技能検定に合格し与えられるその職種の技能を証明する…
+j	技能賞	ginosho	
+j	技術	gijutsu	technology
+j	擬人化	gijinka	anthropomorphization, per…
+j	擬声語	giseigo	onomatopoeia (word that s…
+j	擬宝珠	giboshi	ornamental metal finials …
+j	擬態語	gitaigo	an ideophone; a word the …
+j	擬本影	gihonei	光源の前にある物体が、その光源の内側に完全に含まれ…
+j	擬物	gibutsu	人などを物になぞらえること。
+j	擬距離	gikyori	距離関数の定義からd(x,y)=0⟺x=yを抜いた…
+j	擬陽性	giyosei	検査で完全に陽性ではないがそれに近い判定。疑陽性。
+j	疑問符	gimonfu	a question mark
+j	疑物	gibutsu	真似てつくられた物。にせもの。
+j	疑陽性	giyosei	検査で完全に陽性ではないがそれに近い判定。擬陽性。
+j	義勇兵	giyuhei	a military volunteer, a v…
+j	義勇軍	giyugun	volunteer army
+j	義務論	gimuron	
+j	義卒	gisotsu	正義のために起こす兵。義軍。
+j	義和団	giwadan	
+j	義捐金	gienkin	donation money
+j	義烈	giretsu	righteousness
+j	義節	gisetsu	節義。
+j	義経記	gikeiki	the Gikeiki; the Chronicl…
+j	義脚	gikyaku	足を失った人が、失った足の代わりに装着する人工の足。
+j	義血	giketsu	道理を重んじ、人に尽くそうという精神。
+j	義説	gisetsu	注解。
+j	蟻穴	giketsu	蟻がつくった巣穴。
+j	蟻術	gijutsu	小さな蟻が土で蟻塚を築く方法。
+j	蟻酸塩	gisanen	formate
+j	蟻鼻銭	gibisen	春秋戦国時代の楚で使われていた青銅製の貨幣。
+j	議決	giketsu	decision; resolution
+j	議説	gisetsu	議論。
+j	銀幕	ginmaku	silver screen, movie scre…
+j	銀泥	gindoro	
+j	銀箔	ginpaku	silver leaf
+j	銀簪	ginshin	銀製の簪。
+j	銀紙	gingami	aluminium foil; tin foil
+j	銀翼	ginyoku	飛行機の翼。
+j	銀行印	ginkoin	金融機関に登録し、口座などの手続きを行うのに用いる…
+j	銀行員	ginkoin	銀行に勤務する職員。行員。
+j	銀行家	ginkoka	banker (one who conducts …
+j	銀行屋	ginkoya	銀行、銀行家、銀行員
+j	銀角	ginkaku	銀でできた角または角笛。
+j	銀針	ginshin	銀でできた針。
+j	銀鍼	ginshin	（鍼灸で使う）銀でできた鍼。
+j	銀閣	ginkaku	銀で装飾された楼閣。
+j	銀震	ginshin	円盤状の銀河でその中のガスが垂直方向に振動してでき…
+j	銀鮫	ginzame	a silver chimaera (Chimae…
+j	銀鮭	ginzake	
+j	銀鱈	gindara	sablefish
+j	銀鱶	ginbuka	synonym of 銀鮫 (ginzame, “…
+j	魏闕	giketsu	宮城（皇居）の門。
+j	齗齶	gingaku	歯茎。
+k	기결	gigyeol	
+k	기계어	gigyeeo	
+k	기교파	gigyopa	
+k	기꺼이	gikkeoi	readily; gladly; willingly
+k	기냥	ginyang	
+k	기년	ginyeon	
+k	기념	ginyeom	commemoration, memory
+k	기능	gineung	function or functionality
+k	기니 만	giniman	
+k	기다란	gidaran	'기다랗다'의 관형사형.
+k	기다람	gidaram	'기다랗다'의 명사형.
+k	기다림	gidarim	
+k	기대다	gidaeda	to lean on, to recline
+k	기대어	gidaeeo	
+k	기대주	gidaeju	
+k	기도문	gidomun	
+k	기도서	gidoseo	prayer book
+k	기도학	gidohak	
+k	기도회	gidohoe	
+k	기따가	gittaga	
+k	기량	giryang	
+k	기러기	gireogi	wild goose that flies in …
+k	기력	giryeok	
+k	기례기	giryegi	wild goose that flies in …
+k	기록기	girokgi	
+k	기록부	girokbu	
+k	기르다	gireuda	to grow, raise, breed, cu…
+k	기리카에	girikae	바꾸기, 교체.
+k	기마 서	gimaseo	
+k	기마대	gimadae	
+k	기모찌	gimojji	A "memey" interjection ex…
+k	기묘자	gimyoja	
+k	기민히	giminhi	눈치가 빠르고 동작이 날쌔게.
+k	기벽	gibyeok	
+k	기변	gibyeon	
+k	기별	gibyeol	letter; tidings
+k	기부족	gibujok	
+k	기분파	gibunpa	
+k	기쁜	gippeun	'기쁘다'의 관형사형.
+k	기쁨	gippeum	joy; happiness
+k	기사단	gisadan	
+k	기생	gisaeng	courtesan, kisaeng or gis…
+k	기성	giseong	established, pre-existing
+k	기셍이	gisengi	
+k	기숙사	gisuksa	dormitory, dorm, hall of …
+k	기술사	gisulsa	
+k	기술자	gisulja	technician, engineer
+k	기승	giseung	
+k	기시감	gisigam	déjà vu
+k	기신호	gisinho	
+k	기악곡	giakgok	
+k	기압계	giapgye	대기의 압력을 측정하는 측기.
+k	기압골	giapgol	일기도에서 판별할 수 있는 등압선의 한 형식으…
+k	기앵이	giaengi	
+k	기업가	gieopga	entrepreneur
+k	기업인	gieobin	entrepreneur
+k	기업주	gieopju	
+k	기요틴	giyotin	guillotine
+k	기운목	giunmok	목의 일부 근육이 뒤틀려 머리가 한쪽으로 기우…
+k	기울이다	giurida	to lean, to tilt
+k	기원후	giwonhu	AD
+k	기이하다	giihada	기묘하고 이상하다.
+k	기입란	giimnan	
+k	기자단	gijadan	press corps
+k	기자실	gijasil	
+k	기자재	gijajae	
+k	기정	gijeong	
+k	기제류	gijeryu	
+k	기증	gijeung	donation
+k	기지개	gijigae	피곤할 때에 몸을 쭉 펴고 팔다리를 뻗는 일.
+k	기집애	gijibae	'계집애'의 비규범 표기.
+k	기차다	gichada	amazing; breathtaking; ki…
+k	기척	gicheok	prestige, popularity
+k	기천	gicheon	
+k	기체의	gicheui	
+k	기초의	gichoui	
+k	기총	gichong	machine gun
+k	기폭제	gipokje	
+k	기표소	gipyoso	
+k	기필코	gipilko	certainly; without fail; …
+k	기하학	gihahak	geometry
+k	기한부	gihanbu	
+k	기행	gihaeng	
+k	기혈	gihyeol	14 경맥(經脈)에 속해 있는 혈(穴)을 이르…
+k	기호론	gihoron	
+k	기호품	gihopum	
+k	기혼자	gihonja	
+k	기화기	gihwagi	
+k	기황	gihwang	
+k	기후대	gihudae	지구상의 비슷한 기후 분포를 대체로 위도에 거…
+k	기후학	gihuhak	climatology
+k	기흉	gihyung	
+k	긴 것	gingeot	snake, serpent
+k	긴 의자	ginuija	
+k	긴급	gingeup	emergency
+k	긴나라	ginnara	
+k	긴요히	ginyohi	꼭 필요하고 중요하게.
+k	긴장	ginjang	tension, nervousness, str…
+k	긴축	ginchuk	(사전적) 바짝 줄이거나 조임.
+k	긴하다	ginhada	
+k	길길이	gilgiri	
+k	길몽	gilmong	a lucky or auspicious dre…
+k	길벋	gilbeot	'길벗'의 옛말.
+k	길벗	gilbeot	traveling companion
+k	길상	gilsang	
+k	길섶	gilseop	길의 가장자리.
+k	길쌈	gilssam	weaving.
+k	길잡이	giljabi	guidepost
+k	길하다	gilhada	to be auspicious; to be l…
+k	김장	gimjang	gimjang, the traditional …
+k	깃털	gitteol	feather, plume
+k	깅엄	gingeom	
+k	깊숙이	gipsugi	
+e	gianduja	gianduja	1 meaning
+e	giantess	giantess	1 meaning
+e	gibibyte	gibibyte	1 meaning
+e	gift card	giftcard	1 meaning
+e	gigabyte	gigabyte	1 meaning
+e	gigantic	gigantic	1 meaning
+e	gigawatt	gigawatt	1 meaning
+e	gin rummy	ginrummy	1 meaning
+e	girl band	girlband	1 meaning
+e	girondin	girondin	1 meaning
+e	giudecca	giudecca	1 meaning
+e	give back	giveback	1 meaning
+e	give head	givehead	1 meaning
+j	ぎいちろう	giichiro	義一郎: a male given name
+j	ぎきょうだい	gikyodai	義兄弟: sworn brothers; brot…
+j	ぎざぎざ	gizagiza	のこぎりの歯のような細かい刻み目やその刻み目がある…
+j	ぎすぎす	gisugisu	unsociably
+j	ぎっしり	gisshiri	tightly
+j	ぎっちり	gitchiri	tightly, fitting close
+j	ぎらぎら	giragira	glaring, dazzling; glitte…
+j	ぎりぎり	girigiri	just barely, at the last …
+j	ぎんぱつ	ginpatsu	銀髪: silver hair
+j	ぎんやんま	ginyanma	トンボ目ヤンマ科ギンヤンマ属に属するとんぼの一種。…
+j	ギニア湾	giniawan	大西洋の東端にあり、西アフリカの海岸線が赤道付近で…
+j	ギブアップ	gibuappu	giving up, resignation, s…
+j	ギヨチン	giyochin	ギロチン。
+j	ギラキ語	girakigo	
+j	ギリシア	girishia	ヨーロッパ南西部、バルカン半島南端に位置する国。首…
+j	ギルガル	girugaru	
+j	ギロチン	girochin	a guillotine (machine use…
+j	ギロピタ	giropita	
+j	ギンバイカ	ginbaika	
+j	伎芸天	gigeiten	大自在天の髪の生え際から生まれたとされる天女。一面…
+j	偽君子	gikunshi	hypocrite
+j	偽善者	gizensha	a hypocrite
+j	偽終止	gishushi	西洋音楽で全終止すると思わせ、主和音てはない和音で…
+j	偽装する	gisosuru	
+j	偽証罪	gishozai	
+j	偽造する	gizosuru	
+j	儀三郎	gisaburo	a male given name
+j	吟味台	ginmidai	a tray on a point-of-sale…
+j	吟殺	ginsatsu	歌う。
+j	吟醸酒	ginjoshu	特定名称のひとつ。精米歩合60%以下の白米と米麹と…
+j	戯作語	gisakugo	戯れや技巧を目的として一時的に作られた語。創作者の…
+j	技士長	gishicho	技士を管理、統括する責任者。
+j	技師長	gishicho	技師を管理、統括する責任者。
+j	擬人観	gijinkan	
+j	擬似コード	gijikodo	
+j	擬似的	gijiteki	そのものではないが、それによく似ている様子。
+j	擬餌針	gijibari	実際に生きた餌に似せて羽毛や模型など人工的に作った…
+j	擬餌鉤	gijibari	実際に生きた餌に似せて羽毛や模型など人工的に作った…
+j	犠牲祭	giseisai	
+j	犠牲者	giseisha	casualty, victim
+j	疑似的	gijiteki	そのものではないが、それによく似ている様子。
+j	疑問文	gimonbun	interrogative sentence; q…
+j	疑問視	gimonshi	疑わしく思うこと。疑問に感じること。
+j	疑問詞	gimonshi	interrogative, including …
+j	義一郎	giichiro	a male given name
+j	義兄妹	gikyodai	義理の兄と妹。またはその関係。
+j	義兄弟	gikyodai	sworn brothers
+j	義務的	gimuteki	compulsory
+j	議事録	gijiroku	minutes (the official not…
+j	議定書	giteisho	protocol
+j	銀ムツ	ginmutsu	Patagonian toothfish (Dis…
+j	銀世界	ginsekai	広い範囲に雪が降り積もり、白く美しいさまの形容。
+j	銀屏風	ginbyobu	地紙の全体に銀箔をおいてつくられた屏風。銀屏。
+j	銀札	ginsatsu	銀の札。また、銀色の札。
+j	銀河団	gingadan	galaxy cluster
+j	銀河年	ginganen	太陽系が銀河系を一周公転するのにかかる時間。約2億…
+j	銀河系	gingakei	the Milky Way
+j	銀河群	gingagun	数個から数十個の銀河が重力により結びついてできた集…
+j	銀河間	gingakan	
+j	銀粘土	ginnendo	silver clay
+j	銀舎利	ginshari	白米だけを炊いたもの。戦後まもなくまでは日本全国で…
+j	銀色の	ginirono	
+j	銀蜻蜓	ginyanma	lesser emperor, Anax part…
+j	銀行券	ginkoken	banknote, paper money
+j	銀行業	ginkogyo	
+j	銀鍍金	ginmekki	銀の薄膜を他の金属の表面に覆うこと。
+j	銀髪	ginpatsu	silver hair
+k	기겁다	gigeopda	
+k	기경	gigyeong	인체 경맥의 하나. 십이 경맥과 달리 오장육부…
+k	기계화	gigyehwa	mechanization
+k	기관사	gigwansa	
+k	기관수	gigwansu	
+k	기관지	gigwanji	
+k	기관포	gigwanpo	
+k	기괴한	gigoehan	
+k	기구하다	giguhada	strange, unlucky, unfortu…
+k	기내식	ginaesik	비행기안에서 제공되는 식사, 간식 등을 가리키…
+k	기다랗다	gidarata	to be quite long
+k	기다리다	gidarida	to wait for, to await
+k	기대감	gidaegam	
+k	기대치	gidaechi	
+k	기도하다	gidohada	to pray (to petition a hi…
+k	기독교	gidokgyo	Christianity, especially …
+k	기마전	gimajeon	
+k	기마하다	gimahada	to ride a horse
+k	기만술	gimansul	
+k	기명	gimyeong	
+k	기묘한	gimyohan	
+k	기무처	gimucheo	
+k	기미가요	gimigayo	일본의 국가(國歌).
+k	기미하다	gimihada	환하게 빛나며 곱고 아름답다.
+k	기밀실	gimilsil	
+k	기벨린	gibellin	
+k	기병	gibyeong	cavalryman
+k	기보법	gibobeop	
+k	기본값	gibongap	default value
+k	기부금	gibugeum	donation/contribution (mo…
+k	기부하다	gibuhada	to donate, to contribute
+k	기쁘다	gippeuda	to be happy, to be glad
+k	기사궁	gisagung	Sagittarius
+k	기상구	gisanggu	
+k	기상도	gisangdo	
+k	기설제	giseolje	고려ㆍ조선 시대에, 납일(臘日) 이전에 눈이 …
+k	기세하다	gisehada	to pass away
+k	기소유예	gisoyuye	
+k	기소장	gisojang	
+k	기소하다	gisohada	to prosecute; to indict
+k	기수법	gisubeop	
+k	기술직	gisuljik	
+k	기술진	gisuljin	
+k	기식음	gisigeum	(뜻).
+k	기압고도	giapgodo	표준대기에서 주어진 기압에 대응되는 고도.
+k	기압마루	giapmaru	대기 중의 같은 고도면에서 주위보다 기압이 상…
+k	기압장	giapjang	기압의 공간적 분포.
+k	기어가다	gieogada	to crawl along, to creep …
+k	기억술	gieoksul	mnemonics, the art of mem…
+k	기업체	gieopche	
+k	기업화	gieophwa	
+k	기역시	giyeoksi	
+k	기우뚱	giuttung	물체가 한쪽으로 약간 기울어지는 모양.
+k	기울기울	giulgiul	
+k	기웃기웃	giutgiut	
+k	기웃하다	giuthada	
+k	기인제도	giinjedo	
+k	기입하다	giiphada	to fill in; to fill out (…
+k	기저귀	gijeogwi	diaper
+k	기저체	gijeoche	편모나 섬모 기저에 있는 구조체. 원생동물에서…
+k	기전기	gijeongi	
+k	기준계	gijungye	
+k	기준치	gijunchi	
+k	기중기	gijunggi	crane (machine)
+k	기지촌	gijichon	gijichon; camptown
+k	기착지	gichakji	
+k	기층	gicheung	
+k	기특히	giteukhi	
+k	기폭약	gipogyak	
+k	기피하다	gipihada	
+k	기항지	gihangji	
+k	기형	gihyeong	
+k	기호지세	gihojise	
+k	기획부	gihoekbu	
+k	기후예보	gihuyebo	어떤 지역에 대해 미래의 기후를 예보하는 것을…
+k	기후요소	gihuyoso	기후를 구성하는 요소에는 기온, 강수량, 풍향…
+k	기후인자	gihuinja	기후에 영향을 미치는 요인.
+k	긴요한	ginyohan	
+k	길거리	gilgeori	a thoroughfare; a busy st…
+k	길년	gillyeon	
+k	길라드	gilladeu	
+k	길르앗	gilleuat	Gilead (biblical location)
+k	길쑥이	gilssugi	
+k	길쭉이	giljjugi	
+k	길찍이	giljjigi	
+k	길차다	gilchada	to be lush; to be long an…
+k	길흉	gilhyung	
+k	김매다	gimmaeda	
+k	김안개	gimangae	찬 공기가 그보다 훨씬 따듯한 수면 위를 불어…
+k	김책	gimchaek	Kimchaek (a city in North…
+e	giant clam	giantclam	1 meaning
+e	giant star	giantstar	1 meaning
+e	gibberish	gibberish	2 meanings
+e	gibraltar	gibraltar	1 meaning
+e	gigahertz	gigahertz	1 meaning
+e	gigapixel	gigapixel	1 meaning
+e	gilgamesh	gilgamesh	1 meaning
+e	girl group	girlgroup	1 meaning
+e	girl scout	girlscout	1 meaning
+e	give birth	givebirth	1 meaning
+e	given name	givenname	1 meaning
+j	ぎくしゃく	gikushaku	rough; unsteady
+j	ぎらつく	giratsuku	to shine
+j	ぎんのすけ	ginnosuke	銀之助: a male given name
+j	ギガバイト	gigabaito	gigabyte
+j	ギガビット	gigabitto	
+j	ギガワット	gigawatto	
+j	ギニーピッグ	ginipiggu	a guinea pig
+j	ギビバイト	gibibaito	gibibyte
+j	ギビビット	gibibitto	gibibit
+j	ギムレット	gimuretto	gimlet (cocktail)
+j	ギリシャの	girishano	
+j	ギリシャ語	girishago	the Greek language
+j	儀礼的	gireiteki	形式通りに物事を行い誠実でないさま。
+j	戯曲家	gikyokuka	戯曲を書く人。
+j	技能職	ginoshoku	工場などで製造などを行う職。
+j	技能講習	ginokoshu	労働安全衛生法において作業主任者や就業制限のある業…
+j	技術の	gijutsuno	
+j	技術家	gijutsuka	技術を活かすことを職業とする人。技術者。
+j	技術科	gijutsuka	中学校、義務教育学校後期課程、中等教育学校中等部、…
+j	擬人的	gijinteki	
+j	擬穀類	gikokurui	
+j	欺瞞的	gimanteki	deceptive
+j	疑似乱数	gijiransu	乱数に似せてコンピュータが行う計算によって求められ…
+j	祇園精舎	gionshoja	インド舎衛国の須達長者が舎衛城の南の祇陀太子の庭園…
+j	義侠心	gikyoshin	正義のため強者をくじき、弱者をたすけようという気性。
+j	義務がある	gimugaaru	
+j	義理の兄	girinoani	
+j	義理の姉	girinoane	
+j	義理チョコ	girichoko	Valentine's Day chocolate…
+j	義理人情	girininjo	過去の関係から絶つことのできない付き合い、思いやり。
+j	議事妨害	gijibogai	
+j	議論する	gironsuru	
+j	議長国	gichokoku	host country
+j	銀メダル	ginmedaru	silver medal
+j	銀之助	ginnosuke	a male given name
+j	銀星石	ginseishi	
+j	銀砂子	ginsunago	細かく切り刻んだ銀箔。
+j	銀行口座	ginkokoza	
+j	銀製品	ginseihin	
+j	銀鏡	ginkagami	（ぎんきょう）銀の表面を磨いた鏡。また、ガラスの表…
+j	銀鴎	ginkamome	
+j	銀鼠	ginnezumi	銀色がかった鼠色。銀鼠色。
+k	기가비트	gigabiteu	
+k	기각하다	gigakhada	
+k	기거하다	gigeohada	
+k	기결수	gigyeolsu	convict, convicted prison…
+k	기결안	gigyeoran	
+k	기계공	gigyegong	mechanic; machinist
+k	기계자수	gigyejasu	
+k	기계적	gigyejeok	기계를 사용하여 하는. 또는 그런 것.
+k	기계제도	gigyejedo	
+k	기공식	gigongsik	
+k	기관계	gigwangye	
+k	기관실	gigwansil	
+k	기관원	gigwanwon	
+k	기관차	gigwancha	locomotive
+k	기괴하다	gigoehada	외관이나 분위기가 괴상하고 기이하다.
+k	기교적	gigyojeok	
+k	기교주의	gigyojuui	
+k	기교하다	gigyohada	잔꾀와 솜씨가 매우 약삭빠르고 뛰어나다.
+k	기구격	gigugyeok	
+k	기구체조	giguchejo	
+k	기껍다	gikkeopda	glad, happy
+k	기나길다	ginagilda	long
+k	기념비	ginyeombi	monument, commemorative s…
+k	기념사	ginyeomsa	
+k	기념일	ginyeomil	memorial day; anniversary
+k	기념제	ginyeomje	
+k	기능 키	gineungki	
+k	기능사	gineungsa	
+k	기니비사우	ginibisau	Guinea-Bissau (a country …
+k	기니피그	ginipigeu	guinea pig
+k	기단뇌우	gidannoeu	하나의 기단 안에서 발생하는 뇌우.
+k	기대리다	gidaerida	Jeolla dialect, Chungcheo…
+k	기대하다	gidaehada	to expect; to look forwar…
+k	기동돓	gidongdol	(뜻).
+k	기라성	giraseong	glittering star
+k	기렛파시	giretpasi	끄트러기, 자투리.
+k	기록적	girokjeok	
+k	기록하다	girokhada	to record in a document
+k	기름갖	gireumgat	synonym of 막(膜) (mak, “me…
+k	기름띠	gireumtti	
+k	기름밥	gireumbap	fried rice
+k	기름배	gireumbae	'유조선'의 북한말.
+k	기린자리	girinjari	
+k	기막히다	gimakhida	놀랍고 언짢아 매우 어이가 없다
+k	기만하다	gimanhada	to deceive, to trick (usu…
+k	기말고사	gimalgosa	final exam
+k	기묘하다	gimyohada	peculiar; weird; strange;…
+k	기민하다	giminhada	agile; alert
+k	기박하다	gibakhada	팔자, 운수 따위가 사납고 복이 없다.
+k	기발하다	gibalhada	
+k	기본권	gibongwon	
+k	기본급	gibongeup	
+k	기본법	gibonbeop	
+k	기본수사	gibonsusa	
+k	기본적	gibonjeok	basic, fundamental
+k	기비비트	gibibiteu	
+k	기쁨조	gippeumjo	The alleged corps of youn…
+k	기상대	gisangdae	
+k	기상학	gisanghak	meteorology
+k	기소되다	gisodoeda	to be prosecuted; to be i…
+k	기술공	gisulgong	
+k	기술도입	gisuldoip	
+k	기술적	gisuljeok	기술에 관계 있거나 기술에 의한.
+k	기술하다	gisulhada	
+k	기승위	giseungwi	cowgirl position
+k	기압능	giapneung	
+k	기압분포	giapbunpo	대기압력의 분포.
+k	기약하다	giyakhada	to vow to meet; to promis…
+k	기어 레버	gieorebeo	
+k	기억법	gieokbeop	
+k	기억하다	gieokhada	to remember
+k	기업적	gieopjeok	
+k	기업하다	gieophada	to do business
+k	기여하다	giyeohada	to contribute
+k	기우듬히	giudeumhi	
+k	기운차다	giunchada	
+k	기운태위	giuntaewi	(의학) 사태위(斜胎位).
+k	기울대다	giuldaeda	
+k	기울떡	giultteok	
+k	기웃대다	giutdaeda	'기웃거리다'.
+k	기원법	giwonbeop	
+k	기원전	giwonjeon	BCE, Before Common Era
+k	기원하다	giwonhada	to originate
+k	기으르다	gieureuda	'게으르다'의 비표준어.
+k	기재하다	gijaehada	
+k	기저세포	gijeosepo	basal cell
+k	기주떡	gijutteok	Korean traditional rice c…
+k	기준선	gijunseon	
+k	기준지가	gijunjiga	
+k	기증자	gijeungja	donor
+k	기지창	gijichang	
+k	기차역	gichayeok	train station, railway st…
+k	기찻길	gichatgil	train tracks, railroad
+k	기초적	gichojeok	기초가 되는.
+k	기초하다	gichohada	to be based on
+k	기침쇠	gichimsoe	절에서, 아침에 일어날 때를 알리려고 치는 종.
+k	기탁금	gitakgeum	
+k	기탁하다	gitakhada	
+k	기특한	giteukhan	
+k	기형아	gihyeonga	
+k	기호문자	gihomunja	
+k	기호투표	gihotupyo	
+k	기화열	gihwayeol	
+k	기회범	gihoebeom	
+k	기회주의	gihoejuui	
+k	기후 자료	gihujaryo	대기의 상태를 나타내는 기상요소인 기압, 기온…
+k	기후 파업	gihupaeop	
+k	기후감시	gihugamsi	기후변화감시, 이상기후감시, 그리고 기후자료의…
+k	기후구분	gihugubun	지구표면을 같은 기후특성을 지닌 지역으로 구분…
+k	기후학자	gihuhakja	
+k	긴몰개	ginmolgae	The Korean slender gudgeo…
+k	긴밀한	ginmilhan	
+k	긴바늘	ginbaneul	minute hand
+k	긴박감	ginbakgam	
+k	긴요하다	ginyohada	꼭 필요하고 중요하다.
+k	긴장도	ginjangdo	
+k	길가메시	gilgamesi	
+k	길경	gilgyeong	auspicious occasion; happ…
+k	길냥이	gillyangi	stray cat
+k	길동무	gildongmu	a travelling companion
+k	길들다	gildeulda	
+k	길들인	gildeurin	
+k	길쑴히	gilssumhi	
+k	길어깨	gireokkae	shoulder (road)
+k	길어지다	gireojida	
+k	길쯤이	giljjeumi	
+k	김의털	gimuiteol	sheep's fescue (Festuca o…
+k	김장파	gimjangpa	onions used specifically …
+k	김초밥	gimchobap	식초로 맛을 낸 소량의 횐 쌀밥에 생선, 야채…
+k	김치국	gimchiguk	North Korea standard spel…
+k	김치남	gimchinam	
+k	깃그물	gitgeumul	(뜻).
+k	깃대돔	gitdaedom	
+k	깃들다	gitdeulda	아늑하게 서려 들다.
+k	깊게 하다	gipgehada	
+k	깊어지다	gipeojida	
+e	giant otter	giantotter	1 meaning
+e	giant panda	giantpanda	1 meaning
+e	giant squid	giantsquid	1 meaning
+e	ginger beer	gingerbeer	1 meaning
+e	gingersnap	gingersnap	1 meaning
+e	gingivitis	gingivitis	1 meaning
+e	girlfriend	girlfriend	2 meanings
+e	give rise to	giveriseto	1 meaning
+j	ぎこちない	gikochinai	awkward, clumsy
+j	ぎごちない	gigochinai	「ぎこちない」の表記ゆれ。
+j	ぎしぎし	gishigishi	タデ科の多年草。学名はRumex japonicu…
+j	ぎなたよみ	ginatayomi	単語の区切りを間違えたために意味を誤解すること。
+j	ぎなた読み	ginatayomi	misparsing of a phrase; r…
+j	ぎりぎりの	girigirino	
+j	ぎんもくせい	ginmokusei	銀木犀: The white-blooming v…
+j	ギアボックス	giabokkusu	
+j	ギガワロス	gigawarosu	LMAO
+j	ギシギシ	gishigishi	「ぎしぎし」の学術的表記。
+j	ギタリスト	gitarisuto	guitarist
+j	ギトギトな	gitogitona	
+j	ギニアビサウ	giniabisau	Guinea-Bissau (a country …
+j	ギニアビサオ	giniabisao	「ギニアビサウ」を参照。
+j	ギニアピッグ	giniapiggu	天竺鼠。モルモット。
+j	ギフトカード	gifutokado	
+j	ギリシアの	girishiano	
+j	ギリシア語	girishiago	the Greek language
+j	ギリシャ人	girishajin	Greek (person, people)
+j	ギリヤーク語	giriyakugo	Gilyak language
+j	ギルバート語	girubatogo	the Gilbertese language
+j	ギンギツネ	gingitsune	silver fox (melanistic fo…
+j	ギンモクセイ	ginmokusei	銀木犀: The white-blooming v…
+j	偽装結婚	gizokekkon	
+j	儀同三司	gidosanshi	Chinese equivalent of 准大臣…
+j	技術者	gijutsusha	technician, engineer
+j	擬ベクトル	gibekutoru	座標系の向きを変える座標変換に於いて向きが変わるベ…
+j	犠牲フライ	giseifurai	打者がフライを打ち、野手が捕球してアウトになっても…
+j	犠牲飛球	giseihikyu	犠牲フライのこと。
+j	疑似科学	gijikagaku	pseudoscience
+j	疑心暗鬼	gishinanki	once you suspect somethin…
+j	祇園信仰	gionshinko	牛頭天王に対し疫病退散などを願う信仰。
+j	羊蹄	gishigishi	Japanese dock, Rumex japo…
+j	義務付ける	gimuzukeru	require, bind, obligate, …
+j	義務教育	gimukyoiku	compulsory education
+j	義務的な	gimutekina	
+j	義理の母	girinohaha	
+j	議事日程	gijinittei	order of the day, agenda
+j	銀木犀	ginmokusei	the white-blooming variet…
+j	銀河座標	gingazahyo	天球上の座標の表し方の一つ。天の川の中心線を銀緯0…
+j	銀行業務	ginkogyomu	
+j	銀髪の	ginpatsuno	
+j	銀鼠色	ginnezuiro	「銀鼠」を参照。
+k	기가바이트	gigabaiteu	gigabyte
+k	기가픽셀	gigapiksel	
+k	기각되다	gigakdoeda	
+k	기간요원	giganyowon	
+k	기갑부대	gigapbudae	
+k	기계수뢰	gigyesuroe	
+k	기계식자	gigyesikja	
+k	기계조직	gigyejojik	
+k	기계체조	gigyechejo	
+k	기공친	gigongchin	상을 당했을 때 기복이나 공복을 입는 가까운 …
+k	기관장	gigwanjang	
+k	기구운동	giguundong	(체조) '기구체조'의 북한말.
+k	기권하다	gigwonhada	
+k	기네비싸우	ginebissau	나라 이름 '기니비사우'의 북한말.
+k	기네스북	gineseubuk	세계에서 드문 신기록을 수록하는 사전.
+k	기념물	ginyeommul	souvenir; memento
+k	기념식	ginyeomsik	
+k	기념탑	ginyeomtap	
+k	기념품	ginyeompum	souvenir, memento
+k	기능직	gineungjik	
+k	기대되다	gidaedoeda	to be expected
+k	기독교도	gidokgyodo	Christian
+k	기독교인	gidokgyoin	
+k	기둥춤	gidungchum	pole dance
+k	기득권	gideukgwon	
+k	기려하다	giryeohada	
+k	기록계기	girokgyegi	
+k	기록되다	girokdoeda	
+k	기록사진	giroksajin	
+k	기뢰정	giroejeong	
+k	기름 야자	gireumyaja	
+k	기름야자	gireumyaja	oil palm
+k	기름장	gireumjang	a dipping sauce for meat,…
+k	기름지다	gireumjida	greasy
+k	기름통	gireumtong	oil drum; cask; sump; oil…
+k	기름하다	gireumhada	
+k	기립박수	giripbaksu	
+k	기마병	gimabyeong	
+k	기만되다	gimandoeda	to be deceived
+k	기만책	gimanchaek	
+k	기명도	gimyeongdo	
+k	기명제	gimyeongje	
+k	기묘사화	gimyosahwa	
+k	기미운동	gimiundong	'삼일운동'.
+k	기민성	giminseong	눈치가 빠르고 동작이 날쌘 성질.
+k	기발체조	gibalchejo	(체조) '기체조'의 북한말.
+k	기본교리	gibongyori	
+k	기본단위	gibondanwi	
+k	기본어휘	giboneohwi	
+k	기본조직	gibonjojik	
+k	기본화기	gibonhwagi	
+k	기부재산	gibujaesan	
+k	기분 좋은	gibunjoeun	
+k	기분이 아닌	gibunianin	
+k	기비바이트	gibibaiteu	
+k	기뻐하다	gippeohada	to be happy about somethi…
+k	기상 요소	gisangyoso	'기후요소'.
+k	기상기호	gisanggiho	
+k	기상법	gisangbeop	국가 기상업무의 효율적 수행에 필요한 기본적인…
+k	기상보고	gisangbogo	특정시각에 특정한 장소에서 관측한 기상상태에 …
+k	기상예보	gisangyebo	
+k	기상인자	gisanginja	
+k	기상제어	gisangjeeo	
+k	기생목	gisaengmok	
+k	기생물	gisaengmul	parasite
+k	기성복	giseongbok	
+k	기성품	giseongpum	
+k	기성화	giseonghwa	
+k	기성회	giseonghoe	
+k	기수열외	gisuyeoroe	a form of hazing in the S…
+k	기숙생	gisuksaeng	
+k	기술력	gisulryeok	
+k	기술수준	gisulsujun	
+k	기술원조	gisurwonjo	
+k	기술제휴	gisuljehyu	
+k	기스면	giseumyeon	닭 육수를 활용하여 만든 중국의 면 요리로, …
+k	기습하다	giseuphada	
+k	기식성	gisikseong	
+k	기신기신	gisingisin	
+k	기신대다	gisindaeda	'기신거리다'.
+k	기압배치	giapbaechi	일기도에서 분석하는 고기압, 저기압, 기압골,…
+k	기약분수	giyakbunsu	
+k	기어 스틱	gieoseutik	
+k	기어들다	gieodeulda	
+k	기어박스	gieobakseu	
+k	기어오르다	gieooreuda	
+k	기억나다	gieongnada	to recall
+k	기억되다	gieokdoeda	to be remembered
+k	기엄기엄	gieomgieom	
+k	기업이득	gieobideuk	
+k	기업조합	gieopjohap	
+k	기역시옷	giyeoksiot	한글의 겹받침 'ㄳ'의 이름. (부록: 한글 …
+k	기왕지사	giwangjisa	
+k	기용하다	giyonghada	일을 하는 데에 겁이 없고 과단성이 있다.
+k	기울어지다	giureojida	(사물의) 한쪽이 비스듬하게 낮아지거나 비뚤어…
+k	기자조선	gijajoseon	은나라가 망한 후 기자가 고조선에 망명하여 세…
+k	기적적	gijeokjeok	기적이 일어나는.
+k	기절하다	gijeolhada	to faint
+k	기준량	gijullyang	
+k	기진력	gijillyeok	물체에 진동을 유발하는 힘.
+k	기초대사	gichodaesa	
+k	기초체온	gichocheon	
+k	기촉하다	gichokhada	기한이 촉박하다.
+k	기축옥사	gichugoksa	
+k	기침하다	gichimhada	to cough
+k	기타규슈	gitagyusyu	문화어에서 ‘기타큐슈’를 달리 이르는 말.
+k	기타큐슈	gitakyusyu	일본 규슈의 북쪽 지방.
+k	기탄없다	gitaneopda	어떤 말이나 행동을 하는 데 어려워하거나 피하…
+k	기특하다	giteukhada	말하는 것이나 행동하는 것이 신통하여 귀염성이…
+k	기하급수	gihageupsu	
+k	기행문	gihaengmun	여행하면서 보고, 듣고, 느낀 것을 적은 글.
+k	기호식품	gihosikpum	
+k	기호음료	gihoeumnyo	
+k	기획하다	gihoekhada	
+k	기후 비상	gihubisang	
+k	기후분류	gihubullyu	지구상의 여러 장소에 따라 현저하게 다른 모양…
+k	기후순화	gihusunhwa	'기후적응'.
+k	기후요법	gihuyobeop	날씨가 인체에 미치는 영향을 조사하여 질병을 …
+k	기후조절	gihujojeol	생산 활동이나 동, 식물의 생활 등에 적합하도…
+k	기후한계	gihuhangye	기후에 따라 결정되는 수목이나 작물의 생육한계.
+k	기후형	gihuhyeong	기후분류(또는 기후구분)을 했을 경우에 나타나…
+k	긱이코노미	gigikonomi	일시 고용 경제.
+k	긴가민가	gingaminga	그런지 그렇지 않은지 분명하지 않은 모양.
+k	긴급한	gingeuphan	
+k	긴밀하다	ginmilhada	서로의 관계가 매우 가까워 빈틈이 없다.
+k	긴박하다	ginbakhada	
+k	긴소매의	ginsomaeui	
+k	긴장감	ginjanggam	
+k	긴털쥐	ginteoljwi	long-haired rat (Rattus v…
+k	길강아지	gilgangaji	stray dog; a dog abandone…
+k	길고양이	gilgoyangi	주인이 없이 도시 등지에서 독립적으로 사는 고…
+k	길괭이	gilgwaengi	
+k	길들이다	gildeurida	
+k	길모퉁이	gilmotungi	a street corner; corner o…
+k	길상과	gilsanggwa	
+k	길상불	gilsangbul	
+k	길상초	gilsangcho	
+k	길을 잃다	gireulilta	
+k	길죽하다	giljukhada	'길쭉하다'의 비규범 표기.
+k	길짱구	giljjanggu	'질경이'의 북한말.
+k	길초근	gilchogeun	
+k	김소행	gimsohaeng	
+k	김치녀	gimchinyeo	Korean women, especially …
+k	김치전	gimchijeon	kimchijeon
+k	깃털펜	gitteolpen	
+k	깊숙하다	gipsukhada	deep (having great depth)
+e	giant slalom	giantslalom	1 meaning
+e	gibbous moon	gibbousmoon	1 meaning
+e	gila monster	gilamonster	1 meaning
+e	gild the lily	gildthelily	1 meaning
+e	gin and tonic	ginandtonic	1 meaning
+e	gingerbread	gingerbread	1 meaning
+e	giro d'italia	giroditalia	1 meaning
+j	ギガヘルツ	gigaherutsu	周波数で1ヘルツの十億倍。
+j	ギグエコノミー	giguekonomi	gig economy
+j	ギベリオブナ	giberiobuna	鮒の一種。別名はアムールブナ
+j	ギムナジウム	gimunajiumu	ドイツなどの中等教育機関。
+j	ギリシア人	girishiajin	Greek (person, people)
+j	ギリュウモドキ	giryumodoki	
+j	偽善的な	gizentekina	
+j	儀式的	gishikiteki	儀式に関すること、儀式となっていること。また、その…
+j	吟遊詩人	ginyushijin	troubadour
+j	技術的	gijutsuteki	technical
+j	擬似穀類	gijikokurui	
+j	犠牲にする	giseinisuru	
+j	祇園祭	gionmatsuri	「祇園会」に同じ。
+j	義理の妹	girinoimoto	
+j	義理の弟	girinoototo	
+j	議論好きの	gironzukino	
+j	議題にする	gidainisuru	
+j	銀の弾丸	ginnodangan	a silver bullet (straight…
+j	銀婚式	ginkonshiki	silver anniversary
+j	銀灰色	ginkaishoku	silver gray
+k	기가 막히다	gigamakhida	to be astounding, astound…
+k	기간산업	gigansaneop	
+k	기간시설	gigansiseol	
+k	기고만장	gigomanjang	(사자성어) 기운이 만장의 높이에 이른다는 뜻…
+k	기관잡지	gigwanjapji	
+k	기관총	gigwanchong	machine gun
+k	기구위성	giguwiseong	
+k	기권승	gigwonseung	
+k	기년법	ginyeonbeop	
+k	기념관	ginyeomgwan	memorial hall; commemorat…
+k	기념상	ginyeomsang	
+k	기념우표	ginyeomupyo	
+k	기념하다	ginyeomhada	to commemorate, remember,…
+k	기능공	gineunggong	
+k	기능장	gineungjang	
+k	기능적	gineungjeok	
+k	기능주의	gineungjuui	
+k	기다래지다	gidaraejida	'길어지다'.
+k	기단강수	gidangangsu	지형이나 전선의 직접적인 영향이 없이 하나의 …
+k	기단소나기	gidansonagi	불안정한 기단 내부에서 일어나는 국지적인 대류…
+k	기도 감염	gidogamyeom	
+k	기도 매듭	gidomaedeup	동방정교회나 동방가톨릭교회에서 기도할 때 사용…
+k	기도매듭	gidomaedeup	prayer rope
+k	기독교계	gidokgyogye	
+k	기독교화	gidokgyohwa	
+k	기동력	gidongnyeok	
+k	기동부대	gidongbudae	
+k	기동성	gidongseong	
+k	기둥도표	gidungdopyo	'막대그래프'의 북한말.
+k	기름종이	gireumjongi	기름을 먹인 종이.
+k	기명식	gimyeongsik	
+k	기묘 쿼크	gimyokwokeu	
+k	기밀문서	gimilmunseo	
+k	기반시설	gibansiseol	infrastructure
+k	기병대	gibyeongdae	
+k	기본요금	gibonyogeum	
+k	기본재산	gibonjaesan	
+k	기본형	gibonhyeong	기본이 되는 꼴이나 형식.
+k	기부행위	gibuhaengwi	
+k	기상 레이다	gisangreida	비, 눈 등의 강수구역, 구름의 분포 등을 관…
+k	기상나팔	gisangnapal	
+k	기상자료	gisangjaryo	기상에 관한 다양한 관측과 특별관측으로 생산된…
+k	기상학자	gisanghakja	meteorologist
+k	기생방	gisaengbang	
+k	기생하다	gisaenghada	숙주에게 붙어서 양분 등을 빼앗아 빨아먹다.
+k	기성금	giseonggeum	건설 공사가 이루어진만큼 발주자가 시공자에게 …
+k	기숙학교	gisukhakgyo	
+k	기술개발	gisulgaebal	
+k	기술교육	gisulgyoyuk	
+k	기씨조선	gissijoseon	기자조선.
+k	기아선상	giaseonsang	
+k	기암괴석	giamgoeseok	(사자성어) 기이한 암석과 괴상하게 생긴 돌멩…
+k	기압골축	giapgolchuk	일기도에서 등압선이나 등고선 분포에 나타나는 …
+k	기압분석	giapbunseok	등압선의 분석.
+k	기어 올라감	gieoollagam	
+k	기억력	gieongnyeok	power of recall; memory (…
+k	기업소득	gieopsodeuk	
+k	기업진단	gieopjindan	
+k	기업집단	gieopjipdan	
+k	기업통제	gieoptongje	
+k	기온감률	giongamryul	대기 층에서 공기덩이가 상공으로 올라가면서 내…
+k	기왕증	giwangjeung	anamnesis (the medical hi…
+k	기용되다	giyongdoeda	
+k	기우듬하다	giudeumhada	조금 기운 듯하다.
+k	기울거리다	giulgeorida	
+k	기웃거리다	giutgeorida	무엇을 보려고 고개나 몸 따위를 이쪽저쪽으로 …
+k	기저세포암	gijeosepoam	basal cell carcinoma
+k	기전력	gijeonryeok	
+k	기점 언어	gijeomeoneo	
+k	기정세입	gijeongseip	
+k	기준임금	gijunimgeum	
+k	기증하다	gijeunghada	to donate
+k	기지개하다	gijigaehada	기지개를 하다.
+k	기체상수	gichesangsu	
+k	기초공사	gichogongsa	
+k	기초공제	gichogongje	
+k	기초과학	gichogwahak	
+k	기초식품	gichosikpum	
+k	기초운동	gichoundong	
+k	기초작업	gichojageop	
+k	기총소사	gichongsosa	비행기에서 목표물을 비로 쓸어 내듯이 기관총으…
+k	기하학적	gihahakjeok	기하학으로 보이는.
+k	기해박해	gihaebakhae	
+k	기현상	gihyeonsang	기이한 현상.
+k	기형학	gihyeonghak	
+k	기회비용	gihoebiyong	어떤 품목의 생산 비용을 그것 때문에 생산을 …
+k	기회주의자	gihoejuuija	opportunist
+k	기후극값	gihugeukgap	관측된 기상자료 중에서 기온, 강수량, 풍속 …
+k	기후순응	gihusuneung	'기후적응'.
+k	기후순환	gihusunhwan	대체로 같은 정도의 간격을 두고 규칙적으로 되…
+k	기후연표	gihuyeonpyo	연평균기온, 연강수량 등의 통계 값의 누년 값…
+k	긴급권	gingeupgwon	
+k	긴급하게	gingeuphage	
+k	긴급하다	gingeuphada	urgent, pressing
+k	긴련락	gillyeollak	(축구) '롱패스'의 북한말.
+k	긴부리도요	ginburidoyo	
+k	긴장하다	ginjanghada	to be/become nervous, ten…
+k	긴축하다	ginchukhada	
+k	길쑥하다	gilssukhada	
+k	길쑴하다	gilssumhada	
+k	길쭉하다	giljjukhada	어떤 것의 모양이 조금 길다.
+k	길찍하다	giljjikhada	
+k	김냉국	gimnaengguk	gim naengguk
+k	김충신	gimchungsin	
+k	김치찌게	gimchijjige	
+e	giant-killing	giantkilling	1 meaning
+j	ぎっくりごし	gikkurigoshi	ひねったり力をいれた時などに突発的に腰におこる激痛。
+j	ぎっくり腰	gikkurigoshi	thrown out back, strained…
+j	ぎっこんばったん	gikkonbattan	seesaw; teeter-totter
+j	ぎったんばっこん	gittanbakkon	synonym of シーソー (shīsō, “…
+j	ギガピクセル	gigapikuseru	
+j	ギトギトする	gitogitosuru	
+j	ギフトショップ	gifutoshoppu	gift shop
+j	ギブアンドテーク	gibuandoteku	give and take
+j	ギリシア数字	girishiasuji	古代ギリシアで創作され用いられた記数法。独自の文字…
+j	ギリシア文字	girishiamoji	ギリシア語を表記する文字体系。紀元前10世紀から紀…
+j	ギルガメッシュ	girugamesshu	Gilgamesh (king of Uruk)
+j	技術力	gijutsuryoku	技術を用いて商品を提供する能力。
+j	技術支援	gijutsushien	
+j	技術職	gijutsushoku	企業で製品の製造を担当する職。
+j	擬孔雀石	gikujakuseki	pseudomalachite
+j	義理の姉妹	girinoshimai	
+j	義肢装具士	gishisogushi	義肢や装具の装着部位への採寸、採型、製作、身体への…
+j	議題に上げる	gidainiageru	
+k	기경하다	gigyeonghada	
+k	기계 학습	gigyehakseup	
+k	기계공업	gigyegongeop	
+k	기계공학	gigyegonghak	기계에 관하여 연구하는 공학의 한 분야.
+k	기계화하다	gigyehwahada	
+k	기관신문	gigwansinmun	
+k	기관지염	gigwanjiyeom	bronchitis
+k	기껏해야	gikkeothaeya	
+k	기념사진	ginyeomsajin	
+k	기념주화	ginyeomjuhwa	국가적으로나 국제적으로 뜻깊은 사건이나 행사를…
+k	기능사회	gineungsahoe	
+k	기능조직	gineungjojik	
+k	기능학파	gineunghakpa	
+k	기다려지다	gidaryeojida	to be awaited, to be wish…
+k	기단분석	gidanbunseok	기단과 전선의 개념으로 종관일기도를 분석하는 …
+k	기동함대	gidonghamdae	
+k	기똥차다	gittongchada	To be stunning, astounding
+k	기럭기럭	gireokgireok	
+k	기록문학	girongmunhak	'보고문학'.
+k	기름기름	gireumgireum	
+k	기름사탕	gireumsatang	caramel
+k	기름크림	gireumkeurim	로션의 북한말.
+k	기면증	gimyeonjeung	
+k	기미상궁	gimisanggung	a royal court woman respo…
+k	기복 변위	gibokbyeonwi	항공 사진에서, 촬영 대상물에 높이차가 있을 …
+k	기봉소설	gibongsoseol	
+k	기쁘게 하다	gippeugehada	
+k	기사회생	gisahoesaeng	(사자성어) 죽을 뻔하다가 다시 살아난다.
+k	기상재해	gisangjaehae	
+k	기상조석	gisangjoseok	태풍, 저기압, 고기압 등이 통과할 때 일어나…
+k	기상조절	gisangjojeol	인공적으로 기상을 조절하는 것.
+k	기상주의보	gisangjuuibo	기상현상으로 중대한 재해 발생이 예상될 때 이…
+k	기상청	gisangcheong	
+k	기상통보	gisangtongbo	기상관서가 기상에 관한 각종 정보나 예보사항을…
+k	기상특보	gisangteukbo	기상현상으로 인하여 중대한 기상재해가 발생될 …
+k	기생충	gisaengchung	parasite
+k	기성세대	giseongsedae	
+k	기성작가	giseongjakga	
+k	기숙사생	gisuksasaeng	
+k	기스락물	giseurangmul	'낙숫물'의 북한말.
+k	기신거리다	gisingeorida	게으르거나 기운이 없어 자꾸 느릿느릿 힘없이 …
+k	기압경도	giapgyeongdo	일정 수평거리 사이의 기압의 차의 변화비율.
+k	기압마루축	giapmaruchuk	일기도에서 등압선이나 등고선 분포에 나타나는 …
+k	기압편차	giappyeoncha	특정 관측지점의 기압과 관측지점을 포함한 넓은…
+k	기어 올라가다	gieoollagada	
+k	기어시프트	gieosipeuteu	
+k	기억장치	gieokjangchi	
+k	기엄둥실	gieomdungsil	
+k	기업공개	gieopgonggae	
+k	기업연합	gieobyeonhap	'카르텔'.
+k	기업정비	gieopjeongbi	
+k	기업집중	gieopjipjung	
+k	기업합동	gieophapdong	
+k	기온역전	gionyeokjeon	고도가 높아질수록 기온의 변화가 없거나 기온이…
+k	기온일교차	gionilgyocha	하루 중 최고기온과 최저기온의 기온의 차로써 …
+k	기온편차	gionpyeoncha	
+k	기우뚱하다	giuttunghada	
+k	기울기울하다	giulgiulhada	
+k	기울써하다	giulsseohada	'기우뚱하다'의 북한말.
+k	기웃기웃하다	giutgiuthada	
+k	기입공채	giipgongchae	
+k	기자회견	gijahoegyeon	press conference
+k	기저대역	gijeodaeyeok	
+k	기정사실	gijeongsasil	이미 정해져 있어 바꿀 수 없는 사실.
+k	기정예산	gijeongyesan	
+k	기조연설	gijoyeonseol	
+k	기준환율	gijunhwanyul	
+k	기중기선	gijunggiseon	
+k	기증되다	gijeungdoeda	to be donated
+k	기진맥진	gijinmaekjin	
+k	기체연료	gicheyeollyo	
+k	기초화장	gichohwajang	
+k	기타리스트	gitariseuteu	
+k	기형적	gihyeongjeok	
+k	기후 변화	gihubyeonhwa	climate change
+k	기후민감도	gihumingamdo	일반적으로 기후민감도란 복사강제력의 단위변화에…
+k	기후방송	gihubangsong	세계기상기구(WMO)의 협약에 따라 각국이 정…
+k	기후변화	gihubyeonhwa	수십 년 또는 그 이상 장기간 지속되는 기후의…
+k	기후시스템	gihusiseutem	기후시스템은 기상이나 기후를 결정하는 광역적인…
+k	기후적응	gihujeogeung	사람이나 생물이 어떤 날씨에 적응하여 가는 일.
+k	기후전망	gihujeonmang	온실가스와 에어로솔의 배출 및 농도 시나리오 …
+k	긴급구속	gingeupgusok	
+k	긴급사태	gingeupsatae	
+k	긴급조치	gingeupjochi	
+k	긴급체포	gingeupchepo	warrantless arrest (subje…
+k	긴급피난	gingeuppinan	
+k	긴급회의	gingeuphoeui	
+k	긴장되다	ginjangdoeda	nervous; tense
+k	긴장증	ginjangjeung	
+k	긴축되다	ginchukdoeda	
+k	긴축예산	ginchugyesan	
+k	긴코너구리	ginkoneoguri	coati, coatimundi
+k	길상천	gilsangcheon	
+k	길쯤하다	giljjeumhada	
+k	김장철	gimjangcheol	김장을 담그는 철. 대개 늦가을과 초겨울 사이…
+k	김치찌개	gimchijjigae	a sort of Korean stew mad…
+k	깃발구름	gitbalgureum	
+e	giant anteater	giantanteater	1 meaning
+e	giant trevally	gianttrevally	1 meaning
+e	girls' night out	girlsnightout	2 meanings
+j	ギフトボックス	gifutobokkusu	
+j	ギブアンドテイク	gibuandoteiku	交換すること。
+j	ギモンフタテハ	gimonfutateha	
+j	ギリシア料理	girishiaryori	ギリシアの伝統的な料理。
+j	ギリシャ正教	girishaseikyo	東方正教会の別名。ギリシャを総本山とすることから呼…
+j	技術サポート	gijutsusapoto	
+j	技術経営	gijyutsukeiei	
+j	議会図書館	gikaitoshokan	議会に附属して設置され、議会としての業務を助けるた…
+j	銀メダリスト	ginmedarisuto	
+j	銀白色	ginnpakushoku	白く輝く銀色。よく磨かれた銀の光沢の色。
+k	기가헤르츠	gigahereucheu	
+k	기계 번역	gigyebeonyeok	
+k	기계단정	gigyedanjeong	motorboat
+k	기계번역	gigyebeonyeok	컴퓨터의 번역기를 이용해서 번역하는 것.
+k	기구격 조사	gigugyeokjosa	체언이나 체언 구실을 하는 말 뒤에 붙어서 그…
+k	기능검사	gineunggeomsa	
+k	기단발원지	gidanbarwonji	기단이 발원하는 지역.
+k	기단변질	gidanbyeonjil	기단이 발원지로부터 이동하면 지표면의 성질에 …
+k	기둥서방	gidungseobang	pimp, hustler (procurer o…
+k	기록연구사	girogyeongusa	
+k	기록영화	girogyeonghwa	documentary (documentary …
+k	기름종개	gireumjonggae	The spine loach, Cobitis …
+k	기명날인	gimyeongnarin	이름을 적고 도장을 찍는 일.
+k	기명투표	gimyeongtupyo	
+k	기병총	gibyeongchong	기병이 사용할 만큼 짧은 총을 가리키는 말.
+k	기상분석	gisangbunseok	
+k	기상위성	gisangwiseong	기상관측이 목적인 인공위성.
+k	기상정보	gisangjeongbo	넓은 의미로는 기상에 관한 지식이나 보도 내용…
+k	기상천외	gisangcheonoe	(사자성어) 아주 기이하고 엉뚱한 생각.
+k	기상측기	gisangcheukgi	기상관측에 사용되는 측정기계.
+k	기상통계	gisangtonggye	기상요소를 대상으로 한 통계.
+k	기상통신	gisangtongsin	각지의 기상관측 자료를 수집하고, 또 자료를 …
+k	기상해설	gisanghaeseol	국제공항에서 조정사에게 실시하는 항공기상 해설.
+k	기생퇴물	gisaengtoemul	
+k	기생화산	gisaenghwasan	
+k	기술용역	gisuryongyeok	
+k	기술혁신	gisulhyeoksin	
+k	기암절벽	giamjeolbyeok	기묘하고 괴상한 바위와 절벽
+k	기압능축	giapneungchuk	
+k	기업결합	gieopgyeolhap	
+k	기업경제	gieopgyeongje	
+k	기업공채	gieopgongchae	
+k	기우뚱대다	giuttungdaeda	'기우뚱거리다'.
+k	기우렁대다	giureongdaeda	
+k	기울떡하다	giultteokhada	
+k	기울어트리다	giureoteurida	'기울어뜨리다'.
+k	기정세출	gijeongsechul	
+k	기체법칙	gichebeopchik	이상기체에 관련된 열역학 법칙.
+k	기초훈련	gichohullyeon	
+k	기축통화	gichuktonghwa	국제간의 결제나 금융 거래의 기본이 되는 화폐…
+k	기프트 카드	gipeuteukadeu	
+k	기행문학	gihaengmunhak	
+k	기회 원인론	gihoewonillon	
+k	기후변동	gihubyeondong	시간이 지나면서 대기환경 및 자연환경의 변화로…
+k	긴급동의	gingeupdongui	
+k	길동글다	gildonggeulda	
+k	길둥글다	gildunggeulda	
+k	길들여진	gildeuryeojin	
+k	길쭉바구미	giljjukbagumi	
+k	김일성화	gimilseonghwa	Kimilsungia
+k	김정일화	gimjeongilhwa	Kimjongilia
+e	giant forest hog	giantforesthog	1 meaning
+e	giganotosaurus	giganotosaurus	1 meaning
+e	gingerbread man	gingerbreadman	1 meaning
+j	ギシギシアンアン	gishigishianan	sexual intercourse
+j	ギニア共和国	giniakyowakoku	the Republic of Guinea
+j	ギリシア正教	girishiaseikyo	東方正教会の別名。ギリシアを総本山とすることから呼…
+j	ギリシア神話	girishiashinwa	古代ギリシアに伝わる神話や伝説。
+j	偽玄武岩破璃	gigenbuganhari	シュードタキライト。
+j	技術家庭科	gijutsukateika	中学校の教科の一つ。
+j	疑似科学的	gijikagakuteki	
+j	義兄弟姉妹	gikeiteishimai	義理の兄弟姉妹のこと。またはその関係。
+k	기계문명	gigyemunmyeong	
+k	기관단총	gigwandanchong	
+k	기기묘묘하다	gigimyomyohada	
+k	기동훈련	gidonghullyeon	
+k	기린영양	girinyeongyang	gerenuk
+k	기명절지	gimyeongjeolji	
+k	기명주권	gimyeongjugwon	
+k	기본대형	gibondaehyeong	
+k	기상 경보	gisanggyeongbo	호우나 대설, 강풍 등 기상현상에 의하여 중대…
+k	기상개황	gisanggaehwang	어떤 지역에 대한 일기의 종합적인 상황.
+k	기상방송	gisangbangsong	기상관측자료, 일기도 분석자료, 기상예보, 특…
+k	기상실황	gisangsilhwang	각 관측지점에서 관측된 기상자료 그 자체.
+k	기상전망	gisangjeonmang	장기예보에서 개략적인 날씨를 예상하는 것.
+k	기생동물	gisaengdongmul	숙주의 몸에 달라붙여서 피, 양분 등을 빨아먹…
+k	기생식물	gisaengsingmul	parasite, parasitic plant
+k	기신기신하다	gisingisinhada	
+k	기압변화도	giapbyeonhwado	특정시간 간격의 처음시각과 최종시각에서 대기압…
+k	기억용량	gieogyongnyang	컴퓨터에 저장할 수 있는 용량.
+k	기엄기엄하다	gieomgieomhada	
+k	기울떡대다	giultteokdaeda	
+k	기울어뜨리다	giureotteurida	기울어지게 하다.
+k	기하 평균	gihapyeonggyun	
+k	기회균등	gihoegyundeung	
+k	기후불연속	gihubulyeonsok	기후변화를 모든 종류의 변화를 포괄하는 개념으…
+k	긴가민가하다	gingamingahada	맞는것 같기도 하고, 아닌 것 같기도 하다
+k	긴급상태	gingeupsangtae	
+k	긴급통화	gingeuptonghwa	
+k	긴목갈매기	ginmokgalmaegi	
+k	길거리 음식	gilgeorieumsik	
+k	길동그랗다	gildonggeurata	
+k	길쑥길쑥	gilssukgilssuk	
+k	길쑴길쑴	gilssumgilssum	
+k	길쭉길쭉	giljjukgiljjuk	
+k	길쯔막하다	giljjeumakhada	
+k	길찍길찍	giljjikgiljjik	
+k	길항작용	gilhangjagyong	
+k	길흉화복	gilhyunghwabok	
+j	ギガノトサウルス	giganotosaurusu	竜盤目獣脚亜目カルカロドントサウルス科ギガノトサウ…
+j	ギリシア語辞典	girishiagojiten	ギリシア語の単語や熟語、用法等を解説した辞書。
+j	ギリシャヨーグルト	girishayoguruto	
+j	義務教育学校	gimukyoikugakko	現在の学校教育法においては、初等教育と前期中等教育…
+j	銀白色の	ginnpakushokuno	
+k	기관권총	gigwangwonchong	
+k	기름뺀젖	gireumppaenjeot	skimmed milk
+k	기상 관측	gisanggwancheuk	대기의 상태를 알기 위하여 기압, 기온, 습도…
+k	기상 캐스터	gisangkaeseuteo	
+k	기상 현상	gisanghyeonsang	
+k	기상브리핑	gisangbeuriping	기상관측자료나 일기예보를 구두로 간단히 설명해…
+k	기상통보식	gisangtongbosik	각 기상관측소의 관측결과나 분석결과를 국내, …
+k	기생충학	gisaengchunghak	parasitology
+k	기압경향	giapgyeonghyang	기압 변화의 경향과 기압변화량.
+k	기우뚱거리다	giuttunggeorida	물체가 자꾸 이쪽저쪽으로 기울어지며 흔들리다.…
+k	기우렁거리다	giureonggeorida	
+k	기웃드름하다	giutdeureumhada	조금 기운 듯하다.
+k	기회를 노리다	gihoereulnorida	
+k	기후경향	gihugyeonghyang	과거 수 년간의 기후를 시계열 순으로 배열하여…
+k	기후학적 예보	gihuhakjeokyebo	특정 지역에 나타나는 기후에 기초를 둔 기후자…
+k	긴날개박쥐	ginnalgaebakjwi	The Schreiber's bat, Mini…
+k	긴축재정	ginchukjaejeong	
+k	길둥그렇다	gildunggeureota	
+j	ギリギリ健常者	girigirikenjosha	person who resembles a pe…
+j	ギリシア火薬	girishiahokusuri	
+j	ギリシャ共和国	girishakyowakoku	Hellenic Republic (offici…
+j	ギリシャ正教会	girishaseikyokai	東方正教会の別名。ギリシャを総本山とすることから呼…
+j	儀同三司母	gidosanshinohaha	a courtesy name of Takash…
+j	技術的負債	gijutsutekifusai	
+j	疑心暗鬼を生ず	gishinankioshozu	once you suspect somethin…
+j	議論百出	gironhyakushutsu	many arguments arising fr…
+j	銀河系外星雲	gingakeigaiseiun	見た目が星雲に似ていることから、銀河系以外の銀河を…
+j	銀行の明細書	ginkonomeisaisho	
+k	기가노토사우루스	giganotosauruseu	
+k	기계화보병	gigyehwabobyeong	
+k	기독교인입니다	gidokgyoinipnida	
+k	기름기름하다	gireumgireumhada	
+k	기름쏙독새	gireumssokdoksae	
+k	기린목갈매기	girinmokgalmaegi	
+k	기명채권	gimyeongchaegwon	
+k	기승전결	giseungjeongyeol	
+k	기압배치형	giapbaechihyeong	고•저기압, 기압골, 기압마루, 전선 등의 시…
+k	기온연직분포	gionyeonjikbunpo	지구대기의 고도별 온도 분포.
+k	기온이류변화	gioniryubyeonhwa	공기의 운동에 의하여 열량의 변화가 운반되는 …
+k	기온이슬점차	gioniseuljeomcha	특정 위치에서 기온과 이슬점과의 차이값.
+k	기우뚱기우뚱	giuttunggiuttung	
+k	기우렁기우렁	giureonggiureong	
+k	기울떡거리다	giultteokgeorida	
+k	긴꼬리꼬마쥐	ginkkorikkomajwi	long-tailed birch mouse (…
+k	긴꼬리올빼미	ginkkoriolppaemi	
+k	긴꼬리원숭이	ginkkoriwonsungi	
+k	길상천녀	gilsangcheonnyeo	
+k	길쯤길쯤	giljjeumgiljjeum	
+j	ギブス自由エネルギー	gibusujiyuenerugi	反応が自発的に進行するかどうかの指標。記号は「G」…
+j	ギラン・バレー症候群	giranbareshokogun	
+j	ギリシア正教会	girishiaseikyokai	東方正教会の別名。ギリシアを総本山とすることから呼…
+j	偽善的な言い方	gizentekinaiikata	
+k	기대가능성	gidaeganeungseong	
+k	기독교 민주주의	gidokgyominjujuui	
+k	기명증권	gimyeongjeunggwon	
+k	기분 상하게 하다	gibunsanghagehada	
+k	기상관측소	gisanggwancheukso	기상관측 예를 들면 종관기상관측과 방재용 기상…
+k	기압경도력	giapgyeongdoryeok	대기압력의 공간적 차이에 의하여 나타나는 힘.
+k	기압하강중심	giaphagangjungsim	주위와 비교한 상대적인 최대의 기압하강역.
+k	긴발톱첨서	ginbaltopcheomseo	The long-clawed shrew, So…
+k	긴축정책	ginchukjeongchaek	
+k	길을 잃어버리다	gireulireobeorida	
+k	김치냉장고	gimchinaengjanggo	김치를 보관하기 위해 만든 냉장고.
+j	ギザの大ピラミッド	gizanodaipiramiddo	
+k	기괴망측하다	gigoemangcheukhada	
+k	기록말살형	girongmalsalhyeong	
+k	기본 상호작용	gibonsanghojagyong	
+k	기상관측부이	gisanggwancheukbui	
+k	기상정역학	gisangjeongyeokhak	정지한 대기의 힘의 균형을 취급하는 분야.
+k	기역니은차례	giyeongnieuncharye	가나다순.
+k	기울떡기울떡	giultteokgiultteok	
+k	기자의 대피라미드	gijauidaepiramideu	
+k	길쑥길쑥하다	gilssukgilssukhada	
+k	길쑴길쑴하다	gilssumgilssumhada	
+k	길쭉길쭉하다	giljjukgiljjukhada	
+k	길찍길찍하다	giljjikgiljjikhada	
+e	giant pacific octopus	giantpacificoctopus	1 meaning
+j	ギニアビサウ共和国	giniabisaukyowakoku	Republic of Guinea-Bissau…
+j	ギンホオエボシアリモズ	ginhooeboshiarimozu	
+j	技術的特異点	gijutsutekitokuiten	人工知能が人間の知能を上回り、その発展が予測できな…
+k	기갑전투차량	gigapjeontucharyang	
+k	기네비사우 공화국	ginebisaugonghwaguk	
+k	기상 관측선	gisanggwancheukseon	해상 기상 관측을 목적으로 하는 선박.
+k	기소불욕 물시어인	gisoburyokmulsieoin	
+k	긴 단어 공포증	gindaneogongpojeung	
+k	긴급명령	gingeummyeongnyeong	
+k	긴부리참돌고래	ginburichamdolgorae	The long-beaked common do…
+k	긴점박이올빼미	ginjeombagiolppaemi	
+k	길들여지지 않은	gildeuryeojijianeun	
+k	기술 관료정치	gisulgwallyojeongchi	
+k	기압상승중심	giapsangseungjungsim	주위에 비교하여 상대적인 최대의 기압 상승역.
+k	기우뚱기우뚱하다	giuttunggiuttunghada	
+k	기우렁기우렁하다	giureonggiureonghada	
+k	기후계절관측	gihugyejeolgwancheuk	
+k	길쯤길쯤하다	giljjeumgiljjeumhada	
+k	기역니은디귿순	giyeongnieundigeutsun	ㄱㄴㄷ순의 다른 표기
+k	기후 변화 부정자	gihubyeonhwabujeongja	
+k	기상정찰 비행	gisangjeongchalbihaeng	‘비행기관측’으로 민간항공기의 조종사가 행하는…
+k	기울떡기울떡하다	giultteokgiultteokhada	
+k	김칫국부터 마신다	gimchitgukbuteomasinda	떡 줄 사람은 꿈도 안 꾸는데 김칫국부터 마신…
+e	giant burrowing cockroach	giantburrowingcockroach	1 meaning
+k	기상국제지점번호	gisanggukjejijeombeonho	세계기상기구가 승인 지정한 전 세계 기상관측 …
+k	기상특보 발효시각	gisangteukbobalhyosigak	기상청에서 기상특보 등을 발표할 때 각 특보 …
+k	긴꼬리윗수염박쥐	ginkkoriwitsuyeombakjwi	The fraternal myotis, Myo…
+k	길을 잃어 버렸어요	gireulireobeoryeosseoyo	
+k	기상정찰통보식	gisangjeongchaltongbosik	'비행기관측'으로 실시한 관측결과를 통보하는 …
+k	기후표준평년값	gihupyojunpyeongnyeongap	기후를 나타내기 위해 표준 값으로 사용되는 3…
+k	기상관측환경	gisanggwancheukhwangyeong	기상관측장비의 설치위치, 설치조건 그리고 기상…
+k	김칫국부터 마시지 마라	gimchitgukbuteomasijimara	
+e	give someone the cold shoulder	givesomeonethecoldshoulder	1 meaning
+k	기차 떠나고 손 흔들다	gichatteonagosonheundeulda	"to wave after the train …
+k	길을 잃어 버렸습니다	gireulireobeoryeotseumnida	
+k	길고 짧은 것은 대어 보아야 안다	gilgojjaleungeoteundaeeoboayaanda	아직 확인되지 않은 능력은 한번 제대로 검사하…
+e	give a man a fish and you feed him for a day; teach a man to fish and you feed him for a lifetime	giveamanafishandyoufeedhimforadayteachamantofishandyoufeedhimforalifetime	1 meaning

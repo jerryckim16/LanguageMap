@@ -1,0 +1,3060 @@
+j	ぼ	bo	戊: the fifth day of the t…
+j	ぼう	bo	氓: (on'yomi, only used in…
+j	ボウ	bo	a bowtie (necktie shaped …
+j	ボー	bo	baud
+j	卯	bo	the Rabbit, the fourth of…
+j	坊	bo	a boy
+j	帽	bo	cap; hat
+j	戊	bo	the fifth of the ten heav…
+j	暴	bo	violent
+j	某	bo	certain (denoting that th…
+j	棒	bo	a staff, measuring 6 shak…
+j	氓	bo	people; subjects
+k	보	bo	step
+e	boa	boa	1 meaning
+e	bob	bob	1 meaning
+e	bog	bog	1 meaning
+e	boo	boo	4 meanings
+e	bot	bot	1 meaning
+e	bow	bow	8 meanings
+e	box	box	2 meanings
+e	boy	boy	3 meanings
+j	ぼん	bon	坊主。
+j	ボア	boa	boa (snake)
+j	ボン	bon	good
+j	ボーイ	boi	boy
+j	ボーン	bon	bone
+j	凡	bon	mediocre, ordinary
+j	暮雨	bou	rain in the evening
+j	暴威	boi	乱暴な威力、勢威。
+j	梵	bon	（ボン）バラモン教の最高原理。
+j	盆	bon	a tray (for carrying e.g.…
+j	防己	boi	dried rhizome and stem of…
+j	防雨	bou	機器に雨水が入らないような構造。
+k	보아	boa	
+k	보오	boo	
+k	보우	bou	
+k	보이	boi	
+k	복	bok	fortune, blessing, luck
+k	본	bon	root, basis
+k	볼	bol	cheek
+k	봄	bom	spring, springtime
+k	봇	bot	bot
+k	뵈	boe	synonym of 벼 (byeo, “rice…
+e	boar	boar	1 meaning
+e	boat	boat	1 meaning
+e	bode	bode	1 meaning
+e	body	body	5 meanings
+e	bogo	bogo	1 meaning
+e	boil	boil	5 meanings
+e	bold	bold	2 meanings
+e	boli	boli	1 meaning
+e	bolt	bolt	3 meanings
+e	bomb	bomb	3 meanings
+e	bond	bond	2 meanings
+e	bone	bone	3 meanings
+e	bonk	bonk	1 meaning
+e	bonn	bonn	1 meaning
+e	boob	boob	1 meaning
+e	book	book	10 meanings
+e	boom	boom	2 meanings
+e	boot	boot	2 meanings
+e	bora	bora	1 meaning
+e	bore	bore	2 meanings
+e	born	born	1 meaning
+e	boss	boss	3 meanings
+e	both	both	1 meaning
+e	bowl	bowl	2 meanings
+e	boza	boza	1 meaning
+j	ぼいん	boin	乳房の大きい女性。また乳房が大きいこと。
+j	ぼうじょう	bojo	端切れなどをつないで作られた衣服。
+j	ぼうず	bozu	坊主: Buddhist priest; some…
+j	ぼうど	bodo	暴怒: rage
+j	ぼうぼう	bobo	茫々: vast
+j	ぼうや	boya	幼い男の子。
+j	ぼえん	boen	墓園: cemetery; graveyard
+j	ぼけ	boke	木瓜
+j	ぼこ	boko	baby, newborn, infant
+j	ぼて	bote	
+j	ぼに	boni	Bon festival, Obon festiv…
+j	ぼぼ	bobo	female genitalia; vagina
+j	ぼや	boya	大事に至らぬうちに消し止められた小さな火事。
+j	ぼら	bora	ボラ目ボラ科ボラ属に属する魚。成長するに従い、名前…
+j	ぼる	boru	to overcharge
+j	ぼろ	boro	rag
+j	ボイン	boin	with a wham, with a wallop
+j	ボウイ	boui	
+j	ボウラー	bora	a bowler
+j	ボウル	boru	a bowl
+j	ボギー	bogi	そのホールの基準打数（パー）より一打多い打数でホー…
+j	ボケ	boke	木瓜
+j	ボザ	boza	
+j	ボス	bosu	a boss, especially of a c…
+j	ボディ	bodi	身体。
+j	ボディー	bodi	body (of a living being)
+j	ボビー	bobi	a transliteration of the …
+j	ボブ	bobu	a transliteration of the …
+j	ボム	bomu	bomb
+j	ボラ	bora	
+j	ボル	boru	
+j	ボーク	boku	balk
+j	ボーグ	bogu	
+j	ボーダー	boda	国境、境。
+j	ボート	boto	boat; rowboat
+j	ボード	bodo	board (long, flat object)
+j	ボール	boru	ball (sphere)
+j	ボーロ	boro	a type of small cake made…
+j	不好	boha	良くないこと。好ましくないこと。
+j	亡児	boji	死亡した児童。
+j	亡夫	bofu	死亡した夫。亡き夫。
+j	亡婦	bofu	死亡した婦人。亡き婦人。
+j	亡故	boko	死ぬこと。亡くなること。
+j	亡父	bofu	deceased father
+j	傍偟	boko	さまようこと。
+j	傍具	bogu	拷問に使う道具。榜具。
+j	傍午	bogo	旁午の異表記。
+j	傍受	boju	interception, tapping
+j	傍記	boki	傍らに記入すること。また、そのようなもの。
+j	僕	boku	manservant, servant
+j	冒用	boyo	名義の権利者の同意を得ないで、その名称等を使用する…
+j	冒絮	bojo	綿の頭巾。
+j	冒蒙	bomo	おかすこと。
+j	冒貢	boko	冒進すること。
+j	冒頭	boto	the lead-in, the head, th…
+j	卜	boku	fortune-telling
+j	卯羹	boko	兎の羹。
+j	厖厚	boko	寛厚。
+j	厖洪	boko	広大なさま。
+j	厖澒	boko	天の高大な気象。
+j	厖蒙	bomo	愚かなさま。
+j	厖鴻	boko	高大なさま。
+j	呆け	boke	
+j	坊や	boya	boy
+j	坊主	bozu	A Buddhist monk
+j	坊号	bogo	大寺院の支院につける寺号の一つ。
+j	坊城	bojo	みやこ。
+j	坊巷	boko	路次。
+j	墓上	bojo	墓の上。
+j	墓園	boen	cemetery; graveyard
+j	墓壙	boko	遺体や遺骨を埋葬するために掘られる穴。墓穴。
+j	墓廬	boro	大きな墓で葬られている部屋。墓室。
+j	墓樹	boju	墓の木。
+j	墓碑	bohi	tombstone; gravestone
+j	夢後	bogo	夢から醒めること。また、その後。
+j	妄用	boyo	みだりに使用すること。
+j	妄議	bogi	道理の通らないでたらめな議論をすること。また、その…
+j	姆傅	bofu	うば。
+j	小火	boya	small fire
+j	庖仕	boji	台所で雑用をする男性。
+j	忘吾	bogo	我を忘れること。
+j	忘憂	boyu	to forget about worries
+j	忘我	boga	being deeply engrossed in…
+j	忙功	boko	忙工。
+j	忙工	boko	忙しい時に雇う手伝い。
+j	惚け	boke	a fool, an idiot
+j	慕情	bojo	yearning; longing; affect…
+j	懋功	boko	大功。
+j	戊夜	boya	fifth watch of the five n…
+j	房事	boji	性交。
+j	房号	bogo	大寺院の支院につける寺号の一つ。
+j	房戸	boko	律令制で郷戸を構成する小さな家族の単位。
+j	房杜	boto	名誉のある宰相。
+j	房総	boso	安房と上総・下総。
+j	拇動	bodo	元気。
+j	拇印	boin	拇指（親指）に墨や朱肉をつけて指紋を押し、押印の代…
+j	旁光	boko	膀胱。
+j	旁午	bogo	入り乱れること。往来の激しいこと。
+j	旁坐	boza	連座すること。
+j	旁忤	bogo	旁午の異表記。
+j	旁行	boko	広く行き渡ること。
+j	暈け	boke	bokeh
+j	暮冬	boto	晩冬。
+j	暮夜	boya	夜。夜分。
+j	暴傲	bogo	乱暴で人に傲ること。
+j	暴利	bori	unfair profit; exorbitant…
+j	暴動	bodo	riot
+j	暴吏	bori	道理に背き、民を虐げる役人。
+j	暴寇	boko	凶敵。
+j	暴富	bofu	僅かな期間のうちに富を得ること。また、その人。
+j	暴徒	boto	mob
+j	暴怒	bodo	rage
+j	暴投	boto	wild pitch
+j	暴状	bojo	乱暴な状態、ありさま。
+j	暴猛	bomo	乱暴なこと。猛々しいこと。また、そのようなさま。
+j	暴興	boko	俄に興ること。
+j	暴虎	boko	虎を手で打つこと。
+j	暴行	boko	violence; outrage
+j	暴豪	bogo	暴強なこと。
+j	暴走	boso	recklessly running around
+j	暴風	bofu	windstorm, stormy wind, s…
+j	暴飲	boin	binge drinking
+j	暴騰	boto	sharp increase in price/v…
+j	望候	boko	覗い、待つこと。
+j	望影	boei	遠くを見ること。
+j	望楼	boro	watchtower
+j	望気	boki	雲の動きなどを見て吉凶を占うこと。
+j	望洋	boyo	広すぎて見当がつかないこと。また、そのようなさま。
+j	望舒	bojo	月。
+j	望遠	boen	long-distance viewing
+j	望高	boko	高く望むこと。
+j	木瓜	boke	Chaenomeles speciosa
+j	某某	bobo	ある人（たち）、なにがし、だれだれ。
+j	棒状	bojo	棒のような形状。
+j	棒鋼	boko	太さが10センチメートル前後の棒状の鋼材。
+j	榜具	bogu	拷問に使う道具。傍具。
+j	榜木	boki	土地の境界を標示するための木。
+j	榜示	boji	杭や石などで領地などの境界を示したもの。
+j	母儀	bogi	母としての模範。
+j	母党	boto	母方。
+j	母園	boen	nursery school or kinderg…
+j	母堂	bodo	相手の母親に対する敬語。
+j	母数	bosu	歩合算における元金。
+j	母校	boko	alma mater
+j	母語	bogo	a first language, a mothe…
+j	母音	boin	one of the five morae of …
+j	滂沱	boda	雨が強く降る様。
+j	滂洽	boko	遍く行き渡ること。
+j	滂浩	boko	広大なさま。
+j	牟寿	boju	長命。長寿。
+j	牟甲	boko	矛と甲。
+j	牡馬	boba	male horse
+j	甿郊	boko	田野。
+j	眊荒	boko	老い、惚けること。
+j	眸光	boko	眼光。
+j	瞀妄	bomo	愚かででたらめなこと。
+j	矛叉	bosa	刺股。
+j	矛弧	boko	矛と弓。
+j	矛部	bobu	部首「⽭」で分類した漢字の一群。
+j	簿記	boki	bookkeeping
+j	紡機	boki	「紡績機械」の略。
+j	紡毛	bomo	糸を紡ぐこと。
+j	紡纑	boro	麻糸を紡ぐこと。
+j	耄儒	boju	老儒。
+j	耄期	boki	老い耄れること。また、そのような年齢。老齢。
+j	肪胱	boko	膀胱。
+j	膀胱	boko	urinary bladder
+j	膨化	boka	swelling, expansion
+j	芒光	boko	光の穂。
+j	芒屨	boku	わらぐつ。
+j	芒荒	boko	荒野。
+j	茅土	bodo	諸侯を封じること。また、その土地。
+j	茅花	boka	チガヤの花。
+j	茅香	boko	「香茅」の別名。
+j	茆盧	boro	茅葺き。茆舎。
+j	茫如	bojo	茫然。
+j	茫洋	boyo	限りなく広々していること。また、そのようなさま。
+j	茫濛	bomo	茫昧。
+j	茫茫	bobo	果てしなく広々としているさま。
+j	蝥網	bomo	蜘蛛の巣。
+j	謀功	boko	功を謀ること。
+j	謀図	boto	計画すること。謀計。
+j	謀夫	bofu	謀を進言する者。謀人。
+j	謀詐	bosa	敵を偽るはかりごと。
+j	謀議	bogi	計画、謀を相談すること。
+j	謗家	boka	誹謗する人。
+j	謗毀	boki	そしること。けなすこと。誹謗。
+j	謗語	bogo	誹り。暴言。
+j	謗議	bogi	悪し様な批評。悪口を言うこと。
+j	貌容	boyo	姿。容貌。容姿。
+j	貿儒	boju	迂儒。
+j	貿功	boko	交換すること。
+j	防備	bobi	defensive preparations ag…
+j	防具	bogu	衝撃から人体を保護するために着用する道具。
+j	防火	boka	fire prevention, fireproo…
+j	防炎	boen	being fire retardant
+j	防煙	boen	火事などにおいて、煙が広がるのを防ぐこと。
+j	防砂	bosa	土砂崩れなど、土砂による災害を防止すること。
+j	防磁	boji	磁性体の部品がこれ以上磁化されるのを防止すること。
+j	防空	boku	air defense, protection f…
+j	防腐	bofu	腐敗を防止すること。
+j	防蟻	bogi	蟻（とくに白蟻）の被害を防ぐこと。
+j	防衛	boei	defense, self-defense
+j	防護	bogo	protection
+j	防除	bojo	災害などを防止し除去すること。
+j	防霜	boso	作物などに霜が積もるのを予防すること。
+j	防露	boro	露の発生を防止すること。
+j	防音	boon	being soundproof
+j	防風	bofu	protection against the wi…
+j	鯔	bora	flathead mullet, Mugil ce…
+k	보고	bogo	report, information
+k	보구	bogu	
+k	보기	bogi	example
+k	보다	boda	to see, to look at, to wa…
+k	보도	bodo	news coverage; journalist…
+k	보라	bora	purple, violet (an interm…
+k	보루	boru	bastion
+k	보리	bori	barley
+k	보메	bome	액체의 비중을 나타내는 단위. 물보다 무거운 …
+k	보모	bomo	nurse, nanny
+k	보세	bose	관세의 부과가 보류되는 일.
+k	보수	bosu	reward
+k	보시	bosi	
+k	보안	boan	preservation of public se…
+k	보애	boae	spinning top
+k	보어	boeo	complement
+k	보옥	book	
+k	보온	boon	insulation; keeping warm
+k	보위	bowi	protection; defense
+k	보유	boyu	possession; retention
+k	보임	boim	
+k	보자	boja	'보자기'.
+k	보제	boje	
+k	보조	bojo	help, aid, assistance
+k	보주	boju	
+k	보지	boji	pussy, vulva, vagina
+k	보케	boke	
+k	보티	boti	
+k	보호	boho	protection
+k	봉	bong	plug or patch to prevent …
+k	뵘	boem	filling up, patching, blo…
+e	board	board	5 meanings
+e	boast	boast	2 meanings
+e	bocce	bocce	1 meaning
+e	bodhi	bodhi	1 meaning
+e	bogan	bogan	1 meaning
+e	bogey	bogey	1 meaning
+e	bogie	bogie	1 meaning
+e	bogor	bogor	1 meaning
+e	bogotá	bogot	1 meaning
+e	bogra	bogra	1 meaning
+e	bogus	bogus	1 meaning
+e	bohol	bohol	1 meaning
+e	bokeh	bokeh	1 meaning
+e	bokmål	bokml	1 meaning
+e	bondi	bondi	1 meaning
+e	boner	boner	1 meaning
+e	bongo	bongo	2 meanings
+e	bonin	bonin	1 meaning
+e	bonus	bonus	2 meanings
+e	bonze	bonze	1 meaning
+e	booby	booby	1 meaning
+e	booth	booth	2 meanings
+e	booty	booty	2 meanings
+e	borax	borax	1 meaning
+e	bored	bored	1 meaning
+e	borer	borer	1 meaning
+e	boris	boris	1 meaning
+e	boron	boron	2 meanings
+e	bosom	bosom	1 meaning
+e	boson	boson	1 meaning
+e	bothy	bothy	1 meaning
+e	bough	bough	1 meaning
+e	bound	bound	1 meaning
+e	bowel	bowel	2 meanings
+e	bowie	bowie	1 meaning
+e	bowls	bowls	1 meaning
+e	boxer	boxer	3 meanings
+e	boyar	boyar	1 meaning
+e	boötes	botes	1 meaning
+j	ぼうし	boshi	防止: prevention
+j	ぼうたん	botan	妄誕: groundlessness, addit…
+j	ぼうっと	botto	unclearly, indistinctly, …
+j	ぼおっと	botto	
+j	ぼかん	bokan	kapow, bam, biff, bonk
+j	ぼせん	bosen	母船: mother ship
+j	ぼたん	botan	（「牡丹」のかな表記）ボタン科ボタン属の落葉小低木…
+j	ぼち	bochi	小さな点。ぽち。
+j	ぼっか	bokka	木の根。切り株。
+j	ぼっき	bokki	勃起: erection of the penis
+j	ぼれい	borei	牡蠣: oyster; roasted and p…
+j	ぼろい	boroi	少ない資本や労力の割りに利益が大きいさま。
+j	ぼろん	boron	弦楽器の弦を弾いたときに鳴る音。
+j	ぼんそう	bonso	凡僧: an ordinary, lowly mo…
+j	ぼんぞう	bonzo	凡僧: an ordinary, lowly mo…
+j	ぼーっと	botto	
+j	ボイス	boisu	voice
+j	ボイド	boido	銀河がほとんどない宇宙の領域。
+j	ボイパ	boipa	
+j	ボイラー	boira	boiler
+j	ボイル	boiru	ゆでること。
+j	ボウガン	bogan	弓をライフルのような台に取り付け、引き金を引いて射…
+j	ボウタイ	botai	synonym of ボウ (bō, “bowti…
+j	ボキャ	bokya	
+j	ボセオ	boseo	スペイン語において二人称単数の代名詞に「tú」の代…
+j	ボソン	boson	synonym of ボース粒子 (Bōsu ry…
+j	ボゾン	bozon	
+j	ボタン	botan	a button (clothing)
+j	ボット	botto	bot, a piece of software …
+j	ボッブ	bobbu	ボブの別形。
+j	ボドイ	bodoi	Vietnamese person, especi…
+j	ボビン	bobin	bobbin
+j	ボロン	boron	ホウ素、硼素。
+j	ボンゴ	bongo	ラテン音楽で用いる音高が異なる2つの太鼓の組み合わ…
+j	ボンド	bondo	株券、債権などの有価証券のこと。
+j	ボンバー	bonba	爆撃機。
+j	ボンベ	bonbe	gas cylinder, pressurized…
+j	ボータイ	botai	
+j	乏人	bojin	人材が乏しい状態。
+j	乏少	bosho	乏しく少ないこと。また、そのようなさま。
+j	乏尽	bojin	尽きること。乏竭
+j	亡人	bojin	他国に亡命した者。
+j	亡兄	bokei	死亡した兄。亡き兄。
+j	亡叛	bohan	叛き、逃亡すること。
+j	亡君	bokun	亡くなった主君。
+j	亡命	bomei	exile
+j	亡妹	bomai	死亡した妹。亡き妹。
+j	亡妻	bosai	one's deceased wife
+j	亡姉	boshi	死亡した姉。亡き姉。
+j	亡帝	bojin	亡くなった帝。
+j	亡師	boshi	亡くなった師匠。
+j	亡弟	botei	死亡した弟。亡き弟。
+j	亡酒	boshu	酒席を外すこと。
+j	亡霊	borei	a ghost; an apparition
+j	傍注	bochu	本文の傍らにつけた註釈。
+j	傍点	boten	synonym of 圏点
+j	傍生	bosho	体を立てず横にして生きるもの。畜生。
+j	傍系	bokei	collateral (line, descent)
+j	傍線	bosen	sideline (vertical-text e…
+j	傍聴	bocho	当事者以外が裁判、会議などをその場に行き見聞きする…
+j	傍視	boshi	傍らで見ること。傍観すること。
+j	傍観	bokan	looking on; spectating pa…
+j	傍訊	bojin	思いを巡らすこと。
+j	傍訓	bokun	漢字のわきに読み仮名を振ること。ルビ。振り仮名。
+j	傍註	bochu	「傍注」の別表記。
+j	傍証	bosho	間接的な証拠。
+j	傍題	bodai	subtitle
+j	冒刃	bojin	刃を恐れずに進むこと。
+j	冒娶	boshu	無理やりに娶ること。
+j	冒険	boken	adventure
+j	凡事	bonji	珍しくないこと。普通にあること。
+j	凡僧	bonso	An ordinary, lowly, itine…
+j	凡夫	bonpu	ordinary person; mortal p…
+j	凡常	bonjo	平凡でありきたりであるさま。
+j	凡庸	bonyo	mediocre; ordinary
+j	凡愚	bongu	平凡で愚かなさま。また、そのような人。
+j	凡打	bonda	打者がヒットや犠打にならない球を打つこと。また、そ…
+j	剖検	boken	解剖して調べること。
+j	勃	botsu	suddenness
+j	勃嚕唵	boron	密教で唱える陀羅尼のひとつ。
+j	勃興	bokko	sudden rise to power
+j	勃起	bokki	erection of the penis
+j	募金	bokin	fundraising, collection o…
+j	募集	boshu	hiring, recruitment (e.g.…
+j	卯酒	boshu	卯の刻（午前六時ころ）にのむ酒。
+j	厖大	bodai	数や量が非常に大きい様子。
+j	厖昧	bomai	暗いこと。また、そのようなさま。
+j	厖然	bozen	非常に大きいさま。
+j	呆然	bozen	dumbfounded
+j	坊さん	bosan	a Buddhist monk, a bonze
+j	坊中	bochu	町中。
+j	坊人	bojin	門跡、院主にその宗門の門徒として属する僧侶。
+j	坊官	bokan	東宮坊の職員。
+j	坊市	boshi	市街。まち。
+j	坊庁	bocho	東宮坊の別称。
+j	坊舎	bosha	僧侶の住む建物。
+j	坊間	bokan	in society, all over town
+j	墓制	bosei	burial practice
+j	墓前	bozen	in front of tomb
+j	墓参	bosan	墓に行くこと。特に、盂蘭盆の際、自分の先祖の墓に行…
+j	墓地	bochi	a cemetery, a graveyard
+j	墓所	bosho	graveyard
+j	墓標	bohyo	墓石に刻まれた故人の情報や建立者の表示。
+j	墓誌	boshi	墓石に刻まれた事績などを記した文。
+j	墨家	bokka	Mohism
+j	妄断	bodan	これといった根拠もなく判断すること。間違った判断を…
+j	妄計	bokei	無謀な計画。
+j	妄談	bodan	根拠がない話。荒唐無稽な話。
+j	妨害	bogai	obstructing someone or so…
+j	妨碍	bogai	妨げること。
+j	妨蔽	bohei	妨げること。
+j	妨電	boden	無線による通信で他の電磁波（混信など）により通信が…
+j	尨然	bozen	非常に大きいさま。
+j	帽子	boshi	hat, cap
+j	帽章	bosho	badge on a cap
+j	忘年	bonen	年老いているのを忘れること。
+j	忘形	bokei	自己の存在を忘れること。
+j	忘念	bonen	失念すること。
+j	忙中	bochu	忙しい最中。
+j	忙急	bokyu	忙しいさま。
+j	忙閑	bokan	忙しいことと、ひまなこと。
+j	惘然	bozen	呆気にとられ唖然とするさま。
+j	戊種	boshu	ものの品位を階層化して評価した場合の上位から第五位…
+j	房中	bochu	部屋の中。特に閨房の中。
+j	房主	boshu	家主。
+j	房兄	bokei	堂兄。
+j	房州	boshu	安房国^(（あわのくに）)の別称。
+j	房殿	boden	御殿。
+j	房舎	bosha	部屋と家。
+j	拇指	boshi	synonym of 親指
+j	拇趾	boshi	足の親指。
+j	旁及	bokyu	広く行き渡ること。
+j	旁径	bokei	脇道。
+j	旁求	bokyu	遍く求めること。
+j	旁系	bokei	傍系。
+j	旁継	bokei	傍系。
+j	旁訊	bojin	広く問うこと。旁諮。
+j	旁諮	boshi	広く問うこと。
+j	旄倪	bogei	老人と子供。老幼。
+j	旄牛	bogyu	ウシ科の動物で「ヤク」のこと。犛牛。
+j	暮景	bokei	夕暮れ時の景色。
+j	暮歯	boshi	老齢。老年。
+j	暮蝉	bozen	夕暮れ時にしきりに鳴くせみ。
+j	暮蟬	bozen	「暮蝉」の別表記。
+j	暮鐘	bosho	夕暮れ時に寺院などで打ち鳴らす鐘。また、その音。晩…
+j	暮齢	borei	老いた年齢。高齢。
+j	暴人	bojin	乱暴な人。あばれもの。
+j	暴君	bokun	despot; tyrant
+j	暴害	bogai	暴力などにより危害を加えること。また、その危害。
+j	暴強	bokyo	強暴なこと。
+j	暴急	bokyu	急激なさま。
+j	暴慢	boman	乱暴で傲慢なこと。
+j	暴戻	borei	tyranny, atrocity
+j	暴挙	bokyo	wild behaviour
+j	暴政	bosei	tyranny
+j	暴死	boshi	突然死ぬこと。
+j	暴殄	boten	ものを乱暴に取り扱い、消耗すること。
+j	暴漢	bokan	violent man
+j	暴瀉	bosha	激しい下痢。
+j	暴言	bogen	insensitive and/or irresp…
+j	暴論	boron	outrageous argument
+j	暴雷	borai	激しい雷。激しい落雷。
+j	暴風雨	bofuu	rainstorm
+j	望外	bogai	望んでいたものより良いこと。またそのさま。
+j	望郷	bokyo	nostalgic thinking of one…
+j	望霓	bogei	雨雲を望むこと。
+j	某処	bosho	とある場所。不明であったり明示を避けるときに用いる…
+j	某啓	bokei	拝啓。
+j	某所	bosho	certain place
+j	某氏	boshi	an unnamed person; anonym…
+j	某社	bosha	とある会社。
+j	某紙	boshi	とある新聞。
+j	某誌	boshi	とある雑誌。
+j	梵字	bonji	Sanskrit characters
+j	梵語	bongo	Sanskrit language (abbr. …
+j	棒大	bodai	小さなことをおおげさに言うこと。また、そのようなさ…
+j	棒炭	botan	棒状につくった炭団。
+j	棒線	bosen	真っ直ぐな棒のように引いた線。直線。
+j	棒銀	bogin	銀将を棒のように進め、相手の角行付近を攻める戦法。
+j	榜檠	bokei	弓矯。
+j	歩荷	bokka	荷物を背負い、山越えをすること。山小屋などに荷揚げ…
+j	母乳	bonyu	breast milk; mother's milk
+j	母体	botai	a mother's body
+j	母兄	bokei	同一の母親からうまれた兄。
+j	母型	bokei	a matrix (mold) or die fo…
+j	母性	bosei	maternal instinct
+j	母指	boshi	おやゆび。
+j	母斑	bohan	birthmark
+j	母材	bozai	主要な材料。基地。
+j	母権	boken	
+j	母称	bosho	本人の個人名に母親の個人名を付加した姓。母称姓。
+j	母系	bokei	母方の血統。
+j	母線	bosen	錐体の底面と頂点を結ぶ線分、あるいは柱体の底面どう…
+j	母胎	botai	妊娠している母体。特にその胎内。
+j	母船	bosen	mother ship
+j	母艦	bokan	a mother ship, a tender (…
+j	没	botsu	没, ボツ: rejected, unused
+j	没稿	bokko	rejected draft
+j	没頭	botto	total concentration in so…
+j	煩悩	bonno	klesha
+j	牟取	boshu	奪い取ること。
+j	牡丹	botan	a peony, especially the C…
+j	牧歌	bokka	songs sung by shepherds
+j	眸子	boshi	the pupil of an eye
+j	瞀病	bohei	目が眩む病気。
+j	簿外	bogai	off the books, undisclose…
+j	簿書	bosho	帳簿。帳面。
+j	紡糸	boshi	糸をつむぐこと。また、その糸。
+j	紡車	bosha	糸車。
+j	紡錘	bosui	spindle
+j	耄倪	bogei	旄倪の異表記。
+j	耄朽	bokyu	老いぼれること。
+j	膨大	bodai	swollen and large
+j	膨張	bocho	swelling; distension; exp…
+j	膨脹	bocho	ふくれること。
+j	芒刃	bojin	刀などの切っ先。
+j	芒昧	bomai	暗いさま。
+j	芒種	boshu	lit. "awns (beard of grai…
+j	茅亭	botei	茅葺きの家屋。
+j	茅宮	bokyu	茅葺きの宮殿。
+j	茅屋	booku	茅葺きの屋根。また、茅葺きの家屋。
+j	茅店	boten	屋根に茅を葺いた家屋。
+j	茅根	bokon	dried roots of Imperata c…
+j	茅舎	bosha	茅葺の家。
+j	茅茨	boshi	茅と茨。
+j	茆舎	bosha	茅葺き。
+j	茫昧	bomai	ぼんやりして定かでないこと。
+j	茫然	bozen	clueless
+j	菩提	bodai	supreme enlightenment or …
+j	謀主	boshu	首謀者。
+j	謀人	bojin	謀を進言する者。謀夫。
+j	謀判	bohan	他人を欺くために印章を偽造すること。また、その印章。
+j	謀士	boshi	謀略を巡らす者。計略がたくみな者。策士。
+j	謀定	botei	謀を決定すること。
+j	謀将	bosho	策謀に長けた武将。
+j	謀書	bosho	偽造された文書。また、文書を偽造するこ。
+j	謀計	bokei	謀。謀略。
+j	謀首	boshu	首謀者。
+j	貌取	boshu	描き出すこと。
+j	貌定	botei	見掛け。
+j	貌形	bokei	形。
+j	貌態	botai	顔形。
+j	貌敬	bokei	貌虔。
+j	貌虔	boken	上辺だけ慎ましいさま。
+j	貿易	boeki	trade, commerce
+j	貿首	boshu	首を取り合うこと。
+j	鋩子	boshi	刀剣の刃の切っ先。帽子。
+j	防共	bokyo	共産主義の浸透を防止すること。
+j	防刃	bojin	刃物からの損壊や負傷を防止すること。
+j	防塁	borui	bulwark
+j	防塞	bosai	fort
+j	防塵	bojin	protection from dust
+j	防寒	bokan	protection against the co…
+j	防寨	bosai	敵からの侵入や攻撃を防ぐための要塞。
+j	防州	boshu	周防国^(（すおうのくに）)の別称。
+j	防弾	bodan	being bulletproof (capabl…
+j	防彈	bodan	
+j	防御	bogyo	defence (UK), defense (US)
+j	防救	bokyu	防ぎ、救うこと。
+j	防暑	bosho	protection against the he…
+j	防止	boshi	prevention
+j	防水	bosui	waterproofing
+j	防潮	bocho	高潮や津波の被害を防ぐこと。
+j	防災	bosai	disaster prevention, maki…
+j	防燃	bonen	燃え上がるのを防止すること。
+j	防犯	bohan	prevention of crime
+j	防疫	boeki	epidemic prevention
+j	防禦	bogyo	敵の攻撃を防ぎ守ること。
+j	防臭	boshu	嫌な臭いを防ぐこと。
+j	防虫	bochu	repelling of insects
+j	防諜	bocho	counterintelligence, coun…
+j	防銹	boshu	銹を防ぐこと。銹止め。
+j	防錆	boshu	金属が錆びるのを防止すること。防銹。
+j	防長	bocho	Suō (周防) and Nagato (長門),…
+j	防隄	botei	堤防。
+j	髦牛	bogyu	毛の長い牛。
+k	보각	bogak	술 따위가 발효하여 거품이 생기면서 나는 소리.
+k	보감	bogam	
+k	보국	boguk	
+k	보늬	bonui	inner skin (of a chestnut…
+k	보닛	bonit	hood, bonnet (of car)
+k	보답	bodap	
+k	보드	bodeu	board (a long piece of wo…
+k	보람	boram	fruitfulness, usefulness …
+k	보류	boryu	어떤 일을 당장 처리하지 아니하고 나중으로 미…
+k	보말	bomal	'고둥'를 의미하는 제주도 방언.
+k	보물	bomul	treasure
+k	보배	bobae	treasure
+k	보복	bobok	revenge; reprisal; retali…
+k	보빈	bobin	
+k	보삭	bosak	while crumbling with a so…
+k	보살	bosal	bodhisattva (in Buddhism,…
+k	보삼	bosam	
+k	보속	bosok	
+k	보손	boson	
+k	보스	boseu	
+k	보신	bosin	
+k	보약	boyak	tonic; invigorant
+k	보완	bowan	
+k	보원	bowon	
+k	보육	boyuk	
+k	보은	boeun	
+k	보이다	boida	to be seen
+k	보이라	boira	증기통, 보일러.
+k	보잉	boing	a transliteration of the …
+k	보재	bojae	
+k	보족	bojok	
+k	보존	bojon	preservation; conservation
+k	보좌	bojwa	보호하여 도움.
+k	보직	bojik	
+k	보체	boche	complement
+k	보초	bocho	
+k	보타이	botai	
+k	보탑	botap	pagoda
+k	보트	boteu	boat
+k	보판	bopan	
+k	보패	bopae	‘보배’의 원말.
+k	보폭	bopok	사람이 걷는 걸음의 길이.
+k	보표	bopyo	
+k	보풀	bopul	nap, fuzz, lint
+k	보필	bopil	assisting a superior (typ…
+k	보학	bohak	genealogy; the study of g…
+k	보합	bohap	
+k	보홀	bohol	
+k	보화	bohwa	
+k	복고	bokgo	
+k	복구	bokgu	recovery; restoration
+k	복도	bokdo	corridor; hallway; passage
+k	복부	bokbu	abdomen, stomach, belly
+k	복사	boksa	copy
+k	복수	boksu	multipleness, manyness
+k	복안	bogan	
+k	복어	bogeo	blowfish
+k	복위	bogwi	
+k	복의	bogui	
+k	복일	bogil	
+k	복자	bokja	
+k	복제	bokje	duplication; replication
+k	복조	bokjo	
+k	복주	bokju	
+k	복지	bokji	welfare; well-being
+k	복토	bokto	
+k	복호	bokho	the decoding or decryptio…
+k	볶다	bokda	to parch (food), to roast…
+k	볶이	bokki	stir-fried and seasoned f…
+k	본가	bonga	
+k	본고	bongo	this writing
+k	본기	bongi	기전체의 역사 서술에서, 왕의 사적(事跡)을 …
+k	본디	bondi	origin
+k	본루	bollu	
+k	본무	bonmu	
+k	본부	bonbu	headquarters
+k	본사	bonsa	headquarters
+k	본시	bonsi	
+k	본안	bonan	
+k	본위	bonwi	monetary standard
+k	본유	bonyu	
+k	본의	bonui	original or true feelings
+k	본인	bonin	the person in question; t…
+k	본조	bonjo	original melody
+k	본토	bonto	mainland
+k	볼기	bolgi	buttock, hip
+k	볼모	bolmo	hostage
+k	볼보	bolbo	
+k	봄비	bombi	spring rain
+k	봄옷	bomot	
+k	뵈다	boeda	to meet; to see; to consu…
+e	boatel	boatel	1 meaning
+e	boater	boater	1 meaning
+e	bobbin	bobbin	2 meanings
+e	bobble	bobble	1 meaning
+e	bobcat	bobcat	1 meaning
+e	boccia	boccia	1 meaning
+e	bodice	bodice	1 meaning
+e	bodily	bodily	2 meanings
+e	boeing	boeing	1 meaning
+e	boffin	boffin	1 meaning
+e	boiled	boiled	1 meaning
+e	boiler	boiler	2 meanings
+e	bojagi	bojagi	1 meaning
+e	boldly	boldly	1 meaning
+e	bolete	bolete	1 meaning
+e	bolide	bolide	1 meaning
+e	bombay	bombay	1 meaning
+e	bomber	bomber	1 meaning
+e	bonito	bonito	1 meaning
+e	bonnet	bonnet	1 meaning
+e	bonobo	bonobo	1 meaning
+e	bonsai	bonsai	2 meanings
+e	bonsho	bonsho	1 meaning
+e	boo-hoo	boohoo	1 meaning
+e	booger	booger	1 meaning
+e	booing	booing	1 meaning
+e	bootee	bootee	1 meaning
+e	borage	borage	1 meaning
+e	borate	borate	1 meaning
+e	border	border	2 meanings
+e	boring	boring	1 meaning
+e	borneo	borneo	1 meaning
+e	borrow	borrow	2 meanings
+e	borzoi	borzoi	1 meaning
+e	bosnia	bosnia	2 meanings
+e	boston	boston	1 meaning
+e	botany	botany	2 meanings
+e	botfly	botfly	1 meaning
+e	bother	bother	1 meaning
+e	bottle	bottle	1 meaning
+e	bottom	bottom	6 meanings
+e	bounty	bounty	1 meaning
+e	bow-wow	bowwow	1 meaning
+e	bowels	bowels	3 meanings
+e	bowfin	bowfin	1 meaning
+e	bowler	bowler	1 meaning
+e	bowser	bowser	1 meaning
+e	bowtie	bowtie	1 meaning
+e	box art	boxart	1 meaning
+e	boxing	boxing	1 meaning
+e	boyish	boyish	1 meaning
+j	ぼうこうえん	bokoen	膀胱炎: cystitis
+j	ぼうふら	bofura	蚊の幼虫。溜まった水の中に住む。棒振り。
+j	ぼかす	bokasu	色の濃淡の境目をはっきりさせずにぼんやりさせる。
+j	ぼける	bokeru	惚ける, 呆ける: to become senile
+j	ぼこる	bokoru	to beat up
+j	ぼっけえ	bokkee	【岡山地方】とても。ものすごく。
+j	ぼっけん	bokken	木剣, 木劍: A wooden (trainin…
+j	ぼっち	botchi	loner
+j	ぼやき	boyaki	a complaint
+j	ぼやく	boyaku	to grumble, complain
+j	ぼんち	bonchi	男の子。若旦那。ぼんぼん。
+j	ぼんぼん	bonbon	時計が一定の時刻に連続してなる音を表す語。
+j	ぼんらん	bonran	梵卵: world egg
+j	ボアコン	boakon	
+j	ボイシ	boishi	Boise (the capital city o…
+j	ボウフラ	bofura	
+j	ボカロ	bokaro	「VOCALOID」の略。
+j	ボクサー	bokusa	a boxer (participant in a…
+j	ボコーダー	bokoda	vocoder
+j	ボゴタ	bogota	Bogota
+j	ボゴール	bogoru	Bogor (a city in West Jav…
+j	ボジャギ	bojagi	
+j	ボッチャ	botcha	
+j	ボディス	bodisu	
+j	ボトム	botomu	底。土台。低い場所。
+j	ボトル	botoru	bottle
+j	ボドゲ	bodoge	
+j	ボネール	boneru	
+j	ボノボ	bonobo	a bonobo
+j	ボビニー	bobini	
+j	ボホール	bohoru	Bohol (a province of the …
+j	ボヤージュ	boyaju	旅。旅行。
+j	ボヤール	boyaru	
+j	ボリス	borisu	
+j	ボルダー	boruda	大きな丸い石。
+j	ボルト	boruto	a bolt (metal fastener)
+j	ボルドー	borudo	
+j	ボルボ	borubo	Volvo
+j	ボンダイ	bondai	
+j	ボンベイ	bonbei	Bombay, Mumbai (a megacit…
+j	ボンボン	bonbon	果汁や洋酒を含んだシロップを砂糖やチョコレートの殻…
+j	ボーア人	boajin	ケープ植民地に入植したオランダ人の子孫。
+j	ボーイング	boingu	bowing (technique)
+j	ボーイ長	boicho	
+j	ボーカル	bokaru	vocals, singing, vocal pe…
+j	ボーテル	boteru	
+j	ボーナス	bonasu	bonus (extra amount of mo…
+j	ボーパール	boparu	Bhopal (the state capital…
+j	ボールト	boruto	
+j	ボールド	borudo	黒板、板。
+j	亡匿	botoku	逃げ、隠れること。
+j	亡国	bokoku	the destruction of a coun…
+j	亡徳	botoku	道徳から外れること。失徳。
+j	亡心	boshin	亡霊。
+j	亡臣	boshin	他国へ逃亡した家臣。
+j	亡親	boshin	死亡した親。亡き親。
+j	侔徳	botoku	徳を等しくすること。
+j	傍心	boshin	an excenter
+j	傍白	bohaku	舞台の相手の役者には聞こえず観客に知らせるように発…
+j	傍臣	boshin	側近の家臣。近習。
+j	傍親	boshin	傍系の親族。
+j	僕の	bokuno	
+j	僕も	bokumo	
+j	僕ら	bokura	we, us
+j	僕僮	bokudo	若い召使い。
+j	僕婢	bokuhi	male and female servants
+j	僕射	bokuya	executive assistant; depu…
+j	僕従	bokuju	僕。召使い。
+j	僕等	bokura	私たち、我々。一人称複数。僕達。
+j	僕蔵	bokuzo	a male given name
+j	僕豎	bokuju	小者。
+j	冒涜	botoku	blasphemy; profanity; des…
+j	冒瀆	botoku	神聖・清純なものをおかしけがすこと。
+j	凡人	bonnin	an ordinary person
+j	凡小	bonsho	平凡で器量が小さいこと。また、そのようなさま。
+j	凡慮	bonryo	平凡な考え。
+j	凡戦	bonsen	dull match
+j	凡才	bonsai	mediocrity, ordinary abil…
+j	凡智	bonchi	並程度の知恵。
+j	凡浅	bonsen	平凡。
+j	凡界	bonkai	凡俗の世界。俗界。
+j	凡知	bonchi	並程度の知恵。
+j	凡聖	bonsho	凡人と聖人。
+j	剖析	boseki	分解すること。
+j	卜居	bokkyo	selection of a place to l…
+j	卜部	bokubu	部首「⼘」で分類した漢字の一群。
+j	坊刻	bokoku	民間で出版すること。また、そのような書物。
+j	墨刑	bokkei	古代中国で額や腕に入れ墨を施す刑罰。
+j	墨汁	bokuju	ink; India ink
+j	墨綬	bokuju	黒い印綬。
+j	墨荘	bokuso	蔵書のある場所。
+j	墨都	bokuto	Mexico City (the capital …
+j	幞頭	bokuto	律令制で朝服に用いた冠。
+j	惚ける	bokeru	to become senile, to beco…
+j	懋績	boseki	功績。
+j	攴部	bokubu	部首「⽁」で分類した漢字の一群。
+j	旁撃	bogeki	横から撃つこと。
+j	旄鉞	boetsu	旗と斧。
+j	暈ける	bokeru	to fade
+j	暈す	bokasu	to gradate colors, to blur
+j	暮春	boshun	late spring
+j	暴圧	boatsu	暴力などにより活動を押さえ込むこと。
+j	暴進	boshin	力まかせに進むこと。
+j	望夕	boseki	十五夜。
+j	望神	boshin	中国医学の望診のうち精神状態などを診る方法。
+j	望診	boshin	四診の一つで、西洋医学における視診に相当し、視覚で…
+j	木刀	bokuto	bokken (a wooden sword us…
+j	木剣	bokken	bokken (a wooden sword us…
+j	木劍	bokken	bokken (a wooden sword us…
+j	木履	bokuri	a platform geta worn by g…
+j	木魅	bokumi	老木の精。
+j	朴素	bokuso	自然のままで、飾り気のないさま。
+j	某国	bokoku	とある国。
+j	梵卵	bonran	world egg
+j	梵唄	bonbai	仏徳を讃えるため、梵語または経文に節を付けてうたう…
+j	梵天	bonten	Brahma
+j	梵文	bonbun	サンスクリットで書かれた文章。
+j	梵殿	bonden	寺院。
+j	梵鐘	bonsho	bonshō (large bell used i…
+j	棒切れ	bokire	棒の切れ端。短かい棒。
+j	棒引き	bobiki	drawing a straight line
+j	棒振り	bofuri	the act of waving a stick
+j	棒暗記	boanki	その意味を考えずに文章などをそのまま暗記すること。
+j	棒球	bodama	（ぼうだま）まっすぐで威力のない打者が打ちやすい投…
+j	棒砂糖	bozato	
+j	棒読み	boyomi	reading in a monotone voi…
+j	棒針	bobari	a knitting needle
+j	榜毒	bodoku	拷問すること。
+j	樸儒	bokuju	朴実な儒者。
+j	母国	bokoku	homeland
+j	母音字	boinji	音素文字において、母音を表す文字。
+j	没収	bosshu	confiscation, seizure, fo…
+j	没書	bossho	新聞社や出版社が投稿された原稿を採用しないこと。没。
+j	渤海	bokkai	a 7-10th century kingdom …
+j	牧会	bokkai	プロテスタントの教会で牧師が教会のために行う説教や…
+j	牧夫	bokufu	herdsman
+j	牧草	bokuso	pasturage, grass for graz…
+j	牧豎	bokuju	牧童。
+j	牧野	bokuya	livestock farm; ranch
+j	犯戒	bonkai	戒めを犯すこと。破戒。
+j	盆地	bonchi	basin
+j	盆景	bonkei	bonkei
+j	盆栽	bonsai	a potted plant that has b…
+j	盆礼	bonrei	盆（盂蘭盆）の時期に行う贈答。
+j	矛戟	bogeki	矛。
+j	簿籍	boseki	戸籍。
+j	紡績	boseki	thread spinning
+j	膀胱炎	bokoen	cystitis
+j	膨圧	boatsu	細胞の内部と外部の圧力の差。
+j	茫漠	bobaku	広大でとりとめがないさま。
+j	謀臣	boshin	はかりごとをめぐらす臣下。計略に巧みな家臣。
+j	謗讟	botoku	謗り。
+j	貌徳	botoku	礼貌と徳行。
+j	貌閲	boetsu	戸口調査。
+j	防カメ	bokame	
+j	防具屋	boguya	防具を作って売る店。
+j	防圧	boatsu	防止すること。
+j	防城港	bojoko	
+j	防壁	boheki	外敵の侵入や火災、風水害などから守るための壁。
+j	防振	boshin	建物や機器に振動が伝わるのを防ぐこと。
+j	防毒	bodoku	defence against poison gas
+j	防浸	boshin	水中に浸しても機器に水が入らないような構造。
+j	防滴	boteki	機器に水滴が入らないような構造。
+j	防火戸	bokado	建築基準法などに基づき一定の条件の建築物に火災が発…
+j	防爆	bobaku	explosion prevention
+j	防石	boseki	落石などの石の被害を防ぐこと。
+j	防空壕	bokugo	air-raid shelter
+j	防遏	boatsu	防止すること。
+j	髦碩	boseki	高徳の人。
+k	보가지	bogaji	(학명: Takifugu xanthopteru…
+k	보강	bogang	
+k	보건	bogeon	preservation of health; h…
+k	보검	bogeom	
+k	보고라	bogora	
+k	보고자	bogoja	reporter
+k	보고타	bogota	Bogota (the capital city …
+k	보관	bogwan	safekeeping, storage
+k	보궐	bogwol	
+k	보균	bogyun	
+k	보급	bogeup	spread, diffusion, spread…
+k	보꾹	bokkuk	ceiling
+k	보노보	bonobo	bonobo (pygmy chimpanzee)…
+k	보득	bodeuk	'보드득'의 준말.
+k	보랑	borang	'복도'.
+k	보로어	boroeo	유럽의 우랄어족에 속하는 핀란드어에서 떨어져 …
+k	보륨	boryum	bohrium
+k	보름	boreum	fifteen days, half month,…
+k	보리수	borisu	
+k	보링	boring	'볼링'의 북한말.
+k	보몽	bomong	
+k	보법	bobeop	
+k	보비안	bobian	
+k	보상	bosang	compensation
+k	보색	bosaek	
+k	보석	boseok	gemstone
+k	보선	boseon	
+k	보수비	bosubi	
+k	보수파	bosupa	
+k	보습	boseup	plowshare
+k	보시기	bosigi	
+k	보시시	bosisi	'살포시'.
+k	보싹	bossak	while crumbling with a so…
+k	보쌈	bossam	a Korean dish consisting …
+k	보안사	boansa	the Defense Security Comm…
+k	보양	boyang	사람을 잘 보살펴 기름.
+k	보얗다	boyata	
+k	보응	boeung	retribution, retributive …
+k	보이차	boicha	pu'er tea (a kind of ferm…
+k	보이콧	boikot	boycott
+k	보자기	bojagi	bojagi (traditional Korea…
+k	보장	bojang	guarantee; warranty
+k	보전	bojeon	preservation; conservation
+k	보조비	bojobi	
+k	보조사	bojosa	accessory word; complement
+k	보조익	bojoik	
+k	보조인	bojoin	
+k	보중	bojung	
+k	보지지	bojiji	
+k	보치아	bochia	
+k	보칙	bochik	
+k	보탬	botaem	help; support; aid
+k	보통	botong	averageness, normality, u…
+k	보하다	bohada	
+k	보험	boheom	insurance
+k	보호구	bohogu	
+k	보호세	bohose	
+k	보호자	bohoja	guardian; protector, a pe…
+k	복간	bokgan	
+k	복개	bokgae	건축, 토목 등에서 하천 따위를 도로, 다리 …
+k	복교	bokgyo	
+k	복궤	bokgwe	'복선궤도'의 준말.
+k	복귀	bokgwi	return
+k	복대	bokdae	
+k	복독	bokdok	
+k	복띠	boktti	
+k	복리	bongni	welfare; well-being
+k	복무	bongmu	service
+k	복복	bokbok	보드랍고 무른 물건의 거죽을 자꾸 세게 갈거나…
+k	복붙	bokbut	the act of copying and pa…
+k	복서	bokseo	a boxer (participant in a…
+k	복셀	boksel	
+k	복식	boksik	
+k	복신	boksin	
+k	복약	bogyak	약을 먹음.
+k	복원	bogwon	restoration
+k	복은	bogeun	
+k	복음	bogeum	
+k	복작	bokjak	
+k	복잡	bokjap	
+k	복재	bokjae	
+k	복좌	bokjwa	
+k	복직	bokjik	
+k	복판	bokpan	
+k	복학	bokhak	
+k	복합	bokhap	여러 개가 합쳐져서 하나가 되는 것.
+k	복희	bokhui	Fuxi (a legendary ancient…
+k	본각	bongak	
+k	본과	bongwa	
+k	본교	bongyo	
+k	본국	bonguk	
+k	본다이	bondai	
+k	본답	bondap	
+k	본드	bondeu	adhesive; strong glue
+k	본래	bollae	originally
+k	본론	bollon	말이나 글에서 주장이 있는 부분.
+k	본말	bonmal	줄어들지 않은 본디 음절의 말.
+k	본목	bonmok	
+k	본문	bonmun	text, the body (of a book)
+k	본밑	bonmit	'본밑천'.
+k	본분	bonbun	
+k	본새	bonsae	
+k	본서	bonseo	
+k	본실	bonsil	
+k	본심	bonsim	
+k	본액	bonaek	
+k	본업	boneop	
+k	본원	bonwon	
+k	본음	boneum	original pronunciation
+k	본좌	bonjwa	the honorable I, the hono…
+k	본질	bonjil	essence, nature (intrinsi…
+k	본집	bonjip	
+k	본체	bonche	this machine
+k	본초	boncho	'시초'.
+k	본회	bonhoe	
+k	볼넷	bollet	a walk; base on balls
+k	볼락	bollak	dark-banded rockfish (Seb…
+k	볼러	bolleo	
+k	볼록	bollok	물체의 거죽이 조금 도드라지거나 쏙 내밀린 모…
+k	볼룩	bolluk	
+k	볼린	bollin	
+k	볼보이	bolboi	
+k	볼일	bollil	personal business/task
+k	볼칵	bolkak	지직한 반죽이나 진흙 따위를 조금 쑤시거나 주…
+k	볼톡	boltok	
+k	볼툭	boltuk	
+k	볼트	bolteu	bolt
+k	볼펜	bolpen	ballpoint pen
+k	볼품	bolpum	
+k	봄날	bomnal	spring day
+k	봄내	bomnae	
+k	봄눈	bomnun	spring snow
+k	봄밤	bombam	Spring night
+k	봄베이	bombei	뭄바이의 옛이름.
+k	봄빛	bombit	spring scenery
+k	봇물	bonmul	보에 괸 물이나 거기서 흘러내리는 물.
+k	봇짐	botjim	pack carried on one's bac…
+k	봉기	bonggi	uprising; revolt; rebelli…
+k	봉리	bongni	'파인애플'.
+k	봉모	bongmo	
+k	봉사	bongsa	service (for the benefit …
+k	봉소	bongso	honeycomb
+k	봉수	bongsu	
+k	봉안	bongan	신주(神主)나 화상(畫像)을 받들어 모심.
+k	봉인	bongin	변경(邊境)을 지키던 벼슬아치.
+k	봉제	bongje	
+k	봉지	bongji	bag, sack
+k	봉토	bongto	영주가 소유하고 있는 땅.
+k	봉투	bongtu	envelope (wrapper for mai…
+k	봉피	bongpi	
+k	뵙다	boepda	to see a very respected p…
+e	boarder	boarder	1 meaning
+e	boatman	boatman	1 meaning
+e	bobigny	bobigny	1 meaning
+e	bogatyr	bogatyr	1 meaning
+e	bohemia	bohemia	1 meaning
+e	bohrium	bohrium	1 meaning
+e	boiling	boiling	1 meaning
+e	bok choy	bokchoy	1 meaning
+e	bolivia	bolivia	1 meaning
+e	bologna	bologna	1 meaning
+e	bolster	bolster	1 meaning
+e	bombard	bombard	2 meanings
+e	bombing	bombing	1 meaning
+e	bonaire	bonaire	1 meaning
+e	bonanza	bonanza	1 meaning
+e	bondage	bondage	1 meaning
+e	bonfire	bonfire	1 meaning
+e	bongalo	bongalo	1 meaning
+e	boob job	boobjob	1 meaning
+e	bookend	bookend	1 meaning
+e	booking	booking	1 meaning
+e	bookish	bookish	1 meaning
+e	booklet	booklet	1 meaning
+e	boolean	boolean	2 meanings
+e	boombox	boombox	1 meaning
+e	boorish	boorish	1 meaning
+e	booster	booster	1 meaning
+e	bootleg	bootleg	1 meaning
+e	boredom	boredom	1 meaning
+e	bornane	bornane	1 meaning
+e	bornite	bornite	1 meaning
+e	borough	borough	2 meanings
+e	borscht	borscht	1 meaning
+e	bortala	bortala	1 meaning
+e	bosniak	bosniak	2 meanings
+e	bosnian	bosnian	2 meanings
+e	boulder	boulder	1 meaning
+e	bouquet	bouquet	2 meanings
+e	bourbon	bourbon	1 meaning
+e	bowhead	bowhead	1 meaning
+e	bowlful	bowlful	1 meaning
+e	bowling	bowling	1 meaning
+e	boxfish	boxfish	1 meaning
+e	boy band	boyband	1 meaning
+e	boycott	boycott	2 meanings
+j	ぼうきゃく	bokyaku	
+j	ぼうしょく	boshoku	紡織: spinning and weaving
+j	ぼうふうりん	bofurin	防風林: a shelterbelt
+j	ぼかし	bokashi	「ぼかす」の連用形。
+j	ぼくせん	bokusen	卜占: augury, divination, f…
+j	ぼくっこ	bokukko	girl who uses the masculi…
+j	ぼくにょう	bokunyo	攴繞: the right-side "rap" …
+j	ぼけっと	boketto	The act of staring vacant…
+j	ぼんくら	bonkura	slow; dimwitted (of a per…
+j	ぼんじり	bonjiri	fatty meat from near the …
+j	ぼんぼり	bonbori	紙や絹でおおった手燭。
+j	ぼんやり	bonyari	absent-mindedly, vacantly
+j	ボイチェン	boichen	ボイスチェンジャー。
+j	ボイトレ	boitore	「ボイストレーニング」の略。
+j	ボウリング	boringu	bowling (a game played by…
+j	ボストン	bosuton	Boston (the capital and l…
+j	ボスニア	bosunia	Bosnia (a geographic regi…
+j	ボス弁	bosuben	lawyer who is owner of a …
+j	ボックス	bokkusu	box (container)
+j	ボディアーマー	bodiama	
+j	ボディコン	bodikon	bodycon
+j	ボビング	bobingu	水中で息を吐いてから飛び上がることを繰り返す動作。
+j	ボヘミア	bohemia	Bohemia (a cultural regio…
+j	ボリビア	boribia	Bolivia (a country in Sou…
+j	ボリューミー	boryumi	large, fluffy, and plump
+j	ボリューム	boryumu	large, fluffy plumpness
+j	ボルゾイ	boruzoi	a borzoi dog
+j	ボルネオ	boruneo	Borneo (an island shared …
+j	ボレアース	boreasu	北風の神。ローマ神話におけるアクィロンに相当。
+j	ボローニャ	boronya	
+j	ボンガロ	bongaro	
+j	ボンデージ	bondeji	bondage
+j	ボーイッシュ	boisshu	boyish
+j	ボーデン湖	bodenko	
+j	ボーリウム	boriumu	bohrium
+j	ボーリング	boringu	穴を開けること。
+j	ボールペン	borupen	ballpoint pen
+j	ボールボーイ	boruboi	
+j	ボーンマス	bonmasu	Bournemouth
+j	乏竭	boketsu	尽きること。乏尽。
+j	傍系の	bokeino	
+j	僕使	bokushi	召使い。
+j	僕妾	bokusho	下僕とめかけ。
+j	冒突	bototsu	むやみに突き進むこと。
+j	冒険家	bokenka	adventurer
+j	凡ミス	bonmisu	basic mistake
+j	凡作	bonsaku	平凡でつまらない出来の作品。
+j	凡俗	bonzoku	ありきたりで取り柄がないさま。また、そのような人。
+j	凡庸な	bonyona	
+j	卜人	bokujin	占いをする人。易者。卜者。
+j	卜占	bokusen	augury, divination, scryi…
+j	卜筮	bokuzei	fortune-telling or divina…
+j	卜者	bokusha	占いをする人。易者。卜人。
+j	坊ちゃん	botchan	他人の息子に対する尊敬語。
+j	坊っちゃん	botchan	someone else's son
+j	墓碑銘	bohimei	墓碑に彫りこんだ死者の経歴･事績などの文句｡ エピ…
+j	墓碣	boketsu	（円形の）墓石。
+j	墓闕	boketsu	石闕。
+j	墨台	bokudai	すりかけの墨をかけておく台。墨床。
+j	墨子	bokushi	Mozi
+j	墨守	bokushu	rigid adherence
+j	墨床	bokusho	墨台。
+j	妨業員	bogyoin	saboteur
+j	帽子屋	boshiya	帽子を作って売る店。
+j	忘却	bokyaku	oblivion
+j	忙殺	bosatsu	being worked to death
+j	房術	bojutsu	房中術。
+j	攴繞	bokunyo	the right-side "rap" radi…
+j	昴宿	boshuku	the Hairy Head constellat…
+j	暮月	bogetsu	その季節の終わりの一月。
+j	暴力	boryoku	violence (especially crim…
+j	暴掠	boryaku	暴力により奪い取ること。掠奪。
+j	暴殺	bosatsu	暴力で殺す。
+j	暴発	bohatsu	不注意のためピストル・小銃などが不意に発射されるこ…
+j	暴虐	bogyaku	brutal; tyrannical
+j	暴行罪	bokozai	他人の身体に暴力を加え、それが傷害するに至らなかっ…
+j	暴風域	bofuiki	台風で最大風速25メートル以上の暴風が吹いていると…
+j	暴食	boshoku	gluttony
+j	望日	bojitsu	the fifteenth day of a mo…
+j	望月	bogetsu	full moon
+j	望遠鏡	boenkyo	a telescope
+j	木匠	bokusho	大工。
+j	棒喝	bokatsu	禅宗で警策で打って警醒させること。
+j	棒立ち	bodachi	緊張や驚き、途方にくれたりするなどして棒のように突…
+j	棒術	bojutsu	bojutsu; a Japanese marti…
+j	歿する	bossuru	死ぬ。
+j	母畜	bochiku	mother animal
+j	母系の	bokeino	
+j	没する	bossuru	to sink
+j	没後	botsugo	after death
+j	牡丹江	botanko	
+j	牡丹皮	botanpi	dried root-bark of Paeoni…
+j	牧人	bokujin	herdsman, shepherd
+j	牧地	bokuchi	牧畜を行う土地。牧草地。
+j	牧守	bokushu	（中国で）地方の長官。
+j	牧師	bokushi	clergyman, pastor, minist…
+j	牧舎	bokusha	牧場で飼育している家畜を入れるための建物。
+j	盆石	bonseki	盆（状の鉢）に石や砂、樹木などで風景をつくり、鑑賞…
+j	簿冊	bosatsu	綴じられている本や冊子。帳簿。帳面。
+j	紡毛糸	bomoshi	紡毛紡績によりつくられた短い羊毛などを含む糸。
+j	紡織	boshoku	spinning and weaving
+j	耄耋	botetsu	老いぼれること。また、その人。
+j	膀胱癌	bokogan	bladder cancer
+j	膨大な	bodaina	
+j	菩提樹	bodaiju	synonym of 印度菩提樹 (Indo bo…
+j	菩薩	bosatsu	a title granted by the im…
+j	謀殺	bosatsu	murder
+j	謀略	boryaku	stratagem; plot
+j	謀逆	bogyaku	無謀を企図すること。
+j	貿易風	boekifu	trade wind
+j	防寒具	bokangu	防寒のための衣類や道具。
+j	防寒着	bokangi	防寒の工夫をされた衣服。
+j	防水の	bosuino	
+j	防水布	bosuifu	waterproof cloth
+j	防沫	bomatsu	機器に水の飛沫が入らないような構造。
+j	防波堤	bohatei	breakwater
+j	防浪堤	borotei	防潮堤のこと。特に大津波から防護するためのもの。
+j	防空軍	bokugun	防空を目的とした軍隊。
+j	防縮	boshuku	衣服などが縮むのを防ぐこと。
+j	防腐剤	bofuzai	an agent that preservers …
+j	防衛省	boeisho	国の中央官庁の一つ。2007年防衛庁を改組して設置。
+j	防衛者	boeisha	defender
+j	防衛軍	boeigun	defense force
+j	防雪	bosetsu	雪による被害を防ぐこと。
+j	防風林	bofurin	shelterbelt
+k	보격	bogyeok	
+k	보결	bogyeol	
+k	보고따	bogotta	콜롬비아의 수도 이름 '보고타'의 북한말.
+k	보고르	bogoreu	
+k	보고서	bogoseo	report, paper
+k	보나스	bonaseu	상여금, 보너스.
+k	보내다	bonaeda	to send, to dispatch
+k	보네르	bonereu	
+k	보단자	bodanja	
+k	보덴호	bodenho	
+k	보도계	bodogye	
+k	보도교	bodogyo	
+k	보도국	bodoguk	
+k	보도독	bododok	
+k	보도원	bodowon	
+k	보도진	bodojin	
+k	보드카	bodeuka	vodka
+k	보디스	bodiseu	
+k	보따리	bottari	a bundle, a package
+k	보라국	boraguk	한국의 역사에서, 전라도 나주 부근에 있었던 …
+k	보라매	boramae	northern goshawk
+k	보로바우	borobau	
+k	보르도	boreudo	
+k	보르시	boreusi	borscht, borshch
+k	보리문	borimun	
+k	보리밥	boribap	a dish of boiled rice and…
+k	보리밭	boribat	
+k	보리심	borisim	bodhicitta
+k	보리차	boricha	
+k	보복구	bobokgu	intentional hit-by-pitch
+k	보비남	bobinam	
+k	보사삭	bosasak	'보삭'의 본말.
+k	보살도	bosaldo	
+k	보세품	bosepum	
+k	보수계	bosugye	
+k	보숭이	bosungi	powdered bean
+k	보시락	bosirak	
+k	보아주다	boajuda	
+k	보안대	boandae	
+k	보안림	boallim	
+k	보안원	boanwon	
+k	보안회	boanhoe	
+k	보야르	boyareu	
+k	보온재	boonjae	
+k	보육기	boyukgi	
+k	보윰히	boyumhi	
+k	보이는	boineun	
+k	보이지 않	boijian	
+k	보일러	boilleo	boiler
+k	보자노이	bojanoi	슬라브족 신화에서 물속에 산다고 전해지는 요정.
+k	보정	bojeong	문제에 있는 수와 가까운 수를 사용하고 나서,…
+k	보조개	bojogae	dimple
+k	보조원	bojowon	
+k	보조함	bojoham	
+k	보존비	bojonbi	
+k	보증	bojeung	assurance, guarantee
+k	보지직	bojijik	
+k	보철	bocheol	replenishment, supplement…
+k	보충	bochung	supplement; replenishment
+k	보측	bocheuk	
+k	보태기	botaegi	주어진 수에 다른 수를 더하는 것.
+k	보태다	botaeda	있는 무엇에 다른 것을 더 채우다. 또는 모자…
+k	보퉁이	botungi	
+k	보편	bopyeon	
+k	보풀다	bopulda	
+k	보합세	bohapse	주춤세, 멈춤세.
+k	보행	bohaeng	walking
+k	보헤미아	bohemia	
+k	보현	bohyeon	
+k	보혈	bohyeol	
+k	보호국	bohoguk	
+k	보호림	bohorim	
+k	보호물	bohomul	
+k	복강	bokgang	척추동물 체강의 한 부분. 가로막을 사이로 위…
+k	복건	bokgeon	an official hat made of b…
+k	복고조	bokgojo	
+k	복공	bokgong	터널 굴착 후, 붕괴나 용수 침투를 막기 위해…
+k	복권	bokgwon	lottery (ticket)
+k	복근	bokgeun	abdominal muscles
+k	복날	bongnal	the three hot days of sum…
+k	복당	bokdang	
+k	복덕	bokdeok	
+k	복도지	bokdoji	
+k	복락	bongnak	
+k	복례	bongnye	
+k	복록	bongnok	타고난 복과 벼슬아치의 녹봉이라는 뜻으로, 복…
+k	복막	bongmak	peritoneum
+k	복말	bongmal	
+k	복문	bongmun	
+k	복백	bokbaek	
+k	복부인	bokbuin	
+k	복부호	bokbuho	
+k	복사기	boksagi	a photocopier
+k	복사지	boksaji	
+k	복색	boksaek	
+k	복선	bokseon	plot
+k	복섬	bokseom	The grass puffer, Takifug…
+k	복소수	boksosu	complex number (number of…
+k	복송	boksong	
+k	복수의	boksuui	
+k	복습	bokseup	revision, review
+k	복시안	boksian	
+k	복싱	boksing	boxing (the sport of boxi…
+k	복역	bogyeok	
+k	복엽	bogyeop	
+k	복용	bogyong	
+k	복장	bokjang	dress; costume
+k	복점	bokjeom	
+k	복조리	bokjori	
+k	복종	bokjong	obedience
+k	복중	bokjung	
+k	복지리	bokjiri	(음식) 복국, 복싱건탕.
+k	복착	bokchak	'착복'.
+k	복채	bokchae	
+k	복통	boktong	
+k	볶음	bokkeum	a stir-fried dish
+k	볶이다	bokkida	
+k	본가야	bongaya	금관가야.
+k	본건	bongeon	
+k	본관	bongwan	clan, family name (a grou…
+k	본권	bongwon	
+k	본노루	bonnoru	
+k	본당	bondang	
+k	본디지	bondiji	bondage
+k	본때	bonttae	본보기로 삼을 만한 사람이나 사물의 됨됨이.
+k	본루타	bolluta	
+k	본보기	bonbogi	
+k	본보다	bonboda	
+k	본봉	bonbong	
+k	본색	bonsaek	inherent qualities, true …
+k	본선	bonseon	main line
+k	본연	bonyeon	that is inherent
+k	본적	bonjeok	
+k	본전	bonjeon	
+k	본점	bonjeom	
+k	본채	bonchae	
+k	볼걸	bolgeol	
+k	볼똑	bolttok	while protruding or swell…
+k	볼록이	bollogi	
+k	볼룩이	bollugi	
+k	볼륨	bollyum	volume (issues of a perio…
+k	볼링	bolling	bowling
+k	볼메다	bolmeda	to be ruffled; to be exas…
+k	볼쏙	bolssok	갑자기 볼록하게 쏙 나오거나 내미는 모양.
+k	볼쑥	bolssuk	
+k	볼우물	borumul	'보조개'를 이르는 말.
+k	볿히다	bolhida	
+k	봄갈이	bomgari	spring tilling, ploughing
+k	봄기운	bomgiun	봄을 느끼게 해 주는 기운, 또는 그 느낌.
+k	봄동	bomdong	A Korean variety of napa …
+k	봄맞이	bommaji	
+k	봄베기	bombegi	
+k	봄보리	bombori	
+k	봉교	bonggyo	
+k	봉군	bonggun	
+k	봉납	bongnap	
+k	봉답	bongdap	
+k	봉돌	bongdol	
+k	봉랍	bongnap	sealing wax
+k	봉래	bongnae	중국 전설에서 나타나는 가상적 영산(靈山). …
+k	봉록	bongnok	
+k	봉묘	bongmyo	
+k	봉밀	bongmil	honey
+k	봉분	bongbun	burial mound
+k	봉산	bongsan	
+k	봉서	bongseo	
+k	봉술	bongsul	zedoary (Curcuma zedoaria)
+k	봉신	bongsin	
+k	봉오리	bongori	
+k	봉우리	bonguri	peak
+k	봉작	bongjak	제후(諸侯)로 봉하고 관작(官爵)을 줌.
+k	봉죽	bongjuk	
+k	봉직	bongjik	
+k	봉짜	bongjja	
+k	봉표	bongpyo	
+k	봉필	bongpil	
+k	봉함	bongham	
+k	봉합	bonghap	
+k	봉화	bonghwa	
+k	뵈옵다	boeopda	
+e	boa vista	boavista	1 meaning
+e	boarding	boarding	1 meaning
+e	boastful	boastful	1 meaning
+e	bobolink	bobolink	1 meaning
+e	body hair	bodyhair	1 meaning
+e	body part	bodypart	1 meaning
+e	bodysuit	bodysuit	1 meaning
+e	bodywork	bodywork	1 meaning
+e	bogeyman	bogeyman	1 meaning
+e	bohai sea	bohaisea	1 meaning
+e	bohemian	bohemian	1 meaning
+e	boil down	boildown	3 meanings
+e	bomb shot	bombshot	1 meaning
+e	bombykol	bombykol	1 meaning
+e	bonefish	bonefish	1 meaning
+e	book lung	booklung	1 meaning
+e	bookcase	bookcase	1 meaning
+e	bookmark	bookmark	2 meanings
+e	bookshop	bookshop	1 meaning
+e	bookworm	bookworm	2 meanings
+e	boondock	boondock	1 meaning
+e	bordeaux	bordeaux	1 meaning
+e	borduria	borduria	1 meaning
+e	borrower	borrower	1 meaning
+e	boryspil	boryspil	1 meaning
+e	boshiamy	boshiamy	1 meaning
+e	botanist	botanist	1 meaning
+e	botswana	botswana	1 meaning
+e	bottom-up	bottomup	1 meaning
+e	botulism	botulism	1 meaning
+e	bouillon	bouillon	1 meaning
+e	boundary	boundary	2 meanings
+e	boutique	boutique	1 meaning
+e	bouzouki	bouzouki	1 meaning
+e	bovarysm	bovarysm	1 meaning
+e	bow maker	bowmaker	1 meaning
+e	bowsprit	bowsprit	1 meaning
+e	boy scout	boyscout	1 meaning
+e	boys' love	boyslove	1 meaning
+j	ぼうねんかい	bonenkai	
+j	ぼきぼき	bokiboki	with a cracking sound (of…
+j	ぼくのと	bokunoto	漢字の部首「⼘」の呼称の一つ。
+j	ぼけなす	bokenasu	色褪せた茄子。
+j	ぼこぼこ	bokoboko	beaten up; worn
+j	ぼさぼさ	bosabosa	being disheveled, being u…
+j	ぼそぼそ	bosoboso	in a quiet voice
+j	ぼっちゃま	botchama	
+j	ぼとぼと	botoboto	in drops
+j	ぼやけた	boyaketa	
+j	ぼやける	boyakeru	to become blurry or dim
+j	ぼやぼや	boyaboya	careless
+j	ぼりぼり	boribori	crunching of food, etc.
+j	ぼろかす	borokasu	ほとんど価値がないこと。役に立たないこと。
+j	ぼろくそ	borokuso	worthless
+j	ぼろぼろ	boroboro	tired, exhausted
+j	ぼろまけ	boromake	losing heavily
+j	ぼろもうけ	boromoke	少ない資本や労力で大きな利益を得ること。また、その…
+j	ぼんぼち	bonbochi	
+j	ボイコット	boikotto	boycott
+j	ボイスオーバー	boisuoba	
+j	ボガティール	bogatiru	
+j	ボクセル	bokuseru	
+j	ボサノバ	bosanoba	音楽のジャンルの一つ。1950年代のブラジルで、ジ…
+j	ボタン穴	botanana	buttonhole (hole for a bu…
+j	ボタ山	botayama	
+j	ボディガード	bodigado	要人の身辺に付き添い、警護する者。護衛。
+j	ボディソープ	bodisopu	体を洗うための石鹼。
+j	ボディビル	bodibiru	bodybuilding
+j	ボディボーダー	bodiboda	ボディボードの選手。
+j	ボディボード	bodibodo	うつ伏せの状態で波乗りをするスポーツ。
+j	ボディーガード	bodigado	bodyguard
+j	ボディーソープ	bodisopu	body wash
+j	ボディーボーダー	bodiboda	「ボディボーダー」に同じ。
+j	ボディーボード	bodibodo	「ボディボード」に同じ。
+j	ボトムス	botomusu	下半身に着用する衣服。
+j	ボナペティ	bonapeti	召し上がれ。
+j	ボビナム	bobinamu	世界中の武術、格闘技を参考にして、1938年にベト…
+j	ボブスレー	bobusure	a bobsleigh; a bobsled.
+j	ボブリル	boburiru	Bovril
+j	ボポモフォ	bopomofo	synonym of 注音符号 (chūin fu…
+j	ボランチ	boranchi	a defensive midfielder
+j	ボランティア	borantia	volunteer
+j	ボリウッド	boriuddo	
+j	ボルケーノ	borukeno	volcano
+j	ボルタラ	borutara	
+j	ボルテージ	boruteji	excitement
+j	ボログダ	boroguda	
+j	ボロネジ	boroneji	
+j	ボロネーゼ	boroneze	bolognese (sauce)
+j	ボンネット	bonnetto	car bonnet (UK), hood (US)
+j	ボヴリル	bovuriru	Bovril
+j	ボーイレッグ	boireggu	
+j	ボーイ・バンド	boibando	
+j	ボーダーライン	bodarain	境い目。境界線。
+j	ボーダー・コリー	bodakori	
+j	ボートこぎ	botokogi	
+j	ボートレーサー	botoresa	ボートレースの選手。
+j	ボートレース	botoresu	手漕ぎボートによる競争。競漕。
+j	ボードウォーク	bodowoku	
+j	ボードゲーム	bodogemu	a board game
+j	ボードビル	bodobiru	歌と対話を互いに入れた通俗的な喜劇、舞踏など。
+j	ボールガール	borugaru	
+j	ボールゲーム	borugemu	synonym of 球技 (kyūgi, “ba…
+j	ボールルーム	borurumu	ballroom (large room used…
+j	ボール紙	borugami	厚く固い洋紙。板紙。
+j	亡命者	bomeisha	主に政治的、宗教的な迫害を避けるため他国に亡命する…
+j	亡失	boshitsu	うしないなくすこと。うしないなくなること。
+j	亡室	boshitsu	死亡した妻。
+j	傍出	boshutsu	脇から（横に）出ること。
+j	傍聴人	bochonin	傍聴の許可を受けた人。傍聴者。
+j	傍聴者	bochosha	傍聴の許可を受けた人。傍聴人。
+j	傍観者	bokansha	onlooker
+j	冒険者	bokensha	adventurer
+j	凡百	bonpyaku	さまざまなもの。もろもろ。かずかず。
+j	剖出	boshutsu	生物の体の内部にある組織を周囲の組織を取り除き、目…
+j	勃然	botsuzen	突然勢いよく起こるさま。
+j	勃発	boppatsu	outbreak (of war etc.)
+j	墓室	boshitsu	大きな墓で葬られている部屋。墓廬。
+j	墨国	bokukoku	synonym of メキシコ (Mekishik…
+j	墨汁嚢	bokujuno	いかやたこが体内に持つ墨汁のような黒い液体を貯める…
+j	妨害行為	bogaikoi	sabotage
+j	忘備録	bobiroku	
+j	忘失	boshitsu	忘れ、失うこと。
+j	忘年会	bonenkai	a year-end party where pe…
+j	忙中閑	bochukan	a moment of quietude duri…
+j	房室	boshitsu	部屋。
+j	旁出	boshutsu	「傍出」の別表記。
+j	暴漲端	bochotan	海嘯。潮津波。
+j	暴行する	bokosuru	
+j	暴走族	bosozoku	bosozoku gang (a motorcyc…
+j	暴騰する	botosuru	
+j	木石	bokuseki	trees and stones
+j	木鐸	bokutaku	胴が金属で、舌が木で造られた鈴。官吏が新しい法令を…
+j	棒に振る	bonifuru	to squander; to ruin
+j	棒グラフ	bogurafu	a bar graph
+j	棒人間	boningen	イラストなどで人の頭部を丸、胴体、四肢を線（棒）で…
+j	棒線駅	boseneki	線路とプラットホームが1本ずつしかない駅。
+j	歿前	botsuzen	「没前」の別表記。
+j	歿年	botsunen	「没年」の別表記。
+j	母国語	bokokugo	the language of the count…
+j	母権制	bokensei	
+j	母称姓	boshosei	母親の個人名に由来し、母称を本人の子孫が継承した姓。
+j	母集団	boshudan	統計的性質を調べたい対象に属するもの全て。
+j	母音記号	boinkigo	
+j	没入	botsunyu	immersion, being absorbed…
+j	没前	botsuzen	死ぬ前。
+j	没却	bokkyaku	捨て去って無いようにすること。
+j	没年	botsunen	a person's age at death
+j	牧笛	bokuteki	a whistle, a flute use to…
+j	盆踊り	bonodori	the Obon festival dance
+j	膨張剤	bochozai	leavening agent
+j	菩提子	bodaishi	seed of Ficus religiosa u…
+j	防弾車	bodansha	
+j	防水剤	bosuizai	紙や布などの防水のために塗布する薬剤。
+j	防湿	boshitsu	prevention of dampness
+j	防潮堤	bochotei	seawall, coastal levee
+j	防火壁	bokaheki	firewall (fireproof barri…
+j	防臭剤	boshuzai	不快な匂いなどの抑制や除去に使用する薬剤。
+j	防衛学	boeigaku	防衛について研究する学問。軍事学。戦争学。国防学。
+j	防護服	bogofuku	protective clothing
+k	보건소	bogeonso	health (care) center
+k	보고하다	bogohada	to report
+k	보관소	bogwanso	archive, depository
+k	보관인	bogwanin	custodian; trustee
+k	보균자	bogyunja	
+k	보그그	bogeugeu	
+k	보급로	bogeumno	
+k	보급소	bogeupso	
+k	보급자	bogeupja	
+k	보내오다	bonaeoda	
+k	보너스	boneoseu	bonus (extra amount of mo…
+k	보다는	bodaneun	
+k	보댕이	bodaengi	
+k	보더빌	bodeobil	
+k	보도하다	bodohada	to report, cover
+k	보듬다	bodeumda	사람이나 동물을 가슴에 붙도록 안다.
+k	보라색	borasaek	violet, purple (color)
+k	보라털	borateol	Bangia atropurpurea
+k	보람줄	boramjul	책등 안쪽에 달아 놓고 마지막으로 읽은 쪽수를…
+k	보령	boryeong	
+k	보로네시	boronesi	
+k	보르네오	boreuneo	
+k	보르르	boreureu	
+k	보르조이	boreujoi	
+k	보리새우	borisaeu	보리새우과의 하나. 몸의 길이는 25~30cm…
+k	보리쌀	borissal	pearl barley
+k	보마법	bomabeop	
+k	보문각	bomungak	
+k	보문품	bomunpum	
+k	보병	bobyeong	infantryman
+k	보부상	bobusang	
+k	보살계	bosalgye	
+k	보살탑	bosaltap	
+k	보세수입	bosesuip	
+k	보세제도	bosejedo	
+k	보수금	bosugeum	
+k	보수당	bosudang	
+k	보수적	bosujeok	새로운 것이나 변화를 반대하고 기존의 것, 전…
+k	보수주의	bosujuui	conservatism
+k	보스니아	boseunia	Bosnia (a geographic regi…
+k	보스락	boseurak	very softly rustlingly; w…
+k	보스스	boseuseu	가는 털이나 솜털 따위가 짧고 보드랍게 나오거…
+k	보슬비	boseulbi	
+k	보신술	bosinsul	
+k	보안관	boangwan	sheriff
+k	보안법	boanbeop	
+k	보얀목	boyanmok	
+k	보어절	boeojeol	
+k	보완재	bowanjae	경제학에서, 어떤 한 재화의 수요가 늘어날때 …
+k	보위하다	bowihada	protect; defend
+k	보유하다	boyuhada	물건을 가지고 있다.
+k	보육과	boyukgwa	
+k	보육원	boyugwon	children's home; orphanage
+k	보임틀	boimteul	synonym of 모니터 (moniteo, …
+k	보조금	bojogeum	
+k	보조역	bojoyeok	
+k	보조장	bojojang	
+k	보조적	bojojeok	
+k	보조하다	bojohada	
+k	보조항	bojohang	
+k	보존림	bojollim	
+k	보지하다	bojihada	to preserve; to maintain
+k	보집합	bojiphap	'여집합'.
+k	보채다	bochaeda	
+k	보청	bocheong	
+k	보크몰	bokeumol	
+k	보타지다	botajida	
+k	보통세	botongse	
+k	보통의	botongui	
+k	보통주	botongju	
+k	보포모포	bopomopo	
+k	보푸라기	bopuragi	
+k	보합산	bohapsan	
+k	보험자	boheomja	
+k	보헤미안	bohemian	
+k	보호금	bohogeum	
+k	보호색	bohosaek	
+k	보호주의	bohojuui	protectionism
+k	보호하다	bohohada	to protect
+k	복구례	bokgurye	
+k	복놀이	bongnori	
+k	복달임	bokdarim	
+k	복대리	bokdaeri	
+k	복되다	bokdoeda	
+k	복룡	bokryong	
+k	복리비	bongnibi	
+k	복망	bongmang	
+k	복벽	bokbyeok	
+k	복본위	bokbonwi	
+k	복부국	bokbuguk	
+k	복분자	bokbunja	bokbunja, the fruit of th…
+k	복비례	bokbirye	
+k	복사계	boksagye	
+k	복사본	boksabon	
+k	복사뻬	boksappe	'복사뼈'를 의미하는 경기도 사투리.
+k	복사체	boksache	
+k	복사판	boksapan	
+k	복사필	boksapil	
+k	복성	bokseong	
+k	복수군	boksugun	
+k	복수심	boksusim	
+k	복수초	boksucho	Amur adonis (Adonis amure…
+k	복숭아	boksunga	peach (fruit)
+k	복십자	boksipja	
+k	복자음	bokjaeum	두 개의 자음이 어울러진 자음. (부록: 한글…
+k	복정	bokjeong	
+k	복제본	bokjebon	
+k	복제판	bokjepan	
+k	복제품	bokjepum	
+k	복진자	bokjinja	
+k	복창	bokchang	
+k	복철	bokcheol	
+k	복합세	bokhapse	
+k	복합어	bokhabeo	compound word
+k	복허리	bokheori	
+k	본격	bongyeok	
+k	본견	bongyeon	
+k	본능	bonneung	instinct
+k	본뜻	bontteut	마음속에 품은 생각.
+k	본래유	bonraeyu	
+k	본래의	bollaeui	
+k	본마음	bonmaeum	
+k	본바닥	bonbadak	
+k	본받다	bonbatda	to imitate, follow, emula…
+k	본성	bonseong	one's inherent nature
+k	본영	bonyeong	
+k	본이름	bonireum	
+k	본향	bonhyang	
+k	볼가닥	bolgadak	
+k	볼거리	bolgeori	parotitis, mumps
+k	볼끈	bolkkeun	protruding sharply, sudde…
+k	볼로냐	bollonya	
+k	볼리비아	bollibia	Bolivia (a country in Sou…
+k	볼쏙이	bolssogi	
+k	볼쑥이	bolssugi	
+k	볼웃음	boruseum	입을 벌리거나 소리를 내지 아니하고 볼 위에 …
+k	봄가물	bomgamul	
+k	봄가뭄	bomgamum	spring drought
+k	봄나물	bomnamul	spring greens
+k	봄바람	bombaram	spring wind; spring breeze
+k	봄볕	bombyeot	
+k	봄철	bomcheol	springtime; spring, the s…
+k	봄추위	bomchuwi	
+k	봉건	bonggeon	feudalism; enfeoffment
+k	봉고도	bonggodo	
+k	봉급	bonggeup	salary, wages
+k	봉긋	bonggeut	꽤 도도록하게 나오거나 소복하게 솟아 있는 모…
+k	봉다리	bongdari	'봉지'의 강원도 사투리.
+k	봉당	bongdang	
+k	봉리수	bongnisu	'파인애플'.
+k	봉망	bongmang	
+k	봉봉	bongbong	문풍지 따위가 뚫어질 때 잇따라 나는 가벼운 …
+k	봉사기	bongsagi	server
+k	봉사자	bongsaja	
+k	봉상	bongsang	
+k	봉선	bongseon	선조(先祖)의 덕업(德業)을 이어받아 지킴.
+k	봉송	bongsong	
+k	봉쇄	bongswae	blockade
+k	봉수제	bongsuje	
+k	봉양	bongyang	
+k	봉왕	bongwang	
+k	봉착	bongchak	an encounter with a diffi…
+k	봉채	bongchae	
+k	봉축	bongchuk	
+k	봉침	bongchim	
+k	봉하다	bonghada	주군이 봉신에게 땅을 하사하다.
+k	봉헌	bongheon	
+k	뵈레크	boerekeu	
+k	뵘석	boemseok	böhmite
+e	board game	boardgame	1 meaning
+e	boardwalk	boardwalk	1 meaning
+e	bobsleigh	bobsleigh	2 meanings
+e	boca raton	bocaraton	1 meaning
+e	bodhi tree	bodhitree	1 meaning
+e	body count	bodycount	1 meaning
+e	body louse	bodylouse	1 meaning
+e	body odour	bodyodour	1 meaning
+e	bodyguard	bodyguard	1 meaning
+e	boiled egg	boiledegg	3 meanings
+e	bollywood	bollywood	1 meaning
+e	bolognese	bolognese	2 meanings
+e	bolshevik	bolshevik	1 meaning
+e	bon appétit	bonapptit	1 meaning
+e	bon voyage	bonvoyage	1 meaning
+e	bone black	boneblack	1 meaning
+e	bonifacio	bonifacio	1 meaning
+e	booby trap	boobytrap	1 meaning
+e	bookmaker	bookmaker	1 meaning
+e	bookshelf	bookshelf	1 meaning
+e	boomerang	boomerang	1 meaning
+e	boric acid	boricacid	1 meaning
+e	bosphorus	bosphorus	1 meaning
+e	boston ivy	bostonivy	1 meaning
+e	bottle cap	bottlecap	1 meaning
+e	bottoms up	bottomsup	1 meaning
+e	boulevard	boulevard	1 meaning
+e	bourgeois	bourgeois	1 meaning
+e	bower bird	bowerbird	1 meaning
+e	bowler hat	bowlerhat	1 meaning
+e	bowstring	bowstring	1 meaning
+e	box office	boxoffice	1 meaning
+e	boxing day	boxingday	1 meaning
+e	boyfriend	boyfriend	2 meanings
+e	boyshorts	boyshorts	1 meaning
+j	ぼうえんきょう座	boenkyoza	Telescopium
+j	ぼうふうせつ	bofusetsu	暴風雪: snowstorm
+j	ぼくめつ	bokumetsu	撲滅: eradication, extermin…
+j	ぼたんやり	botanyari	棒の先端に毛や綿を布で丸く包んでつけた練習用の槍。…
+j	ぼったくり	bottakuri	intentional overcharging;…
+j	ぼったくる	bottakuru	法外な金額を吹っ掛ける。
+j	ぼろぞうきん	borozokin	beat-up cleaning cloth
+j	ぼんやりと	bonyarito	
+j	ぼーっとする	bottosuru	
+j	ボイシング	boishingu	
+j	ボイスメール	boisumeru	voice mail
+j	ボイボジナ	boibojina	
+j	ボイボディナ	boibodina	
+j	ボイラーメーカー	boirameka	
+j	ボウリング場	boringujo	ボウリングをするための施設。
+j	ボカラトン	bokaraton	
+j	ボキャビル	bokyabiru	
+j	ボスニア語	bosuniago	Bosnian (the language)
+j	ボタンホール	botanhoru	衣服などでボタンをはめるための穴。ボタン穴。
+j	ボツワナ	botsuwana	Botswana (a country in So…
+j	ボディスーツ	bodisutsu	bodysuit
+j	ボニファーチョ	bonifacho	
+j	ボブカット	bobukatto	bob haircut (hairstyle)
+j	ボボリンク	boboringu	
+j	ボルガ川	borugagaw	
+j	ボルティモア	borutimoa	
+j	ボルネオゾウ	boruneozo	ボルネオ象の学術的表記。
+j	ボルネオ島	boruneoto	「ボルネオ」を参照。
+j	ボルネオ象	boruneozo	アジア象の亜種。学名は Elephas maxim…
+j	ボローニャの	boronyano	
+j	ボンヌ図法	bonnuzuho	リゴベール・ボンヌ (1727-94)が使用した地…
+j	ボンビコール	bonbikoru	
+j	ボン・キュ・ボン	bonkyubon	
+j	ボーアモデル	boamoderu	ニールス・ボーアが提唱した原子の構造。電子は電子殻…
+j	ボーイズラブ	boizurabu	boys' love; BL; yaoi
+j	ボーイ・グループ	boigurupu	
+j	ボーカロイド	bokaroido	「VOCALOID」の異表記。
+j	ボーキサイト	bokisaito	bauxite (ore)
+j	ボールギャグ	borugyagu	
+j	ボールド体	borudotai	bold typeface
+j	ボールパーソン	borupason	ball person
+j	ミラー図法	bonnuzuho	オズボーン・メイトランド・ミラー (1897-19…
+j	亡命する	bomeisuru	
+j	傍接円	bosetsuen	excircle
+j	傍観的	bokanteki	
+j	僕ん所	bokuntoko	at my place
+j	僕達	bokutachi	we, us
+j	冒険心	bokenshin	
+j	冒険的	bokenteki	adventurous (full of haza…
+j	募集する	boshusuru	
+j	卜術	bokujutsu	scry; scrying
+j	坊主頭	bozuatama	坊主（僧侶）のように頭髪を剃ったり、刈ったりした頭。
+j	妨害する	bogaisuru	
+j	帽子針	boshibari	pin used to keep a woman'…
+j	撲殺	bokusatsu	beating to death
+j	撲滅	bokumetsu	the beating out of a flam…
+j	暴風雪	bofusetsu	snowstorm
+j	望遠レンズ	boenrenzu	
+j	望遠鏡和	boenkyowa	数列a_nに対してa_k=b_k+1-b_kとなる…
+j	望遠鏡座	boenkyoza	ぼうえんきょう座。
+j	朴実	bokujitsu	飾り気がなく律儀であること。
+j	棒術家	bojutsuka	棒術を行う武術家またはそれで生業している者、修得し…
+j	樸実	bokujitsu	飾り気がなく律儀であること。
+j	母乳栄養	bonyueiyo	
+j	母語話者	bogowasha	
+j	母音調和	boinchowa	vowel harmony
+j	没溺	botsudeki	水の中に落ちて溺れること。
+j	没落	botsuraku	downfall, collapse
+j	牡丹刷毛	botanbake	kabuki brush (a type of p…
+j	牡丹蔓	botanzuru	Clematis apiifolia
+j	牡丹雪	botanyuki	雪の結晶が多く付着しあい、大きな雪片となって降る雪。
+j	牡丹餅	botamochi	botamochi, a Japanese swe…
+j	牧歌的	bokkateki	のどかでのんびりとした様子。
+j	牧畜	bokuchiku	pastoralism
+j	牧羊犬	bokuyoken	sheep dog, sheepdog
+j	牧草地	bokusochi	pasture
+j	盆休み	bonyasumi	Obon holidays
+j	盆提灯	bonjochin	memorial lantern, Obon la…
+j	紡織工	boshokuko	紡織を行う職人。
+j	菩提心	bodaishin	bodhicitta
+j	菩薩乗	bosatsujo	自分が仏になるとともに他者も悟りに至らせようとする…
+j	襤褸を出す	boroodasu	to reveal the faults (of …
+j	防弾服	bodanfuku	
+j	防火水槽	bokasuiso	火災が発生した際の消火用水を蓄えておく水槽。
+j	防爆弁	bobakuben	pressure-relief vent of a…
+j	防犯ブザー	bohanbuza	不審者がいた際に取っ手を引くと大きな音を鳴らすブザ…
+j	防犯ベル	bohanberu	不法侵入や盗難などからの防犯のため設置されるベル。
+j	防石面	bosekimen	投石や飛び石などの飛来物から顔面を護るための、ヘル…
+j	防空頭巾	bokuzukin	第二次世界大戦中に空襲などの際に飛来物などから頭部…
+k	보가티르	bogatireu	
+k	보건림	bogeollim	
+k	보고되다	bogodoeda	
+k	보관료	bogwallyo	
+k	보관림	bogwallim	
+k	보관함	bogwanham	
+k	보급계	bogeupgye	
+k	보급품	bogeuppum	
+k	보니파시오	bonipasio	
+k	보다 작다	bodajakda	
+k	보다 크다	bodakeuda	
+k	보답하다	bodaphada	은혜를 갚은 뒤에 보상하다.
+k	보덕국	bodeokguk	한국의 역사에서, 674년에 고구려의 유민인 …
+k	보도되다	bododoeda	
+k	보도사진	bodosajin	
+k	보도자료	bodojaryo	press release
+k	보독하다	bodokhada	
+k	보드 게임	bodeugeim	
+k	보드게임	bodeugeim	a board game
+k	보드득	bodeudeuk	단단하고 질기거나 반드러운 물건을 야무지게 문…
+k	보드라운	bodeuraun	'보드랍다'의 관형사형.
+k	보드라움	bodeuraum	'보드랍다'의 명사형.
+k	보디가드	bodigadeu	bodyguard
+k	보라문어	boramuneo	common blanket octopus (T…
+k	보람찬	boramchan	'보람차다'의 관형사형.
+k	보람참	boramcham	'보람차다'의 명사형.
+k	보류하다	boryuhada	to put off; to defer
+k	보르륵	boreureuk	
+k	보름날	boreumnal	the fifteenth day of the …
+k	보름달	boreumdal	full moon
+k	보리고래	borigorae	sei whale, Balaenoptera b…
+k	보리살타	borisalta	
+k	보릿가루	boritgaru	보리을 갈아서 만든 가루.
+k	보물섬	bomulseom	1888년에 영국의 작가 로버트 루이스 스티븐…
+k	보복주의	bobokjuui	
+k	보복하다	bobokhada	
+k	보브캣	bobeukaet	
+k	보삭하다	bosakhada	'보사삭하다'의 준말.
+k	보살피다	bosalpida	to look after; to take ca…
+k	보석학	boseokhak	
+k	보석함	boseokham	
+k	보스전	boseujeon	boss battle, boss fight
+k	보스턴	boseuteon	
+k	보신용	bosinyong	
+k	보신탕	bosintang	a stew made of dog
+k	보신하다	bosinhada	건강을 유지하기 위해 영양을 섭취하다.
+k	보안 문자	boanmunja	
+k	보안등	boandeung	
+k	보안부대	boanbudae	
+k	보얘지다	boyaejida	
+k	보여주다	boyeojuda	어떤 것을 다른 사람에게 보이다.
+k	보온성	boonseong	
+k	보완하다	bowanhada	to make up for, to supple…
+k	보유되다	boyudoeda	빠진것이 채워넣어지다.
+k	보유편	boyupyeon	백과사전등에서 빠진것을 채워넣어 새로 낸 책.
+k	보윰하다	boyumhada	
+k	보이그룹	boigeurup	boy band
+k	보이보디나	boibodina	
+k	보조견	bojogyeon	
+k	보조단위	bojodanwi	
+k	보조어간	bojoeogan	
+k	보존하다	bojonhada	to preserve, to conserve
+k	보좌관	bojwagwan	
+k	보증인	bojeungin	보증하는 사람, 보증을 서는 사람
+k	보증주	bojeungju	
+k	보직하다	bojikhada	
+k	보초망	bochomang	
+k	보초선	bochoseon	
+k	보충제	bochungje	
+k	보탬각	botaemgak	'보각'의 북한말.
+k	보통화	botonghwa	Putonghua, Mandarin Chine…
+k	보편자	bopyeonja	여러 개별자들을 묶어내는 전체.
+k	보풀리다	bopullida	
+k	보필하다	bopilhada	to assist a superior (typ…
+k	보행기	bohaenggi	
+k	보행인	bohaengin	
+k	보행자	bohaengja	walker, pedestrian
+k	보허탕	boheotang	
+k	보험료	boheomnyo	
+k	보험액	boheomaek	
+k	보험업	boheomeop	
+k	보혈제	bohyeolje	
+k	보호되다	bohodoeda	
+k	보호세율	bohoseyul	
+k	보호조약	bohojoyak	
+k	보호조치	bohojochi	
+k	복각계	bokgakgye	
+k	복각본	bokgakbon	
+k	복고적	bokgojeok	
+k	복고주의	bokgojuui	
+k	복고풍	bokgopung	
+k	복구하다	bokguhada	
+k	복덕일	bokdeogil	
+k	복력	bongnyeok	resilience
+k	복록수	bongnoksu	복(福)과 녹(祿)과 수명(壽命)을 통틀어 이…
+k	복리표	bongnipyo	
+k	복면	bongmyeon	
+k	복멸	bongmyeol	
+k	복모음	bongmoeum	synonym of 이중모음(二重母音) (ij…
+k	복병	bokbyeong	a hidden army lying in am…
+k	복분해	bokbunhae	
+k	복불복	bokbulbok	a crapshoot; an uncertain…
+k	복사꽃	boksakkot	'복숭아꽃'.
+k	복사나무	boksanamu	peach tree
+k	복사선	boksaseon	
+k	복사열	boksayeol	
+k	복사하다	boksahada	to copy
+k	복상사	boksangsa	
+k	복상시	boksangsi	
+k	복선기	bokseongi	
+k	복수전	boksujeon	return match
+k	복수하다	boksuhada	to revenge; to avenge
+k	복식품	boksikpum	
+k	복역수	bogyeoksu	
+k	복엽기	bogyeopgi	biplane
+k	복음서	bogeumseo	gospel (first section of …
+k	복음회	bogeumhoe	
+k	복임권	bogimgwon	
+k	복자방	bokjabang	'겹씨방'.
+k	복자엽	bokjayeop	
+k	복작식	bokjaksik	
+k	복작이다	bokjagida	많은 사람이 좁은 곳에 모여 수선스럽게 들끓다.
+k	복제권	bokjegwon	
+k	복조하다	bokjohada	
+k	복지상	bokjisang	
+k	복합음	bokhabeum	
+k	복합체	bokhapche	
+k	복화술	bokhwasul	ventriloquism
+k	복희씨	bokhuissi	중국 고대 전설상의 제왕. 삼황(三皇)의 한 …
+k	본동사	bondongsa	
+k	본뜨다	bontteuda	to imitate, copy, model a…
+k	본머스	bonmeoseu	
+k	본명	bonmyeong	real name (as opposed to …
+k	본바탕	bonbatang	
+k	본시험	bonsiheom	
+k	본적지	bonjeokji	
+k	본토박이	bontobagi	오랫동안 본토에 거주하는 사람.
+k	본형	bonhyeong	
+k	볼 개그	bolgaegeu	
+k	볼가 강	bolgagang	
+k	볼가지다	bolgajida	
+k	볼기짝	bolgijjak	'볼기'를 낮잡아 이르는 말.
+k	볼때기	bolttaegi	'볼따구니'.
+k	볼록이다	bollogida	물체의 거죽이 조금 도드라져 나오다. 또는 그…
+k	볼록한	bollokhan	
+k	볼리우드	bolliudeu	
+k	볼복스	bolbokseu	(생물) 식물상 편모충의 한 부류.
+k	볼썽	bolsseong	
+k	볼연지	bolyeonji	
+k	볼통히	boltonghi	
+k	볼티모어	boltimoeo	
+k	볼프람	bolpeuram	
+k	봄날씨	bomnalssi	spring weather
+k	봉년	bongnyeon	
+k	봉변	bongbyeon	
+k	봉분제	bongbunje	
+k	봉사심	bongsasim	
+k	봉수군	bongsugun	
+k	봉수대	bongsudae	
+k	봉숭아	bongsunga	'봉선화'.
+k	봉승	bongseung	
+k	봉정	bongjeong	
+k	봉제업	bongjeeop	
+k	봉제품	bongjepum	
+k	봉창	bongchang	
+k	봉충	bongchung	
+k	봉합사	bonghapsa	
+k	봉황	bonghwang	Korean phoenix
+e	boatwright	boatwright	1 meaning
+e	bodhicitta	bodhicitta	1 meaning
+e	body cavity	bodycavity	1 meaning
+e	body double	bodydouble	1 meaning
+e	body pillow	bodypillow	1 meaning
+e	bodyweight	bodyweight	1 meaning
+e	bog iron ore	bogironore	1 meaning
+e	boiler room	boilerroom	1 meaning
+e	boisterous	boisterous	2 meanings
+e	bok globule	bokglobule	1 meaning
+e	bolshevism	bolshevism	1 meaning
+e	bolt cutter	boltcutter	1 meaning
+e	bombay duck	bombayduck	1 meaning
+e	bond market	bondmarket	1 meaning
+e	bondi beach	bondibeach	1 meaning
+e	bone marrow	bonemarrow	1 meaning
+e	bonifatius	bonifatius	1 meaning
+e	book report	bookreport	1 meaning
+e	bootlegger	bootlegger	1 meaning
+e	bootlicker	bootlicker	1 meaning
+e	borderland	borderland	1 meaning
+e	bothersome	bothersome	1 meaning
+e	bottleneck	bottleneck	3 meanings
+e	bouldering	bouldering	1 meaning
+e	bouncy ball	bouncyball	1 meaning
+e	bowdlerize	bowdlerize	1 meaning
+e	boxing ring	boxingring	1 meaning
+j	ぼうかとびら	bokatobira	防火扉: (firefighting) fire …
+j	ぼうにょうどうせん	bonyodosen	傍尿道腺: Skene's gland
+j	ぼっきふぜん	bokkifuzen	勃起不全: erectile dysfunction
+j	ぼつぼつ	botsubotsu	soon, especially used in …
+j	ボイスバンク	boisubanku	
+j	ボイセンベリー	boisenberi	boysenberry
+j	ボイラー技士	boiragishi	ボイラーの取扱、保安、監督を行う職業。
+j	ボクシング	bokushingu	boxing (the sport of boxi…
+j	ボクスホール	bokusuhoru	Vauxhall
+j	ボスニア人	bosuniajin	Bosnian (person, people)
+j	ボスニア湾	bosuniawan	
+j	ボタニカル	botanikaru	植物の。植物性の。
+j	ボディビルダー	bodibiruda	bodybuilder
+j	ボディーチェック	bodichekku	strip search, security ch…
+j	ボトルウォーター	botoruwota	
+j	ボトルキープ	botorukipu	the practice of buying a …
+j	ボトルケージ	botorukeji	a bottle cage, a cage for…
+j	ボトルメール	botorumeru	
+j	ボトル・キープ	botorukipu	
+j	ボニファシオ	bonifashio	
+j	ボバリスム	bobarisumu	
+j	ボバリズム	bobarizumu	
+j	ボブキャット	bobukyatto	a bobcat (North American …
+j	ボルシチ	borushichi	borscht
+j	ボルチモア	boruchimoa	
+j	ボルトメーター	borutometa	
+j	ボレリア症	boreriasho	
+j	ボン・キュッ・ボン	bonkyubbon	curvy
+j	ボーイスカウト	boisukauto	実社会で先駆的な立場に立てるように、身体を実際に動…
+j	ボーイフレンド	boifurendo	boyfriend (male partner i…
+j	ボーカリスト	bokarisuto	vocalist
+j	ボース粒子	bosuryushi	a boson
+j	ボードビリアン	bodobirian	ボードビルを行う芸人。
+j	亡命政府	bomeiseifu	government in exile
+j	傍尿道腺	bonyodosen	Skene's gland
+j	僕仲間	bokunakama	fellow servant
+j	冒涜する	botokusuru	
+j	冒険主義	bokenshugi	
+j	勃勃	botsubotsu	物事が盛んに起こるさま。
+j	勃起不全	bokkifuzen	erectile dysfunction
+j	妨害電波	bogaidenpa	「妨電」を参照。
+j	房中術	bochujutsu	閨房における男女の交合の仕方により不老長生を図る養…
+j	暴力団	boryokudan	violent gang engaged in o…
+j	暴力団員	boryokudan	暴力団の構成員。
+j	暴支膺懲	boshiyocho	暴虐な中国を懲らしめる。
+j	暴民政治	bominseiji	
+j	暴言を吐く	bogenohaku	to utter harsh words; to …
+j	朴念仁	bokunenjin	heartless person
+j	棒手裏剣	boshuriken	A stick or 'throwing bolt…
+j	棒高跳	botakatobi	the pole vault
+j	棒高跳び	botakatobi	棒の反発力によりバーを跳び越える高さを競う陸上競技。
+j	没個性	botsukosei	lack of personality or in…
+j	没収する	bosshusuru	
+j	渤海国	bokkaikoku	
+j	簿記係	bokigakari	bookkeeper
+j	紡毛紡績	bomoboseki	原料となる羊毛を開毛、添油、紡毛、精毛して紡毛糸を…
+j	紡織業	boshokugyo	textile industry
+j	膨張した	bochoshita	
+j	膨張主義	bochoshugi	expansionism
+j	膨張色	bochoshoku	実際より大きく見える色。主に明度の高い色が該当する。
+j	菩提薩埵	bodaisatta	a bodhisattva
+j	襤褸が出る	borogaderu	to have one's faults expo…
+j	貿易戦争	boekisenso	
+j	貿易赤字	boekiakaji	
+j	防御率	bogyoritsu	
+j	防湿庫	boshitsuko	dry cabinet (storage cabi…
+j	防火扉	bokatobira	fire door
+j	防災頭巾	bosaizukin	地震などの際に飛来物などから頭部を守るための綿が入…
+j	防衛大臣	boeidaijin	防衛省の長官（大臣）。
+k	보각대다	bogakdaeda	'보각거리다'.
+k	보각보각	bogakbogak	
+k	보강하다	boganghada	
+k	보골대다	bogoldaeda	
+k	보골보골	bogolbogol	
+k	보관하다	bogwanhada	to keep
+k	보금자리	bogeumjari	nest
+k	보급관	bogeupgwan	
+k	보급기지	bogeupgiji	
+k	보급망	bogeummang	
+k	보급선	bogeupseon	
+k	보다못해	bodamothae	
+k	보대끼다	bodaekkida	
+k	보더 콜리	bodeokolli	
+k	보도기관	bodogigwan	
+k	보독보독	bodokbodok	
+k	보드등	bodeudeung	단단하고 매끄럽거나 반드러운 작은 물건을 세게…
+k	보드랍다	bodeurapda	to be soft
+k	보득하다	bodeukhada	
+k	보들하다	bodeulhada	
+k	보디빌더	bodibildeo	
+k	보라색의	borasaegui	
+k	보루박스	borubakseu	골판지 상자, 종이 상자.
+k	보르두리아	boreuduria	
+k	보리농사	borinongsa	
+k	보릿가을	boritgaeul	
+k	보릿고개	boritgogae	annual period of food sho…
+k	보바리즘	bobarijeum	
+k	보배롭다	bobaeropda	
+k	보삭대다	bosakdaeda	'보삭거리다'.
+k	보삭보삭	bosakbosak	while crumbling again and…
+k	보살승	bosalseung	
+k	보상금	bosanggeum	
+k	보상하다	bosanghada	to reward
+k	보생불	bosaengbul	
+k	보석금	boseokgeum	(법률) 보석을 허가하는 경우에 내게 하는 보…
+k	보석류	boseongnyu	
+k	보석상	boseoksang	jeweler; jewelry shop
+k	보석하다	boseokhada	(법률) 보석금을 받거나 보증인을 세우고 형사…
+k	보세가공	bosegagong	
+k	보세구역	boseguyeok	
+k	보송하다	bosonghada	
+k	보수공사	bosugongsa	
+k	보수교육	bosugyoyuk	
+k	보수주의자	bosujuuija	
+k	보스니아어	boseuniaeo	슬라브어족에 속하는 언어의 하나. 보스니아헤르…
+k	보스니아인	boseuniain	
+k	보시시하다	bosisihada	
+k	보신책	bosinchaek	
+k	보실대다	bosildaeda	
+k	보실보실	bosilbosil	
+k	보싹하다	bossakhada	
+k	보아비스타	boabiseuta	
+k	보안경	boangyeong	눈을 보호하기 위하여 쓰는 안경.
+k	보양탕	boyangtang	Soup which helps one recu…
+k	보온병	boonbyeong	thermos
+k	보완되다	bowandoeda	
+k	보이 밴드	boibaendeu	
+k	보이콧하다	boikothada	여러 사람이 한마음으로 어떤 일을 받아들이지 …
+k	보일러실	boilleosil	
+k	보장왕	bojangwang	
+k	보장하다	bojanghada	to guarantee, to assure
+k	보전하다	bojeonhada	to preserve, to conserve
+k	보조기관	bojogigwan	
+k	보조동사	bojodongsa	auxiliary verb (verb that…
+k	보조일기도	bojoilgido	일기예보를 생산하기 위하여 필수적으로 사용되는…
+k	보조장부	bojojangbu	
+k	보조화폐	bojohwapye	
+k	보존되다	bojondoeda	
+k	보증서	bojeungseo	
+k	보지지하다	bojijihada	
+k	보직대다	bojikdaeda	
+k	보직보직	bojikbojik	
+k	보질대다	bojildaeda	
+k	보질보질	bojilbojil	
+k	보쯔와나	bojjeuwana	나라 이름 '보츠와나'의 북한말.
+k	보청기	bocheonggi	hearing aid
+k	보충대	bochungdae	
+k	보츠와나	bocheuwana	Botswana (a country in Af…
+k	보측계	bocheukgye	
+k	보통고시	botonggosi	
+k	보통법	botongbeop	
+k	보편론	bopyeollon	
+k	보편화	bopyeonhwa	
+k	보풀보풀	bopulbopul	
+k	보험금	boheomgeum	
+k	보호 난간	bohonangan	
+k	보호 테이프	bohoteipeu	
+k	보호관세	bohogwanse	
+k	보호무역	bohomuyeok	protectionism
+k	보호수역	bohosuyeok	
+k	복굴절	bokguljeol	birefringence
+k	복귀하다	bokgwihada	
+k	복당류	bokdangnyu	
+k	복대리인	bokdaeriin	복대리를 위임받은 사람.
+k	복리법	bongnibeop	
+k	복마전	bongmajeon	
+k	복명	bongmyeong	
+k	복모구구	bongmogugu	
+k	복모무임	bongmomuim	삼가 사모하는 마음 그지없어 어찌할 바를 모르…
+k	복무하다	bongmuhada	to serve
+k	복물선	bokmulseon	
+k	복배지수	bokbaejisu	엎지른 물이라는 뜻으로, 다시 수습하기 곤란한…
+k	복변리	bokbyeolli	
+k	복복선	bokbokseon	
+k	복복하다	bokbokhada	
+k	복본위제	bokbonwije	두 가지 이상의 금속을 본위 화폐로 하는 화폐…
+k	복본적	bokbonjeok	
+k	복붙하다	bokbuthada	to copy and paste
+k	복사대비	boksadaebi	일정한 색종이의 가운데에 회색 종이를 놓고 그…
+k	복사뼈	boksappyeo	발목 부근에 안팎으로 둥글게 나온 뼈.
+k	복사시대	boksasidae	물질의 밀도보다 복사 에너지의 밀도가 높은 시…
+k	복사안개	boksaangae	야간에 복사냉각이 일어나 지면 근처에 있는 공…
+k	복성암	bokseongam	
+k	복수투표	boksutupyo	한 선거인이 둘 이상의 투표권을 행사하는 경우…
+k	복식부기	boksikbugi	모든 거래를 대변(貸邊)과 차변(借邊)으로 나…
+k	복신하다	boksinhada	
+k	복싱 데이	boksingdei	Boxing Day (day after Chr…
+k	복역혼	bogyeokhon	
+k	복원하다	bogwonhada	to restore
+k	복음주의	bogeumjuui	
+k	복작하다	bokjakhada	
+k	복잡하다	bokjaphada	to be complicated
+k	복족류	bokjongnyu	
+k	복주감투	bokjugamtu	
+k	복지국가	bokjigukga	
+k	복지사업	bokjisaeop	
+k	복지사회	bokjisahoe	
+k	복지유체	bokjiyuche	
+k	복직근	bokjikgeun	rectus abdominis muscle
+k	복합 조사	bokhapjosa	둘 이상의 조사로 이루어진 조사.
+k	복합관	bokhapgwan	
+k	복호결	bokhogyeol	
+k	복활차	bokhwalcha	
+k	볶아치다	bokkachida	
+k	볶음밥	bokkeumbap	fried rice
+k	본고향	bongohyang	
+k	본등기	bondeunggi	
+k	본딴말	bonttanmal	'의성의태어'의 북한말.
+k	본질적	bonjiljeok	
+k	본질주의	bonjiljuui	
+k	볼더링	boldeoring	
+k	볼따구니	bolttaguni	'볼'을 낮추어 부르는 말.
+k	볼로그다	bollogeuda	
+k	볼로네즈	bollonejeu	
+k	볼록하다	bollokhada	
+k	볼룩하다	bollukhada	
+k	볼륨감	bollyumgam	부피가 있고 풍만한 느낌.
+k	볼만하다	bolmanhada	보기만 하고, 시비를 가리거나 참견하지 아니하…
+k	볼멘소리	bolmensori	서운하거나 성이 나서 퉁명스럽게 하는 말투.
+k	볼셰비키	bolsyebiki	Bolshevik
+k	볼톡하다	boltokhada	
+k	볼툭하다	boltukhada	
+k	볼프강	bolpeugang	
+k	봄방학	bombanghak	봄 기간 동안, 장기간에 걸쳐서 학교 수업이나…
+k	봅슬레이	bopseullei	
+k	봉건제	bonggeonje	
+k	봉급일	bonggeubil	
+k	봉급자	bonggeupja	
+k	봉기하다	bonggihada	
+k	봉두채	bongduchae	(학명: Petasites japonicus)…
+k	봉래산	bongnaesan	
+k	봉명	bongmyeong	
+k	봉사하다	bongsahada	to serve (one's nation, f…
+k	봉안당	bongandang	
+k	봉안하다	bonganhada	
+k	봉인하다	bonginhada	
+k	봉제공	bongjegong	
+k	봉화대	bonghwadae	
+e	bodhisattva	bodhisattva	1 meaning
+e	bodily fluid	bodilyfluid	1 meaning
+e	body and soul	bodyandsoul	1 meaning
+e	body of water	bodyofwater	1 meaning
+e	bodybuilder	bodybuilder	1 meaning
+e	bog bilberry	bogbilberry	1 meaning
+e	boilermaker	boilermaker	1 meaning
+e	bomb cyclone	bombcyclone	1 meaning
+e	bombardment	bombardment	3 meanings
+e	bonapartism	bonapartism	1 meaning
+e	bonapartist	bonapartist	2 meanings
+e	bone density	bonedensity	1 meaning
+e	bonesetting	bonesetting	1 meaning
+e	book burning	bookburning	1 meaning
+e	bookkeeping	bookkeeping	1 meaning
+e	bookstagram	bookstagram	1 meaning
+e	boom barrier	boombarrier	1 meaning
+e	booster dose	boosterdose	1 meaning
+e	booted eagle	bootedeagle	1 meaning
+e	borborygmus	borborygmus	1 meaning
+e	border guard	borderguard	1 meaning
+e	born and bred	bornandbred	1 meaning
+e	borreliosis	borreliosis	1 meaning
+e	bosom friend	bosomfriend	1 meaning
+e	bottom quark	bottomquark	1 meaning
+e	bourgeoisie	bourgeoisie	1 meaning
+e	bournemouth	bournemouth	1 meaning
+e	bow and arrow	bowandarrow	1 meaning
+e	bowling ball	bowlingball	1 meaning
+e	boxing glove	boxingglove	1 meaning
+e	boysenberry	boysenberry	1 meaning
+j	ぼっちめし	botchimeshi	eating lunch by oneself
+j	ぼっち飯	botchimeshi	一人で食事を取ること。
+j	ぼっとん便所	bottonbenjo	pit toilet
+j	ボイスチェンジャー	boisuchenja	voice changer (tool that …
+j	ボイストレーナー	boisutorena	voice trainer
+j	ボイスレコーダー	boisurekoda	dictation machine, voice …
+j	ボイラー室	boirashitsu	ボイラーを設置している部屋。
+j	ボウリングボール	boringuboru	bowling ball
+j	ボカロ古参	bokarokosan	
+j	ボカロ曲	bokarokyoku	a song that uses the VOCA…
+j	ボキャブラリー	bokyaburari	vocabulary
+j	ボディーランゲージ	bodirangeji	body language
+j	ボトムクォーク	botomukwoku	bottom quark
+j	ボトルオープナー	botoruopuna	
+j	ボトルグリーン	botorugurin	bottle green, a dark gree…
+j	ボトルネック	botorunekku	bottleneck (something tha…
+j	ボニファティウス	bonifatiusu	
+j	ボブルヘッド	boburuheddo	a bobblehead doll
+j	ボマージャケット	bomajaketto	「ボンバージャケット」の表記ゆれ。
+j	ボリシェビキ	borishebiki	「ボリシェヴィキ」の表記ゆれ。
+j	ボリシェヴィキ	borisheviki	Bolshevik
+j	ボリシェヴィク	borisheviku	
+j	ボルィースピリ	boruisupiri	
+j	ボルシェビキ	borushebiki	「ボリシェヴィキ」の表記ゆれ。
+j	ボルダリング	borudaringu	bouldering
+j	ボルトカッタ	borutokatta	
+j	ボルネオウナギ	boruneonagi	鰻の一種。学名は Anguilla borneen…
+j	ボルボックス	borubokkusu	ボルボックス目ボルボックス科ボルボックス属に属する…
+j	ボンダイビーチ	bondaibichi	
+j	ボンダイ・ビーチ	bondaibichi	
+j	ボンレスハム	bonresuhamu	豚の骨なしのもも肉を燻煙、湯煮した食品。
+j	ボーディングパス	bodingupasu	
+j	ボーディングパース	bodingupasu	
+j	ボールド体の	borudotaino	
+j	傍系卑属	bokeihizoku	傍系血族のうち自分より下の世代のもの。おい、めいな…
+j	傍系縁者の	bokeienjano	
+j	傍若無人	bojakubujin	arrogant, insolent, impud…
+j	冒険好きな	bokenzukina	
+j	冒険的な	bokentekina	
+j	暴力的	boryokuteki	violent (involving physic…
+j	暴風津波	bofutsunami	高潮（たかしお）の古い呼称。
+j	暴食する	boshokusuru	
+j	暴飲暴食	boinboshoku	to eat and drink too much…
+j	母乳感染	bonyukansen	母子感染の一種で、病原体の含まれた母乳を乳児が飲む…
+j	母子感染	boshikansen	母体にあった病原体が胎児や乳児に感染すること。胎内…
+j	牧畜家	bokuchikuka	牧畜を家業として生計を立てる農家。
+j	紡績突起	bosekitokki	「出糸突起」の旧称。
+j	貿易収支	boekishushi	外国との貿易で生じる国際収支。
+j	貿易欠損	boekikesson	
+j	防共協定	bokyokyotei	the Anti-Comintern Pact
+j	防塵マスク	bojinmasuku	浮遊する粉塵などの吸入を防止するため口と鼻の周囲を…
+j	防弾チョッキ	bodanchokki	
+j	防災訓練	bosaikunren	主に災害が発生した際の初期消火など拡大の防止や避難…
+j	防犯カメラ	bohankamera	security camera
+k	보건체조	bogeonchejo	
+k	보격조사	bogyeokjosa	(언어) 문장 안에서, 체언이 보어임을 표시하…
+k	보관증	bogwanjeung	
+k	보국포장	bogukpojang	
+k	보그르르	bogeureureu	while boiling suddenly or…
+k	보글대다	bogeuldaeda	'보글거리다'.
+k	보급량	bogeumnyang	
+k	보도독하다	bododokhada	
+k	보드레하다	bodeurehada	
+k	보득대다	bodeukdaeda	'보드득대다'의 준말.
+k	보디빌딩	bodibilding	bodybuilding
+k	보리길금	borigilgeum	
+k	보물찾기	bomulchatgi	
+k	보병대	bobyeongdae	
+k	보병목	bobyeongmok	
+k	보복관세	bobokgwanse	
+k	보복주의자	bobokjuuija	
+k	보사삭하다	bosasakhada	
+k	보살형	bosalhyeong	
+k	보석반지	boseokbanji	
+k	보세창고	bosechanggo	구역의 하나. 를 물거나 하는 따위의 절차가 …
+k	보슬대다	boseuldaeda	'보슬거리다'.
+k	보습뼈	boseupppyeo	
+k	보시락하다	bosirakhada	
+k	보싹대다	bossakdaeda	'보싹거리다'.
+k	보안처분	boancheobun	
+k	보온밥통	boonbaptong	thermal rice cooker
+k	보온장치	boonjangchi	thermostat
+k	보육학교	boyukhakgyo	
+k	보장되다	bojangdoeda	
+k	보조 용언	bojoyongeon	본용언과 연결되어 그것의 뜻을 보충하는 역할을…
+k	보조원장	bojowonjang	
+k	보조정리	bojojeongni	lemma
+k	보존과학	bojongwahak	
+k	보증금	bojeunggeum	deposit (money given as a…
+k	보증하다	bojeunghada	to guarantee; to assure; …
+k	보지직하다	bojijikhada	
+k	보초병	bochobyeong	
+k	보충법	bochungbeop	suppletion
+k	보충수요	bochungsuyo	
+k	보충역	bochungyeok	
+k	보충적	bochungjeok	
+k	보충하다	bochunghada	to supplement
+k	보컬 부분	bokeolbubun	
+k	보트니아 만	boteuniaman	
+k	보편적	bopyeonjeok	(being) universal, ubiqui…
+k	보행하다	bohaenghada	여기저기를 걸으면서 돌아다니다.
+k	보험기간	boheomgigan	
+k	보험사업	boheomsaeop	
+k	보험회사	boheomhoesa	
+k	보호수면	bohosumyeon	
+k	보호처분	bohocheobun	
+k	복거지계	bokgeojigye	앞의 수레가 엎어지는 것을 보고 뒤의 수레는 …
+k	복고여산	bokgoyeosan	배가 산처럼 높다는 뜻으로, 아이 밴 여자의 …
+k	복관절	bokgwanjeol	
+k	복구공사	bokgugongsa	원형에서 흐트러진 것을 다시 본디의 상태로 만…
+k	복귀되다	bokgwidoeda	
+k	복닥대다	bokdakdaeda	'복닥거리다'.
+k	복덕궁	bokdeokgung	
+k	복덕방	bokdeokbang	
+k	복리사업	bongnisaeop	
+k	복막염	bongmagyeom	복막(腹膜)에 생기는 염증. 배 속에 장액, …
+k	복모불임	bongmoburim	삼가 사모하는 마음 그지없어 어찌할 바를 모르…
+k	복받치다	bokbatchida	to gush out; to well up; …
+k	복복대다	bokbokdaeda	'복복거리다'.
+k	복사강도	boksagangdo	복사의 진행방향에 직각인 단위면적을 단위시간에…
+k	복사에너지	boksaeneoji	적외선이나 가시광선 등의 복사선이 운반하는 에…
+k	복서증	bokseojeung	
+k	복선법	bokseonbeop	
+k	복수관세	boksugwanse	동일 품목에 대하여 둘 이상의 관세율이 적용되…
+k	복수형	boksuhyeong	plural form
+k	복습하다	bokseuphada	to revise, to review, to …
+k	복승식	bokseungsik	
+k	복심지질	boksimjijil	배와 가슴의 질환. 해소하지 못하는 걱정거리.
+k	복싱 링	boksingring	
+k	복용하다	bogyonghada	to take medicine
+k	복원력	bogwollyeok	
+k	복원성	bogwonseong	
+k	복인복과	boginbokgwa	
+k	복작대다	bokjakdaeda	'복작거리다'.
+k	복잡괴기	bokjapgoegi	
+k	복잡기괴	bokjapgigoe	
+k	복종하다	bokjonghada	to obey
+k	복지부동	bokjibudong	
+k	복지시설	bokjisiseol	
+k	복합국가	bokhapgukga	
+k	복합되다	bokhapdoeda	여러 개가 합쳐져서 하나가 되다.
+k	복합박자	bokhapbakja	같은 종류의 홑박자가 여러 개 합쳐진 박자. …
+k	복합사회	bokhapsahoe	
+k	복합지질	bokhapjijil	
+k	본그림자	bongeurimja	
+k	본남편	bonnampyeon	
+k	본다이 비치	bondaibichi	
+k	본다이비치	bondaibichi	
+k	본정신	bonjeongsin	
+k	볼각대다	bolgakdaeda	'볼각거리다'.
+k	볼그스레	bolgeuseure	산뜻하게 조금 붉은 모양.
+k	볼똑하다	bolttokhada	
+k	볼뚝하다	bolttukhada	
+k	볼라퓌크	bollapwikeu	(언어) 1880년에 독일인 목사 슐라이어가 …
+k	볼런티어	bolleontieo	volunteer
+k	볼록거울	bollokgeoul	
+k	볼록대다	bollokdaeda	'볼록거리다'.
+k	볼룩대다	bollukdaeda	
+k	볼링공	bollinggong	bowling ball
+k	볼링장	bollingjang	
+k	볼쏙하다	bolssokhada	
+k	볼쑥하다	bolssukhada	
+k	볼칵대다	bolkakdaeda	'볼칵거리다'.
+k	볼통하다	boltonghada	
+k	볼퉁하다	boltunghada	
+k	볼트미터	bolteumiteo	
+k	볼품없다	bolpumeopda	보기에 초라하다
+k	봄맞이꽃	bommajikkot	
+k	봉고파직	bonggopajik	
+k	봉납하다	bongnaphada	
+k	봉분하다	bongbunhada	to mound a grave
+k	봉선화	bongseonhwa	garden balsam (Impatiens …
+k	봉안되다	bongandoeda	
+k	봉인되다	bongindoeda	
+k	봉작하다	bongjakhada	【…을】 제후(諸侯)로 봉하고 관작(官爵)을 …
+k	봉제완구	bongjewangu	
+k	봉죽꾼	bongjukkkun	
+k	봉죽하다	bongjukhada	
+k	봉직하다	bongjikhada	
+k	봉함하다	bonghamhada	
+k	봉합침	bonghapchim	
+k	봉합하다	bonghaphada	
+k	봉홧대	bonghwatdae	
+k	봉홧둑	bonghwatduk	
+k	봉홧불	bonghwatbul	
+k	봉황루	bonghwangnu	
+k	봉황무	bonghwangmu	영산회상곡에 맞추어 추던 춤.
+e	boarding gate	boardinggate	1 meaning
+e	boarding pass	boardingpass	1 meaning
+e	body language	bodylanguage	1 meaning
+e	bodybuilding	bodybuilding	1 meaning
+e	boiling point	boilingpoint	1 meaning
+e	boogie-woogie	boogiewoogie	1 meaning
+e	book of mormon	bookofmormon	1 meaning
+e	books of moses	booksofmoses	1 meaning
+e	border collie	bordercollie	1 meaning
+e	borosilicate	borosilicate	1 meaning
+e	bottle opener	bottleopener	1 meaning
+e	bottled water	bottledwater	1 meaning
+e	bougainville	bougainville	1 meaning
+e	bouillon cube	bouilloncube	1 meaning
+e	bounty hunter	bountyhunter	1 meaning
+e	bouquet garni	bouquetgarni	1 meaning
+e	bowling alley	bowlingalley	1 meaning
+j	ボイコットする	boikottosuru	
+j	ボクサーブリーフ	bokusaburifu	boxer briefs
+j	ボクシング・デー	bokushingude	Boxing Day
+j	ボストンバッグ	bosutonbaggu	底が長方形の旅行やスポーツなどで利用される手提げか…
+j	ボタン隠し	botankakushi	
+j	ボディーコンシャス	bodikonshasu	bodycon
+j	ボトルキャップ	botorukyappu	bottle cap
+j	ボトルシップ	botorushippu	a ship in a bottle
+j	ボトル・シップ	botorushippu	
+j	ボブロス画法	boburosugaho	油絵の技法のひとつ。ウエットオンウエットと呼ばれる…
+j	ボルシェヴィキ	borushevuiki	「ボリシェヴィキ」の表記ゆれ。
+j	ボルシエヴィキ	borushieviki	
+j	ボルシエヴィキー	borushieviki	
+j	ボンバージャケット	bonbajaketto	米軍の航空機乗務員向けに作られたジャケット。ボマー…
+j	ボーイミーツガール	boimitsugaru	boy meets girl
+j	ボールベアリング	borubearingu	ball bearing
+j	亡命希望者	bomeikibosha	asylum seeker (one who se…
+j	傍系尊属	bokeisonzoku	傍系血族のうち自分より上の世代のもの。おじ、おばな…
+j	傍観者効果	bokanshakoka	
+j	勃発する	boppatsusuru	
+j	卜占術	bokusenjutsu	divination techniques and…
+j	墓穴を掘る	boketsuohoru	墓穴を掘る。
+j	暴力装置	boryokusochi	軍隊や警察など、反逆する者に対し武力を行使できる組…
+j	牧畜業	bokuchikugyo	畜産業のうち、家畜を人工的に養育する事業。
+j	牧畜犬	bokuchikuken	herding dog
+j	貿易摩擦	boekimasatsu	trade friction, trade con…
+k	보각거리다	bogakgeorida	술 따위가 발효하여 거품이 생기는 소리가 잇따…
+k	보결생	bogyeolsaeng	
+k	보골거리다	bogolgeorida	
+k	보관시키다	bogwansikida	
+k	보국훈장	bogukhunjang	
+k	보그그하다	bogeugeuhada	
+k	보근보근	bogeunbogeun	
+k	보글보글	bogeulbogeul	boilingly; bubblingly
+k	보도독대다	bododokdaeda	'보도독거리다'.
+k	보동보동	bodongbodong	통통하게 살이 찌고 보드라운 모양.
+k	보득보득	bodeukbodeuk	
+k	보들보들	bodeulbodeul	
+k	보로통하다	borotonghada	불만스럽거나 못마땅하여 성난 빛이 얼굴에 조금…
+k	보르르하다	boreureuhada	
+k	보리깜부기	borikkambugi	
+k	보무당당	bomudangdang	
+k	보병궁	bobyeonggung	Aquarius
+k	보보디울라소	bobodiullaso	
+k	보사삭대다	bosasakdaeda	'보삭대다'의 본말.
+k	보삭거리다	bosakgeorida	마른 물건이 가볍게 바스러지는 소리가 잇따라 …
+k	보세공장	bosegongjang	
+k	보송보송	bosongbosong	
+k	보스락하다	boseurakhada	
+k	보스스하다	boseuseuhada	
+k	보슬보슬	boseulboseul	being too lacking in mois…
+k	보시닥대다	bosidakdaeda	
+k	보시락대다	bosirakdaeda	
+k	보신지책	bosinjichaek	
+k	보실거리다	bosilgeorida	(of rain, snow, etc.) to …
+k	보싹보싹	bossakbossak	while crumbling again and…
+k	보쌈김치	bossamgimchi	
+k	보양청	boyangcheong	
+k	보이스 피싱	boiseupising	
+k	보이스카우트	boiseukauteu	
+k	보이즈 러브	boijeureobeu	boys' love, a genre of cu…
+k	보이프렌드	boipeurendeu	boyfriend
+k	보조배터리	bojobaeteori	
+k	보존등기	bojondeunggi	
+k	보증대부	bojeungdaebu	
+k	보증수표	bojeungsupyo	지급이 보증된다는 뜻으로, '자기앞 수표'를 …
+k	보증준비	bojeungjunbi	
+k	보지직대다	bojijikdaeda	
+k	보직거리다	bojikgeorida	
+k	보질거리다	bojilgeorida	
+k	보충되다	bochungdoeda	
+k	보충수업	bochungsueop	
+k	보통거래	botonggeorae	
+k	보통교육	botonggyoyuk	
+k	보통예금	botongyegeum	
+k	보통우편	botongupyeon	
+k	보통학교	botonghakgyo	
+k	보편성	bopyeonseong	
+k	보험계약	boheomgyeyak	
+k	보험업계	boheomeopgye	
+k	보현보살	bohyeonbosal	
+k	보호관찰	bohogwanchal	
+k	보호정치	bohojeongchi	
+k	복공증	bokgongjeung	
+k	복닥복닥	bokdakbokdak	
+k	복덕성	bokdeokseong	
+k	복량학	bongnyanghak	
+k	복련좌	bongnyeonjwa	
+k	복룡간	bongnyonggan	
+k	복리시설	bongnisiseol	국민의 사회 복지를 위한 시설. 양로원, 모자…
+k	복막임신	bongmagimsin	수정란이 복막 위에 착상(着床)하여 발육하는 …
+k	복명수	bongmyeongsu	
+k	복배수적	bokbaesujeok	복배(배와 등), 즉 앞과 뒤로 적을 맞딱뜨림.
+k	복사난방	boksananbang	벽ㆍ천장ㆍ바닥 따위에 관(管)을 설치하고 더운…
+k	복색광	boksaekgwang	
+k	복선궤도	bokseongwedo	오고 가는 차가 따로 다닐 수 있도록 선로를 …
+k	복성설	bokseongseol	
+k	복성종	bokseongjong	
+k	복수국적	boksugukjeok	
+k	복수여권	boksuyeogwon	특별한 볼일로 여러 차례 외국에 드나드는 사람…
+k	복수작용	boksujagyong	
+k	복수환율	boksuhwanyul	국제 수지의 균형과 환시세의 안정을 꾀하려고 …
+k	복숭아꽃	boksungakkot	
+k	복숭아나무	boksunganamu	
+k	복숭아색	boksungasaek	
+k	복스럽다	bokseureopda	to be happy-looking; (of …
+k	복식호흡	boksikhoheup	
+k	복식화산	boksikhwasan	여러 번에 걸쳐 불연속적인 작은 화산체가 형성…
+k	복신복신	boksinboksin	
+k	복실복실	boksilboksil	
+k	복실자방	boksiljabang	
+k	복용량	bogyongnyang	dose; dosage
+k	복음교회	bogeumgyohoe	
+k	복작복작	bokjakbokjak	
+k	복창하다	bokchanghada	
+k	복합섬유	bokhapseomyu	
+k	복합화산	bokhaphwasan	
+k	복호동순	bokhodongsun	
+k	복호화하다	bokhohwahada	
+k	복화합물	bokhwahammul	
+k	볶은 계란	bokeungyeran	
+k	볶음우동	bokkeumudong	
+k	본격적	bongyeokjeok	genuine, authentic
+k	본질적인	bonjiljeogin	
+k	볼가닥하다	bolgadakhada	
+k	볼각볼각	bolgakbolgak	
+k	볼강대다	bolgangdaeda	'볼강거리다'.
+k	볼근대다	bolgeundaeda	'볼근거리다'.
+k	볼끈하다	bolkkeunhada	
+k	볼드스팟	boldeuseupat	
+k	볼똑대다	bolttokdaeda	'볼똑거리다'.
+k	볼뚝대다	bolttukdaeda	
+k	볼록볼록	bollokbollok	
+k	볼룩볼룩	bollukbolluk	
+k	볼셰비즘	bolsyebijeum	
+k	볼쏙대다	bolssokdaeda	'볼쏙거리다'.
+k	볼쑥대다	bolssukdaeda	
+k	볼칵볼칵	bolkakbolkak	지직한 반죽이나 진흙 따위를 자꾸 조금 쑤시거…
+k	볼톡볼톡	boltokboltok	
+k	볼통대다	boltongdaeda	'볼통거리다'.
+k	볼툭볼툭	boltukboltuk	
+k	봅슬레드	bopseulledeu	
+k	봇짐장사	botjimjangsa	
+k	봇짐장수	botjimjangsu	
+k	봉건적	bonggeonjeok	
+k	봉건제도	bonggeonjedo	feudalism, the feudal sys…
+k	봉건주의	bonggeonjuui	
+k	봉송하다	bongsonghada	
+k	봉쇄하다	bongswaehada	
+k	봉양하다	bongyanghada	
+k	봉의군신	bonguigunsin	
+k	봉착하다	bongchakhada	to face or run into a dif…
+k	봉축하다	bongchukhada	
+k	봉헌기도	bongheongido	
+k	봉헌하다	bongheonhada	(기독교) 신자들이 자발적으로 예물을 바치는 …
+k	봉황목	bonghwangmok	
+k	봉황문	bonghwangmun	
+k	봉황새	bonghwangsae	중국의 전설에 나오는 새 이름. 몸의 앞쪽 반…
+e	boarding house	boardinghouse	1 meaning
+e	bobo-dioulasso	bobodioulasso	1 meaning
+e	body mass index	bodymassindex	1 meaning
+e	bondi junction	bondijunction	1 meaning
+e	book of concord	bookofconcord	1 meaning
+e	botanical name	botanicalname	1 meaning
+e	bougainvillea	bougainvillea	1 meaning
+e	bouillabaisse	bouillabaisse	1 meaning
+e	bound morpheme	boundmorpheme	1 meaning
+e	bound variable	boundvariable	1 meaning
+e	boustrophedon	boustrophedon	1 meaning
+e	box-office bomb	boxofficebomb	1 meaning
+j	ぼうっとしている	bottoshiteiru	
+j	ボイラー整備士	boiraseibishi	ボイラーの整備を行う職業。
+j	ボイルの法則	boirunohosoku	気体の容積が圧力に温度で反比例する法則。マリオット…
+j	ボウリング選手	boringusenshu	
+j	ボシュニャク人	boshunyakujin	イスラム教に改宗した南スラヴ人。ムスリム人。ボスニ…
+j	ボディビルディング	bodibirudingu	
+j	ボトルディギング	botorudigingu	海岸や山林などに廃棄されたガラス瓶やその破片を採集…
+j	ボボ・ディウラッソ	bobodhiurasso	
+j	ボリシェビズム	borishebizumu	
+j	ボリシェヴィズム	borishevizumu	
+j	ボルシェビズム	borushebizumu	
+j	ボルシェヴィズム	borushevizumu	
+j	ボーディングスクール	bodingusukuru	a boarding school
+j	冒険小説	bokenshosetsu	冒険を通して主人公が未知の領域への挑戦や成長してい…
+j	呆然とさせる	bozentosaseru	
+j	妨害工作員	bogaikosakuin	
+j	撲滅する	bokumetsusuru	
+j	棒引きにする	boubikinisuru	
+j	牧地マリ語	bokuchimarigo	
+j	茫然自失	bozenjishitsu	stupefaction
+k	보결시험	bogyeolsiheom	
+k	보궐선거	bogwolseongeo	
+k	보균식물	bogyunsingmul	
+k	보글거리다	bogeulgeorida	적은 양의 액체가 야단스럽게 끓다.
+k	보도연맹	bodoyeonmaeng	
+k	보드득하다	bodeudeukhada	
+k	보득거리다	bodeukgeorida	'보드득거리다'의 준말.
+k	보리막걸리	borimakgeolli	
+k	보리숭늉	borisungnyung	
+k	보상가격	bosanggagyeok	특정물의 수용과 징발 따위에 있어서 그 손실의…
+k	보색관계	bosaekgwangye	
+k	보수정당	bosujeongdang	
+k	보스닥대다	boseudakdaeda	
+k	보스락대다	boseurakdaeda	'보스락거리다'.
+k	보슬거리다	boseulgeorida	눈이나 비가 가늘고 성기게 조용히 내리다.
+k	보싹거리다	bossakgeorida	마른 물건이 가볍게 바스러지는 소리가 잇따라 …
+k	보유스레하다	boyuseurehada	
+k	보유스름히	boyuseureumhi	
+k	보임광선	boimgwangseon	'가시광선'의 북한말.
+k	보조관념	bojogwannyeom	
+k	보조관측	bojogwancheuk	국내적으로 교환될 수 있는 관측 자료를 생산하…
+k	보증계약	bojeunggyeyak	
+k	보증사채	bojeungsachae	
+k	보증채무	bojeungchaemu	
+k	보충병	bochungbyeong	
+k	보통문관	botongmungwan	
+k	보통선거	botongseongeo	
+k	보통열차	botongyeolcha	
+k	보통작물	botongjangmul	
+k	보행기관	bohaenggigwan	
+k	보험가격	boheomgagyeok	
+k	보험약관	boheomyakgwan	
+k	복궤철도	bokgwecheoldo	
+k	복닥거리다	bokdakgeorida	많은 사람이 좁은 곳에 모여 수선스럽게 뒤끓다.
+k	복명서	bongmyeongseo	
+k	복벽반사	bokbyeokbansa	
+k	복복거리다	bokbokgeorida	보드랍고 무른 물건의 거죽을 세게 갈거나 긁는…
+k	복불재강	bokbuljaegang	양자 나간 사람이나 출가한 여자가 본생가나 친…
+k	복사냉각	boksanaenggak	대기 복사에 의한 대기의 냉각과 지구 복사에 …
+k	복사법칙	boksabeopchik	복사에너지와 온도와의 관계를 규정한 법칙.
+k	복사역전	boksayeokjeon	낮에 태양복사에 의해 가열된 공기가 야간에는 …
+k	복사전열	boksajeonyeol	복사에 의하여 열이 이동하는 일.
+k	복선화음	bokseonhwaeum	선한 자에게 복이 있되, 사악한 자에게는 화가…
+k	복숭아뼈	boksungappyeo	'복사뼈'.
+k	복식학급	boksikhakgeup	두 학년 이상의 학생들로 편성한 학급.
+k	복싱 선수	boksingseonsu	a boxer
+k	복원추출	bogwonchuchul	
+k	복음삼덕	bogeumsamdeok	복음으로 지키기를 권고하여 예수가 가르친 세 …
+k	복작거리다	bokjakgeorida	많은 사람이 좁은 곳에 모여 수선스럽게 자꾸 …
+k	복잡반응	bokjapbaneung	
+k	복지연금	bokjiyeongeum	늙거나 질병, 사망 따위를 당했을 경우에 본인…
+k	복창증	bokchangjeung	
+k	복합반응	bokhapbaneung	
+k	복화실험	bokhwasilheom	
+k	본초자오선	bonchojaoseon	
+k	볼각거리다	bolgakgeorida	조금 질긴 물건을 입에 가득 물고 잇따라 씹다.
+k	볼고그라드	bolgogeuradeu	
+k	볼끈대다	bolkkeundaeda	'볼끈거리다'.
+k	볼똥대다	bolttongdaeda	'볼똥거리다'.
+k	볼록거리다	bollokgeorida	물체의 거죽이 연방 쏙 내밀렸다 들어갔다 하다…
+k	볼록렌즈	bollongnenjeu	
+k	볼룩거리다	bollukgeorida	
+k	볼링 선수	bollingseonsu	
+k	볼칵거리다	bolkakgeorida	지직한 반죽이나 진흙 따위를 조금 쑤시거나 주…
+k	봉건사회	bonggeonsahoe	
+k	봉봉대다	bongbongdaeda	'봉봉거리다'.
+k	봉쇄되다	bongswaedoeda	
+k	봉신연의	bongsinyeonui	Investiture of the Gods (…
+k	봉와직염	bongwajigyeom	
+k	봉정하다	bongjeonghada	
+k	봉착되다	bongchakdoeda	
+k	봉황자리	bonghwangjari	
+e	boa constrictor	boaconstrictor	1 meaning
+e	boarding school	boardingschool	1 meaning
+e	bonaparte's gull	bonapartesgull	1 meaning
+e	bookstagrammer	bookstagrammer	1 meaning
+e	boolean algebra	booleanalgebra	1 meaning
+e	bouches-du-rhône	bouchesdurhone	1 meaning
+e	bouncing castle	bouncingcastle	1 meaning
+e	bowman's capsule	bowmanscapsule	1 meaning
+j	ボイストレーニング	boisutoreningu	voice training
+j	ボイスパーカッション	boisupakasshon	vocal percussion
+j	ボイスビッシング	boisubisshingu	
+j	ボック・グロビュール	bokkugurobyuru	
+j	ボナパルティズム	bonaparutizumu	
+j	傍系血族	bokeiketsuzoku	同じ祖先から分かれた（傍系の）血族。兄弟姉妹、おじ…
+j	嘸蝦米輸入法	boshamiyunyuho	
+j	暴力革命	boryokukakumei	武力を用いて政府を打倒し共産主義を成し遂げる革命。
+j	棒渦巻銀河	bouzumakiginga	a barred spiral galaxy
+j	母指内転筋	boshinaitenkin	an adductor pollicis
+j	母趾内転筋	boshinaitenkin	an adductor hallucis
+j	母趾外転筋	boshigaitenkin	an abductor hallucis
+j	没分暁漢	botsubungyokan	道理を知らない男。説明、説得しても分からない男。わ…
+j	防水加工する	bousuikakosuru	
+k	보각보각하다	bogakbogakhada	
+k	보결선거	bogyeolseongeo	
+k	보골보골하다	bogolbogolhada	
+k	보내는 사람	bonaeneunsaram	
+k	보도독거리다	bododokgeorida	단단하고 질기거나 반드러운 물건을 야무지게 비…
+k	보도독보도독	bododokbododok	
+k	보독보독하다	bodokbodokhada	
+k	보드득대다	bodeudeukdaeda	'보드득거리다'.
+k	보드등하다	bodeudeunghada	
+k	보디 랭귀지	bodiraenggwiji	
+k	보병학교	bobyeonghakgyo	
+k	보사삭거리다	bosasakgeorida	'보삭거리다'의 본말.
+k	보사삭보사삭	bosasakbosasak	'보삭보삭'의 본말.
+k	보삭보삭하다	bosakbosakhada	
+k	보시닥거리다	bosidakgeorida	
+k	보시닥보시닥	bosidakbosidak	
+k	보시락거리다	bosirakgeorida	
+k	보시락보시락	bosirakbosirak	
+k	보실보실하다	bosilbosilhada	
+k	보안경찰	boangyeongchal	
+k	보이스뱅크	boiseubaengkeu	
+k	보일의 법칙	boiruibeopchik	일정 온도에서 기체의 압력과 그 부피는 서로 …
+k	보잘것없다	bojalgeodeopda	to be worthless, valueles…
+k	보조 순양함	bojosunyangham	
+k	보증책임	bojeungchaegim	
+k	보지직거리다	bojijikgeorida	
+k	보지직보지직	bojijikbojijik	
+k	보직보직하다	bojikbojikhada	
+k	보질보질하다	bojilbojilhada	
+k	보충선거	bochungseongeo	
+k	보컬리스트	bokeolliseuteu	
+k	보통개념	botonggaenyeom	
+k	보통명사	botongmyeongsa	
+k	보통은행	botongeunhaeng	
+k	보통존칭	botongjonching	
+k	보풀보풀하다	bopulbopulhada	
+k	보험증서	boheomjeungseo	
+k	복강천자	bokgangcheonja	
+k	복과재생	bokgwajaesaeng	복이 너무 지나치면 도리어 재앙이 생김.
+k	복구현상	bokguhyeonsang	
+k	복분자딸기	bokbunjattalgi	Korean blackberry (Rubus …
+k	복사등급	boksadeunggeup	
+k	복성화산	bokseonghwasan	(지구) 화산 쇄설물과 용암류 따위가 산꼭대기…
+k	복슬복슬	bokseulbokseul	
+k	복식경기	boksikgyeonggi	
+k	복음합창	bogeumhapchang	
+k	복합 명사	bokhapmyeongsa	둘 이상의 말로 이루어진 명사.
+k	복합개념	bokhapgaenyeom	
+k	본다이 해변	bondaihaebyeon	
+k	본연지성	bonyeonjiseong	사람이 태어날 때부터 본래 가지고 있는 순수하…
+k	본질적으로	bonjiljeogeuro	
+k	볼강거리다	bolganggeorida	질기고 단단한 물건이 잘 씹히지 아니하고 입 …
+k	볼강볼강	bolgangbolgang	
+k	볼근거리다	bolgeungeorida	조금 질기고 단단한 물건이 입 안에서 자꾸 씹…
+k	볼근볼근	bolgeunbolgeun	
+k	볼기짝얼레	bolgijjageolle	
+k	볼똑거리다	bolttokgeorida	경망스럽게 갑자기 자꾸 성을 내다.
+k	볼똑볼똑	bolttokbolttok	
+k	볼뚝거리다	bolttukgeorida	
+k	볼쏙거리다	bolssokgeorida	갑자기 볼록하게 쏙 나오거나 내밀다.
+k	볼쏙볼쏙	bolssokbolssok	
+k	볼쑥거리다	bolssukgeorida	
+k	볼쑥볼쑥	bolssukbolssuk	
+k	볼통거리다	boltonggeorida	걸핏하면 얼굴이 볼록해지면서 성을 내며 함부로…
+k	볼통볼통	boltongboltong	
+k	볼퉁볼퉁	boltungboltung	
+k	봉산탈춤	bongsantalchum	
+k	봉쇄체계	bongswaechegye	
+k	봉제공장	bongjegongjang	
+k	봉함엽서	bonghamyeopseo	
+e	body temperature	bodytemperature	1 meaning
+e	bohemian waxwing	bohemianwaxwing	1 meaning
+e	bolt from the blue	boltfromtheblue	1 meaning
+e	borrowed scenery	borrowedscenery	1 meaning
+e	botanical garden	botanicalgarden	1 meaning
+j	ボイラー溶接士	boirayosetsushi	ボイラーの溶接を行う職業。
+j	ボックスカルバート	bokkusukarubato	地中で水道管や電線を覆うために使用する構造物。
+j	ボリビアスペイン語	boribiasupeingo	ボリビアで話されているスペイン語の変種。
+j	ボルネオヤマネコ	boruneoyamaneko	ネコ目ネコ科マーブルキャット属に属する食肉類の一種…
+j	ボンダイジャンクション	bondaijankushon	
+j	ボンダイ・ジャンクション	bondaijankushon	
+j	ボールウェイン積分	boruweinsekibun	sinc関数の積の広義積分 I=∫₀ ᪲(∏_(k…
+j	傍系親族の	bokeishinzokuno	
+k	보그르르하다	bogeureureuhada	
+k	보드등대다	bodeudeungdaeda	'보드등거리다'.
+k	보스닥거리다	boseudakgeorida	
+k	보스락거리다	boseurakgeorida	마른 잎이나 검불, 종이 따위를 가볍게 밟거나…
+k	보여주기 재판	boyeojugijaepan	
+k	보유스름하다	boyuseureumhada	
+k	보증채권	bojeungchaegwon	
+k	보충판결	bochungpangyeol	
+k	보험증권	boheomjeunggwon	
+k	복강동맥	bokgangdongmaek	척추동물에서 복부 소화 기관의 윗부분과 지라를…
+k	복소해석학	boksohaeseokhak	
+k	복잡다단하다	bokjapdadanhada	일이 여러 가지가 얽혀 있거나 어수선하여 갈피…
+k	복합영농	bokhabyeongnong	
+k	볼가닥거리다	bolgadakgeorida	
+k	볼끈거리다	bolkkeungeorida	작은 물체 따위가 도드라지게 자꾸 치밀거나 솟…
+k	볼똥거리다	bolttonggeorida	걸핏하면 얼굴이 볼록해지면서 성을 내며 함부로…
+k	볼로네즈 소스	bollonejeusoseu	
+k	봉봉거리다	bongbonggeorida	문풍지 따위가 뚫어지는 가벼운 소리가 잇따라 …
+e	board of directors	boardofdirectors	1 meaning
+e	bombardier beetle	bombardierbeetle	1 meaning
+j	ボアコンストリクター	boakonsutorikuta	boa constrictor
+j	ボクシンググローブ	bokushingugurobu	boxing glove (padded mitt…
+j	ボスフォラス海峡	bosuporasukaikyo	
+j	ボナパルティズムの	bonaparutizumuno	
+j	ボナパルト鴎	bonaparutokamome	
+j	ボンバルディアビートル	bonbarudiabitoru	
+j	坊さんが屁をこいた	bonsangaheokoita	
+j	棒高跳び選手	botakatobisenshu	
+j	母指対立筋	boshitairitsukin	an opponens pollicis musc…
+j	膀胱括約筋	bokokatsuyakukin	a vesical sphincter
+k	보검선인장	bogeomseoninjang	prickly pear cactus
+k	보근보근하다	bogeunbogeunhada	
+k	보글보글하다	bogeulbogeulhada	
+k	보나파르트주의	bonapareuteujuui	
+k	보동보동하다	bodongbodonghada	
+k	보드득거리다	bodeudeukgeorida	단단하고 질기거나 반드러운 물건을 야무지게 문…
+k	보득보득하다	bodeukbodeukhada	
+k	보들보들하다	bodeulbodeulhada	
+k	보송보송하다	bosongbosonghada	
+k	보스닥보스닥	boseudakboseudak	
+k	보스락보스락	boseurakboseurak	very softly rustlingly; w…
+k	보슬보슬하다	boseulboseulhada	
+k	보싹보싹하다	bossakbossakhada	
+k	보완적 반의어	bowanjeogbanuieo	
+k	보잘것없는	bojalgeodeomneun	'보잘것없다'의 관형사형.
+k	보조 형용사	bojohyeongyongsa	의미를 보충하는 역할을 하는 형용사.
+k	보통경찰	botonggyeongchal	
+k	복닥복닥하다	bokdakbokdakhada	
+k	복소평면	boksopyeongmyeon	복소수를 좌표평면에 나타내어 복소수의 기하학적…
+k	복신복신하다	boksinboksinhada	
+k	복실복실하다	boksilboksilhada	
+k	복엽비행기	bogyeopbihaenggi	
+k	복작복작하다	bokjakbokjakhada	
+k	본다이 정션	bondaijeongsyeon	
+k	본다이정션	bondaijeongsyeon	
+k	볼가닥볼가닥	bolgadakbolgadak	
+k	볼각볼각하다	bolgakbolgakhada	
+k	볼그족족하다	bolgeujokjokhada	칙칙하고 고르지 아니하게 볼그스름하다.
+k	볼끈볼끈	bolkkeunbolkkeun	
+k	볼똥볼똥	bolttongbolttong	
+k	볼록볼록하다	bollokbollokhada	
+k	볼룩볼룩하다	bollukbollukhada	
+k	볼칵볼칵하다	bolkakbolkakhada	
+k	볼톡볼톡하다	boltokboltokhada	
+k	볼툭볼툭하다	boltukboltukhada	
+e	bottlenose dolphin	bottlenosedolphin	1 meaning
+j	ぼんやりと暗示する	bonyaritoanjisuru	
+j	ボクシングのリング	bokushingunoringu	
+k	보드등거리다	bodeudeunggeorida	단단하고 매끄럽거나 반드러운 작은 물건을 세게…
+k	보병전투차	bobyeongjeontucha	
+k	복날에 개 잡듯	boknalegaejapdeut	몹시 심하게 때리거나 맞는 모양을 비유적으로 …
+k	복합 대명사	bokhapdaemyeongsa	둘 이상의 말로 이루어진 대명사.
+k	봉급생활	bonggeupsaenghwal	
+j	ボツリヌス中毒	botsurinusuchudoku	
+k	보도독보도독하다	bododokbododokhada	
+k	보드득보드득	bodeudeukbodeudeuk	
+k	보사삭보사삭하다	bosasakbosasakhada	'보삭보삭하다'의 본말.
+k	보시닥보시닥하다	bosidakbosidakhada	
+k	보시락보시락하다	bosirakbosirakhada	
+k	보지직보지직하다	bojijikbojijikhada	
+k	보편관할권	bopyeongwanhalgwon	
+k	복명복창	bongmyeongbokchang	상급자가 내린 명령ㆍ지시를 되풀이하여 말함. …
+k	복슬복슬하다	bokseulbokseulhada	
+k	복합적개념	bokhapjeokgaenyeom	
+k	본태성 진전	bontaeseongjinjeon	
+k	볼강볼강하다	bolgangbolganghada	
+k	볼근볼근하다	bolgeunbolgeunhada	
+k	볼똑볼똑하다	bolttokbolttokhada	
+k	볼뚝볼뚝하다	bolttukbolttukhada	
+k	볼쏙볼쏙하다	bolssokbolssokhada	
+k	볼쑥볼쑥하다	bolssukbolssukhada	
+k	볼통볼통하다	boltongboltonghada	
+k	볼퉁볼퉁하다	boltungboltunghada	
+k	봄맞이 대청소	bommajidaecheongso	
+k	봄어리표범나비	bomeoripyobeomnabi	네발나비과의 하나. 편 날개의 길이는 4cm이…
+j	ボーイフレンドがいますか	boifurendogaimasuka	
+j	ボース゠アインシュタイン統計	bosuainshutaintokei	Bose-Einstein statistics
+k	봉급생활자	bonggeupsaenghwalja	
+e	bosnia and herzegovina	bosniaandherzegovina	1 meaning
+j	ボキャブラリービルディング	bokyaburaribirudingu	building one's vocabulary
+j	ボスニア・ヘルツェゴビナ	bosuniaherutsegobina	Bosnia and Herzegovina (a…
+j	ボスニア・ヘルツェゴヴィナ	bosuniaherutsegovina	「ボスニア・ヘルツェゴビナ」を参照。
+k	보드등보드등	bodeudeungbodeudeung	
+k	보상적 장음화	bosangjeokjangeumhwa	
+k	보스닥보스닥하다	boseudakboseudakhada	
+k	보스락보스락하다	boseurakboseurakhada	
+k	보스포루스 해협	boseuporuseuhaehyeop	
+k	볼가닥볼가닥하다	bolgadakbolgadakhada	
+k	볼끈볼끈하다	bolkkeunbolkkeunhada	
+k	볼똥볼똥하다	bolttongbolttonghada	
+k	볼리비아 다국민국	bollibiadagungminguk	
+e	bornean clouded leopard	borneancloudedleopard	1 meaning
+j	ボーダーライン人格障害	bodarainjinkakushogai	
+k	보르네오구름표범	boreuneogureumpyobeom	
+k	보일 샤를의 법칙	boilsyareuruibeopchik	(물리) 기체의 부피는 압력에 반비례하고, 온…
+k	보조기상관측소	bojogisanggwancheukso	제한된 목적으로 일부 기상요소만을 관측하는 관…
+k	보통기후관측소	botonggihugwancheukso	기후 조사를 목적으로 하는 기상관측소.
+k	뵈멘메렌 보호령	boemenmerenbohoryeong	
+e	bose-einstein condensate	boseeinsteincondensate	1 meaning
+e	bose-einstein statistics	boseeinsteinstatistics	1 meaning
+j	ボース゠アインシュタイン凝縮	bosuainshutaingyoshuku	
+k	보드득보드득하다	bodeudeukbodeudeukhada	
+k	보스니아 헤르쩨고비나	boseuniahereujjegobina	나라 이름 '보스니아 헤르체고비나'의 북한말.
+k	보스니아 헤르체고비나	boseuniahereuchegobina	Bosnia and Herzegovina (a…
+k	보즈아인슈타인 응축	bojeuainsyutaineungchuk	
+j	僕と結婚してください	bokutokekkonshitekudasai	
+k	보드등보드등하다	bodeudeungbodeudeunghada	
+k	보스니아 헤르체고비나인	boseuniahereuchegobinain	
+k	보퍼트 풍력 계급	bopeoteupungnyeokgyegeup	
+k	보퍼트풍력계급	bopeoteupungnyeokgyegeup	풍속을 계기 관측이 아닌 목측으로 관측하던 시…
+j	坊主憎けりゃ袈裟まで憎い	bozunikukeryakesamadenikui	love me, love my dog; hat…
+e	bolivarian republic of venezuela	bolivarianrepublicofvenezuela	1 meaning
+e	borderline personality disorder	borderlinepersonalitydisorder	1 meaning
+e	bovine spongiform encephalopathy	bovinespongiformencephalopathy	1 meaning
+e	born with a silver spoon in one's mouth	bornwithasilverspooninonesmouth	1 meaning
+k	복수는 차갑게 내어야 제맛인 요리	boksuneunchagapgenaeeoyajemasinyori	

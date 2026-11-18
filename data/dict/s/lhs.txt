@@ -1,0 +1,4 @@
+e	hsi	hsi	1 meaning
+e	hsk	hsk	1 meaning
+e	hsinchu	hsinchu	1 meaning
+e	hsinking	hsinking	1 meaning

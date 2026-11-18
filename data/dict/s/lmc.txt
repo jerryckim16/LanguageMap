@@ -1,0 +1,6 @@
+e	mcr	mcr	1 meaning
+e	mccain	mccain	1 meaning
+e	mccarthy	mccarthy	1 meaning
+e	mckinley	mckinley	1 meaning
+e	mcdonald's	mcdonalds	1 meaning
+e	mccarthyism	mccarthyism	1 meaning

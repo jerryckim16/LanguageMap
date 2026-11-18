@@ -1,0 +1,167 @@
+k	울	ul	wall, fence
+e	ulch	ulch	1 meaning
+e	ullr	ullr	1 meaning
+e	ulna	ulna	1 meaning
+k	운라	ulla	a set of ten small tuned …
+k	울다	ulda	to cry; to weep
+k	울두	uldu	clothes iron
+k	울보	ulbo	crybaby
+e	ulcer	ulcer	1 meaning
+e	ulsan	ulsan	1 meaning
+e	ultra-	ultra	4 meanings
+e	uluru	uluru	1 meaning
+k	울대	uldae	
+k	울르	ulleu	
+k	울림	ullim	
+k	울밑	ulmit	
+k	울분	ulbun	답답하고 분한 상태.
+k	울산	ulsan	Ulsan (a city in South Ko…
+k	울새	ulsae	A red-tailed robin, redbr…
+k	울걱	ulgeok	격한 감정이 갑자기 일어나는 모양.
+k	울뚝	ulttuk	
+k	울루루	ulluru	Uluru
+k	울리다	ullida	to sound or ring, or make…
+k	울컥	ulkeok	
+k	울타리	ultari	fence; enclosure; hedge
+e	ulan-ude	ulanude	1 meaning
+e	ulexite	ulexite	1 meaning
+e	ulleung	ulleung	1 meaning
+e	ululate	ululate	1 meaning
+k	운량	ullyang	cloud cover, nebulosity
+k	울꺽	ulkkeok	격한 감정이 갑자기 일어나는 모양.
+k	울끈	ulkkeun	
+k	울릉	ulleung	
+k	울리짜	ullijja	road, street
+k	울면	ulmyeon	한국식 중화요리로, 걸쭉하게 국물을 만들어 면…
+k	울창	ulchang	튤립을 넣어서 빚은, 향기 나는 술.
+e	ulcerate	ulcerate	2 meanings
+e	ultimate	ultimate	2 meanings
+k	울란우데	ullanude	Ulan-Ude (the capital cit…
+k	울버린	ulbeorin	wolverine
+e	ulleungdo	ulleungdo	1 meaning
+e	ultimatum	ultimatum	1 meaning
+e	ulyanovsk	ulyanovsk	1 meaning
+k	울거덕	ulgeodeok	
+k	울고불고	ulgobulgo	소리 내어 야단스럽게 부르짖으며 우는 모양.
+k	울레줄레	ullejulle	
+k	울릉도	ulleungdo	
+k	울먹이다	ulmeogida	울상이 되어 자꾸 울음이 터져 나오려고 하다.
+k	울부짖다	ulbujitda	
+k	울커덕	ulkeodeok	
+k	울프컷	ulpeukeot	
+e	ultimately	ultimately	2 meanings
+e	ultraright	ultraright	1 meaning
+e	ultrasonic	ultrasonic	1 meaning
+e	ultrasound	ultrasound	1 meaning
+k	울걱하다	ulgeokhada	
+k	울뚝하다	ulttukhada	
+k	울런공	ulleongong	
+k	울렁이다	ulleongida	너무 놀라거나 두려워서 가슴이 두근거리다.
+k	울룩울룩	ullugulluk	
+k	울먹하다	ulmeokhada	
+k	울부짖음	ulbujijeum	
+k	울적하다	uljeokhada	마음이 답답하고 쓸쓸하다.
+k	울컥하다	ulkeokhada	
+e	ulaanbaatar	ulaanbaatar	1 meaning
+e	ultima thule	ultimathule	1 meaning
+e	ultramarine	ultramarine	3 meanings
+e	ultraviolet	ultraviolet	2 meanings
+k	울걱대다	ulgeokdaeda	'울걱거리다'.
+k	울근대다	ulgeundaeda	'울근거리다'.
+k	울꺽하다	ulkkeokhada	
+k	울끈하다	ulkkeunhada	
+k	울라지미르	ullajimireu	a transliteration of the …
+k	울룩불룩	ullukbulluk	
+k	울먹대다	ulmeokdaeda	'울먹거리다'.
+k	울묵줄묵	ulmukjulmuk	
+k	울창하다	ulchanghada	dense; luxuriant
+k	울컥대다	ulkeokdaeda	'울컥거리다'.
+k	울툭불툭	ultukbultuk	
+k	울화병	ulhwabyeong	
+k	울걱울걱	ulgeogulgeok	
+k	울겅대다	ulgeongdaeda	'울겅거리다'.
+k	울근울근	ulgeunulgeun	
+k	울꺽대다	ulkkeokdaeda	'울꺽거리다'.
+k	울끈대다	ulkkeundaeda	
+k	울뚝울뚝	ulttugulttuk	
+k	울란바타르	ullanbatareu	
+k	울란바토르	ullanbatoreu	Ulaanbaatar (the capital …
+k	울렁대다	ulleongdaeda	'울렁거리다'.
+k	울렁증	ulleongjeung	nausea provoked by anxiety
+k	울먹울먹	ulmeogulmeok	
+k	울컥울컥	ulkeogulkeok	
+k	울퉁울퉁	ultungultung	
+k	울트라마린	ulteuramarin	
+e	ultramarathon	ultramarathon	1 meaning
+k	울거덕하다	ulgeodeokhada	
+k	울걱거리다	ulgeokgeorida	격한 감정이 잇따라 일어나다.
+k	울근거리다	ulgeungeorida	질긴 물건을 입에 넣고 우물거리며 계속 씹다.
+k	울근불근	ulgeunbulgeun	
+k	울긋불긋	ulgeutbulgeut	
+k	울뚝불뚝	ulttukbulttuk	
+k	울란바따르	ullanbattareu	몽골의 수도 이름 '울란바토르'의 북한말.
+k	울먹거리다	ulmeokgeorida	울상이 되어 잇따라 자꾸 울음이 터져 나오려고…
+k	울먹줄먹	ulmeokjulmeok	
+k	울며불며	ulmyeobulmyeo	
+k	울뭉줄뭉	ulmungjulmung	
+k	울쑥불쑥	ulssukbulssuk	
+k	울커덕하다	ulkeodeokhada	
+k	울컥거리다	ulkeokgeorida	격한 감정이 잇따라 일어나다.
+k	울퉁불퉁	ultungbultung	significantly unevenly, s…
+e	ulterior motive	ulteriormotive	1 meaning
+e	ultrastructure	ultrastructure	1 meaning
+k	울거덕대다	ulgeodeokdaeda	
+k	울겅거리다	ulgeonggeorida	단단하고 우둘우둘한 물건이 잘 씹히지 않고 입…
+k	울겅울겅	ulgeongulgeong	
+k	울꺽거리다	ulkkeokgeorida	격한 감정이 잇따라 일어나다.
+k	울꺽울꺽	ulkkeogulkkeok	
+k	울끈거리다	ulkkeungeorida	
+k	울끈울끈	ulkkeunulkkeun	
+k	울렁거리다	ulleonggeorida	너무 놀라거나 두려워서 가슴이 자꾸 두근거리다.
+k	울렁울렁	ulleongulleong	
+k	울멍울멍	ulmeongulmeong	
+k	울커덕대다	ulkeodeokdaeda	
+k	울트라마라톤	ulteuramaraton	
+e	ultramicroscope	ultramicroscope	1 meaning
+k	울겅불겅	ulgeongbulgeong	
+k	울끈불끈	ulkkeunbulkkeun	
+k	울룩불룩하다	ullukbullukhada	
+k	울리야놉스크	ulliyanopseukeu	
+k	울멍줄멍	ulmeongjulmeong	
+k	울묵줄묵하다	ulmukjulmukhada	큼직큼직하고 두드러진 것들이 고르지 않고 빽빽…
+k	울툭불툭하다	ultukbultukhada	
+e	ultranationalism	ultranationalism	1 meaning
+k	울거덕거리다	ulgeodeokgeorida	
+k	울걱울걱하다	ulgeogulgeokhada	자꾸 격한 느낌이 일어나다.
+k	울근울근하다	ulgeunulgeunhada	
+k	울뚝울뚝하다	ulttugulttukhada	
+k	울렁출렁	ulleongchulleong	
+k	울먹울먹하다	ulmeogulmeokhada	
+k	울버햄프턴	ulbeohaempeuteon	
+k	울산광역시	ulsangwangyeoksi	경상남도 북동부에 위치한 광역시.
+k	울커덕거리다	ulkeodeokgeorida	
+k	울컥울컥하다	ulkeogulkeokhada	
+k	울퉁울퉁하다	ultungultunghada	
+k	울근불근하다	ulgeunbulgeunhada	
+k	울긋불긋하다	ulgeutbulgeuthada	
+k	울뚝불뚝하다	ulttukbulttukhada	
+k	울라지보스또크	ullajiboseuttokeu	'블라디보스토크'의 북한말.
+k	울먹줄먹하다	ulmeokjulmeokhada	
+k	울며불며하다	ulmyeobulmyeohada	
+k	울뭉줄뭉하다	ulmungjulmunghada	
+k	울쑥불쑥하다	ulssukbulssukhada	
+k	울퉁불퉁하다	ultungbultunghada	bulging
+k	울거덕울거덕	ulgeodeogulgeodeok	
+k	울겅울겅하다	ulgeongulgeonghada	
+k	울꺽울꺽하다	ulkkeogulkkeokhada	
+k	울끈울끈하다	ulkkeunulkkeunhada	
+k	울렁울렁하다	ulleongulleonghada	
+k	울멍울멍하다	ulmeongulmeonghada	
+k	울커덕울커덕	ulkeodeogulkeodeok	
+k	울겅불겅하다	ulgeongbulgeonghada	
+k	울끈불끈하다	ulkkeunbulkkeunhada	
+k	울멍줄멍하다	ulmeongjulmeonghada	
+e	ultraviolet radiation	ultravioletradiation	1 meaning
+k	울렁출렁하다	ulleongchulleonghada	
+k	울거덕울거덕하다	ulgeodeogulgeodeokhada	
+k	울커덕울커덕하다	ulkeodeogulkeodeokhada	

@@ -1,0 +1,351 @@
+k	카	카	car
+k	칸	칸	room, chamber
+k	칼	칼	knife, sword
+k	카간	카간	
+k	카나	카나	
+k	카논	카논	
+k	카누	카누	
+k	카다	카다	to say that; follows an e…
+k	카드	카드	card
+k	카라	카라	collar
+k	카란	카란	carane
+k	카레	카레	curry
+k	카론	카론	
+k	카르	카르	
+k	카바	카바	이슬람교에서 예배를 위해 향하는 메카의 성전이…
+k	카본	카본	
+k	카불	카불	Kabul (the capital city o…
+k	카브	카브	curve
+k	카빈	카빈	
+k	카샤	카샤	
+k	카스	카스	
+k	카악	카악	
+k	카약	카약	
+k	카옌	카옌	Cayenne (the capital of F…
+k	카인	카인	Cain (son of Adam and Eve)
+k	카잔	카잔	
+k	카차	카차	러시아여성의 이름.
+k	카키	카키	탁한 황갈색. 주로 군복에 많이 쓴다.
+k	카터	카터	
+k	카톡	카톡	a KakaoTalk message
+k	카트	카트	cart (small, open, wheele…
+k	카파	카파	그리스어 알파벳의 열째 글자 (Κ / κ) 이…
+k	카판	카판	
+k	카페	카페	coffee shop, café
+k	카펫	카펫	
+k	카플	카플	couple (two partners in a…
+k	칵칵	칵칵	목구멍에 걸린 것을 힘 있게 자꾸 내뱉는 소리.
+k	칸나	칸나	
+k	칸수	칸수	
+k	칸칸	칸칸	
+k	칸트	칸트	
+k	칼국	칼국	'칼국수'의 북한말.
+k	칼깃	칼깃	
+k	칼끝	칼끝	칼날의 맨 끝.
+k	칼날	칼날	the edge of a sword; the …
+k	칼라	칼라	color
+k	칼락	칼락	가슴 속 얕은 곳에서 힘없이 거칠게 울려 나오…
+k	칼럼	칼럼	column (in a table)
+k	칼륨	칼륨	potassium
+k	칼리	칼리	
+k	칼새	칼새	Pacific swift (Apus pacif…
+k	칼슘	칼슘	calcium
+k	칼질	칼질	
+k	칼집	칼집	sheath, scabbard
+k	칼춤	칼춤	
+k	칼치	칼치	'갈치'의 강원도 사투리.
+k	칼판	칼판	
+k	캄캄	캄캄	아주 까맣게 어두운 모양.
+k	캄판	캄판	camphane
+k	캅셀	캅셀	
+k	카가얀	카가얀	
+k	카게베	카게베	KGB
+k	카공족	카공족	someone who study at a ca…
+k	카나다	카나다	Canada (a country in Nort…
+k	카나페	카나페	
+k	카놀리	카놀리	
+k	카늘레	카늘레	
+k	카니발	카니발	carnival (festive occasio…
+k	카다몸	카다몸	cardamom (Elettaria carda…
+k	카더라	카더라	an unsubstantiated rumor,…
+k	카드뮴	카드뮴	cadmium
+k	카드키	카드키	
+k	카디건	카디건	cardigan
+k	카디프	카디프	
+k	카라긴	카라긴	Irish moss (Chondrus cris…
+k	카라반	카라반	caravan
+k	카라치	카라치	Karachi
+k	카라칼	카라칼	caracal
+k	카라테	카라테	
+k	카루툼	카루툼	수단의 수도 '하르툼'의 북한말.
+k	카르길	카르길	
+k	카르마	카르마	karma
+k	카르텔	카르텔	cartel
+k	카메라	카메라	camera (a device for taki…
+k	카메룬	카메룬	Cameroon (a country in Af…
+k	카모라	카모라	
+k	카밀레	카밀레	국화과의 꽃.
+k	카바디	카바디	kabaddi
+k	카바레	카바레	cabaret
+k	카바졸	카바졸	carbazole
+k	카발라	카발라	
+k	카복실	카복실	
+k	카빈총	카빈총	
+k	카사바	카사바	만디오카(학명: Manihot esculent…
+k	카사타	카사타	
+k	카세린	카세린	
+k	카세트	카세트	cassette
+k	카섹스	카섹스	
+k	카셰이	카셰이	
+k	카스라	카스라	
+k	카스트	카스트	
+k	카시아	카시아	
+k	카오스	카오스	
+k	카와이	카와이	
+k	카우걸	카우걸	cowgirl
+k	카우벨	카우벨	
+k	카우치	카우치	couch
+k	카운터	카운터	counter (object used in c…
+k	카이로	카이로	Cairo (the capital of Egy…
+k	카이만	카이만	caiman
+k	카이저	카이저	
+k	카자크	카자크	
+k	카지노	카지노	casino
+k	카추샤	카추샤	
+k	카친족	카친족	
+k	카카오	카카오	cacao (cacao tree or bean)
+k	카카포	카카포	
+k	카키색	카키색	탁한 황갈색.
+k	카타르	카타르	Qatar (a country in West …
+k	카테터	카테터	
+k	카토이	카토이	
+k	카톨릭	카톨릭	'가톨릭'의 비표준어.
+k	카투사	카투사	Korean Augmentation to th…
+k	카튜샤	카튜샤	
+k	카페인	카페인	caffeine
+k	카프탄	카프탄	
+k	카피르	카피르	
+k	카피스	카피스	
+k	칵테일	칵테일	cocktail
+k	칸델라	칸델라	candela (unit of luminous…
+k	칸막이	칸막이	partition, divider, room …
+k	칸츄리	칸츄리	영어 «country music» (컨트리음악…
+k	칸타타	칸타타	
+k	칸토팝	칸토팝	
+k	칸푸르	칸푸르	
+k	칼국수	칼국수	a kind of Korean noodle t…
+k	칼국시	칼국시	'칼국수'의 강원도 사투리.
+k	칼꽂이	칼꽂이	
+k	칼데라	칼데라	
+k	칼라콘	칼라콘	
+k	칼람바	칼람바	
+k	칼로리	칼로리	calorie
+k	칼루가	칼루가	
+k	칼륨염	칼륨염	
+k	칼리움	칼리움	potassium
+k	칼리파	칼리파	caliph
+k	칼립소	칼립소	
+k	칼바람	칼바람	piercing wind, sharp bree…
+k	칼바위	칼바위	
+k	칼부림	칼부림	남을 해치려고 칼을 함부로 내저음. 또는 그런…
+k	칼붙이	칼붙이	
+k	칼상어	칼상어	The Yangtze sturgeon, Aci…
+k	칼자국	칼자국	
+k	칼자루	칼자루	handle (of a knife or swo…
+k	칼파스	칼파스	sausage
+k	캄보쟈	캄보쟈	Cambodia (a country in So…
+k	캄차카	캄차카	Kamchatka (a long peninsu…
+k	캄캄히	캄캄히	
+k	캄팔라	캄팔라	Kampala (the capital of U…
+k	캅카스	캅카스	
+k	캉가루	캉가루	
+k	카고트럭	카고트럭	
+k	카나다의	카나다의	
+k	카나리아	카나리아	canary (bird from Canary …
+k	카나크다	카나크다	
+k	카네이션	카네이션	석죽목 석죽과의 꽃. 지중해가 원산지로 추정되…
+k	카노푸스	카노푸스	
+k	카놀라유	카놀라유	canola oil
+k	카니슈카	카니슈카	
+k	카다이프	카다이프	
+k	카드놀이	카드놀이	
+k	카드복권	카드복권	
+k	카드섹션	카드섹션	
+k	카드지갑	카드紙匣	cardholder; cardholder wa…
+k	카드지갑	카드지갑	cardholder; cardholder wa…
+k	카라기난	카라기난	
+k	카라바조	카라바조	
+k	카라이칼	카라이칼	
+k	카라카스	카라카스	Caracas (the capital of V…
+k	카라칼라	카라칼라	
+k	카람볼라	카람볼라	
+k	카랑카랑	카랑카랑	액체가 많이 담기거나 괴여서 가장자리까지 찰 …
+k	카렐리야	카렐리야	
+k	카로오칸	카로오칸	
+k	카르볼린	카르볼린	carboline
+k	카르카손	카르카손	
+k	카르타고	카르타고	
+k	카르투시	카르투시	
+k	카를루크	카를루크	
+k	카리스마	카리스마	
+k	카리에스	카리에스	
+k	카린티아	카린티아	
+k	카마루파	카마루파	
+k	카망베르	카망베르	
+k	카메라맨	카메라맨	cameraman; cameraperson; …
+k	카메라폰	카메라폰	디지털 카메라의 기능이 있는 휴대전화.
+k	카멜레온	카멜레온	chameleon
+k	카바이드	카바이드	
+k	카바이트	카바이트	카바이드의 비표준어.
+k	카복실산	카복실산	carboxylic acid
+k	카뷰레터	카뷰레터	
+k	카사노바	카사노바	
+k	카소스섬	카소스섬	
+k	카슈가르	카슈가르	
+k	카슈루트	카슈루트	kashrut, the Jewish dieta…
+k	카슈미르	카슈미르	
+k	카스테라	카스테라	'카스텔라'의 비표준어.
+k	카스텔라	카스텔라	거품을 낸 달걀에 밀가루, 설탕을 섞어 구워 …
+k	카아본지	카아본지	
+k	카우나스	카우나스	
+k	카우보이	카우보이	cowboy
+k	카운슬링	카운슬링	
+k	카운터톱	카운터톱	
+k	카이랄성	카이랄성	
+k	카이사르	카이사르	Caesar
+k	카자쵸크	카자쵸크	
+k	카자흐어	카자흐어	the Kazakh language
+k	카자흐의	카자흐의	
+k	카자흐족	카자흐족	몽골족과 투르크족의 혼혈민족. 주로 카자흐스탄…
+k	카카오톡	카카오톡	KakaoTalk (a Korean messa…
+k	카키고리	카키고리	
+k	카타가나	카타가나	
+k	카타르의	카타르의	
+k	카타르인	카타르인	
+k	카타카나	카타카나	
+k	카탈로그	카탈로그	catalogue
+k	카탈루냐	카탈루냐	
+k	카테고리	카테고리	어떤 무리를 담고 있는 울타리 또는 그것의 이…
+k	카트리지	카트리지	
+k	카트만두	카트만두	Kathmandu (the capital ci…
+k	카팜팡안	카팜팡안	
+k	카페라떼	카페라떼	
+k	카페오레	카페오레	
+k	카펠리니	카펠리니	angel hair (pasta)
+k	카포나타	카포나타	
+k	카푸치노	카푸치노	
+k	카피바라	카피바라	capybara
+k	칵테일잔	칵테일잔	
+k	칸나다어	칸나다어	
+k	칸다하르	칸다하르	
+k	칼납자루	칼납자루	An oily bitterling, Tanak…
+k	칼라만시	칼라만시	
+k	칼락대다	칼락대다	'칼락거리다'.
+k	칼랑코에	칼랑코에	
+k	칼리스토	칼리스토	
+k	칼리오페	칼리오페	
+k	칼미크족	칼미크족	주로 러시아(칼미크 공화국)에 거주하는 몽골계…
+k	칼바도스	칼바도스	
+k	칼칼하다	칼칼하다	
+k	캄보디아	캄보디아	Cambodia (a country in So…
+k	캄캄절벽	캄캄절벽	
+k	캄캄하다	캄캄하다	어디에 빛이 없어서 매우 어둡다.
+k	캄퐁츠낭	캄퐁츠낭	
+k	캄푸치아	캄푸치아	
+k	카드 게임	카드 게임	
+k	카드 놀이	카드 놀이	
+k	카드 리더	카드 리더	
+k	카드의 집	카드의 집	
+k	카디이우카	카디이우카	
+k	카라칼파크	카라칼파크	우즈베키스탄의 아랄해 일대에 거주하는 킵차크계…
+k	카레 가루	카레 가루	
+k	카레라이스	카레라이스	curry and rice
+k	카르나타카	카르나타카	
+k	카르날리주	카르날리주	
+k	카르보나두	카르보나두	
+k	카르보나라	카르보나라	
+k	카르보닐기	카르보닐기	carbonyl
+k	카르복실기	카르복실기	carboxyl
+k	카르빌아민	카르빌아민	isocyanide
+k	카리브 해	카리브 해	
+k	카리브디스	카리브디스	
+k	카리알라어	카리알라어	
+k	카마수트라	카마수트라	
+k	카바나투안	카바나투안	
+k	카보베르데	카보베르데	Cape Verde (a country in …
+k	카보플라틴	카보플라틴	
+k	카부베르드	카부베르드	나라 이름 '카보베르데'의 비표준어.
+k	카브리올레	카브리올레	
+k	카사블랑카	카사블랑카	
+k	카슈미르어	카슈미르어	
+k	카스테레오	카스테레오	
+k	카스트제도	카스트제도	
+k	카스피 해	카스피 해	러시아와 아제르바이잔, 카자흐스탄, 투르크메니…
+k	카운트다운	카운트다운	
+k	카자흐스탄	카자흐스탄	Kazakhstan (a country in …
+k	카카오 씨	카카오 씨	
+k	카타레부사	카타레부사	
+k	카타르시스	카타르시스	
+k	카탈루냐어	카탈루냐어	안도라의 공용어 및 에스파냐의 카탈루냐, 프랑…
+k	카탈루냐인	카탈루냐인	
+k	카트야야나	카트야야나	
+k	카파 변이	카파 변이	
+k	카파도키아	카파도키아	
+k	카파르나움	카파르나움	
+k	카페 라떼	카페 라떼	
+k	카페테리아	카페테리아	cafeteria
+k	카포에이라	카포에이라	
+k	카피라이터	카피라이터	
+k	칵테일파티	칵테일파티	
+k	칼락거리다	칼락거리다	가슴 속 얕은 곳에서 힘없이 울려 나오는 기침…
+k	칼럼니스트	칼럼니스트	
+k	칼리포르늄	칼리포르늄	초우라늄원소의 하나로 우라늄 금속으로부터 고온…
+k	칼슘사십오	칼슘사십오	칼슘의 방사성 동위원소. 45의 질량수를 가지…
+k	칼스크로나	칼스크로나	
+k	칼타니세타	칼타니세타	
+k	캄보디아의	캄보디아의	
+k	캄보디아인	캄보디아인	Cambodian (person)
+k	캄브리아기	캄브리아기	
+k	캄캄해지다	캄캄해지다	
+k	카가얀 밸리	카가얀 밸리	
+k	카누를 젓다	카누를 젓다	
+k	카라멜 애플	카라멜 애플	
+k	카랑카랑하다	카랑카랑하다	
+k	카로티노이드	카로티노이드	
+k	카르나우바납	카르나우바납	
+k	카멜 표기법	카멜 표기법	
+k	카멜레온자리	카멜레온자리	
+k	카오스 이론	카오스 이론	
+k	카자흐스탄인	카자흐스탄인	
+k	카치오카발로	카치오카발로	
+k	카타르 사람	카타르 사람	
+k	카탈로니아어	카탈로니아어	
+k	카펀테리아만	카펀테리아만	
+k	카프카적이다	카프카적이다	
+k	칼로리 폭탄	칼로리 폭탄	
+k	칼리닌그라드	칼리닌그라드	Kaliningrad (an oblast or…
+k	칼리파타바드	칼리파타바드	
+k	칼을 빼들다	칼을 빼들다	Used other than figurativ…
+k	카나리아 제도	카나리아 제도	
+k	카롤루스 대제	카롤루스 대제	
+k	카르나타카 주	카르나타카 주	
+k	카르파티아산맥	카르파티아산맥	
+k	카망베르 치즈	카망베르 치즈	
+k	카스티야 비누	카스티야 비누	
+k	카스티야라만차	카스티야라만차	
+k	카스피해갈매기	카스피해갈매기	
+k	카오스 고양이	카오스 고양이	
+k	카우보이 모자	카우보이 모자	
+k	카펠리 단젤로	카펠리 단젤로	
+k	칼라하리 사막	칼라하리 사막	
+k	칼리포르니아만	칼리포르니아만	
+k	캄보디아 사람	캄보디아 사람	
+k	캄보디아 왕국	캄보디아 왕국	
+k	카가얀 데 오로	카가얀 데 오로	
+k	카베르네 소비뇽	카베르네 소비뇽	
+k	카시오페이아자리	카시오페이아자리	
+k	카자흐스탄 사람	카자흐스탄 사람	
+k	카페 아메리카노	카페 아메리카노	Americano (American-style…
+k	캄브리아기 폭발	캄브리아기 폭발	
+k	칼데아 가톨릭교회	칼데아 가톨릭교회	
+k	칼을 뽑았으면 무라도 썰어라	칼을 뽑았으면 무라도 썰어라	"Once you've taken out yo…

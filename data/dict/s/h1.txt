@@ -1,0 +1,533 @@
+k	개	개	dog
+k	객	객	guest
+k	갠	갠	river; riverside
+k	갬	갬	일반적으로 강수가 있거나 구름 낀 날씨에서 강…
+k	갭	갭	a gap
+k	갱	갱	pit, shaft
+k	개가	개가	remarriage (by a woman)
+k	개각	개각	(정치) 장관과 같은 정부의 주요 고위 관직에…
+k	개간	개간	일굼.
+k	개강	개강	
+k	개갱	개갱	
+k	개걸	개걸	beggar
+k	개결	개결	성품이 깨끗하고 굳음.
+k	개골	개골	
+k	개곰	개곰	'미국너구리'의 북한말.
+k	개과	개과	잘못이나 허물을 뉘우쳐 고침
+k	개관	개관	
+k	개괄	개괄	추려서 한데 모음.
+k	개국	개국	founding of a nation
+k	개굴	개굴	
+k	개그	개그	joke
+k	개근	개근	
+k	개껌	개껌	
+k	개꿈	개꿈	A meaningless dream.
+k	개꿩	개꿩	grey plover
+k	개년	개년	bitch
+k	개념	개념	concept; general idea
+k	개놈	개놈	제 어미 아비를 모르는 개를 빗대어 예절과 버…
+k	개다	개다	to clear, to clear up, to…
+k	개떡	개떡	하찮은 것 또는 제 마음에 들지 않는 것을 낮…
+k	개똥	개똥	dog dung (droppings)
+k	개락	개락	'홍수'의 강원도 사투리.
+k	개략	개략	
+k	개량	개량	improvement
+k	개리	개리	The swan goose, Anser cyg…
+k	개립	개립	
+k	개막	개막	
+k	개명	개명	renaming
+k	개미	개미	ant
+k	개발	개발	dog's paw
+k	개밥	개밥	
+k	개방	개방	opening, especially of do…
+k	개벽	개벽	Creation
+k	개변	개변	
+k	개별	개별	여럿 중에서 하나씩 따로 나뉘어 있는 상태.
+k	개봉	개봉	breaking-open of a seal
+k	개비	개비	wood; split wood
+k	개뼈	개뼈	
+k	개뿔	개뿔	bullshit
+k	개사	개사	Counter for corporations.
+k	개선	개선	reform or improvement in …
+k	개성	개성	reform, improvement in qu…
+k	개소	개소	군데.
+k	개수	개수	the number of
+k	개술	개술	줄거리만 대강 말함. 또는 그런 진술.
+k	개시	개시	start; beginning
+k	개악	개악	고치어 도리어 나빠지게 함.
+k	개암	개암	hazelnut
+k	개역	개역	emended/amended/new/revis…
+k	개연	개연	확실하게 단정할 수는 없지만 대개 그럴 것이라…
+k	개염	개염	
+k	개와	개와	'호주머니'를 의미하는 제주도 사투리.
+k	개완	개완	gaiwan
+k	개요	개요	overview, synopsis
+k	개울	개울	brook
+k	개웃	개웃	고개나 몸 따위를 한쪽으로 귀엽게 조금 기울이…
+k	개월	개월	months; used as a count w…
+k	개의	개의	
+k	개인	개인	an individual or individu…
+k	개임	개임	다른 사람으로 바꾸어 임명함.
+k	개입	개입	intervention
+k	개장	개醤	opening of a location, se…
+k	개장	개醬	opening of a location, se…
+k	개장	개장	opening of a location, se…
+k	개재	개재	어떤 것들 사이에 끼여 있음.
+k	개전	개전	outbreak of war, starting…
+k	개정	개정	amendment
+k	개제	개제	
+k	개조	개조	remodelling
+k	개중	개중	((주로 ‘개중에’ 꼴로 쓰여)) 여럿이 있는…
+k	개진	개진	기술이나 낡은 제도 따위가 점차 나아져 발전함…
+k	개집	개집	kennel; doghouse
+k	개창	개창	foundation
+k	개척	개척	cultivation
+k	개천	개천	Kaechon (a city in South …
+k	개체	개체	individual; entity
+k	개최	개최	holding a conference or e…
+k	개추	개추	이른 가을
+k	개축	개축	집이나 축조물 따위가 허물어지거나 낡아서 새로…
+k	개칭	개칭	이름이나 칭호를 바꿔 고쳐 부름. 사람이 아닌…
+k	개탄	개탄	분하거나 못마땅하게 여겨 한탄함.
+k	개털	개털	The fur of a dog.
+k	개통	개통	opening
+k	개판	개판	disorder; mess
+k	개펄	개펄	mudflat, tideland
+k	개페	개페	'개폐'의 북한말.
+k	개편	개편	책 따위를 다시 고쳐 편집함.
+k	개평	개평	'제곱근풀이'.
+k	개표	개표	
+k	개학	개학	first day of school; star…
+k	개항	개항	
+k	개헌	개헌	
+k	개혁	개혁	reform
+k	개호	개호	옆에서 돌봐줌
+k	개화	개화	enlightenment, civilizati…
+k	개황	개황	대강의 상황.
+k	개회	개회	
+k	개흙	개흙	estuary silt, ooze
+k	개히	개히	
+k	객가	객가	Hakka
+k	객격	객격	
+k	객관	객관	objectivity
+k	객기	객기	rashness, ill-advised bra…
+k	객담	객담	
+k	객사	객사	hotel; inn
+k	객석	객석	
+k	객설	객설	객쩍게 말함. 또는 그런 말.
+k	객실	객실	guest room
+k	객어	객어	
+k	객월	객월	
+k	객인	객인	
+k	객지	객지	foreign land, place far f…
+k	객차	객차	railway carriage, railway…
+k	객체	객체	object (instantiation of …
+k	객혈	객혈	synonym of 각혈(咯血) (gakhye…
+k	갠메	갠메	direct message
+k	갠물	갠물	synonym of 개울물 (gae'ulmul…
+k	갠병	갠병	nursing, care, attendance
+k	갠수	갠수	Gansu
+k	갠엿	갠엿	synonym of 갱엿 (gaeng'yeot)
+k	갠이	갠이	synonym of 공연히 (gong'yeon…
+k	갤갤	갤갤	'골골'의 비표준어. 한국어 일상어에서 흔히 …
+k	갤런	갤런	
+k	갤리	갤리	galley
+k	갯과	갯과	The family Canidae
+k	갯벌	갯벌	tidal flat, mudflat
+k	갯솜	갯솜	sponge
+k	갯수	갯수	'개수'의 비표준어.
+k	갱개	갱개	novation
+k	갱구	갱구	conch
+k	갱굴	갱굴	Chungcheong, Hwanghae, an…
+k	갱단	갱단	gang (of criminals)
+k	갱도	갱도	gallery; tunnel; mine
+k	갱뱅	갱뱅	
+k	갱부	갱부	
+k	갱빈	갱빈	the bank of any large bod…
+k	갱생	갱생	다시 살아남
+k	갱신	갱신	
+k	갱엿	갱엿	black taffy; a type of ye…
+k	갱제	갱제	
+k	갱지	갱지	coarse, low-quality paper…
+k	개각도	개각도	
+k	개간년	개간년	
+k	개간지	개간지	
+k	개갑다	개갑다	
+k	개같다	개같다	annoying, shitty, crappy
+k	개개다	개개다	
+k	개개비	개개비	a reed warbler, specifica…
+k	개개의	개개의	
+k	개개인	개개인	
+k	개갭다	개갭다	
+k	개겁다	개겁다	
+k	개겹다	개겹다	
+k	개고기	개고기	dog meat
+k	개곱다	개곱다	
+k	개관식	개관식	opening ceremony
+k	개구간	개구간	
+k	개구리	개구리	frog
+k	개굴창	개굴창	'시궁창'의 강원도 사투리.
+k	개굽다	개굽다	
+k	개그맨	개그맨	gagman
+k	개근상	개근상	
+k	개금재	개금재	seagrass
+k	개급다	개급다	
+k	개기다	개기다	(속되게) 명령이나 지시를 따르지 않고 버티거…
+k	개기름	개기름	
+k	개기식	개기식	
+k	개기장	개기장	Japanese panicgrass (Pani…
+k	개깝다	개깝다	
+k	개나리	개나리	forsythia, often specific…
+k	개나발	개나발	사리에 맞지 아니하는 헛소리나 쓸데없는 소리를…
+k	개내이	개내이	
+k	개념글	개념글	인터넷 게시판에서 인기가 있는 글 또는 내용이…
+k	개념화	개념화	
+k	개다니	개다니	
+k	개다래	개다래	
+k	개도국	개도국	개발도상국의 두음어 형태.
+k	개독교	개독교	fucking Christianity (usu…
+k	개돼지	개돼지	ignoramus; ignorant perso…
+k	개두포	개두포	
+k	개땡깔	개땡깔	black nightshade (Solanum…
+k	개렵다	개렵다	dialectal, Gangwon, Seoul…
+k	개르다	개르다	'개으르다'의 준말.
+k	개막식	개막식	opening ceremony
+k	개망신	개망신	매우 부끄러운 일.
+k	개망초	개망초	annual fleabane (Erigeron…
+k	개머리	개머리	
+k	개모음	개모음	(언어) 저모음.
+k	개묵새	개묵새	Festuca takedana
+k	개물음	개물음	
+k	개미둑	개미둑	
+k	개미산	개미산	
+k	개미의	개미의	
+k	개미집	개미집	
+k	개미총	개미총	
+k	개미탑	개미탑	
+k	개박하	개박하	
+k	개발자	개발자	developer
+k	개밥다	개밥다	
+k	개방적	개방적	언제나 생각이나 마음이 열려져 있는.
+k	개버딘	개버딘	
+k	개법다	개법다	
+k	개별성	개별성	사람이나 사물이 하나하나 갖고 있는 나름대로의…
+k	개별자	개별자	individuals or particular…
+k	개볍다	개볍다	
+k	개복치	개복치	개복칫과의 바닷물고기. 몸의 길이는 2~4미터…
+k	개봅다	개봅다	
+k	개붑다	개붑다	
+k	개붓다	개붓다	
+k	개븟다	개븟다	
+k	개사곡	개사곡	song adapted from another…
+k	개살구	개살구	A fruit of a Manchurian a…
+k	개새끼	개새끼	son of a bitch, piece of …
+k	개선문	개선문	a triumphal arch; in part…
+k	개성적	개성적	
+k	개소겡	개소겡	The eel goby, Odontamblyo…
+k	개소리	개소리	bullshit, nonsense
+k	개소주	개소주	a sort of dog meat broth …
+k	개수끼	개수끼	
+k	개수대	개수대	sink (basin)
+k	개수작	개수작	엉뚱하고 쓸데없는 말이나 행동.
+k	개스켓	개스켓	
+k	개스킷	개스킷	gasket
+k	개슬람	개슬람	fucking Islam, Pisslam
+k	개시시	개시시	
+k	개신교	개신교	Protestantism
+k	개썰매	개썰매	
+k	개아지	개아지	강아지의 비규범 표기.
+k	개않다	개않다	to be nice, good, passabl…
+k	개여시	개여시	(경남 방언) 여우.
+k	개연성	개연성	(논리) 확실하지는 않나 아마 그럴 것이라고 …
+k	개오동	개오동	A catalpa, especially the…
+k	개우뚱	개우뚱	
+k	개울딱	개울딱	
+k	개울물	개울물	the water in or from a st…
+k	개웃이	개웃이	'개웃'.
+k	개으름	개으름	
+k	개을리	개을리	
+k	개인기	개인기	individual skill; persona…
+k	개인어	개인어	idiolect
+k	개인용	개인용	개인이 씀.
+k	개인의	개인의	
+k	개인적	개인적	personal, individual
+k	개인차	개인차	
+k	개자식	개자식	bastard; son of a bitch
+k	개장국	개장국	gaejangguk (a flavored do…
+k	개저씨	개저씨	older bastard; elder son …
+k	개정판	개정판	revised edition; revision
+k	개주사	개주사	
+k	개죽음	개죽음	A pointless death.
+k	개지랄	개지랄	stupidity; foolishness
+k	개찰구	개찰구	표 보이는 곳.
+k	개척자	개척자	
+k	개천절	개천절	우리나라의 건국을 기념하기 위하여 제정한 국경…
+k	개체군	개체군	
+k	개평근	개평근	'제곱근풀이'.
+k	개평방	개평방	'제곱근풀이'.
+k	개폐기	개폐기	switch
+k	개학식	개학식	
+k	개혁가	개혁가	
+k	개호주	개호주	호랑이의 새끼.
+k	개화인	개화인	a civilised person, an en…
+k	개회식	개회식	opening ceremony
+k	객관성	객관성	
+k	객관적	객관적	objective (attributive)
+k	객쩍다	객쩍다	unnecessary, needless; si…
+k	객체계	객체계	
+k	갠신이	갠신이	synonym of 간신히 (gansinhi,…
+k	갠지스	갠지스	Ganges
+k	갤러리	갤러리	art gallery
+k	갤리다	갤리다	'결리다'의 비표준어.
+k	갤리선	갤리선	
+k	갤마다	갤마다	only used in 갤마주다 (gaelma…
+k	갤쑥이	갤쑥이	
+k	갤씀히	갤씀히	
+k	갤쭉이	갤쭉이	
+k	갤쯤히	갤쯤히	
+k	갤찍이	갤찍이	
+k	갤치다	갤치다	
+k	갬블러	갬블러	
+k	갭직이	갭직이	
+k	갯가재	갯가재	(학명: Oratosquilla oratori…
+k	갯농어	갯농어	
+k	갯바람	갯바람	
+k	갯버들	갯버들	
+k	갯장어	갯장어	daggertooth pike conger
+k	갯첨서	갯첨서	The Eurasian water shrew,…
+k	갱가리	갱가리	edge, brink
+k	갱냉이	갱냉이	
+k	갱년기	갱년기	menopause
+k	갱수끼	갱수끼	
+k	개 먹이	개 먹이	
+k	개 사료	개 사료	
+k	개 조심	개 조심	
+k	개가웁다	개가웁다	
+k	개가하다	개가하다	To remarry after separati…
+k	개각하다	개각하다	(정치) 장관과 같은 정부의 주요 고위 관직에…
+k	개개고찰	개개고찰	
+k	개골개골	개골개골	
+k	개과천선	개과천선	(사자성어) 지난 나쁜 잘못을 바르게 고쳐서 …
+k	개관사정	개관사정	(사자성어) 죽은 뒤에야 사람의 참다운 평가가…
+k	개괄하다	개괄하다	추려서 한데 모으다.
+k	개구락지	개구락지	frog
+k	개구리매	개구리매	The marsh harrier, Circus…
+k	개구리밥	개구리밥	duckweed
+k	개구장애	개구장애	
+k	개구장이	개구장이	개구쟁이의 비표준어.
+k	개구쟁이	개구쟁이	brat; urchin
+k	개국하다	개국하다	to found a country
+k	개굴개굴	개굴개굴	ribbit; while croaking
+k	개귀하다	개귀하다	
+k	개그우먼	개그우먼	gagwoman
+k	개나리꽃	개나리꽃	A forsythia blossom, ofte…
+k	개나리색	개나리색	짙은 노랑을 가리키는 관용적인 색 이름.
+k	개눈깔이	개눈깔이	'알사탕'의 강원도 사투리.
+k	개다시마	개다시마	
+k	개똥벌레	개똥벌레	firefly
+k	개량하다	개량하다	to improve
+k	개름개름	개름개름	
+k	개름뱅이	개름뱅이	
+k	개름쟁이	개름쟁이	
+k	개름하다	개름하다	귀여우면서도 조금 긴 듯하다.
+k	개리배치	개리배치	
+k	개마고원	개마고원	Kaema Plateau (a highland…
+k	개명되다	개명되다	to be renamed
+k	개명하다	개명하다	to rename
+k	개목걸이	개목걸이	
+k	개미먹기	개미먹기	'개미핥기'의 북한말.
+k	개미잡이	개미잡이	Eurasian wryneck
+k	개미핥가	개미핥가	
+k	개미핥기	개미핥기	
+k	개발갱도	개발갱도	(북한어) 탄층이나 광석까지 뚫은 갱도와 그 …
+k	개발되다	개발되다	to be developed
+k	개발새발	개발새발	개의 발 새의 발. 개 발자국이나 새의 발자국…
+k	개발쇠발	개발쇠발	'괴발개발'의 비표준어.
+k	개발주의	개발주의	
+k	개발하다	개발하다	to develop or exploit
+k	개방되다	개방되다	to be opened; to become o…
+k	개방하다	개방하다	to open (to the public)
+k	개봉되다	개봉되다	to have one's seal be bro…
+k	개봉하다	개봉하다	to break open (a seal)
+k	개뼈다귀	개뼈다귀	
+k	개사되다	개사되다	to undergo a change of ly…
+k	개사하다	개사하다	to change lyrics
+k	개선되다	개선되다	to improve, to become bet…
+k	개선하다	개선하다	to improve, to ameliorate
+k	개수그릇	개수그릇	
+k	개승냥이	개승냥이	
+k	개시되다	개시되다	to begin; to be started
+k	개시하다	개시하다	to start; to begin
+k	개신개신	개신개신	
+k	개신대다	개신대다	'개신거리다'.
+k	개악되다	개악되다	
+k	개악하다	개악하다	
+k	개암나무	개암나무	hazel tree
+k	개양귀비	개양귀비	양귀비과의 종. 유럽에서는 오래전부터 관상용으…
+k	개울개울	개울개울	
+k	개울대다	개울대다	
+k	개웃개웃	개웃개웃	
+k	개웃대다	개웃대다	'개웃거리다'.
+k	개웃하다	개웃하다	고개나 몸 따위가 한쪽으로 귀엽게 조금 기울어…
+k	개으르다	개으르다	
+k	개이발형	개이발형	
+k	개이파리	개이파리	
+k	개인숭배	개인숭배	cult of personality
+k	개인주의	개인주의	individualism
+k	개인지도	개인지도	individual lessons; tutor…
+k	개인택시	개인택시	an owner-operated taxi
+k	개입하다	개입하다	일이나 분쟁이 일을 때, 그 사이에 끼어 들다.
+k	개장되다	개장되다	to have an opening
+k	개장하다	개장하다	to open (a location, sess…
+k	개정하다	개정하다	올바른 부분으로 바꾸다.
+k	개조되다	개조되다	to be remodeled
+k	개조하다	개조하다	to remodel
+k	개집표기	개집표기	
+k	개창하다	개창하다	to found
+k	개척하다	개척하다	to reclaim, to cultivate,…
+k	개체생활	개체생활	'사생활. 또는 사회 집단 생활을 떠나서 개인…
+k	개초장이	개초장이	이엉을 엮거나 지붕을 이는 일을 직업으로 하는…
+k	개최되다	개최되다	모임이나 회의 따위가 주최되여 열리다.
+k	개최하다	개최하다	모임이나 회의 따위를 주최하여 열다.
+k	개치네쒜	개치네쒜	누군가가 재채기를 했을 때 하는 말이다. 이 …
+k	개코망신	개코망신	아주 큰 부끄러운 일. 개망신의 강조.
+k	개코쥐코	개코쥐코	
+k	개페하다	개페하다	'개폐'의 북한말.
+k	개편하다	개편하다	책 따위를 다시 고쳐 편집하다.
+k	개한민국	개한민국	South Korea (used exclusi…
+k	개혁되다	개혁되다	to be reformed
+k	개혁주의	개혁주의	사회개량주의.
+k	개혁하다	개혁하다	to reform
+k	개화되다	개화되다	to be civilised, enlighte…
+k	개화하다	개화하다	to civilise, enlighten
+k	개환하다	개환하다	
+k	개회나무	개회나무	Japanese tree lilac (Syri…
+k	객공잡이	객공잡이	pieceworker, timeworker
+k	객관객체	객관객체	
+k	객관분석	객관분석	수치예보에 사용되는 초기값을 구하기 위하여 수…
+k	객관예보	객관예보	기상현상의 예측을 위하여 기상관측자료의 처리,…
+k	객혈하다	객혈하다	synonym of 각혈(咯血)하다 (gakh…
+k	갠지스강	갠지스강	
+k	갤갤하다	갤갤하다	아프거나 불편하여 기운이 없다.
+k	갤마주다	갤마주다	to teach (something) to
+k	갤쑥갤쑥	갤쑥갤쑥	
+k	갤쑥하다	갤쑥하다	
+k	갤씀갤씀	갤씀갤씀	
+k	갤씀하다	갤씀하다	
+k	갤쭉갤쭉	갤쭉갤쭉	
+k	갤쭉하다	갤쭉하다	
+k	갤쯤갤쯤	갤쯤갤쯤	
+k	갤쯤하다	갤쯤하다	
+k	갤찍갤찍	갤찍갤찍	
+k	갤찍하다	갤찍하다	
+k	갭직갭직	갭직갭직	
+k	갭직하다	갭직하다	
+k	갱내가스	갱내가스	
+k	갱내배수	갱내배수	
+k	갱생하다	갱생하다	다시 살아나다.
+k	갱신하다	갱신하다	
+k	갱치없다	갱치없다	to be untidy, messy
+k	개가시나무	개가시나무	red-bark oak (Quercus gil…
+k	개감스럽다	개감스럽다	
+k	개구리헤엄	개구리헤엄	
+k	개념화되다	개념화되다	
+k	개념화하다	개념화하다	
+k	개떡 먹기	개떡 먹기	‘약과 먹기’를 달리 이르는 말.
+k	개똥지빠귀	개똥지빠귀	
+k	개리슨 캡	개리슨 캡	
+k	개머루덩굴	개머루덩굴	
+k	개발 계획	개발 계획	
+k	개발 공해	개발 공해	
+k	개발 교수	개발 교수	개발교육.
+k	개발 교육	개발 교육	
+k	개발도상국	개발도상국	developing country
+k	개밥바라기	개밥바라기	the evening star; the pla…
+k	개별소비세	개별소비세	사치스러운 물품의 소비에 대해 매겨지는 세금.
+k	개살구나무	개살구나무	The Manchurian apricot tr…
+k	개석삼각주	개석삼각주	
+k	개시시하다	개시시하다	
+k	개신거리다	개신거리다	게으르거나 기운이 없어 자꾸 나릿나릿 힘없이 …
+k	개염스럽다	개염스럽다	
+k	개우뚱대다	개우뚱대다	
+k	개우뚱하다	개우뚱하다	
+k	개우랑대다	개우랑대다	
+k	개울거리다	개울거리다	
+k	개울딱대다	개울딱대다	
+k	개울딱하다	개울딱하다	
+k	개웃거리다	개웃거리다	고개나 몸 따위를 이쪽저쪽으로 귀엽게 자꾸 조…
+k	개으름뱅이	개으름뱅이	
+k	개으름쟁이	개으름쟁이	
+k	개을리하다	개을리하다	
+k	개인 소유	개인 소유	
+k	개전 리유	개전 리유	
+k	개전 이유	개전 이유	
+k	개주갑인자	개주갑인자	
+k	개주한구자	개주한구자	
+k	개지랄하다	개지랄하다	to act like an idiot, or …
+k	개혁시키다	개혁시키다	to reform
+k	객관가치설	객관가치설	
+k	객관적가치	객관적가치	
+k	객관적도덕	객관적도덕	
+k	객원연구원	객원연구원	
+k	갤러빠지다	갤러빠지다	'개을러빠지다'의 준말.
+k	갤러터지다	갤러터지다	
+k	갬벨메추리	갬벨메추리	
+k	갭직갭직이	갭직갭직이	
+k	개 같은 놈	개 같은 놈	
+k	개골개골하다	개골개골하다	
+k	개구리 다리	개구리 다리	
+k	개구리꺽정이	개구리꺽정이	The frog sculpin, Myoxoce…
+k	개구장마누라	개구장마누라	
+k	개굴개굴하다	개굴개굴하다	
+k	개두덜거리다	개두덜거리다	
+k	개름개름하다	개름개름하다	
+k	개발제한구역	개발제한구역	
+k	개신개신하다	개신개신하다	
+k	개아그배나무	개아그배나무	
+k	개아까시나무	개아까시나무	
+k	개우뚱개우뚱	개우뚱개우뚱	
+k	개우뚱거리다	개우뚱거리다	
+k	개우랑개우랑	개우랑개우랑	
+k	개우랑거리다	개우랑거리다	
+k	개울개울하다	개울개울하다	
+k	개울딱개울딱	개울딱개울딱	
+k	개울딱거리다	개울딱거리다	
+k	개웃개웃하다	개웃개웃하다	
+k	개을러빠지다	개을러빠지다	
+k	개을러터지다	개을러터지다	
+k	개인 메시지	개인 메시지	
+k	개인식별번호	개인식별번호	
+k	개인용계산기	개인용계산기	
+k	개잎갈 나무	개잎갈 나무	
+k	개퍼 테이프	개퍼 테이프	
+k	객체 높임법	객체 높임법	문장의 주어의 행위가 미치는 대상을 높이어 표…
+k	객체 지향의	객체 지향의	
+k	갤쑥갤쑥하다	갤쑥갤쑥하다	
+k	갤씀갤씀하다	갤씀갤씀하다	
+k	갤쭉갤쭉하다	갤쭉갤쭉하다	
+k	갤쯤갤쯤하다	갤쯤갤쯤하다	
+k	갤찍갤찍하다	갤찍갤찍하다	
+k	갭직갭직하다	갭직갭직하다	
+k	갯민숭달팽이	갯민숭달팽이	
+k	개인용 컴퓨터	개인용 컴퓨터	회사에서 혹은 어떤 집단에서 쓰기보다는 개인이…
+k	객관적경제법칙	객관적경제법칙	
+k	개 고양이 보듯	개 고양이 보듯	‘고양이 개 보듯’을 달리 이르는 말.
+k	개 밥에 도토리	개 밥에 도토리	개 밥에 도토리를 넣으면 개가 도토리만 먹지 …
+k	개우뚱개우뚱하다	개우뚱개우뚱하다	
+k	개우랑개우랑하다	개우랑개우랑하다	
+k	개울딱개울딱하다	개울딱개울딱하다	
+k	객체 지향 언어	객체 지향 언어	
+k	개 버릇 남 주나	개 버릇 남 주나	
+k	개똥도 약에 쓴다	개똥도 약에 쓴다	(비유) 아무리 하찮은 물건이라도 요긴하게 쓰…
+k	개천에서 용 난다	개천에서 용 난다	
+k	개체 수 피라미드	개체 수 피라미드	
+k	개구리도 옴쳐야 뛴다	개구리도 옴쳐야 뛴다	뛰기를 잘 하는 개구리도 뛰기 전에는 몸을 옴…
+k	개도 주인을 알아본다	개도 주인을 알아본다	생각이 없는 짐승인 개도 자기를 보살펴 주는 …
+k	객체 지향 프로그래밍	객체 지향 프로그래밍	
+k	개 눈에는 똥만 보인다	개 눈에는 똥만 보인다	옛날 한국에서 개를 풀어 놓고 키울 때, 개가…
+k	개구리 낯짝에 물 퍼붓기	개구리 낯짝에 물 퍼붓기	[물에 사는 개구리의 낯에 물을 끼얹어 보았자…
+k	개똥도 약에 쓰려면 없다	개똥도 약에 쓰려면 없다	보통 때에는 하찮게 여겨 거들떠보지도 않던 물…
+k	개가 짖어도 기차는 달린다	개가 짖어도 기차는 달린다	the dogs bark, but the ca…
+k	개구리 올챙이 적 생각 못한다	개구리 올챙이 적 생각 못한다	
+k	개똥이 무서워 피하나 더러워 피하지	개똥이 무서워 피하나 더러워 피하지	성질이 못되고 눈 뜨고 보지 못할 짓을 일삼는…
+k	개 꼬리 삼 년 묵어도 황모 되지 않는다	개 꼬리 삼 년 묵어도 황모 되지 않는다	개 꼬리를 아무리 오래 간직하여도 귀하고 비싼…

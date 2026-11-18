@@ -1,0 +1,982 @@
+k	짜	jja	
+k	찌	jji	cork, float, bobber
+k	짝	jjak	pair
+k	짠	jjan	realis adnominal of 짜다 (j…
+k	짤	jjal	'짤방'의 준말.
+k	짬	jjam	the relative ranking or s…
+k	짭	jjap	fake; imitation
+k	짯	jjat	
+k	째	jjae	(수량, 기간을 나타내는 명사 또는 명사구와 …
+k	쪄	jjeo	
+k	쪽	jjok	side
+k	쭉	jjuk	in a manner indeed arrang…
+k	찍	jjik	
+k	찐	jjin	real; genuine; authentic
+k	찜	jjim	A verbal noun of 찌다 (jjid…
+k	찢	jjit	
+k	짜가	jjaga	synonym of 가짜 (gajja)
+k	짜다	jjada	to make, to assemble, to …
+k	짜리	jjari	tsar, tzar
+k	짜임	jjaim	structure, texture, make
+k	짱	jjang	boss in fighting
+k	짹	jjaek	the sound of birds, insec…
+k	쨈	jjaem	(북한말) 옳고 그름을 가름.
+k	쩍	jjeok	
+k	쩝	jjeop	입맛을 다시는 소리. 또는 그 모양.
+k	쩨마	jjema	topic, theme
+k	쪼다	jjoda	to peck
+k	쪼리	jjori	
+k	쫙	jjwak	
+k	쯤	jjeum	(일부 명사 또는 명사구에 붙어) '정도'의 …
+k	쯧	jjeut	
+k	찌게	jjige	먹는 '찌개'의 비표준어.
+k	찌다	jjida	to steam (food), to cook …
+k	찡	jjing	얼음장이나 굳은 물질 따위가 좀 급자기 갈라질…
+k	찧다	jjita	to pound, to mash, to mill
+e	jjigae	jjigae	1 meaning
+k	짜개	jjagae	
+k	짜락	jjarak	빗발이 굵은 소나기가 세차게 한 번 퍼붓는 소…
+k	짜박	jjabak	발에 힘을 주어 살짝 내디디는 소리.
+k	짜이다	jjaida	
+k	짝수	jjaksu	2로 나누었을 때 나머지가 0이 되는 수.
+k	짠디	jjandi	kimchi
+k	짠지	jjanji	radish kimchi
+k	짧게	jjalge	short
+k	짧다	jjalda	short
+k	짬수	jjamsu	'낌새'의 북한말.
+k	짬지	jjamji	잠지를 귀엽게 부르는 말.
+k	째다	jjaeda	to cleave, to cut/tear (o…
+k	째보	jjaebo	
+k	쨍	jjaeng	
+k	쩡	jjeong	
+k	쪼각	jjogak	'조각'의 비표준어.
+k	쪼렙	jjorep	(게임에서) 레벨이 낮거나 초보이다.
+k	쪼록	jjorok	
+k	쪼매	jjomae	'조금'의 경상도 방언
+k	쪼박	jjobak	a piece (of an object)
+k	쪼이다	jjoida	
+k	쪼작	jjojak	부리로 쪼듯이 이리저리 헤치는 모양.
+k	쪽자	jjokja	
+k	쪽지	jjokji	작은 종잇조각 또는 그와 같은 것 위에 적은 …
+k	쪽파	jjokpa	tree onion, Allium fistul…
+k	쫄보	jjolbo	
+k	쫓다	jjotda	to chase, pursue, follow
+k	쬐다	jjoeda	to shine, to glare
+k	쮸멘	jjumen	러시아의 주와 도시 이름 '튜멘'의 북한말.
+k	쯔다	jjeuda	to cut, to fell
+k	쯔보	jjeubo	
+k	찌개	jjigae	jjigae (a Korean dish sim…
+k	찌국	jjiguk	
+k	찌끼	jjikki	'찌꺼기'의 준말.
+k	찌붓	jjibut	
+k	찌죽	jjijuk	
+k	찌직	jjijik	
+k	찌찌	jjijji	어린아이의 말로, '젖'을 일컫는 말.
+k	찍다	jjikda	to chop
+k	찔게	jjilge	side dish
+k	찔기	jjilgi	side dishes
+k	찔레	jjille	multiflora rose
+k	찜기	jjimgi	
+k	찢다	jjitda	to tear, to rip
+k	짜긋	jjageut	눈 따위를 살짝 짜그리는 모양.
+k	짜다라	jjadara	not in particular, not re…
+k	짜랑	jjarang	목소리가 높고 맑게 울리는 소리. 또는 그 모…
+k	짜장	jjajang	‘자장’을 달리 이르는 말.
+k	짜지다	jjajida	(의견이 무시당하거나 주장을 관철시키지 못하는…
+k	짜하다	jjahada	(to be) widespread
+k	짝신	jjaksin	
+k	짝씨	jjakssi	'배우자'의 북한말.
+k	짝힘	jjakhim	물체에 작용하는 크기가 같고 방향이 반대인 평…
+k	짠맛	jjanmat	saltiness, salt taste
+k	짠물	jjanmul	salty water, salt water
+k	짤각	jjalgak	'짤가닥'의 준말.
+k	짤락	jjallak	
+k	짤줍	jjaljup	the act of downloading an…
+k	짤칵	jjalkak	'짤카닥'의 준말.
+k	짬밥	jjambap	army rations
+k	짬찌	jjamjji	짬 찌끄레기의 줄임말이다. 짬 또는 짬밥은 군…
+k	짭새	jjapsae	police
+k	짱나	jjangna	'짜증 나'를 줄인 속어.
+k	짼지	jjaenji	kimchi
+k	쨋다	jjaetda	
+k	쨍아	jjaenga	dragonfly
+k	쨎다	jjaetda	
+k	쩍다	jjeokda	(몇몇 명사에 붙어) '그런 것을 느끼게 하는…
+k	쩐다	jjeonda	
+k	쩔다	jjeolda	to become very salted or …
+k	쩔어	jjeoreo	
+k	쪼가리	jjogari	작은 조각. 흔히 명사 뒤에 띄여 붙여 그것의…
+k	쪼로니	jjoroni	
+k	쪽박	jjokbak	박의 열매로 만든 작은 바가지.
+k	쪽배	jjokbae	
+k	쪽빛	jjokbit	indigo, deep blue
+k	쭉신	jjuksin	
+k	쯔놈	jjeunom	chữ Nôm
+k	쯔한	jjeuhan	베트남어에서 한문과 한자어와 한문을 적기 위해…
+k	찌걱	jjigeok	
+k	찌궁	jjigung	
+k	찌긋	jjigeut	눈 따위를 슬쩍 찌그리는 모양.
+k	찌꾹	jjikkuk	
+k	찌득	jjideuk	'진흙'의 경상도 사투리.
+k	찌륵	jjireuk	
+k	찌릇	jjireut	
+k	찌리다	jjirida	
+k	찌쿵	jjikung	
+k	찍개	jjikgae	chopper
+k	찐따	jjintta	cripple, someone who has …
+k	찜질	jjimjil	
+k	짜개다	jjagaeda	
+k	짜구배	jjagubae	mixed-race person (in Yuk…
+k	짜굽다	jjagupda	Gangwon, Gyeongsang, Chun…
+k	짜긋이	jjageusi	
+k	짜깁기	jjagipgi	기존의 글이나 영화 따위를 편집하여 하나의 완…
+k	짜깁다	jjagipda	
+k	짜끈	jjakkeun	
+k	짜내다	jjanaeda	
+k	짜다락	jjadarak	
+k	짜르다	jjareuda	
+k	짜임새	jjaimsae	
+k	짜증	jjajeung	irritation, annoyance
+k	짜집기	jjajipgi	'짜깁기'의 비표준어.
+k	짝남	jjangnam	
+k	짝수의	jjaksuui	
+k	짝짝	jjakjjak	줄이나 획을 함부로 긋는 소리. 또는 그 모양.
+k	짝퉁	jjaktung	'가짜'의 속어.
+k	짠돌이	jjandori	
+k	짠순이	jjansuni	
+k	짠하다	jjanhada	to be bitterly regretful;…
+k	짤강	jjalgang	'짤가당'의 준말.
+k	짤금	jjalgeum	
+k	짤깍	jjalkkak	'짤까닥'의 준말.
+k	짤꼼	jjalkkom	
+k	짤뚝	jjalttuk	
+k	짤랑	jjallang	
+k	짤록이	jjallogi	
+k	짤방	jjalbang	meme image or GIF
+k	짤쑥	jjalssuk	
+k	짤짤	jjaljjal	액체 따위가 높은 열로 끓는 모양.
+k	짤캉	jjalkang	'짤카당'의 준말.
+k	짧은	jjalbeun	'짧다'의 관형사형.
+k	짧음	jjalbeum	'짧다'의 명사형.
+k	짭짭	jjapjjap	어떤 대상이나 일이 못마땅할 때 씁쓰레하게 입…
+k	짱개	jjanggae	
+k	짱돌	jjangdol	'자갈'의 강원도 사투리.
+k	째긋	jjaegeut	눈 따위를 짜그리는 모양.
+k	째깍	jjaekkak	Conveys a clear or obviou…
+k	째비다	jjaebida	to pinch
+k	째지다	jjaejida	째어지다의 준말.
+k	쩌벅	jjeobeok	발에 힘을 주어 크고 묵직하게 내디디는 소리.
+k	쩨꺽	jjekkeok	Conveys a loud clunky cli…
+k	쪼개다	jjogaeda	to split, to cut, to clea…
+k	쪼끔	jjokkeum	synonym of 조금 (jogeum)
+k	쪼로록	jjororok	
+k	쪽무이	jjongmui	'쪽모이'의 북한말.
+k	쪽문	jjongmun	
+k	쪽바리	jjokbari	'쪽발이'의 비표준어.
+k	쪽발이	jjokbari	one-legged thing
+k	쪽쪽	jjokjjok	
+k	쫀득	jjondeuk	게이같다
+k	쫑즈	jjongjeu	
+k	쫓기다	jjotgida	to be chased after, to be…
+k	쭈꾸미	jjukkumi	'주꾸미'.
+k	찌긋이	jjigeusi	
+k	찌꺽	jjikkeok	
+k	찌꿍	jjikkung	
+k	찌끈	jjikkeun	
+k	찌렁	jjireong	
+k	찌르다	jjireuda	to prick; to stab
+k	찌릉	jjireung	
+k	찌증	jjijeung	
+k	찌창	jjichang	airport
+k	찍소리	jjiksori	word; syllable; sound
+k	찍찍	jjikjjik	줄이나 획을 함부로 세게 긋는 소리. 또는 그…
+k	찍히다	jjikhida	
+k	찔금	jjilgeum	액체 등이 아주 조금 쏟아지다가 그치는 모양
+k	찔리다	jjillida	to get (something) pierce…
+k	찜통	jjimtong	
+k	찢기다	jjitgida	
+e	jjinppang	jjinppang	1 meaning
+k	짜개발	jjagaebal	엄지 발가락을 따로 끼어 신는 것 또는 그와 …
+k	짜그르	jjageureu	
+k	짜들다	jjadeulda	
+k	짜라랑	jjararang	
+k	짜란툰	jjarantun	내몽골 자치구 후룬베이얼시 산하의 현급시 자란…
+k	짜르르	jjareureu	물기나 기름기, 윤기 따위가 많이 흘러서 반지…
+k	짜름히	jjareumhi	
+k	짜박이다	jjabagida	
+k	짝꿍	jjakkkung	
+k	짝녀	jjangnyeo	
+k	짝배기	jjakbaegi	(수영) '배영'의 북한말.
+k	짝짓기	jjakjitgi	mating (of animals), copu…
+k	짝짓다	jjakjitda	to form a pair, to make a…
+k	짝짝이	jjakjjagi	
+k	짤가닥	jjalgadak	
+k	짤깡	jjalkkang	'짤까당'의 준말.
+k	짤끔	jjalkkeum	적은 양의 액체 따위가 조금 새어 흐르거나 나…
+k	짤똑이	jjalttogi	
+k	짤쏙이	jjalssogi	
+k	짤짤이	jjaljjari	
+k	짤카닥	jjalkadak	
+k	짬뽕	jjamppong	jjamppong (Korean Chinese…
+k	짬짬이	jjamjjami	
+k	짱깨	jjangkkae	Chinese food
+k	짱하다	jjanghada	
+k	짹소리	jjaeksori	chirp, peep, tweet
+k	쩌개다	jjeogaeda	
+k	쩌렁	jjeoreong	얇은 쇠붙이 따위가 서로 부딪쳐 짧게 울리는 …
+k	쩍지다	jjeokjida	상대하기가 만만치 않거나 힘겹다.
+k	쩔걱	jjeolgeok	'쩔거덕'의 준말.
+k	쪼르르	jjoreureu	
+k	쪼뼛	jjoppyeot	indeed very pointily, ind…
+k	쪽집게	jjokjipge	'족집게'를 된소리로 비표준어.
+k	쪽쪽이	jjokjjogi	
+k	쪽찌다	jjokjjida	
+k	쫄끔	jjolkkeum	눈물 따위의 액체가 조금 나오다가 그치는 모양.
+k	쫄면	jjolmyeon	jjolmyeon (a type of Kore…
+k	쫑긋	jjonggeut	입술이나 귀 따위를 빳빳하게 세우거나 뾰족이 …
+k	쫓아오다	jjochaoda	to come chasing, to follow
+k	쬧기다	jjoetgida	Jeolla dialect, Chungcheo…
+k	쭈르르	jjureureu	
+k	쭈뼛	jjuppyeot	quite pointily, quite tap…
+k	쭝긋	jjunggeut	입술이나 귀 따위를 뻣뻣하게 세우거나 쀼죽이 …
+k	쭝쯔	jjungjjeu	zongzi
+k	찌그르	jjigeureu	
+k	찌꺼기	jjikkeogi	dregs, remnants
+k	찌들다	jjideulda	
+k	찌르르	jjireureu	
+k	찌부럭	jjibureok	
+k	찌푸리다	jjipurida	to frown, to scowl, to wr…
+k	찍먹	jjingmeok	소스가 따로 나오는 음식을 소스에 찍어 먹는 …
+k	찍찍이	jjikjjigi	벨크로; 올마다 갈고리가 달려서 두 면을 탈부…
+k	찐드기	jjindeugi	'진드기'.
+k	찐만두	jjinmandu	steamed Korean dumplings
+k	찐빵	jjinppang	jjinppang, Korean steamed…
+k	찔끔	jjilkkeum	액체 등이 조금 새어 흐르거나 나왔다 그치는 …
+k	찔르다	jjilreuda	'찌르다'의 비표준어.
+k	찡구다	jjingguda	to insert, to fit into, t…
+k	찡긋	jjinggeut	눈이나 코를 약간 찡그리는 모양.
+k	찡하다	jjinghada	
+k	짜그리다	jjageurida	
+k	짜르랑	jjareurang	얇은 쇠붙이 따위가 서로 가볍게 부딪쳐 울리는…
+k	짜르륵	jjareureuk	
+k	짜릿하다	jjarithada	thrilling, exciting, exhi…
+k	짜박하다	jjabakhada	
+k	짝사랑	jjaksarang	one-sided love; unrequite…
+k	짤가당	jjalgadang	
+k	짤각이다	jjalgagida	작고 단단한 물체가 좀 가볍게 맞부딪치는 소리…
+k	짤그락	jjalgeurak	얇은 쇠붙이 따위가 조금 가볍게 떨어지거나 맞…
+k	짤까닥	jjalkkadak	
+k	짤뚜룩	jjaltturuk	
+k	짤라당	jjalladang	
+k	짤록이다	jjallogida	걸을 때에 다리를 약간씩 절다.
+k	짤싸닥	jjalssadak	
+k	짤카당	jjalkadang	
+k	짤칵이다	jjalkagida	작고 단단한 물체가 조금 가볍게 맞부딪치는 소…
+k	짧아지다	jjalbajida	
+k	째까닥	jjaekkadak	very quickly; immediately
+k	째어지다	jjaeeojida	
+k	짹짹	jjaekjjaek	tweet, chirp, peep
+k	쨈매다	jjaemmaeda	to tie up thoroughly
+k	쩍쩍	jjeokjjeok	혀를 차면서 자꾸 입맛을 크게 다시는 소리. …
+k	쩔쩔	jjeoljjeol	머리를 좌우로 자꾸 흔드는 모양.
+k	쩜매다	jjeommaeda	to tie up thoroughly
+k	쩝쩝	jjeopjjeop	입맛을 다시거나 무엇을 급히 먹을 때 나는 소…
+k	쩨쩨하다	jjejjehada	사람의 성격이나 하는 일이 잘고 지나치게 아끼…
+k	쪼개지다	jjogaejida	
+k	쪼그랑	jjogeurang	
+k	쪼그리다	jjogeurida	무엇이 있던 크기보다 줄여 작게 하다.
+k	쪼록하다	jjorokhada	
+k	쪼르륵	jjoreureuk	가는 물줄기 따위가 빠르게 잠깐 흐르다가 그치…
+k	쪼뼛이	jjoppyeosi	
+k	쪼아먹다	jjoameokda	
+k	쪼작하다	jjojakhada	
+k	쪼크리다	jjokeurida	
+k	쪽반달	jjokbandal	
+k	쪽집개	jjokjipgae	'족집게'의 비표준어.
+k	쫑쫑	jjongjjong	with quick steps
+k	쫓아가다	jjochagada	
+k	쫘르르	jjwareureu	
+k	쭈그리다	jjugeurida	
+k	쭈르륵	jjureureuk	굵은 물줄기 따위가 빠르게 잠깐 흐르다가 그치…
+k	쭉정이	jjukjeongi	grain or fruit having onl…
+k	쯔루가 시	jjeurugasi	일본 후쿠이 현의 도시 '쓰루가 시'의 북한말.
+k	쯔시마시	jjeusimasi	‘쓰시마시’를 달리 이르는 말.
+k	쯧쯧	jjeutjjeut	
+k	찌구덩	jjigudeong	
+k	찌국하다	jjigukhada	
+k	찌그덕	jjigeudeok	
+k	찌그둥	jjigeudung	
+k	찌그리다	jjigeurida	
+k	찌꺽지	jjikkeokji	'찌꺼기'의 비표준어.
+k	찌르레기	jjireuregi	보통 찌르레기 (sturnus vulgaris…
+k	찌르륵	jjireureuk	생나무가 타면서 나뭇진이 빠져나오는 소리.
+k	찌릿하다	jjirithada	to be thrilling
+k	찌붓하다	jjibuthada	
+k	찌아찌아어	jjiajjiaeo	Cia-Cia language
+k	찌직하다	jjijikhada	
+k	찌쿠덩	jjikudeong	
+k	찐덥다	jjindeopda	
+k	찔광이	jjilgwangi	'산사나무' 또는 '산사자'의 북한말.
+k	찔레꽃	jjillekkot	
+k	찔레나무	jjillenamu	
+k	찡끗	jjingkkeut	
+k	찢어지다	jjijeojida	to be torn open, to becom…
+k	짜긋하다	jjageuthada	
+k	짜득하다	jjadeukhada	
+k	짜락대다	jjarakdaeda	'짜락거리다'.
+k	짜랑하다	jjaranghada	
+k	짜르릉	jjareureung	
+k	짜름하다	jjareumhada	
+k	짜박대다	jjabakdaeda	'짜박거리다'.
+k	짜부라지다	jjaburajida	
+k	짝자꿍	jjakjakkung	
+k	짠물고기	jjanmulgogi	saltwater fish
+k	짤각하다	jjalgakhada	
+k	짤강이다	jjalgangida	작고 단단한 쇠붙이 따위가 조금 가볍게 맞부딪…
+k	짤그랑	jjalgeurang	작고 얇은 쇠붙이 따위가 조금 가볍게 떨어지거…
+k	짤깃하다	jjalgithada	
+k	짤까당	jjalkkadang	
+k	짤깍이다	jjalkkagida	작고 단단한 물체가 조금 가볍게 맞부딪치는 소…
+k	짤똑이다	jjalttogida	
+k	짤락하다	jjallakhada	
+k	짤랑돈	jjallangdon	'동전'의 북한말.
+k	짤랑이다	jjallangida	
+k	짤록하다	jjallokhada	
+k	짤막하다	jjalmakhada	
+k	짤주머니	jjaljumeoni	
+k	짤줍하다	jjaljuphada	to download an image
+k	짤칵하다	jjalkakhada	
+k	짤캉이다	jjalkangida	작고 단단한 쇠붙이 따위가 조금 가볍게 맞부딪…
+k	짱꼴라	jjangkkolla	Chinese; Chink
+k	쩨꺼덕	jjekkeodeok	very quickly, immediately…
+k	쪼들리다	jjodeullida	
+k	쪼록대다	jjorokdaeda	
+k	쪼물대다	jjomuldaeda	'쪼물거리다'.
+k	쪼작대다	jjojakdaeda	'쪼작거리다'.
+k	쪼잘대다	jjojaldaeda	'쪼잘거리다'.
+k	쪽팔리다	jjokpallida	ashamed, shameful
+k	쫄깃하다	jjolgithada	chewy; springy
+k	쫓아내다	jjochanaeda	to drive out, to throw ou…
+k	쫓아다니다	jjotadanida	다른 사람의 뒤를 졸졸 따라다니다. 또는 무엇…
+k	쭈그렁	jjugeureong	'쭈그렁이'의 준말.
+k	쭈물대다	jjumuldaeda	'쭈물거리다'.
+k	찌국대다	jjigukdaeda	
+k	찌궁하다	jjigunghada	
+k	찌그덩	jjigeudeong	
+k	찌긋하다	jjigeuthada	
+k	찌꾸덩	jjikkudeong	
+k	찌꾹하다	jjikkukhada	
+k	찌끄레기	jjikkeuregi	
+k	찌르릉	jjireureung	
+k	찌륵하다	jjireukhada	
+k	찌릇하다	jjireuthada	
+k	찌미챤가	jjimichanga	
+k	찌죽대다	jjijukdaeda	
+k	찌직대다	jjijikdaeda	
+k	찌찌뽕	jjijjippong	
+k	찌쿵하다	jjikunghada	
+k	찍어내다	jjigeonaeda	
+k	찍어매다	jjigeomaeda	
+k	찜질방	jjimjilbang	jjimjilbang, Korean dry s…
+k	찢어내다	jjijeonaeda	
+k	짜그라지다	jjageurajida	
+k	짜그르르	jjageureureu	
+k	짜근대다	jjageundaeda	'짜근거리다'.
+k	짜글대다	jjageuldaeda	'짜글거리다'.
+k	짜금대다	jjageumdaeda	'짜금거리다'.
+k	짜긋대다	jjageutdaeda	'짜긋거리다'.
+k	짜끈하다	jjakkeunhada	
+k	짜라빠지다	jjarappajida	
+k	짜락짜락	jjarakjjarak	
+k	짜랑대다	jjarangdaeda	'짜랑거리다'.
+k	짜리 로씨야	jjarirossiya	소련 이전에 있었던 '러시아 제국'의 북한말.
+k	짜릿짜릿	jjaritjjarit	
+k	짜박짜박	jjabakjjabak	
+k	짜장면	jjajangmyeon	'자장면'의 복수 표준어. 이 낱말은 2011…
+k	짝자꿍이	jjakjakkungi	
+k	짝짜꿍	jjakjjakkung	
+k	짝짝하다	jjakjjakhada	
+k	짠득하다	jjandeukhada	
+k	짤각대다	jjalgakdaeda	'짤가닥대다'의 준말.
+k	짤강하다	jjalganghada	
+k	짤금하다	jjalgeumhada	
+k	짤깍하다	jjalkkakhada	
+k	짤깡이다	jjalkkangida	작고 단단한 쇠붙이 따위가 조금 가볍게 맞부딪…
+k	짤꼼하다	jjalkkomhada	
+k	짤똑하다	jjalttokhada	기다란 물건의 한 부분이 깊게 패어 오목하다.
+k	짤뚝하다	jjalttukhada	
+k	짤락대다	jjallakdaeda	
+k	짤랑하다	jjallanghada	
+k	짤록대다	jjallokdaeda	'짤록거리다'.
+k	짤룩대다	jjallukdaeda	
+k	짤름하다	jjalleumhada	
+k	짤방하다	jjalbanghada	
+k	짤쏙하다	jjalssokhada	
+k	짤쑥하다	jjalssukhada	
+k	짤짤하다	jjaljjalhada	
+k	짤칵대다	jjalkakdaeda	'짤카닥대다'의 준말.
+k	짤캉하다	jjalkanghada	
+k	짭짤하다	jjapjjalhada	to be slightly salty; to …
+k	짭짭하다	jjapjjaphada	
+k	짱뚱어	jjangttungeo	The blue-spotted mud hopp…
+k	짱알대다	jjangaldaeda	'짱알거리다'.
+k	째째하다	jjaejjaehada	'쩨쩨하다'의 비규범 표기.
+k	쨍쨍	jjaengjjaeng	조금 언짢거나 못마땅하여 자꾸 보채거나 짜증을…
+k	쩌르렁	jjeoreureong	넓고 얇은 쇠붙이 따위가 서로 부딪쳐 울리는 …
+k	쩔거덕	jjeolgeodeok	크고 단단한 물체가 맞부딪치는 소리. 또는 그…
+k	쩔그럭	jjeolgeureok	얇은 쇠붙이 따위가 떨어지거나 맞부딪치는 소리…
+k	쩡쩡	jjeongjjeong	
+k	쪼골쪼골	jjogoljjogol	
+k	쪼그라지다	jjogeurajida	
+k	쪼로록하다	jjororokhada	
+k	쪼록쪼록	jjorokjjorok	
+k	쪼물쪼물	jjomuljjomul	
+k	쪼작쪼작	jjojakjjojak	
+k	쪼잘쪼잘	jjojaljjojal	
+k	쪼크라지다	jjokeurajida	
+k	쪽박신세	jjokbaksinse	
+k	쪽잘대다	jjokjaldaeda	'쪽잘거리다'.
+k	쪽짭하다	jjokjjaphada	좁다의 제주도 사투리.
+k	쫀득쿠키	jjondeukkuki	마시멜로의 식감을 기초로 밀가루 대신 분유나 …
+k	쫑알대다	jjongaldaeda	'쫑알거리다'.
+k	쫓겨나다	jjotgyeonada	
+k	쭈그렁이	jjugeureongi	가죽은 그대로인데 알맹이가 작아지는 바람에 주…
+k	쭈절대다	jjujeoldaeda	'쭈절거리다'.
+k	쯔시마섬	jjeusimaseom	‘쓰시마섬’을 달리 이르는 말.
+k	쯔힌발리	jjeuhinballi	남오세티야의 중심지 '츠힌발리'의 북한말.
+k	찌걱대다	jjigeokdaeda	'찌걱거리다'.
+k	찌국찌국	jjigukjjiguk	
+k	찌궁대다	jjigungdaeda	
+k	찌그르르	jjigeureureu	
+k	찌근대다	jjigeundaeda	'찌근거리다'.
+k	찌글대다	jjigeuldaeda	'찌글거리다'.
+k	찌긋대다	jjigeutdaeda	'찌긋거리다'.
+k	찌꾹대다	jjikkukdaeda	
+k	찌꿍하다	jjikkunghada	
+k	찌끈하다	jjikkeunhada	
+k	찌렁하다	jjireonghada	
+k	찌르퉁히	jjireutunghi	
+k	찌륵대다	jjireukdaeda	
+k	찌릇대다	jjireutdaeda	
+k	찌릉하다	jjireunghada	
+k	찌릿찌릿	jjiritjjirit	
+k	찌부러지다	jjibureojida	
+k	찌뿌드드	jjippudeudeu	몸살이나 감기 따위로 몸이 무겁고 거북한 모양.
+k	찌죽찌죽	jjijukjjijuk	
+k	찌직찌직	jjijikjjijik	
+k	찐득하다	jjindeukhada	
+k	찔쑥하다	jjilssukhada	긴 물건의 한 부분이 우묵하게 쑥 들어가다.
+k	찜찜하다	jjimjjimhada	
+k	찝찝하다	jjipjjiphada	
+k	찡그리다	jjinggeurida	to twist up (one's face, …
+k	짜그락하다	jjageurakhada	
+k	짜끈대다	jjakkeundaeda	
+k	짜라랑하다	jjararanghada	
+k	짜락거리다	jjarakgeorida	빗발이 굵은 소나기가 세차게 퍼붓는 소리가 잇…
+k	짜르르하다	jjareureuhada	물기나 기름기, 윤기 따위가 많이 흘러서 반지…
+k	짜박거리다	jjabakgeorida	발에 힘을 주어 살짝 내디디며 계속 걷다.
+k	짜자부리하다	jjajaburihada	
+k	짝맞추기	jjangmatchugi	
+k	짝짜꿍이	jjakjjakkungi	
+k	짝짝대다	jjakjjakdaeda	'짝짝거리다'(줄이나 획을 함부로 자꾸 긋다).
+k	짠득대다	jjandeukdaeda	'짠득거리다'.
+k	짤가닥하다	jjalgadakhada	
+k	짤강대다	jjalgangdaeda	'짤가당대다'의 준말.
+k	짤금대다	jjalgeumdaeda	
+k	짤깍대다	jjalkkakdaeda	'짤까닥대다'의 준말.
+k	짤깡하다	jjalkkanghada	
+k	짤꼼대다	jjalkkomdaeda	
+k	짤끔하다	jjalkkeumhada	
+k	짤똑대다	jjalttokdaeda	'짤똑거리다'.
+k	짤뚝대다	jjalttukdaeda	
+k	짤랑대다	jjallangdaeda	'짤랑거리다'.
+k	짤름대다	jjalleumdaeda	'짤름거리다'(가득 찬 액체가 흔들려서 조금씩…
+k	짤방대다	jjalbangdaeda	
+k	짤쏙대다	jjalssokdaeda	'짤쏙거리다'.
+k	짤짤대다	jjaljjaldaeda	'짤짤거리다'(적은 물이 끊임없이 흐르는 소리…
+k	짤카닥하다	jjalkadakhada	
+k	짤캉대다	jjalkangdaeda	'짤카당대다'의 준말.
+k	짭짭대다	jjapjjapdaeda	'짭짭거리다'.
+k	쨍그랑	jjaenggeurang	clink; tinkle (sound of h…
+k	쨍그리다	jjaenggeurida	
+k	쩌금대다	jjeogeumdaeda	'쩌금거리다'.
+k	쩔그렁	jjeolgeureong	크고 얇은 쇠붙이 따위가 떨어지거나 맞부딪쳐 …
+k	쩔룩대다	jjeollukdaeda	'쩔룩거리다'.
+k	쩽그렁	jjenggeureong	얇은 쇠붙이나 유리 따위가 떨어지거나 부딪쳐 …
+k	쪼그랑박	jjogeurangbak	
+k	쪼로록대다	jjororokdaeda	
+k	쪼록거리다	jjorokgeorida	
+k	쪼르르하다	jjoreureuhada	
+k	쪼물거리다	jjomulgeorida	말이나 행동을 선뜻 하지 못하고 자꾸 꼬물거리…
+k	쪼뼛하다	jjoppyeothada	
+k	쪼시락허다	jjosirakheoda	
+k	쪼작거리다	jjojakgeorida	자꾸 느리게 아장아장 걷다.
+k	쪼잘거리다	jjojalgeorida	조금 낮은 목소리로 빠르게 말을 계속 하다.
+k	쫀득대다	jjondeukdaeda	'쫀득거리다'.
+k	쫄랑대다	jjollangdaeda	'쫄랑거리다'.
+k	쫄쫄대다	jjoljjoldaeda	'쫄쫄거리다'.
+k	쫑긋하다	jjonggeuthada	
+k	쭈그러지다	jjugeureojida	
+k	쭈물거리다	jjumulgeorida	말이나 행동을 선뜻 하지 못하고 자꾸 꾸물거리…
+k	쭈뼛하다	jjuppyeothada	
+k	쭝긋하다	jjunggeuthada	
+k	쭝얼대다	jjungeoldaeda	'쭝얼거리다'.
+k	쯔르나고라	jjeureunagora	Montenegro (a country on …
+k	찌국거리다	jjigukgeorida	
+k	찌그러지다	jjigeureojida	to become crushed, to be …
+k	찌꺽대다	jjikkeokdaeda	'찌꺽거리다'.
+k	찌꿍대다	jjikkungdaeda	
+k	찌끈대다	jjikkeundaeda	
+k	찌렁대다	jjireongdaeda	
+k	찌룩째룩	jjirukjjaeruk	
+k	찌르르하다	jjireureuhada	
+k	찌릉대다	jjireungdaeda	
+k	찌부럭하다	jjibureokhada	
+k	찌뻑대다	jjippeokdaeda	'찌뻑거리다'.
+k	찌죽거리다	jjijukgeorida	
+k	찌지직대다	jjijijikdaeda	'찌지직거리다'.
+k	찌직거리다	jjijikgeorida	
+k	찍찍대다	jjikjjikdaeda	'찍찍거리다'.
+k	찐득대다	jjindeukdaeda	'찐득거리다'.
+k	찔광나무	jjilgwangnamu	
+k	찔구배나무	jjilgubaenamu	
+k	찡긋하다	jjinggeuthada	
+k	찡얼대다	jjingeoldaeda	'찡얼거리다'.
+k	찢재명	jjitjaemyeong	Lee Jae-myung, South Kore…
+k	짜그락대다	jjageurakdaeda	'짜그락거리다'.
+k	짜근거리다	jjageungeorida	조금 성가실 정도로 은근히 자꾸 귀찮게 굴다.
+k	짜근짜근	jjageunjjageun	
+k	짜글거리다	jjageulgeorida	적은 양의 액체나 기름 따위가 걸쭉하게 잦아들…
+k	짜글짜글	jjageuljjageul	
+k	짜금거리다	jjageumgeorida	입맛을 자꾸 짝짝 다시며 맛있게 먹다.
+k	짜금짜금	jjageumjjageum	
+k	짜긋거리다	jjageutgeorida	자꾸 눈 따위를 살짝 짜그리다.
+k	짜긋짜긋	jjageutjjageut	
+k	짜다부러하다	jjadabureohada	
+k	짜드락나다	jjadeurangnada	감추고 있던 일이 탄로 나다.
+k	짜드락대다	jjadeurakdaeda	'짜드락거리다'.
+k	짜득짜득	jjadeukjjadeuk	
+k	짜라랑대다	jjararangdaeda	
+k	짜랑거리다	jjaranggeorida	얇은 쇠붙이 따위가 서로 가볍게 부딪쳐 짧게 …
+k	짜랑짜랑	jjarangjjarang	
+k	짜르랑하다	jjareuranghada	
+k	짜르르대다	jjareureudaeda	
+k	짜르륵하다	jjareureukhada	
+k	짜름짜름	jjareumjjareum	
+k	짜부라트리다	jjaburateurida	'짜부라뜨리다'.
+k	짤가닥대다	jjalgadakdaeda	'짤가닥거리다'.
+k	짤가당하다	jjalgadanghada	
+k	짤각거리다	jjalgakgeorida	'짤가닥거리다'의 준말.
+k	짤각짤각	jjalgakjjalgak	'짤가닥짤가닥'의 준말.
+k	짤그락하다	jjalgeurakhada	
+k	짤깃짤깃	jjalgitjjalgit	
+k	짤까닥하다	jjalkkadakhada	
+k	짤깡대다	jjalkkangdaeda	'짤까당대다'의 준말.
+k	짤끔대다	jjalkkeumdaeda	'짤끔거리다'.
+k	짤뚜룩하다	jjaltturukhada	
+k	짤뚜막하다	jjalttumakhada	
+k	짤라당하다	jjalladanghada	
+k	짤락거리다	jjallakgeorida	
+k	짤락짤락	jjallakjjallak	
+k	짤래짤래	jjallaejjallae	
+k	짤록거리다	jjallokgeorida	걸을 때에 자꾸 다리를 약간씩 절다. ‘잘록거…
+k	짤록짤록	jjallokjjallok	걸을 때에 다리를 조금씩 자꾸 저는 모양.
+k	짤룩거리다	jjallukgeorida	
+k	짤룩짤룩	jjallukjjalluk	
+k	짤막짤막	jjalmakjjalmak	
+k	짤싸닥하다	jjalssadakhada	
+k	짤카닥대다	jjalkadakdaeda	'짤카닥거리다'.
+k	짤카당하다	jjalkadanghada	
+k	짤칵거리다	jjalkakgeorida	'짤카닥거리다'의 준말.
+k	짤칵짤칵	jjalkakjjalkak	
+k	짧은바늘	jjalbeunbaneul	hour hand
+k	짱알거리다	jjangalgeorida	몸이 불편하거나 마음에 못마땅하여 짜증을 내며…
+k	짱짱하다	jjangjjanghada	
+k	짹짹하다	jjaekjjaekhada	to chirp, cheep, tweet, t…
+k	쩌렁대다	jjeoreongdaeda	'쩌렁거리다'.
+k	쩔걱대다	jjeolgeokdaeda	'쩔거덕대다'의 준말.
+k	쩔뚝대다	jjeolttukdaeda	'쩔뚝거리다'.
+k	쪼그라들다	jjogeuradeulda	
+k	쪼그랑하다	jjogeuranghada	
+k	쪼그려 앉기	jjogeuryeoangi	
+k	쪼글쪼글	jjogeuljjogeul	
+k	쪼르륵하다	jjoreureukhada	
+k	쪼뼛대다	jjoppyeotdaeda	'쪼뼛거리다'.
+k	쪼크라들다	jjokeuradeulda	
+k	쪽무이그림	jjongmuigeurim	'모자이크화'의 북한말.
+k	쪽잘거리다	jjokjalgeorida	음식을 시원스럽게 먹지 아니하고 께지럭대며 다…
+k	쫄끔대다	jjolkkeumdaeda	'쫄끔거리다'.
+k	쫄래쫄래	jjollaejjollae	
+k	쫑알거리다	jjongalgeorida	주로 여자나 아이들이 남이 잘 알아듣지 못할 …
+k	쭈글쭈글	jjugeuljjugeul	
+k	쭈뼛대다	jjuppyeotdaeda	'쭈뼛거리다'.
+k	쭈절거리다	jjujeolgeorida	낮은 목소리로 말을 계속하다.
+k	쭐렁대다	jjulleongdaeda	'쭐렁거리다'.
+k	쭝긋대다	jjunggeutdaeda	'쭝긋거리다'.
+k	쭝절대다	jjungjeoldaeda	'쭝절거리다'.
+k	찌걱거리다	jjigeokgeorida	느슨하여진 나무틀이나 엉성하게 묶인 짐짝 따위…
+k	찌걱찌걱	jjigeokjjigeok	
+k	찌겁찌겁	jjigeopjjigeop	
+k	찌구덩하다	jjigudeonghada	
+k	찌궁거리다	jjigunggeorida	
+k	찌궁찌궁	jjigungjjigung	
+k	찌그덕하다	jjigeudeokhada	
+k	찌그둥하다	jjigeudunghada	
+k	찌그럭하다	jjigeureokhada	
+k	찌근거리다	jjigeungeorida	성가실 정도로 은근히 자꾸 귀찮게 굴다.
+k	찌근찌근	jjigeunjjigeun	
+k	찌글거리다	jjigeulgeorida	적은 양의 액체나 기름 따위가 걸쭉하게 잦아들…
+k	찌글찌글	jjigeuljjigeul	
+k	찌긋거리다	jjigeutgeorida	자꾸 눈 따위를 슬쩍 찌그리다.
+k	찌긋찌긋	jjigeutjjigeut	
+k	찌꺼분하다	jjikkeobunhada	
+k	찌꾹거리다	jjikkukgeorida	
+k	찌꾹찌꾹	jjikkukjjikkuk	
+k	찌덕찌덕	jjideokjjideok	
+k	찌득찌득	jjideukjjideuk	
+k	찌르륵하다	jjireureukhada	
+k	찌르퉁하다	jjireutunghada	
+k	찌륵거리다	jjireukgeorida	
+k	찌륵찌륵	jjireukjjireuk	
+k	찌릇거리다	jjireutgeorida	
+k	찌릇찌릇	jjireutjjireut	
+k	찌부럭대다	jjibureokdaeda	
+k	찌뿌둥하다	jjippudunghada	to be murky; to feel abou…
+k	찌쿠덩하다	jjikudeonghada	
+k	찜뽕대다	jjimppongdaeda	
+k	찝쩍대다	jjipjjeokdaeda	'찝쩍거리다'.
+k	찡긋대다	jjinggeutdaeda	'찡긋거리다'.
+k	찡끗하다	jjingkkeuthada	
+k	찡찡하다	jjingjjinghada	
+k	짜그라트리다	jjageurateurida	'짜그라뜨리다'.
+k	짜근덕하다	jjageundeokhada	
+k	짜끈거리다	jjakkeungeorida	
+k	짜르랑대다	jjareurangdaeda	'짜르랑거리다'.
+k	짜르륵대다	jjareureukdaeda	'짜르륵거리다'.
+k	짜부라뜨리다	jjaburatteurida	물체를 누르거나 부딪쳐서 오그라지게 하다.
+k	짝짝거리다	jjakjjakgeorida	줄이나 획을 함부로 자꾸 긋다.
+k	짠득거리다	jjandeukgeorida	녹진하고 차져 끈적끈적하게 자꾸 달라붙다.
+k	짤가당대다	jjalgadangdaeda	'짤가당거리다'.
+k	짤강거리다	jjalganggeorida	'짤가당거리다'의 준말.
+k	짤그락대다	jjalgeurakdaeda	'짤그락거리다'.
+k	짤그랑하다	jjalgeuranghada	
+k	짤금거리다	jjalgeumgeorida	
+k	짤까닥대다	jjalkkadakdaeda	'짤까닥거리다'.
+k	짤까당하다	jjalkkadanghada	
+k	짤깍거리다	jjalkkakgeorida	'짤까닥거리다'의 준말.
+k	짤꼼거리다	jjalkkomgeorida	
+k	짤똑거리다	jjalttokgeorida	한쪽 다리가 짧거나 탈이 나서 자꾸 되똑되똑 …
+k	짤뚜룩대다	jjaltturukdaeda	
+k	짤뚝거리다	jjalttukgeorida	
+k	짤라당대다	jjalladangdaeda	
+k	짤랑거리다	jjallanggeorida	작은 방울이나 얇은 쇠붙이 따위가 흔들리거나 …
+k	짤름거리다	jjalleumgeorida	가득 찬 액체가 흔들려서 조금씩 자꾸 넘치다.
+k	짤방거리다	jjalbanggeorida	
+k	짤싸닥대다	jjalssadakdaeda	
+k	짤쏙거리다	jjalssokgeorida	걸을 때 약간 잘똑거리다.
+k	짤짤거리다	jjaljjalgeorida	적은 물이 끊임없이 흐르는 소리가 나다.
+k	짤카당대다	jjalkadangdaeda	'짤카당거리다'.
+k	짤캉거리다	jjalkanggeorida	'짤카당거리다'의 준말.
+k	짭짭거리다	jjapjjapgeorida	어떤 대상이나 일이 못마땅할 때 씁쓰레하게 입…
+k	짹짹대다	jjaekjjaekdaeda	to chirp, cheep, tweet, t…
+k	쩌금거리다	jjeogeumgeorida	입맛을 자꾸 쩍쩍 다시며 맛있게 먹다.
+k	쩔룩거리다	jjeollukgeorida	
+k	쩔쩔매다	jjeoljjeolmaeda	
+k	쩝쩝대다	jjeopjjeopdaeda	'저르렁거리다'.
+k	쪼그라트리다	jjogeurateurida	'쪼그라뜨리다'.
+k	쪼로록거리다	jjororokgeorida	
+k	쪼르륵대다	jjoreureukdaeda	'쪼르륵거리다'.
+k	쪼크라트리다	jjokeurateurida	'쪼크라뜨리다'.
+k	쫀득거리다	jjondeukgeorida	음식물 따위가 검질겨서 매우 끈기 있고 졸깃졸…
+k	쫄랑거리다	jjollanggeorida	물 따위가 잔물결을 이루며 자꾸 흔들리다.
+k	쫄앙쫄랑	jjorangjjollang	
+k	쫄쫄거리다	jjoljjolgeorida	가는 물줄기 따위가 부드럽게 흐르는 소리가 잇…
+k	쭈그러들다	jjugeureodeulda	
+k	쭈르륵대다	jjureureukdaeda	'쭈르륵거리다'.
+k	쭝얼거리다	jjungeolgeorida	남이 알아듣지 못할 정도의 작고 낮은 목소리로…
+k	찌그덕대다	jjigeudeokdaeda	
+k	찌그덩하다	jjigeudeonghada	
+k	찌그럭대다	jjigeureokdaeda	'찌그럭거리다'.
+k	찌근덕하다	jjigeundeokhada	
+k	찌꺽거리다	jjikkeokgeorida	느슨하여진 나무틀이나 엉성하게 묶인 짐짝 따위…
+k	찌꾸덩하다	jjikkudeonghada	
+k	찌꿍거리다	jjikkunggeorida	
+k	찌끈거리다	jjikkeungeorida	
+k	찌드럭대다	jjideureokdaeda	'찌드럭거리다'.
+k	찌렁거리다	jjireonggeorida	
+k	찌르륵대다	jjireureukdaeda	'찌르륵거리다'(생나무가 타면서 나뭇진이 빠져…
+k	찌릉거리다	jjireunggeorida	
+k	찌부러트리다	jjibureoteurida	'찌부러뜨리다'.
+k	찌뻑거리다	jjippeokgeorida	길이 험하거나 어두워 잘 보이지 않거나, 또는…
+k	찌지직거리다	jjijijikgeorida	액체가 몹시 졸아붙으면서 끓는 소리가 자꾸 나…
+k	찍찍거리다	jjikjjikgeorida	줄이나 획을 함부로 자꾸 세게 긋다.
+k	찐득거리다	jjindeukgeorida	눅진하고 차져 끈적끈적하게 자꾸 달라붙다.
+k	찡끗대다	jjingkkeutdaeda	'찡끗거리다'.
+k	찡얼거리다	jjingeolgeorida	몸이 불편하거나 마음에 못마땅하여 짜증을 내며…
+k	찡찡대다	jjingjjingdaeda	'찡찡거리다'.
+k	짜그라뜨리다	jjageuratteurida	짓눌러서 여기저기 고르지 아니하게 몹시 오그라…
+k	짜그락거리다	jjageurakgeorida	('…과'가 나타나지 않을 때는 여럿임을 뜻하…
+k	짜그르르하다	jjageureureuhada	
+k	짜근덕대다	jjageundeokdaeda	'짜근덕거리다'.
+k	짜끈짜끈	jjakkeunjjakkeun	
+k	짜드락거리다	jjadeurakgeorida	남이 귀찮아하도록 자꾸 성가시게 굴다.
+k	짜들름대다	jjadeulleumdaeda	'짜들름거리다'.
+k	짜라랑거리다	jjararanggeorida	
+k	짜락짜락하다	jjarakjjarakhada	
+k	짜르르거리다	jjareureugeorida	
+k	짜르릉대다	jjareureungdaeda	
+k	짜릿짜릿하다	jjaritjjarithada	
+k	짜박짜박하다	jjabakjjabakhada	
+k	짠득짠득	jjandeukjjandeuk	
+k	짤가닥거리다	jjalgadakgeorida	작고 단단한 물체가 좀 가볍게 맞부딪치는 소리…
+k	짤강짤강	jjalgangjjalgang	'짤가당짤가당'의 준말.
+k	짤그랑대다	jjalgeurangdaeda	'짤그랑거리다'.
+k	짤금짤금	jjalgeumjjalgeum	
+k	짤까당대다	jjalkkadangdaeda	'짤까당거리다'.
+k	짤깍짤깍	jjalkkakjjalkkak	'짤까닥짤까닥'의 준말.
+k	짤깡거리다	jjalkkanggeorida	'짤까당거리다'의 준말.
+k	짤꼼짤꼼	jjalkkomjjalkkom	
+k	짤끔거리다	jjalkkeumgeorida	적은 양의 액체 따위가 조금씩 자꾸 새어 흐르…
+k	짤똑짤똑	jjalttokjjalttok	한쪽 다리가 짧거나 탈이 나서 되똑되똑 자꾸 …
+k	짤뚝짤뚝	jjalttukjjalttuk	
+k	짤랑짤랑	jjallangjjallang	
+k	짤름짤름	jjalleumjjalleum	
+k	짤방짤방	jjalbangjjalbang	
+k	짤쏙짤쏙	jjalssokjjalssok	
+k	짤쑥짤쑥	jjalssukjjalssuk	
+k	짤카닥거리다	jjalkadakgeorida	작고 단단한 물체가 조금 가볍게 맞부딪치는 소…
+k	짤캉짤캉	jjalkangjjalkang	'짤카당짤카당'의 준말.
+k	짧은부리도요	jjalbeunburidoyo	
+k	쩌렁거리다	jjeoreonggeorida	얇은 쇠붙이 따위가 서로 부딪쳐 짧게 울리는 …
+k	쩔걱거리다	jjeolgeokgeorida	'쩔거덕거리다'의 준말.
+k	쩔뚝거리다	jjeolttukgeorida	한쪽 다리가 짧거나 탈이 나서 자꾸 뒤뚝뒤뚝 …
+k	쩡쩡하다	jjeongjjeonghada	
+k	쪼골쪼골하다	jjogoljjogolhada	
+k	쪼그라뜨리다	jjogeuratteurida	누르거나 오그려 부피를 작아지게 하다.
+k	쪼로록쪼로록	jjororokjjororok	
+k	쪼록쪼록하다	jjorokjjorokhada	
+k	쪼물쪼물하다	jjomuljjomulhada	
+k	쪼뼛거리다	jjoppyeotgeorida	물건의 끝이 다 차차 가늘어지면서 뾰족뾰족하게…
+k	쪼작쪼작하다	jjojakjjojakhada	
+k	쪼잘쪼잘하다	jjojaljjojalhada	
+k	쪼크라뜨리다	jjokeuratteurida	누르거나 오그려 부피를 작아지게 하다. ‘쪼그…
+k	쪽무늬그림	jjongmunuigeurim	'모자이크'의 북한말.
+k	쫄끔거리다	jjolkkeumgeorida	눈물 따위의 액체가 조금씩 자꾸 나왔다 그쳤다…
+k	쭈그러트리다	jjugeureoteurida	'쭈그러뜨리다'.
+k	쭈뼛거리다	jjuppyeotgeorida	물건의 끝이 다 차차 가늘어지면서 뾰족뾰족하게…
+k	쭐렁거리다	jjulleonggeorida	물 따위가 큰 물결을 이루며 자꾸 흔들리다.
+k	쭝긋거리다	jjunggeutgeorida	입술이나 귀 따위를 자꾸 뻣뻣하게 세우거나 쀼…
+k	쭝절거리다	jjungjeolgeorida	수다스럽게 중얼거리다.
+k	찌국찌국하다	jjigukjjigukhada	
+k	찌그덩대다	jjigeudeongdaeda	
+k	찌그러트리다	jjigeureoteurida	'찌그러뜨리다'.
+k	찌그르르하다	jjigeureureuhada	
+k	찌근덕대다	jjigeundeokdaeda	'찌근덕거리다'.
+k	찌꺽찌꺽	jjikkeokjjikkeok	
+k	찌껍찌껍	jjikkeopjjikkeop	
+k	찌꿍찌꿍	jjikkungjjikkung	
+k	찌끈찌끈	jjikkeunjjikkeun	크고 단단한 물건이 갑자기 몹시 세게 자꾸 부…
+k	찌들름대다	jjideulleumdaeda	'찌들름거리다'.
+k	찌렁찌렁	jjireongjjireong	
+k	찌르릉대다	jjireureungdaeda	'찌르릉거리다'.
+k	찌릉찌릉	jjireungjjireung	
+k	찌릿찌릿하다	jjiritjjirithada	
+k	찌부러뜨리다	jjibureotteurida	물체를 누르거나 부딪쳐서 우그러지게 하다.
+k	찌부럭거리다	jjibureokgeorida	
+k	찌뻑찌뻑	jjippeokjjippeok	
+k	찌뿌드드하다	jjippudeudeuhada	
+k	찌직찌직하다	jjijikjjijikhada	
+k	찐득찐득	jjindeukjjindeuk	
+k	찡긋거리다	jjinggeutgeorida	눈이나 코를 약간씩 자꾸 찡그리다.
+k	찡얼찡얼	jjingeoljjingeol	
+k	짜뜰름대다	jjatteulleumdaeda	'짜뜰름거리다'.
+k	짜르랑거리다	jjareuranggeorida	얇은 쇠붙이 따위가 서로 가볍게 부딪쳐 울리는…
+k	짜르륵거리다	jjareureukgeorida	대롱 따위로 액체가 간신히 빨려 나오는 소리가…
+k	짜실짜실허다	jjasiljjasilheoda	
+k	짜증스럽다	jjajeungseureopda	
+k	짜질짜질허다	jjajiljjajilheoda	
+k	짤가당거리다	jjalgadanggeorida	작고 단단한 쇠붙이 따위가 조금 가볍게 맞부딪…
+k	짤그락거리다	jjalgeurakgeorida	얇은 쇠붙이 따위가 조금 가볍게 떨어지거나 맞…
+k	짤까닥거리다	jjalkkadakgeorida	작고 단단한 물체가 조금 가볍게 맞부딪치는 소…
+k	짤뚜룩거리다	jjaltturukgeorida	
+k	짤라당거리다	jjalladanggeorida	
+k	짤싸닥거리다	jjalssadakgeorida	
+k	짤카당거리다	jjalkadanggeorida	작고 단단한 쇠붙이 따위가 조금 가볍게 맞부딪…
+k	짹짹거리다	jjaekjjaekgeorida	to chirp, cheep, tweet, p…
+k	쨍쨍대다	jjaengjjaengdaeda	'쨍쨍거리다'.
+k	쩌르렁대다	jjeoreureongdaeda	'쩌르렁거리다'.
+k	쩔거덕대다	jjeolgeodeokdaeda	'쩔거덕거리다'.
+k	쩔그럭대다	jjeolgeureokdaeda	'쩔그럭거리다'.
+k	쩝쩝거리다	jjeopjjeopgeorida	어떤 대상이나 일이 못마땅할 때 몹시 씁쓰레하…
+k	쩡쩡대다	jjeongjjeongdaeda	'쩡쩡거리다'.
+k	쪼르륵거리다	jjoreureukgeorida	가는 물줄기 따위가 빠르게 흐르다가 그치는 소…
+k	쪼실쪼실허다	jjosiljjosilheoda	
+k	쪼질쪼질허다	jjojiljjojilheoda	
+k	쭈그러뜨리다	jjugeureotteurida	누르거나 우그려 부피를 작아지게 하다.
+k	쭈그렁바가지	jjugeureongbagaji	
+k	쭈르륵거리다	jjureureukgeorida	굵은 물줄기 따위가 빠르게 흐르다가 그치는 소…
+k	찌그덕거리다	jjigeudeokgeorida	
+k	찌그러뜨리다	jjigeureotteurida	짓눌러서 여기저기 고르지 아니하게 몹시 우그러…
+k	찌그럭거리다	jjigeureokgeorida	('…과'가 나타나지 않을 때는 여럿임을 뜻하…
+k	찌드럭거리다	jjideureokgeorida	남이 몹시 귀찮아하도록 자꾸 성가시게 굴다.
+k	찌뜰름대다	jjitteulleumdaeda	'찌뜰름거리다'.
+k	찌르륵거리다	jjireureukgeorida	생나무가 타면서 나뭇진이 빠져나오는 소리가 자…
+k	찡끗거리다	jjingkkeutgeorida	눈이나 코를 약간씩 자꾸 찡그리다.
+k	찡등그리다	jjingdeunggeurida	
+k	찡찡거리다	jjingjjinggeorida	언짢거나 못마땅하여 계속해서 자꾸 보채거나 짜…
+k	짜그락짜그락	jjageurakjjageurak	
+k	짜근덕거리다	jjageundeokgeorida	조금 성가실 정도로 끈덕지게 자꾸 귀찮게 굴다.
+k	짜근짜근하다	jjageunjjageunhada	
+k	짜글짜글하다	jjageuljjageulhada	
+k	짜금짜금하다	jjageumjjageumhada	
+k	짜긋짜긋하다	jjageutjjageuthada	
+k	짜드락짜드락	jjadeurakjjadeurak	
+k	짜득짜득하다	jjadeukjjadeukhada	
+k	짜들름거리다	jjadeulleumgeorida	물건이나 돈 따위를 조금씩 자주 쓰거나 여러 …
+k	짜라랑짜라랑	jjararangjjararang	
+k	짜랑짜랑하다	jjarangjjaranghada	
+k	짜르르짜르르	jjareureujjareureu	
+k	짜르릉거리다	jjareureunggeorida	
+k	짜름짜름하다	jjareumjjareumhada	
+k	짤가닥짤가닥	jjalgadakjjalgadak	작고 단단한 물체가 조금 가볍게 자꾸 맞부딪치…
+k	짤각짤각하다	jjalgakjjalgakhada	'짤가닥짤가닥하다'의 준말.
+k	짤그랑거리다	jjalgeuranggeorida	작고 얇은 쇠붙이 따위가 조금 가볍게 떨어지거…
+k	짤깃짤깃하다	jjalgitjjalgithada	
+k	짤까당거리다	jjalkkadanggeorida	작고 단단한 쇠붙이 따위가 조금 가볍게 맞부딪…
+k	짤깡짤깡	jjalkkangjjalkkang	'짤까당짤까당'의 준말.
+k	짤끔짤끔	jjalkkeumjjalkkeum	
+k	짤락짤락하다	jjallakjjallakhada	
+k	짤래짤래하다	jjallaejjallaehada	
+k	짤록짤록하다	jjallokjjallokhada	
+k	짤룩짤룩하다	jjallukjjallukhada	
+k	짤막짤막하다	jjalmakjjalmakhada	
+k	짤카닥짤카닥	jjalkadakjjalkadak	
+k	짤칵짤칵하다	jjalkakjjalkakhada	
+k	쨍그랑대다	jjaenggeurangdaeda	'쨍그랑거리다'.
+k	쩔그렁대다	jjeolgeureongdaeda	'쩔그렁거리다'.
+k	쩽그렁대다	jjenggeureongdaeda	'쩽그렁거리다'.
+k	쪼글쪼글하다	jjogeuljjogeulhada	
+k	쪼뼛쪼뼛	jjoppyeotjjoppyeot	indeed very pointily, ind…
+k	쭈글쭈글하다	jjugeuljjugeulhada	
+k	쭈뼛쭈뼛	jjuppyeotjjuppyeot	quite pointily, quite tap…
+k	찌걱찌걱하다	jjigeokjjigeokhada	
+k	찌겁찌겁하다	jjigeopjjigeophada	
+k	찌궁찌궁하다	jjigungjjigunghada	
+k	찌그덩거리다	jjigeudeonggeorida	
+k	찌근덕거리다	jjigeundeokgeorida	성가실 정도로 끈덕지게 자꾸 귀찮게 굴다.
+k	찌근찌근하다	jjigeunjjigeunhada	
+k	찌글찌글하다	jjigeuljjigeulhada	
+k	찌긋찌긋하다	jjigeutjjigeuthada	
+k	찌꾹찌꾹하다	jjikkukjjikkukhada	
+k	찌득찌득하다	jjideukjjideukhada	
+k	찌들름거리다	jjideulleumgeorida	물건이나 돈 따위를 아주 조금씩 자주 쓰거나 …
+k	찌르릉거리다	jjireureunggeorida	초인종이나 전화벨 따위가 울리는 소리가 자꾸 …
+k	찌륵찌륵하다	jjireukjjireukhada	
+k	찌릇찌릇하다	jjireutjjireuthada	
+k	찌부럭찌부럭	jjibureokjjibureok	
+k	찡검찡검	jjinggeomjjinggeom	
+k	찡그러트리다	jjinggeureoteurida	'찡그러뜨리다'.
+k	찡긋찡긋	jjinggeutjjinggeut	
+k	짜뜰름거리다	jjatteulleumgeorida	물건이나 돈 따위를 조금씩 자주 쓰거나 여러 …
+k	쨍쨍거리다	jjaengjjaenggeorida	조금 언짢거나 못마땅하여 계속해서 자꾸 보채거…
+k	쩌르렁거리다	jjeoreureonggeorida	넓고 얇은 쇠붙이 따위가 서로 부딪쳐 울리는 …
+k	쩔거덕거리다	jjeolgeodeokgeorida	크고 단단한 물체가 맞부딪치는 소리가 자꾸 나…
+k	쩔그럭거리다	jjeolgeureokgeorida	얇은 쇠붙이 따위가 떨어지거나 맞부딪치는 소리…
+k	쩡쩡거리다	jjeongjjeonggeorida	얼음장이나 굳은 물질 따위가 급자기 갈라지는 …
+k	찌뜰름거리다	jjitteulleumgeorida	물건이나 돈 따위를 아주 조금씩 자주 쓰거나 …
+k	찡그러뜨리다	jjinggeureotteurida	얼굴의 근육이나 눈살을 몹시 찌그러지게 하다.
+k	짜끈짜끈하다	jjakkeunjjakkeunhada	
+k	짜르랑짜르랑	jjareurangjjareurang	
+k	짜르륵짜르륵	jjareureukjjareureuk	
+k	짠득짠득하다	jjandeukjjandeukhada	자꾸 끈적끈적하게 달라붙다.
+k	짤가당짤가당	jjalgadangjjalgadang	
+k	짤강짤강하다	jjalgangjjalganghada	'짤가당짤가당하다'의 준말.
+k	짤그락짤그락	jjalgeurakjjalgeurak	
+k	짤금짤금하다	jjalgeumjjalgeumhada	
+k	짤까닥짤까닥	jjalkkadakjjalkkadak	
+k	짤깍짤깍하다	jjalkkakjjalkkakhada	'짤까닥짤까닥하다'의 준말.
+k	짤꼼짤꼼하다	jjalkkomjjalkkomhada	
+k	짤똑짤똑하다	jjalttokjjalttokhada	
+k	짤뚜룩짤뚜룩	jjaltturukjjaltturuk	
+k	짤뚜막짤뚜막	jjalttumakjjalttumak	
+k	짤뚝짤뚝하다	jjalttukjjalttukhada	
+k	짤라당짤라당	jjalladangjjalladang	
+k	짤랑짤랑하다	jjallangjjallanghada	
+k	짤름짤름하다	jjalleumjjalleumhada	
+k	짤방짤방하다	jjalbangjjalbanghada	
+k	짤싸닥짤싸닥	jjalssadakjjalssadak	
+k	짤쏙짤쏙하다	jjalssokjjalssokhada	
+k	짤쑥짤쑥하다	jjalssukjjalssukhada	
+k	짤카당짤카당	jjalkadangjjalkadang	
+k	짤캉짤캉하다	jjalkangjjalkanghada	'짤카당짤카당하다'의 준말.
+k	짧은거리달리기	jjalbeungeoridalligi	(육상) '단거리달리기'의 북한말.
+k	쨍그랑거리다	jjaenggeuranggeorida	얇은 쇠붙이나 유리 따위가 떨어지거나 부딪쳐 …
+k	쩔그렁거리다	jjeolgeureonggeorida	크고 얇은 쇠붙이 따위가 떨어지거나 맞부딪쳐 …
+k	쩽그렁거리다	jjenggeureonggeorida	얇은 쇠붙이나 유리 따위가 떨어지거나 부딪쳐 …
+k	쪼그랑쪼그랑	jjogeurangjjogeurang	
+k	쪼로록쪼로록하다	jjororokjjororokhada	
+k	쪼르륵쪼르륵	jjoreureukjjoreureuk	
+k	찌그덕찌그덕	jjigeudeokjjigeudeok	
+k	찌그럭찌그럭	jjigeureokjjigeureok	
+k	찌꺽찌꺽하다	jjikkeokjjikkeokhada	
+k	찌껍찌껍하다	jjikkeopjjikkeophada	
+k	찌꿍찌꿍하다	jjikkungjjikkunghada	
+k	찌끈찌끈하다	jjikkeunjjikkeunhada	크고 단단한 물건이 갑자기 몹시 세게 자꾸 부…
+k	찌드럭찌드럭	jjideureokjjideureok	
+k	찌렁찌렁하다	jjireongjjireonghada	
+k	찌르륵찌르륵	jjireureukjjireureuk	
+k	찌릉찌릉하다	jjireungjjireunghada	
+k	찌뻑찌뻑하다	jjippeokjjippeokhada	
+k	찡끗찡끗	jjingkkeutjjingkkeut	
+k	찡얼찡얼하다	jjingeoljjingeolhada	
+k	짜그락짜그락하다	jjageurakjjageurakhada	
+k	짜근덕짜근덕	jjageundeokjjageundeok	
+k	짜드락짜드락하다	jjadeurakjjadeurakhada	
+k	짜들름짜들름	jjadeulleumjjadeulleum	
+k	짜라랑짜라랑하다	jjararangjjararanghada	
+k	짜르르짜르르하다	jjareureujjareureuhada	
+k	짜르릉짜르릉	jjareureungjjareureung	
+k	짤가닥짤가닥하다	jjalgadakjjalgadakhada	
+k	짤그랑짤그랑	jjalgeurangjjalgeurang	
+k	짤까당짤까당	jjalkkadangjjalkkadang	
+k	짤깡짤깡하다	jjalkkangjjalkkanghada	'짤까당짤까당하다'의 준말.
+k	짤끔짤끔하다	jjalkkeumjjalkkeumhada	
+k	짤카닥짤카닥하다	jjalkadakjjalkadakhada	
+k	쪼뼛쪼뼛하다	jjoppyeotjjoppyeothada	
+k	찌그덩찌그덩	jjigeudeongjjigeudeong	
+k	찌근덕찌근덕	jjigeundeokjjigeundeok	
+k	찌들름찌들름	jjideulleumjjideulleum	
+k	찌르릉찌르릉	jjireureungjjireureung	
+k	찡긋찡긋하다	jjinggeutjjinggeuthada	
+k	짜뜰름짜뜰름	jjatteulleumjjatteulleum	
+k	짜르랑짜르랑하다	jjareurangjjareuranghada	
+k	짜르륵짜르륵하다	jjareureukjjareureukhada	
+k	짤가당짤가당하다	jjalgadangjjalgadanghada	
+k	짤그락짤그락하다	jjalgeurakjjalgeurakhada	
+k	짤까닥짤까닥하다	jjalkkadakjjalkkadakhada	
+k	짤뚜룩짤뚜룩하다	jjaltturukjjaltturukhada	
+k	짤뚜막짤뚜막하다	jjalttumakjjalttumakhada	
+k	짤라당짤라당하다	jjalladangjjalladanghada	
+k	짤싸닥짤싸닥하다	jjalssadakjjalssadakhada	
+k	짤카당짤카당하다	jjalkadangjjalkadanghada	
+k	짧은부리참돌고래	jjalbeunburichamdolgorae	The short-beaked common d…
+k	쪼그랑쪼그랑하다	jjogeurangjjogeuranghada	
+k	쪼르륵쪼르륵하다	jjoreureukjjoreureukhada	
+k	찌그덕찌그덕하다	jjigeudeokjjigeudeokhada	
+k	찌그럭찌그럭하다	jjigeureokjjigeureokhada	
+k	찌드럭찌드럭하다	jjideureokjjideureokhada	
+k	찌뜰름찌뜰름	jjitteulleumjjitteulleum	
+k	찌르륵찌르륵하다	jjireureukjjireureukhada	
+k	찡끗찡끗하다	jjingkkeutjjingkkeuthada	눈이나 코를 자꾸 약간씩 찡그리다. '찡긋찡긋…
+k	짧은주로속도빙상	jjalbeunjurosokdobingsang	
+k	짜근덕짜근덕하다	jjageundeokjjageundeokhada	
+k	짜들름짜들름하다	jjadeulleumjjadeulleumhada	
+k	짜르릉짜르릉하다	jjareureungjjareureunghada	
+k	짤그랑짤그랑하다	jjalgeurangjjalgeuranghada	
+k	짤까당짤까당하다	jjalkkadangjjalkkadanghada	
+k	찌그덩찌그덩하다	jjigeudeongjjigeudeonghada	
+k	찌근덕찌근덕하다	jjigeundeokjjigeundeokhada	
+k	찌들름찌들름하다	jjideulleumjjideulleumhada	
+k	찌르릉찌르릉하다	jjireureungjjireureunghada	
+k	짜뜰름짜뜰름하다	jjatteulleumjjatteulleumhada	
+k	찌뜰름찌뜰름하다	jjitteulleumjjitteulleumhada	

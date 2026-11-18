@@ -1,0 +1,362 @@
+e	the	the	3 meanings
+e	thu	thu	1 meaning
+e	thy	thy	1 meaning
+e	thai	thai	3 meanings
+e	thao	thao	1 meaning
+e	that	that	3 meanings
+e	thaw	thaw	3 meanings
+e	then	then	6 meanings
+e	they	they	2 meanings
+e	thin	thin	8 meanings
+e	this	this	5 meanings
+e	thor	thor	1 meaning
+e	thou	thou	2 meanings
+e	thud	thud	1 meaning
+e	thug	thug	1 meaning
+e	thun	thun	1 meaning
+e	thur	thur	1 meaning
+e	thus	thus	2 meanings
+e	thane	thane	1 meaning
+e	thank	thank	2 meanings
+e	thebe	thebe	1 meaning
+e	theft	theft	1 meaning
+e	theia	theia	1 meaning
+e	their	their	1 meaning
+e	theme	theme	3 meanings
+e	there	there	2 meanings
+e	these	these	2 meanings
+e	theta	theta	1 meaning
+e	thick	thick	9 meanings
+e	thief	thief	1 meaning
+e	thigh	thigh	1 meaning
+e	thine	thine	2 meanings
+e	thing	thing	3 meanings
+e	think	think	5 meanings
+e	third	third	3 meanings
+e	thong	thong	1 meaning
+e	thorn	thorn	2 meanings
+e	thorp	thorp	1 meaning
+e	thoth	thoth	1 meaning
+e	three	three	2 meanings
+e	throb	throb	3 meanings
+e	throw	throw	5 meanings
+e	thule	thule	1 meaning
+e	thumb	thumb	1 meaning
+e	thyme	thyme	1 meaning
+e	thaana	thaana	1 meaning
+e	thaler	thaler	1 meaning
+e	thalia	thalia	2 meanings
+e	thames	thames	1 meaning
+e	thanks	thanks	2 meanings
+e	that is	thatis	1 meaning
+e	thatch	thatch	1 meaning
+e	the end	theend	1 meaning
+e	the one	theone	1 meaning
+e	thebes	thebes	1 meaning
+e	theirs	theirs	1 meaning
+e	theism	theism	1 meaning
+e	themis	themis	1 meaning
+e	thence	thence	1 meaning
+e	theory	theory	4 meanings
+e	theron	theron	1 meaning
+e	thesis	thesis	2 meanings
+e	thetis	thetis	1 meaning
+e	thingy	thingy	1 meaning
+e	thirst	thirst	1 meaning
+e	thirty	thirty	1 meaning
+e	thomas	thomas	2 meanings
+e	thorax	thorax	1 meaning
+e	though	though	2 meanings
+e	thrace	thrace	1 meaning
+e	thread	thread	3 meanings
+e	threat	threat	3 meanings
+e	thresh	thresh	1 meaning
+e	thrice	thrice	1 meaning
+e	thrift	thrift	2 meanings
+e	thrive	thrive	1 meaning
+e	throat	throat	3 meanings
+e	throne	throne	4 meanings
+e	thrush	thrush	1 meaning
+e	thrust	thrust	4 meanings
+e	thukpa	thukpa	1 meaning
+e	thwart	thwart	1 meaning
+e	thymus	thymus	1 meaning
+e	thyrse	thyrse	1 meaning
+e	thalweg	thalweg	1 meaning
+e	that one	thatone	1 meaning
+e	that's it	thatsit	2 meanings
+e	thaumas	thaumas	1 meaning
+e	theater	theater	2 meanings
+e	thelema	thelema	1 meaning
+e	theonym	theonym	1 meaning
+e	theorbo	theorbo	1 meaning
+e	theorem	theorem	2 meanings
+e	therapy	therapy	2 meanings
+e	there be	therebe	1 meaning
+e	there is	thereis	1 meaning
+e	thereby	thereby	1 meaning
+e	thereon	thereon	1 meaning
+e	therian	therian	1 meaning
+e	thermos	thermos	1 meaning
+e	theseus	theseus	1 meaning
+e	thicket	thicket	1 meaning
+e	thimble	thimble	1 meaning
+e	thimphu	thimphu	1 meaning
+e	thinker	thinker	2 meanings
+e	thinner	thinner	1 meaning
+e	thirdly	thirdly	1 meaning
+e	thirsty	thirsty	1 meaning
+e	this one	thisone	1 meaning
+e	this way	thisway	1 meaning
+e	thistle	thistle	1 meaning
+e	thither	thither	1 meaning
+e	thomism	thomism	1 meaning
+e	thorite	thorite	1 meaning
+e	thorium	thorium	1 meaning
+e	thought	thought	2 meanings
+e	threads	threads	1 meaning
+e	three rs	threers	1 meaning
+e	thrifty	thrifty	1 meaning
+e	through	through	1 meaning
+e	throw-in	throwin	2 meanings
+e	thulium	thulium	1 meaning
+e	thunder	thunder	6 meanings
+e	thymine	thymine	1 meaning
+e	thymoma	thymoma	1 meaning
+e	thailand	thailand	1 meaning
+e	thalamus	thalamus	1 meaning
+e	thallium	thallium	1 meaning
+e	thanakha	thanakha	1 meaning
+e	thanatos	thanatos	1 meaning
+e	thank god	thankgod	1 meaning
+e	thank you	thankyou	1 meaning
+e	thankful	thankful	1 meaning
+e	thanks to	thanksto	1 meaning
+e	that said	thatsaid	1 meaning
+e	thatcher	thatcher	1 meaning
+e	the hague	thehague	1 meaning
+e	thematic	thematic	1 meaning
+e	theodicy	theodicy	1 meaning
+e	theodora	theodora	1 meaning
+e	theodore	theodore	1 meaning
+e	theology	theology	1 meaning
+e	theorist	theorist	1 meaning
+e	there are	thereare	1 meaning
+e	theremin	theremin	1 meaning
+e	thermite	thermite	1 meaning
+e	thiamine	thiamine	1 meaning
+e	thiazine	thiazine	1 meaning
+e	thiazole	thiazole	1 meaning
+e	thigh gap	thighgap	1 meaning
+e	thiirane	thiirane	1 meaning
+e	thirteen	thirteen	1 meaning
+e	thirties	thirties	2 meanings
+e	this time	thistime	1 meaning
+e	this year	thisyear	1 meaning
+e	thorough	thorough	1 meaning
+e	thousand	thousand	1 meaning
+e	thracian	thracian	1 meaning
+e	threaten	threaten	3 meanings
+e	threnody	threnody	1 meaning
+e	thresher	thresher	1 meaning
+e	thriller	thriller	1 meaning
+e	thrombus	thrombus	1 meaning
+e	throttle	throttle	2 meanings
+e	throw out	throwout	1 meaning
+e	thumb war	thumbwar	1 meaning
+e	thumbs up	thumbsup	1 meaning
+e	thursday	thursday	2 meanings
+e	thaddaeus	thaddaeus	1 meaning
+e	theme park	themepark	1 meaning
+e	theme song	themesong	1 meaning
+e	theocracy	theocracy	1 meaning
+e	theophany	theophany	1 meaning
+e	theoretic	theoretic	2 meanings
+e	theosophy	theosophy	1 meaning
+e	therapist	therapist	1 meaning
+e	theravada	theravada	1 meaning
+e	therefore	therefore	2 meanings
+e	thermidor	thermidor	1 meaning
+e	thesaurus	thesaurus	1 meaning
+e	these days	thesedays	1 meaning
+e	thickness	thickness	4 meanings
+e	thighbone	thighbone	1 meaning
+e	think tank	thinktank	1 meaning
+e	thinkable	thinkable	1 meaning
+e	thiophene	thiophene	1 meaning
+e	third base	thirdbase	1 meaning
+e	thirtieth	thirtieth	1 meaning
+e	thirty-one	thirtyone	1 meaning
+e	thirty-six	thirtysix	1 meaning
+e	thirty-two	thirtytwo	1 meaning
+e	threadfin	threadfin	1 meaning
+e	three-lips	threelips	1 meaning
+e	threesome	threesome	2 meanings
+e	threonine	threonine	1 meaning
+e	threshold	threshold	3 meanings
+e	throw away	throwaway	1 meaning
+e	throwback	throwback	2 meanings
+e	thumbnail	thumbnail	2 meanings
+e	thumbtack	thumbtack	1 meaning
+e	thuringia	thuringia	1 meaning
+e	thylacine	thylacine	1 meaning
+e	thừa thiên huế	thathinhu	1 meaning
+e	thanks a lot	thanksalot	1 meaning
+e	themselves	themselves	2 meanings
+e	theodolite	theodolite	1 meaning
+e	theodosius	theodosius	1 meaning
+e	theologian	theologian	1 meaning
+e	there, there	therethere	1 meaning
+e	thermistor	thermistor	1 meaning
+e	thermostat	thermostat	1 meaning
+e	theyfriend	theyfriend	1 meaning
+e	third grade	thirdgrade	1 meaning
+e	third party	thirdparty	2 meanings
+e	third reich	thirdreich	1 meaning
+e	third world	thirdworld	2 meanings
+e	thirteenth	thirteenth	2 meanings
+e	thirty-five	thirtyfive	1 meaning
+e	thirty-four	thirtyfour	1 meaning
+e	thirty-nine	thirtynine	1 meaning
+e	threatmate	threatmate	1 meaning
+e	thrift shop	thriftshop	1 meaning
+e	thrombosis	thrombosis	1 meaning
+e	throughout	throughout	2 meanings
+e	throughput	throughput	2 meanings
+e	thucydides	thucydides	1 meaning
+e	thumbelina	thumbelina	1 meaning
+e	thumbprint	thumbprint	1 meaning
+e	thunderous	thunderous	1 meaning
+e	thanatology	thanatology	1 meaning
+e	thank you all	thankyouall	1 meaning
+e	thatcherism	thatcherism	1 meaning
+e	thaumaturgy	thaumaturgy	1 meaning
+e	the other day	theotherday	1 meaning
+e	theoretical	theoretical	1 meaning
+e	therapeutic	therapeutic	1 meaning
+e	thermometer	thermometer	1 meaning
+e	thermopause	thermopause	1 meaning
+e	thermopylae	thermopylae	1 meaning
+e	thingamajig	thingamajig	1 meaning
+e	third cousin	thirdcousin	1 meaning
+e	third person	thirdperson	1 meaning
+e	thirty-eight	thirtyeight	1 meaning
+e	thirty-seven	thirtyseven	1 meaning
+e	thirty-three	thirtythree	1 meaning
+e	this evening	thisevening	1 meaning
+e	this morning	thismorning	1 meaning
+e	thoughtless	thoughtless	3 meanings
+e	thrash metal	thrashmetal	1 meaning
+e	three o'clock	threeoclock	1 meaning
+e	three rivers	threerivers	1 meaning
+e	three-fifths	threefifths	1 meaning
+e	thunderbird	thunderbird	1 meaning
+e	thunderbolt	thunderbolt	2 meanings
+e	thunderclap	thunderclap	1 meaning
+e	thundersnow	thundersnow	1 meaning
+e	thaification	thaification	1 meaning
+e	thank you card	thankyoucard	1 meaning
+e	thanksgiving	thanksgiving	1 meaning
+e	that's a relief	thatsarelief	1 meaning
+e	the die is cast	thedieiscast	1 meaning
+e	theater of war	theaterofwar	1 meaning
+e	then and there	thenandthere	1 meaning
+e	thermal break	thermalbreak	1 meaning
+e	thermocouple	thermocouple	1 meaning
+e	thermosphere	thermosphere	1 meaning
+e	thessaloniki	thessaloniki	1 meaning
+e	theta variant	thetavariant	1 meaning
+e	third baseman	thirdbaseman	1 meaning
+e	third country	thirdcountry	1 meaning
+e	thoroughbred	thoroughbred	2 meanings
+e	thoroughfare	thoroughfare	2 meanings
+e	three days ago	threedaysago	1 meaning
+e	three hundred	threehundred	1 meaning
+e	three of a kind	threeofakind	1 meaning
+e	three poisons	threepoisons	1 meaning
+e	three-fourths	threefourths	1 meaning
+e	three-wheeler	threewheeler	1 meaning
+e	thundercloud	thundercloud	2 meanings
+e	thunderstorm	thunderstorm	1 meaning
+e	thyroid gland	thyroidgland	1 meaning
+e	thanatophobia	thanatophobia	1 meaning
+e	thank goodness	thankgoodness	1 meaning
+e	that's all, folks	thatsallfolks	1 meaning
+e	the bill, please	thebillplease	1 meaning
+e	the line is busy	thelineisbusy	1 meaning
+e	theoretically	theoretically	1 meaning
+e	therianthrope	therianthrope	1 meaning
+e	thermal energy	thermalenergy	1 meaning
+e	thessalonians	thessalonians	1 meaning
+e	thing-in-itself	thinginitself	1 meaning
+e	thoroughgoing	thoroughgoing	1 meaning
+e	thought police	thoughtpolice	1 meaning
+e	three kingdoms	threekingdoms	1 meaning
+e	three thousand	threethousand	1 meaning
+e	three-quarters	threequarters	1 meaning
+e	thresher shark	threshershark	1 meaning
+e	thumb one's nose	thumbonesnose	1 meaning
+e	thermodynamics	thermodynamics	1 meaning
+e	thirty years' war	thirtyyearswar	1 meaning
+e	thought process	thoughtprocess	1 meaning
+e	thoughtography	thoughtography	1 meaning
+e	three-point shot	threepointshot	1 meaning
+e	threshing floor	threshingfloor	1 meaning
+e	thanks for coming	thanksforcoming	1 meaning
+e	the good die young	thegooddieyoung	1 meaning
+e	thermochemistry	thermochemistry	1 meaning
+e	third-wave coffee	thirdwavecoffee	1 meaning
+e	three-legged race	threeleggedrace	1 meaning
+e	throw in the towel	throwinthetowel	1 meaning
+e	thank you very much	thankyouverymuch	1 meaning
+e	the measure of a man	themeasureofaman	1 meaning
+e	thick-billed murre	thickbilledmurre	1 meaning
+e	thoracic vertebra	thoracicvertebra	1 meaning
+e	three-dimensional	threedimensional	1 meaning
+e	thrombocytopenia	thrombocytopenia	1 meaning
+e	throw cold water on	throwcoldwateron	1 meaning
+e	thyroid cartilage	thyroidcartilage	1 meaning
+e	the more the merrier	themorethemerrier	2 meanings
+e	the other way around	theotherwayaround	1 meaning
+e	third-person plural	thirdpersonplural	1 meaning
+e	thought experiment	thoughtexperiment	1 meaning
+e	theoretical physics	theoreticalphysics	1 meaning
+e	theory of relativity	theoryofrelativity	1 meaning
+e	third-person shooter	thirdpersonshooter	1 meaning
+e	thiruvananthapuram	thiruvananthapuram	1 meaning
+e	thermal conductivity	thermalconductivity	1 meaning
+e	thermonuclear weapon	thermonuclearweapon	1 meaning
+e	third time is the charm	thirdtimeisthecharm	1 meaning
+e	third-person singular	thirdpersonsingular	1 meaning
+e	the call of south africa	thecallofsouthafrica	1 meaning
+e	there's been an accident	theresbeenanaccident	1 meaning
+e	there's a lid for every pot	theresalidforeverypot	1 meaning
+e	there's no place like home	theresnoplacelikehome	1 meaning
+e	three marks of existence	threemarksofexistence	1 meaning
+e	the devil is in the details	thedevilisinthedetails	1 meaning
+e	the fish rots from the head	thefishrotsfromthehead	1 meaning
+e	thoracic outlet syndrome	thoracicoutletsyndrome	1 meaning
+e	three-spined stickleback	threespinedstickleback	1 meaning
+e	the early bird gets the worm	theearlybirdgetstheworm	1 meaning
+e	the end justifies the means	theendjustifiesthemeans	1 meaning
+e	the world is someone's oyster	theworldissomeonesoyster	1 meaning
+e	the city of a thousand windows	thecityofathousandwindows	1 meaning
+e	the cowl does not make the monk	thecowldoesnotmakethemonk	1 meaning
+e	the chickens come home to roost	thechickenscomehometoroost	1 meaning
+e	there's no accounting for taste	theresnoaccountingfortaste	1 meaning
+e	three principles of the people	threeprinciplesofthepeople	1 meaning
+e	the enemy of my enemy is my friend	theenemyofmyenemyismyfriend	1 meaning
+e	there but for the grace of god go i	therebutforthegraceofgodgoi	1 meaning
+e	the eyes are the window to the soul	theeyesarethewindowtothesoul	1 meaning
+e	the pen is mightier than the sword	thepenismightierthanthesword	1 meaning
+e	there is nothing new under the sun	thereisnothingnewunderthesun	1 meaning
+e	there is an exception to every rule	thereisanexceptiontoeveryrule	1 meaning
+e	there's many a slip twixt cup and lip	theresmanyasliptwixtcupandlip	1 meaning
+e	there's no such thing as a free lunch	theresnosuchthingasafreelunch	1 meaning
+e	the dogs bark, but the caravan goes on	thedogsbarkbutthecaravangoeson	1 meaning
+e	the proof of the pudding is in the eating	theproofofthepuddingisintheeating	1 meaning
+e	the quick brown fox jumps over the lazy dog	thequickbrownfoxjumpsoverthelazydog	1 meaning
+e	the spirit is willing, but the flesh is weak	thespiritiswillingbutthefleshisweak	1 meaning
+e	the nail that sticks out gets hammered down	thenailthatsticksoutgetshammereddown	1 meaning
+e	the grass is always greener on the other side	thegrassisalwaysgreenerontheotherside	1 meaning
+e	the road to hell is paved with good intentions	theroadtohellispavedwithgoodintentions	1 meaning

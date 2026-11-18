@@ -1,0 +1,708 @@
+e	ok	ok	6 meanings
+k	옥	ok	jade (precious stone)
+j	おおか	oka	ka-ending dialect form of…
+j	おおく	oku	数量が多いこと。多数の事物や人。
+j	おか	oka	丘, 岡: hill
+j	おき	oki	open sea
+j	おく	oku	ある場所に安定させ、運動を止める。
+j	おけ	oke	木製、樹脂製の円筒形で底がある容器。
+j	おこ	oko	尾籠, 烏滸, 嗚呼, 痴: foolish, s…
+j	お子	oko	a child; especially the a…
+j	オカ	oka	
+j	オケ	oke	
+j	オーカー	oka	
+j	オーク	oku	oak (tree or shrub of the…
+j	オーケー	oke	OK: agreement; consent
+j	丘	oka	（おか）周囲に比べ小高くなっている土地。
+j	億	oku	a hundred million, 10⁸
+j	多く	oku	largely; mostly
+j	奥	oku	inside; inner depths
+j	奥区	oku	奥深く、険要な地。
+j	嫗煦	oku	温め、養育すること。
+j	応化	oka	（おうか）生物が環境に応じてその性質を変えること。
+j	応器	oki	仏道を修行する者が使う食器。
+j	憶	oku	to recall; to remember
+j	押下	oka	pressing down; depression
+j	桜花	oka	a cherry blossom
+j	桶	oke	a tube-shaped container f…
+j	横句	oku	偽りの文句。
+j	横禍	oka	不測の災難。
+j	横行	oko	walking sideways, stagger…
+j	欧化	oka	ヨーロッパ風にすること。
+j	殃禍	oka	わざわい。災禍。災難。
+j	沖	oki	（おき）海や湖で岸から見える範囲ではあるが遠く離れ…
+j	王侯	oko	kings and marquises
+j	王公	oko	王と諸侯。貴顕。
+j	王化	oka	君子の徳化が世の中に行き渡ってよくなること。
+j	王后	oko	queen, empress
+j	王家	oke	royal family
+j	王畿	oki	王城付近の土地。畿内。
+j	秧歌	oka	田植え歌。
+j	置く	oku	to put, place, set
+j	臆	oku	chest
+j	謳歌	oka	glorification
+j	起く	oku	to rise
+j	隠岐	oki	Oki Province, an old prov…
+j	隩区	oku	奥地。
+j	鶯簧	oko	うぐいすの鳴き声。
+j	麻笥	oke	
+j	黄化	oka	食物で緑色になるべき葉などが日光不足などの影響によ…
+e	okra	okra	2 meanings
+j	おおきい	okii	空間や場所をおおいに占めている。容量の多い様。
+j	おかん	okan	mother
+j	おくう	okuu	屋宇: house
+j	おっかー	okka	mother
+j	おっくう	okku	億劫: trouble, hassle, both…
+j	オッケー	okke	OK: agreement; consent
+j	億劫	okku	troublesome
+j	凹形	okei	中央がへこんだ形。
+j	大きい	okii	big
+j	奥井	okui	a surname
+j	屋宇	okuu	house
+j	屋烏	okuu	crow perching on a roof
+j	往詣	okei	神仏を参拝すること。参詣すること。
+j	応急	okyu	responding to an emergency
+j	悪寒	okan	ague (chill, or state of …
+j	拗頸	okei	強情なさま。
+j	枉径	okei	邪径。
+j	枉繫	okei	冤罪をかけられること。
+j	王冠	okan	crown (the headdress of a…
+j	王卿	okei	国王と公卿。
+j	王宮	okyu	palace of the king
+j	王系	okei	王、王室の系統。
+j	甕醯	okei	鰹虫。
+j	翁雞	okei	雁。
+k	오케이	okei	good
+k	오크	okeu	
+k	옥고	okgo	the hardships of prison l…
+k	옥도	okdo	
+k	옥사	oksa	die in prison
+k	옥소	okso	
+k	옥수	oksu	chalcedony (fine-grained …
+k	옥시	oksi	
+k	옥외	okoe	
+k	옥토	okto	rich soil, fertile land
+k	옭다	okda	
+e	okapi	okapi	1 meaning
+e	okara	okara	1 meaning
+e	okrug	okrug	1 meaning
+e	ōkawa	okawa	1 meaning
+j	おうこく	okoku	横谷: a cross valley, a tra…
+j	おおかぜ	okaze	強く激しく吹く風。暴風。
+j	おおかた	okata	ほぼ全体。大部分。
+j	おおかみ	okami	ネコ目（食肉目）イヌ科イヌ属に属する哺乳動物。学名…
+j	おおかわ	okawa	大きい川。大河。
+j	おおきさ	okisa	空間を占める程度、大きい程度。大小。サイズ。
+j	おおきな	okina	
+j	おおきに	okini	（主として戦前の口語）大変、おおいに。
+j	おおきめ	okime	slightly larger than usual
+j	おおくら	okura	古代、朝廷への財物や神物、諸国からの貢ぎ物などの官…
+j	おおけが	okega	重い傷（怪我）を負うこと。
+j	おおこけ	okoke	failure
+j	おかか	okaka	katsuobushi (dried, shave…
+j	おかげ	okage	grace (of God), benevolen…
+j	おかす	okasu	
+j	おかず	okazu	a side dish
+j	おかた	okata	「方」を丁寧に言う語。
+j	おかね	okane	「かね」を丁寧に言う語。金銭。
+j	おかぶ	okabu	「株」の丁寧語。特にその人の得意技や癖。
+j	おかべ	okabe	tofu, bean curd
+j	おかぼ	okabo	水田ではなく畑で栽培される稲。
+j	おかま	okama	Used other than figurativ…
+j	おかみ	okami	「かみ」の丁寧語。
+j	おかめ	okame	「阿多福」に同じ。
+j	おから	okara	豆腐を作る過程において大豆から豆乳を絞りとった際に…
+j	おきあい	okiai	沖（おき）の方のこと。
+j	おきた	okita	
+j	おきて	okite	その社会において守らなければならない決まり。
+j	おきば	okiba	物を置くまたは置いておく場所。
+j	おきや	okiya	芸娼妓などを抱えて置き、必要に応じ派遣する家。また…
+j	おきる	okiru	（起きる）人や棒状のものなどが、伏せたりして横にな…
+j	おくて	okute	植物（農作物）で生長や成熟が遅い品種。
+j	おくば	okuba	口の中の奥の方の歯。
+j	おくび	okubi	burp
+j	おくら	okura	公開しないこと。上演することになっていた歌舞伎の演…
+j	おくり	okuri	「おくる」の連用形。
+j	おくる	okuru	【送】（自分のそばにあるものを）相手の側に移動させ…
+j	おくれ	okure	他よりも後になること。
+j	おけけ	okeke	hair
+j	おけや	okeya	桶を作って売る店。
+j	おけら	okera	けら。バッタ目ケラ科の昆虫の総称。
+j	おこげ	okoge	burnt residual food
+j	おこじょ	okojo	stoat; ermine
+j	おこす	okosu	【起（こ）す】伏せている、横になっている状態の人や…
+j	おこぜ	okoze	a stonefish (any fish of …
+j	おこぼ	okobo	platform geta worn by gir…
+j	おこめ	okome	「こめ」の丁寧語。
+j	おこり	okori	間欠的に発熱し、悪寒・震えなどの症状を呈する病気。…
+j	おこる	okoru	不快に感じ、その原因に対して非難の感情を強くあらわ…
+j	おこわ	okowa	steamed glutinous rice
+j	おっかん	okkan	synonym of お母さん (o-kā-san…
+j	おっきい	okkii	
+j	お侠	okyan	
+j	お方	okata	person
+j	お灸	okyuu	
+j	お焦げ	okoge	
+j	お金	okane	money
+j	オオカミ	okami	狼: Wolf; Canis lupus.
+j	オカズ	okazu	
+j	オカピ	okapi	an okapi (Okapia johnston…
+j	オカマ	okama	
+j	オクラ	okura	okra (Abelmoschus esculen…
+j	オコジョ	okojo	ネコ目イタチ科イタチ属に属する哺乳類。アジア北部、…
+j	オコナー	okona	
+j	オークヤー	okuya	marquess, marquis (of Ayu…
+j	侵す	okasu	to intrude, to trespass, …
+j	冒す	okasu	to dare, to risk, to brav…
+j	凹角	okaku	二直角より大きく、四直角より小さい角。
+j	多くの	okuno	
+j	大きさ	okisa	
+j	大きな	okina	synonym of 大きい (ōkii, “bi…
+j	大きに	okini	greatly, considerably
+j	大久保	okubo	a surname
+j	大倉	okura	a surname
+j	大君	okimi	the emperor, His Majesty
+j	大川	okawa	Ōkawa (a city in Fukuoka …
+j	大方	okata	the majority, the large p…
+j	大火事	okaji	規模の大きな火事。大火。
+j	大熊	okuma	a surname
+j	大神	okami	a god
+j	大蔵	okura	an imperial treasury
+j	大隈	okuma	a surname
+j	奥歯	okuba	molar; back tooth
+j	奥田	okuda	The neighborhoods of Inaz…
+j	奥野	okuno	a surname
+j	女将	okami	a proprietress, a female …
+j	屋上	okujo	rooftop
+j	岡田	okada	a neighborhood of Chita, …
+j	岡部	okabe	a surname
+j	岡野	okano	a surname
+j	後れ	okure	being timid, flinch, reco…
+j	御侠	okyan	若い女性の行動などが活発で軽はずみなこと。
+j	御数	okazu	
+j	御殻	okara	okara (edible byproduct o…
+j	怒る	okoru	to get angry, to anger
+j	掟	okite	rule; law
+j	於ける	okeru	in
+j	朮	okera	Atractylodes lancea
+j	桶屋	okeya	
+j	沖合	okiai	offshore
+j	沖田	okita	a neighborhood of Nakamur…
+j	沖野	okino	a surname
+j	熾きる	okiru	for a fire to be kindled
+j	熾す	okosu	to make; to light (a fire)
+j	犯す	okasu	to commit (some kind of m…
+j	狼	okami	a wolf (animal)
+j	王国	okoku	kingdom (realm ruled by a…
+j	置き場	okiba	place to put something
+j	置き字	okiji	kanji that is not read in…
+j	置屋	okiya	geisha house
+j	興す	okosu	produce, promote
+j	興る	okoru	flourish
+j	興子	okiko	a female given name
+j	虎魚	okoze	
+j	贈る	okuru	to send (as a present or …
+j	起きる	okiru	to wake up
+j	起ける	okeru	
+j	起こす	okosu	to wake (someone), to get…
+j	起こる	okoru	to happen; to occur
+j	起る	okoru	
+j	越関	okkan	何らかの方法により関所をやぶること。関所破り。
+j	送り	okuri	imperfective and stem (or…
+j	送る	okuru	to send; to dispatch
+j	遅れ	okure	something later, after, o…
+j	鶯谷	okoku	うぐいすが谷にいること。また、そのような谷。
+j	龗	okami	a dragon kami of water (r…
+k	오카피	okapi	okapi (Okapia johnstoni)
+k	옥새	oksae	imperial jade seal
+k	옥쉬	okswi	
+k	옥심	oksim	oxime
+k	옥저	okjeo	Okjeo (an ancient Korean …
+k	옥좌	okjwa	the emperor's seat; throne
+k	옥탄	oktan	
+k	옥탑	oktap	rooftop
+k	옥화	okhwa	
+j	おかえり	okaeri	「かえり」の丁寧な表現。
+j	おかし	okashi	modernized spelling of をか…
+j	おきあみ	okiami	網を水中に張って魚がかかる漁法。その網。まちあみ。
+j	おくさん	okusan	「奥様」より軽めの丁寧語。
+j	おくち	okuchi	「くち」を丁寧に言う語。
+j	おくちょう	okucho	億兆: the masses, the people
+j	おけつ	oketsu	「けつ」の丁寧語。おしり。
+j	おこさん	okosan	相手の子供に対する丁寧語。「おこさま」よりくだけた…
+j	おこし	okoshi	
+j	おこない	okonai	物事をすること。行動。行為。
+j	おこなう	okonau	ある一定の様式やルールに従って、物事を実施する。
+j	お客	okyaku	「客」を丁寧に言う語。
+j	お帰り	okaeri	someone's return
+j	お構い	okamai	act of treating with hosp…
+j	お母さん	okasan	mother; one's mother
+j	お菓子	okashi	synonym of 菓子 (kashi, “co…
+j	オキアミ	okiami	
+j	オクタン	okutan	octane
+j	オクテン	okuten	octene
+j	オック語	okkugo	the Occitan language
+j	億万	okuman	millions and millions, co…
+j	億兆	okucho	an infinitely large number
+j	大后	okisai	an empress (of ancient or…
+j	大河内	okochi	a surname
+j	奥さん	okusan	wife (referring to someon…
+j	奥地	okuchi	inner lands: (for example…
+j	屋内	okunai	indoor
+j	屋外	okugai	outdoor
+j	屋蓋	okugai	屋根の棟。屋頂。屋極。
+j	屋頂	okucho	屋根の棟。屋蓋。屋極。
+j	御客	okyaku	「お客」を参照。
+j	怒った	okotta	
+j	悪血	oketsu	病毒が含まれている血液。
+j	憶念	okunen	心に深く銘記し忘れない思い。
+j	憶病	okubyo	
+j	押脚	okyaku	書画の下方に押す印。
+j	枉屈	okutsu	腰を屈め、遜ること。
+j	汚客	okyaku	unwelcome customer
+j	沖醤蝦	okiami	a krill
+j	甌穴	oketsu	Giant's kettle, pothole, …
+j	瘀血	oketsu	（東洋医学）循環が停滞している古い血液。
+j	置き配	okihai	delivery to a designated …
+j	臆断	okudan	推測、憶測により決めること。また、その判断。
+j	臆病	okubyo	cowardly; timid
+j	臆面	okumen	hesitation
+j	行う	okonau	to perform; to do; to con…
+j	起こし	okoshi	raising
+j	追っかけ	okkake	groupie (euthusiastic fol…
+j	鴨脚	okyaku	synonym of 銀杏 (ichō, “the…
+k	오크라	okeura	(학명: Abelmoschus esculent…
+k	오크어	okeueo	
+k	옥구시	okgusi	
+k	옥녀	oknyeo	
+k	옥데기	okdegi	
+k	옥상	oksang	rooftop
+k	옥색	oksaek	light blue, turquoise blue
+k	옥석	okseok	jade
+k	옥소시	oksosi	
+k	옥수구	oksugu	
+k	옥수수	oksusu	maize; corn (US)
+k	옥수시	oksusi	
+k	옥시기	oksigi	corn, maize
+k	옥시시	oksisi	
+k	옥조시	okjosi	
+k	옥중	okjung	inside the prison; prison…
+k	옥지시	okjisi	
+k	옥테인	oktein	octane
+k	옭히다	okhida	
+e	okayama	okayama	1 meaning
+e	okazaki	okazaki	1 meaning
+e	okhotsk	okhotsk	2 meanings
+e	okinawa	okinawa	2 meanings
+j	おおかみ座	okamiza	Lupus
+j	おおくても	okutemo	
+j	おかあさん	okaasan	親しみと敬意を込めて自分の母親を呼ぶ語あるいは指す…
+j	おかえし	okaeshi	
+j	おかげで	okagede	
+j	おかしい	okashii	笑いたくなる。おもしろい。滑稽だ。馬鹿らしい。馬鹿…
+j	おかひき	okahiki	江戸時代、与力、同心のもとで私的に働いた者。以前罪…
+j	おかふぐ	okafugu	猫肉の別称。
+j	おかやま	okayama	岡山: Okayama
+j	おからだ	okarada	相手の体や体調について丁寧に言う語。
+j	おかわり	okawari	同じ食べ物を再び求めること。
+j	おきがさ	okigasa	不意に雨が降ったときに備えるため、職場などに予め置…
+j	おきざり	okizari	abandoning someone or som…
+j	おきなみ	okinami	沖に立つ波。
+j	おきまり	okimari	「きまり」を丁寧に言う語。
+j	おきもの	okimono	供えて置くもの。特に神仏に供えるもののこと。
+j	おくがき	okugaki	写本や刊行された書物で本文の前や後に写本年月や来歴…
+j	おくがた	okugata	家の奥にある部屋。
+j	おくさま	okusama	妻の丁寧な言い方。
+j	おくそこ	okusoko	一番奥の深い所。
+j	おくづけ	okuzuke	奥付, 奥付け: (publishing) col…
+j	おくのて	okunote	ace up one's sleeve
+j	おくまる	okumaru	to be located in somethin…
+j	おくむき	okumuki	居間、台所など家の奥の方。
+j	おくやま	okuyama	人里離れた山の中。深山。
+j	おくやみ	okuyami	「くやみ」を丁寧に言う語。
+j	おくゆき	okuyuki	家屋・土地・部屋などの入口から奥までの距離。間口。
+j	おくりな	okurina	帝王・相国などの貴人の死後に贈る称号。
+j	おくれげ	okurege	hair that is too short to…
+j	おくれる	okureru	ある物が他の物より後になる。
+j	おこころ	okokoro	相手の心（気持ちや考えなど）に対する丁寧語。
+j	おこさま	okosama	相手を敬って子供を丁寧に言う語。
+j	おこたる	okotaru	すべき事をしないままでいる。
+j	おこぼれ	okobore	「零れ」を丁寧に言う語。
+j	おっかさん	okkasan	母を親しんで呼ぶ語。
+j	おっかない	okkanai	frightening; scary
+j	お代わり	okawari	second helping
+j	お悔やみ	okuyami	
+j	お返し	okaeshi	
+j	オカリナ	okarina	ocarina (musical instrume…
+j	オカルト	okaruto	occult
+j	オクターブ	okutabu	octave
+j	オクチン	okuchin	octyne
+j	オクトーバー	okutoba	十月。
+j	オーキシン	okishin	auxin
+j	オークション	okushon	auction
+j	オークルグ	okurugu	
+j	億ション	okushon	luxury apartment
+j	可笑しい	okashii	funny, laughable
+j	大方は	okatawa	
+j	大毛蓼	oketade	
+j	大蝙蝠	okomori	a megabat
+j	奥の手	okunote	
+j	奥付	okuzuke	colophon
+j	奥原	okuhara	a surname
+j	奥山	okuyama	a surname
+j	奥底	okusoko	deepest depths
+j	奥方	okugata	lady
+j	奥村	okumura	a surname
+j	奥様	okusama	wife; madam
+j	奥行き	okuyuki	depth; distance between t…
+j	岡原	okahara	a surname
+j	岡山	okayama	Okayama (the capital city…
+j	岡島	okajima	a surname
+j	岡崎	okazaki	Okazaki (a city in Aichi …
+j	岡嶋	okajima	a surname
+j	岡本	okamoto	a surname
+j	岡村	okamura	a surname
+j	岡沢	okazawa	a surname
+j	岡澤	okazawa	a surname
+j	後れる	okureru	
+j	御籠もり	okomori	a retirement for prayer t…
+j	怠る	okotaru	be negligent
+j	憶する	okusuru	おじけづく。臆する。
+j	憶測	okusoku	不確かな根拠をもとに推測すること。
+j	招縄	okinawa	a jess: a strap secured t…
+j	沖永	okinaga	a surname
+j	沖縄	okinawa	a rope used to catch fish
+j	狼座	okamiza	
+j	臆する	okusuru	to be timid
+j	臆測	okusoku	theory, conjecture
+j	諡	okurina	posthumous name
+j	謚号	okurigo	死後その人に贈られる名。贈号。おくりな。
+j	起き抜け	okinuke	the time just after wakin…
+j	送り状	okurijo	an invoice (bill)
+j	遅らす	okurasu	to slow down; to impede
+j	遅れた	okureta	
+j	遅れる	okureru	to be late, to be tardy
+j	陸蒸気	okajoki	steam locomotive
+k	오카리나	okarina	
+k	오카야마	okayama	
+k	오크너	okeuneo	window
+k	오키나와	okinawa	‘오키나와섬’을 달리 이르는 말.
+k	옥데끼	okdekki	
+k	옥덱기	okdekgi	
+k	옥배유	okbaeyu	corn germ oil; maize germ…
+k	옥사졸	oksajol	oxazole
+k	옥션	oksyeon	auction
+k	옥소꾸	oksokku	
+k	옥수꾸	oksukku	
+k	옥수끼	oksukki	
+k	옥수쑤	oksussu	
+k	옥쉬기	okswigi	
+k	옥쉬시	okswisi	
+k	옥시끼	oksikki	'강냉이'의 강원도 사투리.
+k	옥토끼	oktokki	moon rabbit
+k	옥편	okpyeon	Yupian
+e	okinawan	okinawan	3 meanings
+e	oklahoma	oklahoma	1 meaning
+e	okroshka	okroshka	1 meaning
+j	おおきんぶな	okinbuna	西日本に生息する鮒の仲間。
+j	おかしな	okashina	おかしい。
+j	おかしら	okashira	尾と頭。
+j	おかっぴき	okappiki	江戸時代、与力、同心のもとで私的に働いた者。以前罪…
+j	おかもち	okamochi	container for transportin…
+j	おきあがる	okiagaru	横になっていたものが体を起こしたり、立ち上がったり…
+j	おきかえる	okikaeru	起き上がる。起きて元の姿勢に戻る。
+j	おきだし	okidashi	沿岸から沖合に向かう潮流。
+j	おきどけい	okidokei	置き時計: desk clock, table c…
+j	おくふかい	okufukai	入り口などから奥がある。
+j	おくぶかい	okubukai	入り口などから遠い。奥行きがある。
+j	おくらいり	okurairi	shelving; cancellation
+j	おこづかい	okozukai	「こづかい」を丁寧に言う語。
+j	お小遣い	okozukai	
+j	お気に入り	okiniiri	a favorite
+j	お菓子屋	okashiya	a candy store
+j	オオカワウソ	okawauso	ネコ目イタチ科オオカワウソ属に属するかわうその一種…
+j	オキシム	okishimu	oxime
+j	オキソ酸	okisosan	
+j	オケアノス	okeanosu	
+j	オコレハオ	okorehao	センネンボクの根を発酵、蒸留して作るハワイ特産の蒸…
+j	オークランド	okurando	Auckland (a city in New Z…
+j	オーク材の	okuzaino	
+j	オーケアノス	okeanosu	Oceanus
+j	乎古止点	okototen	marks to aid in reading C…
+j	乎子止点	okototen	漢文の訓読の際、漢字の周囲に付した読み方を表す符号。
+j	侵せない	okasenai	
+j	可笑しな	okashina	strange; odd
+j	大きいこと	okiikoto	
+j	大蔵卿	okurakyo	the Minister of the Treas…
+j	大蔵省	okurasho	the Ministry of the Treas…
+j	奥深い	okufukai	physically deep or profou…
+j	屋内の	okunaino	
+j	屋外で	okugaide	
+j	屋外の	okugaino	
+j	屋極	okukyoku	屋根の棟。屋頂。屋蓋。
+j	御供物	okumotsu	「供物」を丁寧に言う語。
+j	憶説	okusetsu	仮定や憶測による意見。
+j	横行闊歩	okokappo	自由気儘に我が物顔で歩くこと。
+j	欧化主義	okashugi	近代化を進めるためにヨーロッパの様々な制度や文化を…
+j	沖巨頭	okigondo	a false killer whale
+j	王侯将相	okoshoso	王、諸侯、将軍、宰相といった国家の支配層。
+j	王畿千里	okisenri	君主の直轄地。
+j	置き時計	okidokei	desk clock, table clock, …
+j	臆病な	okubyona	
+j	臆説	okusetsu	仮定や憶測による意見。
+j	起きている	okiteiru	
+j	起こりうる	okoriuru	
+j	起こり得る	okoriuru	
+j	起世	okitoshi	a male given name
+j	追っ掛ける	okkakeru	
+j	追っ駆ける	okkakeru	
+k	오끼나와	okkinawa	‘오끼나와섬’을 달리 이르는 말.
+k	오컬트	okeolteu	
+k	옥대끼	okdaekki	
+k	옥수끄	oksukkeu	
+k	옥수수유	oksusuyu	
+k	옥수캐이	oksukaei	
+k	옥스팜	okseupam	
+k	옥시깨	oksikkae	
+k	옥잠화	okjamhwa	hosta, plantain lily
+e	okurigana	okurigana	1 meaning
+j	おおかみおんな	okamionna	女性の人狼。
+j	おおくわがた	okuwagata	甲虫目クワガタムシ科オオクワガタ属に属するホペイお…
+j	おかげさま	okagesama	
+j	おかさがけ	okasagake	通常の笠懸より的の大きさや的までの距離が短い笠懸。…
+j	おから工事	okarakoji	tofu dreg project (of Chi…
+j	おきなかせ	okinakase	港湾での荷役や船内への積み込みを行う労働者。おきな…
+j	おきなぐさ	okinagusa	キンポウゲ科の多年草。本州から九州の低山地に自生す…
+j	おきみやげ	okimiyage	来訪者が去る時に置いていく贈り物。
+j	おくびする	okubisuru	
+j	おくらせる	okuraseru	動きを遅くする。遅れるようにする。
+j	おくりがな	okurigana	漢字使った文章で用言の活用を示すなどにより、文章を…
+j	おくりだす	okuridasu	外へ出ていく者を見送る。
+j	おくりづゆ	okurizuyu	梅雨の末期に降る豪雨。
+j	おくりもの	okurimono	他者に品物を贈ること。
+j	おくればせ	okurebase	時機に遅れて行うこと。
+j	おことわり	okotowari	「ことわり」を丁寧に言う語。
+j	おこらせる	okoraseru	
+j	おこりっぽい	okorippoi	すぐに怒る性質・性格だ。
+j	おっこちる	okkochiru	to fall down
+j	お客さん	okyakusan	guest, visitor
+j	オオカズナギ	okazunagi	スズキ目タウエガジ科カズナギ属に属する魚の一種。学…
+j	オオカナダモ	okanadamo	オモダカ目トチカガミ科オオカナダモ属に属する沈水植…
+j	オカメインコ	okameinko	a cockatiel
+j	オキサゾール	okisazoru	oxazole
+j	オクスナード	okusunado	Oxnard (a city in Califor…
+j	オクトバス	okutobasu	
+j	オクトパス	okutopasu	蛸。
+j	オクラホマ	okurahoma	Oklahoma (a state in the …
+j	オークショニア	okushonia	オークションの進行を務める人。競売人。
+j	オーケストラ	okesutora	orchestra
+j	億り人	okuribito	a person who has become a…
+j	大きくする	okikusuru	
+j	大熊猫	okumaneko	
+j	奥南蛮	okunanban	戦国時代から江戸時代初期のヨーロッパの呼称。
+j	岡崎屋	okazakiya	a surname
+j	御蔭様	okagesama	somebody's assistance
+j	応急手当	okyuteate	事故などによる負傷や急病の人に対し、医師による治療…
+j	応急措置	okyusochi	
+j	怒らせる	okoraseru	
+j	怒りっぽい	okorippoi	
+j	怒り出す	okoridasu	
+j	横行結腸	okoketcho	結腸の一部で、上行結腸と下行結腸を右から左へ結ぶ部…
+j	横隔膜	okakumaku	a thoracic diaphragm
+j	沖の太夫	okinotayu	
+j	沖縄語	okinawago	the Okinawan language
+j	狼女	okamionna	a female werewolf
+j	王家の谷	okenotani	Valley of the Kings (a va…
+j	置き換わる	okikawaru	be transposed
+j	翁草	okinagusa	narrow-leaf pasque-flower…
+j	贈り物	okurimono	present; gift
+j	起こりそうな	okorisona	
+j	送り仮名	okurigana	okurigana
+j	送り出す	okuridasu	to send, ship (an item)
+j	遅らせる	okuraseru	to slow down; to impede; …
+j	阿亀笹	okamezasa	ruscus bamboo (Shibataea …
+j	黄褐色	okasshoku	yellowish-brown
+k	오케아노스	okeanoseu	
+k	오케아니스	okeaniseu	
+k	오쿠리가나	okurigana	일본어에서 한자(간지)와 같이 써서 읽는데 도…
+k	오크루그	okeurugeu	
+k	오키나와어	okinawaeo	Okinawan (language)
+k	오키나와의	okinawaui	
+k	옥수깨이	oksukkaei	
+k	옥시토신	oksitosin	oxytocin
+k	옥시페놀	oksipenol	
+k	옥타데칸	oktadekan	
+k	옥타코산	oktakosan	
+j	おおかみおとこ	okamiotoko	昼間は人間で夜間おおかみに変身するというヨーロッパ…
+j	おかねもち	okanemochi	「かねもち」の丁寧語。大尽。
+j	おかのした	okanoshita	分かった。了解した。
+j	おきつとり	okitsutori	沖つ鳥: offshore bird
+j	おきなかし	okinakashi	港湾での荷役や船内への積み込みを行う労働者。おきな…
+j	おきなわけん	okinawaken	
+j	おくりむかえ	okurimukae	picking up and sending off
+j	おこそ頭巾	okosozukin	女性用の頭巾で目の周囲だけを出し、頭部と顔面を覆う…
+j	お客様	okyakusama	guest, visitor
+j	お構いなく	okamainaku	please don't fuss over me…
+j	お気に入りの	okiniirino	
+j	お金がない	okaneganai	
+j	オオクチバス	okuchibasu	サンフィッシュ科の淡水魚。学名は Micropte…
+j	オカマを掘る	okamaohoru	to rear-end someone in a …
+j	オキシドール	okishidoru	過酸化水素水の日本薬局方における名称。過酸化水素を…
+j	オキソニウム	okisoniumu	
+j	オクシタニー	okushitani	
+j	オクタコサン	okutakosan	octacosane
+j	オクタスロン	okutasuron	
+j	オクタデカン	okutadekan	octadecane
+j	オクタデセン	okutadesen	octadecene
+j	オクローシカ	okuroshika	okroshka
+j	オックステール	okkusuteru	
+j	オックスナード	okkusunado	Oxnard (a city in Califor…
+j	オックスフォード	okkusufodo	Oxford (a city in England)
+j	大きなお世話	okinaosewa	
+j	大きな声で	okinakoede	
+j	大口バス	okuchibasu	a largemouth bass
+j	大国主	okuninushi	a kami of nation-building…
+j	奥座敷	okuzashiki	家屋の奥の方にある座敷。
+j	岡山市	okayamashi	岡山県の県庁所在地。
+j	岡山県	okayamaken	a prefecture in the 中国 (C…
+j	応急処置	okyushochi	急場において一時的に行う手当てなどの処置。
+j	沖縄人	okinawajin	
+j	沖縄市	okinawashi	
+j	沖縄県	okinawaken	a prefecture of Japan com…
+j	狼男	okamiotoko	a werewolf
+j	臆病神	okubyogami	臆病な気持ちを起こさせるという神。また、その神によ…
+j	臆病者	okubyomono	coward
+j	臆病風	okubyokaze	臆病な気持ち。
+k	오크니 제도	okeunijedo	
+k	오크로시카	okeurosika	okroshka
+k	옥덩굴	okdeonggul	
+k	옥수갱이	oksugaengi	
+k	옥수꽤이	oksukkwaei	
+k	옥수캥이	oksukaengi	
+k	옥스포드	okseupodeu	
+k	옥타데케인	oktadekein	
+k	옥타비우스	oktabiuseu	
+k	옥타코세인	oktakosein	
+k	옥토베이스	oktobeiseu	
+e	okinawa rail	okinawarail	1 meaning
+e	okonomiyaki	okonomiyaki	1 meaning
+j	おおかみこども	okamikodomo	
+j	おかえりなさい	okaerinasai	帰宅のときの挨拶。「ませ」「まし」をつけていう場合…
+j	おかけになる	okakeninaru	honorific of かける (kakeru)…
+j	おかげさまで	okagesamade	
+j	おかどちがい	okadochigai	訪れるべき家や場所を間違えること。
+j	おきわすれる	okiwasureru	所持していた物の置いた場所を忘れる。所持品を何処か…
+j	おくゆかしい	okuyukashii	refined; elegant
+j	おくりドラム	okuridoramu	feed drum; feeding drum
+j	おこがましい	okogamashii	身の程知らずだ。
+j	おこのみやき	okonomiyaki	お好み焼き: okonomiyaki, a typ…
+j	お好み焼き	okonomiyaki	okonomiyaki (a Japanese s…
+j	お帰りなさい	okaerinasai	welcome home (said by a p…
+j	オオカミの群れ	okaminomure	
+j	オオコノハズク	okonohazuku	フクロウ目フクロウ科コノハズク属に属する梟の一種。…
+j	オカルティズム	okarutizumu	
+j	オキカズナギ	okikazunagi	スズキ目タウエガジ科オキカズナギ属に属する魚の一種…
+j	オキシダント	okushidanto	
+j	オクシタニア	okushitania	
+j	億万長者	okumanchoja	billionaire (wealth excee…
+j	大きな範囲で	okinahanide	
+j	大樺斑	okabamadara	monarch butterfly, Danaus…
+j	大蔵大臣	okuradaijin	大蔵省の長官（大臣）。蔵相。
+j	屋外トイレ	okugaitoire	
+j	御蔭様で	okagesamade	
+j	応急用タイヤ	okyuyotaiya	スペアタイヤ。
+j	憶測する	okusokusuru	
+j	掟の箱	okitenohako	
+j	沖縄島	okinawajima	沖縄県の人口の大部分を占め、県庁所在地の那覇市があ…
+j	狼人間	okaminingen	a werewolf
+j	痴がましい	okogamashii	presumptuous
+j	置き忘れる	okiwasureru	to forget, to leave behin…
+j	置き惑わす	okimadowasu	to seem difficult to dist…
+j	翁蓬	okinayomogi	
+j	行われる	okonawareru	
+j	送り渡す	okuriwatasu	
+j	遅れさせる	okuresaseru	
+k	오케스트라	okeseuteura	orchestra
+k	오코노미야키	okonomiyaki	
+k	오클라호마	okeullahoma	[~주(州)] Oklahoma (a state…
+k	옥도정기	okdojeonggi	
+k	옥수괭이	oksugwaengi	
+k	옥수깽이	oksukkaengi	
+k	옥수수빵	oksusuppang	옥수숫가루로 만든 빵.
+k	옥수숫가루	oksusutgaru	옥수수를 곱게 빻은 가루.
+k	옥시깽이	oksikkaengi	
+k	옥신각신	oksingaksin	arguing about right and w…
+e	okinawan habu	okinawanhabu	1 meaning
+e	oklahoma city	oklahomacity	1 meaning
+j	おかよしがも	okayoshigamo	カモ目カモ科マガモ属に属する鳥の一種。学名:Ana…
+j	オカヨシガモ	okayoshigamo	
+j	オキシトシン	okishitoshin	oxytocin
+j	オキシフェノール	okishifenoru	
+j	オクタウィアヌス	okutawianusu	帝政ローマの初代皇帝（在位:紀元前27年から紀元後…
+j	オクラホマ市	okurahomashi	
+j	オークションハウス	okushonhausu	
+j	沖永良部語	okinoerabugo	日本語族琉球語派北琉球語群に属し、沖永良部島で話さ…
+j	沖縄本島	okinawahonto	沖縄県の人口の大部分を占め、県庁所在地の那覇市があ…
+k	오클랜드	okeullaendeu	
+k	오키나와 현	okinawahyeon	
+k	옥수꽹이	oksukkwaengi	
+k	옥수수기름	oksusugireum	
+k	옥수수댕이	oksusudaengi	
+j	おかしらつき	okashiratsuki	尾と頭が付いている丸々一匹の状態。
+j	おこのみやきや	okonomiyakiya	お好み焼きを食べさせる店。その料理人。
+j	おっかなびっくり	okkanabikkuri	恐る恐るびくびくしながら行うさま。
+j	お子様ランチ	okosamaranchi	children's meal
+j	お言葉ですが	okotobadesuga	
+j	オクシタニア語	okushitaniago	
+j	オクシデンタル	okushidentaru	西洋のものであること。西洋風であること。またその様…
+j	オクシリンコス	okushirinkosu	Oxyrhynchus, a city in Eg…
+j	オクタデカンさん	okutadekansan	オクタデカン酸: (organic chemist…
+j	オクタデカン酸	okutadekansan	octadecanoic acid
+j	オクトーバーフェスト	okutobafesuto	十月にドイツのミュンヘンで開催される大きな祭り。大…
+j	奥様運び	okusamahakobi	
+j	御子様ランチ	okosamaranchi	幼児が好む食べ物や飾りつけのされた定食。
+j	沖縄トラフ	okinawatorafu	鹿児島県、沖縄県の西の東シナ海を南北に貫くトラフ。
+j	沖縄方言	okinawanhogen	
+k	옥수수 전분	oksusujeonbun	
+k	옥수수깽이	oksusukkaengi	
+k	옥황상제	okhwangsangje	Jade Emperor
+e	okinotorishima	okinotorishima	1 meaning
+j	おおきいおともだち	okiiotomodachi	子供が好きなものに夢中になる大人。おおとも。
+j	お気持ち表明	okimochihyomei	complaint; grumble
+j	オクラホマシティ	okurahomashiti	Oklahoma City (a city, th…
+j	オクラホマ・シティ	okurahomashiti	
+j	大きいお友達	okiiotomodachi	adult fans of an anime, a…
+j	大隈重信	okumashigenobu	明治時代から大正時代の日本の政治家・教育者。183…
+j	岡目八目	okamehachimoku	lookers-on see most of th…
+j	正親司	okiminotsukasa	a 律令 (Ritsuryō) departmen…
+j	起こるべくして	okorubekushite	
+e	okazaki fragment	okazakifragment	1 meaning
+j	オクスデルケス科	okusuderukesuka	ハゼ目ハゼ亜目の科。ワラスボ亜科、ゴビオネルス亜科…
+j	多かれ少なかれ	okaresukunakare	more or less
+j	大きなお友達	okinaotomodachi	
+j	大きな悪いオオカミ	okinawaruiokami	
+j	沖つ白波	okitsushiranami	whitecaps of the offing
+j	王権神授説	okenshinjusetsu	divine right of kings
+j	起き上がり小法師	okiagarikoboshi	roly-poly, especially Oki…
+j	遅ればせながら	okurebasenagara	
+j	おくびにもださない	okubinimodasanai	思っていることを、他人に少しも気取られない様子。
+j	オクタトリアコンタン	okutatoriakontan	octatriacontane
+j	オッカムの剃刀	okkamunokamisori	ある事柄を説明するために必要以上に多くの仮定を設け…
+j	遅れてすみません	okuretesumimasen	
+j	陸に上がった河童	okaniagattakappa	
+k	오카자키 절편	okajakijeolpyeon	
+j	お寛ぎ下さい	okutsurogikudasai	
+j	起こさないで下さい	okosanaidekudasai	
+k	오컴의 면도날	okeomuimyeondonal	
+k	옥시덴탈 민도로	oksidentalmindoro	
+j	大きさ順に並べる	okisajunninaraberu	
+j	大国主命	okuninushinomikoto	A kami of nation-building…
+j	岡崎フラグメント	okazakifuragumento	Okazaki fragment
+k	옥수수흑수병	oksusuheuksubyeong	
+j	お勘定お願いします	okanjoonegaishimasu	
+j	オクシタニー地域圏	okushitanichiikiken	
+j	おかげさまで元気です	okagesamadegenkidesu	
+j	お金は幸福を買わない	okanewakofukuwokawanai	
+j	大きさ順に選別する	okisajunnisenbetsusuru	
+j	お客様は神様です	okyakusamawakamisamadesu	the customer is always ri…
+j	起こる事にはすべて意味がある	okorukotoniwasubeteimigaaru	

@@ -1,0 +1,2857 @@
+j	え	え	手で握って持つために器具に付けられた棒状のもの。
+j	上	え	the above
+j	会	え	meeting, gathering
+j	依	え	rely on; depend on
+j	兄	え	elder brother
+j	回	え	a turn, times around some…
+j	得	え	beneficial; with gain
+j	恵	え	blessing; grace; favor
+j	方	え	direction, way, side
+j	柄	え	a handle, a grip, a shaft…
+j	榎	え	Celtis sinensis, the Chin…
+j	江	え	inlet, bay
+j	笑	え	a laugh, laughing, laught…
+j	絵	え	picture, painting
+j	胞	え	placenta
+j	衛	え	defend; protect; guard
+j	衣	え	clothes, clothing
+j	重	え	a division
+j	飢	え	hungry; starve
+j	餌	え	animal food, feed
+j	えい	えい	used in situations requir…
+j	ええ	ええ	yes, indeed
+j	えき	えき	
+j	えさ	えさ	動物にあたえる食糧、食事。飼料。え。
+j	えせ	えせ	fake; false
+j	えそ	えそ	ヒメ目エソ科に属する硬骨魚類の総称。温帯から熱帯に…
+j	えぞ	えぞ	北海道、樺太、千島列島をまとめた古称。蝦夷地。
+j	えた	えた	穢多: (historical, offensiv…
+j	えだ	えだ	植物（主に樹木）の幹から分かれた比較的もろい部分。
+j	えっ	えっ	驚きをあらわす語。
+j	えて	えて	得意とするもの。得手物。
+j	えと	えと	十干と十二支の組み合わせ。十干十二支の略。
+j	えど	えど	feces
+j	えな	えな	afterbirth, the material …
+j	えに	えに	fate
+j	えば	えば	餌。
+j	えび	えび	節足動物、甲殻類、軟甲綱、十脚目のうち、ヤドカリと…
+j	えへ	えへ	
+j	えみ	えみ	えむこと。ほほえみ。
+j	えむ	えむ	にっこりとする。微笑する。ほほえむ。
+j	えら	えら	魚などの水生動物が、水中の酸素を取りこみ、体内の二…
+j	えり	えり	恵里, 恵理, 惠理, 絵里, 絵理, 絵梨, 江…
+j	える	える	得る, 獲る: to get, to acquir…
+j	えん	えん	
+j	えー	えー	
+j	え段	え段	the fourth and second-low…
+j	エア	エア	air (the gaseous mixture …
+j	エイ	エイ	魚類の一種である「えい」の学術分野における表記。
+j	エコ	エコ	eco-friendly; environment…
+j	エゴ	エゴ	ego
+j	エス	エス	The name of the Latin scr…
+j	エド	エド	ナイジェリア連邦共和国の州の一つエド州 (Edo)…
+j	エヌ	エヌ	The name of the Latin scr…
+j	エバ	エバ	
+j	エビ	エビ	甲殻綱・十脚目の中でヤドカリ下目ならびに短尾下目以…
+j	エフ	エフ	The name of the Latin scr…
+j	エペ	エペ	epee (fencing sword)
+j	エマ	エマ	a transliteration of the …
+j	エム	エム	The name of the Latin scr…
+j	エモ	エモ	
+j	エリ	エリ	Eli
+j	エル	エル	The name of the Latin scr…
+j	エロ	エロ	erotic
+j	エー	エー	ええ: yes; um; uh-huh
+j	会符	えふ	武家や公家の特定の身分の荷物を運送する際に特別な便…
+j	依怙	えこ	頼ること。また、頼るもの。
+j	円	えん	a round or circular objec…
+j	冤	えん	false charge
+j	叡	えい	clever; smart; sharp
+j	咽	えつ	throat
+j	咽	えん	throat
+j	営	えい	build; construct
+j	園	えん	garden, park
+j	圓	えん	
+j	垣下	えが	朝廷、公卿の邸宅で行われる饗応で正客の相伴をする役。
+j	塩	えん	salt
+j	壊死	えし	necrosis
+j	壊疽	えそ	gangrene
+j	壊苦	えく	広い意味での喪失に起因する苦。愛する者との別れや、…
+j	壞疽	えそ	
+j	媛	えん	a beauty, a beautiful wom…
+j	嬰	えい	newborn baby; infant
+j	宛	えん	as if; just like
+j	宴	えん	party, banquet, feast
+j	干支	えと	the sexagenary cycle (esp…
+j	幼	えう	childhood, infancy
+j	延	えん	extend, lengthen
+j	彫り	えり	engraving
+j	彫る	える	to sculpt; to carve
+j	影	えい	light
+j	役	えき	role, service, use
+j	得る	える	to get, acquire, gain, ob…
+j	怨	えん	hate; resent
+j	恵奈	えな	a female given name
+j	恵理	えり	a female given name
+j	恵美	えみ	a female given name
+j	恵里	えり	a female given name
+j	悦	えつ	joy; pleasure; delight
+j	援	えん	pull; draw
+j	揺	えう	shaking, swinging, trembl…
+j	斉魚	えつ	Japanese grenadier anchov…
+j	斉魚	エツ	Japanese grenadier anchov…
+j	易	えき	divination; fortune-telli…
+j	映	えい	a reflection; to reflect
+j	曜	えう	a male given name
+j	曳	えい	drag; pull
+j	杳	えう	dark and indistinct; uncl…
+j	枝	えだ	branch, limbs
+j	栄	えい	honour; glory
+j	永	えい	long (time)
+j	江戸	えど	Edo, the former name of T…
+j	江田	えだ	a surname
+j	沿	えん	follow; go along
+j	泳	えい	swim
+j	洩	えい	leak; escape
+j	海老	えび	a crayfish
+j	海老	エビ	a crayfish
+j	液	えき	liquid
+j	演	えん	develop; evolve
+j	炎	えん	a flame
+j	煙	えん	smoke
+j	狗	えぬ	a puppy or dog
+j	猿	えん	a monkey (primate)
+j	瑛里	えり	a female given name
+j	画図	えず	a drawing, an illustration
+j	盈	えい	to be full; to be filled;…
+j	益	えき	benefit
+j	祈	えば	to pray
+j	穢土	えど	The Impure Land; the eart…
+j	穢多	えた	the lowest group in Japan…
+j	笑	えみ	a laugh, laughing, laught…
+j	笑み	えみ	smile
+j	笑む	えむ	to smile
+j	筵	えん	a generic term for a wove…
+j	粤	えつ	alternative spelling for …
+j	絵図	えず	painting, drawing, illust…
+j	絵己	えみ	a female given name
+j	絵師	えし	painter (artist)
+j	絵梨	えり	a female given name
+j	絵符	えふ	武家や公家の特定の身分の荷物を運送する際に特別な便…
+j	絵素	えそ	（かいそ）絵画。
+j	絵里	えり	a female given name
+j	絵馬	えま	an ema, a small wooden pl…
+j	縁	えん	fate, destiny
+j	纓	えい	the tail of a 冠 (kanmuri,…
+j	翳	えい	shade; shadow (interchang…
+j	胞衣	えな	synonym of えな (ena, “(obs…
+j	腮	えら	
+j	腰	えう	the waist, the (lower) ba…
+j	良い	えい	good
+j	艶	えん	gloss, lustre (UK)/luster…
+j	英	えい	outstanding; outstanding …
+j	英理	えり	a female given name
+j	英里	えり	mile
+j	葉	えふ	leaf, needle, blade (of a…
+j	葡萄	えび	grape, grapevine
+j	蛯	えび	lobster, prawn, shrimp
+j	蛯	エビ	lobster, prawn, shrimp
+j	蝦夷	えぞ	those people living in th…
+j	螧	えび	lobster, prawn, shrimp
+j	螧	エビ	lobster, prawn, shrimp
+j	衛	えい	defend; protect; guard
+j	衛士	えじ	（えじ）律令制で諸国の軍団から当初は毎年その後三年…
+j	衛府	えふ	a 律令 (Ritsuryō) imperial …
+j	裔	えい	descendant; scion; offspr…
+j	襟	えり	a neckband; a collar; a l…
+j	要	えう	key, important point
+j	詠	えい	recite (poetry); sing; hu…
+j	謁	えつ	audience (with a noble)
+j	謡	えう	popular song
+j	越	えち	pass over; cross over; go…
+j	越	えつ	pass over; cross over; go…
+j	遠	えん	distant, far-off
+j	選る	える	to select
+j	酔い	えい	drunkenness
+j	酔う	えう	to get drunk, become into…
+j	鉛	えん	lead (chemical element)
+j	鉞	えつ	large axe (used for felli…
+j	鋭	えい	sharp; pointed; acute; ke…
+j	閲	えつ	read; view; examine; insp…
+j	頴	えい	tip; sharp point
+j	顋	えら	
+j	餌	えさ	animal food, feed
+j	餌木	えぎ	fish-shaped squid lure
+j	駅	えき	station (train, undergrou…
+j	驛	えき	
+j	魞	えり	weir, fish trap
+j	鰓	えら	gill (breathing organ of …
+j	鰓	エラ	gill (breathing organ of …
+j	鱏	えい	ray (fish of superorder B…
+j	鱏	えひ	ray (fish of superorder B…
+j	鱛	えそ	lizardfish, a fish in the…
+j	鱛	エソ	lizardfish, a fish in the…
+j	鱝	えい	
+j	えいお	えいお	栄男: a male given name
+j	えいが	えいが	
+j	えいご	えいご	
+j	えいち	えいち	英知, 叡智: wisdom
+j	えいや	えいや	（感動詞の「えいや」から転じて）いくつかの不明な点…
+j	えいん	えいん	会陰: perineum
+j	ええと	ええと	
+j	えがお	えがお	笑顔: smile
+j	えがく	えがく	絵や図形を書く。描画する。
+j	えがる	えがる	よがる。
+j	えきか	えきか	液化: liquefaction
+j	えくぼ	えくぼ	微笑んだときに頬にできるくぼみのこと。
+j	えぐい	えぐい	acrid; pungent
+j	えぐみ	えぐみ	あくが強くのどに刺激がある味。えぐい味。
+j	えぐる	えぐる	to gouge
+j	えずい	えずい	frightening; scary
+j	えずく	えずく	to vomit
+j	えたい	えたい	正体。実態。本質。本性。
+j	えだげ	えだげ	hair with split ends
+j	えだね	えだね	主根から分かれて出た根。側根。
+j	えだは	えだは	草木の枝と葉。
+j	えっと	えっと	
+j	えつお	えつお	悦男: a male given name
+j	えつこ	えつこ	悦子: a female given name
+j	えつじ	えつじ	悦司: a male given name
+j	えどい	えどい	「エロい」の隠語。
+j	えなが	えなが	スズメ目エナガ科エナガ属に属する鳥の総称。学名:A…
+j	えにし	えにし	因縁、ゆかり、特に男女の仲に用いられる。
+j	えのき	えのき	バラ目エノキ属に属する落葉樹の一種。学名:Celt…
+j	えばら	えばら	江原: a surname
+j	えひめ	えひめ	年長の姫。
+j	えびす	えびす	古代日本の東国（概ね現在の関東地方以東）において、…
+j	えびら	えびら	矢を入れて携帯する容器のこと。中世日本の武士が用い…
+j	えび茶	えび茶	黒味がかった赤茶色。
+j	えほん	えほん	絵本: picture book
+j	えみこ	えみこ	a female given name
+j	えみし	えみし	古代に主に東北地方以北に住み朝廷に反逆した部族。
+j	えみゅ	えみゅ	エミュレータ。
+j	えみり	えみり	瑛実理, 瑛美里, 瑛未理, 瑛未里, 映美里, …
+j	えもの	えもの	the thing hunted: prey, g…
+j	えやみ	えやみ	pestilence, plague, epide…
+j	えらい	えらい	程度が甚だしい。
+j	えらぶ	えらぶ	【選・択】多くの中から条件に適うものを取り出す。
+j	えりか	えりか	絵理佳, 英里佳, 絵里加, 英里香, 恵里加, …
+j	えりこ	えりこ	栄理子: a female given name
+j	えんか	えんか	演歌, 艶歌: enka, Japanese ba…
+j	えんぎ	えんぎ	
+j	えんこ	えんこ	円弧: circular arc
+j	えんそ	えんそ	塩素: chlorine
+j	えーと	えーと	
+j	え段	えだん	the fourth and second-low…
+j	エアプ	エアプ	status that person has in…
+j	エアー	エアー	「エア」の表記ゆれ。
+j	エイジ	エイジ	時代。
+j	エイズ	エイズ	AIDS（後天性免疫不全症候群）のカナ音写。
+j	エイチ	エイチ	The name of the Latin scr…
+j	エイト	エイト	eight
+j	エイド	エイド	助手。助力する人。
+j	エオス	エオス	
+j	エキス	エキス	extract
+j	エギオ	エギオ	
+j	エクサ	エクサ	exa-
+j	エコー	エコー	echo (reflected sound)
+j	エゴサ	エゴサ	エゴサーチ。
+j	エゴマ	エゴマ	「荏胡麻」の学術的表記。
+j	エサウ	エサウ	
+j	エステ	エステ	
+j	エズラ	エズラ	
+j	エセル	エセル	
+j	エタる	エタる	(of works) to be unfinish…
+j	エタン	エタン	ethane
+j	エチル	エチル	ethyl
+j	エチン	エチン	ethyne
+j	エッグ	エッグ	卵。特に鶏卵。
+j	エッジ	エッジ	edge
+j	エッダ	エッダ	Edda
+j	エッチ	エッチ	dirty; lewd; perverted; s…
+j	エテン	エテン	synonym of エチレン (echiren,…
+j	エデン	エデン	Eden
+j	エトス	エトス	ethos
+j	エナガ	エナガ	スズメ目エナガ科エナガ属に属する鳥の一種。学名:A…
+j	エニェ	エニェ	The name of the Latin scr…
+j	エノー	エノー	
+j	エビゼ	エビゼ	Ebeye, Kwajalein atoll.
+j	エヘン	エヘン	
+j	エホバ	エホバ	Jehovah
+j	エボラ	エボラ	Ebola
+j	エポナ	エポナ	
+j	エミュ	エミュ	
+j	エミー	エミー	a transliteration of the …
+j	エモい	エモい	Prompting vague sentiment…
+j	エラト	エラト	
+j	エラム	エラム	
+j	エララ	エララ	木星の第7衛星の固有名。
+j	エラー	エラー	error
+j	エリア	エリア	area
+j	エリカ	エリカ	a transliteration of the …
+j	エリコ	エリコ	Jericho (a city in the We…
+j	エリス	エリス	太陽系の準惑星の一つ。散乱円盤天体に分類される。
+j	エリヤ	エリヤ	Elijah
+j	エルク	エルク	ヨーロッパ、アジアのヘラジカ。
+j	エルグ	エルグ	仕事の単位。1エルグは1ダインの力である方向から1…
+j	エルフ	エルフ	elf
+j	エルベ	エルベ	
+j	エルモ	エルモ	
+j	エレキ	エレキ	「エレキテル」の略。
+j	エロい	エロい	erotic, sexual, sexy, aro…
+j	エロイ	エロイ	
+j	エロゲ	エロゲ	adult video game; video g…
+j	エロス	エロス	eroticism
+j	エロビ	エロビ	
+j	エロ本	エロ本	pornographic publication …
+j	エンカ	エンカ	エンカウント。
+j	エンコ	エンコ	「えんこ」のカタカナ表記。
+j	エンド	エンド	end
+j	エージ	エージ	「エイジ」の表記ゆれ。
+j	エース	エース	an ace (card with a singl…
+j	エータ	エータ	eta
+j	エード	エード	ade
+j	エール	エール	ale (alcohol)
+j	会厭	ええん	epiglottis
+j	会実子	えみこ	a female given name
+j	会式	えしき	Buddhist memorial service…
+j	会得	えとく	understanding, comprehens…
+j	会衆	えしゅ	meeting attenders, congre…
+j	会通	えつう	（かいつう）物事が一緒になることと変化すること。
+j	会陰	えいん	perineum
+j	依報	えほう	過去の業の報いとして受ける身の拠り所としての国土、…
+j	依学	えがく	学問として仏教の教義を学ぶこと。
+j	依身	えしん	心の拠り所となる身体。
+j	偃師	えんし	人形遣い。傀儡師。
+j	偃武	えんぶ	武器を伏せて用いないこと。世の中が太平になること。
+j	偃臥	えんが	腹這いになって寝ること。
+j	偉い	えらい	noble, honorable, admirab…
+j	兄姫	えひめ	a noblewoman who is elder…
+j	円位	えんい	a rank without shortage
+j	円価	えんか	日本の通貨である円の貨幣価値。
+j	円匙	えんし	小型のシャベル。
+j	円匙	えんぴ	小型のシャベル。
+j	円坐	えんざ	「円座」の別表記。
+j	円子	えんこ	a surname
+j	円実子	えみこ	a female given name
+j	円座	えんざ	車座になること。
+j	円弧	えんこ	circular arc
+j	円舞	えんぶ	たくさんの人が輪のようになっておどること。
+j	円規	えんき	丸い形。円形。
+j	円貨	えんか	日本円を単位とする貨幣。
+j	円顱	えんろ	skinhead (someone with a …
+j	冤家	えんか	かたき。
+j	冤死	えんし	無実の罪で死ぬこと。冤罪で死ぬこと。
+j	冤鬼	えんき	冤魂 の類義語。
+j	厭忌	えんき	嫌がり、嫌うこと。
+j	厭悪	えんお	hatred, dislike, aversion
+j	厭飫	えんよ	物事に十分満足すること。また、その状態。
+j	厭魅	えんみ	「魘魅」の異表記。
+j	叡智	えいち	深く物事の道理に通じる知恵。高い知性。
+j	叡知	えいち	「叡智」の別表記。
+j	右衛門	えもん	a male given name
+j	咲実子	えみこ	a female given name
+j	営利	えいり	being profitmaking
+j	営治	えいち	作り上げること。
+j	営為	えいい	effort; work
+j	営為	えいゐ	effort; work
+j	営置	えいち	建造すること。
+j	嚥下	えんか	swallowing
+j	嚥下	えんげ	swallowing
+j	嚥唾	えんだ	つばを飲み込むこと。
+j	回向	えこう	故人の冥福を祈念して仏事や供養をすること。
+j	回心	えしん	悪心を悔い改め、仏教に帰依し正しい道に入ること。
+j	園児	えんじ	a kindergartner
+j	園務	えんむ	幼稚園、保育園、認定こども園、学園の運営に関連する…
+j	園司	えんし	荘園の下級役人。
+j	園土	えんど	soil that is used plantat…
+j	園地	えんち	日本の律令制でそれぞれの戸に支給された土地。桑や漆…
+j	園子	えんし	a female given name
+j	園歌	えんか	song of a preschool
+j	圜視	えんし	目を見張ること。
+j	垣下	えんか	朝廷、公卿の邸宅で行われる饗応で正客の相伴をする役。
+j	垣下	えんが	朝廷、公卿の邸宅で行われる饗応で正客の相伴をする役。
+j	塋地	えいち	墓地。
+j	塩ビ	えんび	ポリ塩化ビニル（ポリ塩化ビニール）の略。合成樹脂（…
+j	塩ビ	えんビ	ポリ塩化ビニル（ポリ塩化ビニール）の略。合成樹脂（…
+j	塩化	えんか	chloride
+j	塩基	えんき	a base
+j	塩戸	えんこ	塩を作る家。
+j	塩湖	えんこ	salt lake
+j	塩素	えんそ	chlorine, Cl
+j	塩課	えんか	中国で専売の塩に賦課された租税。
+j	塩豉	えんし	味噌や納豆など豆類に塩分を加えねかせた食品。
+j	壊劫	えこう	四劫の三番目で世界が災害で破壊され、無に至る時期。
+j	夭死	えうし	premature death
+j	夷	えびす	synonym of 蝦夷 (Ezo): an a…
+j	妖冶	えうや	seductive; bewitching; go…
+j	妖狐	えうこ	supernatural fox that can…
+j	妖魔	えうま	ghost; apparition; monste…
+j	嬰児	えいじ	baby, infant, newborn
+j	嬰意	えいい	心配すること。
+j	宴私	えんし	（家などで）寛ぐこと。
+j	宴飫	えんよ	酒盛り。酒宴。
+j	崦嵫	えんじ	太陽の沈む場所。
+j	幼芽	えうが	plumule
+j	延喜	えんぎ	the Engi era 901-923
+j	延実子	えみこ	a female given name
+j	延期	えんき	postponement
+j	廻向	えこう	故人の冥福を祈念して仏事や供養をすること。
+j	影二	えいじ	a male given name
+j	影向	えごう	for a deity to take shape…
+j	役務	えきむ	labor; service
+j	役夫	えきふ	
+j	得ない	えない	cannot
+j	得体	えたい	nature
+j	怨刺	えんし	相手を恨み謗ること。
+j	怨咨	えんし	恨み、嘆くこと。怨嗟。
+j	怨嗟	えんさ	うらみなげくこと。
+j	恵令奈	えれな	a female given name
+j	恵似子	えいこ	a female given name
+j	恵体	えたい	恵まれた身体。
+j	恵実利	えみり	a female given name
+j	恵実子	えみこ	a female given name
+j	恵実理	えみり	a female given name
+j	恵庭	えにわ	Eniwa (a city in Ishikari…
+j	恵方	えほう	favorable direction; a co…
+j	恵梨香	えりか	a female given name
+j	恵比須	えびす	Ebisu, the Japanese god o…
+j	恵美可	えみか	a female given name
+j	恵美子	えみこ	a female given name
+j	恵里加	えりか	a female given name
+j	恵里香	えりか	a female given name
+j	悦事	えつじ	喜ばしいこと。嬉しいこと。
+j	悦司	えつじ	a male given name
+j	悦子	えつこ	a female given name
+j	悦男	えつお	a male given name
+j	悦雄	えつお	a male given name
+j	惠実子	えみこ	a female given name
+j	愛	えりな	love
+j	愛媛	えひめ	a female given name
+j	愛実子	えみこ	a female given name
+j	慧実子	えみこ	a female given name
+j	慧極	えごく	a surname
+j	慧知	えいち	a male given name
+j	抉	えぐる	
+j	掩耳	えんじ	耳を覆うこと。
+j	掾史	えんし	下級役人。
+j	描き	えがき	
+j	描く	えがく	to paint; to draw
+j	援護	えんご	aid; covering; protection…
+j	支根	えだね	主根から枝分かれした根。側根。
+j	映智	えいち	a male given name
+j	映画	えいが	movie, film
+j	暍死	えっし	暑気中りで死ぬこと。
+j	曜日	えうび	day of the week
+j	曰部	えつぶ	部首「⽈」で分類した漢字の一群。
+j	曳尾	えいび	仕官で束縛されるよりも、貧しくとも安心して郷里で暮…
+j	枝実子	えみこ	a female given name
+j	枝根	えだね	主根から枝分かれした根。側根。
+j	枝毛	えだげ	
+j	枝葉	えだは	branch and leaf
+j	柄長	えなが	a vessel or receptacle wi…
+j	柄長	エナガ	a vessel or receptacle wi…
+j	栄二	えいじ	a male given name
+j	栄実子	えみこ	a female given name
+j	栄智	えいち	a male given name
+j	栄枯	えいこ	草木が生い茂ることと枯れること。
+j	栄治	えいじ	a male given name
+j	栄理子	えりこ	a female given name
+j	栄男	えいお	a male given name
+j	栄華	えいが	glory (with a connotation…
+j	栄蘭	えらん	「阿檀」の別名。
+j	栄誉	えいよ	honor
+j	栄途	えいと	栄達の道。
+j	楹鼓	えいこ	かつて中国の雅楽で使われた一本の脚のある太鼓。建鼓。
+j	榎	えのき	Celtis sinensis, the Chin…
+j	榮華	えいが	
+j	永古	えいこ	永遠。
+j	永和	えいわ	the Eiwa era, 1375-1379 b…
+j	永字	えいじ	the Chinese character 永 (…
+j	永治	えいじ	the Eiji era, 1141–1142
+j	永祚	えいそ	the Eiso era, 988-990
+j	江別	えべつ	Ebetsu (a city in Ishikar…
+j	江原	えはら	a surname
+j	江口	えくち	a surname
+j	江口	えぐち	a surname
+j	江実子	えみこ	a female given name
+j	江崎	えざき	a surname
+j	江川	えがわ	a surname
+j	江差	えさし	Esashi (a town in Hokkaid…
+j	江戸間	えどま	a tatami mat of the Edo (…
+j	江本	えもと	a surname
+j	江藤	えとう	a surname
+j	沿路	えんろ	道路に沿った場所。沿道。道沿い。
+j	海老名	えびな	a place name, especially …
+j	海老根	えびね	Calanthe discolor
+j	海老根	エビネ	Calanthe discolor
+j	海老藻	えびも	crisp-leaved pondweed, Po…
+j	海老藻	エビモ	crisp-leaved pondweed, Po…
+j	液チ	えきち	
+j	液チ	えきチ	
+j	液位	えきい	容器に入っている液体で、液面の位置。
+j	液化	えきか	liquefaction
+j	液果	えきか	果皮が多肉で水分が多い果実の総称。湿果。
+j	液肥	えきひ	液状の肥料。水肥。
+j	淵旨	えんし	奥深い主旨や意味。
+j	淹漬	えんし	液体に浸すこと。
+j	演戯	えんぎ	drama, play (composition)
+j	演技	えんぎ	performance
+j	演歌	えんか	enka (a genre of melodram…
+j	演武	えんぶ	武芸を演じて人に披露すること。
+j	演義	えんぎ	popularization or adaptat…
+j	演舞	えんぶ	舞を演じて人に披露すること。
+j	潁原	えばら	a surname
+j	炎夏	えんか	暑い夏
+j	炎威	えんい	夏の厳しい暑さの猛威。
+j	炎火	えんか	激しく燃え上がる火。
+j	烏帽子	えぼし	a type of black-lacquered…
+j	烟波	えんぱ	「煙波」の異表記。
+j	烟霞	えんか	烟と霞。
+j	煙死	えんし	火災で煙や有毒ガスを吸ったりして死亡すること。
+j	煙波	えんぱ	靄の立ち込めた水面。煙濤。煙浪。
+j	煙霞	えんか	煙と霞。
+j	煙霧	えんむ	smoke and fog
+j	燕尾	えんび	swallowtail
+j	燕巣	えんず	燕窩。
+j	燕手	えんで	歌舞伎で使われるかつらの一種。カラ毛に漆を吹き付け…
+j	燕支	えんじ	「臙脂」の別表記。
+j	燕窩	えんか	edible bird's nest (nest …
+j	燕脂	えんじ	「臙脂」の別表記。
+j	燕賀	えんが	他人の家屋が落成したことを祝うこと。
+j	猿臂	えんぴ	猿の腕。
+j	獲物	えもの	
+j	瑛実子	えみこ	a female given name
+j	瑛実理	えみり	a female given name
+j	瑛瑜	えいゆ	美玉。
+j	瑩磨	えいま	磨くこと。磨瑩。瑩払。
+j	瑶池	えうち	Jade Pond; Gem Pond (a my…
+j	画像	えぞう	a portrait, one's likeness
+j	疫	えやみ	
+j	疫禍	えきか	A chaos or a disaster cau…
+j	盈虧	えいき	月が満ちたり欠けたりすること。
+j	穎悟	えいご	非常に賢いこと。また、そのさま。
+j	穎果	えいか	イネ科の果実の形で、果皮が乾燥して種皮と密着してい…
+j	穢身	えしん	穢れている身。凡夫の身。
+j	穫実子	えみこ	a female given name
+j	笑顔	えがお	smile, happy face, smilin…
+j	箙	えびら	a box-shaped quiver with …
+j	粤語	えつご	Yue (language)
+j	絵の具	えのぐ	paints, coloring material…
+j	絵チャ	えちゃ	
+j	絵チャ	えチャ	
+j	絵像	えぞう	絵に描いた肖像。
+j	絵入り	えいり	書籍や新聞などで挿し絵が入っていること。また、その…
+j	絵具	えのぐ	「絵の具」の別表記。
+j	絵印	えいん	a seal used as the signat…
+j	絵実名	えみな	a female given name
+j	絵実子	えみこ	a female given name
+j	絵実理	えみり	a female given name
+j	絵巻	えまき	「絵巻物」の略。
+j	絵描き	えかき	the act of painting, draw…
+j	絵文字	えもじ	pictograph
+j	絵本	えほん	picture book
+j	絵札	えふだ	絵が描かれた立て札。
+j	絵柄	えがら	pattern, print, design
+j	絵梨奈	えりな	a female given name
+j	絵理佳	えりか	a female given name
+j	絵理奈	えりな	a female given name
+j	絵理菜	えりな	a female given name
+j	絵筆	えふで	paintbrush
+j	絵組み	えぐみ	絵の組み合わせ。
+j	絵踏	えぶみ	江戸幕府が隠れキリシタンを発見するために、人々にキ…
+j	絵都子	えとこ	a female given name
+j	絵里加	えりか	a female given name
+j	絵里奈	えりな	a female given name
+j	絵里恵	えりえ	a female given name
+j	絵里菜	えりな	a female given name
+j	絵面	えづら	impression from a sight
+j	絵面	えめん	impression from a sight
+j	縁坐	えんざ	「縁座」の別表記。
+j	縁家	えんか	縁故がある家。
+j	縁座	えんざ	重罪を犯した者について本人だけでなく縁のある親族も…
+j	縁故	えんこ	family relationship, cons…
+j	縁由	えんゆ	ゆかり。縁故。
+j	縁起	えんぎ	an omen
+j	腋下	えきか	armpit, underarm
+j	腋窩	えきか	armpit, underarm
+j	腋花	えきか	葉の付け根の部分に蕾を付け、咲く花。
+j	腰部	えうぶ	waist, hips, area of the …
+j	腰鼓	えうこ	a type of double-headed d…
+j	臙脂	えんじ	cochineal
+j	艶姿	えんし	ravishing figure
+j	艶美	えんび	sensuously beautiful
+j	艶詩	えんし	艶かしい詩歌。
+j	英二	えいじ	a male given name
+j	英史	えいじ	a male given name
+j	英司	えいじ	a male given name
+j	英和	えいわ	English–Japanese, English…
+j	英図	えいと	優れた意図や計略。
+j	英姿	えいし	立派な姿。雄姿。
+j	英子	えいこ	a female given name
+j	英字	えいじ	the English alphabet
+j	英実子	えみこ	a female given name
+j	英志	えいじ	a male given name
+j	英智	えいち	a male given name
+j	英機	えいき	a male given name
+j	英気	えいき	great wisdom or talent
+j	英治	えいじ	a male given name
+j	英知	えいち	wisdom (a deep understand…
+j	英詩	えいし	イギリスの詩。
+j	英語	えいご	the English language
+j	英貨	えいか	イギリスの貨幣。
+j	英資	えいし	優れた生まれつき。
+j	英里	えいり	mile
+j	英里佳	えりか	a female given name
+j	英里香	えりか	a female given name
+j	荏原	えばら	Ebara, Tokyo
+j	荏胡麻	えごま	perilla, Perilla frutesce…
+j	荏胡麻	エゴマ	perilla, Perilla frutesce…
+j	葉理	えふり	lamination (small scale s…
+j	葉芽	えふが	leaf bud
+j	蛭子	えびす	son of 伊弉諾 (Izanagi) and …
+j	蜻蛉	えんば	dragonfly
+j	蝦夷	えびす	those people living in th…
+j	蝦夷	えみし	those people living in th…
+j	蝦夷	えみす	those people living in th…
+j	蝦夷地	えぞち	江戸時代までの現在の北海道の呼称。蝦夷。
+j	衍字	えんじ	an extra or superfluous c…
+j	衛士	えいし	（えじ）律令制で諸国の軍団から当初は毎年その後三年…
+j	衛士府	えじふ	a 律令 (Ritsuryō) guard squ…
+j	衛府	えいふ	a 律令 (Ritsuryō) imperial …
+j	衛視	えいし	guard of the Japanese Nat…
+j	衛護	えいご	escorting, guarding
+j	衛門	えもん	「衛門府」の略。
+j	衣文	えもん	装束の着方。
+j	衣紋	えもん	装束の着方。
+j	衣鉢	えはち	僧侶が着る三衣と一つの鉢。
+j	衣鉢	えはつ	僧侶が着る三衣と一つの鉢。
+j	要す	えうす	
+j	要務	えうむ	important business
+j	要地	えうち	important place; strategi…
+j	要旨	えうし	essentials, gist
+j	要理	えうり	important doctrine or the…
+j	要素	えうそ	component, element
+j	要義	えうぎ	essence (inherent nature …
+j	詠史	えいし	歴史上の事柄や人物を詩歌に詠むこと。また、その詩歌。
+j	詠実子	えみこ	a female given name
+j	詠歌	えいか	composition of (waka) poe…
+j	詠歌	えいが	composition of (waka) poe…
+j	誉実利	えみり	a female given name
+j	謁辞	えつじ	挨拶。
+j	贏余	えいよ	
+j	贏輸	えいゆ	victory or defeat
+j	越俎	えっそ	自分の職分を越えて、他人の職分や権限を犯すこと。
+j	越和	えつわ	ベトナム語と日本語。「越和辞典」。
+j	越後	えちご	Echigo (a historical prov…
+j	越歴	えれき	
+j	越歴	エレキ	
+j	越語	えつご	Vietnamese language
+j	轅下	えんか	牛車の轅の下。
+j	遠図	えんと	遠大な謀。
+j	遠地	えんち	distant land
+j	遠寺	えんじ	遠く離れた寺院。
+j	遠志	えんし	root of Polygala tenuifol…
+j	遠流	えんる	律令制の流罪のうち最も重い刑罰。都から遠隔の流刑地…
+j	遠祖	えんそ	remote ancestor
+j	遠視	えんし	hyperopia
+j	遠路	えんろ	long journey
+j	遠邇	えんじ	遠くの場所と近くの場所。
+j	遠離	えんり	separation by a great dis…
+j	選ぶ	えらぶ	to select, to choose
+j	鉛糸	えんし	重力の方向などを測定するための片方の端に鉛の球を付…
+j	鉛華	えんか	化粧で使ったおしろい。
+j	鋭利	えいり	sharp
+j	鋭意	えいい	working hard
+j	鋭気	えいき	courage
+j	閹寺	えんじ	（君主に近侍する）宦官。
+j	閻魔	えんま	Enma, the Japanese name f…
+j	閻魔	エンマ	Enma, the Japanese name f…
+j	靨	えくぼ	a dimple (skin depression…
+j	頴悟	えいご	intelligence
+j	頴果	えいか	caryopsis
+j	餌食	えじき	food for a carnivore: prey
+j	饜飫	えんよ	「厭飫」の異表記。
+j	駅務	えきむ	宿駅に関する事務や業務。
+j	駅夫	えきふ	鉄道駅で雑務を行った者。
+j	駅家	えきか	律令制で、人馬を備え、駅使に宿泊や食事を提供した施…
+j	魘夢	えんむ	不吉な夢。恐ろしい夢。悪夢。
+j	魘魅	えんみ	呪術により人を呪い殺すこと。
+j	鳶尾	えんび	synonym of 一初 (ichihatsu,…
+j	鴯鶓	えみう	エミュー。
+j	鹽湖	えんこ	
+j	鹽素	えんそ	
+j	えいいち	えいいち	栄一, 英一, 影一, 瑛一, 映一, 榮一, 暎…
+j	えいえい	えいえい	heave-ho, hey!
+j	えいきち	えいきち	栄吉, 永吉, 榮吉: a male given …
+j	えいこく	えいこく	
+j	えいしん	えいしん	英心: a male given name
+j	えいじゅ	えいじゅ	栄珠: a male given name
+j	えいすけ	えいすけ	栄祐, 栄助: a male given name
+j	えいせい	えいせい	
+j	えいせん	えいせん	曳船: tugboat
+j	えいぞう	えいぞう	影像: a portrait (as of a p…
+j	えいよう	えいよう	永陽
+j	ええっと	ええっと	let me see, let's see; no…
+j	えがたい	えがたい	入手しにくい。貴重なさま。
+j	えがった	えがった	
+j	えがらい	えがらい	のどが強く刺激を受けるように感る様子。
+j	えきいん	えきいん	
+j	えきそう	えきそう	液相: liquid phase
+j	えきてき	えきてき	液滴: drop (of liquid)
+j	えきほう	えきほう	液胞: vacuole
+j	えきまえ	えきまえ	
+j	えきもれ	えきもれ	leaking of liquid (usuall…
+j	えぐいも	えぐいも	山芋。里芋。
+j	えぐれる	えぐれる	to be gouged, to be hollo…
+j	えごま油	えごまゆ	perilla oil
+j	えごま油	えごま油	perilla oil
+j	えさもち	えさもち	ability of bait to stay o…
+j	えしゃく	えしゃく	会釈: a slight bow, a nod
+j	えすがた	えすがた	絵姿: a portrait
+j	えだうち	えだうち	良質な材木を得るため行われる、下枝を切り落とす作業…
+j	えだふね	えだふね	本船についてる供船。
+j	えだぶね	えだぶね	本船についている供船。
+j	えだまめ	えだまめ	未熟な大豆の実を枝ごと収穫したもの。さらに、莢がつ…
+j	えだみち	えだみち	枝道: branch road
+j	えちえち	えちえち	sexy
+j	えっさい	えっさい	つみの雄。
+j	えっへん	えっへん	ahem (clearing of the thr…
+j	えつらん	えつらん	閲覧: reading newspaper or …
+j	えてして	えてして	as an inclination / tende…
+j	えはがき	えはがき	
+j	えびいろ	えびいろ	エビカズラの熟した実またはイセエビのような赤みを帯…
+j	えびがに	えびがに	蝲蛄の別称。
+j	えびすめ	えびすめ	old name for 昆布 (kombu)
+j	えびたい	えびたい	（海老で鯛を釣るの略）わずかな労力で、大きな利益を…
+j	えびチリ	えびチリ	stir-fried shrimp in chil…
+j	えび茶	えびちゃ	黒味がかった赤茶色。
+j	えらあな	えらあな	gill slit
+j	えらぶた	えらぶた	魚類の頭部後方の左右にあり、鰓を保護する薄い板状の…
+j	えらぶる	えらぶる	さも偉そうに振る舞う。尊大な振る舞いをする。
+j	えりくび	えりくび	首の後ろの部分。うなじ。くびすじ。
+j	えりぐり	えりぐり	neckline
+j	えりぬき	えりぬき	複数の中から適合するものを選び出すこと。よりぬき。
+j	えりまき	えりまき	防寒や装飾で首に巻くものの総称。くびまき。マフラー。
+j	えりもと	えりもと	衣類で襟が合わさる前のあたり。
+j	えんあん	えんあん	宴安
+j	えんえき	えんえき	演繹: deduction: extending …
+j	えんきり	えんきり	縁切り: separation, divorce,…
+j	えんさん	えんさん	塩酸: hydrochloric acid
+j	えんじゅ	えんじゅ	マメ科エンジュ属の落葉高木。学名Styphnolo…
+j	えんそう	えんそう	
+j	えんそく	えんそく	遠足: excursion
+j	えんてん	えんてん	炎天: hot weather; blazing …
+j	えんとつ	えんとつ	煙突: chimney, smokestack
+j	えんない	えんない	園内: within a park
+j	えんぴつ	えんぴつ	
+j	えんぷく	えんぷく	艶福: success in love
+j	えんまく	えんまく	煙幕: smokescreen
+j	えーっと	えーっと	
+j	エアガン	エアガン	圧縮空気の圧力で弾丸を発射する銃。空気銃。
+j	エアコン	エアコン	エアコンディショナー。
+j	エアバス	エアバス	Airbus
+j	エアレー	エアレー	
+j	エアロビ	エアロビ	エアロビクスまたはエアロビクスダンスの略。ダンス形…
+j	エア電話	エア電話	pretending to hold a conv…
+j	エイトス	エイトス	ストライクを8フレーム続けて成し遂げること。
+j	エイムス	エイムス	Ames
+j	エウェ人	エウェ人	
+j	エウェ語	えうぇご	the Ewe language
+j	エウェ語	エウェご	the Ewe language
+j	エウェ語	エウェ語	the Ewe language
+j	エウレカ	エウレカ	
+j	エウロス	エウロス	東風の神。ローマ神話におけるウルトゥルヌスに相当。
+j	エウロパ	エウロパ	木星の第二衛星の固有名。
+j	エウロペ	エウロペ	「エウローペー」の別表記。
+j	エキスポ	エキスポ	国際博覧会。
+j	エキドナ	エキドナ	
+j	エギング	エギング	A style of lure fishing s…
+j	エクステ	エクステ	
+j	エクスポ	エクスポ	国際博覧会。
+j	エクレア	エクレア	éclair
+j	エゲレス	エゲレス	England
+j	エコ投資	エコ投資	環境関連事業を支援・推進するための投資行動のこと。
+j	エジソン	エジソン	
+j	エジプト	エジプト	Egypt (a country in North…
+j	エスカー	エスカー	氷河が削った岩石が、氷河の交代後に残ることで形成さ…
+j	エスキス	エスキス	スケッチ、下絵。
+j	エステル	エステル	ester
+j	エスパー	エスパー	synonym of 超能力者 (chōnōryo…
+j	エスプリ	エスプリ	wit, humor, verve, esprit
+j	エスポー	エスポー	Espoo (a city in Finland)
+j	エズラ記	エズラ記	
+j	エゾバイ	エゾバイ	
+j	エタン酸	エタン酸	酢酸のIUPAC命名法における系統名。
+j	エチレン	エチレン	ethylene
+j	エックス	エックス	The name of the Latin scr…
+j	エッセイ	エッセイ	essay
+j	エッセン	エッセン	
+j	エッセー	エッセー	随筆。散文。
+j	エッチな	エッチな	
+j	エディタ	エディタ	「エディター」の別表記。
+j	エデッサ	エデッサ	
+j	エドガー	エドガー	a transliteration of the …
+j	エナジー	エナジー	エネルギー。
+j	エナドリ	エナドリ	「エナジードリンク」の略。
+j	エナメル	エナメル	ガラス質の釉。ホーロー。
+j	エニオン	エニオン	
+j	エノク語	エノク語	
+j	エノール	エノール	
+j	エビマヨ	エビマヨ	mayonnaise shrimp, a dish…
+j	エピタフ	エピタフ	
+j	エピック	エピック	
+j	エピペン	エピペン	epipen (device designed t…
+j	エピロス	エピロス	
+j	エフエム	エフエム	FM
+j	エプロン	エプロン	an apron (clothing)
+j	エベンキ	エベンキ	エヴェンキに同じ。
+j	エベント	エベント	イベント。
+j	エホバク	エホバク	aehobak, Cucurbita moscha…
+j	エボラウ	エボラウ	
+j	エポック	エポック	時代。
+j	エポニム	エポニム	人名を由来とし、その由来とする人名あるいはその一部…
+j	エマープ	エマープ	十進数表記で、素数でありかつ数字を反対から読むと元…
+j	エミュー	エミュー	emu (large flightless bir…
+j	エミリア	エミリア	
+j	エミリー	エミリー	
+j	エミー賞	エミー賞	an Emmy Award
+j	エメチン	エメチン	
+j	エラトー	エラトー	Erato
+j	エランド	エランド	クジラ偶蹄目ウシ科エランド属に属する鯨偶蹄類の一種…
+j	エリアポ	エリアポ	土星の第28衛星の固有名。
+j	エリスタ	エリスタ	
+j	エリチン	エリチン	
+j	エリック	エリック	a transliteration of the …
+j	エリノメ	エリノメ	木星の第25衛星の固有名。
+j	エリマネ	エリマネ	エリアマネージャー。
+j	エリンギ	エリンギ	an edible mushroom, Pleur…
+j	エリーゼ	エリーゼ	a transliteration of the …
+j	エリート	エリート	elite
+j	エリー湖	えりーこ	Lake Erie
+j	エリー湖	エリーこ	Lake Erie
+j	エリー湖	エリー湖	Lake Erie
+j	エルパソ	エルパソ	
+j	エルフ語	エルフ語	
+j	エルベ川	エルベ川	
+j	エルボー	エルボー	ひじ。
+j	エレクト	エレクト	（性器が）勃起すること。
+j	エレジー	エレジー	elegy
+j	エレバン	エレバン	Yerevan (the capital city…
+j	エレボス	エレボス	Erebus
+j	エレミヤ	エレミヤ	Jeremiah
+j	エレーナ	エレーナ	
+j	エロイプ	エロイプ	Internet phone sex
+j	エログロ	エログロ	エロチック（扇情的）でグロテスク（猟奇的）なこと。…
+j	エロゲー	エロゲー	エロゲの表記ゆれ。
+j	エロゲ豚	エロゲ豚	熱狂的、狂信的なアダルトゲーム好きのおたく。
+j	エロコメ	エロコメ	sexual comedy
+j	エロヒム	エロヒム	
+j	エロース	エロース	Eros
+j	エロ本	えろほん	pornographic publication …
+j	エロ本	エロほん	pornographic publication …
+j	エロ漫画	エロ漫画	hentai (pornographic mang…
+j	エンジン	エンジン	engine (mechanical device)
+j	エンスト	エンスト	engine stall
+j	エンゼル	エンゼル	angel
+j	エンタメ	エンタメ	syllabic abbreviation of …
+j	エンター	エンター	入ること。加入、加盟すること。
+j	エンツァ	エンツァ	
+j	エントリ	エントリ	
+j	エンドウ	エンドウ	「豌豆」の学術的表記。
+j	エンバク	エンバク	「燕麦」の学術的表記。
+j	エンバグ	エンバグ	enbugging; introduction o…
+j	エヴェン	エヴェン	ユーラシア大陸北東部に分布するツングース系民族。旧…
+j	エーカー	エーカー	acre (unit of surface are…
+j	エーギル	エーギル	北欧神話の巨人。
+j	エーゲ海	エーゲ海	the Aegean Sea
+j	エーコー	エーコー	森と泉のニュンペー。
+j	エーテル	エーテル	ether
+j	エートス	エートス	ethos
+j	亦声	えきせい	漢字の造字法の一つ。会意形声文字と同様の性質を持つ。
+j	会釈	えしゃく	saluting, a slight bow, a…
+j	偃息	えんそく	横になり休むこと。
+j	偃月	えんげつ	半円の形状をした月。半月。
+j	偉そう	えらそう	arrogant, vain, pompous
+j	円タク	えんたく	taxi that run in the city…
+j	円タク	えんタク	taxi that run in the city…
+j	円光	えんこう	halo, aureola (luminous c…
+j	円内	えんない	円の内側。まるの内側。
+j	円卓	えんたく	a round table
+j	円堂	えんどう	平面が六角形以上の多角形の構造をした堂宇。
+j	円安	えんやす	weak or cheap yen; yen de…
+j	円建て	えんだて	denominated in yen; yen-d…
+j	円弾	えんだん	round shot
+j	円形	えんけい	a circular shape
+j	円影	えんえい	月。
+j	円心	えんしん	center of a circle
+j	円景	えんえい	月。
+j	円月	えんげつ	円を描いたようなまるい月。満月。
+j	円板	えんばん	丸い形をした平面の板。
+j	円満	えんまん	amiable
+j	円滑	えんかつ	smooth, trouble-free
+j	円点	えんてん	staccato (articulation ma…
+j	円環	えんかん	loop; ring; circle
+j	円盤	えんばん	disc
+j	円相	えんそう	丸い形。
+j	円石	えんせき	円い石。
+j	円礫	えんれき	砕屑から時間が経って球形に近くなった礫。
+j	円窓	えんそう	円形の窓。
+j	円筒	えんとう	筒のうち、断面が円のかたちのもの。
+j	円蓋	えんがい	半球の形状をした天井。ドーム。
+j	円融	えんゆう	それぞれが個性を保ちながら互いに融和しながら互いに…
+j	円覚	えんがく	円満な悟り。本覚。
+j	円錐	えんすい	a cone (solid of revoluti…
+j	円陣	えんじん	huddling in a circle; for…
+j	円頓	えんとん	quickly reaching to come …
+j	円頓	えんどん	quickly reaching to come …
+j	円館	えんだて	a surname
+j	円高	えんだか	a valuable yen in relatio…
+j	冤罪	えんざい	miscarriage of justice; f…
+j	冤達	えんたつ	revealing not guilty
+j	冤魂	えんこん	無実の罪をかけられ、そのまま死んだ人の亡霊。
+j	厭世	えんせい	pessimism; weariness with…
+j	厭人	えんじん	他人との付き合いを避ける人。
+j	厭戦	えんせん	weary of war
+j	厭瘱	えんえい	静かで奥深いさま。
+j	厭絶	えんぜつ	絶交すること。
+j	厭足	えんそく	「饜足」の異表記。
+j	叡哲	えいてつ	才知に優れ、道理に明るいこと。また、そのようなさま。
+j	叡喆	えいてつ	才知に優れ、道理に明るいこと。また、そのようなさま。
+j	叡嘆	えいたん	天子が御嘆きになること。
+j	叡山	えいざん	比叡山の通称。
+j	叡念	えいねん	天子の御心中、御考え。叡慮。
+j	叡慮	えいりょ	天子の考えや気持ち。聖慮。
+j	叡断	えいだん	天子の決断。
+j	叡明	えいめい	（天子などが）聖明であること。
+j	叡王	えいおう	将棋の八大タイトルの一つ。2017年に新設。
+j	叡聞	えいぶん	天子がお聞きになること。
+j	叡質	えいしつ	聖明の質。
+j	可愛岳	えのだけ	a mountain in Nobeoka, Mi…
+j	営丐	えいかい	物乞い。
+j	営利化	えいりか	非営利組織を営利組織に転換すること。
+j	営営	えいえい	脚繁く往来するさま。
+j	営団	えいだん	第二次世界大戦中に国策により公益事業を行うために設…
+j	営外	えいがい	兵営の外。
+j	営実	えいじつ	野茨の実。薬用にされる。
+j	営度	えいたく	営み、はかること。
+j	営建	えいけん	建物などを造営すること。
+j	営所	えいしょ	兵士が集まり居住する場所。兵営。
+j	営繭	えいけん	蚕が繭をつくること。
+j	営舎	えいしゃ	兵士が生活する建物。兵営。
+j	営農	えいのう	農業を営むこと。
+j	営造	えいぞう	家や道路など土木建築物を造ること。
+j	営養	えいよう	「栄養」の異綴。
+j	営魄	えいはく	たましい。魂魄。
+j	回光器	えこうき	
+j	園丁	えんてい	gardener
+j	園主	えんしゅ	「園」のつく施設や機関の所有者または代表者。
+j	園内	えんない	within an 園 (en) – park (…
+j	園囿	えんゆう	植物を生やし、動物を飼育する場所。
+j	園外	えんがい	庭園の外側。
+j	園宅	えんたく	garden and house
+j	園庭	えんてい	synonym of 庭園 (teien, “ga…
+j	園芸	えんげい	horticulture
+j	圓光	えんこう	halo, aureola (luminous c…
+j	圓盤	えんばん	disc
+j	埃及	えじぷと	（国名）エジプト。
+j	埃及	エジプト	（国名）エジプト。
+j	埏隧	えんすい	隧埏。
+j	堰堤	えんてい	A dam
+j	堰塞	えんそく	流水をせきとめること。
+j	堰高	えんこう	堰やダムの高さ。
+j	塋壟	えいろう	墓地。
+j	塋樹	えいじゅ	墓地の樹木。
+j	塩分	えんぶん	amount of salt, salt (any…
+j	塩安	えんあん	ammonium chloride
+j	塩析	えんせき	有機化合物などの溶質に大量の塩を加え、溶質を析出さ…
+j	塩梅	えんばい	seasoning
+j	塩水	えんすい	brine (salt water)
+j	塩湖市	えんこし	Salt Lake City (a city, t…
+j	塩漬	えんせき	食肉加工品で原材料に食塩や調味料などを加え、漬け込…
+j	塩田	えんでん	salt pan
+j	塩酸	えんさん	hydrochloric acid
+j	塩類	えんるい	salt (as a category)
+j	夭折	えうせつ	a premature death, dying …
+j	夭逝	えうせい	a premature death, dying …
+j	妖精	えうせい	a fay; a fairy
+j	妖艶	えうえん	seductive; bewitching
+j	妖霊	えうれい	supernatural monster
+j	婉容	えんよう	（女性などが）しとやかなさま。態度がおとなしいさま。
+j	婉麗	えんれい	容姿や表現が淑やかで美しいこと。
+j	嬰孩	えいがい	嬰児。
+j	嬰孺	えいじゅ	幼児。
+j	嬰害	えいがい	重なる災害。
+j	嬰懐	えいかい	心配すること。嬰意。
+j	嬰疾	えいしつ	病むこと。罹患。
+j	嬰茀	えいふつ	雲気が靡くこと。
+j	嬴嬴	えいえい	ふくよかなさま。
+j	嬴輸	えいしゅ	勝ち負け。輸贏。
+j	嬴銭	えいせん	余分な金銭。
+j	宴会	えんかい	banquet
+j	宴席	えんせき	banquet, feast, dinner pa…
+j	宴楽	えんらく	酒宴を開いて楽しむこと。また、その酒宴。
+j	宴水	えんすい	平安時代以降、正月中や新嘗祭の後に宮中の清涼殿・殿…
+j	宴遊	えんゆう	酒宴を開き遊興すること。
+j	宴飲	えんいん	酒宴。宴会。酒盛り。
+j	幼女	えうぢよ	a little girl, young girl
+j	幼貝	えうがひ	juvenile shellfish
+j	幼魚	えうぎょ	young fish; scrod
+j	延々	えんえん	lasting for a very long t…
+j	延会	えんかい	会議や会合などの予定期日を後日に延期すること。
+j	延伸	えんしん	postponement of time
+j	延佇	えんちょ	stopping to go and view
+j	延佇	えんちよ	stopping to go and view
+j	延元	えんげん	the Engen era, 1336-1340 …
+j	延命	えんめい	life extension
+j	延安	えんあん	Yan'an (a city in Shaanxi…
+j	延宝	えんぽう	the Enpō era, 1673-1681
+j	延年	えんねん	寿命を延ばす（長生きする）こと。
+j	延延	えんえん	ずっと長く続くこと。また、そのようなさま。
+j	延引	えんいん	予定の日時などを延ばすこと。
+j	延引	えんにん	予定の日時などを延ばすこと。
+j	延徳	えんとく	the Entoku era, 1489-1492
+j	延応	えんおう	the En'ō era, 1239-1240
+j	延慶	えんけい	the Enkyō era, 1308–1311
+j	延文	えんぶん	the Enbun era, 1356-1361 …
+j	延滞	えんたい	久しく滞ること。
+j	延灯	えんとう	In a military or military…
+j	延焼	えんせう	spreading (of fires)
+j	延竚	えんちょ	しばらく立ち止まって、眺めること。
+j	延納	えんのう	納税の義務の履行期間を一定期間繰り延べ、年賦で納め…
+j	延辺	えんぺん	Yanbian (a Korean autonom…
+j	延道	えんだう	tunnel
+j	延道	えんどう	tunnel
+j	延髄	えんずい	medulla oblongata
+j	延齢	えんれい	寿命を延ばすこと。
+j	影一	えいいち	a male given name
+j	影像	えいざう	a portrait (as of a perso…
+j	影像	えいぞう	a portrait (as of a perso…
+j	影前	えいぜん	神仏や故人の肖像の前。
+j	影印	えいいん	photocopying and reprinti…
+j	影向	えいこう	for a deity to take shape…
+j	影国	えいこく	属国。
+j	影灯	えいとう	回り灯籠。
+j	影質	えいしつ	こっそり礼物を受け取ること。
+j	役する	えきする	使う。使役する。
+j	役畜	えきちく	牛馬など農耕や運搬、牽引などのために飼育される家畜。
+j	得手公	えてこう	「猿」を擬人化した語。猿公。
+j	得難い	えがたい	rare, precious
+j	怨心	えんしん	相手を恨む心。恨み。
+j	怨恨	えんこん	enmity, grudge
+j	怨言	えんげん	complaint; reproach
+j	悦楽	えつらく	enjoyment; satisfaction
+j	択捉	えとろふ	Iturup (an island dispute…
+j	拗音	えうおん	one of the full-sized kan…
+j	捐官	えんかん	かつての中国で金品を納めて官職を買うこと。また、そ…
+j	捐納	えんのう	かつての中国で金品を納めて官職を買うこと。また、そ…
+j	捐金	えんきん	財物などを寄付して援助すること。
+j	掖庭	えきてい	王宮の脇にある（皇后などが暮らす）殿舎。後宮。
+j	掖殿	えきでん	皇后などが暮らす殿舎。後宮。掖庭。
+j	掖門	えきもん	宮殿正門の左右にある小型の門。
+j	掩撃	えんげき	sneak attack, surprise at…
+j	掩映	えんえい	(「映」を「蔽」と掛けて)覆い隠すこと。
+j	掩絶	えんぜつ	隠し、隔離すること。
+j	掩翳	えんえい	覆い隠すこと。
+j	掩蔽	えんぺい	cloaking, concealment, st…
+j	描いた	えがいた	
+j	揜映	えんえい	(「映」を「蔽」と掛けて)覆い隠すこと。
+j	援デリ	えんでり	
+j	援デリ	えんデリ	
+j	援交	えんこう	syllabic abbreviation of …
+j	援例	えんれい	例を引くこと。引例。
+j	援兵	えんぺい	reinforcements
+j	援助	えんじょ	assistance, aid
+j	援引	えんいん	自分の側に引き入れること。味方とすること。
+j	援軍	えんぐん	military reinforcements, …
+j	揺籃	えうらん	a rocking cradle (for a b…
+j	攖払	えいふつ	犯すこと。
+j	攖疾	えいしつ	病むこと。罹患。
+j	易占	えきせん	算木や筮竹などを使用して行う易による占い。
+j	易学	えきがく	易について研究する学問。
+j	易断	えきだん	易で占い、人の運勢や吉凶を判断すること。
+j	易田	えきでん	律令制で定められた土地が痩せているため毎年ではなく…
+j	易者	えきしゃ	fortuneteller
+j	映じる	えいじる	形などが他の物に反映する。
+j	映像	えいぞう	image; video (visual medi…
+j	映写	えいしゃ	projection (of films, sli…
+j	映刻	えいこく	記憶などに強く印象づけること。
+j	映帯	えいたい	色や景色が相互に写り合うこと。映発。
+j	映徹	えいてつ	光が隅々まで通ること。
+j	映日	えいじつ	太陽の日に映えること。
+j	映画	えいぐわ	movie, film
+j	映発	えいはつ	色や景色が相互に写り合うこと。映帯。
+j	映発	えいほつ	色や景色が相互に写り合うこと。映帯。
+j	映顕	えいけん	反映すること。
+j	曀晦	えいかい	暗いさま。
+j	曀曀	えいえい	立ち込めて暗いさま。
+j	曳婁	えいろう	裾を曳くこと。
+j	曳白	えいはく	紙筆を持ちながら、詩文を作ることができないこと。
+j	曳航	えいこう	towing a ship
+j	曳船	えいせん	港湾で大型の船舶やいかだなどを押したり引いたりする…
+j	曳行	えいこう	車などで引っ張ること。
+j	枝葉の	えだはの	
+j	枝豆	えだまめ	edamame, green soybeans
+j	枝道	えだみち	branch road
+j	栄一	えいいち	a male given name
+j	栄三	えいぞう	a male given name
+j	栄任	えいにん	名誉（光栄）な任務。
+j	栄光	えいこう	glory
+j	栄典	えいてん	official honors
+j	栄助	えいすけ	a male given name
+j	栄吉	えいきち	a male given name
+j	栄命	えいめい	特別な恩命。
+j	栄懐	えいかい	安楽。
+j	栄擢	えいたく	抜擢の栄誉を受けること。
+j	栄珠	えいじゅ	a male given name
+j	栄祐	えいすけ	a male given name
+j	栄華	えいぐわ	glory (with a connotation…
+j	栄蔵	えいぞう	a male given name
+j	栄衰	えいすい	栄えることと衰えること。
+j	栄造	えいぞう	a male given name
+j	栄進	えいしん	上位の地位や職に進むこと。
+j	栄顕	えいけん	立身出世すること。
+j	栄養	えいやう	nutrition, nourishment
+j	栄養	えいよう	nutrition, nourishment
+j	楹聯	えいれん	楹柱に題した聯語。
+j	楹銘	えいめい	柱に記された銘。
+j	楹階	えいかい	堂上。
+j	榎本	えのもと	a surname
+j	榎田	えのきだ	a surname
+j	榮吉	えいきち	a male given name
+j	榮華	えいぐわ	
+j	槐	えんじゅ	pagoda tree (Styphnolobiu…
+j	槐	エンジュ	pagoda tree (Styphnolobiu…
+j	槐角	えんかく	dried fruit of Styphnolob…
+j	檐楹	えんえい	軒。柱。
+j	檐鈴	えんれい	軒につるした風鈴。軒端の風鈴。
+j	櫩楹	えんえい	軒。柱。
+j	永万	えいまん	the Eiman era, 1165-1166
+j	永世	えいせい	eternity, permanence, per…
+j	永久	えいきう	eternal
+j	永仁	えいにん	the Einin era, 1293-1299
+j	永代	えいたい	長い間。永世。永久。
+j	永保	えいほう	the Eihō era, 1081-1084
+j	永劫	えいごう	eternity; eon
+j	永劫	えいごふ	eternity; eon
+j	永吉	えいきち	a male given name
+j	永命	えいめい	長命。
+j	永宅	えいたく	墓。
+j	永安	えいあん	everlasting peace
+j	永寿	えいじゅ	命が長いこと。長寿。
+j	永年	えいねん	many years, long time
+j	永延	えいえん	the Eien era, Japanese er…
+j	永徳	えいとく	the Eitoku era, 1381-1384…
+j	永懐	えいかい	永く思うこと。
+j	永日	えいじつ	一日中。
+j	永永	えいえい	永久に。いつまでも。
+j	永牢	えいろう	長く牢獄に収容されていること。
+j	永生	えいせい	eternal life; immortality
+j	永眠	えいみん	death, eternal sleep
+j	永禄	えいろく	the Eiroku era, 1558-1570
+j	永続	えいぞく	permanence; permanency
+j	永観	えいかん	the Eikan era, 983-985
+j	永訣	えいけつ	last farewell
+j	永逝	えいせい	death, demise
+j	永遠	えいえん	eternity
+j	永遠	えいゑん	eternity
+j	永銭	えいせん	穎銭。
+j	江の島	えのしま	Enoshima (an island of Ka…
+j	江口	えのくち	a surname
+j	江戸っ子	えどっこ	A true Tokyoite: one who …
+j	江戸川	えどがは	Edo River
+j	江戸川	えどがわ	Edo River
+j	江戸弁	えどべん	東京の下町で話されている日本語の方言。
+j	江戸文字	えどもじ	"Edo characters", distinc…
+j	江戸文字	エどもじ	"Edo characters", distinc…
+j	江頭	えがしら	a surname
+j	沃化	えうくわ	iodization
+j	沿岸	えんがん	coast, shore
+j	沿海	えんかい	coastal areas; (along the…
+j	沿線	えんせん	the location along a rail…
+j	沿道	えんだう	route
+j	沿道	えんどう	route
+j	沿革	えんかく	history, development, evo…
+j	泳層	えいそう	魚が多く泳ぐ水中の層。
+j	泳法	えいはふ	swimming style
+j	泳法	えいほう	swimming style
+j	泳游	えいゆう	遊泳。
+j	洹水	えんすい	洹河。
+j	海老原	えびはら	a surname
+j	海老鯛	えびたい	
+j	海老鯛	えびたひ	
+j	涯月	えうぉる	Aewol (a town in Jeju, Je…
+j	涯月	エウォル	Aewol (a town in Jeju, Je…
+j	液タブ	えきたぶ	
+j	液タブ	えきタブ	
+j	液体	えきたい	a liquid
+j	液冷	えきれい	機械などの熱を液体で冷却すること。
+j	液卵	えきらん	liquid egg
+j	液態	えきたい	液体の状態。液状。
+j	液滴	えきてき	drop (of liquid); droplet
+j	液相	えきさう	liquid phase
+j	液相	えきそう	liquid phase
+j	液糖	えきたう	liquid sugar
+j	液糖	えきとう	liquid sugar
+j	液胞	えきほう	vacuole
+j	液面	えきめん	liquid surface
+j	淵底	えんてい	深い淵の底。
+j	淵慮	えんりょ	深慮すること。
+j	淵映	えんえい	水に映ること。
+j	淵源	えんげん	origin, source
+j	淵邃	えんすい	邃淵。
+j	淵酔	えんすい	state of deep drunkenness
+j	淵酔	えんずい	state of deep drunkenness
+j	淹数	えんさく	遅いことと速いこと。遅いか速いか。速度の大小。
+j	淹速	えんそく	遅いことと速いこと。遅いか速いか。速度の大小。
+j	演じる	えんじる	play a part, perform
+j	演ずる	えんずる	
+j	演劇	えんげき	theatrical play
+j	演台	えんだい	lectern
+j	演壇	えんだん	platform, tribune, rostrum
+j	演奏	えんそう	a performance (of music);…
+j	演戯	えんげき	drama, play (composition)
+j	演目	えんもく	program
+j	演算	えんざん	A procedure for generatin…
+j	演練	えんれん	dress rehearsal; a rehear…
+j	演繹	えんえき	deduction: extending info…
+j	演者	えんじゃ	performer
+j	演能	えんのう	能を演じること。
+j	演芸	えんげい	entertainment performance
+j	演藝	えんげい	
+j	演説	えんぜつ	speech
+j	演談	えんだん	a meeting
+j	演題	えんだい	演説や講演の題目。
+j	瀛海	えいかい	大海。
+j	炎天	えんてん	hot weather; blazing sun …
+j	炎帝	えんてい	a fire deity
+j	炎暑	えんしょ	hot summer; sweltering su…
+j	炎毒	えんどく	suffering from heat
+j	炎炎	えんえん	炎が激しく燃え上がるさま。
+j	炎熱	えんねつ	intense heat
+j	炎裔	えんえい	南の果て。
+j	炎陽	えんよう	暑い夏の太陽。
+j	烟水	えんすい	煙水の異表記。
+j	烟浪	えんろう	「煙浪」の異表記。
+j	煙台	えんたい	Yantai (a coastal prefect…
+j	煙塵	えんじん	煙と塵。
+j	煙客	えんかく	霞を食べて生きるとされる仙人。
+j	煙害	えんがい	smoke pollution; damage o…
+j	煙島	えんたう	island which is in the mi…
+j	煙島	えんとう	island which is in the mi…
+j	煙幕	えんまく	a smokescreen
+j	煙弾	えんだん	smoke bomb
+j	煙散	えんさん	煙のように消えて失くなること。
+j	煙楼	えんろう	chimney
+j	煙毒	えんどく	排煙に含まれる有毒な物質。
+j	煙水	えんすい	a water surface shrouded …
+j	煙浪	えんろう	煙波。
+j	煙濤	えんとう	煙波。
+j	煙煤	えんばい	煤。油煙。
+j	煙爨	えんさん	火を使用し炊爨すること。
+j	煙磴	えんとう	slope which is in the mis…
+j	煙突	えんとつ	chimney, smokestack
+j	煙筒	えんとう	synonym of 煙突 (entotsu, “…
+j	煙管	えんかん	a tobacco pipe with a met…
+j	煙草	えんさう	synonym of タバコ (tabako, “…
+j	煙草	えんそう	synonym of タバコ (tabako, “…
+j	煙道	えんだう	flue
+j	煙道	えんどう	flue
+j	熒魄	えいはく	生き生きとした肉体。
+j	燕侶	えんりょ	つれあい。配偶者。
+j	燕巣	えんそう	燕窩。
+j	燕泥	えんでい	mud that is sent by swall…
+j	燕石	えんせき	紛い物。
+j	燕麦	えんばく	oats (Avena sativa)
+j	燕麦	エンバク	oats (Avena sativa)
+j	犾守	えぞもり	a surname
+j	猿人	えんじん	apeman
+j	猿公	えてこう	monkey, especially anthro…
+j	瑩徹	えいてつ	明るく透き通っていること。澄み渡っていること。
+j	瑩払	えいふつ	瑩磨。
+j	瑩明	えいめい	瑩徹。
+j	瑩朗	えいろう	明らかなこと。そのさま。
+j	瑩沢	えいたく	瑩潤。
+j	瑩潔	えいけつ	艶があり清らかなこと。そのさま。
+j	瑩然	えいぜん	瑩潔。
+j	瑩瑩	えいえい	てらてら。
+j	瑩白	えいはく	清らかなこと。そのさま。
+j	瑩貝	えいがい	紙や絹を磨き、つやを出すための貝。
+j	瑩質	えいしつ	美質。
+j	瑩魄	えいはく	月。
+j	画工	えだくみ	painter
+j	畫工	えだくみ	
+j	疫学	えきがく	epidemiology
+j	疫疾	えきしつ	流行り病。疫病。また、それに罹患すること。
+j	疫癘	えきれい	悪性の流行病。疫病。
+j	疫神	えきじん	疫病を流行らせる神。疫病神。
+j	瘞銭	えいせん	埋葬する際に一緒に埋める銭。
+j	癭瘻	えいろう	頭の瘤。
+j	盈月	えいげつ	徐々に満ちていく、新月から満月までの月。
+j	盈欠	えいけつ	盈虚。
+j	盈虚	えいきょ	月の満ち欠け。盈虧。
+j	益する	えきする	（「～に益する」の形または「～を益する」の形で）～…
+j	益獣	えきじう	beneficial animal
+j	益鳥	えきてう	beneficial bird
+j	睿徹	えいてつ	才知に優れ、道理に明るいこと。また、そのようなさま。
+j	睿慮	えいりょ	天子の考えや気持ち。聖慮。
+j	睿明	えいめい	聖明。
+j	穎哲	えいてつ	聡明なこと。また、そのようなさま。
+j	穎敏	えいびん	頭の回転が速いこと。また、そのさま。
+j	穎脱	えいだつ	才能がずば抜けて優れていること。
+j	穎銭	えいせん	穀物を租税として納める代わりに納める金銭。
+j	筵席	えんせき	敷物。座敷。
+j	筵道	えんどう	貴人が通る通路に敷く莚。また、それを敷いた通路。
+j	簷楹	えんえい	軒。
+j	簷鈴	えんれい	「檐鈴」の異表記。
+j	粤拼	えつぴん	Jyutping
+j	粤拼	えつピン	Jyutping
+j	粤東	えっとう	eastern Guangdong (a regi…
+j	粵拼	えつぴん	
+j	粵拼	えつピン	
+j	絵コンテ	えこんて	a storyboard
+j	絵コンテ	えコンテ	a storyboard
+j	絵姿	えすがた	a portrait
+j	絵心	えごころ	aptitude for painting or …
+j	絵手紙	えてがみ	etegami
+j	絵日記	えにっき	a diary with illustration…
+j	絵葉書	えはがき	picture postcard
+j	縁側	えんがわ	open-air veranda, balcony…
+j	縁切り	えんきり	severing off connections …
+j	縁台	えんだい	bench
+j	縁戚	えんせき	親戚。親類。
+j	縁日	えんにち	a day believed to have a …
+j	縁由	えんゆう	ゆかり。縁故。
+j	縁石	えんせき	synonym of 縁石 (fuchiishi,…
+j	縁覚	えんがく	師につくことなく（仏の教えによらず）十二因縁の理法…
+j	縁談	えんだん	marriage proposal
+j	縁辺	えんぺん	国、地域の周縁部。
+j	縁類	えんるい	婚姻や縁組などにより縁続きとなること。
+j	縈廻	えいかい	めぐること。
+j	縈懐	えいかい	疑うこと。
+j	縈旋	えいせん	めぐること。
+j	縈映	えいえい	映帯すること。
+j	纓紱	えいふつ	冠の顎の紐と印綬。
+j	纓紼	えいふつ	冠の顎の紐と棺を曳く綱。
+j	纓綬	えいじゅ	纓紱。
+j	羊肉	えふにく	mutton
+j	翳然	えいぜん	隠れること。また、そのようなさま。
+j	耀眼	えうがん	brightening
+j	腋臭	えきしう	body odour
+j	腰筋	えうきん	a psoas muscle
+j	艶名	えんめい	rumor about love affair
+j	艶容	えんよう	女性などが艶やかでなまめかしい様子。
+j	艶文	えんぶん	love letter
+j	艶書	えんしょ	love letter
+j	艶書	えんじょ	love letter
+j	艶福	えんぷく	success in love
+j	艶聞	えんぶん	a rumour of a love affair
+j	艶陽	えんよう	華やかな晩春の時候。
+j	艶麗	えんれい	容姿や表現が艶やかで美しいこと。
+j	艷福	えんぷく	success in love
+j	苑囿	えんゆう	植物を生やし、動物を飼育する場所。
+j	英トン	えいとん	long ton
+j	英トン	えいトン	long ton
+j	英一	えいいち	a male given name
+j	英主	えいしゅ	優れた君主。名君。
+j	英乂	えいがい	賢人。
+j	英京	えいけい	the British capital, Lond…
+j	英人	えいじん	イギリス人。英国人。
+j	英仏	えいふつ	the UK and France
+j	英作	えいさく	a male given name
+j	英傑	えいけつ	hero or heroine, great wo…
+j	英卓	えいたく	卓出すること。
+j	英名	えいめい	fame, reputation, glory
+j	英君	えいくん	a monarch of great intell…
+j	英哲	えいてつ	聡明なこと。また、そのような人。
+j	英国	えいこく	synonym of イギリス: United K…
+j	英帝	えいてい	British Empire (abbreviat…
+j	英徹	えいてつ	才知に優れ、道理に明るいこと。また、そのようなさま。
+j	英心	えいしん	a male given name
+j	英才	えいさい	outstanding ability
+j	英数	えいすう	alphanumerics, alphanumer…
+j	英文	えいぶん	a sentence in English
+j	英斤	えいきん	pound (unit of measure)
+j	英断	えいだん	excellent resolution; exc…
+j	英明	えいめい	intelligent
+j	英書	えいしょ	英文で書かれた書物。
+j	英法	えいほう	イギリスの法律、法体系。
+j	英物	えいぶつ	傑物。
+j	英行	えいこう	a male given name
+j	英訳	えいやく	English translation
+j	英語の	えいごの	
+j	英豪	えいごう	優れて偉いさま。その人物。英雄。英傑。豪傑。
+j	英軍	えいぐん	イギリスの軍、軍隊。
+j	英邁	えいまい	才知が非常に優れていること。また、そのようなさま。
+j	英雄	えいゆう	hero
+j	英霊	えいれい	spirits of fallen soldiers
+j	英魂	えいこん	spirit of a person of exc…
+j	葉層	えふそう	lamina (fine layer that o…
+j	葉柄	えふへい	petiole, leaf stalk
+j	葉片	えふへん	lamina (flat part of a le…
+j	葉肉	えふにく	mesophyll
+j	葉酸	えふさん	folic acid
+j	葉鞘	えふせう	leaf sheath
+j	葡萄色	えびいろ	grape (colour)
+j	蛯原	えびはら	a surname
+j	蜿蜒	えんえん	meandering, winding
+j	蝦原	えびはら	a surname
+j	蝦夷栗鼠	えぞりす	a Hokkaido red squirrel (…
+j	蝦夷栗鼠	エゾリス	a Hokkaido red squirrel (…
+j	蝦夷梅雨	えぞづゆ	一般的には梅雨のないとされる北海道（蝦夷）で、本州…
+j	蝦夷菊	えぞぎく	キク科の一年草。中国原産。観賞用。
+j	蝦夷葱	えぞねぎ	synonym of チャイブ (chaibu, …
+j	衍文	えんぶん	interpolation due to misp…
+j	衍盈	えんえい	満ちて余ること。
+j	衛兵	えいへい	guard
+j	衛卒	えいそつ	守衛する兵卒。敵の襲撃に備えて見張りをする兵。
+j	衛守	えいしゅ	守ること。
+j	衛戍	えいじゅ	軍隊が長く一つの土地に駐屯すること。
+j	衛所	えいしょ	番兵を配置して警備する場所。
+j	衛星	えいせい	a satellite (a body orbit…
+j	衛生	えいせい	hygiene; sanitation
+j	衛門府	えもんふ	a 律令 (ritsuryō) departmen…
+j	裔邑	えいゆう	辺土にあるまち。
+j	襟元	えりもと	nape (the area around one…
+j	襟巻き	えりまき	scarf
+j	襟首	えりくび	nape
+j	要する	えうする	to require
+j	要員	えうゐん	necessary personnel
+j	要塞	えうさい	fortress
+j	要約	えうやく	abridgment (shortened ver…
+j	要緊	えうきん	important; pressing; urge…
+j	要請	えうせい	an official request (of s…
+j	要諦	えうたい	crux
+j	要諦	えうてい	crux
+j	詠吟	えいぎん	節を付けて詩歌を歌うこと。また、つくること。朗詠。…
+j	詠嘆	えいたん	The use of particles or j…
+j	詠懐	えいかい	思いを詩歌にして表すこと。また、その詩歌。
+j	詠物	えいぶつ	漢詩で自然の風物を題材にしたもの。
+j	詠進	えいしん	詩歌を詠んで神社や宮中に献上すること。
+j	謁見	えっけん	visiting/having an audien…
+j	謁見	えつけん	visiting/having an audien…
+j	讌飲	えんいん	酒宴。宴会。酒盛り。
+j	豌豆	えんどう	common pea, Pisum sativum
+j	豌豆	エンドウ	common pea, Pisum sativum
+j	贏虚	えいきょ	過不足。
+j	贏輸	えいしゅ	victory or defeat
+j	越冬	えっとう	wintering; spending the w…
+j	越前	えちぜん	Echizen (a city in Fukui …
+j	越南	えつなん	synonym of ベトナム (Betonamu…
+j	越奸	えっかん	ベトナムを裏切ったベトナム人。
+j	越年	えつねん	それまでの年を越して新しい年を迎えること。年越し。
+j	越権	えっけん	自分に属する権限を越えた行為をすること。
+j	越訳	えつやく	ベトナム語に訳すこと。また、その文章。
+j	遠交	えんこう	遠方の国と親交を結ぶこと。
+j	遠人	えんじん	遠い場所から来た人。
+j	遠因	えんいん	indirect cause, distant c…
+j	遠国	えんごく	都から遠く離れた国又は地域。
+j	遠大	えんだい	grandiose; far-reaching; …
+j	遠天	えんてん	sky in the distance
+j	遠山	えんざん	a surname
+j	遠島	えんとう	island in the distant
+j	遠店	えんてん	house in the distance
+j	遠影	えんえい	遠くの姿。遠くの影。
+j	遠征	えんせい	expedition, voyage
+j	遠心	えんしん	centrifuge (the act of pu…
+j	遠慮	えんりょ	reserve
+j	遠戚	えんせき	a distant relative, one's…
+j	遠方	えんぽう	a far away place, a dista…
+j	遠景	えんけい	distant view; distant sce…
+j	遠望	えんぼう	looking off into the dist…
+j	遠来	えんらい	coming from distant place…
+j	遠東	えんとう	Far East (a geographical …
+j	遠水	えんすい	far off water; a distant …
+j	遠泳	えんえい	主に海で長い距離を泳ぐこと。特に、学校行事などとし…
+j	遠洋	えんよう	deep sea; open sea
+j	遠浪	えんろう	遠方の波。
+j	遠海	えんかい	open seas
+j	遠点	えんてん	far point
+j	遠猷	えんゆう	はるか先まで考慮した謀。
+j	遠瑩	えんえい	遠くから届く美しい輝き。
+j	遠眼	えんがん	synonym of 遠視 (enshi, “fa…
+j	遠竄	えんざん	罪人を遠くの地に流罪とすること。
+j	遠聞	えんぶん	a distant rumour
+j	遠藤	えんどう	a surname
+j	遠裔	えんえい	遠い子孫。遠胄。
+j	遠計	えんけい	はるか先まで考慮した謀。
+j	遠謀	えんぼう	はるか先まで考慮した謀。
+j	遠足	えんそく	excursion
+j	遠近	えんきん	far and near
+j	遠遊	えんゆう	遠出すること。
+j	遠郊	えんこう	都市から遠方の郊外。
+j	遠隔	えんかく	distant
+j	遠雷	えんらい	distant thunder, faraway …
+j	遠類	えんるい	血筋が離れた親類。
+j	遥遠	えうゑん	faraway
+j	選り抜き	えりぬき	the best, elite
+j	郢斲	えいたく	人に詩文の添削を依頼するときに用いる語。
+j	醳兵	えきへい	酒や食事で兵士をねぎらうこと。
+j	鉛丹	えんたん	red lead
+j	鉛刀	えんたう	lead sword
+j	鉛刀	えんとう	lead sword
+j	鉛分	えんぶん	lead content
+j	鉛槧	えんざん	筆記の道具。
+j	鉛樹	えんじゅ	鉛でできた金属樹。
+j	鉛毒	えんどく	lead poisoning
+j	鉛白	えんぱく	塩基性炭酸鉛を成分とする白色顔料。かつては白粉とし…
+j	鉛筆	えんぴつ	a pencil (graphite writin…
+j	鉛管	えんかん	鉛で出来た管。
+j	鉛粉	えんぷん	鉛を原料とする白色の顔料。かつてはおしろいに使われ…
+j	鉛糖	えんたう	lead(II) acetate; lead su…
+j	鉛糖	えんとう	lead(II) acetate; lead su…
+j	鉛錘	えんすい	plumb bob
+j	銳角	えいかく	acute angle
+j	鋭兵	えいへい	鋭利な兵器。
+j	鋭刃	えいじん	鋭利な刃物。
+j	鋭利な	えいりな	
+j	鋭峰	えいほう	鋭く聳え立つ峰。
+j	鋭敏	えいびん	sharp, acute, keen, smart
+j	鋭然	えいぜん	突出すること。また、そのようなさま。
+j	鋭角	えいかく	acute angle
+j	鋭鋒	えいほう	先の鋭い矛。
+j	閲兵	えっぺい	整列させた軍の部隊を元首、司令官などが巡視、検閲す…
+j	閲覧	えつらん	reading newspaper or othe…
+j	閹人	えんじん	宦官。
+j	閻老	えんろう	閻魔。
+j	頴果	えいくわ	caryopsis
+j	饜足	えんそく	満足すること。
+j	駅チカ	えきちか	a facility (store, etc.) …
+j	駅チカ	えきチカ	a facility (store, etc.) …
+j	駅ビル	えきびる	鉄道駅に併設されたビル。
+j	駅メロ	えきめろ	jingle played at a train …
+j	駅メロ	えきメロ	jingle played at a train …
+j	駅中	えきなか	鉄道駅の内部、特に改札内にある商店街。
+j	駅亭	えきてい	駅家。
+j	駅伝	えきでん	ekiden (long-distance rel…
+j	駅前	えきまえ	The space in front of a t…
+j	駅名	えきめい	station name
+j	駅員	えきいん	station attendant at a tr…
+j	駅地下	えきちか	鉄道駅の地下にある商店街。
+j	駅弁	えきべん	ekiben (bento sold at rai…
+j	駅田	えきでん	養老律令で宿駅の経費にあてるため国から与えられ、租…
+j	駅舎	えきしゃ	train station building
+j	駅船	えきせん	律令制で水駅に設置された官営の船舶。
+j	駅近	えきちか	鉄道駅の近くの場所。また、そのような場所にある施設。
+j	駅逓	えきてい	街道の宿場から宿場へものを送ること。駅伝。
+j	駅鈴	えきれい	律令制で官人が出張する際に朝廷から支給された鈴。
+j	駅門	えきもん	街道の宿場の出入口にある門。
+j	駅頭	えきとう	train station
+j	駅館	えきかん	律令制で、人馬を備え、駅使に宿泊や食事を提供した施…
+j	驛頭	えきとう	
+j	鰓書	えらしょ	「書鰓」の異称。
+j	鰓蓋	えらぶた	魚類の頭部後方の左右にあり、鰓を保護する薄い板状の…
+j	鰕原	えびはら	a surname
+j	鴛侶	えんりょ	同僚。
+j	鴛鴦	えんおう	older name of the 鴛鴦(おしどり…
+j	鴯鶓	えみゅー	エミュー。
+j	鴯鶓	エミュー	エミュー。
+j	黶翳	えんえい	暗いさま。
+j	えいしゅう	えいしゅう	英秀: a male given name
+j	えいしょく	えいしょく	英植: a male given name
+j	えいしろう	えいしろう	英四郎: a male given name
+j	えいやっと	えいやっと	力を尽くして事を行うさま。
+j	えがきだす	えがきだす	絵画などを描き始める。
+j	えきしゅう	えきしゅう	腋臭: body odour
+j	えきしょう	えきしょう	液晶: liquid crystal
+j	えきちゅう	えきちゅう	益虫: beneficial insect
+j	えげつない	えげつない	mean, nasty, disgusting
+j	えそらごと	えそらごと	unrealistic fantasy; pipe…
+j	えだおろし	えだおろし	良質な材を得るため行われる、下枝を切り落とす作業。…
+j	えだわかれ	えだわかれ	木の幹や枝からさらに枝が分かれること。
+j	えっさっさ	えっさっさ	
+j	えのきたけ	えのきたけ	ハラタケ目エノキタケ属に属するきのこの一種。学名:…
+j	えらいさん	えらいさん	（企業、団体の役員など）地位、身分が高い人。おえら…
+j	えらびだす	えらびだす	to select from among cand…
+j	えらびとる	えらびとる	選んで取る。
+j	えりごのみ	えりごのみ	自分の好みのものだけを選択すること。よりごのみ。
+j	えりすぐり	えりすぐり	よい物の中からさらに選抜されたもの。
+j	えりわける	えりわける	多くのものから良し悪しなどを選んで分ける。選別する。
+j	えんぎしゃ	えんぎしゃ	演技者: a performer, an actor
+j	えんざんき	えんざんき	演算機: processor
+j	えんそうか	えんそうか	
+j	えんちゅう	えんちゅう	円柱: cylinder; column
+j	えんびふく	えんびふく	燕尾服: tailcoat
+j	えんやこら	えんやこら	heave-ho
+j	えんりゅう	えんりゅう	延留
+j	エアギター	エアギター	air guitar
+j	エアバッグ	エアバッグ	airbag (protective system…
+j	エアパワー	エアパワー	国家が支配下に置いている航空を利用する潜在的、顕在…
+j	エアベッド	エアベッド	
+j	エアポート	エアポート	空港、飛行場。飛行機などの離着陸機能を備えた施設。
+j	エアメール	エアメール	airmail
+j	エアライン	エアライン	
+j	エアリアル	エアリアル	フリースタイルスキーの一つ。空中で宙返りし、その姿…
+j	エアリード	エアリード	リードを持たない木管楽器で、空気をエッジに当て、そ…
+j	エアロゾル	エアロゾル	aerosol
+j	エアロック	エアロック	airlock
+j	エア電話	えあでんわ	pretending to hold a conv…
+j	エア電話	エアでんわ	pretending to hold a conv…
+j	エイコサン	エイコサン	eicosane
+j	エイビッサ	エイビッサ	
+j	エイプリル	エイプリル	四月。
+j	エイリアス	エイリアス	情報処理でコマンドやエンティティにつけられる別名の…
+j	エイリアン	エイリアン	synonym of 宇宙人 (uchūjin, …
+j	エウアンテ	エウアンテ	木星の第33衛星の固有名。
+j	エウケラデ	エウケラデ	木星の第47衛星の固有名。
+j	エウテルペ	エウテルペ	
+j	エウヘニア	エウヘニア	
+j	エウボイア	エウボイア	
+j	エウポリエ	エウポリエ	木星の第34衛星の固有名。
+j	エウリドメ	エウリドメ	木星の第32衛星の固有名。
+j	エキサイト	エキサイト	to become excited
+j	エキストラ	エキストラ	extra (a performer that a…
+j	エギロプス	エギロプス	
+j	エギンガー	エギンガー	One who uses 餌木 (egi) lur…
+j	エクアドル	エクアドル	Ecuador (a country in Sou…
+j	エクイティ	エクイティ	衡平法。
+j	エクセター	エクセター	
+j	エクソニム	エクソニム	
+j	エクメーネ	エクメーネ	人間が居住できる地域、または現に居住している地域。…
+j	エクレール	エクレール	エクレアの表記ゆれ。
+j	エグゼビア	エグゼビア	
+j	エケチェン	エケチェン	赤ちゃん。
+j	エコサイド	エコサイド	
+j	エコノミー	エコノミー	being economical
+j	エコバッグ	エコバッグ	reusable shopping bag
+j	エコロジー	エコロジー	ecology (branch of biolog…
+j	エゴイスト	エゴイスト	自己中心的な人。
+j	エゴイズム	エゴイズム	自分が利益を得ることを至上とする考え方。自分本位の…
+j	エゴサする	エゴサする	
+j	エゴサーチ	エゴサーチ	egosurfing
+j	エザーフェ	エザーフェ	
+j	エジプトの	エジプトの	
+j	エジプト人	エジプト人	Egyptian person
+j	エジプト化	エジプト化	
+j	エジプト学	エジプト学	
+j	エジプト語	えじぷとご	古代エジプトで使われていたアフロ・アジア語族の言語…
+j	エジプト語	エジプト語	古代エジプトで使われていたアフロ・アジア語族の言語…
+j	エスカルゴ	エスカルゴ	escargot (a dish)
+j	エスキモー	エスキモー	アラスカからグリーンランドにかけての北極圏周辺に生…
+j	エスクロー	エスクロー	第三者預託。
+j	エスクード	エスクード	escudo (Portuguese and Ch…
+j	エスケープ	エスケープ	an escape from a dangerou…
+j	エスコート	エスコート	man who accompanies someo…
+j	エステル記	エステル記	
+j	エステート	エステート	領地、地所、財産。
+j	エストニア	エストニア	Estonia (a country in nor…
+j	エストロン	エストロン	卵巣から分泌される女性ホルモン。発情を促し、女性の…
+j	エスニック	エスニック	ethnic; exotic (non-Weste…
+j	エス・エム	エス・エム	
+j	エゼキエル	エゼキエル	Ezekiel
+j	エゾタヌキ	エゾタヌキ	ニホンタヌキの北海道産亜種。学名は nyctere…
+j	エゾヒグマ	エゾヒグマ	北海道に分布するヒグマの亜種。ウスリーヒグマに含め…
+j	エタノール	エタノール	ethanol
+j	エタン酸	えたんさん	酢酸のIUPAC命名法における系統名。
+j	エターなる	エターなる	エターナるの異表記。
+j	エターナる	エターナる	未完成のまま、ずっと放置される。永遠の未完に終わる。
+j	エターナル	エターナル	永遠の。永久の。不滅の。永続する。
+j	エチオピア	エチオピア	Ethiopia (a country in Ea…
+j	エチケット	エチケット	etiquette
+j	エチュード	エチュード	A small scale work, desig…
+j	エチレン基	えちれんき	
+j	エチレン基	エチレン基	
+j	エックス線	エックス線	「X線」を参照。
+j	エッセンス	エッセンス	本質。
+j	エッチする	エッチする	
+j	エッチング	エッチング	銅などの金属板に蝋などの膜をつくり、その表面を鉄筆…
+j	エディター	エディター	編集者、主筆。
+j	エディット	エディット	編集。
+j	エディプス	エディプス	
+j	エディルネ	エディルネ	1365年から1453年までオスマン帝国の首都。
+j	エデンの園	エデンの園	the Garden of Eden
+j	エトセトラ	エトセトラ	その他。～など。～等。etc.。
+j	エトナ火山	エトナ火山	
+j	エトピリカ	エトピリカ	a tufted puffin
+j	エトルリア	エトルリア	
+j	エドウイン	エドウイン	
+j	エドワーズ	エドワーズ	a transliteration of the …
+j	エドワード	エドワード	a transliteration of the …
+j	エナメル質	エナメル質	
+j	エニセイ川	エニセイ川	
+j	エネルギー	エネルギー	energy
+j	エノキタケ	エノキタケ	榎茸: enokitake
+j	エバミルク	エバミルク	evaporated milk
+j	エビデンス	エビデンス	（学術的な意味での）証拠。
+j	エビフライ	エビフライ	fried shrimp
+j	エピグラフ	エピグラフ	
+j	エピソード	エピソード	episode
+j	エピローグ	エピローグ	epilogue
+j	エフェクト	エフェクト	効果。ききめ。影響。
+j	エフェソス	エフェソス	Ephesus (an ancient Greek…
+j	エプシロン	エプシロン	epsilon
+j	エベレスト	エベレスト	Mount Everest
+j	エベンキ語	えべんきご	
+j	エベンキ語	エベンキ語	
+j	エペイロス	エペイロス	
+j	エボナイト	エボナイト	ebonite
+j	エメラルド	エメラルド	emerald (gemstone)
+j	エリキシル	エリキシル	
+j	エリクサー	エリクサー	
+j	エリクシル	エリクシル	
+j	エリサベト	エリサベト	Elizabeth
+j	エリザベス	エリザベス	a transliteration of the …
+j	エリザベツ	エリザベツ	
+j	エリジオン	エリジオン	
+j	エリツィン	エリツィン	
+j	エリトリア	エリトリア	Eritrea (a country in Eas…
+j	エリートの	エリートの	
+j	エルサレム	エルサレム	Jerusalem (the claimed (a…
+j	エルジャ語	えるじゃご	the Erzya language
+j	エルジャ語	エルジャご	the Erzya language
+j	エルジャ語	エルジャ語	the Erzya language
+j	エルドアン	エルドアン	
+j	エルドラド	エルドラド	16世紀スペイン人がアマゾン川上流にあると考えてい…
+j	エルビウム	エルビウム	erbium, Er
+j	エルンスト	エルンスト	a transliteration of the …
+j	エルヴィス	エルヴィス	
+j	エル・パソ	エル・パソ	El Paso
+j	エレガンス	エレガンス	優雅さ。上品さ。
+j	エレガント	エレガント	elegant
+j	エレキテル	エレキテル	an elekiter
+j	エレクトラ	エレクトラ	
+j	エレフェン	エレフェン	
+j	エレミヤ書	エレミヤ書	
+j	エレメント	エレメント	要素。成分。
+j	エロアニメ	エロアニメ	
+j	エロゲオタ	エロゲオタ	アダルトゲーム好きのオタク。
+j	エロゲヲタ	エロゲヲタ	「エロゲオタ」の別表記。
+j	エロゲ豚	えろげぶた	熱狂的、狂信的なアダルトゲーム好きのおたく。
+j	エロチック	エロチック	erotic, sexual, sexy
+j	エロティカ	エロティカ	
+j	エロビデオ	エロビデオ	pornographic video
+j	エロボット	エロボット	
+j	エロ漫画	えろまんが	hentai (pornographic mang…
+j	エロ漫画	エロまんが	hentai (pornographic mang…
+j	エロ漫画	エロマンガ	hentai (pornographic mang…
+j	エロ漫画家	エロ漫画家	author of hentai (pornogr…
+j	エンキュー	エンキュー	enqueuing
+j	エンゲルス	エンゲルス	
+j	エンゲージ	エンゲージ	「婚約」に関する語を造る。
+j	エンコード	エンコード	符号化すること。
+j	エンシエロ	エンシエロ	
+j	エンジェル	エンジェル	angel
+j	エンジニア	エンジニア	engineer, a person qualif…
+j	エンジョイ	エンジョイ	楽しむこと。享楽。
+j	エンセーテ	エンセーテ	
+j	エンタシス	エンタシス	entasis
+j	エントリー	エントリー	registering on competitor…
+j	エンドウ豆	エンドウ豆	
+j	エンドニム	エンドニム	
+j	エンドレス	エンドレス	終わりがないさま、無限なさま。
+j	エンブレム	エンブレム	emblem
+j	エンペラー	エンペラー	帝王。皇帝。
+j	エヴェンキ	エヴェンキ	ユーラシア大陸北東部に分布するツングース系民族。エ…
+j	エヴェン語	エヴェン語	
+j	エーオース	エーオース	Eos
+j	エーゲ海	えーげかい	the Aegean Sea
+j	エーゲ海	エーゲかい	the Aegean Sea
+j	エーテボリ	エーテボリ	
+j	エープリル	エープリル	「エイプリル」の表記ゆれ。
+j	エーリアン	エーリアン	
+j	エールール	エールール	
+j	エール大学	エール大学	
+j	会得	えとくする	understanding, comprehens…
+j	会得する	えとくする	
+j	依怙贔屓	えこひいき	prejudicial treatment, fa…
+j	兗州	えんしゅう	Yanzhou (a city in Shando…
+j	円グラフ	えんぐらふ	a pie chart
+j	円グラフ	えんグラフ	a pie chart
+j	円丁	えんちょう	a surname
+j	円周	えんしゅう	circumference
+j	円宗	えんしゅう	「円頓宗」の略。天台宗。
+j	円寂	えんじゃく	涅槃。
+j	円柱	えんちゅう	cylinder, column
+j	円熟	えんじゅく	maturity, ripeness (of so…
+j	円状	えんじょう	円の形状。円形。
+j	円相場	えんそうば	yen exchange rate
+j	円頂	えんちょう	dome, cupola
+j	厭世家	えんせいか	pessimist
+j	厭悪	えんおする	hatred, dislike, aversion
+j	厭術	えんじゅつ	呪い。また、呪いをかける人。
+j	叡情	えいじょう	天子の心情。
+j	営中	えいちゅう	兵営、陣営の中。
+j	営利的	えいりてき	利益第一であるさま
+j	営力	えいりょく	geomorphic agent
+j	営業	えいぎょう	operation, business
+j	営繞	えいじょう	めぐること。
+j	嚥下	えんかする	swallowing
+j	嚥下	えんげする	swallowing
+j	嚥下する	えんげする	
+j	園芸屋	えんげいや	植物や園芸品を売る店。植物や園芸品を売る人。
+j	園芸師	えんげいし	人形菊の栽培を行う職人。
+j	園長	えんちょう	person in charge of an 園 …
+j	塋場	えいじょう	墓場。墓地。
+j	塩化物	えんかぶつ	ある元素が塩素と結びついてできた化合物のこと。塩化…
+j	塩化銀	えんかぎん	銀が塩素と化合してできる物質。銀の原子価により複数…
+j	塩化銅	えんかどう	銅が塩素と化合してできる物質。組成の違いにより、塩…
+j	塩商	えんしょう	中国で塩を販売した業者。
+j	塩基対	えんきつい	base pair
+j	塩基性	えんきせい	basicity
+j	塩沼	えんしょう	
+j	塩硝	えんしょう	硝石（硝酸カリウム）。江戸時代、加賀藩での表記。
+j	塩素ガス	えんそがす	黄緑色の気体の塩素。
+j	塩醤	えんしょう	肉の塩漬け。
+j	妖怪	えうくわい	creepy, spooky, ghastly, …
+j	妖術	えうじゅつ	magic, spellcraft, sorcery
+j	婉曲	えんきょく	euphemistic
+j	嬰記号	えいきごう	半音上げることを表す記号「♯」。番号記号「＃」とは…
+j	宴会	えんくわい	banquet
+j	宴曲	えんきょく	鎌倉時代から室町時代にかけて貴族や武士の間で宴会な…
+j	幼稚園	えうちゑん	a kindergarten
+j	延久	えんきゅう	the Enkyū era, 1069-1074
+j	延享	えんきょう	the Enkyō era, 1744–1748
+j	延慶	えんきょう	the Enkyō era, 1308–1311
+j	延暦	えんりゃく	the Enryaku era, 783-806
+j	延期	えんきする	postponement
+j	延期する	えんきする	
+j	延焼	えんしょう	spreading (of fires)
+j	延眺	えんちょう	viewing around; viewing e…
+j	延着	えんちゃく	arriving late, behind sch…
+j	延着	えんちやく	arriving late, behind sch…
+j	延胡索	えんごさく	general term for tuberous…
+j	延長	えんちやう	An extension of length or…
+j	延長	えんちょう	An extension of length or…
+j	影従	えいじゅう	影のように、常に身近で従うこと。
+j	影響	えいきょう	influence, effect
+j	役牛	えきぎゅう	work cattle
+j	怨色	えんしょく	grudging look
+j	怨讐	えんしゅう	恨んで敵とすること。
+j	怨鳥	えんちょう	synonym of ほととぎす
+j	恵方巻	えほうまき	a large sushi roll eaten …
+j	恵比須鮫	えびすざめ	a broadnose sevengill sha…
+j	恵比須鮫	エビスザメ	a broadnose sevengill sha…
+j	悦に入る	えつにいる	to be pleased with an out…
+j	愛媛県	えひめけん	a prefecture of Japan in …
+j	抉り出す	えぐりだす	scoop out
+j	拽筇	えいきょう	散策すること。
+j	掩襲	えんしゅう	不意を狙い襲うこと。
+j	援護	えんごする	aid; covering; protection…
+j	攖擾	えいじょう	乱すこと。
+j	易経	えききょう	the I Ching
+j	映像化	えいぞうか	
+j	映写機	えいしゃき	a projector (optical devi…
+j	映日果	えいじつか	synonym of 無花果 (ichijiku,…
+j	映画界	えいがかい	映画関係者の世界。
+j	映画館	えいがかん	cinema, movie theater
+j	映象	えいしょう	picture; visual image
+j	景響	えいきょう	音とその響きなどのように関係が密接で反応が素早いこ…
+j	暍病	えつびょう	熱中症の別名。
+j	曳筇	えいきょう	杖をついて散歩すること。
+j	曳踵	えいしょう	足を引いて歩くこと。
+j	栄久	えいきゅう	長く繁栄すること。
+j	栄之助	えいのすけ	a male given name
+j	栄光	えいくわう	glory
+j	栄職	えいしょく	名誉、栄誉のある職。
+j	栄養価	えいようか	食物、食品の中の栄養的な価値。
+j	栄養士	えいようし	食事管理などを行う職業。現在の日本では、栄養士法に…
+j	栄養素	えいようそ	nutrient
+j	楹帖	えいじょう	楹聯。
+j	楹柱	えいちゅう	柱。
+j	榎茸	えのきたけ	an edible mushroom, the v…
+j	榎茸	えのきだけ	an edible mushroom, the v…
+j	榎草	えのきぐさ	Asian copperleaf, Acalyph…
+j	榎草	エノキグサ	Asian copperleaf, Acalyph…
+j	永久	えいきゅう	eternal
+j	永享	えいきょう	the Eikyō era, 1429–1441
+j	永住	えいじゅう	permanent residence
+j	永住	えいぢゆう	permanent residence
+j	永嘯	えいしょう	呼吸を長く嘯くこと。
+j	永承	えいしょう	the Eishō era, 1046–1053
+j	永昌	えいしょう	永く栄えること。
+j	永暦	えいりゃく	the Eiryaku era, 1160-1161
+j	永業	えいぎょう	かつての中国の制度で世襲が許された田地。永業田。世…
+j	永正	えいしょう	the Eishō era, 1504–1521
+j	永終	えいしゅう	永く続くこと。
+j	永遠に	えいえんに	
+j	永遠の	えいえんの	
+j	永長	えいちょう	the Eichō era, 1096-1097
+j	江戸幕府	えどばくふ	1603年徳川家康が江戸に開いた武家政権。1867…
+j	江戸時代	えどじだい	Edo Period
+j	泳力	えいりょく	泳ぎの能力。
+j	液化	えきかする	liquefaction
+j	液化する	えきかする	
+j	液晶	えきしょう	liquid crystal
+j	液汁	えきじゅう	juice
+j	液状	えきじょう	液体の状態にあること。また、そのようなさま。
+j	液量	えきりょう	器具に入っている液体の体積。
+j	淹恤	えんじゅつ	他国に寂しく留まること。
+j	演出	えんしゅつ	production (of a movie, p…
+j	演出	えんしゆつ	production (of a movie, p…
+j	演奏家	えんそうか	performer, player
+j	演技	えんぎする	performance
+j	演技する	えんぎする	
+j	演技者	えんぎしゃ	a performer, an actor
+j	演技者	えんぎもの	a performer, an actor
+j	演算子	えんざんし	A function or other mappi…
+j	演算機	えんざんき	processor
+j	演習	えんしゅう	exercise, drill
+j	演色	えんしょく	colour rendering
+j	演説家	えんぜつか	
+j	演述	えんじゅつ	自分の思想や主張を口頭や文書で述べること。
+j	瀛州	えいしゅう	古代中国の伝説で東方の海上にあり仙人が住むとされた…
+j	瀛州	えいじゅう	古代中国の伝説で東方の海上にあり仙人が住むとされた…
+j	瀛洲	えいしゅう	「瀛州」の別表記。
+j	瀛洲	えいじゅう	「瀛州」の別表記。
+j	炎上	えんじやう	going up in flames, to be…
+j	炎上	えんじょう	going up in flames, to be…
+j	炎天下	えんてんか	炎天の下。焼けつくように暑い空の下。
+j	炎症	えんしょう	inflammation
+j	炎色	えんしょく	flame colour
+j	烏帽子花	えぼしばな	synonym of 都草 (miyakogusa…
+j	烏帽子鯛	えぼしだい	man-of-war fish , Nomeus …
+j	烏帽子鳥	えぼしどり	a turaco (any bird of fam…
+j	烟嶂	えんしょう	「煙嶂」の別表記。
+j	焔摩天	えんまてん	仏教の天部の一人。インドの神話に登場する神で仏教に…
+j	焔硝	えんしょう	「煙硝」の別表記。
+j	焔色	えんしょく	炎の色。
+j	煙客	えんきゃく	霞を食べて生きるとされる仙人。
+j	煙嶂	えんしょう	霧や霞がかかる険しい峰。
+j	煙硝	えんしょう	硝石（硝酸カリウム）。
+j	煙管	えんくわん	a tobacco pipe with a met…
+j	煙霧質	えんむしつ	an aerosol
+j	燕出	えんしゅつ	天子（天皇）が人目を忍び外出すること。
+j	燕尾服	えんびふく	tailcoat
+j	燕尾鸛	えんびこう	maguari stork, Ciconia ma…
+j	燕尾鸛	エンビコウ	maguari stork, Ciconia ma…
+j	燕雀	えんじゃく	swallows and sparrows
+j	瑩浄	えいじょう	瑩潔。
+j	瑩潤	えいじゅん	艶やかで潤っているさま。
+j	瑩琇	えいしゅう	美しい石。
+j	瑩鏡	えいきょう	明鏡。
+j	疫病	えきびやう	epidemic (widespread dise…
+j	疫病	えきびょう	epidemic (widespread dise…
+j	癭腫	えいしょう	瘤。
+j	盈昃	えいしょく	盈虚。
+j	益獣	えきじゅう	beneficial animal
+j	益虫	えきちゅう	beneficial insect
+j	益鳥	えきちょう	beneficial bird
+j	禜禳	えいじょう	災厄を払うこと。
+j	穎秀	えいしゅう	才知が他の人より優れていること。また、そのような人。
+j	絵空事	えそらごと	絵画で、実際にないようなものを描いたり、誇張して描…
+j	縁の下	えんのした	縁側の下。
+j	縁を切る	えんをきる	
+j	縁成	えんじょう	一切の物事は因縁により成立していること。
+j	縁生	えんしょう	すべての存在は因縁により生じること。
+j	縁起物	えんぎもの	a talisman, a lucky charm
+j	縁遠い	えんどおい	having little relation; s…
+j	縈擾	えいじょう	纏わりつき、搔き乱すこと。
+j	縈繞	えいじょう	めぐること。
+j	纓纕	えいじょう	馬具の胸繋や腹帯なとの総称。
+j	腋臭	えきしゅう	body odour
+j	艶妾	えんしょう	艶やかで美しい妾。
+j	艶称	えんしょう	褒めること。
+j	艶笑	えんしょう	艶やかに笑うこと。
+j	艶色	えんしょく	bewitching looks
+j	英々語	えいえいご	
+j	英二郎	えいじろう	a male given name
+j	英五郎	えいごろう	a male given name
+j	英京	えいきやう	the British capital, Lond…
+j	英京	えいきょう	the British capital, Lond…
+j	英会話	えいかいわ	conversation in English
+j	英俊	えいしゅん	a wise and capable person
+j	英単語	えいたんご	English word
+j	英四郎	えいしろう	a male given name
+j	英国化	えいこくか	
+j	英尺	えいしゃく	foot (unit of measure)
+j	英尺	えいじゃく	foot (unit of measure)
+j	英弱	えいじゃく	英語が苦手であること。また、そのような人。
+j	英数の	えいすうの	
+j	英数字	えいすうじ	alphanumeric characters, …
+j	英植	えいしょく	a male given name
+j	英秀	えいしゅう	a male given name
+j	英称	えいしょう	English-language name
+j	英称	えいしよう	English-language name
+j	英語圏	えいごけん	Anglosphere (set of anglo…
+j	英語学	えいごがく	
+j	英雄家	えいゆうけ	鎌倉時代以降、幕末まで大将や大臣を兼ねた太政大臣に…
+j	蝦錠	えびじょう	A specific type of lock w…
+j	蝦錠	えびぢやう	A specific type of lock w…
+j	衛仗	えいじょう	儀仗。
+j	衛護	えいごする	escorting, guarding
+j	衣紋掛け	えもんかけ	coat hanger, hanger
+j	裔冑	えいちゅう	遠い子孫。末裔。
+j	裔壌	えいじょう	辺土。
+j	襟章	えりしやう	lapel badge
+j	襟章	えりしょう	lapel badge
+j	要するに	えうするに	in short, in a word
+j	要職	えうしよく	important post; key job
+j	要衝	えうしよう	important (major) place f…
+j	詠唱	えいしやう	a chant, a song
+j	詠唱	えいしょう	a chant, a song
+j	詠嘯	えいしょう	嘯き、詠うこと。嘯詠。
+j	詠頌	えいしょう	褒めること。
+j	謡曲	えうきよく	a noh song
+j	越中	えちちゆう	Etchū (a historical provi…
+j	越中	えっちゅう	Etchū (a historical provi…
+j	越僑	えっきょう	Vietnamese resident in ot…
+j	越南語	えつなんご	ベトナム語。
+j	越境	えっきょう	crossing of the border
+j	遠土点	えんどてん	衛星や探査機がその公転軌道上において土星から最も遠…
+j	遠地点	えんちてん	apogee
+j	遠州	えんしゅう	遠江国^(（とおとうみのくに）)の別称。
+j	遠心機	えんしんき	centrifuge
+j	遠火点	えんかてん	衛星や探査機がその公転軌道上において火星から最も遠…
+j	遠称	えんしょう	distal demonstrative
+j	遠胄	えんちゅう	遠い子孫。末裔。
+j	遠距離	えんきょり	距離が遠いこと。
+j	遠鐘	えんしょう	遠くから聞こえる鐘の音。
+j	遠隔な	えんかくな	
+j	遠隔視	えんかくし	
+j	郢匠	えいしょう	名匠。
+j	郢曲	えいきょく	はやり歌。俗曲。
+j	鉛直	えんちょく	vertical
+j	鉛糖紙	えんとうし	paper soaked in lead(II) …
+j	鋭将	えいしょう	驍将。
+j	鋭角の	えいかくの	
+j	閻浮提	えんぶだい	Jambudvipa
+j	閻魔堂	えんまどう	閻魔とその眷属を本尊する堂宇。
+j	閻魔天	えんまてん	「焔摩天」の別表記。
+j	閻魔様	えんまさま	閻魔の尊称。
+j	餌で釣る	えさでつる	
+j	饜食	えんしょく	腹いっぱいに食うこと。
+j	駅長	えきちやう	stationmaster (the person…
+j	駅長	えきちょう	stationmaster (the person…
+j	駅馬車	えきばしゃ	
+j	えいえいおう	えいえいおう	気勢を揚げる時に発する語。
+j	えいえいおー	えいえいおー	a cheer of encouragement
+j	えがらっぽい	えがらっぽい	のどが強く刺激を受けるような感じる様子。いがらっぽ…
+j	えごま油	えごまあぶら	perilla oil
+j	えんそうしゃ	えんそうしゃ	
+j	えんそうする	えんそうする	
+j	エアクオート	エアクオート	
+j	エアクラフト	エアクラフト	航空機。
+j	エアチェック	エアチェック	off-air recording of a pr…
+j	エアピストル	エアピストル	air pistol (pistol that p…
+j	エアライフル	エアライフル	
+j	エアロゾル缶	エアロゾル缶	
+j	エアロビクス	エアロビクス	aerobics
+j	エイエイオー	エイエイオー	えいえいおうの異表記。
+j	エイジプレイ	エイジプレイ	
+j	エイトレッド	エイトレッド	空間偏微分演算子 ∇の呼称。ナブラ。
+j	エイブラハム	エイブラハム	a transliteration of the …
+j	エイレーネー	エイレーネー	
+j	エウテルペー	エウテルペー	Euterpe
+j	エウリピデス	エウリピデス	
+j	エウローペー	エウローペー	Europa
+j	エキスパンド	エキスパンド	伸ばした。
+j	エキスパート	エキスパート	an expert
+j	エキゾチック	エキゾチック	異国風なさま。
+j	エクササイズ	エクササイズ	練習。また、そのための問題。
+j	エクサバイト	エクサバイト	exabyte
+j	エクサビット	エクサビット	
+j	エクスタシー	エクスタシー	ecstasy, the emotion of e…
+j	エクステリア	エクステリア	屋外装飾。
+j	エクスプレス	エクスプレス	列車などで、通常の便よりも速く目的地に到達するもの…
+j	エクスポート	エクスポート	輸出。
+j	エクセルギー	エクセルギー	exergy
+j	エクセレント	エクセレント	優れた。優良な。優秀な。
+j	エクソシスト	エクソシスト	エクソシスムを行う人。祓魔師。
+j	エクソシズム	エクソシズム	
+j	エコノミクス	エコノミクス	economics; political econ…
+j	エコノミスト	エコノミスト	economic pundit, economic…
+j	エシャロット	エシャロット	ヒガンバナ科の多年草。西洋野菜の一つで鱗茎は食用。…
+j	エジプシャン	エジプシャン	Egyptian person.
+j	エジプトガン	エジプトガン	
+j	エジプト人	えじぷとじん	Egyptian person
+j	エジプト人	エジプトじん	Egyptian person
+j	エジプト学者	エジプト学者	
+j	エジプト文明	エジプト文明	ナイル川沿いに生まれた文明。紀元前3000年頃に国…
+j	エジプト料理	エジプト料理	エジプトの伝統的な料理。
+j	エジプト睡蓮	エジプト睡蓮	synonym of 夜咲睡蓮 (yozaki s…
+j	エジプト神話	エジプト神話	古代エジプトから伝わる神話。
+j	エスカレート	エスカレート	escalation
+j	エスカロップ	エスカロップ	ケチャップライスまたはバターライスに豚カツを乗せて…
+j	エスキモー語	エスキモー語	
+j	エスツェット	エスツェット	The name of the Latin scr…
+j	エストニアの	エストニアの	
+j	エストニア人	エストニア人	Estonian (person, people)
+j	エストニア語	えすとにあご	Estonian (language)
+j	エストニア語	エストニアご	Estonian (language)
+j	エストニア語	エストニア語	Estonian (language)
+j	エストラゴン	エストラゴン	
+j	エストロゲン	エストロゲン	estrogen
+j	エスニシティ	エスニシティ	民族性。
+j	エスノロジー	エスノロジー	ethnology
+j	エスプレッソ	エスプレッソ	espresso (strong type of …
+j	エスペラント	エスペラント	Esperanto
+j	エスワティニ	エスワティニ	Eswatini (a country in So…
+j	エセコスプレ	エセコスプレ	
+j	エゼキエル書	エゼキエル書	
+j	エゾオオカミ	エゾオオカミ	ネコ目イヌ科イヌ属に分類されるおおかみの亜種。絶滅…
+j	エダフトダケ	エダフトダケ	ネパールから中華人民共和国雲南省・インドシナにかけ…
+j	エチオピア人	エチオピア人	エチオピア国籍を有する者。エチオピア出身者。
+j	エックス線	えっくすせん	「X線」を参照。
+j	エックス線	エックスせん	「X線」を参照。
+j	エッグタルト	エッグタルト	ペイストリーの生地にエッグカスタードを載せた香港、…
+j	エッグノッグ	エッグノッグ	eggnog
+j	エッサウィラ	エッサウィラ	
+j	エッセイスト	エッセイスト	
+j	エッフェル塔	エッフェル塔	the Eiffel Tower
+j	エディンバラ	エディンバラ	Edinburgh (the capital ci…
+j	エデンの園	えでんのその	the Garden of Eden
+j	エデンの園	エデンのその	the Garden of Eden
+j	エトナ火山	えとなかざん	
+j	エトミデート	エトミデート	
+j	エトルリアの	エトルリアの	
+j	エトルリア人	エトルリア人	古代イタリアに暮らした非印欧系の民族。
+j	エトルリア語	エトルリア語	エトルリアなどで話されていた、ティルセニア語族に属…
+j	エトヴェシュ	エトヴェシュ	重力勾配の単位。記号はE。
+j	エドモントン	エドモントン	Edmonton (the capital cit…
+j	エナジーバー	エナジーバー	
+j	エナメル質	えなめるしつ	
+j	エニューオー	エニューオー	
+j	エノコログサ	エノコログサ	イネ科エノコログサ属の一年草。草丈は40-70cm…
+j	エビフリャー	エビフリャー	
+j	エピオルニス	エピオルニス	《分類学》 エピオルニス目エピオルニス科 に分類さ…
+j	エピゴーネン	エピゴーネン	epigone
+j	エピセンター	エピセンター	震央。
+j	エピタラヒリ	エピタラヒリ	
+j	エピデミック	エピデミック	特定の地域に感染症が突発的に拡大している状態。
+j	エピネフリン	エピネフリン	adrenaline
+j	エピファニー	エピファニー	
+j	エピメテウス	エピメテウス	土星の第11衛星の固有名。
+j	エフェクター	エフェクター	effects unit (effects ped…
+j	エフェドリン	エフェドリン	ephedrine
+j	エフェンディ	エフェンディ	
+j	エプスタイン	エプスタイン	
+j	エホバの証人	エホバの証人	
+j	エボラ出血熱	エボラ出血熱	Ebola hemorrhagic fever
+j	エポキシ樹脂	エポキシ樹脂	エポキシ基二個以上を縮重合させて製した熱硬化性樹脂…
+j	エミッション	エミッション	放出、排出。
+j	エミュレータ	エミュレータ	emulator
+j	エミー賞	えみーしょう	an Emmy Award
+j	エミー賞	エミーしょう	an Emmy Award
+j	エムスラント	エムスラント	
+j	エムポックス	エムポックス	
+j	エメラルド色	エメラルド色	
+j	エメンタール	エメンタール	
+j	エモティコン	エモティコン	
+j	エモーション	エモーション	情緒、感動、感情、感激。
+j	エラガバルス	エラガバルス	
+j	エラストマー	エラストマー	ゴムなど常温で大きな弾性を持つ高分子の物質の総称。
+j	エリアコード	エリアコード	
+j	エリオット湾	エリオット湾	Elliott Bay (a bay of Was…
+j	エリザベサン	エリザベサン	イギリスのエリザベス1世(在位1558-1603)…
+j	エリダヌス座	エリダヌス座	南天の星座の一つ。トレミーの48星座の一つ。構成す…
+j	エリトリア人	エリトリア人	エリトリア国籍を有する者。エリトリア出身者。
+j	エリトリア国	エリトリア国	
+j	エリュシオン	エリュシオン	死者の楽園。
+j	エリート主義	エリート主義	
+j	エルエルシー	エルエルシー	
+j	エルサゲート	エルサゲート	
+j	エルサレム人	エルサレム人	
+j	エルステッド	エルステッド	磁界強度の単位。（CGS単位系）。記号はOe。
+j	エルナンデス	エルナンデス	
+j	エルニーニョ	エルニーニョ	El Niño
+j	エルブルス山	エルブルス山	
+j	エレキギター	エレキギター	synonym of エレクトリック・ギター (“…
+j	エレキベース	エレキベース	electric bass
+j	エレクション	エレクション	
+j	エレクトロン	エレクトロン	電子。
+j	エレクトーン	エレクトーン	electone (a kind of elect…
+j	エレファント	エレファント	象。
+j	エレフェン語	エレフェン語	
+j	エレベーター	エレベーター	an elevator (US) or lift …
+j	エロかわいい	エロかわいい	sexy and cute
+j	エロシェンコ	エロシェンコ	Vasily Eroshenko (blind R…
+j	エロチシズム	エロチシズム	eroticism
+j	エロチックな	エロチックな	
+j	エロティック	エロティック	「エロチック」の表記ゆれ。
+j	エロトマニア	エロトマニア	
+j	エロマンガ島	エロマンガ島	Erromango
+j	エロ漫画家	えろまんがか	author of hentai (pornogr…
+j	エロ漫画家	エロまんがか	author of hentai (pornogr…
+j	エンカウント	エンカウント	encounter
+j	エンケラドス	エンケラドス	
+j	エンコーダー	エンコーダー	
+j	エンジャメナ	エンジャメナ	
+j	エンジョイ勢	エンジョイ勢	コンピュータゲームなどで、あまり記録には拘らずに気…
+j	エンセラダス	エンセラダス	
+j	エンタルピー	エンタルピー	enthalpy
+j	エンターキー	エンターキー	キーボードで改行や確定を行う少し大きめのキー。
+j	エンチャント	エンチャント	an enchantment
+j	エンチラーダ	エンチラーダ	an enchilada
+j	エンディアン	エンディアン	複数バイトにわたるデータを格納する順序。バイトオー…
+j	エンディング	エンディング	ending, especially of a b…
+j	エンデミック	エンデミック	特定の地域に流行する感染症。
+j	エンデューロ	エンデューロ	enduro
+j	エントランス	エントランス	マンションなどの建物の入口となる場所。
+j	エントロピー	エントロピー	entropy
+j	エンドカード	エンドカード	a still image shown for a…
+j	エンドガミー	エンドガミー	endogamy
+j	エンドユーザ	エンドユーザ	
+j	エンドライン	エンドライン	主に球技でコートの一番奥に当たる線。
+j	エンドロール	エンドロール	closing credits
+j	エンプティー	エンプティー	空の、中身の無い。
+j	エンプロイー	エンプロイー	従業員、使用人。
+j	エンベロープ	エンベロープ	envelope
+j	エンボリズム	エンボリズム	樹木が水不足となった際に道管や仮道管中の柱状となっ…
+j	エヴェンキ語	えゔぇんきご	アルタイ諸語に属する言語で中華人民共和国、ロシア、…
+j	エヴェンキ語	エヴェンキ語	アルタイ諸語に属する言語で中華人民共和国、ロシア、…
+j	エージェント	エージェント	agent
+j	エールワイフ	エールワイフ	
+j	会釈	えしゃくする	saluting, a slight bow, a…
+j	偃月刀	えんげつとう	scimitar
+j	円を描く	えんをえがく	to draw a circle, to make…
+j	円刃刀	えんじんとう	
+j	円口類	えんこうるい	脊椎動物の中で最も原始的な魚類。ヤツメウナギ目とヌ…
+j	円形文字	えんけいもじ	
+j	円盤投	えんばんなげ	円盤投げの日本陸上競技連盟における公的表記。
+j	円盤投げ	えんばんなげ	陸上競技の種目のひとつで円盤を飛ばした距離を競う投…
+j	円筒形	えんとうけい	断面が円形の筒のような形状。
+j	円舞曲	えんぶきょく	waltz
+j	円錐形	えんすいけい	cone shape
+j	円関数	えんかんすう	三角関数の別名。
+j	冤達	えんたつする	revealing not guilty
+j	厭世的	えんせいてき	pessimistic
+j	厭世観	えんせいかん	pessimistic view of life;…
+j	厭人者	えんじんしゃ	misanthrope
+j	厭戦的	えんせんてき	戦いを嫌うさま。
+j	営業日	えいぎょうび	市場や企業などが営業を行っている日。また、それを数…
+j	園芸学	えんげいがく	園芸について研究する学問。
+j	園芸店	えんげいてん	植物や園芸品を販売する店。
+j	園遊会	えんゆうかい	庭園などの屋外に多くの客を招待し、食事や余興などで…
+j	塩化水素	えんかすいそ	塩素と水素の化合物。分子式HCl。常温においては気…
+j	婉曲の	えんきょくの	
+j	延伸	えんしんする	postponement of time
+j	延佇	えんちょする	stopping to go and view
+j	延命	えんめいする	life extension
+j	延命菊	えんめいぎく	daisy
+j	延命菊	エンメイギク	daisy
+j	延灯	えんとうする	In a military or military…
+j	影印	えいいんする	photocopying and reprinti…
+j	影印本	えいいんぼん	photocopied facsimile of …
+j	恵方参り	えほうまいり	New Year's pilgrimage to …
+j	悦楽	えつらくする	enjoyment; satisfaction
+j	掩体壕	えんたいごう	敵の攻撃から味方の航空機などを援護し格納するための…
+j	掩撃	えんげきする	sneak attack, surprise at…
+j	掩蔽	えんぺいする	cloaking, concealment, st…
+j	掩蔽する	えんぺいする	
+j	掩蔽壕	えんぺいごう	
+j	援助	えんじょする	assistance, aid
+j	援助する	えんじょする	
+j	易学者	えきがくしゃ	易学を研究する科学者。
+j	映写	えいしゃする	projection (of films, sli…
+j	映日果	えいじつくわ	synonym of 無花果 (ichijiku,…
+j	映画ファン	えいがふぁん	
+j	曳航	えいこうする	towing a ship
+j	栄光ある	えいこうある	
+j	栄養体	えいようたい	生物で生殖器官以外の器官。
+j	栄養分	えいようぶん	身体の栄養となる成分。養分。滋養分。
+j	栄養剤	えいようざい	栄養の不足を補い、調整するために使用される薬剤。
+j	栄養塩	えいようえん	nutrient salt
+j	栄養学	えいようがく	nutrition science
+j	栄養過多	えいようかた	
+j	榮養學	えいようがく	栄養学の漢字制限前の表記。
+j	永久に	えいきゅうに	
+j	永久の	えいきゅうの	
+j	永久歯	えいきゅうし	乳歯が抜けた後に生え、その後生え変わらない歯。成歯。
+j	永眠	えいみんする	death, eternal sleep
+j	永眠する	えいみんする	
+j	永祚の風	えいそのかぜ	永祚元年8月13日（989年9月20日）に畿内を襲…
+j	永続	えいぞくする	permanence; permanency
+j	永続する	えいぞくする	
+j	永続性	えいぞくせい	ある状態が長続きしうる性質。
+j	永続的	えいぞくてき	perpetual, permanent, eve…
+j	永訣	えいけつする	last farewell
+j	永逝	えいせいする	death, demise
+j	沿岸国	えんがんこく	国土が海域、水域と接している国家。
+j	沿岸砲	えんがんほう	沿岸に設置する大砲。海岸砲。
+j	液化窒素	えきかちっそ	「液体窒素」を参照。
+j	液状化	えきじょうか	地震の揺れなどにより地下水などの水分を多く含んだ砂…
+j	演出家	えんしゅつか	演劇・オペラ・舞踊等の舞台作品における演出を行う職…
+j	演劇人	えんげきじん	役者や劇作家、演出家などの演劇に携わる人人の総称。
+j	演劇学	えんげきがく	演劇を理論的、実践的に研究する学問。
+j	演劇界	えんげきかい	演劇人の世界。劇壇。劇界。伶界。
+j	演奏	えんそうする	a performance (of music);…
+j	演奏する	えんそうする	
+j	演奏会	えんそうかい	concert
+j	演奏者	えんそうしゃ	performer, player
+j	演算	えんざんする	A procedure for generatin…
+j	演繹	えんえきする	deduction: extending info…
+j	演繹法	えんえきはふ	deductive reasoning
+j	演繹法	えんえきほう	deductive reasoning
+j	演繹的	えんえきてき	演繹することで論を展開するさま。
+j	演説	えんぜつする	speech
+j	狗尾草	えのころぐさ	Grass of species Setaria …
+j	狗尾草	エノコログサ	Grass of species Setaria …
+j	疫学者	えきがくしゃ	疫学を研究する科学者。
+j	絵本作家	えほんさっか	絵本を制作する作家。
+j	縁切り	えんきりする	severing off connections …
+j	縁故疎開	えんこそかい	都市から田舎にある親戚の家に疎開すること。
+j	縁起直し	えんぎなおし	前兆の悪いのを祝い直すこと。
+j	縁辺	えんぺんする	国、地域の周縁部。
+j	英会話	えいくゎいわ	conversation in English
+j	英作文	えいさくぶん	英語で作文を作ること。また、その作文。
+j	英和辞典	えいわじてん	英語の単語や熟語を日本語で定義し、用法等を解説した…
+j	英国人	えいこくじん	A British person; a Brito…
+j	英文学	えいぶんがく	イギリスもしくはアメリカの作家または英語により書か…
+j	英文法	えいぶんぽう	英語の文法。
+j	英米法	えいべいほう	イギリスやアメリカ合衆国などイギリスの影響を受けた…
+j	英訳	えいやくする	English translation
+j	英語話者	えいごわしゃ	
+j	英語辞典	えいごじてん	英語の単語や熟語、用法等を解説した辞書。
+j	英連邦	えいれんぱう	Commonwealth of Nations
+j	英連邦	えいれんぽう	Commonwealth of Nations
+j	英雄譚	えいゆうたん	heroic tale
+j	葉緑素	えふりよくそ	synonym of クロロフィル (kuroro…
+j	葉蝋石	えふらふせき	pyrophyllite
+j	蝦夷狼	えぞおおかみ	Hokkaido wolf (†Canis lup…
+j	蝦夷狼	えぞおほかみ	Hokkaido wolf (†Canis lup…
+j	蝦夷狼	エゾオオカミ	Hokkaido wolf (†Canis lup…
+j	蝦夷鰰	えぞはたはた	Pacific sandfish, Trichod…
+j	蝦夷鰰	エゾハタハタ	Pacific sandfish, Trichod…
+j	衛星国	えいせいこく	独立した主権国家であるが主要な政策で大国に主権が制…
+j	衛星都市	えいせいとし	a satellite town
+j	衛生兵	えいせいへい	a medic; a corpsman
+j	衛生学	えいせいがく	個人から公衆にかけて健康の維持、増進、疾病の予防、…
+j	衛生的	えいせいてき	hygenic
+j	要注意	えうちゆうい	requiring attention
+j	詠嘆	えいたんする	The use of particles or j…
+j	謁見	えっけんする	visiting/having an audien…
+j	豌豆豆	えんどうまめ	豌豆の種子。食用。
+j	越冬	えっとうする	wintering; spending the w…
+j	越和辞典	えつわじてん	ベトナム語の単語や熟語を、日本語で定義し、用法等を…
+j	越年生	えつねんせい	秋に種を蒔き、翌年花を咲かせて結実すること。二年生。
+j	越年草	えつねんそう	秋に種を蒔き、翌年花を咲かせて結実する植物。二年生…
+j	遠冥点	えんめいてん	衛星や探査機がその公転軌道上において冥王星から最も…
+j	遠地地震	えんちじしん	遠方で起きた地震。日本では震央が沿岸から600 k…
+j	遠地津波	えんちつなみ	遠方で起きた地震や噴火に伴う津波。
+j	遠天点	えんてんてん	衛星や探査機がその公転軌道上において天王星から最も…
+j	遠征	えんせいする	expedition, voyage
+j	遠心的	えんしんてき	思考などが浅い外面に向かおうとするさま。
+j	遠心顔	えんしんがお	face where the gap in bet…
+j	遠慮	えんりょする	reserve
+j	遠慮する	えんりょする	
+j	遠日点	えんじつてん	aphelion
+j	遠星点	えんせいてん	惑星などがその公転軌道上において恒星から最も離れる…
+j	遠望	えんぼうする	looking off into the dist…
+j	遠木点	えんもくてん	衛星や探査機がその公転軌道上において木星から最も遠…
+j	遠水点	えんすいてん	探査機などがその公転軌道上において水星から最も遠ざ…
+j	遠海点	えんかいてん	衛星や探査機がその公転軌道上において海王星から最も…
+j	遠足	えんそくする	excursion
+j	遠近法	えんきんほう	perspective (technique of…
+j	遠金点	えんきんてん	探査機などがその公転軌道上において金星から最も遠ざ…
+j	遠銀点	えんぎんてん	天体がその公転軌道上において銀河の中心から最も離れ…
+j	醳兵	えきへいする	酒や食事で兵士をねぎらうこと。
+j	鉛管工	えんかんこう	plumber
+j	鋭錐石	えいすいせき	anatase
+j	閲兵式	えっぺいしき	元首や司令官などが整列した軍隊を閲兵する儀式。
+j	閲覧	えつらんする	reading newspaper or othe…
+j	閲覧する	えつらんする	
+j	閲覧室	えつらんしつ	reading room
+j	閻魔参り	えんままいり	旧暦の一月十六日と七月十六日に閻魔堂に参詣すること…
+j	閻魔詣で	えんまもうで	旧暦の一月十六日と七月十六日に閻魔堂に参詣すること…
+j	えいぎょうしょ	えいぎょうしょ	
+j	えぞひきがえる	えぞひきがえる	あずまひきがえるの北海道集団。かつては亜種と見なさ…
+j	えらぶうみへび	えらぶうみへび	有鱗目コブラ科エラブウミヘビ属に属する蛇の総称。学…
+j	えりまきとかげ	えりまきとかげ	有鱗目エリマキトカゲ属に属するとかげの一種。学名は…
+j	エアインテーク	エアインテーク	air intake
+j	エアクッション	エアクッション	
+j	エアターミナル	エアターミナル	
+j	エアフライヤー	エアフライヤー	
+j	エアリアルヨガ	エアリアルヨガ	
+j	エアレーション	エアレーション	曝気。
+j	エアロスタット	エアロスタット	
+j	エインヘリャル	エインヘリャル	einherjar
+j	エインヘリヤル	エインヘリヤル	
+j	エインヘルヤル	エインヘルヤル	
+j	エウェンキー語	えうぇんきーご	
+j	エウェンキー語	エウェンキー語	
+j	エウクレイデス	エウクレイデス	Euclid
+j	エウスタキオ管	エウスタキオ管	
+j	エウヘメリズム	エウヘメリズム	
+j	エキシビション	エキシビション	exhibition
+j	エキュメニズム	エキュメニズム	
+j	エクスカリバー	エクスカリバー	
+j	エクスキューズ	エクスキューズ	弁解、言い訳、口実。
+j	エクスセカント	エクスセカント	正割から1を減じた値。exsec。
+j	エクストリーム	エクストリーム	being extreme (such as in…
+j	エクスビバイト	エクスビバイト	exbibyte
+j	エクスビビット	エクスビビット	exbibit
+j	エクトプラズム	エクトプラズム	ectoplasm
+j	エグゼクティブ	エグゼクティブ	executive, a senior offic…
+j	エグランタイン	エグランタイン	
+j	エコツーリズム	エコツーリズム	自然環境を観光資源とし、その観光資源を損なうことな…
+j	エゴサーチする	エゴサーチする	
+j	エゴサーフィン	エゴサーフィン	自分の本名やハンドルネーム、社名、自社の製品や商品…
+j	エジプト神話	えじぷとしんわ	古代エジプトから伝わる神話。
+j	エスカベーシュ	エスカベーシュ	
+j	エスカベーチェ	エスカベーチェ	
+j	エスカレーター	エスカレーター	an escalator (mechanical …
+j	エスケープキー	エスケープキー	escape key (key on a pers…
+j	エストニア人	えすとにあじん	Estonian (person, people)
+j	エストニア人	エストニアじん	Estonian (person, people)
+j	エスパドリーユ	エスパドリーユ	元々はフランス、スペインで使用されたサンダルのよう…
+j	エスペラント界	エスペラント界	
+j	エスペラント語	えすぺらんとご	Esperanto (artificial lan…
+j	エスペラント語	エスペラントご	Esperanto (artificial lan…
+j	エスペラント語	エスペラント語	Esperanto (artificial lan…
+j	エチオピア人	えちおぴあじん	エチオピア国籍を有する者。エチオピア出身者。
+j	エチオピア料理	エチオピア料理	エチオピアの伝統的な料理。
+j	エックス・デイ	エックス・デイ	いつか必ず起こるが、現時点ではそれがいつかは分から…
+j	エックス線写真	エックス線写真	
+j	エッグスプーン	エッグスプーン	
+j	エッセンシャル	エッセンシャル	本質的なさま、根本的なさま、必須であるさま。
+j	エッフェル塔	えっふぇるとう	the Eiffel Tower
+j	エッフェル塔	エッフェルとう	the Eiffel Tower
+j	エトルリア人	えとるりあじん	古代イタリアに暮らした非印欧系の民族。
+j	エドモントン人	エドモントン人	
+j	エヌエイチケイ	エヌエイチケイ	Nippon Hoso Kyokai（日本放送協会…
+j	エネルギッシュ	エネルギッシュ	energetic
+j	エネルギーバー	エネルギーバー	
+j	エネルギー革命	エネルギー革命	燃料や動力の主なエネルギー源が代わり、産業や社会生…
+j	エピクレーシス	エピクレーシス	epiclesis
+j	エピメーテウス	エピメーテウス	ギリシア神話の神。イーアペトスとクリュメネーの息子。
+j	エプスタイン島	エプスタイン島	
+j	エベンキ自治旗	えべんきじちき	
+j	エベンキ自治旗	エベンキ自治旗	
+j	エボシアリモズ	エボシアリモズ	
+j	エボラウイルス	エボラウイルス	Ebola virus
+j	エミュレーター	エミュレーター	エミュレータの別形。
+j	エムピースリー	エムピースリー	
+j	エムピーフォー	エムピーフォー	
+j	エモーショナル	エモーショナル	emotional
+j	エラスティック	エラスティック	
+j	エラブウミヘビ	エラブウミヘビ	有鱗目コブラ科エラブウミヘビ属に属する蛇の一種。学…
+j	エリオット波動	エリオット波動	
+j	エリオット湾	えりおっとわん	Elliott Bay (a bay of Was…
+j	エリオット湾	エリオットわん	Elliott Bay (a bay of Was…
+j	エリトリア人	えりとりあじん	エリトリア国籍を有する者。エリトリア出身者。
+j	エリマキトカゲ	エリマキトカゲ	襟巻蜥蝪の学術的表記。
+j	エリート主義	えりーとしゅぎ	
+j	エルゴノミクス	エルゴノミクス	
+j	エルサルバドル	エルサルバドル	El Salvador (a country in…
+j	エルミート内積	エルミート内積	複素ベクトル空間に定義される内積。具体的には、複素…
+j	エルミート行列	エルミート行列	Hermitian matrix
+j	エル・クラシコ	エル・クラシコ	
+j	エレクトリック	エレクトリック	electric
+j	エレクトロニカ	エレクトロニカ	electronica
+j	エロティシズム	エロティシズム	性愛を掻き立てる性質。
+j	エロマンガ島	えろまんがとう	Erromango
+j	エロマンガ島	エロマンガとう	Erromango
+j	エンキューする	エンキューする	
+j	エンケラドゥス	エンケラドゥス	土星の第2衛星の固有名。
+j	エンコードする	えんこーどする	
+j	エンコードする	エンコードする	
+j	エンジョイ勢	えんじょいぜい	コンピュータゲームなどで、あまり記録には拘らずに気…
+j	エンディング曲	エンディング曲	映画・演劇・放送番組などの締めくくりに流れる歌。
+j	エンドユーザー	エンドユーザー	end user
+j	エンドルフィン	エンドルフィン	an endorphin
+j	エンペドクレス	エンペドクレス	
+j	エージェンシー	エージェンシー	agency
+j	エーティーエム	エーティーエム	
+j	エーデルワイス	エーデルワイス	
+j	エーヤワディー	エーヤワディー	
+j	エーリュシオン	エーリュシオン	エリュシオンの異表記。
+j	エーレクトラー	エーレクトラー	Electra
+j	会者定離	えしゃじょうり	those who meet must part …
+j	会陰切開	えいんせっかい	episiotomy
+j	依怙贔屓	えこひいきする	prejudicial treatment, fa…
+j	円卓会議	えんたくかいぎ	round table conference
+j	円周率	えんしゅうりつ	pi
+j	円周角	えんしゅうかく	円周上の1点と、円周上の異なる2点とを結んだ二つの…
+j	円形章	えんけいしょう	
+j	円熟	えんじゅくする	maturity, ripeness (of so…
+j	円熟した	えんじゅくした	
+j	円電流	えんでんりゅう	circular current
+j	円順列	えんじゅんれつ	回転して位置が同じになるものは1通りとして数える順…
+j	円頓宗	えんどんしゅう	Japanese Tiantai
+j	厭世主義	えんせいしゅぎ	pessimism
+j	営利会計	えいりかいけい	営利を目的とする組織体が計算主体となる会計。通常は…
+j	営業	えいぎょうする	operation, business
+j	営業キロ	えいぎょうきろ	鉄道路線の輸送量の計測に用いる距離をキロメートルで…
+j	営業所	えいぎょうしょ	sales office, service off…
+j	営業権	えいぎょうけん	営業する権利。特に会社、商店などで伝統や名声、取引…
+j	園長室	えんちょうしつ	園長が執務を行う専用の部屋。
+j	塩化カリウム	えんかかりうむ	塩素とカリウムの化合物。化学式KCl。
+j	塩化水銀	えんかすいぎん	塩素と水銀の化合物。組成の違いにより、塩化水銀(I…
+j	塩基性塩	えんきせいえん	水酸化物イオンが残っている塩。
+j	婉曲法	えんきょくほう	
+j	延焼	えんしょうする	spreading (of fires)
+j	延眺	えんちょうする	viewing around; viewing e…
+j	延着	えんちゃくする	arriving late, behind sch…
+j	延長	えんちょうする	An extension of length or…
+j	延長戦	えんちやうせん	An extra game of soccer, …
+j	延長戦	えんちょうせん	An extra game of soccer, …
+j	延長線	えんちやうせん	extended line (usually as…
+j	延長線	えんちょうせん	extended line (usually as…
+j	影響	えいきょうする	influence, effect
+j	影響する	えいきょうする	
+j	得手に帆を揚ぐ	えてにほをあぐ	synonym of 得手に帆を揚げる (ete …
+j	描き加える	えがきくわえる	paint in
+j	映像作家	えいぞうさっか	映画やテレビなどの映像の制作を専門とする作家の総称。
+j	映画制作	えいがせいさく	
+j	映画監督	えいがかんとく	film director
+j	映画音楽	えいがおんがく	映画で使用される音楽の総称。
+j	映画館	えいぐわくわん	cinema, movie theater
+j	枝編み細工	えだあみざいく	
+j	栄枯盛衰	えいこせいすい	rise and fall (of the Rom…
+j	栄養不足	えいようぶそく	synonym of 栄養失調
+j	永住	えいじゅうする	permanent residence
+j	永住権	えいじゅうけん	外国人が国籍を取得せず、また在留の期間を制限される…
+j	永字八法	えいじはっぽう	側 (soku) or 点 (ten, liter…
+j	永字八法	えいじはつぱふ	側 (soku) or 点 (ten, liter…
+j	永業田	えいぎょうでん	かつての中国の制度で世襲が許された田地。永業。世業…
+j	江戸油鮫	えどあぶらざめ	a sharpnose sevengill sha…
+j	江戸油鮫	エドアブラザメ	a sharpnose sevengill sha…
+j	沿海地方	えんかいちほう	
+j	沿海州	えんかいしゅう	ロシアの日本海沿岸地域。
+j	液体窒素	えきたいちっそ	liquid nitrogen
+j	液体窒素	えきたいちつそ	liquid nitrogen
+j	液体酸素	えきたいさんそ	liquid oxygen
+j	演出	えんしゅつする	production (of a movie, p…
+j	演出する	えんしゅつする	
+j	演奏記号	えんそうきごう	楽曲を演奏するため、音符などの他に演奏の強弱や長短…
+j	演習	えんしゅうする	exercise, drill
+j	炎上	えんじょうする	going up in flames, to be…
+j	縁者贔屓	えんじゃびいき	nepotism
+j	縁覚乗	えんかくじょう	仏陀の教えに依らず縁覚の者が自分の立場とする教え。
+j	縁起が悪い	えんぎがわるい	
+j	縁起でもない	えんぎでもない	unlucky, ill-omened
+j	縁起の悪い	えんぎのわるい	
+j	英国化する	えいこくかする	
+j	英国婦人	えいこくふじん	
+j	英英辞典	えいえいじてん	英語の語句を英語で定義した辞典を、英語が母国語でな…
+j	英雄主義	えいゆうしゅぎ	synonym of ヒロイズム (hiroizu…
+j	英雄時代	えいゆうじだい	the Heroic Age
+j	葉緑体	えふりよくたい	chloroplast
+j	薩爾瓦多	えるさるばどる	エルサルバドルの漢字表記。
+j	薩爾瓦多	エルサルバドル	エルサルバドルの漢字表記。
+j	衛星電話	えいせいでんわ	satellite phone
+j	襟巻蜥蜴	えりまきとかげ	frilled lizard, Chlamydos…
+j	詠唱	えいしょうする	a chant, a song
+j	詠春拳	えいしゅんけん	Wing Chun, a concept-base…
+j	越前水母	えちぜんくらげ	Nomura's jellyfish, Nemop…
+j	越前水母	エチゼンクラゲ	Nomura's jellyfish, Nemop…
+j	越境	えっきょうする	crossing of the border
+j	越越辞典	えつえつじてん	ベトナム語の語句をベトナム語で定義した辞典を、ベト…
+j	遠心分離	えんしんぶんり	高速で回転させることによって強い遠心力をかけ、混合…
+j	遠心力	えんしんりょく	centrifugal force
+j	遠眼鏡	えんがんきょう	an optical instrument for…
+j	遠紫外線	えんしがいせん	紫外線のうち、波長200ナノメートル未満のもの。
+j	遠隔操作	えんかくそうさ	remote control, remote op…
+j	遠隔透視	えんかくとうし	
+j	鉛中毒	えんちゅうどく	lead poisoning
+j	鉛直線	えんちょくせん	重力と平行な方向に伸びる線。鉛直の線。
+j	鉛筆削り	えんぴつけずり	a pencil sharpener
+j	鋭アクセント	えいあくせんと	an acute accent ( ´ )
+j	鋭アクセント	えいアクセント	an acute accent ( ´ )
+j	閻魔大王	えんまだいおう	閻魔の尊称。
+j	駅名標	えきめいひょう	station name sign; statio…
+j	駅長室	えきちょうしつ	駅長が執務を行う専用の部屋。
+j	えいぎょうちゅう	えいぎょうちゅう	営業中: open (store, shop, r…
+j	えいせいほうそう	えいせいほうそう	衛星放送: satellite broadcast…
+j	エアフォースワン	エアフォースワン	
+j	エイプリルフール	エイプリルフール	April fool, April Fool's …
+j	エイレイテュイア	エイレイテュイア	
+j	エウリュディケー	エウリュディケー	
+j	エウリーピデース	エウリーピデース	
+j	エカテリンブルク	エカテリンブルク	Yekaterinburg (a city, th…
+j	エキサイティング	エキサイティング	わくわくして面白い様子。
+j	エキセントリック	エキセントリック	eccentric
+j	エクアドル共和国	エクアドル共和国	the Republic of Ecuador
+j	エクスコセカント	エクスコセカント	余割から1を減じた値。excsc。
+j	エクステンション	エクステンション	hair extension
+j	エクスプローラー	エクスプローラー	探検家。踏査者。
+j	エグゼンプション	エグゼンプション	免除。
+j	エコノミークラス	エコノミークラス	economy class
+j	エコミュージアム	エコミュージアム	
+j	エコロケーション	エコロケーション	エコーロケーションの異表記。
+j	エコーチェンバー	エコーチェンバー	自分と同じような意見を持つ人の考えしか見ないことで…
+j	エコーチャンバー	エコーチャンバー	エコーチェンバーのこと。
+j	エジプシャンマウ	エジプシャンマウ	an Egyptian Mau
+j	エジプトイチジク	エジプトイチジク	
+j	エジプト文明	えじぷとぶんめい	ナイル川沿いに生まれた文明。紀元前3000年頃に国…
+j	エジプト料理	えじぷとりょうり	エジプトの伝統的な料理。
+j	エジプト睡蓮	えじぷとすいれん	synonym of 夜咲睡蓮 (yozaki s…
+j	エジプト睡蓮	エジプトすいれん	synonym of 夜咲睡蓮 (yozaki s…
+j	エジプト睡蓮	エジプトスイレン	synonym of 夜咲睡蓮 (yozaki s…
+j	エスカレーション	エスカレーション	
+j	エスカレートする	エスカレートする	
+j	エスコートライト	エスコートライト	高速道路などにおける、サグなどの走行速度が低下しや…
+j	エステティシャン	エステティシャン	aesthetician (beautician)…
+j	エストニア共和国	エストニア共和国	Republic of Estonia (offi…
+j	エストラジオール	エストラジオール	estradiol
+j	エスピリトサント	エスピリトサント	
+j	エスワティニ王国	エスワティニ王国	アフリカの国家、エスワティニの正式な日本語の名称。
+j	エス・エム・エス	エス・エム・エス	
+j	エチオピア正教会	エチオピア正教会	エチオピアを発祥とし、聖母マリアを信仰するキリスト…
+j	エチルアルコール	エチルアルコール	エタノールの別称。酒の主な成分。
+j	エチレンオキシド	エチレンオキシド	エチレンを酸化して得られる環状エーテルの一種。芳香…
+j	エックスボックス	エックスボックス	
+j	エデュケーション	エデュケーション	教育。
+j	エドワーディアン	エドワーディアン	イギリスのエドワード7世(在位1901-10)の治…
+j	エナジードリンク	エナジードリンク	energy drink
+j	エヌマ・エリシュ	エヌマ・エリシュ	
+j	エネルギーの原理	エネルギーの原理	エネルギーの増分がされた仕事に等しいという原理。
+j	エネルギー保存則	エネルギー保存則	宇宙にあるエネルギーの総量は時間によらず一定である…
+j	エネルギー管理員	エネルギー管理員	エネルギーを消費する事業所でのエネルギーの監視を行…
+j	エネルギー管理士	エネルギー管理士	エネルギーを消費する事業所での省エネルギー化を行う…
+j	エピゲネティクス	エピゲネティクス	エピジェネティクスの別形。
+j	エフ・ビー・アイ	エフ・ビー・アイ	
+j	エペソ人への手紙	エペソ人への手紙	Ephesians
+j	エボラウイルス病	エボラウイルス病	Ebola virus disease
+j	エマージェンシー	エマージェンシー	緊急事態。非常事態。
+j	エミグレーション	エミグレーション	
+j	エラスモテリウム	エラスモテリウム	《分類学》 ウマ目サイ科 に分類される絶滅奇蹄類の…
+j	エラーメッセージ	エラーメッセージ	
+j	エリオット波動	えりおっとはどう	
+j	エリスロマイシン	エリスロマイシン	放線菌の一種が産生する抗生物質の一つ。細菌が蛋白質…
+j	エリトロマイシン	エリトロマイシン	「エリスロマイシン」の表記ゆれ。
+j	エリマキミツスイ	エリマキミツスイ	
+j	エル・パイスナル	エル・パイスナル	
+j	エレクトリックの	エレクトリックの	
+j	エレクトリーチカ	エレクトリーチカ	ロシアやウクライナの通勤電車。
+j	エレクトロニクス	エレクトロニクス	electronics
+j	エロ百パーセント	エロ百パーセント	(性, 廃語) とても性欲を煽ること。色気に満ちて…
+j	エンクロージャー	エンクロージャー	囲い込み運動。
+j	エンゲージリング	エンゲージリング	婚約指輪。
+j	エンコーディング	エンコーディング	
+j	エンジェルダスト	エンジェルダスト	
+j	エンジニアリング	エンジニアリング	engineering, the applicat…
+j	エンジンストップ	エンジンストップ	engine stall (abbr. エンスト)
+j	エンタブラチュア	エンタブラチュア	entablature
+j	エンターテイナー	エンターテイナー	
+j	エンタープライズ	エンタープライズ	enterprise; company
+j	エンテロトキシン	エンテロトキシン	
+j	エントリーシート	エントリーシート	application form
+j	エンハーモニック	エンハーモニック	古代ギリシアの音楽理論で、四音音列が四分音（またそ…
+j	エンパワーメント	エンパワーメント	権限を与えること。
+j	エンブロイダリー	エンブロイダリー	
+j	エンプティランプ	エンプティランプ	「燃料残量警告灯」を参照。
+j	エヴァンジェリン	エヴァンジェリン	
+j	エーレスンド海峡	エーレスンド海峡	
+j	円周長	えんしゅうちょう	
+j	円回内筋	えんかいないきん	a pronator teres
+j	円形禿髪	えんけいとくはつ	円形脱毛症。
+j	円柱表	えんちゅうひょう	table that indicates volu…
+j	円滑洒脱	えんかつしゃだつ	円満に物事を進めること。
+j	円虫症	えんちゅうしょう	strongylosis
+j	円融滑脱	えんゆうかつだつ	円満に物事を進めること。
+j	円転滑脱	えんてんかつだつ	円満に物事を進めること。
+j	円錐角膜	えんすいかくまく	keratoconus
+j	営業中	えいぎょうちゅう	open (a store, shop, or r…
+j	営業時間	えいぎょうじかん	営業している時間。
+j	営業職	えいぎょうしょく	企業で営業を担当する職。
+j	嚥下障害	えんげしょうがい	dysphagia
+j	園芸品種	えんげいひんしゅ	
+j	園芸学者	えんげいがくしゃ	園芸学を研究する科学者。
+j	塩化カルシウム	えんかかるしうむ	calcium chloride
+j	塩化カルシウム	えんかカルシウム	calcium chloride
+j	塩化カルボニル	えんかかるぼにる	一酸化炭素と塩素の化合物。枯れ草のような匂いがある…
+j	塩化ナトリウム	えんかなとりうむ	sodium chloride
+j	塩化ナトリウム	えんかナトリウム	sodium chloride
+j	塩化物イオン	えんかぶついおん	イオン式Cl⁻で表される塩素の陰イオン。
+j	塩化酸化物	えんかさんかぶつ	
+j	嬰イ短調	えいいたんちょう	
+j	嬰ト短調	えいとたんちょう	
+j	嬰ニ短調	えいにたんちょう	
+j	嬰ハ短調	えいはたんちょう	
+j	嬰ヘ短調	えいへたんちょう	
+j	延長コード	えんちやうこーど	an extension cord
+j	延長コード	えんちやうコード	an extension cord
+j	延長コード	えんちょうこーど	an extension cord
+j	延長コード	えんちょうコード	an extension cord
+j	影響力	えいきょうりょく	influence
+j	援助交際	えんじょこうさい	enjo kosai; compensated d…
+j	映画産業	えいがさんぎょう	
+j	枝角羚羊	えだつのれいよう	synonym of プロングホーン (puron…
+j	枝角羚羊	エダツノレイヨウ	synonym of プロングホーン (puron…
+j	栄養ドリンク	えいようどりんく	「ドリンク剤」を参照。
+j	栄養不良	えいやうふりやう	synonym of 栄養失調 (eiyōshit…
+j	栄養不良	えいようふりょう	synonym of 栄養失調 (eiyōshit…
+j	栄養塩類	えいようえんるい	nutrient salt: inorganic …
+j	栄養失調	えいやうしつてう	malnutrition
+j	栄養学者	えいようがくしゃ	栄養学を研究する科学者。
+j	永久凍土	えいきゅうとうど	permafrost
+j	永久機関	えいきゅうきかん	perpetual motion machine
+j	永年摂動	えいねんせつどう	太陽系の惑星や衛星などの軌道が毎年ごく僅かなずれが…
+j	永遠の都	えいえんのみやこ	
+j	沿ドニエストル	えんどにえすとる	Transnistria (a geographi…
+j	沿ドニエストル	えんドニエストル	Transnistria (a geographi…
+j	海老で鯛を釣る	えびでたいをつる	throw a sprat to catch a …
+j	海老の鯛交じり	えびのたいまじり	something or someone smal…
+j	液体石鹸	えきたいせっけん	liquid soap
+j	液化石油ガス	えきかせきゆがす	石油を精製する際に出るプロパン、ブタン、プロピレン…
+j	液晶パネル	えきしょうぱねる	LCD, Liquid Crystal Displ…
+j	液晶パネル	えきしょうパネル	LCD, Liquid Crystal Displ…
+j	演劇学者	えんげきがくしゃ	演劇学を研究する科学者。
+j	演算手順	えんざんてじゅん	
+j	英雄叙事詩	えいゆうじょじし	heroic epic poetry
+j	蝦で鯛を釣る	えびでたいをつる	to put in a little and ge…
+j	衛星写真	えいせいしゃしん	人工衛星から撮影した地表の写真。
+j	衛星放送	えいせいほうそう	satellite broadcasting
+j	衛星政党	えいせいせいとう	一党独裁の国家で、合法に存在が認められているが独自…
+j	衛生学者	えいせいがくしゃ	衛生学を研究する科学者。
+j	遠交近攻	えんこうきんこう	Collaborate with distant …
+j	遠赤外線	えんせきがいせん	far infrared radiation
+j	駅弁大学	えきべんだいがく	新制国立大学
+j	えすあいたんいけい	えすあいたんいけい	SI単位系: The International …
+j	エアコンプレッサー	エアコンプレッサー	air compressor
+j	エイチ・エス・ケイ	エイチ・エス・ケイ	
+j	エオリアン・ハープ	エオリアン・ハープ	
+j	エクササイズボール	エクササイズボール	
+j	エコーロケーション	エコーロケーション	反響定位。
+j	エスノセントリズム	エスノセントリズム	
+j	エスペランティスト	エスペランティスト	Esperantist
+j	エスペラント化する	エスペラント化する	
+j	エチオピア料理	えちおぴありょうり	エチオピアの伝統的な料理。
+j	エチレンスルフィド	エチレンスルフィド	
+j	エチレン系炭化水素	エチレン系炭化水素	alkene
+j	エックス線撮影装置	エックス線撮影装置	
+j	エナクティヴィズム	エナクティヴィズム	
+j	エネルギーの原理	えねるぎーのげんり	エネルギーの増分がされた仕事に等しいという原理。
+j	エネルギースポット	エネルギースポット	energy spot, location sai…
+j	エネルギー管理士	えねるぎーかんりし	エネルギーを消費する事業所での省エネルギー化を行う…
+j	エピジェネティクス	エピジェネティクス	個体発生における遺伝子発現の制御の研究。
+j	エポックメイキング	エポックメイキング	画期的であるさま。
+j	エポックメーキング	エポックメーキング	画期的であるさま。
+j	エメラルドグリーン	エメラルドグリーン	エメラルドのように鮮やかな緑色。
+j	エメンタールチーズ	エメンタールチーズ	
+j	エレクトロンボルト	エレクトロンボルト	電子ボルト。
+j	エレファントグラス	エレファントグラス	
+j	エレベーターガール	エレベーターガール	elevator lady; female ele…
+j	エログロナンセンス	エログロナンセンス	扇情的であり猟奇的であり、無意味であること・もの。…
+j	エンジェルナンバー	エンジェルナンバー	angel number
+j	エンターテイメント	エンターテイメント	
+j	エンディングロール	エンディングロール	映画などの最後に表示される作製に関わったスタッフの…
+j	エンディング曲	えんでぃんぐきょく	映画・演劇・放送番組などの締めくくりに流れる歌。
+j	エンフォースメント	エンフォースメント	著作権や、法的な仕組みを実際に守らせるようにするこ…
+j	エンペラーペンギン	エンペラーペンギン	an emperor penguin
+j	エヴァンジェリスト	エヴァンジェリスト	福音伝道師。
+j	エヴェンキ族自治旗	エヴェンキ族自治旗	
+j	エース・パイロット	エース・パイロット	
+j	兗州巻柏	えんしゅうけんぱく	片檜葉の漢名。
+j	円周率の日	えんしゅうりつのひ	
+j	円形電流	えんけいでんりゅう	circular current
+j	円錐曲線	えんすいきょくせん	a conic section
+j	嬰イ長調	えいいちょうちょう	
+j	嬰ト長調	えいとちょうちょう	
+j	嬰ハ長調	えいはちょうちょう	
+j	嬰ヘ長調	えいへちょうちょう	
+j	幼形成熟	えうけいせいじゆく	synonym of ネオテニー (neotenī…
+j	映画製作者	えいがせいさくしゃ	
+j	枝付き燭台	えだつきしょくだい	candelabrum, girandole
+j	栄養失調	えいようしっちょう	malnutrition
+j	栄養生殖	えいようはんしょく	無性生殖の一つで、主に植物の栄養体の一部が母体から…
+j	栄養繁殖	えいようはんしょく	「栄養生殖」を参照。
+j	沿岸警備隊	えんがんけいびたい	a coast guard
+j	演算増幅器	えんざんぞうふくき	operational amplifier
+j	煙突掃除人	えんとつそうじにん	
+j	縁の下蟋蟀	えんのしたこおろぎ	「竃馬」の別名。
+j	英仏海峡	えいふつかいきょう	
+j	衍曼流爛	えんまんりゅうらん	悪が世の中にはびこるさま。「衍曼」はどこまでも広が…
+j	衍漫流爛	えんまんりゅうらん	「衍曼流爛」の別表記。
+j	衛生害虫	えいせいがいちゅう	人畜に対し有毒であったり病原体の媒介など生活環境に…
+j	衛生検査所	えいせいけんさじょ	検体検査と病理学的検査を行う施設。
+j	衛生管理者	えいせいかんりしゃ	労働安全衛生法における労働環境の衛生的改善、疾病の…
+j	越中褌	えっちゅうふんどし	長さ3尺（約90cm）、幅1尺（約30cm）ほどの…
+j	越境台風	えっきょうたいふう	東太平洋のハリケーンが日付変更線を超えて台風となっ…
+j	遠距離恋愛	えんきょりれんあい	long-distance relationship
+j	遠隔教育	えんかくきょういく	
+j	駅伝競走	えきでんきょうそう	駅伝語義1に同じ。
+j	エアコンディショナー	エアコンディショナー	air conditioner
+j	エイコサペンタエン酸	エイコサペンタエン酸	
+j	エクアドルスペイン語	えくあどるすぺいんご	エクアドルで話されているスペイン語の変種。
+j	エクアドルスペイン語	エクアドルスペイン語	エクアドルで話されているスペイン語の変種。
+j	エジプト・アラビア語	エジプト・アラビア語	エジプトで話されるアラビア語のアーンミーヤ（口語）。
+j	エスケープシーケンス	エスケープシーケンス	escape sequence
+j	エスタブリシュメント	エスタブリシュメント	支配者層、体制。
+j	エステティックサロン	エステティックサロン	A type of beauty parlour …
+j	エステティックライン	エステティックライン	aesthetic line
+j	エスペラント語化する	エスペラント語化する	
+j	エゾノウワミズザクラ	エゾノウワミズザクラ	蝦夷の上溝桜: bird cherry, Prun…
+j	エッセンシャルオイル	エッセンシャルオイル	
+j	エネルギー保存則	えねるぎーほぞんそく	宇宙にあるエネルギーの総量は時間によらず一定である…
+j	エネルギー管理員	えねるぎーかんりいん	エネルギーを消費する事業所でのエネルギーの監視を行…
+j	エピジェネティックス	エピジェネティックス	エピジェネティクスの別形。
+j	エペソ人への手紙	えぺそびとへのてがみ	Ephesians
+j	エペソ人への手紙	エペソびとへのてがみ	Ephesians
+j	エボシオビロアリモズ	エボシオビロアリモズ	
+j	エボラウイルス病	えぼらういるすびょう	Ebola virus disease
+j	エボラウイルス病	エボラウイルスびょう	Ebola virus disease
+j	エボラ出血熱	えぼらしゅっけつねつ	Ebola hemorrhagic fever
+j	エボラ出血熱	エボラしゅっけつねつ	Ebola hemorrhagic fever
+j	エルミート行列	えるみーとぎょうれつ	Hermitian matrix
+j	エルミート行列	エルミートぎょうれつ	Hermitian matrix
+j	エレクトリックギター	エレクトリックギター	マイクを取り付けアンプで音を増幅、スピーカーから出…
+j	エレクトリックベース	エレクトリックベース	an electric bass
+j	エロ百パーセント	えろひゃくぱーせんと	(性, 廃語) とても性欲を煽ること。色気に満ちて…
+j	エンサイクロペディア	エンサイクロペディア	百科事典。
+j	エンターテインメント	エンターテインメント	entertainment
+j	エヴェンキ族自治旗	えゔぇんきぞくじちき	
+j	塩基性酸化物	えんきせいさんかぶつ	basic oxide
+j	婉曲表現	えんきょくひょうげん	
+j	沿岸貿易船	えんがんぼうえきふね	
+j	液晶タブレット	えきしやうたぶれっと	pen display
+j	液晶タブレット	えきしやうタブレット	pen display
+j	液晶タブレット	えきしょうたぶれっと	pen display
+j	液晶タブレット	えきしょうタブレット	pen display
+j	炎上商法	えんじょうしょうほう	synonym of 炎上マーケティング
+j	蝦夷の上溝桜	えぞのうわみずざくら	
+j	越境入学	えっきょうにゅうがく	gaining admission into a …
+j	鋭角三角形	えいかくさんかっけい	acute triangle (triangle …
+j	エア・コンディショナー	エア・コンディショナー	「エアコンディショナー」の異表記。
+j	エアーコンディショナー	エアーコンディショナー	「エアコンディショナー」の異表記。
+j	エクアドル共和国	えくあどるきょうわこく	the Republic of Ecuador
+j	エクアドル共和国	エクアドルきょうわこく	the Republic of Ecuador
+j	エクストリームスポーツ	エクストリームスポーツ	
+j	エコノミークラス症候群	エコノミークラス症候群	economy class syndrome, d…
+j	エジプト・アラブ共和国	エジプト・アラブ共和国	エジプトの正式名称。
+j	エスタブリッシュメント	エスタブリッシュメント	the Establishment (ruling…
+j	エストニア共和国	えすとにあきょうわこく	Republic of Estonia (offi…
+j	エストニア共和国	エストニアきょうわこく	Republic of Estonia (offi…
+j	エッセンシャルワーカー	エッセンシャルワーカー	感染症が拡大した場合においても遠隔勤務に切り替える…
+j	エディトリアルデザイン	エディトリアルデザイン	出版物において読み手が見やすいようにするデザイン。
+j	エルゴカルシフェロール	エルゴカルシフェロール	ergocalciferol
+j	エレクトリック・ギター	エレクトリック・ギター	an electric guitar
+j	円周角の定理	えんしゅうかくのていり	overset ⌢ABに対して overset ⌢…
+j	円形脱毛症	えんけいだつもうしょう	alopecia areata
+j	円盤投げの選手	えんばんなげのせんしゅ	
+j	塩基性酸化物	えんきせいさんくわぶつ	basic oxide
+j	栄養体生殖	えいようたいせいしょく	「栄養生殖」を参照。
+j	永世中立国	えいせいちゅうりつこく	いかなる紛争にも与しないことを宣言した国家。
+j	江戸八百八町	えどはっぴゃくやちょう	(日本史) 多くの町が存在した江戸を表現する言葉。
+j	液晶ディスプレイ	えきしょうでぃすぷれい	liquid crystal display, L…
+j	液晶ディスプレイ	えきしょうディスプレイ	liquid crystal display, L…
+j	液状化現象	えきじょうかげんしょう	地震などにより地盤が液状化する現象。
+j	縁の下の力持ち	えんのしたのちからもち	unsung hero
+j	越年生植物	えつねんせいしょくぶつ	biennial plant
+j	エチオピア正教会	えちおぴあせいきょうかい	エチオピアを発祥とし、聖母マリアを信仰するキリスト…
+j	エチオピア連邦民主共和国	エチオピア連邦民主共和国	Federal Democratic Republ…
+j	エチレン系炭化水素	えちれんけいたんかすいそ	alkene
+j	エチレン系炭化水素	エチレンけいたんかすいそ	alkene
+j	エディトリアルデザイナー	エディトリアルデザイナー	エディトリアルデザインを職業とする者。
+j	エディプスコンプレックス	エディプスコンプレックス	the Oedipus complex
+j	エルサルバドルスペイン語	えるさるばどるすぺいんご	エルサルバドルで話されているスペイン語の変種。
+j	エルサルバドルスペイン語	エルサルバドルスペイン語	エルサルバドルで話されているスペイン語の変種。
+j	エレクトラコンプレックス	エレクトラコンプレックス	the Electra complex
+j	エーラス・ダンロス症候群	エーラス・ダンロス症候群	
+j	栄養補助食品	えいようほじょしょくひん	dietary supplement, nutri…
+j	液化石油ガス設備士	えきかせきゆがすせつびし	液化石油ガスの設備工事や点検を行う職業。
+j	炎上マーケティング	えんじょうまーけてぃんぐ	marketing method that int…
+j	炎上マーケティング	えんじょうマーケティング	marketing method that int…
+j	越境入学	えっきょうにゅうがくする	gaining admission into a …
+j	遠水近火を救わず	えんすいきんかをすくわず	遠水は近火を救わずの別形。
+j	エイチ・ティー・エム・エル	エイチ・ティー・エム・エル	
+j	エキセントリックプラネット	エキセントリックプラネット	極端な楕円を描いて公転する惑星。太陽系外にのみ存在…
+j	エクスクラメーションマーク	エクスクラメーションマーク	「!」の記号。感嘆符。
+j	エチレン系炭化水素	えちれんけいたんくわすいそ	alkene
+j	エレクトロニック・スポーツ	エレクトロニック・スポーツ	対戦形式のコンピュータゲームを用いて行われる競技。…
+j	英領バージン諸島	えいりょうばーじんしょとう	synonym of イギリス領ヴァージン諸島
+j	英領バージン諸島	えいりょうバージンしょとう	synonym of イギリス領ヴァージン諸島
+j	遠水は近火を救わず	えんすいはきんかをすくわず	遠くにあるものは急の役に立たないということ。
+j	エッジワース・カイパーベルト	エッジワース・カイパーベルト	the Edgeworth–Kuiper belt
+j	エレファントノーズフィッシュ	エレファントノーズフィッシュ	
+j	英語のメニューがありますか	えいごのめにゅーがありますか	
+j	エコノミークラス症候群	えこのみーくらすしょうこうぐん	economy class syndrome, d…
+j	エコノミークラス症候群	エコノミークラスしょうこうぐん	economy class syndrome, d…
+j	エンターテイメントディレクション	エンターテイメントディレクション	音楽、舞台などエンターテイメントの演出や制作につい…
+j	エストニア・ソビエト社会主義共和国	エストニア・ソビエト社会主義共和国	
+j	エチオピア連邦民主共和国	えちおぴあれんぽうみんしゅきょうわこく	Federal Democratic Republ…
+j	エチオピア連邦民主共和国	エチオピアれんぽうみんしゅきょうわこく	Federal Democratic Republ…
+j	エレクトロニック・ダンス・ミュージック	エレクトロニック・ダンス・ミュージック	
+j	エストニア・ソビエト社会主義共和国	えすとにあ・そびえとしゃかいしゅぎきょうわこく	
+j	燕雀安んぞ鴻鵠の志を知らんや	えんじゃくいずくんぞこうこくのこころざしをしらんや	an ordinary person cannot…

@@ -1,0 +1,5 @@
+e	xyz	xyz	1 meaning
+e	xylene	xylene	1 meaning
+e	xylitol	xylitol	1 meaning
+e	xylophone	xylophone	1 meaning
+e	xyrospasm	xyrospasm	1 meaning

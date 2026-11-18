@@ -1,0 +1,4 @@
+e	gömböc	gmbc	1 meaning
+e	gmina	gmina	1 meaning
+e	g major	gmajor	1 meaning
+e	g minor	gminor	1 meaning

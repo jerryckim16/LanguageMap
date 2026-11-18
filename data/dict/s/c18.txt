@@ -1,0 +1,1761 @@
+j	互	互	mutual
+j	倒	倒	（さか）逆であること。
+j	勒	勒	bit (metal in horse's mou…
+j	卒	卒	low-ranking soldier
+j	園	園	garden, park
+j	埒	埒	a fence built around a st…
+j	塒	塒	roost
+j	寒	寒	cold, chilly
+j	徒	徒	useless, pointless, fruit…
+j	恒	恒	constancy, immutability, …
+j	戒	戒	precept, commandment
+j	桒	桒	
+j	棒	棒	a staff, measuring 6 shak…
+j	椒	椒	synonym of 山椒 (sanshō, “Z…
+j	樒	樒	Japanese star anise (Illi…
+j	毒	毒	poison, toxin
+j	秒	秒	second (one-sixtieth of a…
+j	筒	筒	tube
+j	箒	箒	broom
+j	粒	粒	something round and small…
+j	緒	緒	string, cord, thong
+j	習	習	
+j	芒	芒	awn
+j	角	角	a corner (e.g., of a desk…
+j	諒	諒	a male given name
+j	讒	讒	false charge; slander; de…
+j	軒	軒	eaves
+j	酒	酒	any alcoholic beverage
+j	鋒	鋒	
+j	青	青	one of three primary colo…
+j	駒	駒	foal, young horse (or gen…
+j	鮒	鮒	crucian carp, any fish of…
+j	鯒	鯒	flathead, a fish of famil…
+j	鰒	鰒	
+j	鱒	鱒	trout, sea trout: more sp…
+j	黒	黒	黒, 緇: black (color)
+k	각	角	each
+k	독	毒	jar, jug (made of clay)
+k	마오타이 주	酒	
+k	몰	沒	died in...
+k	복	鰒	fortune, blessing, luck
+k	습	習	a prefix indicating a rel…
+k	졸	卒	pawn
+k	주	酒	week (unit of time)
+k	초	秒	the SI unit of time, seco…
+k	통	筒	barrel, bucket, cask, pai…
+k	합	盒	sum; total
+k	흑	黒	The color black.
+j	互い	互い	a mutual relationship, do…
+j	互先	互先	In a multi-game match, th…
+j	互助	互助	mutual assistance
+j	互層	互層	異なるいくつかの地層が交互に重なりあっていること。
+j	互市	互市	外国と互いに物品の取引をすること。貿易。交易。
+j	互恵	互恵	特別な恩恵や便益をお互いに受け合うこと。
+j	互換	互換	interchangeability, compa…
+j	互生	互生	植物の茎や枝の節ごとに一枚の葉が交互にに出ること。
+j	互用	互用	交互に使用、利用すること。
+j	互角	互角	equal, worthy, even (in a…
+j	互訓	互訓	二つの文字が互いにその訓となること。
+j	互譲	互譲	a conciliation; a comprom…
+j	倒す	倒す	fell; throw down; knock d…
+j	倒せ	倒せ	
+j	倒句	倒句	意味などを強調するため、語句の順序を入れ換えること…
+j	倒垂	倒垂	hang upside down
+j	倒壊	倒壊	destruction, collapse
+j	倒屣	倒屣	くつを逆に履くこと。
+j	倒幕	倒幕	overthrow of a shogunate
+j	倒座	倒座	中国の住宅形式の四合院で南側につくられる部屋。
+j	倒影	倒影	影を逆さまに映すこと。また、その影。
+j	倒懸	倒懸	逆さに掛けること。逆さになること。
+j	倒景	倒景	地上から四千里の所にあり、上は天に近く、下は日月を…
+j	倒木	倒木	風雪、腐食などにより倒れた樹木。樹木が倒れること。
+j	倒潰	倒潰	建物が倒れて潰れること。
+j	倒産	倒産	corporate bankruptcy
+j	倒福	倒福	upside-down 福 character w…
+j	倒立	倒立	逆さまに立つこと。
+j	倒竹	倒竹	風雪などにより倒れた竹。また、竹が倒れること。
+j	倒置	倒置	inversion, reversed placi…
+j	倒語	倒語	語の順序や音節の順序を入れ替えること。また、入れ替…
+j	倒読	倒読	逆に読むこと。
+j	倒錯	倒錯	upside-down
+j	倒閣	倒閣	bringing down a government
+j	儒人	儒人	儒者。
+j	儒仏	儒仏	儒教と仏教。
+j	儒医	儒医	江戸時代、儒者であり医者でもある者。
+j	儒学	儒学	synonym of 儒教 (Jukyō, “Co…
+j	儒宗	儒宗	儒学における大家。大儒。
+j	儒官	儒官	儒者をもって充てられる官職。
+j	儒家	儒家	Confucianist, Confucian
+j	儒教	儒教	Confucianism
+j	儒書	儒書	儒学に関する書物。
+j	儒生	儒生	儒学を修学する者。儒者。
+j	儒礼	儒礼	儒教に基づく儀礼や作法。
+j	儒祭	儒祭	儒教の儀礼に基づき行われる祖先などを祀る祭事。
+j	儒者	儒者	儒学を修め、講じる人。
+j	儒胤	儒胤	儒者の血筋。
+j	儒艮	儒艮	a dugong
+j	儒葬	儒葬	儒教の教えに基づく葬儀。
+j	儒術	儒術	儒教の道。儒学。
+j	儒道	儒道	儒教。
+j	儒門	儒門	儒学者の家柄。また、儒学者のなかま。
+j	冒す	冒す	to dare, to risk, to brav…
+j	冒刃	冒刃	刃を恐れずに進むこと。
+j	冒娶	冒娶	無理やりに娶ること。
+j	冒涜	冒涜	blasphemy; profanity; des…
+j	冒瀆	冒瀆	神聖・清純なものをおかしけがすこと。
+j	冒用	冒用	名義の権利者の同意を得ないで、その名称等を使用する…
+j	冒突	冒突	むやみに突き進むこと。
+j	冒絮	冒絮	綿の頭巾。
+j	冒蒙	冒蒙	おかすこと。
+j	冒貢	冒貢	冒進すること。
+j	冒陳	冒陳	冒頭陳述の略。
+j	冒険	冒険	adventure
+j	冒頭	冒頭	the lead-in, the head, th…
+j	勒韻	勒韻	作詩にあたり予め押韻の字を定めておくこと。また、そ…
+j	卒中	卒中	stroke, apoplexy
+j	卒乳	卒乳	weaning
+j	卒倒	卒倒	fainting
+j	卒制	卒制	卒業制作の略称。
+j	卒去	卒去	四位、五位の者、無位の王、王女が亡くなること。
+j	卒団	卒団	少年団やスポーツクラブを卒業、引退すること。
+j	卒園	卒園	graduation from kindergar…
+j	卒塾	卒塾	塾を卒業すること。
+j	卒寿	卒寿	数え年九十歳の祝い。
+j	卒展	卒展	卒業設計展、卒業制作展の略称。
+j	卒業	卒業	graduation
+j	卒然	卒然	sudden
+j	卒爾	卒爾	にわかであること。突然であること。率爾。
+j	卒研	卒研	卒業研究の略称。
+j	卒計	卒計	卒業設計の略称。
+j	卒論	卒論	卒業論文の略。
+j	卒遽	卒遽	俄に何かが起こること。
+j	卒部	卒部	部活動、スポーツクラブを卒業、引退すること。
+j	咒文	咒文	
+j	咒縛	咒縛	
+j	嗒嗒	嗒嗒	冗舌なさま。
+j	嗒焉	嗒焉	心が空しいさま。
+j	嗒爾	嗒爾	心が空しいさま。
+j	嘒唳	嘒唳	蝉の鳴き声。
+j	嘒嘒	嘒嘒	蝉が忙しく鳴くさま。
+j	園丁	園丁	gardener
+j	園主	園主	「園」のつく施設や機関の所有者または代表者。
+j	園児	園児	a kindergartner
+j	園内	園内	within an 園 (en) – park (…
+j	園務	園務	幼稚園、保育園、認定こども園、学園の運営に関連する…
+j	園原	園原	a surname
+j	園司	園司	荘園の下級役人。
+j	園囿	園囿	植物を生やし、動物を飼育する場所。
+j	園土	園土	soil that is used plantat…
+j	園地	園地	日本の律令制でそれぞれの戸に支給された土地。桑や漆…
+j	園外	園外	庭園の外側。
+j	園子	園子	a female given name
+j	園宅	園宅	garden and house
+j	園庭	園庭	synonym of 庭園 (teien, “ga…
+j	園林	園林	庭園の中の林。
+j	園歌	園歌	song of a preschool
+j	園田	園田	a surname
+j	園芸	園芸	horticulture
+j	園部	園部	a surname
+j	園長	園長	person in charge of an 園 …
+j	埒内	埒内	埒の内側。
+j	埒外	埒外	out of bounds
+j	媒介	媒介	intermediary
+j	媒体	媒体	medium (the material or e…
+j	媒助	媒助	仲立ちをすること。媒介。
+j	媒妁	媒妁	結婚の中立ちをすること。
+j	媒嫗	媒嫗	仲人をする婆。
+j	媒染	媒染	染料が繊維に染まりにくい際、薬品を用いて染まりやす…
+j	媒質	媒質	medium, media
+j	媒酌	媒酌	matchmaking, arranging a …
+j	媒鳥	媒鳥	他の鳥を誘き寄せ、捕らえるためのおとりとする鳥。
+j	寒い	寒い	cold (ambient temperature…
+j	寒さ	寒さ	coldness
+j	寒中	寒中	the dead of winter, the m…
+j	寒九	寒九	寒に入って九日目。一月十三日頃。
+j	寒光	寒光	寒々とした光や景色。
+j	寒具	寒具	防寒具。
+j	寒冬	寒冬	平年より低温の冬。
+j	寒冷	寒冷	cold
+j	寒剤	寒剤	低温にするため二つ以上の物質を混合したもの。
+j	寒国	寒国	a cold country or region
+j	寒土	寒土	寒冷な土地。
+j	寒地	寒地	cold land; colder climate
+j	寒士	寒士	貧しい人。
+j	寒声	寒声	寒々とした声。
+j	寒天	寒天	cold weather
+j	寒威	寒威	寒さの勢い。
+j	寒害	寒害	農作物が季節外れの気温低下により被害を受けること。
+j	寒山	寒山	冬枯れの寒々とした山。
+j	寒岩	寒岩	冬の寒々とした岩。
+j	寒岸	寒岸	寒々とした岸辺。
+j	寒巌	寒巌	寒岩。
+j	寒帯	寒帯	frigid zone or belt
+j	寒心	寒心	恐怖などで肝を冷やすこと。ぞっとすること。
+j	寒悴	寒悴	やつれること。
+j	寒族	寒族	寒門。
+j	寒春	寒春	平年より低温の春。
+j	寒暄	寒暄	寒暖。
+j	寒暑	寒暑	暑いことと寒いこと。
+j	寒暖	寒暖	寒さと暖かさ。
+j	寒月	寒月	冬の空に出る冴えた月。
+j	寒村	寒村	寂れた村。貧しい村。
+j	寒柝	寒柝	冬の寒い夜に打ち鳴らす拍子木。
+j	寒梅	寒梅	冬の寒中に咲く梅の花。
+j	寒極	寒極	地球上で最も低い気温を観測した地点。
+j	寒檠	寒檠	さむざむとした冬の灯火。
+j	寒気	寒気	chill, the shivers
+j	寒水	寒水	cold water
+j	寒氷	寒氷	寒々とした氷。寒中に張る氷。
+j	寒波	寒波	cold wave
+j	寒泳	寒泳	寒中水泳。
+j	寒流	寒流	海流のうち、高緯度から低緯度に流れるもの。
+j	寒温	寒温	寒いことと暖かいこと。
+j	寒灯	寒灯	物寂しい光の灯火。
+j	寒烈	寒烈	寒さが非常に厳しいさま。
+j	寒煙	寒煙	寂しく立ち昇る煙・靄。
+j	寒熱	寒熱	cold and heat
+j	寒玉	寒玉	美しい玉。また、玉のように美しいもの。
+j	寒疾	寒疾	風邪。感冒。
+j	寒白	寒白	桃の栽培品種で「白桃」の別名。
+j	寒秋	寒秋	平年より低温の秋。
+j	寒竹	寒竹	marbled bamboo (Chimonoba…
+j	寒粟	寒粟	鳥肌。
+j	寒翠	寒翠	冬の中の緑。
+j	寒色	寒色	cool color (color from vi…
+j	寒苦	寒苦	寒さの苦しみ。厳しい寒さ。
+j	寒草	寒草	冬枯れした草。
+j	寒蘆	寒蘆	枯れて寒々とした蘆。
+j	寒蘭	寒蘭	キジカクシ目ラン科シュンラン属に属する多年草の一種…
+j	寒蜩	寒蜩	ひぐらし。寒蟬。
+j	寒蝉	寒蝉	秋に鳴いている蝉。また、蜩、つくつく法師など。
+j	寒蟬	寒蟬	秋に鳴いている蟬。また、蜩、つくつく法師など。秋の…
+j	寒行	寒行	寒中に行う修行。寒さに耐える苦行。
+j	寒衣	寒衣	寒い時期に着る衣類。冬着。
+j	寒貧	寒貧	非常に貧しいこと。赤貧。また、そのようなさま。
+j	寒遷	寒遷	移り変わること。
+j	寒酷	寒酷	厳しい寒さ。酷寒。
+j	寒酸	寒酸	suffering in poverty and …
+j	寒野	寒野	寒い土地。
+j	寒門	寒門	貧しい家。
+j	寒閨	寒閨	独り寝の寂しい閨。
+j	寒雁	寒雁	冬の雁。
+j	寒雨	寒雨	冬季に降る寒々とした雨。
+j	寒雲	寒雲	冬空に浮かぶ雲。
+j	寒霜	寒霜	冬に降りる霜。
+j	寒露	寒露	Hanlu (one of twenty-four…
+j	寒風	寒風	cold (winter) wind
+j	寒食	寒食	古代中国で冬至から105日目は風雨が激しく（防火を…
+j	寒鴉	寒鴉	a crow in winter
+j	寒鷺	寒鷺	冬の鷺。
+j	崒兀	崒兀	険しいさま。
+j	崒屼	崒屼	険しいさま。
+j	嵒嵒	嵒嵒	高峻。
+j	嶒嶄	嶒嶄	高く険しいさま。
+j	嶒嶸	嶒嶸	（山などが）高く険しいさま。また、（谷などが）深く…
+j	巒丘	巒丘	小高い山。小山。
+j	徒党	徒党	gang, faction, group of c…
+j	徒兵	徒兵	歩卒。
+j	徒刑	徒刑	penal servitude
+j	徒労	徒労	working for nothing; frui…
+j	徒弟	徒弟	apprentice
+j	徒手	徒手	State of being empty-hand…
+j	徒歩	徒歩	going on foot
+j	徒死	徒死	dying in vain
+j	徒法	徒法	実行しにくい無益な法律。
+j	徒渉	徒渉	徒歩で川を渡ること。
+j	徒然	徒然	idle
+j	徒花	徒花	blossom that does not bea…
+j	徒行	徒行	歩いて行くこと。歩行。
+j	徒費	徒費	無駄に費やすこと。無駄遣い。
+j	徒過	徒過	何もしないでぶらぶら過ごすこと。
+j	徒長	徒長	何らかの理由により植物の葉や茎が伸びすぎること。
+j	徒食	徒食	仕事もせず、遊び、暮らすこと。坐食。
+j	怒り	怒り	anger
+j	怒る	怒る	to get angry, to anger
+j	怒号	怒号	angry roar
+j	怒声	怒声	怒りを込めた声。
+j	怒張	怒張	bulging, swelling; (medic…
+j	怒気	怒気	anger
+j	怒涛	怒涛	怒濤の拡張新字体を用いた表記。
+j	怒潮	怒潮	raging tide
+j	怒濤	怒濤	surging waves
+j	怒火	怒火	烈火の怒り。
+j	怒罵	怒罵	怒って罵ること。
+j	怒髪	怒髪	hair that stands on end d…
+j	恒久	恒久	permanence, permanency, p…
+j	恒之	恒之	a male given name
+j	恒例	恒例	an established practice, …
+j	恒勁	恒勁	堅忍すること。
+j	恒太	恒太	a male given name
+j	恒夫	恒夫	a male given name
+j	恒子	恒子	a female given name
+j	恒実	恒実	a male given name
+j	恒居	恒居	いつもそこに居ること、または住んでいること。
+j	恒常	恒常	constancy
+j	恒平	恒平	a male given name
+j	恒心	恒心	perseverance; constancy
+j	恒忍	恒忍	堅忍すること。
+j	恒性	恒性	一定していて変化しない性質。
+j	恒数	恒数	決まった数。
+j	恒星	恒星	a fixed star: a star that…
+j	恒春	恒春	Hengchun, Taiwan.
+j	恒河	恒河	the Ganges River
+j	恒温	恒温	温度が一定に保たれていること。
+j	恒産	恒産	安定した財産。
+j	恒男	恒男	a male given name
+j	恒美	恒美	a female given name
+j	恒規	恒規	常に守るべき規則、規範。
+j	恒象	恒象	一定の様子。
+j	恒貴	恒貴	a male given name
+j	恒道	恒道	常に変化しない正しい道義。
+j	恒雄	恒雄	a male given name
+j	恒風	恒風	つねに一定の方向に吹く風。
+j	悒悒	悒悒	sad
+j	憒憒	憒憒	乱れるさま。
+j	戒め	戒め	caution, warning
+j	戒体	戒体	受戒で得られる罪悪を阻止する能力。
+j	戒具	戒具	被疑者や在監者、容疑者が逃走、暴行、自殺などの防止…
+j	戒功	戒功	戒律を遵守することで生まれる功徳。
+j	戒勅	戒勅	注意して行為を慎ませること。
+j	戒厳	戒厳	martial law
+j	戒名	戒名	posthumous Buddhist name,…
+j	戒告	戒告	戒め告げること。
+j	戒善	戒善	戒律を守ることで得る善根。
+j	戒壇	戒壇	僧侶になるための儀式（受戒）を行う壇。
+j	戒学	戒学	戒律についての修学、実践。
+j	戒尺	戒尺	授戒の法会の際、規律を保持するために鳴らされる道具。
+j	戒師	戒師	出家する者に授戒する師僧。
+j	戒律	戒律	religious discipline; rel…
+j	戒心	戒心	心に油断せぬこと。用心。警戒。
+j	戒慎	戒慎	戒め慎むこと。
+j	戒懼	戒懼	戒め、怖れること。
+j	戒文	戒文	戒律の条文。また、それを記したもの。
+j	戒法	戒法	如来の定めたとされる仏教徒が守るべき規則。戒、戒律。
+j	戒牒	戒牒	律令制で国が得度して僧尼になり受戒したことを証明し…
+j	戒禁	戒禁	戒め、禁止すること。
+j	戒飭	戒飭	注意して行為を慎ませること。
+j	戒香	戒香	戒律を堅く守る功徳が広まることを香の匂いが広まるこ…
+j	戒﨟	戒﨟	出家、受戒して経た年数。
+j	抒情	抒情	lyricism
+j	抒軸	抒軸	
+j	拒む	拒む	to refuse (to do) somethi…
+j	拒否	拒否	refusal
+j	拒戦	拒戦	防戦。
+j	拒断	拒断	要求などを拒み、断ること。
+j	拒止	拒止	何かを拒んで止めること。阻止すること。
+j	拒絶	拒絶	refusal, rejection
+j	拒食	拒食	摂食を拒否（拒絶）する状態。
+j	排他	排他	exclusion
+j	排便	排便	defecation
+j	排出	排出	emission, production
+j	排列	排列	順序を決めて並べること。また、その並び。
+j	排印	排印	setting type and printing
+j	排卵	排卵	ovulation
+j	排反	排反	同時には起こりえない複数の事象。例えば、サイコロを…
+j	排外	排外	外国の人々や文物、思想などを排斥すること。
+j	排尿	排尿	urination, micturition
+j	排律	排律	漢詩（近体詩）の形式の一つ。長律。十句以上の偶数句…
+j	排悶	排悶	心中の悶えを晴らすこと。
+j	排撃	排撃	何かを非難のうえ排除しようと攻撃すること。
+j	排擠	排擠	to crowd out
+j	排斡	排斡	めぐらすこと。
+j	排斥	排斥	rejection, exclusion, boy…
+j	排日	排日	expulsion of the Japanese
+j	排棄	排棄	押し退け、すてること。
+j	排気	排気	emitting exhaust
+j	排水	排水	drainage
+j	排泄	排泄	excretion (process of rem…
+j	排液	排液	体腔にたまった胸水や腹水、膿などを体外に排出するこ…
+j	排煙	排煙	煙を外へ排出すること。
+j	排熱	排熱	エアコンディショナーの室外機や自動車などから排出さ…
+j	排球	排球	synonym of バレーボール (barēbō…
+j	排簫	排簫	ancient Chinese pan flute
+j	排置	排置	一定の順に並べて置くこと。
+j	排膿	排膿	化膿している部分を切開して膿を排出すること。
+j	排菌	排菌	病原体を体外に出すこと。
+j	排行	排行	兄弟の間で出生などの順序。また、それを表す呼び方。
+j	排除	排除	exclusion
+j	排雪	排雪	積った雪を押し退けて除雪すること。
+j	排風	排風	室内の空気を外へ送り出すこと。空気を排出すること。…
+j	插繪	插繪	
+j	撒く	撒く	to sprinkle; to scatter a…
+j	撒兵	撒兵	（さっぺい） 江戸幕府が文久に創設した洋式の歩兵。
+j	撒布	撒布	撒き散らすこと。振り撒くこと。
+j	撒水	撒水	water sprinkling; watering
+j	撒菱	撒菱	a caltrop; more specifica…
+j	擒拿	擒拿	中国武術における関節技の総称。
+j	擒捉	擒捉	生け捕りにして縛り上げること。
+j	擒獲	擒獲	捕獲すること。
+j	擒縛	擒縛	生け捕りにして縛り上げること。
+j	斒斕	斒斕	様々な色が混じって美しい様子。
+j	晒し	晒し	
+j	晒す	晒す	expose to the elements or…
+j	晒書	晒書	曬書の異表記。
+j	桒年	桒年	48歳の別名。
+j	棒喝	棒喝	禅宗で警策で打って警醒させること。
+j	棒大	棒大	小さなことをおおげさに言うこと。また、そのようなさ…
+j	棒炭	棒炭	棒状につくった炭団。
+j	棒状	棒状	棒のような形状。
+j	棒球	棒球	（ぼうだま）まっすぐで威力のない打者が打ちやすい投…
+j	棒線	棒線	真っ直ぐな棒のように引いた線。直線。
+j	棒術	棒術	bojutsu; a Japanese marti…
+j	棒針	棒針	a knitting needle
+j	棒銀	棒銀	銀将を棒のように進め、相手の角行付近を攻める戦法。
+j	棒鋼	棒鋼	太さが10センチメートル前後の棒状の鋼材。
+j	椒墀	椒墀	山椒の生垣。
+j	椒糈	椒糈	山椒と精米。
+j	椒酒	椒酒	山椒の実と柏の葉を浸した酒。元日に長寿を願い飲まれ…
+j	椒醑	椒醑	椒酒。
+j	毒刃	毒刃	a murderer's dagger
+j	毒味	毒味	「毒見」の別表記。
+j	毒婦	毒婦	a wicked woman, evil woma…
+j	毒害	毒害	murder by poisoning
+j	毒心	毒心	敵意を持った心。
+j	毒性	毒性	toxic
+j	毒愁	毒愁	激しい愁い。
+j	毒手	毒手	人を殺害しようという行為。
+j	毒死	毒死	有毒なものにより死ぬこと。
+j	毒殺	毒殺	poisoning
+j	毒気	毒気	毒を含んだ気体。毒ガス。
+j	毒汁	毒汁	毒液。
+j	毒液	毒液	poisonous liquid, venom
+j	毒炎	毒炎	有毒なガスを発する炎。
+j	毒牙	毒牙	毒蛇などが、かみついたとき毒液を分泌する牙。
+j	毒物	毒物	poison, toxic agent
+j	毒獣	毒獣	人畜に害を与える獣。
+j	毒砂	毒砂	硫砒鉄鉱の俗称。
+j	毒箭	毒箭	やじりに毒を塗った箭。毒矢。
+j	毒素	毒素	toxin
+j	毒腫	毒腫	悪性の腫瘍。
+j	毒腺	毒腺	venom gland
+j	毒舌	毒舌	a spiteful tongue; malici…
+j	毒茸	毒茸	有毒の茸。どくたけ。
+j	毒草	毒草	poisonous plant
+j	毒薬	毒薬	poison; poisonous drug
+j	毒虫	毒虫	a poisonous insect
+j	毒蛇	毒蛇	venomous snake
+j	毒蛾	毒蛾	チョウ目ドクガ科に属する昆虫の総称。
+j	毒見	毒見	飲食物を人に進める前に毒の有無を確認すること。
+j	毒親	毒親	toxic parent
+j	毒言	毒言	他人の名誉をおとしめる言葉。
+j	毒酒	毒酒	毒の入った酒。
+j	毒針	毒針	venomous stinger of insec…
+j	毒餌	毒餌	
+j	毒麦	毒麦	darnel, Lolium temulentum
+j	沒藥	沒藥	
+j	洒濯	洒濯	洗濯すること。
+j	洒脱	洒脱	unconventional; unconstra…
+j	洒落	洒落	wittiness, refinement, st…
+j	淒然	淒然	寒いこと。涼しいこと。
+j	淒緊	淒緊	身が引き締まるさま。
+j	炒る	炒る	
+j	炒乾	炒乾	炒ること。
+j	炒肝	炒肝	焼いたもつ。
+j	炒飯	炒飯	「チャーハン」を参照。
+j	炒麺	炒麺	chow mein
+j	熒惑	熒惑	眩惑。
+j	熒熒	熒熒	（僅かに）光るさま。
+j	熒眩	熒眩	眩惑すること。
+j	熒魄	熒魄	生き生きとした肉体。
+j	燒酒	燒酒	soju (Korean spirit tradi…
+j	牒状	牒状	回覧する文書。回章。
+j	犒賜	犒賜	兵を労い、賞を与えること。犒賞。
+j	犒賞	犒賞	兵を労い、賞を与えること。犒賜。
+j	狒々	狒々	a hihi (Japanese monkey-l…
+j	狒狒	狒狒	日本に伝わる妖怪「ひひ」。サルを大型化したような姿…
+j	疒部	疒部	部首「⽧」で分類した漢字の一群。
+j	痒い	痒い	itchy, itching
+j	痒み	痒み	itch
+j	痒疹	痒疹	強い痒みを伴う発疹。
+j	癒し	癒し	soothing, healing, solace
+j	癒す	癒す	to cure
+j	癒ゆ	癒ゆ	be healed
+j	癒合	癒合	傷が治り、離れていた皮膚や筋肉がくっつくこと。
+j	癒着	癒着	adhesion
+j	盒子	盒子	蓋の付いた小さな容器。
+j	砒化	砒化	arsenication
+j	砒石	砒石	砒素を含む有毒な鉱石。
+j	砒素	砒素	原子番号 33、元素記号 As の半金属元素。同素…
+j	砒酸	砒酸	arsenic acid
+j	秒剣	秒剣	秒針。
+j	秒殺	秒殺	seckilling
+j	秒速	秒速	per second
+j	秒針	秒針	second hand
+j	秒間	秒間	秒単位の長さの時間。
+j	窒化	窒化	nitriding, nitridation
+j	窒塞	窒塞	塞ぐこと。塞がること。窒息。閉塞。
+j	窒息	窒息	suffocation
+j	窒素	窒素	nitrogen
+j	筒井	筒井	circular well
+j	筒子	筒子	dot tile
+j	筒状	筒状	筒のような形状。
+j	筒香	筒香	a surname
+j	箒星	箒星	comet
+j	簒奪	簒奪	usurpation
+j	簒立	簒立	臣下の者が主君の地位を奪ってその地位に就くこと。
+j	籒文	籒文	中国古代の書体である篆書の一種。起源は周代、太史籒…
+j	粒子	粒子	a particle (body with ver…
+j	粒径	粒径	粒子を球形と仮定した場合の平均の直径。
+j	粒状	粒状	粒のような状態や形状。
+j	粒粒	粒粒	一粒一粒。粒全部。
+j	粒餡	粒餡	小豆を粒のままか潰してつくられた餡。
+j	緒ろ	緒ろ	a thin, long thread
+j	緒余	緒余	余り。端。残余。
+j	緒戦	緒戦	the beginning of a war, t…
+j	緒方	緒方	a surname
+j	緒言	緒言	論説、言説の糸口。
+j	緒論	緒論	「序論」に同じ。
+j	緒里	緒里	a female given name
+j	繒布	繒布	絹布。
+j	繒錦	繒錦	錦織。
+j	纒頭	纒頭	祝儀として出す金銭。
+j	習う	習う	to learn, to receive inst…
+j	習作	習作	絵画や彫刻、音楽などで練習のために制作すること。ま…
+j	習俗	習俗	custom; mores; convention…
+j	習合	習合	syncretism
+j	習善	習善	上達すること。
+j	習字	習字	calligraphy practice
+j	習弊	習弊	古くからの悪い習慣。
+j	習得	習得	acquisition of a skill
+j	習性	習性	trait, habit
+j	習慣	習慣	custom, habit; way
+j	習戦	習戦	戦争の練習。
+j	習染	習染	習い染まること。習慣として定着すること。
+j	習業	習業	学問・技芸を習うこと。
+j	習煉	習煉	努力して練習を重ねること。
+j	習熟	習熟	物事をやることに慣れて上手くできるようになること。
+j	習癖	習癖	癖。習慣。ならわし。
+j	習知	習知	習って知ること。
+j	習練	習練	努力して練習を重ねること。
+j	習聞	習聞	熟知すること。
+j	習鍊	習鍊	習練の異表記。
+j	耒偏	耒偏	漢字の部首「⽾」が偏である場合の呼称。
+j	耒枱	耒枱	耒耜の別表記。
+j	耒耕	耒耕	鋤き、耕すこと。
+j	耒耜	耒耜	農具の鋤。
+j	耒部	耒部	部首「⽾」で分類した漢字の一群。
+j	聒聒	聒聒	人の|声や動物の鳴き声が騒がしいさま。
+j	舒布	舒布	述べること。
+j	舒張	舒張	拡張する。
+j	舒懐	舒懐	心に思っていることを述べること。述懐。
+j	舒暢	舒暢	緊いものが弛むこと。
+j	舒疾	舒疾	遅速。
+j	舒鳧	舒鳧	鴨。
+j	芒光	芒光	光の穂。
+j	芒刃	芒刃	刀などの切っ先。
+j	芒屨	芒屨	わらぐつ。
+j	芒昧	芒昧	暗いさま。
+j	芒種	芒種	lit. "awns (beard of grai…
+j	芒荒	芒荒	荒野。
+j	苒苒	苒苒	草が盛んに生い茂ること。
+j	荒い	荒い	rough, harsh, intense (in…
+j	荒ぶ	荒ぶ	to be wild, to become wil…
+j	荒む	荒む	to go wild, to grow wild
+j	荒れ	荒れ	stormy weather, tempest; …
+j	荒不	荒不	荒田と不堪佃田。古代から中世、荒廃した田地。
+j	荒井	荒井	a surname
+j	荒亡	荒亡	酒色や狩猟などにふけること。
+j	荒僻	荒僻	遠い片田舎。
+j	荒原	荒原	wilderness
+j	荒唐	荒唐	absurdity
+j	荒土	荒土	wasteland
+j	荒地	荒地	wasteland, a barren land
+j	荒城	荒城	a castle in ruins
+j	荒塵	荒塵	荒廃した土地。
+j	荒天	荒天	激しい風雨で、荒れた天候。
+j	荒夷	荒夷	遠隔の地のえびす。
+j	荒寥	荒寥	「荒涼」に同じ。
+j	荒尾	荒尾	Arao (a city in Kumamoto …
+j	荒川	荒川	a name of a river
+j	荒布	荒布	arame (Ecklonia bicyclis,…
+j	荒年	荒年	poor year; famine year
+j	荒廃	荒廃	dilapidation, ruin
+j	荒径	荒径	荒れ果てた小径。
+j	荒怠	荒怠	生活や心が荒び、すべきことを怠ること。
+j	荒悴	荒悴	窶れること。
+j	荒損	荒損	荒れて損なわれること。
+j	荒木	荒木	a surname
+j	荒村	荒村	荒廃した村落。
+j	荒業	荒業	廃業。
+j	荒歳	荒歳	凶年。
+j	荒海	荒海	a sea with rough waves
+j	荒涼	荒涼	desolate, bleak
+j	荒淫	荒淫	sexually indulgent
+j	荒漠	荒漠	広い範囲に荒れ果てていること。また、そのようなさま。
+j	荒田	荒田	耕作されずに荒廃した田んぼ。
+j	荒畦	荒畦	荒れた畑。
+j	荒瘠	荒瘠	barren, desolate, sterile
+j	荒神	荒神	民俗信仰の神の一つ。三宝荒神、地荒神など。
+j	荒筋	荒筋	
+j	荒絶	荒絶	絶遠。
+j	荒草	荒草	荒れ果てた草地。
+j	荒蕪	荒蕪	荒れ果てた土地に雑草が生い茂っていること。
+j	荒誕	荒誕	exaggerated beyond recogn…
+j	荒賀	荒賀	a surname
+j	荒蹊	荒蹊	荒径。
+j	荒酔	荒酔	泥酔すること。
+j	荒野	荒野	wilderness, wasteland
+j	荒鐘	荒鐘	破損した鐘。
+j	荒陲	荒陲	辺境の地。辺裔。
+j	荒馬	荒馬	an unruly horse
+j	荒魂	荒魂	one of the four souls of …
+j	蟒草	蟒草	イラクサ科の一年草または二年草。山中の湿った場所に…
+j	蟒蛇	蟒蛇	large snake
+j	衒士	衒士	才を衒らかす人。
+j	衒売	衒売	物品を実際より良く見せ掛けて売ること。
+j	衒外	衒外	衒うこと。衒い。
+j	衒夸	衒夸	衒外。
+j	衒女	衒女	美人振ること。
+j	衒妻	衒妻	他人の妻を指す蔑称。
+j	衒婦	衒婦	夜鷹。
+j	衒学	衒学	学を衒うこと。ある事項／事象に関して知識があること…
+j	衒巧	衒巧	技自慢。
+j	衒張	衒張	見せ掛け。上辺。張りぼて。
+j	衒惑	衒惑	眩惑の異表記。
+j	衒才	衒才	才を衒らかすこと。
+j	衒服	衒服	盛装して誇ること。
+j	衒気	衒気	自分の学識や才能を見せびらかして自慢したいと思う気…
+j	衒沽	衒沽	衒鬻。
+j	衒燿	衒燿	自分の才学を誇ること。
+j	衒異	衒異	異才を誇ること。そのさま。
+j	衒美	衒美	衒才。
+j	衒耀	衒耀	名声を得ようと自分を盛んに誇示しようとすること。
+j	衒能	衒能	衒巧。
+j	衒言	衒言	自慢。
+j	衒辞	衒辞	衒言。
+j	衒達	衒達	衒外。
+j	衒露	衒露	衒外。
+j	衒鬻	衒鬻	褒め立てて売ろうとすること。自らの才を誇示して用い…
+j	裒斂	裒斂	租税を厳しく取り立てること。
+j	褒揚	褒揚	奨励などのためほめあげること。ほめそやすこと。
+j	褒章	褒章	栄典の記章。
+j	褒罰	褒罰	賞罰。
+j	褒美	褒美	reward as a form of prais…
+j	褒詞	褒詞	よいことを褒める言葉。褒辞。
+j	褒誉	褒誉	ほめること。
+j	褒貶	褒貶	praise and censure
+j	褒賜	褒賜	褒めて何かを賜ること。
+j	褒賞	褒賞	reward
+j	褒辞	褒辞	よいことを褒める言葉。褒詞。
+j	角偏	角偏	漢字の部首「⾓」が偏である場合の呼称。
+j	角出	角出	
+j	角化	角化	表皮の細胞にケラチンが沈着することで固くなること。…
+j	角地	角地	意味1 隣接した2辺が別々の道路に接している土地 …
+j	角壔	角壔	上下にある面に合同の多角形が平行にあり、側面を平行…
+j	角大	角大	熊野炭（備長炭）の一つ。
+j	角岩	角岩	チャート。
+j	角川	角川	a surname
+j	角帯	角帯	kaku obi, a kind of stiff…
+j	角度	角度	angle (measure, figure)
+j	角形	角形	四角い形。
+j	角技	角技	相撲。
+j	角抵	角抵	「角觝」の別表記。
+j	角材	角材	square timber
+j	角杯	角杯	
+j	角柱	角柱	prism
+j	角灯	角灯	ガラスを張った四角いランプ。ランタン。
+j	角煮	角煮	豚肉などを角切りにして煮た料理。
+j	角状	角状	動物の角のような形状。
+j	角田	角田	a surname
+j	角界	角界	the sumo world; sumo circ…
+j	角番	角番	A game of go or shogi tha…
+j	角皿	角皿	四角形の皿。
+j	角礫	角礫	砕屑されて間もない角ばった礫。
+j	角竜	角竜	角竜類の俗称。
+j	角笛	角笛	horn, made of animal horn
+j	角筆	角筆	a stylus that produces de…
+j	角膜	角膜	a cornea
+j	角行	角行	an angle-mover (piece wit…
+j	角袋	角袋	
+j	角觝	角觝	優劣を競うこと。
+j	角觡	角觡	角がある獣。
+j	角谷	角谷	a surname
+j	角質	角質	生物の身体を被う硬質の外皮。
+j	角逐	角逐	competition; contention
+j	角部	角部	部首「⾓」で分類した漢字の一群。
+j	角錐	角錐	a pyramid (in geometry, a…
+j	角食	角食	a square loaf of bread, a…
+j	角馬	角馬	wildebeest; gnu
+j	角髻	角髻	髪型であげまきの類。
+j	角鮫	角鮫	a dogfish (shark in famil…
+j	角鴟	角鴟	
+j	角鷹	角鷹	古典的大型将棋の駒の一つ。本将棋には存在せず、中将…
+j	誒笑	誒笑	強いて笑うこと。
+j	誒誒	誒誒	鬼神が叫ぶ声。
+j	諒察	諒察	相手の状況や気持ちを思いやって推察すること。
+j	諒承	諒承	承知すること。心得ること。
+j	諒知	諒知	察知すること。心中で承知すること。
+j	諒解	諒解	物事の内容等が分かり、納得すること。
+j	諒闇	諒闇	天子や天皇がその父母の死に際し服喪する期間。
+j	諒陰	諒陰	天子や天皇がその父母の死に際し服喪する期間。
+j	讒づ	讒づ	to slanderously misrepres…
+j	讒佞	讒佞	他人に対して中傷し、上の者に対してへつらうこと。ま…
+j	讒凶	讒凶	謗ること。讒悪。
+j	讒口	讒口	讒言、中傷。
+j	讒夫	讒夫	讒言する男。
+j	讒奏	讒奏	天子などに讒言すること。
+j	讒巧	讒巧	巧みに人を陥れること。
+j	讒心	讒心	讒言をしようという気持ち。
+j	讒悪	讒悪	謗ること。
+j	讒搆	讒搆	有りもしないことをでっち上げ、他人を謗ること。
+j	讒構	讒構	有りもしないことをでっち上げ、他人を謗ること。
+j	讒者	讒者	讒言をする者。
+j	讒臣	讒臣	君主に讒言をする臣下。
+j	讒莠	讒莠	讒佞する人。
+j	讒言	讒言	他人を陥れるために事実を曲げたり有りもしないことを…
+j	讒訴	讒訴	他人を陥れようと事実を曲げて訴えること。
+j	讒詆	讒詆	謗ること。
+j	讒誣	讒誣	事実ではないことを言いたてて他人を誹ること。
+j	讒諂	讒諂	人を讒言して上に取り入ること。讒佞。
+j	讒諛	讒諛	他人を悪し様に言って、別の人に媚びて取り入ること。
+j	讒謗	讒謗	ののしること、そしること。
+j	讒邪	讒邪	邪心により讒言すること。また、そのような人。
+j	讒鼎	讒鼎	讒を戒める銘のある鼎。
+j	軒乗	軒乗	車駕。
+j	軒作	軒作	a male given name
+j	軒偉	軒偉	偉大なこと。また、そのようなさま。
+j	軒号	軒号	「軒」で終わる称号。
+j	軒城	軒城	諸侯の城。
+j	軒堂	軒堂	高堂。
+j	軒岸	軒岸	威厳のあること。そのさま。
+j	軒敞	軒敞	高敞なこと。また、そのようなさま。
+j	軒数	軒数	家屋の数。戸数。
+j	軒昂	軒昂	magnificent; dignified
+j	軒朱	軒朱	朱軒。
+j	軒楹	軒楹	軒の柱。
+j	軒檻	軒檻	欄干。
+j	軒溜	軒溜	雨垂れ。
+j	軒灯	軒灯	建物の軒先につける明かり。
+j	軒爽	軒爽	高く爽やかなさま。
+j	軒窓	軒窓	軒端の窓。
+j	軒羲	軒羲	中国の伝説上の帝王軒轅と伏羲。
+j	軒豁	軒豁	朗らかなさま。
+j	軒越	軒越	軒昂。昂揚。
+j	軒輅	軒輅	車。
+j	軒輊	軒輊	軽重。優劣。
+j	軒轅	軒轅	北斗星の北にある星の名。
+j	軒露	軒露	あらわれること。
+j	遒文	遒文	雄勁な文。
+j	遒然	遒然	超抜。
+j	遒邁	遒邁	雄雄しくまた勇ましいこと。また、そのようなさま。雄…
+j	酒乱	酒乱	酒に酔うと乱暴になったりする癖。酒狂。
+j	酒井	酒井	a surname
+j	酒仙	酒仙	hermit who enjoys drinking
+j	酒会	酒会	酒宴。
+j	酒保	酒保	軍事基地の中に位置する売店。
+j	酒匂	酒匂	a surname
+j	酒友	酒友	酒を飲む際にいつも一緒に飲む仲間。飲み友達。飲み仲…
+j	酒司	酒司	a 律令 (Ritsuryō) position …
+j	酒器	酒器	drinking vessel, cup for …
+j	酒坊	酒坊	「酒房」の別表記。
+j	酒場	酒場	a bar, a saloon, a pub
+j	酒婬	酒婬	酒淫。酒色。
+j	酒宴	酒宴	a banquet, a feast, a dri…
+j	酒屋	酒屋	liquor store
+j	酒巵	酒巵	酒を飲むためのうつわ。さかずき。
+j	酒巻	酒巻	a surname
+j	酒帘	酒帘	酒旗。酒幟。
+j	酒席	酒席	drinking party
+j	酒幟	酒幟	酒屋の看板としてたてる幟。
+j	酒店	酒店	shop selling alcohol, liq…
+j	酒座	酒座	酒宴の席。酒席。
+j	酒徒	酒徒	酒を飲み合う仲間。
+j	酒徳	酒徳	飲酒することによる功徳。
+j	酒房	酒房	liquor store
+j	酒旗	酒旗	酒屋の看板としてたてられる旗。
+j	酒杯	酒杯	wine glass
+j	酒楼	酒楼	茶屋。料理屋。
+j	酒槽	酒槽	できた酒を貯蔵しておく木製の容器。
+j	酒樽	酒樽	wine barrel, wine cask
+j	酒毒	酒毒	酒による害毒。
+j	酒気	酒気	the smell of alcohol
+j	酒淫	酒淫	酒と色事。酒色。
+j	酒滓	酒滓	酒を絞ったあとの粕。酒粕。
+j	酒狂	酒狂	酒に酔い、狂ったようになること。酒乱。
+j	酒甕	酒甕	pot used to store alcohol
+j	酒田	酒田	Sakata (a city in Yamagat…
+j	酒癖	酒癖	飲酒して酔った際に出る（あまり好ましくない）癖。
+j	酒皶	酒皶	顔面の鼻が赤くなる状態。血管が広がり赤みが出る程度…
+j	酒盃	酒盃	盃。
+j	酒盗	酒盗	酒の肴の一つで塩辛のこと。
+j	酒石	酒石	ワイン醸造で、発酵が進むと容器の底に生じる沈殿物。
+j	酒禿	酒禿	飲酒によるはげ。
+j	酒税	酒税	酒類に対して課せられる税金。日本国においては、酒税…
+j	酒粕	酒粕	lees, produced while sake…
+j	酒精	酒精	alcohol
+j	酒糾	酒糾	妓女。
+j	酒肆	酒肆	liquor store
+j	酒肴	酒肴	foods and drinks (of alco…
+j	酒胾	酒胾	酒と肉。酒肉。
+j	酒興	酒興	酒宴での座興。酒に酔い、興じること。
+j	酒色	酒色	alcohol and beautiful wom…
+j	酒落	酒落	「洒落」の誤り。
+j	酒觴	酒觴	酒を注いで飲むための器。杯。
+j	酒豪	酒豪	heavy drinker
+j	酒造	酒造	saké brewing
+j	酒醴	酒醴	酒と甘酒。
+j	酒量	酒量	飲む（飲める）酒の量。
+j	酒銭	酒銭	酒の代金。
+j	酒錢	酒錢	酒銭の旧字体表記。
+j	酒鐺	酒鐺	酒を温めて燗にするための鍋。
+j	酒類	酒類	alcoholic drinks; liquor
+j	酒食	酒食	food and alcoholic drink
+j	酒饌	酒饌	酒食。
+j	酒齢	酒齢	ウイスキー等酒類の樽貯蔵年数。
+j	醒眼	醒眼	酔いが醒めた顔。
+j	醒酔	醒酔	酒に酔うことと酔いから醒めること。
+j	鋒栝	鋒栝	刀と矢。
+j	鋒毫	鋒毫	筆先。
+j	鋒矢	鋒矢	鋭い矢。
+j	鋒端	鋒端	矛先。切っ先。
+j	鋒行	鋒行	先鋒。
+j	鋒鋩	鋒鋩	tip of a blade, spearhead
+j	鋒鏑	鋒鏑	鉾先と矢尻。転じて、武器。
+j	青い	青い	blue
+j	青し	青し	
+j	青の	青の	
+j	青㵎	青㵎	清い㵎水。
+j	青丹	青丹	花札の札で、青色の短冊があしらわれたもの。
+j	青井	青井	a surname
+j	青侍	青侍	公家に出仕する六位の武士。
+j	青冥	青冥	青天。
+j	青函	青函	Aomori and Hakodate
+j	青化	青化	synonym of シアン化 (shian-ka…
+j	青史	青史	annals of history; histor…
+j	青図	青図	blueprint
+j	青地	青地	a surname
+j	青塚	青塚	苔生した塚。青々とした草木が茂った塚。
+j	青天	青天	blue sky
+j	青姦	青姦	having sex in the open air
+j	青宮	青宮	東宮。
+j	青山	青山	a green lush mountain or …
+j	青峰	青峰	青々とした峰。
+j	青島	青島	Qingdao (a subprovincial …
+j	青嵐	青嵐	青々とした山の気。
+j	青嶋	青嶋	a surname
+j	青巌	青巌	苔むした巌。
+j	青州	青州	Qingzhou (a city in Shand…
+j	青帮	青帮	「チンパン」を参照。
+j	青幇	青幇	「チンパン」を参照。
+j	青年	青年	a young man; a youth
+j	青息	青息	a sigh with suffering
+j	青旗	青旗	青色の旗。
+j	青春	青春	youth; adolescence
+j	青書	青書	イギリスの議会、枢密院の報告書。
+j	青木	青木	Japanese laurel (Aucuba j…
+j	青松	青松	a verdantly green pine tr…
+j	青林	青林	青々と茂った林。緑豊かな林。
+j	青果	青果	fruit and vegetables
+j	青柳	青柳	a budding willow
+j	青柴	青柴	a surname
+j	青桐	青桐	Chinese parasol tree, Fir…
+j	青梅	青梅	unripe plum
+j	青森	青森	Aomori (the capital city …
+j	青楼	青楼	the home of an aristocrat…
+j	青歯	青歯	synonym of ブルートゥース (“Blue…
+j	青汁	青汁	a vegetable drink, typica…
+j	青池	青池	a surname
+j	青沼	青沼	a surname
+j	青海	青海	Qinghai (a province in no…
+j	青灯	青灯	読書などに用いる青い光の灯。
+j	青熒	青熒	灯火が青く光るさま。
+j	青牛	青牛	黒い毛の牛。
+j	青物	青物	vegetables
+j	青田	青田	paddy field where crops a…
+j	青目	青目	blue eyes
+j	青看	青看	道路の案内標識。
+j	青眸	青眸	涼しい目元。
+j	青眼	青眼	自分が好意のある人を迎える時の嬉しさ、喜びを表した…
+j	青短	青短	花札の札で、青色の短冊があしらわれたもの。
+j	青碧	青碧	青い色。青みがかった緑色。
+j	青磁	青磁	celadon porcelain
+j	青空	青空	the blue sky; the clear s…
+j	青窓	青窓	
+j	青竜	青竜	Azure Dragon, one of the …
+j	青筋	青筋	veins visible through the…
+j	青糸	青糸	青い糸。
+j	青素	青素	シアン。
+j	青紫	青紫	（せいし）漢の時代の公卿。またその地位。
+j	青綬	青綬	青の印璽の綬。
+j	青緑	青緑	blue-green
+j	青線	青線	blue line
+j	青羹	青羹	青野菜や木の若芽などを磨り潰して入れ、青い色に作り…
+j	青翠	青翠	青緑。
+j	青色	青色	blue (color)
+j	青花	青花	白い地に青い模様がある陶磁器。
+j	青苔	青苔	青い色つまり緑色の苔。
+j	青苗	青苗	青青とした苗。
+j	青茅	青茅	刈安。
+j	青茶	青茶	一晩灰汁に漬け、蒸してつくつた下等な茶。
+j	青草	青草	青くしげった草。また、そのような色。
+j	青菜	青菜	greens
+j	青華	青華	白い地に青い模様がある陶磁器。
+j	青葉	青葉	green leaves
+j	青蓬	青蓬	青い笘。
+j	青藍	青藍	indigo, dark blue
+j	青蘭	青蘭	a female given name
+j	青蚨	青蚨	「かげろう」の異称
+j	青蛙	青蛙	a green frog
+j	青蛾	青蛾	黛で書かれた眉。
+j	青蜂	青蜂	膜翅目セイボウ科の昆虫（蜂）の総称。
+j	青蠅	青蠅	アオバエ。
+j	青衣	青衣	（せいい）中国でかつて天子や后妃が春着として着用し…
+j	青衿	青衿	青いえり。
+j	青袍	青袍	青衣。
+j	青襟	青襟	青いえり。
+j	青部	青部	部首「⾭」で分類した漢字の一群。
+j	青酸	青酸	synonym of シアン化水素酸 (shian…
+j	青野	青野	a surname
+j	青金	青金	（あおきん）銀を含む金の鉱石。
+j	青銅	青銅	bronze
+j	青陽	青陽	春。
+j	青雀	青雀	
+j	青雨	青雨	青葉の木々に降る雨。
+j	青雲	青雲	Blue-tinged clouds
+j	青鞜	青鞜	bluestocking, a member of…
+j	青魚	青魚	general term for a blue b…
+j	青鮫	青鮫	shortfin mako shark, Isur…
+j	青鱗	青鱗	青く光って見える、魚のうろこ。
+j	青鳧	青鳧	銭。青鳧銭。
+j	青鶏	青鶏	a western swamphen
+j	青鸞	青鸞	great argus pheasant (Arg…
+j	青麻	青麻	processed ramie or hemp b…
+j	青黒	青黒	
+j	青黛	青黛	青い黛。また、その黛で書いた眉。
+j	青黴	青黴	general term for mold of …
+j	青龍	青龍	blue dragon, a piece in d…
+j	頒価	頒価	商品などを頒布する際の価格。
+j	頒布	頒布	distribution
+j	頒幣	頒幣	祈年祭などのためそれぞれの神社に幣帛を頒布し奉献す…
+j	頒暦	頒暦	暦を分けて配ること。暦の頒布。古くは、陰陽寮で作っ…
+j	頒白	頒白	毛髪が白髪混じりであること。また、そのような初老の…
+j	頒行	頒行	わけあたえ広くゆきわたらせること。配布。頒布。
+j	顒敬	顒敬	敬うこと。
+j	顒望	顒望	仰望すること。
+j	顒然	顒然	慎むさま。
+j	顒顒	顒顒	君子が威厳に満ちていること。また、そのようなさま。。
+j	餒饉	餒饉	うえて、体が衰えること。
+j	饒多	饒多	豊かで多いさま。
+j	饒羨	饒羨	豊かで余ること。
+j	饒舌	饒舌	talkative
+j	饒鬚	饒鬚	鬚が多いさま。
+j	駒台	駒台	piece stand, for holding …
+j	駒子	駒子	a female given name
+j	駒師	駒師	将棋の駒職人。
+j	駒草	駒草	Dicentra peregrina
+j	駒鳥	駒鳥	a Japanese robin (Larvivo…
+j	駒鶇	駒鶇	an American robin
+j	騒々	騒々	perturbing, rumpus
+j	騒ぎ	騒ぎ	noise, uproar, disturbance
+j	騒ぐ	騒ぐ	to make noise
+j	騒乱	騒乱	riot, turmoil
+j	騒人	騒人	詩人。文人。
+j	騒劇	騒劇	騒然として忙しいこと。騒乱。騒動。
+j	騒動	騒動	riot, stir, commotion, fu…
+j	騒壇	騒壇	詩壇。
+j	騒客	騒客	詩人。文人。
+j	騒擾	騒擾	騒ぎを起こして社会の秩序を乱すこと。
+j	騒然	騒然	noisy
+j	騒音	騒音	noise, disorder
+j	驒州	驒州	飛驒国^(（ひだのくに）)の別称。
+j	鱒茸	鱒茸	sulphur shelf
+j	麒麟	麒麟	麒麟, 騏驎: (mythology, Chine…
+j	黒い	黒い	black
+j	黒み	黒み	blackness
+j	黒人	黒人	a black person (e.g. Afri…
+j	黒伝	黒伝	取引伝票のうち（赤伝に対する）通常の伝票を意味する…
+j	黒体	黒体	a blackbody
+j	黒化	黒化	動物の体表にメラニンがたまって体色が黒色または暗色…
+j	黒印	黒印	黒色の印肉で押した印。また、その印を押した公文書。
+j	黒器	黒器	黒く塗られた合子。
+j	黒土	黒土	chernozem, black earth
+j	黒地	黒地	地の色が黒いこと。また、黒い地。
+j	黒坊	黒坊	a black person; a nigger
+j	黒塩	黒塩	黒い塩。
+j	黒墳	黒墳	黒い土壌。黒壌。
+j	黒壌	黒壌	黒い土壌。黒墳。
+j	黒奴	黒奴	
+j	黒子	黒子	a mole or nevus containin…
+j	黒字	黒字	surplus, black ink
+j	黒山	黒山	thickly forested mountains
+j	黒岩	黒岩	a surname
+j	黒崎	黒崎	a surname
+j	黒川	黒川	a surname
+j	黒帯	黒帯	black belt
+j	黒幕	黒幕	black curtain
+j	黒影	黒影	silhouette; dark shadow
+j	黒旗	黒旗	黒色の旗。
+j	黒暗	黒暗	absolute darkness
+j	黒木	黒木	a surname
+j	黒板	黒板	a blackboard
+j	黒柳	黒柳	a surname
+j	黒業	黒業	bad deed, evil deed
+j	黒檀	黒檀	ebony, trees of the speci…
+j	黒檜	黒檜	Japanese thuja, Thuja sta…
+j	黒気	黒気	妖しく不吉な気配。妖気。
+j	黒氷	黒氷	
+j	黒沢	黒沢	a surname
+j	黒河	黒河	
+j	黒浪	黒浪	荒波。
+j	黒海	黒海	the Black Sea
+j	黒液	黒液	
+j	黒潦	黒潦	濁った水。
+j	黒潮	黒潮	Kuroshio Current
+j	黒澤	黒澤	a surname
+j	黒炎	黒炎	黒い炎
+j	黒炭	黒炭	bituminous coal
+j	黒点	黒点	black dot
+j	黒烟	黒烟	黒い烟。
+j	黒焔	黒焔	黒い炎
+j	黒焰	黒焰	黒い炎
+j	黒煙	黒煙	black smoke
+j	黒熊	黒熊	a bear with black fur
+j	黒犀	黒犀	a black rhinoceros
+j	黒猫	黒猫	a black cat
+j	黒玉	黒玉	
+j	黒球	黒球	直射日光による熱を吸収するように黒く塗装した球内に…
+j	黒田	黒田	a surname
+j	黒番	黒番	黒色の碁石または駒を持って対局する人、またはその手…
+j	黒白	黒白	（こくびゃく、こくはく） 黒い色と白い色。黒いもの…
+j	黒皮	黒皮	黒く染めた皮。
+j	黒眉	黒眉	墨で書いた眉。
+j	黒石	黒石	a black stone
+j	黒竜	黒竜	黒い竜。
+j	黒竹	黒竹	black bamboo (Phyllostach…
+j	黒米	黒米	まだ精白していない米。玄米。
+j	黒糖	黒糖	砂糖黍の絞り汁を煮て、まだ精製していない黒っぽい砂…
+j	黒綬	黒綬	黒の印璽の綬。
+j	黒線	黒線	黒い線。
+j	黒船	黒船	Western ship that came to…
+j	黒色	黒色	black
+j	黒花	黒花	陶器の装飾で釉薬に鉄質のものを使い、黒色の柄を出す…
+j	黒蜜	黒蜜	Kuromitsu, a kind of suga…
+j	黒衣	黒衣	黒い色の衣。
+j	黒表	黒表	
+j	黒豆	黒豆	くろまめ参照
+j	黒豚	黒豚	Berkshire pig
+j	黒豸	黒豸	御史がつけた冠。
+j	黒豹	黒豹	豹の黒色変異種。
+j	黒貂	黒貂	sable, Martes zibellina
+j	黒質	黒質	
+j	黒道	黒道	全てが凶の日。
+j	黒部	黒部	部首「⿊」で分類した漢字の一群。
+j	黒酢	黒酢	black vinegar, especially…
+j	黒金	黒金	niello
+j	黒鉛	黒鉛	元素鉱物の一種で、化学組成はC（炭素）、六方晶系。…
+j	黒鍵	黒鍵	black key (of a piano, et…
+j	黒闇	黒闇	くらやみ。
+j	黒陶	黒陶	表面が黒い土器の総称。
+j	黒雁	黒雁	brent goose, Branta berni…
+j	黒雨	黒雨	空を暗くして降る大雨。豪雨。
+j	黒雲	黒雲	dark clouds
+j	黒頭	黒頭	頭髪の黒い頭。
+j	黒髪	黒髪	black hair
+j	黒髭	黒髭	
+j	黒鰱	黒鰱	bighead carp (Hypophthalm…
+j	黒鳥	黒鳥	a black-feathered bird
+j	黒鴨	黒鴨	common scoter (Melanitta …
+j	黒鵐	黒鵐	grey bunting
+j	黒鶴	黒鶴	a common crane
+j	黒鷺	黒鷺	Pacific reef heron (Egret…
+j	黒麦	黒麦	rye
+j	黒龍	黒龍	黒竜の別表記。
+j	齒車	齒車	
+j	齒部	齒部	部首「⿒」で分類した漢字の一群。
+k	각도	角度	angle (measure, figure)
+k	각막	角膜	cornea
+k	각목	角木	lumber; piece of lumber; …
+k	거부	拒否	refusal
+k	거역	拒逆	disobedience, insubordina…
+k	거절	拒絶	refusal, rejection, denial
+k	계엄	戒厳	martial law
+k	계엄	戒嚴	martial law
+k	계율	戒律	religious discipline; rel…
+k	기린	麒麟	a giraffe (mammal)
+k	노도	怒涛	raging waves; turbulent w…
+k	노도	怒濤	raging waves; turbulent w…
+k	노조	怒潮	raging tide
+k	도보	徒步	going on foot
+k	도보	徒歩	going on foot
+k	도사	徒死	Taoist priest
+k	도식	徒食	
+k	도제	徒弟	
+k	독감	毒感	bad cold
+k	독물	毒物	poison, poisonous substan…
+k	독사	毒蛇	venomous snake
+k	독살	毒殺	poisoning; killing with p…
+k	독소	毒素	toxin
+k	독액	毒液	poisonous liquid, venom
+k	독약	毒薬	poison
+k	독약	毒藥	poison
+k	독해	毒害	reading comprehension
+k	동개	筒箇	quiver
+k	립자	粒子	
+k	망각	芒角	corner where two walls me…
+k	매체	媒体	A medium.
+k	매체	媒體	A medium.
+k	모독	冒涜	sacrilege; blasphemy
+k	모독	冒瀆	sacrilege; blasphemy
+k	모용	冒用	fraudulent use
+k	모험	冒険	adventure
+k	모험	冒險	adventure
+k	몰락	沒落	downfall; collapse
+k	몰수	沒收	
+k	몰약	沒藥	myrrh
+k	반포	頒布	proclamation
+k	배구	排球	volleyball (game)
+k	배변	排便	defecation
+k	배설	排泄	excretion (process)
+k	배소	排簘	paixiao (Chinese pan pipe)
+k	배소	排簫	paixiao (Chinese pan pipe)
+k	배율	排律	magnification, magnifying…
+k	배제	排除	exclusion
+k	배척	排斥	exclusion; ostracization;…
+k	배출	排出	exhaust
+k	비비	狒狒	여러 번 꼬이거나 뒤틀린 모양.
+k	비소	砒素	arsenic
+k	서전	緒戦	the beginning of a war, t…
+k	소각	燒却	incineration
+k	소맥	燒麥	somaek, beer mixed with s…
+k	소음	騒音	noise; din
+k	소주	燒酒	soju, Korean rice liquor
+k	습관	習慣	habit
+k	습득	習得	acquisition, learning
+k	습성	習性	trait; habit
+k	습작	習作	a study; draft work; an e…
+k	습지	習知	marsh, wetlands, swamp, b…
+k	아동	兒童	child
+k	아역	兒役	연극이나 영화 등에서, 어린이의 역.
+k	아해	兒孩	'아이'의 비표준어.
+k	아화	兒化	
+k	양해	諒解	agreement; consent
+k	원예	園芸	horticulture, gardening
+k	원예	園藝	horticulture, gardening
+k	유가	儒家	Confucianist, Confucian
+k	유교	儒敎	Confucianism
+k	유학	儒学	Confucianism
+k	유학	儒學	Confucianism
+k	입자	粒子	particle, grain
+k	졸도	卒倒	fainting; loss of conscio…
+k	졸업	卒業	graduation
+k	졸작	卒作	poor-quality work; subpar…
+k	졸혼	卒婚	divorce
+k	주류	酒類	alcoholic drinks; liquor
+k	주막	酒幕	tavern, inn
+k	주보	酒甫	weekly; weekly newspaper;…
+k	주색	酒色	alcohol and beautiful wom…
+k	주식	酒食	stocks; shares
+k	주점	酒店	pub
+k	주정	酒精	a disorderly conduct when…
+k	주정	酒酊	a disorderly conduct when…
+k	질산	窒酸	
+k	질색	窒塞	detest
+k	질소	窒素	nitrogen
+k	질식	窒息	suffocation
+k	찬탈	簒奪	usurpation
+k	청동	青銅	bronze
+k	청해	青海	Qinghai (a province in no…
+k	초목	椒目	plants and trees, vegetat…
+k	초침	秒針	second hand
+k	치과	齒科	dentistry
+k	치석	齒石	
+k	치수	齒髓	pulp (the soft center of …
+k	치아	齒牙	tooth
+k	치약	齒藥	toothpaste
+k	치열	齒列	ferociousness, fierceness…
+k	치음	齒音	dental
+k	치통	齒痛	toothache
+k	통발	筒발	a fish trap, enclosing we…
+k	포상	褒賞	reward
+k	한기	寒気	chill, cold
+k	한기	寒氣	chill, cold
+k	한류	寒流	Hallyu, the Korean Wave (…
+k	한심	寒心	patheticness (chiefly in …
+k	한열	寒熱	chills and fever
+k	한파	寒波	a cold wave
+k	항상	恒常	always
+k	항성	恒星	star
+k	현학	衒学	deep and complex theories…
+k	현학	衒學	deep and complex theories…
+k	호각	互角	equality, evenness
+k	황량	荒涼	desolateness; dreariness
+k	황야	荒野	wilderness
+k	황지	荒地	wasteland
+k	황천	荒天	netherworld, underworld, …
+k	흑기	黒旗	
+k	흑로	黒鷺	The Pacific reef egret, E…
+k	흑막	黒幕	black curtain
+k	흑미	黒米	
+k	흑발	黒髪	black hair
+k	흑백	黒白	black and white, monochro…
+k	흑색	黒色	black (colour)
+k	흑업	黒業	bad deed, evil deed
+k	흑연	黒鉛	graphite
+k	흑우	黒牛	cattle of black color
+k	흑인	黒人	black person (dark-skinne…
+k	흑자	黒字	surplus, in the black
+k	흑점	黒点	sunspot
+k	흑체	黒体	blackbody
+k	흑판	黒板	blackboard
+k	흑표	黒表	
+k	흑해	黒海	the Black Sea
+k	흑형	黒兄	a black man who is stereo…
+k	흑화	黒化	blackening; darkening
+j	互いに	互いに	mutually; reciprocally; w…
+j	互いの	互いの	
+j	互い先	互い先	一局ごとに交代で先手になって対局すること。
+j	互換性	互換性	compatibility
+j	倒せる	倒せる	
+j	倒れる	倒れる	fall, collapse
+j	倒置法	倒置法	inversion
+j	倒錯的	倒錯的	倒錯しているさま。
+j	倒錯者	倒錯者	
+j	儒学者	儒学者	儒学の教えを学び、伝える者。
+j	冒険家	冒険家	adventurer
+j	冒険心	冒険心	
+j	冒険的	冒険的	adventurous (full of haza…
+j	冒険者	冒険者	adventurer
+j	勒する	勒する	〔文字を石碑に〕刻む。
+j	卒する	卒する	to die
+j	卒アル	卒アル	
+j	卒園式	卒園式	幼稚園や保育園、認定こども園での教育課程を修了した…
+j	卒園生	卒園生	幼稚園や保育園、認定こども園を卒園する、または卒園…
+j	卒塔婆	卒塔婆	stupa (structure housing …
+j	卒業式	卒業式	graduation ceremony, comm…
+j	卒業生	卒業生	alumnus (a graduate)
+j	卒無く	卒無く	抜かりなく。如才なく。
+j	卒都婆	卒都婆	「卒塔婆」の別表記。
+j	園芸学	園芸学	園芸について研究する学問。
+j	園芸屋	園芸屋	植物や園芸品を売る店。植物や園芸品を売る人。
+j	園芸師	園芸師	人形菊の栽培を行う職人。
+j	園芸店	園芸店	植物や園芸品を販売する店。
+j	園遊会	園遊会	庭園などの屋外に多くの客を招待し、食事や余興などで…
+j	園長室	園長室	園長が執務を行う専用の部屋。
+j	媒介物	媒介物	
+j	媒染剤	媒染剤	媒染による染色で繊維に染料を固着させるための薬剤。
+j	媒酌人	媒酌人	媒酌をする人。仲人。
+j	寒候年	寒候年	降雪、降霜など、暦年を跨いで通算すべき冬季の季節現…
+j	寒候期	寒候期	暦年を気温の高低で2分割したとき、低温のほうをいう…
+j	寒冷化	寒冷化	地球の気温が長期的に低下すること。
+j	寒冷地	寒冷地	寒冷な土地。
+j	寒冷紗	寒冷紗	cheesecloth, lawn
+j	寒垢離	寒垢離	寒中に禊ぎ、神仏に祈願すること。
+j	寒暑鍼	寒暑鍼	寒暖計。
+j	寒暖計	寒暖計	温度計の一種。人間の感じる範囲内の気温を計測する道…
+j	寒河江	寒河江	Sagae (a city in Yamagata…
+j	寒稽古	寒稽古	冬など、気温が寒い時期の稽古。
+j	徒歩で	徒歩で	
+j	徒競走	徒競走	footrace
+j	怒った	怒った	
+j	怒鳴る	怒鳴る	to shout in anger; to yell
+j	恒久的	恒久的	ずっと変わらないさま。
+j	恒偽式	恒偽式	
+j	恒常性	恒常性	homeostasis
+j	恒常風	恒常風	偏西風や貿易風など、季節によらず同一の方向に吹く風。
+j	恒星の	恒星の	
+j	恒星年	恒星年	sidereal year
+j	恒星日	恒星日	
+j	恒星時	恒星時	太陽以外の恒星の位置から決定する時刻。
+j	恒星月	恒星月	月の公転周期。約27.32167日。
+j	恒星系	恒星系	star system
+j	恒星風	恒星風	一般的に恒星から外側に向かって吹く、プラズマの風。
+j	恒河沙	恒河沙	a metaphor of the extreme…
+j	恒真式	恒真式	tautology (in logic)
+j	恒等式	恒等式	数式中に含まれる全ての変数の値のいかんにかかわらず…
+j	戒厳令	戒厳令	order declaring martial l…
+j	抒情詩	抒情詩	lyric poetry
+j	拒否る	拒否る	synonym of 拒否する (kyohi su…
+j	拒否権	拒否権	veto (the right to disapp…
+j	拒食症	拒食症	anorexia
+j	排する	排する	〔邪魔なものや不要なものを〕除く。排除する。
+j	排ガス	排ガス	「排気ガス」の略。
+j	排中律	排中律	命題は真か偽のいずれかであり、真でも偽でもない命題…
+j	排他形	排他形	exclusive
+j	排他的	排他的	exclusive
+j	排出器	排出器	排泄物の排出に関わる組織や器官の総称。排出器官。
+j	排出物	排出物	排出された物。
+j	排出腔	排出腔	
+j	排土板	排土板	ブルドーザーなどの前部に取り付け、土砂を押してどか…
+j	排気口	排気口	排気するために、装置につけられている穴。
+j	排気弁	排気弁	exhaust valve
+j	排気管	排気管	exhaust pipe (pipe that v…
+j	排気量	排気量	engine displacement
+j	排氣鐘	排氣鐘	
+j	排水口	排水口	水をそこに吸い込むための穴。
+j	排水坑	排水坑	鉱山の内部から湧き出る水を鉱山外に流し出すための坑…
+j	排水孔	排水孔	水をそこに吸い込むための穴。
+j	排水工	排水工	排水を行うための工事。
+j	排水溝	排水溝	gutter, drainage ditch, c…
+j	排水管	排水管	drainpipe
+j	排水路	排水路	排水のために設置された水路。
+j	排泄器	排泄器	排出物の排泄に関わる組織や器官の総称。排泄器官。
+j	排泄物	排泄物	excretion (something excr…
+j	撒き餌	撒き餌	baiting, chumming, luring…
+j	桒字年	桒字年	48歳の別名。
+j	棒人間	棒人間	イラストなどで人の頭部を丸、胴体、四肢を線（棒）で…
+j	棒切れ	棒切れ	棒の切れ端。短かい棒。
+j	棒引き	棒引き	drawing a straight line
+j	棒振り	棒振り	the act of waving a stick
+j	棒暗記	棒暗記	その意味を考えずに文章などをそのまま暗記すること。
+j	棒砂糖	棒砂糖	
+j	棒立ち	棒立ち	緊張や驚き、途方にくれたりするなどして棒のように突…
+j	棒線駅	棒線駅	線路とプラットホームが1本ずつしかない駅。
+j	棒術家	棒術家	棒術を行う武術家またはそれで生業している者、修得し…
+j	棒読み	棒読み	reading in a monotone voi…
+j	棒高跳	棒高跳	the pole vault
+j	毒する	毒する	（「～を毒する」の形で）～に有害な影響を与える。
+j	毒ガス	毒ガス	poison gas
+j	毒人参	毒人参	
+j	毒性学	毒性学	toxicology
+j	毒物学	毒物学	toxicology
+j	毒理学	毒理学	毒物による作用などについて研究する学問。毒物学。毒…
+j	毒蜘蛛	毒蜘蛛	毒を持つ蜘蛛の総称。
+j	毒饅頭	毒饅頭	毒入りの饅頭。毒を盛った饅頭。
+j	洒落た	洒落た	
+j	洒落る	洒落る	to be stylish or smart in…
+j	洒落怖	洒落怖	hardcore creepypasta
+j	洒落本	洒落本	江戸時代中期から後期にかけて主に江戸で流行した小説…
+j	炒った	炒った	
+j	炒まる	炒まる	be stir-fried, be sautéed
+j	炒める	炒める	to stir-fry; to pan-fry; …
+j	炒め物	炒め物	
+j	熒惑星	熒惑星	Mars
+j	癒える	癒える	to be healed
+j	癒し系	癒し系	that which can warm one's…
+j	砒酸塩	砒酸塩	arsenate
+j	砒霜石	砒霜石	
+j	秒時計	秒時計	
+j	秒読み	秒読み	countdown (counting down …
+j	秒速で	秒速で	with incredible speed; qu…
+j	窒化物	窒化物	ある元素が窒素と結びついてできた化合物のこと。
+j	窒扶斯	窒扶斯	「チフス」の漢字表記。
+j	窒素族	窒素族	周期表で第15族の元素。3価の陰イオンになる。
+j	筒井筒	筒井筒	well curb of a circular w…
+j	筒抜け	筒抜け	being overheard; being le…
+j	簒奪者	簒奪者	
+j	粒子線	粒子線	荷電粒子に電圧を加えて得られるビーム。
+j	習わし	習わし	custom, habit
+j	習わす	習わす	to make (someone) learn
+j	習慣的	習慣的	習慣に関すること、習慣となっていること。また、その…
+j	習熟度	習熟度	
+j	荒ぶる	荒ぶる	savage, wild, unruly
+j	荒らし	荒らし	trolling; vandalism
+j	荒らす	荒らす	to sterilize; to lay wast…
+j	荒れた	荒れた	
+j	荒れる	荒れる	become barren; become des…
+j	荒れ地	荒れ地	
+j	荒れ肌	荒れ肌	dry skin
+j	荒唐な	荒唐な	
+j	荒地鼠	荒地鼠	gerbil
+j	荒武者	荒武者	
+j	荒瘠な	荒瘠な	
+j	荒療治	荒療治	quick-and-dirty treatment
+j	衒学的	衒学的	学問、知識を必要以上にひけらかすさま。
+j	衒学者	衒学者	
+j	褒める	褒める	to praise; to speak highl…
+j	褒奨金	褒奨金	
+j	角切り	角切り	物を立方体に切ること。また、そのようなもの。
+j	角島鯨	角島鯨	Omura's whale
+j	角度計	角度計	物体の傾きや二面の間の角度を測定する機器。
+j	角括弧	角括弧	a square bracket
+j	角目鳥	角目鳥	a horned puffin
+j	角砂糖	角砂糖	sugar cube
+j	角礫岩	角礫岩	breccia
+j	角膜炎	角膜炎	keratitis
+j	角質化	角質化	表皮の細胞にケラチンが沈着することで固くなること。…
+j	角距離	角距離	角度で表した天球上での距離。
+j	角速度	角速度	angular velocity
+j	角閃石	角閃石	amphibole
+j	角隠し	角隠し	a kind of bridal headdres…
+j	酒々井	酒々井	Shisui (a town in Inba di…
+j	酒かす	酒かす	酒粕: sake lees
+j	酒合戦	酒合戦	
+j	酒好き	酒好き	
+j	酒断ち	酒断ち	abstinence from alcohol
+j	酒石酸	酒石酸	tartaric acid
+j	酒造家	酒造家	酒造を業とする人。また、そのような家。
+j	酒面雁	酒面雁	swan goose, Anser cygnoid…
+j	酒飲み	酒飲み	heavy or habitual drinker…
+j	青い州	青い州	
+j	青い血	青い血	
+j	青ひげ	青ひげ	
+j	青ヶ島	青ヶ島	an island of the Izu Isla…
+j	青二才	青二才	若くて未熟であること。
+j	青信号	青信号	green light of traffic li…
+j	青写真	青写真	cyanotype
+j	青化物	青化物	synonym of シアン化物 (shian k…
+j	青壮年	青壮年	青年と壮年
+j	青大将	青大将	Japanese rat snake (Elaph…
+j	青天井	青天井	blue sky
+j	青天目	青天目	a surname
+j	青少年	青少年	a youth or young person
+j	青山鵲	青山鵲	
+j	青年団	青年団	一定の地域内に居住する青年期の人達で組織された自治…
+j	青年期	青年期	adolescence (period betwe…
+j	青年誌	青年誌	青年向けの情報を掲載した雑誌。
+j	青懸巣	青懸巣	a blue jay
+j	青文字	青文字	aromatic litsea, Litsea c…
+j	青春期	青春期	青年期。
+j	青東鳥	青東鳥	
+j	青果商	青果商	青果を売る人
+j	青果店	青果店	青果を販売する店。
+j	青果業	青果業	野菜や果物を仕入れて販売する事業。
+j	青果物	青果物	生の野菜や果物の総称。
+j	青梗菜	青梗菜	bok choy
+j	青森市	青森市	青森県の県庁所在地。中核市。
+j	青森県	青森県	a prefecture in 東北 (Tōhok…
+j	青歯王	青歯王	
+j	青海亀	青海亀	a green sea turtle
+j	青海原	青海原	the vast, blue ocean
+j	青瓦台	青瓦台	（2022年まで大韓民国の大統領官邸のあった場所の…
+j	青画面	青画面	ブルースクリーン。
+j	青白い	青白い	pallid, wan, pale
+j	青磁色	青磁色	
+j	青紫蘇	青紫蘇	シソの品種の一つで、草全体が緑色のもの。実や葉は食…
+j	青緑色	青緑色	
+j	青翡翠	青翡翠	
+j	青酸塩	青酸塩	synonym of シアン化物 (shian k…
+j	青野菜	青野菜	色の濃い葉物野菜。
+j	青金石	青金石	lazurite, one of the main…
+j	青銅器	青銅器	bronzeware
+j	青銅色	青銅色	
+j	青電話	青電話	電話ボックスなどの本体が青（実際は緑色）の公衆電話。
+j	青電車	青電車	（次が最終電車であることを示すために列車標識を青く…
+j	青鶏頭	青鶏頭	red-root amaranth, Amaran…
+j	饒舌な	饒舌な	
+j	饒舌家	饒舌家	a garrulous person
+j	駒ヶ根	駒ヶ根	a city in Nagano Prefectu…
+j	駒実子	駒実子	a female given name
+j	騒がす	騒がす	annoy, disturb
+j	鬒髪の	鬒髪の	
+j	鮒寿司	鮒寿司	funazushi, a type of nare…
+j	鱒の介	鱒の介	chinook salmon; king salm…
+j	麒麟児	麒麟児	child prodigy
+j	麒麟座	麒麟座	きりん座。
+j	麒麟竭	麒麟竭	タイ半島からマレー群島区系西部にかけて分布するヤシ…
+j	麒麟菜	麒麟菜	Eucheuma denticulatum
+j	麒麟血	麒麟血	
+j	黒い雨	黒い雨	black rain (radioactive r…
+j	黒ずむ	黒ずむ	to turn dark; to blacken
+j	黒ばむ	黒ばむ	to be tingled with black;…
+j	黒んぼ	黒んぼ	
+j	黒ん坊	黒ん坊	日焼けなどで肌の色が黒い人。
+j	黒丸鴉	黒丸鴉	
+j	黒人の	黒人の	
+j	黒伝票	黒伝票	取引伝票のうち（赤伝票に対する）通常の伝票を意味す…
+j	黒吐病	黒吐病	「黄熱」のこと。
+j	黒字で	黒字で	
+j	黒巫女	黒巫女	A dark priestess
+j	黒慈姑	黒慈姑	Eleocharis kuroguwai, a k…
+j	黒手党	黒手党	
+j	黒曜石	黒曜石	obsidian
+j	黒梶木	黒梶木	
+j	黒歌鳥	黒歌鳥	a common blackbird
+j	黒歴史	黒歴史	events or things from the…
+j	黒死病	黒死病	Black Death
+j	黒泥土	黒泥土	
+j	黒海馬	黒海馬	a estuary seahorse, Hippo…
+j	黒狐猿	黒狐猿	a black lemur
+j	黒猩々	黒猩々	chimpanzee
+j	黒猩猩	黒猩猩	「チンパンジー」の別名。
+j	黒疣茸	黒疣茸	
+j	黒眼鏡	黒眼鏡	black-framed glasses
+j	黒砂糖	黒砂糖	brown sugar (partially re…
+j	黒社会	黒社会	gang in China
+j	黒神子	黒神子	A dark priestess
+j	黒種草	黒種草	
+j	黒竜江	黒竜江	Heilongjiang (a province …
+j	黒胡椒	黒胡椒	black pepper
+j	黒脚病	黒脚病	
+j	黒色の	黒色の	
+j	黒色腫	黒色腫	melanoma
+j	黒褐色	黒褐色	黒みがかった褐色
+j	黒長蟻	黒長蟻	Messor aciculatus, a spec…
+j	黒雲母	黒雲母	花崗岩などに見られる普通は六角柱～六角板状の黒い鉱…
+j	黒雷鳥	黒雷鳥	
+j	黒電話	黒電話	rotary dial telephone
+j	黒騎士	黒騎士	
+j	黒髪の	黒髪の	
+j	黒魔法	黒魔法	
+j	黒魔術	黒魔術	black magic, bad/evil mag…
+k	각도기	角度器	각도를 재는 도구.
+k	각력암	角䃯岩	
+k	각력암	角礫岩	
+k	각설탕	角雪糖	sugar cube, sugar lump
+k	거마창	拒馬槍	
+k	거부감	拒否感	abhorrence
+k	거부권	拒否権	
+k	거부권	拒否權	
+k	계엄령	戒厳令	order declaring martial l…
+k	계엄령	戒嚴令	order declaring martial l…
+k	독극물	毒劇物	toxic chemicals
+k	독물학	毒物学	
+k	독물학	毒物學	
+k	독하다	毒하다	to be noxious; to be pois…
+k	매개물	媒介物	
+k	모험가	冒険家	adventurer
+k	모험가	冒險家	adventurer
+k	모험담	冒険談	adventure story
+k	모험담	冒險談	adventure story
+k	몰상식	沒常識	lack of common sense
+k	배기관	排気管	exhaust pipe
+k	배기관	排氣管	exhaust pipe
+k	배수관	排水管	drainpipe
+k	배출구	排出口	outlet
+k	봉고도	棒高跳	
+k	살수기	撒水器	sprinkler
+k	서정시	抒情詩	sentimental poetry, lyric…
+k	소각로	燒却爐	
+k	습관적	習慣的	habitual; inveterate
+k	습득력	習得力	The ability to learn. It …
+k	원예사	園芸師	gardener, horticulturist
+k	원예사	園藝師	gardener, horticulturist
+k	졸업생	卒業生	graduate; alumnus
+k	졸업식	卒業式	graduation ceremony; comm…
+k	졸업장	卒業状	diploma
+k	졸업장	卒業狀	diploma
+k	주령구	酒令具	14-sided die from the Sil…
+k	주전자	酒煎子	kettle, teakettle
+k	주전재	酒煎子	Pyongan, Hamgyong, and Ga…
+k	찬탈자	簒奪者	
+k	청금석	青金石	lapis lazuli
+k	초시계	秒時計	stopwatch
+k	치경음	齒莖音	alveolar
+k	포상금	褒賞金	reward; prize money
+k	항상성	恒常性	생체가 여러 가지 환경 변화에 대응하여 생명 …
+k	항성계	恒星系	star system
+k	항성년	恒星年	
+k	항성풍	恒星風	
+k	호환성	互換性	compatibility
+k	황무지	荒蕪地	badlands; wastes, wastela…
+k	흑기사	黒騎士	black knight
+k	흑룡강	黒竜江	Amur River, Heilong Jiang…
+k	흑마술	黒巫術	
+k	흑사병	黒死病	Black Death
+k	흑삼릉	黒三稜	branched bur-reed (Sparga…
+k	흑색종	黒色腫	melanoma
+k	흑색증	黒色症	melanism
+k	흑설탕	黒雪糖	brown sugar (partially re…
+k	흑역사	黒歴史	a shameful event or perio…
+j	互いに素	互いに素	coprime (having no factor…
+j	互変異性	互変異性	
+j	倒せない	倒せない	
+j	倒産した	倒産した	
+j	倒産する	倒産する	
+j	儒林外史	儒林外史	The Scholars; Unofficial …
+j	冒涜する	冒涜する	
+j	冒険主義	冒険主義	
+j	冒険小説	冒険小説	冒険を通して主人公が未知の領域への挑戦や成長してい…
+j	冒険的な	冒険的な	
+j	冒雨剪韭	冒雨剪韭	来訪した友人を厚くもてなすこと。「雨を冒して韭（韮…
+j	卒園制作	卒園制作	幼稚園や保育園、認定こども園の年長が卒園を記念して…
+j	卒園文集	卒園文集	卒園生一人一人や保護者、教員や保育士が書き、卒園生…
+j	卒園証書	卒園証書	幼稚園や保育園、認定こども園の教育課程を修了したこ…
+j	卒業する	卒業する	
+j	卒業制作	卒業制作	卒業をするための制作。
+j	卒業文集	卒業文集	卒業生一人一人が書き、卒業生に配布する文集。
+j	卒業研究	卒業研究	卒業をするための研究。
+j	卒業設計	卒業設計	卒業をするための設計。
+j	卒業証書	卒業証書	diploma
+j	卒業試験	卒業試験	graduation examination
+j	卒業論文	卒業論文	卒業をするための論文。
+j	園芸品種	園芸品種	
+j	園芸学者	園芸学者	園芸学を研究する科学者。
+j	園芸農業	園芸農業	花や野菜などを、主に大消費地である都市向けに生産を…
+j	埒が明く	埒が明く	to make good progress; to…
+j	媒介変数	媒介変数	変数間の関数関係を間接的に表示するために補助的に用…
+j	寒いです	寒いです	
+j	寒の戻り	寒の戻り	春先に再び寒くなる現象。春の季語。
+j	寒中水泳	寒中水泳	寒中または冬の寒い時期に行う水泳。
+j	寒冷前線	寒冷前線	cold front
+j	寒天培地	寒天培地	nutrient agar
+j	徒口念仏	徒口念仏	口先だけで信仰心のない念仏。
+j	徒手空拳	徒手空拳	手に何も持っていないこと。
+j	徒歩旅行	徒歩旅行	乗り物に乗らずに歩いて目的地に行く旅行。
+j	怒らせる	怒らせる	
+j	怒り出す	怒り出す	
+j	恒久不変	恒久不変	いつまでも変わらず残り続けること。
+j	恒温動物	恒温動物	周囲の温度が変化しても体温を一定に保つことができる…
+j	恒等写像	恒等写像	（数学）始域と終域が同一で、入力をそのまま出力とし…
+j	拒否する	拒否する	
+j	拒否反応	拒否反応	synonym of 拒絶反応 (kyozetsu…
+j	拒絶する	拒絶する	
+j	拒絶反応	拒絶反応	transplant rejection
+j	排便する	排便する	
+j	排出器官	排出器官	動物の器官のうち、排泄物の排出を司るもの。
+j	排外主義	排外主義	外国人、外国の思想や文化、様式などを嫌い、排斥しよ…
+j	排尿する	排尿する	
+j	排斥する	排斥する	
+j	排気ガス	排気ガス	内燃機関で、使用されて排出された気体。
+j	排泄する	排泄する	
+j	排泄器官	排泄器官	動物の器官のうち、排出物の排泄を司るもの。
+j	排除する	排除する	
+j	棒に振る	棒に振る	to squander; to ruin
+j	棒グラフ	棒グラフ	a bar graph
+j	棒手裏剣	棒手裏剣	A stick or 'throwing bolt…
+j	棒状土錘	棒状土錘	（考古学） 土器の錘（おもり）で、短い棒の形をした…
+j	棒高跳び	棒高跳び	棒の反発力によりバーを跳び越える高さを競う陸上競技。
+j	毒々しい	毒々しい	appearing poisonous
+j	毒を吐く	毒を吐く	"to spit poison": to say …
+j	毒害する	毒害する	
+j	毒性学者	毒性学者	毒性学を研究する科学者。
+j	毒殺する	毒殺する	
+j	毒物学者	毒物学者	毒物学を研究する科学者。
+j	毒理学者	毒理学者	毒理学を研究する科学者。
+j	毒薬条項	毒薬条項	poison pill
+j	痒み止め	痒み止め	antipruritic
+j	砒化する	砒化する	
+j	砒化水素	砒化水素	arsine
+j	窒息する	窒息する	
+j	窒素循環	窒素循環	nitrogen cycle
+j	簒奪する	簒奪する	
+j	粒粒辛苦	粒粒辛苦	農夫が米を作るには、一粒一粒にも大変な苦労がかけら…
+j	荒々しい	荒々しい	
+j	荒っぽい	荒っぽい	rough, violent, not subtle
+j	荒れ模様	荒れ模様	天候が荒れそうな様子であること。
+j	荒れ狂う	荒れ狂う	
+j	荒唐無稽	荒唐無稽	absurd; nonsensical
+j	荒荒しい	荒荒しい	rude; harsh; violent
+j	袒裼裸裎	袒裼裸裎	(四字熟語)非常に無礼な振る舞いのこと。また、その…
+j	褒め殺し	褒め殺し	
+j	褒賞する	褒賞する	
+j	角加速度	角加速度	単位時間についての角速度の変化。
+j	角運動量	角運動量	位置と運動量の外積で、回転の勢いを表す物理量。
+j	讒言する	讒言する	
+j	酒が回る	酒が回る	宴席や酒席などで、居合わせた人全員に酒が行き渡るこ…
+j	酒呑童子	酒呑童子	an 鬼 (oni, “ogre; demon”)…
+j	酒池肉林	酒池肉林	［原義］ はしたなく奢侈な酒宴。過度な贅沢さで（飲…
+j	青い惑星	青い惑星	
+j	青ざめた	青ざめた	
+j	青リンク	青リンク	
+j	青丹よし	青丹よし	allusion to 奈良 (Nara, a p…
+j	青化カリ	青化カリ	synonym of シアン化カリウム (shia…
+j	青年運動	青年運動	青年を中心にして行われる社会的な運動。
+j	青息吐息	青息吐息	a sigh of suffering
+j	青文字系	青文字系	Being individualistic and…
+j	青春時代	青春時代	youth (part of life follo…
+j	青椒肉絲	青椒肉絲	pepper steak
+j	青空市場	青空市場	open-air market
+j	青空教室	青空教室	戦後、校舎が空襲や被爆で焼失したために教室の代わり…
+j	青色巨星	青色巨星	blue giant
+j	青菜に塩	青菜に塩	depressed
+j	青褪める	青褪める	turn pale, usually in one…
+j	青酸カリ	青酸カリ	synonym of シアン化カリウム (shia…
+j	青銅色の	青銅色の	
+j	青銅製の	青銅製の	
+j	青首大根	青首大根	宮重大根の一代雑種（F1）で、抽根性が高いため可食…
+j	騒々しい	騒々しい	noisy, boisterous
+j	騒がしい	騒がしい	noisy
+j	騒音公害	騒音公害	
+j	騒騒しい	騒騒しい	音や声などがやかましい。騒がしい。うるさい。
+j	麒麟羚羊	麒麟羚羊	Litocranius walleri: a ge…
+j	黒っぽい	黒っぽい	dark, blackish
+j	黒シャツ	黒シャツ	
+j	黒ボク土	黒ボク土	
+j	黒人英語	黒人英語	African American Vernacul…
+j	黒体放射	黒体放射	black-body radiation
+j	黒坂石犬	黒坂石犬	日本犬の犬種の一つで群馬県原産。現在は絶滅。
+j	黒板拭き	黒板拭き	
+j	黒板消し	黒板消し	黒板にチョークで描かれた図形や文字などを消すのに使…
+j	黒田清隆	黒田清隆	明治時代から大正時代の日本の政治家・教育者。184…
+j	黒腹鯵刺	黒腹鯵刺	
+j	黒色人種	黒色人種	the black race; a racial …
+j	黒色矮星	黒色矮星	black dwarf
+j	黒襟白鳥	黒襟白鳥	a black-necked swan
+j	黒魔術師	黒魔術師	
+k	기린영양	麒麟羚羊	gerenuk
+k	노승발검	怒蝿抜劒	
+k	노승발검	怒蠅拔劒	
+k	매개변수	媒介変数	수학에서 두 변수를 묶어주는 변수.
+k	매개변수	媒介變數	수학에서 두 변수를 묶어주는 변수.
+k	습득하다	習得하다	to acquire; to learn
+k	아동 학대	兒童虐待	자기의 보호 또는 감독을 받는 18세 미만의 …
+k	주색잡기	酒色雑技	wine, women and gambling;…
+k	주색잡기	酒色雜技	wine, women and gambling;…
+k	치과의사	齒科醫師	
+k	항온동물	恒温動物	homeotherm, homoiothermic…
+k	항온동물	恒溫動物	homeotherm, homoiothermic…
+k	흑기러기	黒기러기	The brent goose, Branta b…
+j	冒険好きな	冒険好きな	
+j	冒険遊び場	冒険遊び場	年少の子供よりは年長の子供向けの、多少の危険を伴う…
+j	卒業制作展	卒業制作展	卒業制作で完成した作品を展示する発表会。
+j	卒業設計展	卒業設計展	卒業設計で完成した作品を展示する発表会。
+j	埒が明かぬ	埒が明かぬ	物事が片付かない。
+j	寒中見舞い	寒中見舞い	小寒から立春の前日の寒中に知人や親類に訪問や手紙な…
+j	徒党を組む	徒党を組む	同じ目的を持つ者同士が団結し、集まる。
+j	怒りっぽい	怒りっぽい	
+j	怒りを遷す	怒りを遷す	to lash out, vent one's a…
+j	撒き散らす	撒き散らす	to scatter, spread around
+j	棒渦巻銀河	棒渦巻銀河	a barred spiral galaxy
+j	毒を含んだ	毒を含んだ	
+j	秒読みする	秒読みする	
+j	窒息させる	窒息させる	
+j	窒息しそう	窒息しそう	
+j	粒子加速器	粒子加速器	a particle accelerator
+j	粒子状物質	粒子状物質	
+j	習慣づける	習慣づける	to make a habit of, to ge…
+j	荒廃させる	荒廃させる	
+j	荒涼とした	荒涼とした	
+j	褒めそやす	褒めそやす	
+j	褒め称える	褒め称える	extol, laud, praise highly
+j	酒酔い運転	酒酔い運転	
+j	青函連絡船	青函連絡船	a ferry connecting Aomori…
+j	青天の霹靂	青天の霹靂	out of the blue, bolt fro…
+j	青色超巨星	青色超巨星	blue supergiant
+j	青酸化合物	青酸化合物	synonym of シアン化物 (shian k…
+j	青銅器時代	青銅器時代	the Bronze Age
+j	駒を進める	駒を進める	advance
+j	黒こしょう	黒こしょう	black pepper
+j	黒カイマン	黒カイマン	a black caiman
+j	黒コショウ	黒コショウ	black pepper
+j	黒人恐怖症	黒人恐怖症	
+j	黒崖地蜘蛛	黒崖地蜘蛛	black house spider
+j	黒後家蜘蛛	黒後家蜘蛛	southern black widow (Lat…
+j	黒白冠郭公	黒白冠郭公	
+k	립자가속기	粒子加速器	
+k	아동 성매매	兒童性賣買	
+k	원장	園長/院長	director
+k	입자가속기	粒子加速器	particle accelerator
+k	입자물리학	粒子物理学	particle physics
+k	입자물리학	粒子物理學	particle physics
+k	치경구개음	齒莖口蓋音	alveolopalatal
+k	치과위생사	齒科衛生士	
+j	卒園アルバム	卒園アルバム	幼稚園や保育園、認定こども園などの卒園の際、卒園生…
+j	卒業アルバム	卒業アルバム	学校などの卒業の際、卒業生に記念として作成、配布さ…
+j	埒が明かない	埒が明かない	
+j	怒髪冠を衝く	怒髪冠を衝く	激しい怒りのあまりに毛髪が逆立った様子。
+j	怒髪天を衝く	怒髪天を衝く	「怒髪冠を衝く」に同じ。
+j	怒鳴り付ける	怒鳴り付ける	
+j	排他的論理和	排他的論理和	
+j	棒引きにする	棒引きにする	
+j	棒高跳び選手	棒高跳び選手	
+j	痒みを生じる	痒みを生じる	
+j	砒化ガリウム	砒化ガリウム	砒素とガリウムを反応させて得る化合物。金属光沢のあ…
+j	縒り合わせる	縒り合わせる	twist (threads) together,…
+j	酒は百薬の長	酒は百薬の長	good wine makes good bloo…
+j	酒気帯び運転	酒気帯び運転	飲酒し体にアルコールが残った状態で車両を運転するこ…
+j	青函トンネル	青函トンネル	Seikan Tunnel, a railway …
+j	青筋を立てる	青筋を立てる	激しく怒った時などに、顔に青筋を現す。
+k	황당무계하다	荒唐無稽하다	to be nonsensical, to be …
+j	排他的経済水域	排他的経済水域	exclusive economic zone
+j	習うより慣れよ	習うより慣れよ	
+j	習うより慣れろ	習うより慣れろ	experience is the best te…
+j	角運動量保存則	角運動量保存則	外力が働かない限り角運動量は時間によらず一定である…
+j	酒は憂いの玉箒	酒は憂いの玉箒	酒は心の悩みを払いのけるすばらしいほうきのようなも…
+k	유착성 관절낭염	癒着性関節嚢炎	
+k	유착성 관절낭염	癒着性關節囊炎	
+j	拒否権を発動する	拒否権を発動する	
+j	拒否権を行使する	拒否権を行使する	
+j	炒り豆の花が咲く	炒り豆の花が咲く	teaching an old dog new t…
+j	酒の中に真理あり	酒の中に真理あり	
+j	青天白日満地紅旗	青天白日満地紅旗	中華民国の国旗。
+j	毒を喰らわば皿まで	毒を喰らわば皿まで	
+j	毒を食らわば皿まで	毒を食らわば皿まで	どうせ毒を食ったのならば、皿まで舐ってしまうように…
+j	毒物劇物取扱責任者	毒物劇物取扱責任者	毒物や劇物を扱う事業所での保健衛生上の危害を防止す…
+j	粒子と波動の二重性	粒子と波動の二重性	
+j	角を矯めて牛を殺す	角を矯めて牛を殺す	(ある対象物に対して)手を加え過ぎて、結果的に全体…
+j	毒にも薬にもならない	毒にも薬にもならない	
+j	酒に酔うと本音が出る	酒に酔うと本音が出る	
+j	酒なくて何の己が桜かな	酒なくて何の己が桜かな	酒のない花見は面白くないということ。
+j	青は藍より出でて藍より青し	青は藍より出でて藍より青し	the student has surpassed…

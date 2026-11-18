@@ -1,0 +1,32 @@
+e	lye	lye	1 meaning
+e	lycée	lyce	1 meaning
+e	lynx	lynx	1 meaning
+e	lyon	lyon	1 meaning
+e	lyra	lyra	1 meaning
+e	lyre	lyre	1 meaning
+e	élysée	lyse	1 meaning
+e	lydia	lydia	2 meanings
+e	lyman	lyman	1 meaning
+e	lymph	lymph	1 meaning
+e	lynch	lynch	1 meaning
+e	lyceum	lyceum	1 meaning
+e	lychee	lychee	2 meanings
+e	lyrics	lyrics	1 meaning
+e	lysine	lysine	1 meaning
+e	lyxose	lyxose	1 meaning
+e	lymphoma	lymphoma	1 meaning
+e	lynching	lynching	1 meaning
+e	lyrebird	lyrebird	1 meaning
+e	lyricism	lyricism	1 meaning
+e	lyricist	lyricist	1 meaning
+e	lysithea	lysithea	1 meaning
+e	lysosome	lysosome	1 meaning
+e	lymph node	lymphnode	1 meaning
+e	lymphocyte	lymphocyte	1 meaning
+e	lysychansk	lysychansk	1 meaning
+e	lyakhavichy	lyakhavichy	1 meaning
+e	lyme disease	lymedisease	1 meaning
+e	lymph vessel	lymphvessel	1 meaning
+e	lyric poetry	lyricpoetry	1 meaning
+e	lysergic acid	lysergicacid	1 meaning
+e	lymphatic system	lymphaticsystem	1 meaning

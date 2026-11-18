@@ -1,0 +1,189 @@
+e	flu	flu	1 meaning
+e	fly	fly	7 meanings
+e	flag	flag	3 meanings
+e	flan	flan	1 meaning
+e	flap	flap	1 meaning
+e	flat	flat	5 meanings
+e	flaw	flaw	2 meanings
+e	flax	flax	1 meaning
+e	flay	flay	1 meaning
+e	flea	flea	1 meaning
+e	flee	flee	2 meanings
+e	flex	flex	1 meaning
+e	floe	floe	1 meaning
+e	flog	flog	1 meaning
+e	flop	flop	1 meaning
+e	flow	flow	2 meanings
+e	flux	flux	3 meanings
+e	flail	flail	3 meanings
+e	flake	flake	1 meaning
+e	flaky	flaky	1 meaning
+e	flambé	flamb	3 meanings
+e	flame	flame	6 meanings
+e	flank	flank	2 meanings
+e	flash	flash	2 meanings
+e	flask	flask	1 meaning
+e	fleet	fleet	1 meaning
+e	flesh	flesh	4 meanings
+e	flick	flick	1 meaning
+e	fling	fling	1 meaning
+e	flint	flint	1 meaning
+e	flirt	flirt	2 meanings
+e	float	float	10 meanings
+e	flock	flock	3 meanings
+e	flood	flood	4 meanings
+e	floor	floor	2 meanings
+e	flora	flora	3 meanings
+e	flour	flour	2 meanings
+e	fluid	fluid	1 meaning
+e	fluke	fluke	1 meaning
+e	flunk	flunk	1 meaning
+e	flush	flush	1 meaning
+e	flute	flute	2 meanings
+e	flyer	flyer	1 meaning
+e	flavor	flavor	3 meanings
+e	flaxen	flaxen	2 meanings
+e	fleece	fleece	4 meanings
+e	flight	flight	5 meanings
+e	flinch	flinch	1 meaning
+e	floppy	floppy	2 meanings
+e	floral	floral	1 meaning
+e	floréal	floral	1 meaning
+e	flower	flower	2 meanings
+e	fluent	fluent	1 meaning
+e	fluffy	fluffy	3 meanings
+e	fly ash	flyash	1 meaning
+e	flagman	flagman	1 meaning
+e	flannel	flannel	1 meaning
+e	flare up	flareup	1 meaning
+e	flatten	flatten	1 meaning
+e	flatter	flatter	1 meaning
+e	flavedo	flavedo	1 meaning
+e	flemish	flemish	1 meaning
+e	flicker	flicker	1 meaning
+e	flipper	flipper	2 meanings
+e	florida	florida	1 meaning
+e	florist	florist	1 meaning
+e	flubber	flubber	1 meaning
+e	fluency	fluency	3 meanings
+e	fluffer	fluffer	1 meaning
+e	flutter	flutter	1 meaning
+e	fly ball	flyball	1 meaning
+e	flyleaf	flyleaf	1 meaning
+e	flagpole	flagpole	1 meaning
+e	flagship	flagship	1 meaning
+e	flamenco	flamenco	1 meaning
+e	flamingo	flamingo	1 meaning
+e	flanders	flanders	7 meanings
+e	flash mob	flashmob	1 meaning
+e	flashgun	flashgun	1 meaning
+e	flat tyre	flattyre	1 meaning
+e	flatfish	flatfish	1 meaning
+e	flatfoot	flatfoot	1 meaning
+e	flathead	flathead	1 meaning
+e	flatmate	flatmate	2 meanings
+e	flattery	flattery	1 meaning
+e	flatworm	flatworm	1 meaning
+e	flautist	flautist	1 meaning
+e	flawless	flawless	1 meaning
+e	fleeting	fleeting	1 meaning
+e	flexible	flexible	1 meaning
+e	flip book	flipbook	1 meaning
+e	flip-flop	flipflop	2 meanings
+e	flippant	flippant	1 meaning
+e	flogging	flogging	1 meaning
+e	florence	florence	2 meanings
+e	florist's	florists	1 meaning
+e	flotilla	flotilla	1 meaning
+e	flounder	flounder	1 meaning
+e	flourish	flourish	3 meanings
+e	fluently	fluently	1 meaning
+e	fluidity	fluidity	1 meaning
+e	fluorene	fluorene	1 meaning
+e	fluoride	fluoride	1 meaning
+e	fluorine	fluorine	1 meaning
+e	fluorite	fluorite	1 meaning
+e	flypaper	flypaper	1 meaning
+e	flywheel	flywheel	1 meaning
+e	flagellum	flagellum	2 meanings
+e	flagstone	flagstone	2 meanings
+e	flamberge	flamberge	1 meaning
+e	flash-bang	flashbang	1 meaning
+e	flashback	flashback	1 meaning
+e	flashcard	flashcard	2 meanings
+e	flashover	flashover	1 meaning
+e	flattered	flattered	1 meaning
+e	flatterer	flatterer	1 meaning
+e	flatulist	flatulist	1 meaning
+e	flavoring	flavoring	1 meaning
+e	flerovium	flerovium	1 meaning
+e	flevoland	flevoland	1 meaning
+e	floor lamp	floorlamp	1 meaning
+e	flow chart	flowchart	1 meaning
+e	flowerbed	flowerbed	1 meaning
+e	flowerpot	flowerpot	1 meaning
+e	fly agaric	flyagaric	1 meaning
+e	flying ace	flyingace	1 meaning
+e	flying fox	flyingfox	1 meaning
+e	flamboyant	flamboyant	1 meaning
+e	flank steak	flanksteak	1 meaning
+e	flash drive	flashdrive	1 meaning
+e	flash flood	flashflood	1 meaning
+e	flashlight	flashlight	1 meaning
+e	flatulence	flatulence	1 meaning
+e	flea market	fleamarket	1 meaning
+e	fleshlight	fleshlight	1 meaning
+e	fleur-de-lis	fleurdelis	1 meaning
+e	flight deck	flightdeck	1 meaning
+e	flight plan	flightplan	1 meaning
+e	floodplain	floodplain	1 meaning
+e	floppy disk	floppydisk	1 meaning
+e	flugelhorn	flugelhorn	1 meaning
+e	fluoxetine	fluoxetine	1 meaning
+e	fly fishing	flyfishing	1 meaning
+e	flying boat	flyingboat	1 meaning
+e	flying fish	flyingfish	1 meaning
+e	flyswatter	flyswatter	1 meaning
+e	flag carrier	flagcarrier	1 meaning
+e	flash memory	flashmemory	1 meaning
+e	flat-chested	flatchested	1 meaning
+e	flaxseed oil	flaxseedoil	1 meaning
+e	flexibility	flexibility	1 meaning
+e	floppy drive	floppydrive	1 meaning
+e	florida keys	floridakeys	1 meaning
+e	fluconazole	fluconazole	1 meaning
+e	fluctuation	fluctuation	2 meanings
+e	fluorescent	fluorescent	1 meaning
+e	fluoroalkyl	fluoroalkyl	1 meaning
+e	fluorophore	fluorophore	1 meaning
+e	fluoroscopy	fluoroscopy	1 meaning
+e	flush toilet	flushtoilet	1 meaning
+e	flying white	flyingwhite	1 meaning
+e	flamethrower	flamethrower	1 meaning
+e	flammability	flammability	1 meaning
+e	flight number	flightnumber	1 meaning
+e	floating vote	floatingvote	1 meaning
+e	florianópolis	florianpolis	1 meaning
+e	floriculture	floriculture	1 meaning
+e	floriography	floriography	1 meaning
+e	flower garden	flowergarden	1 meaning
+e	flowerpecker	flowerpecker	1 meaning
+e	fluorescence	fluorescence	1 meaning
+e	flying saucer	flyingsaucer	1 meaning
+e	flag semaphore	flagsemaphore	1 meaning
+e	floating point	floatingpoint	1 meaning
+e	fluorobenzene	fluorobenzene	1 meaning
+e	fluoromethane	fluoromethane	1 meaning
+e	flying machine	flyingmachine	1 meaning
+e	flathead mullet	flatheadmullet	1 meaning
+e	floating market	floatingmarket	1 meaning
+e	florida panther	floridapanther	1 meaning
+e	fluid mechanics	fluidmechanics	1 meaning
+e	flying dutchman	flyingdutchman	1 meaning
+e	flying fortress	flyingfortress	1 meaning
+e	flying squirrel	flyingsquirrel	1 meaning
+e	flight attendant	flightattendant	1 meaning
+e	fluorescent lamp	fluorescentlamp	1 meaning
+e	flight data recorder	flightdatarecorder	1 meaning
+e	floating-point number	floatingpointnumber	1 meaning
+e	flying spaghetti monster	flyingspaghettimonster	1 meaning

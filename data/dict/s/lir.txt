@@ -1,0 +1,546 @@
+e	ire	ire	1 meaning
+j	いら	ira	kinship through the same …
+j	いり	iri	中に入ること。
+j	いる	iru	to exist, to be
+j	いれ	ire	株の信用取引で、空売りした株が上がった時に、損を承…
+j	いろ	iro	kinship through the same …
+j	入	iri	entering, going in
+j	圦	iri	underground sluice
+j	射る	iru	shoot
+j	居る	iru	
+j	慰労	iro	recognition of one's serv…
+j	炒る	iru	
+j	煎る	iru	fry, broil
+j	率る	iru	to take along with
+j	胃瘻	iro	嚥下が困難な場合などに体表と胃とを直接管で繋いだ状…
+j	色	iro	color
+j	要る	iru	to be necessary, to be ne…
+j	遺利	iri	人が何かをした後の取り残した利益。
+j	鋳る	iru	cast, mint
+k	이레	ire	seven days
+k	이루	iru	possibly (only used with …
+k	이리	iri	to this place, hither, he…
+k	일이	iri	one or two
+e	iran	iran	1 meaning
+e	iraq	iraq	1 meaning
+e	iris	iris	4 meanings
+e	iron	iron	4 meanings
+j	いらい	irai	
+j	いらう	irau	答える。返事をする。
+j	いらえ	irae	〔稀〕 返事。返答。
+j	いりえ	irie	海岸や湖の一部が陸に入り込んでいる場所。入り海。
+j	いろん	iron	異論: objection, differing …
+j	イラン	iran	Iran (a country in West A…
+j	以来	irai	since
+j	伊蘭	iran	イランの日本語による漢字表記。
+j	依賴	irai	
+j	依頼	irai	a request
+j	入り江	irie	inlet, creek, sound (long…
+j	入り王	irio	「入玉」に同じ。
+j	入江	irie	inlet
+j	入王	irio	「入り王」の異表記。
+j	医療	iryo	medical treatment
+j	帷簾	iren	簾。
+j	幃簾	iren	簾。
+j	慰留	iryu	なだめて、ある行為を思い止まらせること。
+j	慰霊	irei	act of comforting the spi…
+j	漪漣	iren	さざなみ。
+j	異例	irei	rare, exceptional, unprec…
+j	異論	iron	objection, differing opin…
+j	移流	iryu	液体などの流体の中にある物質やエネルギーがその流体…
+j	色絵	iroe	colored drawing on porcel…
+j	衣料	iryo	clothing
+j	衣類	irui	clothing; clothes
+j	違戻	irei	道理に合わず間違っていること。反則。
+j	遺流	iryu	子孫。末裔。
+j	遺留	iryu	forgetting; leaving behind
+j	醫療	iryo	
+k	이란	iran	Iran (a country in West A…
+k	이래	irae	the time following a cert…
+k	이랴	irya	giddyup
+k	이론	iron	theory
+k	이류	iryu	
+k	이림	irim	Seoul, Jeolla dialect, Ch…
+k	이립	irip	
+k	일어	ireo	Japanese language
+k	일요	iryo	the Sun
+k	일익	irik	
+k	일인	irin	one person; someone
+k	일일	iril	everyday
+k	일임	irim	
+e	iraqi	iraqi	2 meanings
+e	iraqw	iraqw	1 meaning
+e	irene	irene	1 meaning
+e	irish	irish	4 meanings
+e	iroko	iroko	1 meaning
+e	irony	irony	1 meaning
+j	いりあい	iriai	【入会（法令など）、入合、入相】 村落の住民が、村…
+j	いりひ	irihi	入日: setting sun; evening …
+j	いりみ	irimi	合気道等で相手の攻撃から体を躱わして踏み込み相手の…
+j	いりめ	irime	入り目: expenses
+j	いるか	iruka	哺乳綱クジラ目ハクジラ亜目に属する水棲動物のうち、…
+j	いれこ	ireko	that which is nested
+j	いれば	ireba	入れ歯, 入歯: false tooth, den…
+j	いれる	ireru	（原義）外から中へ移動させる。
+j	いろあい	iroai	色の調子。色調。
+j	いろか	iroka	色と香り。
+j	いろけ	iroke	色合い。
+j	いろこ	iroko	鱗: scale (of a fish, rept…
+j	いろせ	irose	brother from the same mot…
+j	いろと	iroto	younger sibling born from…
+j	いろど	irodo	
+j	いろは	iroha	mother
+j	いろめ	irome	色の具合。色調。
+j	いろり	irori	家屋の床を四角に切り、灰を敷き詰めて、そこに薪や炭…
+j	イラガ	iraga	「刺蛾」の学術的表記。
+j	イラク	iraku	Iraq (a country in West A…
+j	イリアン	irian	「ニューギニア」のインドネシア語名。
+j	イリス	irisu	ギリシア神話の、虹の女神。
+j	イルカ	iruka	いるかの学術的表記。
+j	イルミ	irumi	「イルミネーション」の略。
+j	イロコ	iroko	クワ科の落葉高木の一種。学名: Milicia e…
+j	イーリス	irisu	
+j	イールド	irudo	利回り。
+j	入り用	iriyo	necessary
+j	入り目	irime	expenses
+j	入れる	ireru	to put (something) in
+j	入れ歯	ireba	synonym of 義歯 (gishi, “fa…
+j	入來	iriki	Iriki (a former town in S…
+j	入日	irihi	setting sun
+j	入歯	ireba	
+j	入相	iriai	sunset
+j	入間	iruma	Iruma (a city in Saitama …
+j	刺蛾	iraga	イラガ科の蛾。幼虫（いらむし）は毒を持ち、触ると痛…
+j	囲炉裏	irori	a traditional sunken hear…
+j	居留守	irusu	a pretend absence from ho…
+j	已里木	iriki	a surname
+j	怡楽	iraku	喜び、楽しむこと。
+j	慰楽	iraku	慰めと楽しみ。
+j	海豚	iruka	a dolphin or porpoise (th…
+j	淹れる	ireru	
+j	甍	iraka	
+j	色合い	iroai	colouring, coloring, shad…
+j	色気	iroke	coloring, shade of color
+j	鯆	iruka	
+k	이라고	irago	앞에 든 말을 직접 받아 인용할 때, 인용하는…
+k	이랑	irang	ridge (a small hill or pi…
+k	이런	ireon	like this; such
+k	이레네	irene	
+k	이루다	iruda	to create, form
+k	이루수	irusu	
+k	이륙	iryuk	takeoff
+k	이른	ireun	'이르다'의 관형사형.
+k	이름	ireum	name; full name
+k	이리의	iriui	
+k	이리호	iriho	
+k	일약	iryak	지위, 등급, 가격 따위가 단번에 높이 뛰어오…
+k	일억	ireok	10을 여덟 번 곱한 수.
+k	일원	irwon	a member
+k	일월	irwol	January
+k	일일이	iriri	한 사람씩 한 사람씩.
+e	iritis	iritis	1 meaning
+e	ironic	ironic	1 meaning
+e	irtysh	irtysh	1 meaning
+j	いらいら	iraira	irritatedly
+j	いらえる	iraeru	返事をする。返答する。
+j	いらち	irachi	「いらつ」の連用形。
+j	いらっと	iratto	irritatedly
+j	いらびぃ	irabii	
+j	いらぶん	irabun	
+j	いらーびん	irabin	
+j	いりうみ	iriumi	入海: bay; inlet; gulf; cre…
+j	いれいひ	ireihi	慰霊碑: cenotaph
+j	いろいろ	iroiro	種類がたくさんあること。また、そのさま。
+j	いろこい	irokoi	love (romance) and sex
+j	いろんな	ironna	さまざまな。色々な。
+j	イランの	iranno	
+j	イランド	irando	クジラ偶蹄目ウシ科イランド属に属する鯨偶蹄類の一種…
+j	イリアス	iriasu	
+j	イリオス	iriosu	
+j	イリッペ	irippe	
+j	イリノイ	irinoi	Illinois (a state of the …
+j	イレウス	ireusu	ileus
+j	イレブン	irebun	eleven
+j	イロイロ	iroiro	Iloilo (a province of the…
+j	イロンバ	ironba	熱帯アフリカ西部からアンゴラにかけて分布するニクズ…
+j	イーリアス	iriasu	the Iliad
+j	偉力	iryoku	非常に優れた力や効果。
+j	入れ替え	irekae	
+j	入れ知恵	irejie	他人に知恵を与えること。また、他人から教わった知恵。
+j	入海	iriumi	bay
+j	医療費	iryohi	医療を受けるためにかかる費用。
+j	威力	iryoku	power
+j	意力	iryoku	やり抜こうという意志の力。精神力。
+j	慰労会	irokai	function in recognition o…
+j	慰霊碑	ireihi	cenotaph
+j	色々	iroiro	various
+j	色んな	ironna	synonym of 色々な (iroiro na…
+j	色恋	irokoi	
+j	遺烈	iretsu	achievements of one's anc…
+k	이라크	irakeu	Iraq (a country in Asia)
+k	이란어	iraneo	synonym of 페르시아어 (pereusi…
+k	이란의	iranui	
+k	이란인	iranin	
+k	이러다	ireoda	to do this; to act in thi…
+k	이렇게	ireoke	like this, this way
+k	이렇다	ireota	like this; (to be) in thi…
+k	이력	iryeok	겪어 지내 온 학업이나 직업, 경험 따위의 발…
+k	이론가	ironga	
+k	이롭다	iropda	beneficial, advantageous
+k	이룡	iryong	
+k	이르다	ireuda	to be early
+k	이리더	irideo	
+k	이리스	iriseu	
+k	일왕	irwang	mikado (emperor of Japan)
+k	일요일	iryoil	Sunday
+k	일용	iryong	
+k	일인자	irinja	
+k	일일조	iriljo	
+e	iranian	iranian	2 meanings
+e	ireland	ireland	2 meanings
+e	iridium	iridium	1 meaning
+e	irkutsk	irkutsk	1 meaning
+e	iron age	ironage	1 meaning
+e	iron ore	ironore	1 meaning
+e	ironing	ironing	1 meaning
+j	いらいしょ	iraisho	依頼書: written request
+j	いらくさ	irakusa	イラクサ科の多年草。若芽は食用になるが、茎、葉のと…
+j	いらなみ	iranami	苛立つように忙しく小刻みに立つ波。
+j	いりくむ	irikumu	入り雑じる。
+j	いりむこ	irimuko	live-in son-in-law
+j	いりもの	irimono	中に入っているもの。
+j	いりもや	irimoya	入母屋: hip-gable roof
+j	いりやね	iriyane	漢字の部首「⼊」の呼称の一つ。
+j	いるか座	irukaza	Delphinus
+j	いれかけ	irekake	入掛: suspension (said of p…
+j	いれこむ	irekomu	押し込むように入れる。
+j	いれずみ	irezumi	a tattoo (an image made i…
+j	いれもの	iremono	物を入れるための器。容器。
+j	いろおとこ	irotoko	好色な男性。
+j	いろくず	irokuzu	鱗: scale (of a fish, rept…
+j	いろごと	irogoto	男女の間の情事。
+j	いろざと	irozato	遊郭。遊里。花街。
+j	いろじろ	irojiro	fair-skinned; fair
+j	いろすな	irosuna	日本壁の上塗りに用いる、有色の砂。
+j	いろっぽい	iroppoi	（主に女性が）異性を引き付ける魅力があるさま。
+j	いろづく	irozuku	果実が熟して色が変わる。
+j	いろどり	irodori	「いろどる」の連用形。
+j	いろどる	irodoru	着色、彩色する。
+j	いろみず	iromizu	colored (dyed) water
+j	いろめく	iromeku	時期が来て美しい色になる。
+j	イラクの	irakuno	
+j	イラク語	irakugo	The Iraqw language.
+j	イラスト	irasuto	illustration
+j	イラロジ	iraroji	
+j	イラン人	iranjin	Iranian (person)
+j	イリアン島	irianto	「ニューギニア」を参照。
+j	イリッシュ	irisshu	
+j	イリュリア	iryuria	Illyria (a vaguely-define…
+j	依頼人	irainin	仕事の依頼を行う客。依頼者。
+j	依頼書	iraisho	written request
+j	依頼者	iraisha	物事の処理を頼む人。依頼人。
+j	入り婿	irimuko	
+j	入り込む	irikomu	force into
+j	入れ墨	irezumi	
+j	入れ物	iremono	container, case, receptac…
+j	入掛	irekake	suspension (said of perfo…
+j	入来田	irikita	a surname
+j	入母屋	irimoya	hip-gable roof
+j	刺草	irakusa	nettle, Urtica thunbergia…
+j	医療行為	iryokoi	医療法に基づき、医師、歯科医師および医師、歯科医師…
+j	彩り	irodori	colouring
+j	彩る	irodoru	to colour, to stain
+j	海豚座	irukaza	いるか座。
+j	色っぽい	iroppoi	sexy; erotic
+j	色づく	irozuku	to change color; to turn …
+j	色づけ	irozuke	coloring, adding color
+j	色めく	iromeku	to become lively
+j	色事	irogoto	love affair
+j	色惚け	iroboke	
+j	色柄	irogara	color and design, colored…
+j	色無地	iromuji	A single-colored kimono t…
+j	色物	iromono	colored clothes
+j	色範囲	irohani	色域。
+j	色里	irozato	red-light district
+j	色黒	iroguro	dark-skinned, swarthy
+j	衣料品	iryohin	商品としての衣料。
+j	衣類商	iruisho	古着を扱う古物商。
+j	遺留分	iryubun	相続で配偶者・子供のために法律上必ず留保されなけれ…
+k	이라와디	irawadi	
+k	이란학	iranhak	
+k	이래서	iraeseo	
+k	이렛날	irennal	일곱 번째 날.
+k	이른바	ireunba	so-called
+k	이리듐	iridyum	iridium
+k	이리자리	irijari	
+k	이리하다	irihada	to do like this, do in th…
+k	일없다	ireopda	unnecessary
+k	일원제	irwonje	
+k	일일신	irilsin	
+k	일일학	irilhak	
+k	일일화	irilhwa	
+e	iriomote	iriomote	1 meaning
+e	irish sea	irishsea	1 meaning
+e	irishman	irishman	1 meaning
+e	iron fist	ironfist	1 meaning
+e	iron lung	ironlung	1 meaning
+e	ironical	ironical	1 meaning
+e	ironware	ironware	1 meaning
+e	ironwork	ironwork	1 meaning
+e	irritate	irritate	1 meaning
+j	いらして	irashite	
+j	いらだち	iradachi	「いらだつ」の連用形。
+j	いらだつ	iradatsu	物事が思い通りにならず、気持ちが落ち着かなくなる。…
+j	いらっしゃい	irasshai	come; go; be (imperative)
+j	いらつく	iratsuku	苛立つ。焦りいらいらする。
+j	いりえわに	iriewani	ワニ目クロコダイル科クロコダイル属に属するわにの一…
+j	いりぐち	iriguchi	中へ入る所。
+j	いりめし	irimeshi	煎った飯。チャーハン。
+j	いれかえる	irekaeru	中のものを出して別のものを入れる。中身をとりかえる。
+j	いろあせた	iroaseta	past tense and perfective…
+j	いろあせる	iroaseru	色が薄くなったり、色が変わったりする。変色する。
+j	いろいろな	iroirona	
+j	いろぐるい	irogurui	女色に溺れ、遊興に耽ること。
+j	いろつや	irotsuya	色と艶。肌の状態としての色と艶。
+j	いろづかい	irozukai	usage of colors
+j	いろはじゅん	irohajun	the traditional collation…
+j	いろまち	iromachi	red-light district
+j	イラク人	irakujin	イラク国籍を有する者。イラク出身者。
+j	イランイラン	iraniran	バンレイシ科イランイランノキ属の樹木。学名はCan…
+j	イラン学	irangaku	
+j	イラン語派	irangoha	インド・ヨーロッパ語族のうち、イラン周辺で話されて…
+j	イリエワニ	iriewani	
+j	イリジウム	irijiumu	iridium, Ir
+j	イルティシュ	irutishu	
+j	イレギュラー	iregyura	不規則、変則。
+j	イレブンス	irebunsu	ストライクを11フレーム続けて成し遂げること。
+j	イロパンゴ	iropango	
+j	インド・イラン語派	irangoha	インド・ヨーロッパ語族の語派の一つ。
+j	イールランド	irurando	Ireland (a country)
+j	依頼する	iraisuru	
+j	入り口	iriguchi	
+j	入り込んだ	irikonda	
+j	入れ替える	irekaeru	substitute, switch, chang…
+j	入れ直す	irenaosu	
+j	入会地	iriaichi	一定の人達の間で入会の権利が設定されている区域（山…
+j	入会権	iriaiken	入会地を利用するための習慣上の権利。
+j	入口	iriguchi	entrance
+j	入江鰐	iriewani	a saltwater crocodile
+j	医療事故	iryojiko	医療の現場で起こった事故の総称。
+j	医療機器	iryokiki	人や動物の疾病の診断、治療、予防、人や動物の体に身…
+j	医療過誤	iryokago	医療関係者の不注意により患者に何らかの損害を与える…
+j	色収差	iroshusa	chromatic aberration
+j	色座標	irozahyo	
+j	色男	irootoko	lady's man, lady-killer, …
+j	色空間	irokukan	a color space
+j	色褪せる	iroaseru	lose color, fade
+j	苛立ち	iradachi	irritation
+j	苛立つ	iradatsu	to be irritated
+j	西表	iriomote	Iriomote (an island of Ya…
+j	郎女	iratsume	synonym of 少女 (shōjo, “a …
+j	郎子	iratsuko	a familiar or friendly te…
+k	이라크의	irakeuui	
+k	이라크인	irakeuin	
+k	이러닝	ireoning	
+k	이러하다	ireohada	
+k	이론상	ironsang	
+k	이론적	ironjeok	
+k	이루마티오	irumatio	구강 성교의 일종. 상대의 입에 남자가 자신의…
+k	이룩하다	irukhada	to achieve; to accomplish
+k	이뤄지다	irwojida	
+k	이륜차	iryuncha	
+k	이르티시	ireutisi	
+k	이름씨	ireumssi	synonym of 명사(名詞) (myeong…
+k	이름표	ireumpyo	이름을 적어서 가슴에 다는 표.
+k	이리저리	irijeori	here and there, this way …
+k	이리하여	irihayeo	
+k	일어나다	ireonada	to arise, get up; to wake…
+k	일어나라	ireonara	formal non-polite imperat…
+k	일엽주	iryeopju	
+k	일원론	irwollon	하나의 원리로써 전체를 설명하려는 사고·태도·…
+k	일원화	irwonhwa	
+k	일월식	irwolsik	
+k	일으키다	ireukida	to rouse
+k	일의적	iruijeok	
+k	일인극	iringeuk	
+k	일인당	irindang	
+k	일임하다	irimhada	
+e	irish moss	irishmoss	1 meaning
+e	iron oxide	ironoxide	1 meaning
+e	ironworks	ironworks	1 meaning
+e	irrawaddy	irrawaddy	1 meaning
+e	irregular	irregular	3 meanings
+e	irritated	irritated	2 meanings
+e	irruption	irruption	1 meaning
+j	いらっしゃる	irassharu	to go
+j	いりたまご	iritamago	溶き卵に塩胡椒で味付けしたものをフライパンでかき混…
+j	いりびたり	iribitari	「いりびたる」の連用形。
+j	いりびたる	iribitaru	to soak in water
+j	いりまじる	irimajiru	to mix with, to be interm…
+j	いれかわる	irekawaru	中身が別のものになる。
+j	いろうつり	iroutsuri	dye transfer; color bleed…
+j	いろけづく	irokezuku	果実が熟して色が変わる。
+j	いろごのみ	irogonomi	色事を好むこと。また、そのような人。
+j	いろじかけ	irojikake	異性を色気で誘惑したり騙したりすること。
+j	いろめがね	iromegane	色眼鏡: colored glasses; (me…
+j	イラマチオ	iramachio	irrumatio, irrumation
+j	イラーハーバード	irahabado	Allahabad (a city in Indi…
+j	イリノイ州	irinoishu	the full form of イリノイ (“I…
+j	イルティッシュ	irutisshu	
+j	イロカノ語	irokanogo	フィリピンのルソン島北部などで話されている、オース…
+j	伊呂波仮名	irohagana	synonym of 平仮名
+j	入り交じり	irimajiri	mixing with
+j	入れ替わる	irekawaru	be replaced with somethin…
+j	医療崩壊	iryohokai	伝染病の流行や医師の不足により、医療機関が医療を正…
+j	医療機関	iryokikan	医療法に基づく医療を実施する施設、機関。病院、診療…
+j	医療法人	iryohojin	医療法に基づき設立が認可された公益法人。
+j	医療観光	iryokanko	
+j	色づける	irozukeru	to color, to add color
+j	色ガラス	irogarasu	「着色ガラス」に同じ。
+j	色仕掛け	irojikake	using seductive charm in …
+j	色指定	iroshitei	color specification
+j	色白の	irojirono	
+j	色眼鏡	iromegane	colored glasses
+j	色硝子	irogarasu	「色ガラス」の漢字表記。
+j	色黒な	irogurona	
+k	이란 사람	iransaram	
+k	이력서	iryeokseo	résumé, curriculum vitae …
+k	이루어지다	irueojida	to be attained, fulfilled
+k	이룩되다	irukdoeda	
+k	이륙하다	iryukhada	to take off
+k	이르잡다	ireujapda	to uncover old stuff
+k	일어서다	ireoseoda	To stand up.
+k	일언지하	ireonjiha	
+k	일여덟	iryeodeol	
+k	일요보살	iryobosal	
+k	일요화가	iryohwaga	
+k	일용직	iryongjik	day labor
+k	일용품	iryongpum	daily necessities; goods …
+k	일원적	irwonjeok	
+k	일월권	irwolgwon	
+k	일의대수	iruidaesu	한 줄기 좁은 강물이나 바닷물.
+k	일인이역	iriniyeok	
+k	일인칭	irinching	first person
+k	일인회사	irinhoesa	
+e	iridescent	iridescent	1 meaning
+e	iron maiden	ironmaiden	1 meaning
+e	irrational	irrational	3 meanings
+e	irrelevant	irrelevant	1 meaning
+e	irreligion	irreligion	1 meaning
+e	irreverent	irreverent	1 meaning
+e	irrigation	irrigation	1 meaning
+e	irritation	irritation	1 meaning
+e	irrumation	irrumation	1 meaning
+j	いりがしら	irigashira	漢字の部首「⼊」の呼称の一つ。
+j	イラク戦争	irakusenso	The War in Iraq; the Iraq…
+j	イルクーツク	irukutsuku	Irkutsk (a city, the admi…
+j	イルメナイト	irumenaito	
+j	色恋沙汰	irokoizata	love affair
+j	色鉛筆	iroenpitsu	a colored pencil
+j	色鮮やか	iroazayaka	colourful (brightly colou…
+k	이륵이륵	ireugireuk	
+k	이를 닦다	ireuldakda	
+k	이름짓다	ireumjitda	
+k	일언반구	ireonbangu	
+k	일원묘사	irwonmyosa	
+k	일월광	irwolgwang	
+k	일음증	ireumjeung	
+k	일일삼추	irilsamchu	하루가 삼 년 같다는 뜻으로, 몹시 애태우며 …
+e	i rest my case	irestmycase	2 meanings
+e	iridescence	iridescence	1 meaning
+e	iriomote cat	iriomotecat	1 meaning
+e	iriomote tit	iriomotetit	1 meaning
+e	irish setter	irishsetter	1 meaning
+e	iron curtain	ironcurtain	2 meanings
+e	irredentism	irredentism	1 meaning
+e	irreducible	irreducible	2 meanings
+e	irrevocable	irrevocable	1 meaning
+j	いらいらした	irairashita	
+j	いらだたしい	iradatashii	思い通りに行かなかったりしていらいらするさま。焦っ…
+j	いりみだれる	irimidareru	様々なものが入り交じり、乱れる。
+j	いるまことば	irumakotoba	語順を逆にしたり、反対の意味の語を使う言い方。
+j	いろきちがい	irokichigai	色情狂。色情症。
+j	いろとりどり	irotoridori	various; varied
+j	いろはガルタ	irohagaruta	カルタのひとつ。いろはの47文字始まることわざを書…
+j	いろわけくま	irowakekuma	ジャイアントパンダの和名。
+j	いろわけぐま	irowakeguma	ジャイアントパンダの和名。
+j	イライラした	irairashita	
+j	イラストレーター	irasutoreta	illustrator
+j	イルミネーション	irumineshon	decorative lighting, colo…
+j	イレブンシス	irebunshisu	
+j	イロワケグマ	irowakeguma	
+j	入り乱れる	irimidareru	to mix in confusion, to b…
+j	医療大学	iryodaigaku	医療系の単科大学。
+j	医療補助者	iryohojosha	
+j	色力学	irorikigaku	chromodynamics
+j	衣類乾燥機	iruikansoki	
+k	이라크 사람	irakeusaram	
+k	이륙시키다	iryuksikida	to cause (a plane) to tak…
+k	이릉대다	ireungdaeda	
+k	일염기산	iryeomgisan	
+k	일엽지추	iryeopjichu	
+k	일우명지	irumyeongji	
+k	잃어버리다	ireobeorida	to lose; to no longer hav…
+e	iron sulphide	ironsulphide	1 meaning
+e	ironing board	ironingboard	1 meaning
+e	irregularity	irregularity	3 meanings
+e	irresistible	irresistible	1 meaning
+e	irreversible	irreversible	2 meanings
+j	いらいらさせる	irairasaseru	
+j	いらっしゃいませ	irasshaimase	welcome
+j	イル゠ド゠フランス	irudofuransu	
+j	異類婚姻譚	iruikonintan	人間と人間以外の種族（異類）との婚姻を扱った伝説・…
+j	色の落ちない	ironoochinai	
+j	色目を使う	iromeotsukau	異性として関心があることを仄めかす目付きで相手を見…
+j	西表島	iriomotejima	Iriomote Island (the larg…
+k	이런저런	ireonjeoreon	this and that
+k	이를테면	ireultemyeon	for example
+k	이름공간	ireumgonggan	
+k	이릉이릉	ireungireung	
+k	일어나게 하다	ireonagehada	
+k	일원화하다	irwonhwahada	
+k	일을 못하다	ireulmothada	업무나 작업을 효율적으로 수행하지 못하다.
+e	irish american	irishamerican	1 meaning
+e	irrecoverable	irrecoverable	1 meaning
+e	irregular verb	irregularverb	1 meaning
+e	irresponsible	irresponsible	1 meaning
+j	イラストレーション	irasutoreshon	illustration
+k	이르쿠츠크	ireukucheukeu	Irkutsk (an oblast of Rus…
+k	이를 악물다	ireulangmulda	
+k	이름을 짓다	ireumeuljitda	
+k	이릉거리다	ireunggeorida	
+k	일엽편주	iryeoppyeonju	
+k	일월성신	irwolseongsin	
+e	iranian studies	iranianstudies	1 meaning
+e	irish traveller	irishtraveller	1 meaning
+e	irreconcilable	irreconcilable	1 meaning
+j	イラク共和国	irakukyowakoku	
+j	イラストロジック	irasutorojikku	nonogram
+j	医療用医薬品	iryoyoiyakuhin	医師、歯科医師の診断に基づく処方箋により院内薬局や…
+k	이러나저러나	ireonajeoreona	하던 말이나 생각을 그렇다고 하고서 말꼬리를 …
+k	이르꾸쯔크	ireukkujjeukeu	러시아의 도시와 주의 이름 '이르쿠츠크'의 북…
+k	이륵이륵하다	ireugireukhada	
+e	irregular galaxy	irregulargalaxy	1 meaning
+k	이르띄슈 강	ireuttuisyugang	'이르티슈 강'의 북한말.
+k	이름을 붙이다	ireumeulbuchida	
+k	일인칭 시점	irinchingsijeom	(문학) 소설에서 화자가 보고 듣고 겪은 바를…
+k	일일병력	irilbyeongnyeok	
+k	잃어버린 세대	ireobeorinsedae	
+e	irrational number	irrationalnumber	1 meaning
+e	irresponsibility	irresponsibility	1 meaning
+j	イリオモテヤマネコ	iriomoteyamaneko	an Iriomote cat
+j	色眼鏡を掛ける	iromeganeokakeru	
+j	要らぬ世話をしない	iranusewaoshinai	
+k	이라크 공화국	irakeugonghwaguk	
+k	이릉이릉하다	ireungireunghada	
+e	irresistible grace	irresistiblegrace	1 meaning
+k	이러쿵저러쿵	ireokungjeoreokung	while saying this and tha…
+k	일안 반사식 카메라	iranbansasikkamera	
+k	일을 용이하게 하다	ireulyongihagehada	
+j	炒り豆の花が咲く	irimamenihanagasaku	teaching an old dog new t…
+j	イラン・イスラム共和国	iranisuramukyowakoku	Islamic Republic of Iran …
+k	이라크 시리아 이슬람국	irakeusiriaiseullamguk	
+k	이란 이슬람 공화국	iraniseullamgonghwaguk	Islamic Republic of Iran …
+j	イラク・レバントのイスラム国	irakurebantonoisuramukoku	ISIL or ISIS, the Islamic…
+k	이라크 레반트 이슬람국	irakeurebanteuiseullamguk	
+j	イリオモテパイヌキバラヨシノボリ	iriomotepainukibarayoshinobori	パイヌキバラヨシノボリの亜種。学名は Rhinog…

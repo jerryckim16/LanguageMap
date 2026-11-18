@@ -1,0 +1,84 @@
+j	オヴァ	ova	ova (unfertilized eggs; t…
+e	oval	oval	2 meanings
+e	oven	oven	1 meaning
+e	over	over	3 meanings
+e	ovum	ovum	1 meaning
+e	ovary	ovary	2 meanings
+e	overt	overt	1 meaning
+e	ovoid	ovoid	1 meaning
+e	ovule	ovule	1 meaning
+j	オヴム	ovumu	ovum (an unfertilized egg)
+e	overdo	overdo	1 meaning
+e	overly	overly	1 meaning
+e	ovation	ovation	1 meaning
+e	overage	overage	2 meanings
+e	overall	overall	1 meaning
+e	overeat	overeat	1 meaning
+e	overlay	overlay	2 meanings
+e	overpay	overpay	1 meaning
+e	oversee	oversee	1 meaning
+e	oviduct	oviduct	1 meaning
+e	ovenbird	ovenbird	2 meanings
+e	over here	overhere	1 meaning
+e	over time	overtime	1 meaning
+e	overalls	overalls	1 meaning
+e	overcast	overcast	1 meaning
+e	overcoat	overcoat	1 meaning
+e	overcome	overcome	1 meaning
+e	overdose	overdose	1 meaning
+e	overfeed	overfeed	1 meaning
+e	overflow	overflow	1 meaning
+e	overhead	overhead	1 meaning
+e	overking	overking	1 meaning
+e	overload	overload	1 meaning
+e	overlook	overlook	2 meanings
+e	overlord	overlord	1 meaning
+e	overpass	overpass	1 meaning
+e	overrate	overrate	1 meaning
+e	override	override	4 meanings
+e	overrule	overrule	1 meaning
+e	overseas	overseas	3 meanings
+e	overseer	overseer	1 meaning
+e	overshoe	overshoe	1 meaning
+e	overtake	overtake	1 meaning
+e	overtime	overtime	3 meanings
+e	overtone	overtone	1 meaning
+e	overture	overture	1 meaning
+e	overview	overview	1 meaning
+e	overwork	overwork	2 meanings
+j	オーヴェルニュ	overunyu	
+e	oven glove	ovenglove	1 meaning
+e	over there	overthere	1 meaning
+e	overdraft	overdraft	1 meaning
+e	overexert	overexert	1 meaning
+e	overnight	overnight	2 meanings
+e	overpower	overpower	1 meaning
+e	overrated	overrated	1 meaning
+e	overreact	overreact	1 meaning
+e	oversleep	oversleep	1 meaning
+e	overthrow	overthrow	1 meaning
+e	overwhelm	overwhelm	1 meaning
+e	overwrite	overwrite	1 meaning
+e	oviparous	oviparous	1 meaning
+e	ovotestis	ovotestis	1 meaning
+e	ovulation	ovulation	1 meaning
+e	oval office	ovaloffice	1 meaning
+e	overblouse	overblouse	1 meaning
+e	overcharge	overcharge	1 meaning
+e	overmorrow	overmorrow	1 meaning
+e	overweight	overweight	1 meaning
+e	overwinter	overwinter	2 meanings
+e	over the moon	overthemoon	1 meaning
+e	overestimate	overestimate	1 meaning
+e	overhead kick	overheadkick	1 meaning
+e	overreaction	overreaction	1 meaning
+e	overnutrition	overnutrition	1 meaning
+e	ovoviviparous	ovoviviparous	1 meaning
+e	over my dead body	overmydeadbody	1 meaning
+e	over-the-counter	overthecounter	1 meaning
+e	overestimation	overestimation	1 meaning
+e	overpopulation	overpopulation	1 meaning
+e	overprotective	overprotective	1 meaning
+e	overseas chinese	overseaschinese	1 meaning
+e	overhead projector	overheadprojector	1 meaning
+e	overseas territory	overseasterritory	1 meaning

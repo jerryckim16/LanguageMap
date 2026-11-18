@@ -1,0 +1,206 @@
+e	plc	plc	1 meaning
+e	plan	plan	6 meanings
+e	play	play	8 meanings
+e	plea	plea	2 meanings
+e	plot	plot	4 meanings
+e	ploy	ploy	1 meaning
+e	plug	plug	2 meanings
+e	plum	plum	4 meanings
+e	plus	plus	2 meanings
+e	pla ra	plara	1 meaning
+e	place	place	14 meanings
+e	plain	plain	4 meanings
+e	plane	plane	5 meanings
+e	plank	plank	2 meanings
+e	plant	plant	10 meanings
+e	plate	plate	1 meaning
+e	plato	plato	1 meaning
+e	plaza	plaza	1 meaning
+e	plead	plead	1 meaning
+e	pleat	pleat	1 meaning
+e	plebs	plebs	1 meaning
+e	pliny	pliny	1 meaning
+e	pluck	pluck	1 meaning
+e	plush	plush	1 meaning
+e	pluto	pluto	2 meanings
+e	placid	placid	1 meaning
+e	plague	plague	6 meanings
+e	plaice	plaice	1 meaning
+e	planck	planck	1 meaning
+e	planer	planer	1 meaning
+e	planet	planet	3 meanings
+e	plasma	plasma	2 meanings
+e	player	player	7 meanings
+e	please	please	3 meanings
+e	pledge	pledge	3 meanings
+e	plenty	plenty	1 meaning
+e	plenum	plenum	6 meanings
+e	pleura	pleura	1 meaning
+e	pleven	pleven	1 meaning
+e	pliers	pliers	1 meaning
+e	plinth	plinth	1 meaning
+e	ploidy	ploidy	1 meaning
+e	plough	plough	3 meanings
+e	plover	plover	1 meaning
+e	plug-in	plugin	1 meaning
+e	plural	plural	3 meanings
+e	plutus	plutus	1 meaning
+e	placard	placard	1 meaning
+e	placate	placate	1 meaning
+e	placebo	placebo	1 meaning
+e	planner	planner	2 meanings
+e	plasmon	plasmon	1 meaning
+e	plaster	plaster	1 meaning
+e	plastic	plastic	1 meaning
+e	plateau	plateau	1 meaning
+e	plating	plating	1 meaning
+e	platoon	platoon	1 meaning
+e	platter	platter	1 meaning
+e	play god	playgod	1 meaning
+e	playboy	playboy	2 meanings
+e	playful	playful	1 meaning
+e	playoff	playoff	1 meaning
+e	playpen	playpen	1 meaning
+e	pleased	pleased	1 meaning
+e	pleroma	pleroma	2 meanings
+e	pliable	pliable	1 meaning
+e	ploonet	ploonet	1 meaning
+e	plosive	plosive	1 meaning
+e	plotter	plotter	1 meaning
+e	plovdiv	plovdiv	1 meaning
+e	plumage	plumage	1 meaning
+e	plumber	plumber	1 meaning
+e	plunder	plunder	2 meanings
+e	plunger	plunger	1 meaning
+e	plywood	plywood	1 meaning
+e	place mat	placemat	1 meaning
+e	placenta	placenta	1 meaning
+e	plangent	plangent	1 meaning
+e	plankton	plankton	1 meaning
+e	planning	planning	1 meaning
+e	plantain	plantain	2 meanings
+e	platelet	platelet	1 meaning
+e	platform	platform	5 meanings
+e	platinum	platinum	1 meaning
+e	platypus	platypus	1 meaning
+e	play ball	playball	1 meaning
+e	play dead	playdead	1 meaning
+e	playback	playback	1 meaning
+e	playdate	playdate	1 meaning
+e	playlist	playlist	2 meanings
+e	pleasant	pleasant	1 meaning
+e	pleasing	pleasing	1 meaning
+e	pleasure	pleasure	1 meaning
+e	plebeian	plebeian	2 meanings
+e	plectrum	plectrum	1 meaning
+e	pleiades	pleiades	2 meanings
+e	pleonasm	pleonasm	1 meaning
+e	pleurisy	pleurisy	1 meaning
+e	plumbing	plumbing	2 meanings
+e	plus sign	plussign	1 meaning
+e	plush toy	plushtoy	1 meaning
+e	plutarch	plutarch	1 meaning
+e	pluviôse	pluviose	1 meaning
+e	plymouth	plymouth	1 meaning
+e	placename	placename	1 meaning
+e	placental	placental	1 meaning
+e	plain jane	plainjane	1 meaning
+e	plaintiff	plaintiff	1 meaning
+e	planarian	planarian	1 meaning
+e	plandemic	plandemic	1 meaning
+e	planetary	planetary	1 meaning
+e	planetoid	planetoid	1 meaning
+e	plasmonic	plasmonic	1 meaning
+e	plasterer	plasterer	1 meaning
+e	platitude	platitude	1 meaning
+e	play hooky	playhooky	1 meaning
+e	play house	playhouse	1 meaning
+e	plot twist	plottwist	1 meaning
+e	plum rains	plumrains	1 meaning
+e	plumpness	plumpness	1 meaning
+e	pluralism	pluralism	1 meaning
+e	plutocrat	plutocrat	1 meaning
+e	plutonian	plutonian	1 meaning
+e	plutonism	plutonism	1 meaning
+e	plutonium	plutonium	1 meaning
+e	place value	placevalue	1 meaning
+e	plagiarism	plagiarism	2 meanings
+e	planck star	planckstar	1 meaning
+e	planck time	plancktime	1 meaning
+e	planck unit	planckunit	1 meaning
+e	plane angle	planeangle	1 meaning
+e	plantation	plantation	1 meaning
+e	plasma cell	plasmacell	1 meaning
+e	plastic bag	plasticbag	1 meaning
+e	plasticity	plasticity	1 meaning
+e	plat du jour	platdujour	1 meaning
+e	play possum	playpossum	2 meanings
+e	play truant	playtruant	1 meaning
+e	playground	playground	1 meaning
+e	playwright	playwright	1 meaning
+e	plebiscite	plebiscite	1 meaning
+e	plesiosaur	plesiosaur	1 meaning
+e	plexiglass	plexiglass	1 meaning
+e	pluperfect	pluperfect	1 meaning
+e	plutocracy	plutocracy	1 meaning
+e	plagioclase	plagioclase	1 meaning
+e	planck scale	planckscale	1 meaning
+e	plane ticket	planeticket	1 meaning
+e	planetarium	planetarium	1 meaning
+e	planetology	planetology	1 meaning
+e	planktology	planktology	1 meaning
+e	plantigrade	plantigrade	2 meanings
+e	plasticizer	plasticizer	1 meaning
+e	play the fool	playthefool	2 meanings
+e	playability	playability	1 meaning
+e	playing card	playingcard	1 meaning
+e	playstation	playstation	1 meaning
+e	pleasurable	pleasurable	1 meaning
+e	pleochroism	pleochroism	1 meaning
+e	ploughshare	ploughshare	1 meaning
+e	plum blossom	plumblossom	1 meaning
+e	pluripotent	pluripotent	1 meaning
+e	plague doctor	plaguedoctor	1 meaning
+e	plainclothes	plainclothes	1 meaning
+e	planck length	plancklength	1 meaning
+e	platform game	platformgame	1 meaning
+e	platonic love	platoniclove	1 meaning
+e	play with fire	playwithfire	1 meaning
+e	playboy bunny	playboybunny	1 meaning
+e	please help me	pleasehelpme	1 meaning
+e	pleasure trip	pleasuretrip	1 meaning
+e	plantar fascia	plantarfascia	1 meaning
+e	please sit down	pleasesitdown	1 meaning
+e	pleural cavity	pleuralcavity	1 meaning
+e	plurale tantum	pluraletantum	1 meaning
+e	planned economy	plannedeconomy	1 meaning
+e	plaster of paris	plasterofparis	1 meaning
+e	plastic surgery	plasticsurgery	1 meaning
+e	plate tectonics	platetectonics	1 meaning
+e	playback singer	playbacksinger	1 meaning
+e	please turn left	pleaseturnleft	1 meaning
+e	placenta praevia	placentapraevia	1 meaning
+e	planck's constant	plancksconstant	1 meaning
+e	planetary nebula	planetarynebula	1 meaning
+e	planetary system	planetarysystem	1 meaning
+e	please turn right	pleaseturnright	1 meaning
+e	pluperfect tense	pluperfecttense	1 meaning
+e	planetary science	planetaryscience	1 meaning
+e	plantar fasciitis	plantarfasciitis	1 meaning
+e	plateletpheresis	plateletpheresis	1 meaning
+e	pleased to meet you	pleasedtomeetyou	1 meaning
+e	plasma accelerator	plasmaaccelerator	1 meaning
+e	pleasure principle	pleasureprinciple	1 meaning
+e	planning permission	planningpermission	1 meaning
+e	plasma acceleration	plasmaacceleration	1 meaning
+e	platform screen door	platformscreendoor	1 meaning
+e	please say that again	pleasesaythatagain	1 meaning
+e	planned obsolescence	plannedobsolescence	1 meaning
+e	platinum anniversary	platinumanniversary	1 meaning
+e	please repeat after me	pleaserepeatafterme	1 meaning
+e	plain-winged antshrike	plainwingedantshrike	1 meaning
+e	please speak more slowly	pleasespeakmoreslowly	1 meaning
+e	plasma wakefield accelerator	plasmawakefieldaccelerator	1 meaning
+e	plasma wakefield acceleration	plasmawakefieldacceleration	1 meaning
+e	plurinational state of bolivia	plurinationalstateofbolivia	1 meaning
+e	play stupid games, win stupid prizes	playstupidgameswinstupidprizes	1 meaning

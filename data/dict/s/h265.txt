@@ -1,0 +1,963 @@
+k	주	주	week (unit of time)
+k	죽	죽	in a manner arranged in a…
+k	준	준	A rare Korean family name.
+k	줄	줄	ability, method; how to
+k	줌	줌	초점 거리나 화상의 크기를 급격히 변화시키는 …
+k	중	중	average; intermediate (gr…
+k	주가	주가	stock/share price
+k	주각	주각	pedestal. 축방향 압축력을 받는 부재 …
+k	주간	주간	week
+k	주강	주강	
+k	주거	주거	dwelling; abode
+k	주걱	주걱	spatula; flat spoon, padd…
+k	주검	주검	corpse, dead body
+k	주격	주격	nominative case
+k	주경	주경	
+k	주괴	주괴	
+k	주교	주교	bishop
+k	주구	주구	hound
+k	주군	주군	군주 국가에서 나라를 다스리는 우두머리.
+k	주권	주권	sovereignty
+k	주금	주금	
+k	주기	주기	period, cycle
+k	주끼	주끼	
+k	주년	주년	anniversary
+k	주노	주노	Juneau (the capital city …
+k	주눅	주눅	힘을 쓰지 못하고 움츠려든 꼴.
+k	주님	주님	The Lord, the God of Abra…
+k	주다	주다	to give
+k	주도	주도	lead
+k	주동	주동	어떤 일의 주장이 되어 움직임.
+k	주두	주두	capital
+k	주둔	주둔	stationing of troops
+k	주디	주디	입의 경상도 사투리.
+k	주라	주라	conch horn
+k	주련	주련	
+k	주렴	주렴	구슬 등을 꿰어 만든 발.
+k	주로	주로	chiefly, principally
+k	주루	주루	baserunning
+k	주룩	주룩	굵은 물줄기나 빗물 따위가 빠르게 잠깐 흐르다…
+k	주룽	주룽	
+k	주류	주류	alcoholic drinks; liquor
+k	주름	주름	wrinkles, lines, furrows
+k	주리	주리	'거스름돈'를 의미하는 제주도 방언.
+k	주막	주막	tavern, inn
+k	주말	주말	weekend
+k	주먹	주먹	fist
+k	주목	주목	
+k	주문	주문	order (a request for some…
+k	주민	주민	residents in a place
+k	주밀	주밀	
+k	주바	주바	Juba (the capital of Sout…
+k	주발	주발	brass rice-bowl
+k	주방	주방	kitchen
+k	주번	주번	weekly duties
+k	주변	주변	the vicinity
+k	주보	주보	weekly; weekly newspaper;…
+k	주부	주부	housewife
+k	주비	주비	a sort of proso millet
+k	주빈	주빈	
+k	주빗	주빗	
+k	주뼛	주뼛	pointily, taperingly
+k	주삣	주삣	
+k	주사	주사	injection; shot
+k	주살	주살	죄를 물어 죽임.
+k	주색	주색	alcohol and beautiful wom…
+k	주석	주석	tin (element)
+k	주선	주선	
+k	주소	주소	address
+k	주스	주스	juice (beverage made of j…
+k	주시	주시	attention; attentive look
+k	주식	주식	stocks; shares
+k	주아	주아	
+k	주야	주야	
+k	주어	주어	subject (of a sentence)
+k	주억	주억	while swaying one's head …
+k	주연	주연	leading role
+k	주옥	주옥	구슬과 옥을 아울러 이르는 말.
+k	주요	주요	importance, primacy
+k	주위	주위	circumference
+k	주음	주음	
+k	주의	주의	attention; caution
+k	주인	주인	master or owner
+k	주일	주일	week
+k	주임	주임	
+k	주입	주입	
+k	주자	주자	runner (athlete)
+k	주작	주작	Vermilion Bird (one of th…
+k	주장	주장	a claim or assertion
+k	주재	주재	
+k	주저	주저	hesitation
+k	주전	주전	돈을 주조함. 또는 그 돈.
+k	주절	주절	main clause
+k	주점	주점	pub
+k	주접	주접	겉 모양이 볼품이 없거나 하는 짓이 어설프고 …
+k	주정	주정	a disorderly conduct when…
+k	주제	주제	topic; main idea
+k	주조	주조	금속재료를 녹여서 만드는 것.
+k	주주	주주	shareholder, stockholder
+k	주중	주중	weekday
+k	주즙	주즙	배와 삿대; 배 전체.
+k	주지	주지	being generally known; es…
+k	주차	주차	parking
+k	주착	주착	'주책'의 비표준어.
+k	주찬	주찬	형벌로 죽이는 일과 귀양 보내는 일.
+k	주책	주책	일정하게 자리 잡힌 주장이나 판단력.
+k	주철	주철	철을 바탕으로 탄소를 1.7 퍼센트 이상을 함…
+k	주체	주체	main agent, principal age…
+k	주최	주최	
+k	주춤	주춤	망설이거나 가볍게 놀라서 갑자기 멈칫하거나 몸…
+k	주택	주택	A residential building.
+k	주파	주파	
+k	주판	주판	abacus
+k	주폭	주폭	술을 마시고 행패를 부리는 일. 또는 그런 사…
+k	주필	주필	
+k	주한	주한	stationing in South Korea
+k	주해	주해	
+k	주형	주형	casting mould; template; …
+k	주화	주화	쇠붙이를 녹여 화폐를 만듦. 또는 그 화폐.
+k	주황	주황	빨강과 노랑 사이의 빛을 띤 색깔 이름.
+k	죽다	죽다	to die (to stop living)
+k	죽도	죽도	shinai (bamboo sword)
+k	죽림	죽림	bamboo forest
+k	죽마	죽마	stilts (walking pole)
+k	죽빵	죽빵	punch to the face
+k	죽순	죽순	bamboo shoot
+k	죽염	죽염	bamboo salt
+k	죽엽	죽엽	대나무의 잎. 성질이 차서 한방에서 해열제로 …
+k	죽은	죽은	
+k	죽음	죽음	death, dying
+k	죽임	죽임	(건설) 날카로운 모서리 또는 뻣뻣한 물건을 …
+k	죽장	죽장	
+k	죽종	죽종	
+k	죽지	죽지	shoulder blade; scapula
+k	죽창	죽창	
+k	죽편	죽편	a piece of bamboo
+k	준거	준거	사물의 정도나 성격 따위를 알기 위한 근거나 …
+k	준공	준공	completion (of constructi…
+k	준령	준령	높고 가파른 고개.
+k	준말	준말	shortening, abbreviation
+k	준법	준법	
+k	준비	준비	readiness, preparation
+k	준석	준석	준뢰를 올려놓도록 무덤 앞에 놓는 돌.
+k	준성	준성	강한 전파를 내는 성운(星雲). 은하 중심핵의…
+k	준수	준수	handsome
+k	준열	준열	'준열하다'의 어근.
+k	준용	준용	그대로 좇아서 씀.
+k	준위	준위	
+k	준장	준장	
+k	준주	준주	territory (an administrat…
+k	준치	준치	(학명: Ilisha elongata) 준칫과…
+k	준칙	준칙	
+k	줄곧	줄곧	continuously, constantly,…
+k	줄공	줄공	(권투) '펀칭볼'의 북한말.
+k	줄기	줄기	branch, trunk, stem, stal…
+k	줄다	줄다	to decrease, to shrink
+k	줄자	줄자	
+k	줄줄	줄줄	굵은 물줄기 따위가 잇따라 부드럽게 흐르는 소…
+k	줄파	줄파	
+k	줄표	줄표	
+k	줄풀	줄풀	Manchurian wild rice (Ziz…
+k	줌바	줌바	Zumba (fitness program)
+k	줌통	줌통	활의 한가운데 손으로 쥐는 부분.
+k	줍다	줍다	to gather up; to pick up
+k	줏다	줏다	
+k	중간	중간	the middle
+k	중개	중개	
+k	중거	중거	a wagon used to carry hea…
+k	중건	중건	
+k	중견	중견	
+k	중경	중경	Chongqing (a municipality…
+k	중계	중계	relay broadcast
+k	중고	중고	secondhand, used
+k	중공	중공	People's Republic of Chin…
+k	중과	중과	
+k	중구	중구	
+k	중국	중국	China
+k	중궁	중궁	‘왕비’를 높여 이르던 말.
+k	중급	중급	보통 또는 중간의 등급.
+k	중기	중기	
+k	중년	중년	middle age
+k	중농	중농	
+k	중뇌	중뇌	midbrain
+k	중다	중다	
+k	중단	중단	어떤 일을 하는 것을 도중에 그만하는 것.
+k	중당	중당	
+k	중대	중대	company
+k	중도	중도	middle-of-the-road; centre
+k	중독	중독	poisoning
+k	중동	중동	Middle East (the geopolit…
+k	중드	중드	
+k	중등	중등	
+k	중딩	중딩	'중학생'의 채팅 용어.
+k	중략	중략	
+k	중량	중량	weight
+k	중력	중력	gravity
+k	중령	중령	lieutenant colonel
+k	중론	중론	
+k	중류	중류	
+k	중립	중립	neutrality
+k	중매	중매	matchmaking
+k	중모	중모	
+k	중문	중문	writing composed in Moder…
+k	중미	중미	중앙아메리카.
+k	중반	중반	the middle stage(s)
+k	중벌	중벌	
+k	중병	중병	
+k	중복	중복	
+k	중부	중부	central part, particularl…
+k	중사	중사	sergeant
+k	중산	중산	
+k	중상	중상	slander, defamation
+k	중생	중생	many people
+k	중서	중서	
+k	중석	중석	'텅스텐'.
+k	중선	중선	
+k	중성	중성	medial; vowel; a vowel or…
+k	중세	중세	Middle Ages; the medieval…
+k	중소	중소	
+k	중수	중수	건축물 따위의 낡고 헌 것을 손질하며 고침.
+k	중순	중순	the middle ten days of a …
+k	중시	중시	중요하게 여김.
+k	중식	중식	Chinese food
+k	중신	중신	
+k	중심	중심	center, core
+k	중압	중압	
+k	중앙	중앙	center, middle
+k	중어	중어	중간 크기의 물고기.
+k	중언	중언	
+k	중역	중역	
+k	중엽	중엽	어떤 시간을 처음, 중간, 끝으로 나누었을 때…
+k	중오	중오	'단오'의 다른 말.
+k	중요	중요	the state of being import…
+k	중용	중용	Doctrine of the Mean
+k	중우	중우	
+k	중원	중원	the Central Plain (area o…
+k	중위	중위	first lieutenant
+k	중유	중유	석탄산유를 가리키는 것.
+k	중음	중음	
+k	중의	중의	'중의법'.
+k	중이	중이	'가운데귀'의 동의어.
+k	중인	중인	많은 사람. 또는 여러 사람.
+k	중일	중일	중국과 일본.
+k	중임	중임	
+k	중자	중자	medium text
+k	중장	중장	lieutenant general; vice …
+k	중재	중재	상대방과 상대방 사이에서 문제가 해결될 수 있…
+k	중전	중전	
+k	중절	중절	
+k	중점	중점	중심이 되고 매우 중요한 것.
+k	중정	중정	courtyard; quadrangle; mi…
+k	중조	중조	
+k	중졸	중졸	
+k	중좌	중좌	
+k	중죄	중죄	serious offence; serious …
+k	중증	중증	serious illness
+k	중지	중지	stoppage; cessation
+k	중직	중직	
+k	중진	중진	
+k	중창	중창	
+k	중책	중책	
+k	중천	중천	midheaven; middle of the …
+k	중첩	중첩	거듭 겹치거나 포개어짐.
+k	중추	중추	Mid-Autumn Festival
+k	중태	중태	serious condition
+k	중퇴	중퇴	dropping out of school
+k	중파	중파	
+k	중판	중판	
+k	중편	중편	the second volume in a se…
+k	중폭	중폭	
+k	중품	중품	
+k	중풍	중풍	뇌의 혈관이 막히거나 혈관이 터지는 것.
+k	중학	중학	
+k	중한	중한	
+k	중합	중합	
+k	중핵	중핵	
+k	중형	중형	무거운 형량.
+k	중혼	중혼	
+k	중화	중화	China (a country in Asia)
+k	중환	중환	
+k	중흥	중흥	renaissance; revival; rev…
+k	주간사	주간사	증권시장 상장을 주선하는 회사.
+k	주간지	주간지	
+k	주고도	주고도	
+k	주관적	주관적	자신의 입장으로 보는.
+k	주교관	주교관	mitre (covering for the h…
+k	주구배	주구배	다른 이의 앞잡이 역할을 하는 끄나풀을 무리지…
+k	주근깨	주근깨	freckle (small pigmentati…
+k	주기성	주기성	
+k	주기적	주기적	일정한 간격을 두고 되풀이하여 진행하는.
+k	주기표	주기표	
+k	주께다	주께다	
+k	주꾸미	주꾸미	Webfoot octopus (Amphioct…
+k	주끼다	주끼다	
+k	주데카	주데카	
+k	주도적	주도적	계획을 세워서 실행에 옮기는.
+k	주동사	주동사	(언어) 문장의 주체가 스스로 행하는 동작을 …
+k	주되다	주되다	to be main; to be primary
+k	주둔지	주둔지	garrison, military base, …
+k	주둥이	주둥이	muzzle, snout, mouth (of …
+k	주둥치	주둥치	The spotnape pony fish, L…
+k	주령구	주령구	14-sided die from the Sil…
+k	주루룩	주루룩	
+k	주르르	주르르	
+k	주르륵	주르륵	
+k	주름살	주름살	동물의 피부에 생긴 줄.
+k	주름위	주름위	an abomasus (abomasi), ab…
+k	주리다	주리다	to starve
+k	주머니	주머니	pouch, sack, bag
+k	주먹밥	주먹밥	rice ball
+k	주모자	주모자	ringleader, mastermind
+k	주목속	주목속	
+k	주민세	주민세	
+k	주방장	주방장	head cook, chef
+k	주빗이	주빗이	
+k	주뼛이	주뼛이	
+k	주사기	주사기	syringe
+k	주사액	주사액	
+k	주사위	주사위	die/dice
+k	주사율	주사율	refresh rate
+k	주사침	주사침	'주삿바늘'.
+k	주상골	주상골	
+k	주석단	주석단	'지도부, 집행부'의 북한말.
+k	주성분	주성분	어떤 물질을 이루는 주된 성분
+k	주소창	주소창	address bar
+k	주술사	주술사	
+k	주신제	주신제	
+k	주얼리	주얼리	
+k	주위에	주위에	
+k	주유소	주유소	gas station, petrol stati…
+k	주의력	주의력	
+k	주의보	주의보	
+k	주의자	주의자	
+k	주의적	주의적	
+k	주인공	주인공	protagonist, leading char…
+k	주자파	주자파	
+k	주재관	주재관	
+k	주재소	주재소	
+k	주저리	주저리	
+k	주전론	주전론	
+k	주전자	주전자	kettle, teakettle
+k	주전재	주전재	Pyongan, Hamgyong, and Ga…
+k	주정꾼	주정꾼	drunk; drunkard
+k	주제가	주제가	theme song
+k	주제곡	주제곡	theme song
+k	주증상	주증상	
+k	주지사	주지사	premier / governor of a 주…
+k	주차장	주차장	car park, parking lot
+k	주체화	주체화	
+k	주춤병	주춤병	
+k	주침실	주침실	
+k	주케토	주케토	
+k	주코프	주코프	
+k	주키니	주키니	zucchini
+k	주파수	주파수	주기적인 현상이 몇 번 일어나는 것.
+k	주폭도	주폭도	
+k	주피터	주피터	
+k	주하이	주하이	
+k	주행성	주행성	낮에 주로 활동하는 습성.
+k	주형공	주형공	molder, caster
+k	주형유	주형유	casting oil
+k	주황색	주황색	orange (color)
+k	죽공예	죽공예	
+k	죽부인	죽부인	bamboo wife
+k	죽세공	죽세공	
+k	죽었다	죽었다	
+k	죽은말	죽은말	'사어'.
+k	죽이다	죽이다	to kill, to cause to die
+k	죽지뼈	죽지뼈	
+k	죽치다	죽치다	어디에 한 곳에 가만히 있다. 점잖지 못한 말.
+k	준거성	준거성	
+k	준결승	준결승	운동 경기에서 결승전에 나갈 자격을 겨루는 경…
+k	준비된	준비된	
+k	준비물	준비물	
+k	준사관	준사관	
+k	준성사	준성사	
+k	준왜성	준왜성	항성으로서 같은 온도의 주계열성보다 약간 어두…
+k	준회원	준회원	
+k	줄거리	줄거리	synopsis, summary, outlin…
+k	줄공치	줄공치	The Asian pencil halfbeak…
+k	줄기찬	줄기찬	'줄기차다'의 관형사형.
+k	줄기참	줄기참	'줄기차다'의 명사형.
+k	줄넘기	줄넘기	skipping rope, jumping ro…
+k	줄농어	줄농어	
+k	줄리아	줄리아	
+k	줄리언	줄리언	
+k	줄리엣	줄리엣	
+k	줄망둑	줄망둑	The striped sandgoby, Ace…
+k	줄몰개	줄몰개	The striped false gudgeon…
+k	줄무늬	줄무늬	stripe
+k	줄악기	줄악기	'현악기'의 북한말.
+k	줄이다	줄이다	to reduce something
+k	줄임말	줄임말	abbreviation
+k	줄임표	줄임표	ellipsis
+k	줄종개	줄종개	The striped spine loach, …
+k	줄타기	줄타기	
+k	줄팔매	줄팔매	무릿매의 동의어.
+k	줌 인	줌 인	zoom in
+k	줌렌즈	줌렌즈	
+k	중간권	중간권	
+k	중간뇌	중간뇌	
+k	중간본	중간본	
+k	중간색	중간색	
+k	중간성	중간성	
+k	중간층	중간층	
+k	중간파	중간파	
+k	중갑판	중갑판	
+k	중개념	중개념	
+k	중개업	중개업	
+k	중개인	중개인	broker, go-between
+k	중거리	중거리	
+k	중견수	중견수	center fielder
+k	중경상	중경상	
+k	중계소	중계소	
+k	중계차	중계차	
+k	중계항	중계항	
+k	중고기	중고기	The Korean oily shiner (S…
+k	중고사	중고사	
+k	중고차	중고차	
+k	중고품	중고품	used item, secondhand mer…
+k	중공군	중공군	
+k	중공업	중공업	heavy industry
+k	중과실	중과실	보통이 아닌 커다란 잘못. 특히 주의를 하지 …
+k	중괄호	중괄호	문장 부호의 하나: {}
+k	중광절	중광절	
+k	중국말	중국말	synonym of 중국어 (junggugeo)
+k	중국산	중국산	
+k	중국식	중국식	
+k	중국어	중국어	The Chinese language, oft…
+k	중국인	중국인	Chinese (person)
+k	중국집	중국집	Chinese restaurant
+k	중국학	중국학	Chinese studies; Sinology
+k	중국화	중국화	sinicization (in modern c…
+k	중궁전	중궁전	
+k	중근동	중근동	
+k	중금속	중금속	희토류금속보다 무게가 무겁고 독성을 지니고 있…
+k	중남미	중남미	중앙아메리카와 남아메리카를 합쳐서 부르는 말.
+k	중년기	중년기	
+k	중년층	중년층	
+k	중노동	중노동	
+k	중노역	중노역	
+k	중단파	중단파	
+k	중대사	중대사	
+k	중대성	중대성	
+k	중대시	중대시	중요하게 여김.
+k	중대원	중대원	
+k	중대장	중대장	
+k	중독량	중독량	
+k	중독성	중독성	
+k	중독자	중독자	addict, junkie
+k	중랑장	중랑장	고려 시대에 둔 정오품의 무관 벼슬. 장군(將…
+k	중량급	중량급	
+k	중력수	중력수	
+k	중력자	중력자	graviton
+k	중력장	중력장	
+k	중력파	중력파	
+k	중류층	중류층	
+k	중립국	중립국	정치적으로 어느 한 쪽에 속하지 않은 나라.
+k	중립의	중립의	
+k	중매인	중매인	matchmaker
+k	중모음	중모음	입을 보통으로 열고, 혀의 높이를 중간으로 하…
+k	중무기	중무기	
+k	중미주	중미주	Central America
+k	중반전	중반전	
+k	중백로	중백로	The intermediate egret, E…
+k	중백의	중백의	
+k	중복성	중복성	
+k	중산모	중산모	
+k	중산층	중산층	middle class
+k	중상자	중상자	
+k	중생계	중생계	
+k	중생대	중생대	공룡이 번성했던 지질시대. 쥐라기와 백악기가 …
+k	중석기	중석기	
+k	중설음	중설음	central sound
+k	중성의	중성의	
+k	중성자	중성자	neutron
+k	중성화	중성화	
+k	중세기	중세기	
+k	중세사	중세사	
+k	중세의	중세의	
+k	중수골	중수골	
+k	중수소	중수소	
+k	중식당	중식당	Chinese restaurant
+k	중심각	중심각	
+k	중심력	중심력	
+k	중심립	중심립	튜불린으로 이루어져 중심체를 형성하는 세포 소…
+k	중심부	중심부	
+k	중심선	중심선	
+k	중심적	중심적	매우 중요하고 기본이 되는.
+k	중심점	중심점	
+k	중심지	중심지	centre (a place of import…
+k	중심체	중심체	
+k	중심축	중심축	사물의 한가운데나 복판을 지나가는 축.
+k	중압감	중압감	
+k	중앙당	중앙당	
+k	중앙부	중앙부	
+k	중앙의	중앙의	
+k	중앙지	중앙지	
+k	중앙청	중앙청	
+k	중양자	중양자	
+k	중양절	중양절	
+k	중에서	중에서	between, among
+k	중역본	중역본	
+k	중역실	중역실	
+k	중역진	중역진	
+k	중영어	중영어	
+k	중오절	중오절	
+k	중요성	중요성	importance
+k	중요시	중요시	regarding as important
+k	중원경	중원경	
+k	중위도	중위도	저위도와 고위도의 중간으로 대략 위도 20~5…
+k	중위수	중위수	
+k	중의법	중의법	한 단어에 두 가지 이상에 뜻을 곁들여 언어의…
+k	중의원	중의원	
+k	중의학	중의학	traditional Chinese medic…
+k	중이병	중이병	중학교 2학년 또래의 사춘기 청소년들이 겪게 …
+k	중이염	중이염	'가운데귀염'.
+k	중일성	중일성	
+k	중입자	중입자	
+k	중자음	중자음	'복자음'의 다른 한자어. (부록: 한글 자모)
+k	중장비	중장비	
+k	중재국	중재국	
+k	중재인	중재인	arbitrator
+k	중재자	중재자	mediator, arbitrator, go-…
+k	중적분	중적분	multiple integral
+k	중전차	중전차	
+k	중전회	중전회	중국공산당 중앙위원회의 전체 회의.
+k	중절모	중절모	
+k	중점적	중점적	중심이 되고 매우 중요한.
+k	중정부	중정부	
+k	중족골	중족골	
+k	중지범	중지범	
+k	중진국	중진국	
+k	중징계	중징계	severe punishment; severe…
+k	중천금	중천금	
+k	중추원	중추원	
+k	중추월	중추월	
+k	중추적	중추적	가장 중요한 부분이나 자리가 되는.
+k	중추절	중추절	the Mid-Autumn Festival (…
+k	중층운	중층운	
+k	중판본	중판본	
+k	중포화	중포화	
+k	중하다	중하다	to be important; to be va…
+k	중학교	중학교	middle school
+k	중학년	중학년	고학년과 저학년의 중간인 학년. 초등학교 3~…
+k	중학생	중학생	middle school student, se…
+k	중핵자	중핵자	
+k	중형의	중형의	
+k	중화기	중화기	
+k	중화상	중화상	
+k	중환자	중환자	병이나 상태가 매우 안좋은 환자.
+k	주가지수	주가지수	
+k	주객일체	주객일체	주체(주관하는 쪽)와 객체(대상이 되는 것)가…
+k	주객전도	주객전도	주인과 손님의 위치나 관계가 뒤바뀜.
+k	주거하다	주거하다	어디에서 의식주를 해결하면서 살다.
+k	주경야독	주경야독	낮에는 농사짓고 밤에는 책을 읽는다는 뜻으로,…
+k	주고받다	주고받다	to exchange
+k	주굴주굴	주굴주굴	
+k	주근주근	주근주근	
+k	주글주글	주글주글	
+k	주기도문	주기도문	기독교에서 예수에게 드리는 기도문.
+k	주기률표	주기률표	North Korea standard spel…
+k	주기율표	주기율표	periodic table
+k	주둥아리	주둥아리	
+k	주렁주렁	주렁주렁	
+k	주룩대다	주룩대다	
+k	주룩주룩	주룩주룩	
+k	주룩하다	주룩하다	
+k	주름지다	주름지다	
+k	주머니쥐	주머니쥐	
+k	주머니칼	주머니칼	penknife, pocketknife
+k	주먹가위	주먹가위	rock paper scissors
+k	주먹감자	주먹감자	bras d'honneur
+k	주목하다	주목하다	watch; pay attention
+k	주무랑마	주무랑마	
+k	주무르다	주무르다	to repeatedly grasp and r…
+k	주무시다	주무시다	to sleep: honorific of 자다…
+k	주문하다	주문하다	to order; to place an ord…
+k	주민센터	주민센터	동사무소.
+k	주변장치	주변장치	
+k	주빗대다	주빗대다	
+k	주빗주빗	주빗주빗	
+k	주빗하다	주빗하다	
+k	주뼛대다	주뼛대다	'주뼛거리다'.
+k	주뼛주뼛	주뼛주뼛	pointily, taperingly
+k	주뼛하다	주뼛하다	
+k	주삣대다	주삣대다	
+k	주삣주삣	주삣주삣	
+k	주삣하다	주삣하다	
+k	주삿바늘	주삿바늘	주사기 끝에 꽂는 바늘.
+k	주색잡기	주색잡기	wine, women and gambling;…
+k	주섬주섬	주섬주섬	
+k	주시하다	주시하다	to fix one's eyes on
+k	주식시장	주식시장	stock market
+k	주식회사	주식회사	a type of corporation und…
+k	주아브병	주아브병	
+k	주야장천	주야장천	(사자성어) 밤낮 쉬지않고 흐르는 시냇물. 밤…
+k	주어지다	주어지다	To be provided; given.
+k	주억대다	주억대다	'주억거리다'.
+k	주억주억	주억주억	
+k	주엽나무	주엽나무	Japanese honey locust
+k	주요하다	주요하다	to be main; to be princip…
+k	주워듣다	주워듣다	to pick up information by…
+k	주의깊다	주의깊다	
+k	주의의무	주의의무	
+k	주의하다	주의하다	to watch out
+k	주의하여	주의하여	
+k	주일무적	주일무적	(성리학) 정이가 주장한 것으로 경(敬)을 통…
+k	주장하다	주장하다	to make a claim or assert…
+k	주저대다	주저대다	'주저거리다'.
+k	주저되다	주저되다	
+k	주저앉다	주저앉다	to sit down in a forceles…
+k	주저주저	주저주저	
+k	주저하다	주저하다	
+k	주적대다	주적대다	'주적거리다'.
+k	주적주적	주적주적	
+k	주전대다	주전대다	'주전거리다'.
+k	주전부리	주전부리	때를 가리지 아니하고 군음식을 자꾸 먹음. 또…
+k	주전주전	주전주전	
+k	주절대다	주절대다	'주절거리다'.
+k	주절주절	주절주절	
+k	주정뱅이	주정뱅이	drunk; drunkard
+k	주정주의	주정주의	(철학) 이성보다 감정이 우월하다고 여기는 사…
+k	주제넘다	주제넘다	말이나 하는 짓이 자신의 처지나 형편에 맞지 …
+k	주제넘은	주제넘은	'주제넘다'의 관형사형.
+k	주제넘음	주제넘음	'주제넘다'의 명사형.
+k	주조하다	주조하다	
+k	주주모집	주주모집	
+k	주주총회	주주총회	주주들로 구성된 곳이며 의사를 결정하는 최고기…
+k	주즈하프	주즈하프	
+k	주지께다	주지께다	
+k	주지육림	주지육림	(사자성어) 술이 연못을 이루고 고기가 숲을 …
+k	주지하다	주지하다	
+k	주차금지	주차금지	
+k	주차하다	주차하다	to park
+k	주척대다	주척대다	
+k	주척주척	주척주척	
+k	주체사상	주체사상	Juche (the state ideology…
+k	주춤대다	주춤대다	'주춤거리다'.
+k	주춤주춤	주춤주춤	어떤 행동이나 걸음 따위를 망설이며 자꾸 머뭇…
+k	주춤하다	주춤하다	
+k	주츰대다	주츰대다	
+k	주츰주츰	주츰주츰	
+k	주크박스	주크박스	
+k	주행거리	주행거리	
+k	죽 마셔	죽 마셔	
+k	죽림칠현	죽림칠현	
+k	죽마고우	죽마고우	close friend since childh…
+k	죽을 맛	죽을 맛	"taste of impending death…
+k	죽장망혜	죽장망혜	대로 만든 지팡이와 짚신. 머나먼 곳으로 떠날…
+k	준강자성	준강자성	
+k	준비되다	준비되다	앞일에 대비하여 마련하여 갖추어지다.
+k	준비하다	준비하다	to prepare
+k	준수하다	준수하다	to be handsome
+k	준열하다	준열하다	매우 엄하고 매섭다.
+k	준제보살	준제보살	
+k	준준결승	준준결승	
+k	준형용사	준형용사	
+k	준혹하다	준혹하다	몹시 모질고 독해서 인정이 없다.
+k	줄기러기	줄기러기	
+k	줄기상추	줄기상추	
+k	줄기세포	줄기세포	
+k	줄기줄기	줄기줄기	in ranges, ridges, peaks …
+k	줄기차다	줄기차다	steadfast, unwavering; co…
+k	줄납자루	줄납자루	The Korean striped bitter…
+k	줄넘기줄	줄넘기줄	jump rope, skip rope, ski…
+k	줄다리기	줄다리기	
+k	줄렁대다	줄렁대다	'줄렁거리다'.
+k	줄렁이다	줄렁이다	
+k	줄어들다	줄어들다	to diminish or decrease
+k	줄장지뱀	줄장지뱀	mountain grass lizard (Ta…
+k	줌 아웃	줌 아웃	zoom out
+k	줌허리통	줌허리통	'줌통'.
+k	중 하나	중 하나	
+k	중간계급	중간계급	
+k	중간고사	중간고사	midterm exam
+k	중간도매	중간도매	
+k	중간상인	중간상인	
+k	중간선거	중간선거	
+k	중간섬유	중간섬유	세포 골격 중 미세소관과 미세섬유의 중간 굵기…
+k	중간세포	중간세포	
+k	중간숙주	중간숙주	
+k	중간시옷	중간시옷	'사이시옷'.
+k	중간유전	중간유전	
+k	중간이득	중간이득	
+k	중간잡종	중간잡종	
+k	중간착취	중간착취	
+k	중간판결	중간판결	
+k	중개무역	중개무역	
+k	중개상인	중개상인	
+k	중견작가	중견작가	
+k	중계무역	중계무역	
+k	중계방송	중계방송	
+k	중과부적	중과부적	
+k	중구난방	중구난방	"마구 떠듦"을 뜻함.
+k	중국국수	중국국수	(음식) '자장면'의 북한말.
+k	중국대륙	중국대륙	mainland China; the Chine…
+k	중국문명	중국문명	
+k	중국문학	중국문학	
+k	중국요리	중국요리	중국에서 발상한 요리를 이르는 말.
+k	중국원인	중국원인	문화어에서 ‘베이징원인’을 달리 이르는 말.
+k	중국자라	중국자라	Chinese softshell turtle …
+k	중국철학	중국철학	
+k	중금사상	중금사상	
+k	중금주의	중금주의	
+k	중금학파	중금학파	
+k	중기관총	중기관총	
+k	중농주의	중농주의	
+k	중농학파	중농학파	
+k	중단되다	중단되다	
+k	중단하다	중단하다	to discontinue; to abort;…
+k	중대백로	중대백로	The great egret, Ardea al…
+k	중대하다	중대하다	significant
+k	중덜대다	중덜대다	'중덜거리다'.
+k	중도주의	중도주의	centrism
+k	중등교육	중등교육	
+k	중등학교	중등학교	
+k	중량분석	중량분석	
+k	중류계급	중류계급	
+k	중류사회	중류사회	
+k	중립위반	중립위반	
+k	중립주의	중립주의	정치적으로 어느 한쪽에도 치우치지 않는 것.
+k	중립지대	중립지대	
+k	중매결혼	중매결혼	
+k	중매쟁이	중매쟁이	matchmaker
+k	중매하다	중매하다	
+k	중박격포	중박격포	
+k	중복되다	중복되다	to duplicate, overlap, re…
+k	중부지방	중부지방	
+k	중산계급	중산계급	
+k	중산모자	중산모자	
+k	중상모략	중상모략	터무니 없이 다른 사람을 헐뜯고 (=중상), …
+k	중상적인	중상적인	
+k	중상주의	중상주의	
+k	중상하다	중상하다	터무니 없이 다른 사람을 헐뜯고 명예를 해치다.
+k	중상학파	중상학파	
+k	중생제도	중생제도	
+k	중선거구	중선거구	
+k	중설모음	중설모음	
+k	중성미자	중성미자	
+k	중성반응	중성반응	
+k	중성비료	중성비료	
+k	중성세제	중성세제	
+k	중성자별	중성자별	neutron star
+k	중성자성	중성자성	
+k	중성자탄	중성자탄	
+k	중성토양	중성토양	
+k	중세국어	중세국어	Middle Korean
+k	중세영어	중세영어	
+k	중세철학	중세철학	
+k	중소기업	중소기업	smaller businesses, small…
+k	중시하다	중시하다	중요하게 여기다.
+k	중신아비	중신아비	남의 혼인을 중매하는 남자를 낮잡아 이르는 말…
+k	중신어미	중신어미	남의 혼인을 중매하는 여자를 낮잡아 이르는 말…
+k	중심기압	중심기압	
+k	중심닮음	중심닮음	point symmetry
+k	중심도법	중심도법	
+k	중심운동	중심운동	
+k	중심인물	중심인물	어떤 사건의 중심이 되거나, 핵심이 되는 인물.
+k	중아시아	중아시아	'중앙아시아'를 일컫는 연변말.
+k	중앙관제	중앙관제	
+k	중앙관청	중앙관청	
+k	중앙금고	중앙금고	
+k	중앙기관	중앙기관	
+k	중앙난방	중앙난방	중앙의 난방 시설에서 열기를 보내는 방식의 난…
+k	중앙유럽	중앙유럽	Central Europe (a geograp…
+k	중앙은행	중앙은행	central bank
+k	중앙정부	중앙정부	
+k	중앙집권	중앙집권	
+k	중앙행정	중앙행정	
+k	중양성자	중양성자	
+k	중언부언	중언부언	
+k	중얼대다	중얼대다	'중얼거리다'.
+k	중얼중얼	중얼중얼	mumblingly
+k	중역회의	중역회의	
+k	중온동물	중온동물	mesotherm
+k	중요하다	중요하다	to be important
+k	중용사상	중용사상	
+k	중우정치	중우정치	ochlocracy, mob rule
+k	중유기관	중유기관	
+k	중유연료	중유연료	
+k	중음탈락	중음탈락	
+k	중일식물	중일식물	
+k	중일전쟁	중일전쟁	일본이 중국을 침략하면서 발발한 전쟁. 전쟁 …
+k	중재재판	중재재판	
+k	중절대다	중절대다	'중절거리다'.
+k	중절모자	중절모자	
+k	중종반정	중종반정	
+k	중지미수	중지미수	
+k	중지하다	중지하다	
+k	중추기관	중추기관	
+k	중층구름	중층구름	구름이 나타나는 높이에 의해서 3가지로 분류할…
+k	중편소설	중편소설	novella
+k	중폭격기	중폭격기	
+k	중화대북	중화대북	Chinese Taipei
+k	중화료리	중화료리	
+k	중화민국	중화민국	Republic of China (a coun…
+k	중화사상	중화사상	
+k	중화요리	중화요리	
+k	중화하다	중화하다	
+k	중환자실	중환자실	
+k	중후하다	중후하다	태도 따위가 정중하고 무게가 있다.
+k	주걱뿔사슴	주걱뿔사슴	elk, moose
+k	주격 조사	주격 조사	(언어) 문장 안에서, 주어임을 표시하는 격 …
+k	주근주근히	주근주근히	
+k	주느비에브	주느비에브	
+k	주루룩대다	주루룩대다	
+k	주루룩하다	주루룩하다	
+k	주룩거리다	주룩거리다	
+k	주르르하다	주르르하다	
+k	주르륵대다	주르륵대다	'주르륵거리다'.
+k	주르륵하다	주르륵하다	
+k	주름투성이	주름투성이	wrinkliness, rugosity
+k	주먹 인사	주먹 인사	
+k	주무랑마봉	주무랑마봉	'에베레스트산'의 북한말.
+k	주물럭대다	주물럭대다	'주물럭거리다'.
+k	주민등록증	주민등록증	ID card, registration card
+k	주빗거리다	주빗거리다	
+k	주뼛거리다	주뼛거리다	물건의 끝이 다 차차 가늘어지면서 뾰족뾰족하게…
+k	주삣거리다	주삣거리다	
+k	주식청약서	주식청약서	
+k	주억거리다	주억거리다	고개를 앞뒤로 천천히 끄덕거리다.
+k	주유 펌프	주유 펌프	
+k	주음 부호	주음 부호	
+k	주의 집중	주의 집중	
+k	주저거리다	주저거리다	자꾸 머뭇거리며 망설이다.
+k	주적거리다	주적거리다	주책없이 잘난 체하며 자꾸 떠들다.
+k	주전거리다	주전거리다	때를 가리지 아니하고 군음식을 점잖지 아니하게…
+k	주절거리다	주절거리다	낮은 목소리로 말을 계속하다.
+k	주접스럽다	주접스럽다	
+k	주척거리다	주척거리다	
+k	주체스럽다	주체스럽다	to be cumbersome
+k	주춤거리다	주춤거리다	어떤 행동이나 걸음 따위가 망설여지며 자꾸 머…
+k	주츰거리다	주츰거리다	
+k	주행거리계	주행거리계	
+k	죽은 링크	죽은 링크	
+k	죽은 사람	죽은 사람	
+k	죽음의 조	죽음의 조	
+k	준거타원체	준거타원체	측량학에서, 특정 지역에서 기준으로 사용하는 …
+k	준군사조직	준군사조직	
+k	준성전파원	준성전파원	블레이자를 뿜어내는 성운으로 거대한 블랙홀을 …
+k	줄넘기하다	줄넘기하다	to skip rope, jump rope
+k	줄렁거리다	줄렁거리다	물 따위가 큰 물결을 이루며 자꾸 흔들리다.
+k	줄을 서다	줄을 서다	to queue, stand in line
+k	줌 인하다	줌 인하다	
+k	중간방어수	중간방어수	'링커'의 북한말.
+k	중간설상골	중간설상골	
+k	중고 한어	중고 한어	Middle Chinese
+k	중국 대륙	중국 대륙	
+k	중국 사람	중국 사람	
+k	중국 장기	중국 장기	
+k	중국공산당	중국공산당	Communist Party of China
+k	중국보통어	중국보통어	
+k	중국쏘가리	중국쏘가리	mandarin fish (Siniperca …
+k	중대시하다	중대시하다	중요하게 여기다.
+k	중덜거리다	중덜거리다	불만스러운 태도로 자꾸 중얼거리다.
+k	중부리도요	중부리도요	
+k	중성 명사	중성 명사	성(性)을 구별하는 문법에서, 남성도 여성도 …
+k	중성 모음	중성 모음	모음 조화가 있는 언어에서 어떤 모음과도 잘 …
+k	중세 국어	중세 국어	
+k	중앙 난방	중앙 난방	
+k	중앙아시아	중앙아시아	Central Asia (a landlocke…
+k	중앙정보국	중앙정보국	the Central Intelligence …
+k	중앙정보부	중앙정보부	
+k	중얼거리다	중얼거리다	to mutter, to mumble
+k	중요시되다	중요시되다	to be regarded as importa…
+k	중요시하다	중요시하다	to regard as important
+k	중절거리다	중절거리다	수다스럽게 중얼거리다.
+k	중탄산조달	중탄산조달	
+k	중편 소설	중편 소설	장편 소설과 단편 소설의 중간쯤 되는 분량의 …
+k	주교 지팡이	주교 지팡이	
+k	주굴주굴하다	주굴주굴하다	
+k	주근주근하다	주근주근하다	
+k	주글주글하다	주글주글하다	
+k	주님의 기도	주님의 기도	
+k	주렁주렁하다	주렁주렁하다	
+k	주롱 이스트	주롱 이스트	Jurong East
+k	주루룩거리다	주루룩거리다	
+k	주루룩주루룩	주루룩주루룩	
+k	주룩주룩하다	주룩주룩하다	
+k	주룽주룽하다	주룽주룽하다	
+k	주류 판매점	주류 판매점	
+k	주르륵거리다	주르륵거리다	굵은 물줄기 따위가 빠르게 흐르다가 그치는 소…
+k	주르륵주르륵	주르륵주르륵	
+k	주먹을 쥐다	주먹을 쥐다	
+k	주물럭거리다	주물럭거리다	물건 따위를 자꾸 주무르다.
+k	주물럭주물럭	주물럭주물럭	
+k	주빗주빗하다	주빗주빗하다	
+k	주뼛주뼛하다	주뼛주뼛하다	
+k	주삣주삣하다	주삣주삣하다	
+k	주섬주섬하다	주섬주섬하다	
+k	주억주억하다	주억주억하다	
+k	주저리주저리	주저리주저리	
+k	주저주저하다	주저주저하다	
+k	주적주적하다	주적주적하다	
+k	주전주전하다	주전주전하다	
+k	주절주절하다	주절주절하다	
+k	주차장 건물	주차장 건물	
+k	주척주척하다	주척주척하다	
+k	주체 높임법	주체 높임법	(언어) 용언의 어간에 높임의 선어말 어미 ‘…
+k	주춤주춤하다	주춤주춤하다	
+k	주츰주츰하다	주츰주츰하다	
+k	주파수 변조	주파수 변조	
+k	주행성 동물	주행성 동물	낮에 주로 활동하는 습성을 가진 동물.
+k	주혈 원충병	주혈 원충병	
+k	죽다 살았다	죽다 살았다	to have come out safely f…
+k	죽음의 구역	죽음의 구역	
+k	죽음의 무도	죽음의 무도	
+k	죽음의 행진	죽음의 행진	
+k	죽음의 화면	죽음의 화면	
+k	준플레이오프	준플레이오프	와일드카드의 승자와 정규시즌 3위가 플레이오프…
+k	줄박이돌고래	줄박이돌고래	striped dolphin (Stenella…
+k	줌 아웃하다	줌 아웃하다	
+k	중간 크기의	중간 크기의	
+k	중거리 경주	중거리 경주	
+k	중국 드라마	중국 드라마	
+k	중국산개구리	중국산개구리	The Asiatic grass frog, R…
+k	중국어 화자	중국어 화자	
+k	중매를 서다	중매를 서다	
+k	중부 표준시	중부 표준시	
+k	중석기 시대	중석기 시대	
+k	중성자 폭탄	중성자 폭탄	
+k	중세 한국어	중세 한국어	synonym of 중세국어(中世國語) (Ju…
+k	중앙아메리카	중앙아메리카	Central America
+k	중앙아프리카	중앙아프리카	Central Africa (a core ge…
+k	중위도고압대	중위도고압대	남북 양반구의 위도 30° 부근에 위치하며, …
+k	중추 신경계	중추 신경계	(의학) 중추 신경 계통
+k	중추신경계통	중추신경계통	
+k	중탄산 소다	중탄산 소다	
+k	주목할 만하다	주목할 만하다	
+k	주장을 굽히다	주장을 굽히다	주로 상대의 주장과 충돌할 때, 자신의 의견이…
+k	주차 브레이크	주차 브레이크	
+k	죽상동맥경화증	죽상동맥경화증	
+k	죽은 척 하다	죽은 척 하다	
+k	준결승 진출자	준결승 진출자	
+k	중간 사이즈의	중간 사이즈의	
+k	중거리 달리기	중거리 달리기	
+k	중국 팝 음악	중국 팝 음악	
+k	중국산악고양이	중국산악고양이	
+k	중국식 영어의	중국식 영어의	
+k	중력 상호작용	중력 상호작용	
+k	중화 타이베이	중화 타이베이	
+k	중화인민공화국	중화인민공화국	People's Republic of Chin…
+k	주루룩주루룩하다	주루룩주루룩하다	
+k	주르륵주르륵하다	주르륵주르륵하다	
+k	주물럭주물럭하다	주물럭주물럭하다	
+k	주의를 기울이다	주의를 기울이다	
+k	죽은 척을 하다	죽은 척을 하다	
+k	준준결승 진출자	준준결승 진출자	
+k	중국 인민해방군	중국 인민해방군	
+k	중동호흡기증후군	중동호흡기증후군	
+k	중앙 처리 장치	중앙 처리 장치	central processing unit
+k	중추 신경 계통	중추 신경 계통	(의학) 동물의 신경 계통이 집중하여 중심부를…
+k	주사위는 던져졌다	주사위는 던져졌다	
+k	죽음의 파란 화면	죽음의 파란 화면	
+k	줄무늬노랑발갈매기	줄무늬노랑발갈매기	
+k	중앙아프리카 제국	중앙아프리카 제국	
+k	중앙아프리카 공화국	중앙아프리카 공화국	Central African Republic …
+k	중증급성호흡기증후군	중증급성호흡기증후군	
+k	중합효소 연쇄 반응	중합효소 연쇄 반응	
+k	죽은 자는 말이 없다	죽은 자는 말이 없다	
+k	죽은 자식 나이 세기	죽은 자식 나이 세기	일을 자꾸 보아야 는 말.
+k	중국인의 나머지 정리	중국인의 나머지 정리	
+k	죽은 자식 자지 만져 보기	죽은 자식 자지 만져 보기	어버이가 죽은 자식 때문에 원통하고 절망하여 …

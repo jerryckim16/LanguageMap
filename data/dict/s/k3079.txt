@@ -1,0 +1,886 @@
+j	べ	べ	sentence-ending particle …
+j	辺	べ	place, general area, vici…
+j	郁子	べ	Stauntonia hexaphylla
+j	べき	べき	助動詞「べし」の連体形。
+j	べこ	べこ	a cow
+j	べご	べご	cow, bull, ox, cattle, a …
+j	べし	べし	indicating certainty
+j	べそ	べそ	tear stained faces
+j	べた	べた	corny, hackneyed
+j	べに	べに	紅: crimson color
+j	べぶ	べぶ	cow, bull, ox, cattle, a …
+j	べべ	べべ	children's clothes
+j	べら	べら	スズキ目ベラ科に属する魚の総称。学名:Labrid…
+j	べろ	べろ	tongue
+j	ベア	ベア	熊。
+j	ベイ	ベイ	bay
+j	ベガ	ベガ	Vega
+j	ベグ	ベグ	
+j	ベタ	ベタ	Betta, a genus of fish in…
+j	ベダ	ベダ	「ヴェーダ」の別表記。
+j	ベム	ベム	BEM
+j	ベル	ベル	bell (a type of small noi…
+j	ベロ	ベロ	べろの異表記。
+j	ベン	ベン	マメ科アフゼリア属の高木の一種（Afzelia x…
+j	ベ市	べし	
+j	ベ市	ベし	
+j	ベ市	ベ市	
+j	便	べん	convenient
+j	倍良	べら	
+j	倍良	ベラ	
+j	冕	べん	crown
+j	冪	べき	a power
+j	別	べち	different, separate, anot…
+j	別	べつ	different, separate, anot…
+j	別府	べふ	a city in Ōita Prefecture
+j	助け平	べえ	lecherous, lewd
+j	可い	べい	should; must
+j	廟	べう	mausoleum
+j	弁	べん	discrimination
+j	瓣	べん	valve (membranous partiti…
+j	眇	べう	small, minor, trifling
+j	秒	べう	second (one-sixtieth of a…
+j	米	べい	rice (husked grains of th…
+j	紅	べに	the color crimson, a vivi…
+j	遍羅	べら	a wrasse
+j	遍羅	ベラ	a wrasse
+j	錨	べう	an anchor (tool to moor a…
+j	鼈	べつ	a Chinese softshell turtl…
+j	べき論	べき論	argumentation on how thin…
+j	べっと	べっと	別途: special, separate
+j	べっ甲	べっ甲	
+j	べつび	べつび	別日: another day
+j	べんざ	べんざ	便座: a toilet seat
+j	べんり	べんり	便利: convenient, handy
+j	ベォレ	ベォレ	
+j	ベスタ	ベスタ	
+j	ベスト	ベスト	best
+j	ベター	ベター	より良い。
+j	ベタ問	ベタ問	classic question
+j	ベット	ベット	ベッド。
+j	ベッド	ベッド	bed (piece of furniture t…
+j	ベティ	ベティ	
+j	ベトン	ベトン	concrete
+j	ベナン	ベナン	Benin (a country in West …
+j	ベニス	ベニス	Venice (a port city in Ve…
+j	ベニヤ	ベニヤ	合板（ベニヤ板）をつくるための薄い板。
+j	ベニン	ベニン	Benin (a country in West …
+j	ベビー	ベビー	baby, infant
+j	ベラム	ベラム	
+j	ベリー	ベリー	berry (fruit)
+j	ベルク	ベルク	
+j	ベルト	ベルト	A belt (clothing)
+j	ベルン	ベルン	Bern (the capital city of…
+j	ベル公	ベル公	ベルギー人に対する侮辱語。ベルカス。
+j	ベル友	ベル友	a friend you keep in touc…
+j	ベレー	ベレー	
+j	ベンチ	ベンチ	a bench (long seat)
+j	ベンツ	ベンツ	Benz
+j	ベン図	べんず	a Venn diagram
+j	ベン図	ベンず	a Venn diagram
+j	ベン図	ベン図	a Venn diagram
+j	ベージ	ベージ	
+j	ベース	ベース	base (bottom, foundation)
+j	ベーゼ	ベーゼ	接吻。キス。
+j	ベータ	ベータ	beta (second letter of th…
+j	ベーダ	ベーダ	「ヴェーダ」の別表記。
+j	ベール	ベール	veil
+j	便事	べんじ	適宜。
+j	便利	べんり	convenient; handy; useful
+j	便器	べんき	a toilet or urinal in gen…
+j	便壺	べんこ	（べんこ）便器。
+j	便宜	べんぎ	convenience, advantage
+j	便座	べんざ	toilet seat
+j	便意	べんい	feeling that one needs to…
+j	便秘	べんぴ	constipation (state of bo…
+j	便衣	べんい	中国で日常用いられた、丈が短く袖が細い服。普段着。…
+j	便辞	べんじ	巧説。
+j	値引き	べびき	price reduction, discount
+j	冖部	べきぶ	部首「⼍」で分類した漢字の一群。
+j	別に	べつに	nothing special; not real…
+j	別の	べつの	
+j	別は	べつは	
+j	別事	べちじ	別の事。
+j	別事	べつじ	別の事。
+j	別使	べっし	special messenger
+j	別個	べっこ	separate; additional
+j	別字	べつじ	different character
+j	別家	べっか	別の家。
+j	別家	べっけ	別の家。
+j	別府	べっぷ	a city in Ōita Prefecture
+j	別日	べつび	another day
+j	別時	べちじ	(べつじ) 別の時。特に、遠い未来。
+j	別時	べつじ	(べつじ) 別の時。特に、遠い未来。
+j	別紙	べっし	separate sheet of paper, …
+j	別義	べつぎ	別のこと。余事。
+j	別辞	べつじ	別れの言葉。
+j	別途	べっと	special, separate
+j	別離	べつり	parting; separation
+j	宀部	べんぶ	部首「⼧」で分類した漢字の一群。
+j	弁事	べんじ	office work
+j	弁士	べんし	弁舌がたくみな人物。
+j	弁当	べんと	food brought on the go
+j	弁理	べんり	判別して処理すること。
+j	弁疏	べんそ	言い訳すること。また、その言葉。弁明。弁解。
+j	弁知	べんち	道理を弁え、思慮があること。
+j	弁護	べんご	advocacy, defense
+j	抃舞	べんぶ	dancing and clapping one'…
+j	汨羅	べきら	
+j	浼止	べんし	阻止すること。
+j	眯語	べいご	夢物語。
+j	瞥爾	べつじ	ちらっと見ること。また、それくらいの短い時間。
+j	米価	べいか	米の価格。
+j	米加	べいか	アメリカ合衆国とカナダのこと。また、そのさま。
+j	米紙	べいし	US newspaper
+j	米菓	べいか	beika (Japanese kashi mad…
+j	米語	べいご	American English
+j	米部	べいぶ	部首「⽶」で分類した漢字の一群。
+j	米露	べいろ	アメリカとロシア。
+j	糸部	べきぶ	部首「⽷」で分類した漢字の一群。
+j	紅檜	べにひ	Taiwan red cypress, Chama…
+j	紅檜	ベニヒ	Taiwan red cypress, Chama…
+j	紅緋	べにひ	黄みの強い赤色。
+j	紅花	べにか	safflower (Carthamus tinc…
+j	紅葉	べには	the turning (coloring) of…
+j	胼胝	べんち	callus
+j	苗圃	べうほ	seedbed
+j	蔑視	べっし	contempt, scorn
+j	覓僱	べきこ	使用人。被用者。
+j	辦事	べんじ	執務すること。
+j	辨事	べんじ	事務を取り扱うこと。その人。
+j	部民	べみん	部に属する民。
+j	鞭打	べんだ	鞭で打つこと。
+j	鞭笞	べんち	むち。
+j	騈枝	べんし	役に立たないもの。騈拇枝指。
+j	黽部	べんぶ	部首「⿌」で分類した漢字の一群。
+j	べいえん	べいえん	米塩: daily necessities suc…
+j	べいこく	べいこく	
+j	べいじゅ	べいじゅ	age of eighty-eight (from…
+j	べいふん	べいふん	米粉: rice flour
+j	べからず	べからず	must not; should not
+j	べき論	べきろん	argumentation on how thin…
+j	べくして	べくして	happening as a matter of …
+j	べたうち	べたうち	word processor text devoi…
+j	べたつく	べたつく	べたべたする。粘り着く。
+j	べたぶみ	べたぶみ	full throttle; pedal to t…
+j	べたべた	べたべた	sticky, clammy
+j	べたぼれ	べたぼれ	head over heels
+j	べた組み	べたぐみ	solid composition (text c…
+j	べた組み	べた組み	solid composition (text c…
+j	べったり	べったり	clinging to, sticking clo…
+j	べっちん	べっちん	別珍: velveteen
+j	べっぷく	べっぷく	別腹: “separate belly”: in …
+j	べつどり	べつどり	filmed, photographed, or …
+j	べつべつ	べつべつ	
+j	べとつく	べとつく	べとべとする。
+j	べとべと	べとべと	物が粘り付くさま。
+j	べにあか	べにあか	黄みがかった赤色。
+j	べにいた	べにいた	江戸時代の携帯用の化粧道具。二つ折りの板に紅を載せ…
+j	べにいろ	べにいろ	紅色
+j	べにかば	べにかば	紅がかった樺色。
+j	べにづる	べにづる	フラミンゴの和名。
+j	べにばな	べにばな	キク目ベニバナ属の一年草、越年草。学名は Cart…
+j	べにひわ	べにひわ	スズメ目アトリ科カワラヒワ属に属する鳥の一種。学名…
+j	べらべら	べらべら	bubblingly; talkatively
+j	べらぼう	べらばう	excessive
+j	べらぼう	べらぼう	excessive
+j	べりべり	べりべり	a talkative person
+j	べろべろ	べろべろ	licking, lapping
+j	べんかん	べんかん	
+j	べんじょ	べんじょ	便所: toilet room
+j	べんとう	べんとう	
+j	べんぷう	べんぷう	頬。
+j	ベアルン	ベアルン	
+j	ベイビー	ベイビー	「ベビー」に同じ。赤ん坊。赤ちゃん。
+j	ベイベー	ベイベー	
+j	ベクター	ベクター	
+j	ベクトル	ベクトル	vector
+j	ベクレル	ベクレル	becquerel
+j	ベジタ語	べじたご	ベジュタ語の異形。
+j	ベジタ語	ベジタ語	ベジュタ語の異形。
+j	ベストラ	ベストラ	土星の第39衛星の固有名。
+j	ベスポジ	ベスポジ	
+j	ベタニン	ベタニン	
+j	ベタ問	べたもん	classic question
+j	ベタ問	ベタもん	classic question
+j	ベチバー	ベチバー	
+j	ベッチン	ベッチン	別珍: velveteen
+j	ベッツィ	ベッツィ	
+j	ベテラン	ベテラン	old hand, veteran (person…
+j	ベトコン	ベトコン	Vietcong
+j	ベトナム	ベトナム	Vietnam (a country in Sou…
+j	ベニザケ	ベニザケ	サケ目サケ科に属するOncorhynchus ne…
+j	ベニハナ	ベニハナ	紅花: safflower
+j	ベニヤ板	ベニヤ板	木製の薄い板を複数枚交互に張り合わせた板。合板。ベ…
+j	ベネチア	ベネチア	Venice (a port city in Ve…
+j	ベネチヤ	ベネチヤ	
+j	ベネト州	ベネト州	
+j	ベネト語	べねとご	
+j	ベネト語	ベネト語	
+j	ベビォン	ベビォン	土星の第37衛星の固有名。
+j	ベラム紙	ベラム紙	
+j	ベランダ	ベランダ	veranda
+j	ベリアル	ベリアル	
+j	ベリンダ	ベリンダ	天王星の第14衛星の固有名。
+j	ベリーズ	ベリーズ	Belize (an English-speaki…
+j	ベルカス	ベルカス	ベルギーまたはベルギー人に対する侮辱語。ベル公。
+j	ベルギー	ベルギー	Belgium (a country in Wes…
+j	ベルクロ	ベルクロ	
+j	ベルゲン	ベルゲン	
+j	ベルスタ	ベルスタ	verst
+j	ベルノキ	ベルノキ	インドやバングラデシュ原産のミカン科落葉高木の一種…
+j	ベルラン	ベルラン	
+j	ベルリン	ベルリン	Berlin (the capital and l…
+j	ベルーガ	ベルーガ	synonym of 白海豚 (shiroiruk…
+j	ベル公	べるこう	ベルギー人に対する侮辱語。ベルカス。
+j	ベル友	べるとも	a friend you keep in touc…
+j	ベル友	ベルとも	a friend you keep in touc…
+j	ベル麻痺	ベル麻痺	
+j	ベレンス	ベレンス	
+j	ベレー帽	ベレー帽	beret
+j	ベンガジ	ベンガジ	
+j	ベンガラ	ベンガラ	酸化鉄を主成分とする黄色みを帯びた赤色顔料。
+j	ベンガル	ベンガル	Bengal
+j	ベンジン	ベンジン	benzine (solvent or fuel)…
+j	ベンゼン	ベンゼン	benzene
+j	ベンソン	ベンソン	
+j	ベンダー	ベンダー	売り主、販売店。
+j	ベントス	ベントス	
+j	ベンバ人	ベンバ人	ザンビア北東部の主要民族。バントゥー人の一派。
+j	ベーグル	ベーグル	a bagel (toroidal bread r…
+j	ベーコン	ベーコン	bacon
+j	ベージュ	ベージュ	beige (color)
+j	ベータ星	ベータ星	（天体）星座でアルファ星に次ぐ恒星。通常はその星座…
+j	ベータ株	ベータ株	
+j	ベータ版	ベータ版	ある程度まで出来上がっているが完成・正式公開にはま…
+j	ベータ線	ベータ線	光速の電子から成る放射線。放射性同位体のベータ崩壊…
+j	伯林	べるりん	「ベルリン」の漢字表記。
+j	伯林	ベルリン	「ベルリン」の漢字表記。
+j	便する	べんする	（「～に便する」で）～に役立つ。～を行い易くする。
+j	便利な	べんりな	
+j	便利屋	べんりや	修理や伝言、配達、品物の調達などの雑用を職業とする…
+j	便勢	べんせい	有利な立場。
+j	便壺	べんつぼ	（べんこ）便器。
+j	便嬖	べんぺい	人に媚びへつらい、機嫌をとること。
+j	便室	べんしつ	
+j	便巧	べんこう	人の機嫌を巧みにとり、媚び、へつらうさま。また、そ…
+j	便房	べんばう	restroom (the room itself…
+j	便房	べんぼう	restroom (the room itself…
+j	便所	べんじょ	bathroom, restroom, lavat…
+j	便槽	べんそう	collection tank of a squa…
+j	便殿	べんでん	天皇の行幸や皇族の行啓の際、休息のために設けられた…
+j	便法	べんぽう	便利な方法。
+j	便益	べんえき	利便。利益。都合がいいことがら。
+j	便覧	べんらん	handbook, manual, guide
+j	便覽	べんらん	
+j	便風	べんぷう	都合の良い風。順風。
+j	冕冠	べんかん	a kind of ceremonial crow…
+j	冪数	べきすう	指数。
+j	冪根	べきこん	累乗してaとなる場合、その数。累乗根。
+j	冪等	べきとう	
+j	別人	べつじん	different person, someone…
+j	別件	べっけん	different matter
+j	別件	べつけん	different matter
+j	別体	べったい	体や形体を異にすること。
+j	別冊	べっさつ	additional volume, additi…
+j	別冊	べつさつ	additional volume, additi…
+j	別別	べつべつ	separated, divided, uncom…
+j	別口	べつくち	different kind of thing; …
+j	別号	べつごう	別称、別の称号。
+j	別名	べつめい	alias; nickname
+j	別品	べっぴん	別の品物。また、特別に良い品物。
+j	別垢	べつあか	alt (account)
+j	別墅	べっしょ	villa (a house used as a …
+j	別売	べつうり	sold separately
+j	別売	べつばい	sold separately
+j	別売り	べつうり	selling separately
+j	別姓	べっせい	different surname
+j	別姓	べつせい	different surname
+j	別嬪	べっぴん	beautiful woman
+j	別学	べつがく	男女が違う学校・教室で学ぶこと。
+j	別室	べっしつ	separate room; another ro…
+j	別室	べつしつ	separate room; another ro…
+j	別居	べっきょ	living separately
+j	別居	べつきよ	living separately
+j	別巻	べっかん	書物などでその巻とは別の巻。
+j	別当	べっとう	stableman, groom
+j	別形	べっけい	同じ種類に属するものの、別のかたち。異なる形式。異…
+j	別形	べつがた	同じ種類に属するものの、別のかたち。異なる形式。異…
+j	別役	べつやく	a surname
+j	別懇	べっこん	特に親しい間柄であること。また、そのようなさま。
+j	別所	べっしょ	a surname
+j	別書	べっしょ	別の紙に書くこと。
+j	別杯	べっぱい	別れを惜しんでかわすさかずき。別盃。
+j	別格	べっかく	special, exceptional
+j	別棟	べつむね	母屋や本館と棟が別になっていること。また、そのよう…
+j	別段	べつだん	particularly; in particul…
+j	別物	べつもの	different/another thing/m…
+j	別珍	べっちん	velveteen
+j	別珍	ベッチン	velveteen
+j	別盃	べっぱい	別れを惜しんでかわすさかずき。別杯。
+j	別種	べっしゅ	別の種類。
+j	別腹	べっぷく	“separate stomach”, appet…
+j	別腹	べつばら	“separate stomach”, appet…
+j	別荘	べっそう	villa (a house used as a …
+j	別解	べっかい	alternative/alternate sol…
+j	別送	べっそう	別に送付すること。
+j	別邸	べってい	separate house; villa
+j	別邸	べつてい	separate house; villa
+j	別金	べつきん	本体の代金・基本料金とは別に支払う金銭。追加費用。…
+j	別院	べついん	本山寺院とは別に他の地域に設けられた本山に準ずる寺…
+j	別隊	べったい	別の隊。本隊以外の隊。
+j	別項	べっこう	separate paragraph, anoth…
+j	別館	べっかん	annex (addition or extens…
+j	勉学	べんがく	studying, studies, study
+j	勉精	べんせい	精を出すこと。
+j	廟号	べうがう	a temple name (posthumous…
+j	廟所	べうしょ	cemetery
+j	弁じる	べんじる	のべる。主張する。
+j	弁口	べんこう	口のききかた
+j	弁天	べんてん	Benzaiten, goddess of kno…
+j	弁姓	べんせい	姓を分けること。
+j	弁巧	べんこう	口のききかたが巧みなこと。
+j	弁当	べんたう	food brought on the go
+j	弁当	べんとう	food brought on the go
+j	弁慶	べんけい	鎌倉時代初期の僧侶。
+j	弁明	べんめい	apology, explanation
+j	弁柄	べんがら	red iron oxide
+j	弁柄	ベンガラ	red iron oxide
+j	弁正	べんせい	善悪、正邪などを判断し正しくすること。
+j	弁済	べんさい	repayment (of a debt)
+j	弁者	べんしゃ	弁舌が達者な者。
+j	弁者	べんじゃ	弁舌が達者な者。
+j	弁膜	べんまく	valve
+j	弁舌	べんぜつ	物を言うこと。また、その言い方。論じること。論じ方。
+j	弁解	べんかい	excuse; explanation; just…
+j	弁言	べんげん	序文。引文。
+j	弁説	べんぜつ	ものの道理を説明すること。
+j	弁論	べんろん	discussion; debate; argum…
+j	弁識	べんしき	道理などをわきまえ、知ること。
+j	弁護士	べんごし	lawyer; attorney
+j	弁難	べんなん	言葉により非難すること。
+j	弁韓	べんかん	Byeonhan confederacy
+j	弁香	べんこう	わずかな香。
+j	弁駁	べんばく	相手の説の誤りを突き、それを攻撃すること。
+j	弁駁	べんぱく	相手の説の誤りを突き、それを攻撃すること。
+j	抃踊	べんよう	大喜びで手を打って舞うこと。
+j	抃蹈	べんとう	抃舞すること。
+j	抃転	べんてん	旋舞すること。
+j	描画	べうぐわ	drawing, painting, portra…
+j	描線	べうせん	drawn line
+j	猫額	べうがく	cat's forehead, smallness…
+j	瓣香	べんこう	わずかな香。
+j	白耳義	べるぎー	ベルギーの日本語による漢字表記。
+j	白耳義	ベルギー	ベルギーの日本語による漢字表記。
+j	瞥見	べっけん	getting a glimpse
+j	瞥見	べつけん	getting a glimpse
+j	秒読み	べうよみ	countdown (counting down …
+j	米トン	べいとん	short ton
+j	米トン	べいトン	short ton
+j	米ドル	べいどる	US dollar
+j	米ドル	べいドル	US dollar
+j	米人	べいじん	アメリカ人。
+j	米仏	べいふつ	アメリカ合衆国とフランス。
+j	米作	べいさく	米を作ること。
+j	米国	べいこく	a country that is an expo…
+j	米塩	べいえん	daily necessities such as…
+j	米寿	べいじゅ	age of eighty-eight (from…
+j	米州	べいしう	America, the Americas (a …
+j	米帝	べいてい	American imperialism; Uni…
+j	米松	べいまつ	Douglas fir, Pseudotsuga …
+j	米松	ベイマツ	Douglas fir, Pseudotsuga …
+j	米欧	べいおう	「欧米」に同じ。
+j	米泉	べいせん	酒。
+j	米潘	べいはん	米の研ぎ汁。
+j	米瀋	べいしん	米潘。
+j	米産	べいさん	米の生産。
+j	米穀	べいこく	rice
+j	米粉	べいふん	rice flour
+j	米粟	べいぞく	grain; rice and millet
+j	米英	べいえい	America and Britain
+j	米菓	べいくわ	beika (Japanese kashi mad…
+j	米軍	べいぐん	United States armed forces
+j	米酒	べいしゅ	
+j	米銭	べいせん	米穀と金銭。
+j	米雪	べいせつ	霰。
+j	米飯	べいはん	cooked rice
+j	米麦	べいばく	米と麦。
+j	紅殻	べんがら	
+j	紅殻	ベンガラ	
+j	紅色	べにいろ	the color crimson, a vivi…
+j	紅芋	べにいも	Conus pauperculus, a spec…
+j	紅芋	ベニイモ	Conus pauperculus, a spec…
+j	紅花	べにくわ	safflower (Carthamus tinc…
+j	紅花	べにはな	safflower (Carthamus tinc…
+j	紅花	べにばな	safflower (Carthamus tinc…
+j	紅花	ベニバナ	safflower (Carthamus tinc…
+j	紅鶴	べにづる	synonym of フラミンゴ (furamin…
+j	紅鶴	ベニヅル	synonym of フラミンゴ (furamin…
+j	苗裔	べうえい	offspring; descendant; pr…
+j	蔑如	べつじょ	scorn, contempt, disdain
+j	袂別	べいべつ	袂を別つこと。分かれること。
+j	貝独楽	べいごま	a spinning top traditiona…
+j	貝独楽	べえごま	a spinning top traditiona…
+j	貝独楽	べーごま	a spinning top traditiona…
+j	貝独楽	ベーゴマ	a spinning top traditiona…
+j	辦成	べんせい	処理すること。
+j	辮髪	べんぱつ	queue; pigtail
+j	辯口	べんこう	口のききかた
+j	辯巧	べんこう	口のききかたが巧みなこと。
+j	辯言	べんげん	口達者。口上手。
+j	鞭刑	べんけい	罪人を鞭で打つ刑罰。
+j	鞭撻	べんたつ	encouragement
+j	鞭毛	べんもう	flagellum
+j	鞭背	べんはい	背中を鞭で打つこと。
+j	餅盤	べいばん	マグマが地層同士の間に貫入し、鏡餅のように固まった…
+j	鼈甲	べっこう	tortoiseshell; shell of t…
+j	べいしゅう	べいしゅう	米収: rice harvest
+j	べそをかく	べそをかく	to be on the verge of tea…
+j	べそを作る	べそを作る	to be on the verge of tea…
+j	べにこうじ	べにこうじ	モナスカス属の黴で米を発酵させた食品。
+j	べにましこ	べにましこ	スズメ目アトリ科ベニマシコ属に属する鳥の一種。学名…
+j	べらんめえ	べらんめえ	an Edo native
+j	べろちゅう	べろちゅう	French kiss
+j	ベアリング	ベアリング	
+j	ベイサイド	ベイサイド	湾岸。
+j	ベイルート	ベイルート	Beirut (the capital city …
+j	ベクトル場	べくとるば	vector field
+j	ベクトル場	ベクトルば	vector field
+j	ベクトル場	ベクトル場	vector field
+j	ベクトル積	ベクトル積	a vector product
+j	ベクトル量	ベクトル量	大きさと向きを持つ量。ベクトル。
+j	ベジェ曲線	ベジェ曲線	a Bézier curve
+j	ベジエ曲線	ベジエ曲線	ベジェ曲線。
+j	ベジタブル	ベジタブル	vegetable
+j	ベジャイア	ベジャイア	
+j	ベジュタ語	べじゅたご	北コーカサスのダゲスタン共和国で話されている、北東…
+j	ベジュタ語	ベジュタ語	北コーカサスのダゲスタン共和国で話されている、北東…
+j	ベストテン	ベストテン	ある部門などで10位に入る優れた人やもの。
+j	ベストマン	ベストマン	
+j	ベッツィー	ベッツィー	
+j	ベッドイン	ベッドイン	going to bed (with someon…
+j	ベツサイダ	ベツサイダ	
+j	ベツレヘム	ベツレヘム	Bethlehem (a city in Pale…
+j	ベトナムの	ベトナムの	
+j	ベトナム人	ベトナム人	Vietnamese person
+j	ベトナム史	べとなむし	世界史の中におけるベトナムに関係する事柄を総合的に…
+j	ベトナム史	ベトナム史	世界史の中におけるベトナムに関係する事柄を総合的に…
+j	ベトナム国	ベトナム国	1949年から1955年までベトナムに存在した国家…
+j	ベトナム語	べとなむご	the Vietnamese language
+j	ベトナム語	ベトナムご	the Vietnamese language
+j	ベトナム語	ベトナム語	the Vietnamese language
+j	ベドウィン	ベドウィン	bedouin
+j	ベニヤミン	ベニヤミン	Benjamin
+j	ベニヤ板	べにやいた	木製の薄い板を複数枚交互に張り合わせた板。合板。ベ…
+j	ベニン王国	ベニン王国	12世紀から1897年までナイジェリア南部に存在し…
+j	ベネスエラ	ベネスエラ	
+j	ベネズエラ	ベネズエラ	Venezuela (a country in S…
+j	ベネチアの	ベネチアの	
+j	ベネチア人	ベネチア人	
+j	ベネチア語	べねちあご	
+j	ベネチア語	ベネチア語	
+j	ベネツィア	ベネツィア	ベネチアの表記揺れ。
+j	ベネツィヤ	ベネツィヤ	
+j	ベネルクス	ベネルクス	ベルギー・オランダ・ルクセンブルクを合わせた名称。…
+j	ベヒーモス	ベヒーモス	
+j	ベビーカー	ベビーカー	a stroller, a baby carria…
+j	ベヘモット	ベヘモット	
+j	ベラクルス	ベラクルス	
+j	ベラドンナ	ベラドンナ	別剌敦那: belladonna (a plant…
+j	ベラルーシ	ベラルーシ	Belarus (a country in Eas…
+j	ベリリウム	ベリリウム	beryllium, Be
+j	ベリーズの	ベリーズの	
+j	ベリーズ人	ベリーズ人	
+j	ベルガール	ベルガール	
+j	ベルキッダ	ベルキッダ	
+j	ベルギーの	ベルギーの	
+j	ベルギー人	ベルギー人	Belgian (person, people)
+j	ベルゴロド	ベルゴロド	
+j	ベルセルク	ベルセルク	berserk (a crazed Norse w…
+j	ベルゼブブ	ベルゼブブ	Beelzebub
+j	ベルトラン	ベルトラン	
+j	ベルビュー	ベルビュー	Bellevue (a city in Washi…
+j	ベルベット	ベルベット	velvet
+j	ベルベリン	ベルベリン	berberine
+j	ベルベル人	ベルベル人	
+j	ベルベル語	べるべるご	the Berber language
+j	ベルベル語	ベルベルご	the Berber language
+j	ベルベル語	ベルベル語	the Berber language
+j	ベルボトム	ベルボトム	
+j	ベルボーイ	ベルボーイ	
+j	ベルメタル	ベルメタル	
+j	ベルモット	ベルモット	vermouth
+j	ベルモパン	ベルモパン	Belmopan (the capital cit…
+j	ベレー帽	べれーぼう	beret
+j	ベレー帽	ベレーぼう	beret
+j	ベロチュウ	ベロチュウ	べろちゅうの別形。
+j	ベロチュー	ベロチュー	べろちゅうの別形。
+j	ベロルシア	ベロルシア	ベラルーシのロシア語名のカタカナ表記。
+j	ベンガル人	ベンガル人	インド北東部からバングラデシュにかけての地域に暮ら…
+j	ベンガル湾	ベンガル湾	the Bay of Bengal
+j	ベンガル狐	ベンガル狐	a Bengal fox
+j	ベンガル虎	ベンガル虎	
+j	ベンガル語	べんがるご	the Bengali language
+j	ベンガル語	ベンガルご	the Bengali language
+j	ベンガル語	ベンガル語	the Bengali language
+j	ベンゲット	ベンゲット	
+j	ベンジルき	ベンジルき	ベンジル基: (organic chemistry…
+j	ベンジル基	べんじるき	benzyl
+j	ベンジル基	ベンジルき	benzyl
+j	ベンジル基	ベンジル基	benzyl
+j	ベンゼン核	ベンゼン核	芳香族化合物に含まれ、炭素原子が正六角形に結合した…
+j	ベンゼン環	ベンゼン環	benzene ring
+j	ベンゾール	ベンゾール	benzene
+j	ベンチャー	ベンチャー	venture
+j	ベントレー	ベントレー	Bentley
+j	ベンバ人	べんばじん	ザンビア北東部の主要民族。バントゥー人の一派。
+j	ベーカリー	ベーカリー	パン・菓子・ケーキ類製造販売店、パン屋。
+j	ベーシスト	ベーシスト	bassist
+j	ベーシック	ベーシック	基本的な、基礎的な。
+j	ベータ崩壊	ベータ崩壊	放射性同位体が電子（ベータ線）を放出することにより…
+j	ベータ版	べーたばん	ある程度まで出来上がっているが完成・正式公開にはま…
+j	ベータ粒子	ベータ粒子	a beta particle
+j	ベータ線	べーたせん	光速の電子から成る放射線。放射性同位体のベータ崩壊…
+j	便宜的	べんぎてき	expedient, convenient
+j	便衣隊	べんいたい	
+j	冕冠	べんくわん	a kind of ceremonial crow…
+j	冪乗	べきじょう	累乗に同じ。
+j	冪指数	べきしすう	指数。
+j	別々に	べつべつに	
+j	別々の	べつべつの	
+j	別世界	べっせかい	この世とは別の世界。
+j	別体字	べったいじ	「異体字」の異称。
+j	別剌敦那	べらどんな	belladonna (a plant, Atro…
+j	別剌敦那	ベラドンナ	belladonna (a plant, Atro…
+j	別役	べっちゃく	a surname
+j	別時	べちじする	(べつじ) 別の時。特に、遠い未来。
+j	別時	べつじする	(べつじ) 別の時。特に、遠い未来。
+j	別次元	べつじげん	another dimension, anothe…
+j	別状	べつじやう	harm to life
+j	別状	べつじょう	harm to life
+j	別称	べっしょう	another name
+j	別離	べつりする	parting; separation
+j	別館	べつくわん	annex (addition or extens…
+j	勉強	べんきやう	studying, studies, study
+j	勉強	べんきょう	studying, studies, study
+j	娩出	べんしゅつ	birthing
+j	娩出	べんしゆつ	birthing
+j	弁償	べんしやう	compensation; reparation
+j	弁償	べんしょう	compensation; reparation
+j	弁当屋	べんとうや	弁当を作って売る店。
+j	弁証	べんしょう	弁論によりある事柄を証明すること。
+j	弁論の	べんろんの	
+j	弁護	べんごする	advocacy, defense
+j	弁護人	べんごにん	刑事事件の裁判で被告人の弁護を行う者。
+j	弁護団	べんごだん	刑事裁判での弁護人、民事裁判での弁護士の集団。
+j	抃舞	べんぶする	dancing and clapping one'…
+j	汨羅江	べきらかう	Miluo River (a river in H…
+j	汨羅江	べきらこう	Miluo River (a river in H…
+j	米中	べいちゅう	アメリカと中国。
+j	米収	べいしゅう	rice harvest
+j	米国の	べいこくの	
+j	米国化	べいこくか	Americanization/Americani…
+j	米国語	べいこくご	アメリカ英語のこと。
+j	米州	べいしゅう	America, the Americas (a …
+j	米粒	べいりゅう	米一つ一つの粒。
+j	米英語	べいえいご	アメリカ英語のこと。
+j	米食	べいしょく	米を主食として食べること。
+j	蔑称	べっしょう	insult, derogatory term o…
+j	蔑視	べっしする	contempt, scorn
+j	鞭虫	べんちゅう	鞭虫属に属する線虫の総称。
+j	騈脅	べんきょう	肋骨の間隔が狭く一枚の板のようになっていること。
+j	べそを作る	べそをつくる	to be on the verge of tea…
+j	べっちょない	べっちょない	（播州弁）大丈夫だ。
+j	べにさしゆび	べにさしゆび	紅差し指: ring finger
+j	べんざいてん	べんざいてん	弁才天: The Japanese name fo…
+j	べんじょめし	べんじょめし	eating lunch in the restr…
+j	べんとうばこ	べんとうばこ	弁当箱: lunchbox
+j	ベイブレード	ベイブレード	
+j	ベエルシェバ	ベエルシェバ	
+j	ベオグラード	ベオグラード	Belgrade (the capital cit…
+j	ベクトル代数	ベクトル代数	
+j	ベクトル積	べくとるせき	a vector product
+j	ベクトル積	ベクトルせき	a vector product
+j	ベクトル空間	ベクトル空間	（数学）いくつかの条件を満たす和とスカラー倍が定義…
+j	ベクトル解析	ベクトル解析	空間上のベクトル場・テンソル場に関する微積分を扱う…
+j	ベクルックス	ベクルックス	ミモザの別名。
+j	ベジタブルな	ベジタブルな	
+j	ベジタリアン	ベジタリアン	vegetarian
+j	ベジバーガー	ベジバーガー	
+j	ベストアクト	ベストアクト	best act (performer)
+j	ベストスリー	ベストスリー	best 3; top 3
+j	ベストセラー	ベストセラー	bestseller
+j	ベストプレイ	ベストプレイ	best play
+j	ベスビオ火山	ベスビオ火山	
+j	ベタベタする	ベタベタする	
+j	ベッサラビア	ベッサラビア	
+j	ベッドカバー	ベッドカバー	bedspread
+j	ベッドタウン	ベッドタウン	bedroom community, suburb…
+j	ベッドルーム	ベッドルーム	寝室。
+j	ベテルギウス	ベテルギウス	Betelgeuse
+j	ベトナム人	べとなむじん	Vietnamese person
+j	ベトナム人	ベトナムじん	Vietnamese person
+j	ベトナム国	べとなむこく	1949年から1955年までベトナムに存在した国家…
+j	ベトナム戦争	ベトナム戦争	the Vietnam War
+j	ベトナム料理	ベトナム料理	ベトナムの伝統的な料理。
+j	ベナン共和国	ベナン共和国	Republic of Benin, shortl…
+j	ベニンシティ	ベニンシティ	ナイジェリアエド州の州都。旧ベニン共和国の首都。
+j	ベニン共和国	ベニン共和国	1967年のビアフラ戦争時にアフリカ大陸に存在した…
+j	ベネズエラ人	ベネズエラ人	ベネズエラ国籍を持つ人。ベネズエラ出身者。
+j	ベネチア人	べねちあじん	
+j	ベネディクト	ベネディクト	Benedict
+j	ベネトナシュ	ベネトナシュ	北斗七星の柄杓の柄の先端にある星。
+j	ベネト州	べねとしゅう	
+j	ベビーチェア	ベビーチェア	
+j	ベビードール	ベビードール	baby doll (doll)
+j	ベビーフード	ベビーフード	
+j	ベビーブーム	ベビーブーム	a baby boom
+j	ベビーベッド	ベビーベッド	crib; cot
+j	ベビーリーフ	ベビーリーフ	leaf vegetable harvested …
+j	ベラルーシの	ベラルーシの	
+j	ベラルーシ人	ベラルーシ人	Belarusian (person, peopl…
+j	ベラルーシ語	べらるーしご	Belarusian (the Belarusia…
+j	ベラルーシ語	ベラルーシご	Belarusian (the Belarusia…
+j	ベラルーシ語	ベラルーシ語	Belarusian (the Belarusia…
+j	ベリーダンス	ベリーダンス	belly dance
+j	ベルガモット	ベルガモット	
+j	ベルギー人	べるぎーじん	Belgian (person, people)
+j	ベルギー人	ベルギーじん	Belgian (person, people)
+j	ベルギー料理	ベルギー料理	ベルギーの伝統的な料理。
+j	ベルギー王国	ベルギー王国	Kingdom of Belgium (offic…
+j	ベルゲルミル	ベルゲルミル	土星の第38衛星の固有名。
+j	ベルデ岬諸島	ベルデ岬諸島	セネガルのベルデ岬の西方にある諸島。カーボベルデ領…
+j	ベルパエーゼ	ベルパエーゼ	
+j	ベルファスト	ベルファスト	イギリスの構成国の一つ、北アイルランドの首都。
+j	ベルリンの壁	ベルリンの壁	The Berlin Wall
+j	ベロシペード	ベロシペード	
+j	ベンガルトラ	ベンガルトラ	虎の基亜種。学名は Panthera tigris…
+j	ベンガル人	べんがるじん	インド北東部からバングラデシュにかけての地域に暮ら…
+j	ベンガル山猫	ベンガル山猫	leopard cat, Prionailurus…
+j	ベンガル湾	べんがるわん	the Bay of Bengal
+j	ベンガル湾	ベンガルわん	the Bay of Bengal
+j	ベンジャミン	ベンジャミン	a transliteration of the …
+j	ベンゼン核	べんぜんかく	芳香族化合物に含まれ、炭素原子が正六角形に結合した…
+j	ベンゼン環	べんぜんかん	benzene ring
+j	ベンゼン環	ベンゼンかん	benzene ring
+j	ベンチプレス	ベンチプレス	
+j	ベーオウルフ	ベーオウルフ	
+j	ベースアップ	ベースアップ	pay raise due to an incre…
+j	ベースギター	ベースギター	
+j	ベースコート	ベースコート	base coat
+j	ベースボール	ベースボール	synonym of 野球 (yakyū, “ba…
+j	ベータトロン	ベータトロン	
+j	ベートーベン	ベートーベン	
+j	ベーリング海	ベーリング海	the Bering Sea
+j	便宜上	べんぎじやう	for convenience
+j	便宜上	べんぎじょう	for convenience
+j	便所飯	べんじょめし	便所の個室で食事を取ること。
+j	冖冠	べきかんむり	漢字の部首「⼍」の呼称の一つ
+j	冪関数	べきかんすう	未知数の冪乗の形で表される関数。ただし、指数が整数…
+j	冪集合	べきしふがふ	power set
+j	別働隊	べつどうたい	team that operates separa…
+j	別動隊	べつどうたい	特別の任務で本隊から独立し別行動をする部隊。
+j	別売	べつうりする	sold separately
+j	別売	べつばいする	sold separately
+j	別売り	べつうりする	selling separately
+j	別居	べっきょする	living separately
+j	別居婚	べっきょこん	marriage where they live …
+j	別居親	べっきょしん	parents who live separate…
+j	別居親	べつきよしん	parents who live separate…
+j	別表記	べつひょうき	異表記に同じ。特に主な表記や正式な表記がある場合に…
+j	勉学	べんがくする	studying, studies, study
+j	勉強家	べんきょうか	熱心に勉学や研鑽に取り組む人。
+j	弁天堂	べんてんどう	弁天（弁才天・弁財天）を本尊して祀る堂宇。
+j	弁当箱	べんとうばこ	lunchbox
+j	弁才天	べんざいてん	Benzaiten, Japanese name …
+j	弁明	べんめいする	apology, explanation
+j	弁明する	べんめいする	
+j	弁済	べんさいする	repayment (of a debt)
+j	弁神論	べんしんろん	
+j	弁解	べんかいする	excuse; explanation; just…
+j	弁論	べんろんする	discussion; debate; argum…
+j	弁財天	べんざいてん	「弁才天」の別表記。
+j	猫睛石	べうせいせき	cat's eye; cymophane
+j	瞥見	べっけんする	getting a glimpse
+j	米国人	べいこくじん	American (citizen of the …
+j	紅差し指	べにさしゆび	synonym of 薬指: ring finger
+j	紅生姜	べにしょうが	red pickled ginger
+j	紅篦鷺	べにへらさぎ	a roseate spoonbill (Plat…
+j	紅篦鷺	ベニヘラサギ	a roseate spoonbill (Plat…
+j	紅紫	べにむらさき	red and purple
+j	蔑如	べつじょする	scorn, contempt, disdain
+j	鼈甲飴	べっこうあめ	bekko candy
+j	鼈甲飴	べつかふあめ	bekko candy
+j	ベイクドポテト	ベイクドポテト	
+j	ベイリービーズ	ベイリービーズ	金環日食の初めと終わりに、月の山や谷によって太陽が…
+j	ベクトル量	べくとるりょう	大きさと向きを持つ量。ベクトル。
+j	ベストトラック	ベストトラック	事後解析を経て確定した台風の進路。
+j	ベッドを整える	ベッドを整える	
+j	ベッドを濡らす	ベッドを濡らす	
+j	ベツレヘムの星	ベツレヘムの星	新約聖書でイエスの降誕時に東方の三賢人を導いたとさ…
+j	ベトナム共和国	ベトナム共和国	the Republic of Vietnam
+j	ベニン王国	べにんおうこく	12世紀から1897年までナイジェリア南部に存在し…
+j	ベネズエラ人	べねずえらじん	ベネズエラ国籍を持つ人。ベネズエラ出身者。
+j	ベネチア共和国	ベネチア共和国	697年から1797年まで南ヨーロッパに存在した国…
+j	ベネルクス三国	ベネルクス三国	ベネルクス。
+j	ベビーサークル	ベビーサークル	playpen (space for childr…
+j	ベビーシッター	ベビーシッター	babysitter
+j	ベビーシャワー	ベビーシャワー	
+j	ベビーパウダー	ベビーパウダー	滑石やコーンスターチなどを原料とする、かぶれやただ…
+j	ベビーブーマー	ベビーブーマー	a baby boomer
+j	ベラルーシ人	べらるーしじん	Belarusian (person, peopl…
+j	ベラルーシ人	ベラルーシじん	Belarusian (person, peopl…
+j	ベラルーシ料理	ベラルーシ料理	ベラルーシの伝統的な料理。
+j	ベリーズシティ	ベリーズシティ	
+j	ベリーダンサー	ベリーダンサー	
+j	ベルサリエーレ	ベルサリエーレ	
+j	ベルツノガエル	ベルツノガエル	ツノガエル属に属する両生類。南米ブラジル、ウルグア…
+j	ベルトコンベア	ベルトコンベア	a belt conveyor
+j	ベルトコンベヤ	ベルトコンベヤ	
+j	ベルヌーイ試行	ベルヌーイ試行	結果が二通りのみである試行。
+j	ベルフェゴール	ベルフェゴール	Belphegor
+j	ベルリンの壁	べるりんのかべ	The Berlin Wall
+j	ベルリンの壁	ベルリンのかべ	The Berlin Wall
+j	ベルリンブルー	ベルリンブルー	紺青の色。プルシアンブルー。
+j	ベルルスコーニ	ベルルスコーニ	
+j	ベロキラプトル	ベロキラプトル	
+j	ベンガルウナギ	ベンガルウナギ	鰻の一種。学名は Anguilla bengale…
+j	ベンガル狐	べんがるぎつね	a Bengal fox
+j	ベンガル狐	ベンガルぎつね	a Bengal fox
+j	ベンガル狐	ベンガルギツネ	a Bengal fox
+j	ベンチャー企業	ベンチャー企業	新技術で事業を展開している中小企業。
+j	ベンチレーター	ベンチレーター	
+j	ベーコンエッグ	ベーコンエッグ	
+j	ベータりゅうし	ベータりゅうし	ベータ粒子: (physics) a beta p…
+j	ベータカロテン	ベータカロテン	beta-carotene
+j	ベータ崩壊	べーたほうかい	放射性同位体が電子（ベータ線）を放出することにより…
+j	ベータ粒子	べーたりゅうし	a beta particle
+j	ベータ粒子	ベータりゅうし	a beta particle
+j	ベーチェット病	ベーチェット病	
+j	ベートーヴェン	ベートーヴェン	a transliteration of the …
+j	ベーリング海	べーりんぐかい	the Bering Sea
+j	ベーリング海	ベーリングかい	the Bering Sea
+j	ベーリング海峡	ベーリング海峡	
+j	便所座り	べんじょずわり	
+j	冪級数	べききゅうすう	xに依らない無限数列a_nを用いてf(x)=∑ₙ₌…
+j	冪集合	べきしゅうごう	power set
+j	勉強	べんきょうする	studying, studies, study
+j	勉強する	べんきょうする	
+j	勉強会	べんきょうかい	おなじ目的や目標を持つ者たちが集まり、お互いに討議…
+j	勉強部屋	べんきょうべや	住宅で勉学をするための部屋。
+j	娩出	べんしゅつする	birthing
+j	弁償	べんしょうする	compensation; reparation
+j	弁証学	べんしょうがく	
+j	弁証法	べんしょうはふ	dialectics
+j	弁証法	べんしょうほう	dialectics
+j	米ソ冷戦	べいそれいせん	Cold War
+j	米ソ冷戦	べいソれいせん	Cold War
+j	米国化	べいこくかする	Americanization/Americani…
+j	米国化する	べいこくかする	
+j	紅水晶	べにずいしょう	
+j	ベイクドビーンズ	ベイクドビーンズ	
+j	ベイリー・ビーズ	ベイリー・ビーズ	
+j	ベクトル代数	べくとるだいすう	
+j	ベクトル解析	べくとるかいせき	空間上のベクトル場・テンソル場に関する微積分を扱う…
+j	ベクトル部分空間	ベクトル部分空間	部分ベクトル空間に同じ。
+j	ベシャメルソース	ベシャメルソース	
+j	ベジェ曲線	べじぇきょくせん	a Bézier curve
+j	ベジェ曲線	ベジェきょくせん	a Bézier curve
+j	ベジエ曲線	べじえきょくせん	ベジェ曲線。
+j	ベジエ曲線	ベジエきょくせん	ベジェ曲線。
+j	ベジタリアニズム	ベジタリアニズム	
+j	ベストエフォート	ベストエフォート	最善努力。何らの阻害要因がなければ提供が可能である…
+j	ベチュアナランド	ベチュアナランド	Bechuanaland -(a former n…
+j	ベツレヘムの星	べつれへむのほし	新約聖書でイエスの降誕時に東方の三賢人を導いたとさ…
+j	ベトナム戦争	べとなむせんそう	the Vietnam War
+j	ベトナム戦争	ベトナムせんそう	the Vietnam War
+j	ベトナム料理	べとなむりょうり	ベトナムの伝統的な料理。
+j	ベラルーシ共和国	ベラルーシ共和国	
+j	ベリリウムイオン	ベリリウムイオン	イオン式Be²⁺で表されるベリリウムの陽イオン。
+j	ベルギー料理	べるぎーりょうり	ベルギーの伝統的な料理。
+j	ベルギー王国	べるぎーおうこく	Kingdom of Belgium (offic…
+j	ベルギー王国	ベルギーおうこく	Kingdom of Belgium (offic…
+j	ベルトコンベアー	ベルトコンベアー	
+j	ベルトコンベヤー	ベルトコンベヤー	物品を載せ運搬するところがベルトになっているコンベ…
+j	ベルトラミの公式	ベルトラミの公式	二変数のオイラー方程式(∂f)/(∂y)-d/(d…
+j	ベルトランの定理	ベルトランの定理	質点の有界運動が安定な閉曲線軌道を描くとき、その中…
+j	ベルヌーイの定理	ベルヌーイの定理	
+j	ベルヌーイ試行	べるぬーいしこう	結果が二通りのみである試行。
+j	ベルフォンテーヌ	ベルフォンテーヌ	
+j	ベルフォンテーン	ベルフォンテーン	
+j	ベンガルヤマネコ	ベンガルヤマネコ	ネコ目ネコ科ベンガルヤマネコ属に属する食肉類の一種…
+j	ベンガル山猫	べんがるやまねこ	leopard cat, Prionailurus…
+j	ベンガル山猫	ベンガルやまねこ	leopard cat, Prionailurus…
+j	ベンガル山猫	ベンガルヤマネコ	leopard cat, Prionailurus…
+j	ベンゾジアゼピン	ベンゾジアゼピン	
+j	ベンチフリューム	ベンチフリューム	鉄筋コンクリートベンチフリュームの略称、置樋。
+j	ベンチマーキング	ベンチマーキング	国や企業等が、自己革新を目的とし、高い革新成果を達…
+j	ベーシスポイント	ベーシスポイント	
+j	ベールイ・ドーム	ベールイ・ドーム	the Russian White House
+j	便所蟋蟀	べんじょこおろぎ	「竃馬」の別名。
+j	弁証法の	べんしょうほうの	
+j	弁護士法人	べんごしほうじん	弁護士法第3条に規定する業務を行うことを目的とする…
+j	米領サモア	べいりょうさもあ	American Samoa (an overse…
+j	米領サモア	べいりょうサモア	American Samoa (an overse…
+j	紅花襤褸菊	べにばなぼろぎく	redflower ragleaf (Crasso…
+j	紅花襤褸菊	ベニバナボロギく	redflower ragleaf (Crasso…
+j	べらべらとしゃべる	べらべらとしゃべる	
+j	ベイクド・アラスカ	ベイクド・アラスカ	
+j	ベクトル微分演算子	ベクトル微分演算子	空間偏微分演算子。
+j	ベストプラクティス	ベストプラクティス	そのようにすれば最適な結果になるとして確立された慣…
+j	ベトナム民主共和国	ベトナム民主共和国	アジアの国。通称は北ベトナム。1945年の八月革命…
+j	ベナン共和国	べなんきょうわこく	Republic of Benin, shortl…
+j	ベナン共和国	ベナンきょうわこく	Republic of Benin, shortl…
+j	ベニン共和国	べにんきょうわこく	1967年のビアフラ戦争時にアフリカ大陸に存在した…
+j	ベネズエラアリモズ	ベネズエラアリモズ	
+j	ベラルーシ料理	べらるーしりょうり	ベラルーシの伝統的な料理。
+j	ベルギーオランダ語	べるぎーおらんだご	ベルギーで話されているオランダ語の変種。
+j	ベルギーオランダ語	ベルギーオランダ語	ベルギーで話されているオランダ語の変種。
+j	ベルギーフランス語	べるぎーふらんすご	ベルギーで話されているフランス語の変種。
+j	ベルギーフランス語	ベルギーフランス語	ベルギーで話されているフランス語の変種。
+j	ベルトランの定理	べるとらんのていり	質点の有界運動が安定な閉曲線軌道を描くとき、その中…
+j	ベンチャービジネス	ベンチャービジネス	新技術を開発し、新需要に応ずる企業。
+j	ベーキングパウダー	ベーキングパウダー	baking powder
+j	ベーシックインカム	ベーシックインカム	basic income, universal b…
+j	ベースジャンピング	ベースジャンピング	
+j	ベーチェット病	べーちぇっとびょう	
+j	冪等行列	べきとうぎょうれつ	P²=Pを満たす正方行列P。射影行列。
+j	冪零行列	べきぜろぎょうれつ	冪乗したら零行列になる行列のこと。
+j	冪零行列	べきれいぎょうれつ	冪乗したら零行列になる行列のこと。
+j	ベトナム共和国	べとなむきょうわこく	the Republic of Vietnam
+j	ベトナム共和国	ベトナムきょうわこく	the Republic of Vietnam
+j	ベネシャンブラインド	ベネシャンブラインド	
+j	ベネズエラスペイン語	べねずえらすぺいんご	ベネズエラで話されているスペイン語の変種。
+j	ベネズエラスペイン語	ベネズエラスペイン語	ベネズエラで話されているスペイン語の変種。
+j	ベネチア共和国	べねちあきょうわこく	697年から1797年まで南ヨーロッパに存在した国…
+j	ベビーコンプレックス	ベビーコンプレックス	
+j	ベルデ岬諸島	べるでみさきしょとう	セネガルのベルデ岬の西方にある諸島。カーボベルデ領…
+j	ベルトラミの公式	べるとらみのこうしき	二変数のオイラー方程式(∂f)/(∂y)-d/(d…
+j	ベンチャーキャピタル	ベンチャーキャピタル	venture capital
+j	ベーカーズフィールド	ベーカーズフィールド	Bakersfield (a city in Ca…
+j	ベーパー・ロック現象	ベーパー・ロック現象	フェード現象が起きてもブレーキを使用し続けたとき、…
+j	弁慶の泣き所	べんけいのなきどころ	calf bone
+j	米式蹴球	べいしきしゅうきゅう	synonym of アメリカンフットボール (A…
+j	鞭声粛粛	べんせいしゅくしゅく	馬に鞭を静かに打つ様子。
+j	ベトナム社会主義共和国	ベトナム社会主義共和国	Socialist Republic of Vie…
+j	ベルンシュタインの定理	ベルンシュタインの定理	異なる集合A,Bに双方向の単射が存在するならばA,…
+j	ベクトル微分演算子	べくとるびぶんえんざんし	空間偏微分演算子。
+j	ベルンシュタインの定理	べるんしゅたいんのていり	異なる集合A,Bに双方向の単射が存在するならばA,…
+j	ベーパー・ロック現象	べーぱーろっくげんしょう	フェード現象が起きてもブレーキを使用し続けたとき、…
+j	ベーメン・メーレン保護領	ベーメン・メーレン保護領	
+j	ベネズエラ・ボリバル共和国	ベネズエラ・ボリバル共和国	
+j	ベリック・アポン・ツイード	ベリック・アポン・ツイード	Berwick-upon-Tweed
+j	米航空宇宙局	べいこうくううちゅうきょく	National Aeronautics and …
+j	ベトナム民主共和国	べとなむみんしゅきょうわこく	アジアの国。通称は北ベトナム。1945年の八月革命…
+j	米国電気電子学会	べいこくでんきでんしがっかい	Institute of Electrical a…
+j	米領ヴァージン諸島	べいりょうゔぁーじんしょとう	synonym of アメリカ領ヴァージン諸島
+j	米領ヴァージン諸島	べいりょうヴァージンしょとう	synonym of アメリカ領ヴァージン諸島
+j	弁証法的唯物論	べんしょうほうてきゆいぶつろん	dialectical materialism
+j	弁証法的唯物論	べんしょうろんてきゆいぶつろん	dialectical materialism
+j	弁証法的唯物論	べんしようはふてきゆいぶつろん	dialectical materialism
+j	米国航空宇宙局	べいこくこうくううちゅうきょく	
+j	ベッド・アンド・ブレックファスト	ベッド・アンド・ブレックファスト	
+j	ベトナム社会主義共和国	べとなむしゃかいしゅぎきょうわこく	Socialist Republic of Vie…
+j	ベトナム社会主義共和国	ベトナムしゃかいしゅぎきょうわこく	Socialist Republic of Vie…
+j	ベリーシビアサイクロニックストーム	ベリーシビアサイクロニックストーム	北インド洋における、最大風速が64ノット以上119…
+j	ベリーインテンストロピカルサイクロン	ベリーインテンストロピカルサイクロン	南西インド洋における、最大風速が115ノット以上の…

@@ -1,0 +1,4 @@
+e	rs	rs	1 meaning
+e	rsa	rsa	1 meaning
+e	rösti	rsti	1 meaning
+j	二十一角形	rshyijioxng	

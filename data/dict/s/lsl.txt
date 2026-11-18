@@ -1,0 +1,119 @@
+e	sly	sly	1 meaning
+e	slab	slab	1 meaning
+e	slam	slam	1 meaning
+e	slap	slap	2 meanings
+e	slav	slav	1 meaning
+e	slay	slay	1 meaning
+e	slim	slim	1 meaning
+e	slip	slip	1 meaning
+e	slit	slit	1 meaning
+e	slob	slob	1 meaning
+e	slow	slow	2 meanings
+e	slug	slug	1 meaning
+e	slum	slum	1 meaning
+e	slur	slur	2 meanings
+e	slut	slut	3 meanings
+e	slang	slang	1 meaning
+e	slant	slant	1 meaning
+e	slash	slash	3 meanings
+e	slate	slate	2 meanings
+e	slave	slave	4 meanings
+e	sleep	sleep	5 meanings
+e	sleet	sleet	2 meanings
+e	slice	slice	1 meaning
+e	slick	slick	3 meanings
+e	slide	slide	10 meanings
+e	slime	slime	3 meanings
+e	sloop	sloop	1 meaning
+e	slope	slope	3 meanings
+e	sloth	sloth	2 meanings
+e	slush	slush	2 meanings
+e	slalom	slalom	1 meaning
+e	slaver	slaver	1 meaning
+e	slavic	slavic	1 meaning
+e	sleepy	sleepy	1 meaning
+e	sleeve	sleeve	1 meaning
+e	slicer	slicer	1 meaning
+e	slider	slider	1 meaning
+e	slight	slight	3 meanings
+e	slinky	slinky	1 meaning
+e	slip-up	slipup	1 meaning
+e	sliver	sliver	1 meaning
+e	slogan	slogan	1 meaning
+e	sloppy	sloppy	1 meaning
+e	slovak	slovak	3 meanings
+e	slovio	slovio	1 meaning
+e	slowly	slowly	1 meaning
+e	sludge	sludge	1 meaning
+e	sluice	sluice	1 meaning
+e	slurry	slurry	1 meaning
+e	slutsk	slutsk	1 meaning
+e	slander	slander	2 meanings
+e	slasher	slasher	1 meaning
+e	slavery	slavery	1 meaning
+e	slavist	slavist	1 meaning
+e	sled dog	sleddog	1 meaning
+e	sleep in	sleepin	1 meaning
+e	sleeper	sleeper	1 meaning
+e	slender	slender	1 meaning
+e	slipper	slipper	1 meaning
+e	sloboda	sloboda	1 meaning
+e	slovene	slovene	3 meanings
+e	slack off	slackoff	2 meanings
+e	slag heap	slagheap	1 meaning
+e	slavonia	slavonia	1 meaning
+e	sledding	sledding	1 meaning
+e	sleeping	sleeping	1 meaning
+e	slightly	slightly	1 meaning
+e	slippery	slippery	1 meaning
+e	slovakia	slovakia	1 meaning
+e	slovenia	slovenia	1 meaning
+e	slow down	slowdown	1 meaning
+e	slowness	slowness	1 meaning
+e	slowworm	slowworm	1 meaning
+e	slapstick	slapstick	1 meaning
+e	slaughter	slaughter	5 meanings
+e	sleep debt	sleepdebt	1 meaning
+e	sleep mode	sleepmode	1 meaning
+e	sleepless	sleepless	1 meaning
+e	slide rule	sliderule	1 meaning
+e	slideshow	slideshow	1 meaning
+e	slingshot	slingshot	1 meaning
+e	slivovitz	slivovitz	1 meaning
+e	slouch hat	slouchhat	1 meaning
+e	slush fund	slushfund	1 meaning
+e	slytherin	slytherin	1 meaning
+e	slanderous	slanderous	1 meaning
+e	slave trade	slavetrade	1 meaning
+e	slaveowner	slaveowner	1 meaning
+e	sleep apnea	sleepapnea	1 meaning
+e	sleepiness	sleepiness	1 meaning
+e	sleepyhead	sleepyhead	1 meaning
+e	sleeveless	sleeveless	1 meaning
+e	slopestyle	slopestyle	1 meaning
+e	slow cooker	slowcooker	1 meaning
+e	slow motion	slowmotion	1 meaning
+e	sluice gate	sluicegate	1 meaning
+e	sleeping bag	sleepingbag	1 meaning
+e	sleeping car	sleepingcar	1 meaning
+e	slice of life	sliceoflife	1 meaning
+e	sliding door	slidingdoor	1 meaning
+e	slipped disc	slippeddisc	1 meaning
+e	slot machine	slotmachine	2 meanings
+e	slash and burn	slashandburn	1 meaning
+e	sledgehammer	sledgehammer	1 meaning
+e	sleeping pill	sleepingpill	1 meaning
+e	sleepwalking	sleepwalking	1 meaning
+e	slumber party	slumberparty	1 meaning
+e	slavic studies	slavicstudies	1 meaning
+e	sleep like a log	sleeplikealog	1 meaning
+e	slaughterhouse	slaughterhouse	1 meaning
+e	sleep paralysis	sleepparalysis	1 meaning
+e	sleeping beauty	sleepingbeauty	2 meanings
+e	slide projector	slideprojector	1 meaning
+e	slovak republic	slovakrepublic	1 meaning
+e	slaty-backed gull	slatybackedgull	1 meaning
+e	slip of the tongue	slipofthetongue	1 meaning
+e	slender-billed gull	slenderbilledgull	1 meaning
+e	slapped cheek syndrome	slappedcheeksyndrome	1 meaning
+e	slow and steady wins the race	slowandsteadywinstherace	1 meaning

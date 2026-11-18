@@ -1,0 +1,71 @@
+k	표	표	ticket
+k	표결	표결	vote
+k	표고	표고	shiitake mushroom
+k	표기	표기	external inscription
+k	표독	표독	사납고 독살스러움.
+k	표류	표류	물 위에 떠서 정처 없이 흘러감.
+k	표리	표리	
+k	표면	표면	surface, face
+k	표명	표명	의사나 태도를 분명하게 드러냄.
+k	표범	표범	leopard (Panthera pardus)…
+k	표본	표본	sample; example; specimen
+k	표상	표상	
+k	표시	표시	겉으로 드러내 보임.
+k	표식	표식	sign; notice
+k	표어	표어	slogan; motto
+k	표음	표음	phonetic representation, …
+k	표의	표의	semantic or ideographic r…
+k	표적	표적	target
+k	표절	표절	plagiarism
+k	표정	표정	an expression of feeling,…
+k	표제	표제	title; heading
+k	표준	표준	standard (level of qualit…
+k	표지	표지	sign; notice
+k	표창	표창	
+k	표치	표치	취지를 드러내 보임.
+k	표토	표토	
+k	표피	표피	
+k	표현	표현	expression (through words…
+k	푯말	푯말	
+k	표기법	표기법	notation, orthography
+k	표면적	표면적	겉으로 나타나 보이는.
+k	표믕롬	표믕롬	inverted question mark (¿)
+k	표백제	표백제	bleach (chemical)
+k	표보기	표보기	'검표'의 북한말.
+k	표제어	표제어	entry (in a dictionary), …
+k	표주박	표주박	조롱박이나 둥근 박을 반으로 쪼개어 만든 작은…
+k	표준궤	표준궤	standard gauge
+k	표준말	표준말	'표준어'.
+k	표준시	표준시	
+k	표준어	표준어	standard language
+k	표준화	표준화	standardization
+k	표지판	표지판	sign, notice, signboard
+k	표창식	표창식	
+k	표하다	표하다	to express; to show
+k	표현미	표현미	
+k	표현법	표현법	표현하는 방법.
+k	표현형	표현형	phenotype
+k	표견대리	표견대리	(법률) 대리권이 없는 자가 대리 행위를 한 …
+k	표고버섯	표고버섯	synonym of 표고 (pyogo, “sh…
+k	표기하다	표기하다	to write; to note; to tra…
+k	표면장력	표면장력	surface tension
+k	표명하다	표명하다	
+k	표범상어	표범상어	leopard shark, catshark, …
+k	표범피부	표범피부	leopardskin
+k	표시하다	표시하다	to express, state
+k	표어문자	표어문자	logogram
+k	표음문자	표음문자	말소리를 그대로 기호로 나타낸 문자. 한글, …
+k	표의문자	표의문자	ideogram
+k	표준시간	표준시간	
+k	표준시계	표준시계	시각의 표준이 되는 정확한 시계.
+k	표표하다	표표하다	사람의 생김새나 풍채, 옷차림 따위가 눈에 띄…
+k	표현되다	표현되다	to be expressed, to be re…
+k	표현주의	표현주의	20세기초에 일어난 미술의 한 양식을 가리키는…
+k	표현하다	표현하다	to express (a thought or …
+k	표를 하다	표를 하다	
+k	표범장지뱀	표범장지뱀	Mongolian racerunner (Ere…
+k	표본 공간	표본 공간	
+k	표준 편차	표준 편차	(통계) 분산 (variance)에 양의 제곱…
+k	표준발음법	표준발음법	어떤 언어에 대한 발음상의 규칙과 규범
+k	표준 아랍어	표준 아랍어	
+k	표현의 자유	표현의 자유	

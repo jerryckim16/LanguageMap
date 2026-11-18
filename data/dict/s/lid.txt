@@ -1,0 +1,196 @@
+e	id	id	1 meaning
+e	-ide	ide	1 meaning
+e	ida	ida	1 meaning
+e	ido	ido	1 meaning
+j	いで	ide	Come! (used to verbally u…
+j	いど	ido	地下水をくみ取るために、地下に深く掘った縦穴。
+j	ゐだ	ida	
+j	イデー	ide	idea
+j	イド	ido	（Id:ラテン語idより） ジークムント・フロイト…
+j	イード	ido	イド語。
+j	井出	ide	a surname
+j	井戸	ido	well (source of water)
+j	井手	ide	a surname
+j	井田	ida	a surname
+j	医道	ido	art of medicine
+j	異動	ido	a personnel change
+j	異同	ido	similarities and differen…
+j	異土	ido	異郷。
+j	移動	ido	a transfer
+j	緯度	ido	a latitude (angular dista…
+j	飯田	ida	Īda (a city in Nagano Pre…
+k	이다	ida	For the Korean copula ("t…
+k	이도	ido	Ido (artificial language …
+k	이두	idu	Idu script
+e	idea	idea	2 meanings
+e	idle	idle	1 meaning
+e	idli	idli	1 meaning
+e	idol	idol	3 meanings
+j	い段	idan	the second and second-hig…
+j	イデア	idea	idea
+j	イドゥン	idon	イドゥン
+j	位田	iden	律令制で親王以下、五位以上の者にその位階に応じ、そ…
+j	偉大	idai	great
+j	医大	idai	medical school
+j	遺伝	iden	genetic; genetics
+k	이단	idan	heresy
+k	이달	idal	this month
+k	이대	idae	
+k	이돌	idol	'치석'의 북한말.
+k	이드	ideu	
+k	이듸	idui	'여기'의 제주도 사투리.
+e	idaho	idaho	1 meaning
+e	ideal	ideal	3 meanings
+e	idiom	idiom	3 meanings
+e	idiot	idiot	1 meaning
+e	idist	idist	1 meaning
+e	idlib	idlib	1 meaning
+j	いだく	idaku	だくの古い言い方。両腕にかかえて持つ。
+j	いっでん	idden	
+j	いでゆ	ideyu	温泉。
+j	いどこ	idoko	indefinite interrogative …
+j	いどむ	idomu	戦いなどを仕掛ける。
+j	イドゥリ	iduri	
+j	イド語	idogo	Ido (an artificial langua…
+j	挑む	idomu	challenge someone, defy a…
+k	이동	idong	movement
+k	이득	ideuk	profit; gain
+k	이듬	ideum	a second plowing of the f…
+k	이듭	ideup	two years of age (for liv…
+e	idigbo	idigbo	1 meaning
+j	イデアル	idearu	環論で、環 Aに対して∀a,b∈I, a-b∈I\…
+j	イディオム	idiomu	字面からは意味を解釈できない、特定の言い回し。熟語…
+j	イードゥース	idousu	ローマ暦で大の月（3月、5月、7月、10月）の第1…
+j	亥年	idoshi	year of the pig, year of …
+j	偉大な	idaina	
+j	韋駄天	idaten	fast-footed person
+k	이다음	idaeum	
+k	이단자	idanja	pagan, heathen
+k	이대로	idaero	as it is
+k	이등	ideung	두 번째 등급.
+e	idiotic	idiotic	1 meaning
+j	いどころ	idokoro	dwelling
+j	いどばた	idobata	井戸の近く。井戸のあたり。
+j	いどみず	idomizu	井戸の水。井戸からくみ上げた地下水。
+j	イディグボ	idigubo	
+j	イディスト	idisuto	
+j	イドリブ	idoribu	
+j	井戸水	idomizu	wellwater
+j	井戸端	idobata	wellside, the vicinity of…
+j	医大生	idaisei	大学の医学部、医科大学で医学を学ぶ大学生。
+j	遺伝子	idenshi	gene
+j	遺伝病	idenbyo	inherited disease
+j	遺傳子	idenshi	
+k	이대남	idaenam	
+k	이더넷	ideonet	
+k	이두근	idugeun	biceps (any muscle with t…
+k	이든지	ideunji	받침을 가진 명사나 대명사에 붙여서 여러 가지…
+k	이디시어	idisieo	Yiddish (language)
+k	이디오피아	idiopia	에티오피아(Ethiopia)의 비표준어.
+e	ideal gas	idealgas	1 meaning
+e	idealism	idealism	2 meanings
+e	identify	identify	1 meaning
+e	identity	identity	3 meanings
+e	ideogram	ideogram	1 meaning
+e	ideology	ideology	2 meanings
+e	idiolect	idiolect	1 meaning
+e	idiotype	idiotype	1 meaning
+e	idleness	idleness	1 meaning
+e	idolatry	idolatry	1 meaning
+j	いでたち	idetachi	旅立ち。出立。
+j	イデオロギー	ideorogi	ideology
+j	出で立ち	idetachi	outfit, dress, attire
+j	移動局	idokyoku	
+j	移動電話	idodenwa	mobile phone
+j	遺伝学	idengaku	genetics
+j	遺伝情報	idenjoho	遺伝現象を担う情報。核酸によってコードされた遺伝子…
+j	遺伝暗号	idenango	codon (sequence of 3 adja…
+j	遺伝的	identeki	genetic
+k	이닷하다	idathada	
+k	이드를	ideureul	
+k	이듬달	ideumdal	
+k	이듬해	ideumhae	the next year, the year a…
+k	이디쉬어	idiswieo	'이디시어'.
+e	i don't care	idontcare	1 meaning
+e	i don't know	idontknow	1 meaning
+e	identical	identical	4 meanings
+e	ideologue	ideologue	1 meaning
+e	ideophone	ideophone	1 meaning
+e	idiomatic	idiomatic	1 meaning
+e	idiopathy	idiopathy	1 meaning
+e	idiyappam	idiyappam	1 meaning
+j	イディッシュ語	idisshugo	Yiddish language
+j	イーターナガル	idanagaru	
+j	移動させる	idosaseru	
+j	移動平均	idoheikin	moving average
+j	移動販売	idohanbai	商品を載せた自動車が家々を巡って商品を販売すること。
+j	遺伝子座	idenshiza	遺伝子がコードされる染色体上の領域。
+k	이닦이약	idakkiyak	'치약'(齒藥)의 북한말.
+k	이데올로기	ideollogi	ideology
+k	이동하다	idonghada	to move; to shift; to tra…
+k	이두고근	idugogeun	
+k	이등분	ideungbun	
+e	i don't drive	idontdrive	1 meaning
+e	idempotent	idempotent	1 meaning
+e	identifier	identifier	1 meaning
+e	ideography	ideography	1 meaning
+e	idiopathic	idiopathic	1 meaning
+j	イデアリスム	idearizumu	
+j	イディヤッパム	idiyappamu	
+j	イデオロギーの	ideorogino	
+j	イド語話者	idogowasha	
+j	遺伝子病	idenshibyo	遺伝病に同じ。
+k	이단심문	idansimmun	
+k	이단좌표	idanjwapyo	
+k	이동되다	idongdoeda	무엇이 움직여 있던 자리가 바뀌다.
+k	이드르르	ideureureu	
+k	이들리브	ideullibeu	
+k	이들이들	ideurideul	
+e	ideological	ideological	2 meanings
+j	イード・アル゠アドハー	idoaruadoha	
+j	移動図書館	idotoshokan	図書館にある資料の一部を積載し、各地区を巡回して資…
+j	遺伝子型	idenshigata	genotype (combination of …
+j	遺伝子汚染	idenshiosen	genetic contamination
+j	遺伝学者	idengakusha	遺伝学を研究する科学者。
+j	韋駄天台風	idatentaifu	足が速いとされる韋駄天のように同じ方向に速い速度で…
+k	이돋이곤란	idojigollan	
+k	이동시키다	idongsikida	
+k	이두 정치	idujeongchi	
+e	i don't eat fish	idonteatfish	1 meaning
+e	i don't eat meat	idonteatmeat	1 meaning
+e	i don't eat pork	idonteatpork	1 meaning
+e	i don't think so	idontthinkso	1 meaning
+e	i'd like to know	idliketoknow	1 meaning
+e	identity card	identitycard	1 meaning
+e	idiosyncrasy	idiosyncrasy	2 meanings
+j	イド・アル゠フィトル	idoarufitoru	
+j	井戸端会議	idobatakaigi	gossip
+j	移動教室	idokyoshitsu	instruction that takes pl…
+k	이드 알 아드하	ideualadeuha	
+k	이드를하다	ideureulhada	'이드르르하다'의 준말.
+k	이등병	ideungbyeong	private
+e	identical twin	identicaltwin	1 meaning
+e	identity theft	identitytheft	1 meaning
+j	移動式クレーン	idoshikikuren	自走可能なクレーン。クレーン車。
+j	遺伝子工学	idenshikogaku	
+j	韋駄天走り	idatenbashiri	running extremely fast
+k	이등분선	ideungbunseon	
+k	이등분하다	ideungbunhada	
+e	identification	identification	2 meanings
+e	identity matrix	identitymatrix	1 meaning
+j	移動性高気圧	idoseikokiatsu	偏西風により低気圧に挟まれるようにして移動していく…
+j	遺伝子疾患	idenshishikkan	遺伝病に同じ。
+j	遺伝子組み換え	idenshikumikae	
+k	이드르르하다	ideureureuhada	
+k	이드알피트르	ideualpiteureu	이슬람에서 라마단 기간이 끝난 뒤에 하는 3일…
+k	이들이들하다	ideurideulhada	
+e	i don't understand	idontunderstand	1 meaning
+e	i'd like to kiss you	idliketokissyou	1 meaning
+j	遺伝的特性	identekitokusei	
+e	i don't speak english	idontspeakenglish	2 meanings
+k	이데올로기에 관한	ideollogiegwanhan	
+k	이단평행봉	idanpyeonghaengbong	
+j	移動式クレーン運転士	idoshikikurenuntenshi	つり上げ荷重5トン以上を含めた全ての移動式クレーン…
+e	i don't want to buy anything	idontwanttobuyanything	1 meaning
+e	i don't want to talk about it	idontwanttotalkaboutit	1 meaning
+k	이등변삼각형	ideungbyeonsamgakhyeong	두 변의 길이가 같은 삼각형.

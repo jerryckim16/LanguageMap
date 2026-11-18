@@ -1,0 +1,2629 @@
+j	佩	佩	swords
+j	利	利	profit, benefit, advantage
+j	助	助	assistance
+j	哩	哩	mile (mi)
+j	塩	塩	salt
+j	天	天	the sky, the heavens
+j	岩	岩	rock
+j	嵩	嵩	bulk, large quantity
+j	弩	弩	（ド、いしゆみ、おおゆみ）横倒しにした弓に弦を張っ…
+j	彩	彩	a female given name
+j	復	復	「また」を参照。
+j	恩	恩	obligation
+j	攩	攩	
+j	早	早	already, now
+j	晩	晩	evening
+j	権	権	right to do something, au…
+j	歩	歩	a literal (foot)step: wal…
+j	洩	洩	leak; escape
+j	浩	浩	a male given name
+j	温	温	warm
+j	煩	煩	（ハン）わずらわしさ。
+j	物	物	thing (concrete, tangible)
+j	狩	狩	hunting (game, deer, duck…
+j	癩	癩	leprosy
+j	矩	矩	carpenter's square
+j	篩	篩	
+j	緩	緩	slow; sluggish
+j	義	義	justice; a situation whic…
+j	肩	肩	a shoulder
+j	脩	脩	a male given name
+j	萩	萩	bush clover, general term…
+j	薩	薩	
+j	藩	藩	fiefdom, domain
+j	蜩	蜩	the evening cicada (Tanna…
+j	詩	詩	poem
+j	適	適	（たまたま）偶然。ちょうどその時。
+j	鋩	鋩	tip of a spear or sword
+j	閩	閩	Min, one of the Ten Kingd…
+j	革	革	leather
+j	鱩	鱩	
+j	鳩	鳩	pigeon, dove (bird of gen…
+j	鵩	鵩	
+j	麩	麩	wheat bran
+j	﨩	﨩	a surname
+k	권	権	volumes
+k	극	革	pole
+k	냥	兩	A liang, a Korean unit of…
+k	노	弩	string, cord (twisted hem…
+k	뇌	悩	brain
+k	보	歩	step
+k	시	詩	hour (time)
+k	양	兩	quantity, amount
+k	염	塩	salt
+k	온	温	all, whole, entire
+k	의	義	righteousness; righteous …
+k	이	利	this (proximal determiner)
+k	질	秩	quality
+k	천	天	cloth; fabric
+j	佩刀	佩刀	体に刀を身につけること。その刀。帯刀。
+j	佩剣	佩剣	体に剣を身に付けること。その剣。帯剣。
+j	佩巾	佩巾	腰の巾。
+j	佩服	佩服	身に着けること。
+j	佩玉	佩玉	古代中国で天子や貴人が腰の革帯に着けた玉の類い。
+j	倩肦	倩肦	愛らしい口元と美しい目元。美人の形容。
+j	利く	利く	
+j	利一	利一	a male given name
+j	利三	利三	a male given name
+j	利之	利之	a male given name
+j	利他	利他	altruism
+j	利佳	利佳	a female given name
+j	利便	利便	convenient
+j	利信	利信	a male given name
+j	利光	利光	a male given name
+j	利刀	利刀	鋭利な刀。
+j	利刃	利刃	よく切れる刀剣や刃物。
+j	利則	利則	a male given name
+j	利剣	利剣	A sharp sword.
+j	利加	利加	a female given name
+j	利勝	利勝	a male given name
+j	利口	利口	clever
+j	利和	利和	a male given name
+j	利器	利器	sharp weapon
+j	利夫	利夫	a male given name
+j	利奈	利奈	a female given name
+j	利子	利子	interest
+j	利害	利害	profits and losses
+j	利導	利導	有利な方向へ導くこと。
+j	利尿	利尿	尿をよく排出するようにすること。
+j	利巧	利巧	「利口」の別表記。
+j	利己	利己	selfishness
+j	利幅	利幅	利益の幅。儲けの度合い。
+j	利平	利平	利子。利息。
+j	利幸	利幸	a male given name
+j	利弊	利弊	利益と弊害。
+j	利弘	利弘	a male given name
+j	利得	利得	gain, profit, benefit
+j	利徳	利徳	利益を得ること。利得。
+j	利息	利息	interest
+j	利敵	利敵	敵に利益になるようなこと。
+j	利文	利文	a male given name
+j	利明	利明	a male given name
+j	利春	利春	a male given name
+j	利札	利札	無記名の証券や債券などに接続していて、引換にその利…
+j	利根	利根	naturally intelligent
+j	利権	利権	concession; interests; sh…
+j	利欲	利欲	desire for profit, greed …
+j	利殖	利殖	money making
+j	利沢	利沢	利益と恩沢。
+j	利治	利治	a male given name
+j	利洋	利洋	a male given name
+j	利潤	利潤	profit
+j	利点	利点	advantage, merit
+j	利率	利率	interest rate
+j	利生	利生	仏が衆生に対し利益すること。その利益。
+j	利用	利用	use, usage, utilization, …
+j	利男	利男	a male given name
+j	利発	利発	intelligent
+j	利益	利益	benefit
+j	利行	利行	a male given name
+j	利規	利規	a male given name
+j	利通	利通	a male given name
+j	利達	利達	promotion
+j	利鈍	利鈍	刀剣や刃物の切れ味が鋭利であることと鈍いこと。
+j	利限	利限	（金融）利息制限の略。
+j	利雄	利雄	a male given name
+j	利鞘	利鞘	profit margin
+j	剩餘	剩餘	
+j	助け	助け	aid, rescue, relief, help…
+j	助力	助力	help; assistance; helping…
+j	助勢	助勢	手助けすること。
+j	助命	助命	殺されるはずの人の命を助けること。
+j	助士	助士	主に交通機関で正式な業務担当者を補助するもの。
+j	助奏	助奏	伴奏以外で補助される装飾的な演奏。オブリガート。
+j	助字	助字	an auxiliary character, a…
+j	助役	助役	主任となる者を補助する役。
+j	助成	助成	financial assistance
+j	助手	助手	assistant, helper
+j	助扶	助扶	扶助すること。
+j	助援	助援	助け、救うこと。援助。
+j	助攻	助攻	主となる攻撃を助ける攻撃をすること。
+j	助教	助教	assistant teacher, teachi…
+j	助業	助業	阿弥陀仏を対象とする正行のうち称名念仏（正定業）を…
+j	助演	助演	映画、演劇などで脇役として主役を助けて演じること。…
+j	助産	助産	midwifery, birth assistan…
+j	助祭	助祭	deacon (Catholic)
+j	助筆	助筆	他人が書いた文書に加筆して直すこと。
+j	助老	助老	老僧が座禅する際に肘をつくための台。また、顎をのせ…
+j	助葬	助葬	経済的に困窮していたり、身寄りが無かったり、行旅死…
+j	助言	助言	advice (opinion recommend…
+j	助詞	助詞	Particle: a part of speec…
+j	助走	助走	run-up; approach run
+j	助辞	助辞	an auxiliary word or affi…
+j	助野	助野	a surname
+j	助長	助長	promotion, encouragement,…
+j	助音	助音	（じょいん、じょおん）主となる読経、歌唱、演奏する…
+j	卩部	卩部	部首「⼙」で分類した漢字の一群。
+j	厩肥	厩肥	manure
+j	厩舎	厩舎	stable, barn
+j	叩き	叩き	
+j	叩く	叩く	to hit; to strike; to bea…
+j	叩扉	叩扉	扉をたたくこと。
+j	叩解	叩解	紙の原料であるパルプの繊維を機械で押し潰したり、切…
+j	叩謁	叩謁	拝謁すること。
+j	叩門	叩門	門を叩くこと。人を訪ねること。
+j	叩頭	叩頭	a kowtow, a deep bow so l…
+j	叩顙	叩顙	額突くこと。
+j	叩首	叩首	kowtow
+j	吩呶	吩呶	喧しいさま。
+j	嗩吶	嗩吶	チャルメラ。
+j	噩噩	噩噩	厳しいさま。
+j	坩堝	坩堝	crucible; (melting) pot
+j	塩ビ	塩ビ	ポリ塩化ビニル（ポリ塩化ビニール）の略。合成樹脂（…
+j	塩井	塩井	製塩のため塩分を含む地下水を汲み上げるための井戸。
+j	塩分	塩分	amount of salt, salt (any…
+j	塩化	塩化	chloride
+j	塩原	塩原	a surname
+j	塩味	塩味	味覚のひとつ。塩辛い味。
+j	塩商	塩商	中国で塩を販売した業者。
+j	塩噌	塩噌	塩と味噌。
+j	塩基	塩基	a base
+j	塩安	塩安	ammonium chloride
+j	塩害	塩害	塩分による金属のサビや農作物の生育不順といった被害…
+j	塩屋	塩屋	a producer of salt
+j	塩崎	塩崎	a surname
+j	塩川	塩川	a surname
+j	塩戸	塩戸	塩を作る家。
+j	塩月	塩月	a surname
+j	塩析	塩析	有機化合物などの溶質に大量の塩を加え、溶質を析出さ…
+j	塩梅	塩梅	seasoning
+j	塩水	塩水	brine (salt water)
+j	塩沼	塩沼	
+j	塩泉	塩泉	塩分を含む泉。
+j	塩湖	塩湖	salt lake
+j	塩漬	塩漬	食肉加工品で原材料に食塩や調味料などを加え、漬け込…
+j	塩瀬	塩瀬	a surname
+j	塩田	塩田	salt pan
+j	塩硝	塩硝	硝石（硝酸カリウム）。江戸時代、加賀藩での表記。
+j	塩素	塩素	chlorine, Cl
+j	塩蔵	塩蔵	塩漬けにして保存すること。また、そのもの。
+j	塩見	塩見	a surname
+j	塩課	塩課	中国で専売の塩に賦課された租税。
+j	塩谷	塩谷	a surname
+j	塩豉	塩豉	味噌や納豆など豆類に塩分を加えねかせた食品。
+j	塩辛	塩辛	shiokara, a Japanese deli…
+j	塩酢	塩酢	塩と酢。
+j	塩酸	塩酸	hydrochloric acid
+j	塩醤	塩醤	肉の塩漬け。
+j	塩類	塩類	salt (as a category)
+j	塩飽	塩飽	a surname
+j	天パ	天パ	having naturally curly ha…
+j	天上	天上	the distant sky, the heav…
+j	天下	天下	the whole world, the earth
+j	天与	天与	innate, God given
+j	天主	天主	the Lord of Heaven; God
+j	天丼	天丼	tendon, tempura donburi
+j	天乃	天乃	a surname
+j	天井	天井	ceiling
+j	天人	天人	heavenly spirits or gods …
+j	天仁	天仁	the Tennin era, 1108-1110
+j	天佑	天佑	天の佑け。
+j	天体	天体	celestial body
+j	天使	天使	an angel
+j	天保	天保	the Tenpō era, 1830-1844
+j	天候	天候	weather
+j	天元	天元	The point at the center o…
+j	天光	天光	日光。天日。
+j	天児	天児	a protective charm for ba…
+j	天兵	天兵	天から派遣される兵。
+j	天冠	天冠	an imperial coronation cr…
+j	天分	天分	natural gift, talent
+j	天刑	天刑	天・自然の法則。
+j	天利	天利	天引きの利子。
+j	天則	天則	天によって定められた法則。自然の法則。
+j	天助	天助	天の佑け。
+j	天南	天南	a surname
+j	天叙	天叙	天によって定められた秩序。
+j	天台	天台	a school of Mahayana Budd…
+j	天吸	天吸	天麩羅に麺液を掛けた料理。天抜。
+j	天命	天命	mandate of heaven, will o…
+j	天和	天和	heavenly hand: a winning …
+j	天啓	天啓	divine revelation
+j	天喜	天喜	the Tengi era, 1053-1058
+j	天国	天国	heaven
+j	天地	天地	heaven and earth; and all…
+j	天城	天城	a place name
+j	天埜	天埜	a surname
+j	天堂	天堂	heaven
+j	天塩	天塩	天塩国の略。
+j	天塹	天塹	天然にできた要害の堀。
+j	天壇	天壇	Temple of Heaven (a relig…
+j	天壌	天壌	天地。あめつち。
+j	天壍	天壍	「天塹」の異表記。
+j	天声	天声	天から聞こえる声。
+j	天変	天変	a bad change or abnormali…
+j	天外	天外	天のはるか彼方。
+j	天女	天女	a female inhabitant of he…
+j	天姿	天姿	生まれつきの容姿。
+j	天威	天威	天子の威力。
+j	天子	天子	the Emperor of China, Son…
+j	天学	天学	天文学。
+j	天孫	天孫	a heavenly god's grandchi…
+j	天守	天守	tenshu (a traditional Jap…
+j	天安	天安	the Ten'an era, 857-859
+j	天官	天官	天子に仕える官吏。
+j	天宝	天宝	天から与えられた宝。
+j	天宮	天宮	a surname
+j	天寵	天寵	天の恩恵。
+j	天寿	天寿	天から授けられた寿命。
+j	天将	天将	陰陽師が六壬神課で使役する十二の神格、式神。
+j	天山	天山	Tian Shan
+j	天川	天川	Macau
+j	天工	天工	自然の仕業。
+j	天帝	天帝	天にいて万物を創造した神。
+j	天常	天常	天の常理。
+j	天幕	天幕	天井から下げて使用する装飾用の幕。
+j	天干	天干	heavenly stem
+j	天平	天平	the Tenpyō era, 729-749
+j	天年	天年	natural lifespan
+j	天序	天序	天によって定められた秩序。
+j	天底	天底	nadir (point of the sky)
+j	天府	天府	天然の穀倉地帯。
+j	天庭	天庭	天上の庭。
+j	天延	天延	the Ten'en era, 973-976
+j	天弓	天弓	虹。
+j	天従	天従	a male given name
+j	天徳	天徳	heavenly virtue
+j	天心	天心	天空の中心。
+j	天応	天応	the Ten'ō era, 781-782
+j	天性	天性	nature, innate dispositio…
+j	天恩	天恩	天からの恵み。
+j	天恵	天恵	天から与えられる恵み。天禄。
+j	天慶	天慶	the Tengyō era, 938-947
+j	天成	天成	自然に出来上がったこと。
+j	天才	天才	genius
+j	天承	天承	the Tenshō era, 1131-1132
+j	天抜	天抜	天吸。
+j	天授	天授	the Tenju era, 1375-1381 …
+j	天数	天数	天から授けられた寿命。天寿。
+j	天敵	天敵	natural enemy
+j	天文	天文	astronomy
+j	天日	天日	the Sun
+j	天明	天明	daybreak
+j	天星	天星	heavenly body
+j	天時	天時	四季・寒暑・昼夜などが自然に巡ることで人事に影響を…
+j	天晴	天晴	a male given name
+j	天暦	天暦	the Tenryaku era, 847-857
+j	天朝	天朝	the Imperial Court in Kyo…
+j	天来	天来	天から贈られて来ること。
+j	天杯	天杯	天皇から賜る酒杯。他のうつわに移しかえて飲むのが礼…
+j	天板	天板	つくえ、テーブルなどの上部の平たい板。甲板。
+j	天枢	天枢	経穴の一つ。胃経に属し、下痢・腸炎・肝炎などの治療…
+j	天柱	天柱	（てんちゅう）天を支えるという柱。
+j	天格	天格	姓名占いで姓の漢字の画数を総て足した数字。
+j	天桴	天桴	ぜんまい時計で回転振動する装置。天府。
+j	天梅	天梅	「夜叉柄杓」の別名。
+j	天業	天業	天帝が行う事業。
+j	天楽	天楽	天上の世界の音楽。
+j	天権	天権	北斗七星に属するおおぐま座δ星の別名。メグレズ。文…
+j	天機	天機	profound secret
+j	天正	天正	the Tenshō era, 1573-1592
+j	天気	天気	weather
+j	天水	天水	天から降る水。
+j	天永	天永	the Ten'ei era, 1110-1113
+j	天沢	天沢	天からの恵み。
+j	天河	天河	synonym of 銀河系 (Gingakei,…
+j	天治	天治	the Tenji era, 1124-1126
+j	天泣	天泣	空にそれらしい雲もないのに降る雨や雪。
+j	天津	天津	Tianjin (a direct-adminis…
+j	天海	天海	a surname
+j	天涯	天涯	horizon
+j	天測	天測	航海などで緯度や経度を調べるため天体を観測すること。
+j	天滓	天滓	てんぷらを揚げた際に出る衣の滓。あげだま。
+j	天漢	天漢	synonym of 銀河系 (Gingakei,…
+j	天火	天火	fire caused by lightning
+j	天灯	天灯	タクシーの屋根についているランプ。
+j	天災	天災	natural disaster
+j	天然	天然	being natural
+j	天照	天照	Amaterasu, the Japanese s…
+j	天父	天父	Father (God, the father o…
+j	天牌	天牌	天子の宝祚と聖寿の無窮を願い、仏や本尊の前に安置す…
+j	天牛	天牛	synonym of かみきりむし (kamiki…
+j	天狐	天狐	A heavenly/celestial fox;…
+j	天狗	天狗	a tengu, a mythical Japan…
+j	天王	天王	heavenly king
+j	天球	天球	celestial sphere
+j	天理	天理	laws of nature, natural l…
+j	天瑞	天瑞	瑞祥。
+j	天璇	天璇	北斗七星に属するおおぐま座β星の別名。メラク。巨門。
+j	天璣	天璣	北斗七星に属するおおぐま座γ星の別名。フェクダ。禄…
+j	天璽	天璽	天皇が印として代々伝承する重宝。
+j	天生	天生	自然に生じること。
+j	天産	天産	a natural product, a prod…
+j	天界	天界	天上の世界。
+j	天皇	天皇	an Emperor or Empress (re…
+j	天盃	天盃	「天杯」の別表記。
+j	天目	天目	tenmoku, a type of dark-c…
+j	天真	天真	naive; innocent; artless
+j	天眷	天眷	天の慈悲。
+j	天眼	天眼	heavenly sight by heavenl…
+j	天祐	天祐	人知を超えたものが助けをなすこと又はその助け。その…
+j	天祖	天祖	天皇の祖先。
+j	天祚	天祚	天皇の位。皇位。
+j	天神	天神	all gods in the 高天原 (Taka…
+j	天祿	天祿	
+j	天禄	天禄	rewards from the heaven; …
+j	天福	天福	the Tenpuku era, 1233–1234
+j	天秤	天秤	scales, balance
+j	天稟	天稟	生まれつきのもの。天性。天資。
+j	天穹	天穹	大空。
+j	天空	天空	sky, ether, air, firmament
+j	天窓	天窓	skylight
+j	天竜	天竜	八部衆のうち、天衆と竜神の併称。
+j	天章	天章	天文。
+j	天童	天童	仏教の護法神である鬼神、天人などが人界に年少者の姿…
+j	天端	天端	建築物や構造物の最も高い部分。
+j	天竺	天竺	India
+j	天篤	天篤	古代のインドの漢名。天竺。
+j	天籟	天籟	風が物を鳴らす音。
+j	天精	天精	天の精気。
+j	天絡	天絡	電気設備や電気製品などで電線の絶縁の不良などにより…
+j	天統	天統	天子、天皇の系統。
+j	天網	天網	Heaven's net (from which …
+j	天縦	天縦	天が許して縦にさせること。
+j	天罰	天罰	divine punishment
+j	天聴	天聴	天子がお聴きになること。叡聞。
+j	天職	天職	calling, vocation (occupa…
+j	天色	天色	空の色。
+j	天花	天花	snow
+j	天草	天草	Amakusa (a city in Kumamo…
+j	天華	天華	「天花」の別表記。
+j	天蓋	天蓋	canopy, often on a canopy…
+j	天蚕	天蚕	Japanese oak silkmoth, An…
+j	天蛾	天蛾	
+j	天表	天表	天の彼方。天外。
+j	天裁	天裁	judgement by the emperor
+j	天覧	天覧	天子が御覧になること。
+j	天話	天話	架空の話。
+j	天誅	天誅	punishment served from he…
+j	天譴	天譴	天からの譴責。天罰。
+j	天象	天象	astronomical phenomena
+j	天資	天資	生まれもった資質。
+j	天賜	天賜	天からたまわったもの。
+j	天賦	天賦	one's natural talent
+j	天辺	天辺	いただき。頂上。
+j	天運	天運	天から与えられた運命。
+j	天道	天道	laws of nature
+j	天部	天部	（仏教）天界に暮らす神々の総称。帝釈天や大黒天など。
+j	天野	天野	a surname
+j	天金	天金	洋綴じの製本で上方の小口に金箔を張ったもの。また、…
+j	天長	天長	the Tenchō era, 824–834
+j	天門	天門	昇天するための入り口にあるとされる門。
+j	天闕	天闕	天帝が暮らす宮殿の門。
+j	天降	天降	
+j	天険	天険	地勢が人為的でなく険しくなっている場所。天然の要害。
+j	天陽	天陽	陽気。
+j	天際	天際	空の果て。天涯。
+j	天雷	天雷	かみなり。
+j	天霄	天霄	大空。
+j	天靖	天靖	室町時代、南朝方の遺臣が使用した私年号。1443年。
+j	天頂	天頂	zenith
+j	天領	天領	天皇、朝廷の直轄地。
+j	天顔	天顔	天子の顔。竜顔。
+j	天飆	天飆	天空に吹き荒ぶ旋風。
+j	天飇	天飇	天飆の異表記。
+j	天飈	天飈	天飆の異表記。
+j	天養	天養	the Ten'yō era, 1144-1145
+j	天香	天香	a female given name
+j	天馬	天馬	Heavenly steed
+j	天魔	天魔	demon; evil spirit
+j	天鵞	天鵞	a swan
+j	天麻	天麻	dried rhizome of Gastrodi…
+j	天鼓	天鼓	かみなり。
+j	天鼠	天鼠	bat (small flying mammal)
+j	娩出	娩出	birthing
+j	嫩江	嫩江	Nen River, a river in nor…
+j	嫩緑	嫩緑	tender green
+j	嫩芽	嫩芽	young shoot
+j	嫩草	嫩草	young grass
+j	嫩葉	嫩葉	young leaves
+j	孩児	孩児	嬰児。幼子。「孩」は「いとけない」の意。
+j	孩子	孩子	嬰児、幼子。
+j	孩孺	孩孺	子供。
+j	審供	審供	供述書。
+j	審判	審判	judgment; verdict
+j	審勘	審勘	検討。
+j	審問	審問	trial
+j	審定	審定	詳しく調べて決定すること。
+j	審察	審察	thorough investigation
+j	審尋	審尋	詳細に質問すること。
+j	審廷	審廷	事件の審判を行う場所。
+j	審明	審明	examining something in de…
+j	審査	審査	review, judgment, screeni…
+j	審検	審検	取り調べること。吟味すること。
+j	審決	審決	慎重に調べて決定すること。
+j	審理	審理	trial in court
+j	審究	審究	詳細に調べること。
+j	審窮	審窮	審究すること。
+j	審糾	審糾	罪状を詳しく調べること。審鞫。
+j	審級	審級	裁判所で複数回審判を行う場合、その審判に順序や上下…
+j	審美	審美	aesthetics
+j	審覈	審覈	詳しく取り調べること。
+j	審訊	審訊	詳細に質問すること。
+j	審議	審議	conference; deliberation
+j	審験	審験	取り調べること。吟味すること。
+j	岩下	岩下	a surname
+j	岩乗	岩乗	非常に強健な馬。
+j	岩井	岩井	a place name
+j	岩代	岩代	Iwashiro Province, an old…
+j	岩佐	岩佐	a surname
+j	岩体	岩体	地層のある範囲で連続してひとまとまりになっている岩…
+j	岩倉	岩倉	Iwakura (a city in Aichi …
+j	岩原	岩原	a surname
+j	岩団	岩団	地殻を構成している火成岩が、不規則な大きな塊となっ…
+j	岩国	岩国	Iwakuni (a city in Yamagu…
+j	岩城	岩城	a surname
+j	岩堀	岩堀	a surname
+j	岩場	岩場	rocky area
+j	岩塩	岩塩	rock salt
+j	岩壁	岩壁	rock face
+j	岩夫	岩夫	a male given name
+j	岩屋	岩屋	a cave
+j	岩屑	岩屑	岩盤や岩体の物理的・化学的な風化により生じ、自然に…
+j	岩崎	岩崎	a surname
+j	岩州	岩州	岩代国^(（いわしろのくに）)の別称。
+j	岩床	岩床	マグマが地層の間に水平または斜めに入り込み板状に固…
+j	岩手	岩手	a place name, such as tha…
+j	岩木	岩木	a surname
+j	岩本	岩本	a surname
+j	岩村	岩村	a surname
+j	岩梨	岩梨	Epigaea asiatica, an ever…
+j	岩永	岩永	a surname
+j	岩波	岩波	a surname
+j	岩渕	岩渕	a surname
+j	岩漿	岩漿	synonym of マグマ (maguma, “…
+j	岩瀬	岩瀬	a surname
+j	岩版	岩版	縄文時代晩期、砂岩や泥岩を方形や楕円形にし、その片…
+j	岩狸	岩狸	hyrax
+j	岩田	岩田	a surname
+j	岩畔	岩畔	そびえた岩のほとり。
+j	岩盤	岩盤	bedrock
+j	岩相	岩相	ある程度の範囲で見た岩石の断面に現れるその岩石の性…
+j	岩石	岩石	rock (natural mineral agg…
+j	岩礁	岩礁	水中に隠れていたり水面上にわずかに突き出ている岩。
+j	岩穴	岩穴	rock cave
+j	岩窓	岩窓	浸食などにより岩石に窓のように開いた穴。
+j	岩窟	岩窟	岩でできた洞穴。岩屋。
+j	岩粉	岩粉	岩石が粘土の粒子程度まで粉砕されたもの。
+j	岩肉	岩肉	膝の上部に盛り上がってみえる肉。
+j	岩蟹	岩蟹	striped shore crab (Pachy…
+j	岩袋	岩袋	Pennellianthus frutescens
+j	岩谷	岩谷	a surname
+j	岩質	岩質	岩石の性質や特徴。
+j	岩野	岩野	a surname
+j	岩鏡	岩鏡	Schizocodon soldanelloides
+j	岩間	岩間	a surname
+j	岩頭	岩頭	岩の上または突端。
+j	岩頸	岩頸	火山体が浸食されて、火道を埋めていた溶岩などが浸食…
+j	岩魚	岩魚	
+j	岩鼻	岩鼻	the tip of a rock, the pr…
+j	崩し	崩し	unbalancing an opponent
+j	崩す	崩す	to destroy
+j	崩れ	崩れ	collapse, crumbling, ruin
+j	崩傾	崩傾	崩れ、倒れること。
+j	崩壊	崩壊	decay; deterioration; dis…
+j	崩御	崩御	the death of the Emperor
+j	崩析	崩析	瓦解すること。
+j	崩殂	崩殂	the death of a monarch or…
+j	崩潰	崩潰	崩れて潰れること。
+j	崩落	崩落	collapse
+j	崩薨	崩薨	貴人がなくなること。
+j	崩藉	崩藉	瓦解すること。
+j	嵩子	嵩子	a female given name
+j	廩廩	廩廩	威儀のあるさま。
+j	廩膳	廩膳	食事。
+j	弩力	弩力	弩の力。
+j	弩弓	弩弓	大弓。石弓。
+j	弩砲	弩砲	投石するための武器。
+j	弩級	弩級	Dreadnought class
+j	彩り	彩り	colouring
+j	彩る	彩る	to colour, to stain
+j	彩乃	彩乃	a female given name
+j	彩佳	彩佳	a female given name
+j	彩加	彩加	a female given name
+j	彩可	彩可	a female given name
+j	彩名	彩名	a female given name
+j	彩夏	彩夏	a female given name
+j	彩層	彩層	
+j	彩帆	彩帆	
+j	彩度	彩度	colourfulness
+j	彩文	彩文	（さいもん）彩りが美しい紋様。特に精緻な幾何学的な…
+j	彩未	彩未	a female given name
+j	彩果	彩果	a female given name
+j	彩漆	彩漆	顔料を混ぜて作ったうるし。
+j	彩筆	彩筆	絵筆。画筆。
+j	彩管	彩管	a paintbrush; an artist's…
+j	彩翠	彩翠	色付いた草木。
+j	彩色	彩色	coloring
+j	彩菜	彩菜	a female given name
+j	彩虹	彩虹	colourful beautiful rainb…
+j	彩衣	彩衣	彩色の美しい衣服。
+j	彩陶	彩陶	古い時代の中国で使用された彩色された文様がある土器。
+j	彩雲	彩雲	太陽の近くの雲の縁が緑色に縁どられる現象。
+j	彩香	彩香	a female given name
+j	彩鳳	彩鳳	彩りの美しい鳳。
+j	復仇	復仇	仇討ち。仕返し。復讐。
+j	復位	復位	元の地位などに復帰すること。
+j	復元	復元	restoration
+j	復党	復党	一度離党したものが党に戻ること。
+j	復円	復円	日食が終わり太陽が元の円形に戻ること。
+j	復刊	復刊	reprinting of book, espec…
+j	復刻	復刻	reprint of a work that ha…
+j	復原	復原	元の位置や状態に戻ること。また、戻すこと。
+j	復古	復古	restoration; return to th…
+j	復号	復号	暗号を復元し、内容や意味を解読できるようにすること。
+j	復命	復命	命令を受けた者がそれを処理し、その結果を命令した者…
+j	復員	復員	demobilization
+j	復唱	復唱	reciting repeatedly
+j	復啓	復啓	手紙の返信の冒頭に頭語として記載する語句の一つ。「…
+j	復国	復国	restoration of a country
+j	復奏	復奏	繰り返し調査し奏上すること。
+j	復姓	復姓	かつて名乗っていた姓に戻ること。
+j	復学	復学	休学や停学となっていた学生、生徒がその学校に戻るこ…
+j	復官	復官	復職すること。
+j	復審	復審	reexamination
+j	復席	復席	一度離れた席に戻ること。
+j	復帰	復帰	return (act of returning)…
+j	復常	復常	正常に復すること。元に戻ること。
+j	復文	復文	返書。
+j	復旧	復旧	restoration
+j	復校	復校	再度調べること。
+j	復業	復業	一度やめたり、休んでいた業務や仕事を再び始めること。
+j	復権	復権	restoration of rights
+j	復氏	復氏	婚姻、養子縁組などにより氏を変更した者が、離婚、離…
+j	復水	復水	condensation of steam
+j	復活	復活	revival; return to life
+j	復申	復申	答えを申し、述べるすること。
+j	復白	復白	もう一度奏上すること。
+j	復答	復答	問われたことに答えること。返答。
+j	復籍	復籍	婚姻又は養子縁組によつて氏を改めた者が、離婚、離縁…
+j	復縁	復縁	getting back together (wi…
+j	復習	復習	review
+j	復職	復職	reinstatement (returning …
+j	復興	復興	reconstruction, restorati…
+j	復航	復航	船舶や航空機の帰りの航行。
+j	復蜟	復蜟	蝶や蛾の蛹。
+j	復誦	復誦	何度も読むこと。
+j	復読	復読	繰り返し一つの書物を読むこと。
+j	復調	復調	recovering of one's condi…
+j	復讐	復讐	revenge; vengeance
+j	復路	復路	帰る際に通る道。
+j	復辟	復辟	退位した君主が、再び王位に就くこと。
+j	復顔	復顔	頭蓋骨に粘土などを貼り付け、生前の顔を復元すること。
+j	復飾	復飾	出家していた僧が還俗すること。
+j	忩劇	忩劇	慌ただしいこと。多忙で落ちつかないこと。怱忙。
+j	恩人	恩人	benefactor (one who gives…
+j	恩信	恩信	情けがあり誠意があること。
+j	恩倖	恩倖	慈しみ。恩恵。
+j	恩典	恩典	a (special) favor; a priv…
+j	恩命	恩命	情けのある御命令。ありがたい御言葉。
+j	恩地	恩地	武家が勲功に対して恩賞を君主から与えられた領地。恩…
+j	恩威	恩威	恩恵と威光。
+j	恩審	恩審	情けのある命により再審すること。
+j	恩寵	恩寵	appreciation (by a God or…
+j	恩師	恩師	greatly respected teacher…
+j	恩幸	恩幸	慈しみ。恩恵。
+j	恩引	恩引	招待。
+j	恩徳	恩徳	恩と徳。恩恵。恵み。
+j	恩德	恩德	恩徳の旧字体表記。
+j	恩怨	恩怨	情けと怨み。
+j	恩恵	恩恵	favour
+j	恩情	恩情	目上の者が目下の者にかける情け深い心。
+j	恩愛	恩愛	《仏教》［原義］ 愛情や恩にひかれる執着。出家をす…
+j	恩沢	恩沢	神仏がもたらす恩恵。主君から下賜される恩賞。恵み。…
+j	恩波	恩波	恩恵が波が広がるように行き渡ること。
+j	恩田	恩田	a surname
+j	恩眷	恩眷	目をかけて慈しむこと。情けをかけること。
+j	恩禄	恩禄	主君からの禄に対する尊敬語。
+j	恩簡	恩簡	相手からの手紙に対する尊敬語。
+j	恩給	恩給	封建制において主君が家臣に土地などを与えること。
+j	恩義	恩義	favor, obligation, debt o…
+j	恩蔭	恩蔭	おかげ。
+j	恩補	恩補	恩賞として主君から職を授けられること。
+j	恩詔	恩詔	情けがある（ありがたい）詔。
+j	恩讐	恩讐	恩と仇。
+j	恩貸	恩貸	恩情を施すこと。慈悲の心で与えること。
+j	恩賜	恩賜	gift from the emperor
+j	恩賞	恩賞	reward
+j	恩赦	恩赦	a legislative or executiv…
+j	恩隠	恩隠	恩蔭の異表記。
+j	恩霑	恩霑	恩沢。
+j	恩領	恩領	武家で勲功に対する恩賞として君主から与えられた領地…
+j	恩顧	恩顧	情けをかけること。ひいきにすること。
+j	悩み	悩み	worry, trouble
+j	悩む	悩む	(in reaction to something…
+j	悩乱	悩乱	悩み苦しんで心が乱れること。
+j	悩殺	悩殺	dazzling men with beauty …
+j	憩う	憩う	to take a breather, to re…
+j	憩室	憩室	胃腸や気管など主に管状の臓器の壁面の一部に小さな袋…
+j	憩息	憩息	一旦休息すること。休憩。
+j	捩る	捩る	to twist
+j	捩れ	捩れ	
+j	捩率	捩率	曲線 C=boldsymbol p(t)∣t∈ℝの…
+j	掩体	掩体	敵からの砲弾などから味方を援護するとともに味方が射…
+j	掩撃	掩撃	sneak attack, surprise at…
+j	掩映	掩映	(「映」を「蔽」と掛けて)覆い隠すこと。
+j	掩絶	掩絶	隠し、隔離すること。
+j	掩翳	掩翳	覆い隠すこと。
+j	掩耳	掩耳	耳を覆うこと。
+j	掩蓋	掩蓋	対象物を覆い被せる蓋。
+j	掩蔽	掩蔽	cloaking, concealment, st…
+j	掩襲	掩襲	不意を狙い襲うこと。
+j	掩護	掩護	敵の攻撃から味方を守ること。
+j	揩鼓	揩鼓	かつて日本で使用された打楽器。中央がくびれた胴の両…
+j	搩手	搩手	手の親指と中指を広げること。また、その長さ。
+j	摩る	摩る	to rub a part of the body…
+j	摩損	摩損	「磨損」の別表記。
+j	摩擦	摩擦	friction
+j	摩滅	摩滅	摩擦などによりすり減り、潰れたり、なくなったりする…
+j	摩羅	摩羅	「魔羅」の別表記。
+j	摩耗	摩耗	abrasion
+j	摩耶	摩耶	Maya (mother of Gautama B…
+j	摩訶	摩訶	something great, somethin…
+j	撩戦	撩戦	挑戦すること。
+j	攩網	攩網	a hand-held fishing net
+j	早々	早々	so early; occurring much …
+j	早い	早い	early
+j	早う	早う	
+j	早え	早え	
+j	早く	早く	
+j	早世	早世	a premature death, an unt…
+j	早出	早出	（家などを）いつもより早く出ること。勤務先にいつも…
+j	早参	早参	早く参上すること。
+j	早口	早口	talking in a fast way
+j	早坂	早坂	a surname
+j	早婚	早婚	若い年齢で結婚すること。また、その結婚。
+j	早寝	早寝	going to bed early
+j	早川	早川	river that flows fast
+j	早希	早希	a female given name
+j	早年	早年	年齢が若いこと。
+j	早弁	早弁	eating one's bento (packe…
+j	早急	早急	immediate; prompt; urgent
+j	早慶	早慶	Waseda University and/vs.…
+j	早成	早成	早く完成したり成就したりすること。
+j	早旦	早旦	朝の早い時間。早朝。
+j	早早	早早	そのようになってすぐの時期。「（体言）+早早（に）…
+j	早春	早春	early spring
+j	早晨	早晨	朝の早い頃。
+j	早晩	早晩	sooner or later, in time
+j	早暁	早暁	dawn, daybreak
+j	早月	早月	（ソウゲツ）三日月の異称。
+j	早朝	早朝	early morning
+j	早期	早期	early stage
+j	早歌	早歌	鎌倉時代から室町時代にかけて貴族や武士の間で宴会な…
+j	早漏	早漏	premature ejaculation
+j	早瀬	早瀬	a surname
+j	早熟	早熟	precocious
+j	早爨	早爨	朝食。
+j	早版	早版	新聞で早い段階の版。
+j	早生	早生	結実などが普通の品種より早い時季になること。わせ。
+j	早産	早産	premature birth
+j	早田	早田	a surname
+j	早番	早番	early shift, morning shift
+j	早発	早発	早い時期に出発、発現すること。
+j	早着	早着	arriving early, ahead of …
+j	早秋	早秋	early autumn
+j	早稲	早稲	rice maturing early
+j	早穂	早穂	a female given name
+j	早紀	早紀	a female given name
+j	早織	早織	a female given name
+j	早老	早老	年齢が若い割に体などが老いること。
+j	早苗	早苗	rice sprouts
+j	早見	早見	a surname
+j	早計	早計	being rash, not having be…
+j	早起	早起	synonym of 早起き (hayaoki, …
+j	早退	早退	early leave
+j	早逝	早逝	若い年齢で死ぬこと。
+j	早速	早速	immediately; promptly
+j	早雁	早雁	例年より早く飛来する雁。
+j	早雪	早雪	早い時期に降る雪。
+j	早飯	早飯	fast eater
+j	早鮨	早鮨	hayazushi (type of sushi …
+j	晩い	晩い	
+j	晩代	晩代	後世。
+j	晩冬	晩冬	late winter
+j	晩刻	晩刻	夕方。
+j	晩唐	晩唐	唐代を四分した第四期。827年～907年。
+j	晩夏	晩夏	夏の終わりの頃。8月後半から9月上旬あたりを指すが…
+j	晩天	晩天	夕方の空。
+j	晩婚	晩婚	late marriage
+j	晩学	晩学	年を取ってから、新たに学問を始めること
+j	晩岸	晩岸	夕暮れ時の岸辺。
+j	晩市	晩市	
+j	晩年	晩年	old age, one's later year…
+j	晩成	晩成	遅く出来あがること。
+j	晩春	晩春	late spring
+j	晩景	晩景	【ばんけい】夕陽。
+j	晩望	晩望	夕暮れ時の眺め。
+j	晩期	晩期	the late stage
+j	晩材	晩材	木の年輪で夏から初秋にかけてできた色の濃い部分。秋…
+j	晩来	晩来	夕方。「来」は助字。
+j	晩歳	晩歳	年老いた時。晩年。
+j	晩気	晩気	暮色。晩景。
+j	晩涼	晩涼	夕方の涼しさ。また、涼しくなった夏の夕方。
+j	晩潮	晩潮	夕方に満ちてくる潮。夕潮。
+j	晩照	晩照	夕日に照らされてできた影。夕日。
+j	晩熟	晩熟	成熟が他人より遅いこと。
+j	晩生	晩生	通常より生長や成熟するのが遅い品種。おくて。
+j	晩産	晩産	妊娠第43週以後に出産すること。
+j	晩着	晩着	普段着。
+j	晩秋	晩秋	秋の終りの頃。11月中旬から12月初めあたりまでの…
+j	晩稲	晩稲	通常より生長や成熟するのが遅い稲。
+j	晩節	晩節	晩年。
+j	晩羹	晩羹	昼間の間食。
+j	晩翠	晩翠	冬枯れの季節になっても、ある種の草木は枯れずに青々…
+j	晩英	晩英	遅咲きの花。
+j	晩蝉	晩蝉	
+j	晩酌	晩酌	drinking alcohol with din…
+j	晩鐘	晩鐘	夕方に鳴らす寺院などの鐘。また、その音。
+j	晩陽	晩陽	夕日。
+j	晩霜	晩霜	late spring frost
+j	晩霞	晩霞	夕時に立つ霞
+j	晩風	晩風	夕方に吹く風。
+j	晩飯	晩飯	晩にする食事。晩御飯。
+j	晩餉	晩餉	dinner (evening meal)
+j	晩餐	晩餐	supper, dinner
+j	晩鴉	晩鴉	夕暮れとなり巣にかえるからす。暮鴉。
+j	晩鶯	晩鶯	晩春から初夏にかけてなくうぐいす。
+j	曩代	曩代	前代。
+j	曩謨	曩謨	synonym of 南無 (namu): Use…
+j	柩車	柩車	柩を乗せた車。霊柩車。
+j	権典	権典	暫定法。
+j	権利	権利	right; claim; title; priv…
+j	権力	権力	power, authority
+j	権勢	権勢	power
+j	権化	権化	avatar (earthly manifesta…
+j	権厝	権厝	仮埋葬。
+j	権原	権原	ある行為をすることを正当とする法律上の原因。
+j	権太	権太	ruffian, hoodlum
+j	権威	権威	authority
+j	権官	権官	【けんかん】顕官の異表記。
+j	権宜	権宜	臨機に取り計らうこと。機宜。
+j	権家	権家	権力があり威勢を誇る家柄。権門。
+j	権幕	権幕	(「険悪」の連声と言われるも未詳)激しく怒った顔つ…
+j	権度	権度	秤と物差し。
+j	権数	権数	「権謀術数」の略。
+j	権族	権族	豪族。
+j	権栄	権栄	権勢があり身分が高いさま。
+j	権殿	権殿	社殿を造営・修理する間、神体を臨時に奉安する殿舎。
+j	権現	権現	仏や菩薩が衆生を救済するために権にすがたを変えて出…
+j	権瑞	権瑞	ナマズ目ゴンズイ科の海水魚。背鰭と胸鰭に毒があるが…
+j	権略	権略	臨機応変の計略。
+j	権益	権益	interests
+j	権称	権称	はかり。
+j	権綱	権綱	政治的権力の要綱。
+j	権義	権義	権利と義務。
+j	権者	権者	（けんじゃ）権力がある人。権利者。
+j	権能	権能	権利を主張し、また行使できる能力。
+j	権臣	権臣	権勢や権力を持った家臣。
+j	権萃	権萃	ミツバウツギ科の落葉高木。関東以西の山地に自生。
+j	権術	権術	たくらみ。計略。権謀術数。
+j	権衡	権衡	はかりの錘と竿。
+j	権要	権要	顕要の異表記。
+j	権詐	権詐	権謀と詐術。たくらみ。
+j	権詭	権詭	詭計。
+j	権謀	権謀	機に応じたはかりごと。
+j	権議	権議	ものの軽重を謀り、議論すること。
+j	権貴	権貴	権勢があり身分が高いさま。また、そのような人。
+j	権輿	権輿	物事の始まり。事の起こり。
+j	権道	権道	目的は正当であるが、それまでの手段が不正な方法であ…
+j	権量	権量	権衡と度量。
+j	権門	権門	family with great influen…
+j	権限	権限	authority, jurisdiction
+j	権首	権首	首謀。
+j	櫩楹	櫩楹	軒。柱。
+j	歩き	歩き	
+j	歩く	歩く	to walk
+j	歩け	歩け	hypothetical and imperati…
+j	歩む	歩む	to walk
+j	歩兵	歩兵	an infantryman, foot sold…
+j	歩卒	歩卒	歩兵。足軽。
+j	歩合	歩合	percentage, expressed in …
+j	歩哨	歩哨	sentry; sentinel; picket
+j	歩子	歩子	a female given name
+j	歩実	歩実	a female given name
+j	歩容	歩容	歩行の際の姿勢、歩幅などの特徴。歩き方。
+j	歩帯	歩帯	棘皮動物の殻で管足が出る帯のような部分。
+j	歩幅	歩幅	pace, stride, the distanc…
+j	歩度	歩度	walking pace
+j	歩廊	歩廊	corridor
+j	歩廡	歩廡	歩廊。
+j	歩数	歩数	number of steps
+j	歩様	歩様	gait
+j	歩武	歩武	steps
+j	歩測	歩測	pacing off, measuring off…
+j	歩総	歩総	A piece in Ko shogi
+j	歩美	歩美	a female given name
+j	歩脚	歩脚	節足動物の胸脚のうち歩行する役目をもつもの。
+j	歩艱	歩艱	歩行が不自由なこと。
+j	歩荷	歩荷	荷物を背負い、山越えをすること。山小屋などに荷揚げ…
+j	歩行	歩行	a walk
+j	歩調	歩調	pace (speed), step
+j	歩趨	歩趨	歩くことと走ること。
+j	歩速	歩速	walking speed, walking pa…
+j	歩道	歩道	walkway, pavement, sidewa…
+j	歩障	歩障	木や竹の枠に布帛を張った持ち運びできる囲い。
+j	歩頭	歩頭	埠頭。
+j	浩一	浩一	a male given name
+j	浩三	浩三	a male given name
+j	浩之	浩之	a male given name
+j	浩也	浩也	a male given name
+j	浩二	浩二	a male given name
+j	浩人	浩人	a male given name
+j	浩仁	浩仁	a male given name
+j	浩代	浩代	a female given name
+j	浩俊	浩俊	a male given name
+j	浩典	浩典	a male given name
+j	浩史	浩史	a male given name
+j	浩司	浩司	a male given name
+j	浩唱	浩唱	大声で歌うこと。
+j	浩商	浩商	豪商。
+j	浩嗣	浩嗣	a male given name
+j	浩基	浩基	a male given name
+j	浩大	浩大	広く大きいこと。また、そのようなさま。
+j	浩子	浩子	a female given name
+j	浩己	浩己	a male given name
+j	浩平	浩平	a male given name
+j	浩幸	浩幸	a male given name
+j	浩康	浩康	a male given name
+j	浩弥	浩弥	a male given name
+j	浩徳	浩徳	a male given name
+j	浩志	浩志	a male given name
+j	浩扶	浩扶	a male given name
+j	浩文	浩文	a male given name
+j	浩明	浩明	a male given name
+j	浩樹	浩樹	a male given name
+j	浩次	浩次	a male given name
+j	浩治	浩治	a male given name
+j	浩滔	浩滔	水が満ち、広大なさま。
+j	浩瀚	浩瀚	書物の冊数・巻数・ページ数などが多いこと。
+j	浩然	浩然	水が豊かでゆったり流れるさま。
+j	浩章	浩章	a male given name
+j	浩笑	浩笑	大いに笑うこと。
+j	浩継	浩継	a male given name
+j	浩美	浩美	a male given name
+j	浩翠	浩翠	水の翠。
+j	浩蕩	浩蕩	広広としたさま。
+j	浩行	浩行	a male given name
+j	浩輔	浩輔	a male given name
+j	浩郎	浩郎	a male given name
+j	浩雅	浩雅	a male given name
+j	温い	温い	lukewarm, tepid
+j	温乎	温乎	穏やかなさま。
+j	温仁	温仁	思いやり。
+j	温低	温低	温帯低気圧の略。
+j	温信	温信	誠実。
+j	温允	温允	a male given name
+j	温冷	温冷	hot and cold
+j	温厚	温厚	mild-mannered, gentle, af…
+j	温和	温和	mild
+j	温子	温子	a female given name
+j	温存	温存	preservation, conservatio…
+j	温官	温官	役得により給与以外の収益がある官職。
+j	温室	温室	a greenhouse (building in…
+j	温尋	温尋	調べること。
+j	温州	温州	Wenzhou (a prefecture-lev…
+j	温帯	温帯	temperate zone
+j	温床	温床	hotbed
+j	温度	温度	temperature (a measure of…
+j	温情	温情	kindness
+j	温感	温感	皮膚で感じられる温度の感覚。特に、温かいという感覚。
+j	温慎	温慎	謹み深いさま。
+j	温故	温故	昔のことをよく調べること。
+j	温暖	温暖	warm
+j	温柔	温柔	loving, gentle, sweet
+j	温気	温気	温かみ。
+j	温水	温水	warm or lukewarm water
+j	温泉	温泉	a hot spring
+j	温浴	温浴	warm bath
+j	温湯	温湯	暖かい湯。
+j	温灸	温灸	円筒形の器にもぐさを入れ、間接的に患部を加熱する灸。
+j	温点	温点	皮膚や粘膜にあり暖かさを温度を感じる感覚点。
+j	温熱	温熱	温かく感じられる熱。
+j	温燻	温燻	hot smoking: smoking food…
+j	温玉	温玉	「温泉玉子」の略。
+j	温石	温石	あらかじめ温めておいて、布などにくるみ、暖を取るた…
+j	温突	温突	ondol (Korean underfloor …
+j	温良	温良	性格などが穏やかで素直なさま。
+j	温色	温色	温かみを感じさせる色。暖色。
+j	温薫	温薫	温燻の別表記。
+j	温藉	温藉	心が温かく寛大で優しいこと。また、そのようなさま。
+j	温覚	温覚	温かさを感じる感覚。
+j	温言	温言	優しく温かみのある言葉。
+j	温調	温調	写真の画像で色調が褐色を帯び温かみを与えること。
+j	温雅	温雅	graceful; affable
+j	温順	温順	gentle; meek; obedient
+j	温風	温風	陰暦の晩夏に吹く、あたたかく湿った風。
+j	煩い	煩い	
+j	煩う	煩う	to worry about
+j	煩冗	煩冗	煩雑で長ったらしいこと。また、そのようなさま。
+j	煩劇	煩劇	煩雑で過酷なこと。また、そのようなさま。
+j	煩務	煩務	面倒で忙しい仕事。
+j	煩多	煩多	煩雑なこと。また、そのようなさま。
+j	煩忙	煩忙	用事が多く忙しいこと。
+j	煩悩	煩悩	klesha
+j	煩悶	煩悶	worry; agony; anguish
+j	煩慮	煩慮	色々と心配すること。
+j	煩懊	煩懊	悶え、苦しむこと。
+j	煩擾	煩擾	煩雑なほど乱れること。
+j	煩法	煩法	苛法。
+j	煩淫	煩淫	煩瑣な俗楽。
+j	煩瑣	煩瑣	overloaded with details
+j	煩簡	煩簡	「繁簡」の異表記。
+j	煩語	煩語	煩わしい言葉。
+j	煩論	煩論	煩わしい議論や意見。
+j	煩雑	煩雑	complex, intricate
+j	物上	物上	：物に関すること。
+j	物事	物事	things, everything
+j	物件	物件	an object, an article
+j	物体	物体	physical object; object; …
+j	物価	物価	prices of goods in genera…
+j	物化	物化	人間が亡くなること。
+j	物品	物品	article, item
+j	物心	物心	matter and mind
+j	物情	物情	物の有り様や性質。
+j	物我	物我	外物と自分。客観と主観。
+j	物損	物損	物質的な損害。物件損害。
+j	物故	物故	death
+j	物権	物権	（大陸法系の民法学）財産権の一種で、物を直接支配す…
+j	物欲	物欲	desire for material wealth
+j	物流	物流	logistics, physical distr…
+j	物狂	物狂	正気を失っているさま。
+j	物理	物理	physics, the physical asp…
+j	物産	物産	ある土地から産出される物品。
+j	物的	物的	material, physical
+j	物税	物税	租税の分類分類方法の一つ。その者の人的事情を考慮せ…
+j	物納	物納	金銭に代えて動産や不動産で租税を納付すること。相続…
+j	物置	物置	storeroom; space used for…
+j	物腰	物腰	demeanor, movements, mann…
+j	物臭	物臭	lazy person
+j	物色	物色	seeking out
+j	物見	物見	sightseeing
+j	物証	物証	material evidence
+j	物語	物語	a tale; a story
+j	物議	物議	public buzz and discussio…
+j	物販	物販	商品など物を販売すること。「物品販売」の略。
+j	物資	物資	goods
+j	物質	物質	material, substance
+j	物量	物量	物資などの分量。またその分量が大きいこと。
+j	物集	物集	a surname
+j	物音	物音	some sound, the sound of …
+j	物騒	物騒	insecure, turbulent
+j	狩り	狩り	
+j	狩る	狩る	to hunt
+j	狩人	狩人	a hunter (person who hunt…
+j	狩漁	狩漁	狩猟と漁撈。
+j	狩犬	狩犬	hunting dog; hound
+j	狩猟	狩猟	hunting
+j	狩獵	狩獵	狩猟の旧字体表記。
+j	狩衣	狩衣	a round-collared open-sid…
+j	狩野	狩野	a surname
+j	猩猩	猩猩	オランウータン。
+j	玩具	玩具	a toy, plaything
+j	玩味	玩味	食物をよく味わうこと。
+j	玩好	玩好	好みのもの。珍重するもの。
+j	玩弄	玩弄	もてあそぶこと。
+j	玩物	玩物	物をもてあそぶこと。
+j	玩索	玩索	よく研究し真理を探索すること。
+j	玩耽	玩耽	熱中すること。
+j	玩菓	玩菓	おまけ（付録）をつけた菓子。玩具菓子。食品玩具。食…
+j	珩佩	珩佩	腰に着用する佩玉。
+j	瑩徹	瑩徹	明るく透き通っていること。澄み渡っていること。
+j	瑩払	瑩払	瑩磨。
+j	瑩明	瑩明	瑩徹。
+j	瑩朗	瑩朗	明らかなこと。そのさま。
+j	瑩沢	瑩沢	瑩潤。
+j	瑩浄	瑩浄	瑩潔。
+j	瑩潔	瑩潔	艶があり清らかなこと。そのさま。
+j	瑩潤	瑩潤	艶やかで潤っているさま。
+j	瑩然	瑩然	瑩潔。
+j	瑩琇	瑩琇	美しい石。
+j	瑩瑩	瑩瑩	てらてら。
+j	瑩白	瑩白	清らかなこと。そのさま。
+j	瑩磨	瑩磨	磨くこと。磨瑩。瑩払。
+j	瑩貝	瑩貝	紙や絹を磨き、つやを出すための貝。
+j	瑩質	瑩質	美質。
+j	瑩鏡	瑩鏡	明鏡。
+j	瑩魄	瑩魄	月。
+j	痩果	痩果	achene
+j	痩硬	痩硬	細くて強いさま。
+j	痩身	痩身	weight loss done for cosm…
+j	痩躯	痩躯	痩せている体。痩身。
+j	癩人	癩人	leper
+j	癩疾	癩疾	leprosy
+j	癩病	癩病	leprosy
+j	癩癬	癩癬	疥癬。皮癬。
+j	癩者	癩者	leper
+j	癩菌	癩菌	Mycobacterium leprae, the…
+j	盩厔	盩厔	
+j	眩い	眩い	glaring, dazzling
+j	眩む	眩む	to be dazzled by, to be d…
+j	眩乱	眩乱	目が眩むこと。
+j	眩性	眩性	（仏教）妄想・無明・煩悩・欲望などに眩み、本性（本…
+j	眩惑	眩惑	目が眩んで正常な判断を失うこと。また、そのようにさ…
+j	眩暈	眩暈	Japanese title of "Auto-d…
+j	眩然	眩然	眩いこと。そのさま。
+j	眩燿	眩燿	眩耀の異表記。
+j	眩目	眩目	目が眩むこと。目を眩ますこと。
+j	眩瞀	眩瞀	目が霞むこと。
+j	眩耀	眩耀	sparkling dazzlingly
+j	眩転	眩転	目が眩むこと。眩暈。
+j	眩麗	眩麗	目が眩むほど美しいこと。そのさま。
+j	矩墨	矩墨	曲尺と墨縄。矩縄。
+j	矩尺	矩尺	直角に曲がった主に金属製の物差し。
+j	矩形	矩形	rectangle
+j	矩歩	矩歩	規則正しい歩行。
+j	矩縄	矩縄	曲尺と墨縄。矩墨。
+j	矩鏡	矩鏡	測量で、ある直線に対して直角の方向を定めるのに用い…
+j	碩学	碩学	学問が広く、深いこと。また、そのような人。博学。
+j	碩彦	碩彦	名士。
+j	碩画	碩画	大計。
+j	碩言	碩言	出任せ。大言。
+j	秩序	秩序	order (conformity with la…
+j	秩父	秩父	Chichibu (a city in Saita…
+j	秩禄	秩禄	官位や身分などによって支給される俸禄のこと。
+j	篩う	篩う	
+j	篩管	篩管	植物において葉で作られた養分を各部に運ぶための管状…
+j	篩骨	篩骨	an ethmoid bone
+j	緩い	緩い	loose, loose-fitting, ful…
+j	緩む	緩む	to slacken, to become loo…
+j	緩和	緩和	relaxation, lessening in …
+j	緩徐	緩徐	緩やかで動きが穏やかなこと。
+j	緩徴	緩徴	税を猶予すること。
+j	緩心	緩心	優柔。
+j	緩急	緩急	looseness and tightness
+j	緩慢	緩慢	sluggish, slow, slack
+j	緩手	緩手	（ゲーム）効果の少ない戦術や行為のこと。特に囲碁・…
+j	緩歩	緩歩	leisurely walk
+j	緩緩	緩緩	ゆっくりしたさま。
+j	緩行	緩行	going slowly
+j	緩衝	緩衝	buffering; cushioning
+j	緩解	緩解	病気が完治してはいないが、症状が一時的または継続的…
+j	緩速	緩速	緩やかな速度。
+j	繩索	繩索	
+j	義一	義一	a male given name
+j	義三	義三	a male given name
+j	義之	義之	a male given name
+j	義人	義人	righteous person; pious p…
+j	義侠	義侠	強い者を挫き、弱い者を助けようという気持ち。任侠。
+j	義信	義信	a male given name
+j	義倉	義倉	凶作に備え、食料を蓄えておく倉庫。
+j	義僕	義僕	忠実な下僕。忠僕。
+j	義兄	義兄	brother-in-law (spouse's …
+j	義兵	義兵	正義のために起こす兵。
+j	義典	義典	a male given name
+j	義分	義分	人道のために尽くすこと。
+j	義利	義利	a male given name
+j	義則	義則	a male given name
+j	義勇	義勇	courage and loyalty
+j	義務	義務	duty, obligation
+j	義勝	義勝	a male given name
+j	義勢	義勢	「擬勢」の別表記。
+j	義卒	義卒	正義のために起こす兵。義軍。
+j	義原	義原	a surname
+j	義和	義和	Yihe era of Chinese histo…
+j	義哉	義哉	a male given name
+j	義塚	義塚	無縁の故人を祀った塚。
+j	義塾	義塾	private school
+j	義士	義士	righteous person
+j	義夫	義夫	a male given name
+j	義妹	義妹	sister-in-law (spouse's y…
+j	義姉	義姉	sister-in-law (spouse's e…
+j	義婦	義婦	節婦。
+j	義子	義子	義理の子。
+j	義学	義学	中国で有志の義援金により設立され、費用がかからない…
+j	義家	義家	a male given name
+j	義展	義展	a male given name
+j	義岳	義岳	a male given name
+j	義崇	義崇	a male given name
+j	義州	義州	
+j	義巳	義巳	a male given name
+j	義広	義広	a male given name
+j	義廩	義廩	義倉。
+j	義弘	義弘	a male given name
+j	義弟	義弟	brother-in-law (spouse's …
+j	義心	義心	正義を通そうとする心。
+j	義意	義意	意義。
+j	義憤	義憤	righteous indignation
+j	義戦	義戦	正義のために戦う戦争。
+j	義手	義手	artificial arm
+j	義指	義指	指を失った人が、失った指の代わりに装着する人工の指。
+j	義捐	義捐	（災害復興のためとは限らず）慈善または公益のために…
+j	義故	義故	以前恩義をかけたゆかりのある者。
+j	義文	義文	a male given name
+j	義断	義断	縁を切ること。義絶。
+j	義旗	義旗	正義のための旗印。
+j	義旧	義旧	むかしの縁故の人。
+j	義明	義明	a male given name
+j	義晃	義晃	a male given name
+j	義朗	義朗	a male given name
+j	義枝	義枝	接ぎ木で台木に接ぐ方の木。接ぎ穂。
+j	義樹	義樹	a male given name
+j	義歯	義歯	dentures; false teeth
+j	義殿	義殿	寺院。
+j	義母	義母	a mother by moral princip…
+j	義気	義気	正義を守ろうとする心情。
+j	義治	義治	a male given name
+j	義烈	義烈	righteousness
+j	義煎	義煎	a surname
+j	義爪	義爪	ギターなど弦楽器の弦を弾くために付ける人工の爪。ピ…
+j	義父	義父	a father by moral princip…
+j	義理	義理	duty, obligation, burden …
+j	義田	義田	中国で一族の中で困窮者の救済や教育、祭祀などのため…
+j	義男	義男	a male given name
+j	義疏	義疏	経典の意義や内容を解説した書物。
+j	義眼	義眼	人工の眼。入れ目。
+j	義稙	義稙	a male given name
+j	義符	義符	漢字の形声文字で、意味を表す部分。意符。
+j	義節	義節	節義。
+j	義紀	義紀	a male given name
+j	義絶	義絶	親子、兄弟など親族の間で縁を断ち切ること。
+j	義美	義美	a male given name
+j	義義	義義	Tachysurus nudiceps, a sp…
+j	義耳	義耳	人工の耳。
+j	義肢	義肢	artificial limb; prosthet…
+j	義胤	義胤	a male given name
+j	義脚	義脚	足を失った人が、失った足の代わりに装着する人工の足。
+j	義臣	義臣	忠義の心の厚い家臣。
+j	義英	義英	a male given name
+j	義荘	義荘	義田。
+j	義血	義血	道理を重んじ、人に尽くそうという精神。
+j	義行	義行	a male given name
+j	義親	義親	a parent-in-law
+j	義解	義解	explanation (of meaning);…
+j	義訓	義訓	false reading (a kanji co…
+j	義説	義説	注解。
+j	義賊	義賊	a gentleman thief
+j	義贈	義贈	賄賂。
+j	義趣	義趣	物事の根本となるような意味。
+j	義足	義足	artificial leg
+j	義軍	義軍	正義のために行う戦争。また、その軍勢。
+j	義輝	義輝	a male given name
+j	義通	義通	a male given name
+j	義達	義達	a surname
+j	義郎	義郎	a male given name
+j	義金	義金	義捐金（義援金）に同じ。
+j	義門	義門	意味。
+j	義隆	義隆	a male given name
+j	義雄	義雄	a male given name
+j	義鼻	義鼻	人工の鼻。
+j	翩翩	翩翩	fluttering; frivolous
+j	翩翻	翩翻	（旗などが）翻ること。また、そのようなさま。
+j	肩息	肩息	吐息。
+j	肩承	肩承	担当すること。
+j	肩摩	肩摩	混雑して肩と肩とが擦れ合うこと。
+j	肩牆	肩牆	野戦で味方の砲手、砲車を掩護するために構築される土…
+j	肩甲	肩甲	「肩甲骨」の略。肩の骨。
+j	肩痛	肩痛	shoulder pain
+j	肩章	肩章	epaulet (shoulder decorat…
+j	肩肉	肩肉	動物の肩の部分にある肉。
+j	肩肘	肩肘	shoulder and arm
+j	肩身	肩身	shoulders
+j	肩車	肩車	giving someone a ride on …
+j	肩輦	肩輦	手車。
+j	肩迫	肩迫	親密にすること。
+j	肩部	肩部	肩の部分。
+j	肩随	肩随	肩を並べすぐ後に従うこと。
+j	肩骨	肩骨	肩甲骨。
+j	脩戟	脩戟	長さのある矛。
+j	脩文	脩文	学問、技芸を修得すること。
+j	脩斗	脩斗	a male given name
+j	脩然	脩然	整うさま。
+j	脩短	脩短	長いことと短いこと。長短。
+j	脩竹	脩竹	修竹。
+j	脩繊	脩繊	細く、長いさま。
+j	舩岳	舩岳	a surname
+j	舩木	舩木	a surname
+j	菩提	菩提	supreme enlightenment or …
+j	菩薩	菩薩	a title granted by the im…
+j	萩原	萩原	a surname
+j	萩野	萩野	a surname
+j	蕩兀	蕩兀	揺れ動くこと。
+j	蕩児	蕩児	放蕩にふけるこども。蕩子。
+j	蕩子	蕩子	放蕩にふけるこども。蕩児。
+j	蕩尽	蕩尽	放蕩などにより一家の財産を使い果たすこと。
+j	蕩心	蕩心	放蕩の心。
+j	蕩志	蕩志	奔放な志。
+j	蕩思	蕩思	蕩心。
+j	蕩掉	蕩掉	揺り動かすこと。
+j	蕩揺	蕩揺	揺り動かすこと。揺れ動くこと。
+j	蕩激	蕩激	激揚すること。
+j	蕩蕩	蕩蕩	spacious, grandiose
+j	蕩駘	蕩駘	のびのびすること。
+j	薩人	薩人	native or inhabitant of S…
+j	薩埵	薩埵	sentient beings, all livi…
+j	薩州	薩州	薩摩国^(（さつまのくに）)の別称。
+j	薩摩	薩摩	Satsuma (a district of Ka…
+j	薩長	薩長	薩摩藩と長州藩。
+j	薩隅	薩隅	薩摩国と大隅国。現在の鹿児島県に相当。
+j	藩中	藩中	藩の領内。
+j	藩主	藩主	feudal lord
+j	藩儒	藩儒	藩（藩主）に仕える儒者。
+j	藩兵	藩兵	江戸時代、藩が所有していた軍の兵士。
+j	藩医	藩医	a doctor who served the d…
+j	藩士	藩士	the vassal of a daimyo in…
+j	藩学	藩学	江戸時代、それぞれの藩がその子弟の教育のために設置…
+j	藩屏	藩屏	囲い。まがき。
+j	藩屛	藩屛	守り。守備。
+j	藩属	藩属	外藩。
+j	藩庁	藩庁	明治維新後、藩知事が事務を執行した役所。
+j	藩札	藩札	江戸時代、それぞれの藩が発行し、その領内だけに通用…
+j	藩校	藩校	江戸時代、藩がその藩の子弟を教育するために設置した…
+j	藩治	藩治	藩主が自分の領内で行う治世。
+j	藩法	藩法	江戸時代、大名が自領内に出した法令。
+j	藩王	藩王	rajah
+j	藩祖	藩祖	藩の初代領主。
+j	藩窯	藩窯	江戸時代、藩が経営した窯。
+j	藩籍	藩籍	藩が領する土地と民。
+j	藩翰	藩翰	囲いと柱。まがき。
+j	藩蔽	藩蔽	守りのための覆い。
+j	藩論	藩論	藩内の人達の議論や意見。
+j	藩邸	藩邸	江戸時代、藩（藩主）が所有した邸宅。特に江戸に置か…
+j	藩閥	藩閥	明治政府で有力な藩出身者によって作られた派閥。
+j	藩領	藩領	藩の所領。
+j	蚩尤	蚩尤	Chiyou (tribal leader of …
+j	蚩尾	蚩尾	「鴟尾」の異表記。
+j	蛩唱	蛩唱	こおろぎの声。
+j	蛩響	蛩響	こおろぎの鳴き声。
+j	覩当	覩当	収拾すること。
+j	詩乃	詩乃	a female given name
+j	詩人	詩人	poet
+j	詩仙	詩仙	great poet
+j	詩会	詩会	詩を作ったり鑑賞したりする集まり。
+j	詩伯	詩伯	詩作の巧みな人。詩作の大家。
+j	詩体	詩体	詩の形式。
+j	詩作	詩作	composition of poetry
+j	詩劇	詩劇	詩の形式でつくられた劇。
+j	詩友	詩友	詩を作る上での友人、なかま。
+j	詩句	詩句	詩の文句。
+j	詩史	詩史	「詩」の歴史。
+j	詩名	詩名	詩人としての名声、名誉。
+j	詩吟	詩吟	漢詩を読み下したものに節をつけて吟詠すること。
+j	詩味	詩味	詩の味わい。
+j	詩品	詩品	詩の品格。
+j	詩型	詩型	詩の形式。
+j	詩壇	詩壇	詩人のなかま。詩人の社会。
+j	詩学	詩学	詩の本質や作り方を研究する学問。
+j	詩客	詩客	詩人。
+j	詩家	詩家	詩をつくる人。詩人。
+j	詩巻	詩巻	詩を記した巻物。詩集。
+j	詩序	詩序	詩稿の序文。
+j	詩形	詩形	詩の形式。
+j	詩思	詩思	詩作したいという気持ち。
+j	詩性	詩性	詩情。ポエジー。
+j	詩情	詩情	詩的なおもむき。
+j	詩才	詩才	詩作の才能。
+j	詩抄	詩抄	詩を抜き書きして編集した書物。
+j	詩文	詩文	poetry and prose
+j	詩料	詩料	詩歌に詠じるための素材、題材。
+j	詩曲	詩曲	詩と曲。歌謡。
+j	詩書	詩書	詩を集めた書物。詩集。
+j	詩林	詩林	詩を集めた書籍。
+j	詩格	詩格	詩の法則。
+j	詩業	詩業	詩作上の業績。
+j	詩歌	詩歌	Japanese and Chinese poet…
+j	詩法	詩法	詩作、作詩する方法。
+j	詩牌	詩牌	詩を書き記した札。
+j	詩界	詩界	詩文の世界。
+j	詩病	詩病	漢詩を詩作する際に避けるべき事項。
+j	詩的	詩的	詩に表現されるような趣きがあるさま。
+j	詩盟	詩盟	詩人としての交友、仲間。
+j	詩眼	詩眼	詩や文学作品に対する眼識。
+j	詩碑	詩碑	詩を刻んだ石碑。
+j	詩稿	詩稿	draft of a poem
+j	詩章	詩章	詩歌や文章。
+j	詩篇	詩篇	book of poetry; anthology
+j	詩経	詩経	the Classic of Poetry
+j	詩編	詩編	詩を集めた書。
+j	詩織	詩織	a female given name
+j	詩美	詩美	詩の美しさ。また、詩のような美しさ。
+j	詩聖	詩聖	a surpassing poet, a sage…
+j	詩興	詩興	詩情。
+j	詩術	詩術	詩を作る方法。
+j	詩話	詩話	詩や詩人に関する逸話。
+j	詩語	詩語	stock phrase in poetry
+j	詩調	詩調	詩の調子。
+j	詩論	詩論	詩に関する理論や評論。
+j	詩豪	詩豪	非常に優れた詩人。
+j	詩賦	詩賦	中国における韻文。詩(詩歌)と賦(辞賦)。
+j	詩道	詩道	詩をつくる上での道。
+j	詩鈔	詩鈔	「詩抄」の異表記。
+j	詩集	詩集	collection of poems, poet…
+j	詩音	詩音	a female given name
+j	詩題	詩題	topic or theme of a poem
+j	詩風	詩風	style of poetry
+j	詩魂	詩魂	詩を作ろうという気持ちや情熱。
+j	詩魔	詩魔	病魔のように詩情を刺激して詩作にふけさせる不思議な…
+j	販促	販促	販売促進の略。
+j	販売	販売	sale, selling
+j	販路	販路	sales channel / outlet
+j	輩出	輩出	turning out scientists, g…
+j	輩行	輩行	兄弟の間で出生などの順序。また、それを表す呼び方。
+j	適う	適う	to be suited, to meet wit…
+j	適す	適す	
+j	適中	適中	うまくあたること。的中。
+j	適任	適任	suited, competent, qualif…
+j	適体	適体	からだに合うこと。
+j	適例	適例	apt example; case in point
+j	適切	適切	appropriate, adequate, pr…
+j	適合	適合	conformity, adaptation, s…
+j	適否	適否	適するか否か。適するか適しないか。
+j	適地	適地	ある目的や耕作に適した土地。
+j	適宜	適宜	suitable, appropriate
+j	適度	適度	moderate; modest ; approp…
+j	適当	適当	suitable; appropriate; fit
+j	適役	適役	その役に適しているもの。
+j	適従	適従	よりどころとして頼ること。
+j	適応	適応	adaptation, the quality o…
+j	適性	適性	suitable, fit
+j	適意	適意	気に入ること。
+j	適所	適所	suitable place; suitable …
+j	適才	適才	suitable ability; suitabl…
+j	適時	適時	appropriate time
+j	適期	適期	適当な時期。
+j	適材	適材	person who has a suitable…
+j	適格	適格	qualified; suitable for s…
+j	適正	適正	reasonable, proper
+j	適法	適法	法規に適していること。
+j	適温	適温	appropriate temperature
+j	適用	適用	application of something
+j	適確	適確	的に正確にあたるように、確かなこと。
+j	適者	適者	the fittest
+j	適薬	適薬	病気などに適合した薬剤。
+j	適訳	適訳	ある外国語や古典に対する適切な訳。
+j	適量	適量	appropriate amount; appro…
+j	適間	適間	by chance, incidentally
+j	適齢	適齢	age that applies to certa…
+j	酩酊	酩酊	extreme inebriation, drun…
+j	鈩中	鈩中	炉や囲炉裏、火鉢の中。
+j	鋩子	鋩子	刀剣の刃の切っ先。帽子。
+j	閩南	閩南	southern Fujian (a region…
+j	閩語	閩語	福州語。
+j	隩区	隩区	奥地。
+j	革令	革令	one of the sankaku in tra…
+j	革偏	革偏	漢字の部首「⾰」が偏である場合の呼称。
+j	革命	革命	a revolution; a coup d'ét…
+j	革帯	革帯	革でつくられた朝服用の帯。漆塗り。
+j	革故	革故	旧故を改めること。
+j	革新	革新	innovation
+j	革正	革正	改め、正しくすること。改正。
+j	革紐	革紐	
+j	革職	革職	地位を下げること。免職すること。
+j	革質	革質	植物の表皮や葉など革のように固い性質。
+j	革運	革運	one of the sankaku in tra…
+j	革部	革部	部首「⾰」で分類した漢字の一群。
+j	革針	革針	a needle for sewing leath…
+j	革飾	革飾	革で装飾すること。
+j	驩館	驩館	妾宅。
+j	鳩合	鳩合	一つに集めてまとめること。
+j	鳩尾	鳩尾	the pit of the stomach, s…
+j	鳩居	鳩居	女性（妻）が自分の住居をつくれないため、男性（夫）…
+j	鳩山	鳩山	a surname
+j	鳩座	鳩座	
+j	鳩杖	鳩杖	握りの部分に鳩の姿を付けた高齢者用の杖。鳩の杖。
+j	鳩派	鳩派	
+j	鳩肉	鳩肉	鳩の肉。
+j	鳩胸	鳩胸	pigeon chest; pectus cari…
+j	鳩舎	鳩舎	dovecote, pigeon house
+j	鳩麦	鳩麦	a variety of Job's tears …
+j	麩師	麩師	麩をつくる職人。
+j	麩皮	麩皮	ふすま。
+j	麩素	麩素	グルテン。
+k	게실	憩室	
+k	견장	肩牆	epaulette (shoulder decor…
+k	견장	肩章	epaulette (shoulder decor…
+k	고두	叩頭	a kowtow
+k	고비	叩扉	crisis, critical moment
+k	구형	矩形	형사 재판에서 검사가 피고인에 대한 형벌을 판…
+k	권능	権能	
+k	권력	権力	power; authority
+k	권리	権利	right; privilege
+k	권세	権勢	power; authority
+k	권위	権威	power and prestige; autho…
+k	권한	権限	authority, jurisdiction
+k	나병	癩病	leprosy
+k	냥반	兩班	husband, man, mister
+k	량반	兩班	North Korea standard spel…
+k	리식	利息	이식의 북한말과 연변말.
+k	리용	利用	문화어에서 ‘이용’을 달리 이르는 말.
+k	리원	利原	Riwon, a town (읍) in Sout…
+k	리윤	利潤	이윤의 북한말과 연변말.
+k	리익	利益	'이익'의 북한말과 연변말.
+k	리자	利子	'이자'의 북한말과 연변말.
+k	리점	利点	‘이점’을 달리 이르는 말.
+k	리점	利點	‘이점’을 달리 이르는 말.
+k	리타	利他	
+k	마니	摩尼	person
+k	마찰	摩擦	friction
+k	마하	摩訶	Mach
+k	만년	晩年	old age
+k	만년	晩年	old age
+k	만찬	晩餐	
+k	만추	晩秋	late autumn, the end of a…
+k	만춘	晩春	late spring
+k	물가	物価	water's edge; bank, shore
+k	물가	物價	water's edge; bank, shore
+k	물건	物件	item, article, thing, stu…
+k	물류	物流	logistics, physical distr…
+k	물리	物理	physics
+k	물자	物資	goods, supplies, commodit…
+k	물증	物証	material evidence
+k	물증	物證	material evidence
+k	물질	物質	a substance; a material
+k	물체	物体	object (physical)
+k	물체	物體	object (physical)
+k	물품	物品	article, commodity
+k	번뇌	煩悩	klesha
+k	번뇌	煩惱	klesha
+k	보도	歩道	news coverage; journalist…
+k	보리	菩提	barley
+k	보병	歩兵	infantryman
+k	보살	菩薩	bodhisattva (in Buddhism,…
+k	보수	歩数	reward
+k	보조	歩調	help, aid, assistance
+k	보행	歩行	walking
+k	복구	復旧	recovery; restoration
+k	복구	復舊	recovery; restoration
+k	복귀	復帰	return
+k	복귀	復歸	return
+k	복수	復讐	multipleness, manyness
+k	복습	復習	revision, review
+k	복호	復号	the decoding or decryptio…
+k	복호	復號	the decoding or decryptio…
+k	부활	復活	revival; resurrection; re…
+k	부흥	復興	restoration; revival
+k	붕괴	崩壊	collapse
+k	붕괴	崩壞	collapse
+k	석사	碩士	master's degree
+k	수과	痩果	
+k	수렵	狩猟	야생 동물을 잡는 일.
+k	수렵	狩獵	야생 동물을 잡는 일.
+k	시가	詩歌	poem
+k	시경	詩経	the Classic of Poetry (th…
+k	시경	詩經	the Classic of Poetry (th…
+k	시인	詩人	poet
+k	시작	詩作	start, beginning
+k	시적	詩的	poetic
+k	시집	詩集	collection of poems
+k	시편	詩篇	the Book of Psalms, the P…
+k	심리	審理	psychology, mentality
+k	심문	審問	interrogation
+k	심사	審査	screening, evaluation
+k	심의	審議	discussion
+k	심판	審判	judgement
+k	양국	兩國	two countries; both count…
+k	양면	兩面	two sides; both sides
+k	양반	兩班	civil nobility and milita…
+k	양성	兩性	positivity
+k	양자	兩者	adopted son
+k	엄습	掩襲	sudden attack; surprise a…
+k	엄폐	掩蔽	cloaking; concealment; st…
+k	엄호	掩護	cover, protection
+k	염기	塩基	base (chemistry)
+k	염매	塩梅	sale
+k	염산	塩酸	(화학) 염화수소의 수용액.
+k	염소	塩素	goat (horned domestic ani…
+k	염수	塩水	brine; salt solution
+k	염장	塩蔵	preservation in salt
+k	염호	塩湖	salt lake, saline lake
+k	염화	塩化	raging fire, blaze, infer…
+k	염화	塩貨	raging fire, blaze, infer…
+k	온대	温帯	temperate zone
+k	온도	温度	temperature (a measure of…
+k	온수	温水	warm water; hot water
+k	온실	温室	greenhouse
+k	온점	温点	dot, full stop
+k	온주	温州	Wenzhou (a prefecture-lev…
+k	온천	温泉	hot spring, thermal sprin…
+k	온천	温泉	hot spring, thermal sprin…
+k	완구	玩具	toy (something to play wi…
+k	완구	緩球	toy (something to play wi…
+k	완롱	玩弄	toying, trifling
+k	완행	緩行	going slowly
+k	완화	緩和	
+k	은사	恩赦	
+k	은인	恩人	benefactor
+k	은혜	恩恵	grace, benefit, blessing
+k	은혜	恩惠	grace, benefit, blessing
+k	은화	恩化	silver coin
+k	의거	義挙	basis; proof; reason
+k	의거	義擧	basis; proof; reason
+k	의리	義理	loyalty; fidelity
+k	의모	義母	stepmother, foster mother…
+k	의무	義務	duty, obligation
+k	의부	義父	stepfather, foster father…
+k	의분	義憤	righteous indignation
+k	의사	義士	doctor
+k	의용	義勇	loyalty
+k	의지	義肢	determination to accompli…
+k	의치	義歯	
+k	의치	義齒	
+k	이득	利得	profit; gain
+k	이문	利文	profit margin. the amount…
+k	이식	利息	replanting
+k	이용	利用	use; utilization
+k	이원	利原	Riwon, a town (읍) in Sout…
+k	이윤	利潤	profit
+k	이익	利益	profit
+k	이자	利子	interest
+k	이점	利点	advantage, merit, benefit
+k	이점	利點	advantage, merit, benefit
+k	이조	利条	interest portion; nominal…
+k	이조	利條	interest portion; nominal…
+k	이타	利他	
+k	잉여	剩餘	surplus, overplus, remain…
+k	적격	適格	eligibility, qualificatio…
+k	적당	適当	suitability, appropriaten…
+k	적당	適當	suitability, appropriaten…
+k	적량	適量	suitable or appropriate a…
+k	적법	適法	legality
+k	적성	適性	
+k	적용	適用	application
+k	적응	適応	adaptation, adjustment
+k	적응	適應	adaptation, adjustment
+k	적자	適者	deficit, in the red
+k	적재	適材	loading, embarking (on a …
+k	적지	適地	land made barren by sever…
+k	적합	適合	conformity, adaptation, s…
+k	조교	助敎	assistant teacher, assist…
+k	조기	早期	early; early period
+k	조기	早起	early; early period
+k	조루	早漏	premature ejaculation
+k	조반	早飯	breakfast
+k	조사	助詞	investigation; examination
+k	조사	助辞	investigation; examination
+k	조사	助辭	investigation; examination
+k	조사	早死	investigation; examination
+k	조수	助手	assistant
+k	조언	助言	advice
+k	조장	助長	promotion, encouragement …
+k	조제	助剤	compounding
+k	조제	助劑	compounding
+k	조종	早種	flying, piloting
+k	조춘	早春	early spring
+k	질서	秩序	good order; public order;…
+k	채도	彩度	saturation of color; colo…
+k	채층	彩層	
+k	천간	天干	the ten heavenly stems
+k	천구	天球	celestial sphere
+k	천국	天国	heaven, paradise
+k	천국	天國	heaven, paradise
+k	천국	天菊	heaven, paradise
+k	천기	天基	weather
+k	천기	天旗	weather
+k	천기	天機	weather
+k	천기	天気	weather
+k	천기	天氣	weather
+k	천기	天璣	weather
+k	천기	天紀	weather
+k	천단	天壇	Temple of Heaven (a relig…
+k	천당	天堂	heaven; paradise
+k	천도	天道	laws of nature; laws of h…
+k	천마	天馬	Pegasus; celestial horse
+k	천마	天魔	Pegasus; celestial horse
+k	천막	天幕	나무나 금속, 동물의 뼈로 만든 뼈대 위에 천…
+k	천명	天命	explanation, clarificatio…
+k	천명	天明	explanation, clarificatio…
+k	천목	天目	tenmoku
+k	천벌	天罰	divine punishment
+k	천부	天父	innateness, a natural gif…
+k	천부	天賦	innateness, a natural gif…
+k	천분	天分	natural gift, talent
+k	천사	天使	angel
+k	천사	天師	angel
+k	천색	天色	
+k	천성	天性	by nature
+k	천안	天安	Cheonan (a city in South …
+k	천안	天眼	Cheonan (a city in South …
+k	천연	天然	naturality, naturalness, …
+k	천인	天人	sky and human
+k	천자	天子	Son of Heaven; emperor
+k	천장	天障	ceiling
+k	천재	天才	genius
+k	천저	天底	nadir
+k	천적	天敵	predator; natural enemy (…
+k	천정	天井	ceiling
+k	천정	天頂	ceiling
+k	천주	天主	the Lord of Heaven; God
+k	천지	天地	heaven and earth
+k	천지	天旨	heaven and earth
+k	천지	天池	heaven and earth
+k	천진	天津	innocence; being naïve
+k	천진	天眞	innocence; being naïve
+k	천진	天真	innocence; being naïve
+k	천체	天体	celestial body
+k	천체	天體	celestial body
+k	천치	天痴	fool, idiot
+k	천치	天癡	fool, idiot
+k	천칭	天秤	scales (measuring device)
+k	천하	天下	the whole world, the eart…
+k	천하	天河	the whole world, the eart…
+k	천황	天皇	the Emperor of Japan, mik…
+k	청주	天安	rice wine
+k	치우	蚩尤	Chiyou (tribal leader of …
+k	탕자	蕩子	prodigal, debauchee, libe…
+k	판매	販売	selling; sale
+k	판매	販賣	selling; sale
+k	판촉	販促	(sales) promotion
+k	혁명	革命	revolution
+k	혁신	革新	innovation; reform
+k	현혹	眩惑	beguilement; dazzlement
+j	兩唇音	兩唇音	
+j	利き手	利き手	dominant hand
+j	利き目	利き目	dominant eye
+j	利き腕	利き腕	one's dominant arm
+j	利する	利する	（「～を利する」または「～に利する」の形で）～に役…
+j	利三郎	利三郎	a male given name
+j	利上げ	利上げ	利率をあげること。
+j	利下げ	利下げ	interest rate cut
+j	利他的	利他的	
+j	利便性	利便性	便利であること。また、その度合。
+j	利口な	利口な	
+j	利回り	利回り	収益や利息の、元本に対する割合のこと。イールド。
+j	利子率	利子率	元金に対する利息の割合。
+j	利実子	利実子	a female given name
+j	利尿薬	利尿薬	
+j	利己的	利己的	selfish; egoistic
+j	利希也	利希也	a male given name
+j	利根川	利根川	a surname
+j	利活用	利活用	利用や活用。
+j	利潤率	利潤率	rate of profit; profit ma…
+j	利用法	利用法	ある物事について利用する方法。
+j	利用者	利用者	user
+j	利胆薬	利胆薬	胆汁の分泌を促す薬。
+j	利食い	利食い	相場の変動で、利益勘定であるとき、転売や買い戻しに…
+j	助かる	助かる	to escape from danger or …
+j	助けて	助けて	Help!
+j	助ける	助ける	to help; to assist
+j	助け平	助け平	lecherous, lewd
+j	助動詞	助動詞	an auxiliary verb
+j	助太刀	助太刀	helping; assisting
+j	助宗鱈	助宗鱈	Alaska pollock
+j	助惣鱈	助惣鱈	
+j	助成金	助成金	subsidy; grant
+j	助手席	助手席	passenger seat
+j	助教授	助教授	assistant professor (defu…
+j	助教諭	助教諭	小学校、中学校、高等学校で教諭を補助する職。
+j	助数詞	助数詞	counter word, a Japanese …
+j	助燃剤	助燃剤	combustion / burning aid
+j	助産婦	助産婦	midwife
+j	助産学	助産学	助産について研究する学問。
+j	助産師	助産師	midwife
+j	助産所	助産所	助産師が助産を行う施設。
+j	助監督	助監督	assistant director
+j	助細胞	助細胞	胚嚢の中の卵細胞の両脇にある細胞。花粉管を卵細胞に…
+j	叩き台	叩き台	叩き売りのときに使う台。
+j	叩頭く	叩頭く	
+j	塩入れ	塩入れ	
+j	塩化物	塩化物	ある元素が塩素と結びついてできた化合物のこと。塩化…
+j	塩化銀	塩化銀	銀が塩素と化合してできる物質。銀の原子価により複数…
+j	塩化銅	塩化銅	銅が塩素と化合してできる物質。組成の違いにより、塩…
+j	塩基対	塩基対	base pair
+j	塩基性	塩基性	basicity
+j	塩対応	塩対応	cruelly brusque treatment
+j	塩湖市	塩湖市	Salt Lake City (a city, t…
+j	塩焼き	塩焼き	shioyaki, salt-grilled fo…
+j	塩竈菊	塩竈菊	Pedicularis resupinata su…
+j	塩胡椒	塩胡椒	塩と胡椒。また塩と胡椒で味付けすること。
+j	塩茹で	塩茹で	boiling in salty water
+j	塩辛い	塩辛い	salty
+j	塩風呂	塩風呂	seawater or saltwater bath
+j	天が下	天が下	
+j	天つ罪	天つ罪	one of the eight agricult…
+j	天つ風	天つ風	wind blowing from the hea…
+j	天の下	天の下	the whole world, under he…
+j	天の声	天の声	voice of the heavens
+j	天の川	天の川	the Milky Way (where Orih…
+j	天ぷら	天ぷら	
+j	天パー	天パー	「天然パーマ」。
+j	天一神	天一神	god in the practice of On…
+j	天上界	天上界	天界。
+j	天下り	天下り	descent to earth from hea…
+j	天下る	天下る	to descend from the heave…
+j	天下人	天下人	a ruler; a conqueror
+j	天下筋	天下筋	a creased line that runs …
+j	天主教	天主教	Catholicism
+j	天井値	天井値	（相場）ある期間で最も高い値段。
+j	天井裏	天井裏	attic
+j	天人花	天人花	
+j	天人草	天人草	Leucosceptrum japonicum
+j	天体暦	天体暦	天体の位置や出没を記した暦。
+j	天使長	天使長	
+j	天保暦	天保暦	Tenpō calendar
+j	天元術	天元術	A Chinese system of algeb…
+j	天動説	天動説	geocentrism
+j	天南星	天南星	Jack-in-the-pulpit, a gen…
+j	天台宗	天台宗	日本の仏教宗派の一つ。平安時代の僧最澄によって開か…
+j	天地人	天地人	天と地と人。宇宙間にある万物。
+j	天地点	天地点	in kanbun, a quanternary …
+j	天城犬	天城犬	日本犬の犬種の一つで静岡県原産。現在は絶滅。
+j	天塩国	天塩国	令制国の一つ。1869年に北海道に設置。概ね現在の…
+j	天守閣	天守閣	tenshu (main keep of a Ja…
+j	天安門	天安門	Tian'anmen
+j	天岩戸	天岩戸	the cave in which 天照(あまてら…
+j	天常立	天常立	one of the two gods who c…
+j	天引き	天引き	金銭の消費貸借契約で利息を予め計算してその分を差し…
+j	天才児	天才児	
+j	天文台	天文台	observatory (place where …
+j	天文学	天文学	astronomy
+j	天文家	天文家	天文学を研究する在野の人物。
+j	天晴れ	天晴れ	admirable, commendable, w…
+j	天橋立	天橋立	a sandbar in northern Kyo…
+j	天気図	天気図	高気圧や低気圧、前線の位置、等圧線、場合によっては…
+j	天気雨	天気雨	sun shower (rain shower t…
+j	天水桶	天水桶	主に防火用に軒下などに設置された天水（雨水）を貯め…
+j	天河石	天河石	
+j	天津子	天津子	a female given name
+j	天津神	天津神	the gods of the heavens
+j	天津飯	天津飯	Tenshinhan
+j	天然の	天然の	
+j	天然痘	天然痘	smallpox
+j	天然芝	天然芝	natural grass
+j	天照る	天照る	to shine in heaven
+j	天照神	天照神	synonym of 天照 (Amaterasu)
+j	天狗巣	天狗巣	an area of dense growing …
+j	天狗星	天狗星	音を立て落下したり地上に落ち燃えたりする大きな流星…
+j	天狗猿	天狗猿	霊長目オナガザル科テングザル属に属するさるの総称。…
+j	天狗茸	天狗茸	
+j	天狗鮫	天狗鮫	synonym of 箕作鮫 (mitsukuri…
+j	天狼星	天狼星	Sirius, Dog Star
+j	天王山	天王山	a hill in Kyōto prefecture
+j	天王星	天王星	Uranus (planet)
+j	天球儀	天球儀	天球上での星座や恒星の位置を示した模型。
+j	天理教	天理教	Tenrikyo, Tenriism (monot…
+j	天疱瘡	天疱瘡	pemphigus
+j	天皇の	天皇の	
+j	天皇制	天皇制	天皇が君主として国家を統治する明治憲法での制度。
+j	天皇陵	天皇陵	天皇の墓。皇陵。
+j	天目台	天目台	天目茶碗をのせるための台。天目。
+j	天眼通	天眼通	clairvoyance, one of the …
+j	天秤宮	天秤宮	Libra
+j	天秤座	天秤座	てんびん座。
+j	天秤棒	天秤棒	a carrying pole, a yoke a…
+j	天空の	天空の	
+j	天空神	天空神	天空を司る神。天神。
+j	天竺楽	天竺楽	Those pieces of music wit…
+j	天竺鼠	天竺鼠	a guinea pig
+j	天糸瓜	天糸瓜	
+j	天職の	天職の	
+j	天蕎麦	天蕎麦	天麩羅蕎麦の略。
+j	天蚕糸	天蚕糸	tensan silk; silk derived…
+j	天蝎宮	天蝎宮	Scorpio
+j	天象儀	天象儀	planetarium projector
+j	天通苑	天通苑	
+j	天道様	天道様	sun
+j	天道虫	天道虫	a ladybird (UK), ladybug …
+j	天邪鬼	天邪鬼	a kind of oni that appear…
+j	天都子	天都子	a female given name
+j	天鈿女	天鈿女	a goddess who performed a…
+j	天長節	天長節	synonym of 天皇誕生日
+j	天門冬	天門冬	steamed and dried root of…
+j	天鵞絨	天鵞絨	velvet
+j	天麩羅	天麩羅	tempura: a Japanese dish …
+j	審らか	審らか	
+j	審判員	審判員	referee, umpire (for all …
+j	審判団	審判団	
+j	審査員	審査員	judge
+j	審査官	審査官	審査をする職務、権限を有する官吏。
+j	審美眼	審美眼	eyes that are able to rec…
+j	審議会	審議会	chamber, deliberative bod…
+j	岩三葉	岩三葉	
+j	岩代国	岩代国	日本の旧国（令制国）のひとつで明治維新後に明治政府…
+j	岩手山	岩手山	岩手県に位置する活火山。標高は2038mであり、岩…
+j	岩手県	岩手県	a prefecture in 東北 (Tōhok…
+j	岩煙草	岩煙草	Conandron ramondioides
+j	岩狸目	岩狸目	イワダヌキ目に同じ。
+j	岩登り	岩登り	synonym of ロッククライミング (rok…
+j	岩石圏	岩石圏	lithosphere
+j	岩石学	岩石学	petrology
+j	岩菖蒲	岩菖蒲	Triantha japonica
+j	岩見沢	岩見沢	Iwamizawa (a city in Sora…
+j	岩雲雀	岩雲雀	
+j	岩鷓鴣	岩鷓鴣	キジ目キジ科イワシャコ属に属する鳥の総称。学名:A…
+j	崩ずる	崩ずる	
+j	崩れる	崩れる	to collapse, to fall, to …
+j	崩積層	崩積層	
+j	彩七虹	彩七虹	a female given name
+j	彩色画	彩色画	彩色した絵画。
+j	復する	復する	（元の状態に）戻る。
+j	復元力	復元力	つりあっていた状態から変位した際に元に戻ろうとする…
+j	復刻版	復刻版	過去に発行した版のうち、資料としての価値があり注目…
+j	復原力	復原力	つりあっていた状態から変位した際に元に戻ろうとする…
+j	復号化	復号化	decryption
+j	復水器	復水器	condensor: device for con…
+j	復活祭	復活祭	Easter
+j	復興庁	復興庁	東日本大震災からの復興に関する業務を担うために20…
+j	復調器	復調器	
+j	復讐者	復讐者	avenger
+j	恩返し	恩返し	requital of a favor
+j	悩ます	悩ます	to vex, to trouble, to di…
+j	悩める	悩める	to vex, to annoy, to caus…
+j	捩れる	捩れる	to be twisted
+j	捩れ率	捩れ率	捩率。
+j	掩体壕	掩体壕	敵の攻撃から味方の航空機などを援護し格納するための…
+j	掩蔽壕	掩蔽壕	
+j	摩する	摩する	
+j	摩天楼	摩天楼	a skyscraper (tall buildi…
+j	摩尼教	摩尼教	Manichaeism
+j	摩擦力	摩擦力	ある物体が他の物体と接して運動しようとしている時や…
+j	摩擦角	摩擦角	angle of friction
+j	摩擦音	摩擦音	a fricative
+j	摩洛哥	摩洛哥	モロッコの漢字表記。
+j	摩納哥	摩納哥	モナコの日本語による漢字表記。
+j	摩虎羅	摩虎羅	Makora, Mahāla (one of th…
+j	摩訶薩	摩訶薩	
+j	摩訶衍	摩訶衍	
+j	早乙女	早乙女	a woman who plants rice i…
+j	早合点	早合点	jumping to a hasty conclu…
+j	早咲き	早咲き	early bloomer
+j	早奈子	早奈子	a female given name
+j	早慶戦	早慶戦	a game/match between team…
+j	早期の	早期の	
+j	早期癌	早期癌	early-stage cancer
+j	早歩き	早歩き	
+j	早死に	早死に	premature death
+j	早生児	早生児	premature baby
+j	早矢香	早矢香	a female given name
+j	早稲田	早稲田	a paddy of early-ripening…
+j	早老症	早老症	
+j	早菜子	早菜子	a female given name
+j	早見表	早見表	cheatsheet; reference
+j	早起き	早起き	getting up early
+j	早送り	早送り	fast-forward (a tape, etc…
+j	早那子	早那子	a female given name
+j	早食い	早食い	speed-eating, especially …
+j	晩ご飯	晩ご飯	
+j	晩じる	晩じる	晩になる。日が暮れる。
+j	晩ずる	晩ずる	（古めかしい言い方で）晩になる。日が暮れる。
+j	晩御飯	晩御飯	evening meal, dinner
+j	晩産化	晩産化	An increase of people hav…
+j	晩白柚	晩白柚	banpeiyu, a variety of po…
+j	晩餐会	晩餐会	dinner party
+j	晩香坡	晩香坡	
+j	権兵衛	権兵衛	country bumpkin
+j	権利株	権利株	（法律）株式会社の成立前や新株発行の前の株式引受人…
+j	権利者	権利者	特定の権利を有する者。権者。
+j	権利証	権利証	
+j	権利金	権利金	不動産等の賃借人が、賃借権設定の対価として賃貸人に…
+j	権力者	権力者	地位や権力を有する者。
+j	権天使	権天使	キリスト教などの学派における、第八位の天使の階層。…
+j	歩いて	歩いて	
+j	歩き方	歩き方	
+j	歩み板	歩み板	
+j	歩一歩	歩一歩	一歩一歩。一歩ずつ。少しずつ。漸次。
+j	歩兵隊	歩兵隊	歩兵で構成される部隊。
+j	歩哨犬	歩哨犬	航空自衛隊で使用している警備犬（軍用犬）の旧称。
+j	歩実子	歩実子	a female given name
+j	歩数計	歩数計	pedometer
+j	歩行器	歩行器	a walking frame
+j	歩行者	歩行者	pedestrian
+j	歩道橋	歩道橋	車道の上に架けられ、歩行者が渡れるようになっている…
+j	浩太郎	浩太郎	a male given name
+j	温かい	温かい	
+j	温かみ	温かみ	
+j	温まる	温まる	get warm
+j	温める	温める	to warm; to heat
+j	温もり	温もり	warmth
+j	温もる	温もる	to become warm
+j	温塩水	温塩水	warm salt water (used to …
+j	温州語	温州語	呉語の方言の一つ。中国・浙江省の温州市で話される。…
+j	温度差	温度差	温度の差。
+j	温度計	温度計	a thermometer
+j	温暖化	温暖化	地球全体の平均気温が上がること。
+j	温泉卵	温泉卵	hot spring egg; onsen tam…
+j	温血の	温血の	
+j	温風器	温風器	fan heater
+j	温風至	温風至	七十二候の一つ。小暑の初候（日本・略本暦、中国・宣…
+j	煩わす	煩わす	to annoy, to disturb, to …
+j	物の怪	物の怪	a ghost, a specter, an ev…
+j	物乞い	物乞い	a beggar
+j	物価高	物価高	high prices of commoditie…
+j	物凄い	物凄い	uncanny; ominous
+j	物品税	物品税	
+j	物売り	物売り	street vendor; peddler
+j	物好き	物好き	having abnormal hobbies
+j	物差し	物差し	ruler (a straightedge wit…
+j	物干し	物干し	
+j	物怖じ	物怖じ	bashfulness
+j	物憂い	物憂い	listless, languid, melanc…
+j	物憂げ	物憂げ	listless
+j	物持ち	物持ち	person who possesses a lo…
+j	物権法	物権法	
+j	物狂い	物狂い	insanity
+j	物理学	物理学	physics (as an area of st…
+j	物理的	物理的	精神や観念ではなく、主に五感を通じて直接的に認識で…
+j	物理量	物理量	数値と単位を掛け合わせて表される量。
+j	物真似	物真似	imitation of a person or …
+j	物知り	物知り	broad knowledge
+j	物自体	物自体	the thing-in-itself
+j	物見塀	物見塀	城の外を見張るために設けた塀。
+j	物言い	物言い	a way of speaking, wording
+j	物言う	物言う	
+j	物語る	物語る	to narrate (to relate a s…
+j	物象化	物象化	
+j	物質界	物質界	The material world.
+j	物質量	物質量	ある物体・ある範囲中の原子または分子の個数。モルの…
+j	物静か	物静か	quiet
+j	狩猟業	狩猟業	野生の鳥獣を捕獲して、食肉、毛皮に加工販売したり、…
+j	狩猟犬	狩猟犬	A hunting dog; a hound (s…
+j	狩猟笛	狩猟笛	
+j	狩猟者	狩猟者	a hunter
+j	狩猟豹	狩猟豹	cheetah
+j	狩猟鳥	狩猟鳥	狩猟する目的となる鳥。法律で狩猟の期間かわ定められ…
+j	猩々草	猩々草	
+j	猩々蝿	猩々蝿	fruit fly, a fly in the f…
+j	猩々蠅	猩々蠅	fruit fly (Drosophilidae)
+j	猩々袴	猩々袴	Oriental swamp pink, Helo…
+j	猩猩緋	猩猩緋	やや黒みを帯びた鮮やかな深紅色。
+j	猩猩蝿	猩猩蝿	ショウジョウバエ科に属する小さな蠅の総称。
+j	猩紅熱	猩紅熱	scarlet fever
+j	玩具店	玩具店	おもちゃを販売する店
+j	痩せる	痩せる	to lose weight
+j	痩せ形	痩せ形	slender build, ectomorph,…
+j	痩せ肉	痩せ肉	emaciation
+j	痩せ腕	痩せ腕	weak arm
+j	盩厔県	盩厔県	
+j	眩しい	眩しい	dazzling; glaring; bright
+j	秩父犬	秩父犬	日本犬の犬種の一つで群馬県。信州柴犬に属する。現在…
+j	緩める	緩める	to loosen; to make (a kno…
+j	緩やか	緩やか	gentle, mild, lenient, sl…
+j	緩んだ	緩んだ	
+j	緩衝器	緩衝器	shock absorber
+j	緩衝国	緩衝国	大国同士の対立を防止するために存在する国家。
+j	緩衝材	緩衝材	buffering or cushioning m…
+j	緩衝液	緩衝液	外部から酸やアルカリを加えても水素イオン濃度の変化…
+j	義一郎	義一郎	a male given name
+j	義侠心	義侠心	正義のため強者をくじき、弱者をたすけようという気性。
+j	義兄妹	義兄妹	義理の兄と妹。またはその関係。
+j	義兄弟	義兄弟	sworn brothers
+j	義勇兵	義勇兵	a military volunteer, a v…
+j	義勇軍	義勇軍	volunteer army
+j	義務的	義務的	compulsory
+j	義務論	義務論	
+j	義和団	義和団	
+j	義太夫	義太夫	
+j	義太郎	義太郎	a male given name
+j	義姉妹	義姉妹	義理の姉と妹のこと。またはその関係。
+j	義姉弟	義姉弟	義理の姉と弟のこと。またはその関係。
+j	義捐金	義捐金	donation money
+j	義援金	義援金	（地震などの大規模災害によって）災害に遭遇し、損害…
+j	義理の	義理の	
+j	義経記	義経記	the Gikeiki; the Chronicl…
+j	肩こり	肩こり	stiff shoulder, stiff neck
+j	肩書き	肩書き	
+j	肩甲骨	肩甲骨	shoulder blade, scapula
+j	肩胛骨	肩胛骨	「肩甲骨」を参照。
+j	肩黒鳶	肩黒鳶	
+j	菩提子	菩提子	seed of Ficus religiosa u…
+j	菩提寺	菩提寺	檀家となりその家の墓をつくり代々その菩提を弔い、そ…
+j	菩提心	菩提心	bodhicitta
+j	菩提樹	菩提樹	synonym of 印度菩提樹 (Indo bo…
+j	菩薩乗	菩薩乗	自分が仏になるとともに他者も悟りに至らせようとする…
+j	萩の月	萩の月	hagi no tsuki, a Sendai s…
+j	萩の餅	萩の餅	synonym of 牡丹餅 (botamochi…
+j	薩婆訶	薩婆訶	word added to the end of …
+j	薩摩国	薩摩国	日本の旧国（令制国）のひとつ。現在の鹿児島県西部に…
+j	薩摩守	薩摩守	令制国薩摩国の国司の長官。
+j	薩摩犬	薩摩犬	日本犬の犬種の一つで鹿児島県原産の中型犬。現在は絶…
+j	薩摩芋	薩摩芋	sweet potato (Ipomoea bat…
+j	薩摩藤	薩摩藤	synonym of 藤擬き (fujimedok…
+j	薩摩藩	薩摩藩	江戸時代の藩の一つ。薩摩国・大隅国の全域と日向国の…
+j	薩長土	薩長土	《日本史》 明治維新を推進して明治政府の主要政治勢…
+j	販売員	販売員	salesperson
+j	販売店	販売店	shop; store
+j	販売業	販売業	商品を販売する事業。
+j	販売機	販売機	
+j	販売者	販売者	seller
+j	販管費	販管費	販売費及び一般管理費の略。
+j	販賣員	販賣員	
+j	適した	適した	
+j	適する	適する	suit, befit
+j	適任な	適任な	
+j	適切さ	適切さ	
+j	適切な	適切な	
+j	適切に	適切に	
+j	適度な	適度な	
+j	適当な	適当な	
+j	適時の	適時の	
+j	適時打	適時打	野球において、塁上にいる走者を本塁に生還させて得点…
+j	適齢期	適齢期	何かをするのに最適な年齢の時期。
+j	閩中語	閩中語	主に閩中地方（中華人民共和国福建省）中部で話される…
+j	閩北語	閩北語	主に閩北地方（中華人民共和国福建省）北西部や中央部…
+j	閩南語	閩南語	Southern Min; Min Nan (a …
+j	閩東語	閩東語	Eastern Min; Min Dong (br…
+j	革マル	革マル	日本革命的共産主義者同盟革命的マルクス主義派の略。
+j	革命家	革命家	a revolutionary
+j	革命暦	革命暦	フランスで1792年9月22日を紀元とし、1806…
+j	革命的	革命的	revolutionary
+j	革新派	革新派	進歩的な考えを持つ派閥。
+j	革新的	革新的	革新の傾向があるさま。
+j	革細工	革細工	leathercraft; leatherwork…
+j	革翅目	革翅目	Dermaptera
+j	革翅類	革翅類	革翅目に分類される昆虫の総称。
+j	鳩時計	鳩時計	a cuckoo clock
+j	鳩槃荼	鳩槃荼	
+j	鳩羽色	鳩羽色	
+j	麩菓子	麩菓子	麩（焼き麩）に黒砂糖などを絡めて乾燥させた菓子。
+k	견갑골	肩胛骨	
+k	권력자	権力者	authority, person in power
+k	권리증	権利証	
+k	권위자	権威者	
+k	나환자	癩患者	a leper (someone sufferin…
+k	량강도	兩江道	Ryanggang (a province of …
+k	량서류	兩棲類	
+k	리뇨제	利尿剤	
+k	리뇨제	利尿劑	
+k	리용자	利用者	North Korea standard spel…
+k	리타적	利他的	
+k	마니교	摩尼敎	Manichaeism
+k	마찰음	摩擦音	fricative
+k	마천루	摩天楼	skyscraper
+k	마천루	摩天樓	skyscraper
+k	마하연	摩訶衍	
+k	만찬회	晩餐会	
+k	만찬회	晩餐會	
+k	물리학	物理学	physics
+k	물리학	物理學	physics
+k	물자체	物自体	thing-in-itself
+k	물자체	物自體	thing-in-itself
+k	보도계	歩度計	
+k	보리수	菩提樹	
+k	보리심	菩提心	bodhicitta
+k	보수계	歩数計	
+k	보초병	歩哨兵	
+k	보측계	歩測計	
+k	보행자	歩行者	walker, pedestrian
+k	복수전	復讐戦	return match
+k	복수전	復讐戰	return match
+k	부활절	復活節	Easter; Easter Day
+k	부흥사	復興師	
+k	붕적토	崩積土	
+k	수렵물	狩猟物	
+k	수렵물	狩獵物	
+k	심미안	審美眼	aesthetic sense; discerni…
+k	심사원	審査員	
+k	심판원	審判員	경기에서 심판을 맡은 사람.
+k	양서류	兩棲類	amphibians, amphibia
+k	양성애	兩性愛	bisexuality
+k	양순음	兩脣音	bilabial
+k	양원제	兩院制	
+k	염기쌍	塩基双	base pair
+k	온난화	温暖化	
+k	온도계	温度計	thermometer
+k	온돌방	温突房	room with ondol (floor he…
+k	온풍기	温風器	fan heater
+k	완롱물	玩弄物	toy
+k	완충기	緩衝器	shock absorber
+k	완하제	緩下剤	
+k	완하제	緩下劑	
+k	의연금	義捐金	contribution; subscriptio…
+k	의열단	義烈団	a resistance group (again…
+k	의열단	義烈團	a resistance group (again…
+k	의용군	義勇軍	volunteer army, Freikorps…
+k	의용병	義勇兵	volunteer soldier
+k	의협심	義侠心	gallantry, chivalrousness…
+k	의협심	義俠心	gallantry, chivalrousness…
+k	의형제	義兄弟	sworn brothers
+k	의화단	義和団	(역사)
+k	의화단	義和團	(역사)
+k	이기심	利己心	selfishness
+k	이기적	利己的	selfish; egoistic
+k	이뇨제	利尿剤	
+k	이뇨제	利尿劑	
+k	이용자	利用者	user
+k	이천시	利川市	
+k	이타적	利他的	
+k	적당량	適当量	a suitable or appropriate…
+k	적당량	適當量	a suitable or appropriate…
+k	적용물	適用物	
+k	적응도	適応度	fitness
+k	적응도	適應度	fitness
+k	적절히	適切히	appropriately
+k	적정량	適正量	the appropriate amount (o…
+k	조동사	助動詞	auxiliary verb
+k	조만간	早晩間	soon, shortly, sooner or …
+k	조산부	助產婦	midwife
+k	조산사	助產師	midwife
+k	조수석	助手席	passenger seat
+k	천갈궁	天蠍宮	the Scorpion; Scorpio
+k	천궁도	天宮図	
+k	천궁도	天宮圖	
+k	천도교	天道敎	Cheondoism
+k	천동설	天動說	geocentrism, geocentric t…
+k	천동설	天動説	geocentrism, geocentric t…
+k	천랑성	天狼星	Sirius, Canicula (the Dog…
+k	천문관	天文館	planetarium
+k	천문대	天文台	observatory
+k	천문대	天文臺	observatory
+k	천문학	天文学	astronomy
+k	천문학	天文學	astronomy
+k	천부적	天賦的	natural; gifted
+k	천사채	天使菜	kelp noodle
+k	천안문	天安門	Tian'anmen
+k	천연두	天然痘	smallpox
+k	천왕성	天王星	Uranus (planet)
+k	천조국	天朝国	synonym of 미국(美國) (Miguk,…
+k	천조국	天朝國	synonym of 미국(美國) (Miguk,…
+k	천주교	天主敎	Catholic Church
+k	천지인	天地人	heaven, earth, and man
+k	천칭궁	天秤宮	the Balance, Libra
+k	천칭좌	天秤座	Libra
+k	탕평채	蕩平菜	a kind of Korean royal di…
+k	판매기	販売機	
+k	판매기	販賣機	
+k	판매대	販売台	kiosk, stand
+k	판매대	販賣臺	kiosk, stand
+k	판매원	販売員	salesperson
+k	판매원	販賣員	salesperson
+k	판매인	販売人	seller
+k	판매인	販賣人	seller
+k	판매자	販売者	
+k	판매자	販賣者	
+k	판매점	販売店	shop; store
+k	판매점	販賣店	shop; store
+k	혁명가	革命家	revolutionist; revolution…
+k	혁명가	革命歌	revolutionist; revolution…
+k	혁명적	革命的	매우 혁신적이고 파격적인.
+k	혁신가	革新家	innovator
+j	利かん坊	利かん坊	なかなか言うことを聞かないわんぱくなこども。負けん…
+j	利他主義	利他主義	altruism
+j	利他的な	利他的な	
+j	利子所得	利子所得	日本国の所得税法に規定する所得の種類の一つ。公社債…
+j	利害関係	利害関係	an interest, interests in
+j	利己主義	利己主義	egoism, egocentrism, self…
+j	利己的な	利己的な	
+j	利敵協力	利敵協力	
+j	利用不可	利用不可	
+j	利用価値	利用価値	utility value
+j	利用条件	利用条件	
+j	利用者名	利用者名	username
+j	利用規約	利用規約	
+j	利益団体	利益団体	特定の集団の利益を図るために政治活動を行う団体。圧…
+j	利益相反	利益相反	
+j	利益管理	利益管理	将来の売上高を予測し、その利益を算定し、それを実現…
+j	助け出す	助け出す	to rescue; to save
+j	助け合う	助け合う	help each other
+j	助け平な	助け平な	
+j	助動詞の	助動詞の	
+j	助産学者	助産学者	助産学を研究する科学者。
+j	助言する	助言する	
+j	助長抜苗	助長抜苗	功をあせり、要らぬことをして、却って事態を悪化させ…
+j	厩戸皇子	厩戸皇子	聖徳太子の別名。
+j	叩き直す	叩き直す	beat someone into shape
+j	叩き込み	叩き込み	A winning technique in wh…
+j	叩き込む	叩き込む	to dive into, to throw in…
+j	塩っぱい	塩っぱい	salty
+j	塩の行進	塩の行進	
+j	塩化水素	塩化水素	塩素と水素の化合物。分子式HCl。常温においては気…
+j	塩化水銀	塩化水銀	塩素と水銀の化合物。組成の違いにより、塩化水銀(I…
+j	塩基性塩	塩基性塩	水酸化物イオンが残っている塩。
+j	塩素ガス	塩素ガス	黄緑色の気体の塩素。
+j	天こ盛り	天こ盛り	bowlful, heap
+j	天の使い	天の使い	
+j	天の北極	天の北極	天球上で北極点の真上の位置。
+j	天の南極	天の南極	天球上で南極点の真上の位置。
+j	天の赤道	天の赤道	celestial equator
+j	天の配剤	天の配剤	the course of events by H…
+j	天上天下	天上天下	above heaven and under he…
+j	天下一品	天下一品	Most precious item under …
+j	天下無敵	天下無敵	この上なく強いこと。
+j	天之瓊矛	天之瓊矛	the spear that 伊弉諾 (Izana…
+j	天井関数	天井関数	
+j	天体力学	天体力学	celestial mechanics
+j	天体観測	天体観測	天体の位置、動きや性質などを観測すること。実視観測…
+j	天使祝詞	天使祝詞	
+j	天叢雲剣	天叢雲剣	the original name of the …
+j	天地に父	天地に父	
+j	天地無用	天地無用	Shipping terminology to i…
+j	天地神明	天地神明	天上、地上におわす神々。
+j	天地開闢	天地開闢	the beginning of the worl…
+j	天変地異	天変地異	an extraordinary natural …
+j	天山山脈	天山山脈	中央アジアのカザフスタン、キルギスから中国西部にか…
+j	天干地支	天干地支	十干と十二支の組み合わせ。えと。
+j	天平勝宝	天平勝宝	the Tenpyō-shōhō era, 749…
+j	天平宝字	天平宝字	the Tenpyō-hōji era, 757–…
+j	天平感宝	天平感宝	the Tenpyō-kanpō era, 749
+j	天平文化	天平文化	奈良時代の天平年間を中心に栄えた大陸色の強い文化。
+j	天平神護	天平神護	the Tenpyō-jingo era, 765…
+j	天御中主	天御中主	one of the first three go…
+j	天忍穂耳	天忍穂耳	the first of the sons of …
+j	天文単位	天文単位	astronomical unit
+j	天文学史	天文学史	天文学に関する歴史。
+j	天文学的	天文学的	astronomical (relating to…
+j	天文学者	天文学者	astronomer
+j	天文潮位	天文潮位	天文学によって計算された、気象現象や地殻変動がない…
+j	天文航法	天文航法	天体の動きから位置や方向を把握し、航海する手法。
+j	天文薄明	天文薄明	薄明のうち、太陽の高度が地平線下12度から18度に…
+j	天日干し	天日干し	果肉や魚肉などを天日に晒して乾燥させること。また、…
+j	天気予報	天気予報	weather forecast
+j	天津麻羅	天津麻羅	Amatsumara, the Japanese …
+j	天涯孤独	天涯孤独	having no living relatives
+j	天災地変	天災地変	natural disaster
+j	天然ガス	天然ガス	natural gas
+j	天然ゴム	天然ゴム	合成ゴムでないゴム。狭義では、ゴムノキの樹液を原料…
+j	天然ボケ	天然ボケ	「天然惚け」を参照されたし。
+j	天然惚け	天然惚け	natural airhead; person p…
+j	天然樹脂	天然樹脂	植物体からとれる天然の樹脂。
+j	天然温泉	天然温泉	natural hot spring
+j	天然資源	天然資源	natural resource
+j	天照らす	天照らす	to rule a nation
+j	天照大神	天照大神	synonym of 天照
+j	天狗蝙蝠	天狗蝙蝠	Hilgendorf's tube-nosed b…
+j	天王星人	天王星人	天王星に暮らす想像上の知的生命体。
+j	天皇陛下	天皇陛下	His Imperial Majesty (for…
+j	天目一箇	天目一箇	the Japanese god of the f…
+j	天目茶碗	天目茶碗	抹茶をたてる茶碗の一つ。浅い擂り鉢状の茶碗。天目。
+j	天真爛漫	天真爛漫	innocent, simple
+j	天石戸別	天石戸別	the protector god of gate…
+j	天神七代	天神七代	the Seven Generations of …
+j	天神地祇	天神地祇	heavenly gods and earthly…
+j	天竺浪人	天竺浪人	
+j	天竺牡丹	天竺牡丹	dahlia
+j	天網恢恢	天網恢恢	
+j	天罰覿面	天罰覿面	the immediacy of divine p…
+j	天蓬元帥	天蓬元帥	Marshal Tianpeng, title h…
+j	天衣無縫	天衣無縫	flawless, perfect
+j	天路歴程	天路歴程	The Pilgrim's Progress
+j	天鈿女命	天鈿女命	
+j	天長地久	天長地久	continuing unchanged as l…
+j	天香具山	天香具山	the fabled mountain at th…
+j	天香国色	天香国色	peony
+j	審査基準	審査基準	審査するための基準。
+j	岩宿時代	岩宿時代	日本における旧石器時代。群馬県の岩宿遺跡が代表。
+j	岩石学者	岩石学者	岩石学を研究する科学者。
+j	崩壊する	崩壊する	
+j	弩張剣抜	弩張剣抜	緊迫した状況のたとえ。
+j	弩級戦艦	弩級戦艦	
+j	復古主義	復古主義	reactionism
+j	復活する	復活する	
+j	復活台風	復活台風	一旦熱帯低気圧に変わったあと再び台風となる条件を満…
+j	復習する	復習する	
+j	復讐する	復讐する	
+j	恩知らず	恩知らず	ungrateful
+j	悩ましい	悩ましい	worrying; troubling; thor…
+j	悩みの種	悩みの種	
+j	捩れ国会	捩れ国会	衆議院と参議院で最も多くの議席を持っている政党が異…
+j	掩蔽する	掩蔽する	
+j	摩擦係数	摩擦係数	摩擦の働きやすさを表す無次元の物理量。
+j	摩睺羅伽	摩睺羅伽	
+j	摩耗硬さ	摩耗硬さ	2物体間の滑りや回転から生じる摩耗に対する抵抗の事…
+j	摩訶薩埵	摩訶薩埵	synonym of 摩訶薩 (makasatsu…
+j	早く散る	早く散る	
+j	早く早く	早く早く	
+j	早とちり	早とちり	jumping to a wrong conclu…
+j	早口言葉	早口言葉	tongue-twister
+j	早慶上理	早慶上理	東京の名門私立大学: 早稲田医学（早）、慶應義塾大…
+j	早期発見	早期発見	（病気や悪いことなどを）早い段階で見つけ出すこと。
+j	早期退職	早期退職	本来の雇用期間（多くは定年）よりも早く希望退職する…
+j	早見早聞	早見早聞	fast-forwarding
+j	権利章典	権利章典	bill of rights
+j	権利能力	権利能力	権利・義務の帰属主体となることができる資格。自然人…
+j	権力分立	権力分立	separation of powers
+j	権力構造	権力構造	
+j	権力闘争	権力闘争	
+j	権威主義	権威主義	authoritarianism
+j	権少納言	権少納言	an acting lesser counselo…
+j	権謀術数	権謀術数	人を騙す為のはかりごと。「権」、「謀」、「術」、「…
+j	歩き回る	歩き回る	to roam; to walk about; t…
+j	歩き巫女	歩き巫女	a wandering miko, who doe…
+j	歩み寄り	歩み寄り	
+j	歩測する	歩測する	
+j	歩留まり	歩留まり	yield rate, yield
+j	歩行者道	歩行者道	
+j	浩然の気	浩然の気	天地に漲る、活力や生命力の源となる気。公明正大で恥…
+j	温厚篤実	温厚篤実	having a gentle and since…
+j	温室効果	温室効果	the greenhouse effect
+j	温室育ち	温室育ち	sheltered upbringing
+j	温州蜜柑	温州蜜柑	ムクロジ目ミカン科ミカン属に属する常緑低木の一種。…
+j	温情主義	温情主義	
+j	温故知新	温故知新	One should be able to der…
+j	温暖前線	温暖前線	warm front
+j	温泉玉子	温泉玉子	「温泉卵」の別表記。
+j	温泉療法	温泉療法	
+j	温熱療法	温熱療法	heat therapy
+j	煩わしい	煩わしい	troublesome, annoying, ir…
+j	煩瑣哲学	煩瑣哲学	scholasticism
+j	物々しい	物々しい	strict (in security), hea…
+j	物々交換	物々交換	barter; bartering
+j	物の哀れ	物の哀れ	the pathos of things.
+j	物は試し	物は試し	何か思いついたら、あれこれ考える前に試してみた方が…
+j	物上代位	物上代位	担保物権の目的物に代わる物や金銭にも担保権の効力が…
+j	物分かり	物分かり	understanding (of feeling…
+j	物寂しい	物寂しい	lonely
+j	物干し綱	物干し綱	clothesline
+j	物故ロス	物故ロス	ぶっ殺す。
+j	物物交換	物物交換	物と物とを直接交換（交易）すること。バーター。
+j	物理主義	物理主義	
+j	物理化学	物理化学	physical chemistry
+j	物理学史	物理学史	物理学に関する歴史。
+j	物理学的	物理学的	物理学に関係するさま。
+j	物理学者	物理学者	physicist
+j	物理探査	物理探査	物理学的な手法により、地下の地質構造を調べたり、鉱…
+j	物理探鉱	物理探鉱	「物理探査」の別表記。
+j	物理的な	物理的な	
+j	物理科学	物理科学	自然科学の生命以外全般にわたる分野について研究する…
+j	物的証拠	物的証拠	physical evidence
+j	物見遊山	物見遊山	going on a pleasure jaunt
+j	物見高い	物見高い	burning curiosity
+j	物語り方	物語り方	
+j	物質代謝	物質代謝	
+j	物質名詞	物質名詞	英語、フランス語、ドイツ語などで気体、液体、食物な…
+j	物質的な	物質的な	
+j	狩り小屋	狩り小屋	
+j	狩猟する	狩猟する	
+j	狩猟小屋	狩猟小屋	hunting lodge
+j	玩具の国	玩具の国	
+j	玩具菓子	玩具菓子	おまけ（付録）をつけた菓子。玩菓。食品玩具。食玩。
+j	玩物喪志	玩物喪志	珍しい物に夢中になるあまり、大志を忘れてしまうこと。
+j	痩せ我慢	痩せ我慢	我慢して、無理に平気そうにすること。
+j	癩病患者	癩病患者	
+j	窩主買い	窩主買い	traffic in stolen goods
+j	緩和する	緩和する	
+j	緩急自在	緩急自在	遅速を思うがままに操るさま。一張一弛。
+j	緩歩動物	緩歩動物	a tardigrade; a water bear
+j	緩衝地帯	緩衝地帯	対立する二国または複数の国家の衝突を緩和するため、…
+j	義務教育	義務教育	compulsory education
+j	義務的な	義務的な	
+j	義理の兄	義理の兄	
+j	義理の妹	義理の妹	
+j	義理の姉	義理の姉	
+j	義理の弟	義理の弟	
+j	義理の母	義理の母	
+j	義理人情	義理人情	過去の関係から絶つことのできない付き合い、思いやり。
+j	肩が凝る	肩が凝る	（比喩）堅苦しさを覚え、くつろげない。
+j	肩を持つ	肩を持つ	support, take someone's s…
+j	肩摩轂撃	肩摩轂撃	人や車馬の往来が激しく、道路が混雑していること。
+j	肩甲下筋	肩甲下筋	a subscapularis muscle
+j	肩甲挙筋	肩甲挙筋	a levator scapulae
+j	肩透かし	肩透かし	under-shoulder swing-down
+j	菩提薩埵	菩提薩埵	a bodhisattva
+j	薩摩の守	薩摩の守	traveling while deliberat…
+j	薩摩川内	薩摩川内	Satsumasendai (a city in …
+j	薩摩隼人	薩摩隼人	薩摩の武士に対してつかわれた美称。現在でも鹿児島県…
+j	薩爾瓦多	薩爾瓦多	エルサルバドルの漢字表記。
+j	薩長土肥	薩長土肥	明治維新を推進して明治政府の主要政治勢力を形成した…
+j	蜩螗沸羹	蜩螗沸羹	非常にやかましい音。
+j	詩的表現	詩的表現	
+j	販売促進	販売促進	sales promotion
+j	適中する	適中する	
+j	適合した	適合した	
+j	適合する	適合する	
+j	適応する	適応する	
+j	適材適所	適材適所	the right person in the r…
+j	適者生存	適者生存	the survival of the fitte…
+j	革命的な	革命的な	
+j	革新主義	革新主義	伝統や慣習にとらわれず、新しい制度や社会改革を推進…
+j	革新的な	革新的な	
+k	권력 투쟁	権力闘争	
+k	권리장전	権利章典	
+k	권모술수	権謀術数	cunning schemes, machinat…
+k	권위주의	権威主義	authoritarianism
+k	리타주의	利他主義	
+k	물리치료	物理治療	physiotherapy, physical t…
+k	물리학자	物理学者	physicist
+k	물리학자	物理學者	physicist
+k	물리화학	物理化学	physical chemistry
+k	물리화학	物理化學	physical chemistry
+k	물물교환	物物交換	
+k	물질대사	物質代謝	
+k	부활주일	復活主日	Easter Sunday
+k	시가 선집	詩歌選集	anthology, collection
+k	시작하다	詩作하다	to begin
+k	암벽등반	岩壁登攀	
+k	양성애자	兩性愛者	a bisexual person
+k	양층언어	兩層言語	
+k	염화 수소	塩化水素	hydrogen chloride
+k	온실 기체	温室気体	
+k	온실효과	温室効果	greenhouse effect
+k	온정주의	温情主義	이웃이나 아랫사람을 이해하고 따듯하게 대하려는…
+k	온주밀감	温州蜜柑	satsuma (fruit)
+k	온혈동물	温血動物	endotherm, warm-blooded a…
+k	온화하다	温和하다	to be gentle, to be affab…
+k	완충 지대	緩衝地帯	
+k	완충 지대	緩衝地帶	
+k	완화치료	緩和治療	
+k	의무교육	義務敎育	
+k	의용함대	義勇艦隊	volunteer fleet, armada
+k	이기주의	利己主義	egoism
+k	이용약관	利用約款	terms of use
+k	이타주의	利他主義	자신의 이익보다는 남이 잘 되도록 도와주거나 …
+k	적재적소	適材適所	using the right person in…
+k	조기투표	早期投票	
+k	천구적도	天球赤道	
+k	천로역정	天路歴程	The Pilgrim's Progress
+k	천로역정	天路歷程	The Pilgrim's Progress
+k	천문단위	天文単位	astronomical unit
+k	천문단위	天文單位	astronomical unit
+k	천문학자	天文学者	천문학을 연구하는 사람.
+k	천문학자	天文學者	천문학을 연구하는 사람.
+k	천문학적	天文学的	천문학에 기초한.
+k	천문학적	天文學的	천문학에 기초한.
+k	천연자원	天然資源	석유, 천연가스 같이 자연에서 얻는 자원을 가…
+k	천지신명	天地神明	all the gods
+k	청기예보	天気預報	weather forecast
+k	청기예보	天氣預報	weather forecast
+k	혁명가극	革命歌劇	revolutionary opera
+j	利他主義者	利他主義者	利他主義の立場をとりそれを主張する者。
+j	利害関係人	利害関係人	利害関係者。ステークホルダー。
+j	利害関係者	利害関係者	利害が互いに影響し合う関係の者。特に企業などの利害…
+j	利己主義者	利己主義者	利己主義の立場をとりそれを主張する者。エゴイスト。
+j	利比亜山猫	利比亜山猫	
+j	利益になる	利益になる	
+j	利益剰余金	利益剰余金	（会計）損益取引から生じた剰余金で利益の留保額のこ…
+j	利益準備金	利益準備金	株式会社の法定準備金の一つで、利益を源泉として毎決…
+j	助けになる	助けになる	to be helpful, to be of a…
+j	叩きのめす	叩きのめす	
+j	叩き付ける	叩き付ける	to throw violently agains…
+j	叩き伏せる	叩き伏せる	
+j	叩き落とす	叩き落とす	to beat down, to knock off
+j	塩化酸化物	塩化酸化物	
+j	塩気のない	塩気のない	
+j	塩水速度法	塩水速度法	水流中に塩水を注入し、二点の電極における電流変化の…
+j	天の川銀河	天の川銀河	synonym of 銀河系 (Gingakei,…
+j	天下を取る	天下を取る	to seize the power of a c…
+j	天井扇風機	天井扇風機	
+j	天体望遠鏡	天体望遠鏡	天体観測を目的として製造された望遠鏡。
+j	天体物理学	天体物理学	astrophysics
+j	天宇受売命	天宇受売命	
+j	天安門事件	天安門事件	
+j	天安門広場	天安門広場	Tiananmen Square (a squar…
+j	天手古舞い	天手古舞い	busy activity, a bustle
+j	天気予報係	天気予報係	
+j	天然パーマ	天然パーマ	生まれつき頭髪がパーマをかけたような縮れ毛であるこ…
+j	天然甘味料	天然甘味料	人工甘味料に対し天然に存在する甘味料。
+j	天然記念物	天然記念物	自然物で、学術的に価値のあるものとして保護されてい…
+j	天照大御神	天照大御神	
+j	天狗になる	天狗になる	得意になる。自惚れる。
+j	天皇誕生日	天皇誕生日	a national holiday in Jap…
+j	天竺菩提樹	天竺菩提樹	
+j	天鵞絨金黒	天鵞絨金黒	
+j	天龍八部衆	天龍八部衆	
+j	岩ワラビー	岩ワラビー	a rock-wallaby
+j	岩石記載学	岩石記載学	
+j	復旧させる	復旧させる	
+j	復活させる	復活させる	
+j	復活できる	復活できる	
+j	復讐ポルノ	復讐ポルノ	
+j	恩義がある	恩義がある	
+j	捩れの位置	捩れの位置	空間中にある2本の直線が交差せず、平行でもないとい…
+j	摩訶不思議	摩訶不思議	非常に不思議なこと。
+j	早い者勝ち	早い者勝ち	
+j	早寝早起き	早寝早起き	early to bed early to rise
+j	早期警戒機	早期警戒機	レーダーを装備して敵味方の航空目標を探知して空中で…
+j	早死にする	早死にする	
+j	早起きの人	早起きの人	
+j	早送りする	早送りする	
+j	早飲み込み	早飲み込み	jump to conclusion, get a…
+j	権の少納言	権の少納言	
+j	権利保持者	権利保持者	
+j	権威主義者	権威主義者	権威主義の立場をとりそれを主張する者。
+j	権柄ずくの	権柄ずくの	
+j	歩きスマホ	歩きスマホ	公共の場所を歩いている最中にスマートフォンを操作す…
+j	歩けますか	歩けますか	
+j	歩を進める	歩を進める	歩いて行く。徒歩で進む。
+j	歩兵戦闘車	歩兵戦闘車	
+j	歩行者天国	歩行者天国	pedestrian-only street, p…
+j	温冷交代浴	温冷交代浴	alternating hot-cold bath
+j	温州みかん	温州みかん	
+j	温州ミカン	温州ミカン	
+j	温帯低気圧	温帯低気圧	温帯や寒帯で発生する低気圧。前線を伴う。
+j	温帯降雨林	温帯降雨林	temperate rainforest
+j	温水プール	温水プール	温水を使用したプール。
+j	温泉マーク	温泉マーク	a hot spring icon (♨)
+j	温泉療法学	温泉療法学	
+j	温熱性紅斑	温熱性紅斑	温熱に長くあたることによって皮膚に生じる赤褐色の網…
+j	温良恭倹譲	温良恭倹譲	Be cordial, kind, courteo…
+j	物理化学者	物理化学者	物理化学を研究する科学者。
+j	物足りない	物足りない	unsatisfactory; disconten…
+j	物騒がしい	物騒がしい	noisy, turbulent
+j	狩猟採集民	狩猟採集民	
+j	猩々紅冠鳥	猩々紅冠鳥	
+j	痩せこけた	痩せこけた	
+j	痩せこける	痩せこける	to get too thin
+j	痩せっぽち	痩せっぽち	
+j	眩惑させる	眩惑させる	
+j	篩に掛ける	篩に掛ける	篩を使って大小さまざまな粒子をよりわける。
+j	義兄弟姉妹	義兄弟姉妹	義理の兄弟姉妹のこと。またはその関係。
+j	義務がある	義務がある	
+j	義務付ける	義務付ける	require, bind, obligate, …
+j	義理の姉妹	義理の姉妹	
+j	義理チョコ	義理チョコ	Valentine's Day chocolate…
+j	義肢装具士	義肢装具士	義肢や装具の装着部位への採寸、採型、製作、身体への…
+j	肩を並べる	肩を並べる	（からだを同じ向きに向けて）横に並ぶ。
+j	肩を入れる	肩を入れる	to support; to assist or …
+j	肩を窄める	肩を窄める	
+j	肩を竦める	肩を竦める	
+j	肩を落とす	肩を落とす	がっかりする。落胆する。
+j	肩甲舌骨筋	肩甲舌骨筋	an omohyoid muscle
+j	肩身が狭い	肩身が狭い	feeling small, ashamed, u…
+j	適合させる	適合させる	
+j	革新主義者	革新主義者	革新主義の立場をとりそれを主張する者。
+j	鳩に豆鉄砲	鳩に豆鉄砲	鳩が豆鉄砲を食らったよう と同じ。
+k	보병전투차	歩兵戦闘車	
+k	복원	復元／復原	restoration
+k	수렵채집민	狩猟採集民	
+k	수렵채집민	狩獵採集民	
+k	온도조절기	温度調節器	
+k	온돌	温突/温堗	ondol, hypocaust (a Korea…
+k	천연조미료	天然調味料	natural seasoning
+k	천체물리학	天体物理学	astrophysics
+k	천체물리학	天體物理學	astrophysics
+k	천치	天痴/天痴	fool, idiot
+k	천치	天癡/天痴	fool, idiot
+k	천하지대본	天下之大本	the foundation of the wor…
+j	利用者ページ	利用者ページ	
+j	利用許諾契約	利用許諾契約	
+j	塩化カリウム	塩化カリウム	塩素とカリウムの化合物。化学式KCl。
+j	塩化物イオン	塩化物イオン	イオン式Cl⁻で表される塩素の陰イオン。
+j	塩基性酸化物	塩基性酸化物	basic oxide
+j	塩水噴霧試験	塩水噴霧試験	塩化ナトリウム雰囲気中に金属試料を一定期間置き、耐…
+j	塩漬けにする	塩漬けにする	
+j	天地にお父様	天地にお父様	
+j	天文学的数字	天文学的数字	天文学に出てくるような非常に大きな数字。
+j	天王星型惑星	天王星型惑星	天王星や海王星のように、氷を主成分とする惑星。
+j	天皇陛下万歳	天皇陛下万歳	pray for long live His Ma…
+j	天秤に掛ける	天秤に掛ける	天秤で質量を測る。
+j	天高く馬肥ゆ	天高く馬肥ゆ	秋は空が澄みわたって高く晴れ、気候がよいので馬も肥…
+j	恩を仇で返す	恩を仇で返す	to return evil for good
+j	早いもの勝ち	早いもの勝ち	the early bird catches th…
+j	早かれ遅かれ	早かれ遅かれ	sooner or later
+j	権威主義的な	権威主義的な	
+j	温室効果ガス	温室効果ガス	a greenhouse gas
+j	温暖湿潤気候	温暖湿潤気候	温帯のうち、平均気温の平年値が22℃以上の月があり…
+j	物は言いよう	物は言いよう	同じことを伝えるにも、言い方によって相手の受け止め…
+j	痩せの大食い	痩せの大食い	痩せている人ほど、その外見に反して大量に食べるもの…
+j	義務教育学校	義務教育学校	現在の学校教育法においては、初等教育と前期中等教育…
+j	革命を起こす	革命を起こす	
+k	양서파충류학	兩棲爬蟲類學	
+j	助けてください	助けてください	
+j	叩けば埃が出る	叩けば埃が出る	
+j	塩化カルシウム	塩化カルシウム	calcium chloride
+j	塩化カルボニル	塩化カルボニル	一酸化炭素と塩素の化合物。枯れ草のような匂いがある…
+j	塩化ナトリウム	塩化ナトリウム	sodium chloride
+j	天にも昇る心地	天にも昇る心地	天国に来たかと思うほど気分が良いこと。
+j	天寿を全うする	天寿を全うする	to die of natural causes,…
+j	天然ガス自動車	天然ガス自動車	燃料として天然ガスを使用する自動車の総称。圧縮した…
+j	天道干しの河童	天道干しの河童	環境が変わって元気や威勢が失われること。
+j	復興特別所得税	復興特別所得税	「東日本大震災からの復興のための施策を実施するため…
+j	物事を誇張する	物事を誇張する	
+j	助けが必要ですか	助けが必要ですか	
+j	天上天下唯我独尊	天上天下唯我独尊	In the heavens above and …
+j	天気はどうですか	天気はどうですか	
+j	早起きは三文の得	早起きは三文の得	「早起きは三文の徳」を参照。
+j	早起きは三文の徳	早起きは三文の徳	the early bird gets the w…
+k	온실 속의 화초	温室 속의 花草	"flower in a greenhouse";…
+j	助けてくれませんか	助けてくれませんか	
+j	肩透かしを食わせる	肩透かしを食わせる	to dodge (an attack, ques…
+j	天に向かって唾を吐く	天に向かって唾を吐く	清浄なものを汚そうとしても、却って報いを受け、自ら…
+j	摩訶般若波羅蜜多心経	摩訶般若波羅蜜多心経	synonym of 般若心経 (Hannya S…
+j	天は自ら助くる者を助く	天は自ら助くる者を助く	heaven helps those who he…
+j	天は自ら助ける者を助く	天は自ら助ける者を助く	
+j	天知る地知る我知る子知る	天知る地知る我知る子知る	誰も知らない秘密だと思っていても、天地の神は知って…
+j	天網恢恢疎にして漏らさず	天網恢恢疎にして漏らさず	天の神が地に張り巡らした網は、ゆったりして粗いよう…
+j	早起きの鳥は虫を捕らえる	早起きの鳥は虫を捕らえる	
+j	鳩が豆鉄砲を食らったよう	鳩が豆鉄砲を食らったよう	何かに驚かされて唖然とする様子。驚いて目を丸くする…
+j	天災は忘れた頃にやってくる	天災は忘れた頃にやってくる	地震や台風などの自然災害は、その被害の恐ろしさを忘…
+j	義を見て為ざるは勇なきなり	義を見て為ざるは勇なきなり	節義を守らなければならないことをわかっていながら、…
+j	権兵衛が種蒔きゃ烏がほじくる	権兵衛が種蒔きゃ烏がほじくる	人が苦労して行ったことでも、別の人がすぐにぶち壊し…
+j	天津日高日子波限建鵜葺草葺不合命	天津日高日子波限建鵜葺草葺不合命	Ugayafukiaezu, the son of…
+j	早口でわけのわからないことを言う	早口でわけのわからないことを言う	

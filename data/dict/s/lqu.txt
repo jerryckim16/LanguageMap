@@ -1,0 +1,174 @@
+e	quay	quay	1 meaning
+e	quba	quba	1 meaning
+e	quim	quim	1 meaning
+e	quit	quit	3 meanings
+e	quiz	quiz	2 meanings
+e	quack	quack	4 meanings
+e	quail	quail	1 meaning
+e	quark	quark	2 meanings
+e	quart	quart	1 meaning
+e	qubit	qubit	1 meaning
+e	queef	queef	1 meaning
+e	queen	queen	5 meanings
+e	queer	queer	1 meaning
+e	quell	quell	2 meanings
+e	quern	quern	1 meaning
+e	query	query	2 meanings
+e	quest	quest	2 meanings
+e	queue	queue	4 meanings
+e	quick	quick	3 meanings
+e	quiet	quiet	4 meanings
+e	quill	quill	2 meanings
+e	quilt	quilt	1 meaning
+e	quipu	quipu	1 meaning
+e	quirk	quirk	1 meaning
+e	quite	quite	3 meanings
+e	quito	quito	1 meaning
+e	quoll	quoll	1 meaning
+e	quota	quota	1 meaning
+e	quote	quote	4 meanings
+e	qur'an	quran	1 meaning
+e	qusar	qusar	1 meaning
+e	quagga	quagga	1 meaning
+e	quaker	quaker	1 meaning
+e	quarry	quarry	1 meaning
+e	quartz	quartz	1 meaning
+e	quasar	quasar	1 meaning
+e	quaver	quaver	1 meaning
+e	qubadlı	qubadl	1 meaning
+e	quebec	quebec	2 meanings
+e	quecto-	quecto	1 meaning
+e	quenya	quenya	1 meaning
+e	quetta	quetta	1 meaning
+e	quetta-	quetta	1 meaning
+e	quezon	quezon	1 meaning
+e	quiapo	quiapo	1 meaning
+e	quiche	quiche	1 meaning
+e	quince	quince	2 meanings
+e	quinoa	quinoa	1 meaning
+e	quiver	quiver	2 meanings
+e	quokka	quokka	1 meaning
+e	quorum	quorum	1 meaning
+e	quaffle	quaffle	1 meaning
+e	qualify	qualify	1 meaning
+e	quality	quality	4 meanings
+e	quantum	quantum	4 meanings
+e	quarrel	quarrel	3 meanings
+e	quarter	quarter	5 meanings
+e	quartet	quartet	3 meanings
+e	quechua	quechua	1 meaning
+e	quentin	quentin	1 meaning
+e	queshan	queshan	1 meaning
+e	queue up	queueup	1 meaning
+e	quickly	quickly	1 meaning
+e	quietly	quietly	1 meaning
+e	quillon	quillon	1 meaning
+e	quimper	quimper	1 meaning
+e	quindim	quindim	1 meaning
+e	quinean	quinean	1 meaning
+e	quinine	quinine	1 meaning
+e	quinone	quinone	1 meaning
+e	quintet	quintet	2 meanings
+e	qur'anic	quranic	1 meaning
+e	quackery	quackery	1 meaning
+e	quadrant	quadrant	1 meaning
+e	quagmire	quagmire	2 meanings
+e	quantity	quantity	1 meaning
+e	quantize	quantize	2 meanings
+e	quanzhou	quanzhou	2 meanings
+e	quatrain	quatrain	1 meaning
+e	queen bee	queenbee	1 meaning
+e	question	question	1 meaning
+e	quirinal	quirinal	1 meaning
+e	quisling	quisling	1 meaning
+e	quiz show	quizshow	1 meaning
+e	quotient	quotient	1 meaning
+e	quranism	quranism	1 meaning
+e	quranist	quranist	1 meaning
+e	quadratic	quadratic	2 meanings
+e	quadruped	quadruped	1 meaning
+e	quadruple	quadruple	2 meanings
+e	qualified	qualified	1 meaning
+e	quarterly	quarterly	2 meanings
+e	quartzite	quartzite	1 meaning
+e	quenching	quenching	1 meaning
+e	quercetin	quercetin	1 meaning
+e	querulous	querulous	1 meaning
+e	quick buck	quickbuck	1 meaning
+e	quicklime	quicklime	1 meaning
+e	quickness	quickness	1 meaning
+e	quicksand	quicksand	1 meaning
+e	quidditch	quidditch	1 meaning
+e	quinoline	quinoline	1 meaning
+e	quite a few	quiteafew	1 meaning
+e	quotation	quotation	1 meaning
+e	quotative	quotative	1 meaning
+e	quotidian	quotidian	4 meanings
+e	quadrature	quadrature	2 meanings
+e	quadruplet	quadruplet	2 meanings
+e	quantifier	quantifier	2 meanings
+e	quantum dot	quantumdot	1 meaning
+e	quarantine	quarantine	1 meaning
+e	quarter day	quarterday	1 meaning
+e	quarter-day	quarterday	1 meaning
+e	quaternary	quaternary	1 meaning
+e	quaternion	quaternion	1 meaning
+e	quebec city	quebeccity	1 meaning
+e	queensland	queensland	1 meaning
+e	quezon city	quezoncity	1 meaning
+e	quinceañera	quinceaera	1 meaning
+e	quintuplet	quintuplet	1 meaning
+e	quadrillion	quadrillion	2 meanings
+e	qualitative	qualitative	1 meaning
+e	quantum well	quantumwell	1 meaning
+e	quarterback	quarterback	1 meaning
+e	quasi-planet	quasiplanet	1 meaning
+e	queen mother	queenmother	1 meaning
+e	quicksilver	quicksilver	1 meaning
+e	quinazoline	quinazoline	1 meaning
+e	quinoxaline	quinoxaline	1 meaning
+e	quintillion	quintillion	2 meanings
+e	quaking grass	quakinggrass	1 meaning
+e	quantization	quantization	1 meaning
+e	quantum state	quantumstate	1 meaning
+e	quaquaversal	quaquaversal	2 meanings
+e	quarterfinal	quarterfinal	1 meaning
+e	quarterstaff	quarterstaff	1 meaning
+e	queen consort	queenconsort	1 meaning
+e	queenslander	queenslander	2 meanings
+e	queerbaiting	queerbaiting	1 meaning
+e	question mark	questionmark	2 meanings
+e	questionable	questionable	2 meanings
+e	quirinal hill	quirinalhill	1 meaning
+e	quadrilateral	quadrilateral	2 meanings
+e	qualification	qualification	1 meaning
+e	quality of life	qualityoflife	1 meaning
+e	quantum number	quantumnumber	1 meaning
+e	quartermaster	quartermaster	1 meaning
+e	quasiparticle	quasiparticle	1 meaning
+e	query language	querylanguage	1 meaning
+e	questionnaire	questionnaire	1 meaning
+e	quick-tempered	quicktempered	1 meaning
+e	quindecillion	quindecillion	1 meaning
+e	quality control	qualitycontrol	1 meaning
+e	quantum physics	quantumphysics	1 meaning
+e	quarantine flag	quarantineflag	1 meaning
+e	quarter-century	quartercentury	1 meaning
+e	quasi-adjective	quasiadjective	1 meaning
+e	quotation marks	quotationmarks	1 meaning
+e	quantum computer	quantumcomputer	1 meaning
+e	quarterfinalist	quarterfinalist	1 meaning
+e	quiet revolution	quietrevolution	1 meaning
+e	quality assurance	qualityassurance	1 meaning
+e	quantum mechanics	quantummechanics	1 meaning
+e	quadratic equation	quadraticequation	1 meaning
+e	quadriceps femoris	quadricepsfemoris	1 meaning
+e	qualified immunity	qualifiedimmunity	1 meaning
+e	quantitative easing	quantitativeeasing	1 meaning
+e	quantum field theory	quantumfieldtheory	1 meaning
+e	quantum entanglement	quantumentanglement	1 meaning
+e	quantum teleportation	quantumteleportation	1 meaning
+e	quantum chromodynamics	quantumchromodynamics	1 meaning
+e	quod erat demonstrandum	quoderatdemonstrandum	1 meaning
+e	quantum electrodynamics	quantumelectrodynamics	1 meaning
+e	quadrature amplitude modulation	quadratureamplitudemodulation	1 meaning

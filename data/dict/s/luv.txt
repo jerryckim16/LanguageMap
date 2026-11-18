@@ -1,0 +1,3 @@
+e	uvea	uvea	1 meaning
+e	uvula	uvula	1 meaning
+e	uveitis	uveitis	1 meaning

@@ -1,0 +1,4 @@
+e	dna	dna	1 meaning
+e	dni	dni	1 meaning
+e	dnipro	dnipro	1 meaning
+e	dún laoghaire-rathdown	dnlaoghairerathdown	1 meaning

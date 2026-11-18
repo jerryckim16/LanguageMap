@@ -1,0 +1,134 @@
+j	いい	ii	good
+j	井伊	ii	a surname
+j	依違	ii	曖昧ではっきりしない態度をとること。
+j	唯唯	ii	（丁寧な承諾の返事）はいはい。
+j	委蛇	ii	winding, meandering
+j	易易	ii	たやすいさま。簡単であるさま。
+j	逶迤	ii	まがりくねって続くこと。
+j	遺意	ii	故人の意志。遺志。
+k	이이	ii	this person
+j	いいん	iin	委員: committee member
+j	医院	iin	clinic; doctor's office
+j	委員	iin	committee member
+k	이익	iik	profit
+j	いいあう	iiau	互いに言葉を交わす。
+j	いいぞ	iizo	
+j	いいね	iine	like
+j	いいび	iibi	
+j	言い合う	iiau	say to each other, exchan…
+j	いいかえ	iikae	「いいかえる」の未然形・連用形。
+j	委員部	iinbu	
+j	いいかた	iikata	話のしかた。
+j	いいから	iikara	listen up, hey, just (use…
+j	いいきる	iikiru	言って終わる。
+j	いいぐさ	iigusa	言い方。
+j	いいずな	iizuna	天狗の麦飯の別称。
+j	いいだこ	iidako	タコ目マダコ科マダコ属に属する蛸の一種。学名:Oc…
+j	いいだす	iidasu	言葉に出して言う。
+j	いいなり	iinari	人の言うがまま。言う通り。
+j	いいはる	iiharu	to insist; to stick to on…
+j	いいよる	iiyoru	言葉を掛けながら近寄る。
+j	いいわけ	iiwake	言い訳: excuse
+j	いい人	iihito	
+j	いい鴨	iikamo	a sitting duck (obvious, …
+j	イイスス	iisusu	
+j	イイズナ	iizuna	ネコ目イタチ科イタチ属の食肉類の一種。学名:Mus…
+j	医院長	iincho	head doctor
+j	委員会	iinkai	committee
+j	委員長	iincho	committee chairman
+j	言い出す	iidasu	speak out, broach, bring …
+j	言い切る	iikiru	declare, assert
+j	言い寄る	iiyoru	
+j	言い張る	iiharu	
+j	言い方	iikata	way of saying something; …
+j	言い訳	iiwake	excuse
+j	飯倉	iikura	a surname
+k	이이하다	iihada	
+j	いいあてる	iiateru	推量で言ったことがずばりと当たる。
+j	いいあらそう	iiaraso	言葉で争う。口論する。
+j	いいおとす	iiotosu	言うべきことを言い忘れる。
+j	いいおよぶ	iioyobu	to refer to, to mention
+j	いいかえす	iikaesu	言われたことに言葉を返す。
+j	いいかえる	iikaeru	同じ内容を別の言葉で表す。
+j	いいつけ	iitsuke	「いいつける」の未然形及び連用形。
+j	いいとし	iitoshi	used to reproach someone …
+j	いいびつ	iibitsu	炊いた飯を入れておく木製の器。
+j	いい加減	iikagen	sufficient, completely su…
+j	イーコール	iikooru	
+j	伊伊辞典	iijiten	イタリア語の語句をイタリア語で定義した辞典を、イタ…
+j	言い付け	iitsuke	instructions, orders, com…
+j	言い当てる	iiateru	
+j	言い換える	iikaeru	say in other words, rephr…
+j	言い返す	iikaesu	to answer back; to respond
+j	言い難い	iigatai	hard to say, inexpressibl…
+j	いいあらそい	iiarasoi	言葉で争うこと。口論。
+j	いいがかり	iigakari	（「言いがかり上」などの形で）言い出した後で、引く…
+j	いいたてる	iitateru	一つ一つ取り上げて言う。
+j	いいつたえ	iitsutae	昔から人々の口から口へ伝えられてきたこと。また、そ…
+j	いいなずけ	iinazuke	両方の親が幼い子同士の婚約を結ぶこと。またその子女。
+j	いいのがれ	iinogare	言い逃れること。また、その言葉。
+j	いいのこす	iinokosu	to say (something) as one…
+j	いいひらき	iihiraki	言い開くこと。申し開き。弁明。
+j	いいひらく	iihiraku	疑いを晴らすため事情や理由を説明する。
+j	いいふらす	iifurasu	多くの人に言って広める。吹聴する。
+j	いいまかす	iimakasu	口頭の論争などで相手に勝る。論破する。
+j	いいまわす	iimawasu	言葉巧みに言う。
+j	いいもらす	iimorasu	他人に秘密を漏らす。
+j	いいわたす	iiwatasu	上位のものから下位の者へ決定事項や指示などを伝える。
+j	いい子ちゃん	iikochan	goody two shoes
+j	言いがかり	iigakari	
+j	言い争い	iiarasoi	
+j	言い争う	iiarasou	altercate, quarrel, squab…
+j	言い伝え	iitsutae	legend
+j	言い回す	iimawasu	to express skillfully; to…
+j	言い掛かり	iigakari	accusation (the act of ac…
+j	言い立てる	iitateru	state, declare, assert
+j	言い触らす	iifurasu	spread lies, rumors, etc
+j	言い逃れ	iinogare	evasion, excuse
+j	言い違い	iichigai	
+j	言い開く	iihiraku	
+j	許婚	iinazuke	an arranged engagement, w…
+j	許嫁	iinazuke	to arrange an engagement,…
+k	이인칭	iinching	second person
+j	いいあらわす	iiarawasu	言葉で表現する。
+j	いいしぶる	iishiburu	言うのを躊躇う。はっきり言うのを渋る。
+j	いいたがえる	iitagaeru	言い違いをする。思っていたり事実を間違えて言う。い…
+j	いいつける	iitsukeru	命令する。
+j	いいはなつ	iihanatsu	to declare
+j	いいまわし	iimawashi	物の言い方。
+j	言いつける	iitsukeru	to tell to do, to give a …
+j	言い回し	iimawashi	way of expression; manner…
+j	言い換えれば	iikaereba	
+j	言い損ない	iisokonai	
+j	言い知れぬ	iishirenu	
+k	이인삼각	iinsamgak	
+j	いいきかせる	iikikaseru	よく解るように教えて諭す。
+j	いいくるめる	iikurumeru	to convincingly lie
+j	いいそびれる	iisobireru	言おと思っていたが言う機会を失う。
+j	いいだしっぺ	iidashippe	（最初に臭いと言ったものが屁をした本人であることが…
+j	いいちがえる	iichigaeru	言い違いをする。思っていたり事実を間違えて言う。い…
+j	いいつたえる	iitsutaeru	後世まで語り継ぐ。
+j	いいならわす	iinarawasu	昔から世間の慣習として言う。
+j	いいのがれる	iinogareru	上手く口実を作るなどして罪や責任を回避する。
+j	いいひろめる	iihiromeru	広く言い触らす。宣伝する。
+j	いいまちがい	iimachigai	間違ったことを言うこと。
+j	唯唯諾諾	iidakudaku	being a subservient yes-m…
+j	言いそびれる	iisobireru	to miss the chance to say…
+j	言いたい放題	iitaihodai	saying as much as one wan…
+j	言い出しっ屁	iidashippe	initiator; the first to b…
+j	言い聞かせる	iikikaseru	persuade, instruct
+j	言い訳する	iiwakesuru	
+j	言い逃れる	iinogareru	evade, dodge with excuses…
+j	言い間違い	iimachigai	
+j	いいと思います	iitoomoimas	
+j	いいならわし	iinarawashi	「いいならわす」の連用形。
+j	言い訳をする	iiwakeosuru	
+j	良い一日を	iiichinichio	Have a nice day!
+j	言いなりになる	iinarininaru	
+j	言い表わせない	iiarawasenai	
+j	いいぞもっとやれ	iizomottoyare	moar
+k	이인칭 단수	iinchingdansu	
+k	이인칭 복수	iinchingboksu	
+j	いいお天気ですね	iiotenkidesune	
+j	イイスス・ハリストス	iisusuharisutosu	
+k	이인용 자전거	iinyongjajeongeo	

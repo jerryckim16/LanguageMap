@@ -1,0 +1,95 @@
+k	퇴	퇴	
+k	퇴각	퇴각	retreat, withdrawal
+k	퇴거	퇴거	
+k	퇴고	퇴고	글을 지으면서 또는 이미 쓴 글을 문법, 맞춤…
+k	퇴교	퇴교	
+k	퇴궐	퇴궐	
+k	퇴근	퇴근	leaving work, finishing w…
+k	퇴기	퇴기	
+k	퇴끼	퇴끼	'토끼'의 전라도 사투리.
+k	퇴락	퇴락	
+k	퇴로	퇴로	
+k	퇴리	퇴리	
+k	퇴물	퇴물	
+k	퇴보	퇴보	
+k	퇴비	퇴비	compost
+k	퇴사	퇴사	
+k	퇴산	퇴산	
+k	퇴상	퇴상	
+k	퇴색	퇴색	
+k	퇴속	퇴속	
+k	퇴실	퇴실	
+k	퇴역	퇴역	
+k	퇴영	퇴영	
+k	퇴원	퇴원	
+k	퇴위	퇴위	abdication
+k	퇴임	퇴임	
+k	퇴장	퇴장	
+k	퇴적	퇴적	accumulation
+k	퇴정	퇴정	
+k	퇴조	퇴조	
+k	퇴주	퇴주	
+k	퇴직	퇴직	retirement
+k	퇴진	퇴진	decampment, resignation, …
+k	퇴청	퇴청	
+k	퇴출	퇴출	물러나서 나감.
+k	퇴치	퇴치	
+k	퇴폐	퇴폐	degeneration; decadence
+k	퇴학	퇴학	withdrawing from school
+k	퇴행	퇴행	
+k	퇴화	퇴화	
+k	툇간	툇간	
+k	퇴기다	퇴기다	
+k	퇴물림	퇴물림	
+k	퇴석층	퇴석층	
+k	퇴영적	퇴영적	
+k	퇴장표	퇴장표	red card
+k	퇴적물	퇴적물	sediment, deposit
+k	퇴적암	퇴적암	
+k	퇴적장	퇴적장	
+k	퇴적층	퇴적층	
+k	퇴주잔	퇴주잔	
+k	퇴직금	퇴직금	severance pay
+k	퇴직자	퇴직자	
+k	퇴폐적	퇴폐적	
+k	퇴하다	퇴하다	
+k	퇴학생	퇴학생	
+k	퇴행기	퇴행기	
+k	툇마루	툇마루	툇간에 놓은 마루.
+k	퇴각하다	퇴각하다	to retreat, to withdraw
+k	퇴거하다	퇴거하다	
+k	퇴고하다	퇴고하다	
+k	퇴교하다	퇴교하다	
+k	퇴궐하다	퇴궐하다	
+k	퇴근하다	퇴근하다	to leave work, to finish …
+k	퇴락하다	퇴락하다	
+k	퇴보하다	퇴보하다	
+k	퇴색되다	퇴색되다	
+k	퇴색하다	퇴색하다	
+k	퇴실하다	퇴실하다	
+k	퇴역하다	퇴역하다	
+k	퇴원하다	퇴원하다	
+k	퇴임하다	퇴임하다	
+k	퇴장하다	퇴장하다	
+k	퇴적되다	퇴적되다	
+k	퇴적작용	퇴적작용	
+k	퇴적평야	퇴적평야	
+k	퇴정하다	퇴정하다	
+k	퇴조하다	퇴조하다	
+k	퇴직수당	퇴직수당	
+k	퇴직연금	퇴직연금	
+k	퇴직하다	퇴직하다	to retire (from office); …
+k	퇴진하다	퇴진하다	군대의 진지를 뒤로 물리다.
+k	퇴청하다	퇴청하다	
+k	퇴출하다	퇴출하다	물러나서 나가다.
+k	퇴치되다	퇴치되다	
+k	퇴치하다	퇴치하다	
+k	퇴폐문학	퇴폐문학	
+k	퇴폐주의	퇴폐주의	
+k	퇴폐하다	퇴폐하다	
+k	퇴학하다	퇴학하다	
+k	퇴행하다	퇴행하다	
+k	퇴화되다	퇴화되다	
+k	퇴화하다	퇴화하다	
+k	퇴거시키다	퇴거시키다	
+k	퇴역 군인	퇴역 군인	

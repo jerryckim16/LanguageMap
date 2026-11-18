@@ -1,0 +1,3 @@
+e	bmw	bmw	1 meaning
+e	b major	bmajor	1 meaning
+e	b minor	bminor	1 meaning

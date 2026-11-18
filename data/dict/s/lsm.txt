@@ -1,0 +1,74 @@
+e	sms	sms	1 meaning
+e	smew	smew	1 meaning
+e	smog	smog	1 meaning
+e	smug	smug	1 meaning
+e	smut	smut	1 meaning
+e	s'more	smore	1 meaning
+e	small	small	2 meanings
+e	smart	smart	4 meanings
+e	smash	smash	1 meaning
+e	smear	smear	1 meaning
+e	smell	smell	4 meanings
+e	smelt	smelt	1 meaning
+e	smerd	smerd	1 meaning
+e	smile	smile	2 meanings
+e	smith	smith	3 meanings
+e	smock	smock	2 meanings
+e	smoke	smoke	7 meanings
+e	smurf	smurf	1 meaning
+e	smarmy	smarmy	1 meaning
+e	smegma	smegma	1 meaning
+e	smelly	smelly	1 meaning
+e	smersh	smersh	1 meaning
+e	smiley	smiley	1 meaning
+e	smoked	smoked	1 meaning
+e	smoker	smoker	1 meaning
+e	smooth	smooth	2 meanings
+e	smyrna	smyrna	1 meaning
+e	smegger	smegger	1 meaning
+e	smelter	smelter	3 meanings
+e	smetana	smetana	1 meaning
+e	smidgen	smidgen	1 meaning
+e	smitten	smitten	1 meaning
+e	smoking	smoking	1 meaning
+e	smolder	smolder	1 meaning
+e	smombie	smombie	1 meaning
+e	smuggle	smuggle	1 meaning
+e	small fry	smallfry	2 meanings
+e	smallpox	smallpox	1 meaning
+e	smartass	smartass	1 meaning
+e	smelting	smelting	1 meaning
+e	smishing	smishing	1 meaning
+e	smolensk	smolensk	1 meaning
+e	smoothie	smoothie	1 meaning
+e	smuggler	smuggler	2 meanings
+e	small arms	smallarms	1 meaning
+e	small talk	smalltalk	1 meaning
+e	smart city	smartcity	1 meaning
+e	smuggling	smuggling	1 meaning
+e	small white	smallwhite	1 meaning
+e	small-scale	smallscale	1 meaning
+e	smallsword	smallsword	1 meaning
+e	smart meter	smartmeter	1 meaning
+e	smartphone	smartphone	1 meaning
+e	smartwatch	smartwatch	1 meaning
+e	smattering	smattering	2 meanings
+e	smell-brain	smellbrain	1 meaning
+e	smoking car	smokingcar	1 meaning
+e	small change	smallchange	1 meaning
+e	smarty pants	smartypants	1 meaning
+e	smithereens	smithereens	1 meaning
+e	smithsonite	smithsonite	1 meaning
+e	smokescreen	smokescreen	2 meanings
+e	smoking room	smokingroom	1 meaning
+e	smorgasbord	smorgasbord	1 meaning
+e	small breasts	smallbreasts	1 meaning
+e	smith machine	smithmachine	1 meaning
+e	smoke grenade	smokegrenade	1 meaning
+e	smoked salmon	smokedsalmon	1 meaning
+e	smoke detector	smokedetector	1 meaning
+e	smooth sailing	smoothsailing	1 meaning
+e	small intestine	smallintestine	1 meaning
+e	small carpetgrass	smallcarpetgrass	1 meaning
+e	smartphone zombie	smartphonezombie	1 meaning
+e	small tortoiseshell	smalltortoiseshell	1 meaning

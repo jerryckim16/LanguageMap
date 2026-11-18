@@ -1,0 +1,734 @@
+e	os	os	1 meaning
+e	osh	osh	1 meaning
+j	おうせ	ose	会う機会。愛し合う男女が秘密に出会うこと。
+j	おおせ	ose	command
+j	おさ	osa	組織の首長。かしら。
+j	おす	osu	polite equivalent of ある (…
+j	おそ	oso	遅いこと。時間がかかること。また、遅れること。
+j	おそう	oso	不意に攻めかかる、襲撃する。交合を強いる。
+j	オス	osu	「雄」の学術的表記。
+j	オーサー	osa	（ある文章や作品の）著者、作者。
+j	応作	osa	「応化」に同じ。
+j	押す	osu	to push, to thrust, to sh…
+j	押送	oso	「護送」に同じ。
+j	推す	osu	to conclude
+j	汚装	oso	shabby get-up
+j	牡	osu	
+j	王佐	osa	王を補佐すること。
+j	筬	osa	reed
+j	逢瀬	ose	tryst
+j	遅	oso	slowness, tardiness
+j	食す	osu	to rule or govern
+k	오수	osu	더러운 물.
+k	오시	osi	
+e	-osis	osis	1 meaning
+e	oslo	oslo	1 meaning
+j	おうし	oshi	おすのうし。
+j	おうせい	osei	
+j	おおし	oshi	
+j	おさえ	osae	「おさえる」の未然形及び連用形。
+j	おさん	osan	台所で働く下女。
+j	おし	oshi	押し: pushing
+j	おせん	osen	
+j	おそい	osoi	遅い, 鈍い: slow, late (as in…
+j	おっす	ossu	hey, hello
+j	お産	osan	子を孕むこと。
+j	オシ	oshi	
+j	和尚	osho	a Buddhist priest who is …
+j	多し	oshi	many; numerous
+j	央州	oshu	Oregon (a state of the Un…
+j	奥州	oshu	陸奥国^(（むつのくに）)の別称。
+j	往歳	osai	once, former, yesteryear
+j	応召	osho	conscription, draft
+j	応唱	osho	カトリック教会の礼拝やミサで司祭などの朗詠に応じて…
+j	応射	osha	相手からの射撃に対応して射つこと。
+j	応戦	osen	military response
+j	応手	oshu	相手が打った手に応じて打つ手。
+j	応酬	oshu	retort, angry response
+j	押さえ	osae	holding back
+j	押収	oshu	seizure, confiscation
+j	押忍	ossu	hey, yo!
+j	押紙	oshi	疑問や注意事項を書いた紙片の裏側全面に糊をつけ、書…
+j	推し	oshi	one’s favorite idol or ch…
+j	旺盛	osei	flourishing
+j	晩い	osoi	
+j	枉死	oshi	冤罪をかけられて死ぬこと。冤死。
+j	横恣	oshi	勝手気ままなさま。
+j	横斜	osha	斜めになること。傾くこと。
+j	横災	osai	unexpected disaster
+j	横生	osei	溢れ出ること。
+j	横線	osen	横方向に引いた線。
+j	欧州	oshu	Europe (a continent locat…
+j	欧洲	oshu	（欧羅巴洲の略）ヨーロッパ、欧州。
+j	殃災	osai	災難。災い。
+j	汚損	oson	staining; soiling; damagi…
+j	汚染	osen	pollution; contamination
+j	汚水	osui	sewage
+j	王孫	oson	a descendant of a king; a…
+j	王将	osho	a king-general (one of tw…
+j	王師	oshi	君主の軍勢。官軍。
+j	王政	osei	monarchy; monarchic gover…
+j	王水	osui	aqua regia
+j	王種	oshu	帝王となる血統や種族。
+j	襲う	osou	to attack, to assault
+j	遅い	osoi	
+j	鞅掌	osho	いそがしく働くこと。つかさどること。
+j	鴛鴦	oshi	older name of the 鴛鴦(おしどり…
+j	黄水	osui	胃から吐き戻す黄色い液。
+j	黄精	osei	synonym of 鳴子百合 (naruko y…
+j	黄紙	oshi	防虫のため黄檗で黄色に染めた紙。
+k	오산	osan	중국에 있는 다섯 개의 명산. 화산(華山), …
+k	오살	osal	
+k	오식	osik	
+k	오심	osim	nausea
+k	오십	osip	fifty
+e	osaka	osaka	1 meaning
+e	oscar	oscar	1 meaning
+e	osona	osona	1 meaning
+j	おおさか	osaka	
+j	おおさじ	osaji	大型の匙。
+j	おおしい	oshii	男らしく勇ましい。
+j	おおしお	oshio	潮の干満の差が最大となること。
+j	おおすけ	osuke	平安時代以後、国司の守、権守、介が荘園に関する文書…
+j	おおすじ	osuji	物事の粗筋。
+j	おおそで	osode	律令制で礼服の上に着る衣服で袖口が広く、袂が長いも…
+j	おさか	osaka	忍坂:: Osaka (a historical …
+j	おさけ	osake	「さけ（酒）」の丁寧語。
+j	おさと	osato	「さと」を丁寧に言う語。
+j	おさふ	osafu	
+j	おさむ	osamu	修, 収, 宰, 摂, 治, 理, 納, 道: a…
+j	おさら	osara	「さら」の丁寧語。
+j	おしい	oshii	あたってはいないが、ほぼそれに近い。基準や目標にわ…
+j	おしえ	oshie	「おしえる」の未然形。
+j	おそうじ	osoji	おそうし。
+j	おそく	osoku	「おそい」の連用形。
+j	おそそ	ososo	female genitalia; vagina
+j	おそで	osode	（家などを）いつもより遅く出ること。勤務先にいつも…
+j	おそめ	osome	later than expected or us…
+j	おそれ	osore	恐れること。恐怖。
+j	おそろ	osoro	
+j	おっさん	ossan	middle-aged man
+j	お世話	osewa	care, looking after, help…
+j	お世辞	oseji	flattery
+j	お皿	osara	synonym of 皿 (sara, “plat…
+j	お酒	osake	alcohol, sake
+j	オスカー	osuka	synonym of アカデミー賞 (Akadem…
+j	オスロ	osuro	Oslo (the capital city of…
+j	オセロ	osero	Othello, reversi
+j	オッサン	ossan	おっさん: uncle; middle-aged …
+j	オーシャン	oshan	ocean
+j	修	osamu	a male given name
+j	収	osamu	a male given name
+j	嗚惻	osoku	泣き、悲しむこと。
+j	大さじ	osaji	
+j	大匙	osaji	tablespoon
+j	大坂	osaka	a surname
+j	大崎	osaki	Ōsaki (a city in Miyagi P…
+j	大掃除	osoji	general cleaning (especia…
+j	大杉	osugi	a surname
+j	大沢	osawa	a surname
+j	大筋	osuji	outline; gist; summary
+j	大迫	osako	a surname
+j	大阪	osaka	a surname
+j	大隅	osumi	Ōsumi Province, an old pr…
+j	小坂	osaka	Osaka
+j	往診	oshin	house call (visit by a me…
+j	御下げ	osage	pigtails worn over the sh…
+j	御世辞	oseji	人を喜ばせるために実態以上によく言うほめことば。世…
+j	御掃除	osoji	「掃除」の丁寧語。
+j	怖る	osoru	
+j	怖れ	osore	
+j	恐る	osoru	
+j	恐れ	osore	恐れ, 怖れ: fear, horror, une…
+j	悪心	oshin	nausea
+j	惜しい	oshii	unfortunate, regrettable
+j	懼れ	osore	
+j	摂	osamu	a male given name
+j	收む	osamu	to dedicate; to make an o…
+j	教え	oshie	
+j	果せる	oseru	to succeed in doing
+j	汚疹	oshin	膿疱や潰瘍などが蛎殻のようなかさぶた状になったもの。
+j	治	osamu	a male given name
+j	治む	osamu	
+j	淤塞	osoku	泥で塞がること。
+j	王様	osama	king
+j	畏れ	osore	
+j	納	osamu	a male given name
+j	脩	osamu	a male given name
+j	致勲	osamu	a male given name
+j	逢坂	osaka	the western area of Ōtsu,…
+j	遅く	osoku	late
+j	遅さ	ososa	
+j	長田	osada	a surname
+j	鶯唇	oshin	鶯の唇。また、鶯の鳴き声。鶯舌。
+k	오사리	osari	seafood caught during hig…
+k	오사카	osaka	Osaka (a city in Honshū, …
+k	오색	osaek	the five colors (blue, ye…
+k	오석	oseok	비석이나 벼루등에 사용하는 검은 암석.
+k	오소리	osori	badger
+k	오소소	ososo	
+k	오시키	osiki	
+k	오십오	osibo	54보다 크고 56보다 작은 수
+k	오십이	osibi	
+k	오싹	ossak	몹시 무섭거나 추워서 갑자기 몸이 움츠러들거나…
+k	오쓰	osseu	
+e	oshawa	oshawa	1 meaning
+e	osijek	osijek	1 meaning
+e	osiris	osiris	1 meaning
+e	osmium	osmium	1 meaning
+e	osprey	osprey	1 meaning
+e	ostend	ostend	1 meaning
+e	ōshima	oshima	1 meaning
+j	おおしけ	oshike	暴風雨で海がひどく荒れて、不漁になること。
+j	おおしさ	oshisa	おおしいこと。
+j	おおしま	oshima	大きい島。おおじま。
+j	おおしも	oshimo	たくさん降りる霜。その降りた状態。
+j	おさえる	osaeru	動かないように力を加えて止める。
+j	おさない	osanai	年齢（生活年齢）が低いこと。
+j	おさらい	osarai	review
+j	おしあう	oshiau	互いに押す。
+j	おしき	oshiki	檜の材を薄く矧いだ板を使い、縁のついた四角い盆。
+j	おしげ	oshige	物惜しみをする様子。
+j	おしね	oshine	通常より生長や成熟するのが遅い稲。おくて。
+j	おしば	oshiba	草木の葉などを厚めの書籍や厚く重ねた新聞紙などの間…
+j	おしべ	oshibe	stamen
+j	おしむ	oshimu	捨て難く思う。名残惜しく思う。
+j	おしめ	oshime	乳児などの臀部にあて、大小便を受けたりする布や紙。
+j	おしゃれ	oshare	気の利いた服装や化粧で身を飾ろうと、心掛けること。…
+j	おしり	oshiri	「しり」の丁寧語。臀部。
+j	おしろ	oshiro	御城, お城: honorific form of…
+j	おすいぬ	osuinu	雄の犬
+j	おせっせ	osesse	sex
+j	おそあき	osoaki	秋の末。晩秋。
+j	おそうし	ososhi	歩みの遅い牛。
+j	おそがい	osogai	（方言、東海地方）怖い。恐ろしい。
+j	おそなえ	osonae	「そなえ」を丁寧に言う語。特に供物。
+j	おそろい	osoroi	together
+j	お住まい	osumai	
+j	お城	oshiro	
+j	お尻	oshiri	buttocks
+j	お札	osatsu	「札」を丁寧に言う語。紙幣。
+j	お洒落	oshare	stylish, smart, fashionab…
+j	お節	osechi	food served during the Ne…
+j	お釈迦	oshaka	poorly made article; defe…
+j	をして	oshite	indicates the patient of …
+j	オサゾン	osazon	osazone
+j	オシャワ	oshawa	
+j	オスマン	osuman	Ottoman
+j	オースティン	osutin	Austin (the capital of Te…
+j	唖の	oshino	
+j	大下	oshita	a surname
+j	大城	oshiro	a surname
+j	大島	oshima	large island
+j	大嶋	oshima	a surname
+j	大嶌	oshima	a surname
+j	大時化	oshike	stormy weather at sea
+j	小山内	osanai	a surname
+j	幼い	osanai	immature; foolish
+j	御三時	osanji	afternoon refreshment (at…
+j	御惣菜	osozai	「惣菜」を丁寧に言う語。御総菜。
+j	御湿	oshime	diaper
+j	御節	osechi	正月や節句の際に供される縁起を担ぐ食材を使用した料…
+j	御総菜	osozai	「総菜」を丁寧に言う語。
+j	御職	oshoku	江戸時代、同類の中で頭に立つ者。
+j	御釈迦	oshaka	「釈迦」に対する敬称。
+j	忍坂	ossaka	Ossaka (a historical name…
+j	応接	osetsu	reception of guests
+j	惜しむ	oshimu	be stingy, be frugal
+j	抑える	osaeru	to hold back, to suppress…
+j	押さえる	osaeru	
+j	押し合う	oshiau	push one another, jostle
+j	押し屋	oshiya	commuter train packer, "t…
+j	欧州の	oshuno	
+j	欧州化	oshuka	
+j	殴殺	osatsu	殴り殺すこと。
+j	汚職	oshoku	corruption
+j	王笏	oshaku	sceptre
+j	王舍城	oshajo	Rajgir (a historical town…
+j	褓	oshime	diaper
+j	遅番	osoban	late shift, second shift
+j	鏖殺	osatsu	人を皆殺しにすること。
+k	오사까	osakka	Osaka (a city in Honshū, …
+k	오사존	osajon	osazone
+k	오샤와	osyawa	
+k	오성	oseong	
+k	오스카	oseuka	
+k	오십구	osipgu	
+k	오십사	osipsa	
+k	오십일	osibil	
+e	osazone	osazone	1 meaning
+e	oshinko	oshinko	1 meaning
+e	osmosis	osmosis	1 meaning
+e	ossetia	ossetia	1 meaning
+e	ossuary	ossuary	1 meaning
+e	ostrava	ostrava	1 meaning
+e	ostrich	ostrich	1 meaning
+j	おおさそり	osasori	うみさそりの別名。
+j	おおさわぎ	osawagi	大きく騒ぎ立てること。大騒動。
+j	おさかな	osakana	「魚」を丁寧に言う語。
+j	おさがに	osagani	スナガニ科の一種。長い眼柄と横長の甲羅をもつ。オス…
+j	おさがり	osagari	hand-me-down
+j	おさなおい	osanaoi	幼い時分の成長の様子。
+j	おさなご	osanago	幼い子供。幼児。
+j	おさまり	osamari	「おさまる」の連用形。
+j	おさまる	osamaru	平和な状態を保つ。
+j	おさめや	osameya	市場へ出向き代行で食材を仕入れ、飲食店などへ納品す…
+j	おさめる	osameru	（河川や世の中などを）秩序ある状態にする。また、そ…
+j	おさらば	osaraba	さらばに助詞のおをつけた形。格式ばっていない別れの…
+j	おさわり	osawari	
+j	おさんどん	osandon	台所で働く下女。
+j	おしいる	oshiiru	to force one's way in
+j	おしいれ	oshiire	主に和室で寝具や家財などをいれる場所。
+j	おしいろ	oshiiro	color that is associated …
+j	おしうり	oshiuri	買う意思のない相手に対し強引に物を売り付けること。…
+j	おしえご	oshiego	student, pupil, disciple …
+j	おしえる	oshieru	知識・技術を説明し、身に付けさせる。
+j	おしおき	oshioki	懲らしめ。懲罰。
+j	おしっこ	oshikko	pee, wee (urine)
+j	おしへん	oshihen	shifting loyalty to a dif…
+j	おしまい	oshimai	the end of something
+j	おしろい	oshiroi	白粉: face powder, makeup
+j	おしジャン	oshijan	jumping up and down at a …
+j	おすすめ	osusume	recommended item, recomme…
+j	おすねこ	osuneko	雄の猫
+j	おせっかい	osekkai	
+j	おそうまれ	osomare	4月2日から12月31日までに生まれた人。早生まれ…
+j	おそざき	osozaki	普通の開花期よりも遅く咲くこと。また、その花。
+j	おそじも	osojimo	late out-of-season frost
+j	おそらく	osoraku	高い可能性や蓋然性をもって推定されることであるが。
+j	おそれおおい	osoreoi	身分の高い人に対して失礼になりそうで申し訳ない。
+j	おそれげ	osorege	恐れている様子。主に「おそれげもなく」の形で用いら…
+j	おそれる	osoreru	恐れる, 怖れる, 懼れる, 惧れる: to fe…
+j	おそわる	osowaru	人から知識・技術など、身に付けるべきことを説明・指…
+j	おっしゃる	ossharu	to say (honorific for 言う)
+j	お下がり	osagari	
+j	お仕置き	oshioki	a penalty, a punishment, …
+j	お小水	oshosui	
+j	お座り	osuwari	command used to tell a do…
+j	お新香	oshinko	pickled vegetables
+j	お節介	osekkai	nosy; meddlesome
+j	オサガニ	osagani	おさがにの学術的表記。
+j	オサガメ	osagame	カメ目オサガメ科に属するウミガメの一種。学名は D…
+j	オシエク	oshieku	
+j	オシッコ	oshikko	おしっこ
+j	オシャンティー	oshanti	
+j	オスガキ	osugaki	slutty brat boy; a young …
+j	オセアニア	oseania	Oceania (a continental re…
+j	オセチア	osechia	
+j	オーストリー	osutori	Austria (a country in Cen…
+j	オーソシエ	ososhie	木星の第35衛星の固有名。
+j	オーソリティ	osoriti	権威。権力。
+j	オーソリティー	osoriti	authority
+j	修まる	osamaru	to improve; to become bet…
+j	修める	osameru	learn thoroughly, master
+j	収まり	osamari	conclusion, end, settleme…
+j	収まる	osamaru	be put in place, be put b…
+j	収める	osameru	to dedicate; to make an o…
+j	多すぎる	osugiru	
+j	大潮差	oshiosa	spring range
+j	大阪府	osakafu	a prefecture in the 近畿 (K…
+j	大騒ぎ	osawagi	uproar, brouhaha
+j	幼子	osanago	infant, young child
+j	応召兵	oshohei	draftee, conscript
+j	応召者	oshosha	draftee, conscript
+j	恐らく	osoraku	probably, in all likeliho…
+j	恐れる	osoreru	
+j	押しピン	oshipin	synonym of 画鋲 (gabyō, “th…
+j	押入	oshiire	
+j	押入れ	oshiire	closet
+j	拗執	oshitsu	自分の考えを頑固に主張すること。頑ななこと。また、…
+j	推しメン	oshimen	favorite member; bias
+j	推し入れ	oshiire	folding case for storing …
+j	教える	oshieru	to inform, to teach, to i…
+j	教え子	oshiego	
+j	教わる	osowaru	to be taught
+j	欧州人	oshujin	ヨーロッパ人。
+j	汚染水	osensui	polluted water
+j	汚染者	osensha	
+j	治まる	osamaru	to cease; to calm down (o…
+j	治める	osameru	to dominate, to rule, to …
+j	牡熊	osuguma	male bear
+j	牡虎	osutora	male tiger
+j	牡驢馬	osuroba	
+j	王室	oshitsu	royal family
+j	畏れる	osoreru	
+j	白粉	oshiroi	powder, face powder, whit…
+j	納まる	osamaru	
+j	統仁	osahito	a male given name
+j	遅レス	osoresu	電子メールや電子掲示板などで、かなり時間が経ってか…
+j	遅咲き	osozaki	late bloomer
+j	長亀	osagame	a leatherback sea turtle
+j	阿西亜尼亜	oseania	オセアニアの漢字表記。
+j	雄ブタ	osubuta	
+j	雄ロバ	osuroba	
+j	雄猫	osuneko	a male cat; a tomcat
+j	雄豚	osubuta	
+j	雄驢馬	osuroba	
+j	鴛海	oshiumi	a surname
+j	鴨跖草	osekiso	synonym of 露草 (tsuyukusa,…
+k	오색기	osaekgi	a flag of five color
+k	오세아니아	oseania	Oceania (a continental re…
+k	오세안주	oseanju	
+k	오세티야	osetiya	
+k	오소부코	osobuko	
+k	오솔길	osolgil	path, trail
+k	오스만	oseuman	Ottoman
+k	오스스	oseuseu	차거나 싫은 것이 몸에 닿았을 때 꽤 소름이 …
+k	오스틴	oseutin	[~시(市)] Austin (The capit…
+k	오슬로	oseullo	Oslo (the capital of Norw…
+k	오십삼	osipsam	
+k	오십육	osibyuk	
+k	오십팔	osippal	
+e	ossetian	ossetian	2 meanings
+e	osso buco	ossobuco	1 meaning
+e	osteitis	osteitis	1 meaning
+e	ostracod	ostracod	1 meaning
+j	おさえこむ	osaekomu	相手を押さえ付けて動けないようにする。
+j	おさながお	osanagao	young face
+j	おさむし	osamushi	コウチュウ目オサムシ科オサムシ亜科に属する甲虫の総称
+j	おしあらい	oshiarai	洗い物を揉まずに、掌で押す手洗いの方法。
+j	おしがみ	oshigami	疑問や注意事項を書いた紙片の裏側全面に糊をつけ、書…
+j	おしきる	oshikiru	押し付けるように切る。
+j	おしこむ	oshikomu	押すようにして詰め込む。
+j	おしごと	oshigoto	activity in support of on…
+j	おしさか	oshisaka	忍坂: Oshisaka (a historica…
+j	おしだす	oshidasu	大勢で出掛ける。
+j	おしとおす	oshitosu	無理に通す。
+j	おしどり	oshidori	夫婦などのいつも一緒にいる仲の良い男女。
+j	おしなみ	oshinami	一面になびかせて
+j	おしのび	oshinobi	discreet, hiding one's id…
+j	おしばな	oshibana	草木の花を厚めの書籍や厚く重ねた新聞紙などの間に押…
+j	おしぼり	oshibori	手などを拭くための、拭いてもびしょびしょにならない…
+j	おしもの	oshimono	食べる物。食べ物。
+j	おしゃぶり	oshaburi	a pacifier; a dummy
+j	おしゃべり	oshaberi	idle chatter
+j	おしゃれぎ	osharegi	fancy / stylish clothing
+j	おしらせ	oshirase	「しらせ」を丁寧に言ったもの。
+j	おしるこ	oshiruko	「汁粉」を丁寧に言う語。
+j	おしカプ	oshikapu	ship
+j	おしグル	oshiguru	
+j	おすいだめ	osuidame	cesspool
+j	おすまし	osumashi	「すまし」を丁寧に言う語。
+j	おそれいる	osoreiru	恐縮する。申し訳なく思う。
+j	お世辞を言う	osejioiu	
+j	お相撲さん	osumosan	sumo, rikishi, unofficial…
+j	お知らせ	oshirase	notice, notification, news
+j	オシドリ	oshidori	鳥綱カモ目カモ科オシドリ属の一種。学名:Aix g…
+j	オシリス	oshirisu	Osiris (the Egyptian god …
+j	オスマン語	osumango	Ottoman Turkish
+j	オスミウム	osumiumu	osmium, Os
+j	オセット語	osettogo	ロシアの北オセチア共和国などで話されている、インド…
+j	オセロット	oserotto	an ocelot
+j	オッソブーコ	ossobuko	
+j	オッソ・ブーコ	ossobuko	
+j	オーシャンビュー	oshanbyu	ホテルや住宅の部屋から眺める海の風景。また、そのよ…
+j	オーストリア	osutoria	Austria (a country in Cen…
+j	オーソライズ	osoraizu	正式にと認めること。権威を与えること。
+j	唖蝉	oshizemi	voiceless cicada, i.e. a …
+j	墺国	osutoria	オーストリアの日本語による漢字表記。
+j	墺太利	osutoria	オーストリアの当て字。オーストリアを参照。墺地利。
+j	大阪市	osakashi	大阪府の府庁所在地。政令指定都市の一つ。
+j	大阪弁	osakaben	大阪地方で話されている日本語の方言。
+j	大阪湾	osakawan	大阪府、兵庫県に囲まれた瀬戸内海東端の海域。
+j	御粗末	osomatsu	あまり上等でないことを謙遜、ひやかしなどを込めて言…
+j	御絞り	oshibori	moist hand towel
+j	応接間	osetsuma	guest room
+j	恐れない	osorenai	
+j	恐れ入る	osoreiru	be sorry (to trouble you)
+j	押え込む	osaekomu	
+j	押し出す	oshidasu	to push out (to eject, et…
+j	押し切る	oshikiru	to overcome (opposition),…
+j	押し花	oshibana	pressed flower
+j	押し込む	oshikomu	to push into; to cram into
+j	汚職の	oshokuno	
+j	王政ローマ	oseiroma	紀元前753年にロムルスが建国した王国。紀元前50…
+j	雄ガチョウ	osugacho	
+j	雄兎	osuusagi	A male rabbit.
+j	雄狼	osuokami	male wolf
+k	오사되다	osadoeda	
+k	오삭오삭	osagosak	
+k	오삼춘	osamchun	
+k	오솔하다	osolhada	사방이 무서울 만큼 고요하고 쓸쓸하다.
+k	오스뮴	oseumyum	osmium
+k	오시리스	osiriseu	
+k	오시타니아	ositania	
+k	오십칠	osipchil	
+e	oscillate	oscillate	1 meaning
+e	osmanthus	osmanthus	1 meaning
+e	osteology	osteology	1 meaning
+e	ostracism	ostracism	2 meanings
+j	おうしゅうれんごう	oshurengo	
+j	おさなづま	osanazuma	young wife
+j	おさなびる	osanabiru	幼く見える。子供っぽい。
+j	おしあける	oshiakeru	押して開ける。無理やり（勢いよく）開ける。
+j	おしあげる	oshiageru	押すようにして上に上げる。
+j	おしえこむ	oshiekomu	相手が完全に分かるまで徹底的に教える。
+j	おしかえす	oshikaesu	押してくるものに対し、こちらからも押す。
+j	おしずし	oshizushi	多くは方形の枠に酢飯と具材を重ね、上下から押すよう…
+j	おしたおす	oshitaosu	相手や物などを押して倒す。
+j	おしだし	oshidashi	押して外へ出すこと。
+j	おしつけ	oshitsuke	「おしつける」の連用形。
+j	おしはらい	oshiharai	
+j	おしめがい	oshimegai	(相場用語）相場取引の手法の一つ。株式等相場商品が…
+j	おしゃれさん	osharesan	服装や髪型などの身形にセンスを感じる人物への好意的…
+j	おしょうがつ	oshogatsu	
+j	おすそわけ	osusowake	the sharing of one's reso…
+j	おせっかいな	osekkaina	
+j	おせっかい屋	osekkaiya	
+j	おそざくら	osozakura	遅咲きの桜。
+j	おそろしい	osoroshii	物事に畏怖、恐怖を覚える。こわい。
+j	おそロシア	osoroshia	"Fearsome Russia", a word…
+j	お印	oshirushi	
+j	お定まり	osadamari	usual, regular
+j	お正月	oshogatsu	
+j	オオサンショウウオ	osanshouo	大山椒魚のカナ表記。
+j	オスティナート	osutinato	同じ音型を、幾度も反復させる技法のひとつ。低音域で…
+j	オストラヴァ	osutorava	
+j	オスマン朝	osumancho	オスマン帝国の別名。
+j	オセチア語	osechiago	
+j	オセット人	osettojin	ロシア連邦の北オセチアとジョージアの南オセチアに住…
+j	オーソグラフィー	osogurafi	
+j	大山椒魚	osanshouo	a Japanese giant salamand…
+j	大硨磲貝	oshakogai	
+j	御下げ髪	osagegami	pigtails worn over the sh…
+j	怖ろしい	osoroshii	
+j	恐ろしい	osoroshii	frightening; horrific; te…
+j	抑え投手	osaetoshu	
+j	押し問答	oshimondo	arguing without compromise
+j	押し寿司	oshizushi	oshizushi (sushi pressed …
+j	押問答	oshimondo	互いに譲らず言い争うこと。
+j	推し活	oshikatsu	activity in support of on…
+j	欧州議会	oshugikai	European Parliament
+j	欧州連合	oshurengo	the European Union
+j	歐洲聯合	oshurengo	
+j	王室の	oshitsuno	
+j	王政復古	oseifukko	restoration of monarchy
+j	納め口上	osamekojo	
+j	長万部	oshamanbe	Oshamambe (a town in Hokk…
+j	長萬部	oshamanbe	
+j	雄の鳥	osunotori	
+k	오사리젓	osarijeot	osarijeot (a salted fish …
+k	오삭대다	osakdaeda	
+k	오새없다	osaeeopda	to be immature, foolish, …
+k	오세티야어	osetiyaeo	
+k	오소소하다	ososohada	
+k	오손도손	osondoson	사이좋게 정답게 지내는 모양.
+k	오순도순	osundosun	무엇이 서로 사이좋게 어울려 지내는 모습.
+k	오십견	osipgyeon	
+k	오싹하다	ossakhada	
+k	오쎄찌야	ossejjiya	'오세티야'의 북한말.
+k	옷을 입다	oseulipda	
+e	oscillator	oscillator	1 meaning
+e	ostensibly	ostensibly	1 meaning
+e	osteopenia	osteopenia	1 meaning
+j	おさなだち	osanadachi	幼い時分の成長の様子。
+j	おしかける	oshikakeru	to visit uninvited; to tu…
+j	おしころす	oshikorosu	圧殺する。
+j	おしさげる	oshisageru	押して下げる。押下。
+j	おしだまる	oshidamaru	to steadfastly stay silent
+j	おしとめる	oshitomeru	押さえてやめさせる。押し止める。制止する。
+j	おしながき	oshinagaki	「しながき」を丁寧に言う語。
+j	おしながす	oshinagasu	激しい水や時勢などの流れの力によって動かす。
+j	おしなべて	oshinabete	一様に。全体的に。広くあまねく。すべて。
+j	おしのける	oshinokeru	押して退ける。
+j	おしはかる	oshihakaru	ある事柄について、他の事柄をもとにして判断をする。…
+j	おしもどす	oshimodosu	押して元の場所に戻す。
+j	おしゃべりな	oshaberina	
+j	おしよせる	oshiyoseru	大勢が勢いよく迫って来る。
+j	おしわける	oshiwakeru	左右などに押すようにして分ける。掻き分ける。
+j	おしグラス	oshigurasu	A drinking glass on which…
+j	おすみつき	osumitsuki	室町時代や江戸時代に、幕府や大名が臣下に与えた許可…
+j	おそいかかる	osoikakaru	相手に加害するため、突然近づいて襲う。
+j	おそるおそる	osoruosoru	物事を怖がりながら行う様子。
+j	おそろしさ	osoroshisa	おそろしいこと。また、その程度。
+j	お世話をする	osewaosuru	take care of, attend upon
+j	お品書き	oshinagaki	
+j	お釈迦さま	oshakasama	Shakyamuni
+j	お静かに	oshizukani	
+j	オオシマドジョウ	oshimadojo	コイ目ドジョウ科シマドジョウ属シマドジョウ種群に属…
+j	オシキャット	oshikyatto	an Ocicat
+j	オストメイト	osutomeito	ostomate (person who has …
+j	オセアニア人	oseaniajin	オセアニア出身の人。また、オセアニア系の人。
+j	オセチア人	osechiajin	
+j	オーストラリア	osutoraria	Australia (a country cons…
+j	オーストリアの	osutoriano	
+j	オーソドックス	osodokkusu	orthodox
+j	大阪場所	osakabasho	3月に大阪市で行われる大相撲の本場所の通称。
+j	押しなべて	oshinabete	in general, on the whole
+j	押し並べて	oshinabete	
+j	押し寄せる	oshiyoseru	to flood; to advance on; …
+j	押し殺す	oshikorosu	to stifle (a voice, emoti…
+j	押し流す	oshinagasu	
+j	押し花器	oshibanaki	
+j	押し込める	oshikomeru	
+j	押し退ける	oshinokeru	push aside, elbow past
+j	推し量る	oshihakaru	to guess, to infer, to co…
+j	教えて君	oshietekun	someone who immediately p…
+j	欧州蓬	oshuyomogi	mugwort (Artemisia vulgar…
+j	濠太剌利	osutoraria	Australia (a country cons…
+j	襲い掛ける	osoikakeru	attack, rush on, jump
+j	雄の子馬	osunokouma	
+k	오스텐더	oseutendeo	
+k	오스트리아	oseuteuria	Austria (a country in Cen…
+k	오슬오슬	oseuroseul	
+k	오싹대다	ossakdaeda	'오싹거리다'.
+k	오싹오싹	ossagossak	
+e	oscillation	oscillation	1 meaning
+e	osteologist	osteologist	1 meaning
+e	ostrich fern	ostrichfern	1 meaning
+j	おさえつける	osaetsukeru	動かないようにしっかり押さえる。
+j	おさなごころ	osanagokoro	child-like innocent heart
+j	おさななじみ	osananajimi	幼少の頃から付き合いのある同年輩の人。
+j	おしいただく	oshiitadaku	物を恭しく顔より上に捧げ持つ。
+j	おしえさとす	oshiesatosu	to explain clearly
+j	おしっこする	oshikkosuru	
+j	おしつける	oshitsukeru	離れないように力を加えて押す。
+j	おしつぶす	oshitsubusu	力を加え、物を潰す。
+j	おしつまる	oshitsumaru	切迫する。（期限などが）差し迫る。
+j	お世話になる	osewaninaru	to be much obliged to som…
+j	オウサマペンギン	osamapengin	ペンギン目ペンギン科オウサマペンギン属の海鳥。南極…
+j	オオシギダチョウ	oshigidacho	シギダチョウ目シギダチョウ科オオシギダチョウ属に属…
+j	オオセンボンヤリ	osenbonyari	「ガーベラ」の別名。
+j	オシンドローム	oshindoromu	1983年のNHKの連続テレビ小説「おしん」の国民…
+j	オステオペニア	osuteopenia	
+j	オーストリア人	osutoriajin	Austrian (person, people)
+j	仰せのままに	osenomamani	言われた通りに。
+j	幼なじみ	osananajimi	childhood friend
+j	押さえ付ける	osaetsukeru	to press down, to pin down
+j	押しつける	oshitsukeru	
+j	押しつぶす	oshitsubusu	to squash
+j	押し付ける	oshitsukeru	to press against
+j	教えること	oshierukoto	
+j	王様ペンギン	osamapengin	a king penguin
+j	白粉花	oshiroibana	
+j	逢坂の関	osakanoseki	a mountain checkpoint wes…
+k	오삭거리다	osakgeorida	
+k	오색잡놈	osaekjamnom	reprobate, rogue, scamp
+k	오스스하다	oseuseuhada	
+k	옷을 벗다	oseulbeotda	
+k	옷이 날개다	osinalgaeda	
+e	oscilloscope	oscilloscope	1 meaning
+e	ossification	ossification	1 meaning
+e	ostentatious	ostentatious	2 meanings
+e	osteogenesis	osteogenesis	1 meaning
+e	osteoporosis	osteoporosis	1 meaning
+e	osteosarcoma	osteosarcoma	1 meaning
+e	osteospermum	osteospermum	1 meaning
+j	おさえこみわざ	osaekomiwaza	柔道において寝技に持ち込んで相手の背中、両肩または…
+j	おしすすめる	oshisusumeru	押して前進させる。持続的に働きかけ物事を進行させる…
+j	おしっこをする	oshikkoosuru	
+j	おしとどめる	oshitodomeru	押さえてやめさせる。押し止める。制止する。
+j	おしひろめる	oshihiromeru	普及させる。
+j	おしゃれ番長	osharebancho	準拠集団におけるファッションリーダー。また際立った…
+j	おしりぺんぺん	oshiripenpen	spanking
+j	おせっかいをする	osekkaiosuru	
+j	おそれおののく	osoreononoku	恐ろしさのあまり体が震える。
+j	オオスズメバチ	osuzumebachi	
+j	オシログラフ	oshirogurafu	物理的な振動や電圧、電流の時間的変化を主に電気信号…
+j	オシロスコープ	oshirosukopu	オシログラフにより記録されたものを画像化するなどし…
+j	オスマン・トルコ	osumantoruko	オスマン帝国の別名。同帝国はトルコ民族だけの国では…
+j	オーストラリアの	osutorariano	
+j	固執した	oshitsushita	
+j	大雀蜂	osuzumebachi	Japanese giant hornet (Ve…
+j	応接室	osetsushitsu	guest room
+j	押し止める	oshitodomeru	
+j	押し込み強盗	oshikomigoto	住居に侵入して犯す強盗行為又は強盗犯。
+j	推し進める	oshisusumeru	push, press forward, purs…
+j	渡島国	oshimanokuni	令制国の一つ。1869年に北海道に設置。概ね現在の…
+j	鴛鴦夫婦	oshidorifufu	（おしどりが仲睦まじいように）仲睦まじい夫婦。
+j	黄色人種	oshokujinshu	the mongoloids; the "yell…
+k	오삭오삭하다	osagosakhada	
+k	오성홍기	oseonghonggi	Five-star Red Flag, the f…
+k	오스만 제국	oseumanjeguk	Ottoman Empire (a large f…
+k	오스트리아의	oseuteuriaui	
+k	오스트리아인	oseuteuriain	
+k	오시비엥침	osibiengchim	
+k	오십년대	osimnyeondae	
+k	오싹거리다	ossakgeorida	무섭거나 추워서 자꾸 몸이 움츠러들거나 소름이…
+k	오쓸오쓸	osseurosseul	
+j	オシフィエンチム	oshifienchimu	
+j	オスマン帝国	osumanteikoku	Ottoman Empire (a large f…
+j	オーストララシア	osutorarashia	Australasia (a continenta…
+j	オーストラリア人	osutorariajin	Australian person
+j	オーストラレーシア	osutorareshia	オーストラリア大陸とタスマニア、ニュージーランド、…
+j	オーストリア料理	osutoriaryori	オーストリアの伝統的な料理。
+j	オーストロネシア	osutoroneshia	
+j	欧州中央銀行	oshuchuoginko	
+j	汚染物質	osenbusshitsu	pollutant
+k	오손도손하다	osondosonhada	사이좋게 정답게 지내는.
+k	오순도순하다	osundosunhada	
+k	오스트랄리아	oseuteurallia	Australia (a country cons…
+k	오십각형	osipgakhyeong	
+k	옷을 벗기다	oseulbeotgida	
+e	osteoarthritis	osteoarthritis	1 meaning
+j	おさなともだち	osanatomodachi	幼友達: childhood friend
+j	おしゃべり好きな	oshaberizukina	
+j	オスマン・トルコ語	osumantorukogo	
+j	オーストラリアドル	osutorariadoru	オーストラリア、ナウル、ツバル、キリバスで用いられ…
+j	オーストラリア英語	osutorariaeigo	Australian English
+j	オーストンヤマガラ	osutonyamagara	
+j	幼友達	osanatomodachi	childhood friend (a frien…
+k	오색경단	osaekgyeongdan	
+k	오색단청	osaekdancheong	
+k	오스만 터키어	oseumanteokieo	
+k	오스트레일리아	oseuteureillia	Australia (a country cons…
+k	오스트로네시아	oseuteuronesia	
+k	오슬오슬하다	oseuroseulhada	
+k	오실로스코프	osilloseukopeu	
+k	오싹오싹하다	ossagossakhada	
+e	osmotic pressure	osmoticpressure	1 meaning
+j	おそかれはやかれ	osokarehayakare	遅い早いの差はあってもいつかは。
+j	オウサマペンギン属	osamapenginzoku	ペンギン目ペンギン科の属。別名はエンペラーペンギン…
+j	オーストラリアウナギ	osutorariaunagi	鰻の一種。オーストラリアショートフィンウナギとニュ…
+j	オーストラリア人の	osutorariajinno	
+j	オーストラリア手話	osutorariashuwa	
+j	オーストラリア料理	osutorariaryori	オーストラリアの伝統的な料理。
+j	オーストラリア諸語	osutorariashogo	the Australian languages
+j	オーストラリア連邦	osutorariarenpo	Commonwealth of Australia…
+j	オーストリア゠ハンガリー	osutoriahangari	Austria-Hungary (a former…
+j	教えてエロい人	oshieteeroihito	Someone tell me!
+j	遅かれ早かれ	osokarehayakare	sooner or later
+k	오스트랄라시아	oseuteurallasia	오스트레일리아와 뉴질랜드를 포함한 지역
+k	오스트리아 사람	oseuteuriasaram	
+e	osseointegration	osseointegration	1 meaning
+j	オステオスペルマム	osuteosuperumamu	
+j	オーストリアドイツ語	osutoriadoitsugo	オーストリアで話されているドイツ語の変種。
+j	オーストロネシア人	osutoroneshiajin	オーストロネシア語族を話す諸民族。台湾、東南アジア…
+j	怖ろしく強い	osoroshikutsuyoi	
+j	推して知るべし	oshiteshirubeshi	考えてみれば分かるであろう。言うまでもない。
+j	欧州中心主義	oshuchushinshugi	
+j	黄色植物	oshokushokubutsu	Chrysophyta
+k	오색딱따구리	osaekttakttaguri	great spotted woodpecker
+k	오스트레일리아의	oseuteureilliaui	
+k	오스트레일리아인	oseuteureilliain	Australian (person)
+k	오쓸오쓸하다	osseurosseulhada	
+j	おしつけがましい	oshitsukegamashii	相手の気持ちを無視して何かを押し付けようとするさま。
+j	オーストラリアン・ケルピー	osutorariankerupi	
+j	オーストラリア大陸	osutorariatairiku	Australia (a continent co…
+j	オーストリア共和国	osutoriakyowakoku	
+j	オーストロアジア語族	osutoroajiagozoku	the Austroasiatic languag…
+j	押し付けがましい	oshitsukegamashii	pushy, self-assertive
+j	お世話になりました	osewaninarimashita	Thank you very much for e…
+j	オーストラリア黒朱鷺	osutorariakurotoki	Australian white ibis
+k	오스만 튀르크어	oseumantwireukeueo	
+j	お世話になっております	osewaninatteorimasu	Thank you very much for e…
+j	オーストロネシア語族	osutoroneshiagozoku	the Austronesian languages
+k	오스트레일리아 사람	oseuteureilliasaram	
+j	オーストラリアンフットボール	osutorarianfuttoboru	スポーツ、球技の一つ。一チーム18人ずつのチームが…
+k	오스트레일리아 달러	oseuteureilliadalleo	
+k	오스트리아 공화국	oseuteuriagonghwaguk	
+k	오스트랄로피테쿠스	oseuteurallopitekuseu	
+e	osteogenesis imperfecta	osteogenesisimperfecta	1 meaning
+j	オーストリア゠ハンガリー帝国	osutoriahangariteikoku	Austro-Hungarian Empire (…
+j	恐れ入谷の鬼子母神	osoreiriyanokishimojin	相手の言うことには同意するが、そのまま認めるのは癪…
+k	오스트랄리아 련방	oseuteuralliaryeonbang	Commonwealth of Australia…
+k	오스트레일리아 연방	oseuteureilliayeonbang	Commonwealth of Australia…
+k	오스트레일리아 원주민	oseuteureilliawonjumin	
+j	オーストラリアショートフィンウナギ	osutorariashotofinunagi	鰻の一種。2022年に黒決真里らの研究チームが命名…
+j	オーストラリアロングフィンウナギ	osutorariarongufinunagi	鰻の一種。学名は Anguilla reinhar…
+j	教うるは学ぶの半ば	oshiuruwamanabunonakaba	By teaching, we learn. Do…
+k	오스트레일리아 련방	oseuteureilliaryeonbang	Commonwealth of Australia…
+k	오스트레일리아 수도 준주	oseuteureilliasudojunju	
+k	오스트리아헝가리 제국	oseuteuriaheonggarijeguk	1867년부터 1918년까지 유럽에 존재했던 …
+j	遅くてもやらないよりまし	osokutemoyaranaiyorimashi	
+j	オーストラリア首都特別地域	osutorariashutotokubetsuchiiki	

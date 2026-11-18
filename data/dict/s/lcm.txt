@@ -1,0 +1,2 @@
+e	c major	cmajor	1 meaning
+e	c minor	cminor	1 meaning

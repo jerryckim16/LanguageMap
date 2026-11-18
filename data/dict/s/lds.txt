@@ -1,0 +1,2 @@
+e	düsseldorf	dsseldorf	1 meaning
+e	d-sharp minor	dsharpminor	1 meaning

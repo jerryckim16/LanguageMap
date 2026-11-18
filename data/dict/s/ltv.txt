@@ -1,0 +1,4 @@
+e	tv	tv	1 meaning
+e	tver	tver	1 meaning
+e	tvorog	tvorog	1 meaning
+e	tv guide	tvguide	1 meaning

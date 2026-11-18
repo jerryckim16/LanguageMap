@@ -1,0 +1,2 @@
+e	html	html	1 meaning
+e	http cookie	httpcookie	1 meaning

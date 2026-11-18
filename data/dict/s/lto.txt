@@ -1,0 +1,4497 @@
+e	to	to	2 meanings
+j	と	to	with; marks a companion, …
+j	とう	to	答えや情報を教えてもらうために話す。質問する。訊く。
+j	とお	to	個数が10個又は順番が10番目であること。
+j	ト	to	sol (musical note)
+j	トウ	to	
+j	トー	to	
+j	党	to	political party
+j	唐	to	foreign lands in general
+j	塔	to	tower (structure)
+j	当	to	this (business or place)
+j	戸	to	door; a plate placed on d…
+j	投	to	pitches
+j	斗	to	an obsolete unit of liqui…
+j	杜宇	to	synonym of 杜鵑 (hototogisu…
+j	灯	to	a light, lamp
+j	砥	to	synonym of 砥石 (toishi, “w…
+j	等	to	et cetera
+j	籐	to	rattan palm
+j	糖	to	sugar
+j	纛	to	（トウ）旗の先端に付けた、ヤクや馬の尾の毛を束ねた…
+j	肚	to	abdomen, belly
+j	遠	to	distant, far-off
+j	陶	to	pottery, ceramics
+j	鳭	to	a crested ibis, Nipponia …
+j	黨	to	
+k	토	to	morphological marker(s) t…
+e	toe	toe	4 meanings
+e	tom	tom	1 meaning
+e	ton	ton	1 meaning
+e	too	too	2 meanings
+e	top	top	5 meanings
+e	tow	tow	2 meanings
+e	toy	toy	1 meaning
+j	とい	toi	「とう」の連用形。
+j	とえ	toe	物が十(じゅう)、重なること。
+j	とおい	toi	二つの物の間の距離が大きい。
+j	トイ	toi	おもちゃ。玩具。
+j	トン	ton	ton, t
+j	トーン	ton	調子、音調。
+j	凍雨	tou	
+j	刀伊	toi	中国東北部から沿海州にかけて暮らしていた満州族。
+j	問い	toi	question, inquiry
+j	問う	tou	to ask; to inquire
+j	噸	ton	トン: ton
+j	島夷	toi	中国で南方の異民族の呼び名。
+j	当意	toi	その場で即座に考えること。
+j	搗衣	toi	しなやかさや艶をだすため砧で衣をうつこと。
+j	擣衣	toi	しなやかさや艶をだすため砧で衣をうつこと。
+j	斁遺	toi	廃棄すること。
+j	杜翁	too	ロシアの作家、レフ＝トルストイのこと。
+j	東亜	toa	East Asia (a geographic r…
+j	東夷	toi	中華思想で東方の異民族。
+j	東欧	too	Eastern Europe (a socio-p…
+j	東闈	toi	東宮の門。また、転じて東宮（皇太子）。
+j	樋	toi	gutter, a trough at the b…
+j	渡欧	too	欧州（ヨーロッパ）に行くこと。
+j	疾い	toi	fast, quick
+j	登位	toi	君主がその位に就くこと。即位。
+j	等位	toi	等級。
+j	糖衣	toi	服用しやすくするため丸薬や錠剤の表面に施した糖分を…
+j	藤黄	too	オトギリソウ科の常緑高木。インドシナに産する。また…
+j	貪	ton	
+j	遠い	toi	distant, far
+j	都尉	toi	中国前漢で郡に置かれた職。
+j	頭囲	toi	頭部の周囲。また、その寸法。
+k	토우	tou	dust storm, rain of dust
+k	톡	tok	
+k	톤	ton	ton
+k	톨	tol	grain, nut
+k	톱	top	saw
+k	톳	tot	hijiki (Sargassum fusifor…
+k	퇴	toe	
+e	-tomy	tomy	1 meaning
+e	to go	togo	1 meaning
+e	toad	toad	1 meaning
+e	toba	toba	1 meaning
+e	toda	toda	1 meaning
+e	tofu	tofu	1 meaning
+e	toga	toga	1 meaning
+e	togo	togo	1 meaning
+e	toll	toll	2 meanings
+e	tomb	tomb	1 meaning
+e	tome	tome	1 meaning
+e	tone	tone	2 meanings
+e	tong	tong	1 meaning
+e	tony	tony	1 meaning
+e	tool	tool	5 meanings
+e	torr	torr	1 meaning
+e	tort	tort	1 meaning
+e	tory	tory	1 meaning
+e	tosk	tosk	1 meaning
+e	toss	toss	1 meaning
+e	tour	tour	1 meaning
+e	town	town	1 meaning
+j	という	toiu	と言う: called
+j	とうあん	toan	偸安: snatching a moment of…
+j	とうか	toka	等価: equivalent
+j	とうぎ	togi	討議: debate, discussion
+j	とうげ	toge	山道の頂上部。
+j	とうご	togo	統語: syntax
+j	とうじ	toji	刀自: matron
+j	とうとう	toto	物を打ち鳴らしたり、叩いたりする音を表すさま。
+j	とうふ	tofu	
+j	とうぶ	tobu	東部: eastern part
+j	とおか	toka	日数が十。
+j	とおく	toku	二つの物の間の距離が離れている。
+j	とおす	tosu	通す: let pass; continue; p…
+j	とおで	tode	遠くの所まで出掛けること。
+j	とおめ	tome	Farsightedness.
+j	とおり	tori	通り: street; traffic
+j	とおる	toru	ある地点を過ぎて行く。
+j	とか	toka	something like, some kind…
+j	とが	toga	都雅: refined and elegant
+j	とき	toki	時間。
+j	とぎ	togi	「とぐ」の連用形。
+j	とく	toku	【原義: 解く】固くまとまったものを、緩める。縛ら…
+j	とぐ	togu	刃物を砥石などで鋭くする。
+j	とけ	toke	
+j	とげ	toge	植物や動物の体表にある硬くて尖った突起。
+j	とこ	toko	寝床。
+j	とじ	toji	徒爾
+j	とす	tosu	鳥栖: Tosu, Saga
+j	とせ	tose	a unisex given name
+j	とて	tote	even
+j	とと	toto	a fish
+j	とど	todo	the end, the limit
+j	との	tono	prefixed to verbs to indi…
+j	とは	towa	indicates that a word or …
+j	とび	tobi	飛ぶこと。
+j	とふ	tofu	編み目を十筋に編んだもの。
+j	とぶ	tobu	空中を動く。
+j	とほう	toho	途方: way, reason
+j	とま	toma	苫, 篷: woven mat
+j	とみ	tomi	財産。
+j	とむ	tomu	財産を多く持つ。
+j	とめ	tome	止め, 留め: stopping
+j	とも	tomo	of course (as a particle …
+j	ともお	tomo	智男: a male given name
+j	とや	toya	鳥屋, 塒: henhouse
+j	とよ	toyo	古代日本の地名。現在の大分県及び福岡県東部。とよの…
+j	とら	tora	ネコ目（食肉目）ネコ科の哺乳動物。学名はPanth…
+j	とり	tori	取り: active partner, key p…
+j	とる	toru	取る: to take
+j	とろ	toro	pool in a river
+j	とわ	towa	constant, permanent, ever…
+j	トゥデー	tode	今日。
+j	トゥーン	toun	
+j	トウヒ	tohi	「唐檜」の学術的表記。
+j	トキ	toki	ペリカン目トキ科トキ亜科に分類される鳥の総称。
+j	トサー	tosa	トスを上げる選手。
+j	トス	tosu	味方の選手にボールを軽く上げること。
+j	トト	toto	
+j	トド	todo	アシカ科の哺乳類「とど」の学術的表記。
+j	トナー	tona	静電複写印刷で紙に画像や文字を転写する粉末。
+j	トニー	toni	a transliteration of the …
+j	トビ	tobi	タカ目タカ科の鳥。「ピーヒョロロロ」と鳴きながら滑…
+j	トフィー	tofi	砂糖または糖蜜およびバターを加熱して作るイギリスの…
+j	トミー	tomi	a transliteration of the …
+j	トム	tomu	Tom
+j	トラ	tora	虎の生物学等における学術的表記。その他の用法は、「…
+j	トリ	tori	3の。
+j	トル	toru	圧力を表す単位。1トルは1ミリメートルの水銀柱が底…
+j	トレー	tore	a tray
+j	トロ	toro	「トロッコ」の略。
+j	トーキー	toki	talkie (movie with sound)
+j	トーク	toku	talk, especially on a tal…
+j	トーゴ	togo	Togo (a country in West A…
+j	トート	toto	Thoth
+j	トーナー	tona	
+j	トーニ	toni	a transliteration of the …
+j	トーラー	tora	
+j	トーリー	tori	
+j	トール	toru	Thor
+j	㡧画	toga	「パノラマ」に同じ。広い眺め。全景。
+j	亠部	tobu	部首「⼇」で分類した漢字の一群。
+j	亨	toru	a male given name
+j	伽	togi	relieving one of boredom …
+j	供	tomo	attendant, servant
+j	倒句	toku	意味などを強調するため、語句の順序を入れ換えること…
+j	倒座	toza	中国の住宅形式の四合院で南側につくられる部屋。
+j	倒影	toei	影を逆さまに映すこと。また、その影。
+j	倒語	togo	語の順序や音節の順序を入れ替えること。また、入れ替…
+j	停め	tome	imperfective and stem (or…
+j	偸安	toan	目先の安楽をむさぼり将来を考えないこと。
+j	偸惰	toda	なおざりにして怠ること。
+j	偸懦	toda	偸惰すること。
+j	儻蕩	toto	おおまかなさま。
+j	党与	toyo	共に何かをすること。
+j	党争	toso	党派間の争い。
+j	党利	tori	政党や党派の利益。
+j	党務	tomu	政党や党派における事務。
+j	党友	toyu	政党の正式な党員ではないが、政党に認めれてその政党…
+j	党員	toin	member of a party
+j	党歌	toka	政党や党派の理念などを取り入れたその政党、党派の歌。
+j	党派	toha	faction, party, branch
+j	党紀	toki	党の風紀。
+j	党葬	toso	funeral ceremony held by …
+j	党規	toki	党の規則。党則。
+j	党議	togi	党内での議論。
+j	党費	tohi	政党の運営にかかる費用。
+j	兜搭	toto	惑うこと。
+j	共	tomo	both, all
+j	冬季	toki	winter (season)
+j	冬期	toki	winter term, winter period
+j	冬至	toji	winter solstice
+j	凍上	tojo	土中の水分が凍って地面が持ち上がる現象。
+j	凍土	todo	frozen soil
+j	凍瘡	toso	しもやけ。
+j	凍露	toro	露が凍ったもの。
+j	凍餓	toga	凍え、餓えること。衣食に困窮すること。
+j	刀俎	toso	刀と俎。
+j	刀子	tosu	short sword
+j	刀工	toko	a swordsmith, someone who…
+j	刀布	tofu	中国周の時代の銭である刀銭と布銭。
+j	刀槍	toso	刀と槍。武器。
+j	刀自	toji	a matron, female head of …
+j	刀貨	toka	刀銭。
+j	刀途	tozu	三途のうち刀剣や杖などにより強迫される苦。餓鬼道。
+j	刀道	todo	中澤敏、阿部雅司、林邦史によって作られた武道の一つ…
+j	刀部	tobu	部首「⼑」で分類した漢字の一群。
+j	刁	tora	
+j	到頭	toto	finally; at last; reachin…
+j	刺	toge	a thorn, prickle
+j	匿	toku	shelter
+j	十日	toka	the tenth day of the month
+j	取る	toru	
+j	台与	toyo	a semi-legendary queen of…
+j	吐露	toro	expression of one's senti…
+j	唐僧	toso	中国唐の時代の僧。
+j	唐土	todo	China
+j	唐檜	tohi	Hondo spruce, Picea jezoe…
+j	唐画	toga	唐の時代の絵画。
+j	唐箕	tomi	大きな風車で風を起こし、穀粒と秕、籾殻、ちりなどを…
+j	唐話	towa	spoken vernacular Chinese
+j	唐音	toon	Tō-on, a Sino-Japanese ka…
+j	唐風	tofu	唐（中国）的な制度や建築、風俗。唐様。
+j	問うた	tota	past tense and perfective…
+j	嗒嗒	toto	冗舌なさま。
+j	嗒焉	toen	心が空しいさま。
+j	嗒爾	toji	心が空しいさま。
+j	図利	tori	plotting to profit
+j	図謀	tobo	図ること。
+j	土佐	tosa	Tosa (a city in Kōchi Pre…
+j	土岐	toki	Toki (a city in Gifu Pref…
+j	塔婆	toba	stupa; pagoda
+j	塔屋	toya	建物の屋上に突出した建造物。
+j	塗布	tofu	coating; application
+j	塗装	toso	coating, painting
+j	塗裝	toso	塗装の旧字体表記。
+j	塘堰	toen	溜め池。
+j	套語	togo	ありふれた言葉。
+j	套路	toro	中国武術における動作の型。
+j	妬媢	tobo	妬み合うこと。
+j	婾恃	toji	かりそめに頼みとすること。
+j	婾惰	toda	偸惰すること。
+j	寅	tora	the Tiger, the third of t…
+j	富	tomi	wealth; fortune
+j	富む	tomu	to be rich
+j	屠蘇	toso	薬の一種屠蘇散を味醂や酒に浸したもの。
+j	峠	toge	mountain pass, ridge
+j	島弧	toko	「弧状列島」のこと。
+j	島部	tobu	ある地域のうち島嶼である部分。
+j	幢幢	toto	羽毛が垂れるさま。
+j	当の	tono	the very one; the one in …
+j	当下	toka	目下。ただいま。
+j	当事	toji	the matter directly conce…
+j	当住	toju	現在の住職。現住。
+j	当務	tomu	事務に当たること。
+j	当否	tohi	当たっているか否か。
+j	当園	toen	この動物園、植物園、遊園地などの「園」がつく施設。…
+j	当夜	toya	that night
+j	当季	toki	この節。この季節。
+j	当寺	toji	この寺院。当山。
+j	当座	toza	current, present
+j	当庫	toko	この信用金庫、労働金庫。該当の信用金庫、労働金庫。
+j	当方	toho	we, us, our part
+j	当時	toji	then, at that time
+j	当期	toki	current period, present t…
+j	当校	toko	この学校。該当の学校。
+j	当機	toki	（仏教）相手の素質や能力に対応した導き方をすること。
+j	当用	toyo	general use, current use,…
+j	当行	toko	our bank
+j	当路	toro	重要な道に当たること。
+j	当道	todo	この道。自らが学ぶ道。
+j	当院	toin	この病院、医院、議院。該当の病院、医院、議院。
+j	当陽	toyo	天子が南に面すること。
+j	徒党	toto	gang, faction, group of c…
+j	徒労	toro	working for nothing; frui…
+j	徒歩	toho	going on foot
+j	徒行	toko	歩いて行くこと。歩行。
+j	徒費	tohi	無駄に費やすこと。無駄遣い。
+j	徒過	toka	何もしないでぶらぶら過ごすこと。
+j	得	toku	beneficial; with gain
+j	徳	toku	virtue
+j	忉忉	toto	憂えるさま。
+j	悼辞	toji	eulogy
+j	慆慆	toto	久しいさま。
+j	慆淫	toin	過度に楽しむこと。
+j	憃愚	togu	愚かこと。
+j	戇愚	togu	愚直なこと。
+j	戸田	toda	Toda (a city in Saitama P…
+j	投下	toka	dropping from a height
+j	投与	toyo	administering medicine
+j	投企	toki	自己の投げ出された可能性に向かう自由な企て。
+j	投化	toka	徳を慕って来訪し、帰服すること。
+j	投句	toku	俳句などの句を投稿すること。
+j	投合	togo	agreement; matching
+j	投壺	toko	pitch-pot
+j	投寄	toki	身を寄せること。
+j	投帰	toki	他事を投げ捨てて帰ること。
+j	投影	toei	projection
+j	投打	toda	投手として投げることと打者として打つこと。また、投…
+j	投棄	toki	物を投げ捨てること。
+j	投機	toki	speculation (investment i…
+j	投淵	toen	淵に投身すること。
+j	投稿	toko	submission to a newspaper…
+j	投野	tono	a surname
+j	投降	toko	surrender
+j	捕る	toru	
+j	搭乗	tojo	boarding, embarkation
+j	搭住	toju	留まること。
+j	撐持	toji	支えること。
+j	撞擣	toto	撞き、打つこと。
+j	撞蹋	toto	突き倒して踏みつけること。
+j	撮る	toru	
+j	斗棒	tobo	枡に入れたものを平らに均す棒。
+j	斗筲	toso	度量の小さいこと。
+j	斗部	tobu	部首「⽃」で分類した漢字の一群。
+j	春宮	togu	皇太子が暮らす宮殿。東宮。
+j	時	toki	time
+j	智男	tomo	a male given name
+j	智雄	tomo	a male given name
+j	暢	toru	a male given name
+j	曈曈	toto	日が上るさま。夜が明けるさま。
+j	朋	tomo	a female given name
+j	杜氏	toji	酒を造る職人。また、その長。
+j	東伍	togo	a male given name
+j	東司	tosu	toilet in a Zen monastery
+j	東吾	togo	a male given name
+j	東呉	togo	Eastern Wu (229–280)
+j	東城	tojo	a surname
+j	東堂	todo	禅宗でその寺院の先代の住持。
+j	東宮	togu	the Eastern Palace (palac…
+j	東家	toka	東隣りの家。近所。
+j	東悟	togo	a male given name
+j	東方	toho	east, east area
+j	東条	tojo	a surname
+j	東條	tojo	a surname
+j	東武	tobu	武蔵国の別名。
+j	東洋	toyo	the East; Asia, especiall…
+j	東温	toon	Tōon (a city in Ehime Pre…
+j	東瀛	toei	Japan
+j	東牕	toso	東側の窓。
+j	東矩	toku	外惑星が地球から見て太陽の東90度の方角に来ること…
+j	東窓	toso	東側の窓。
+j	東葉	toyo	東京千葉の略称。
+j	東走	toso	東の方向に走ること。
+j	東道	todo	東方の道。
+j	東邦	toho	Eastern nation, Eastern c…
+j	東郊	toko	城都、都市の東方の郊外。
+j	東部	tobu	eastern part
+j	東郷	togo	Tōgō (a town in Aichi dis…
+j	東魏	togi	中国南北朝時代にあった国。534年北魏から分裂して…
+j	桃李	tori	peach and plum
+j	桃矢	toya	a male given name
+j	桃符	tofu	中国で元旦に門戸に張る桃の木でつくった魔除けの符。…
+j	桃花	toka	a peach blossom
+j	桃苑	toen	桃の木を多く植えた庭園や農園。
+j	棖棖	toto	絃声。
+j	棘	toge	thorn
+j	橙皮	tohi	dried peel of Citrus × au…
+j	橦橦	toto	鼓の音。また、その音がするさま。
+j	止め	tome	stopping
+j	泊め	tome	imperfective and stem (or…
+j	洞家	toka	曹洞宗。
+j	洞道	todo	ケーブルや管を通すための地下道やトンネル。
+j	洞院	toin	a surname
+j	洮洮	toto	人品が高潔なさま。
+j	淖淖	toto	魚が多いさま。
+j	淘汰	tota	a culling out, weeding out
+j	渡加	toka	going to Canada
+j	渡唐	toto	voyage to (Tang) China
+j	渡島	toto	voyage to an island
+j	渡河	toka	crossing of a river
+j	渡航	toko	voyage
+j	渡英	toei	イギリスへの渡航。
+j	渡頭	toto	ferry landing, point of d…
+j	湯治	toji	taking the baths, going t…
+j	溶く	toku	to dissolve, to melt
+j	溶け	toke	imperfective and stem (or…
+j	滔滔	toto	torrential (of flowing wa…
+j	灯光	toko	lamplight, electric light
+j	灯影	toei	ともしび。灯火。
+j	灯架	toka	a lampstand, a stand for …
+j	灯樹	toju	高木のような灯架。
+j	灯油	toyu	an oil used to light a la…
+j	灯火	toka	light; lamp, torch
+j	灯炉	toro	灯火に使用する炉。灯籠。
+j	灯炎	toen	灯火のほのお。
+j	灯焔	toen	灯火のほのお。
+j	灯焰	toen	灯火のほのお。
+j	灯篭	toro	灯籠の拡張新字体を用いた表記。
+j	灯籠	toro	a type of outdoor lantern…
+j	灯花	toka	沈丁花。
+j	灯蛾	toga	灯火に群集する蛾。ひとりむし。
+j	燈篭	toro	灯籠の異表記。
+j	璫珥	toji	耳飾りの玉。
+j	璫豎	toju	宦官。
+j	留め	tome	stopping
+j	疼疼	toto	疼痛がするさま。
+j	痘瘡	toso	痘瘡ウイルスによる感染症。天然痘。
+j	登営	toei	幕府（営中）に出仕すること。
+j	登園	toen	授業や保育を受けるために幼稚園や保育園に行くこと。
+j	登城	tojo	城内に参上または出勤すること。
+j	登場	tojo	entrance in a performance
+j	登時	toji	すぐ。即座に。
+j	登校	toko	attendance at school
+j	登楼	toro	高い建造物に登ること。
+j	登用	toyo	appointment; assignment; …
+j	登祇	togi	登山で祀る神。
+j	登花	toka	稔性花。
+j	登記	toki	registration
+j	登降	toko	登ったり降りたりすること。昇降。
+j	登院	toin	院とつく施設に出向くこと。
+j	盗用	toyo	unauthorized use, piracy …
+j	睹当	toto	渡す。
+j	瞳子	toko	a female given name
+j	研ぐ	togu	sharpen, whet an ax or kn…
+j	磨ぐ	togu	
+j	等々	toto	et cetera, etc.; and so on
+j	等価	toka	equal in value
+j	等号	togo	equal sign
+j	等同	todo	等しく、同じであること。
+j	等宜	togi	身分相応。
+j	等差	tosa	equal difference (between…
+j	等温	toon	温度が等しいこと。また、そのような温度。
+j	等科	toka	同級。
+j	等等	toto	名詞などをいくつか挙げた後に付いて、「それらと同種…
+j	筒状	tojo	筒のような形状。
+j	答案	toan	answer
+j	答議	togi	質問、要請に答えて行う議論。
+j	籐榻	toto	籐でできた安楽椅子。
+j	糖化	toka	saccharification
+j	糖度	todo	sugar content
+j	糖菓	toka	砂糖菓子の略。
+j	糖葉	toyo	光合成により同化された糖類が堆積するような葉。
+j	統合	togo	combination, integration …
+j	綴づ	tozu	to bind
+j	肚皮	tohi	腹部の皮。
+j	肚裏	tori	腹の内。心中
+j	肚裡	tori	腹の内。心中
+j	胡獱	todo	a Steller sea lion, Eumet…
+j	艫	tomo	the stern of a boat
+j	苫	toma	a woven mat, usually made…
+j	董董	toto	ものが盛んなさま。
+j	蕩児	toji	放蕩にふけるこども。蕩子。
+j	蕩掉	toto	揺り動かすこと。
+j	蕩蕩	toto	spacious, grandiose
+j	藤吾	togo	a male given name
+j	藤堂	todo	a surname
+j	藤栄	toei	a surname
+j	藤榮	toei	a surname
+j	藤間	toma	a surname
+j	虎	tora	tiger, Panthera tigris
+j	覩当	toto	収拾すること。
+j	解く	toku	to untie
+j	解け	toke	imperfective and stem (or…
+j	討蕩	toto	掃蕩すること。また、その作戦。
+j	討議	togi	debate, discussion
+j	説く	toku	to explain
+j	讜議	togi	正しい議論。
+j	豆富	tofu	「豆腐」の異表記。
+j	豆果	toka	マメ科の植物の果実に見られるもので、一つの莢の中に…
+j	豆腐	tofu	tofu, bean curd
+j	豆部	tobu	部首「⾖」で分類した漢字の一群。
+j	豊	toyo	sufficient, abundant, bou…
+j	賭す	tosu	「賭する」 (サ行変格活用) に同じ。
+j	賭事	toji	金品を賭けて行う勝負事。
+j	賭場	toba	casino; gambling den
+j	跳ぶ	tobu	
+j	踏査	tosa	exploration; field survey
+j	踏破	toha	travelling through a long…
+j	蹈義	togi	義を守ること。
+j	蹈蹂	toju	蹈藉。
+j	逃亡	tobo	escape
+j	逃毀	toki	中世、領内の住民が逃亡した時、領主がその妻子を捕ら…
+j	逃走	toso	flight, getaway, escape
+j	逃避	tohi	escape
+j	透	toru	a unisex given name
+j	透過	toka	penetration (of light, ra…
+j	透龍	toru	a male given name
+j	途上	tojo	bound for, on the way to,…
+j	途方	toho	the right way
+j	途旁	tobo	道の傍ら。
+j	途次	toji	ある場所へ向かう道の途中。接続助詞的にも用いる。
+j	逗引	toin	誘うこと。
+j	通す	tosu	to let through, to let pa…
+j	通り	tori	street
+j	通る	toru	to pass; to go through or…
+j	遂ぐ	togu	
+j	遂げ	toge	imperfective and stem (or…
+j	遠く	toku	a faraway place, somewher…
+j	遠出	tode	travelling to somewhere f…
+j	遠見	tomi	a surname
+j	遠野	tono	Tōno (a city in Iwate Pre…
+j	都区	toku	東京都の特別区。
+j	都営	toei	being operated by the (To…
+j	都堂	todo	令制で大学寮所有の建物。
+j	都府	tofu	みやこ。首都。
+j	都有	toyu	東京都が所有していること。
+j	都歌	toka	東京都の象徴として歌われる歌。
+j	都統	toto	全体をまとめて統率すること。
+j	都花	toka	東京都を象徴する花。
+j	都道	todo	a Tokyo municipal road
+j	都邑	toyu	市街地。都会。都。
+j	都鄙	tohi	都（都市）と田舎。
+j	都雅	toga	洗練され雅やかなこと。また、そのようなさま。
+j	酉	tori	the Rooster, the tenth of…
+j	録る	toru	
+j	閉づ	tozu	to shut, to close
+j	闘争	toso	a struggle
+j	闘技	togi	competition, contest
+j	闘獣	toju	獣同士を合わせて闘わせること。
+j	闘舸	toka	競漕。
+j	陶俑	toyo	陶器製の俑。
+j	陶冶	toya	crafting of pottery and s…
+j	陶化	toka	教え導くこと。よい方向へ教化すること。
+j	陶器	toki	ceramics, including porce…
+j	陶土	todo	potter's clay
+j	陶工	toko	potter
+j	陶画	toga	陶器に描かれた絵。
+j	陶磁	toji	
+j	陶窯	toyo	陶器を焼くための窯。
+j	霅爾	toji	雨が降るさま。
+j	霅霅	toto	雷電が光り、雨が降るさま。
+j	鞆	tomo	padded leather bracelet w…
+j	鞺鞳	toto	鐘、太鼓の音がするさま。
+j	頭句	toku	歌や俳句などで冒頭の句。
+j	頭疼	toto	頭痛。
+j	頭皮	tohi	scalp
+j	頭花	toka	植物の花の付け方の一つ。頭状花序。
+j	頭語	togo	手紙の書き出しに用いる語。
+j	頭部	tobu	head (part of the body)
+j	頭顱	toro	頭部。あたま。
+j	飛び	tobi	
+j	飛ぶ	tobu	to fly
+j	餖俎	toso	台上に食物を並べること。
+j	騰上	tojo	勢いよく上昇すること。
+j	騰貴	toki	a rise in price; apprecia…
+j	騰踊	toyo	踊り上がること。飛び上がること。
+j	騰蹋	toto	のぼること。
+j	騰騰	toto	心が高ぶるさま。
+j	騰驤	tojo	勢いよく飛び上がること。
+j	鬥部	tobu	部首「⾾」で分類した漢字の一群。
+j	鬨	toki	battle cry
+j	鬪爭	toso	闘争の旧字体表記。
+j	鳥	tori	a bird
+j	鳥井	tori	a surname
+j	鳥屋	toya	henhouse
+j	鳥栖	tosu	Tosu, Saga
+j	鳥羽	toba	Toba (a city in Mie Prefe…
+j	鳶	tobi	black kite, Milvus migrans
+j	鴇	toki	a crested ibis, Nipponia …
+j	黨員	toin	党員の旧字体表記。
+j	黨葬	toso	
+j	鼕鼕	toto	鼓、太鼓の音がするさま。
+k	토가	toga	고대 로마에서 시민권을 가진 성인 남자가 어깨…
+k	토고	togo	Togo (a country in Africa)
+k	토기	togi	earthenware; earthen pott…
+k	토니	toni	
+k	토라	tora	Torah
+k	토로	toro	
+k	토루	toru	tulou (a fortified Chines…
+k	토사	tosa	
+k	토수	tosu	전통한옥에서 처마로 물이 흘러드는 것을 방지하…
+k	토시	tosi	muff
+k	토요	toyo	planet Saturn
+k	토유	toyu	
+k	토의	toui	어떤 문제에 대해 검토하고 협의함.
+k	토인	toin	
+k	토주	toju	
+k	토지	toji	land, ground
+k	토호	toho	
+k	토후	tohu	
+k	통	tong	barrel, bucket, cask, pai…
+e	to wit	towit	1 meaning
+e	toast	toast	3 meanings
+e	today	today	3 meanings
+e	toefl	toefl	1 meaning
+e	toise	toise	1 meaning
+e	token	token	2 meanings
+e	tokyo	tokyo	1 meaning
+e	toman	toman	1 meaning
+e	tomoe	tomoe	1 meaning
+e	tomsk	tomsk	1 meaning
+e	tondo	tondo	1 meaning
+e	toner	toner	2 meanings
+e	tonga	tonga	1 meaning
+e	tongs	tongs	1 meaning
+e	tonic	tonic	2 meanings
+e	tooth	tooth	3 meanings
+e	topaz	topaz	1 meaning
+e	topic	topic	1 meaning
+e	topos	topos	2 meanings
+e	torah	torah	1 meaning
+e	torch	torch	1 meaning
+e	torfl	torfl	1 meaning
+e	torii	torii	1 meaning
+e	torso	torso	1 meaning
+e	torte	torte	1 meaning
+e	torus	torus	2 meanings
+e	total	total	4 meanings
+e	totem	totem	1 meaning
+e	touch	touch	5 meanings
+e	touché	touch	2 meanings
+e	tough	tough	2 meanings
+e	tours	tours	1 meaning
+e	tovuz	tovuz	1 meaning
+e	towel	towel	1 meaning
+e	tower	tower	3 meanings
+e	toxic	toxic	1 meaning
+e	toxin	toxin	1 meaning
+j	とあか	toaka	distant, far
+j	とある	toaru	a certain, one
+j	といき	toiki	吐息: a sigh, exhaled breath
+j	といた	toita	雨戸。また、それを物の運搬に利用した板。
+j	といや	toiya	江戸時代、荷主の委託を受けたり、仕入れたりして販売…
+j	とうえき	toeki	当駅: this station (railway)
+j	とうがい	togai	
+j	とうきょ	tokyo	刀鋸: a blade and saw; such…
+j	とうきょう	tokyo	
+j	とうげん	togen	糖原: glycogen
+j	とうさん	tosan	父さん: father
+j	とうざい	tozai	東西: east and west
+j	とうてい	totei	
+j	とうてん	toten	読点: comma
+j	とうとい	totoi	【尊い、貴い】価値や意義が高い。何物にも変えがたい…
+j	とうに	touni	already since long ago
+j	とうにょう	tonyo	糖尿: (medicine) glycosuria
+j	とうばん	toban	登板: pithing
+j	とおあさ	toasa	shallow water off a coast
+j	とおごえ	togoe	遠くから聞こえる声。
+j	とおぼえ	toboe	howling of an animal
+j	ときお	tokio	時男, 時緒, 時夫, 時雄, 時央, 時生, 時…
+j	ときょう	tokyo	斗栱, 枓栱: an architectural …
+j	とくお	tokuo	徳雄: a male given name
+j	とけい	tokei	時間を計り、または時刻を示す道具。
+j	とし	toshi	利し, 鋭し: sharp
+j	としゅ	toshu	徒手: being empty-handed
+j	とせん	tosen	渡船: ferry
+j	とち	tochi	とちのき。
+j	とちゅう	tochu	
+j	とっく	tokku	疾っく: since long ago
+j	とっこ	tokko	a swindler, a con artist
+j	とって	totte	to attain
+j	とっぴ	toppi	突飛: eccentric, erratic
+j	とつ	totsu	凸: convexity
+j	とてい	totei	徒弟: apprentice
+j	とみお	tomio	富雄, 富夫, 富男, 富生: a male gi…
+j	とみん	tomin	都民: a Tokyoite; the popul…
+j	ともえ	tomoe	水が渦巻いた形や模様。
+j	とよお	toyoo	豊夫: a male given name
+j	とらお	torao	虎雄: a male given name
+j	とりい	torii	鳥居: a Shinto shrine gate
+j	とりえ	torie	優れた点。長所。
+j	とろい	toroi	slow; dumb; stupid
+j	とろん	toron	液体に少し粘り気、とろみがあるさま。
+j	とんだ	tonda	terrible, awful (bad to a…
+j	とんと	tonto	completely
+j	とんび	tonbi	タカ目タカ科の鳥「トビ」の通称。「ピーヒョロロロ」…
+j	とんぼ	tonbo	トンボ目（蜻蛉目）の昆虫の総称。長い腹部と2対の羽…
+j	とんぼう	tonbo	とんぼ。
+j	とんま	tonma	foolish
+j	とんや	tonya	生産や製造する者から商品（製品）を小売業などに販売…
+j	と金	tokin	a promoted 歩兵 (fuhyō, “fo…
+j	トイペ	toipe	トイレットペーパーの略。
+j	トイレ	toire	bathroom, restroom, lavat…
+j	トゥリエ	torie	生地を作るパティシエ。
+j	トゥーナ	touna	
+j	トウガン	togan	
+j	トタン	totan	zinc
+j	トチ	tochi	「とち（とちのき）」の学術的表記。
+j	トチュウ	tochu	トチュウ目トチュウ科トチュウ属に属する落葉高木の一…
+j	トック	tokku	tteok (Korean rice cake)
+j	トップ	toppu	top (highest point or pos…
+j	トマン	toman	
+j	トライ	torai	trying something; attempt…
+j	トリオ	torio	
+j	トレイ	torei	a tray (object on which t…
+j	トレーン	toren	「トレイン」の表記ゆれ。
+j	トロイ	toroi	Troy
+j	トロン	toron	ラドンの放射性同位体の気体。無色、無臭。
+j	トンガ	tonga	Tonga (a country and arch…
+j	トング	tongu	tongs (instrument)
+j	トンド	tondo	
+j	トンファー	tonfa	tonfa (Okinawan weapon)
+j	トンペー	tonpe	
+j	トンボ	tonbo	register mark (marking us…
+j	トンボウ	tonbo	蜻蛉: dragonfly
+j	トン数	tonsu	
+j	トークン	tokun	a token (particular thing…
+j	トーチ	tochi	torch
+j	トーベイ	tobei	Torbay (a borough in Devo…
+j	倒壊	tokai	destruction, collapse
+j	倒屣	toshi	くつを逆に履くこと。
+j	倒景	tokei	地上から四千里の所にあり、上は天に近く、下は日月を…
+j	倒産	tosan	corporate bankruptcy
+j	倒置	tochi	inversion, reversed placi…
+j	偸視	toshi	こっそり盗み見ること。
+j	儻論	toron	正論。
+j	兎眼	togan	顔面神経の麻痺によりまぶたが完全に閉じず、眼球の一…
+j	党人	tojin	party man
+j	党内	tonai	仲間内。
+j	党参	tojin	dried roots of Codonopsis…
+j	党名	tomei	政党や党派の名称。
+j	党外	togai	仲間外
+j	党論	toron	それぞれの党派が主張する議論。党議。
+j	党軍	togun	政党の下部組織として編成された軍隊。
+j	党輩	tohai	ともがら。仲間。
+j	党類	torui	ある目的に関する仲間のこと。
+j	党首	toshu	a party head, a leader of…
+j	冬卵	toran	越冬で乾燥や寒さなどに耐えるため卵殻が厚く通常より…
+j	冬天	toten	冬空。冬の空。冬の天気。冬の季語。
+j	冬官	tokan	律令制における宮内省の唐名。
+j	冬帝	totei	玄武と同一視される玄帝（中国の、冬を司る神）の異名。
+j	冬星	tosei	a male given name
+j	冬瓜	togan	winter melon, Benincasa p…
+j	冬眠	tomin	hibernation
+j	冬禁	tokin	冬の禁令。
+j	凍傷	tosho	frostbite
+j	凍凝	togyo	凍結すること。
+j	凍原	togen	
+j	凍害	togai	cold damage
+j	凍死	toshi	freezing to death; dying …
+j	凍餒	totai	privation
+j	凸	totsu	convex
+j	刀剣	token	sword
+j	刀匠	tosho	a swordsmith
+j	刀圭	tokei	medicine spoon
+j	刀尖	tosen	刀の先。
+j	刀山	tosen	地獄の四方にある地面に刀剣を植えた山。
+j	刀棍	tokon	儀仗。
+j	刀泉	tosen	中国周代に使用された刀子の形状をした青銅製の貨幣。…
+j	刀環	tokan	刀のつかの先に付けた環。
+j	刀瘢	tohan	刀で切られた刀傷の瘢痕。
+j	刀背	tohai	刀のみね。
+j	刀銭	tosen	中国周代に使用された刀子の形状をした青銅製の貨幣。…
+j	刀鋸	tokyo	a blade and saw
+j	刀難	tonan	刀により斬られる災難。
+j	到底	totei	in the end, ultimately, a…
+j	到来	torai	arrival
+j	取っ手	totte	grip, handle, knob
+j	取り柄	torie	merit, talent
+j	吐乳	tonyu	乳児が飲んだ乳を吐くこと。
+j	吐息	toiki	a sigh (exhaled breath)
+j	吐瀉	tosha	食べたものを嘔吐したり、下痢をしたりすること。吐き…
+j	吐蕃	toban	Tibet
+j	咄嗟	tossa	a very short time
+j	唐人	tojin	a Chinese person
+j	唐冠	tokan	中国唐の冠を模した兜。
+j	唐初	tosho	中国の唐の時代の初期。
+j	唐山	tozan	Tangshan (a prefecture-le…
+j	唐扇	tosen	中国でつくられた扇。
+j	唐朝	tocho	中国の唐の王朝。また、その時代。
+j	唐本	tohon	中国から渡来した書物。
+j	唐紙	toshi	Chinese paper
+j	唐船	tosen	中国の船舶。また、中国風の船舶。
+j	唐芋	toimo	「薩摩芋」の別名。
+j	唐詩	toshi	Tang poetry
+j	唐銭	tosen	平安時代から江戸時代初期にかけて中国から伝わった貨…
+j	唐鏡	tokyo	Tang mirror
+j	問屋	toiya	a trader who arranged car…
+j	図書	tosho	books
+j	土地	tochi	ground; land
+j	堵民	tomin	荘園の田を請作する農民。
+j	塔門	tomon	
+j	塗塀	tohei	築地。
+j	塗料	toryo	paint
+j	塗炭	totan	extreme distress
+j	套言	togen	ありふれた言葉。
+j	妬視	toshi	looking with envy
+j	富夫	tomio	a male given name
+j	富生	tomio	a male given name
+j	富男	tomio	a male given name
+j	富雄	tomio	a male given name
+j	尊い	totoi	noble; exalted; sacred
+j	屠人	tojin	家畜の屠殺をなりわいにした人。
+j	屠所	tosho	
+j	屯倉	tonso	大和朝廷の直轄地から収穫した穀物を収納した倉庫。
+j	屯騎	tonki	駐屯している騎兵。
+j	島内	tonai	島の中。
+j	島司	toshi	律令制で国司に準じ対馬島、壱岐島、種子島に設置され…
+j	島地	tochi	島の土地。
+j	島外	togai	その島以外の場所。
+j	島嶼	tosho	islands large and small
+j	島民	tomin	islander or islanders
+j	巴	tomoe	a circular design resembl…
+j	幢隊	totai	幢を持つ先頭の部隊。
+j	当世	tosei	the modern world; this wo…
+j	当主	toshu	current head of a family
+j	当今	tokin	現在在位している天皇。今上天皇。いますべらぎ。
+j	当代	todai	the present age; modern t…
+j	当会	tokai	our 会 (kai, “association,…
+j	当体	totai	ありのままの本性。
+j	当処	tosho	この場所。その場所。
+j	当分	tobun	for the time being
+j	当初	tosho	the initial, the beginnin…
+j	当前	tozen	（とうぜん・とうまえ、副詞的にも用いる）目前。当座。
+j	当千	tosen	一人で千人の力に匹敵すること。また、そのような力や…
+j	当団	todan	この団体。該当の団体。
+j	当地	tochi	here, this location, this…
+j	当山	tozan	この山。本山。
+j	当市	toshi	この市。
+j	当年	tonen	this year (i.e. the curre…
+j	当店	toten	this store
+j	当所	tosho	この場所。その場所。
+j	当来	torai	afterlife
+j	当流	toryu	この流派。自分の流派。
+j	当然	tozen	natural, inevitable
+j	当番	toban	being on duty
+j	当社	tosha	our company
+j	当籤	tosen	winning a lottery
+j	当署	tosho	警察署・消防署などの「署」が付く機関に所属している…
+j	当船	tosen	この船。該当の船。
+j	当艇	totei	この艇。該当の艇。
+j	当艦	tokan	この艦船、艦艇。該当の艦船、艦艇。
+j	当該	togai	the applicable, relevant,…
+j	当車	tosha	この車両。該当の車両。
+j	当選	tosen	victory in an election
+j	当金	tokin	その場で金銭を引き渡すこと。また、その金銭。即金。…
+j	当銀	togin	a surname
+j	当門	tomon	この宗派や門流。
+j	当隊	totai	この隊。
+j	当面	tomen	now, for the moment
+j	当館	tokan	この水族館、博物館、図書館などの「館」がつく施設。…
+j	当駅	toeki	this train station
+j	彤弓	tokyu	天子が大功をあげた諸侯にたまう赤い弓。
+j	彤殿	toden	朱を塗った御殿。
+j	彤矢	toshi	丹塗りの矢。
+j	徒兵	tohei	歩卒。
+j	徒刑	tokei	penal servitude
+j	徒弟	totei	apprentice
+j	徒手	toshu	State of being empty-hand…
+j	徒死	toshi	dying in vain
+j	徒渉	tosho	徒歩で川を渡ること。
+j	徒然	tozen	idle
+j	得意	tokui	triumphant, proud
+j	徳化	tokka	徳により人々を教化、感化すること。
+j	徳江	tokue	a surname
+j	徳雄	tokuo	a male given name
+j	悼詞	toshi	eulogy
+j	惇厚	tonko	手厚いさま。
+j	戇士	toshi	愚人。
+j	戸帳	tocho	帳台の上を覆うかやのようなとばり。
+j	投伝	toden	官符を棄て、辞職すること。
+j	投体	totai	五体投地。
+j	投入	tonyu	insertion
+j	投函	tokan	posting a letter
+j	投壊	tokai	投手陣が総崩れになること。試合に登板した複数の投手…
+j	投射	tosha	projection
+j	投弾	todan	爆弾を投下すること。
+j	投扇	tosen	少し離れた場所から扇を的に投げ、的と扇の落ちた形に…
+j	投手	toshu	a pitcher
+j	投書	tosho	letter to the editor, a w…
+j	投球	tokyu	throwing a ball
+j	投票	tohyo	voting
+j	投網	toami	円錐形の漁網の底辺に重りを付けたものを水面に投げ広…
+j	投資	toshi	investment
+j	投錨	tobyo	船舶が錨を下ろすこと。また、そのようにして停泊する…
+j	搨文	tobun	石摺りの文字。
+j	搨本	tohon	石碑などに刻まれた文字や図柄などを紙に写し取ったも…
+j	搭載	tosai	loading with, being equip…
+j	敦煌	tonko	
+j	敦行	tonko	篤行。
+j	斗帳	tocho	帳台の上を覆うとばり。
+j	斗拱	tokyo	
+j	斗柄	tohei	北斗七星の柄杓の柄の部分。
+j	斗栱	tokyo	an architectural structur…
+j	斗米	tobei	一斗の米。少ない米。
+j	斗酒	toshu	a large volume of sake
+j	時男	tokio	a male given name
+j	時計	tokei	a clock, a watch, a timep…
+j	時計・宝飾品商	tokei	古時計、古宝飾品を扱う古物商。
+j	朋恵	tomoe	a female given name
+j	杜仲	tochu	Eucommia ulmoides
+j	杜蔽	tohei	隔絶すること。
+j	杜詩	toshi	poetry of Du Fu
+j	杜閉	tohei	閉ざすこと。
+j	杜鵑	token	lesser cuckoo (Cuculus po…
+j	東京	tokyo	Tokyo (a prefecture, the …
+j	東南	tonan	southeast
+j	東台	totai	真言宗の東寺と天台宗の延暦寺のこと。
+j	東垂	tosui	（国の）東の果て。
+j	東大	todai	
+j	東岱	totai	「泰山」に同じ。
+j	東嶺	torei	東方にある山。
+j	東廠	tosho	中国明の時代に皇帝直属で置かれた諜報機関。
+j	東征	tosei	軍隊が東方へと征くこと。東方にいる敵を征伐すること。
+j	東海	tokai	Tōkai (a traditional regi…
+j	東端	totan	eastern tip, eastern end
+j	東経	tokei	east longitude
+j	東經	tokei	東経の旧字体表記。
+j	東線	tosen	鉄道や道路などで東の方向にあるまたは東に向かう路線。
+j	東莞	tokan	Dongguan (a prefecture-le…
+j	東萊	tonne	Dongnae (a district of th…
+j	東西	tozai	east and west
+j	東証	tosho	東京証券取引所または株式会社東京証券取引所の略。東…
+j	東軍	togun	内乱などで東西にわかれた軍勢のうち東側の軍勢。
+j	東辺	tohen	東の辺境。
+j	東遷	tosen	東へ場所を移すこと。特に、国が都を東へ移すこと。
+j	東門	tomon	東側にある門。
+j	東関	tokan	東の方角にある関所。
+j	東阪	tohan	東京都と大阪府または大阪市。
+j	東陲	tosui	（国の）東の果て。
+j	東電	toden	
+j	東面	tomen	東側に面すること。
+j	東首	toshu	頭を東の方角に向けて寝ること。東枕。古代中国におけ…
+j	桃仁	tonin	dried peach seed kernels …
+j	桃源	togen	Shangri-La; utopia
+j	棖子	toshi	橙。
+j	棟梁	toryo	beams and ridges to suppo…
+j	榻背	tohai	椅子の背凭れ。
+j	檔子	toshi	簿冊。
+j	洮米	tomai	washing rice
+j	淘去	tokyo	washing away
+j	淘来	torai	washing near
+j	渡御	togyo	天皇、三后が外出すること。
+j	渡来	torai	crossing the sea from a f…
+j	渡橋	tokyo	crossing a bridge
+j	渡海	tokai	crossing the sea
+j	渡渉	tosho	川を渡ること。
+j	渡米	tobei	going to the United States
+j	渡船	tosen	ferry
+j	滔天	toten	being brimful to the heav…
+j	灯体	totai	照明器具で光を発する部分。
+j	灯台	todai	a lighthouse
+j	灯明	tomyo	eternal flame, votive lig…
+j	灯標	tohyo	航行する船舶に暗礁や岩礁、浅瀬を知らせるための点灯…
+j	灯竿	tokan	港湾の市場を知らせるための小型の灯台。
+j	灯管	tokan	「灯火管制」の略。
+j	灯船	tosen	灯台の設置が困難な箇所に碇を下ろし、灯火を高く掲げ…
+j	灯蓋	togai	灯火で油皿をのせる台。
+j	特ア	tokua	「特亜」の異表記。
+j	特亜	tokua	中華人民共和国、大韓民国、朝鮮民主主義人民共和国の…
+j	特価	tokka	especially low price; bar…
+j	特効	tokko	（薬剤などの）特別な効果や効能。
+j	特化	tokka	specialization
+j	特区	tokku	special zone
+j	特攻	tokko	suicide attack
+j	特異	tokui	unique
+j	特科	tokka	artillery (army unit that…
+j	特記	tokki	special mention
+j	特高	tokko	かつて政治や思想の取締りを扱った「特別高等警察」の…
+j	独鈷	tokko	A single pronged vajra us…
+j	璫子	toshi	罵倒する語の一つ。
+j	疼死	toshi	酷愛すること。
+j	痘苗	tobyo	vaccine
+j	痘面	tomen	あばたが残る顔。あばた面。
+j	登京	tokyo	going to the capital
+j	登仙	tosen	becoming a saint
+j	登坂	tohan	climbing a slope
+j	登壇	todan	the act of ascending a po…
+j	登山	tozan	mountain climbing, mounta…
+j	登攀	tohan	climbing up; ascension
+j	登板	toban	pitching
+j	登第	todai	passing an examination
+j	登船	tosen	船舶に乗ること。乗船すること。
+j	登載	tosai	running; carrying
+j	登頂	tocho	climbing to the summit
+j	登館	tokan	図書館や美術館、映画館など「館」の付く施設に職員と…
+j	盗品	tohin	盗んだ品物。
+j	盗塁	torui	stealing a base
+j	盗犯	tohan	窃盗や強盗の犯罪又は犯人。
+j	盗罪	tozai	窃盗や強盗など盗みの罪。
+j	盗聴	tocho	wiretapping; bugging; eav…
+j	盗視	toshi	こっそり盗み見ること。
+j	盗難	tonan	theft (passive)
+j	盗電	toden	electricity theft
+j	知映	tomoe	a female given name
+j	祷祀	toshi	神仏を祈り、祀ること。
+j	禱祀	toshi	神仏を祈り、祀ること。
+j	突放	toppo	（鉄道で）車両を突き放して転がすこと。主に操車場に…
+j	突破	toppa	rising above, exceeding, …
+j	突起	tokki	a part that juts out of a…
+j	突風	toppu	gust of wind
+j	突飛	toppi	eccentric, erratic
+j	等倍	tobai	拡大や縮小をせず、原寸と同じ大きさであること。
+j	等分	tobun	division into equal parts
+j	等外	togai	等級や順位から外れること。
+j	等張	tocho	２つの溶液の浸透圧が等しいこと。
+j	等待	totai	待つこと。等候。
+j	等級	tokyu	grade; class
+j	等輩	tohai	同輩。
+j	等辺	tohen	長さの等しい辺。
+j	等間	tokan	いい加減にやること。なおざりであること。等閑。
+j	答唱	tosho	カトリック教会の礼拝やミサで司祭などの朗詠に応じて…
+j	答弁	toben	response, answer
+j	答拝	tohai	相手の拝礼に答える拝礼。
+j	答電	toden	返答の電報、電信を打つこと。また、その電報、電信。…
+j	箚刺	toshi	刺青。
+j	篤厚	tokko	誠実で情にあついこと。また、そのようなさま。
+j	篤孝	tokko	情のあつい孝行。
+j	篤痾	tokua	大病。
+j	篤行	tokko	誠実で情にあつい行い。
+j	籐本	tohon	蔓性植物で木質の茎（木本）を持つ多年草のもの。藤本…
+j	籐球	tokyu	セパタクロー
+j	糖乳	tonyu	加糖練乳。コンデンスミルク。
+j	糖原	togen	glycogen
+j	糖尿	tonyo	glycosuria
+j	糖液	toeki	製糖の際、原料から搾取した液から不純物を取り去った…
+j	糖類	torui	単糖類と少糖類と多糖類の総称。狭義では遊離糖類、す…
+j	統体	totai	全体。
+j	統制	tosei	control, regulation
+j	統帥	tosui	command
+j	統業	togyo	帝王の業。
+j	統治	tochi	rule, governance
+j	統管	tokan	ばらばらのものを一つに統合して管理すること。
+j	統裁	tosai	統帥し、また裁断すること。
+j	統計	tokei	statistics
+j	統領	toryo	人をまとめ、治めること。また、その人。首領。
+j	舠子	toshi	小舟。
+j	荼薺	tosei	ニガナとナズナ。
+j	董士	toshi	督軍。
+j	蕩子	toshi	放蕩にふけるこども。蕩児。
+j	蕩志	toshi	奔放な志。
+j	蕩思	toshi	蕩心。
+j	蕩駘	totai	のびのびすること。
+j	藤本	tohon	liana
+j	藤氏	toshi	氏族の一つ。藤原氏。
+j	虎男	torao	
+j	虎雄	torao	a male given name
+j	蜻蛉	tonbo	dragonfly
+j	討探	totan	探り、調べること。探討すること。
+j	討論	toron	debate
+j	読点	toten	a comma (punctuation mark…
+j	謄写	tosha	copying by hand; transcri…
+j	謄本	tohon	copy of a document
+j	讜正	tosei	意見や話などが道理にあっていて、間違いがないこと。
+j	讜論	toron	道理に合った正しい議論。
+j	豆乳	tonyu	soy milk
+j	豆苗	tomyo	豌豆の若芽。
+j	豆豉	toshi	納豆のたぐい。
+j	豊夫	toyoo	a male given name
+j	豚児	tonji	piglet
+j	踏襲	toshu	emulation, following in s…
+j	逃去	tokyo	leaving a place by runnin…
+j	逃奔	tohon	逃げ、走ること。
+j	逃田	toden	田地を棄て、逃亡すること。
+j	逃竄	tozan	escape
+j	逃遁	toton	逃げること。逃れること。
+j	透入	tonyu	通り抜けて入ること。
+j	透写	tosha	透き通った紙を通して写すこと。透き写し。トレース。
+j	透明	tomei	transparent (allowing to …
+j	透暁	togyo	悟ること。
+j	透水	tosui	permeability to water
+j	透視	toshi	seeing through
+j	透関	tokan	禅宗で関門を透過するように障害を乗り越え悟りを得る…
+j	途中	tochu	on the way, along the way…
+j	途端	totan	the moment ..., as soon a…
+j	逗留	toryu	staying; sojourn
+j	遁甲	tonko	人の目を眩ませ、からだを隠す術。
+j	遁走	tonso	escape
+j	遁辞	tonji	excuse, evasion
+j	遠吠え	toboe	
+j	都人	tojin	都でくらす人。
+j	都会	tokai	a city, urban area, town,…
+j	都内	tonai	the inside of prefecture …
+j	都制	tosei	東京都など特別な都市に関する制度。
+j	都勢	tosei	東京都の情勢。
+j	都史	toshi	東京都の歴史。また、それについて扱った書籍。
+j	都塵	tojin	都会の塵。
+j	都外	togai	都（首都）の外。
+j	都市	toshi	city; town
+j	都政	tosei	東京都の政治、行政。
+j	都會	tokai	
+j	都民	tomin	A citizen or inhabitant o…
+j	都省	tosho	太政官の異称。
+j	都税	tozei	地方税のうち東京都が賦課、徴収するもの。
+j	都紙	toshi	東京都を対象として発行され、全都で販売・配達される…
+j	都銀	togin	都市銀行。
+j	鍍銀	togin	銀の薄いまくで覆うこと。銀めっき。
+j	闘乱	toran	戦乱。争乱。
+j	闘士	toshi	戦場で戦う兵士。
+j	闘志	toshi	fighting spirit
+j	闘戦	tosen	戦闘すること。戦い。
+j	闘拳	token	殴り合うこと。喧嘩。
+j	闘牛	togyu	bullfighting, a Spanish s…
+j	闘犬	token	犬同士を戦わせる競技、または、これに用いる犬。
+j	闘球	tokyu	rugby
+j	闘病	tobyo	battling an illness; stru…
+j	闘詩	toshi	詩作したものの優劣を争うこと。
+j	闘論	toron	それぞれの持論を闘わせること。討論。
+j	闘魚	togyo	Betta, a genus of fish in…
+j	闘鳥	tocho	鳥同士、特に小鳥同士を戦わせる競技、または、これに…
+j	闘鶏	tokei	cockfight
+j	陶均	tokin	陶鈞。
+j	陶棺	tokan	陶製の棺桶。
+j	陶歯	toshi	陶器製の義歯。
+j	陶然	tozen	気持ちよく酒に酔い、うっとりすること。また、そのさ…
+j	陶管	tokan	陶磁器製の管。
+j	陶芸	togei	ceramics (the art or scie…
+j	陶製	tosei	陶磁器でつくらていること。また、そのようなもの。
+j	陶酔	tosui	intoxication
+j	陶鈞	tokin	轆轤。
+j	陶鋳	tochu	陶器を焼くこと。鋳造すること。
+j	韜晦	tokai	hiding one's talents
+j	頓悟	tongo	sudden enlightenment
+j	頓挫	tonza	sudden reduction in vigor
+j	頓気	tonki	気が早いこと。また、そのようなさまや性質。
+j	頓馬	tonma	fool; idiot
+j	頭声	tosei	head voice
+j	頭指	toshi	人差し指。
+j	頭注	tochu	headnote
+j	頭胎	totai	初産。
+j	頭胸	tokyo	cephalothorax
+j	頭註	tochu	「頭注」の別表記。
+j	頭韻	touin	語句の語頭と同じ韻を繰り返す修辞法。
+j	頭頂	tocho	the top of the head; a ve…
+j	頭首	toshu	（とうしゅ）頭と首。
+j	飛雄	tobio	a male given name
+j	騰奔	tohon	馬がはねあがりながら走ること。ギャロップ。
+j	鳥居	torii	a torii: a symbolic gate …
+j	黨人	tojin	
+k	토굴	togul	
+k	토끼	tokki	leporid (hare, rabbit), b…
+k	토닉	tonik	
+k	토대	todae	foundation
+k	토란	toran	Taro, a tropical food pla…
+k	토록	torok	as much as, to the extent…
+k	토론	toron	debate, controversy
+k	토류	toryu	
+k	토르	toreu	Thor
+k	토막	tomak	a cave dwelling, dugout, …
+k	토만	toman	
+k	토목	tomok	
+k	토민	tomin	
+k	토분	tobun	
+k	토산	tosan	local product
+k	토속	tosok	
+k	토스	toseu	Toss (a remittance app de…
+k	토신	tosin	
+k	토심	tosim	
+k	토씨	tossi	'조사'(한자 助詞).
+k	토이기	toigi	synonym of 튀르키예 (Twireuki…
+k	토족	tojok	
+k	토질	tojil	
+k	토치	tochi	torch
+k	토쿄	tokyo	'도쿄'의 비표준어.
+k	토탄	totan	peat, turf, sod
+k	토템	totem	
+k	토트	toteu	
+k	토픽	topik	topic
+k	톤도	tondo	
+k	톱니	tomni	
+k	통아	tonga	중국 명나라의 방이지(方以智)가 펴낸 책.
+k	톺다	topda	가파른 곳을 오르려고 매우 힘들여 더듬다.
+k	퇴고	toego	글을 지으면서 또는 이미 쓴 글을 문법, 맞춤…
+k	퇴기	toegi	
+k	퇴로	toero	
+k	퇴리	toeri	
+k	퇴보	toebo	
+k	퇴비	toebi	compost
+k	퇴사	toesa	
+k	퇴위	toewi	abdication
+k	퇴임	toeim	
+k	퇴조	toejo	
+k	퇴주	toeju	
+e	to boot	toboot	1 meaning
+e	tobago	tobago	1 meaning
+e	toffee	toffee	1 meaning
+e	toilet	toilet	2 meanings
+e	tom yam	tomyam	1 meaning
+e	tomato	tomato	2 meanings
+e	tomboy	tomboy	1 meaning
+e	toneme	toneme	1 meaning
+e	tongan	tongan	2 meanings
+e	tongue	tongue	2 meanings
+e	tonsil	tonsil	1 meaning
+e	too bad	toobad	1 meaning
+e	top hat	tophat	1 meaning
+e	topeka	topeka	1 meaning
+e	torpid	torpid	1 meaning
+e	torque	torque	1 meaning
+e	toucan	toucan	1 meaning
+e	toulon	toulon	1 meaning
+e	toupee	toupee	1 meaning
+e	toward	toward	4 meanings
+e	toyama	toyama	1 meaning
+e	toyota	toyota	2 meanings
+e	tōhoku	tohoku	1 meaning
+j	〜となる	tonaru	
+j	といし	toishi	刃物などを研いだり磨いたりする石。
+j	といった	toitta	such as
+j	とうぎじょう	togijo	闘技場: arena
+j	とうちゃん	tochan	自分の父親の愛称。
+j	とうとぶ	totobu	高く見る。大切にする。価値の有るものとして扱う。重…
+j	とうやく	toyaku	「しいら」の異称。
+j	とうろく	toroku	
+j	とおのく	tonoku	to become distant
+j	とおのり	tonori	馬や乗り物などに乗って遠出すること。
+j	とかく	tokaku	being apt to, being prone…
+j	とかげ	tokage	爬虫類有鱗目トカゲ亜目に属する生物の総称。(夏の季…
+j	とかす	tokasu	（原義）固まっている物を緩める。とく。
+j	とがめ	togame	罪や過失を責めること。非難。
+j	とがる	togaru	to taper to a point
+j	ときに	tokini	まさにその時。
+j	ときわ	tokiwa	永久に変わらない岩。
+j	とぎれ	togire	「とぎれる」の未然形、連用形。
+j	とくさ	tokusa	十の種類。
+j	とくじ	tokuji	徳治, 徳次: a male given name
+j	とくに	tokuni	すでに。以前に。とっくに。
+j	とくみ	tokumi	篤実: a male given name
+j	とくり	tokuri	
+j	とくろう	tokuro	得郎: a male given name
+j	とぐら	togura	鳥栖, 塒, 鳥座: nest
+j	とぐろ	toguro	塒, 蜷局: coil
+j	とけあう	tokeau	複数のものが溶けて、混ざり合い一つになる。
+j	とける	tokeru	結んでいたものが離れる。ほどける。
+j	とげる	togeru	目的を果たす。
+j	とこや	tokoya	床屋: barbershop, barber
+j	とこよ	tokoyo	永遠。永久。久遠。また、不朽の事物。
+j	ところ	tokoro	あることをする物理的な空間。場所。
+j	とさか	tosaka	鳥の頭にある冠状突起。
+j	とざす	tozasu	門・戸を閉め錠を下ろす。
+j	としお	toshio	利夫, 利男, 俊雄, 俊夫, 年男, 利雄, 俊…
+j	とじめ	tojime	綴じ合わせたところ。
+j	とじる	tojiru	開いていたものが塞がる。
+j	とする	tosuru	
+j	とだな	todana	三方を板などで囲い前面に戸を設け、中に棚を作った家…
+j	とだれ	todare	漢字の部首「⼾」が垂れであるときの呼称。
+j	とっぽい	toppoi	抜け目がない。ずる賢い。
+j	とても	totemo	very, exceedingly, awfully
+j	ととせ	totose	10年間。
+j	ととのう	totono	乱れのないきちんとした状態になる。
+j	とどく	todoku	ある物事が目的の場所やある一定の数値、何らかの目標…
+j	とどけ	todoke	届, 届け: report, notice, re…
+j	とどめ	todome	とどめるの未然形および連用形。
+j	となり	tonari	隣, 隣り, 鄰: neighbour, next…
+j	となる	tonaru	互いに連続して並ぶ。隣に位置する。
+j	とねり	toneri	皇族などの身分が高い人に仕える人。
+j	とはいえ	towaie	そうは言っても。
+j	とは言え	towaie	nonetheless, although, be…
+j	とばす	tobasu	飛ぶようにする。
+j	とばり	tobari	室内に吊り下げ、仕切りとする布。
+j	とびうお	tobiuo	ダツ目トビウオ科に属する魚の総称。胸鰭が大きく、海…
+j	とびこ	tobiko	かつて諸国をまわり男色を売って歩いた若衆。
+j	とびのお	tobino	牛車の後方に突き出た二本の短い棒。とみのお。
+j	とびら	tobira	建物や乗り物の出入り口や、戸棚などにつけられる開き…
+j	とぶひ	tobuhi	古代日本で外寇に備え緊急警報のために設置された施設…
+j	とべる	toberu	
+j	とほほ	tohoho	境遇を嘆き悲しむ際に発する言葉。
+j	とぼそ	toboso	開き戸の「とまら」を受けて回転させるため框に開ける…
+j	とぼる	toboru	明かりの火が付く。灯る。
+j	とます	tomasu	富むようにする。ゆたかにする。
+j	とまどう	tomado	方法や目当て、対応のしかたなどがわからずまごつく。
+j	とまや	tomaya	屋根を苫で葺いた（粗末な）家。
+j	とまら	tomara	「とまる」の未然形。
+j	とまり	tomari	「とまる」の連用形。
+j	とまる	tomaru	【止（ま）る、留（ま）る、停（ま）る】
+j	とまれ	tomare	anyhow, anyway
+j	とみこ	tomiko	実子, 富子, 和実子, 冬実子, 東実子, 土実…
+j	とみじ	tomiji	富司: a male given name
+j	とみに	tomini	suddenly
+j	とめど	tomedo	stopping point
+j	とめる	tomeru	adnominal perfect-continu…
+j	ともき	tomoki	智樹, 知毅, 友貴: a male given …
+j	ともす	tomosu	明かりを点ける。
+j	ともに	tomoni	一緒に、伴って。
+j	ともね	tomone	一つの寝床で一緒に寝ること。
+j	ともや	tomoya	智也, 友也, 知哉, 智哉, 知弥: a mal…
+j	ともる	tomoru	灯りがつく。点灯する。
+j	とも座	tomoza	Puppis
+j	とやま	toyama	連山の一番端の山。外れの山。はやま。
+j	とやら	toyara	（軽蔑的に）...とかいうもの。
+j	とよこ	toyoko	刀洋子, 杜代子, 十夜子, 登代子, 富丗子, …
+j	とよじ	toyoji	豊司: a male given name
+j	とよぞう	toyozo	豊蔵: a male given name
+j	とよた	toyota	トヨタ: Toyota Motor Corpora…
+j	とらぞう	torazo	虎三: a male given name
+j	とらふ	torafu	虎に似た模様。
+j	とりあう	toriau	奪い合う。
+j	とりおい	torioi	害をなす鳥を追い払うこと。また、その仕掛。
+j	とりき	toriki	植物を殖やす方法の一つ。親木の枝の一部を切らないま…
+j	とりこ	toriko	戦で敵に囚われた者。
+j	とりて	torite	罪人を捕まえる人、その役人。捕吏。
+j	とりで	toride	中心となる城以外に領内の要所に設置された小型の要塞。
+j	とりま	torima	for now
+j	とりめ	torime	取る数量。
+j	とりや	toriya	鳥屋: bird dealer; poultere…
+j	とれる	toreru	（やや口語的）はずれる。はめていたり、接着していた…
+j	とろび	torobi	勢いの弱い火。
+j	とろみ	toromi	thickening with starch
+j	とろり	torori	viscous, thick; (of a sol…
+j	とわに	towani	
+j	とんけん	tonken	豚犬: pig and dog; fool; my…
+j	とんとん	tonton	nearly the same, almost e…
+j	とん税	tonzei	「とん税法」（昭和32年法律第37号）により、外国…
+j	と言えば	toieba	
+j	トイツ	toitsu	麻雀で、同じ牌が二つ揃っている組み合わせ。
+j	トイメン	toimen	麻雀で、自分の向かいの席。トイチャ（対家）。
+j	トゥモロー	tomoro	明日。
+j	トウキビ	tokibi	
+j	トウゴマ	togoma	
+j	トウシュ	toushu	
+j	トウチ	touchi	
+j	トウネン	tounen	チドリ目シギ科オバシギ属の鳥の一種。
+j	トカゲ	tokage	爬虫綱・有鱗目・トカゲ亜目に属する有鱗類の総称であ…
+j	トカラ	tokara	the Tocharians
+j	トクサ	tokusa	トクサ目トクサ科トクサ属に属する常緑のシダ。学名:…
+j	トグル	toguru	toggle
+j	トケビ	tokebi	
+j	トコロ	tokoro	「野老」の学術的表記。
+j	トダ語	todago	
+j	トッケイ	tokkei	a tokay gecko
+j	トバゴ	tobago	Tobago
+j	トパーズ	topazu	
+j	トビウオ	tobiuo	
+j	トピカ	topika	Topeka (a city, the capit…
+j	トプ画	topuga	profile image; avatar
+j	トベリ	toberi	
+j	トポス	toposu	
+j	トマス	tomasu	Thomas
+j	トマト	tomato	tomato (plant, Solanum ly…
+j	トヨタ	toyota	Toyota, a Japanese automo…
+j	トラス	torasu	構造物の部材の接合部を回転自在なピンで接合した構造…
+j	トラフ	torafu	海底の谷のうち海溝より浅いもの。
+j	トラム	toramu	tram
+j	トラリー	torari	
+j	トラール	toraru	スロベニアのユーロ採用前の通貨。
+j	トリガ	toriga	
+j	トリガー	toriga	a trigger
+j	トリノ	torino	Turin (a city and comune,…
+j	トリム	torimu	船舶が喫水したときの船首と船尾の差。船舶のバランス。
+j	トリル	toriru	trill
+j	トルエン	toruen	toluene
+j	トルク	toruku	torque
+j	トルコ	toruko	Turkey (a country located…
+j	トルテ	torute	torte
+j	トレイン	torein	列車。
+j	トレカ	toreka	
+j	トレジャー	toreja	財宝。宝物。秘宝。
+j	トレス	toresu	
+j	トレペ	torepe	
+j	トレマ	torema	trema (diacritic); diares…
+j	トレース	toresu	trace
+j	トレーダー	toreda	
+j	トレード	toredo	取引き。
+j	トレーナー	torena	trainer (person who train…
+j	トレーラー	torera	a trailer
+j	トロイア	toroia	Troy (an ancient city)
+j	トロフィー	torofi	a trophy
+j	トロリー	torori	trolley
+j	トロープ	toropu	
+j	トロール	tororu	troll
+j	トワーズ	towazu	
+j	トンキン	tonkin	ベトナムの北部地域。ハノイの旧称。
+j	トヴェリ	toweri	
+j	トーイング	toingu	航空機が自走せず、トーイングカーなどによって牽引さ…
+j	トースター	tosuta	a toaster (device for toa…
+j	トースト	tosuto	toast (toasted bread)
+j	トータル	totaru	complete, overall, total
+j	トーテム	totemu	a totem
+j	トーフル	tofuru	
+j	トーマス	tomasu	Thomas (given name)
+j	トーラス	torasu	ある平面上にある円とその円に交わらない直線とで、直…
+j	ト一	toichi	（女性が）上等であること。そのさま。上玉。上物。
+j	ト書き	togaki	stage direction; elements…
+j	㒃用	tokuyo	借用すること。
+j	俊夫	toshio	a male given name
+j	俊男	toshio	a male given name
+j	俊雄	toshio	a male given name
+j	倒幕	tobaku	overthrow of a shogunate
+j	倒木	toboku	風雪、腐食などにより倒れた樹木。樹木が倒れること。
+j	倒福	tofuku	upside-down 福 character w…
+j	倒読	todoku	逆に読むこと。
+j	倒錯	tosaku	upside-down
+j	倒閣	tokaku	bringing down a government
+j	停まる	tomaru	to stop, to park
+j	停めた	tometa	
+j	停める	tomeru	to park (a car)
+j	偸刻	tokoku	人情に欠けること。偸薄。
+j	偸薄	tohaku	世間が軽薄で人情に欠けること。
+j	兎唇	toshin	うまれつき上唇が裂けていること。口唇裂。みつくち。
+j	兎角	tokaku	兎の角。ありもしないこと。
+j	党則	tosoku	党の規則。党規。
+j	党籍	toseki	政党などの党員としての籍。
+j	共に	tomoni	together, with
+j	冨実子	tomiko	a female given name
+j	冨田	tomita	a surname
+j	冬実子	tomiko	a female given name
+j	凍石	toseki	緻密で軟らかい塊状の滑石でできた岩石。
+j	凸版	toppan	letterpress
+j	刀心	toshin	刀身で柄に入る部分。
+j	刀戟	togeki	刀と戟。
+j	刀身	toshin	the blade of a sword or k…
+j	利夫	toshio	a male given name
+j	利実子	tomiko	a female given name
+j	利男	toshio	a male given name
+j	利雄	toshio	a male given name
+j	到格	tokaku	ウラル語族の文法で、到達を示す格。
+j	匿瑕	tokuka	きずを包み隠すこと。度量を広くすること。
+j	十和田	towada	Towada (a city in Aomori …
+j	十実子	tomiko	a female given name
+j	友の	tomono	
+j	友也	tomoya	a male given name
+j	友子	tomoko	a female given name
+j	友田	tomoda	a surname
+j	友美	tomomi	a female given name
+j	友貴	tomoki	a male given name
+j	取り合い	toriai	a scramble
+j	取り合う	toriau	to hold each other's hand…
+j	取れる	toreru	come off, become detached
+j	取手	toride	Toride (a city in Ibaraki…
+j	吶喊	tokkan	battle cry
+j	咎め	togame	
+j	唐宋音	tosoon	the pronunciation of Chin…
+j	唐木	toboku	南アジアで産出される質の硬い木材。
+j	唐楽	togaku	togaku, music of Chinese …
+j	唐樂	togaku	
+j	唐笛	toteki	唐楽に使用する横笛。
+j	唐綿	towata	tropical milkweed, Asclep…
+j	唐胡麻	togoma	トウダイグサ科の多年草または一年草。高さは地域によ…
+j	唐茄子	tonasu	pumpkin, squash
+j	唐萵苣	tojisa	synonym of 不断草 (fudansō, …
+j	唐黍	tokibi	maize, corn (especially c…
+j	土俗	tozoku	その土地の住民。
+j	土実子	tomiko	a female given name
+j	外内実	tonami	a female given name
+j	外山	toyama	a surname
+j	外様	tozama	幕府成立以後の一族や譜代以外の家臣。
+j	妬心	toshin	嫉妬する気持ち。ねたむ気持ち。
+j	富ます	tomasu	
+j	富司	tomiji	a male given name
+j	富子	tomiko	a female given name
+j	富山	toyama	Toyama (the capital city …
+j	富田	tomita	a surname
+j	対子	toitsu	「トイツ」を参照。
+j	尊ぶ	totobu	to respect, to value, to …
+j	尊実子	tomiko	a female given name
+j	届	todoke	report, notice, registrat…
+j	届く	todoku	to arrive (at a destinati…
+j	屠腹	tofuku	刃物を用いて自分の腹部を切開し死ぬこと。切腹。割腹…
+j	屯集	tonshu	群れ、集まること。たむろすること。
+j	帳	tobari	curtain
+j	常盤	tokiwa	a place name, especially …
+j	常磐	tokiwa	a rock that does not chan…
+j	幢戟	togeki	幢と戟。
+j	年男	toshio	a male given name
+j	床屋	tokoya	barbershop; barber
+j	当国	togoku	この国。
+j	当惑	towaku	bewilderment
+j	当確	tokaku	当選確実。
+j	徒歩で	tohode	
+j	得三	tokuzo	a male given name
+j	得利	tokuri	利益。利得。もうけ。
+j	得理	tokuri	勝訴すること。
+j	得見	tokumi	a male given name
+j	得過	tokuka	得罪すること。
+j	得道	tokudo	the state of being enligh…
+j	得郎	tokuro	a male given name
+j	徳三	tokuzo	a male given name
+j	徳履	tokuri	徳行。
+j	徳操	tokuso	固守して変わることのない道徳心。
+j	徳望	tokubo	徳が高く人望があり、人々に慕われること。
+j	徳次	tokuji	a male given name
+j	徳治	tokuji	the Tokuji era, 1306-1308
+j	徳用	tokuyo	economical
+j	徳田	tokuda	a surname
+j	徳相	tokuso	高い徳を備えた姿。また、修行によって得た優れた特徴。
+j	徳義	tokugi	道徳として守るべき義務。
+j	悼惜	toseki	死を悼み、それを惜しむこと。
+j	戸倉	togura	Togura, Nagano
+j	戸川	togawa	a surname
+j	戸棚	todana	cupboard
+j	扉	tobira	a door (moving part of a …
+j	投じる	tojiru	cast, throw
+j	投ずる	tozuru	
+j	投信	toshin	投資信託の略。
+j	投光器	tokoki	照明装置の一つ。レンズと反射鏡により光を集中させる…
+j	投影機	toeiki	projector
+j	投擲	toteki	throw
+j	投機家	tokika	
+j	投獄	togoku	imprisonment
+j	投石	toseki	throwing stones
+j	投身	toshin	身投げ。
+j	投隙	togeki	隙に乗じること。
+j	搭じる	tojiru	搭乗する。乗車する。
+j	撞撃	togeki	撞いたり、撃ったりすること。
+j	敏夫	toshio	a male given name
+j	敏男	toshio	a male given name
+j	斗升	tomasu	「斗枡」の別表記。
+j	斗枡	tomasu	1斗（約18リットル）を量るための升。
+j	時に	tokini	sometimes
+j	智也	tomoya	a male given name
+j	智子	tomoko	a female given name
+j	智実	tomomi	a female given name
+j	智樹	tomoki	a male given name
+j	智美	tomomi	a female given name
+j	朋子	tomoko	a female given name
+j	木賊	tokusa	rough horsetail (Equisetu…
+j	杜実子	tomiko	a female given name
+j	東信	toshin	eastern Nagano (a region …
+j	東北	tohoku	northeast
+j	東南亜	tonana	Southeast Asia (a geograp…
+j	東国	togoku	a country to the east
+j	東壁	toheki	eastern wall
+j	東学	togaku	李氏朝鮮末期、シャーマニズムに儒教、仏教、道教を加…
+j	東実子	tomiko	a female given name
+j	東方の	tohono	
+j	東晋	toshin	魏晋南北朝時代の王朝の一つ。317年に司馬睿が建国…
+j	東横	toyoko	東京横浜の略。
+j	東洋の	toyono	
+j	東洋画	toyoga	中国・朝鮮・日本の絵画の総称。
+j	東浄	tochin	禅寺で、便所のこと。
+j	東独	todoku	synonym of 東ドイツ (Higashi …
+j	東進	toshin	advancement eastward
+j	梳かす	tokasu	to comb
+j	櫝蔵	tokuzo	大事にしまうこと。
+j	止まる	tomaru	to stop, to be stopped
+j	止めた	tometa	
+j	止める	tomeru	to stop (to cause to ceas…
+j	泊まる	tomaru	to stay (such as at a hot…
+j	泊めた	tometa	
+j	泊める	tomeru	to lodge; to provide lodg…
+j	渡津	toshin	旅客や貨物を対岸に渡すための場所。渡し場。
+j	渡独	todoku	ドイツへ行くこと。
+j	湯薬	toyaku	煮出してそれを飲む薬。煎薬。
+j	溶かす	tokasu	to dissolve
+j	溶けた	toketa	past tense and perfective…
+j	溶ける	tokeru	be dissolved
+j	溶け合う	tokeau	meld together
+j	滕六	toroku	雪の神。
+j	灯す	tomosu	to light (e.g. a fire)
+j	灯り	tomori	
+j	灯る	tomoru	to burn; to be lit
+j	灯心	tosumi	wick
+j	灯芯	toshin	灯油に浸し、灯油を吸い上げ火を灯す糸や紐のような芯。
+j	父ちゃん	tochan	pop, dad
+j	父っちゃ	totcha	
+j	特に	tokuni	specially
+j	特上	tokujo	特段に上等であること。
+j	特休	tokkyu	法令の定めなしに企業が独自に就業規則で設ける休暇。
+j	特利	tokuri	規定以上の高い利息。
+j	特務	tokumu	special duty
+j	特報	tokuho	special report
+j	特増	tokuzo	「特定公益増進法人」の略。
+j	特急	tokkyu	haste
+j	特恵	tokkei	特別有利な取り扱い。
+j	特技	tokugi	specialty, special skill
+j	特捜	tokuso	（事件などで）通常とは異なる特別な体制で行う捜査。
+j	特授	tokuju	特賜。
+j	特操	tokuso	常に不変の操や志。
+j	特有	tokuyu	peculiar to, specific to
+j	特権	tokken	privilege
+j	特派	tokuha	特別な事由や任務により派遣すること。
+j	特用	tokuyo	特別に使用すること。
+j	特等	tokuto	special grade or class
+j	特級	tokkyu	top grade; special grade
+j	特融	tokuyu	特別に行われる融資。
+j	特装	tokuso	特別な装本。
+j	特訓	tokkun	special training
+j	特許	tokkyo	letter patent; patent
+j	特豪	tokugo	「特別豪雪地帯」の略。
+j	特需	tokuju	特別な方面からの、多くは一過性の需要。
+j	特養	tokuyo	「特別養護老人ホーム」の略。
+j	留まる	tomaru	keep (to remain in, to be…
+j	留め具	tomegu	離れてしまったり動いてしまったりしないように留める…
+j	痘毒	todoku	疱瘡。
+j	登下校	togeko	going to and leaving scho…
+j	登進	toshin	登用され地位が昇進すること。
+j	登録	toroku	registration
+j	登降園	tokoen	登園と降園。登下校。
+j	盗作	tosaku	plagiarism, crib
+j	盗心	toshin	物などを盗もうという気持ち。
+j	盗癖	toheki	
+j	盗賊	tozoku	thief, robber
+j	督三	tokuzo	a male given name
+j	督理	tokuri	監督し、治めること。
+j	知哉	tomoya	a male given name
+j	知子	tomoko	a female given name
+j	知弥	tomoya	a male given name
+j	知毅	tomoki	a male given name
+j	砥の粉	tonoko	
+j	砥石	toishi	whetstone; grindstone
+j	砥粉	tonoko	
+j	砦	toride	fort
+j	禿樹	tokuju	落木。
+j	禿瘡	tokuso	しらくも。
+j	禿頭	tokuto	bald head
+j	稲穀	tokoku	稲。
+j	突端	tottan	tip of a headland
+j	突貫	tokkan	何かを突き通すこと。
+j	等価な	tokana	
+j	等幅	tohaba	being monospaced
+j	等覚	togaku	仏の異称。
+j	等親	toshin	家族の階級的な序列を表す語。
+j	等角	tokaku	equal angles
+j	等速	tosoku	速度が等しいこと。
+j	答申	toshin	report
+j	篤と	tokuto	carefully; thoroughly
+j	篤敬	tokkei	情にあつく慎み深いこと。また、そのようなさま。
+j	篤見	tokumi	a surname
+j	統一	toitsu	unification, consolidation
+j	統属	tozoku	統制の下に属すること。
+j	統覚	tokaku	apperception
+j	綴じる	tojiru	to bind
+j	舎人	toneri	a type of imperial valet …
+j	艫座	tomoza	
+j	荼毒	todoku	害毒。
+j	董督	totoku	とりしまりただすこと。監督すること。
+j	蕩心	toshin	放蕩の心。
+j	蕩激	togeki	激揚すること。
+j	虎三	torazo	a male given name
+j	虜	toriko	prisoner, captive
+j	蜥蜴	tokage	a skink (lizard of family…
+j	蜷局	toguro	coil
+j	融け合う	tokeau	
+j	蠧毒	todoku	虫による食害。
+j	蠧賊	tozoku	物事を損ない、害すること。また、それを行う者。
+j	解かす	tokasu	
+j	解けた	toketa	past tense and perfective…
+j	解ける	tokeru	to be solved
+j	討幕	tobaku	attack on the shogunate
+j	討撃	togeki	武力で攻め撃つこと。
+j	謄録	toroku	写し、記すこと。
+j	豆腐屋	tofuya	豆腐を作って売る店。
+j	豊司	toyoji	a male given name
+j	豊田	toyota	a city in Aichi Prefectur…
+j	豊蔵	toyozo	a male given name
+j	豐田	toyota	
+j	豚犬	tonken	pig and dog
+j	豚脂	tonshi	synonym of ラード (rādo, “la…
+j	豚舎	tonsha	pigsty (enclosure where p…
+j	貴ぶ	totobu	
+j	貸用	tokuyo	借用すること。
+j	賭する	tosuru	目的を果たすための代償として、自分にとって何か大事…
+j	賭博	tobaku	gambling
+j	踏測	tosoku	実地を踏んで測量すること。また、その測量。
+j	蹈藉	toseki	踏み躙ること。
+j	蹈隙	togeki	隙をうかがうこと。
+j	逃北	tohoku	逃げること。
+j	逃匿	totoku	逃げ、隠れること。
+j	逃逸	toitsu	running away
+j	逃避行	tohiko	人目を避ける必要があるため、さまざまな場所を移り歩…
+j	透析	toseki	dialysis
+j	通り魔	torima	mythical creature that br…
+j	通字	toriji	正式ではないが、世間一般で通用する字。俗字。
+j	遁世	tonsei	俗世を離れて隠棲すること。
+j	遂げた	togeta	
+j	遂げる	togeru	accomplish
+j	遠山	toyama	a surname
+j	遠崎	tozaki	a surname
+j	遠巻き	tomaki	encircling from afar
+j	遠江	totomi	Tōtōmi Province, present-…
+j	遯竄	tonzan	escape
+j	都俗	tozoku	都（都市）の風俗や習慣。
+j	都心	toshin	heart of a city, center o…
+j	都木	toboku	東京都を象徴する木。
+j	都督	totoku	an official military titl…
+j	都美子	tomiko	a female given name
+j	鄙	tohito	a countrified or rustic p…
+j	録れる	toreru	
+j	閉ざす	tozasu	to close
+j	閉じる	tojiru	to shut, to close
+j	闘技場	togijo	arena
+j	闘鬩	togeki	闘争すること。
+j	陶器屋	tokiya	陶器を販売する店、人。陶器商。陶器店。
+j	陶枕	tochin	陶磁器製の枕。
+j	陶磁器	tojiki	陶器と磁器。焼き物の総称。
+j	隣	tonari	a neighbour / neighbor
+j	隣り	tonari	
+j	頓写	tonsha	quickly copying something
+j	頓教	tongyo	段階を経ずにいきなり高次の真理を説くこと。
+j	頓智	tonchi	臨機応変に出る知恵。機知。
+j	頓死	tonshi	sudden death
+j	頓狂	tonkyo	wild, crazy
+j	頓知	tonchi	sharp wit; able to come u…
+j	頓躓	tonchi	躓き、倒れること。
+j	頓遅	tonchi	疲れはてること。
+j	頭取	todori	president of a bank
+j	頭字語	tojigo	an acronym (any abbreviat…
+j	頭状花	tojoka	植物の花の付け方の一つ。頭状花序のうちキク科など一…
+j	頭白	tohaku	頭が白いこと。
+j	頭目	tomoku	首領。上司。指導者。
+j	頭絡	toraku	馬や牛の頭部に装着する道具。
+j	頭薬	toyaku	マッチで、棒の先端部の発火性がある部分。塩素酸カリ…
+j	頭角	tokaku	the top of the head
+j	頭足	tosoku	頭と足。
+j	頭身	toshin	頭部と身体。
+j	飛ばす	tobasu	to let fly; to send flyin…
+j	飛び子	tobiko	roe of the flying fish
+j	飛び魚	tobiuo	
+j	飛ぶ火	tobuhi	signal fire or beacon, us…
+j	飛田	tobita	a surname
+j	飛魚	tobiuo	a flying fish
+j	騰落	toraku	物価や相場の上がり下がり。騰貴と下落。
+j	騰躍	toyaku	躍り上がること。飛び上がること。
+j	鳥座	togura	nest
+j	鳥狩り	togari	
+j	鶏冠	tosaka	a comb, cockscomb (fleshy…
+j	黷貨	tokuka	収賄。
+k	토건	togeon	토목과 건축을 아울러 이르는 말
+k	토공	togong	
+k	토관	togwan	
+k	토근	togeun	꼭두서닛과의 상록 관목
+k	토금	togeum	
+k	토도사	todosa	
+k	토롱	torong	
+k	토륨	toryum	thorium
+k	토리노	torino	
+k	토마토	tomato	tomato
+k	토바고	tobago	Tobago
+k	토방	tobang	
+k	토벌	tobeol	subjugation, suppression
+k	토법	tobeop	'민간요법'의 북한말.
+k	토설	toseol	
+k	토양	toyang	soil, earth
+k	토오쿄	tookyo	Tokyo
+k	토요일	toyoil	Saturday
+k	토요타	toyota	
+k	토장	tojang	inhumation, burial
+k	토종	tojong	
+k	토주자	tojuja	
+k	토착	tochak	nativeness, aboriginality…
+k	토큰	tokeun	token
+k	토포사	toposa	
+k	토핑	toping	
+k	토하다	tohada	to vomit, to puke
+k	톡탁	toktak	
+k	톨톨	toltol	
+k	톱날	tomnal	saw blade
+k	톱밥	topbap	sawdust
+k	통가	tongga	Tonga (a country in Ocean…
+k	통고	tonggo	
+k	통구	tonggu	all, wholly
+k	통로	tongno	passage; way; path; passa…
+k	통보	tongbo	
+k	통수	tongsu	물이 통하여 흐름. 또는 그렇게 되게 함.
+k	통시	tongsi	'뒷간'의 강원도, 경상남도, 제주도 사투리.
+k	통일	tongil	unification or reunificat…
+k	통자	tongja	presentation of a calling…
+k	통제	tongje	control, regulation
+k	통지	tongji	notice; notification
+k	통호	tongho	서로 통하여 우정을 맺음.
+k	퇴각	toegak	retreat, withdrawal
+k	퇴거	toegeo	
+k	퇴교	toegyo	
+k	퇴끼	toekki	'토끼'의 전라도 사투리.
+k	퇴락	toerak	
+k	퇴물	toemul	
+k	퇴산	toesan	
+k	퇴속	toesok	
+k	퇴실	toesil	
+k	퇴원	toewon	
+k	퇴직	toejik	retirement
+k	퇴진	toejin	decampment, resignation, …
+k	퇴치	toechi	
+k	퇴폐	toepye	degeneration; decadence
+k	퇴학	toehak	withdrawing from school
+k	퇴화	toehwa	
+e	toaster	toaster	1 meaning
+e	tobacco	tobacco	2 meanings
+e	toccata	toccata	1 meaning
+e	tochigi	tochigi	1 meaning
+e	toddler	toddler	1 meaning
+e	toe bean	toebean	1 meaning
+e	toe ring	toering	1 meaning
+e	toenail	toenail	1 meaning
+e	tokamak	tokamak	1 meaning
+e	tokelau	tokelau	1 meaning
+e	toluene	toluene	1 meaning
+e	tombola	tombola	1 meaning
+e	tonight	tonight	3 meanings
+e	tonnage	tonnage	1 meaning
+e	tonsure	tonsure	1 meaning
+e	too much	toomuch	1 meaning
+e	toolbar	toolbar	1 meaning
+e	toolbox	toolbox	2 meanings
+e	toolkit	toolkit	1 meaning
+e	tooltip	tooltip	1 meaning
+e	top-down	topdown	1 meaning
+e	topless	topless	2 meanings
+e	toponym	toponym	1 meaning
+e	topping	topping	1 meaning
+e	topsoil	topsoil	1 meaning
+e	torment	torment	2 meanings
+e	tornado	tornado	1 meaning
+e	toronto	toronto	1 meaning
+e	torpedo	torpedo	3 meanings
+e	torrent	torrent	1 meaning
+e	torsion	torsion	1 meaning
+e	torture	torture	2 meanings
+e	tote bag	totebag	1 meaning
+e	tottori	tottori	1 meaning
+e	tourism	tourism	1 meaning
+e	tourist	tourist	3 meanings
+e	townlet	townlet	1 meaning
+e	towpath	towpath	1 meaning
+e	toy with	toywith	2 meanings
+e	toyland	toyland	1 meaning
+e	toyshop	toyshop	1 meaning
+j	といかけ	toikake	「といかける」の未然形及び連用形。
+j	といよみ	toiyomi	reading of a question
+j	とうがし	togashi	唐菓子: Tang confectionery
+j	とうきち	tokichi	藤吉: a male given name
+j	とうさつ	tosatsu	盗撮: secret photography, t…
+j	とうしば	toshiba	東芝: Toshiba, a Japanese c…
+j	とうじしゃ	tojisha	
+j	とうじつ	tojitsu	当日: on the day
+j	とうじょうけん	tojoken	
+j	とうたつ	totatsu	到達: arrival
+j	とうとし	totoshi	modernized spelling of たふ…
+j	とうまつ	tomatsu	東松: a surname
+j	とうみつ	tomitsu	糖蜜: molasses
+j	とおせんぼ	tosenbo	
+j	とおせんぼう	tosenbo	obstructing a way; standi…
+j	とおりあめ	toriame	ざっと急に降りだし、短時間で止む雨。
+j	ときいろ	tokiiro	鴇の羽のような色。薄い桃色。
+j	ときおり	tokiori	sometimes
+j	ときょうそう	tokyoso	徒競走: footrace
+j	とくせい	tokusei	徳性: virtue, moral quality
+j	とくてい	tokutei	特定: a specific one
+j	とくれい	tokurei	特例: special case
+j	とぐち	toguchi	建物や家の出入口。
+j	とけい座	tokeiza	Horologium
+j	とこいた	tokoita	床の間に張るための板。
+j	とこいり	tokoiri	寝床に入ること。
+j	とことん	tokoton	end of a matter
+j	とさつ	tosatsu	屠殺
+j	としうえ	toshiue	ある人と比較して年長であること。
+j	としき	toshiki	利規, 聡希, 俊樹: a male given …
+j	としこ	toshiko	敏子: a female given name
+j	としご	toshigo	children born to the same…
+j	としぞう	toshizo	利三: a male given name
+j	として	toshite	as (meaning a role)
+j	としは	toshiha	age
+j	としま	toshima	年頃の娘を過ぎた女性。
+j	としや	toshiya	俊哉: a male given name
+j	としよ	toshiyo	敏代: a female given name
+j	としろう	toshiro	敏郎, 俊郎, 敏朗: a male given …
+j	とし子	toshiko	a female given name
+j	とだえる	todaeru	cease, stop
+j	とちる	tochiru	役者などが動作や台詞を間違える。
+j	とっくに	tokkuni	long ago, already
+j	とっくり	tokkuri	well; comprehensively
+j	とっしょい	tosshoi	elderly person
+j	とっても	tottemo	very, exceedingly, awfully
+j	とっとと	tottoto	immediately; right away
+j	とっとり	tottori	鳥取: Tottori
+j	とつぐ	totsugu	嫁に行く。
+j	とつご	totsugo	同じ日に同じ両親から生まれた十人の子供。
+j	となえる	tonaeru	特定の文句を声に出して言う。
+j	とばし	tobashi	「とばす」の連用形。
+j	とびいり	tobiiri	participating without reg…
+j	とびいろ	tobiiro	わずかに黒みを帯びた茶色。
+j	とびおり	tobiori	飛び降りること。特に、その方法による自害。
+j	とびかう	tobikau	多くのものが入り混じってあちこちに飛ぶ。
+j	とびち	tobichi	enclave or exclave
+j	とぶらい	toburai	
+j	とまつ	tomatsu	塗抹: smearing, a smear
+j	とまどい	tomadoi	夜中に寝惚けて迷うこと。
+j	とむらい	tomurai	grief, condolence
+j	とむらう	tomurau	mourn for, hold a memoria…
+j	ともあれ	tomoare	anyhow, anyway
+j	ともぐい	tomogui	同じ種類の動物がお互いに食い合うこと。
+j	ともし	tomoshi	智史: a male given name
+j	ともなう	tomonau	一緒に行く。ついていく。
+j	ともらい	tomorai	
+j	とらえる	toraeru	人や動物を取り押さえて逃げないようにする。
+j	とりあげ	toriage	「とりあげる」の未然形及び連用形。
+j	とりいる	toriiru	媚び諂い相手に気に入られようとする。
+j	とりおき	torioki	setting aside (a product …
+j	とりおく	torioku	他の物と分けて手元に取っておく。
+j	とりかい	torikai	「とりかひ」に同じ
+j	とりかえ	torikae	「とりかえる」の未然形及び連用形。
+j	とりっこ	torikko	複数人で取り合うこと。取りっくら。
+j	とりまえ	torimae	取り分。わけまえ。
+j	とんがり	tongari	being pointed
+j	とんがる	tongaru	とがる。
+j	とんじる	tonjiru	豚汁: pork miso soup
+j	とんずら	tonzura	escape, fleeing
+j	とんそく	tonsoku	豚足: pig's trotters
+j	とんにく	tonniku	豚肉: pork
+j	コドコン	todokon	
+j	トウアズキ	toazuki	
+j	トケラウ	tokerau	Tokelau (Three atolls for…
+j	トッカータ	tokkata	
+j	トッケビ	tokkebi	dokkaebi, Korean ghost/sp…
+j	トップス	toppusu	top (garment worn to cove…
+j	トッポキ	toppoki	
+j	トッポギ	toppogi	tteokbokki
+j	トナカイ	tonakai	クジラ偶蹄目シカ科トナカイ属に属する哺乳動物。俗に…
+j	トニック	tonikku	強壮剤。
+j	トニー賞	tonisho	a Tony Award
+j	トピック	topikku	a topic
+j	トボガン	tobogan	
+j	トライプ	toraipu	
+j	トラウト	torauto	鱒。
+j	トラウマ	torauma	trauma (emotional wound l…
+j	トラキア	torakia	
+j	トラッカー	torakka	
+j	トラック	torakku	lorry (UK), truck (US) (v…
+j	トラッド	toraddo	伝統的。
+j	トラップ	torappu	動物を捕獲するわな。
+j	トランク	toranku	trunk, suitcase
+j	トランス	toransu	a trance
+j	トランプ	toranpu	(a pack or deck of) playi…
+j	トリアージ	toriaji	（救急医療）災害医療や救急医療における、患者の症度…
+j	トリウム	toriumu	thorium
+j	トリオース	toriosu	triose
+j	トリック	torikku	a trick
+j	トリップ	torippu	tripcode
+j	トリトン	toriton	海王星の第一衛星の固有名。海王星の衛星で一番大きい…
+j	トリビア	toribia	取るに足らない話題。
+j	トリュフ	toryufu	truffle
+j	トリートーン	toriton	
+j	トルーマン	toruman	
+j	トレイル	toreiru	
+j	トレセン	toresen	「トレーニングセンター」の略。
+j	トレッカー	torekka	
+j	トレッド	toreddo	自動車の左右の車輪接地面の中心同士の距離。輪距。
+j	トレパン	torepan	
+j	トレンディ	torendi	「トレンディー」の表記ゆれ。
+j	トレンディー	torendi	流行、時代の最先端であるさま。今はやりであるさま。
+j	トレント	torento	torrent
+j	トレンド	torendo	trend (fad)
+j	トロイカ	toroika	troika
+j	トロエル	toroeru	
+j	トロッコ	torokko	minecart; trolley
+j	トロット	torotto	trot, a 20th century genr…
+j	トロント	toronto	Toronto (the capital city…
+j	トローチ	torochi	
+j	トンガ語	tongago	the Austronesian Tongan l…
+j	トンコリ	tonkori	peg tuned zither of the A…
+j	トンスル	tonsuru	ttongsul
+j	トンデモ	tondemo	outrageous, crazy
+j	トンネル	tonneru	tunnel
+j	トンマナ	tonmana	"tone and manner"; cohere…
+j	トークショー	tokusho	
+j	トースカン	tosukan	scribing block
+j	トーチカ	tochika	bunker, pillbox
+j	トーリング	toringu	
+j	伴う	tomonau	to accompany
+j	俊也	toshiya	a male given name
+j	俊哉	toshiya	a male given name
+j	俊巳	toshimi	a male given name
+j	俊樹	toshiki	a male given name
+j	俊美	toshimi	a male given name
+j	俊郎	toshiro	a male given name
+j	倒立	toritsu	逆さまに立つこと。
+j	倒竹	tochiku	風雪などにより倒れた竹。また、竹が倒れること。
+j	倒置法	tochiho	inversion
+j	偸食	toshoku	仕事もせず無駄に食べて過ごすこと。徒食。
+j	党略	toryaku	党派としての戦略。
+j	共食い	tomogui	cannibalism in animals
+j	冨樫	togashi	a surname
+j	冬月	togetsu	冬の季節。
+j	冬至点	tojiten	黄道上、黄経270度の点で、ここに太陽があると冬至…
+j	凍結	toketsu	freezing
+j	凍霜害	tosogai	cold damage
+j	凸る	totsuru	synonym of 電凸する
+j	凸角	tokkaku	物の外部に出っ張った部分。
+j	凸部	totsubu	
+j	刀術	tojutsu	刀によって相手を倒す武術。
+j	利三	toshizo	a male given name
+j	利規	toshiki	a male given name
+j	到着	tochaku	arrival
+j	到達	totatsu	arrival
+j	匿名	tokumei	anonymity; pseudonym
+j	匿流	tokuryu	
+j	十つ子	totsugo	
+j	十勝	tokachi	Tokachi (a river in Hokka…
+j	十日夜	tokanya	旧暦10月10日の月見。
+j	友亮	tomoaki	a male given name
+j	友昭	tomoaki	a male given name
+j	取り替え	torikae	exchange
+j	取り置く	torioku	keep; hold; reserve
+j	取出	toriizu	to take out, remove, draw…
+j	吐却	tokyaku	吐き出すこと。戻すこと。
+j	吐沫	tomatsu	泡をふくこと。
+j	吐綬鶏	tojukei	七面鳥(シチメンチョウ)の別名。「シチメンチョウ」…
+j	吐血	toketsu	vomiting of blood, hemate…
+j	吐逆	togyaku	一度食べた物を吐き気や痙攣性収縮を伴わず胃から食道…
+j	咄嗟に	tossani	very quickly; instantly
+j	唐の芋	tonoimo	さといもの品種の一つで、葉柄が淡い赤紫色で柔らかく…
+j	唐末	tomatsu	中国の唐の時代の末期。
+j	唐突	tototsu	abrupt, sudden
+j	唐竹	tochiku	a species of bamboo (Sino…
+j	唐菓子	togashi	Tang confectionery
+j	唐菖蒲	toshobu	
+j	唱える	tonaeru	to chant, to recite
+j	土佐犬	tosainu	tosa, tosa inu, Japanese …
+j	塗布剤	tofuzai	coating agent
+j	塗抹	tomatsu	smearing, a smear
+j	塗沫	tomatsu	塗り付けること。塗布すること。
+j	婾末	tomatsu	末世の風俗。
+j	嫁ぐ	totsugu	to marry into the husband…
+j	富岡	tomioka	Tomioka (a city in Gunma …
+j	富樫	togashi	a surname
+j	屠殺	tosatsu	slaughter (of animals)
+j	屠蘇散	tososan	山椒、桔梗、蜜柑の皮、防風、桂皮などを三角の袋に入…
+j	屯食	tonjiki	food and drink served at …
+j	年上	toshiue	elder-ness, seniority: th…
+j	年増	toshima	a woman who has aged past…
+j	当世風	toseifu	fashionable; up-to-date
+j	当事者	tojisha	the person concerned; the…
+j	当別	tobetsu	Tōbetsu (a town in Ishika…
+j	当局	tokyoku	authority (persons in com…
+j	当日	tojitsu	on the day (on which some…
+j	当然の	tozenno	
+j	当直	tochoku	being on duty; being on c…
+j	当社比	toshahi	compared to our company's…
+j	当節	tosetsu	この時節。
+j	当職	toshoku	I, me
+j	徒競走	tokyoso	footrace
+j	徒食	toshoku	仕事もせず、遊び、暮らすこと。坐食。
+j	得代	tokutai	官職（特に国司）が任期満了により交替すること。
+j	得恋	tokuren	恋愛が成就し、相思相愛になること。
+j	得意気	tokuige	proud, proudly, boastful,…
+j	得替	tokutai	官職（特に国司）が任期満了により交替すること。
+j	得点	tokuten	score, points gained
+j	得票	tokuhyo	gaining votes
+j	得選	tokusen	律令制において考課の対象とされる官職。
+j	徳人	tokujin	徳がある人。
+j	徳利	tokkuri	a sake bottle, used to ke…
+j	徳平	tokuhei	a male given name
+j	徳性	tokusei	道徳的な意識。
+j	徳銭	tokusen	室町時代、幕府、領主、大寺院が資金調達のためその領…
+j	德政	tokusei	
+j	戸口	toguchi	door, doorway
+j	戸塚	totsuka	a surname
+j	戸惑い	tomadoi	getting lost, losing one'…
+j	戸惑う	tomadou	to be perplexed, to be at…
+j	戸松	tomatsu	a surname
+j	戸障子	toshoji	雨戸と障子。
+j	扉絵	tobirae	frontispiece (illustratio…
+j	投与量	toyoryo	dosage, dose (quantity of…
+j	投宿	toshuku	lodging; putting up at a …
+j	投球法	tokyuho	
+j	投票所	tohyojo	polling station, voting s…
+j	投筆	tohitsu	文事を辞め、武に就くこと。
+j	投融資	toyushi	investment and financing;…
+j	投資家	toshika	investor
+j	捉える	toraeru	
+j	捕える	toraeru	
+j	捕らえる	toraeru	grasp, seize, capture
+j	搭乗券	tojoken	boarding pass for an airp…
+j	撓屈	tokutsu	しなうように曲がること。また、反るように曲げること。
+j	撓曲	tokyoku	地層が狭い範囲で曲がること。
+j	敏三	toshizo	a male given name
+j	敏朗	toshiro	a male given name
+j	敏郎	toshiro	a male given name
+j	敦睦	tonboku	friendliness and harmony
+j	整う	totonou	be in order, be arranged,…
+j	斎米	tokimai	食料として寺や僧に施す米。
+j	時計屋	tokeiya	watch store, watch dealer
+j	時計座	tokeiza	
+j	時計草	tokeiso	a passion flower
+j	智晃	tomoaki	a male given name
+j	朋昭	tomoaki	a male given name
+j	杜絶	tozetsu	今まで続いていた物事が途中で絶えること。
+j	東京の	tokyono	
+j	東京府	tokyofu	1943年の都制施行までの東京都の呼称。
+j	東京都	tokyoto	the capital prefecture of…
+j	東南の	tonanno	
+j	東南東	tonanto	east-southeast
+j	東大寺	todaiji	Tōdai-ji (Buddhist temple…
+j	東山道	tosando	a former district of Japa…
+j	東微南	tobinan	東と東南東との中間の方位。三十二方位の一つ。
+j	東松	tomatsu	a surname
+j	東植	toshoku	a male given name
+j	東洋史	toyoshi	西洋史を除いたアジアとアフリカの歴史。
+j	東海道	tokaido	律令制における行政区画の一つである五畿七道の一つ。…
+j	東照宮	toshogu	Shinto shrine in which To…
+j	東芝	toshiba	Toshiba, a Japanese compa…
+j	栃木	tochigi	Tochigi (a city in Tochig…
+j	橈屈	tokutsu	手首の関節を親指側（橈骨のある方向）へ曲げること。
+j	橈骨	tokotsu	a radius (bone (human))
+j	橦末	tomatsu	竿の先。
+j	檮杌	togotsu	伝説上の猛獣の名称。
+j	涂月	togetsu	陰暦十二月。
+j	渡仏	tofutsu	フランスへの渡航。
+j	渡日	tonichi	coming to Japan (of a for…
+j	渡船場	tosenba	渡し船が発着する場所。わたしば。
+j	溶けない	tokenai	
+j	灯火類	tokarui	車両に使用される照明器具。
+j	灯燭	toshoku	ともしび。灯火。
+j	牘箋	tokusen	手紙や詩歌などをしるすための用紙。
+j	特オタ	tokuota	特撮好きのおたく。
+j	特ヲタ	tokuota	「特オタ」の別表記。
+j	特任	tokunin	特にその官職、職務に任命すること。
+j	特使	tokushi	special envoy; special am…
+j	特例	tokurei	special case, exception
+j	特修	tokushu	specialized study
+j	特典	tokuten	a privilege, a special ri…
+j	特写	tokusha	特別に写真を撮ること。
+j	特命	tokumei	mission
+j	特売	tokubai	special sale; bargain sale
+j	特大	tokudai	being especially large
+j	特定	tokutei	a certain one, particular…
+j	特待	tokutai	ある事由により他の者より特別な待遇をすること。
+j	特徴	tokucho	characteristic
+j	特性	tokusei	characteristic, peculiari…
+j	特撰	tokusen	優れているものを特別に選抜すること。また、そのよう…
+j	特旨	tokushi	君主の特別の思し召し。
+j	特殊	tokushu	special, exceptional
+j	特段	tokudan	being special; being exce…
+j	特注	tokuchu	special order
+j	特産	tokusan	special product
+j	特番	tokuban	special broadcast program…
+j	特異な	tokuina	
+j	特異度	tokuido	検査で陰性となるべき検体を正しく陰性と判定する割合。
+j	特異性	tokuise	
+j	特異日	tokuibi	暦日のうち、ある特定の気象現象が現れるとされる日。
+j	特秀	tokushu	特に優れるさま。崇特。
+j	特称	tokusho	ある一般的な言葉が特定のものや人物などを指すこと。…
+j	特種	tokushu	special kind
+j	特薦	tokusen	特別に推薦すること。
+j	特製	tokusei	the act of manufacturing …
+j	特認	tokunin	特別の事情により承認すること。
+j	特賜	tokushi	特別に賜ること。また、その物。
+j	特賞	tokusho	特別に賞すること。また、その賞品や賞金。
+j	特賣	tokubai	
+j	特赦	tokusha	special pardon
+j	特車	tokusha	synonym of 戦車 (sensha, “t…
+j	特輯	tokushu	雑誌・新聞・テレビなどで、特定の問題を中心に編集す…
+j	特選	tokusen	優れているものを特別に選抜すること。また、そのよう…
+j	特長	tokucho	personal strength; specia…
+j	特集	tokushu	a special program, a spec…
+j	特電	tokuden	新聞社などが海外にいる特派員などと特別にやり取りす…
+j	當別	tobetsu	
+j	登山家	tozanka	climber, mountaineer
+j	登山道	tozando	mountain trail
+j	登極	tokyoku	accession
+j	登記所	tokisho	登記に関する事務を取り扱う行政機関。
+j	盗伐	tobatsu	secretly felling trees
+j	盗掘	tokutsu	許可を得ずに勝手に土地を掘削し、財物を窃取すること。
+j	盗撮	tosatsu	secret photography, voyeu…
+j	盗窃	tosetsu	こっそり盗むこと。
+j	盗窟	tokutsu	盗賊の隠れ家。
+j	盗聴器	tochoki	bug (an electronic listen…
+j	盗食	toshoku	eating the meal that serv…
+j	督厲	tokurei	監督し、はげますこと。
+j	督戦	tokusen	部下を監督しながら励まし戦わせること。
+j	督軍	tokugun	中国辛亥革命後、中華民国が1916年に各省に設置し…
+j	知憲	tomoaki	a male given name
+j	突先	tossaki	尖ったものの先端。突端。
+j	突如	totsujo	sudden
+j	突角	tokkaku	突き出した角。また、その先端。
+j	突進	tosshin	a rush, a dash
+j	等割	tokatsu	受精卵の全割で、割球の大きさが全て等しいもの。
+j	等式	toshiki	an equality
+j	等温線	toonsen	isotherm
+j	等高線	tokosen	地形図で標高の等しい地点を結んだ曲線。
+j	篤仁	tokujin	仁愛。
+j	糖蜜	tomitsu	molasses, treacle
+j	統制派	toseiha	the Tōseiha (Control Fact…
+j	統廃合	tohaigo	consolidation by abolishm…
+j	統括	tokatsu	unification
+j	統摂	tosetsu	全体を管轄すること。
+j	統率	tosotsu	command; lead
+j	統計家	tokeika	統計に関わる業務に携わる者。
+j	統語論	togoron	syntax (as a field of stu…
+j	統轄	tokatsu	上級の機関が、下級の機関の行為を指揮し、治めること。
+j	統辞論	tojiron	synonym of 統語論 (tōgoron):…
+j	聡希	toshiki	a male given name
+j	藤吉	tokichi	a male given name
+j	解けない	tokenai	
+j	討伐	tobatsu	subjugation
+j	討論の	toronno	
+j	読本	tokuhon	reader, reading book (an …
+j	豆満江	tomanko	
+j	豊受	toyouke	a goddess of grain, daugh…
+j	豊島	toshima	Toshima (one of 23 specia…
+j	豚汁	tonjiru	pork miso soup
+j	豚足	tonsoku	pig's trotters
+j	貪食	tonjiki	貪り、食うこと。
+j	賭物	tobutsu	勝負ごとに賭けるもの。
+j	逃亡犯	tobohan	
+j	逃亡者	tobosha	fugitive
+j	逃走犯	tosohan	
+j	逃走者	tososha	逃走する者。
+j	透明な	tomeina	
+j	途中で	tochude	
+j	途轍	totetsu	筋道。
+j	通して	toshite	
+j	通り雨	toriame	rain shower
+j	遁ずら	tonzura	逃げること。高飛びすること。
+j	遁匿	tontoku	hiding; concealing oneself
+j	遠くに	tookuni	
+j	都市の	toshino	
+j	都市化	toshika	urbanization
+j	都立	toritsu	being metropolitan, found…
+j	都議会	togikai	地方公共団体の都における議決機関。
+j	酉偏	torihen	漢字の部首「⾣」が偏である場合の呼称。
+j	闘殺	tosatsu	闘うことで相手を殺すこと。
+j	陶芸家	togeika	陶芸を行う工芸家。
+j	頓服	tonpuku	taking medicine whenever …
+j	頭子音	toshiin	中国語における音節の部位で、最初に位置する子音。語…
+j	頭胸部	tokyobu	cephalothorax
+j	頭頂葉	tochoyo	a parietal lobe
+j	頭骨	tokotsu	skull, cranium
+j	頭髪	tohatsu	hair on the head
+j	飛ばし	tobashi	continuative of 飛ばす (toba…
+j	飛び交う	tobikau	fly back and forth (e.g. …
+j	飛び板	tobiita	
+j	飛び級	tobikyu	skipping a grade
+j	饕餮	totetsu	a taotie
+j	馴鹿	tonakai	a reindeer (Rangifer tara…
+j	鳥偏	torihen	漢字の部首「⿃」が偏である場合の呼称。
+j	鳥取	tottori	Tottori (the capital city…
+j	鳥貝	torigai	a Japanese cockle, an egg…
+j	鳥越	torigoe	a surname
+j	鴇色	tokiiro	pink; pale rose; damask
+k	토광	togwang	
+k	토끼다	tokkida	'달아나다'의 강원도 사투리.
+k	토네이도	toneido	tornado
+k	토도독	tododok	빗방울 따위가 바닥이나 나뭇잎 위에 세게 떨어…
+k	토론자	toronja	
+k	토론토	toronto	[~시(市)] Toronto (the capi…
+k	토룡	toryong	
+k	토르테	toreute	
+k	토마스	tomaseu	Thomas
+k	토부즈	tobujeu	
+k	토사문	tosamun	
+k	토사물	tosamul	토해서 나온 것.
+k	토산마	tosanma	
+k	토산의	tosanui	
+k	토성	toseong	Saturn
+k	토수화	tosuhwa	
+k	토이기어	toigieo	Turkic language
+k	토치카	tochika	bunker, pillbox (gun empl…
+k	토카막	tokamak	
+k	토탄지	totanji	peat bog
+k	토파즈	topajeu	topaz
+k	토혈	tohyeol	vomiting of blood; hemate…
+k	토호반	tohoban	
+k	토호화	tohohwa	
+k	토후국	tohuguk	emirate, sheikdom
+k	톡토기	toktogi	
+k	톨랑	tollang	
+k	톨롱	tollong	
+k	톰방	tombang	
+k	톳나무	totnamu	
+k	통각	tonggak	
+k	통계	tonggye	statistics
+k	통곡	tonggok	
+k	통과	tonggwa	passage; pass
+k	통구이	tonggui	돼지나 닭 따위를 통째로 불에 굽는 일. 또는…
+k	통달	tongdal	announcement, notice
+k	통닭	tongdak	roasted whole chicken
+k	통독	tongdok	
+k	통박	tongbak	
+k	통발	tongbal	a fish trap, enclosing we…
+k	통분	tongbun	
+k	통산	tongsan	total, sum
+k	통식	tongsik	
+k	통신	tongsin	communication; the sendin…
+k	통음	tongeum	술을 매우 많이 마심.
+k	통치	tongchi	rule; reign
+k	통탄	tongtan	몹시 탄식함. 또는 그런 탄식.
+k	통표	tongpyo	단선 철도에서 대피선은 역에서만 있기 때문에 …
+k	통한	tonghan	
+k	통할	tonghal	
+k	통합	tonghap	unity; integration
+k	통해	tonghae	
+k	통혼	tonghon	
+k	통화	tonghwa	telephone call
+k	퇴궐	toegwol	
+k	퇴근	toegeun	leaving work, finishing w…
+k	퇴기다	toegida	
+k	퇴상	toesang	
+k	퇴색	toesaek	
+k	퇴역	toeyeok	
+k	퇴장	toejang	
+k	퇴적	toejeok	accumulation
+k	퇴출	toechul	물러나서 나감.
+k	퇴하다	toehada	
+k	툇간	toetgan	
+e	to and fro	toandfro	1 meaning
+e	to-do list	todolist	1 meaning
+e	toboggan	toboggan	1 meaning
+e	tofu skin	tofuskin	1 meaning
+e	together	together	2 meanings
+e	toki pona	tokipona	1 meaning
+e	tokoyama	tokoyama	1 meaning
+e	tokuyama	tokuyama	1 meaning
+e	tokyoite	tokyoite	2 meanings
+e	tolerate	tolerate	1 meaning
+e	tollgate	tollgate	1 meaning
+e	tolyatti	tolyatti	1 meaning
+e	tom thumb	tomthumb	1 meaning
+e	tomahawk	tomahawk	1 meaning
+e	tomorrow	tomorrow	2 meanings
+e	tonality	tonality	1 meaning
+e	tone mark	tonemark	1 meaning
+e	tone-deaf	tonedeaf	1 meaning
+e	tongzhou	tongzhou	1 meaning
+e	tonkatsu	tonkatsu	1 meaning
+e	tonkotsu	tonkotsu	1 meaning
+e	top quark	topquark	1 meaning
+e	top-level	toplevel	1 meaning
+e	topolect	topolect	1 meaning
+e	topology	topology	2 meanings
+e	toponymy	toponymy	1 meaning
+e	toreador	toreador	1 meaning
+e	torikumi	torikumi	1 meaning
+e	tortilla	tortilla	1 meaning
+e	tortoise	tortoise	1 meaning
+e	tortuous	tortuous	1 meaning
+e	total war	totalwar	1 meaning
+e	totemism	totemism	1 meaning
+e	touching	touching	1 meaning
+e	touchpad	touchpad	1 meaning
+e	toulouse	toulouse	1 meaning
+e	tovarish	tovarish	1 meaning
+e	tow truck	towtruck	1 meaning
+e	town hall	townhall	1 meaning
+e	townsman	townsman	1 meaning
+j	といあわせ	toiawase	問い合わせ: inquiry
+j	といえども	toiedomo	even though, although
+j	といかえす	toikaesu	すでに聞いたことを確認のために再度聞く。
+j	とうげんびょう	togenbyo	糖原病: glycogenosis
+j	とうしつ	toshitsu	刀室
+j	とうめいたい	tomeitai	透明体: transparent object
+j	とうりゅうもん	toryumon	登竜門: gateway to a career …
+j	とおからず	tokarazu	近いうちに。まもなく。ほどなく。
+j	とおがすみ	togasumi	遠くをぼんやりと覆う霞。
+j	とおざかる	tozakaru	to go far away, to move f…
+j	とおざける	tozakeru	to keep away, to keep at …
+j	とおまわり	tomawari	近い道があるのにも関わらず、遠い方の道を行くこと。
+j	とおめがね	tomegane	遠いものをはっきり見るための眼鏡。双眼鏡、単眼鏡、…
+j	とおりこす	torikosu	ある地点を通って先に行く。通過する。
+j	とかげ座	tokageza	Lacerta
+j	とがめる	togameru	過ち・欠点などを取り上げて責める。
+j	ときあらい	tokiarai	和服などを、布の状態に解いて洗うこと。
+j	ときざけ	tokizake	秋に獲れる鮭に対し、五月から七月にかけて太平洋で獲…
+j	ときたか	tokitaka	時高: a male given name
+j	ときたま	tokitama	時々。時折。たまに。
+j	ときどき	tokidoki	その時その時。おりおり。そのつど。
+j	ときなり	tokinari	時成: a male given name
+j	ときには	tokiniha	ときによっては。ある場合には。ときどきは。
+j	ときめき	tokimeki	being restless with emoti…
+j	ときめく	tokimeku	to be restless with emoti…
+j	ときもり	tokimori	律令制で陰陽寮の漏刻博士に属し、漏刻を守り、鐘鼓を…
+j	ときわぎ	tokiwagi	年間を通して葉が緑色をした樹木。常緑樹。
+j	とぎれる	togireru	人の往来がなくなる。とだえる。
+j	とぎ汁	togijiru	
+j	とくいち	tokuichi	徳一: a male given name
+j	とくじろう	tokujiro	徳次郎: a male given name
+j	とくもり	tokumori	extra-large portion
+j	とけこむ	tokekomu	他の物質が液体になって混じる。
+j	とこしえ	tokoshie	eternal, permanent
+j	とこずれ	tokozure	長く病床につく者で長期間皮膚が圧迫され血流が不足す…
+j	とことこ	tokotoko	(trot) with small steps, …
+j	とこのま	tokonoma	床の間: tokonoma, an alcove …
+j	とこはる	tokoharu	年間を通して春のような気候であること。長春。
+j	とこやま	tokoyama	大相撲の力士のまげを結う専門職。
+j	ところが	tokoroga	but, and surprisingly, ...
+j	ところで	tokorode	話題を転ずるときに用いる語。
+j	としあき	toshiaki	敏明, 寿聡, 稔昌, 敏晃, 俊明, 敏昭, 利…
+j	としうら	toshiura	その年のよしあし、農業や漁業における豊作・豊漁・豊…
+j	としょかん	toshokan	
+j	とじきみ	tojikimi	しきみのこと。
+j	とじまり	tojimari	locking up; securing door…
+j	とじょうこく	tojokoku	途上国: developing country
+j	とっこつ	tokkotsu	突兀: lofty; towering; shar…
+j	とっておき	totteoki	何かの時に使用するためにしまって置くこと。また、そ…
+j	とってくう	tottekuu	"to grasp and devour": to…
+j	とつぜん	totsuzen	
+j	とつにゅう	totsunyu	突入: the action of rushing…
+j	とつめん	totsumen	凸面: convex area
+j	とどけで	todokede	届け出: report, notification
+j	とどける	todokeru	先方まで物を持っていって渡す。
+j	とどこおり	todokori	「とどこおる」の連用形。
+j	とどこおる	todokoru	物事が順調に進まない。
+j	とどまる	todomaru	暫く動かずその場所に居る。
+j	とどめる	todomeru	移動しようとするものを抑えて、行かせないようにする。
+j	とどろき	todoroki	rumbling
+j	とどろく	todoroku	大きな音が響く。
+j	となりあう	tonariau	to neighbor each other
+j	とにかく	tonikaku	事情は差し置いて。どうであるにしても。
+j	とねりこ	toneriko	ゴマノハグサ目トネリコ属に属する落葉樹。 学名:F…
+j	とのがた	tonogata	主に女性から男性に対する尊敬語。
+j	とのさま	tonosama	主君、貴人に対する敬称。
+j	とばかり	tobakari	and only, if only
+j	とびいし	tobiishi	stepping stone
+j	とびうお座	tobiuoza	Volans
+j	とびきり	tobikiri	being outstanding
+j	とびけら	tobikera	昆虫綱トビケラ目に属する昆虫の総称。学名:Tric…
+j	とびげり	tobigeri	宙に飛び上がって相手を攻撃する蹴り技の一種。
+j	とびこす	tobikosu	上を飛んで越える。
+j	とびこみ	tobikomi	水泳の競技の一つで高所から飛び込み台を使用して水中…
+j	とびこむ	tobikomu	飛んで中に入る。
+j	とびさる	tobisaru	その場を飛んで去る。
+j	とびだす	tobidasu	飛ぶように出る。
+j	とびでる	tobideru	飛び出すこと。
+j	とびのる	tobinoru	飛び上がって上に乗る。
+j	とびはじ	tobihaji	温室効果ガス排出削減のために飛行機に乗るのを控える…
+j	とびばこ	tobibako	跳び箱: vaulting horse
+j	とぶとり	tobutori	飛ぶ鳥: a bird flying (in th…
+j	とぼける	tobokeru	老い耄れる。ぼける。
+j	とぼしい	toboshii	足りない。少ない。
+j	とぼとぼ	tobotobo	(walking) with a trudge, …
+j	とまりぎ	tomarigi	perch (branch, etc. on wh…
+j	とみくじ	tomikuji	江戸時代、番号などが書かれた札などを配り、抽籤によ…
+j	とみなが	tominaga	富永: a surname
+j	とみやま	tomiyama	富山: Tomiyama
+j	とめがね	tomegane	継ぎ目などを繋いで留めておくための金具。
+j	とめそで	tomesode	留袖: An expensive, formal …
+j	とめひろ	tomehiro	留広: a male given name
+j	ともかく	tomokaku	とにかく。
+j	ともかず	tomokazu	友和, 智和, 智一: a male given …
+j	ともがら	tomogara	fellows, folks
+j	ともじめ	tomojime	ねじやボルトで複数の部品を一緒に締めること。
+j	ともじろう	tomojiro	智次郎: a male given name
+j	ともたか	tomotaka	朋孝: a male given name
+j	ともづる	tomozuru	雌雄揃っている鶴。良い配偶者。
+j	ともども	tomodomo	一緒に。互いに。もろとも。体言に後置して副助詞的に…
+j	ともなく	tomonaku	somehow, without knowing …
+j	ともぬの	tomonuno	衣類に使用された布の切れ端であり、衣類に添付される…
+j	とものぶ	tomonobu	知伸: a male given name
+j	とものり	tomonori	知則, 友紀, 智徳, 智規, 智則, 智紀: a…
+j	ともはる	tomoharu	智治: a male given name
+j	ともひさ	tomohisa	智久: a male given name
+j	ともひで	tomohide	智秀: a male given name
+j	ともひと	tomohito	智人: a male given name
+j	ともひろ	tomohiro	智弘, 友裕, 智裕, 知宏, 友博, 智啓, 朋…
+j	ともびき	tomobiki	陰陽家の説で凶禍が友に及ぶ方角。
+j	ともふみ	tomofumi	奉文: a male given name
+j	ともぶね	tomobune	本船または大将船に随う船。
+j	ともゆき	tomoyuki	智之, 友之, 知之, 朋幸, 智行, 友行: a…
+j	とやかく	toyakaku	あれこれと。なんのかんのと。
+j	とよかず	toyokazu	豊千: a male given name
+j	とよかわ	toyokawa	豊川: a surname
+j	とよひこ	toyohiko	豊彦: a male given name
+j	とよゆき	toyoyuki	豊雪: a male given name
+j	とらがり	toragari	虎を狩って捕らえること。
+j	とらねこ	toraneko	体毛が虎斑の猫。
+j	とらのひ	toranohi	暦の上で寅にあたる日。
+j	とらふぐ	torafugu	フグ目フグ科トラフグ属に属する魚の一種。学名は T…
+j	とりあえず	toriaezu	at once, first of all, fo…
+j	とりかご	torikago	鳥籠: birdcage
+j	とりがら	torigara	chicken bones, chicken ca…
+j	とりきめ	torikime	「とりきめる」の未然形及び連用形。
+j	とりくみ	torikumi	取り組み: effort, approach, e…
+j	とりくむ	torikumu	組み合う。相手となり争う。
+j	とりけす	torikesu	以前に述べたことや一旦決めたことを後で無かったこと…
+j	とりこみ	torikomi	とりこむこと。収穫。収入。
+j	とりこむ	torikomu	仕事などが立て込み多忙である。
+j	とりごや	torigoya	鳥を飼うための小屋。特に鶏舎を指すことが多い。
+j	とりさげ	torisage	「とりさげる」の未然形及び連用形。
+j	とりさる	torisaru	取って退ける。取り除く。
+j	とりざら	torizara	personal plate to hold fo…
+j	とりたて	toritate	collection of owed money
+j	とりだす	toridasu	中から取って外に出す。
+j	とりだめ	toridame	
+j	とりとめ	toritome	「とりとめる」の未然形及び連用形。
+j	とりなす	torinasu	（執成す・先容す・辯護す）うまく扱い、処理する。
+j	とりなわ	torinawa	罪人を縛るための縄。賊などを捕らえ縛るための麻縄。…
+j	とりにく	toriniku	鳥肉: meat of a bird, in pa…
+j	とりのひ	torinohi	暦の上で酉にあたる日。
+j	とりはだ	torihada	鳥肌: goose bumps
+j	とりひき	torihiki	売買又は売買契約をすること。
+j	とりまき	torimaki	とりまくこと。取り囲むこと。
+j	とりまく	torimaku	人や物の周りを囲む。また、あるものが周囲に存在する。
+j	とりもの	torimono	（【捕り物・捕物】）犯人を捕縛、逮捕すること。
+j	とりやめ	toriyame	「とりやめる」の未然形および連用形。
+j	とりわけ	toriwake	特に。ことさら。
+j	とれだか	toredaka	harvest yield
+j	とろかす	torokasu	to melt; to liquefy
+j	とろける	torokeru	to melt; to soften
+j	とろとろ	torotoro	dozing off
+j	とんかち	tonkachi	hammer
+j	とんかつ	tonkatsu	豚カツ: tonkatsu (a Japanese…
+j	とんちき	tonchiki	まぬけ、とんま。罵倒語として使われることが多い。
+j	と来たら	tokitara	
+j	トイレット	toiretto	toilet, bathroom
+j	トウェルブ	towerubu	数の十二。
+j	トウバンジャン	tobanjan	中華料理の調味料の一つで、そらまめを原料とした味噌。
+j	トカマク	tokamaku	
+j	トカラ語	tokarago	the Tocharian language
+j	トキシン	tokishin	synonym of 毒素 (dokuso, “t…
+j	トキポナ	tokipona	人工言語の一つ。カナダ在住の Sonja Lang…
+j	トギャラン	togyaran	最も高い位置にある横帆で、真横から後ろの風の時に使…
+j	トスカーナ	tosukana	Tuscany (an administrativ…
+j	トッピング	toppingu	topping
+j	トップテン	topputen	top ten
+j	トッポッキ	toppokki	
+j	トテシャン	toteshan	とても美しい女性。
+j	トトナム	totonamu	
+j	トネリコ	toneriko	とねりこの学術的表記。
+j	トバゴ島	tobagoto	Tobago
+j	トビハゼ	tobihaze	
+j	トポロジー	toporoji	topology (study of geomet…
+j	トマホーク	tomahoku	tomahawk (American Indian…
+j	トムスク	tomusuku	
+j	トムヤム	tomuyamu	
+j	トライアラー	toraiara	トライアル（モトトライアル）専用のオートバイ。トラ…
+j	トライアル	toraiaru	trial, testing, especiall…
+j	トライトーン	toraiton	三全音。
+j	トラクター	torakuta	a tractor
+j	トラコーマ	torakoma	クラミジアの一種によっておこる結膜炎。失明すること…
+j	トラスト	torasuto	a trust
+j	トラネコ	toraneko	tabby cat
+j	トラブる	toraburu	to experience trouble
+j	トラブル	toraburu	trouble
+j	トラベル	toraberu	旅。旅行。
+j	トラホーム	torahomu	trachoma
+j	トランシェ	toranshe	
+j	トラ猫	toraneko	
+j	トリエステ	torieste	
+j	トリクル	torikuru	したたり、しずく。
+j	トリニダ	torinida	Trinidad (in Bolivia, Cub…
+j	トリニティ	toriniti	三重。三つ組。三つの部分。
+j	トリノの	torinono	
+j	トリビューン	toribyun	
+j	トリプラ	toripura	Tripura (a state in north…
+j	トリプル	toripuru	三倍。三重。複合語で使われることが多い。
+j	トリポリ	toripori	Tripoli (the capital city…
+j	トルコの	torukono	
+j	トルコ語	torukogo	Turkish - the official la…
+j	トルティーヤ	torutiya	tortilla
+j	トルネード	torunedo	tornado.
+j	トレする	toresuru	
+j	トレオニン	toreonin	threonine
+j	トレパク	torepaku	plagiarism by tracing
+j	トレビアン	torebian	very good, very well
+j	トレブル	toreburu	treble
+j	トレモロ	toremoro	tremolo
+j	トレンチ	torenchi	trench
+j	トレントン	torenton	Trenton (the capital city…
+j	トロミノ	toromino	
+j	トロンボーン	toronbon	a trombone
+j	トンカツ	tonkatsu	豚カツ: tonkatsu (a Japanese…
+j	トンガ人	tongajin	トンガの主要民族。ポリネシア人の一派。
+j	トンプソン	tonpuson	a transliteration of the …
+j	トークページ	tokupeji	
+j	トースハウン	tosuhaun	フェロー諸島の政庁所在地。
+j	トートロジー	totoroji	tautology
+j	ト短調	totancho	G minor
+j	ト長調	tochocho	G major
+j	ト音記号	toonkigo	a type of clef; the G clef
+j	乏しい	toboshii	meager, scarce
+j	俊明	toshiaki	a male given name
+j	兎に角	tonikaku	anyway, anyhow, in any ca…
+j	兎も角	tomokaku	anyhow, anyway, in any ca…
+j	党官僚	tokanryo	
+j	共々	tomodomo	working or acting together
+j	冨永	tominaga	a surname
+j	凸形	totsukei	中央が張り出した形。
+j	凸面	totsumen	convex area
+j	利明	toshiaki	a male given name
+j	利根川	tonegawa	a surname
+j	友之	tomoyuki	a male given name
+j	友信	tomonobu	a male given name
+j	友博	tomohiro	a male given name
+j	友和	tomokazu	a male given name
+j	友引	tomobiki	Second day of Rokuyō cale…
+j	友永	tomonaga	a surname
+j	友治	tomoharu	a male given name
+j	友行	tomoyuki	a male given name
+j	友裕	tomohiro	a male given name
+j	取って置き	totteoki	something which is set as…
+j	取りあえず	toriaezu	
+j	取り出す	toridasu	to take out; extract
+j	取り分け	toriwake	particularly, especially,…
+j	取り去る	torisaru	
+j	取り巻き	torimaki	hanger-on
+j	取り巻く	torimaku	to surround; to crowd aro…
+j	取り引き	torihiki	
+j	取り決め	torikime	decision, settlement
+j	取り消す	torikesu	annul, nullify, cancel, r…
+j	取り留め	toritome	gist, coherence
+j	取り組み	torikumi	effort, approach, energy
+j	取り組む	torikumu	to grapple; to wrestle
+j	取り込む	torikomu	take in, bring in
+j	取引	torihiki	transaction
+j	取徳	toridoku	取得の異表記。
+j	取組	torikumi	
+j	取組み	torikumi	
+j	吐露する	torosuru	
+j	咎める	togameru	to find fault, to nitpick…
+j	唐三盆	tosanbon	外国から輸入された質の高い白砂糖。
+j	唐人稗	tojinbie	
+j	唐人笛	tojinbue	らっぱ。
+j	唐鋏	tobasami	scissors; (specifically) …
+j	問い合わせ	toiawase	inquiry
+j	問合せ	toiawase	
+j	囚われ	toraware	imprisonment
+j	図書館	toshokan	library (building)
+j	圕	toshokan	
+j	土地勘	tochikan	土地鑑の別形。
+j	土地鑑	tochikan	familiarity with the land
+j	奉文	tomofumi	a male given name
+j	富くじ	tomikuji	lottery
+j	富永	tominaga	a surname
+j	対々和	toitoiho	a 役 (yaku, “winning hand”…
+j	寿聡	toshiaki	a male given name
+j	届ける	todokeru	to deliver
+j	届け出	todokede	Notification, report, fil…
+j	届出	todokede	行政庁や会社の上司などに一定の事項の通知をする行為。
+j	巴紋	tomoemon	tomoe (circular design)
+j	常春	tokoharu	everlasting spring
+j	床の間	tokonoma	tokonoma (an alcove where…
+j	床山	tokoyama	
+j	当事国	tojikoku	その事件や紛争に直接関係している国。
+j	得する	tokusuru	利益を得る。
+j	得心	tokushin	十分に納得すること。
+j	得意顔	tokuigao	自慢そうな顔つき。
+j	得益	tokuyaku	利益を得ること。
+j	徳一	tokuichi	a male given name
+j	徳山	tokuyama	
+j	徳川	tokugawa	Tokugawa, a family name, …
+j	徳役	tokuyaku	戦国時代、大名の領内で財力がある者が負担した金銭で…
+j	徳心	tokushin	仁徳。
+j	徳次郎	tokujiro	a male given name
+j	徳永	tokunaga	a surname
+j	恍ける	tobokeru	to pretend not to know
+j	所で	tokorode	by the way, incidentally
+j	投扇興	tosenkyo	少し離れた場所から扇を的に投げ、的と扇の落ちた形に…
+j	投手戦	toshusen	両チームともの投手が好投し、少ない得点で競り合う試…
+j	投石器	tosekiki	
+j	投石機	tosekiki	
+j	投票者	tohyosha	voter
+j	投開票	tokaihyo	選挙などで投票することと開票すること。
+j	投降する	tokosuru	
+j	捕方	torikata	
+j	敏明	toshiaki	a male given name
+j	敏昭	toshiaki	a male given name
+j	敏晃	toshiaki	a male given name
+j	時々	tokidoki	sometimes, at times, occa…
+j	時成	tokinari	a male given name
+j	時時	tokidoki	ときどき 参照。
+j	時計台	tokeidai	
+j	時計商	tokeisho	時計を売買する商人。
+j	時計師	tokeishi	clockmaker, watchmaker
+j	時高	tokitaka	a male given name
+j	智久	tomohisa	a male given name
+j	智之	tomoyuki	a male given name
+j	智人	tomohito	a male given name
+j	智仁	tomohito	a male given name
+j	智則	tomonori	a male given name
+j	智啓	tomohiro	a male given name
+j	智宏	tomohiro	a male given name
+j	智弘	tomohiro	a male given name
+j	智徳	tomonori	a male given name
+j	智次郎	tomojiro	a male given name
+j	智治	tomoharu	a male given name
+j	智秀	tomohide	a male given name
+j	智紀	tomonori	a male given name
+j	智行	tomoyuki	a male given name
+j	智裕	tomohiro	a male given name
+j	智規	tomonori	a male given name
+j	智隆	tomotaka	a male given name
+j	朋久	tomohisa	a male given name
+j	朋孝	tomotaka	a male given name
+j	朋幸	tomoyuki	a male given name
+j	朋弘	tomohiro	a male given name
+j	朝長	tomonaga	a surname
+j	杜仲茶	tochucha	杜仲の葉を乾燥させ、煎じた茶。
+j	東京人	tokyojin	A person from Tokyo; a To…
+j	東京市	tokyoshi	1943年の都制施行まで現在の東京都区部にあった市…
+j	東京湾	tokyowan	Tōkyō Bay (a bay of Japan)
+j	東京灣	tokyowan	東京湾の旧字体表記。
+j	東北の	tohokuno	
+j	東北忌	tohokuki	東日本大震災が発生した3月11日。
+j	東北東	tohokuto	east-northeast
+j	東南海	tonankai	和歌山県から愛知県にかけての沖合の太平洋。
+j	東名阪	tomeihan	東京、名古屋、大阪の三つの大都市。
+j	東微北	tobihoku	東と東北東との中間の方位。三十二方位の一つ。
+j	東方学	tohogaku	
+j	東洋学	toyogaku	Oriental studies
+j	桃源郷	togenkyo	俗世間から離れた別天地。理想郷。
+j	梣	toneriko	Japanese ash, Fraxinus ja…
+j	殿方	tonogata	gentlemen
+j	涜神	tokushin	sacrilege, blasphemy, pro…
+j	渡世人	toseinin	博徒。ばくちうち。やくざもの。
+j	渡来人	toraijin	a foreigner who crossed t…
+j	溶かせる	tokeseru	
+j	溶け出す	tokedasu	begin to dissolve
+j	溶け込む	tokekomu	to melt into; to merge in…
+j	滞り	todokori	delay; stagnation; obstru…
+j	滞る	todokoru	be overdue, be in arrears…
+j	瀆神	tokushin	神の神聖を穢すこと。
+j	灯台船	todaisen	
+j	灯心草	toshinso	synonym of 藺草 (igusa, “so…
+j	灯質	toshitsu	light characteristic
+j	特ダネ	tokudane	exclusive, scoop, exclusi…
+j	特価品	tokkahin	
+j	特攻隊	tokkotai	特別攻撃隊。
+j	特有な	tokuyuna	
+j	特有の	tokuyuno	
+j	特派員	tokuhain	special correspondent
+j	特異点	tokuiten	singularity; singular poi…
+j	特異臭	tokuishu	その物質にしかないような特殊な臭い。
+j	特約	tokuyaku	special agreement; specia…
+j	特許法	tokkyoho	patent law
+j	特許状	tokkyojo	
+j	特豚	tokubuta	熱狂的、狂信的な特撮好きのおたく。
+j	特進	tokushin	alternate name of 正(しょう)二…
+j	留めた	todometa	
+j	留める	todomeru	to hold, to keep (to a li…
+j	留め金	tomegane	clasp (fastener or holder)
+j	留広	tomehiro	a male given name
+j	留袖	tomesode	a kimono with short squar…
+j	登山者	tozansha	mountain climber
+j	登竜門	toryumon	gateway to a career etc.
+j	知之	tomoyuki	a male given name
+j	知伸	tomonobu	a male given name
+j	知則	tomonori	a male given name
+j	知史	tomofumi	a male given name
+j	知宏	tomohiro	a male given name
+j	知春	tomoharu	a male given name
+j	知隆	tomotaka	a male given name
+j	磨ぎ汁	togijiru	water, usually cloudy, th…
+j	磨石	togiishi	
+j	禁める	todomeru	
+j	稔昌	toshiaki	a male given name
+j	突兀	tokkotsu	lofty; towering; sharply …
+j	突入	totsunyu	the action of rushing in
+j	突厥	tokketsu	the Turks
+j	突変	totsuhen	mutation
+j	突屼	tokkotsu	高く突き出ているさま。聳え立つさま。
+j	突沸	topputsu	bumping (sudden boiling)
+j	突然	totsuzen	sudden
+j	突発	toppatsu	sudden, unexpected occurr…
+j	等々力	todoroki	a place name
+j	等方的	tohoteki	
+j	等翅類	toshirui	等翅目に分類される昆虫の総称。
+j	等質	toshitsu	equality, uniformity, hom…
+j	篤信	tokushin	sincere belief, devotion
+j	篤学	tokugaku	学問に熱心であること。
+j	篤心	tokushin	篤実な心。
+j	篤農家	tokunoka	先進的な農法の研究や普及、品種改良などにつとめた農…
+j	糖化する	tokasuru	
+j	糖原病	togenbyo	glycogenosis
+j	糖尿病	tonyobyo	diabetes
+j	糖衣構文	toikobun	syntactic sugar
+j	糖質	toshitsu	saccharide
+j	統合する	togosuru	
+j	統失	toshitsu	
+j	統治権	tochiken	the right to govern, sove…
+j	統治者	tochisha	ruler
+j	綴じ込み	tojikomi	file (collection of paper…
+j	綴じ針	tojibari	a large thick needle used…
+j	纜	tomozuna	a mooring line attached a…
+j	虎猫	toraneko	
+j	虎鮫	torazame	cloudy catshark, Scyliorh…
+j	討論会	toronkai	debate, discussion, round…
+j	訥弁	totsuben	話し方が滑らかでないこと。また、そのようなさま。
+j	謄写版	toshaban	mimeograph
+j	豆板醤	tobanjan	doubanjiang; tobanjan (sa…
+j	豆板醬	tobanjan	
+j	豊中	toyonaka	Toyonaka (a city in Osaka…
+j	豊仁	toyohito	a male given name
+j	豊倉	toyokura	a surname
+j	豊千	toyokazu	a male given name
+j	豊原	toyohara	(historical) Toyohara (fo…
+j	豊崎	toyosaki	a surname
+j	豊川	toyokawa	a city in Aichi Prefectur…
+j	豊彦	toyohiko	a male given name
+j	豊福	toyofuku	a surname
+j	豊臣	toyotomi	a surname
+j	豊雪	toyoyuki	a male given name
+j	豚カツ	tonkatsu	tonkatsu (a Japanese dish)
+j	豚骨	tonkotsu	豚の骨。また、それの出汁を利用したスープ。
+j	賭博場	tobakujo	
+j	跳び箱	tobibako	vaulting horse
+j	跳び縄	tobinawa	
+j	跳箱	tobibako	
+j	轟く	todoroku	to resound, to reverberate
+j	轟木	todoroki	a surname
+j	透写紙	toshashi	synonym of トレーシングペーパー (to…
+j	透出	toshutsu	漏出すること。漏洩すること。
+j	透寫紙	toshashi	tracing paper
+j	透明体	tomeitai	transparent object
+j	透明性	tomeisei	transparency, especially …
+j	途上国	tojokoku	developing country
+j	途切れる	togireru	to break, pause, be inter…
+j	通り抜け	torinuke	
+j	遠回り	tomawari	detour
+j	遠眼鏡	tomegane	an optical instrument for…
+j	都会人	tokaijin	都会で生活する者。
+j	都市間	toshikan	
+j	闘争する	tososuru	
+j	闘牛士	togyushi	bullfighter (a toreador o…
+j	陶芸品	togeihin	
+j	陶酔感	tosuikan	
+j	隣の	tonarino	
+j	隣り合う	tonariau	
+j	頓痴気	tonchiki	idiot, fool
+j	頓着	tonchaku	caring deeply about a mat…
+j	飛び出す	tobidasu	to spring out, jump out
+j	飛び去る	tobisaru	to flee, to run away
+j	飛び石	tobiishi	
+j	飛び箱	tobibako	
+j	飛び越す	tobikosu	
+j	飛び込む	tobikomu	to jump into, to leap int…
+j	飛び退く	tobinoku	jump back
+j	飛び道具	tobidogu	firearm, bow, or any othe…
+j	飛魚座	tobiuoza	とびうお座。
+j	鳥原	torihara	a surname
+j	鳥山	toriyama	a surname
+j	鳥籠	torikago	birdcage
+j	鳥肉	toriniku	meat of a bird, in partic…
+j	鳥肌	torihada	goose bumps
+j	鳥谷部	toriyabe	a surname
+j	鴇崎	tokizaki	a surname
+k	토기장	togijang	
+k	토기점	togijeom	
+k	토끼굴	tokkigul	cuniculus, burrow of rabb…
+k	토끼목	tokkimok	
+k	토끼풀	tokkipul	A clover, especially the …
+k	토닥이다	todagida	잘 울리지 아니하는 물체를 가볍게 두드리는 소…
+k	토란대	torandae	taro stem
+k	토로하다	torohada	
+k	토론회	toronhoe	debate, discussion, round…
+k	토목업	tomogeop	
+k	토미즘	tomijeum	
+k	토바리시	tobarisi	
+k	토산물	tosanmul	
+k	토산품	tosanpum	
+k	토속학	tosokhak	
+k	토스터	toseuteo	toaster
+k	토스트	toseuteu	toast (toasted bread)
+k	토옥하다	tookhada	
+k	토욕혼	toyokhon	Tuyuhun (A powerful Mongo…
+k	토월회	towolhoe	
+k	토의하다	touihada	to discuss
+k	토주관	tojugwan	
+k	토주석	tojuseok	
+k	토지법	tojibeop	
+k	토착어	tochageo	the native language of a …
+k	토크쇼	tokeusyo	
+k	토하젓	tohajeot	tohajeot (a salted and fe…
+k	톡 피신	tokpisin	
+k	톡톡히	toktokhi	
+k	톱 가오리	topgaori	
+k	톱톱히	toptophi	
+k	통가리	tonggari	The Korean torrent catfis…
+k	통가어	tonggaeo	
+k	통가인	tonggain	
+k	통괄	tonggwal	
+k	통근	tonggeun	commute
+k	통금	tonggeum	curfew, especially one im…
+k	통기다	tonggida	
+k	통꼴	tongkkol	(축구) 골키퍼가 손쓸 사이도 없이 골인되는 …
+k	통나무	tongnamu	log
+k	통사리	tongsari	The bullhead torrent catf…
+k	통상	tongsang	usual
+k	통설	tongseol	
+k	통섭	tongseop	
+k	통역	tongyeok	interpretation
+k	통용	tongyong	
+k	통일안	tongiran	proposal for unification
+k	통장	tongjang	bankbook; passbook
+k	통째	tongjjae	whole unit
+k	통찰	tongchal	insight, intuition, disce…
+k	통촉	tongchok	seeing, understanding, di…
+k	통쾌	tongkwae	
+k	통탕	tongtang	
+k	통통	tongtong	with a thump (a word imit…
+k	통풍	tongpung	gout
+k	통하다	tonghada	to pass through, from one…
+k	톺아보다	topaboda	샅샅이 톺아 나가면서 살피다.
+k	퇴영	toeyeong	
+k	퇴정	toejeong	
+k	퇴주잔	toejujan	
+k	퇴직자	toejikja	
+k	퇴행	toehaeng	
+k	툇마루	toenmaru	툇간에 놓은 마루.
+e	toadstool	toadstool	1 meaning
+e	toblerone	toblerone	1 meaning
+e	tocantins	tocantins	1 meaning
+e	tocharian	tocharian	1 meaning
+e	tokushima	tokushima	1 meaning
+e	tolerance	tolerance	1 meaning
+e	toll booth	tollbooth	1 meaning
+e	tombstone	tombstone	1 meaning
+e	tool steel	toolsteel	1 meaning
+e	toothache	toothache	1 meaning
+e	toothpick	toothpick	1 meaning
+e	top secret	topsecret	1 meaning
+e	tottenham	tottenham	1 meaning
+e	tour guide	tourguide	1 meaning
+e	tourcoing	tourcoing	1 meaning
+e	tower over	towerover	1 meaning
+e	townhouse	townhouse	1 meaning
+e	townsfolk	townsfolk	1 meaning
+e	toy poodle	toypoodle	1 meaning
+j	といかける	toikakeru	質問を仕掛ける。問う。
+j	といただす	toitadasu	不審や疑問に思う点などを問い合わせて明らかにする。
+j	とうげみち	togemichi	峠を通る道。
+j	とうしんだい	toshindai	等身大: life-size(d)
+j	とうそくるい	tosokurui	頭足類: cephalopod
+j	とおまわし	tomawashi	indirect; roundabout; vei…
+j	とおりみち	torimichi	通って行く道。通路。
+j	とかんむり	tokanmuri	漢字の部首「⼾」が冠であるときの呼称。
+j	ときあかす	tokiakasu	問題を解決して分かるように明らかにする。
+j	ときおこす	tokiokosu	説明を始める。説き始める。
+j	ときをえがお	tokioegao	自信を持ち、いかにも誇らしそうな顔つきや表情。
+j	とくさつ	tokusatsu	特撮: special effects
+j	とくしま	tokushima	徳島: Tokushima
+j	とくとうびょう	tokutobyo	禿頭病: alopecia
+j	とげのある	togenoaru	
+j	とこなつ	tokonatsu	一年中気温が高く、夏のような気候であること。
+j	とこむし	tokomushi	床虱の別称。
+j	ところてん	tokoroten	心太: Gelidium jelly; prost…
+j	としおいる	toshioiru	年老いる: to grow old
+j	としかさ	toshikasa	年齢が他の人よりも高いこと。
+j	としかず	toshikazu	利一, 利和, 利員, 寿一, 寿千, 寿和, 俊…
+j	としがみ	toshigami	年神, 歳神: (Shinto) a god of…
+j	としごと	toshigoto	毎年。年年。
+j	としごろ	toshigoro	大体の年齢。
+j	としたか	toshitaka	敏孝: a male given name
+j	としたけ	toshitake	俊丈: a male given name
+j	としだか	toshidaka	年上であること。
+j	としてる	toshiteru	敏輝: a male given name
+j	としなみ	toshinami	毎年。毎年やっているまたはなっていること。
+j	としのせ	toshinose	一年の終わりの頃。
+j	としのり	toshinori	利則: a male given name
+j	としひこ	toshihiko	紀彦, 利彦, 十四彦, 歳彦, 敏彦, 捷彦, …
+j	としひさ	toshihisa	俊久, 敏久: a male given name
+j	としひと	toshihito	俊人: a male given name
+j	としひろ	toshihiro	敏弘, 利弘, 敏博, 俊宏, 利洋, 敏浩, 寿…
+j	としふみ	toshifumi	寿文, 敏文, 敏史, 利文: a male gi…
+j	としまさ	toshimasa	敏正: a male given name
+j	としやす	toshiyasu	年安: a male given name
+j	としゆき	toshiyuki	敏之, 利之, 隼行, 利幸, 俊幸, 敏行, 俊…
+j	としより	toshiyori	高齢者。老人。
+j	としんどん	toshindon	foreigner
+j	とじしろ	tojishiro	紙などで綴じるために開けておく端の部分。
+j	とちのき	tochinoki	Aesculus turbinata
+j	とっきょけん	tokkyoken	特許権: patent rights
+j	とっくみあい	tokkumiai	「とっくみあう」の連用形。
+j	とっくみあう	tokkumiau	互いに組み合って格闘する。
+j	ととのえる	totonoeru	乱れのないきちんとした状態にする。
+j	とどまつ	todomatsu	マツ科モミ属に属する常緑樹。
+j	とばくち	tobakuchi	入口。
+j	とばぐち	tobaguchi	入口。
+j	とばしり	tobashiri	水しぶき。
+j	とばちり	tobachiri	水しぶき。
+j	とびあがる	tobiagaru	飛び上がる: jump up
+j	とびおりる	tobioriru	to jump down from; to jump
+j	とびこえる	tobikoeru	物の上を飛んで向こうに達する。
+j	とびたつ	tobitatsu	飛び上がる。
+j	とびだし	tobidashi	「とびだす」の連用形。
+j	とびちる	tobichiru	飛ぶように散らばる。飛散する。
+j	とびっきり	tobikkiri	
+j	とびつく	tobitsuku	飛び掛かる。
+j	とめどない	tomedonai	留まることを知らない。際限の無い。キリがない。
+j	ともえがも	tomoegamo	カモ科の鳥類。全長は40センチメートル程度の鴨。シ…
+j	ともかつ	tomokatsu	朝勝: a male given name
+j	ともしび	tomoshibi	灯, 灯火, 燭: light; lamp
+j	ともだおれ	tomodaore	競争や共助の結果、いずれも立ち行かなくなること。
+j	ともだち	tomodachi	（古、稀）友の複数表現。
+j	ともちか	tomochika	智史, 智哉: a male given name
+j	ともよし	tomoyoshi	友好, 智義: a male given name
+j	とよとし	toyotoshi	豊年: a male given name
+j	とらきち	torakichi	寅吉: a male given name
+j	とらまえる	toramaeru	とらえる。つかまえる。
+j	とりあげる	toriageru	下にある物を手に取って持ち上げる。
+j	とりあわせ	toriawase	取り合わせること。配合すること。調和。
+j	とりいれる	toriireru	外のものを取り込む。
+j	とりおとす	toriotosu	手に持っているものを落とす。
+j	とりかえす	torikaesu	一旦手元から離れた物をとりもどす。
+j	とりかえる	torikaeru	別の物に替える。
+j	とりけし	torikeshi	「取り消す」の連用形名詞化、取り消すこと。
+j	とりさし	torisashi	とりもちなどを使用して鳥を捕獲すること。それを行う…
+j	とりつぎ	toritsugi	「とりつぐ」の連用形。
+j	とりつく	toritsuku	人や物に掴まる。すがりつく。
+j	とりつぐ	toritsugu	二つのものの間に立ち、用件などを伝える。
+j	とりつけ	toritsuke	「とりつける」の未然形及び連用形。
+j	とりなし	torinashi	「とりなす」の連用形。
+j	とりはらう	toriharau	すべて取り去る。除去する。
+j	とりばし	toribashi	大皿の料理などを個々の皿などに分ける際に使う箸。
+j	とりもち	torimochi	「とりもつ」の連用形。
+j	とりもつ	torimotsu	手に持つ。
+j	とりよろう	toriyorou	to equip with everything …
+j	と一緒に	toisshoni	
+j	と感じて	tokanjite	
+j	トイプードル	toipudoru	
+j	トウガラシ	togarashi	唐辛子の学術的表記。
+j	トケラウ語	tokeraugo	オーストロネシア語族ポリネシア語派に属する言語の一…
+j	トコロテン	tokoroten	心太: Gelidium jelly; prost…
+j	トシラク	toshiraku	dosirak (Korean-style pac…
+j	トッテナム	tottenamu	Tottenham (a suburban are…
+j	トップスリー	toppusuri	top three
+j	トップレス	toppuresu	topless (wearing clothing…
+j	トドラーコン	todorakon	
+j	トビリシ	tobirishi	Tbilisi (the capital city…
+j	トピ主	topinushi	OP
+j	トモエガモ	tomoegamo	「ともえがも」の学術的表記。
+j	トヤマエビ	toyamaebi	
+j	トライアンフ	toraianfu	勝利、凱旋、成功。
+j	トライバル	toraibaru	tribal
+j	トライフォース	toraifosu	
+j	トライフル	toraifuru	
+j	トラス橋	torasukyo	橋桁がトラス構造の橋梁。
+j	トラフィック	torafikku	traffic
+j	トランクス	torankusu	boxer shorts
+j	トランスファー	toransufa	移転すること。移動すること。
+j	トリアス紀	toriasuki	synonym of 三畳紀 (Sanjōki, …
+j	トリオミノ	toriomino	
+j	トリコサン	torikosan	
+j	トリコット	torikotto	tricot
+j	トリデカン	toridekan	tridecane
+j	トリデセン	toridesen	tridecene
+j	トリノ人	torinojin	
+j	トリビアル	toribiaru	些末であるさま。自明であるさま。
+j	トリミング	torimingu	cropping of an image
+j	トリレンマ	torirenma	3つの目標を同時に達成できない状況。
+j	トルィズーブ	toruizubu	
+j	トルコ人	torukojin	Turk; a Turkish person
+j	トルマリン	torumarin	tourmaline
+j	トレネッテ	torenette	trenette
+j	トレンガヌ	torenganu	
+j	トレンティーノ	torentino	
+j	トレーディング	toredingu	通商。貿易。取引き。
+j	トレードオフ	toredoofu	二律背反。一得一失。
+j	トレーニング	toreningu	training, often in sports…
+j	トロロアオイ	tororoaoi	
+j	トローリング	tororingu	
+j	トンキン湾	tonkinwan	the Gulf of Tonkin
+j	トークロイド	tokuroido	
+j	トートバッグ	totobaggu	tote bag
+j	トーナメント	tonamento	tournament
+j	トーン・ポリース	tonporisu	
+j	トーン発生	tonhassei	ある言語の非音韻的な特徴が失われることによって、声…
+j	俊丈	toshitake	a male given name
+j	俊久	toshihisa	a male given name
+j	俊之	toshiyuki	a male given name
+j	俊人	toshihito	a male given name
+j	俊信	toshinobu	a male given name
+j	俊則	toshinori	a male given name
+j	俊和	toshikazu	a male given name
+j	俊宏	toshihiro	a male given name
+j	俊幸	toshiyuki	a male given name
+j	俊春	toshiharu	a male given name
+j	俊行	toshiyuki	a male given name
+j	倒垂	tosuisuru	hang upside down
+j	倒産する	tosansuru	
+j	倒錯者	tosakusha	
+j	冬季五輪	tokigorin	冬季オリンピックの略称。
+j	冬眠する	tominsuru	
+j	冬虫夏草	tochukaso	caterpillar fungus (Ophio…
+j	冬蟲夏草	tochukaso	
+j	利一	toshikazu	a male given name
+j	利之	toshiyuki	a male given name
+j	利信	toshinobu	a male given name
+j	利則	toshinori	a male given name
+j	利和	toshikazu	a male given name
+j	利幸	toshiyuki	a male given name
+j	利弘	toshihiro	a male given name
+j	利文	toshifumi	a male given name
+j	利春	toshiharu	a male given name
+j	利治	toshiharu	a male given name
+j	利洋	toshihiro	a male given name
+j	利行	toshiyuki	a male given name
+j	匿名の	tokumeino	
+j	友達	tomodachi	friend
+j	取っ組み合い	tokkumiai	
+j	取り上げる	toriageru	to pick up
+j	取り付く	toritsuku	possess, haunt
+j	取り付け	toritsuke	
+j	取り入れる	toriireru	bring in, take inside
+j	取り憑く	toritsuku	
+j	取り払う	toriharau	take away, remove, clear
+j	取り持つ	torimotsu	mediate between parties
+j	取り換える	torikaeru	
+j	取り放題	torihodai	being able to take as muc…
+j	取り替える	torikaeru	exchange, change for, swap
+j	取り替え子	torikaeko	
+j	取り消し	torikeshi	cancellation, annulment, …
+j	取り箸	toribashi	long chopsticks used for …
+j	取り返す	torikaesu	recover, get back
+j	吐谷渾	toyokukon	Tuyuhun (A powerful Mongo…
+j	唐変木	tohenboku	A person who is narrow-mi…
+j	唐樒	toshikimi	
+j	唐辛子	togarashi	chilli pepper
+j	問い掛ける	toikakeru	to ask a question
+j	問い質す	toitadasu	to inquire, to ask a ques…
+j	土地利用	tochiriyo	land use
+j	外つ国	totsukuni	foreign country
+j	寅吉	torakichi	a male given name
+j	富山県	toyamaken	a prefecture in the 中部 (C…
+j	寿一	toshikazu	a male given name
+j	寿千	toshikazu	a male given name
+j	寿和	toshikazu	a male given name
+j	寿彦	toshihiko	a male given name
+j	寿文	toshifumi	a male given name
+j	寿浩	toshihiro	a male given name
+j	寿紀	toshinori	a male given name
+j	屠殺場	tosatsujo	slaughterhouse; abattoir
+j	屠畜場	tochikujo	abattoir (public slaughte…
+j	常夏	tokonatsu	everlasting summer
+j	年の瀬	toshinose	end of the year
+j	年上の	toshiueno	
+j	年安	toshiyasu	a male given name
+j	年寄り	toshiyori	an elderly person
+j	年玉	toshidama	New Year's gift
+j	年神	toshigami	the kami associated with …
+j	年秀	toshihide	a male given name
+j	年老いた	toshioita	
+j	年老いる	toshioiru	to grow old
+j	年行	toshiyuki	a male given name
+j	年頃	toshigoro	apparent age
+j	床虫	tokomushi	bedbug
+j	当座預金	tozayokin	current account
+j	当用漢字	toyokanji	tōyō kanji (kanji that we…
+j	徒歩旅行	tohoryoko	乗り物に乗らずに歩いて目的地に行く旅行。
+j	得意がる	tokuigaru	自慢する、誇らしげに振る舞う。
+j	得意先	tokuisaki	regular customer; patron
+j	徳島	tokushima	Tokushima (the capital ci…
+j	心太	tokoroten	a Japanese noodle-like di…
+j	戸田格子	todakoshi	n個の質点が指数ポテンシャルによって相互作用してい…
+j	投了	toryosuru	to resign
+j	投入する	tonyusuru	
+j	投影式	toeishiki	projection
+j	投書箱	toshobako	
+j	投票する	tohyosuru	
+j	投票箱	tohyobako	ballot box (a sealed box …
+j	投資する	toshisuru	
+j	搭乗口	tojoguchi	boarding gate
+j	撮り鉄	toritetsu	amateur train photographe…
+j	敏一	toshikazu	a male given name
+j	敏久	toshihisa	a male given name
+j	敏之	toshiyuki	a male given name
+j	敏博	toshihiro	a male given name
+j	敏史	toshifumi	a male given name
+j	敏和	toshikazu	a male given name
+j	敏員	toshikazu	a male given name
+j	敏孝	toshitaka	a male given name
+j	敏弘	toshihiro	a male given name
+j	敏彦	toshihiko	a male given name
+j	敏文	toshifumi	a male given name
+j	敏晴	toshiharu	a male given name
+j	敏正	toshimasa	a male given name
+j	敏浩	toshihiro	a male given name
+j	敏行	toshiyuki	a male given name
+j	敏輝	toshiteru	a male given name
+j	敏隆	toshitaka	a male given name
+j	整える	totonoeru	arrange (to set up, organ…
+j	整った	totonotta	
+j	時折の	tokiorino	
+j	智哉	tomochika	a male given name
+j	智義	tomoyoshi	a male given name
+j	朝勝	tomokatsu	a male given name
+j	東北弁	tohokuben	Tōhoku dialect
+j	東南アジア	tonanajia	Southeast Asia (a geograp…
+j	東沙群島	tosagunto	synonym of 東沙諸島 (Tōsa Sho…
+j	東沙諸島	tosashoto	the Pratas Islands
+j	東洋医学	toyoigaku	東洋のそれぞれの地域で起こり、発展した医学。
+j	止まらない	tomaranai	
+j	止め処ない	tomedonai	
+j	涜職	tokushoku	corruption; bribery
+j	溶かせない	tokasenai	
+j	灯台守	todaimori	
+j	灯台草	todaigusa	sun spurge, Euphorbia hel…
+j	特別	tokubetsu	special
+j	特効薬	tokkoyaku	a medicine that is extrem…
+j	特定の	tokuteino	
+j	特定屋	tokuteiya	SNSや電子掲示板に投稿された画像や動画から、個人…
+j	特急券	tokkyuken	特別急行列車に乗車するために必要な券。
+j	特撮	tokusatsu	「特殊撮影」の略。
+j	特攻服	tokkofuku	delinquent (bōsōzoku, yan…
+j	特殊な	tokushuna	
+j	特発	tokuhatsu	列車などを臨時、特別に出すこと。
+j	特立	tokuritsu	他より抜きん出ていること。
+j	特筆	tokuhitsu	special mention
+j	特色	tokushoku	special characteristic, d…
+j	特設	tokusetsu	specially setting up
+j	特許庁	tokkyocho	patent office
+j	特許権	tokkyoken	patent, patent rights
+j	独鈷石	tokkoishi	ground stone tool resembl…
+j	登校拒否	tokokyohi	
+j	登録者	torokusha	組織や団体などに自分の名前などを入れておく者。
+j	盗り鉄	toritetsu	収集または転売する目的で、鉄道関連設備の備品を盗む…
+j	盗塁する	toruisuru	
+j	禿筆	tokuhitsu	a brush with tip worn out…
+j	禿頭病	tokutobyo	alopecia
+j	稔幸	toshiyuki	a male given name
+j	稔浩	toshihiro	a male given name
+j	突出	tosshutsu	protrusion, projection
+j	突拍子	toppyoshi	only used in 突拍子も無い (topp…
+j	突撃	totsugeki	charge
+j	等価物	tokabutsu	equivalent
+j	等差中項	tosachuko	等差数列の任意の隣接三項a,b,cについて成り立つ…
+j	等差級数	tosakyusu	arithmetic series
+j	等比中項	tohichuko	等比数列の任意の隣接三項a,b,cについて成り立つ…
+j	等比級数	tohikyusu	geometric series
+j	等身大	toshindai	life-size(d)
+j	答案用紙	toanyoshi	
+j	篤実	tokujitsu	sincerity; faithfulness
+j	篤志家	tokushika	社会奉仕などに熱心な人。
+j	統一性	toitsusei	uniformity
+j	統治する	tochisuru	
+j	統計学	tokeigaku	statistics
+j	聡之	toshiyuki	a male given name
+j	聡彦	toshihiko	a male given name
+j	苫小牧	tomakomai	a city in Hokkaido Prefec…
+j	虎ノ門	toranomon	Toranomon (a region of Mi…
+j	蟷螂が斧	torogaono	
+j	蟷螂の斧	toronoono	a reckless strike above o…
+j	解き明かす	tokiakasu	explain clearly
+j	討論する	toronsuru	
+j	豆状骨	tojokotsu	手根骨の一つで、舟状骨と三角骨、月状骨をつないで近…
+j	豊橋	toyohashi	Toyohashi (a city in Aich…
+j	豊田市	toyotashi	
+j	豚コレラ	tonkorera	hog cholera
+j	逃避主義	tohishugi	escapism
+j	透明氷	tomeikori	
+j	途方もない	tohomonai	absurd, irrational
+j	通り道	torimichi	route (path something tak…
+j	遠吠えする	toboesuru	
+j	都市ガス	toshigasu	都市部で地中に埋設された配管で家庭や事業所などに供…
+j	都市封鎖	toshifusa	
+j	都道府県	todofuken	Tokyo, Hokkaido, Osaka an…
+j	録り鉄	toritetsu	車内放送や発車メロディなど、鉄道に関係する音の録音…
+j	隼行	toshiyuki	a male given name
+j	頓狂声	tonkyogoe	a sudden screaming
+j	頭索類	tosakurui	原索動物のうち頭索綱に分類される動物。脊索が頭部ま…
+j	頭足類	tosokurui	cephalopod
+j	飛び上がる	tobiagaru	jump up, spring up
+j	飛び散る	tobichiru	scatter about
+j	飛び立つ	tobitatsu	to take off
+j	飛び起きる	tobiokiru	
+j	飛び越える	tobikoeru	to jump (over)
+j	飛び降りる	tobioriru	
+j	鬨の声	tokinokoe	
+j	鳥もつ	torimotsu	
+j	鳥刺し	torisashi	
+j	鳥頭	toriatama	a forgetful person
+j	鳥黐	torimochi	birdlime (adhesive substa…
+j	黄蜀葵	tororoaoi	
+k	토건업	togeoneop	
+k	토관직	togwanjik	
+k	토금속	togeumsok	
+k	토깽이	tokkaengi	'토끼'의 강원도 사투리.
+k	토끼몰이	tokkimori	cornering rabbits or hare…
+k	토끼자리	tokkijari	
+k	토당귀	todanggwi	
+k	토론하다	toronhada	to debate, to discuss
+k	토마호크	tomahokeu	
+k	토막고기	tomakgogi	
+k	토막글	tomakgeul	무엇에 관해 쓴 짧은 글 또는 어떤 문서에서 …
+k	토막민	tomangmin	
+k	토목기사	tomokgisa	
+k	토바리슈	tobarisyu	
+k	토박이말	tobagimal	어떤 언어를 쓰는 사람들이 본디부터 쓰던 말 …
+k	토박하다	tobakhada	
+k	토벌군	tobeolgun	
+k	토산종	tosanjong	
+k	토실하다	tosilhada	
+k	토양학	toyanghak	
+k	토의되다	touidoeda	어떤 문제가 검토되고 협의되다.
+k	토재관	tojaegwan	
+k	토지국유	tojigugyu	
+k	토착화	tochakhwa	
+k	토코페롤	tokoperol	
+k	토트넘	toteuneom	
+k	토트백	toteubaek	
+k	토판장	topanjang	
+k	토황마	tohwangma	
+k	톡탁이다	toktagida	단단한 물건을 가볍게 두드리는 소리가 나다. …
+k	톨게이트	tolgeiteu	
+k	톨라당	tolladang	
+k	톨리야티	tolliyati	
+k	톰빨리	tomppalli	quickly, without delay
+k	톰스크	tomseukeu	
+k	통견	tonggyeon	insight, intuition, penet…
+k	통념	tongnyeom	common idea; notion
+k	통사론	tongsaron	syntax
+k	통성	tongseong	
+k	통솔자	tongsolja	a leader, a commander
+k	통시태	tongsitae	
+k	통신사	tongsinsa	
+k	통어론	tongeoron	syntax
+k	통정	tongjeong	남에게 자기의 의사를 표현함.
+k	통조림	tongjorim	canned food
+k	통증	tongjeung	pain, ache
+k	통지표	tongjipyo	
+k	통치자	tongchija	ruler (a person exercisin…
+k	통칭	tongching	generic name; general term
+k	통행	tonghaeng	passing (through)
+k	퇴고하다	toegohada	
+k	퇴물림	toemulrim	
+k	퇴보하다	toebohada	
+k	퇴임하다	toeimhada	
+k	퇴적암	toejeogam	
+k	퇴조하다	toejohada	
+k	퇴청	toecheong	
+e	to be honest	tobehonest	1 meaning
+e	toco toucan	tocotoucan	1 meaning
+e	tocopherol	tocopherol	1 meaning
+e	toddlercon	toddlercon	1 meaning
+e	todorokite	todorokite	1 meaning
+e	toilet bowl	toiletbowl	1 meaning
+e	toilet seat	toiletseat	1 meaning
+e	tomfoolery	tomfoolery	1 meaning
+e	tomography	tomography	1 meaning
+e	tone police	tonepolice	1 meaning
+e	tone sandhi	tonesandhi	1 meaning
+e	tongue-tied	tonguetied	1 meaning
+e	tonic water	tonicwater	1 meaning
+e	tooth fairy	toothfairy	1 meaning
+e	toothbrush	toothbrush	1 meaning
+e	toothpaste	toothpaste	1 meaning
+e	top surgery	topsurgery	1 meaning
+e	topography	topography	1 meaning
+e	topping out	toppingout	1 meaning
+e	tortellini	tortellini	1 meaning
+e	tortelloni	tortelloni	1 meaning
+e	touchstone	touchstone	2 meanings
+e	tourbillon	tourbillon	1 meaning
+e	tourmaline	tourmaline	1 meaning
+e	tournament	tournament	2 meanings
+e	tourniquet	tourniquet	1 meaning
+e	toxicology	toxicology	1 meaning
+j	といあわせる	toiawaseru	不明なことを聞いて確かめる。
+j	といつめる	toitsumeru	本当のことを言うまで厳しく問い質す。詰問する。
+j	とおりかかる	torikakaru	たまたまそこを通る。
+j	とおりがかり	torigakari	そこを偶然通ること。とおりすがり。
+j	とおりすがり	torisugari	そこを偶然通ること。とおりがかり。
+j	とおりすぎる	torisugiru	ある場所を通って向こう側（先の方）へ行く。通過する。
+j	とおりぬける	torinukeru	ある場所の内部を通って反対の側に出る。
+j	とがめだて	togamedate	必要以上に強く咎めること。
+j	ときたまご	tokitamago	割って茶碗やボールなどに入れた生卵の身を箸などでほ…
+j	ときのひと	tokinohito	person who is the center …
+j	ときはなす	tokihanasu	くっついている、つながっている物を離して分ける。
+j	ときふせる	tokifuseru	よく説明して自分の意見に従わせる。
+j	ときほぐす	tokihogusu	縺れたり、固く結ばれたりしたものを解いて分ける。
+j	ときをこえて	tokiokoete	〔短くはない〕時間の経過がもたらす破壊や消滅の作用…
+j	とぎすます	togisumasu	to polish smooth
+j	とくしつ	tokushitsu	特質: characteristic; featu…
+j	とこしなえ	tokoshinae	the way in which somethin…
+j	とこじらみ	tokojirami	床虱: bedbug
+j	としおとこ	toshiotoko	正月の行事を執り行う男性。
+j	としかつ	toshikatsu	利勝: a male given name
+j	としこし	toshikoshi	新年に移ること。大晦日から元日にかけて、年の変わり…
+j	としした	toshishita	ある人と比較して年少であること。
+j	としつき	toshitsuki	日付の年と月。
+j	としどし	toshidoshi	年を追って。毎年。
+j	としみち	toshimichi	利通: a male given name
+j	とじこめる	tojikomeru	閉じ込める: to shut someone or…
+j	とじこもる	tojikomoru	to shut oneself up and hi…
+j	とじていない	tojiteinai	
+j	とちくるう	tochikuruu	to screw around
+j	とどけさき	todokesaki	届け先: destination, receive…
+j	とどけでる	todokederu	役所、学校、上部組織などに必要事項を文書や口頭で申…
+j	とどろかす	todorokasu	鳴り響かせる。
+j	となりむら	tonarimura	隣接する隣の村。隣里。
+j	とばっちり	tobatchiri	水しぶき。
+j	とびうつる	tobiutsuru	他の場所に飛んで移動する。別の組織などに急いで移る。
+j	とびちがう	tobichigau	飛び交う。
+j	とびぬける	tobinukeru	他よりも格段に優れている。ずばぬける。
+j	とびはねる	tobihaneru	飛んだり、跳ねたりする
+j	とびまわる	tobimawaru	空中をぐるぐる飛ぶ。旋回する。
+j	とぶとりの	tobutorino	飛ぶ鳥の: a flying bird, allu…
+j	とまりこむ	tomarikomu	to stay somewhere else fo…
+j	とめどころ	tomedokoro	止めるべき所。とめど。際限。
+j	とめどなく	tomedonaku	never-ending; non-stop
+j	ともかせぎ	tomokasegi	一世帯で夫婦が共に働いて生計を立てること。共働き。
+j	とやかく言う	toyakakuiu	
+j	とよさぶろう	toyosaburo	豊三郎: a male given name
+j	とらのまき	toranomaki	兵法や芸事などの秘伝の書。
+j	とらわれる	torawareru	とらえられる、つかまる
+j	とりおこなう	toriokonau	儀式などをあらたまって行う。挙行する。執行する。
+j	とりおさえる	toriosaeru	to subdue; to restrain
+j	とりかえし	torikaeshi	「とりかえす」の連用形。
+j	とりかえっこ	torikaekko	swapping between each oth…
+j	とりかかる	torikakaru	手を付ける。着手する。
+j	とりかこむ	torikakomu	周囲をぐるりと囲む。
+j	とりかぶと	torikabuto	鳥兜: wolfsbane
+j	とりかわす	torikawasu	お互いにやり取りをする。ものを交換する。
+j	とりきめる	torikimeru	（決定める）決定する。当事者間で決める。
+j	とりくずす	torikuzusu	崩して壊すこと。
+j	とりこぼす	torikobosu	試合などで負けそうにない相手に負ける。試験などで間…
+j	とりこわす	torikowasu	to tear down (a structure)
+j	とりさげる	torisageru	いったん提出、差し出したものを取り戻す。
+j	とりすがる	torisugaru	何かに強く縋る。縋り付く。
+j	とりすます	torisumasu	相手などと取り合わない顔つきをする。気取る。
+j	とりたてる	toritateru	強制的に徴収する。
+j	とりたわけ	toritawake	国つ罪の一種。鶏と姦淫を行うこと。
+j	とりとめる	toritomeru	危ういところで引き留める。
+j	とりにがす	torinigasu	捕らえかけたものを逃がす。
+j	とりのける	torinokeru	取り除く。取り去る。排除する。
+j	とりのこす	torinokosu	取った後にのこす。また、とりわすれる。
+j	とりのぞく	torinozoku	不要なものを取って無くす。とりのける。
+j	とりはずす	torihazusu	取り付けられているものを外す。
+j	とりはなす	torihanasu	手に持っている物を（意識せず）離す。
+j	とりまとめ	torimatome	「とりまとめる」の連用形。
+j	とりまわす	torimawasu	手に取ってまわす。
+j	とりみだす	torimidasu	to make into a mess
+j	とりもどす	torimodosu	一度手放したものを再び自分の物とする。
+j	とりやめる	toriyameru	予定されていた行事や事業などを中止する。
+j	とりよせる	toriyoseru	to draw closer
+j	とりわける	toriwakeru	同じものの中から特別なものとして分ける。
+j	とんちんかん	tonchinkan	物事が行き違ったりちぐはぐになること。
+j	とんでもない	tondemonai	unbelievable, unreasonabl…
+j	とんぼがえり	tonbogaeri	目的地に着いてすぐ引き返すこと
+j	と言うことは	toiukotowa	in other words; what I (y…
+j	トカンティンス	tokantinsu	
+j	トク・ピシン	tokupishin	英語系のクレオール言語のひとつでパプア・ニューギニ…
+j	トケラウ人	tokeraujin	トケラウの主要民族。ポリネシア人の一派。
+j	トゲウオ目	togeuomoku	かつて存在した目。現在はペルカ目のシノニムとされる。
+j	トコジラミ	tokojirami	昆虫の一種であるとこじらみの学術的表記。
+j	トコフェロール	tokoferoru	tocopherol
+j	トップクォーク	toppukwoku	top quark
+j	トップナンバー	toppunanba	その形式で最初に落成した個体。型番が最も古い個体。…
+j	トップニュース	toppunyusu	新聞で紙面の最上段に載せる一番重要な記事。
+j	トップハット	toppuhatto	a top hat
+j	トップバッター	toppubatta	first to bat
+j	トブラローネ	toburarone	
+j	トブルローヌ	tobururonu	
+j	トマトジュース	tomatojusu	tomato juice (juice made …
+j	トマトソース	tomatososu	
+j	トモグラフィー	tomogurafi	tomography
+j	トライデント	toraidento	
+j	トライベッカ	toraibekka	
+j	トライポッド	toraipoddo	
+j	トラッキング	torakkingu	tracking
+j	トラフズク	torafuzuku	虎斑木菟: long-eared owl (Asi…
+j	トラフ軸	torafujiku	トラフにおける海溝軸に相当する線。
+j	トラヤヌス	torayanusu	Trajan (the Roman emperor)
+j	トランシーバ	toranshiba	受信機と送信機が組み合わされた携帯用無線送話機。ト…
+j	トランシーバー	toranshiba	transceiver; walkie-talkie
+j	トランジット	toranjitto	天体の通過。
+j	トランスカイ	toransukai	（アフリカ史）南アフリカ共和国にあったバントゥース…
+j	トランペッター	toranpetta	トランペットの演奏者。
+j	トランペット	toranpetto	trumpet
+j	トランポリン	toranporin	a trampoline (gymnastic a…
+j	トリエンナーレ	toriennare	a triennial event
+j	トリカブト	torikabuto	鳥兜: aconite (herb, wolfsb…
+j	トリコロール	torikororu	三色旗。
+j	トリコローレ	torikorore	イタリアの国旗。
+j	トリチウム	torichiumu	synonym of 三重水素 (sanjūsui…
+j	トリニダード	torinidado	Trinidad (in Trinidad and…
+j	トリプティカ	toriputika	
+j	トリヤッチ	toriyatchi	Tolyatti, Togliatti (a ci…
+j	トリリオネア	toririonea	
+j	トリンキュロー	torinkyuro	天王星の衛星の固有名。
+j	トルココーヒー	torukokohi	
+j	トルコ学	torukogaku	
+j	トルコ石	torukoishi	turquoise (gemstone)
+j	トルコ風呂	torukoburo	a Turkish bath, hammam (a…
+j	トルテリーニ	toruterini	tortellini
+j	トルバドゥール	torubaduru	
+j	トレチェント	torechento	イタリアで、十四世紀の初期ルネサンスの時代。
+j	トレッキング	torekkingu	登頂を目的とせずに山の稜線を歩くこと。山歩き。
+j	トレードマーク	toredomaku	登録商標。
+j	トロイメライ	toroimerai	Träumerei, a piece from R…
+j	トロッティング	torottingu	繋駕速歩競走。
+j	トロピカル	toropikaru	薄地の平織でさらさらした毛織物。
+j	トロリーバス	tororibasu	trolley bus, trolleybus (…
+j	トロール船	tororufune	
+j	トワイライト	towairaito	薄明。薄明かり。
+j	トンガ王国	tongaokoku	the Kingdom of Tonga
+j	トーチランプ	tochiranpu	
+j	トーテミズム	totemizumu	totemism (belief in a spe…
+j	トーテムポール	totemuporu	a totem pole
+j	倒産した	tosanshita	
+j	倒錯的	tosakuteki	倒錯しているさま。
+j	兎角亀毛	tokakukimo	この世にありえないもの。実在するはずのないもの。「…
+j	党員集会	toinshukai	
+j	兜率天	tosotsuten	六欲天の第四天。須弥山の頂上にあるとされ弥勒菩薩が…
+j	凸レンズ	totsurenzu	中央部分が縁より厚いレンズ。
+j	凸待ち	totsumachi	waiting for someone to ca…
+j	凸月	totsugetsu	gibbous moon
+j	利光	toshimitsu	a male given name
+j	利勝	toshikatsu	a male given name
+j	利通	toshimichi	a male given name
+j	到達点	totatsuten	
+j	取っちめる	totchimeru	to criticize harshly, to …
+j	取り分ける	toriwakeru	
+j	取り囲む	torikakomu	surround
+j	取り外す	torihazusu	to remove; to take down
+j	取り戻す	torimodosu	to get back, to regain, t…
+j	取り掛かる	torikakaru	undertake, set about, beg…
+j	取り止める	toriyameru	call off
+j	取り残す	torinokosu	to leave behind
+j	取り決める	torikimeru	arrange or make arrangeme…
+j	取り留める	toritomeru	to have a narrow escape f…
+j	取り返し	torikaeshi	recovery, restoration
+j	取り除く	torinozoku	remove, prune away, carry…
+j	取引所	torihikijo	an exchange, especially a…
+j	吶吶	totsutotsu	「訥訥」の別表記。
+j	咄咄	totsutotsu	驚きや怒り、悔しさを表すさま。また、それらのため声…
+j	唐竹蘭	tochikuran	Disporum cantoniense, a s…
+j	唐縮緬	tochirimen	muslin
+j	問い合わせる	toiawaseru	to inquire; to seek infor…
+j	問い詰める	toitsumeru	to grill; to confront som…
+j	囚われる	torawareru	to be caught, captured, i…
+j	図書館員	toshokanin	librarian, library clerk
+j	執り行う	toriokonau	to perform, hold (a cerem…
+j	寿光	toshimitsu	a male given name
+j	尊ぶべき	totobubeki	
+j	届け先	todokesaki	destination, receiver's a…
+j	常しえに	tokoshieni	
+j	年を取る	toshiotoru	to grow old, to age
+j	年下	toshishita	younger-ness; juniority; …
+j	年年	toshidoshi	every year, year by year
+j	年月	toshitsuki	years, passing of time, t…
+j	年越し	toshikoshi	New Year's Eve
+j	床虱	tokojirami	bedbug
+j	当初予算	toshoyosan	国、地方公共団体で四月一日からの会計年度で執行して…
+j	当日券	tojitsuken	使用する当日に販売または購入する券（チケット）。
+j	徒手空拳	toshukuken	手に何も持っていないこと。
+j	得失	tokushitsu	advantages and disadvanta…
+j	得点板	tokutenita	
+j	徳万歳	tokomanzai	他人がくしゃみをしたとき、まじないにいう語。徳若に…
+j	徳利病	tokkuribyo	"tokkuri disease": diseas…
+j	投獄する	togokusuru	
+j	投票率	tohyoritsu	voter turnout
+j	投票用紙	tohyoyoshi	A paper used to cast a vo…
+j	投薬	toyakusuru	to prescribe medicines
+j	投資詐欺	toushisagi	
+j	投資銀行	toshiginko	
+j	捕らえ難い	toraegatai	
+j	東京時代	tokyojidai	明治以降の、東京に政府が置かれている時代。
+j	東奔西走	tohonseiso	busying oneself, running …
+j	東山地方	tosanchiho	東山道に属した山梨県、長野県、岐阜県の総称。
+j	東方教会	tohokyokai	キリスト教でビザンツ帝国の教会を起源とする、東方正…
+j	東海夫人	tokaifujin	貽貝の異名。
+j	栃木弁	tochigiben	the Tochigi dialect of Ja…
+j	栃木県	tochigiken	a prefecture in the 関東 (K…
+j	止まっている	tomatteiru	
+j	灯火管制	tokakansei	blackout
+j	特例市	tokureishi	かつて、地方自治法に基づき、中核市とほぼ同一の財政…
+j	特出	tokushutsu	他より特段優れていること。傑出。
+j	特売品	tokubaihin	
+j	特定厨	tokuteichu	SNSや電子掲示板に投稿された画像や動画から、個人…
+j	特定班	tokuteihan	SNSや電子掲示板に投稿された画像や動画から、個人…
+j	特待生	tokutaisei	大学や学校で成績が優秀で行動や活動で他の学生、生徒…
+j	特戦隊	tokusentai	
+j	特殊性	tokushusei	specialness
+j	特許ゴロ	tokkyogoro	
+j	特質	tokushitsu	characteristic; feature; …
+j	登山靴	tozangutsu	
+j	登録する	torokusuru	
+j	盗掘者	tokutsusha	盗掘を行う者。
+j	盗難防止	tonanboshi	
+j	研ぎ澄ます	togisumasu	
+j	突然に	totsuzenni	all of a sudden, all at o…
+j	突然の	totsuzenno	
+j	突貫工事	tokkankoji	construction at top speed
+j	篤疾	tokushitsu	重篤な病気。
+j	統一する	toitsusuru	
+j	統率者	tosotsusha	leader, commander
+j	統語的な	togotekina	
+j	虎に成る	toraninaru	to be so intoxicated as t…
+j	虎の巻	toranomaki	
+j	虎人間	toraningen	
+j	虎斑木菟	torafuzuku	long-eared owl, Asio otus
+j	虎斑鮫	torafuzame	a zebra shark
+j	解き放す	tokihanasu	to set free, to liberate,…
+j	訥訥	totsutotsu	つかえながら話すさま。口ごもりながら話すさま。
+j	説き伏せる	tokifuseru	to persuade, to convince
+j	豊見城	tomigusuku	Tomigusuku (a city in Oki…
+j	逃走する	tousousuru	
+j	透視する	toushisuru	
+j	透視力	toshiryoku	
+j	途中下車	tochugesha	
+j	通り抜ける	torinukeru	to cut through, to go thr…
+j	通り掛かり	torigakari	passing; going by.
+j	通り掛かる	torikakaru	to happen to pass by; to …
+j	通り過ぎる	torisugiru	to go past
+j	遁走曲	tonsokyoku	
+j	都市国家	toshikokka	a city state
+j	都市銀行	toshiginko	city bank (abbr. 都銀(とぎん) …
+j	閉じ込める	tojikomeru	to shut something inside,…
+j	隣組	tonarigumi	a form of a neighborhood …
+j	頭板状筋	tobanjokin	a splenius capitis muscle
+j	頭部外傷	tobugaisho	brain trauma
+j	頭頂骨	tochokotsu	a parietal bone
+j	飛び回る	tobimawaru	to fly about
+j	飛び掛かる	tobikakaru	spring on an opponent, fl…
+j	飛び移る	tobiutsuru	fly
+j	鳥兜	torikabuto	a high-peaked cloth helme…
+j	鳥取県	tottoriken	a prefecture in the 中国 (C…
+j	黨同伐異	todobatsui	
+k	토각귀모	togakgwimo	
+k	토광묘	togwangmyo	
+k	토나멘트	tonamenteu	tournament
+k	토닉 워터	tonikwoteo	
+k	토닥대다	todakdaeda	'토닥거리다'.
+k	토닥토닥	todaktodak	
+k	토달토달	todaltodal	
+k	토돌토돌	todoltodol	
+k	토론되다	torondoeda	
+k	토마토즙	tomatojeup	tomato juice (liquid from…
+k	토막토막	tomaktomak	
+k	토벌하다	tobeolhada	무력으로 적을 쳐서 없애다.
+k	토석류	toseongnyu	
+k	토설하다	toseolhada	
+k	토스트기	toseuteugi	
+k	토실토실	tosiltosil	
+k	토유병	toyubyeong	
+k	토인문학	toinmunhak	
+k	토지수용	tojisuyong	
+k	토착민	tochangmin	
+k	토착하다	tochakhada	
+k	토크 프로	tokeupeuro	
+k	토피 애플	topiaepeul	
+k	토현삼	tohyeonsam	
+k	톡탁하다	toktakhada	
+k	톡톡하다	toktokhada	
+k	톨톨하다	toltolhada	
+k	톱니바퀴	tomnibakwi	cogwheel, toothed wheel
+k	톱톱하다	toptophada	
+k	통계학	tonggyehak	statistics (science)
+k	통배추	tongbaechu	whole napa cabbage, not c…
+k	통보하다	tongbohada	
+k	통속화	tongsokhwa	
+k	통시적	tongsijeok	diachronic
+k	통신원	tongsinwon	correspondent, reporter
+k	통실함	tongsilham	
+k	통역사	tongyeoksa	interpreter
+k	통역인	tongyeogin	
+k	통역자	tongyeokja	interpreter
+k	통일하다	tongilhada	to unify
+k	통장수	tongjangsu	
+k	통제하다	tongjehada	
+k	통지하다	tongjihada	to inform; to notify
+k	통틀다	tongteulda	
+k	통폭탄	tongpoktan	
+k	퇴각하다	toegakhada	to retreat, to withdraw
+k	퇴거하다	toegeohada	
+k	퇴교하다	toegyohada	
+k	퇴락하다	toerakhada	
+k	퇴실하다	toesilhada	
+k	퇴원하다	toewonhada	
+k	퇴장표	toejangpyo	red card
+k	퇴직금	toejikgeum	severance pay
+k	퇴직하다	toejikhada	to retire (from office); …
+k	퇴진하다	toejinhada	군대의 진지를 뒤로 물리다.
+k	퇴치하다	toechihada	
+k	퇴폐적	toepyejeok	
+k	퇴폐주의	toepyejuui	
+k	퇴폐하다	toepyehada	
+k	퇴학하다	toehakhada	
+k	퇴행기	toehaenggi	
+k	퇴화하다	toehwahada	
+e	to the letter	totheletter	1 meaning
+e	tobacco pipe	tobaccopipe	1 meaning
+e	toilet brush	toiletbrush	1 meaning
+e	toilet paper	toiletpaper	1 meaning
+e	tomato juice	tomatojuice	1 meaning
+e	tomato paste	tomatopaste	1 meaning
+e	tomato sauce	tomatosauce	1 meaning
+e	tonsillitis	tonsillitis	1 meaning
+e	torticollis	torticollis	1 meaning
+e	touch screen	touchscreen	1 meaning
+e	touch typing	touchtyping	1 meaning
+j	とうのむかし	tonomukashi	distant past
+j	とうもろこし	tomorokoshi	
+j	とおのむかし	tonomukashi	eggcorn of とうのむかし (tō-no-…
+j	ときつかぜ	tokitsukaze	ちょうど良い頃合いに吹く時節にかなった風
+j	ときつける	tokitsukeru	説き付ける, 説付ける, 説きつける: to pe…
+j	ときとして	tokitoshite	occasionally
+j	ときはなつ	tokihanatsu	「ときはなす」に同じ。
+j	ところせまい	tokorosemai	場所が狭い。窮屈である。
+j	としのくれ	toshinokure	一年の終わり。
+j	としまおんな	toshimaonna	年増の女性。
+j	としょしつ	toshoshitsu	図書室: library (room)
+j	とじあわせる	tojiawaseru	重ねて一つに綴じる。
+j	とってかわる	tottekawaru	あるものが占めていた位置や地位を他のものが代わって…
+j	となりざかい	tonarizakai	隣家（や隣接する地方や国家）との境界。
+j	となりまち	tonarimachi	neighbouring town
+j	ともちどり	tomochidori	群がって飛ぶ千鳥。むらちどり。むれちどり。
+j	とらえどころ	toraedokoro	物体における捉えるのに適した箇所。
+j	とらかんむり	torakanmuri	漢字の部首「⾌」の呼称の一つ。
+j	とらがしら	toragashira	漢字の部首「⾌」の呼称の一つ。
+j	とらのつき	toranotsuki	陰暦一月の異称。
+j	とりあつかい	toriatsukai	物を手で持ったり動かしたりすること。
+j	とりあつかう	toriatsukau	物を手で持ったり動かしたりする。
+j	とりあわせる	toriawaseru	組み合わせて調和させる。
+j	とりしきる	torishikiru	一手に引き受けて扱う。
+j	とりしまり	torishimari	取り締まること。
+j	とりしまる	torishimaru	不都合や不正のないように監督・監視する。
+j	とりしらべ	torishirabe	取り調べること。
+j	とりそろえる	torisoroeru	品物などを色々揃える。
+j	とりつくろう	toritsukuro	手入れをする。修繕する。
+j	とりつける	toritsukeru	物を別の物に装置する。
+j	とりのつき	torinotsuki	陰暦八月の異称。
+j	とりはからい	torihakarai	「とりはからう」の連用形。
+j	とりはからう	torihakarau	うまく事が運ぶように扱う。処理する。
+j	とりはずし	torihazushi	removal (of something fre…
+j	トゥキュディデス	tokyudidesu	
+j	トゥピナンバ語	topinanbago	トゥピ語族に属し、ブラジル沿岸部のトゥピナンバ人に…
+j	トウモロコシ	tomorokoshi	
+j	トスカーナ州	tosukanashu	
+j	トスク方言	tosukuhogen	
+j	トップギャラン	toppugyaran	トギャラン。
+j	トップバスト	toppubasuto	overbust measurement
+j	トニックウォーター	tonikkuwota	
+j	トネリコ材	tonerikozai	
+j	トボガンぞり	toboganzori	
+j	トマス主義	tomasushugi	
+j	トマトピューレ	tomatopyure	トマトを煮て潰し、裏漉しをかけたもの。トマトケチャ…
+j	トムヤムクン	tomuyamukun	tom yum goong (Thai-style…
+j	トライアスロン	toraiasuron	triathlon
+j	トライアングル	toraianguru	triangle
+j	トライメスター	toraimesuta	1年を3つに分けた学期。
+j	トラックボール	torakkuboru	コンピューターの入力装置の一つで、ボールを回転させ…
+j	トラツグミ	toratsugumi	スズメ目ツグミ科トラツグミ属に属する鳥の一種。学名…
+j	トランシット	toranshitto	測量機械の一つで転鏡儀ともいう。
+j	トランジション	toranjishon	移り変わり。変わり目。過渡期。
+j	トランジスタ	toranjisuta	a transistor
+j	トランジスター	toranjisuta	
+j	トランスポーズ	toransupozu	移調。
+j	トランピスト	toranpisuto	
+j	トランピズム	toranpizumu	Trumpism
+j	トランプゲーム	toranpugemu	a card game
+j	トランプタワー	toranputawa	
+j	トリアコンタン	toriakontan	triacontane
+j	トリックスター	torikkusuta	
+j	トリップする	torippusuru	
+j	トリップメーター	torippumeta	最後にリセットしてからの走行距離を示す計器。
+j	トリパリウム	toripariumu	三本の杭からなる手足を縛る拷問器具。
+j	トリプトファン	toriputofan	tryptophan
+j	トリュフ豚	toryufubuta	
+j	トリリンガル	toriringaru	3つの言語を話すことができる人。
+j	トリートメント	toritomento	手当て。治療。
+j	トルキスタン	torukisutan	中央アジアのテュルク諸語を話す人々が住む地域。
+j	トルクメン語	torukumengo	the Turkmen language
+j	トルコ料理	torukoryori	トルコの伝統的な料理。
+j	トルテッローニ	toruterroni	tortelloni
+j	トレジャーハンター	torejahanta	財宝を探索する人。
+j	トレッドミル	toreddomiru	a treadmill (piece of ind…
+j	トレーラーハウス	torerahausu	自動車に牽引して移動できる家屋。
+j	トレールバイク	torerubaiku	山道などを走るためのオフロードバイク。
+j	トロイア戦争	toroiasenso	
+j	トロピリウム	toropiriumu	tropylium
+j	トンファーガンマン	tonfaganman	ペンのクリップを折り曲げ、そこに指を引っ掛けて回転…
+j	トーク番組	tokubangumi	
+j	凸面鏡	totsumenkyo	convex mirror
+j	到着する	tochakusuru	
+j	到着ビザ	tochakubiza	
+j	到達する	totatsusuru	
+j	到達範囲	totatsuhani	
+j	取り仕切る	torishikiru	manage, operate, or handl…
+j	取り付ける	toritsukeru	install, furnish
+j	取り扱い	toriatsukai	handling, treatment
+j	取り扱う	toriatsukau	to handle; to treat
+j	取り損なう	torisokonau	
+j	取り締まり	torishimari	control, management
+j	取り締まる	torishimaru	to supervise; to manage; …
+j	取り調べ	torishirabe	investigation such as by …
+j	取締り	torishimari	
+j	吐噶喇列島	tokararetto	Tokara Islands
+j	唐もろこし	tomorokoshi	イネ科トウモロコシ属の一年草。学名は Zea ma…
+j	図書室	toshoshitsu	library (room, as in a sc…
+j	土地被覆	tochihifuku	
+j	屠殺する	tosatsusuru	
+j	年寄り子	toshiyorigo	年を取った両親から生まれた子。
+j	当分の間	tobunnoaida	
+j	当惑した	towakushita	
+j	徳の高い	tokunotakai	
+j	徳之島	tokunoshima	Tokunoshima; Tokunoshima …
+j	投擲競技	totekikyogi	物を投げる距離を競う陸上競技。
+j	投稿ブロック	tokoburokku	ウィキペディアやウィクショナリーなどのウィキ形式の…
+j	時計回り	tokeimawari	clockwise movement
+j	東北地方	tohokuchiho	Tōhoku (a traditional reg…
+j	止めを刺す	todomeosasu	finish off, deliver the f…
+j	水鼈	tochikagami	
+j	灯籠流し	toronagashi	tōrō nagashi (the custom …
+j	特別な	tokubetsuna	
+j	特別に	tokubetsuni	特別: specially, particular…
+j	特別区	tokubetsuku	a special ward, a distric…
+j	特務機関	tokumukikan	
+j	特定アジア	tokuteiajia	Tokutei Asia (East Asian …
+j	特徴づけ	tokuchozuke	
+j	特徴的	tokuchoteki	他とは違うさま。
+j	特殊効果	tokushukoka	special effects
+j	特殊拍	tokushuhaku	a type of mora, variously…
+j	特殊詐欺	tokushusagi	phone fraud; fraud commit…
+j	特需景気	tokujukeiki	特需に伴い発生する好景気。
+j	玉蜀黍	tomorokoshi	maize, corn (especially c…
+j	登録解除	torokukaijo	
+j	突撃銃	totsugekiju	synonym of アサルトライフル
+j	突然死	totsuzenshi	突然死ぬこと。急死。頓死。
+j	突進する	tosshinsuru	
+j	等分散性	tobunsansei	
+j	等差数列	tosasuretsu	arithmetic sequence, arit…
+j	等比数列	tohisuretsu	geometric sequence
+j	等速度運動	tosokudondo	速度が時間によって変化しない運動。
+j	糖脂質	toshishitsu	
+j	虎鶇	toratsugumi	White's Thrush, Zoothera …
+j	解き放つ	tokihanatsu	synonym of 解き放す (tokihana…
+j	説き付ける	tokitsukeru	persuade
+j	豊原市	toyoharashi	豊原の1937年市制施行以降の正式な名称。
+j	豊宇気毘売	toyoukebime	synonym of 豊受 (Toyouke)
+j	透徹	totetsusuru	to be perfectly clear
+j	透明になる	tomeininaru	
+j	透析療法	tosekiryoho	腎臓の機能が著しく低下し、体内の老廃物を尿に排出で…
+j	途中のまま	tochunomama	
+j	遠回しの	tomawashino	
+j	都市インフラ	toshiinfura	urban infrastructure (hig…
+j	都道府県道	todofukendo	都道府県が設置・管理を行う道路。
+j	陶片追放	tohentsuiho	
+j	頓服薬	tonpukuyaku	痛みなどの症状が現れた時に服用する薬剤。頓服。
+j	頭最長筋	tosaichokin	a longissimus capitis mus…
+j	頭蓋表筋	togaihyokin	an epicranius muscle
+j	飛ばし記事	tobashikiji	newspaper/magazine articl…
+j	飛び切り燗	tobikirikan	日本酒の燗の温度帯のひとつ。55度前後かそれ以上の…
+j	飛び込み台	tobikomidai	水中へ飛び込むために使用される台。
+k	토근정	togeunjeong	
+k	토끼박쥐	tokkibakjwi	The brown long-eared bat,…
+k	토드락이다	todeuragida	작고 단단한 물건을 가락에 맞추어 가볍게 두드…
+k	토론 문서	toronmunseo	
+k	토마스주의	tomaseujuui	
+k	토마토 소스	tomatososeu	
+k	토마토 주스	tomatojuseu	tomato juice (beverage ma…
+k	토목공사	tomokgongsa	
+k	토벌되다	tobeoldoeda	
+k	토사구팽	tosagupaeng	토끼가 죽으면 토끼를 잡던 사냥개도 필요 없게…
+k	토양오염	toyangoyeom	
+k	토지관할	tojigwanhal	
+k	토지대장	tojidaejang	
+k	토착되다	tochakdoeda	
+k	토탄 습지	totanseupji	peat bog, wetland
+k	토탄층	totancheung	peat deposit
+k	토혈하다	tohyeolhada	위나 식도 따위의 질환으로 피를 토하다.
+k	톡탁대다	toktakdaeda	'톡탁거리다'.
+k	톡탁치다	toktakchida	
+k	톡톡대다	toktokdaeda	'톡톡거리다'.
+k	톨롱하다	tollonghada	
+k	톨톨대다	toltoldaeda	
+k	톰방하다	tombanghada	
+k	통가 사람	tonggasaram	
+k	통계예보	tonggyeyebo	과거의 기상변동을 통계적으로 분석하여 회기방정…
+k	통과암호	tonggwaamho	password
+k	통과하다	tonggwahada	to pass, to go through
+k	통나무배	tongnamubae	통나무를 이용해서 만든 배.
+k	통나무집	tongnamujip	
+k	통메장이	tongmejangi	
+k	통문관	tongmungwan	
+k	통속적	tongsokjeok	
+k	통신망	tongsinmang	
+k	통장갑	tongjanggap	'벙어리장갑'의 북한말.
+k	통치하다	tongchihada	to govern; to rule
+k	통통함	tongtongham	
+k	통행인	tonghaengin	passer-by
+k	통화 기호	tonghwagiho	
+k	통화하다	tonghwahada	to talk on the telephone
+k	퇴궐하다	toegwolhada	
+k	퇴근하다	toegeunhada	to leave work, to finish …
+k	퇴색하다	toesaekhada	
+k	퇴역하다	toeyeokhada	
+k	퇴장하다	toejanghada	
+k	퇴적물	toejeongmul	sediment, deposit
+k	퇴적장	toejeokjang	
+k	퇴출하다	toechulhada	물러나서 나가다.
+k	퇴치되다	toechidoeda	
+k	퇴학생	toehaksaeng	
+k	퇴화되다	toehwadoeda	
+e	to each his own	toeachhisown	1 meaning
+e	to err is human	toerrishuman	1 meaning
+e	to some extent	tosomeextent	1 meaning
+e	tobacconist's	tobacconists	1 meaning
+e	tone policing	tonepolicing	2 meanings
+e	torres strait	torresstrait	1 meaning
+e	total eclipse	totaleclipse	1 meaning
+e	totalitarian	totalitarian	1 meaning
+e	tour de france	tourdefrance	1 meaning
+e	tour operator	touroperator	1 meaning
+e	tower defense	towerdefense	1 meaning
+e	tower mustard	towermustard	1 meaning
+e	tower of babel	towerofbabel	1 meaning
+e	town twinning	towntwinning	1 meaning
+j	とうぶひょうじゅんじ	tobuhyojunji	東部標準時: Eastern Standard T…
+j	とがりねずみ	togarinezumi	トガリネズミ目に属する哺乳類の総称。学名:Sori…
+j	とぎれとぎれ	togiretogire	途中で何度も途切れること。
+j	とげとげしい	togetogeshii	木材の表面などに、とげを多く蓄えているさま。
+j	とこよのくに	tokoyonokuni	いつまでも変わらない国。永遠の国。
+j	ところどころ	tokorodokoro	あちらこちら。あちこち。
+j	とっかえひっかえ	tokkaehikkae	changing constantly
+j	とっけつもじ	tokketsumoji	突厥文字: the Old Turkic scri…
+j	とってつけた	tottetsuketa	
+j	とは言うものの	towaiumonono	
+j	とびはなれる	tobihanareru	身を躍らせて離れる。
+j	ともばたらき	tomobataraki	一世帯で夫婦が共に働いて生計を立てること。共稼ぎ。
+j	とよあしはら	toyoashihara	日本国の美称。
+j	とらわれびと	torawarebito	囚われた人。
+j	とりちがえる	torichigaeru	間違って他の物を取る。
+j	とりひきさき	torihikisaki	取引先: client
+j	とりまとめる	torimatomeru	一つに纏める。
+j	とろ火で煮る	torobideniru	
+j	とんとん拍子	tontonbyoshi	proceeding at a steady pa…
+j	と同じくらい	toonajikurai	
+j	トイレットペーパー	toirettopepa	toilet paper
+j	トガリネズミ	togarinezumi	哺乳綱・トガリネズミ目に属する真無盲腸類の総称であ…
+j	トッケイ守宮	tokkeiyamori	a tokay gecko
+j	トバリシチ	tobarishichi	
+j	トマトペースト	tomatopesuto	
+j	トライアンドエラー	toraiandoera	trial and error
+j	トラッククレーン	torakkukuren	移動式クレーンの一種。貨物自動車にクレーンを装備し…
+j	トラックスーツ	torakkusutsu	
+j	トラックバック	torakkubakku	trackback
+j	トラックパッド	torakkupaddo	synonym of タッチパッド (tatchi…
+j	トラフィッキング	torafikkingu	
+j	トラブルメーカー	toraburumeka	troublemaker
+j	トラムトレイン	toramutorein	
+j	トランクリッド	torankuriddo	自動車のトランクの蓋。
+j	トランスジェンダー	toransujenda	transgender person
+j	トランスフォビア	toransufobia	transphobia
+j	トランスポンダ	toransuponda	
+j	トランスミッタ	toransumitta	a transmitter
+j	トランスミッター	toransumitta	a transmitter
+j	トランスモダン	toransumodan	transmodern
+j	トランス女性	toransujosei	
+j	トランス状態	toransujotai	トランス。
+j	トランピスタン	toranpisutan	
+j	トランプ主義	toranpushugi	Trumpism
+j	トリガーポイント	torigapointo	trigger point (hyperirrit…
+j	トリップワイヤー	torippuwaiya	
+j	トリニダード島	torinidadoto	Trinidad
+j	トリム平均	torimuheikin	調整平均。
+j	トルクメン人	torukumenjin	Turkmen person
+j	トルコ石の	torukoishino	
+j	トルーバルサム	torubarusamu	Tolu balsam
+j	トレイルバイク	toreirubaiku	山道などを走るためのマウンテンバイク。
+j	トレス海峡	toresukaikyo	
+j	トレンチコート	torenchikoto	a trench coat
+j	トレンドセッター	torendosetta	trendsetter
+j	トレーニングウェア	toreninguwea	スポーツや運動の練習などに着用する運動着。
+j	トロピカルロー	toropikaruro	オーストラリア周辺における、最大風速が33ノット以…
+j	トロンプルイユ	toronpuruiyu	実物に近い写実的な絵画。また、その技法。騙し絵。
+j	トロール漁船	tororugyosen	
+j	トーデストリープ	todesutoripu	タナトス。
+j	ト一ハ一	toichihaichi	レズ。また、レズセックス。
+j	共働き	tomobataraki	both working; being doubl…
+j	到達主義	totatsushugi	隔地者に対する意思表示において、その意思表示が相手…
+j	刺々しい	togetogeshii	sharp, stinging, harsh
+j	匿名投票	tokumeitohyo	secret ballot
+j	友なる敵	tomonaruteki	
+j	取り消し線	torikeshisen	文字の中央に横断する形で引いて、該当の記述の削除を…
+j	取り繕う	toritsukurou	to keep up appearances
+j	取り纏める	torimatomeru	gather, bring together
+j	取るに足らぬ	torunitaranu	
+j	取引する	torihikisuru	
+j	取引先	torihikisaki	client
+j	取引高	torihikidaka	
+j	取消権	torikeshiken	効力を生じた意思表示又は法律行為の取消ができる権利…
+j	取繕う	toritsukurou	
+j	囚われ人	torawarebito	captive
+j	図書館学	toshokangaku	library science
+j	土地を借りる	tochiokariru	
+j	外様大名	tozamadaimyo	a daimyo who became hered…
+j	尖鼠	togarinezumi	a shrew (mouselike animal)
+j	年の差婚	toshinosakon	marriage with an age gap
+j	年下の	toshishitano	
+j	得票率	tokuhyoritsu	percentage of votes obtai…
+j	徳島県	tokushimaken	a prefecture of Japan in …
+j	所所	tokorodokoro	here and there
+j	時を稼ぐ	tokiwokasegu	
+j	東南アジア史	tonanajiashi	世界史の中における東南アジアに関係する事柄を総合的…
+j	東西南北	tozainanboku	east, west, south and nor…
+j	東部標準時	tobuhyojunji	Eastern Standard Time
+j	桃花心木	tokashinboku	センダン科マホガニー属に属する常緑高木の総称。学名…
+j	特別会	tokubetsukai	衆議院の解散・総選挙後に召集される国会。
+j	特別市	tokubetsushi	通常の市ではない特別な地方制度の市。
+j	特権を持つ	tokkenomotsu	
+j	特権的な	tokkentekina	
+j	特権階級	tokkenkaikyu	社会的な階級のうち特別な権利や権限を有する階級。
+j	特殊機関	tokushukikan	
+j	特殊法人	tokushuhojin	semigovernmental corporat…
+j	特殊部隊	tokushubutai	special forces
+j	特殊関数	tokushukansu	何らかの名前や記法が定着しており、関数解析学や物理…
+j	特産物	tokusanbutsu	ある地方で特に生産される産物。
+j	特発性	tokuhatsusei	
+j	特許ファミリ	tokkyofamiri	特許ファミリーの異表記・別形。
+j	特許ファミリー	tokkyofamiri	ある国への特許出願を基礎として優先権を主張し、自国…
+j	登場人物	tojojinbutsu	character (a being in a s…
+j	登録商標	torokushohyo	特許庁に登録された商標。商標の侵害に対し保護される。
+j	盗賊の鍵	tozokunokagi	
+j	突厥文字	tokketsumoji	the Old Turkic script
+j	突撃隊	totsugekitai	
+j	突然変異	totsuzenheni	mutation
+j	突発的	toppatsuteki	sudden
+j	統一された	toitsusareta	
+j	統一できる	toitsudekiru	
+j	統一協会	toitsukyokai	Unification Church
+j	統一教会	toitsukyokai	Unification Church
+j	統計学者	tokeigakusha	統計学を研究する科学者。
+j	豊玉姫	toyotamabime	daughter of 海神 (Watatsumi…
+j	轟石	todorokiseki	todorokite
+j	途切れ途切れ	togiretogire	broken; intermittent; dis…
+j	途方に暮れる	tohonikureru	to be at a loss
+j	途方を失う	tohooushinau	to be at a loss
+j	途轍もない	totetsumonai	absurd, unbelievable
+j	都市トンネル	toshitonneru	地下鉄や地下道などのために都市部の地下に建設される…
+j	都市計画	toshikeikaku	urban planning; town plan…
+j	隣の人	tonarinohito	
+j	飛び入りライブ	tobiiriraibu	
+j	飛び移らず	tobiutsurazu	
+j	鳥衝突	torishototsu	
+j	鳶頭百足	tobizumukade	a Chinese red-headed cent…
+j	鶏の空音	torinosorane	the imitative cry of a co…
+j	鶏胸肉	torimuneniku	
+k	토너먼트	toneomeonteu	tournament
+k	토닥거리다	todakgeorida	잘 울리지 아니하는 물체를 가볍게 두드리는 소…
+k	토도독대다	tododokdaeda	'토도독거리다'.
+k	토드락하다	todeurakhada	
+k	토들토들	todeultodeul	
+k	토류금속	toryugeumsok	
+k	토르텔로니	toreutelloni	tortelloni
+k	토르텔리니	toreutellini	tortellini
+k	토목공학	tomokgonghak	
+k	토사곽란	tosagwangnan	게우며 설사를 계속하는 급성 위장 질환.
+k	토양층	toyangcheung	
+k	토왕지절	towangjijeol	
+k	토지개량	tojigaeryang	
+k	토지개혁	tojigaehyeok	
+k	토치램프	tochiraempeu	
+k	토템 숭배	totemsungbae	
+k	톡탁톡탁	toktaktoktak	
+k	톨랑대다	tollangdaeda	
+k	톨롱대다	tollongdaeda	
+k	톰방대다	tombangdaeda	'톰방거리다'.
+k	톱날꽃게	tomnalkkotge	An Asian species of mud c…
+k	통겨지다	tonggyeojida	
+k	통계추리	tonggyechuri	
+k	통근하다	tonggeunhada	to commute
+k	통밀빵	tongmilppang	
+k	통상권	tongsanggwon	
+k	통상적	tongsangjeok	usual; general
+k	통상주주	tongsangjuju	
+k	통속성	tongsokseong	
+k	통솔력	tongsollyeok	집단이나 무리를 이끄는 힘.
+k	통역하다	tongyeokhada	말이 달라서 서로 뜻을 주고받지 못하는 사람 …
+k	통촉하다	tongchokhada	to see, realize, understa…
+k	통치기간	tongchigigan	
+k	통통하다	tongtonghada	short and fat
+k	통풍관	tongpunggwan	안좋은 공기나 연기가 지나갈 수 있게 만든 관.
+k	통행료	tonghaengnyo	toll (fee)
+k	통화 단위	tonghwadanwi	
+k	퇴거시키다	toegeosikida	
+k	퇴색되다	toesaekdoeda	
+k	퇴역 군인	toeyeokgunin	
+k	퇴영적	toeyeongjeok	
+k	퇴적되다	toejeokdoeda	
+k	퇴정하다	toejeonghada	
+k	퇴직수당	toejiksudang	
+k	퇴폐문학	toepyemunhak	
+k	퇴행하다	toehaenghada	
+e	to be continued	tobecontinued	1 meaning
+e	today years old	todayyearsold	1 meaning
+e	tomorrow night	tomorrownight	1 meaning
+e	tongue-twister	tonguetwister	1 meaning
+e	tonsillectomy	tonsillectomy	1 meaning
+e	toreador pants	toreadorpants	1 meaning
+e	torpedo bomber	torpedobomber	1 meaning
+e	tortoise shell	tortoiseshell	1 meaning
+e	tortoiseshell	tortoiseshell	1 meaning
+e	tourist office	touristoffice	1 meaning
+e	tower of london	toweroflondon	1 meaning
+e	toxoplasmosis	toxoplasmosis	1 meaning
+j	ときはみちた	tokiwamichita	the time has come
+j	とこはつはな	tokohatsuhana	永久に新しい花。常に初花を見る思いで心が惹かれるこ…
+j	としとりそば	toshitorisoba	年越し蕎麦（としこしそば）。
+j	とどのつまり	todonotsumari	in the end, ultimately, w…
+j	とのさまがえる	tonosamagaeru	カエル目トノサマガエル属に属するかえるの一種。学名…
+j	とは限らない	towakagiranai	not always, not necessari…
+j	とりしらべる	torishiraberu	物事を詳しく調査する。
+j	とりまちづき	torimachizuki	陰暦四月の異称。
+j	とるにたらない	torunitaranai	わざわざ取り上げる価値がない、自分の行動を説明する…
+j	とるにたりない	torunitarinai	「とるにたらない」の別表記。
+j	とんでもハップン	tondemohappun	「とんでもない」をややお茶らけて言う言葉。もっての…
+j	トイレが近い	toiregachikai	weak-bladdered; having to…
+j	トウヨシノボリ	toyoshinobori	ヨシノボリの一種。学名はRhinogobius s…
+j	トサシマドジョウ	tosashimadojo	コイ目ドジョウ科シマドジョウ属シマドジョウ種群に属…
+j	トップレベルの	toppureberuno	
+j	トムソンガゼル	tomusongazeru	ウシ科の鯨偶蹄類で小型の羚羊。角は竪琴の形をしてお…
+j	トライアルバイク	toraiarubaiku	トライアル（モトトライアル）専用のオートバイ。トラ…
+j	トラックポイント	torakkupointo	
+j	トラディショナル	toradishonaru	伝統的な。
+j	トラブルシュータ	toraburushuta	
+j	トラブルシューター	toraburushuta	troubleshooter
+j	トランザクション	toranzakushon	transaction
+j	トランス男性	toransudansei	
+j	トランス音楽	toransuongaku	
+j	トランプ・カルタ	toranpukaruta	
+j	トランプ占い	toranpuuranai	
+j	トリガーソニック	torigasonikku	人差し指を軸としたソニック。2-ソニック。
+j	トリパノソーマ症	toripasomasho	
+j	トリプルプレイ	toripurupurei	
+j	トリプルホルン	toripuruhorun	三つの管を持つことで低音から高音まで演奏できるホル…
+j	トリプルメディア	toripurumedia	オウンドメディア、ペイドメディア、アーンドメディア…
+j	トレビュシェット	torebyushetto	
+j	トレミーの定理	toreminoteiri	円に内接する四角形ABCDについて、◌̅AC·◌̅…
+j	トレーディングカード	toredingukado	trading card
+j	トレーニングする	toreningusuru	
+j	トレーニングルーム	toreningurumu	トレーニングをする部屋。
+j	トロイの木馬	toroinomokuba	a Trojan horse (malicious…
+j	トロッコ問題	torokkomondai	
+j	トロツキスト	torotsukisuto	
+j	トロツキズム	torotsukizumu	Trotskyism
+j	トロポミオシン	toropomioshin	
+j	トロンボニスト	toronbonisuto	トロンボーンの演奏家。
+j	トン・トライロング	tontorairongu	タイの国旗。
+j	トーイングスポーツ	toingusupotsu	モーターボートや水上オートバイに牽引されて行われる…
+j	トーゴ共和国	togokyowakoku	
+j	トーンポリシング	tonporishingu	発言の意味内容ではなく、口調や論調を非難して発言の…
+j	トーン・ポリーシング	tonporishingu	
+j	冬季オリンピック	tokiorinpikku	Olympic Winter Games
+j	到着時刻	tochakujikoku	
+j	匿名組合	tokumeikumiai	anonymous partnership, si…
+j	十勝国	tokachinokuni	令制国の一つ。1869年に北海道に設置。概ね現在の…
+j	取りも直さず	torimonaosazu	namely
+j	取り付け角	toritsukekaku	
+j	取り立て助詞	toritatejoshi	日本語において、ある言葉に付いたとき、その言葉が示…
+j	取り調べる	torishiraberu	investigate, usually a cr…
+j	取り越し苦労	torikoshiguro	useless worry about the f…
+j	取るに足らない	torunitaranai	negligible, worthless
+j	問い合わせ言語	toiawasegengo	
+j	弔い合戦	tomuraigassen	死者の仇を討つことでその霊を慰めるための戦い。
+j	徳之島語	tokunoshimago	日本語族琉球語派北琉球語群に属し、徳之島で話される…
+j	徳倫理学	tokurinrigaku	
+j	徳川時代	tokugawajidai	徳川家が政権を担っていた江戸時代のこと。
+j	投資信託	toshishintaku	証券会社が投資家から資金を集め、その資金を専門の機…
+j	朱鷺嘴鳧	tokihashigeri	an ibisbill
+j	東方正教会	tohoseikyokai	Eastern Orthodox Church
+j	東方諸教会	tohoshokyokai	正教会にもローマ・カトリック教会にも属さない宗派で…
+j	栃葉人参	tochibaninjin	Japanese ginseng
+j	殿様蛙	tonosamagaeru	dark-spotted frog, Peloph…
+j	渡橋恐怖症	tokyokyofusho	gephyrophobia
+j	特定名称	tokuteimeisho	「清酒の製法品質表示基準」で規定する条件を満たした…
+j	特殊学級	tokushugakkyu	心身に障害がある児童、生徒に対し適切な教育、指導を…
+j	特許取得	tokkyoshutoku	
+j	突撃する	totsugekisuru	
+j	等脚台形	tokyakudaikei	an isosceles trapezoid
+j	統一できない	toitsudekinai	
+j	統率領域	tosotsuryoiki	command zone
+j	統計力学	tokeirikigaku	statistical mechanics
+j	豆腐に鎹	tofunikasugai	having no effect
+j	豊臣時代	toyotomijidai	豊臣氏が政権を担っていた、桃山時代のこと。
+j	都市伝説	toshidensetsu	urban myth; urban legend
+j	頭半棘筋	tohankyokukin	a semispinalis capitis mu…
+j	飛ばし携帯	tobashikeitai	mobile phone that is cont…
+j	飛ぶように売れる	tobuyoniureru	
+k	토드락대다	todeurakdaeda	'토드락거리다'.
+k	토목건축	tomokgeonchuk	
+k	토양반응	toyangbaneung	
+k	토양침식	toyangchimsik	
+k	토영삼굴	toyeongsamgul	
+k	토일렛 페이퍼	toilletpeipeo	
+k	토착화하다	tochakhwahada	
+k	토칸칭스	tokanchingseu	
+k	톡탁거리다	toktakgeorida	단단한 물건을 가볍게 두드리는 소리가 잇따라 …
+k	톡톡거리다	toktokgeorida	작은 것이 갑자기 튀거나 터지는 소리가 자꾸 …
+k	톨라당하다	tolladanghada	
+k	톨톨거리다	toltolgeorida	
+k	통견하다	tonggyeonhada	to see through, intuit, d…
+k	통렬하다	tongnyeolhada	몹시 날카롭고 매섭다.
+k	통미봉남	tongmibongnam	being simultaneously dipl…
+k	통상조약	tongsangjoyak	통상적으로 맺는 조약.
+k	통신병	tongsinbyeong	
+k	통조림제조	tongjorimjejo	canning
+k	통조림통	tongjorimtong	열처리를 하여 살균한 식품을 진공 상태에서 오…
+k	통찰력	tongchallyeok	insight, discernment, vis…
+k	통탕대다	tongtangdaeda	'통탕거리다'.
+k	통통대다	tongtongdaeda	'통통거리다'.
+k	통학 버스	tonghakbeoseu	
+k	통행권	tonghaenggwon	right of way (legal right…
+k	통화 수축	tonghwasuchuk	
+k	통화 축소	tonghwachukso	
+k	통화수축	tonghwasuchuk	
+k	퇴석층	toeseokcheung	
+k	퇴적층	toejeokcheung	
+k	퇴청하다	toecheonghada	
+e	to say nothing of	tosaynothingof	1 meaning
+e	to tell the truth	totellthetruth	1 meaning
+e	toilet training	toilettraining	1 meaning
+e	topicalization	topicalization	1 meaning
+e	total depravity	totaldepravity	1 meaning
+e	touring bicycle	touringbicycle	1 meaning
+e	tower of silence	towerofsilence	1 meaning
+j	とうかくをあらわす	tokakuoarawasu	頭角を現す: (idiomatic) distin…
+j	とうごうしっちょうしょう	togoshitchosho	統合失調症: schizophrenia
+j	とくしゅさつえい	tokushusatsuei	特殊撮影: special effects
+j	としこしそば	toshikoshisoba	大晦日の夜に食べる蕎麦。また、その風習。蕎麦のよう…
+j	としひさしく	toshihisashiku	年久しく: for many years
+j	とにもかくにも	tonimokakunimo	いずれにせよ。とにかく。なんにしろ。ともかく。
+j	とびおりじさつ	tobiorijisatsu	suicide by jumping
+j	とまれかくまれ	tomarekakumare	
+j	トムラウシ山	tomuraushiyama	北海道のほぼ中央、大雪山国立公園に属する山。
+j	トラベルトレーラー	toraberutorera	
+j	トランスアミナーゼ	toransuaminaze	
+j	トランスクルージョン	toransukurujon	部品と位置づけられるある文章を、別の文章中に埋め込…
+j	トランスサイエンス	toransusaiensu	科学によって問題を記述することはできるが、解決には…
+j	トランスジェニック	toransujenikku	
+j	トランスミッション	toransumisshon	伝播。伝達。
+j	トリケラトプス	torikeratopusu	Triceratops
+j	トレーシングペーパー	toreshingupepa	tracing paper
+j	トレーニングセンター	toreningusenta	有能な運動選手を発掘、育成するため、トラックや運動…
+j	トロイアの木馬	toroianomokuba	the Trojan horse (epic wo…
+j	兎にも角にも	tonimokakunimo	synonym of 兎に角 (tonikaku)
+j	凸多角形	totsutakakukei	全ての内角が凸角からなる多角形。
+j	到着時死亡	tochakujishibo	
+j	取引パートナー	torihikipatona	
+j	年を重ねる	toshiokasaneru	to age, to get older
+j	年久しく	toshihisashiku	for many years
+j	床を共にする	tokotomonisuru	夜を共にする。
+j	床屋の痒み	tokoyanokayumi	
+j	当選確実	tosenkakujitsu	projected winner, sure to…
+j	徳川家康	tokugawaieyasu	戦国時代後期から江戸時代初期（1542年（天文11…
+j	徳川幕府	tokugawabakufu	江戸幕府の別名。
+j	搭乗手続き	tojotetsudzuki	
+j	時は金なり	tokiwakanenari	time is money
+j	東方の三賢者	tohonosankenja	東方の三賢人の別名。
+j	特例国債	tokureikokusai	国が一般会計の赤字を補填するために発行する国債。赤…
+j	特別刑法	tokubetsukeiho	criminal legislation that…
+j	特別急行	tokubetsukyuko	limited express train; sp…
+j	特別支援	tokubetsushien	special needs
+j	特別職	tokubetsushoku	官公庁で選挙や委嘱で採用される職。
+j	特別警報	tokubetsukeiho	警報より上の最大級の警戒を呼びかける情報。
+j	特殊撮影	tokushusatsuei	special effects (abbr. 特撮…
+j	特殊自動車	tokushujidosha	形態、構造、用途などが通常のものと異なる自動車。
+j	特異体質	tokuitaishitsu	
+j	特許使用料	tokkyoshiyoryo	
+j	突拍子も無い	toppyoshimonai	crazy, wild
+j	突撃隊員	totsugekitaiin	
+j	突然のジャーク	totsuzennojaku	
+j	統合型リゾート	togogatarizoto	integrated resort
+j	統合失調症	togoshitchosho	schizophrenia
+j	解き放たれた	tokihanatareta	
+j	豊受大神	toyoukenookami	synonym of 豊受 (Toyouke)
+j	都道府県議会	todofukengikai	legislatures of Tokyo and…
+j	頭端式ホーム	totanshikihomu	全ての線路が行き止まりになっており、プラットホーム…
+j	頭角を現す	tokakuoarawasu	distinguish oneself
+j	飛び石連休	tobiishirenkyu	飛び石のように飛び飛びになった休日。
+j	飛び降り自殺	tobiorijisatsu	高い場所から飛び降りて自殺すること。
+j	鳥インフルエンザ	toriinfuruenza	avian flu, bird flu, avia…
+j	鴇色コンドル	tokiirokondoru	a king vulture
+k	토고 공화국	togogonghwaguk	
+k	토닥토닥하다	todaktodakhada	
+k	토달토달하다	todaltodalhada	
+k	토도독거리다	tododokgeorida	빗방울 따위가 바닥이나 나뭇잎 위에 세게 떨어…
+k	토도독토도독	tododoktododok	빗방울 따위가 바닥이나 나뭇잎 위에 잇따라 세…
+k	토돌토돌하다	todoltodolhada	
+k	토실토실하다	tosiltosilhada	
+k	토정비결	tojeongbigyeol	
+k	토착화되다	tochakhwadoeda	
+k	톨라당대다	tolladangdaeda	
+k	톨랑거리다	tollanggeorida	
+k	톨랑톨랑	tollangtollang	
+k	톨롱거리다	tollonggeorida	
+k	톨롱톨롱	tollongtollong	
+k	톰방거리다	tombanggeorida	작고 갸름한 물건이 깊은 물에 떨어져 잠기는 …
+k	톰방톰방	tombangtombang	
+k	통곡의 벽	tonggoguibyeok	
+k	통상우편	tongsangupyeon	
+k	통상전보	tongsangjeonbo	
+k	통행증	tonghaengjeung	
+k	퇴적작용	toejeokjagyong	
+k	퇴직연금	toejigyeongeum	
+e	to one's knowledge	toonesknowledge	1 meaning
+e	tongue depressor	tonguedepressor	1 meaning
+e	toot one's own horn	tootonesownhorn	1 meaning
+e	totalitarianism	totalitarianism	1 meaning
+j	ところせましと	tokorosemashito	packed tightly
+j	とびいたとびこみ	tobiitatobikomi	高さが1メートルまたは3メートルの反発する台から飛…
+j	とぼとぼと歩く	tobotobotoaruku	
+j	とんでもありません	tondemoarimasen	not at all
+j	トウガラシスプレー	togarashisupure	
+j	トライアングリスト	toraiangurisuto	トライアングルの演奏家。
+j	トライアングルラブ	toraiangururabu	love triangle, eternal tr…
+j	トラクターショベル	torakutashoberu	トラクターの前方にバケット（ショベル）を搭載した四…
+j	トラック運転手	torakkuuntenshu	
+j	トランシルバニア	toranshirubania	
+j	トランシルヴァニア	toranshiruvania	Transylvania (a historica…
+j	トランスクリプト	toransukuriputo	
+j	トランプ主義者	toranpushugisha	
+j	トリクロロメタン	torikurorometan	
+j	トリックオアトリート	torikkuoatorito	trick or treat
+j	トリトリアコンタン	toritoriakontan	tritriacontane
+j	トリプルアクセル	toripuruakuseru	フィギュアスケートで3回転半のジャンプ。
+j	トリプルクリック	toripurukurikku	コンピューターで、マウスを動かさずにマウスボタンを…
+j	トルクメニスタン	torukumenisutan	Turkmenistan (a country i…
+j	トルコ共和国	torukokyowakoku	Republic of Türkiye (offi…
+j	トレアドールパンツ	toreadorupantsu	toreador pants
+j	トレーニングパンツ	toreningupantsu	sweatpants
+j	友達になる	tomodachininaru	
+j	取締役	torishimariyaku	director, member of a boa…
+j	図書館学者	toshokangakusha	図書館学を研究する科学者。
+j	年頃日頃	toshigorohigoro	
+j	徳川家光	tokugawaiemitsu	江戸時代初期（1604年（慶長9年） ‐ 1652…
+j	投票を棄権する	tohyookikensuru	
+j	東方の三博士	tohonosanhakase	東方の三賢人の別名。
+j	東方の三賢人	tohonosankenjin	新約聖書でイエスの降誕時にこれを祝福するためにイエ…
+j	東方正統教会	tohoseitokyokai	東方諸教会の別名。
+j	特別とん税	tokubetsutonzei	「特別とん税法」（昭和32年法律第38号）により、…
+j	特別上告	tokubetsujokoku	高等裁判所での判決に憲法上の疑義がある場合に、高等…
+j	特別会計	tokubetsukaikei	国や地方公共団体の会計のうち一般会計とは別に特別の…
+j	特別展	tokubetsutenten	博物館などで臨時に行われる展示。
+j	特別徴収	tokubetsuchoshu	住民税の徴収方法の一つで、給与や報酬などの支払者な…
+j	特別攻撃	tokubetsukogeki	第二次世界大戦末期に日本軍により行われた決死の攻撃。
+j	特別教育	tokubetsukyoiku	労働安全衛生法において事業者が労働者を危険又は有害…
+j	特別料金	tokubetsuryokin	運賃以外の特急券や寝台券などに支払う料金。
+j	特定地交線	tokuteichikosen	特定地方交通線の略。
+j	特殊狭軌線	tokushukyokisen	762ミリメートルの軌間で建設された私鉄の路線で、…
+j	特殊相対論	tokushusotairon	「特殊相対性理論」の略。
+j	特色付ける	tokushokuzukeru	特色を持たせる。
+j	登録免許税	torokumenkyozei	日本国の登録免許税法（昭和42年法律第35号）によ…
+j	登録解除する	torokukaijosuru	
+j	登録販売者	torokuhanbaisha	一般用医薬品の販売を行う者。
+j	突然変異体	totsuzenhenitai	
+j	等辺三角形	tohensankakukei	3つの辺の長さが等しい三角形。正三角形。
+j	糖蛋白質	totanpakushitsu	糖（その複合体を含む）と結合した複合蛋白質の総称。
+j	統合失調型	togoshitchogata	
+j	統計的推論	tokeitekisuiron	
+j	都市計画税	toshikeikakuzei	city planning tax. One of…
+j	飛び込み自殺	tobikomijisatsu	走行している車両（主に電車など）の前方に飛び込んで…
+k	토드락거리다	todeurakgeorida	작고 단단한 물건을 가락에 맞추어 가볍게 두드…
+k	토마토 페이스트	tomatopeiseuteu	
+k	토지측량	tojicheungnyang	
+k	통고의 성모	tonggouiseongmo	
+k	통상선거	tongsangseongeo	
+k	통성명	tongseongmyeong	
+k	통탕거리다	tongtanggeorida	단단한 물건을 함부로 조금 요란하게 두드리거나…
+k	통통거리다	tongtonggeorida	to pound, stamp, resound
+k	통통걸음	tongtonggeoreum	
+k	퇴적평야	toejeokpyeongya	
+e	togolese republic	togoleserepublic	1 meaning
+e	topological space	topologicalspace	1 meaning
+e	tortoiseshell cat	tortoiseshellcat	1 meaning
+e	touched in the head	touchedinthehead	1 meaning
+e	tourette syndrome	tourettesyndrome	1 meaning
+j	とおかあまりのつき	tokaamarinotsuki	陰暦10日を過ぎた頃の月。上弦の月よりもやや膨らん…
+j	ともあれかくもあれ	tomoarekakumoare	in any case, anyhow, anyw…
+j	トウカイヨシノボリ	tokaiyoshinobori	よしのぼりの一種。2005年に鈴木寿之と坂本勝一が…
+j	トネリコ材製の	tonerikozaiseino	
+j	トラブルシューティング	toraburushutingu	troubleshooting
+j	トラベラーズチェック	toraberazuchekku	traveller's cheque
+j	トランジスタラジオ	toranjisutarajio	a transistor radio
+j	トランスアイデンティティ	toransuaidentiti	
+j	トランスセクシャル	toransusekusharu	transsexual
+j	トランスニストリア	toransunisutoria	
+j	トリスタン・ダ・クーニャ	torisutandakunya	
+j	トリニダード・トバゴ	torinidadotobago	Trinidad and Tobago (a co…
+j	トリニトロトルエン	torinitorotoruen	trinitrotoluene
+j	トリリウムの定理	toririumunoteiri	∆ABCに対し、内心Iと点Aに対する傍心J_Aを通…
+j	トロピカルストーム	toropikarusutomu	北西太平洋における、最大風速が34ノット以上47ノ…
+j	トンガリヤリマンボウ	tongariyarimanbo	フグ目マンボウ科に属するヤリマンボウの別名。かつて…
+j	十拳の剣	totsukanotsurugi	the Ten-hands Longsword
+j	戸口の踏み段	toguchinofumidan	
+j	投資収益率	toshishuekiritsu	
+j	時々途切れる	tokidokitogireru	
+j	時すでにお寿司	tokisudeniosushi	時すでに遅し。
+j	時すでに遅し	tokisudeniososhi	打つ手がない。手遅れだ。
+j	時既に遅し	tokisudeniososhi	it's already too late
+j	灯台下暗し	todaimotokurashi	the darkest place is unde…
+j	特別快速	tokubetsukaisoku	列車の種別の一つで、快速よりも通過駅が多い。特快。
+j	特別注文	tokubetsuchuumon	
+j	特別活動	tokubetsukatsudo	学校教育の一環として行われる活動のうち授業以外のも…
+j	特型警備車	tokugatakeibisha	
+j	等角三角形	tokakusankakukei	3つの角の角度が等しい三角形。正三角形。
+j	統計物理学	tokeibutsurigaku	「統計力学」を参照。
+j	豊臣秀頼	toyotomihideyori	安土桃山時代から江戸時代の日本の武将。1593年（…
+j	閉じ込め症候群	tojikomeshokogun	意識は明瞭だが随意筋の麻痺により眼球運動と瞬き以外…
+k	토드락토드락	todeuraktodeurak	
+k	토들토들하다	todeultodeulhada	
+k	토러스 해협	toreoseuhaehyeop	
+k	토지 공개념	tojigonggaenyeom	토지 소유권을 구성하는 사용권, 수익권, 처분…
+k	톡탁톡탁하다	toktaktoktakhada	
+k	톨라당거리다	tolladanggeorida	
+k	통탕통탕	tongtangtongtang	
+j	とねりこばのかえで	tonerikobanokaede	ムクロジ目カエデ属に属する落葉樹。学名:Acer …
+j	とんでもございません	tondemogozaimasen	not at all
+j	トイレに行きたいです	toireniikitaidesu	
+j	トイレはどこですか	toirewadokodesuka	
+j	トイレットトレーニング	toirettotoreningu	
+j	トウモロコシの芯	tomorokoshinoshin	
+j	トウモロコシ畑	tomorokoshibatake	
+j	トップレベルドメイン	toppureberudomein	ドメイン名の最後の項目。
+j	トラベルクリニック	toraberukurinikku	国外に旅行する人のために予防接種などの処置を行う医…
+j	トランジスタグラマー	toranjisutagurama	小柄だが豊満である女性。
+j	トランジスターグラマー	toranjisutagurama	a petite and glamorous wo…
+j	トランスヴェスティズム	toransuvesutizumu	
+j	トルコ行進曲	torukokoshinkyoku	トルコの軍楽隊の音楽の影響を受けた行進曲。
+j	トレーディングカードゲーム	toredingukadogemu	a trading card game
+j	トロピカルフルーツ	toropikarufurutsu	tropical fruit
+j	徳川吉宗	tokugawayoshimune	江戸時代（1684年（貞享11年） ‐ 1751年…
+j	徳川慶喜	tokugawayoshinobu	江戸時代後期から大正時代前期（1837年（天保8年…
+j	特例郵便等投票	tokureiyubintohyo	不在者投票の一種でCOVID-19罹患により隔離中…
+j	特別行政区	tokubetsugyoseiku	中華人民共和国に返還された植民地で、特別の自治権が…
+j	特定非常災害	tokuteihijosaigai	非常に大規模な被害があった際に政令の指定により、被…
+j	特性方程式	tokuseihoteishiki	a_n+1=pa_n+qという隣接2項間漸化式（特…
+j	特設巡洋艦	tokusetsujunyokan	
+j	玉蜀黍畑	tomorokoshibatake	corn field
+j	盗聴器を仕掛ける	tochokioshikakeru	
+j	統合失調質	togoshitchoshitsu	
+j	豊臣秀吉	toyotomihideyoshi	戦国時代から安土桃山時代の日本の武将。1537年（…
+j	遠回しに触れる	tomawashinifureru	
+j	隣の糂汰味噌	tonarinojindamiso	the grass is always green…
+k	토크 프로그램	tokeupeurogeuraem	
+k	통조림공장	tongjorimgongjang	cannery
+k	통화 팽창	tonghwapaengchang	
+j	とりしまりやくかい	torishimariyakukai	取締役会
+j	トランスアバンギャルド	toransuabangyarudo	
+j	トランスヒューマニズム	toransuhyumanizumu	
+j	トルクメニスタン人	torukumenisutanjin	トルクメニスタン国籍を有する者。トルクメニスタン出…
+j	トロピカルサイクロン	toropikarusaikuron	熱帯低気圧。
+j	取る物も取り敢えず	torumonomotoriaezu	in a great hurry
+j	取締役会	torishimariyakukai	board of directors (group…
+j	囚われの姫君	torawarenohimegimi	
+j	橈側手根屈筋	tosokushukonkukkin	a flexor carpi radialis
+j	特別攻撃隊	tokubetsukogekitai	a specially-organized att…
+j	特別純米酒	tokubetsujunmaishu	特定名称のひとつ。精米歩合60%以下の白米と米麹を…
+j	特命全権公使	tokumeizenkenkoshi	外交使節の階級の一つ。大使につぎ、職務は大使と同じ…
+j	特定病原体等	tokuteibyogentaito	感染症法上の病原体の分類で一種病原体等から四種病原…
+j	統合開発環境	togokaihatsukankyo	integrated development en…
+j	蜥蜴の尻尾切り	tokagenoshippokiri	the behavior of some liza…
+j	都道府県労働局	todofukenrodokyoku	厚生労働省の地方支分部局。労働行政を担い、都道府県…
+j	隣の花は赤い	tonarinohanawaakai	the grass is always green…
+k	토도독토도독하다	tododoktododokhada	빗방울 따위가 바닥이나 나뭇잎 위에 잇따라 세…
+k	톨라당톨라당	tolladangtolladang	
+k	톨랑톨랑하다	tollangtollanghada	
+k	톨롱톨롱하다	tollongtollonghada	
+k	톰방톰방하다	tombangtombanghada	
+k	통상협정	tongsanghyeopjeong	
+e	to one's heart's content	toonesheartscontent	1 meaning
+e	too much of a good thing	toomuchofagoodthing	1 meaning
+j	土地区画整理士	tochikukakuseirishi	土地区画整理事業において公平な立場で土地提供者間の…
+j	年寄りの冷や水	toshiyorinohiyamizu	indiscretions of an old m…
+j	特別支援学校	tokubetsushiengakko	school for special needs
+j	特別本醸造酒	tokubetsuhonjozoshu	特定名称のひとつ。精米歩合60%以下の白米と米麹と…
+j	特命全権大使	tokumeizenkentaishi	外交使節の階級の一つで最上級。特別職の国家公務員。…
+j	虎の威を借る狐	toranoiokarukitsune	donkey in a lion's skin; …
+k	통보문그림기호	tongbomungeurimgiho	
+e	to thine own self be true	tothineownselfbetrue	1 meaning
+e	tomorrow is another day	tomorrowisanotherday	1 meaning
+e	tortoise shell bracket	tortoiseshellbracket	1 meaning
+j	とりなきさとのこうもり	torinakisatonokomori	鳥無き里の蝙蝠: in the land of t…
+j	取り返しがつかない	torikaeshigatsukanai	be irrevocable; cannot be…
+j	取り返しのつかない	torikaeshinotsukanai	Alternative atributive fo…
+j	東京湾平均海面	tokyowanheikinkaimen	日本の標高0の基準となる面。明治時代に現在の東京都…
+j	特別急行列車	tokubetsukyukoressha	鉄道の運行形態で急行よりさらに停車駅が少ない列車（…
+j	特別支援学級	tokubetsushiengakkyu	class for special needs
+j	特別支援教育	tokubetsushienkyoiku	障害者などを対象に特別な配慮の下に行われる教育。
+j	特定地方交通線	tokuteichihokotsusen	旧国鉄の経営再建のためバスまたは第三セクター路線へ…
+j	特殊相対性理論	tokushusotaiseiriron	special relativity
+j	隣の芝生は青い	tonarinoshibafuwaaoi	the grass is always green…
+j	鳥無き里の蝙蝠	torinakisatonokomori	in the land of the blind,…
+k	토드락토드락하다	todeuraktodeurakhada	
+k	토할 것 같습니다	tohalgeotgatseumnida	
+k	통탕통탕하다	tongtangtongtanghada	
+j	トロピカルディスターバンス	toropikarudisutabansu	南西インド洋における、最大風速が28ノットから33…
+j	トロピカルデプレッション	toropikarudepuresshon	南西インド洋で最大風速が28ノットから33ノットま…
+j	東南アジア諸国連合	tonanajiashokokurengo	the Association of Southe…
+j	特別引出権	tokubetsuhikidashiken	special drawing right
+j	特別軍事作戦	tokubetsugunjisakusen	
+j	特別高等警察	tokubetsukotokeisatsu	the Special Higher Police…
+j	特定外来生物	tokuteigairaiseibutsu	invasive species that is …
+j	特殊教育諸学校	tokushukyoikushogakko	特別支援学校の旧称。
+j	鳥なき島の蝙蝠	torinakishimanokomori	
+k	통행금지령	tonghaenggeumjiryeong	
+j	取扱説明書	toriatsukaisetsumeisho	instruction manual
+j	特別法人事業税	tokubetsuhojinjigyozei	「特別法人事業税及び特別法人事業譲与税に関する法律…
+j	特別豪雪地帯	tokubetsugosetsuchitai	豪雪地帯対策特別措置法に定められた豪雪地帯のうち、…
+j	特別養護老人ホーム	tokubetsuyogorojinhomu	介護保険施設の一つで、常に介護が必要で自宅での生活…
+k	톨라당톨라당하다	tolladangtolladanghada	
+j	捕らぬ狸の皮算用	toranutanukinokawazanyo	don't count your chickens…
+j	特定公益増進法人	tokuteikoekizoshinhojin	学校法人や社会福祉法人、日本赤十字社など教育や科学…
+j	トウカイコガタスジシマドジョウ	tokaikogatasujishimadojo	コガタスジシマドジョウの亜種。かつてはスジシマドジ…
+j	友達以上恋人未満	tomodachiijokoibitomiman	友達ほどの親しさではあるが、恋人ほどの深い付き合い…
+j	特殊解型漸化式	tokushukaigatazenkashiki	a_n+1=pa_n+qという形で与えられる隣接二…
+j	飛んで火に入る夏の虫	tondehiniirunatsunomushi	自ら危険な場所に向かうこと。
+e	too many cooks spoil the broth	toomanycooksspoilthebroth	1 meaning
+j	とよあしはらのなかつくに	toyoashiharanonakatsukuni	日本の美称。
+j	トリニダード・トバゴ共和国	torinidadotobagokyowakoku	Republic of Trinidad and …
+j	問うに落ちず語るに落ちる	touniochizukataruniochiru	to keep a secret when ask…
+j	特別地方公共団体	tokubetsuchihokokyodantai	地方公共団体のうち都道府県、市町村以外の団体。特別…
+j	等差数列型漸化式	tosasuretsugatazenkashiki	a_n+1-a_n=dという形で与えられる隣接二項…
+j	等比数列型漸化式	tohisuretsugatazenkashiki	a_n+1=ra_nという形で与えられる隣接二項間…
+j	統一資源位置指定子	toitsushigenichishiteishi	Uniform Resource Locator
+k	토끼가 제 방귀에 놀란다	tokkigajebanggwienolranda	남몰래 저지른 일이 염려되어 스스로 겁을 먹고…
+e	to the victor belong the spoils	tothevictorbelongthespoils	1 meaning
+j	トウヨシノボリ縞鰭型	toyoshinoborishimahiregata	シマヒレヨシノボリの旧称。鈴木 (1996) によ…
+j	トリクロロフェノキシ酢酸	torikurorofenokishisakusan	trichlorophenoxyacetic ac…
+j	隣の芝生は青く見える	tonarinoshibafuwaaokumieru	"the grass is always gree…
+j	特別政治活動委員会	tokubetsuseijikatsudoiinkai	
+j	特定不能の摂食障害	tokuteifunonosesshokushogai	Eating Disorder Not Other…
+j	東北地方太平洋沖地震	tohokuchihotaiheiyookijishin	the Tōhoku earthquake of …
+j	特別司法警察職員	tokubetsushihokeisatsushokuin	In Japan, a category of o…
+j	徳は孤ならず必ず隣あり	tokuwakonarazukanarazutonariari	virtue never has solitude…
+j	特定感染症指定医療機関	tokuteikansenshoshiteiiryokikan	一類感染症、二類感染症、新感染症の治療に当たるもの…
+j	統合失調型パーソナリティ障害	togoshitchogatapasonaritishogai	
+j	遠くの親類より近くの他人	tokunoshinruiyorichikakunotanin	strangers nearby over fam…
+j	豆腐の角に頭をぶつけて死ぬ	tofunokadoniatamaobutsuketeshinu	罵倒語。ばかげた冗談さえ真に受けるような人をののし…
+j	桃李もの言わざれども下自ら蹊を成す	torimonoiwazaredomoshitaonozukaramichionasu	a man of virtue will natu…
+j	十で神童十五で才子二十過ぎればただの人	todeshindojugodesaishihatachisugirebatadanohito	A child prodigy at ten, a…
+j	十で神童十五で才子二十過ぎれば只の人	todeshindojugodesaishihatachiosugirebatadanohito	幼いころは神童と優れていても、大人になればたいてい…

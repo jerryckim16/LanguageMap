@@ -1,0 +1,2434 @@
+e	si	si	1 meaning
+j	スィ	si	
+j	スィー	si	
+k	시	si	hour (time)
+e	sic	sic	1 meaning
+e	sin	sin	3 meanings
+e	sip	sip	1 meaning
+e	sir	sir	3 meanings
+e	sis	sis	1 meaning
+e	sit	sit	4 meanings
+e	six	six	2 meanings
+e	æsir	sir	1 meaning
+k	식	sik	ceremony, ritual, express…
+k	신	sin	god, deity
+k	실	sil	thread, yarn, string
+k	심	sim	core of a pencil; lead
+k	십	sip	ten
+k	싯	sit	
+e	siam	siam	1 meaning
+e	sice	sice	1 meaning
+e	sick	sick	1 meaning
+e	side	side	9 meanings
+e	sifu	sifu	1 meaning
+e	sigh	sigh	3 meanings
+e	sign	sign	10 meanings
+e	sikh	sikh	1 meaning
+e	silk	silk	2 meanings
+e	silo	silo	1 meaning
+e	silt	silt	1 meaning
+e	sine	sine	1 meaning
+e	sing	sing	1 meaning
+e	sink	sink	3 meanings
+e	sino-	sino	1 meaning
+e	sion	sion	1 meaning
+e	sire	sire	1 meaning
+e	size	size	8 meanings
+j	シーディー	sidi	「CD」のカタカナ表記。
+k	시가	siga	poem
+k	시구	sigu	(야구)
+k	시기	sigi	opportunity; chance; a ti…
+k	시네	sine	
+k	시다	sida	to be sour
+k	시도	sido	attempt
+k	시디	sidi	compact disc
+k	시로	siro	
+k	시루	siru	steamer (used to cook ric…
+k	시메	sime	
+k	시무	simu	
+k	시바	siba	Shiva
+k	시보	sibo	newspaper which mainly re…
+k	시비	sibi	right and wrong
+k	시사	sisa	suggestion; implication
+k	시세	sise	the times (circumstances …
+k	시소	siso	seesaw
+k	시시	sisi	'시태양시'.
+k	시안	sian	Xi'an (the capital of Sha…
+k	시암	siam	
+k	시앗	siat	concubine (of one's husba…
+k	시야	siya	older brother, older male
+k	시어	sieo	일반적으로 바람장에서 풍향, 풍속이 급변하는 …
+k	시온	sion	
+k	시옷	siot	the name of the seventh j…
+k	시외	sioe	도시의 밖. 또는 시 구역 밖의 지역.
+k	시운	siun	
+k	시울	siul	edge, rim, brim of a curv…
+k	시위	siwi	demonstration; protest
+k	시유	siyu	glazing
+k	시인	siin	poet
+k	시일	siil	때와 날을 아울러 이르는 말.
+k	시제	sije	tense (verb forms disting…
+k	시조	sijo	sijo (a traditional lyric…
+k	시주	siju	donor; benefactor
+k	시티	siti	city
+k	시하	siha	
+k	시호	siho	posthumous name
+k	시후	sihu	봄, 여름, 가을, 겨울 사철의 절후.
+k	식이	sigi	
+k	심오	simo	profound; abstruse; diffi…
+k	심이	simi	
+k	십오	sibo	fifteen
+k	십이	sibi	twelve
+k	싱	sing	Xingxian
+e	sicko	sicko	1 meaning
+e	sidon	sidon	1 meaning
+e	siege	siege	1 meaning
+e	siena	siena	2 meanings
+e	sieve	sieve	2 meanings
+e	sight	sight	4 meanings
+e	sigma	sigma	1 meaning
+e	silla	silla	1 meaning
+e	silly	silly	4 meanings
+e	simon	simon	1 meaning
+e	sinai	sinai	2 meanings
+e	sinan	sinan	1 meaning
+e	since	since	1 meaning
+e	singe	singe	1 meaning
+e	singh	singh	1 meaning
+e	sinus	sinus	1 meaning
+e	siren	siren	3 meanings
+e	sissy	sissy	2 meanings
+e	sit-in	sitin	1 meaning
+e	sit-up	situp	1 meaning
+e	sitar	sitar	1 meaning
+e	sixth	sixth	2 meanings
+e	sixty	sixty	1 meaning
+k	시각	sigak	viewpoint
+k	시간	sigan	time
+k	시계	sigye	a clock, a watch, a timep…
+k	시골	sigol	countryside, the country
+k	시과	sigwa	
+k	시교	sigyo	
+k	시국	siguk	the current political sit…
+k	시굴	sigul	Seoul, Chungcheong, Pyong…
+k	시나이	sinai	husband (usually not one'…
+k	시내	sinae	downtown, city centre
+k	시누이	sinui	sister-in-law
+k	시단	sidan	
+k	시달	sidal	
+k	시대	sidae	historical age or period
+k	시돈	sidon	
+k	시드	sideu	Sid (personal name)
+k	시론	siron	
+k	시류	siryu	
+k	시리아	siria	Syria (a country in Asia)
+k	시릴	siril	
+k	시립	sirip	municipal
+k	시문	simun	
+k	시물	simul	twenty
+k	시민	simin	citizens, citizenry
+k	시반	siban	
+k	시발	sibal	first departure (of a tra…
+k	시삽	sisap	
+k	시속	sisok	
+k	시솔	sisol	
+k	시솝	sisop	
+k	시쇠	sisoe	clock
+k	시숙	sisuk	brother-in-law (brother o…
+k	시술	sisul	
+k	시식	sisik	
+k	시신	sisin	dead body, corpse
+k	시심	sisim	
+k	시아비	siabi	시아버지의 낮춤말.
+k	시약	siyak	
+k	시업	sieop	
+k	시에나	siena	
+k	시에미	siemi	시어미의 동의어.
+k	시여	siyeo	
+k	시옹	siong	
+k	시월	siwol	October
+k	시율	siyul	
+k	시음	sieum	tasting, sampling (a drin…
+k	시읏	sieut	the name of the seventh j…
+k	시작	sijak	start, beginning
+k	시재	sijae	당장에 가지고 있는 돈이나 곡식.
+k	시저	sijeo	수저.
+k	시진	sijin	
+k	시집	sijip	collection of poems
+k	시차	sicha	time difference or jetlag
+k	시체	siche	cadaver, corpse, (dead) b…
+k	시초	sicho	맨 처음.
+k	시추	sichu	지하자원을 탐사하거나 지층의 구조나 상태를 조…
+k	시치	sichi	
+k	시킴	sikim	
+k	시트	siteu	seat
+k	시판	sipan	
+k	시폰	sipon	
+k	시학	sihak	
+k	시한	sihan	
+k	시합	sihap	game, contest, match
+k	시해	sihae	killing/murdering of one'…
+k	시혜	sihye	generosity; charity; the …
+k	시화	sihwa	
+k	시효	sihyo	
+k	식고	sikgo	(역사)
+k	식구	sikgu	mouth to feed; dependent
+k	식기	sikgi	tableware
+k	식다	sikda	to cool down, to get cold
+k	식도	sikdo	oesophagus, esophagus; gu…
+k	식비	sikbi	food expenses, money spen…
+k	식사	siksa	meal
+k	식수	siksu	drinking water
+k	식야	sigya	
+k	식위	sikwi	
+k	식인	sigin	cannibalism
+k	식자	sikja	intellectual; an educated…
+k	식지	sikji	
+k	식토	sikto	
+k	식후	sikhu	after food, after eating
+k	신고	singo	report, declaration
+k	신구	singu	
+k	신기	singi	매우 뛰어난 기술이나 재주.
+k	신다	sinda	to wear on one's feet
+k	신도	sindo	believer, disciple, follo…
+k	신라	silla	Silla (an ancient kingdom…
+k	신무	sinmu	
+k	신미	sinmi	The eighth term of the Ch…
+k	신보	sinbo	
+k	신부	sinbu	father, priest
+k	신비	sinbi	mystery (something secret…
+k	신사	sinsa	gentleman
+k	신세	sinse	one's life experience
+k	신수	sinsu	countenance, looks, appea…
+k	신시	sinsi	단군신화에 나오는 환웅이 세운 국가.
+k	신안	sinan	
+k	신애	sinae	
+k	신어	sineo	neologism (recently coine…
+k	신예	sinye	새롭고 기세나 힘이 뛰어남. 또는 그런 사람.
+k	신위	sinwi	
+k	신유	sinyu	The fifty-eighth term of …
+k	신의	sinui	
+k	신인	sinin	new face; newcomer
+k	신일	sinil	
+k	신임	sinim	trust
+k	신입	sinip	
+k	신자	sinja	believer
+k	신조	sinjo	
+k	신주	sinju	an ancestral tablet used …
+k	신지	sinji	
+k	신토	sinto	
+k	신파	sinpa	
+k	신포	sinpo	Sinpo (a city in South Ha…
+k	신하	sinha	retainer; subject; liege;…
+k	신호	sinho	signal; sign
+k	싣기	sitgi	loading
+k	싣다	sitda	to load onto a vehicle, s…
+k	실기	silgi	기운을 잃어버리는 것.
+k	실로	sillo	really, truly, indeed, su…
+k	실무	silmu	
+k	실비	silbi	실처럼 가늘게 내리는 비.
+k	실사	silsa	
+k	실세	silse	실제로 힘이나 권력을 가진 사람.
+k	실소	silso	
+k	실수	silsu	mistake
+k	실시	silsi	implementation
+k	실온	siron	
+k	실외	siroe	
+k	실위	sirwi	
+k	실의	sirui	
+k	실제	silje	practically; in fact
+k	실지	silji	
+k	실토	silto	
+k	실파	silpa	small spring onion
+k	싫다	silta	to be disagreeable; to di…
+k	심기	simgi	
+k	심다	simda	To plant, sow (seed or pl…
+k	심도	simdo	
+k	심라	simna	
+k	심로	simno	
+k	심리	simni	psychology, mentality
+k	심미	simmi	
+k	심사	simsa	screening, evaluation
+k	심수	simsu	
+k	심안	siman	
+k	심야	simya	midnight; late night
+k	심의	simui	discussion
+k	심지	simji	wick
+k	심토	simto	
+k	심후	simhu	
+k	십구	sipgu	nineteen
+k	십리	simni	
+k	십사	sipsa	fourteen
+k	십악	sibak	the Ten Evil Acts in East…
+k	십일	sibil	eleven
+k	십자	sipja	cross (geometrical figure)
+k	싶다	sipda	to be desirous of, to want
+e	sicily	sicily	1 meaning
+e	sicken	sicken	1 meaning
+e	sickle	sickle	1 meaning
+e	sienna	sienna	3 meanings
+e	sierre	sierre	1 meaning
+e	siesta	siesta	1 meaning
+e	signal	signal	2 meanings
+e	signed	signed	1 meaning
+e	sikang	sikang	1 meaning
+e	sikhye	sikhye	1 meaning
+e	sikkim	sikkim	1 meaning
+e	silage	silage	1 meaning
+e	silent	silent	2 meanings
+e	silica	silica	1 meaning
+e	silkie	silkie	1 meaning
+e	silver	silver	6 meanings
+e	simian	simian	1 meaning
+e	simile	simile	1 meaning
+e	simmer	simmer	2 meanings
+e	simoom	simoom	1 meaning
+e	simple	simple	1 meaning
+e	simply	simply	1 meaning
+e	sinbad	sinbad	1 meaning
+e	sindhi	sindhi	1 meaning
+e	sindhu	sindhu	1 meaning
+e	singer	singer	1 meaning
+e	single	single	7 meanings
+e	sinker	sinker	2 meanings
+e	sinner	sinner	1 meaning
+e	sinope	sinope	1 meaning
+e	sinter	sinter	1 meaning
+e	siphon	siphon	1 meaning
+e	sirius	sirius	1 meaning
+e	sister	sister	3 meanings
+e	sitcom	sitcom	1 meaning
+e	sizzle	sizzle	1 meaning
+j	スィヤーム	siyamu	fast, sawm
+k	시가지	sigaji	
+k	시객	sigaek	
+k	시고모	sigomo	
+k	시공	sigong	
+k	시궁	sigung	
+k	시급	sigeup	
+k	시나위	sinawi	sinawi, Korean shamanic i…
+k	시녀	sinyeo	
+k	시닝	sining	
+k	시다바	sidaba	아랫면; 실제 설치되어 어느 쪽이 아래를 향하…
+k	시댁	sidaek	one's husband's family or…
+k	시동	sidong	starting up (a computer, …
+k	시럽	sireop	syrup
+k	시름	sireum	sorrow; grief; anxiety; a…
+k	시리다	sirida	to be cold
+k	시마네	simane	
+k	시맥	simaek	
+k	시뭇이	simusi	
+k	시미타	simita	
+k	시바파	sibapa	
+k	시방	sibang	now
+k	시범	sibeom	demonstration, exhibition
+k	시법	sibeop	
+k	시보레	sibore	
+k	시부모	sibumo	husband's parents
+k	시부야	sibuya	
+k	시비조	sibijo	
+k	시상	sisang	award
+k	시샵	sisyap	
+k	시선	siseon	one's gaze; the direction…
+k	시설	siseol	facilities
+k	시아이에이	siaiei	the Central Intelligence …
+k	시애미	siaemi	시에미의 잘못된 표기.
+k	시애비	siaebi	시아비의 동의어.
+k	시어미	sieomi	시어머니의 낮춤말.
+k	시역	siyeok	
+k	시왕	siwang	the ten kings who judge t…
+k	시외가	sioega	
+k	시용	siyong	
+k	시우마이	siumai	
+k	시위자	siwija	protester
+k	시장	sijang	hunger
+k	시적	sijeok	poetic
+k	시전	sijeon	
+k	시절	sijeol	a period of time
+k	시점	sijeom	point (in time)
+k	시조모	sijomo	
+k	시조조	sijojo	synonym of 시조새 (sijosae, …
+k	시종	sijong	
+k	시중	sijung	market
+k	시즌	sijeun	season (part of year with…
+k	시찰	sichal	inspection
+k	시침	sichim	hour hand
+k	시카고	sikago	Chicago (a large city in …
+k	시캉	sikang	
+k	시코쿠	sikoku	
+k	시키다	sikida	to cause to do or happen
+k	시푸다	sipuda	to want, desire
+k	시풍	sipung	
+k	시험	siheom	test, exam
+k	식각	sikgak	
+k	식감	sikgam	food texture
+k	식개	sikgae	
+k	식과	sikgwa	
+k	식단	sikdan	menu, bill of fare
+k	식대	sikdae	
+k	식리	singni	재산을 불리어 이익을 냄.
+k	식모	singmo	
+k	식반	sikban	
+k	식복	sikbok	
+k	식분	sikbun	
+k	식솔	siksol	
+k	식순	siksun	order of a ceremony
+k	식스	sikseu	
+k	식식	siksik	숨을 매우 가쁘고 거칠게 쉬는 소리.
+k	식언	sigeon	
+k	식욕	sigyok	appetite, desire to eat
+k	식육	sigyuk	
+k	식음	sigeum	
+k	식읍	sigeup	고대 중국에서, 왕족, 공신, 대신들에게 공로…
+k	식재	sikjae	'식산'.
+k	식초	sikcho	vinegar
+k	식칼	sikkal	kitchen knife
+k	식탁	siktak	dinner table
+k	식탐	siktam	
+k	식판	sikpan	food tray; meal tray
+k	식품	sikpum	groceries; foodstuffs
+k	식해	sikhae	Sikhae, a salted, ferment…
+k	식혜	sikhye	sikhye
+k	식화	sikhwa	
+k	신 우유	sinuyu	
+k	신간	singan	'신고'.
+k	신감	singam	
+k	신계	singye	
+k	신곡	singok	new song
+k	신국	singuk	
+k	신귀	singwi	
+k	신규	singyu	new regulation
+k	신남	sinnam	
+k	신단	sindan	
+k	신답	sindap	
+k	신독	sindok	
+k	신돈	sindon	고려 말기의 승려(?~1371). 자는 요공(…
+k	신록	sillok	
+k	신뢰	silloe	trust; faith
+k	신료	sillyo	모든 신하.
+k	신맛	sinmat	sourness, sour taste
+k	신묘	sinmyo	The twenty-eighth term of…
+k	신묵	sinmuk	
+k	신문	sinmun	newspaper
+k	신물	sinmul	acid reflux
+k	신민	sinmin	subject (citizen in a mon…
+k	신발	sinbal	shoes, footwear, footgear
+k	신복	sinbok	
+k	신분	sinbun	position, status
+k	신불	sinbul	
+k	신산	sinsan	
+k	신서	sinseo	
+k	신속	sinsok	speediness; promptness
+k	신술	sinsul	
+k	신시아	sinsia	Cynthia
+k	신식	sinsik	새로운 방식이나 형식
+k	신실	sinsil	
+k	신심	sinsim	
+k	신앙	sinang	faith; (religious) belief
+k	신약	sinyak	New Testament
+k	신업	sineop	
+k	신여	sinyeo	
+k	신원	sinwon	
+k	신월	sinwol	
+k	신음	sineum	moan; groan
+k	신이포	sinipo	목련 또는 백목련의 꽃봉오리. 진정ㆍ진통 작용…
+k	신작	sinjak	
+k	신죽	sinjuk	
+k	신진	sinjin	
+k	신체	sinche	human body
+k	신탁	sintak	
+k	신판	sinpan	
+k	신표	sinpyo	뒷날에 보고 증거가 되게 하기 위하여 서로 주…
+k	신품	sinpum	
+k	신학	sinhak	theology (study of God, o…
+k	신한	sinhan	
+k	신해	sinhae	The forty-eighth term of …
+k	신허	sinheo	
+k	신혼	sinhon	being newly married
+k	신화	sinhwa	A myth or legend.
+k	신효	sinhyo	신기한 효과나 효험이 있음. 또는 그 효과나 …
+k	실각	silgak	
+k	실감	silgam	
+k	실과	silgwa	
+k	실낱	sillat	실의 올.
+k	실내	sillae	indoor, within a room
+k	실눈	sillun	half-shut eye; half-close…
+k	실드	sildeu	
+k	실러	silleo	
+k	실렛	sillet	
+k	실례	sillye	rudeness
+k	실록	sillok	authentic records (year-b…
+k	실론	sillon	
+k	실룩	silluk	근육의 한 부분이 실그러지게 움직이는 모양.
+k	실물	silmul	
+k	실밥	silbap	seam, stitch
+k	실속	silsok	
+k	실솔	silsol	cricket (insect)
+k	실신	silsin	정신을 잃어버리는 것을 가리키는 말.
+k	실실	silsil	소리 없이 실없게 슬며시 웃는 모양.
+k	실액	siraek	
+k	실언	sireon	실수로 잘못 말함. 또는 그렇게 한 말.
+k	실업	sireop	unemployment
+k	실은	sireun	actually, in fact
+k	실재	siljae	existence; reality
+k	실족	siljok	
+k	실존	siljon	실재로 존재하거나 그러한 것.
+k	실직	siljik	unemployment, loss of a j…
+k	실질	siljil	실제내용을 가리키는 말.
+k	실체	silche	substance, entity
+k	실탄	siltan	
+k	실태	siltae	reality (in terms of a re…
+k	실톱	siltop	fretsaw
+k	실트	silteu	
+k	실패	silpae	failure
+k	실학	silhak	
+k	실화	silhwa	true story
+k	실효	silhyo	
+k	싫은	sireun	'싫다'의 관형사형.
+k	싫음	sireum	dislike, disagreeableness…
+k	심각	simgak	
+k	심간	simgan	
+k	심계	simgye	자세히 헤아림.
+k	심곡	simgok	
+k	심막	simmak	
+k	심목	simmok	
+k	심문	simmun	interrogation
+k	심박	simbak	heart rate, heartbeat
+k	심복	simbok	
+k	심산	simsan	
+k	심살	simsal	
+k	심술	simsul	온당하지 아니하게 고집을 부리는 마음.
+k	심신	simsin	
+k	심실	simsil	
+k	심원	simwon	
+k	심음	simeum	
+k	심재	simjae	heartwood
+k	심줄	simjul	
+k	심판	simpan	judgement
+k	심폐	simpye	
+k	심한	simhan	
+k	심해	simhae	the non-photic zone of th…
+k	심혼	simhon	heart, spirit, soul
+k	심화	simhwa	deepening
+k	심회	simhoe	
+k	십간	sipgan	동양 역법의 10가지 이름. 십이지와 더불어서…
+k	십계	sipgye	
+k	십날	simnal	tenth day of the month
+k	십대	sipdae	one's teens
+k	십만	simman	one hundred thousand
+k	십분	sipbun	thoroughly; sufficiently
+k	십삼	sipsam	thirteen
+k	십억	sibeok	billion, milliard
+k	십오야	siboya	
+k	십월	sibwol	'시월'의 비규범 표기.
+k	십이시	sibisi	
+k	십이지	sibiji	동양 역법의 12가지 이름. 흔히 동물 상으로…
+k	십팔	sippal	eighteen
+k	십해	siphae	sextillion (1 followed by…
+k	싱어	singeo	Osbeck's grenadier anchov…
+e	sialkot	sialkot	1 meaning
+e	siamese	siamese	1 meaning
+e	siberia	siberia	1 meaning
+e	sibling	sibling	1 meaning
+e	sichuan	sichuan	1 meaning
+e	sickbed	sickbed	1 meaning
+e	side cap	sidecap	1 meaning
+e	sidebar	sidebar	1 meaning
+e	sidecar	sidecar	2 meanings
+e	siemens	siemens	1 meaning
+e	sikhism	sikhism	1 meaning
+e	silence	silence	2 meanings
+e	silesia	silesia	1 meaning
+e	siliana	siliana	1 meaning
+e	silicon	silicon	1 meaning
+e	silovik	silovik	1 meaning
+e	sim card	simcard	1 meaning
+e	similar	similar	2 meanings
+e	simplex	simplex	1 meaning
+e	simpson	simpson	1 meaning
+e	simurgh	simurgh	1 meaning
+e	sinaloa	sinaloa	1 meaning
+e	sincere	sincere	1 meaning
+e	singani	singani	1 meaning
+e	singing	singing	1 meaning
+e	singles	singles	1 meaning
+e	singlet	singlet	1 meaning
+e	sinitic	sinitic	1 meaning
+e	sinking	sinking	1 meaning
+e	sinuiju	sinuiju	1 meaning
+e	sirloin	sirloin	1 meaning
+e	sirocco	sirocco	1 meaning
+e	sirtaki	sirtaki	1 meaning
+e	sit down	sitdown	1 meaning
+e	site map	sitemap	1 meaning
+e	sitting	sitting	1 meaning
+e	six-pack	sixpack	1 meaning
+e	sixteen	sixteen	1 meaning
+e	sixties	sixties	1 meaning
+j	シッキム	sikkimu	
+k	시격	sigyeok	
+k	시계사	sigyesa	
+k	시골의	sigorui	
+k	시골티	sigolti	
+k	시구식	sigusik	
+k	시그마	sigeuma	그리스어 알파벳의 열여덟째 글자의 이름. Σ …
+k	시기심	sigisim	다른 사람이 잘되는 것을 못마땅히 여기고 투정…
+k	시나리오	sinario	scenario (of a movie, etc…
+k	시나몬	sinamon	
+k	시너지	sineoji	여럿의 힘을 함께 보탬. (비유) 여럿의 서로…
+k	시노드	sinodeu	
+k	시누스	sinuseu	
+k	시늉	sinyung	
+k	시더구	sideogu	rice cake
+k	시더기	sideogi	Any dough of rice or othe…
+k	시드니	sideuni	[~시(市)] Sydney (a major p…
+k	시디롬	sidirom	
+k	시래기	siraegi	
+k	시렁	sireong	shelf, rack
+k	시력	siryeok	sight; vision
+k	시련	siryeon	trial
+k	시리얼	sirieol	옥수수, 귀리, 밀 또는 쌀 같은 가공 곡물로…
+k	시리즈	sirijeu	a series, especially in s…
+k	시립의	siribui	
+k	시매부	simaebu	
+k	시무룩	simuruk	glum; sulky and unenerget…
+k	시무식	simusik	
+k	시밀레	simille	
+k	시바교	sibagyo	
+k	시베리아	siberia	Siberia (the region of Ru…
+k	시사물	sisamul	
+k	시사회	sisahoe	
+k	시새다	sisaeda	
+k	시새움	sisaeum	
+k	시생	sisaeng	
+k	시성	siseong	
+k	시심마	sisimma	synonym of 이 뭣고 (i mwotgo…
+k	시아이큐	siaikyu	
+k	시어진	sieojin	
+k	시영	siyeong	
+k	시오후키	siohuki	여성 사정(female ejaculation)
+k	시위대	siwidae	protestors, demonstrators
+k	시의원	siuiwon	
+k	시의회	siuihoe	
+k	시정	sijeong	(기상) 지표면에서 정상적인 시력을 가진 사람…
+k	시제품	sijepum	
+k	시조 묘	sijomyo	한 겨레나 가계의 맨 처음이 되는 조상이 묻힌…
+k	시조새	sijosae	archeopteryx
+k	시준가	sijunga	
+k	시짱	sijjang	Tibet (a geographic regio…
+k	시차제	sichaje	
+k	시책	sichaek	
+k	시첨	sicheom	이리저리 둘러봄.
+k	시초가	sichoga	증권시장 최초로 결정되는 주식 가격.
+k	시치미	sichimi	A tag shaped square with …
+k	시킴 주	sikimju	Sikkim (a state in easter…
+k	시토졸	sitojol	
+k	시토회	sitohoe	the Cistercians (Catholic…
+k	시틋이	siteusi	
+k	시편	sipyeon	the Book of Psalms, the P…
+k	시프다	sipeuda	Southern Gyeongsang, Chun…
+k	시한부	sihanbu	일정한 시간의 한계를 둠. 또는 그렇게 한 일.
+k	시행	sihaeng	execution, carrying out
+k	시호속	sihosok	
+k	시황	sihwang	
+k	시흥	siheung	[~시] Siheung (a city in G…
+k	식객	sikgaek	
+k	식겁	sikgeop	terror; fear and surprise
+k	식공	sikgong	
+k	식관	sikgwan	oesophagus, esophagus; gu…
+k	식권	sikgwon	
+k	식궐	sikgwol	
+k	식근	sikgeun	
+k	식당	sikdang	restaurant
+k	식도암	sikdoam	식도에 생기는 암.
+k	식례	singnye	
+k	식록	singnok	벼슬아치에게 일 년 또는 계절 단위로 나누어 …
+k	식료	singnyo	food
+k	식목	singmok	
+k	식물	singmul	plant
+k	식민	singmin	colony
+k	식봉	sikbong	
+k	식상	siksang	
+k	식세기	siksegi	
+k	식세포	siksepo	
+k	식열	sigyeol	
+k	식염	sigyeom	
+k	식용	sigyong	먹을 수 있는 것.
+k	식장	sikjang	
+k	식적	sikjeok	
+k	식전	sikjeon	ceremony
+k	식주인	sikjuin	
+k	식채	sikchae	
+k	식통	siktong	
+k	식히다	sikhida	to cool, to let cool
+k	신 게임	singeim	
+k	신가파	singapa	Singapore
+k	신강	singang	Xinjiang (a Uyghur autono…
+k	신고인	singoin	declarant
+k	신공	singong	
+k	신관	singwan	
+k	신구세	singuse	
+k	신권	singwon	
+k	신극	singeuk	
+k	신금	singeum	
+k	신기다	singida	
+k	신기루	singiru	mirage
+k	신나다	sinnada	to feel elated, to be thr…
+k	신낭	sinnang	
+k	신녀	sinnyeo	
+k	신농	sinnong	Shennong
+k	신다리	sindari	upper thigh, thigh
+k	신당	sindang	new political party
+k	신덕	sindeok	향주 삼덕의 하나. 하느님의 가르침을 굳게 믿…
+k	신도비	sindobi	
+k	신도시	sindosi	
+k	신도주	sindoju	
+k	신동	sindong	child prodigy
+k	신디어	sindieo	
+k	신라도	sillado	
+k	신라소	sillaso	
+k	신랑	sillang	groom, bridegroom
+k	신망	sinmang	
+k	신방	sinbang	
+k	신법	sinbeop	ritual regulations abided…
+k	신봉	sinbong	이 낱말은 뜻풀이가 필요합니다. 뜻풀이를 추가…
+k	신부모	sinbumo	a senior priest who mento…
+k	신부인	sinbuin	
+k	신빙	sinbing	
+k	신사도	sinsado	
+k	신상	sinsang	
+k	신색	sinsaek	
+k	신선	sinseon	freshness
+k	신설	sinseol	being newly built or esta…
+k	신소리	sinsori	
+k	신수비	sinsubi	
+k	신시가	sinsiga	
+k	신시조	sinsijo	
+k	신양	sinyang	
+k	신역	sinyeok	
+k	신예기	sinyegi	
+k	신용	sinyong	credit, credibility, conf…
+k	신의주	sinuiju	Sinuiju (a city in North …
+k	신장	sinjang	height; stature
+k	신전	sinjeon	
+k	신점	sinjeom	divination; one's destiny…
+k	신접	sinjeop	
+k	신젖	sinjeot	yoghurt
+k	신제도	sinjedo	
+k	신조어	sinjoeo	synonym of 신어 (sineo, “ne…
+k	신종	sinjong	new style, new type
+k	신주보	sinjubo	
+k	신중	sinjung	
+k	신징	sinjing	
+k	신찬	sinchan	
+k	신참	sincham	
+k	신축	sinchuk	to stretch out and draw b…
+k	신춘	sinchun	
+k	신출	sinchul	
+k	신호기	sinhogi	
+k	신호수	sinhosu	
+k	신환	sinhwan	
+k	실고기	silgogi	The pipefish, Syngnathus …
+k	실권	silgwon	
+k	실금	silgeum	오줌이 새는 요실금이나 대변이 새는 변실금 등…
+k	실긋	silgeut	물체가 한쪽으로 비뚤어지거나 기울어지는 모양.
+k	실꾼	silkkun	
+k	실롱	sillong	
+k	실루엣	silluet	silhouette
+k	실리다	sillida	To be planted
+k	실링	silling	
+k	실마리	silmari	beginning of a thread
+k	실망	silmang	disappointment, letdown
+k	실뱀	silbaem	
+k	실상	silsang	
+k	실선	silseon	
+k	실수입	silsuip	
+k	실습	silseup	practice, training, drill
+k	실역	siryeok	
+k	실연	siryeon	a broken heart
+k	실용	siryong	
+k	실장	siljang	head of an office; sectio…
+k	실적	siljeok	performance
+k	실전	siljeon	
+k	실제가	siljega	
+k	실제로	siljero	in fact, in practice
+k	실종	siljong	종적을 잃어 간 곳이나 생사를 알 수 없게 됨.
+k	실지로	siljiro	
+k	실쭉	siljjuk	어떤 감정을 나타내면서 입이나 눈이 한쪽으로 …
+k	실축	silchuk	
+k	실컷	silkeot	to one's heart's content,…
+k	실하다	silhada	
+k	실험	silheom	experiment
+k	싫어요	sireoyo	dislike
+k	심구다	simguda	Gangwon, Seoul, Chungcheo…
+k	심근	simgeun	
+k	심금	simgeum	
+k	심낭	simnang	
+k	심동	simdong	
+k	심려	simnyeo	worry; concern
+k	심마니	simmani	ginseng gatherer (who wou…
+k	심미안	simmian	aesthetic sense; discerni…
+k	심방	simbang	crossbeam, crossbar
+k	심벌	simbeol	
+k	심상	simsang	mental image
+k	심설	simseol	
+k	심슨	simseun	
+k	심쌀	simssal	
+k	심양	simyang	
+k	심연	simyeon	abyss
+k	심열	simyeol	
+k	심오한	simohan	
+k	심장	simjang	heart (an organ)
+k	심적	simjeok	
+k	심중	simjung	
+k	심지어	simjieo	even, what is worse/what …
+k	심취	simchwi	
+k	심쿵	simkung	어떤 일이나 대상을 보고 심장이 쿵 하고 뛸 …
+k	심통	simtong	
+k	심포니	simponi	
+k	심하게	simhage	
+k	심하다	simhada	to be severe, to be extre…
+k	십륙	simnyuk	North Korea standard spel…
+k	십상	sipsang	
+k	십선	sipseon	the Ten Good Acts
+k	십육	simnyuk	sixteen
+k	십이월	sibiwol	December
+k	십이율	sipiyul	
+k	십일조	sibiljo	
+k	십자가	sipjaga	cross (the cross on which…
+k	십자로	sipjaro	
+k	십장	sipjang	
+k	십칠	sipchil	seventeen
+k	싱커	singkeo	sinker
+k	싱크	singkeu	
+k	싶으다	sipeuda	
+e	siberian	siberian	1 meaning
+e	sibilant	sibilant	1 meaning
+e	sicilian	sicilian	3 meanings
+e	sickness	sickness	2 meanings
+e	side dish	sidedish	1 meaning
+e	sidekick	sidekick	1 meaning
+e	sidereal	sidereal	1 meaning
+e	sidewalk	sidewalk	1 meaning
+e	sieg heil	siegheil	1 meaning
+e	siem reap	siemreap	1 meaning
+e	sightsee	sightsee	1 meaning
+e	signpost	signpost	1 meaning
+e	siheyuan	siheyuan	1 meaning
+e	silencer	silencer	1 meaning
+e	silesian	silesian	1 meaning
+e	silicate	silicate	1 meaning
+e	silicone	silicone	1 meaning
+e	silk road	silkroad	1 meaning
+e	silk tree	silktree	1 meaning
+e	silkworm	silkworm	1 meaning
+e	silky oak	silkyoak	1 meaning
+e	silurian	silurian	1 meaning
+e	silvassa	silvassa	1 meaning
+e	simplify	simplify	1 meaning
+e	simulate	simulate	1 meaning
+e	sindarin	sindarin	1 meaning
+e	sine wave	sinewave	1 meaning
+e	sinecure	sinecure	1 meaning
+e	singular	singular	7 meanings
+e	sinister	sinister	2 meanings
+e	sinkhole	sinkhole	2 meanings
+e	sinusoid	sinusoid	2 meanings
+e	sisyphus	sisyphus	1 meaning
+e	sixtieth	sixtieth	1 meaning
+e	sixty-one	sixtyone	1 meaning
+e	sixty-six	sixtysix	1 meaning
+e	sixty-two	sixtytwo	1 meaning
+j	シーディーバーナー	sidibana	
+j	スィルヴァーサー	siruvasa	
+k	시 샤프	sisyapeu	
+k	시가전	sigajeon	도시에서 적과 아군이 일으키거나 싸우는 치열한…
+k	시각표	sigakpyo	
+k	시각화	sigakhwa	
+k	시간대	sigandae	
+k	시간표	siganpyo	timetable, schedule
+k	시경	sigyeong	the Classic of Poetry (th…
+k	시계추	sigyechu	
+k	시계탑	sigyetap	clock tower
+k	시고모부	sigomobu	
+k	시골길	sigolgil	country road
+k	시골집	sigoljip	
+k	시국담	sigukdam	
+k	시금히	sigeumhi	
+k	시기적	sigijeok	
+k	시기하다	sigihada	다른 사람이 잘되는 것을 못마땅하게 여기고 미…
+k	시김새	sigimsae	method or state of produc…
+k	시날로아	sinalloa	
+k	시냇가	sinaetga	
+k	시덜다	sideolda	
+k	시도하다	sidohada	to try, to attempt
+k	시들다	sideulda	to wither, to wilt, to dr…
+k	시뜻이	sitteusi	
+k	시라소니	sirasoni	문화어에서 ‘스라소니’를 달리 이르는 말.
+k	시라쿠사	sirakusa	
+k	시럽다	sireopda	'스럽다'의 전라도 사투리.
+k	시리우스	siriuseu	Sirius (the Dog Star)
+k	시말서	simalseo	
+k	시멘트	simenteu	cement (a powdered substa…
+k	시멘틱	simentik	
+k	시명	simyeong	
+k	시무룩이	simurugi	
+k	시문학	simunhak	시로 된 문학작품들을 가리키는 말.
+k	시민군	simingun	volunteer army, militia
+k	시베리안	siberian	
+k	시보귬	sibogyum	seaborgium
+k	시부야 구	sibuyagu	
+k	시사하다	sisahada	
+k	시새우다	sisaeuda	
+k	시스터	siseuteo	sister, sis (older or you…
+k	시스템	siseutem	system
+k	시시비비	sisibibi	여러 가지의 잘잘못.
+k	시시하다	sisihada	trivial, banal, insignifi…
+k	시아버지	siabeoji	father-in-law (husband's …
+k	시안하다	sianhada	
+k	시애틀	siaeteul	[~시(市)] Seattle (a city i…
+k	시어도어	sieodoeo	
+k	시어선	sieoseon	바람이 급변하는 것이 선을 이루며 일어날 때 …
+k	시에미질	siemijil	시에미처럼 꼬치꼬치 간섭하거나 훈수를 두는 행…
+k	시온주의	sionjuui	
+k	시외조모	sioejomo	
+k	시외조부	sioejobu	
+k	시운전	siunjeon	
+k	시위하다	siwihada	to protest, demonstrate
+k	시유하다	siyuhada	to apply (a glaze)
+k	시인하다	siinhada	어떤 내용이나 사실이 옳거나 그러하다고 인정하…
+k	시일링	siilling	항공법에서는 구름량 6/10 이상의 구름층 중…
+k	시절가	sijeolga	
+k	시제법	sijebeop	
+k	시즈오카	sijeuoka	
+k	시지부지	sijibuji	
+k	시청	sicheong	city hall
+k	시카고의	sikagoui	
+k	시카고인	sikagoin	
+k	시크교	sikeugyo	
+k	시큼히	sikeumhi	
+k	시킴문	sikimmun	'명령문'의 북한말.
+k	시트콤	siteukom	
+k	시평	sipyeong	
+k	시프트	sipeuteu	
+k	시험지	siheomji	
+k	식견	sikgyeon	어깨를 쉬게 한다는 뜻으로, 무거운 책임을 벗…
+k	식교자	sikgyoja	
+k	식나무	singnamu	spotted laurel (Aucuba ja…
+k	식도락	sikdorak	
+k	식별	sikbyeol	discrimination, identific…
+k	식빵	sikppang	slice of bread
+k	식생	siksaeng	vegetation
+k	식성	sikseong	food preference
+k	식수난	siksunan	
+k	식수대	siksudae	
+k	식인귀	sigingwi	
+k	식자판	sikjapan	
+k	식충	sikchung	
+k	식탁보	siktakbo	tablecloth
+k	식후복	sikhubok	
+k	신격	singyeok	divinity, godhead
+k	신교도	singyodo	Protestant
+k	신구간	singugan	제주도의 풍속.
+k	신구약	singuyak	
+k	신군부	singunbu	the Hanahoe after seizing…
+k	신기군	singigun	
+k	신기록	singirok	새롭게 나온 기록.
+k	신기원	singiwon	
+k	신기함	singiham	
+k	신나치	sinnachi	
+k	신년	sinnyeon	new year
+k	신념	sinnyeom	belief
+k	신라원	sillawon	
+k	신랄히	sillalhi	
+k	신력	sillyeok	Gregorian calendar
+k	신뢰도	silloedo	
+k	신문고	sinmungo	
+k	신문기	sinmungi	
+k	신문사	sinmunsa	newspaper agency
+k	신문안	sinmunan	
+k	신문예	sinmunye	
+k	신문인	sinmunin	
+k	신문지	sinmunji	newsprint (paper on which…
+k	신민부	sinminbu	
+k	신민요	sinminyo	post-Joseon folk song
+k	신바람	sinbaram	신이 나서 우쭐우쭐하여지는 기운.
+k	신베이시	sinbeisi	
+k	신변	sinbyeon	
+k	신보군	sinbogun	
+k	신부님	sinbunim	priest
+k	신부례	sinburye	
+k	신사복	sinsabok	파티나 쇼에 참석할 때 입는 옷.
+k	신생	sinsaeng	newborn
+k	신성	sinseong	holiness, sacredness
+k	신세계	sinsegye	New World
+k	신세대	sinsedae	새로운 세대. 10~20대 사이의 세대를 이른…
+k	신속히	sinsokhi	매우 날쌔고 빠르게.
+k	신승	sinseung	
+k	신시대	sinsidae	new age; new era; new epo…
+k	신실히	sinsilhi	
+k	신우염	sinuyeom	
+k	신원소	sinwonso	
+k	신자식	sinjasik	a novice priest who is be…
+k	신자체	sinjache	
+k	신정	sinjeong	January 1, New Year's Day
+k	신제품	sinjepum	new product
+k	신조학	sinjohak	
+k	신주락	sinjurak	
+k	신지식	sinjisik	
+k	신지학	sinjihak	theosophy
+k	신책	sinchaek	신기하고 뛰어난 꾀와 방법.
+k	신첩	sincheop	
+k	신체시	sinchesi	
+k	신체제	sincheje	
+k	신편	sinpyeon	
+k	신피질	sinpijil	
+k	신학기	sinhakgi	
+k	신학자	sinhakja	
+k	신행	sinhaeng	
+k	신혈	sinhyeol	
+k	신호원	sinhowon	
+k	신호탄	sinhotan	
+k	신화사	sinhwasa	
+k	신흥	sinheung	
+k	실격	silgyeok	격식에 맞지 않음.
+k	실고추	silgochu	
+k	실기죽	silgijuk	물체가 한쪽으로 천천히 조금 기울어지거나 비뚤…
+k	실꾸리	silkkuri	
+k	실내악	sillaeak	Chamber music.
+k	실다비아	sildabia	
+k	실랑이	sillangi	
+k	실레지아	sillejia	
+k	실력	sillyeok	skill, ability
+k	실로폰	sillopon	xylophone
+k	실리아나	silliana	
+k	실리콘	sillikon	silicon
+k	실무단	silmudan	
+k	실바람	silbaram	풍속 0.3m/sec 이상 1.5m/sec 이…
+k	실성	silseong	loss of reason, insanity,…
+k	실세계	silsegye	
+k	실시간	silsigan	
+k	실시료	silsiryo	
+k	실안개	sirangae	엷게 낀 안개.
+k	실업가	sireopga	businessman, businesswoma…
+k	실업의	sireobui	
+k	실업자	sireopja	an unemployed or jobless …
+k	실없다	sireopda	
+k	실오라기	siroragi	'실오리'.
+k	실정	siljeong	the true state of affairs…
+k	실증	siljeung	
+k	실직자	siljikja	
+k	실책	silchaek	blunder; slip; error
+k	실천	silcheon	praxis; practical applica…
+k	실패자	silpaeja	loser, (a social) failure…
+k	실행	silhaeng	practice; implementation;…
+k	실현	silhyeon	attainment; realization
+k	실혈	silhyeol	
+k	실황	silhwang	
+k	싫증	siljeung	
+k	심력	simnyeok	
+k	심리학	simnihak	psychology (science)
+k	심박수	simbaksu	heart rate
+k	심사원	simsawon	
+k	심성	simseong	mind; disposition
+k	심오하다	simohada	to be profound, abstruse
+k	심외막	simoemak	
+k	심의회	simuihoe	
+k	심정	simjeong	feeling; motive
+k	심증	simjeung	
+k	심천	simcheon	Shenzhen (a subprovincial…
+k	심퉁이	simtungi	'도치'의 강원도 사투리.
+k	심포쥼	simpojum	'심포지엄'의 북한말.
+k	심혈	simhyeol	
+k	십년	simnyeon	
+k	십이궁	sibigung	
+k	십일월	sibirwol	November
+k	십자군	sipjagun	crusaders, crusades
+k	십자말	sipjamal	
+k	십자매	sipjamae	
+k	십진수	sipjinsu	
+k	싱글	singgeul	while grinning once
+k	싱긋	singgeut	
+e	siblicide	siblicide	1 meaning
+e	sick leave	sickleave	1 meaning
+e	sicklepod	sicklepod	1 meaning
+e	side mover	sidemover	1 meaning
+e	sideburns	sideburns	1 meaning
+e	sidequest	sidequest	1 meaning
+e	siegfried	siegfried	1 meaning
+e	signature	signature	1 meaning
+e	signboard	signboard	1 meaning
+e	signified	signified	1 meaning
+e	signifier	signifier	1 meaning
+e	silica gel	silicagel	1 meaning
+e	silicosis	silicosis	1 meaning
+e	silver fox	silverfox	1 meaning
+e	similarly	similarly	1 meaning
+e	simon says	simonsays	1 meaning
+e	simpleton	simpleton	1 meaning
+e	simulator	simulator	1 meaning
+e	simulcast	simulcast	2 meanings
+e	sincerely	sincerely	1 meaning
+e	sincerity	sincerity	1 meaning
+e	sing along	singalong	1 meaning
+e	singapore	singapore	1 meaning
+e	singleton	singleton	1 meaning
+e	sinhalese	sinhalese	1 meaning
+e	sino-xenic	sinoxenic	1 meaning
+e	sinophile	sinophile	1 meaning
+e	sinophone	sinophone	1 meaning
+e	sintering	sintering	1 meaning
+e	sinusitis	sinusitis	1 meaning
+e	situation	situation	4 meanings
+e	six o'clock	sixoclock	1 meaning
+e	sixteenth	sixteenth	1 meaning
+e	sixty-five	sixtyfive	1 meaning
+e	sixty-four	sixtyfour	1 meaning
+e	sixty-nine	sixtynine	2 meanings
+k	시각적	sigakjeok	
+k	시간급	sigangeup	
+k	시간적	siganjeok	시간에 관련된.
+k	시계열	sigyeyeol	어떤 관측값 또는 통계량의 변화를 시간에 따라…
+k	시계자리	sigyejari	
+k	시공간	sigonggan	
+k	시국관	sigukgwan	
+k	시굴권	sigulgwon	
+k	시굼하다	sigumhada	
+k	시궁쥐	sigungjwi	brown rat
+k	시그널	sigeuneol	
+k	시금치	sigeumchi	spinach
+k	시끄러	sikkeureo	
+k	시나고그	sinagogeu	
+k	시나브로	sinabeuro	Bit by bit, little by lit…
+k	시냅스	sinaepseu	synapse
+k	시냇물	sinaenmul	water of a stream, a stre…
+k	시네라리아	sineraria	(학명: Senecio cruentus) 국화…
+k	시달리다	sidallida	to be troubled (with); to…
+k	시당숙	sidangsuk	
+k	시대극	sidaegeuk	
+k	시대사조	sidaesajo	
+k	시대상	sidaesang	
+k	시대적	sidaejeok	시대에 따르는.
+k	시랜드	siraendeu	
+k	시룻번	sirutbeon	
+k	시르타키	sireutaki	
+k	시리얼바	sirieolba	
+k	시물하다	simulhada	
+k	시민권	simingwon	citizenship
+k	시민법	siminbeop	
+k	시바견	sibagyeon	
+k	시발점	sibaljeom	
+k	시복하다	sibokhada	
+k	시부저기	sibujeogi	별로 힘들이지 않고 거의 저절로.
+k	시삼촌	sisamchon	
+k	시상식	sisangsik	
+k	시술하다	sisulhada	
+k	시스택	siseutaek	
+k	시스테인	siseutein	
+k	시시 케밥	sisikebap	
+k	시시대다	sisidaeda	'시시거리다'.
+k	시식하다	sisikhada	
+k	시아버님	siabeonim	
+k	시알코트	sialkoteu	Sialkot (a city in Sialko…
+k	시애미질	siaemijil	시에미질의 잘못된 표기.
+k	시어머니	sieomeoni	mother-in-law for a woman…
+k	시업하다	sieophada	
+k	시에라 리온	sierarion	
+k	시에라레온	sierareon	나라 이름 '시에라리온'의 북한말.
+k	시에라리온	sierarion	Sierra Leone (a country i…
+k	시오니즘	sionijeum	
+k	시원하다	siwonhada	to be refreshing
+k	시작하다	sijakhada	to begin
+k	시즈오까	sijeuokka	일본 '시즈오카 현'과 '시즈오카 시'의 북한…
+k	시집가다	sijipgada	to get married (and so, t…
+k	시집살이	sijipsari	
+k	시착실	sichaksil	
+k	시체꽃	sichekkot	
+k	시추선	sichuseon	시추에 쓰이는 배
+k	시칠리아	sichillia	
+k	시침질	sichimjil	
+k	시쿰하다	sikumhada	깊은 맛이 있게 조금 신 맛이 있다.
+k	시퀀스	sikwonseu	sequence
+k	시크하다	sikeuhada	(표정이) 무심하다, 무뚝뚝하다, 냉정하다.
+k	시킴법	sikimbeop	
+k	시판하다	sipanhada	
+k	시합하다	sihaphada	
+k	시험대	siheomdae	
+k	시험액	siheomaek	
+k	시화전	sihwajeon	
+k	시황제	sihwangje	중국 진나라의 첫 왕. 흔히 진시황(秦始皇)이…
+k	식경	sikgyeong	
+k	식년	singnyeon	
+k	식념	singnyeom	음식을 먹고 싶은 생각.
+k	식단표	sikdanpyo	음식의 여러 종류와 값을 한데 모아 기록한 표.
+k	식량	singnyang	food; provisions
+k	식모술	singmosul	
+k	식목일	singmogil	나무를 심기 위해 특별히 정해 놓은 날.
+k	식물암	singmuram	
+k	식물유	singmuryu	vegetable oil
+k	식민지	singminji	colony, settlement
+k	식불언	sikbureon	
+k	식사하다	siksahada	to eat, to have/take a me…
+k	식염수	sigyeomsu	
+k	식원복	sigwonbok	
+k	식육류	sikyukryu	
+k	식이반사	sigibansa	
+k	식인종	siginjong	cannibal
+k	식자하다	sikjahada	
+k	식충이	sikchungi	
+k	신간답	singandap	
+k	신간회	singanhoe	
+k	신경	singyeong	nerves
+k	신고하다	singohada	to report, to notify, to …
+k	신교육	singyoyuk	
+k	신구관	singugwan	
+k	신기전	singijeon	Korean fire arrow
+k	신기하다	singihada	to be strange and amazing…
+k	신놀린	sinnollin	cinnoline
+k	신라방	sillabang	
+k	신랄한	sillalhan	
+k	신령	sillyeong	god, deity
+k	신망애	sinmangae	
+k	신문업	sinmuneop	
+k	신문학	sinmunhak	
+k	신민회	sinminhoe	
+k	신병	sinbyeong	rookie, new recruit
+k	신봉자	sinbongja	
+k	신부전	sinbujeon	
+k	신붓값	sinbutgap	
+k	신비주의	sinbijuui	
+k	신비하다	sinbihada	mysterious
+k	신사적	sinsajeok	
+k	신생아	sinsaenga	neonate (a recently born …
+k	신서란	sinseoran	New Zealand (a country in…
+k	신서판	sinseopan	
+k	신석기	sinseokgi	
+k	신선로	sinseollo	an elaborate dish cooked …
+k	신수설	sinsuseol	
+k	신수지로	sinsujiro	
+k	신앙심	sinangsim	
+k	신용도	sinyongdo	
+k	신의설	sinuiseol	
+k	신인왕	sininwang	
+k	신임장	sinimjang	이 낱말은 뜻풀이가 필요합니다. 뜻풀이를 추가…
+k	신임하다	sinimhada	to trust
+k	신작로	sinjangno	
+k	신장위	sinjangwi	a variation of the missio…
+k	신중히	sinjunghi	
+k	신청	sincheong	application
+k	신체화	sinchehwa	
+k	신칸센	sinkansen	shinkansen
+k	신탁업	sintageop	
+k	신토불이	sintoburi	몸과 땅은 둘이 아니고 하나라는 뜻으로, 자기…
+k	신트림	sinteurim	
+k	신파극	sinpageuk	
+k	신풍조	sinpungjo	
+k	신학교	sinhakgyo	
+k	신형	sinhyeong	new style, new type
+k	신호지세	sinhojise	굶주린 새벽 호랑이의 기세라는 뜻으로, 매우 …
+k	신호하다	sinhohada	
+k	신화학	sinhwahak	신화에 관하여 연구하는 학문.
+k	신환자	sinhwanja	
+k	실권주	silgwonju	신주인수권을 가진 자가 청약을 하지 않거나 주…
+k	실내복	sillaebok	clothing which is worn on…
+k	실뜨기	siltteugi	cat's cradle
+k	실로비키	sillobiki	
+k	실룩이다	sillugida	근육의 한 부분이 실그러지게 움직이다. 또는 …
+k	실리주의	sillijuui	
+k	실린더	sillindeo	cylinder
+k	실명	silmyeong	going blind; being blind;…
+k	실무적	silmujeok	
+k	실버골	silbeogol	
+k	실사구시	silsagusi	
+k	실새풀	silsaepul	Calamagrostis arundinacea…
+k	실소득	silsodeuk	
+k	실수축	silsuchuk	
+k	실수하다	silsuhada	to make a mistake
+k	실시하다	silsihada	to put into practice; to …
+k	실재론	siljaeron	
+k	실재화	siljaehwa	
+k	실종자	siljongja	
+k	실직한	siljikhan	
+k	실토하다	siltohada	
+k	실패한	silpaehan	
+k	실핏줄	silpitjul	'모세혈관'.
+k	실형	silhyeong	
+k	싫어지다	sireojida	to become disgusted, to h…
+k	싫어하다	sireohada	to detest, to loathe
+k	심각한	simgakhan	
+k	심각함	simgakham	
+k	심경	simgyeong	
+k	심계원	simgyewon	
+k	심내막	simnaemak	
+k	심들다	simdeulda	dialectal, Gyeongsang, Je…
+k	심령	simnyeong	
+k	심리극	simnigeuk	
+k	심리적	simnijeok	심리와 관련된.
+k	심리전	simnijeon	psychological warfare
+k	심리주의	simnijuui	
+k	심미적	simmijeok	
+k	심박계	simbakgye	
+k	심부름	simbureum	errand
+k	심부전	simbujeon	heart failure
+k	심사하다	simsahada	
+k	심악하다	simakhada	몹시 나쁘다.
+k	심의권	simuigwon	
+k	심의하다	simuihada	to deliberate; to review
+k	심전도	simjeondo	
+k	심청	simcheong	
+k	심층	simcheung	
+k	심쿵사	simkungsa	죽을 만큼 몹시 심쿵함
+k	심판대	simpandae	
+k	심판원	simpanwon	경기에서 심판을 맡은 사람.
+k	심호흡	simhoheup	deep breathing, conscious…
+k	십경	sipgyeong	
+k	십볼렛	sipbollet	
+k	십자가두	sipjagadu	
+k	십자선	sipjaseon	reticle; crosshair
+k	싱가폴	singgapol	'싱가포르'의 비규범 표기.
+k	싱그레	singgeure	
+k	싱긋이	singgeusi	
+k	싱끗	singkkeut	눈과 입을 슬며시 움직이며 소리 없이 가볍게 …
+k	싱크로	singkeuro	
+k	싶어지다	sipeojida	
+e	siamese cat	siamesecat	1 meaning
+e	sichuan tit	sichuantit	1 meaning
+e	siddhartha	siddhartha	1 meaning
+e	side by side	sidebyside	1 meaning
+e	side effect	sideeffect	3 meanings
+e	side street	sidestreet	1 meaning
+e	sidewinder	sidewinder	1 meaning
+e	sikh empire	sikhempire	1 meaning
+e	silent fart	silentfart	1 meaning
+e	silent film	silentfilm	1 meaning
+e	silent mode	silentmode	1 meaning
+e	silhouette	silhouette	1 meaning
+e	silken tofu	silkentofu	1 meaning
+e	silver carp	silvercarp	1 meaning
+e	silver goal	silvergoal	1 meaning
+e	silver gull	silvergull	1 meaning
+e	silver-grey	silvergrey	2 meanings
+e	silverfish	silverfish	1 meaning
+e	silverware	silverware	1 meaning
+e	simferopol	simferopol	1 meaning
+e	similarity	similarity	1 meaning
+e	simple leaf	simpleleaf	1 meaning
+e	simulation	simulation	2 meanings
+e	sine qua non	sinequanon	1 meaning
+e	single room	singleroom	1 meaning
+e	singly even	singlyeven	1 meaning
+e	sino-korean	sinokorean	2 meanings
+e	sinologist	sinologist	1 meaning
+e	sinophilia	sinophilia	1 meaning
+e	sinophobia	sinophobia	1 meaning
+e	sinosphere	sinosphere	1 meaning
+e	siphovirus	siphovirus	1 meaning
+e	sister city	sistercity	1 meaning
+e	sister ship	sistership	1 meaning
+e	six hundred	sixhundred	1 meaning
+e	sixth grade	sixthgrade	1 meaning
+e	sixth sense	sixthsense	1 meaning
+e	sixty-eight	sixtyeight	1 meaning
+e	sixty-seven	sixtyseven	1 meaning
+e	sixty-three	sixtythree	1 meaning
+j	シッキム州	sikkimushu	
+k	시각 예술	sigakyesul	visual arts
+k	시각피질	sigakpijil	visual cortex
+k	시간 지각	siganjigak	
+k	시간 표기	siganpyogi	
+k	시간문제	siganmunje	
+k	시간증	siganjeung	
+k	시공이음	sigongieum	콘크리트 공사 중, 이미 경화한 콘크리트에 계…
+k	시구르드	sigureudeu	
+k	시굼시굼	sigumsigum	
+k	시근하다	sigeunhada	
+k	시금석	sigeumseok	
+k	시금하다	sigeumhada	
+k	시급하다	sigeuphada	시각을 다툴 만큼 몹시 절박하고 급하다.
+k	시기상조	sigisangjo	
+k	시나몬 롤	sinamonrol	
+k	시나이 반도	sinaibando	
+k	시난고난	sinangonan	
+k	시대 착오	sidaechago	
+k	시대착오	sidaechago	
+k	시들하다	sideulhada	
+k	시력표	siryeokpyo	
+k	시마이치다	simaichida	
+k	시무르그	simureugeu	
+k	시물대다	simuldaeda	'시물거리다'.
+k	시물시물	simulsimul	
+k	시뭇대다	simutdaeda	
+k	시뭇시뭇	simutsimut	
+k	시민사회	siminsahoe	
+k	시부재래	sibujaerae	
+k	시비곡직	sibigokjik	옳고 그르고 굽고 곧다는 의미로, 옳은 것과 …
+k	시뿌옇다	sippuyeota	
+k	시사용어	sisayongeo	
+k	시상하부	sisanghabu	hypothalamus
+k	시생대	sisaengdae	지질시대의 하나.
+k	시스터나	siseuteona	세포의 막이 자루 모양으로 쭈글쭈글하게 접혀 …
+k	시시각각	sisigakgak	
+k	시시닥이다	sisidagida	
+k	시시콜콜	sisikolkol	
+k	시실대다	sisildaeda	'시실거리다'.
+k	시실시실	sisilsisil	
+k	시아주버니	siajubeoni	
+k	시엠레아프	siemreapeu	
+k	시왕전	siwangjeon	
+k	시외버스	sioebeoseu	시외에 가는 버스.
+k	시원시원	siwonsiwon	
+k	시위운동	siwiundong	
+k	시읍면	sieummyeon	
+k	시작 메뉴	sijakmenyu	
+k	시작되다	sijakdoeda	to start, to begin
+k	시장조사	sijangjosa	
+k	시장하다	sijanghada	hungry
+k	시정배	sijeongbae	
+k	시차증	sichajeung	
+k	시찰하다	sichalhada	
+k	시청사	sicheongsa	
+k	시청자	sicheongja	viewer (someone who watch…
+k	시침하다	sichimhada	
+k	시커멓다	sikeomeota	전체가 매우 까맣다.
+k	시쿰시쿰	sikumsikum	
+k	시크 제국	sikeujeguk	
+k	시큰하다	sikeunhada	
+k	시큼하다	sikeumhada	
+k	시틋하다	siteuthada	마음이 내키지 아니하여 시들하다.
+k	시퍼렇다	sipeoreota	
+k	시프트 키	sipeuteuki	
+k	시허옇다	siheoyeota	
+k	시험관	siheomgwan	test tube
+k	시험장	siheomjang	
+k	시험지옥	siheomjiok	
+k	시험하다	siheomhada	to try, to test
+k	시효기간	sihyogigan	
+k	식당차	sikdangcha	
+k	식료품	singnyopum	foodstuffs, groceries, fo…
+k	식물계	singmulgye	
+k	식물대	singmuldae	
+k	식물산	singmulsan	
+k	식물원	singmurwon	연구나 보존 및 전시를 목적으로 많은 종류의 …
+k	식물질	singmuljil	
+k	식물체	singmulche	
+k	식물학	singmulhak	botany
+k	식민국	singminguk	
+k	식별자	sikbyeolja	identifier
+k	식양학	sigyanghak	
+k	식언하다	sigeonhada	구두로 했던 약속을 어기다.
+k	식용유	sigyongnyu	cooking oil
+k	식용품	sigyongpum	
+k	식육목	sigyungmok	
+k	식은땀	sigeunttam	
+k	식이 섬유	sigiseomyu	
+k	식이요법	sigiyobeop	
+k	식자우환	sikjauhwan	misery brought by literac…
+k	식중독	sikjungdok	food poisoning
+k	식품점	sikpumjeom	
+k	신개선	singaeseon	
+k	신고되다	singodoeda	
+k	신구세계	singusegye	
+k	신기롭다	singiropda	
+k	신나까리	sinnakkari	'아주 조금'의 경상도 사투리. 시내까리로도 …
+k	신년사	sinnyeonsa	formal New Year's address
+k	신농씨	sinnongssi	
+k	신대륙	sindaeryuk	the New World, usually th…
+k	신데렐라	sinderella	Cinderella
+k	신독하다	sindokhada	
+k	신랄하다	sillalhada	맛이 아주 쓰고 맵다.
+k	신뢰하다	silloehada	to trust
+k	신묘하다	sinmyohada	
+k	신문기자	sinmungija	
+k	신문하다	sinmunhada	
+k	신박하다	sinbakhada	to be novel and interesti…
+k	신발장	sinbaljang	
+k	신분권	sinbungwon	
+k	신분범	sinbunbeom	
+k	신분법	sinbunbeop	
+k	신분제도	sinbunjedo	봉건 시대에 개인의 사회적 신분이 고정되어 광…
+k	신비롭다	sinbiropda	
+k	신산하다	sinsanhada	맛이 맵고 시다.
+k	신생의	sinsaengui	
+k	신선한	sinseonhan	
+k	신세사이자	sinsesaija	
+k	신속하다	sinsokhada	
+k	신시내티	sinsinaeti	
+k	신실하다	sinsilhada	
+k	신음하다	sineumhada	
+k	신임되다	sinimdoeda	
+k	신임투표	sinimtupyo	
+k	신입사원	sinipsawon	
+k	신입생	sinipsaeng	freshman
+k	신주단지	sinjudanji	
+k	신중단	sinjungdan	
+k	신중한	sinjunghan	
+k	신천지	sincheonji	new field, new realm
+k	신체권	sinchegwon	
+k	신체적	sinchejeok	bodily, corporal, corpore…
+k	신탁하다	sintakhada	
+k	신택스	sintaekseu	
+k	신학문	sinhangmun	
+k	신호나팔	sinhonapal	
+k	신호등	sinhodeung	traffic light, signal lig…
+k	신호총	sinhochong	starter pistol, firearm u…
+k	신혼부부	sinhonbubu	newlyweds
+k	신화적	sinhwajeok	
+k	신효하다	sinhyohada	신기한 효과나 효험이 있다.
+k	실레지아어	sillejiaeo	서슬라브어파에 속한 언어. 폴란드 남쪽의 실레…
+k	실력자	sillyeokja	
+k	실례하다	sillyehada	to be rude
+k	실로비크	sillobikeu	
+k	실루리아기	silruriagi	
+k	실리카겔	sillikagel	
+k	실망한	silmanghan	
+k	실뱅어	silbaengeo	The short icefish, Neosal…
+k	실버들	silbeodeul	'수양버들'을 달리 이르는 말.
+k	실시되다	silsidoeda	to take effect
+k	실신하다	silsinhada	정신을 잃다.
+k	실어증	sireojeung	aphasia
+k	실언하다	sireonhada	
+k	실업률	sireomnyul	unemployment rate
+k	실잠자리	siljamjari	실잠자릿과의 잠자리를 어울러 이르는 말.
+k	실재하다	siljaehada	
+k	실족하다	siljokhada	발을 헛디디다.
+k	실존적	siljonjeok	
+k	실존주의	siljonjuui	existentialism
+k	실존하다	siljonhada	정말로 있다. (철학) 경험적 또는 초월적으로…
+k	실직하다	siljikhada	to be laid off, fired, un…
+k	실질적	siljiljeok	actual, real, practical
+k	실팍하다	silpakhada	
+k	실패하다	silpaehada	to fail (a task or action)
+k	실험식	silheomsik	
+k	실험실	silheomsil	laboratory, lab
+k	심각하다	simgakhada	to be severe, profound
+k	심난하다	simnanhada	
+k	심란하다	simnanhada	disturbed; upset; anxious
+k	심리묘사	simnimyosa	
+k	심리학자	simnihakja	psychologist
+k	심마니말	simmanimal	A coded cant historically…
+k	심문하다	simmunhada	to interrogate, to examine
+k	심벌즈	simbeoljeu	cymbal
+k	심사숙고	simsasukgo	careful consideration
+k	심성암	simseongam	
+k	심심풀이	simsimpuri	
+k	심심하다	simsimhada	bored, boring
+k	심약하다	simyakhada	
+k	심인성	siminseong	being psychogenic
+k	심전계	simjeongye	
+k	심정지	simjeongji	
+k	심판관	simpangwan	'심판'.
+k	심판장	simpanjang	
+k	심판하다	simpanhada	경기에서 판결이나 결과를 알리다.
+k	심페로폴	simperopol	Simferopol (the capital c…
+k	심포지엄	simpojieom	symposium
+k	심해선	simhaeseon	
+k	심해지다	simhaejida	
+k	십육강	sibyukgang	
+k	십이지장	sibijijang	duodenum
+k	십진법	sipjinbeop	decimal
+k	십팔번	sippalbeon	가장 즐겨 부르는 노래.
+k	싯누렇다	sinnureota	
+k	싯다르타	sitdareuta	
+k	싱겁다	singgeopda	to be bland, not salty
+k	싱끗이	singkkeusi	
+k	싱싱히	singsinghi	
+k	싱크대	singkeudae	sink (basin)
+k	싱크홀	singkeuhol	
+e	siamese twin	siamesetwin	1 meaning
+e	siberian elm	siberianelm	1 meaning
+e	siberian jay	siberianjay	1 meaning
+e	sidereal day	siderealday	1 meaning
+e	siege engine	siegeengine	1 meaning
+e	sierra leone	sierraleone	1 meaning
+e	sightseeing	sightseeing	1 meaning
+e	significant	significant	1 meaning
+e	silicic acid	silicicacid	1 meaning
+e	silver maple	silvermaple	1 meaning
+e	silver medal	silvermedal	1 meaning
+e	silver oxide	silveroxide	1 meaning
+e	silversmith	silversmith	1 meaning
+e	singaporean	singaporean	2 meanings
+e	single track	singletrack	1 meaning
+e	single-click	singleclick	1 meaning
+e	singularity	singularity	3 meanings
+e	sino-tibetan	sinotibetan	1 meaning
+e	sint maarten	sintmaarten	1 meaning
+e	sister-in-law	sisterinlaw	5 meanings
+e	sitting duck	sittingduck	1 meaning
+e	sitātapatrā	sitatapatra	1 meaning
+e	six thousand	sixthousand	1 meaning
+j	七賢人	sichikenjin	
+k	시가 선집	sigaseonjip	anthology, collection
+k	시가전차	sigajeoncha	a tram, a streetcar (pass…
+k	시간강사	sigangangsa	
+k	시계열도	sigyeyeoldo	시계열을 도표로 나타낸 그림.
+k	시골뜨기	sigoltteugi	country bumpkin, hick
+k	시궁창	sigungchang	
+k	시근대다	sigeundaeda	'시근거리다'(고르지 않고 거칠고 가쁘게 숨 …
+k	시꺼멓다	sikkeomeota	deep-black, sooted
+k	시끄러워	sikkeureowo	
+k	시내버스	sinaebeoseu	시내에서 운행하는 버스.
+k	시대감각	sidaegamgak	
+k	시대사상	sidaesasang	
+k	시대소설	sidaesoseol	
+k	시동생	sidongsaeng	brother-in-law (brother o…
+k	시들대다	sideuldaeda	'시들거리다'.
+k	시뜻하다	sitteuthada	
+k	시러큐스	sireokyuseu	
+k	시룽대다	sirungdaeda	'시룽거리다'.
+k	시름없다	sireumeopda	
+k	시마네현	simanehyeon	동해에 접한 일본의 현.
+k	시무룩하다	simurukhada	to be sulky, to be morose
+k	시물새물	simulsaemul	
+k	시민문학	siminmunhak	
+k	시방세계	sibangsegye	
+k	시뿌예지다	sippuyejida	
+k	시사해설	sisahaeseol	
+k	시설궂다	siseolgutda	
+k	시설대다	siseoldaeda	'시설거리다'.
+k	시설맞다	siseolmatda	
+k	시세예측	siseyecheuk	
+k	시스젠더	siseujendeo	
+k	시시 타부크	sisitabukeu	
+k	시시거리다	sisigeorida	실없이 웃으며 거볍게 자꾸 지껄이다.
+k	시시덕이다	sisideogida	('…과'가 나타나지 않을 때는 여럿임을 뜻하…
+k	시신경	sisingyeong	optic nerve
+k	시아누크빌	sianukeubil	
+k	시안화수소	sianhwasuso	
+k	시약청	siyakcheong	
+k	시외삼촌	sioesamchon	
+k	시원찮다	siwonchanta	
+k	시장 가치	sijanggachi	market value
+k	시장가치	sijanggachi	
+k	시저스 킥	sijeoseukik	
+k	시적대다	sijeokdaeda	'시적거리다'.
+k	시제의 일치	sijeuiilchi	
+k	시종여일	sijongyeoil	
+k	시차운동	sichaundong	
+k	시청각	sicheonggak	
+k	시청료	sicheongnyo	
+k	시치근히	sichigeunhi	'시척지근히'의 준말.
+k	시치름히	sichireumhi	
+k	시칠리아의	sichilliaui	
+k	시커메지다	sikeomejida	
+k	시큰대다	sikeundaeda	'시큰거리다'.
+k	시클라멘	sikeullamen	
+k	시트러스	siteureoseu	
+k	시트르산	siteureusan	
+k	시퍼레지다	sipeorejida	시퍼렇게 변하다.
+k	시폰 케이크	siponkeikeu	
+k	시한폭탄	sihanpoktan	time bomb
+k	시행하다	sihaenghada	
+k	시허예지다	siheoyejida	
+k	시험문제	siheommunje	
+k	시호통신	sihotongsin	
+k	식겁하다	sikgeophada	be devastated, freak out
+k	식곤증	sikgonjeung	
+k	식균세포	sikgyunsepo	
+k	식도경	sikdogyeong	
+k	식물극	singmulgeuk	
+k	식물기간	sikmulgigan	많은 식물은 일평균기온이 5℃ 이상이 되면 발…
+k	식물기후	singmulgihu	
+k	식물상	singmulsang	
+k	식민주의	singminjuui	colonialism
+k	식분증	sikbunjeung	
+k	식불감미	sikbulgammi	
+k	식상하다	siksanghada	
+k	식소사번	siksosabeon	먹을 것은 적은데 할 일은 많음. 중국 삼국 …
+k	식식대다	siksikdaeda	'식식거리다'.
+k	식욕부진	sigyokbujin	
+k	식욕이상	sigyogisang	
+k	식용균	sigyonggyun	
+k	식용근	sigyonggeun	
+k	식육성	sigyukseong	
+k	식충류	sikchungryu	
+k	식팁카르	siktipkareu	
+k	신감각파	singamgakpa	
+k	신격화	singyeokhwa	apotheosis, deification
+k	신경지	singyeongji	
+k	신권설	singwonseol	
+k	신근봉	singeunbong	
+k	신기누설	singinuseol	
+k	신드바드	sindeubadeu	
+k	신디케이트	sindikeiteu	syndicate
+k	신뢰구간	silloegugan	
+k	신뢰성	silloeseong	
+k	신명기	sinmyeonggi	Deuteronomy (fifth book o…
+k	신문조서	sinmunjoseo	
+k	신문철	sinmuncheol	
+k	신미양요	sinmiyangyo	
+k	신발끈	sinbalkkeun	shoelace, shoestring
+k	신봉하다	sinbonghada	
+k	신분증	sinbunjeung	identity card, ID card
+k	신비경	sinbigyeong	
+k	신빙하다	sinbinghada	
+k	신생대	sinsaengdae	중생대 이후로 이어지며 포유류가 지배하는 시대.
+k	신생아기	sinsaengagi	
+k	신선하다	sinseonhada	to be fresh (in a new or …
+k	신설하다	sinseolhada	
+k	신성한	sinseonghan	
+k	신시사이저	sinsisaijeo	synthesizer
+k	신신부탁	sinsinbutak	
+k	신앙개조	sinanggaejo	
+k	신약시대	sinyaksidae	
+k	신여성	sinyeoseong	
+k	신열하다	sinyeolhada	사물의 분석이나 비평 따위가 매우 날카롭고 예…
+k	신용장	sinyongjang	letter of credit
+k	신용조사	sinyongjosa	
+k	신원조회	sinwonjohoe	
+k	신유박해	sinyubakhae	
+k	신인상파	sininsangpa	
+k	신장염	sinjangyeom	
+k	신장하다	sinjanghada	
+k	신적설	sinjeokseol	지면 위나 오래된 설면 위에 하루가 시작되고 …
+k	신전장	sinjeonjang	
+k	신접살이	sinjeopsari	
+k	신주양자	sinjuyangja	
+k	신중하다	sinjunghada	careful, prudent, cautious
+k	신진 대사	sinjindaesa	
+k	신진대사	sinjindaesa	metabolism
+k	신착립	sinchangnip	
+k	신천옹	sincheonong	an albatross (seabird)
+k	신청자	sincheongja	applicant, claimant, subs…
+k	신체 언어	sincheeoneo	
+k	신체발부	sinchebalbu	
+k	신체성	sincheseong	
+k	신축하다	sinchukhada	
+k	신탁사업	sintaksaeop	
+k	신탁회사	sintakhoesa	
+k	신통하다	sintonghada	
+k	신파시즘	sinpasijeum	
+k	신화시대	sinhwasidae	
+k	실개천	silgaecheon	
+k	실랑이질	sillangijil	
+k	실룩대다	sillukdaeda	'실룩거리다'.
+k	실리주의의	sillijuuiui	
+k	실리주의자	sillijuuija	
+k	실망하다	silmanghada	to be disappointed
+k	실베짱이	silbejjangi	sickle-bearing bush-crick…
+k	실실대다	silsildaeda	'실실거리다'.
+k	실연하다	siryeonhada	
+k	실용적	siryongjeok	
+k	실용주의	siryongjuui	
+k	실적호조	siljeokhojo	결과가 좋은 상태.
+k	실크 로드	silkeurodeu	Silk Road
+k	실향민	silhyangmin	displaced person
+k	실험적	silheomjeok	
+k	실험하다	silheomhada	to experiment, to test
+k	심근염	simgeunyeom	
+k	심기 일전	simgiiljeon	
+k	심기일전	simgiiljeon	
+k	심리소설	simnisoseol	
+k	심리요법	simniyobeop	
+k	심부감각	simbugamgak	
+k	심산유곡	simsanyugok	high mountains and deep v…
+k	심상하다	simsanghada	대수롭지 않고 흔하다.
+k	심장근	simjanggeun	
+k	심장마비	simjangmabi	
+k	심장염	simjangyeom	
+k	심취하다	simchwihada	
+k	심포경	simpogyeong	가슴 속에서 시작하여 심포(心包)에 속하고 가…
+k	심해어업	simhaeeoeop	
+k	심홍색	simhongsaek	
+k	십면체	simmyeonche	
+k	십이진법	sibijinbeop	
+k	십자고상	sipjagosang	crucifix
+k	싯누레지다	sinnurejida	
+k	싱가포르	singgaporeu	Singapore (an island and …
+k	싱글룸	singgeullum	
+k	싱글맘	singgeulmam	
+k	싱할라어	singhallaeo	
+e	sidereal time	siderealtime	1 meaning
+e	sidereal year	siderealyear	1 meaning
+e	sign language	signlanguage	1 meaning
+e	significance	significance	2 meanings
+e	silicon steel	siliconsteel	1 meaning
+e	silver bullet	silverbullet	2 meanings
+e	silver screen	silverscreen	2 meanings
+e	silver-haired	silverhaired	1 meaning
+e	silviculture	silviculture	1 meaning
+e	simultaneous	simultaneous	1 meaning
+e	single eyelid	singleeyelid	1 meaning
+e	single father	singlefather	1 meaning
+e	single mother	singlemother	1 meaning
+e	sinicization	sinicization	1 meaning
+e	sino-japanese	sinojapanese	2 meanings
+e	sinocentrism	sinocentrism	1 meaning
+e	siphonophore	siphonophore	1 meaning
+j	スィクティフカル	sikutifukaru	
+j	枝葉末節	siyomassetsu	本質から外れた小さなこと。
+k	시가총액	sigachongaek	기준 시기와 상장주식 수의 곱을 합계한 총액.…
+k	시가행진	sigahaengjin	
+k	시간이 말해	siganimalhae	
+k	시간이 약이다	siganiyagida	
+k	시계비행	sigyebihaeng	VFR (visual flight rules)
+k	시곗바늘	sigyetbaneul	hand
+k	시근시근	sigeunsigeun	
+k	시글시글	sigeulsigeul	
+k	시금시금	sigeumsigeum	
+k	시꺼메지다	sikkeomejida	
+k	시끄럽다	sikkeureopda	to be loud; to be noisy
+k	시득부득	sideukbudeuk	
+k	시득시득	sideuksideuk	'시드럭시드럭'의 준말.
+k	시들병	sideulbyeong	
+k	시들부들	sideulbudeul	
+k	시들시들	sideulsideul	
+k	시룽시룽	sirungsirung	
+k	시름시름	sireumsireum	
+k	시멘트색	simenteusaek	
+k	시모세 화약	simosehwayak	
+k	시물거리다	simulgeorida	입술을 약간 실그러뜨리며 소리 없이 자꾸 웃다.
+k	시뭇거리다	simutgeorida	
+k	시민계급	simingyegeup	
+k	시베리아기단	siberiagidan	겨울에 시베리아나 몽고지방에 발생하는 대륙한대…
+k	시보영화	siboyeonghwa	'시사영화'의 북한말.
+k	시뻘겋다	sippeolgeota	
+k	시뿌얘지다	sippuyaejida	'시뿌예지다'의 비표준어.
+k	시설시설	siseolsiseol	
+k	시세가 오르다	sisegaoreuda	
+k	시시닥대다	sisidakdaeda	'시시닥거리다'.
+k	시시콜콜히	sisikolkolhi	
+k	시실거리다	sisilgeorida	점잖지 아니하게 자꾸 실없이 까불며 웃다.
+k	시원시원히	siwonsiwonhi	
+k	시원찮은	siwonchaneun	'시원찮다'의 관형사형.
+k	시원찮음	siwonchaneum	'시원찮다'의 명사형.
+k	시원해지다	siwonhaejida	to cool down, to become c…
+k	시월상달	siwolsangdal	
+k	시작 버튼	sijakbeoteun	
+k	시작이 반이다	sijagibanida	시작이 어려워 보일지라도 일단 시작하면 끝을 …
+k	시장하시다	sijanghasida	to be hungry: honorific o…
+k	시적시적	sijeoksijeok	
+k	시종일관	sijongilgwan	
+k	시중금리	sijunggeumni	
+k	시중들다	sijungdeulda	
+k	시중판매	sijungpanmae	
+k	시집보내다	sijipbonaeda	to give one's daughter aw…
+k	시청률	sicheongnyul	
+k	시청하다	sicheonghada	
+k	시커매지다	sikeomaejida	'시커메지다'의 비표준어.
+k	시콩시콩	sikongsikong	
+k	시큰시큰	sikeunsikeun	
+k	시큼시큼	sikeumsikeum	
+k	시퍼래지다	sipeoraejida	'시퍼레지다'의 비표준어.
+k	시행기한	sihaenggihan	
+k	시행되다	sihaengdoeda	
+k	시행착오	sihaengchago	
+k	시효정지	sihyojeongji	
+k	식각판화	sikgakpanhwa	
+k	식년과	singnyeongwa	
+k	식대령	sikdaeryeong	
+k	식량난	singnyangnan	
+k	식물 인간	singmulingan	
+k	식물구계	singmulgugye	
+k	식물도감	singmuldogam	
+k	식물상아	singmulsanga	
+k	식물성	singmulseong	
+k	식물인간	singmuringan	
+k	식물학자	singmulhakja	식물학에 관련된 것을 연구하는 사람.
+k	식민지화	singminjihwa	colonization, colonialism
+k	식민회사	singminhoesa	
+k	식별하다	sikbyeolhada	
+k	식빵자세	sikppangjase	
+k	식생활	siksaenghwal	eating habits; diet
+k	식염천	sigyeomcheon	
+k	식이전염	sigijeonyeom	
+k	식전바람	sikjeonbaram	
+k	식현상	sikhyeonsang	
+k	신결석	singyeolseok	
+k	신결핵	singyeolhaek	
+k	신경계	singyeonggye	nervous system
+k	신경과	singyeonggwa	
+k	신경배	singyeongbae	
+k	신경질	singyeongjil	
+k	신경판	singyeongpan	
+k	신경학	singyeonghak	neurology
+k	신국면	singungmyeon	
+k	신나치주의	sinnachijuui	
+k	신두 왕국	sinduwangguk	
+k	신문소설	sinmunsoseol	
+k	신문용지	sinmunyongji	newsprint
+k	신문전보	sinmunjeonbo	
+k	신발 제조자	sinbaljejoja	
+k	신발명	sinbalmyeong	
+k	신빙되다	sinbingdoeda	
+k	신빙성	sinbingseong	credibility
+k	신사륙판	sinsaryukpan	
+k	신생아학	sinsaengahak	
+k	신생활	sinsaenghwal	
+k	신성하다	sinseonghada	sacred, holy
+k	신신당부	sinsindangbu	
+k	신안특허	sinanteukheo	
+k	신앙고백	sinanggobaek	
+k	신연증	sinyeonjeung	
+k	신열대구	sinyeoldaegu	
+k	신용 카드	sinyongkadeu	credit card
+k	신용조합	sinyongjohap	
+k	신으로 모심	sineuromosim	
+k	신임을 잃다	sinimeulilta	
+k	신장되다	sinjangdoeda	
+k	신제국주의	sinjegukjuui	
+k	신청서	sincheongseo	application form, written…
+k	신체검사	sinchegeomsa	건강 상태를 알기 위하여 신체의 각 부분을 검…
+k	신체형	sinchehyeong	
+k	신축되다	sinchukdoeda	
+k	신축성	sinchukseong	scalability
+k	신축자재	sinchukjajae	
+k	신출내기	sinchullaegi	
+k	실 전화기	siljeonhwagi	
+k	실거리나무	silgeorinamu	Mysore thorn (Biancaea de…
+k	실격하다	silgyeokhada	
+k	실긋대다	silgeutdaeda	'실긋거리다'.
+k	실내운동	sillaeundong	indoor sports or exercise
+k	실레브리티	sillebeuriti	
+k	실생활	silsaenghwal	이론이나 상상이 아닌 실제의 생활.
+k	실성하다	silseonghada	lose reason, lose one's m…
+k	실습생	silseupsaeng	trainee, intern
+k	실업교육	sireopgyoyuk	
+k	실없쟁이	sireopjaengi	
+k	실이삭사초	sirisaksacho	
+k	실존주의자	siljonjuuija	
+k	실종되다	siljongdoeda	to go missing, to disappe…
+k	실증적	siljeungjeok	증거에 근거한.
+k	실증주의	siljeungjuui	
+k	실증하다	siljeunghada	
+k	실질적인	siljiljeogin	
+k	실쭉대다	siljjukdaeda	'실쭉거리다'.
+k	실천적	silcheonjeok	
+k	실천하다	silcheonhada	to implement; to carry ou…
+k	실크해트	silkeuhaeteu	
+k	실행하다	silhaenghada	to carry out, to execute,…
+k	실현하다	silhyeonhada	to attain, to realize (a …
+k	실황예보	silhwangyebo	기상관측실황 자료를 근거로하여 실황으로부터 2…
+k	실효습도	silhyoseupdo	수 일 전부터의 상대습도에 경과 시간에 따른 …
+k	심령술	simnyeongsul	
+k	심령학	simnyeonghak	
+k	심리상태	simnisangtae	
+k	심산계곡	simsangyegok	
+k	심술쟁이	simsuljaengi	
+k	심심파적	simsimpajeok	
+k	심적포화	simjeokpohwa	
+k	심취되다	simchwidoeda	
+k	십각형	sipgakhyeong	decagon
+k	십계명	sipgyemyeong	
+k	십년지기	simnyeonjigi	
+k	십상팔구	sipsangpalgu	nine times out of ten
+k	십이 성좌	sibiseongjwa	the twelve signs of the Z…
+k	십이각별	sibigakbyeol	
+k	십자성호	sipjaseongho	
+k	십중팔구	sipjungpalgu	almost all; supermajority
+k	싯누래지다	sitnuraejida	'싯누레지다'의 비표준어.
+k	싯멀겋다	sinmeolgeota	
+k	싱글마마	singgeulmama	
+k	싱글하다	singgeulhada	
+k	싱긋하다	singgeuthada	
+k	싱둥하다	singdunghada	
+k	싱싱하다	singsinghada	fresh
+e	siberian crane	siberiancrane	1 meaning
+e	siberian husky	siberianhusky	1 meaning
+e	siberian tiger	siberiantiger	1 meaning
+e	sichuan pepper	sichuanpepper	1 meaning
+e	signature song	signaturesong	1 meaning
+e	significantly	significantly	1 meaning
+e	sihanoukville	sihanoukville	3 meanings
+e	silicon valley	siliconvalley	1 meaning
+e	silver general	silvergeneral	1 meaning
+e	silver nitrate	silvernitrate	1 meaning
+e	silver pomfret	silverpomfret	1 meaning
+e	silver sulfide	silversulfide	1 meaning
+e	simple machine	simplemachine	1 meaning
+e	sint eustatius	sinteustatius	1 meaning
+e	sit on the fence	sitonthefence	1 meaning
+e	sitting toilet	sittingtoilet	1 meaning
+k	시간개념	sigangaenyeom	
+k	시간여행	siganyeohaeng	time travel
+k	시간외 근무	siganoegeunmu	
+k	시간외 수당	siganoesudang	
+k	시간의 낭비	siganuinangbi	
+k	시그무레하다	sigeumurehada	
+k	시근거리다	sigeungeorida	고르지 않고 거칠고 가쁘게 숨 쉬는 소리가 자…
+k	시근버근	sigeunbeogeun	
+k	시다드 벨랴	sidadeubellya	
+k	시대정신	sidaejeongsin	zeitgeist (spirit of the …
+k	시들거리다	sideulgeorida	시들면서 차차 생기가 없어지다.
+k	시들방귀	sideulbanggwi	
+k	시력검사	siryeokgeomsa	눈이 얼마만 한 크기의 물체를 볼 수 있는지를…
+k	시룽거리다	sirunggeorida	경솔하고 방정맞게 까불며 자꾸 지껄이다.
+k	시룽새롱	sirungsaerong	
+k	시모노세끼 시	simonosekkisi	야마구치 현 '시모노세키 시'의 북한말.
+k	시방정토	sibangjeongto	
+k	시베리아 고기압	siberiagogiap	겨울철에 시베리아 및 몽골 방면에서 발달하는 …
+k	시부적대다	sibujeokdaeda	'시부적거리다'.
+k	시뻘게지다	sippeolgejida	
+k	시사만평	sisamanpyeong	
+k	시삼촌댁	sisamchondaek	
+k	시설거리다	siseolgeorida	실실 웃으면서 수다스럽게 자꾸 지껄이다.
+k	시설떨다	siseoltteolda	
+k	시시덕대다	sisideokdaeda	'시시덕거리다'.
+k	시위적대다	siwijeokdaeda	'시위적거리다'.
+k	시장가격	sijanggagyeok	
+k	시장독점	sijangdokjeom	
+k	시적거리다	sijeokgeorida	힘들이지 아니하고 느릿느릿 행동하거나 말하다.
+k	시정잡배	sijeongjapbae	사람이 많이 모이는 시장이나 우물터에서 우글거…
+k	시정장애	sijeongjangae	대기 중의 미세입자로 인해 대기가 혼탁해지고,…
+k	시체공시소	sichegongsiso	morgue, mortuary
+k	시치근하다	sichigeunhada	'시척지근하다'의 준말.
+k	시치름하다	sichireumhada	
+k	시크무레하다	sikeumurehada	깊은 맛이 있게 조금 신 듯하다.
+k	시큰거리다	sikeungeorida	관절 따위에 신 느낌이 자꾸 들다.
+k	시클로알칸	sikeulroalkan	
+k	시타타파트라	sitatapateura	
+k	시토회 수도사	sitohoesudosa	
+k	시행령	sihaengnyeong	
+k	식량우산	singnyangusan	
+k	식물군락	singmulgullak	
+k	식물표본	singmulpyobon	
+k	식별등	sikbyeoldeung	
+k	식식거리다	siksikgeorida	숨을 매우 가쁘고 거칠게 쉬는 소리를 잇따라 …
+k	식용색소	sigyongsaekso	
+k	식품공업	sikpumgongeop	
+k	식품공해	sikpumgonghae	
+k	식품위생	sikpumwisaeng	
+k	신겸노복	singyeomnobok	
+k	신경 꺼	singyeongkkeo	
+k	신경 세포	singyeongsepo	neuron
+k	신경마비	singyeongmabi	
+k	신경망	singyeongmang	
+k	신경세포	singyeongsepo	신경계를 구성하는 세포를 가리키는 말.
+k	신경염	singyeongyeom	
+k	신경전	singyeongjeon	
+k	신경절	singyeongjeol	
+k	신경통	singyeongtong	
+k	신래침학	sillaechimhak	
+k	신문광고	sinmungwanggo	
+k	신변잡기	sinbyeonjapgi	piece of writing about on…
+k	신분상속	sinbunsangsok	
+k	신사협약	sinsahyeobyak	
+k	신성문자	sinseongmunja	
+k	신용거래	sinyonggeorae	
+k	신용기관	sinyonggigwan	
+k	신용보험	sinyongboheom	
+k	신용판매	sinyongpanmae	
+k	신용화폐	sinyonghwapye	
+k	신원보증	sinwonbojeung	
+k	신원설치	sinwonseolchi	
+k	신장개업	sinjanggaeeop	
+k	신장병	sinjangbyeong	
+k	신접살림	sinjeopsallim	
+k	신주인수권	sinjuinsugwon	
+k	신청하다	sincheonghada	to apply for
+k	신축관세	sinchukgwanse	
+k	신출귀몰	sinchulgwimol	
+k	신탁통치	sintaktongchi	trusteeship (trust territ…
+k	신파연극	sinpayeongeuk	
+k	신품성사	sinpumseongsa	
+k	신학삼덕	sinhaksamdeok	
+k	실격되다	silgyeokdoeda	
+k	실기죽대다	silgijukdaeda	'실기죽거리다'.
+k	실내장식	sillaejangsik	
+k	실례합니다	sillyehamnida	
+k	실룩거리다	sillukgeorida	근육의 한 부분이 자꾸 실그러지게 움직이다. …
+k	실룩샐룩	silluksaelluk	
+k	실망시키다	silmangsikida	to disappoint
+k	실명하다	silmyeonghada	시력을 잃어버리다.
+k	실실거리다	silsilgeorida	소리 없이 실없게 슬며시 자꾸 웃다.
+k	실용적인	siryongjeogin	
+k	실종선고	siljongseongo	부재자의 생사불명의 상태가 일정기간 계속된 경…
+k	실행되다	silhaengdoeda	
+k	실현되다	silhyeondoeda	바라던 일이나 계획 따위가 이루어지다.
+k	싫든 좋든	silteunjoteun	
+k	심각해지다	simgakhaejida	
+k	심내막염	simnaemagyeom	
+k	심리언어학	simnieoneohak	
+k	심리철학	simnicheolhak	
+k	심부름꾼	simbureumkkun	다른 사람의 청이나 명령을 따라 일을 하는 사…
+k	심부름하다	simbureumhada	to run an errand
+k	심사위원단	simsawiwondan	
+k	심신상실	simsinsangsil	
+k	심장발작	simjangbaljak	
+k	심장병	simjangbyeong	
+k	심청전	simcheongjeon	
+k	심층구조	simcheunggujo	
+k	심판을 보다	simpaneulboda	
+k	심한 변비	simhanbyeonbi	
+k	십년감수	simnyeongamsu	
+k	십오각형	sibogakhyeong	pentadecagon
+k	십육진법	sibyukjinbeop	
+k	십이각형	sibigakhyeong	
+k	십이음음계	sibieumeumgye	
+k	십이진법의	sibijinbeobui	
+k	십자가형	sipjagahyeong	
+k	싯멀게지다	sinmeolgejida	
+k	싱가포르의	singgaporeuui	
+k	싱가포르인	singgaporeuin	
+k	싱그럽다	singgeureopda	
+k	싱그레하다	singgeurehada	
+k	싱글대다	singgeuldaeda	'싱글거리다'.
+k	싱글마더	singgeulmadeo	
+k	싱긋대다	singgeutdaeda	'싱긋거리다'.
+k	싱끗하다	singkkeuthada	
+e	siberian weasel	siberianweasel	1 meaning
+e	sign of the horns	signofthehorns	1 meaning
+e	silicon dioxide	silicondioxide	1 meaning
+e	silver medalist	silvermedalist	1 meaning
+e	simple interest	simpleinterest	1 meaning
+e	simple sentence	simplesentence	1 meaning
+e	simplification	simplification	1 meaning
+e	simultaneously	simultaneously	1 meaning
+e	single currency	singlecurrency	1 meaning
+e	sino-vietnamese	sinovietnamese	2 meanings
+e	sinoatrial node	sinoatrialnode	1 meaning
+e	six perfections	sixperfections	1 meaning
+k	시각신경	sigaksingyeong	optic nerve
+k	시간은 돈이다	siganeundonida	
+k	시건방지다	sigeonbangjida	
+k	시계 방향	sigyebanghyang	
+k	시계방향	sigyebanghyang	시계 바늘이 돌아가는 방향.
+k	시굼시굼하다	sigumsigumhada	
+k	시끌시끌	sikkeulsikkeul	
+k	시난고난하다	sinangonanhada	병이 심하지는 않으면서 오래 앓다.
+k	시네마스코프	sinemaseukopeu	
+k	시누스정리	sinuseujeongni	
+k	시렁거리다	sireonggeorida	'시부렁거리다'의 비표준어.
+k	시몬 가라사대	simongarasadae	
+k	시물시물하다	simulsimulhada	
+k	시뭇시뭇하다	simutsimuthada	
+k	시뮬레이션	simyulleisyeon	모의실험(模擬實驗).
+k	시베리아호랑이	siberiahorangi	고양이과의 동물. 몸길이는 2.1m이며 사냥과…
+k	시부렁대다	sibureongdaeda	'시부렁거리다'.
+k	시시닥거리다	sisidakgeorida	('…과'가 나타나지 않을 때는 여럿임을 뜻하…
+k	시시닥시시닥	sisidaksisidak	
+k	시시콜콜하다	sisikolkolhada	
+k	시실시실하다	sisilsisilhada	
+k	시원스럽다	siwonseureopda	
+k	시원시원하다	siwonsiwonhada	
+k	시장 경제	sijanggyeongje	
+k	시장생산	sijangsaengsan	
+k	시장이 반찬	sijangibanchan	배가 고프면 반찬이 없어도 밥이 맛있음을 비유…
+k	시중은행	sijungeunhaeng	
+k	시체애호증	sicheaehojeung	
+k	시칠리아 사람	sichilliasaram	
+k	시쿰시쿰하다	sikumsikumhada	
+k	시큰둥하다	sikeundunghada	
+k	시행규칙	sihaenggyuchik	
+k	시험결혼	siheomgyeolhon	
+k	식균작용	sikgyunjagyong	
+k	식기세척기	sikgisecheokgi	dishwasher (machine)
+k	식료품점	singnyopumjeom	grocery, grocery shop/sto…
+k	식물채집	singmulchaejip	
+k	식세포작용	siksepojagyong	식세포가 개체 내로 유입된 외부물질이나 다른 …
+k	식용버섯	sigyongbeoseot	음식으로 먹을 수 있는 버섯.
+k	식용식물	sigyongsingmul	사람이 음식으로 먹을 수 있는 식물.
+k	식용작물	sigyongjangmul	
+k	식중독지수	sikjungdokjisu	여름철 식중독을 예방하고 국민의 위생을 위하여…
+k	식품보존료	sikpumbojollyo	preservative
+k	신경 가스	singyeonggaseu	
+k	신경성	singyeongseong	
+k	신경조직	singyeongjojik	
+k	신경증	singyeongjeung	
+k	신경향	singyeonghyang	
+k	신규상장	singyusangjang	
+k	신년전야	sinnyeonjeonya	
+k	신문 가판대	sinmungapandae	
+k	신상필벌	sinsangpilbeol	
+k	신석기 시대	sinseokgisidae	
+k	신식민주의	sinsingminjuui	neocolonialism
+k	신앙 요법사	sinangyobeopsa	
+k	신약 성서	sinyakseongseo	
+k	신약성서	sinyakseongseo	
+k	신용대금	sinyongdaegeum	
+k	신원 도둑질	sinwondodukjil	
+k	신청되다	sincheongdoeda	
+k	신탁은행	sintageunhaeng	
+k	신흥문학	sinheungmunhak	
+k	실긋거리다	silgeutgeorida	물체가 자꾸 한쪽으로 비뚤어지거나 기울어지다.…
+k	실리콘 밸리	sillikonbaelli	
+k	실증적인	siljeungjeogin	
+k	실쭉거리다	siljjukgeorida	어떤 감정을 나타내면서 입이나 눈이 자꾸 한쪽…
+k	심령사진	simnyeongsajin	
+k	심리전쟁	simnijeonjaeng	
+k	심부전증	simbujeonjeung	
+k	심사숙고하다	simsasukgohada	깊이 잘 생각해 보다.
+k	심술꾸러기	simsulkkureogi	
+k	심심산천	simsimsancheon	
+k	심장근육	simjanggeunyuk	
+k	십구각형	sipgugakhyeong	
+k	십년공부	simnyeongongbu	
+k	십사각형	sipsagakhyeong	
+k	십일각형	sibilgakhyeong	
+k	싱끗대다	singkkeutdaeda	'싱끗거리다'.
+e	sicilian defence	siciliandefence	1 meaning
+e	sick man of europe	sickmanofeurope	1 meaning
+e	sievierodonetsk	sievierodonetsk	1 meaning
+e	silence is golden	silenceisgolden	1 meaning
+e	singapore dollar	singaporedollar	1 meaning
+e	situation comedy	situationcomedy	1 meaning
+k	시간 팽창	siganpaengchang	
+k	시간을 보내다	siganeulbonaeda	
+k	시광유사전	sigwangyusajeon	
+k	시그널뮤직	sigeuneolmyujik	
+k	시근덕대다	sigeundeokdaeda	'시근덕거리다'.
+k	시근벌떡	sigeunbeoltteok	
+k	시끌벅적	sikkeulbeokjeok	많은 사람들이 어수선하게 움직이며 시끄럽게 떠…
+k	시도 때도 없다	sidottaedoeopda	to be recurrent
+k	시도 때도 없이	sidottaedoeopsi	
+k	시르다리야강	sireudariyagang	
+k	시물새물하다	simulsaemulhada	
+k	시민 불복종	siminbulbokjong	civil disobedience
+k	시민박명	siminbangmyeong	
+k	시방왕생	sibangwangsaeng	
+k	시부적거리다	sibujeokgeorida	로 힘들이지 않고 계속 거볍게 행동하다.
+k	시설스럽다	siseolseureopda	
+k	시시덕거리다	sisideokgeorida	to chatter; to laugh and …
+k	시아노코발라민	sianokoballamin	
+k	시위적거리다	siwijeokgeorida	일을 힘들여 하지 아니하고 되는대로 천천히 하…
+k	시저 샐러드	sijeosaelleodeu	
+k	시정방침	sijeongbangchim	
+k	시척지근히	sicheokjigeunhi	
+k	식량연도	singnyangyeondo	
+k	식물 연쇄	singmulyeonswae	
+k	식은 죽 먹기	sigeunjukmeokgi	doing something easily an…
+k	식충동물	sikchungdongmul	
+k	식충식물	sikchungsingmul	벌레를 잡아먹는 식물.
+k	신 타이완 달러	sintaiwandalleo	
+k	신격화하다	singyeokhwahada	to apotheosize, deify
+k	신경 안 써	singyeongansseo	
+k	신경과민	singyeonggwamin	
+k	신경매독	singyeongmaedok	
+k	신경병	singyeongbyeong	
+k	신경섬유	singyeongseomyu	
+k	신경쇠약	singyeongsoeyak	
+k	신경쓰다	singyeongsseuda	to focus, pay attention, …
+k	신권 정치	singwonjeongchi	
+k	신디컬리즘	sindikeollijeum	
+k	신문 판매대	sinmunpanmaedae	
+k	신사협정	sinsahyeopjeong	
+k	신성해지다	sinseonghaejida	
+k	신신부탁하다	sinsinbutakhada	
+k	신용경제	sinyonggyeongje	
+k	신원보증인	sinwonbojeungin	
+k	신으로 섬기다	sineuroseomgida	
+k	신체적성	sinchejeokseong	
+k	신혼려행	sinhollyeohaeng	
+k	신혼여행	sinhonnyeohaeng	honeymoon (trip taken by …
+k	신흥계급	sinheunggyegeup	
+k	신흥종교	sinheungjonggyo	
+k	실기죽거리다	silgijukgeorida	물체가 자꾸 한쪽으로 천천히 조금 기울어지거나…
+k	실론계피나무	sillongyepinamu	
+k	실망투성이	silmangtuseongi	being full of disappointm…
+k	실시간예측	silsiganyecheuk	기상현상 발생 즉시 그 사건의 미래 상황에 대…
+k	실쭉샐쭉	siljjuksaeljjuk	
+k	실크 모슬린	silkeumoseullin	
+k	실크 스크린	silkeuseukeurin	
+k	실험적으로	silheomjeogeuro	
+k	실황분석	silhwangbunseok	기상관측자료를 일기도, 단면도, 시계열도 등으…
+k	심드렁하다	simdeureonghada	
+k	심장동맥	simjangdongmaek	
+k	십대동천	sipdaedongcheon	
+k	십삼각형	sipsamgakhyeong	
+k	십육각형	sibyukgakhyeong	
+k	십육분음표	sibyukbuneumpyo	
+k	십이지장충	sibijijangchung	
+k	십종경기	sipjonggyeonggi	
+k	십팔각형	sippalgakhyeong	
+k	싱글거리다	singgeulgeorida	눈과 입을 슬며시 움직이며 소리 없이 정답게 …
+k	싱긋거리다	singgeutgeorida	눈과 입을 슬며시 움직이며 소리 없이 가볍게 …
+k	싱크탱크	singkeutaengkeu	think tank
+e	sickle-cell anemia	sicklecellanemia	1 meaning
+e	significant other	significantother	1 meaning
+e	singer-songwriter	singersongwriter	1 meaning
+e	single-lens reflex	singlelensreflex	1 meaning
+j	新古今和歌集	sinkokinwakasifu	the eighth of the 勅撰和歌集 (…
+k	시간 강수량	sigangangsuryang	1시간 동안에 내린 강수량.
+k	시간을 소비하다	siganeulsobihada	
+k	시근시근하다	sigeunsigeunhada	
+k	시글시글하다	sigeulsigeulhada	
+k	시금시금하다	sigeumsigeumhada	
+k	시금씁쓸	sigeumsseupsseul	'시금씁쓸하다'의 어근.
+k	시네마토그래피	sinematogeuraepi	
+k	시득부득하다	sideukbudeukhada	
+k	시득시득하다	sideuksideukhada	
+k	시들부들하다	sideulbudeulhada	
+k	시들시들하다	sideulsideulhada	
+k	시랜드 공국	siraendeugongguk	
+k	시력검사표	siryeokgeomsapyo	시력을 검사하는 데에 쓰는 표.
+k	시룽시룽하다	sirungsirunghada	
+k	시베리안 허스키	siberianheoseuki	
+k	시부렁거리다	sibureonggeorida	쓸데없는 말을 혼잣말처럼 자꾸 지껄이다.
+k	시부적시부적	sibujeoksibujeok	
+k	시분할 시스템	sibunhalsiseutem	
+k	시설시설하다	siseolsiseolhada	
+k	시시덕시시덕	sisideoksisideok	
+k	시위적시위적	siwijeoksiwijeok	
+k	시적시적하다	sijeoksijeokhada	
+k	시치미를 떼다	sichimireultteda	자기가 어떤 일을 해놓고도 아닌 척하거나 무엇…
+k	시칠리아 방언	sichilliabangeon	
+k	시큰시큰하다	sikeunsikeunhada	
+k	시큼시큼하다	sikeumsikeumhada	
+k	식민지화하다	singminjihwahada	to colonize, colonialize
+k	식용달팽이	sigyongdalpaengi	식용으로 하는 달팽이.
+k	식품첨가물	sikpumcheomgamul	
+k	신격화되다	singyeokhwadoeda	to be apotheosized, deifi…
+k	신경전달	singyeongjeondal	
+k	신경중추	singyeongjungchu	
+k	신경향파	singyeonghyangpa	
+k	신선한 공기	sinseonhangonggi	
+k	신신당부하다	sinsindangbuhada	
+k	신용공황	sinyonggonghwang	
+k	신용등급	sinyongdeunggeup	credit rating
+k	신용증권	sinyongjeunggwon	
+k	신장결석	sinjanggyeolseok	
+k	실그러트리다	silgeureoteurida	'실그러뜨리다'.
+k	실내용화초	sillaeyonghwacho	
+k	실린더 블록	sillindeobeullok	
+k	실물 그대로의	silmulgeudaeroui	
+k	실쌈스럽다	silssamseureopda	
+k	심장박동수	simjangbakdongsu	
+k	심장병학	simjangbyeonghak	
+k	심적현상	simjeokhyeonsang	
+k	심폐소생술	simpyesosaengsul	cardiopulmonary resuscita…
+k	십이십이면체	sibisibimyeonche	
+k	십칠각형	sipchilgakhyeong	
+k	싱가포르 사람	singgaporeusaram	
+k	싱글빙글	singgeulbinggeul	눈과 입을 슬며시 움직이며 소리 없이 정답게 …
+k	싱글싱글	singgeulsinggeul	continuously grinningly
+k	싱긋빙긋	singgeutbinggeut	눈과 입을 슬며시 움직이며 소리 없이 가볍게 …
+k	싱긋싱긋	singgeutsinggeut	
+k	싱끗거리다	singkkeutgeorida	눈과 입을 슬며시 움직이며 소리 없이 가볍게 …
+k	싱둥싱둥	singdungsingdung	
+k	싱어송라이터	singeosongnaiteo	singer-songwriter
+e	siberian stonechat	siberianstonechat	1 meaning
+e	side-striped jackal	sidestripedjackal	1 meaning
+e	sidereal astrology	siderealastrology	1 meaning
+e	significant figure	significantfigure	1 meaning
+e	silver anniversary	silveranniversary	1 meaning
+e	simplified chinese	simplifiedchinese	2 meanings
+k	시근덕거리다	sigeundeokgeorida	숨소리가 매우 거칠고 가쁘게 자꾸 나다. 또는…
+k	시룽새롱하다	sirungsaeronghada	
+k	시리즈 종악장	sirijeujongakjang	
+k	시민혁명	siminhyeongmyeong	
+k	시베리아흰두루미	siberiahuindurumi	
+k	시스템 운영자	siseutemunyeongja	
+k	시실리안 디펜스	sisilliandipenseu	
+k	시원섭섭하다	siwonseopseophada	
+k	시월혁명	siwolhyeongmyeong	
+k	시척지근하다	sicheokjigeunhada	음식이 쉬어서 비위에 거슬릴 정도로 맛이나 냄…
+k	시청각교육	sicheonggakgyoyuk	
+k	시칠리아 해협	sichilliahaehyeop	
+k	시푸르죽죽하다	sipureujukjukhada	칙칙하고 고르지 아니하게 매우 푸르스름하다.
+k	식민정책	singminjeongchaek	
+k	신경 쓰지 마	singyeongsseujima	
+k	신경언어학	singyeongeoneohak	neurolinguistics
+k	신들의 황혼	sindeuruihwanghon	
+k	신생대층	sinsaengdaecheung	
+k	신성 로마 제국	sinseongromajeguk	Holy Roman Empire (a form…
+k	신성 전쟁	sinseongjeonjaeng	
+k	신성동맹	sinseongdongmaeng	
+k	신성종무원	sinseongjongmuwon	
+k	신약성경	sinyakseonggyeong	
+k	신출귀몰하다	sinchulgwimolhada	그 움직임이나 변화가 쉽게 알아챌 수 없을 만…
+k	실그러뜨리다	silgeureotteurida	한쪽으로 비뚤어지거나 기울어지게 하다.
+k	실수는 인간이다	silsuneuninganida	
+k	실연적판단	siryeonjeokpandan	
+k	실질 형태소	siljilhyeongtaeso	(언어) 구체적인 대상, 동작, 상태를 표시하…
+k	심근경색	simgeungyeongsaek	heart attack, myocardial …
+k	십일면관음	sibilmyeongwaneum	
+k	십자군 전쟁	sipjagunjeonjaeng	
+k	십자군전쟁	sipjagunjeonjaeng	
+k	싱가포르 달러	singgaporeudalleo	
+k	싱글벙글	singgeulbeonggeul	
+k	싱긋벙긋	singgeutbeonggeut	
+k	싱숭생숭	singsungsaengsung	
+e	siberian rubythroat	siberianrubythroat	1 meaning
+k	시간이 많이 걸리다	siganimanigeollida	
+k	시계비행날씨	sigyebihaengnalssi	
+k	시근벌떡이다	sigeunbeoltteogida	몹시 숨이 차서 숨소리가 고르지 않고 거칠면서…
+k	시금털털하다	sigeumteolteolhada	
+k	시끌시끌하다	sikkeulsikkeulhada	noisy, loud, clamorous, b…
+k	시드럭부드럭	sideureokbudeureok	
+k	시드럭시드럭	sideureoksideureok	
+k	시르렁둥당	sireureongdungdang	
+k	시부렁시부렁	sibureongsibureong	
+k	시시닥시시닥하다	sisidaksisidakhada	
+k	시추에이션 코미디	sichueisyeonkomidi	
+k	신경가소성	singyeonggasoseong	
+k	신경아세포종	singyeongasepojong	신경계 조직으로부터 생기는 육종으로서 대부분 …
+k	신해혁명	sinhaehyeongmyeong	
+k	심령현상	simnyeonghyeonsang	
+k	심포니 오케스트라	simponiokeseuteura	
+k	싱끗빙끗	singkkeutbingkkeut	
+k	싱끗싱끗	singkkeutsingkkeut	
+e	siamese fighting fish	siamesefightingfish	1 meaning
+k	시근벌떡하다	sigeunbeoltteokhada	
+k	시끌벅적하다	sikkeulbeokjeokhada	noisy
+k	시리아 아랍 공화국	siriaarapgonghwaguk	
+k	시푸르뎅뎅하다	sipureudengdenghada	고르지 아니하게 매우 푸르스름하다.
+k	신성불가침의	sinseongbulgachimui	
+k	실용신안특허	siryongsinanteukheo	
+k	실잠재불안정	siljamjaebulanjeong	대기 하층이 불포화로 절대불안정이 아닐 때는 …
+k	십일메터벌차기	sibilmeteobeolchagi	(축구) '페널티킥'의 북한말.
+k	싱끗벙끗	singkkeutbeongkkeut	
+e	sick building syndrome	sickbuildingsyndrome	1 meaning
+k	시근덕시근덕	sigeundeoksigeundeok	숨소리가 매우 거칠고 가쁘게 자꾸 나는 소리.…
+k	시근벌떡대다	sigeunbeoltteokdaeda	'시근벌떡거리다'.
+k	시금떨떨하다	sigeumtteoltteolhada	
+k	시금씁쓸하다	sigeumsseupsseulhada	
+k	시끌벅적대다	sikkeulbeokjeokdaeda	'시끌벅적거리다'.
+k	시부적시부적하다	sibujeoksibujeokhada	
+k	시시덕시시덕하다	sisideoksisideokhada	
+k	시위적시위적하다	siwijeoksiwijeokhada	
+k	시큼씁쓸하다	sikeumsseupsseulhada	
+k	신경다양성	singyeongdayangseong	
+k	싱글빙글하다	singgeulbinggeulhada	
+k	싱글싱글하다	singgeulsinggeulhada	
+k	싱긋빙긋하다	singgeutbinggeuthada	
+k	싱긋싱긋하다	singgeutsinggeuthada	
+k	싱둥싱둥하다	singdungsingdunghada	
+k	심장박동조율기	simjangbakdongjoyulgi	
+k	싱가포르 공화국	singgaporeugonghwaguk	
+k	싱글벙글하다	singgeulbeonggeulhada	
+k	싱글빙글대다	singgeulbinggeuldaeda	'싱글빙글거리다'.
+k	싱긋벙긋하다	singgeutbeonggeuthada	
+k	싱긋빙긋대다	singgeutbinggeutdaeda	'싱긋빙긋거리다'.
+k	싱숭생숭하다	singsungsaengsunghada	
+e	siberian flying squirrel	siberianflyingsquirrel	1 meaning
+e	single transferable vote	singletransferablevote	1 meaning
+k	시근벌떡거리다	sigeunbeoltteokgeorida	몹시 숨이 차서 숨소리가 고르지 않고 거칠면서…
+k	시끌벅적거리다	sikkeulbeokjeokgeorida	많은 사람들이 자꾸 어수선하게 움직이며 시끄럽…
+k	시드럭부드럭하다	sideureokbudeureokhada	
+k	시드럭시드럭하다	sideureoksideureokhada	
+k	시부렁시부렁하다	sibureongsibureonghada	
+k	시옷 불규칙 활용	siotbulgyuchikhwaryong	어간의 끝소리 'ㅅ'이 모음으로 시작하는 어미…
+k	신경전달물질	singyeongjeondalmuljil	neurotransmitter
+k	신사숙녀 여러분	sinsasungnyeoyeoreobun	
+k	심장병 전문의	simjangbyeongjeonmunui	
+k	싱겅싱겅하다	singgeongsinggeonghada	
+k	싱글벙글대다	singgeulbeonggeuldaeda	'싱글벙글거리다'.
+k	싱긋벙긋대다	singgeutbeonggeutdaeda	'싱긋벙긋거리다'.
+k	싱끗빙끗하다	singkkeutbingkkeuthada	
+k	싱끗싱끗하다	singkkeutsingkkeuthada	
+e	silvery-cheeked antshrike	silverycheekedantshrike	1 meaning
+k	신경전형적	singyeongjeonhyeongjeok	
+k	싱글빙글거리다	singgeulbinggeulgeorida	눈과 입을 슬며시 움직이며 소리 없이 정답게 …
+k	싱긋빙긋거리다	singgeutbinggeutgeorida	눈과 입을 슬며시 움직이며 소리 없이 가볍게 …
+k	싱끗벙끗하다	singkkeutbeongkkeuthada	
+k	싱끗빙끗대다	singkkeutbingkkeutdaeda	'싱끗빙끗거리다'.
+e	simultaneous interpreting	simultaneousinterpreting	1 meaning
+k	시계비행 기상조건	sigyebihaenggisangjogeon	육안으로 비행기를 조종할 수 있는 기상조건.
+k	시근덕시근덕하다	sigeundeoksigeundeokhada	
+k	싱글벙글거리다	singgeulbeonggeulgeorida	눈과 입을 슬며시 움직이며 소리 없이 정답고 …
+k	싱긋벙긋거리다	singgeutbeonggeutgeorida	눈과 입을 슬며시 움직이며 소리 없이 가볍고 …
+k	싱끗벙끗대다	singkkeutbeongkkeutdaeda	'싱끗벙끗거리다'.
+k	신종 코로나 감염증	sinjongkoronagamyeomjeung	
+k	싱끗빙끗거리다	singkkeutbingkkeutgeorida	눈과 입을 슬며시 움직이며 소리 없이 가볍게 …
+k	싱끗벙끗거리다	singkkeutbeongkkeutgeorida	눈과 입을 슬며시 움직이며 소리 없이 가볍고 …
+e	single-point urban interchange	singlepointurbaninterchange	1 meaning
+k	싱크로나이즈드스위밍	singkeuronaijeudeuseuwiming	
+e	six of one, half a dozen of the other	sixofonehalfadozenoftheother	1 meaning
+k	신종 코로나바이러스 감염	sinjongkoronabaireoseugamyeom	
+k	시근벌떡시근벌떡	sigeunbeoltteoksigeunbeoltteok	몹시 숨이 차서 숨소리가 고르지 않고 거칠면서…
+k	신경성 식욕부진증	singyeongseongsigyokbujinjeung	
+k	십 년이면 강산도 변한다	sipnyeonimyeongangsandobyeonhanda	
+k	시근벌떡시근벌떡하다	sigeunbeoltteoksigeunbeoltteokhada	
+k	신종 코로나바이러스 감염증	sinjongkoronabaireoseugamyeomjeung	COVID-19
+k	신형코로나비루스감염증	sinhyeongkoronabiruseugamyeomjeung	COVID-19
+k	신선놀음에 도낏자루 썩는 줄 모른다	sinseonnoreumedokkitjarusseongneunjulmoreunda	time flies when you're ha…

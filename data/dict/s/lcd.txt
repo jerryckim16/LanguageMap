@@ -1,0 +1,4 @@
+e	cd	cd	1 meaning
+e	cd-rom	cdrom	1 meaning
+e	c-drama	cdrama	1 meaning
+e	cd burner	cdburner	1 meaning

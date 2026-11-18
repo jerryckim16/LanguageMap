@@ -1,0 +1,934 @@
+e	a.m.	am	1 meaning
+k	앎	am	knowledge; learning; info…
+k	암	am	cancer (illness)
+j	あま	ama	、《漁撈》［原義・古義］（海人、海夫、蜑、蜑家、蜑…
+j	あみ	ami	糸などの索状物を格子状に粗く編むこと、及び、そのよ…
+j	あむ	amu	糸など繊維状のものを打ち違いに組んで、衣類など平面…
+j	あめ	ame	上方の空。
+j	アマ	ama	an on-the-spot maid who w…
+j	アミ	ami	Amis (Taiwanese indigenou…
+j	アーマ	ama	
+j	アーマー	ama	Armagh (a county of North…
+j	アーム	amu	腕。
+j	亜深	ami	a female given name
+j	亜美	ami	a female given name
+j	亜麻	ama	flax (Linum usitatissimum)
+j	天	ama	the sky, the heavens
+j	尼	ama	nun
+j	海人	ama	a male diver
+j	海女	ama	a female diver, especiall…
+j	網	ami	net, netting
+j	編む	amu	knit
+j	醤蝦	ami	an opossum shrimp (order …
+j	阿万	ama	a surname
+j	阿弥	ami	「阿弥陀仏」の略。阿弥陀号で名の下につけたもの。
+j	阿満	ama	a surname
+j	阿磨	ama	a surname
+j	雨	ame	rain, rainfall
+j	飴	ame	candy
+k	아마	ama	perhaps, maybe
+k	아무	amu	any
+e	amapá	amap	1 meaning
+e	amen	amen	3 meanings
+e	amis	amis	1 meaning
+e	amla	amla	1 meaning
+e	amos	amos	2 meanings
+e	amoy	amoy	1 meaning
+e	amur	amur	2 meanings
+j	あまい	amai	糖蜜のような味を感じ取る。
+j	あまえ	amae	「あまえる」の未然形。
+j	あもん	amon	亜門: subphylum
+j	アミン	amin	amine
+j	アメン	amen	Amun - the ancient Egypti…
+j	アモイ	amoi	
+j	アーミン	amin	オコジョ。
+j	アーメン	amen	amen (so be it)
+j	亜門	amon	subphylum
+j	甘い	amai	sweet, sugary, mellow
+j	甘え	amae	intentionally sweet behav…
+k	아매	amae	grandmother, old lady
+k	아멘	amen	amen
+k	아멧	amet	
+k	아민	amin	amine
+k	암기	amgi	memorization
+k	암소	amso	cow; heifer (female cow)
+k	암수	amsu	암컷과 수컷을 아우르는 말.
+k	암시	amsi	hint; implication; sugges…
+k	암울	amul	
+k	암유	amyu	metaphor
+k	암자	amja	a small temple attached t…
+k	암투	amtu	
+k	암호	amho	password, code
+k	앞니	amni	
+e	amami	amami	1 meaning
+e	amass	amass	1 meaning
+e	amaze	amaze	1 meaning
+e	amber	amber	3 meanings
+e	amend	amend	1 meaning
+e	amice	amice	1 meaning
+e	amide	amide	2 meanings
+e	amine	amine	1 meaning
+e	amino	amino	2 meanings
+e	amish	amish	1 meaning
+e	amity	amity	1 meaning
+e	amman	amman	1 meaning
+e	among	among	1 meaning
+e	amply	amply	1 meaning
+j	あまき	amaki	甘木, 甘草: (obsolete) licori…
+j	あまぐ	amagu	
+j	あまご	amago	さつきます（サケ目タイヘイヨウサケ属、学名 Onc…
+j	あまさ	amasa	甘いこと。また、その程度。
+j	あます	amasu	余らせる。残す。
+j	あまず	amazu	砂糖や味醂で甘味を強くした食酢。
+j	あまた	amata	たくさんの量。
+j	あまど	amado	風雨や犯罪などを防ぐため、家屋の外側に取り付ける戸。
+j	あまに	amani	甘煮: boiling in sugar or m…
+j	あまみ	amami	甘い味、またはその程度。
+j	あまよ	amayo	雨が降っている夜。
+j	あまり	amari	余ったもの。あぶれたもの。
+j	あまる	amaru	残る。余分が出る。
+j	あみど	amido	doorway with an insect net
+j	あみめ	amime	編み物や竹細工などでできる編んだりからめたりした部…
+j	あみり	amiri	a female given name
+j	あめる	ameru	（方言、北海道・東北・三重）腐る。
+j	アマパー	amapa	
+j	アマメ	amame	
+j	アマーロ	amaro	リキュールの一つ。数種類の薬草を含んだ苦味のある食…
+j	アミド	amido	amide
+j	アミノ	amino	amino
+j	アミーバ	amiba	アメーバ。
+j	アミール	amiru	an emir, an amir (a princ…
+j	アムカ	amuka	アームカットの略。
+j	アムラ	amura	
+j	アムラー	amura	one who follows the fashi…
+j	アムール	amuru	モンゴル、中国、ロシアを流れオホーツク海に注ぐ大河…
+j	アメこう	ameko	アメ公: (ethnic slur) an Ame…
+j	アメーバ	ameba	amoeba
+j	アメ公	ameko	an American person; an Am…
+j	アモス	amosu	
+j	アモール	amoru	
+j	亜実利	amiri	a female given name
+j	亜実子	amiko	a female given name
+j	亜実理	amiri	a female given name
+j	亜目	amoku	a suborder
+j	亜麻仁	amani	亜麻の種子。
+j	余す	amasu	to leave over, to spare
+j	余り	amari	excessive, extreme
+j	余る	amaru	be left over
+j	天乃	amano	a surname
+j	天城	amaki	a place name
+j	天埜	amano	a surname
+j	天野	amano	a surname
+j	奄美	amami	Amami (a city in Kagoshim…
+j	安実子	amiko	a female given name
+j	愛実利	amiri	a female given name
+j	数多	amata	many, much
+j	明実利	amiri	a female given name
+j	明実理	amiri	a female given name
+j	甘さ	amasa	
+j	甘党	amato	sweet tooth, especially o…
+j	甘味	amami	sweetness
+j	甘木	amagi	Amagi (a city in Fukuoka …
+j	甘煮	amani	something boiled with a s…
+j	甘藻	amamo	eelgrass, Zostera marina
+j	網戸	amido	
+j	網野	amino	Amino, Kyoto
+j	編み棒	amibo	knitting needle
+j	阿実利	amiri	a female given name
+j	阿実子	amiko	a female given name
+j	阿実理	amiri	a female given name
+j	阿弥陀	amida	synonym of 阿弥陀仏 (Amidabut…
+j	雨の	ameno	
+j	雨具	amagu	raingear
+j	雨戸	amado	storm shutter, storm door
+j	雨着	amagi	rainwear
+j	雨縁	amaen	雨戸より外側に張り出した縁。
+j	雨野	ameno	a surname
+k	아마도	amado	maybe
+k	아마파	amapa	
+k	아마포	amapo	아마로 이루어진 직물.
+k	아메바	ameba	amoeba (a member of a gen…
+k	아무데	amude	
+k	아무리	amuri	however much/many; no mat…
+k	아미노	amino	amino
+k	아미타	amita	
+k	암개	amgae	'암캐'의 비표준어.
+k	암곰	amgom	암컷 곰.
+k	암내	amnae	armpit stench
+k	암놈	amnom	
+k	암닭	amdak	North Korea standard spel…
+k	암릿	amnit	armlet
+k	암만	amman	Amman (the capital city o…
+k	암말	ammal	mare (female horse)
+k	암매	ammae	
+k	암묵	ammuk	silence, tacitness
+k	암반	amban	
+k	암산	amsan	
+k	암살	amsal	assassination
+k	암술	amsul	
+k	암실	amsil	a darkroom (a dark room, …
+k	암초	amcho	reef
+k	암캐	amkae	bitch (female dog)
+k	암탉	amtak	hen (female chicken)
+k	암표	ampyo	ticket from a scalper
+k	압닐	amnil	매우 친하고 가까움.
+k	압류	amnyu	
+k	앞날	amnal	
+k	앞뇌	amnoe	
+k	앞몸	ammom	
+k	앞문	ammun	front door
+k	앞일	amnil	
+e	a major	amajor	1 meaning
+e	a minor	aminor	1 meaning
+e	amazed	amazed	1 meaning
+e	amazon	amazon	2 meanings
+e	ambush	ambush	3 meanings
+e	amnion	amnion	1 meaning
+e	amoeba	amoeba	1 meaning
+e	amoral	amoral	1 meaning
+e	amount	amount	3 meanings
+e	ampere	ampere	1 meaning
+e	amrita	amrita	1 meaning
+e	amulet	amulet	1 meaning
+e	amusia	amusia	1 meaning
+j	あまうり	amauri	マクワウリ。
+j	あまえる	amaeru	甘味がある。
+j	あまおと	amaoto	降雨が物に当たって立てる音。
+j	あまごい	amagoi	praying for rain
+j	あまし	amashi	「あます」の連用形。
+j	あまだい	amadai	アマダイ科に属する海水魚の総称。食用。
+j	あまつ	amatsu	天つ: heavenly
+j	あまどい	amadoi	雨樋: drainspout, rain gutt…
+j	あめいろ	ameiro	透明感のある黄褐色。
+j	あめのうお	amenoo	サケ目サケ科に属する淡水魚の一種、ビワマスの別称。…
+j	あめんぼ	amenbo	カメムシ目カメムシ亜目に属する脚が長く水上で生活す…
+j	あめんぼう	amenbo	「あめんぼ」を参照。
+j	アマゾン	amazon	a river in South America,…
+j	アマゾーン	amazon	the Amazons
+j	アマバン	amaban	
+j	アマビエ	amabie	a mythical creature said …
+j	アミジン	amijin	amidine
+j	アメピン	amepin	bobby pin (hairpin)
+j	アメ車	amesha	car made in the United St…
+j	アモイ語	amoigo	
+j	アーモンド	amondo	almond
+j	亜実子江	amikoe	a female given name
+j	亜美璃衣	amirii	a female given name
+j	亜美莉杏	amiria	a female given name
+j	亜麻色	amairo	beige; ecru; flax color
+j	天海	amakai	a surname
+j	甘える	amaeru	to seek affection, to fawn
+j	甘海老	amaebi	synonym of 北国赤海老 (hokkoku…
+j	甘茶	amacha	ヤマアジサイの変種。
+j	網点	amiten	a halftone dot
+j	螭竜	amaryo	竜の一種で雨を降らすとされる。大型で、角はなく、全…
+j	雨樋	amadoi	gutter, waterspout
+j	雨音	amaoto	sound of falling rain
+j	飴ん棒	amenbo	a lollipop
+j	飴棒	amenbo	a water strider
+k	아마존	amajon	Amazon (region, company, …
+k	아모스	amoseu	
+k	아무개	amugae	certain unspecified person
+k	아무거	amugeo	
+k	아물다	amulda	to heal up, to cicatrize
+k	아미딘	amidin	amidine
+k	아미르	amireu	
+k	암것	amgeot	'암컷'의 비표준어.
+k	암글	amgeul	
+k	암꽃	amkkot	pistillate (female) flower
+k	암나무	amnamu	
+k	암나사	amnasa	
+k	암랑	amnang	'의정부'.
+k	암사자	amsaja	암컷사자를 가리키는 말. 숫사자와는 달리 갈기…
+k	암색	amsaek	
+k	암석	amseok	rock
+k	암세포	amsepo	암을 이루는 세포.
+k	암송	amsong	
+k	암암리	amamni	
+k	암양	amyang	암컷 양.
+k	암염	amyeom	주로 돌에 붙어 있는 소금.
+k	암장	amjang	
+k	암적	amjeok	
+k	암종	amjong	carcinoma
+k	암중	amjung	darkness
+k	암컷	amkeot	a female animal
+k	암튼	amteun	'아무튼'의 준말
+k	암페어	ampeeo	ampere (unit of electrica…
+k	암흑	amheuk	dark (a complete or parti…
+k	압맥	ammaek	
+k	앞이마	amnima	
+e	amanita	amanita	1 meaning
+e	amarone	amarone	1 meaning
+e	amateur	amateur	2 meanings
+e	amazing	amazing	1 meaning
+e	ambient	ambient	1 meaning
+e	amharic	amharic	1 meaning
+e	amiable	amiable	1 meaning
+e	amidine	amidine	1 meaning
+e	ammeter	ammeter	1 meaning
+e	ammiyya	ammiyya	1 meaning
+e	ammonia	ammonia	1 meaning
+e	amnesia	amnesia	1 meaning
+e	amnesty	amnesty	1 meaning
+e	amniote	amniote	1 meaning
+e	amongst	amongst	1 meaning
+e	amorgos	amorgos	1 meaning
+e	amorous	amorous	1 meaning
+e	ampoule	ampoule	1 meaning
+e	amputee	amputee	1 meaning
+e	amusing	amusing	1 meaning
+e	amylase	amylase	1 meaning
+j	あまあし	amaashi	雨が通り過ぎる様。
+j	あまえんぼう	amaenbo	甘えるこども。
+j	あまかぜ	amakaze	雨を降らせようとする湿った風。雨を伴った風。
+j	あまから	amakara	甘みと辛みがあること。また、そのような食品。
+j	あまかわ	amakawa	cuticle (skin at the base…
+j	あまがき	amagaki	枝についている状態で果実が甘くなる柿。
+j	あまがさ	amagasa	【雨傘】雨の時に使う傘。
+j	あまがみ	amagami	犬や猫が人間の手などを軽く嚙むこと。
+j	あまぎり	amagiri	小雨のような霧。
+j	あまぐも	amagumo	雨や雪を降らせる雲。乱層雲。
+j	あまぐり	amaguri	栗の果実を多くの小石の中で熱して蒸し焼きにし、糖液…
+j	あまざけ	amazake	麹により米を発酵させ澱粉を糖化させる、又は、酒粕に…
+j	あまぞら	amazora	雨が降っている空。雨が降り出しそうな空。
+j	あまだれ	amadare	軒先などから滴り落ちる雨水。雨滴。あましずく。
+j	あまでら	amadera	尼僧が住する寺院。
+j	あまねく	amaneku	widely; everywhere
+j	あまみず	amamizu	雨の水。
+j	あまもや	amamoya	雨が降る時に立ち込める靄。
+j	あまもり	amamori	leaking of water from the…
+j	あまりに	amarini	法外に。過度に。
+j	あまりや	amariya	射残した矢。残りの矢。
+j	あみかけ	amikake	印刷物の特定の部分を網目状の模様で埋めること。また…
+j	あみがさ	amigasa	いぐさ、すげ、わら、木の皮、竹の皮などで編んだ笠の…
+j	あみこむ	amikomu	編み物で編みかたの違いや違う色の糸で模様を入れて編…
+j	あみだな	amidana	乗り物で枠に網を張って作られた棚。
+j	あみばり	amibari	編み物に使用する竹や金属でできた棒や針。棒状やかぎ…
+j	あみもの	amimono	主に毛糸を細い棒や鉤のついた棒を使用して衣類や装飾…
+j	あめあし	ameashi	雨が通り過ぎる様。
+j	あめおんな	ameonna	外出や行事の際、その者がいると雨降りになることが多…
+j	あめかぜ	amekaze	雨と風。
+j	あめだま	amedama	固形で球形の飴。
+j	あめちゃん	amechan	
+j	あめふり	amefuri	雨が降ること。降雨。雨天。
+j	あめやま	ameyama	計り知れないほど高大なこと。多大なこと。
+j	あめゆき	ameyuki	みぞれ。
+j	アマサギ	amasagi	
+j	アマチュア	amachua	amateur
+j	アマローネ	amarone	
+j	アミノ糖	aminoto	
+j	アミラーゼ	amiraze	amylase
+j	アミ族	amizoku	
+j	アム川	amugawa	
+j	アメカス	amekasu	アメリカ合衆国またはアメリカ人に対する侮蔑語。アメ…
+j	アメコミ	amekomi	syllabic abbreviation of …
+j	アメダス	amedasu	気象庁が全国の約1300か所に設置している無人の気…
+j	アメフト	amefuto	syllabic abbreviation of …
+j	アメリカ	amerika	America (one of the conti…
+j	アーマチュア	amachua	
+j	アーミッシュ	amisshu	
+j	アームチェア	amuchea	armchair
+j	亜墨利加	amerika	アメリカの日本語による漢字表記。
+j	亜米利加	amerika	アメリカの日本語による漢字表記。
+j	亜麻仁油	amaniyu	linseed oil; flaxseed oil
+j	亜麻布	amanuno	
+j	天宮	amamiya	a surname
+j	天川	amakawa	Macau
+j	天照る	amateru	to shine in heaven
+j	天草	amakusa	Amakusa (a city in Kumamo…
+j	奄美語	amamigo	日本語族琉球語派北琉球語群の言語のうち、奄美群島で…
+j	尼寺	amadera	A Buddhist nunnery.
+j	汎く	amaneku	
+j	甘えん坊	amaenbo	one who is pampered or in…
+j	甘ロリ	amarori	Sweet Lolita, a Japanese …
+j	甘噛み	amagami	play biting
+j	甘酒	amazake	sweet liquor of rice malt…
+j	網掛け	amikake	
+j	網棚	amidana	shelf found in trains and…
+j	編み方	amikata	
+j	編み物	amimono	knitwear
+j	編み針	amibari	knitting needle
+j	編むこと	amukoto	
+j	遍く	amaneku	
+j	阿弥陀号	amidago	主に浄土系の僧をはじめ工芸に関わるものが名の下につ…
+j	雨の多い	amenooi	
+j	雨傘	amagasa	umbrella
+j	雨垂れ	amadare	raindrops
+j	雨女	ameonna	A woman whose presence al…
+j	雨宮	amamiya	a surname
+j	雨模様	amemoyo	threatening sky, signs of…
+j	雨水	amamizu	rainwater
+j	雨笠	amagasa	rain hat
+j	雨降り	amefuri	rainfall, time when it's …
+j	雨除け	ameyoke	shelter from rain
+j	雨雲	amagumo	synonym of 乱層雲 (ransōun, …
+j	飴玉	amedama	ball-shaped hard candy; r…
+j	鯇魚	amenouo	A local name (synonym) us…
+k	아말감	amalgam	amalgam
+k	아메리카	amerika	America, the Americas (a …
+k	아몬드	amondeu	almond
+k	아무것	amugeot	anything; something
+k	아무데도	amudedo	
+k	아무때	amuttae	
+k	아무런	amureon	of any sort whatsoever; a…
+k	아무튼	amuteun	in any case, anyway, anyh…
+k	암띠다	amttida	비밀스러운 것을 좋아하는 성질이 있다.
+k	암모니아	ammonia	
+k	암묵리	ammukri	
+k	암벽	ambyeok	a rock wall
+k	암사내	amsanae	
+k	암살자	amsalja	assassin
+k	암행	amhaeng	
+k	암향	amhyang	deep and subtle fragrance…
+k	암호학	amhohak	
+k	암호화	amhohwa	
+k	압력	amnyeok	pressure
+k	앞머리	ammeori	bangs (US), fringe (UK)
+k	앞면	ammyeon	front side
+e	amalthea	amalthea	1 meaning
+e	amaranth	amaranth	2 meanings
+e	amaretto	amaretto	1 meaning
+e	amazonas	amazonas	1 meaning
+e	ambition	ambition	2 meanings
+e	ambrosia	ambrosia	1 meaning
+e	ambusher	ambusher	1 meaning
+e	american	american	3 meanings
+e	americas	americas	1 meaning
+e	amethyst	amethyst	2 meanings
+e	amitābha	amitabha	2 meanings
+e	ammonite	ammonite	1 meaning
+e	ammonium	ammonium	1 meaning
+e	amortize	amortize	1 meaning
+e	amputate	amputate	1 meaning
+e	amritsar	amritsar	1 meaning
+e	amu darya	amudarya	1 meaning
+e	amygdala	amygdala	1 meaning
+j	あまあがり	amaagari	民間企業の社員や外郭団体の職員が官公庁の職員になる…
+j	あまがえる	amagaeru	カエル目アマガエル科に属するかえるの総称。学名:H…
+j	あまくち	amakuchi	口当たりが甘いこと。
+j	あまぐつ	amagutsu	雨天の日などに履く防水加工されたり、防水効果のある…
+j	あまったれ	amattare	相当甘えること。また、そのような人やさま。甘えん坊。
+j	あまつぶ	amatsubu	raindrop
+j	あまなつ	amanatsu	かわのなつだいだいの別称。
+j	あまねし	amaneshi	universal, wide
+j	あまりある	amariaru	余り有る: to leave remains, h…
+j	あまんじる	amanjiru	満足に思う。
+j	あまんずる	amanzuru	満足に思う。
+j	あみあぶら	amiabura	牛や豚の内臓を包む網状の脂肪。
+j	あめあがり	ameagari	雨が止んだすぐ後。
+j	あめあられ	amearare	雨と霰。
+j	あめおとこ	ameotoko	外出や行事の際、その者がいると雨降りになることが多…
+j	あめつゆ	ametsuyu	雨と露。
+j	アマランス	amaransu	
+j	アマルテア	amarutea	木星の第5衛星の固有名。
+j	アマレット	amaretto	amaretto (a sweet almond-…
+j	アマ無線	amamusen	
+j	アミノ酸	aminosan	amino acid
+j	アミロイド	amiroido	蛋白と多糖類の複合体。
+j	アムールイトウ	amuruito	
+j	アムールヒョウ	amuruhyo	豹の亜種。学名は Panthera pardus …
+j	アムール州	amurushu	
+j	アメスラン	amesuran	
+j	アメフット	amefutto	アメリカンフットボールの略。
+j	アメポチ	amepochi	A politician who submissi…
+j	アメリカン	amerikan	an American
+j	アメージング	amejingu	amazing
+j	アモス書	amosusho	
+j	アーミーナイフ	aminaifu	
+j	アームカット	amukatto	cutting one's arm in self…
+j	亜麻色の	amairono	
+j	亜麻製の	amaseino	
+j	天児	amagatsu	a protective charm for ba…
+j	甘んじる	amanjiru	content oneself with
+j	甘口	amakuchi	sweet, mild (taste)
+j	甘辛い	amakarai	sweet (甘い) and salty (辛い)
+j	雨ガッパ	amagappa	synonym of カッパ (“raincoat…
+j	雨上がり	ameagari	after the rain
+j	雨台風	ametaifu	暴風より豪雨による被害の大きい台風。
+j	雨男	ameotoko	A man whose presence alwa…
+j	雨粒	amatsubu	
+j	雨蛙	amagaeru	a hylid
+j	雨霰	amearare	rain and hail
+j	雨露	ametsuyu	rain and dew
+j	雨靴	amagutsu	overshoes, waterproof sho…
+k	아마추어	amachueo	amateur
+k	아무래도	amuraedo	no matter what; anyway
+k	아무렇다	amureota	unspecific (as in being i…
+k	아무렴	amuryeom	
+k	아물리다	amullida	to heal, to cure
+k	아물아물	amuramul	
+k	아뭏든	amutdeun	'아무튼'의 비표준어.
+k	아미노산	aminosan	amino acid
+k	아미아고기	amiagogi	
+k	아미타불	amitabul	Amitābha
+k	암거래	amgeorae	
+k	암기하다	amgihada	to memorize
+k	암꿩	amkkwong	female pheasant
+k	암달러	amdalleo	
+k	암돼지	amdwaeji	'암퇘지'의 비표준어.
+k	암매매	ammaemae	
+k	암모늄	ammonyum	
+k	암사슴	amsaseum	사슴의 암컷.
+k	암살단	amsaldan	
+k	암술대	amsuldae	속씨식물에서 암술머리와 씨방을 연결하는 부분.…
+k	암시장	amsijang	black market
+k	암시적	amsijeok	
+k	암시하다	amsihada	to hint, to suggest, to i…
+k	암울하다	amulhada	
+k	암자색	amjasaek	어두운 자주색.
+k	암퇘지	amtwaeji	sow (female pig)
+k	암하라어	amharaeo	
+k	암형	amhyeong	
+k	암흑가	amheukga	underworld
+k	암흑기	amheukgi	
+k	앞마당	ammadang	front yard, front garden
+k	앞모습	ammoseup	앞에서 본 모습.
+k	앞무릎	ammureup	
+e	amaryllis	amaryllis	1 meaning
+e	amaterasu	amaterasu	1 meaning
+e	amazingly	amazingly	1 meaning
+e	amazonite	amazonite	1 meaning
+e	ambergris	ambergris	1 meaning
+e	amberjack	amberjack	1 meaning
+e	ambiguity	ambiguity	1 meaning
+e	ambiguous	ambiguous	1 meaning
+e	ambitious	ambitious	1 meaning
+e	ambulance	ambulance	1 meaning
+e	amendment	amendment	2 meanings
+e	americano	americano	1 meaning
+e	americium	americium	1 meaning
+e	amigurumi	amigurumi	2 meanings
+e	amino acid	aminoacid	2 meanings
+e	amorphous	amorphous	2 meanings
+e	ampersand	ampersand	1 meaning
+e	amphibian	amphibian	1 meaning
+e	amphibole	amphibole	1 meaning
+e	amplifier	amplifier	1 meaning
+e	amplitude	amplitude	3 meanings
+e	amsterdam	amsterdam	1 meaning
+e	amusement	amusement	1 meaning
+j	あまくだり	amakudari	神や天人が天上から地上に降りること。
+j	あまじょっぱい	amajoppai	salty yet sweet
+j	あまずっぱい	amazuppai	bittersweet (flavor)
+j	あまだいだい	amadaidai	オレンジ
+j	あまったるい	amattarui	過度に甘い味である。
+j	あまつさえ	amatsusae	additionally; in addition
+j	あまのがわ	amanogawa	天球上に現れる、雲状で白く川ように見える恒星の集団…
+j	あまのじゃく	amanojaku	民話、昔話に登場する悪い鬼。
+j	あまのぼり	amanobori	民間企業の社員や外郭団体の職員が官公庁の職員になる…
+j	あまやかす	amayakasu	躾などを厳しくせず思うがままに育てる。また、その結…
+j	あまやどり	amayadori	急に雨が降ってきたために、軒下などで雨が止むのを待…
+j	あまりにも	amarinimo	excessively (so)
+j	あまりもの	amarimono	（余り物）いらないもの。不要なもの。特に、食べ残し…
+j	あみぐるみ	amigurumi	人や動物などの形に毛糸で編んだものに綿などを入れた…
+j	あみだくじ	amidakuji	ladder lottery; Amidakuji
+j	あめつち	ametsuchi	天と地。
+j	アマゾネス	amazonesu	
+j	アマリリス	amaririsu	
+j	アミュレット	amyuretto	
+j	アムハラ語	amuharago	Amharic language
+j	アムールトラ	amurutora	a Siberian tiger
+j	アムールブナ	amurubuna	ギベリオブナの別称。
+j	アムール川	amurugawa	ユーラシア大陸の北東部を流れる川。中流部は中国黒竜…
+j	アメジスト	amejisuto	紫水晶。
+j	アメリカの	amerikano	
+j	アメリカーノ	amerikano	
+j	アメリカ化	amerikaka	
+j	アメリカ語	amerikago	アメリカ英語のこと。
+j	アモルゴス	amorugosu	
+j	アモルファス	amorufasu	amorphous
+j	アームレスラー	amuresura	アームレスリングの選手。
+j	天の川	amanogawa	the Milky Way (where Orih…
+j	天下り	amakudari	descent to earth from hea…
+j	天下る	amakudaru	to descend from the heave…
+j	天南	amaminami	a surname
+j	天照	amaterasu	Amaterasu, the Japanese s…
+j	天照らす	amaterasu	to rule a nation
+j	天邪鬼	amanojaku	a kind of oni that appear…
+j	天降	amakudari	
+j	尼崎	amagasaki	Amagasaki (a city in Hyōg…
+j	甘ったるい	amattarui	excessively sweet
+j	甘やかす	amayakasu	to indulge (a child); to …
+j	甘野老	amadokoro	scented Solomon's seal, P…
+j	網タイツ	amitaitsu	
+j	網袋	amibukuro	net bag; string bag
+j	編み包み	amigurumi	A stuffed toy usually mad…
+j	阿弥陀籤	amidakuji	人数分の放射状に引いた線の要の部分に金額書いて、そ…
+j	雨が降る	amegafuru	to rain
+j	雨宿り	amayadori	taking shelter from the r…
+j	雨装束	amasozoku	雨に濡れないようにする身支度。
+j	雨降りの	amefurino	
+k	아마겟돈	amagetdon	
+k	아마츄어	amachyueo	'아마추어'의 비표준어.
+k	아메리슘	amerisyum	americium (chemical eleme…
+k	아메리카노	amerikano	
+k	아무것도	amugeotdo	
+k	아무려나	amuryeona	
+k	아무쪼록	amujjorok	'모쪼록'.
+k	아무찮다	amuchanta	to be fine, good
+k	아물대다	amuldaeda	'아물거리다'.
+k	아미노당	aminodang	
+k	아밀라아제	amillaaje	
+k	암갈색	amgalsaek	어두운 갈색.
+k	암강아지	amgangaji	'암캉아지'의 비표준어.
+k	암고양이	amgoyangi	she-cat, female cat
+k	암꽃술	amkkotsul	종자식물에서 꽃의 중심부에 있는 자성 생식기관…
+k	암녹색	amnoksaek	
+k	암담하다	amdamhada	
+k	암로디핀	amnodipin	
+k	암만하다	ammanhada	
+k	암매하다	ammaehada	
+k	암모니아수	ammoniasu	
+k	암묵적	ammukjeok	
+k	암살하다	amsalhada	
+k	암석학	amseokhak	
+k	암순응	amsuneung	dark adaptation; adaptati…
+k	암시되다	amsidoeda	
+k	암시성	amsiseong	
+k	암약하다	amyakhada	남들 모르게 맹렬히 활동하다. 어둠 속에서 날…
+k	암잔하다	amjanhada	어리석고 겁이 많으며 줏대가 없다.
+k	암지르다	amjireuda	
+k	암캉아지	amkangaji	강아지의 암컷.
+k	암코양이	amkoyangi	
+k	암페타민	ampetamin	amphetamine
+k	암표상	ampyosang	ticket scalper
+k	암회색	amhoesaek	
+k	암흑리	amheungni	
+k	압록강	amnokgang	Yalu River, Amnok River (…
+k	압류하다	amnyuhada	
+e	ambassador	ambassador	2 meanings
+e	ambivalent	ambivalent	1 meaning
+e	ame-no-uzume	amenouzume	1 meaning
+e	ameliorate	ameliorate	1 meaning
+e	ameloblast	ameloblast	1 meaning
+e	amino sugar	aminosugar	1 meaning
+e	amlodipine	amlodipine	1 meaning
+e	ammunition	ammunition	2 meanings
+e	amphibious	amphibious	1 meaning
+e	amphiptere	amphiptere	1 meaning
+e	amphitrite	amphitrite	1 meaning
+e	amphoteric	amphoteric	1 meaning
+e	amputation	amputation	1 meaning
+e	amstelveen	amstelveen	1 meaning
+e	amur falcon	amurfalcon	1 meaning
+e	amyloplast	amyloplast	1 meaning
+j	あまかんむり	amakanmuri	漢字の部首「⾬」の呼称の一つ。
+j	あまざらし	amazarashi	exposure to the rain
+j	あましずく	amashizuku	雨の雫。涙を流して泣くさま。あめしずく。
+j	あましもの	amashimono	不必要となったもの。
+j	あまったれる	amattareru	好意を引いたり頼ったりするためひどく甘える。媚びる。
+j	あまつかぜ	amatsukaze	天つ風: wind blowing from th…
+j	あまつばめ	amatsubame	アマツバメ目アマツバメ科の鳥の総称。
+j	あみがしら	amigashira	漢字の部首「⽹」の呼称の一つ。
+j	あみじゃくし	amijakushi	
+j	あめかんむり	amekanmuri	漢字の部首「⾬」の呼称の一つ。
+j	あめがした	amegashita	天が下: the whole world, und…
+j	あめしずく	ameshizuku	雨の雫。涙を流して泣くさま。あましずく。
+j	あめのした	amenoshita	天の下: the whole world, und…
+j	あめふらし	amefurashi	腹足綱後鰓類に属する体内に貝殻を持つ動物の総称
+j	アマゾナイト	amazonaito	
+j	アマゾン川	amazongawa	the Amazon River
+j	アマツバメ	amatsubame	アマツバメ目アマツバメ科の鳥。夏の季語。学名:Ap…
+j	アマメシバ	amameshiba	熱帯および亜熱帯アジアに分布するコミカンソウ科（旧…
+j	アマランサス	amaransasu	
+j	アミメキリン	amimekirin	キリンの一種。学名は Giraffa reticu…
+j	アムハラ人	amuharajin	エチオピアの主要民族。アムハラ語を話す。
+j	アメとムチ	ametomuchi	
+j	アメシスト	ameshisuto	amethyst
+j	アメフラシ	amefurashi	「あめふらし」の学術的表記。
+j	アメリカひょう	amerikahyo	アメリカ豹: jaguar
+j	アメリカヒョウ	amerikahyo	synonym of ジャガー (jagā, “j…
+j	アメリカ人	amerikajin	American person
+j	アメリカ州	amerikashu	Americas, America (Contin…
+j	アメリカ豹	amerikahyo	
+j	天が下	amegashita	
+j	天つ風	amatsukaze	wind blowing from the hea…
+j	天の下	amenoshita	the whole world, under he…
+j	天岩戸	amanoiwato	the cave in which 天照(あまてら…
+j	天津神	amatsukami	the gods of the heavens
+j	天津麻羅	amatsumara	Amatsumara, the Japanese …
+j	天鈿女	amenouzume	a goddess who performed a…
+j	天鈿女命	amenouzume	
+j	甘い考え	amaikangae	
+j	甘ったれる	amattareru	to behave in a spoiled ma…
+j	甘っちょろい	amatchoroi	overly optimistic; easygo…
+j	甘茶蔓	amachazuru	
+j	網杓子	amijakushi	a scoop made of a wire me…
+j	阿弥陀仏	amidabutsu	Amitābha
+j	雨燕	amatsubame	a Pacific swift (Apus pac…
+j	雨禁獄	amekingoku	雨のために法勝寺への行幸が3回にわたり延期となった…
+j	雨続き	ametsuzuki	raining for days on end
+j	雨虎	amefurashi	sea hare, marine gastropo…
+j	雨雫	ameshizuku	raindrop; often metaphor …
+k	아마다바드	amadabadeu	
+k	아마존 우림	amajonurim	the Amazon Rainforest
+k	아마존강	amajongang	
+k	아마테라스	amateraseu	Amaterasu
+k	아무러하다	amureohada	
+k	아무르강	amureugang	Amur (a river forming the…
+k	아밀레이스	amilleiseu	
+k	암모나이트	ammonaiteu	
+k	암벽화	ambyeokhwa	
+k	암살되다	amsaldoeda	
+k	암석권	amseokgwon	
+k	암송하다	amsonghada	
+k	암수한몸	amsuhanmom	한 개체에서 암수 두 생식 기관을 갖춘것. 지…
+k	암술머리	amsulmeori	속씨식물에서 암술의 꼭대기에 있어 꽃가루를 받…
+k	암장하다	amjanghada	
+k	암적색	amjeoksaek	
+k	암팡지다	ampangjida	
+k	암호명	amhomyeong	
+k	암호해독	amhohaedok	
+k	암호화폐	amhohwapye	cryptocurrency
+k	암흑색	amheuksaek	
+k	압력계	amnyeokgye	pressure gauge, manometer
+k	압력솥	amnyeoksot	pressure cooker
+k	압류되다	amnyudoeda	
+e	amami rabbit	amamirabbit	1 meaning
+e	amenorrhoea	amenorrhoea	1 meaning
+e	americanism	americanism	1 meaning
+e	americanize	americanize	1 meaning
+e	amphetamine	amphetamine	1 meaning
+e	amur leopard	amurleopard	1 meaning
+j	あまみどころ	amamidokoro	甘い菓子や飲料を作って客に提供する飲食店。
+j	あみあげぐつ	amiagegutsu	足の甲から脛までを紐で編み上げて締める半長靴。
+j	あみがさたけ	amigasatake	チャワンタケ目アミガサタケ科アミガサタケ属に属する…
+j	あみしゃくし	amishakushi	網杓子: a scoop made of a wi…
+j	アミガサダケ	amigasadake	
+j	アミューズメント	amyuzumento	娯楽。楽しみ。
+j	アムピトリーテー	amupitorite	
+j	アムブロシア	amuburoshia	
+j	アムリトサル	amuritosaru	Amritsar (a city in India)
+j	アメリカオシ	amerikaoshi	a wood duck
+j	アメリカガモ	amerikagamo	
+j	アメリカグマ	amerikaguma	an American black bear
+j	アメリカドル	amerikadoru	
+j	アメリカネリ	amerikaneri	
+j	アメリカビーバー	amerikabiba	North American beaver, Ca…
+j	アメリカ英語	amerikaeigo	American English
+j	アメリカ防風	amerikabofu	セリ科の越年草。ヨーロッパ、シベリア原産。根、若葉…
+j	アメリカ鰐	amerikawani	American crocodile (Croco…
+j	アメリシウム	amerishiumu	americium
+j	天つ罪	amatsutsumi	one of the eight agricult…
+j	天之瓊矛	amanonuhoko	the spear that 伊弉諾 (Izana…
+j	天照神	amaterukami	synonym of 天照 (Amaterasu)
+j	甘やかされ	amayakasare	
+j	甘噛みする	amagamisuru	
+j	網笠茸	amigasadake	morel, Morchella esculent…
+j	網結針	amisukibari	a large needle made of wo…
+j	阿弥陀如来	amidanyorai	Amitābha as the Western B…
+j	阿弥陀被り	amidakaburi	帽子やヘルメットなどを前を上げ、頭部の後方に傾けた…
+k	아마릴리스	amarilliseu	
+k	아메노 우즈메	amenoujeume	
+k	아무작대다	amujakdaeda	
+k	아물거리다	amulgeorida	작거나 희미한 것이 보일 듯 말 듯 하게 조금…
+k	아미타여래	amitayeorae	
+k	암당나귀	amdangnagwi	
+k	암석사막	amseoksamak	자갈이나 바위 등으로 이루어진 사막.
+k	암수딴몸	amsuttanmom	암컷과 수컷의 개체가 서로 따로 있는 것. 척…
+k	암탕나귀	amtangnagwi	female donkey
+k	암피트리테	ampiteurite	
+k	암행어사	amhaengeosa	
+k	암호화하다	amhohwahada	
+k	암흑시대	amheuksidae	
+e	amateur night	amateurnight	1 meaning
+e	amateur radio	amateurradio	1 meaning
+e	ambidextrous	ambidextrous	1 meaning
+e	amelioration	amelioration	1 meaning
+e	americanness	americanness	1 meaning
+e	amortization	amortization	1 meaning
+e	amur cork tree	amurcorktree	1 meaning
+j	あみがさもち	amigasamochi	編笠団子の別称。
+j	アマゾナス州	amazonasushu	
+j	アマチュアナイト	amachuanaito	
+j	アマチュア無線	amachuamusen	amateur radio
+j	アマハステビア	amahasutebia	
+j	アマヤニリンゴ	amayaniringo	マレー群島区系東部からソロモン諸島領サンタクルーズ…
+j	アムステルフェーン	amusuterufen	
+j	アムステルヴェーン	amusuteruven	
+j	アメリカやぎゅう	amerikayagyu	アメリカ野牛: American bison
+j	アメリカウナギ	amerikaunagi	鰻の一種。1975年に魚類学者の阿部宗明が命名した。
+j	アメリカミンク	amerikaminku	ミンクの別称。
+j	アメリカンカール	amerikankaru	an American Curl
+j	アメリカンコーヒー	amerikankohi	浅く煎ったコーヒー豆から薄く淹れたコーヒー。
+j	アメリカンジョーク	amerikanjoku	"American joke"; a joke e…
+j	アメリカンリーグ	amerikanrigu	
+j	アメリカ手話	amerikashuwa	
+j	アメリカ料理	amerikaryori	アメリカの伝統的な料理。
+j	アメリカ野牛	amerikayagyu	American bison
+j	アームストロング	amusutorongu	a transliteration of the …
+j	アームレスリング	amuresuringu	arm wrestling
+j	アーモンドペースト	amondopesuto	
+j	アーモンドミルク	amondomiruku	
+j	編笠団子	amigasadango	小麦粉を原料とし、編み笠のような形にした団子。糝粉…
+k	아마조나스주	amajonaseuju	
+k	아마추어 예보	amachueoyebo	비전문가에 의한 예보.
+k	아무려면	amuryeomyeon	
+k	아무작아무작	amujagamujak	
+k	아물동고비	amuldonggobi	
+k	아물아물하다	amuramulhada	
+k	암거래상	amgeoraesang	
+k	암공작속	amgongjaksok	
+k	암말의 꼬리	ammaluikkori	
+k	암중모색	amjungmosaek	
+k	암청색	amcheongsaek	
+k	암회갈색	amhoegalsaek	
+k	암흑 물질	amheukmuljil	
+k	암흑 에너지	amheukeneoji	
+e	american bison	americanbison	1 meaning
+e	american dream	americandream	1 meaning
+e	american robin	americanrobin	1 meaning
+e	american samoa	americansamoa	1 meaning
+e	americophilia	americophilia	1 meaning
+e	americophobia	americophobia	1 meaning
+e	amniotic fluid	amnioticfluid	1 meaning
+e	amplification	amplification	1 meaning
+e	amusement park	amusementpark	1 meaning
+j	アマゾンアリモズ	amazonarimozu	
+j	アミロプラスト	amirosurasuto	
+j	アムステルダム	amusuterudamu	Amsterdam (the capital ci…
+j	アムダリヤ川	amudariyagawa	
+j	アムールヤマネコ	amuruyamaneko	ネコ目ネコ科ベンガルヤマネコ属に属する食肉類の一種…
+j	アメリカコガラ	amerikakogara	
+j	アメリカバイソン	amerikabaison	American bison
+j	アメリカヒドリ	amerikahidori	
+j	アメリカメダカ	amerikamedaka	カダヤシの別称。
+j	アメリカンドッグ	amerikandoggu	corndog
+j	アメリカンバイク	amerikanbaiku	起伏が少なく長距離を走るためのオートバイ。クルーザ…
+j	アメリカン・サモア	amerikansamoa	
+j	アメリカ禿鸛	amerikahageko	
+j	天香具山	amanokaguyama	the fabled mountain at th…
+j	甘い汁を吸う	amaishiruosuu	to line one's pockets; to…
+j	雨が降っている	amegafutteiru	it’s raining
+k	아메리카들소	amerikadeulso	American bison, buffalo (…
+k	아메리카원앙	amerikawonang	wood duck (Aix sponsa)
+k	아메리칸 리그	amerikanrigeu	
+k	아몬드밀크	amondeumilkeu	
+k	아무르표범	amureupyobeom	고양이과의 종. 몸길이는 104 ~ 180cm…
+k	아무작거리다	amujakgeorida	
+k	암공포증	amgongpojeung	암에 대한 불안감이나 공포를 느끼는 증상.
+k	암스테르담	amseutereudam	Amsterdam (the capital ci…
+k	압력단체	amnyeokdanche	
+e	ambitransitive	ambitransitive	1 meaning
+e	american badger	americanbadger	1 meaning
+e	american cheese	americancheese	1 meaning
+e	american league	americanleague	1 meaning
+e	american wigeon	americanwigeon	1 meaning
+e	amicable number	amicablenumber	1 meaning
+e	amitābha buddha	amitabhabuddha	1 meaning
+e	ampulla of vater	ampullaofvater	1 meaning
+j	アメリカらしさ	amerikarashisa	
+j	アメリカアカオオカミ	amerikakaokami	a red wolf
+j	アメリカアナグマ	amerikaanaguma	
+j	アメリカアリゲーター	amerikaarigeta	an American alligator
+j	アメリカオオアカイカ	amerikaoakaika	Humboldt squid (Dosidicus…
+j	アメリカナミガイ	amerikanamigai	
+j	アメリカンドリーム	amerikandorimu	American Dream (determina…
+j	アメリカ大陸	amerikatairiku	America, the Americas (a …
+j	アメリカ革命	amerikakakumei	1776年のアメリカ合衆国独立と合衆国憲法の成立の…
+j	天の川銀河	amanogawaginga	synonym of 銀河系 (Gingakei,…
+j	天常立	amanotokotachi	one of the two gods who c…
+j	天橋立	amanohashidate	a sandbar in northern Kyo…
+j	天目一箇	amanomahitotsu	the Japanese god of the f…
+j	天石戸別	amanoiwatowake	the protector god of gate…
+j	雨傘番組	amagasabangumi	スポーツの実況放送などで悪天候などにより放送できな…
+k	아마추어 무선	amachueomuseon	
+k	아메리카너구리	amerikaneoguri	raccoon
+k	아메리칸 드림	amerikandeurim	
+k	아메리칸 풋볼	amerikanputbol	
+k	압록자그사니	amnokjageusani	The Yalu River gudgeon, M…
+e	amazonification	amazonification	1 meaning
+e	american bittern	americanbittern	1 meaning
+e	american bulldog	americanbulldog	1 meaning
+e	american english	americanenglish	1 meaning
+e	american kestrel	americankestrel	1 meaning
+e	americanisation	americanisation	1 meaning
+e	ammonium nitrate	ammoniumnitrate	1 meaning
+e	ammonium sulfate	ammoniumsulfate	1 meaning
+e	amusement arcade	amusementarcade	1 meaning
+j	あまみのくろうさぎ	amaminokurosagi	ウサギ目ウサギ科アマミノクロウサギ属に属する兎の総…
+j	アマゾン河海豚	amazonkawairuka	an Amazon River dolphin (…
+j	アマミノクロウサギ	amaminokurosagi	ウサギ目ウサギ科アマミノクロウサギ属に属する兎の一…
+j	アミューズメントパーク	amyuzumentopaku	amusement park (commercia…
+j	アメリカカササギ	amerikakasasagi	
+j	アメリカザリガニ	amerikazarigani	ざりがにの一種。学名は Procambarus c…
+j	アメリカタヒバリ	amerikatahibari	
+j	アメリカニゼーション	amerikanizeshon	
+j	アメリカムシクイ	amerikamushikui	New World warblers, Ameri…
+j	アメリカヤマゴボウ	amerikayamagobo	「ヨウシュヤマゴボウ」の別名。
+j	アメリカンコミック	amerikankomikku	American comic(s)
+j	アメリカ先住民	amerikasenjumin	
+j	アメリカ領サモア	amerikaryosamoa	American Samoa (an overse…
+j	アメリカ風にする	amerikafunisuru	
+j	アーミラリ天球儀	amiraritenkyugi	
+j	天忍穂耳	amanooshihomimi	the first of the sons of …
+j	甘い香りのする	amaikaorinosuru	
+k	아메리카군함조	amerikagunhamjo	magnificent frigatebird
+k	암벽등반	ambyeokdeungban	
+e	amazon rainforest	amazonrainforest	1 meaning
+e	american civil war	americancivilwar	1 meaning
+e	american football	americanfootball	1 meaning
+e	american sweetgum	americansweetgum	1 meaning
+e	ammonium chloride	ammoniumchloride	1 meaning
+j	アミメニシキヘビ	amimenishikihebi	
+j	アメリカシロヅル	amerikashirozuru	a whooping crane
+j	アメリカナイズする	amerikanaizusuru	
+j	アメリカンショートヘア	amerikanshotohea	猫の品種の一つ。原産はアメリカ。短毛。
+j	アメリカンワイヤヘア	amerikanwaiyahea	
+j	アメリカンワイヤーヘア	amerikanwaiyahea	an American Wirehair
+j	アメリカン・ショートヘア	amerikanshotohea	an American Shorthair
+j	アメリカ連合国	amerikarengokoku	1861年から1865年まで存在した北米の国家。
+j	アームレスリングする	amuresuringusuru	
+j	天御中主	amanominakanushi	one of the first three go…
+j	天照大御神	amaterasuomikami	
+j	天照大神	amaterasuomikami	synonym of 天照
+j	奄美の黒兎	amaminokurousagi	
+j	奄美野黒兎	amaminokurousagi	a Amami rabbit
+j	網目錦蛇	amimenishikihebi	a reticulated python
+k	아무르산개구리	amureusangaeguri	the Amur brown frog, Rana…
+k	아무작아무작하다	amujagamujakhada	
+k	암석아스팔트	amseogaseupalteu	'역청암'.
+k	암중모색하다	amjungmosaekhada	
+e	ambiguity aversion	ambiguityaversion	1 meaning
+e	american black bear	americanblackbear	1 meaning
+e	american black duck	americanblackduck	1 meaning
+e	american planetree	americanplanetree	1 meaning
+e	ammonium carbonate	ammoniumcarbonate	1 meaning
+e	ammonium phosphate	ammoniumphosphate	1 meaning
+j	アマチュア無線技士	amachuamusengishi	アマチュア無線局の無線操作を行うことが出来る無線従…
+j	アメリカウズラシギ	amerikauzurashigi	
+j	アメリカオグロシギ	amerikaoguroshigi	
+j	アメリカサンカノゴイ	amerikasankanogoi	
+j	アメリカンフットボール	amerikanfuttoboru	American football
+j	アメリカン・ブルドッグ	amerikanburudoggu	
+j	アメリカ合衆国	amerikagasshukoku	United States of America …
+j	余り茶に福あり	amarichanifukuari	茶筒の使い残した茶葉や、飲み残しの茶には、思いがけ…
+k	아마미검은토끼	amamigeomeuntokki	
+k	아마조니피케이션	amajonipikeisyeon	
+k	아마테라스 오미카미	amateraseuomikami	Amaterasu
+k	아메리카 합중국	amerikahapjungguk	United States of America …
+e	amazonian antshrike	amazonianantshrike	1 meaning
+e	ampulla of lorenzini	ampullaoflorenzini	1 meaning
+j	アメリカシロヒトリ	amerikashirohitori	ヒトリガ科の蛾。北アメリカ原産。
+j	アメリカ式ポイント	amerikashikipointo	an American point
+j	アメリカ白火取り	amerikashirohitori	「アメリカシロヒトリ」の漢字表記。
+j	余り物に福あり	amarimononifukuari	残り物には福があるの別形。
+j	雨降って地固まる	amefuttejikatamaru	a relationship is stronge…
+k	아메리카독도마뱀	amerikadokdomabaem	
+e	amplitude modulation	amplitudemodulation	1 meaning
+j	アメリカオオハシシギ	amerikaoohashishigi	
+j	アメリカズグロカモメ	amerikazugurokamome	
+k	아메노 우즈메노 미코토	amenoujeumenomikoto	
+k	아메리카홍머리오리	amerikahongmeoriori	The American wigeon, Anas…
+e	american cliff swallow	americancliffswallow	1 meaning
+e	american sign language	americansignlanguage	1 meaning
+j	アメリカ航空宇宙局	amerikakokuuchukyoku	National Aeronautics and …
+j	アメリカ領ヴァージン諸島	amerikaryovajinshoto	United States Virgin Isla…
+j	亜米利加鷲木菟	amerikawashimimizuku	
+j	天叢雲剣	amanomurakumonotsurugi	the original name of the …
+j	アメリカンフットボール選手	amerikanfuttoborusenshu	アメリカンフットボールで実際に競技をする選手。
+e	amyotrophic lateral sclerosis	amyotrophiclateralsclerosis	1 meaning
+k	아무것도 사고 싶지 않습니다	amugeotdosagosipjianseumnida	
+k	암탉이 울면 집안이 망한다	amtakiulmyeonjipanimanghanda	‘암탉이 울면 집안이 망한다'는 말을 해석하면…
+j	アメリカ合衆国領ヴァージン諸島	amerikagasshukokuryovajinshoto	
+j	天津日高日子波限建鵜葺草葺不合命	amatsuhikohikonagisatakeugayafukiaezunomikoto	Ugayafukiaezu, the son of…

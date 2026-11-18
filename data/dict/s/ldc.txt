@@ -1,0 +1,2 @@
+e	dc	dc	1 meaning
+e	décolletage	dcolletage	1 meaning

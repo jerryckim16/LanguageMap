@@ -1,0 +1,69 @@
+e	1-up	up	1 meaning
+e	7 up	up	1 meaning
+e	up	up	17 meanings
+j	うぷ	upu	嘔吐やげっぷがでそうなときに出る声。
+k	우파	upa	right wing; the right
+e	up to	upto	1 meaning
+e	updo	updo	1 meaning
+j	うっぷ	uppu	burp, belch
+k	우퍼	upeo	
+k	우표	upyo	postage stamp
+e	upali	upali	1 meaning
+e	upper	upper	1 meaning
+e	upset	upset	1 meaning
+e	upāli	upali	1 meaning
+j	鬱憤	uppun	resentment, pent-up anger
+k	우풍	upung	
+e	upbeat	upbeat	2 meanings
+e	update	update	4 meanings
+e	uphill	uphill	1 meaning
+e	uphold	uphold	2 meanings
+e	upload	upload	2 meanings
+e	uproar	uproar	2 meanings
+j	うぽつ	upotsu	Thanks the uploader for u…
+k	우팔리	upalli	
+k	우편	upyeon	mail, post
+e	up quark	upquark	1 meaning
+e	upgrade	upgrade	1 meaning
+e	uppsala	uppsala	1 meaning
+e	upsilon	upsilon	1 meaning
+e	upstart	upstart	1 meaning
+j	ウプサラ	upusara	Uppsala (a city in easter…
+j	ウーパールーパー	uparupa	an axolotl, especially an…
+k	우파루파	uparupa	
+k	웁살라	upsalla	Uppsala (a city in easter…
+e	upper arm	upperarm	1 meaning
+e	upper jaw	upperjaw	1 meaning
+e	upper lip	upperlip	1 meaning
+e	uppercut	uppercut	1 meaning
+e	uprising	uprising	1 meaning
+e	upstairs	upstairs	1 meaning
+e	upstream	upstream	2 meanings
+j	うっぷする	uppusuru	
+e	up and down	upanddown	1 meaning
+e	upanishad	upanishad	1 meaning
+e	upper case	uppercase	1 meaning
+e	uppermost	uppermost	1 meaning
+j	ウプシロン	upushiron	ギリシア文字のアルファベットで二十番目の文字、Υ、…
+k	우편국	upyeonguk	post office
+k	우편함	upyeonham	mailbox
+k	우표수집	upyosujip	우표를 수집하는 일 또는 모으는 일.
+e	up in the air	upintheair	1 meaning
+e	upbringing	upbringing	1 meaning
+e	upper class	upperclass	1 meaning
+e	upper egypt	upperegypt	1 meaning
+e	upper house	upperhouse	1 meaning
+e	upper volta	uppervolta	1 meaning
+e	upside down	upsidedown	2 meanings
+e	ups and downs	upsanddowns	1 meaning
+j	ウパニシャッド	upanishaddo	Upanishad (Hindu text)
+k	우파니샤드	upanisyadeu	Upanishad
+k	우표수집가	upyosujipga	우표수집을 하는 사람을 가리키는 말.
+e	upper austria	upperaustria	1 meaning
+e	upper reaches	upperreaches	1 meaning
+k	우편번호	upyeonbeonho	postal code, zip code
+e	upperclassman	upperclassman	1 meaning
+e	upland antshrike	uplandantshrike	1 meaning
+e	upland sandpiper	uplandsandpiper	1 meaning
+k	우편집배원	upyeonjipbaewon	mailman, postman
+k	우편통신원	upyeontongsinwon	'우편집배원'의 북한말.

@@ -1,0 +1,3 @@
+e	-rd	rd	1 meaning
+e	r&d	rd	1 meaning
+e	rødovre	rdovre	1 meaning

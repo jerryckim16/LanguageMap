@@ -1,0 +1,604 @@
+j	えい	ei	used in situations requir…
+j	エイ	ei	魚類の一種である「えい」の学術分野における表記。
+j	叡	ei	clever; smart; sharp
+j	営	ei	build; construct
+j	嬰	ei	newborn baby; infant
+j	映	ei	a reflection; to reflect
+j	曳	ei	drag; pull
+j	栄	ei	honour; glory
+j	永	ei	long (time)
+j	泳	ei	swim
+j	洩	ei	leak; escape
+j	盈	ei	to be full; to be filled;…
+j	纓	ei	the tail of a 冠 (kanmuri,…
+j	翳	ei	shade; shadow (interchang…
+j	英	ei	outstanding; outstanding …
+j	衛	ei	defend; protect; guard
+j	裔	ei	descendant; scion; offspr…
+j	詠	ei	recite (poetry); sing; hu…
+j	鋭	ei	sharp; pointed; acute; ke…
+j	頴	ei	tip; sharp point
+j	鱏	ei	ray (fish of superorder B…
+j	鱝	ei	
+k	에이	ei	
+e	eid	eid	1 meaning
+j	えいお	eio	栄男: a male given name
+j	えいん	ein	会陰: perineum
+j	会陰	ein	perineum
+j	叡王	eio	将棋の八大タイトルの一つ。2017年に新設。
+j	営為	eii	effort; work
+j	嬰意	eii	心配すること。
+j	栄男	eio	a male given name
+j	絵印	ein	a seal used as the signat…
+j	鋭意	eii	working hard
+k	에일	eil	
+k	에잇	eit	damn, geez, o, eh
+e	eire	eire	2 meanings
+j	えいえい	eiei	heave-ho, hey!
+j	えいが	eiga	
+j	えいご	eigo	
+j	えいじゅ	eiju	栄珠: a male given name
+j	えいぞう	eizo	影像: a portrait (as of a p…
+j	えいや	eiya	（感動詞の「えいや」から転じて）いくつかの不明な点…
+j	えいよう	eiyo	永陽
+j	エイジ	eiji	時代。
+j	エイズ	eizu	AIDS（後天性免疫不全症候群）のカナ音写。
+j	エイト	eito	eight
+j	エイド	eido	助手。助力する人。
+j	叡情	eijo	天子の心情。
+j	営利	eiri	being profitmaking
+j	営営	eiei	脚繁く往来するさま。
+j	営繞	eijo	めぐること。
+j	営農	eino	農業を営むこと。
+j	営造	eizo	家や道路など土木建築物を造ること。
+j	営養	eiyo	「栄養」の異綴。
+j	塋場	eijo	墓場。墓地。
+j	塋壟	eiro	墓地。
+j	塋樹	eiju	墓地の樹木。
+j	嬰児	eiji	baby, infant, newborn
+j	嬰孺	eiju	幼児。
+j	嬴嬴	eiei	ふくよかなさま。
+j	影二	eiji	a male given name
+j	影像	eizo	a portrait (as of a perso…
+j	影印	eiin	photocopying and reprinti…
+j	影従	eiju	影のように、常に身近で従うこと。
+j	影灯	eito	回り灯籠。
+j	恵似子	eiko	a female given name
+j	攖擾	eijo	乱すこと。
+j	映像	eizo	image; video (visual medi…
+j	映画	eiga	movie, film
+j	曀曀	eiei	立ち込めて暗いさま。
+j	曳婁	eiro	裾を曳くこと。
+j	曳尾	eibi	仕官で束縛されるよりも、貧しくとも安心して郷里で暮…
+j	曳航	eiko	towing a ship
+j	曳行	eiko	車などで引っ張ること。
+j	栄三	eizo	a male given name
+j	栄二	eiji	a male given name
+j	栄光	eiko	glory
+j	栄枯	eiko	草木が生い茂ることと枯れること。
+j	栄治	eiji	a male given name
+j	栄珠	eiju	a male given name
+j	栄華	eiga	glory (with a connotation…
+j	栄蔵	eizo	a male given name
+j	栄誉	eiyo	honor
+j	栄途	eito	栄達の道。
+j	栄造	eizo	a male given name
+j	栄養	eiyo	nutrition, nourishment
+j	楹帖	eijo	楹聯。
+j	楹鼓	eiko	かつて中国の雅楽で使われた一本の脚のある太鼓。建鼓。
+j	榮華	eiga	
+j	永住	eiju	permanent residence
+j	永保	eiho	the Eihō era, 1081-1084
+j	永劫	eigo	eternity; eon
+j	永古	eiko	永遠。
+j	永和	eiwa	the Eiwa era, 1375-1379 b…
+j	永字	eiji	the Chinese character 永 (…
+j	永安	eian	everlasting peace
+j	永寿	eiju	命が長いこと。長寿。
+j	永延	eien	the Eien era, Japanese er…
+j	永永	eiei	永久に。いつまでも。
+j	永治	eiji	the Eiji era, 1141–1142
+j	永牢	eiro	長く牢獄に収容されていること。
+j	永祚	eiso	the Eiso era, 988-990
+j	永遠	eien	eternity
+j	泳層	eiso	魚が多く泳ぐ水中の層。
+j	泳法	eiho	swimming style
+j	泳游	eiyu	遊泳。
+j	瑛瑜	eiyu	美玉。
+j	瑩朗	eiro	明らかなこと。そのさま。
+j	瑩浄	eijo	瑩潔。
+j	瑩瑩	eiei	てらてら。
+j	瑩磨	eima	磨くこと。磨瑩。瑩払。
+j	癭瘻	eiro	頭の瘤。
+j	盈虧	eiki	月が満ちたり欠けたりすること。
+j	禜禳	eijo	災厄を払うこと。
+j	穎悟	eigo	非常に賢いこと。また、そのさま。
+j	穎果	eika	イネ科の果実の形で、果皮が乾燥して種皮と密着してい…
+j	絵入り	eiri	書籍や新聞などで挿し絵が入っていること。また、その…
+j	縈擾	eijo	纏わりつき、搔き乱すこと。
+j	縈映	eiei	映帯すること。
+j	縈繞	eijo	めぐること。
+j	纓綬	eiju	纓紱。
+j	纓纕	eijo	馬具の胸繋や腹帯なとの総称。
+j	英二	eiji	a male given name
+j	英司	eiji	a male given name
+j	英和	eiwa	English–Japanese, English…
+j	英図	eito	優れた意図や計略。
+j	英子	eiko	a female given name
+j	英字	eiji	the English alphabet
+j	英志	eiji	a male given name
+j	英数	eisu	alphanumerics, alphanumer…
+j	英気	eiki	great wisdom or talent
+j	英治	eiji	a male given name
+j	英法	eiho	イギリスの法律、法体系。
+j	英語	eigo	the English language
+j	英豪	eigo	優れて偉いさま。その人物。英雄。英傑。豪傑。
+j	英貨	eika	イギリスの貨幣。
+j	英里	eiri	mile
+j	英雄	eiyu	hero
+j	衛仗	eijo	儀仗。
+j	衛戍	eiju	軍隊が長く一つの土地に駐屯すること。
+j	衛護	eigo	escorting, guarding
+j	裔壌	eijo	辺土。
+j	裔邑	eiyu	辺土にあるまち。
+j	詠歌	eika	composition of (waka) poe…
+j	贏余	eiyo	
+j	鋭利	eiri	sharp
+j	鋭峰	eiho	鋭く聳え立つ峰。
+j	鋭気	eiki	courage
+j	鋭鋒	eiho	先の鋭い矛。
+j	頴悟	eigo	intelligence
+j	頴果	eika	caryopsis
+k	에이아이	eiai	
+e	eight	eight	2 meanings
+j	えいえいおう	eieio	気勢を揚げる時に発する語。
+j	えいえいおー	eieio	a cheer of encouragement
+j	えいしゅう	eishu	英秀: a male given name
+j	えいせい	eisei	
+j	えいせん	eisen	曳船: tugboat
+j	えいち	eichi	英知, 叡智: wisdom
+j	エイエイオー	eieio	えいえいおうの異表記。
+j	エイチ	eichi	The name of the Latin scr…
+j	叡嘆	eitan	天子が御嘆きになること。
+j	叡山	eizan	比叡山の通称。
+j	叡念	einen	天子の御心中、御考え。叡慮。
+j	叡慮	eiryo	天子の考えや気持ち。聖慮。
+j	叡断	eidan	天子の決断。
+j	叡明	eimei	（天子などが）聖明であること。
+j	叡智	eichi	深く物事の道理に通じる知恵。高い知性。
+j	叡知	eichi	「叡智」の別表記。
+j	叡聞	eibun	天子がお聞きになること。
+j	営丐	eikai	物乞い。
+j	営中	eichu	兵営、陣営の中。
+j	営団	eidan	第二次世界大戦中に国策により公益事業を行うために設…
+j	営外	eigai	兵営の外。
+j	営建	eiken	建物などを造営すること。
+j	営所	eisho	兵士が集まり居住する場所。兵営。
+j	営業	eigyo	operation, business
+j	営治	eichi	作り上げること。
+j	営繭	eiken	蚕が繭をつくること。
+j	営置	eichi	建造すること。
+j	営舎	eisha	兵士が生活する建物。兵営。
+j	塋地	eichi	墓地。
+j	嬰孩	eigai	嬰児。
+j	嬰害	eigai	重なる災害。
+j	嬰懐	eikai	心配すること。嬰意。
+j	嬴輸	eishu	勝ち負け。輸贏。
+j	嬴銭	eisen	余分な金銭。
+j	影前	eizen	神仏や故人の肖像の前。
+j	影響	eikyo	influence, effect
+j	慧知	eichi	a male given name
+j	拽筇	eikyo	散策すること。
+j	映写	eisha	projection (of films, sli…
+j	映帯	eitai	色や景色が相互に写り合うこと。映発。
+j	映智	eichi	a male given name
+j	映象	eisho	picture; visual image
+j	映顕	eiken	反映すること。
+j	景響	eikyo	音とその響きなどのように関係が密接で反応が素早いこ…
+j	曀晦	eikai	暗いさま。
+j	曳筇	eikyo	杖をついて散歩すること。
+j	曳船	eisen	港湾で大型の船舶やいかだなどを押したり引いたりする…
+j	曳踵	eisho	足を引いて歩くこと。
+j	栄久	eikyu	長く繁栄すること。
+j	栄任	einin	名誉（光栄）な任務。
+j	栄典	eiten	official honors
+j	栄命	eimei	特別な恩命。
+j	栄懐	eikai	安楽。
+j	栄智	eichi	a male given name
+j	栄衰	eisui	栄えることと衰えること。
+j	栄顕	eiken	立身出世すること。
+j	楹柱	eichu	柱。
+j	楹聯	eiren	楹柱に題した聯語。
+j	楹銘	eimei	柱に記された銘。
+j	楹階	eikai	堂上。
+j	永万	eiman	the Eiman era, 1165-1166
+j	永世	eisei	eternity, permanence, per…
+j	永久	eikyu	eternal
+j	永享	eikyo	the Eikyō era, 1429–1441
+j	永仁	einin	the Einin era, 1293-1299
+j	永代	eitai	長い間。永世。永久。
+j	永命	eimei	長命。
+j	永嘯	eisho	呼吸を長く嘯くこと。
+j	永年	einen	many years, long time
+j	永懐	eikai	永く思うこと。
+j	永承	eisho	the Eishō era, 1046–1053
+j	永昌	eisho	永く栄えること。
+j	永業	eigyo	かつての中国の制度で世襲が許された田地。永業田。世…
+j	永正	eisho	the Eishō era, 1504–1521
+j	永生	eisei	eternal life; immortality
+j	永眠	eimin	death, eternal sleep
+j	永終	eishu	永く続くこと。
+j	永観	eikan	the Eikan era, 983-985
+j	永逝	eisei	death, demise
+j	永銭	eisen	穎銭。
+j	永長	eicho	the Eichō era, 1096-1097
+j	瀛州	eishu	古代中国の伝説で東方の海上にあり仙人が住むとされた…
+j	瀛洲	eishu	「瀛州」の別表記。
+j	瀛海	eikai	大海。
+j	瑩明	eimei	瑩徹。
+j	瑩潤	eijun	艶やかで潤っているさま。
+j	瑩然	eizen	瑩潔。
+j	瑩琇	eishu	美しい石。
+j	瑩貝	eigai	紙や絹を磨き、つやを出すための貝。
+j	瑩鏡	eikyo	明鏡。
+j	瘞銭	eisen	埋葬する際に一緒に埋める銭。
+j	癭腫	eisho	瘤。
+j	盈虚	eikyo	月の満ち欠け。盈虧。
+j	睿慮	eiryo	天子の考えや気持ち。聖慮。
+j	睿明	eimei	聖明。
+j	穎敏	eibin	頭の回転が速いこと。また、そのさま。
+j	穎秀	eishu	才知が他の人より優れていること。また、そのような人。
+j	穎銭	eisen	穀物を租税として納める代わりに納める金銭。
+j	縈廻	eikai	めぐること。
+j	縈懐	eikai	疑うこと。
+j	縈旋	eisen	めぐること。
+j	翳然	eizen	隠れること。また、そのようなさま。
+j	英トン	eiton	long ton
+j	英主	eishu	優れた君主。名君。
+j	英乂	eigai	賢人。
+j	英京	eikyo	the British capital, Lond…
+j	英人	eijin	イギリス人。英国人。
+j	英名	eimei	fame, reputation, glory
+j	英君	eikun	a monarch of great intell…
+j	英姿	eishi	立派な姿。雄姿。
+j	英帝	eitei	British Empire (abbreviat…
+j	英才	eisai	outstanding ability
+j	英文	eibun	a sentence in English
+j	英斤	eikin	pound (unit of measure)
+j	英断	eidan	excellent resolution; exc…
+j	英明	eimei	intelligent
+j	英智	eichi	a male given name
+j	英書	eisho	英文で書かれた書物。
+j	英知	eichi	wisdom (a deep understand…
+j	英秀	eishu	a male given name
+j	英称	eisho	English-language name
+j	英詩	eishi	イギリスの詩。
+j	英資	eishi	優れた生まれつき。
+j	英軍	eigun	イギリスの軍、軍隊。
+j	英邁	eimai	才知が非常に優れていること。また、そのようなさま。
+j	英霊	eirei	spirits of fallen soldiers
+j	英魂	eikon	spirit of a person of exc…
+j	衛兵	eihei	guard
+j	衛守	eishu	守ること。
+j	衛所	eisho	番兵を配置して警備する場所。
+j	衛星	eisei	a satellite (a body orbit…
+j	衛生	eisei	hygiene; sanitation
+j	衛視	eishi	guard of the Japanese Nat…
+j	裔冑	eichu	遠い子孫。末裔。
+j	詠史	eishi	歴史上の事柄や人物を詩歌に詠むこと。また、その詩歌。
+j	詠吟	eigin	節を付けて詩歌を歌うこと。また、つくること。朗詠。…
+j	詠唱	eisho	a chant, a song
+j	詠嘆	eitan	The use of particles or j…
+j	詠嘯	eisho	嘯き、詠うこと。嘯詠。
+j	詠懐	eikai	思いを詩歌にして表すこと。また、その詩歌。
+j	詠頌	eisho	褒めること。
+j	贏虚	eikyo	過不足。
+j	贏輸	eishu	victory or defeat
+j	郢匠	eisho	名匠。
+j	鋭兵	eihei	鋭利な兵器。
+j	鋭刃	eijin	鋭利な刃物。
+j	鋭将	eisho	驍将。
+j	鋭敏	eibin	sharp, acute, keen, smart
+j	鋭然	eizen	突出すること。また、そのようなさま。
+k	에이그	eigeu	
+k	에이드	eideu	
+k	에이스	eiseu	
+k	에이즈	eijeu	AIDS
+k	에이치	eichi	
+k	에이커	eikeo	
+k	에이펙	eipek	
+e	eighth	eighth	1 meaning
+e	eighty	eighty	1 meaning
+j	えいいち	eiichi	栄一, 英一, 影一, 瑛一, 映一, 榮一, 暎…
+j	えいこく	eikoku	
+j	えいしん	eishin	英心: a male given name
+j	えいすけ	eisuke	栄祐, 栄助: a male given name
+j	エイトス	eitosu	ストライクを8フレーム続けて成し遂げること。
+j	エイムス	eimusu	Ames
+j	エイリアン	eirian	synonym of 宇宙人 (uchūjin, …
+j	エイレーネー	eirene	
+j	営利の	eirino	
+j	営利化	eirika	非営利組織を営利組織に転換すること。
+j	営度	eitaku	営み、はかること。
+j	営魄	eihaku	たましい。魂魄。
+j	嬰記号	eikigo	半音上げることを表す記号「♯」。番号記号「＃」とは…
+j	影一	eiichi	a male given name
+j	影国	eikoku	属国。
+j	映じる	eijiru	形などが他の物に反映する。
+j	映像化	eizoka	
+j	映刻	eikoku	記憶などに強く印象づけること。
+j	曳白	eihaku	紙筆を持ちながら、詩文を作ることができないこと。
+j	栄一	eiichi	a male given name
+j	栄助	eisuke	a male given name
+j	栄擢	eitaku	抜擢の栄誉を受けること。
+j	栄祐	eisuke	a male given name
+j	栄進	eishin	上位の地位や職に進むこと。
+j	栄養価	eiyoka	食物、食品の中の栄養的な価値。
+j	栄養塩	eiyoen	nutrient salt
+j	栄養素	eiyoso	nutrient
+j	永宅	eitaku	墓。
+j	永徳	eitoku	the Eitoku era, 1381-1384…
+j	永禄	eiroku	the Eiroku era, 1558-1570
+j	永続	eizoku	permanence; permanency
+j	永遠に	eienni	
+j	永遠の	eienno	
+j	熒魄	eihaku	生き生きとした肉体。
+j	瑩沢	eitaku	瑩潤。
+j	瑩白	eihaku	清らかなこと。そのさま。
+j	瑩魄	eihaku	月。
+j	英々語	eieigo	
+j	英一	eiichi	a male given name
+j	英二郎	eijiro	a male given name
+j	英五郎	eigoro	a male given name
+j	英作	eisaku	a male given name
+j	英俊	eishun	a wise and capable person
+j	英卓	eitaku	卓出すること。
+j	英国	eikoku	synonym of イギリス: United K…
+j	英弱	eijaku	英語が苦手であること。また、そのような人。
+j	英心	eishin	a male given name
+j	英数の	eisuno	
+j	英数字	eisuji	alphanumeric characters, …
+j	英英語	eieigo	
+j	英訳	eiyaku	English translation
+j	英語の	eigono	
+j	英雄家	eiyuke	鎌倉時代以降、幕末まで大将や大臣を兼ねた太政大臣に…
+j	詠進	eishin	詩歌を詠んで神社や宮中に献上すること。
+j	郢斲	eitaku	人に詩文の添削を依頼するときに用いる語。
+j	銳角	eikaku	acute angle
+j	鋭利な	eirina	
+j	鋭角	eikaku	acute angle
+k	에이티엠	eitiem	
+j	えいきち	eikichi	栄吉, 永吉, 榮吉: a male given …
+j	えいしょく	eishoku	英植: a male given name
+j	えいしろう	eishiro	英四郎: a male given name
+j	えいやっと	eiyatto	力を尽くして事を行うさま。
+j	エイコサン	eikosan	eicosane
+j	エイビッサ	eibissa	
+j	エイリアス	eiriasu	情報処理でコマンドやエンティティにつけられる別名の…
+j	叡哲	eitetsu	才知に優れ、道理に明るいこと。また、そのようなさま。
+j	叡喆	eitetsu	才知に優れ、道理に明るいこと。また、そのようなさま。
+j	営力	eiryoku	geomorphic agent
+j	営実	eijitsu	野茨の実。薬用にされる。
+j	営業日	eigyobi	市場や企業などが営業を行っている日。また、それを数…
+j	嬰茀	eifutsu	雲気が靡くこと。
+j	影印本	eiinbon	photocopied facsimile of …
+j	攖払	eifutsu	犯すこと。
+j	映写機	eishaki	a projector (optical devi…
+j	映徹	eitetsu	光が隅々まで通ること。
+j	映日	eijitsu	太陽の日に映えること。
+j	映画ファン	eigafan	
+j	映画界	eigakai	映画関係者の世界。
+j	映画館	eigakan	cinema, movie theater
+j	映発	eihatsu	色や景色が相互に写り合うこと。映帯。
+j	栄光ある	eikoaru	
+j	栄吉	eikichi	a male given name
+j	栄職	eishoku	名誉、栄誉のある職。
+j	栄養体	eiyotai	生物で生殖器官以外の器官。
+j	栄養分	eiyobun	身体の栄養となる成分。養分。滋養分。
+j	栄養剤	eiyozai	栄養の不足を補い、調整するために使用される薬剤。
+j	栄養士	eiyoshi	食事管理などを行う職業。現在の日本では、栄養士法に…
+j	榮吉	eikichi	a male given name
+j	永久に	eikyuni	
+j	永久の	eikyuno	
+j	永住権	eijuken	外国人が国籍を取得せず、また在留の期間を制限される…
+j	永吉	eikichi	a male given name
+j	永日	eijitsu	一日中。
+j	永暦	eiryaku	the Eiryaku era, 1160-1161
+j	永訣	eiketsu	last farewell
+j	泳力	eiryoku	泳ぎの能力。
+j	瑩徹	eitetsu	明るく透き通っていること。澄み渡っていること。
+j	瑩払	eifutsu	瑩磨。
+j	瑩潔	eiketsu	艶があり清らかなこと。そのさま。
+j	盈昃	eishoku	盈虚。
+j	盈月	eigetsu	徐々に満ちていく、新月から満月までの月。
+j	盈欠	eiketsu	盈虚。
+j	睿徹	eitetsu	才知に優れ、道理に明るいこと。また、そのようなさま。
+j	穎哲	eitetsu	聡明なこと。また、そのようなさま。
+j	穎脱	eidatsu	才能がずば抜けて優れていること。
+j	纓紱	eifutsu	冠の顎の紐と印綬。
+j	纓紼	eifutsu	冠の顎の紐と棺を曳く綱。
+j	英仏	eifutsu	the UK and France
+j	英会話	eikaiwa	conversation in English
+j	英傑	eiketsu	hero or heroine, great wo…
+j	英単語	eitango	English word
+j	英哲	eitetsu	聡明なこと。また、そのような人。
+j	英四郎	eishiro	a male given name
+j	英尺	eishaku	foot (unit of measure)
+j	英徹	eitetsu	才知に優れ、道理に明るいこと。また、そのようなさま。
+j	英文法	eibunpo	英語の文法。
+j	英植	eishoku	a male given name
+j	英物	eibutsu	傑物。
+j	英米法	eibeiho	イギリスやアメリカ合衆国などイギリスの影響を受けた…
+j	英語圏	eigoken	Anglosphere (set of anglo…
+j	英連邦	eirenpo	Commonwealth of Nations
+j	英雄譚	eiyutan	heroic tale
+j	衛卒	eisotsu	守衛する兵卒。敵の襲撃に備えて見張りをする兵。
+j	詠物	eibutsu	漢詩で自然の風物を題材にしたもの。
+j	郢曲	eikyoku	はやり歌。俗曲。
+k	에이코산	eikosan	
+e	eicosane	eicosane	1 meaning
+e	eighteen	eighteen	1 meaning
+e	eighties	eighties	1 meaning
+e	einstein	einstein	1 meaning
+j	えいぎょうしょ	eigyosho	
+j	えいぎょうちゅう	eigyochu	営業中: open (store, shop, r…
+j	エイプリル	eipuriru	四月。
+j	叡質	eishitsu	聖明の質。
+j	営利的	eiriteki	利益第一であるさま
+j	営業中	eigyochu	open (a store, shop, or r…
+j	営業所	eigyosho	sales office, service off…
+j	営業権	eigyoken	営業する権利。特に会社、商店などで伝統や名声、取引…
+j	嬰イ短調	eitancho	
+j	嬰イ長調	eichocho	
+j	嬰疾	eishitsu	病むこと。罹患。
+j	影質	eishitsu	こっそり礼物を受け取ること。
+j	影響源	eikyogen	
+j	攖疾	eishitsu	病むこと。罹患。
+j	映画スター	eigasuta	
+j	栄之助	einosuke	a male given name
+j	栄養学	eiyogaku	nutrition science
+j	栄養過多	eiyokata	
+j	榮養學	eiyogaku	栄養学の漢字制限前の表記。
+j	永久歯	eikyushi	乳歯が抜けた後に生え、その後生え変わらない歯。成歯。
+j	永業田	eigyoden	かつての中国の制度で世襲が許された田地。永業。世業…
+j	瑩質	eishitsu	美質。
+j	英国の	eikokuno	
+j	英国化	eikokuka	
+j	英語学	eigogaku	
+j	衛生兵	eiseihei	a medic; a corpsman
+j	鋭角の	eikakuno	
+k	에이치봄	eichibom	
+k	에이형	eihyeong	에이비오식 혈액형의 하나.
+k	에일리언	eillieon	우주인, 외계인의 또 다른 이름.
+e	eid al-adha	eidaladha	1 meaning
+e	eid al-fitr	eidalfitr	1 meaning
+e	eigenmode	eigenmode	1 meaning
+e	eightieth	eightieth	1 meaning
+e	eighty-one	eightyone	1 meaning
+e	eighty-six	eightysix	1 meaning
+e	eighty-two	eightytwo	1 meaning
+e	einherjar	einherjar	1 meaning
+j	えいせいほうそう	eiseihoso	衛星放送: satellite broadcast…
+j	エイジプレイ	eijipurei	
+j	エイトレッド	eitoreddo	空間偏微分演算子 ∇の呼称。ナブラ。
+j	会陰切開	einsekkai	episiotomy
+j	営業キロ	eigyokiro	鉄道路線の輸送量の計測に用いる距離をキロメートルで…
+j	影響する	eikyosuru	
+j	映像作家	eizosakka	映画やテレビなどの映像の制作を専門とする作家の総称。
+j	映日果	eijitsuka	synonym of 無花果 (ichijiku,…
+j	栄養不良	eiyofuryo	synonym of 栄養失調 (eiyōshit…
+j	栄養塩類	eiyoenrui	nutrient salt: inorganic …
+j	永久凍土	eikyutodo	permafrost
+j	永字八法	eijihappo	側 (soku) or 点 (ten, liter…
+j	永眠する	eiminsuru	
+j	永続性	eizokusei	ある状態が長続きしうる性質。
+j	英作文	eisakubun	英語で作文を作ること。また、その作文。
+j	英和辞典	eiwajiten	英語の単語や熟語を日本語で定義し、用法等を解説した…
+j	英国人	eikokujin	A British person; a Brito…
+j	英文学	eibungaku	イギリスもしくはアメリカの作家または英語により書か…
+j	英英辞典	eieijiten	英語の語句を英語で定義した辞典を、英語が母国語でな…
+j	英語話者	eigowasha	
+j	英語辞典	eigojiten	英語の単語や熟語、用法等を解説した辞書。
+j	英雄主義	eiyushugi	synonym of ヒロイズム (hiroizu…
+j	英雄時代	eiyujidai	the Heroic Age
+j	衛星国	eiseikoku	独立した主権国家であるが主要な政策で大国に主権が制…
+j	衛星放送	eiseihoso	satellite broadcasting
+j	衛生学	eiseigaku	個人から公衆にかけて健康の維持、増進、疾病の予防、…
+j	衛生的	eiseiteki	hygenic
+j	詠春拳	eishunken	Wing Chun, a concept-base…
+j	鋭錐石	eisuiseki	anatase
+e	eigenvalue	eigenvalue	1 meaning
+e	eighteenth	eighteenth	1 meaning
+e	eighty-five	eightyfive	1 meaning
+e	eighty-four	eightyfour	1 meaning
+e	eighty-nine	eightynine	1 meaning
+e	eileithyia	eileithyia	1 meaning
+j	エイブラハム	eiburahamu	a transliteration of the …
+j	エイレイテュイア	eireityuia	
+j	エインヘリャル	einheryaru	einherjar
+j	営利会計	eirikaikei	営利を目的とする組織体が計算主体となる会計。通常は…
+j	営業時間	eigyojikan	営業している時間。
+j	営業職	eigyoshoku	企業で営業を担当する職。
+j	嬰ト短調	eitotancho	
+j	嬰ト長調	eitochocho	
+j	嬰ニ短調	einitancho	
+j	嬰ハ短調	eihatancho	
+j	嬰ハ長調	eihachocho	
+j	嬰ヘ短調	eihetancho	
+j	嬰ヘ長調	eihechocho	
+j	影響力	eikyoryoku	influence
+j	映像ソフト	eizosofuto	
+j	映画産業	eigasangyo	
+j	映画音楽	eigaongaku	映画で使用される音楽の総称。
+j	栄光の日々	eikonohibi	
+j	栄枯盛衰	eikoseisui	rise and fall (of the Rom…
+j	栄養不足	eiyobusoku	synonym of 栄養失調
+j	永久機関	eikyukikan	perpetual motion machine
+j	永祚の風	eisonokaze	永祚元年8月13日（989年9月20日）に畿内を襲…
+j	永続する	eizokusuru	
+j	永続的	eizokuteki	perpetual, permanent, eve…
+j	衛星政党	eiseiseito	一党独裁の国家で、合法に存在が認められているが独自…
+j	衛星都市	eiseitoshi	a satellite town
+j	衛星電話	eiseidenwa	satellite phone
+j	鋭アクセント	eiakusento	an acute accent ( ´ )
+k	에이비형	eibihyeong	에이비오식 혈액형의 하나.
+k	에일레이티이아	eilleitiia	
+e	eiffel tower	eiffeltower	1 meaning
+e	eigenvector	eigenvector	1 meaning
+e	eight o'clock	eightoclock	1 meaning
+e	eighth grade	eighthgrade	1 meaning
+e	eighty-eight	eightyeight	1 meaning
+e	eighty-seven	eightyseven	1 meaning
+e	eighty-three	eightythree	1 meaning
+e	einsteinium	einsteinium	1 meaning
+j	エイチ・エス・ケイ	eichiesukei	
+j	エインヘリヤル	einheriyaru	
+j	エインヘルヤル	einheruyaru	
+j	映像作品	eizosakuhin	
+j	映画制作	eigaseisaku	
+j	映画監督	eigakantoku	film director
+j	栄養ドリンク	eiyodorinku	「ドリンク剤」を参照。
+j	栄養失調	eiyoshitcho	malnutrition
+j	栄養学者	eiyogakusha	栄養学を研究する科学者。
+j	英国婦人	eikokufujin	
+j	英雄叙事詩	eiyujojishi	heroic epic poetry
+j	衛生マスク	eiseimasuku	
+j	衛生害虫	eiseigaichu	人畜に対し有毒であったり病原体の媒介など生活環境に…
+e	eight hundred	eighthundred	1 meaning
+e	eight legions	eightlegions	1 meaning
+j	エイプリルフール	eipurirufuru	April fool, April Fool's …
+j	栄養生殖	eiyohanshoku	無性生殖の一つで、主に植物の栄養体の一部が母体から…
+j	栄養繁殖	eiyohanshoku	「栄養生殖」を参照。
+j	永年摂動	einensetsudo	太陽系の惑星や衛星などの軌道が毎年ごく僅かなずれが…
+j	永続的に	eizokutekini	
+j	永遠の眠り	eiennonemuri	
+j	永遠の都	eiennomiyako	
+j	英国化する	eikokukasuru	
+j	衛星写真	eiseishashin	人工衛星から撮影した地表の写真。
+j	衛生学者	eiseigakusha	衛生学を研究する科学者。
+j	衛生検査所	eiseikensajo	検体検査と病理学的検査を行う施設。
+j	衛生設備	eiseisetsubi	
+k	에이프행어	eipeuhaengeo	
+e	eigenfunction	eigenfunction	1 meaning
+e	eight precepts	eightprecepts	1 meaning
+e	eight thousand	eightthousand	1 meaning
+e	einstein space	einsteinspace	1 meaning
+j	エイチ・ティー・エム・エル	eichitiemueru	
+j	英仏海峡	eifutsukaikyo	
+j	英領コロンビア	eiryokoronbia	
+j	衛生管理者	eiseikanrisha	労働安全衛生法における労働環境の衛生的改善、疾病の…
+j	映画製作者	eigaseisakusha	
+e	eighth route army	eighthroutearmy	1 meaning
+j	栄養体生殖	eiyotaiseishoku	「栄養生殖」を参照。
+j	英領バージン諸島	eiryobajinshoto	synonym of イギリス領ヴァージン諸島
+j	英領ヴァージン諸島	eiryovajinshoto	
+j	鋭角三角形	eikakusankakkei	acute triangle (triangle …
+j	エイコサペンタエン酸	eikosapentaensan	
+j	栄養補助食品	eiyohojoshokuhin	dietary supplement, nutri…
+e	einstein's constant	einsteinsconstant	1 meaning
+j	永世中立国	eiseichuritsukoku	いかなる紛争にも与しないことを宣言した国家。
+e	eicosapentaenoic acid	eicosapentaenoicacid	1 meaning
+j	英仏海峡トンネル	eifutsukaikyotonneru	
+e	einstein field equation	einsteinfieldequation	1 meaning
+j	英語のメニューがありますか	eigonomenyugaarimasuka	
+k	에이비오식 혈액형	eibiosikhyeoraekhyeong	사람의 혈액형을 네 가지로 분류한 것. 에이형…

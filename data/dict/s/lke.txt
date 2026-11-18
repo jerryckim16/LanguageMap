@@ -1,0 +1,3791 @@
+j	け	ke	(question particle)
+j	けえ	ke	Clause-ending question pa…
+j	ケ	ke	（が）ヶの別表記。が。主に地名を表す固有名詞の中で…
+j	ケー	ke	The name of the Latin scr…
+j	卦	ke	divination symbol or sign
+j	毛	ke	animal fur
+j	笥	ke	a container, especially f…
+j	褻	ke	informal; everyday affairs
+e	kep	kep	1 meaning
+e	ket	ket	2 meanings
+e	key	key	8 meanings
+j	けう	keu	希有（な）、稀有（な）（きゆうとも）。
+j	けん	ken	because, since, so: prese…
+j	ケア	kea	注意、世話、保護、介護。
+j	ケイ	kei	ラテンアルファベットの第11字。
+j	ケン	ken	a transliteration of the …
+j	件	ken	case
+j	健	ken	a male given name
+j	兼	ken	-cum-, concurrently, and;…
+j	刑	kei	punishment
+j	券	ken	ticket, certificate
+j	剣	ken	a sword, especially one w…
+j	啓	kei	a male given name
+j	圏	ken	a bounded area, a sphere,…
+j	圭	kei	a unisex given name
+j	堅	ken	a male given name
+j	壎	ken	卵形で穴が六つ付いた中国の伝統管楽器。
+j	希有	keu	rare
+j	建	ken	a male given name
+j	慧	kei	a male given name
+j	敬	kei	respect, honor, reverence
+j	景	kei	vista, view, scene
+j	権	ken	right to do something, au…
+j	珪	kei	jade tablet conferred upo…
+j	甄	ken	porcelain, ceramic
+j	県	ken	a type of administrative …
+j	硏	ken	a surname
+j	祆	ken	
+j	稀有	keu	滅多にないようす。珍しい。まれ。
+j	系	kei	type, kind, system, family
+j	罫	kei	rule (line on paper to gu…
+j	腱	ken	a tendon
+j	計	kei	plan
+j	軽	kei	light
+j	険	ken	steepness (of mountain); …
+k	커	keo	
+k	케이	kei	
+k	켑	kep	
+k	크	keu	
+e	keel	keel	2 meanings
+e	keep	keep	6 meanings
+e	keir	keir	1 meaning
+e	kelp	kelp	1 meaning
+e	kemi	kemi	1 meaning
+e	kent	kent	1 meaning
+e	kero	kero	1 meaning
+j	けあい	keai	互いに蹴り合うこと。
+j	けいい	keii	
+j	けいおう	keio	慶応: Keiō era
+j	けが	kega	怪我: an injury, a wound
+j	けき	keki	砉: only used in 砉然
+j	けく	keku	synonym of く (“nominaliza…
+j	けげ	kege	罣礙: avarana: an obstacle,…
+j	けさ	kesa	今日の朝。今朝。
+j	けす	kesu	化す: deform; change shape;…
+j	けせ	kese	hypothetical and imperati…
+j	けた	keta	柱の上部に渡し垂木を受ける部材。
+j	けど	kedo	「けれども」の変化したもの。
+j	けば	keba	布や紙の表面にできる柔らかく細かい毛。
+j	けふ	kefu	
+j	けむ	kemu	presents a supposition ab…
+j	けら	kera	たたらの技術を使って砂鉄からつくられる海綿の形をし…
+j	けり	keri	indicating past tense: -ed
+j	ける	keru	足で物を飛ばす。
+j	けれ	kere	（四国松山地方で用いられる）理由や原因を表す。
+j	けろ	kero	ribbit
+j	ケアン	kean	cairn
+j	ケミ	kemi	Kemi (a town and municipa…
+j	ケモ	kemo	医療業界の用語で化学療法のことを意味します。Che…
+j	ケラ	kera	螻蛄の学術的表記。
+j	ケリ	keri	鳧, 計里, 水札: a grey-headed …
+j	ケリー	keri	Kerry (a county of Irelan…
+j	ケロ	kero	
+j	ケーキ	keki	cake
+j	ケージ	keji	a cage
+j	ケース	kesu	a case, as a container fo…
+j	ケーナ	kena	南アメリカを中心に分布する縦笛。民族楽器として有名。
+j	ケープ	kepu	cape (garment)
+j	ケール	keru	kale (edible plant)
+j	乾位	keni	西北の方位。
+j	今朝	kesa	this morning
+j	倹易	keni	簡素なこと。また、そのようなさま。
+j	健胃	keni	being stomachic (benefici…
+j	化導	kedo	衆生を教化して導くこと。
+j	圏央	keno	首都圏の中央。
+j	堅囲	keni	固く、包囲すること。
+j	契押	keio	かつて文書の末尾に書かれた草書体などの署名。
+j	嫌悪	keno	hatred, dislike, aversion
+j	嫌欧	keno	日本人によるゼノフォビアの感情のうち、特に欧州、欧…
+j	嫌畏	keni	忌み、畏れること。
+j	嶮夷	keni	険しいことと平らなこと。険易。
+j	怪我	kega	an injury, a wound
+j	悕求	keku	願い求めること。
+j	愆殃	keno	過ち。
+j	愆違	keni	過ち、間違うこと。
+j	慊意	keni	満足すること。
+j	慶応	keio	the Keiō era, 1865–1868
+j	慶殃	keio	慶事と災禍。
+j	憲威	keni	法の権威。
+j	懸想	keso	attachment
+j	懸異	keni	著しく異なること。また、そのようなさま。
+j	拳殴	keno	拳で殴打すること。
+j	搴帷	keni	帷を掲げること。
+j	敬意	keii	reverence, respect
+j	敬畏	keii	reverence, holding in awe…
+j	暄燠	keno	暖か。
+j	桁	keta	girder, crossbeam
+j	権威	keni	authority
+j	毛唐	keto	a Chinese person
+j	毛羽	keba	獣毛と羽毛。
+j	水札	keri	
+j	涇渭	keii	清濁、善悪の区別。
+j	消す	kesu	to extinguish, quench, pu…
+j	渓翁	keio	幽谷で暮らす老翁。
+j	犬夷	keni	古代中国の異民族で西戎の一種族。殷から春秋時代にか…
+j	献遺	keni	贈ること。
+j	玄応	keno	信心が通じ、神仏から助力を得ること。
+j	甄異	keni	非常であることを識別すること。
+j	畎夷	keni	古代中国の異民族で西戎の一種族。殷から春秋時代にか…
+j	県央	keno	県の中央。
+j	県尉	keni	県警。
+j	眷異	keni	殊遇すること。
+j	硯凹	keno	硯池。
+j	経緯	keii	warp and woof, from 経(たて)…
+j	縑衣	keni	縑の衣。
+j	罣礙	kege	a hindrance, obstacle, ob…
+j	萱闈	keni	御母堂。
+j	螻蛄	kera	mole cricket
+j	袈裟	kesa	a kāṣāya
+j	褰帷	keni	幕を張ること。
+j	褻の	keno	
+j	計里	keri	
+j	賢王	keno	賢明な君主。
+j	賢皇	keno	賢王の異表記。
+j	蹴る	keru	to kick (something)
+j	蹴合	keai	
+j	軒偉	keni	偉大なこと。また、そのようなさま。
+j	軽易	keii	手軽で、容易なこと。
+j	遣欧	keno	欧州に派遣すること。
+j	鉧	kera	spongiform crude iron mad…
+j	険夷	keni	険しいことと平らなこと。険易。
+j	険易	keni	険しいことと平らなこと。険夷。
+j	険衣	keni	奇抜な衣服。奇服。
+j	顕位	keni	高い地位。高位。
+j	顕懿	keni	麗しいさま。
+j	顕異	keni	目立つこと。
+j	騫衣	keni	衣を取ること。
+j	鳧	keri	a grey-headed lapwing
+k	컵	keop	cup (drinking vessel)
+k	컷	keot	
+k	케다	keda	
+k	케로	kero	
+k	케미	kemi	
+k	케어	keeo	
+k	케익	keik	'케이크'의 비규범 표기.
+k	큰	keun	'크다'의 관형사형.
+k	클	keul	'틀'의 제주도 사투리.
+k	큼	keum	'크다'의 명사형.
+e	keats	keats	1 meaning
+e	kebab	kebab	1 meaning
+e	kedah	kedah	1 meaning
+e	kefir	kefir	1 meaning
+e	keijō	keijo	1 meaning
+e	kelly	kelly	1 meaning
+e	kendo	kendo	1 meaning
+e	kenya	kenya	1 meaning
+e	kerch	kerch	1 meaning
+e	kerry	kerry	2 meanings
+e	kevin	kevin	1 meaning
+j	けいこう	keiko	傾向: tendency
+j	けいじ	keiji	経時: age
+j	けいそ	keiso	ケイ素, 珪素, 硅素: silicon
+j	けいそう	keiso	
+j	けいぞう	keizo	敬三: a male given name
+j	けいた	keita	敬太: a male given name
+j	けいと	keito	羊をはじめ動物の体毛を紡績して糸状にしたもの。
+j	けいどう	keido	江戸時代、町奉行所の役人が私娼窟や賭場に不意に手入…
+j	けいほう	keiho	警報: alarm
+j	けいろ	keiro	髪や獣類の体毛、鳥類の羽毛などの色。
+j	けおり	keori	毛糸で織ること。また、そのような織物。
+j	けし	keshi	ケシ目ケシ属の一年草の一種。学名:Papaver …
+j	けたい	ketai	卦体
+j	けだい	kedai	懈怠: spiritual sloth; lazi…
+j	けち	kechi	miser; tightwad
+j	けっか	kekka	
+j	けっこう	kekko	
+j	けつ	ketsu	ass, arse, buttocks
+j	けにあ	kenia	ケニア: Kenya
+j	けねん	kenen	懸念: worry, concern
+j	けはい	kehai	直感的にそれらしいと感じられる様子。
+j	けむい	kemui	煙のため息苦しくなったり目が痛くなったりするさま。
+j	けれん	keren	showing off
+j	けわい	kewai	においや音声などにより感じられる漠然とした物事の様…
+j	けんあん	kenan	検案: clinical autopsy
+j	けんえん	kenen	犬猿: a bad relationship, l…
+j	けんか	kenka	
+j	けんこう	kenko	
+j	けんご	kengo	謙吾, 健吾, 堅吾, 謙伍: a male gi…
+j	けんじ	kenji	堅持: persistence
+j	けんた	kenta	健太: a male given name
+j	けんとう	kento	
+j	けんど	kendo	road, street
+j	けんぱ	kenpa	a game similar to hopscot…
+j	けんぴ	kenpi	高知県の名産の菓子で小麦粉に砂糖を加えて練り、棒状…
+j	けんゆう	kenyu	賢勇: a male given name
+j	ケイト	keito	a four/cater
+j	ケイム	keimu	氷礫丘。
+j	ケイ素	keiso	silicon, Si
+j	ケシ	keshi	「芥子」の学術的表記。
+j	ケソン	keson	
+j	ケチ	kechi	
+j	ケッタ	ketta	
+j	ケット	ketto	ブランケット。
+j	ケッパー	keppa	caper, Capparis spinosa, …
+j	ケツ	ketsu	
+j	ケトン	keton	ketone
+j	ケニア	kenia	Kenya (a country in East …
+j	ケバい	kebai	gaudy, especially of a wo…
+j	ケビン	kebin	
+j	ケフィア	kefia	kefir
+j	ケモい	kemoi	
+j	ケルン	kerun	Cologne (the largest city…
+j	ケンタ	kenta	
+j	ケント	kento	Kent (a city in Washingto…
+j	ケヴィン	kevin	
+j	ケーソン	keson	潜函。
+j	ケータイ	ketai	携帯電話の略語。
+j	ケー番	keban	
+j	ケ伝	keden	「詩経」の鄭玄、毛亨による訓点や解釈。
+j	ケ点	keten	「詩経」の鄭玄の箋による訓点や解釈。
+j	乾儀	kengi	朝儀。
+j	乾円	kenen	天。天円。
+j	乾浄	kenjo	清潔なこと。
+j	乾符	kenpu	天皇であることの印。神器。
+j	乾綱	kenko	天における法則。
+j	乾道	kendo	ways of heaven; ways of m…
+j	京城	keijo	the emperor's residence, …
+j	京太	keita	a male given name
+j	京戯	keigi	京劇。
+j	京滋	keiji	京都と滋賀。
+j	京畿	keiki	surrounding area of the i…
+j	京華	keika	capital, capital city
+j	京葉	keiyo	Tokyo and Chiba
+j	仮病	kebyo	feigned illness
+j	件数	kensu	number of cases, events, …
+j	係争	keiso	訴訟において当事者間で争っていること。
+j	係数	keisu	coefficient
+j	係數	keisu	
+j	倦厭	kenen	weariness, tiring of some…
+j	倦惰	kenda	やっていることに飽きてだらけること。
+j	倦慵	kenyo	物憂い。
+j	倦疲	kenpi	飽き飽きして草臥れること。倦憊。
+j	倹用	kenyo	節約。倹約。
+j	健三	kenzo	a male given name
+j	健二	kenji	a male given name
+j	健保	kempo	the Kempo era, 1213-1219
+j	健児	kenji	a male given name
+j	健冶	kenya	a male given name
+j	健剛	kengo	心身ともに健康で強く、何事にも負けないこと。また、…
+j	健司	kenji	a male given name
+j	健吾	kengo	a male given name
+j	健大	kenta	a male given name
+j	健太	kenta	a male given name
+j	健常	kenjo	心身に障害や慢性の病気がなく、日常生活に支障がない…
+j	健康	kenko	healthy, fit
+j	健志	kenji	a male given name
+j	健忘	kenbo	forgetfulness
+j	健次	kenji	a male given name
+j	健歩	kenpo	健脚。
+j	健治	kenji	a male given name
+j	健造	kenzo	a male given name
+j	健闘	kento	a good fight
+j	傑僧	kesso	学識などが傑出した僧。
+j	傔仗	kenjo	奈良時代から平安時代にかけて鎮守府将軍や大宰帥、出…
+j	傔従	kenju	側近くに仕える家臣。従者。近侍。
+j	傾倒	keito	admiration
+j	傾動	keido	他からの働きかけで考えなどがかわること。また、他に…
+j	傾向	keiko	inclination, tendency
+j	傾延	keien	敬慕し、首を長くして待つこと。
+j	傾慕	keibo	心を傾けて慕うこと。
+j	傾破	keiha	倒れ、破壊すること。
+j	傾陁	keida	破れること。
+j	傾風	keifu	傾慕すること。
+j	儇浮	kenfu	軽薄。
+j	兼備	kenbi	having both
+j	兼務	kenmu	holding two posts at the …
+j	兼司	kenji	a male given name
+j	兼営	kenei	本業とは別の事業を経営すること。
+j	兼愛	kenai	自他など差別することなく平等に愛すること。
+j	兼有	kenyu	複数のものを併せ持つこと。
+j	兼用	kenyo	serving two purposes
+j	兼綜	kenso	併せ、統べること。
+j	兼総	kenso	併せ、統べること。
+j	兼行	kenko	急ぐため二倍の行程を行くこと。急いで何かをすること…
+j	兼贏	kenei	倍の利益。
+j	兼路	kenro	兼行。
+j	兼道	kendo	一日で二日分の道程を進むこと。兼行。兼程。
+j	冂部	keibu	部首「⼌」で分類した漢字の一群。
+j	刑事	keiji	a detective
+j	刑余	keiyo	前科のある者。
+j	刑具	keigu	身体刑の執行や拷問などに使用される道具や器具。
+j	刑務	keimu	prison affairs, prison ad…
+j	刑吏	keiri	executioner
+j	刑場	keijo	execution ground; place t…
+j	刑徒	keito	刑罰を処せられた者。罪人。
+j	刑期	keiki	prison term
+j	刑法	keiho	criminal law
+j	刑訴	keiso	「刑事訴訟」の略。
+j	刑馬	keiba	盟誓の際に馬を犠牲とすること。
+j	刲刳	keiko	腹を裂くこと。
+j	券帖	kenjo	手形。
+j	券要	kenyo	契約。
+j	剄馬	keiba	馬の首を刎ねること。
+j	剣伎	kengi	剣術。
+j	剣光	kenko	剣の光。
+j	剣奴	kendo	
+j	剣姫	kenki	女剣士の美称。
+j	剣工	kenko	刀剣をつくる職人。刀鍛冶。
+j	剣技	kengi	刀剣を使った技術や技法。
+j	剣槍	kenso	刀剣と槍。武器。
+j	剣樹	kenju	枝葉や花実などがすべて刀剣でできているという木。
+j	剣法	kenpo	swordsmanship
+j	剣状	kenjo	xiphoidness
+j	剣璽	kenji	三種の神器のうち草薙の剣（宝剣）と八尺瓊の勾玉（神…
+j	剣相	kenso	刀剣の地肌、焼き刃などの様子。
+j	剣豪	kengo	master of swordsmanship
+j	剣跗	kenfu	剣の柄。
+j	剣道	kendo	kendo
+j	剣鋒	kenpo	剣の切っ先。剣先。
+j	剣鎗	kenso	刀剣と槍。武器。
+j	加行	kegyo	本来の修行に入る前に行う準備的な修行。
+j	勁利	keiri	強く、鋭いこと。また、そのようなさまやそのような兵…
+j	勁猛	keimo	強く猛々しいこと。また、そのようなさま。
+j	勁鋭	keiei	強く、鋭いこと。また、そのようなさまやそのような兵…
+j	勁風	keifu	強風。
+j	化天	keten	六欲天の一つで地上から五番目の天である「化楽天」の…
+j	化教	kekyo	律宗で機にしたがい衆生を教化する定と慧の教え。
+j	化現	kegen	神仏が衆生を救済するため姿を変えて現世に現れること…
+j	化粧	kesho	makeup, cosmetics
+j	化転	keten	衆生を教化して悪を善に変えること。
+j	匸部	keibu	部首「⼖」で分類した漢字の一群。
+j	卿等	keira	君たち。あなたたち。諸君。二人称複数。
+j	咺唏	kenki	悲泣すること。
+j	啓三	keizo	a male given name
+j	啓上	keijo	（謙譲語）（手紙で）申し上げること。
+j	啓二	keiji	a male given name
+j	啓史	keiji	a male given name
+j	啓太	keita	a male given name
+j	啓子	keiko	a female given name
+j	啓次	keiji	a male given name
+j	啓治	keiji	a male given name
+j	啓示	keiji	revelation
+j	啓蒙	keimo	sharing knowledge, enligh…
+j	喧争	kenso	騒ぎ、争うこと。
+j	喧嘩	kenka	a fight, a physical confr…
+j	喧噪	kenso	the loud sounds coming fr…
+j	喧囂	kengo	がやがやしていること。人々がやかましく声や音を立て…
+j	喧擾	kenjo	喧しくうるさいこと。騒擾。
+j	喧騒	kenso	loud, noisy, chaotic, cla…
+j	喧鬧	kento	noisy; loud; bustling
+j	嗛譲	kenjo	謙譲すること。
+j	圏円	kenen	まる。円。
+j	圭二	keiji	a male given name
+j	圭司	keiji	a male given name
+j	圭吾	keigo	a male given name
+j	圭太	keita	a male given name
+j	堅利	kenri	堅く鋭いこと。また、そのようなさま。
+j	堅吾	kengo	a male given name
+j	堅固	kengo	strong
+j	堅固な	kengo	
+j	堅持	kenji	insist, persistence, tena…
+j	堅果	kenka	nut
+j	堅牢	kenro	robust
+j	堅甲	kenko	昆虫などで固い甲殻。
+j	堅硬	kenko	硬く丈夫なこと。
+j	堅穏	kenon	stable and quiet
+j	契合	keigo	割符を合わせること。
+j	契機	keiki	opportunity
+j	妍容	kenyo	娟容の異表記。
+j	妍影	kenei	美しい容姿。また、その映像。
+j	妍艶	kenen	「姸艶」の別表記。
+j	妍豔	kenen	「姸艶」の別表記。
+j	姸嫵	kenbu	秀美。
+j	姸歩	kenpo	美人の歩み。
+j	姸状	kenjo	美しい姿。妍容。
+j	姸艶	kenen	艶めかしく美しいさま。
+j	姸豔	kenen	「姸艶」の別表記。
+j	娟容	kenyo	美容。美貌。
+j	嫌厭	kenen	extreme hatred
+j	嫌忌	kenki	何かを忌み嫌うこと。
+j	嫌怨	kenen	恨むこと。
+j	嫌惎	kenki	恨むこと。
+j	嫌疑	kengi	suspicion
+j	嫌英	kenei	日本人によるゼノフォビアの感情のうち、特にイギリス…
+j	嫌露	kenro	日本人によるゼノフォビアの感情のうち、特にロシア、…
+j	嬛孤	keiko	みなし児。孤児。
+j	家人	kenin	one's family, (especially…
+j	家来	kerai	retainer; servant
+j	嶮巇	kengi	高く険しいさま。
+j	嶮路	kenro	険路の異表記。
+j	巻綬	kenju	官印の組紐を巻き、官職を誇らないこと。
+j	巻纓	kenei	武官が使用する巻いた冠の纓。
+j	巻耳	kenji	耳菜草の古名。
+j	巻舒	kenjo	伸縮。
+j	巻雲	kenun	cirrus cloud
+j	建太	kenta	a male given name
+j	建常	kenjo	旗を建てる台。
+j	建樹	kenju	樹立すること。
+j	建武	kenmu	the Kenmu era, 1334-1336 …
+j	建永	kenei	the Ken'ei era, 1206-1207
+j	建治	kenji	the Kenji era, 1275-1278
+j	建法	kenpo	法を創制すること。
+j	建碑	kenpi	碑を建てること。
+j	建窯	kenyo	福建省にあった陶窯群。建盞（天目茶碗）を産出した。
+j	建義	kengi	義軍を興すこと。
+j	建議	kengi	proposition, proposal
+j	建造	kenzo	construction
+j	建鼓	kenko	かつて中国の雅楽で使われた一本の脚のある太鼓。楹鼓。
+j	彐部	keibu	部首「⼹」で分類した漢字の一群。
+j	形似	keiji	形、外観が似ていること。
+j	形動	keido	
+j	形容	keiyo	description
+j	形影	keiei	form and shadow
+j	形状	keijo	shape
+j	形貌	keibo	容姿。姿。形。
+j	形音	keion	容姿と声。
+j	径子	keiko	a female given name
+j	怪訝	kegen	事情や理由がわからず、不審に思うさま。
+j	怪顛	keden	びっくり仰天すること。
+j	恵与	keiyo	恵み、与えること。
+j	恵二	keiji	a male given name
+j	恵司	keiji	a male given name
+j	恵子	keiko	a female given name
+j	恵投	keito	物を贈られた際にその送り主に対する尊敬語。恵贈。
+j	恵治	keiji	a male given name
+j	恵贈	keizo	物を贈られた際にその送り主に対する尊敬語。恵投。
+j	恵音	keion	穏やかな音。
+j	恵風	keifu	恵みの風。春風。
+j	惸嫠	keiri	やもめ。
+j	惸孤	keiko	孤独。
+j	愆義	kengi	義理を誤ること。
+j	愆陽	kenyo	不順。
+j	慊焉	kenen	慊りない、満足しない。不満に思う様子。
+j	慳嚢	kenno	貯金箱。
+j	慶三	keizo	a male given name
+j	慶事	keiji	happy event; auspicious o…
+j	慶二	keiji	a male given name
+j	慶和	keiwa	
+j	慶子	keiko	a female given name
+j	慶安	keian	the Keian era, 1648-1652
+j	慶雲	keiun	auspicious clouds
+j	憲三	kenzo	a male given name
+j	憲司	kenji	a male given name
+j	憲治	kenji	a male given name
+j	憲法	kenpo	fair
+j	懈慢	keman	怠けてすべきことをなおざりにすること。怠惰。
+j	懸下	kenka	hanging down; dangling
+j	懸念	kenen	worry, concern
+j	懸果	kenka	子房がいくつかに分かれ、果実が成熟すると子房ごとに…
+j	懸案	kenan	unsettled question
+j	懸河	kenga	早瀬の川。急流の川。
+j	懸淙	kenso	滝。
+j	懸疑	kengi	疑いを持つこと。
+j	懸遠	kenen	極遠。
+j	扃戸	keiko	戸締まり。
+j	拳打	kenda	拳で打つこと。
+j	拳法	kenpo	martial art (generic term)
+j	拳跪	kenki	跪くこと。
+j	拳銃	kenju	a handgun
+j	拳闘	kento	synonym of ボクシング (bokushi…
+j	挂号	keigo	番号。
+j	挂灯	keito	灯火を掲げること。
+j	挂燈	keito	灯火を掲げること。
+j	捲土	kendo	砂塵を巻き起こすこと。
+j	捲烟	kenen	巻煙草。
+j	捲素	kenso	漆器の胎骨。
+j	捲舒	kenjo	巻舒の異表記。
+j	捲道	kendo	全堂。
+j	掔羊	kenyo	羊を牽くこと。
+j	掲揚	keiyo	旗などを高い場所へ掲げること。
+j	掲示	keiji	post, bulletin
+j	掲記	keiki	recording in official rec…
+j	携持	keiji	携え持つこと。
+j	携行	keiko	taking with one, carrying…
+j	撿納	kenno	検納の異表記。
+j	敬三	keizo	a male given name
+j	敬事	keiji	神などに謹んで仕えること。
+j	敬二	keiji	a male given name
+j	敬具	keigu	yours sincerely
+j	敬司	keiji	a male given name
+j	敬吾	keigo	a male given name
+j	敬大	keita	a male given name
+j	敬太	keita	a male given name
+j	敬愛	keiai	adoration; respect and af…
+j	敬次	keiji	a male given name
+j	敬治	keiji	a male given name
+j	敬義	keigi	敬と義。
+j	敬老	keiro	respect for the elderly
+j	敬語	keigo	respectful or honorific l…
+j	敬譲	keijo	相手を敬い自分が謙ること。
+j	敬遠	keien	avoidance
+j	敬馬	keima	a male given name
+j	景仰	keiko	徳を慕い、仰ぐこと。景慕。
+j	景子	keiko	a female given name
+j	景情	keijo	自然・世間のありさま。
+j	景慕	keibo	仰ぎ、慕うこと。
+j	景斗	keito	a male given name
+j	景気	keiki	condition (e.g. business)
+j	景状	keijo	「景情」の別表記。
+j	景風	keifu	和風。
+j	暄温	kenon	温かいこと。また、そのようなさま。
+j	桂二	keiji	a male given name
+j	桂司	keiji	a male given name
+j	桂子	keiko	a female given name
+j	桂庵	keian	奉公人・雇い人の斡旋業者。
+j	桂樹	keiju	桂。
+j	桂皮	keihi	dried bark of Cinnamomum …
+j	桂花	keika	sweet osmanthus
+j	桂馬	keima	a cassia or laurelled hor…
+j	棨戸	keiko	棨戟を持つ兵を置いた門戸。
+j	検事	kenji	public prosecutor
+j	検僧	kenso	江戸時代、葬儀の際に死者の異状を確認した僧侶。
+j	検印	kenin	検査したことを証明する印。
+j	検同	kendo	同封すること。
+j	検字	kenji	in a kanji dictionary, an…
+j	検層	kenso	地質調査などで孔や井戸に機器を挿入し、調査すること。
+j	検査	kensa	inspection, examination, …
+j	検案	kenan	clinical autopsy
+j	検法	kenpo	標準。
+j	検波	kenpa	demodulation, detection (…
+j	検温	kenon	temperature measurement
+j	検納	kenno	品物などを検査して納入すること。
+j	検討	kento	consideration
+j	権利	kenri	right; claim; title; priv…
+j	権厝	kenso	仮埋葬。
+j	権宜	kengi	臨機に取り計らうこと。機宜。
+j	権度	kendo	秤と物差し。
+j	権数	kensu	「権謀術数」の略。
+j	権栄	kenei	権勢があり身分が高いさま。
+j	権綱	kenko	政治的権力の要綱。
+j	権義	kengi	権利と義務。
+j	権者	kenja	（けんじゃ）権力がある人。権利者。
+j	権能	kenno	権利を主張し、また行使できる能力。
+j	権衡	kenko	はかりの錘と竿。
+j	権要	kenyo	顕要の異表記。
+j	権詐	kensa	権謀と詐術。たくらみ。
+j	権詭	kenki	詭計。
+j	権謀	kenbo	機に応じたはかりごと。
+j	権議	kengi	ものの軽重を謀り、議論すること。
+j	権貴	kenki	権勢があり身分が高いさま。また、そのような人。
+j	権輿	kenyo	物事の始まり。事の起こり。
+j	檠灯	keito	灯火。ともしび。
+j	檠燈	keito	灯火。ともしび。
+j	權利	kenri	権利の旧字体表記。
+j	欠爽	kenso	心が休まらないこと。また、そのようなさま。不安。
+j	欠航	kekko	cancellation of a flight
+j	欠課	kekka	cutting class, skipping c…
+j	欠部	kenbu	部首「⽋」で分類した漢字の一群。
+j	歉疑	kengi	疑いを持つこと。疑惑。
+j	毛穴	keana	pore (opening in the skin)
+j	毛糸	keito	woolen yarn, such as for …
+j	毛色	keiro	hair color; fur color
+j	気配	kehai	appearance, sign, hint, a…
+j	決	ketsu	decision, vote
+j	決河	kekka	河川の堤防が決壊すること。河の水が堤防を破って流出…
+j	決答	ketto	はっきり答えること。また、その答。
+j	決行	kekko	execution
+j	決起	kekki	arousal
+j	決闘	ketto	duel
+j	消し	keshi	thing that erases.
+j	涓埃	kenai	しずくとほこり。
+j	涓壌	kenjo	涓滴と塵埃。
+j	涓焉	kenen	水が細く流れるさま。涓涓。
+j	涓露	kenro	露ほどの纔かな水。
+j	煙い	kemui	smoky
+j	煢釐	keiri	やもめ。
+j	牽引	kenin	traction; towage
+j	牽情	kenjo	心に掛けること。
+j	牽縄	kenjo	ひきなわ。
+j	牽縈	kenei	まとうこと。
+j	牽路	kenro	運河のうち、船を遡って牽くための水路。
+j	犬儒	kenju	Cynic (member of an Ancie…
+j	犬戎	kenju	古代中国で現在の甘粛省付近に住んだ西戎の一つ。
+j	犬牙	kenga	犬の牙。
+j	犬猿	kenen	a bad relationship, like …
+j	犬皮	kenpi	（三味線に猫の皮のかわりに使う）犬の皮。
+j	犬羊	kenyo	犬と羊。
+j	犬部	kenbu	部首「⽝」で分類した漢字の一群。
+j	献上	kenjo	presenting to
+j	献儀	kengi	民衆の模範となる賢者。
+j	献堂	kendo	新しく建築された教会堂を聖別すること。
+j	献奏	kenso	神前や仏前で楽曲を演奏して奉納すること。
+j	献寿	kenju	贈り物などを捧げ、長寿を祝うこと。
+j	献技	kengi	演技すること。
+j	献状	kenjo	報告すること。
+j	献納	kenno	an offering to a religiou…
+j	献花	kenka	floral tribute
+j	献詠	kenei	宮中、社寺に自作の詩歌を献上すること。また、その詩…
+j	献議	kengi	意見を奏上すること。
+j	献辞	kenji	synonym of 献詞 (kenshi, “d…
+j	献香	kenko	神仏や霊前に香をたいて供えること。
+j	獧浮	kenpu	軽薄。
+j	珪化	keika	silicification
+j	珪土	keido	silica, silicon dioxide
+j	珪素	keiso	原子番号 14、元素記号 Si の半金属元素。単体…
+j	珪藻	keiso	diatom
+j	瓊楼	keiro	美しい高殿。
+j	瓊筵	keien	美しい宴席。
+j	瓊葩	keiha	麗しい花。
+j	瓊音	keion	立派な詩文。
+j	甄叙	kenjo	選任。
+j	甄土	kendo	土を捏ねること。
+j	甄揚	kenyo	顕揚の異表記。
+j	甄汰	kenta	淘汰すること。
+j	甄綜	kenso	総合して判断すること。
+j	甄藻	kenso	人材を見極めること。
+j	畎畝	kenpo	田の溝や畔。
+j	畎畮	kenpo	畎畝。
+j	痙風	keifu	痙攣すること。
+j	県下	kenka	in the prefecture
+j	県営	kenei	県の運営する事業。
+j	県土	kendo	県の風土、土地の様子。
+j	県有	kenyu	地方公共団体の県が所有すること。
+j	県東	kento	県の東部の地域。
+j	県歌	kenka	prefectural song
+j	県法	kenpo	法を発布すること。
+j	県獣	kenju	県（都道府県）を代表（象徴）するものとして選定され…
+j	県花	kenka	prefectural flower
+j	県費	kenpi	地方公共団体の県の費用。
+j	県道	kendo	a prefectural road of 県-t…
+j	県遠	kenen	かけ離れていること。
+j	眷仗	kenjo	頼ること。
+j	眷想	kenso	顧みて思うこと。
+j	眷愛	kenai	情けをかけること。可愛がること。
+j	眷焉	kenen	顧みるさま。
+j	眷顧	kenko	favourable regard
+j	眷養	kenyo	慈しみ養うこと。そうして養われる人。
+j	睽罛	keiko	高く険しいこと。また、そのようなさま。高峻。
+j	睽離	keiri	離散すること。
+j	研摩	kenma	「研磨」の異表記。当用漢字表の時代における書き換え。
+j	研磨	kenma	grinding, polishing
+j	硏磨	kenma	
+j	硯城	kenjo	硯。
+j	硯槽	kenso	硯池。
+j	稽古	keiko	training
+j	積石	kerun	ケルンの漢字表記。
+j	競馬	keiba	horse racing
+j	競駝	keida	駱駝のレース。
+j	系図	keizu	a genealogy, family tree
+j	系統	keito	system
+j	系譜	keifu	pedigree, genealogy, line…
+j	経口	keiko	taking by mouth; oral
+j	経営	keiei	management
+j	経度	keido	a longitude (angular dist…
+j	経理	keiri	accounting
+j	経由	keiyu	going via, by way of
+j	経筵	keien	天子が経書を聴講する席。
+j	経紀	keiki	official discipline gover…
+j	経費	keihi	expenses, cost
+j	経路	keiro	route, path, course, path…
+j	経過	keika	passage of time
+j	結党	ketto	formation of a party
+j	結句	kekku	conclusion; concluding se…
+j	結果	kekka	the result, effect, conse…
+j	結構	kekko	the assembly or compositi…
+j	絢耀	kenyo	輝くほど美しいこと。そのさま。絢煥。
+j	絹布	kenpu	絹糸で織った布。
+j	絹帖	kenjo	絹地の帖。
+j	絹雲	kenun	氷晶からなる白い雲。
+j	継受	keiju	受け継ぐこと。引き継ぐこと。
+j	継投	keito	relieving the pitcher
+j	継母	keibo	a stepmother
+j	継泳	keiei	競泳で行われるリレー。メドレーリレーとフリーリレー…
+j	継父	keifu	stepfather
+j	継統	keito	系統を継承すること。
+j	継走	keiso	陸上競技のリレーのこと。
+j	継起	keiki	occurring in succession
+j	縑布	kenpu	縑絹。
+j	縑素	kenso	白い縑絹。
+j	縑綺	kenki	綾。
+j	縑繒	kenso	縑。
+j	縑蒲	kenpo	書冊。
+j	繋辞	keiji	copula
+j	繋馬	keiba	馬を繋ぐこと。
+j	繋駕	keiga	車を馬を繋ぐこと。
+j	繫争	keiso	訴訟において当事者間で争っていること。
+j	繫辞	keiji	易で卦と爻を説明する言葉。
+j	繫風	keifu	根拠がないこと。
+j	繫馬	keiba	馬を繋ぐこと。
+j	纈	ketsu	
+j	纈草	kesso	synonym of 鹿の子草 (kanokosō…
+j	肩摩	kenma	混雑して肩と肩とが擦れ合うこと。
+j	肩甲	kenko	「肩甲骨」の略。肩の骨。
+j	茎状	keijo	styloidness
+j	荊扉	keihi	茨の生えた門の扉。
+j	華鬘	keman	仏前を荘厳するために仏殿の梁などに取り付ける薄くほ…
+j	萱堂	kendo	母の尊称。
+j	萱蘇	kenso	忘れ草。萱草。
+j	蒹葭	kenka	水辺に生えるイネ科の多年草である「葭」の別称。
+j	蕙風	keifu	芳しい風。
+j	蛍光	keiko	the light of a firefly
+j	蛍窓	keiso	苦労して学問すること。蛍雪。
+j	蟪蛄	keiko	夏の蟬。
+j	蠲徭	kenyo	賦役を免除すること。
+j	蠲棄	kenki	遺棄すること。
+j	蠲租	kenso	蠲税。免税。
+j	蠲賦	kenpu	賦役を免除すること。
+j	蠲除	kenjo	取り除くこと。
+j	血相	kesso	color of one's face (refe…
+j	血糖	ketto	blood sugar
+j	血統	ketto	pedigree; blood; stock
+j	血行	kekko	blood circulation
+j	見処	kenjo	見所の異表記。
+j	見容	kenyo	適合すること。容認すること。受け入れること。
+j	見当	kento	estimate; guess
+j	見所	kenjo	能の観客席。また、見物人。
+j	見様	kenyo	歌体の一つで、対象をありのままに詠むこと。その歌。
+j	見相	kenso	顔つき。
+j	見義	kengi	義としてなすべきことを知ること。
+j	見証	kenzo	囲碁、双六などを脇で勝敗を審判すること。
+j	見道	kendo	三段階の仏道修行で最初の段階。聖者の仲間入りをし、…
+j	見部	kenbu	部首「⾒」で分類した漢字の一群。
+j	計上	keijo	budgeting, adding up
+j	計器	keiki	meter, gauge
+j	計図	keito	企み。目論見。
+j	計数	keisu	numbers, figures, number …
+j	計時	keiji	競技などで所要の時間を計ること。また、その計った時…
+j	計理	keiri	会計や給料計算、金銭・財産管理などを行う事務。経理。
+j	計装	keiso	生産を行う工場などで工程を管理、制御するため、それ…
+j	計謀	keibo	謀。謀計。
+j	計議	keigi	相談すること。
+j	計較	keiko	比較し考えること。
+j	諠囂	kengo	「喧囂」の異表記。
+j	諠擁	kenyo	集まり騒ぐこと。
+j	諠擾	kenjo	「喧擾」の異表記。
+j	諠草	kenso	ユリ科の多年草の総称。中国原産。忘れ草。
+j	諠譁	kenka	「喧嘩」の異表記。
+j	諠譟	kenso	「喧噪」の異表記。
+j	諠鬧	kento	「喧鬧」の異表記。
+j	謙二	kenji	a male given name
+j	謙伍	kengo	a male given name
+j	謙吾	kengo	a male given name
+j	謙弥	kenya	a male given name
+j	謙次	kenji	a male given name
+j	謙語	kengo	謙遜した言葉。謙譲語。
+j	謙譲	kenjo	modest, humble
+j	警乗	keijo	警察官などが列車や船に乗り込んで警戒すること。
+j	警備	keibi	security guard
+j	警務	keimu	警察、警備の事務。
+j	警句	keiku	aphorism, epigram
+j	警吏	keiri	警官。警察吏員、警察官吏の略。
+j	警報	keiho	alarm, alert, warning
+j	警悟	keigo	perspicaciousness
+j	警棒	keibo	baton; truncheon; nightst…
+j	警衛	keiei	guard, patrol, escort
+j	警護	keigo	bodyguard
+j	警邏	keira	patrol
+j	警部	keibu	police inspector
+j	警防	keibo	警戒して災害や犯罪を防ぐこと。
+j	警音	keion	警戒を促すために鳴らす音。
+j	譴怒	kendo	責め、怒ること。譴責。
+j	譴譲	kenjo	責めること。
+j	賢労	kenro	抜きんでて苦労すること。また、そのような人。
+j	賢勇	kenyu	a male given name
+j	賢司	kenji	a male given name
+j	賢否	kenpi	賢いこととそうでないこと。賢愚。
+j	賢女	kenjo	賢明な女性。賢婦。
+j	賢婦	kenpu	賢明な婦人。
+j	賢媛	kenen	賢女。賢婦。
+j	賢愚	kengu	賢いことと愚かこと。賢否。
+j	賢持	kenji	a male given name
+j	賢次	kenji	a male given name
+j	賢治	kenji	a male given name
+j	賢義	kengi	賢く、正しいさま。
+j	賢者	kenja	a wise man; a sage
+j	賢能	kenno	賢明で才能があること。また、そのような人。
+j	賢英	kenei	傑物。
+j	賢衆	kenju	仏道を修得した人達。高僧たち。
+j	賢豆	kenzu	古代のインドの漢名。天竺。
+j	賢路	kenro	賢者の昇進する道。
+j	賢首	kenju	相手に対する敬称。
+j	踡焉	kenen	屈まること。
+j	蹇偃	kenen	高低俯仰。
+j	蹇驢	kenro	足を引き摺って歩く驢馬。
+j	蹇驤	kenjo	飛び上がること。
+j	軒乗	kenjo	車駕。
+j	軒号	kengo	「軒」で終わる称号。
+j	軒城	kenjo	諸侯の城。
+j	軒堂	kendo	高堂。
+j	軒数	kensu	家屋の数。戸数。
+j	軒昂	kenko	magnificent; dignified
+j	軒楹	kenei	軒の柱。
+j	軒灯	kento	建物の軒先につける明かり。
+j	軒爽	kenso	高く爽やかなさま。
+j	軒窓	kenso	軒端の窓。
+j	軒羲	kengi	中国の伝説上の帝王軒轅と伏羲。
+j	軒輅	kenro	車。
+j	軒轅	kenen	北斗星の北にある星の名。
+j	軒露	kenro	あらわれること。
+j	軽侮	keibu	disdain, contempt
+j	軽傲	keigo	奢ること。
+j	軽利	keiri	身のこなしが軽快ですばやいこと。
+j	軽堕	keida	侮り、怠ること。
+j	軽微	keibi	insignificant, trivial, s…
+j	軽愚	keigu	向こう見ずで愚かしいこと。
+j	軽打	keida	軽く打ったり叩いたりすること。
+j	軽機	keiki	
+j	軽気	keiki	gas lighter than air
+j	軽油	keiyu	diesel oil
+j	軽波	keiha	さざ波。
+j	軽科	keika	minor offense
+j	軽羅	keira	軽く薄い絹布。
+j	軽肥	keihi	軽裘肥馬。
+j	軽舸	keika	light boat
+j	軽装	keiso	簡単な包装にすること。
+j	軽過	keika	small mistake
+j	軽重	keiju	heavy and light
+j	軽音	keion	軽音楽のこと。
+j	軽風	keifu	風力2（1.6 m/sから3.3 m/s）の風。風…
+j	軽騎	keiki	
+j	遣戍	kenju	辺境に人を派遣し守備させること。
+j	遣送	kenso	遣わすこと。
+j	鈐縫	kenho	継ぎ目。
+j	鈐記	kenki	木製の印判。
+j	間数	kensu	間（約1.8メートル）を単位とした数。
+j	閨怨	keien	the lonesome feeling of a…
+j	閨房	keibo	寝室。
+j	閨閣	keiko	寝室。ねや。
+j	険固	kengo	険しい地形を利用し、守りが堅固なこと。また、そのよ…
+j	険巇	kengi	険しく危ういさま。
+j	険情	kenjo	邪心。
+j	険戯	kengi	険巇なさま。
+j	険相	kenso	険悪な顔の表情。また、そのようなさま。
+j	険要	kenyo	地形が険しく、守るのに都合が良いこと。そのさま。ま…
+j	険路	kenro	険しい道。
+j	険遠	kenen	険しく遠いさま。
+j	険隘	kenai	険しく狭いこと。また、そのような場所や様子。
+j	險要	kenyo	険要の旧字体表記。
+j	險路	kenro	険路の旧字体表記。
+j	鞬腰	kenyo	腰に束ねる飾り。
+j	頚部	keibu	頸部の異表記。
+j	頸部	keibu	neck
+j	顕否	kenpi	世に顕れることとそうでないこと。出世と不出世。
+j	顕揚	kenyo	世に名声などを顕し揚げること。
+j	顕栄	kenei	立身出世すること。また、そのようなさま。
+j	顕示	kenji	displaying clearly
+j	顕義	kengi	義を顕すこと。
+j	顕花	kenka	花を咲かせ、種子ができる植物である「顕花植物」の略。
+j	顕要	kenyo	地位が高貴で重要であること。
+j	顕貴	kenki	
+j	顕軌	kenki	高官の経歴。
+j	顕道	kendo	三段階の仏道修行で最初の段階。聖者の仲間入りをし、…
+j	顕露	kenro	外面にはっきりあらわれること。露見すること。
+j	顯揚	kenyo	顕揚の旧字体表記。
+j	顯要	kenyo	顕要の旧字体表記。
+j	顯露	kenro	顕露の旧字体表記。
+j	馨香	keiko	よい香り。芳香。
+j	験左	kensa	証拠。証左。しるし。
+j	騫義	kengi	義を欠くこと。
+j	鮭児	keiji	Immature fatty salmon. It…
+j	鶏盲	keimo	夜盲症。とりめ。
+j	鶏頭	keito	plumed cockscomb (Celosia…
+j	鹸化	kenka	saponification
+j	鹼化	kenka	エステルが加水分解によりアルカリ塩とアルコールに分…
+j	黔嬴	kenei	造化の神。
+j	黔竃	kenso	黔突。
+j	黔驢	kenro	黔州の驢馬。
+j	鼷鼠	keiso	はつかねずみ。
+k	커리	keori	curry
+k	커피	keopi	coffee, especially the be…
+k	케냐	kenya	Kenya (a country in Afric…
+k	케니아	kenia	Kenya (a country in Afric…
+k	케밥	kebap	kebab
+k	케빈	kebin	
+k	케톤	keton	ketone
+k	켈피	kelpi	
+k	크게	keuge	
+k	크기	keugi	size
+k	크다	keuda	to be big, large (both ph…
+k	크루	keuru	
+k	크리	keuri	critical hit
+k	크시	keusi	그리스어 알파벳의 열넷째 글자 이름, Ξ / …
+e	keeper	keeper	1 meaning
+e	kei car	keicar	1 meaning
+e	keirin	keirin	1 meaning
+e	kelpie	kelpie	2 meanings
+e	kelvin	kelvin	1 meaning
+e	kennel	kennel	1 meaning
+e	kerala	kerala	1 meaning
+e	kernel	kernel	3 meanings
+e	ketone	ketone	1 meaning
+e	kettle	kettle	1 meaning
+e	keynes	keynes	1 meaning
+e	keypad	keypad	1 meaning
+j	けあし	keashi	毛がのびて行くさま。
+j	けいぎん	keigin	軽銀: aluminium
+j	けいけい	keikei	鹿や犬、雉の鳴き声を表す語。
+j	けいけん	keiken	
+j	けいげい	keigei	経芸: academic study of the…
+j	けいさん	keisan	計算: calculation
+j	けいざい	keizai	
+j	けいしょう	keisho	警鐘: alarm bell, fire bell
+j	けいそん	keison	鮭鱒: salmons and trouts
+j	けいちょう	keicho	
+j	けいるい	keirui	係累: dependents, family ti…
+j	けがす	kegasu	きたなくする。
+j	けがれ	kegare	uncleanliness (non-physic…
+j	けがわ	kegawa	哺乳類の体毛がついたままの皮膚を鞣したもの。ファー。
+j	けけけ	kekeke	a soft cackle
+j	けこみ	kekomi	階段の段と段の間の床に垂直な部分。
+j	けさき	kesaki	毛の先端。
+j	けしん	keshin	化身: (Buddhist) incarnatio…
+j	けじめ	kejime	distinction
+j	けずね	kezune	毛深い臑。
+j	けずる	kezuru	刃物で物の表面を薄く削ぎ取る。
+j	けたば	ketaba	grouped strands of hair
+j	けだま	kedama	衣服に生じる、糸の一部が集まり、玉のようになった固…
+j	けっかい	kekkai	an old name for the loris…
+j	けっかん	kekkan	血管: blood vessel
+j	けっこん	kekkon	
+j	けっしゃ	kessha	結社: association, society
+j	けったい	kettai	strange, weird
+j	けども	kedomo	
+j	けなす	kenasu	相手の劣っている点を挙げて、悪く言う。ぼろくそに言…
+j	けなみ	kenami	（動物の）体毛が生えている状態。
+j	けぬき	kenuki	毛やとげを挟んで抜き取る道具。
+j	けのび	kenobi	両手をまっすぐ前へ伸ばし、伏し浮きをしながらプール…
+j	けばり	kebari	鳥の羽を巻き付け餌に見せかけた釣り針。
+j	けぶる	keburu	けむる。
+j	けぼり	kebori	carving in fine lines
+j	けまり	kemari	蹴鞠: kemari
+j	けむり	kemuri	ものを燃焼したときに、不完全燃焼の結果として生ずる…
+j	けむる	kemuru	煙りがたつ。
+j	けめる	kemeru	to steal
+j	けもの	kemono	体毛のある動物。多くは哺乳類に属す。
+j	けやき	keyaki	鳥獣の毛を毟った後の肌に残った小さい毛を火で焼くこ…
+j	けやぐ	keyagu	friend
+j	けらば	keraba	the eaves of a gable roof…
+j	けれど	keredo	（接続助詞、終助詞）けれども。
+j	けんえき	keneki	検疫: quarantine
+j	けんけん	kenken	hopping, jumping on one f…
+j	けんざい	kenzai	建材: building material
+j	けんし	kenshi	剣士: swordsman
+j	けんしゃ	kensha	
+j	けんらん	kenran	絢爛: beauty and luxury; go…
+j	ケアンズ	keanzu	Cairns (a city and port i…
+j	ケイタイ	keitai	
+j	ケインズ	keinzu	Keynes
+j	ケッテイ	kettei	雄馬と雌のロバの交雑種。
+j	ケナーフェ	kenafe	
+j	ケネス	kenesu	
+j	ケネディ	kenedi	Kennedy (English surname)
+j	ケバブ	kebabu	肉、魚、野菜などを焼いた中東やインドの料理の総称。
+j	ケプラー	kepura	
+j	ケモナー	kemona	furry (member of the furr…
+j	ケモノ	kemono	furry (animal character w…
+j	ケヤキ	keyaki	ニレ科ケヤキ属の落葉樹の総称。
+j	ケラヴァ	kerava	Kerava (a town and munici…
+j	ケルト	keruto	Celtic
+j	ケルピー	kerupi	kelpie
+j	ケレス	keresu	太陽系の小惑星の一つ。小惑星の中で一番初めに発見さ…
+j	ケレド	keredo	Kirishitan form of クレド: t…
+j	ケレース	keresu	Ceres
+j	ケンケン	kenken	the sound of a dog barkin…
+j	ケーキ屋	kekiya	cake shop
+j	ケージービー	kejibi	the KGB
+j	ケーブル	keburu	cable (a wire or rope)
+j	ケーララ	kerara	
+j	乾元	kengen	the Kengen era, 1302-1303
+j	乾坤	kenkon	the ䷀ (qian) and ䷁ (kun) …
+j	乾金	kenkin	乾字金。
+j	乾霊	kenrei	天の神。
+j	乾靈	kenrei	乾霊の旧字体表記。
+j	乾餅	kenpei	乾燥させた餅で調理前の柿餅。
+j	京兆	keicho	the chief administrator o…
+j	京師	keishi	都。帝都。
+j	京浜	keihin	The cities of Tokyo and Y…
+j	京阪	keihan	Kyoto and Osaka
+j	件件	kenken	あの件この件。
+j	件名	kenmei	entry name of a categoris…
+j	係恋	keiren	深く思い、恋慕すること。
+j	係留	keiryu	mooring
+j	係累	keirui	dependent (a person such …
+j	係船	keisen	mooring a ship
+j	倦勤	kenkin	勤めに倦むこと。
+j	倦怠	kentai	weariness
+j	倦憊	kenpai	飽き飽きして草臥れること。倦疲。
+j	倦眼	kengan	眼精疲労。
+j	倹勤	kenkin	勤倹。
+j	倹歳	kensai	凶年。
+j	倹簡	kenkan	質素。
+j	倹飩	kendon	江戸時代、お代わりのない盛切りのそば（うどん）など…
+j	健全	kenzen	healthy; sound
+j	健勝	kensho	healthy
+j	健啖	kentan	gluttony
+j	健嗣	kenshi	a male given name
+j	健在	kenzai	still alive and in good h…
+j	健士	kenshi	a male given name
+j	健将	kensho	勇将。
+j	健平	kenpei	a male given name
+j	健気	kenage	admirable, laudable
+j	健者	kensha	丈夫な人。
+j	健訟	kensho	訴訟を起こすのが好きなこと。
+j	傑士	kesshi	非常に優れた人物。傑物。
+j	傾城	keisei	a very beautiful woman (C…
+j	傾壊	keikai	建造物や組織などが傾き、壊れること。
+j	傾廃	keihai	建物、国家などが傾き、荒廃すること。
+j	傾性	keisei	植物が外界からの刺激の方向とは無関係に一定の方向に…
+j	傾斜	keisha	a slant, slope (slope or …
+j	傾注	keichu	devoting oneself to a tas…
+j	傾聴	keicho	listening carefully, acti…
+j	傾蓋	keigai	偶然会うこと。
+j	傾頓	keiton	横倒し。横転。
+j	儆励	keirei	励ますこと。
+j	儆戒	keikai	「警戒」の別表記。用心すること。「儆」も「戒」も「…
+j	儇才	kensai	才知があること。
+j	兄妹	keimai	elder brother and younger…
+j	兄姉	keishi	elder brothers and sister…
+j	兼任	kennin	serving in two dual capac…
+j	兼勤	kenkin	another post or job in ad…
+j	兼官	kenkan	本務の官職以外に他の官職を兼務すること。懸官。
+j	兼帯	kentai	一人で二つ以上の職を兼ねること。兼任。
+j	兼採	kensai	複数の説や意見の中の良いところを合わせて取り入れる…
+j	兼業	kengyo	a side business, sideline
+j	兼治	kenchi	二つ以上の土地を兼ね治めること。兼轄。
+j	兼済	kensai	民を広く平等に救済すること。
+j	兼程	kentei	一日で二日分の道程を進むこと。兼行。
+j	兼管	kenkan	兼轄。
+j	兼采	kensai	複数の説や意見の中の良いところを合わせて取り入れる…
+j	兼金	kenkin	良質な金。
+j	兼銜	kengan	兼任。
+j	兼領	kenryo	二ヶ所以上を兼ねて領有すること。
+j	兼題	kendai	歌会、句会などで事前に出しておく題。
+j	刑典	keiten	刑罰の法律についてしるされた書物。
+j	刑天	keiten	Xingtian, the deity who f…
+j	刑屍	keishi	処刑された者の屍。
+j	刑政	keisei	刑罰と政治。
+j	刑死	keishi	処刑されたことにより死ぬこと。
+j	刑残	keizan	刑罰により身体を傷付けること。
+j	刑罪	keizai	刑罰と罪。
+j	刑讞	keigen	判決。
+j	刑賞	keisho	刑罰と恩賞。
+j	刑黥	keigei	入れ墨を施す刑。
+j	券剤	kenzai	証書。
+j	券契	kenkei	手形、割符、地券などの総称。証文。
+j	削る	kezuru	to shave; to plane
+j	剣函	kenkan	剣匣。
+j	剣削	kensho	刀の鞘。
+j	剣匠	kensho	刀鍛冶。
+j	剣呑	kennon	risky, dangerous
+j	剣士	kenshi	swordsman
+j	剣環	kenkan	刀環。
+j	剣聖	kensei	剣術に優れ、その奥義を極めた者。
+j	剣舞	kenbai	various folk dance types …
+j	剣難	kennan	刃物で殺傷される災難。
+j	剣鞘	kensho	刀の鞘。
+j	剣首	kenshu	剣の柄頭。
+j	勁健	keiken	強く健やかなこと。また、そのようなさま。
+j	勁厲	keirei	強く激しいさま。
+j	勁弓	keikyu	弦を強く張った弓。
+j	勁悍	keikan	強く、荒々しいこと。また、そのようなさま。
+j	化身	keshin	one of the three trikāya:…
+j	卦算	keisan	文鎮。
+j	卿礼	keirei	公卿の礼。
+j	啓典	keiten	唯一神の啓示について記した書物。
+j	啓司	keishi	a male given name
+j	啓培	keibai	知識を与え、導き養うこと。
+j	啓視	keishi	a male given name
+j	啓開	keikai	切り開くこと。
+j	啓龕	keigan	厨子の扉を開き、中に納められている仏像を参拝させる…
+j	喧伝	kenden	世に広く言い囃すこと。
+j	喧喧	kenken	喧しいさま。騒がしいさま。
+j	喧訟	kensho	競って騒ぎ立てること。
+j	喧闐	kenten	どよめき。
+j	嘒唳	keirei	蝉の鳴き声。
+j	嘒嘒	keikei	蝉が忙しく鳴くさま。
+j	噞喁	kengyo	魚が水面に口を出して息をすること。あぎとうこと。
+j	圏内	kennai	within an area; within a …
+j	圏外	kengai	out of range; outside of …
+j	圏守	kenshu	周囲を囲み、守ること。
+j	圏檻	kenkan	檻。
+j	圏点	kenten	synonym of 半濁点 (handakute…
+j	圏留	kenryu	拘留。
+j	圏禁	kenkin	拘束。
+j	圏論	kenron	category theory
+j	圏豚	kenton	摺り足すること。
+j	圏転	kenten	巡ること。
+j	圭冠	keikan	古い時代の烏帽子に似たかぶりものの一種。
+j	圭算	keisan	文鎮。
+j	型射	keisha	
+j	堅久	kenkyu	長持ち。
+j	堅勝	kensho	健勝
+j	堅厉	kenrei	堅厲の略字体を用いた表記。
+j	堅厲	kenrei	鋭利。
+j	堅塞	kensai	（けんさい）守りが堅固な要塞。
+j	堅強	kenkyo	堅くて丈夫な様。
+j	堅忍	kennin	我慢強く堪えること。
+j	堅材	kenzai	丈夫な材料。
+j	堅砦	kensai	守備が堅固なとりで。
+j	堅紙	kenshi	紙質が硬く、表面が平滑な紙。
+j	堅緊	kenkin	引き締まること。
+j	堅艦	kenkan	堅固な軍艦。
+j	堅良	kenryo	堅牢な車と良馬。
+j	堅調	kencho	sturdy; steady
+j	堅陣	kenjin	守備が堅固な陣営。
+j	境内	keidai	premises, grounds, especi…
+j	壎篪	kenchi	土笛と竹笛。
+j	契券	keiken	契約の証書。
+j	契文	keimon	手形。証文。
+j	奚琴	keikin	xiqin
+j	妍麗	kenrei	秀麗。
+j	姸唱	kensho	艶やかな曲。
+j	姸妝	kensho	美しい装い。
+j	姸捷	kensho	美しく早いはま。
+j	姸智	kenchi	小賢しいこと。姸黠。
+j	姸笑	kensho	艶やかに笑うこと。
+j	娟娟	kenken	美しく、清らかなさま。
+j	娟麗	kenrei	妍麗の異表記。
+j	嫌中	kenchu	anti-Chinese xenophobia
+j	嫌儲	kencho	hatred of the act of maki…
+j	嫌慢	kenman	侮ること。
+j	嫌猜	kensai	疑うこと。
+j	嫌米	kenbei	日本人によるゼノフォビアの感情のうち、特にアメリカ…
+j	嫌釁	kenkin	仲違い。
+j	嫌韓	kenkan	anti-Korean xenophobia
+j	家司	keishi	律令制で親王、内親王、摂関家、大臣、三位以上の家に…
+j	屐子	keishi	下駄や足駄などの履き物。
+j	嶮嶺	kenrei	険嶺の異表記。
+j	嶮艱	kenkan	険艱の異表記。
+j	嶮難	kennan	危険なこと。
+j	巻幔	kenman	幕を巻くこと。
+j	巻簾	kenren	簾を巻き上げること。
+j	巻臠	kenren	手足が引き攣る病。
+j	巻鬚	kenshu	植物のまきひげ。
+j	幵零	kenrei	野鳧。
+j	建久	kenkyu	the Kenkyū era, 1190-1199
+j	建仁	kennin	the Kennin era, 1201-1204
+j	建儲	kencho	立太子すること。
+j	建元	kengen	（新たに）元号を定めること。
+j	建勲	kenkun	勲功を立てること。
+j	建材	kenzai	building material, constr…
+j	建艦	kenkan	艦船を建造すること。
+j	建言	kengen	（役所などに）意見を申し立てること。また、その意見。
+j	建軍	kengun	軍隊を編制すること。
+j	建長	kencho	the Kenchō era, 1249-1256
+j	建首	kenshu	部首を立てること。
+j	形勝	keisho	scenic beauty
+j	形勢	keisei	condition, situation, pro…
+j	形声	keisei	One of the types of Han c…
+j	形態	keitai	form; shape
+j	形成	keisei	formation
+j	形残	keizan	首の無い神。
+j	形象	keisho	表に現れている形。
+j	形骸	keigai	ruin, wreck
+j	径材	keizai	径方向に使用する材。
+j	径級	keikyu	原木（丸太）の直径による等級。
+j	径蹊	keikei	蹊径。小道。
+j	径間	keikan	さしわたしの距離。
+j	恵言	keigen	御世辞。お上手。
+j	恵賜	keishi	目下の者に金品を与えること。また、目上から頂くこと。
+j	惠州	keishu	
+j	惸惸	keikei	孤独なさま。
+j	愆令	kenrei	惨い掟。
+j	愆咎	kenkyu	咎め。
+j	愆戻	kenrei	過失。
+j	愆罪	kenzai	罪過。
+j	愆釁	kenkin	嫌釁の異表記。
+j	慊款	kenkan	誠意。
+j	慧眼	keigan	discerning
+j	慳貪	kendon	欲が深くけちなこと。
+j	慶典	keiten	めでたい典礼。
+j	慶唁	keigen	慶弔。
+j	慶弔	keicho	congratulations and condo…
+j	慶長	keicho	the Keichō era, 1596–1615
+j	憲令	kenrei	国の法令。
+j	憲兵	kenpei	military police
+j	憲典	kenten	憲法。
+j	憲史	kenshi	a male given name
+j	憲天	kenten	最上官。
+j	憲政	kensei	constitutional government
+j	憲章	kensho	charter
+j	懸命	kenmei	with all one's might
+j	懸垂	kensui	suspension, hanging
+j	懸守	kenshu	孤立して守ること。
+j	懸官	kenkan	兼官の異表記。
+j	懸崖	kengai	cliff
+j	懸料	kenryo	憶測すること。
+j	懸殊	kenshu	甚だ異なるさま。懸異。
+j	懸流	kenryu	滝。
+j	懸瀬	kenrai	滝。
+j	懸珠	kenshu	珠のように美しく輝くこと。また、そのようなまなざし。
+j	懸簾	kenren	簾。
+j	懸賞	kensho	prize contest
+j	懸軍	kengun	後方からの連絡も入らず、遠方の敵陣深く入り込むこと。
+j	懸金	kenkin	懸賞。
+j	懸鐘	kensho	釣鐘。
+j	懸首	kenshu	首を晒すこと。梟首。
+j	拳参	kenjin	rhizomes of Bistorta offi…
+j	拳士	kenshi	a male given name
+j	拳大	kendai	握り拳程度の大きさ。
+j	拳拳	kenken	固く握り離さないさま。
+j	拳攣	kenren	眷恋の異表記。
+j	拳菜	kensai	蕨。
+j	捲地	kenchi	捲土。
+j	捲簾	kenren	巻簾の異表記。
+j	捲裳	kensho	裳を掲げること。
+j	掛冠	keikan	官職を辞職すること。
+j	掲厲	keirei	川を歩いて渡ること。また、歩いて渡れる場所。
+j	掲載	keisai	publication in a magazine…
+j	搴取	kenshu	摘み取ること。
+j	搴手	kenshu	旗手。
+j	搴裳	kensho	裳の裾をからげること。
+j	搴采	kensai	採取すること。
+j	携帯	keitai	holding
+j	携挙	keikyo	
+j	携番	keiban	
+j	撿勘	kenkan	吟味。
+j	撿書	kensho	校正。
+j	撿点	kenten	検点の異表記。
+j	撿田	kenden	検田の異表記。
+j	撿點	kenten	撿点の旧字体表記。
+j	敬仰	keigyo	敬い仰ぐこと。
+j	敬体	keitai	polite form, in which sen…
+j	敬恭	keikyo	敬い、謹しむこと。
+j	敬承	keisho	謹んで承ること。
+j	敬拝	keihai	敬い、拝礼すること。
+j	敬礼	keirei	a salute
+j	敬禮	keirei	
+j	敬称	keisho	respectful address
+j	敬虔	keiken	devout; pious
+j	敬重	keicho	尊敬して大切にすること。
+j	景勝	keisho	picturesque scenery
+j	景品	keihin	extra freebie that comes …
+j	景教	keikyo	ネストリウス派が唐代の中国に伝わった際の呼称。
+j	景星	keisei	めでたいことの兆しとされる星。
+j	景況	keikyo	business climate; busines…
+j	景致	keichi	scenery, scene, view
+j	景観	keikan	scenery
+j	景觀	keikan	
+j	景邁	keimai	暮れること。
+j	暄寒	kenkan	寒温。寒暄。
+j	暄暖	kendan	日の光が暖かいこと。また、そのようなさま。
+j	暄涼	kenryo	寒温。
+j	桁数	ketasu	ある数に含まれる数字の数。
+j	桂冠	keikan	a crown of laurel leaves
+j	桂林	keirin	Guilin (a city in the Gua…
+j	桂枝	keishi	dried young twigs of Cinn…
+j	桂芝	keishi	霊芝の別称。万年茸。
+j	検体	kentai	検査や分析の対象となるもの。
+j	検便	kenben	寄生虫の検査などのため便を調べること。
+j	検勘	kenkan	調べること。
+j	検卵	kenran	人工孵化中の卵に無精卵や孵化が止まった卵などがない…
+j	検収	kenshu	納入品の種類や数量を点検して受け取ること。
+j	検品	kenpin	物品、製品を検査すること。
+j	検問	kenmon	check
+j	検地	kenchi	豊臣氏、徳川氏が行った田畑の面積や境界、石高などを…
+j	検定	kentei	qualification examinations
+j	検尿	kennyo	urinalysis
+j	検挙	kenkyo	arrest
+j	検断	kendan	事の理非を調査し、断罪すること。
+j	検曬	kensai	虫干しすること。
+j	検校	kengyo	carefully examining and c…
+j	検梅	kenbai	sexually transmitted infe…
+j	検死	kenshi	autopsy
+j	検注	kenchu	日本の中世で国司や荘園や在地の領主が領内の徴税の基…
+j	検点	kenten	点検。
+j	検田	kenden	田の面積、質などを検査すること。検注。
+j	検番	kenban	見張りの番。
+j	検疫	keneki	quarantine
+j	検痰	kentan	痰を検査して細菌などを調べること。
+j	検眼	kengan	視力を調べること。
+j	検知	kenchi	detection
+j	検究	kenkyu	研究の異表記。
+j	検窮	kenkyu	研究の異表記。
+j	検算	kenzan	verification of a calcula…
+j	検視	kenshi	forensic autopsy
+j	検証	kensho	verification
+j	検認	kennin	検査の上、確認、認定すること。
+j	検車	kensha	車両を検査すること。
+j	検鏡	kenkyo	顕微鏡で検査すること。
+j	検電	kenden	電気的状態を調べること。
+j	検黴	kenbai	梅毒の感染の有無を検査すること。
+j	楔子	kesshi	くさび。
+j	権典	kenten	暫定法。
+j	権勢	kensei	power
+j	権原	kengen	ある行為をすることを正当とする法律上の原因。
+j	権官	kenkan	【けんかん】顕官の異表記。
+j	権益	keneki	interests
+j	権称	kensho	はかり。
+j	権量	kenryo	権衡と度量。
+j	権門	kenmon	family with great influen…
+j	権限	kengen	authority, jurisdiction
+j	権首	kenshu	首謀。
+j	檢證	kensho	
+j	欅	keyaki	zelkova (Zelkova serrata)
+j	欠債	kensai	負債。
+j	欠勤	kekkin	absence (from work or dut…
+j	欠品	keppin	商品が陳列棚、在庫にないこと。また、そのようなもの。
+j	欠少	kensho	少なくなること。また、そのようなさま。不足。
+j	欠損	kesson	loss, deficit
+j	欠本	keppon	missing volumes
+j	欠点	ketten	something that detracts f…
+j	欠陥	kekkan	defect
+j	欠須	kenshu	呼吸。
+j	歉歳	kensai	凶年。
+j	毛ローラー	kerora	
+j	毛先	kesaki	hair tip, end of a strand…
+j	毛染め	kezome	
+j	毛玉	kedama	pill (ball of fibers)
+j	毛皮	kegawa	fur, pelt
+j	毛蟹	kegani	a horsehair crab
+j	毛針	kebari	artificial fishing fly
+j	決勝	kessho	final
+j	決壊	kekkai	collapse
+j	決定	kettei	decision
+j	決志	kesshi	志を決定すること。決意。決心。
+j	決意	ketsui	personal determination, r…
+j	決戦	kessen	a final battle, a showdown
+j	決死	kesshi	ready to die
+j	決済	kessai	settlement of payment
+j	決算	kessan	settlement of accounts
+j	決選	kessen	上位の得票者から更に選び出すこと。
+j	消せる	keseru	
+j	涓流	kenryu	小さな沢。
+j	涓涓	kenken	水が細く流れるさま。
+j	涓溜	kenryu	滴り。
+j	渓山	keizan	渓谷と谷。
+j	渓水	keisui	water of a mountain stream
+j	渓流	keiryu	mountain stream
+j	渓澗	keikan	渓谷。谷川。
+j	渓間	keikan	谷間。谷あい。
+j	滎回	keikai	わずかな水が流れるように巡行すること。
+j	炯戒	keikai	強く訓戒すること。厳戒すること。
+j	炯炯	keikei	bright; sparkling
+j	炯眼	keigan	perceptive, insightful
+j	烱烱	keikei	「炯炯」の異形。
+j	烱誡	keikai	強く訓誡すること。厳戒すること。
+j	煙	kemuri	smoke
+j	煙る	kemuru	smoke
+j	煢煢	keikei	孤独で寂しいさま。
+j	熒熒	keikei	（僅かに）光るさま。
+j	熒眩	keigen	眩惑すること。
+j	牽制	kensei	restraint, a check
+j	牽及	kenkyu	牽連。
+j	牽吟	kengin	詩興。
+j	牽強	kenkyo	道理に合わないことを無理にこじつけること。
+j	牽攣	kenren	関係。
+j	牽渉	kensho	連累すること。
+j	牽牛	kengyu	牽牛星の略称。
+j	牽留	kenryu	牽き留め。
+j	牽綵	kensai	門で新婦を出迎えた新郎が新婦の錦の両端を持ち、家に…
+j	牽纏	kenten	纏い付くこと。
+j	牽聯	kenren	牽連の異表記。
+j	牽連	kenren	牽かれ繫がること。ある関係によって繫がること。
+j	犍牛	kengyu	去勢された牛。
+j	犬吠	kenbai	the barking of a dog, or …
+j	犬歯	kenshi	canine tooth, cuspid
+j	犬種	kenshu	dog breed
+j	犬舎	kensha	kennel, doghouse
+j	犬豚	kenton	犬と豚。
+j	狷介	kenkai	強情で自分の考えを押し通すこと。他者と打ち解けない…
+j	狷厉	kenrei	狷厲の略字体を用いた表記。
+j	狷厲	kenrei	短気で容赦ないこと。そのさま。
+j	狷急	kenkyu	気が短いこと。そのさま。
+j	狷戻	kenrei	心狭く、悖ること。
+j	献体	kentai	本人の意思により、その死後に遺体を研究などに使用す…
+j	献勤	kenkin	媚びること。
+j	献呈	kentei	物をあげること。
+j	献書	kensho	書物を献上すること。
+j	献本	kenpon	書籍を進呈すること。また、その書籍。
+j	献歳	kensai	新年。
+j	献民	kenmin	賢明な家臣。
+j	献眼	kengan	アイバンクに登録し自分の死後に眼（角膜）を提供する…
+j	献礼	kenrei	供え物。
+j	献祭	kensai	供養すること。
+j	献笑	kensho	笑い種。
+j	献芹	kenkin	献上するときの謙辞。
+j	献觴	kensho	献杯すること。
+j	献言	kengen	上に意見を申し上げること。
+j	献詞	kenshi	dedication (words dedicat…
+j	献酒	kenshu	献杯すること。
+j	献酬	kenshu	宴会で盃を互いに交わすこと。
+j	献金	kenkin	donation
+j	献題	kendai	synonym of 献詞 (kenshi, “d…
+j	獧捷	kensho	敏捷なこと。また、そのようなさま。
+j	獧給	kenkyu	敏捷。
+j	獻禮	kenrei	献礼の旧字体表記。
+j	玄師	kenshi	a male given name
+j	珪岩	keigan	quartzite
+j	珪肺	keihai	silicosis
+j	珪酸	keisan	silicic acid
+j	瓊台	keidai	玉のような高楼、御殿。
+j	瓊姿	keishi	玉のように美しい容姿。
+j	瓊弁	keiben	美玉で装飾された弁冠。
+j	瓊枝	keishi	玉で飾ったように美しい枝。
+j	甄奨	kensho	挙用すること。
+j	甄官	kenkan	塼瓦を司る官。
+j	甄采	kensai	挙用すること。
+j	畎流	kenryu	田に注ぐこと。
+j	痙性	keisei	中枢神経の損傷により筋肉が持続的に緊張して硬くなっ…
+j	痙攣	keiren	convulsion, spasm, cramp,…
+j	県久	kenkyu	久しいこと。
+j	県人	kenjin	person or people from a c…
+j	県令	kenrei	県の長官。
+j	県会	kenkai	地方自治法施行以前、地方公共団体の県における議決機…
+j	県伝	kenden	駅伝。
+j	県債	kensai	県の債務。
+j	県内	kennai	the inside of prefecture …
+j	県勢	kensei	県の情勢。
+j	県南	kennan	県の南部の地域。
+j	県史	kenshi	県の歴史。また、それをまとめた書物。
+j	県外	kengai	outside of the prefecture
+j	県大	kendai	「県立大学」の略。
+j	県官	kenkan	県の役人。県吏。
+j	県宰	kensai	県の長官。
+j	県庁	kencho	prefectural office
+j	県政	kensei	県の政治、行政。
+j	県殊	kenshu	掛け離れること。県絶。
+j	県民	kenmin	citizens of a prefecture
+j	県流	kenryu	懸流の異表記。
+j	県社	kensha	かつて国が定めた社格制度で国幣社の下、郷社の上の神…
+j	県税	kenzei	地方税のうち県が賦課、徴収するもの。
+j	県紙	kenshi	一つの県を対象として発行され、全県で販売・配達され…
+j	県聯	kenren	柱聯。
+j	県蝶	kencho	県を代表するものとして選定された蝶。
+j	県西	kensei	県の西部の地域。
+j	県警	kenkei	prefectural police
+j	県賞	kensho	懸賞。
+j	県軍	kengun	遠くで作戦をすること。
+j	県連	kenren	県内の連合組織。
+j	県鐘	kensho	鐘を懸けること。
+j	県首	kenshu	首を懸けること。梟首。
+j	県魚	kengyo	県（都道府県）を代表（象徴）するものとして選定され…
+j	県鳥	kencho	県を代表するものとして選定された鳥。
+j	眩性	kensho	（仏教）妄想・無明・煩悩・欲望などに眩み、本性（本…
+j	眴渙	kenkan	鮮やか。
+j	眴転	kenten	目が眩むこと。
+j	眷佇	kencho	顧みて思うこと。
+j	眷恋	kenren	恋焦がれること。そのさま。
+j	眷憐	kenren	眷恋の異表記。
+j	眷戀	kenren	眷恋の旧字体表記。
+j	眷求	kenkyu	求めること。
+j	眷留	kenryu	慰留。
+j	眷眷	kenken	常に心に思うさま。
+j	睽乖	keikai	averting one's gaze
+j	研之	kenshi	a male given name
+j	研修	kenshu	work-related, in-service …
+j	研勘	kenkan	検勘の異表記。
+j	研尋	kenjin	研鑽。研究。
+j	研田	kenden	硯田の異表記。
+j	研究	kenkyu	a piece of research, a st…
+j	研窮	kenkyu	研究の異表記。
+j	研練	kenren	練磨。
+j	研鑽	kensan	hard (academic) study
+j	硏練	kenren	研練の旧字体表記。
+j	硯材	kenzai	硯の製造に使う石材。
+j	硯水	kensui	（けんすい）硯の水。
+j	硯池	kenchi	硯で墨汁を溜める部分。
+j	硯海	kenkai	硯で墨汁を溜める部分。
+j	硯田	kenden	文筆で生計を立てること。
+j	穴位	ketsui	pressure points; vital po…
+j	穴居	kekkyo	cave dwelling
+j	競豚	keiton	豚のレース。
+j	競輪	keirin	keirin
+j	笄礼	keirei	女子の成年の礼。
+j	筓礼	keirei	女子の成年の礼。
+j	経世	keisei	世を治めること。
+j	経伺	keishi	伺いを立てること。
+j	経史	keishi	経書と史書。
+j	経回	keikai	滞在。
+j	経大	keidai	経済大学、経営大学の略。
+j	経始	keishi	土地を測量し、工事に着手すること。
+j	経年	keinen	歳月を経ること。
+j	経書	keisho	儒教の基本的な教えの記した書物。四書、五経、十三経…
+j	経死	keishi	首を吊って死ぬこと。縊死。
+j	経水	keisui	menstruation, period
+j	経済	keizai	economics; the study of e…
+j	経礼	keirei	大礼。
+j	経綸	keirin	国家を整備し統治すること。また、その方策。
+j	経線	keisen	a meridian, a longitude (…
+j	経芸	keigei	経書に関する学問。
+j	経験	keiken	experience (an experience…
+j	結使	kesshi	煩悩。
+j	結婚	kekkon	marriage
+j	結成	kessei	organization, formation
+j	結撰	kessen	文章に纏めること。
+j	結晶	kessho	crystal
+j	結球	kekkyu	成長した植物の葉が重なりあって球状になること。また…
+j	結界	kekkai	restricted access to a sp…
+j	結社	kessha	association; society (gro…
+j	結経	kekkyo	本編の経典の教えの要旨として結びの経典。
+j	結線	kessen	電気回路でそれぞれの部品を接続し、回路を構成する配…
+j	結締	kettei	結び、締めること。締結すること。
+j	結腸	ketcho	colon
+j	結隊	kettai	部隊を結成すること。
+j	結集	kesshu	gathering
+j	絢煥	kenkan	輝くほど美しいこと。そのさま。
+j	絢爛	kenran	splendid, gorgeous, dazzl…
+j	絢練	kenren	迅速。
+j	絢采	kensai	文彩。
+j	絹本	kenpon	絹布の地に書かれた書画や文書。
+j	絹紬	kenchu	柞蚕糸で織られた薄地の織物。
+j	經綸	keirin	
+j	継代	keidai	現在培養している細胞や細菌などの一部を別の新しい培…
+j	継嗣	keishi	跡取り。後継ぎ。世継ぎ。
+j	継妻	keisai	後添いの女性の配偶者。後妻。継室。
+j	継子	keishi	stepchild
+j	継承	keisho	succession, accession, in…
+j	継業	keigyo	事業を継ぐこと。
+j	継紹	keisho	先人の事業などを受け継ぐこと。
+j	縑巾	kenkin	絹製の頭巾。
+j	縑楮	kencho	紙。
+j	縑簡	kenkan	書冊。
+j	縑紈	kengan	縑素。
+j	縑綵	kensai	綾絹。
+j	縑綾	kenryo	綾。
+j	縑緗	kensho	浅黄の薄絹。
+j	縑練	kenren	練絹。
+j	縣令	kenrei	県令の旧字体表記。
+j	縣傳	kenden	県伝の旧字体表記。
+j	縣流	kenryu	県流の旧字体表記。
+j	縣聯	kenren	県聯の旧字体表記。
+j	縣連	kenren	県連の旧字体表記。
+j	繋書	keisho	手紙を何かに結び付けること。
+j	繋舷	keigen	船を繋ぐこと。
+j	繫留	keiryu	（船などを）繫ぎ止めること。
+j	繫舷	keigen	船を繋ぐこと。
+j	繫船	keisen	船を繫ぎとめること。
+j	繭税	kenzei	養蚕に賦課される租税。
+j	繭紬	kenchu	柞蚕糸で織られた薄地の織物。
+j	缺点	ketten	欠点の異表記。
+j	罫書く	kegaku	(他動詞, 製造業) 工作などのために、物体の表面…
+j	罫紙	keishi	罫が引かれた紙。罫引き紙。界紙。
+j	罫線	keisen	rule (line in a document)
+j	肩承	kensho	担当すること。
+j	肩牆	kensho	野戦で味方の砲手、砲車を掩護するために構築される土…
+j	肩章	kensho	epaulet (shoulder decorat…
+j	肩輦	kenren	手車。
+j	肩随	kenzui	肩を並べすぐ後に従うこと。
+j	腱鞘	kensho	tendon sheath
+j	茎菜	keisai	主に茎を食用とする野菜。
+j	荆冠	keikan	いばらの冠。特に、キリストが十字架にかけられた際に…
+j	荆妻	keisai	自分の妻。
+j	荊冠	keikan	いばらの冠。特にキリストが十字架にかけられた際にか…
+j	荊妻	keisai	自分の妻。
+j	荊州	keishu	Jingzhou (a city in Hubei…
+j	荊芥	keigai	Schizonepeta tenuifolia
+j	荊門	keimon	荊で作られた門。またみすぼらしく、もの悲しい門や家。
+j	虔劉	kenryu	殺すこと。
+j	虔勤	kenkin	勤しむこと。
+j	虔竦	kensho	敬畏すること。
+j	虔謹	kenkin	虔祗。恭敬。
+j	血中	ketchu	体内を流れる血液の中。
+j	血判	keppan	stamping of an oath with …
+j	血塊	kekkai	blood clot; thrombus
+j	血戦	kessen	血みどろになり激しく戦うこと。また、その戦い。
+j	血斑	keppan	blood spot
+j	血栓	kessen	thrombus
+j	血清	kessei	serum (yellowish fluid ob…
+j	血漿	kessho	blood plasma
+j	血炭	kettan	獣類の血液に炭酸ナトリウムを加えて乾溜した活性炭。
+j	血球	kekkyu	a blood cell
+j	血痕	kekkon	bloodstain
+j	血痰	kettan	血液が混じった痰。
+j	血管	kekkan	blood vessel
+j	血胸	kekkyo	
+j	血腫	kesshu	hematoma
+j	褰裳	kensho	裳の裾をからげること。
+j	見台	kendai	書物や邦楽の譜面などをのせて、見るための台。多くは…
+j	見地	kenchi	point of view, angle (vie…
+j	見小	kensho	見識が狭いこと。また、そのようなさま。
+j	見番	kenban	見張りの番。
+j	見竜	kenryo	竜が地上に出ること。
+j	見聞	kenbun	looking and listening, se…
+j	見解	kenkai	opinion
+j	見龍	kenryo	竜が地上に出ること。
+j	計会	keikai	照合。
+j	計算	keisan	calculation
+j	計量	keiryo	measurement; computation
+j	諠伝	kenden	喧伝の異表記。
+j	諠闐	kenten	喧闐の異表記。
+j	謇諫	kenkan	直諫。
+j	謙巽	kenson	謙遜すること。
+j	謙廉	kenren	謙虚で廉潔なこと。そのさま。
+j	謙損	kenson	へりくだり、退くこと。また、そのようなさま。謙退。
+j	謙虚	kenkyo	modest
+j	謙虛	kenkyo	modest
+j	謙謹	kenkin	謙恭。恭謙。
+j	謙退	kentai	へりくだるさま。謙遜。謙譲。
+j	謙遜	kenson	humility
+j	謦欬	keigai	「謦咳」の別表記。
+j	譎諫	kekkan	遠回しにいさめること。直言を避けて忠告すること。
+j	警世	keisei	世間の人々に警告を発すること。
+j	警守	keishu	守り警戒すること。また、その人。
+j	警官	keikan	police officer
+j	警急	keikyu	警戒が必要となる緊急の事件。
+j	警戒	keikai	caution
+j	警手	keishu	踏切などで事故防止のためにあたる鉄道職員。
+j	警政	keisei	警察に関する行政。
+j	警視	keishi	a superintendent (police …
+j	警醒	keisei	人の迷いを醒まし注意を促すこと。
+j	警鐘	keisho	alarm bell, firebell
+j	谿澗	keikan	渓谷。谷川。
+j	谿間	keikan	谷間。谷あい。
+j	貶す	kenasu	to speak lowly of; to spe…
+j	賢主	kenshu	賢明な君主。
+j	賢人	kenjin	wise man
+j	賢令	kenrei	良い長官。
+j	賢伝	kenden	賢者伝説。
+j	賢兄	kenkei	他人の兄に対する尊敬語。
+j	賢勝	kensho	賢俊。
+j	賢君	kenkun	賢明で優れた君主。
+j	賢哉	kensai	あることが賢明であることを褒め称える語。
+j	賢士	kenshi	person of virtue and abil…
+j	賢妻	kensai	wise wife; a wife who is …
+j	賢宰	kensai	賢明な宰相。賢相。
+j	賢弟	kentei	賢明なおとうと。
+j	賢所	kensho	皇居のうち、三種の神器の一である八咫鏡を祀る場所。
+j	賢才	kensai	賢明な優れた才知。
+j	賢明	kenmei	wise, clever
+j	賢智	kenchi	「賢知」を参照。
+j	賢材	kenzai	才知の優れた人。
+j	賢相	kensho	賢明な宰相。
+j	賢知	kenchi	賢明で智恵があること。また、そのような人。
+j	賢肖	kensho	賢いことと愚かなこと。賢愚。
+j	賢良	kenryo	賢明で善良なこと。また、そのようなさま。
+j	賢覧	kenran	その人が見ること。
+j	賢酒	kenshu	濁酒の異称。
+j	賢関	kenkan	賢路。
+j	蹇裳	kensho	褰裳すること。
+j	蹇蹇	kenken	忠貞なさま。
+j	蹇連	kenren	躓き、行き悩むこと。蹇頓。連蹇。
+j	蹇難	kennan	躓き、行くのに悩むこと。
+j	蹇頓	kenton	躓き、行くのに悩むこと。
+j	蹊径	keikei	径蹊。小道。
+j	蹴鞠	kemari	kemari, literally 'kickba…
+j	軒岸	kengan	威厳のあること。そのさま。
+j	軒敞	kensho	高敞なこと。また、そのようなさま。
+j	軒朱	kenshu	朱軒。
+j	軒檻	kenkan	欄干。
+j	軒溜	kenryu	雨垂れ。
+j	軒輊	kenchi	軽重。優劣。
+j	軽便	keiben	手軽に扱えて便利なこと。
+j	軽傷	keisho	minor injury
+j	軽妙	keimyo	witty, lambent, clever
+j	軽寒	keikan	うすら寒いこと。
+j	軽快	keikai	light, nimble
+j	軽捷	keisho	身軽で素早い様子。
+j	軽水	keisui	light water
+j	軽減	keigen	reduction; alleviation, e…
+j	軽症	keisho	minor illness
+j	軽罪	keizai	a minor offense; a misdem…
+j	軽裘	keikyu	軽くて暖かい皮の衣服。また、それを着るような裕福な人
+j	軽視	keishi	belittlement, despisal, d…
+j	軽賎	keisen	くだらないこと。つまらないこと。
+j	軽賤	keisen	valueless, worthless
+j	軽軒	keiken	軽快な車。
+j	軽軽	keikei	慎重さを欠くさま。かるがるしいさま。
+j	軽輩	keihai	地位が低い者。身分が卑しい者。
+j	軽量	keiryo	lightweight
+j	軽銀	keigin	aluminium
+j	輕銀	keigin	
+j	逕庭	keitei	大きな隔たり。
+j	遣奠	kenten	出棺の儀。
+j	遣還	kenkan	送還。
+j	醯鶏	keikei	甕の中にすむという小さな虫。
+j	鈐章	kensho	捺印すること。
+j	鉗噤	kenkin	口を塞ぐこと。
+j	鍵盤	kenban	keyboard (a part of instr…
+j	鍵閉	kenhei	戸を閉めておく金具。
+j	鍵関	kenkan	関鍵。
+j	閨門	keimon	寝室の入り口の戸。
+j	闕廷	kettei	宮中。禁裏。
+j	闕所	kessho	judicial confiscation of …
+j	険呑	kennon	
+j	険塞	kensai	敵方が攻めにくく、守備に都合のよい険しい地にある要…
+j	険峭	kensho	険しいさま。
+j	険嶺	kenrei	高く険しい嶺。
+j	険悪	kenaku	sharp (offensive, critica…
+j	険所	kensho	険しい場所。
+j	険粧	kensho	奇服。
+j	険艱	kenkan	斜面などが険しく、登攀が困難なこと。
+j	険釁	kenkin	困難で不幸なこと。
+j	険難	kennon	危険と感じること。また、そのようなさま。
+j	險嶺	kenrei	険嶺の旧字体表記。
+j	頃匡	keikyo	「頃筐」の異表記。
+j	頃来	keirai	最近。この頃。近頃。
+j	頃歳	keisai	この年頃。近年。最近。
+j	頃筐	keikyo	後ろが高く、前が低いかご。上側の縁が斜めになったか…
+j	頸盭	keirei	ねじってある方向へ向けること。
+j	頸筋	keikin	a cervical muscle
+j	頸聯	keiren	漢詩の律詩で五番目、六番目の二つの句。
+j	顕在	kenzai	apparency; tangibility; v…
+j	顕官	kenkan	地位、身分が高い官職。高官。
+j	顕尊	kenson	尊栄すること。
+j	顕彰	kensho	commendation
+j	顕性	kensei	dominance
+j	顕教	kengyo	仏の教義が言語や文字によって説き示された宗旨。密教…
+j	顕敞	kensho	高爽なこと。また、そのようなさま。
+j	顕明	kenmei	はっきりしていること。明白なこと。また、そのさま。
+j	顕現	kengen	はっきりと出ること。姿が明らかになること。
+j	顕称	kensho	明言すること。
+j	顕者	kensha	世に名を知られた人。
+j	顕著	kencho	remarkable, prominent, co…
+j	顕証	kensho	あらわであること。目立つこと。顕著であること。また…
+j	駃騠	kettei	a hinny (hybrid offspring…
+j	験看	kenkan	面接して調べること。
+j	験算	kenzan	「検算」の異表記。
+j	験証	kensho	証拠調べ。
+j	験関	kenkan	税関。
+j	験電	kenden	検電の異表記。
+j	騫損	kenson	損なうこと。
+j	鮭鱒	keison	salmons and trouts
+j	鱖豚	keiton	巨口細鱗の魚。鱖魚。
+j	鶏卵	keiran	chicken egg
+j	鶏姦	keikan	male homosexuality
+j	鶏子	keishi	鶏の卵。鶏卵。
+j	鶏林	kerimu	Gyerim (Korea)
+j	鶏眼	keigan	corn (type of callus)
+j	鶏糞	keifun	chicken droppings
+j	鶏翎	keirei	鶏の羽。
+j	鶏舎	keisha	poultry house
+j	鶏豚	keiton	鶏と豚。
+j	鶏鳴	keimei	cry of a cock, or the res…
+j	鶏黍	keisho	鶏肉をあつものとし、黍を炊いて食事として出すこと。…
+j	黔細	kensai	人民。
+j	黔雷	kenrai	造化の神。黔嬴。
+j	黔首	kenshu	人民。庶民。黎民。
+j	黔黎	kenrei	人民。
+j	﨔	keyaki	zelkova
+k	커뮤	keomyu	online community website,…
+k	커민	keomin	
+k	커버	keobeo	material to cover with (s…
+k	커브	keobeu	curve (on a road, etc.)
+k	커뿌	keoppu	cup
+k	커서	keoseo	cursor (part of scientifi…
+k	커터	keoteo	cutter (a tool used for c…
+k	케네디	kenedi	
+k	케바케	kebake	case-by-case basis (depen…
+k	케블	kebeul	cable
+k	케사니	kesani	
+k	케이론	keiron	
+k	케이크	keikeu	cake
+k	케이트	keiteu	
+k	케이팝	keipap	K-pop (South Korean pop m…
+k	케이퍼	keipeo	
+k	케찹	kechap	
+k	케챂	kechap	
+k	케챱	kechap	
+k	케챺	kechap	
+k	켄트	kenteu	[~주(州)] Kent (a county of…
+k	켈빈	kelbin	kelvin (temperature unit)
+k	켈트	kelteu	
+k	켈프	kelpeu	
+k	크눔	keunum	
+k	크라이	keurai	러시아의 행정구역의 하나.
+k	크롬	keurom	chromium (chemical elemen…
+k	크릴	keuril	난바다곤쟁이과의 갑각류. 작은 새우와 비슷하다.
+k	크림	keurim	cream (oily part of milk)
+k	큰 비	keunbi	
+k	큰비	keunbi	heavy rain
+k	큰아이	keunai	
+k	큰애	keunae	
+k	큰일	keunil	important affair
+e	keelung	keelung	1 meaning
+e	kelowna	kelowna	1 meaning
+e	kendama	kendama	1 meaning
+e	kennedy	kennedy	1 meaning
+e	kenneth	kenneth	1 meaning
+e	keratin	keratin	1 meaning
+e	ketchup	ketchup	1 meaning
+e	key west	keywest	1 meaning
+e	keycard	keycard	1 meaning
+e	keyhole	keyhole	1 meaning
+e	keyring	keyring	1 meaning
+e	keyword	keyword	1 meaning
+j	けいいち	keiichi	恵壹, 恵一, 桂一, 啓一, 圭一, 敬一, 圭…
+j	けいかく	keikaku	
+j	けいさく	keisaku	敬作: a male given name
+j	けいじろう	keijiro	啓次郎: a male given name
+j	けいすけ	keisuke	啓扶, 圭介, 啓介, 圭祐, 敬祐, 恵輔, 啓…
+j	けいやく	keiyaku	
+j	けおとす	keotosu	to kick down
+j	けぎらい	kegirai	hating for no particular …
+j	けしき	keshiki	
+j	けたおす	ketaosu	蹴って倒す。
+j	けだかい	kedakai	上品な感じがある。気品がある。
+j	けだし	kedashi	（文章語）以下に述べる言説が、かなりの確からしさを…
+j	けだつ	kedatsu	緊張や興奮などにより毛髪が逆立つ。
+j	けだるい	kedarui	tired and weary for no pa…
+j	けちな	kechina	
+j	けちる	kechiru	to be stingy
+j	けっかく	kekkaku	結核: tuberculosis
+j	けっする	kessuru	決する
+j	けっぱる	kepparu	（方言、北海道・北東北）頑張る
+j	けつじょ	ketsujo	
+j	けつね	ketsune	狐。
+j	けむし	kemushi	毛虫: a hairy caterpillar
+j	けむたい	kemutai	smoky
+j	けりいた	keriita	扉の下部の框に取り付けられた板。けいた。
+j	けれんみ	kerenmi	exaggeration or fakeness
+j	けろっと	kerotto	何事もなかったかのように平然としているさま。
+j	けんいち	kenichi	賢一, 健一, 憲一, 謙一, 建一, 研一, 兼…
+j	けんさく	kensaku	憲作: a male given name
+j	けんしん	kenshin	憲伸: a male given name
+j	けんじろう	kenjiro	謙二郎, 憲次郎, 健二朗, 謙次郎, 賢二郎, …
+j	けんすけ	kensuke	賢介: a male given name
+j	けんたろう	kentaro	健太郎: a male given name
+j	けん玉	kendama	a Japanese bilboquet (cup…
+j	ケイそこう	keisoko	ケイ素鋼: silicon steel
+j	ケイカル	keikaru	silicate-calcium fertiliz…
+j	ケイ素鋼	keisoko	silicon steel
+j	ケダ州	kedashu	
+j	ケット語	kettogo	
+j	ケフェウス	kefeusu	
+j	ケベック	kebekku	Quebec (a province in eas…
+j	ケペウス	kepeusu	
+j	ケペシュ	kepeshu	khopesh
+j	ケルチ	keruchi	
+j	ケルビン	kerubin	kelvin
+j	ケルヴィン	keruvin	
+j	ケロイド	keroido	keloid
+j	ケロウナ	kerouna	
+j	ケンソル	kensoru	
+j	ケーキ店	kekiten	ケーキを販売する店。
+j	ケーペウス	kepeusu	Cepheus
+j	ケー・ポップ	kepoppu	
+j	乾徳	kentoku	天子、天皇の徳。
+j	亅部	ketsubu	部首「⼅」で分類した漢字の一群。
+j	京津	keishin	Kyōto and Ōtsu
+j	件目	kenmoku	物件の細目。
+j	佳祐	keisuke	a male given name
+j	係属	keizoku	ある事柄が他の事柄と関連していること。
+j	倦学	kengaku	学問に飽きること。
+j	倦客	kenkaku	疲れている旅人。
+j	倹尅	kenkoku	吝嗇。また、無情。
+j	倹徳	kentoku	質素、倹約により身を保つ徳。
+j	倹恪	kenkaku	慎むこと。
+j	倹約	kenyaku	frugal
+j	倹薄	kenhaku	質素で見窄らしいこと。そのさま。
+j	健一	kenichi	a male given name
+j	健二朗	kenjiro	a male given name
+j	健介	kensuke	a male given name
+j	健側	kensoku	半身に麻痺や障碍を抱えているときの健常な側を指す言…
+j	健壱	kenichi	a male given name
+j	健壹	kenichi	a male given name
+j	健太朗	kentaro	a male given name
+j	健太郎	kentaro	a male given name
+j	健市	kenichi	a male given name
+j	健康な	kenkona	
+j	健胃剤	kenizai	stomachic (medicine)
+j	健診	kenshin	健康診断の略。
+j	健足	kensoku	健歩。
+j	傑作	kessaku	masterful
+j	傾墜	keitsui	傾き、墜ちること。
+j	傾惑	keiwaku	迷惑。
+j	傾覆	keifuku	ひっくり返すこと。ひっくり返ること。転覆。危覆。
+j	傾角	keikaku	傾きをあらわす角度。
+j	儇目	kenmoku	巾で目を覆うこと。
+j	儇薄	kenpaku	狡猾で軽薄なこと。そのさま。
+j	兼一	kenichi	a male given name
+j	兼国	kengoku	本来の官職の他に、国司の官を兼任すること。
+j	兼学	kengaku	複数の学問や宗旨を学び修めること。
+j	兼弱	kenjaku	弱点を突いて攻め取ること。
+j	刑する	keisuru	（「～を刑する」の形で）～に刑罰を与える。～を処刑…
+j	剣先	kensaki	剣の切っ先。尖ったものの先端。
+j	剣劇	kengeki	刀剣で斬り合うことを見せ場とする演劇や映画。
+j	剣客	kenkaku	swordsman, fencer
+j	剣戟	kengeki	剣と戟。刀などの武器。
+j	剣玉	kendama	柄の一方を皿状にくぼませてもう一方をとがらせたもの…
+j	剣道場	kendojo	剣道をするための武道場。
+j	剣道家	kendoka	剣道を行う武道家またはそれで生業としている者、修得…
+j	剣鉈	kennata	a type of sturdy broad-bl…
+j	剣鉞	kenetsu	儀仗。
+j	勁敵	keiteki	強い敵、相手。強敵。
+j	啓一	keiichi	a male given name
+j	啓二朗	keijiro	a male given name
+j	啓介	keisuke	a male given name
+j	啓佑	keisuke	a male given name
+j	啓十郎	keijuro	a male given name
+j	啓扶	keisuke	a male given name
+j	啓次郎	keijiro	a male given name
+j	啓祐	keisuke	a male given name
+j	啓輔	keisuke	a male given name
+j	喧嘩屋	kenkaya	喧嘩早く、好んで喧嘩をする人。
+j	圏族	kenzoku	眷属の異表記。
+j	圏束	kensoku	括ること。
+j	圏谷	kenkoku	山岳氷河の浸食作用によって山頂や山腹に生じた椀状の…
+j	圭一	keiichi	a male given name
+j	圭介	keisuke	a male given name
+j	圭佑	keisuke	a male given name
+j	圭右	keisuke	a male given name
+j	圭市	keiichi	a male given name
+j	圭復	keifuku	手紙や文章を繰り返し読むこと。
+j	圭祐	keisuke	a male given name
+j	圭輔	keisuke	a male given name
+j	坰牧	keiboku	遠郊で牧畜を行う場所。
+j	堅信	kenshin	confirmation
+j	堅敵	kenteki	強敵。
+j	堅白	kenpaku	堅白同異。
+j	堅确	kenkaku	堅確の異表記。
+j	堅確	kenkaku	確りしていて確かなこと。そのさま。
+j	堅縛	kenbaku	緊く縛ること。緊縛。
+j	堅革	kenkaku	堅い皮革。
+j	堅額	kengaku	厚顔。
+j	契約	keiyaku	contract, agreement
+j	妍森	kenshin	賑やかで活気に満ち溢れたさま。
+j	嫌悪感	kenokan	ある人（人達）や物事に対して抱く不快や拒否的な感情。
+j	嫌悪者	kenosha	
+j	嫌隟	kengeki	仲違い。
+j	嶮峻	kenshun	「険峻」の別表記。
+j	嶮薄	kenhaku	徳が薄いこと。そのさま。
+j	巻層雲	kensoun	cirrostratus
+j	巻束	kensoku	書巻を巻くこと。
+j	巻柏	kenpaku	岩檜葉の漢名。
+j	建一	kenichi	a male given name
+j	建国	kenkoku	establishment of a nation
+j	建学	kengaku	学校を創設、創立すること。
+j	建市	kenichi	a male given name
+j	建徳	kentoku	the Kentoku era, 1370-137…
+j	建白	kenpaku	petition, memorial
+j	形意拳	keiiken	五行の名前を付けられた五行拳と十二種類の動物の動き…
+j	形而上	keijijo	abstract or intangible th…
+j	形而下	keijika	physical, material
+j	形跡	keiseki	evidence, trace
+j	怪我人	keganin	a wounded person, an inju…
+j	恵一	keiichi	a male given name
+j	恵壹	keiichi	a male given name
+j	恵沢	keitaku	benefit
+j	恵輔	keisuke	a male given name
+j	慊足	kensoku	満足すること。
+j	慶一	keiichi	a male given name
+j	慶佑	keisuke	a male given name
+j	慶福	keifuku	めでたいこと。幸い。祝い事。
+j	憩息	keisoku	一旦休息すること。休憩。
+j	憲一	kenichi	a male given name
+j	憲二郎	kenjiro	a male given name
+j	憲伸	kenshin	a male given name
+j	憲作	kensaku	a male given name
+j	憲告	kenkoku	法令を告示すること。
+j	憲檄	kengeki	令書。
+j	憲次郎	kenjiro	a male given name
+j	憲法化	kenpoka	
+j	懸瀑	kenbaku	滝。
+j	懸谷	kenkoku	河川の合流地点で、支流側が滝や急傾斜となっている部…
+j	懸邈	kenbaku	遙遠。邈遠。邃遠。
+j	懸針	kenshin	書道で縦画の最後のところを払い、針のように尖らせる…
+j	懸隔	kenkaku	great difference; gulf
+j	拳撃	kengeki	拳殴。
+j	拳法家	kenpoka	拳法を行う武術家またはそれで生業としている者、修得…
+j	拳玉	kendama	「剣玉」を参照。
+j	拳石	kenseki	石ころ。
+j	拳足	kensoku	膝を曲げること。
+j	拳酒	kenzake	拳をして負けた方が酒を飲む遊び。また、その酒。
+j	拳闘家	kentoka	synonym of ボクサー (bokusā, …
+j	捲席	kenseki	筵を捲くこと。
+j	撿束	kensoku	検束（語義1, 2）の異表記。
+j	撿覈	kenkaku	検覈の異表記。
+j	撿閲	kenetsu	検閲の異表記。
+j	敬する	keisuru	敬う。尊敬する。
+j	敬一	keiichi	a male given name
+j	敬介	keisuke	a male given name
+j	敬作	keisaku	a male given name
+j	敬服	keifuku	respect and admiration
+j	敬白	keihaku	手紙などの文末に置かれ、「謹啓」と対応し、謹んで申…
+j	敬祐	keisuke	a male given name
+j	敬神	keishin	respect/reverence for the…
+j	敬輔	keisuke	a male given name
+j	景色	keshiki	scenery, scene, landscape
+j	桂一	keiichi	a male given name
+j	棨戟	keigeki	儀仗用の戟。
+j	検する	kensuru	調べる。検査する。
+j	検圧	kenatsu	圧力を検査すること。
+j	検束	kensoku	自由な行動を取らせないように他者を抑制すること。束…
+j	検査員	kensain	inspector
+j	検格	kenkaku	検革の異表記。
+j	検波器	kenpaki	高周波電流から変調された低周波の信号を取り出す装置。
+j	検温器	kenonki	medical thermometer
+j	検測	kensoku	検査、測定すること。
+j	検真	kenshin	裁判などで筆跡や印鑑を対照してその真否を明らかにす…
+j	検索	kensaku	retrieval, searching
+j	検縛	kenbaku	縛ること。
+j	検覈	kenkaku	厳しく調べて考えること。
+j	検診	kenshin	病気に罹っているかどうかを調べるために検査や診察を…
+j	検針	kenshin	reading a meter, especial…
+j	検閲	kenetsu	censorship
+j	検革	kenkaku	改め正すこと。
+j	楔状	ketsujo	楔の形状。また、そのようなもの。
+j	権族	kenzoku	豪族。
+j	権臣	kenshin	権勢や権力を持った家臣。
+j	檠木	keiboku	杉。
+j	欠乏	ketsubo	shortage, scarcity
+j	欠伸	kenshin	yawning and stretching
+j	欠号	ketsugo	missing issue of a magazi…
+j	欠員	ketsuin	vacancy (unoccupied posit…
+j	欠場	ketsujo	failure to appear, not be…
+j	欠如	ketsujo	a deficiency
+j	欠字	ketsuji	missing character
+j	欠席	kesseki	absence
+j	欠時	ketsuji	授業を欠席した時数。
+j	欠望	ketsubo	（希望がかなわず）不満に思うこと。
+j	欠格	kekkaku	disqualification
+j	欠測	kessoku	観測のデータが途絶えること。
+j	欠画	kekkaku	一つの漢字の画を省略すること。特に天子や貴人の諱と…
+j	欠籍	kenseki	租税が未納であることを記録する帳簿。
+j	欠脣	kesshin	うまれつき上唇が裂けていること。口唇裂。みつくち。
+j	欠額	kengaku	未納。
+j	歇息	kessoku	休息をとること。
+j	歉仄	kensoku	遺憾。
+j	歉薄	kenpaku	不作。
+j	歉迫	kenpaku	窮迫。
+j	毛唐人	ketojin	a Chinese person
+j	毛深い	kebukai	hairy, shaggy
+j	毛繻子	kejyusu	
+j	毛虫	kemushi	a hairy caterpillar
+j	気だるい	kedarui	
+j	気高い	kedakai	noble, sublime
+j	決する	kessuru	to decide, to make a deci…
+j	決塞	kessoku	開通すること。
+j	決心	kesshin	resolution
+j	決策	kessaku	戦略・方策を決定すること。また、決定された策略。
+j	決筴	kessaku	施策を定めること。
+j	決議	ketsugi	resolution
+j	消した	keshita	past tense and perfective…
+j	消せない	kesenai	
+j	消印	keshiin	書類などで消去した印として捺す印。
+j	涓滴	kenteki	水のしずく。
+j	渓壑	keigaku	
+j	渓谷	keikoku	ravine, gorge, valley
+j	潔浄	ketsujo	清潔で清浄なこと。また、そのようなさま。
+j	潔癖	keppeki	fastidious
+j	潔白	keppaku	pure (free from shame), i…
+j	熒惑	keikoku	眩惑。
+j	牽俗	kenzoku	拘俗。
+j	牽惹	kenjaku	招き寄せること。
+j	牽束	kensoku	拘束。
+j	牽迫	kenpaku	迫ること。
+j	犬学	kengaku	犬儒学派（キニク学派）の人。犬儒。
+j	犬悦	kenetsu	（「犬が悦ぶもの」から転じて）反吐。
+j	狷激	kengeki	頑固で気性が激しいこと。また、そのようなさま。
+j	狷迫	kenhaku	狷急。
+j	献じる	kenjiru	与える。
+j	献ずる	kenzuru	（古めかしい言い方で）与える。
+j	献策	kensaku	making suggestions
+j	献身	kenshin	dedication; devotion
+j	獧薄	kenpaku	軽薄。
+j	珪素鋼	keisoko	silicon steel
+j	珪藻土	keisodo	diatomaceous earth, diato…
+j	甄沐	kenmoku	表彰。
+j	甄進	kenshin	選抜すること。
+j	畎谷	kenkoku	河川。
+j	畎陌	kenpaku	畦道。
+j	県北	kenhoku	県の北部の地域。
+j	県属	kenzoku	旧制の県の事務処理を扱う吏員。
+j	県木	kenboku	県（都道府県）を代表（象徴）するものとして選定され…
+j	県瀑	kenbaku	懸瀑の異表記。
+j	県獄	kengoku	県の獄舎。
+j	県薄	kenpaku	簾の家。
+j	県隔	kenkaku	間隔。
+j	眴目	kenmoku	瞬くこと。
+j	眷属	kenzoku	family, dependents, house…
+j	眷族	kenzoku	眷属の異表記。
+j	砉然	kekizen	giving off a noise like f…
+j	研一	kenichi	a male given name
+j	研修医	kenshui	resident; intern; doctor-…
+j	研削	kensaku	砥石の粒子などで表面を削り、平滑にすること。
+j	研北	kenhoku	書状の脇付けの一つで、宛名の左下に書き添える語。机…
+j	研学	kengaku	学問を研究すること。
+j	研搉	kenkaku	検討。
+j	研核	kenkaku	研覈の異表記。
+j	研滴	kenteki	水差し。
+j	研覈	kenkaku	研究。
+j	硯北	kenpoku	書状などの脇付けの一つで、宛名の左下に書き添える語…
+j	硯席	kenseki	学習する場所。
+j	硯格	kenkaku	硯台の木。
+j	硯滴	kenteki	硯に垂らす水の滴。
+j	稽古着	keikogi	uniform
+j	穴部	ketsubu	部首「⽳」で分類した漢字の一群。
+j	競馬場	keibajo	a racetrack
+j	系統樹	keitoju	phylogenetic tree
+j	経学	keigaku	経書を研究する学問。経術。
+j	経度の	keidono	
+j	経歴	keireki	career (an individual’s w…
+j	経籍	keiseki	（けいせき）儒学に関する経典。経書。
+j	経絡	keiraku	漢方で、灸や鍼のつぼとつぼを結び連ねる筋道。
+j	経腹	keifuku	to be transabdominal
+j	結像	ketsuzo	光学系を利用して像をつくりだすこと。
+j	結合	ketsugo	combination; coupling; bi…
+j	結審	kesshin	裁判で全ての審理が終わること。
+j	結束	kessoku	bundling and binding toge…
+j	結核	kekkaku	tuberculosis
+j	結石	kesseki	stone, calculus
+j	結索	kessaku	ロープを他の物に結びつけたり、ロープ同士を結びつけ…
+j	結縄	ketsujo	文字のない時代に縄の結び目や結び方などにより意志疎…
+j	結縭	ketsuri	結帨。
+j	結託	kettaku	conspiracy
+j	結語	ketsugo	conclusion
+j	結露	ketsuro	dew condensation
+j	絭縛	kenbaku	検縛の異表記。
+j	絹層雲	kensoun	「巻層雲」の別表記。
+j	絹帛	kenpaku	絹の織物。絹布。
+j	継続	keizoku	continuation
+j	縑墨	kenboku	紙と墨。紙墨。
+j	縑帛	kenpaku	縑絹。また、絹織物。
+j	繋属	keizoku	ある事柄が他の事柄と関連していること。
+j	繋牧	keiboku	家畜を綱で繋ぎ行動範囲を制限する放牧。
+j	繋索	keisaku	繋ぎ留めるための綱。
+j	繭足	kensoku	足の肉刺。
+j	缺格	kekkaku	あることに必要な資格を欠いていること。
+j	羂索	kensaku	5色の糸を撚り合わせた索の一端に環、他の一端に独鈷…
+j	肩息	kensoku	吐息。
+j	肩迫	kenpaku	親密にすること。
+j	腱膜	kenmaku	an aponeurosis
+j	荊榛	keishin	briars and hazels
+j	華鬘草	kemanso	bleeding heart, Lamprocap…
+j	萱親	kenshin	母親。
+j	蓋し	kedashi	an expression of supposit…
+j	蕙心	keishin	美人で上品な心。
+j	虔告	kenkoku	謹告。
+j	虔恪	kenkaku	倹恪の異表記。
+j	蛍光灯	keikoto	fluorescent lamp
+j	蠲息	kensoku	止めること。
+j	蠲賑	kenshin	免税すること。
+j	血痢	ketsuri	赤痢。
+j	血石	kesseki	bloodstone
+j	血縁	ketsuen	consanguinity, blood (fam…
+j	血路	ketsuro	an escape path from surro…
+j	血途	ketsuzu	三途のうち互いに食い合う苦。畜生道。
+j	血部	ketsubu	部首「⾎」で分類した漢字の一群。
+j	見刻	kenkoku	昼。
+j	見学	kengaku	inspection
+j	見得	kentoku	自分の智慧で法を見て、真理を得ること。
+j	見惑	kenwaku	仏教の真理に迷うこと。
+j	見真	kenshin	智慧により真理を見極めること。
+j	見神	kenshin	神の現示を心の中に感知すること。
+j	計歩器	keihoki	pedometer
+j	計測	keisoku	measurement, gauging
+j	計画	keikaku	a plan, planning, schedul…
+j	計策	keisaku	a plan, a stratagem
+j	訣辞	ketsuji	別れに際し述べる言葉。
+j	詣する	keisuru	参詣する。
+j	諠赫	kenkaku	顕赫の異表記。
+j	謇愕	kengaku	謇諤の異表記。
+j	謇諤	kengaku	直言すること。そのさま。
+j	謙一	kenichi	a male given name
+j	謙二郎	kenjiro	a male given name
+j	謙信	kenshin	上杉謙信のこと。
+j	謙克	kenkoku	謙抑。
+j	謙太朗	kentaro	a male given name
+j	謙徳	kentoku	謙譲することによる徳。
+j	謙恪	kenkaku	謙謹。
+j	謙愨	kenkaku	謙慎。
+j	謙抑	kenyoku	humble restraint; modesty…
+j	謙次郎	kenjiro	a male given name
+j	謙治郎	kenjiro	a male given name
+j	謙譲語	kenjogo	humble language
+j	謙默	kenmoku	謙黙の旧字体表記。
+j	謙黙	kenmoku	控えめで寡黙なこと。そのさま。
+j	譎謀	ketsubo	偽のはかりごと。
+j	警備員	keibiin	guard, guardsman
+j	警告	keikoku	warning
+j	警報器	keihoki	siren, alarm (device for …
+j	警報機	keihoki	危険の切迫や機器の故障などを音響や発光などにより人…
+j	警笛	keiteki	a horn, a siren, a whistl…
+j	警音器	keionki	car horn
+j	譴告	kenkoku	有罪を告げること。
+j	譴責	kenseki	Scolding, reprimand; in p…
+j	賢一	kenichi	a male given name
+j	賢二郎	kenjiro	a male given name
+j	賢介	kensuke	a male given name
+j	賢作	kensaku	a male given name
+j	賢壹	kenichi	a male given name
+j	賢太郎	kentaro	a male given name
+j	賢徳	kentoku	賢く徳があること。
+j	賢息	kensoku	賢い子息。
+j	賢閣	kenkaku	人妻。
+j	蹇剝	kenhaku	不運な目に遭うこと。
+j	蹇剥	kenhaku	不運な目に遭うこと。
+j	蹇薄	kenpaku	愚か。
+j	蹇諤	kengaku	謇諤の異表記。
+j	蹇鄂	kengaku	謇諤の異表記。
+j	蹴出し	kedashi	underskirt worn under kim…
+j	軒作	kensaku	a male given name
+j	軒越	kenetsu	軒昂。昂揚。
+j	軽トラ	keitora	「軽トラック」の略。
+j	軽微な	keibina	
+j	軽薄	keihaku	shallow, intellectually l…
+j	軽震	keishin	震度2の旧称。多くの人が震動を感じ、障子や戸が動く…
+j	鈐束	kensoku	厳重処罰。
+j	鉗塞	kensoku	口を塞ぐこと。
+j	鉗梏	kenkoku	首枷と手枷。
+j	闕字	ketsuji	文章中などで本来あるべき文字が欠落していること。ま…
+j	闕画	kekkaku	一つの漢字の画を省略すること。特に天子や貴人の諱と…
+j	闕腋	ketteki	衣服（袍）の両腋の下を縫わずに開けたままのもの。
+j	険峻	kenshun	山や坂が高く険しいこと。また、そのような場所。
+j	険薄	kenhaku	悲運。
+j	険謁	kenetsu	婦人による請託。
+j	険魄	kenhaku	悪霊。
+j	頁部	ketsubu	部首「⾴」で分類した漢字の一群。
+j	頚椎	keitsui	頸椎の異表記。
+j	頸椎	keitsui	a cervical vertebra
+j	顕学	kengaku	著名な学問や学派。
+j	顕暴	kenbaku	顕わにすること。暴くこと。
+j	顕白	kenpaku	明白。
+j	顕赫	kenkaku	明らか。顕わ。
+j	顕迹	kenseki	顕軌。
+j	顕黙	kenmoku	発言と沈黙。
+j	顯默	kenmoku	顕黙の旧字体表記。
+j	験する	kensuru	検査する。試験する。しらべる。たしかめる。
+j	験温儀	kenongi	温度計。
+j	験温器	kenonki	温度計。
+j	験測	kensoku	検測の異表記。
+j	験白	kenpaku	明白となること。
+j	験覈	kenkaku	究明。
+j	鶏肉	keiniku	chicken (meat)
+j	鶏足	keisoku	chicken leg
+k	커널	keoneol	
+k	커닝	keoning	cheating on a test
+k	커리어	keorieo	
+k	커링	keoring	
+k	커먼	keomeon	common
+k	커지다	keojida	To become large or larger…
+k	커쯔	keojjeu	
+k	커튼	keoteun	curtain
+k	커플	keopeul	couple
+k	컨셉	keonsep	an artificial identity, p…
+k	컬러	keolleo	having colour (as opposed…
+k	컬트	keolteu	cult
+k	컴싸	keomssa	학생들 사이에서 컴퓨터용 수성 사인펜을 줄여서…
+k	컴터	keomteo	
+k	케네스	keneseu	
+k	케랄라	keralla	
+k	케레스	kereseu	
+k	케로신	kerosin	
+k	케으크	keeukeu	
+k	케이블	keibeul	cable
+k	케이빙	keibing	
+k	케이싱	keising	말뚝기초를 위해 땅에 구멍을 뚫을 때, 구멍 …
+k	케이지비	keijibi	KGB
+k	케인스	keinseu	
+k	케첩	kecheop	ketchup
+k	케쳡	kecheop	
+k	케트어	keteueo	
+k	케피르	kepireu	kefir (fermented drink)
+k	켄다마	kendama	
+k	켈로나	kellona	
+k	크라운	keuraun	
+k	크랙	keuraek	
+k	크레인	keurein	crane (machinery)
+k	크레타	keureta	
+k	크레페	keurepe	
+k	크로바	keuroba	클로버의 비표준어
+k	크로키	keuroki	
+k	크리올	keuriol	
+k	큰굿	keungut	a large-scale shamanic ri…
+k	큰길	keungil	high road, highway, main …
+k	큰낫	keunnat	scythe
+k	큰놈	keunnom	
+k	큰대	keundae	
+k	큰돈	keundon	
+k	큰말	keunmal	나타내는 것으로부터 받는 느낌이 큰 말. 의성…
+k	큰맘	keunmam	
+k	큰못	keunmot	굵고 긴 못.
+k	큰물	keunmul	heavy flood, deluge
+k	큰북	keunbuk	
+k	큰불	keunbul	a big fire, conflagration
+k	큰손	keunson	
+k	큰술	keunsul	tablespoon
+k	큰이모	keunimo	
+k	큰쥐	keunjwi	
+k	큰집	keunjip	집안에서 가장 맏이인 사람이 사는 집.
+k	클로에	keulloe	
+k	클론	keullon	
+k	클리오	keullio	
+k	클릭	keullik	click (the act of pressin…
+k	클린	keullin	
+k	클립	keullip	paper clip
+e	keeshond	keeshond	1 meaning
+e	kelantan	kelantan	1 meaning
+e	kemerovo	kemerovo	1 meaning
+e	kentucky	kentucky	1 meaning
+e	kerberos	kerberos	1 meaning
+e	kerchief	kerchief	1 meaning
+e	kerosene	kerosene	1 meaning
+e	keyboard	keyboard	3 meanings
+e	keychain	keychain	1 meaning
+e	keyframe	keyframe	2 meanings
+e	keystone	keystone	1 meaning
+j	けあらし	kearashi	水面から立ち上る水蒸気が陸上の冷気とぶつかって発生…
+j	けいこつ	keikotsu	脛骨: (anatomy) shinbone, t…
+j	けいしき	keishiki	形式: form, format
+j	けいようし	keiyoshi	
+j	けがれる	kegareru	よごれる。
+j	けごろも	kegoromo	毛皮でつくられた防寒用の衣服。
+j	けさのり	kesanori	朝徳: a male given name
+j	けさはる	kesaharu	今朝治: a male given name
+j	けたけた	ketaketa	cackling
+j	けだもの	kedamono	全身に体毛が生え、四本の足であるく哺乳類動物。けも…
+j	けちんぼう	kechinbo	「吝ん坊」のかたかな表記。
+j	けっさつ	kessatsu	運の悪いこと。
+j	けっして	kesshite	
+j	けっとうち	kettochi	血糖値: blood sugar level
+j	けつあご	ketsuago	butt chin
+j	けつえき	ketsueki	
+j	けつがん	ketsugan	頁岩: shale
+j	けつだん	ketsudan	決断: decision
+j	けばけば	kebakeba	布や紙の表面にできる柔らかく細かい毛。けば。
+j	けもフレ	kemofure	
+j	けりわざ	keriwaza	空手道等で脚をあらゆる方向へ繰り出し相手に打撃を行…
+j	けれども	keredomo	although; though; but
+j	けろけろ	kerokero	ribbiting; chirping of a …
+j	けわいいた	kewaiita	和船で外観の装飾のため、船体の外面の一部に張る板。
+j	けわしい	kewashii	斜面の傾きの大きい。地面の起伏の多い。
+j	けんけんぱ	kenkenpa	synonym of けんぱ (“(a type …
+j	けんさかん	kensakan	検査官: ticket inspector
+j	けんさつ	kensatsu	検察: examination, prosecut…
+j	けんしろう	kenshiro	健四郎: a male given name
+j	けんちく	kenchiku	建築: architecture
+j	けんちゅうび	kenchubi	
+j	けんつく	kentsuku	荒々しく叱り付けること。また、そのことば。
+j	けんようすい	kenyosui	懸壅垂: uvula
+j	ケアハウス	keahausu	入居者である高齢者がある程度自立して生活できるよう…
+j	ケイ皮酸	keihisan	
+j	ケシ色	keshiiro	
+j	ケチャップ	kechappu	ketchup
+j	ケチュア語	kechuago	Quechua (language)
+j	ケット・シー	kettoshi	the Cat Sìth
+j	ケニア人	keniajin	ケニア国籍を有する者。ケニア出身者。
+j	ケミカル	kemikaru	chemical
+j	ケミスト	kemisuto	化学者。
+j	ケメロボ	kemerobo	
+j	ケメロヴォ	kemerovo	
+j	ケモカイン	kemokain	
+j	ケモ耳	kemomimi	synonym of 獣耳 (kemonomimi)
+j	ケラチン	kerachin	keratin
+j	ケルト語	kerutogo	Celtic language
+j	ケルンテン	kerunten	
+j	ケロカス	kerokasu	Hiroshima Toyo Carp, a ba…
+j	ケロケロ	kerokero	
+j	ケロシン	keroshin	kerosene
+j	ケンタッキー	kentakki	Kentucky (a state of the …
+j	ケーブルカー	keburuka	cable car
+j	ケープタウン	keputaun	Cape Town (a city, the le…
+j	乾字金	kenjikin	宝永小判と宝永一分判の総称。宝永金。乾金。
+j	京阪奈	keihanna	The cities of Kyōto, Ōsak…
+j	今朝治	kesaharu	a male given name
+j	倦怠期	kentaiki	a period of boredom, ennu…
+j	倦極	kenkyoku	疲れ果てること。
+j	倦筆	kenpitsu	気持ちは進まないが執筆すること。
+j	倹節	kensetsu	浪費を避けること。また、そのようなさま。節倹。
+j	健全な	kenzenna	
+j	健啖家	kentanka	食べる量が多い者。大食漢。
+j	健四郎	kenshiro	a male given name
+j	健実	kenjitsu	steady; sound; reliable; …
+j	健常者	kenjosha	person who has no impairm…
+j	健康体	kenkotai	病気のない正常な身体。健康な身体。
+j	健康酒	kenkoshu	健康の保持増進に効果があるとされる酒。
+j	健忘症	kenbosho	amnesia
+j	健筆	kenpitsu	上手な字を書くこと。また、その字。
+j	健脚	kenkyaku	ability to walk or run a …
+j	健舌	kenzetsu	雄弁。
+j	健黠	kenkatsu	険猾の異表記。
+j	傑人	ketsujin	飛び抜けて優れた人。傑物。
+j	兼摂	kensetsu	serving in an additional …
+j	兼日	kenjitsu	定期より前の日。
+j	兼職	kenshoku	holding several jobs at o…
+j	兼轄	kenkatsu	兼治。
+j	刑務官	keimukan	a prison guard, a warder,…
+j	刑務所	keimusho	prison, jail, penitentiary
+j	刑殺	keisatsu	（法律に基づき）死刑にすること。
+j	刑法典	keihoten	criminal code
+j	刑罰	keibatsu	a penalty
+j	券売機	kenbaiki	ticket machine
+j	剣歯虎	kenshiko	saber-toothed tiger
+j	剣殺	kensatsu	剣で殺すこと。
+j	剣術	kenjutsu	swordsmanship
+j	剣闘士	kentoshi	synonym of グラディアトル (gurad…
+j	劂人	ketsujin	彫物師。
+j	勁卒	keisotsu	強兵。
+j	勁烈	keiretsu	勁く烈しい様子。
+j	勁節	keisetsu	竹などの節が強いこと。またその節。
+j	勁雪	keisetsu	溶けにくい雪。
+j	化粧台	keshodai	dressing table, dresser
+j	化粧品	keshohin	cosmetics
+j	化粧板	keshoita	外見の部分にある表面をかんなで削りあげた板。
+j	化粧水	keshosui	skin toner
+j	啓発	keihatsu	enlightenment
+j	喧雑	kenzatsu	騒々しいこと。
+j	圏曲	kenkyoku	曲がること。
+j	堅実	kenjitsu	steady; sound; reliable; …
+j	堅決	kenketsu	堅確。
+j	堅築	kenchiku	堅固に築くこと。
+j	奎宿	keishuku	二十八宿の一つ。西方の第一宿。
+j	姸黠	kenkatsu	姸智。
+j	嫌光性	kenkosei	太陽などの光の作用を受けることで、好ましくない結果…
+j	嫌悪する	kenosuru	
+j	嫌気性	kenkisei	
+j	嫌虫灯	kenchuto	多くの夜行性昆虫が感知する紫外線から青色領域(30…
+j	巻曲	kenkyoku	曲がりくねること。
+j	巻舌	kenzetsu	驚嘆。
+j	建暦	kenryaku	the Kenryaku era, 1211-12…
+j	建植	kenshoku	信号機や標柱などを設置すること。
+j	建極	kenkyoku	創業。建基。
+j	建築	kenchiku	architecture
+j	建設	kensetsu	construction, building (o…
+j	形容詞	keiyoshi	an い-adjective: specific …
+j	形式	keishiki	format
+j	形態素	keitaiso	morpheme
+j	形骸化	keigaika	それまで伴っていた実質的な内容が失われ、形だけが残…
+j	恵恤	keijutsu	恵み、愍むこと。
+j	恵術	keijutsu	恵恤の法。
+j	慶祝	keishuku	celebration
+j	慶色	keishoku	喜びの表情や様子。
+j	懈慢界	kemangai	極楽浄土への往生しようという願いを自力で成し遂げよ…
+j	懸壅垂	kenyosui	uvula
+j	懸想文	kesobumi	a love letter
+j	懸渇	kenkatsu	渇望。
+j	懸絶	kenzetsu	懸け離れて差があること。高絶。
+j	抉殺	kessatsu	抉って殺すこと。
+j	拳曲	kenkyoku	屈まること。
+j	拳跼	kenkyoku	屈まって不自由なこと。そのさま。
+j	捲舌	kenzetsu	唖然。
+j	掲示板	keijiban	bulletin board
+j	撿勅	kenchoku	検勅の異表記。
+j	撿察	kensatsu	検察の異表記。
+j	撿局	kenkyoku	約束。
+j	撿括	kenkatsu	法度。
+j	敬老会	keirokai	高齢者を招待して慰安する会。尚歯会。
+j	敬虔な	keikenna	
+j	朝徳	kesanori	a male given name
+j	桂月	keigetsu	synonym of 月 (tsuki, “moo…
+j	桂花茶	keikacha	osmanthus flower tea: bla…
+j	検事長	kenjicho	検察官の職の一つ。高等検察庁の長として、庁務を掌理…
+j	検刮	kenkatsu	軍による掠奪。
+j	検勅	kenchoku	調べ、戒めること。
+j	検問所	kenmonjo	checkpoint (point along a…
+j	検察	kensatsu	examination
+j	検局	kenkyoku	拘束。
+j	検括	kenkatsu	身を引き締めること。
+j	検札	kensatsu	ticket inspection on a tr…
+j	検査中	kensachu	under examination
+j	検査官	kensakan	ticket inspector on a tra…
+j	検査者	kensasha	検査に従事する者。
+j	検案書	kenansho	医師の診察を受けずに死亡した者について、医師が死亡…
+j	検潮所	kenchojo	潮位を測定するために気象庁が設置する装置。海上保安…
+j	検疫旗	kenekiki	quarantine flag
+j	検直	kenchoku	簡直。
+j	検電器	kendenki	
+j	検非違使	kebiishi	a historical Japanese bur…
+j	検飭	kenchoku	検勅の異表記。
+j	権利者	kenrisha	特定の権利を有する者。権者。
+j	権利証	kenrisho	
+j	権力	kenryoku	power, authority
+j	権術	kenjutsu	たくらみ。計略。権謀術数。
+j	檢勅	kenchoku	検勅の旧字体表記。
+j	檢飭	kenchoku	検飭の旧字体表記。
+j	權力	kenryoku	権力の旧字体表記。
+j	欠便	ketsubin	定期運航されている船舶や飛行機の運航が何らかの事由…
+j	欠番	ketsuban	missing number in a series
+j	欠缺	kenketsu	lack
+j	毛虱	kejirami	a crab louse
+j	毳々	kebakeba	
+j	決して	kesshite	(not) ever, (not) by any …
+j	決定木	ketteigi	decision tree
+j	決断	ketsudan	decision
+j	決明	ketsumei	synonym of 夷草 (ebisu-gusa…
+j	決然	ketsuzen	思い切り決心したさま。きっぱり。
+j	決着	ketchaku	conclusion, end
+j	涓勺	kenshaku	少量の水。
+j	牽引車	keninsha	牽引自動車
+j	牽牛子	kengoshi	morning glory seeds, used…
+j	牽牛花	kengyuka	synonym of 朝顔 (asagao): J…
+j	狷察	kensatsu	苛察。
+j	狷直	kenchoku	耿直。
+j	献爵	kenshaku	献杯。
+j	献花台	kenkadai	stand or table on which p…
+j	献血	kenketsu	blood donation
+j	獣	kedamono	an animal covered in fur,…
+j	獧黠	kenkatsu	険猾の異表記。
+j	獻爵	kenshaku	献爵の旧字体表記。
+j	珪酸塩	keisanen	silicate
+j	甄察	kensatsu	賢察の異表記。
+j	痙縮	keishuku	痙性が進むこと。
+j	県境	kenzakai	prefectural borders
+j	県札	kensatsu	明治元年から十一の県で発行された紙幣。明治四年まで…
+j	県立	kenritsu	being managed by a prefec…
+j	県絶	kenzetsu	懸け離れて差があること。高絶。
+j	県議会	kengikai	a prefectural assembly of…
+j	研磨剤	kenmazai	金属、石材などを研磨するための主に粉末で硬度の高い…
+j	研磨紙	kenmashi	
+j	研究員	kenkyuin	researcher
+j	研究家	kenkyuka	専門分野や好みの研究に没頭する人。
+j	研究所	kenkyujo	research institute
+j	研究院	kenkyuin	学問の研究や教授を行う施設、組織。
+j	磬折	keisetsu	立ったまま腰を深く折り曲げて礼をすること。
+j	穴人	ketsujin	穴師。
+j	窩主買い	keizukai	traffic in stolen goods
+j	競輪場	keirinjo	競輪が行なわれる走路、及び観覧などのための施設全体…
+j	競馬ファン	keibafan	
+j	系列	keiretsu	a series, sequence
+j	系図買い	keizukai	pedigree buying: the purc…
+j	経営史	keieishi	経営に関する歴史。
+j	経営者	keieisha	manager
+j	経宿	keishuku	一夜を過ごすこと。
+j	経日	keijitsu	日一日と時間が経過すること。
+j	経済の	keizaino	
+j	経穴	keiketsu	acupoint (a specific poin…
+j	経血	keiketsu	menstrual blood
+j	経術	keijutsu	経書を研究する学問。経学。
+j	経説	keisetsu	経書に記された主張。
+j	結了	ketsuryo	completion; conclusion; e…
+j	結団	ketsudan	団体を結成すること。
+j	結婚の	kekkonno	
+j	結局	kekkyoku	eventually, after all
+j	結帨	ketsuzei	女子が嫁ぐ際、母が佩巾を結ぶこと。
+j	結晶化	kesshoka	crystallisation
+j	結果論	kekkaron	そのようになった原因や過程を考えずに、結果だけを見…
+j	結着	ketchaku	しっかりと結び付けること。しっかりと結びつくこと。
+j	結節	kessetsu	固まって節になること。また、その節。
+j	結紮	kessatsu	糸で縛ること。
+j	結論	ketsuron	conclusion (decision reac…
+j	結陣	ketsujin	陣立て。
+j	結髪	keppatsu	髪を結うこと。また、そのような髪。
+j	継述	keijutsu	先人の業績を引き継いで述べること。
+j	縣絶	kenzetsu	懸け離れて差があること。高絶。
+j	脛節	keisetsu	昆虫類の足の第四肢節。腿節と跗節の間に位置する。
+j	脛骨	keikotsu	a shinbone; a tibia
+j	腱鞘炎	kenshoen	tenosynovitis
+j	茎突	keitotsu	
+j	荊棘	keikyoku	thorns (thorny plants)
+j	華厳宗	kegonshu	日本の南都六宗の一つ。杜順によって開かれた。
+j	蛍光ペン	keikopen	a highlighter (pen for hi…
+j	蛍雪	keisetsu	（貧しく蛍や雪の灯りを使ってするように）苦労して学…
+j	蠲豁	kenkatsu	免除。
+j	血刃	ketsujin	血の付いた刀。
+j	血卵	ketsuran	blood egg
+j	血尿	ketsunyo	赤血球の混入した尿。赤血球尿。
+j	血流	ketsuryu	blood flow; bloodstream
+j	血涙	ketsurui	強い怒りや悲しみがある時に出る涙。
+j	血液	ketsueki	blood
+j	血盟	ketsumei	複数の者が血判したり血をすすりあったりして固く約束…
+j	血税	ketsuzei	blood tax, conscription
+j	血糖値	kettochi	blood sugar level
+j	血統書	kettosho	pedigree, stud book: writ…
+j	血色	kesshoku	complexion
+j	見仏	kenbutsu	仏の姿や光明、その浄土の様子を目の当たりに見ること。
+j	見物	kenbutsu	sightseeing
+j	見識	kenshiki	wisdom; perception; view;…
+j	計器盤	keikiban	
+j	計略	keiryaku	stratagem, ruse
+j	計算機	keisanki	a machine used for perfor…
+j	計量器	keiryoki	meter; gauge
+j	計量機	keiryoki	
+j	諠聒	kenkatsu	喧しいこと。そのさま。
+j	謇直	kenchoku	直言。
+j	謙虚な	kenkyona	
+j	謙飭	kenchoku	謙謹。
+j	警備官	keibikan	警備隊の隊員の官名。
+j	警備業	keibigyo	依頼を受けて警備を行う事業。
+j	警備犬	keibiken	a sentry/security/patrol/…
+j	警備艦	keibikan	ソビエト連邦海軍、ロシア連邦海軍の艦種で護衛や局地…
+j	警備隊	keibitai	guard
+j	警務官	keimukan	military police officer
+j	警察	keisatsu	police
+j	警邏隊	keiratai	patrol group
+j	譴罰	kenbatsu	あやまちを責めて罰すること。
+j	賢夫人	kenpujin	賢明でしっかりした夫人。
+j	賢察	kensatsu	相手の推察。
+j	賢明な	kenmeina	
+j	蹇脚	kenkyaku	足が萎え、自由がきかないこと。
+j	蹴飛ばす	ketobasu	to send flying with a kick
+j	蹶然	ketsuzen	勢いよく立ち上がる（行動する）さま。
+j	軒豁	kenkatsu	朗らかなさま。
+j	軽卒	keisotsu	low-rank soldier
+j	軽工業	keikogyo	light industry
+j	軽歩兵	keihohei	軽装備の歩兵。
+j	軽気球	keikikyu	balloon
+j	軽水炉	keisuiro	light water reactor
+j	軽水素	keisuiso	水素の大部分を占める同位体。原子核は陽子1個のみか…
+j	軽率	keisotsu	rash, indiscreet, hasty, …
+j	軽蔑	keibetsu	contempt, disdain, despis…
+j	軽賎な	keisenna	
+j	軽食	keishoku	a light meal
+j	軽騎兵	keikihei	light cavalry
+j	輕工業	keikogyo	
+j	遣唐使	kentoshi	a Japanese envoy to Tang …
+j	鈐括	kenkatsu	楔すること。
+j	閨局	keikyoku	ねや。寝室。
+j	闕掖	ketsueki	宮中。御所。禁闕。
+j	険しい	kewashii	steep, rugged
+j	険猾	kenkatsu	狡猾。
+j	険絶	kenzetsu	最上級に険しいこと。また、そのさま。
+j	頁岩	ketsugan	shale
+j	頃日	keijitsu	ちかごろ。このごろ。
+j	頚骨	keikotsu	頸骨の異表記。
+j	頸骨	keikotsu	脊椎動物の首を縦に通る骨。頸椎。
+j	顕微鏡	kenbikyo	microscope
+j	顕爵	kenshaku	栄爵。
+j	顕著な	kenchona	
+j	顕豁	kenkatsu	明らか。
+j	顯爵	kenshaku	顕爵の旧字体表記。。
+j	験温管	kenonkan	温度計。
+j	験潮場	kenchojo	潮位を測定するために国土地理院が設置する装置。海上…
+j	験潮所	kenchojo	潮位を測定するために海上保安庁が設置する装置。気象…
+j	鱖魚	ketsugyo	Chinese perch; mandarin f…
+j	鶏舌	keizetsu	鶏舌香。
+j	黔突	kentotsu	黒ずんだ煙突。
+k	커피밀	keopimil	
+k	커피잔	keopijan	
+k	커피집	keopijip	
+k	컨닝	keonning	
+k	컨펌	keonpeom	
+k	컬럭	keolleok	가슴 속 얕은 곳에서 조금 힘없이 거칠게 울려…
+k	컬링	keolling	curling (sports)
+k	컴백	keombaek	comeback
+k	컵자리	keopjari	
+k	케르치	kereuchi	
+k	케메로보	kemerobo	
+k	케언즈	keeonjeu	
+k	케추아어	kechuaeo	
+k	케페우스	kepeuseu	
+k	켄터키	kenteoki	[~주(州)] Kentucky (a state…
+k	켕기다	kenggida	To be drawn tight; to bec…
+k	크라켄	keuraken	
+k	크래시	keuraesi	crash (vehicle accident)
+k	크레프	keurepeu	
+k	크로스	keuroseu	
+k	크로우바	keurouba	
+k	크로켓	keuroket	croquette
+k	크롤리	keurolli	
+k	크롭티	keuropti	
+k	크루저	keurujeo	
+k	크루즈	keurujeu	
+k	크리스	keuriseu	a transliteration of the …
+k	크리켓	keuriket	cricket (game)
+k	크메르	keumereu	
+k	크바스	keubaseu	kvass
+k	크산티	keusanti	
+k	크세논	keusenon	xenon (chemical element)
+k	크툴후	keutulhu	
+k	큰고니	keungoni	The whooper swan, Cygnus …
+k	큰고모	keungomo	
+k	큰누나	keunnuna	
+k	큰댁	keundaek	
+k	큰딸	keunttal	'맏딸'.
+k	큰방	keunbang	크기가 큰 방.
+k	큰소리	keunsori	
+k	큰애기	keunaegi	
+k	큰어미	keuneomi	
+k	큰오빠	keunoppa	
+k	큰절	keunjeol	
+k	클라레	keullare	
+k	클랑	keullang	
+k	클랜	keullaen	clan
+k	클럭	keulleok	
+k	클럽	keulleop	nightclub
+k	클마니	keulmani	grandmother; (by extensio…
+k	클아매	keuramae	grandmother
+k	클아반	keuraban	grandfather
+k	클아배	keurabae	grandfather
+k	큼큼	keumkeum	목소리를 고르게 가다듬으려고 기침하듯이 자꾸 …
+e	keep quiet	keepquiet	1 meaning
+e	keep vigil	keepvigil	1 meaning
+e	kenpeitai	kenpeitai	1 meaning
+e	keratitis	keratitis	1 meaning
+e	keystroke	keystroke	1 meaning
+j	けいいちろう	keiichiro	圭一郎: a male given name
+j	けいさぶろう	keisaburo	慶三郎: a male given name
+j	けいざぶろう	keizaburo	慶三郎: a male given name
+j	けいたいろん	keitairon	形態論: linguistic morphology
+j	けおりもの	keorimono	羊毛など動物の毛から作った糸で織った織物。
+j	けしかす	keshikasu	eraser dust
+j	けしさる	keshisaru	すっかり消してなくす。消去する。
+j	けしとぶ	keshitobu	吹き飛んで失せる。消え去る。
+j	けちらす	kechirasu	ものを蹴って散らかす。
+j	けっていせん	ketteisen	決定戦: playoffs, tiebreaker
+j	けつかる	ketsukaru	「いる」「ある」に対する侮蔑を表す語。いやがる。
+j	けつめど	ketsumedo	anus
+j	けづくろい	kezukuroi	動物が舌や手などを使って、毛並みを整えること。
+j	けばだつ	kebadatsu	紙や布が摺れて細い毛が立つ。毛立つ。
+j	けものへん	kemonohen	獣偏: the "dog" radical, nu…
+j	けんいちろう	kenichiro	健一朗: a male given name
+j	けんぎゅうせい	kengyusei	牽牛星: Altair
+j	けんま	kenmasuru	to visit the home, the wo…
+j	ケアマネージャー	keamaneja	介護支援専門員の別称。
+j	ケシの実	keshinomi	
+j	ケフェウス座	kefeusuza	Cepheus
+j	ケルト人	kerutojin	主にヨーロッパ北西部に暮らしケルト語派を話す諸民族…
+j	ケルト海	kerutokai	大西洋の北東部、グレートブリテン島とアイルランドと…
+j	ケータリング	ketaringu	catering
+j	ケーブルウェイ	keburuwei	
+j	ケーララ州	kerarashu	
+j	京秩	keichitsu	京官。
+j	倦怠感	kentaikan	malaise, weariness, letha…
+j	倹約な	kenyakuna	
+j	倹約家	kenyakuka	無駄な消費を少なくするよう努める人。
+j	健一朗	kenichiro	a male given name
+j	健一狼	kenichiro	a male given name
+j	健一郎	kenichiro	a male given name
+j	健康的	kenkoteki	healthy, healthful, hygie…
+j	健聴者	kenchosha	person who has no hearing…
+j	傑出	kesshutsu	eminence; extraordinarine…
+j	傾斜地	keishachi	地面が傾斜している土地。
+j	刑事上の	keijijono	
+j	剣が峰	kengamine	剣ヶ峰の異表記。
+j	剣ケ峯	kengamine	剣ヶ峰の異表記。
+j	剣ヶ峯	kengamine	剣ヶ峰の異表記。
+j	剣ヶ峰	kengamine	火山の噴火口の縁部。特に、富士山のものを指す事があ…
+j	勁疾	keishitsu	強く、素早いさま。
+j	化楽天	kerakuten	六つある欲界の地上から五番目の天。自ら欲する境地を…
+j	化粧箱	keshobako	cosmetics box
+j	卷積雲	kensekiun	
+j	啓蟄	keichitsu	the third solar term
+j	喧嘩する	kenkasuru	
+j	喧嘩を売る	kenkaouru	to look for a fight, to p…
+j	喧嘩を買う	kenkaokau	to take on a fight, to ta…
+j	圏界面	kenkaimen	対流圏、成層圏、中間圏、熱圏のそれぞれの境界。
+j	圭一郎	keiichiro	a male given name
+j	尻穴	ketsumedo	asshole (anus)
+j	巻積雲	kensekiun	cirrocumulus
+j	建議する	kengisuru	
+j	形態論	keitairon	morphology
+j	形成体	keiseitai	脊椎動物の発生で分化など形態形成の中心となる胚域。…
+j	慶三郎	keisaburo	a male given name
+j	憩室	keishitsu	胃腸や気管など主に管状の臓器の壁面の一部に小さな袋…
+j	憲兵隊	kenpeitai	regiment of military poli…
+j	憲法学	kenpogaku	憲法の解釈について研究する学問。
+j	懸垂線	kensuisen	紐のような自立しない物体の両端のみを支え、その間は…
+j	懸賞金	kenshokin	prize money; reward
+j	掲出	keishutsu	人目に付くよう掲示すること。
+j	携帯品	keitaihin	身に付け携帯する品物。所持品。
+j	敬愛する	keiaisuru	
+j	敬老の日	keironohi	国民の祝日に関する法律に規定される祝日の一つ。九月…
+j	景勝地	keishochi	picturesque scenery
+j	景気後退	kekikotai	景気の山から後退しているが、まだ不景気までには至っ…
+j	桀賊	ketsuzoku	強暴な賊徒。
+j	桁あふれ	ketaafure	digit overflow
+j	検出	kenshutsu	detection
+j	検地帳	kenchicho	検地を行った結果を書き留めた書類。
+j	検査する	kensasuru	
+j	検死官	kenshikan	coroner
+j	検眼士	kenganshi	
+j	検震器	kenshinki	seismograph
+j	権天使	kentenshi	キリスト教などの学派における、第八位の天使の階層。…
+j	権威主義	kenishugi	authoritarianism
+j	欠ページ	ketsupeji	page absence; missing page
+j	欠失	kesshitsu	
+j	欠損歯	kessonshi	
+j	欠肉	ketsuniku	underfill
+j	欠落	ketsuraku	lack; lacking; absence; d…
+j	毛織物	keorimono	woolen item or material
+j	決勝戦	kesshosen	final (match or game to d…
+j	決勝点	kesshoten	最後の勝敗を決める地点。ゴール。フィニッシュ。
+j	決勝線	kesshosen	finish line
+j	決定戦	ketteisen	playoff; tiebreaker; a ma…
+j	決定版	ketteiban	definitive edition
+j	消しカス	keshikasu	
+j	消しゴム	keshigomu	an eraser, a rubber
+j	消し込み	keshikomi	state of a fishing float …
+j	消し飛ぶ	keshitobu	to vanish, to scatter (aw…
+j	煙出し	kemudashi	
+j	牽引役	keninyaku	driving force
+j	牽牛星	kengyusei	synonym of アルタイル (Arutair…
+j	犬儒的	kenjuteki	cynical
+j	犬歯筋	kenshikin	a caninus muscle
+j	獣偏	kemonohen	the left "dog" radical, n…
+j	研修会	kenshukai	
+j	研修生	kenshusei	trainee
+j	研究会	kenkyukai	research association; res…
+j	研究生	kenkyusei	a research student (i.e. …
+j	研究者	kenkyusha	researcher
+j	穴居人	kekkyojin	caveman; troglodyte
+j	系統学	keitogaku	
+j	系統的	keitoteki	系統に関するさま。
+j	系譜学	keifugaku	genealogy
+j	経時的	keijiteki	
+j	経済史	keizaishi	経済活動とそれに関する法制、社会、地理などについて…
+j	経済紙	keizaishi	経済に関するニュースを中心に伝える新聞。経済新聞。
+j	経済誌	keizaishi	経済に関するニュースを中心に伝える雑誌。ビジネス誌…
+j	経済面	keizaimen	経済方面。
+j	経膣	keichitsu	膣を経ること。
+j	経験値	keikenchi	experience points
+j	経験者	keikensha	ある物事を経験したことがある人。
+j	経験論	keikenron	
+j	結晶水	kesshosui	water of crystallization
+j	結晶系	kesshokei	結晶を結晶軸の数、角度、長さなどにより分類したもの…
+j	結果オーライ	kekkaorai	物事が紆余曲折を経つつも、最終的に満足できる状況に…
+j	結構です	kekkodesu	
+j	結膜	ketsumaku	conjunctiva
+j	結跏趺坐	kekkafuza	lotus position
+j	絹積雲	kensekiun	「巻積雲」の別表記。
+j	継室	keishitsu	のちぞい。後妻。
+j	継承者	keishosha	successor, heir
+j	蛍光マーカー	keikomaka	蛍光ペンの意。
+j	血圧	ketsuatsu	blood pressure
+j	血小板	kesshoban	platelet
+j	血属	ketsuzoku	肉親。血族。
+j	血族	ketsuzoku	blood relation, blood rel…
+j	血栓症	kessensho	thrombosis
+j	血管腫	kekkanshu	
+j	血肉	ketsuniku	flesh and blood; human bo…
+j	計算手	keisanshu	計算を職業とする人。
+j	計算書	keisansho	statement of account
+j	計算者	keisansha	
+j	計量士	keiryoshi	計量器の検査、計量管理を行う職業。
+j	警官隊	keikantai	犯罪者の確保や暴動鎮圧など特殊な訓練を受けた警察官…
+j	警戒感	keikaikan	a sense of caution
+j	警視庁	keishicho	metropolitan police
+j	警邏する	keirasuru	
+j	賢出	kenshutsu	優れ、抜きん出ること。
+j	賢者モード	kenjamodo	
+j	蹴っ飛ばす	kettobasu	
+j	蹴散らす	kechirasu	to kick and scatter about…
+j	軽侮する	keibusuru	
+j	軽快車	keikaisha	シティサイクルの一つでタイヤの径が25インチ以上の…
+j	軽歌劇	keikageki	light opera, operetta
+j	軽犯罪	keihanzai	a minor offense, misdemea…
+j	軽粒子	keiryushi	synonym of レプトン (reputon,…
+j	軽音楽	keiongaku	light music (such as popu…
+j	遣隋使	kenzuishi	a Japanese envoy to Sui C…
+j	金紅石	kenkoseki	
+j	閨室	keishitsu	ねや。寝室。
+j	韅靷鞅靽	keninohan	馬が出発する準備が整うこと。（参考：『新選漢和辞典…
+j	顕出	kenshutsu	appearing
+j	顕生代	kenseidai	the Phanerozoic eon
+j	驚蟄	keichitsu	synonym of 啓蟄 (keichitsu)
+j	鶏冠山	keikanzan	a mountain in Kōshū, Yama…
+k	커녕	keonyeong	명사, 대명사에 붙여서 그것을 부정하면서 그보…
+k	커다랗다	keodarata	extremely huge
+k	커브볼	keobeubol	a curveball
+k	커엽다	keoyeopda	
+k	커터칼	keoteokal	
+k	커프스	keopeuseu	cufflink (button used to …
+k	커플티	keopeulti	matching T-shirts for cou…
+k	커피 타임	keopitaim	
+k	커피색	keopisaek	coffee (color)
+k	커피숍	keopisyop	coffee shop, café
+k	커피점	keopijeom	
+k	커피콩	keopikong	
+k	컨베이어	keonbeieo	conveyor, conveyor belt
+k	컨트리	keonteuri	
+k	컴맹	keommaeng	being terrible with compu…
+k	컴프리	keompeuri	지치과의 여러해살이풀. 높이는 60~100cm…
+k	케더링	kedeoring	
+k	케랄라 주	kerallaju	
+k	케른텐	kereunten	
+k	케손 시티	kesonsiti	
+k	케이블카	keibeulka	cable car
+k	케틀벨	keteulbel	
+k	케플러	kepeulleo	프리드리히 요한네스 케플러 (1571년 12월…
+k	켈트족	kelteujok	유럽에 살고 있는 민족의 하나. 프랑스인의 조…
+k	켈트학	kelteuhak	
+k	켈트해	kelteuhae	
+k	켐니츠	kemnicheu	
+k	크낙새	keunaksae	The Tristram's woodpecker…
+k	크라상	keurasang	
+k	크래커	keuraekeo	cracker
+k	크레송	keuresong	watercress, Nasturtium of…
+k	크레용	keureyong	crayon (colored chalk or …
+k	크레이터	keureiteo	
+k	크렘린	keuremnin	the Kremlin (in Moscow)
+k	크로넛	keuroneot	
+k	크로마키	keuromaki	
+k	크로뮴	keuromyum	chromium
+k	크로아티아	keuroatia	Croatia (a country on the…
+k	크로우빌	keuroubil	
+k	크로플	keuropeul	
+k	크롭톱	keuroptop	
+k	크리오스	keurioseu	
+k	크리처	keuricheo	
+k	크립톤	keuripton	krypton
+k	크산텐	keusanten	xanthene
+k	크산틴	keusantin	부린염기의 일종.
+k	큰길가	keungilga	
+k	큰마님	keunmanim	
+k	큰마음	keunmaeum	
+k	큰머리	keunmeori	
+k	큰빌비	keunbilbi	
+k	큰사람	keunsaram	
+k	큰아들	keunadeul	eldest son
+k	큰어치	keuneochi	
+k	큰언니	keuneonni	
+k	큰엄마	keuneomma	
+k	큰이모부	keunimobu	
+k	클로버	keullobeo	clover
+k	클로저	keullojeo	
+k	클리버	keullibeo	
+k	클리셰	keullisye	
+k	클리퍼	keullipeo	
+k	클링온	keulingon	
+e	kebnekaise	kebnekaise	1 meaning
+e	kettlebell	kettlebell	1 meaning
+e	key lime pie	keylimepie	1 meaning
+j	けいじょうみゃく	keijomyaku	頸静脈: jugular vein
+j	けしからん	keshikaran	良くないことである。あってはならないことである。
+j	けしつぶ	keshitsubu	something very small
+j	けずりとる	kezuritoru	削り、取り除く。
+j	けたちがい	ketachigai	extraordinary; in a diffe…
+j	けたはずれ	ketahazure	extraordinary; in a diffe…
+j	けちくさい	kechikusai	いかにもけちである。
+j	けちけち	kechikechi	細かいことを喧しく言うさま。
+j	けつの穴	ketsunoana	
+j	けりかもめ	kerikamome	百合鷗。
+j	けんびきょう座	kenbikyoza	Microscopium
+j	ケイそじゅし	keisojushi	ケイ素樹脂: silicone resin
+j	ケコンロンカ	kekonronka	アカネ科コンロンカ属の低木。
+j	ケセラセラ	keserasera	なるようになれ、の意。
+j	ケソンシティ	kesonshiti	Quezon City (a city in th…
+j	ケツの穴	ketsunoana	anus, butthole
+j	ケツバット	ketsubatto	spanking using a baseball…
+j	ケツマンコ	ketsumanko	
+j	ケツ喰らえ	ketsukurae	
+j	ケトルベル	ketoruberu	
+j	ケベック州	kebekkushu	
+j	ケベック市	kebekkushi	
+j	ケミストリー	kemisutori	化学。
+j	ケムニッツ	kemunittsu	
+j	ケルキラ島	kerukirato	
+j	ケルセチン	kerusechin	quercetin
+j	ケルト学	kerutogaku	
+j	ケルト語派	kerutogoha	the Celtic languages
+j	ケルベルス	keruberusu	an asteroid, properly 186…
+j	ケルベロス	keruberosu	Cerberus, the mythical th…
+j	ケンカップル	kenkappuru	couple that argues a lot
+j	ケンタウルス	kentaurusu	
+j	ケンタウロス	kentaurosu	a centaur
+j	ケンブリッジ	kenburijji	Cambridge (a city and loc…
+j	ケ・セラ・セラ	keserasera	「ケセラセラ」の異形。
+j	ケーススタディー	kesusutadi	case study
+j	ケータイ番号	ketaibango	
+j	乾闥婆	kendatsuba	
+j	京阪神	keihanshin	The cities of Kyōto, Ōsak…
+j	健康に良い	kenkoniyoi	
+j	健康保険	kenkohoken	社会保障の一つで、健康保険法に基づき、労働者とその…
+j	健康被害	kenkohigai	普段は健康であるが、ある物事が要因となり健康に被害…
+j	傾斜角	keishakaku	
+j	刑事事件	keijijiken	被疑者が刑罰の対象となる可能性のある事件。
+j	刑事訴訟	keijisosho	検察官が起訴した被告人の行為について、公訴事実の存…
+j	刑罰の	keibatsuno	
+j	券面額	kenmengaku	有価証券の券面に記載された金額。額面金額。
+j	剣術家	kenjutsuka	剣術を行う武術家またはそれで生業としている者、修得…
+j	啓蒙時代	keimojidai	Age of Enlightenment (per…
+j	喧々囂々	kenkengogo	
+j	喧伝する	kendensuru	
+j	喧嘩早い	kenkabayai	小さなことでもすぐ喧嘩をするさま。喧嘩っ早い。
+j	喧嘩腰	kenkagoshi	attitude that is ready to…
+j	堅信礼	kenshinrei	
+j	堅実な	kenjitsuna	
+j	契約書	keiyakusho	contract; agreement; cont…
+j	孑孑	ketsuketsu	alone, lonely
+j	建白書	kenpakusho	petition, memorial
+j	建築家	kenchikuka	architect
+j	建造物	kenzobutsu	建物・橋・塔など建造した物。
+j	彐頭	keigashira	漢字の部首「⼹」の呼称の一つ。
+j	彑頭	keigashira	漢字の部首「⼹」の呼称の一つ。
+j	形声文字	keiseimoji	六書の形声の方法で作られた漢字。
+j	形容動詞	keiyodoshi	な-adjective: specific to …
+j	形容詞の	keiyoshino	
+j	形容詞化	keiyoshika	もとは形容詞でない語が変化し、形容詞として使用され…
+j	形態学	keitaigaku	morphology
+j	形成外科	keiseigeka	医学の分野の一つ。身体の奇形や変形などを外科手術に…
+j	怪しからん	keshikaran	outrageous (shocking)
+j	怪我させる	kegasaseru	
+j	慶尚北	keishohoku	
+j	懸垂幕	kensuimaku	
+j	懸垂谷	kensuikoku	懸谷。
+j	懸架装置	kenkasochi	自動車などの車輪と車体の間に取り付けられ車体を支え…
+j	懸濁液	kendakueki	顕微鏡で見える程度の粒子が液体の中に沈殿せずに分散…
+j	敬礼する	keireisuru	
+j	景気変動	keikihendo	資本主義経済のもとで、景気が周期的に好況、後退、不…
+j	検事総長	kenjisocho	
+j	検索表	kensakuhyo	
+j	検閲官	kenetsukan	censor (official responsi…
+j	毛綿鴨	kewatagamo	a king eider
+j	毛羽立てる	kebadateru	
+j	決別	ketsubetsu	bidding farewell; parting…
+j	決定する	ketteisuru	
+j	決定的	ketteiteki	物事がほぼ決まっているさま。
+j	決心する	kessinsuru	
+j	決意する	ketsuisuru	
+j	決決	ketsuketsu	水が流れるさま。
+j	決裂	ketsuretsu	rupture (e.g. of friendly…
+j	潔癖症	keppekisho	神経質なほどのきれい好き、清潔好きのこと。ともいう…
+j	熒惑星	keikokusei	Mars
+j	獣の印	kemononoin	
+j	獣耳	kemonomimi	kemonomimi; animal ears, …
+j	玄圃梨	kenponashi	クロウメモドキ科の落葉高木。山野に自生し、果実は食…
+j	珪素樹脂	keisojushi	silicone resin
+j	痙性麻痺	keiseimahi	中枢神経の障害により痙縮を伴う麻痺。
+j	研究する	kenkyusuru	
+j	系列化	keiretsuka	The formation of a 系列(けいれ…
+j	系統を組む	keitookumu	
+j	経常勘定	keijokanjo	
+j	経済学	keizaigaku	economics
+j	経済的	keizaiteki	economic; financial; econ…
+j	経済統合	keizaitogo	特定の地域にある国家が共通の通貨を導入したり、関税…
+j	経絡系	keirakukei	the meridian system
+j	経験する	keikensuru	
+j	経験則	keikensoku	厳密な理論や数式によるのではなく、経験によって多く…
+j	経験済み	keikenzumi	
+j	経験的	keikenteki	
+j	結合性	ketsugosei	
+j	結婚する	kekkonsuru	
+j	結婚詐欺	kekkonsagi	本人には結婚する気はないが、異性に結婚する目的で近…
+j	結実	ketsujitsu	bearing fruit; being succ…
+j	結晶学	kesshogaku	crystallography
+j	結晶性	kesshousei	
+j	結末	ketsumatsu	consequence, end
+j	絢爛豪華	kenrangoka	贅沢で光輝き美しいさま。豪華絢爛。
+j	継承する	keishosuru	
+j	肩甲下筋	kenkokakin	a subscapularis muscle
+j	肩甲骨	kenkokotsu	shoulder blade, scapula
+j	肩胛骨	kenkokotsu	「肩甲骨」を参照。
+j	茎状突起	keijotokki	a styloid process
+j	血友病	ketsuyubyo	haemophilia
+j	血清学	kesseigaku	serology
+j	血清學	kesseigaku	
+j	血脈	ketsumyaku	blood vessel, vein
+j	血色素	kesshikiso	haemoglobin
+j	血行動態	kekkodotai	
+j	計算する	keisansuru	
+j	計算尺	keisanjaku	slide rule; slipstick
+j	計算表	keisannhyo	
+j	計量学	keiryogaku	計量について研究する学問。測定学。計測学。度量衡学。
+j	訣別	ketsubetsu	きっぱりと別れること。完全に離れること。
+j	警句を吐く	keikuohaku	make witty remarks, come …
+j	警告する	keikokusur	
+j	警戒する	keikaisuru	
+j	警戒心	keikaishin	sense of alertness / caut…
+j	賢者タイム	kenjataimu	refractory period; the pe…
+j	軽トラック	keitorakku	kei truck, Japanese mini …
+j	軽乗用車	keijoyosha	軽乗用自動車の略称。
+j	軽挙妄動	keikyomodo	rash and blind act
+j	軽機関銃	keikikanju	light machine gun (machin…
+j	軽自動車	keijidosha	a light vehicle, kei car,…
+j	軽蔑語	keibetsugo	
+j	軽裘肥馬	keikyuhiba	To be clothed in furs and…
+j	軽視する	keishisuru	
+j	軽金属	keikinzoku	light metal
+j	頸動脈	keidomyaku	carotid artery
+j	頸静脈	keijomyaku	jugular vein
+j	顕在する	kenzaisuru	
+j	顕微鏡座	kenbikyoza	
+j	鶏冠石	keikanseki	realgar
+j	鶏口牛後	keikogyugo	It is better to be a big …
+j	鶏舌香	keizetsuko	薫香のひとつ。チョウジのつぼみを干して作る。クロー…
+j	鶏鳴狗盗	keimeikuto	a person, especially of a…
+k	커맨드	keomaendeu	
+k	커뮤니케	keomyunike	
+k	커뮤니티	keomyuniti	online community website,…
+k	커미션	keomisyeon	commission (amount of mon…
+k	커밍아웃	keomingaut	coming out of the closet
+k	커피포트	keopipoteu	coffee pot
+k	컨츄리	keonchyuri	영어 «country music» (컨트리음악…
+k	컨테이너	keonteineo	
+k	컨트롤	keonteurol	
+k	컴퍼스	keompeoseu	자유롭게 폈다 오므렸다 할 수 있는 두 다리를…
+k	컴퓨터	keompyuteo	computer
+k	컵케이크	keopkeikeu	
+k	케르세틴	kereusetin	
+k	케이터링	keiteoring	catering
+k	케이프타운	keipeutaun	Cape Town (a city, the le…
+k	케케묵은	kekemugeun	'케케묵다'의 관형사형.
+k	크나크다	keunakeuda	
+k	크네세트	keuneseteu	
+k	크라쿠프	keurakupeu	
+k	크래킹	keuraeking	허가 받지 않은 시스템에 대하여 정신 적 또는…
+k	크레디트	keurediteu	credit
+k	크레이오스	keureioseu	
+k	크레파스	keurepaseu	pastel, crayon
+k	크로노스	keuronoseu	농업과 계절의 티탄신으로 우라노스와 가이아의 …
+k	크로아찌아	keuroajjia	
+k	크루아상	keuruasang	croissant
+k	크리슈나	keurisyuna	
+k	크림 소다	keurimsoda	
+k	크림새우	keurimsaeu	새우를 활용하여 만든 중국 요리로, 껍질을 깐…
+k	크림슨	keurimseun	
+k	크메르어	keumereueo	Khmer (the national langu…
+k	큰 소리로	keunsoriro	
+k	큰고모부	keungomobu	
+k	큰기침	keungichim	
+k	큰무당	keunmudang	a great, accomplished pri…
+k	큰박쥐	keunbakjwi	
+k	큰사랑	keunsarang	
+k	큰살림	keunsallim	
+k	큰스님	keunseunim	
+k	큰아버지	keunabeoji	uncle, father's elder bro…
+k	큰해머	keunhaemeo	
+k	큰형	keunhyeong	
+k	클라우드	keullaudeu	cloud
+k	클락새	keullaksae	'크낙새'의 북한말.
+k	클란탄	keullantan	
+k	클래스	keullaeseu	class (group of students …
+k	클래식	keullaesik	classic
+k	클러치	keulleochi	
+k	클로징	keullojing	
+k	클리닝	keullining	cleaning, laundry
+k	킁킁	keungkeung	
+e	keep an eye on	keepaneyeon	1 meaning
+e	keratoconus	keratoconus	1 meaning
+e	kernel panic	kernelpanic	1 meaning
+e	ketopentose	ketopentose	1 meaning
+e	key exchange	keyexchange	1 meaning
+e	keyboardist	keyboardist	1 meaning
+j	けいさつちょう	keisatsucho	警察庁: National Police Agen…
+j	けいたいでんわ	keitaidenwa	
+j	けいらんそうめん	keiransomen	鶏卵素麺: fios de ovos
+j	けしかける	keshikakeru	相手の感情を高めるように働きかけて、（強制的ながら…
+j	けしとめる	keshitomeru	火を消し、延焼を止める。
+j	けずりぶし	kezuribushi	鰹節などを削ったもの。多く調味料として使われる。
+j	けねんざいりょう	kenenzairyo	懸念材料: cause for concern, …
+j	けはえぐすり	kehaegusuri	頭髪や体毛を発毛、育毛させる効果がある薬剤。
+j	けむりだし	kemuridashi	chimney
+j	けものみち	kemonomichi	獣の通り道。野生動物の往来で偶然にできる山中の細い…
+j	けんぶつにん	kenbutsunin	
+j	けんもほろろ	kenmohororo	curt (in refusals); brusq…
+j	ケアレスミス	kearesumisu	careless mistake
+j	ケイマン諸島	keimanshoto	Cayman Islands (three isl…
+j	ケトペントース	ketopentosu	ketopentose
+j	ケブネカイセ	kebunekaise	
+j	ケンタッキー州	kentakkishu	the full form of ケンタッキー (…
+j	ケーアルタハク	kearutahaku	スコットランドにおいてスコットランド・ゲール語を主…
+j	ケースバイケース	kesubaikesu	case-by-case
+j	ケープタウン人	keputaunjin	
+j	ケープ狐	kepugitsune	a Cape fox (Vulpes chama)
+j	ケープ野兎	kepunousagi	a Cape hare (Lepus capens…
+j	健康的な	kenkotekina	
+j	健康診査	kenkoshinsa	physical examination, med…
+j	健闘を祈る	kentooinoru	to wish someone a good lu…
+j	傾斜率	keisharitsu	
+j	刑事処分	keijishobun	犯罪者に対する刑罰を科する処分。
+j	刑事裁判	keijisaiban	被疑者の無罪・有罪と有罪の場合の刑罰を決定する裁判。
+j	刑務所長	keimushocho	
+j	刑罰史	keibatsushi	刑罰に関する歴史。
+j	化粧室	keshoshitsu	bathroom; restroom; toilet
+j	啓典の民	keitennomin	
+j	喧嘩っ早い	kenkappayai	quarrelsome, combative, q…
+j	喧嘩別れ	kenkawakare	fighting/arguing and brea…
+j	嗾ける	keshikakeru	
+j	契約する	keiyakusuru	
+j	契約内容	keyakunaiyo	
+j	建築士	kenchikushi	licensed architect, a per…
+j	建蔽率	kenpeiritsu	建築物の建築面積の、敷地面積に対する割合。
+j	建設業	kensetsugyo	土木、建築の工事を行う営業。
+j	建設者	kensetsusha	
+j	形而上学	keijijogaku	metaphysics
+j	怪我の功名	keganokomyo	失敗、災難だと思っていたことが却って良い結果をもた…
+j	慶尚南道	keishonando	South Gyeongsang (a provi…
+j	憲法化する	kenpokasuru	
+j	憲法改正	kenpokaisei	constitutional amendment
+j	懸念材料	kenenzairyo	cause for concern, ground…
+j	捲土重来	kendochorai	いちど敗れた者がふたたび力を盛り返し、反撃に転じる…
+j	携帯口糧	keitaikoryo	携帯用の口糧。携帯する際の利便性を考慮してつくられ…
+j	携帯番号	keitaibango	mobile phone number
+j	携帯電話	keitaidenwa	cellular phone, mobile ph…
+j	敬天愛人	keitenaijin	天を敬い、人を愛すること。
+j	敬称略	keishoryaku	omission of honorifics (l…
+j	景気循環	keikijunkan	資本主義経済のもとで、景気が周期的に好況、後退、不…
+j	検察官	kensatsukan	prosecutor
+j	検察庁	kensatsucho	the public prosecutor's o…
+j	検索する	kensakusuru	
+j	検索避け	kensakuyoke	avoiding search engines; …
+j	検閲する	kenetsusuru	
+j	検非違使庁	kebiishicho	検非違使が執務を執る役所。
+j	権利章典	kenrishoten	bill of rights
+j	権力者	kenryokusha	地位や権力を有する者。
+j	欠席する	kessekisuru	
+j	欠点のない	kettennonai	
+j	気色ばむ	keshikibamu	荒立った心情を顕にする。（文語表現）怒る。
+j	決明子	ketsumeishi	seed of Senna obtusifolia…
+j	決死隊	ketsushitai	
+j	消し止める	keshitomeru	extinguish, put out
+j	煙り出し	kemuridashi	
+j	牽引免許	keninmenkyo	公道で牽引自動車を運転することができる運転免許。
+j	牽強付会	kenkyofukai	強引に理屈をこじつけて自分に有利になるよう展開する…
+j	犬猿の仲	kenennonaka	非常に仲が悪いことの例え。
+j	献血者	kenketsusha	
+j	献身的	kenshinteki	devoted, unselfish (not s…
+j	獣道	kemonomichi	A well-worn mountain path…
+j	痙攣性の	keirenseino	
+j	研究機関	kenkyukikan	企業、団体、官公庁が設置する研究を行うための機関。
+j	研究職	kenkyushoku	研究機関で研究を行う職。
+j	系統立てる	keitodateru	systematize, organize
+j	経口感染	keikokansen	oral infection; oral tran…
+j	経営学部	keieigakubu	経営学の教授、研究を行う学部。
+j	経済力	keizairyoku	個人や国家などが保有する経済的能力。
+j	経済戦争	keizaisenso	相手国に対し経済的な手段を用いて自国に有利な状態に…
+j	経済特区	keizaitokku	中国が海外の資本や技術を導入するために開放した地域。
+j	経験のない	keikennonai	
+j	経験主義	keikenshugi	
+j	経験人数	keikenninzu	
+j	経験式	keikenshiki	実験の結果から得られた諸量の数値の関係を表した式。…
+j	結合する	ketsugosuru	
+j	結婚式	kekkonshiki	wedding, marriage ceremony
+j	結晶格子	kesshokoshi	crystal lattice (geometri…
+j	結節点	kessetsuten	つないで合わせた部分。結び目。
+j	結膜炎	ketsumakuen	conjunctivitis
+j	継続する	keizokusuru	
+j	肩甲挙筋	kenkokyokin	a levator scapulae
+j	見当違い	kentochigai	向かう方角を誤ること。
+j	見物人	kenbutsunin	onlooker; spectator; sigh…
+j	計測する	keisokusuru	
+j	計測学	keisokugaku	計測について研究する学問。計量学。測定学。度量衡学。
+j	計画する	keikakusuru	
+j	計画的	keikakuteki	systematic
+j	計算式	keisanshiki	formula
+j	計算高い	keisandakai	calculating
+j	計量カップ	keiryokappu	
+j	計量スプーン	keiryosupun	measuring spoon
+j	謙遜した	kensonshita	
+j	警察史	keisatsushi	警察に関する歴史の総称。
+j	警察官	keisatsukan	policeman, police officer
+j	警察庁	keisatsucho	National Police Agency
+j	警察権	keisatsuken	警察機関が社会秩序を維持するため、国民に行為をする…
+j	警察犬	keisatsuken	police dog
+j	警察署	keisatsusho	police station
+j	警察軍	keisatsugun	国家憲兵の別称。
+j	警察隊	keisatsutai	特定の任務や地域を担当する警察の部隊。
+j	警戒区域	keikaikuiki	災害などのため法的に立ち入りが禁止された区域。
+j	警戒色	keikaishoku	赤色や黄色のこと。見た人が警戒するように見せる。
+j	賢者の石	kenjanoishi	the philosopher's stone
+j	鍵盤楽器	kenbangakki	鍵盤と呼ばれる機構を持った楽器の総称。
+j	頸板状筋	keibanjokin	a splenius cervicis muscle
+j	鶏卵素麺	keiransomen	fios de ovos (traditional…
+k	커넥션	keoneksyeon	
+k	커닝하다	keoninghada	to cheat on a test
+k	커패시터	keopaesiteo	
+k	커피메이커	keopimeikeo	coffeemaker (kitchen appa…
+k	컨디션	keondisyeon	몸의 건강이나 기분 등의 상태.
+k	컨소시엄	keonsosieom	
+k	컴파일러	keompailleo	
+k	컵 받침	keopbatchim	
+k	컵라면	keomnamyeon	컵 모양의 용기에 담아 뜨거운 물을 부어 먹을…
+k	컵받침	keopbatchim	
+k	케이맨 제도	keimaenjedo	
+k	케임브리지	keimbeuriji	
+k	켄타우로스	kentauroseu	
+k	크고넓다	keugoneolda	
+k	크랜베리	keuraenberi	cranberry
+k	크레믈리	keuremeulli	'크렘린'의 북한말.
+k	크레센트	keuresenteu	
+k	크레셴도	keuresyendo	
+k	크로아티아어	keuroatiaeo	the Croatian language
+k	크로아티아인	keuroatiain	Croat
+k	크로와상	keurowasang	크루아상의 비규범 표기.
+k	크로커스	keurokeoseu	학명: crocus 유럽, 중동 및 중국 등지…
+k	크리스탈	keuriseutal	
+k	크리스트	keuriseuteu	Christ
+k	크림 반도	keurimbando	
+k	크림반도	keurimbando	Crimea; Crimean peninsula
+k	크림빵	keurimppang	빵 안에 생크림 따위를 넣어서 만든 빵.
+k	크림소스	keurimsoseu	
+k	크림수프	keurimsupeu	크림을 써서 걸쭉하게 만든 수프.
+k	크바르크	keubareukeu	quark, tvorog, cottage ch…
+k	크실리톨	keusillitol	
+k	큰개자리	keungaejari	Sirius, Canis Major (the …
+k	큰곰자리	keungomjari	Ursa Major
+k	큰기러기	keungireogi	The bean goose, Anser fab…
+k	큰납지리	keunnapjiri	The deep body bitterling,…
+k	큰당숙	keundangsuk	
+k	큰부리새	keunburisae	
+k	큰어머니	keuneomeoni	아버지의 남자 형, 특히 맏형의 아내. (부록…
+k	큰입우럭	keunibureok	largemouth bass
+k	큰창자	keunchangja	large intestine
+k	큰처남	keuncheonam	
+k	큰홍학	keunhonghak	
+k	클라리넷	keullarinet	clarinet
+k	클램프	keullaempeu	clamp (tool)
+k	클랴지마	keullyajima	
+k	클로로필	keulloropil	
+k	클릭하다	keullikhada	to click (press and relea…
+k	클링온어	keulingoneo	
+k	큼직하다	keumjikhada	
+e	key to the city	keytothecity	1 meaning
+j	けがらわしい	kegarawashii	触るのも嫌になるほど、汚れていて醜い。道徳的、また…
+j	けたたましい	ketatamashii	noisy, loud, piercing
+j	けちょんけちょん	kechonkechon	thoroughly
+j	けばけばしい	kebakebashii	gaudy, showy, loud
+j	けものたおし	kemonotaoshi	国つ罪の一種。家畜を殺害すること。
+j	ケアシノスリ	keashinosuri	タカ目タカ科ノスリ属に属する猛禽類の一種。学名:B…
+j	ケソ・マンチェゴ	kesomanchego	Manchego
+j	ケツマンする	ketsumansuru	
+j	ケナガイタチ	kenagaitachi	
+j	ケベックシティ	kebekkushiti	カナダ・ケベックの州都。
+j	ケベック・シティー	kebekkushiti	Quebec City (a city, the …
+j	ケミカルテロ	kemikarutero	ケミカルテロリズムの略。
+j	ケルベルス座	keruberusuza	Cerberus
+j	ケンタウルス座	kentaurusuza	Centaurus
+j	ケーブルテレビ	keburuterebi	cable TV
+j	乾坤一擲	kenkonitteki	staking everything, playi…
+j	仮病を使う	kebyootsukau	
+j	健康優良児	kenkoyuryoji	健康状態が特に優れているとして表彰された児童。
+j	健康診断	kenkoshindan	physical examination, med…
+j	傾側偃仰	keisokuengyo	(四字熟語)世間の片隅で世の中の流れのままに生きる…
+j	傾向的な	keikoutekina	
+j	傾斜させる	keishasaseru	
+j	刑事免責	keijimenseki	
+j	刑事責任	keijisekinin	犯罪行為を行った者に対し刑罰を受けなければならない…
+j	化粧しっくい	keshoshikkui	
+j	卦算冠	kesankanmuri	漢字の部首「⼇」が冠である場合の呼称。
+j	啓発する	keihatsusuru	
+j	契約社員	keiyakushain	常勤の社員（従業員）のうち、専門的な技術などを有す…
+j	建築学	kenchikugaku	architecture, architecton…
+j	建設する	kensetsusuru	
+j	建設的	kensetsuteki	物事を打ち建てたり、良い方向へもっていこうとするさ…
+j	形式ばる	keishikibaru	
+j	形式張る	keishikibaru	stand on ceremony
+j	形式的	keishikiteki	形式に関しての様子。
+j	慶尚北道	keishohokudo	North Gyeongsang (a provi…
+j	憲法記念日	kenpokinenbi	日本国憲法の施行を祝う国民の祝日。5月3日。
+j	懸垂分詞	kensuibunshi	分詞構文で主節と従属節の主語が一致しない場合の分詞。
+j	捲簾大将	kenrentaisho	Curtain-lifting General, …
+j	桁外れの	ketahazureno	
+j	検疫信号	kenekishingo	quarantine flag
+j	検索エンジン	kensakuenjin	ある語句が含まれたウェブサイトを探すためのシステム…
+j	楔状骨	ketsujokotsu	a cuneiform bone
+j	権力構造	kenryokukozo	
+j	権力闘争	kenryokutoso	
+j	権威主義者	kenishugisha	権威主義の立場をとりそれを主張する者。
+j	権柄ずくの	kempeizukuno	
+j	毛むくじゃらの	kemukujarano	
+j	毛皮のコート	kegawanokoto	
+j	毛蔓小豆	ketsuruazuki	
+j	毛長鼬	kenagaitachi	a polecat (weasel of the …
+j	汚らわしい	kegarawashii	dirty, unclean, profane
+j	決定的な	ketteitekina	
+j	決着する	kecchakusuru	
+j	消し炭色	keshizumiiro	
+j	灰身滅智	keshinmetchi	煩悩を断ち、執着を捨て、無の境地に至ること。上座部…
+j	牽引自動車	keninjidosha	道路交通法において他の車両を牽引、運搬する構造や装…
+j	獣の数字	kemononosuji	the Number of the Beast
+j	現代化する	kendaikasuru	
+j	研究室	kenkyushitsu	laboratory
+j	経世済民	keiseisaimin	世を治め民を救うこと。
+j	経営大学	keieidaigaku	経営系の単科大学。
+j	経済やくざ	keizaiyakuza	表向きは企業活動を行い、裏で経済犯罪を行ってしのぎ…
+j	経済学部	keizaigakubu	経済学の教授、研究を行う学部。
+j	経済成長	keizaiseicho	国民経済の量的規模が長期にわたり成長すること。
+j	経済的な	keizaitekina	
+j	経験による	kenkenniyoru	
+j	結婚指輪	kekkonyubiwa	a wedding ring
+j	結晶質	kesshoshitsu	物質が結晶している状態であること。また、そのような…
+j	結束バンド	kessokubando	cable tie
+j	結果として	kekkatoshite	
+j	結社の自由	kesshanojiyu	freedom of association
+j	腱付着部	kenfuchakubu	
+j	蛍雪の功	keisetsunoko	fruit of painstaking study
+j	血圧計	ketsuatsukei	sphygmomanometer
+j	血液型	ketsuekigata	blood type
+j	血液学	ketsuekigaku	血液の成分などについて研究する内科学の一つ。
+j	血精液症	kesseiekisho	
+j	見物する	kenbutsusuru	
+j	計画外の	keikakugaino	
+j	計画運休	keikakuunkyu	scheduled operation stop …
+j	計算化学	keisankagaku	
+j	計算可能な	keisankanona	
+j	計算科学	keisankagaku	計算機を活用した上で、数値解析などの手法により科学…
+j	警戒宣言	keikaisenken	大規模地震対策特別措置法第九条の規定に基づき、内閣…
+j	軽蔑する	keibetsusuru	
+j	軽蔑的	keibetsuteki	pejorative, derogatory, d…
+j	頸回旋筋	keikaisenkin	a rotator cervicis
+j	頸最長筋	keisaichokin	a longissimus cervicis mu…
+k	커리어 우먼	keorieoumeon	a careerwoman
+k	커맨드 키	keomaendeuki	
+k	커스터드	keoseuteodeu	
+k	커틀러리	keoteulleori	
+k	커피 테이블	keopiteibeul	
+k	컨닝하다	keonninghada	
+k	컨트롤 키	keonteurolki	
+k	컬렉션	keolleksyeon	
+k	컴백하다	keombaekhada	to come back; to stage a …
+k	컴컴하다	keomkeomhada	
+k	컴플레인	keompeullein	(주로 소비자의) 불평, 항의.
+k	케르베로스	kereuberoseu	
+k	크기 자릿수	keugijaritsu	
+k	크기 정도	keugijeongdo	
+k	크러스트	keureoseuteu	
+k	크레믈린	keuremeullin	
+k	크로노미터	keuronomiteo	선박의 진동 및 온도 변화에 영향을 거의 받지…
+k	크론병	keuronbyeong	
+k	크루즈 선	keurujeuseon	
+k	크리닝 슈	keuriningsyu	
+k	크리비리흐	keuribiriheu	
+k	크리스털	keuriseuteol	산화납 등이 포함된 유리.
+k	크리스티나	keuriseutina	
+k	크림치즈	keurimchijeu	
+k	크메르 루주	keumereuruju	Khmer Rouge
+k	큰가시고기	keungasigogi	The three-spined stickleb…
+k	큰고랭이	keungoraengi	
+k	큰기룩새	keungiruksae	
+k	큰까마귀	keunkkamagwi	
+k	큰돌고래	keundolgorae	The bottlenose dolphin, T…
+k	큰바다사자	keunbadasaja	Steller sea lion, Eumetop…
+k	큰어머님	keuneomeonim	
+k	큰오라버니	keunorabeoni	
+k	큰외숙모	keunoesungmo	
+k	큰원추리	keunwonchuri	Amur daylily (Hemerocalli…
+k	큰은대구	keuneundaegu	skilfish
+k	큰절하다	keunjeolhada	
+k	큰첨서	keuncheomseo	The Ussuri shrew, Sorex m…
+k	클라씨크	keullassikeu	'클래식'의 북한말.
+k	클락션	keullaksyeon	car horn, klaxon
+k	클랙슨	keullaekseun	
+k	클로즈업	keullojeueop	영화나 텔레비전에서, 등장하는 배경이나 인물의…
+k	클릭 미끼	keullikmikki	
+k	클립보드	keullipbodeu	
+e	keep the change	keepthechange	1 meaning
+e	kentish plover	kentishplover	1 meaning
+e	kerr black hole	kerrblackhole	1 meaning
+j	けいかくていでん	keikakuteiden	計画停電: planned electric po…
+j	けいたいとうごろん	keitaitogoron	
+j	けしむらさき	keshimurasaki	やや黒みがかった濃い紫色。
+j	けちをつける	kechiotsukeru	to find fault
+j	けつじょどうし	ketsujodoushi	
+j	けらけら笑う	kerakerawarau	
+j	ケイマンブラック	keimanburakku	Cayman Brac
+j	ケミカルライト	kemikaruraito	
+j	ケラトサウルス	keratosaurusu	竜盤目獣脚亜目ケラトサウルス下目ケラトサウルス科ケ…
+j	ケルチ海峡	keruchikaikyo	
+j	ケルティベリア語	kerutiberiago	
+j	係数行列	keisugyoretsu	連立方程式A mathbf x= mathbf b…
+j	傾城傾国	keiseikeikoku	
+j	契約の箱	keiyakunohako	the Ark of the Covenant
+j	契約法学	keiyakuhogaku	
+j	建築物	kenchikubutsu	building; structure; edif…
+j	建設機械	kensetsukikai	建設現場で使用される機械の総称。
+j	建設物	kensetsubutsu	
+j	建設現場	kensetsugenba	a construction site
+j	形式主義	keishikishugi	内容を軽視または無視し形式を重視する立場、考え方。…
+j	形式主語	keishikishugo	英語などで、特に意味を持たない形だけの主語。
+j	形式言語	keishikigengo	
+j	検出する	kenshutsusuru	
+j	欠如動詞	ketsujodoushi	
+j	汚れたお金	kegaretaokane	
+j	決断力	ketsudanryoku	判断を迫られた時に、きっぱり決断できる能力。
+j	珪孔雀石	keikujakuseki	chrysocolla
+j	系外惑星	keigaiwakusei	太陽系外にある惑星。
+j	経済大学	keizaidaigaku	経済系の単科大学。
+j	経済学者	keizaigakusha	economist
+j	経済対策	keizaitaisaku	a budget plan, an economi…
+j	経理担当者	keiritantosha	
+j	経血カップ	keiketsukappu	menstrual cup
+j	結合させる	ketsugosaseru	
+j	結合できる	ketsugodekiru	
+j	結合法則	ketsugohosoku	associative law
+j	結婚してる	kekkonshiteru	
+j	結婚の平等	kekkonnobyodo	marriage equality
+j	結婚相談所	kekkonsodanjo	dating agency
+j	結婚記念日	kekkonkinenbi	wedding anniversary
+j	肩摩轂撃	kenmakokugeki	人や車馬の往来が激しく、道路が混雑していること。
+j	蛍光表示管	keikohyojikan	Vacuum Fluorescent Displa…
+j	血液検査	ketsuekikensa	
+j	血液銀行	ketsuekiginko	
+j	血縁関係	ketsuenkankei	親子や兄弟姉妹の関係を基礎としてつくられた社会的な…
+j	見聞覚知	kenmonkakuchi	六識の作用。眼識・耳識・鼻識・舌識・身識・意識。
+j	計測震度	keisokushindo	震度計によって観測した揺れから、計算によって求めた…
+j	計画停電	keikakuteiden	planned blackout, planned…
+j	計算機言語	keisankigengo	computer language
+j	計量学者	keiryogakusha	計量学を研究する科学者。
+j	警備警察	keibikeisatsu	「公安警察」を参照。
+j	警察力	keisatsuryoku	警察が治安維持を行うために行使する能力。
+j	警察国家	keisatsukokka	police state
+j	警察学校	keisatsugakko	警察官を教育、訓練するため、都道府県、警察庁が設置…
+j	警察本部	keisatsuhonbu	道府県の公安委員会の元に置かれ、それぞれの警察を統…
+j	軽便鉄道	keibentetsudo	軌間が狭く小型の機関車・車両を用いる鉄道。
+j	軽貨物車	keikamotsusha	軽貨物自動車の略称。
+j	頸多裂筋	keitaretsukin	a multifidus cervicis mus…
+j	頸腺結核	keisenkekkaku	結核菌による頸部リンパ節の炎症。瘰癧。
+k	커널 패닉	keoneolpaenik	
+k	커닝 쪽지	keoningjjokji	
+k	커닝 페이퍼	keoningpeipeo	
+k	컴페티션	keompetisyeon	
+k	컴퓨터실	keompyuteosil	
+k	컴퓨터화	keompyuteohwa	
+k	케르키라 섬	kereukiraseom	
+k	크로스워드	keuroseuwodeu	
+k	크리스마스	keuriseumaseu	Christmas
+k	크리스천	keuriseucheon	Christian
+k	크리스토퍼	keuriseutopeo	
+k	크샤트리야	keusyateuriya	
+k	큰개기장	keungaegijang	switchgrass (Panicum virg…
+k	큰귀박쥐	keungwibakjwi	European free-tailed bat …
+k	큰귀상어	keungwisangeo	great hammerhead shark
+k	큰발뒤쥐	keunbaldwijwi	The even-toothed shrew, S…
+k	큰별꽃	keunbyeolkkot	
+k	큰부리고래	keunburigorae	Baird's beaked whale (Ber…
+k	큰소리치다	keunsorichida	to brag; to boast
+k	큰외삼촌	keunoesamchon	
+k	큰집박쥐	keunjipbakjwi	The common pipistrelle, P…
+k	큰창자암	keunchangjaam	큰창자에서 생기는 암.
+k	큰코다치다	keunkodachida	
+k	큰코뿔새	keunkoppulsae	great hornbill
+k	큰할아버지	keunharabeoji	
+k	큰흰죽지	keunhuinjukji	The canvasback, Aythya va…
+k	클라이언트	keullaieonteu	
+k	클레멘타인	keullementain	
+k	클레이 피전	keulleipijeon	
+k	클레츠크	keullecheukeu	
+k	클리토리스	keullitoriseu	clitoris
+k	클릭베이트	keullikbeiteu	
+k	큼지막하다	keumjimakhada	꽤 큼직하다.
+e	keratinization	keratinization	1 meaning
+j	けいさつしょちょう	keisatsushocho	警察署長: head of a police st…
+j	ケニア共和国	keniakyowakoku	ケニアの正式な国号。
+j	ケプラーの法則	kepuranohosoku	ヨハネス・ケプラーが発見した惑星の運動に関する三つ…
+j	ケモノ着ぐるみ	kemonokigurumi	
+j	ケンタウルス族	kentaurusuzoku	
+j	ケーニヒスベルク	kenihisuberuku	Königsberg (the former ca…
+j	傑出した	kesshutsushita	
+j	喧嘩両成敗	kenkaryoseibai	
+j	建国記念日	kenkokukinenbi	
+j	建築業界	kenchikugyokai	
+j	建設的な	kensetsutekina	
+j	形勢逆転	keiseigyakuten	the situation reverses it…
+j	形容詞化する	keiyoshikasuru	
+j	形式体系	keishikitaikei	
+j	形式名詞	keishikimeishi	formal noun; a Japanese n…
+j	形式的な	keishikitekina	
+j	形式科学	keishikikagaku	形式体系を対象とする科学の分野。数学、論理学、シス…
+j	形成手術	keiseishujutsu	
+j	形而上学者	keijijogakusha	形而上学を研究する科学者。
+j	形質細胞	keishitsusaibo	リンパ球の一つ。B細胞から分化した細胞。免疫グロブ…
+j	憲法裁判所	kenposaibansho	constitutional court
+j	懸垂曲線	kensuikyokusen	
+j	検定教科書	kenteikyokasho	教科書検定に合格した教科書。
+j	検札係	kensatsugakari	ticket inspector
+j	検索ボックス	kensakubokkusu	検索エンジンなどで検索したい文字列を入力する領域。…
+j	煙探知機	kemuritanchiki	
+j	研究開発	kenkyukaihatsu	research & development; R…
+j	経口避妊薬	keikohininyaku	oral contraceptive pill
+j	経験豊かな	keikenyutakana	
+j	結合エネルギー	ketsugoenerugi	結合を一つ切断するのに必要なエネルギー。例えば、原…
+j	結合双生児	ketsugososeiji	体の一部または全部が結合して誕生した双子。
+j	結婚している	kekkonshiteiru	
+j	結論を出す	ketsuronwodasu	
+j	茎突舌筋	keitotsuzekkin	a styloglossus muscle
+j	血液循環	ketsuekijunkan	心臓から押し出された血液が血管を一定の方向に流動し…
+j	血液色素	ketsuekisikiso	
+j	血液透析	ketsuekitoseki	
+j	計測学者	keisokugakusha	計測学を研究する科学者。
+j	計画を立てる	keikakuotateru	to make plans
+j	計算幾何学	keisankikagaku	computational geometry
+j	計算機工学	keisankikogaku	
+j	計算機科学	keisankikagaku	computer science
+j	警察署長	keisatsushocho	head of a police station,…
+j	軽乗用自動車	keijoyojidosha	軽自動車に分類される乗用自動車。軽乗用車。
+j	軽減税率	keigenzeiritsu	食料品など生活に欠かせない商品に対して適用される、…
+j	軽蔑的な	keibetsutekina	
+j	鍵盤ハーモニカ	kenbanhamonika	a melodica
+j	頸半棘筋	keihankyokukin	a semispinalis cervicis m…
+j	鶏群の一鶴	keigunnoikkaku	a great man standing out …
+k	커맨드 라인	keomaendeurain	
+k	커먼마모셋	keomeonmamoset	common marmoset
+k	커피 브레이크	keopibeureikeu	
+k	컨닝 페이퍼	keonningpeipeo	
+k	컨버터블	keonbeoteobeul	
+k	컨테이너선	keonteineoseon	container ship
+k	컨트롤하다	keonteurolhada	
+k	컨트리 음악	keonteurieumak	
+k	컴파운드 보우	keompaundeubou	
+k	컴퍼스자리	keompeoseujari	
+k	컴퓨터 게임	keompyuteogeim	
+k	컴퓨터 보안	keompyuteoboan	
+k	컴퓨터게임	keompyuteogeim	컴퓨터나 인터넷으로 하는 게임을 가리키는 말.
+k	케라토사우루스	keratosauruseu	
+k	케이블 텔레비	keibeultellebi	
+k	크레멘추크	keuremenchukeu	
+k	크레프 드 신	keurepeudeusin	
+k	크로마뇽인	keuromanyongin	최초의 현생 인류.
+k	크로아티아 사람	keuroatiasaram	
+k	크리스트교	keuriseuteugyo	
+k	크리켓 선수	keuriketseonsu	
+k	크리피파스타	keuripipaseuta	
+k	크림차크어	keurimchakeueo	우크라이나의 크림 공화국에 거주하는 크림차크인…
+k	크세노파네스	keusenopaneseu	
+k	큰개구리매	keungaegurimae	
+k	큰괭이밥	keungwaengibap	(학명: Oxalis obtriangulata…
+k	큰묶음표	keunmukkeumpyo	'중괄호'의 북한말.
+k	큰바다쇠오리	keunbadasoeori	
+k	큰부리새류	keunburisaeryu	
+k	큰서방님	keunseobangnim	
+k	큰줄납자루	keunjullapjaru	The large striped bitterl…
+k	클라이맥스	keullaimaekseu	
+k	클라인 병	keullainbyeong	
+k	클러치백	keulleochibaek	
+k	클레오파트라	keulleopateura	
+k	클로로포름	keulloroporeum	chloroform
+e	kepler's equation	keplersequation	1 meaning
+e	keyboard warrior	keyboardwarrior	1 meaning
+j	けつあな確定	ketsuanakakutei	
+j	ケーブルネットワーク	keburunettowaku	cable network (as in a ch…
+j	刑務所に入れる	keimushoniireru	
+j	建設国債	kensetsukokusai	国が道路、ダムなどの社会資本整備の財源を確保するた…
+j	権威主義的な	kenishugitekina	
+j	献血活動	kenketsukatsudo	
+j	珪酸ハフニウム	keisanhafuniumu	ハフニウムの珪酸塩。半導体の材料として利用される。
+j	県庁所在地	kenchoshozaichi	Japanese prefectural capi…
+j	経済産業省	keizaisangyosho	国の中央官庁の一つ。2001年通商産業省を改組して…
+j	結合組織	ketsugousoshiki	
+j	結婚してくれ	kekkonshitekure	
+j	結婚証明書	kekkonshomeisho	
+j	血族関係	ketsuzokukankei	consanguinuity
+j	計算言語学	keisangengogaku	computational linguistics
+j	警察予備隊	keisatsuyobitai	1950年から1952年まで日本に存在した準軍事組…
+j	警察組織	keisatsusoshiki	警察力を保有する組織
+j	顕花植物	kenkashokubutsu	花を咲かせ、果実、種子ができる植物。種子植物。
+k	커피 그라인더	keopigeuraindeo	
+k	컨덕턴스	keondeokteonseu	
+k	컨베이어 벨트	keonbeieobelteu	
+k	컨설턴트	keonseolteonteu	
+k	컬트 영화	keolteuyeonghwa	
+k	컴퓨터 언어	keompyuteoeoneo	
+k	케이프타운사람	keipeutaunsaram	
+k	크라구예바츠	keuraguyebacheu	
+k	크라스노다르	keuraseunodareu	
+k	크랜베리즙	keuraenberijeup	cranberry juice (liquid f…
+k	크레디트 카드	keurediteukadeu	credit card
+k	크렘 브륄레	keurembeurwille	
+k	크림 타타르어	keurimtatareueo	
+k	크림 타타르인	keurimtatareuin	
+k	큰대감마님	keundaegammanim	
+k	큰마름뼈	keunmareumppyeo	
+k	큰부리새자리	keunburisaejari	
+k	클래식 음악	keullaesikeumak	
+k	클러치 레버	keulleochirebeo	
+k	클러치 페달	keulreochipedal	
+k	킁킁대다	keungkeungdaeda	'킁킁거리다'.
+e	keyboard shortcut	keyboardshortcut	1 meaning
+j	けつなあな確定	ketsunanakakutei	punish a person who made …
+j	ケプラー方程式	kepurahoteishiki	
+j	ケベックフランス語	kebekkufuransugo	カナダのケベック州で話されているフランス語の変種。
+j	嫌気性生物	kenkiseiseibutsu	
+j	建国記念の日	kenkokukinennohi	the National Foundation D…
+j	形式主義者	keishikishugisha	形式主義を主張する者。
+j	形而上学的	keijijougakuteki	
+j	携帯型ゲーム機	keitaigatagemuki	持ち運んで色々な場所で遊ぶことができるゲーム機。
+j	携帯基地局	keitaikichikyoku	cell phone relay-station
+j	権力分立	kenryokubunritsu	separation of powers
+j	牽引式飛行機	keninshikihikoki	
+j	結婚を申し込む	kekkonomoshikomu	
+j	結論から言うと	ketsuronkaraiuto	said right before getting…
+j	繋駕速歩競走	keigasokuhokyoso	馬の後ろに付けた馬車に騎手が乗り、速歩で走る速さを…
+j	肩甲舌骨筋	kenkozekkotsukin	an omohyoid muscle
+j	血液脳関門	ketsuekinokanmon	blood-brain barrier
+j	血色素尿症	kesshikisonyosho	
+j	計量経済学	keiryokeisaigaku	
+j	計量經濟學	keiryokeizaigaku	
+j	警察大学校	keisatsudaigakko	警察官の幹部としてより高度な教育、訓練をするため警…
+k	커뮤니케이션	keomyunikeisyeon	communication (concept of…
+k	커프 링크스	keopeuringkeuseu	
+k	컴파트먼트	keompateumeonteu	
+k	컴퓨터 과학	keompyuteogwahak	computer science
+k	컴퓨터 소양	keompyuteosoyang	
+k	케르치 해협	kereuchihaehyeop	
+k	켈리비아 해협	kellibiahaehyeop	
+k	크랜베리 주스	keuraenberijuseu	cranberry juice (beverage…
+k	크리소프레이즈	keurisopeureijeu	
+k	크리스트교의	keuriseuteugyoui	
+k	크림타타르족	keurimtatareujok	우크라이나의 크림 공화국을 중심으로 러시아, …
+k	크세르크세스	keusereukeuseseu	
+k	큰 수의 법칙	keunsuuibeopchik	
+k	큰개별꽃	keungaebyeolkkot	
+k	큰겨울잠쥐	keungyeouljamjwi	edible dormouse
+k	큰논병아리	keunnonbyeongari	The red-necked grebe, Pod…
+k	큰말똥가리	keunmalttonggari	The upland buzzard, Buteo…
+k	큰입선농어	keunipseonnongeo	
+k	큰재개구마리	keunjaegaegumari	great grey shrike (Lanius…
+k	클래스메이트	keullaeseumeiteu	classmate
+k	클로즈업하다	keullojeueophada	
+k	클리프행어	keullipeuhaengeo	
+k	클린 앤 저크	keullinaenjeokeu	
+e	keep up appearances	keepupappearances	1 meaning
+j	ケツの穴を舐める	ketsunoanaonameru	
+j	ケミカルリサイクル	kemikarurisaikuru	chemical recycling
+j	ケンブリッジ大学	kemburidjidaigaku	
+j	形式所相動詞	keshikishosodoshi	
+j	携帯情報端末	ketaijohotanmatsu	
+j	決着を付ける	kecchakuwotsukeru	
+j	経済成長率	keizaiseichoritsu	前年と比較した国内総生産の伸び率。成長率。
+j	計算機言語学	keisankigengogaku	computational linguistics
+j	計算物理学	keisanbutsurigaku	数学的に解けない物理現象の基礎方程式を計算機によっ…
+j	警察用装甲車	keisatsuyosokosha	
+j	軽貨物自動車	keikamotsujidosha	軽自動車に分類される貨物自動車。軽貨物車。
+k	커피 빻는 기구	keopippanneungigu	
+k	컨트롤 패널	keonteurolpaeneol	
+k	컴퓨터 공학	keompyuteogonghak	
+k	크라우드펀딩	keuraudeupeonding	crowdfunding
+k	크레테이셔스기	keureteisyeoseugi	
+k	크로스드레싱	keuroseudeuresing	cross-dressing
+k	크리스마스 섬	keuriseumaseuseom	
+k	크리스마스 쿠키	keuriseumaseukuki	
+k	크리스마스이브	keuriseumaseuibeu	Christmas Eve
+k	크립토 바이러스	keuriptobaireoseu	
+k	큰머리돌고래	keunmeoridolgorae	Risso's dolphin, Grampus …
+k	큰족제비고사리	keunjokjebigosari	
+k	클램핑 노브	keulraempingnobeu	손잡이 달린 나사.
+k	클로르헥시딘	keulloreuheksidin	
+k	클로즈업되다	keullojeueopdoeda	
+k	클리퍼드 대수	keullipeodeudaesu	
+k	킁킁거리다	keungkeunggeorida	콧구멍으로 숨을 세차게 띄엄띄엄 내쉬는 소리를…
+e	keyboard instrument	keyboardinstrument	1 meaning
+j	ケツの穴が小さい	ketsunoanagachisai	mean, ungenerous, miserly…
+j	ケミカルテロリスト	kemikaruterorisuto	ケミカルテロリズムを実行するテロリスト。
+j	ケミカルテロリズム	kemikaruterorizumu	化学テロリズムのこと。
+j	刑事責任年齢	keijisekininnenrei	刑事的な責任を負うことができる年齢。日本の刑法では…
+j	建築設備士	kenchikusetsubishi	建築士に対し建築設備の設計、工事監理の助言を行う職…
+j	形式的体系	keishikitekitaikei	
+j	経済産業大臣	keizaisangyodaijin	経済産業省の長たる国務大臣。
+j	結婚して下さい	kekkonshitekudasai	
+j	血液型占い	ketsuekigatauranai	blood type-based horoscope
+k	컬래버레이션	keollaebeoreisyeon	collaboration
+k	컬러텔레비전	keolleotellebijeon	화면이 찍힌 사물의 원래 색깔에 가까운 원색으…
+k	컴퓨터 과학자	keompyuteogwahakja	
+k	케이블 텔레비전	keibeultellebijeon	
+k	크라마토르스크	keuramatoreuseukeu	
+k	크루모브그라드	keurumobeugeuradeu	
+k	크루즈 컨트롤	keurujeukeonteurol	
+k	크리스마스 카드	keuriseumaseukadeu	
+k	크리스마스 트리	keuriseumaseuteuri	Christmas tree
+k	크리스마스트리	keuriseumaseuteuri	
+k	큰 나쁜 늑대	keunnappeunneukdae	
+k	큰이빨부리고래	keunippalburigorae	The Stejneger's beaked wh…
+k	큰철갑상어	keuncheolgapsangeo	beluga, European sturgeon…
+k	클라리네티스트	keullarinetiseuteu	
+k	클럭발생부	keulleokbalsaengbu	
+k	클로즈업시키다	keullojeueopsikida	
+k	큼직큼직하다	keumjikkeumjikhada	
+j	ケプラーの第二法則	kepuranodainihosoku	惑星が恒星を公転する際の面積速度は一定であるという…
+j	刑務所釈放カード	keimushoshakuhokado	
+j	建設に適した	kensetsunitekishita	
+j	形式受動態動詞	keshikijudotaidoshi	
+j	形質人類学	keishitsujinruigaku	synonym of 自然人類学 (shizen …
+j	決勝進出者	kesshoshinshutsusha	
+j	茎突舌骨筋	keitotsuzekkotsukin	a stylohyoid muscle
+j	計画的陳腐化	keikakutekichinpuka	
+k	커뮤니케이션학	keomyunikeisyeonhak	
+k	컴팩트 디스크	keompaekteudiseukeu	
+k	컴퓨터 바이러스	keompyuteobaireoseu	
+k	크라이스트처치	keuraiseuteucheochi	
+k	크레센트 롤빵	keuresenteurolppang	
+k	크로아티아 공화국	keuroatiagonghwaguk	
+k	크리스마스 케이크	keuriseumaseukeikeu	
+k	크리스마스 푸딩	keuriseumaseupuding	
+k	큰눈환도상어	keunnunhwandosangeo	bigeye thresher (Alopias …
+k	큰덤불해오라기	keundeombulhaeoragi	Schrenck's bittern, Ixobr…
+j	ケプラーの第三法則	kepuranodaisanhosoku	惑星の公転周期の平方は惑星軌道の長半径の立方に比例…
+j	ケンタウルス座アルファ星	kentaurusuzaarufasei	Alpha Centauri (brightest…
+j	継続は力なり	keizokuhachikaranari	何かを継続して行えば、いずれは結果として現れるもの…
+j	蛍雪の功を積む	keisetsunokouwotsumu	
+k	케임브리지 대학교	keimbeurijidaehakgyo	
+k	크로이소스의 거상	keuroisoseuuigeosang	
+k	크리스마스 캐럴	keuriseumaseukaereol	
+k	큰부리제비갈매기	keunburijebigalmaegi	
+k	큰회색머리아비	keunhoesaengmeoriabi	The Arctic loon or black-…
+k	클래리스로마이신	keullaeriseuromaisin	
+j	ケプラーの第一法則	kepuranodaiichihosoku	惑星が恒星を焦点の一つとする楕円軌道を公転するとい…
+j	ケンタッキーフライドチキン	kentakkifuraidochikin	
+j	ケンムンヒラヨシノボリ	kenmunhirayoshinobori	よしのぼりの一種。かつてはヤイマヒラヨシノボリとと…
+j	経営シミュレーションゲーム	keieishimyureshongemu	
+j	警察を呼んでください	keisatsuoyondekudasai	
+k	크라스노야르스크	keuraseunoyareuseukeu	
+k	큰생쥐귀박쥐	keunsaengjwigwibakjwi	
+k	클라우드 컴퓨팅	keullaudeukeompyuting	
+j	桂の高跳び歩の餌食	keinotakatobifunoejiki	桂馬は一度進むと後ろに戻れないので、むやみに進める…
+k	컴퓨터 프로그램	keompyuteopeurogeuraem	
+k	크로스컨트리 스키	keuroseukeonteuriseuki	
+k	크리에이티브 커먼즈	keurieitibeukeomeonjeu	
+k	큰발윗수염박쥐	keunbarwitsuyeombakjwi	The big-footed myotis, My…
+e	key performance indicator	keyperformanceindicator	1 meaning
+k	켄터키 프라이드 치킨	kenteokipeuraideuchikin	
+k	크리스마스의 열두 일	keuriseumaseuuiyeolduil	
+k	컴퓨터 프로그래밍	keompyuteopeurogeuraeming	
+j	ケナシヒレナガチョウチンアンコウ	kenashihirenagachochinanko	アンコウ目ヒレナガチョウチンアンコウ科に属する深海…
+j	形而上学的自然主義	keijijogakutekishizenshugi	
+k	큰볏말뚝망둥어	keunbyeonmalttungmangdungeo	A Korean species of goby,…
+j	鶏口となるも牛後となるなかれ	keikotonarumogyugotonarunakare	It is better to be a big …
+k	커스터드 애플	keoseuteodeuaepeulcustardapple	
+j	賢人は皆同じように考えるものだ	kenjinwaminnaonajiyonikangaerumonoda	
+k	크리스마스에 찬성하는 칠면조떼	keuriseumaseuechanseonghaneunchilmyeonjotte	
+j	健全なる精神は健全なる身体に宿る	kenzennaruseishinwakenzennarushintainiyadoru	A sound mind dwells in a …
+j	蟪蛄春秋を識らず伊虫あに朱陽の節を知らんや	keikoshunjuoshirazuichuanishuyonosetsuoshiranya	春秋を知らない蝉が夏を本当の意味では知らないように…

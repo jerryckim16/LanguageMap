@@ -1,0 +1,63 @@
+e	tyap	tyap	1 meaning
+e	tyke	tyke	1 meaning
+e	tyne	tyne	1 meaning
+e	type	type	4 meanings
+e	typo	typo	1 meaning
+e	tyre	tyre	2 meanings
+e	tyche	tyche	1 meaning
+e	tyrol	tyrol	1 meaning
+j	テュケー	tyuke	
+j	テューバ	tyuba	
+j	テュール	tyuru	Tyr
+k	튜바	tyuba	
+e	tycoon	tycoon	1 meaning
+e	typhon	typhon	1 meaning
+e	typhus	typhus	1 meaning
+e	typing	typing	1 meaning
+e	typist	typist	1 meaning
+e	tyrant	tyrant	1 meaning
+e	tyumen	tyumen	1 meaning
+j	カタブ語	tyapgo	
+j	テューポーン	tyupon	
+k	튜너	tyuneo	
+k	튜멘	tyumen	
+k	튜브	tyubeu	
+k	튜터	tyuteo	
+e	typeset	typeset	1 meaning
+e	typhoon	typhoon	1 meaning
+e	typical	typical	1 meaning
+e	tyranny	tyranny	1 meaning
+k	텬디	tyeondi	'천지'의 옛말.
+k	톄링	tyering	
+k	톈산	tyensan	
+k	톈진	tyenjin	Tianjin (a direct-adminis…
+k	튜닝	tyuning	
+k	튤립	tyullip	tulip (plant, flower)
+e	tympanum	tympanum	1 meaning
+e	typeface	typeface	1 meaning
+e	tyrosine	tyrosine	1 meaning
+k	튜리프	tyuripeu	'튤립'의 북한말.
+e	typewrite	typewrite	1 meaning
+j	テューリンゲン	tyuringen	Thuringia
+k	튜브톱	tyubeutop	
+e	typescript	typescript	1 meaning
+e	typewriter	typewriter	2 meanings
+e	typography	typography	1 meaning
+e	tyrannical	tyrannical	1 meaning
+k	톈안먼	tyenanmeon	Tian'anmen
+k	튜토리얼	tyutorieol	
+e	tyne and wear	tyneandwear	1 meaning
+e	type ii error	typeiierror	1 meaning
+e	typesetting	typesetting	1 meaning
+e	tyrannosaur	tyrannosaur	1 meaning
+k	튤립나무	tyullimnamu	
+e	typhoid fever	typhoidfever	1 meaning
+e	tyrian purple	tyrianpurple	2 meanings
+e	tyrannosaurus	tyrannosaurus	1 meaning
+e	tyrrhenian sea	tyrrheniansea	1 meaning
+k	튜블러 벨	tyubeulleobel	
+k	튜턴 기사단	tyuteongisadan	
+e	tyrannosaurus rex	tyrannosaurusrex	1 meaning
+e	tyrant flycatcher	tyrantflycatcher	1 meaning
+e	typographical error	typographicalerror	1 meaning
+e	tyranny of the majority	tyrannyofthemajority	1 meaning

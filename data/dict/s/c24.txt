@@ -1,0 +1,2033 @@
+j	丘	丘	（おか）周囲に比べ小高くなっている土地。
+j	亘	亘	a male given name
+j	傘	傘	a folding umbrella (cloth…
+j	儘	儘	the same, unchanged state…
+j	勘	勘	perception, intuition, th…
+j	単	単	
+j	厘	厘	a hundredth (generally)
+j	嘘	嘘	a lie; a falsehood; a fal…
+j	壘	壘	
+j	娘	娘	daughter
+j	官	官	government office
+j	弘	弘	a male given name
+j	托	托	物を載せておく台や受け皿。
+j	掘	掘	（ほり）建物などの周囲に掘られた溝。また運河として…
+j	柘	柘	synonym of 山桑 (yamaguwa, …
+j	棘	棘	thorn
+j	様	様	way, style, appearance
+j	橘	橘	Citrus tachibana, a speci…
+j	潘	潘	a surname
+j	灘	灘	area of a sea or an ocean…
+j	甘	甘	delicious
+j	秘	秘	(ヒ) 秘密
+j	紘	紘	a male given name
+j	緘	緘	shut; close; seal
+j	肘	肘	elbow
+j	胘	胘	tripe, meat from a stomac…
+j	臘	臘	a Buddhist ceremony held …
+j	艘	艘	small boats
+j	荘	荘	manor
+j	菘	菘	turnip
+j	裘	裘	fur coat
+j	記	記	to record; to mark
+j	識	識	（シキ）認識作用。五蘊のひとつ。
+j	貘	貘	奇蹄目バク科の総称
+j	釘	釘	a nail; a spike made of m…
+j	銘	銘	inscription
+j	錘	錘	a spindle
+j	鐘	鐘	bell
+j	隘	隘	narrow; confined
+j	鞘	鞘	sheath; scabbard (sword h…
+j	領	領	territory of a country
+j	願	願	pray
+j	高	高	maximum, the limit
+j	鬘	鬘	wig, hairpiece
+j	鯘	鯘	魚が腐敗する。またその腐敗した臭い。「餒」は同字（…
+k	감	甘	feeling; sense
+k	고	高	the late, deceased (befor…
+k	관	官	pipe; tube; duct
+k	귤	橘	tangerine; mandarin orang…
+k	단	単	sheaf
+k	단	團	sheaf
+k	루	壘	rampart, military wall
+k	리	厘	way, reason, sense
+k	맥	貘	blood vein
+k	삼	蔘	three
+k	승	乘	victory
+k	여	餘	woman; female
+k	장	荘	sauce; marmalade; jam; co…
+k	종	鐘	servant
+k	줄	橘	ability, method; how to
+k	추	錘	a suffix deriving a causa…
+j	丘山	丘山	丘と山。
+j	丘木	丘木	墓に生えた木。墓地の樹木。
+j	丘疹	丘疹	papule
+j	丘阜	丘阜	小高い土地。おか。
+j	丘陵	丘陵	hill
+j	丘隴	丘隴	小高くなっている場所。おか。
+j	乘算	乘算	
+j	亘る	亘る	
+j	亘佑	亘佑	a male given name
+j	亘理	亘理	Watari (a district of Miy…
+j	付き	付き	ability to stick, impress…
+j	付く	付く	to attach itself to, to s…
+j	付す	付す	
+j	付与	付与	granting
+j	付会	付会	無理に付け加えること。
+j	付俾	付俾	与えること。
+j	付倚	付倚	depending on, relying on
+j	付則	付則	additional rules, bylaw
+j	付加	付加	addition, appendage, anne…
+j	付勘	付勘	審査すること。
+j	付合	付合	（ふごう）付け合わせること。
+j	付和	付和	自分にしっかりした意見がなく、他人の意見に従うこと。
+j	付嘱	付嘱	師が弟子に仏法の奥義を伝授し、それを後世まで伝える…
+j	付図	付図	attached map, appended fi…
+j	付子	付子	a hated thing
+j	付属	付属	attachment, belonging
+j	付帯	付帯	secondary, incidental
+j	付庸	付庸	宗主国の従属としてその支配を受けている国。
+j	付授	付授	渡すこと。
+j	付款	付款	附款の別表記。
+j	付治	付治	罪を調査すること。
+j	付法	付法	師が弟子に教法を伝授し、後々まで伝えさせること。
+j	付注	付注	注をつけること。また、そのような注。
+j	付点	付点	五線譜で、直前の音符や休符の長さを1.5倍にするこ…
+j	付畀	付畀	与えること。
+j	付番	付番	number assignment
+j	付着	付着	adhesion, agglutination
+j	付票	付票	tag (attached to a luggag…
+j	付立	付立	a style of ink painting t…
+j	付箋	付箋	tag, label
+j	付置	付置	付属して設置すること。
+j	付表	付表	appended table, chart, li…
+j	付言	付言	postscript, additional re…
+j	付託	付託	submission (e.g. to a com…
+j	付記	付記	addition, appendix, note
+j	付設	付設	付属させて設けること。
+j	付議	付議	会議や評議にかけること。
+j	付載	付載	本文に付け加え掲載すること。
+j	付近	付近	neighborhood, environs, v…
+j	付録	付録	appendix, supplement
+j	付随	付随	accompaniment, concomitant
+j	付鳳	付鳳	勢いや勢力のある者に付き従うこと。
+j	侘び	侘び	beauty in simplicity, qui…
+j	俘係	俘係	とりこ。捕虜。
+j	俘囚	俘囚	戦で敵に囚われた者。
+j	俘執	俘執	捕えること。
+j	俘斬	俘斬	生け捕ることと斬殺すること。
+j	俘獲	俘獲	生け捕り。
+j	俘翦	俘翦	俘斬。
+j	俘虜	俘虜	captive, prisoner of war
+j	俘醜	俘醜	とりこ。捕虜。
+j	傘下	傘下	being affiliated with, un…
+j	傘寿	傘寿	数え年80歳の祝い。
+j	傘師	傘師	傘を作る工匠。
+j	傘蓋	傘蓋	古代インドを起源とする貴人の外出時にさす日傘。
+j	儘教	儘教	とにもかくにも。
+j	冘冘	冘冘	行くさま。
+j	劘切	劘切	切磋すること。
+j	劘厲	劘厲	摩って磨くこと。
+j	勘事	勘事	勘当。左遷。お咎め。
+j	勘六	勘六	a male given name
+j	勘合	勘合	照合、確認すること。考え、合わせること。
+j	勘問	勘問	罪状などを取り調べること。責め、問うこと。
+j	勘定	勘定	calculation
+j	勘弁	勘弁	pardon
+j	勘当	勘当	disinheritance
+j	勘査	勘査	an investigation
+j	勘校	勘校	照合して誤りを正すこと。校訂すること。
+j	勘案	勘案	consideration, regard, ac…
+j	勘気	勘気	主君や親などから咎めを受けること。主君や親などの怒…
+j	勘申	勘申	朝廷の儀式などで先例や故実、日時、吉凶などを調査し…
+j	勘発	勘発	過失を責め立てること。譴責。
+j	勘考	勘考	よく考えること。熟考。熟慮。
+j	勘者	勘者	知恵がまわる人。勘がいい人。
+j	勘責	勘責	犯罪を問い、責めること。
+j	勘進	勘進	よく考えまた、よく調べて申し上げること。
+j	勘量	勘量	考えること。
+j	単に	単に	simply; only
+j	単一	単一	independent, single
+j	単三	単三	「単三形乾電池」の略。
+j	単乳	単乳	
+j	単二	単二	「単二形乾電池」の略。
+j	単于	単于	chanyu (a supreme ruler o…
+j	単位	単位	unit of measure
+j	単体	単体	solo; monad; a unit compo…
+j	単作	単作	single crop, monoculture
+j	単価	単価	a unit price
+j	単元	単元	unit of teaching; curricu…
+j	単刀	単刀	一振りの刀。
+j	単利	単利	simple interest
+j	単勝	単勝	公営競技（競馬、競輪、競艇、オートレース）で一着に…
+j	単品	単品	individual item
+j	単四	単四	「単四形乾電池」の略。
+j	単坐	単坐	「単座」の別表記。
+j	単声	単声	男声・女声のどちらか一方のみであること。
+j	単婚	単婚	synonym of 一夫一婦制 (ippuipp…
+j	単孑	単孑	一人。
+j	単字	単字	それぞれの文字。一つ一つの文字。
+j	単孤	単孤	ただ一人であること。孤独。また、そのようなさま。
+j	単射	単射	injection
+j	単層	単層	層が一つであること。
+j	単己	単己	体一つであること。また、そのようなさま。
+j	単床	単床	根太だけで支える床
+j	単座	単座	一人だけ座っていること。孤座。独座。
+j	単式	単式	simple system; single-ent…
+j	単性	単性	生物が雌雄どちらか一方のみの生殖器を持っていること。
+j	単打	単打	打者が一塁に到達した安打。
+j	単数	単数	singularity, there being …
+j	単文	単文	simple sentence (sentence…
+j	単月	単月	それぞれの月だけに注目した時の月。
+j	単果	単果	一つの花の一つの子房からできる果実。単花果。
+j	単根	単根	歯根が一本しかない歯。
+j	単機	単機	lone plane, an airplane f…
+j	単比	単比	a:bのような一つの比。
+j	単特	単特	一人。
+j	単独	単独	single
+j	単球	単球	白血球の一つ。核をもつ細胞で、血球のなかで最大。
+j	単産	単産	産業別単一労働組合の略。
+j	単発	単発	having one engine
+j	単相	単相	細胞の核が減数分裂し、半分になっている状態。
+j	単眼	単眼	simple eye
+j	単科	単科	一つの科目。
+j	単称	単称	簡単また単純な名称。
+j	単竭	単竭	尽きること。
+j	単簡	単簡	簡単なこと。また、そのさま。
+j	単糖	単糖	単糖類。
+j	単純	単純	simple
+j	単級	単級	全校の児童、生徒を一つの学級にまとめること。また、…
+j	単線	単線	single track
+j	単練	単練	中国武術で単独で行う練習。
+j	単胎	単胎	単胎妊娠により胎内に一人の胎児を持つこと。
+j	単色	単色	monochrome
+j	単芝	単芝	文末に付ける「ｗ（笑いを表すインターネットスラング…
+j	単葉	単葉	simple leaf
+j	単著	単著	authorship by a single pe…
+j	単行	単行	ひとり（単独）で行くこと。
+j	単衣	単衣	an unlined open-sleeved r…
+j	単複	単複	singular and plural
+j	単記	単記	recording only one item(e…
+j	単語	単語	a word, a shortest part t…
+j	単調	単調	monotone, toneless, prosa…
+j	単身	単身	being alone
+j	単車	単車	a motorcycle, motorbike
+j	単辞	単辞	短い言葉。一言。
+j	単離	単離	複数の物質からなる混合物から特定の物質を純粋な形で…
+j	単音	単音	a phone (speech segment t…
+j	単願	単願	受験のおり、一つの学校を志願すること。
+j	単騎	単騎	lone horseman
+j	喘ぐ	喘ぐ	to gasp; to pant
+j	喘息	喘息	asthma
+j	喘鳴	喘鳴	気管支の狭窄などにより呼吸に伴いぜーぜー、ヒューヒ…
+j	嘘告	嘘告	fake confession of love (…
+j	嘘字	嘘字	実際にはない、でたらめな字。字画を誤った字や誤用し…
+j	嘘松	嘘松	made-up story posted to S…
+j	團員	團員	団員の旧字体表記。
+j	團圓	團圓	団円の旧字体表記。
+j	塘堰	塘堰	溜め池。
+j	娘婿	娘婿	son-in-law
+j	娘子	娘子	娘。少女。
+j	娘心	娘心	girlish mind; girlish inn…
+j	存亡	存亡	life or death
+j	存候	存候	安否を問うこと。見舞うこと。
+j	存分	存分	to one's heart's content;…
+j	存否	存否	presence or absence, life…
+j	存命	存命	being alive
+j	存在	存在	existence
+j	存外	存外	思いの外。想定外。意外。
+j	存廃	存廃	保存（存続）することと、廃止（撤廃）すること。
+j	存心	存心	inner thoughts
+j	存念	存念	いつも忘れずに心中に思っていること。
+j	存慮	存慮	考え。思慮。存念。
+j	存没	存没	生と死。
+j	存疑	存疑	十分解明されずに疑問が残ること。
+j	存知	存知	知っていること。承知。
+j	存稿	存稿	著者などの存命中に集めておいた草稿。
+j	存立	存立	existence
+j	存続	存続	continuation in existence
+j	存置	存置	leaving as it is
+j	官人	官人	low-ranking government of…
+j	官仕	官仕	官吏となること。仕官すること。
+j	官位	官位	court rank and official p…
+j	官俸	官俸	官吏の俸給。
+j	官僚	官僚	bureaucrat
+j	官僧	官僧	朝廷から度牒を得て公に出家した僧侶。
+j	官公	官公	国と地方公共団体。
+j	官兵	官兵	官軍の兵士。
+j	官制	官制	行政機関の設置、名称、組織、構成、権限などを定めた…
+j	官刻	官刻	政府の出版物。
+j	官務	官務	官庁における事務。官吏の行う職務。
+j	官医	官医	江戸時代、幕府に出仕した医師。
+j	官印	官印	律令制での太政官の印。
+j	官司	官司	a government office
+j	官名	官名	title of a government pos…
+j	官吏	官吏	public servant
+j	官命	官命	政府からの命令。
+j	官員	官員	(government) official
+j	官営	官営	政府が経営すること。
+j	官報	官報	official government gazet…
+j	官奏	官奏	太政官から天皇に奏聞すること。また、その儀式。太政…
+j	官女	官女	宮中に出仕する女性。
+j	官威	官威	官庁の威力。
+j	官学	官学	government school (especi…
+j	官宅	官宅	官舎。
+j	官家	官家	an emperor
+j	官寺	官寺	朝廷または幕府が建立、維持した寺院。
+j	官局	官局	役所。官庁。
+j	官展	官展	政府主催の展覧会。
+j	官属	官属	属官。
+j	官幣	官幣	神祇官が一定の神社の祭礼に捧げた幣帛。
+j	官年	官年	江戸時代、幕府、主家に届け出た公式の年齢。
+j	官庁	官庁	government office
+j	官府	官府	朝廷。
+j	官庫	官庫	官有の倉庫。
+j	官当	官当	かつての律で罪を犯した官吏を実刑の代わりに官位を降…
+j	官憲	官憲	行政官庁、役所。そこで働く役人。
+j	官房	官房	secretariat
+j	官掌	官掌	律令制で太政官の弁官の下僚。
+j	官撰	官撰	政府で編修すること。また、その書物。
+j	官族	官族	官吏の筋の家。
+j	官暦	官暦	官庁が発行する暦。
+j	官曹	官曹	役所。官庁。
+j	官有	官有	政府が保有するもの。
+j	官服	官服	官吏における制服。
+j	官本	官本	官公庁で出版、刊行する書籍。
+j	官札	官札	「太政官札」の略。
+j	官業	官業	国、地方公共団体が管理、経営する営利事業。
+j	官権	官権	政府が有する権力。官庁や国家公務員の権限。
+j	官武	官武	公家と武家。
+j	官歴	官歴	官吏としてのそれまでの経歴。
+j	官民	官民	the government and the po…
+j	官没	官没	国家が不正な物品などを取り上げること。没収。
+j	官爵	官爵	官位と爵位。
+j	官用	官用	政府や国家機関で用いること。
+j	官界	官界	bureaucracy
+j	官省	官省	国家機関。中央官庁。
+j	官社	官社	神名帳に記載され、祈年祭で幣帛を受ける神社。
+j	官私	官私	公事と私事。
+j	官秩	官秩	官職の秩序、等級。
+j	官稲	官稲	律令制で田租として徴収され、諸国に収納された稲。
+j	官符	官符	「太政官符」の略。
+j	官等	官等	官職（官吏）の等級。
+j	官簿	官簿	官公庁に備えられた帳簿。
+j	官粟	官粟	政府米。
+j	官紀	官紀	官吏の服務上の規律。
+j	官署	官署	官庁とその補助機関。
+j	官職	官職	government service
+j	官能	官能	faculty of the senses
+j	官舎	官舎	building where public ser…
+j	官衙	官衙	government office
+j	官製	官製	government-manufactured
+j	官規	官規	官吏の職務上の規律。
+j	官記	官記	官吏に任命する者に対する辞令。
+j	官設	官設	国が設置すること。
+j	官許	官許	政府が許可すること。
+j	官話	官話	Mandarin; Guanhua (group …
+j	官費	官費	政府が負担する費用。国費。
+j	官賊	官賊	官軍と賊軍。
+j	官賤	官賤	律令制で官有の賤民。
+j	官路	官路	官署へ通じる大路。
+j	官軍	官軍	government troops
+j	官途	官途	官職。また、官職につくこと。
+j	官道	官道	国費で開設し維持管理する道路。日本においては戦前の…
+j	官選	官選	政府で選ぶこと。また、選んだもの。
+j	官邸	官邸	official residence, usual…
+j	官鉄	官鉄	「官営鉄道」の略。
+j	官銜	官銜	官職。
+j	官銭	官銭	政府発行の銭貨。
+j	官長	官長	長官。
+j	官需	官需	政府による需要。
+j	官馬	官馬	朝廷、国が所有し、公用にする馬。
+j	弘之	弘之	a male given name
+j	弘也	弘也	a male given name
+j	弘人	弘人	a male given name
+j	弘仁	弘仁	the Kōnin era, 810-824
+j	弘介	弘介	a male given name
+j	弘作	弘作	a male given name
+j	弘光	弘光	a male given name
+j	弘典	弘典	a male given name
+j	弘兼	弘兼	a surname
+j	弘前	弘前	a city in Aomori Prefectu…
+j	弘務	弘務	a male given name
+j	弘化	弘化	the Kōka era, 1844–1848
+j	弘司	弘司	a male given name
+j	弘和	弘和	the Kōwa era, 1381–1384 b…
+j	弘基	弘基	a male given name
+j	弘報	弘報	官庁・企業などが活動内容・事業内容などを一般の人に…
+j	弘大	弘大	広くて大きいこと。また、そのようなさま。
+j	弘安	弘安	the Kōan era, 1278–1288
+j	弘寿	弘寿	a male given name
+j	弘布	弘布	（汎用的）弘めること。広く行き渡らせること。
+j	弘幸	弘幸	a male given name
+j	弘張	弘張	大きく張り出すこと。
+j	弘教	弘教	a male given name
+j	弘敝	弘敝	広く、平なさま。
+j	弘文	弘文	a male given name
+j	弘明	弘明	a male given name
+j	弘昭	弘昭	a male given name
+j	弘樹	弘樹	a male given name
+j	弘毅	弘毅	度量が大きく、意志が固いこと。また、そのようなさま。
+j	弘治	弘治	the Kōji era, 1555-1558
+j	弘法	弘法	the propagation of Buddhi…
+j	弘泰	弘泰	a male given name
+j	弘烈	弘烈	大業。洪烈。
+j	弘田	弘田	a surname
+j	弘祐	弘祐	a male given name
+j	弘経	弘経	仏教の経典を世の中に教え広めること。
+j	弘美	弘美	a unisex given name
+j	弘義	弘義	a male given name
+j	弘至	弘至	a male given name
+j	弘規	弘規	a male given name
+j	弘誓	弘誓	仏菩薩の衆生を救済しようという広大な誓願。
+j	弘通	弘通	（ぐつう、ぐずう）仏教が世に広まること。また仏教を…
+j	弘道	弘道	mission, propagation
+j	弘長	弘長	the Kōchō era, 1261–1264
+j	弘願	弘願	仏（特に阿弥陀仏）の衆生を救済しようという広大な誓…
+j	彘罟	彘罟	猪を捕る網。
+j	彘豪	彘豪	猪の体毛。
+j	徘徊	徘徊	prowling
+j	忘却	忘却	oblivion
+j	忘吾	忘吾	我を忘れること。
+j	忘失	忘失	忘れ、失うこと。
+j	忘年	忘年	年老いているのを忘れること。
+j	忘形	忘形	自己の存在を忘れること。
+j	忘念	忘念	失念すること。
+j	忘憂	忘憂	to forget about worries
+j	忘我	忘我	being deeply engrossed in…
+j	惘然	惘然	呆気にとられ唖然とするさま。
+j	托出	托出	物をのせて出すこと。
+j	托卵	托卵	ある鳥が種類が異なる別の鳥の巣に産卵し、その鳥に卵…
+j	托生	托生	他のものにたよって生存すること。
+j	托葉	托葉	植物の葉柄やその基にある葉のようなもの。
+j	托鉢	托鉢	religious mendicancy
+j	折る	折る	to bend, to fold
+j	折中	折中	「折衷」の別表記。
+j	折乏	折乏	貧乏。
+j	折伏	折伏	（しゃくぶく）悪法を打ち砕き、迷いを覚まさせること。
+j	折価	折価	値引きすること。値引きさせること。
+j	折俸	折俸	減俸すること。
+j	折券	折券	棒引き。
+j	折半	折半	half
+j	折句	折句	「折り句」の別表記。
+j	折形	折形	the art of wrapping gifts…
+j	折愧	折愧	辱めること。
+j	折戸	折戸	folding door
+j	折桂	折桂	進士の試験に首席で合格すること。
+j	折檻	折檻	severe disciplining
+j	折減	折減	減らすこと。
+j	折笠	折笠	a surname
+j	折算	折算	仕訳して計算すること。
+j	折節	折節	season
+j	折簡	折簡	二つ切りにした紙に短い手紙を書くこと。また、その手…
+j	折紙	折紙	
+j	折衝	折衝	negotiation
+j	折衷	折衷	taking the best of two th…
+j	折角	折角	at great pains, going to …
+j	折鋒	折鋒	下筆の方法。
+j	折鶴	折鶴	a paper crane, regarded a…
+j	拘る	拘る	to get hung up on somethi…
+j	拘係	拘係	拘繋すること。
+j	拘俗	拘俗	俗に拘ること。
+j	拘制	拘制	拘束して自由を制限すること。
+j	拘囚	拘囚	捕らえられ拘束されること。
+j	拘引	拘引	arrest, apprehension
+j	拘忌	拘忌	縁起担ぎのためつまらないことに拘り、縁起の悪いと思…
+j	拘束	拘束	restriction; restraint
+j	拘泥	拘泥	being particular, being a…
+j	拘留	拘留	custody
+j	拘禁	拘禁	detention, custody
+j	拘縮	拘縮	
+j	拘繋	拘繋	拘繫の別表記。
+j	拘繫	拘繫	拘囚すること。
+j	拘置	拘置	detention
+j	掘り	掘り	
+j	掘る	掘る	to dig; to excavate
+j	掘串	掘串	a spatula-shaped shovel m…
+j	掘削	掘削	excavation
+j	掘採	掘採	土地を掘削して鉱物を採掘すること。
+j	掘進	掘進	穴などを地中に掘って進むこと。
+j	掘鑿	掘鑿	岩石や地盤などを掘り、穴を開けること。
+j	掘鼠	掘鼠	
+j	摘む	摘む	to pluck; to pick; to trim
+j	摘出	摘出	pulling out by pinching
+j	摘心	摘心	「摘芯」の別表記。
+j	摘挙	摘挙	つまみ上げること。取り出して示すこと。
+j	摘採	摘採	チャ（茶）の葉などを摘みとること。
+j	摘果	摘果	果樹などで着果の調節のため果実の小さい時に間引くこ…
+j	摘発	摘発	exposing, unmasking
+j	摘示	摘示	要点を拾って、または暴いて示すこと。
+j	摘芯	摘芯	植物の栽培の技法のひとつ。先端の芽を摘むことで、脇…
+j	摘花	摘花	花を摘むこと。
+j	摘要	摘要	excerpt; summary; abstract
+j	摘記	摘記	要点などをかいつまんで記録すること。
+j	攘取	攘取	盗むこと。
+j	攘善	攘善	善を掠めること。
+j	攘夷	攘夷	expulsion of the foreigne…
+j	攘巻	攘巻	腕まくりすること。攘袪。
+j	攘患	攘患	禍患を除くこと。
+j	攘手	攘手	攘臂。
+j	攘拳	攘拳	拳を振るうこと。
+j	攘窃	攘窃	盗むこと。
+j	攘臂	攘臂	腕捲りすること。
+j	攘袪	攘袪	腕捲りすること。攘巻。攘臂。
+j	枘穴	枘穴	mortise
+j	柘植	柘植	a placename
+j	柘榴	柘榴	「石榴」の異表記。
+j	梘水	梘水	lye water used to make Ch…
+j	棘囲	棘囲	中国であった進士の試験場。
+j	棘矢	棘矢	いばらの木でつくった矢。
+j	棘筋	棘筋	a spinalis muscle
+j	棘箭	棘箭	いばらの木でつくった矢。棘矢。
+j	様々	様々	
+j	様に	様に	I hope; I pray; may
+j	様体	様体	すがた形。姿態。
+j	様子	様子	state of things; the situ…
+j	様式	様式	style, form
+j	様態	様態	物の存在や動きのありさま。様子。
+j	様格	様格	ウラル語族の文法で、状態を示す格。
+j	様様	様様	various
+j	様相	様相	aspect
+j	橘林	橘林	橘の林。
+j	橘樹	橘樹	a district of Musashi, Ja…
+j	橘氏	橘氏	橘の姓を名乗った一族。
+j	殘害	殘害	残害の旧字体表記。
+j	殘酷	殘酷	
+j	殘骸	殘骸	残骸の旧字体表記。
+j	淘去	淘去	washing away
+j	淘来	淘来	washing near
+j	淘汰	淘汰	a culling out, weeding out
+j	湘南	湘南	Shōnan, a region along th…
+j	湘君	湘君	中国の伝説上の水神。
+j	湘竹	湘竹	（斑のある）竹。
+j	湘語	湘語	中華人民共和国湖南省、広東省広西チワン族自治区北部…
+j	湘魚	湘魚	魚を煮ること。烹魚。
+j	溘帀	溘帀	一面。
+j	溘焉	溘焉	（人の死などが）急なさま。ぽっくり逝くさま。
+j	瀘州	瀘州	
+j	灘戸	灘戸	製塩業者。
+j	烘火	烘火	焚き火。
+j	烘箱	烘箱	乾器。
+j	牘箋	牘箋	手紙や詩歌などをしるすための用紙。
+j	甘い	甘い	sweet, sugary, mellow
+j	甘え	甘え	intentionally sweet behav…
+j	甘さ	甘さ	
+j	甘井	甘井	sweet well
+j	甘党	甘党	sweet tooth, especially o…
+j	甘受	甘受	submission, acceptance of…
+j	甘口	甘口	sweet, mild (taste)
+j	甘味	甘味	sweetness
+j	甘心	甘心	satisfaction
+j	甘木	甘木	Amagi (a city in Fukuoka …
+j	甘松	甘松	plants of genus Nardostac…
+j	甘水	甘水	飲料に適した良質の水。
+j	甘汞	甘汞	塩化水銀(I)の別称。
+j	甘泉	甘泉	おいしい水の湧き出る泉。
+j	甘煮	甘煮	something boiled with a s…
+j	甘熟	甘熟	熟した、または熟成した結果として甘くなること。果物…
+j	甘粛	甘粛	Gansu (a province in nort…
+j	甘精	甘精	saccharin
+j	甘美	甘美	sweet and delicious
+j	甘苦	甘苦	sweetness and bitterness
+j	甘茶	甘茶	ヤマアジサイの変種。
+j	甘草	甘草	licorice
+j	甘菜	甘菜	synonym of 砂糖大根 (satō dai…
+j	甘蔗	甘蔗	synonym of 砂糖黍 (satōkibi)…
+j	甘蕉	甘蕉	banana
+j	甘薯	甘薯	さつまいも。
+j	甘藍	甘藍	cabbage
+j	甘藷	甘藷	synonym of 薩摩芋 (“sweet po…
+j	甘藻	甘藻	eelgrass, Zostera marina
+j	甘言	甘言	相手に気に入られるような甘い言葉。
+j	甘諾	甘諾	甘んじて承諾すること。
+j	甘足	甘足	満足。
+j	甘遂	甘遂	synonym of 夏灯台 (natsutōda…
+j	甘部	甘部	部首「⽢」で分類した漢字の一群。
+j	甘酒	甘酒	sweet liquor of rice malt…
+j	甘酸	甘酸	甘い味と酸っぱい味。
+j	甘雨	甘雨	農作物や草木を潤し、生育させる雨。膏雨。
+j	甘露	甘露	amrita
+j	甘鹵	甘鹵	塩。
+j	痘毒	痘毒	疱瘡。
+j	痘漿	痘漿	痘瘡の水疱などからでる膿やしる。
+j	痘痕	痘痕	pockmark (mark or scar)
+j	痘瘡	痘瘡	痘瘡ウイルスによる感染症。天然痘。
+j	痘苗	痘苗	vaccine
+j	痘面	痘面	あばたが残る顔。あばた面。
+j	禘祫	禘祫	王が祖先を祭祀する儀式。大祭。
+j	禘郊	禘郊	天子が祖先と天を祭祀する儀式。
+j	秘事	秘事	secret
+j	秘仏	秘仏	寺院などで信仰上の理由などにより普段は厨子などに納…
+j	秘伝	秘伝	confidential, secret trad…
+j	秘儀	秘儀	secret ceremonies
+j	秘匿	秘匿	concealment
+j	秘史	秘史	secret history, hidden hi…
+j	秘境	秘境	unexplored region or land
+j	秘奥	秘奥	物事の奥底。
+j	秘宝	秘宝	hidden treasure; treasure…
+j	秘密	秘密	secret
+j	秘巻	秘巻	秘書。
+j	秘戯	秘戯	人目を避けて行う戯れ。特に、性行為。
+j	秘技	秘技	secret skill
+j	秘教	秘教	秘密の儀式を重んじる宗教。
+j	秘文	秘文	秘密の呪文。
+j	秘方	秘方	秘密にして人に教えない薬の調合方法。
+j	秘書	秘書	secretary (person keeping…
+j	秘法	秘法	秘密の方法。
+j	秘湯	秘湯	a little-known hot spring
+j	秘画	秘画	春画。
+j	秘笈	秘笈	書物を秘蔵するための箱。
+j	秘策	秘策	secret plan
+j	秘結	秘結	便の動きが滞り出なくなること。便秘。
+j	秘義	秘義	奥深くに秘められてなかなか触れられない教え。
+j	秘蔵	秘蔵	storing away of a cherish…
+j	秘薬	秘薬	secret medicine, nostrum
+j	秘蘊	秘蘊	学問や技芸などで奥深く最も重要なこと。奥義。
+j	秘術	秘術	secret art
+j	秘要	秘要	秘密にしている重要な事柄。
+j	秘計	秘計	secret stratagem
+j	秘記	秘記	秘密の記録。
+j	秘訣	秘訣	secret, key, secret trick
+j	秘話	秘話	untold story
+j	秘語	秘語	（特定の組織やグループ内で使用される）秘密の言葉。
+j	秘説	秘説	秘密にして人に知られない説。
+j	秘跡	秘跡	キリストが定めた神が恵みを信徒に与える儀式。サクラ…
+j	秘蹟	秘蹟	カトリックでキリストが定めた神が恵みを信徒に与える…
+j	秘道	秘道	特定の人以外には教えない、秘密な事柄。
+j	秘邃	秘邃	隠れて邃いこと。そのさま。
+j	秘録	秘録	秘密の記録。
+j	秘鑰	秘鑰	秘密のかぎ。
+j	秘露	秘露	ペルーの漢字表記。
+j	窘迫	窘迫	troubledness
+j	粘る	粘る	be sticky to the touch, b…
+j	粘土	粘土	clay
+j	粘度	粘度	viscosity
+j	粘性	粘性	viscosity
+j	粘投	粘投	投手が再三のピンチを招きながらも粘り強く投球するこ…
+j	粘液	粘液	mucus
+j	粘着	粘着	to adhere; to stick
+j	粘稠	粘稠	having high viscosity and…
+j	粘粘	粘粘	
+j	粘糊	粘糊	糊で貼り付けること。糊付け。
+j	粘膜	粘膜	mucous membrane
+j	粘菌	粘菌	myxomycetes, the slime mo…
+j	紘一	紘一	a male given name
+j	紘三	紘三	a male given name
+j	紘子	紘子	a female given name
+j	紘毅	紘毅	a male given name
+j	紘範	紘範	a male given name
+j	紘通	紘通	a male given name
+j	緘口	緘口	「箝口」の別表記。
+j	緘束	緘束	束ねること。
+j	緘翰	緘翰	手紙。
+j	緘黙	緘黙	keeping silent
+j	纘紹	纘紹	継承すること。
+j	罘罳	罘罳	宮門の内側にある門。
+j	聘問	聘問	進物を携行し訪問すること。
+j	聘礼	聘礼	人を招聘する際の贈り物。
+j	聘親	聘親	嫁を迎えること。また、その儀式。
+j	肘筋	肘筋	an anconeus muscle
+j	肘部	肘部	肘の部分。
+j	肘鉄	肘鉄	肘を突き出してのけること。肘鉄砲。
+j	肘頭	肘頭	an olecranon
+j	臘日	臘日	大晦日。
+j	臘月	臘月	the twelfth month of the …
+j	臘梅	臘梅	「蝋梅」の別表記。
+j	臘纈	臘纈	布の染色で臘と樹脂を混合したもので模様を描いて染色…
+j	舘田	舘田	a surname
+j	茘枝	茘枝	lychee
+j	荘一	荘一	a male given name
+j	荘介	荘介	a male given name
+j	荘六	荘六	a male given name
+j	荘内	荘内	荘園の中。
+j	荘厳	荘厳	grim, stern
+j	荘司	荘司	administrator of a manor
+j	荘周	荘周	
+j	荘園	荘園	manor; an estate comprisi…
+j	荘外	荘外	荘園の外。
+j	荘子	荘子	Zhuangzi (an influential …
+j	荘平	荘平	a male given name
+j	荘郷	荘郷	村落。郷。
+j	荘重	荘重	厳かで重々しいこと。
+j	荘長	荘長	荘園領主に代わり荘園を管理したもの。荘司。
+j	蔘精	蔘精	ginseng extract
+j	蘘荷	蘘荷	茗荷の別表記
+j	蜘網	蜘網	
+j	蜘蛛	蜘蛛	spider
+j	螘動	螘動	騒乱。
+j	裘葛	裘葛	冬着の皮ごろもと夏着の葛の帷子。
+j	裘褐	裘褐	皮ごろもと荒く織った毛織物。粗末な衣類。
+j	褘衣	褘衣	翬衣の異表記。
+j	褘褕	褘褕	王后の祭服。
+j	覘畢	覘畢	佔畢の異表記。
+j	記す	記す	to note, to write down, t…
+j	記主	記主	仏典などで優れた注釈を記した者。
+j	記事	記事	an article, a written new…
+j	記伝	記伝	記録と史伝。
+j	記入	記入	An entry.
+j	記別	記別	仏が弟子に与えた来世に悟りを開き仏となるという予言…
+j	記号	記号	symbol, mark
+j	記名	記名	signature, register
+j	記室	記室	A piece in Ko shogi, whic…
+j	記帳	記帳	registry, entry
+j	記幟	記幟	さしもの。
+j	記得	記得	to remember; to memorize
+j	記念	記念	memorial
+j	記性	記性	記憶力。
+j	記憶	記憶	memory; recollection; rem…
+j	記文	記文	記録された文。
+j	記旗	記旗	しるしとなる旗。馬標。
+j	記法	記法	notation
+j	記章	記章	emblem; badge
+j	記紀	記紀	the Records of Ancient Ma…
+j	記者	記者	reporter; journalist
+j	記聞	記聞	聞いて記録すること。また、そのようなもの。
+j	記誦	記誦	Reciting from memory.
+j	記譜	記譜	楽譜を記すること。
+j	記載	記載	statement, description, m…
+j	記述	記述	description
+j	記銘	記銘	経験したことを覚え込むこと。
+j	記録	記録	record (most extreme know…
+j	誘い	誘い	invitation
+j	誘う	誘う	to invite
+j	誘く	誘く	to lure, to entice
+j	誘出	誘出	誘い出すこと。誘き出すこと。
+j	誘因	誘因	motive, incentive
+j	誘導	誘導	guidance; leading
+j	誘引	誘引	attraction
+j	誘惑	誘惑	temptation, seduction, sn…
+j	誘拐	誘拐	kidnapping; abduction
+j	誘掖	誘掖	助け、導くこと。
+j	誘爆	誘爆	
+j	誘発	誘発	inducing
+j	誘致	誘致	attraction
+j	誘起	誘起	evocation; inducement
+j	誘餌	誘餌	餌（となるような物）で誘うこと。
+j	識別	識別	discrimination, identific…
+j	識字	識字	literacy (ability to read…
+j	識才	識才	知識と才能。
+j	識神	識神	
+j	識者	識者	well-informed or knowledg…
+j	識見	識見	insight, discernment
+j	識語	識語	the description of the pr…
+j	輘轢	輘轢	車輪が物を轢き潰すこと。
+j	遘禍	遘禍	災禍に遭うこと。
+j	釘宮	釘宮	a surname
+j	釘谷	釘谷	a surname
+j	釘鉸	釘鉸	金物師。
+j	釘頭	釘頭	nailhead, head of a nail
+j	銘仙	銘仙	主に北関東で生産される平織りの絹織物。
+j	銘刀	銘刀	銘がある刀。
+j	銘文	銘文	inscription
+j	銘木	銘木	材質のほか形状、色沢、木理に趣きがあり珍重される木…
+j	銘板	銘板	銘が刻まれた金属やプラスチックなどの板。
+j	銘柄	銘柄	product brand, especially…
+j	銘肝	銘肝	心に深く刻み、記憶しておくこと。肝銘。
+j	銘菓	銘菓	famous sweet
+j	銘記	銘記	心に深く刻み、忘れないこと。
+j	銘酒	銘酒	念を入れて作り、銘のある酒。
+j	銘銘	銘銘	each person
+j	錘鉛	錘鉛	測深器の錘とする鉛製の器具。
+j	鏘然	鏘然	金属・玉・石などが鳴り響くこと。そのさま。また、そ…
+j	鏘鏘	鏘鏘	tinkling sound (esp. bell…
+j	鐘塔	鐘塔	鐘をつるした塔。西洋の寺院における鐘楼。カンパニー…
+j	鐘声	鐘声	鐘の鳴り響く音。
+j	鐘形	鐘形	鐘のような形状。
+j	鐘楼	鐘楼	仏教寺院で、梵鐘を吊るした建物。撞木で梵鐘を撞いて…
+j	鐘磬	鐘磬	雅楽で使用される楽器の鐘と磬。
+j	鐘美	鐘美	美しさを一身に集めること。際立って美しいこと。
+j	鐘虡	鐘虡	古代中国で鐘などを吊るす支柱や台座。
+j	鐘鐻	鐘鐻	古代中国で鐘などを吊るす支柱や台座。
+j	鐘鼓	鐘鼓	鐘と太鼓。
+j	閘室	閘室	lockchamber
+j	閘門	閘門	sluice gate, lock gate
+j	闘う	闘う	
+j	闘乱	闘乱	戦乱。争乱。
+j	闘争	闘争	a struggle
+j	闘士	闘士	戦場で戦う兵士。
+j	闘将	闘将	戦闘力がある大将。
+j	闘志	闘志	fighting spirit
+j	闘戦	闘戦	戦闘すること。戦い。
+j	闘技	闘技	competition, contest
+j	闘拳	闘拳	殴り合うこと。喧嘩。
+j	闘殺	闘殺	闘うことで相手を殺すこと。
+j	闘熊	闘熊	熊同士を戦わせるもしくは熊と人とで戦う競技、または…
+j	闘牛	闘牛	bullfighting, a Spanish s…
+j	闘犬	闘犬	犬同士を戦わせる競技、または、これに用いる犬。
+j	闘獣	闘獣	獣同士を合わせて闘わせること。
+j	闘球	闘球	rugby
+j	闘病	闘病	battling an illness; stru…
+j	闘羊	闘羊	羊同士を戦わせる競技、または、これに用いる羊。
+j	闘舸	闘舸	競漕。
+j	闘蟋	闘蟋	闘蟋蟀の略。
+j	闘詩	闘詩	詩作したものの優劣を争うこと。
+j	闘論	闘論	それぞれの持論を闘わせること。討論。
+j	闘馬	闘馬	馬同士を戦わせる競技、または、これに用いる馬。
+j	闘鬩	闘鬩	闘争すること。
+j	闘魂	闘魂	闘おうという意気込み。闘志。
+j	闘魚	闘魚	Betta, a genus of fish in…
+j	闘鳥	闘鳥	鳥同士、特に小鳥同士を戦わせる競技、または、これに…
+j	闘鶏	闘鶏	cockfight
+j	隘勇	隘勇	台湾原住民の壯丁より召集して、編成した兵。清朝にお…
+j	隘路	隘路	bottleneck, a narrow road
+j	鞘師	鞘師	刀剣の鞘を作る工匠。
+j	鞘翅	鞘翅	甲虫類の固い前翅。
+j	領る	領る	to rule; to reign; to gov…
+j	領主	領主	a lord in a feudal societ…
+j	領事	領事	consul
+j	領会	領会	了解。
+j	領健	領健	a male given name
+j	領内	領内	領地や領土の内。領域。
+j	領分	領分	territory
+j	領収	領収	receipt, usually of money
+j	領取	領取	receipt (act of receiving)
+j	領国	領国	領有している国。領土。領地。
+j	領土	領土	territory, realm, dominion
+j	領地	領地	territory
+j	領域	領域	realm, territory, occupie…
+j	領家	領家	かつての日本で荘園の実質的な領主。
+j	領導	領導	率いて導くこと。
+j	領巾	領巾	a long narrow strip of fa…
+j	領平	領平	a male given name
+j	領得	領得	悟ること。了得。
+j	領承	領承	承知すること。心得ること。
+j	領掌	領掌	governance
+j	領有	領有	possession
+j	領民	領民	領内に住み、支配を受ける民。
+j	領水	領水	国家主権が及ぶ範囲の水域。
+j	領海	領海	territorial waters
+j	領状	領状	（目上からの命令や指示を）承知すること。また、その…
+j	領略	領略	物事の意味を理解すること。悟ること。
+j	領知	領知	土地を領有して支配すること。
+j	領空	領空	airspace
+j	領納	領納	金品を受け取ること。領収。受領。
+j	領置	領置	裁判所、検察官、検察事務官又は司法警察職員が、被疑…
+j	領袖	領袖	襟と袖。「領」は「えり」の意。
+j	願い	願い	wish; desire
+j	願う	願う	to wish, to hope, to desi…
+j	願主	願主	神仏に願をかける人。
+j	願力	願力	神仏に願をかけ、それを貫こうとする精神力。
+j	願土	願土	極楽浄土のこと。
+j	願念	願念	望み、願うこと。
+j	願意	願意	願う気持ち。
+j	願文	願文	written Buddhist or Shint…
+j	願書	願書	application form
+j	願望	願望	wish, hope
+j	願状	願状	神仏に祈願する際にその趣旨を記載したもの。
+j	願箋	願箋	
+j	願行	願行	誓願とそれを達成するための修行。
+j	餘切	餘切	余切の旧字体表記。
+j	餘割	餘割	余割の旧字体表記。
+j	餘弦	餘弦	余弦の旧字体表記。
+j	餘接	餘接	余接の旧字体表記。
+j	餘矢	餘矢	余矢の旧字体表記。
+j	餘角	餘角	余角の旧字体表記。
+j	馘耳	馘耳	敵を殺した証拠として敵の耳を切ること。また、その耳。
+j	馘首	馘首	beheading, decapitation
+j	駘銜	駘銜	くつわを外すこと。
+j	駘騃	駘騃	馬が進まないさま。
+j	高々	高々	up (rather) high
+j	高い	高い	high, tall
+j	高さ	高さ	height
+j	高一	高一	first year in senior high…
+j	高三	高三	third year in senior high…
+j	高上	高上	技芸や品格、思想などが高く上等であること。また、そ…
+j	高下	高下	high and low
+j	高久	高久	a surname
+j	高也	高也	a male given name
+j	高二	高二	second year in senior hig…
+j	高井	高井	a surname
+j	高人	高人	身分が高い人。
+j	高任	高任	高職。
+j	高位	高位	high position; high status
+j	高低	高低	high and low; rise and fa…
+j	高価	高価	expensive
+j	高信	高信	a male given name
+j	高倉	高倉	storehouse built off the …
+j	高僧	高僧	high priest, virtuous pri…
+j	高利	高利	high interest rate
+j	高勝	高勝	勝れること。
+j	高升	高升	上の等級や学年に上がること。進級。
+j	高卑	高卑	高いことと低いこと。
+j	高卒	高卒	having graduated (卒業) fro…
+j	高原	高原	plateau
+j	高受	高受	高等学校受験の略。
+j	高口	高口	a surname
+j	高台	高台	high ground, high elevati…
+j	高史	高史	a male given name
+j	高名	高名	famous; renowned
+j	高吟	高吟	大きな声で詩歌を歌うこと。
+j	高唱	高唱	to sing or chant loudly
+j	高商	高商	旧制の「高等商業学校」の略。
+j	高嘯	高嘯	高く嘯くこと。
+j	高圧	高圧	強い圧力。
+j	高地	高地	plateau, highlands
+j	高坂	高坂	a surname
+j	高坊	高坊	newfag, newbie
+j	高城	高城	a surname
+j	高堂	高堂	a tall and magnificent ho…
+j	高塀	高塀	高くつくられた塀。
+j	高塁	高塁	高い砦。
+j	高塔	高塔	a high tower
+j	高墻	高墻	高い垣。
+j	高士	高士	man of integrity and nobl…
+j	高声	高声	a loud voice, a big voice
+j	高大	高大	高くて大きいこと。
+j	高天	高天	The heavens
+j	高夫	高夫	a male given name
+j	高女	高女	「高等女学校」の略。
+j	高姓	高姓	身分が高い家柄の姓。
+j	高子	高子	a female given name
+j	高孝	高孝	a male given name
+j	高安	高安	Takayasu (a place and sta…
+j	高宏	高宏	a male given name
+j	高官	高官	high official, dignitary
+j	高家	高家	家柄のよい家。格式の高い家。
+j	高密	高密	密度が高いこと。
+j	高寿	高寿	長く生きること。長寿。高齢。
+j	高専	高専	高等専門学校の略。日本では基本的に「工業高等専門学…
+j	高射	高射	firing at the target in t…
+j	高小	高小	高等小学校。
+j	高尚	高尚	tasteful; refined
+j	高尾	高尾	a surname
+j	高屋	高屋	a surname
+j	高層	高層	being extremely high
+j	高山	高山	high mountain
+j	高岡	高岡	Takaoka (a city in Toyama…
+j	高岸	高岸	高い岸。
+j	高峙	高峙	高く聳え立つさま。高聳。
+j	高峰	高峰	peak; summit; height
+j	高島	高島	Takashima (a city in Shig…
+j	高峻	高峻	高く険しいこと。また、そのようなさま。
+j	高崎	高崎	Takasaki (a city in Gunma…
+j	高嶋	高嶋	a surname
+j	高嶺	高嶺	a high or lofty peak, as …
+j	高川	高川	a surname
+j	高師	高師	higher normal school, pre…
+j	高幸	高幸	a male given name
+j	高広	高広	a male given name
+j	高庇	高庇	相手からの厚意や援助などに対する尊敬語。
+j	高度	高度	high-class, advanced
+j	高座	高座	an elevated seat; a dais,…
+j	高康	高康	a male given name
+j	高廈	高廈	高大な建物。
+j	高弘	高弘	a male given name
+j	高弟	高弟	best pupil
+j	高張	高張	ある溶液の浸透圧が他の溶液の浸透圧より高いこと。
+j	高徳	高徳	優れて高い徳。
+j	高志	高志	a male given name
+j	高恩	高恩	人から受けた高大な恩義。
+j	高慢	高慢	arrogance, conceit
+j	高所	高所	a high place
+j	高手	高手	upper arm; the part of th…
+j	高才	高才	great talent
+j	高批	高批	相手の批評に対する尊敬語。
+j	高承	高承	相手が承知することの尊敬語。
+j	高挙	高挙	高く飛ぶこと。遠くへ行くこと。
+j	高揚	高揚	state of elevation (of on…
+j	高教	高教	esteemed teachings
+j	高敞	高敞	高い場所で見晴らしがよいこと。また、そのようなさま。
+j	高昇	高昇	ものの位置や程度が上昇すること。
+j	高明	高明	a male given name
+j	高春	高春	a male given name
+j	高書	高書	相手の手紙、著書に対する尊敬語。
+j	高木	高木	tree with a tall, stout t…
+j	高札	高札	（こうさつ、たかふだ）法令や罪人の罪状などを記し、…
+j	高材	高材	great talent
+j	高村	高村	a surname
+j	高来	高来	相手の来訪に対する尊敬語。
+j	高松	高松	Takamatsu (a city, the ca…
+j	高架	高架	elevated, overhead (lines…
+j	高柳	高柳	a surname
+j	高校	高校	high school; senior high …
+j	高根	高根	
+j	高梁	高梁	Takahashi (a city in Okay…
+j	高梨	高梨	a surname
+j	高森	高森	Takamori, a town in Kumam…
+j	高検	高検	高等検察庁の略。
+j	高楼	高楼	高い楼閣。
+j	高槻	高槻	Takatsuki (a city in Osak…
+j	高標	高標	人品が高いこと。そのさま。
+j	高樹	高樹	樹高の高い樹木。高木。
+j	高橋	高橋	a surname: the 3rd most c…
+j	高機	高機	large treadle operated ha…
+j	高欄	高欄	宮殿や社寺の外廊下にある上段が反り返った欄干。勾欄。
+j	高次	高次	a higher dimension, a hig…
+j	高歌	高歌	loud singing
+j	高歩	高歩	利息の歩合が高いこと。
+j	高殿	高殿	閣: lofty palace
+j	高波	高波	high waves
+j	高温	高温	high temperature, high he…
+j	高湿	高湿	high humidity
+j	高潔	高潔	noble and honest; unsulli…
+j	高潮	高潮	climax
+j	高瀬	高瀬	a surname
+j	高炉	高炉	blast furnace
+j	高点	高点	得点の数が高いこと。
+j	高照	高照	高く照らすこと。
+j	高熱	高熱	high temperature
+j	高燥	高燥	標高が高く、燥いていること。
+j	高爽	高爽	標高が高く、四方の眺望が素晴らしいさま。
+j	高牆	高牆	高い垣。
+j	高牙	高牙	高く掲揚された将軍の旗。
+j	高率	高率	high-rate
+j	高田	高田	a surname
+j	高畑	高畑	a surname
+j	高相	高相	気高い人相。また、そのような人。
+j	高眠	高眠	枕を高くして寝ること。安眠すること。
+j	高睨	高睨	高視すること。
+j	高知	高知	Kōchi (the capital city o…
+j	高石	高石	a city in Osaka Prefectur…
+j	高砂	高砂	an old name for Taiwan
+j	高祖	高祖	a remote ancestor
+j	高祲	高祲	邪気。
+j	高禄	高禄	多額の俸禄や俸給。
+j	高空	高空	high altitude
+j	高竦	高竦	高く聳え立つさま。高峙。
+j	高等	高等	higher, advanced
+j	高粱	高粱	
+j	高級	高級	high-class; luxury; exclu…
+j	高給	高給	給料が高いこと。また、その給料。
+j	高絶	高絶	懸絶。
+j	高義	高義	high morals; surpassing r…
+j	高翔	高翔	flying high
+j	高考	高考	
+j	高聞	高聞	自分の講演などを他人が聞いてくれることの尊敬語。
+j	高聳	高聳	高く聳え立つさま。高峙。
+j	高聴	高聴	自分の講演などを他人が聴聞してくれたことに対する敬…
+j	高職	高職	高い官職や地位。高位。
+j	高臥	高臥	世俗を離れ、高い心を持ち、山野で暮らすこと。
+j	高舂	高舂	夕方。夕刻。
+j	高芸	高芸	芸達者。
+j	高虎	高虎	a male given name
+j	高裁	高裁	高等裁判所の略。
+j	高見	高見	watching with detachment
+j	高視	高視	高所を見ること。
+j	高覧	高覧	その人が見ること。
+j	高角	高角	（たかづの）兜の鍬形が高く尖ったもの。
+j	高言	高言	偉そうに大きなことを言うこと。また、その言葉。
+j	高評	高評	評判や評価が高いこと。
+j	高話	高話	優れた論。
+j	高認	高認	文部科学省が行う高等学校卒業程度認定試験。
+j	高説	高説	esteemed opinion; a respe…
+j	高誼	高誼	相手の厚意に対する敬語。
+j	高調	高調	音の調子が高いこと。
+j	高論	高論	優れた論。
+j	高議	高議	すぐれた議論。
+j	高谷	高谷	a surname
+j	高貝	高貝	a surname
+j	高貴	高貴	noble; of noble birth; hi…
+j	高質	高質	品質の高いこと。また、そのような品物。
+j	高足	高足	蹴鞠で高く足をあげて毬を蹴ること。
+j	高踏	高踏	highbrow, aloof
+j	高蹤	高蹤	程度の高い行跡。
+j	高速	高速	rapid; high-speed
+j	高進	高進	次第に程度が高まること。
+j	高運	高運	この上なく運がよいこと。また、そのようなさま。
+j	高道	高道	A piece in Ko shogi
+j	高遠	高遠	高くて遠い様子。考えや位置付けが、高くて遠い所を目…
+j	高邁	高邁	理念や精神が高く、邁んでいる様子。
+j	高邃	高邃	高く邃いこと。そのさま。
+j	高部	高部	部首「⾼」で分類した漢字の一群。
+j	高配	高配	your good offices
+j	高野	高野	a surname
+j	高鉄	高鉄	（中華人民共和国・台湾の）高速鉄道の略。
+j	高閣	高閣	高く立派な建造物。高楼。
+j	高閲	高閲	「校閲」の尊敬語。
+j	高陞	高陞	進級すること。
+j	高階	高階	a surname
+j	高雄	高雄	name of a town in Ukyō-ku…
+j	高雅	高雅	refined; elegant; chaste
+j	高音	高音	high pitch
+j	高須	高須	a surname
+j	高額	高額	high-priced, expensive
+j	高風	高風	優れた人柄や風格。
+j	高騰	高騰	rise
+j	高高	高高	際立って高いこと。
+j	高髻	高髻	高く結った髷。
+j	高麗	高麗	indicates something that …
+j	高鼾	高鼾	a loud snore
+j	高齢	高齢	advanced age, old age
+j	魘夢	魘夢	不吉な夢。恐ろしい夢。悪夢。
+j	魘魅	魘魅	呪術により人を呪い殺すこと。
+j	鱘魚	鱘魚	チョウザメの漢字表記。
+j	默想	默想	meditation; silent contem…
+j	默示	默示	
+j	默禱	默禱	
+k	감람	甘藍	Chinese olive
+k	감로	甘露	honeydew
+k	감미	甘味	sweetness, sweet taste
+k	감송	甘松	plant of genus Nardostach…
+k	감수	甘受	putting up with, enduring
+k	감수	甘水	putting up with, enduring
+k	감수	甘遂	putting up with, enduring
+k	감숙	甘粛	Gansu (a province in nort…
+k	감숙	甘肅	Gansu (a province in nort…
+k	감안	勘案	consideration (for a part…
+k	감초	甘草	licorice
+k	고가	高価	high price
+k	고가	高價	high price
+k	고가	高架	high price
+k	고공	高空	high altitude
+k	고관	高官	high official, dignitary
+k	고교	高校	high school
+k	고급	高級	seniority, high rank
+k	고대	高台	antiquity; ancient times
+k	고대	高臺	antiquity; ancient times
+k	고도	高度	height, altitude
+k	고도	高蹈	height, altitude
+k	고도	高道	height, altitude
+k	고도	高𨂻	height, altitude
+k	고려	高麗	Goryeo
+k	고령	高齡	
+k	고령	高齢	
+k	고로	高炉	의지할 데가 없는 외로운 늙은이.
+k	고로	高爐	의지할 데가 없는 외로운 늙은이.
+k	고리	高利	ring; loop
+k	고명	高名	garnish
+k	고모	高帽	paternal aunt (one's fath…
+k	고비	高卑	crisis, critical moment
+k	고비	高批	crisis, critical moment
+k	고비	高飛	crisis, critical moment
+k	고비	高鼻	crisis, critical moment
+k	고산	高山	high mountain
+k	고성	高城	shouting, shout, yell
+k	고성	高声	shouting, shout, yell
+k	고성	高聲	shouting, shout, yell
+k	고소	高所	accusation; complaint
+k	고속	高速	high speed
+k	고수	高手	coriander/cilantro
+k	고양	高陽	높이 쳐들어 올림.
+k	고열	高熱	high temperature
+k	고온	高温	high temperature, high he…
+k	고온	高溫	high temperature, high he…
+k	고웅	高雄	
+k	고원	高原	plateau
+k	고위	高位	high rank
+k	고인	高人	the dead, the deceased
+k	고저	高低	high and low
+k	고조	高潮	high tide
+k	고지	高地	plateau, highlands
+k	고취	高趣	inspiration
+k	고층	高層	something of high-rise, m…
+k	관군	官軍	government army
+k	관료	官僚	bureaucrat
+k	관리	官吏	administration, managemen…
+k	관병	官兵	government forces, offici…
+k	관복	官服	uniform (of officials)
+k	관사	官舍	building where public ser…
+k	관사	官舎	building where public ser…
+k	관원	官員	official
+k	관직	官職	
+k	관청	官庁	government office
+k	관청	官廳	government office
+k	관화	官話	Mandarin; Guanhua (group …
+k	구나	拘拿	act of catching a criminal
+k	구니	拘泥	obsession; unnecessary ab…
+k	구류	拘留	the state of being under …
+k	구속	拘束	arrest; detention
+k	구인	拘引	arrest, apprehension
+k	귤락	橘絡	tangerine pith; tangerine…
+k	귤피	橘皮	
+k	기록	記錄	a record (of something)
+k	기록	記録	a record (of something)
+k	기별	記別	letter; tidings
+k	기사	記事	an article, such as in a …
+k	기술	記述	technology
+k	기억	記憶	recall; the faculty of me…
+k	기입	記入	record; entry
+k	기자	記者	reporter, journalist, new…
+k	기호	記号	sign; symbol; mark
+k	기호	記號	sign; symbol; mark
+k	누수	壘手	water leakage
+k	단결	團結	unity
+k	단발	単発	one shot (by a firearm or…
+k	단사	単射	수은으로 이루어진 황화 광물. 육방 정계에 속…
+k	단속	團束	oppression, crackdown
+k	단수	単数	singular
+k	단순	単純	simple
+k	단식	単式	fasting
+k	단어	単語	an individual word
+k	단위	単位	a unit
+k	단일	単一	singleness, unity
+k	단지	團地	just, only; simply
+k	단체	単体	a group or organization o…
+k	단체	團體	a group or organization o…
+k	단층	単層	fault (geology fracture i…
+k	도태	淘汰	an elimination of (someth…
+k	두묘	痘苗	vaccine
+k	두창	痘瘡	smallpox
+k	두환	痘患	
+k	령공	領空	문화어에서 ‘영공’을 달리 이르는 말.
+k	령사	領事	North Korea standard spel…
+k	령역	領域	'영역'의 북한말과 연변말.
+k	령토	領土	문화어에서 ‘영토’를 달리 이르는 말.
+k	망각	忘却	corner where two walls me…
+k	망기	忘棄	forgetting something
+k	망기	忘機	forgetting something
+k	명문	銘文	good family; noble family…
+k	묵고	默考	silent contemplation
+k	묵념	默念	silent contemplation, a m…
+k	묵도	默禱	
+k	묵살	默殺	disregarding or ignoring …
+k	묵시	默示	hint, suggestion, implica…
+k	묵시	默視	hint, suggestion, implica…
+k	묵인	默認	connivance, tacitly toler…
+k	묵주	默珠	rosary
+k	배회	徘徊	prowling; loitering
+k	부근	付近	neighborhood, environs, v…
+k	부탁	付託	request, favor
+k	비결	秘訣	secret
+k	비닉	秘匿	concealment
+k	비록	秘録	even if; although
+k	비밀	秘密	secret
+k	비번	秘番	off duty
+k	비법	秘法	secret; magic formula; kn…
+k	비서	秘書	secretary
+k	비서	秘書	secretary
+k	비적	秘籍	bandit
+k	삼다	蔘茶	to take as; to forge a re…
+k	서사	敘事	to narrate; to recount
+k	선우	単于	chanyu (a supreme ruler o…
+k	승객	乘客	passenger
+k	승극	乘隙	act of seizing an opportu…
+k	승마	乘馬	horseback riding, equestr…
+k	승법	乘法	multiplication
+k	승수	乘數	multiplier
+k	식도	識度	oesophagus, esophagus; gu…
+k	식별	識別	discrimination, identific…
+k	식자	識者	intellectual; an educated…
+k	애구	隘口	
+k	양상	様相	aspect
+k	양식	様式	form; format; style
+k	양하	蘘荷	myoga
+k	여가	餘暇	leisure, free time (time …
+k	여념	餘念	thinking of something else
+k	여망	餘望	expectations
+k	여백	餘白	blank (space), margin
+k	여유	餘裕	leeway; remainder; extra …
+k	여지	茘枝	room; margin; scope; leew…
+k	여지	餘地	room; margin; scope; leew…
+k	여진	餘震	aftershock (of an earthqu…
+k	여파	餘波	aftermath, aftereffect
+k	여파	餘派	aftermath, aftereffect
+k	영공	領空	
+k	영관	領官	field officer
+k	영사	領事	consul
+k	영역	領域	A sphere or field of acti…
+k	영주	領主	feudal lord
+k	영토	領土	territory
+k	영해	領海	territorial waters
+k	원망	願望	resentment; blame
+k	유괴	誘拐	abduction; kidnapping
+k	유발	誘発	causing; inducing
+k	유발	誘發	causing; inducing
+k	유인	誘因	attraction; enticement
+k	유인	誘引	attraction; enticement
+k	유치	誘致	attraction
+k	유혹	誘惑	temptation, enticement, a…
+k	잔구	殘丘	monadnock, inselberg
+k	잔루	殘壘	(runners) left on base (L…
+k	잔류	殘留	staying behind
+k	잔액	殘額	balance (of an account)
+k	잔여	殘餘	remnants, remainder
+k	잔인	殘忍	being cruel; being ruthle…
+k	잔재	殘滓	remnant; vestige
+k	잔학	殘虐	cruelty; brutality
+k	잔해	殘骸	wreckage
+k	잔혹	殘酷	cruelty; brutality; atroc…
+k	장원	荘園	manor
+k	장자	荘子	eldest son
+k	적출	摘出	child born in wedlock
+k	절반	折半	half
+k	점막	粘膜	mucous membrane
+k	점액	粘液	mucus
+k	점토	粘土	
+k	존망	存亡	life or death
+k	존재	存在	existence
+k	지주	蜘蛛	landowner; landlord
+k	참사	慘事	disaster; tragedy
+k	참척	慘慽	the death of a child befo…
+k	참패	慘敗	crushing defeat, utter de…
+k	참혹	慘酷	extreme cruelty
+k	천기	喘気	weather
+k	천기	喘氣	weather
+k	천식	喘息	asthma
+k	투계	闘鶏	경기용으로 사육되는 닭.
+k	투병	闘病	battling an illness
+k	투쟁	闘争	fight; struggle
+k	홍도	弘道	
+k	홍보	弘報	promotion; publicization;…
+j	丘実子	丘実子	a female given name
+j	付ける	付ける	to attach, to affix, to s…
+j	付け値	付け値	
+j	付け文	付け文	love letter
+j	付け紐	付け紐	sash attached to child's …
+j	付け薬	付け薬	external medicine
+j	付け髭	付け髭	false mustache, false bea…
+j	付け麺	付け麺	一度ゆでて冷やした中華麺を器にもり、つけ汁につけて…
+j	付する	付する	to attach; to add
+j	付加刑	付加刑	主刑に付随してだけ科すことができ、単独では科すこと…
+j	付加物	付加物	
+j	付喪神	付喪神	the spirit of an artifact…
+j	付属品	付属品	主要なものに付属している物品。
+j	付属家	付属家	倉庫や物置などの、居住室を持たない家屋。
+j	付属校	付属校	学校、特に大学に付設され、その学校での教育活動に利…
+j	付属物	付属物	
+j	付属節	付属節	
+j	付属語	付属語	a dependent/enclitic/boun…
+j	付庸国	付庸国	vassal state
+j	付箋紙	付箋紙	
+j	侘しい	侘しい	lonely, miserable, shabby
+j	侘びる	侘びる	to long for, worry
+j	傘立て	傘立て	umbrella stand
+j	勘じる	勘じる	拷問にかける。
+j	勘ずる	勘ずる	「勘じる」を参照。
+j	勘亭流	勘亭流	Kantei-ryū, a type of 江戸文…
+j	勘定台	勘定台	
+j	勘繰る	勘繰る	to suspect someone's moti…
+j	勘解由	勘解由	「勘解由使」の略。
+j	勘違い	勘違い	misunderstanding, misconc…
+j	単なる	単なる	mere, sheer, just, simple…
+j	単一の	単一の	
+j	単一性	単一性	
+j	単一語	単一語	
+j	単位元	単位元	ある二項演算が定義された集合において、集合の任意の…
+j	単位円	単位円	半径が1の円。
+j	単位球	単位球	半径が1の球体。
+j	単位系	単位系	a system of measurement
+j	単偶数	単偶数	整数のうち、二で割り切れるが、四で割り切れない数。…
+j	単勝式	単勝式	betting system where one …
+j	単回帰	単回帰	目的変数を一つの説明変数で回帰すること。単純回帰。
+j	単墓制	単墓制	遺体、遺骨を埋葬する墓と墓参、供養する墓が同じ墓制。
+j	単孔目	単孔目	Monotremata
+j	単孔類	単孔類	単孔目に属する哺乳類の総称。
+j	単射の	単射の	
+j	単性の	単性の	
+j	単性説	単性説	monophysitism
+j	単性論	単性論	イエスが一つの性だけを持つとする説。451年のカル…
+j	単振動	単振動	正弦関数あるいは余弦関数で動きを表すことができる振…
+j	単数の	単数の	
+j	単数形	単数形	a singular form of a word
+j	単方向	単方向	一つの方向だけに限られること。
+j	単母音	単母音	monophthong
+j	単独で	単独で	
+j	単独の	単独の	
+j	単独性	単独性	
+j	単生児	単生児	単胎児の別称。
+j	単用土	単用土	採取されたままの、調合などを施されていない土または…
+j	単眼鏡	単眼鏡	片目で観察を行う顕微鏡。双眼鏡に対していい、通常は…
+j	単糖類	単糖類	糖類のうち加水分解してそれ以上簡単な構造に分解でき…
+j	単純な	単純な	
+j	単純化	単純化	simplification
+j	単純林	単純林	pure forest (forest compo…
+j	単純語	単純語	simple word
+j	単細胞	単細胞	single-celled, unicellula…
+j	単結晶	単結晶	一つの結晶から成る物質。
+j	単義語	単義語	関連する意義を一つしか持たない音形・語形から成る語。
+j	単胎児	単胎児	同じ両親から生まれた一人の子供。
+j	単花果	単花果	一つの花の一つの子房からできる果実。単果。
+j	単花蜜	単花蜜	「単花蜂蜜」の別称。
+j	単葉機	単葉機	monoplane
+j	単行本	単行本	tankobon
+j	単試合	単試合	singles (in tennis)
+j	単語帳	単語帳	外国語や古語の単語とその意味を並べた書物。
+j	単語性	単語性	
+j	単調な	単調な	
+j	単音節	単音節	
+j	単項式	単項式	monomial expression
+j	嘘だろ	嘘だろ	an exclamation of surpris…
+j	嘘つき	嘘つき	liar; fibber
+j	嘘八百	嘘八百	nothing but lies; full of…
+j	嘘泣き	嘘泣き	crocodile tears; fake cry…
+j	囘數券	囘數券	
+j	存じる	存じる	to think, feel, know
+j	存する	存する	to exist, to remain
+j	存分に	存分に	fully
+j	存在感	存在感	one's presence as felt by…
+j	存在的	存在的	
+j	存在論	存在論	
+j	官僚制	官僚制	bureaucracy
+j	官公吏	官公吏	官吏と公吏。国家公務員と地方公務員。役人。
+j	官公庁	官公庁	官庁と地方公共団体の役所。
+j	官公署	官公署	国と地方公共団体の役所。官公庁。
+j	官奴司	官奴司	during the Ritsuryō syste…
+j	官能基	官能基	functional group
+j	官能的	官能的	性的、肉体的な欲望をそそるさま。
+j	弘太郎	弘太郎	a male given name
+j	弘実子	弘実子	a female given name
+j	弘文館	弘文館	（朝鮮史）宮中の図書の管理や王・官僚の諮問に応じた…
+j	忘れる	忘れる	to forget
+j	忘れ物	忘れ物	lost article, something f…
+j	忘備録	忘備録	
+j	忘年会	忘年会	a year-end party where pe…
+j	托する	托する	〔物品や身体を〕重みをしっかり支えさせるようにして…
+j	托鉢僧	托鉢僧	
+j	折から	折から	折柄: just then, (at) that …
+j	折り句	折り句	短歌や俳句などで各句の先頭にある言葉を一文字ずつに…
+j	折り本	折り本	横に長い長方形の紙を継いだものを綴じずに折り畳んだ…
+j	折り畳	折り畳	
+j	折り目	折り目	
+j	折り紙	折り紙	origami (the Japanese art…
+j	折れる	折れる	to snap; to break
+j	拘束衣	拘束衣	straitjacket
+j	拘禁刑	拘禁刑	
+j	拘置所	拘置所	detention centre
+j	掘れる	掘れる	to have holes, cavities o…
+j	掘削性	掘削性	
+j	掘削機	掘削機	excavator
+j	掘鑿機	掘鑿機	土砂、岩石、地盤などを掘鑿する建設機械の総称。
+j	摘まむ	摘まむ	to pinch, to hold
+j	柘榴石	柘榴石	「石榴石」の別表記。
+j	棘上筋	棘上筋	a supraspinatus muscle
+j	棘下筋	棘下筋	an infraspinatus muscle
+j	様々な	様々な	
+j	様子見	様子見	observing something's dev…
+j	様式美	様式美	beauty in a style
+j	毘沙門	毘沙門	Bishamonten, Japanese nam…
+j	甘える	甘える	to seek affection, to fawn
+j	甘ロリ	甘ロリ	Sweet Lolita, a Japanese …
+j	甘味所	甘味所	cafe with Japanese-style …
+j	甘味料	甘味料	sweetener (food additive)
+j	甘噛み	甘噛み	play biting
+j	甘海老	甘海老	synonym of 北国赤海老 (hokkoku…
+j	甘納豆	甘納豆	アズキ、ササゲ、エンドウマメ、ソラマメ、インゲンマ…
+j	甘茶蔓	甘茶蔓	
+j	甘蔗糖	甘蔗糖	甘蔗（砂糖黍）の絞り汁を加工してつくられる砂糖。蔗…
+j	甘辛い	甘辛い	sweet (甘い) and salty (辛い)
+j	甘野老	甘野老	scented Solomon's seal, P…
+j	秘する	秘する	〔情報を〕隠して人に知らせない。秘密にする。
+j	秘める	秘める	to hide, keep (feelings o…
+j	秘儀の	秘儀の	
+j	秘匿名	秘匿名	
+j	秘境駅	秘境駅	a train station distant f…
+j	秘密の	秘密の	
+j	秘密箱	秘密箱	
+j	秘密裏	秘密裏	内密の状態で実行すること。秘密裡。
+j	秘密裡	秘密裡	内密の状態で実行すること。秘密裏。
+j	秘密鍵	秘密鍵	secret key; private key
+j	秘書官	秘書官	高官の秘書を行う職員。
+j	秘書長	秘書長	中華人民共和国において国務院や省を束ねる事務責任者…
+j	秘術師	秘術師	A practitioner of secret …
+j	窘める	窘める	to reprove
+j	粘性の	粘性の	
+j	粘板岩	粘板岩	
+j	粘液腺	粘液腺	体表に粘液を分泌するための分泌腺。昆虫などでは卵に…
+j	粘漿剤	粘漿剤	
+j	粘漿薬	粘漿薬	
+j	粘着剤	粘着剤	adhesive
+j	粘着力	粘着力	粘り付く力。
+j	粘着性	粘着性	粘り付く性質。
+j	粘管目	粘管目	《分類学》 トビムシ目の、かつての標準和名、現在の…
+j	紘一朗	紘一朗	a male given name
+j	緘する	緘する	開いている口などををきつく閉じる。
+j	緘口令	緘口令	「箝口令」の別表記。
+j	緘黙症	緘黙症	mutism
+j	聘する	聘する	招聘する。
+j	肘掛け	肘掛け	
+j	肘鉄砲	肘鉄砲	肘を突き出してのけること。肘鉄。
+j	茘枝貝	茘枝貝	アクキガイ科の巻き貝。カキなどの二枚貝を食害する。…
+j	荘厳な	荘厳な	
+j	荘園制	荘園制	manorialism
+j	蜘蛛学	蜘蛛学	蜘蛛形類について研究する学問。動物学の一種。
+j	蜘蛛猿	蜘蛛猿	a spider monkey
+j	蜘蛛類	蜘蛛類	節足動物門鋏角亜門クモ綱クモ目に属する蜘蛛形類の総…
+j	記する	記する	書き記す。
+j	記号学	記号学	semiology
+j	記号論	記号論	semiotics
+j	記実子	記実子	a female given name
+j	記年祭	記年祭	
+j	記念品	記念品	souvenir, memento
+j	記念日	記念日	anniversary (day an exact…
+j	記念樹	記念樹	memorial tree
+j	記念物	記念物	souvenir; memento
+j	記念碑	記念碑	monument, a building to c…
+j	記念祭	記念祭	commemoration, memorial, …
+j	記念館	記念館	memorial hall
+j	記憶力	記憶力	記憶する能力。
+j	記憶法	記憶法	a mnemonic, a system to a…
+j	記憶術	記憶術	mnemonics, the art or pra…
+j	記数法	記数法	言語や数字で数を表すための方法。
+j	記者団	記者団	press corps
+j	記者席	記者席	seat for press
+j	記譜法	記譜法	
+j	記述子	記述子	descriptor
+j	記述的	記述的	社会科学・人文科学におけるアプローチのひとつで、研…
+j	記述語	記述語	
+j	記録係	記録係	
+j	記録的	記録的	record
+j	誘導体	誘導体	
+j	誘導弾	誘導弾	guided missile
+j	誘導路	誘導路	taxiway
+j	誘拐犯	誘拐犯	abductor (kidnapper)
+j	誘電体	誘電体	dielectric
+j	誘電率	誘電率	dielectric constant, perm…
+j	識別子	識別子	identifier
+j	識字率	識字率	literacy rate
+j	釘付け	釘付け	nailing down
+j	銘する	銘する	〔文字を〕物の表面に刻む。
+j	銘打つ	銘打つ	
+j	鐘楼守	鐘楼守	鐘楼を守る番人。
+j	鐘状花	鐘状花	合弁花で、花弁がほぼ全体にわたって癒合していて釣鐘…
+j	闘技場	闘技場	arena
+j	闘構え	闘構え	漢字の部首「⾾」が構えであるときの呼称。たたかいが…
+j	闘牛士	闘牛士	bullfighter (a toreador o…
+j	闘蜘蛛	闘蜘蛛	蜘蛛同士を戦わせる競技、または、これに用いる蜘蛛。
+j	闘蟋蟀	闘蟋蟀	蟋蟀同士を戦わせる競技、または、これに用いる蟋蟀。
+j	隘勇線	隘勇線	生蕃の来襲に備えるために設けられていた隘勇の歩哨線…
+j	鞘取り	鞘取り	arbitrage
+j	鞘塗師	鞘塗師	鞘に漆を塗る工匠。
+j	鞘翅目	鞘翅目	《分類学》 コウチュウ目の、かつての標準和名、現在…
+j	鞘翅類	鞘翅類	コウチュウ目に分類される昆虫の総称。甲虫に同じ。
+j	領らす	領らす	
+j	領事官	領事官	「領事」に同じ。
+j	領事館	領事館	consulate
+j	領収書	領収書	formal receipt
+j	領収証	領収証	相手から代金などの金銭を受領したことを証明する書面…
+j	領有権	領有権	ある領域に対して主権を行使する権利。
+j	願い事	願い事	a wish; a desire
+j	願掛け	願掛け	a prayer, a wish (to the …
+j	願望法	願望法	
+j	高じる	高じる	人の気持ちや興味が強くなる。
+j	高ぶる	高ぶる	be highly wrought-up, str…
+j	高まり	高まり	
+j	高まる	高まる	to build, mount, intensify
+j	高める	高める	to raise, lift
+j	高らか	高らか	loud and lively
+j	高二病	高二病	思春期の年頃である高校二年生ぐらいに見られる言動や…
+j	高価い	高価い	
+j	高倉竜	高倉竜	a flat-faced seahorse, Hi…
+j	高冷地	高冷地	標高が高く、夏でも気候が冷涼な高原の地域。
+j	高分子	高分子	分子量が非常に大きな化合物。ポリマー。
+j	高利貸	高利貸	「高利貸し」の別表記。
+j	高収入	高収入	high income
+j	高句麗	高句麗	Goguryeo (an ancient king…
+j	高名な	高名な	
+j	高周波	高周波	周波数が高いこと。また、その振動や波動。
+j	高圧的	高圧的	権力により相手を押さえつけようとするさま。
+j	高圧線	高圧線	高電圧の電気が流れる電線。
+j	高圧部	高圧部	気圧が同じ面において、周囲より気圧（高度）が高いも…
+j	高大生	高大生	高校生と大学生
+j	高天原	高天原	the sky, heavens
+j	高学年	高学年	一番上の学年。特に小学校五年生と六年生。
+j	高学歴	高学歴	advanced academic backgro…
+j	高安犬	高安犬	日本犬の犬種の一つで山形県原産の中型犬。現在は絶滅。
+j	高実子	高実子	a female given name
+j	高専生	高専生	高等専門学校に在籍している学生。
+j	高射砲	高射砲	anti-aircraft gun, anti-a…
+j	高尚な	高尚な	
+j	高尚の	高尚の	
+j	高層雲	高層雲	altostratus
+j	高山族	高山族	台湾原住民。
+j	高山病	高山病	altitude sickness
+j	高度の	高度の	
+j	高度計	高度計	altimeter
+j	高徳院	高徳院	Kōtoku-in (Buddhist templ…
+j	高性能	高性能	high-performance
+j	高慢な	高慢な	
+j	高揚感	高揚感	気分が高揚し、興奮した感覚。
+j	高架橋	高架橋	a viaduct
+j	高校生	高校生	high school student
+j	高楊枝	高楊枝	using a toothpick after a…
+j	高機能	高機能	high-functioning
+j	高次元	高次元	空間で四次元以上の次元。
+j	高気圧	高気圧	high atmospheric pressure…
+j	高潮線	高潮線	大潮の満潮時でもこれよりは下がらないとされる海岸線。
+j	高知市	高知市	高知県の県庁所在地。中核市。
+j	高知県	高知県	a prefecture of Japan in …
+j	高砂国	高砂国	Takasago, an old name for…
+j	高砂族	高砂族	aboriginal tribes
+j	高祖母	高祖母	great-great-grandmother, …
+j	高祖父	高祖父	great-great-grandfather (…
+j	高積雲	高積雲	altocumulus
+j	高等部	高等部	一貫校における高等学校。
+j	高粱酒	高粱酒	高粱を原料にした蒸留酒の一種。白乾児。汾酒。
+j	高精度	高精度	精度が高いこと。
+j	高級な	高級な	
+j	高級品	高級品	
+j	高級車	高級車	luxury car
+j	高緯度	高緯度	地球上で緯度が高いこと。また、そのような地域。
+j	高良姜	高良姜	lesser galangal, Alpinia …
+j	高血圧	高血圧	hypertension; high blood …
+j	高血糖	高血糖	hyperglycemia
+j	高角砲	高角砲	航空機を撃墜するための火砲。旧海軍の呼称で陸軍では…
+j	高調子	高調子	声などの調子が高いこと。
+j	高貴な	高貴な	
+j	高足蟹	高足蟹	a Japanese spider crab (M…
+j	高跳び	高跳び	high jump
+j	高踏派	高踏派	Parnassianism
+j	高軌道	高軌道	人工衛星の軌道で、静止軌道より高いもの。
+j	高遠な	高遠な	
+j	高野連	高野連	日本高等学校野球連盟の略。
+j	高雅な	高雅な	
+j	高飛車	高飛車	heavy-handed; domineering…
+j	高高度	高高度	地上７、８千メートルから１万メートルぐらいまでの高…
+j	高鳴る	高鳴る	to resound loudly
+j	高麗人	高麗人	a person from the Gogurye…
+j	高麗笛	高麗笛	komabue: a transverse flu…
+j	高麗縁	高麗縁	a type of edge of tatami …
+j	高麗語	高麗語	高麗で使用されていた朝鮮語。
+j	高麗錦	高麗錦	a brocade imported from G…
+j	高麗鶯	高麗鶯	
+j	高齢化	高齢化	総人口に占める高齢者の割合が増加すること。
+j	高齢者	高齢者	elderly person
+k	감로수	甘露水	sugar water, syrup, necta…
+k	감로주	甘露酒	sweet liquor; a kind of s…
+k	감미료	甘味料	sweetener
+k	감자탕	甘藷湯	gamjatang
+k	고가교	高架橋	viaduct
+k	고교생	高校生	
+k	고구려	高句麗	Goguryeo (an ancient king…
+k	고단수	高段数	quick-witted, cunning per…
+k	고단수	高段數	quick-witted, cunning per…
+k	고량주	高梁酒	kaoliang (distilled alcoh…
+k	고량주	高粱酒	kaoliang (distilled alcoh…
+k	고령자	高齡者	
+k	고령자	高齢者	
+k	고사포	高射砲	anti-aircraft gun
+k	고산병	高山病	altitude sickness
+k	고선명	高鮮明	
+k	고성기	高声器	
+k	고성기	高聲器	
+k	고체온	高体温	high body temperature; hy…
+k	고체온	高體溫	high body temperature; hy…
+k	고출산	高出産	high birthrate
+k	고혈압	高血圧	high blood pressure; hype…
+k	고혈압	高血壓	high blood pressure; hype…
+k	관능미	官能美	sexual beauty, beauty app…
+k	관료제	官僚制	bureaucracy
+k	관방학	官房学	cameralistics
+k	관방학	官房學	cameralistics
+k	구치소	拘置所	detention centre; jail
+k	굴삭기	掘削機	굴착기.
+k	굴착기	掘鑿機	excavator
+k	기념관	記念館	memorial hall; commemorat…
+k	기념비	記念碑	monument, commemorative s…
+k	기념일	記念日	memorial day; anniversary
+k	기념품	記念品	souvenir, memento
+k	기보기	記步器	
+k	기보기	記歩器	
+k	기보법	記譜法	
+k	기억력	記憶力	power of recall; memory (…
+k	기억술	記憶術	mnemonics, the art of mem…
+k	기자단	記者団	press corps
+k	기자단	記者團	press corps
+k	단모음	単母音	monophthong
+k	단세포	単細胞	single-celled, unicellula…
+k	단수형	単数形	
+k	단순어	単純語	simple word
+k	단안경	単眼鏡	monocle
+k	단엽기	単葉機	monoplane
+k	단원제	単院制	
+k	단행본	単行本	tankobon
+k	령도자	領導者	
+k	령사관	領事館	North Korea standard spel…
+k	령수증	領収証	
+k	령수증	領收證	
+k	비밀리	秘密裏	secrecy, clandestineness
+k	비밀리	秘密裡	secrecy, clandestineness
+k	비자금	秘資金	slush fund
+k	삼계탕	蔘鶏湯	samgyetang (chicken soup …
+k	삼계탕	蔘鷄湯	samgyetang (chicken soup …
+k	승무원	乘務員	crewman, crew member, fli…
+k	승용차	乘用車	a (passenger) car, sedan
+k	승차권	乘車券	ticket
+k	승차장	乘車場	stand, platform, station,…
+k	승합차	乘合車	van, full-size van, 15-pa…
+k	식별자	識別子	identifier
+k	양곱창	羘곱창	tripe of the small intest…
+k	여집합	餘集合	
+k	영도자	領導者	leader
+k	영사관	領事官	a consulate
+k	영사관	領事館	a consulate
+k	영성체	領聖体	Holy Communion
+k	영성체	領聖體	Holy Communion
+k	영수증	領収証	receipt (written acknowle…
+k	영수증	領收證	receipt (written acknowle…
+k	요한 묵시록	默示錄	Book of Revelation; The A…
+k	원하다	願하다	to want (for), to hope (f…
+k	유괴범	誘拐犯	abductor, kidnapper
+k	유도기	誘導機	inductor
+k	유도탄	誘導弾	guided missile
+k	유도탄	誘導彈	guided missile
+k	자류석	柘榴石	garnet (mineral, gemstone)
+k	점판암	粘板岩	slate
+k	존재론	存在論	
+k	종유석	鐘乳石	stalactite
+k	투우사	闘牛士	bullfighter, toreador, ma…
+k	함구증	緘口症	mutism
+k	함묵증	緘默症	mutism
+k	함묵증	緘黙症	mutism
+k	홍대병	弘大病	hipsterism, hipster subcu…
+j	付き合い	付き合い	friendship, association
+j	付き合う	付き合う	to go out with, to be dat…
+j	付き添い	付き添い	chaperon
+j	付き添う	付き添う	accompany, attend on, esc…
+j	付き纏う	付き纏う	follow around, tag along …
+j	付けペン	付けペン	ペン先にインクをつけて使用するペン。
+j	付け狙う	付け狙う	tail, shadow, prowl after
+j	付け足す	付け足す	add on, append
+j	付け込む	付け込む	to take advantage of
+j	付加価値	付加価値	売上高から原材料費、減価償却費を差し引いた額。生産…
+j	付和雷同	付和雷同	blindly following others
+j	付属する	付属する	
+j	侘助構文	侘助構文	「だってそれ作ったのオレだもん」のように、作成者が…
+j	勘定口座	勘定口座	（会計）複式簿記において、仕訳の集計のために勘定科…
+j	勘定科目	勘定科目	簿記において勘定につけた名称のこと。
+j	勘定高い	勘定高い	calculating, mercenary, c…
+j	勘弁する	勘弁する	
+j	勘解由使	勘解由使	令外官の一つで平安時代、官吏交代の際、後任者が何事…
+j	単一の相	単一の相	
+j	単一国家	単一国家	
+j	単一機械	単一機械	滑車、てこ、くさびなど単純な機構の機械。単純機械。
+j	単一神教	単一神教	
+j	単一言語	単一言語	
+j	単一通貨	単一通貨	
+j	単三電池	単三電池	「単三形乾電池」の略。
+j	単位行列	単位行列	identity matrix
+j	単価記号	単価記号	an at sign
+j	単刀直入	単刀直入	straight to the point; po…
+j	単子葉類	単子葉類	子葉が1枚の植物の分類。
+j	単式簿記	単式簿記	簿記の一種で仕訳をしないで現金の収支を中心に取引を…
+j	単極誘導	単極誘導	ある磁場の中で導体が運動することで、電位の差が生じ…
+j	単為生殖	単為生殖	
+j	単為結果	単為結果	
+j	単科大学	単科大学	大学のうち一つの学部で構成される大学。カレッジ。
+j	単純回帰	単純回帰	単回帰に同じ。
+j	単純明快	単純明快	clear and simple to under…
+j	単純機械	単純機械	simple machine
+j	単純疱疹	単純疱疹	herpes simplex
+j	単純過去	単純過去	
+j	単細胞の	単細胞の	
+j	単線並列	単線並列	一見複線に見えるが、実際には各路線の単線の線路が隣…
+j	単線軌道	単線軌道	上り線と下り線が分かれず、上下の列車が一つの軌道を…
+j	単胎妊娠	単胎妊娠	一人の子供を妊娠すること。
+j	単花蜂蜜	単花蜂蜜	1種類の蜜源植物から集めた蜂蜜。
+j	単葉関数	単葉関数	ℂ¹上開集合で定義された、単射な複素関数。
+j	単複同形	単複同形	noun with the same form i…
+j	単語家族	単語家族	同語族内で、祖語を同じくする単語の一群。語根（語幹…
+j	単身赴任	単身赴任	a job transfer that takes…
+j	単項演算	単項演算	1つの要素を与えて別の1つの要素を決める規則の総称…
+j	嘘っぱち	嘘っぱち	baldfaced lie, flat out l…
+j	嘘も方便	嘘も方便	sometimes white lies may …
+j	嘘を吐く	嘘を吐く	to tell a lie
+j	嘘発見器	嘘発見器	lie detector, polygraph
+j	存在する	存在する	
+j	存在理由	存在理由	
+j	存在論的	存在論的	
+j	官僚主義	官僚主義	bureaucracy; bureaucratism
+j	官官接待	官官接待	役人が上級官庁に便宜を図ってもらうために、上級官庁…
+j	官房長官	官房長官	Chief Cabinet Secretary
+j	官民連携	官民連携	
+j	官能的な	官能的な	
+j	弘法大師	弘法大師	the posthumous name of 空海…
+j	忘れな草	忘れな草	forget-me-not (plant of g…
+j	忘れ形見	忘れ形見	memento (from a dead pers…
+j	折り合い	折り合い	
+j	折り合う	折り合う	to make terms, to meet ha…
+j	折り畳む	折り畳む	to fold up; to fold into …
+j	折り込み	折り込み	
+j	折り返し	折り返し	
+j	折り返す	折り返す	fold back, turn up, roll …
+j	折ること	折ること	
+j	折悪しく	折悪しく	at an untimely moment, in…
+j	折烏帽子	折烏帽子	動きやすくするように上部を折り畳んだ烏帽子。多く武…
+j	折衝する	折衝する	
+j	折衷主義	折衷主義	eclecticism
+j	拘わらず	拘わらず	
+j	拘束する	拘束する	
+j	拘留する	拘留する	
+j	拘禁反応	拘禁反応	拘禁など自由が拘束された状態に長く置かれた時に起こ…
+j	掘り出す	掘り出す	
+j	摘み出す	摘み出す	to pick out
+j	摘み取る	摘み取る	pick, pluck (a flower etc…
+j	棘皮動物	棘皮動物	echinoderm
+j	様変わり	様変わり	a complete change
+j	様相論理	様相論理	
+j	毘沙門天	毘沙門天	the Japanese name for the…
+j	毘那夜迦	毘那夜迦	
+j	甘い考え	甘い考え	
+j	甘えん坊	甘えん坊	one who is pampered or in…
+j	甘やかす	甘やかす	to indulge (a child); to …
+j	甘んじる	甘んじる	content oneself with
+j	秘伝要員	秘伝要員	
+j	秘密主義	秘密主義	何でも秘密にしようとする考え方や主張。
+j	秘密兵器	秘密兵器	兵器のうち特に機密性の高いもの。秘密裏に開発、使用…
+j	秘密基地	秘密基地	secret base (of the milit…
+j	秘密投票	秘密投票	投票者の氏名を記さずに行う投票。
+j	秘密結社	秘密結社	secret society
+j	秘密警察	秘密警察	secret police
+j	秘密選挙	秘密選挙	投票を無記名で行う選挙。
+j	秘密集団	秘密集団	
+j	秘蔵っ子	秘蔵っ子	
+j	粘り強い	粘り強い	persistent, tenacious
+j	粘着する	粘着する	
+j	粘膜免疫	粘膜免疫	mucosal immunity
+j	蜘蛛の巣	蜘蛛の巣	a spiderweb (netlike cons…
+j	蜘蛛人手	蜘蛛人手	
+j	蜘蛛形類	蜘蛛形類	節足動物門鋏角亜門クモ綱の動物の総称。別名、蛛形類。
+j	蜘蛛海星	蜘蛛海星	brittle star
+j	蜘蛛狩鳥	蜘蛛狩鳥	
+j	蜘蛛類学	蜘蛛類学	蜘蛛類について研究する蜘蛛学の一分野。
+j	記入する	記入する	
+j	記名投票	記名投票	signed ballot
+j	記念切手	記念切手	commemorative postage sta…
+j	記念受験	記念受験	taking an entrance exam f…
+j	記憶する	記憶する	
+j	記憶喪失	記憶喪失	amnesia; loss of memory
+j	記憶障害	記憶障害	疾患やけがなどにより脳の機能に障害が起き、記憶でき…
+j	記者会見	記者会見	press conference
+j	記者発表	記者発表	press release
+j	記述する	記述する	
+j	記述主義	記述主義	辞書などの編纂で、規範主義によらず現実に言語がどの…
+j	記述的な	記述的な	
+j	記録する	記録する	
+j	記録映画	記録映画	documentary (documentary …
+j	誘い出す	誘い出す	
+j	誘い込む	誘い込む	lure
+j	誘き出す	誘き出す	to lure out
+j	誘導する	誘導する	
+j	誘導尋問	誘導尋問	
+j	誘導抵抗	誘導抵抗	有限翼幅の翼が揚力を発生した時に翼端から発生する抵…
+j	誘導電流	誘導電流	電磁誘導で生じる電流。
+j	誘惑する	誘惑する	
+j	誘惑的な	誘惑的な	
+j	誘拐する	誘拐する	
+j	誘発地震	誘発地震	直接の余震ではないが地震の影響により遠方で誘発され…
+j	識別する	識別する	
+j	識別信号	識別信号	
+j	識字憂患	識字憂患	misery brought by literacy
+j	釘を刺す	釘を刺す	to give a warning, to rem…
+j	闘争する	闘争する	
+j	領土侵犯	領土侵犯	violation of territorial …
+j	領土問題	領土問題	ある地域の領有権をいずれの国が持つかについての問題。
+j	領域拒否	領域拒否	
+j	領海侵犯	領海侵犯	intrusion into territoria…
+j	領空侵犯	領空侵犯	airspace incursion; airsp…
+j	願い下げ	願い下げ	a withdrawal
+j	願い出る	願い出る	apply for, ask for
+j	願わくは	願わくは	Expresses desire.
+j	願わくば	願わくば	
+j	願わしい	願わしい	desirable
+j	願人坊主	願人坊主	江戸時代、寺社への代参、大道芸、門付けなどを行った…
+j	高利貸し	高利貸し	usurer, loan shark
+j	高品質の	高品質の	
+j	高圧ガス	高圧ガス	圧力をかけ圧縮、液化したガス。
+j	高射特科	高射特科	陸上自衛隊の防空砲兵。
+j	高層ビル	高層ビル	高層建築によるビルディング。
+j	高層建築	高層建築	かなりの高さがある多層の建物。
+j	高山植物	高山植物	高山帯に生育する植物の総称。厳しい環境から小型のも…
+j	高山気候	高山気候	概ね標高2000メートル以上の地域に分布する気候。…
+j	高嶺の花	高嶺の花	that which seems to be ou…
+j	高度成長	高度成長	国の経済が短期間に急激に成長すること。
+j	高所大所	高所大所	細部にとらわれない高大な見地。
+j	高掌遠蹠	高掌遠蹠	豪快で雄々しい気概のある人。
+j	高材疾足	高材疾足	智勇を兼ね備えていること。また、その人。「高材」は…
+j	高架道路	高架道路	地上より高い位置に橋状に架けられた道路。
+j	高橋是清	高橋是清	明治時代から昭和時代初期にかけての政治家・財政家（…
+j	高次言語	高次言語	「メタ言語」を参照。
+j	高温ヨガ	高温ヨガ	
+j	高皇産霊	高皇産霊	one of the first three go…
+j	高確率の	高確率の	
+j	高祖父母	高祖父母	曾祖父母の親。祖父母の祖父母。親の曾祖父母。高祖父…
+j	高等学校	高等学校	high school, senior high …
+j	高等教育	高等教育	higher education
+j	高精細度	高精細度	high definition (enhanced…
+j	高級娼婦	高級娼婦	
+j	高級官僚	高級官僚	地位、身分の高い国家公務員。
+j	高級言語	高級言語	high-level language
+j	高脂血症	高脂血症	血液中の脂質（コレステロール、中性脂肪）が高い状態…
+j	高血糖症	高血糖症	
+j	高解像度	高解像度	high-resolution, high def…
+j	高速バス	高速バス	高速道路を通り都市間を高速で結ぶバスの路線。
+j	高速度鋼	高速度鋼	工具鋼の区分の一つで、タングステンやモリブデンなど…
+j	高速道路	高速道路	highway; expressway
+j	高速鉄道	高速鉄道	時速200キロメートル以上で運行される鉄道。
+j	高野豆腐	高野豆腐	寒中に熱湯をかけた豆腐を屋外で凍らせ、乾燥させたも…
+j	高階微分	高階微分	高次導関数を求める操作。多階微分。
+j	高麗人参	高麗人参	synonym of 朝鮮人参 (chōsen n…
+j	高麗胡椒	高麗胡椒	Capsicum, chili pepper
+j	高齢出産	高齢出産	「高年齢出産」を参照。
+j	魘される	魘される	to groan in one's sleep (…
+k	감미롭다	甘味롭다	sweet, sweet-flavoured
+k	감사하다	勘査하다	to be thankful
+k	감수하다	甘受하다	to put up with; to endure
+k	고관대작	高官大爵	
+k	고급 언어	高級言語	
+k	고등교육	高等敎育	higher education
+k	고등학교	高等学校	high school
+k	고등학교	高等學校	high school
+k	고등학생	高等学生	high schooler, high schoo…
+k	고등학생	高等學生	high schooler, high schoo…
+k	고리대금	高利貸金	
+k	고속 도로	高速道路	highway, expressway, free…
+k	고속도로	高速道路	
+k	고속철도	高速鉄道	
+k	고속철도	高速鐵道	
+k	고원지대	高原地帯	plateau, highlands
+k	고원지대	高原地帶	plateau, highlands
+k	고위 인사	高位人士	
+k	고지혈증	高脂血症	hyperlipidemia
+k	고혈당증	高血糖症	
+k	극피동물	棘皮動物	
+k	기록영화	記錄映畫	documentary (documentary …
+k	기록영화	記録映画	documentary (documentary …
+k	기자회견	記者会見	press conference
+k	기자회견	記者會見	press conference
+k	단란주점	團欒酒店	karaoke bar
+k	단봉낙타	単峰駱駝	dromedary
+k	단순하다	単純하다	to be simple
+k	단위결과	単為結果	
+k	단위결실	単為結実	
+k	단위생식	単為生殖	
+k	단일신교	単一神敎	
+k	비밀결사	秘密結社	secret society
+k	비밀번호	秘密番号	password
+k	비밀번호	秘密番號	password
+k	비밀투표	秘密投票	
+k	식자우환	識字憂患	misery brought by literac…
+k	양상소사	様相小辞	
+k	잔혹 행위	殘酷行爲	
+k	존재리유	存在理由	
+k	존재이유	存在理由	
+j	付きが良い	付きが良い	stay well, stay well on
+j	付きまとう	付きまとう	
+j	付けで買う	付けで買う	buy on credit
+j	付けを払う	付けを払う	pay a bill
+j	付け上がる	付け上がる	
+j	付け加える	付け加える	to add; to append
+j	付加価値税	付加価値税	value added tax
+j	付加疑問文	付加疑問文	
+j	勘解由小路	勘解由小路	a surname
+j	勘違いする	勘違いする	
+j	単子葉植物	単子葉植物	被子植物で、子葉が1枚の植物の分類。
+j	単独ライブ	単独ライブ	live performance exclusiv…
+j	単独決算の	単独決算の	
+j	単純労働の	単純労働の	
+j	単純閉曲線	単純閉曲線	自己交叉しない閉曲線。ジョルダン閉曲線。単一閉曲線。
+j	単細胞生物	単細胞生物	一個の細胞で個体ができている生物。
+j	単項演算子	単項演算子	unary operator (operator …
+j	存じ上げる	存じ上げる	to know, to think
+j	存在しない	存在しない	
+j	官僚主義者	官僚主義者	官僚主義の立場をとりそれを主張する者。
+j	官命抗拒の	官命抗拒の	
+j	官能小説家	官能小説家	
+j	忘れがたい	忘れがたい	
+j	忘れっぽい	忘れっぽい	
+j	折に触れて	折に触れて	whenever possible, at eve…
+j	折り入って	折り入って	
+j	折り紙付き	折り紙付き	being authentic, guarante…
+j	折れ曲がる	折れ曲がる	wind, loop back and forth
+j	拘束形態素	拘束形態素	形態素の一種で、一つでは語となることができない形態…
+j	掘り出し物	掘り出し物	find; bargain; good buy; …
+j	掘り起こす	掘り起こす	dig up, excavate
+j	毘盧遮那仏	毘盧遮那仏	
+j	甘ったるい	甘ったるい	excessively sweet
+j	甘ったれる	甘ったれる	to behave in a spoiled ma…
+j	甘やかされ	甘やかされ	
+j	甘噛みする	甘噛みする	
+j	甘草エキス	甘草エキス	licorice extract
+j	秘密にする	秘密にする	
+j	秘密主義者	秘密主義者	秘密主義を貫く者。
+j	粘着テープ	粘着テープ	tape; adhesive tape; stic…
+j	肘掛け椅子	肘掛け椅子	armchair
+j	蜘蛛恐怖症	蜘蛛恐怖症	arachnophobia
+j	記念イヤー	記念イヤー	anniversary year (for exa…
+j	記念カキコ	記念カキコ	電子掲示板で、話題性のある出来事を取り上げるスレッ…
+j	記載岩石学	記載岩石学	
+j	記述岩石学	記述岩石学	
+j	誘惑する女	誘惑する女	
+j	鞘に入れる	鞘に入れる	
+j	鞘に収める	鞘に収める	
+j	領事裁判権	領事裁判権	領事が在任している国に在住している自国の国民を裁判…
+j	願い上げる	願い上げる	synonym of 願う (negau, “to…
+j	高みの見物	高みの見物	looking from a distance, …
+j	高圧水銀灯	高圧水銀灯	真空管に封入した水銀蒸気の圧力が比較的高い水銀灯。
+j	高尿酸血症	高尿酸血症	血中の尿酸の濃度が高い状態が続くこと。
+j	高層天気図	高層天気図	上空の一定の気圧の高度に対して描いた天気図。
+j	高年初産婦	高年初産婦	満35歳以上で初めて妊娠、出産する女性。
+j	高年齢出産	高年齢出産	妊娠、出産の適齢期とされる年齢より高い年齢（35歳…
+j	高度合成数	高度合成数	それ未満のどの自然数より、約数が多い自然数。
+j	高度専門士	高度専門士	四年制の専門学校を卒業した者に与えられる称号。
+j	高所作業車	高所作業車	高所での作業に使用される建設機械。
+j	高所恐怖症	高所恐怖症	acrophobia
+j	高校一年生	高校一年生	
+j	高校三年生	高校三年生	
+j	高校二年生	高校二年生	
+j	高次導関数	高次導関数	二次以上の導関数。
+j	高次方程式	高次方程式	3次以上の方程式。
+j	高水準言語	高水準言語	
+j	高等女学校	高等女学校	かつての日本における、女子に高等普通教育をおこなう…
+j	高等小学校	高等小学校	higher elementary school
+j	高等弁務官	高等弁務官	high commissioner
+j	高等裁判所	高等裁判所	appellate court; high cou…
+j	高級脂肪酸	高級脂肪酸	higher fatty acid
+j	高遠の理想	高遠の理想	実現に程遠いものごと。
+j	高飛び込み	高飛び込み	platform diving, high div…
+j	高齢者介護	高齢者介護	
+k	고급 지방산	高級脂肪酸	higher fatty acid
+k	고리대금업	高利貸金業	
+k	고소공포증	高所恐怖症	acrophobia; fear of heigh…
+k	고속화도로	高速化道路	
+k	기록말살형	記錄抹殺刑	
+k	기록말살형	記録抹殺刑	
+k	양자	様姿/様子	adopted son
+j	勘定を支払う	勘定を支払う	
+j	単一形乾電池	単一形乾電池	乾電池の大きさの規格の一つで単二形乾電池より大きい…
+j	単三形乾電池	単三形乾電池	乾電池の大きさの規格の一つで単二形乾電池より小さく…
+j	単二形乾電池	単二形乾電池	乾電池の大きさの規格の一つで単一形乾電池より小さく…
+j	単位ベクトル	単位ベクトル	大きさが1であるベクトル。普通⃑eと書く。
+j	単四形乾電池	単四形乾電池	乾電池の大きさの規格の一つで単三形乾電池より小さい…
+j	単純ヘルペス	単純ヘルペス	synonym of 単純疱疹 (tanjun h…
+j	嘘から出た実	嘘から出た実	many a true word is spoke…
+j	嘘から出た真	嘘から出た真	嘘から出た実の別形。
+j	忘れられない	忘れられない	
+j	折り畳み椅子	折り畳み椅子	折り畳んで板状に出来る機構をそなえ、収納や運搬を容…
+j	折れ線グラフ	折れ線グラフ	
+j	掘っ立て小屋	掘っ立て小屋	hut, shack, hovel, shanty…
+j	掘り抜き井戸	掘り抜き井戸	
+j	甘い汁を吸う	甘い汁を吸う	to line one's pockets; to…
+j	甘っちょろい	甘っちょろい	overly optimistic; easygo…
+j	甘井先ず竭く	甘井先ず竭く	highly-skilled men are th…
+j	粘り気のある	粘り気のある	
+j	粘着性のある	粘着性のある	
+j	記念スタンプ	記念スタンプ	commemorative postmark
+j	高品位テレビ	高品位テレビ	
+j	高地ソルブ語	高地ソルブ語	ドイツのザクセン州などで話されている、インド・ヨー…
+j	高度経済成長	高度経済成長	経済の急速な成長。特に、日本で1955年から197…
+j	高所にある家	高所にある家	
+j	高校デビュー	高校デビュー	remaking oneself to be co…
+j	高機能自閉症	高機能自閉症	広汎性発達障害の一つ。自閉症の症状を示すが知的障害…
+j	高等専修学校	高等専修学校	中卒を対象にした後期中等教育を行う高等課程を置いて…
+j	高等専門学校	高等専門学校	中卒を対象とした専門の学芸を教授して職業に必要な能…
+j	高等師範学校	高等師範学校	戦前に師範学校を修了した者が進学した学校。高師。
+k	고리대금업자	高利貸金業者	
+k	고저 악센트	高低 악센트	pitch accent
+j	付き合ってる人	付き合ってる人	
+j	単純小選挙区制	単純小選挙区制	
+j	単記移譲式投票	単記移譲式投票	single transferable vote
+j	弘法筆を選ばず	弘法筆を選ばず	弘法大師のように書に優れている者なら筆の善し悪しは…
+j	折り畳みナイフ	折り畳みナイフ	
+j	折り畳み式寝台	折り畳み式寝台	
+j	甘い香りのする	甘い香りのする	
+j	記号付きリスト	記号付きリスト	
+j	高さアクセント	高さアクセント	
+j	高低アクセント	高低アクセント	accent that relies on the…
+j	高等裁判所長官	高等裁判所長官	高等裁判所の長である裁判官。
+j	高精細度テレビ	高精細度テレビ	
+j	高級アルコール	高級アルコール	炭素数が6以上のアルコール。
+j	高速自動車国道	高速自動車国道	国が設置、管理する道路のうち、高速自動車国道の路線…
+j	弘法にも筆の誤り	弘法にも筆の誤り	even Homer nods: even the…
+j	折り畳み式ベッド	折り畳み式ベッド	
+j	折り込みパイ生地	折り込みパイ生地	
+j	願ったり叶ったり	願ったり叶ったり	何もかもが思った通りに動いたり、働くこと。
+j	高速フーリエ変換	高速フーリエ変換	
+j	蜘蛛の巣で石を吊る	蜘蛛の巣で石を吊る	到底実現できないことや非常に危険なことの例え。
+j	高品位テレビジョン	高品位テレビジョン	synonym of 高精細度テレビジョン (kō…
+j	高圧ガス販売主任者	高圧ガス販売主任者	高圧ガスの販売を行う事業所での指定された高圧ガスの…
+j	高度情報処理技術者	高度情報処理技術者	ITストラテジスト、システムアーキテクト、プロジェ…
+j	単純ヘルペスウィルス	単純ヘルペスウィルス	herpes simplex virus
+j	嘘吐きは泥棒の始まり	嘘吐きは泥棒の始まり	平気で嘘をつけるような人は盗みも悪いと思わなくなる…
+j	高精細度テレビジョン	高精細度テレビジョン	high-definition televisio…
+j	嘘ついたら針千本飲ます	嘘ついたら針千本飲ます	
+j	高圧ガス製造保安責任者	高圧ガス製造保安責任者	高圧ガスの製造作業を行う事業所での保安監督を行う資…

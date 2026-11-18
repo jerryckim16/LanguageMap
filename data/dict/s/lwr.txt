@@ -1,0 +1,42 @@
+e	wrap	wrap	1 meaning
+e	wren	wren	1 meaning
+e	writ	writ	1 meaning
+e	wrack	wrack	3 meanings
+e	wrath	wrath	1 meaning
+e	wreck	wreck	6 meanings
+e	wring	wring	1 meaning
+e	wrist	wrist	1 meaning
+e	write	write	6 meanings
+e	wrong	wrong	4 meanings
+e	wroth	wroth	1 meaning
+e	wraith	wraith	1 meaning
+e	wrap up	wrapup	4 meanings
+e	wrap-up	wrapup	1 meaning
+e	wrasse	wrasse	1 meaning
+e	wreath	wreath	1 meaning
+e	wrench	wrench	3 meanings
+e	writer	writer	1 meaning
+e	wrocław	wrocaw	1 meaning
+e	wrapper	wrapper	1 meaning
+e	wreathe	wreathe	1 meaning
+e	wrecker	wrecker	2 meanings
+e	wrestle	wrestle	1 meaning
+e	wriggle	wriggle	1 meaning
+e	wrinkle	wrinkle	2 meanings
+e	writing	writing	3 meanings
+e	wrapping	wrapping	1 meaning
+e	wreckage	wreckage	1 meaning
+e	wrestler	wrestler	1 meaning
+e	wrinkled	wrinkled	1 meaning
+e	wrestling	wrestling	1 meaning
+e	wristband	wristband	3 meanings
+e	write down	writedown	2 meanings
+e	wristwatch	wristwatch	1 meaning
+e	writing desk	writingdesk	1 meaning
+e	wrong number	wrongnumber	1 meaning
+e	wrought iron	wroughtiron	1 meaning
+e	wrecking ball	wreckingball	1 meaning
+e	writer's block	writersblock	1 meaning
+e	writer's cramp	writerscramp	1 meaning
+e	wrangel island	wrangelisland	1 meaning
+e	wrapping paper	wrappingpaper	1 meaning

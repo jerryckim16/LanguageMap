@@ -1,0 +1,7 @@
+e	mänti	mnti	1 meaning
+e	münster	mnster	1 meaning
+e	mnemonic	mnemonic	1 meaning
+e	mnemonics	mnemonics	1 meaning
+e	mnemosyne	mnemosyne	1 meaning
+e	mönchengladbach	mnchengladbach	1 meaning
+e	münchausen syndrome	mnchausensyndrome	1 meaning

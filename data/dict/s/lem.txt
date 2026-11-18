@@ -1,0 +1,202 @@
+e	em	em	1 meaning
+k	엠	em	
+e	emo	emo	1 meaning
+e	emu	emu	1 meaning
+j	えみ	emi	えむこと。ほほえみ。
+j	えむ	emu	にっこりとする。微笑する。ほほえむ。
+j	エマ	ema	a transliteration of the …
+j	エミー	emi	a transliteration of the …
+j	エム	emu	The name of the Latin scr…
+j	エモ	emo	
+j	恵美	emi	a female given name
+j	笑み	emi	smile
+j	笑む	emu	to smile
+j	絵己	emi	a female given name
+j	絵馬	ema	an ema, a small wooden pl…
+k	에미	emi	mother (parent)
+e	emir	emir	1 meaning
+e	emit	emit	1 meaning
+e	emma	emma	1 meaning
+j	えみゅ	emyu	エミュレータ。
+j	エミュ	emyu	
+j	エミュー	emyu	emu (large flightless bir…
+j	エモい	emoi	Prompting vague sentiment…
+j	衛門	emon	「衛門府」の略。
+j	衣文	emon	装束の着方。
+j	衣紋	emon	装束の着方。
+j	鴯鶓	emyu	エミュー。
+k	에뮤	emyu	emu
+k	엠마	emma	
+k	엠시	emsi	방송 분야, 주로 연예 분야에서 일하는 프로그…
+e	email	email	3 meanings
+e	embed	embed	1 meaning
+e	ember	ember	1 meaning
+e	emery	emery	1 meaning
+e	emily	emily	1 meaning
+e	emoji	emoji	1 meaning
+e	empty	empty	3 meanings
+j	えみこ	emiko	a female given name
+j	えみり	emiri	瑛実理, 瑛美里, 瑛未理, 瑛未里, 映美里, …
+j	えもの	emono	the thing hunted: prey, g…
+j	エマープ	emapu	十進数表記で、素数でありかつ数字を反対から読むと元…
+j	エミリー	emiri	
+j	会実子	emiko	a female given name
+j	円実子	emiko	a female given name
+j	延実子	emiko	a female given name
+j	恵実利	emiri	a female given name
+j	恵実子	emiko	a female given name
+j	恵実理	emiri	a female given name
+j	恵美可	emika	a female given name
+j	恵美子	emiko	a female given name
+j	惠実子	emiko	a female given name
+j	愛実子	emiko	a female given name
+j	慧実子	emiko	a female given name
+j	枝実子	emiko	a female given name
+j	栄実子	emiko	a female given name
+j	江実子	emiko	a female given name
+j	江本	emoto	a surname
+j	獲物	emono	
+j	瑛実子	emiko	a female given name
+j	瑛実理	emiri	a female given name
+j	穫実子	emiko	a female given name
+j	絵実名	emina	a female given name
+j	絵実子	emiko	a female given name
+j	絵実理	emiri	a female given name
+j	絵巻	emaki	「絵巻物」の略。
+j	絵文字	emoji	pictograph
+j	英実子	emiko	a female given name
+j	詠実子	emiko	a female given name
+j	誉実利	emiri	a female given name
+k	에모지	emoji	emoji
+k	에미네	emine	문화어로 여편네를 의미한다.
+e	e major	emajor	1 meaning
+e	e minor	eminor	1 meaning
+e	emajõgi	emajgi	1 meaning
+e	embark	embark	1 meaning
+e	embers	embers	1 meaning
+e	emblem	emblem	1 meaning
+e	emboss	emboss	1 meaning
+e	embryo	embryo	2 meanings
+e	emerge	emerge	2 meanings
+e	empire	empire	4 meanings
+e	employ	employ	2 meanings
+j	えみし	emishi	古代に主に東北地方以北に住み朝廷に反逆した部族。
+j	エミリア	emiria	
+j	エミー賞	emisho	an Emmy Award
+j	衛門府	emonfu	a 律令 (ritsuryō) departmen…
+k	에미나이	eminai	girl
+k	에밀리	emilli	
+k	엠바고	embago	
+k	엠샬	emsyal	
+k	엠피포	empipo	
+e	embargo	embargo	2 meanings
+e	embassy	embassy	1 meaning
+e	embrace	embrace	2 meanings
+e	embroil	embroil	1 meaning
+e	emerald	emerald	3 meanings
+e	emetine	emetine	1 meaning
+e	eminent	eminent	2 meanings
+e	emirate	emirate	1 meaning
+e	emotion	emotion	1 meaning
+e	empathy	empathy	2 meanings
+e	emperor	emperor	1 meaning
+e	empress	empress	2 meanings
+e	empyema	empyema	1 meaning
+e	emsland	emsland	1 meaning
+j	エムピーフォー	emupifo	
+j	エメチン	emechin	
+j	エモーション	emoshon	情緒、感動、感情、感激。
+j	遠方に	empouni	
+k	에멘탈	emental	
+e	embezzle	embezzle	1 meaning
+e	embolism	embolism	1 meaning
+e	emeishan	emeishan	1 meaning
+e	emerging	emerging	1 meaning
+e	emeritus	emeritus	1 meaning
+e	emigrant	emigrant	1 meaning
+e	emigrate	emigrate	1 meaning
+e	eminence	eminence	3 meanings
+e	emissary	emissary	1 meaning
+e	emoticon	emoticon	1 meaning
+e	emphasis	emphasis	4 meanings
+e	emphatic	emphatic	1 meaning
+e	employee	employee	1 meaning
+e	employer	employer	1 meaning
+e	empty set	emptyset	1 meaning
+e	empyrean	empyrean	1 meaning
+e	emulator	emulator	1 meaning
+j	エミッション	emisshon	放出、排出。
+j	エミュレータ	emyureta	emulator
+j	エミュレーター	emyureta	エミュレータの別形。
+j	エメンタール	ementaru	
+j	エモティコン	emotikon	
+j	衣紋掛け	emonkake	coat hanger, hanger
+k	에미리트	emiriteu	emirate
+k	엠브이피	embeuipi	
+e	embarrass	embarrass	1 meaning
+e	embellish	embellish	2 meanings
+e	embroider	embroider	1 meaning
+e	emergence	emergence	1 meaning
+e	emergency	emergency	1 meaning
+e	emotional	emotional	2 meanings
+e	empathize	empathize	1 meaning
+e	emphasize	emphasize	1 meaning
+e	emphysema	emphysema	1 meaning
+e	empirical	empirical	2 meanings
+e	emptiness	emptiness	1 meaning
+j	エマージェンシー	emajenshi	緊急事態。非常事態。
+j	エムピースリー	emupisuri	
+j	エムポックス	empokkusu	
+j	エメラルド	emerarudo	emerald (gemstone)
+k	에메랄드	emeraldeu	크롬을 함유하여 비취색을 띤, 투명하고 아름다…
+e	emaciation	emaciation	2 meanings
+e	emancipate	emancipate	1 meaning
+e	emasculate	emasculate	2 meanings
+e	embankment	embankment	1 meaning
+e	embodiment	embodiment	1 meaning
+e	embonpoint	embonpoint	1 meaning
+e	embroidery	embroidery	1 meaning
+e	embryology	embryology	1 meaning
+e	emigration	emigration	1 meaning
+e	emmentaler	emmentaler	1 meaning
+e	empedocles	empedocles	1 meaning
+e	empiricism	empiricism	1 meaning
+e	employment	employment	6 meanings
+j	エムスラント	emusuranto	
+j	エモーショナル	emoshonaru	emotional
+k	에마그램	emageuraem	가로축에 기온, 세로축에 기압을 취하고, 건조…
+k	에멜무지로	emelmujiro	loosely
+k	엠블럼	embeulleom	
+k	엠피쓰리	empisseuri	
+e	embarkation	embarkation	1 meaning
+e	embarrassed	embarrassed	1 meaning
+e	emetophobia	emetophobia	1 meaning
+e	empirically	empirically	2 meanings
+e	emptyhanded	emptyhanded	1 meaning
+j	エミグレーション	emigureshon	
+k	에마조기 강	emajogigang	
+e	email address	emailaddress	1 meaning
+e	emanationism	emanationism	1 meaning
+e	emancipation	emancipation	1 meaning
+e	embarrassing	embarrassing	1 meaning
+e	embezzlement	embezzlement	1 meaning
+e	emerald green	emeraldgreen	1 meaning
+j	エメラルド色	emerarudoiro	
+e	embryogenesis	embryogenesis	1 meaning
+e	emergency exit	emergencyexit	1 meaning
+e	emergency room	emergencyroom	1 meaning
+e	empire of japan	empireofjapan	1 meaning
+j	エメンタールチーズ	ementaruchizu	
+k	에멘탈 치즈	ementalchijeu	
+e	empress dowager	empressdowager	1 meaning
+j	エメラルドグリーン	emerarudogurin	エメラルドのように鮮やかな緑色。
+e	emancipation day	emancipationday	1 meaning
+k	에메랄드그린	emeraldeugeurin	
+k	엠페도클레스	empedokeulleseu	
+e	empirical formula	empiricalformula	1 meaning
+e	employment agency	employmentagency	1 meaning
+e	emperor's new clothes	emperorsnewclothes	1 meaning
+e	employment contract	employmentcontract	1 meaning
+e	emotional intelligence	emotionalintelligence	1 meaning
+e	embarrassingly parallel	embarrassinglyparallel	1 meaning
+e	empty vessels make the most sound	emptyvesselsmakethemostsound	1 meaning

@@ -1,0 +1,4053 @@
+e	so	so	8 meanings
+j	そ	so	粗
+j	そう	so	so, like that, in such a …
+j	ソ	so	西洋音楽の階名 長音階の第三度の、短音階の第七度音。
+j	俎	so	sacrificial altar
+j	僧	so	priest, bonze
+j	創	so	a female given name
+j	壮	so	vibrant, manly, brave
+j	宋	so	name of the state during …
+j	宗	so	a surname
+j	層	so	layer
+j	曽	so	great- (e.g. great-grandm…
+j	祖	so	ancestor
+j	粗	so	roughness, crudeness
+j	総	so	overall, gross, general
+j	聡	so	bright, intelligent, smart
+j	艘	so	small boats
+j	葬	so	burial
+j	蘇	so	a surname
+j	走	so	race; run
+k	소	so	cow; bull; ox; cattle
+e	sob	sob	2 meanings
+e	soi	soi	1 meaning
+e	sol	sol	2 meanings
+e	son	son	2 meanings
+e	sot	sot	1 meaning
+e	sow	sow	3 meanings
+e	soy	soy	1 meaning
+j	そい	soi	that
+j	そえ	soe	「そえる」の未然形及び連用形。
+j	ソイ	soi	大豆。
+j	ソン	son	
+j	創意	soi	creativity
+j	創痍	soi	a wound, scar
+j	層位	soi	地層が重なっている順序。層序。
+j	損	son	loss (opposite of gain)
+j	沿い	soi	along
+j	沿う	sou	to run along (a river, ra…
+j	沿う・添う	sou	
+j	添う	sou	to accompany
+j	疎意	soi	何かを疎んじる気持ち。隔意。
+j	相応	soo	appropriate, suitable, fit
+j	相異	soi	互いに異なること。
+j	相違	soi	incompatibility, discrepa…
+j	素意	soi	かねてから抱いていた思い。素志。
+j	素衣	soi	白い衣服。
+j	総意	soi	consensus
+k	소아	soa	child (as a minor)
+k	소이	soi	불에 태워 없애 버림.
+k	속	sok	the interior or inside, e…
+k	손	son	hand (organ of humans and…
+k	솔	sol	brush (tool)
+k	솜	som	cotton
+k	솜 면	som	
+k	솥	sot	pot, kettle, cauldron
+k	쇠	soe	iron
+e	so-so	soso	2 meanings
+e	soak	soak	2 meanings
+e	soap	soap	2 meanings
+e	soar	soar	2 meanings
+e	soba	soba	1 meaning
+e	soca	soca	1 meaning
+e	sock	sock	1 meaning
+e	soda	soda	3 meanings
+e	sofa	sofa	1 meaning
+e	soft	soft	3 meanings
+e	soil	soil	2 meanings
+e	soju	soju	1 meaning
+e	sole	sole	4 meanings
+e	solo	solo	1 meaning
+e	some	some	5 meanings
+e	song	song	4 meanings
+e	sony	sony	1 meaning
+e	soon	soon	1 meaning
+e	soot	soot	1 meaning
+e	sore	sore	2 meanings
+e	sort	sort	6 meanings
+e	soul	soul	3 meanings
+e	soup	soup	1 meaning
+e	souq	souq	1 meaning
+e	sour	sour	3 meanings
+e	sōma	soma	1 meaning
+j	そういう	soiu	that kind
+j	そうか	soka	oh yeah, is that so
+j	そうぐう	sogu	遭遇: an undesirable encoun…
+j	そうこう	soko	this way and that way
+j	そうごう	sogo	総合, 綜合: integration, synt…
+j	そうじ	soji	総司: a male given name
+j	そうず	sozu	添水: a kind of water fount…
+j	そうそう	soso	so much; so often; so lon…
+j	そうぞう	sozo	送像: transmission
+j	そうだ	soda	（近い将来の実現可能性）今にも～する様子である。
+j	そうで	sode	助動詞「そうだ」の連用形。
+j	そうとう	soto	相当: proportionate
+j	そうな	sona	助動詞「そうだ」の連体形。
+j	そうねぇ	sone	let me see; hmm
+j	そうほう	soho	双方: two-way, both parties…
+j	そうろう	soro	おります。ございます。
+j	そおず	sozu	a scarecrow
+j	そおに	soni	赤土。そほに。そぼに。
+j	そき	soki	退き: distant place, far aw…
+j	そぎ	sogi	削ぎ, 削, 枌: a wooden shake …
+j	そぐ	sogu	けずるように切り取る。
+j	そこ	soko	That place, area, or part…
+j	そごう	sogo	そぐう。
+j	そじ	soji	10歳
+j	そすう	sosu	素数: prime number (natural…
+j	そそ	soso	female genitalia; vagina
+j	そぞう	sozo	塑像: earthen (clay) figure
+j	そで	sode	服の腕を覆う部分。和服ではたもとも含める。
+j	そと	soto	何らかのかたちで形成された空間または仮想的に空間と…
+j	そに	soni	翠鳥の略。
+j	そね	sone	イヌシデの別名。
+j	その	sono	that ... near you (near t…
+j	そのう	sono	植物を植えてある庭園。
+j	そば	soba	タデ科の一年草。白い花をつけ、黒い果実を作り、果実…
+j	そま	soma	杣: timberland; lumber, ti…
+j	そむ	somu	染まる。
+j	そや	soya	実際の戦いで使用する矢。
+j	そゆ	soyu	
+j	そら	sora	a unisex given name
+j	そり	sori	雪や氷の上を滑らせて人や物を運ぶ乗り物。
+j	そる	soru	毛を刃物で根元から切る。
+j	それ	sore	that (near the addressee)
+j	そろう	soro	二つ以上の物や人の状態が同じになる。
+j	そわ	sowa	切り立った険しい場所。がけ。絶壁。
+j	そんおう	sono	尊王: reverence for the emp…
+j	ソウズ	sozu	麻雀の数牌で一から九の竹を模した柄の牌で、それぞれ…
+j	ソカ	soka	soca
+j	ソジュ	soju	soju
+j	ソテー	sote	sauté
+j	ソナー	sona	sonar
+j	ソニー	soni	Sony
+j	ソバ	soba	そばの学術的表記。
+j	ソファ	sofa	a sofa
+j	ソファー	sofa	背凭れ付きの長椅子。
+j	ソリ	sori	小さな編成での合奏。
+j	ソル	soru	Sol (our sun)
+j	ソロ	soro	solo
+j	ソーサー	sosa	a saucer (small dish)
+j	ソース	sosu	sauce (liquid condiment)
+j	ソーダ	soda	soda
+j	ソート	soto	sorting, classification
+j	ソード	sodo	sword
+j	ソープ	sopu	石鹼。
+j	ソーラー	sora	太陽の。太陽エネルギーの。
+j	ソール	soru	sole; the bottom portion …
+j	争覇	soha	覇権、優勝を争うこと。
+j	争議	sogi	dispute
+j	争闘	soto	争い戦うこと。
+j	促	soku	
+j	俎上	sojo	on the chopping board
+j	俎豆	soto	中国古代の祭器で、生贄の肉を載せる俎と、食物を盛る…
+j	倉庫	soko	warehouse
+j	倉皇	soko	in a panic
+j	僧供	sogu	僧に対する供養。また、その供物。
+j	僧具	sogu	僧が用いる器具。
+j	僧坊	sobo	寺院に付属し、僧侶が起居する家屋。
+j	僧家	soke	residence of a Buddhist m…
+j	僧帽	sobo	a type of hat worn by mon…
+j	僧庵	soan	Buddhist priest's hermita…
+j	僧徒	soto	Buddhist believers; monks…
+j	僧房	sobo	「僧坊」の別表記。
+j	僧正	sojo	Buddhist high priest
+j	僧綱	sogo	仏教の僧尼を統率し、寺院を統括する官職。
+j	僧趺	sofu	趺坐の法。
+j	僧都	sozu	the second highest rank o…
+j	僧院	soin	monastery; temple
+j	僧雛	sosu	幼少または少年の僧。
+j	其の	sono	
+j	初め	some	imperfective and stem (or…
+j	剃る	soru	shave facial hair or body…
+j	則	soku	counter for rules
+j	削ぐ	sogu	to slice off, to chip off
+j	創造	sozo	creation: the making of t…
+j	創部	sobu	部活動を創設すること。
+j	匆々	soso	brevity; rudeness; hurry
+j	匝瑳	sosa	Sōsa (a city in Chiba Pre…
+j	即	soku	immediately
+j	双刀	soto	一つの鞘に二つまたは複数の刀身が入っている刀。
+j	双務	somu	当事者の双方が、義務を負うこと。
+j	双喜	soki	double happiness (囍)
+j	双戈	soka	琉球古武術で使用している先端が二股に分かれた金属製…
+j	双数	sosu	the dual number
+j	双斧	sofu	両手に斧を持って行う武術。
+j	双方	soho	both sides, both parties
+j	双槍	soso	両手に槍を持って行う武術。
+j	双樹	soju	一対の樹木。
+j	双燕	soen	一対の燕。
+j	双眸	sobo	pair of eyes
+j	双鈎	soko	両手に鈎を持って行う武術。
+j	双鉤	soko	親指、人差し指、中指の三本を用いて筆を持つこと。
+j	双頭	soto	double headed
+j	叢叢	soso	flourishing
+j	叢樹	soju	群がるように生えた樹木。
+j	叢淵	soen	物事の寄り集まる所。活動の中心地。
+j	叢考	soko	miscellaneous studies
+j	叢豔	soen	美しく咲き乱れていること。また、そのさま。
+j	喪場	sojo	葬儀を行う会場。葬儀場。
+j	喪屨	soku	喪の際のくつ。
+j	喪葬	soso	服喪し、死者を葬ること。
+j	嗉嚢	sono	「嗉囊」の別表記。
+j	嗉囊	sono	crop, craw
+j	嘈嘈	soso	noisy
+j	嘈囂	sogo	囂しいさま。
+j	噌吰	soko	市井の喧しい声。
+j	塑像	sozo	clayen or earthen figure
+j	塑造	sozo	塑像を作ること。
+j	壮図	soto	壮大な企図。雄図。
+j	壮夫	sofu	壮年の男性。
+j	壮武	sobu	勇壮で武術に優れていること。また、そのようなさま。
+j	壮美	sobi	壮大な美。
+j	壮行	soko	seeing someone off
+j	壮途	soto	壮大で勇ましい門出。
+j	壮馬	soma	a male given name
+j	外	soto	outside
+j	奏功	soko	success, fruition
+j	奏授	soju	大臣の奏薦のうえ、天皇の許可により位記が授与される…
+j	奏杖	sojo	身分の高い人に文書を渡す際に、その文書を先に挟んで…
+j	奏状	sojo	臣下が天子に奏上する書状。
+j	孀婦	sofu	配偶者と死別し、再婚していない女性。未亡人。寡婦。
+j	宋儒	soju	中国宋の時代の儒者の総称。
+j	宋音	soon	Japanese approximation of…
+j	宗司	soji	a male given name
+j	宗家	soke	本家。流派の家元。
+j	宗谷	soya	cape Souya on Hokkaidou i…
+j	尊翁	sono	老人の尊敬語。
+j	層塔	soto	複数を層がある塔（特に仏塔）。
+j	層層	soso	layer upon layer; level b…
+j	層序	sojo	地層が重なっている順序。層位。
+j	層楼	soro	階が何層もある高い建物。
+j	層状	sojo	幾重にも重なり層になっている形状や状態。
+j	層畳	sojo	何層にも重なっていること。また、そのようなさま。
+j	層相	soso	facies
+j	層雲	soun	stratus
+j	屮稿	soko	草稿。
+j	崢嶸	soko	（山などが）高く険しいさま。また、（谷などが）深く…
+j	嶒嶸	soko	（山などが）高く険しいさま。また、（谷などが）深く…
+j	巣湖	soko	
+j	帀洽	soko	遍くすること。
+j	帀筵	soen	座中の人。満座。
+j	底	soko	the bottom
+j	怱忙	sobo	慌ただしく、忙しいこと。倉卒。
+j	惣司	soji	a male given name
+j	惣嫁	soka	prostitute, streetwalker
+j	惣社	soja	a place where multiple tu…
+j	想像	sozo	imagination
+j	想起	soki	a recollection
+j	愴怳	soko	失意して悲しむこと。
+j	愴焉	soen	悼むこと。
+j	挿句	soku	挿入句。
+j	挿画	soga	本文中に挿入された絵。挿し絵。
+j	挿花	soka	いけばな。
+j	挿話	sowa	episode
+j	捜査	sosa	a criminal investigation
+j	掃攘	sojo	払い、退けること。排斥すること。
+j	掃蕩	soto	敵などをすっかり追い払うこと。一掃。
+j	掃除	soji	cleaning; sweeping up
+j	措辞	soji	wording
+j	掻摩	soma	掻くこと。
+j	掻痒	soyo	scratching an itch
+j	掻頭	soto	scratching the head
+j	搔爬	soha	手で痒いところを搔くこと。
+j	操作	sosa	maneuver, operate
+j	操演	soen	manipulation of miniature…
+j	操縦	soju	flying, piloting; operati…
+j	操舵	soda	steering
+j	操行	soko	日頃の行い。品行。
+j	操觚	soko	文章をつくること。
+j	早早	soso	そのようになってすぐの時期。「（体言）+早早（に）…
+j	早期	soki	early stage
+j	早歌	soga	鎌倉時代から室町時代にかけて貴族や武士の間で宴会な…
+j	早漏	soro	premature ejaculation
+j	早老	soro	年齢が若い割に体などが老いること。
+j	早起	soki	synonym of 早起き (hayaoki, …
+j	曹達	soda	ナトリウムの和名。ソーダ。
+j	曹魏	sogi	Cao Wei (220–265)
+j	曽我	soga	a surname
+j	曽根	sone	a surname
+j	村媼	sono	いなかの老婆。村の老婆。
+j	村翁	sono	いなかの老人。村の老人。
+j	杣	soma	a timberland
+j	枌	sogi	a wooden shake or large s…
+j	染め	some	
+j	桑園	soen	桑の植えられた畑。
+j	桑弧	soko	桑の木で作られた弓。
+j	桑戸	soko	桑の木で作られた戸。
+j	桑枢	sosu	貧しい家。桑戸。
+j	桑港	soko	San Francisco (a city in …
+j	桑麻	soma	桑と麻。
+j	楚楚	soso	清らかで美しいさま。
+j	槍斧	sofu	西洋で槍と斧を一体化させたものに長い柄をつけた武器。
+j	槍法	soho	槍を使用する法。槍術。
+j	槍道	sodo	日本の武道の一つ。槍術を基に槍を模した木槍を持って…
+j	橇	sori	sleigh
+j	殂殞	soin	死去すること。
+j	淙淙	soso	sound of flowing water
+j	添水	sozu	a traditional device foun…
+j	湊合	sogo	一つに集まること。
+j	溯上	sojo	川などの流れを遡ること。
+j	溯江	soko	川を遡上して行くこと。
+j	溯航	soko	船舶で水流を遡上して行くこと。
+j	溯行	soko	水流を遡上して行くこと。
+j	滄桑	soso	
+j	滄浪	soro	青々とした波。
+j	滄淵	soen	青い海原。
+j	漱口	soko	口を漱ぐこと。
+j	澡麻	soma	白い麻。
+j	爪炎	soen	爪の周りの皮膚が炎症を起こし赤く腫れた状態。一般に…
+j	爪牙	soga	爪と牙。
+j	爪甲	soko	爪。
+j	爪部	sobu	部首「⽖」で分類した漢字の一群。
+j	狙公	soko	猿を飼育する者。猿回し。
+j	狙猴	soko	猿の別称。
+j	甑垢	soko	甑の垢。
+j	甑釜	sofu	甑と釜。
+j	疎放	soho	粗放。
+j	疎漏	soro	情報の把握などが疎か・大ざっぱであり、漏れや手抜か…
+j	疎音	soin	長らく便りをしないこと。無沙汰。
+j	疏状	sojo	事情を弁解する内容を記した文書。弁明書。
+j	疏韻	soin	淡雅。
+j	痩果	soka	achene
+j	痩硬	soko	細くて強いさま。
+j	痩躯	soku	痩せている体。痩身。
+j	皁布	sofu	黒い布。
+j	相乗	sojo	二つ以上の数を掛け合わせること。
+j	相互	sogo	mutual, reciprocal
+j	相似	soji	resemblance, similarity
+j	相同	sodo	外見や機能は異なるが、発生起源は同一の器官。
+j	相図	sozu	phase diagram
+j	相場	soba	market price
+j	相好	sogo	顔つき。
+j	相当	soto	corresponding
+j	相愛	soai	synonym of 相思相愛 (sōshi sō…
+j	相扶	sofu	お互いに助け合うこと。
+j	相等	soto	互いに等しいこと。
+j	相馬	soma	Sōma (a city in Fukushima…
+j	祖堂	sodo	祖先をまつっている堂。
+j	祖忌	soki	death anniversary of a se…
+j	祖母	sobo	grandmother
+j	祖法	soho	祖先伝来の法。
+j	祖父	sofu	a grandfather
+j	祖考	soko	亡くなった祖父。
+j	祖衲	sono	僧衣。
+j	祖語	sogo	the words of the founder …
+j	祖道	sodo	旅立ちの際、道祖神を祭り道中の無事を祈願すること。…
+j	祖邦	soho	祖国。
+j	租奉	soho	租料。小作米。
+j	租稲	soto	律令制で、租として納める稲。
+j	租貢	soko	貢ぎ物。貢租。年貢。
+j	空	sora	the sky
+j	窓牖	soyu	window
+j	窓紗	sosa	curtain
+j	窓縁	soen	窓の縁。
+j	竈煙	soen	かまどの煙。
+j	簇簇	soso	grouped together, bunched…
+j	粗宴	soen	my humble banquet
+j	粗布	sofu	coarse-woven cloth
+j	粗暴	sobo	荒くて乱暴なこと。
+j	粗朶	soda	薪や海苔栽培などのために用いる、切り取ったか細い枝。
+j	粗糖	soto	甘蔗から製糖したままの褐色の砂糖。
+j	粗糙	sozo	coarse, rough
+j	粗紡	sobo	紡績で綿を紡いで撚りをかけ、太い糸のようにする工程。
+j	粗肴	soko	粗末な肴。
+j	粗豪	sogo	猛々しいこと。荒々しいこと。また、そのようなさま。
+j	粗野	soya	vulgar; rough; crass; rude
+j	粗鉱	soko	鉱山から採掘されたばかりで選鉱されていない鉱石。原…
+j	粗銅	sodo	銅の精錬で、原鉱を炉で溶融してできる鈹を転炉して酸…
+j	粗鋼	soko	加工される前の製鋼されたばかりの鋼。
+j	粗陋	soro	粗野で卑しいこと。
+j	粗陶	soto	古代中国で砂の混じった粘土でつくられた土器。摶泥。
+j	粗魯	soro	荒々しく愚かなこと。
+j	糟淹	soen	粕漬けと塩漬け。
+j	糟糠	soko	sake lees and rice bran
+j	素因	soin	元々の原因。
+j	素封	soho	位や領地がなくても諸侯と対等な富があること。大きな…
+j	素抱	soho	かねての抱負。
+j	素数	sosu	a prime number
+j	素數	sosu	素数の旧字体表記。
+j	素望	sobo	普段から持っている望み。宿願。
+j	素毫	sogo	筆。
+j	素蓬	soho	（髪が）白くが乱れているさま。
+j	素養	soyo	base knowledge; grounding
+j	索子	sozu	bamboo tile
+j	組綬	soju	玉佩、勲章、記章、官印などを身につけるための組紐。
+j	綜合	sogo	総合の別表記。
+j	綜絖	soko	heddle
+j	総出	sode	with everyone present
+j	総務	somu	general affairs
+j	総合	sogo	synthesis, consolidation,…
+j	総和	sowa	sum, total
+j	総員	soin	the entire strength; all …
+j	総太	sota	a male given name
+j	総奏	soso	tutti
+j	総数	sosu	a total, the total number
+j	総武	sobu	下総国、上総国と武蔵国の略称。
+j	総状	sojo	総（房）のような形状や状態。
+j	総理	sori	Prime Minister, often in …
+j	総統	soto	general control over some…
+j	総苞	soho	involucre
+j	総記	soki	general description
+j	総譜	sofu	オーケストラやコーラスなどのそれぞれのパートの楽譜…
+j	総身	somi	one's whole body
+j	總合	sogo	総合の漢字制限前の表記。
+j	繅演	soen	推し広めること。推衍。
+j	繒布	sofu	絹布。
+j	罾苟	soko	四つ手網と筌。
+j	艙口	soko	
+j	艸部	sobu	部首「⾋」で分類した漢字の一群。
+j	草々	soso	brevity; rudeness; hurry
+j	草創	soso	beginning; inauguration
+j	草加	soka	Sōka, Saitama Prefecture
+j	草叢	soso	a thick growth of grass; …
+j	草堂	sodo	屋根を草で葺いた家。転じて自分の家を謙遜した語。
+j	草太	sota	a male given name
+j	草案	soan	draft
+j	草画	soga	略筆で描かれた水墨画。
+j	草稿	soko	notes, draft
+j	草草	soso	結語の一つ。「前略」などに対応する語で、前文を省略…
+j	草莽	somo	a place overgrown with gr…
+j	草露	soro	草に降りた露。
+j	葬儀	sogi	funeral
+j	葬具	sogu	葬式に使われる道具。
+j	葬器	soki	葬式に用いる器物。
+j	葬場	sojo	葬儀を行う会場。葬儀場。
+j	葬法	soho	遺体を葬る方法。
+j	葬送	soso	funeral; burial rites
+j	葱衡	soko	青い佩玉。
+j	葱黄	soko	浅い萌黄。
+j	蒼古	soko	古色を帯び、深い趣があること。また、そのようなさま。
+j	蒼惶	soko	「倉皇」に同じ。
+j	蒼枯	soko	古色を帯び、深い趣があること。また、そのようなさま。
+j	蒼梧	sogo	synonym of 青桐 (Chinese pa…
+j	蒼樹	soju	青々と繁った樹木。
+j	蒼浪	soro	青々とした波。
+j	蒼淵	soen	深い淵。
+j	蒼炎	soen	青い炎。
+j	蒼烟	soen	青みがかった煙。
+j	蒼焔	soen	青い炎。
+j	蒼焰	soen	青い炎。
+j	蒼猿	soen	老いた猿。
+j	蒼空	soku	the blue sky; the azure s…
+j	蒼蒼	soso	blue
+j	蒼鉛	soen	bismuth
+j	蒼鷹	soyo	a hawk with blue tinged f…
+j	蒼黄	soko	緑味がかった黄色。
+j	蔬圃	soho	a vegetable plot
+j	蕎麦	soba	buckwheat
+j	蘇我	soga	a surname
+j	蘇葉	soyo	dried leaves of Perilla f…
+j	蘇部	sobu	a surname
+j	蘇香	soko	雅楽の一つ。蘇合香の別称。
+j	袖	sode	a sleeve, an arm (of an a…
+j	装備	sobi	equipment
+j	装具	sogu	身に付けるための道具。装身具。
+j	装演	soen	演劇。
+j	装潢	soko	書画の表具。
+j	装甲	soko	being armored
+j	装画	soga	書籍の装丁に使用される絵。
+j	装荷	soka	load, loading
+j	訴因	soin	検察官が起訴状に具体的な犯罪事実を記載し裁判所に審…
+j	訴状	sojo	legal petition
+j	詛呪	soju	呪うこと。
+j	走向	soko	傾斜した地層面と水平面とが交わる直線の方向。
+j	走夫	sofu	雑用をする人。走卒。
+j	走査	sosa	scan
+j	走狗	soku	hound
+j	走獣	soju	走り回る獣。獣類。
+j	走獸	soju	走獣の旧字体表記。
+j	走破	soha	success in running / navi…
+j	走行	soko	moving, especially on a w…
+j	走趨	sosu	足早。
+j	走路	soro	racecourse; track
+j	走部	sobu	部首「⾛」で分類した漢字の一群。
+j	蹌踉	soro	足元がよろめくさま。
+j	蹌蹌	soso	wandering
+j	退き	soki	distant place, far away p…
+j	送付	sofu	sending, remittance
+j	送像	sozo	テレビ放送の電波を送信し、送信機にその映像をおくる…
+j	送喪	soso	会葬。
+j	送宴	soen	送別のために催される宴。
+j	送稿	soko	原稿を（編集係や印刷所に）送ること。
+j	送葬	soso	funeral; burial rites
+j	送行	soan	（そうあん）
+j	送話	sowa	電話などで話を相手に送ること。
+j	送路	soro	送別。
+j	送辞	soji	送別の言葉や挨拶。
+j	送風	sofu	風や空気を吹いて送ること。
+j	遡上	sojo	going upstream
+j	遡江	soko	川を遡上して行くこと。
+j	遡航	soko	船舶で水流を遡上して行くこと。
+j	遡行	soko	水流を遡上して行くこと。
+j	遭逢	soho	出会うこと。遭遇すること。
+j	遭遇	sogu	an encounter, often an un…
+j	鉏鋙	sogo	物事がうまくかみ合わず、食い違ってうまく進まないこ…
+j	錚錚	soso	eminent; distinguished; o…
+j	鏘鏘	soso	tinkling sound (esp. bell…
+j	雙方	soho	
+j	霜葉	soyo	leaves that change colour…
+j	霜降	soko	“descent of frost” (one o…
+j	霜露	soro	霜と露。
+j	騒々	sozo	perturbing, rumpus
+j	騒動	sodo	riot, stir, commotion, fu…
+j	騒音	soon	noise, disorder
+j	鬆円	soen	緩めること。
+j	鼠姑	soko	牡丹の異名。
+j	鼠盗	soto	小さな盗みをする泥棒。鼠賊。
+j	鼠部	sobu	部首「⿏」で分類した漢字の一群。
+j	齟齬	sogo	inconsistency, discrepanc…
+k	소고	sogo	
+k	소기	sogi	기대한 바.
+k	소니	soni	
+k	소다	soda	soda
+k	소도	sodo	
+k	소두	sodu	azuki bean
+k	소라	sora	The horned turban (Turbo …
+k	소리	sori	sound
+k	소모	somo	있는 것을 써서 없앰.
+k	소미	somi	
+k	소바	soba	
+k	소비	sobi	consumption, spending
+k	소사	sosa	
+k	소소	soso	(학명: Tetragnatha praedoni…
+k	소수	sosu	minority
+k	소시	sosi	
+k	소악	soak	
+k	소안	soan	
+k	소옥	sook	cottage, hut, cabin, shed
+k	소외	sooe	estrangement; alienation
+k	소요	soyo	
+k	소울	soul	
+k	소위	sowi	so-called (attributive)
+k	소유	soyu	possession (ownership of …
+k	소인	soin	child, kid
+k	소일	soil	
+k	소임	soim	
+k	소자	soja	small text
+k	소제	soje	cleaning; sweeping up
+k	소조	sojo	
+k	소주	soju	soju, Korean rice liquor
+k	소지	soji	물건을 가지고 있는 일 또는 그 상태
+k	소파	sopa	sofa
+k	소포	sopo	parcel, package, packet
+k	소피	sopi	
+k	소호	soho	
+k	속에	soge	
+k	송	song	한국의 성씨 중 하나.
+e	so far	sofar	1 meaning
+e	sober	sober	3 meanings
+e	sochi	sochi	1 meaning
+e	sodom	sodom	1 meaning
+e	sofia	sofia	1 meaning
+e	solar	solar	1 meaning
+e	solid	solid	8 meanings
+e	solon	solon	1 meaning
+e	solve	solve	1 meaning
+e	sonar	sonar	1 meaning
+e	sonic	sonic	1 meaning
+e	sooth	sooth	1 meaning
+e	soros	soros	1 meaning
+e	sorry	sorry	7 meanings
+e	sound	sound	13 meanings
+e	south	south	2 meanings
+e	soyuz	soyuz	1 meaning
+e	são tomé	sotom	1 meaning
+j	そいね	soine	近くに寄り添って寝ること。
+j	そいや	soiya	
+j	そういや	soiya	
+j	そうかん	sokan	壮観: spectacular
+j	そうしょ	sosho	草書: grass script, a cursi…
+j	そうだん	sodan	相談: consultation
+j	そうちょう	socho	荘重: solemn
+j	そうにゅう	sonyu	挿入: insertion, incorporat…
+j	そうにょう	sonyo	爪繞: the 爪 radical, e.g. 爬
+j	そうめい	somei	聰明: a male given name
+j	そうらい	sorai	草莱
+j	そうらん	soran	層巒: overlapping mountains
+j	そうりょ	soryo	僧侶: Buddhist monk, group …
+j	そえぎ	soegi	（添え木）草木が倒れないように添え、支柱となる木。
+j	そえこ	soeko	脇差の鞘に差し入れる小刀。裏差し。
+j	そえる	soeru	補助的に付け加える。
+j	そがい	sogai	阻害: inhibition
+j	そくい	sokui	即位
+j	そぐう	soguu	be suitable, be appropria…
+j	そこへ	sokoe	
+j	そざい	sozai	素材: raw materials, subjec…
+j	そし	soshi	庶子: an illegitimate child…
+j	そしょう	sosho	
+j	そち	sochi	帥: director of the Dazaif…
+j	そっか	sokka	そうか、なるほど。そうなのか。納得した時に用いる感…
+j	そっと	sotto	softly, gently, quietly
+j	そっぽ	soppo	somewhere else
+j	そっぽう	soppo	正面ではなくよその方向。そっぽ。
+j	そつ	sotsu	oversight, slip
+j	そない	sonai	そのよう。そんな。
+j	そなえ	sonae	「そなえる」の未然形及び連用形。
+j	そにん	sonin	訴人: a complainant, a liti…
+j	そりゃ	sorya	それは。
+j	そりゃあ	sorya	that's
+j	そんで	sonde	
+j	そんな	sonna	like that; that kind of
+j	ソアラ	soara	長距離または長時間飛行できる最上級グライダー。
+j	ソアラー	soara	「ソアラ」の表記ゆれ。
+j	ソウル	souru	synonym of 魂 (tamashī, “s…
+j	ソケイ	sokei	素馨: Spanish jasmine
+j	ソチ	sochi	Sochi (a city in Russia)
+j	ソック	sokku	
+j	ソッコー	sokko	immediately
+j	ソフィア	sofia	Sofia (the capital city o…
+j	ソロン	soron	
+j	ソング	songu	synonym of 歌 (uta, “song”)
+j	ソンベ	sonbe	sunbae (upperclassman or …
+j	ソ連	soren	ソビエト社会主義共和国連邦の略。
+j	争子	soshi	親の不義などを諫める子。
+j	争弁	soben	争論すること。
+j	争点	soten	point of contention; poin…
+j	争端	sotan	争いの発端。
+j	争訟	sosho	dispute
+j	俎胾	soshi	俎肉。
+j	倉囷	sokin	米倉。
+j	倉廩	sorin	granary
+j	倉急	sokyu	大急ぎ。
+j	候う	sorou	to serve
+j	側位	sokui	spoons position
+j	側溝	sokko	a side ditch
+j	備え	sonae	preparation
+j	僧伽	sogya	
+j	僧体	sotai	僧侶の姿。僧形。
+j	僧侶	soryo	group of Buddhist monks
+j	僧兵	sohei	A warrior priest or monk
+j	僧団	sodan	特別な修行する僧侶の集まり。
+j	僧官	sokan	僧侶に対し朝廷から与えられる官職。
+j	僧形	sogyo	僧侶の姿。僧体。
+j	僧戒	sokai	precepts which monks obse…
+j	僧門	somon	仏道。仏門。
+j	僧階	sokai	rank of a monk
+j	創世	sosei	creation of the world
+j	創傷	sosho	wound
+j	創刊	sokan	first issuance of a perio…
+j	創制	sosei	ある制度をはじめてつくること。
+j	創唱	sosho	proposition
+j	創始	soshi	genesis, origination
+j	創建	soken	foundation, organization,…
+j	創弁	soben	開業すること。
+j	創志	soshi	a male given name
+j	創業	sogyo	establishment, founding o…
+j	創残	sozan	生き残り。
+j	創瘢	sohan	瘡瘢の異表記。
+j	創製	sosei	ものを初めて作り出すこと。
+j	創見	soken	独創的な意見。
+j	創開	sokai	initiation; launch
+j	創隊	sotai	部隊を新しく創設すること。
+j	勦尽	sojin	殺し尽くすこと。
+j	卒	sotsu	low-ranking soldier
+j	卒倒	sotto	fainting
+j	即下	sokka	すぐ下。すぐ後。
+j	即位	sokui	enthronement
+j	即効	sokko	immediate effect
+j	即行	sokko	doing on the spot
+j	双剣	soken	一つの鞘に二つまたは複数の刀身が入っている剣。
+j	双声	sosei	漢字二字の熟語で、両方の字の最初の子音（声母）が同…
+j	双射	sosha	（数学）全単射。
+j	双弓	sokyu	番となった弓。
+j	双扇	sosen	両手に扇を持って行う武術。
+j	双手	soshu	両手。
+j	双星	sosei	celestial pair
+j	双晶	sosho	twin crystal
+j	双書	sosho	library (collection of bo…
+j	双棍	sokon	二本の棒（棍棒）を紐または鎖で繋いだ武器。
+j	双棲	sosei	夫婦または動物の雌雄が一緒に生活すること。
+j	双清	sosei	paintings of daffodils an…
+j	双生	sosei	同時に二人の胎児が生まれること。
+j	双盤	soban	法会の際に使用する大きな鉦。
+j	双眼	sogan	both eyes; (attributive) …
+j	双糸	soshi	単糸を二本よりあわせた糸。双子糸。
+j	双肩	soken	both shoulders
+j	双輪	sorin	前後または左右に二つ付いた車輪。また、そのような車。
+j	双錘	sosui	両手に錘を持って行う武術。
+j	双鐧	sokan	両手に鐧を持って行う武術。
+j	双鞭	soben	両手に鞭を持って行う武術。
+j	双魚	sogyo	二尾一対の魚。
+j	反っ歯	soppa	synonym of 出っ歯
+j	叢攢	sosan	群れること。
+j	叢書	sosho	book series
+j	叢林	sorin	Zen monastery
+j	叢残	sozan	残余。
+j	叢生	sosei	植物が群がって生えること。群生。簇生。
+j	叢誌	soshi	多数の事項を蒐集した記録や雑誌。
+j	叢談	sodan	さまざまな物語を集めたもの。
+j	叢譚	sodan	叢談の異表記。
+j	喪冠	sokan	喪の冠。
+j	喪柩	sokyu	葬礼の柩。
+j	喪算	sosan	喪の期間。
+j	噪吟	sogin	喧しく啼くこと。
+j	塑性	sosei	plasticity
+j	壮丁	sotei	able-bodied man (capable …
+j	壮大	sodai	magnificent, grand; impos…
+j	壮年	sonen	prime of life
+j	壮快	sokai	stirring; emotionally upl…
+j	壮挙	sokyo	意欲的で大規模な計画。その達成。
+j	壮盛	sosei	年が若く活動が盛んであること。また、そのようなさま。
+j	壮胆	sotan	胆勇。
+j	壮蚕	sosan	第四齢、第五齢の蚕。
+j	壮観	sokan	being a magnificent sight
+j	壮言	sogen	意気盛んな言葉。
+j	壮麗	sorei	gorgeous; splendid; magni…
+j	壮齢	sorei	元気があり働き盛りの年頃。壮年。
+j	外へ	sotoe	
+j	奏宣	sosen	天子に奏上すること。
+j	奏弾	sodan	天子に役人の罪過を奏上し、その役人を弾劾すること。
+j	奏文	sobun	天子（天皇）に奏上する文。
+j	奏書	sosho	天子に奏上する文書。
+j	奏瑞	sozui	天子に瑞祥を奏上すること。
+j	奏章	sosho	上奏の文。
+j	奏者	sosha	musical performer
+j	奏聞	somon	Reporting to the Emperor
+j	奏薦	sosen	天子に奏上し推薦すること。
+j	奏詞	soshi	天皇に奏上する言葉。
+j	奏請	sosei	petitioning the emperor
+j	孀単	sotan	孀居。寡居。
+j	存亡	sonbo	life or death
+j	存候	sonko	安否を問うこと。見舞うこと。
+j	存否	sonpi	presence or absence, life…
+j	存疑	songi	十分解明されずに疑問が残ること。
+j	存稿	sonko	著者などの存命中に集めておいた草稿。
+j	孫呉	songo	Eastern Wu (229–280)
+j	孫王	sonno	天子（天皇）の孫にあたる王子。
+j	宋代	sodai	中国の宋王朝の時代。
+j	宋初	sosho	中国の宋の時代の初期。
+j	宋史	soshi	中国宋の歴史。
+j	宋朝	socho	Song dynasty
+j	宋板	sohan	中国宋の時代に刊行された書籍。
+j	宋版	sohan	中国宋の時代に刊行された書籍。
+j	宋詞	soshi	中国宋の時代に盛行した韻文の詞。
+j	宋銭	sosen	中国宋の時代につくられた銅銭。
+j	宗主	soshu	a suzerain (a kind of lea…
+j	宗匠	sosho	master
+j	宗子	soshi	一族の長となるべき子。本家、宗家を継ぐべき子。
+j	宗師	soshi	尊敬すべき師匠や師範。
+j	宗源	sogen	あらゆるものの源。
+j	宗祀	soshi	尊んで祀ること。
+j	尊下	sonka	男性の同輩の尊敬語。
+j	尊俎	sonso	「樽俎」の異表記。
+j	尊儀	songi	仏や菩薩などの姿。
+j	尊公	sonko	相手に対する二人称の尊敬語。あなたさま。貴公。尊君。
+j	尊卑	sonpi	the rich and the poor
+j	尊古	sonko	古を尊重する。
+j	尊号	songo	regnal name
+j	尊堂	sondo	相手の住宅。
+j	尊報	sonpo	相手からの返信、返書に対する尊敬語。
+j	尊奉	sonpo	尊び、仕えること。崇め、従うこと。
+j	尊家	sonka	他人の家に対する尊敬語。
+j	尊崇	sonsu	reverence; veneration
+j	尊影	sonei	他人の肖像や映像に対する尊敬語。
+j	尊攘	sonjo	尊皇攘夷。
+j	尊栄	sonei	非常に高い身分にあり栄えること。
+j	尊母	sonbo	他人の母親に対する尊敬語。
+j	尊父	sonpu	他人の父親に対する尊敬語。
+j	尊王	sonno	reverence for the emperor
+j	尊皇	sonno	天皇を尊ぶこと。
+j	尊老	sonro	老人を尊ぶこと。
+j	尊者	sonja	身分が高い人。
+j	尊詠	sonei	他人の詠んだ詩歌に対する尊敬語。
+j	尊貴	sonki	honorable, respectable
+j	尊高	sonko	身分が高く尊いこと。
+j	層倍	sobai	times
+j	層巌	sogan	重なり合った巌。重巌。
+j	層巒	soran	overlapping mountains
+j	層穹	sokyu	大空。
+j	層級	sokyu	長い階段。
+j	層群	sogun	二つ以上の累層が重なったもの。
+j	嶒嶄	sozan	高く険しいさま。
+j	帀地	sochi	広大な大地。
+j	徂徠	sorai	行き来すること。往来。
+j	怱遽	sokyo	慌ただしいこと。また、そのような様子。
+j	惣判	sohan	広い視野で物事を判断すること。
+j	惣菜	sozai	side dish
+j	惣門	somon	外構えの大門。
+j	想定	sotei	assumption, supposition
+j	想念	sonen	idea, thought
+j	想見	soken	思い浮かべること。想像すること。
+j	愴然	sozen	心を痛め、悲しむさま。
+j	挿入	sonyu	insertion
+j	挿鞋	sokai	formal footwear made of w…
+j	捜探	sotan	探索。
+j	捜求	sokyu	捜し求めること。探求。
+j	掃司	soshi	a 律令 (ritsuryō) position …
+j	掃射	sosha	mowing down with fire suc…
+j	掃海	sokai	minesweeping
+j	掃清	sosei	（汚れやごみを）払い、清めること。
+j	措弁	soben	うまくさばいて処理すること。
+j	措斂	soren	聚斂。
+j	措置	sochi	measure, step
+j	揃い	soroi	matching
+j	揃う	sorou	be all together in one pl…
+j	揃え	soroe	
+j	損亡	sonmo	被害を受けること。
+j	損気	sonki	disadvantage
+j	搔首	soshu	頭を搔くこと。
+j	操兵	sohei	兵士を操練すること。
+j	操典	soten	drill
+j	操守	soshu	節操。操。
+j	操業	sogyo	operation
+j	操短	sotan	「操業短縮」の略。
+j	早世	sosei	a premature death, an unt…
+j	早参	sosan	早く参上すること。
+j	早婚	sokon	若い年齢で結婚すること。また、その結婚。
+j	早慶	sokei	Waseda University and/vs.…
+j	早成	sosei	早く完成したり成就したりすること。
+j	早旦	sotan	朝の早い時間。早朝。
+j	早晩	soban	sooner or later, in time
+j	早暁	sogyo	dawn, daybreak
+j	早朝	socho	early morning
+j	早爨	sosan	朝食。
+j	早生	sosei	結実などが普通の品種より早い時季になること。わせ。
+j	早産	sozan	premature birth
+j	早秋	soshu	early autumn
+j	早計	sokei	being rash, not having be…
+j	早退	sotai	early leave
+j	早逝	sosei	若い年齢で死ぬこと。
+j	早雁	sogan	例年より早く飛来する雁。
+j	曹長	socho	a sergeant major
+j	曽孫	soson	great-grandchild
+j	曽潭	sotan	深淵。
+j	曽穹	sokyu	天。
+j	曾孫	soson	曽孫の旧字体表記。
+j	曾山	sozan	高山。
+j	村吏	sonri	村の役人。
+j	村営	sonei	村が経営しているもの。
+j	村家	sonka	村の家。
+j	村巷	sonko	村里の巷。
+j	村歌	sonka	村の象徴として歌われる歌。
+j	村法	sonpo	村（村落）の中で自治的に定められた規約。
+j	村童	sondo	村落のこども。
+j	村老	sonro	村の老人。
+j	村花	sonka	村を代表するものとして選定された花。
+j	村費	sonpi	村の費用。
+j	村道	sondo	a village road
+j	村郊	sonko	田舎。
+j	村酤	sonko	田舎で作る酒。
+j	村里	sonri	むらざと。村落。
+j	村鼓	sonko	村人の打つ太鼓。
+j	桑弓	sokyu	桑の木でつくった弓。古く蓬の茎でつくった矢とともに…
+j	桑梓	soshi	mulberry trees and cherry…
+j	桑海	sokai	changes in the world
+j	桑湾	sowan	San Francisco Bay (a bay …
+j	桑田	soden	mulberry plantation
+j	桑蚕	sosan	養蚕。
+j	桑門	somon	沙弥。僧侶。
+j	桒年	sonen	48歳の別名。
+j	梳子	soshi	髪を梳く道具。櫛。
+j	梳綿	somen	carding (disentangling th…
+j	椶毯	sotan	椶櫚の織物。
+j	楚囚	soshu	囚人。捕虜。
+j	槍兵	sohei	槍などの長い武器で武装した歩兵。
+j	樽俎	sonso	酒樽と生贄を載せる台。
+j	沮訾	soshi	誹ること。
+j	添い寝	soine	sleeping alongside someon…
+j	添える	soeru	garnish
+j	添え字	soeji	送り仮名など本文の文字に書き添えた文字。
+j	添字	soeji	「添え字」を参照。
+j	添木	soegi	
+j	測位	sokui	GPSなどの情報を利用して位置を測定すること。
+j	測候	sokko	機器を用いて気象の様子を測定すること。
+j	湊成	sosei	一つに集まること。また、一つに集めて纏めること。
+j	滄海	sokai	blue waters; vast ocean
+j	漕手	soshu	舟の漕ぎ手。
+j	漕艇	sotei	rowing
+j	燥急	sokyu	焦燥。
+j	爪繞	sonyo	the 爪 radical, e.g. 爬
+j	爽快	sokai	refreshing
+j	爽旦	sotan	夜明け。黎明。
+j	爽昧	somai	夜明け。暁。
+j	爽涼	soryo	空気が爽やかで涼しいこと。また、そのようなさま。
+j	爽然	sozen	心身ともに爽快であるさま。
+j	爽秋	soshu	爽やかな秋。
+j	爽籟	sorai	the refreshing sound of t…
+j	率土	sotto	この地が続くかぎり。地の果て。
+j	疎外	sogai	alienation
+j	疎散	sosan	嫌って離れること。
+j	疎水	sosui	hydrophobicity
+j	疎簾	soren	目が粗い簾。
+j	疎趾	soshi	雉。
+j	疎通	sotsu	communicating ones intent…
+j	疎酒	soshu	「粗酒」の異表記。
+j	疎開	sokai	evacuation
+j	疎食	soshi	野菜。
+j	疏散	sosan	「疎散」の異表記。
+j	疏水	sosui	irrigation canal
+j	疏趾	soshi	雉。
+j	疏食	soshi	野菜。
+j	瘡痕	sokon	切り傷の傷痕。
+j	瘡瘢	sohan	傷跡。創痕。
+j	瘡腫	sosho	腫れ物。出来物。
+j	皁桟	sosan	馬屋。
+j	皁裙	sokun	こうのとり。
+j	相伝	soden	代々受け、伝えること。
+j	相制	sosei	お互いに牽制し合うこと。
+j	相姦	sokan	illicit or taboo sex (suc…
+j	相州	soshu	相模国^(（さがみのくに）)の別称。
+j	相待	sodai	二つの事柄が相対関連して存在すること。
+j	相応な	soona	
+j	相思	soshi	synonym of 相思相愛 (sōshi sō…
+j	相承	sosho	handing down
+j	相旧	sokyu	旧知。
+j	相殺	sosai	counteraction, neutraliza…
+j	相知	sochi	お互いに知り合っていること。また、そのような間柄。
+j	相称	sosho	symmetry
+j	相観	sokan	植物群落を外形的に見たときの特徴的な様相。
+j	相談	sodan	advice, counsel, consulta…
+j	相輪	sorin	仏塔の一番上層の屋根の更に上に設置される構造物。
+j	相近	sokin	系統の異なる生物が次第に相似的な形質を表わすように…
+j	相銀	sogin	相互銀行。
+j	相関	sokan	correlation
+j	礎材	sozai	foundation materials, wha…
+j	祖先	sosen	ancestor
+j	祖型	sokei	archetype
+j	祖山	sozan	祖先の墓地。
+j	祖師	soshi	founder
+j	祖廟	sobyo	祖先の霊を祀る御霊屋。
+j	祖本	sohon	伝本の元となる作者自筆による書物。
+j	祖父江	sobue	a surname
+j	租料	soryo	小作米。
+j	租界	sokai	concession territories (i…
+j	租税	sozei	tax
+j	稗糲	sorei	質の悪い米。
+j	窓前	sozen	窓の前。
+j	竈君	sokun	竈の神。
+j	竈税	sozei	食塩にかかる租税。
+j	箱笈	sokyu	箱。
+j	粗大	sodai	coarse, rough, bulky
+j	粗悪	soaku	of poor quality
+j	粗描	sobyo	大雑把に描写すること。また、その描写。
+j	粗景	sokei	gift
+j	粗氷	sohyo	過冷却された霧の粒が樹木や岩石についてできた透明ま…
+j	粗笨	sohon	rough; coarse
+j	粗糲	sorei	unpolished, coarse rice; …
+j	粗茶	socha	粗末な茶。上質でない茶。
+j	粗酒	soshu	粗末な酒。
+j	粗面	somen	rough surface
+j	糟丘	sokyu	酒粕を積んで丘を作ること。
+j	糟朽	sokyu	朽廃。
+j	糟蛋	sotan	egg preserved in red wine…
+j	素子	soshi	a basic component, an ele…
+j	素廉	soren	さっぱり。
+j	素志	soshi	longstanding desire or ho…
+j	素性	sosei	feature
+j	素懐	sokai	もとよりの心。平素の志懐。平常、心に思うこと。
+j	素描	sobyo	sketch
+j	素文	sobun	漢文の注釈に対し漢文の本文。
+j	素本	sohon	注釈などをつけない本文だけの書物。
+j	素材	sozai	material for making somet…
+j	素片	sohen	全体をいくつかに分解した断片の部分。
+j	素秋	soshu	「秋」の異称。白秋。
+j	素練	soren	白い練絹。
+j	素論	soron	高尚な意見。
+j	素量	soryo	ある物理量の最小単位。電気素量が代表的。
+j	素飡	sosan	「素餐」の異表記。
+j	素餐	sosan	功績も才能もないのに高位にいて報酬を受けること。
+j	素馨	sokei	Spanish jasmine, Jasminum…
+j	素麺	somen	somen (white noodles)
+j	索麺	somen	小麦粉に食塩水を入れてこね、植物油を塗り細長く伸ば…
+j	組成	sosei	composition
+j	組練	soren	組甲と被練。
+j	総代	sodai	関係者全員を代表すること。
+j	総会	sokai	general assembly, general…
+j	総兵	sohei	総ての兵。
+j	総判	sohan	広い視野で物事を判断すること。
+j	総制	sosei	編成すること。構成すること。
+j	総勢	sozei	全体の軍勢や人数。
+j	総受け	souke	invariably becoming the b…
+j	総司	soshi	a male given name
+j	総州	soshu	上総国^(（かずさのくに）)と下総国^(（しもうさ…
+j	総帥	sosui	highest leader
+j	総弁	soben	ある事を総て処理すること。また、そのような職。
+j	総点	soten	得た点数の総合計。
+j	総監	sokan	すべての仕事や人を監督すること。またそれを行う役職。
+j	総称	sosho	general term
+j	総裁	sosai	president (of public orga…
+j	総計	sokei	total, sum, total amount
+j	総軍	sogun	すべての軍。全軍。
+j	総辨	soben	ある事を総て処理すること。また、そのような職。
+j	総量	soryo	gross weight
+j	総長	socho	a chief of a whole system
+j	総門	somon	外構えの大門。
+j	総隊	sotai	陸上自衛隊、航空自衛隊の総軍。
+j	総集	soshu	全てが集まること。全てを集めること。
+j	総領	soryo	律令制が完成する前の7世紀後半に諸国に置かれていた…
+j	総願	sogan	四弘誓願。
+j	繒錦	sokin	錦織。
+j	繰糸	soshi	繭から糸を引き出し生糸にすること。また、その作業。…
+j	聡慧	sokei	perspicacious, clear-eyed…
+j	聡明	somei	wise, smart, intelligent,…
+j	聰明	somei	wise
+j	草体	sotai	草書による書体。
+j	草原	sogen	grassland, meadow
+j	草子	soshi	糸などで綴じた書物。
+j	草市	soshi	
+j	草径	sokei	草が生い茂る小道。
+j	草昧	somai	社会が未開で秩序立っていないこと。
+j	草書	sosho	grass script (cursive wri…
+j	草本	sohon	herb; herbaceous plant
+j	草根	sokon	草の根。
+j	草清	sosei	茶の湯で唐物を扱う前にする揉み手。
+j	草炭	sotan	主に草本類から構成される泥炭。
+j	草紙	soshi	a text in which pages are…
+j	草聖	sosei	書体で草書の達人。
+j	草芥	sokai	weed and trash; trash
+j	草魚	sogyo	grass carp, Ctenopharyngo…
+j	荘厳	sogon	grim, stern
+j	荘周	soshu	
+j	荘子	soshi	Zhuangzi (an influential …
+j	荘平	sohei	a male given name
+j	荘重	socho	厳かで重々しいこと。
+j	葬制	sosei	funerary practice
+j	葬所	sosho	葬る場所。墓。
+j	葬斂	soren	葬式。葬儀。
+j	葬殮	soren	葬式。葬儀。
+j	葬車	sosha	棺を運ぶ車。
+j	葱嶺	sorei	the Pamirs (a mountain ra…
+j	蒼天	soten	the blue sky; the azure s…
+j	蒼山	sozan	青山。
+j	蒼旻	sobin	blue sky
+j	蒼林	sorin	青々としげった林。
+j	蒼海	sokai	青海原。
+j	蒼然	sozen	青々としているさま。
+j	蒼穹	sokyu	the blue sky; the azure s…
+j	蒼翠	sosui	dark green; lush greenness
+j	蒼顔	sogan	(老人の)蒼白い顔。
+j	蔬菜	sosai	vegetable; greens
+j	藻井	sosei	中国の伝統建築に見られる天井の装飾。
+j	藻海	sokai	北大西洋北緯20度から40度、西経30度から80度…
+j	藻類	sorui	alga, algae
+j	蘇州	soshu	Suzhou (a prefecture-leve…
+j	蘇生	sosei	restoring consciousness, …
+j	蘇連	soren	ソ連の漢字表記。
+j	装丁	sotei	book binding
+j	装入	sonyu	中に入れること。中に入れて仕掛けること。挿入。装填。
+j	装填	soten	load, charge
+j	装幀	sotei	本を製本し表紙などを整えること。また、そのための技…
+j	装弾	sodan	銃砲に弾丸を装填すること。
+j	装旦	sotan	女方。
+j	装本	sohon	書物に表紙をつけるなどし、体裁を整えること。
+j	装置	sochi	equipment; device
+j	装訂	sotei	本を製本し表紙などを整えること。また、そのための技…
+j	装釘	sotei	本を製本し表紙などを整えること。また、そのための技…
+j	触衣	sokui	ふんどし。下帯。
+j	訴人	sonin	a suitor
+j	訴権	soken	民事訴訟で、裁判所に訴訟を提起して審判を求めること…
+j	訴求	sokyu	appeal; solicitation
+j	訴訟	sosho	lawsuit (a case where a c…
+j	訴論	soron	訴え争うこと。
+j	譟急	sokyu	急しく忙しいこと。そのさま。
+j	走性	sosei	taxis
+j	走禽	sokin	陸上で生活する鳥。
+j	走竄	sozan	遁走すること。
+j	走繞	sonyo	the 走 radical, e.g. 起
+j	走者	sosha	runner (athlete)
+j	躁急	sokyu	気持ちが急いて忙しいさま。せっかちなさま。
+j	躁病	sobyo	mania (a mood disorder)
+j	輳成	sosei	一つに集まること。また、一つに集めて纏めること。
+j	送料	soryo	postage, cost of shipping
+j	送本	sohon	書物を送ること。また、その書物。
+j	送検	soken	sending the accused to th…
+j	送水	sosui	conveyance of water
+j	送球	sokyu	the act of throwing or pa…
+j	送窮	sokyu	貧乏神を送り出すこと。
+j	送迎	sogei	seeing off and meeting
+j	送還	sokan	repatriation, deportation
+j	送金	sokin	remittance; money sending
+j	送電	soden	act of transmitting elect…
+j	速攻	sokko	swift attack; quick attack
+j	速記	sokki	shorthand
+j	遭難	sonan	shipwreck
+j	鎗然	sozen	金属製の楽器からでる音のさま。
+j	鎗銀	sogin	銀蒔絵。
+j	阻害	sogai	damage, hindrance, impedi…
+j	阻止	soshi	blocking, thwarting, prev…
+j	阻滞	sotai	障害などにより滞ること。
+j	阻碍	sogai	物事の進行を邪魔すること。
+j	阻礙	sogai	物事の進行を邪魔すること。
+j	雙晶	sosho	
+j	霜天	soten	霜が降り、冷える冬の明け方の天空。
+j	霜髯	sozen	白髪で白くなった髯。
+j	霜鬚	soshu	（霜のように）白くなった鬚。
+j	霜鬢	sobin	white hair, hair white as…
+j	駔儈	sokai	仲買人。儈駔。
+j	騒乱	soran	riot, turmoil
+j	騒壇	sodan	詩壇。
+j	騒然	sozen	noisy
+j	麁文	sobun	漢文の注釈に対し漢文の本文。
+j	麁景	sokei	粗末な景品。景品の謙譲語。
+j	麁本	sohon	「素本」の別表記。
+j	麁酒	soshu	「粗酒」の異表記。
+j	麤文	sobun	漢文の注釈に対し漢文の本文。
+j	麤景	sokei	粗末な景品。景品の謙譲語。
+j	麤笨	sohon	「粗笨」の異表記。あらくて雑なこと。
+j	鼠害	sogai	鼠による農作物や住民の健康などへの被害。
+j	鼠径	sokei	腹部と両下肢とが接する内側の部分。太股の内側の付け…
+j	鼠竄	sozan	鼠が穴に入るように、こそこそと逃げ隠れること。
+j	鼠蹊	sokei	groin
+j	鼠頸	sokei	腹部と両下肢とが接する内側の部分。太股の内側の付け…
+k	소각	sogak	incineration
+k	소감	sogam	
+k	소개	sogae	introduction
+k	소거	sogeo	
+k	소계	sogye	
+k	소곡	sogok	short piece of music
+k	소곰	sogom	
+k	소과	sogwa	
+k	소국	soguk	좁은 소견.
+k	소굴	sogul	den; lair; nest
+k	소귀	sogwi	
+k	소낙	sonak	
+k	소난	sonan	사소한 어려움.
+k	소뇌	sonoe	cerebellum
+k	소대	sodae	platoon
+k	소독	sodok	
+k	소돔	sodom	
+k	소띠	sotti	소해에 태어난 사람의 띠.
+k	소란	soran	시끄럽고 어수선함.
+k	소래	sorae	
+k	소론	soron	
+k	소만	soman	
+k	소매	somae	sleeve
+k	소목	somok	
+k	소묘	somyo	sketch, drawing
+k	소문	somun	rumour
+k	소박	sobak	처나 첩을 박대함.
+k	소반	soban	small dining table
+k	소밥	sobap	
+k	소산	sosan	흩어져 사라진다.
+k	소서	soseo	
+k	소속	sosok	belonging to
+k	소스	soseu	sauce (liquid condiment)
+k	소식	sosik	news
+k	소신	sosin	신하가 임금을 상대하여 자기를 낮추어 이르던 …
+k	소실	sosil	disappearance
+k	소심	sosim	
+k	소아암	soaam	어린이에게 많이 일어나는 암.
+k	소액	soaek	
+k	소우주	souju	아주 작은 세상을 우주 만큼 심오하다는 뜻에서…
+k	소원	sowon	wish, hope
+k	소음	soeum	noise; din
+k	소이다	soida	
+k	소작	sojak	
+k	소재	sojae	material; component; stuff
+k	소좌	sojwa	a major; lieutenant comma…
+k	소죄	sojoe	
+k	소진	sojin	
+k	소질	sojil	aptitude; knack; natural …
+k	소집	sojip	call to form a group
+k	소초	socho	
+k	소추	sochu	법원에 형사 사건에 대한 심판을 신청하는 일.
+k	소치	sochi	reason of one's own action
+k	소켓	soket	전구나 다른 전기 기기를 끼워서 전기가 통하게…
+k	소탈	sotal	'소탈하다'의 어근.
+k	소태	sotae	
+k	소풀	sopul	
+k	소품	sopum	essay, literary sketch
+k	소피아	sopia	Sofia (the capital of Bul…
+k	소학	sohak	
+k	소한	sohan	
+k	소홀	sohol	대수롭지 아니하고 예사로움. 또는 탐탁하지 아…
+k	소화	sohwa	digestion
+k	속구	sokgu	fastball
+k	속기	sokgi	빨리 글씨를 적음.
+k	속다	sokda	to be cheated, to be dece…
+k	속도	sokdo	speed
+k	속보	sokbo	breaking news
+k	속사	soksa	
+k	속세	sokse	the (secular) world, eart…
+k	속수	soksu	
+k	속어	sogeo	slang
+k	속옷	sogot	underwear, undergarment
+k	속요	sogyo	
+k	속인	sogin	
+k	속임	sogim	
+k	속자	sokja	a hanja variant that is w…
+k	속지	sokji	
+k	속히	sokhi	quickly
+k	솎다	sokda	
+k	손모	sonmo	
+k	손부	sonbu	
+k	손수	sonsu	
+k	손아이	sonai	'남자, 사나이'를 의미하는 제주도 방언.
+k	손위	sonwi	being older
+k	손익	sonik	
+k	손자	sonja	grandson, grandchild
+k	손주	sonju	grandchild
+k	손지	sonji	손자의 제주도 사투리.
+k	솔기	solgi	seam
+k	솔다	solda	to be tight, to be small
+k	솔로	sollo	a single person; a person…
+k	솜옷	somot	
+k	솟다	sotda	to rise, to soar
+k	솟수	sotsu	
+k	송이	songi	a bunch of flowers, grape…
+k	쇠다	soeda	
+k	쇠미	soemi	
+k	쇠안	soean	
+e	so what	sowhat	1 meaning
+e	soccer	soccer	1 meaning
+e	social	social	1 meaning
+e	socket	socket	2 meanings
+e	sodium	sodium	1 meaning
+e	sodomy	sodomy	1 meaning
+e	soften	soften	1 meaning
+e	softly	softly	1 meaning
+e	soiree	soiree	1 meaning
+e	solace	solace	1 meaning
+e	solder	solder	2 meanings
+e	solemn	solemn	1 meaning
+e	solfège	solfge	1 meaning
+e	solute	solute	1 meaning
+e	som tam	somtam	1 meaning
+e	somali	somali	1 meaning
+e	sombre	sombre	1 meaning
+e	sonata	sonata	1 meaning
+e	sonnet	sonnet	1 meaning
+e	sonora	sonora	1 meaning
+e	soothe	soothe	1 meaning
+e	sorbet	sorbet	1 meaning
+e	sorrel	sorrel	3 meanings
+e	sorrow	sorrow	1 meaning
+e	sortie	sortie	2 meanings
+e	soufflé	souffl	1 meaning
+e	source	source	3 meanings
+e	soviet	soviet	3 meanings
+e	sōgana	sogana	1 meaning
+j	そいつ	soitsu	he, that guy; that person
+j	そういえば	soieba	come to mention it
+j	そういち	soichi	荘一: a male given name
+j	そうさいん	sosain	捜査員: (law) a criminal inv…
+j	そうしん	soshin	送信: sending (by electric …
+j	そうじき	sojiki	
+j	そうじゅく	sojuku	早熟: precocious
+j	そうすけ	sosuke	蒼甫, 壮介, 宗佑, 宗輔, 宗助, 壮祐, 壮…
+j	そうたろう	sotaro	相太郎, 壮太郎: a male given na…
+j	そうです	sodesu	
+j	そうろく	soroku	荘六: a male given name
+j	そぎゃん	sogyan	that (medial) kind
+j	そくじょ	sokujo	息女: (honorific) daughter
+j	そくず	sokuzu	蒴藋: Chinese elder
+j	そくとう	sokuto	即答
+j	そくほう	sokuho	速報: news flash
+j	そげる	sogeru	削り取られる。
+j	そこで	sokode	so, then, in that case
+j	そこね	sokone	相場で最低の値段。
+j	そこの	sokono	
+j	そこひ	sokohi	物事の極み。
+j	そこら	sokora	そのあたりの場所を指す。
+j	そしん	soshin	祖神: the deification of an…
+j	そそぐ	sosogu	水が、ざわざわと動く、水がざわざわと流れる。
+j	そそる	sosoru	to excite, to stimulate (…
+j	そそろ	sosoro	鷲や鷹などが獲物を食べ終わり、その皮や毛を丸い形に…
+j	そぞろ	sozoro	antsy; restless
+j	そっち	sotchi	中称の指示代名詞で、そちらよりも砕けた言い方。
+j	そっちゅう	sotchu	卒中: stroke, apoplexy
+j	そとぎ	sotogi	outside wear
+j	そとわ	sotowa	外側の輪。
+j	そなた	sonata	that way; you
+j	そねみ	sonemi	そねむこと。ねたみ。嫉妬。
+j	そねむ	sonemu	他人の幸福・長所などを羨ましく思って妬む。
+j	そのうえ	sonoue	それに加えて。
+j	そのた	sonota	その他: et cetera
+j	そのだ	sonoda	園田, 薗田: a surname
+j	そのて	sonote	そのような手段。
+j	そのば	sonoba	そのことがあった場所。
+j	そのよう	sonoyo	其の様: such, in that way, t…
+j	その上	sonoue	
+j	その後	sonogo	then
+j	そばこ	sobako	蕎麦の実の粉。蕎麦麺などの食品に加工する。
+j	そばめ	sobame	横から見ること。また、そのような目付きや態度。
+j	そばや	sobaya	蕎麦や饂飩などの麺類を食べさせる店。その料理人。
+j	そばゆ	sobayu	蕎麦を茹でた後の茹で汁。
+j	そば粉	sobako	buckwheat flour
+j	そぶり	soburi	顔の表情や動作、態度などに現れた様子。
+j	そほに	sohoni	赤土。そぼに。そおに。
+j	そぼに	soboni	赤土。そほに。そおに。
+j	そぼろ	soboro	fried ground meat or egg
+j	そまる	somaru	染み込んで色が付く。
+j	そむく	somuku	意志・規則・命令などに従わず、それに反した行動を取…
+j	そめや	someya	染め物を染めて売る店。
+j	そめる	someru	染料などに浸して色を付ける。
+j	そよぎ	soyogi	「そよぐ」の連用形。
+j	そよぐ	soyogu	to rustle; to sway in the…
+j	そらす	sorasu	まっすぐな物を曲げる。
+j	そらで	sorade	腕が痛むこと。
+j	そらね	sorane	寝ているふりをすること。狸寝入り。
+j	そらみ	sorami	なんとなく見ること。
+j	そらめ	sorame	seeing something that isn…
+j	そりけ	sorike	剃り落とした毛。
+j	そりて	sorite	髪やひげなどを剃る人。出家などで剃髪する人。その役。
+j	そりみ	sorimi	体を後ろへ反らすこと。
+j	それじゃ	soreja	「それでは」のくだけた表現。
+j	それで	sorede	because of that, and, the…
+j	それな	sorena	I agree; indeed; yeah; mo…
+j	それに	soreni	besides; moreover
+j	それは	soreha	
+j	それら	sorera	「それ」の複数形
+j	それる	soreru	予定していた進路と、別の方向へ進む。
+j	そろり	sorori	slowly and quietly
+j	そわか	sowaka	娑婆訶, 莎訶, 蘇婆訶, 薩婆訶: (Buddh…
+j	そんがい	songai	
+j	そんげん	songen	尊厳: majestic
+j	ソクズ	sokuzu	蒴藋: Chinese elder
+j	ソドミー	sodomi	
+j	ソドム	sodomu	
+j	ソナタ	sonata	sonata
+j	ソノラ	sonora	
+j	ソバージュ	sobaju	根本から毛先まで細かいウェーブをかけた髪型。
+j	ソフト	sofuto	soft (giving way under pr…
+j	ソマリ	somari	the quality of belonging …
+j	ソモニ	somoni	タジキスタンの通貨。
+j	ソユーズ	soyuzu	
+j	ソルター	soruta	
+j	ソルト	soruto	塩。食塩。
+j	ソルベ	sorube	果物やリキュールを凍らせた氷菓子。シャーベット。
+j	ソロス	sorosu	
+j	ソヴェト	soveto	soviet, Soviet (form of g…
+j	ソーイング	soingu	裁縫。
+j	ソーサリー	sosari	a sorcery
+j	ソーセージ	soseji	sausage
+j	ソーラーカー	soraka	太陽電池を動力とする自動車。太陽電池自動車。
+j	仄韻	sokuin	漢字の音の四声のうち仄声の韻。
+j	促音	sokuon	a moraic obstruent (the f…
+j	俎肉	soniku	俎に載せられた肉。俎上の肉。
+j	側廊	sokuro	キリスト教の教会建築で、その中心部から柱で区切られ…
+j	側近	sokkin	close aide
+j	側頭	sokuto	synonym of こめかみ (komekami…
+j	僧俗	sozoku	僧侶と在家の者。
+j	僧服	sofuku	僧尼が着る衣服。
+j	僧食	sojiki	僧侶の食事。
+j	其の後	sonogo	（副詞的にも使われる）そのことがあった時から後。以…
+j	其の様	sonoyo	such, in that way, that k…
+j	其れ等	sorera	those
+j	其他	sonota	その他の異表記。
+j	其文字	somoji	you
+j	其田	sonoda	a surname
+j	冬青	soyogo	long stalk holly, Ilex pe…
+j	創作	sosaku	creation (especially of a…
+j	創毒	sodoku	損傷すること。
+j	創薬	soyaku	drug discovery (creation …
+j	卒中	sotchu	stroke, apoplexy
+j	卒去	sokkyo	四位、五位の者、無位の王、王女が亡くなること。
+j	卒塔婆	sotoba	stupa (structure housing …
+j	卒遽	sokkyo	俄に何かが起こること。
+j	卒都婆	sotoba	「卒塔婆」の別表記。
+j	即す	sokusu	synonym of 即する (sokusuru)
+j	即事	sokuji	a description of the even…
+j	即今	sokkon	ただいま。今現在。目下。
+j	即報	sokuho	情報を直ちに知らせること。即座に報告すること。
+j	即夜	sokuya	that night
+j	即座	sokuza	the spot; then and there
+j	即時	sokuji	at once; immediately
+j	即答	sokuto	prompt reply; instant ans…
+j	即納	sokuno	即座に納付すること。
+j	即興	sokkyo	improvisation, being off …
+j	双戟	sogeki	両手に戟を持って行う武術。
+j	双数形	sosuke	
+j	双方向	sohoko	two way, interactive
+j	双槌	sotsui	両手に槌を持って行う武術。
+j	双璧	soheki	a pair of matchless things
+j	双鎌	sokama	一つの柄に両刃がついた鎌。
+j	双頭の	sotono	
+j	双鴨山	soozan	
+j	反らす	sorasu	to bend; to warp; to curve
+j	叢劇	sogeki	忙しいさま。
+j	喞筒	sokuto	pump (device for moving l…
+j	喪心	soshin	放心状態になる。
+j	喪神	soshin	放心状態になる。
+j	園子	sonoko	a female given name
+j	園田	sonoda	a surname
+j	園部	sonobe	a surname
+j	塑像家	sozoka	塑像の制作を行う芸術家。
+j	壮亮	sosuke	a male given name
+j	壮介	sosuke	a male given name
+j	壮太郎	sotaro	a male given name
+j	壮祐	sosuke	a male given name
+j	外に	sotoni	
+j	奏する	sosuru	tell (something to the Em…
+j	奏楽	sogaku	musical performance
+j	嫉む	sonemu	to envy, to be jealous
+j	存在	sonzai	existence
+j	存置	sonchi	leaving as it is
+j	孫子	sonshi	Sun Tzu
+j	宋学	sogaku	中国宋の時代に成立した儒学の一つ。老荘、仏教などを…
+j	宗一	soichi	a male given name
+j	宗介	sosuke	a male given name
+j	宗佑	sosuke	a male given name
+j	宗助	sosuke	a male given name
+j	宗族	sozoku	祖先を同じくする一族の本家と分家。一門。
+j	宗輔	sosuke	a male given name
+j	尊人	sonjin	尊い人。貴人。
+j	尊兄	sonkei	他人または自分の兄に対する尊敬語。
+j	尊厳	songen	dignified; sanctified
+j	尊名	sonmei	尊い名前。
+j	尊君	sonkun	相手に対する二人称の尊敬語。あなたさま。貴公。尊公。
+j	尊命	sonmei	他人の命令の尊敬語。
+j	尊大	sondai	haughty, arrogant
+j	尊師	sonshi	respected teacher; revere…
+j	尊慮	sonryo	相手の思慮に対する尊敬語。お考え。
+j	尊敬	sonkei	respect, reverence, honor
+j	尊称	sonsho	an honorific title; an ho…
+j	尊覧	sonran	その人が見ること。
+j	尊邸	sontei	他人の邸宅。
+j	尊重	soncho	respect, esteem
+j	尊霊	sonryo	霊魂や亡魂に対する尊敬語。みたま。
+j	尊顔	songan	wonderous face
+j	尊顕	songen	位の高く名の顕れること。出世して有名になること。
+j	尊骸	songai	貴人の遺骸に対する尊敬語。
+j	底歩	sokofu	自陣の一番手前に打った歩兵。
+j	底翳	sokohi	one of the visual afflict…
+j	忩劇	sogeki	慌ただしいこと。多忙で落ちつかないこと。怱忙。
+j	怱劇	sogeki	慌ただしいこと。多忙で落ちつかないこと。怱忙。
+j	息女	sokujo	daughter
+j	息胤	sokuin	子孫。
+j	惣一	soichi	a male given name
+j	惣右介	sosuke	a male given name
+j	想像上	sozojo	人間の想像の中にだけ存在し、実在しないこと。
+j	惻隠	sokuin	compassion; pity
+j	捜査員	sosain	a criminal investigator
+j	捜索	sosaku	search (rescue of a missi…
+j	掃除夫	sojifu	建物の内外を掃除する役目の男性。
+j	掃除婦	sojifu	cleaning woman; cleaning …
+j	掃除屋	sojiya	掃除を行う店、人。
+j	掃除機	sojiki	vacuum cleaner
+j	損傷	sonsho	damage, injury
+j	損壊	sonkai	damage
+j	損害	songai	damage
+j	損料	sonryo	物を借りる時、その損耗の代償として支払う金銭。使用…
+j	損益	soneki	profit and loss, gain and…
+j	損税	sonzei	医療機関の控除対象外消費税のこと。
+j	損紙	sonshi	印刷や製本の工程の中で使用できなくなった紙。
+j	操機員	sokiin	船舶の機関士の指揮で機器の点検、修理などを行う者。
+j	早春	soshun	early spring
+j	早晨	soshin	朝の早い頃。
+j	早期の	sokino	
+j	早熟	sojuku	precocious
+j	曽我部	sogabe	a surname
+j	曽祖父	sosofu	great-grandfather
+j	曾祖母	sosobo	
+j	曾祖父	sosofu	
+j	村会	sonkai	かつての制度の村（地方公共団体）の議決機関。
+j	村内	sonnai	その村の区域内。
+j	村制	sonsei	地方公共団体の村としての制度。
+j	村勢	sonsei	村の人口、財政、産業、経済、資源などの情勢。
+j	村史	sonshi	村の歴史。また、それについて扱った書籍。
+j	村名	sonmei	name of a village
+j	村外	songai	その村以外の場所。
+j	村居	sonkyo	田舎に住むこと。
+j	村政	sonsei	村の政治、行政。
+j	村民	sonmin	villager or villagers, th…
+j	村税	sonzei	地方公共団体の村が住民に対して賦課し、徴収する租税。
+j	村蝶	soncho	村を代表するものとして選定された蝶。
+j	村長	soncho	a mayor
+j	村閭	sonryo	村の入口にある門。
+j	村鳥	soncho	村を代表するものとして選定された鳥。
+j	染まる	somaru	to be dyed, to be stained
+j	染めた	someta	
+j	染める	someru	to dye
+j	染戸	someko	（そめこ）令制において大蔵省織部司に属し、布地の染…
+j	槍戟	sogeki	槍と戟。
+j	注ぐ	sosogu	to pour into, to fill
+j	測度	sokudo	はかること。計測。
+j	測棹	sokkan	測量の際目標や尺度とするための長い棹。
+j	測距	sokkyo	対象となる物体までの距離を装置を使って求めること。
+j	測鉛	sokuen	綱の先に鉛のおもりをつけた水深をはかる道具。
+j	澡徳	sotoku	身を清め、徳を受けること。
+j	狙撃	sogeki	sniping
+j	率先	sossen	taking the initiative, ta…
+j	疎族	sozoku	血のつながりが遠い親戚。
+j	痩身	soshin	weight loss done for cosm…
+j	瘡毒	sodoku	synonym of 梅毒 (baidoku, “…
+j	相即	sosoku	(仏教)二つのものが相互に融合していること。
+j	相太郎	sotaro	a male given name
+j	相学	sogaku	相を調べて運勢などを判断する学問。
+j	相当な	sotona	
+j	相続	sozoku	succession or inheritance…
+j	相転移	soteni	phase transition
+j	相違点	soiten	point of difference
+j	礎石	soseki	foundation stone
+j	祖国	sokoku	homeland, motherland, fat…
+j	祖父母	sofubo	grandparents
+j	祖神	soshin	the deification of an anc…
+j	祖録	soroku	祖師が撰述したもの。
+j	租禄	soroku	年貢。
+j	空で	sorade	by heart, from memory, by…
+j	空の	sorano	
+j	空子	sorako	a female given name
+j	粗ちん	sochin	small, pathetic dick
+j	粗俗	sozoku	粗野で乱暴なこと。不作法。
+j	糟粕	sohaku	saké lees, draff
+j	素劇	sogeki	しろうとの演者が行う演劇。
+j	素因数	soinsu	整数の約数である素数だけの積によって表せるときの、…
+j	素封家	sohoka	rich man, moneybags
+j	素振り	soburi	bearing; behavior; manner
+j	素朴	soboku	naive, simple (thinking)
+j	素読	sodoku	漢籍を意味などを考えず、文字をそのまま音読すること。
+j	組閣	sokaku	forming cabinet
+j	総じて	sojite	generally, in general, as…
+j	総ずる	sozuru	まとめる。
+j	総ルビ	sorubi	文中の全ての漢字に振り仮名（ルビ）を施すこと。
+j	総一	soichi	a male given name
+j	総動員	sodoin	general mobilization
+j	総攻め	sozeme	a full-scale attack, gene…
+j	総攻撃	sozeme	a full-scale attack, gene…
+j	総理府	sorifu	各省庁の調整、栄典などを担当するため、1947年総…
+j	総画	sokaku	stroke count: the number …
+j	総督	sotoku	governor general
+j	総額	sogaku	total amount, whole sum, …
+j	背く	somuku	be contrary
+j	苑田	sonoda	a surname
+j	草する	sosuru	書き起こす。
+j	草仮名	sogana	sōgana (archaic Japanese …
+j	草創期	sosoki	物事の一番最初の時期。
+j	草屐	sogeki	わらぐつ。
+j	草賊	sozoku	山野にいる盗賊。おいはぎ。
+j	荘一	soichi	a male given name
+j	荘介	sosuke	a male given name
+j	荘六	soroku	a male given name
+j	葬儀屋	sogiya	funeral home
+j	蒴藋	sokuzu	Chinese elder, Sambucus c…
+j	蒼甫	sosuke	a male given name
+j	蒼白	sohaku	pale, pallid
+j	薗田	sonoda	a surname
+j	薗部	sonobe	a surname
+j	薩婆訶	sowaka	word added to the end of …
+j	蘇合香	sogoko	oriental sweetgum, Liquid…
+j	蘇婆訶	sobaka	word added to the end of …
+j	蘇木	soboku	dried heartwood of Bianca…
+j	装甲の	sokono	
+j	装薬	soyaku	弾丸を発射する際に薬室に火薬を装填すること。その火…
+j	訴追	sotsui	prosecution; indictment; …
+j	走戟	sogeki	戈使い。
+j	走馬灯	somato	lantern adorned with pape…
+j	足労	sokuro	相手に足を運ばせること。
+j	足部	sokubu	足の部分。
+j	蹲居	sonkyo	蹲踞の別表記。
+j	蹲踞	sonkyo	crouch; squat
+j	躁鬱	soutsu	manic depressive, mood sw…
+j	送信	soshin	transmission
+j	送籍	soseki	旧民法により結婚、養子縁組により戸籍を相手方に送り…
+j	送話器	sowaki	telephone transmitter
+j	送風機	sofuki	blower
+j	速乾	sokkan	短時間で水分が抜けて乾くこと。
+j	速報	sokuho	breaking news
+j	速度	sokudo	speed; velocity
+j	速急	sokkyu	quick; rapid
+j	速球	sokkyu	fastball
+j	速答	sokuto	速やかに答えること。すぐに答えを出すこと。
+j	逸らす	sorasu	to avert
+j	逸れる	soreru	to go astray; to deviate;…
+j	遡上高	sojoko	津波が陸地に到達した際の一番高い標高。
+j	騒劇	sogeki	騒然として忙しいこと。騒乱。騒動。
+j	麁食	sojiki	粗食の別表記。
+j	麤食	sojiki	粗食の別表記。
+j	鼠尾草	sobiso	synonym of 禊萩 (misohagi, …
+j	鼠毒	sodoku	sodoku
+j	鼠賊	sozoku	ねずみのようなこそ泥。
+k	소가야	sogaya	한국의 역사에서, 경상도 고성 부근에 있었던 …
+k	소고기	sogogi	beef
+k	소곳이	sogosi	
+k	소관	sogwan	
+k	소권	sogwon	
+k	소금	sogeum	salt
+k	소급	sogeup	applying or being done re…
+k	소꿉	sokkup	playing house, house (gam…
+k	소나기	sonagi	shower (rain that rains h…
+k	소나무	sonamu	pine, pine tree
+k	소나타	sonata	sonata (a musical composi…
+k	소녀	sonyeo	girl (young female person)
+k	소농	sonong	a small farmer, peasant
+k	소다수	sodasu	
+k	소도구	sodogu	tool; a hand tool; gadget
+k	소동	sodong	갑자기 일어난 소란스러운 일.
+k	소듐	sodyum	
+k	소득	sodeuk	income
+k	소라게	sorage	hermit crab
+k	소름	soreum	goosebumps, gooseflesh, g…
+k	소리의	soriui	
+k	소망	somang	hope
+k	소맥	somaek	somaek, beer mixed with s…
+k	소모비	somobi	
+k	소방	sobang	firefighting, fire preven…
+k	소복이	sobogi	
+k	소북이	sobugi	
+k	소비세	sobise	
+k	소비자	sobija	consumer or consumers
+k	소뿔	soppul	cow horn
+k	소상	sosang	수태음폐경에 속한 혈. 엄지손가락 노뼈 쪽 손…
+k	소설	soseol	fictional literature; fic…
+k	소세지	soseji	'소시지'의 비규범 표기.
+k	소송	sosong	lawsuit
+k	소수어	sosueo	
+k	소수파	sosupa	
+k	소시지	sosiji	sausage
+k	소아과	soagwa	paediatrics (branch of me…
+k	소아세아	soasea	
+k	소아시아	soasia	Asia Minor
+k	소양	soyang	평소 닦아 놓은 학문이나 지식.
+k	소엽	soyeop	
+k	소용	soyong	use; good
+k	소유자	soyuja	owner; proprietor; posses…
+k	소유주	soyuju	
+k	소유지	soyuji	
+k	소인수	soinsu	소수인 인수.
+k	소장	sojang	small intestine
+k	소절	sojeol	'마디'.
+k	소젖	sojeot	milk; cow's milk
+k	소제부	sojebu	cleaning woman, cleaning …
+k	소주주	sojuju	
+k	소지인	sojiin	holder, possessor, bearer
+k	소지자	sojija	
+k	소찬	sochan	
+k	소채	sochae	
+k	소출	sochul	
+k	소취	sochwi	
+k	소침	sochim	hour hand, little hand
+k	소쿠리	sokuri	
+k	소탕	sotang	성질이 수더분하고 호탕함.
+k	소택	sotaek	수태양소장경(手太陽小腸經)에 속하는 혈(穴).…
+k	소통	sotong	communication
+k	소포제	sopoje	defoamer
+k	소풍	sopung	picnic, outing, excursion
+k	소환	sohwan	summons, subpoena
+k	속간	sokgan	
+k	속개	sokgae	
+k	속계	sokgye	
+k	속곳	sokgot	
+k	속국	sokguk	
+k	속귀	sokgwi	가운데귀 안쪽에 있는 귀의 해부학적 구조물. …
+k	속단	sokdan	
+k	속담	sokdam	proverb, adage, saying
+k	속독	sokdok	
+k	속리	songni	
+k	속박	sokbak	restraining
+k	속셈	soksem	internal thoughts, secret…
+k	속속	soksok	one after another
+k	속언	sogeon	
+k	속음	sogeum	vernacular pronunciation;…
+k	속이다	sogida	to deceive, to trick, to …
+k	속죄	sokjoe	
+k	속초	sokcho	Sokcho (a city in Gangwon…
+k	속판	sokpan	
+k	속필	sokpil	
+k	속화	sokhwa	
+k	속회	sokhoe	
+k	손괴	songoe	
+k	손길	songil	내밀거나 잡거나 닿거나 만지거나 할 때의 손.
+k	손님	sonnim	guest, visitor
+k	손료	sollyo	빌려준 물건이 닳은 것에 대한 비용.
+k	손말	sonmal	sign language
+k	손목	sonmok	wrist
+k	손발	sonbal	
+k	손실	sonsil	loss
+k	손질	sonjil	trimming, repair, fix, tr…
+k	손짓	sonjit	
+k	손칼	sonkal	'손날'의 북한말.
+k	손톱	sontop	fingernail
+k	손해	sonhae	loss; damage
+k	솔개	solgae	The black-eared kite, Mil…
+k	솔솔	solsol	smoothly, gently, lightly
+k	솔숲	solsup	pine tree forest
+k	솔잎	sollip	소나무의 잎.
+k	솔직	soljik	frankness, honesty, direc…
+k	솔크	solkeu	Christmas without a roman…
+k	솜씨	somssi	skill
+k	송가	songga	
+k	송구	songgu	the act of throwing or pa…
+k	송도	songdo	Songdo Point, a cape (갑) …
+k	송로	songno	
+k	송부	songbu	sending, remittance (of a…
+k	송시	songsi	
+k	송어	songeo	The masu or masu salmon, …
+k	송자	songja	pine nut
+k	송쿠	songku	mouse, rat
+k	송키	songki	
+k	쇠감	soegam	
+k	쇠골	soegol	
+k	쇠뇌	soenoe	crossbow (weapon) (see us…
+k	쇠락	soerak	쇠약하여 말라서 떨어짐.
+k	쇠북	soebuk	bell
+k	쇠약	soeyak	
+k	쇠오리	soeori	The common teal, Anas cre…
+k	쇠옹	soeong	
+k	쇠톱	soetop	
+k	쇠퇴	soetoe	
+k	쇠풀	soepul	bluestem (Andropogon brev…
+e	so-and-so	soandso	1 meaning
+e	soapbox	soapbox	1 meaning
+e	sober up	soberup	1 meaning
+e	society	society	3 meanings
+e	soda ash	sodaash	1 meaning
+e	sofa-bed	sofabed	1 meaning
+e	soft toy	softtoy	1 meaning
+e	sojourn	sojourn	2 meanings
+e	solapur	solapur	1 meaning
+e	sold out	soldout	1 meaning
+e	soldier	soldier	4 meanings
+e	solicit	solicit	1 meaning
+e	soliton	soliton	1 meaning
+e	sologne	sologne	1 meaning
+e	soloist	soloist	1 meaning
+e	solomon	solomon	1 meaning
+e	soluble	soluble	2 meanings
+e	solvent	solvent	1 meaning
+e	somalia	somalia	1 meaning
+e	someday	someday	1 meaning
+e	somehow	somehow	1 meaning
+e	someone	someone	1 meaning
+e	songbun	songbun	1 meaning
+e	soninke	soninke	1 meaning
+e	sonless	sonless	1 meaning
+e	soondae	soondae	1 meaning
+e	sophism	sophism	1 meaning
+e	soprano	soprano	1 meaning
+e	sorbian	sorbian	1 meaning
+e	sorcery	sorcery	1 meaning
+e	sorghum	sorghum	1 meaning
+e	sororal	sororal	1 meaning
+e	sorting	sorting	1 meaning
+e	sotolon	sotolon	1 meaning
+e	soursop	soursop	2 meanings
+e	sovkhoz	sovkhoz	1 meaning
+e	soy milk	soymilk	1 meaning
+e	soybean	soybean	2 meanings
+e	são paulo	sopaulo	1 meaning
+j	そうえんすい	soensui	双円錐: bicone, dicone
+j	そうした	soshita	
+j	そうして	soshite	それから。その上。そして。
+j	そうしょく	soshoku	
+j	そうじきゅう	sojikyu	双児宮: Gemini (astrological…
+j	そうじゅうかん	sojukan	操縦桿: (aviation) control s…
+j	そうじゅうし	sojushi	操縦士: pilot
+j	そうだりん	sodarin	操舵輪: steering wheel
+j	そうにない	soninai	unlikely
+j	そうはち	sohachi	宗八: a male given name
+j	そうべつ	sobetsu	総別: generally
+j	そがいおん	sogaion	阻害音: obstruent
+j	そくいき	sokuiki	coming instantly
+j	そくせん	sokusen	塞栓: embolus
+j	そくなん	sokunan	息男: (honorific) son
+j	そけいぶ	sokeibu	鼠蹊部: groin
+j	そこあげ	sokoage	raising the baseline
+j	そこなう	sokonau	（残う・賊う・傷う・戕う・殘害う）傷つけてだめにす…
+j	そこびえ	sokobie	身体の芯まで冷えるほどに寒いこと。
+j	そこみえ	sokomie	having a visible bottom
+j	そしき	soshiki	
+j	そして	soshite	and, and then
+j	そしり	soshiri	「そしる」の連用形。
+j	そしる	soshiru	他人のことを不当に悪く言う。
+j	そだち	sodachi	「そだつ」の連用形。
+j	そだつ	sodatsu	生物が成熟してゆく、成長する。
+j	そちら	sochira	that direction; that way
+j	そっから	sokkara	from there
+j	そっくり	sokkuri	identical; spitting image…
+j	そといき	sotoiki	陰核を刺激されることにより絶頂すること。
+j	そとえら	sotoera	両生類の幼生などに見られる体外に房や羽のように突出…
+j	そなえる	sonaeru	【備える・具える】
+j	そのうえに	sonoeni	
+j	そのうち	sonochi	実現するまでにあまり時間を要さないさま。近いうち。
+j	その分	sonobun	
+j	そびえる	sobieru	tower, predominate, soar,…
+j	そまうど	somaudo	樵。杣人
+j	そやつ	soyatsu	that (medial) person
+j	そらいろ	sorairo	空模様。
+j	そりいぬ	soriinu	いぬぞりで使用する使役犬。
+j	それじゃあ	sorejaa	（くだけた口語・児童語）「それでは」に同じ。
+j	それゆえ	soreyue	前の事柄が後の事柄の理由となることを表す。それだか…
+j	それ故	soreyue	therefore; for that reaso…
+j	そろえる	soroeru	二つ以上の物の状態を同じにする。
+j	そろって	sorotte	揃って: all together; in a b…
+j	そろばん	soroban	日本や中国などで使用されている計算器。
+j	そんでも	sondemo	
+j	そんなに	sonnani	so much, like that, so
+j	そんなら	sonnara	
+j	そんらく	sonraku	村落: village, hamlet
+j	ソケット	soketto	
+j	ソサエティ	sosaeti	社会。
+j	ソサエティー	sosaeti	「ソサエティ」の表記ゆれ。
+j	ソシャゲ	soshage	
+j	ソジウム	sojiumu	synonym of ナトリウム
+j	ソックス	sokkusu	socks
+j	ソディウム	sodiumu	ナトリウムの英語名。
+j	ソトロン	sotoron	
+j	ソト人	sotojin	レソトの主要民族。バントゥー人の一派。
+j	ソニック	sonikku	sonic
+j	ソネット	sonetto	a sonnet
+j	ソノブイ	sonobui	ソナーを備えたブイ。
+j	ソビエト	sobieto	soviet (a form of governm…
+j	ソフラン	sofuran	sudden extreme change in …
+j	ソマリア	somaria	Somalia (a country in Eas…
+j	ソムリエ	somurie	a sommelier
+j	ソユット	soyutto	1302年から1309年までオスマン帝国の首都。
+j	ソリッド	soriddo	固体。
+j	ソリティア	soritia	solitaire (card game)
+j	ソリティアー	soritia	「ソリティア」の表記ゆれ。
+j	ソリトン	soriton	soliton
+j	ソレント	sorento	
+j	ソロモン	soromon	Solomon
+j	ソローニュ	soronyu	
+j	ソンピョン	sonpyon	米粉をこねて小豆・豆・胡麻などの材料のうち一つを餡…
+j	ソヴィエト	sovieto	「ソビエト」の表記ゆれ。
+j	ソヴエト	sovueto	「ソビエト」の表記ゆれ。
+j	ソーシャル	sosharu	社会的。社交的。
+j	ソースパン	sosupan	
+j	ソーダ水	sodasui	synonym of 炭酸水 (tansansui…
+j	ソーダ灰	sodahai	soda ash (sodium carbonat…
+j	ソ連の	sorenno	
+j	ソ連語	sorengo	ロシア語（ソビエト連邦が存在した時代、特に1940…
+j	ソ連邦	sorenpo	ソビエト社会主義共和国連邦の略。
+j	争奪	sodatsu	struggle, scramble
+j	争議行為	sogikoi	同盟罷業、怠業、作業所閉鎖その他労働関係の当事者が…
+j	仄声	sokusei	an oblique tone (the 上声 (…
+j	仄聞	sokubun	噂で聞くこと。かすかに聞くこと。
+j	供える	sonaeru	to offer, to sacrifice, t…
+j	促声	sokusei	synonym of 促音 (sokuon)
+j	促成	sokusei	forcing
+j	俎上の魚	sojonoo	俎に載せられた魚。
+j	倉卒	sosotsu	慌ただしく忙しいこと。また、そのようなさま。
+j	倉庫業	sokogyo	warehouse business
+j	倉庫番	sokoban	warehouseman, guard or ke…
+j	倉頡	soketsu	「蒼頡」を参照。
+j	候文	sorobun	sorobun, a historical lit…
+j	側扁	sokuhen	魚類の体型などが左右から押されたように平たいこと。
+j	側杖	sobazue	自分と関係のないこと
+j	側稜	sokuryo	角柱や角錐の側面がまじわる稜。
+j	側線	sokusen	通常使用する本線とは別に本線の側に設置された線路。
+j	側聞	sokubun	噂で聞くこと。かすかに聞くこと。
+j	側転	sokuten	開脚した状態で両手を伸ばし、そのまま倒立した状態に…
+j	側辺	sokuhen	傍ら。側面。へり。
+j	側面	sokumen	side (flat surface of an …
+j	備える	sonaeru	to prepare
+j	僧帽弁	soboben	a mitral valve
+j	僧帽筋	sobokin	a trapezius muscle
+j	先祖の	sosenno	
+j	創世期	soseiki	time of creation
+j	創世記	soseiki	Genesis (book of the Bibl…
+j	創意工夫	soikufu	creative originality, inv…
+j	創成期	soseiki	物事が初めて成立したり、できたりした時期。当初。
+j	創業家	sogyoke	創業者の一族。創業者に関連する一族。
+j	創発	sohatsu	部分の総和ではない機能が全体に現れること。
+j	創立	soritsu	establishment; founding
+j	創設	sosetsu	creation, foundation
+j	創造主	sozoshu	the Creator
+j	創造性	sozosei	creativity; creativeness
+j	創造者	sozosha	creator, maker, originator
+j	創造論	sozoron	creationism
+j	剿滅	sometsu	「掃滅」の異表記。
+j	勦絶	sozetsu	すべて滅ぼすこと。殲滅すること。
+j	勦説	sosetsu	他人が唱えた説を剽窃すること。
+j	卒園	sotsuen	graduation from kindergar…
+j	卒部	sotsubu	部活動、スポーツクラブを卒業、引退すること。
+j	即世	sokusei	人が死ぬこと。
+j	即刻	sokkoku	at once; immediately
+j	即売	sokubai	selling on the spot
+j	即成	sokusei	その場で即座にできること。
+j	即採	sokusai	即採用。
+j	即断	sokudan	即座に決断すること。即決。
+j	即智	sokuchi	その場に即応して働く知恵。機知。
+j	即死	sokushi	instant death
+j	即知	sokuchi	その場に即応して働く知恵。機知。
+j	即製	sokusei	その場で即座に作ること。
+j	即賣	sokubai	
+j	双児宮	sojikyu	Gemini
+j	双円錐	soensui	bicone, dicone
+j	双喜紋	sokimon	double happiness, 囍
+j	双懸果	sokenka	子房がいくつかに分かれ、果実が成熟すると子房ごとに…
+j	双生児	soseiji	twins
+j	双発	sohatsu	two-motored
+j	双絶	sozetsu	並ぶものがいないこと。二つとないこと。
+j	双胴船	sodosen	catamaran
+j	叢説	sosetsu	さまざまな人の説を集めたもの。
+j	咀啜	sotetsu	飲食すること。
+j	咀嚼	soshaku	mastication
+j	啐啄	sottaku	禅宗で師家と修行者との心が投合すること。
+j	城南	sonnamu	Seongnam (a city in South…
+j	塞栓	sokusen	embolus
+j	壮八	sohachi	a male given name
+j	壮大な	sodaina	
+j	壮年期	sonenki	人の発達の段階で青年期と老年期との間の期間。
+j	壮烈	soretsu	激しく勇ましいこと。
+j	壮絶	sozetsu	grand, heroic, fierce
+j	壮行会	sokokai	pep rally
+j	壮観な	sokanna	
+j	壮麗な	soreina	
+j	外税	sotozei	status that tax is exclud…
+j	奏決	soketsu	天子、天皇に奏聞し決定すること。
+j	奏達	sotatsu	天皇に奏上し、その耳に入れること。
+j	存する	sonsuru	to exist, to remain
+j	存続	sonzoku	continuation in existence
+j	孫悟空	songoku	Sun Wukong
+j	宋末	somatsu	中国の宋の時代の末期。
+j	宗八	sohachi	a male given name
+j	尊墨	sonboku	他人の筆跡や手紙に対する尊敬語。
+j	尊宅	sontaku	他人の家宅。
+j	尊属	sonzoku	ascendant
+j	尊神	sonshin	神を尊崇すること。また、その神。
+j	尊親	sonshin	親を尊ぶこと。
+j	巣窟	sokutsu	den (home of animals)
+j	底地	sokochi	leased fee interest in la…
+j	底意地	sokoiji	how one really is at bott…
+j	忖度	sontaku	surmise, guess, conjecture
+j	怱卒	sosotsu	慌ただしく忙しいこと。また、そのようなさま。
+j	息災	sokusai	good health
+j	息男	sokunan	son
+j	惣菜屋	sozaiya	惣菜を作って売る店。
+j	挿入句	sonyuku	本文のなかに語句の説明、注釈などのため挿入される句…
+j	挿入歌	sonyuka	a song sung between acts …
+j	挿入辞	sonyuji	
+j	捜査官	sosakan	捜査機関で犯罪の捜査を行う職業。
+j	捜査権	sosaken	事件や事故の捜査をする権利。
+j	掃滅	sometsu	annihilation
+j	掃除魚	soujiuo	
+j	掻爬器	souhaki	
+j	揃える	soroeru	to gather, to collect
+j	損じる	sonjiru	そこなう。うしなう。こわす。
+j	損する	sonsuru	to sustain a loss
+j	損ずる	sonzuru	to damage
+j	損なう	sokonau	to damage, to spoil, to b…
+j	損切り	songiri	値下がりした株式、証券、外貨などを売却し、損失が確…
+j	損得	sontoku	loss and gain
+j	損抑	sonyoku	抑制すること。
+j	操作性	sosasei	operability
+j	操作者	sosasha	operator
+j	操機手	sokishu	船舶の機関士の指揮で機関の運転などを行う者。
+j	操機長	sokicho	船舶の機関部における船員の職長。
+j	操縦士	sojushi	pilot (controller of airc…
+j	操縦手	sojushu	操縦のために航空機を操作する人。
+j	操縦桿	sojukan	control stick
+j	操縦者	sojusha	航空機などを操縦する者。
+j	操舵士	sodashi	大型船舶での操舵を行う人。
+j	操舵手	sodashu	大型船舶の操舵を行う者。
+j	操舵輪	sodarin	steering wheel
+j	操觚界	sokokai	記者、文筆家の世界。
+j	操車場	soshajo	車両を整備したり、組み替えたりするための施設。
+j	早期癌	sokigan	early-stage cancer
+j	早生児	soseiji	premature baby
+j	早発	sohatsu	早い時期に出発、発現すること。
+j	早着	sochaku	arriving early, ahead of …
+j	早老症	sorosho	
+j	早雪	sosetsu	早い時期に降る雪。
+j	曹洞宗	sotoshu	Sōtō school, one of the m…
+j	村俗	sonzoku	村の風俗。
+j	村樸	sonboku	樸実。
+j	村落	sonraku	village, hamlet
+j	束帯	sokutai	formal court dress, origi…
+j	桑寄生	sokisei	dried sprigs of Viscum al…
+j	桒字年	sojinen	48歳の別名。
+j	槍術	sojutsu	槍によって相手を倒す武術。
+j	橇犬	soriinu	
+j	測候所	sokkojo	気象庁が管区気象台の下部組織として設置している気象…
+j	測定	sokutei	measurement
+j	測算	sokusan	測って計算すること。
+j	測量	sokuryo	measurement
+j	然して	soshite	
+j	疎密	somitsu	coarseness and fineness; …
+j	疎植	soshoku	植物をまばらに植えること。
+j	相接	sosetsu	contact
+j	相月	sogetsu	陰暦七月の別名（参考：『新漢語林』第二版）。しょう…
+j	相術	sojutsu	家相、人相を見る術。
+j	相識	soshiki	being acquainted with eac…
+j	祖式	soshiki	手本としてならうこと。
+j	租借	soshaku	territorial lease
+j	租税法	sozeiho	租税に関する法律の総称。税法。
+j	空知	sorachi	a place name
+j	空色	sorairo	sky blue
+j	算盤	soroban	an abacus
+j	粗品	soshina	present
+j	粗密	somitsu	coarseness and fineness; …
+j	粗忽	sokotsu	軽はずみなこと。そそっかしいこと。また、そのさま。
+j	粗末	somatsu	coarse, rough, plain, poo…
+j	粗粒砂	soryusa	直径が2分の1ミリメートル以上1ミリメートル未満の…
+j	粗雑	sozatsu	雑なこと。いいかげんなこと。ぞんざいなこと。
+j	粗食	soshoku	粗末な食事をすること。またはその内容。
+j	素識	soshiki	旧知。
+j	素電荷	sodenka	電気素量の同義語。
+j	素食	soshoku	野菜だけの料理。また、粗末な食事。
+j	組織	soshiki	organization (a group of …
+j	総入れ歯	soireba	上顎または下顎の歯全部、または上下すべての歯を義歯…
+j	総別	sobetsu	generally
+j	総力	soryoku	出しうるすべての力。全力。
+j	総務相	somusho	Minister of Internal Affa…
+j	総務省	somusho	Ministry of Internal Affa…
+j	総当たり	soatari	
+j	総括	sokatsu	comprehensive
+j	総書記	soshoki	Secretary General, especi…
+j	総立ち	sodachi	all standing up
+j	総義歯	sogishi	上顎または下顎の歯全部、または上下すべての歯を義歯…
+j	総菜屋	sozaiya	「惣菜屋」の同音の漢字による書きかえ。
+j	総説	sosetsu	全体をまとめて説くこと。
+j	総重量	sojuryo	内容物や容器や包装などを含めた全体の重量。
+j	総領事	soryoji	consul-general
+j	聡明さ	someisa	
+j	聡明な	someina	
+j	聳える	sobieru	
+j	育ち	sodachi	growth, breeding, rearing…
+j	育つ	sodatsu	to be raised, to grow up
+j	草卒	sosotsu	慌ただしく忙しいこと。また、そのようなさま。
+j	草食	soshoku	herbivore
+j	荘厳な	sogonna	
+j	葬儀社	sogisha	葬儀に関する器具の販売や貸し出し、納棺や式場の手配…
+j	葬列	soretsu	葬送の行列。
+j	葬式	soshiki	funeral (ceremony to hono…
+j	葬穴	soketsu	遺骸を葬るための穴。
+j	蒼朮	sojutsu	rhizome of Atractylodes l…
+j	蒼耳子	sojishi	fruit of the common cockl…
+j	蒼頡	soketsu	Cangjie (the legendary fi…
+j	蔬食	soshoku	vegetarian food; vegetari…
+j	蘇維埃	sobieto	「ソビエト」の当て字。
+j	蘇鉄	sotetsu	sago palm (Cycas revoluta…
+j	袖章	sodesho	制服の袖につけ、所属、階級をあらわすための記章。
+j	装甲兵	sokohei	装甲戦闘車両を使用しての攻撃や偵察、それに伴う整備…
+j	装甲艦	sokokan	装甲を施した艦船。
+j	装甲車	sokosha	armoured car
+j	装着	sochaku	mounting, equipping, wear…
+j	装飾	soshoku	decoration, ornament
+j	訴訟法	soshoho	
+j	謗る	soshiru	to slander; to vilify
+j	走力	soryoku	running ability
+j	走化性	sokasei	
+j	走卒	sosotsu	使い走りなどをする下部。下僕。
+j	走資派	soshiha	capitalist roader
+j	足底	sokutei	a sole; a planta
+j	送別	sobetsu	farewell, send-off
+j	送達	sotatsu	送り、届けること。
+j	速了	sokuryo	早合点。早呑込み。
+j	速成	sokusei	物事を早く仕上げること。
+j	速断	sokudan	速やかに決断や判断すること。
+j	鎗術	sojutsu	槍術の別表記。
+j	鑓術	sojutsu	槍術の別表記。
+j	阻害音	sogaion	obstruent
+j	霜雪	sosetsu	霜と雪。
+j	鼠咬症	sokosho	鼠にかまれることによる感染症。鼠咬症スピロヘータに…
+j	鼠径部	sokeibu	腹部と両下肢とが接する内側の部分。太股の内側の付け…
+j	鼠蹊部	sokeibu	groin
+j	鼠頸部	sokeibu	腹部と両下肢とが接する内側の部分。太股の内側の付け…
+k	소가족	sogajok	
+k	소갈비	sogalbi	‘쇠갈비’를 달리 이르는 말.
+k	소개소	sogaeso	
+k	소견	sogyeon	
+k	소구치	soguchi	
+k	소규모	sogyumo	
+k	소기업	sogieop	
+k	소꼬리	sokkori	
+k	소낙비	sonakbi	shower (a brief fall of r…
+k	소네트	soneteu	
+k	소년	sonyeon	boy (older than 6 years o…
+k	소뎅이	sodengi	'소댕'의 강원도 사투리.
+k	소독기	sodokgi	
+k	소독수	sodoksu	
+k	소독의	sodogui	
+k	소독제	sodokje	disinfectant
+k	소등	sodeung	
+k	소디끼	sodikki	'누룽지'의 강원도 사투리.
+k	소똥	sottong	
+k	소량	soryang	양이 적음.
+k	소렌토	sorento	
+k	소련	soryeon	(historical) Soviet Union…
+k	소르베	soreube	
+k	소림사	sorimsa	
+k	소립자	soripja	elementary particle, suba…
+k	소만두	somandu	
+k	소매인	somaein	
+k	소면	somyeon	화장을 하지 아니한 얼굴.
+k	소멸	somyeol	vanishing
+k	소모율	somoyul	
+k	소모품	somopum	
+k	소문자	somunja	minuscule, lowercase lett…
+k	소변	sobyeon	urine
+k	소비재	sobijae	
+k	소생	sosaeng	
+k	소성	soseong	
+k	소수화	sosuhwa	
+k	소승	soseung	개인의 해탈을 위주로 수행하는 불교의 한 갈래.
+k	소시락	sosirak	풀잎이나 나뭇가지 따위가 가볍게 움직일 때 나…
+k	소시민	sosimin	
+k	소식자	sosikja	
+k	소심자	sosimja	
+k	소아마비	soamabi	
+k	소야곡	soyagok	'세레나데'
+k	소유물	soyumul	possession, property
+k	소유스	soyuseu	
+k	소음기	soeumgi	
+k	소인배	soinbae	도량이 좁고 간사한 사람을 이르는 말.
+k	소자본	sojabon	
+k	소작인	sojagin	
+k	소작지	sojakji	
+k	소재지	sojaeji	location
+k	소제목	sojemok	
+k	소주잔	sojujan	
+k	소지죄	sojijoe	
+k	소지품	sojipum	effects, personal belongi…
+k	소쩍	sojjeok	
+k	소천	socheon	
+k	소철	socheol	(학명: Cycas revoluta)
+k	소첩	socheop	
+k	소총	sochong	rifle
+k	소케트	soketeu	
+k	소편	sopyeon	
+k	소포체	sopoche	세포질에 존재하는 단일막 구조의 세포소기관. …
+k	소행	sohaeng	
+k	소홀히	soholhi	
+k	소화기	sohwagi	fire extinguisher
+k	소화제	sohwaje	
+k	속강	sokgang	
+k	속공	sokgong	
+k	속기사	sokgisa	
+k	속내	songnae	겉으로 드러나지 아니한 속마음이나 일의 내막.
+k	속론	songnon	
+k	속물	songmul	속된 물건이라는 뜻에서, 주로 배운 것이 하찮…
+k	속바지	sokbaji	
+k	속사포	soksapo	
+k	속설	sokseol	'속담'.
+k	속오군	sogogun	
+k	속임수	sogimsu	deceit, deception, tricke…
+k	속전	sokjeon	민간에 말을 퍼뜨려 전함. 또는 그렇게 전하여…
+k	속출	sokchul	
+k	속하다	sokhada	To be part of; to be a me…
+k	손괘	songwae	
+k	손금	songeum	
+k	손녀	sonnyeo	granddaughter
+k	손상	sonsang	harm; damage; injury
+k	손색	sonsaek	
+k	손수레	sonsure	handcart, wheelbarrow
+k	손아귀	sonagwi	the space between the thu…
+k	손아래	sonarae	
+k	손잡이	sonjabi	handle; grip (in general)
+k	솔나무	sollamu	
+k	솔도파	soldopa	
+k	솔선	solseon	
+k	솔페주	solpeju	
+k	솜땀	somttam	som tam
+k	솜털	somteol	down
+k	송곳	songgot	awl, gimlet
+k	송독	songdok	
+k	송림	songnim	Songrim (a city in North …
+k	송아지	songaji	calf
+k	송진	songjin	
+k	송치	songchi	transferring of a case to…
+k	쇠고기	soegogi	beef
+k	쇠금	soegeum	a hanja name of the iron …
+k	쇠때	soettae	key
+k	쇠뿔	soeppul	the horns of a cow or bull
+k	쇠젖	soejeot	
+k	쇠지레	soejire	
+k	쇠파리	soepari	학명: hypoderma bovis쇠파릿과의 …
+k	쇠하다	soehada	to wane, to wither, to de…
+k	쇳돌	soetdol	ore
+e	so-called	socalled	2 meanings
+e	soap dish	soapdish	1 meaning
+e	soapwort	soapwort	1 meaning
+e	sob story	sobstory	1 meaning
+e	sobriety	sobriety	2 meanings
+e	sociable	sociable	1 meaning
+e	socrates	socrates	1 meaning
+e	sodomite	sodomite	1 meaning
+e	soft rush	softrush	1 meaning
+e	soft spot	softspot	1 meaning
+e	softball	softball	2 meanings
+e	software	software	1 meaning
+e	sogdiana	sogdiana	1 meaning
+e	solar day	solarday	1 meaning
+e	solatium	solatium	1 meaning
+e	solecism	solecism	1 meaning
+e	solemnly	solemnly	1 meaning
+e	solitary	solitary	6 meanings
+e	solitude	solitude	1 meaning
+e	solresol	solresol	1 meaning
+e	solstice	solstice	1 meaning
+e	solution	solution	3 meanings
+e	solvable	solvable	2 meanings
+e	solvency	solvency	1 meaning
+e	solyanka	solyanka	1 meaning
+e	sombrero	sombrero	1 meaning
+e	somebody	somebody	1 meaning
+e	someone's	someones	1 meaning
+e	sometime	sometime	1 meaning
+e	somewhat	somewhat	1 meaning
+e	son of man	sonofman	1 meaning
+e	son-in-law	soninlaw	1 meaning
+e	sonatina	sonatina	1 meaning
+e	songbird	songbird	1 meaning
+e	songbook	songbook	1 meaning
+e	songster	songster	1 meaning
+e	sonorant	sonorant	1 meaning
+e	sony pony	sonypony	1 meaning
+e	soramimi	soramimi	1 meaning
+e	sorbitol	sorbitol	1 meaning
+e	sorbonne	sorbonne	2 meanings
+e	sorcerer	sorcerer	1 meaning
+e	sorrento	sorrento	1 meaning
+e	sorsogon	sorsogon	1 meaning
+e	soul food	soulfood	1 meaning
+e	soulless	soulless	1 meaning
+e	soulmate	soulmate	1 meaning
+e	soup bowl	soupbowl	1 meaning
+e	sour milk	sourmilk	1 meaning
+e	sourness	sourness	1 meaning
+e	southern	southern	1 meaning
+e	southpaw	southpaw	2 meanings
+e	souvenir	souvenir	1 meaning
+e	souvlaki	souvlaki	1 meaning
+e	soy sauce	soysauce	1 meaning
+e	são filipe	sofilipe	1 meaning
+j	そういちろう	soichiro	宗一郎: a male given name
+j	そうがんきょう	sogankyo	
+j	そうきたか	sokitaka	That was unexpected. I di…
+j	そうしきゅう	soshikyu	双子宮: Gemini (astrological…
+j	そうしびょう	soshibyo	
+j	そうですか	sodesuka	
+j	そうですね	sodesune	that's so, isn't it so?
+j	そくあつ	sokuatsu	側圧: lateral pressure
+j	そくしん	sokushin	促進: promotion
+j	そけいかん	sokeikan	鼠蹊管: inguinal canal
+j	そこそこ	sokosoko	fairly, considerably
+j	そこぬけ	sokonuke	底が抜けて無いこと。また、そのもの。
+j	そこねる	sokoneru	損なう。
+j	そこまめ	sokomame	（底豆）落花生の別称。
+j	そそくさ	sosokusa	hastily
+j	そだてる	sodateru	動物・植物に栄養を与え、成長させる。
+j	そっけない	sokkenai	思いやりがない。
+j	そつにゅう	sotsunyu	卒乳: weaning
+j	そとがわ	sotogawa	外側: the outside, the exte…
+j	そとじろ	sotojiro	城郭の本丸に対する外郭。
+j	そとづら	sotozura	物の表面。外面。
+j	そとはね	sotohane	curled ends of the hair
+j	そとばこ	sotobako	outer box; (of books) sli…
+j	そとぼり	sotobori	城の周囲に掘られた堀。
+j	そとまご	sotomago	自分の孫のうち、跡取りの子でないもの。
+j	そとむき	sotomuki	外側に向かうこと。
+j	そとロケ	sotoroke	filming outside
+j	そなわる	sonawaru	不足なく揃っている
+j	そにどり	sonidori	日本神話に登場する蒼緑色の鳥。
+j	そのくせ	sonokuse	前述の事柄を受けて、それとは相反する関係であること…
+j	そのため	sonotame	
+j	そのとき	sonotoki	
+j	そのほか	sonohoka	前で述べた物事以外のもの。
+j	そのまま	sonomama	as is; as it is; without …
+j	そのもの	sonomono	used for emphasis; the th…
+j	そのような	sonoyona	
+j	その上に	sonoueni	
+j	その他	sonohoka	et cetera
+j	その他は	sonohoka	
+j	その内	sonouchi	soon, before long
+j	その場で	sonobade	
+j	その場合	sonobaai	
+j	その時	sonotoki	
+j	その通り	sonotori	That's right, you can say…
+j	その間	sonoaida	
+j	そばかす	sobakasu	蕎麦殻。
+j	そばがき	sobagaki	蕎麦粉を熱湯で捏ね、餅のようにした食品。
+j	そばがら	sobagara	蕎麦の実を取り除いたあとの殻。そばかす。
+j	そばきり	sobakiri	蕎麦粉につなぎを加えて捏ね、薄く伸ばして切り、細く…
+j	そびれる	sobireru	to lose the chance to do,…
+j	そぼそぼ	sobosobo	drizzling
+j	そぼ降る	sobofuru	to fall gently; to drizzle
+j	そまびと	somabito	樵。杣人。
+j	そむける	somukeru	顔や視線を他へそらす。
+j	そめもの	somemono	dyeing; or, a dyed item
+j	そもそも	somosomo	in the first place, to be…
+j	そよかぜ	soyokaze	速さが極めて遅い風。
+j	そよがす	soyogasu	to rustle, (of the wind) …
+j	そよそよ	soyosoyo	softly, gently
+j	そよふく	soyofuku	風がそよそよと吹く。
+j	そよ吹く	soyofuku	to blow gently
+j	そらごと	soragoto	嘘。偽り。
+j	そらばら	sorabara	腹痛を装うこと。
+j	そらまめ	soramame	マメ科の一年草。ヨーロッパでは古来栽培されてきた。…
+j	そらみみ	soramimi	実際に音や声はしないのに本人には聞こえること。幻聴。
+j	それから	sorekara	and then; after that
+j	それきり	sorekiri	that, and no more
+j	それこそ	sorekoso	「そのこと」を強調する語。本当に。
+j	それぞれ	sorezore	each, every, either, resp…
+j	それだけ	soredake	to such an extent
+j	それっぽい	soreppoi	appropriately resembling
+j	それでは	soredewa	then; if so; in that case
+j	それでも	soredemo	still, nevertheless, even…
+j	それとも	soretomo	or
+j	それなら	sorenara	if that's the case, in th…
+j	それなり	sorenari	as it is
+j	それほど	sorehodo	to that degree, extent
+j	それより	soreyori	more importantly
+j	それ以来	soreirai	
+j	そろそろ	sorosoro	slowly
+j	そわそわ	sowasowa	nervous; uneasy; fidgety
+j	そんしょく	sonshoku	遜色: inferiority
+j	そんのうろん	sonnoron	尊皇論, 尊王論: the idea to res…
+j	ソウルフード	sorufudo	アメリカ南部の黒人の間で伝わる料理。
+j	ソッレント	sorrento	
+j	ソフテニ	sofuteni	
+j	ソフホーズ	sofuhozu	sovkhoz
+j	ソプラノ	sopurano	soprano
+j	ソマリ語	somarigo	the Somali language
+j	ソムタム	somutamu	som tam (Thai-style spicy…
+j	ソラマメ	soramame	「そらまめ」の学術的表記。
+j	ソリスト	sorisuto	
+j	ソリャンカ	soryanka	
+j	ソルガム	sorugamu	蜀黍 の類義語。
+j	ソルフェージュ	sorufeju	solfège
+j	ソルブ語	sorubugo	ドイツザクセン州周辺に住む少数民族ソルブ人によって…
+j	ソヴェトの	sovetono	
+j	ソースコード	sosukodo	source code
+j	ソートする	sotosuru	
+j	ソートレーキ	sotoreki	Salt Lake: Salt Lake City…
+j	ソードテール	sodoteru	カダヤシ目カダヤシ科ソードテール属の淡水魚。
+j	ソーラープル	sorapuru	
+j	ソーラーボート	soraboto	太陽電池を動力とするボート。
+j	ソ連人	sorenjin	
+j	促迫	sokuhaku	差し迫ること。
+j	促進	sokushin	promotion; the act of exp…
+j	側圧	sokuatsu	lateral pressure
+j	側壁	sokuheki	側面の壁や仕切り。
+j	側屈	sokkutsu	体を横に曲げること。
+j	側目	sokumoku	注意して見ること。注視。
+j	側薬	sokuyaku	マッチで、箱の側面についている、頭薬を擦る部分。赤…
+j	側頭窩	sokutoka	a temporal fossa
+j	側頭葉	sokutoyo	a temporal lobe
+j	側頭部	sokutobu	頭部の側面の部分。
+j	備わる	sonawaru	to be equipped with, to p…
+j	其々	sorezore	
+j	其の癖	sonokuse	nonetheless, and yet
+j	則する	sokusuru	規則、規範、原則などに従う。反せず、合う。
+j	創出	soshutsu	creation
+j	創業者	sogyosha	founder of a business
+j	創造する	sozosuru	
+j	創造的	sozoteki	creative
+j	創造神	sozoshin	a creator deity
+j	卒アル	sotsuaru	
+j	卒乳	sotsunyu	weaning
+j	卒制	sotsusei	卒業制作の略称。
+j	卒団	sotsudan	少年団やスポーツクラブを卒業、引退すること。
+j	卒展	sotsuten	卒業設計展、卒業制作展の略称。
+j	卒業	sotsugyo	graduation
+j	卒然	sotsuzen	sudden
+j	卒研	sotsuken	卒業研究の略称。
+j	卒計	sotsukei	卒業設計の略称。
+j	卒論	sotsuron	卒業論文の略。
+j	即する	sokusuru	（「～に即する」の形で）～に適合する。～に対して矛…
+j	即レス	sokuresu	replying instantly; insta…
+j	即効性	sokkosei	immediate effect, instant…
+j	即席	sokuseki	being impromptu, extempor…
+j	即心	sokushin	迷いのある心そのまま。
+j	即時の	sokujino	
+j	即決	sokketsu	instant decision
+j	即興で	sokkyode	
+j	即身	sokushin	生身の体。
+j	双子宮	soshikyu	synonym of 双児宮 (Sōjikyū, …
+j	双子筋	soshikin	a gemellus muscle
+j	双対数	sotsuisu	二重数を参照。
+j	双方向の	sohokono	
+j	双眼鏡	sogankyo	binoculars
+j	双魚宮	sogyokyu	Pisces
+j	喪失	soshitsu	forfeiture, loss
+j	園原	sonohara	a surname
+j	壮大さ	soudaisa	
+j	外カメ	sotokame	rear-facing camera
+j	外側	sotogawa	the outside; the exterior…
+j	外枠	sotowaku	outer border; outside fra…
+j	存没	sonbotsu	生と死。
+j	存立	sonritsu	existence
+j	宋朝体	sochotai	Imitation Song typeface
+j	宗一郎	soichiro	a male given name
+j	宗主権	soshuken	suzerainty, the power of …
+j	宗主權	soshuken	
+j	尊大な	sondaina	
+j	尊敬語	sonkeigo	reverential language; exa…
+j	尊王攘夷	sonnojoi	revere the emperor, expel…
+j	尊王論	sonnoron	royalism: the idea to res…
+j	尊皇攘夷	sonnojoi	政治的スローガンの一つ。天皇を尊び、外国人を排斥す…
+j	尊皇論	sonnoron	royalism: the idea to res…
+j	層積雲	sosekiun	stratocumulus
+j	底抜け	sokonuke	bottomless
+j	微風	soyokaze	a breeze, a gentle to mod…
+j	惣菜パン	sozaipan	「総菜パン」の表記ゆれ。
+j	惣菜店	sozaiten	惣菜を販売する店。
+j	想像する	sozosuru	
+j	想定内	soteinai	事前に予想していた範囲に収まっているさま。
+j	想定外	soteigai	事前に予想していた範囲を外れているさま。
+j	想起する	sokisuru	
+j	惻心	sokushin	悼み、憐れむ心。惻隠の心。
+j	掃引する	soinsuru	
+j	掃気	sokisuru	to scavenge
+j	掃海艇	sokaitei	minesweeper
+j	掃海艦	sokaikan	掃海任務で使用される大型の艦艇。
+j	掃除する	sojisuru	
+j	損ねる	sokoneru	to damage (one's health)
+j	操作する	sosasuru	
+j	操縦する	sojusuru	
+j	操縦席	sojuseki	cockpit
+j	操舵する	sodasuru	
+j	早出	soshutsu	（家などを）いつもより早く出ること。勤務先にいつも…
+j	早慶戦	sokeisen	a game/match between team…
+j	曽姪孫	sotesson	姪孫の子。甥や姪の孫。
+j	曽祖父母	sosofubo	祖父母の両親（父と母）。
+j	曾祖父母	sosofubo	祖父母の親。親の祖父母。曾祖父と曾祖母。
+j	村立	sonritsu	地方公共団体の村が設立、運営する施設。
+j	村議会	songikai	a village assembly
+j	束縛	sokubaku	restraint, shackles
+j	染谷	sometani	a surname
+j	桑白皮	sohakuhi	mulberry root bark
+j	梳櫛	soshitsu	櫛でけずること。
+j	測深	sokushin	深さ（特に水深）を測ること。
+j	測距儀	sokkyogi	
+j	狙撃銃	sogekiju	a sniper rifle
+j	玄姪孫	sotesson	曽姪孫の子。甥や姪の曽孫。
+j	率然	sotsuzen	にわかなこと。また、そのさま。突然。
+j	率直	sotchoku	frank, direct, honest
+j	疎水性	sosuisei	hydrophobicity
+j	疏失	soshitsu	失策すること。
+j	相乗効果	sojokoka	synergy
+j	相互作用	sogosayo	interaction
+j	相互扶助	sogofujo	互いに助け合うこと。
+j	相対位相	sotaiiso	位相空間の部分集合と位相の共通部分から導入される、…
+j	相対性	sotaisei	relativity
+j	相対論	sotairon	「相対性理論」の略。
+j	相当する	sotosuru	
+j	相思鳥	soshicho	red-billed leiothrix (Lei…
+j	礎礩	soshitsu	礎石。
+j	祖執	soshitsu	祖父の友人。
+j	祖室	soshitsu	（達磨大師が開いた）禅門。
+j	空模様	soramoyo	look of the sky; weather
+j	空耳	soramimi	auditory hallucination, m…
+j	空豆	soramame	
+j	空飛ぶ	soratobu	to fly in the air
+j	笽島	sokejima	a surname
+j	簇出	soshutsu	群がり、出ること。
+j	粗悪品	soakuhin	品質が粗悪で役に立たない物。
+j	粗相	sososuru	to blunder
+j	粗製品	soseihin	作りが粗雑または品質が悪い製品。
+j	素っ気ない	sokkenai	brusque (rudely abrupt, u…
+j	素っ気無い	sokkenai	cold, short, brusque, curt
+j	素室	soshitsu	貧しい家。
+j	素粒子	soryushi	an elementary particle
+j	素質	soshitsu	the makings, personal qua…
+j	総一朗	soichiro	a male given name
+j	総主教	soshukyo	patriarch (in an Orthodox…
+j	総司令	soshirei	総司令官
+j	総合する	sogosuru	
+j	総合的	sogoteki	別々の物事を一つにまとめるさま。
+j	総合遊具	sogoyugu	play structure
+j	総崩れ	sokuzure	戦いで陣形や隊形が崩れること。
+j	総掛かり	sogakari	a concentrated attack wit…
+j	総本山	sohonzan	head temple of a sect
+j	総状花序	sojokajo	
+j	総画数	sokakusu	文字、特に漢字における、全ての画数。総画。
+j	総督府	sotokufu	government-general
+j	総菜パン	sozaipan	揚げ物やサラダなどを具として入れたり、挟んだりした…
+j	総菜店	sozaiten	「惣菜店」の同音の漢字による書きかえ。
+j	総選挙	sosenkyo	an election held when the…
+j	總督府	sotokufu	
+j	聡一郎	soichiro	a male given name
+j	育てる	sodateru	to raise, to rear, to fos…
+j	背ける	somukeru	to turn away; to face away
+j	草書体	soshotai	草書で書かれた文字。
+j	草泥馬	soudeiba	
+j	蕎麦がき	sobagaki	sobagaki, a dish of buckw…
+j	装蹄師	soteishi	うしやうまなどの動物のひづめに蹄鉄を装着する技術者
+j	足病医	sokubyoi	podiatrist
+j	足蹠	sokuseki	sole (bottom of a shoe or…
+j	送信機	soshinki	transmitter
+j	送受信	sojushin	sending and receiving
+j	送受話器	sojuwaki	
+j	送電線	sodensen	送電のための電線。
+j	速決	sokketsu	速やかに決めること。
+j	速記官	sokkikan	速記を担当する官職。
+j	速読	sokudoku	speedreading
+j	遜色	sonshoku	inferiority
+j	遭遇する	sogusuru	
+j	遭難者	sonansha	遭難した者。災難に遭遇した者。
+j	阻害剤	sogaizai	
+j	雀斑	sobakasu	freckles
+j	雙子宮	soshikyu	
+j	駔疾	soshitsu	駻馬。暴れ馬。
+j	騒々しい	sozoshii	noisy, boisterous
+j	騒騒しい	sozoshii	音や声などがやかましい。騒がしい。うるさい。
+j	鼠蹊管	sokeikan	inguinal canal
+k	소각로	sogangno	
+k	소개업	sogaeeop	
+k	소경	sogyeong	
+k	소관사	sogwansa	
+k	소괄호	sogwalho	문장 부호의 하나: ()
+k	소까락	sokkarak	
+k	소꾸락	sokkurak	
+k	소나가온	sonagaon	
+k	소나티나	sonatina	
+k	소나티네	sonatine	짧은 소나타.
+k	소낙눈	sonaknun	소낙눈은 기층이 불안정할 때 갑자기 발달한 적…
+k	소농가	sonongga	
+k	소닉 붐	sonikbum	
+k	소단원	sodanwon	
+k	소대원	sodaewon	
+k	소독저	sodokjeo	
+k	소독차	sodokcha	
+k	소득세	sodeukse	소득에 따라 내는 세금.
+k	소라니어	soranieo	쿠르드어에서 파생되어 나온 언어 중 하나.
+k	소령	soryeong	a major
+k	소르르	soreureu	
+k	소리꾼	sorikkun	a singer, especially a si…
+k	소리소리	sorisori	
+k	소리하다	sorihada	to sing a traditional fol…
+k	소마소마	somasoma	무섭거나 두려워서 마음이 초조한 모양.
+k	소말리아	somallia	Somalia (a country in Afr…
+k	소매업	somaeeop	
+k	소명	somyeong	까닭이나 이유를 밝혀 설명함.
+k	소모전	somojeon	war of attrition
+k	소모하다	somohada	
+k	소박미	sobangmi	
+k	소박한	sobakhan	
+k	소방수	sobangsu	firefighter
+k	소비도시	sobidosi	
+k	소비에트	sobieteu	soviet, Soviet (form of g…
+k	소비주의	sobijuui	
+k	소비하다	sobihada	to consume, to spend (tim…
+k	소산물	sosanmul	
+k	소상인	sosangin	
+k	소석고	soseokgo	
+k	소설가	soseolga	novelist (author of novel…
+k	소소하다	sosohada	
+k	소속감	sosokgam	
+k	소수당	sosudang	
+k	소수점	sosujeom	소수를 표기하는데 쓰는 점. 국가에 따라 온점…
+k	소옴소옴	soomsoom	
+k	소유권	soyugwon	무언가를 소유하는 것에 대한 권리.
+k	소유하다	soyuhada	to own; to possess
+k	소음순	soeumsun	labia minora
+k	소일하다	soilhada	
+k	소장암	sojangam	'작은창자암'.
+k	소장파	sojangpa	
+k	소전제	sojeonje	
+k	소제하다	sojehada	to clean
+k	소주방	sojubang	
+k	소중히	sojunghi	매우 중요하게 생각하면서.
+k	소지하다	sojihada	to possess
+k	소집회	sojiphoe	
+k	소청	socheong	
+k	소택지	sotaekji	
+k	소품곡	sopumgok	
+k	소학교	sohakgyo	primary school
+k	소해함	sohaeham	
+k	소형	sohyeong	small size; pocket size
+k	소화계	sohwagye	음식물에 대한 섭취·분해·흡수를 통하여 영양분…
+k	소화물	sohwamul	
+k	소화액	sohwaaek	
+k	소환제	sohwanje	
+k	속격	sokgyeok	문장에서 명사나 대명사가 누구의 소유인지를 나…
+k	속견	sokgyeon	laymen's opinion
+k	속결	sokgyeol	
+k	속기록	sokgirok	
+k	속기술	sokgisul	
+k	속도계	sokdogye	
+k	속되다	sokdoeda	to be vulgar; to become v…
+k	속뜻	soktteut	ulterior motive, real mea…
+k	속보판	sokbopan	
+k	속삭임	soksagim	whisper, murmur
+k	속성	sokseong	attribute, property, qual…
+k	속천	sokcheon	
+k	속칭	sokching	common name
+k	속편	sokpyeon	sequel
+k	속행	sokhaeng	
+k	손가락	songarak	finger
+k	손거울	songeoul	손잡이가 있어 손으로 잡을 수 있는 거울을 통…
+k	손결	songyeol	손의 살결.
+k	손고락	songorak	
+k	손구락	songurak	
+k	손끝	sonkkeut	fingertip
+k	손님네	sonnimne	Used other than figurativ…
+k	손대다	sondaeda	to touch, make contact wi…
+k	손등	sondeung	
+k	손떼다	sontteda	
+k	손바닥	sonbadak	palm (inner, concave part…
+k	손벽	sonbyeok	'손뼉'의 북한말.
+k	손사래	sonsarae	어떤 사실을 부인하거나 거절할 때 손을 펴서 …
+k	손시계	sonsigye	문화어에서 ‘손목시계’를 달리 이르는 말.
+k	손실다	sonsilda	
+k	손싸다	sonssada	to be suitable and modera…
+k	손오공	sonogong	Sun Wukong
+k	손유희	sonyuhui	
+k	손익표	sonikpyo	
+k	손잡다	sonjapda	to grasp one's hands; to …
+k	손재수	sonjaesu	
+k	손하트	sonhateu	
+k	솔나물	sollamul	
+k	솔레솔	sollesol	
+k	솔로몬	sollomon	Solomon
+k	솔바람	solbaram	pine breeze (wind blowing…
+k	솔직히	soljikhi	honestly
+k	솔쿰부	solkumbu	
+k	솔터리	solteori	
+k	솝호스	sophoseu	
+k	송금	songgeum	remittance
+k	송나라	songnara	the Song state, a small a…
+k	송사리	songsari	The Asiatic ricefish, Ory…
+k	송송	songsong	연한 물건을 조금 잘게 빨리 써는 모양.
+k	송엽	songyeop	
+k	송자주	songjaju	
+k	송장	songjang	invoice
+k	송지유	songjiyu	
+k	송풍	songpung	
+k	송하인	songhain	
+k	송환	songhwan	
+k	쇠걸이	soegeori	'잠금장치'의 북한말.
+k	쇠뇌수	soenoesu	쇠뇌를 쏘는 사수.
+k	쇠똥	soettong	cow dung, cow manure, cow…
+k	쇠붙이	soebuchi	iron
+k	쇠뼈	soeppyeo	beef bone
+e	so much for	somuchfor	1 meaning
+e	so to speak	sotospeak	1 meaning
+e	soap opera	soapopera	1 meaning
+e	soapstone	soapstone	1 meaning
+e	socceroos	socceroos	1 meaning
+e	socialism	socialism	3 meanings
+e	socialist	socialist	2 meanings
+e	socialize	socialize	1 meaning
+e	sociology	sociology	1 meaning
+e	sociopath	sociopath	1 meaning
+e	soda bread	sodabread	1 meaning
+e	soda water	sodawater	1 meaning
+e	soft drink	softdrink	2 meanings
+e	soft power	softpower	1 meaning
+e	soft serve	softserve	1 meaning
+e	soft water	softwater	1 meaning
+e	solar cell	solarcell	1 meaning
+e	solar mass	solarmass	1 meaning
+e	solar wind	solarwind	1 meaning
+e	soldering	soldering	1 meaning
+e	solenodon	solenodon	1 meaning
+e	solicitor	solicitor	2 meanings
+e	soliloquy	soliloquy	2 meanings
+e	something	something	2 meanings
+e	sometimes	sometimes	1 meaning
+e	somewhere	somewhere	2 meanings
+e	sommelier	sommelier	1 meaning
+e	sonargaon	sonargaon	1 meaning
+e	sonic boom	sonicboom	1 meaning
+e	sophistry	sophistry	1 meaning
+e	sophocles	sophocles	1 meaning
+e	sophomore	sophomore	1 meaning
+e	soporific	soporific	2 meanings
+e	sorceress	sorceress	1 meaning
+e	sorrowful	sorrowful	2 meanings
+e	sotto voce	sottovoce	1 meaning
+e	soul music	soulmusic	1 meaning
+e	soul patch	soulpatch	1 meaning
+e	sound card	soundcard	1 meaning
+e	sound post	soundpost	1 meaning
+e	sound wave	soundwave	1 meaning
+e	soundfont	soundfont	1 meaning
+e	soupspoon	soupspoon	1 meaning
+e	sour cream	sourcream	1 meaning
+e	sourdough	sourdough	1 meaning
+e	south asia	southasia	1 meaning
+e	south pole	southpole	2 meanings
+e	south wind	southwind	1 meaning
+e	southeast	southeast	1 meaning
+e	southerly	southerly	1 meaning
+e	southwest	southwest	1 meaning
+e	sovereign	sovereign	3 meanings
+e	soyapango	soyapango	1 meaning
+j	そいとげる	soitogeru	死ぬまで夫婦として暮らす。
+j	そういうもの	souiumono	
+j	そうしたら	soshitara	and then, what happens ne…
+j	そぎおとす	sogiotosu	髪を切り落とす。
+j	そくどけい	sokudokei	速度計: speedometer
+j	そくはつ	sokuhatsu	即発: immediate explosion
+j	そくめんおん	sokumenon	側面音: lateral consonant
+j	そくりょく	sokuryoku	
+j	そぐわない	soguwanai	
+j	そこなし	sokonashi	底が見えないほど深いこと。
+j	そしたら	soshitara	
+j	そちのけ	sochinoke	（本来やるべきことなどをやらずに）放っておくこと。…
+j	そっくりの	sokkurino	
+j	そでぐち	sodeguchi	衣服の袖の縁の部分。
+j	そとだし	sotodashi	射精の直前に膣から男性器を抜いて射精を行うこと。
+j	そなえもの	sonaemono	神仏などに供える物。供物。
+j	そののち	sononochi	（副詞的にも使われる）その時から後。
+j	その奴	sonoyatsu	
+j	その実	sonojitsu	in fact
+j	その時点	sonojiten	
+j	そばだつ	sobadatsu	聳え立つ。
+j	そらいびき	soraibiki	空鼾: a fake snore, a snore…
+j	そらわらい	sorawarai	おかしくも嬉しくもないのに無理に笑うこと。作り笑い。
+j	そらんじる	soranjiru	（「そらんずる」の転訛）暗唱（暗誦）する。
+j	そらんずる	soranzuru	暗唱（暗誦）する。
+j	そりかえる	sorikaeru	後ろに大きく反る。
+j	そり遊び	soriasobi	
+j	それっきり	sorekkiri	「それきり」を強調した語。
+j	それっぽく	soreppoku	just like something
+j	それでいて	soredeite	前文の内容が真であることを強調しつつ、前文の内容と…
+j	それ故に	soreyueni	
+j	そわつく	sowatsuku	そわそわする。落ち着かない様子をする。
+j	ソやパンゴ	soyapango	
+j	ソグディアナ	sogudiana	Sogdiana
+j	ソトアヤム	sotoayamu	香辛料をたっぷりと入れた、インドネシア発祥の鶏肉の…
+j	ソナチネ	sonachine	
+j	ソニンケ語	soninkego	
+j	ソノシート	sonoshito	flexi sheet
+j	ソビエトの	sobietono	
+j	ソビエト語	sobietogo	ロシア語（ソビエト連邦が存在した時代、特に1940…
+j	ソファーベッド	sofabeddo	
+j	ソフトウェア	sofutowea	software
+j	ソフトウエア	sofutouea	「ソフトウェア」の表記ゆれ。
+j	ソフト麺	sofutomen	"soft noodle", a modern J…
+j	ソマリア語	somariago	
+j	ソマリ人	somarijin	ソマリアの主要民族。ソマリ語を話す。
+j	ソムリエール	somurieru	ワインについて知識が豊富でレストランで客の相談に乗…
+j	ソラリアム	sorariamu	
+j	ソリッドな	soriddona	
+j	ソリューション	soryushon	解明、解決、解決法、解答。主に、ビジネス用語として…
+j	ソルクンブ	sorukunbu	
+j	ソルソゴン	sorusogon	
+j	ソルビット	sorubitto	グルコースを還元し得られる甘味のある結晶。糖アルコ…
+j	ソルブ人	sorubujin	ドイツ東部に住む西スラヴ人の一派。
+j	ソルボンヌ	sorubonnu	
+j	ソレノイド	sorenoido	導線を円筒のように螺旋に巻いたコイル。
+j	ソンブレロ	sonburero	a sombrero
+j	ソヴィエット	sovuietto	「ソビエト」の表記ゆれ。
+j	ソープオペラ	sopuopera	soap opera (television se…
+j	ソープランド	sopurando	soapland, a massage parlo…
+j	ソーラークッカー	sorakukka	太陽の光を集め、その熱で料理をするための器具。
+j	ソ連風邪	sorenkaze	1977年ソ連から広まった新型インフルエンザ。
+j	供え物	sonaemono	
+j	促音便	sokuonbin	a form of euphony whereby…
+j	側対歩	sokutaiho	
+j	側筆	sokuhitsu	筆を傾けて書くこと。
+j	側面音	sokumenon	lateral
+j	側頭筋	sokutokin	a temporalis muscle
+j	側頭線	sokutosen	a temporal line
+j	創作者	sosakusha	著作物を創作する人。
+j	創造力	sozoryoku	新しいものを造り出したり生み出す能力。
+j	卒塾	sotsujuku	塾を卒業すること。
+j	卒無く	sotsunaku	抜かりなく。如才なく。
+j	即バチ	sokubachi	
+j	即尺	sokushaku	風俗店でシャワーを浴びる前にフェラチオを行うこと。
+j	即日	sokujitsu	same day
+j	即滅	sokumetsu	すぐに滅び去ること。
+j	即発	sokuhatsu	immediate explosion
+j	双十節	sojusetsu	1911年10月10日に勃発した辛亥革命を記念する…
+j	双声畳韻	soseijoin	双声と畳韻。漢字二字の熟語で、それぞれの字の最初の…
+j	双発機	sohatsuki	airplane with two engines
+j	双翅目	soshimoku	ハエ目の異称。かつては標準和名とされた。
+j	双角錐	sokakusui	dipyramid, bipyramid
+j	反町	sorimachi	a surname
+j	外南洋	sotonanyo	戦前、東南アジア島嶼部や南太平洋の島々を呼んだ名称…
+j	存在感	sonzaikan	one's presence as felt by…
+j	存在論	sonzairon	
+j	宗主国	soshukoku	suzerain (dominant nation…
+j	宗主國	soshukoku	
+j	尊厳死	songenshi	death with dignity
+j	峙つ	sobadatsu	聳つ, 稜立つ: to tower, to ris…
+j	想像力	sozoryoku	imagination (image-making…
+j	想定する	soteisuru	
+j	挿入する	sonyusuru	
+j	捜査機関	sosakikan	法令に基づき犯罪捜査を行う権限を持つ国家機関（検察…
+j	掃除当番	sojitoban	校内の清掃を担当する当番の児童・生徒。
+j	損失	sonshitsu	loss
+j	操作的	sousateki	
+j	操縦輪	soujyorin	
+j	早慶上理	sokeijori	東京の名門私立大学: 早稲田医学（早）、慶應義塾大…
+j	曹長石	sochoseki	albite
+j	束髪	sokuhatsu	bundling one's hair, or t…
+j	染め上げる	someageru	to finish dyeing
+j	槍術家	sojutsuka	槍術を行う武術家またはそれで生業としている者、修得…
+j	添い遂げる	soitogeru	to remain married the who…
+j	測程儀	sokuteigi	
+j	狙撃兵	sogekihei	狙撃を専門とする歩兵。
+j	狙撃手	sogekishu	a sniper
+j	疎外する	sogaisuru	
+j	疎開する	sokaisuru	
+j	相互銀行	sogoginko	相互銀行法（1951年~1993年）に基づき設立さ…
+j	相学者	sogakusha	相学を研究する科学者。
+j	相対的	sotaiteki	relative
+j	相対誤差	sotaigosa	絶対誤差を誤差の基準（理論的に期待される値）で除し…
+j	相思相愛	soshisoai	mutual love
+j	相殺する	sosaisuru	
+j	相続人	sozokunin	a successor; an heir
+j	相続権	sozokuken	相続に関し、相続人が持つ法律上の権利。
+j	相続税	sozokuzei	相続や遺贈など、人の死亡によって移転する財産に対し…
+j	相補分布	sohobunpu	
+j	相談事	sodangoto	matter to be discussed
+j	相談役	sodanyaku	相談の相手となる者。
+j	空の便	soranobin	航空機による輸送。
+j	空色の	sorairono	
+j	空高い	soratakai	high in the sky
+j	空鼾	soraibiki	a fake snore, a snore del…
+j	粗大ごみ	sodaigomi	bulky waste
+j	粗大塵	sodaigomi	冷蔵庫、洗濯機などの家電製品、箪笥、ソファー、テー…
+j	粗末な	somatsuna	
+j	素知らぬ	soshiranu	feigned, pretend not to k…
+j	組織化	soshikika	organization, systematiza…
+j	組織図	soshikizu	
+j	総合学科	sogogakka	後期中等教育で普通科と専門教育を主とする学科を統合…
+j	総合病院	sogobyoin	複数の診療科、病床を持つ大規模な病院。かつては内科…
+j	総合職	sogoshoku	regular position; positio…
+j	総理府令	sorifurei	総理府がその所管する行政事務について内閣総理大臣が…
+j	草食の	soshokuno	
+j	葬式の	soshikino	
+j	蕎麦汁	sobatsuyu	dipping sauce served with…
+j	蘇生する	soseisuru	
+j	袖ケ浦	sodegaura	Sodegaura (a city in Chib…
+j	袖口	sodeguchi	cuff of a sleeve
+j	装塡する	sotensuru	
+j	装飾音	soshokuon	
+j	躁鬱病	soutsubyo	synonym of 双極性障害 (sōkyoku…
+j	送金する	sokinsuru	
+j	速力	sokuryoku	speed
+j	速度計	sokudokei	speedometer
+j	速筆	sokuhitsu	quick writing or drawing
+j	速記録	sokkiroku	議事の内容を速記で記載し、通常の文字に戻した文書。
+j	速達	sokutatsu	express delivery
+j	鎗術家	sojutsuka	鎗術を行う武術家またはそれで生業としている者、修得…
+j	鑓術家	sojutsuka	鑓術を行う武術家またはそれで生業としている者、修得…
+j	阻止する	soshisuru	
+j	雪嶽山	sorakusan	Seoraksan, Mt. Seorak (th…
+j	騒音公害	soonkogai	
+k	소각장	sogakjang	
+k	소각하다	sogakhada	to incinerate
+k	소개장	sogaejang	
+k	소개팅	sogaeting	blind date
+k	소개하다	sogaehada	to introduce
+k	소거법	sogeobeop	
+k	소거하다	sogeohada	
+k	소곳하다	sogothada	
+k	소공작	sogongjak	
+k	소금물	sogeummul	
+k	소깽이	sokkaengi	'송진있는 가지'의 강원도 사투리.
+k	소녀단	sonyeodan	
+k	소다빵	sodappang	soda bread
+k	소대가리	sodaegari	head of a cow, especially…
+k	소대장	sodaejang	
+k	소독하다	sodokhada	'소도록하다'의 준말.
+k	소득액	sodeugaek	
+k	소란하다	soranhada	시끄럽고 어수선하다.
+k	소련인	soryeonin	
+k	소리치다	sorichida	to shout, to yell (to utt…
+k	소말리어	somallieo	
+k	소매상	somaesang	
+k	소매점	somaejeom	convenience store
+k	소맥분	somaekbun	
+k	소모되다	somodoeda	
+k	소모량	somoryang	
+k	소묘하다	somyohada	
+k	소문나다	somunnada	사람들 사이에서 이야기가 퍼지다.
+k	소믈리에	someullie	sommelier, butler
+k	소박하다	sobakhada	simple, naive, unsophisti…
+k	소방대	sobangdae	fire brigade
+k	소방목	sobangmok	sapan, sappanwood (Bianca…
+k	소방복	sobangbok	
+k	소방서	sobangseo	fire station, fire depart…
+k	소방차	sobangcha	fire engine, firetruck
+k	소변기	sobyeongi	
+k	소복하다	sobokhada	
+k	소북하다	sobukhada	'소복하다'의 잘못 표기.
+k	소불고기	sobulgogi	쇠고기를 양념에 재었다가 구운 음식.
+k	소비되다	sobidoeda	
+k	소비량	sobiryang	
+k	소비력	sobiryeok	
+k	소비사업	sobisaeop	
+k	소비자본	sobijabon	
+k	소비조합	sobijohap	
+k	소설화	soseolhwa	
+k	소속하다	sosokhada	
+k	소수성	sosuseong	
+k	소수언어	sosueoneo	
+k	소식란	sosingnan	
+k	소식통	sosiktong	
+k	소실점	sosiljeom	
+k	소실하다	sosilhada	to vanish, to disappear
+k	소심하다	sosimhada	to be timid; to be faint-…
+k	소아병	soabyeong	
+k	소액환	soaekhwan	
+k	소양감	soyanggam	아프고 가려운 느낌.
+k	소요되다	soyodoeda	to be required
+k	소울푸드	soulpudeu	
+k	소원하다	sowonhada	to wish, to hope
+k	소유격	soyugyeok	영어 문법에서 속격을 이르는 말.
+k	소작권	sojakgwon	
+k	소작료	sojangnyo	
+k	소작제도	sojakjedo	
+k	소작하다	sojakhada	
+k	소장품	sojangpum	자신이 소장하고 있는 물건.
+k	소재하다	sojaehada	
+k	소제되다	sojedoeda	
+k	소중화	sojunghwa	a non-Chinese country whi…
+k	소진하다	sojinhada	
+k	소집하다	sojiphada	to call, to convene
+k	소책자	sochaekja	booklet; pamphlet; brochu…
+k	소추하다	sochuhada	
+k	소탈하다	sotalhada	예절이나 형식에 얽매이지 아니하고 수수하고 털…
+k	소파 베드	sopabedeu	
+k	소파수술	sopasusul	
+k	소프라노	sopeurano	
+k	소해선	sohaeseon	
+k	소행리	sohaengni	
+k	소홀하다	soholhada	대수롭지 아니하고 평소와 같다. 또는 탐탁하지…
+k	소화관	sohwagwan	
+k	소화선	sohwaseon	
+k	소화전	sohwajeon	fire hydrant
+k	소화하다	sohwahada	to digest
+k	소황제	sohwangje	
+k	속기법	sokgibeop	
+k	속닥이다	sokdagida	이 알아듣지 못하도록 작은 목소리로 은밀하게 …
+k	속량	songnyang	
+k	속력	songnyeok	빠르기를 나타낼 수 있는 힘.
+k	속마음	songmaeum	one's inmost heart/though…
+k	속물의	songmurui	
+k	속삭이다	soksagida	to whisper, to murmur
+k	속임수의	sogimsuui	
+k	속죄론	sokjoeron	
+k	손가방	songabang	handbag (small bag used b…
+k	손그락	songeurak	
+k	손넘기	sonneomgi	(배구) '오버네트'의 북한말.
+k	손목대	sonmokdae	
+k	손발톱	sonbaltop	nails (collective terms f…
+k	손뼉	sonppyeok	the whole floor of the pa…
+k	손수건	sonsugeon	handkerchief, hankie
+k	손쉽게	sonswipge	
+k	손쉽다	sonswipda	to be easy
+k	손씻기	sonssitgi	
+k	손씻다	sonssitda	
+k	손이 크다	sonikeuda	씀씀이가 넉넉하고 후하다.
+k	손자장	sonjajang	‘수타 자장면’을 달리 이르는 말.
+k	솔까말	solkkamal	frankly speaking, speakin…
+k	솔나방	sollabang	pine moth (Dendrolimus sp…
+k	솔랸카	sollyanka	
+k	솔리테어	solliteeo	
+k	솔방구	solbanggu	'솔방울'의 강원도 사투리.
+k	솔방울	solbangul	pinecone
+k	솔잣새	soljatsae	
+k	솜사탕	somsatang	cotton candy; candy floss
+k	송곳니	songgonni	앞니와 어금니 사이에 있는 뾰족한 이. 육식 …
+k	송기죽	songgijuk	
+k	송달리	songdalli	
+k	송별	songbyeol	상대방을 떠나보내는 것.
+k	송순주	songsunju	
+k	송신기	songsingi	
+k	송신소	songsinso	
+k	송영	songyeong	
+k	송조체	songjoche	
+k	송편	songpyeon	songpyeon (Korean food ma…
+k	송화기	songhwagi	
+k	송화자	songhwaja	
+k	송화주	songhwaju	
+k	쇠고랑	soegorang	'수갑'을 속되게 이르는 말.
+k	쇠기름	soegireum	beef oil
+k	쇠뇌살	soenoesal	쇠뇌에서 발사하는 화살과 비슷한 투사체.
+k	쇠뒤쥐	soedwijwi	A slender shrew (Sorex gr…
+k	쇠뜨기	soetteugi	horsetail (plant of the o…
+k	쇠박새	soebaksae	marsh tit
+k	쇠비름	soebireum	common purslane
+k	쇠사슬	soesaseul	쇠로 만든 고리를 길게 이어 만든 줄.
+k	쇠솔새	soesolsae	
+k	쇠좆매	soejotmae	수컷 소의 음경을 말린 무기. 블랙잭(blac…
+k	쇠주걱	soejugeok	metal spatula
+e	soap bubble	soapbubble	1 meaning
+e	soapbox car	soapboxcar	1 meaning
+e	soccer ball	soccerball	1 meaning
+e	social life	sociallife	1 meaning
+e	social work	socialwork	1 meaning
+e	sock puppet	sockpuppet	2 meanings
+e	soft palate	softpalate	1 meaning
+e	soft tennis	softtennis	1 meaning
+e	soft tissue	softtissue	1 meaning
+e	soft-boiled	softboiled	1 meaning
+e	softballer	softballer	1 meaning
+e	solar flare	solarflare	1 meaning
+e	solar panel	solarpanel	1 meaning
+e	soldier fly	soldierfly	1 meaning
+e	solid phase	solidphase	1 meaning
+e	solidarity	solidarity	1 meaning
+e	solubility	solubility	1 meaning
+e	solukhumbu	solukhumbu	1 meaning
+e	somaliland	somaliland	1 meaning
+e	somersault	somersault	1 meaning
+e	somnolence	somnolence	1 meaning
+e	sonata form	sonataform	1 meaning
+e	song thrush	songthrush	1 meaning
+e	songstress	songstress	1 meaning
+e	soothsayer	soothsayer	1 meaning
+e	sore throat	sorethroat	1 meaning
+e	soundproof	soundproof	1 meaning
+e	soundtrack	soundtrack	2 meanings
+e	sour cherry	sourcherry	2 meanings
+e	sour grapes	sourgrapes	1 meaning
+e	source code	sourcecode	1 meaning
+e	sousaphone	sousaphone	1 meaning
+e	south china	southchina	1 meaning
+e	south india	southindia	1 meaning
+e	south korea	southkorea	1 meaning
+e	south sudan	southsudan	1 meaning
+e	south tyrol	southtyrol	1 meaning
+e	south yemen	southyemen	1 meaning
+e	southerner	southerner	1 meaning
+e	soybean oil	soybeanoil	1 meaning
+j	そうかがっかい	sokagakkai	創価学会
+j	そうですとも	sodesutomo	
+j	そうめいきょく	someikyoku	奏鳴曲: sonata
+j	そう思います	soomoimasu	
+j	そこぢから	sokojikara	内部にこもる活力。
+j	そそかしい	sosokashii	careless, thoughtless
+j	そそぎこむ	sosogikomu	注ぎ込む: to pour into; to fo…
+j	そそのかす	sosonokasu	その気になるようにさせる。
+j	そっくりさん	sokkurisan	lookalike
+j	そっちのけ	sotchinoke	ignoring one thing for an…
+j	そっぽをむく	soppoomuku	to look away
+j	そつがない	sotsuganai	cautious, careful, withou…
+j	そつのない	sotsunonai	
+j	そでがらみ	sodegarami	江戸時代に使われた捕具で長い柄の先端に多数の鉄鉤を…
+j	そとぐるわ	sotoguruwa	城の一番外側の周囲に築かれた曲輪。
+j	そとまわり	sotomawari	outer track of a loop line
+j	そなえつけ	sonaetsuke	「そなえつける」の未然形及び連用形。
+j	そのかわり	sonokawari	それと引き換えに。
+j	そのために	sonotameni	
+j	そのままの	sonomamano	
+j	その他に	sonohokani	
+j	その反面	sonohanmen	
+j	その間に	sonoaidani	
+j	そばだてる	sobadateru	片方の端を高くして斜めにする。
+j	そばどころ	sobadokoro	蕎麦の産地。
+j	そびえたつ	sobietatsu	（山や建物が）高く立つ。
+j	そびえ立つ	sobietatsu	
+j	そめものや	somemonoya	染め物を染めて売る店。
+j	そめゆかた	someyukata	美しい染め模様の浴衣。
+j	そらごころ	soragokoro	偽りの心。
+j	そらさわぎ	sorasawagi	何の内容もないのに大騒ぎすること。からさわぎ。から…
+j	そりじたおん	sorijitaon	反り舌音, 反舌音: retroflex cons…
+j	そり舌音	sorijitaon	
+j	それぞれの	sorezoreno	
+j	それだから	soredakara	from that, thus
+j	それとなく	soretonaku	
+j	それならば	sorenaraba	
+j	それらしい	sorerashii	seemingly good, normal or…
+j	ソウダガツオ	sodagatsuo	スズキ目スズキ科ソウダガツオ属に属するヒラソウダガ…
+j	ソクラテス	sokuratesu	Socrates
+j	ソシオパス	soshiopasu	
+j	ソニー信者	sonishinja	
+j	ソフォクレス	sofokuresu	
+j	ソフトカバー	sofutokaba	synonym of ペーパーバック (pēpāb…
+j	ソフトパワー	sofutopawa	
+j	ソフトボール	sofutoboru	softball (game)
+j	ソフト・パワー	sofutopawa	soft power
+j	ソプラニーノ	sopuranino	リコーダーなどでソプラノよりも高い音域を出す楽器。
+j	ソポクレス	sopokuresu	
+j	ソルビトール	sorubitoru	sorbitol
+j	ソルレソル	soruresoru	
+j	ソングブック	songubukku	
+j	ソーセージノキ	sosejinoki	
+j	ソーセージロール	sosejiroru	
+j	ソートグラフィー	sotogurafi	念写のこと。
+j	ソープディッシュ	sopudisshu	
+j	ソーラーパネル	sorapaneru	太陽光発電に用いるパネル。太陽電池板。太陽電池モジ…
+j	ソールズベリー	soruzuberi	Salisbury (a cathedral ci…
+j	ソールドアウト	sorudoauto	完売。売り切れ。
+j	争奪戦	sodatsusen	a contest (for a trophy, …
+j	俎上の肉	sojononiku	俎に載せられた肉。俎肉。
+j	倉庫業者	sokogyosha	
+j	側室	sokushitsu	concubine
+j	側柏葉	sokuhakuyo	leaves of Platycladus ori…
+j	創作する	sosakusuru	
+j	創立者	soritsusha	founder
+j	創設者	sosetsusha	founder
+j	創造的な	sozotekina	
+j	卒園生	sotsuensei	幼稚園や保育園、認定こども園を卒園する、または卒園…
+j	即位式	sokuishiki	enthronement ceremony, co…
+j	即売会	sokubaikai	a convention where displa…
+j	即席の	sokusekino	
+j	即賣會	sokubaikai	
+j	双曲線	sokyokusen	a hyperbola
+j	反り舌音	sorijitaon	retroflex
+j	咀嚼筋	soshakukin	muscle of mastication
+j	唆す	sosonokasu	to entice, to tempt
+j	塞栓症	sokusensho	血管やリンパ管に血栓や外部からの異物が詰まることで…
+j	壮言大語	sogentaigo	自らの実力以上の大きなことを言うこと。大言壮語。
+j	外ヶ浜	sotogahama	a town in Higashitsugaru …
+j	外側の	sotogawano	
+j	奏鳴曲	someikyoku	sonata
+j	存在する	sonzaisuru	
+j	存在理由	sonzairiyu	
+j	存在的	sonzaiteki	
+j	宗太鰹	sodagatsuo	「ソウダガツオ」の漢字表記。
+j	宗谷海峡	soyakaikyo	北海道と樺太の間にある海峡。
+j	尊敬する	sonkeisuru	
+j	尊重する	sonchosuru	
+j	底力	sokojikara	underlying strength
+j	想像できる	sozodekiru	
+j	想定内の	soteinaino	
+j	想定外の	soteigaino	
+j	早期発見	sokihakken	（病気や悪いことなどを）早い段階で見つけ出すこと。
+j	桑実胚	sojitsuhai	動物の発生段階で受精卵の卵割が進み、割球ができ、桑…
+j	桑田滄海	sodensokai	drastic changes in the wo…
+j	欹てる	sobadateru	to strain to hear, see
+j	注ぎ出す	sosogidasu	
+j	注ぎ込む	sosogikomu	to pour into
+j	測定値	sokuteichi	測定により得られた数値。
+j	測量家	sokuryouka	
+j	滄海桑田	sokaisoden	drastic changes in the wo…
+j	狙撃する	sogekisuru	
+j	相乗平均	sojoheikin	geometric mean
+j	相互的な	sogotekina	
+j	相互関係	sogokankei	
+j	相似変換	sojihenkan	ある図形から相似な図形への変換。
+j	相利共生	sorikyosei	mutualism
+j	相対主義	sotaishugi	
+j	相対音感	sotaionkan	relative pitch, ability t…
+j	相続する	sozokusuru	
+j	相関係数	sokankeisu	2つの変量について、それぞれ標準化変量に変換した上…
+j	租借地	soshakuchi	concession (territory)
+j	租税回避	sozeikaihi	法律が予定していない異常または変則的な方法で、税負…
+j	空涙	soranamida	
+j	空高さ	soratakasa	altitude
+j	素気清泚	sokiseisei	秋の空気や水が清らかな様子。
+j	組織液	soshikieki	動物の各組織の細胞の間を満たす液体。血漿が各細胞に…
+j	組織者	soshikisha	organizer
+j	総力戦	soryokusen	total war
+j	総務大臣	somudaijin	総務省の長たる国務大臣。
+j	総司令部	soshireibu	総司令官が職務をする場所。
+j	総合判断	sogohandan	
+j	総理大臣	soridaijin	prime minister of Japan
+j	総目録	somokuroku	
+j	総領事館	soryojikan	a consulate general
+j	草々不一	sosofuitsu	sincerely, yours sincerel…
+j	草原狼	sogenokami	コヨーテの別称。
+j	草食性	soshokusei	herbivorous
+j	草食系	soshokukei	A person not interested i…
+j	藻類学	souruigaku	藻類について研究する学問。
+j	袖にする	sodenisuru	to ignore (someone)
+j	装甲列車	sokoressha	鉄道車両に装甲を取り付け、機関銃や対空砲で武装した…
+j	装飾品	soshokuhin	装飾に使用する物品。
+j	足底筋	sokuteikin	a plantaris muscle
+j	送信する	soshinsuru	
+j	送信箱	soshinbako	
+j	送別会	sobetsukai	farewell party; send-off …
+j	速度記号	sokudokigo	楽曲を演奏する速さを示す記号。メトロノームの拍数で…
+k	소각되다	sogakdoeda	
+k	소개념	sogaenyeom	
+k	소개되다	sogaedoeda	to be introduced; to beco…
+k	소거되다	sogeodoeda	
+k	소견표	sogyeonpyo	
+k	소고구려	sogoguryeo	한국의 역사에서, 랴오둥 반도에 686년부터 …
+k	소곤대다	sogondaeda	'소곤거리다'.
+k	소곤소곤	sogonsogon	
+k	소곳소곳	sogotsogot	
+k	소구경	sogugyeong	총포의 구경이 작은 것.
+k	소극의무	sogeuguimu	
+k	소극장	sogeukjang	
+k	소극적	sogeukjeok	적극적이지 않고 매우 소심한.
+k	소극주의	sogeukjuui	
+k	소금통	sogeumtong	
+k	소급하다	sogeuphada	
+k	소꾸래기	sokkuraegi	
+k	소년단	sonyeondan	소년들이 중심이 되는 모임.
+k	소년원	sonyeonwon	
+k	소독되다	sodokdoeda	
+k	소독약	sodongnyak	
+k	소돔사과	sodomsagwa	apple of Sodom (mythical …
+k	소동맥	sodongmaek	
+k	소락소락	soraksorak	
+k	소록소록	soroksorok	
+k	소뢰정	soroejeong	
+k	소르브어	soreubeueo	
+k	소르브인	soreubeuin	독일동부에 거주하는 슬라브족. 상소르브어와 하…
+k	소리 에너지	sorieneoji	
+k	소리쟁이	sorijaengi	curled dock (Rumex crispu…
+k	소립자론	soripjaron	
+k	소말소말	somalsomal	
+k	소망하다	somanghada	
+k	소매가 긴	somaegagin	
+k	소매치기	somaechigi	pickpocket
+k	소방관	sobanggwan	firefighter, fireman
+k	소방선	sobangseon	
+k	소복소복	soboksobok	
+k	소북소북	sobuksobuk	
+k	소비에트의	sobieteuui	
+k	소상하다	sosanghada	
+k	소속되다	sosokdoeda	
+k	소송법	sosongbeop	
+k	소송장	sosongjang	
+k	소송하다	sosonghada	
+k	소수내각	sosunaegak	
+k	소수민족	sosuminjok	minority race; minor ethn…
+k	소수집단	sosujipdan	소수로 이루어진 무리나 집단.
+k	소스 코드	soseukodeu	
+k	소슬하다	soseulhada	to be bleak, to be desola…
+k	소실되다	sosildoeda	
+k	소아과 의사	soagwauisa	
+k	소아질환	soajilhwan	
+k	소용돌이	soyongdori	vortex
+k	소이대동	soidaedong	대동소이.
+k	소작농	sojangnong	다른 사람의 땅을 빌려 농사를 하는 사람.
+k	소장하다	sojanghada	
+k	소젖메주	sojeonmeju	synonym of 치즈 (chijeu, “c…
+k	소중하다	sojunghada	To be precious.
+k	소진되다	sojindoeda	
+k	소집되다	sojipdoeda	
+k	소쩍새	sojjeoksae	scops owl
+k	소총탄	sochongtan	
+k	소침하다	sochimhada	
+k	소탕전	sotangjeon	
+k	소탕하다	sotanghada	성질이 수더분하고 호탕하다.
+k	소통하다	sotonghada	
+k	소포우편	sopoupyeon	
+k	소학생	sohaksaeng	
+k	소해정	sohaejeong	
+k	소형기	sohyeonggi	
+k	소혹성	sohokseong	소행성.
+k	소화되다	sohwadoeda	
+k	소화력	sohwaryeok	
+k	소화효소	sohwahyoso	
+k	소환장	sohwanjang	summons, subpoena
+k	소환하다	sohwanhada	
+k	속 쓰림	soksseurim	
+k	속궁합	sokgunghap	sexual compatibility, sex…
+k	속도 제한	sokdojehan	
+k	속도위반	sokdowiban	speeding, speeding violat…
+k	속독법	sokdokbeop	
+k	속명	songmyeong	
+k	속쓰림	soksseurim	heartburn
+k	속이 검다	sogigeomda	마음 속이 더럽고 음흉하다.
+k	속죄금	sokjoegeum	
+k	속죄양	sokjoeyang	
+k	손 소독제	sonsodokje	
+k	손가락조	songarakjo	finger millet (Eleusine c…
+k	손구락지	songurakji	
+k	손구래기	songuraegi	
+k	손기척	songicheok	외래어 '노크'를 한글로 쓴 북한말.
+k	손님마마	sonnimmama	'천연두'를 일상적으로 부르는 말.
+k	손님방	sonnimbang	
+k	손다치기	sondachigi	축구 용어 '핸들링'을 한글로 쓴 북한말.
+k	손빨래	sonppallae	washing by hand; washing …
+k	손실금	sonsilgeum	
+k	손실률	sonsillyul	
+k	손자삼요	sonjasamyo	
+k	손전화	sonjeonhwa	cellular phone, mobile ph…
+k	손질하다	sonjilhada	to repair; to mend
+k	손짜장	sonjjajang	‘수타 자장면’을 달리 이르는 말.
+k	손해가다	sonhaegada	
+k	손해보다	sonhaeboda	
+k	솔깃하다	solgithada	to take an interest in
+k	솔딱새	solttaksae	dark-sided flycatcher (Mu…
+k	솔레노돈	sollenodon	
+k	솔즈베리	soljeuberi	
+k	솔직하다	soljikhada	honest, frank, direct
+k	솜버선	sombeoseon	
+k	솜브레로	sombeurero	
+k	솟구치다	sotguchida	to gush, surge, burst, sp…
+k	솟아오르다	sosaoreuda	아래에서 위로 또는 안에서 밖으로 불쑥 나타나…
+k	송골매	songgolmae	peregrine falcon
+k	송근유	songgeunyu	
+k	송덕비	songdeokbi	
+k	송부하다	songbuhada	편지나 물품 따위를 부치어 보내다.
+k	송상기	songsanggi	
+k	송수관	songsugwan	
+k	송신탑	songsintap	
+k	송엽주	songyeopju	
+k	송유관	songyugwan	
+k	송이송이	songisongi	in bunches
+k	송자송	songjasong	
+k	송진류	songjillyu	
+k	송풍구	songpunggu	
+k	송풍기	songpunggi	
+k	송화단	songhwadan	synonym of 피단(皮蛋) (pidan,…
+k	쇠가마우지	soegamauji	The pelagic cormorant, Ph…
+k	쇠기러기	soegireogi	The greater white-fronted…
+k	쇠꾕이	soekkoengi	
+k	쇠마구간	soemagugan	
+k	쇠백로	soebaengno	The little egret, Egretta…
+k	쇠스랑	soeseurang	
+k	쇠약하다	soeyakhada	힘이나 세력이 약해지다.
+k	쇠족제비	soejokjebi	least weasel
+k	쇠퇴하다	soetoehada	to decline, to decay
+e	soccer field	soccerfield	1 meaning
+e	social class	socialclass	1 meaning
+e	social group	socialgroup	1 meaning
+e	social media	socialmedia	1 meaning
+e	sociologist	sociologist	1 meaning
+e	soil science	soilscience	1 meaning
+e	solar energy	solarenergy	1 meaning
+e	solar plexus	solarplexus	1 meaning
+e	solar system	solarsystem	2 meanings
+e	somatic cell	somaticcell	1 meaning
+e	son of a bitch	sonofabitch	1 meaning
+e	son of heaven	sonofheaven	1 meaning
+e	song dynasty	songdynasty	1 meaning
+e	song of songs	songofsongs	1 meaning
+e	song sparrow	songsparrow	1 meaning
+e	sorry i'm late	sorryimlate	1 meaning
+e	soteriology	soteriology	1 meaning
+e	sound effect	soundeffect	1 meaning
+e	sound energy	soundenergy	1 meaning
+e	south africa	southafrica	1 meaning
+e	south by east	southbyeast	1 meaning
+e	south by west	southbywest	1 meaning
+e	south dakota	southdakota	1 meaning
+e	south island	southisland	1 meaning
+e	south jeolla	southjeolla	1 meaning
+e	south korean	southkorean	2 meanings
+e	southampton	southampton	1 meaning
+e	southern bug	southernbug	1 meaning
+e	southern min	southernmin	1 meaning
+e	southernize	southernize	1 meaning
+e	sovereignty	sovereignty	1 meaning
+e	soviet union	sovietunion	1 meaning
+j	そうかいほうせき	sokaihoseki	曹灰硼石: ulexite
+j	そうではないと	sodewanaito	
+j	そくとうこつ	sokutokotsu	側頭骨: temporal bone
+j	そそぎぐち	sosogiguchi	中に入っている液体を他の容器に移すためにその容器に…
+j	そそっかしい	sosokkashii	careless, thoughtless
+j	そぞろあるき	sozoroaruki	あてもなくぶらぶら歩くこと。
+j	そちらこそ	sochirakoso	
+j	そちらさま	sochirasama	二人称の代名詞で、聞き手又は聞き手の側を指す尊敬語。
+j	そっくり様	sokkurisama	
+j	そなれまつ	sonarematsu	潮風に晒されたために傾いて生えた松。
+j	そらにみつ	soranimitsu	空に満つ: sky-filling or spre…
+j	それによって	soreniyotte	
+j	そんじょそこら	sonjosokora	「そこら」を強調した語。
+j	ソウルパッチ	sourupatchi	
+j	ソニックブーム	sonikkubumu	sonic boom
+j	ソマリランド	somarirando	Somaliland (a geographic …
+j	ソヴェト連邦	sovetorenpo	
+j	ソーイングセット	soingusetto	sewing kit
+j	ソーシャリズム	sosharizumu	socialism
+j	ソーシャルワーカー	sosharuwaka	
+j	ソーシャルワーク	sosharuwaku	
+j	ソーダブレッド	sodabureddo	
+j	ソートレーキ市	sotorekishi	Salt Lake City (a city, t…
+j	ソープボックス	sopubokkusu	
+j	促進剤	sokushinzai	
+j	側頭骨	sokutokotsu	a temporal bone
+j	創作物	sosakubutsu	
+j	創氏改名	soshikaimei	A 1939 Japanese governmen…
+j	卒業生	sotsugyosei	alumnus (a graduate)
+j	即位させる	sokuisaseru	
+j	即因果応報	sokuingaoho	
+j	即席麺	sokusekimen	お湯を注いだり短時間だけ茹でることで食べられるよう…
+j	即時払い	sokujibarai	商品を購入したのと同時に代金を支払うこと。
+j	双対空間	sotsuikukan	ある体 K 上のあるベクトル空間 V を K へ写…
+j	双条件文	sojokenbunn	
+j	咀嚼する	soshakusuru	
+j	啐啄同時	sottakudoji	禅宗で師家と修行者との心が投合し、修行者がまさに開…
+j	塑性変形	soseihenkei	物体に弾性限界を超えた外力を加えて変形させた後、外…
+j	底引網	sokobikiami	bottom trawling net
+j	想像が付く	sozogatsuku	can imagine, can guess
+j	想像できない	sozodekinai	
+j	捜索令状	sosakureijo	
+j	損害保険	songaihoken	偶発的な事故により発生した損害について補填するため…
+j	曹灰硼石	sokaihoseki	ulexite
+j	樽俎折衝	sonsosessho	negotiation while chattin…
+j	測地学	sokuchigaku	
+j	測定する	sokuteisuru	
+j	測定学	sokuteigaku	測定について研究する学問。計量学。計測学。度量衡学。
+j	測量学	sokuryogaku	測量について研究する学問。
+j	率先躬行	sossenkyuko	taking the lead and setti…
+j	相談に乗る	sodanninoru	to serve as the other par…
+j	祖先崇拝	sosensuuhai	
+j	空に満つ	soranimitsu	allusion to 大和 (Yamato, a…
+j	空の要塞	soranoyosai	
+j	窓外放擲	sogaihoteki	
+j	糟糠の妻	sokonotsuma	a faithful wife who has b…
+j	組織する	soshikisuru	
+j	組織学	soshikigaku	histology
+j	総司令官	soshireikan	全軍の指揮、統率に当たる司令官。
+j	総合大学	sogodaigaku	二つ以上の学部や付属機関などからなる総合的な大学。…
+j	総合馬術	sogobajutsu	
+j	総大司教	sodaishikyo	patriarch (in a Catholic …
+j	総支配人	soshihainin	a general manager
+j	総領娘	soryomusume	最初に生まれた娘。
+j	蘇民将来	sominshorai	hexagonal or octagonal wo…
+j	蘇生させる	soseisaseru	
+j	袖の下	sodenoshita	bribe, money or another g…
+j	装飾する	soshokusuru	
+j	装飾的	soshokuteki	綺麗に見せるためきらびやかに飾るさま。
+j	足根骨	sokkonkotsu	a tarsal bone
+j	送信トレイ	soshintorei	outbox
+j	速度微分	sokudobibun	微分変数が速度v,[m/s]であるときの常微分の称。
+j	速度標語	sokudohyogo	楽曲を演奏するときなどの速度を譜面上で示す語。
+j	遡及推論	sokyusuiron	アブダクション。
+k	소개시키다	sogaesikida	다른 이와의 만남을 주선해 주다.
+k	소곤닥이다	sogondagida	남이 알아듣지 못하도록 작은 목소리로 어수선하…
+k	소극성	sogeukseong	
+k	소금정	sogeumjeong	
+k	소급되다	sogeupdoeda	
+k	소급력	sogeumnyeok	
+k	소녀답다	sonyeodapda	girlish, maidenlike
+k	소년공	sonyeongong	
+k	소년법	sonyeonbeop	
+k	소도록하다	sodorokhada	수량이 제법 많아서 소복하다.
+k	소독면	sodongmyeon	
+k	소등하다	sodeunghada	
+k	소똥구리	sottongguri	
+k	소래고동	soraegodong	
+k	소리지르다	sorijireuda	
+k	소매시장	somaesijang	
+k	소멸하다	somyeolhada	to vanish
+k	소방호스	sobanghoseu	
+k	소변보다	sobyeonboda	
+k	소생하다	sosaenghada	
+k	소선거구	soseongeogu	
+k	소설책	soseolchaek	novel
+k	소송기록	sosonggirok	
+k	소송자료	sosongjaryo	
+k	소송주체	sosongjuche	소송에서 주도적인 위치에 있는 당사자.
+k	소수림왕	sosurimwang	
+k	소스 냄비	soseunaembi	
+k	소시오패스	sosiopaeseu	
+k	소용없다	soyongeopda	어디에도 쓸 값어치가 있지 않다. 또는 써서 …
+k	소읏앞온어	soeutaponeo	
+k	소의 소변	souisobyeon	
+k	소집령	sojimnyeong	
+k	소탐대실	sotamdaesil	작은 것을 탐내다가 큰 것을 잃음.
+k	소탕되다	sotangdoeda	
+k	소통되다	sotongdoeda	
+k	소프트볼	sopeuteubol	softball (game)
+k	소형판	sohyeongpan	
+k	소홀히 하다	soholhihada	
+k	소화기관	sohwagigwan	인체의 몸속을 구성하고 있는 것.
+k	소확행	sohwakhaeng	‘작지만 확실한 행복’이라는 뜻으로, 일상에서…
+k	소환되다	sohwandoeda	
+k	속공법	sokgongbeop	
+k	속닥대다	sokdakdaeda	'속닥거리다'.
+k	속달대다	sokdaldaeda	'속달거리다'.
+k	속도감각	sokdogamgak	
+k	속물적	songmuljeok	
+k	속미인곡	songmiingok	
+k	속삭대다	soksakdaeda	'속삭거리다'.
+k	속살대다	soksaldaeda	'속살거리다'.
+k	속상하다	soksanghada	어떤 일 때문에 화가 나거나 또는 마음이 언짢…
+k	속성반	sokseongban	
+k	속속들이	soksokdeuri	to the core, thoroughly
+k	속이 끓다	sogikkeulta	
+k	속효성	sokhyoseong	
+k	손가락질	songarakjil	pointing with the finger,…
+k	손공하다	songonghada	말이나 행동이 겸손하고 예의 바르다.
+k	손꼽히다	sonkkophida	to be considered great
+k	손목걸이	sonmokgeori	'팔찌'의 북한말.
+k	손목뼈	sonmokppyeo	손목을 이루는 8개 뼈를 통칭하여 부르는 말.
+k	손목시계	sonmoksigye	wristwatch
+k	손바느질	sonbaneujil	hand sewing
+k	손벽희	sonbyeokhui	'수박춤'의 북한말.
+k	손상하다	sonsanghada	to damage; injure; impair…
+k	손익계산	sonikgyesan	
+k	손칼치기	sonkalchigi	(태권도) '수도치기'의 북한말.
+k	손풍금	sonpunggeum	accordion
+k	솔레노이드	sollenoideu	어떤 단위 폭을 가진 2개의 등압면(等壓面)과…
+k	솔선하다	solseonhada	
+k	솜막대기	sommakdaegi	(명사) '면봉'의 북한말.
+k	송과선	songgwaseon	pineal gland
+k	송년사	songnyeonsa	
+k	송년호	songnyeonho	
+k	송배전	songbaejeon	
+k	송별사	songbyeolsa	
+k	송신관	songsingwan	
+k	송아지 고기	songajigogi	
+k	송연묵	songyeonmuk	
+k	송엽액	songyeobaek	
+k	송엽죽	songyeopjuk	
+k	송이폭탄	songipoktan	
+k	송정유	songjeongyu	송진을 수증기로 증류하여 얻는 정유. 맛이 시…
+k	송화색	songhwasaek	
+k	쇠돌고래	soedolgorae	porpoise
+k	쇠동고비	soedonggobi	Chinese nuthatch (Sitta v…
+k	쇠뿌러기	soeppureogi	smith, blacksmith
+e	social status	socialstatus	1 meaning
+e	social worker	socialworker	1 meaning
+e	sociological	sociological	1 meaning
+e	solar battery	solarbattery	1 meaning
+e	solar eclipse	solareclipse	1 meaning
+e	solitary wave	solitarywave	1 meaning
+e	somatization	somatization	1 meaning
+e	somnambulism	somnambulism	1 meaning
+e	south african	southafrican	1 meaning
+e	south america	southamerica	1 meaning
+e	south holland	southholland	1 meaning
+e	south ossetia	southossetia	1 meaning
+e	south pacific	southpacific	1 meaning
+e	south pyongan	southpyongan	1 meaning
+e	south vietnam	southvietnam	1 meaning
+e	southeastern	southeastern	1 meaning
+e	southernwood	southernwood	1 meaning
+e	southwestern	southwestern	1 meaning
+e	soviet russia	sovietrussia	1 meaning
+j	そうごうかくとうぎ	sogokakutogi	総合格闘技: mixed martial arts
+j	そでをしぼる	sodeoshiboru	袖を絞る: wringing one's slee…
+j	そとわきづけ	sotowakizuke	封筒の表の氏名に記入する語句。内脇付のように敬意を…
+j	そなえつける	sonaetsukeru	ある目的のため一定の場所に常置して使えるようにして…
+j	その場限り	sonobakagiri	kludge, ad hoc, temporary…
+j	その通りです	sonotoridesu	
+j	そめいよしの	someiyoshino	バラ科の桜の一つ。江戸彼岸と大島桜の雑種とされる。…
+j	そらぞらしい	sorazorashii	いかにも嘘っぱち。本当とは微塵も思えない。嘘が丸わ…
+j	そらとぼける	soratobokeru	本当は知っているのに、わざと知らないふりをする。し…
+j	そらびきばた	sorabikibata	かつて日本で紋織に使用された織機。京都西陣などで使…
+j	それが人生	soregajinsei	
+j	それどころか	soredokoroka	on the contrary
+j	それはそれは	sorewasorewa	used for emphasis; very; …
+j	そろばんだかい	sorobandakai	金銭の勘定が細かくけちなさま。勘定高い。
+j	ソウルミュージック	sorumyujikku	1960年頃からアメリカで興った黒人音楽。リズムア…
+j	ソシアリズム	soshiarizumu	社会主義。ソーシャリズム。
+j	ソックパペット	sokkupapetto	sock puppet
+j	ソビエト連邦	sobietorenpo	Soviet Union (a former tr…
+j	ソフトクリーム	sofutokurimu	soft serve
+j	ソフトテニス	sofutotenisu	soft tennis
+j	ソフトボール場	sofutoborujo	ソフトボールを競技するための施設。
+j	ソメイヨシノ	someiyoshino	「そめいよしの」の学術的表記。
+j	ソロモン諸島	soromonshoto	Solomon Islands (a countr…
+j	ソーシャルダンス	sosharudansu	社交ダンス。
+j	ソーシャルメディア	sosharumedia	social media
+j	ソーシャルライフ	sosharuraifu	
+j	促進する	sokushinsuru	
+j	備え付ける	sonaetsukeru	provide with; equip with;…
+j	卒園式	sotsuenshiki	幼稚園や保育園、認定こども園での教育課程を修了した…
+j	卒業する	sotsugyosuru	
+j	即戦力	sokusenryoku	a fighting force that can…
+j	即自存在	sokujisonzai	
+j	双分組織	sobunsoshiki	二つの対称的な集団が相互補完的に組織されている社会…
+j	双曲余弦	sokyokuyogen	
+j	反りが合わない	sorigaawanai	unable to get along
+j	咀嚼力	soshakuryoku	masticatory force
+j	存在しない	sonzaishinai	
+j	尊属殺	sonzokusatsu	parricide (killing of a r…
+j	想像を絶する	sozoozessuru	beyond imagination
+j	早期警戒機	sokikeikaiki	レーダーを装備して敵味方の航空目標を探知して空中で…
+j	早期退職	sokitaishoku	本来の雇用期間（多くは定年）よりも早く希望退職する…
+j	村長室	sonchoshitsu	村長が執務を行う専用の部屋。
+j	桑田碧海	sodenhekikai	synonym of 桑田滄海 (sōdensōk…
+j	相互互換性	sogogokansei	interchangeability
+j	相互作用する	sogosayosuru	
+j	相似行列	sojigyoretsu	n次行列A, Bに対して、B=P⁻¹APを満たす正…
+j	相対論効果	sotaironkoka	古典力学では現れず、相対性理論を考慮した場合のみに…
+j	相対論的	sotaironteki	相対性理論による時空の伸び縮みの効果を考慮した様子。
+j	空似言葉	soranikotoba	
+j	算盤高い	sorobandakai	calculating, miserly, sti…
+j	粗粒シルト	soryushiruto	直径が32分の1ミリメートル以上16分の1ミリメー…
+j	粗製ガソリン	soseigasorin	「ナフサ」を参照。
+j	総合格闘技	sogokakutogi	mixed martial arts
+j	総同盟罷業	sodomeihigyo	全国、全産業（または一つの地域全体や産業全体）の労…
+j	総指伸筋	soshishinkin	an extensor digitorum com…
+j	藻類学者	soruigakusha	藻類学を研究する科学者。
+j	走行距離計	sokokyorikei	
+j	足疾鬼	sokushitsuki	羅刹の異称。
+j	躁鬱質	soutsushitsu	cyclothymia
+j	速疾鬼	sokushitsuki	羅刹の異称。
+j	速読する	sokudokusuru	
+k	소곤거리다	sogongeorida	남이 알아듣지 못하도록 작은 목소리로 자꾸 가…
+k	소극재산	sogeukjaesan	
+k	소극적인	sogeukjeogin	
+k	소극판단	sogeukpandan	
+k	소금병	sogeumbyeong	
+k	소꿉동무	sokkupdongmu	a childhood friend; a fri…
+k	소꿉친구	sokkupchingu	synonym of 소꿉동무 (sokkupdo…
+k	소나기구름	sonagigureum	소나기를 동반하는 두껍고 어두운 구름.
+k	소녀 만화	sonyeomanhwa	
+k	소녀문학	sonyeomunhak	
+k	소녀취미	sonyeochwimi	
+k	소득공제	sodeukgongje	
+k	소득소득	sodeuksodeuk	
+k	소들소들	sodeulsodeul	
+k	소등나팔	sodeungnapal	
+k	소등시간	sodeungsigan	
+k	소리표머리	soripyomeori	(명사) '머리'의 북한말.
+k	소마소마하다	somasomahada	
+k	소매가격	somaegagyeok	
+k	소멸되다	somyeoldoeda	
+k	소멸시효	somyeolsihyo	
+k	소명하다	somyeonghada	사리를 분간함이 밝고 똑똑하다.
+k	소방대원	sobangdaewon	
+k	소방망루	sobangmangnu	
+k	소복단장	sobokdanjang	
+k	소비경기	sobigyeonggi	
+k	소비경제	sobigyeongje	
+k	소비금융	sobigeumyung	
+k	소상공인	sosanggongin	근로자 수가 5인(업종에 따라 10인) 이하인…
+k	소송사건	sosongsageon	
+k	소송요건	sosongyogeon	
+k	소송조건	sosongjogeon	
+k	소송참가	sosongchamga	
+k	소스라치다	soseurachida	깜짝 놀라 몸을 갑자기 떠는 듯이 움직이다.
+k	소시락대다	sosirakdaeda	
+k	소식불통	sosikbultong	
+k	소아 성애자	soaseongaeja	
+k	소아결핵	soagyeolhaek	
+k	소액결제	soaekgyeolje	.
+k	소용돌이도	soyongdolido	유체 안의 국소적인 순환을 나타내는 물리량을 …
+k	소음 공해	soeumgonghae	
+k	소인수 분해	soinsubunhae	(수학) 합성수를 소수인 인수의 곱으로 나타내…
+k	소작쟁의	sojakjaengui	
+k	소젖기름	sojeotgireum	synonym of 버터 (beoteo, “b…
+k	소짝소짝	sojjaksojjak	
+k	소크라테스	sokeurateseu	
+k	소프트모자	sopeuteumoja	
+k	소프트웨어	sopeuteuweeo	software (encoded compute…
+k	소행성	sohaengseong	asteroid
+k	소협주곡	sohyeopjugok	
+k	소화작용	sohwajagyong	
+k	속눈썹	songnunsseop	eyelash
+k	속닥속닥	sokdaksokdak	
+k	속달속달	sokdalsokdal	
+k	속달우편	sokdarupyeon	
+k	속삭속삭	soksaksoksak	
+k	속살속살	soksalsoksal	
+k	속성법	sokseongbeop	
+k	속수무책	soksumuchaek	being at a loss what to d…
+k	속임동작	sogimdongjak	'페인트'.
+k	손 세정제	sonsejeongje	
+k	손가락 마디	songarakmadi	
+k	손가락말	songarangmal	'수화(手話)'의 북한말.
+k	손벽춤	sonbyeokchum	'수박춤'의 북한말.
+k	손상되다	sonsangdoeda	
+k	손이 모자라다	sonimojarada	일하는 사람이 부족하다.
+k	손전등	sonjeondeung	flashlight, torch
+k	손전화기	sonjeonhwagi	
+k	손타리난타	sontarinanta	
+k	손톱괄호	sontopgwalho	'소괄호'.
+k	손톱깎기	sontopkkakgi	'손톱깎이'의 비표준어.
+k	손톱깎이	sontopkkakki	nail clipper
+k	손톱물감	sontommulgam	
+k	손해보험	sonhaeboheom	
+k	솔딸개리	solttalgaeri	'솔방울'의 함경도 방언.
+k	솔로몬 제도	sollomonjedo	Solomon Islands (a countr…
+k	솔로몬제도	sollomonjedo	태평양 남쪽 호주의 위쪽에 있는 섬나라 이름.
+k	송강가사	songganggasa	
+k	송금환	songgeumhwan	
+k	송년회	songnyeonhoe	year-end party
+k	송덕문	songdeongmun	
+k	송두리째	songdurijjae	root and branch, all, com…
+k	송별식	songbyeolsik	어떤 사람을 떠나보내기 위해 파티 등을 여는 …
+k	송별회	songbyeolhoe	
+k	송양지인	songyangjiin	
+k	송이버섯	songibeoseot	
+k	송전선	songjeonseon	
+k	송조활자	songjohwalja	
+k	송화다식	songhwadasik	
+k	송화밀수	songhwamilsu	
+k	쇠갈밭쥐	soegalbatjwi	The mandarin vole, Lasiop…
+k	쇠뇌병	soenoebyeong	쇠뇌를 쏘는 병사.
+k	쇠똥구리	soettongguri	
+k	쇠물돼지	soemuldwaeji	finless porpoise
+k	쇠재두루미	soejaedurumi	The demoiselle crane, Ant…
+e	social housing	socialhousing	1 meaning
+e	social justice	socialjustice	1 meaning
+e	social network	socialnetwork	1 meaning
+e	social science	socialscience	1 meaning
+e	social studies	socialstudies	1 meaning
+e	socialization	socialization	1 meaning
+e	sockeye salmon	sockeyesalmon	1 meaning
+e	sodium nitrate	sodiumnitrate	1 meaning
+e	soil pollution	soilpollution	1 meaning
+e	solar calendar	solarcalendar	1 meaning
+e	soldering iron	solderingiron	1 meaning
+e	somewhere else	somewhereelse	2 meanings
+e	sonic hedgehog	sonichedgehog	1 meaning
+e	sooner or later	soonerorlater	1 meaning
+e	sophisticated	sophisticated	1 meaning
+e	south atlantic	southatlantic	1 meaning
+e	south carolina	southcarolina	1 meaning
+e	south caucasus	southcaucasus	1 meaning
+e	south china sea	southchinasea	1 meaning
+e	south cotabato	southcotabato	1 meaning
+e	south hamgyong	southhamgyong	1 meaning
+e	south hwanghae	southhwanghae	1 meaning
+e	south sardinia	southsardinia	1 meaning
+e	south sulawesi	southsulawesi	1 meaning
+e	southeast asia	southeastasia	1 meaning
+e	southern altai	southernaltai	1 meaning
+e	southern cross	southerncross	1 meaning
+e	southern ocean	southernocean	1 meaning
+j	そこで直ちに	sokodenochini	
+j	そこはかとない	sokohakatonai	in a vague, indescribable…
+j	そだちざかり	sodachizakari	period in a child's life …
+j	そのばしのぎ	sonobashinogi	enough to brave the curre…
+j	そのひぐらし	sonohigurashi	安定的な生活の基盤や余裕のある財産などを持たずに毎…
+j	その日暮らし	sonohigurashi	living hand-to-mouth
+j	そらっとぼける	sorattobokeru	「そらとぼける」の促音化。
+j	そり立つ壁	soritatsukabe	
+j	それにしても	sorenishitemo	at any rate, nevertheless…
+j	それはさておき	sorehasateoki	話題を転ずるときに用いる句。
+j	そんなにまでも	sonnanimademo	
+j	そんな事より	sonnakotoyori	more importantly
+j	ソビエトロシア	sobietoroshia	
+j	ソフトドリンク	sofutodorinku	a non-alcoholic drink
+j	ソロモンの知恵	soromonnochie	Wisdom of Solomon
+j	ソヴィエト連邦	sovuietorenpo	「ソビエト連邦」の表記揺れ。
+j	ソーシャルスキル	sosharusukiru	社会生活で求められるコミュニケーションなどの技能。
+j	ソーセージシズル	sosejishizuru	ソーセージと玉葱を食パンに挟み、ケチャップやマスタ…
+j	ソーラーシステム	sorashisutemu	a kind of solar water hea…
+j	卒園文集	sotsuenbunshu	卒園生一人一人や保護者、教員や保育士が書き、卒園生…
+j	卒園証書	sotsuenshosho	幼稚園や保育園、認定こども園の教育課程を修了したこ…
+j	卒業式	sotsugyoshiki	graduation ceremony, comm…
+j	即席ラーメン	sokusekiramen	
+j	双曲正弦	sokyokuseigen	
+j	存在論的	sonzaironteki	
+j	束縛を解く	sokubakuotoku	
+j	束縛変数	sokubakuhensu	
+j	束縛変項	sokubakuhenko	
+j	相互接続	sogosetsuzoku	
+j	相対性理論	sotaiseiriron	the theory of relativity
+j	相対湿度	sotaishitsudo	relative humidity
+j	相貌失認	soboshitsunin	prosopagnosia
+j	租税回避地	sozeikaihichi	tax haven
+j	空飛ぶ円盤	soratobuenban	
+j	窓外放出	sogaihoshutsu	
+j	組織犯罪	soshikihanzai	
+j	組織間液	soshikikaneki	「組織液」を参照。
+j	葬式仏教	soshikibukkyo	A satirical term referrin…
+j	速読術	sokudokujutsu	speed reading
+k	소강상태	sogangsangtae	위험기상이 잠잠해지거나 약화된 상태.
+k	소고구려국	sogoguryeoguk	소고구려.
+k	소고기덮밥	sogogideopbap	‘쇠고기덮밥’을 달리 이르는 말.
+k	소곤닥대다	sogondakdaeda	'소곤닥거리다'.
+k	소근거리다	sogeungeorida	'소곤거리다'의 비규범 표기.
+k	소년문학	sonyeonmunhak	
+k	소년병	sonyeonbyeong	18세미만의 미성년으로 이루어진 병력.
+k	소리같은말	sorigateunmal	'동음이의어'의 북한말.
+k	소리를 내다	sorireulnaeda	
+k	소방대장	sobangdaejang	fire marshal, fire chief
+k	소방망대	sobangmangdae	
+k	소변검사	sobyeongeomsa	urinalysis
+k	소셜 미디어	sosyeolmidieo	
+k	소송절차	sosongjeolcha	
+k	소송행위	sosonghaengwi	
+k	소승불교	soseungbulgyo	
+k	소신공양	sosingongyang	
+k	소아치과의사	soachigwauisa	
+k	소용가 없다	soyonggaeopda	
+k	소주명곡	sojumyeonggok	
+k	소포클레스	sopokeulleseu	
+k	소혀버섯	sohyeobeoseot	
+k	소화 불량	sohwabullyang	
+k	소화불량	sohwabullyang	
+k	속닥거리다	sokdakgeorida	남이 알아듣지 못하도록 작은 목소리로 은밀하게…
+k	속달거리다	sokdalgeorida	남이 알아듣지 못하도록 작은 목소리로 조금 수…
+k	속도빙상	sokdobingsang	
+k	속삭거리다	soksakgeorida	남이 알아듣지 못하도록 나지막한 목소리로 자꾸…
+k	속살거리다	soksalgeorida	남이 알아듣지 못하도록 작은 목소리로 자질구레…
+k	속씨식물	sokssisingmul	꽃식물 가운데 밑씨가 씨방 안에 싸여 있는 식…
+k	손가락 하트	songarakhateu	finger heart
+k	손가락뼈	songarakppyeo	손가락을 이루는 뼈. 엄지에 2개가 있고 나머…
+k	손목 밴드	sonmokbaendeu	
+k	손익계정	sonikgyejeong	
+k	손톱묶음	sontommukkeum	'소괄호'.
+k	손해배상	sonhaebaesang	
+k	손허리뼈	sonheorippyeo	손목뼈과 손가락뼈 사이에 있는 뼈. 손바닥 혹…
+k	솔선수범	solseonsubeom	setting an example
+k	송금수표	songgeumsupyo	
+k	송달서류	songdalseoryu	
+k	송도삼절	songdosamjeol	
+k	송로버섯	songnobeoseot	
+k	송별연	songbyeoryeon	
+k	송아지동무	songajidongmu	childhood friend
+k	쇠솔딱새	soesolttaksae	Asian brown flycatcher (M…
+k	쇠향고래	soehyanggorae	The dwarf sperm whale, Ko…
+e	social contract	socialcontract	1 meaning
+e	social democrat	socialdemocrat	1 meaning
+e	social movement	socialmovement	1 meaning
+e	social security	socialsecurity	1 meaning
+e	society of jesus	societyofjesus	1 meaning
+e	socratic method	socraticmethod	1 meaning
+e	sodium benzoate	sodiumbenzoate	1 meaning
+e	sodium chloride	sodiumchloride	1 meaning
+e	solomon islands	solomonislands	1 meaning
+e	source language	sourcelanguage	1 meaning
+e	south australia	southaustralia	1 meaning
+e	south-southeast	southsoutheast	1 meaning
+e	south-southwest	southsouthwest	1 meaning
+e	southern africa	southernafrica	1 meaning
+e	southern europe	southerneurope	1 meaning
+e	sovereign state	sovereignstate	1 meaning
+j	そうでなければ	sodewanakereba	
+j	そこぬけさわぎ	sokonukesawagi	酒宴などで度外れに騒ぐこと。馬鹿騒ぎ。
+j	そつぎょうしょうしょ	sotsugyoshosho	卒業証書: diploma
+j	その他の雑酒	sonotanozasshu	"other miscellaneous alco…
+j	その場で決めた	sonobadekimeta	
+j	それに関して	sorenikanshite	
+j	ソナタ形式	sonatakeishiki	sonata form
+j	ソフトウエア工学	sofutoeakogaku	「ソフトウェア工学」の表記ゆれ。
+j	倉頡輸入法	soketsuyunyuho	コンピュータで中国語を入力するときの方法。漢字を形…
+j	側頭頭頂筋	sokutotochokin	a temporoparietalis muscle
+j	卒園アルバム	sotsuenarubamu	幼稚園や保育園、認定こども園などの卒園の際、卒園生…
+j	卒園制作	sotsuenseisaku	幼稚園や保育園、認定こども園の年長が卒園を記念して…
+j	卒業文集	sotsugyobunshu	卒業生一人一人が書き、卒業生に配布する文集。
+j	卒業研究	sotsugyokenkyu	卒業をするための研究。
+j	卒業設計	sotsugyosekkei	卒業をするための設計。
+j	卒業証書	sotsugyoshosho	diploma
+j	卒業試験	sotsugyoshiken	graduation examination
+j	卒業論文	sotsugyoronbun	卒業をするための論文。
+j	外堀を埋める	sotoborioumeru	to remove obstacles in th…
+j	揃いも揃って	soroimosorotte	all; with every member be…
+j	損益分岐点	sonekibunkiten	break-even point
+j	測定学者	sokuteigakusha	測定学を研究する科学者。
+j	相対式ホーム	sotaishikihomu	二つの線路の外側に設置されているプラットホーム。
+j	素数計数関数	sosukeisukansu	正の実数にそれ以下の素数の個数を対応させる関数。π…
+j	草食動物	soshokudobutsu	An herbivore.
+j	足底筋膜	sokuteikinmaku	
+j	速度を保つ	sokudootamotsu	
+j	速達郵便	sokutatsuyubin	通常の郵便より優先して扱われ、速く相手に到着するよ…
+k	소곤소곤하다	sogonsogonhada	
+k	소곳소곳하다	sogotsogothada	
+k	소년범죄	sonyeonbeomjoe	
+k	소득증대	sodeukjeungdae	
+k	소락소락하다	soraksorakhada	말이나 행동이 요량 없이 경솔하다.
+k	소란스럽다	soranseureopda	noisy; uproarious
+k	소록소록하다	soroksorokhada	
+k	소름 끼치다	soreumkkichida	
+k	소말릴란드	somallillandeu	소말리아북쪽에 위치한 미승인 독립국. 수도는 …
+k	소말소말하다	somalsomalhada	
+k	소변불통	sobyeonbultong	
+k	소변을 보다	sobyeoneulboda	
+k	소복소복하다	soboksobokhada	
+k	소북소북하다	sobuksobukhada	
+k	소비성향	sobiseonghyang	
+k	소송판결	sosongpangyeol	
+k	소시락거리다	sosirakgeorida	
+k	소시락소시락	sosiraksosirak	풀잎이나 나뭇가지 따위가 가볍게 자꾸 움직일 …
+k	소유 한정사	soyuhanjeongsa	
+k	소이대동하다	soidaedonghada	
+k	소집영장	sojibyeongjang	
+k	소쩍소쩍	sojjeoksojjeok	
+k	소프트 크림	sopeuteukeurim	
+k	소프트커버	sopeuteukeobeo	softcover
+k	속사권총	soksagwonchong	
+k	속성음식	sokseongeumsik	fast food
+k	속성재배	sokseongjaebae	
+k	속소그레하다	soksogeurehada	조금 작은 여러 개의 물건이 크기가 거의 고르…
+k	손가락무늬	songarangmunui	'지문'.
+k	손뼉치기	sonppyeokchigi	
+k	솔뿌리기름	solppurigireum	turpentine
+k	송구영신	songguyeongsin	
+k	송무백열	songmubaegyeol	'소나무가 무성하니 잣나무가 기뻐한다'는 의미…
+k	쇠고기덮밥	soegogideopbap	쇠고기와 야채를 볶아 밥 위에 얹어 먹는 덮밥.
+k	쇠부리슴새	soeburiseumsae	The short-tailed shearwat…
+e	sociable lapwing	sociablelapwing	1 meaning
+e	social darwinism	socialdarwinism	1 meaning
+e	social democracy	socialdemocracy	1 meaning
+e	social insurance	socialinsurance	1 meaning
+e	sodium carbonate	sodiumcarbonate	1 meaning
+e	sodium hydroxide	sodiumhydroxide	1 meaning
+e	soft-shell turtle	softshellturtle	1 meaning
+e	solar prominence	solarprominence	1 meaning
+e	solid-state drive	solidstatedrive	1 meaning
+e	south gyeongsang	southgyeongsang	1 meaning
+e	southeast by east	southeastbyeast	1 meaning
+e	southern tigrina	southerntigrina	1 meaning
+e	southwest by west	southwestbywest	1 meaning
+e	são tomé and príncipe	sotomandprncipe	1 meaning
+j	そうではないですか	sodewanaidesuka	
+j	それに違いない	sorenichigainai	
+j	ソフィー・ジェルマン素数	sofijerumansosu	
+j	ソフトウェア工学	sofutoweakogaku	software engineering
+j	ソルトレーク・シティ	sorutorekushiti	
+j	ソートアルゴリズム	sotoarugorizumu	
+j	倉頡入力	soketsunyuryoku	
+j	卒業アルバム	sotsugyoarubamu	学校などの卒業の際、卒業生に記念として作成、配布さ…
+j	卒業制作	sotsugyoseisaku	卒業をするための制作。
+j	即断即決	sokudansokketsu	deciding immediately
+j	即製食品	sokuseishokuhin	
+j	双曲正接	sokyokuseisetsu	
+j	双曲線関数	sokyokusenkansu	双曲線の媒介変数表示として得られる関数。自然指数関…
+j	外は寒いです	sotowasamuidesu	
+j	尊属殺人	sonzokusatsujin	本人から見て尊属に当たる者を殺すこと。
+j	損益計算書	sonekikeisansho	企業が一定期間に行った経営活動の状況（経営成績）を…
+j	租税公平主義	sozeikoheishugi	租税法の基本原則の一つ。租税の負担は国民の担税力に…
+j	総合建設業	sogokensetsugyo	土木から建築まで一括して行う建設業。
+j	総合振興局	sogoshinkokyoku	北海道の振興局のうち周辺の振興局に関する広域業務も…
+j	装甲戦闘車両	sokosentosharyo	戦車や装甲車、自走砲などの装甲を持ち攻撃用の武器で…
+k	소곤닥거리다	sogondakgeorida	남이 알아듣지 못하도록 작은 목소리로 어수선하…
+k	소년궁전	sonyeongungjeon	
+k	소등쪼기새	sodeungjjogisae	
+k	소아성애증	soaseongaejeung	
+k	소유 대명사	soyudaemyeongsa	사람이나 사물이 무엇을 가진 것을 나타내는 대…
+k	소유대명사	soyudaemyeongsa	
+k	소프트 테니스	sopeuteuteniseu	soft tennis
+k	소프트볼공	sopeuteubolgong	
+k	소행렬식	sohaengnyeolsik	정사각 행렬의 i번째 행과 j번째 열을 없애고…
+k	소행성대	sohaengseongdae	소행성들이 몰려있는 화성과 목성사이의 궤도면
+k	소행성체	sohaengseongche	항성 주위를 공전하는 천체로, 행성보다 작으면…
+k	속전속결	sokjeonsokgyeol	lightning war
+k	손가락질하다	songarakjilhada	
+k	솔로몬의 지혜	sollomonuijihye	Wisdom of Solomon
+k	송곳부리도요	songgotburidoyo	
+k	쇠제비갈매기	soejebigalmaegi	
+k	쇠황조롱이	soehwangjorongi	The merlin, Falco columba…
+e	social distancing	socialdistancing	1 meaning
+e	sociolinguistics	sociolinguistics	1 meaning
+e	software engineer	softwareengineer	1 meaning
+e	something or other	somethingorother	1 meaning
+e	south chungcheong	southchungcheong	1 meaning
+e	southeast by south	southeastbysouth	1 meaning
+e	southern black tit	southernblacktit	1 meaning
+e	southern rhodesia	southernrhodesia	1 meaning
+e	southwest by south	southwestbysouth	1 meaning
+j	それにもかかわらず	sorenikakawarazu	
+j	ソフトウェアエンジニア	sofutoweaenjinia	
+j	ソフトボール選手	sofutoborusenshu	ソフトボールで実際に競技をする選手。
+j	ソマリハイイロガラ	somarihaiirogara	
+j	ソルトレイクシティ	sorutoreikushiti	Salt Lake City (a city, t…
+j	ソルトレイク・シティ	sorutoreikushiti	
+j	ソーシャルディスタンス	sosharudisutansu	social distancing
+j	ソーシャルネットワーク	sosharunettowaku	
+j	即応予備自衛官	sokuoyobijieikan	陸上自衛隊の予備役。
+j	即時削除する	sokujisakujosuru	
+j	双心四角形	soshinshikakukei	内接円・外接円共に有する四角形。
+j	双極性障害	sokyokuseishogai	bipolar disorder, manic d…
+j	束縛形態素	sokubakukeitaiso	
+j	相互確証破壊	sogokakushohakai	
+j	相対論的効果	sotairontekikoka	「相対論効果」に同じ。
+j	相貌失認症	soboshitsuninsho	
+j	足底筋膜炎	sokuteikinmakuen	
+j	速度変動率	sokudohendoritsu	負荷が急変した直後に発電機の歯車の回転速度が一時的…
+k	소곤닥소곤닥	sogondaksogondak	
+k	소능형골	soneunghyeonggol	
+k	소드락소드락	sodeuraksodeurak	
+k	소득소득하다	sodeuksodeukhada	
+k	소들소들하다	sodeulsodeulhada	
+k	소비에트 연방	sobieteuyeonbang	(historical) Soviet Union…
+k	소송능력	sosongneungnyeok	
+k	소용돌이 운동	soyongdoliundong	유체 중에서 회전하고 있는 부분을 소용돌이라 …
+k	소짝소짝하다	sojjaksojjakhada	
+k	소처럼 일하다	socheoreomilhada	
+k	소형면허	sohyeongmyeonheo	
+k	속닥속닥하다	sokdaksokdakhada	
+k	속달속달하다	sokdalsokdalhada	
+k	속담에도 있듯이	sokdamedoitdeusi	
+k	속물근성	songmulgeunseong	
+k	속삭속삭하다	soksaksoksakhada	
+k	속살속살하다	soksalsoksalhada	
+k	손가락 관절	songarakgwanjeol	
+k	손발가락뼈	sonbalgarakppyeo	
+k	솔트레이크시티	solteureikeusiti	
+k	송장까마귀	songjangkkamagwi	
+k	쇠목테갈매기	soemoktegalmaegi	
+e	sodium bicarbonate	sodiumbicarbonate	2 meanings
+e	software architect	softwarearchitect	1 meaning
+e	software framework	softwareframework	1 meaning
+e	solitary sandpiper	solitarysandpiper	1 meaning
+e	southern cassowary	southerncassowary	1 meaning
+j	ソニック・ヘッジホッグ	sonikkuhejjihoggu	
+j	ソフトウェア枠組み	sofutoweawakugumi	
+j	倉頡入力法	soketsunyuryokuho	コンピュータで中国語を入力するときの方法。漢字を形…
+j	卒業設計展	sotsugyosekkeiten	卒業設計で完成した作品を展示する発表会。
+j	双子葉植物	soshiyoshokubutsu	被子植物で、子葉が2枚の植物の分類。
+j	双曲余弦関数	sokyokuyogenkansu	双曲線余弦関数。
+j	租税法律主義	sozeihoritsushugi	租税法の基本原則の一つ。租税は法律の根拠がない限り…
+j	装甲現金輸送車	sokogenkinyusosha	
+j	速度調停率	sokudochoteiritsu	発電機の発電出力の変化に対して、回転速度がどの程度…
+k	소셜 네트워크	sosyeolneteuwokeu	
+k	소프트볼 선수	sopeuteubolseonsu	
+k	소화성궤양	sohwaseonggweyang	
+k	속도측정기	sokdocheukjeonggi	
+k	속임수를 쓰다	sogimsureulsseuda	
+k	손에 장을 지지다	sonejangeuljijida	상대방이 하는 일을 두고 그 일이 일어날 가능…
+k	솔선수범하다	solseonsubeomhada	
+k	쇠귀에 경 읽기	soegwiegyeongikgi	소 앞에서 아무리 좋은 말을 지껄여도 그 소가…
+k	쇠청다리도요	soecheongdaridoyo	
+k	쇠푸른펭귄	soepureunpenggwin	
+e	sophie germain prime	sophiegermainprime	1 meaning
+e	southern hemisphere	southernhemisphere	1 meaning
+j	ソフトウェアアーキテクト	softoweaaakitekuto	
+j	ソフトウェア建築家	softoweakenchikuka	
+j	ソブリン・ウエルス・ファンド	soburinuerusufando	政府系ファンド、略してSWFという。
+j	卒業制作展	sotsugyoseisakuten	卒業制作で完成した作品を展示する発表会。
+j	双曲正弦関数	sokyokuseigenkansu	双曲線正弦関数。
+k	소유권이 도래하다	soyugwonidoraehada	렌탈 기간이 끝나 소유권이 렌탈 계약자에게로 …
+k	소프트 드링크	sopeuteudeuringkeu	
+k	소피 제르맹 소수	sopijereumaengsosu	
+k	속도위반 결혼	sokdowibangyeolhon	
+k	속물적인 사람	songmuljeoginsaram	
+k	손바닥선인장	sonbadakseoninjang	
+e	software engineering	softwareengineering	1 meaning
+e	solitary confinement	solitaryconfinement	1 meaning
+j	そうは問屋が卸さない	sohatonyagaorosanai	そんなに上手くいくものではない。
+j	ソフトウェアの枠組み	sofutoweanowakugumi	
+j	ソフトウェアフレームワーク	sofutoweafuremuwaku	
+j	ソーシャルエンジニアリング	sosharuenjiniaringu	社会的な手段による、パスワードなどの情報の入手。
+j	ソーシャル・エンジニアリング	sosharuenjiniaringu	ソーシャルエンジニアリングの別形。
+j	備えあれば憂いなし	sonaearebaureinashi	事前に起こりうることを色々と想定して備えておけば、…
+j	双対ベクトル空間	sotsuibekutorukukan	「双対空間」に同じ。
+j	双曲余割関数	sokyokuyokatsukansu	双曲線余割関数。
+j	双曲余接関数	sokyokuyosetsukansu	双曲線余接関数。
+j	双眼実体顕微鏡	soganjittaikenbikyo	二つの穴から立体的に物体を観察できる顕微鏡。
+j	損失をもたらす	sonshitsuwomotarasu	
+j	素粒子物理学	soryushibutsurigaku	
+j	総合無線通信士	sogomusentsushinshi	海上、航空、陸上の無線局の無線操作を行うことが出来…
+k	소시지 야채 볶음	sosijiyachaebokkeum	stir-fried sausage and ve…
+k	소프트 아이스크림	sopeuteuaiseukeurim	
+k	소프트웨어 공학	sopeuteuweeogonghak	
+k	손목굴 증후군	sonmokguljeunghugun	
+e	social justice warrior	socialjusticewarrior	1 meaning
+e	social security number	socialsecuritynumber	1 meaning
+e	south african republic	southafricanrepublic	1 meaning
+e	south shetland islands	southshetlandislands	1 meaning
+j	ソクラテス式討論	sokuratesushikitoron	
+j	ソフトウェアの建築家	softoweanokenchikuka	
+j	ソフトウエアエンジニアリング	sofutoeaenjiniaringu	「ソフトウェアエンジニアリング」の表記ゆれ。
+j	ソリッドステートドライブ	soriddosutetodoraibu	
+j	ソーシャルディスタンシング	sosharudisutanshingu	社会距離拡大戦略。
+j	ソーシャル・ジャスティス・ウォリアー	sosharujasutisuworia	フェミニズム、人権、文化多様性などの進歩的な思想を…
+j	双曲正割関数	sokyokuseikatsukansu	双曲線正割関数。
+j	双曲正接関数	sokyokuseisetsukansu	双曲線正接関数。
+j	双曲線余弦関数	sokyokusenyogenkansu	cosh x=(eˣ+e⁻ˣ)/2と定義される関数。
+k	소곤닥소곤닥하다	sogondaksogondakhada	남이 알아듣지 못하도록 작은 목소리로 자꾸 어…
+k	소드락소드락하다	sodeuraksodeurakhada	
+k	소스락소스락하다	soseuraksoseurakhada	
+k	소프트웨어 엔지니어	sopeuteuweeoenjinieo	
+k	손가락을 튕기다	songarageultwinggida	
+e	social anxiety disorder	socialanxietydisorder	1 meaning
+j	それぞれ自分自身に	sorezorejibunjishinni	
+j	ソフトウェアエンジニアリング	sofutoweaenjiniaringu	ソフトウェアの作成、維持などに工学的な手法を取り入…
+j	ソマリア連邦共和国	somariarenpokyowakoku	Federal Republic of Somal…
+j	双曲線正弦関数	sokyokusenseigenkansu	sinh x=(eˣ-e⁻ˣ)/2と定義される関数。
+j	袖振り合うも多生の縁	sodefuriaumotashonoen	everything is predestined…
+k	소유격 형용사	soyugyeokhyeongyongsa	
+j	ソクラテス式問答法	sokuratesushikimondoho	
+j	ソマリア民主共和国	somariaminshukyowakoku	ソマリアの正式な国号。
+j	ソーシャルスキルトレーニング	sosharusukirutoreningu	精神障害や発達障害がある者に対し、各場面で取るべき…
+j	即席爆発装置	sokusekibakuhatsusochi	
+j	双曲線余割関数	sokyokusenyokatsukansu	csch,x=1/(sinh x)と定義される関数。
+j	双曲線余接関数	sokyokusenyosetsukansu	coth,x=1/(tanh x)と定義される関数。
+j	走査型電子顕微鏡	sosagatadenshikenbikyo	
+e	social project management	socialprojectmanagement	1 meaning
+e	soviet socialist republic	sovietsocialistrepublic	1 meaning
+j	双曲線正割関数	sokyokusenseikatsukansu	sech,x=1/(cosh x)と定義される関数。
+j	双曲線正接関数	sokyokusenseisetsukansu	tanh x=(eˣ-e⁻ˣ)/(eˣ+e⁻ˣ)(…
+j	桑田変じて滄海となる	sodenhenjitesokaitonaru	synonym of 桑田滄海 (sōdensōk…
+j	滄海変じて桑田となる	sokaihenjitesodentonaru	synonym of 滄海桑田 (sōkaisōd…
+k	소 잃고 외양간 고친다	soilkooeyanggangochinda	소를 도둑맞은 다음에 소 우리를 고친다면 이것…
+k	소방본부를 불러요	sobangbonbureulbulleoyo	
+k	손목 터널 증후군	sonmokteoneoljeunghugun	
+k	손바닥을 얼굴에 대다	sonbadageuleolguredaeda	
+e	southern pig-tailed macaque	southernpigtailedmacaque	1 meaning
+j	そんなことは絶対させない	sonnakotowazettaisasenai	
+j	層状含銅硫化鉄鉱鉱床	sojogandoryukatekkokosho	bedded cupriferous iron s…
+k	소셜 저스티스 워리어	sosyeoljeoseutiseuworieo	
+j	ソーシャル・ネットワーキング・サービス	sosharunettowakingusabisu	会員同士で交流することを目的としたインターネット上…
+k	소크라테스식 대화법	sokeurateseusikdaehwabeop	
+e	socialist republic of romania	socialistrepublicofromania	1 meaning
+e	socialist republic of vietnam	socialistrepublicofvietnam	1 meaning
+e	sow the wind, reap the whirlwind	sowthewindreapthewhirlwind	1 meaning
+j	それについて話したくない	sorenitsuitehanashitakunai	
+j	ソビエト連邦構成共和国	sobietorenpokoseikyowakoku	
+j	双曲線関数の加法定理	sokyokusenkansunokahoteiri	双曲線関数に関する加法定理。
+j	走査型透過電子顕微鏡	sosagatatokadenshikenbikyo	
+k	소형 연식 비행선	sohyeongyeonsikbihaengseon	
+k	쇠뿔도 단김에 빼랬다	soeppuldodangimeppaeraetda	strike while the iron is …
+j	ソビエト社会主義共和国	sobietoshakaishugikyowakoku	
+k	소방본부를 불러주세요	sobangbonbureulbulleojuseyo	
+k	소비에트 사회주의 공화국	sobieteusahoejuuigonghwaguk	
+j	その手は桑名の焼き蛤	sonotehakuwananoyakihamaguri	その手にはひっかからないことをしゃれて言う地口。「…
+j	ソーシャルプロジェクトマネジメント	sosharupurojekutomanejimento	
+k	소나기는 피하는 게 상책	sonagineunpihaneungesangchaek	"a rain shower is better …
+j	ソビエト社会主義共和国連邦	sobietoshakaishugikyowakokurenpo	Union of Soviet Socialist…
+j	ソヴィエト社会主義共和国連邦	sovietoshakaishugikyowakokurenpo	
+k	소비에트 사회주의 공화국 연방	sobieteusahoejuuigonghwagukyeonbang	Union of Soviet Socialist…
+e	south georgia and the south sandwich islands	southgeorgiaandthesouthsandwichislands	1 meaning

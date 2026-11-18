@@ -1,0 +1,1598 @@
+j	ご	ご	「御」のかな表記。
+j	互	ご	mutual
+j	五	ご	five
+j	伍	ご	the number five, 5 (used …
+j	午	ご	the Horse, the seventh of…
+j	呉	ご	Japanese reading of the C…
+j	後	ご	the back, the rear, behind
+j	御	ご	used to respectfully refe…
+j	期	ご	time; period
+j	碁	ご	go (board game)
+j	語	ご	a word, term
+j	豆油	ご	soybean oil
+j	ごう	ごう	
+j	ごく	ごく	極めて。この上なく。非常に。至極。
+j	ごけ	ごけ	後家: widow
+j	ごご	ごご	
+j	ごし	ごし	場所や物体を表す言葉に付き、動作主と対象の間にそれ…
+j	ごじ	ごじ	
+j	ごぜ	ごぜ	つづみや三味線を演奏し、歌を歌いながら門付けをした…
+j	ごち	ごち	
+j	ごと	ごと	every
+j	ごみ	ごみ	不必要になった物、用が済んだ物
+j	ごろ	ごろ	「ごろつき」の略。
+j	ごん	ごん	銀: silver
+j	ご覧	ご覧	look; looking
+j	ご飯	ご飯	
+j	ゴア	ゴア	Goa (a state in western I…
+j	ゴイ	ゴイ	
+j	ゴク	ゴク	
+j	ゴス	ゴス	
+j	ゴビ	ゴビ	
+j	ゴミ	ごみ	trash, rubbish, garbage
+j	ゴミ	ゴミ	trash, rubbish, garbage
+j	ゴム	ゴム	rubber (pliable material …
+j	ゴロ	ゴロ	地面を転がったり低く弾んでいくボール。匍球。
+j	ゴー	ゴー	go!
+j	互市	ごし	外国と互いに物品の取引をすること。貿易。交易。
+j	五事	ごじ	礼節における五つの重要な事項。貌、言、視、聴、思。
+j	五儀	ごぎ	公爵、侯爵、伯爵、子爵、男爵の五つの爵位。
+j	五分	ごぶ	（ごふん）1分の五倍。
+j	五加	ごか	synonym of 五加木 (ugoki, “f…
+j	五古	ごこ	「五言古詩」の略。
+j	五味	ごみ	the five tastes
+j	五器	ごき	仏前に供える五つの仏具。一対の花瓶、一対の燭台、香…
+j	五噫	ごい	世間に受け入れられないことを嘆くこと。
+j	五土	ごど	地形の五つの種類。山林・川沢・丘陵・墳衍・原隰。五…
+j	五地	ごち	地形の五つの種類。山林・川沢・丘陵・墳衍・原隰。五…
+j	五度	ごど	五回。
+j	五悔	ごげ	（ごかい）真言宗における金剛界の五つの懺悔の礼法。…
+j	五指	ごし	the five fingers; fingers
+j	五時	ごじ	five o'clock
+j	五智	ごち	大日如来が備える五つの智慧。
+j	五期	ごき	五つの期間。
+j	五気	ごき	東西南北と中央の五つの方角の気。
+j	五湖	ごこ	代表的な五つの湖。
+j	五畿	ごき	日本でかつての山城国、大和国、河内国、和泉国、摂津…
+j	五稼	ごか	五穀のこと。
+j	五紀	ごき	a female given name
+j	五絝	ごこ	五着の袴。
+j	五義	ごぎ	人がまもるべき五つの道。父親は義、母親は慈、兄は友…
+j	五胡	ごこ	中国の後漢から晋にかけて北方から侵入し、独立した五…
+j	五苦	ごく	人生における五つの苦。
+j	五鈷	ごこ	A five-pronged vajra
+j	兀	ごつ	bald (person); treeless (…
+j	剛	ごう	a male given name
+j	劫	ごう	kalpa: a unit of time in …
+j	劫	ごふ	kalpa: a unit of time in …
+j	午下	ごか	午後。昼過ぎ。
+j	午后	ごご	「午後」の別表記。
+j	午夜	ごや	midnight
+j	午後	ごご	afternoon, PM
+j	午時	ごじ	the hour of the Horse, 11…
+j	号	ごう	number
+j	合	ごう	covered containers
+j	呉器	ごき	抹茶をたてる茶碗の一つ。
+j	呉語	ごご	Wu (one of the families o…
+j	壕	ごう	moat, trench
+j	如	ごと	tathata, thusness, suchne…
+j	寤寐	ごび	覚醒していることと睡眠していること。寝ても覚めても。
+j	寤寐	ごみ	覚醒していることと睡眠していること。寝ても覚めても。
+j	後史	ごし	posthistory
+j	後場	ごば	金融商品取引所で、午後の取引時間のこと。取引時間が…
+j	後夫	ごふ	夫と死別または離別後に連れ添う配偶者。
+j	後家	ごけ	widow
+j	後度	ごど	後。後日。
+j	後座	ござ	後方の座席。
+j	後手	ごて	not having the initiative…
+j	後途	ごど	後。後日。
+j	御供	ごく	供物。おそなえ。
+j	御器	ごき	食べ物を盛り付けるための蓋がついた椀。
+j	御座	ござ	throne
+j	御忌	ごき	貴人や宗派の祖師の年忌。
+j	御所	ごせ	imperial palace
+j	御記	ごき	天子や貴人が記した日記などの記録の丁寧語。
+j	業	ごう	work, task, business: the…
+j	業	ごふ	work, task, business: the…
+j	極	ごく	very, extremely
+j	毫	ごう	ほんのわずか。すこし。
+j	江	ごう	inlet, bay
+j	濠	ごう	moat, trench
+j	牛頭	ごず	Ox-Head, one of the two g…
+j	牛頭	ごづ	Ox-Head, one of the two g…
+j	獄	ごく	prison
+j	瞽女	ごぜ	a blind woman
+j	碁子	ごし	碁石。
+j	碁師	ごし	囲碁を教授する者。碁打ち。
+j	碁笥	ごけ	a bowl or other container…
+j	胡麻	ごま	sesame (Sesamum indicum),…
+j	胡麻	ゴマ	sesame (Sesamum indicum),…
+j	艮	ごん	the seventh of the eight …
+j	語句	ごく	words and phrases
+j	語史	ごし	ある言葉の語義や用法、変化などが変遷してきた歴史。
+j	語呂	ごろ	the ring/sound/feel of an…
+j	語基	ごき	ある接辞の相手となる語または形態素。「お昼ご飯」の…
+j	語尾	ごび	end of a spoken phrase
+j	語彙	ごい	vocabulary
+j	語彙	ごゐ	vocabulary
+j	語志	ごし	「語誌」の異表記。
+j	語意	ごい	言葉の意味。
+j	語次	ごじ	言葉のつづき。
+j	語気	ごき	tone, mode of verbal expr…
+j	語派	ごは	branch/group of languages
+j	語素	ごそ	単語を分解際に意味を持つ最小の要素。
+j	語義	ごぎ	sense, meaning of words; …
+j	語詞	ごし	言葉。言辞。言詞。
+j	語誌	ごし	ある言葉の語義や用法、変化などが変遷してきた歴史。…
+j	語路	ごろ	言葉を発音した時の調子や続き具合。語呂。
+j	誤字	ごじ	a typo
+j	誤差	ごさ	error (difference between…
+j	誤記	ごき	error in writing
+j	護符	ごふ	charm, amulet, talisman
+j	豪	ごう	a male given name
+j	越し	ごし	through, across (somethin…
+j	郷	ごう	hometown
+j	鮴	ごり	a sea perch or rockfish, …
+j	鮴	ゴリ	a sea perch or rockfish, …
+j	ごいそ	ごいそ	語彙素: lexeme
+j	ごいち	ごいち	吾一: a male given name
+j	ごうい	ごうい	合意: agreement
+j	ごうん	ごうん	五蘊: the five skandhas
+j	ごおん	ごおん	呉音: One category of on'yo…
+j	ごかい	ごかい	ゴカイ科に属する動物の総称。
+j	ごかし	ごかし	体言に後接し、「他人を騙したり口実を設けて自分の利…
+j	ごかん	ごかん	五官: the five sense organs
+j	ごがつ	ごがつ	
+j	ごくり	ごくり	gulp
+j	ごくん	ごくん	ものを飲み込んだ時ののどがなる音を表す語。
+j	ごげん	ごげん	
+j	ござい	ござい	「ございます」の略。
+j	ござる	ござる	to exist, to be, to have
+j	ごせん	ごせん	
+j	ごぜん	ごぜん	
+j	ごだい	ごだい	五大: a male given name
+j	ごちく	ごちく	五畜: the five types of liv…
+j	ごちゃ	ごちゃ	
+j	ごっこ	ごっこ	alternately, doing the sa…
+j	ごつい	ごつい	large and defined, as a m…
+j	ごつん	ごつん	重く固いものがぶつかる擬音語。
+j	ごとき	ごとき	Also fossilized in the ph…
+j	ごとく	ごとく	「ごとし」の連用形。
+j	ごとし	ごとし	like
+j	ごとに	ごとに	
+j	ごにち	ごにち	後日: in the future, later,…
+j	ごねる	ごねる	to complain
+j	ごね得	ごね得	complaining in order to g…
+j	ごぼう	ごぼう	
+j	ごまめ	ごまめ	片口鰯をそのまま乾燥させたもの。食用または肥料とし…
+j	ごみ入	ごみ入	
+j	ごみ箱	ごみ箱	garbage can, trash can, r…
+j	ごみ袋	ごみ袋	
+j	ごめん	ごめん	
+j	ごもく	ごもく	あくた。ごみ。
+j	ごりん	ごりん	五輪: Olympic Rings; Olympi…
+j	ごるぁ	ごるぁ	おい。なあ。
+j	ごるふ	ごるふ	ゴルフ: golf
+j	ごろう	ごろう	吾郎, 五郎, 吾朗, 悟郎: a male gi…
+j	ごろね	ごろね	寝巻きに着替えたり、蒲団に入ったりせずに横になって…
+j	ごわす	ごわす	「ある」の丁寧語。
+j	ごんぐ	ごんぐ	欣求: an earnest desire or …
+j	ごんげ	ごんげ	権化: incarnation, avatar
+j	ご両親	ご両親	(both) parents
+j	ご主人	ご主人	husband (referring to som…
+j	ご夫人	ご夫人	wife
+j	ご存知	ご存知	knowing, acquaintance
+j	ご家族	ご家族	
+j	ご機嫌	ご機嫌	spirits; being; mood; hea…
+j	ご法度	ご法度	synonym of 法度 (hatto)
+j	ご祝儀	ご祝儀	
+j	ご神木	ご神木	
+j	ご老人	ご老人	an old person
+j	ご臨終	ご臨終	deathbed, dying moment, d…
+j	ご自分	ご自分	
+j	ご芳名	ご芳名	
+j	ご褒美	ご褒美	子供などをほめて与える金品。
+j	ご覧	ごらん	look; looking
+j	ご降誕	ご降誕	birth (regal)
+j	ご飯	ごはん	
+j	ゴア州	ゴア州	
+j	ゴクリ	ゴクリ	
+j	ゴジラ	ゴジラ	Godzilla
+j	ゴッド	ゴッド	God
+j	ゴネる	ゴネる	
+j	ゴホン	ゴホン	
+j	ゴボウ	ゴボウ	
+j	ゴミ袋	ゴミ袋	
+j	ゴム印	ゴム印	印全体または印面がゴムでつくられた印判。
+j	ゴム輪	ゴム輪	
+j	ゴメリ	ゴメリ	
+j	ゴモラ	ゴモラ	
+j	ゴリラ	ゴリラ	a gorilla (ape)
+j	ゴルァ	ゴルァ	Interjection of anger: oi!
+j	ゴルフ	ゴルフ	golf (ball game)
+j	ゴング	ゴング	a gong
+j	ゴーダ	ゴーダ	
+j	ゴーヤ	ゴーヤ	
+j	ゴール	ゴール	a goal (area)
+j	互助	ごじょ	mutual assistance
+j	互層	ごそう	異なるいくつかの地層が交互に重なりあっていること。
+j	互恵	ごけい	特別な恩恵や便益をお互いに受け合うこと。
+j	互換	ごかん	interchangeability, compa…
+j	互生	ごせい	植物の茎や枝の節ごとに一枚の葉が交互にに出ること。
+j	互用	ごよう	交互に使用、利用すること。
+j	互角	ごかく	equal, worthy, even (in a…
+j	互訓	ごくん	二つの文字が互いにその訓となること。
+j	五ヶ瀬	ごかせ	a town in Nishiusuki dist…
+j	五ヶ瀬	ごヶせ	a town in Nishiusuki dist…
+j	五人	ごにん	five persons; five people
+j	五代	ごだい	五つの時代や世代。また、五つ目の時代や世代。
+j	五体	ごたい	the five parts of a body …
+j	五倫	ごりん	five cardinal relationshi…
+j	五内	ごだい	「五臓」のこと。
+j	五分	ごふん	（ごふん）1分の五倍。
+j	五加皮	ごかひ	dried root-bark of plants…
+j	五労	ごろう	過度に行うと体を疲労させるもの。視、臥、坐、立、行。
+j	五十	ごじふ	fifty, 50
+j	五千	ごせん	
+j	五卜	ごぼく	卜兆で雨、霽、蒙、駅、克の五つの形。
+j	五叉路	ごさろ	道路が五方向へ分かれる場所。
+j	五味子	ごみし	dried berries of Schisand…
+j	五塵	ごじん	煩悩を起こさせ、人の心を汚す五つのもの。色、声、香…
+j	五大	ごだい	the five elements: earth,…
+j	五女	ごじょ	姉妹のうち、五番目に生まれた女。
+j	五宗	ごそう	（ごしゅう）五つの宗派。
+j	五官	ごかん	the five sense organs.
+j	五山	ござん	Five Mountain System
+j	五岳	ごがく	中国で古くから信仰された五つの山。泰山、華山、衡山…
+j	五島	ごしま	five islands
+j	五島	ごたう	five islands
+j	五島	ごとう	five islands
+j	五差路	ごさろ	「五叉路」の別表記。
+j	五帝	ごてい	古代中国における五人の聖君。通常は『史記・五帝本紀…
+j	五帯	ごたい	地球上の五つの気候帯。熱帯と南北にある温帯と寒帯。
+j	五年	ごねん	一年の五倍。五カ年。
+j	五弦	ごげん	五本の弦。
+j	五彩	ごさい	五色。
+j	五徳	ごとく	the five virtues
+j	五心	ごしん	三角形の外心、内心、重心、垂心、傍心の総称。かつて…
+j	五悔	ごかい	（ごかい）真言宗における金剛界の五つの懺悔の礼法。…
+j	五悪	ごあく	the Five Evils
+j	五感	ごかん	the five senses
+j	五戒	ごかい	the Five Precepts
+j	五戸	ごのへ	a town in Sannohe distric…
+j	五才	ごさい	五行説における木、火、土、金、水。
+j	五方	ごほう	五つの方角。中央と四方（東西南北）。
+j	五更	ごこう	the five watches of the n…
+j	五月	ごがつ	May
+j	五木	ごぼく	五種類の木。特に江戸時代、藩が伐採することを禁じた…
+j	五木	ごもく	五種類の木。特に江戸時代、藩が伐採することを禁じた…
+j	五格	ごかく	呼格。
+j	五楽	ごがく	（ごがく）古代中国の季節による五種類の音楽。春は琴…
+j	五楽	ごらく	（ごがく）古代中国の季節による五種類の音楽。春は琴…
+j	五欲	ごよく	人間が持つ五つの欲望。
+j	五歳	ごさい	生後5年目又は5年を経過した年齢の称。
+j	五段	ごだん	階段などの上からまたは下から五つ目の段。
+j	五港	ごこう	幕末の日米和親条約・日米修好通商条約によって開かれ…
+j	五男	ごなん	兄弟のうち、五番目に生まれた男。
+j	五目	ごもく	五つの品目。五種類。
+j	五眼	ごげん	五種類の認識のはたらき。肉眼、天眼、慧眼、法眼、仏…
+j	五礼	ごれい	吉（=祭祀）、凶（=喪葬）、賓（=賓客）、軍（=軍…
+j	五禽	ごきん	虎、鹿、熊、猨、鳥の総称。五禽戯。
+j	五種	ごしゅ	五つの種類（のもの）。
+j	五穀	ごこく	the Five Grains or Five C…
+j	五等	ごとう	等級、順位の五番目。
+j	五絃	ごげん	五本の弦。
+j	五経	ごけい	the Five Classics of Chin…
+j	五線	ごせん	a stave, a five-line staff
+j	五縗	ごさい	三月、五月、九月、期年、三年の喪。
+j	五罪	ござい	律令制による五つの刑罰。五刑。
+j	五者	ごしゃ	五人の者。
+j	五臓	ござう	the five zang (classes of…
+j	五臓	ごぞう	the five zang (classes of…
+j	五色	ごしき	five colors (usu. red (赤)…
+j	五葷	ごくん	"five pungent roots" (fiv…
+j	五蘊	ごうん	色 (shiki, “form”)
+j	五衆	ごしゅ	仏教の出家した五つの種類。比丘、比丘尼、式叉摩那、…
+j	五衛府	ごえふ	the Five Guards under the…
+j	五衛府	ごゑふ	the Five Guards under the…
+j	五衰	ごすい	涅槃教では天人が死ぬ前に現れる五つの相。衣裳垢穢、…
+j	五角	ごかく	
+j	五識	ごしき	目、耳、鼻、舌、身の五根によって認知する、五つ（色…
+j	五趣	ごしゅ	衆生がその業因によりおもむく五つの場所。天上、人間…
+j	五車	ごしゃ	五台の車。
+j	五輪	ごりん	the five elements as a wh…
+j	五辛	ごしん	辛味や臭気の強い5種の野菜。大蒜・韮・葱・辣韮・野…
+j	五道	ごどう	六道から修羅を除いた五つの世界。地獄・餓鬼・畜生・…
+j	五郎	ごろう	a male given name
+j	五金	ごきん	金、銀、銅、鉄、錫の総称。
+j	五門	ごもん	摂政、関白に任じられる藤原氏の五つの家柄。五摂家。
+j	五類	ごるい	
+j	五高	ごこう	新制の 「第五高等学校」の略。
+j	五鼎	ごてい	古代中国で大夫の祭礼の際に五つの鼎にそれぞれ牛、羊…
+j	伍する	ごする	to rank among
+j	伍伴	ごはん	仲間。とも。伴侶。
+j	傲易	ごうい	侮ること。
+j	冱寒	ごかん	凍てつくほどの厳しい寒さ。
+j	冱沢	ごたく	凍った沢。
+j	剛基	ごうき	a male given name
+j	剛太	ごうた	a male given name
+j	剛気	ごうき	「豪気」の異綴。
+j	剛治	ごうじ	a male given name
+j	剛速球	ごうだ	fierce fastball
+j	劫火	ごうか	fire that destroys the wo…
+j	勤仕	ごんし	職務に勤め、仕えること。
+j	勤求	ごんぐ	勤めて仏の教えを求めること。
+j	午前	ごぜん	forenoon, AM
+j	午天	ごてん	正午。
+j	午寝	ごしん	午睡。
+j	午時花	ごじか	noon flower, scarlet mall…
+j	午時花	ゴジカ	noon flower, scarlet mall…
+j	午漏	ごろう	昼時。
+j	午睡	ごすい	a nap in the afternoon, a…
+j	午飯	ごはん	lunch
+j	午餐	ごさん	lunch
+j	号位	ごうい	名号。
+j	号旗	ごうき	船舶などが用いる合図の旗。
+j	号火	ごうか	合図の火。狼煙。
+j	号衣	ごうい	武家で使用人に着用させた家紋のはいった丈の短い衣服…
+j	合区	ごうく	二つ以上に分かれている区を合わせること。
+j	合否	ごうひ	試験などの合格または不合格。
+j	合器	ごうき	蓋がついている椀。
+j	合囲	ごうい	取り囲むこと。包囲。
+j	合子	ごうし	蓋が付いた小さな容器。
+j	合子	ごうす	蓋が付いた小さな容器。
+j	合字	ごうじ	a typographic ligature
+j	合意	ごうい	agreement
+j	合期	ごうご	favorable progress
+j	合理	ごうり	rationality, being ration…
+j	合田	ごうだ	a surname
+j	合皮	ごうひ	「合成皮革」の略。
+j	合目	ごうめ	tenths of the distance fr…
+j	合肥	ごうひ	Hefei (a prefecture-level…
+j	合議	ごうぎ	a consultation; a confere…
+j	吽呀	ごうが	犬が争い、吠え立てること。その声。
+j	吽牙	ごうが	吽呀の異表記。
+j	吾一	ごいち	a male given name
+j	吾人	ごじん	I/me
+j	吾曹	ごさう	we, us
+j	吾曹	ごそう	we, us
+j	吾朗	ごろう	a male given name
+j	吾郎	ごろう	a male given name
+j	呉服	ごふく	中国の呉の織り方による織物。
+j	呉牛	ごぎう	water buffalo
+j	呉竹	ごちく	synonym of 淡竹 (hachiku, “…
+j	呉越	ごえつ	Wu and Yue (two ancient r…
+j	呉音	ごおん	The pronunciation of Chin…
+j	嗷儀	ごうぎ	大勢の人の力を頼んで、無理なことを言い立てること。
+j	嗷訴	ごうそ	為政者などに対し大人数で押し掛け強引に訴えること。
+j	嗷議	ごうぎ	大勢の人の力を頼んで無理なことを言い立てること。
+j	囂譁	ごうか	囂しいさま。
+j	圄空	ごくう	罪人が居らず、牢獄が空になること。転じて、太平の世。
+j	娯心	ごしん	心を楽しませること。
+j	娯楽	ごらく	entertainment; amusement;…
+j	娯神	ごしん	心を悦ばせること。
+j	強気	ごうぎ	confident, strong
+j	強訴	ごうそ	為政者などに対し多人数で押し掛け強引に訴えること。
+j	後光	ごこう	aureole (circle of light …
+j	後刻	ごこく	後程。後で。
+j	後唐	ごたう	Later Tang (923–937)
+j	後唐	ごとう	Later Tang (923–937)
+j	後妻	ごさい	one's second wife
+j	後宴	ごえん	祭礼の翌日、潔斎を解いた後の宴。
+j	後巻	ごかん	後ろの巻。
+j	後心	ごしん	（こうしん）経験を積んでいること。
+j	後念	ごねん	一刹那を前後に分けた後半の瞬間。
+j	後攻	ごぜめ	going second (in an offen…
+j	後攻め	ごぜめ	背後から敵を攻めること。
+j	後日	ごじつ	in the future, later, a l…
+j	後日	ごにち	in the future, later, a l…
+j	後漢	ごかん	紀元25年から220年までの漢王朝の通称。
+j	後藤	ごとう	a surname
+j	後詰	ごぜめ	城を包囲する敵や布陣している敵を後方から攻撃するこ…
+j	後詰め	ごづめ	後方に配置する軍勢。予備軍。うしろづめ。
+j	後院	ごいん	天皇が在任中に譲位後の居所として予定した御所（離宮…
+j	御亭	ごてい	相手の邸宅に対する尊敬語。
+j	御仁	ごじん	「他人」の尊敬語。お方。現代ではときに諧謔的。
+j	御会	ごかい	歌会などの敬語。
+j	御供	ごくう	供物。おそなえ。
+j	御免	ごめん	something one wants to ha…
+j	御免	ゴメン	something one wants to ha…
+j	御前	ごぜん	synonym of 前 (mae, “front…
+j	御坊	ごぼう	寺院の敬称
+j	御宰	ごさい	江戸時代、奥女中に使用された下男。
+j	御幣	ごへい	implement used in Shintō …
+j	御幸	ごこう	（ごこう）上皇、女院の外出。
+j	御影	ごえい	pictures of the emperor (…
+j	御心	ごしん	相手の心（気持ちや考えなど）に対する丁寧語。
+j	御念	ごねん	相手が念を入れることの丁寧語。
+j	御恩	ごおん	他人からの恩に対する丁寧語。
+j	御感	ごかん	天皇、貴人が感心されること。また、気に入ること。
+j	御慶	ごけい	お喜び。お祝い。
+j	御房	ごぼう	寺院の敬称
+j	御所	ごしょ	imperial palace
+j	御書	ごしょ	手紙や書物などの尊敬語。
+j	御殿	ごてん	residential palace buildi…
+j	御用	ごよう	job, business for to do f…
+j	御番	ごばん	人の当番、夜番の尊敬語。
+j	御簾	ごれん	(ぎょれん) 貴人の在所を囲う垂れ幕・すだれ。
+j	御紋	ごもん	相手の紋章に対する尊敬語。
+j	御老	ごろう	an old person
+j	御膳	ごぜん	food and drink for the Em…
+j	御覧	ごらん	「見ること」の尊敬語。
+j	御託	ごたく	speaking in a selfish, pr…
+j	御身	ごしん	「身」の丁寧語。お体。
+j	御酒	ごしゅ	「酒」の尊敬語。
+j	御采	ごさい	ある人の命令や指図の敬語。
+j	御門	ごもん	mikado (emperor of Japan)
+j	御願	ごがん	阿弥陀如来の衆生を救済しようという誓願。
+j	御飯	ごはん	cooked rice
+j	御饌	ごせん	〔ごせん〕御饌米。
+j	心地	ごこち	a feeling, mood, sensation
+j	悟得	ごとく	悟りを開き、真理を会得すること。
+j	悟心	ごしん	悟性。
+j	悟空	ごくう	空を悟ること。
+j	悟道	ごどう	仏教の真理を悟ること。
+j	拷器	ごうき	instruments of torture
+j	拷訴	ごうそ	罪人を乱暴に責めること。
+j	期日	ごじつ	a scheduled day for an ev…
+j	格間	ごうま	格天井で格子で囲まれた一区画。
+j	梧桐	ごとう	synonym of 青桐 (aogiri, “C…
+j	梧桐	ごどう	synonym of 青桐 (aogiri, “C…
+j	梧桐	ゴトウ	synonym of 青桐 (aogiri, “C…
+j	梧葉	ごよう	「あおぎり」の葉。
+j	業果	ごうか	karma, specifically the e…
+j	業火	ごうか	hellfire
+j	業苦	ごうく	前世で行った悪業の報いにより現世で受ける苦しみ。
+j	業魔	ごうま	悪業が悪魔のように正道を妨害し、知恵を失わせること。
+j	極微	ごくび	極めて小さいこと。
+j	極微	ごくみ	極めて小さいこと。
+j	極意	ごくい	mystery; essence; heart
+j	極秘	ごくひ	absolutely secret, top se…
+j	権化	ごんげ	avatar (earthly manifesta…
+j	権太	ごんた	ruffian, hoodlum
+j	欣慕	ごんぼ	喜び、慕うこと。
+j	毫も	ごうも	(not) in the least
+j	毫眉	ごうび	老人の眉。
+j	江津	ごうつ	Gōtsu (a city in Shimane …
+j	江湖	ごうこ	the rivers and lakes
+j	沙蚕	ごかい	clam worms, sandworms, ra…
+j	沙蚕	ゴカイ	clam worms, sandworms, ra…
+j	牛膝	ごじつ	synonym of 猪の子槌 (inokozuc…
+j	牛蒡	ごばう	burdock (Arctium lappa)
+j	牛蒡	ごぼう	burdock (Arctium lappa)
+j	牛蒡	ゴボウ	burdock (Arctium lappa)
+j	牛面	ごめん	（ごめん）牛の顔につける面。
+j	牛黄	ごおう	dried cattle gallstones u…
+j	獄司	ごくし	牢獄を管理する役人。
+j	獄吏	ごくり	jailer
+j	獄屋	ごくや	捕らえた罪人を収容する建物。
+j	獄死	ごくし	die in prison
+j	獄衣	ごくい	prison clothes
+j	獄裏	ごくり	監獄の中。獄中。
+j	獄裡	ごくり	監獄の中。獄中。
+j	碁会	ごかい	囲碁を打ち合う集まり。
+j	碁打ち	ごうち	碁を打つこと。
+j	碁盤	ごばん	a go board
+j	碁石	ごいし	go stone
+j	碁聖	ごせい	A Japanese go tournament,…
+j	神戸	ごうど	Kobe (the capital city of…
+j	聱牙	ごうが	文字・言葉などが難解なこと。また、そのさま。
+j	胡粉	ごふん	powdered calcium carbonat…
+j	艮部	ごんぶ	部首「⾉」で分類した漢字の一群。
+j	言下	ごんか	（「言下に」の形で）言い終わるや否や。言い終わった…
+j	言句	ごんく	短い言葉。
+j	言語	ごんご	language, speech
+j	語例	ごれい	言葉を使用した例。
+j	語学	ごがく	language study
+j	語幹	ごかん	stem
+j	語序	ごじょ	文の中で配列している語の順序や位置。語順。
+j	語弊	ごへい	causing a misunderstanding
+j	語彙素	ごいそ	lexeme
+j	語形	ごけい	単語の形。
+j	語感	ごかん	Sprachgefühl: a sense of …
+j	語数	ごすう	主に欧文で、文章中にある単語の数。
+j	語族	ごぞく	language family
+j	語根	ごこん	root (of a word)
+j	語楽	ごらく	語り、楽しむこと。
+j	語法	ごはふ	grammar; syntax
+j	語法	ごほう	grammar; syntax
+j	語源	ごげん	origin of a word or phras…
+j	語用	ごよう	それぞれの単語の用法。
+j	語種	ごしゅ	日本語の語彙をその出自によって分類したもの。和語、…
+j	語讖	ごしん	予言。
+j	語録	ごろく	analects; sayings; quotat…
+j	語類	ごるい	
+j	語黙	ごもく	語ることと黙ること。
+j	誤乱	ごらん	誤り、乱れること。
+j	誤伝	ごでん	間違って伝えること。その内容。
+j	誤信	ごしん	misbelief
+j	誤傳	ごでん	
+j	誤写	ごしゃ	間違えて書き写すこと。また、その書き写したもの。
+j	誤判	ごはん	misjudgement; miscarriage…
+j	誤嚥	ごえん	accidental swallowing (es…
+j	誤報	ごほう	misinformation
+j	誤字る	ごじる	to make a misspelling or …
+j	誤審	ごしん	misjudgement; miscarriage…
+j	誤射	ごしゃ	誤って人や物に対して発射すること。
+j	誤導	ごどう	違った道へ人を案内すること。
+j	誤想	ごそう	考え違いをすること。
+j	誤殺	ごさつ	killing (someone) by mist…
+j	誤爆	ごばく	bombing wrong target
+j	誤用	ごよう	misuse
+j	誤答	ごたふ	answering wrong
+j	誤答	ごとう	answering wrong
+j	誤算	ごさん	miscalculation
+j	誤脱	ごだつ	文章にある誤字や脱字、脱文。
+j	誤見	ごけん	誤った見方、見解。
+j	誤解	ごかい	misunderstanding
+j	誤訳	ごやく	mistranslation
+j	誤診	ごしん	misdiagnosis
+j	誤認	ごにん	mistaking (for something …
+j	誤読	ごどく	mispronunciation
+j	誤謬	ごびう	fallacy, error
+j	誤電	ごでん	間違った内容の電報。
+j	誤飲	ごいん	accidental ingestion
+j	誵訛	ごうか	勝手気儘な偽り。
+j	護兵	ごへい	A piece in Ko shogi
+j	護国	ごこく	国を守護、擁護すること。
+j	護岸	ごがん	protection of a coast (fo…
+j	護念	ごねん	仏や菩薩が仏道修行者を心にとめて守護すること。
+j	護憲	ごけん	protection of the constit…
+j	護摩木	ごまぎ	護摩を修する際にくべる木。
+j	護法	ごはふ	defense of Buddhist doctr…
+j	護法	ごほう	defense of Buddhist doctr…
+j	護法	ごほふ	defense of Buddhist doctr…
+j	護符	ごふう	charm, amulet, talisman
+j	護衛	ごえい	a guard, an escort
+j	護身	ごしん	self-protection
+j	護送	ごそう	escort, convoy
+j	豪伊	ごうい	オーストラリアとイタリア。
+j	豪儀	ごうぎ	強情。頑固。
+j	豪家	ごうか	多くの財産と大きな勢力を有する家。
+j	豪富	ごうふ	多大な富を持っていること。また、その人。
+j	豪希	ごうき	a male given name
+j	豪打	ごうだ	豪快な打撃。
+j	豪気	ごうき	強くて勇ましい気性。
+j	豪眉	ごうび	長い眉毛。
+j	豪華	ごうか	splendid, luxurious, gorg…
+j	豪華	ごーか	splendid, luxurious, gorg…
+j	豪語	ごうご	bold statement
+j	豪貴	ごうき	豪勢で身分や家柄が高貴であること。また、そのような…
+j	豪雨	ごうう	downpour, heavy rain
+j	遨怡	ごうい	遊び、楽しむこと。
+j	郷士	ごうし	江戸時代、農村で暮らし農業を営んだ武士。
+j	降魔	ごうま	仏道修行を妨害する悪魔を降伏させること。
+j	ごいさぎ	ごいさぎ	コウノトリ目サギ科ゴイサギ属に属する鳥の一種。学名…
+j	ごうむね	ごうむね	江戸時代、大道芸などをして物乞いをして生活する集団。
+j	ごうもん	ごうもん	拷問: torture
+j	ごえもん	ごえもん	五右衛門, 五衛門, 伍右衛門, 伍衛門, 吾右衛…
+j	ごえもん	ごゑもん	五右衛門, 五衛門, 伍右衛門, 伍衛門, 吾右衛…
+j	ごきぶり	ごきぶり	ゴキブリ目の昆虫。褐色または黒褐色で光沢がある。家…
+j	ごぎゅう	ごぎゅう	呉牛: water buffalo
+j	ごくそく	ごくそく	獄則: prison rules
+j	ごくっと	ごくっと	液体や小さな固形物などを一気に飲み込むさま。
+j	ごくふり	ごくふり	unbalance where one stat …
+j	ごさらぎ	ごさらぎ	
+j	ござんす	ござんす	「ある」の丁寧語。
+j	ごしごし	ごしごし	(scrubbing) hard
+j	ごじゅう	ごじゅう	
+j	ごたごた	ごたごた	紛争、もめごと。
+j	ごた混ぜ	ごたまぜ	jumbled
+j	ごた混ぜ	ごた混ぜ	jumbled
+j	ごだいこ	ごだいこ	
+j	ごちそう	ごちそう	
+j	ごっくん	ごっくん	飲食物を飲み込む際の擬音。
+j	ごっそり	ごっそり	in great amounts
+j	ごったん	ごったん	gottan, traditional Kagos…
+j	ごっちゃ	ごっちゃ	
+j	ごっつい	ごっつい	厳つい、ごつい。
+j	ごつごつ	ごつごつ	ruggedly
+j	ごつごつ	ゴツゴツ	ruggedly
+j	ごにゅう	ごにゅう	悟入: entering a stage of e…
+j	ごね得	ごねどく	complaining in order to g…
+j	ごはっと	ごはっと	ご法度: synonym of 法度 (hatto)
+j	ごぶさた	ごぶさた	
+j	ごほごほ	ごほごほ	sound of coughing; hack h…
+j	ごぼごぼ	ごぼごぼ	gurgling
+j	ごまかし	ごまかし	cheating; deception; sham
+j	ごまかす	ごまかす	to cheat or deceive
+j	ごますり	ごますり	自分の利益のためへつらって取り入ること。
+j	ごまんと	ごまんと	たくさん。山ほど。
+j	ごみいれ	ごみいれ	garbage can, trash can, r…
+j	ごみごみ	ごみごみ	纏まりがなく雑然としているさま。混雑しているさま。
+j	ごみため	ごみため	ごみを一旦溜めておく場所。はきだめ。
+j	ごみばこ	ごみばこ	ごみ箱, ゴミ箱, 塵箱, 芥箱: garbage…
+j	ごみむし	ごみむし	コウチュウ目陸生オサムシ類の中のオサムシ亜科、セス…
+j	ごみ入	ごみいれ	
+j	ごみ収集	ごみ収集	
+j	ごみ回収	ごみ回収	
+j	ごみ屋敷	ごみ屋敷	整理整頓がされておらず、ごみだらけとなった家。
+j	ごみ箱	ごみばこ	garbage can, trash can, r…
+j	ごめんね	ごめんね	sorry; I'm sorry
+j	ごりおし	ごりおし	鮴押し: technique of catchin…
+j	ごろごろ	ごろごろ	with the sound of thunder
+j	ごろっと	ごろっと	重いものや大きいものなどが転がるさま。
+j	ごろつき	ごろつき	破落戸: a rogue, a vagabond,…
+j	ごろつく	ごろつく	
+j	ごわごわ	ごわごわ	stiffly
+j	ごわごわ	ゴワゴワ	stiffly
+j	ごわつく	ごわつく	紙や布が強張った感じがする。
+j	ごわんす	ごわんす	「ある」の丁寧語。
+j	ごんぼう	ごんぼう	「ごぼう」が変化した語。
+j	ご夫人	ごふじん	wife
+j	ご存知	ごぞんじ	knowing, acquaintance
+j	ご安全に	ご安全に	(製造業) 安全に気を付けることを呼びかける挨拶。…
+j	ご家族	ごかぞく	
+j	ご意見番	ご意見番	official adviser
+j	ご意見箱	ご意見箱	
+j	ご機嫌	ごきげん	spirits; being; mood; hea…
+j	ご法度	ごはっと	synonym of 法度 (hatto)
+j	ご無沙汰	ご無沙汰	
+j	ご馳走様	ご馳走様	a feast
+j	ゴイアス	ゴイアス	
+j	ゴキブリ	ゴキブリ	a cockroach
+j	ゴシック	ゴシック	Gothic, Gothic style
+j	ゴシップ	ゴシップ	興味本位の噂話。
+j	ゴスペル	ゴスペル	gospel
+j	ゴスロリ	ゴスロリ	Gothic Lolita
+j	ゴックン	ゴックン	the action of swallowing …
+j	ゴッサム	ゴッサム	Gotham (New York City)
+j	ゴッデム	ゴッデム	goddamn
+j	ゴツコラ	ゴツコラ	
+j	ゴビ砂漠	ゴビ砂漠	
+j	ゴブリン	ゴブリン	a goblin
+j	ゴマすり	ゴマすり	
+j	ゴミ漁り	ゴミ漁り	
+j	ゴム印	ごむいん	印全体または印面がゴムでつくられた印判。
+j	ゴム引き	ごむびき	ゴムで防水加工を施した生地。
+j	ゴム引き	ゴム引き	ゴムで防水加工を施した生地。
+j	ゴム消し	ごむけし	消しゴム。
+j	ゴム消し	ゴム消し	消しゴム。
+j	ゴラッソ	ゴラッソ	
+j	ゴリアテ	ゴリアテ	Goliath (biblical giant)
+j	ゴルクム	ゴルクム	
+j	ゴルゴン	ゴルゴン	
+j	ゴルジ体	ゴルジ体	Golgi apparatus; Golgi bo…
+j	ゴルフ場	ゴルフ場	golf course
+j	ゴロゴロ	ゴロゴロ	「ごろごろ」のカタカナ表記。
+j	ゴロトキ	ゴロトキ	
+j	ゴンズイ	ごんずい	「権瑞」の学術的表記。
+j	ゴンズイ	ゴンズイ	「権瑞」の学術的表記。
+j	ゴンドラ	ゴンドラ	a gondola (a kind of boat)
+j	ゴンフー	ゴンフー	
+j	ゴーグル	ゴーグル	goggles
+j	ゴーゴリ	ゴーゴリ	
+j	ゴースト	ゴースト	ghost
+j	ゴータマ	ゴータマ	
+j	ゴート人	ゴート人	東ゲルマン人の一派。西ゴート王国、東ゴート王国を建…
+j	ゴート語	ゴート語	インド・ヨーロッパ語族ゲルマン語派の言語の一つで、…
+j	ゴードン	ゴードン	a transliteration of the …
+j	ゴーヤー	ゴーヤー	bitter melon (Momordica c…
+j	ゴールド	ゴールド	gold
+j	ゴーレム	ゴーレム	a golem
+j	互換	ごくわん	interchangeability, compa…
+j	互譲	ごじょう	a conciliation; a comprom…
+j	五位鷺	ごいさぎ	night heron, specifically…
+j	五位鷺	ごゐさぎ	night heron, specifically…
+j	五位鷺	ゴイサギ	night heron, specifically…
+j	五倍子	ごばいし	Chinese gall, used in med…
+j	五分五分	ごぶごぶ	fifty-fifty
+j	五十	ごじゅう	fifty, 50
+j	五十日	ごとおび	五日 (itsuka, go-nichi, “fi…
+j	五十日	ごとをび	五日 (itsuka, go-nichi, “fi…
+j	五反田	ごたんだ	Gotanda (a district of To…
+j	五右衛門	ごえもん	a male given name of hist…
+j	五右衛門	ごゑもん	a male given name of hist…
+j	五境	ごきょう	眼、耳、鼻、舌、身の機能の対象。
+j	五大湖	ごだいこ	Great Lakes
+j	五宗	ごしゅう	（ごしゅう）五つの宗派。
+j	五官	ごくわん	the five sense organs.
+j	五尺	ごしゃく	一尺の五倍。
+j	五屯語	ごとんご	中華人民共和国黄南チベット自治州同仁市で話されてい…
+j	五州	ごしゅう	五大陸。五大州。
+j	五常	ごじやう	the five cardinal Confuci…
+j	五常	ごじょう	the five cardinal Confuci…
+j	五度圏	ごどけん	12の長調あるいは短調の主音をCを基準として上昇あ…
+j	五情	ごじょう	the five passions: (anger…
+j	五摂家	ごせっけ	鎌倉時代以降、幕末まで摂政（または関白）に任命され…
+j	五教	ごきょう	儒家における守るべき五つの教え。君臣の義、父子の親…
+j	五斂子	ごれんし	synonym of スターフルーツ (“star…
+j	五月	ごぐわつ	May
+j	五条	ごじょう	条坊で東西に通じる大路の一つ。
+j	五條	ごじょう	Gojō (a city in Nara Pref…
+j	五洲	ごしゅう	「五州」の別表記。
+j	五流	ごりゅう	四流よりも劣ること。地位、能力、品質などの程度が極…
+j	五爵	ごしゃく	the five ranks of 爵 (shak…
+j	五爵	ごしやく	the five ranks of 爵 (shak…
+j	五生児	ごせいじ	同じ両親から同じ日に生まれた五人の子供。
+j	五番目	ごばんめ	
+j	五百	ごひゃく	five hundred, many
+j	五竜	ごりゅう	「五龍」の別表記。
+j	五章	ごしょう	五番目の章。
+j	五節句	ごせっく	The five seasonal festiva…
+j	五経	ごきやう	the Five Classics of Chin…
+j	五経	ごきょう	the Five Classics of Chin…
+j	五線譜	ごせんふ	staff notation
+j	五臭	ごしゅう	五種類の匂い。羶、腥、香、焦、朽。
+j	五色	ごしょく	five colors (usu. red (赤)…
+j	五色	ごしよく	five colors (usu. red (赤)…
+j	五虫	ごちゅう	羽虫、毛虫、甲虫、鱗虫、裸虫の五種類の虫。
+j	五行	ごぎやう	Go Gyo: Foundational tech…
+j	五行	ごぎょう	Go Gyo: Foundational tech…
+j	五輪の	ごりんの	
+j	五輪旗	ごりんき	オリンピックの象徴となる、青・黄・黒・緑・赤の五つ…
+j	五部作	ごぶさく	
+j	五鈷杵	ごこしょ	a five-pronged vajra
+j	五龍	ごりゅう	古代中国で龍に乗ったと伝えられる皇伯、皇仲、皇叔、…
+j	仰信	ごうしん	教えを仰ぎ信じること。信仰。
+j	伍長	ごちやう	a corporal
+j	伍長	ごちょう	a corporal
+j	傲倨	ごうきょ	奢り高ぶること。また、そのようなさま。倨傲。
+j	傲倪	ごうげい	傲睨すること。
+j	傲岸	ごうがん	arrogance, haughtiness, p…
+j	傲很	ごうこん	人に傲り、道理に背く。傲悖。
+j	傲悖	ごうはい	人に傲り、道理に背く。傲很。
+j	傲慢	ごうまん	arrogance
+j	傲然	ごうぜん	傲り高ぶり、他人を見下げるさま。
+j	傲睨	ごうげい	物に動じずにじっと睨みつけること。
+j	剛体	ごうたい	rigid body
+j	剛健	ごうけん	心身が逞しく、健やかなこと。また、そのようなさま。
+j	剛力	ごうりき	力が強いこと。また、その人。強力。
+j	剛勁	ごうけい	強いさま。
+j	剛勇	ごうゆう	強く、勇ましいこと。また、そのようなさま。豪勇。
+j	剛卯	ごうぼう	中国漢代、官吏が邪気を払うため、四字押韻の呪を刻ん…
+j	剛厳	ごうげん	厳しいこと。また、そのようなさま。
+j	剛堅	ごうけん	堅固なこと。また、そのようなさま。
+j	剛実	ごうじつ	剛質。
+j	剛忍	ごうにん	無慈悲。
+j	剛性	ごうせい	物体が捻れや曲げなどに対し、破壊や歪みに耐える性質。
+j	剛悍	ごうかん	強く荒々しいこと。また、そのようなさま。
+j	剛拳	ごうけん	拳法の一つ。外家拳。
+j	剛日	ごうじつ	奇数の日。剛辰。
+j	剛毛	ごうもう	stiff hair; thick hair
+j	剛猛	ごうもう	強く猛々しいさま。
+j	剛穎	ごうえい	強く優れていること。また、そのようなさま。
+j	剛胆	ごうたん	「豪胆」の別表記。
+j	剛腕	ごうわん	having amazing arm streng…
+j	剛質	ごうしつ	健やかで誠実なこと。また、そのようなさま。
+j	剛辰	ごうしん	奇数の日。剛日。
+j	剛鋭	ごうえい	強く、鋭いさま。
+j	劫塵	ごうじん	人の世界。
+j	劫火	ごふくわ	fire that destroys the wo…
+j	劫災	ごうさい	壊劫の末期におこる火災、水災、風災の三種類の災害。
+j	劫盗	ごうとう	robbery
+j	劫罰	ごうばつ	
+j	勤恪	ごんかく	謹み、勤めること。
+j	午後休	ごごきう	taking the afternoon off
+j	午餉	ごしょう	ひるめし。昼食。
+j	号する	ごうする	name, give a name to
+j	号俸	ごうほう	a salary system (especial…
+j	号名	ごうめい	名号。
+j	号外	ごうがい	extra (extra edition of a…
+j	号板	ごうばん	船倉の板。
+j	号砲	ごうほう	signal gun
+j	号笛	ごうてき	合図の際に吹きならす笛。警笛。ホイッスル。
+j	号車	ごうしゃ	列車のそれぞれの車両。
+j	号音	ごうおん	合図や信号の音。
+j	号館	ごうかん	A suffix for numbered bui…
+j	合コン	ごうこん	A group blind date, at wh…
+j	合コン	ごうコン	A group blind date, at wh…
+j	合冊	ごうさつ	数冊の本を合わせて一冊に綴ること。
+j	合刃	ごうじん	斬り合うこと。
+j	合判	ごうはん	公文書に押印すること。連署すること。
+j	合剤	ごうざい	mixture
+j	合力	ごうりき	resultant force
+j	合卺	ごうきん	結婚すること。婚礼。
+j	合同	ごうどう	union, combination
+j	合名	ごうめい	共同して責任を負うため名前を書き連ねること。連名。
+j	合契	ごうけい	割符。
+j	合弁	ごうべん	花弁がくっつくこと。くっついた花弁。
+j	合憲	ごうけん	constitutionality
+j	合成	ごうせい	synthesis, composition
+j	合抱	ごうほう	両手を広げて抱えること。また、そのくらいの大きさ。…
+j	合接	ごうせつ	論理積。
+j	合板	ごうはん	plywood
+j	合板	ごうばん	plywood
+j	合格	ごうかく	passing (as in a test)
+j	合歓	ごうかん	delighting themselves tog…
+j	合法	ごうほう	legal, lawful
+j	合理化	ごうりか	rationalization
+j	合瓣	ごうべん	合弁の旧字体表記。
+j	合穎	ごうえい	一本の茎に二本の穂があること。
+j	合簪	ごうしん	同僚。
+j	合薬	ごうやく	複数の薬剤を調合すること。また、調合された薬剤。
+j	合装	ごうそう	複数のものを一つにまとめて梱包すること。
+j	合親	ごうしん	一族が親しむこと。
+j	合計	ごうけい	sum, total
+j	合該	ごうがい	当たり前。当然。
+j	合説	ごうせつ	合同説明会。
+j	合辦	ごうべん	複数の企業などが共同で事業を経営すること。
+j	合配	ごうはい	配偶。
+j	合醵	ごうきょ	割り勘。
+j	合金	ごうきん	an alloy (metal combined …
+j	合鈐	ごうけん	割り印。
+j	呉服屋	ごふくや	呉服を作って売る店。
+j	呉牛	ごぎゅう	water buffalo
+j	呉茱萸	ごしゅゆ	Tetradium ruticarpum
+j	呉茱萸	ゴシュユ	Tetradium ruticarpum
+j	噛殺	ごうさつ	噛み殺すこと。
+j	嚙砕	ごうさい	嚙み砕くこと。
+j	囂々	ごうごう	clamorous
+j	囂俗	ごうぞく	俗世間。
+j	囂塵	ごうじん	喧騒と塵埃。
+j	囂然	ごうぜん	かまびすしいさま。喧しいさま。
+j	囂虚	ごうきょ	詭弁。
+j	塵溜	ごみため	
+j	強力	ごうりき	strong; powerful
+j	強勢	ごうせい	(きょうせい、ごうせい) 勢いが強いこと。また、そ…
+j	強取	ごうしゅ	暴行や脅迫など力ずくで物を奪うこと。強奪。
+j	強奪	ごうだつ	to rob; to take by force
+j	強姦	ごうかん	rape
+j	強姦魔	ごうかん	平気で強姦ができる人間。
+j	強引	ごういん	coercive, forceful, pushy…
+j	強悪	ごうあく	性格や言動が非常に悪いこと。また、そのようなさま。
+j	強慾	ごうよく	「強欲」の別表記。
+j	強敵	ごうてき	strong enemy
+j	強欲	ごうよく	greedy, avaricious
+j	強殺	ごうさつ	強盗殺人の略。
+j	強淫	ごういん	rape
+j	強盗	ごうとう	robbery (theft by force)
+j	強窃	ごうせつ	強盗と窃盗。
+j	強請	ごうせい	blackmail, extortion, per…
+j	強賊	ごうぞく	強大な力を持つ賊徒。
+j	強酒	ごうしゅ	酒をたくさん飲むこと。
+j	強陣	ごうじん	強固な陣営であること。
+j	強飯	ごうはん	お椀に山盛りの御飯をむりやり食べさせようとする行事。
+j	後住	ごじゅう	後任の住職。
+j	後周	ごしゅう	中国五代十国時代の王朝の一つ。951年に郭威が建国…
+j	後朝	ごちょう	翌朝。
+j	後梁	ごりやう	Later Liang of the Five D…
+j	後梁	ごりょう	Later Liang of the Five D…
+j	後涼	ごりやう	Later Liang of the Sixtee…
+j	後涼	ごりょう	Later Liang of the Sixtee…
+j	後生	ごしやう	the afterlife
+j	後生	ごしょう	the afterlife
+j	後衝	ごしょう	A piece in Ko shogi, whic…
+j	御三家	ごさんけ	the most noble three bran…
+j	御利益	ごりやく	answer to a prayer, divin…
+j	御多分	ごたぶん	大多数の人が従うような意見や行動。
+j	御存じ	ごぞんじ	「存じ（知っていること）」の丁寧語。御承知。お知り…
+j	御家人	ごけにん	a vassal, (particularly) …
+j	御寮	ごりょう	貴人の子女に対する尊敬語。御料。御寮人。
+j	御府内	ごふない	江戸時代、江戸市中で江戸町奉行が支配した範囲。
+j	御形	ごぎやう	cudweed (Gnaphalieae spp.)
+j	御形	ごぎょう	cudweed (Gnaphalieae spp.)
+j	御料	ごりょう	天皇、貴人が所有したり、使用したりしている物に対す…
+j	御殿場	ごてんば	Gotemba (a city in Shizuo…
+j	御母堂	ごぼどう	相手の母親（母堂）に対する敬語。
+j	御無沙汰	ごぶさた	「無沙汰」を丁寧に言う語。長らく訪問や音信をしなか…
+j	御破算	ごはさん	「破算」を丁寧に言った語。
+j	御給	ごきゅう	朝廷から皇族、公卿などに年官、年爵を給すること。年…
+j	御自分	ごじぶん	
+j	御苦労	ごくろう	「苦労」の丁寧な表現。御骨折り。ご心配。
+j	御行	ごぎょう	クソニンジンの漢名。
+j	御詠歌	ごえいか	a pilgrim's hymn
+j	御諚	ごじょう	貴人のお言葉。
+j	御陵	ごりょう	天皇、皇后、皇太后、太皇太后を葬る墓所。
+j	御霊	ごりやう	soul, spirit of the dead
+j	御霊	ごりょう	soul, spirit of the dead
+j	御領	ごりょう	領地に対する尊敬語。
+j	御馳走	ごちそう	treat, banquet, feast
+j	悟入	ごにゅう	entering a state of enlig…
+j	拷問	ごうもん	torture (in order to make…
+j	拷訊	ごうじん	拷問にかけて訊問すること。
+j	拷認	ごうにん	強制されて自白すること。
+j	拷責	ごうせき	拷問すること。
+j	敖倪	ごうげい	横目で見ること。
+j	曲水	ごくすい	曲水の宴。
+j	梧岫	ごしゅう	先帝の墓所。
+j	梧楸	ごしゅう	梧桐と木豇豆。
+j	業人	ごうにん	前世の悪業により現世で苦難を受ける人。
+j	業因	ごういん	未来に苦楽の果報を招く因となる現在の善悪の行為。
+j	業報	ごうほう	karma effects
+j	業塵	ごうじん	悪業。
+j	業腹	ごうはら	どうしようもなく腹が立つこと。癪に障ること。
+j	業道	ごうどう	十善。十悪。
+j	極伝	ごくでん	家伝の奥義。
+j	極内	ごくない	極めて内密なさま。
+j	極印	ごくいん	
+j	極善	ごくぜん	極めて善いこと。また、そのようなさま。
+j	極大	ごくだい	極めておおきいこと。
+j	極太	ごくぶと	something very thick
+j	極寒	ごくかん	intense cold; coldest per…
+j	極寒	ごっかん	intense cold; coldest per…
+j	極小	ごくせう	extremely small
+j	極彩	ごくだみ	極彩色。
+j	極悪	ごくあく	heinous
+j	極暑	ごくしょ	intense heat; hottest per…
+j	極月	ごくげつ	（月が極まることから）十二月の異称。
+j	極月	ごくづき	（月が極まることから）十二月の異称。
+j	極楽	ごくらく	heaven, paradise
+j	極狭	ごくせま	極めて狭いこと。その様子。
+j	極細	ごくぼそ	きわめて細いこと。また、そのもの。
+j	極老	ごくろう	非常に年を取っていること。また、そのようなさまや人。
+j	極臈	ごくろう	寺内で出家後の年次が高い僧。
+j	極薄	ごくうす	きわめて薄いこと。
+j	極製	ごくせい	極めて上等な造り。
+j	極足	ごくそく	至極の境地。
+j	極道	ごくどう	悪事をはたらくこと。また、そのような人。
+j	極遠	ごくえん	極めて遠いこと。また、そのさま。
+j	極﨟	ごくろう	寺内で出家後の年次が高い僧。
+j	権兵衛	ごんべえ	country bumpkin
+j	権兵衛	ごんべゑ	country bumpkin
+j	権官	ごんかん	【けんかん】顕官の異表記。
+j	権殿	ごんでん	社殿を造営・修理する間、神体を臨時に奉安する殿舎。
+j	権瑞	ごんずい	ナマズ目ゴンズイ科の海水魚。背鰭と胸鰭に毒があるが…
+j	権者	ごんじゃ	（けんじゃ）権力がある人。権利者。
+j	権萃	ごんずい	ミツバウツギ科の落葉高木。関東以西の山地に自生。
+j	權兵衞	ごんべえ	a male given name
+j	殺し屋	ごろしや	hitman; contract killer
+j	毫毛	ごうもう	細い毛。
+j	毫銛	ごうせん	筆端。
+j	毫錐	ごうすい	尖った筆。
+j	熬刑	ごうけい	拷問。
+j	熬審	ごうしん	拷問。
+j	熬煎	ごうせん	煎ること。
+j	牛蒡	ごんぼう	burdock (Arctium lappa)
+j	牛頭馬頭	ごずめず	Ox-Head and Horse-Face, t…
+j	牛頭馬頭	ごづめづ	Ox-Head and Horse-Face, t…
+j	獄丁	ごくてい	看守。獄卒。
+j	獄則	ごくそく	prison rules
+j	獄垣	ごくえん	牢屋の垣。
+j	獄官	ごっかん	牢獄を司る役人。
+j	獄成	ごくせい	審理が確定すること。
+j	獄掾	ごくえん	獄吏。
+j	獄炎	ごくえん	地獄や煉獄の炎。
+j	獄焔	ごくえん	地獄や煉獄の炎。
+j	獄焰	ごくえん	地獄や煉獄の炎。
+j	獄牢	ごくろう	牢獄。
+j	獄窓	ごくそう	監獄の窓。監獄。
+j	獄舎	ごくしゃ	捕らえた罪人を収容する建物。
+j	獄門	ごくもん	prison gate
+j	綱所	ごうしょ	寺院を管理する機関である僧綱所の略。
+j	耗損	ごうそん	使い減らすこと。また、ものの減ること。
+j	胡麻塩	ごましお	gomashio (a condiment mad…
+j	胡麻磨り	ごますり	brown-nosing, apple-polis…
+j	言偏	ごんべん	the kanji radical 言 on th…
+j	言舌	ごんぜつ	物言い。弁舌。
+j	言説	ごんせつ	saying; speech
+j	語中	ごちゅう	一単語の中間。
+j	語彙的	ごいてき	
+j	語彙論	ごいろん	語彙を扱う言語学の分野。
+j	語脈	ごみゃく	語と語との繋がり。また、その具合。
+j	語調	ごちょう	tone of voice
+j	語釈	ごしゃく	言葉の解釈。解釈行為自体、および、その結果作られる…
+j	語順	ごじゅん	the order in which words …
+j	誤乗	ごじょう	boarding the wrong vehicl…
+j	誤作動	ごさどう	機械やシステムが本来の仕様通りに動かないこと。
+j	誤植	ごしょく	misprint, typo
+j	誤植	ごしよく	misprint, typo
+j	誤称	ごしょう	misnomer
+j	誤称	ごしよう	misnomer
+j	誤記	ごきする	error in writing
+j	誤謬	ごびゅう	fallacy, error
+j	誤食	ごしょく	accidental consumption or…
+j	誤食	ごしよく	accidental consumption or…
+j	誤魔化し	ごまかし	
+j	護憲派	ごけんは	日本国憲法の改正に反対する勢力。
+j	護摩壇	ごまだん	護摩を修する際、護摩木をくべる炉を備えた壇。炉壇。
+j	豪人	ごうじん	勢力のある人。
+j	豪健	ごうけん	勢いが強く、盛んなこと。また、そのようなさま。剛毅。
+j	豪傑	ごうけつ	extremely intelligent; ex…
+j	豪勇	ごうゆう	強く、勇ましいこと。また、そのようなさま。剛勇。
+j	豪勢	ごうせい	luxurious
+j	豪奢	ごうしゃ	luxurious
+j	豪宕	ごうとう	uninhibited; bold and unc…
+j	豪客	ごうかく	富豪。大尽。
+j	豪帥	ごうすい	旗頭。
+j	豪彦	ごうげん	才知が普通の人より優れているさま。また、そのような…
+j	豪快	ごうかい	hearty, tremendous
+j	豪戚	ごうせき	豪族。
+j	豪挙	ごうきょ	男伊達。
+j	豪擅	ごうせん	わがまま。
+j	豪放	ごうほう	bold and unconstrained
+j	豪族	ごうぞく	ある地方に定着し、大きな財力や勢力を持つ一族。
+j	豪然	ごうぜん	勇ましく力強いけどさま。
+j	豪猛	ごうもう	強く猛々しいさま。
+j	豪胆	ごうたん	度胸があり、ものに動じないこと。
+j	豪臣	ごうしん	権臣。
+j	豪英	ごうえい	才知の優れた人達。
+j	豪贍	ごうせん	裕福なこと。また、そのようなさま。
+j	豪軍	ごうぐん	オーストラリアの軍、軍隊。
+j	豪農	ごうのう	多くの土地や財産、勢力を持つ農家。
+j	豪遊	ごうゆう	luxurious travel
+j	豪運	ごううん	incredible luck, superior…
+j	豪邁	ごうまい	勇猛で人より優れていること。
+j	豪邸	ごうてい	palatial residence, state…
+j	豪酒	ごうしゅ	酒をたくさん飲むこと。
+j	豪鋭	ごうえい	強く、鋭いさま。
+j	豪雪	ごうせつ	heavy snow
+j	豪飲	ごういん	大量の酒を飲むこと。鯨飲。
+j	輷輷	ごうごう	音が轟きわたるさま。
+j	轟々	ごうごう	rumblingly noisy
+j	轟沈	ごうちん	instant sinking of a ship
+j	轟然	ごうぜん	大きな音が轟き、響くさま。
+j	轟霆	ごうてい	雷霆。雷。
+j	轟音	ごうおん	a loud rumbling or boomin…
+j	近縁	ごんえん	close relation, being clo…
+j	郷学	ごうがく	郷里における学校。
+j	郷村	ごうそん	村里。
+j	郷紳	ごうしん	近世の中国における階層の一つ。
+j	金漆	ごんぜつ	「こしあぶら」の異名。
+j	降伏	ごうぶく	surrender, capitulation
+j	降生	ごうせい	神仏が現世に生まれること。降誕。降世。
+j	降誕	ごうたん	regal birth
+j	驁蹇	ごうけん	傲慢なこと。また、そのようなさま。
+j	鮴押し	ごりおし	technique of catching gob…
+j	鰲背	ごうはい	大きな亀の背中。
+j	鼇背	ごうはい	大きな亀の背中。
+j	鼇頭	ごうとう	head of the legendary sea…
+j	ごあさって	ごあさって	（特に西日本で）今日から四日後。明々後日の次の日。
+j	ごういしょ	ごういしょ	合意書: contract
+j	ごくつぶし	ごくつぶし	他人の役に立つような仕事もせず、飯を食うばかりの者。
+j	ごくまれに	ごくまれに	
+j	ごこうたん	ごこうたん	ご降誕: birth (regal); nativ…
+j	ございます	ございます	「ある」の丁寧語。
+j	ござります	ござります	「ある」の丁寧語。
+j	ごしきひわ	ごしきひわ	スズメ目アトリ科の鳥類。体長約12センチメートル。
+j	ごじゃっぺ	ごじゃっぺ	（茨城弁）いい加減、まぬけなど、否定的な意味をひろ…
+j	ごじょわだ	ごじょわだ	viscera (internal organs …
+j	ごそうしゃ	ごそうしゃ	護送車: paddy wagon
+j	ごちゃまぜ	ごちゃまぜ	mess; jumble; muddle; cha…
+j	ごちゃ混ぜ	ごちゃ混ぜ	
+j	ごっつぁん	ごっつぁん	synonym of ありがとう (arigatō)
+j	ごますりの	ごますりの	
+j	ごみすてば	ごみすてば	ごみを廃棄する場所。
+j	ごみぶくろ	ごみぶくろ	ごみを入れるための袋。
+j	ごみ収集車	ごみ収集車	
+j	ごみ屋敷	ごみやしき	整理整頓がされておらず、ごみだらけとなった家。
+j	ごみ捨て場	ごみすてば	garbage collection site
+j	ごみ捨て場	ごみ捨て場	garbage collection site
+j	ごみ袋	ごみぶくろ	
+j	ごゆっくり	ごゆっくり	please take your time
+j	ごようろん	ごようろん	語用論: pragmatics
+j	ごりんとう	ごりんとう	五輪塔: five-ringed pagoda
+j	ご主人	ごしゅじん	husband (referring to som…
+j	ご参考まで	ご参考まで	
+j	ご心配なく	ご心配なく	
+j	ご機嫌よう	ご機嫌よう	how do you do? how are yo…
+j	ご祝儀	ごしゅうぎ	
+j	ご神木	ごしんぼく	
+j	ご老人	ごろうじん	an old person
+j	ご芳名	ごほうめい	
+j	ご覧になる	ご覧になる	to see
+j	ご降誕	ごこうたん	birth (regal)
+j	ゴキブリ目	ゴキブリ目	《分類学》 節足動物門昆虫綱の下位に分類される昆虫…
+j	ゴキブリ科	ゴキブリ科	《分類学》 昆虫綱ゴキブリ目ゴキブリ亜目の下位に分…
+j	ゴシキヒワ	ゴシキヒワ	ごしきひわの学術的表記。
+j	ゴシック体	ゴシック体	the gothic typographic st…
+j	ゴシック式	ゴシック式	ゴシックによる芸術様式。
+j	ゴスプラン	ゴスプラン	
+j	ゴゾチーズ	ゴゾチーズ	
+j	ゴビ砂漠	ごびさばく	
+j	ゴマフガモ	ゴマフガモ	
+j	ゴミパンダ	ゴミパンダ	trash panda
+j	ゴミ捨て場	ゴミ捨て場	
+j	ゴミ袋	ごみぶくろ	
+j	ゴムバンド	ゴムバンド	
+j	ゴムボック	ゴムボック	gömböc
+j	ゴムボート	ゴムボート	inflatable boat; inflatab…
+j	ゴラン高原	ゴラン高原	
+j	ゴリツィア	ゴリツィア	
+j	ゴルジ体	ごるじたい	Golgi apparatus; Golgi bo…
+j	ゴルジ体	ゴルジたい	Golgi apparatus; Golgi bo…
+j	ゴルファー	ゴルファー	ゴルフをする選手。
+j	ゴンサレス	ゴンサレス	
+j	ゴンドワナ	ゴンドワナ	古生代から中生代に存在した超大陸。現在の南アメリカ…
+j	ゴーカート	ゴーカート	遊戯用または競技用のエンジンのついた小型の四輪車（…
+j	ゴーギャン	ゴーギャン	a transliteration of the …
+j	ゴーサイン	ゴーサイン	green light (approval)
+j	ゴージャス	ゴージャス	豪華で贅沢なさま。
+j	ゴート人	ごーとじん	東ゲルマン人の一派。西ゴート王国、東ゴート王国を建…
+j	ゴーファー	ゴーファー	ホリネズミ。
+j	ゴールイン	ゴールイン	scoring; getting a point
+j	ゴールデン	ゴールデン	being golden (golden in c…
+j	ゴール得点	ゴール得点	
+j	互換	ごかんする	interchangeability, compa…
+j	互換性	ごかんせい	compatibility
+j	五七日	ごしちにち	死去からその日を含めて35日目（に行われる法要）。
+j	五加皮酒	ごかひしゅ	薬酒。五加皮を高粱酒につけたもの。
+j	五十九	ごじゅうく	fifty-nine; 59
+j	五十二	ごじゅうに	fifty-two; 52
+j	五十五	ごじゅうご	fifty-five; 55
+j	五十四	ごじゅうし	fifty-four; 54
+j	五十音	ごじふおん	all Japanese morae that c…
+j	五卵性	ごらんせい	五つの卵子が五つの精子と同時に受精し、受精卵がその…
+j	五大州	ごだいしう	the five continents (Asia…
+j	五大洋	ごたいよう	太平洋、大西洋、インド洋、北極海、南極海の五つの大…
+j	五大陸	ごたいりく	アジア大陸、アフリカ大陸、ヨーロッパ大陸、アメリカ…
+j	五寸釘	ごすんくぎ	nail that is 5 sun (寸(すん)…
+j	五年生	ごねんせい	その段階の学校に入って5年目の者。
+j	五悪趣	ごあくしゅ	衆生がその業因によりおもむく五つの場所。天上、人間…
+j	五月晴れ	ごがつばれ	（さつきばれ、ごがつばれ）新暦五月の晴れの日。
+j	五毛党	ごもうとう	50 cent army, wumao
+j	五目飯	ごもくめし	細かく切った鶏肉、魚介、野菜などを炊き込んだ醤油味…
+j	五稜堡	ごりょうほ	
+j	五色鶸	ごしきひは	a Eurasian goldfinch, Eur…
+j	五色鶸	ごしきひわ	a Eurasian goldfinch, Eur…
+j	五色鶸	ゴシキヒワ	a Eurasian goldfinch, Eur…
+j	五芒星	ごぼうせい	五角形の対角線を全て繋いだ図形。☆、または中を塗り…
+j	五街道	ごかいどう	江戸時代に東海道、中山道と日光・甲州・奥州の各道中…
+j	五角形	ごかくけい	a pentagon
+j	五角形	ごかっけい	a pentagon
+j	五言古詩	ごごんこし	漢詩の形式の一つ。一つの句が五言からなる古詩。
+j	五賢帝	ごけんてい	Five Good Emperors
+j	五輪塔	ごりんたふ	five-ringed pagoda (type …
+j	五輪塔	ごりんとう	five-ringed pagoda (type …
+j	五面体	ごめんたい	
+j	五頭竜	ごずりゅう	頭が5つあるとされる、伝説上の竜。
+j	五香粉	ごこうふん	five-spice powder
+j	傲慢な	ごうまんな	
+j	傲然な	ごうぜんな	
+j	剛情	ごうじょう	自分の考えを無理に押し通そうとするさま。強情。
+j	剛球	ごうきゅう	投手が投げる、球速が速くて球質の重い直球。
+j	剛直	ごうちょく	rigidity
+j	午前休	ごぜんきう	taking the morning off
+j	午前様	ごぜんさま	酒宴や遊興などで午前零時を過ぎて帰宅すること。また…
+j	午後休	ごごきゅう	taking the afternoon off
+j	午睡	ごすいする	a nap in the afternoon, a…
+j	午餐	ごさんする	lunch
+j	午餐会	ごさんかい	luncheon party
+j	号泣	ごうきゅう	wailing, lamentation, cry…
+j	号鐘	ごうしょう	合図のために鳴らす鐘。
+j	合力	ごうりょく	resultant force
+j	合同誌	ごうどうし	collaborative doujin
+j	合意	ごういする	agreement
+j	合意書	ごういしょ	contract
+j	合成語	ごうせいご	synonym of 複合語 (fukugōgo,…
+j	合期	ごうごする	favorable progress
+j	合法な	ごうほうな	
+j	合法化	ごうほうか	legalization
+j	合流	ごうりゅう	confluence, merger
+j	合理性	ごうりせい	rationality
+j	合理的	ごうりてき	rational, reasonable, log…
+j	合理論	ごうりろん	
+j	合田草	ごうだそう	annual honesty (Lunaria a…
+j	合田草	ゴウダソウ	annual honesty (Lunaria a…
+j	合議	ごうぎする	a consultation; a confere…
+j	合議制	ごうぎせい	複数の人の合議によって意思決定を行う制度。
+j	塵捨場	ごみすてば	
+j	娯楽	ごらくする	entertainment; amusement;…
+j	強将	ごうしょう	強い武将、大将。
+j	強弓	ごうきゅう	引くのに強い力を必要とする弓。また、その弓を引く人。
+j	強情	ごうじょう	stubborn
+j	強欲な	ごうよくな	
+j	強盛	ごうじょう	勢いが強く盛んなこと。
+j	後大脳	ごだいのう	
+j	後漢書	ごかんじょ	Book of the Later Han (a …
+j	御一新	ごいっしん	Meiji Restoration
+j	御不浄	ごふじょう	toilet
+j	御主人	ごしゅじん	「主人」の尊敬語。
+j	御前様	ごぜんさま	大名、高家、高官に対する尊敬語。
+j	御器噛	ごきかぶり	「ごきぶり」の別名。
+j	御座ります	ござります	to go; to come; to be in …
+j	御来光	ごらいこう	高山に登り山頂から拝む日の出。
+j	御用聞き	ごようきき	御用を受け十手、捕縄を預かり犯罪者の探索、捕縛を担…
+j	御用達	ごようたし	官庁（とくに宮中）などに出入りし、受注したものを納…
+j	御用達	ごようたつ	官庁（とくに宮中）などに出入りし、受注したものを納…
+j	御用金	ごようきん	江戸時代、幕府、大名が財政不足を補てんするため、御…
+j	御祝儀	ごしゅうぎ	「祝儀」の丁寧語。
+j	御神木	ごしんぼく	
+j	御老人	ごろうじん	an old person
+j	御親兵	ごしんぺい	1871年から翌年にかけて設置された天皇を護衛する…
+j	御託宣	ごたくせん	くどくどともったいぶって言うこと。御託。
+j	御降誕	ごこうたん	birth (regal)
+j	恒河沙	ごうがしゃ	a metaphor of the extreme…
+j	拷問史	ごうもんし	拷問に関する歴史。
+j	業病	ごうびょう	前世で犯した悪業の報いによって現世において罹るとさ…
+j	業障	ごうしょう	悪業による正道の障害。
+j	極上	ごくじやう	of the highest quality
+j	極上	ごくじょう	of the highest quality
+j	極小	ごくしょう	extremely small
+j	極狭	ごくきょう	極めて狭いこと。その様子。
+j	極聖	ごくしょう	仏。仏陀。
+j	権天使	ごんてんし	キリスト教などの学派における、第八位の天使の階層。…
+j	江州	ごうしゅう	近江国の別称。
+j	濠洲	ごうしゅう	オーストラリア（濠太剌利）の略称。
+j	獄中	ごくちゅう	in jail
+j	獄定	ごくじょう	罪人を獄に入れることを決定すること。
+j	獄死	ごくしする	die in prison
+j	獄訟	ごくしょう	訴訟。訴えること。
+j	碁会所	ごかいしょ	囲碁のセットを備え、席料をとって囲碁を打たせ、場所…
+j	穀潰し	ごくつぶし	bum; idler; deadbeat
+j	胡麻をする	ごまをする	
+j	胡麻油	ごまあぶら	sesame oil
+j	言上	ごんじょう	telling to a superior
+j	語呂合わせ	ごろあはせ	pun, play on words
+j	語呂合わせ	ごろあわせ	pun, play on words
+j	語学院	ごがくいん	
+j	語彙力	ごいりょく	strength (extent, size) o…
+j	語彙集	ごいしゅう	vocabulary (list of words)
+j	語形論	ごけいろん	
+j	語源学	ごげんがく	etymology (study of the h…
+j	語源的	ごげんてき	etymological
+j	語用論	ごようろん	pragmatics
+j	誤信	ごしんする	misbelief
+j	誤嚥	ごえんする	accidental swallowing (es…
+j	誤報	ごほうする	misinformation
+j	誤審	ごしんする	misjudgement; miscarriage…
+j	誤殺	ごさつする	killing (someone) by mist…
+j	誤爆	ごばくする	bombing wrong target
+j	誤用	ごようする	misuse
+j	誤答	ごとうする	answering wrong
+j	誤算	ごさんする	miscalculation
+j	誤解	ごかいする	misunderstanding
+j	誤解する	ごかいする	
+j	誤訳	ごやくする	mistranslation
+j	誤診	ごしんする	misdiagnosis
+j	誤認	ごにんする	mistaking (for something …
+j	誤読	ごどくする	mispronunciation
+j	誤飲	ごいんする	accidental ingestion
+j	護衛	ごえいする	a guard, an escort
+j	護衛官	ごえいかん	特定の対象を護衛するもの。
+j	護衛艦	ごえいかん	a warship of the Japan Ma…
+j	護身用	ごしんよう	for self-defense
+j	護送	ごそうする	escort, convoy
+j	護送車	ごそうしゃ	paddy wagon
+j	豪中	ごうちゅう	オーストラリアと中国。
+j	豪商	ごうしょう	富を蓄えた大きな商家。
+j	豪州	ごうしゅう	Australia (a country cons…
+j	豪洲	ごうしゅう	「豪州」の別表記。
+j	豪球	ごうきゅう	「剛球」の別表記。
+j	豪華版	ごうかばん	豪華な装丁や内容の書物。
+j	豪語	ごうごする	bold statement
+j	郷帳	ごうちょう	江戸時代、幕府が国や郡ごとにそれに属する各村の名前…
+j	郷長	ごうちょう	律令制において郡司のもとで一つの郷を司った地方官。
+j	降生	ごうしょう	神仏が現世に生まれること。降誕。降世。
+j	降誕会	ごうたんえ	釈迦が生誕したとされる4月8日に寺院で行われる法会…
+j	鮴押し屋	ごりおしや	arm-twister
+j	ごうつくばり	ごうつくばり	stubborn, greedy
+j	ございました	ございました	
+j	ございません	ございません	
+j	ごじゅうから	ごじゅうから	スズメ目ゴジュウカラ科に属する鳥の総称。
+j	ごぜんちゅう	ごぜんちゅう	午前中: in the morning
+j	ごちゃくちゃ	ごちゃくちゃ	
+j	ごちゃごちゃ	ごちゃごちゃ	complaining about various…
+j	ごちゃにする	ごちゃにする	
+j	ごちゃ混ぜの	ごちゃ混ぜの	
+j	ごったがえす	ごったがえす	ひどく混雑する。
+j	ごみをすてる	ごみをすてる	
+j	ごめんなさい	ごめんなさい	sorry; I'm sorry; my apol…
+j	ごりんじゅう	ごりんじゅう	ご臨終: one's deathbed, one'…
+j	ごろごろいう	ごろごろいう	
+j	ご両親	ごりょうしん	(both) parents
+j	ご存じの通り	ご存じの通り	
+j	ご存知である	ご存知である	
+j	ご愁傷様です	ご愁傷様です	my deepest condolences; I…
+j	ご意見番	ごいけんばん	official adviser
+j	ご意見箱	ごいけんばこ	
+j	ご案内の通り	ご案内の通り	
+j	ご機嫌よう	ごきげんよう	how do you do? how are yo…
+j	ご臨終	ごりんじゅう	deathbed, dying moment, d…
+j	ご覧になる	ごらんになる	to see
+j	ご馳走になる	ご馳走になる	
+j	ご馳走様	ごちそうさま	a feast
+j	ゴクラクハゼ	ゴクラクハゼ	よしのぼりの一種。魚類学者の田中茂穂が命名した。学…
+j	ゴシック体	ごしっくたい	the gothic typographic st…
+j	ゴシック体	ゴシックたい	the gothic typographic st…
+j	ゴシック式	ごしっくしき	ゴシックによる芸術様式。
+j	ゴジュウカラ	ゴジュウカラ	スズメ目ゴジュウカラ科ゴジュウカラ属に属する鳥の一…
+j	ゴットホープ	ゴットホープ	ヌークの旧称。
+j	ゴットランド	ゴットランド	Gotland
+j	ゴッドゲーム	ゴッドゲーム	
+j	ゴトランド島	ゴトランド島	Gotland
+j	ゴミのような	ごみのような	
+j	ゴミのような	ゴミのような	
+j	ゴルバチョフ	ゴルバチョフ	
+j	ゴルフクラブ	ゴルフクラブ	golf club
+j	ゴルフバッグ	ゴルフバッグ	golf bag
+j	ゴルフボール	ゴルフボール	
+j	ゴルフ場	ごるふじょう	golf course
+j	ゴルフ場	ゴルフじょう	golf course
+j	ゴーストップ	ゴーストップ	
+j	ゴールウェイ	ゴールウェイ	Galway (a county of Irela…
+j	ゴールキック	ゴールキック	
+j	ゴールコンダ	ゴールコンダ	
+j	ゴールテープ	ゴールテープ	競走などのゴールライン上に水平に張られ、誰が最初に…
+j	ゴールボール	ゴールボール	
+j	ゴールポスト	ゴールポスト	サッカー、ラグビー、ハンドボールなどでゴールライン…
+j	ゴールライン	ゴールライン	競走などで、この上に胴体が到達したらゴールとなるこ…
+j	互変異性	ごへんいせい	
+j	互換性	ごくわんせい	compatibility
+j	五分の三	ごぶんのさん	
+j	五十一	ごじゅういち	fifty-one; 51
+j	五十七	ごじゅうしち	fifty-seven; 57
+j	五十七	ごじゅうなな	fifty-seven; 57
+j	五十三	ごじゅうさん	fifty-three; 53
+j	五十八	ごじゅうはち	fifty-eight; 58
+j	五十六	ごじゅうろく	fifty-six; 56
+j	五十四	ごじゅうよん	fifty-four; 54
+j	五十歳	ごじゅっさい	生後50年目又は50年を経過した年齢の称。
+j	五十音	ごじゅうおん	all Japanese morae that c…
+j	五十音図	ごじふおんづ	the 5x10 table used for a…
+j	五右衛門風呂	ごえもんぶろ	a bath taken in a barrel …
+j	五右衛門風呂	ごゑもんぶろ	a bath taken in a barrel …
+j	五大州	ごだいしゅう	the five continents (Asia…
+j	五大洲	ごだいしゅう	地球上の五つの大陸。五洲。五大陸。
+j	五所川原	ごしょがわら	Goshogawara (a city in Ao…
+j	五所川原	ごしよがはら	Goshogawara (a city in Ao…
+j	五指に入る	ごしにはいる	to be among the top 5
+j	五星紅旗	ごせいこうき	Five-star Red Flag, the f…
+j	五智如来	ごちにょらい	阿弥陀如来 (あみだにょらい, Amida Nyo…
+j	五月病	ごがつびょう	Depression sometimes seen…
+j	五極管	ごきょくかん	pentode (vacuum tube)
+j	五畿七道	ごきしちどう	律令制の行政区画で畿内（大和国、山城国、河内国、和…
+j	五畿八道	ごきはちどう	明治時代初めの地理的な区分で、畿内（大和国、山城国…
+j	五目並べ	ごもくならべ	白と黒の碁石を碁盤に交互に並べていき、縦、横、斜め…
+j	五等爵	ごとうしゃく	synonym of 五爵 (goshaku)
+j	五臓六腑	ござうろくふ	the five zang and six fu …
+j	五臓六腑	ごぞうろっぷ	the five zang and six fu …
+j	五色野路子	ごしきのじこ	a painted bunting, Passer…
+j	五色野路子	ゴシキノジコ	a painted bunting, Passer…
+j	五花八門	ごかはちもん	変化が激しいこと。
+j	五行説	ごぎょうせつ	古代中国で全てのものは五つの要素（木、火、土、金、…
+j	五輪の塔	ごりんのとう	
+j	五邊形	ごしへんけい	
+j	劫盗	ごうとうする	robbery
+j	午前中	ごぜんちゅう	in the morning, before no…
+j	午前休	ごぜんきゅう	taking the morning off
+j	午餐会	ごさんくわい	luncheon party
+j	合同	ごうどうする	union, combination
+j	合成	ごうせいする	synthesis, composition
+j	合成数	ごうせいすう	a composite number
+j	合成酒	ごうせいしゅ	アルコールにブドウ糖、コハク酸、香料など清酒に近い…
+j	合格	ごうかくする	passing (as in a test)
+j	合格する	ごうかくする	
+j	合歓	ごうかんする	delighting themselves tog…
+j	合法ロリ	ごうほうろり	"legal loli", "barely leg…
+j	合法ロリ	ごうほうロリ	"legal loli", "barely leg…
+j	合法性	ごうほうせい	legality, lawfulness
+j	合法的	ごうほうてき	法に適っているさま。
+j	合理主義	ごうりしゅぎ	rationalism
+j	合理化	ごうりかする	rationalization
+j	合計	ごうけいする	sum, total
+j	強力犯	ごうりきはん	暴行・脅迫を用いる犯罪。殺人、傷害、強盗、強姦、放…
+j	強奪	ごうだつする	to rob; to take by force
+j	強奪する	ごうだつする	
+j	強姦	ごうかんする	rape
+j	強姦する	ごうかんする	
+j	強姦犯	ごうかんはん	rapist
+j	強姦者	ごうかんしゃ	
+j	強盗犯	ごうとうはん	強盗をすることで成立する犯罪。また、その犯人。
+j	強細風	ごうさいふう	室町時代の能役者世阿弥が能の芸位を九つに分類した際…
+j	強請	ごうせいする	blackmail, extortion, per…
+j	御免なさい	ごめんなさい	
+j	御用始め	ごようはじめ	官公庁でその年の一般的な業務を開始すること。
+j	御用納め	ごようおさめ	官公庁でその年の一般的な業務を終えること。
+j	御苦労さん	ごくろうさん	相手の労苦を労う語で「御苦労様」よりくだけた表現。
+j	御苦労様	ごくろうさま	相手の労苦を労う語。
+j	御馳走	ごちそうする	treat, banquet, feast
+j	御馳走さん	ごちそうさん	「御馳走様」よりくだけた丁寧語。
+j	御馳走様	ごちそうさま	食後の挨拶。
+j	悟入	ごにゅうする	entering a state of enlig…
+j	拷問	ごうもんする	torture (in order to make…
+j	拷問する	ごうもんする	
+j	業が深い	ごうがふかい	deeply sinful
+j	業を沸かす	ごうをわかす	to lose one's temper, to …
+j	業を煮やす	ごうをにやす	to lose one's temper, to …
+j	極彩色	ごくさいしき	dazzling variety of brigh…
+j	極楽鳥	ごくらくてう	synonym of 風鳥 (fūchō, “bi…
+j	極道者	ごくどうもの	悪行を重ねている者、放蕩、道楽にふけっている者を罵…
+j	獄中で	ごくちゅうで	
+j	語中形	ごちゅうけい	アラビア文字が文中にあるときの文字の形。
+j	語彙項目	ごいこうもく	
+j	語形変化	ごけいへんか	文法的機能の変化や他の語との接合する関係で語形が変…
+j	語源辞典	ごげんじてん	語源について解説した辞典。
+j	誤乗	ごじょうする	boarding the wrong vehicl…
+j	誤差関数	ごさかんすう	erf(x)=2/(√π)∫₀ˣexp(-t²),…
+j	誤称	ごしょうする	misnomer
+j	誤食	ごしょくする	accidental consumption or…
+j	護身術	ごしんじゅつ	the art of self-defense
+j	轟沈	ごうちんする	instant sinking of a ship
+j	鮴押し	ごりおしする	technique of catching gob…
+j	鮴押しする	ごりおしする	
+j	ごうりゃくがな	ごうりゃくがな	合略仮名: now obsolete kana l…
+j	ごめんください	ごめんください	
+j	ごゆっくりする	ごゆっくりする	
+j	ご多分に漏れず	ご多分に漏れず	as usual, in common with
+j	ご存知である	ごぞんじである	
+j	ご心配なく	ごしんぱいなく	
+j	ご苦労様でした	ご苦労様でした	I appreciate your efforts…
+j	ご馳走様でした	ご馳走様でした	it was delicious
+j	ゴクラクチョウ	ゴクラクチョウ	極楽鳥: a bird of paradise
+j	ゴスペルソング	ゴスペルソング	gospel music, gospel song
+j	ゴトランド島	ごとらんどとう	Gotland
+j	ゴトランド島	ゴトランドとう	Gotland
+j	ゴニオメーター	ゴニオメーター	
+j	ゴルゴンゾーラ	ゴルゴンゾーラ	gorgonzola cheese
+j	ゴンドラの船頭	ゴンドラの船頭	
+j	ゴンドワナ大陸	ゴンドワナ大陸	
+j	ゴーストタウン	ゴーストタウン	ghost town
+j	ゴールのネット	ゴールのネット	
+j	ゴールを決める	ごーるをきめる	
+j	ゴールを決める	ゴールを決める	
+j	ゴールウェイ州	ゴールウェイ州	
+j	ゴールウェイ湾	ゴールウェイ湾	
+j	ゴールキーパー	ゴールキーパー	a goalkeeper
+j	ゴールドブラス	ゴールドブラス	金管楽器などに使われる銅が約85パーセント、亜鉛が…
+j	ゴール得点	ごーるとくてん	
+j	五十九	ごじゅうきゅう	fifty-nine; 59
+j	五十音仮名	ごじふおんがな	synonym of 片仮名
+j	五十音図	ごじゅうおんず	the 5x10 table used for a…
+j	五島列島	ごたうれったう	Gotō Islands (an archipel…
+j	五島列島	ごとうれっとう	Gotō Islands (an archipel…
+j	五段活用	ごだんかつよう	a verbal conjugation clas…
+j	五種競技	ごしゅきょうぎ	pentathlon
+j	五種競技	ごしゆきやうぎ	pentathlon
+j	五行思想	ごぎょうしそう	「五行説」を参照。
+j	五輪大会	ごりんたいかい	近代オリンピックの異称。
+j	五重塔	ごじゅうのとう	五つの層（階）からなる仏塔。
+j	五重水素	ごじゅうすいそ	水素の放射性同位体の一つ。原子核は陽子1個と中性子…
+j	剛速球	ごうそっきゅう	fierce fastball
+j	号泣	ごうきゅうする	wailing, lamentation, cry…
+j	合同コンパ	ごうどうこんぱ	joint party; combined par…
+j	合同コンパ	ごうどうコンパ	joint party; combined par…
+j	合成樹脂	ごうせいじゅし	人工的に合成された高分子の化合物で可塑性を有するも…
+j	合成皮革	ごうせいひかく	織布（または不織布）と合成樹脂を組み合わせ天然の皮…
+j	合法化	ごうほうかする	legalization
+j	合法化する	ごうほうかする	
+j	合流	ごうりゅうする	confluence, merger
+j	合流する	ごうりゅうする	
+j	合略仮名	ごうりゃくがな	a kana ligature
+j	合資会社	ごうしがいしゃ	limited partnership
+j	巨頭鯨	ごんどうくじら	a short-finned pilot whale
+j	巨頭鯨	ごんどうくぢら	a short-finned pilot whale
+j	巨頭鯨	ゴンドウクジラ	a short-finned pilot whale
+j	巨頭鯨	ゴンドウクヂラ	a short-finned pilot whale
+j	後撰和歌集	ごせんわかしふ	the second of the 勅撰和歌集 (…
+j	後生大事	ごしょうだいじ	religious zeal; taking gr…
+j	御用学者	ごようがくしゃ	researchers who were empl…
+j	御近所さん	ごきんじょさん	neighbor
+j	御近所さん	ごきんじよさん	neighbor
+j	御都合主義	ごつごうしゅぎ	定まった意見を持たずその場やその時の状況に応じて自…
+j	御飯茶碗	ごはんぢゃわん	御飯を盛る茶碗。飯椀（飯碗）。
+j	格天井	ごうてんじょう	角材を格子状に組み、その上に板を張った天井。
+j	極悪非道	ごくあくひどう	人道に外れて惨く、極めて悪いこと、またそのさま。「…
+j	極楽鳥	ごくらくちょう	synonym of 風鳥 (fūchō, “bi…
+j	極楽鳥	ゴクラクチョウ	synonym of 風鳥 (fūchō, “bi…
+j	権兵衛	ごんのひやうゑ	country bumpkin
+j	権兵衛	ごんのひょうえ	country bumpkin
+j	権少納言	ごんせうなごん	an acting lesser counselo…
+j	權兵衞	ごんのひょうえ	a male given name
+j	胡麻斑海豹	ごまふあざらし	a spotted seal
+j	胡麻斑海豹	ゴマフアザラシ	a spotted seal
+j	言上	ごんじょうする	telling to a superior
+j	言語進退	ごんごしんたい	言葉と動き。話すこととやること。
+j	言語道断	ごんごだうだん	outrageous
+j	言語道断	ごんごどうだん	outrageous
+j	語学学校	ごがくがっこう	留学生などを対象に現地の言語を教授する学校。
+j	語源俗界	ごげんぞっかい	folk etymology
+j	誤表象	ごひょうしょう	
+j	護国神社	ごこくじんじゃ	戦死した軍人を慰霊するために各都道府県に設置される…
+j	護身スプレー	ごしんすぷれー	synonym of 護身用スプレー (goshi…
+j	護身スプレー	ごしんスプレー	synonym of 護身用スプレー (goshi…
+j	豪華絢爛	ごうかけんらん	贅沢で光輝き美しいさま。絢爛豪華。
+j	豪速球	ごうそっきゅう	「剛速球」の別表記。
+j	豪雪地帯	ごうせつちたい	豪雪地帯対策特別措置法に基づき、住民の生活の向上や…
+j	ごちゃごちゃ言う	ごちゃごちゃ言う	
+j	ごちゃ混ぜにする	ごちゃ混ぜにする	
+j	ごっつぁんゴール	ごっつぁんゴール	easy goal
+j	ごまめの歯ぎしり	ごまめの歯ぎしり	（「ごまめ」は「片口鰯」の稚魚を干したもので、ごく…
+j	ご多分に漏れず	ごたぶんにもれず	as usual, in common with
+j	ご存じの通り	ごぞんじのとおり	
+j	ゴッドファーザー	ゴッドファーザー	
+j	ゴブリンシャーク	ゴブリンシャーク	ミツクリサメの一種。
+j	ゴーストライター	ゴーストライター	著作や脚本の代作を行う人。
+j	ゴールウェイ湾	ごーるうぇいわん	
+j	ゴールデンアワー	ゴールデンアワー	prime time (block of tele…
+j	ゴールデンゴール	ゴールデンゴール	
+j	ゴールデンタイム	ゴールデンタイム	prime time (the block of …
+j	ゴールドコースト	ゴールドコースト	
+j	ゴールドストーン	ゴールドストーン	
+j	ゴールドラッシュ	ゴールドラッシュ	金鉱が発見された場所へ、一攫千金を夢見た人々が大挙…
+j	五十歩百歩	ごじっぽひゃっぽ	pot calling the kettle bl…
+j	五十音仮名	ごじゅうおんがな	synonym of 片仮名
+j	五十音順	ごじふおんじゅん	the sort order for kana (…
+j	五大明王	ごだいみょうおう	the Five Wisdom Kings in …
+j	五段活用	ごだんくわつよう	a verbal conjugation clas…
+j	合同会社	ごうどうがいしゃ	会社の形態の一つで、出資者と経営者が同一で有限責任…
+j	合同変換	ごうどうへんかん	ある図形から合同な図形への変換。
+j	合名会社	ごうめいがいしゃ	社員全員が経営にあたる権能を有する一方、会社の債務…
+j	合弁事業	ごうべんじぎょう	
+j	合弁企業	ごうべんきぎょう	
+j	合弁会社	ごうべんがいしゃ	joint venture
+j	合成洗剤	ごうせいせんざい	laundry detergent
+j	合成清酒	ごうせいせいしゅ	アルコールにブドウ糖、コハク酸、香料など清酒に近い…
+j	合成関数	ごうせいかんすう	関数による写像を合成した関数。
+j	合理主義者	ごうりしゅぎしゃ	合理主義の立場をとりそれを主張する者。
+j	呉牛喘月	ごぎゅうぜんげつ	
+j	呉越同舟	ごえつどうしゅう	"bitter enemies in the sa…
+j	後撰和歌集	ごせんわかしゅう	the second of the 勅撰和歌集 (…
+j	御用商人	ごようしょうにん	官庁（特に宮中）などに出入りし、受注したものを納入…
+j	極楽浄土	ごくらくじょうど	Amitabha’s Pure Land
+j	極楽鳥花	ごくらくちょうか	bird of paradise (flower)
+j	極楽鳥花	ごくらくてうくわ	bird of paradise (flower)
+j	権少納言	ごんしょうなごん	an acting lesser counselo…
+j	豪放磊落	ごうほうらいらく	accommodating and unconce…
+j	ごちゃごちゃにする	ごちゃごちゃにする	
+j	ご案内の通り	ごあんないのとおり	
+j	ご機嫌いかがですか	ご機嫌いかがですか	
+j	ご苦労様でした	ごくろうさまでした	I appreciate your efforts…
+j	ご馳走様でした	ごちそうさまでした	it was delicious
+j	ゴウシュウマンボウ	ゴウシュウマンボウ	ウシマンボウの旧名。
+j	ゴンドラの船頭	ごんどらのせんどう	
+j	ゴンドワナ大陸	ごんどわなたいりく	
+j	ゴールウェイ州	ごーるうぇいしゅう	
+j	ゴールデンイエロー	ゴールデンイエロー	強い赤みのある黄色。
+j	ゴールデンウィーク	ゴールデンウィーク	Golden Week
+j	ゴールデンウイーク	ゴールデンウイーク	ゴールデンウィークの異表記。
+j	ゴールデンゲート橋	ゴールデンゲート橋	synonym of ゴールデン・ゲート・ブリッジ…
+j	ゴールデンモンキー	ゴールデンモンキー	金糸猴の別称。
+j	五十歩百歩	ごじゅっぽひゃっぽ	pot calling the kettle bl…
+j	五十音順	ごじゅうおんじゅん	the sort order for kana (…
+j	五十音順	ごじゅんおんじゅん	the sort order for kana (…
+j	合成の誤謬	ごうせいのごびゅう	個人や会社などの各個体が自身にとっては正しく合理的…
+j	合理的配慮	ごうりてきはいりょ	障害者から社会的障壁を取り除くために、過度な負担と…
+j	宮保鶏丁	ごんばおじーでぃん	Kung Pao chicken
+j	宮保鶏丁	ゴンバオジーディン	Kung Pao chicken
+j	御愁傷様	ごしゅうしょうさま	身内を亡くした者に対し、気の毒に思うさま。
+j	極楽往生	ごくらくおうじょう	absolute pleasure
+j	極楽往生	ごくらくわうじやう	absolute pleasure
+j	極超音速	ごくちょうおんそく	
+j	権の少納言	ごんのしょうなごん	
+j	皮革・ゴム製品商	ごむせいひんしょう	古皮、古ゴムを扱う古物商。
+j	語尾音消失	ごびおんしょうしつ	語尾の音を消失させることによる、語の省略。
+j	語形変化ができる	ごけいへんができる	
+j	語形変化表	ごけいへんかひょう	
+j	誤嚥性肺炎	ごえんせいはいえん	食物や飲料が肺に入ったことで生じる肺炎。
+j	護身用スプレー	ごしんようすぷれー	self-defence spray
+j	護身用スプレー	ごしんようスプレー	self-defence spray
+j	ごみ収集車	ごみしゅうしゅうしゃ	
+j	ご冥福をお祈りします	ご冥福をお祈りします	
+j	ご出身はどちらですか	ご出身はどちらですか	
+j	ご想像にお任せします	ご想像にお任せします	I'll leave it to your ima…
+j	ご愁傷様です	ごしうしやうさまです	my deepest condolences; I…
+j	ご機嫌いかがですか	ごきげんいかがですか	
+j	ゴチャゴチャした状態	ゴチャゴチャした状態	
+j	ゴメスのハンバーガー	ゴメスのハンバーガー	
+j	ゴルディオスの結び目	ゴルディオスの結び目	
+j	ゴルノ゠アルタイスク	ゴルノ゠アルタイスク	
+j	ゴーイングコンサーン	ゴーイングコンサーン	継続企業。
+j	ゴールデンハムスター	ゴールデンハムスター	a golden hamster
+j	五本の指に入る	ごほんのゆびにはいる	
+j	五色青海鸚哥	ごしきせいがいいんこ	any rainbow lorikeet (Tri…
+j	五色青海鸚哥	ゴシキセイガイインコ	any rainbow lorikeet (Tri…
+j	五行相克説	ごぎょうそうこくせつ	古代中国の五行説で世界を構成する木、土、水、火、金…
+j	五行相生説	ごぎょうそうせいせつ	古代中国の五行説で世界を構成する木、火、土、金、水…
+j	五類感染症	ごるいかんせんしょう	感染症法において季節性インフルエンザ、エイズ、麻疹…
+j	合成甘味料	ごうせいかんみりょう	「人工甘味料」を参照。
+j	呉牛月に喘ぐ	ごぎゅうつきにあえぐ	excessive fear
+j	御列席の皆様	ごれっせきのみなさま	
+j	業によりて果を引く	ごうによりてかをひく	
+j	語末音消失	ごまつおんしょうしつ	語末の音を消失させることによる、語の省略。
+j	降三世明王	ごうざんぜみょうおう	Trailokyavijaya, the Wisd…
+j	ご愁傷様です	ごしゅうしょうさまです	my deepest condolences; I…
+j	ゴルディオスの結び目	ごるでぃおすのむすびめ	
+j	ゴータマ・シッダールタ	ゴータマ・シッダールタ	仏教の開祖、釈迦牟尼の俗名（本名）。ネパールの小さ…
+j	ゴールデンゲート橋	ごーるでんげーときょう	synonym of ゴールデン・ゲート・ブリッジ…
+j	ゴールデンゲート橋	ゴールデンゲートきょう	synonym of ゴールデン・ゲート・ブリッジ…
+j	ゴールデンパラシュート	ゴールデンパラシュート	golden parachute
+j	ゴールデン・レトリバー	ゴールデン・レトリバー	
+j	御来場の皆様	ごらいじょうのみなさま	
+j	語中音消失	ごちゅうおんしょうしつ	
+j	ご遠慮なくお使いください	ご遠慮なくお使いください	
+j	ゴールデンゲートブリッジ	ゴールデンゲートブリッジ	the Golden Gate Bridge
+j	後徳大寺左大臣	ごとくだいじのさだいじん	courtesy name of Tokudaij…
+j	ご冥福をお祈りします	ごめいふくをおいのりします	
+j	ご出身はどちらですか	ごしゅっしんはどちらですか	
+j	ご想像にお任せします	ごそうぞうにおまかせします	I'll leave it to your ima…
+j	ゴールデンライオンタマリン	ゴールデンライオンタマリン	a golden lion tamarin
+j	合成着色料	ごうせいちゃくしょくりょう	化学的に合成されてつくられた食品の着色料。人工着色…
+j	五十にして天命を知る	ごじゅうにしててんめいをしる	人は五十歳になって初めて、自らの宿命を知るというこ…
+j	合同企業説明会	ごうどうきぎょうせつめいかい	
+j	郷に入っては郷に従え	ごうにいってはごうにしたがえ	when in Rome, do as the R…
+j	郷に入りては郷に従え	ごうにいりてはごうにしたがえ	when in Rome, do as the R…
+j	合計特殊出生率	ごうけいとくしゅしゅっしょうりつ	女性一人が一生の間に生む子供の数の平均。
+j	ごぼうを同じ土地に二年作らぬ者は馬鹿	ごぼうを同じ土地に二年作らぬ者は馬鹿	ごぼうは連作しても、収穫量が減ることはないというこ…
+j	後京極摂政前太政大臣	ごきやうごくせつしやうさきのだいじやうだいじん	courtesy title of Kujō Yo…
+j	後京極摂政前太政大臣	ごきょうごくせっしょうさきのだいじょうだいじん	courtesy title of Kujō Yo…

@@ -1,0 +1,6 @@
+e	qadi	qadi	1 meaning
+e	q and a	qanda	1 meaning
+e	qanun	qanun	1 meaning
+e	qatar	qatar	1 meaning
+e	qantas	qantas	1 meaning
+e	qatari	qatari	2 meanings

@@ -1,0 +1,5 @@
+e	czech	czech	3 meanings
+e	czechia	czechia	1 meaning
+e	częstochowa	czstochowa	1 meaning
+e	czech republic	czechrepublic	1 meaning
+e	czechoslovakia	czechoslovakia	1 meaning

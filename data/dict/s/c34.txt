@@ -1,0 +1,1618 @@
+j	勢	勢	force
+j	嚢	嚢	
+j	垢	垢	scum
+j	夢	夢	a dream
+j	嬢	嬢	a daughter (female offspr…
+j	客	客	guest; visitor
+j	形	形	a shape
+j	探	探	spy from (a country)
+j	敢	敢	daring; brave; bold
+j	暢	暢	a male given name
+j	枢	枢	
+j	梢	梢	a treetop
+j	楢	楢	oak
+j	沢	沢	a mountain stream; a stre…
+j	波	波	a wave
+j	溢	溢	overflow
+j	漢	漢	man
+j	牢	牢	prison
+j	狢	狢	synonym of 穴熊 (anaguma): …
+j	矢	矢	an arrow
+j	粢	粢	an ancient type of rice c…
+j	索	索	（サク）縄。綱。
+j	縢	縢	thread
+j	肢	肢	
+j	莢	莢	
+j	衢	衢	（ちまた）分かれ道。
+j	貢	貢	a male given name
+j	賢	賢	a male given name
+j	転	転	alteration of a word in s…
+j	酢	酢	主成分を酢酸とする、食品に酸味を付与または増強し、…
+j	鉢	鉢	flower pot
+j	鑢	鑢	a file (cutting or smooth…
+j	関	関	barrier, gate
+j	院	院	institution
+j	離	離	the third of the eight tr…
+j	面	面	face
+j	飢	飢	hungry; starve
+j	驢	驢	donkey
+j	髢	髢	hairpiece
+j	鬢	鬢	sidelocks
+j	鯢	鯢	
+j	齢	齢	instar
+k	객	客	guest
+k	검	檢	sword
+k	면	面	cotton (both the fiber an…
+k	양	嬢	quantity, amount
+k	원	院	won; the official currenc…
+k	전	錢	before
+k	필	畢	A bolt or roll of cloth
+k	한	漢	one (as a determiner nume…
+k	형	形	older brother of a male
+k	형	螢	older brother of a male
+j	亢奮	亢奮	感情が高ぶること。
+j	亢竜	亢竜	天高く昇りつめた竜。
+j	亢進	亢進	increase
+j	兢兢	兢兢	恐れ、畏まるさま。安心できないさま。
+j	兢恪	兢恪	謹むこと。
+j	兢惕	兢惕	恐れ、戒めること。
+j	兢慎	兢慎	小心なさま。
+j	兢慙	兢慙	慚ること。
+j	兢懐	兢懐	思うこと。
+j	兢戒	兢戒	戒めること。
+j	兢敬	兢敬	兢恪すること。
+j	兢業	兢業	謹み、努めること。
+j	兢畏	兢畏	畏れること。
+j	冢塋	冢塋	土を盛った墓。墳墓。
+j	冢宰	冢宰	中国周の時代、六官の長で天子を補佐し、百官を統率し…
+j	冢田	冢田	墓地。
+j	勢い	勢い	force, power, strength, e…
+j	勢利	勢利	権勢と利欲。また、そのための行動。
+j	勢力	勢力	influence, power, especia…
+j	勢名	勢名	権勢と名誉。
+j	勢地	勢地	権勢の地位。
+j	勢威	勢威	権勢と威力。
+j	勢家	勢家	権勢をほこる家柄。
+j	勢富	勢富	力と富。
+j	勢州	勢州	伊勢国^(（いせのくに）)の別称。
+j	勢望	勢望	勢力と人望。
+j	勢権	勢権	威勢と権力。権勢。
+j	勢相	勢相	ある動作ができる（可能である）ことを表す文法の形式…
+j	勢至	勢至	仏教の菩薩の一人勢至菩薩の略。
+j	勢藤	勢藤	a surname
+j	勢語	勢語	
+j	勢車	勢車	flywheel
+j	叢劇	叢劇	忙しいさま。
+j	叢叢	叢叢	flourishing
+j	叢攢	叢攢	群れること。
+j	叢書	叢書	book series
+j	叢林	叢林	Zen monastery
+j	叢樹	叢樹	群がるように生えた樹木。
+j	叢残	叢残	残余。
+j	叢淵	叢淵	物事の寄り集まる所。活動の中心地。
+j	叢生	叢生	植物が群がって生えること。群生。簇生。
+j	叢祠	叢祠	叢などにある祠。
+j	叢考	叢考	miscellaneous studies
+j	叢蘭	叢蘭	群がりしげっている蘭。
+j	叢話	叢話	たくさんの話をまとめたもの。
+j	叢誌	叢誌	多数の事項を蒐集した記録や雑誌。
+j	叢説	叢説	さまざまな人の説を集めたもの。
+j	叢談	叢談	さまざまな物語を集めたもの。
+j	叢譚	叢譚	叢談の異表記。
+j	叢豔	叢豔	美しく咲き乱れていること。また、そのさま。
+j	叢雲	叢雲	gathering clouds
+j	噢咻	噢咻	呻くこと。
+j	嚢中	嚢中	袋の中。
+j	嚢子	嚢子	シスト。
+j	嚢状	嚢状	袋のような形状。
+j	嚢胚	嚢胚	動物の発生段階で胞胚のあと原腸が形成される段階の胚。
+j	嚢胞	嚢胞	cyst
+j	嚢腫	嚢腫	分泌腺の腺管が塞がれ内部に分泌された液体がたまる良…
+j	嚢裏	嚢裏	財布の中。
+j	垢穢	垢穢	垢で体や服などが汚れること。
+j	垢膩	垢膩	垢が付き、膩っぽいこと。
+j	垢衣	垢衣	垢が付き、汚れた衣服。
+j	垢面	垢面	垢じみた汚い顔。
+j	夢の	夢の	
+j	夢中	夢中	absorbed (fully occupied …
+j	夢占	夢占	ゆめうら。ゆめうらない。
+j	夢境	夢境	夢の中での世界。
+j	夢子	夢子	a female given name
+j	夢学	夢学	
+j	夢寐	夢寐	眠って夢を見ること。また、その間。
+j	夢幻	夢幻	fantasy, dreams, illusions
+j	夢後	夢後	夢から醒めること。また、その後。
+j	夢想	夢想	dreaming, daydreaming
+j	夢枕	夢枕	the bedside of someone dr…
+j	夢死	夢死	夢のように空しく一生を終えること。
+j	夢現	夢現	dream and reality
+j	夢相	夢相	夢の吉凶を判断すること。また、それを業とする人。
+j	夢精	夢精	wet dream; nocturnal emis…
+j	夢羽	夢羽	a female given name
+j	夢裏	夢裏	夢の中。
+j	夢裡	夢裡	夢の中。
+j	夢見	夢見	dreaming, dream
+j	夢遺	夢遺	夢精。
+j	夢醒	夢醒	夢から醒めること。
+j	夢魔	夢魔	incubus or succubus
+j	夢魘	夢魘	恐ろしい（怖い）夢を見てうなされること。
+j	奢り	奢り	
+j	奢る	奢る	to treat, pay for someone…
+j	奢侈	奢侈	luxury; extravagance
+j	奢傲	奢傲	奢り昂ること。奢侈と傲慢。
+j	奢宕	奢宕	奢縦。奢恣。
+j	奢恣	奢恣	贅沢でほしいまま。
+j	奢縦	奢縦	贅沢でほしいまま。
+j	婢女	婢女	下女。
+j	婢妾	婢妾	servant girls and concubi…
+j	客亭	客亭	旅館、宿屋。
+j	客人	客人	caller
+j	客体	客体	object
+j	客僧	客僧	各地を旅する僧。
+j	客冬	客冬	去年の冬。
+j	客分	客分	客としての扱いを受けること。また、その人。
+j	客卿	客卿	他国から来てその国の支配者に仕え公卿の位を与えられ…
+j	客員	客員	組織で正規の人員ではなく客分として招かれた人。
+j	客土	客土	（きゃくど）土壌の性質を改良するため、性質の良い土…
+j	客地	客地	旅先の土地。
+j	客塵	客塵	仏教における煩悩。
+j	客室	客室	parlor; guest room; a roo…
+j	客家	客家	Hakka ethnicity, the Hakk…
+j	客将	客将	客分として扱われる大将。
+j	客層	客層	顧客をその属性により分類した階層。
+j	客席	客席	guest seating, seating fo…
+j	客年	客年	今年より一つ前の年。
+j	客心	客心	旅に出た先での心情。旅情。
+j	客思	客思	故郷を離れた旅先での故郷を思う気持ち。
+j	客情	客情	旅先における心情。旅情。
+j	客愁	客愁	他郷に客たる身の物思い。故郷を遠く離れた地で感じる…
+j	客懐	客懐	遠くの異郷や旅先で故郷を思う心情。
+j	客旅	客旅	旅。旅行。
+j	客月	客月	前月。先月。
+j	客歳	客歳	今年より一つ前の年。
+j	客死	客死	death in a foreign land
+j	客気	客気	rashness
+j	客演	客演	guest performance
+j	客礼	客礼	客として待遇する礼儀。
+j	客神	客神	外国から渡来してきた神。
+j	客窓	客窓	旅館の窓。
+j	客臘	客臘	去年の十二月。
+j	客舟	客舟	旅客の舟。
+j	客船	客船	passenger ship
+j	客裏	客裏	「客裡」の別表記。
+j	客裡	客裡	旅行中であること。
+j	客観	客観	objectivity
+j	客語	客語	object
+j	客足	客足	visitation of customers
+j	客車	客車	a passenger train car
+j	客間	客間	guest room, parlor
+j	客階	客階	（西側の）来客用の階段。
+j	尢繞	尢繞	漢字の部首「⼪」が繞である場合の呼称。
+j	尢部	尢部	部首「⼪」で分類した漢字の一群。
+j	屢報	屢報	度々報せること。
+j	崢嶸	崢嶸	（山などが）高く険しいさま。また、（谷などが）深く…
+j	嶢屼	嶢屼	高く聳えるさま。
+j	嶢榭	嶢榭	高台。
+j	嶢然	嶢然	特出するさま。
+j	幢幢	幢幢	羽毛が垂れるさま。
+j	幢戟	幢戟	幢と戟。
+j	幢隊	幢隊	幢を持つ先頭の部隊。
+j	廢址	廢址	廃址の旧字体表記。
+j	廢墟	廢墟	
+j	廢市	廢市	廃市の旧字体表記。
+j	廢弛	廢弛	廃弛の旧字体表記。
+j	廢止	廢止	廃止の旧字体表記。
+j	廢水	廢水	
+j	廢祠	廢祠	廃祠の旧字体表記。
+j	形代	形代	a traditional Japanese pa…
+j	形似	形似	形、外観が似ていること。
+j	形体	形体	姿。形。様子。
+j	形像	形像	仏や菩薩、人などの姿形を象った画像や彫像。
+j	形動	形動	
+j	形勝	形勝	scenic beauty
+j	形勢	形勢	condition, situation, pro…
+j	形声	形声	One of the types of Han c…
+j	形容	形容	description
+j	形式	形式	format
+j	形影	形影	form and shadow
+j	形態	形態	form; shape
+j	形成	形成	formation
+j	形残	形残	首の無い神。
+j	形状	形状	shape
+j	形相	形相	facial expression (especi…
+j	形色	形色	かたち。色境（視覚の対象）を「いろ」と「かたち」に…
+j	形見	形見	memento, keepsake, rememb…
+j	形象	形象	表に現れている形。
+j	形貌	形貌	容姿。姿。形。
+j	形質	形質	生物の特徴となる形や性質。
+j	形跡	形跡	evidence, trace
+j	形音	形音	容姿と声。
+j	形骸	形骸	ruin, wreck
+j	恢偉	恢偉	大きく立派なさま。
+j	恢咍	恢咍	可笑しいさま。
+j	恢夷	恢夷	平らかなさま。
+j	恢宏	恢宏	widening, broadening
+j	恢廓	恢廓	張って広げること。
+j	恢弘	恢弘	事業、制度などを広く大きくすること。
+j	恢復	恢復	回復と同義。
+j	恢恢	恢恢	ゆったり広々としているさま。
+j	恢拓	恢拓	広めて開拓すること。
+j	恢然	恢然	広々としているさま。
+j	恢郭	恢郭	城の外郭。
+j	悢然	悢然	悲しみ、思うさま。
+j	慢心	慢心	conceit, pride
+j	慢性	慢性	chronicity, inveteracy (a…
+j	慢気	慢気	驕り、高ぶる気持ち。慢心。
+j	慢罵	慢罵	相手を侮り、悪口を言うこと。
+j	慢言	慢言	驕り高ぶり、他人を見下すような言葉。慢語。
+j	慢語	慢語	驕り高ぶり、他人を見下すような言葉。慢言。
+j	戢㪘	戢㪘	戢斂の拡張新字体を用いた表記。
+j	戢斂	戢斂	収斂の異表記。
+j	探し	探し	search
+j	探す	探す	to look for; to search fo…
+j	探る	探る	fumble for, feel around f…
+j	探偵	探偵	a detective (person emplo…
+j	探勝	探勝	景色の良い場所を訪ね歩くこと。
+j	探子	探子	
+j	探山	探山	a male given name
+j	探抉	探抉	暴くこと。
+j	探査	探査	exploration, usually scie…
+j	探検	探検	expedition, exploration
+j	探求	探求	quest
+j	探海	探海	海上や海中を探索すること。
+j	探測	探測	探り測ること。
+j	探湯	探湯	熱湯に手を入れてものを探ること。
+j	探知	探知	detection
+j	探究	探究	research, inquiry
+j	探窮	探窮	探求すること。
+j	探索	探索	search, lookup, explorati…
+j	探聞	探聞	探って聞き出すこと。
+j	探討	探討	深く探り調べること。
+j	探訪	探訪	inquiry (investigative vi…
+j	探針	探針	probing pin; probe
+j	探鉱	探鉱	prospecting
+j	探険	探険	未知の地域に入り実地に調べること。
+j	探題	探題	（仏教）経典の論議の際、論題を選定し問答の可否を判…
+j	探鳥	探鳥	bird watching
+j	擢用	擢用	多くのものの中から選抜して用いること。
+j	擢登	擢登	擢進すること。
+j	擢第	擢第	登第。及第。
+j	擢賞	擢賞	多くの中から選出して賞すること。
+j	擢進	擢進	優れた人物を抜き出し、高い地位、官職などにつけるこ…
+j	攢仄	攢仄	声や音などが、幾重にも連なり集まること。また、その…
+j	攢叢	攢叢	群がり集まること。攢聚。
+j	攢合	攢合	集合。
+j	攢峯	攢峯	群がっている山。攢巒。連峯。
+j	攢峰	攢峰	群がっている山。攢巒。連峰。
+j	攢巒	攢巒	群がっている山。攢峰。連峰。
+j	攢念	攢念	思いが多いさま。
+j	攢攢	攢攢	木の葉などが密生していること。また、そのさま。
+j	攢構	攢構	集め作ること。
+j	攢眉	攢眉	眉をひそめること。
+j	攢立	攢立	群がり立つこと。
+j	攢竦	攢竦	多くの山が群がって、連なり聳えていること。また、そ…
+j	攢聚	攢聚	群がり集まること。攢蔟。
+j	攢聳	攢聳	多くの山が群がって、連なり聳えていること。また、そ…
+j	攢蔟	攢蔟	群がり集まること。攢聚。
+j	攢蕪	攢蕪	ひどく穢れること。
+j	攢蹄	攢蹄	馬が極めて速く走ること。
+j	攢蹙	攢蹙	一箇所に集まり縮まること。
+j	敢ふ	敢ふ	to bear, to endure, to pu…
+j	敢争	敢争	心を決めて争うこと。
+j	敢死	敢死	死を覚悟すること。決死。
+j	敢為	敢為	物事を押し切って行うこと。断固としてやり通すこと。
+j	敢然	敢然	bold
+j	敢行	敢行	pressing ahead, going thr…
+j	敢闘	敢闘	brave fighting
+j	既に	既に	already
+j	既倒	既倒	decided fall
+j	既出	既出	having already appeared p…
+j	既刊	既刊	already published
+j	既卒	既卒	前年までに学校を卒業した人。
+j	既報	既報	being already reported
+j	既女	既女	
+j	既婚	既婚	being already married
+j	既存	既存	already existing
+j	既定	既定	established, given, foreg…
+j	既廩	既廩	毎月の官俸。
+j	既往	既往	past
+j	既得	既得	being vested
+j	既成	既成	established
+j	既望	既望	waning moon
+j	既決	既決	既に決まっていること。
+j	既済	既済	already settled, paid up
+j	既発	既発	既に起きた（発生した）こと。
+j	既知	既知	known
+j	既約	既約	分数の分子と分母が1以外の公約数を持たないこと。
+j	既納	既納	既に納めてあること。
+j	既習	既習	すでに学習していること。
+j	既製	既製	ready-made
+j	既設	既設	being already set up; bei…
+j	既読	既読	read (already read)
+j	既述	既述	同じ文章中にすでに述べたこと。
+j	既遂	既遂	a thing already completed…
+j	暢子	暢子	a female given name
+j	暢明	暢明	a male given name
+j	暢暢	暢暢	和楽するさま。
+j	暢気	暢気	気晴らし。
+j	暢達	暢達	のびのびしているさま。
+j	枢務	枢務	機密に関する事務。特に重要な事務。
+j	枢密	枢密	state secret; important s…
+j	枢府	枢府	A government office in ch…
+j	枢憲	枢憲	憲法。
+j	枢機	枢機	物事の肝要な所。かなめ。要点。枢要。「枢」は「くる…
+j	枢相	枢相	「枢密院議長」の略称。
+j	枢秘	枢秘	枢密によるまつりごと。
+j	枢管	枢管	枢要なこと。また、そのようなさま。
+j	枢要	枢要	物事の肝要な所。かなめ。中枢。要点。「枢」は「くる…
+j	枢軸	枢軸	centre, core, heart
+j	枢鍵	枢鍵	物事を解決するのに肝要（肝心）なところ。
+j	梢子	梢子	a female given name
+j	梢頭	梢頭	梢の先端。
+j	楢縄	楢縄	a surname,
+j	楢茸	楢茸	
+j	橢円	橢円	平面上の二つの定点からの距離の和が一定である点の軌…
+j	橢圓	橢圓	
+j	檢勅	檢勅	検勅の旧字体表記。
+j	檢證	檢證	
+j	檢飭	檢飭	検飭の旧字体表記。
+j	止す	止す	to cease, to stop, to be …
+j	止む	止む	to stop, to cease, to be …
+j	止め	止め	stopping
+j	止偏	止偏	漢字の部首「⽌」が偏である場合の呼称。
+j	止宿	止宿	旅館に泊まること。宿をとること。
+j	止揚	止揚	あるものを否定しつつも全面的に捨て去るのではなく、…
+j	止水	止水	止まって流れない水。溜まり水。死水。
+j	止痛	止痛	pain relief; the alleviat…
+j	止血	止血	stopping the flow of bloo…
+j	止観	止観	雑念を止めて一つの対象に心を集中させ、正しい智慧に…
+j	止部	止部	部首「⽌」で分類した漢字の一群。
+j	沢井	沢井	a surname
+j	沢尻	沢尻	a surname
+j	沢山	沢山	many, numerous
+j	沢庵	沢庵	takuan (half-dried daikon…
+j	沢本	沢本	a surname
+j	沢村	沢村	a surname
+j	沢柴	沢柴	Carpinus cordata
+j	沢浹	沢浹	恩が及ぶこと。
+j	沢渡	沢渡	a surname
+j	沢瀉	沢瀉	threeleaf arrowhead, Sagi…
+j	沢田	沢田	a surname
+j	沢色	沢色	色艶。色沢。
+j	沢蘭	沢蘭	Eleorchis japonica, a spe…
+j	沢鵟	沢鵟	eastern marsh harrier, Ci…
+j	沢鵯	沢鵯	Eupatorium lindleyanum
+j	波上	波上	波の上。
+j	波並	波並	Hanami, Hanami Station (a…
+j	波乱	波乱	大波と小波。波濤。
+j	波力	波力	波の力。
+j	波動	波動	surge, fluctuation, undul…
+j	波及	波及	spread
+j	波和	波和	（はわ）ペルシア語と日本語。「波和辞典」。
+j	波布	波布	a venomous pit viper of s…
+j	波平	波平	a surname
+j	波形	波形	waveform
+j	波戸	波戸	「波止」の別表記。
+j	波数	波数	単位長さ当たりの波の数。波長の逆数。
+j	波斯	波斯	Persia, especially ancien…
+j	波旬	波旬	
+j	波束	波束	wave packet
+j	波止	波止	陸地から海中へ細長く突き出した構築物。波よけや海釣…
+j	波浪	波浪	waves
+j	波涛	波涛	「波濤」の拡張新字体を用いた表記。
+j	波濤	波濤	great wave; billow
+j	波瀾	波瀾	small waves and large wav…
+j	波状	波状	波が起伏するような形状。
+j	波痕	波痕	砂地などに残された波の痕。
+j	波紋	波紋	ripple (moving disturbanc…
+j	波線	波線	波打つような線。
+j	波羅	波羅	the opposite bank or shore
+j	波蘭	波蘭	ポーランドの漢字表記。
+j	波訳	波訳	（はやく）ペルシア語に訳すこと。また、その文章。
+j	波語	波語	（はご）ペルシア語（波斯語）の略称。
+j	波長	波長	wavelength
+j	波面	波面	波の表面。
+j	波音	波音	sound of sea wave
+j	波頂	波頂	波の一番高い所。なみがしら。
+j	波頭	波頭	波の上。
+j	波風	波風	wind and waves
+j	波高	波高	the height of a wave
+j	溢水	溢水	overflow
+j	溢血	溢血	身体の組織の内部で血管から出血すること。
+j	漢人	漢人	a Han Chinese
+j	漢代	漢代	古代中国の漢の時代。
+j	漢初	漢初	中国の漢の時代の初期。
+j	漢化	漢化	
+j	漢医	漢医	漢方により治療する医師。漢方医。
+j	漢口	漢口	Hankou (a former city in …
+j	漢名	漢名	Chinese or Sino-Japanese …
+j	漢和	漢和	China and Japan; Sino-Jap…
+j	漢国	漢国	
+j	漢土	漢土	中国。もろこし。
+j	漢城	漢城	Hanseong (Seoul during th…
+j	漢奸	漢奸	hanjian
+j	漢字	漢字	kanji
+j	漢学	漢学	sinology
+j	漢才	漢才	中国の学問。また、それに通じていること。漢学。
+j	漢文	漢文	Literary Chinese; Classic…
+j	漢方	漢方	Chinese medicine and heal…
+j	漢族	漢族	Han Chinese
+j	漢書	漢書	Book of Han (history of t…
+j	漢月	漢月	天漢（天の川）と月。
+j	漢服	漢服	traditional Han Chinese c…
+j	漢朝	漢朝	中国の漢の王朝。また、その時代。
+j	漢検	漢検	
+j	漢水	漢水	synonym of 漢江: Han River …
+j	漢江	漢江	Han River (in Shaanxi and…
+j	漢竹	漢竹	中国から伝わった竹。
+j	漢籍	漢籍	Classical Chinese literat…
+j	漢訳	漢訳	translation into Classica…
+j	漢詩	漢詩	Chinese poetry, Chinese p…
+j	漢語	漢語	kango, a Japanese word of…
+j	漢説	漢説	中国から伝来した説。
+j	漢讚	漢讚	梵語の仏教賛歌を漢訳したもの。
+j	漢越	漢越	ベトナム語における中国の漢字に由来するものの総称。
+j	漢陽	漢陽	Hanyang (an old term for …
+j	漢音	漢音	Kan'on, a Sino-Japanese k…
+j	煢煢	煢煢	孤独で寂しいさま。
+j	煢釐	煢釐	やもめ。
+j	牢乎	牢乎	しっかりして動じないこと。また、そのようなさま。
+j	牢固	牢固	しっかりしていて丈夫なさま。
+j	牢屋	牢屋	prison
+j	牢檻	牢檻	牢と檻。牢屋。獄舎。
+j	牢櫃	牢櫃	捕らえた罪人を収容する建物。
+j	牢死	牢死	牢屋で死ぬこと。
+j	牢獄	牢獄	prison
+j	牢籠	牢籠	落ちぶれること。衰えること。
+j	牢者	牢者	罪を犯して牢屋に入れられている者。
+j	牢舎	牢舎	捕らえた罪人を収容する建物。
+j	牢記	牢記	しっかり記憶すること。
+j	牢頭	牢頭	看守。
+j	狢藻	狢藻	waterwheel plant, Aldrova…
+j	玢岩	玢岩	porphyrite
+j	琢磨	琢磨	polishing of jewels
+j	瓢冠	瓢冠	僧の帽。
+j	瓢箪	瓢箪	bottle gourd; calabash, L…
+j	瓢簞	瓢簞	スミレ目ユウガオ属に属する一年草。学名:Lagen…
+j	瓢酒	瓢酒	瓢箪または瓢箪の形の容器に入った酒。また、それを飲…
+j	畢業	畢業	業を終えること。卒業すること。
+j	畢生	畢生	命が尽きるまでの間。終生。一生涯。
+j	畢竟	畢竟	after all
+j	痢病	痢病	赤痢など激しい腹痛や下痢をする病気。
+j	瘢創	瘢創	瘢瘡の異表記。
+j	瘢痕	瘢痕	scar
+j	瘢瘡	瘢瘡	傷跡。
+j	癢疹	癢疹	強い痒みを伴う発疹。
+j	癢痛	癢痛	痒みと痛み。
+j	睢睢	睢睢	仰ぎ見ること。
+j	睢維	睢維	瞬き。
+j	矢代	矢代	a surname
+j	矢住	矢住	a surname
+j	矢作	矢作	a surname
+j	矢倉	矢倉	weapon chamber, storing a…
+j	矢偏	矢偏	漢字の部首「⽮」が偏である場合の呼称。
+j	矢印	矢印	
+j	矢口	矢口	a surname
+j	矢吹	矢吹	a surname
+j	矢地	矢地	a surname
+j	矢壺	矢壺	ツヅラフジの蔓や竹で編んだ、矢の容器。
+j	矢富	矢富	a surname
+j	矢尻	矢尻	
+j	矢島	矢島	a surname
+j	矢嶋	矢嶋	a surname
+j	矢師	矢師	矢を作る工匠。
+j	矢床	矢床	
+j	矢文	矢文	letter sent by arrow
+j	矢柄	矢柄	the shaft of an arrow
+j	矢沢	矢沢	a surname
+j	矢状	矢状	sagittal-ness
+j	矢田	矢田	a surname
+j	矢石	矢石	arrows and rocks (the wea…
+j	矢竹	矢竹	arrow bamboo (Pseudosasa …
+j	矢筒	矢筒	quiver
+j	矢篦	矢篦	synonym of 矢柄 (yagara): s…
+j	矢籠	矢籠	「矢壺」の異表記。
+j	矢藤	矢藤	a surname
+j	矢誓	矢誓	an oath, pledge
+j	矢貫	矢貫	a surname
+j	矢追	矢追	a surname
+j	矢部	矢部	a surname
+j	矢郷	矢郷	a surname
+j	矢野	矢野	a neighborhood of Yawatah…
+j	矢銭	矢銭	戦国時代、大名、武将が戦費調達のために庶民に賦課し…
+j	矢間	矢間	a surname
+j	矢頭	矢頭	a surname
+j	矢鱈	矢鱈	random
+j	穢土	穢土	The Impure Land; the eart…
+j	穢多	穢多	the lowest group in Japan…
+j	穢行	穢行	けがれたおこない。道徳に反した行為。
+j	穢身	穢身	穢れている身。凡夫の身。
+j	粢盛	粢盛	神に供える穀物。供物。
+j	糢糊	糢糊	はっきりとしないさま。
+j	索子	索子	bamboo tile
+j	索寞	索寞	「索漠」の別表記。
+j	索引	索引	index, indices, indexes
+j	索敵	索敵	act of spying on
+j	索条	索条	ワイヤロープのこと。
+j	索梯	索梯	縄梯子。
+j	索漠	索漠	心が満たされないで寂しいさま。
+j	索用	索用	尋ねること。
+j	索索	索索	安心できないさま。
+j	索莫	索莫	「索漠」の別表記。
+j	索要	索要	要求すること。
+j	索話	索話	禅寺で住持が説法の前に大衆に疑問があるか問うて促し…
+j	索語	索語	禅宗寺院で住職が説法した後、聴衆に疑問を質問するよ…
+j	索謝	索謝	謝礼を要求すること。
+j	索道	索道	a cableway, ropeway
+j	索隠	索隠	隠れている道理を探し求めること。
+j	索麺	索麺	小麦粉に食塩水を入れてこね、植物油を塗り細長く伸ば…
+j	絢子	絢子	a female given name
+j	絢煥	絢煥	輝くほど美しいこと。そのさま。
+j	絢爛	絢爛	splendid, gorgeous, dazzl…
+j	絢練	絢練	迅速。
+j	絢耀	絢耀	輝くほど美しいこと。そのさま。絢煥。
+j	絢采	絢采	文彩。
+j	綢繆	綢繆	coiled about, tied and ti…
+j	縢り	縢り	act of finishing a raw ed…
+j	縢る	縢る	to finish a raw fabric ed…
+j	繢人	繢人	図画係。
+j	繢組	繢組	美しい組み紐。
+j	肢体	肢体	limbs; members
+j	肢巻	肢巻	馬の肢を外傷から防ぐために巻く保護具。
+j	肢帯	肢帯	脊椎動物で四肢を脊椎に結合するもの。
+j	肢端	肢端	四肢の末端。
+j	肢節	肢節	四肢の関節。
+j	肢解	肢解	古代中国の極刑の一つ。四肢を切り離すもの。支解。
+j	肢骨	肢骨	appendicular bone
+j	舢板	舢板	中国、東南アジアの水域で使用される小型船。
+j	莢果	莢果	マメ科の植物の果実に見られるもので、一つの莢の中に…
+j	莢膜	莢膜	一部の細菌の外側を覆う粘性があるゲル状の膜。多糖類…
+j	莢銭	莢銭	楡莢に似ている漢の時代の鋳銭。
+j	蕢桴	蕢桴	土塊の桴。
+j	蟢子	蟢子	アシダカグモ。
+j	蠢く	蠢く	to squirm
+j	蠢動	蠢動	もぞもぞと蠢くこと。
+j	蠢爾	蠢爾	虫が蠢くさま。
+j	蠢蠢	蠢蠢	虫が蠢くさま。
+j	衢柯	衢柯	四方に張り出した樹木の枝。
+j	衢民	衢民	一般市民。
+j	衢道	衢道	分かれ道。
+j	袢暑	袢暑	汗ばむような暑さ。
+j	訢訢	訢訢	和らぎ、慎むさま。
+j	豢養	豢養	養い育てること。飼育すること。
+j	貢ぎ	貢ぎ	
+j	貢ぐ	貢ぐ	to tribute, to give tribu…
+j	貢人	貢人	律令制で官吏登用に諸国から推挙された者。
+j	貢使	貢使	貢物を持参する使節。
+j	貢士	貢士	明治維新で諸藩の藩主から推挙され、藩を代表する議事…
+j	貢挙	貢挙	律令制で大学、国学から推挙された者に試験を行い、役…
+j	貢物	貢物	tribute
+j	貢献	貢献	contribution
+j	貢租	貢租	租税。年貢。
+j	貢税	貢税	（ぐぜい）寺社に納める金銭や物品。
+j	貢米	貢米	貢物、年貢として納める米。
+j	貢納	貢納	貢ぎ物を納めること。
+j	貢茶	貢茶	茶の湯で四種類の茶を十服飲んでその種類を当てる遊び…
+j	貢菜	貢菜	ステムレタス。やまくらげ。
+j	貢計	貢計	献上を記した帳簿。
+j	貢調	貢調	貢物を奉ること。
+j	貢賦	貢賦	国家に納める貢ぎ物と租税。
+j	貢進	貢進	貢ぎ物を奉ること。
+j	貢闈	貢闈	貢院。
+j	貢院	貢院	中国で科挙の試験を行った場所や建物。
+j	貢馬	貢馬	朝廷に諸国から貢物として献上される馬。
+j	賢い	賢い	
+j	賢一	賢一	a male given name
+j	賢主	賢主	賢明な君主。
+j	賢人	賢人	wise man
+j	賢介	賢介	a male given name
+j	賢令	賢令	良い長官。
+j	賢伝	賢伝	賢者伝説。
+j	賢作	賢作	a male given name
+j	賢俊	賢俊	賢く優れていること。また、その人。
+j	賢兄	賢兄	他人の兄に対する尊敬語。
+j	賢出	賢出	優れ、抜きん出ること。
+j	賢労	賢労	抜きんでて苦労すること。また、そのような人。
+j	賢勇	賢勇	a male given name
+j	賢勝	賢勝	賢俊。
+j	賢台	賢台	相手に敬意を表す際の二人称の代名詞。手紙文で用いら…
+j	賢司	賢司	a male given name
+j	賢吏	賢吏	賢く優秀な役人。
+j	賢君	賢君	賢明で優れた君主。
+j	賢否	賢否	賢いこととそうでないこと。賢愚。
+j	賢哉	賢哉	あることが賢明であることを褒め称える語。
+j	賢士	賢士	person of virtue and abil…
+j	賢壹	賢壹	a male given name
+j	賢女	賢女	賢明な女性。賢婦。
+j	賢妻	賢妻	wise wife; a wife who is …
+j	賢婦	賢婦	賢明な婦人。
+j	賢媛	賢媛	賢女。賢婦。
+j	賢宰	賢宰	賢明な宰相。賢相。
+j	賢察	賢察	相手の推察。
+j	賢将	賢将	賢く優れた将軍。
+j	賢弟	賢弟	賢明なおとうと。
+j	賢徳	賢徳	賢く徳があること。
+j	賢息	賢息	賢い子息。
+j	賢愚	賢愚	賢いことと愚かこと。賢否。
+j	賢所	賢所	皇居のうち、三種の神器の一である八咫鏡を祀る場所。
+j	賢才	賢才	賢明な優れた才知。
+j	賢持	賢持	a male given name
+j	賢明	賢明	wise, clever
+j	賢智	賢智	「賢知」を参照。
+j	賢木	賢木	the tenth chapter of The …
+j	賢材	賢材	才知の優れた人。
+j	賢次	賢次	a male given name
+j	賢治	賢治	a male given name
+j	賢王	賢王	賢明な君主。
+j	賢皇	賢皇	賢王の異表記。
+j	賢相	賢相	賢明な宰相。
+j	賢知	賢知	賢明で智恵があること。また、そのような人。
+j	賢義	賢義	賢く、正しいさま。
+j	賢者	賢者	a wise man; a sage
+j	賢聖	賢聖	賢人と聖人。
+j	賢肖	賢肖	賢いことと愚かなこと。賢愚。
+j	賢能	賢能	賢明で才能があること。また、そのような人。
+j	賢臣	賢臣	賢明で優れた家臣。
+j	賢良	賢良	賢明で善良なこと。また、そのようなさま。
+j	賢英	賢英	傑物。
+j	賢衆	賢衆	仏道を修得した人達。高僧たち。
+j	賢覧	賢覧	その人が見ること。
+j	賢豆	賢豆	古代のインドの漢名。天竺。
+j	賢路	賢路	賢者の昇進する道。
+j	賢酒	賢酒	濁酒の異称。
+j	賢関	賢関	賢路。
+j	賢閣	賢閣	人妻。
+j	賢首	賢首	相手に対する敬称。
+j	転々	転々	from one to another
+j	転じ	転じ	
+j	転ぶ	転ぶ	to fall down
+j	転世	転世	転生。
+j	転乗	転乗	乗り物を乗り換えること。
+j	転付	転付	移し渡すこと。
+j	転任	転任	transfer; change in post
+j	転住	転住	居住地を変えること。転居。
+j	転倒	転倒	a fall, overturning, a tu…
+j	転免	転免	転職と免職。
+j	転入	転入	moving into a house
+j	転写	転写	transcription of text, di…
+j	転出	転出	現在居住している地から他の地へ移ること。
+j	転動	転動	ころがすこと。
+j	転勤	転勤	a transfer, job transfer,…
+j	転化	転化	change, conversion, trans…
+j	転句	転句	A twist in a narrative.
+j	転向	転向	conversion
+j	転回	転回	revolution; rotation
+j	転圧	転圧	地面に圧力をかけて、地盤を固めること。
+j	転地	転地	暮らしている土地、場所をかえること。
+j	転売	転売	a resale of something pre…
+j	転変	転変	物事が移り変わること。
+j	転嫁	転嫁	imputation
+j	転子	転子	a trochanter (end of femu…
+j	転学	転学	changing school
+j	転宅	転宅	住居を移すこと。引っ越すこと。
+j	転寝	転寝	
+j	転封	転封	大名などの領地を他へうつすこと。移封。
+j	転居	転居	住まいを移すこと。
+j	転属	転属	他の所属に異動、転籍すること。
+j	転帰	転帰	病気の経過や進行が行き着くところ。
+j	転役	転役	他の役にかわること。
+j	転念	転念	思いを巡らし、熟慮すること。
+j	転成	転成	ある語句が他の品詞に転換すること。活用形によるもの…
+j	転戦	転戦	あちこちと場所を変えて戦うこと。
+j	転所	転所	場所、住所を変えること。
+j	転手	転手	琵琶や三味線の棹の頭部に差し込まれている、弦を巻き…
+j	転把	転把	（古用）回転ハンドル、特に自動車の操縦ハンドル。
+j	転折	転折	書法の一つで、横から縦に折れたり、はねたりして筆鋒…
+j	転換	転換	change
+j	転机	転机	
+j	転校	転校	changing school
+j	転業	転業	change of occupation
+j	転機	転機	turn, turning point, tipp…
+j	転注	転注	figurative extension of m…
+j	転生	転生	transmigration of a soul …
+j	転用	転用	diversion, conversion, us…
+j	転病	転病	他の種類のものに生まれ変わること。
+j	転盞	転盞	朝廷の宴会で、相伴の公卿にも杯を回すこと。
+j	転眄	転眄	脇見。
+j	転睫	転睫	一瞬。
+j	転瞬	転瞬	瞬きをすること。
+j	転移	転移	transition
+j	転筆	転筆	書法の一つで、横から縦に折れたり、はねたりして筆鋒…
+j	転筋	転筋	こむらがえり。
+j	転籍	転籍	籍を他へ移すこと。籍が他に移ること。
+j	転経	転経	転読すること。
+j	転結	転結	漢詩の絶句で第三句の転句と第四句の結句。
+j	転置	転置	transposition
+j	転義	転義	本来の語義から転じた語義。その語が持つ本来の意味か…
+j	転職	転職	job change, a change of c…
+j	転落	転落	a fall, falling down
+j	転蓬	転蓬	根を離れ風に吹かれて転がっていく蓬。
+j	転補	転補	他の官職へ転じ、補されること。
+j	転覆	転覆	capsizing, overturn
+j	転記	転記	記載されている事項を他のものへ移して記載すること。
+j	転訛	転訛	corruption
+j	転読	転読	長い経典を略してその要所や題目などを読経すること。
+j	転調	転調	modulation; key change
+j	転貸	転貸	人から借りたものを、さらに他の人に貸すこと。
+j	転跌	転跌	転んで倒れること。
+j	転蹶	転蹶	「顛蹶」の別表記。
+j	転身	転身	身分や職業、主義などを変えること。
+j	転転	転転	転がること。また、そのようなさま。
+j	転載	転載	reprinting
+j	転送	転送	forwarding (mail, etc.)
+j	転逓	転逓	次々に伝え送ること。
+j	転進	転進	進行方向を変えること。
+j	転部	転部	大学で学部をかえること。
+j	転院	転院	入院患者や通院患者が他の病院へ移ること。
+j	転餉	転餉	糧食を運搬すること。
+j	轢く	轢く	to run over (with a vehic…
+j	轢死	轢死	death from being run over…
+j	轢殺	轢殺	轢いて殺すこと。
+j	轢蹙	轢蹙	ごり押しをし、相手をしのぎ犯すこと。
+j	迢迢	迢迢	非常に遠いさま。
+j	逢坂	逢坂	the western area of Ōtsu,…
+j	逢引	逢引	An assignation; a tryst; …
+j	逢瀬	逢瀬	tryst
+j	逢着	逢着	encountering; facing
+j	逢迎	逢迎	出迎えて接待すること。
+j	郢匠	郢匠	名匠。
+j	郢斲	郢斲	人に詩文の添削を依頼するときに用いる語。
+j	郢曲	郢曲	はやり歌。俗曲。
+j	酢橘	酢橘	Citrus sudachi, a citrus …
+j	酢豚	酢豚	sweet-and-sour pork
+j	酢酸	酢酸	acetic acid
+j	鉢巻	鉢巻	hachimaki (Japanese headb…
+j	関与	関与	involvement
+j	関係	関係	relationship, relation
+j	関口	関口	a surname
+j	関契	関契	律令制で、非常時に軍隊が三関を通過するときに交付さ…
+j	関岡	関岡	a surname
+j	関川	関川	
+j	関左	関左	synonym of 関東 (Kantō): th…
+j	関心	関心	concern, interest
+j	関所	関所	通行する人や通過する荷物を調べるため国境や交通の要…
+j	関手	関手	
+j	関数	関数	function
+j	関木	関木	門戸や扉を閉ざすための横木。かんぬき。
+j	関東	関東	Kantō (a geographical reg…
+j	関枠	関枠	筧で短くて横が広く、開戸が二枚あるもの。
+j	関根	関根	a surname
+j	関渉	関渉	かかわり合うこと。干渉すること。
+j	関白	関白	chief advisor to the Empe…
+j	関知	関知	one's knowledge on a part…
+j	関税	関税	customs duty, customs, ta…
+j	関節	関節	joint
+j	関脇	関脇	sekiwake, lit.: 'next to …
+j	関船	関船	a type of military boat u…
+j	関西	関西	Kansai (a traditional reg…
+j	関説	関説	ある事項に関連して説明すること。
+j	関谷	関谷	a surname
+j	関越	関越	関東と越後。
+j	関路	関路	関所がある道。
+j	関連	関連	relation
+j	関鍵	関鍵	かんぬきと鍵。
+j	関鎖	関鎖	the lock and key for a ga…
+j	関門	関門	gateway
+j	関閈	関閈	関門。
+j	関関	関関	長閑に鳥が鳴くこと。また、そのようなさま。
+j	関雎	関雎	夫婦の仲がよく、お互いに礼儀があること。
+j	関頭	関頭	物事の重大な分かれ目。
+j	闢戸	闢戸	戸を開くこと。
+j	院中	院中	院（上皇）の御所。洞中。
+j	院主	院主	（いんしゅ）「院」のつく施設などの長。
+j	院代	院代	院家、院主の職務代行者。
+j	院使	院使	上皇（法皇）などの院からの使者。
+j	院内	院内	the inside of 病(びょう)院(いん)…
+j	院務	院務	病院などの「院」がつく施設の運営に関する職務や事務。
+j	院卒	院卒	graduate-school graduate
+j	院号	院号	「院」で終わる称号。
+j	院外	院外	「院」がつく建物や組織の外。
+j	院宣	院宣	上皇や法皇の命を受け、院司が作成する公文書。
+j	院家	院家	大寺院。また、その子院。
+j	院庁	院庁	かつての日本で上皇、女院の事務を司った役所。院の庁。
+j	院政	院政	cloistered rule; the indi…
+j	院本	院本	金・元時代に演じられた演劇の一つ。また、その脚本。
+j	院歌	院歌	病院など「院」がつく施設を代表する歌。
+j	院生	院生	graduate student
+j	院画	院画	a picture painted in a Ch…
+j	院線	院線	鉄道院（1908年～1920年）が運営していた鉄道…
+j	院試	院試	大学院入学試験の略。
+j	院進	院進	advancement to graduate s…
+j	院長	院長	director of a hospital
+j	院電	院電	「院線電車」の略。後の省電・国電に相当。
+j	離す	離す	to separate, to isolate, …
+j	離る	離る	to separate, depart, beco…
+j	離れ	離れ	imperfective and stem (or…
+j	離乳	離乳	weaning
+j	離任	離任	任務や任地を離れること。
+j	離党	離党	secession from one's poli…
+j	離別	離別	separation from a person
+j	離反	離反	disaffection, alienation
+j	離叛	離叛	離れ、叛くこと。
+j	離合	離合	separation and reunion
+j	離塁	離塁	走者が塁から離れること。リード。
+j	離婚	離婚	divorce
+j	離宮	離宮	天皇や君主が普段暮らす皇居、王宮から離れた場所に設…
+j	離宴	離宴	離別の宴会。
+j	離居	離居	離れて住むこと。また、その住居。
+j	離岸	離岸	船舶などが岸を離れること。
+j	離島	離島	outlying island
+j	離席	離席	leaving one's seat
+j	離床	離床	寝床から起きて離れること。起床。
+j	離恨	離恨	別離の悲しみや寂しさ。
+j	離散	離散	dispersion
+j	離日	離日	日本を訪れていた外国人が、日本を離れて他国へ向かう…
+j	離村	離村	故郷の村を離れること。
+j	離格	離格	delative case (a grammati…
+j	離檀	離檀	それまで檀家であった寺院から離れること。
+j	離歌	離歌	離別を歌った歌。
+j	離水	離水	隆起や海面の低下によって、海面下の地面が陸上に現れ…
+j	離異	離異	離婚。
+j	離礁	離礁	座礁していた船舶が暗礁から離れること。
+j	離筵	離筵	離別の宴会。
+j	離籍	離籍	在籍している団体、組織から離れること。
+j	離縁	離縁	severing relations
+j	離繫	離繫	煩悩の拘束から離れること。
+j	離職	離職	the act of leaving one's …
+j	離脱	離脱	exit, secession
+j	離艦	離艦	乗っている軍艦から離れること。
+j	離角	離角	
+j	離農	離農	いままでやってきた農業を廃業したり、農業を止めて他…
+j	離開	離開	分離。
+j	離間	離間	estrangement
+j	離陸	離陸	takeoff
+j	霢霂	霢霂	小雨。
+j	面争	面争	面と向かって過失などを責めること。
+j	面会	面会	face-to-face meeting
+j	面体	面体	面相。顔付き。
+j	面倒	面倒	inconvenient, troublesome
+j	面像	面像	容貌。顔付き。
+j	面出	面出	a surname
+j	面前	面前	目の前。
+j	面包	面包	面皰の異表記。
+j	面壁	面壁	壁の方を向いて座禅をすること。
+j	面奏	面奏	天子に直接奏上すること。
+j	面妖	面妖	不思議なこと。奇妙なこと。滅多にないこと。
+j	面子	面子	(めんつ) 麻雀用語のひとつ。面子参照。
+j	面容	面容	顔つき。面貌。
+j	面形	面形	
+j	面影	面影	vestige, trace
+j	面従	面従	表向きだけ服従するようにみせかけること。
+j	面折	面折	面と向かって相手の非などを責めること。
+j	面接	面接	interview
+j	面桶	面桶	一人前ずつ飯を盛り、分配する曲げ物。また、乞食が持…
+j	面梟	面梟	a barn owl
+j	面疱	面疱	面皰の異表記。
+j	面白	面白	something interesting
+j	面皮	面皮	面の皮。
+j	面皰	面皰	acne
+j	面目	面目	one's honor
+j	面相	面相	容貌。顔付き。
+j	面積	面積	area
+j	面紗	面紗	女性が顔を覆い隠すための薄絹。
+j	面罵	面罵	面と向かって相手を罵ること。
+j	面色	面色	顔の色。
+j	面詰	面詰	reproof, reprimand (at a …
+j	面談	面談	interview
+j	面謁	面謁	貴人や目上のひとに面会すること。
+j	面謝	面謝	面会して感謝すること。
+j	面識	面識	acquaintance
+j	面貌	面貌	facial appearance
+j	面責	面責	personal reproof
+j	面部	面部	部首「⾯」で分類した漢字の一群。
+j	面陳	面陳	displaying books with the…
+j	面面	面面	each, every one
+j	飢う	飢う	to starve, be hungry
+j	飢え	飢え	
+j	飢乱	飢乱	飢え乱れること。
+j	飢倦	飢倦	飢えて疲れること。飢羸。
+j	飢凍	飢凍	starving and freezing
+j	飢匱	飢匱	食が乏しいこと。また、そのさま。
+j	飢困	飢困	飢えに苦しむこと。
+j	飢寒	飢寒	飢えと寒さ。
+j	飢歳	飢歳	不作の年。凶年。飢饉年。
+j	飢殺	飢殺	飢えさせて殺すこと。
+j	飢民	飢民	飢えている民。
+j	飢渇	飢渇	飢えと渇き。飲食ができずに苦しむこと。
+j	飢羸	飢羸	飢えて疲れること。
+j	飢腸	飢腸	空腹。
+j	飢色	飢色	飢え、疲れた表情や様子。
+j	飢荒	飢荒	不作で飢えること。
+j	飢飽	飢飽	飢えと飽食。
+j	飢餒	飢餒	飢え。
+j	飢餓	飢餓	hunger, starvation, famine
+j	飢饉	飢饉	famine; dearth
+j	飢饑	飢饑	飢えること。飢え。
+j	飢鷹	飢鷹	飢えた鷹。
+j	驢馬	驢馬	a donkey (domestic animal)
+j	鬢台	鬢台	鬢道具をのせておく台。
+j	鬢長	鬢長	albacore, longfin tuna (T…
+j	鯢歯	鯢歯	老人の歯。
+j	鯢鮐	鯢鮐	鯢歯と鮐背。老人。
+j	鯢鮒	鯢鮒	小魚。
+k	감히	敢히	boldly, fearlessly, darin…
+k	객가	客家	Hakka
+k	객격	客格	
+k	객관	客観	objectivity
+k	객관	客觀	objectivity
+k	객기	客気	rashness, ill-advised bra…
+k	객기	客氣	rashness, ill-advised bra…
+k	객사	客死	hotel; inn
+k	객사	客舍	hotel; inn
+k	객사	客舎	hotel; inn
+k	객실	客室	guest room
+k	객지	客地	foreign land, place far f…
+k	객차	客車	railway carriage, railway…
+k	객체	客体	object (instantiation of …
+k	객체	客體	object (instantiation of …
+k	검거	檢擧	arrest, apprehension
+k	검사	檢事	examination
+k	검사	檢査	examination
+k	검색	檢索	searching; browsing; surf…
+k	검시	檢屍	autopsy
+k	검시	檢視	autopsy
+k	검역	檢疫	quarantine
+k	검열	檢閱	censorship
+k	검정	檢定	black
+k	검증	檢證	verification
+k	검진	檢診	examination, check-up, he…
+k	검찰	檢察	the prosecutor's office
+k	검찰	檢札	the prosecutor's office
+k	검출	檢出	detection of a chemical o…
+k	검토	檢討	examination, review
+k	공물	貢物	a tribute, tithe; somethi…
+k	공부	貢賦	learning; study
+k	공헌	貢献	contribution
+k	공헌	貢獻	contribution
+k	관건	関鍵	crux; key; core
+k	관계	関係	connection; relationship
+k	관동	関東	Gwandong
+k	관문	関門	gate
+k	관세	関税	tariff; customs duty
+k	관심	関心	interest in, or inclinati…
+k	관절	関節	joint of the bone
+k	관종	関種	syllabic abbreviation of …
+k	구가	衢街	an old family
+k	리륙	離陸	
+k	리유	離乳	
+k	리혼	離婚	'이혼'의 북한말과 연변말.
+k	만성	慢性	chronicity, being chronic
+k	면담	面談	interview
+k	면도	面刀	shave, shaving
+k	면면	面面	various aspects; each and…
+k	면적	面積	area
+k	면전	面前	in front (of one's face)
+k	면접	面接	face-to-face meeting; mee…
+k	몽상	夢想	dreaming, daydreaming
+k	몽정	夢精	wet dream; nocturnal emis…
+k	반흔	瘢痕	상처나 부스럼이 다 나은 후에 남은 자국.
+k	봉착	逢着	an encounter with a diffi…
+k	사치	奢侈	정도가 지나치게 돈이나 물건을 쓰면서 생활함.
+k	산업	產業	industry
+k	산원	產院	
+k	색인	索引	index (of a book)
+k	세력	勢力	influence, power
+k	소굴	巢窟	den; lair; nest
+k	역사	轢死	history (the process of t…
+k	예행	穢行	rehearsal
+k	오줌검사	檢査	
+k	원생	院生	
+k	이륙	離陸	takeoff
+k	이별	離別	farewell; parting
+k	이유	離乳	reason; cause
+k	이조	離調	interest portion; nominal…
+k	이직	離職	To quit one's job
+k	이질	痢疾	dysentery
+k	이층	離層	
+k	이탈	離脫	secession; breakaway
+k	이탈	離脱	secession; breakaway
+k	이혼	離婚	divorce (legal dissolutio…
+k	전국	錢局	the whole land making up …
+k	전근	転勤	transfer (to a different …
+k	전근	転根	transfer (to a different …
+k	전근	転筋	transfer (to a different …
+k	전기	転機	electricity
+k	전대	転貸	squad; squadron
+k	전매	転売	resale
+k	전사	転写	warrior (person actively …
+k	전어	錢魚	dotted gizzard shad (Kono…
+k	전역	転役	discharge (from active se…
+k	전용	転用	exclusive use; private use
+k	전이	転移	transition
+k	전자	転字	electron
+k	전주	転注	figurative extension of m…
+k	전직	転職	one's former post
+k	전하	転下	Highness (form of address)
+k	전하	転荷	Highness (form of address)
+k	전학	転学	changing schools
+k	전화	転化	telephone, phone
+k	전환	転換	change, switch, changeover
+k	지대	肢帯	a region or area; a distr…
+k	지대	肢帶	a region or area; a distr…
+k	지체	肢体	delay
+k	지체	肢體	delay
+k	지혈	止血	staunching; hemostasis, h…
+k	총림	叢林	thicket, dense wood, bush…
+k	총서	叢書	series; collection (of bo…
+k	총신	叢辰	gun barrel
+k	침낭	寢囊	sleeping bag
+k	침대	寢臺	bed (furniture)
+k	침실	寢室	bedroom
+k	탐구	探究	research, inquiry
+k	탐사	探査	exploration
+k	탐색	探索	search
+k	탐정	探偵	detective
+k	탐조	探鳥	birdwatching
+k	탐지	探知	detection
+k	탐험	探険	exploration
+k	탐험	探險	exploration
+k	파급	波及	spread; effect, influence
+k	파도	波涛	A wave of water or emotio…
+k	파도	波濤	A wave of water or emotio…
+k	파동	波動	wave motion; undulation
+k	파문	波紋	excommunication
+k	파사	波斯	Persia
+k	파장	波長	a wavelength
+k	페지	廢止	abolition
+k	폐공	廢工	a tribute
+k	폐급	廢級	military supplies that sh…
+k	폐어	廢語	lungfish
+k	폐인	廢人	the handicapped, the crip…
+k	폐지	廢止	abolition; discontinuation
+k	폐차	廢車	wreck (car that has been …
+k	폐품	廢品	waste; junk
+k	폐허	廢墟	ruins
+k	표고	瓢菰	shiitake mushroom
+k	피검사	檢査	'혈액검사'.
+k	필경	畢竟	in the end, after all
+k	필업	畢業	graduation
+k	필증	畢証	certificate, ticket, proo…
+k	필증	畢證	certificate, ticket, proo…
+k	한강	漢江	Han River (in Seoul, Sout…
+k	한문	漢文	Classical Chinese literat…
+k	한복	漢服	hanbok (traditional Korea…
+k	한성	漢城	Hanseong (the name of Seo…
+k	한시	漢詩	Chinese poetry
+k	한약	漢薬	traditional Chinese medic…
+k	한약	漢藥	traditional Chinese medic…
+k	한양	漢陽	Hanyang (an old name of S…
+k	한어	漢語	Chinese language
+k	한인	漢人	Korean (person), especial…
+k	한자	漢字	hanja (Chinese characters…
+k	한족	漢族	Han Chinese
+k	한학	漢学	Classical Chinese learnin…
+k	한학	漢學	Classical Chinese learnin…
+k	한화	漢化	
+k	현란	絢爛	gorgeousness, brilliancy,…
+k	현우	賢愚	wisdom and folly; the wis…
+k	현인	賢人	
+k	현자	賢者	a sage
+k	형광	螢光	the light of a firefly
+k	형상	形状	form, shape, a figure, an…
+k	형상	形狀	form, shape, a figure, an…
+k	형상	形象	form, shape, a figure, an…
+k	형성	形声	shaping, formation
+k	형성	形成	shaping, formation
+k	형성	形聲	shaping, formation
+k	형식	形式	form, template
+k	형태	形態	shape
+k	형편	形便	circumstances, conditions
+k	형화	螢火	the light of a firefly
+j	勢い猛	勢い猛	勢いが盛んであること。転じて、富や権力を増すこと。
+j	勢力圏	勢力圏	sphere of influence
+j	勢揃い	勢揃い	軍勢が揃うこと。
+j	垢抜け	垢抜け	refinement; style; tastef…
+j	垢消し	垢消し	アカウントを削除すること。
+j	夢判じ	夢判じ	見た夢により吉凶を占うこと。また、それをする人。夢…
+j	夢判断	夢判断	見た夢の内容からその人の心理状態などを判断すること。
+j	夢占い	夢占い	
+j	夢女子	夢女子	a girl or woman who proje…
+j	夢実子	夢実子	a female given name
+j	夢幻的	夢幻的	dreamy (as in a dream)
+j	夢心地	夢心地	trance, dreamy state of m…
+j	夢想家	夢想家	dreamer (someone whose be…
+j	夢物語	夢物語	account of a dream
+j	夢現つ	夢現つ	
+j	夢羽子	夢羽子	a female given name
+j	夢見た	夢見た	
+j	夢見る	夢見る	to dream
+j	夢語り	夢語り	account of a dream
+j	夢遊病	夢遊病	sleepwalking; somnambulism
+j	奢侈品	奢侈品	奢侈な品。ぜいたく品。
+j	客体化	客体化	
+j	客家語	客家語	Hakka (Chinese lect)
+j	客座敷	客座敷	客を招き入れてもてなすための部屋。
+j	客引き	客引き	soliciting for sex, touti…
+j	客扱い	客扱い	hospitality
+j	客観性	客観性	客観的な性質。誰が見ても納得できる性質。
+j	客観的	客観的	objective
+j	客遇い	客遇い	hospitality, treating a g…
+j	形作る	形作る	to shape something, to gi…
+j	形容詞	形容詞	an い-adjective: specific …
+j	形式犯	形式犯	具体的な法益の侵害や法益侵害の危険の発生はないが、…
+j	形式的	形式的	形式に関しての様子。
+j	形意拳	形意拳	五行の名前を付けられた五行拳と十二種類の動物の動き…
+j	形態学	形態学	morphology
+j	形態素	形態素	morpheme
+j	形態論	形態論	morphology
+j	形成体	形成体	脊椎動物の発生で分化など形態形成の中心となる胚域。…
+j	形成層	形成層	双子葉類の植物と裸子植物の茎などにある分裂組織。
+j	形成権	形成権	単独の意思表示で法律関係の変動を生じさせる権利。
+j	形而上	形而上	abstract or intangible th…
+j	形而下	形而下	physical, material
+j	形見草	形見草	synonym of 菊 (kiku, “chry…
+j	形骸化	形骸化	それまで伴っていた実質的な内容が失われ、形だけが残…
+j	慢性の	慢性の	
+j	慢性病	慢性病	chronic disease
+j	慢性的	慢性的	chronic
+j	探査機	探査機	probe (electrode or other…
+j	探検家	探検家	explorer (person who by m…
+j	探検隊	探検隊	未到達、未発見の場所を調査、開拓するため組織された…
+j	探求的	探求的	探求に関するさま。
+j	探照灯	探照灯	searchlight
+j	探知機	探知機	detector, locator
+j	探知犬	探知犬	detection dog
+j	探究的	探究的	探究に関するさま。
+j	探鉱者	探鉱者	
+j	敢えて	敢えて	deliberately daring (to d…
+j	敢闘賞	敢闘賞	
+j	既婚者	既婚者	既婚の人。現在法律上で婚姻関係にある人。
+j	既存の	既存の	
+j	既往歴	既往歴	現在は治癒しているがかつて罹ったことがある病院やけ…
+j	既往症	既往症	anamnesis (medical histor…
+j	既得権	既得権	vested right
+j	既知数	既知数	方程式などでどのような数が入るのか既に分かっている…
+j	既約の	既約の	
+j	既製品	既製品	前もって作ってある商品。
+j	既視感	既視感	déjà vu
+j	暢思骨	暢思骨	鳥類の左右の鎖骨が間鎖骨を介して融合連結する1つの…
+j	枢密院	枢密院	Privy Council to the Empe…
+j	枢機卿	枢機卿	cardinal
+j	枢軸国	枢軸国	an Axis power
+j	枢軸軍	枢軸軍	ドイツ、イタリア、日本の側についた国の軍。
+j	止まる	止まる	to stop, to be stopped
+j	止めた	止めた	
+j	止める	止める	to stop (to cause to ceas…
+j	止めろ	止めろ	
+j	止瀉剤	止瀉剤	下痢を止めるための薬剤。下痢止め。止瀉薬。
+j	止瀉薬	止瀉薬	下痢を止めるための薬剤。下痢止め。止瀉剤。
+j	止痢剤	止痢剤	下痢を止めるための薬剤。下痢止め。止瀉薬。
+j	止血剤	止血剤	傷口などの出血を止めるために使用する薬剤。
+j	止血帯	止血帯	tourniquet
+j	止血栓	止血栓	止血や分泌物の吸収のため、腟、鼻腔、傷口などに詰め…
+j	沢山の	沢山の	
+j	沢登り	沢登り	stream climb, a type of m…
+j	沢鵟鷲	沢鵟鷲	short-toed snake eagle, C…
+j	波乗り	波乗り	surfing (sport)
+j	波多野	波多野	a surname
+j	波実子	波実子	a female given name
+j	波布草	波布草	coffee senna
+j	波布酒	波布酒	はぶと泡盛を基本にハーブと香料を加えて作られた蛇酒。
+j	波斯国	波斯国	ペルシア。
+j	波止場	波止場	wharf; pier
+j	波照間	波照間	
+j	波状熱	波状熱	brucellosis
+j	波立つ	波立つ	billow, ripple
+j	波羅蜜	波羅蜜	jackfruit (Artocarpus het…
+j	溢れる	溢れる	to overflow
+j	漢和の	漢和の	
+j	漢字圏	漢字圏	Chinese character cultura…
+j	漢字語	漢字語	Sino-Korean vocabulary
+j	漢字返	漢字返	
+j	漢字音	漢字音	日本語における漢字の読み方。古音・呉音・漢音・唐音…
+j	漢数字	漢数字	数字を漢字で表記したもの。
+j	漢方医	漢方医	漢方で診察し、証を立てて漢方薬を処方し治療する医師。
+j	漢方薬	漢方薬	漢方の理論に基づいて処方される医薬品。
+j	漢民族	漢民族	中華人民共和国の主要民族。中国語を話す。漢族。
+j	漢点字	漢点字	従来の6点式点字に上部2点を加えた計8点で漢字をあ…
+j	漢熟語	漢熟語	複数の漢字から成る漢語。
+j	漢越の	漢越の	
+j	漢越語	漢越語	Sino-Vietnamese (vocabula…
+j	漢越音	漢越音	中国の漢字に由来するベトナム語の伝統的な発音、読み…
+j	矢の根	矢の根	arrowhead
+j	矢ノ浦	矢ノ浦	a surname
+j	矢井田	矢井田	a surname
+j	矢大神	矢大神	随身門で向かって左側に安置される像。
+j	矢車菊	矢車菊	cornflower, Centaurea cya…
+j	絢緞子	絢緞子	damask (fabric)
+j	莢豌豆	莢豌豆	mangetout, snow pea, a cu…
+j	莢隠元	莢隠元	string bean, immature pod…
+j	貢ぎ物	貢ぎ物	
+j	賢しい	賢しい	clever, wise
+j	賢二郎	賢二郎	a male given name
+j	賢太郎	賢太郎	a male given name
+j	賢夫人	賢夫人	賢明でしっかりした夫人。
+j	賢明な	賢明な	
+j	転がす	転がす	roll
+j	転がる	転がる	roll over, turn over, roll
+j	転じた	転じた	
+j	転じる	転じる	変わる。移行する。
+j	転ずる	転ずる	
+j	転入生	転入生	
+j	転勤族	転勤族	頻繁に転勤を繰り返す者。また、そのような者のいる家…
+j	転呼音	転呼音	sound shift
+j	転回形	転回形	
+j	転売屋	転売屋	reseller
+j	転換点	転換点	
+j	転校生	転校生	transfer student, student…
+j	転置法	転置法	
+j	転義法	転義法	
+j	転車台	転車台	鉄道の車両の向きを変えるための装置。蒸気機関車の向…
+j	転轍手	転轍手	switchman
+j	転轍機	転轍機	鉄道などの軌道を分岐または合流させるための装置。ポ…
+j	酢の物	酢の物	sunomono
+j	酢味噌	酢味噌	味噌に食酢、砂糖などを加え、ゆるめたもの。
+j	酢漬け	酢漬け	
+j	酢漿草	酢漿草	creeping woodsorrel (Oxal…
+j	酢豆腐	酢豆腐	知ったか振り。半可通。
+j	酢酸塩	酢酸塩	
+j	酢酸菌	酢酸菌	アルコールを酢酸にかえる細菌。連鎖状の桿菌。酢の製…
+j	鉢増し	鉢増し	鉢植えの植物を、より大きな鉢へ移植すること。
+j	鉢植え	鉢植え	植物を植木鉢に植えること。
+j	関する	関する	concern, have to do with
+j	関わり	関わり	involvement, relation
+j	関わる	関わる	
+j	関ケ原	関ケ原	
+j	関ヶ原	関ヶ原	a town in Gifu Prefecture
+j	関与者	関与者	
+j	関係節	関係節	印欧語の文法で、名詞を後ろから修飾または説明する節。
+j	関係者	関係者	authorized person
+j	関八州	関八州	江戸時代、関東八ヶ国（武蔵国、相模国、上野国、下野…
+j	関心事	関心事	興味や関心がある事柄。
+j	関数列	関数列	定義域を共有する無限個の関数を順番に並べたもの。
+j	関数論	関数論	複素関数論の略。
+j	関東州	関東州	Kwantung Leased Territory…
+j	関節技	関節技	相手の関節の動きを封じる技の総称。
+j	関節炎	関節炎	arthritis
+j	関西人	関西人	person from Kansai
+j	関西弁	関西弁	Kansai dialect
+j	関連性	関連性	relevance
+j	関連語	関連語	ある語と関連している言葉。
+j	院の庁	院の庁	かつての日本で上皇、女院の事務を司った役所。院庁。
+j	院長室	院長室	院長が執務を行う専用の部屋。
+j	離れる	離れる	to separate
+j	離れろ	離れろ	
+j	離れ家	離れ家	detached building
+j	離れ磯	離れ磯	a stone protruding from t…
+j	離乳食	離乳食	baby food
+j	離任式	離任式	転勤や退職により離任する教員が児童・生徒と最後の別…
+j	離反者	離反者	
+j	離合詞	離合詞	(grammar) separable verb
+j	離婚届	離婚届	離婚する者が法令に基づき役所に提出する届出。また、…
+j	離岸流	離岸流	riptide, rip current, off…
+j	離弁花	離弁花	花弁が全て離れている花。
+j	離心率	離心率	二次曲線が真円から離れている度合い。焦点からの距離…
+j	離散化	離散化	連続な関数、モデル、変数、方程式を離散的な対応物へ…
+j	離散的	離散的	discrete, separate
+j	離縁状	離縁状	夫が妻を離縁する際に出す書状。
+j	面する	面する	to face; to look out on
+j	面倒い	面倒い	inconvenient, troublesome
+j	面倒だ	面倒だ	
+j	面倒な	面倒な	
+j	面取り	面取り	
+j	面接官	面接官	interviewer
+j	面構え	面構え	face; countenance (especi…
+j	面汚し	面汚し	
+j	面白い	面白い	interesting; amusing
+j	面白さ	面白さ	
+j	面相筆	面相筆	絵筆のうち穂先が極めて細く、顔の細かい線を描くため…
+j	面通し	面通し	lineup; identification pa…
+j	面食い	面食い	見栄えの良い人を好むこと。見栄えの良い人を好んで、…
+j	飢えた	飢えた	
+j	飢える	飢える	to starve, to be hungry
+k	객관성	客観性	
+k	객관성	客觀性	
+k	객관적	客観的	objective (attributive)
+k	객관적	客觀的	objective (attributive)
+k	검류계	檢流計	
+k	검문소	檢問所	checkpoint (point along a…
+k	검사원	檢査員	
+k	검색창	檢索窓	
+k	검시관	檢屍官	
+k	검찰관	檢察官	
+k	검찰청	檢察廳	the public prosecutor's o…
+k	관계어	関係語	particle
+k	관계자	関係者	a concerned, involved or …
+k	관련성	関聯性	relevance
+k	관절염	関節炎	arthritis
+k	리혼남	離婚男	
+k	리혼녀	離婚女	
+k	만성적	慢性的	chronic
+k	면도기	面刀器	razor
+k	면접관	面接官	interviewer
+k	몽상가	夢想家	dreamer, visionary
+k	사치품	奢侈品	luxury item
+k	세력권	勢力圈	
+k	세력권	勢力圏	
+k	이간질	離間질	alienating (a person from…
+k	이유식	離乳食	
+k	이혼남	離婚男	
+k	이혼녀	離婚女	
+k	전환점	転換点	
+k	추기경	枢機卿	cardinal
+k	추밀원	枢密院	privy council
+k	추축국	枢軸国	Axis power
+k	침대방	寢臺房	a room with a bed (Wester…
+k	탐사기	探査機	
+k	탐사선	探査船	
+k	탐지기	探知機	locator; detector
+k	탐험가	探険家	an explorer
+k	탐험가	探險家	an explorer
+k	한라봉	漢拏峰	hallapong, a fruit mainly…
+k	한라산	漢拏山	Mount Halla, Hallasan (a …
+k	한문투	漢文套	syntax used in Classical …
+k	한민족	漢民族	The group of people nativ…
+k	한사군	漢四郡	the Four Commanderies of …
+k	한월어	漢越語	Sino-Vietnamese (vocabula…
+k	한자어	漢字語	Sino-Korean words; Korean…
+k	한족법	漢族法	customs ascribed to the H…
+k	현부인	賢夫人	a wise woman
+k	형광등	螢光燈	fluorescent lamp
+k	형광봉	螢光棒	
+k	형광색	螢光色	fluorescent colour
+k	형식적	形式的	내용에는 관계하지 아니하고 밖으로 나타나 보이…
+k	형용사	形容詞	adjective; descriptive wo…
+k	형태소	形態素	morpheme
+k	형태학	形態学	morphology
+k	형태학	形態學	morphology
+j	勢力伯仲	勢力伯仲	力などが同じぐらいで、優劣をつけがたいこと。
+j	勢力均衡	勢力均衡	balance of power
+j	勢至菩薩	勢至菩薩	Mahasthamaprapta, the bod…
+j	嚢中の錐	嚢中の錐	才能ある人は、殊更それを主張しなくても自ずと目立っ…
+j	嚢状組織	嚢状組織	
+j	垢抜ける	垢抜ける	to be refined; to be refr…
+j	夢うつつ	夢うつつ	
+j	夢か現か	夢か現か	夢のことなのか、現実に起こったことなのか。意外な事…
+j	夢が叶う	夢が叶う	
+j	夢を見る	夢を見る	to dream; to have a dream
+j	夢想する	夢想する	
+j	嬢ちゃん	嬢ちゃん	young girl, miss
+j	客観主義	客観主義	
+j	形をとる	形をとる	
+j	形勢逆転	形勢逆転	the situation reverses it…
+j	形声文字	形声文字	六書の形声の方法で作られた漢字。
+j	形容動詞	形容動詞	な-adjective: specific to …
+j	形容詞の	形容詞の	
+j	形容詞化	形容詞化	もとは形容詞でない語が変化し、形容詞として使用され…
+j	形式ばる	形式ばる	
+j	形式主義	形式主義	内容を軽視または無視し形式を重視する立場、考え方。…
+j	形式主語	形式主語	英語などで、特に意味を持たない形だけの主語。
+j	形式体系	形式体系	
+j	形式名詞	形式名詞	formal noun; a Japanese n…
+j	形式張る	形式張る	stand on ceremony
+j	形式的な	形式的な	
+j	形式科学	形式科学	形式体系を対象とする科学の分野。数学、論理学、シス…
+j	形式言語	形式言語	
+j	形成外科	形成外科	医学の分野の一つ。身体の奇形や変形などを外科手術に…
+j	形成手術	形成手術	
+j	形而上学	形而上学	metaphysics
+j	形質細胞	形質細胞	リンパ球の一つ。B細胞から分化した細胞。免疫グロブ…
+j	慢性疾患	慢性疾患	慢性的な経過をたどる疾患の総称。慢性病。
+j	探し回る	探し回る	
+j	探り回す	探り回す	
+j	探偵小説	探偵小説	主人公の探偵が殺人事件などの犯人を推理していくこと…
+j	探検する	探検する	
+j	擢んでる	擢んでる	
+j	既にして	既にして	
+j	既得権益	既得権益	特定の個人、地域、社会的集団が、歴史的経緯により法…
+j	既成事実	既成事実	fait accompli; done deal
+j	既成勢力	既成勢力	
+j	既約分数	既約分数	irreducible fraction
+j	橢圓函數	橢圓函數	橢円函数の旧字体表記。
+j	沢庵漬け	沢庵漬け	漬物の一つ。「沢庵」を参照。
+j	波力発電	波力発電	波の運動エネルギーで発電する方式。
+j	波動函數	波動函數	
+j	波動力学	波動力学	
+j	波動関数	波動関数	wavefunction
+j	波和辞典	波和辞典	ペルシア語の単語や熟語を、日本語で定義し、用法等を…
+j	波打ち際	波打ち際	beach, seaside
+j	波波辞典	波波辞典	（ははじてん）ペルシア語の語句をペルシア語で定義し…
+j	波瀾万丈	波瀾万丈	eventfulness
+j	波羅蜜多	波羅蜜多	「波羅蜜」を参照。
+j	溢れ出す	溢れ出す	to begin to overflow; to …
+j	溢れ出る	溢れ出る	to overflow from somethin…
+j	漢らしさ	漢らしさ	
+j	漢和辞典	漢和辞典	Chinese–Japanese characte…
+j	漢字語の	漢字語の	
+j	漢字辞典	漢字辞典	漢字や熟語の読み、意味、部首などを解説した辞典。
+j	漢字返し	漢字返し	The iteration mark 々, whi…
+j	漢文訓読	漢文訓読	the Japanese reading of L…
+j	漢語拼音	漢語拼音	
+j	矢印キー	矢印キー	カーソルキー。
+j	矢筈豌豆	矢筈豌豆	
+j	矢継ぎ早	矢継ぎ早	of quick or rapid success…
+j	絢爛豪華	絢爛豪華	贅沢で光輝き美しいさま。豪華絢爛。
+j	綢繆牖戸	綢繆牖戸	(四字熟語)災いを未然に防ぐこと。
+j	貢献する	貢献する	
+j	賢者の石	賢者の石	the philosopher's stone
+j	転ばせる	転ばせる	
+j	転付命令	転付命令	執行裁判所が発する第三者に対する差押え債権を支払に…
+j	転写する	転写する	
+j	転売する	転売する	
+j	転売ヤー	転売ヤー	a reseller, especially a …
+j	転嫁する	転嫁する	
+j	転寝する	転寝する	
+j	転移する	転移する	
+j	転移酵素	転移酵素	
+j	転置行列	転置行列	transposed matrix
+j	転覆する	転覆する	
+j	転載禁止	転載禁止	All rights reserved, repr…
+j	転轆轆地	転轆轆地	物事が滞ることなく進んでいくこと。
+j	転送する	転送する	
+j	転送装置	転送装置	transporter, transportati…
+j	轢き逃げ	轢き逃げ	
+j	逢い引き	逢い引き	
+j	逢坂の関	逢坂の関	a mountain checkpoint wes…
+j	酢酸絹糸	酢酸絹糸	acetate fibre
+j	鉢合わせ	鉢合わせ	bumping into, (colliding …
+j	関係する	関係する	
+j	関係ない	関係ない	
+j	関係副詞	関係副詞	印欧語の文法で、関係節の冒頭に用いる副詞。
+j	関係詞節	関係詞節	
+j	関所破り	関所破り	関所の役人を欺いたりして通過したり、間道を通ったり…
+j	関数空間	関数空間	
+j	関数行列	関数行列	ヤコビ行列。
+j	関数解析	関数解析	関数解析学。
+j	関数閉包	関数閉包	
+j	関数電卓	関数電卓	scientific calculator
+j	関東地方	関東地方	日本の地域区分の1つ。栃木県、茨城県、群馬県、埼玉…
+j	関東管領	関東管領	室町時代、東国を統治するため鎌倉に置いた鎌倉府の長…
+j	関節軟骨	関節軟骨	an articular cartilage
+j	関西方言	関西方言	
+j	関連した	関連した	
+j	関連付け	関連付け	
+j	関連項目	関連項目	Related item; an item tha…
+j	関門海峡	関門海峡	本州（山口県）と九州（福岡県）の間にある海峡。
+j	関関同立	関関同立	関西地方にある4つの名門大学: 関西大学（関）、関…
+j	院内感染	院内感染	医療機関（病院）内で発生する感染症の感染。
+j	離れ座敷	離れ座敷	母屋から離れてつくられた座敷。はなれ。
+j	離れ離れ	離れ離れ	separated; apart
+j	離合迷字	離合迷字	漢字一字を複数の部分に分けたり、複数の漢字を合わせ…
+j	離合集散	離合集散	集まったり離れたりを繰り返すこと。
+j	離婚した	離婚した	
+j	離婚する	離婚する	
+j	離婚家族	離婚家族	
+j	離弁花類	離弁花類	双子葉類で、離弁花を持つ植物の総称。
+j	離散数学	離散数学	discrete mathematics
+j	面会謝絶	面会謝絶	no visitors
+j	面倒臭い	面倒臭い	inconvenient; bothersome;…
+j	面従腹背	面従腹背	表では従い、裏では逆らうこと。目上にある者の目前で…
+j	面接する	面接する	
+j	面接授業	面接授業	学生と教員が直接一堂に会して行う授業。
+j	面白半分	面白半分	興味本位で、真面目さに欠けていること。
+j	面目無い	面目無い	恥ずかしくて人に合わせる顔がないさま。
+j	面目躍如	面目躍如	in accordance with (one's…
+j	面積速度	面積速度	惑星が恒星を公転する際、一定時間に惑星が進んだ楕円…
+k	관동팔경	関東八景	the eight famous location…
+k	관심종자	関心種子	attention whore
+k	산업 혁명	產業革命	
+k	세력 범위	勢力範囲	
+k	세력 범위	勢力範圍	
+k	원내총무	院內總務	
+k	원내총무	院内総務	
+k	전환 치료	転換治療	conversion therapy
+k	파급 효과	波及効果	ripple effect
+k	파급 효과	波及效果	ripple effect
+k	파동함수	波動函数	wavefunction
+k	파동함수	波動函數	wavefunction
+k	폐지되다	廢止되다	to be annulled; to be rep…
+k	한어 병음	漢語拼音	Hanyu Pinyin
+k	한자 숫자	漢字数字	
+k	한자 숫자	漢字數字	
+k	형식 언어	形式言語	
+k	형용동사	形容動詞	adjectival noun (in Japan…
+k	형용사구	形容詞句	
+k	형이상학	形而上学	metaphysics
+k	형이상학	形而上學	metaphysics
+j	夢の通い路	夢の通い路	the path of dreams
+j	夢中になる	夢中になる	
+j	夢中遊行症	夢中遊行症	睡眠中、起き上がって活動し再び眠るが、覚醒後はその…
+j	夢幻精神病	夢幻精神病	
+j	夢枕に立つ	夢枕に立つ	睡眠中の夢の中に神仏や故人などが現れ、何かのお告げ…
+j	客室乗務員	客室乗務員	cabin crew
+j	形式主義者	形式主義者	形式主義を主張する者。
+j	形式的体系	形式的体系	
+j	形態統語論	形態統語論	
+j	形而上学的	形而上学的	
+j	形而上学者	形而上学者	形而上学を研究する科学者。
+j	形質人類学	形質人類学	synonym of 自然人類学 (shizen …
+j	敢えてする	敢えてする	
+j	既読スルー	既読スルー	leaving someone on read
+j	止まらない	止まらない	
+j	止むを得ず	止むを得ず	
+j	止めを刺す	止めを刺す	finish off, deliver the f…
+j	止め処ない	止め処ない	
+j	波ダッシュ	波ダッシュ	the wave dash: 〜
+j	波動方程式	波動方程式	波動を表す二次の偏微分方程式。
+j	波長が合う	波長が合う	to be on the same wavelen…
+j	漢字文化圏	漢字文化圏	Chinese character cultura…
+j	畢生の大作	畢生の大作	
+j	畢竟するに	畢竟するに	結局。つまるところ。要するに。畢竟ずるに。
+j	畢竟ずるに	畢竟ずるに	結局。つまるところ。要するに。畢竟するに。
+j	矢形伊佐木	矢形伊佐木	
+j	肢体不自由	肢体不自由	身体障害者福祉法、障害者総合支援法、学校教育法にお…
+j	賢者タイム	賢者タイム	refractory period; the pe…
+j	賢者モード	賢者モード	
+j	転げ落ちる	転げ落ちる	fall off, tumble down
+j	転覆させる	転覆させる	
+j	酢酸イオン	酢酸イオン	イオン式CH₃COO⁻で表される陰イオン。
+j	鉢特摩地獄	鉢特摩地獄	the Padma Hell
+j	関係がない	関係がない	
+j	関係を絶つ	関係を絶つ	
+j	関係代名詞	関係代名詞	relative pronoun
+j	関数方程式	関数方程式	未知関数を含む方程式。
+j	関数解析学	関数解析学	functional analysis
+j	関東大震災	関東大震災	1923 Great Kantō earthqua…
+j	関東甲信越	関東甲信越	関東地方と甲信越をあわせて言う語。
+j	関税自主権	関税自主権	独立国が自主的に関税の制度を定め、それを運営する権…
+j	関連付ける	関連付ける	
+j	離婚させる	離婚させる	
+j	離婚した女	離婚した女	
+j	離婚した男	離婚した男	
+j	面倒を見る	面倒を見る	care (to look after)
+j	面目が立つ	面目が立つ	体面が保たれる。
+j	面目を保つ	面目を保つ	
+j	面目を失う	面目を失う	自身の不手際によって、名声をなくす。
+j	飢えさせる	飢えさせる	
+k	객원연구원	客員研究員	
+k	객원연구원	客員硏究員	
+k	관계대명사	関係代名詞	relative pronoun
+k	관련	関聯/関連	connection, relation
+k	기근	飢饉/饑饉	famine, failure of crops
+k	기아	飢餓/饑餓	hunger, starvation
+k	이반	離反/離叛	the LGBT community or a m…
+k	전성관형사	転成冠形詞	transformative determiner
+j	嚢胞性線維症	嚢胞性線維症	
+j	夢か現か幻か	夢か現か幻か	夢のことなのか、現実に起こったことなのか、幻なのか…
+j	夢中にさせる	夢中にさせる	
+j	形容詞化する	形容詞化する	
+j	形式所相動詞	形式所相動詞	
+j	探りを入れる	探りを入れる	to explore someone else's…
+j	既往は咎めず	既往は咎めず	On things that are past, …
+j	既読無視する	既読無視する	
+j	止まっている	止まっている	
+j	止むを得ない	止むを得ない	have no choice but to; it…
+j	止められない	止められない	
+j	漢委奴国王印	漢委奴国王印	the King of Na gold seal
+j	索麺で首括る	索麺で首括る	「素麺で首括る」の異形。
+j	転ばぬ先の杖	転ばぬ先の杖	better safe than sorry, a…
+j	転石苔むさず	転石苔むさず	a rolling stone gathers n…
+j	逢い引きする	逢い引きする	
+j	関係節化形式	関係節化形式	
+j	関数方程式論	関数方程式論	関数方程式を扱う学問。
+j	関東取締出役	関東取締出役	江戸幕府が1805年に設置した職名。勘定奉行に直属…
+j	関節リウマチ	関節リウマチ	
+j	面ファスナー	面ファスナー	面状のファスナー。
+j	面倒を掛ける	面倒を掛ける	
+j	面白おかしい	面白おかしい	
+k	관계형 형용사	関係型形容詞	
+k	한강의 기적	漢江의 奇蹟	Miracle on the Han River;…
+j	形式受動態動詞	形式受動態動詞	
+j	慢性疲労症候群	慢性疲労症候群	
+j	既読スルーする	既読スルーする	
+j	止むに止まれず	止むに止まれず	それ以外に手段が無く、やむを得ず。
+j	止むに止まれぬ	止むに止まれぬ	without being able to hel…
+j	矢も盾も堪らず	矢も盾も堪らず	逸る気持ちを抑えられない。衝動を我慢できない。
+j	関東の一つ残し	関東の一つ残し	皿の上に一つだけ残った料理。
+j	離散型確率変数	離散型確率変数	離散的な値をとる確率変数。
+j	面から火が出る	面から火が出る	ひどく恥ずかしい思いをして顔が真っ赤になること。
+k	만성 소모성 질병	慢性消耗性疾病	
+k	지대근이영양증	肢帯筋異営養症	limb–girdle muscular dyst…
+k	지대근이영양증	肢帶筋異營養症	limb–girdle muscular dyst…
+j	慢性閉塞性肺疾患	慢性閉塞性肺疾患	
+j	止むに止まれない	止むに止まれない	
+j	漢字構成記述文字	漢字構成記述文字	Unicodeで未定義の漢字や表示不可能な漢字を表…
+j	瓢箪から駒が出る	瓢箪から駒が出る	（瓢箪くらいの大きさのものから、駒すなわち馬のよう…
+j	矢も盾も堪らない	矢も盾も堪らない	矢も盾も堪らず。
+j	関数オブジェクト	関数オブジェクト	
+j	離散フーリエ変換	離散フーリエ変換	
+k	만성 폐쇄성 폐질환	慢性閉鎖性肺疾患	
+j	形而上学的自然主義	形而上学的自然主義	
+j	慢性アルコール中毒	慢性アルコール中毒	アルコール飲料の一定量の継続的な摂取により、アルコ…
+j	関数プログラミング	関数プログラミング	
+j	面積速度一定の法則	面積速度一定の法則	ケプラーの第二法則の別名。
+j	衢道を行く者は至らず	衢道を行く者は至らず	道一筋に進まずに分かれ道で迷ってばかりいる人は目的…
+j	離散時間フーリエ変換	離散時間フーリエ変換	無限長離散時間に対するフーリエ変換。DTFT。
+j	飢えた犬は棒を恐れず	飢えた犬は棒を恐れず	犬は飢えていれば棒を持って攻撃してくる人間にも構わ…
+j	慢性原発性副腎皮質機能低下症	慢性原発性副腎皮質機能低下症	副腎の機能低下により、低血圧、低血糖、皮膚などへの…
+j	賢人は皆同じように考えるものだ	賢人は皆同じように考えるものだ	

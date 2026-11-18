@@ -1,0 +1,91 @@
+e	ah	ah	1 meaning
+e	aha	aha	1 meaning
+j	あは	aha	笑うときに出る声。
+j	あほ	aho	「あほう」の音のゆれ。愚かなこと、愚かな人。
+j	あほう	aho	「あほ」の音のゆれ、愚かなこと。愚かな人。
+j	アホ	aho	
+j	妿保	aho	お守り役の乳母。
+j	阿保	aho	母。
+j	阿呆	aho	foolish
+k	아하	aha	aha!
+k	아호	aho	
+e	ahab	ahab	1 meaning
+e	ahem	ahem	2 meanings
+j	アホン	ahon	
+j	アーヘン	ahen	Aachen (a city in North R…
+j	阿片	ahen	opium
+j	鴉片	ahen	阿片。
+k	아해	ahae	'아이'의 비표준어.
+k	아헨	ahen	독일 노르트라인베스트팔렌 주에 있는 도시 이름.
+k	아홉	ahop	nine
+k	아화	ahwa	
+k	아휴	ahyu	oh my!
+e	ahead	ahead	1 meaning
+e	ahmed	ahmed	1 meaning
+e	ahoge	ahoge	1 meaning
+j	あはは	ahaha	
+j	あひる	ahiru	野生の真鴨を飼いならしてつくられた家禽。
+j	あほげ	ahoge	束ねた毛髪からはみ出した細く短い毛。浮き毛。
+j	アハブ	ahabu	
+j	アヒル	ahiru	あひるの学術的表記。
+j	アヒージョ	ahijo	ajillo (Spanish tapas dis…
+j	アホ毛	ahoge	ahoge (exaggerated cowlic…
+j	アーヒラ	ahira	来世。
+j	家鴨	ahiru	a domestic duck (a domest…
+k	아하하	ahaha	
+k	아호게	ahoge	
+k	아흔	aheun	ninety
+e	ahimsa	ahimsa	1 meaning
+j	アヘ顔	ahegao	ahegao (an exaggerated fa…
+j	亜氷期	ahyoki	氷期の中で特に気温の低い時期。
+j	亜砒酸	ahisan	arsenious acid
+k	아헤가오	ahegao	ahegao (an exaggerated fa…
+k	아홉수	ahopsu	
+k	아홉시	ahopsi	
+k	아흐레	aheure	nine days
+e	ahjussi	ahjussi	1 meaning
+e	ahriman	ahriman	1 meaning
+j	あほうどり	ahodori	ミズナギドリ目アホウドリ科に属する鳥の総称。
+j	あほだら	ahodara	阿呆を強調した語。あほんだら。
+j	アヒルの	ahiruno	
+j	アホウドリ	ahodori	ミズナギドリ目アホウドリ科アホウドリ属に属する鳥の…
+j	アホ面	ahozura	dumb-looking face
+j	信天翁	ahodori	an albatross, especially …
+k	아한대	ahandae	
+j	あほくさい	ahokusai	idiotic; stupid
+j	あほんだら	ahondara	阿呆を強調した語。あほだら。
+j	アヘンボク	ahenboku	
+k	아홉째	ahopjjae	ninth
+k	아흔넷	aheunnet	
+k	아흔둘	aheundul	
+k	아흔셋	aheunset	
+k	아흔한	aheunhan	
+e	ahasuerus	ahasuerus	1 meaning
+e	ahlspiess	ahlspiess	1 meaning
+e	ahmedabad	ahmedabad	1 meaning
+e	ahnenerbe	ahnenerbe	1 meaning
+j	あひるボート	ahiruboto	synonym of スワンボート (suwan …
+j	あほらしい	ahorashii	ばからしい。ばかばかしい。ばかげている。
+j	アヘン戦争	ahensenso	清とイギリスの間で1840年から2年間にわたり行わ…
+j	アホロートル	ahorotoru	an axolotl
+j	阿片戦争	ahensenso	Opium War
+j	阿片窟	ahenkutsu	秘密裏に阿片を吸引させる場所。
+k	아햏햏	ahaethaet	A term with no clear mean…
+k	아흐리만	aheuriman	
+k	아흐마드	aheumadeu	
+k	아흔아홉	aheunahop	
+k	아흔째	aheunjjae	숫자 '아흔'의 차례를 세는 말. (부록: 한…
+e	ahura mazda	ahuramazda	1 meaning
+k	아함경	ahamgyeong	
+k	아홀로틀	aholloteul	
+k	아흔일곱	aheunilgop	
+j	あひるすわり	ahirusuwari	synonym of 女の子座り (onnanok…
+j	アハシュエロス	ahashuerosu	
+k	아흔다섯	aheundaseot	
+j	あひるさんボート	ahirusanboto	synonym of スワンボート (suwan …
+k	아흔여덟	aheunyeodeol	
+k	아흔여섯	aheunyeoseot	
+k	아황산가스	ahwangsangaseu	
+k	아홉꼬리 고양이	ahopkkorigoyangi	
+k	아홉띠아르마딜로	ahopttiareumadillo	
+j	阿呆に付ける薬無し	ahonitsukerukusurinashi	There's no cure for stupi…

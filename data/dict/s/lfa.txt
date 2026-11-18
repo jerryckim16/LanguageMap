@@ -1,0 +1,500 @@
+e	fa	fa	1 meaning
+j	ファ	fa	fa, subdominant of the ma…
+j	ファー	fa	an animal's fur, a pelt
+e	-fag	fag	1 meaning
+e	fad	fad	1 meaning
+e	fag	fag	1 meaning
+e	fan	fan	4 meanings
+e	faq	faq	1 meaning
+e	far	far	2 meanings
+e	fat	fat	4 meanings
+e	fax	fax	2 meanings
+e	fay	fay	1 meaning
+j	ファイ	fai	ギリシア文字の第21字。小文字はφで大文字はΦ。
+j	ファン	fan	fan, enthusiast (of a per…
+e	face	face	8 meanings
+e	fact	fact	6 meanings
+e	fade	fade	3 meanings
+e	fado	fado	1 meaning
+e	fail	fail	1 meaning
+e	fair	fair	8 meanings
+e	fake	fake	6 meanings
+e	fall	fall	8 meanings
+e	fame	fame	1 meaning
+e	fang	fang	2 meanings
+e	fard	fard	1 meaning
+e	fare	fare	2 meanings
+e	farm	farm	1 meaning
+e	fart	fart	2 meanings
+e	fast	fast	6 meanings
+e	fate	fate	2 meanings
+e	fawn	fawn	2 meanings
+j	ふぁぼ	fabo	like (on Twitter)
+j	ファイア	faia	「ファイアー」の表記ゆれ。
+j	ファイアー	faia	火。炎。
+j	ファキー	faki	faqih
+j	ファザー	faza	父親。
+j	ファジー	faji	fuzzy (imprecise)
+j	ファド	fado	
+j	ファボ	fabo	いいねボタン。また、それを押すこと。
+j	ファーム	famu	農園、農場。
+e	fable	fable	1 meaning
+e	facet	facet	2 meanings
+e	faint	faint	7 meanings
+e	fairy	fairy	1 meaning
+e	faith	faith	2 meanings
+e	fakir	fakir	1 meaning
+e	false	false	2 meanings
+e	fanta	fanta	1 meaning
+e	farad	farad	1 meaning
+e	farah	farah	2 meanings
+e	farce	farce	1 meaning
+e	fatah	fatah	1 meaning
+e	fatal	fatal	2 meanings
+e	fatha	fatha	1 meaning
+e	fatso	fatso	1 meaning
+e	fatty	fatty	1 meaning
+e	fatwa	fatwa	1 meaning
+e	fault	fault	4 meanings
+e	fauna	fauna	2 meanings
+e	favor	favor	4 meanings
+j	ファイター	faita	fighter (person, military…
+j	ファイト	faito	a competitive match, a fi…
+j	ファイバー	faiba	fiber (US), fibre (UK)
+j	ファイブ	faibu	five
+j	ファイヤー	faiya	fire
+j	ファイユ	faiyu	faille
+j	ファイル	fairu	file (collection of paper…
+j	ファウル	fauru	a foul
+j	ファック	fakku	fucking
+j	ファッジ	fajji	
+j	ファッタ	fatta	fatteh
+j	ファッド	faddo	
+j	ファラオ	farao	a pharaoh (supreme ruler …
+j	ファラン	faran	
+j	ファンク	fanku	
+j	ファンサ	fansa	
+j	ファンタ	fanta	
+j	ファンデ	fande	
+j	ファンド	fando	基金、資金、基本金。
+j	ファンマ	fanma	
+j	ファン層	fanso	
+j	花牌	fapai	flower tile (included in …
+e	fabric	fabric	1 meaning
+e	facade	facade	2 meanings
+e	facial	facial	1 meaning
+e	factor	factor	4 meanings
+e	fag hag	faghag	1 meaning
+e	faille	faille	1 meaning
+e	fairly	fairly	1 meaning
+e	fajita	fajita	1 meaning
+e	falcon	falcon	1 meaning
+e	family	family	4 meanings
+e	famine	famine	1 meaning
+e	famous	famous	1 meaning
+e	fanart	fanart	1 meaning
+e	fancam	fancam	1 meaning
+e	fandom	fandom	2 meanings
+e	fandub	fandub	1 meaning
+e	fanqie	fanqie	1 meaning
+e	fansub	fansub	1 meaning
+e	farang	farang	1 meaning
+e	farmer	farmer	1 meaning
+e	farter	farter	1 meaning
+e	fasces	fasces	1 meaning
+e	fasten	fasten	1 meaning
+e	fastiv	fastiv	1 meaning
+e	father	father	5 meanings
+e	fathom	fathom	1 meaning
+e	fatima	fatima	1 meaning
+e	fatten	fatten	2 meanings
+e	faucet	faucet	1 meaning
+e	favela	favela	1 meaning
+j	ファイティン	faitin	Go for it!
+j	ファインダー	fainda	viewfinder
+j	ファクス	fakusu	fax
+j	ファクター	fakuta	factor (one of the elemen…
+j	ファクト	fakuto	fact
+j	ファサード	fasado	a façade
+j	ファジュル	fajuru	早朝の礼拝。
+j	ファスト	fasuto	迅速な。
+j	ファスナー	fasuna	zipper (of jeans, or clot…
+j	ファゾム	fazomu	
+j	ファタハ	fataha	
+j	ファッキュー	fakkyu	fuck you
+j	ファッキン	fakkin	fuckin', fucking
+j	ファトハ	fatoha	
+j	ファトワ	fatowa	fatwa
+j	ファトワー	fatowa	コーランの解釈などについてウラマーが下す命令。
+j	ファヒータ	fahita	
+j	ファミマ	famima	
+j	ファミリ	famiri	ファミリーの異表記・別形。
+j	ファミリー	famiri	a group of related people…
+j	ファラデー	farade	（物理）電荷の単位。記号はFd。
+j	ファラド	farado	farad
+j	ファルス	farusu	
+j	ファルド	farudo	fard
+j	ファルージャ	faruja	
+j	ファンアート	fanato	fanart
+j	ファンシー	fanshi	fancy (intricately decora…
+j	ファン人	fanjin	赤道ギニアの主要民族。バントゥー人の一派。
+j	ファヴェーラ	favera	
+j	ファーガス	fagasu	Fergus (an unincorporated…
+j	ファーコート	fakoto	
+j	ファースト	fasuto	synonym of 一塁 (ichirui, “…
+j	ファーソナ	fasona	
+j	ファーティマ	fatima	
+j	ファーマナ	famana	Fermanagh (a county of No…
+j	ブッポウソウ科	family	
+e	face-off	faceoff	1 meaning
+e	faction	faction	1 meaning
+e	factory	factory	1 meaning
+e	factual	factual	1 meaning
+e	faculty	faculty	3 meanings
+e	failure	failure	2 meanings
+e	fair sex	fairsex	1 meaning
+e	fair use	fairuse	1 meaning
+e	falafel	falafel	1 meaning
+e	falcata	falcata	1 meaning
+e	fall for	fallfor	2 meanings
+e	fall ill	fallill	1 meaning
+e	fallacy	fallacy	2 meanings
+e	fallout	fallout	2 meanings
+e	falsely	falsely	1 meaning
+e	falsify	falsify	2 meanings
+e	fan base	fanbase	1 meaning
+e	fan club	fanclub	1 meaning
+e	fanatic	fanatic	2 meanings
+e	fanfare	fanfare	2 meanings
+e	fansign	fansign	1 meaning
+e	fantasy	fantasy	2 meanings
+e	fanzine	fanzine	1 meaning
+e	far east	fareast	1 meaning
+e	far left	farleft	1 meaning
+e	faroese	faroese	1 meaning
+e	farrier	farrier	1 meaning
+e	fartlek	fartlek	1 meaning
+e	fascine	fascine	1 meaning
+e	fascism	fascism	1 meaning
+e	fascist	fascist	1 meaning
+e	fashion	fashion	1 meaning
+e	fasting	fasting	2 meanings
+e	fat-free	fatfree	1 meaning
+e	fatigue	fatigue	2 meanings
+e	fatuous	fatuous	1 meaning
+e	fauvism	fauvism	1 meaning
+e	faux pas	fauxpas	1 meaning
+e	favicon	favicon	1 meaning
+j	ファイアアーム	faiaamu	
+j	ファイアマン	faiaman	（男性の）消防士。
+j	ファイアーマン	faiaman	ファイアマンの表記揺れ。
+j	ファイナル	fainaru	final
+j	ファインアート	fainato	
+j	ファウヌス	faunusu	Faunus
+j	ファゴット	fagotto	bassoon, fagot
+j	ファザコン	fazakon	syllabic abbreviation of …
+j	ファジング	fajingu	ソフトウェアのテストの手法で、予測不可能なデータを…
+j	ファセット	fasetto	
+j	ファックス	fakkusu	a fax (either the device …
+j	ファッション	fasshon	fashion (current (constan…
+j	ファドゥーツ	fadutsu	Vaduz (the capital city o…
+j	ファビコン	fabikon	特定のウェブサイトに関連付けられているアイコンで、…
+j	ファミコン	famikon	A Nintendo (Nintendo Ente…
+j	ファミリィ	famirii	ファミリーの異表記・別形。
+j	ファミリイ	famirii	ファミリーの異表記・別形。
+j	ファラッド	faraddo	
+j	ファルシ	farushi	
+j	ファンサブ	fansabu	
+j	ファンタジー	fantaji	fantasy (imagining)
+j	ファンタブ	fandabu	
+j	ファンダム	fandamu	fandom
+j	ファントム	fantomu	phantom
+j	ファンネル	fanneru	funnel
+j	ファンファール	fanfaru	fanfare
+j	ファンファーレ	fanfare	fanfare
+j	ファンマーク	fanmaku	emoji sequence used as an…
+j	ファーガソン	fagason	Ferguson (a city in St. L…
+j	ファースーツ	fasutsu	fursuit
+j	ファーマシー	famashi	薬局。
+j	ファームウェア	famuwea	firmware
+j	ファームウエア	famuuea	
+j	ファーロング	farongu	
+j	火病る	fabyoru	to have a furious outburst
+e	face mask	facemask	1 meaning
+e	facebook	facebook	1 meaning
+e	facekini	facekini	1 meaning
+e	faceless	faceless	1 meaning
+e	facelift	facelift	1 meaning
+e	facepalm	facepalm	2 meanings
+e	facility	facility	1 meaning
+e	fail-safe	failsafe	1 meaning
+e	fainting	fainting	1 meaning
+e	fair play	fairplay	1 meaning
+e	faithful	faithful	1 meaning
+e	fake news	fakenews	1 meaning
+e	falchion	falchion	1 meaning
+e	falconry	falconry	1 meaning
+e	faliscan	faliscan	1 meaning
+e	fall down	falldown	1 meaning
+e	fall over	fallover	1 meaning
+e	fallujah	fallujah	1 meaning
+e	falmouth	falmouth	1 meaning
+e	falsetto	falsetto	1 meaning
+e	familial	familial	1 meaning
+e	familiar	familiar	2 meanings
+e	fan death	fandeath	1 meaning
+e	fanchant	fanchant	1 meaning
+e	fangshan	fangshan	2 meanings
+e	fantroll	fantroll	1 meaning
+e	far right	farright	1 meaning
+e	farecard	farecard	1 meaning
+e	farewell	farewell	3 meanings
+e	farfalle	farfalle	1 meaning
+e	farmland	farmland	1 meaning
+e	fast food	fastfood	1 meaning
+e	fastener	fastener	2 meanings
+e	fatalism	fatalism	1 meaning
+e	fatality	fatality	1 meaning
+e	faulkner	faulkner	1 meaning
+e	faultful	faultful	1 meaning
+j	ファイアウォール	faiaworu	firewall
+j	ファイアワイア	faiawaia	
+j	ファイアーウォール	faiaworu	
+j	ファイナンス	fainansu	finances, a source of fun…
+j	ファイヤーマン	faiyaman	ファイアマンの表記揺れ。
+j	ファイル名	fairumei	a filename
+j	ファインプレー	fainpure	fine (excellent) play
+j	ファカルティー	fakaruti	学部。
+j	ファクション	fakushon	a faction; a splinter gro…
+j	ファクトリー	fakutori	factory
+j	ファットゥーシュ	fattushu	fattoush
+j	ファットマン	fattoman	Fat Man
+j	ファミカセ	famikase	syllabic abbreviation of …
+j	ファミリーカー	famirika	家族向けの自動車。
+j	ファミリー・カー	famirika	ファミリーカーの異表記・別形。
+j	ファミレス	famiresu	syllabic abbreviation of …
+j	ファラフェル	faraferu	
+j	ファラーフェル	faraferu	
+j	ファルカタ	farukata	falcata
+j	ファルファーレ	farufare	farfalle
+j	ファンサイト	fansaito	特定の作品や人物などのファンが自主的に製作したイン…
+j	ファンフィック	fanfikku	
+j	ファンブック	fanbukku	fanbook
+j	ファン・ゴッホ	fangohho	Vincent van Gogh (Dutch p…
+j	ファールンゴン	farungon	
+e	fabergé egg	fabergegg	1 meaning
+e	fabricate	fabricate	1 meaning
+e	face value	facevalue	1 meaning
+e	facetious	facetious	1 meaning
+e	fachidiot	fachidiot	1 meaning
+e	facsimile	facsimile	3 meanings
+e	factorial	factorial	1 meaning
+e	factorize	factorize	1 meaning
+e	fairbanks	fairbanks	1 meaning
+e	fairy tale	fairytale	1 meaning
+e	fairyland	fairyland	1 meaning
+e	false flag	falseflag	1 meaning
+e	falun gong	falungong	1 meaning
+e	fan heater	fanheater	1 meaning
+e	fantastic	fantastic	1 meaning
+e	faridabad	faridabad	1 meaning
+e	fasciitis	fasciitis	1 meaning
+e	fascinate	fascinate	1 meaning
+e	father sky	fathersky	1 meaning
+e	fatphobia	fatphobia	1 meaning
+e	fattening	fattening	1 meaning
+e	fatty acid	fattyacid	1 meaning
+e	faultless	faultless	1 meaning
+e	favourite	favourite	2 meanings
+j	ファイアファイター	faiafaita	ファイヤーファイターの表記揺れ。
+j	ファイアーファイター	faiafaita	ファイヤーファイターの表記揺れ。
+j	ファイストス	faisutosu	
+j	ファシスト	fashisuto	fascist
+j	ファシズム	fashizumu	fascism
+j	ファシリティー	fashiriti	施設。設備。
+j	ファジィ論理	fajironri	fuzzy logic
+j	ファスチフ	fasuchifu	
+j	ファックする	fakkusuru	
+j	ファックサイン	fakkusain	the finger
+j	ファナーティック	fanatikku	
+j	ファブリック	faburikku	織物。生地。
+j	ファランクス	farankusu	
+j	ファリサイ派	farisaiha	
+j	ファルサリア	farusaria	
+j	ファルシオン	farushion	falchion
+j	ファルセット	farusetto	falsetto
+j	ファルマウス	farumausu	
+j	ファンクラブ	fankurabu	fan club
+j	ファンサービス	fansabisu	Something done by a celeb…
+j	ファンデーション	fandeshon	foundation garment
+j	ファントロール	fantororu	
+j	ファーストオーサー	fasutoosa	first author
+j	ファーディナンド	fadinando	天王星の衛星の固有名。
+j	ファールバウティ	farubauti	土星の第40衛星の固有名。
+e	face powder	facepowder	1 meaning
+e	face reveal	facereveal	2 meanings
+e	facial hair	facialhair	1 meaning
+e	facilitate	facilitate	1 meaning
+e	fahrenheit	fahrenheit	1 meaning
+e	fairleader	fairleader	1 meaning
+e	faisalabad	faisalabad	1 meaning
+e	fall asleep	fallasleep	2 meanings
+e	fall behind	fallbehind	1 meaning
+e	fall in love	fallinlove	2 meanings
+e	fallow deer	fallowdeer	1 meaning
+e	false alarm	falsealarm	2 meanings
+e	false start	falsestart	1 meaning
+e	false teeth	falseteeth	1 meaning
+e	family tree	familytree	1 meaning
+e	fan fiction	fanfiction	1 meaning
+e	fanaticism	fanaticism	1 meaning
+e	fanmeeting	fanmeeting	1 meaning
+e	fanservice	fanservice	3 meanings
+e	fanslation	fanslation	1 meaning
+e	fare dodger	faredodger	1 meaning
+e	farsighted	farsighted	2 meanings
+e	fascia lata	fascialata	1 meaning
+e	fastidious	fastidious	1 meaning
+e	father time	fathertime	1 meaning
+e	father's day	fathersday	1 meaning
+e	fatherhood	fatherhood	1 meaning
+e	fatherland	fatherland	1 meaning
+e	fatty liver	fattyliver	1 meaning
+e	favourable	favourable	1 meaning
+j	ファイヤーファイター	faiyafaita	消防士。
+j	ファイルサイズ	fairusaizu	
+j	ファイルタイプ	fairutaipu	ファイルの種類。
+j	ファウルフライ	faurufurai	ファウルグランドに打ち上げた飛球。邪飛。
+j	ファウンデーション	faundeshon	ファンデーションの異形。
+j	ファストフード	fasutofudo	「ファーストフード」の表記ゆれ。
+j	ファッションショー	fasshonsho	fashion show
+j	ファッション・ショー	fasshonsho	
+j	ファミリズム	famirizumu	familism
+j	ファム・ファタール	famufataru	
+j	ファリスク語	farisukugo	
+j	ファリーダーバード	faridabado	
+j	ファルトレク	farutoreku	
+j	ファンタジック	fantajikku	fantastic (like a fantasy)
+j	ファンミーティング	fanmitingu	
+j	ファーストキス	fasutokisu	first kiss
+j	ファーストデート	fasutodeto	first date
+j	ファーストネーム	fasutonemu	（主に欧米の人名で）姓に対して（最初にくる）名。
+j	ファーストフード	fasutofudo	fast food
+j	ファーストレディ	fasutoredi	a First Lady
+j	ファーストレディー	fasutoredi	
+e	facesitting	facesitting	1 meaning
+e	fact-finding	factfinding	1 meaning
+e	faith healer	faithhealer	1 meaning
+e	fallen angel	fallenangel	1 meaning
+e	false friend	falsefriend	1 meaning
+e	fare-dodging	faredodging	1 meaning
+e	fascinating	fascinating	1 meaning
+e	fashion show	fashionshow	1 meaning
+e	fashionable	fashionable	1 meaning
+e	fast forward	fastforward	1 meaning
+e	fata morgana	fatamorgana	1 meaning
+e	father frost	fatherfrost	1 meaning
+e	father-in-law	fatherinlaw	1 meaning
+j	ファイアフォックス	faiafokkusu	
+j	ファイサラーバード	faisarabado	
+j	ファイナルアンサー	fainaruansa	final answer
+j	ファイナンシャル	fainansharu	財政上の。
+j	ファイバー光学	faibakogaku	fiber optics (US), fibre …
+j	ファウストボール	fausutoboru	
+j	ファクシミリ	fakushimiri	a fax (either the device …
+j	ファクタリング	fakutaringu	factoring: a process wher…
+j	ファゴッティスト	fagottisuto	ファゴットの演奏家。
+j	ファスチャン織り	fasuchanori	
+j	ファストバック	fasutobakku	a fastback
+j	ファンクションキー	fankushonki	
+j	ファン・フィクション	fanfikushon	fan fiction
+j	ファーストバック	fasutobakku	
+j	ファーター膨大部	fatabodaibu	
+e	factory reset	factoryreset	1 meaning
+e	fainthearted	fainthearted	1 meaning
+e	fait accompli	faitaccompli	1 meaning
+e	falklands war	falklandswar	1 meaning
+e	fall pregnant	fallpregnant	1 meaning
+e	false analogy	falseanalogy	1 meaning
+e	family friend	familyfriend	1 meaning
+e	family member	familymember	1 meaning
+e	faroe islands	faroeislands	1 meaning
+e	fascioliasis	fascioliasis	1 meaning
+j	ファイナンスリース	fainansurisu	リース契約のうち、貸し手の当初資金負担について、ほ…
+j	ファイルフォーマット	fairufomatto	
+j	ファインチューニング	fainchuningu	機械学習を特定の分野に対して追加で行い強化させるこ…
+j	ファクトチェッカー	fakutochekka	ファクトチェックを行う人・組織。
+j	ファクトチェック	fakutochekku	広まった言説の真偽を検証した文書。
+j	ファタ・モルガーナ	fatamorugana	
+j	ファッショナブル	fasshonaburu	服装や髪形がお洒落である様子。
+j	ファンシーショップ	fanshishoppu	ファンシーグッズを販売する店舗。
+j	ファンタスティック	fantasutikku	fantastic
+j	ファンダメンタル	fandamentaru	基本的なさま。根本的なさま。
+j	ファーストクラス	fasutokurasu	first class (a status, se…
+j	ファースト・ネーション	fasutoneshon	
+j	ファーレンハイト度	farenhaitodo	synonym of 華氏温度 (kashi on…
+e	fair and square	fairandsquare	2 meanings
+e	fair-haired boy	fairhairedboy	1 meaning
+e	fall from grace	fallfromgrace	1 meaning
+e	fallopian tube	fallopiantube	1 meaning
+e	false negative	falsenegative	1 meaning
+e	false trevally	falsetrevally	1 meaning
+e	falsification	falsification	1 meaning
+e	fangchenggang	fangchenggang	1 meaning
+e	fasciculation	fasciculation	1 meaning
+e	faultlessness	faultlessness	1 meaning
+j	ファイアサラマンダー	faiasaramanda	a fire salamander
+j	ファイル形式	fairukeishiki	
+j	ファクスを送る	fakkusuookuru	
+j	ファシリテーション	fashiriteshon	協働促進、簡易化、助成。
+j	ファストファッション	fasutofasshon	短い周期で衣類を買ったり捨てたりを繰り返すことを前…
+j	ファスナー隠し	fasunakakushi	
+j	ファッションヘルス	fasshonherusu	a ヘルス (herusu, “sexual se…
+j	ファッションホテル	fasshonhoteru	
+j	ファッションモデル	fasshonmoderu	fashion model
+j	ファナティシズム	fanatishizumu	
+j	ファブレス企業	faburesukigyo	corporation that takes ca…
+j	ファミコンことば	famikonkotoba	the polite language used …
+j	ファレノプシス	farenopushisu	ラン科の植物の属名の一つで、およそ60の種類がある…
+j	ファンドレイジング	fandoreijingu	
+j	ラテン・ファリスク語群	farisukugogun	インド・ヨーロッパ語族イタリック語派の語群の一つ。…
+e	fabric softener	fabricsoftener	1 meaning
+e	fairy godmother	fairygodmother	2 meanings
+e	false dichotomy	falsedichotomy	1 meaning
+e	falsifiability	falsifiability	1 meaning
+e	family business	familybusiness	1 meaning
+e	family planning	familyplanning	1 meaning
+e	farsightedness	farsightedness	1 meaning
+j	ファイルシステム	fairushisutemu	file system
+j	ファイルパーミッション	fairupamisshon	ファイルに設定するユーザー毎のアクセス権。
+j	ファッションデザイナー	fasshondezaina	fashion designer
+j	ファッション・デザイナー	fasshondezaina	
+j	ファラデーの法則	faradenohosoku	コイルに発生する誘導起電力の大きさがコイルの巻数と…
+j	ファラリスの雄牛	fararisunooshi	
+e	falkland islands	falklandislands	1 meaning
+e	fashion designer	fashiondesigner	1 meaning
+e	faster-than-light	fasterthanlight	1 meaning
+j	ファイバーオプティックス	faibaoputikkusu	fiber optics (US), fibre …
+j	ファイル拡張子	fairukakuchoshi	
+j	ファインセラミックス	fainseramikkusu	原料の純度を高め、成形の圧力や焼結の温度を高めるな…
+j	ファミリーレストラン	famiriresutoran	family restaurant
+e	family restaurant	familyrestaurant	1 meaning
+j	ファザーコンプレックス	fazakonpurekkusu	父親に対して異常な愛着を示す女性。ファザコン。
+j	ファベルジェの卵	faberujenotamago	
+j	ファミリア・ストレンジャー	famiriasutorenja	顔はよく知っているが、挨拶や会話をしたことがない他…
+j	ファンによる吹き替え	fanniyorufukikae	
+j	ファンダメンタリスト	fandamentarisuto	原理主義者、教条主義者、根本主義者。
+j	ファンダメンタリズム	fandamentarizumu	聖書にあやまりはなくキリストの誕生などについて史実…
+e	face without makeup	facewithoutmakeup	1 meaning
+j	ファインマン・ダイアグラム	fainmandaiaguramu	
+e	false consciousness	falseconsciousness	1 meaning
+e	fasciated antshrike	fasciatedantshrike	1 meaning
+j	ファイナンシャル・プランナー	fainansharupuranna	相談者である顧客のライフプランを実現するために計画…
+j	ファンデルワールス力	fanderuwarusuryoku	van der Waals force
+j	ファースト・セール・ドクトリン	fasutoserudokutorin	消尽の準則、消尽論。
+e	fall between two stools	fallbetweentwostools	1 meaning
+e	fast fourier transform	fastfouriertransform	1 meaning
+j	ファイル・アロケーション・テーブル	fairuarokeshonteburu	
+j	ファイル転送プロトコル	fairutensopurotokoru	File Transfer Protocol, F…
+j	ファイナンシャル・プランニング	fainansharupuranningu	ライフプランを実現するために資金計画を立てること。
+j	ファーストパーソン・シューティングゲーム	fasutopasonshutingugemu	

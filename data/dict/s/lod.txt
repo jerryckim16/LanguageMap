@@ -1,0 +1,259 @@
+e	odd	odd	3 meanings
+e	ode	ode	1 meaning
+j	おうど	odo	王土: the territory control…
+j	おおで	ode	肩から指先までの腕。
+j	おおど	odo	（商家などの）表入り口にある大きな戸。
+j	おだ	oda	arbitrary flaring up of s…
+j	オーダー	oda	order
+j	オーデ	ode	
+j	オード	odo	an ode
+j	大田	oda	a city in Shimane Prefect…
+j	小田	oda	a surname
+j	尾田	oda	a surname
+j	殴打	oda	hitting; striking; battery
+j	王土	odo	帝王、国王が治める土地。
+j	王道	odo	benevolent rule of a coun…
+j	織田	oda	a surname
+j	黄土	odo	loess
+j	黄銅	odo	brass
+k	오다	oda	to come (to move towards …
+k	오도	odo	
+k	오디	odi	mulberry (fruit)
+e	odds	odds	2 meanings
+e	oder	oder	1 meaning
+e	odin	odin	1 meaning
+e	odor	odor	1 meaning
+j	おでん	oden	御田: A Japanese one pot wi…
+j	お段	odan	the fifth and lowest-grad…
+j	オーディオ	odio	audio
+j	オーディン	odin	Odin
+j	大台	odai	a benchmark; an important…
+j	御台	odai	（食事をのせる）台の丁寧語。
+j	御田	oden	oden (a Japanese one pot …
+j	御題	odai	（おだい）詩歌などの「題」の丁寧語。
+j	枉断	odan	法を曲げて不正に裁くこと。
+j	横断	odan	crossing, traversing, int…
+j	汚泥	odei	汚い（汚ならしい）泥。
+j	王田	oden	前漢を倒した新王朝の王莽が王土思想に基づき唱えた天…
+j	秧田	oden	苗代。
+j	黄疸	odan	jaundice (a morbid condit…
+k	오답	odap	wrong answer
+k	오독	odok	'오도독'의 준말.
+k	오드	odeu	
+k	오디오	odio	audio
+k	오딘	odin	Odin
+j	おおどおり	odori	市街を通る大きな道路。
+j	おだけ	odake	真竹の俗称。
+j	おだて	odate	煽てること。
+j	おでき	odeki	皮膚が腫れ上がり、膿が溜まった部分。出来物。
+j	おでこ	odeko	forehead, brow (part of f…
+j	おどす	odosu	to threaten
+j	おどり	odori	音楽に合わせ踊ること。ダンス、舞踊、舞踏
+j	おどる	odoru	踊る: to dance
+j	お凸	odeko	
+j	オデーサ	odesa	
+j	オードリー	odori	
+j	大出来	odeki	well done; great result (…
+j	大通り	odori	main street; boulevard
+j	大道り	odori	main street, avenue (broa…
+j	大道具	odogu	scenery; stage setting; s…
+j	威す	odosu	
+j	小高	odaka	a surname
+j	応諾	odaku	acceptance
+j	汚濁	odaku	dirtiness
+j	煽て	odate	flattery (someone into do…
+j	脅す	odosu	
+j	踊り	odori	a dance
+j	踊る	odoru	to dance (in an active, h…
+j	黄銅鉱	odoko	銅、鉄、硫黄からなる金属光沢のある鉱物。条痕は緑黒…
+k	오당	odang	our party
+k	오덕	odeok	fan, otaku
+k	오데사	odesa	Odessa (an oblast of Ukra…
+k	오뎅	odeng	oden
+k	오동	odong	paulownia
+e	odango	odango	1 meaning
+e	odessa	odessa	1 meaning
+e	odisha	odisha	1 meaning
+j	おおだち	odachi	一反の反物の和服一枚を裁つ大人用着物の裁ち方。その…
+j	おだつ	odatsu	（北海道地方・東北地方）ふざける、はしゃぐ、調子に…
+j	おどおど	odoodo	hesitatingly, sheepishly,…
+j	おどし	odoshi	「おどす」の連用形。
+j	お団子	odango	団子: a traditional Japanes…
+j	オッドアイ	oddoai	heterochromia iridium
+j	オデッサ	odessa	Odessa (a port city, the …
+j	大太鼓	odaiko	a large drum
+j	大旦那	odanna	寺院の檀家のうち多くの布施をする檀家。
+j	御団子	odango	「団子」を丁寧に言う語。
+j	御田屋	odenya	御田を提供する店、人。
+j	脅し	odoshi	threat
+j	黄土色	odoiro	ochre (yellowish-orange c…
+k	오대조	odaejo	
+k	오대호	odaeho	Great Lakes
+k	오델로	odello	
+k	오도독	ododok	작고 단단한 물건을 깨무는 소리. 또는 그 모…
+k	오도바이	odobai	오토바이.
+k	오두막	odumak	hut; cabin; shack
+k	오두품	odupum	
+k	오드아이	odeuai	
+k	오등	odeung	we; us
+e	odawara	odawara	1 meaning
+e	oddball	oddball	1 meaning
+e	odoacer	odoacer	1 meaning
+e	odyssey	odyssey	1 meaning
+j	おだてる	odateru	褒めたり良いことを言ったりして、相手をいい気分にさ…
+j	おだやか	odayaka	静かで落ち着いたさま。のどかでやすらかなさま。
+j	おでかけ	odekake	でかけること。外出。
+j	おどかす	odokasu	脅す。恐れさせる。
+j	おどける	odokeru	to jest
+j	おどりこ	odoriko	踊り（盆踊り）を踊る少女。
+j	おどりて	odorite	踊りをする者。
+j	おどりば	odoriba	舞踏する場所。
+j	おどろき	odoroki	人や何かが驚くこと。
+j	おどろく	odoroku	to be astonished, surpris…
+j	お代官	odaikan	
+j	お出掛け	odekake	a polite term for going o…
+j	お黙り	odamari	
+j	オダマキ	odamaki	苧環: columbine
+j	オドメーター	odometa	自動車などの累計走行距離計。
+j	オーダー・メード	odamedo	
+j	オーディエンス	odiensu	聴衆。
+j	オーディション	odishon	an audition
+j	オードブル	odoburu	hors d'oeuvre (appetizer)
+j	威かす	odokasu	
+j	小田原	odawara	Odawara (a city in Kanaga…
+j	御台盤	odaiban	飯や食事を言う女房詞。御台。
+j	横断面	odanmen	
+j	殴打する	odasuru	
+j	煽てる	odateru	flatter (someone into doi…
+j	穏やか	odayaka	calm, peaceful, quiet, tr…
+j	脅かす	odokasu	threaten, intimidate
+j	苧環	odamaki	a winding or ball of hemp…
+j	踊らす	odorasu	to manipulate; to lead as…
+j	踊り場	odoriba	an area for dancing
+j	踊り子	odoriko	dancer
+j	踊り字	odoriji	an iteration mark
+j	驚き	odoroki	surprise; astonishment; s…
+k	오덕후	odeokhu	synonym of 오타쿠 (otaku, “o…
+k	오도당	ododang	
+k	오도동	ododong	
+k	오도마니	odomani	
+k	오도카니	odokani	while standing or sitting…
+k	오도하다	odohada	
+k	오두마니	odumani	
+k	오두카니	odukani	오도카니, 우두커니의 비표준어.
+k	오드드	odeudeu	
+k	오디세이아	odiseia	the Odyssey
+k	오디오북	odiobuk	audiobook, talking book
+k	오디오필	odiopil	
+e	odometer	odometer	1 meaning
+e	odorless	odorless	1 meaning
+e	odysseus	odysseus	1 meaning
+j	おうだんほどう	odanhodo	
+j	おおどしま	odoshima	年増の中でも特に年のいった女性。
+j	おでまし	odemashi	相手の外出、来場、出席などの尊敬語。
+j	お大事に	odaijini	get well soon, take care …
+j	オドアケル	odoakeru	
+j	オーダーメイド	odameido	made-to-order; custom; cu…
+j	オーディオテープ	odiotepu	
+j	オーデコロン	odekoron	eau de Cologne
+j	大道具師	odogushi	大道具方。
+j	御陀仏	odabutsu	死ぬこと。
+j	横断幕	odanmaku	horizontal banner
+j	横断歩道	odanhodo	crosswalk, pedestrian cro…
+j	織田時代	odajidai	織田氏が政権を担っていた、安土時代のこと。
+j	脅かし	odokashi	
+k	오답하다	odaphada	to answer wrong
+k	오대양	odaeyang	the five oceans
+k	오도미터	odomiteo	
+k	오독오독	odogodok	'오도독오도독'의 준말.
+k	오독하다	odokhada	
+k	오돌오돌	odorodol	
+k	오드니엘	odeuniel	
+k	오드득	odeudeuk	
+k	오디션	odisyeon	
+e	odd number	oddnumber	1 meaning
+e	odd one out	oddoneout	2 meanings
+j	おどけもの	odokemono	滑稽な人。
+j	おどろかす	odorokasu	びっくりさせる。驚くようにする。
+j	オデュッセイア	odyusseia	the Odyssey
+j	オーディオブック	odiobukku	audiobook, talking book
+j	オーデル川	oderugawa	
+j	オードトワレ	odotoware	eau de toilette, toilet w…
+j	大立者	odatemono	
+j	尾高型	odakagata	a pitch accent pattern in…
+j	王道進行	odoshinko	the royal road progressio…
+j	穏やかな	odayakana	
+j	踊子草	odorikoso	white deadnettle, Lamium …
+j	躍り出る	odorideru	to spring out; to jump out
+j	驚かす	odorokasu	to frighten
+k	오도독이다	ododogida	작고 단단한 물건을 깨무는 소리가 나다. 또는…
+k	오독대다	odokdaeda	'오도독대다'의 준말.
+k	오돌대다	odoldaeda	
+k	오돌토돌	odoltodol	
+k	오돌포돌	odolpodol	
+k	오동나무	odongnamu	Korean paulownia (Paulown…
+k	오동통	odongtong	
+k	오두막집	odumakjip	hut, cabin, shack, shed
+k	오디세우스	odiseuseu	
+j	おどりあかす	odoriakasu	to dance the night away; …
+j	オデュッセウス	odyusseusu	Odysseus
+j	オー゠ド゠フランス	odofuransu	
+j	オーダーストップ	odasutoppu	last orders (UK), last ca…
+j	オーデンヴァルト	odenvaruto	Odenwald
+j	オードパルファン	odoparufan	香料がパルファンとオードトワレの間の濃度（10パー…
+k	오데르 강	odereugang	
+k	오도독하다	ododokhada	
+k	오동오동	odongodong	
+k	오들대다	odeuldaeda	'오들거리다'.
+k	오들오들	odeurodeul	
+k	오디오 테이프	odioteipeu	
+j	オーディオ・ビジュアル	odiobijuaru	audiovisual equipment; au…
+j	織田信長	odanobunaga	戦国時代から安土桃山時代の日本の武将。1534年（…
+j	驚くべき	odorokubeki	
+j	驚くほど	odorokuhodo	
+k	오도당하다	ododanghada	
+k	오도독대다	ododokdaeda	'오도독거리다'.
+k	오도동하다	ododonghada	
+k	오독거리다	odokgeorida	'오도독거리다'의 준말.
+k	오돌거리다	odolgeorida	
+k	오동보동	odongbodong	
+k	오동포동	odongpodong	
+j	オードトワレット	odotowaretto	eau de toilette, toilet w…
+k	오도당대다	ododangdaeda	'오도당거리다'.
+k	오도독오도독	ododogododok	
+k	오독오독하다	odogodokhada	
+k	오돌오돌하다	odorodolhada	
+k	오드득하다	odeudeukhada	
+k	오드콜로뉴	odeukollonyu	cologne, eau de Cologne
+k	오드투왈렛	odeutuwallet	eau de toilette, toilet w…
+k	오들거리다	odeulgeorida	춥거나 무서워서 몸이 잇따라 심하게 떨리다. …
+j	オーディオコメンタリー	odiokomentari	audio commentary
+j	オーディションを受ける	odishonoukeru	
+k	오도독거리다	ododokgeorida	작고 단단한 물건을 깨무는 소리가 잇따라 나다…
+k	오돌랑대다	odollangdaeda	
+k	오돌토돌하다	odoltodolhada	
+k	오돌포돌하다	odolpodolhada	
+k	오동통하다	odongtonghada	
+k	오드득대다	odeudeukdaeda	
+j	オーディションを開く	odishonohiraku	
+k	오도당거리다	ododanggeorida	작고 단단한 물건이 무너져 떨어지며 조금 요란…
+k	오도당오도당	ododangododang	
+k	오동오동하다	odongodonghada	
+k	오들오들하다	odeurodeulhada	
+k	오돌랑거리다	odollanggeorida	
+k	오동보동하다	odongbodonghada	
+k	오동포동하다	odongpodonghada	
+k	오드득거리다	odeudeukgeorida	
+k	오디션을 보다	odisyeoneulboda	
+j	オッディ括約筋	oddikatsuyakukin	a sphincter of Oddi
+k	오도독오도독하다	ododogododokhada	
+k	오돌랑오돌랑	odollangodollang	'달랑달랑'의 제주도 사투리.
+k	오드득오드득	odeudeugodeudeuk	
+j	驚くべきことに	odorokubekikotoni	lo and behold
+k	오돌랑포돌랑	odollangpodollang	
+k	오디션을 열다	odisyeoneulyeolda	
+k	오도당오도당하다	ododangododanghada	
+k	오디션에 참가하다	odisyeonechamgahada	
+k	오돌랑오돌랑하다	odollangodollanghada	
+k	오드득오드득하다	odeudeugodeudeukhada	
+k	오돌랑포돌랑하다	odollangpodollanghada	

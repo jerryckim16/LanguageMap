@@ -1,0 +1,1270 @@
+e	co.	co	1 meaning
+e	cod	cod	1 meaning
+e	cog	cog	1 meaning
+e	col	col	1 meaning
+e	con	con	1 meaning
+e	cop	cop	1 meaning
+e	cot	cot	2 meanings
+e	cow	cow	4 meanings
+e	coy	coy	1 meaning
+e	co-ed	coed	2 meanings
+e	coal	coal	2 meanings
+e	coat	coat	3 meanings
+e	coax	coax	1 meaning
+e	coca	coca	2 meanings
+e	cock	cock	1 meaning
+e	coda	coda	2 meanings
+e	code	code	6 meanings
+e	coil	coil	2 meanings
+e	coin	coin	1 meaning
+e	coke	coke	2 meanings
+e	cola	cola	1 meaning
+e	cold	cold	6 meanings
+e	colt	colt	1 meaning
+e	colón	coln	1 meaning
+e	coma	coma	2 meanings
+e	comb	comb	3 meanings
+e	come	come	6 meanings
+e	como	como	2 meanings
+e	cone	cone	4 meanings
+e	conté	cont	1 meaning
+e	cook	cook	3 meanings
+e	cool	cool	3 meanings
+e	coot	coot	1 meaning
+e	cope	cope	1 meaning
+e	copy	copy	3 meanings
+e	cord	cord	2 meanings
+e	core	core	2 meanings
+e	cork	cork	3 meanings
+e	corn	corn	2 meanings
+e	cost	cost	3 meanings
+e	cosy	cosy	3 meanings
+e	cove	cove	1 meaning
+e	cowl	cowl	1 meaning
+e	coach	coach	4 meanings
+e	coast	coast	1 meaning
+e	coati	coati	1 meaning
+e	cobra	cobra	1 meaning
+e	cocky	cocky	1 meaning
+e	cocoa	cocoa	5 meanings
+e	codec	codec	1 meaning
+e	coder	coder	1 meaning
+e	codex	codex	1 meaning
+e	codon	codon	1 meaning
+e	coeus	coeus	1 meaning
+e	colic	colic	1 meaning
+e	colon	colon	2 meanings
+e	color	color	11 meanings
+e	comet	comet	2 meanings
+e	comic	comic	1 meaning
+e	comma	comma	2 meanings
+e	conan	conan	1 meaning
+e	conch	conch	2 meanings
+e	congo	congo	2 meanings
+e	copra	copra	1 meaning
+e	coral	coral	5 meanings
+e	corfu	corfu	1 meaning
+e	corgi	corgi	1 meaning
+e	corny	corny	1 meaning
+e	corps	corps	1 meaning
+e	corte	corte	1 meaning
+e	couch	couch	1 meaning
+e	cough	cough	3 meanings
+e	count	count	2 meanings
+e	court	court	7 meanings
+e	coven	coven	1 meaning
+e	cover	cover	8 meanings
+e	covet	covet	1 meaning
+e	covid-19	covid	1 meaning
+e	cower	cower	1 meaning
+e	coypu	coypu	1 meaning
+e	coarse	coarse	2 meanings
+e	cobain	cobain	1 meaning
+e	cobalt	cobalt	1 meaning
+e	coccus	coccus	1 meaning
+e	coccyx	coccyx	1 meaning
+e	cockle	cockle	2 meanings
+e	cocoon	cocoon	1 meaning
+e	codify	codify	1 meaning
+e	coelom	coelom	1 meaning
+e	coerce	coerce	1 meaning
+e	coffee	coffee	5 meanings
+e	coffin	coffin	2 meanings
+e	cognac	cognac	2 meanings
+e	cognos	cognos	1 meaning
+e	coitus	coitus	1 meaning
+e	collar	collar	2 meanings
+e	collie	collie	1 meaning
+e	colony	colony	2 meanings
+e	coltan	coltan	1 meaning
+e	colton	colton	1 meaning
+e	column	column	5 meanings
+e	combat	combat	1 meaning
+e	come on	comeon	3 meanings
+e	come to	cometo	1 meaning
+e	come up	comeup	1 meaning
+e	comedy	comedy	1 meaning
+e	comics	comics	1 meaning
+e	coming	coming	1 meaning
+e	commie	commie	1 meaning
+e	commit	commit	2 meanings
+e	common	common	3 meanings
+e	compel	compel	1 meaning
+e	comply	comply	1 meaning
+e	comune	comune	1 meaning
+e	condom	condom	1 meaning
+e	condor	condor	2 meanings
+e	congee	congee	1 meaning
+e	conley	conley	1 meaning
+e	conman	conman	1 meaning
+e	conpoy	conpoy	1 meaning
+e	consul	consul	1 meaning
+e	contra	contra	1 meaning
+e	convex	convex	1 meaning
+e	convey	convey	3 meanings
+e	convoy	convoy	2 meanings
+e	cooked	cooked	1 meaning
+e	cooker	cooker	1 meaning
+e	cookie	cookie	1 meaning
+e	cooler	cooler	1 meaning
+e	coolie	coolie	1 meaning
+e	cooper	cooper	1 meaning
+e	copper	copper	4 meanings
+e	coptic	coptic	1 meaning
+e	copula	copula	2 meanings
+e	corium	corium	1 meaning
+e	cornea	cornea	1 meaning
+e	corner	corner	4 meanings
+e	corona	corona	3 meanings
+e	corpse	corpse	1 meaning
+e	corpus	corpus	1 meaning
+e	corral	corral	1 meaning
+e	corrin	corrin	1 meaning
+e	corset	corset	1 meaning
+e	cortex	cortex	1 meaning
+e	corvus	corvus	1 meaning
+e	cosine	cosine	1 meaning
+e	cosmic	cosmic	1 meaning
+e	cosmos	cosmos	2 meanings
+e	costus	costus	1 meaning
+e	cotton	cotton	3 meanings
+e	cougar	cougar	2 meanings
+e	county	county	1 meaning
+e	couple	couple	5 meanings
+e	coupon	coupon	2 meanings
+e	course	course	4 meanings
+e	cousin	cousin	1 meaning
+e	coward	coward	1 meaning
+e	cowboy	cowboy	2 meanings
+e	cowpat	cowpat	1 meaning
+e	cowpox	cowpox	1 meaning
+e	cowrie	cowrie	1 meaning
+e	coyote	coyote	1 meaning
+e	coal tar	coaltar	1 meaning
+e	coal tit	coaltit	1 meaning
+e	coaming	coaming	1 meaning
+e	coaster	coaster	2 meanings
+e	coaxial	coaxial	1 meaning
+e	cobbler	cobbler	1 meaning
+e	coboler	coboler	1 meaning
+e	cocaine	cocaine	1 meaning
+e	cochlea	cochlea	1 meaning
+e	cockade	cockade	1 meaning
+e	cockpit	cockpit	1 meaning
+e	coconut	coconut	2 meanings
+e	codeine	codeine	1 meaning
+e	coexist	coexist	1 meaning
+e	cognate	cognate	2 meanings
+e	cohabit	cohabit	1 meaning
+e	coilgun	coilgun	1 meaning
+e	coimbra	coimbra	1 meaning
+e	coinage	coinage	1 meaning
+e	cold war	coldwar	2 meanings
+e	collage	collage	1 meaning
+e	collard	collard	1 meaning
+e	collate	collate	1 meaning
+e	collect	collect	1 meaning
+e	college	college	9 meanings
+e	collide	collide	2 meanings
+e	colloid	colloid	1 meaning
+e	cologne	cologne	2 meanings
+e	colombo	colombo	1 meaning
+e	colonel	colonel	1 meaning
+e	colored	colored	2 meanings
+e	columba	columba	2 meanings
+e	combine	combine	2 meanings
+e	come out	comeout	1 meaning
+e	comecon	comecon	1 meaning
+e	comfort	comfort	3 meanings
+e	comfrey	comfrey	1 meaning
+e	comilla	comilla	1 meaning
+e	command	command	3 meanings
+e	comment	comment	2 meanings
+e	commute	commute	1 meaning
+e	comoros	comoros	1 meaning
+e	compact	compact	1 meaning
+e	company	company	6 meanings
+e	compare	compare	1 meaning
+e	compass	compass	1 meaning
+e	compete	compete	1 meaning
+e	compile	compile	2 meanings
+e	complex	complex	6 meanings
+e	compost	compost	1 meaning
+e	compote	compote	1 meaning
+e	compute	compute	1 meaning
+e	comrade	comrade	4 meanings
+e	conakry	conakry	1 meaning
+e	concave	concave	1 meaning
+e	conceal	conceal	1 meaning
+e	concede	concede	2 meanings
+e	conceit	conceit	1 meaning
+e	concept	concept	1 meaning
+e	concern	concern	4 meanings
+e	concert	concert	1 meaning
+e	concise	concise	1 meaning
+e	condemn	condemn	2 meanings
+e	condone	condone	2 meanings
+e	confess	confess	3 meanings
+e	confine	confine	2 meanings
+e	confirm	confirm	1 meaning
+e	confuse	confuse	3 meanings
+e	conifer	conifer	1 meaning
+e	connect	connect	2 meanings
+e	connery	connery	1 meaning
+e	conquer	conquer	2 meanings
+e	consent	consent	2 meanings
+e	consist	consist	1 meaning
+e	console	console	2 meanings
+e	consommé	consomm	1 meaning
+e	consume	consume	3 meanings
+e	contact	contact	7 meanings
+e	contain	contain	1 meaning
+e	contemn	contemn	1 meaning
+e	content	content	4 meanings
+e	contest	contest	1 meaning
+e	context	context	2 meanings
+e	contour	contour	1 meaning
+e	control	control	4 meanings
+e	convert	convert	3 meanings
+e	convict	convict	3 meanings
+e	cooking	cooking	1 meaning
+e	coolant	coolant	1 meaning
+e	cooling	cooling	1 meaning
+e	copepod	copepod	1 meaning
+e	copilot	copilot	1 meaning
+e	coppice	coppice	1 meaning
+e	coprime	coprime	1 meaning
+e	copycat	copycat	1 meaning
+e	corcyra	corcyra	1 meaning
+e	cordial	cordial	1 meaning
+e	corinth	corinth	1 meaning
+e	corn dog	corndog	1 meaning
+e	corn oil	cornoil	1 meaning
+e	corncob	corncob	1 meaning
+e	cornett	cornett	1 meaning
+e	cornice	cornice	1 meaning
+e	cornish	cornish	1 meaning
+e	cornrow	cornrow	1 meaning
+e	corolla	corolla	1 meaning
+e	coroner	coroner	1 meaning
+e	correct	correct	2 meanings
+e	corrupt	corrupt	1 meaning
+e	corsage	corsage	2 meanings
+e	corsair	corsair	1 meaning
+e	corsica	corsica	1 meaning
+e	cosplay	cosplay	2 meanings
+e	cossack	cossack	1 meaning
+e	costume	costume	2 meanings
+e	coterie	coterie	1 meaning
+e	cotinga	cotinga	1 meaning
+e	cotonou	cotonou	1 meaning
+e	cottage	cottage	1 meaning
+e	coulomb	coulomb	1 meaning
+e	council	council	1 meaning
+e	count on	counton	1 meaning
+e	counter	counter	2 meanings
+e	counter-	counter	1 meaning
+e	country	country	5 meanings
+e	couplet	couplet	1 meaning
+e	courage	courage	1 meaning
+e	courier	courier	4 meanings
+e	cover up	coverup	1 meaning
+e	cowbane	cowbane	1 meaning
+e	cowbell	cowbell	1 meaning
+e	cowgirl	cowgirl	1 meaning
+e	cowherb	cowherb	1 meaning
+e	cowherd	cowherd	1 meaning
+e	cowlick	cowlick	1 meaning
+e	cowshed	cowshed	1 meaning
+e	cowslip	cowslip	1 meaning
+e	coagulum	coagulum	1 meaning
+e	coal mine	coalmine	1 meaning
+e	coauthor	coauthor	1 meaning
+e	coca-cola	cocacola	1 meaning
+e	cock ring	cockring	1 meaning
+e	cockatoo	cockatoo	1 meaning
+e	cockerel	cockerel	1 meaning
+e	cocktail	cocktail	1 meaning
+e	code name	codename	1 meaning
+e	codomain	codomain	1 meaning
+e	coenzyme	coenzyme	1 meaning
+e	coercion	coercion	1 meaning
+e	cofactor	cofactor	1 meaning
+e	cohesion	cohesion	3 meanings
+e	coin toss	cointoss	1 meaning
+e	coincide	coincide	3 meanings
+e	col legno	collegno	1 meaning
+e	colander	colander	1 meaning
+e	cold case	coldcase	1 meaning
+e	cold fish	coldfish	1 meaning
+e	cold wave	coldwave	1 meaning
+e	coldness	coldness	2 meanings
+e	coleslaw	coleslaw	1 meaning
+e	collagen	collagen	1 meaning
+e	collapse	collapse	2 meanings
+e	collider	collider	1 meaning
+e	colliery	colliery	2 meanings
+e	colloquy	colloquy	1 meaning
+e	colombia	colombia	1 meaning
+e	colonist	colonist	1 meaning
+e	colophon	colophon	2 meanings
+e	colorado	colorado	1 meaning
+e	colorful	colorful	1 meaning
+e	colossal	colossal	1 meaning
+e	columbia	columbia	2 meanings
+e	columbus	columbus	1 meaning
+e	combined	combined	1 meaning
+e	combo box	combobox	1 meaning
+e	combover	combover	1 meaning
+e	come back	comeback	1 meaning
+e	come down	comedown	1 meaning
+e	come over	comeover	1 meaning
+e	come true	cometrue	1 meaning
+e	comeback	comeback	1 meaning
+e	comedian	comedian	1 meaning
+e	commando	commando	1 meaning
+e	commence	commence	1 meaning
+e	commerce	commerce	1 meaning
+e	commoner	commoner	2 meanings
+e	compiler	compiler	2 meanings
+e	compiègne	compigne	1 meaning
+e	complain	complain	2 meanings
+e	complete	complete	4 meanings
+e	composer	composer	1 meaning
+e	compound	compound	1 meaning
+e	compress	compress	4 meanings
+e	computer	computer	2 meanings
+e	conceive	conceive	3 meanings
+e	concerto	concerto	1 meaning
+e	conclave	conclave	1 meaning
+e	conclude	conclude	2 meanings
+e	concrete	concrete	4 meanings
+e	condense	condense	3 meanings
+e	cone cell	conecell	1 meaning
+e	confetti	confetti	1 meaning
+e	conflate	conflate	2 meanings
+e	conflict	conflict	3 meanings
+e	confound	confound	1 meaning
+e	congrats	congrats	1 meaning
+e	congress	congress	4 meanings
+e	conjurer	conjurer	1 meaning
+e	connelly	connelly	1 meaning
+e	conquest	conquest	1 meaning
+e	conserve	conserve	2 meanings
+e	consider	consider	2 meanings
+e	conspire	conspire	1 meaning
+e	constant	constant	3 meanings
+e	constanța	constana	1 meaning
+e	consumer	consumer	2 meanings
+e	contempt	contempt	2 meanings
+e	contents	contents	1 meaning
+e	continue	continue	2 meanings
+e	contract	contract	6 meanings
+e	contrail	contrail	1 meaning
+e	contrary	contrary	1 meaning
+e	converse	converse	3 meanings
+e	conveyor	conveyor	1 meaning
+e	convince	convince	1 meaning
+e	convulse	convulse	1 meaning
+e	cookbook	cookbook	1 meaning
+e	cool down	cooldown	2 meanings
+e	copulate	copulate	1 meaning
+e	copyhold	copyhold	1 meaning
+e	coquetry	coquetry	1 meaning
+e	coquette	coquette	1 meaning
+e	coral sea	coralsea	1 meaning
+e	cordelia	cordelia	1 meaning
+e	cordoban	cordoban	2 meanings
+e	cordovan	cordovan	1 meaning
+e	corduroy	corduroy	1 meaning
+e	corn smut	cornsmut	1 meaning
+e	cornwall	cornwall	2 meanings
+e	corporal	corporal	1 meaning
+e	corridor	corridor	3 meanings
+e	corseque	corseque	1 meaning
+e	corsican	corsican	3 meanings
+e	corundum	corundum	1 meaning
+e	corvette	corvette	2 meanings
+e	cosecant	cosecant	1 meaning
+e	cotabato	cotabato	1 meaning
+e	coumarin	coumarin	1 meaning
+e	countess	countess	1 meaning
+e	coup d'état	coupdtat	1 meaning
+e	courland	courland	1 meaning
+e	courtesy	courtesy	1 meaning
+e	courtier	courtier	1 meaning
+e	couscous	couscous	1 meaning
+e	covenant	covenant	4 meanings
+e	coventry	coventry	1 meaning
+e	coverage	coverage	1 meaning
+e	coverlet	coverlet	1 meaning
+e	cow urine	cowurine	1 meaning
+e	cow's milk	cowsmilk	1 meaning
+e	cowardly	cowardly	2 meanings
+e	coworker	coworker	1 meaning
+e	coagulate	coagulate	2 meanings
+e	coal black	coalblack	1 meaning
+e	coalescer	coalescer	1 meaning
+e	coalfield	coalfield	1 meaning
+e	coalition	coalition	1 meaning
+e	coalminer	coalminer	1 meaning
+e	coastline	coastline	1 meaning
+e	coatdress	coatdress	1 meaning
+e	cobalamin	cobalamin	1 meaning
+e	cochineal	cochineal	2 meanings
+e	cockatiel	cockatiel	1 meaning
+e	cockfight	cockfight	2 meanings
+e	cockroach	cockroach	1 meaning
+e	cockscomb	cockscomb	2 meanings
+e	cocoa bean	cocoabean	1 meaning
+e	coffee cup	coffeecup	1 meaning
+e	coffee pot	coffeepot	1 meaning
+e	cognition	cognition	1 meaning
+e	cohabitee	cohabitee	1 meaning
+e	coherence	coherence	1 meaning
+e	cointreau	cointreau	1 meaning
+e	cold cream	coldcream	1 meaning
+e	cold front	coldfront	1 meaning
+e	cold sweat	coldsweat	1 meaning
+e	colleague	colleague	1 meaning
+e	collector	collector	1 meaning
+e	collegian	collegian	1 meaning
+e	collision	collision	1 meaning
+e	collotype	collotype	1 meaning
+e	collusion	collusion	1 meaning
+e	colluvium	colluvium	1 meaning
+e	colombian	colombian	1 meaning
+e	colonnade	colonnade	1 meaning
+e	colorfast	colorfast	1 meaning
+e	colosseum	colosseum	1 meaning
+e	colostrum	colostrum	1 meaning
+e	colourant	colourant	1 meaning
+e	coltsfoot	coltsfoot	1 meaning
+e	columbine	columbine	1 meaning
+e	columbium	columbium	1 meaning
+e	combatant	combatant	1 meaning
+e	combative	combative	1 meaning
+e	come clean	comeclean	1 meaning
+e	come of age	comeofage	1 meaning
+e	comic book	comicbook	1 meaning
+e	coming-out	comingout	1 meaning
+e	comintern	comintern	1 meaning
+e	commander	commander	1 meaning
+e	commissar	commissar	1 meaning
+e	committee	committee	1 meaning
+e	commodify	commodify	1 meaning
+e	commodity	commodity	1 meaning
+e	commodore	commodore	1 meaning
+e	common ash	commonash	1 meaning
+e	common era	commonera	1 meaning
+e	common law	commonlaw	1 meaning
+e	common rue	commonrue	1 meaning
+e	commotion	commotion	1 meaning
+e	communiqué	communiqu	1 meaning
+e	communism	communism	2 meanings
+e	communist	communist	2 meanings
+e	community	community	3 meanings
+e	companion	companion	1 meaning
+e	complaint	complaint	1 meaning
+e	component	component	1 meaning
+e	comprador	comprador	1 meaning
+e	computing	computing	2 meanings
+e	con artist	conartist	1 meaning
+e	concealer	concealer	1 meaning
+e	concierge	concierge	1 meaning
+e	concourse	concourse	1 meaning
+e	concubine	concubine	1 meaning
+e	condemned	condemned	1 meaning
+e	condenser	condenser	1 meaning
+e	condiment	condiment	1 meaning
+e	condition	condition	7 meanings
+e	conductor	conductor	3 meanings
+e	confessor	confessor	2 meanings
+e	confident	confident	1 meaning
+e	configure	configure	1 meaning
+e	confiture	confiture	1 meaning
+e	confucian	confucian	1 meaning
+e	confucius	confucius	1 meaning
+e	confusing	confusing	1 meaning
+e	confusion	confusion	2 meanings
+e	conger eel	congereel	1 meaning
+e	congolese	congolese	3 meanings
+e	connector	connector	1 meaning
+e	connemara	connemara	1 meaning
+e	conquerer	conquerer	1 meaning
+e	conqueror	conqueror	1 meaning
+e	conscript	conscript	2 meanings
+e	consensus	consensus	1 meaning
+e	consignee	consignee	1 meaning
+e	consigner	consigner	1 meaning
+e	consonant	consonant	2 meanings
+e	constable	constable	1 meaning
+e	constrain	constrain	1 meaning
+e	construct	construct	3 meanings
+e	consulate	consulate	1 meaning
+e	contagion	contagion	1 meaning
+e	container	container	2 meanings
+e	continent	continent	1 meaning
+e	continuum	continuum	2 meanings
+e	contralto	contralto	1 meaning
+e	contumacy	contumacy	1 meaning
+e	contusion	contusion	1 meaning
+e	cooperate	cooperate	1 meaning
+e	copolymer	copolymer	1 meaning
+e	coptisine	coptisine	1 meaning
+e	copy-paste	copypaste	2 meanings
+e	copypasta	copypasta	1 meaning
+e	copyright	copyright	1 meaning
+e	coquitlam	coquitlam	1 meaning
+e	coral reef	coralreef	1 meaning
+e	cordially	cordially	1 meaning
+e	cordon off	cordonoff	1 meaning
+e	coriander	coriander	2 meanings
+e	corinthia	corinthia	1 meaning
+e	corkscrew	corkscrew	3 meanings
+e	cormorant	cormorant	1 meaning
+e	corn poppy	cornpoppy	1 meaning
+e	corn syrup	cornsyrup	1 meaning
+e	corncrake	corncrake	1 meaning
+e	cornfield	cornfield	1 meaning
+e	corollary	corollary	1 meaning
+e	corpulent	corpulent	1 meaning
+e	corrosion	corrosion	1 meaning
+e	corrupted	corrupted	1 meaning
+e	corsac fox	corsacfox	1 meaning
+e	cortisone	cortisone	1 meaning
+e	cosmetics	cosmetics	1 meaning
+e	cosmic ray	cosmicray	1 meaning
+e	cosmogony	cosmogony	1 meaning
+e	cosmology	cosmology	2 meanings
+e	cosmonaut	cosmonaut	1 meaning
+e	cosplayer	cosplayer	1 meaning
+e	costa rica	costarica	1 meaning
+e	cotangent	cotangent	1 meaning
+e	cotton gin	cottongin	1 meaning
+e	cotyledon	cotyledon	1 meaning
+e	cough drop	coughdrop	1 meaning
+e	counselor	counselor	1 meaning
+e	count down	countdown	1 meaning
+e	count noun	countnoun	1 meaning
+e	countable	countable	3 meanings
+e	countdown	countdown	1 meaning
+e	countless	countless	1 meaning
+e	courgette	courgette	1 meaning
+e	court case	courtcase	1 meaning
+e	courteous	courteous	1 meaning
+e	courtesan	courtesan	2 meanings
+e	courtroom	courtroom	1 meaning
+e	courtship	courtship	1 meaning
+e	courtyard	courtyard	1 meaning
+e	couturier	couturier	1 meaning
+e	covariate	covariate	1 meaning
+e	cowardice	cowardice	1 meaning
+e	cowboy hat	cowboyhat	1 meaning
+e	coast guard	coastguard	1 meaning
+e	coat hanger	coathanger	1 meaning
+e	coat of arms	coatofarms	1 meaning
+e	cobalt blue	cobaltblue	1 meaning
+e	cockatrice	cockatrice	1 meaning
+e	cockchafer	cockchafer	1 meaning
+e	coconut oil	coconutoil	1 meaning
+e	coelacanth	coelacanth	1 meaning
+e	coffee bean	coffeebean	1 meaning
+e	coffin bone	coffinbone	1 meaning
+e	coho salmon	cohosalmon	1 meaning
+e	coimbatore	coimbatore	1 meaning
+e	colchester	colchester	1 meaning
+e	colchicine	colchicine	1 meaning
+e	cold fusion	coldfusion	1 meaning
+e	cold turkey	coldturkey	1 meaning
+e	cold weapon	coldweapon	1 meaning
+e	coleoptile	coleoptile	1 meaning
+e	collateral	collateral	4 meanings
+e	collection	collection	2 meanings
+e	colloquial	colloquial	1 meaning
+e	colloquium	colloquium	1 meaning
+e	color blind	colorblind	1 meaning
+e	colossians	colossians	1 meaning
+e	colourless	colourless	1 meaning
+e	combat boot	combatboot	1 meaning
+e	combinable	combinable	1 meaning
+e	combustion	combustion	1 meaning
+e	comedienne	comedienne	1 meaning
+e	comestible	comestible	1 meaning
+e	comfort-eat	comforteat	1 meaning
+e	comic strip	comicstrip	1 meaning
+e	command key	commandkey	1 meaning
+e	comment out	commentout	1 meaning
+e	commercial	commercial	2 meanings
+e	commission	commission	8 meanings
+e	commissive	commissive	2 meanings
+e	common bean	commonbean	1 meaning
+e	common carp	commoncarp	1 meaning
+e	common cold	commoncold	1 meaning
+e	common good	commongood	1 meaning
+e	common gull	commongull	1 meaning
+e	common name	commonname	1 meaning
+e	common noun	commonnoun	1 meaning
+e	common reed	commonreed	1 meaning
+e	common tern	commontern	1 meaning
+e	common year	commonyear	1 meaning
+e	commutator	commutator	3 meanings
+e	compaction	compaction	1 meaning
+e	comparable	comparable	1 meaning
+e	comparison	comparison	1 meaning
+e	compassion	compassion	1 meaning
+e	compatriot	compatriot	1 meaning
+e	compendium	compendium	1 meaning
+e	compensate	compensate	2 meanings
+e	competitor	competitor	1 meaning
+e	complacent	complacent	1 meaning
+e	complement	complement	3 meanings
+e	completely	completely	2 meanings
+e	completion	completion	1 meaning
+e	complexion	complexion	1 meaning
+e	complexity	complexity	1 meaning
+e	compliable	compliable	1 meaning
+e	compliance	compliance	2 meanings
+e	complicate	complicate	1 meaning
+e	complicity	complicity	1 meaning
+e	compliment	compliment	1 meaning
+e	comprehend	comprehend	1 meaning
+e	compressor	compressor	3 meanings
+e	compromise	compromise	1 meaning
+e	compulsory	compulsory	2 meanings
+e	conception	conception	1 meaning
+e	conceptual	conceptual	1 meaning
+e	concertina	concertina	1 meaning
+e	concession	concession	3 meanings
+e	conchiglie	conchiglie	1 meaning
+e	conchology	conchology	1 meaning
+e	conclusion	conclusion	4 meanings
+e	conclusive	conclusive	1 meaning
+e	concussion	concussion	1 meaning
+e	condolence	condolence	2 meanings
+e	confection	confection	1 meaning
+e	conference	conference	1 meaning
+e	confession	confession	2 meanings
+e	confidence	confidence	4 meanings
+e	confiscate	confiscate	1 meaning
+e	confluence	confluence	1 meaning
+e	congenital	congenital	1 meaning
+e	conjecture	conjecture	3 meanings
+e	connection	connection	5 meanings
+e	conscience	conscience	1 meaning
+e	consortium	consortium	1 meaning
+e	conspiracy	conspiracy	2 meanings
+e	constantly	constantly	1 meaning
+e	constipate	constipate	1 meaning
+e	constitute	constitute	3 meanings
+e	constraint	constraint	1 meaning
+e	consultant	consultant	1 meaning
+e	consummate	consummate	1 meaning
+e	contagious	contagious	1 meaning
+e	contingent	contingent	1 meaning
+e	contraband	contraband	1 meaning
+e	contrabass	contrabass	1 meaning
+e	contractee	contractee	1 meaning
+e	contradict	contradict	2 meanings
+e	contribute	contribute	1 meaning
+e	control key	controlkey	1 meaning
+e	control rod	controlrod	1 meaning
+e	convection	convection	1 meaning
+e	convenient	convenient	1 meaning
+e	convention	convention	4 meanings
+e	conversion	conversion	1 meaning
+e	conveyance	conveyance	1 meaning
+e	conviction	conviction	2 meanings
+e	convulsion	convulsion	1 meaning
+e	convulsive	convulsive	1 meaning
+e	cooked rice	cookedrice	1 meaning
+e	cooking oil	cookingoil	1 meaning
+e	coordinate	coordinate	3 meanings
+e	copenhagen	copenhagen	1 meaning
+e	copernicus	copernicus	1 meaning
+e	coprolalia	coprolalia	1 meaning
+e	coprophagy	coprophagy	1 meaning
+e	copulation	copulation	1 meaning
+e	copywriter	copywriter	1 meaning
+e	cor anglais	coranglais	1 meaning
+e	coral bells	coralbells	1 meaning
+e	cordierite	cordierite	1 meaning
+e	corned beef	cornedbeef	2 meanings
+e	corner kick	cornerkick	1 meaning
+e	cornetfish	cornetfish	1 meaning
+e	cornflakes	cornflakes	1 meaning
+e	cornflower	cornflower	1 meaning
+e	cornstarch	cornstarch	1 meaning
+e	cornucopia	cornucopia	2 meanings
+e	coronation	coronation	1 meaning
+e	corpulence	corpulence	1 meaning
+e	correction	correction	3 meanings
+e	corregidor	corregidor	1 meaning
+e	correspond	correspond	2 meanings
+e	corruption	corruption	1 meaning
+e	corse-du-sud	corsedusud	1 meaning
+e	cosmic dust	cosmicdust	1 meaning
+e	cosmodrome	cosmodrome	1 meaning
+e	cotton swab	cottonswab	1 meaning
+e	couch grass	couchgrass	1 meaning
+e	cough syrup	coughsyrup	1 meaning
+e	counseling	counseling	1 meaning
+e	counterion	counterion	1 meaning
+e	countertop	countertop	1 meaning
+e	countryman	countryman	3 meanings
+e	court of law	courtoflaw	1 meaning
+e	court order	courtorder	1 meaning
+e	courthouse	courthouse	1 meaning
+e	covariance	covariance	1 meaning
+e	cow parsley	cowparsley	1 meaning
+e	cowcatcher	cowcatcher	1 meaning
+e	1 corinthians	corinthians	1 meaning
+e	2 corinthians	corinthians	1 meaning
+e	coach driver	coachdriver	1 meaning
+e	cobblestone	cobblestone	1 meaning
+e	cobra effect	cobraeffect	1 meaning
+e	cochin china	cochinchina	1 meaning
+e	cocktail bar	cocktailbar	1 meaning
+e	cocoa butter	cocoabutter	1 meaning
+e	cocoa powder	cocoapowder	1 meaning
+e	coconut crab	coconutcrab	1 meaning
+e	coconut milk	coconutmilk	1 meaning
+e	coconut palm	coconutpalm	1 meaning
+e	cod liver oil	codliveroil	1 meaning
+e	coeducation	coeducation	1 meaning
+e	coefficient	coefficient	2 meanings
+e	coexistence	coexistence	1 meaning
+e	coffee break	coffeebreak	1 meaning
+e	coffee senna	coffeesenna	1 meaning
+e	coffee table	coffeetable	1 meaning
+e	coffeemaker	coffeemaker	1 meaning
+e	coincidence	coincidence	1 meaning
+e	cold smoking	coldsmoking	1 meaning
+e	cold-blooded	coldblooded	1 meaning
+e	coleopteran	coleopteran	1 meaning
+e	collaborate	collaborate	2 meanings
+e	college town	collegetown	1 meaning
+e	colligation	colligation	1 meaning
+e	collocation	collocation	1 meaning
+e	colonialism	colonialism	1 meaning
+e	colonoscopy	colonoscopy	1 meaning
+e	columbarium	columbarium	1 meaning
+e	combat sport	combatsport	1 meaning
+e	combination	combination	1 meaning
+e	combustible	combustible	2 meanings
+e	come in handy	comeinhandy	1 meaning
+e	come to a head	cometoahead	1 meaning
+e	comfort food	comfortfood	2 meanings
+e	comfort zone	comfortzone	1 meaning
+e	comfortable	comfortable	2 meanings
+e	comic relief	comicrelief	1 meaning
+e	command line	commandline	1 meaning
+e	command post	commandpost	1 meaning
+e	commandment	commandment	1 meaning
+e	commentator	commentator	1 meaning
+e	commiserate	commiserate	1 meaning
+e	common crane	commoncrane	1 meaning
+e	common eider	commoneider	1 meaning
+e	common murre	commonmurre	1 meaning
+e	common quail	commonquail	1 meaning
+e	common raven	commonraven	1 meaning
+e	common sense	commonsense	1 meaning
+e	common snipe	commonsnipe	1 meaning
+e	common swift	commonswift	1 meaning
+e	commonality	commonality	1 meaning
+e	commonplace	commonplace	1 meaning
+e	communicate	communicate	2 meanings
+e	compact disc	compactdisc	1 meaning
+e	compact star	compactstar	1 meaning
+e	comparative	comparative	1 meaning
+e	compartment	compartment	1 meaning
+e	competition	competition	2 meanings
+e	complicated	complicated	1 meaning
+e	composition	composition	4 meanings
+e	compound bow	compoundbow	1 meaning
+e	compound eye	compoundeye	1 meaning
+e	compunction	compunction	1 meaning
+e	computation	computation	1 meaning
+e	computer lab	computerlab	1 meaning
+e	comradeship	comradeship	1 meaning
+e	concealment	concealment	1 meaning
+e	concentrate	concentrate	4 meanings
+e	concert hall	concerthall	1 meaning
+e	concurrence	concurrence	1 meaning
+e	conditional	conditional	2 meanings
+e	condominium	condominium	2 meanings
+e	conductance	conductance	1 meaning
+e	confinement	confinement	1 meaning
+e	congressman	congressman	1 meaning
+e	conjugation	conjugation	4 meanings
+e	conjunction	conjunction	4 meanings
+e	conjunctiva	conjunctiva	1 meaning
+e	conjunctive	conjunctive	2 meanings
+e	connecticut	connecticut	1 meaning
+e	connoisseur	connoisseur	1 meaning
+e	connotation	connotation	1 meaning
+e	consecutive	consecutive	1 meaning
+e	consequence	consequence	1 meaning
+e	considerate	considerate	1 meaning
+e	consilience	consilience	1 meaning
+e	consistency	consistency	1 meaning
+e	consolation	consolation	2 meanings
+e	consolidate	consolidate	2 meanings
+e	conspicuous	conspicuous	2 meanings
+e	constantine	constantine	2 meanings
+e	constituent	constituent	1 meaning
+e	constructor	constructor	1 meaning
+e	consumerism	consumerism	1 meaning
+e	consumption	consumption	1 meaning
+e	contact lens	contactlens	1 meaning
+e	contemplate	contemplate	1 meaning
+e	content word	contentword	1 meaning
+e	contingency	contingency	3 meanings
+e	continually	continually	1 meaning
+e	contraction	contraction	5 meanings
+e	contracture	contracture	1 meaning
+e	contrasting	contrasting	1 meaning
+e	controversy	controversy	1 meaning
+e	convenience	convenience	2 meanings
+e	convergence	convergence	1 meaning
+e	convertible	convertible	1 meaning
+e	cook islands	cookislands	1 meaning
+e	cooperation	cooperation	1 meaning
+e	coordinator	coordinator	1 meaning
+e	copernicium	copernicium	1 meaning
+e	coplanarity	coplanarity	1 meaning
+e	coppersmith	coppersmith	2 meanings
+e	copy editing	copyediting	1 meaning
+e	coral island	coralisland	1 meaning
+e	coresidence	coresidence	1 meaning
+e	corinthians	corinthians	1 meaning
+e	cornerstone	cornerstone	2 meanings
+e	coronavirus	coronavirus	1 meaning
+e	corporation	corporation	1 meaning
+e	corporatism	corporatism	1 meaning
+e	correlation	correlation	1 meaning
+e	cosmopolite	cosmopolite	1 meaning
+e	cotton candy	cottoncandy	1 meaning
+e	cottongrass	cottongrass	1 meaning
+e	counterfeit	counterfeit	2 meanings
+e	counterfoil	counterfoil	1 meaning
+e	counterpart	counterpart	1 meaning
+e	counting rod	countingrod	1 meaning
+e	country club	countryclub	1 meaning
+e	country code	countrycode	1 meaning
+e	countryside	countryside	2 meanings
+e	coup de grâce	coupdegrace	1 meaning
+e	court jester	courtjester	1 meaning
+e	cover charge	covercharge	1 meaning
+e	cover letter	coverletter	1 meaning
+e	côte d'ivoire	cotedivoire	1 meaning
+e	coaxial cable	coaxialcable	1 meaning
+e	cockfighting	cockfighting	1 meaning
+e	coconut water	coconutwater	1 meaning
+e	codification	codification	1 meaning
+e	coelenterate	coelenterate	1 meaning
+e	cohabitation	cohabitation	1 meaning
+e	collaborator	collaborator	1 meaning
+e	collectivism	collectivism	1 meaning
+e	collinearity	collinearity	1 meaning
+e	colonization	colonization	1 meaning
+e	coloring book	coloringbook	1 meaning
+e	column vector	columnvector	1 meaning
+e	comb one's hair	comboneshair	1 meaning
+e	come into play	comeintoplay	1 meaning
+e	comfort woman	comfortwoman	1 meaning
+e	commencement	commencement	2 meanings
+e	commensalism	commensalism	1 meaning
+e	commensurate	commensurate	1 meaning
+e	commissariat	commissariat	1 meaning
+e	common cuckoo	commoncuckoo	1 meaning
+e	common gender	commongender	1 meaning
+e	common linnet	commonlinnet	1 meaning
+e	common minnow	commonminnow	1 meaning
+e	common scoter	commonscoter	1 meaning
+e	common sorrel	commonsorrel	1 meaning
+e	common yarrow	commonyarrow	1 meaning
+e	commonwealth	commonwealth	1 meaning
+e	communicable	communicable	1 meaning
+e	communicator	communicator	1 meaning
+e	compact space	compactspace	1 meaning
+e	compass point	compasspoint	1 meaning
+e	complete game	completegame	1 meaning
+e	complex plane	complexplane	1 meaning
+e	compound leaf	compoundleaf	1 meaning
+e	compound word	compoundword	1 meaning
+e	compulsorily	compulsorily	1 meaning
+e	computer game	computergame	1 meaning
+e	concept album	conceptalbum	1 meaning
+e	concrete noun	concretenoun	1 meaning
+e	concrete verb	concreteverb	1 meaning
+e	condemnation	condemnation	2 meanings
+e	condensation	condensation	3 meanings
+e	conductivity	conductivity	1 meaning
+e	confessional	confessional	1 meaning
+e	confidential	confidential	1 meaning
+e	confirmation	confirmation	2 meanings
+e	confiscation	confiscation	1 meaning
+e	confucianism	confucianism	1 meaning
+e	conglomerate	conglomerate	2 meanings
+e	congratulate	congratulate	1 meaning
+e	congregation	congregation	2 meanings
+e	connectivity	connectivity	1 meaning
+e	conscription	conscription	1 meaning
+e	conservation	conservation	2 meanings
+e	conservatism	conservatism	1 meaning
+e	conservative	conservative	6 meanings
+e	conservatory	conservatory	2 meanings
+e	considerable	considerable	2 meanings
+e	considerably	considerably	1 meaning
+e	consolidated	consolidated	1 meaning
+e	constipation	constipation	1 meaning
+e	constituency	constituency	1 meaning
+e	constitution	constitution	4 meanings
+e	construction	construction	5 meanings
+e	constructive	constructive	3 meanings
+e	consultation	consultation	1 meaning
+e	contemporary	contemporary	2 meanings
+e	contemptible	contemptible	1 meaning
+e	contemptuous	contemptuous	1 meaning
+e	continuation	continuation	1 meaning
+e	continuously	continuously	1 meaning
+e	contrapposto	contrapposto	1 meaning
+e	contribution	contribution	2 meanings
+e	control group	controlgroup	1 meaning
+e	control panel	controlpanel	1 meaning
+e	control tower	controltower	1 meaning
+e	controllable	controllable	1 meaning
+e	contumacious	contumacious	2 meanings
+e	conversation	conversation	1 meaning
+e	conveyor belt	conveyorbelt	1 meaning
+e	cook the books	cookthebooks	1 meaning
+e	cooking apple	cookingapple	1 meaning
+e	cooling tower	coolingtower	1 meaning
+e	corn on the cob	cornonthecob	1 meaning
+e	corporeality	corporeality	1 meaning
+e	corpus luteum	corpusluteum	1 meaning
+e	cosmopolitan	cosmopolitan	1 meaning
+e	cost of living	costofliving	1 meaning
+e	coulrophobia	coulrophobia	1 meaning
+e	countable set	countableset	1 meaning
+e	counterparty	counterparty	1 meaning
+e	counterpoint	counterpoint	1 meaning
+e	countertenor	countertenor	1 meaning
+e	countertrade	countertrade	1 meaning
+e	country music	countrymusic	1 meaning
+e	court martial	courtmartial	1 meaning
+e	courtesy name	courtesyname	1 meaning
+e	covalent bond	covalentbond	1 meaning
+e	cover version	coverversion	1 meaning
+e	cowper's fluid	cowpersfluid	1 meaning
+e	co-father-in-law	cofatherinlaw	1 meaning
+e	co-mother-in-law	comotherinlaw	1 meaning
+e	co-parent-in-law	coparentinlaw	1 meaning
+e	co-sister-in-law	cosisterinlaw	1 meaning
+e	cocktail dress	cocktaildress	1 meaning
+e	cocktail glass	cocktailglass	1 meaning
+e	cocktail party	cocktailparty	1 meaning
+e	cocktail sauce	cocktailsauce	1 meaning
+e	code of conduct	codeofconduct	1 meaning
+e	code-switching	codeswitching	1 meaning
+e	coffee extract	coffeeextract	1 meaning
+e	coffee grinder	coffeegrinder	1 meaning
+e	collaboration	collaboration	3 meanings
+e	collard greens	collardgreens	1 meaning
+e	colloquialism	colloquialism	1 meaning
+e	colored pencil	coloredpencil	1 meaning
+e	colossal squid	colossalsquid	1 meaning
+e	coma berenices	comaberenices	1 meaning
+e	combinatorics	combinatorics	1 meaning
+e	comfort eating	comforteating	1 meaning
+e	comma category	commacategory	1 meaning
+e	commemoration	commemoration	1 meaning
+e	commemorative	commemorative	1 meaning
+e	commit suicide	commitsuicide	1 meaning
+e	common bistort	commonbistort	1 meaning
+e	common kestrel	commonkestrel	1 meaning
+e	common moorhen	commonmoorhen	1 meaning
+e	common mullein	commonmullein	1 meaning
+e	common octopus	commonoctopus	1 meaning
+e	common pochard	commonpochard	1 meaning
+e	common ragweed	commonragweed	1 meaning
+e	common redpoll	commonredpoll	1 meaning
+e	communication	communication	2 meanings
+e	companionship	companionship	1 meaning
+e	compatibility	compatibility	1 meaning
+e	complex number	complexnumber	1 meaning
+e	complimentary	complimentary	1 meaning
+e	comprehension	comprehension	1 meaning
+e	comprehensive	comprehensive	1 meaning
+e	compressed air	compressedair	1 meaning
+e	computer virus	computervirus	1 meaning
+e	concatenation	concatenation	1 meaning
+e	concentration	concentration	4 meanings
+e	concertmaster	concertmaster	1 meaning
+e	condensed milk	condensedmilk	1 meaning
+e	condescending	condescending	1 meaning
+e	confectionery	confectionery	1 meaning
+e	confederation	confederation	1 meaning
+e	configuration	configuration	1 meaning
+e	conflagration	conflagration	1 meaning
+e	confrontation	confrontation	2 meanings
+e	conjoined twin	conjoinedtwin	1 meaning
+e	consanguinity	consanguinity	1 meaning
+e	consciousness	consciousness	1 meaning
+e	conservatoire	conservatoire	1 meaning
+e	consideration	consideration	1 meaning
+e	constellation	constellation	3 meanings
+e	consternation	consternation	1 meaning
+e	constructible	constructible	2 meanings
+e	consul-general	consulgeneral	1 meaning
+e	container ship	containership	1 meaning
+e	contamination	contamination	2 meanings
+e	contrabassoon	contrabassoon	1 meaning
+e	contraception	contraception	1 meaning
+e	contraceptive	contraceptive	2 meanings
+e	contradiction	contradiction	4 meanings
+e	contrast ratio	contrastratio	1 meaning
+e	controversial	controversial	1 meaning
+e	cooling center	coolingcenter	1 meaning
+e	copper sulfate	coppersulfate	1 meaning
+e	copper sulfide	coppersulfide	1 meaning
+e	coriolis force	coriolisforce	1 meaning
+e	correspondent	correspondent	1 meaning
+e	cosmetologist	cosmetologist	1 meaning
+e	cottage cheese	cottagecheese	1 meaning
+e	cottonseed oil	cottonseedoil	1 meaning
+e	counter-attack	counterattack	1 meaning
+e	counteraction	counteraction	2 meanings
+e	counterfeiter	counterfeiter	1 meaning
+e	counting rhyme	countingrhyme	1 meaning
+e	co-brother-in-law	cobrotherinlaw	1 meaning
+e	cocha antshrike	cochaantshrike	1 meaning
+e	cock-a-doodle-doo	cockadoodledoo	1 meaning
+e	coeliac disease	coeliacdisease	1 meaning
+e	collective noun	collectivenoun	1 meaning
+e	color blindness	colorblindness	1 meaning
+e	colorado beetle	coloradobeetle	1 meaning
+e	comitative case	comitativecase	1 meaning
+e	commit adultery	commitadultery	1 meaning
+e	common hepatica	commonhepatica	1 meaning
+e	common hill myna	commonhillmyna	1 meaning
+e	common marmoset	commonmarmoset	1 meaning
+e	common multiple	commonmultiple	1 meaning
+e	common purslane	commonpurslane	1 meaning
+e	common redshank	commonredshank	1 meaning
+e	common redstart	commonredstart	1 meaning
+e	common shelduck	commonshelduck	1 meaning
+e	common starling	commonstarling	1 meaning
+e	common woodrush	commonwoodrush	1 meaning
+e	commotio cordis	commotiocordis	1 meaning
+e	communist china	communistchina	1 meaning
+e	communist party	communistparty	1 meaning
+e	complementizer	complementizer	1 meaning
+e	compound butter	compoundbutter	1 meaning
+e	comprehensible	comprehensible	1 meaning
+e	conditionality	conditionality	1 meaning
+e	conduction band	conductionband	1 meaning
+e	congratulation	congratulation	1 meaning
+e	conjunctivitis	conjunctivitis	1 meaning
+e	connected space	connectedspace	1 meaning
+e	constantinople	constantinople	1 meaning
+e	constructivism	constructivism	1 meaning
+e	contact details	contactdetails	1 meaning
+e	contact tracing	contacttracing	1 meaning
+e	contract bridge	contractbridge	1 meaning
+e	contraposition	contraposition	1 meaning
+e	contrapositive	contrapositive	1 meaning
+e	coquettishness	coquettishness	1 meaning
+e	corona borealis	coronaborealis	1 meaning
+e	coronary artery	coronaryartery	1 meaning
+e	correction tape	correctiontape	1 meaning
+e	correspondence	correspondence	4 meanings
+e	corrugated iron	corrugatediron	1 meaning
+e	corticosterone	corticosterone	1 meaning
+e	counterculture	counterculture	1 meaning
+e	counterexample	counterexample	1 meaning
+e	countermeasure	countermeasure	1 meaning
+e	country bumpkin	countrybumpkin	1 meaning
+e	cochlear implant	cochlearimplant	1 meaning
+e	collared peccary	collaredpeccary	1 meaning
+e	color coordinate	colorcoordinate	2 meanings
+e	come to grips with	cometogripswith	1 meaning
+e	commerce raiding	commerceraiding	1 meaning
+e	commodification	commodification	1 meaning
+e	common chickweed	commonchickweed	1 meaning
+e	common goldeneye	commongoldeneye	1 meaning
+e	common logarithm	commonlogarithm	1 meaning
+e	common rosefinch	commonrosefinch	1 meaning
+e	common sandpiper	commonsandpiper	1 meaning
+e	communist bandit	communistbandit	1 meaning
+e	commutative ring	commutativering	1 meaning
+e	companion animal	companionanimal	1 meaning
+e	complex analysis	complexanalysis	1 meaning
+e	complex fraction	complexfraction	1 meaning
+e	complex sentence	complexsentence	1 meaning
+e	composite number	compositenumber	1 meaning
+e	compression sock	compressionsock	1 meaning
+e	computer program	computerprogram	1 meaning
+e	computer science	computerscience	1 meaning
+e	computerization	computerization	1 meaning
+e	confessions page	confessionspage	1 meaning
+e	congratulations	congratulations	1 meaning
+e	consolation goal	consolationgoal	1 meaning
+e	contemporaneous	contemporaneous	1 meaning
+e	controllability	controllability	1 meaning
+e	convenience food	conveniencefood	1 meaning
+e	cookies and cream	cookiesandcream	1 meaning
+e	coracoid process	coracoidprocess	1 meaning
+e	corona australis	coronaaustralis	1 meaning
+e	correction fluid	correctionfluid	1 meaning
+e	correspondingly	correspondingly	1 meaning
+e	corynebacterium	corynebacterium	1 meaning
+e	cosmopolitanism	cosmopolitanism	1 meaning
+e	costochondritis	costochondritis	1 meaning
+e	cowgirl position	cowgirlposition	1 meaning
+e	cognitive science	cognitivescience	1 meaning
+e	collateral damage	collateraldamage	1 meaning
+e	collectivization	collectivization	1 meaning
+e	colossus of rhodes	colossusofrhodes	1 meaning
+e	colour revolution	colourrevolution	1 meaning
+e	colour television	colourtelevision	1 meaning
+e	combine harvester	combineharvester	1 meaning
+e	commander islands	commanderislands	1 meaning
+e	commander-in-chief	commanderinchief	1 meaning
+e	common greenshank	commongreenshank	1 meaning
+e	common kingfisher	commonkingfisher	1 meaning
+e	common rock thrush	commonrockthrush	1 meaning
+e	common sow thistle	commonsowthistle	1 meaning
+e	communitarianism	communitarianism	1 meaning
+e	compass jellyfish	compassjellyfish	1 meaning
+e	competitive eater	competitiveeater	1 meaning
+e	complex conjugate	complexconjugate	1 meaning
+e	compound interest	compoundinterest	1 meaning
+e	compound sentence	compoundsentence	1 meaning
+e	computer language	computerlanguage	1 meaning
+e	computer literacy	computerliteracy	1 meaning
+e	computer security	computersecurity	1 meaning
+e	confirmation bias	confirmationbias	1 meaning
+e	connective tissue	connectivetissue	1 meaning
+e	consequentialism	consequentialism	1 meaning
+e	consolation prize	consolationprize	1 meaning
+e	consonant cluster	consonantcluster	1 meaning
+e	conspiracy theory	conspiracytheory	1 meaning
+e	construction site	constructionsite	1 meaning
+e	continental drift	continentaldrift	1 meaning
+e	continental shelf	continentalshelf	1 meaning
+e	continental slope	continentalslope	1 meaning
+e	control character	controlcharacter	1 meaning
+e	convenience store	conveniencestore	1 meaning
+e	convergent series	convergentseries	1 meaning
+e	coonstripe shrimp	coonstripeshrimp	1 meaning
+e	coordinate clause	coordinateclause	1 meaning
+e	coordinate system	coordinatesystem	1 meaning
+e	cotton pygmy goose	cottonpygmygoose	1 meaning
+e	counter-offensive	counteroffensive	1 meaning
+e	counterespionage	counterespionage	1 meaning
+e	court of cassation	courtofcassation	1 meaning
+e	coccygeal vertebra	coccygealvertebra	1 meaning
+e	cognate accusative	cognateaccusative	1 meaning
+e	coitus interruptus	coitusinterruptus	1 meaning
+e	collared antshrike	collaredantshrike	1 meaning
+e	collector's edition	collectorsedition	1 meaning
+e	columbian exchange	columbianexchange	1 meaning
+e	combustion chamber	combustionchamber	1 meaning
+e	commanding officer	commandingofficer	1 meaning
+e	common denominator	commondenominator	1 meaning
+e	common house martin	commonhousemartin	1 meaning
+e	common-law marriage	commonlawmarriage	1 meaning
+e	commonwealth games	commonwealthgames	1 meaning
+e	computer scientist	computerscientist	1 meaning
+e	concentration camp	concentrationcamp	1 meaning
+e	conceptualisation	conceptualisation	1 meaning
+e	condensation trail	condensationtrail	1 meaning
+e	conditioned reflex	conditionedreflex	1 meaning
+e	conservative party	conservativeparty	1 meaning
+e	consociationalism	consociationalism	1 meaning
+e	constitutionalize	constitutionalize	1 meaning
+e	construction paper	constructionpaper	1 meaning
+e	continued fraction	continuedfraction	1 meaning
+e	cookiecutter shark	cookiecuttershark	1 meaning
+e	cost-effectiveness	costeffectiveness	1 meaning
+e	counterproductive	counterproductive	1 meaning
+e	counterrevolution	counterrevolution	1 meaning
+e	collared flycatcher	collaredflycatcher	1 meaning
+e	collared pratincole	collaredpratincole	1 meaning
+e	collective security	collectivesecurity	1 meaning
+e	come out of the closet	comeoutofthecloset	1 meaning
+e	computed tomography	computedtomography	1 meaning
+e	conflict of interest	conflictofinterest	1 meaning
+e	consecutio temporum	consecutiotemporum	1 meaning
+e	consonant gradation	consonantgradation	1 meaning
+e	consumer price index	consumerpriceindex	1 meaning
+e	conventional wisdom	conventionalwisdom	1 meaning
+e	corporal punishment	corporalpunishment	1 meaning
+e	cognitive dissonance	cognitivedissonance	1 meaning
+e	cognitive psychology	cognitivepsychology	1 meaning
+e	come hell or high water	comehellorhighwater	1 meaning
+e	common european adder	commoneuropeanadder	1 meaning
+e	communicating vessel	communicatingvessel	1 meaning
+e	comparative linguist	comparativelinguist	1 meaning
+e	complementary angles	complementaryangles	1 meaning
+e	complementary colour	complementarycolour	1 meaning
+e	compulsory education	compulsoryeducation	1 meaning
+e	computer engineering	computerengineering	1 meaning
+e	computer programming	computerprogramming	1 meaning
+e	constitutional court	constitutionalcourt	1 meaning
+e	constructed language	constructedlanguage	1 meaning
+e	construction grammar	constructiongrammar	1 meaning
+e	coronal mass ejection	coronalmassejection	1 meaning
+e	cognitive linguistics	cognitivelinguistics	1 meaning
+e	collective punishment	collectivepunishment	1 meaning
+e	command line interface	commandlineinterface	1 meaning
+e	communication studies	communicationstudies	1 meaning
+e	complementary antonym	complementaryantonym	1 meaning
+e	comprador bourgeoisie	compradorbourgeoisie	1 meaning
+e	counterrevolutionary	counterrevolutionary	1 meaning
+e	coefficient of friction	coefficientoffriction	1 meaning
+e	commonwealth of nations	commonwealthofnations	1 meaning
+e	computational geometry	computationalgeometry	1 meaning
+e	conscientious objector	conscientiousobjector	1 meaning
+e	constant of integration	constantofintegration	1 meaning
+e	constitutionalization	constitutionalization	1 meaning
+e	copyright infringement	copyrightinfringement	1 meaning
+e	commonwealth of virginia	commonwealthofvirginia	1 meaning
+e	comparative linguistics	comparativelinguistics	1 meaning
+e	computational chemistry	computationalchemistry	1 meaning
+e	congestive heart failure	congestiveheartfailure	1 meaning
+e	constitutional monarchy	constitutionalmonarchy	1 meaning
+e	correlation coefficient	correlationcoefficient	1 meaning
+e	could i see the menu, please	couldiseethemenuplease	1 meaning
+e	commonwealth of australia	commonwealthofaustralia	1 meaning
+e	compensatory lengthening	compensatorylengthening	1 meaning
+e	coefficient of restitution	coefficientofrestitution	1 meaning
+e	commonwealth of puerto rico	commonwealthofpuertorico	1 meaning
+e	computational linguistics	computationallinguistics	1 meaning
+e	coordinated universal time	coordinateduniversaltime	1 meaning
+e	complementary distribution	complementarydistribution	1 meaning
+e	cognitive behavioral therapy	cognitivebehavioraltherapy	1 meaning
+e	collaborative project management	collaborativeprojectmanagement	1 meaning
+e	commonwealth of independent states	commonwealthofindependentstates	1 meaning

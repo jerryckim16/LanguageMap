@@ -1,0 +1,2 @@
+e	dvd	dvd	1 meaning
+e	dvorak	dvorak	1 meaning

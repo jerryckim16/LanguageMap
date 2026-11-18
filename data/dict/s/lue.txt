@@ -1,0 +1,96 @@
+j	うえ	ue	hunger
+j	ウエー	ue	ウェイ: A way.
+j	上	ue	the above
+j	筌	ue	a device placed in a rive…
+j	飢え	ue	
+j	うえーん	uen	Onomatopoeia for the soun…
+j	ウエア	uea	clothing, wear
+j	ウエイ	uei	ウェイ: A way.
+j	迂遠	uen	roundabout, circuitous, i…
+k	우어	ueo	whoa!; whoa back!; halt!
+j	うえうえ	ueue	身分が高い人達。
+j	うえき	ueki	鉢や庭などに植えられる観賞用または造園を目的とした…
+j	うえの	ueno	集落の上の方に広がる草原。
+j	うえる	ueru	植物の根や種を土に埋めて育つようにする。
+j	ウエス	uesu	cleaning rag
+j	ウエハー	ueha	集積回路をつくるための基板。
+j	ウエーター	ueta	waiter
+j	ウエート	ueto	「ウェイト」の表記ゆれ。
+j	ウエーブ	uebu	「ウェーブ」の表記ゆれ。
+j	上に	ueni	in addition to; as well as
+j	上の	ueno	
+j	上田	ueda	Ueda (a city in Nagano Pr…
+j	上野	ueno	a placename, such as that…
+j	植える	ueru	to plant, raise
+j	植木	ueki	a planted tree or shrub, …
+j	植田	ueda	a surname
+j	飢える	ueru	to starve, to be hungry
+k	우언	ueon	allegory, fable
+j	ウエイター	ueita	「ウエーター」の表記ゆれ。
+j	ウエイト	ueito	weight, force due to grav…
+j	上地	uechi	a surname
+j	右衛門	uemon	a male given name
+j	植え替え	uekae	
+j	羽越	uetsu	出羽国（または羽前国、羽後国）と越後国、越中国、越…
+k	우엉	ueong	burdock
+k	우엘바	uelba	
+j	うえがわ	uegawa	上の側。上方。
+j	うえきや	uekiya	植木を売る店。
+j	うえこみ	uekomi	dense growth of plants
+j	うえこむ	uekomu	草木を土の地面に植え入れる。
+j	うえじに	uejini	飢えて死ぬこと。
+j	うえむき	uemuki	上方へ向くこと。
+j	ウエスト	uesuto	waist size
+j	ウエズド	uezudo	
+j	ウエハース	uehasu	a wafer (the food item)
+j	ウエルバ	ueruba	
+j	上人	uebito	court officials, courtiers
+j	上原	uehara	a neighborhood of Ichihar…
+j	上園	uezono	a surname
+j	上坂	uesaka	a surname
+j	上杉	uesugi	a surname
+j	上様	uesama	form of address or refere…
+j	植え物	uemono	general term for cultivat…
+j	植村	uemura	a surname
+j	植疱瘡	ueboso	種痘のこと。天然痘の予防接種。
+j	植草	uekusa	a surname
+j	うえかえる	uekaeru	植物を他の鉢や場所に移して植える。
+j	うえつけ	uetsuke	「うえつける」の連用形。
+j	ウエスタン	uesutan	western (film genre)
+j	ウエディング	uedingu	結婚式、婚礼。
+j	上付き	uetsuki	the state of being supers…
+j	上揃え	uesoroe	top alignment
+j	上目線	uemesen	
+j	上西	uenishi	a surname
+j	右衛門府	uemonfu	the junior/lesser Emonfu
+j	植松	uematsu	a surname
+j	うえちち	uechichi	乳房で衣服の横からはみ出した部分。
+j	ウェールズ公	ueruzuko	
+j	ウエートレス	uetoresu	洋風の飲食店での女性の給仕人。
+j	上ボルタ	ueboruta	
+j	上乳	uechichi	the upper part of a breast
+j	飢えさせる	uesaseru	
+j	うえつける	uetsukeru	苗などを一定の場所に植え、根付かせる。
+j	ウエイトレス	ueitoresu	「ウエートレス」の表記ゆれ。
+j	上の名前	uenonamae	姓。名字。
+j	植え付ける	uetsukeru	to plant
+j	植木鉢	uekibachi	flowerpot
+j	うえのはかま	uenohakama	男子の正装である束帯に使用する袴。
+j	ウェルビーイング	uerubiingu	
+j	ウエイターをする	ueitaosuru	
+j	上で述べた	uedenobeta	
+j	上を向けて	uewomukete	
+j	ウェットティッシュ	uettotisshu	水のほか場合により消毒液、香料、清涼剤などを加えた…
+j	ウエットティッシュ	uettotisshu	「ウェットティッシュ」の表記ゆれ。
+j	ウエディングケーキ	uedingukeki	「ウェディングケーキ」の表記ゆれ。
+j	上から目線	uekaramesen	condescending attitude
+j	ウエストコースト	uesutokosuto	
+j	ウエディングドレス	uedingudoresu	「ウェディングドレス」の表記ゆれ。
+j	上オーストリア州	ueosutoriashu	
+j	上杉謙信	uesugikenshin	戦国時代（1530年（享禄3年）1月21日 ‐ 1…
+j	ウエイトリフティング	ueitorifutingu	
+j	ウエイトレスをする	ueitoresuosuru	
+j	上コルシカ県	uekorushikaken	
+j	ウエストナイルウイルス	uesutonairuuirusu	
+j	上三角行列	uesankakugyoretsu	upper triangular matrix
+j	ウェストミンスター宮殿	uesutominsutakyuden	

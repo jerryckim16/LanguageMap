@@ -1,0 +1,658 @@
+j	ウィー	wi	
+j	囲	wi	counter for the amount th…
+k	위	wi	above, upper, upside, top
+e	wie	wie	1 meaning
+e	wig	wig	1 meaning
+e	wii	wii	1 meaning
+e	win	win	3 meanings
+e	wit	wit	1 meaning
+j	ウィーン	win	Vienna (the capital city …
+j	維也納	win	
+j	維納	win	
+k	위에	wie	
+k	윈	win	Vienna (the capital city …
+e	-wise	wise	1 meaning
+e	wi-fi	wifi	1 meaning
+e	wick	wick	1 meaning
+e	wide	wide	1 meaning
+e	wife	wife	1 meaning
+e	wiki	wiki	3 meanings
+e	wild	wild	1 meaning
+e	wile	wile	1 meaning
+e	will	will	3 meanings
+e	wily	wily	1 meaning
+e	wimp	wimp	1 meaning
+e	wind	wind	10 meanings
+e	wine	wine	3 meanings
+e	wing	wing	5 meanings
+e	wink	wink	2 meanings
+e	wipe	wipe	2 meanings
+e	wire	wire	3 meanings
+e	wise	wise	1 meaning
+e	wish	wish	2 meanings
+e	with	with	1 meaning
+j	うぃる	wiru	SNSなどで投稿の末尾につけて、その行動を予定して…
+j	うぃーす	wisu	
+j	ウィキ	wiki	wiki
+j	ウィズ	wizu	（主に複合語で）一緒にいること。共生していること。
+j	ウィドー	wido	
+j	ウィナー	wina	
+j	ウィニー	wini	マナコストが軽いクリーチャー。
+j	ウィル	wiru	「ウイル」の異表記。
+j	ウィーク	wiku	週間。
+j	義州	wiju	
+k	위기	wigi	crisis; impending danger
+k	위도	wido	latitude
+k	위로	wiro	말이나 물질적 도움으로 다른 사람의 슬픈 마음…
+k	위사	wisa	대궐, 능, 관아, 군영 따위를 지키던 장교.
+k	위세	wise	사람을 위압하는 기세.
+k	위수	wisu	수의 자리. 일, 십, 백, 천, 만 따위가 …
+k	위시	wisi	
+k	위악	wiak	
+k	위안	wian	solace
+k	위암	wiam	위에 생기는 암.
+k	위압	wiap	
+k	위요	wiyo	
+k	위의	wiui	
+k	위인	wiin	성품이 훌륭하거나 행적이 남달리 뛰어나 남으로…
+k	위임	wiim	assignment, charge
+k	위조	wijo	counterfeit; forgery; fake
+k	위주	wiju	
+k	위카	wika	
+k	위키	wiki	wiki
+k	위하	wiha	
+k	위호	wiho	벼슬의 등급 및 그 이름.
+k	윙	wing	
+e	wicca	wicca	1 meaning
+e	widen	widen	4 meanings
+e	widow	widow	2 meanings
+e	width	width	1 meaning
+e	wield	wield	1 meaning
+e	wilco	wilco	1 meaning
+e	willy	willy	1 meaning
+e	winch	winch	1 meaning
+e	windy	windy	2 meanings
+e	witch	witch	2 meanings
+j	うぃーっす	wissu	hello
+j	ウィッカ	wikka	Wicca (religion)
+j	ウィッグ	wiggu	洋風のかつら。
+j	ウィンカー	winka	「ウインカー」の表記ゆれ。
+j	ウィンク	winku	
+j	ウィンター	winta	winter
+j	ウィンド	windo	風。
+j	ウィンドウ	windo	a window, an opening in a…
+j	ウィンドー	windo	「ウィンドウ」の表記ゆれ。
+j	ウィンナー	winna	ウィーンの。
+k	위거	wigeo	rotating device or wheel …
+k	위계	wigye	
+k	위국	wiguk	
+k	위대	widae	great; greatness
+k	위독	widok	critical illness
+k	위락	wirak	recreation, amusement
+k	위문	wimun	
+k	위반	wiban	violation, breach
+k	위배	wibae	
+k	위산	wisan	
+k	위신	wisin	prestige, dignity
+k	위액	wiaek	
+k	위약	wiyak	약속이나 계약을 어김.
+k	위엄	wieom	태도나 말이 남을 꼼짝 못하게 할 만큼 기운이…
+k	위업	wieop	great achievement; exploit
+k	위원	wiwon	member of a committee
+k	위작	wijak	
+k	위족	wijok	
+k	위치	wichi	location
+k	위킷	wikit	
+k	위탁	witak	commission, consignment
+k	위팔	wipal	upper arm; (in compounds)…
+k	위패	wipae	죽은 사람의 이름을 적어 그의 혼을 대신한다고…
+k	위폐	wipye	'위조지폐'.
+k	위품	wipum	
+k	위학	wihak	
+k	위해	wihae	위험과 재해.
+k	위화	wihwa	조화(調和)가 어그러짐.
+k	위훈	wihun	great service; distinguis…
+k	윈도	windo	Windows
+k	윈푸	winpu	
+k	윗다	witda	
+k	윗옷	widot	upper garment
+e	wicked	wicked	2 meanings
+e	wicker	wicker	1 meaning
+e	wigeon	wigeon	1 meaning
+e	wigwam	wigwam	1 meaning
+e	wikify	wikify	1 meaning
+e	wildly	wildly	1 meaning
+e	willow	willow	1 meaning
+e	wilson	wilson	1 meaning
+e	wind up	windup	1 meaning
+e	window	window	2 meanings
+e	winery	winery	1 meaning
+e	wing it	wingit	1 meaning
+e	winger	winger	1 meaning
+e	winner	winner	1 meaning
+e	winnow	winnow	1 meaning
+e	winter	winter	3 meanings
+e	wisdom	wisdom	6 meanings
+e	wisent	wisent	1 meaning
+e	wither	wither	1 meaning
+e	within	within	1 meaning
+e	wizard	wizard	2 meanings
+j	ウィキる	wikiru	
+j	ウィキ化	wikika	
+j	ウィザード	wizado	a wizard
+j	ウィスキー	wisuki	蒸留酒の一つで、大麦、ライ麦、トウモロコシなどの穀…
+j	ウィッチ	witchi	witch
+j	ウィルス	wirusu	
+j	ウィルタ	wiruta	樺太北部を中心に暮らすツングース人の一派。
+j	ウィンウィン	winwin	win-win (a win-win situat…
+j	ウィンチ	winchi	「ウインチ」の表記ゆれ。
+j	ウィークデー	wikude	1週間のうち、休日以外の日。平日。
+j	ウィークリー	wikuri	weekly
+j	ウィーモート	wimoto	
+k	위관	wigwan	junior officer
+k	위글	wigeul	synonym of 위구르 (wigureu, …
+k	위급	wigeup	
+k	위꼴	wikkol	
+k	위로조	wirojo	
+k	위망	wimang	
+k	위법	wibeop	
+k	위선	wiseon	hypocrisy
+k	위수지	wisuji	
+k	위아래	wiarae	up and down, top and bott…
+k	위안부	wianbu	comfort woman (woman forc…
+k	위안제	wianje	
+k	위염	wiyeom	gastritis
+k	위요지	wiyoji	
+k	위용	wiyong	
+k	위임자	wiimja	
+k	위장	wijang	
+k	위조자	wijoja	forger, counterfeiter
+k	위중	wijung	족태양방광경(足太陽膀胱經)에 속하는 혈(穴).…
+k	위쪽	wijjok	upper part
+k	위촉	wichok	
+k	위축	wichuk	withering
+k	위턱	witeok	upper jaw, maxilla
+k	위풍	wipung	사람을 두렵게 하여 우러러보게 하는 겉모습이나…
+k	위하다	wihada	to help, to serve, to ben…
+k	위하수	wihasu	
+k	위헌	wiheon	
+k	위험	wiheom	danger
+k	윈난	winnan	Yunnan (a province in sou…
+k	윈도우	windou	Windows
+k	윈치	winchi	
+k	윗몸	winmom	upper body
+k	윗물	witmul	
+k	윙어	wingeo	
+e	widower	widower	1 meaning
+e	wiimote	wiimote	1 meaning
+e	wildcat	wildcat	1 meaning
+e	wilkins	wilkins	1 meaning
+e	william	william	1 meaning
+e	winding	winding	1 meaning
+e	windows	windows	1 meaning
+e	wine bar	winebar	1 meaning
+e	winecup	winecup	1 meaning
+e	wipe off	wipeoff	1 meaning
+e	wipe out	wipeout	1 meaning
+e	wiretap	wiretap	2 meanings
+e	wise man	wiseman	1 meaning
+e	witness	witness	5 meanings
+j	ウィジェット	wijetto	待受画面やデスクトップで何らかの情報を配置した枠の…
+j	ウィチタ	wichita	Wichita (a large city, th…
+j	ウィックロー	wikkuro	Wicklow (a county of Irel…
+j	ウィリアム	wiriamu	William
+j	ウィルソン	wiruson	a transliteration of the …
+j	ウィンドウズ	windozu	
+k	위격	wigyeok	
+k	위광	wigwang	
+k	위구르	wigureu	Uyghur
+k	위구심	wigusim	
+k	위기감	wigigam	
+k	위니펙	winipek	[~시(市)] Winnipeg (the cap…
+k	위력	wiryeok	might, formidable power
+k	위반자	wibanja	
+k	위벽	wibyeok	
+k	위생	wisaeng	hygiene
+k	위성	wiseong	satellite
+k	위스키	wiseuki	whisky (alcoholic drink)
+k	위약자	wiyakja	
+k	위원부	wiwonbu	
+k	위자료	wijaryo	alimony, compensation, se…
+k	위조죄	wijojoe	
+k	위조품	wijopum	
+k	위증	wijeung	perjury
+k	위챗	wichaet	
+k	위칭	wiching	
+k	위키화	wikihwa	wikification
+k	위하여	wihayeo	
+k	위협	wihyeop	threat, menace
+k	윌슨	wilseun	
+k	윗도리	witdori	
+k	윙크	wingkeu	wink
+e	wikitext	wikitext	1 meaning
+e	wild boar	wildboar	1 meaning
+e	wild card	wildcard	1 meaning
+e	wild goat	wildgoat	1 meaning
+e	wild leek	wildleek	1 meaning
+e	wildcard	wildcard	1 meaning
+e	wildfire	wildfire	1 meaning
+e	wildlife	wildlife	1 meaning
+e	wildness	wildness	1 meaning
+e	williams	williams	1 meaning
+e	wind back	windback	1 meaning
+e	wind farm	windfarm	1 meaning
+e	windfall	windfall	1 meaning
+e	windhoek	windhoek	1 meaning
+e	windmill	windmill	5 meanings
+e	windpipe	windpipe	1 meaning
+e	windsock	windsock	1 meaning
+e	wing chun	wingchun	1 meaning
+e	wing-back	wingback	1 meaning
+e	wingback	wingback	1 meaning
+e	winnable	winnable	1 meaning
+e	winnipeg	winnipeg	3 meanings
+e	wireless	wireless	3 meanings
+e	wish list	wishlist	1 meaning
+e	wishbone	wishbone	1 meaning
+e	wisteria	wisteria	1 meaning
+e	withdraw	withdraw	4 meanings
+e	wizardry	wizardry	2 meanings
+j	ウィキする	wikisuru	
+j	ウィキソース	wikisosu	ウィキメディア財団が運営する、文学や法律などの原文…
+j	ウィキデータ	wikideta	ウィキメディア財団が運営･提供するウィキを採用した…
+j	ウィグワム	wiguwamu	
+j	ウィドウ・メーカー	widomeka	
+j	ウィニペグ	winipegu	Winnipeg (the capital cit…
+j	ウィルタ語	wirutago	ツングース諸語に属するウィルタ民族の言語。消滅寸前…
+j	ウィークエンド	wikuendo	週末。
+j	ウィーチャット	wichatto	
+k	위 쿼크	wikwokeu	
+k	위경	wigyeong	위(胃)에 속하고 비(脾)에 이어진 경맥.
+k	위도선	widoseon	
+k	위령	wiryeong	
+k	위로금	wirogeum	
+k	위로연	wiroyeon	
+k	위로하다	wirohada	to console; to comfort
+k	위문단	wimundan	
+k	위문대	wimundae	
+k	위문문	wimunmun	
+k	위문품	wimunpum	
+k	위병	wibyeong	guard; sentry
+k	위상어	wisangeo	
+k	위선자	wiseonja	hypocrite (person practis…
+k	위시하다	wisihada	
+k	위안처	wiancheo	
+k	위안하다	wianhada	to comfort
+k	위압적	wiapjeok	
+k	위압하다	wiaphada	
+k	위원회	wiwonhoe	committee
+k	위인전	wiinjeon	
+k	위임장	wiimjang	
+k	위임하다	wiimhada	
+k	위저드	wijeodeu	
+k	위조된	wijodoen	
+k	위조하다	wijohada	무엇을 진짜처럼 보이게 거짓으로 만들다.
+k	위층	wicheung	upstairs
+k	위치각	wichigak	
+k	위키위키	wikiwiki	
+k	위패목	wipaemok	
+k	위항인	wihangin	조선 시대에 중인, 서얼, 서리 등의 중서 신…
+k	위해물	wihaemul	
+k	위험시	wiheomsi	
+k	위화감	wihwagam	a sense of disharmony or …
+k	윈도스	windoseu	
+k	윈도우 키	windouki	
+k	윌리엄	willieom	a transliteration of the …
+k	윗녘	witnyeok	
+k	윗변	witbyeon	
+k	윗사람	witsaram	one's seniors, elders
+k	윗입술	wisipsul	
+k	윙백	wingbaek	
+e	wikiholic	wikiholic	1 meaning
+e	wikipedia	wikipedia	1 meaning
+e	wild goose	wildgoose	1 meaning
+e	wild pansy	wildpansy	1 meaning
+e	wild pitch	wildpitch	1 meaning
+e	wilkinson	wilkinson	1 meaning
+e	willingly	willingly	1 meaning
+e	willow tit	willowtit	1 meaning
+e	willpower	willpower	1 meaning
+e	wind power	windpower	1 meaning
+e	wind speed	windspeed	1 meaning
+e	windproof	windproof	1 meaning
+e	wine glass	wineglass	1 meaning
+e	winter war	winterwar	1 meaning
+e	wireframe	wireframe	1 meaning
+e	wisconsin	wisconsin	1 meaning
+e	witch-hunt	witchhunt	2 meanings
+e	withdrawn	withdrawn	1 meaning
+e	withstand	withstand	1 meaning
+j	ウィキクォート	wikikuoto	ウィキメディア財団が提供する、インターネット上でウ…
+j	ウィキジュニア	wikijunia	ウィキメディア財団が運営する、児童向けの書籍の作成…
+j	ウィキニュース	wikinyusu	ウィキメディア財団が提供する、インターネット上でウ…
+j	ウィキピディア	wikipidia	
+j	ウィキペディア	wikipedia	Wikipedia
+j	ウィクトーリア	wikutoria	Victoria
+j	ウィリアムス	wiriamusu	Williams
+j	ウィリアムズ	wiriamuzu	Williams
+j	ウィルキンス	wirukinsu	
+j	ウィンドサーファー	windosafa	ウィンドサーフィンの選手。
+j	ウィンドファーム	windofamu	
+j	ワィフレエム	wifureemu	
+k	위구르어	wigureueo	the Uyghur language
+k	위궤양	wigweyang	
+k	위기의식	wigiuisik	
+k	위기일발	wigiilbal	
+k	위대하다	widaehada	great; remarkable
+k	위독하다	widokhada	
+k	위문하다	wimunhada	
+k	위반하다	wibanhada	
+k	위배하다	wibaehada	
+k	위압되다	wiapdoeda	
+k	위약금	wiyakgeum	계약해제로 인한 손해배상액을 미리 정해 둔 것…
+k	위약하다	wiyakhada	
+k	위원장	wiwonjang	The chairman or chairwoma…
+k	위임되다	wiimdoeda	
+k	위장복	wijangbok	
+k	위장약	wijangyak	
+k	위정자	wijeongja	
+k	위조되다	wijodoeda	
+k	위조지폐	wijojipye	counterfeit money
+k	위처짐	wicheojim	
+k	위축감	wichukgam	
+k	위층에	wicheunge	
+k	위치 부사	wichibusa	
+k	위치하다	wichihada	to be located, to lie
+k	위친계	wichingye	
+k	위키책	wikichaek	위키 형식으로 된, 누구나 편집할 수 있는 열…
+k	위키피디아	wikipidia	Wikipedia
+k	위타천	witacheon	
+k	위탁금	witakgeum	
+k	위탁하다	witakhada	어디에 맡기다.
+k	위패당	wipaedang	
+k	위허하다	wiheohada	위가 허약하다.
+k	위험물	wiheommul	
+k	위험한	wiheomhan	
+k	윌뉴스	willyuseu	Vilnius (the capital city…
+k	윌킨스	wilkinseu	
+k	윕실론	wipsillon	그리스어 알파벳의 스무째 글자, Υ / υ. …
+k	윗어른	witeoreun	'웃어른'의 비표준어.
+e	wickerwork	wickerwork	1 meaning
+e	widescreen	widescreen	2 meanings
+e	widow-maker	widowmaker	1 meaning
+e	wiki markup	wikimarkup	1 meaning
+e	wikipedian	wikipedian	2 meanings
+e	wiktionary	wiktionary	1 meaning
+e	wild animal	wildanimal	1 meaning
+e	wild cotton	wildcotton	1 meaning
+e	wild turkey	wildturkey	1 meaning
+e	wilderness	wilderness	1 meaning
+e	wildflower	wildflower	1 meaning
+e	willebroek	willebroek	1 meaning
+e	willemstad	willemstad	1 meaning
+e	willy-nilly	willynilly	1 meaning
+e	winchester	winchester	1 meaning
+e	wind chimes	windchimes	1 meaning
+e	window seat	windowseat	1 meaning
+e	windowpane	windowpane	1 meaning
+e	windows key	windowskey	1 meaning
+e	windowsill	windowsill	1 meaning
+e	windshield	windshield	1 meaning
+e	wine bottle	winebottle	1 meaning
+e	wine cellar	winecellar	1 meaning
+e	winemaking	winemaking	1 meaning
+e	winged bean	wingedbean	1 meaning
+e	wintertime	wintertime	1 meaning
+e	witch's milk	witchsmilk	1 meaning
+e	witchcraft	witchcraft	1 meaning
+e	withdrawal	withdrawal	3 meanings
+j	ウィキペディアン	wikipedian	Wikipedian
+j	ウィキボヤージュ	wikiboyaju	ウィキメディア財団が提供する、インターネット上でウ…
+j	ウィキ化する	wikikasuru	
+j	ウィズコロナ	wizukorona	"with corona": living alo…
+j	ウィニペグ湖	winipeguko	Winnipeg (a large lake in…
+j	ウィルキンソン	wirukinson	
+j	ウィングバック	wingubakku	
+j	ウィングレット	winguretto	a winglet
+j	ウィンタータイム	wintataimu	冬時間のこと。
+j	ウィンチェスター	winchesuta	
+j	ウィントフック	wintofukku	Windhoek (a city, the cap…
+j	ウィンドサーフィン	windosafin	サーフィンの板に帆を取り付け、波と風を利用した競技。
+j	ウィンブルドン	winburudon	Wimbledon (a suburb of Lo…
+j	ウィークポイント	wikupointo	弱み。弱点。
+k	위급하다	wigeuphada	
+k	위기관리	wigigwalli	
+k	위령비	wiryeongbi	
+k	위령제	wiryeongje	a ceremony held to comfor…
+k	위배되다	wibaedoeda	
+k	위병소	wibyeongso	
+k	위생복	wisaengbok	
+k	위생실	wisaengsil	bathroom; restroom; toilet
+k	위생학	wisaenghak	
+k	위선적	wiseonjeok	겉으로는 착한 척하는.
+k	위성국	wiseongguk	강대국의 정치, 경제적 영향을 받고 있는 그 …
+k	위수령	wisuryeong	
+k	위수병	wisubyeong	
+k	위엄성	wieomseong	
+k	위음성	wieumseong	false negative
+k	위임입법	wiimipbeop	
+k	위장망	wijangmang	
+k	위장염	wijangyeom	
+k	위장하다	wijanghada	
+k	위조문서	wijomunseo	
+k	위중하다	wijunghada	
+k	위증죄	wijeungjoe	
+k	위촉하다	wichokhada	
+k	위축하다	wichukhada	
+k	위키뉴스	wikinyuseu	위키 형식으로 된, 누구나 편집할 수 있는 열…
+k	위키미디어	wikimidieo	위키 관련 사이트를 관리하는 비영리 단체.
+k	위키복스	wikibokseu	‘위키책’을 달리 이르는 말.
+k	위키사전	wikisajeon	
+k	위탁되다	witakdoeda	
+k	위팔뼈	wipalppyeo	위팔에 위치한 뼈. 어깨의 견관절(肩關節)와 …
+k	위험률	wiheomnyul	
+k	위험수위	wiheomsuwi	
+k	위험하다	wiheomhada	dangerous
+k	위확장	wihwakjang	
+k	윌킨슨	wilkinseun	
+k	윗방아기	witbangagi	생식 능력이 없는 노인이 어린 여자아이를 안고…
+e	wikiproject	wikiproject	1 meaning
+e	wind turbine	windturbine	1 meaning
+e	windbreaker	windbreaker	1 meaning
+e	windcatcher	windcatcher	1 meaning
+e	windsurfing	windsurfing	1 meaning
+e	wine and dine	wineanddine	2 meanings
+e	wine vinegar	winevinegar	1 meaning
+e	winter melon	wintermelon	1 meaning
+e	winter sport	wintersport	1 meaning
+e	winter storm	winterstorm	1 meaning
+e	wire cutters	wirecutters	1 meaning
+e	wisdom tooth	wisdomtooth	1 meaning
+e	witch doctor	witchdoctor	1 meaning
+e	withholding	withholding	1 meaning
+e	without fail	withoutfail	1 meaning
+j	ウィキバーシティ	wikibashiti	ウィキメディア財団が運営する、教育の支援を目的とし…
+j	ウィキブックス	wikibukkusu	ウィキメディア財団が提供する、MediaWikiを…
+j	ウィキペディアの	wikipediano	
+j	ウィクショナリ	wikushonari	
+j	ウィクショナリアン	wikuonarian	
+j	ウィクショナリー	wikushonari	Wiktionary
+j	ウィスコンシン	wisukonshin	Wisconsin (a state in the…
+j	ウィスパリング	wisuparingu	
+j	ウィルオウィスプ	wiruowisupu	will o' the wisp (strange…
+j	ウィンドウウォッシャー	windowossha	a window washer
+j	ウィンドウマネージャー	windomaneja	
+k	위계질서	wigyejilseo	
+k	위락시설	wiraksiseol	recreational facilities
+k	위령곡	wiryeonggok	
+k	위령죄	wiryeongjoe	
+k	위만조선	wimanjoseon	한국의 역사에서, 기원전 194년에 위만이 준…
+k	위법성	wibeopseong	
+k	위사감지기	wisagamjigi	
+k	위사공신	wisagongsin	보익공신.
+k	위상속도	wisangsokdo	
+k	위상수학	wisangsuhak	topology
+k	위생적	wisaengjeok	
+k	위성도시	wiseongdosi	
+k	위스콘신	wiseukonsin	[~주(州)] Wisconsin (a stat…
+k	위씨조선	wissijoseon	위만조선.
+k	위임통치	wiimtongchi	
+k	위장되다	wijangdoeda	본래의 정체나 모습이 드러나지 않도록 거짓으로…
+k	위증하다	wijeunghada	
+k	위촉되다	wichokdoeda	
+k	위축되다	wichukdoeda	
+k	위출혈	wichulhyeol	
+k	위치 에너지	wichieneoji	
+k	위치감각	wichigamgak	
+k	위치에너지	wichieneoji	물체가 특정한 위치에서 표준 위치로 돌아갈 때…
+k	위칙허다	wichikheoda	
+k	위칭하다	wichinghada	
+k	위키문헌	wikimunheon	위키 형식으로 된, 누구나 정보 자료를 편집할…
+k	위키백과	wikibaekgwa	Wikipedia
+k	위탁판매	witakpanmae	
+k	위헌성	wiheonseong	
+k	위험계수	wiheomgyesu	
+k	위험성	wiheomseong	위험한 성질이나 위험해질 가능성.
+k	위험신호	wiheomsinho	
+k	위험인물	wiheominmul	
+k	위협적	wihyeopjeok	
+k	위협하다	wihyeophada	to threaten, to menace
+k	윈드후크	windeuhukeu	나미비아의 수도 이름 '빈트후크'의 북한말.
+e	wife carrying	wifecarrying	1 meaning
+e	wikification	wikification	1 meaning
+e	wiktionarian	wiktionarian	1 meaning
+e	wild turmeric	wildturmeric	1 meaning
+e	will o' the wisp	willothewisp	1 meaning
+e	willow grouse	willowgrouse	1 meaning
+e	windlessness	windlessness	1 meaning
+e	window screen	windowscreen	1 meaning
+e	winnowing fan	winnowingfan	1 meaning
+e	wire stripper	wirestripper	1 meaning
+e	wire transfer	wiretransfer	1 meaning
+e	wisconsinite	wisconsinite	1 meaning
+e	with pleasure	withpleasure	1 meaning
+j	ウィキテキスト	wikitekisuto	
+j	ウィキマークアップ	wikimakuappu	
+j	ウィニペグ川	winipegugawa	
+j	ウィルドビースト	wirudobisuto	gnu, wildebeest
+j	ウィンタースポーツ	wintasupotsu	冬季に行われるスポーツの総称。冬季競技。
+k	위도변화	widobyeonhwa	
+k	위령미사	wiryeongmisa	
+k	위성국가	wiseonggukga	강대국의 정치 경제적 영향을 받고 있는 그 주…
+k	위성사진	wiseongsajin	
+k	위스컨신	wiseukeonsin	[~주(州)] alternative form …
+k	위시 리스트	wisiriseuteu	
+k	위장병	wijangbyeong	
+k	위층으로	wicheungeuro	
+k	위키 마크업	wikimakeueop	
+k	위키여행	wikiyeohaeng	
+k	위키자료집	wikijaryojip	
+k	위탁가정	witakgajeong	
+k	위탁매매	witangmaemae	
+k	위탁출판	witakchulpan	
+k	위험관리	wiheomgwalli	
+k	위험기상	wiheomgisang	일상생활에 큰 어려움과 위험을 동반하는 기상현…
+k	위험물질	wiheommuljil	
+k	위험수역	wiheomsuyeok	
+k	위험시하다	wiheomsihada	
+k	윅셔너리	wiksyeoneori	Wiktionary
+k	윈도쇼핑	windosyoping	window-shopping
+k	윈체스터	wincheseuteo	
+e	wildcat strike	wildcatstrike	1 meaning
+e	willie wagtail	williewagtail	1 meaning
+e	willow warbler	willowwarbler	1 meaning
+e	window manager	windowmanager	1 meaning
+e	winnie the pooh	winniethepooh	1 meaning
+e	with respect to	withrespectto	1 meaning
+e	without a trace	withoutatrace	1 meaning
+j	ウィキスピーシーズ	wikisupishizu	ウィキメディア財団が提供する，フリーな生物種のディ…
+j	ウィル・オー・ザ・ウィスプ	wiruozawisupu	
+j	ウィレムスタット	wiremusutatto	
+j	賄賂のやり取り	wironoyartori	
+k	위각력암	wigangnyeogam	
+k	위경련	wigyeongnyeon	
+k	위그드라실	wigeudeurasil	
+k	위법처분	wibeopcheobun	
+k	위법행위	wibeophaengwi	
+k	위상 변조	wisangbyeonjo	
+k	위상공간	wisanggonggan	topological space
+k	위생병	wisaengbyeong	
+k	위생설비	wisaengseolbi	
+k	위성 안테나	wiseongantena	
+k	위수병원	wisubyeongwon	
+k	위키 중독자	wikijungdokja	
+k	위키백과의	wikibaekgwaui	
+k	위키인용집	wikiinyongjip	
+k	위키텍스트	wikitekseuteu	
+k	위키화 시키다	wikihwasikida	
+k	위트레흐트	witeureheuteu	
+k	위팔동맥	wipaldongmaek	brachial artery
+e	wiener neustadt	wienerneustadt	1 meaning
+e	wild strawberry	wildstrawberry	1 meaning
+e	will you marry me	willyoumarryme	1 meaning
+e	wind instrument	windinstrument	1 meaning
+e	window-shopping	windowshopping	1 meaning
+e	winter solstice	wintersolstice	1 meaning
+e	winter triangle	wintertriangle	1 meaning
+e	wisconsin dells	wisconsindells	1 meaning
+j	ウィキプロジェクト	wikipurojekuto	
+j	ウィキ中毒者	wikichudokusha	
+j	ウィンドーショッピング	windoshoppingu	あてもなく気ままに買い物をすること。
+k	위국충절	wigukchungjeol	
+k	위생공학	wisaenggonghak	
+k	위성중계	wiseongjunggye	
+k	위성통신	wiseongtongsin	
+k	위정척사	wijeongcheoksa	
+k	위키스페시스	wikiseupesiseu	
+k	위탁증권	witakjeunggwon	
+k	위팔신경	wipalsingyeong	brachial plexus
+k	위팔정맥	wipaljeongmaek	brachial vein
+k	위편삼절	wipyeonsamjeol	공자가 말년에 주역을 자주 읽어 책을 맨 가죽…
+k	위풍당당	wipungdangdang	being majestic, being sta…
+k	위험천만	wiheomcheonman	해를 입거나 다칠 가능성이 있어 몹시 안전하지…
+k	위협사격	wihyeopsagyeok	
+k	윗몸 일으키기	winmomireukigi	
+e	wide area network	wideareanetwork	1 meaning
+e	windshield wiper	windshieldwiper	1 meaning
+e	winnowing basket	winnowingbasket	1 meaning
+e	wireless network	wirelessnetwork	1 meaning
+e	wisdom of solomon	wisdomofsolomon	1 meaning
+e	wishful thinking	wishfulthinking	1 meaning
+e	with bated breath	withbatedbreath	1 meaning
+j	ウィキファンクションズ	wikifankushonzu	ウィキメディア財団が運営する、オープンライセンスの…
+j	ウィンドウショッピング	windoushoppingu	
+k	위대한 후계자	widaehanhugyeja	
+k	위로를 표하다	wiroreulpyohada	
+k	위선적인 말	wiseonjeoginmal	
+k	위성방송	wiseongbangsong	
+k	위장병학	wijangbyeonghak	
+k	위키프로젝트	wikipeurojekteu	
+k	윌렘스따드	willemseuttadeu	네덜란드령 안틸레스의 수도 '빌렘스타드'의 북…
+k	윌오더위스프	wirodeowiseupeu	
+k	윗수염박쥐	witsuyeombakjwi	A myotis, one of various …
+e	with a grain of salt	withagrainofsalt	1 meaning
+e	with all one's heart	withallonesheart	1 meaning
+e	with no further ado	withnofurtherado	1 meaning
+j	ウィキメディア・コモンズ	wikimediakomonzu	ウィキメディア財団が運営する、コピーレフトな画像や…
+k	위성정당	wiseongjeongdang	bloc party; satellite par…
+k	위임명령	wiimmyeongnyeong	
+k	위키낱말사전	wikinanmalsajeon	Wiktionary
+e	wild foxtail millet	wildfoxtailmillet	1 meaning
+e	with all due respect	withallduerespect	1 meaning
+j	ウィスコンシンデルズ	wisukonshinderuzu	
+k	위망충병	wimangchungbyeong	
+k	위스콘신 델스	wiseukonsindelseu	
+k	위팔두갈래근	wipaldugallaegeun	
+k	위험불감증	wiheombulgamjeung	
+j	ウィキメディア・インキュベーター	wikimediainkyubeta	ウィキメディア財団が運営する、ウィキの試験運用を目…
+k	위급존망지추	wigeupjonmangjichu	critical moment determini…
+k	위풍당당하다	wipungdangdanghada	to be dignified, to be st…
+k	위험천만하다	wiheomcheonmanhada	해를 입거나 다칠 가능성이 있어 몹시 안전하지…
+k	위망매영재가	wimangmaeyeongjaega	신라 경덕왕 때에 월명사가 지은 10구체의 향…
+k	위키백과 사용자	wikibaekgwasayongja	
+j	ウィクショナリー編集者	wikushonarihenshusha	
+j	ウィドマンシュテッテン構造	widomanshutettenkozo	ニッケルを多く含む隕鉄に見られる三角形や平行四辺形…
+k	위상동형사상	wisangdonghyeongsasang	
+e	wipe the floor with someone	wipethefloorwithsomeone	1 meaning
+j	ウィトルウィウス的人体図	witoruwiusutekijintaizu	
+k	윗물이 맑아야 아랫물이 맑다	winmurimalgayaaraenmurimakda	

@@ -1,0 +1,208 @@
+k	귀	귀	ear, auricle
+k	귄	귄	귀여움, 사랑스러움
+k	귀가	귀가	집에 돌아가는 것.
+k	귀각	귀각	
+k	귀간	귀간	
+k	귀감	귀감	role model, paragon
+k	귀갑	귀갑	
+k	귀결	귀결	conclusion, consequence, …
+k	귀곡	귀곡	a ghost's wail or cry
+k	귀국	귀국	homecoming, returning to …
+k	귀납	귀납	
+k	귀녀	귀녀	noblewoman
+k	귀농	귀농	
+k	귀대	귀대	
+k	귀댁	귀댁	
+k	귀두	귀두	glans penis
+k	귀뜸	귀뜸	'귀띔'의 비표준어.
+k	귀띔	귀띔	말을 듣는 사람이 문제가 무엇인지 알아채도록 …
+k	귀로	귀로	
+k	귀록	귀록	
+k	귀리	귀리	oat
+k	귀밑	귀밑	The root or base of the e…
+k	귀밥	귀밥	'귓밥'의 북한말.
+k	귀범	귀범	
+k	귀부	귀부	
+k	귀빈	귀빈	honored guest, distinguis…
+k	귀사	귀사	
+k	귀서	귀서	
+k	귀석	귀석	
+k	귀선	귀선	
+k	귀성	귀성	
+k	귀속	귀속	
+k	귀순	귀순	defection (change in loya…
+k	귀신	귀신	ghost, spirit
+k	귀안	귀안	
+k	귀양	귀양	exile; banishment (as jud…
+k	귀영	귀영	
+k	귀와	귀와	귀신의 얼굴을 새긴 기와. 기와를 입힌 큰 집…
+k	귀원	귀원	
+k	귀의	귀의	
+k	귀인	귀인	사회적 지위가 높고 귀한 사람.
+k	귀장	귀장	
+k	귀재	귀재	
+k	귀적	귀적	
+k	귀절	귀절	한자어 '구절'의 비표준어.
+k	귀접	귀접	sexual intercourse with a…
+k	귀정	귀정	
+k	귀족	귀족	noble; aristocrat
+k	귀주	귀주	Guizhou (a province in so…
+k	귀중	귀중	
+k	귀지	귀지	earwax
+k	귀착	귀착	
+k	귀책	귀책	사람의 죄악을 징계하기 위하여 귀신이 내리는 …
+k	귀천	귀천	
+k	귀청	귀청	synonym of 고막(鼓膜) (gomak,…
+k	귀체	귀체	
+k	귀추	귀추	일이나 문제가 진행되거나 처리되는 상황과 결과.
+k	귀태	귀태	
+k	귀표	귀표	
+k	귀하	귀하	Mr.; Ms.
+k	귀한	귀한	
+k	귀함	귀함	
+k	귀항	귀항	
+k	귀향	귀향	고향으로 돌아감.
+k	귀형	귀형	귀신의 형상.
+k	귀화	귀화	
+k	귀환	귀환	return home
+k	귄티	귄티	귀여운 모양새, 사랑스러운 모양새
+k	귓가	귓가	귀의 가장자리.
+k	귓결	귓결	hearing by chance
+k	귓불	귓불	earlobe
+k	귓속	귓속	
+k	귓쌈	귓쌈	'귀싸대기'의 비표준어.
+k	귓집	귓집	
+k	귀갓길	귀갓길	one's way going back home
+k	귀걸이	귀걸이	earmuffs
+k	귀고리	귀고리	earring
+k	귀곡성	귀곡성	the wailing of a ghost, a…
+k	귀공자	귀공자	
+k	귀구멍	귀구멍	The auditory canal, or by…
+k	귀금속	귀금속	
+k	귀납법	귀납법	
+k	귀납적	귀납적	
+k	귀네기	귀네기	
+k	귀동자	귀동자	
+k	귀두지	귀두지	smegma
+k	귀때기	귀때기	ear
+k	귀뚤귀	귀뚤귀	cricket
+k	귀마개	귀마개	earmuffs
+k	귀먹다	귀먹다	
+k	귀밑샘	귀밑샘	
+k	귀밑털	귀밑털	The hair under the ears; …
+k	귀부인	귀부인	noblewoman, lady, dame
+k	귀상어	귀상어	A hammerhead shark, espec…
+k	귀성객	귀성객	
+k	귀소성	귀소성	매년 생물이 자신이 태어난 곳으로 돌아가는 습…
+k	귀순자	귀순자	
+k	귀신날	귀신날	
+k	귀애이	귀애이	
+k	귀앵이	귀앵이	
+k	귀야이	귀야이	
+k	귀양이	귀양이	
+k	귀얭이	귀얭이	
+k	귀에지	귀에지	
+k	귀엣말	귀엣말	whisper
+k	귀엥이	귀엥이	
+k	귀여운	귀여운	'귀엽다'의 관형사형.
+k	귀여움	귀여움	'귀엽다'의 명사형.
+k	귀엽다	귀엽다	cute; (to be) charming
+k	귀욍이	귀욍이	
+k	귀요미	귀요미	cutie
+k	귀울림	귀울림	
+k	귀의법	귀의법	
+k	귀의불	귀의불	
+k	귀의승	귀의승	
+k	귀의심	귀의심	
+k	귀의처	귀의처	
+k	귀이개	귀이개	
+k	귀인상	귀인상	
+k	귀일법	귀일법	
+k	귀일산	귀일산	
+k	귀족어	귀족어	
+k	귀족원	귀족원	
+k	귀족적	귀족적	
+k	귀족정	귀족정	
+k	귀족제	귀족제	(정치) 특권을 가진 소수의 귀족이 권력을 잡…
+k	귀중품	귀중품	
+k	귀중한	귀중한	
+k	귀착점	귀착점	
+k	귀찮다	귀찮다	tiresome, annoying, bothe…
+k	귀촉도	귀촉도	'두견'.
+k	귀퉁이	귀퉁이	
+k	귀하다	귀하다	precious, valuable
+k	귀혈종	귀혈종	귓바퀴의 피부밑 또는 연골 세포방 아래에 일어…
+k	귀호곡	귀호곡	
+k	귀화법	귀화법	
+k	귀화인	귀화인	
+k	귀화종	귀화종	
+k	귀환병	귀환병	
+k	귀휴병	귀휴병	
+k	귀휴제	귀휴제	
+k	귓구멍	귓구멍	earhole, the opening of t…
+k	귓바퀴	귓바퀴	
+k	귓속말	귓속말	whisper
+k	귓속뼈	귓속뼈	가운데귀의 3개의 뼈: 망치뼈, 모루뼈, 등자…
+k	귀가하다	귀가하다	
+k	귀국하다	귀국하다	to return to one's country
+k	귀네비어	귀네비어	
+k	귀농하다	귀농하다	
+k	귀대하다	귀대하다	
+k	귀두망울	귀두망울	
+k	귀둥대둥	귀둥대둥	
+k	귀뚜라미	귀뚜라미	cricket (insect)
+k	귀뚤귀뚤	귀뚤귀뚤	
+k	귀띔하다	귀띔하다	말을 듣는 사람이 문제가 무엇인지 알아채도록 …
+k	귀룽나무	귀룽나무	
+k	귀리밀크	귀리밀크	
+k	귀머거리	귀머거리	청각장애인을 낮잡아 이르는 말. 과거에는 단순…
+k	귀뽀라지	귀뽀라지	'귀싸대기'의 강원도 사투리.
+k	귀성열차	귀성열차	
+k	귀성하다	귀성하다	
+k	귀소본능	귀소본능	
+k	귀속되다	귀속되다	
+k	귀속재산	귀속재산	
+k	귀속지위	귀속지위	
+k	귀속하다	귀속하다	
+k	귀순하다	귀순하다	
+k	귀신고래	귀신고래	The gray whale (Eschricht…
+k	귀신단오	귀신단오	
+k	귀싸대기	귀싸대기	A slap upside the head, i…
+k	귀애네기	귀애네기	
+k	귀에고리	귀에고리	'귀고리'의 북한말.
+k	귀염둥이	귀염둥이	a beloved child, sweethea…
+k	귀영하다	귀영하다	
+k	귀의하다	귀의하다	
+k	귀자모신	귀자모신	
+k	귀족계급	귀족계급	
+k	귀족예술	귀족예술	
+k	귀족정부	귀족정부	
+k	귀족정치	귀족정치	
+k	귀족주의	귀족주의	
+k	귀주대첩	귀주대첩	
+k	귀중하다	귀중하다	매우 소중하고 중요하다.
+k	귀차니즘	귀차니즘	
+k	귀착되다	귀착되다	
+k	귀착하다	귀착하다	
+k	귀책사유	귀책사유	grounds to consider someo…
+k	귀항하다	귀항하다	
+k	귀향하다	귀향하다	
+k	귀화동물	귀화동물	
+k	귀화식물	귀화식물	
+k	귀화하다	귀화하다	
+k	귀환비행	귀환비행	return flight
+k	귀환하다	귀환하다	to go home, return home
+k	귀가 먹다	귀가 먹다	한 사람이 다른 사람의 말을 잘 이해하지 못하…
+k	귀둥대둥이	귀둥대둥이	
+k	귀무 가설	귀무 가설	
+k	귀엣말하다	귀엣말하다	to whisper
+k	귀족 계급	귀족 계급	
+k	귀차니스트	귀차니스트	
+k	귓속말하다	귓속말하다	to whisper
+k	귀둥대둥하다	귀둥대둥하다	
+k	귀뿔논병아리	귀뿔논병아리	The horned grebe, Podicep…
+k	귀환 불능 지점	귀환 불능 지점	point of no return
+k	귀를 먹먹하게 하다	귀를 먹먹하게 하다	
+k	귀신 씻나락 까먹는 소리	귀신 씻나락 까먹는 소리	귀신이 볍씨를 까먹는 것은 머리 속에서나 생각…
+k	귀에 걸면 귀걸이 코에 걸면 코걸이	귀에 걸면 귀걸이 코에 걸면 코걸이	어디에 쓰이는지 확실히 정해지지 않은 것은 사…
+k	귀머거리 삼 년이요 벙어리 삼 년이라	귀머거리 삼 년이요 벙어리 삼 년이라	옛날 한국에서 여자가 시집을 가면 들어도 못 …

@@ -1,0 +1,183 @@
+j	ヴェー	ve	Vé (Norse mythological fi…
+e	vee	vee	1 meaning
+e	veal	veal	1 meaning
+e	veda	veda	1 meaning
+e	vega	vega	1 meaning
+e	veil	veil	1 meaning
+e	vein	vein	4 meanings
+e	vela	vela	1 meaning
+e	vera	vera	1 meaning
+e	verb	verb	1 meaning
+e	very	very	3 meanings
+e	vest	vest	1 meaning
+e	veto	veto	3 meanings
+j	ヴェガ	vega	
+j	ヴェーザー	veza	
+j	ヴェーダ	veda	インド最古の宗教に関する文献で、バラモン教の根本聖…
+e	ve day	veday	1 meaning
+e	veche	veche	1 meaning
+e	vegan	vegan	2 meanings
+e	velar	velar	1 meaning
+e	venom	venom	1 meaning
+e	venus	venus	2 meanings
+e	verse	verse	2 meanings
+e	verst	verst	1 meaning
+e	verve	verve	1 meaning
+e	vesak	vesak	1 meaning
+e	vesna	vesna	1 meaning
+e	vesta	vesta	2 meanings
+e	vetch	vetch	1 meaning
+j	ヴェチェ	veche	
+j	ヴェン図	venzu	
+e	vector	vector	3 meanings
+e	velcro	velcro	1 meaning
+e	vellum	vellum	2 meanings
+e	velvet	velvet	2 meanings
+e	vendor	vendor	1 meaning
+e	veneto	veneto	1 meaning
+e	venice	venice	1 meaning
+e	venule	venule	1 meaning
+e	verdun	verdun	1 meaning
+e	verlan	verlan	1 meaning
+e	vermin	vermin	1 meaning
+e	vernon	vernon	2 meanings
+e	verona	verona	1 meaning
+e	versus	versus	2 meanings
+e	vertex	vertex	5 meanings
+e	vessel	vessel	3 meanings
+j	ヴェスタ	vesuta	
+j	ヴェスナ	vesuna	
+j	ヴェスパー	vesupa	vesper martini
+j	ヴェニス	venisu	ベニスの表記揺れ。
+e	vehicle	vehicle	1 meaning
+e	velella	velella	1 meaning
+e	velvety	velvety	1 meaning
+e	venerid	venerid	1 meaning
+e	venison	venison	1 meaning
+e	venture	venture	1 meaning
+e	ventôse	ventose	1 meaning
+e	veranda	veranda	1 meaning
+e	verbena	verbena	1 meaning
+e	verbose	verbose	1 meaning
+e	verdict	verdict	2 meanings
+e	vermont	vermont	1 meaning
+e	version	version	4 meanings
+e	vertigo	vertigo	1 meaning
+e	vesicle	vesicle	4 meanings
+e	vestige	vestige	2 meanings
+e	veteran	veteran	2 meanings
+e	vetiver	vetiver	1 meaning
+j	ヴェスヴィオ	vesuvio	
+j	ヴェルノン	verunon	
+j	ヴェルラン	veruran	
+e	veganism	veganism	1 meaning
+e	vehement	vehement	1 meaning
+e	velarize	velarize	1 meaning
+e	velocity	velocity	2 meanings
+e	vena cava	venacava	1 meaning
+e	vendetta	vendetta	2 meanings
+e	venereal	venereal	1 meaning
+e	venetian	venetian	4 meanings
+e	venomous	venomous	1 meaning
+e	venusian	venusian	4 meanings
+e	veracruz	veracruz	2 meanings
+e	verbatim	verbatim	1 meaning
+e	vermouth	vermouth	1 meaning
+e	veronica	veronica	1 meaning
+e	vertebra	vertebra	1 meaning
+e	vertical	vertical	1 meaning
+e	very well	verywell	1 meaning
+e	vesuvius	vesuvius	1 meaning
+j	ヴェネチア	venechia	ベネチアの表記揺れ。
+j	ヴェネツィア	venetsia	ベネチアの表記揺れ。
+j	ヴェネト語	venetogo	
+j	ヴェネーチア	venechia	ベネチアの表記揺れ。
+j	ヴェネーツィア	venetsia	ベネチアの表記揺れ。
+j	ヴェルスタ	verusuta	
+j	ヴェロニカ	veronika	
+e	vegetable	vegetable	5 meanings
+e	velveteen	velveteen	1 meaning
+e	venerable	venerable	1 meaning
+e	venezuela	venezuela	1 meaning
+e	vengeance	vengeance	1 meaning
+e	venial sin	venialsin	1 meaning
+e	ventricle	ventricle	2 meanings
+e	verbosity	verbosity	1 meaning
+e	verdigris	verdigris	2 meanings
+e	vermilion	vermilion	4 meanings
+e	versatile	versatile	3 meanings
+e	vestibule	vestibule	1 meaning
+j	ヴェネズエラ	venezuera	
+j	ヴェネチヤ	venechiya	
+j	ヴェネツィヤ	venetsiya	
+j	ヴェネト州	venetoshu	
+j	ヴェルサイユ	verusaiyu	
+j	ヴェルモット	verumotto	
+e	vegetarian	vegetarian	3 meanings
+e	vegetation	vegetation	1 meaning
+e	velocipede	velocipede	1 meaning
+e	velvet worm	velvetworm	1 meaning
+e	velvetleaf	velvetleaf	1 meaning
+e	vendémiaire	vendmiaire	1 meaning
+e	ventilator	ventilator	2 meanings
+e	verb phrase	verbphrase	1 meaning
+e	verbal noun	verbalnoun	1 meaning
+e	vermicelli	vermicelli	1 meaning
+e	vernacular	vernacular	1 meaning
+e	versailles	versailles	1 meaning
+e	vertebrate	vertebrate	2 meanings
+j	ヴェネツィアの	venetsiano	
+j	ヴェネツィア語	venetsiago	
+j	ヴェンティミリア	ventimiria	
+j	ヴェンティミーリア	ventimiria	
+e	vector field	vectorfield	1 meaning
+e	vector space	vectorspace	1 meaning
+e	venereology	venereology	1 meaning
+e	venn diagram	venndiagram	1 meaning
+e	ventilation	ventilation	2 meanings
+e	ventimiglia	ventimiglia	1 meaning
+e	venus de milo	venusdemilo	1 meaning
+e	vermiculite	vermiculite	1 meaning
+e	vexillology	vexillology	1 meaning
+j	ヴェネツィア人	venetsiajin	
+e	vegetable oil	vegetableoil	1 meaning
+e	veggie burger	veggieburger	1 meaning
+e	velociraptor	velociraptor	1 meaning
+e	velvet antler	velvetantler	1 meaning
+e	velvet scoter	velvetscoter	1 meaning
+e	venus flytrap	venusflytrap	1 meaning
+e	verification	verification	1 meaning
+e	veterinarian	veterinarian	1 meaning
+j	ヴェスパー・マティーニ	vesupamatini	
+j	ヴェスヴィオ火山	vesuviokazan	
+j	ヴェルミチェッリ	verumicherri	
+e	vector algebra	vectoralgebra	1 meaning
+e	vector product	vectorproduct	1 meaning
+e	vegetable lamb	vegetablelamb	1 meaning
+e	vegetable soup	vegetablesoup	1 meaning
+e	vegetarianism	vegetarianism	1 meaning
+e	venetian blind	venetianblind	1 meaning
+e	ventriloquism	ventriloquism	1 meaning
+e	ventriloquist	ventriloquist	1 meaning
+e	vercingetorix	vercingetorix	1 meaning
+e	vernal equinox	vernalequinox	2 meanings
+e	vernalization	vernalization	1 meaning
+e	vernix caseosa	vernixcaseosa	1 meaning
+e	vesper martini	vespermartini	1 meaning
+e	vegetable juice	vegetablejuice	1 meaning
+e	veliky novgorod	velikynovgorod	1 meaning
+e	vending machine	vendingmachine	1 meaning
+e	venture capital	venturecapital	1 meaning
+e	vernier caliper	verniercaliper	1 meaning
+e	version control	versioncontrol	1 meaning
+j	ヴェステルボッテン	vesuterubotten	
+j	ヴェロキラプトル	verokiraputoru	Velociraptor
+e	vegetable garden	vegetablegarden	1 meaning
+e	verificationism	verificationism	1 meaning
+e	vertebral column	vertebralcolumn	1 meaning
+e	velvet revolution	velvetrevolution	1 meaning
+e	vermiform appendix	vermiformappendix	1 meaning
+e	verfremdungseffekt	verfremdungseffekt	1 meaning
+e	veterinary hospital	veterinaryhospital	1 meaning
+e	veterinary medicine	veterinarymedicine	1 meaning
+e	vertical integration	verticalintegration	1 meaning

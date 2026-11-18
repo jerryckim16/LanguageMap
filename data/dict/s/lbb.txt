@@ -1,0 +1,2 @@
+e	bbc	bbc	1 meaning
+e	bbs	bbs	1 meaning

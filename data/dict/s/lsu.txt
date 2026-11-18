@@ -1,0 +1,4701 @@
+j	す	su	酢, 醋, 酸: vinegar (condime…
+j	すう	su	空気を肺に取り込む。呼吸の動作の一つ。
+j	スー	su	
+j	ミュンヒハウゼン数	su	ある数の各桁をそれぞれ各桁の数で累乗した数の和と等…
+j	巣	su	巣, 栖, 窼: nest, hive, den
+j	据う	su	
+j	簀	su	sheet made by lining up a…
+j	素	su	unadorned state
+j	素っ	su	prefixes nouns, adjective…
+j	酢	su	主成分を酢酸とする、食品に酸味を付与または増強し、…
+k	수	su	way, means, possibility, …
+e	sub-	sub	1 meaning
+e	sue	sue	2 meanings
+e	sum	sum	2 meanings
+e	sun	sun	7 meanings
+j	すい	sui	酸味がある。すっぱい。
+j	すえ	sue	終わり。結末。
+j	吸う	suu	to inhale
+j	周防	suo	Suō Province, an old prov…
+j	寸	sun	a Japanese measurement of…
+j	末	sue	a twig or shoot
+j	素襖	suo	直垂の一種。室町時代から武家の常服となり、江戸時代…
+j	膵	sui	pancreas
+j	蘇芳	suo	sappanwood (Biancaea sapp…
+j	酸い	sui	vinegary, sour
+k	숙	suk	콩과의 한해살이풀. 높이는 60~100cm이며…
+k	순	sun	pure
+k	숟	sut	synonym of 윷 (yut, “Yut”)
+k	술	sul	alcoholic beverage; liquor
+k	숨	sum	breath, breathing
+k	숩	sup	synonym of 숲 (sup, “fores…
+k	숫	sut	pure
+k	숯	sut	charcoal, cremains, charr…
+k	숱	sut	hair density
+k	숲	sup	a forest or grove
+e	such	such	1 meaning
+e	suck	suck	3 meanings
+e	sudo	sudo	1 meaning
+e	suds	suds	1 meaning
+e	suet	suet	1 meaning
+e	suez	suez	1 meaning
+e	suit	suit	4 meanings
+e	sulk	sulk	1 meaning
+e	sumo	sumo	2 meanings
+e	sumy	sumy	1 meaning
+e	sura	sura	1 meaning
+e	sure	sure	3 meanings
+e	surf	surf	1 meaning
+e	suva	suva	1 meaning
+j	すうじ	suji	
+j	すうすう	susu	being breezy
+j	すか	suka	nonsense; BS; crap
+j	すが	suga	すげの別称。
+j	すき	suki	あることや、人を好むこと。
+j	すぎ	sugi	ヒノキ科（スギ科）の針葉樹。普通は日本固有種の C…
+j	すく	suku	このむ。
+j	すくう	suku	液体や粉などの一部分を手や椀などを用いて下から取る。
+j	すぐ	sugu	straight, not bent
+j	すけ	suke	marks a reason; because
+j	すげ	suge	イネ目カヤツリグサ科スゲ属に属する多年草の総称。学…
+j	すげえ	suge	
+j	すこ	suko	福井県で報恩講のさいにふるまわれる赤ずいきを使った…
+j	すさ	susa	chopped straw mixed with …
+j	すじ	suji	筋肉。また、その繊維。
+j	すじょう	sujo	parentage; heritage; orig…
+j	すす	susu	有機物の不完全燃焼により生じる黒色の炭素の微粒子。
+j	すず	suzu	中空で中に玉等が入っていて、振ると音が出る鳴物。楽…
+j	すそ	suso	the bottom edge of a piec…
+j	すた	suta	chopped straw mixed with …
+j	すで	sude	手に何も着用していないこと。
+j	すど	sudo	竹などを荒く編んだ枝折り戸。
+j	すな	suna	土壌を構成する岩石の細かい粒子の集合。地質学的には…
+j	すね	sune	ひざより下、くるぶしより上の部分。
+j	すべ	sube	手段。方法。
+j	すま	suma	スズキ目サバ科スマ属に属する条鰭類の一種。学名:E…
+j	すみ	sumi	charcoal
+j	すむ	sumu	ある家屋等一定の場所・領域において、普段寝起きする…
+j	すもう	sumo	相撲, 角力: sumo wrestling
+j	すら	sura	even
+j	すり	suri	ラ行五段活用「する」の連用形。
+j	する	suru	to do; to perform an acti…
+j	すれ	sure	hypothetical of する (suru,…
+j	すわ	suwa	Ah!
+j	スカ	suka	ska
+j	スキー	suki	a ski
+j	スギ	sugi	すぎの学術的表記。
+j	スズ	suzu	元素の一つ錫の学術的表記。詳細はすずを参照。
+j	スター	suta	a star (luminous celestia…
+j	スト	suto	ストライキ (←英語:strike) の略。同盟罷…
+j	スノー	suno	雪。
+j	スバ	suba	Suva (the capital of Fiji)
+j	スパ	supa	温泉。鉱泉。
+j	スフ	sufu	ステープルファイバー。
+j	スポ	supo	（主に複合語で）スポーツの略。
+j	スム	sumu	ウズベキスタンの通貨。
+j	スラー	sura	slur (symbol)
+j	スリー	suri	three
+j	スルー	suru	through
+j	スレ	sure	スレッド。
+j	スロー	suro	遅い。のんびりとした。
+j	スーク	suku	souq
+j	スート	suto	a suit
+j	スーパー	supa	super-
+j	スープ	supu	soup (non-Japanese cuisin…
+j	スーラ	sura	sura (chapter of the Qur'…
+j	住み	sumi	
+j	住む	sumu	to live in, to inhabit, t…
+j	刷り	suri	printing
+j	刷る	suru	print
+j	助	suke	assistance
+j	墨	sumi	inkstick
+j	好き	suki	liked, likable
+j	好く	suku	to be fond of, to like
+j	崇卑	suhi	地位が高いことと低いこと。
+j	崇美	subi	気高く美しいこと。また、そのようなさま。
+j	崇高	suko	noble, lofty, sublime, sp…
+j	挿げ	suge	imperfective and stem (or…
+j	捶殴	suio	鞭打つこと。
+j	掏る	suru	to pickpocket
+j	掏摸	suri	pickpocketing
+j	推移	suii	transition
+j	数個	suko	2個から5個くらいまでのおよその数を表す。
+j	数十	suju	scores, dozens
+j	数奇	suki	misfortune, adverse fortu…
+j	数字	suji	a digit (numeral)
+j	数度	sudo	2度から5度くらいまでのおよその数を表す。
+j	数次	suji	several times, a number o…
+j	数秘	suhi	secret numbers
+j	數字	suji	数字の旧字体表記。
+j	杉	sugi	Japanese cedar (Cryptomer…
+j	枢務	sumu	機密に関する事務。特に重要な事務。
+j	枢府	sufu	A government office in ch…
+j	枢機	suki	物事の肝要な所。かなめ。要点。枢要。「枢」は「くる…
+j	枢秘	suhi	枢密によるまつりごと。
+j	枢要	suyo	物事の肝要な所。かなめ。中枢。要点。「枢」は「くる…
+j	棰殴	suio	杖打つこと。
+j	棲む	sumu	
+j	水位	suii	water level
+j	水甕	suio	みずがめ。
+j	水盂	suiu	書道や中国茶をいれる際の水を入れる道具。
+j	水謳	suio	舟唄。
+j	済む	sumu	to finish, to be complete…
+j	漉き	suki	
+j	漉く	suku	to make paper
+j	澄む	sumu	to become clear, to becom…
+j	煤	susu	soot (fine particles of a…
+j	珠水	suzu	a female given name
+j	珠洲	suzu	Suzu (a city in Ishikawa …
+j	相撲	sumo	sumo (Japanese traditiona…
+j	睡雨	suiu	宵越しの雨。
+j	睡鴨	suio	香炉。
+j	砂	suna	sand; grit
+j	空く	suku	become empty (not crowded…
+j	筋	suji	muscle
+j	素姓	sujo	血筋。家柄。
+j	素手	sude	having nothing in hand
+j	絇	suga	counter for twisted threa…
+j	翠羽	suiu	緑色の羽。
+j	翠雨	suiu	青々とした草木の葉に降る雨。
+j	脛	sune	the front area of the leg…
+j	臑	sune	
+j	芻場	sujo	まぐさば、牧場。
+j	芻狗	suku	厄払いに用いる、まぐさで作った犬。
+j	芻草	suso	家畜の飼料にする刈草。
+j	芻蕘	sujo	草刈りと木こり。
+j	菅	suge	a sedge
+j	蒭狗	suku	厄払いに用いる、まぐさで作った犬。
+j	蒭蕘	sujo	「芻蕘」の異表記。
+j	衰翁	suio	老残の翁。
+j	諏訪	suwa	Suwa (a city in Nagano Pr…
+j	趨走	suso	（すうそう）走り赴くこと。
+j	趨避	suhi	進退。
+j	透く	suku	to be transparent, can be…
+j	過ぎ	sugi	imperfective and stem (or…
+j	過ぐ	sugu	to pass; to go beyond
+j	過重労働	suru	
+j	邃奥	suio	深奥。
+j	邃宇	suiu	邃く大きな家。貴人の邸宅。
+j	酔翁	suio	酔老。
+j	鈴	suzu	a bell, chime
+j	鋤	suki	spade
+j	錫	suzu	tin
+j	隅	sumi	
+j	隙	suki	gap; space
+j	雛僧	suso	年少の僧。小僧。
+j	雛妓	sugi	an apprentice geisha, a m…
+j	須田	suda	a surname
+j	須藤	sudo	a surname
+j	須賀	suga	a surname
+k	수고	sugo	effort, trouble
+k	수구	sugu	요구하는 것
+k	수기	sugi	
+k	수다	suda	talkativeness; prattle
+k	수도	sudo	capital (of a country)
+k	수두	sudu	chicken pox
+k	수라	sura	a meal served to the roya…
+k	수레	sure	cart, carriage, wheelbarr…
+k	수로	suro	waterway, watercourse
+k	수리	suri	a large eagle or vulture.
+k	수모	sumo	jellyfish
+k	수미	sumi	
+k	수바	suba	Suva (the capital of Fiji)
+k	수부	subu	sailor, seaman
+k	수비	subi	defence
+k	수사	susa	number; numeral
+k	수세	suse	
+k	수소	suso	hydrogen (H)
+k	수수	susu	sorghum
+k	수시	susi	
+k	수암	suam	
+k	수압	suap	물속에 일어나는 압력.
+k	수어	sueo	sign language
+k	수예	suye	
+k	수온	suon	물의 온도.
+k	수요	suyo	planet Mercury
+k	수위	suwi	임의의 수평면에서 수면까지의 높이.
+k	수유	suyu	
+k	수의	suui	
+k	수익	suik	benefit; advantage
+k	수인	suin	
+k	수일	suil	
+k	수임	suim	
+k	수입	suip	import
+k	수자	suja	'숫자'의 북한말.
+k	수제	suje	
+k	수조	sujo	water tank
+k	수주	suju	
+k	수지	suji	income and expenditure
+k	수토	suto	
+k	수포	supo	'물거품'.
+k	수피	supi	bark of a tree
+k	수호	suho	guard; protection
+e	sucre	sucre	1 meaning
+e	sudan	sudan	1 meaning
+e	suede	suede	1 meaning
+e	sugar	sugar	3 meanings
+e	suhur	suhur	1 meaning
+e	suite	suite	2 meanings
+e	sukun	sukun	1 meaning
+e	sulky	sulky	1 meaning
+e	sumac	sumac	2 meanings
+e	sumer	sumer	1 meaning
+e	sunni	sunni	1 meaning
+e	sunny	sunny	1 meaning
+e	suona	suona	1 meaning
+e	super	super	1 meaning
+e	surat	surat	1 meaning
+e	surge	surge	1 meaning
+e	surya	surya	1 meaning
+e	susan	susan	1 meaning
+e	sushi	sushi	1 meaning
+e	sutra	sutra	2 meanings
+e	suwon	suwon	1 meaning
+j	すあげ	suage	食材を衣をつけずに油で揚げること。
+j	すあな	suana	動物や虫が住みかとしてつくったあな。
+j	すいえい	suiei	
+j	すいそ	suiso	
+j	すいた	suita	porous whetstone
+j	すいて	suite	
+j	すいば	suiba	ダテ科の多年草。若い葉や茎は食用。
+j	すいふ	suifu	水夫
+j	すいぼ	suibo	
+j	すいよう	suiyo	水曜: Wednesday
+j	すうし	sushi	数詞: linguistic numeral
+j	すうどん	sudon	茹でたうどんにつゆをかけ、刻みネギを添えた程度のも…
+j	すえき	sueki	末記: a male given name
+j	すえる	sueru	場所を設けて、その場所から動かないように物を置く。…
+j	すがお	sugao	化粧をしていない顔。
+j	すくい	sukui	「すくう」の連用形。
+j	すごい	sugoi	horrible, dreadful, ghast…
+j	すごーい	sugoi	elongated form of すごい
+j	すし	sushi	日本料理の一つで、酢で調味した飯に、生の魚介類など…
+j	すっか	sukka	
+j	すっと	sutto	straight, quickly, all of…
+j	すなお	sunao	性格や態度がひねくれておらず、人の言動をそのまま受…
+j	すぽん	supon	
+j	すまい	sumai	様子。出で立ち。
+j	すまう	sumau	to live at, to dwell, to …
+j	すまん	suman	I'm sorry
+j	すみお	sumio	澄男, 澄雄, 純男, 澄夫: a male gi…
+j	すゆい	suyui	sour
+j	スイカ	suika	
+j	スイス	suisu	Switzerland (a country in…
+j	スイバ	suiba	「酸葉」の学術的表記。
+j	スイマー	suima	水泳選手。
+j	スイム	suimu	泳ぐこと。
+j	スイート	suito	甘いこと。甘美なこと。快いこと。またそのさま。
+j	スエズ	suezu	
+j	スエード	suedo	suede
+j	スカイ	sukai	空。
+j	スキン	sukin	skin
+j	スクーン	sukun	
+j	スコア	sukoa	score (tally of points)
+j	スコーン	sukon	イギリスが発祥で小麦粉・バター・牛乳・ベーキングパ…
+j	スタイ	sutai	synonym of よだれかけ (yodarek…
+j	ステイ	sutei	staying
+j	ストア	sutoa	store, shop
+j	ストゥー	sutou	
+j	ストーン	suton	stone (material)
+j	スネア	sunea	snare
+j	スパイ	supai	a spy
+j	スパン	supan	支間、径間。
+j	スピン	supin	spin, rotation
+j	スプーン	supun	spoon
+j	スペア	supea	spare
+j	スポーン	supon	プレーヤーなどが出現すること。
+j	スモア	sumoa	s'more
+j	スワン	suwan	swan
+j	スンデ	sunde	soondae (Korean blood sau…
+j	スンナ	sunna	Sunni
+j	スンニ	sunni	Sunni
+j	スーザン	suzan	
+j	スーダン	sudan	Sudan (a country in North…
+j	スーツ	sutsu	a suit (set of clothes)
+j	スームィ	sumwi	
+j	ス市	sushi	
+j	住まい	sumai	residence, dwelling, one'…
+j	住んだ	sunda	
+j	凄い	sugoi	
+j	出挙	suiko	古代日本で農民に種籾のほか金品を貸し付け、利息を付…
+j	出納	suito	receipts and expenditures
+j	吹呼	suiko	呼吸。
+j	吹奏	suiso	playing wind instruments
+j	垂光	suiko	世を照らすこと。
+j	垂櫜	suiko	弓袋を下げ、相手に敵意がないことを示すこと。
+j	垂法	suiho	手本。
+j	垂纓	suiei	冠の纓を後方に垂らしたもの。
+j	垂胡	suiko	顎の瘤。
+j	垂語	suigo	垂示の語。
+j	垂露	suiro	露が垂れること。また、その露。
+j	垂顧	suiko	目を掛けること。
+j	墨絵	sumie	sumi-e (Japanese ink wash…
+j	夊部	suibu	部首「⼢」で分類した漢字の一群。
+j	好いた	suita	
+j	寸土	sundo	僅かな土地。寸地。尺地。
+j	寸時	sunji	ほんのわずかな時間。寸刻。
+j	寸暇	sunka	a single moment of leisure
+j	寸法	sunpo	dimensions, size, magnitu…
+j	寸話	sunwa	非常に短い話。
+j	寸部	sunbu	部首「⼨」で分類した漢字の一群。
+j	寸陰	sunin	僅かな時間。寸暇。一寸の光陰。
+j	寿司	sushi	sushi: vinegared rice ser…
+j	崇巌	sugan	崇巖の拡張新字体を用いた表記。
+j	崇巖	sugan	高い巖。
+j	崇拝	suhai	worship, cult
+j	崇敬	sukei	respect, reverence, vener…
+j	崇簡	sukan	選任すること。
+j	崇賢	suken	賢を尊ぶこと。
+j	崇軒	suken	高い建造物。
+j	崇重	sucho	崇め、重んじるさま。尊重。
+j	崇鑒	sukan	高覧。他人の見ることに対する尊敬語。
+j	巣板	suban	the comb enclosed in a hi…
+j	巣穴	suana	burrow, a tunnel or hole …
+j	彗光	suiko	彗星の光。
+j	彗芒	suibo	彗星の尾の光。
+j	悴槁	suiko	枯槁すること。
+j	悴荒	suiko	窶れること。
+j	按部	suibu	見回ること。
+j	捨つ	sutsu	to throw away, to abandon
+j	据える	sueru	to place, set (so it cann…
+j	捶拷	suiko	鞭を打つ拷問。
+j	推古	suiko	古い時代の事柄を調査し、推し量ること。
+j	推奉	suiho	尊ぶこと。推尚すること。
+j	推恕	suijo	憐みを加えて赦すこと。
+j	推想	suiso	あれこれと考えを巡らせること。あれこれと想像するこ…
+j	推拷	suiko	鞭を打つ拷問。
+j	推拿	suina	
+j	推敲	suiko	revising, polishing of a …
+j	推校	suiko	推考すること。
+j	推演	suien	推し広めること。
+j	推理	suiri	deduction, inference
+j	推考	suiko	推測して考えること。
+j	推衍	suien	推演の異表記。
+j	推譲	suijo	他人を推して自分は譲ること。
+j	推較	suiko	比較すること。
+j	推辞	suiji	ある物事を他人に譲り、自分は辞退すること。
+j	掬い	sukui	scooping
+j	掬う	sukuu	to scoop, to shovel
+j	救い	sukui	help, rescue, relief, sal…
+j	救う	sukuu	to save, to rescue, to re…
+j	数万	suman	三、四万か五、六万か漠然とした数字を表す語。
+j	数倍	subai	2倍から5倍くらいまでのおよその数字を表す。
+j	数値	suchi	numeric value
+j	数兆	sucho	2兆から5兆くらいの大雑把な数。
+j	数千	susen	2000から5000くらいの大雑把な数。
+j	数名	sumei	二人以上の少数の人数。
+j	数回	sukai	2、3回から5回くらいの大雑把な回数。
+j	数年	sunen	三、四から五、六年の年数。
+j	数段	sudan	2段から5段くらいまでのおよその数を表す。
+j	数秒	subyo	a few seconds
+j	数表	suhyo	一定の規則により計算した結果を記した表。
+j	数詞	sushi	numeral
+j	数論	suron	number theory
+j	数量	suryo	quantity
+j	末子	sueko	youngest child
+j	末記	sueki	a male given name
+j	末野	sueno	a surname
+j	枢憲	suken	憲法。
+j	枢相	susho	「枢密院議長」の略称。
+j	枢管	sukan	枢要なこと。また、そのようなさま。
+j	枢鍵	suken	物事を解決するのに肝要（肝心）なところ。
+j	棰楚	suiso	杖刑。また、それに使用する鞭。
+j	榱崩	suiho	建造物が大きく崩壊すること。
+j	榱桁	suiko	榱と桁。
+j	水上	suijo	aquatic
+j	水利	suiri	water supply
+j	水化	suika	hydration (incorporation …
+j	水和	suiwa	水溶液の中で、溶質の分子やイオン、コロイド粒子が周…
+j	水壺	suiko	水差し。
+j	水夫	suifu	a sailor, a seaman.
+j	水孔	suiko	植物の葉の先端や縁にあり、水を排出する小さな孔。
+j	水定	suijo	仏道を修行する者が自ら水中に身を投げ死ぬこと。
+j	水工	suiko	水夫。
+j	水府	suifu	水神が住むとされる海底の都。
+j	水庫	suiko	ダム。貯水池。
+j	水攻	suiko	水攻め。
+j	水曜	suiyo	planet Mercury
+j	水楼	suiro	湖沼や河川などの水辺に建てられた楼閣。水閣。
+j	水槽	suiso	water tank
+j	水気	suiki	moisture; vapour (UK), va…
+j	水泡	suiho	bubble
+j	水泳	suiei	swimming
+j	水温	suion	water temperature
+j	水湄	suibi	水辺。
+j	水溝	suiko	鼻の下にある溝。
+j	水溶	suiyo	水に溶けること。または、溶けていること。
+j	水漏	suiro	水時計。
+j	水潦	suiro	大雨。長雨。洪水。
+j	水濠	suigo	障害走で設置される水溜まり。
+j	水火	suika	water and fire
+j	水烟	suien	水煙の異表記。
+j	水煙	suien	みずけむり。
+j	水狐	suiko	水弩。蜮の一種。
+j	水理	suiri	水（地下水）の流れ。水脈。
+j	水瓜	suika	ウリ科の一年草の植物。果実は食用。西瓜。
+j	水疱	suiho	blister (bubble on the sk…
+j	水痘	suito	chicken pox
+j	水禍	suika	flood disaster, disaster …
+j	水筒	suito	water bottle
+j	水簸	suihi	固体の粒子が水中で沈降する速度が違うことを利用した…
+j	水素	suiso	hydrogen (chemical elemen…
+j	水肥	suihi	液状の肥料。液肥。
+j	水艙	suiso	船舶内で飲料やボイラーなどに使用する水を貯めておく…
+j	水草	suiso	aquatic plants
+j	水葬	suiso	burial at sea
+j	水藻	suiso	水中で育つ藻類。
+j	水虎	suiko	河童。
+j	水蛟	suiko	みずち。
+j	水路	suiro	seaway, waterway, waterco…
+j	水運	suiun	water transportation, riv…
+j	水道	suido	water service; water supp…
+j	水部	suibu	部首「⽔」で分類した漢字の一群。
+j	水郷	suigo	川や湖沼などの水辺にある村里。水村。水郭。
+j	水都	suito	水運が重要な役割を果たしている都市の通称。
+j	水鉛	suien	モリブデン。
+j	水閘	suiko	water gate
+j	水防	suibo	flood prevention, flood c…
+j	水雲	suiun	clouds and water
+j	水霧	suimu	霧。特に川霧。
+j	水頭	suito	河川などの水のほとり。水辺。
+j	水飛	suihi	「水簸」を参照。
+j	水馬	suiba	techniques for crossing w…
+j	水高	suiko	水の高さ。
+j	水魔	suima	disastrous flood
+j	済んだ	sunda	
+j	漉いた	suita	
+j	澄んだ	sunda	
+j	澄夫	sumio	a male given name
+j	澄江	sumie	a female given name
+j	澄男	sumio	a male given name
+j	澄雄	sumio	a male given name
+j	炊事	suiji	cooking
+j	炊夫	suifu	炊事のために雇われた男性。
+j	炊婦	suifu	炊事のために雇われた女性。
+j	炊烟	suien	炊煙の異表記。
+j	炊煙	suien	炊事の煙。
+j	燧烟	suien	燧煙の異表記。
+j	燧烽	suiho	狼煙。
+j	燧煙	suien	烽火。
+j	瘁貌	suibo	病んで疲れた様子。
+j	睡味	suimi	寝心地。睡興。
+j	睡夢	suimu	睡眠中に見る夢。
+j	睡寐	suibi	眠ること。睡眠。
+j	睡臥	suiga	横になり睡眠をとること。
+j	睡語	suigo	寝言。
+j	睡魔	suima	"devil of sleepiness": (f…
+j	睡鳧	suifu	眠る鴨。
+j	穂状	suijo	穂のような形状。
+j	箠罵	suiba	鞭で打ちながら罵ること。
+j	箠轡	suihi	馬を走らせること。
+j	粋方	suiho	粋人。
+j	粋法	suiho	粋人。
+j	粋美	suibi	純粋で美しいこと。また、そのようなさま。
+j	粋語	suigo	精粋の語。
+j	純男	sumio	a male given name
+j	素揚げ	suage	frying directly, without …
+j	素甘	suama	suama (Japanese sweet mad…
+j	素直	sunao	honest, direct, frank
+j	素見	suken	window-shopping; browsing
+j	素顔	sugao	unadorned face; a face wi…
+j	綏宥	suiyu	撫恤すること。
+j	綏撫	suibu	人民を安んじ、鎮めること。
+j	綏遠	suien	遠方を平定して治めること。
+j	縐絹	suken	粗い絹。
+j	翠影	suiei	緑に茂った樹木の影。
+j	翠微	suibi	山の中腹。八合目あたり。
+j	翠曽	suiso	カワセミのように飛び上がって舞うこと（参考：『新選…
+j	翠梧	suigo	青緑の梧桐。
+j	翠楼	suiro	緑色に塗った楼閣。
+j	翠烟	suien	翠煙の異表記。
+j	翠煙	suien	緑色の煙。
+j	翠眉	suibi	（緑色の）美しい眉。
+j	翠花	suika	天子、天皇の旗。
+j	翠華	suika	天子、天皇の旗。
+j	翠蔭	suiin	「翠陰」の異表記。
+j	翠陰	suiin	青葉のかげ。みどりの葉かげ。
+j	翠霞	suika	緑色の霞。
+j	翠露	suiro	草木の葉の緑が露のように瑞々しく滴るようなさま。
+j	膵尾	suibi	膵臓の細くなって脾臓に隣接する部分。
+j	膵島	suito	islets of Langerhans
+j	膵炎	suien	膵臓におこる急性または慢性の炎症性疾患の総称。膵臓…
+j	膵臓	suizo	pancreas
+j	芻米	subei	まぐさと米。人馬の食糧。
+j	芻粮	suryo	「芻糧」の異表記。
+j	芻糧	suryo	まぐさと兵糧。人馬の食糧。
+j	芻言	sugen	芻蕘の言葉。
+j	芻豢	sukan	家畜。
+j	菅井	sugai	a surname
+j	萃乎	suiko	集まること。そのさま。
+j	萃如	suijo	集まること。そのさま。
+j	萃曠	suiko	広大なさま。
+j	蒭言	sugen	「芻言」の異表記。
+j	蓚	suiba	
+j	衰乏	suibo	減少すること。
+j	衰亡	suibo	衰えて滅ぶこと。衰えて死ぬこと。衰退して滅亡するこ…
+j	衰容	suiyo	やつれた容姿。衰貌。
+j	衰枯	suiko	枯れること。
+j	衰槁	suiko	衰朽すること。
+j	衰耗	suiko	衰え、弱ること。
+j	衰興	suiko	盛衰。
+j	衰蓬	suiho	枯れた蓬。
+j	衰貌	suibo	やつれた容姿。衰容。
+j	西瓜	suika	watermelon
+j	誰何	suika	a challenge, questioning
+j	誶罵	suiba	責め罵ること。
+j	誶語	suigo	罵る言葉。暴言。
+j	趨勢	susei	trend, tendency
+j	趨性	susei	刺激を受けた際に、一定の方向に移動しようとする性質…
+j	足恭	sukyo	度が過ぎて恭しいこと。
+j	遂亡	suibo	滅亡すること。
+j	遂行	suiko	accomplishment; execution
+j	邃古	suiko	太古。大昔。
+j	邃幽	suiyu	邃く幽かなこと。
+j	邃延	suien	冕の上に被さっている板から垂れ下がること。
+j	邃房	suibo	邃室。
+j	邃淵	suien	邃い淵。
+j	邃美	suibi	邃く美しいこと。そのさま。
+j	邃遠	suien	邃く遠いこと。そのさま。
+j	酔夢	suimu	酔眠して見る夢。
+j	酔寐	suibi	酔って寝ること。酔眠。
+j	酔後	suigo	酔った後。酔余。
+j	酔戸	suiko	上戸。
+j	酔朋	suiho	酒を飲む際にいつも一緒に飲む仲間。酒友。
+j	酔歌	suika	酒に酔い、つくったり歌ったりする歌。
+j	酔眸	suibo	酔ったときの瞳。酔眼。
+j	酔紅	suiko	酔顔。
+j	酔臥	suiga	酒に酔って臥せること。酔って倒れること。
+j	酔語	suigo	酔後の他愛無い話。酔言。
+j	酔象	suizo	drunken elephant (a piece…
+j	酔豪	suigo	酒豪。
+j	酔貌	suibo	酔った顔。
+j	酔飽	suiho	酒を飲み、たらふく食べること。
+j	酸い葉	suiba	
+j	酸し	sushi	sour; tasting of vinegar
+j	酸葉	suiba	
+j	醉象	suizo	drunken elephant (a piece…
+j	錐刀	suito	錐と小刀。
+j	錐毛	suimo	微細なもの。
+j	錐状	suijo	錐のような形状。
+j	錐股	suiko	腿を刺すこと。
+j	錘鉛	suien	測深器の錘とする鉛製の器具。
+j	陬見	suken	偏見。
+j	隧口	suiko	墓地への道の入り口。
+j	隧埏	suien	墓室の道。埏隧。
+j	隧戸	suiko	墓道の前の門。
+j	隧路	suiro	隧道。トンネル。
+j	隹部	suibu	部首「⾫」で分類した漢字の一群。
+j	靃靡	suibi	草が靡くさま。
+j	須市	sushi	
+j	駿府	sunpu	静岡市の旧称。
+k	수각	sugak	
+k	수간	sugan	bestiality (sexual activi…
+k	수감	sugam	
+k	수갑	sugap	handcuffs, manacles, shac…
+k	수개	sugae	
+k	수거	sugeo	
+k	수과	sugwa	
+k	수괴	sugoe	ringleader
+k	수교	sugyo	
+k	수국	suguk	
+k	수깃	sugit	
+k	수난	sunan	passion: suffering of Chr…
+k	수납	sunap	
+k	수놈	sunom	a male
+k	수뇌	sunoe	
+k	수단	sudan	Sudan (a country in North…
+k	수달	sudal	river otter, especially L…
+k	수닭	sudak	North Korea standard spel…
+k	수대	sudae	
+k	수락	surak	acceptance
+k	수란	suran	poached egg
+k	수록	surok	collection
+k	수론	suron	
+k	수뢰	suroe	어뢰, 기뢰 따위와 같이 물속에서 폭발하여 적…
+k	수료	suryo	
+k	수류	suryu	
+k	수리아	suria	Syria
+k	수림	surim	
+k	수립	surip	
+k	수막	sumak	
+k	수만	suman	
+k	수말	sumal	stallion (male horse)
+k	수매	sumae	
+k	수목	sumok	tree; trees
+k	수몰	sumol	
+k	수묵	sumuk	
+k	수문	sumun	
+k	수박	subak	watermelon
+k	수반	suban	
+k	수발	subal	
+k	수배	subae	
+k	수복	subok	
+k	수본	subon	
+k	수분	subun	물을 포함하는 양.
+k	수산	susan	marine products
+k	수삼	susam	
+k	수서	suseo	being aquatic (living in …
+k	수속	susok	procedure
+k	수술	susul	surgery
+k	수식	susik	mathematical expression, …
+k	수신	susin	
+k	수심	susim	depth of water
+k	수십	susip	scores, dozens
+k	수액	suaek	
+k	수약	suyak	
+k	수억	sueok	
+k	수업	sueop	a class
+k	수여	suyeo	
+k	수오리	suori	drake (a male duck)
+k	수완	suwan	
+k	수원	suwon	Suwon (the capital city o…
+k	수은	sueun	mercury
+k	수음	sueum	masturbation, onanism
+k	수작	sujak	우수한 작품.
+k	수잔	sujan	
+k	수잠	sujam	
+k	수재	sujae	
+k	수저	sujeo	cutlery; spoon(s) and cho…
+k	수족	sujok	hand and foot; hands and …
+k	수죄	sujoe	
+k	수준	sujun	a standard or criterion l…
+k	수직	sujik	위에서 아래로 곧바르게 뻗은 방향.
+k	수질	sujil	water quality
+k	수집	sujip	collection, collecting
+k	수차	sucha	
+k	수초	sucho	물가나 물속에 자라는 식물.
+k	수치	suchi	shame
+k	수캐	sukae	male dog
+k	수쿤	sukun	
+k	수크	sukeu	
+k	수탁	sutak	
+k	수탄	sutan	근심하고 탄식함.
+k	수탈	sutal	
+k	수탉	sutak	rooster (male chicken)
+k	수태	sutae	conception; fertilization
+k	수판	supan	abacus
+k	수폭	supok	
+k	수표	supyo	cheque, check (bank)
+k	수풀	supul	forest, woods, woodland
+k	수프	supeu	soup (dish, especially We…
+k	수필	supil	essay (written compositio…
+k	수학	suhak	mathematics
+k	수한	suhan	
+k	수함	suham	
+k	수해	suhae	
+k	수혜	suhye	
+k	수호이	suhoi	
+k	수화	suhwa	sign language
+k	수효	suhyo	number (of something)
+k	숙고	sukgo	
+k	숙다	sukda	
+k	숙사	suksa	
+k	숙세	sukse	
+k	숙소	sukso	lodging; accommodation
+k	숙수	suksu	plain-woven fabric made w…
+k	숙어	sugeo	idiom
+k	숙제	sukje	homework
+k	순나	sunna	
+k	순도	sundo	purity
+k	순무	sunmu	turnip
+k	순수	sunsu	purity
+k	순시	sunsi	
+k	순애	sunae	pure love
+k	순위	sunwi	ranking
+k	순조	sunjo	('순조로' 꼴로 쓰여) 일 따위가 아무 탈이…
+k	술게	sulge	
+k	술수	sulsu	무엇을 그럴듯하게 꾸미는 방법.
+k	술어	sureo	predicate (grammar)
+k	숨다	sumda	to hide, disappear
+k	숫기	sutgi	assertiveness (in persona…
+k	숫소	sutso	'수소'의 비표준어
+k	숫자	sutja	numeral
+k	싀앗	suiat	씨앗의 옛말
+e	subaru	subaru	3 meanings
+e	subdue	subdue	2 meanings
+e	sublet	sublet	1 meaning
+e	submit	submit	1 meaning
+e	subset	subset	1 meaning
+e	subtle	subtle	1 meaning
+e	suburb	suburb	2 meanings
+e	subway	subway	2 meanings
+e	sucker	sucker	2 meanings
+e	suckle	suckle	1 meaning
+e	sudden	sudden	1 meaning
+e	sudoku	sudoku	1 meaning
+e	suffer	suffer	3 meanings
+e	suffix	suffix	1 meaning
+e	sufism	sufism	1 meaning
+e	sugary	sugary	1 meaning
+e	sujāta	sujata	1 meaning
+e	sukhoi	sukhoi	1 meaning
+e	sulfur	sulfur	3 meanings
+e	sultan	sultan	1 meaning
+e	sultry	sultry	1 meaning
+e	sumida	sumida	1 meaning
+e	summer	summer	1 meaning
+e	summit	summit	2 meanings
+e	summon	summon	3 meanings
+e	sun dog	sundog	1 meaning
+e	sunbae	sunbae	1 meaning
+e	sundae	sundae	1 meaning
+e	sunday	sunday	2 meanings
+e	sundew	sundew	1 meaning
+e	sunnah	sunnah	2 meanings
+e	sunset	sunset	3 meanings
+e	suntan	suntan	1 meaning
+e	supine	supine	1 meaning
+e	supper	supper	2 meanings
+e	supply	supply	6 meanings
+e	surely	surely	2 meanings
+e	surety	surety	1 meaning
+e	surimi	surimi	1 meaning
+e	surrey	surrey	2 meanings
+e	survey	survey	7 meanings
+e	sushen	sushen	1 meaning
+e	suslik	suslik	1 meaning
+e	suture	suture	1 meaning
+e	suzhou	suzhou	3 meanings
+e	suzuki	suzuki	1 meaning
+j	すあし	suashi	履物をはかない足。
+j	すいかん	suikan	吹管: A blowpipe.
+j	すいぎん	suigin	水銀: (chemistry) mercury, …
+j	すいしゅ	suishu	水腫: dropsy, edema
+j	すいじん	suijin	水神: god of water
+j	すいすい	suisui	軽快に進むさま。
+j	すいせい	suisei	
+j	すいてい	suitei	
+j	すいでん	suiden	水田: a flooded paddy
+j	すいりゅう	suiryu	水流: water current
+j	すうじく	sujiku	枢軸: centre, core, heart; …
+j	すうどく	sudoku	
+j	すえおき	sueoki	「すえおく」の連用形。
+j	すえおく	sueoku	ある場所に動かさずに置く。
+j	すえぜん	suezen	ready meal
+j	すえっこ	suekko	兄弟姉妹の中で一番最後に生まれたもの。末子。
+j	すかす	sukasu	気取る、すます。
+j	すがた	sugata	身体の形。からだつき。
+j	すがま	sugama	icicle
+j	すがめ	sugame	squinting
+j	すがる	sugaru	頼みの綱としてしっかりつかまる。しがみつく。
+j	すきこ	sukiko	髪結の弟子で、結髪の前に髪を梳く者。梳手。
+j	すきだ	sukida	
+j	すきま	sukima	物と物の狭いあいだ。
+j	すきみ	sukimi	透き間から見ること。覗き見。
+j	すぎな	sugina	トクサ目トクサ属に属するしだの一種。学名:Equi…
+j	すぎる	sugiru	事柄が去り行く。
+j	すくむ	sukumu	to freeze; to be paralyze…
+j	すくも	sukumo	泥炭: peat
+j	すぐに	suguni	時間をおかずに。極めて短い時間のうちに。ただちに。
+j	すぐり	suguri	ユキノシタ目スグリ科スグリ属に属する落葉低木、常緑…
+j	すぐる	suguru	多くの物の中から良い物を選び出す。
+j	すけべ	sukebe	助け平: lewdness; a lecher
+j	すけべえ	sukebe	助け平: lewdness; a lecher
+j	すける	sukeru	手伝う。助ける。
+j	すこる	sukoru	to feel affection; to like
+j	すごか	sugoka	ka-ending dialect form of…
+j	すごく	sugoku	「すごい」の連用形。
+j	すごす	sugosu	時間を費やす。
+j	すごみ	sugomi	凄い感じ。
+j	すごむ	sugomu	相手を威圧するような態度で迫る。
+j	すさび	susabi	逰: travel
+j	すさぶ	susabu	to be barren
+j	すさむ	susamu	失敗などにより精神の状態や行動が乱れる。
+j	すさる	susaru	後ろへ引き下がる。退く。
+j	すざか	suzaka	朱雀: Vermilion Bird
+j	すざく	suzaku	朱雀: Vermilion Bird
+j	すじあい	sujiai	物事の道理。また、正しい理由や根拠のある関係。
+j	すじこ	sujiko	さけやますなどの魚の卵巣に入ったままの卵。それを卵…
+j	すじめ	sujime	面と面が交わる線状の部分。
+j	すじゃく	sujaku	朱雀: Vermilion Bird
+j	すじる	sujiru	体をねじるように曲げる。
+j	すすき	susuki	susuki grass, Japanese pa…
+j	すすぎ	susugi	「すすぐ」の連用形。
+j	すすぐ	susugu	水で汚れを洗い落とす。
+j	すすむ	susumu	前方へ移動する。
+j	すすめ	susume	「すすめる」の未然形及び連用形。
+j	すすり	susuri	啜ること。
+j	すする	susuru	音を立てて少しずつ口に吸い込む。
+j	すずき	suzuki	スズキ目スズキ科の海水魚。成長するにしたがって呼び…
+j	すずこ	suzuko	鈴子, 錫子, 涼子, 寿々子, 珠洲子, 須々子…
+j	すずな	suzuna	蕪の異名。春の七草の一つとしてあげる時の呼称。
+j	すずむ	suzumu	暑さを避け、涼風に当たる。
+j	すずめ	suzume	スズメ目スズメ科スズメ属の鳥の一種。スズメを参照。
+j	すずり	suzuri	inkstone
+j	すその	susono	山麓で緩やかに広がった傾斜地。
+j	すたり	sutari	「すたる」の連用形。
+j	すたる	sutaru	廃れる。
+j	すだく	sudaku	集まる。群がる。[8世紀～]
+j	すだこ	sudako	茹でた蛸を酢に漬けた食品。
+j	すだれ	sudare	細く割いた竹や葦を糸で編んだ遮蔽具。日除けや仕切り…
+j	すっごーい	suggoi	elongated form of すごい
+j	すっぱい	suppai	（「酸い」の強調形、元は口語）酢など刺激的な酸の味…
+j	すっぴん	suppin	素っぴん: woman's face with n…
+j	すっぽん	suppon	爬虫綱カメ目スッポン科に属する亀の総称。
+j	すづけ	suzuke	食品を酢に漬けること。また、そのようにした食品。
+j	すてき	suteki	とても好ましい。魅力的。
+j	すてご	sutego	扶養義務のある者が乳幼児をこっそり捨てること。新た…
+j	すてね	sutene	損得を無視して付ける安い値段。
+j	すてみ	sutemi	命を投げ出す覚悟で事に当たること。
+j	すてる	suteru	不要なものを手放す。
+j	すでに	sudeni	ある事象が完了しているさま。もう、もはや、とっくに。
+j	すなご	sunago	砂。
+j	すなば	sunaba	砂地。
+j	すねげ	sunege	hair on the shin; leg hair
+j	すねた	suneta	
+j	すねり	suneri	素練。
+j	すねる	suneru	自分の思うようにいかなくてわざと逆らった態度をとる…
+j	すのこ	sunoko	duckboard (slatted floori…
+j	すばこ	subako	鳥類やみつばちなどに営巣させるための箱。
+j	すばる	subaru	スバル: Subaru, the automobi…
+j	すぶた	subuta	酢豚: sweet-and-sour pork
+j	すぶり	suburi	練習や鍛錬のため実際に相手を置かずにバットや竹刀、…
+j	すべき	subeki	adnominal of すべし (su-besh…
+j	すべた	subeta	
+j	すべて	subete	全部、みんな、全体、全体像。
+j	すべり	suberi	すべること。また、その程度。
+j	すべる	suberu	ものの表面をなめらかに移動する。
+j	すます	sumasu	to finish, to end, to set…
+j	すまた	sumata	何も着用せず肌が露出したままの股。
+j	すまぬ	sumanu	
+j	すみか	sumika	where one lives
+j	すみび	sumibi	炭火: a charcoal fire; a pi…
+j	すみや	sumiya	澄也: a male given name
+j	すみれ	sumire	菫, 菫菜, 菫葵: viola plant; V…
+j	すもも	sumomo	バラ科サクラ属の樹木、またはその果実。
+j	すもる	sumoru	沁みる。
+j	すやき	suyaki	釉薬を掛けずに低温の火力で焼くこと。また、それで焼…
+j	すやり	suyari	穂先が直線で枝がついていない槍。すぐやり。
+j	すらり	surari	刀などを一気に抜くさま。
+j	すりみ	surimi	主に魚肉を擂り鉢やそのような器具を使用し擂り潰した…
+j	すり身	surimi	fish meat pounded into a …
+j	すると	suruto	thus, so, thereupon, here…
+j	するめ	surume	いかを開いて内臓を取り除いた乾物。あたりめ。
+j	すれる	sureru	to rub (against, together)
+j	すわり	suwari	「すわる」の連用形。
+j	すわる	suwaru	（主に足で自重を支えなくて済むように）膝を折り曲げ…
+j	すんごい	sungoi	
+j	スィオネ	suione	木星の第29衛星の固有名。
+j	スイギュウ	suigyu	鯨偶蹄目ウシ科アジアスイギュウ属に属する牛の一種。…
+j	スイセン	suisen	「水仙」の学術的表記。
+j	スイレン	suiren	スイレン科の植物。
+j	スインガー	suinga	
+j	スイング	suingu	swing (a type of music)
+j	スイーツ	suitsu	sweets; dessert
+j	スウィート	suwito	「スイート」の表記ゆれ。
+j	スエット	suetto	suet
+j	スエーデン	sueden	スウェーデン。
+j	スカジ	sukaji	土星の第27衛星の固有名。
+j	スカム	sukamu	汚泥から発生する懸濁物質と腐敗ガスが合わさって形成…
+j	スカラー	sukara	scalar (quantity with mag…
+j	スカート	sukato	skirt (clothing)
+j	スカーフ	sukafu	light scarf, usually rect…
+j	スキャン	sukyan	走査。
+j	スキル	sukiru	skill (capacity to do som…
+j	スキージー	sukiji	
+j	スキーマ	sukima	
+j	スキーム	sukimu	a scheme
+j	スキーヤー	sukiya	a skier
+j	スキー場	sukijo	ski resort; a place offer…
+j	スクエア	sukuea	正方形。
+j	スクバ	sukuba	
+j	スクーター	sukuta	motor scooter
+j	スクーナー	sukuna	
+j	スクーバ	sukuba	スキューバのこと。
+j	スクープ	sukupu	a scoop
+j	スクール	sukuru	school (a place of learni…
+j	スグリ	suguri	
+j	スケブ	sukebu	スケッチブック。
+j	スケボー	sukebo	スケートボード (英語:skateboard) の…
+j	スケーター	suketa	スケートの選手。
+j	スケート	suketo	skates
+j	スケール	sukeru	scale (series of notes)
+j	スコル	sukoru	土星の第47衛星の固有名。
+j	スコート	sukoto	skort
+j	スコープ	sukopu	範囲、限界、視野。
+j	スコール	sukoru	a squall
+j	スジュード	sujudo	sujud
+j	ススキ	susuki	「すすき」の学術的表記。
+j	ススペ	susupe	北マリアナ諸島の主都。
+j	スズキ	suzuki	「鱸」の学術的表記。
+j	スズメ	suzume	スズメ目スズメ科スズメ属の留鳥で、人の居住するとこ…
+j	スタディー	sutadi	study
+j	スタバ	sutaba	
+j	スタブ	sutabu	情報システム開発の過程において、あるモジュールを呼…
+j	スターター	sutata	
+j	スタート	sutato	a start
+j	スッポン	suppon	「鼈」の学術的表記。
+j	スティーブ	sutibu	a transliteration of the …
+j	スティーヴ	sutivu	Steve
+j	ステイン	sutein	よごれ。しみ。特に歯の表面につくやにやしぶなどのよ…
+j	ステマ	sutema	
+j	ステーキ	suteki	steak (slice of beef)
+j	ステージ	suteji	stage, a place for perfor…
+j	ステート	suteto	a state, a nation, a coun…
+j	ストゥーパ	sutupa	stupa
+j	ストゥール	suturu	
+j	ストピ	sutopi	
+j	ストロー	sutoro	drinking straw
+j	ストーカー	sutoka	a stalker
+j	ストーブ	sutobu	heater; stove
+j	ストーマ	sutoma	stoma
+j	ストーム	sutomu	暴風雨。嵐。
+j	ストーリー	sutori	story (account of events)
+j	ストール	sutoru	stole (scarf)
+j	スニーカー	sunika	a sneaker (leisure shoes,…
+j	スヌーカー	sunuka	ビリヤードに似た競技でポケットビリヤードの2倍以上…
+j	スヌース	sunusu	snus
+j	スヌーズ	sunuzu	snooze (an alarm)
+j	スヌード	sunudo	snood
+j	スヌーピー	sunupi	
+j	スネーク	suneku	蛇。
+j	スネ毛	sunege	leg hair
+j	スノボ	sunobo	スノーボードの略称。
+j	スバル	subaru	Subaru (automotive manufa…
+j	スパナ	supana	synonym of レンチ (renchi, “…
+j	スパム	supamu	spam
+j	スパーク	supaku	a spark
+j	スパート	supato	競走などで全速力を出すこと。
+j	スピカ	supika	Spica
+j	スピーカー	supika	speaker (person who speak…
+j	スピーディ	supidi	はやいさま。迅速。すみやか。
+j	スピーディー	supidi	speedy; quick
+j	スピード	supido	speed
+j	スフミ	sufumi	事実上の独立国であるアブハジアの首都。
+j	スフレ	sufure	soufflé
+j	スフール	sufuru	suhur (a pre-dawn breakfa…
+j	スプレー	supure	spray (commercial product)
+j	スプール	supuru	spool
+j	スペイン	supein	Spain (a country in South…
+j	スペル	superu	a spell
+j	スペース	supesu	space, area, room
+j	スペード	supedo	spades
+j	スペ公	supeko	スペイン人に対する侮辱語。スペカス。
+j	スポオタ	supota	スポーツ好きのおたく。
+j	スポヲタ	supota	「スポオタ」の別表記。
+j	スポーク	supoku	spoke (of a wheel)
+j	スポーティー	supoti	スポーツ向きで軽快なさま。
+j	スマフォ	sumafo	
+j	スマホ	sumaho	「スマートフォン」の略。
+j	スマート	sumato	slim, trim, slender
+j	スマーフ	sumafu	
+j	スミス	sumisu	Smith
+j	スミレ	sumire	すみれの学術的表記。
+j	スムージー	sumuji	smoothie
+j	スムース	sumusu	
+j	スムーズ	sumuzu	smooth (without difficult…
+j	スメル	sumeru	香り。匂い。
+j	スモモ	sumomo	すももの学術的表記。
+j	スモーカー	sumoka	喫煙者、愛煙家。
+j	スモーク	sumoku	けむり。特にドライアイスなどを使った演出用の白煙。
+j	スモール	sumoru	小さい。
+j	スラグ	suragu	slag
+j	スラブ	surabu	slab
+j	スラム	suramu	a slum
+j	スラリー	surari	slurry
+j	スラヴ	suravu	the state or quality of b…
+j	スリム	surimu	細いさま。ほっそりしたさま。
+j	スリラー	surira	thriller (a suspenseful, …
+j	スリル	suriru	thrill
+j	スリーター	surita	原動機を搭載した三輪の乗り物でスイング機構を持ち、…
+j	スリーブ	suribu	a sleeve
+j	スリープ	suripu	睡眠。
+j	スリーヴ	surivu	
+j	スルト	suruto	土星の第48衛星の固有名。
+j	スループ	surupu	a sloop (single-masted sa…
+j	スル語	surugo	
+j	スレート	sureto	slate
+j	スレーブ	surebu	奴隷。
+j	スローイン	suroin	
+j	スローター	surota	惨殺。虐殺。
+j	スロープ	suropu	傾斜地。勾配。斜面。坂。斜路。
+j	スローモー	suromo	「スローモーション」の略。
+j	スートラ	sutora	
+j	スーパーカー	supaka	
+j	スーラト	surato	
+j	スーリヤ	suriya	
+j	之	susumu	a male given name
+j	傑	suguru	a male given name
+j	全て	subete	entirely, completely; all
+j	凄く	sugoku	very, immensely
+j	出師	suishi	軍隊を送り出すこと。出兵。
+j	助野	sukeno	a surname
+j	勧め	susume	suggestion, recommendatio…
+j	吹嘘	suikyo	息を吹きかけること。
+j	吹塵	suijin	国を統治すること。治国。
+j	吹扇	suisen	側から助けること。
+j	吹禅	suizen	blowing meditation, pract…
+j	吹筦	suikan	吹管の異表記。
+j	吹管	suikan	blowpipe
+j	吹鳴	suimei	吹き鳴らすこと。
+j	啜る	susuru	sip tea or soup; slurp no…
+j	四暗刻	suanko	a 役満 (yakuman, “limit”) h…
+j	垂仁	suijin	恵むこと。
+j	垂名	suimei	名を後世に残すこと。
+j	垂命	suimei	瀕死の状態であること。垂死。
+j	垂憲	suiken	規範を示すこと。
+j	垂拱	suikyo	君主が何事もしないこと。天下が良く治まっていること…
+j	垂教	suikyo	教えを説いて示すこと。
+j	垂柳	suiryu	weeping willow
+j	垂業	suigyo	事業を始めること。
+j	垂死	suishi	今にも死にそうであること。
+j	垂涎	suizen	slavering
+j	垂準	suijun	大工が柱の曲がりや傾きを測るため、墨縄を垂直に垂ら…
+j	垂眷	suiken	愛顧。贔屓。
+j	垂矜	suikyo	憐れみを掛けること。
+j	垂示	suishi	教え示すこと。
+j	垂竿	suikan	垂釣。魚釣。
+j	垂範	suihan	setting an example
+j	垂簾	suiren	簾を下げること。
+j	垂線	suisen	perpendicular line
+j	垂裳	suisho	手をこまねいて何もしないこと。天下が治まっているこ…
+j	垂訓	suikun	教えを説き、示すこと。
+j	垂釣	suicho	水中に釣り針を垂らして魚を釣ること。
+j	垂髫	suicho	小さな子供の下げ髪。
+j	垂鬟	suikan	唐代の結髪形式の一つ。
+j	墨字	sumiji	点字に対し、紙などに書いて晴眼者が目で読む文字のこ…
+j	墨田	sumida	Sumida (one of 23 special…
+j	壽実子	sumiko	a female given name
+j	壽美子	sumiko	a female given name
+j	好きよ	sukiyo	
+j	好きピ	sukipi	object of affection
+j	好実子	sumiko	a female given name
+j	姿	sugata	figure, appearance, form,…
+j	寸前	sunzen	the verge, the moment jus…
+j	寸地	sunchi	僅かな土地。寸土。尺地。
+j	寸実子	sumiko	a female given name
+j	寸志	sunshi	small token of appreciati…
+j	寸感	sunkan	ちょっとした感想。
+j	寸描	sunbyo	ごく簡単に描写すること。スケッチ。
+j	寸断	sundan	dividing or cutting off
+j	寸書	sunsho	短い手紙。寸楮。寸牘。
+j	寸楮	suncho	短い手紙。
+j	寸秒	sunbyo	ごく僅かな時間。
+j	寸簡	sunkan	短い手紙。寸楮。寸牘。
+j	寸紙	sunshi	僅かな紙。
+j	寸翰	sunkan	短い手紙。寸楮。寸牘。
+j	寸言	sungen	短い言葉。
+j	寸閑	sunkan	僅かな暇。寸暇。
+j	寸間	sunkan	僅かな暇。寸暇。
+j	寿実子	sumiko	a female given name
+j	寿美子	sumiko	a female given name
+j	崇実子	sumiko	a female given name
+j	崇特	sutoku	特に優れるさま。特秀。
+j	崇篤	sutoku	尊崇。
+j	崇閣	sukaku	高閣。
+j	崇高な	sukona	
+j	巣箱	subako	birdhouse (small house fo…
+j	座る	suwaru	to sit, to have a seat
+j	座れ	suware	
+j	廃る	sutaru	synonym of 廃れる (sutareru,…
+j	彗星	suisei	comet
+j	彗美子	sumiko	a female given name
+j	悴賤	suisen	窶れて賤しいこと。そのさま。
+j	悴顔	suigan	衰顔の異表記。
+j	拗ねる	suneru	to sulk
+j	挿げた	sugeta	
+j	挿げる	sugeru	to open a hole in somethi…
+j	捨てる	suteru	to throw away
+j	捨身	sutemi	to put one's life on the …
+j	据え置き	sueoki	deferment of payment and …
+j	据え置く	sueoku	defer, leave as is
+j	据わる	suwaru	to stop moving or danglin…
+j	捶丸	suigan	中国伝統の、球を打つ遊び。ゴルフに似ている。
+j	捶胸	suikyo	胸を捶って悲しむこと。
+j	推勘	suikan	詮議。糾問。
+j	推原	suigen	本原を問うこと。
+j	推命	suimei	運勢を占うこと。
+j	推奨	suisho	recommendation, encourage…
+j	推官	suikan	古代中国で、獄の管理官の一種。
+j	推定	suitei	estimation
+j	推尊	suison	推して尊ぶこと。崇めること。
+j	推尋	suijin	推測しながら問うこと。
+j	推尚	suisho	尊ぶこと。
+j	推尽	suijin	推究。
+j	推挽	suiban	車を押したり引いたりすること。
+j	推断	suidan	inference; deduction
+j	推明	suimei	究明すること。
+j	推知	suichi	推察して知ること。
+j	推薦	suisen	recommendation
+j	推言	suigen	推論。
+j	推計	suikei	estimation, an estimate
+j	推訊	suijin	詰問。
+j	推論	suiron	inference, deduction
+j	推謙	suiken	他人を推薦して地位・名誉などを譲ること。推譲。
+j	推賢	suiken	賢人を推薦すること。
+j	推輓	suiban	車を押したり引いたりすること。
+j	推遷	suisen	事に託けて延期すること。
+j	推選	suisen	選んで薦めること。
+j	推重	suicho	尊重すること。
+j	推量	suiryo	conjecture
+j	推陥	suikan	推して陥れること。
+j	数個の	sukono	
+j	数奇屋	sukiya	tea ceremony pavillion
+j	数学	sugaku	mathematics (field of stu…
+j	数弱	sujaku	数学が苦手であること。また、そのような人。
+j	数独	sudoku	sudoku (a type of puzzle)
+j	既に	sudeni	already
+j	昴	subaru	the Pleiades star cluster…
+j	末っ子	suekko	youngest child
+j	朱実子	sumiko	a female given name
+j	朱雀	suzaku	the Vermillion Bird of th…
+j	杉田	sugita	a surname
+j	杉菜	sugina	field horsetail (Equisetu…
+j	杉野	sugino	a surname
+j	李	sumomo	plum (Prunus salicina)
+j	枢軸	sujiku	centre, core, heart
+j	棄てる	suteru	
+j	水中	suichu	underwater
+j	水主	suishu	船舶の乗組員。
+j	水人	suijin	水郷の人。
+j	水仙	suisen	narcissus (any of several…
+j	水位標	suihyo	
+j	水兵	suihei	a sailor
+j	水冷	suirei	機械などの熱を水で冷却すること。
+j	水分	suibun	moisture
+j	水勢	suisei	strength of water
+j	水司	suishi	a 律令 (Ritsuryō) position …
+j	水問	suimon	水責めによる拷問。
+j	水圏	suiken	hydrosphere
+j	水域	suiiki	body of water
+j	水天	suiten	水と天空。
+j	水官	suikan	川の中にある神界。
+j	水害	suigai	water damage, flood disas…
+j	水尽	suijin	水平線の果て。
+j	水居	suikyo	水上や水辺の住まい。
+j	水岸	suigan	岸。
+j	水師	suishi	水上で戦う軍隊。
+j	水干	suikan	cloth that has been stret…
+j	水平	suihei	lateral; horizontal; level
+j	水彩	suisai	watercolour (pigment)
+j	水性	suisei	the quality of being aque…
+j	水患	suikan	水害。
+j	水戦	suisen	水上の戦。舟戦。
+j	水戰	suisen	水戦の旧字体表記。
+j	水損	suison	水害による損害。
+j	水文	suimon	地球上の水の循環の概念。
+j	水旱	suikan	洪水と旱魃。また、それらによる災害。
+j	水明	suimei	澄んだ川の水が反射して輝き美しいこと。
+j	水星	suisei	Mercury (planet)
+j	水晶	suisho	crystal
+j	水書	suisho	墨の代わりに水で書く書道。
+j	水村	suison	河川や湖沼のほとりにある村。水郷。水郭。
+j	水松	suisho	Chinese swamp cypress (Gl…
+j	水柱	suichu	column of water
+j	水栓	suisen	water faucet
+j	水棺	suikan	原発事故の際に原子炉格納容器の内部を水で満たし、燃…
+j	水檻	suikan	水辺の欄干。
+j	水死	suishi	drowning
+j	水泉	suisen	湧き出る泉。
+j	水洗	suisen	flushing with water, espe…
+j	水流	suiryu	water current
+j	水浜	suihin	水際。水辺。
+j	水涯	suigai	水辺。水際。岸。
+j	水渠	suikyo	溝。溝渠。
+j	水源	suigen	Source of a river; founta…
+j	水準	suijun	the sufficient level; lev…
+j	水潯	suijin	水辺。水際。水涯。
+j	水澨	suizei	水浜。水際。水辺。
+j	水災	suisai	flood
+j	水煎	suisen	水繊の異表記。
+j	水牛	suigyu	water buffalo, Bubalus bu…
+j	水犬	suiken	狆の一種。
+j	水球	suikyu	water polo
+j	水生	suisei	aquatic (life)
+j	水産	suisan	marine products; fisheries
+j	水田	suiden	paddy field
+j	水界	suikai	地球表面で水に覆われている部分。水圏。
+j	水癌	suigan	noma
+j	水監	suikan	水鑑の異表記。
+j	水盤	suiban	水を張り花を生けたり盆石をいれたりするための浅い器。
+j	水神	suijin	a Japanese god of water
+j	水管	suikan	water pipe, drain
+j	水簾	suiren	滝の異称。
+j	水系	suikei	water system
+j	水線	suisen	waterline
+j	水練	suiren	泳ぐ技術やその訓練。
+j	水繊	suisen	葛粉を水に溶き、水繊鍋に薄く流し入れて湯煎したもの…
+j	水缶	suikan	液体を運ぶタンク。
+j	水肺	suihai	ナマコ類の持つ樹枝のような形状の呼吸器。
+j	水腫	suishu	dropsy
+j	水芹	suikin	芹を元にした生薬。
+j	水蘭	suiran	キク科の多年草。学名:Hololeion kram…
+j	水螅	suishi	ヒドラの別名。
+j	水蟾	suisen	水繊の異表記。
+j	水行	suigyo	【すいぎょう・みずぎょう】神仏に祈願したり、心神の…
+j	水褌	suikon	水泳の際に締めるふんどし。
+j	水観	suikan	水辺の眺望。
+j	水象	suisho	気象や地震に関連して起こる陸水や海洋の様々な現象。
+j	水車	suisha	water wheel
+j	水軍	suigun	水上兵力を持つ武士団。水師、船師、舟師、海賊衆、警…
+j	水輪	suirin	三輪、四輪の一つ。風輪と金輪との間にある大きな水の…
+j	水量	suiryo	volume of water, quantity…
+j	水銀	suigin	mercury; quicksilver
+j	水鏡	suikyo	水面に物の影が移ること。みずかがみ。
+j	水鑑	suikan	水鏡。
+j	水鑒	suikan	水鑑の異表記。
+j	水門	suimon	water gate, sluice (passa…
+j	水険	suiken	水に係る難所。
+j	水雷	suirai	military torpedos and sea…
+j	水面	suimen	surface of the water
+j	水魚	suigyo	water and fish
+j	汕頭	suwato	Shantou (a prefecture-lev…
+j	洲実子	sumiko	a female given name
+j	涼む	suzumu	cool off, cool down
+j	滑る	suberu	to glide, to slide
+j	漱ぐ	susugu	to rinse one's mouth (esp…
+j	澄ます	sumasu	to clear; to make somethi…
+j	澄也	sumiya	a male given name
+j	澄子	sumiko	a female given name
+j	澄実子	sumiko	a female given name
+j	濯ぐ	susugu	to rinse something with w…
+j	炊人	suijin	飯炊き。
+j	炊煑	suisho	炊煮の異表記。
+j	炊煮	suisho	煮炊き。
+j	炊爨	suisan	cooking a meal, especiall…
+j	炊飯	suihan	cooking rice
+j	炭火	sumibi	a charcoal fire
+j	烝	susumu	a male given name
+j	燧人	suijin	古代中国の伝説的な帝王。火の使い方と食に対する利用…
+j	燧鏡	suikyo	火を取る鏡。
+j	王記	suouki	
+j	直ぐに	suguni	immediately, instantly
+j	直刃	suguha	a straight temper line on…
+j	直葉	suguha	a female given name
+j	相撲道	sumodo	相撲の精神。
+j	睟然	suizen	艶のあること。そのさま。
+j	睡仙	suisen	眠り上手。
+j	睡姦	suikan	相手の意識がない状態で性行為に及ぶこと。
+j	睡眠	suimin	sleep
+j	睡眼	suigan	眠気の眼。
+j	睡瞼	suiken	眠って閉ざしている瞼。
+j	睡興	suikyo	睡味。寝心地。
+j	睡蓮	suiren	a water lily
+j	睡郷	suikyo	夢の中の世界。夢の中。
+j	睡酣	suikan	ぐっすりと寝込むこと。
+j	睡雁	suigan	眠っている雁。
+j	睡響	suikyo	鼾。
+j	砂地	sunaji	sandy soil
+j	砂場	sunaba	sandpit, sandbox (childre…
+j	砂湯	sunayu	sand bath; a type of onse…
+j	砂田	sunada	a surname
+j	硯	suzuri	（すずり）墨を水ですりおろすための道具。
+j	秀実子	sumiko	a female given name
+j	空輪	suirin	四輪の一つ。風輪の下にある虚空の層。
+j	篲星	suisei	彗星。
+j	簾	sudare	sudare, a mat or screen m…
+j	粋人	suijin	man of the world, a perso…
+j	粋士	suishi	粋な男。粋人。
+j	粋書	suisho	粋な内容の本。
+j	粋然	suizen	純一。
+j	粋狂	suikyo	物好きなこと。好事。
+j	粹書	suisho	粋書の旧字体表記。
+j	純実子	sumiko	a female given name
+j	素っぴん	suppin	woman's face with no make…
+j	素敵	suteki	lovely
+j	素股	sumata	bare thighs
+j	素足	suashi	bare foot
+j	素通り	sudori	flowing through without i…
+j	統べる	suberu	to dominate, to control, …
+j	綏勧	suikan	安んじて励ますこと。
+j	綏靖	suisei	安んずること。
+j	縋る	sugaru	to cling to, to hang on t…
+j	翠嵐	suiran	山の青々とした気配。
+j	翠巒	suiran	緑色に映える山並み。
+j	翠巖	suigan	青々とした巖。苔生した岩。
+j	翠巘	suiken	翠色に連なる山々。翠巒。
+j	翠旃	suisen	翠旍。
+j	翠旌	suisei	翠羽でできた旗。
+j	翠旍	suisei	翠羽でできた旗。
+j	翠柳	suiryu	lush green willow
+j	翠漢	suikan	美しい空。
+j	翠礀	suikan	翠の谷。
+j	翠翹	suigyo	翡翠でできた髪飾り。
+j	翠藍	suiran	薄縹。薄花色。
+j	翠蘚	suisen	緑苔。
+j	翠観	suikan	翠の楼観。
+j	翠館	suikan	青楼。
+j	翠鬟	suikan	翠の黒髪。美しい髪の女性。
+j	膵液	suieki	膵臓で分泌される消化液。
+j	膵癌	suigan	pancreatic cancer
+j	膵管	suikan	膵液を十二指腸まで運ぶ管。
+j	芻牧	suboku	草を刈り、牛馬を飼養すること。また、それをする人。
+j	荒む	susamu	to go wild, to grow wild
+j	菘	suzuna	turnip
+j	菫	sumire	Viola mandshurica, a spec…
+j	萃然	suizen	萃如。
+j	蕤鮮	suisen	美しく鮮やかなこと。そのさま。
+j	薦め	susume	advice, recommendation
+j	蘇城	suchan	Partizansk, Suchan (a tow…
+j	衰乱	suiran	世の道徳、秩序、政治などが衰えて乱れること。
+j	衰倦	suiken	懶さ。
+j	衰分	suibun	古代中国の数学と和算で一定の量を分配するための算術。
+j	衰廃	suihai	衰え、廃れること。
+j	衰弊	suihei	勢力などが衰え、弱ること。
+j	衰患	suigen	衰え、患うこと。また、患い、衰えること。
+j	衰憊	suihai	勢力などが衰え、弱ること。
+j	衰替	suitai	衰えてすたれること。
+j	衰朽	suikyu	衰え、朽ちること。
+j	衰死	suishi	衰弱して死ぬこと。
+j	衰減	suigen	衰えること。
+j	衰賤	suisen	落魄。
+j	衰退	suitai	degeneration, decline
+j	衰頽	suitai	衰えて弱ること。すたれること。
+j	衰顔	suigan	窶れた顔。また、そのような顔付き。
+j	衰髯	suizen	年老いて色褪せた髯。
+j	裾野	susono	the foot of a mountain
+j	西班牙	supein	スペインの漢字表記。
+j	誰人	suijin	たれびと。誰。
+j	誶喧	suiken	口喧しいこと。そのさま。
+j	賺す	sukasu	to coax, to cajole
+j	趨学	sugaku	就学すること。
+j	透かす	sukasu	to be slightly apart, to …
+j	透ける	sukeru	to show through
+j	進	susumu	a male given name
+j	進む	susumu	to go forward, to advance…
+j	進め	susume	
+j	遂志	suishi	志を遂げること。
+j	遂忿	suifun	憤りを洩らすこと。
+j	遂願	suigan	願いを遂げること。
+j	過ぎた	sugita	
+j	過ぎる	sugiru	to pass by, to pass throu…
+j	過ごす	sugosu	to spend, to pass (time);…
+j	過世	suguse	宿世。
+j	邃㵎	suikan	邃い渓川。
+j	邃世	suisei	邃古。
+j	邃冥	suimei	邃く冥いこと。そのさま。
+j	邃初	suisho	遙か昔。
+j	邃厳	suigen	奥深く荘厳であること。また、そのさま。
+j	邃志	suishi	深遠の心。
+j	邃暁	suigyo	深く理解すること。
+j	邃澗	suikan	邃㵎の拡張新字体を用いた表記。
+j	酔乱	suiran	酔って暴れること。
+j	酔人	suijin	酔っ払い。酔客。
+j	酔仙	suisen	酒仙。
+j	酔姦	suikan	酔ってる相手に対して性行為に及ぶこと。
+j	酔拳	suiken	drunken boxing; drunken f…
+j	酔書	suisho	酔って書くこと。酔墨。
+j	酔漢	suikan	かなり酒に酔っている男性。酔っ払い。酔客。
+j	酔狂	suikyo	酒などに酔い狂うこと。
+j	酔眠	suimin	酒に酔い寝ること。
+j	酔眼	suigan	酒に酔った目。また、その目付き。
+j	酔興	suikyo	酒に酔い楽しみ、興じること。
+j	酔言	suigen	酒に酔って言うたわごと。酔語。
+j	酔迷	suimei	酔って心が眩むこと。
+j	酔郷	suikyo	中国で伝えられる酔っ払いの天国。
+j	酔顔	suigan	酒に酔っ払った顔。
+j	酢味噌	sumiso	味噌に食酢、砂糖などを加え、ゆるめたもの。
+j	酢漬け	suzuke	
+j	酢豆腐	sudofu	知ったか振り。半可通。
+j	酢豚	subuta	sweet-and-sour pork
+j	酸っぱい	suppai	sour
+j	醉書	suisho	酔書の旧字体表記。
+j	鈴木	suzuki	鈴木, スズキ: a surname: the 2…
+j	鈴音	suzune	a female given name
+j	鈴鹿	suzuka	Suzuka (a city in Mie Pre…
+j	錐体	suitai	either a cone or a pyramid
+j	錐刃	suijin	錐刀。
+j	錐台	suidai	錐体を底面に平行な平面で切って分けた際の、元の錐体…
+j	錐尖	suisen	錐の先。
+j	錐眼	suigan	錐のように小さな穴。
+j	錐面	suimen	
+j	隅の	sumino	
+j	隙間	sukima	crevice, crack, gap
+j	雀	suzume	Eurasian tree sparrow (Pa…
+j	雖然	suizen	しかしながら。けれども。
+j	須実子	sumiko	a female given name
+j	駿州	sunshu	駿河国の別称。
+j	駿河	suruga	Suruga Province, an old p…
+j	魑魅	sutama	a spirit or demon that ar…
+j	魲	suzuki	Suzuki (a neighborhood of…
+j	鯣	surume	dried squid or dried cutt…
+j	鱸	suzuki	Japanese sea bass
+j	鼈	suppon	a Chinese softshell turtl…
+k	수강	sugang	
+k	수건	sugeon	towel
+k	수검	sugeom	
+k	수공	sugong	
+k	수굿이	sugusi	
+k	수궁	sugung	
+k	수권	sugwon	hydrosphere
+k	수근	sugeun	carpal muscles
+k	수금	sugeum	
+k	수급	sugeup	supply and demand
+k	수나사	sunasa	bolt, ("male" screw)
+k	수녀	sunyeo	nun; sister
+k	수당	sudang	allowance, pay; bonus, be…
+k	수도사	sudosa	monk
+k	수도세	sudose	
+k	수도자	sudoja	
+k	수동	sudong	
+k	수두부	sudubu	tofu that has not been pr…
+k	수려	suryeo	'수려하다'의 어근.
+k	수륙	suryuk	
+k	수리비	suribi	
+k	수리야	suliya	
+k	수리인	suriin	repair person, repairman,…
+k	수방	subang	
+k	수백	subaek	hundreds
+k	수벌	subeol	
+k	수범	subeom	
+k	수법	subeop	way, method, means, modus…
+k	수부티	subuti	
+k	수북이	subugi	
+k	수비수	subisu	
+k	수상	susang	prime minister, premier, …
+k	수색	susaek	search
+k	수석	suseok	premiere; head
+k	수선	suseon	repair
+k	수세미	susemi	scrubber, sponge
+k	수송	susong	transportation, transport
+k	수습	suseup	collection, act of collec…
+k	수시로	susiro	sometimes
+k	수압기	suapgi	
+k	수양	suyang	
+k	수어사	sueosa	
+k	수에즈	suejeu	
+k	수역	suyeok	수면의 일정한 부분.
+k	수연	suyeon	
+k	수열	suyeol	일정한 규칙에 따라 배열된 수.
+k	수염	suyeom	mustache, beard, whiskers
+k	수엽	suyeop	leaf, leaves
+k	수요일	suyoil	Wednesday
+k	수요자	suyoja	
+k	수용	suyong	
+k	수유기	suyugi	
+k	수의사	suuisa	veterinarian
+k	수익세	suikse	
+k	수익자	suikja	
+k	수임자	suimja	
+k	수입사	suipsa	
+k	수입세	suipse	
+k	수적	sujeok	being numerical
+k	수전	sujeon	wet field, rice paddy
+k	수절	sujeol	
+k	수제비	sujebi	Korean traditional food m…
+k	수제자	sujeja	the best student/pupil (o…
+k	수종	sujong	
+k	수중	sujung	손의 안쪽. 손안
+k	수지유	sujiyu	
+k	수채	suchae	
+k	수축	suchuk	contraction; shrinkage
+k	수출	suchul	export
+k	수취	suchwi	receipt, receiver, recipi…
+k	수칙	suchik	regulations
+k	수컷	sukeot	male animal
+k	수통	sutong	water bottle, canteen
+k	수포자	supoja	someone who has given up …
+k	수하인	suhain	
+k	수험	suheom	
+k	수확	suhwak	harvest, crop
+k	수환	suhwan	
+k	수후미	suhumi	
+k	숙답	sukdap	mature paddy field
+k	숙모	sungmo	아버지 쪽의 결혼한 남동생의 아내. (부록: …
+k	숙박	sukbak	accommodation, lodging
+k	숙식	suksik	room and board, board and…
+k	숙신	suksin	
+k	숙실	suksil	(요리) 당처리한 과일
+k	숙이다	sugida	to bend; to incline; to b…
+k	순간	sungan	an instant; a moment
+k	순교	sungyo	martyrdom
+k	순대	sundae	Korean blood sausage
+k	순례	sullye	pilgrimage
+k	순록	sullok	(학명: Rangifer tarandus) 사…
+k	순서	sunseo	order; sequence
+k	순업	suneop	
+k	순좌	sunjwa	
+k	순진	sunjin	마음이 꾸밈이 없고 순박하다.
+k	순화	sunhwa	purification
+k	순회	sunhoe	여러 곳을 돌아다니면서 확인하는 것.
+k	숟갈	sutgal	'숟가락'의 준말.
+k	술국	sulguk	soup served with alcohol …
+k	술독	suldok	liquor jug
+k	술래	sullae	tagger, it (in the game t…
+k	술맛	sulmat	palate, taste of alcoholi…
+k	술밑	sulmit	yeast, ferment
+k	술술	sulsul	물이나 가루 따위가 틈이나 구멍으로 조금씩 거…
+k	술잔	suljan	
+k	술집	suljip	bar, pub (establishment s…
+k	술탄	sultan	sultan (ruler)
+k	술판	sulpan	drinking party
+k	숨골	sumgol	
+k	숨길	sumgil	숨이 들어서는 길.
+k	숨뇌	sumnoe	
+k	숨숨	sumsum	얼굴에 굵고 얕게 얽은 자국이 듬성듬성 있는 …
+k	숫개	sutgae	'수캐'의 비표준어.
+k	숫눈	sunnun	first snow, clean or fres…
+k	숫닭	sutdak	'수탉'의 비규범 표기.
+k	숫돌	sutdol	
+k	숫말	sutmal	수말의 비표준어.
+k	숭고	sunggo	sublimity; loftiness; nob…
+k	숭어	sungeo	The striped mullet, Mugil…
+k	숯불	sutbul	숯이 타는 불. 숯으로 땐 불.
+k	숲새	supsae	
+k	숲쥐	supjwi	
+e	sub-zero	subzero	1 meaning
+e	subdued	subdued	1 meaning
+e	suberin	suberin	1 meaning
+e	subhūti	subhuti	1 meaning
+e	subject	subject	6 meanings
+e	sublime	sublime	1 meaning
+e	submenu	submenu	1 meaning
+e	subpage	subpage	1 meaning
+e	subside	subside	1 meaning
+e	subsidy	subsidy	1 meaning
+e	subtext	subtext	1 meaning
+e	succeed	succeed	6 meanings
+e	success	success	1 meaning
+e	suck off	suckoff	1 meaning
+e	sucrose	sucrose	1 meaning
+e	sudeten	sudeten	1 meaning
+e	sudoite	sudoite	1 meaning
+e	suffice	suffice	1 meaning
+e	suggest	suggest	4 meanings
+e	suicide	suicide	3 meanings
+e	suizhou	suizhou	1 meaning
+e	sukhumi	sukhumi	1 meaning
+e	sulfate	sulfate	1 meaning
+e	sulfone	sulfone	1 meaning
+e	sultana	sultana	1 meaning
+e	sumatra	sumatra	1 meaning
+e	sumbawa	sumbawa	1 meaning
+e	sumedha	sumedha	1 meaning
+e	sumgait	sumgait	1 meaning
+e	summary	summary	2 meanings
+e	summons	summons	2 meanings
+e	sun bear	sunbear	1 meaning
+e	sunbath	sunbath	1 meaning
+e	sunbeam	sunbeam	1 meaning
+e	sunbird	sunbird	1 meaning
+e	sunburn	sunburn	2 meanings
+e	sundial	sundial	1 meaning
+e	sunfish	sunfish	1 meaning
+e	sunrise	sunrise	2 meanings
+e	sunroof	sunroof	1 meaning
+e	sunspot	sunspot	1 meaning
+e	sunyata	sunyata	1 meaning
+e	support	support	7 meanings
+e	suppose	suppose	2 meanings
+e	supreme	supreme	1 meaning
+e	surface	surface	2 meanings
+e	surfing	surfing	1 meaning
+e	surgeon	surgeon	1 meaning
+e	surgery	surgery	3 meanings
+e	surmise	surmise	1 meaning
+e	surname	surname	1 meaning
+e	surpass	surpass	1 meaning
+e	surplus	surplus	2 meanings
+e	surreal	surreal	1 meaning
+e	survive	survive	1 meaning
+e	susanna	susanna	1 meaning
+e	susanoo	susanoo	1 meaning
+e	suspect	suspect	2 meanings
+e	suspend	suspend	3 meanings
+j	すいかとう	suikato	西瓜糖: watermelon sugar, su…
+j	すいがら	suigara	喫煙した後のたばこの灰や吸い残し。
+j	すいこみ	suikomi	「すいこむ」の連用形。
+j	すいこむ	suikomu	吸って中に入れる。吸入する。吸引する。
+j	すいじょうき	suijoki	水蒸気: steam, water vapor
+j	すいてき	suiteki	
+j	すいとる	suitoru	吸引したり吸い込ませたりして取る。
+j	すいばく	suibaku	水爆: a hydrogen bomb
+j	すいもの	suimono	塩や醤油で味付けした汁に魚介や野菜を入れた日本料理。
+j	すいようび	suiyobi	
+j	すうじつ	sujitsu	数日: a few days
+j	すえかず	suekazu	末一: a male given name
+j	すえひろ	suehiro	末広: a male given name
+j	すかし	sukashi	watermark (design visible…
+j	すきっぱ	sukippa	teeth with a gap in betwe…
+j	すぎうら	sugiura	杉浦: a surname
+j	すくない	sukunai	あるものに比較して、数量や割合が小さい。
+j	すけっと	suketto	helper
+j	すけばん	sukeban	female leader of a delinq…
+j	すけべい	sukebei	助け平: lewdness; a lecher
+j	すげない	sugenai	つれない。無愛想だ。そっけない。
+j	すこし	sukoshi	数量・程度などが少ないさま。
+j	すごうで	sugoude	amazing skill
+j	すしや	sushiya	寿司を主に出している料理店、料理人。
+j	すじかい	sujikai	斜めに交わること。
+j	すすどい	susudoi	動作や態度、また気性や性質などが勢い激しく、機敏で…
+j	すすんで	susunde	自ら積極的に物事を行うさま。
+j	すずし	suzushi	精錬していない絹糸または絹織物。
+j	すずびえ	suzubie	日本酒の冷酒の温度帯のひとつ。15度前後のものをい…
+j	すずらん	suzuran	鈴蘭: the lily of the valle…
+j	すだち	sudachi	巣立ち: leaving the nest; be…
+j	すっかり	sukkari	completely, thoroughly
+j	すっきり	sukkiri	refreshed
+j	すっこむ	sukkomu	その場から退く。引っ込む。
+j	すっぱく	suppaku	
+j	すっぽり	suppori	entirely (concealing)
+j	すっ込む	sukkomu	leave the area, leave tha…
+j	すてうり	suteuri	捨て値で売ること。
+j	すておく	suteoku	そのままにしておく。放置する。
+j	すてアド	suteado	throwaway e-mail address
+j	すないろ	sunairo	黄色味がかった淡い灰色。
+j	すねあて	suneate	野球の捕手、アイスホッケーのゴールキーパーなどの運…
+j	すばやい	subayai	動作が速い。
+j	すぽっと	supotto	exiting or entering with …
+j	すまし	sumashi	「すます」の連用形。
+j	すまない	sumanai	謝罪、依頼、感謝の意を表すときに使用する語。
+j	すみあき	sumiaki	純明: a male given name
+j	すみいと	sumiito	綿などに墨を染み込ませた墨壺に付いている墨が付き、…
+j	すみっこ	sumikko	隅の方。隅。
+j	すめし	sumeshi	寿司などに使うための食酢を混ぜた御飯。
+j	すらっと	suratto	体などが、細く形よく伸びているさま。
+j	するっと	surutto	滑らかに動くさま。
+j	するどい	surudoi	細く尖っている
+j	すんずら	sunzura	（方言、富山県砺波地方）積雪期の晴れた日の朝方に、…
+j	すんなり	sunnari	slender, slim
+j	スイスの	suisuno	
+j	スイッチ	suitchi	switch, a device to turn …
+j	スイベル	suiberu	
+j	スイートピー	suitopi	sweet pea
+j	スウィング	suwingu	「スイング」の表記ゆれ。
+j	スウィーツ	suwitsu	「スイーツ」を参照。
+j	スウェット	suwetto	汗、発汗。
+j	スウェーデン	suweden	Sweden (a country in Scan…
+j	スウォンジ	suwonji	
+j	スウォンジー	suwonji	Swansea (a city and count…
+j	スオミ語	suomigo	フィンランド語。
+j	スカイプ	sukaipu	Skyping
+j	スカウト	sukauto	a scout (act of scouting)
+j	スカジャン	sukajan	a Japanese type of blouso…
+j	スカパン	sukapan	skirt with two legs insid…
+j	スカルン	sukarun	skarn
+j	スカンク	sukanku	a skunk (animal)
+j	スカンダ	sukanda	
+j	スキット	sukitto	
+j	スキップ	sukippu	片足で交互に軽く飛び跳ねながら連続して歩くこと。
+j	スキャナ	sukyana	scanner (device which sca…
+j	スキャナー	sukyana	scanner (device which sca…
+j	スキュラ	sukyura	
+j	スキュレー	sukyure	
+j	スキューバ	sukyuba	水中で呼吸ができるよう、空気を詰めたタンクとその中…
+j	スキンク	sukinku	
+j	スクイズ	sukuizu	「スクイズプレー」の略。
+j	スクイーザー	sukuiza	squeezer (a device used t…
+j	スクイージー	sukuiji	
+j	スクウェア	sukuwea	square
+j	スクエニ	sukueni	
+j	スクショ	sukusho	「スクリーンショット」の略。
+j	スクリュー	sukuryu	螺旋。ねじ。
+j	スクリーン	sukurin	screen of a computer, tel…
+j	スコット	sukotto	a transliteration of the …
+j	スコップ	sukoppu	a spade, a small shovel
+j	スコピエ	sukopie	Skopje (a city, the capit…
+j	スコンク	sukonku	競技などで、1点も取ることができずに負けること。零…
+j	スザンナ	suzanna	
+j	スタイル	sutairu	figure, physique (of the …
+j	スタウト	sutauto	イギリス産の濃厚でアルコール分の高い黒色のビール。
+j	スタオべ	sutaobe	スタンディングオベーション。
+j	スタジオ	sutajio	a studio
+j	スタック	sutakku	ぬかるみや積雪のある道路で自動車などが立ち往生する…
+j	スタッフ	sutaffu	staff
+j	スタメン	sutamen	「スターティングメンバー」の略。
+j	スタンス	sutansu	stance
+j	スタント	sutanto	a stunt (dangerous feat)
+j	スタンド	sutando	stand (device to hold som…
+j	スタンプ	sutanpu	stamp: indentation, impri…
+j	スタンリー	sutanri	a transliteration of the …
+j	スターチ	sutachi	澱粉。澱粉食品。
+j	スターリン	sutarin	a transliteration of the …
+j	スダチ	sudachi	酢橘: the sudachi, Citrus s…
+j	スチル	suchiru	
+j	スチーム	suchimu	蒸気。水蒸気。
+j	スチール	suchiru	steel
+j	スツール	sutsuru	stool (a seat)
+j	スティック	sutikku	a stick, such as lipstick…
+j	スティーブン	sutibun	Stephen
+j	スティーヴン	sutivun	Stephen
+j	ステショ	sutesho	
+j	ステッカー	sutekka	sticker
+j	ステッキ	sutekki	a Western-style cane or w…
+j	ステップ	suteppu	steppe (the grasslands of…
+j	ステビア	sutebia	
+j	ステレオ	sutereo	having stereo audio
+j	ステント	sutento	stent
+j	ストック	sutokku	stocking; storage
+j	ストッパー	sutoppa	
+j	ストップ	sutoppu	stoppage
+j	ストマイ	sutomai	ストレプトマイシン。
+j	スト権	sutoken	労働者が争議行為としてストライキをするための権利。
+j	スナイパー	sunaipa	
+j	スナック	sunakku	a snack
+j	スナッフ	sunaffu	嗅ぎ煙草。
+j	スナップ	sunappu	留め金。
+j	スノッブ	sunobbu	snob
+j	スノーシュー	sunoshu	
+j	スノードン	sunodon	
+j	スノーマン	sunoman	雪達磨
+j	スノームーン	sunomun	ネイティブアメリカンの暦で2月の満月のこと。
+j	スハーヘン	suhahen	
+j	スパイカー	supaika	スパイクを打つ選手。アタッカー。ウィングスパイカー…
+j	スパイク	supaiku	spike on the bottom of a …
+j	スパイス	supaisu	spice
+j	スパイダー	supaida	spider
+j	スパコン	supakon	
+j	スパチャ	supacha	
+j	スパンカー	supanka	洋式の帆船で通常後檣に桁を斜めにしてかける帆。
+j	スピノン	supinon	
+j	スピンオン	supinon	民間で開発された品物を軍事目的に転用すること。
+j	スピーチ	supichi	a speech, an address, a t…
+j	スピ系	supikei	
+j	スプタン	suputan	
+j	スペック	supekku	specification
+j	スポイト	supoito	Pasteur pipette
+j	スポイラー	supoira	spoiler (automobiles: dev…
+j	スポケーン	supoken	Spokane (a city in Washin…
+j	スポック	supokku	
+j	スポット	supotto	spot; dot; point
+j	スポンサー	suponsa	sponsor (a person who pro…
+j	スポンジ	suponji	sponge, the artificial or…
+j	スポンデ	suponde	木星の第36衛星の固有名。
+j	スポンデー	suponde	
+j	スポーケン	supoken	
+j	スポーツ	supotsu	a sport; sports
+j	スポ根	supokon	depicting the fiery spiri…
+j	スマイリー	sumairi	
+j	スマイル	sumairu	smile
+j	スマラン	sumaran	
+j	スモック	sumokku	
+j	スモッグ	sumoggu	smog
+j	スライゴ	suraigo	Sligo (a county of Irelan…
+j	スライサー	suraisa	
+j	スライス	suraisu	slice (thin piece)
+j	スライダー	suraida	slider
+j	スライド	suraido	a slide, a slip
+j	スライム	suraimu	slime
+j	スラッガー	suragga	長打を多く打つ打者。強打者。
+j	スラング	surangu	slang; a slangy word
+j	スラント	suranto	
+j	スランプ	suranpu	slump (period of poor act…
+j	スリッパ	surippa	a slipper (low shoe usual…
+j	スリップ	surippu	a slip (act of slipping)
+j	スリンキー	surinki	
+j	スルタン	surutan	
+j	スルターン	surutan	a sultan
+j	スルホン	suruhon	sulfone
+j	スレイブ	sureibu	「スレーブ」の表記ゆれ。
+j	スレタイ	suretai	電子掲示板に立てられたスレッドの件名・題名。
+j	スレチ	surechi	
+j	スレッズ	surezzu	
+j	スレッド	sureddo	thread (unit of execution)
+j	スレンダー	surenda	slender
+j	スロビオ	surobio	
+j	スロヴィオ	surovio	
+j	スローオフ	suroofu	ボールを投げて試合の開始や得点後の試合開始または試…
+j	スローガン	surogan	slogan
+j	スワイプ	suwaipu	（バットなどの）横方向の振り。
+j	スワップ	suwappu	交換、取り換え。
+j	スンダ語	sundago	インドネシアのジャワ島西部などで話されている、オー…
+j	スンドリ	sundori	
+j	スンナ派	sunnaha	Sunni
+j	スンニー派	sunniha	
+j	スンニ派	sunniha	Sunni
+j	スーサイド	susaido	suicide
+j	スーザフォン	suzafon	sousaphone (brass instrum…
+j	スーザホン	suzahon	スーザフォンの別形。
+j	スーシティ	sushiti	Sioux City
+j	スーパーアース	supaasu	太陽系外で地球より大きな地球型惑星。
+j	スーパーマン	supaman	Superman
+j	スーパームーン	supamun	近地点付近で迎える満月。
+j	スーマック	sumakku	
+j	ズデーテン	sudeten	
+j	出納簿	suitobo	
+j	助け平	sukebei	lecherous, lewd
+j	吸い取る	suitoru	to suck away; to suck up
+j	吸い込み	suikomi	suction, absorption
+j	吸い込む	suikomu	inhale, breathe (to draw …
+j	吸殻	suigara	butt (remnant of a smoked…
+j	吹楽	suigaku	音楽を吹奏すること。
+j	吹笛	suiteki	笛を吹き鳴らすこと。吹竹。
+j	吹脣	suishin	口笛。
+j	吹角	suikaku	角笛を吹くこと。
+j	周防灘	suonada	山口県、福岡県、大分県に囲まれた瀬戸内海北西端の海…
+j	垂心	suishin	an orthocenter
+j	垂紳	suishin	礼服の大帯を垂れること。
+j	垂足	suisoku	垂線の足。垂線と直線または平面の交点。
+j	垂迹	suijaku	仏や菩薩が衆生救済のため仮の姿で出現すること。
+j	墨色	sumiiro	
+j	寸刻	sunkoku	ほんのわずかな時間。寸時。
+j	寸劇	sungeki	short play; skit
+j	寸牘	suntoku	短い手紙。寸楮。寸簡。
+j	寸隙	sungeki	僅かな暇なとき。
+j	寿司屋	sushiya	sushi restaurant
+j	少し	sukoshi	a little; slightly
+j	少ない	sukunai	not many, few, little
+j	居石	sueishi	a surname
+j	捶扑	suiboku	鞭で打つこと。
+j	捶撃	suigeki	鞭をうつこと。
+j	捶撲	suiboku	鞭で打つこと。
+j	推定上	suteijo	
+j	推心	suishin	心を人に託すること。
+j	推拡	suikaku	推しこと。敷衍。
+j	推測	suisoku	speculation, conjecture, …
+j	推覈	suikaku	推察して取り調べること。
+j	推轂	suikoku	推挙。推薦。
+j	推進	suishin	promotion, thrust, drivin…
+j	数人の	suninno	
+j	数値の	suchino	
+j	数値化	suchika	
+j	数列	suretsu	a sequence of numbers, es…
+j	数式	sushiki	mathematical expression; …
+j	数日	sujitsu	a few days
+j	数百	suhyaku	200から500くらいの大雑把な数。
+j	末一	suekazu	a male given name
+j	末広	suehiro	a male given name
+j	末廣	suehiro	
+j	末永	suenaga	a surname
+j	杉浦	sugiura	a surname
+j	枢密	sumitsu	state secret; important s…
+j	枢機卿	sukikyo	cardinal
+j	棰革	suikaku	革製の鞭。
+j	榱桷	suikaku	垂木。
+j	水上機	suijoki	水上飛行機の略称。
+j	水伯	suihaku	水の神。水神。
+j	水国	suikoku	水郷。水村。水郭。
+j	水圧	suiatsu	Water pressure.
+j	水壓	suiatsu	水圧の旧字体表記。
+j	水学	suigaku	水を使った奇術。
+j	水心	suishin	川や湖沼の水面の中心。
+j	水族	suizoku	水中に生息する生物。水生生物。
+j	水曜日	suiyobi	Wednesday
+j	水泳帽	suieibo	
+j	水深	suishin	water depth
+j	水滴	suiteki	drop of water
+j	水爆	suibaku	「水素爆弾」の略。
+j	水獄	suigoku	水牢。
+j	水石	suiseki	水と石。
+j	水碧	suiheki	水が青緑色をしていること。河川や湖の水が青く澄んで…
+j	水素化	suisoka	hydrogenation; hydride
+j	水蒸気	suijoki	water vapor, water vapour…
+j	水蒸氣	suijoki	
+j	水薬	suiyaku	potion; liquid medicine
+j	水郭	suikaku	水村。水郷。
+j	水閣	suikaku	水辺にある楼閣。岸辺の高殿。水楼。
+j	水陸	suiriku	水と陸。水上と陸上。
+j	水鹿	suiroku	synonym of サンバー (sanbā, “…
+j	済まない	sumanai	inexcusable
+j	炊事場	suijiba	食物を調理する場所。台所。
+j	燧木	suiboku	火を取る木材。
+j	燧石	suiseki	flint
+j	瑞典	suweden	スウェーデンの漢字表記。
+j	瘁心	suishin	心を苦しめること。
+j	睡癖	suiheki	居眠りをする癖。
+j	睡覚	suikaku	眠りから覚めること。
+j	砂色	sunairo	sand, sandy (color)
+j	筋交い	sujikai	
+j	箠朴	suiboku	鞭で打つこと。
+j	粋愨	suikaku	真心。
+j	純明	sumiaki	a male given name
+j	素っ飛ぶ	suttobu	to fly, to shoot off
+j	素早い	subayai	fast; quick; nimble; agile
+j	素気ない	sugenai	cold, short, brusque, curt
+j	素法県	supoken	
+j	翠壁	suiheki	苔生した岩壁。
+j	翠木	suiboku	緑が美しい木立。
+j	翠樾	suietsu	翠の樾。青々と茂る木々のかげ。青葉のかげ。
+j	耒偏	sukihen	漢字の部首「⽾」が偏である場合の呼称。
+j	膵石	suiseki	膵臓の膵管内にできる結石。
+j	膵臓炎	suizoen	膵臓におこる急性または慢性の炎症性疾患の総称。膵炎。
+j	芻秣	sumatsu	牛馬の飼料。まぐさ。
+j	芻菽	sushuku	まぐさと豆。
+j	衰弱	suijaku	breakdown, collapse, emac…
+j	西瓜糖	suikato	watermelon sugar, sugar m…
+j	透かし	sukashi	
+j	進んで	susunde	voluntarily; willingly
+j	遂進	suishin	進むこと。
+j	過ぎない	suginai	merely; nothing more than
+j	邃僻	suiheki	邃く偏ること。
+j	邃峻	suishun	邃く峻しいこと。そのさま。
+j	邃深	suishin	奥深いこと。そのさま。
+j	邃穆	suiboku	邃く慎ましいこと。そのさま。
+j	邃谷	suikoku	深谷。
+j	邃閣	suikaku	邃い高殿。
+j	酔墨	suiboku	酔って書くこと。
+j	酔客	suikaku	酒に酔った人。酔っ払い。
+j	酔心	suishin	心酔。傾倒。
+j	酢橘	sudachi	Citrus sudachi, a citrus …
+j	酸模	sukanpo	synonym of 酸葉 (suiba, “co…
+j	鈴蘭	suzuran	the lily of the valley, C…
+j	鋭い	surudoi	sharp (of a blade etc.)
+j	錫師	suzushi	錫や鉛で徳利などの容器を製造する職人。
+j	須佐之男	susanoo	Susanoo, the Japanese god…
+j	須佐能乎	susanoo	
+k	수감자	sugamja	prisoner, (prison) inmate…
+k	수구문	sugumun	
+k	수굼포	sugumpo	'삽'의 사투리.
+k	수긍	sugeung	옳다고 인정함.
+k	수난기	sunangi	
+k	수난사	sunansa	
+k	수난일	sunanil	(기독교) 예수가 십자가에 못 박혀 죽은 날.
+k	수년	sunyeon	두서너 해. 또는 대여섯 해.
+k	수뇌부	sunoebu	
+k	수능	suneung	
+k	수단가	sudanga	
+k	수달피	sudalpi	
+k	수도교	sudogyo	
+k	수도료	sudoryo	
+k	수도원	sudowon	monastery, abbey
+k	수라간	suragan	the royal kitchen in dyna…
+k	수라트	surateu	
+k	수랭	suraeng	water cooling; liquid coo…
+k	수량	suryang	amount, quantity
+k	수렁	sureong	
+k	수력	suryeok	waterpower
+k	수련	suryeon	water lily
+k	수렴	suryeom	collecting, gathering (of…
+k	수렵	suryeop	야생 동물을 잡는 일.
+k	수로학	surohak	
+k	수료자	suryoja	
+k	수루매	surumae	squid, cuttlefish
+k	수리개	surigae	
+k	수리남	surinam	Suriname (a country in So…
+k	수리답	suridap	
+k	수리학	surihak	
+k	수마크	sumakeu	옻나무과의 속한 종들을 가리키는 말.
+k	수많다	sumanta	To be many; numerous.
+k	수메르	sumereu	
+k	수면	sumyeon	sleep
+k	수미산	sumisan	
+k	수밀도	sumildo	
+k	수반구	subangu	(지리) 뉴질랜드를 중심으로하여, 지구상의 육…
+k	수배자	subaeja	
+k	수베린	suberin	
+k	수부족	subujok	
+k	수브하	subeuha	
+k	수비군	subigun	
+k	수비대	subidae	
+k	수비율	subiyul	
+k	수비진	subijin	
+k	수비학	subihak	
+k	수사대	susadae	
+k	수사진	susajin	
+k	수사학	susahak	rhetoric
+k	수산기	susangi	hydroxyl
+k	수생	susaeng	
+k	수서기	suseogi	
+k	수성	suseong	Mercury (planet)
+k	수세식	susesik	
+k	수소문	susomun	
+k	수소탄	susotan	hydrogen bomb
+k	수수료	susuryo	일을 해준 것에 대한 보수.
+k	수술비	susulbi	
+k	수술의	susurui	
+k	수시계	susigye	
+k	수식사	susiksa	'수식언'.
+k	수식어	susigeo	modifier
+k	수신기	susingi	receiver
+k	수신사	susinsa	
+k	수신소	susinso	
+k	수신인	susinin	addressee, receiver
+k	수심가	susimga	
+k	수압계	suapgye	
+k	수없이	sueopsi	in large numbers, innumer…
+k	수영	suyeong	swimming
+k	수예품	suyepum	
+k	수완가	suwanga	
+k	수운교	suungyo	
+k	수원지	suwonji	
+k	수월히	suwolhi	어떤 일을 해내기가 쉽게.
+k	수위실	suwisil	
+k	수위표	suwipyo	
+k	수유탄	suyutan	
+k	수은주	sueunju	
+k	수의대	suuidae	
+k	수의학	suuihak	
+k	수입원	suibwon	
+k	수입차	suipcha	
+k	수입품	suippum	imported goods, import
+k	수자원	sujawon	
+k	수자폰	sujapon	
+k	수정	sujeong	crystal
+k	수제품	sujepum	
+k	수준기	sujungi	
+k	수줍다	sujupda	to be bashful, shy, coy
+k	수줍어	sujubeo	
+k	수증	sujeung	재산을 증여받는 것.
+k	수지골	sujigol	
+k	수직의	sujigui	
+k	수창	suchang	
+k	수천	sucheon	many thousands
+k	수첩	sucheop	pocket-sized notebook, jo…
+k	수치의	suchiui	
+k	수크레	sukeure	
+k	수탁인	sutagin	
+k	수탁자	sutakja	
+k	수트라	suteura	
+k	수필가	supilga	
+k	수하물	suhamul	baggage, luggage
+k	수학자	suhakja	mathematician
+k	수행	suhaeng	accomplishment, execution
+k	수혈	suhyeol	blood transfusion
+k	수혜자	suhyeja	
+k	수혜주	suhyeju	혜택을 받는 주식.
+k	수호신	suhosin	protector; defender; guar…
+k	수화기	suhwagi	telephone receiver
+k	숙려	sukryeo	
+k	숙취	sukchwi	hangover (illness caused …
+k	순금	sungeum	
+k	순두부	sundubu	soft tofu
+k	순방	sunbang	여러 방을 돌아다니며 순시함.
+k	순애보	sunaebo	순수한 사랑 이야기를 상세하게 적은 글.
+k	순양	sunyang	
+k	순연	sunyeon	
+k	순응	suneung	adaptation, adjustment
+k	순종	sunjong	순순히 따름.
+k	순찰	sunchal	
+k	순채	sunchae	water-shield (Brasenia sc…
+k	순풍	sunpung	
+k	순하다	sunhada	mild, gentle
+k	순항	sunhang	cruise (sea voyage)
+k	순환	sunhwan	circulation
+k	술 게임	sulgeim	
+k	술 기운	sulgiun	
+k	술기운	sulgiun	drunkenness
+k	술자리	suljari	drinking party
+k	술통	sultong	barrel for liquor; keg
+k	숨구다	sumguda	Gangwon, Gyeongsang, Jeol…
+k	숨기다	sumgida	to hide, to conceal
+k	숨소리	sumsori	the sound of breathing
+k	숨지다	sumjida	die (pass away)
+k	숨키다	sumkida	
+k	숨통	sumtong	trachea, windpipe, throat…
+k	숩지다	supjida	
+k	숫것	sutgeot	something pure, clean, fr…
+k	숫벌	sutbeol	
+k	숫양	sudyang	수컷 양.
+k	숫하다	suthada	pure, innocent, naïve
+k	숭배	sungbae	worship
+k	숱지다	sutjida	
+k	숱하다	suthada	무엇의 수가 몹시 많다.
+e	subacute	subacute	1 meaning
+e	subbrand	subbrand	1 meaning
+e	subclass	subclass	2 meanings
+e	subgenus	subgenus	1 meaning
+e	subgiant	subgiant	1 meaning
+e	subgroup	subgroup	1 meaning
+e	subimago	subimago	1 meaning
+e	submerge	submerge	2 meanings
+e	subotica	subotica	1 meaning
+e	subpixel	subpixel	1 meaning
+e	subpoena	subpoena	1 meaning
+e	subspace	subspace	1 meaning
+e	subtitle	subtitle	1 meaning
+e	subtlety	subtlety	1 meaning
+e	subtotal	subtotal	1 meaning
+e	subtract	subtract	1 meaning
+e	suburban	suburban	1 meaning
+e	succinct	succinct	1 meaning
+e	succubus	succubus	1 meaning
+e	such that	suchthat	1 meaning
+e	suchness	suchness	1 meaning
+e	suddenly	suddenly	1 meaning
+e	suffrage	suffrage	1 meaning
+e	suginami	suginami	1 meaning
+e	suifenhe	suifenhe	1 meaning
+e	suitable	suitable	1 meaning
+e	suitcase	suitcase	1 meaning
+e	sukiyaki	sukiyaki	1 meaning
+e	sulawesi	sulawesi	1 meaning
+e	sulfonyl	sulfonyl	2 meanings
+e	sumerian	sumerian	2 meanings
+e	sunbathe	sunbathe	1 meaning
+e	sundress	sundress	1 meaning
+e	sunk cost	sunkcost	1 meaning
+e	sunlight	sunlight	2 meanings
+e	sunshade	sunshade	1 meaning
+e	sunshine	sunshine	1 meaning
+e	super pac	superpac	1 meaning
+e	supercar	supercar	1 meaning
+e	superego	superego	1 meaning
+e	superior	superior	2 meanings
+e	superjet	superjet	1 meaning
+e	superman	superman	3 meanings
+e	superset	superset	1 meaning
+e	supplier	supplier	1 meaning
+e	suprafix	suprafix	1 meaning
+e	supremum	supremum	1 meaning
+e	surabaya	surabaya	1 meaning
+e	suresnes	suresnes	1 meaning
+e	suriname	suriname	1 meaning
+e	surmount	surmount	1 meaning
+e	surplice	surplice	1 meaning
+e	surprise	surprise	3 meanings
+e	surround	surround	2 meanings
+e	surveyor	surveyor	1 meaning
+e	survival	survival	2 meanings
+e	survivor	survivor	1 meaning
+e	sutegana	sutegana	1 meaning
+e	suzerain	suzerain	1 meaning
+j	すいあげる	suiageru	液体のものを吸って上へあげる。
+j	すいしえい	suishiei	水師営: shuishiying, naval o…
+j	すいつく	suitsuku	吸うように、また吸うためにぴったりと付く。
+j	すいつば	suitsuba	ピストン。
+j	すいません	suimasen	「すみません」を参照。
+j	すいりゅうき	suiryuki	水硫基: (organic chemistry) …
+j	すかすか	sukasuka	hollow
+j	すががき	sugagaki	sugagaki (strumming techn…
+j	すがたみ	sugatami	全身が映る大型の鏡。
+j	すがめる	sugameru	squint
+j	すがれる	sugareru	草木の葉先またはこずえが盛りが過ぎて枯れ、衰える。
+j	すきこむ	sukikomu	紙に文字、模様が表れるように他の原料を入れて漉く。
+j	すきさけ	sukisake	
+j	すきざけ	sukizake	
+j	すきずき	sukizuki	人それぞれ好みが異なること。評価するものの主観的な…
+j	すきとおる	sukitoru	物を通して内部や向こうが見える。
+j	すきとる	sukitoru	頭髪を櫛などで梳かして垢などの汚れを取り除く。
+j	すきびき	sukibiki	sukibiki (fish descaling …
+j	すきやき	sukiyaki	肉（主に牛肉）や野菜を鍋に入れ煮込んだ日本料理。好…
+j	すきよけ	sukiyoke	avoiding someone due to h…
+j	すき焼き	sukiyaki	sukiyaki (a Japanese dish…
+j	すぎさる	sugisaru	to pass by (physically)
+j	すぎもと	sugimoto	杉本: a surname
+j	すぎやま	sugiyama	杉山: a surname
+j	すぎゆく	sugiyuku	場所などを通ってゆく。
+j	すくすく	sukusuku	growing vigorously
+j	すくめる	sukumeru	to contract / retract a p…
+j	すぐさま	sugusama	すぐに。ただちに。
+j	すぐれて	sugurete	際立って。
+j	すぐれる	sugureru	品質・数量・能力などが、他と比べて抜きん出ている。
+j	すけひで	sukehide	祐英: a male given name
+j	すけべな	sukebena	
+j	すこぶる	sukoburu	程度の甚だしいさま。非常に。
+j	すこやか	sukoyaka	心身が健康であるさま。
+j	すごすご	sugosugo	dejectedly
+j	すごろく	sugoroku	二人が盤を挟んで向かい合って交互にさいころを振り、…
+j	すごわざ	sugowaza	驚くべきすぐれた技。
+j	すじがき	sujigaki	事物の筋道を書き記したもの。
+j	すじがね	sujigane	物を丈夫にするために、その中に入れる線状または棒状…
+j	すじぐも	sujigumo	まきぐもの俗称。
+j	すじだて	sujidate	物語などの展開の仕方や構成。
+j	すじまき	sujimaki	畑に平行の畝を作り、そこに等間隔に種子を蒔くこと。…
+j	すじ雲	sujigumo	
+j	すすめる	susumeru	【進める】進ませる、前進させる。物事をはかどらせる。
+j	すずかぜ	suzukaze	涼風: cool breeze; refreshi…
+j	すずしい	suzushii	（周りの温度が高いときに）体感温度がほどよいくらい…
+j	すずたけ	suzutake	イネ科ササ属に属する笹の一種。学名:Sasamor…
+j	すずなみ	suzunami	急に湧き上がる高波、津波の類、あるいは津波の前兆。
+j	すずなり	suzunari	growing in clusters
+j	すずはく	suzuhaku	錫箔: tinfoil
+j	すそよけ	susoyoke	裾除け: underskirt worn unde…
+j	すそわけ	susowake	他人からいただいたものを分けること。
+j	すたすた	sutasuta	急ぎ足で歩くさま。
+j	すたれた	sutareta	
+j	すたれる	sutareru	使われなくなる。行われなくなる。
+j	すだれ麩	sudarefu	a type of wheat gluten fo…
+j	すてがな	sutegana	捨て仮名, 捨仮名: small okurigan…
+j	すてきだ	sutekida	
+j	すてごま	sutegoma	手を進める上で相手に取られることを想定してその位置…
+j	すてさる	sutesaru	思い切りよく捨てて離れる。
+j	すてふだ	sutefuda	In the Edo period, a boar…
+j	すどうせき	sudoseki	須藤石: sudoite
+j	すどまり	sudomari	宿泊施設での宿泊でその施設で提供される食事をとらず…
+j	すなかべ	sunakabe	色砂などで上塗りした壁。
+j	すながね	sunagane	砂礫の中に含まれる、粒状の金。さきん。しゃきん。
+j	すなぎも	sunagimo	鳥類の砂嚢。
+j	すなどり	sunadori	漁り, 漁: (archaic) fishing
+j	すなどる	sunadoru	to fish
+j	すなのみ	sunanomi	砂蚤: a chigoe
+j	すなはま	sunahama	砂が堆積した海岸。
+j	すなはら	sunahara	砂地の野原。
+j	すなめり	sunameri	ネズミイルカ科スナメリ属に属する小型のいるか。
+j	すねずる	sunezuru	（方言、青森）つねる
+j	すのもの	sunomono	小さく切った魚介類や海藻、野菜に合わせ酢を掛けたり…
+j	すはだか	suhadaka	体に何も着用していないこと。全裸。すっぱだか。
+j	すぱすぱ	supasupa	たばこを続けて勢いよく吸っていくさま。
+j	すべすべ	subesube	smoothly
+j	すべての	subeteno	
+j	すべらぎ	suberagi	天皇。みかど。
+j	すべらす	suberasu	滑るようにする。
+j	すべりぎ	suberigi	敷居の溝に入れる樫の薄い板。
+j	すぼまる	subomaru	縮んだ状態になる。
+j	すぼめる	subomeru	すぼむようにする。
+j	すみきる	sumikiru	to be entirely clear
+j	すみこみ	sumikomi	従業員や使用人が（居住できる）職場や奉公先などで生…
+j	すみこむ	sumikomu	使用人などが主人の家に泊まって暮らすこと。
+j	すみずみ	sumizumi	all corners; every nook a…
+j	すみぞめ	sumizome	墨のような黒色に染めること。また、そのような色。
+j	すみなわ	suminawa	綿などに墨を染み込ませた墨壺に付いている墨が付き、…
+j	すみやか	sumiyaka	時間を置かないこと。
+j	すみわけ	sumiwake	生活様式がよく似た個体、個体群が同じ場所で生活でき…
+j	すもうとり	sumotori	相撲をとること。また、それを職業とする者。力士。
+j	すもうべや	sumobeya	力士と親方が所属し、寝食を共にする集団。
+j	すやすや	suyasuya	soundly, peacefully
+j	すらすら	surasura	smoothly
+j	すりあし	suriashi	足の裏を床（地面）から離さず擦るようにして歩くこと。
+j	すりきず	surikizu	擦りむいてできた皮膚の傷。擦過傷。かすりきず。
+j	すりこぎ	surikogi	擂り鉢で何かを擂るときに使用する棒。連木。
+j	すりこむ	surikomu	同じ紙面に他のものともに印刷する。
+j	すりぬけ	surinuke	「すりぬける」の未然形及び連用形。
+j	すりへる	suriheru	摩擦などで小さくなる。
+j	すりもの	surimono	版を使用して印刷されたもの。印刷物。
+j	すること	surukoto	
+j	するする	surusuru	滑らかに動くさま。
+j	する程	suruhodo	
+j	すれすれ	suresure	just barely, just squeaki…
+j	すんません	sunmasen	
+j	スイス人	suisujin	Swiss (person, people)
+j	スイミング	suimingu	swimming
+j	スイムウェア	suimuwea	水着。
+j	スイートコーン	suitokon	sweet corn
+j	スカッシュ	sukasshu	squash, a soft drink made…
+j	スカッツ	sukattsu	skirt with compression sh…
+j	スカトロ	sukatoro	act of scatophilia
+j	スカラブ	sukarabu	
+j	スカラベ	sukarabe	a scarab
+j	スカラー場	sukaraba	空間内の各点にそれぞれスカラーを割り当てる写像F:…
+j	スカルプ	sukarupu	「スキャルプ」の表記ゆれ。
+j	スキビディ	sukibidi	
+j	スキャンティー	sukyanti	scanties
+j	スキンケア	sukinkea	skincare
+j	スキーイング	sukiingu	synonym of スキー (sukī, “sk…
+j	スキーン腺	sukinsen	Skene's gland
+j	スクアレン	sukuaren	
+j	スクブス	sukubusu	眠っている男性を襲い精液を奪うとされる夢魔。
+j	スクラブ	sukurabu	
+j	スクラム	sukuramu	scrum
+j	スクルド	sukurudo	《神話》 北欧神話に登場する運命の女神達ノルニル（…
+j	スクレーパー	sukurepa	
+j	スクロース	sukurosu	sucrose
+j	スクロール	sukuroru	scrolling
+j	スクービー・ドゥー	sukubidu	
+j	スク水	sukumizu	sukumizu, a type of schoo…
+j	スケジュール	sukejuru	schedule
+j	スケッチ	suketchi	sketch
+j	スケート場	suketojo	「スケートリンク」に同じ。
+j	スコッチ	sukotchi	スコットランドの。
+j	スジオイヌ	sujioinu	ネコ目イヌ科クルペオギツネ属に属する食肉類の一種。…
+j	スタディオン	sutadion	古代ギリシアの長さの単位。1スタディオンは約185…
+j	スタブロ	sutaburo	スターティングブロック。
+j	スタンガン	sutangan	a stun gun
+j	スタンナン	sutannan	
+j	スタンバイ	sutanbai	standby
+j	スターダム	sutadamu	stardom
+j	スター・ウォーズ	sutawozu	Star Wars
+j	スター効果	sutakoka	
+j	スチレン	suchiren	Styrene.
+j	スチーブン	suchibun	Stephen
+j	ステアリン	sutearin	stearin
+j	スティグマ	sutiguma	
+j	ステファノ	sutefano	
+j	ステファノー	sutefano	天王星の衛星の固有名。
+j	ステュアート	sutyuato	a transliteration of the …
+j	ステルス	suterusu	stealth
+j	ステロール	suteroru	脂質の一つでステロイドのアルコールの総称。
+j	ステークス	sutekusu	stakes (a type of horse r…
+j	ステーション	suteshon	a station (a place where …
+j	ステータス	sutetasu	status, especially social…
+j	ステープラ	sutepura	
+j	ステープラー	sutepura	synonym of ホチキス (hochikis…
+j	ステープル	sutepuru	ステープラー（ホチキス）に使用するコの字形で金属製…
+j	スデロト	suderoto	
+j	ストイック	sutoikku	strict with oneself, self…
+j	ストラド	sutorado	
+j	ストリーカー	sutorika	
+j	ストリート	sutorito	street
+j	ストリーマー	sutorima	streamer
+j	ストリーム	sutorimu	気体や液体の流れ。気流。海流。
+j	ストルゲー	sutoruge	
+j	ストレス	sutoresu	stress (emotional pressur…
+j	ストレージ	sutoreji	storage
+j	ストレート	sutoreto	straightforward
+j	ストレーナー	sutorena	
+j	ストロボ	sutorobo	放電管を光源としシャッターの押下とともに閃光を発生…
+j	ストローク	sutoroku	stroke or swing in sports
+j	スナッチ	sunatchi	
+j	スナネコ	sunaneko	砂猫: sand cat, Felis marga…
+j	スナノミ	sunanomi	ノミ目スナノミ科スナノミ属に属するのみの一種。学名…
+j	スニフター	sunifuta	
+j	スノーケラー	sunokera	シュノーケリングをする人。
+j	スノーケル	sunokeru	snorkel
+j	スノードーム	sunodomu	スノーグローブ。
+j	スノーボーダー	sunoboda	スノーボードの選手。
+j	スノーボード	sunobodo	a snowboard
+j	スノーボール	sunoboru	
+j	スパイウェア	supaiwea	spyware
+j	スパイシー	supaishi	spicy
+j	スパイ罪	supaizai	
+j	スパイ行為	supaikoi	
+j	スパゲティ	supageti	「スパゲッティ」に同じ。
+j	スパゲティー	supageti	「スパゲッティ」に同じ。
+j	スパダリ	supadari	high-performance husband;…
+j	スパッツ	supattsu	compression shorts
+j	スパルタ	suparuta	Sparta (an ancient city-s…
+j	スパーテル	supateru	
+j	スピッツ	supittsu	口吻が尖って耳が立った北方系の犬種の総称。
+j	スピネル	supineru	
+j	スピンオフ	supinofu	spin-off
+j	スピーヌム	supinumu	（ラテン語文法、ラテン語:supinumの音写）目…
+j	スフマート	sufumato	sfumato
+j	スプリト	supurito	
+j	スプーンルアー	supunrua	
+j	スペインの	supeinno	
+j	スペイン語	supeingo	Spanish language
+j	スペカス	supekasu	スペインまたはスペイン人に対する侮蔑語。スペ公。
+j	スペースキー	supesuki	キーボードで空白を打つ長いキー。
+j	スペースバー	supesuba	スペースキー。
+j	スポドリ	supodori	
+j	スポブラ	supobura	
+j	スポ豚	supobuta	熱狂的、狂信的なスポーツ好きのおたく。
+j	スマッシュ	sumasshu	高く上がったボールを相手のコートへ強く打つこと。
+j	スマトラ	sumatora	Sumatra (the largest isla…
+j	スマブラ	sumabura	
+j	スメグマ	sumeguma	恥垢。
+j	スメタナ	sumetana	
+j	スメハラ	sumehara	スメルハラスメント。
+j	スメルザ	sumeruza	Smeltzer (an area of Oran…
+j	スメルド	sumerudo	
+j	スモハラ	sumohara	スモークハラスメント。
+j	スラッシュ	surasshu	slash character ("/")
+j	スラバヤ	surabaya	
+j	スラローム	suraromu	回転競技。
+j	スリナム	surinamu	Suriname (a country in So…
+j	スリムな	surimuna	
+j	スリーカード	surikado	synonym of スリー・オブ・ア・カインド …
+j	スリーピース	suripisu	three-piece suit
+j	スルタナ	surutana	
+j	スレオニン	sureonin	
+j	スレンバン	surenban	
+j	スロボダ	suroboda	
+j	スローペース	suropesu	調子が遅いこと。
+j	スワジ語	suwajigo	
+j	スンダ人	sundajin	インドネシア・ジャワ島西部の民族。オーストロネシア…
+j	スヴァローグ	suvarogu	
+j	スーパーウーマン	supauman	a superwoman
+j	スーパーゴール	supagoru	
+j	スーパースター	supasuta	superstar
+j	スーパートール	supatoru	高さ300メートル以上のビルディング。
+j	スーパーパワー	supapawa	
+j	スーパーヒーロー	supahiro	a superhero
+j	スーパーボウル	supaboru	the Super Bowl
+j	スーパーボール	supaboru	superball, bouncy ball
+j	スーパーモト	supamoto	舗装路面と未舗装路面を織り交ぜたコースをオフロード…
+j	スーフィズム	sufizumu	Sufism
+j	スープボウル	supuboru	
+j	住友	sumitomo	a surname
+j	健やか	sukoyaka	vigorous, healthy, sound
+j	優れた	sugureta	past tense and perfective…
+j	優れる	sugureru	to be good at (something)…
+j	全ての	subeteno	
+j	刷り込む	surikomu	to print or stencil somet…
+j	勧める	susumeru	suggest, recommend, advise
+j	双六	sugoroku	Sugoroku, a Japanese boar…
+j	吸い上げる	suiageru	pump, absorb
+j	吸い付く	suitsuku	to stick to
+j	吹竹	suichiku	吹笛。
+j	四槓子	sukantsu	winning hand containing f…
+j	垂直	suichoku	vertical, perpendicular
+j	天蛾	suzumega	
+j	好かれる	sukareru	
+j	好きです	sukidesu	
+j	好き好き	sukizuki	matter of taste
+j	姿見	sugatami	full-length mirror
+j	寸尺	sunshaku	
+j	寿司店	sushiten	sushi restaurant
+j	巣籠る	sugomoru	
+j	廃れた	sutareta	
+j	廃れる	sutareru	to die out, fade away, go…
+j	捨て仮名	sutegana	small okurigana used with…
+j	捨て札	sutefuda	
+j	捨仮名	sutegana	
+j	推力	suiryoku	thrust (propulsion force)
+j	推察	suisatsu	guess, conjecture
+j	推移的	suiiteki	
+j	推薦状	suisenjo	letter of recommendation,…
+j	擂り粉木	surikogi	
+j	擦り傷	surikizu	abrasion, scratch
+j	擦り減る	suriheru	
+j	数量詞	suryoshi	
+j	末吉	sueyoshi	a surname
+j	末松	suematsu	a surname
+j	末次	suetsugu	a surname
+j	末永い	suenagai	permanent, everlasting, v…
+j	杉並	suginami	Suginami (one of 23 speci…
+j	杉原	sugihara	a surname
+j	杉山	sugiyama	a surname
+j	杉崎	sugisaki	a surname
+j	杉本	sugimoto	a surname
+j	杉村	sugimura	a surname
+j	杉玉	sugidama	A ball of cedar needles t…
+j	杉苔	sugigoke	juniper haircap, Polytric…
+j	水上艦	suijokan	水に浮かぶ軍艦。潜水艦以外の軍艦。
+j	水中の	suichuno	
+j	水中花	suichuka	水を張った透明なガラスの容器に入れると草花の形にな…
+j	水力	suiryoku	waterpower, hydraulic pow…
+j	水密	suimitsu	密閉された水が圧力がかかっても漏出しないような状態…
+j	水師営	suishiei	naval camps or office bui…
+j	水平な	suiheina	
+j	水彩画	suisaiga	watercolour painting (a p…
+j	水月	suigetsu	water and the Moon
+j	水没	suibotsu	submergence in water
+j	水沫	suimatsu	水の泡。水泡。
+j	水準器	suijunki	spirit level
+j	水溶性	suiyosei	being water-soluble
+j	水溶液	suiyoeki	aqueous solution
+j	水滸伝	suikoden	Water Margin
+j	水産科	suisanka	大学や短期大学、専門学校に設置している水産に関する…
+j	水畜	suichiku	魚介。
+j	水硫基	suiryuki	sulfhydryl
+j	水素イオン	suisoion	イオン式H⁺で表される陽イオン。
+j	水素酸	suisosan	
+j	水脈	suimyaku	海洋や河川で舟が通る道。航路。
+j	水蛭	suitetsu	血吹蛭の漢名。
+j	水蜜	suimitsu	「水蜜桃」の略。
+j	水路橋	suirokyo	synonym of 水道橋 (suidōkyō,…
+j	水車場	suishaba	
+j	水道橋	suidokyo	an aqueduct (an artificia…
+j	水道水	suidosui	tap water, running water
+j	水道管	suidokan	上水または下水を導き、通すための管の管。
+j	水酸化	suisanka	hydroxylation, hydration;…
+j	水酸基	suisanki	hydroxyl
+j	水銀灯	suiginto	真空管に水銀の蒸気を封入し、アーク放電による発光を…
+j	水防団	suibodan	水防事務を取り扱うため市町村に設置される自治防災組…
+j	水面下	suimenka	below the water surface
+j	水頭症	suitosho	脳脊髄液の産生、循環、吸収などいずれかの異常により…
+j	水食	suishoku	erosion.
+j	水餃子	suigyoza	boiled gyoza (dumpling)
+j	涼しい	suzushii	refreshing, cool
+j	済ませる	sumaseru	synonym of すます
+j	炊飯ジャー	suihanja	
+j	炊飯器	suihanki	rice cooker
+j	珠洲焼	suzuyaki	現在の石川県珠洲市で中世に生産されていた無釉の焼き…
+j	直ぐ様	sugusama	immediately
+j	眇める	sugameru	
+j	睡眠相	suiminso	睡眠のサイクル。
+j	砂川	sunagawa	Sunagawa (a city in Hokka…
+j	砂浜	sunahama	beach
+j	砂箱	sunabako	
+j	砂蚤	sunanomi	a chigoe
+j	砂風呂	sunaburo	sand bath; a type of onse…
+j	祐弘	sukehiro	a male given name
+j	祐英	sukehide	a male given name
+j	窄まる	subomaru	taper, become narrower
+j	窄める	subomeru	to shut or fold (an umbre…
+j	筋書き	sujigaki	plot; storyline; scenario
+j	素寒貧	sukanpin	abject poverty
+j	素敵な	sutekina	
+j	素早さ	subayasa	
+j	素泊まり	sudomari	accommodation without boa…
+j	素潜り	sumoguri	潜水具を着けずに行う潜水。スキンダイビング。
+j	素足で	suashide	
+j	綏芬河	suifunga	
+j	翠玉	suigyoku	宝石のエメラルドのこと。
+j	翠竹	suichiku	密生している竹。密竹。
+j	翠鬟の	suikanno	
+j	膵臓癌	suizogan	膵臓にできる癌。膵癌。
+j	膵蛭	suitetsu	扁形動物門吸虫綱二生亜綱二腔吸虫科に属する寄生虫。…
+j	菅原	sugawara	a surname
+j	菅沼	suganuma	a surname
+j	菅谷	sugatani	a surname
+j	薦める	susumeru	to recommend
+j	蘇門答刺	sumatora	
+j	衰日	suijitsu	生年の干支によって忌み慎むべきとされる凶日。「衰」…
+j	衰滅	suimetsu	
+j	衰颯	suisatsu	衰退、衰微すること。
+j	裾除け	susoyoke	underskirt worn under kim…
+j	資紀	sukenori	a male given name
+j	透かさず	sukasazu	instantly, without a mome…
+j	透き通る	sukitoru	to be transparent, can be…
+j	速やか	sumiyaka	speedy, prompt
+j	進める	susumeru	promote, pursue, move for…
+j	邃密	suimitsu	幽邃。静邃。
+j	邃竹	suichiku	密竹。
+j	酢の物	sunomono	sunomono
+j	鈴香薷	suzukoju	Perillula reptans
+j	鈴鴨	suzugamo	
+j	鋤焼き	sukiyaki	
+j	錐体路	suitairo	pyramidal tract
+j	錐末	suimatsu	錐の先。
+j	錫石	suzuishi	cassiterite
+j	錫箔	suzuhaku	tinfoil
+j	雀蛾	suzumega	a hawk moth, a sphingid
+j	雙六	sugoroku	
+j	須藤石	sudoseki	sudoite
+j	頗る	sukoburu	extremely, highly
+k	수 있는	suinneun	
+k	수거차	sugeocha	
+k	수경	sugyeong	
+k	수고하다	sugohada	to work hard, to take tro…
+k	수공예	sugongye	
+k	수구당	sugudang	
+k	수국속	suguksok	
+k	수금인	sugeumin	
+k	수꿩	sukkwong	male pheasant
+k	수난곡	sunangok	
+k	수도관	sudogwan	
+k	수도권	sudogwon	capital area, metropolita…
+k	수도사제	sudosaje	
+k	수도주의	sudojuui	
+k	수돗물	sudonmul	상수도에서 나오는 물.
+k	수돼지	sudwaeji	'수퇘지의 비표준어.
+k	수라바야	surabaya	
+k	수라상	surasang	궁중에서, 임금에게 올리는 밥상을 높여 이르던…
+k	수라장	surajang	무엇의 어지럽고 분주한 상태나 장소
+k	수령	suryeong	leader
+k	수로선	suroseon	
+k	수류탄	suryutan	a hand grenade
+k	수르르	sureureu	
+k	수리검	surigeom	
+k	수리공	surigong	repairer
+k	수리수리	surisuri	
+k	수리하다	surihada	to repair or fix
+k	수릿날	surinnal	A festival also known as …
+k	수막새	sumaksae	Korean eave imbrex with a…
+k	수명	sumyeong	lifespan
+k	수묵화	sumukhwa	
+k	수문학	sumunhak	hydrology (science relate…
+k	수미하다	sumihada	뛰어나게 아름답다.
+k	수병	subyeong	sailor; seaman
+k	수부종	subujong	
+k	수비적	subijeok	
+k	수비하다	subihada	
+k	수사관	susagwan	detective, investigator
+k	수사망	susamang	
+k	수사법	susabeop	효과적, 미적 표현을 위해서 문장과 언어를 꾸…
+k	수사슴	susaseum	사슴의 수컷.
+k	수사하다	susahada	to investigate
+k	수산물	susanmul	바다에서 얻은 음식재료, 해산물 등을 포함하는…
+k	수산업	susaneop	
+k	수산학	susanhak	
+k	수삼차	susamcha	
+k	수상기	susanggi	
+k	수상자	susangja	winner
+k	수서원	suseowon	
+k	수선비	suseonbi	
+k	수세공	susegong	
+k	수세미오이	susemioi	
+k	수세미외	susemioe	
+k	수송기	susonggi	
+k	수송로	susongno	기차나 자동차, 배, 항공기 따위로 사람이나 …
+k	수송비	susongbi	
+k	수송자	susongja	
+k	수수하다	susuhada	
+k	수술대	susuldae	
+k	수술실	susulsil	수술을 행하는 곳.
+k	수식언	susigeon	한국어 문장에서 뒤에 오는 낱말들 꾸미어 주는…
+k	수식하다	susikada	
+k	수신함	susinham	
+k	수십만	susimman	
+k	수압관	suapgwan	
+k	수양모	suyangmo	
+k	수양부	suyangbu	
+k	수양자	suyangja	
+k	수업료	sueomnyo	가르침을 받기 위해 내는 돈.
+k	수오지심	suojisim	
+k	수용소	suyongso	internment camp, concentr…
+k	수위타자	suwitaja	
+k	수의근	suuigeun	
+k	수입상	suipsang	
+k	수입인지	suibinji	
+k	수입하다	suiphada	to import
+k	수입환	suiphwan	
+k	수작업	sujakeop	
+k	수잡대	sujapdae	(비하) 대학교의 소재지는 수도권에 위치하여,…
+k	수전노	sujeonno	miser; pinchpenny
+k	수줍은	sujubeun	'수줍다'의 관형사형.
+k	수줍음	sujubeum	무엇을 앞에 두고 얼굴을 붉히거나 부끄러워하는…
+k	수지하다	sujihada	to uphold principles, val…
+k	수진본	sujinbon	pocket book, pocket editi…
+k	수출세	suchulse	
+k	수출입	suchurip	
+k	수취인	suchwiin	addressee, receiver
+k	수치심	suchisim	
+k	수치화	suchihwa	
+k	수퇘지	sutwaeji	boar (male pig)
+k	수평	supyeong	level
+k	수표액	supyoaek	
+k	수플레	supeulle	
+k	수필집	supiljip	essay collection
+k	수험자	suheomja	시험을 보는 사람.
+k	수형	suhyeong	(일제강점기) 어음. 어음의 옛말.
+k	수호랑	suhorang	2018년 동계 올림픽의 마스코트 이름. 백호…
+k	수화물	suhwamul	
+k	수확기	suhwakgi	
+k	숙녀	sungnyeo	lady
+k	숙맥	sungmaek	콩과 보리.
+k	숙생	suksaeng	
+k	숙성	sukseong	ripeness, maturity
+k	숙어집	sugeojip	phrase book
+k	숙정	sukjeong	
+k	순결	sungyeol	purity, integrity
+k	순교자	sungyoja	martyr
+k	순례자	sullyeja	
+k	순복사	sunboksa	임의 지점에서의 하향 복사에서 상향 복사를 뺀…
+k	순서도	sunseodo	
+k	순수한	sunsuhan	
+k	순정	sunjeong	순수하고 올바름.
+k	순천	suncheon	Suncheon (a city in South…
+k	순행	sunhaeng	임금이 나라 안을 두루 살피며 돌아다니던 일.
+k	순혈	sunhyeol	purebred, pureblood, thor…
+k	순흥	sunheung	Sunhung, a South Korean t…
+k	숟가락	sutgarak	spoon (eating utensil)
+k	술고래	sulgorae	a strong drinker; drunk; …
+k	술라쥐	sullajwi	Sula rat (Rattus elaphinu…
+k	술어학	sureohak	
+k	술책	sulchaek	어떤 꾀나 계획을 몰래 꾸미거나 저지르는 행위.
+k	숨결	sumgyeol	the state or condition of…
+k	숨쉬기	sumswigi	
+k	숨쉬다	sumswida	to breathe
+k	숨차다	sumchada	to be out of breath
+k	숭상	sungsang	
+e	sub-system	subsystem	1 meaning
+e	subatomic	subatomic	1 meaning
+e	subfolder	subfolder	1 meaning
+e	subfossil	subfossil	1 meaning
+e	sublative	sublative	1 meaning
+e	sublimate	sublimate	2 meanings
+e	submarine	submarine	1 meaning
+e	subphylum	subphylum	1 meaning
+e	subscribe	subscribe	1 meaning
+e	subscript	subscript	1 meaning
+e	substance	substance	5 meanings
+e	subwoofer	subwoofer	1 meaning
+e	successor	successor	3 meanings
+e	succinate	succinate	1 meaning
+e	succulent	succulent	1 meaning
+e	suchitoto	suchitoto	1 meaning
+e	sucralose	sucralose	1 meaning
+e	suctorian	suctorian	1 meaning
+e	suez canal	suezcanal	1 meaning
+e	suffering	suffering	1 meaning
+e	suffocate	suffocate	2 meanings
+e	sugar beet	sugarbeet	1 meaning
+e	sugar cane	sugarcane	1 meaning
+e	sugar cube	sugarcube	1 meaning
+e	sugar mama	sugarmama	1 meaning
+e	sugar-free	sugarfree	1 meaning
+e	sugar-loaf	sugarloaf	1 meaning
+e	sugarcoat	sugarcoat	1 meaning
+e	sulfoxide	sulfoxide	1 meaning
+e	summarize	summarize	1 meaning
+e	sumptuous	sumptuous	1 meaning
+e	sun shower	sunshower	1 meaning
+e	sun spurge	sunspurge	1 meaning
+e	sundaland	sundaland	1 meaning
+e	sundanese	sundanese	1 meaning
+e	sunflower	sunflower	1 meaning
+e	sunscreen	sunscreen	1 meaning
+e	sunstroke	sunstroke	1 meaning
+e	suntan oil	suntanoil	1 meaning
+e	super bowl	superbowl	1 meaning
+e	superacid	superacid	1 meaning
+e	superatom	superatom	1 meaning
+e	supercell	supercell	1 meaning
+e	supercool	supercool	1 meaning
+e	superhero	superhero	1 meaning
+e	supermoon	supermoon	1 meaning
+e	supernova	supernova	1 meaning
+e	superstar	superstar	1 meaning
+e	supporter	supporter	2 meanings
+e	suppurate	suppurate	1 meaning
+e	supremacy	supremacy	1 meaning
+e	surcharge	surcharge	1 meaning
+e	surfboard	surfboard	1 meaning
+e	surprised	surprised	1 meaning
+e	surrender	surrender	5 meanings
+e	suspender	suspender	1 meaning
+e	suspicion	suspicion	5 meanings
+j	すいかずら	suikazura	髪を結う際に用いる鬢付け油の代用品。
+j	すいかわり	suikawari	西瓜割り: a traditional Japan…
+j	すいしょうたい	suishotai	水晶体: lens
+j	すえながく	suenagaku	for a long time
+j	すかしべ	sukashibe	音がしないよう放った屁。
+j	すきかって	sukikatte	勝手気儘に振る舞うこと。また、そのようなさま。
+j	すききらい	sukikirai	好きなものと嫌いなもの。
+j	すぎこし	sugikoshi	「すぎこしのまつり」の略。
+j	すくいだす	sukuidasu	助け出す。救出する。
+j	すくいとる	sukuitoru	掌や匙などで掬って取る。
+j	すぐみち	sugumichi	真っ直ぐな道。
+j	すけだち	sukedachi	仇討ち、果たし合いで助力すること。
+j	すけべいな	sukebeina	
+j	すこしく	sukoshiku	in small amounts
+j	すこしも	sukoshimo	（打消の語を伴って）全然。ちっとも。
+j	すこっちょい	sukotchoi	素晴らしい。
+j	すさまじい	susamajii	（限定的）程度が甚だしく、恐怖を感じさせる。凄惨だ。
+j	すしづめ	sushizume	寿司をぎっしり折り詰めにすること。
+j	すじみち	sujimichi	筋道: reason, logic
+j	すじをとおす	sujiotosu	to do what is logical and…
+j	すすはらい	susuharai	主に家屋の屋内、屋外にたまった煤や埃などを払うこと…
+j	すずしさ	suzushisa	涼しいこと。また、その度合い。
+j	すずしろ	suzushiro	大根の異名。春の七草の一つとしてあげる時の呼称。
+j	すずむし	suzumushi	鈴虫: a suzumushi; a bell c…
+j	すずめだい	suzumedai	スズキ目ベラ亜目スズメダイ科に属する魚の総称。学名…
+j	すそをひく	susoohiku	to have a long, trailing …
+j	すってんてん	suttenten	財産や所持していた金品をすべて失うさま。
+j	すっとばす	suttobasu	to make something fly wit…
+j	すっぱだか	suppadaka	素っ裸: nakedness, birthday …
+j	すっぽかす	suppokasu	to leave (something) undo…
+j	すっぽんぽん	supponpon	stark naked
+j	すてばち	sutebachi	やぶれかぶれ、自暴自棄。望みを失いやけな振舞に出る…
+j	すなあそび	sunaasobi	砂をいじって遊ぶこと。
+j	すなけし	sunakeshi	
+j	すなつぶ	sunatsubu	岩石などが破片となった粒子。
+j	すなわち	sunawachi	即ち, 即, 乃ち, 乃: namely
+j	すみつき	sumitsuki	seal of approval
+j	すみつく	sumitsuku	住まいを定めて落ち着く。
+j	すみません	sumimasen	sorry! (in apology, more …
+j	すみませーん	sumimasen	
+j	すみまへん	sumimahen	
+j	すみよし	sumiyoshi	純良: a male given name
+j	すみれいろ	sumireiro	菫の花のような濃い紫。
+j	すりあわせ	suriawase	「すりあわせる」の未然形及び連用形。
+j	すりおろす	suriorosu	to grate (vegetables, fru…
+j	すりかえる	surikaeru	to discreetly swap
+j	すりばち	suribachi	擂鉢: a mortar, a bowl used…
+j	すり鉢	suribachi	
+j	するめいか	surumeika	ツツイカ目スルメイカ属に属するいかの一種。学名:T…
+j	スイカズラ	suikazura	マツムシソウ目スイカズラ科スイカズラ属に属する常緑…
+j	スイスボール	suisuboru	
+j	スイッチオン	suitchion	switching on
+j	スインギング	suingingu	
+j	スイングドア	suingudoa	swing door
+j	スイングバイ	suingubai	天体の万有引力を利用して燃料をほぼ使わずに軌道の変…
+j	スイング・ドア	suingudoa	
+j	スイートホーム	suitohomu	（新婚夫婦の）楽しい家庭。
+j	スイートルーム	suitorumu	ホテルで居間、寝室、浴室などが一続きになっている部…
+j	スウェーデンの	suwedenno	
+j	スウェーデン語	suwedengo	Swedish (language)
+j	スエズ運河	suezuunga	Suez Canal (a canal in Eg…
+j	スカイブルー	sukaiburu	空色。
+j	スカイライン	sukairain	skyline
+j	スカラー量	sukararyo	大きさのみを持つ量。スカラー。
+j	スカーレット	sukaretto	scarlet
+j	スキゾイド	sukizoido	
+j	スキットル	sukittoru	hip flask
+j	スキャルプ	sukyarupu	ヒトの頭皮。
+j	スキャンする	sukyansur	
+j	スキレット	sukiretto	synonym of フライパン (furaipa…
+j	スキーをする	sukiosuru	
+j	スキージャンプ	sukijanpu	ノルディックスキーの一つでジャンプ台と呼ばれる専用…
+j	スクライブ	sukuraibu	
+j	スクラップ	sukurappu	clipping (of a newspaper)…
+j	スクレイピー	sukureipi	
+j	スクワット	sukuwatto	直立した姿勢から膝の屈伸を繰り返す運動。
+j	スケアクロウ	sukeakuro	
+j	スケルチ	sukeruchi	無線通話装置において、無信号時の雑音や、交信相手以…
+j	スケルツォ	sukerutso	
+j	スケルトン	sukeruton	skeleton (type of tobogga…
+j	スケーティング	suketingu	
+j	スコアカード	sukoakado	
+j	スコアボード	sukoabodo	a scoreboard
+j	スコーピング	sukopingu	方法書手続き。
+j	スズムシ	suzumushi	鈴虫: a suzumushi; a bell c…
+j	スタイラス	sutairasu	stylus
+j	スタクトン	sutakuton	Stockton (a city in Calif…
+j	スタジアム	sutajiamu	stadium
+j	スタチュート	sutachuto	
+j	スタッカート	sutakkato	staccato
+j	スタティック	sutatikku	static
+j	スタンション	sutanshon	
+j	スタンダード	sutandado	standard
+j	スタンチョン	sutanchon	
+j	スタンドバー	sutandoba	bar, a pub with no seats
+j	スタンバる	sutanbaru	to be ready and on standby
+j	スタンフォード	sutanfodo	a transliteration of the …
+j	スターアニス	sutaanisu	star anise, dried fruit o…
+j	スターレット	sutaretto	
+j	スチトト	suchitoto	
+j	スチュワード	suchuwado	a steward (flight attenda…
+j	スチロール	suchiroru	スチレンのこと。
+j	スティルトン	sutiruton	Stilton
+j	スティレット	sutiretto	stiletto (knife)
+j	ステイホーム	suteihomu	staying at home
+j	ステュクス	sutyukusu	地下を流れているとされる大河。またはそれを神格化し…
+j	ステューディオ	suteyudio	（不動産用語）キッチン、居室、バスルームが1つの空…
+j	ステロイド	suteroido	steroid
+j	ステンレス	sutenresu	stainless
+j	スデロット	suderotto	
+j	ストマック	sutomakku	胃。
+j	ストライキ	sutoraiki	strike, a work stoppage
+j	ストライク	sutoraiku	strike
+j	ストライド	sutoraido	大股で歩くこと。また、その歩幅。
+j	ストライプ	sutoraipu	縞。縞模様。
+j	ストラップ	sutorappu	strap
+j	ストリッパー	sutorippa	a stripper (a striptease …
+j	ストリップ	sutorippu	striptease, strip show
+j	ストリンガー	sutoringa	弦楽器の弦張り師。
+j	ストリング	sutoringu	string (of text character…
+j	ストレンジ	sutorenji	風変わりなさま。奇妙なさま。
+j	ストロング	sutorongu	丈夫なさま。強力なさま。
+j	ストーキング	sutokingu	
+j	スナックバー	sunakkuba	a snack bar
+j	スノークローン	sunokuron	
+j	スノータイヤ	sunotaiya	雪道を走行する時に装着するタイヤ。
+j	スノーダンプ	sunodanpu	
+j	スノーノイズ	sunonoizu	noise (in video and telev…
+j	スノーバイク	sunobaiku	オートバイの前輪にそりを、後輪に無限軌道を装着した…
+j	スノーブーツ	sunobutsu	
+j	スノープラウ	sunopurau	a snow plow
+j	スパイラル	supairaru	spiral (continual increas…
+j	スパゲッティ	supagetti	spaghetti
+j	スパシーバ	supashiba	thank you (in the context…
+j	スパニエル	supanieru	スペインの猟犬を始祖とするフラッシュを行う鳥猟犬の…
+j	スパングル	supanguru	spangle
+j	スパンコール	supankoru	spangle
+j	スピノール	supinouru	
+j	スピリット	supiritto	魂、精神。
+j	スピーキング	supikingu	語学の技能としての会話。
+j	スピークイージー	supikuiji	
+j	スピードガン	supidogan	a radar gun
+j	スピードラン	supidoran	タイムアタックに同じ。
+j	スファックス	sufakkusu	
+j	スフィンクス	sufinkusu	a sphinx (creature with t…
+j	スプライト	supuraito	
+j	スプラウト	supurauto	
+j	スプリッタ	supuritta	
+j	スプリッター	supuritta	DNS splitter
+j	スプリット	supuritto	フレームの1投目で残ったピンとピンの間が空くこと。
+j	スプリング	supuringu	Spring (season).
+j	スプリンター	supurinta	陸上競技・競泳・スピードスケートなどの短距離種目の…
+j	スプリント	supurinto	sprint (short race at top…
+j	スプレッド	supureddo	広がり具合。
+j	スプレー缶	supurekan	spray can
+j	スプーンまげ	supunmage	spoonbending
+j	スペアリブ	supearibu	豚肉で肋骨のあたりの肉。
+j	スペイン人	supeinjin	a Spaniard
+j	スペシャル	supesharu	special
+j	スペリング	superingu	spelling
+j	スボティツァ	subotitsa	
+j	スポンサード	suponsado	being sponsored
+j	スポーツカー	supotsuka	sports car
+j	スポーツバー	supotsuba	a sports bar
+j	スポーンする	suponsuru	
+j	スマートフォン	sumatofon	a smartphone
+j	スマートホン	sumatohon	「スマートフォン」の表記ゆれ。
+j	スメルシ	sumerushi	
+j	スメルシュ	sumerushu	SMERSH (WWII-era Russian …
+j	スラックス	surakkusu	a pair of slacks
+j	スラナン語	suranango	スリナムで話される、クレオール言語に分類される言語。
+j	スラブ人	surabujin	Slav (a member of a group…
+j	スラム街	suramugai	「スラム」に同じ。
+j	スラヴォニア	suravonia	
+j	スラヴ人	suravujin	Slav (a member of a group…
+j	スリザリン	surizarin	
+j	スリュムル	suryumuru	土星の第30衛星の固有名。
+j	スリランカ	suriranka	Sri Lanka (an island and …
+j	スリリング	suriringu	スリルのある様子。
+j	スリーアールズ	suriaruzu	three Rs: reading, writin…
+j	スリーサイズ	surisaizu	bust/waist/hip measuremen…
+j	スリーティアーズ	suritiazu	伝統的な英国式アフタヌーンティーに於ける、三段重ね…
+j	スリーバント	suribanto	2ストライク後に行うバント。この際、打球がファウル…
+j	スルック語	surukkugo	
+j	スルメイカ	surumeika	「するめいか」の学術的表記。
+j	スレイベル	sureiberu	
+j	スレ主	surenushi	電子掲示板で、スレッドを立てた人。
+j	スロットル	surottoru	
+j	スロバキア	surobakia	Slovakia (a country in Ce…
+j	スロベニア	surobenia	Slovenia (a country on th…
+j	スロヴァキア	surovakia	「スロバキア」の異表記。
+j	スロヴェニア	surovenia	Slovenia (a country on th…
+j	スロークッカー	surokukka	
+j	スローライフ	suroraifu	easy-going life / lifesty…
+j	スワジ人	suwajijin	エスワティニの主要民族。バントゥー人の一派。
+j	スワンボート	suwanboto	swan boat (novelty swan-s…
+j	スンバワ島	sunbawato	Sumbawa
+j	スーツケース	sutsukesu	suitcase
+j	スーパバイザ	supabaiza	
+j	スーパージェット	supajetto	
+j	スーパーストア	supasutoa	
+j	スーパーバイク	supabaiku	スーパーバイク世界選手権で使用される2気筒1200…
+j	スーパーバイザー	supabaiza	
+j	スーパーヴィラン	supaviran	
+j	スーパー台風	supataifu	最大風速が概ね70 m/s以上の台風。
+j	スーパー銭湯	supasento	“super-sentō”, a type of …
+j	スープスプーン	supusupun	
+j	住吉	sumiyoshi	A common place name in Ja…
+j	凄まじい	susamajii	dreadful, threatening
+j	助け平な	sukebeina	
+j	助太刀	sukedachi	helping; assisting
+j	即ち	sunawachi	
+j	吸い寄せる	suiyoseru	to attract; to suck in
+j	吹奏楽	suisogaku	music featuring wind inst…
+j	好きやねん	sukiyanen	
+j	好き嫌い	sukikirai	likes and dislikes
+j	少しも	sukoshimo	(not) one bit; (not) at a…
+j	崇拝する	suhaisuru	
+j	崇敬する	sukeisuru	
+j	推測の	suisokuno	
+j	推進器	suishinki	thruster, propeller
+j	推量形	suiryokei	conjectural form
+j	掬い投げ	sukuinage	sukuinage
+j	擂り鉢	suribachi	
+j	擂鉢	suribachi	a mortar, a bowl used for…
+j	救い出す	sukuidasu	
+j	数値予報	suchiyoho	スーパーコンピュータを用いて計算される気象の予報。
+j	数学史	sugakushi	数学に関する歴史。
+j	数学者	sugakusha	mathematician
+j	数秘術	suhijutsu	numerology
+j	朱雀大路	suzakuoji	都を南北に貫く一番大きな道路。
+j	朱雀門	suzakumon	大内裏の正門
+j	枢密院	sumitsuin	Privy Council to the Empe…
+j	枢軸軍	sujikugun	ドイツ、イタリア、日本の側についた国の軍。
+j	梳き櫛	sukigushi	fine-toothed comb
+j	水ガラス	suigarasu	
+j	水上スキー	suijosuki	モーターボートや水上オートバイなどの後部にロープを…
+j	水兵長	suiheicho	旧日本軍の階級の一つ。日本海軍では二等兵曹の下、上…
+j	水半球	suihankyu	地球の半球のうち、海の割合が最大のもの。
+j	水墨画	suibokuga	water ink pictures
+j	水平線	suiheisen	horizon on water
+j	水成岩	suiseigan	aqueous rock
+j	水成論	suiseiron	
+j	水星人	suiseijin	a Mercurian (inhabitant o…
+j	水晶体	suishotai	lens
+j	水晶宮	suishokyu	the Crystal Palace
+j	水死体	suishitai	drowned corpse; corpse as…
+j	水源地	suigenchi	source of a river
+j	水準点	suijunten	水準測量により求められた標高を示す標識。主要な道路…
+j	水理学	suirigaku	
+j	水産業	suisangyo	産業又は職業のひとつであり、主に、海、川、湖などに…
+j	水禽類	suikinrui	水鳥の中でかもなどの游禽類を指す他、広義においては…
+j	水質	suishitsu	water quality
+j	水道メーター	suidometa	
+j	涼み台	suzumidai	夏に暑さを凌ぐため、軒先などに置く縁台。
+j	滑り台	suberidai	a slide (item of play equ…
+j	澄み切った	sumikitta	
+j	砂時計	sunadokei	hourglass
+j	砂色の	sunairono	
+j	砂遊び	sunaasobi	すなあそびの漢字表記。
+j	筋向かい	sujimukai	the diagonal opposite, ca…
+j	筋道	sujimichi	reason, logic
+j	粋質	suishitsu	優れた性質。
+j	純良	sumiyoshi	a male given name
+j	素っ裸	suppadaka	nakedness, birthday suit
+j	素っ頓狂	suttonkyo	wild, crazy, hysteric
+j	菫色	sumireiro	violet (color)
+j	蘿蔔	suzushiro	daikon radish (Raphanus r…
+j	衰疾	suishitsu	病むこと。
+j	西瓜割り	suikawari	a traditional Japanese ga…
+j	透かし屁	sukashibe	
+j	遂失	suishitsu	失墜。
+j	遂行する	suikosuru	
+j	過越	sugikoshi	
+j	邃室	suishitsu	奥座敷。
+j	鈴虫	suzumushi	a bell cricket
+j	錐体筋	suitaikin	a pyramidalis muscle
+j	雀鯛	suzumedai	a Chromis notata (pearl-s…
+j	鮨詰め	sushizume	packing of sushi in a con…
+j	鯣烏賊	surumeika	a Japanese flying squid (…
+k	수간호사	suganhosa	
+k	수강아지	sugangaji	'수캉아지'의 비표준어.
+k	수고양이	sugoyangi	tom, tomcat
+k	수공업	sugongeop	handicraft (industry)
+k	수공품	sugongpum	
+k	수굿하다	suguthada	고개를 조금 숙인 듯하다.
+k	수근골	sugeungol	
+k	수금원	sugeumwon	
+k	수기신호	sugisinho	
+k	수깃하다	sugithada	
+k	수꽃술	sukkotsul	
+k	수난극	sunangeuk	
+k	수난절	sunanjeol	
+k	수납장	sunapjang	storage unit, such as a c…
+k	수녀원	sunyeowon	
+k	수뇨관	sunyogwan	ureter
+k	수도승	sudoseung	
+k	수동식	sudongsik	
+k	수동태	sudongtae	passive voice
+k	수두증	sudujeung	
+k	수련의	suryeonui	
+k	수렴제	suryeomje	
+k	수렵기	suryeopgi	
+k	수렵조	suryeopjo	
+k	수렵지	suryeopji	
+k	수록하다	surokhada	무엇을 모아서 기록하다. 또는 모아서 책이나 …
+k	수룽대	surungdae	urine
+k	수리남의	surinamui	
+k	수리남인	surinamin	
+k	수리조합	surijohap	
+k	수리학파	surihakpa	
+k	수립하다	suriphada	어떤 기관이나 부서를 만들다.
+k	수마트라	sumateura	
+k	수막염	sumakyeom	
+k	수메르어	sumereueo	
+k	수면제	sumyeonje	a soporific; a sleeping p…
+k	수묵색	sumuksaek	
+k	수문장	sumunjang	
+k	수박색	subaksaek	watermelon (color)
+k	수박춤	subakchum	손뼉을 치면서 추는 춤.
+k	수반하다	subanhada	
+k	수보티차	suboticha	
+k	수북하다	subukhada	쌓이거나 담긴 물건 따위가 불룩하게 많다.
+k	수사본부	susabonbu	
+k	수삭하다	susakhada	몹시 야윈 데가 있다.
+k	수삽하다	susaphada	몸을 어찌하여야 좋을지 모를 정도로 수줍고 부…
+k	수상록	susangnok	
+k	수상목	susangmok	
+k	수상문	susangmun	
+k	수상술	susangsul	
+k	수상판	susangpan	
+k	수상화	susanghwa	수상 화서로 핀 꽃.
+k	수색대	susaekdae	
+k	수색원	susaegwon	
+k	수선거	suseongeo	
+k	수선화	suseonhwa	학명: Narcissus 수선화과의 여러해살이…
+k	수성암	suseongam	
+k	수소원자	susowonja	
+k	수송아지	susongaji	
+k	수송업	susongeop	
+k	수송함	susongham	
+k	수술하다	susulhada	피부 등을 자르거나 째서 병을 고치다.
+k	수신제가	susinjega	
+k	수액백	suaekbaek	an IV bag, a bag used to …
+k	수양액	suyangaek	
+k	수어지교	sueojigyo	
+k	수영모	suyeongmo	
+k	수요함수	suyohamsu	
+k	수용액	suyongaek	
+k	수월하다	suwolhada	어떤 일을 해내기가 쉽거나 또는 그 일을 스스…
+k	수음하다	sueumhada	to masturbate
+k	수익성	suikseong	
+k	수익자산	suikjasan	
+k	수입되다	suipdoeda	
+k	수입업자	suibeopja	
+k	수장국	sujangguk	emirate
+k	수장목	sujangmok	
+k	수장판	sujangpan	
+k	수정안	sujeongan	amendment
+k	수제천	sujecheon	
+k	수족관	sujokgwan	aquarium
+k	수증기	sujeunggi	water vapour; steam
+k	수직권	sujikgwon	
+k	수직선	sujikseon	
+k	수직으로	sujigeuro	
+k	수집하다	sujiphada	to collect, to gather
+k	수채화	suchaehwa	
+k	수출품	suchulpum	exported goods; export
+k	수치모의	suchimoui	
+k	수치예보	suchiyebo	바람·기온과 같은 기상요소의 시간 변화를 나타…
+k	수치플	suchipeul	humiliation play (sexual …
+k	수캉아지	sukangaji	male puppy
+k	수코양이	sukoyangi	
+k	수탁물	sutangmul	
+k	수표장	supyojang	chequebook/checkbook
+k	수학기호	suhakgiho	수학의 개념, 명제, 계산 따위를 표시하는 데…
+k	수행자	suhaengja	
+k	수험료	suheomnyo	
+k	수험표	suheompyo	
+k	수호조약	suhojoyak	
+k	수화법	suhwabeop	
+k	수확달	suhwakdal	
+k	숙고하다	sukgohada	
+k	숙련	sungnyeon	proficiency
+k	숙모님	sungmonim	
+k	숙연히	sugyeonhi	
+k	숙제하다	sukjehada	to do homework
+k	숙청	sukcheong	purge
+k	순문학	sunmunhak	
+k	순수주의	sunsujuui	
+k	순수하다	sunsuhada	pure, unmixed, genuine
+k	순식간	sunsikgan	the blink of an eye, an i…
+k	순우리말	sunurimal	a Korean word of native o…
+k	순치음	sunchieum	labiodental
+k	숟갈질	sutgaljil	'숟가락질'의 준말.
+k	술라웨시	sullawesi	
+k	술병	sulbyeong	hangover (illness caused …
+k	술어절	sureojeol	
+k	술이부작	suribujak	있는 그대로 기술할 뿐 새로 지어내지 않는다는…
+k	술쟁이	suljaengi	
+k	숨가이트	sumgaiteu	
+k	숨죽이다	sumjugida	to hold one's breath, con…
+k	숫돼지	sutdwaeji	'수퇘지'의 비표준어.
+k	숫염소	sudyeomso	
+k	숫잔대	sutjandae	Lobelia sessilifolia
+k	숭고한	sunggohan	
+k	숭늉	sungnyung	sungnyung, scorched rice …
+k	숭덩	sungdeong	연한 물건을 조금 큼직하고 거칠게 빨리 한 번…
+e	subcarrier	subcarrier	1 meaning
+e	subculture	subculture	1 meaning
+e	subglacial	subglacial	1 meaning
+e	subjective	subjective	1 meaning
+e	subliminal	subliminal	2 meanings
+e	submission	submission	2 meanings
+e	submissive	submissive	1 meaning
+e	subroutine	subroutine	1 meaning
+e	subscriber	subscriber	1 meaning
+e	subsection	subsection	1 meaning
+e	subsidiary	subsidiary	1 meaning
+e	subspecies	subspecies	1 meaning
+e	substation	substation	1 meaning
+e	substitute	substitute	5 meanings
+e	subtrahend	subtrahend	1 meaning
+e	subtropics	subtropics	1 meaning
+e	subversion	subversion	3 meanings
+e	successful	successful	1 meaning
+e	succession	succession	1 meaning
+e	such is life	suchislife	1 meaning
+e	suction cup	suctioncup	1 meaning
+e	suffer from	sufferfrom	1 meaning
+e	sufficient	sufficient	3 meanings
+e	sufganiyah	sufganiyah	1 meaning
+e	sugar apple	sugarapple	1 meaning
+e	sugar daddy	sugardaddy	1 meaning
+e	sugar maple	sugarmaple	1 meaning
+e	sugar water	sugarwater	1 meaning
+e	sugariness	sugariness	1 meaning
+e	suggestion	suggestion	1 meaning
+e	sulfhydryl	sulfhydryl	1 meaning
+e	sulfur tuft	sulfurtuft	1 meaning
+e	summer camp	summercamp	1 meaning
+e	summer roll	summerroll	1 meaning
+e	summertime	summertime	1 meaning
+e	sunbathing	sunbathing	1 meaning
+e	sunbittern	sunbittern	1 meaning
+e	sunder tree	sundertree	1 meaning
+e	sunderland	sunderland	1 meaning
+e	sundowning	sundowning	1 meaning
+e	sunglasses	sunglasses	1 meaning
+e	sunlounger	sunlounger	1 meaning
+e	sunni islam	sunniislam	1 meaning
+e	sunset moth	sunsetmoth	1 meaning
+e	superclass	superclass	1 meaning
+e	supergiant	supergiant	1 meaning
+e	superhuman	superhuman	1 meaning
+e	supermodel	supermodel	1 meaning
+e	superorder	superorder	1 meaning
+e	superpower	superpower	2 meanings
+e	supersonic	supersonic	1 meaning
+e	superstore	superstore	1 meaning
+e	supervisor	supervisor	2 meanings
+e	superwoman	superwoman	1 meaning
+e	supplement	supplement	1 meaning
+e	suppletion	suppletion	1 meaning
+e	supplicate	supplicate	1 meaning
+e	sure enough	sureenough	1 meaning
+e	surfactant	surfactant	2 meanings
+e	surinamese	surinamese	2 meanings
+e	surjection	surjection	1 meaning
+e	surjective	surjective	1 meaning
+e	surrealism	surrealism	1 meaning
+e	sushi pizza	sushipizza	1 meaning
+e	suspicious	suspicious	3 meanings
+e	suzerainty	suzerainty	1 meaning
+j	すいみんやく	suiminyaku	睡眠薬: sleeping pill
+j	すえつかた	suetsukata	物事の終わりの方。
+j	すえつける	suetsukeru	ある場所に置いて、動かないようにする。
+j	すかしっぺ	sukashippe	「すかしべ」に同じ。
+j	すきばさみ	sukibasami	texturizing shears
+j	すきまゲージ	sukimageji	
+j	すきやきや	sukiyakiya	すき焼きを提供する店、人。
+j	すくいあげる	sukuiageru	掬って外に引き上げる。
+j	すくなくも	sukunakumo	少なく見ても。
+j	すくもべや	sukumobeya	籾殻を入れておく納屋の一室。
+j	すけそうだら	sukesodara	「すけとうだら」の別表記。
+j	すけとうだら	suketodara	タラ科の海水魚。体はまだら（真鱈）より細く、身はす…
+j	すさびごと	susabigoto	心が赴くまま慰みとする行為。なぐさみわざ。
+j	すさめごと	susamegoto	心の赴くまま慰み半分とすること。
+j	すしめし	sushimeshi	sushi rice
+j	すじがとおる	sujigatoru	to be logical
+j	すじだてる	sujidateru	毛髪の癖を直し、正す。
+j	すじちがい	sujichigai	角が初形から動いて行けない位置に打ってあること。
+j	すすみでる	susumideru	進んで前へ出る。
+j	すすりなき	susurinaki	啜り泣くこと。
+j	すすりなく	susurinaku	声を出さずに泣く。
+j	すすり泣き	susurinaki	
+j	すすり泣く	susurinaku	
+j	すずのすけ	suzunosuke	宰之左: a male given name
+j	すずめやき	suzumeyaki	雀の内臓を取り、照り焼きにした料理。
+j	すずりいし	suzuriishi	硯。
+j	すずりばこ	suzuribako	box for holding calligrap…
+j	すっからかん	sukkarakan	empty
+j	すったもんだ	suttamonda	arguing
+j	すっぱい葡萄	suppaibudo	
+j	すてどころ	sutedokoro	捨てるのに良い場所や時期。
+j	すなあらし	sunaarashi	砂漠などで吹き荒れる砂を激しく吹きつける嵐。砂暴風…
+j	すなけむり	sunakemuri	風で砂が舞い上がって煙のように見えるもの。砂塵。
+j	すなねずみ	sunanezumi	ネズミ目ネズミ科スナネズミ属に属するねずみの一種。…
+j	すなぼこり	sunabokori	風などにより細かい砂が舞い上がって、埃のように見え…
+j	すばしこい	subashikoi	nimble, agile (having the…
+j	すばらしい	subarashii	誰もが感心するほどにすぐれている。
+j	すべからく	subekaraku	by all means must, certai…
+j	すべりどめ	suberidome	滑るのを防止するための装置や器具、材料。
+j	すべりひゆ	suberihiyu	ナデシコ目スベリヒユ科スベリヒユ属に属する一年草、…
+j	すましがお	sumashigao	staid, composed face (fac…
+j	すまんかった	sumankatta	
+j	すみぶくろ	sumibukuro	故人の遺骸に首にかける頭陀袋。
+j	すみやかに	sumiyakani	
+j	すみわたる	sumiwataru	一面に澄む。
+j	すらすらと	surasurato	
+j	すりきれる	surikireru	wear, wear out, become wo…
+j	すりぬける	surinukeru	to slip through
+j	すりへらす	suriherasu	擦って減らしたり磨滅させたりする。
+j	すれちがい	surechigai	触れる程度に通り過ぎること。すれちがえ。すりちがい…
+j	すれちがう	surechigau	触れる程度に通り過ぎる。
+j	すわりこみ	suwarikomi	立った状態から座る動作を指す。動作過程が着目され、…
+j	すわりこむ	suwarikomu	立った状態から座った状態への動作をおこなう。着座す…
+j	スイスチャード	suisuchado	
+j	スイスチーズ	suisuchizu	スイスで多く生産される固く調味料として用いられるチ…
+j	スイス・フラン	suisufuran	
+j	スイス料理	suisuryori	スイスの伝統的な料理。
+j	スイス連邦	suisurenpo	Swiss Confederation (offi…
+j	スイッチオフ	suitchiofu	switching off
+j	スイングアウト	suinguauto	空振りの三振。
+j	スイングジャズ	suingujazu	swing jazz
+j	スイング・ジャズ	suingujazu	白人が主体となって作られたビッグバンドによるジャズ…
+j	スウェーデン人	suwedenjin	a Swedish person, Swede
+j	スカイダイバー	sukaidaiba	スカイダイビングをする人。
+j	スカウティング	sukautingu	
+j	スカトロジー	sukatoroji	糞便学。
+j	スカラー積	sukaraseki	標準内積に同じ。
+j	スカンジウム	sukanjiumu	scandium, Sc
+j	スキムボーダー	sukimuboda	スキムボードの選手。
+j	スキムボード	sukimubodo	砂浜から海に向かって波乗りするスポーツ。
+j	スキャンダル	sukyandaru	a scandal
+j	スキルアップ	sukiruappu	improvement in skill
+j	スキンヘッド	sukinheddo	person with a shaved head
+j	スキーリフト	sukirifuto	a ski lift
+j	スクラッチ	sukuratchi	ひっかくこと。けずること。
+j	スクラロース	sukurarosu	
+j	スクラントン	sukuranton	
+j	スクリプト	sukuriputo	script (text of the dialo…
+j	スクリーンドア	sukurindoa	
+j	スクロールバー	sukuroruba	scroll bar (graphical wid…
+j	スクールバス	sukurubasu	a school bus
+j	スケトウダラ	suketodara	すけとうだらの学術的表記。
+j	スケルタル	sukerutaru	skeletal
+j	スケートボーダー	suketoboda	スケートボードの選手。
+j	スケートボード	suketobodo	skateboard (platform on w…
+j	スケープゴート	sukepugoto	人々の罪を負い野に放たれたやぎ。
+j	スコずわり	sukozuwari	upright sitting pose char…
+j	スコティッシュ	sukotisshu	スコットランドの。
+j	スコラ学	sukoragaku	
+j	スズキ目	suzukimoku	ペルカ目の旧称。
+j	スタイロフォン	sutairofon	
+j	スタッキング	sutakkingu	積み重ね、山積み。
+j	スタビリティー	sutabiriti	
+j	スタンディング	sutandingu	抗議のために人が集まる場所に立つこと。
+j	スタントマン	sutantoman	a stuntman
+j	スタンプ台	sutanpudai	ink-pad
+j	スタージョンムーン	sutajonmun	ネイティブアメリカンの暦で8月の満月のこと。
+j	スターダスト	sutadasuto	stardust
+j	スタートアップ	sutatoappu	startup (company)
+j	スタートライン	sutatorain	starting line; starting p…
+j	スタート・ライン	sutatorain	
+j	スタープレーヤー	sutapureya	star player
+j	スチールウール	suchiruuru	繊維状の鋼鉄をある程度丸めたもの。研磨、洗浄などに…
+j	スチール缶	suchirukan	鉄を主な成分としてつくられた缶。
+j	スットゥングル	suttonguru	土星の第23衛星の固有名。
+j	ステアリング	sutearingu	
+j	スティックパン	sutikkupan	
+j	ステラジアン	suterajian	steradian
+j	ステルス機	suterusuki	
+j	ステンシル	sutenshiru	
+j	ステージ袖	sutejisode	
+j	ステータスバー	sutetasuba	
+j	ストアドフェア	sutoadofea	料金が予め蓄積されていること。主に交通機関の乗車券…
+j	ストッキング	sutokkingu	stocking (garment)
+j	ストックトン	sutokkuton	Stockton (a city in Calif…
+j	ストラテジー	sutorateji	戦略。戦術。兵法。
+j	ストレッチ	sutoretchi	stretching (exercise)
+j	ストレッチャー	sutoretcha	a stretcher (simple litte…
+j	ストレートティー	sutoretoti	
+j	ストロベリー	sutoroberi	a strawberry
+j	ストーブリーグ	sutoburigu	プロ野球などのオフシーズン。
+j	ストーリーテラー	sutoritera	
+j	ストールする	sutorusuru	
+j	ストーンヘンジ	sutonhenji	Stonehenge
+j	スト破り	sutoyaburi	
+j	スナネズミ	sunanezumi	
+j	スノーグローブ	sunogurobu	snow globe
+j	スノーモビル	sunomobiru	
+j	スノーモービル	sunomobiru	a snowmobile
+j	スバールバル	subarubaru	
+j	スパイ機関	supaikikan	
+j	スパニッシュ	supanisshu	スペイン人。
+j	スパムメール	supamumeru	spam
+j	スパリゾート	suparizoto	温泉を中心としたリゾート。
+j	スパンキング	supankingu	spanking (the slapping of…
+j	スピアスロアー	supiasuroa	
+j	スピリッツ	supirittsu	飲用の蒸留アルコール、スピリット。
+j	スピードメーター	supidometa	速度計。
+j	スピード違反	supidoihan	
+j	スプリッツァ	supurittsa	
+j	スプリッツァー	supurittsa	spritzer (cocktail)
+j	スプートニク	suputoniku	sputnik
+j	スプーン一杯	supunippai	
+j	スペアタイヤ	supeataiya	運転時に携行する予備のタイヤ。標準のタイヤより内圧…
+j	スペアパーツ	supeapatsu	
+j	スペアミント	supeaminto	spearmint
+j	スペインかぜ	supeinkaze	
+j	スペインダービー	supeindabi	
+j	スペイン国	supeinkoku	the Spanish State
+j	スペイン風邪	supeinkaze	the Spanish flu
+j	スペクトル	supekutoru	a spectrum
+j	スペルアウト	superuauto	欧文等、特に連語のアルファベットなどの綴りを略さな…
+j	スペルミス	superumisu	spelling mistake; misspel…
+j	スペースパワー	supesupawa	国家が支配下に置いている宇宙を利用する潜在的、顕在…
+j	スペースレース	supesuresu	
+j	スポーツウェア	supotsuwea	スポーツをする際に着用する衣服。運動着。
+j	スポーツマン	supotsuman	運動選手。
+j	スポーツ史	supotsushi	スポーツに関する歴史。
+j	スポーツ紙	supotsushi	スポーツに関するニュースを中心に伝える新聞。スポー…
+j	スポーツ誌	supotsushi	スポーツに関するニュースを中心に伝える雑誌。スポー…
+j	スポールブール	suporuburu	
+j	スマトラゾウ	sumatorazo	スマトラ象の学術的表記。
+j	スマトラ島	sumatorato	大スンダ列島西部に位置する島。
+j	スマトラ象	sumatorazo	アジア象の亜種。学名は Elephas maxim…
+j	スマートインター	sumatointa	「スマートインターチェンジ」の略。
+j	スマートメーター	sumatometa	
+j	スモールソード	sumorusodo	smallsword
+j	スライディング	suraidingu	
+j	スライドショー	suraidosho	slideshow
+j	スラブ学	surabugaku	
+j	スラブ語派	surabugoha	「スラヴ語派」の表記揺れ。
+j	スラヴ学	suravugaku	
+j	スラヴ祖語	suravusogo	スラヴ語派各言語の始原とされ再建された祖語。
+j	スラヴ語派	suravugoha	the Slavic languages
+j	スリナムの	surinamuno	
+j	スリープモード	suripumodo	
+j	スレ違い	surechigai	posting in the wrong thre…
+j	スローモーション	suromoshon	slow motion
+j	スローロリス	surororisu	a slow loris
+j	スワスティカ	suwasutika	
+j	スワッピング	suwappingu	複数の夫婦または男女のカップルが互いの相手を交換し…
+j	スワヒリ語	suwahirigo	Swahili (language)
+j	スワート川	suwatokawa	
+j	スーツアクター	sutsuakuta	stuntman
+j	スーパーインポーズ	supainpozu	superimposing text in a t…
+j	スーパークラス	supakurasu	
+j	スーパージュピター	supajupita	太陽系外で木星より大きな木星型惑星。
+j	スーパータイフーン	supataifun	北西太平洋における、最大風速が150マイル時（13…
+j	スーパーチャット	supachatto	Super Chat (YouTube funct…
+j	スーパーヒロイン	supahiroin	
+j	スーパーモタード	supamotado	supermoto, supermotard
+j	スーパーモデル	supamoderu	a supermodel (famous fash…
+j	スーパー特急	supatokkyu	在来線規格の車両を新幹線に乗り入れられるようにした…
+j	介党鱈	suketodara	Alaska pollock
+j	助宗鱈	sukesodara	Alaska pollock
+j	助惣鱈	sukesodara	
+j	取り壊す	surikowasu	
+j	吹奏楽器	suisogakki	管楽器。
+j	啜り泣く	susurinaku	to sob
+j	垂直の	suichokuno	
+j	壱百零八	suparinpei	suparinpei, the most adva…
+j	好きなだけ	sukinadake	freely; as much as one wa…
+j	好きになる	sukininaru	to fall in love; to becom…
+j	宰之左	suzunosuke	a male given name
+j	座り込み	suwarikomi	sit-in (protest)
+j	座り込む	suwarikomu	to sit down heavily
+j	推定する	suiteisuru	
+j	推定上の	suiteijono	
+j	推理作家	suirisakka	推理小説を書く小説家。
+j	推薦する	suisensuru	
+j	推論する	suironsuru	
+j	掬い上げる	sukuiageru	to scoop up, to dip up (f…
+j	擦り切れる	surikireru	
+j	擦り減らす	suriherasu	
+j	擦れ違う	surechigau	to pass by, to move in op…
+j	救い上げる	sukuiageru	to pick up and rescue
+j	救い主	sukuinushi	
+j	数値微分	suchibibun	ある関数の導関数を数値的に求める手法。
+j	数直線	suchokusen	number line
+j	晋	susumushin	the Chinese state of Jin …
+j	末つ方	suetsukata	
+j	枢軸国	sujikukoku	an Axis power
+j	水上競技	suijokyogi	aquatics (sport involving…
+j	水和物	suiwabutsu	
+j	水密の	suimitsuno	
+j	水文学	suimongaku	hydrology
+j	水族館	suizokukan	aquarium
+j	水晶玉	suishodama	
+j	水死する	suishisuru	
+j	水産学	suisangaku	水産について研究する学問。
+j	水蜜桃	suimitsuto	中国原産の桃の栽培品種。果肉が柔らかく水分が多い。…
+j	水車小屋	suishagoya	a watermill
+j	水防団員	suibodanin	水防団に所属する人。
+j	睡眠薬	suiminyaku	sleeping pill
+j	砂嵐	sunaarashi	sandstorm
+j	砂煙	sunakemuri	cloud of sand
+j	砂鼠	sunanezumi	a Mongolian gerbil (Merio…
+j	筋緊張	sujikincho	muscle tone
+j	素晴しい	subarashii	
+j	素晴らしい	subarashii	terrific, wonderful, sple…
+j	翠髪の	suihatsuno	
+j	菫草	sumiregusa	synonym of 菫 (sumire, “Vi…
+j	透かしっ屁	sukashippe	
+j	錫ペスト	suzupesuto	
+j	雀榧	suzumegaya	
+j	須勢理毘売	suseribime	daughter of 素戔嗚 (Susa no …
+j	鯳	suketodara	
+k	수고하세요	sugohaseyo	
+k	수교조약	sugyojoyak	
+k	수구 선수	suguseonsu	
+k	수구초심	suguchosim	"여우가 죽음을 맞을 때 자신이 살던 굴을 향…
+k	수군대다	sugundaeda	'수군거리다'.
+k	수군수군	sugunsugun	
+k	수굴수굴	sugulsugul	
+k	수굿수굿	sugutsugut	
+k	수권법	sugwonbeop	
+k	수긋하다	sugeuthada	'수굿하다'의 비표준어.
+k	수년래	sunyeollae	
+k	수다쟁이	sudajaengi	a prattler, talkative per…
+k	수당금	sudanggeum	
+k	수도꼭지	sudokkokji	tap, faucet, spigot
+k	수도시설	sudosiseol	
+k	수동적	sudongjeok	
+k	수랭식	suraengsik	
+k	수레국화	suregukhwa	
+k	수련회	suryeonhoe	A trip or event where sev…
+k	수렴대	suryeomdae	수렴이 일어나는 지역을 말한다.
+k	수렵물	suryeommul	
+k	수령인	suryeongin	
+k	수록되다	surokdoeda	무엇을 모아서 기록되다. 또는 모아서 책이나 …
+k	수뢰정	suroejeong	
+k	수료생	suryosaeng	
+k	수료증	suryojeung	
+k	수륙전	suryukjeon	
+k	수면계	sumyeongye	
+k	수묵산수	sumuksansu	
+k	수백만	subaengman	millions
+k	수북수북	subuksubuk	
+k	수분류사	subullyusa	classifier, measure word
+k	수블라키	subeullaki	
+k	수비병	subibyeong	
+k	수사기관	susagigwan	
+k	수산비료	susanbiryo	
+k	수상관	susanggwan	
+k	수상선	susangseon	
+k	수상장	susangjang	
+k	수상하다	susanghada	to be strange, to be susp…
+k	수색하다	susaekhada	구석구석 뒤져서 무엇을 찾다.
+k	수생마리	susangmari	
+k	수선공	suseongong	repairer
+k	수선법	suseonbeop	
+k	수선장	suseonjang	
+k	수선하다	suseonhada	정신이 어지럽거나 말 등이 부산스럽다.
+k	수성군	suseonggun	
+k	수소폭탄	susopoktan	hydrogen bomb
+k	수소화물	susohwamul	
+k	수송선	susongseon	ferry, ferryboat
+k	수송하다	susonghada	사람이나 물건을 기차나 자동차, 배, 항공기 …
+k	수수께끼	susukkekki	riddle (puzzle), conundrum
+k	수습공	suseupgong	
+k	수습기자	suseupgija	
+k	수습하다	suseuphada	collect
+k	수압기관	suapgigwan	
+k	수압시험	suapsiheom	
+k	수양녀	suyangnyeo	
+k	수양부모	suyangbumo	
+k	수어청	sueocheong	
+k	수얼대다	sueoldaeda	
+k	수얼수얼	sueolsueol	
+k	수에즈 운하	suejeuunha	
+k	수연통	suyeontong	hookah, shisha
+k	수염수리	suyeomsuri	The lammergeier, Gypaetus…
+k	수영복	suyeongbok	swimsuit
+k	수요가 있다	suyogaitda	
+k	수용하다	suyonghada	관점을 이해하고 받아들이다.
+k	수월수월	suwolsuwol	
+k	수은등	sueundeung	
+k	수의계약	suuigyeyak	
+k	수익체감	suikchegam	
+k	수입관세	suipgwanse	
+k	수정과	sujeonggwa	
+k	수정란	sujeongnan	zygote; fertilised egg
+k	수정액	sujeongaek	
+k	수정체	sujeongche	eye lens
+k	수직거리	sujikgeori	
+k	수직분포	sujikbunpo	
+k	수질오염	sujiroyeom	
+k	수집광	sujipgwang	수집에 열정적인 사람.
+k	수집벽	sujipbyeok	
+k	수척한	sucheokhan	
+k	수천만	sucheonman	
+k	수출상	suchulsang	
+k	수출하다	suchulhada	to export
+k	수출환	suchulhwan	
+k	수취하다	suchwihada	to receive; to be paid
+k	수치모델	suchimodel	자연현상을 한정된 수치 식에 의해 모델(mod…
+k	수크로스	sukeuroseu	
+k	수타 자장	sutajajang	‘수타 자장면’을 달리 이르는 말.
+k	수평의	supyeongui	
+k	수표책	supyochaek	chequebook/checkbook
+k	수풍금	supunggeum	accordion
+k	수행원	suhaengwon	
+k	수형도	suhyeongdo	
+k	수형자	suhyeongja	
+k	수확하다	suhwakhada	
+k	수후송로	suhusongno	
+k	숙덕이다	sukdeogida	남이 알아듣지 못하도록 낮은 목소리로 은밀하게…
+k	숙명	sungmyeong	fate; destiny
+k	숙박하다	sukbakhada	to stay; to lodge
+k	숙주나물	sukjunamul	mung bean sprouts
+k	순간적	sunganjeok	아주 잠깐 동안의.
+k	순례하다	sullyehada	종교상의 성지나 의미있는 곳을 찾아다니다. 여…
+k	순박하다	sunbakhada	to be pure and naive, wit…
+k	순방길	sunbanggil	나라나 도시 따위를 차례로 돌아가며 방문하는 …
+k	순수미술	sunsumisul	
+k	순수예술	sunsuyesul	
+k	순압대기	sunapdaegi	등압면이 동시에 등밀도면이기도 한 가상의 대기.
+k	순양함	sunyangham	a cruiser (class of warsh…
+k	순조롭다	sunjoropda	
+k	순진하다	sunjinhada	innocent, naïve
+k	순찰대	sunchaldae	
+k	순환계	sunhwangye	circulatory system
+k	순회하다	sunhoehada	
+k	술좌석	suljwaseok	
+k	숨거두다	sumgeoduda	to breathe one's last, di…
+k	숨겨진	sumgyeojin	
+k	숨구멍	sumgumeong	windpipe, trachea
+k	숨돌리다	sumdollida	to take or gather breath,…
+k	숨막히다	summakhida	to choke, suffocate
+k	숨은열	sumeunyeol	온도가 올라가거나 내려가는 일 없이, 단지 물…
+k	숨주머니	sumjumeoni	'허파'의 북한말.
+k	숭경	sunggyeong	reverence, veneration
+k	숭례문	sungnyemun	조선 시대에 건립한 한양 도성의 남쪽 정문. …
+k	숲들쥐	supdeuljwi	northern red-backed vole,…
+k	숲비둘기	supbidulgi	wood pigeon (Columba palu…
+e	subjugation	subjugation	1 meaning
+e	sublimation	sublimation	1 meaning
+e	submersible	submersible	1 meaning
+e	subordinate	subordinate	6 meanings
+e	subrogation	subrogation	1 meaning
+e	substantial	substantial	7 meanings
+e	subtraction	subtraction	2 meanings
+e	such-and-such	suchandsuch	1 meaning
+e	suck my balls	suckmyballs	1 meaning
+e	suckling pig	sucklingpig	1 meaning
+e	sudden death	suddendeath	2 meanings
+e	sudetenland	sudetenland	1 meaning
+e	sugar glider	sugarglider	1 meaning
+e	suicide note	suicidenote	1 meaning
+e	sunny side up	sunnysideup	1 meaning
+e	superfluous	superfluous	1 meaning
+e	superiority	superiority	1 meaning
+e	superlative	superlative	1 meaning
+e	supermarket	supermarket	1 meaning
+e	superscript	superscript	1 meaning
+e	superstring	superstring	1 meaning
+e	supervision	supervision	1 meaning
+e	supply chain	supplychain	1 meaning
+e	supposition	supposition	1 meaning
+e	suppository	suppository	1 meaning
+e	surströmming	surstrmming	1 meaning
+e	sustainable	sustainable	2 meanings
+e	susuki grass	susukigrass	1 meaning
+e	sūryaprabha	suryaprabha	1 meaning
+j	すいとりがみ	suitorigami	インクで書いた物の上から押し当て余分なインクや水分…
+j	すかしゆり	sukashiyuri	ユリ目ユリ科ユリ属に属する多年草の一種。学名:Li…
+j	すがりつく	sugaritsuku	体を支えるなどのためにしがみつく。
+j	すきうつし	sukiutsushi	原本を透き通った紙を通して写すこと。敷き写し。透写…
+j	すけこまし	sukekomashi	女誑し。
+j	すしどころ	sushidokoro	寿司屋。
+j	すじがねいり	sujiganeiri	すじがねが入っていること。
+j	すずめばち	suzumebachi	膜翅目（ハチ目）スズメバチ科に属する昆虫のうち、ス…
+j	すっとぼける	suttobokeru	知っていても全く知らない素振りをする。
+j	すなやつめ	sunayatsume	ヤツメウナギ目ヤツメウナギ科カワヤツメ属のうち、キ…
+j	すばしっこい	subashikkoi	
+j	すべりだし	suberidashi	beginning stage of an end…
+j	すましじる	sumashijiru	出し汁に醤油や塩で味付けした透明な汁。すまし。
+j	すまなかった	sumanakatta	
+j	すりあわせる	suriawaseru	いくつかの物を擦って合わせる。
+j	すりつぶす	suritsubusu	すって細かく潰したり砕く。
+j	するつもり	surutsumori	
+j	スイムパンツ	suimupantsu	水泳をする際に男子が穿くトランクスまたはブリーフ状…
+j	スイートポテト	suitopoteto	さつまいも。
+j	スウェーデンリレー	suwedenrire	第一走者から最終走者まで順に、100メートル、20…
+j	スウェーデン蕪	suwedenkabu	the rutabaga plant, Brass…
+j	スウェーデン語の	suwedengono	
+j	スエズ地峡	suezuchikyo	アフリカ大陸とユーラシア大陸を接続する地峡。エジプ…
+j	スカポライト	sukaporaito	ナトリウム・カルシウム・アルミニウムなどを含む珪酸…
+j	スカモルツァ	sukamorutsa	scamorza (an unfermented …
+j	スキッドマーク	sukiddomaku	a skid mark
+j	スキニージーンズ	sukinijinzu	
+j	スキンシップ	sukinshippu	skinship (bonding through…
+j	スクイズする	sukuizusuru	
+j	スクイズプレー	sukuizupure	三塁にランナーがいる時、打者とランナーが連携してバ…
+j	スクランブラー	sukuranbura	有料テレビ放送において、スクランブルを行うための装…
+j	スクランブル	sukuranburu	scramble (emergency defen…
+j	スクリーニング	sukuriningu	医学検査、選抜、選別、選別検査、一次検査。
+j	スクリーンセーバー	sukurinseba	screensaver
+j	スクリーンプレー	sukurinpure	
+j	スクリーンリーダー	sukurinrida	目の不自由な人のためにウェブサイトなどのハイパーテ…
+j	スクールバッグ	sukurubaggu	synonym of 通学鞄 (tsūgaku k…
+j	スクールロイヤー	sukururoiya	学校に雇用されて学校に関する法的な案件を担当する弁…
+j	スケートをする	suketoosuru	
+j	スケートリンク	suketorinku	アイススケートをするための場所。スケート場。アイス…
+j	スケート靴	suketogutsu	
+j	スジオナメラ	sujionamera	有鱗目ナミヘビ科ナメラ属に属する蛇の一種。学名は …
+j	ススイロガラ	susuirogara	
+j	スズメバチ	suzumebachi	
+j	スタイリスト	sutairisuto	stylist
+j	スタイリッシュ	sutairisshu	stylish, in fashion, in v…
+j	スタッフロール	sutaffuroru	credits roll (at the end …
+j	スタビライザー	sutabiraiza	安定器。
+j	スタントウーマン	sutantouman	映画の撮影でスターの代わりに危険なシーンを演じる女…
+j	スタンドアップ	sutandoappu	
+j	スタンドアローン	sutandoaron	コンピュータを他のコンピュータに接続せずに単独で機…
+j	スタンプラリー	sutanpurari	a game or race in which t…
+j	スタートボタン	sutatobotan	Start button
+j	スタートメニュー	sutatomenyu	
+j	スタートレック	sutatorekku	Star Trek, a popular sci-…
+j	スターバックス	sutabakkusu	Starbucks
+j	スターフルーツ	sutafurutsu	カタバミ目カタバミ科ゴレンシ属に属する常緑樹。学名…
+j	スチュワーデス	suchuwadesu	stewardess (female flight…
+j	ステアリンさん	sutearinsan	ステアリン酸: (organic chemistr…
+j	ステアリン酸	sutearinsan	stearic acid
+j	スティグマータ	sutigumaata	
+j	ステイオンタブ	suteiontabu	stay-on-tab (can tab)
+j	ステップアップ	suteppuappu	向上すること。進歩すること。
+j	ステップ気候	suteppukiko	乾燥帯のうち年降水量の平年値が乾燥限界の半分以上乾…
+j	ステンレス鋼	sutenresuko	鉄にクロムを含ませた、耐食性の高い合金鋼。不銹鋼。…
+j	ステーキハウス	sutekihausu	
+j	ステーショナリー	suteshonari	synonym of 文房具 (bunbōgu, …
+j	ステートメント	sutetomento	声明、声明書、共同発表。
+j	ステールメイト	suterumeito	「ステイルメイト」の異表記。
+j	ストラクチャー	sutorakucha	組織、構造、構成。
+j	ストリキニン	sutorikinin	
+j	ストリングス	sutoringusu	strings (music genre)
+j	ストリーキング	sutorikingu	streaking (running naked …
+j	ストリートアート	sutoritoato	
+j	ストリーミング	sutorimingu	streaming
+j	ストーナーロック	sutonarokku	
+j	スナバシリ	sunabashiri	
+j	スナヤツメ	sunayatsume	「すなやつめ」の学術的表記。
+j	スニーカーネット	sunikanetto	
+j	スネアドラム	suneadoramu	snare drum
+j	スノーケリング	sunokeringu	シュノーケリングの英語読み。
+j	スノーボールアース	sunoboruasu	全球凍結のこと。
+j	スパークリング	supakuringu	火花が出るさま。
+j	スピナーシャーク	supinashaku	spinner shark, Carcharhin…
+j	スピードバンプ	supidobanpu	a speed bump
+j	スブハーナッラー	subuhanarra	subhanallah
+j	スプリンクラー	supurinkura	a sprinkler
+j	スプリンクル	supurinkuru	
+j	スペイン手話	supeinshuwa	
+j	スペイン料理	supeinryori	スペインの伝統的な料理。
+j	スペイン王国	supeinokoku	Kingdom of Spain (officia…
+j	スペイン語圏	supeingoken	スペインや南米など、スペイン語が日常で使用される地…
+j	スペキュラース	supekyurasu	
+j	スペキュロス	supekyurosu	
+j	スペキュロース	supekyurosu	
+j	スペツナズ	supetsunazu	
+j	スペリオル湖	superioruko	
+j	スペリング・ビー	superingubi	spelling contest, spellin…
+j	スポンジケーキ	suponjikeki	鶏卵、小麦粉、砂糖などを原料としてスポンジ状に焼き…
+j	スポンジ生地	suponjikiji	
+j	スポークスマン	supokusuman	a spokesman
+j	スポーツの日	supotsunohi	スポーツを通じて健康的な社会を目指すための国民の祝…
+j	スポーツウーマン	supotsuuman	
+j	スポーツゲーム	supotsugemu	スポーツを題材とするコンピュータゲームの総称。
+j	スポーツブラ	supotsubura	sports bra
+j	スポーンさせる	suponsaseru	
+j	スポーン地点	suponchiten	
+j	スマトラサイ	sumatorasai	ウマ目サイ科スマトラサイ属に属する犀の一種。学名:…
+j	スマトラ犀	sumatorasai	a Sumatran rhinoceros (Di…
+j	スマートシティ	sumatoshiti	
+j	スミッシング	sumisshingu	
+j	スモレンスク	sumorensuku	
+j	スモークサーモン	sumokusamon	
+j	スラウェシとう	suraweshito	スラウェシ島: Sulawesi
+j	スラウェシ島	suraweshito	Sulawesi
+j	スリランカ語	surirankago	シンハラ語に同じ。
+j	スリルライド	suriruraido	a thrill ride
+j	スルメ曲	surumekyoku	最初に聴いた時はあまり印象に残らないが、何度も聴く…
+j	スレイプニル	sureipuniru	北欧神話に出てくる神馬。雲の象徴。
+j	スロバキア語	surobakiago	インド・ヨーロッパ語族スラヴ語派西スラヴ語に属する…
+j	スロベニアの	surobeniano	
+j	スロベニア語	surobeniago	the Slovenian language
+j	スロヴァキアの	surovakiano	
+j	スロヴァキア語	surovakiago	Slovak; Slovakian (langua…
+j	スロヴェニアの	suroveniano	
+j	スロヴェニア語	suroveniago	「スロベニア語」の異表記。
+j	スワジランド	suwajirando	Swaziland (former name of…
+j	スワンナプーム	suwannapumu	紀元前3世紀頃、東南アジアに存在した国。現在はタイ…
+j	スーパーサイクル	supasaikuru	超巨大地震が起きるサイクル。
+j	スーパースポーツ	supasupotsu	峠やサーキットなどを最高速で走るためのオートバイ。
+j	スーパーチューズデー	supachuzude	アメリカ合衆国の予備選挙が多く行われる、3月の第2…
+j	スーパーホワイト	supahowaito	クレジットカードの使用歴がなく、与信を判断するため…
+j	スーパーマーケット	supamaketto	supermarket (a store)
+j	スープレックス	supurekkusu	a suplex (wrestling move)
+j	セブンイレブン	subunirebun	
+j	出納係	suitogakari	cashier; teller
+j	吸い取り紙	suitorigami	blotting paper
+j	吸取紙	suitorigami	
+j	姿を消す	sugataokesu	to vanish
+j	少し開いて	sukoshiaite	
+j	座りなさい	suwarinasai	
+j	捨てアカウント	suteakaunto	すぐに放棄するつもりで作成するアカウント。
+j	推定無罪	suiteimuzai	被告人の行為に関して、有罪の判決が確定するまでは無…
+j	推測する	suisokusuru	
+j	推測航法	suisokukoho	
+j	数値化する	suchikasuru	
+j	数値計算	suchikeisan	解析的には解けない問題をコンピュータを用いて数値的…
+j	既にして	sudenishite	
+j	水上スキーヤー	suijosukiya	水上スキーの選手。
+j	水上市場	suijoichiba	
+j	水上艦艇	suijokantei	水に浮かぶ艦艇。潜水艦や潜水艇以外の艦艇。
+j	水平思考	suiheishiko	lateral thinking
+j	水彩絵の具	suisaienogu	水彩画に使用する水性の絵の具。
+j	水成説	suiseisetsu	
+j	水晶時計	suishodokei	正確で安定した周波数を出す水晶発振器を利用した時計…
+j	水泡に帰す	suihonikisu	come to nothing
+j	水泳パンツ	suieipantsu	水泳をする際に男子が穿くトランクスまたはブリーフ状…
+j	水泳選手	suieisenshu	水泳で実際に競技をする選手。
+j	水産学校	suisangakko	水産に関する専門教育を行う学校。
+j	水産物	suisanbutsu	海・川・湖などで採れる魚介類・海藻類など。
+j	水耕栽培	suikosaibai	
+j	滑りやすい	suberiyasui	
+j	澄ましバター	sumashibata	
+j	睡眠負債	suiminfusai	日々の睡眠不足が積み重なり、それを解消できずに病気…
+j	砂の城	sunanoshiro	
+j	砂八目	sunayatsume	すなやつめの漢字表記
+j	筋金入り	sujiganeiri	
+j	素晴らしき	subarashiki	
+j	素晴らしさ	subarashisa	
+j	縋り付く	sugaritsuku	to cling to
+j	酔歩蹣跚	suihomansan	酒に酔っていて足元が覚束ないこと。千鳥足。酔眼朦朧。
+j	酔生夢死	suiseimushi	酒に酔っているかのように何もすることもなく無駄に一…
+j	錐体細胞	suitaisaibo	a cone cell
+j	雀蜂	suzumebachi	hornet, wasp, vespa
+k	수강생	sugangsaeng	
+k	수강증	sugangjeung	
+k	수공예품	sugongyepum	
+k	수긍하다	sugeunghada	옳다고 인정하다.
+k	수뇌회담	sunoehoedam	summit (gathering of lead…
+k	수다떨다	sudatteolda	to chatter
+k	수당나귀	sudangnagwi	
+k	수당량	sudangnyang	
+k	수도원장	sudowonjang	
+k	수동분사	sudongbunsa	
+k	수동성	sudongseong	
+k	수두룩하다	sudurukhada	매우 많고 흔하다.
+k	수런대다	sureondaeda	'수런거리다'.
+k	수련하다	suryeonhada	
+k	수렴선	suryeomseon	기류가 하나의 선을 향해 불어드는(수렴하는) …
+k	수렴장	suryeomjang	수렴이 일어나는 구역.
+k	수렵하다	suryeophada	
+k	수로 안내인	suroannaein	
+k	수륙진미	suryukjinmi	
+k	수리부엉이	suribueongi	An eagle owl, particularl…
+k	수병복	subyeongbok	
+k	수병아리	subyeongari	
+k	수병좌	subyeongjwa	Aquarius
+k	수산대학	susandaehak	
+k	수산청	susancheong	
+k	수산화물	susanhwamul	
+k	수상돌기	susangdolgi	
+k	수생균	susaenggyun	
+k	수선대다	suseondaeda	'수선거리다'.
+k	수선속도	suseonsokdo	
+k	수선스레	suseonseure	정신이 어지럽게 떠드는 듯하게.
+k	수성지주	suseongjiju	
+k	수송량	susongnyang	
+k	수송력	susongnyeok	
+k	수수미꾸리	susumikkuri	A loach of the species Ki…
+k	수습사원	suseupsawon	
+k	수습책	suseupchaek	
+k	수염고래	suyeomgorae	baleen whale
+k	수영장	suyeongjang	swimming pool, swimming b…
+k	수영하다	suyeonghada	to swim (move through wat…
+k	수요예측	suyoyecheuk	상품이나 서비스에 대한 수요를 미리 파악하는 …
+k	수용력	suyongnyeok	
+k	수용성	suyongseong	
+k	수은전지	sueunjeonji	
+k	수장룡	sujangnyong	a plesiosaur
+k	수전증	sujeonjeung	
+k	수정관	sujeonggwan	
+k	수정유리	sujeongyuri	
+k	수정주의	sujeongjuui	revisionism
+k	수정하다	sujeonghada	잘못된 것을 바로 고치다. 또는 이미 정해진 …
+k	수줍어하다	sujubeohada	무엇을 앞에 두고 얼굴을 붉히거나 점잔을 너무…
+k	수증기압	sujeunggiap	수증기 분자가 가하는 압력.
+k	수지연필	sujiyeonpil	영어 '샤프펜슬'를 한자어로 쓴 북한말.
+k	수직면	sujingmyeon	
+k	수질검사	sujilgeomsa	
+k	수채화가	suchaehwaga	수채화를 그리는 화가를 가리키는 말.
+k	수척하다	sucheokhada	몸이 몹시 야위고 마른 듯하다.
+k	수청목	sucheongmok	synonym of 물푸레나무 (mulpure…
+k	수출되다	suchuldoeda	
+k	수출업자	suchureopja	
+k	수탁판매	sutakpanmae	
+k	수탕나귀	sutangnagwi	male donkey
+k	수평각	supyeonggak	
+k	수평아리	supyeongari	male chick (baby chicken)
+k	수프가니야	supeuganiya	
+k	수행하다	suhaenghada	to fulfill, to perform, t…
+k	수험생	suheomsaeng	
+k	수혈하다	suhyeolhada	to transfuse blood
+k	수호성인	suhoseongin	
+k	수호천사	suhocheonsa	guardian angel
+k	숙련자	sungnyeonja	expert
+k	숙연하다	sugyeonhada	
+k	순간이동	sunganidong	
+k	순서쌍	sunseossang	
+k	순수주의자	sunsujuuija	
+k	순종적	sunjongjeok	
+k	순환선	sunhwanseon	beltway, ring road
+k	순환소수	sunhwansosu	
+k	숟가락질	sutgarakjil	숟가락을 손에 잡아 놀리는 일.
+k	술래잡기	sullaejapgi	tag, tig (game)
+k	술렁이다	sulleongida	어수선하게 소란이 일다.
+k	술자리 게임	suljarigeim	
+k	숨가쁘다	sumgappeuda	to be out of breath
+k	숨을 쉬다	sumeulswida	
+k	숫처녀	sutcheonyeo	virgin
+k	숭배하다	sungbaehada	to worship, to revere
+k	숲황새	suphwangsae	
+e	subcontinent	subcontinent	1 meaning
+e	subcutaneous	subcutaneous	1 meaning
+e	subdirectory	subdirectory	1 meaning
+e	subjectivity	subjectivity	1 meaning
+e	subligaculum	subligaculum	1 meaning
+e	subliminally	subliminally	1 meaning
+e	subscription	subscription	1 meaning
+e	subservience	subservience	1 meaning
+e	substitution	substitution	1 meaning
+e	subterranean	subterranean	1 meaning
+e	successively	successively	1 meaning
+e	succinic acid	succinicacid	1 meaning
+e	sufficiently	sufficiently	1 meaning
+e	suit of armour	suitofarmour	1 meaning
+e	sulfuric acid	sulfuricacid	1 meaning
+e	sulphur shelf	sulphurshelf	1 meaning
+e	summer savory	summersavory	1 meaning
+e	summer school	summerschool	1 meaning
+e	sunday driver	sundaydriver	1 meaning
+e	sunday school	sundayschool	1 meaning
+e	sunflower oil	sunfloweroil	1 meaning
+e	supercluster	supercluster	1 meaning
+e	supercooling	supercooling	1 meaning
+e	supergravity	supergravity	1 meaning
+e	superheating	superheating	1 meaning
+e	superheroine	superheroine	1 meaning
+e	supernatural	supernatural	1 meaning
+e	superpartner	superpartner	1 meaning
+e	superstition	superstition	1 meaning
+e	supervillain	supervillain	1 meaning
+e	supreme being	supremebeing	1 meaning
+e	supreme court	supremecourt	1 meaning
+e	surface-to-air	surfacetoair	1 meaning
+e	surgeon's knot	surgeonsknot	1 meaning
+e	surgical mask	surgicalmask	1 meaning
+e	surprisingly	surprisingly	1 meaning
+e	surroundings	surroundings	1 meaning
+e	surveillance	surveillance	1 meaning
+j	すいそばくだん	suisobakudan	水素爆弾: a hydrogen bomb
+j	すえおそろしい	sueosoroshii	将来を考えると恐ろしさが感じられるさま。
+j	すがすがしい	sugasugashii	すっきりしていて気持ちがいい。
+j	すくなからず	sukunakarazu	程度や数量などが軽かったり少なくないさま。
+j	すくなからぬ	sukunakaranu	少なくない数の。
+j	すくなくとも	sukunakutomo	少なくとも: at least
+j	すくやかもの	sukuyakamono	すくやかな人。剛健な人。頑丈な人。
+j	すじくわがた	sujikuwagata	甲虫目クワガタムシ科オオクワガタ属に属するくわがた…
+j	すじりもじり	sujirimojiri	squirmingly
+j	すすだらけの	susudarakeno	
+j	すてきな人	sutekinahito	
+j	すてきもの	sutekinamono	
+j	すべらみこと	suberamikoto	天皇の古称又は雅称。すめらみこと。
+j	すべりおちる	suberiochiru	滑って下に落ちる。
+j	すみにおけない	suminiokenai	"cannot leave in a corner…
+j	すめらみこと	sumeramikoto	天皇の古称又は雅称。
+j	すれっからし	surekkarashi	世間の中で揉まれ、悪賢くなったりひねくれたりするこ…
+j	スイッチバック	suitchibakku	列車が終点での折り返し以外で進行方向を反対にするこ…
+j	スイミングプール	suimingupuru	swimming pool
+j	スイングサービス	suingusabisu	銀行の自動振替サービスの一つで、あらかじめ指定した…
+j	スイング・ステート	suingusuteto	
+j	スイートスポット	suitosupotto	ラケットやクラブの、ボールを打つのに最適な位置。
+j	スウェットスーツ	suwettosutsu	sweatsuit
+j	スウェーデン料理	suwedenryori	スウェーデンの伝統的な料理。
+j	スウェーデン王国	suwedenokoku	Kingdom of Sweden (offici…
+j	スカイパーキング	sukaipakingu	立体駐車場。
+j	スカッシュボール	sukasshuboru	
+j	スカビンジング	sukabinjingu	機密情報を取得するゴミ漁り。
+j	スカラシップ	sukarashippu	「スカラーシップ」の表記ゆれ。
+j	スカラーシップ	sukarashippu	奨学金。
+j	スカンジナビア	sukanjinabia	スカンディナビアの別形。
+j	スカンディナビア	sukandinabia	北欧にあり、ノルウェー、スウェーデン、フィンランド…
+j	スカンディナヴィア	sukandinavia	Scandinavia (a geographic…
+j	スキムミルク	sukimumiruku	
+j	スキャルピング	sukyarupingu	株取引デイトレードのトレード手法。1日で株の取引を…
+j	スクリーンタイム	sukurintaimu	端末を使用している時間。
+j	スクールカースト	sukurukasuto	pecking order in school
+j	スクール水着	sukurumizugi	school swimwear
+j	スケーラビリティ	sukerabiriti	
+j	スケーラビリティー	sukerabiriti	scalability
+j	スケールモデル	sukerumoderu	scale model
+j	スコットランド	sukottorando	Scotland (a constituent c…
+j	スズの兵隊	suzunoheitai	
+j	スズカケノキ	suzukakenoki	
+j	スズミツスイ	suzumitsusui	
+j	スタイラスペン	sutairasupen	タッチパネル、タブレット型端末などで使用するペンの…
+j	スタイルシート	sutairushito	stylesheet
+j	スタブロポリ	sutaburopori	
+j	スタント・パーソン	sutantopason	映画の撮影でスターの代わりに危険なシーンを演じる人。
+j	スタヴロポリ	sutavuropori	
+j	スタートダッシュ	sutatodasshu	短距離走で号砲が鳴り走り始めた直後の加速。
+j	スタート地点	sutatochiten	
+j	スターリニスト	sutarinisuto	スターリニズムの支持者。
+j	スターリニズム	sutarinizumu	ソ連のスターリンを中心とする全体主義。
+j	スターリン主義	sutarinshugi	スターリン時代の恐怖政治や個人崇拝などの思想。
+j	スター・ウォーズの日	sutawozunohi	
+j	スチームパンク	suchimupanku	
+j	スチールホイール	suchiruhoiru	鋼鉄製の自動車のホイール。
+j	スッポンモドキ	supponmodoki	pig-nosed turtle (Caretto…
+j	ステイルメイト	suteirumeito	stalemate
+j	ステムグラファー	sutemugurafa	a stenographer
+j	ステムレタス	sutemuretasu	キク科の一年草または二年草。中国原産の野菜で、茎を…
+j	ステラー懸巣	suterakakesu	a Steller's jay
+j	ステラー海牛	suterakaigyu	a Steller's sea cow
+j	ステレオタイプ	sutereotaipu	印刷で使用する鉛の版。
+j	ステークホルダー	sutekuhoruda	利害関係者。
+j	ストライクゾーン	sutoraikuzon	strike zone
+j	ストラスブール	sutorasuburu	
+j	ストラディバリ	sutoradibari	
+j	ストリキニーネ	sutorikinine	strychnine
+j	ストリップショー	sutorippusho	音楽に合わせ踊り子が衣服を脱いでいき裸体になる見せ…
+j	ストリートフード	sutoritofudo	
+j	ストリートレース	sutoritoresu	
+j	ストレスフリー	sutoresufuri	stress-free
+j	ストレスフル	sutoresufuru	stressful
+j	ストレスボール	sutoresuboru	
+j	ストレリチア	sutorerichia	
+j	スナック菓子	sunakkugashi	穀類やじゃがいもなどを主な原料とした手軽に食べられ…
+j	スナップボタン	sunappubotan	
+j	スナドリネコ	sunadorineko	a fishing cat
+j	スパイクタイヤ	supaikutaiya	接地面に複数の鋲（スパイク）を打ち込み、凍結したり…
+j	スパイク靴	supaikugutsu	
+j	スパイダースピン	supaidasupin	曲げた中指と薬指の上でペンを回転させる技。
+j	スパム結び	supamumusubi	
+j	スパルタクス	suparutakusu	
+j	スパンデックス	supandekkusu	spandex
+j	スパークプラグ	supakupuragu	
+j	スピリティズム	supiritizumu	
+j	スピードを出す	supidowodasu	
+j	スピードスケーター	supidosuketa	スピードスケートの選手。
+j	スピードスケート	supidosuketo	アイススケートの一つでスケートリンクを周回し、ゴー…
+j	スプリットタン	supurittotan	split tongue, forked tong…
+j	スプリットラン	supurittoran	(雑誌などで) 分けて掲載すること。
+j	スペインスズメ	supainsuzume	
+j	スペイン・バスク	supeinbasuku	Southern Basque Country, …
+j	スペイン内戦	supeinnaisen	the Spanish Civil War
+j	スペクタクル	supekutakuru	
+j	スペルチェッカ	superuchekka	spell checker
+j	スペルチェッカー	superuchekka	スペルチェックを行うためのソフトウェア。
+j	スペルチェック	superuchekku	作成した文書に誤字や脱字がないかを確認すること。
+j	スポットライト	supottoraito	spotlight
+j	スポークスウーマン	supokusuuman	女性のスポークスパーソン、スポークスピープル。
+j	スポーツセンター	supotsusenta	多種のスポーツを行うための施設。
+j	スポーツバイク	supotsubaiku	スポーツ的体感を楽しむためのオートバイ。
+j	スポーツライター	supotsuraita	スポーツに関する記事を書くことを職とする人。
+j	スポーツ医学	supotsuigaku	スポーツが身体に及ぼす影響などについて医学的に研究…
+j	スマトラトラ	sumatoratora	a Sumatran tiger
+j	スマートウォッチ	sumatowotchi	時計だけではなく様々な機能を持ち、タッチパネルを備…
+j	スマートスピーカー	sumatosupika	人工知能を用いて、音声で与えられた指示通りのことを…
+j	スマートテレビ	sumatoterebi	インターネットへの接続が可能なテレビ。コネクテッド…
+j	スミスマシン	sumisumashin	
+j	スミミザクラ	sumimizakura	
+j	スモーガスボード	sumogasubodo	スウェーデンの料理でそれぞれの皿に肉、魚介類、サラ…
+j	スモールグロス	sumorugurosu	120個（10ダース）のまとまり。
+j	スリナム人	surinamuhito	
+j	スリランカ人	surirankajin	スリランカ国籍を有する人。スリランカ出身の人。
+j	スリングショット	suringshotto	
+j	スルホニルき	suruhoniruki	スルホニル基: (chemistry) sulfo…
+j	スルホニル基	suruhoniruki	sulfonyl (functional grou…
+j	スレッジハンマー	surejjihanma	sledgehammer
+j	スロバキア人	surobakiajin	スロバキア国籍を持つ人、スロバキア出身者。
+j	スロベニア人	surobeniajin	Slovene (a person)
+j	スロヴァキア人	surovakiajin	Slovak (person)
+j	スロヴェニア人	suroveniajin	「スロベニア人」に同じ。
+j	スーパーコンピュータ	supakonpyuta	ベクトル演算専用回路や行列多重並列回路など計算速度…
+j	スーパーコンピューター	supakonpyuta	supercomputer
+j	スーパーデフォルメ	supadeforume	
+j	スーパー受信機	supajushinki	superheterodyne receiver
+j	ズデーテン地方	sudetenchiho	
+j	住めば都	sumebamiyako	there's no place like hom…
+j	吹奏楽団	suisogakudan	吹奏楽を演奏するための楽団。ブラスバンド。ウインド…
+j	垂直統合	suichokutogo	
+j	垂直記号	suichokukigo	記号「⟂」のこと。
+j	好きにすれば	sukinisureba	
+j	少しずつ	sukoshizutsu	little by little
+j	少なからず	sukunakarazu	
+j	少なからぬ	sukunakaranu	quite a few; a considerab…
+j	少なくとも	sukunakutomo	at least
+j	推薦入試	suisennyushi	校長による推薦や自分自身を推薦する方式による入試。
+j	推進力	suishinryoku	物を前方へ押し進める力。
+j	数値積分	suchisekibun	ある関数の原始関数（あるいは定積分）を数値的に求め…
+j	数値解析	suchikaiseki	numerical analysis
+j	数寄屋造り	sukiyazukuri	a type of Japanese domest…
+j	数秘術師	suhijutsushi	A numerologist or arithma…
+j	末恐ろしい	sueosoroshii	having an unclear future …
+j	末摘花	suetsumuhana	synonym of 紅花 (benibana, …
+j	水上マーケット	suijomaketto	
+j	水中眼鏡	suichumegane	水中で目を開けて物を見るために着用するめがね。水眼…
+j	水平統合	suichokutogo	
+j	水晶の夜	suishonoyoru	
+j	水球選手	suikyusenshu	水球で実際に競技をする選手。
+j	水素化物	suisokabutsu	
+j	水素爆弾	suisobakudan	hydrogen bomb
+j	水素結合	suisoketsugo	
+j	水素自動車	suisojidosha	エネルギーに水素を用いる自動車。
+j	清々しい	sugasugashii	refreshing
+j	睡眠不足	suiminbusoku	sleep deficiency
+j	筋違いな	sujichigaina	
+j	蘇格蘭	sukottorando	スコットランドの日本語による漢字表記。
+j	裾の高さ	susonotakasa	
+j	鈴懸の木	suzukakenoki	
+j	鈴蜜吸	suzumitsusui	
+j	雀の槍	suzumenoyari	Luzula capitata, a specie…
+j	雀梟	suzumefukuro	a Eurasian pygmy owl (Gla…
+k	수가동법	sugadongbeop	
+k	수걱수걱	sugeoksugeok	
+k	수경법	sugyeongbeop	
+k	수교훈장	sugyohunjang	
+k	수군거리다	sugungeorida	남이 알아듣지 못하도록 낮은 목소리로 자꾸 가…
+k	수군덕이다	sugundeogida	남이 알아듣지 못하도록 낮은 목소리로 어수선하…
+k	수군숙덕	sugunsukdeok	남이 알아듣지 못하도록 낮은 목소리로 몹시 어…
+k	수긋수긋	sugeutsugeut	'수굿수굿'의 비표준어.
+k	수납전표	sunapjeonpyo	
+k	수다스러운	sudaseureoun	'수다스럽다'의 관형사형.
+k	수다스러움	sudaseureoum	'수다스럽다'의 명사형.
+k	수더분하다	sudeobunhada	성질이 까다롭지 아니하여 순하고 무던하다.
+k	수득수득	sudeuksudeuk	
+k	수들수들	sudeulsudeul	
+k	수럭수럭	sureoksureok	
+k	수런수런	sureonsureon	
+k	수렴기류	suryeomgiryu	지형과 기상조건에 따라서 기류가 한 곳으로 집…
+k	수렴바람	suryeombaram	
+k	수렵시대	suryeopsidae	
+k	수리남 사람	surinamsaram	
+k	수리수리하다	surisurihada	
+k	수리철학	suricheolhak	
+k	수면부족	sumyeonbujok	
+k	수미상응	sumisangeung	
+k	수병자리	subyeongjari	Aquarius
+k	수산양식	susanyangsik	
+k	수상시장	susangsijang	
+k	수상화서	susanghwaseo	
+k	수서동물	suseodongmul	
+k	수서식물	suseosingmul	
+k	수서양단	suseoyangdan	
+k	수석대표	suseokdaepyo	
+k	수선수선	suseonsuseon	
+k	수설수설	suseolsuseol	
+k	수성도료	suseongdoryo	
+k	수성지업	suseongjieop	
+k	수세미오이이끼	susemioiikki	
+k	수소결합	susogyeolhap	
+k	수소경제	susogyeongje	
+k	수수께끼의	susukkekkiui	
+k	수수꽃다리	susukkotdari	Korean early lilac (Syrin…
+k	수수방관	susubanggwan	
+k	수슬수슬	suseulsuseul	
+k	수얼거리다	sueolgeorida	
+k	수은중독	sueunjungdok	
+k	수정시계	sujeongsigye	
+k	수지가공지	sujigagongji	
+k	수직갱도	sujikgaengdo	
+k	수출관세	suchulgwanse	
+k	수출초과	suchulchogwa	
+k	수치적분	suchijeokbun	정적분의 값을 수치 계산으로 구하는 방법.
+k	수탁매매	sutangmaemae	
+k	수평봉	supyeongbong	
+k	수평선	supyeongseon	horizon on water
+k	수평이류	supyeongiryu	기단의 성질이 대기의 수평운동으로 변하는 과정.
+k	수프 그릇	supeugeureut	
+k	수행성	suhaengseong	
+k	수혈주거	suhyeoljugeo	
+k	수혈증	suhyeoljeung	hydraemia, hydremia
+k	숙덕대다	sukdeokdaeda	'숙덕거리다'.
+k	숙덜대다	sukdeoldaeda	'숙덜거리다'.
+k	숙설대다	sukseoldaeda	'숙설거리다'.
+k	숙주줄금	sukjujulgeum	'콩나물'의 북한말.
+k	순결하다	sungyeolhada	
+k	순경음	sungyeongeum	(언어) 입술을 거쳐 나오는 가벼운 소리.
+k	순다랜드	sundaraendeu	
+k	순살치킨	sunsalchikin	닭고기의 순살만으로 요리한 치킨.
+k	순전 바람	sunjeonbaram	어떤 관측 지점에서 바람 방향이 시간에 따라 …
+k	순중량	sunjungnyang	
+k	순지구복사	sunjiguboksa	지표가 받는 하향 장파복사에서 지표로부터 상향…
+k	숨바꼭질	sumbakkokjil	hide and seek
+k	숨을 죽이고	sumeuljugigo	
+k	숭배되다	sungbaedoeda	to be worshipped, to be r…
+k	숭상하다	sungsanghada	
+e	sub-brown dwarf	subbrowndwarf	1 meaning
+e	submachine gun	submachinegun	1 meaning
+e	subprefecture	subprefecture	1 meaning
+e	substantially	substantially	1 meaning
+e	suggestion box	suggestionbox	1 meaning
+e	suicide attack	suicideattack	1 meaning
+e	suicide bomber	suicidebomber	1 meaning
+e	sulfur dioxide	sulfurdioxide	1 meaning
+e	sulfurous acid	sulfurousacid	1 meaning
+e	sumatran tiger	sumatrantiger	1 meaning
+e	sun salutation	sunsalutation	1 meaning
+e	sunflower seed	sunflowerseed	1 meaning
+e	supercomputer	supercomputer	1 meaning
+e	superfluidity	superfluidity	1 meaning
+e	superordinate	superordinate	2 meanings
+e	superspreader	superspreader	1 meaning
+e	superstitious	superstitious	1 meaning
+e	supersymmetry	supersymmetry	1 meaning
+e	supplementary	supplementary	1 meaning
+e	supramolecule	supramolecule	1 meaning
+e	supranational	supranational	1 meaning
+e	supraspinatus	supraspinatus	1 meaning
+e	supreme leader	supremeleader	2 meanings
+e	supreme soviet	supremesoviet	1 meaning
+e	survival knife	survivalknife	1 meaning
+j	すがたかたち	sugatakatachi	figure; appearance; form
+j	すじしまどじょう	sujishimadojo	動物界脊索動物門条鰭綱コイ目ドジョウ科シマドジョウ…
+j	すっとこどっこい	suttokodokkoi	江戸の祭礼で山車などで演奏される賑やかな囃子（馬鹿…
+j	すでのつくり	sudenotsukuri	漢字の部首「⽆」の呼称の一つ。
+j	すなけしゴム	sunakeshigomu	sand eraser
+j	スイスアレマン語	suisuaremango	
+j	スイスアーミーナイフ	suisuaminaifu	
+j	スイスイタリア語	suisuitariago	スイスで話されているイタリア語の変種。
+j	スイスドイツ語	suisudoitsugo	スイスで話されているドイツ語の変種。
+j	スイッチを入れる	suitchioireru	
+j	スウェットシャツ	suwettoshatsu	sweatshirt
+j	スカイダイビング	sukaidaibingu	skydiving
+j	スカウトレポート	sukautorepoto	a scouting report
+j	スカルプネイル	sukarupuneiru	
+j	スカンジナヴィア	sukanjinavuia	スカンディナビアの別形。
+j	スキゾタイパル	sukizotaiparu	
+j	スキャンレイション	sukyanreishon	
+j	スクリプト体	sukuriputotai	欧文活字で手書きの文字に似せた活字。
+j	スクリーンショット	sukurinshotto	screenshot
+j	スクリーンテスト	sukurintesuto	a screen test
+j	スクロールホイール	sukuroruhoiru	パソコンのマウスでスクロールする際に回転させて使う…
+j	スケッチブック	suketchibukku	sketchbook
+j	スジシマドジョウ	sujishimadojo	すじしまどじょうのカナ表記。
+j	スズメフクロウ	suzumefukurou	
+j	スタントダブル	sutantodaburu	
+j	スターシステム	sutashisutemu	花形俳優の起用を前提として舞台を組み立てる手法。
+j	スターボードサイド	sutabodosaido	船舶や航空機の右舷。緑灯で示される。
+j	スターリングラード	sutaringurado	Stalingrad (former name o…
+j	スティレットヒール	sutirettohiru	
+j	ステゴサウルス	sutegosaurusu	Stegosaurus
+j	ステップファミリー	suteppufamiri	再婚や事実婚などにより血縁のない親子関係や兄弟関係…
+j	ステップ・ファミリー	suteppufamiri	ステップファミリーの異表記・別形。
+j	ステンドグラス	sutendogurasu	stained glass
+j	ステーションワゴン	suteshonwagon	駅馬車。
+j	ストックホルム	sutokkuhorumu	Stockholm (a municipality…
+j	ストップウォッチ	sutoppuwotchi	stopwatch
+j	ストップウオッチ	sutoppuuotchi	stopwatch
+j	ストップモーション	sutoppumoshon	テレビや映画などで動いている画面を一瞬静止させる技…
+j	ストリップする	sutorippusuru	
+j	ストリップティーズ	sutoripputizu	音楽に合わせ踊り子が衣服を脱いでいき裸体になる見せ…
+j	ストリートオルガン	sutoritorugan	通りで商人などが演奏する手回しオルガン。
+j	ストリートピアノ	sutoritopiano	street piano
+j	ストレッチング	sutoretchingu	stretching (exercise)
+j	ストロベリームーン	sutoroberimun	ネイティブアメリカンの暦で6月の満月のこと。
+j	ストロンチウム	sutoronchiumu	strontium, Sr
+j	スナップショット	sunappushotto	snapshot
+j	スピノサウルス	supinosaurusu	竜盤目獣脚亜目テタヌラ下目スピノサウルス科スピノサ…
+j	スフォルツァンド	suforutsuando	その音だけ強く。sf、sfz。
+j	スプリットメーク	supurittomeku	スプリットとなったピンを二投目ですべて倒して、スペ…
+j	スプリングボード	supuringubodo	
+j	スペイン語辞典	supeingojiten	スペイン語の単語や熟語、用法等を解説した辞書。
+j	スペシャリスト	supesharisuto	a specialist, an expert
+j	スペースシャトル	supesushatoru	再利用可能な宇宙船。
+j	スポンサーシップ	suponsashippu	sponsorship
+j	スポークスパーソン	supokusupason	代理で話すことを行う者。スポークスピープル。
+j	スポーツクラブ	supotsukurabu	sports club
+j	スポーツ賭博	supotsutobaku	
+j	スポーツ選手	supotsusenshu	運動選手。アスリート。
+j	スライドガラス	suraidogarasu	a glass slide, a microsco…
+j	スライドファスナー	suraidofasuna	袋やジャンパーなどの、開け閉めをする場所につける用…
+j	スラッシャ映画	suratshyaenga	
+j	スリランカ英語	surirankaeigo	スリランカで話されている英語の変種。
+j	スリーディープリンター	suridipurinta	
+j	スルホキシド	suruhokishido	sulfoxide
+j	スロットマシン	surottomashin	slot machine
+j	スロープスタイル	suropusutairu	
+j	不通水火	suikaotsuzezu	生活に不可欠である、水と火とを貸借しないこと。即ち…
+j	墨付鮫	sumitsukizame	whitecheek shark (Carchar…
+j	好き嫌いが多い	sukikiraigaoi	
+j	推測させる	suisokusaseru	
+j	推理小説	suirishosetsu	mystery novel, detective …
+j	水上生活	suijuseikatsu	港湾などの水上にあるはしけなどの船で日常の生活をす…
+j	水上警察	suijokeisatsu	水上での警察活動を行う組織。沿岸警備隊。
+j	水中翼船	suichuyokusen	
+j	水文学者	suimongakusha	水文学を研究する科学者。
+j	水準測量	suijunsokuryo	地表上に設けた各地点の間の高低差を求める測量。
+j	水生動物	suiseidobutsu	水中（淡水、汽水、海水）で生活する動物の総称。
+j	水産学者	suisangakusha	水産学を研究する科学者。
+j	水素イオン指数	suisoionshisu	pH
+j	水解小体	suikaishoutai	
+j	水質汚染	suishitsuosen	water pollution
+j	水酸化物	suisankabutsu	ある元素の陽イオンが水酸化物イオン OH⁻ と結び…
+j	雀の鉄砲	suzumenoteppo	
+k	수구여병	suguyeobyeong	"protecting one's mouth l…
+k	수권행위	sugwonhaengwi	
+k	수근거리다	sugeungeorida	to whisper about
+k	수날리스까	sunalliseukka	(중앙아시아) 여기자; 여성 기자 [1937년…
+k	수뇌상봉	sunoesangbong	summit (gathering of lead…
+k	수다스럽다	sudaseureopda	
+k	수동말뚝	sudongmalttuk	상부 구조물에 작용하는 횡하중이 아니라, 지반…
+k	수런거리다	sureongeorida	여러 사람이 한데 모여 수선스럽게 자꾸 지껄이…
+k	수력전기	suryeokjeongi	
+k	수련수녀	suryeonsunyeo	
+k	수령증	suryeongjeung	
+k	수리적위치	surijeokwichi	위도와 경도로 나타낸 위치.
+k	수면병	sumyeonbyeong	
+k	수면부채	sumyeonbuchae	
+k	수면운동	sumyeonundong	
+k	수상식물	susangsingmul	
+k	수상치환	susangchihwan	물속에서 기체를 모으는 방법이다.흔히 물에 잘…
+k	수선거리다	suseongeorida	정신이 어지럽게 자꾸 떠들다.
+k	수설불통	suseolbultong	
+k	수소자동차	susojadongcha	
+k	수양버들	suyangbeodeul	weeping willow, a willow …
+k	수양어머니	suyangeomeoni	
+k	수영 선수	suyeongseonsu	
+k	수온약층	suonyakcheung	바다에서 깊이에 대한 수온변화가 매우 급격한 …
+k	수원 화성	suwonhwaseong	수원 화성은 정조의 명령으로 거중기가 사용되 …
+k	수입면장	suimmyeonjang	
+k	수정구슬	sujeongguseul	
+k	수정테이프	sujeongteipeu	
+k	수중식물	sujungsingmul	
+k	수지광택	sujigwangtaek	
+k	수직단면	sujikdanmyeon	
+k	수치스러운	suchiseureoun	
+k	수치일기예보	suchiilgiyebo	
+k	수평거리	supyeonggeori	
+k	수평면	supyeongmyeon	
+k	수프라픽스	supeulapigseu	
+k	수학여행	suhagyeohaeng	field trip
+k	숙명론	sungmyeongnon	fatalism
+k	숙명적	sukmyeongjeok	
+k	숙성되다	sukseongdoeda	to ripen, to mature, to a…
+k	숙청하다	sukcheonghada	
+k	숙흥야매	sukheungyamae	아침에 일찍 일어나고 밤에 늦게 잔다는 뜻으로…
+k	순간타격	sungantagyeok	(배구) '스파이크'의 북한말.
+k	순간풍속	sunganpungsok	어떤 순간의 풍속.
+k	순두부찌개	sundubujjigae	soft tofu stew
+k	순망치한	sunmangchihan	(사자성어) 입술이 없으면 이가 시리다. 서로…
+k	순상 화산	sunsanghwasan	
+k	순압모형	sunapmohyeong	자동순압성인 유체의 운동방정식(절대소용돌이도 …
+k	숟가락포크	sutgarakpokeu	끝부분이 포크마냥 여러 갈래로 갈라진 숟가락.
+k	술라웨시 섬	sullawesiseom	
+k	술렁대다	sulleongdaeda	'술렁거리다'.
+k	숨넘어가다	sumneomeogada	to breathe one's last, di…
+k	숫자 키패드	sutjakipaedeu	
+k	숭조상문	sungjosangmun	
+k	숲 속 공터	supsokgongteo	
+e	substance abuse	substanceabuse	1 meaning
+e	suicide bombing	suicidebombing	1 meaning
+e	summer solstice	summersolstice	1 meaning
+e	summer triangle	summertriangle	1 meaning
+e	superb lyrebird	superblyrebird	1 meaning
+e	superconductor	superconductor	1 meaning
+e	supercontinent	supercontinent	1 meaning
+e	superintendent	superintendent	2 meanings
+e	supersaturated	supersaturated	2 meanings
+e	superstructure	superstructure	1 meaning
+e	surface tension	surfacetension	1 meaning
+e	survival horror	survivalhorror	1 meaning
+e	sustainability	sustainability	1 meaning
+j	スイスフランス語	suisufuransugo	スイスで話されているフランス語の変種。
+j	スイッチがはいる	suitchigahairu	a switch is flipped
+j	スイフト狐	suifutogitsune	a swift fox (Vulpes velox)
+j	スイミングスクール	suimingusukuru	水泳を教える民間の教室。
+j	スイミングパンツ	suimingupantsu	swimming trunks
+j	スイートチョコレート	suitochokoreto	ビターチョコレート。
+j	スカッシュ選手	sukasshuxunshu	スカッシュで実際に競技をする選手。
+j	スカトロジスト	sukatorojisuto	糞尿に性的興奮を抱く人。
+j	スキゾイド患者	sukizoidokanja	
+j	スキャムデミック	sukyamudemikku	
+j	スクミリンゴガイ	sukumiringogai	リンゴガイ科の淡水性巻貝。学名は Pomacea …
+j	スクラップブック	sukurappubukku	a scrapbook
+j	スクラマサクス	sukuramasakusu	scramasax
+j	スクリュードライバー	sukuryudoraiba	screwdriver
+j	スクーバダイビング	sukubadaibingu	scuba diving
+j	スクールカウンセラー	sukurukaunsera	学校に雇用されて学生からの悩みの相談を担うカウンセ…
+j	スコッチウィスキー	sukotchiwisuki	
+j	スコッチウイスキー	sukotchiuisuki	スコットランドで生産されるウイスキー。
+j	スコットランド語	sukottorandogo	the Scots language
+j	スターターピストル	sutatapisutoru	starter pistol
+j	スターティングメンバー	sutatingumenba	member of a starting line…
+j	スターリングエンジン	sutaringuenjin	英国のスターリングが発明した外燃機関。
+j	スティックシフト	sutikkushifuto	stick shift
+j	ステパナケルト	sutepanakeruto	
+j	ストックオプション	sutokkuopushon	会社の役員や社員が、一定期間内に一定の価格で、自社…
+j	ストラテジーゲーム	sutoratejigemu	目標達成のために計画や戦略を練るコンピュータゲーム…
+j	ストリングチーズ	sutoringuchizu	
+j	ストリング理論	sutoringuriron	synonym of 弦理論 (genriron,…
+j	ストレステスト	sutoresutesuto	耐久試験、健全性検査。
+j	ストレンジクォーク	sutorenjikwoku	strange quark
+j	ストロボスコープ	sutorobosukopu	規則的に点滅する光を回転や振動するものに当て、回転…
+j	スナック感覚	sunakkukankaku	Used other than figurativ…
+j	スナップ写真	sunappushashin	candid snapshot of daily …
+j	スナップ撮影	sunappusatsuei	candid snapshot photograp…
+j	スニフターグラス	sunifutagurasu	
+j	スパイラルチューブ	supairaruchubu	複数ある配線のケーブルをひとまとめにたばねるために…
+j	スパルタ教育	suparutakyoiku	agoge (Spartan training r…
+j	スピノサスモモ	supinosasumomo	ユーラシア西部やアフリカ北部といった地域に分布する…
+j	スブリガークルム	suburigakurumu	
+j	スプリットジャンプ	supurittojanpu	ジャンプの一種で、片足で跳びあがり、脚を大きく開い…
+j	スプリットタイム	supurittotaimu	各競技の単位距離あたりで要した時間。
+j	スプリットレイヤー	supurittoreiya	髪型で、前髪を乱雑にし、重なりを帯びさせるもの。
+j	スプリングボック	supuringubokku	springbok (Antidorcas mar…
+j	スプレッドシート	supureddoshito	表計算ソフト。
+j	スペインスペイン語	supeinsupeingo	スペインで話されているスペイン語の変種。
+j	スペイン領ギニア	supeinryoginia	Spanish Guinea - a former…
+j	スペルトコムギ	superutokomugi	
+j	スペースカプセル	supesukapuseru	
+j	スペーストラベル	supesutoraberu	
+j	スポークスピープル	supokusupipuru	代理で話すことを行う者。スポークスパーソン。
+j	スポーツサイクル	supotsusaikuru	スポーツ的体感を楽しむための自転車。スポーツバイク。
+j	スポーツドリンク	supotsudorinku	sports drink
+j	スライド映写機	suraidoeishaki	
+j	スラッシュメタル	surasshumetaru	
+j	スラップスティック	surappusutikku	
+j	スリランカ料理	surirankaryori	スリランカの伝統的な料理。
+j	スリヴォヴィッツ	surivuovuittsu	
+j	スリーピングバッグ	suripingubaggu	synonym of 寝袋 (nebukuro, …
+j	スリー・オブ・ア・カインド	suriobuakaindo	a three of a kind
+j	スロバキア料理	surobakiaryori	スロバキアの伝統的な料理。
+j	スーダン共和国	sudankyowakoku	the Republic of Sudan
+j	垂直尾翼	suichokubiyoku	
+j	垂直応力	suichokuoryoku	固体内部の面に垂直の方向にかかる応力。
+j	座ってください	suwattekudasai	
+j	数理経済学	surikeizaigaku	数学的な手法を用いた分析がなされる経済学の一分野。
+j	水生生物	suiseiseibutsu	水辺、水上、水中で生息する動植物の総称。
+j	水質汚濁	suishitsuodaku	人間の生産や生活に伴う排水などにより河川、湖沼、海…
+j	水陸両用の	suirikuryoyono	
+j	皇の花	suberaginohana	synonym of 牡丹 (botan): th…
+j	隅付き括弧	sumitsukikakko	lenticular bracket (eithe…
+j	雀の涙	suzumenonamida	a tiny amount
+k	수 관형사	sugwanhyeongsa	
+k	수군덕대다	sugundeokdaeda	'수군덕거리다'.
+k	수군수군하다	sugunsugunhada	
+k	수굴수굴하다	sugulsugulhada	
+k	수굿수굿하다	sugutsuguthada	
+k	수력발전	suryeokbaljeon	
+k	수렴성의	suryeomseongui	
+k	수륙양용	suryugyangyong	
+k	수면상태	sumyeonsangtae	
+k	수박 겉 핥기	subakgeothalgi	(비유) 사물의 속 내용은 모르고 겉만 건드리…
+k	수북수북하다	subuksubukhada	
+k	수삽스럽다	susapseureopda	수줍고 부끄러운 데가 있다.
+k	수상경기	susanggyeonggi	
+k	수생동물	susaengdongmul	
+k	수생식물	susaengsingmul	
+k	수성페인트	suseongpeinteu	
+k	수압파쇄법	suappaswaebeop	
+k	수얼수얼하다	sueolsueolhada	
+k	수영복 바지	suyeongbokbaji	
+k	수월수월하다	suwolsuwolhada	
+k	수의선택의	suuiseontaegui	
+k	수자식사진기	sujasiksajingi	'디지털 카메라'의 북한말.
+k	수중안경	sujungangyeong	
+k	수출송장	suchulsongjang	
+k	수치예보모델	suchiyebomodel	미래의 날씨를 예측하기 위하여 대기 운동을 지…
+k	수치예보자료	suchiyebojaryo	수치예보모델의 출력자료.
+k	수평발산	supyeongbalsan	수평방향으로 부는 풍속의 발산을 말하며, 수식…
+k	수평혼합	supyeonghonhap	대기 중에서 난류 때문에 공기가 수평 방향으로…
+k	숙덕거리다	sukdeokgeorida	남이 알아듣지 못하도록 낮은 목소리로 은밀하게…
+k	숙덕숙덕	sukdeoksukdeok	
+k	숙덜거리다	sukdeolgeorida	남이 알아듣지 못하도록 낮은 목소리로 조금 수…
+k	숙덜숙덜	sukdeolsukdeol	
+k	숙설거리다	sukseolgeorida	남이 알아듣지 못하도록 낮은 목소리로 자질구레…
+k	숙설숙설	sukseolsukseol	
+k	숙성시키다	sukseongsikida	
+k	숙수그레하다	suksugeurehada	
+k	순간때리기	sunganttaerigi	(배구) '스파이크'의 북한말.
+k	순두부백반	sundububaekban	meal served in a restaura…
+k	순양전함	sunyangjeonham	
+k	순항 유도탄	sunhangyudotan	cruise missile
+k	순회심판소	sunhoesimpanso	circuit court
+k	숭경하다	sunggyeonghada	to venerate, to revere
+e	subjunctive mood	subjunctivemood	1 meaning
+e	substantia nigra	substantianigra	1 meaning
+e	sugar substitute	sugarsubstitute	1 meaning
+e	supersaturation	supersaturation	1 meaning
+e	supply and demand	supplyanddemand	1 meaning
+e	surrogate mother	surrogatemother	1 meaning
+j	すぎこしのいわい	sugikoshinoiwai	「すぎこしのまつり」に同じ。なお、「逾越節」は『新…
+j	スキューバダイビング	sukyubadaibingu	スキューバを用いた潜水。
+j	スキューバ・ダイビング	sukyubadaibingu	scuba diving (underwater …
+j	スクランブルエッグ	sukuranburueggu	scrambled eggs
+j	スクリプト言語	sukuriputogengo	比較的習得が容易で簡易的なプログラム言語。
+j	スケルトンパズル	sukerutonpazuru	a crossword-like word puz…
+j	スケートをする人	suketoosuruhito	
+j	スコットランド人	sukottorandojin	Scot (a person born in or…
+j	スターウォーズ計画	sutawozukeikaku	
+j	スターバースト銀河	sutabasutoginga	starburst galaxy
+j	スターリン主義者	sutarinshugisha	
+j	ステアリングホイール	sutearinguhoiru	船舶の舵輪。
+j	ステアリング・ホイール	sutearinguhoiru	a steering wheel
+j	スティラコサウルス	sutirakosaurusu	鳥盤目周飾頭亜目角竜下目ケラトプス科セントロサウル…
+j	ステンレス・スティール	sutenresusutiru	stainless steel
+j	ストライキを起こす	sutoraikiookosu	
+j	ストラッチャテッラ	sutoratchaterra	
+j	ストラディバリウス	sutoradibariusu	
+j	ストリップクラブ	sutorippukurabu	
+j	ストリップ劇場	sutorippugekijo	strip club
+j	ストレッチ体操	sutoretchitaiso	stretching (exercise)
+j	ストレートセックス	sutoretosekkusu	男性が陰茎を女性の膣に挿入する、通常の性交。
+j	ストレート・プライド	sutoretopuraido	
+j	ストロープワッフル	sutoropuwaffuru	stroopwafel
+j	ストークスの定理	sutokusunoteiri	ベクトル場の回転と線積分について∫_S(∇× ma…
+j	スパークリングワイン	supakuringuwain	ワインのうち発泡性があるもの。
+j	スパークリング・ワイン	supakuringuwain	
+j	スピリチュアル系	supirichuarukei	being a follower of New A…
+j	スピード測定器	supidosokuteiki	
+j	スプラトリー群島	supuratorigunto	synonym of 南沙諸島 (Nansa Sh…
+j	スプラトリー諸島	supuratorishoto	synonym of 南沙諸島 (Nansa Sh…
+j	スプリットスカート	supurittosukato	スカートのうち、前部が割れているもの。
+j	スプリングフィールド	supuringufirudo	Springfield (a parish of …
+j	スヘルトーヘンボス	suherutohenbosu	
+j	スペインオオヤマネコ	supeinoyamaneko	ネコ目ネコ科オオヤマネコ属に属する食肉類の一種。学…
+j	スポーツベッティング	supotsubettingu	
+j	スライス・オブ・ライフ	suraisuoburaifu	
+j	スラブ内地震	surabunaijishin	プレートが沈み込んだ先で起きる震源の深い地震。
+j	スラブ語学者	surabugogakusha	
+j	スリーポイントシュート	suripointoshuto	three-point shot
+j	スワデシュ・リスト	suwadeshurisuto	モリス・スワデシュにより編集された、基礎語彙を集め…
+j	スヴァールバル諸島	suvarubarushoto	
+j	スーパーセンテナリアン	supasentenarian	supercentenarian
+j	スーパー伊勢湾台風	supaisewantaifu	伊勢湾台風を超える最大級の災害を引き起こす可能性が…
+j	水晶振動子	suishoshindoshi	水晶の結晶を結晶軸に対し一定の方向に切り取った棒ま…
+j	水晶発振器	suishohasshinki	水晶振動子の極めて正確で安定した電気振動とそれにと…
+j	水産高等学校	suisankotogakko	水産に関する課程を設置する高等学校。水高。
+j	水素化リチウム	suisokarichiumu	lithium hydride
+j	水酸化カリウム	suisankakariumu	潮解性を持つ白色の結晶。水溶液は強塩基を示す。化学…
+j	炭焼き自殺	sumiyakijisatsu	charcoal-burning suicide:…
+j	睡眠時無呼吸	suiminjimukokyu	
+j	睡眠時遊行症	suiminjiyukosho	somnambulism, sleepwalking
+j	鈴を転がすよう	suzuokorogasuyo	Used to describe a woman'…
+k	수로측량	surocheungnyang	
+k	수명어천	sumyeongeocheon	
+k	수복강녕	subokgangnyeong	
+k	수산화 칼슘	susanhwakalsyum	
+k	수상 스포츠	susangseupocheu	
+k	수색영장	susaegyeongjang	
+k	수선스럽다	suseonseureopda	정신이 어지럽게 떠드는 듯 하다.
+k	수염오목눈이	suyeomomongnuni	bearded tit
+k	수영 팬츠	suyeongpaencheu	
+k	수영경기	suyeonggyeonggi	
+k	수증기 분화	sujeunggibunhwa	
+k	수채화 물감	suchaehwamulgam	
+k	수출면장	suchulmyeonjang	
+k	수타 자장면	sutajajangmyeon	손으로 직접 면을 뽑아 만든 자장면.
+k	수평갱도	supyeonggaengdo	
+k	수평곡선	supyeonggokseon	
+k	수평시정	supyeongsijeong	물체를 육안으로 식별할 수 있는 최대 거리.
+k	수학익힘책	suhagikhimchaek	
+k	수행평가	suhaengpyeongga	evaluation, performance r…
+k	순태양복사	suntaeyangboksa	지표상에서 하향 단파복사에서 상향 단파복사를 …
+k	술렁거리다	sulleonggeorida	자꾸 어수선하게 소란이 일다.
+k	술이 떡이 되다	suritteogidoeda	"alcohol becomes tteok": …
+e	sub-saharan africa	subsaharanafrica	1 meaning
+e	subconsciousness	subconsciousness	1 meaning
+e	suicidal ideation	suicidalideation	1 meaning
+e	suspension bridge	suspensionbridge	1 meaning
+j	スイゲンゼニタナゴ	suigenzenitanago	タナゴ科に属する淡水魚。学名は Rhodeus s…
+j	スケプチシズム	sukepuchishizumu	skepticism
+j	スコットランドヤード	sukottorandoyado	Scotland Yard
+j	スコットランド・ヤード	sukottorandoyado	
+j	スコットランド英語	sukottorandoeigo	Scottish English
+j	スコティッシュフォールド	sukotisshuforudo	a Scottish Fold
+j	スタグフレーション	sutagufureshiyon	賃金を伴うことなく、物価だけが上昇するインフレーシ…
+j	スタッドレスタイヤ	sutaddoresutaiya	鋲（スタッド）のない雪道用のタイヤ。
+j	スタンディングスタート	sutandingusutato	立ったまま行われるスタート。
+j	スタンフォード大学	sutanfododaigaku	
+j	スターティングブロック	sutatinguburokku	starting block
+j	スターリングシルバー	sutaringushiruba	
+j	ステュムパーリデス	sutyumupaaridesu	
+j	ステンレススチール	sutenresusuchiru	stainless steel
+j	ステータスシンボル	sutetasushinboru	status symbol
+j	ストックキャラクター	sutokkukyarakuta	
+j	ストライサンド効果	sutoraisandokoka	公開済みの特定の情報を除去または秘匿しようとする試…
+j	ストラドルキャリア	sutoradorukyaria	港湾での荷物の積み上げや移動に使用される車両。
+j	ストリップショーする	sutorippushosuru	
+j	ストレートフラッシュ	sutoretofurasshu	a straight flush
+j	ストロンチウムイオン	sutoronchiumuion	イオン式Sr²⁺で表されるストロンチウムの陽イオン。
+j	スペクトルリーケージ	supekutorurikeji	信号をスペクトル分析したとき、メインローブが減衰し…
+j	スポーツマンシップ	supotsumanshippu	sportsmanship
+j	スマートインターチェンジ	sumatointachenji	パーキングエリアやサービスエリアに併設されたETC…
+j	スロットルグリップ	surottorugurippu	オートバイでスロットル操作をするための握手式のグリ…
+j	スワジランドおうこく	suwajirandookoku	スワジランド王国: Kingdom of Swaz…
+j	スワジランド王国	suwajirandookoku	the Kingdom of Swaziland
+j	据え置き型ゲーム機	sueokigatagemuki	自宅などの一定の場所に設置して遊ぶことを目的とした…
+j	数値表層モデル	suchihyosomoderu	digital surface model
+j	数学的帰納法	sugakutekikinoho	自然数 n を変数として含む命題に対して、n = …
+j	水力発電	suiryokuhatsuden	高所から大量の水を落とし、その位置エネルギーを利用…
+j	水洗式トイレ	suisenshikitoire	
+j	水洗式便所	suisenshikibenjo	
+j	水産養殖業	suisanyoshokugyo	水産物の養殖を行い、出荷する事業。
+j	水蒸気爆発	suijokibakuhatsu	
+j	水酸化リチウム	suisankarichiumu	lithium hydroxide
+j	水酸化物イオン	suisankabutsuion	イオン式OH⁻で表される陰イオン。
+j	鈴つき羊	suzutsukihitsuji	
+j	隅から隅まで	sumikarasumimade	from A to Z, from cover t…
+k	수고하셨어요	sugohasyeosseoyo	
+k	수군덕거리다	sugundeokgeorida	남이 알아듣지 못하도록 낮은 목소리로 어수선하…
+k	수군숙덕하다	sugunsukdeokhada	
+k	수득수득하다	sudeuksudeukhada	
+k	수들수들하다	sudeulsudeulhada	
+k	수럭수럭하다	sureoksureokhada	
+k	수런수런하다	sureonsureonhada	여러 사람이 한데 모여 자꾸 수선스럽게 지껄이…
+k	수륙 양용의	suryukyangyongui	
+k	수상경찰	susanggyeongchal	
+k	수선수선하다	suseonsuseonhada	
+k	수설수설하다	suseolsuseolhada	
+k	수성광상	suseonggwangsang	
+k	수소음심경	susoeumsimgyeong	십이 경맥의 하나. 심중(心中)으로부터 시작하…
+k	수슬수슬하다	suseulsuseulhada	
+k	수직이착륙기	sujikichakryukgi	
+k	술렁술렁	sulleongsulleong	
+k	술패랭이꽃	sulpaeraengikkot	fringed pink (Dianthus su…
+k	숫자공포증	sutjagongpojeung	숫자에 대한 불안감이나 공포를 느끼는 증상.
+e	subject complement	subjectcomplement	1 meaning
+e	subliminal message	subliminalmessage	1 meaning
+e	subordinate clause	subordinateclause	1 meaning
+e	sugarloaf mountain	sugarloafmountain	1 meaning
+e	superconductivity	superconductivity	1 meaning
+e	superlative degree	superlativedegree	1 meaning
+e	suspended congress	suspendedcongress	1 meaning
+j	スウェディッシュマッサージ	suwedisshumassaji	
+j	スカルプチュアネイル	sukarupuchuaneiru	sculptured nail
+j	スカンジナビア半島	sukanjinabiahanto	「スカンディナビア半島」を参照。
+j	スカンディナビア半島	sukandinabiahanto	ヨーロッパ北部にあるノルウェー、スウェーデン、フィ…
+j	スクランブルドエッグ	sukuranburudoeggu	
+j	スコットランド王国	sukottorandookoku	
+j	スタンダップコメディ	sutandoappukomedi	
+j	スタンディングオベーション	sutandinguobeshon	standing ovation
+j	ステルスマーケティング	suterusumaketingu	stealth marketing; underc…
+j	スパゲッティ化現象	supagettikagensho	
+j	スピッツベルゲン島	supittsuberugento	Spitsbergen
+j	スプリットデシジョン	supurittodeshijon	判定が審判同士で嚙み合わないこと。
+j	スペイン異端審問	supeinitanshinmon	the Spanish Inquisition
+j	スポーツクライミング	supotsukuraimingu	
+j	スポーツスタッキング	supotsusutakkingu	sport stacking
+j	スマトラオオコンニャク	sumatoraokonnyaku	
+j	スマトラカモシカ	sumatorakamoshika	a Sumatran serow (Caprico…
+j	スメルハラスメント	sumeruharasumento	口臭、体臭といったにおいにより周囲を不快にさせるこ…
+j	スモークハラスメント	sumokuharasumento	喫煙の強要やたばこの煙に晒されるなどといった喫煙に…
+j	水辺の	suihennomizuabeno	
+j	水酸化ナトリウム	suisankanatoriumu	sodium hydroxide
+k	수군숙덕대다	sugunsukdeokdaeda	'수군숙덕거리다'.
+k	수렵채집민	suryeopchaejimmin	
+k	수륙양용차	suryukyangyongcha	
+k	수술용 마스크	susuryongmaseukeu	
+k	수중영선수	sujungyeongseonsu	스쿠버다이버.
+k	수평바람시어	supyeongbaramsieo	수평적인 풍향의 급변 혹은 풍속의 급변.
+k	술어 형용사	sureohyeongyongsa	
+e	sumatran rhinoceros	sumatranrhinoceros	1 meaning
+e	supratiṣṭhitacāritra	supratihitacaritra	1 meaning
+e	surveillance camera	surveillancecamera	1 meaning
+e	suspended animation	suspendedanimation	2 meanings
+j	すぎこしのまつり	sugikoshinomatsuri	ユダヤ人の祖先がエジプトを脱出したことを記念する、…
+j	スカンディナヴィア半島	sukandinavuiahanto	「スカンディナビア半島」を参照。
+j	スクラッチチケット	sukuratchichiketto	a scratch ticket
+j	スクランブル交差点	sukuranburukosaten	pedestrian scramble
+j	スコットランド・ゲール語	sukottorandogerugo	the Scottish Gaelic langu…
+j	ステルス爆撃機	suterusubakugekiki	a stealth bomber
+j	ストリートチルドレン	sutoritochirudoren	帰る家がなく、路上で物を販売したり、乞食などをしな…
+j	スプリングクリーニング	supuringukuriningu	
+j	スベスベノコギリエイ	subesubenokogiriei	ノコギリエイの別称。
+j	スペリングコンテスト	superingukontesuto	spelling contest, spellin…
+j	スロバキア共和国	surobakiakyowakoku	Slovak Republic (official…
+j	スロベニア共和国	surobeniakyowakoku	Republic of Slovenia (off…
+j	水中自破砕溶岩	suichujihasaiyogan	溶岩が水中で急速に冷やされることで形成された岩石。
+j	水滴石を穿つ	suitekiishiougatsu	
+j	水酸化カルシウム	suisankakarushiumu	カルシウムの水酸化物。生石灰（酸化カルシウム）に水…
+j	芻豢甘きを加えず	sukanamakiokuwaezu	物事の優劣・上下の区別が混同されやすいたとえ。
+k	수군덕수군덕	sugundeoksugundeok	
+k	수렴청정	suryeomcheongjeong	
+k	수르스트뢰밍	sureuseuteuroeming	
+k	수상모터사이클	susangmoteosaikeul	
+k	수원청개구리	suwoncheonggaeguri	the Suwon treefrog, Hyla …
+k	수증기 영상	sujeunggiyeongsang	기상위성의 수증기채널은 지구로부터 우주로 방출…
+k	수증기장력	sujeunggijangryeok	
+k	수하물 찾는 곳	suhamulchanneungot	
+k	숙덕숙덕하다	sukdeoksukdeokhada	
+k	숙덜숙덜하다	sukdeolsukdeolhada	
+k	숙설숙설하다	sukseolsukseolhada	
+k	순간공때리기	sungangongttaerigi	(배구) '스파이크'의 북한말.
+k	숟가락 하나 가득	sutgarakhanagadeuk	
+k	숨은그림찾기	sumeungeurimchatgi	복잡하게 그려 놓은 그림에 숨겨진 물건을 찾도…
+e	sufficient condition	sufficientcondition	1 meaning
+e	supplementary angles	supplementaryangles	1 meaning
+e	surface-to-air missile	surfacetoairmissile	1 meaning
+j	スウェーデン式マッサージ	suwedenshikimassaji	
+j	スジシマドジョウ種群	sujishimadojoshugun	スジシマドジョウの学術的表記。
+j	スタンダードプリコーション	sutandadopurikoshon	あらゆる場面において行うべき基本的な感染症対策。
+j	スティルチェス行列	sutiruchesugyoretsu	M-行列のうち対称行列であるもの。
+j	ストレス解消食	sutoresukaishoshoku	
+j	スナヤツメ北方種	sunayatsumehopposhu	キタスナヤツメの旧名。
+j	スナヤツメ南方種	sunayatsumenanposhu	ミナミスナヤツメの旧名。
+j	スパニッシュ・ウォーター・ドッグ	supanisshuwotadoggu	
+j	スルプスカ共和国	surupusukakyowakoku	
+j	全ての敬意をもって	subetenokeiiwomotte	
+j	数値流体力学	suchiryutairikigaku	電子計算機で流体力学の諸問題を（近似的に）解くアル…
+j	水力発電所	suiryokuhatsudensho	水力により発電する施設。
+j	水銀柱ミリメートル	suiginchumirimetoru	millimeter of mercury
+k	수군숙덕거리다	sugunsukdeokgeorida	남이 알아듣지 못하도록 낮은 목소리로 몹시 어…
+k	수량형용사	suryanghyeongyongsa	quantitative adjective
+k	수리아 아랍 공화국	suriaarapgonghwaguk	
+k	수염패랭이꽃	suyeompaeraengikkot	sweet-william (Dianthus b…
+k	수치시뮬레이션	suchisimyulreisyeon	자연현상을 인간의 손으로 모사(模寫)해서 재현…
+k	수평바람벡터	supyeongbarambekteo	수평 방향으로 부는 바람의 방향과 속도를 동시…
+k	수평분해능	supyeongbunhaeneung	명확히 구분되는 화소 또는 격자점 간의 최소거…
+k	숨은 뜻을 가진	sumeuntteuseulgajin	
+e	substitution reaction	substitutionreaction	1 meaning
+e	survival of the fittest	survivalofthefittest	1 meaning
+j	すれ違い用前照灯	surechigaiyozenshoto	
+j	スコットランド国教会	sukottorandokokyokai	
+j	ステュムパーロスの鳥	sutyumupaarosunotori	
+j	スペシャルオリンピックス	supesharuorinpikkusu	知的障害者のために4年に一度開かれる国際競技大会。
+j	スポンジが水を吸うように	suponjigamizuosuyoni	absorbing (knowledge) ver…
+j	隙あらば自分語り	sukiarabajibungatari	talking about oneself whe…
+k	수근관 증후군	sugeungwanjeunghugun	
+k	수면 무호흡증	sumyeonmuhoheupjeung	
+k	수직측풍장비	sujikcheukpungjangbi	일종의 도플러레이다로써 수직 3방향에 빔을 쏘…
+k	수평온도경도	supyeongondogyeongdo	수평 방향의 온도 기울기.
+k	순수 전기자동차	sunsujeongijadongcha	
+k	술렁술렁하다	sulleongsulleonghada	
+e	suspension of disbelief	suspensionofdisbelief	1 meaning
+j	すいもあまいもかみわける	suimoamaimokamiwakeru	"to distinguish sour and …
+j	ストックホルム症候群	sutokkuhorumushokogun	Stockholm syndrome
+j	ストラトフォード・アポン・エイヴォン	sutoratofodoaponeivon	
+j	スポーツユーティリティビークル	supotsuyutiritibikuru	
+j	スマトラアカニシキヘビ	sumatorakanishikihebi	a blood python (Python cu…
+j	垂直離着陸機	suichokurichakurikuki	離着陸する際に滑走せずヘリコプターのように垂直に上…
+j	酸いも甘いも嚙み分ける	suimoamaimokamiwakeru	（酸味も甘味も味わい分け、その良さも悪さも良く知っ…
+e	superposition principle	superpositionprinciple	1 meaning
+e	sustainable development	sustainabledevelopment	1 meaning
+j	スジシマドジョウ大型種	sujishimadojokogatashu	オオガタスジシマドジョウの旧名。
+j	スジシマドジョウ小型種	sujishimadojokogatashu	コガタスジシマドジョウの旧名。
+j	スペキュレイティブ・フィクション	supekyureitibufikushon	
+j	スーパーサイクロニックストーム	supasaikuronikkusutomu	北インド洋における、最大風速が120ノット以上の熱…
+j	好きこそものの上手なれ	sukikosomononojozunare	What you like to do, you …
+k	수군덕수군덕하다	sugundeoksugundeokhada	
+k	수스럭수스럭하다	suseureoksuseureokhada	
+k	수하물 컨베이어 벨트	suhamulkeonbeieobelteu	
+j	スジシマドジョウ中型種	sujishimadojochugatashu	ナミスジシマドジョウの旧名。
+j	睡眠時無呼吸症候群	suiminjimukokyushokogun	睡眠中に呼吸が十秒程度止まることと覚醒を繰り返す状…
+j	スペクトル拡散通信	supekutorukakusantsushin	
+e	sudden infant death syndrome	suddeninfantdeathsyndrome	1 meaning
+j	スキゾイドパーソナリティ障害	sukizoidopasonaritishogai	
+j	スリジャヤワルダナプラコッテ	surijayawarudanapurakotte	Sri Jayawardenepura Kotte…
+j	水素化アルミニウムリチウム	suisokaaruminiumurichiumu	lithium aluminium hydride
+j	全ての道はローマに通ず	subetenomichiwaromanitsuzu	真理というものは、どのような経路を通ったところで、…
+j	水金地火木土天冥海	suikinchikamokudotenmeikai	冥王星が太陽系の第9惑星と考えられており、かつ冥王…
+j	水金地火木土天海冥	suikinchikamokudotenkaimei	冥王星が太陽系の惑星と考えられていた1930年から…
+j	すべての傷を治癒する時間	subetenokizuochiyusurujikan	
+j	捨てる神あれば拾う神あり	suterukamiarebahiroukamiari	when one door shuts, anot…
+j	過ぎたるは猶及ばざるが如し	sugitaruhanaoyobazarugagotoshi	程度が過剰であるのは、不足しているのと同様に不適切…
+j	スジシマドジョウ中型種遠賀型	sujishimadojochugatashuongagata	オンガスジシマドジョウの旧名。北川らによって仮称さ…
+j	スジシマドジョウ小型種山陰型	sujishimadojokogatashusaningata	サンインコガタスジシマドジョウの旧名。
+j	スジシマドジョウ小型種山陽型	sujishimadojokogatashusanyogata	サンヨウコガタスジシマドジョウの旧名。
+j	スジシマドジョウ小型種東海型	sujishimadojokogatashutokaigata	トウカイコガタスジシマドジョウの旧名。
+j	過ぎたるは猶及ばざるがごとし	sugitaruwanaooyobazarugagotoshi	doing too much is just as…
+j	スジシマドジョウ小型種九州型	sujishimadojokogatashukyushugata	アリアケスジシマドジョウの旧名。
+j	スジシマドジョウ小型種点小型	sujishimadojokogatashutenshogata	サンインコガタスジシマドジョウの旧名。
+j	スジシマドジョウ小型種琵琶湖型	sujishimadojokogatashubiwakogata	ビワコガタスジシマドジョウの旧名。
+j	スジシマドジョウ中型種博多型	sujishimadojochugatashuhakatagata	ハカタスジシマドジョウの旧名。北川らによって仮称さ…
+j	スジシマドジョウ中型種瀬戸内型	sujishimadojochugatashusetonaigata	チュウガタスジシマドジョウの旧名。北川らによって仮…
+j	スジシマドジョウ小型種淀川型	sujishimadojokogatashuyodogawagata	ヨドコガタスジシマドジョウの旧名。
+j	スーパーやコンビニを探してるのですが	supayakonbiniwosagashiterunodesuga	
+j	スリランカ民主社会主義共和国	surirankaminshushakaishugikyowakoku	Democratic Socialist Repu…
+k	숭어가 뛰니까 망둥이도 뛴다	sungeogattwinikkamangdungidottwinda	자기보다 잘난 사람을 따라하다가 혼난다는 의미
+e	sufficient unto the day is the evil thereof	sufficientuntothedayistheevilthereof	1 meaning
+j	すべての成功した男の後ろに女がいる	subetenoseikoshitaotokonoushironionnagairu	
+j	水金地火木土天海	suikinchikamokudotenkaisuikinchikamokudottenkai	太陽系の惑星である水星・金星・地球・火星・木星・土…
+j	スランヴァイルプールグウィンギルゴゲリッヒルンドロブールスランティシリオゴゴゴッホ	suranvuairupuruguwingirugogerihhirundoroburusurantishiriogogogohho	

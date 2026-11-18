@@ -1,0 +1,902 @@
+e	as	as	4 meanings
+e	ash	ash	2 meanings
+e	ask	ask	2 meanings
+e	ass	ass	2 meanings
+j	あさ	asa	夜明けからしばらくの間。または夜明けから正午にかけ…
+j	あす	asu	今日の次の日。
+j	あせ	ase	哺乳類が汗腺から分泌する液体で、体温調節の役割を果…
+j	アサ	asa	
+j	アス	asu	
+j	アーサー	asa	Arthur
+j	アース	asu	(US) ground, (UK) earth, …
+j	朝	asa	the morning
+j	汗	ase	sweat
+j	阿蘇	aso	Aso (a city in Kumamoto P…
+j	麻	asa	hemp, Cannabis sativa
+j	麻生	aso	a surname
+k	아사	asa	death from starvation
+k	아시	asi	phoenix
+e	as is	asis	1 meaning
+e	asap	asap	1 meaning
+e	asia	asia	1 meaning
+j	あさい	asai	表面から底面までの距離が短い。入り口から奥までの距…
+j	あさお	asao	麻や青苧の茎の皮の繊維から作った糸。あさおら。
+j	あし	ashi	足: foot
+j	あしゃ	asha	足: (dialectal, Yamagata) …
+j	アサイ	asai	
+j	アサイー	asai	acai (Euterpe oleracea)
+j	アシ	ashi	
+j	アセン	asen	acene
+j	アーサー王	asao	
+j	アー写	asha	
+j	亜州	ashu	Asia (the largest contine…
+j	亜市	ashi	
+j	亜洲	ashu	
+j	亜相	asho	大納言の唐名。亜槐。
+j	亜種	ashu	a subspecies
+j	唖者	asha	a mute person
+j	圧芻	assu	青刈りしたとうもろこし、ライ麦、牧草などを細切りに…
+j	朝井	asai	a surname
+j	朝臣	ason	the second-highest of the…
+j	浅い	asai	shallow
+j	浅井	asai	a surname
+j	浅尾	asao	a surname
+j	葦	ashi	
+j	蘆	ashi	
+j	蛙声	asei	蛙が鳴く声。
+j	足	ashi	foot
+j	阿世	asei	世俗に阿り、媚び諂うこと。
+j	麻夫	asao	a male given name
+k	아사이	asai	
+k	아삭	asak	연하고 싱싱한 과일이나 채소 따위를 보드랍게 …
+k	아산	asan	Asan (a city in South Chu…
+k	아삼	asam	
+k	아서	aseo	a transliteration of the …
+k	아세아	asea	Asia (the largest contine…
+k	아속	asok	
+k	아쉬	aswi	
+k	아시아	asia	Asia (the largest contine…
+k	아싸	assa	yeah!, awesome!
+k	아씨	assi	madam
+e	as yet	asyet	1 meaning
+e	asahi	asahi	1 meaning
+e	asana	asana	1 meaning
+e	ascii	ascii	1 meaning
+e	asean	asean	1 meaning
+e	ashen	ashen	2 meanings
+e	asian	asian	4 meanings
+e	aside	aside	1 meaning
+e	aspen	aspen	1 meaning
+e	aspic	aspic	1 meaning
+e	aspie	aspie	1 meaning
+e	assam	assam	1 meaning
+e	asset	asset	2 meanings
+e	aster	aster	1 meaning
+e	asura	asura	2 meanings
+j	あさぎ	asagi	浅葱: light blue
+j	あさけ	asake	早朝の、東の空が明るくなる頃。暁よりも後。曙。
+j	あさげ	asage	朝に摂る食事。あさけ。
+j	あさざ	asaza	ナス目ミツガシワ科アサザ属に属する多年草の一種。学…
+j	あさせ	asase	流れの浅いところ。水の浅いところ。
+j	あさで	asade	浅い傷。軽傷。かすり傷。浅傷。
+j	あさね	asane	朝、遅くまで寝ていること。
+j	あさひ	asahi	朝に空へ昇りだした太陽。またその光。
+j	あさゆう	asayu	朝と夕方。
+j	あさり	asari	マルスダレガイ上科マルスダレガイ科に属する二枚貝の…
+j	あさる	asaru	えさや獲物を得ようとして探す。また見つかりそうな場…
+j	あすこ	asuko	「あそこ」に同じ。
+j	あせび	asebi	ツツジ目アセビ属に属する常緑樹。学名:Pieris…
+j	あせも	asemo	汗が体表に排出されず表皮の中に残ることで皮膚にでき…
+j	あせり	aseri	「あせる」の連用形。
+j	あせる	aseru	
+j	あそこ	asoko	that place, area, or part…
+j	あそび	asobi	遊ぶの連用形。
+j	あそぶ	asobu	遊戯などを楽しむ。
+j	あっし	asshi	first person singular pro…
+j	あっせん	assen	「斡旋」のひらがな表記。
+j	アサイン	asain	assignment
+j	アサリ	asari	あさりの学術的表記。
+j	アサート	asato	
+j	アスキー	asuki	
+j	アスター	asuta	キク科シオン属の総称。
+j	アスペ	asupe	someone mentally dull; re…
+j	アスラ	asura	
+j	アスル	asuru	午後の礼拝。
+j	アセアン	asean	
+j	アッシー	asshi	assembly unit (unit made …
+j	アーサナ	asana	
+j	亜紗美	asami	a female given name
+j	圧制	assei	oppressive
+j	圧勝	assho	overwhelming, crushing vi…
+j	圧政	assei	tyrannical rule
+j	圧死	asshi	death by crushing
+j	安咲美	asami	a female given name
+j	安里	asato	a region of Yaese, Shimaj…
+j	悪しい	ashii	bad; evil
+j	斡旋	assen	recommendation, mediation
+j	旭	asahi	Asahi (a city in Chiba Pr…
+j	明日奈	asuna	a female given name
+j	明日香	asuka	a placename, especially o…
+j	朝基	asaki	a surname
+j	朝子	asako	a female given name
+j	朝寝	asane	getting up late in the mo…
+j	朝座	asaza	法華八講などにおける朝の読経や説教。
+j	朝日	asahi	rising sun, morning sun
+j	朝海	asami	a female given name
+j	朝湯	asayu	morning bath; usually con…
+j	朝美	asami	a female given name
+j	朝見	asami	a surname
+j	浅瀬	asase	
+j	浅田	asada	a surname
+j	浅蜊	asari	a clam, Japanese littlene…
+j	浅見	asami	a surname
+j	浅野	asano	a surname
+j	浅香	asaka	a surname
+j	漁る	asaru	to look for food
+j	焦り	aseri	impatience
+j	焦る	aseru	be in a hurry
+j	荇菜	asaza	fringed water lily, Nymph…
+j	褪せる	aseru	fade, discolor
+j	遊び	asobi	play
+j	遊ぶ	asobu	to play, to amuse oneself…
+j	阿僧祇	asogi	In the traditional Japane…
+j	麻夏	asaka	a female given name
+j	麻実	asami	a female given name
+j	麻美	asami	a female given name
+k	아상	asang	사상(四相)의 하나. 오온(五蘊)이 화합하여 …
+k	아세안	asean	ASEAN
+k	아소카	asoka	
+k	아수라	asura	asura
+k	아시시	asisi	
+k	아시예	asiye	
+k	아싹	assak	
+e	a-sharp	asharp	1 meaning
+e	as well	aswell	2 meanings
+e	ascend	ascend	1 meaning
+e	asgard	asgard	1 meaning
+e	ashley	ashley	1 meaning
+e	ashoka	ashoka	1 meaning
+e	ashore	ashore	2 meanings
+e	ashura	ashura	1 meaning
+e	asiago	asiago	1 meaning
+e	asleep	asleep	2 meanings
+e	asmara	asmara	1 meaning
+e	aspect	aspect	3 meanings
+e	aspire	aspire	1 meaning
+e	assail	assail	1 meaning
+e	assert	assert	2 meanings
+e	assets	assets	1 meaning
+e	assign	assign	4 meanings
+e	assisi	assisi	1 meaning
+e	assist	assist	4 meanings
+e	assume	assume	2 meanings
+e	astana	astana	1 meaning
+e	asthma	asthma	1 meaning
+e	astray	astray	1 meaning
+e	astute	astute	1 meaning
+e	asylum	asylum	1 meaning
+j	あさいと	asaito	麻の繊維からつくられた糸。
+j	あさおき	asaoki	朝、早起きすること。
+j	あさがお	asagao	ナス目アサガオ属に属する一年草。学名: Ipomo…
+j	あさって	asatte	明日の次の日。今日の二日先の日。
+j	あさばん	asaban	
+j	あしか	ashika	鰭脚類アシカ科に属する哺乳動物
+j	あしき	ashiki	
+j	あした	ashita	今日の次の日。
+j	あしば	ashiba	足を掛ける場所。特に高所で作業をするために組み立て…
+j	あしび	ashibi	葦火: a bonfire of dried re…
+j	あしゅら	ashura	
+j	あしゆ	ashiyu	足だけを浸ける入浴法。そのための浴槽や温泉施設。
+j	あしわ	ashiwa	足首にはめる装身具。
+j	あそこへ	asokoe	
+j	あっさり	assari	simply; plainly
+j	アサガオ	asagao	あさがおの学術的表記。
+j	アシカ	ashika	あしかの学術的表記。
+j	アシュリー	ashuri	
+j	アショーカ	ashoka	
+j	アシル	ashiru	acyl
+j	アセトン	aseton	acetone
+j	アセンズ	asenzu	Athens (a city, the count…
+j	アッサム	assamu	Assam (a state in northea…
+j	アーシュラ	ashura	
+j	アーシューラー	ashura	
+j	アースデイ	asudei	
+j	アース線	asusen	ground wire; earth wire; …
+j	亜使徒	ashito	an equal to the Apostles …
+j	厚沢部	assabu	Assabu (a town in Hokkaid…
+j	厚澤部	assabu	
+j	圧する	assuru	〔何かに〕圧力を加える。加圧する。おさえつける。
+j	圧搾	assaku	compression
+j	彼処	ashiko	yon place, that place yon…
+j	明後日	asatte	the day after tomorrow
+j	明日	ashita	tomorrow
+j	朝晩	asaban	morning and evening; all …
+j	朝番	asaban	morning shift
+j	朝練	asaren	before-school practice (f…
+j	朝起き	asaoki	early rising, early riser
+j	朝顔	asagao	Japanese morning glory, I…
+j	浅岡	asaoka	a surname
+j	浅知恵	asajie	知識の不足や、思慮不足などから導かれる愚かな見解。
+j	浅茅生	asajiu	a place where cogon grass…
+j	浅越	asagoe	a surname
+j	海驢	ashika	a sea lion
+j	芦田	ashida	a surname
+j	葦火	ashibi	a bonfire of dried reeds
+j	葦鹿	ashika	「あしか」の漢字表記。
+j	足場	ashiba	scaffold
+j	足日	ashibi	a surname
+j	足湯	ashiyu	a heated footbath, either…
+j	足駄	ashida	高い歯と太い鼻緒をつけた下駄。
+j	阿修羅	ashura	Asura
+j	馬酔木	ashibi	Pieris japonica: Japanese…
+j	麻糸	asaito	hemp yarn, hemp thread
+j	麻色	asairo	flax color (colour); flax…
+k	아사달	asadal	Asadal (the capital city …
+k	아사삭	asasak	'아삭'의 본말.
+k	아삼어	asameo	
+k	아서라	aseora	무엇을 그렇게 하지 말도록 명령하는 말.
+k	아성	aseong	아기(牙旗)를 세운 성이라는 뜻으로, 주장(主…
+k	아세톤	aseton	카보닐기에 메틸기 두 개가 결합된 구조의 화합…
+k	아쉬운	aswiun	'아쉽다'의 관형사형.
+k	아쉬움	aswium	regret; the disappointmen…
+k	아스키	aseuki	ASCII.
+k	아시리아	asiria	
+k	아시아의	asiaui	
+k	아시아인	asiain	Asian (person from Asia)
+k	아실기	asilgi	acyl
+k	아싸리	assari	rather; preferably; bette…
+k	아쓱	asseuk	
+e	as a rule	asarule	1 meaning
+e	as usual	asusual	1 meaning
+e	ascesis	ascesis	1 meaning
+e	ascetic	ascetic	1 meaning
+e	ascites	ascites	1 meaning
+e	asepsis	asepsis	2 meanings
+e	asexual	asexual	1 meaning
+e	ash tree	ashtree	1 meaning
+e	ashamed	ashamed	1 meaning
+e	ashtray	ashtray	1 meaning
+e	ashy tit	ashytit	1 meaning
+e	asinine	asinine	1 meaning
+e	askance	askance	2 meanings
+e	asphalt	asphalt	2 meanings
+e	aspirin	aspirin	1 meaning
+e	assault	assault	4 meanings
+e	assfuck	assfuck	1 meaning
+e	asshole	asshole	2 meanings
+e	assuage	assuage	1 meaning
+e	assyria	assyria	1 meaning
+e	astarte	astarte	1 meaning
+e	asterix	asterix	1 meaning
+e	astound	astound	1 meaning
+e	astraea	astraea	2 meanings
+e	astride	astride	1 meaning
+e	asunción	asuncin	1 meaning
+e	asunder	asunder	1 meaning
+j	あさいち	asaichi	(being the) first thing (…
+j	あさかぜ	asakaze	朝に吹く風。
+j	あさがた	asagata	朝方: morning
+j	あさきず	asakizu	軽い傷。
+j	あさぎり	asagiri	morning fog
+j	あさぐも	asagumo	朝に出てくる蜘蛛
+j	あさざけ	asazake	朝のうちに（朝から）酒を飲むこと。また、その酒。
+j	あさしお	asashio	朝に満ちる潮。
+j	あさぞら	asazora	朝方のさわやかな空。
+j	あさづま	asazuma	かつて、夜通って来た夫を朝帰るのを見送る妻。
+j	あさどり	asadori	harvesting that morning
+j	あさなぎ	asanagi	海岸で朝に陸風から海風に変わる際に一時、無風状態に…
+j	あさなわ	asanawa	麻の繊維をよりあわせて作った縄。
+j	あさぬの	asanuno	麻糸で織った布。
+j	あさはか	asahaka	思慮の足りないさま。
+j	あさはら	asahara	朝食前の空腹時。
+j	あさひこ	asahiko	synonym of あさひ (asahi, “r…
+j	あさみゆ	asamiyu	麻実油: hempseed oil
+j	あさもや	asamoya	morning mist
+j	あさやけ	asayake	日の出において、東の地平線に近い空が赤く見える現象…
+j	あしあと	ashiato	歩いたあとに残る足の形。
+j	あしうら	ashiura	足の裏。
+j	あしおと	ashioto	歩いたり走ったりして足が地面などに接触した際に出る…
+j	あしごい	ashigoi	よしごいの別称。
+j	あしなえ	ashinae	足が衰え、不自由になること。また、そのような人。
+j	あしへん	ashihen	「足偏」のひらがな表記。
+j	あしょうさん	ashosan	亜硝酸: nitrous acid
+j	あしらう	ashirau	treat, deal with
+j	あすなろ	asunaro	翌檜: hiba or false arborvi…
+j	あせだく	asedaku	dripping with sweat
+j	あせばむ	asebamu	じわじわと染み出るような汗を掻く。あせぐむ。
+j	あそこで	asokode	
+j	あそこに	asokoni	
+j	あそびば	asobiba	子供が遊ぶ場所。
+j	あそびめ	asobime	歌舞により人を楽しませる女性。
+j	アサムヌ	asamunu	
+j	アスカーブ	asukabu	アスファルトカーブの略。雨水を排水するために路肩に…
+j	アスガード	asugado	
+j	アスタナ	asutana	Astana (the capital city …
+j	アステカ	asuteka	Aztec
+j	アスナロ	asunaro	翌檜: hiba or false arborvi…
+j	アスパラ	asupara	
+j	アスポート	asupoto	物体を居ながらにしてどこかに送ったり跡形もなく消し…
+j	アスマラ	asumara	Asmara (the capital of Er…
+j	アスリート	asurito	athlete
+j	アセタール	asetaru	acetal
+j	アセテート	aseteto	酢酸塩または酢酸エステルの総称。
+j	アセロラ	aserora	acerola
+j	アースする	asusuru	
+j	アースダム	asudamu	土を台形に盛って築造したダム。土堰堤。
+j	アーセナル	asenaru	
+j	亜成虫	aseichu	subimago
+j	亜硝酸	ashosan	nitrous acid
+j	圧殺	assatsu	crushing to death
+j	圧縮	asshuku	compression
+j	朝チュン	asachun	twittering of birds in th…
+j	朝ドラ	asadora	朝の同じ時間帯に放送されるドラマ。特に、1961年…
+j	朝一	asaichi	朝の業務の開始直後。
+j	朝倉	asakura	Asakura (a city in Fukuok…
+j	朝型	asagata	
+j	朝寝坊	asanebo	oversleeping in the morni…
+j	朝山	asayama	a surname
+j	朝方	asagata	early morning
+j	朝日る	asahiru	to fabricate
+j	朝日奈	asahina	a surname
+j	朝比奈	asahina	a surname
+j	朝焼け	asayake	a morning glow; sunrise
+j	朝風呂	asaburo	morning bath; usually con…
+j	汗ばむ	asebamu	to be sweaty
+j	汗水	asemizu	profuse sweat
+j	浅はか	asahaka	careless, ill-advised, th…
+j	浅川	asakawa	a surname
+j	浅村	asamura	a surname
+j	浅沼	asanuma	a surname
+j	浅草	asakusa	Asakusa (a district of Ta…
+j	翌檜	asunaro	the hiba or false arborvi…
+j	足裏	ashiura	
+j	足跡	ashiato	footprint
+j	足音	ashioto	sound of footsteps
+j	遊ばす	asobasu	to make someone play
+j	遊び場	asobiba	playground
+j	麻の実	asanomi	
+j	麻倉	asakura	a surname
+j	麻実子	asamiko	a female given name
+j	麻実油	asamiyu	hempseed oil
+j	麻布	asanuno	cloth woven of hemp or ra…
+j	麻縄	asanawa	hempen rope
+k	아소마다	asomada	
+k	아수하다	asuhada	'아깝고 서운하다'의 북한말.
+k	아쉽다	aswipda	sad, sorry
+k	아스날	aseunal	
+k	아스라이	aseurai	toweringly, loftily
+k	아스스	aseuseu	차거나 싫은 것이 몸에 닿았을 때 약간 소름이…
+k	아스텍	aseutek	
+k	아스픽	aseupik	
+k	아시타비	asitabi	synonym of 내로남불 (naeronam…
+e	as long as	aslongas	1 meaning
+e	as soon as	assoonas	1 meaning
+e	asbestos	asbestos	1 meaning
+e	ascidian	ascidian	1 meaning
+e	ascii art	asciiart	1 meaning
+e	ascocarp	ascocarp	1 meaning
+e	ashgabat	ashgabat	1 meaning
+e	ashmiany	ashmiany	1 meaning
+e	ashtarak	ashtarak	1 meaning
+e	asian flu	asianflu	1 meaning
+e	aspirate	aspirate	1 meaning
+e	asplenia	asplenia	1 meaning
+e	assamese	assamese	1 meaning
+e	assassin	assassin	1 meaning
+e	assemble	assemble	2 meanings
+e	assembly	assembly	2 meanings
+e	assomada	assomada	1 meaning
+e	asspussy	asspussy	1 meaning
+e	astatine	astatine	1 meaning
+e	asterisk	asterisk	1 meaning
+e	asterism	asterism	4 meanings
+e	asteroid	asteroid	1 meaning
+e	astonish	astonish	1 meaning
+e	astraeus	astraeus	1 meaning
+e	asturian	asturian	1 meaning
+e	astyanax	astyanax	1 meaning
+j	あさかつ	asakatsu	morning activities that f…
+j	あさがえり	asagaeri	returning in the morning …
+j	あさぐろい	asaguroi	（肌などが）少し黒いさま。
+j	あさごはん	asagohan	「朝御飯」のひらがな表記。
+j	あさしも	asashimo	朝に降りている霜。朝（あした）の霜。あさじも。
+j	あさだち	asadachi	朝に家を出ること。
+j	あさっぱら	asappara	朝早く。
+j	あさつき	asatsuki	ヒガンバナ科ネギ属の多年草。山野に自生し、食用にも…
+j	あさつゆ	asatsuyu	朝早くに草葉などに降りた露。
+j	あさめし	asameshi	朝にとる食事。
+j	あしかせ	ashikase	罪人の足にはめて足の自由にさせないようにする刑具。
+j	あしがる	ashigaru	足取りが軽快であること。
+j	あしきり	ashikiri	preliminary elimination o…
+j	あしぎぬ	ashiginu	太い糸で織った粗末な絹布。太絹。
+j	あしくせ	ashikuse	足の癖。
+j	あしくび	ashikubi	足と脚が接するところの関節。
+j	あしぐせ	ashiguse	足の癖。
+j	あしこき	ashikoki	他人の男性器を足の裏や指などで刺激すること。
+j	あしさき	ashisaki	足の先の方。足の甲から見て前半分。
+j	あしざま	ashizama	悪いように見たり扱ったりすること。
+j	あしたば	ashitaba	セリ科の多年草。海岸近く、特に八丈島などで食用の若…
+j	あしだて	ashidate	爪先立ちで歩くこと。
+j	あしとり	ashitori	相手の足を両手で抱え、倒したり土俵から出したりする…
+j	あしどり	ashidori	歩行の足付き。
+j	あしなみ	ashinami	行進などの足の揃い具合。
+j	あしはら	ashihara	葦が生い茂る原。
+j	あしばや	ashibaya	歩くのが速いさま。
+j	あしぶみ	ashibumi	stamping one's feet
+j	あしまめ	ashimame	めんどくさからず気軽に出て歩くさま。また、そのよう…
+j	あしもと	ashimoto	足があるあたり。
+j	あしゆび	ashiyubi	足の指。
+j	あしわざ	ashiwaza	足芸。
+j	あしわら	ashiwara	葦が生い茂る原。
+j	あせっかき	asekkaki	a heavy sweater, a person…
+j	あそびうた	asobiuta	毬つきや縄跳びなどこどもが遊ぶ時に歌う歌。
+j	あそびにん	asobinin	遊び人: playboy, gambler, fr…
+j	アサイラム	asairamu	
+j	アシスト	ashisuto	assistance, help
+j	アシル基	ashiruki	acyl
+j	アスキーアート	asukiato	text art; Shift_JIS art; …
+j	アストリア	asutoria	Astoria (a city in Oregon…
+j	アストレア	asutorea	Astraea, the Greek goddes…
+j	アスピック	asupikku	aspic
+j	アスピリン	asupirin	aspirin
+j	アセンブラ	asenbura	assembler
+j	アセンブリー	asenburi	組立部品、組立。
+j	アッサム語	assamugo	インドのアッサム州などで話されている、インド・ヨー…
+j	アッシリア	asshiria	Assyria (an ancient Semit…
+j	アッシー君	asshikun	man who is entrusted with…
+j	圧制者	asseisha	
+j	圧搾機	assakuki	press; a device used to s…
+j	悪し様	ashizama	unfavourable
+j	朝ご飯	asagohan	breakfast
+j	朝っぱら	asappara	early morning
+j	朝の会	asanokai	in elementary school: pre…
+j	朝妻	asatsuma	a surname
+j	朝御飯	asagohan	朝に食べる食事。
+j	朝活	asakatsu	朝の早い時間帯に、勉強や運動などの何らかの有意義な…
+j	朝立ち	asadachi	
+j	朝課外	asakagai	その日の最初の授業が始まる前に行われる補習。
+j	朝露	asatsuyu	morning dew
+j	朝飯	asameshi	breakfast
+j	汗をかく	aseokaku	to sweat
+j	汗臭い	asekusai	stinking of sweat
+j	浅沓	asagutsu	shallow shoes made of bla…
+j	浅茅生の	asajiuno	allusion to 小野 (wono → on…
+j	浅黒い	asaguroi	dark-skinned, swarthy
+j	絁	ashiginu	
+j	芦原	ashihara	a surname
+j	葦原	ashihara	a reed bed
+j	足の甲	ashinoko	足を地面に置いた時、上側の部分。
+j	足コキ	ashikoki	foot job (sexual act)
+j	足下	ashimoto	a location at one's feet,…
+j	足並み	ashinami	
+j	足利	ashikaga	Ashikaga (a city in Tochi…
+j	足取り	ashidori	gait
+j	足忠実	ashimame	good or tireless walker
+j	足指	ashiyubi	synonym of 足の指 (ashi no y…
+j	足早	ashibaya	brisk, swift-footed, fast…
+j	足枷	ashikase	shackles, fetters, leg ir…
+j	足柄	ashigara	a mountain in Kanagawa Pr…
+j	足軽	ashigaru	an ashigaru, a type of fo…
+j	足首	ashikubi	ankle
+j	趾	ashiyubi	（あしゆび）鳥類などの後肢の指。
+j	遊び人	asobinin	playboy
+j	阿仙薬	asenyaku	gambier (aqueous extract …
+j	阿仙藥	asenyaku	
+k	아사이베리	asaiberi	
+k	아사이야자	asaiyaja	
+k	아삭아삭	asagasak	
+k	아삭하다	asakhada	
+k	아서 왕	aseowang	
+k	아순시온	asunsion	Asunción (the capital of …
+k	아스널	aseuneol	
+k	아스마라	aseumara	Asmara (the capital city …
+k	아스타나	aseutana	Astana (the capital of Ka…
+k	아스테카	aseuteka	
+k	아승기	aseunggi	숫자 10⁵⁶. (부록: 한국어 수사)
+k	아시량	asiryang	아라가야.
+k	아시먀니	asimyani	
+k	아시아사자	asiasaja	
+k	아심아심	asimasim	
+e	as a result	asaresult	1 meaning
+e	as you know	asyouknow	1 meaning
+e	as you like	asyoulike	1 meaning
+e	ascertain	ascertain	1 meaning
+e	asclepius	asclepius	1 meaning
+e	asia minor	asiaminor	1 meaning
+e	asian dust	asiandust	1 meaning
+e	asian lion	asianlion	1 meaning
+e	asparagus	asparagus	2 meanings
+e	aspartame	aspartame	1 meaning
+e	aspirated	aspirated	1 meaning
+e	ass-licker	asslicker	1 meaning
+e	assailant	assailant	1 meaning
+e	assembler	assembler	1 meaning
+e	assertion	assertion	2 meanings
+e	assiduous	assiduous	1 meaning
+e	assistant	assistant	2 meanings
+e	associate	associate	11 meanings
+e	assonance	assonance	1 meaning
+e	astrakhan	astrakhan	1 meaning
+e	astrocyte	astrocyte	1 meaning
+e	astrolabe	astrolabe	1 meaning
+e	astrology	astrology	1 meaning
+e	astronaut	astronaut	1 meaning
+e	astronomy	astronomy	1 meaning
+e	asymmetry	asymmetry	1 meaning
+e	asymptote	asymptote	1 meaning
+j	あさがすみ	asagasumi	朝に立つ霞。
+j	あさひばり	asahibari	朝に飛び回るひばり。
+j	あさぶくろ	asabukuro	麻の繊維を編んで作られた袋。数十キロの穀物を入れて…
+j	あさぼらけ	asaborake	dawn
+j	あさましい	asamashii	品性が低い。卑しい。下劣だ。
+j	あしこし	ashikoshi	足と腰。下半身。
+j	あしだち	ashidachi	人馬の足場となる場所。
+j	あしつき	ashitsuki	歩く際の格好や様子。あしどり。
+j	あしつぼ	ashitsubo	sole of the foot
+j	あしのうら	ashinoura	足の裏: sole of the foot
+j	あそびびと	asobibito	宮中で雅楽などを演奏する人。
+j	アシツキ	ashitsuki	ネンジュモ目ネンジュモ科ネンジュモ属に属する藻類の…
+j	アスガルズ	asugaruzu	
+j	アスガルト	asugaruto	
+j	アスガルド	asugarudo	
+j	アスタチン	asutachin	astatine
+j	アスタルテ	asutarute	
+j	アストリヤ	asutoriya	Astoria (a city in Oregon…
+j	アスファルト	asufaruto	asphalt
+j	アスベスト	asubesuto	asbestos
+j	アスペクト	asupekuto	
+j	アスペリティ	asuperiti	荒々しさ。
+j	アスンシオン	asunshion	Asunción (the capital of …
+j	アセチレン	asechiren	acetylene
+j	アースガルズ	asugaruzu	Asgard
+j	アースガルド	asugarudo	
+j	圧縮機	asshukuki	compressor
+j	旭川	asahikawa	a city in Hokkaido Prefec…
+j	朝早く	asahayaku	early in the morning
+j	朝霞	asagasumi	morning mist, haze
+j	汗だくの	asedakuno	
+j	汗塗れ	asemamire	drenched in sweat
+j	浅ましい	asamashii	miserable, abject
+j	芦別	ashibetsu	Ashibetsu (a city in Sora…
+j	足で押す	ashideosu	
+j	足の裏	ashinoura	sole of the foot
+j	足を洗う	ashioarau	go straight, quit a shady…
+j	足を組む	ashiokumu	
+j	遊び物	asobimono	
+j	遊び紙	asobigami	
+j	遊び道具	asobidogu	
+j	遏止	asshisuru	to hold back; to check; t…
+j	麻ミルク	asamiruku	
+j	麻袋	asabukuro	gunny sack
+k	아삭대다	asakdaeda	'아삭거리다'.
+k	아삭바삭	asakbasak	
+k	아세테이트	aseteiteu	아세트산에서 파생된 물질.
+k	아세트산	aseteusan	
+k	아수라장	asurajang	싸움판 또는 무질서한 곳.
+k	아쉬타락	aswitalag	
+k	아스타틴	aseutatin	astatine (the chemical el…
+k	아스피린	aseupirin	aspirin
+k	아슬하다	aseulhada	
+k	아슴푸레	aseumpure	
+k	아시리아학	asiriahak	
+k	아시안 게임	asiangeim	
+k	아시안게임	asiangeim	'아시아경기대회'.
+k	아싹하다	assakhada	
+e	ascendancy	ascendancy	1 meaning
+e	asceticism	asceticism	1 meaning
+e	asexuality	asexuality	1 meaning
+e	asian games	asiangames	1 meaning
+e	asian squat	asiansquat	1 meaning
+e	asipovichy	asipovichy	1 meaning
+e	asparagine	asparagine	1 meaning
+e	aspiration	aspiration	3 meanings
+e	assessment	assessment	1 meaning
+e	assignment	assignment	3 meanings
+e	assimilate	assimilate	1 meaning
+e	assistance	assistance	1 meaning
+e	assortment	assortment	1 meaning
+e	astigmatic	astigmatic	1 meaning
+e	astonished	astonished	1 meaning
+e	astravyets	astravyets	1 meaning
+e	astringent	astringent	3 meanings
+e	astrologer	astrologer	1 meaning
+e	astronomer	astronomer	1 meaning
+e	asymmetric	asymmetric	1 meaning
+e	asymptotic	asymptotic	1 meaning
+j	あさかんむり	asakanmuri	漢字の部首「⿇」の呼称の一つ。
+j	あしからず	ashikarazu	unfortunately
+j	あしがかり	ashigakari	高所へ上がる時や足を踏み立てる時の足場。
+j	あしまわり	ashimawari	足元。
+j	あしやすめ	ashiyasume	（長距離を歩いたりして）疲れた足を休めること。
+j	アシガバート	ashigabato	Ashgabat (the capital of …
+j	アステロイド	asuteroido	小惑星。
+j	アストゥリアス	asutoriasu	スペインにある自治州の一つ。「アストゥリアス州」を…
+j	アストゥリア語	asuturiago	Asturian language
+j	アストラカン	asutorakan	ロシア連邦アストラハン州で産する羊の胎児または出産…
+j	アストラハン	asutorahan	Astrakhan (a city, the ad…
+j	アスパラギン	asuparagin	asparagine
+j	アセクシャル	asekusharu	他者に対して恋愛感情や性的欲求などを抱かない、また…
+j	アセスメント	asesumento	assessment
+j	アセチル化	asechiruka	
+j	アセトアミド	asetoamido	
+j	アセナフテン	asenafuten	acenaphthene
+j	アセノスフェア	asenosufea	asthenosphere
+j	アセンション島	asenshonto	Ascension Island (an isla…
+j	アソシエイト	asoshieito	colleague
+j	圧搾空気	assakukuki	
+j	朝一番	asaichiban	first thing in the morning
+j	浅浮き彫り	asaukibori	
+j	足の指	ashinoyubi	toe
+j	足を組んだ	ashiokunda	
+j	足休め	ashiyasume	resting one's tired feet
+j	足元に	ashimotoni	
+j	足回り	ashimawari	area around a person's fe…
+j	足引きの	ashihikino	a pillow word of uncertai…
+j	足搦み	ashigarami	
+j	飛鳥時代	asukajidai	Asuka Period
+k	아사삭하다	asasakhada	
+k	아수룩하다	asurukhada	
+k	아쉬어하다	aswieohada	
+k	아쉬워하다	aswiwohada	
+k	아스라하다	aseurahada	towering, lofty; distant,…
+k	아스키 아트	aseukiateu	
+k	아스팔트	aseupalteu	asphalt
+k	아슥아슥	aseugaseuk	
+k	아슬아슬	aseuraseul	
+k	아시포비치	asipobichi	
+k	아심탢다	asimtaenta	
+k	아싹대다	assakdaeda	'아싹거리다'.
+k	아싹아싹	assagassak	
+k	아쑨씨온	assunssion	파라과이의 수도 이름 '아순시온'의 북한말.
+k	아쓱하다	asseukhada	
+e	a-sharp major	asharpmajor	1 meaning
+e	a-sharp minor	asharpminor	1 meaning
+e	as opposed to	asopposedto	1 meaning
+e	ashy minivet	ashyminivet	1 meaning
+e	asia-pacific	asiapacific	1 meaning
+e	asking price	askingprice	1 meaning
+e	aspect ratio	aspectratio	2 meanings
+e	aspergillus	aspergillus	1 meaning
+e	assassinate	assassinate	1 meaning
+e	association	association	2 meanings
+e	assyriology	assyriology	1 meaning
+e	astigmatism	astigmatism	2 meanings
+j	あさぎまだら	asagimadara	チョウ目タテハチョウ科アサギマダラ属に属する蝶の一…
+j	あさくさでら	asakusadera	浅草寺: colloquial name of S…
+j	あさめしまえ	asameshimae	朝の食事をする前。
+j	あしがはやい	ashigahayai	走るまたは歩くことによる移動に要する時間が少ない。
+j	あししげく	ashishigeku	going frequently
+j	あしてまとい	ashitematoi	足や手に纏わりつき行動などの自由の妨げになること。…
+j	あしでまとい	ashidematoi	足や手に纏わりつき行動などの自由の妨げになること。…
+j	あそびごころ	asobigokoro	遊びたいという気持ち。
+j	あそびをとる	asobiwotoru	
+j	アサ神族	asashinzoku	
+j	アシガバット	ashigabatto	トルクメニスタンの首都。
+j	アシスタンス	ashisutansu	補助。支援。
+j	アシスタント	ashisutanto	an assistant (person who …
+j	アシドーシス	ashidoshisu	acidosis
+j	アシンメトリー	ashinmetori	
+j	アスタリスク	asutarisuku	an asterisk (symbol used …
+j	アステリスク	asuterisuku	アスタリスクの別表記。
+j	アステリズム	asuterizumu	
+j	アストロターフ	asutorotafu	AstroTurf
+j	アストロノマー	asutoronoma	天文学者。
+j	アストロノミー	asutoronomi	天文学。
+j	アストロノート	asutoronoto	宇宙飛行士。
+j	アストロラーベ	asutororabe	
+j	アスパラガス	asuparagasu	asparagus
+j	アスパルテーム	asuparutemu	アスパラギン酸とフェニルアラニンとを合成してつくる…
+j	アスプコブラ	asupukobura	
+j	アスペクト比	asupekutohi	an aspect ratio
+j	アスレチック	asurechikku	athletics, athletic activ…
+j	アソシエーション	asoshieshon	共通の目的、関心をもつ複数の人により自発的に作られ…
+j	アッシリア学	assiriagaku	
+j	アース神族	asushinzoku	
+j	圧縮する	asshukusuru	
+j	圧縮空気	asshukukuki	compressed air
+j	明日は我が身	asuwawagami	Misfortunes can happen to…
+j	朝飯前	asameshimae	A piece of cake; an extre…
+j	脚摩乳	ashinazuchi	son of 大山祇 (Ōyamatsumi), …
+j	足の悪い	ashinowarui	
+j	足の長い	ashinonagai	
+j	足を伸ばす	ashionobasu	to stretch one's legs out
+j	足を運ぶ	ashiohakobu	go
+j	足手まとい	ashitematoi	burden, impediment
+j	足治療医	ashichiryoi	
+j	足白癬	ashihakusen	athlete's foot
+j	足載せ台	ashinosedai	
+j	遊び心	asobigokoro	playfulness, playful spir…
+k	아사삭대다	asasakdaeda	'아삭대다'의 준말.
+k	아삭거리다	asakgeorida	연하고 싱싱한 과일이나 채소 따위를 베어 무는…
+k	아세나프텐	asenapeuten	acenaphthene
+k	아슈케나짐	asyukenajim	유럽에 거주하는 유대인. 미국, 이스라엘에도 …
+k	아슈하바트	asyuhabateu	투르크메니스탄의 수도.
+k	아스러지다	aseureojida	
+k	아스스하다	aseuseuhada	
+k	아스키코드	aseukikodeu	미국에서 정보 교환용으로 만든 표준 부호 체계.
+k	아스트라이아	aseuteuraia	
+k	아스하바트	aseuhabateu	Ashgabat (the capital cit…
+k	아시량국	asiryangguk	아라가야.
+k	아시아코끼리	asiakokkiri	코끼릿과에 속하는 동물 중 하나. 학명은 El…
+e	ascension day	ascensionday	1 meaning
+e	ascorbic acid	ascorbicacid	1 meaning
+e	ash wednesday	ashwednesday	1 meaning
+e	asianization	asianization	1 meaning
+e	aspartic acid	asparticacid	1 meaning
+e	assault rifle	assaultrifle	1 meaning
+e	assembly line	assemblyline	1 meaning
+e	asseveration	asseveration	1 meaning
+e	assimilation	assimilation	3 meanings
+e	asteroid belt	asteroidbelt	1 meaning
+e	astonishment	astonishment	1 meaning
+e	astronomical	astronomical	2 meanings
+e	astrophysics	astrophysics	1 meaning
+e	asylum seeker	asylumseeker	1 meaning
+e	asymmetrical	asymmetrical	1 meaning
+e	asymptomatic	asymptomatic	1 meaning
+e	asynchronous	asynchronous	1 meaning
+j	あさのみあぶら	asanomiabura	麻の実からとる油。食用や塗料の原料に使用される。大…
+j	あしだかぐも	ashidakagumo	クモ目アシダカグモ科アシダカグモ属に属する蜘蛛の一…
+j	あしながぐも	ashinagagumo	クモ目アシナガグモ科アシナガグモ属に属する蜘蛛の総…
+j	あっしつぶす	asshitsubusu	押し潰す。
+j	アシクロビル	ashikurobiru	
+j	アシストする	ashisutosuru	
+j	アシダカグモ	ashidakagumo	クモ目アシダカグモ科アシダカグモ属に属するくもの一…
+j	アシナガグモ	ashinagagumo	クモ目アシナガグモ科アシナガグモ属に属するくもの一…
+j	アスクレーピオス	asukurepiosu	
+j	アステリックス	asuterikkusu	
+j	アストロサイト	asutorosaito	
+j	アスピドケロン	asupidokeron	
+j	アセティシズム	asetishizumu	asceticism
+j	ア式蹴球	ashikishukyu	synonym of サッカー (sakkā, “…
+j	亜酸化窒素	asankachisso	nitrous oxide
+j	証の箱	ashikanohako	
+j	足がすくむ	ashigasukumu	to be unable to move (fro…
+j	足を引っ張る	ashiohipparu	stand in the way, hold ba…
+j	足柄上	ashigarakami	a district of Kanagawa Pr…
+j	阿閦如来	ashukunyorai	Akṣobhya as the Eastern B…
+k	아사삭아사삭	asasagasasak	'아삭아삭'의 본말.
+k	아사히까와 시	asahikkawasi	홋카이도의 도시 '아사히카와 시'을 일컫는 북…
+k	아삭아삭하다	asagasakhada	
+k	아생홀씨	asaengholssi	
+k	아수쿠러하다	asukureohada	
+k	아슈가바뜨	asyugabatteu	투르크메니스탄의 수도 이름 '아슈하바트'의 북…
+k	아스가르드	aseugareudeu	
+k	아스테릭스	aseuterikseu	
+k	아스트라한	aseuteurahan	러시아 서쪽에 위치한 도시. 아스트라한 주의 …
+k	아슬랑이다	aseullangida	
+k	아슴채이다	aseumchaeida	to be thankful
+k	아슴턚다	aseumtyaenta	(to be) thankful
+k	아시클로버	asikeullobeo	
+k	아심아심하다	asimasimhada	
+k	아심턔닣다	asimtyaenita	to be thankful for a favo…
+k	아싹거리다	assakgeorida	연하고 싱싱한 과일이나 채소 따위를 보드랍게 …
+e	asian elephant	asianelephant	1 meaning
+e	asian swamp eel	asianswampeel	1 meaning
+e	aspidochelone	aspidochelone	1 meaning
+e	assassination	assassination	1 meaning
+e	associativity	associativity	2 meanings
+j	あしながばち	ashinagabachi	スズメバチ科アシナガバチ亜科に属するはちの総称。学…
+j	アシナガシギ	ashinagashigi	
+j	アシナガワシ	ashinagawashi	
+j	アスコルビン酸	asukorubinsan	
+j	アストゥリアス人	asutoriasujin	スペインの主要民族の一つ。ラテン人の一派。
+j	アスパラギン酸	asuparaginsan	aspartic acid
+j	アスペルギルス	asuperugirusu	aspergillus
+j	アスレチックス	asurechikkusu	運動競技。
+j	アセチルコリン	asechirukorin	acetylcholine
+j	アセトアミノフェン	asetoaminofen	
+j	アセトニトリル	asetonitoriru	
+j	アセンブリー言語	asenburigengo	
+j	脚の付け根	ashinotsukene	
+j	足を引きずる	ashiohikizuru	
+j	足利時代	ashikagajidai	足利家が政権を担っていた室町時代のこと。
+j	足垂れ星	ashitareboshi	Tail
+j	足柄下	ashigarashimo	a district of Kanagawa Pr…
+j	遊び興じる	asobikyoujiru	
+k	아사삭거리다	asasakgeorida	'아삭거리다'의 본말.
+k	아삭바삭하다	asakbasakhada	
+k	아스콜빅산	aseukolbiksan	ascorbic acid
+k	아스티아낙스	aseutianakseu	
+k	아슬아슬한	aseuraseulhan	
+k	아슴푸레하다	aseumpurehada	
+e	asian black bear	asianblackbear	1 meaning
+e	astaghfirullah	astaghfirullah	1 meaning
+j	アサルトライフル	asarutoraifuru	an assault rifle
+j	アスタグフィルッラー	asutagufirurra	astaghfirullah
+j	アセチルアセトン	asechiruaseton	
+j	アセトアルデヒド	asetoarudehido	
+j	朝から晩まで	asakarabanmade	all day
+j	足の不自由な	ashinofujiyuna	
+j	足利幕府	ashikagabakufu	室町幕府の別名。
+j	足長おじさん	ashinagaojisan	
+k	아세트아미노펜	aseteuaminopen	
+k	아스러트리다	aseureoteurida	'아스러뜨리다'.
+k	아스투리아스어	aseuturiaseueo	
+k	아스트라베츠	aseuteurabechu	
+k	아스트라이오스	aseuteuraioseu	
+k	아스트롤라베	aseuteurollabe	
+k	아스파라거스	aseuparageoseu	asparagus
+k	아슥아슥하다	aseugaseukhada	
+k	아슬랑대다	aseullangdaeda	'아슬랑거리다'.
+k	아슬아슬하다	aseuraseulhada	
+k	아시안 스쿼트	asianseukwoteu	
+k	아싹아싹하다	assagassakhada	
+e	as a matter of fact	asamatteroffact	1 meaning
+e	as far as one knows	asfarasoneknows	1 meaning
+e	as the saying goes	asthesayinggoes	1 meaning
+e	ascension island	ascensionisland	1 meaning
+e	asian conical hat	asianconicalhat	1 meaning
+j	アシボソハイタカ	ashibosohaitaka	
+j	アシレボ・メッセージ	ashirebomesseji	
+j	アストゥリアス王国	asutoriasuokoku	イベリア半島に518年から924年まで存在した国家。
+j	アスファルト舗装路	asufarutohosoro	
+j	アスベストクロス	asubesutokurosu	石綿を麻苧に混ぜて織った不燃性の布。火浣布。
+j	明日を夢見て	ashitaoyumemite	
+j	足利尊氏	ashikagatakauji	鎌倉時代後期から室町時代初期（1305年（嘉元11…
+k	아세트알데히드	aseteualdehideu	
+k	아스러뜨리다	aseureotteurida	덩어리를 깨뜨려 조각조각 바스러지게 하다.
+k	아스코르브산	aseukoreubeusan	
+e	as much as possible	asmuchaspossible	1 meaning
+e	as soon as possible	assoonaspossible	1 meaning
+e	asian giant hornet	asiangianthornet	1 meaning
+e	asiatic golden cat	asiaticgoldencat	1 meaning
+e	asiatic pennywort	asiaticpennywort	1 meaning
+e	assembly language	assemblylanguage	1 meaning
+e	associate's degree	associatesdegree	1 meaning
+e	associative array	associativearray	1 meaning
+e	astrological sign	astrologicalsign	1 meaning
+e	astronomical unit	astronomicalunit	1 meaning
+e	astrophotography	astrophotography	1 meaning
+j	アシスタントドッグ	ashisutantodoggu	
+j	アステロイドベルト	asuteroidoberuto	
+j	アスファルトルーフィング	asufarutorufingu	
+j	アッサムせたかがめ	assamusetakagame	Assam roofed turtle, Pang…
+j	アッサラーム・アライクム	assaramuaraikumu	salaam alaikum, assalamu …
+j	アッサラーム・アレイクム	assaramuareikumu	
+k	아사삭아사삭하다	asasagasasakhada	'아삭아삭하다'의 본말.
+k	아스클레피오스	aseukeullepioseu	
+k	아슬랑거리다	aseullanggeorida	몸집이 작은 사람이나 짐승이 몸을 흔들며 계속…
+e	asperger's syndrome	aspergerssyndrome	1 meaning
+e	asymmetric warfare	asymmetricwarfare	1 meaning
+j	アスペルガー症候群	asuperugashokogun	Asperger's syndrome
+j	圧縮天然ガス	asshukutennengasu	
+j	朝飯前のこと	asameshimaenokoto	
+j	足利義政	ashikagayoshimasa	室町時代（1436年（永享8年） ‐ 1490年（…
+j	足利義教	ashikagayoshinori	鎌倉時代後期から室町時代初期（1394年（応永元年…
+k	아쉽게도 아닙니다	aswipgedoanimnida	
+e	asian desert warbler	asiandesertwarbler	1 meaning
+e	associate professor	associateprofessor	1 meaning
+j	アッシリア東方教会	asshiriatohokyokai	ネストリウス派から発展したキリスト教の宗派。
+j	足利義満	ashikagayoshimitsu	鎌倉時代後期から室町時代初期（1358年（延文3年…
+k	아슬랑아슬랑	aseullangaseullang	
+k	아시아경기대회	asiagyeonggidaehoe	아시아에서 개최되는 경기대회.
+e	as far as the eye can see	asfarastheeyecansee	1 meaning
+e	as quickly as possible	asquicklyaspossible	1 meaning
+e	asexual reproduction	asexualreproduction	1 meaning
+j	アシスタントディレクター	ashisutantodirekuta	an assistant director
+e	asian brown flycatcher	asianbrownflycatcher	1 meaning
+j	アセチルサリチルさん	asechirusarichirusan	アセチルサリチル酸: acetylsalicyli…
+j	アセチルサリチル酸	asechirusarichirusan	acetylsalicylic acid
+j	アソシエーションフットボール	asoshieshonfuttoboru	サッカー。ア式蹴球。
+j	アソシエーション・フットボール	asoshieshonfuttoboru	synonym of サッカー (sakkā, “…
+k	아스퍼거 증후군	aseupeogeojeunghugun	
+k	아시아황금고양이	asiahwanggeumgoyangi	
+j	あしはらのなかつくに	ashiharanonakatsukuni	日本の雅称。
+j	葦原の中つ国	ashiharanonakatsukuni	the realm of mortals, i.e…
+e	a stitch in time saves nine	astitchintimesavesnine	1 meaning
+e	as you sow, so shall you reap	asyousowsoshallyoureap	1 meaning
+j	アセチレン系炭化水素	asechirenkeitankasuiso	alkyne
+k	아슬랑아슬랑하다	aseullangaseullanghada	
+j	明日の百より今日の五十	asunohyakuyorikyonogoju	a bird in the hand is wor…
+j	朝題目に宵念仏	asadaimokuniyoinenbutsu	changing sides frequently…
+j	飛鳥浄御原宮	asukanokiyomiharanomiya	the late-7th-century pala…
+j	飛鳥浄御原律令	asukakiyomihararitsuryo	the late-7th-century 律令 c…
+k	아시아 태평양 지역	asiataepyeongyangjiyeok	
+e	asynchronous transfer mode	asynchronoustransfermode	1 meaning
+k	아세틸콜린에스터레이스	asetilkollineseuteoreiseu	
+j	明日は明日の風が吹く	ashitawaashitanokazegafuku	
+j	アスピリンにアレルギーを持っています	asupirinniarerugiomotteimasu	
+k	아스피린에 알레르기가 있습니다	aseupirineallereugigaitseumnida	
+k	아시아 태평양 경제협력체	asiataepyeongyanggyeongjehyeomnyeokche	
+j	朝に道を聞かば夕べに死すとも可なり	ashitanimichiokikabayubenishisutomokanari	one has not lived in vain…

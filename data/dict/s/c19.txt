@@ -1,0 +1,1610 @@
+j	体	体	counter for humanoid obje…
+j	卓	卓	table, desk
+j	啓	啓	a male given name
+j	圓	圓	
+j	垓	垓	10²⁰, (short scale) one h…
+j	墓	墓	a grave, a tomb
+j	妓	妓	female entertainer
+j	姓	姓	a clan
+j	寓	寓	（グウ）仮住まい。
+j	弓	弓	a bow, a bow shape
+j	当	当	this (business or place)
+j	従	従	"junior" ranking for 位 (-…
+j	憓	憓	
+j	打	打	（ダ）野球などで、ボールを打つこと。
+j	拓	拓	a male given name
+j	撓	撓	（たわ）峰と峰の間の尾根の最も低い地点。麓から見る…
+j	易	易	divination; fortune-telli…
+j	杓	杓	ladle, dipper
+j	栓	栓	stopper; cork; bung; plug
+j	梓	梓	synonym of 夜糞峰榛 (yoguso m…
+j	楓	楓	maple tree
+j	槓	槓	for a 明槓 (minkan, “open k…
+j	櫓	櫓	watchtower, turret
+j	歓	歓	joy, delight, pleasure
+j	氓	氓	people; subjects
+j	滓	滓	dregs; refuse; scum
+j	窓	窓	window
+j	簓	簓	a bamboo whisk
+j	纓	纓	the tail of a 冠 (kanmuri,…
+j	腓	腓	calf
+j	莓	莓	
+j	菓	菓	fruit
+j	蔓	蔓	vine
+j	術	術	technique
+j	褓	褓	diaper
+j	訓	訓	kun'yomi
+j	誓	誓	an "oath", a ritual in wh…
+j	貓	貓	（ねこ、ネコ）ネコ科を構成する小型の哺乳類で、犬と…
+j	道	道	Tao (the way of nature), …
+j	鑓	鑓	
+j	間	間	space, interval; among, b…
+j	韓	韓	Korea (now especially Sou…
+j	餓	餓	hungry; hunger
+j	験	験	effect, efficacy
+j	鰓	鰓	gill (breathing organ of …
+j	鱓	鱓	a moray eel
+j	麓	麓	（ふもと）山を取り巻く、平野から登り口となる地域。…
+j	鼓	鼓	generic name for musical …
+k	간	間	for
+k	궁	弓	house, residence
+k	노	櫓	string, cord (twisted hem…
+k	답	畓	answer, reply
+k	당	当	justice
+k	도	道	province (in both Koreas)
+k	로	櫓	furnace
+k	모	墓	protrusion
+k	묘	墓	grave (of a person)
+k	벽	甓	wall
+k	보	褓	step
+k	성	姓	anger, rage, wrath
+k	수	髓	way, means, possibility, …
+k	원	圓	won; the official currenc…
+k	창	窓	window
+k	체	体	physical body; (by extens…
+k	타	打	others, other people
+k	풍	楓	manner, atmosphere
+k	한	韓	one (as a determiner nume…
+k	해	垓	the Sun
+k	훈	訓	hun; the meaning of a han…
+j	体中	体中	throughout the body, from…
+j	体位	体位	physique
+j	体内	体内	the inside of the body; t…
+j	体刑	体刑	身体に直接苦痛を加える刑罰。身体刑。
+j	体制	体制	system
+j	体力	体力	bodily strength; physical…
+j	体勢	体勢	posture
+j	体型	体型	figure, type of build (bo…
+j	体外	体外	outside of the body
+j	体大	体大	体育大学の略。
+j	体幹	体幹	trunk (of a body); soma
+j	体形	体形	form, shape
+j	体得	体得	acquiring knowledge
+j	体感	体感	feeling in the body
+j	体技	体技	柔道・相撲・レスリング・ボクシングなど、肉体がぶつ…
+j	体操	体操	gymnastics, exercises, ca…
+j	体格	体格	body shape (of a person)
+j	体様	体様	「態様」の別表記。
+j	体毛	体毛	body hair
+j	体液	体液	bodily fluid, biological …
+j	体温	体温	body temperature
+j	体熱	体熱	生体が発する身体の熱。
+j	体状	体状	形。姿。有り様。
+j	体現	体現	抽象的な事柄を具体的な形として表すこと。
+j	体環	体環	蛭の仲間の体表に見られる環状の筋。
+j	体用	体用	Essence-Function; Substan…
+j	体癌	体癌	「子宮体癌」の略。
+j	体積	体積	volume, capacity
+j	体節	体節	環形動物、節足動物などに見られる、体軸方向の繰り返…
+j	体系	体系	system
+j	体練	体練	体を鍛練すること。
+j	体罰	体罰	corporal punishment
+j	体育	体育	physical education
+j	体腔	体腔	動物の体壁の内部と内臓との間にある隙間。
+j	体臭	体臭	body odour
+j	体色	体色	生物の体の表面の色。
+j	体菜	体菜	synonym of 青梗菜 (“bok choy…
+j	体術	体術	a blanket term for variou…
+j	体表	体表	the surface of a body
+j	体裁	体裁	form, style
+j	体解	体解	肢解の刑罰。
+j	体言	体言	a Japanese or Korean word…
+j	体認	体認	実際に自分で経験して重要性などを理解すること。
+j	体読	体読	文字で表された意味以上にその意味を会得して読むこと。
+j	体調	体調	a person's physical condi…
+j	体貌	体貌	姿と顔だち。
+j	体質	体質	disposition of the body; …
+j	体躯	体躯	body; physique; build; st…
+j	体配	体配	刀などを身につけること。また、その姿。
+j	体重	体重	body weight
+j	体量	体量	身体の重量。体重。
+j	体錬	体錬	「体練」の別表記。
+j	体長	体長	the length of an animal
+j	体面	体面	honor; reputation; public…
+j	体養	体養	caring of the body
+j	体験	体験	experience
+j	体高	体高	height (of a being)
+j	偓促	偓促	「齷齪」に同じ。
+j	儓儗	儓儗	愚鈍なさま。
+j	刓断	刓断	磨り減ること。
+j	刓鈍	刓鈍	磨損すること。
+j	劓刑	劓刑	古代中国の五刑の一つ。罪人の鼻を削ぎ落とす刑罰。
+j	劓刵	劓刵	古代中国で鼻や耳をそぐこと。
+j	劓墨	劓墨	鼻を削ぐ刑と入れ墨をする刑こと。
+j	劓馘	劓馘	古代中国で鼻や耳をそぐこと。
+j	卓丈	卓丈	a male given name
+j	卓三	卓三	a male given name
+j	卓上	卓上	机やテーブルの上。「卓上カレンダー」
+j	卓也	卓也	a male given name
+j	卓偉	卓偉	他より抜きん出て優れていること。
+j	卓出	卓出	excellence, superiority. …
+j	卓効	卓効	薬などの優れた効果。
+j	卓史	卓史	a male given name
+j	卓司	卓司	a male given name
+j	卓哉	卓哉	a male given name
+j	卓子	卓子	table
+j	卓宏	卓宏	a male given name
+j	卓実	卓実	a male given name
+j	卓弘	卓弘	a male given name
+j	卓抜	卓抜	excellence, superiority. …
+j	卓摩	卓摩	a male given name
+j	卓球	卓球	table tennis
+j	卓異	卓異	他より優れて異なること。また、そのような人。
+j	卓真	卓真	a male given name
+j	卓磨	卓磨	a male given name
+j	卓絶	卓絶	excellence, incomparabili…
+j	卓行	卓行	優れた行い。休行。
+j	卓衣	卓衣	（たくい、たくえ）袈裟。
+j	卓袱	卓袱	meal
+j	卓見	卓見	卓れた見識。
+j	卓説	卓説	卓越した言説。卓れた説。
+j	卓識	卓識	clearsightedness; penetra…
+j	卓越	卓越	excellence, superiority, …
+j	卓郎	卓郎	a male given name
+j	啓一	啓一	a male given name
+j	啓三	啓三	a male given name
+j	啓上	啓上	（謙譲語）（手紙で）申し上げること。
+j	啓之	啓之	a male given name
+j	啓事	啓事	（文章語）天子等に、申し上げること、又はその書面。
+j	啓二	啓二	a male given name
+j	啓介	啓介	a male given name
+j	啓佑	啓佑	a male given name
+j	啓充	啓充	a male given name
+j	啓典	啓典	唯一神の啓示について記した書物。
+j	啓史	啓史	a male given name
+j	啓司	啓司	a male given name
+j	啓培	啓培	知識を与え、導き養うこと。
+j	啓太	啓太	a male given name
+j	啓子	啓子	a female given name
+j	啓扶	啓扶	a male given name
+j	啓昭	啓昭	a male given name
+j	啓次	啓次	a male given name
+j	啓民	啓民	a male given name
+j	啓治	啓治	a male given name
+j	啓発	啓発	enlightenment
+j	啓示	啓示	revelation
+j	啓祐	啓祐	a male given name
+j	啓蒙	啓蒙	sharing knowledge, enligh…
+j	啓蟄	啓蟄	the third solar term
+j	啓視	啓視	a male given name
+j	啓貴	啓貴	a male given name
+j	啓輔	啓輔	a male given name
+j	啓開	啓開	切り開くこと。
+j	啓龕	啓龕	厨子の扉を開き、中に納められている仏像を参拝させる…
+j	噓字	噓字	実際にはない、でたらめな字。字画を誤った字や誤用し…
+j	圓光	圓光	halo, aureola (luminous c…
+j	圓盤	圓盤	disc
+j	垓坫	垓坫	堺。境界。
+j	垓垓	垓垓	乱雑なさま。
+j	墓上	墓上	墓の上。
+j	墓制	墓制	burial practice
+j	墓前	墓前	in front of tomb
+j	墓参	墓参	墓に行くこと。特に、盂蘭盆の際、自分の先祖の墓に行…
+j	墓園	墓園	cemetery; graveyard
+j	墓地	墓地	a cemetery, a graveyard
+j	墓場	墓場	a graveyard, a cemetery
+j	墓壙	墓壙	遺体や遺骨を埋葬するために掘られる穴。墓穴。
+j	墓室	墓室	大きな墓で葬られている部屋。墓廬。
+j	墓廬	墓廬	大きな墓で葬られている部屋。墓室。
+j	墓所	墓所	graveyard
+j	墓標	墓標	墓石に刻まれた故人の情報や建立者の表示。
+j	墓樹	墓樹	墓の木。
+j	墓畔	墓畔	墓の辺。墓の近く。墓の側。「畔」は「ほとり」の意。
+j	墓石	墓石	a tombstone; a gravestone
+j	墓碑	墓碑	tombstone; gravestone
+j	墓碣	墓碣	（円形の）墓石。
+j	墓穴	墓穴	遺体や遺骨を埋葬するための穴。はかあな。
+j	墓誌	墓誌	墓石に刻まれた事績などを記した文。
+j	墓闕	墓闕	石闕。
+j	妓名	妓名	芸妓、遊女などの名。
+j	妓夫	妓夫	夜鷹に従い、客引きや護衛をする男。
+j	妓女	妓女	a female dancer trainer b…
+j	妓婦	妓婦	芸妓。
+j	妓家	妓家	芸妓などを置き、客に対し遊芸をさせる家。
+j	妓楼	妓楼	brothel
+j	妓楽	妓楽	妓女が演奏する音楽。
+j	妓生	妓生	kisaeng (Korean courtesan)
+j	妓籍	妓籍	芸者としての籍や身分。
+j	妓院	妓院	a brothel or similar busi…
+j	妓館	妓館	娼婦を置いて客をもてなす店。遊女屋。
+j	姓名	姓名	full name (of a person)
+j	姓望	姓望	姓と本貫。
+j	姓氏	姓氏	lineage/genealogy (かばね) a…
+j	寓居	寓居	仮の住まい。
+j	寓思	寓思	自分の思いをものに寄せて言うこと。寄懐。
+j	寓意	寓意	他のことに託けてある意味を仄めかすこと。また、その…
+j	寓所	寓所	仮に住む所。
+j	寓止	寓止	止宿すること。
+j	寓目	寓目	目をとめること。注目すること。
+j	寓言	寓言	allegory, fable
+j	寓試	寓試	都で受験すること。
+j	寓話	寓話	an allegory, a fable (fic…
+j	廓内	廓内	城郭や遊郭の郭の中。
+j	廓外	廓外	城郭や遊郭の郭の外。
+j	廓恢	廓恢	広め、大きくすること。
+j	廓清	廓清	悪いものを除去し清めること。
+j	廓然	廓然	わだかまりのない心理状態。
+j	廓詞	廓詞	the language of prostitut…
+j	弓偏	弓偏	漢字の部首「⼸」が偏である場合の呼称。
+j	弓兵	弓兵	弓矢ならびに弩やクロスボウで武装した歩兵。
+j	弓削	弓削	bowyers associated with t…
+j	弓原	弓原	a surname
+j	弓子	弓子	a female given name
+j	弓師	弓師	弓を作る工匠。
+j	弓弦	弓弦	a bowstring
+j	弓形	弓形	弦を張った弓のような形状。
+j	弓彦	弓彦	a male given name
+j	弓懸	弓懸	kyūdō (弓道) glove worn on …
+j	弓手	弓手	bow-holding hand; left ha…
+j	弓状	弓状	弓のように弧を描く形状。
+j	弓矢	弓矢	bow and arrow
+j	弓箭	弓箭	弓と箭。
+j	弓術	弓術	archery
+j	弓貴	弓貴	a female given name
+j	弓道	弓道	kyudo
+j	弓部	弓部	部首「⼸」で分類した漢字の一群。
+j	弓馬	弓馬	弓と馬。弓術と馬術。武芸一般。
+j	当の	当の	the very one; the one in …
+j	当下	当下	目下。ただいま。
+j	当世	当世	the modern world; this wo…
+j	当主	当主	current head of a family
+j	当事	当事	the matter directly conce…
+j	当人	当人	直接あることに関係する者。当事者。
+j	当今	当今	現在在位している天皇。今上天皇。いますべらぎ。
+j	当代	当代	the present age; modern t…
+j	当会	当会	our 会 (kai, “association,…
+j	当住	当住	現在の住職。現住。
+j	当体	当体	ありのままの本性。
+j	当処	当処	この場所。その場所。
+j	当分	当分	for the time being
+j	当初	当初	the initial, the beginnin…
+j	当別	当別	Tōbetsu (a town in Ishika…
+j	当前	当前	（とうぜん・とうまえ、副詞的にも用いる）目前。当座。
+j	当務	当務	事務に当たること。
+j	当千	当千	一人で千人の力に匹敵すること。また、そのような力や…
+j	当否	当否	当たっているか否か。
+j	当団	当団	この団体。該当の団体。
+j	当国	当国	この国。
+j	当園	当園	この動物園、植物園、遊園地などの「園」がつく施設。…
+j	当地	当地	here, this location, this…
+j	当夜	当夜	that night
+j	当季	当季	この節。この季節。
+j	当家	当家	この家。
+j	当寺	当寺	この寺院。当山。
+j	当局	当局	authority (persons in com…
+j	当山	当山	この山。本山。
+j	当市	当市	この市。
+j	当帰	当帰	セリ目セリ科シシウド属に属する多年草の一種。学名:…
+j	当年	当年	this year (i.e. the curre…
+j	当店	当店	this store
+j	当座	当座	current, present
+j	当庫	当庫	この信用金庫、労働金庫。該当の信用金庫、労働金庫。
+j	当惑	当惑	bewilderment
+j	当意	当意	その場で即座に考えること。
+j	当所	当所	この場所。その場所。
+j	当方	当方	we, us, our part
+j	当日	当日	on the day (on which some…
+j	当時	当時	then, at that time
+j	当月	当月	ある出来事が発生した（又は発生する）月。
+j	当期	当期	current period, present t…
+j	当来	当来	afterlife
+j	当校	当校	この学校。該当の学校。
+j	当機	当機	（仏教）相手の素質や能力に対応した導き方をすること。
+j	当流	当流	この流派。自分の流派。
+j	当為	当為	（現実の状態に対して）あるべき事実や状態。
+j	当然	当然	natural, inevitable
+j	当用	当用	general use, current use,…
+j	当番	当番	being on duty
+j	当直	当直	being on duty; being on c…
+j	当確	当確	当選確実。
+j	当社	当社	our company
+j	当節	当節	この時節。
+j	当籤	当籤	winning a lottery
+j	当署	当署	警察署・消防署などの「署」が付く機関に所属している…
+j	当職	当職	I, me
+j	当船	当船	この船。該当の船。
+j	当艇	当艇	この艇。該当の艇。
+j	当艦	当艦	この艦船、艦艇。該当の艦船、艦艇。
+j	当落	当落	当選と落選。当選か落選かの結果。
+j	当行	当行	our bank
+j	当該	当該	the applicable, relevant,…
+j	当路	当路	重要な道に当たること。
+j	当車	当車	この車両。該当の車両。
+j	当週	当週	ある出来事が発生した（又は発生する）週。
+j	当道	当道	この道。自らが学ぶ道。
+j	当選	当選	victory in an election
+j	当金	当金	その場で金銭を引き渡すこと。また、その金銭。即金。…
+j	当銀	当銀	a surname
+j	当門	当門	この宗派や門流。
+j	当院	当院	この病院、医院、議院。該当の病院、医院、議院。
+j	当陽	当陽	天子が南に面すること。
+j	当隊	当隊	この隊。
+j	当面	当面	now, for the moment
+j	当館	当館	この水族館、博物館、図書館などの「館」がつく施設。…
+j	当駅	当駅	this train station
+j	従う	従う	to follow; to move in the…
+j	従事	従事	engagement in something
+j	従位	従位	位階の同一等級を二分した時の下位。
+j	従僕	従僕	attendant male servant
+j	従兄	従兄	（漢字用例）男性の年上のいとこ。
+j	従兵	従兵	ある人に付き従う兵士。
+j	従前	従前	previous; past
+j	従卒	従卒	ある人に付き従う兵士。
+j	従因	従因	間接的な原因。
+j	従坐	従坐	「従座」の別表記。
+j	従士	従士	ある者に付き従う武士。
+j	従妹	従妹	（漢字用例）女性の年下のいとこ。
+j	従姉	従姉	（漢字用例）女性の年上のいとこ。
+j	従姪	従姪	いとこめい。
+j	従婢	従婢	召し使いの女性。
+j	従容	従容	普段通り落ち着いていること。
+j	従属	従属	subordination
+j	従座	従座	連座すること。
+j	従弟	従弟	（漢字用例）男性の年下のいとこ。
+j	従心	従心	70歳の異称。
+j	従戎	従戎	従軍。
+j	従服	従服	されるままに従うこと。服従すること。
+j	従来	従来	old, existing, so far
+j	従業	従業	being engaged in employme…
+j	従物	従物	物の継続的な利用を助けるために付属させられた家屋の…
+j	従犯	従犯	accomplice
+j	従甥	従甥	いとこおい。
+j	従組	従組	従業員組合の略。
+j	従者	従者	attendant; servant; follo…
+j	従臣	従臣	付き従う家臣。
+j	従良	従良	奈良時代、賤民が解放され良民となること。
+j	従衆	従衆	衆議に従うこと。
+j	従説	従説	存分に言うこと。
+j	従軍	従軍	military service
+j	従道	従道	a male given name
+j	従量	従量	according to volume
+j	従順	従順	following orders; obedien…
+j	慓悍	慓悍	agile and brave; quick an…
+j	打ち	打ち	adds emphasis to the verb…
+j	打っ	打っ	
+j	打つ	打つ	to hit, to beat, to strike
+j	打令	打令	taryong (traditional Kore…
+j	打倒	打倒	overthrow; defeat
+j	打刀	打刀	uchigatana: a Japanese sa…
+j	打刻	打刻	imprinting
+j	打力	打力	打つ力。
+j	打壊	打壊	打ち壊すこと。
+j	打席	打席	time at bat, being at bat
+j	打手	打手	強腕。
+j	打打	打打	「丁丁」を参照。
+j	打撃	打撃	strike, blow
+j	打撲	打撲	blow, a strike to the bod…
+j	打擊	打擊	
+j	打擲	打擲	打ち据えること。
+j	打数	打数	球（ボール）を打った回数。
+j	打棒	打棒	（野球）バット。
+j	打歩	打歩	証券の時価が額面を超過した際の差額。
+j	打殺	打殺	打って殺すこと。
+j	打毬	打毬	馬に乗って毬杖で木製の毬を打ち相手の陣に打ち込む遊…
+j	打法	打法	batting style
+j	打点	打点	RBI, runs batted in
+j	打牌	打牌	自摸、副露したあとに自分の手持ちの牌から一枚捨てる…
+j	打率	打率	batting average
+j	打球	打球	hitting a ball in basebal…
+j	打破	打破	defeat
+j	打算	打算	calculation
+j	打線	打線	野球で打者の顔ぶれとその力量。
+j	打者	打者	batter
+j	打荷	打荷	
+j	打製	打製	打ってつけること。
+j	打設	打設	pouring (of concrete)
+j	打診	打診	percussion (the tapping o…
+j	打鍵	打鍵	keystroke
+j	打開	打開	a breakthrough
+j	打順	打順	
+j	抓る	抓る	pinch (to squeeze a small…
+j	拓一	拓一	a male given name
+j	拓也	拓也	a male given name
+j	拓人	拓人	a male given name
+j	拓光	拓光	a male given name
+j	拓哉	拓哉	a male given name
+j	拓地	拓地	土地を開拓すること。
+j	拓巳	拓巳	a male given name
+j	拓弥	拓弥	a male given name
+j	拓志	拓志	a male given name
+j	拓晃	拓晃	a male given name
+j	拓本	拓本	squeeze (an impression of…
+j	拓殖	拓殖	colonisation
+j	拓相	拓相	拓務大臣の略。
+j	拓真	拓真	a male given name
+j	拓郎	拓郎	a male given name
+j	拓馬	拓馬	a male given name
+j	撓る	撓る	to bend due to the abunda…
+j	撓乱	撓乱	乱すこと。
+j	撓北	撓北	敗れること。撓敗。
+j	撓壊	撓壊	敗れ、壊れること。敗壊。
+j	撓屈	撓屈	しなうように曲がること。また、反るように曲げること。
+j	撓折	撓折	撓んで折れること。撓めて折ること。
+j	撓敗	撓敗	敗れること。撓北。
+j	撓曲	撓曲	地層が狭い範囲で曲がること。
+j	撓辞	撓辞	曲辞。
+j	易い	易い	easy to do, easy
+j	易化	易化	becoming easy
+j	易占	易占	算木や筮竹などを使用して行う易による占い。
+j	易問	易問	難易度の低い問題。易しい問題。
+j	易学	易学	易について研究する学問。
+j	易往	易往	（阿弥陀仏の本願により）極楽浄土に容易に往生するこ…
+j	易断	易断	易で占い、人の運勢や吉凶を判断すること。
+j	易易	易易	たやすいさま。簡単であるさま。
+j	易田	易田	律令制で定められた土地が痩せているため毎年ではなく…
+j	易経	易経	the I Ching
+j	易者	易者	fortuneteller
+j	易行	易行	誰でも容易に行える修行。
+j	杓子	杓子	a flat rice scoop, shamoji
+j	杓鴫	杓鴫	a curlew
+j	杓鷸	杓鷸	
+j	染々	染々	
+j	染み	染み	a stain
+j	染め	染め	
+j	染匠	染匠	紺屋。染物屋。
+j	染尚	染尚	自筆を交換すること。
+j	染工	染工	染め物を行う工匠。
+j	染心	染心	性欲などの煩悩に汚れた心。
+j	染戸	染戸	（そめこ）令制において大蔵省織部司に属し、布地の染…
+j	染指	染指	involvement in something,…
+j	染料	染料	dye
+j	染毛	染毛	髪の毛を染めること。
+j	染法	染法	（せんぽう）染色する方法。
+j	染浴	染浴	染色のための液。また、それを容れる容器。
+j	染織	染織	染めることと織ること。
+j	染色	染色	staining, dyeing
+j	染谷	染谷	a surname
+j	染髪	染髪	髪の毛を染めること。
+j	栓塞	栓塞	栓で塞ぐこと。
+j	栓子	栓子	a clot, a plug (especiall…
+j	栓孔	栓孔	栓をさすための孔。
+j	梓宮	梓宮	君主の遺骸を納めるための棺。
+j	梓弓	梓弓	a bow made from the wood …
+j	梓行	梓行	書物を出版、刊行すること。
+j	梓角	梓角	梓の実。
+j	楓林	楓林	楓の林。
+j	楓科	楓科	the maple family, Acerace…
+j	楓糖	楓糖	maple sugar
+j	槓子	槓子	a set of four identical t…
+j	槓杆	槓杆	synonym of 梃 (teko, “leve…
+j	槓桿	槓桿	てこ。
+j	櫓声	櫓声	the sound of rowing a boa…
+j	櫓櫂	櫓櫂	oars and paddles
+j	櫓閣	櫓閣	櫓を有する高殿。
+j	歓伯	歓伯	酒。
+j	歓呼	歓呼	cheer of support
+j	歓喜	歓喜	delight
+j	歓声	歓声	cheer; cry of joy
+j	歓待	歓待	a warm reception
+j	歓心	歓心	喜び、嬉しいと思う心。
+j	歓接	歓接	心よく接待すること。歓待。
+j	歓楽	歓楽	pleasure; merriment
+j	歓笑	歓笑	楽しみ笑うこと。
+j	歓語	歓語	having fun while talking …
+j	歓談	歓談	pleasant chat
+j	歓諾	歓諾	喜んで承諾すること。
+j	歓迎	歓迎	welcome
+j	歓送	歓送	a send-off
+j	歓顔	歓顔	嬉しそうな顔。破顔。
+j	沓下	沓下	
+j	沓師	沓師	靴を作る職人。
+j	涓勺	涓勺	少量の水。
+j	涓埃	涓埃	しずくとほこり。
+j	涓壌	涓壌	涓滴と塵埃。
+j	涓流	涓流	小さな沢。
+j	涓涓	涓涓	水が細く流れるさま。
+j	涓溜	涓溜	滴り。
+j	涓滴	涓滴	水のしずく。
+j	涓焉	涓焉	水が細く流れるさま。涓涓。
+j	涓露	涓露	露ほどの纔かな水。
+j	渓壑	渓壑	
+j	渓山	渓山	渓谷と谷。
+j	渓水	渓水	water of a mountain stream
+j	渓流	渓流	mountain stream
+j	渓澗	渓澗	渓谷。谷川。
+j	渓翁	渓翁	幽谷で暮らす老翁。
+j	渓谷	渓谷	ravine, gorge, valley
+j	渓間	渓間	谷間。谷あい。
+j	滓穢	滓穢	穢れ。
+j	牓爾	牓爾	領分などの境界を示すため杭や札などを立てること。ま…
+j	牓示	牓示	領分などの境界を示すため杭や札などを立てること。ま…
+j	皓月	皓月	明るく照る月。
+j	皓歯	皓歯	白い歯。美人を形容する語。
+j	皓然	皓然	白く輝くさま。
+j	祓う	祓う	to exorcise; to purify
+j	祓串	祓串	wooden wand decorated wit…
+j	祓戸	祓戸	a place where ritual puri…
+j	祓魔	祓魔	exorcism
+j	窓前	窓前	窓の前。
+j	窓口	窓口	window, counter (an area …
+j	窓台	窓台	windowsill
+j	窓外	窓外	窓の外。
+j	窓牖	窓牖	window
+j	窓紗	窓紗	curtain
+j	窓縁	窓縁	窓の縁。
+j	窓辺	窓辺	the area near a window, t…
+j	窓際	窓際	at the window
+j	筓礼	筓礼	女子の成年の礼。
+j	紓放	紓放	免除すること。
+j	經綸	經綸	
+j	纓紱	纓紱	冠の顎の紐と印綬。
+j	纓紼	纓紼	冠の顎の紐と棺を曳く綱。
+j	纓綬	纓綬	纓紱。
+j	纓纕	纓纕	馬具の胸繋や腹帯なとの総称。
+j	腓腹	腓腹	a calf; a sura (back of t…
+j	腓骨	腓骨	a calf bone; a fibula
+j	臓器	臓器	internal organs
+j	臓府	臓府	五臓六腑。臓腑。
+j	臓物	臓物	offal
+j	臓腑	臓腑	internal organs
+j	菓子	菓子	confection, confectionery…
+j	蔓延	蔓延	spread of a disease
+j	蔓紫	蔓紫	Basella alba
+j	蔓草	蔓草	蔓性の草。はびこる草。
+j	蔓菜	蔓菜	
+j	蔓語	蔓語	冗雑な言葉。蔓辞。
+j	蔓辞	蔓辞	冗雑な言葉。蔓語。
+j	蔓防	蔓防	
+j	蕓薹	蕓薹	synonym of 油菜 (aburana, “…
+j	虓将	虓将	猛将。
+j	術中	術中	trap
+j	術前	術前	preoperative
+j	術式	術式	外科手術のこと。
+j	術後	術後	postoperative
+j	術数	術数	陰陽、観相、卜占などの総称。また、暦法、天文を含む…
+j	術智	術智	技術と知恵。計略と才知。
+j	術業	術業	学術ど技術。
+j	術知	術知	技術と知恵。計略と才知。
+j	術策	術策	はかりごと。策謀。策略。
+j	術計	術計	手段。手立て。
+j	術語	術語	term; terminology
+j	術道	術道	祈祷やまじないなどの術。
+j	覓僱	覓僱	使用人。被用者。
+j	訓む	訓む	to read kanji using kun'y…
+j	訓令	訓令	instruction, order, comma…
+j	訓伝	訓伝	経書を解釈した書物。
+j	訓典	訓典	訓戒となる古い聖賢の教えを記した書物。
+j	訓化	訓化	教え諭して導くこと。
+j	訓告	訓告	教え、告げること。
+j	訓導	訓導	教え、導くこと。
+j	訓弘	訓弘	a male given name
+j	訓戒	訓戒	admonishment; advice; reb…
+j	訓点	訓点	characters and marks that…
+j	訓示	訓示	instruction, briefing
+j	訓練	訓練	training; practice
+j	訓義	訓義	漢字の訓と、その意味。
+j	訓習	訓習	教練すること。
+j	訓育	訓育	おもに子供の品性や人格をよい方向へ養い育てること。
+j	訓解	訓解	語句、文章を読み、解釈すること。
+j	訓言	訓言	教え、諭す言葉。訓辞。
+j	訓詁	訓詁	古い言葉の字句についてその意味を解釈すること。
+j	訓話	訓話	人を教え、導くような話。
+j	訓誨	訓誨	教え諭すこと。教誨。
+j	訓読	訓読	synonym of 訓読み (kun'yomi,…
+j	訓辞	訓辞	下の者に教え戒める言葉。
+j	訓電	訓電	訓令を電報で発すること。
+j	誓い	誓い	an oath, pledge
+j	誓う	誓う	to swear, to pledge, to m…
+j	誓命	誓命	君主の戒めの言葉。
+j	誓志	誓志	a male given name
+j	誓文	誓文	神にかけて誓う言葉。神に誓約して作成する文書。誓紙。
+j	誓断	誓断	誓い。誓約。
+j	誓書	誓書	written oath
+j	誓盟	誓盟	誓約。誓い。約束。
+j	誓約	誓約	A vow, oath or pledge; an…
+j	誓紙	誓紙	written oath
+j	誓衆	誓衆	大衆を戒めること。
+j	誓言	誓言	oath; pledge; vow
+j	誓詞	誓詞	vow, oath, pledge
+j	誓願	誓願	oath, pledge
+j	賓客	賓客	honored guest
+j	賓待	賓待	上客として扱う。賓接。
+j	賓接	賓接	上客として扱う。賓待。
+j	賓格	賓格	目的格。
+j	賓辞	賓辞	論理学における述語。
+j	贓害	贓害	賄賂により人を誣陥すること。
+j	躓き	躓き	
+j	躓く	躓く	to stumble or trip
+j	輓曳	輓曳	馬などに荷物を積んだ橇などを曳かせて引っ張ること。
+j	輓詩	輓詩	死者を哀悼する詩歌。
+j	輓近	輓近	最近。ちかごろ。
+j	輓馬	輓馬	車を引かせる馬。
+j	逓伝	逓伝	relay
+j	逓信	逓信	communications
+j	逓倍	逓倍	入力信号の周波数を整数で乗じて高周波数に変換する操…
+j	逓増	逓増	gradual increase over time
+j	逓廃	逓廃	次第に廃れること。
+j	逓次	逓次	in order
+j	逓減	逓減	gradual decrease over time
+j	逓相	逓相	逓信大臣の略。
+j	逓送	逓送	sending, forwarding
+j	逓騎	逓騎	遠隔の地に命令などを伝達するための騎兵。
+j	道上	道上	the side of a path, addit…
+j	道下	道下	北海道の管轄する区域。
+j	道世	道世	a male given name
+j	道中	道中	traveling, journeying
+j	道久	道久	a male given name
+j	道人	道人	（どうにん）仏道に入り悟を得た者。
+j	道仏	道仏	道教と仏教。
+j	道会	道会	松村介石がキリスト教、儒教、老荘思想、日本古来の思…
+j	道伴	道伴	同行する者。道連れ。
+j	道俊	道俊	a male given name
+j	道俗	道俗	僧侶と俗人。
+j	道傍	道傍	路傍。道端。
+j	道具	道具	tool (mechanical device i…
+j	道典	道典	a male given name
+j	道内	道内	the inside of prefecture …
+j	道利	道利	a male given name
+j	道勢	道勢	北海道の情勢。
+j	道化	道化	buffoonery
+j	道北	道北	The northern region of Ho…
+j	道南	道南	The southern region of Ho…
+j	道台	道台	中国清代、地方行政機関の道の長官。
+j	道史	道史	北海道の歴史。また、それについて扱った書籍。
+j	道号	道号	出家した後の号
+j	道哉	道哉	a male given name
+j	道営	道営	北海道の運営する事業。
+j	道器	道器	仏道の修行に堪えるだけの素質を有するもの。
+j	道場	道場	dojo, training hall (plac…
+j	道士	道士	Taoist priest
+j	道外	道外	outside of Hokkaidō; main…
+j	道大	道大	a male given name
+j	道夫	道夫	a male given name
+j	道央	道央	The central region of Hok…
+j	道子	道子	a female given name
+j	道学	道学	ethics
+j	道家	道家	Taoist (follower of Taois…
+j	道師	道師	the fifth-highest of the …
+j	道幸	道幸	a surname
+j	道庁	道庁	北海道の行政事務を執行するための庁舎。
+j	道床	道床	trackbed
+j	道彦	道彦	a male given name
+j	道徳	道徳	morality
+j	道心	道心	良心。本心。
+j	道志	道志	律令制で大学の明法道を終えた六位の者で衛門府の志（…
+j	道政	道政	北海道の政治、行政。
+j	道教	道教	Taoism
+j	道断	道断	以ての外のこと。
+j	道旗	道旗	北海道を象徴する旗。
+j	道明	道明	a surname
+j	道書	道書	道教の教義を記した書物。
+j	道木	道木	北海道を代表するものとして選定された木。
+j	道束	道束	蘚類などの苔植物の茎の中心部にある、小形の厚膜細胞…
+j	道東	道東	The eastern region of Hok…
+j	道枝	道枝	a surname
+j	道楽	道楽	libertinage, debauchery
+j	道標	道標	signpost (post bearing a …
+j	道樹	道樹	道路の樹木。
+j	道次	道次	途中。
+j	道歌	道歌	道徳などをよみこんだ歌。
+j	道民	道民	citizen of Hokkaidō
+j	道理	道理	reason, logic, sense, pri…
+j	道生	道生	a male given name
+j	道産	道産	北海道で産出されたもの。
+j	道男	道男	a male given name
+j	道着	道着	剣道や柔道など武道を行う際に着る衣服。
+j	道破	道破	言い切ること。
+j	道程	道程	ある所に行き着くまでの距離。
+j	道税	道税	地方税のうち北海道が賦課、徴収するもの。
+j	道立	道立	北海道庁が公共施設を設立、管理すること。
+j	道章	道章	a male given name
+j	道端	道端	a surname
+j	道筋	道筋	itinerary
+j	道管	道管	植物の体内にある、根から吸い上げた水を通す管。
+j	道紙	道紙	北海道を対象として発行され、全道で販売・配達される…
+j	道緒	道緒	a male given name
+j	道義	道義	morality; moral principles
+j	道者	道者	寺社に参詣する道中で一緒に参詣する人。
+j	道臣	道臣	a male given name
+j	道花	道花	北海道を代表するものとして選定された花。
+j	道芸	道芸	学問と技芸。
+j	道草	道草	grass on the wayside
+j	道蔵	道蔵	道教の経典を集めたもの。
+j	道行	道行	practice of Buddhism, esp…
+j	道術	道術	方術。仙術。
+j	道衣	道衣	（どうい）道教の道士が着用する衣服。
+j	道裕	道裕	a male given name
+j	道観	道観	道教の寺院。道士の居所。
+j	道論	道論	道に関する論。
+j	道諦	道諦	苦を滅するためには八正道によらなければならないとい…
+j	道警	道警	「北海道警察｣「北海道警察本部」の略。
+j	道議	道議	「道議会議員」の略。
+j	道走	道走	roadrunner, either of two…
+j	道路	道路	road, street, a way for l…
+j	道辞	道辞	言うこと。
+j	道道	道道	a Hokkaido prefectural ro…
+j	道郎	道郎	a male given name
+j	道門	道門	道教。また、それを信奉する人。
+j	道院	道院	道観。
+j	道隆	道隆	a male given name
+j	道雄	道雄	a male given name
+j	道順	道順	route, itinerary
+j	道鳥	道鳥	北海道を代表するものとして選定された鳥。
+j	銓択	銓択	はかり（調べ）選ぶこと。
+j	銓考	銓考	調べること。
+j	銓衡	銓衡	作品や人物などをよく観察するなどし、検討して選ぶこ…
+j	鑓術	鑓術	槍術の別表記。
+j	間人	間人	暇人。
+j	間代	間代	筋肉が急に弛緩と収縮を繰り返すこと。
+j	間伐	間伐	植林による林の管理の仕方で、成長に伴って密になり過…
+j	間判	間判	紙の大きさの一つ。縦七寸、横五寸のもの。
+j	間奏	間奏	intermezzo; interlude
+j	間宮	間宮	a surname
+j	間性	間性	intersex
+j	間接	間接	indirectness
+j	間数	間数	間（約1.8メートル）を単位とした数。
+j	間断	間断	途中でまがあくこと。とぎれとぎれになること。
+j	間柄	間柄	a relationship
+j	間柴	間柴	a surname
+j	間欠	間欠	一定の時間の間隔で起きたり止まったりすること。
+j	間歇	間歇	一定の時間の間隔をおいて起きたり止まったりすること。
+j	間民	間民	一定の職を持たない民。閑民。
+j	間水	間水	（かんすい）中世の大和地方で、ある荘園から次の荘園…
+j	間然	間然	非難や批判を受けるべき欠点があること。
+j	間章	間章	
+j	間紙	間紙	interleaf
+j	間翫	間翫	翫ぶこと。
+j	間者	間者	spy
+j	間脳	間脳	脊椎動物の脳のうち大脳と中脳との間にある。視床、視…
+j	間葉	間葉	多細胞生物の発生期に見られる、中葉杯から生じる組織…
+j	間行	間行	密かに、また隠れるように行くこと。
+j	間諜	間諜	spy; secret agent
+j	間路	間路	間道。
+j	間近	間近	near, close
+j	間道	間道	わきみち。ねけみち。
+j	間遮	間遮	「合い駒」のこと。
+j	間銀	間銀	手数料。
+j	間銭	間銭	（古）手数料。
+j	間間	間間	sometimes, occasionally; …
+j	間隔	間隔	interval, space (spacial …
+j	間隙	間隙	gap, interval (in space o…
+j	間食	間食	an item of food eaten bet…
+j	霓裳	霓裳	虹のような(色の)裳。
+j	韓人	韓人	Korean person
+j	韓国	韓国	South Korea (a country in…
+j	韓土	韓土	朝鮮。
+j	韓族	韓族	古代、朝鮮半島中部から南部にかけて住んでいた民族。
+j	韓服	韓服	hanbok
+j	韓民	韓民	citizen of Japanese Korea
+j	韓江	韓江	Han River (in Guangdong, …
+j	韓流	韓流	Korean Wave
+j	韓紅	韓紅	Chinese red; deep crimson
+j	韓訳	韓訳	韓国語に訳すこと。また、その文章。朝訳。
+j	韓語	韓語	Korean language
+j	頓に	頓に	急に。にわかに。しきりに。やたらに。
+j	頓写	頓写	quickly copying something
+j	頓悟	頓悟	sudden enlightenment
+j	頓挫	頓挫	sudden reduction in vigor
+j	頓教	頓教	段階を経ずにいきなり高次の真理を説くこと。
+j	頓智	頓智	臨機応変に出る知恵。機知。
+j	頓服	頓服	taking medicine whenever …
+j	頓死	頓死	sudden death
+j	頓気	頓気	気が早いこと。また、そのようなさまや性質。
+j	頓狂	頓狂	wild, crazy
+j	頓着	頓着	caring deeply about a mat…
+j	頓知	頓知	sharp wit; able to come u…
+j	頓躓	頓躓	躓き、倒れること。
+j	頓遅	頓遅	疲れはてること。
+j	頓馬	頓馬	fool; idiot
+j	顓制	顓制	専制。
+j	顓政	顓政	専政。
+j	顓望	顓望	寵愛。
+j	餓死	餓死	starvation
+j	餓殺	餓殺	餓えさせて殺すこと。
+j	餓狼	餓狼	hungry wolf
+j	餓莩	餓莩	餓死した人。
+j	餓餒	餓餒	飢えること。
+j	餓鬼	餓鬼	a preta: the spirit of a …
+j	験僧	験僧	祈祷などで霊験あらたかな僧。
+j	験効	験効	御利益があること。
+j	験左	験左	証拠。証左。しるし。
+j	験気	験気	病勢が衰え、快方に向かうこと。
+j	験測	験測	検測の異表記。
+j	験白	験白	明白となること。
+j	験看	験看	面接して調べること。
+j	験算	験算	「検算」の異表記。
+j	験者	験者	修験道の行者。修験者。
+j	験術	験術	霊妙な験が現れる術。
+j	験覈	験覈	究明。
+j	験証	験証	証拠調べ。
+j	験関	験関	税関。
+j	験電	験電	検電の異表記。
+j	鮓答	鮓答	牛や馬、豚などの胆石や腸の結石。生薬の一つ。
+j	鮓荅	鮓荅	馬や牛、豚などの胆石や腸にできる結石。生薬の一つ。
+j	鰓弁	鰓弁	鰓葉。
+j	鰓書	鰓書	「書鰓」の異称。
+j	鰓脚	鰓脚	甲殻類や剣尾類で鰓の機能をもった付属肢。
+j	鰓葉	鰓葉	魚類などの鰓で酸素を取り込み、二酸化炭素を排出する…
+j	鰓蓋	鰓蓋	魚類の頭部後方の左右にあり、鰓を保護する薄い板状の…
+j	鷓鴣	鷓鴣	francolin
+j	鼓動	鼓動	beating, pounding (of a h…
+j	鼓吹	鼓吹	encouragement
+j	鼓声	鼓声	sound of a drum
+j	鼓手	鼓手	drummer
+j	鼓桴	鼓桴	太鼓のばち。
+j	鼓楼	鼓楼	太鼓を吊るした建物。太鼓を叩いて時を知らせる。日本…
+j	鼓筒	鼓筒	鼓や太鼓の胴。
+j	鼓胴	鼓胴	鼓や太鼓の胴。また、そのような形状の花器。
+j	鼓脹	鼓脹	反芻する動物の第一胃で食物が発酵し大量のガスが溜ま…
+j	鼓腸	鼓腸	腸内にガスがたまり、腹部が膨満する疾患。
+j	鼓腹	鼓腹	腹鼓を打つこと。
+j	鼓膜	鼓膜	eardrum, tympanic membran…
+j	鼓舞	鼓舞	encouragement
+j	鼓草	鼓草	synonym of 蒲公英 (tanpopo, …
+j	鼓行	鼓行	太鼓を打ち鳴らしながら進軍すること。鼓進。
+j	鼓進	鼓進	太鼓を打ち鳴らしながら進軍すること。鼓行。
+j	鼓部	鼓部	部首「⿎」で分類した漢字の一群。
+j	鼓隊	鼓隊	行進のリズムを大小の太鼓で取る楽隊。
+j	鼓震	鼓震	鼓の音。
+k	간각	間刻	
+k	간격	間隔	space, interval
+k	간극	間隙	gap; interval
+k	간단	間断	a pause; a brief cessation
+k	간단	間斷	a pause; a brief cessation
+k	간식	間食	snack, refreshments, nosh
+k	간접	間接	indirectness
+k	간주	間奏	intermezzo; interlude
+k	간첩	間諜	spy; secret agent
+k	간통	間通	adultery
+k	간혹	間或	sometimes; occasionally
+k	갱제	經濟	
+k	경도	經度	longitude
+k	경락	經絡	인체 내의 기혈이 흐르는 통로와 거기서 흩어져…
+k	경력	經歷	career, work experience
+k	경로	經路	course, route
+k	경보	經寶	alarm, alert, warning
+k	경비	經費	expenses; cost
+k	경영	經營	management; administration
+k	경위	經緯	inspector
+k	경유	經由	diesel (fuel)
+k	경의	經義	reverence, respect
+k	경제	經濟	economy
+k	경험	經驗	experience
+k	계곡	渓谷	valley
+k	계몽	啓蒙	enlightenment
+k	계시	啓示	revelation
+k	고동	鼓動	conch (shellfish)
+k	고막	鼓膜	eardrum
+k	고무	鼓舞	rubber (material)
+k	고수	鼓手	coriander/cilantro
+k	고자	鼓子	eunuch; a man with no or …
+k	고취	鼓吹	inspiration
+k	고취	鼓觜	inspiration
+k	과자	菓子	sweet; confection
+k	궁도	弓道	archery
+k	궁수	弓手	archer; bowman
+k	궁술	弓術	archery
+k	궁시	弓矢	bow and arrow
+k	궁예	弓裔	a king of north-central K…
+k	궁현	弓弦	bowstring
+k	기녀	妓女	courtesan
+k	기생	妓生	courtesan, kisaeng or gis…
+k	깡쯔	槓子	
+k	누선	樓船	lacrimal gland
+k	당국	当局	authorities
+k	당귀	当帰	angelica
+k	당대	当代	contemporary time, that t…
+k	당부	当付	plea, beseeching, request
+k	당사	当社	ours, our company
+k	당선	当選	winning (in an election)
+k	당시	当時	the time in question
+k	당신	当身	second person singular pl…
+k	당연	当然	justly, naturally, of cou…
+k	당일	当日	that day
+k	당장	当場	The exact location.
+k	당첨	当籤	winning (in a lottery, dr…
+k	도교	道敎	Taoism
+k	도구	道具	instrument, tool, kit
+k	도덕	道徳	morality; morals; ethics
+k	도덕	道德	morality; morals; ethics
+k	도로	道路	road, thoroughfare
+k	도리	道理	purlin
+k	도민	道民	provincial resident
+k	도봉	道峰	[~구] Dobong (a district o…
+k	도사	道使	Taoist priest
+k	도사	道士	Taoist priest
+k	도원	道元	Taoyuan
+k	도원	道院	Taoyuan
+k	도장	道場	stamp; seal
+k	도청	道庁	provincial government bui…
+k	도청	道廳	provincial government bui…
+k	루주	樓主	lipstick
+k	묘비	墓碑	gravestone, tombstone
+k	묘석	墓石	tombstone, gravestone
+k	묘원	墓園	cemetery, graveyard
+k	묘지	墓地	graveyard, cemetery
+k	비골	腓骨	fibula
+k	빈격	賓格	
+k	서력	紓力	anno Domini (AD); Common …
+k	서약	誓約	vow; oath; pledge
+k	서원	誓願	seowon, a form of Confuci…
+k	성명	姓名	name, surname and given n…
+k	성씨	姓氏	surname, last name, famil…
+k	성함	姓銜	name
+k	아귀	餓鬼	angle, corner, junction
+k	아도	餓倒	collapsing from hunger
+k	아사	餓死	death from starvation
+k	압권	壓卷	the highlight, the best p…
+k	압도	壓倒	overwhelm; overpower
+k	압력	壓力	pressure
+k	압박	壓迫	pressure
+k	압사	壓死	death by crushing
+k	압정	壓政	thumbtack, tack, drawing …
+k	압제	壓制	oppression; tyranny; desp…
+k	양도	讓渡	
+k	양보	讓步	giving up one's seat or p…
+k	역경	易経	adversity; hardship
+k	역경	易經	adversity; hardship
+k	염료	染料	dye
+k	염병	染病	typhoid fever
+k	염색	染色	dyeing
+k	염오	染汚	aversion, loathing, odium
+k	염화	染化	raging fire, blaze, infer…
+k	염화	染画	raging fire, blaze, infer…
+k	염화	染畫	raging fire, blaze, infer…
+k	우언	寓言	allegory, fable
+k	우화	寓話	fable, allegory
+k	원반	圓盤	discus, disk
+k	원예	圓翳	horticulture, gardening
+k	원주	圓周	circumference
+k	원주	圓柱	circumference
+k	원통	圓筒	cylinder
+k	원화	圓貨	won, the currency of Korea
+k	원활	圓滑	harmony, smoothness, amic…
+k	이아	尓雅	Erya (the oldest survivin…
+k	장기	臓器	janggi (Korean chess)
+k	장물	贓物	stolen goods
+k	종북	従北	South Korean citizen who …
+k	종속	従俗	subordination
+k	종속	従属	subordination
+k	종숙	従叔	
+k	종용	従容	now almost entirely repla…
+k	종질	従姪	
+k	창가	窓가	by the window
+k	창구	窓口	window, counter (an area …
+k	창문	窓門	window
+k	체강	体腔	body cavity
+k	체격	体格	physique, structure
+k	체계	体系	system
+k	체구	体躯	physique, build, frame
+k	체내	体内	the interior of the body
+k	체력	体力	physical strength, physic…
+k	체면	体面	face, dignity (in the sen…
+k	체모	体毛	body hair
+k	체벌	体罰	corporal punishment
+k	체액	体液	
+k	체언	体言	uninflected/indeclinable …
+k	체온	体温	body temperature
+k	체용	体容	Substance and Function: t…
+k	체용	体用	Substance and Function: t…
+k	체위	体位	position
+k	체육	体育	physical education
+k	체재	体裁	stay, sojourn
+k	체적	体積	volume; capacity; bulk
+k	체제	体制	system
+k	체조	体操	gymnastics
+k	체중	体重	weight
+k	체질	体質	constitution, i.e. build …
+k	체험	体験	experience; specifically …
+k	체형	体型	body shape, i.e. body type
+k	타격	打撃	blow; strike
+k	타격	打擊	blow; strike
+k	타석	打席	plate appearance; at-bat
+k	타수	打数	official at-bat
+k	타수	打數	official at-bat
+k	타순	打順	
+k	타율	打率	batting average
+k	타자	打字	batter
+k	타자	打者	batter
+k	타점	打点	runs batted in (RBI)
+k	타점	打點	runs batted in (RBI)
+k	탁구	卓球	table tennis
+k	탁상	卓上	
+k	탁자	卓子	table
+k	한강	韓江	Han River (in Seoul, Sout…
+k	한과	韓菓	hangwa (traditional Korea…
+k	한국	韓国	Korea (a region in East A…
+k	한국	韓國	Korea (a region in East A…
+k	한기	韓琦	chill, cold
+k	한남	韓男	Korean men. The source wo…
+k	한류	韓流	Hallyu, the Korean Wave (…
+k	한복	韓服	hanbok (traditional Korea…
+k	한식	韓食	Korean food
+k	한약	韓薬	traditional Chinese medic…
+k	한약	韓藥	traditional Chinese medic…
+k	한어	韓語	Chinese language
+k	한영	韓英	Korean–English
+k	한옥	韓屋	hanok (a type of traditio…
+k	한인	韓人	Korean (person), especial…
+k	한족	韓族	Han Chinese
+k	한중	韓中	South Korea and China; (a…
+k	환대	歓待	hospitality, a warm recep…
+k	환락	歓楽	pleasure
+k	환영	歓迎	welcome
+k	환호	歓呼	cheer, acclaim
+k	훈독	訓読	semantic reading of a Kor…
+k	훈독	訓讀	semantic reading of a Kor…
+k	훈련	訓練	training, drill, discipli…
+k	훈련	訓錬	training, drill, discipli…
+k	훈련	訓鍊	training, drill, discipli…
+k	훈장	訓長	order; medal; decoration
+j	体ごと	体ごと	
+j	体する	体する	心に留める。意向や指示などをもとに行動する。
+j	体外式	体外式	
+j	体循環	体循環	心臓の左心室から大動脈を通って、体中の組織を経由し…
+j	体操服	体操服	運動の際に着用する衣服。運動着。運動服。
+j	体操着	体操着	体操服。
+j	体温計	体温計	medical thermometer
+j	体系的	体系的	systematic
+j	体細胞	体細胞	somatic cell
+j	体育会	体育会	大学の運動部、スポーツ系の公認サークルの連合で構成…
+j	体育服	体育服	体操服
+j	体育着	体育着	体操服。
+j	体育祭	体育祭	sports day; field day
+j	体育科	体育科	小学校、義務教育学校前期課程、特別支援学校小学部で…
+j	体育館	体育館	gym; gymnasium
+j	体重計	体重計	体重をはかる計器。
+j	体験型	体験型	見るだけではなく自身で体験できる、来た人が実際に試…
+j	卓三郎	卓三郎	a male given name
+j	卓抜な	卓抜な	
+j	卓球台	卓球台	卓球を行うために使われる台。
+j	卓球場	卓球場	卓球を行うための施設。
+j	卓袱台	卓袱台	折りたたむ事が可能な短い脚の食卓。
+j	卓話会	卓話会	round table meeting or ta…
+j	卓越な	卓越な	
+j	啓二朗	啓二朗	a male given name
+j	啓十郎	啓十郎	a male given name
+j	啓次郎	啓次郎	a male given name
+j	墓参り	墓参り	visit to a grave; visitin…
+j	墓碑銘	墓碑銘	墓碑に彫りこんだ死者の経歴･事績などの文句｡ エピ…
+j	寓する	寓する	仮住まいする。仮寓する。
+j	弓のこ	弓のこ	
+j	弓懸師	弓懸師	ゆがけを作る工匠。
+j	弓状束	弓状束	arcuate fasciculus (a bun…
+j	弓術家	弓術家	弓術を行う武術家またはそれで生業としている者、修得…
+j	弓道場	弓道場	弓道をするための武道場。
+j	弓道家	弓道家	弓道を行う武道家またはそれで生業としている者、修得…
+j	弓馬術	弓馬術	弓馬を用いた武術。
+j	弓騎兵	弓騎兵	弓で武装した騎兵。
+j	当たり	当たり	a hit
+j	当たる	当たる	to hit
+j	当てる	当てる	to hit, to collide
+j	当て子	当て子	
+j	当て字	当て字	The use of kanji chosen p…
+j	当世風	当世風	fashionable; up-to-date
+j	当事国	当事国	その事件や紛争に直接関係している国。
+j	当事者	当事者	the person concerned; the…
+j	当日券	当日券	使用する当日に販売または購入する券（チケット）。
+j	当然の	当然の	
+j	当社比	当社比	compared to our company's…
+j	従える	従える	to bring someone with one…
+j	従って	従って	therefore
+j	従事者	従事者	practitioner, worker
+j	従伯母	従伯母	
+j	従伯父	従伯父	
+j	従兄妹	従兄妹	（漢字用例）詳細はいとこを参照。男性と女性のいとこ…
+j	従兄弟	従兄弟	a male cousin
+j	従叔母	従叔母	
+j	従叔父	従叔父	
+j	従姉妹	従姉妹	a female cousin
+j	従姉弟	従姉弟	（漢字用例）詳細はいとこを参照。男性と女性のいとこ…
+j	従属国	従属国	宗主国の国内法で自治を認められているが、経済や外交…
+j	従属節	従属節	subordinate clause
+j	従業員	従業員	employee
+j	従順な	従順な	
+j	打ち所	打ち所	spot (where one was hit)
+j	打ち首	打ち首	beheading (an instance of…
+j	打撃戦	打撃戦	両チームの打線が好調で、活発に打ち合い、多くの得点…
+j	打撲傷	打撲傷	bruise; contusion
+j	打楽器	打楽器	percussion instrument
+j	打開策	打開策	a plan to make a breakthr…
+j	拓跋語	拓跋語	5世紀ごろの北魏に華北に居住した拓跋によって話され…
+j	撓める	撓める	to bend something, to twi…
+j	易しい	易しい	easy
+j	易学者	易学者	易学を研究する科学者。
+j	杓子菜	杓子菜	アブラナ科の一年草または二年草。中国原産。葉が杓子…
+j	杓文字	杓文字	a flat rice scoop, a rice…
+j	染まる	染まる	to be dyed, to be stained
+j	染みる	染みる	to soak in, to soak into
+j	染めた	染めた	
+j	染める	染める	to dye
+j	染め師	染め師	染め物を行う職人。
+j	染色体	染色体	chromosome
+j	染色質	染色質	ドイツ語 Chromatin あるいは 英語 ch…
+j	染色體	染色體	染色体の旧字体表記。
+j	栓抜き	栓抜き	bottle opener; corkscrew
+j	梓都加	梓都加	a female given name
+j	歓喜天	歓喜天	天部の一人で、インドの象頭人身をしたガネーシャが仏…
+j	歓楽街	歓楽街	飲食店や映画館などが多く集まった地区。
+j	歓迎会	歓迎会	学校や組織で新しく入ってくる者を歓迎するために開催…
+j	歓送会	歓送会	farewell party, going awa…
+j	沓の子	沓の子	沓の底に打ち並べた釘。
+j	皓之助	皓之助	a male given name
+j	祓い師	祓い師	祈祷、祓い、除霊などを行う霊能者。
+j	祓魔師	祓魔師	an exorcist
+j	祓魔術	祓魔術	exorcism (the technique o…
+j	窓側席	窓側席	
+j	窓関数	窓関数	スペクトルリーケージを抑制するために時間領域で元信…
+j	窓際族	窓際族	those who are given desk …
+j	腓腸筋	腓腸筋	synonym of 腓腹筋 (hifukukin…
+j	腓腹筋	腓腹筋	a gastrocnemius muscle
+j	腓骨筋	腓骨筋	a peroneus muscle
+j	菓子屋	菓子屋	菓子を作って売る店。
+j	菓子店	菓子店	菓子を販売する店。
+j	蔓延る	蔓延る	to grow lushly
+j	蔓梅擬	蔓梅擬	round-leaved bittersweet,…
+j	蔓植物	蔓植物	
+j	蔓竜胆	蔓竜胆	Tripterospermum japonicum
+j	蔓茘枝	蔓茘枝	bitter melon; bitter gour…
+j	蔓荊子	蔓荊子	fruit of Vitex rotundifol…
+j	蔓蕺草	蔓蕺草	Reynoutria multiflora
+j	蔓黄楊	蔓黄楊	tsuru holly, Ilex rugosa
+j	訓じる	訓じる	漢字を和語で読む。訓読みする。
+j	訓ずる	訓ずる	「訓じる」に同じ。
+j	訓令式	訓令式	1937年に内閣の訓令によって定められた、体系的な…
+j	訓仮名	訓仮名	an orthographic technique…
+j	訓練所	訓練所	特定の技術、技能、機能、能力の向上を目的とした施設。
+j	訓詁学	訓詁学	Classical Chinese text st…
+j	訓読み	訓読み	kun'yomi: a reading of a …
+j	誓って	誓って	
+j	贓贖司	贓贖司	a 律令 (ritsuryō) position …
+j	道のり	道のり	distance to one's destina…
+j	道の駅	道の駅	roadside station, highway…
+j	道中記	道中記	travel journal
+j	道具商	道具商	古道具を扱う古物商。
+j	道具屋	道具屋	secondhand goods shop
+j	道具箱	道具箱	
+j	道化る	道化る	ふざける。おどける。
+j	道化師	道化師	a clown (performance arti…
+j	道外師	道外師	
+j	道州制	道州制	Wide-Area Administration:…
+j	道府県	道府県	地方公共団体の都道府県のうち東京都を除いたもの。
+j	道徳律	道徳律	「道徳法則」に同じ。
+j	道徳的	道徳的	道徳に関する様。道徳に適っている様。
+j	道徳経	道徳経	Tao Te Ching (a Chinese c…
+j	道徳観	道徳観	
+j	道教の	道教の	
+j	道明寺	道明寺	関東において、関西風桜餅の通称。
+j	道案内	道案内	道に不案内であったり迷ったりした人を先導して案内す…
+j	道楽者	道楽者	libertine, debauchee, pla…
+j	道灌草	道灌草	
+j	道理で	道理で	no wonder, it stands to r…
+j	道産子	道産子	horse native to Hokkaido
+j	道祖神	道祖神	Dōsojin (traveler's guard…
+j	道義的	道義的	道義に関するさま。人として行う正しい道に関するさま。
+j	道行き	道行き	a travel, journey
+j	道議会	道議会	地方公共団体の北海道における議決機関。
+j	道路網	道路網	網の目のように各地を結ぶような道路。
+j	道頓堀	道頓堀	Dōtonbori
+j	鑓術家	鑓術家	鑓術を行う武術家またはそれで生業としている者、修得…
+j	間の子	間の子	person of mixed race, hal…
+j	間一髪	間一髪	hairsbreadth, close call
+j	間伐材	間伐材	森林を間伐した木を利用した木材。
+j	間充織	間充織	多細胞生物の発生期に見られる、中葉杯から生じる組織…
+j	間取り	間取り	floor plan; layout of a b…
+j	間引く	間引く	thin out
+j	間投詞	間投詞	interjection
+j	間抜け	間抜け	slipshod, careless, stupi…
+j	間接的	間接的	何かが間に介在して物事が行われるさま。
+j	間接税	間接税	租税の分類方法の一つ。納税義務者と担税者が一致しな…
+j	間接費	間接費	
+j	間欠泉	間欠泉	a geyser
+j	間歇泉	間歇泉	定期的または不定期に熱水や水蒸気を地表から噴出させ…
+j	間氷期	間氷期	完新世のように、氷河時代(1.の意味)としては、比…
+j	間細胞	間細胞	組織の中で、細胞群の間に混在し異なる働きをする特殊…
+j	間諜罪	間諜罪	
+j	間質液	間質液	「組織液」を参照。
+j	間違い	間違い	a mistake
+j	間違う	間違う	to be wrong, to be incorr…
+j	間違え	間違え	
+j	韓ドラ	韓ドラ	
+j	韓半島	韓半島	Korean Peninsula (a penin…
+j	韓国の	韓国の	
+j	韓国人	韓国人	South Korean (person)
+j	韓国学	韓国学	Korean studies
+j	韓国語	韓国語	Korean language of South …
+j	韓文字	韓文字	
+j	韓民族	韓民族	Korean (ethnic group)
+j	頓服薬	頓服薬	痛みなどの症状が現れた時に服用する薬剤。頓服。
+j	頓狂声	頓狂声	a sudden screaming
+j	頓痴気	頓痴気	idiot, fool
+j	餓える	餓える	
+j	餓死線	餓死線	the brink of starving to …
+j	餓鬼道	餓鬼道	六道の一つで常に餓えと渇きに苦しめられる餓鬼の世界。
+j	験する	験する	検査する。試験する。しらべる。たしかめる。
+j	験温儀	験温儀	温度計。
+j	験温器	験温器	温度計。
+j	験温管	験温管	温度計。
+j	験潮場	験潮場	潮位を測定するために国土地理院が設置する装置。海上…
+j	験潮所	験潮所	潮位を測定するために海上保安庁が設置する装置。気象…
+j	鼓する	鼓する	to play (a drum)
+j	鼓太郎	鼓太郎	a male given name
+j	鼓手長	鼓手長	
+k	간절기	間節気	transitional period betwe…
+k	간절기	間節氣	transitional period betwe…
+k	간첩죄	間諜罪	
+k	간헐천	間歇泉	geyser
+k	결정수	结晶水	water of crystallization
+k	경영자	經營者	manager
+k	경위의	經緯儀	
+k	경제적	經濟的	economical (attributive)
+k	경제학	經濟學	economics
+k	경험론	經驗論	empiricism
+k	경험치	經驗値	experience points; EXP; XP
+k	당하다	当하다	to suffer or undergo some…
+k	도교도	道敎徒	
+k	도교인	道敎人	
+k	도덕경	道徳経	Tao Te Ching (a Chinese c…
+k	도덕경	道德經	Tao Te Ching (a Chinese c…
+k	도민증	道民証	(provincial) identity card
+k	도민증	道民證	(provincial) identity card
+k	도지사	道知事	governor of a 도(道) (do, “…
+k	돈채반	頓菜飯	cooked rice mixed with se…
+k	만연체	蔓衍体	verbose prose style
+k	만연체	蔓衍體	verbose prose style
+k	묘비명	墓碑銘	
+k	묘지명	墓誌銘	
+k	보따리	褓따리	a bundle, a package
+k	술어학	術語学	
+k	술어학	術語學	
+k	압력계	壓力計	pressure gauge, manometer
+k	염색체	染色体	chromosome
+k	염색체	染色體	chromosome
+k	요한 계시록	啓示錄	
+k	요한 계시록	啓示録	
+k	원불교	圓佛敎	
+k	원주률	圓周率	North Korea standard spel…
+k	원주율	圓周率	pi (irrational mathematic…
+k	원주필	圓珠筆	ballpoint pen
+k	종고모	従姑母	아버지의 사촌 누이.
+k	종속절	従属節	subordinate clause
+k	종업원	従業員	employee, worker
+k	종형제	従兄弟	사촌(四寸)인 형(兄)과 아우
+k	체신소	逓信所	post office
+k	체온계	体温計	medical thermometer
+k	체육관	体育館	gym, gymnasium
+k	체육복	体育服	학교 체육 수업 때 갈아입는 옷.
+k	체육촌	体育村	'선수촌'의 북한말.
+k	체중계	体重計	
+k	체질량	体質量	bodymass
+k	타격수	打撃数	synonym of 타수(打數) (tasu, …
+k	타격수	打擊數	synonym of 타수(打數) (tasu, …
+k	타악기	打楽器	percussion instrument
+k	타악기	打樂器	percussion instrument
+k	타자기	打字機	typewriter
+k	타자수	打字手	
+k	탁구대	卓球台	
+k	탁구대	卓球臺	
+k	탁상등	卓上灯	
+k	탁상등	卓上燈	
+k	한국말	韓国말	the Korean language
+k	한국말	韓國말	the Korean language
+k	한국어	韓国語	the Korean language
+k	한국어	韓國語	the Korean language
+k	한국인	韓国人	a Korean (person)
+k	한국인	韓國人	a Korean (person)
+k	한국학	韓国学	Korean studies
+k	한국학	韓國學	Korean studies
+k	한민족	韓民族	The group of people nativ…
+k	한반도	韓半島	Korean Peninsula (a penin…
+k	한본어	韓本語	a (typically humorous) bl…
+k	한식당	韓食堂	Korean restaurant
+k	한인회	韓人会	overseas Koreans' local a…
+k	한인회	韓人會	overseas Koreans' local a…
+k	한중일	韓中日	
+k	환영회	歓迎会	
+k	환호성	歓呼声	cheer, shout of joy, excl…
+k	훈가자	訓仮字	a semantically-adapted ph…
+k	훈가자	訓假字	a semantically-adapted ph…
+k	훈고학	訓詁学	Classical Chinese text st…
+k	훈고학	訓詁學	Classical Chinese text st…
+k	훈독자	訓読字	a semantically-adapted lo…
+k	훈독자	訓讀字	a semantically-adapted lo…
+j	体内時計	体内時計	biological clock
+j	体外受精	体外受精	in vitro fertilization (t…
+j	体外授精	体外授精	in vitro fertilization
+j	体外離脱	体外離脱	an out-of-body experience
+j	体当たり	体当たり	tackle, body blow, body c…
+j	体感温度	体感温度	体で感じる暑さ・寒さを、具体的な数値で表したもの。
+j	体操競技	体操競技	徒手または器械用具を用いて体操の技量の優劣を競う競…
+j	体操選手	体操選手	体操競技で実際に競技をする選手。
+j	体育の日	体育の日	「スポーツの日」の旧称。
+j	体育会系	体育会系	体育会の部活動。運動部。また、それに属している者。
+j	体育大学	体育大学	体育系の単科大学。
+j	体育座り	体育座り	sitting and hugging one's…
+j	体裁振る	体裁振る	
+j	体言止め	体言止め	文を体言で終わらせる修辞法。
+j	体調不良	体調不良	poor physical health; bad…
+j	体重増加	体重増加	
+j	体重減少	体重減少	
+j	体験する	体験する	
+j	体鳴楽器	体鳴楽器	カスタネット、ギロ、シンバルなど、発音体自体が振動…
+j	卓上出版	卓上出版	
+j	卓上焜炉	卓上焜炉	カセットボンベや電気を使い、食卓の上で使用できる可…
+j	卓球選手	卓球選手	卓球で実際に競技をする選手。
+j	卓袱料理	卓袱料理	Japanese-Chinese cuisine,…
+j	卓越した	卓越した	
+j	卓越する	卓越する	
+j	啓典の民	啓典の民	
+j	啓発する	啓発する	
+j	啓蒙思想	啓蒙思想	18世紀のヨーロッパに広まった考え方で、ルソーなど…
+j	啓蒙時代	啓蒙時代	Age of Enlightenment (per…
+j	姓名判断	姓名判断	fortunetelling based on o…
+j	弓を引く	弓を引く	悪霊などを払うために弓の弦をはじいて鳴らす。弓を鳴…
+j	弓馬術家	弓馬術家	弓馬術を行う武術家またはそれで生業している者、修得…
+j	当たり前	当たり前	obvious, natural, of cour…
+j	当たり屋	当たり屋	lucky person, especially …
+j	当て付け	当て付け	
+j	当て推量	当て推量	確実ではない根拠で推測すること。
+j	当て掻き	当て掻き	
+j	当て擦る	当て擦る	
+j	当て込む	当て込む	count on
+j	当て逃げ	当て逃げ	hit-and-run accident caus…
+j	当分の間	当分の間	
+j	当初予算	当初予算	国、地方公共団体で四月一日からの会計年度で執行して…
+j	当座預金	当座預金	current account
+j	当惑した	当惑した	
+j	当意即妙	当意即妙	機転を利かせ、その場に合ったことをすること。
+j	当用漢字	当用漢字	tōyō kanji (kanji that we…
+j	当選確実	当選確実	projected winner, sure to…
+j	従動歯車	従動歯車	動力を供給される歯車。
+j	従属する	従属する	
+j	従属変数	従属変数	ある変数を決めると別の変数が定まるときの後の方の変…
+j	従軍する	従軍する	
+j	従軍画家	従軍画家	従軍する画家。
+j	従軍記者	従軍記者	従軍する記者。
+j	打ち上げ	打ち上げ	finishing of a performanc…
+j	打ち出す	打ち出す	come up with, come out wi…
+j	打ち切り	打ち切り	cancelation, axing (e.g. …
+j	打ち切る	打ち切る	terminate, break off, put…
+j	打ち勝つ	打ち勝つ	to conquer, to defeat
+j	打ち壊し	打ち壊し	
+j	打ち壊す	打ち壊す	to crush; to destroy; to …
+j	打ち払う	打ち払う	to brush away, to sweep a…
+j	打ち拉ぐ	打ち拉ぐ	emotionally crush, defeat…
+j	打ち掛け	打ち掛け	a type of ceremonial armo…
+j	打ち消し	打ち消し	negative (for instance, n…
+j	打ち消す	打ち消す	deny
+j	打ち砕く	打ち砕く	smash (to break violently)
+j	打ち破る	打ち破る	to break; to smash
+j	打ち見る	打ち見る	to glance at; to look at
+j	打ち込み	打ち込み	pre-programming a track i…
+j	打ち込む	打ち込む	toss, throw
+j	打っ掛け	打っ掛け	splashing
+j	打っ潰す	打っ潰す	to crush; to smash violen…
+j	打つかる	打つかる	
+j	打つ切り	打つ切り	a chunk, a large piece
+j	打付ける	打付ける	bump into
+j	打倒する	打倒する	
+j	打弦楽器	打弦楽器	弦をハンマーやばちなどで叩いて鳴らす楽器。
+j	打成一片	打成一片	with heart and soul
+j	打破する	打破する	
+j	打製石器	打製石器	石器時代に使われた、岩石を打ち砕いて作られた石器。
+j	打鍵する	打鍵する	
+j	易感染者	易感染者	高齢や病気などの理由で免疫力が低く、感染症に感染し…
+j	杓子定規	杓子定規	inflexibly following a st…
+j	染みつく	染みつく	to be indelibly stained o…
+j	染み染み	染み染み	keenly, fully, in a way t…
+j	染み込む	染み込む	to soak into, permeate
+j	染め物師	染め物師	染め物を行う職人。
+j	染色体の	染色体の	
+j	歓迎する	歓迎する	
+j	歓送する	歓送する	
+j	歓送迎会	歓送迎会	転出者を歓送する送別会と転入者を歓迎する歓迎会を併…
+j	窓ガラス	窓ガラス	窓に使用された板ガラス。
+j	窓側の席	窓側の席	
+j	窓側座席	窓側座席	
+j	窓外放出	窓外放出	
+j	窓外放擲	窓外放擲	
+j	窓拭き器	窓拭き器	ワイパー。
+j	臓器提供	臓器提供	
+j	臓器移植	臓器移植	病気やけがなどにより失われたり、機能が著しく低下し…
+j	菓子パン	菓子パン	甘味を付与するなどして、菓子としての要素を強化した…
+j	蔓延する	蔓延する	
+j	訓み下す	訓み下す	
+j	訓民正音	訓民正音	Hunmin Jeongeum (document…
+j	訓練する	訓練する	
+j	訓練施設	訓練施設	特定の技術、技能、機能、能力の向上を目的とした施設。
+j	訓練機関	訓練機関	特定の技術、技能、機能、能力の向上を目的とした施設。
+j	輓曳競馬	輓曳競馬	大型の馬に約一トンの橇を曳かせて行う北海道特有の地…
+j	道ならぬ	道ならぬ	道徳・道理に外れている。不道徳な。不義の。
+j	道を外す	道を外す	
+j	道具主義	道具主義	
+j	道場破り	道場破り	武芸者が他流の道場に赴いて試合を行い相手を打ち負か…
+j	道家思想	道家思想	老子、荘子など、道家によって説かれた思想。
+j	道府県税	道府県税	道府県が課する地方税。普通税と目的税に大別される。…
+j	道徳哲学	道徳哲学	synonym of 倫理学 (rinrigaku…
+j	道徳法則	道徳法則	道徳的行為の規準となる法則。道徳律。
+j	道教信者	道教信者	
+j	道明寺粉	道明寺粉	道明寺糒をひいて粉にしたもの。桜餅などの和菓子の材…
+j	道明寺糒	道明寺糒	糯米を蒸して干したもの。かつては保存食として用いら…
+j	道聴塗説	道聴塗説	路上で聞いた話をすぐさま路上で人に話すこと。
+j	道草する	道草する	
+j	道路地図	道路地図	road map
+j	道路封鎖	道路封鎖	a roadblock
+j	道路標示	道路標示	道路の交通に関し、規制又は指示を表示する標示で、路…
+j	道路標識	道路標識	road sign, traffic sign
+j	間に合う	間に合う	to be in time (for), to m…
+j	間も無く	間も無く	soon
+j	間仕切り	間仕切り	
+j	間投助詞	間投助詞	interjectory particle (さ …
+j	間接キス	間接キス	indirect kiss (touching o…
+j	間接喫煙	間接喫煙	synonym of 受動喫煙 (judō kit…
+j	間接撮影	間接撮影	fluoroscopy
+j	間接照明	間接照明	indirect lighting
+j	間接話法	間接話法	reported speech, indirect…
+j	間接選挙	間接選挙	有権者が候補を直接選ばず、選挙人を選びその選挙人が…
+j	間接金融	間接金融	資金を必要とする者が金融機関から資金を調達する方式。
+j	間欠歯車	間欠歯車	従動歯車の等速回転運動を間欠運動に変換する歯車。歯…
+j	間誤付く	間誤付く	be baffled, be perplexed,…
+j	間違える	間違える	to make a mistake, to mak…
+j	間違った	間違った	
+j	間食する	間食する	
+j	韓国学校	韓国学校	school supported by a pro…
+j	韓国手話	韓国手話	
+j	韓柳李杜	韓柳李杜	唐の時代を代表する四人の文学者である、韓愈・柳宗元…
+j	韓海蘇潮	韓海蘇潮	他人の詩文に対するほめ言葉。（参考：『新選漢和辞典…
+j	韓潮蘇海	韓潮蘇海	他人の詩文に対するほめ言葉。（参考：『新選漢和辞典…
+j	餓死する	餓死する	
+j	鼓腹撃壌	鼓腹撃壌	腹つづみを打ち、大地を叩いて歌うこと。人民が、天下…
+j	鼓膜張筋	鼓膜張筋	a tensor tympani
+k	간접화법	間接話法	indirect discourse
+k	경제과학	經濟科學	economics
+k	경제특구	經濟特區	
+k	계몽시대	啓蒙時代	Age of Enlightenment
+k	계몽주의	啓蒙主義	Enlightenment
+k	당좌예금	当座預金	예금자가 수표를 발행하면 은행이 어느 때나 예…
+k	도구상자	道具箱子	
+k	도로지도	道路地図	road map
+k	도로지도	道路地圖	road map
+k	도로표지	道路標識	road sign
+k	압력단체	壓力團體	
+k	압전 효과	壓電效果	
+k	역지사지	易地思之	thinking from the other p…
+k	원추각막	圓錐角膜	keratoconus
+k	원추세포	圓錐細胞	
+k	장기기증	臓器寄贈	
+k	체내 사정	体内射精	
+k	체외사정	体外射精	coitus interruptus
+k	체육대회	体育大会	대규모 운동회.
+k	체육제전	体育祭典	
+k	탁상공론	卓上空論	armchair argument
+k	한국 수어	韓国手語	
+k	한국 수어	韓國手語	
+k	한국전쟁	韓国戦争	The Korean War
+k	한국전쟁	韓國戰爭	The Korean War
+k	한국조어	韓国祖語	
+k	한국조어	韓國祖語	
+k	환대산업	歓待産業	
+k	환송하다	歓送하다	to see off
+k	훈몽자회	訓蒙字会	Collection of Characters …
+k	훈몽자회	訓蒙字會	Collection of Characters …
+k	훈민정음	訓民正音	hangul, the Korean script…
+k	훈주음종	訓主音従	In Old Korean orthography…
+k	훈주음종	訓主音從	In Old Korean orthography…
+j	体を重ねる	体を重ねる	to lay body upon body: to…
+j	体系化する	体系化する	
+j	体細胞分裂	体細胞分裂	主に成長や生長のために行われる細胞分裂。
+j	体調が悪い	体調が悪い	
+j	卓袱台返し	卓袱台返し	（食事中に激怒した者が）卓袱台をひっくり返すこと。
+j	墓マイラー	墓マイラー	person who visits the gra…
+j	墓穴を掘る	墓穴を掘る	墓穴を掘る。
+j	当たり前の	当たり前の	
+j	当てにする	当てにする	to count on, to expect, t…
+j	当てになる	当てになる	reliable, dependable, tru…
+j	当てはまる	当てはまる	apply, hold true, be appl…
+j	当てもない	当てもない	aimless, random
+j	当て付ける	当て付ける	
+j	当事者訴訟	当事者訴訟	（法律）当事者間の法律関係を確認あるいは形成する処…
+j	従兄弟姉妹	従兄弟姉妹	（漢字用例）男性と女性のいとこ。年齢の上下を意識し…
+j	従兄弟違い	従兄弟違い	first cousin once removed
+j	従軍慰安婦	従軍慰安婦	comfort woman in the cont…
+j	打ちのめす	打ちのめす	knock down
+j	打ちひしぐ	打ちひしぐ	
+j	打ち上げる	打ち上げる	to launch
+j	打ち寄せる	打ち寄せる	to break onto (shore); to…
+j	打ち捨てる	打ち捨てる	abandon
+j	打ち明ける	打ち明ける	be frank, confess, confide
+j	打ち明け話	打ち明け話	
+j	打ち歩詰め	打ち歩詰め	将棋の禁じ手の一つ。持ち駒の歩を打って、相手の玉を…
+j	打ち消し線	打ち消し線	文字の中央に横断する形で引いて、該当の記述の削除を…
+j	打ち立てる	打ち立てる	
+j	打ち落とす	打ち落とす	to strike down, to knock …
+j	打ち解ける	打ち解ける	open up (to someone), be …
+j	打ち負かす	打ち負かす	
+j	打っ飛ばす	打っ飛ばす	to strike (as to send fly…
+j	易感染宿主	易感染宿主	易感染者に同じ。
+j	染め上げる	染め上げる	to finish dyeing
+j	染色堅牢度	染色堅牢度	color fastness
+j	歓迎すべき	歓迎すべき	
+j	道に沿って	道に沿って	
+j	道に迷って	道に迷って	
+j	道化恐怖症	道化恐怖症	
+j	道理に適う	道理に適う	make sense, stand to reas…
+j	道草を食う	道草を食う	waste time on the way, lo…
+j	間が抜ける	間が抜ける	to be offbeat
+j	間を空ける	間を空ける	
+j	間接工事費	間接工事費	（土木、建築、会計など）特定の工事に直接結びつかな…
+j	間接目的語	間接目的語	間接的に動作による影響を受ける対象を示す目的語。
+j	間違いない	間違いない	
+j	間違いなく	間違いなく	
+j	間違い探し	間違い探し	spot the difference (puzz…
+j	間違い電話	間違い電話	
+j	間隙を縫う	間隙を縫う	to find a little leisure …
+j	韓国の漫画	韓国の漫画	
+j	韓国ドラマ	韓国ドラマ	
+j	韓国標準時	韓国標準時	Korea Standard Time
+k	까자	菓子/果子	
+k	도로표지판	道路標識板	
+k	술어 형용사	術語形容詞	
+k	역지즉개연	易地則皆然	
+k	원통	圓筒/圓筩	cylinder
+k	체질량 지수	体質量指数	body mass index
+k	해자	垓子/垓字	edge, boundary (of a gard…
+k	훈계	訓戒／訓誡	admonishment, rebuke, rep…
+k	훈련	訓錬/訓練	training, drill, discipli…
+k	훈련	訓鍊/訓練	training, drill, discipli…
+j	体重が増える	体重が増える	
+j	体重を減らす	体重を減らす	
+j	当てずっぽう	当てずっぽう	a conjecture, guesswork
+j	当てそこなう	当てそこなう	
+j	従属栄養生物	従属栄養生物	
+j	打ち上げ花火	打ち上げ花火	
+j	打ち合わせる	打ち合わせる	knock two objects together
+j	打ち所が悪い	打ち所が悪い	hitting a dangerous spot …
+j	打ち首にする	打ち首にする	
+j	染みを付ける	染みを付ける	stain, blot, smudge
+j	染み返らせる	染み返らせる	
+j	沓の子を打つ	沓の子を打つ	たくさんの人や物が隙間なく並ぶこと。そのさま。
+j	涓滴岩を穿つ	涓滴岩を穿つ	努力を続ければ、やがて成功するというたとえ。
+j	道の脇に寄る	道の脇に寄る	
+j	道中ご無事で	道中ご無事で	
+j	間に合わせの	間に合わせの	
+j	間に合わせる	間に合わせる	
+j	間怠っこしい	間怠っこしい	slow, tedious, sluggish, …
+j	間誤付かせる	間誤付かせる	
+j	間隙を生じる	間隙を生じる	
+j	間隙を生ずる	間隙を生ずる	to develop a gap
+j	間髪を容れず	間髪を容れず	（隙間に髪の毛1本を入れる余地もないことから）少し…
+j	韓国の漫画家	韓国の漫画家	
+k	종속영양생물	従属営養生物	
+j	当たって砕けろ	当たって砕けろ	take a chance, give it a …
+j	当たり前でしょ	当たり前でしょ	
+j	当てにならない	当てにならない	unreliable, undependable,…
+j	従法線ベクトル	従法線ベクトル	曲線 C=boldsymbol p(t)∣t∈ℝに…
+j	道の傍の碑の文	道の傍の碑の文	素晴らしい文章。優れた文章。名文。
+j	道の脇に寄せる	道の脇に寄せる	
+j	道徳と無関係の	道徳と無関係の	
+j	間違いを認める	間違いを認める	
+j	弓は袋に太刀は鞘	弓は袋に太刀は鞘	“God is in His heaven and…
+j	当たり障りのない	当たり障りのない	
+j	当て付けがましい	当て付けがましい	insinuating
+j	従ってはならない	従ってはならない	
+j	道徳的なパニック	道徳的なパニック	
+j	道路脇に止めさせる	道路脇に止めさせる	
+j	当たり前のことと思う	当たり前のことと思う	
+j	杓子は耳掻きにならず	杓子は耳掻きにならず	大は小を兼ねるが、必ずしもその限りではない。限度が…
+j	杓子は耳搔きにならず	杓子は耳搔きにならず	大は小を兼ねるが、必ずしもその限りではない。限度が…
+j	訓令式ローマ字綴り方	訓令式ローマ字綴り方	a Romanization method of …
+j	当たらずと雖も遠からず	当たらずと雖も遠からず	完全に合っているわけではないが、それほど的外れなも…
+j	当るも八卦当らぬも八卦	当るも八卦当らぬも八卦	占いは当たることもあれば当たらないこともあるので、…

@@ -1,0 +1,780 @@
+e	ai	ai	1 meaning
+j	あい	ai	mutual, together, each ot…
+j	アイ	ai	The name of the Latin scr…
+j	亜衣	ai	a female given name
+j	哀	ai	grief; sorrow; sadness; l…
+j	娃	ai	beauty, beautiful girl
+j	愛	ai	love
+j	藍	ai	the Japanese indigo or Ch…
+j	阿井	ai	a surname
+j	隘	ai	narrow; confined
+k	아이	ai	child, kid
+e	aid	aid	4 meanings
+e	aim	aim	5 meanings
+e	air	air	4 meanings
+j	ああいう	aiu	that kind we both know of
+j	哇咬	aio	淫らな音楽。
+e	aids	aids	1 meaning
+e	ainu	ainu	1 meaning
+e	aion	aion	1 meaning
+e	aiwo	aiwo	1 meaning
+e	aizu	aizu	1 meaning
+j	あいあい	aiai	馬にかけるかけ声。
+j	あいえん	aien	
+j	あいおい	aioi	ひとつの根元からふたつの幹が分かれること。
+j	あいか	aika	哀歌: the Book of Lamentati…
+j	あいぎ	aigi	肌着と上着との間に着る衣服。
+j	あいこ	aiko	愛子, 藍子, 亜依子, 亜衣子, 愛依子, 亜以…
+j	あいご	aigo	相碁: A match, as when two …
+j	あいさ	aisa	あきさ（秋沙）の音便。カモ目カモ科カモ亜科アイサ族…
+j	あいじょう	aijo	
+j	あいす	aisu	duplicate key, master key
+j	あいず	aizu	何かを知らせるために決まった形をとって見せること、…
+j	あいそ	aiso	神楽歌の拍子に用いる詞。
+j	あいた	aita	ouch
+j	あいだ	aida	a space
+j	あいて	aite	自分と物事をする人。
+j	あいな	aina	男を親しみ尊び呼ぶ称。
+j	あいば	aiba	石積みで、石と石との接する部分。
+j	あいふ	aifu	晩春の頃のウズラの雌。雄のウズラをとるためのおとり。
+j	あいま	aima	（空間的な）あいだ、すきま。
+j	あいや	aiya	藍屋: indigo dyer; alternat…
+j	あいよ	aiyo	Understood.
+j	あいら	aira	あのものども。あやつら。人を卑しめて呼ぶ語。
+j	あいろ	airo	あやいろの略。文目に同じ。模様。形状。
+j	アイアイ	aiai	an aye-aye
+j	アイアン	aian	an iron (type of golf clu…
+j	アイウォ	aiwo	
+j	アイウン	aiun	サハラ・アラブ民主共和国の法的な首都。モロッコの実…
+j	アイオーン	aion	aeon
+j	アイゴー	aigo	An interjection of grief …
+j	アイス	aisu	ice
+j	アイダ	aida	
+j	アイティー	aiti	
+j	アイヌ	ainu	Ainu
+j	アイビー	aibi	ウコギ科の常緑低木。観葉植物。木蔦。
+j	亜依子	aiko	a female given name
+j	亜唯華	aika	a female given name
+j	亜唯香	aika	a female given name
+j	亜衣可	aika	a female given name
+j	会津	aizu	a region in western Fukus…
+j	会田	aida	a surname
+j	会賀	aika	a female given name
+j	合加	aika	a female given name
+j	合図	aizu	signal, cue
+j	合郁	aika	a female given name
+j	合間	aima	pause; break (from doing …
+j	和生佳	aika	a female given name
+j	哀号	aigo	wailing in sadness
+j	哀哀	aiai	深く悲しむさま。悲しみ憐れむさま。
+j	哀哇	aiai	悲しみ、取り乱すこと。
+j	哀夏	aika	a female given name
+j	哀悼	aito	condolences, mourning
+j	哀情	aijo	sadness; sorrow; grief
+j	哀慕	aibo	哀しみ慕うこと。
+j	哀慟	aito	哀しみ、泣き叫ぶこと。
+j	哀歌	aika	elegy
+j	哀毀	aiki	悲しみのあまりやせ細ること。
+j	哀誤	aigo	improper protection; wron…
+j	哀音	aion	悲しげな声や音。
+j	哀韻	aiin	詩や音楽の、もの悲しくて、哀れみをさそうような調子。
+j	噫気	aiki	burp, belch, eructation
+j	埃壒	aiai	埃で汚れること。
+j	埃蕪	aibu	荒れて埃に塗れるさま。
+j	埃靄	aiai	埃が立って霞のようになること。土埃。
+j	愛す	aisu	to love
+j	愛佳	aika	a female given name
+j	愛児	aiji	one's beloved child
+j	愛刀	aito	自分が愛用している刀。自分が大切にしている刀。お気…
+j	愛加	aika	a female given name
+j	愛可	aika	a female given name
+j	愛叶	aika	a female given name
+j	愛嘉	aika	a female given name
+j	愛器	aiki	大切にしている器具。
+j	愛圭	aika	a female given name
+j	愛夏	aika	a female given name
+j	愛奈	aina	a female given name
+j	愛女	aijo	beloved daughter
+j	愛好	aiko	love; adoration
+j	愛妓	aigo	贔屓にしている芸妓。
+j	愛姫	aiki	気に入り寵愛する女性。
+j	愛婦	aifu	愛する女性。
+j	愛嬢	aijo	(someone else's) dear or …
+j	愛子	aiko	a female given name
+j	愛希	aino	a female given name
+j	愛幸	aiko	愛しいつくしむこと。
+j	愛心香	aika	a female given name
+j	愛情	aijo	love, affection
+j	愛想	aiso	courtesy, civility
+j	愛慕	aibo	adoration, attachment, lo…
+j	愛憎	aizo	love and hate, mixed feel…
+j	愛撫	aibu	a caress
+j	愛日	aika	a female given name
+j	愛李	airi	a female given name
+j	愛校	aiko	love for one's current or…
+j	愛梨	airi	a female given name
+j	愛楓	aika	a female given name
+j	愛槍	aiso	自分が愛用している槍。自分が大切にしている槍。お気…
+j	愛機	aiki	beloved device, machine (…
+j	愛河	aika	a female given name
+j	愛煙	aien	煙草を好んで吸うこと。
+j	愛理	airi	a female given name
+j	愛用	aiyo	favorite, what one uses h…
+j	愛甲	aiko	a surname
+j	愛美	aimi	a female given name
+j	愛莉	airi	a female given name
+j	愛菜	aina	a female given name
+j	愛蔵	aizo	大切に所蔵すること。
+j	愛護	aigo	protection, kind treatment
+j	愛里	airi	a female given name
+j	愛野	aino	a surname
+j	愛銃	aiju	自分が愛用している銃。自分が大切にしている銃。お気…
+j	愛附	aifu	懐くこと。
+j	愛音	aito	a female given name
+j	愛顧	aiko	patronage
+j	愛風	aika	a female given name
+j	愛飲	aiin	having one's favorite dri…
+j	愛香	aika	a female given name
+j	愛馬	aiba	a beloved horse
+j	挨挨	aiai	徐徐に。
+j	挨次	aiji	次々と順序を追うこと。順次。
+j	曖乎	aiko	愛情が隠るさま。
+j	曖曖	aiai	薄暗く、はっきりしないさま。
+j	會田	aida	a surname
+j	欸欸	aiai	真心。
+j	相子	aiko	a draw, standoff, tie (tw…
+j	相手	aite	other person
+j	相木	aiki	a surname
+j	相棒	aibo	partner, sidekick (someon…
+j	相生	aioi	Aioi (a city in Hyōgo Pre…
+j	相田	aida	a surname
+j	相碁	aigo	囲碁の実力が似通っていること。
+j	相羽	aiba	a surname
+j	秋沙	aisa	
+j	穢行	aiko	けがれたおこない。道徳に反した行為。
+j	葵花	aika	a female given name
+j	薆薆	aiai	陰ること。
+j	藍子	aigo	mottled spinefoot, Siganu…
+j	藍屋	aiya	藍染屋。
+j	藍希	aino	a female given name
+j	藍棒	aibo	藍蝋のこと。
+j	藍蝋	airo	藍染の甕の泡を乾燥させ棒状に固めたもの。藍棒。
+j	藹藹	aiai	茂るさま。または、さかんに多いさま。
+j	開いた	aita	
+j	隘路	airo	bottleneck, a narrow road
+j	靄靄	aiai	雲の集まっているさま。静にたなびくさま。
+j	靉靉	aiai	雲が重なり、留まっているさま。
+j	鞋下	aika	足元。脚下。
+k	아이가	aiga	Plain informal interrogat…
+k	아이고	aigo	expression of surprise; o…
+k	아이구	aigu	expression of surprise; o…
+k	아이누	ainu	
+k	아이다	aida	
+k	아이디	aidi	ID
+k	아이시	aisi	
+k	아이아이	aiai	
+k	아이유	aiyu	'아유'의 북한말.
+k	아이코	aiko	
+k	아이쿠	aiku	
+k	아이티	aiti	Haiti (a country in the C…
+k	아이피	aipi	인터넷에 참여하는 컴퓨터의 교류를 기록하는 일…
+e	aichi	aichi	1 meaning
+e	aidan	aidan	1 meaning
+e	aigio	aigio	1 meaning
+e	airan	airan	1 meaning
+e	aisle	aisle	1 meaning
+e	aitch	aitch	1 meaning
+j	あいいれ	aiire	imperfective and stem (or…
+j	あいいろ	aiiro	藍色: The color indigo.
+j	あいけん	aiken	愛犬: one's pet dog
+j	あいし	aishi	一緒に仕事をする人々。
+j	あいじん	aijin	
+j	あいつ	aitsu	（口語・一般的用法）敵意・侮蔑の対象の遠称。男性が…
+j	あいまい	aimai	相舞, 合舞: dancing in unison
+j	アイアース	aiasu	
+j	アイオワ	aiowa	Iowa (a state in the Midw…
+j	アイギオ	aigio	
+j	アイコン	aikon	an icon, a small image in…
+j	アイゼン	aizen	靴底に取り付ける滑り止め。
+j	アイデア	aidea	idea, invention
+j	アイディア	aidia	idea, invention
+j	アイフォン	aifon	
+j	アイフォーン	aifon	
+j	アイホン	aihon	
+j	アイラン	airan	
+j	アイリーン	airin	
+j	アイロン	airon	clothes iron
+j	アイ・キュー	aikyu	
+j	僾逮	aitai	凸レンズの眼鏡。
+j	合性	aisho	「相性」に同じ。
+j	合拳	aiken	じゃんけんでのあいこ。最初に出す手を決めておいて出…
+j	合銀	aigin	手数料。
+j	哀傷	aisho	grief; sorrow
+j	哀叫	aikyo	crying out sorrowfully
+j	哀弔	aicho	sympathetic condolence
+j	哀愁	aishu	pathos; sorrow
+j	哀憐	airen	かわいがって哀れむこと。
+j	哀歓	aikan	joy and sorrow
+j	哀求	aikyu	哀れましいほど切実にもとめること。
+j	哀痛	aitsu	being saddened sincerely;…
+j	哀調	aicho	melancholy tone, mournful…
+j	哀願	aigan	supplication, entreaty
+j	彼奴	aitsu	that guy, girl, or thing …
+j	愛人	aijin	a lover, a mistress
+j	愛剣	aiken	自分が愛用している剣。自分が大切にしている剣。お気…
+j	愛執	aishu	（もとは仏教語）あるものを、いつくしんで執着するこ…
+j	愛妻	aisai	one's loving wife
+j	愛妾	aisho	気に入りの妾。愛する妾。
+j	愛嬌	aikyo	charm; lovable quality, w…
+j	愛寵	aicho	favour, patronage
+j	愛州	aishu	Idaho (a state of the Uni…
+j	愛敬	aikyo	a surname
+j	愛書	aisho	本が好きなこと。
+j	愛染	aizen	愛染明王。
+j	愛橋	aikyo	a surname
+j	愛泉	aisen	a female given name
+j	愛液	aieki	vaginal fluids
+j	愛犬	aiken	one's beloved dog, one's …
+j	愛猫	aibyo	one's beloved cat, one's …
+j	愛玩	aigan	caring for (a pet or smal…
+j	愛知	aichi	a place name, such as tha…
+j	愛社	aisha	love for one's employer
+j	愛称	aisho	nickname, pet name
+j	愛聴	aicho	preferred listening
+j	愛船	aisen	日頃から大切に愛用しているタンカーなどの大型船舶。
+j	愛艇	aitei	日頃から大切に愛用しているヨットやボートなどの小型…
+j	愛車	aisha	one's beloved car
+j	愛郷	aikyo	自分の故郷を愛おしく思うこと。
+j	愛酒	aishu	love of alcohol
+j	愛重	aicho	to love and cherish
+j	愛鳥	aicho	one's beloved bird, one's…
+j	曖昧	aimai	ambiguous, obscure, uncle…
+j	曖迺	aidai	欸乃。
+j	欸乃	aidai	boating song, or the soun…
+j	相先	aisen	一局ごとに交代で先手になって対局すること。
+j	相反	aihan	contradiction
+j	相対	aitai	confrontation, head-to-he…
+j	相性	aisho	the degree to which peopl…
+j	相板	aihan	二人以上の者が共同して出版すること。
+j	相番	aiban	同じ役目についている人。
+j	相給	aikyu	中世、一つの所領を複数の領主に与えること。
+j	薆逮	aitai	かげること。
+j	藍色	aiiro	indigo
+j	間判	aiban	紙の大きさの一つ。縦七寸、横五寸のもの。
+j	間遮	aisha	「合い駒」のこと。
+j	間銀	aigin	手数料。
+j	間銭	aisen	（古）手数料。
+j	阿育王	aikuo	Ashoka (Indian emperor re…
+j	靄乃	aidai	欸乃。
+j	靄迺	aidai	欸乃。
+j	靉靅	aihai	厚い雲に覆われて、薄暗いさま。
+j	靉靆	aitai	cloudy, dark
+j	鞋袋	aitai	履き物を入れる袋。
+j	黳黧	airai	浅黒い。
+k	아이놈	ainom	
+k	아이돌	aidol	idol (various senses)
+k	아이띠	aitti	Haiti (a country in the C…
+k	아이란	airan	
+k	아이스	aiseu	ice, iced
+k	아이오와	aiowa	[~주(州)] Iowa (a state in …
+k	아이작	aijak	
+k	아이젠	aijen	
+k	아이치	aichi	
+k	아이콘	aikon	icon (small picture, comp…
+k	아이큐	aikyu	'지능 지수'.
+k	아이템	aitem	item (product)
+k	아이팟	aipat	
+k	아이폰	aipon	iPhone
+e	aibika	aibika	1 meaning
+e	aiglet	aiglet	1 meaning
+e	aikido	aikido	1 meaning
+e	air bed	airbed	1 meaning
+e	air gun	airgun	1 meaning
+e	airbag	airbag	1 meaning
+e	airbus	airbus	1 meaning
+e	airway	airway	1 meaning
+e	aizawl	aizawl	1 meaning
+j	あいうち	aiuchi	対戦をするものの間での攻撃が、互いに同程度の打撃を…
+j	あいうつ	aiutsu	互いに打ち合う。
+j	あいえんか	aienka	
+j	あいおち	aiochi	一方が決済されると、もう一方も決済されること。
+j	あいかぎ	aikagi	その錠に合う他の鍵。
+j	あいかた	aikata	物事を一緒にする人。
+j	あいかわ	aikawa	なめし革を、藍色に染めたもの。
+j	あいがさ	aigasa	一本の傘を二人一緒で使用すること。相合傘。
+j	あいがと	aigato	thank you
+j	あいがみ	aigami	藍色に染めた和紙。
+j	あいがも	aigamo	まがもとあおくびあひるの交雑種。
+j	あいきどう	aikido	「合気道」のひらがな表記。
+j	あいくぎ	aikugi	両端の尖った釘。
+j	あいくす	aikusu	匕首。また殺傷能力のある刃物全般をいう。
+j	あいごま	aigoma	王手から逃れるために、王手をかけた駒と自玉の間に駒…
+j	あいぞめ	aizome	藍で繊維などを染めること。また、それによる色や物。
+j	あいたけ	aitake	笙の演奏で17本のうち5、6本を同時に音を出す奏法。
+j	あいだま	aidama	藍の葉を臼でついて発酵、乾燥させ固めた染料。
+j	あいなめ	ainame	カサゴ目・アイナメ科に分類される魚。アユナメの訛り…
+j	あいにく	ainiku	不本意である様。ああ憎く。あなにく。
+j	あいのこ	ainoko	混血児。
+j	あいのて	ainote	phrase said in between vo…
+j	あいのり	ainori	本来同乗することのない他人と、同じ乗り物に乗ること。
+j	あいびき	aibiki	合挽, 合い挽き, 合いびき: a mixture…
+j	あいふく	aifuku	clothing suitable for spr…
+j	あいべや	aibeya	sharing a room (accommoda…
+j	あいむこ	aimuko	同じ舅姑を持つ婿同士、即ち、姉妹の夫同士。
+j	あいやけ	aiyake	婿の親と嫁の親との間柄。
+j	あいよめ	aiyome	同じ舅姑を持つ嫁同士、即ち、兄弟の妻同士。
+j	アイアンブ	aianbu	
+j	アイスティー	aisuti	氷などで冷した紅茶。
+j	アイスバー	aisuba	synonym of アイスキャンディー
+j	アイス屋	aisuya	アイスを作って売る店。
+j	アイダホ	aidaho	Idaho (a state of the Uni…
+j	アイテム	aitemu	item (a product)
+j	アイテル	aiteru	a transliteration of the …
+j	アイテール	aiteru	Aether
+j	アイトネ	aitone	木星の第31衛星。
+j	アイドル	aidoru	idol (Asian popular perfo…
+j	アイナメ	ainame	fat greenling, Hexagrammo…
+j	アイヌ語	ainugo	Ainu language
+j	アイバソウ	aibaso	（植物）あぶらがやの異名。
+j	アイバル	aibaru	
+j	アイブロウ	aiburo	eyebrow
+j	アイホール	aihoru	upper eyelid
+j	アイボリー	aibori	象牙。
+j	アイマラ	aimara	Aymara (indigenous people…
+j	アイライン	airain	outline of the eye drawn …
+j	アイリス	airisu	アヤメ科アヤメ属の園芸種の総称。
+j	アイリータ	airita	
+j	アイロニー	aironi	irony
+j	会乃谷	ainoya	a surname
+j	会之谷	ainoya	a surname
+j	会沢	aizawa	a surname
+j	会野谷	ainoya	a surname
+j	合乃谷	ainoya	a surname
+j	合之谷	ainoya	a surname
+j	合席	aiseki	「相席」を参照。
+j	合挽	aibiki	A mixture of ground beef …
+j	合服	aifuku	夏服と冬服各々の変わり目に着る服。中間服。
+j	合気道	aikido	aikido
+j	合竹	aitake	chords used in the playin…
+j	合野谷	ainoya	a surname
+j	合鍵	aikagi	spare key
+j	哀哭	aikoku	grief, mourning, lamentat…
+j	哀川	aikawa	a surname
+j	哀惜	aiseki	grief, sorrow, mournfulne…
+j	哀楽	airaku	sadness and happiness
+j	愛する	aisuru	to love
+j	愛の巣	ainosu	
+j	愛乃谷	ainoya	a surname
+j	愛之谷	ainoya	a surname
+j	愛内	aiuchi	a surname
+j	愛原	aihara	a surname
+j	愛国	aikoku	patriotism
+j	愛好家	aikoka	fan, enthusiast, lover
+j	愛川	aikawa	a surname
+j	愛息	aisoku	beloved son
+j	愛惜	aiseki	執着して惜しむこと。
+j	愛沢	aizawa	a surname
+j	愛舐め	ainame	
+j	愛読	aidoku	loving to read
+j	愛野谷	ainoya	a surname
+j	愛飲家	aiinka	
+j	會澤	aizawa	a surname
+j	生憎	ainiku	unfortunate, unfortunately
+j	相乃谷	ainoya	a surname
+j	相之谷	ainoya	a surname
+j	相乗り	ainori	riding together, sharing …
+j	相傘	aigasa	
+j	相内	aiuchi	a surname
+j	相原	aihara	a surname
+j	相婿	aimuko	
+j	相嫁	aiyome	co-sister-in-law; one's h…
+j	相島	aijima	a surname
+j	相崎	aisaki	a surname
+j	相川	aikawa	a surname
+j	相席	aiseki	sharing a table with a st…
+j	相役	aiyaku	同じ役目についている人。
+j	相撃ち	aiuchi	both sides being equally …
+j	相方	aikata	synonym of 相手 (aite)
+j	相本	aimoto	a surname
+j	相沢	aizawa	a surname
+j	相澤	aizawa	a surname
+j	相酌	aijaku	互いに酌をしあいながら酒を飲むこと。
+j	藍乃谷	ainoya	a surname
+j	藍之谷	ainoya	a surname
+j	藍役	aiyaku	藍に課せられた税。
+j	藍染め	aizome	indigo-dyed textile
+j	藍瓶	aigame	earthenware pot for stori…
+j	藍野谷	ainoya	a surname
+j	逢い引き	aibiki	
+j	逢引	aibiki	An assignation; a tryst; …
+j	間の子	ainoko	person of mixed race, hal…
+j	間紙	aigami	interleaf
+j	鮎川	aikawa	a surname
+j	鮎掛	aikake	Japanese fluvial sculpin,…
+k	아 이름	aireum	something unimportant or …
+k	아이고나	aigona	
+k	아이누어	ainueo	Ainu (language)
+k	아이다호	aidaho	[~주(州)] Idaho (a state in…
+k	아이들	aideul	
+k	아이디어	aidieo	idea
+k	아이보리	aibori	'상아색'.
+k	아이싱	aising	
+k	아이아스	aiaseu	
+k	아이오딘	aiodin	iodine
+k	아이참	aicham	
+k	아이키도	aikido	
+k	아이티인	aitiin	
+k	아인교	aingyo	
+e	aileron	aileron	1 meaning
+e	ailment	ailment	1 meaning
+e	air base	airbase	1 meaning
+e	air mass	airmass	1 meaning
+e	air raid	airraid	1 meaning
+e	air show	airshow	1 meaning
+e	airdrie	airdrie	1 meaning
+e	airfare	airfare	1 meaning
+e	airflow	airflow	1 meaning
+e	airfoil	airfoil	1 meaning
+e	airhead	airhead	1 meaning
+e	airlift	airlift	1 meaning
+e	airline	airline	1 meaning
+e	airlock	airlock	1 meaning
+e	airmail	airmail	2 meanings
+e	airport	airport	1 meaning
+e	airtime	airtime	1 meaning
+j	あいいれた	aiireta	
+j	あいいれる	aiireru	to coexist; to be compati…
+j	あいくち	aikuchi	合口, 合い口: compatibility, r…
+j	あいさつ	aisatsu	「挨拶」のひらがな表記。
+j	あいつぐ	aitsugu	次々に起こる。続けざまに起こる。
+j	あいつら	aitsura	they, those guys
+j	あいづち	aizuchi	相槌, 相鎚: hammer man to a s…
+j	あいのもん	ainomon	あいのものに同じ。
+j	あいぼし	aiboshi	〔相撲などで〕勝ち星と負け星の数がそれぞれ同じこと…
+j	あいまって	aimatte	working together; coupled…
+j	アイアイエー島	aiaieto	
+j	アイオロス	aiorosu	Aeolus (character in Gree…
+j	アイザウル	aizauru	Aizawl (the capital of Mi…
+j	アイザック	aizakku	
+j	アイシス	aishisu	
+j	アイシャドウ	aishado	
+j	アイシャドー	aishado	eyeshadow
+j	アイスバーン	aisuban	icy road (driving) or pat…
+j	アイバンク	aibanku	角膜の移植に備えるため、眼球を提供する者を登録し、…
+j	アイバンホー	aibanho	
+j	アイマック	aimakku	iMac
+j	アイライナー	airaina	eyeliner
+j	アイランド	airando	island
+j	アイレット	airetto	鳩目。
+j	アイ・ビー・エム	aibiemu	
+j	哀傷歌	aishoka	elegy; dirge
+j	哀切	aisetsu	あまりに哀れでもの悲しいこと。また、そのようなさま。
+j	哀別	aibetsu	別れを悲しむこと。また、その別れ。
+j	愛し合う	aishiau	to love each other
+j	愛の歌	ainouta	
+j	愛別	aibetsu	常に親愛する人と別れること。
+j	愛唱歌	aishoka	favorite song(s)
+j	愛国歌	aikokka	Aegukka, the North Korean…
+j	愛好者	aikosha	enthusiast; fan; devotee;…
+j	愛妻家	aisaika	妻をだれよりも愛する夫。
+j	愛嶋	aishima	a surname
+j	愛犬家	aikenka	dog lover
+j	愛猫家	aibyoka	cat lover
+j	愛着	aichaku	emotional attachment
+j	愛蔵版	aizoban	a collector's edition
+j	愛食	aishoku	fondness for eating
+j	愛鳥家	aichoka	bird lover
+j	挨拶	aisatsu	a greeting, a salutation,…
+j	曖昧さ	aimaisa	ambiguity
+j	曖昧な	aimaina	
+j	相対の	aitaino	
+j	相槌	aizuchi	backchannelling: customar…
+j	相次ぐ	aitsugu	follow one after another
+k	아이누족	ainujok	일본(홋카이도)과 러시아(사할린 섬 남부, 쿠…
+k	아이러니	aireoni	irony
+k	아이반호	aibanho	
+k	아이스티	aiseuti	
+k	아이오니움	aionium	
+k	아이테르	aitereu	
+e	air force	airforce	1 meaning
+e	air fryer	airfryer	1 meaning
+e	air quote	airquote	1 meaning
+e	air rifle	airrifle	1 meaning
+e	aircraft	aircraft	1 meaning
+e	airfield	airfield	1 meaning
+e	airliner	airliner	1 meaning
+e	airplane	airplane	1 meaning
+e	airspace	airspace	1 meaning
+e	airtight	airtight	1 meaning
+j	あいあいがさ	aiaigasa	一本の傘を二人一緒で使用すること。相傘。
+j	あいうえお順	aiueojun	五十音順。
+j	あいぐらす	aigurasu	糠芒の異名。
+j	あいことば	aikotoba	あらかじめ決めておく仲間の間だけでの言葉あるいはキ…
+j	あいぞめや	aizomeya	藍色の汁で布や糸を染めること（=藍染め）を業とする…
+j	あいだがら	aidagara	親戚又は姻族の関係、続柄。
+j	あいついで	aitsuide	後に続いて。つぎつぎと。
+j	あいてさき	aitesaki	取引相手、顧客、連絡する第三者。
+j	あいのかぜ	ainokaze	（新潟県西頸城郡の方言）東風。
+j	あいのもの	ainomono	間食。普通は菓子などを言う。
+j	あいらしい	airashii	
+j	アイオワ州	aiowashu	the full form of アイオワ (“I…
+j	アイシング	aishingu	icing (sweet glaze used f…
+j	アイスケーキ	aisukeki	
+j	アイスコーヒー	aisukohi	iced coffee
+j	アイスフォール	aisuforu	氷河の傾斜部が滝のようになっている場所。氷瀑。
+j	アイスワーラー	aisuwara	
+j	アイソトープ	aisotopu	同位体のこと。ラジオアイソトープは放射性同位体のこ…
+j	アイソーポス	aisoposu	Aesop (ancient Greek auth…
+j	アイビーリーガー	aibiriga	アイビーリーグの学生、卒業生。
+j	アイビーリーグ	aibirigu	アメリカ合衆国東海岸にあるブラウン、コロンビア、コ…
+j	アイマスク	aimasuku	blindfold; (especially) s…
+j	アイマラ語	aimarago	Aymara (language of South…
+j	アイリッシュ	airisshu	アイルランド人。
+j	アイロン台	airondai	ironing board (a long boa…
+j	アイ・ビー・エス・エー	aibiesue	
+j	アイ・ラブ・ユー	airabuyu	I love you
+j	合気道場	aikidojo	合気道をするための武道場。
+j	合気道家	aikidoka	合気道を行う武道家またはそれで生業としている者、修…
+j	合縁奇縁	aienkien	a relationship from a hap…
+j	合言葉	aikotoba	countersign; watchword; p…
+j	噫気する	aikisuru	
+j	愛すべき	aisubeki	
+j	愛らしい	airashii	charming, lovely, cute
+j	愛国の	aikokuno	
+j	愛好する	aikosuru	
+j	愛想のいい	aisonoii	
+j	愛撫する	aibusuru	
+j	愛知県	aichiken	a prefecture in the 中部 (C…
+j	愛縁奇縁	aienkien	人と人の気が合うのも、合わないのも全て不思議な縁に…
+j	愛顧する	aikosuru	
+j	相合ガサ	aiaigasa	
+j	相合傘	aiaigasa	an umbrella or parasol sh…
+j	相容れない	aiirenai	incompatible (with)
+j	相手方	aitekata	相手のがわ。
+j	相次いで	aitsuide	
+j	相言葉	aikotoba	
+j	藍染屋	aizomeya	indigo dyer
+j	間柄	aidagara	a relationship
+k	아이게우스	aigeuseu	
+k	아이라이너	airaineo	
+k	아이마라어	aimaraeo	
+k	아이섀도	aisyaedo	
+k	아이코세인	aikosein	
+k	아이피 주소	aipijuso	
+e	air bubble	airbubble	1 meaning
+e	air letter	airletter	1 meaning
+e	air pistol	airpistol	1 meaning
+e	air pocket	airpocket	1 meaning
+e	air potato	airpotato	1 meaning
+e	air strike	airstrike	1 meaning
+e	aisle seat	aisleseat	1 meaning
+j	ああ言えばこう言う	aiebakoiu	having a comeback or excu…
+j	あいおれくぎ	aiorekugi	釘の種類の一つで、直角に曲がり両端が尖っているもの…
+j	あいすらんど	aisurando	Iceland
+j	あいだてない	aidatenai	分別がない。遠慮がない。合理的でない。
+j	あいろこいろ	airokoiro	様々な場所。
+j	アイキャッチ	aikyatchi	eyecatch (a short scene o…
+j	アイスキューブ	aisukyubu	
+j	アイスダンス	aisudansu	フィギュアスケートの競技の一つでスケートリンクを男…
+j	アイスピック	aisupikku	氷を砕くための錐。
+j	アイスホッケー	aisuhokke	ice hockey
+j	アイスランド	aisurando	Iceland (an island and co…
+j	アイソタイプ	aisotaipu	
+j	アイダホ州	aidahoshu	the full form of アイダホ (“I…
+j	アイデンティティ	aidentiti	identity
+j	アイデンティティー	aitentiti	同一性、独自性。
+j	アイドリング	aidoringu	動力、機械、エンジンなどに負荷をかけずに動かすこと。
+j	アイドル誌	aidorushi	アイドルに関するニュースを中心に伝える雑誌。アイド…
+j	アイベックス	aibekkusu	山岳地帯に生息するヤギ属に属する哺乳類の一種。
+j	アイルランド	airurando	Ireland (a country in nor…
+j	アイロン掛け	airongake	ironing (the act of press…
+j	会津坂下	aizubange	a town in Kawanuma distri…
+j	哀願する	aigansuru	
+j	哀鴻遍野	aikohenya	a land of wailing and des…
+j	愛してる	aishiteru	I'm in love with you, I l…
+j	愛国者	aikokusha	a patriot (person who lov…
+j	愛多憎生	aitazosei	愛や恩を多くもらいすぎると、妬みが生まれてしまうと…
+j	愛蘭	airurando	アイルランドの日本語による漢字表記。
+j	愛読書	aidokusho	好んで読んでいる書物。
+j	愛読者	aidokusha	book-lover; avid reader
+j	挨拶状	aisatsujo	
+j	曖昧模糊	aimaimoko	obscure, vague
+j	相呼応する	aikoosuru	
+k	아이가 없다	aigaeopda	
+k	아이고머니	aigomeoni	
+k	아이구머니	aigumeoni	
+k	아이덴티티	aidentiti	
+k	아이섀도우	aisyaedou	
+k	아이소포스	aisoposeu	
+k	아이쇼핑	aisyoping	window-shopping
+k	아이스케키	aiseukeki	'아이스케이크'의 비표준어.
+k	아이스하키	aiseuhaki	ice hockey
+k	아이올루스	aiolluseu	
+k	아이티 사람	aitisaram	
+e	aide-de-camp	aidedecamp	1 meaning
+e	air cushion	aircushion	1 meaning
+j	あいおもいぐさ	aiomoigusa	たばこの異称。
+j	あいかわらず	aikawarazu	以前と同様で。以前と変わらず。
+j	あいくるしい	aikurushii	
+j	あいくろしい	aikuroshii	愛敬こぼれるばかりである。愛くるしいの転。
+j	あいずりがさ	aizurigasa	傘の目釘が折れて、空方に反り上がったもの。
+j	あいたどころ	aitadokoro	あしたどころの音便。あいたんどころ。
+j	あいのこぶね	ainokobune	日本式と西洋式を織り交ぜた、明治後半～大正に沿岸航…
+j	アイオワシティ	aiowashiti	Iowa City
+j	アイスアックス	aisuakkusu	登山で使用する杖につるはしのような金具を取り付けた…
+j	アイスキネス	aisukinesu	
+j	アイスキャンディー	aisukyandi	an ice pop; a popsicle
+j	アイスキャンデー	aisukyande	
+j	アイスクリーム	aisukurimu	ice cream
+j	アイススケート	aisusuketo	スケートリンクの上をスケート靴を用いて滑る競技。ス…
+j	アイヌワサビ	ainuwasabi	アブラナ科タネツケバナ属の一二年草。茎の高さ約30…
+j	アインシュタイン	ainshutain	光子の物質量の単位（国際単位系;SI）。記号はE。
+j	合い挽き肉	aibikiniku	豚肉と牛肉を混ぜて挽いた挽き肉。
+j	愛くるしい	aikurushii	sweet, cute
+j	愛している	aishiteiru	I'm in love with you; I l…
+j	愛の結晶	ainokessho	愛情で結ばれた男と女の間に生まれた子供。
+j	愛国心	aikokushin	patriotism (love of one's…
+j	愛国的	aikokuteki	自国を愛するさま。
+j	愛愛名中	aiaimeichu	愛知の名門私立大学: 愛知大学（愛）、愛知学院大学…
+j	愛玉子	aigyokushi	Ficus pumila var. awkeots…
+j	相変わらず	aikawarazu	still, as always, as usua…
+j	逢い引きする	aibikisuru	
+k	아이보리색	aiborisaek	
+k	아이비에스에이	aibieseuei	
+k	아이스 커피	aiseukeopi	iced coffee
+k	아이스커피	aiseukeopi	‘냉커피’를 달리 이르는 말.
+k	아인슈타인	ainsyutain	
+k	아일랜드	aillaendeu	Ireland (a country in nor…
+e	aibohphobia	aibohphobia	1 meaning
+e	ailurophile	ailurophile	1 meaning
+e	air force one	airforceone	1 meaning
+e	air purifier	airpurifier	1 meaning
+e	airsickness	airsickness	1 meaning
+j	あいぐちかく	aiguchikaku	（加賀国の方言）足組む。
+j	あいたんどころ	aitandokoro	太政官庁の中にある建物の名。参議以上の食堂。
+j	アイコンタクト	aikontakuto	eye contact
+j	アイスキュロス	aisukyurosu	
+j	アイスプラント	aisupuranto	Mesembryanthemum crystall…
+j	アイスボックス	aisubokkusu	
+j	アイスランドの	aisurandono	
+j	アイスランド語	aisurandogo	Icelandic, the Icelandic …
+j	アイピーアドレス	aipiadoresu	
+j	アイリッシュ海	airisshukai	Irish Sea
+j	アイルランドの	airurandono	
+j	アイルランド語	airurandogo	Irish (language)
+j	アイレットワーク	airettowaku	孔をあけ、その縁をかがる刺繍。またその方法。
+j	愛国主義	aikokushugi	patriotism
+j	挨拶する	aisatsusuru	
+k	아이가 없는	aigaeomneun	
+k	아이고머니나	aigomeonina	
+k	아이러니하다	aireonihada	(상황이나 사건 등이) 모순되거나 역설적이다.
+k	아이리시 세터	airisiseteo	
+k	아이스 밀크	aiseumilkeu	
+k	아이스 캔디	aiseukaendi	popsicle
+k	아이스박스	aiseubakseu	얼음을 녹지 않게 보관하는 상자. 또는 음식물…
+k	아이스캔디	aiseukaendi	popsicle
+k	아이스케이크	aiseukeikeu	ice cream
+k	아이스크림	aiseukeurim	ice cream (dessert)
+e	ailurophobia	ailurophobia	1 meaning
+e	air freshener	airfreshener	1 meaning
+e	air pollution	airpollution	1 meaning
+e	air supremacy	airsupremacy	1 meaning
+e	airplane ears	airplaneears	1 meaning
+e	airplane mode	airplanemode	1 meaning
+j	あいうえお作文	aiueosakubun	ある文の各文字を頭文字とした文を作る遊び。
+j	アイススイミング	aisusuimingu	水温がセ氏5度以下の環境で行う水泳競技。
+j	アイススケート場	aisusuketojo	「スケートリンク」に同じ。
+j	アイスランド人	aisurandojin	Icelander; person from Ic…
+j	アイバーソン括弧	aibasonkakko	命題Pに対し、[P]=1(P:⊤)\0(P:⊥)と…
+j	アイボリーコースト	aiborikosuto	
+j	アイラッシュカーラー	airasshukara	
+j	アイリッシュコーヒー	airisshukohi	アイリッシュ・ウイスキーをベースとし、ホットコーヒ…
+j	アイルランド人	airurandojin	Irish person
+j	アイロンをかける	aironokakeru	
+j	愛新覚羅	aishinkakura	Aisin Gioro, the Manchu f…
+j	愛玩動物	aigandobutsu	a pet (an animal kept as …
+j	愛社精神	aishaseishin	corporate patriotism
+j	曖昧さ回避	aimaisakaihi	disambiguation
+j	曖昧検索	aimaikensaku	検索エンジンで、検索キーワードと完全一致しなくても…
+k	아이 콘택트	aikontaekteu	eye contact
+k	아이스링크	aiseuringkeu	
+k	아이스키네스	aiseukineseu	
+k	아이슬란드	aiseullandeu	Iceland (an island and co…
+k	아이큐에스와이	aikyueseuwai	
+k	아인시타이늄	ainsitainyum	아인슈타이늄.
+k	아일랜드어	aillaendeueo	Irish (language)
+k	아일랜드의	aillaendeuui	
+k	아일랜드인	aillaendeuin	
+e	airport lounge	airportlounge	1 meaning
+e	airworthiness	airworthiness	1 meaning
+j	あいおちこぎって	aiochikogitte	他行小切手による入金を担保として振り出された小切手
+j	アイスクリームコーン	aisukurimukon	
+j	アイゼンロール図法	aizenroruzuho	フリードリヒ・アイゼンロール（1831-1904）…
+j	アイリッシュ・セッター	airisshusetta	
+j	アイルランドゲージ	airurandogeji	アイルランドで採用されている1600 mmの軌間。
+j	アイルランド英語	airurandoeigo	アイルランドで話されている英語の変種。
+j	アイルランド語の	airurandogono	
+j	アインスタイニウム	ainsutainiumu	einsteinium
+j	哀調を帯びる	aichouwoobiru	
+j	愛称をつける	aishootsukeru	
+j	曖昧アクセント	aimaiakusento	in certain Japanese diale…
+k	아이를 봐주다	aireulbwajuda	
+k	아이스 댄싱	aiseudaensing	
+k	아인슈타이늄	ainsyutainyum	einsteinium
+k	아일랜드 해	aillaendeuhae	
+e	air conditioner	airconditioner	1 meaning
+e	air-conditioned	airconditioned	1 meaning
+e	air-raid shelter	airraidshelter	1 meaning
+j	アイスクライミング	aisukuraimingu	
+j	アイスクリームソーダ	aisukurimusoda	
+j	アイスクリームメーカー	aisukurimumeka	
+j	アイスランド料理	aisurandoryori	アイスランドの伝統的な料理。
+j	アイルランド料理	airurandoryori	アイルランドの伝統的な料理。
+j	アイロン掛けをする	airongakeosuru	
+j	会津若松	aidzuwakamatsu	
+j	哀毀骨立	aikikotsuritsu	to be emaciated with grie…
+j	愛国主義者	aikokushugisha	愛国主義の立場をとりそれを主張する者。
+k	아이보리코스트	aiborikoseuteu	
+k	아이스 아메리카노	aiseuamerikano	iced Americano
+k	아이스퀼로스	aiseukwilloseu	
+k	아이스크림 콘	aiseukeurimkon	
+k	아이슬란드어	aiseullandeueo	Icelandic (language)
+k	아이슬란드의	aiseullandeuui	
+k	아이슬란드인	aiseullandeuin	
+k	아일랜드어의	aillaendeueoui	
+e	air conditioning	airconditioning	2 meanings
+e	aircraft carrier	aircraftcarrier	1 meaning
+j	アイスクリームサンデー	aisukurimusande	サンデー。
+j	アイスホッケー選手	aisuhokkesenshu	アイスホッケーで実際に競技をする選手。
+j	アイスランドカモメ	aisurandokamome	
+j	アインシュタイン定数	ainshutainteisu	
+j	哀悼の意を表する	aitonoiohyosuru	
+k	아이러니컬하다	aireonikeolhada	'아이러니하다'의 비규범 표기.
+k	아이스크림 소다	aiseukeurimsoda	
+k	아이스하키 선수	aiseuhakiseonsu	
+k	아일랜드 사람	aillaendeusaram	
+j	アイスクリームフロート	aisukurimufuroto	
+j	アイデンティティの盗難	aidentitinotonan	
+j	アイドリングストップ	aidoringusutoppu	turning off a vehicle eng…
+k	아이스 클라이밍	aiseukeullaiming	
+e	air traffic control	airtrafficcontrol	1 meaning
+j	アイリッシュ・トラヴェラー	airisshutoravuera	
+k	아이 발이 첫발이라	aibaricheotbarira	시작은 서툴러도 후에 높은 경지에 이를 수 있…
+k	아이스크림 메이커	aiseukeurimmeikeo	
+k	아이슬란드 사람	aiseullandeusaram	
+j	アイスランド共和国	aisurandokyowakoku	Republic of Iceland (long…
+j	アイルランド共和国	airurandokyowakoku	Republic of Ireland (long…
+e	airbreathing catfish	airbreathingcatfish	1 meaning
+j	あいは紺屋にございやす	aihakoyanigozaiyasu	あいと藍をかけたもの。子供が、用もないのに人を呼ん…
+j	アイスランド・シープドッグ	aisurandoshipudoggu	
+k	아일랜드 유랑민	aillaendeuyurangmin	
+e	air traffic controller	airtrafficcontroller	1 meaning
+j	アイスクリームサンドイッチ	aisukurimusandoitchi	
+j	アインシュタイン方程式	ainshutainhoteishiki	
+j	愛玩動物看護師	aigandobutsukangoshi	愛玩動物の世話その他愛玩動物の看護、診療の補助など…
+k	아이스크림 플로트	aiseukeurimpeulloteu	
+k	아일랜드 공화국	aillaendeugonghwaguk	Republic of Ireland (long…
+j	アイルランド系アメリカ人	airurandokeiamerikajin	
+k	아이스크림 샌드위치	aiseukeurimsaendeuwichi	
+j	愛してみれば鼻欠けもえくぼ	aishitemirebahanakakemoekubo	愛すれば、醜くても美しく見えるということ。
+k	아이와 늙은이는 괴는 데로 간다	aiwaneulgeunineungoeneunderoganda	The children and the old …

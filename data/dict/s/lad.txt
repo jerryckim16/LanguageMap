@@ -1,0 +1,362 @@
+e	ad	ad	1 meaning
+e	add	add	3 meanings
+e	ade	ade	1 meaning
+j	あだ	ada	侵攻してくるもの。
+j	あど	ado	heel
+j	アド	ado	あど（狂言でシテの相手方の役）のカタカナ表記。
+j	下堂	ado	禅宗で僧が法堂や僧堂から退出し、それぞれの寮に戻る…
+j	丫童	ado	子供。特に少年。
+j	仇	ada	foe, enemy
+j	婀娜	ada	lithe and graceful
+j	婭姹	ada	婀娜(語義2)の異表記。艶めかしいこと。そのさま。
+j	讐	ada	an opponent, an enemy, a …
+j	阿娜	ada	阿那の異表記。
+j	阿那	ada	靱やかなこと。そのさま。
+k	아다	ada	virgin (someone who has n…
+k	아도	ado	collapsing from hunger
+e	adam	adam	2 meanings
+e	aden	aden	1 meaning
+e	adze	adze	1 meaning
+j	あだん	adan	「アロエ」の古名。
+j	あ段	adan	the first and highest-gra…
+j	アデュー	adyu	goodbye, farewell
+j	アデン	aden	Aden (a port city, the la…
+j	阿旦	adan	「阿檀」の別表記。
+j	阿檀	adan	タコノキ科の常緑低木。熱帯性で奄美群島、沖縄、台湾…
+k	아닥	adak	shut your trap; shut the …
+k	아담	adam	Adam (first man in the Bi…
+k	아덴	aden	
+e	ad hoc	adhoc	1 meaning
+e	adana	adana	1 meaning
+e	adapt	adapt	1 meaning
+e	adder	adder	3 meanings
+e	adfix	adfix	1 meaning
+e	adhan	adhan	1 meaning
+e	adige	adige	1 meaning
+e	admin	admin	2 meanings
+e	admit	admit	2 meanings
+e	adobe	adobe	1 meaning
+e	adobo	adobo	1 meaning
+e	adopt	adopt	2 meanings
+e	adore	adore	2 meanings
+e	adorn	adorn	1 meaning
+e	adult	adult	3 meanings
+j	あだな	adana	【渾名、綽名、諢名】他人を呼ぶ際、本名の代わりに使…
+j	あだ名	adana	
+j	アダナ	adana	
+j	アダブ	adabu	decency, morals
+j	アダム	adamu	Adam
+j	アディゲ	adige	Adygea (a republic and fe…
+j	アドベ	adobe	adobe
+j	アドボ	adobo	adobo (Philippine dish)
+j	渾名	adana	a nickname
+j	綽名	adana	
+k	아다리	adari	아귀.
+k	아동	adong	child
+k	아득	adeuk	'아드득'의 준말.
+k	아들	adeul	son
+e	adamic	adamic	1 meaning
+e	addend	addend	1 meaning
+e	addict	addict	1 meaning
+e	adhere	adhere	1 meaning
+e	adjara	adjara	1 meaning
+e	adjust	adjust	1 meaning
+e	admire	admire	1 meaning
+e	advent	advent	1 meaning
+e	adverb	adverb	1 meaning
+e	advice	advice	1 meaning
+e	advise	advise	2 meanings
+e	adware	adware	1 meaning
+e	adygea	adygea	1 meaning
+e	adyghe	adyghe	1 meaning
+j	アデニン	adenin	adenine (base pairing wit…
+j	アドウェア	adowea	
+j	アドリア	adoria	
+j	安達	adachi	a district of Fukushima P…
+j	足立	adachi	Adachi (one of 23 special…
+e	adamant	adamant	1 meaning
+e	adapted	adapted	1 meaning
+e	adapter	adapter	2 meanings
+e	address	address	2 meanings
+e	adenine	adenine	1 meaning
+e	adenoid	adenoid	1 meaning
+e	adinkra	adinkra	1 meaning
+e	adjunct	adjunct	1 meaning
+e	admiral	admiral	2 meanings
+e	adoptee	adoptee	2 meanings
+e	advance	advance	5 meanings
+e	advisor	advisor	1 meaning
+j	あだうち	adauchi	主君や身内を殺害された者が殺害した者に復讐すること。
+j	あだかも	adakamo	
+j	あだっぽい	adappoi	
+j	あだなみ	adanami	むやみやたらに立ち騒ぐ波。
+j	あだぼれ	adabore	叶わぬ恋。
+j	あでやか	adeyaka	enchantingly beautiful
+j	アダプタ	adaputa	
+j	アダプター	adaputa	adapter (device to allow …
+j	アダムズ	adamuzu	a transliteration of the …
+j	アダルティ	adaruti	like an adult; mature
+j	アダルティー	adaruti	
+j	アダルト	adaruto	adult, for an adult
+j	アディゲ語	adigego	ロシアのアディゲ共和国などで話されている、コーカサ…
+j	アディダス	adidasu	Adidas
+j	アデレード	aderedo	Adelaide (the state capit…
+j	アデン湾	adenwan	
+j	アドリブ	adoribu	ad-lib
+j	アドルフ	adorufu	a transliteration of the …
+j	アドレス	adoresu	address (direction for le…
+j	仇なす	adanasu	to take revenge
+j	徒花	adabana	blossom that does not bea…
+k	아덴만	adenman	
+k	아동기	adonggi	유년기와 청년기의 중간에 해당되는 시기.
+k	아드님	adeunim	honorific of 아들 (adeul, “…
+k	아드리아	adeuria	
+k	아득히	adeukhi	
+k	아들아이	adeurai	(my/our) young son (when …
+k	아들애	adeurae	'아들아이'의 준말.
+k	아듬다	adeumda	to hug, to embrace
+k	아디게야	adigeya	
+e	addendum	addendum	1 meaning
+e	addition	addition	3 meanings
+e	additive	additive	1 meaning
+e	adductor	adductor	1 meaning
+e	adelaide	adelaide	3 meanings
+e	adequacy	adequacy	1 meaning
+e	adequate	adequate	1 meaning
+e	adhesion	adhesion	1 meaning
+e	adhesive	adhesive	1 meaning
+e	adjacent	adjacent	2 meanings
+e	adjutant	adjutant	2 meanings
+e	admonish	admonish	1 meaning
+e	adoption	adoption	1 meaning
+e	adoptive	adoptive	1 meaning
+e	adorable	adorable	1 meaning
+e	adriatic	adriatic	1 meaning
+e	adultery	adultery	2 meanings
+e	advanced	advanced	2 meanings
+e	advocaat	advocaat	1 meaning
+e	advocate	advocate	2 meanings
+e	adynaton	adynaton	1 meaning
+j	あだぐち	adaguchi	無駄口。実のない言葉。
+j	あだしの	adashino	化野: graveyard
+j	あだを討つ	adaoutsu	
+j	あどけない	adokenai	innocent, childish
+j	アダジェット	adajetto	
+j	アダックス	adakkusu	クジラ偶蹄目ウシ科アダックス属に属する鯨偶蹄類の一…
+j	アダージェット	adajetto	
+j	アデライド	aderaido	
+j	アドバイザー	adobaiza	an advisor
+j	アドバイス	adobaisu	advice
+j	アドバルーン	adobarun	a balloon for floating ad…
+j	アドバンス	adobansu	手付金、前借り。
+j	アドベント	adobento	待降節。
+j	アドホック	adohokku	そのためだけの物事。その場限りでのものごと。その場…
+j	アードウルフ	adourufu	aardwolf
+j	化野	adashino	graveyard
+j	渾名姓	adanasei	渾名を由来とする姓。
+k	아담하다	adamhada	무엇의 모습이나 모양이 알맞은 크기로 곱고 보…
+k	아대륙	adaeryuk	subcontinent
+k	아둔하다	adunhada	슬기롭지 못하고 머리가 둔하다.
+k	아드득	adeudeuk	작고 단단한 물건을 힘껏 깨물어 깨뜨리는 소리.
+k	아들놈	adeullom	
+e	ad hominem	adhominem	2 meanings
+e	adagietto	adagietto	1 meaning
+e	adaptogen	adaptogen	1 meaning
+e	addiction	addiction	2 meanings
+e	addictive	addictive	1 meaning
+e	addressee	addressee	1 meaning
+e	adipocere	adipocere	1 meaning
+e	adjective	adjective	3 meanings
+e	admirable	admirable	1 meaning
+e	admission	admission	2 meanings
+e	adnominal	adnominal	1 meaning
+e	adoration	adoration	2 meanings
+e	adulterer	adulterer	1 meaning
+e	adulthood	adulthood	1 meaning
+e	adumbrate	adumbrate	3 meanings
+e	advantage	advantage	3 meanings
+e	adventure	adventure	4 meanings
+e	adverbial	adverbial	2 meanings
+e	adversary	adversary	1 meaning
+e	adversity	adversity	1 meaning
+e	advertise	advertise	2 meanings
+e	adélie land	adlieland	1 meaning
+e	い-adjective	adjective	1 meaning
+e	な-adjective	adjective	1 meaning
+j	あですがた	adesugata	ravishing figure
+j	アディジェ川	adijegawa	Adige
+j	アドナインス	adonainsu	三和音に主音から9番目の音を加えたコード。
+j	アドニトール	adonitoru	ribitol
+j	アドバーサリー	adobasari	
+j	アドベンチャー	adobencha	adventure (exciting endea…
+j	アドリア海	adoriakai	the Adriatic Sea
+j	アドレスバー	adoresuba	address bar (bar in a web…
+j	アドヴァンス	adovuansu	アドバンスの異表記。
+j	アドヴォカート	adovokato	
+j	渾名する	adanasuru	
+k	아동용	adongyong	
+k	아둔패기	adunpaegi	
+k	아득하다	adeukhada	distant, remote
+k	아들딸	adeulttal	children; sons and daught…
+k	아디제 강	adijegang	
+e	adam and eve	adamandeve	1 meaning
+e	adam's apple	adamsapple	1 meaning
+e	adamantium	adamantium	1 meaning
+e	adaptation	adaptation	2 meanings
+e	addis ababa	addisababa	1 meaning
+e	address bar	addressbar	1 meaning
+e	adenovirus	adenovirus	1 meaning
+e	adipose fin	adiposefin	1 meaning
+e	adjectival	adjectival	1 meaning
+e	adjustment	adjustment	1 meaning
+e	administer	administer	1 meaning
+e	admiration	admiration	1 meaning
+e	adolescent	adolescent	2 meanings
+e	adposition	adposition	1 meaning
+e	adrenaline	adrenaline	2 meanings
+e	adsorption	adsorption	1 meaning
+e	adult movie	adultmovie	1 meaning
+e	adventurer	adventurer	1 meaning
+e	adverbless	adverbless	1 meaning
+e	advertiser	advertiser	1 meaning
+j	あだしおんな	adashionna	（多く、妻以外の）他の女。
+j	アダムとイヴ	adamutoivu	
+j	アダルティック	adarutikku	synonym of アダルティ
+j	アディスアベバ	adisuabeba	Addis Ababa
+j	アデュナトン	adeyunaton	
+j	アデリーランド	aderirando	
+j	アドバイザリー	adobaizari	勧告。
+j	アドバンテージ	adobanteji	advantage
+j	アドブロッカー	adoburokka	ウェブサイトやソフトウェアに表示される広告を見えな…
+j	アドベンチュア	adobenchua	
+j	アドボカシー	adobokashi	支持、擁護。
+j	アドミタンス	adomitansu	交流回路における電流の流れやすさを示す量。電流の値…
+j	アドミッション	adomisshon	受け入れ許可。
+j	アドラステア	adorasutea	木星の第15衛星の固有名。
+j	アドレスちょう	adoresucho	アドレス帳: address book (smal…
+j	アドレス帳	adoresucho	address book (small book …
+j	アドレナリン	adorenarin	adrenaline
+k	아다만티움	adamantium	
+k	아담먹기	adammeokgi	도리를 따지지 않고 타인의 기분을 나쁘게 하거…
+k	아동학자	adonghakja	
+k	아드리아 해	adeuriahae	
+k	아득대다	adeukdaeda	'아드득대다'의 준말.
+k	아득아득	adeugadeuk	'아드득아드득'의 준말.
+k	아들내미	adeullaemi	
+k	아들자식	adeuljasik	
+e	ad infinitum	adinfinitum	1 meaning
+e	address book	addressbook	1 meaning
+e	adiponectin	adiponectin	1 meaning
+e	adjectivize	adjectivize	1 meaning
+e	adjournment	adjournment	1 meaning
+e	adolescence	adolescence	1 meaning
+e	adriatic sea	adriaticsea	1 meaning
+e	adventurism	adventurism	1 meaning
+e	adventurous	adventurous	2 meanings
+e	advertising	advertising	2 meanings
+j	あだしおとこ	adashiotoko	（多く、夫以外の）他の男。
+j	アダマンティウム	adamantiumu	
+j	アダルトゲーム	adarutogemu	18歳以上の成人を対象とする性行為を主体としたコン…
+j	アデノウイルス	adenouirusu	
+j	アデリーペンギン	aderipengin	an Adelie penguin
+j	アドミッタンス	adomittansu	「アドミタンス」の表記ゆれ。
+j	アドヴァンテージ	adovuanteji	アドバンテージの異表記。
+k	아담과 이브	adamgwaibeu	
+k	아담과 하와	adamgwahawa	
+k	아동 노동	adongnodong	
+k	아동 학대	adonghakdae	자기의 보호 또는 감독을 받는 18세 미만의 …
+k	아드보카트	adeubokateu	
+k	아득바득	adeukbadeuk	몹시 고집을 부리거나 애를 쓰는 모양.
+k	아등대다	adeungdaeda	'아등거리다'.
+k	아디스아바바	adiseuababa	Addis Ababa (the capital …
+k	아디포넥틴	adiponektin	
+e	adder's tongue	adderstongue	1 meaning
+e	adessive case	adessivecase	1 meaning
+e	adhesive tape	adhesivetape	2 meanings
+e	admonishment	admonishment	1 meaning
+e	adrenal gland	adrenalgland	1 meaning
+e	advantageous	advantageous	1 meaning
+e	adverbiality	adverbiality	1 meaning
+e	adverbialize	adverbialize	1 meaning
+j	アダムの言語	adamunogengo	
+j	アダルトグッズ	adarutoguzzu	adult (sexual) item
+j	アダルトビデオ	adarutobideo	adult video, pornographic…
+k	아동 포르노	adongporeuno	child pornography
+k	아동용품	adongyongpum	
+k	아드득하다	adeudeukhada	
+k	아드레날린	adeurenallin	
+k	아득거리다	adeukgeorida	'아드득거리다'의 준말.
+k	아득해지다	adeukhaejida	
+k	아등아등	adeungadeung	
+e	adding machine	addingmachine	1 meaning
+e	administrator	administrator	3 meanings
+e	adrenal cortex	adrenalcortex	1 meaning
+e	adult survivor	adultsurvivor	1 meaning
+e	adventure game	adventuregame	1 meaning
+e	adverbial case	adverbialcase	1 meaning
+e	advertisement	advertisement	1 meaning
+e	advocacy group	advocacygroup	1 meaning
+j	あだ名をつける	adanaotsukeru	
+j	アディポネクチン	adiponekuchin	
+j	アドバタイジング	adobataijingu	
+j	アドベンチャーゲーム	adobenchagemu	
+k	아델리랜드	adelliraendeu	
+k	아동 결혼	adonggyeolhon	
+k	아드득대다	adeudeukdaeda	'아드득거리다'.
+k	아등거리다	adeunggeorida	기를 쓰며 고집을 부리거나 애를 쓰다.
+k	아등바등	adeungbadeung	
+e	adenocarcinoma	adenocarcinoma	1 meaning
+e	administration	administration	2 meanings
+e	adoptive father	adoptivefather	1 meaning
+e	adoptive mother	adoptivemother	1 meaning
+e	advance payment	advancepayment	1 meaning
+e	advent calendar	adventcalendar	1 meaning
+j	あだばなにおわる	adabananiowaru	"to end as a fruitless bl…
+j	アダルトサバイバー	adarutosabaiba	adult survivor
+j	アディゲ共和国	adigekyowakoku	
+k	아데노바이러스	adenobaireoseu	
+k	아데노신 이인산	adenosiniinsan	
+k	아드등대다	adeudeungdaeda	'아드등거리다'.
+k	아득아득하다	adeugadeukhada	
+e	addison's disease	addisonsdisease	1 meaning
+e	adjective phrase	adjectivephrase	1 meaning
+e	adjectivization	adjectivization	1 meaning
+e	adverbial clause	adverbialclause	1 meaning
+e	adverbial phrase	adverbialphrase	1 meaning
+j	アダマール行列	adamarugyoretsu	成分が全て1か-1で各行が互いに直交する行列。
+j	アディショナルタイム	adishonarutaimu	試合の途中でけがの治療などで中断した分の時間を競技…
+j	アドバタイズメント	adobataizumento	広告。
+j	アドベントカレンダー	adobentokarenda	Advent calendar
+j	仇を恩で報いる	adaoondemukuiru	to return good for evil
+k	아드득거리다	adeudeukgeorida	작고 단단한 물건을 힘껏 깨물어 깨뜨리는 소리…
+k	아득바득하다	adeukbadeukhada	
+e	add fuel to the fire	addfueltothefire	1 meaning
+e	adverbialization	adverbialization	1 meaning
+j	アディンクラ・シンボル	adinkurashinboru	
+j	徒口念仏	adaguchinenbutsu	口先だけで信仰心のない念仏。
+k	아데노신 삼인산	adenosinsaminsan	
+k	아동 성매매	adongseongmaemae	
+k	아드득아드득	adeudeugadeudeuk	
+k	아드등거리다	adeudeunggeorida	('…과'가 나타나지 않을 때는 여럿임을 뜻하…
+k	아득바득대다	adeukbadeukdaeda	'아득바득거리다'.
+k	아등그러지다	adeunggeureojida	
+k	아등아등하다	adeungadeunghada	
+e	add insult to injury	addinsulttoinjury	1 meaning
+e	administrative law	administrativelaw	1 meaning
+e	admiral of the fleet	admiralofthefleet	1 meaning
+e	adverse possession	adversepossession	1 meaning
+k	아데노신삼린산	adenosinsamninsan	
+k	아등바등하다	adeungbadeunghada	
+e	adhesive capsulitis	adhesivecapsulitis	1 meaning
+j	アデノシン三リン酸	adenoshinsanrinsan	
+k	아드등아드등	adeudeungadeudeung	
+k	아득바득거리다	adeukbadeukgeorida	자꾸 고집을 부리거나 애를 쓰다.
+e	administrative court	administrativecourt	1 meaning
+e	adverbial accusative	adverbialaccusative	1 meaning
+e	adverbial participle	adverbialparticiple	1 meaning
+e	adenosine diphosphate	adenosinediphosphate	1 meaning
+k	아드득아드득하다	adeudeugadeudeukhada	
+e	adenosine triphosphate	adenosinetriphosphate	1 meaning
+k	아드등아드등하다	adeudeungadeudeunghada	
+j	アドレス解決プロトコル	adoresukaiketsupurotokoru	Address Resolution Protoc…
+e	a drowning man will clutch at a straw	adrowningmanwillclutchatastraw	1 meaning

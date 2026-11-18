@@ -1,0 +1,9 @@
+e	ptui	ptui	1 meaning
+e	pterin	pterin	1 meaning
+e	ptolemy	ptolemy	1 meaning
+e	pétanque	ptanque	1 meaning
+e	ptarmigan	ptarmigan	1 meaning
+e	pteridine	pteridine	1 meaning
+e	pterosaur	pterosaur	1 meaning
+e	pteranodon	pteranodon	1 meaning
+e	pterodactyl	pterodactyl	1 meaning

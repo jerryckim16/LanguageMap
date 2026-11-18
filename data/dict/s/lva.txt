@@ -1,0 +1,193 @@
+e	van	van	2 meanings
+e	vat	vat	1 meaning
+e	vair	vair	1 meaning
+e	vamp	vamp	1 meaning
+e	vase	vase	1 meaning
+e	vast	vast	1 meaning
+e	vayu	vayu	1 meaning
+j	ヴァーユ	vayu	
+e	vaduz	vaduz	1 meaning
+e	vague	vague	2 meanings
+e	vajra	vajra	2 meanings
+e	valet	valet	1 meaning
+e	valid	valid	1 meaning
+e	value	value	5 meanings
+e	valve	valve	2 meanings
+e	vapor	vapor	2 meanings
+e	varna	varna	1 meaning
+e	vault	vault	5 meanings
+j	ヴァージョン	vajon	
+e	vacant	vacant	1 meaning
+e	vacuum	vacuum	1 meaning
+e	vagina	vagina	1 meaning
+e	vahagn	vahagn	2 meanings
+e	valais	valais	1 meaning
+e	valdez	valdez	1 meaning
+e	valine	valine	1 meaning
+e	valley	valley	1 meaning
+e	valour	valour	1 meaning
+e	vandal	vandal	2 meanings
+e	vanish	vanish	1 meaning
+e	vanity	vanity	1 meaning
+e	varash	varash	1 meaning
+e	varied	varied	1 meaning
+e	varuna	varuna	1 meaning
+e	vassal	vassal	2 meanings
+j	ヴァネサ	vanesa	
+j	ヴァルナ	varuna	
+j	ヴァレリー	vareri	Valerie
+j	ヴァーグナー	vaguna	
+j	ヴァージル	vajiru	
+e	vacancy	vacancy	2 meanings
+e	vaccine	vaccine	1 meaning
+e	vacuity	vacuity	2 meanings
+e	vacuole	vacuole	1 meaning
+e	vaginal	vaginal	1 meaning
+e	vagrant	vagrant	3 meanings
+e	valence	valence	3 meanings
+e	valenki	valenki	1 meaning
+e	valerie	valerie	1 meaning
+e	valiant	valiant	1 meaning
+e	vampire	vampire	1 meaning
+e	van gogh	vangogh	1 meaning
+e	vanessa	vanessa	1 meaning
+e	vanilla	vanilla	2 meanings
+e	vanitas	vanitas	1 meaning
+e	vanuatu	vanuatu	1 meaning
+e	vaquita	vaquita	1 meaning
+e	varenye	varenye	1 meaning
+e	variant	variant	1 meaning
+e	various	various	1 meaning
+e	varnish	varnish	2 meanings
+e	vatican	vatican	1 meaning
+e	vaughan	vaughan	1 meaning
+j	ヴァイオリン	vaiorin	バイオリンの異表記。
+j	ヴァイラス	vairasu	Non-standard spelling for…
+j	ヴァカンス	vakansu	
+j	ヴァティカン	vatikan	
+j	ヴァハグン	vahagun	
+j	ヴァランス	varansu	
+j	ヴァリャーグ	varyagu	
+j	ヴァルカン	varukan	
+j	ヴァレニエ	varenie	
+j	ヴァレー州	vareshu	
+j	ヴァンクーヴァー	vankuva	Vancouver (a seaport, the…
+j	ヴァントーズ	vantozu	
+j	ヴァンパイア	vanpaia	vampire
+j	ヷイオリン	vaiorin	
+e	vacation	vacation	3 meanings
+e	vacherin	vacherin	1 meaning
+e	vadodara	vadodara	1 meaning
+e	vagabond	vagabond	3 meanings
+e	vajrapāṇi	vajrapai	1 meaning
+e	val-d'oise	valdoise	1 meaning
+e	valencia	valencia	2 meanings
+e	valerian	valerian	3 meanings
+e	valhalla	valhalla	1 meaning
+e	validity	validity	1 meaning
+e	valkyrie	valkyrie	1 meaning
+e	valletta	valletta	1 meaning
+e	valozhyn	valozhyn	1 meaning
+e	valuable	valuable	2 meanings
+e	vanadium	vanadium	1 meaning
+e	vanadzor	vanadzor	1 meaning
+e	vandalic	vandalic	1 meaning
+e	vanguard	vanguard	2 meanings
+e	vanillin	vanillin	1 meaning
+e	vanquish	vanquish	1 meaning
+e	vaporize	vaporize	1 meaning
+e	varanasi	varanasi	1 meaning
+e	varenyky	varenyky	1 meaning
+e	variable	variable	6 meanings
+e	variance	variance	1 meaning
+e	vaseline	vaseline	1 meaning
+j	ヴァイキング	vaikingu	a Viking (one of the Scan…
+j	ヴァカヴィル	vakaviru	
+j	ヴァシュラン	vashuran	vacherin
+j	ヴァチカン	vachikan	バチカンの表記揺れ。
+j	ヴァドーダラー	vadodara	Vadodara (a large city an…
+j	ヴァニタス	vanitasu	vanitas
+j	ヴァヌアツ	vanuatsu	「バヌアツ」の表記ゆれ。
+j	ヴァルキリー	varukiri	
+j	ヴァルハラ	varuhara	Valhalla
+j	ヴァレリアン	varerian	
+j	ヷチカン	vachikan	
+e	vacant lot	vacantlot	1 meaning
+e	vacaville	vacaville	1 meaning
+e	vaccinate	vaccinate	1 meaning
+e	vacillate	vacillate	2 meanings
+e	vagueness	vagueness	1 meaning
+e	vairocana	vairocana	1 meaning
+e	vajratīkṣṇa	vajratika	1 meaning
+e	valiantly	valiantly	1 meaning
+e	vancouver	vancouver	1 meaning
+e	vandalise	vandalise	1 meaning
+e	vandalism	vandalism	1 meaning
+e	varangian	varangian	1 meaning
+e	variation	variation	3 meanings
+e	varied tit	variedtit	1 meaning
+e	vasectomy	vasectomy	1 meaning
+e	vasudhārā	vasudhara	1 meaning
+e	vatrushka	vatrushka	1 meaning
+e	vawkavysk	vawkavysk	1 meaning
+j	ヴァリス州	varisushu	
+j	ヴァルキューレ	varukyure	
+j	ヴァンティミーユ	vantimiyu	
+j	ヴァージン・ロード	vajinrodo	
+j	ヴァーツラフ	vatsurafu	
+e	vacuum tube	vacuumtube	1 meaning
+e	vaginismus	vaginismus	1 meaning
+e	vagus nerve	vagusnerve	1 meaning
+e	vajraratna	vajraratna	1 meaning
+e	vampire bat	vampirebat	1 meaning
+e	vapor trail	vaportrail	1 meaning
+e	variegated	variegated	1 meaning
+e	vatteluttu	vatteluttu	1 meaning
+e	vaudeville	vaudeville	1 meaning
+j	ヴァイシュナヴァ	vaishunava	
+j	ヴァランシエン	varanshien	
+j	ヴァンデミエール	vandemieru	
+j	ヴァージン諸島	vajinshoto	Virgin Islands (an archip…
+e	vaccination	vaccination	1 meaning
+e	vaisheshika	vaisheshika	1 meaning
+e	vaishnavism	vaishnavism	1 meaning
+e	vajrasattva	vajrasattva	1 meaning
+e	valence band	valenceband	1 meaning
+e	valle d'aosta	valledaosta	1 meaning
+e	value system	valuesystem	1 meaning
+e	vanilla bean	vanillabean	1 meaning
+e	vanity press	vanitypress	1 meaning
+e	variety show	varietyshow	1 meaning
+e	vas deferens	vasdeferens	1 meaning
+e	vassal state	vassalstate	1 meaning
+e	vatican city	vaticancity	1 meaning
+j	ヴァイシェーシカ	vaisheshika	
+j	ヴァルキュリヤ	varukyuriya	
+j	ヴァンダリズム	vandarizumu	
+j	ヴァンダル族	vandaruzoku	
+e	vagharshapat	vagharshapat	1 meaning
+e	valenciennes	valenciennes	1 meaning
+e	vampire squid	vampiresquid	1 meaning
+e	variable font	variablefont	1 meaning
+e	variable star	variablestar	1 meaning
+e	varicose vein	varicosevein	1 meaning
+e	vasilievichy	vasilievichy	1 meaning
+j	ヴァイオリニスト	vaiorinisuto	バイオリニストの異表記。
+j	ヴァッレ・ダオスタ	varredaosuta	
+j	ヴァランシエンヌ	varanshiennu	
+e	vacuum cleaner	vacuumcleaner	1 meaning
+e	vajrapāramitā	vajraparamita	1 meaning
+e	value added tax	valueaddedtax	1 meaning
+e	vapor pressure	vaporpressure	1 meaning
+e	vascular plant	vascularplant	1 meaning
+e	vaulting horse	vaultinghorse	1 meaning
+e	vanishing point	vanishingpoint	1 meaning
+e	vascular bundle	vascularbundle	1 meaning
+j	ヴァッレ・ダオスタ州	varredaosutashu	
+e	valencian country	valenciancountry	1 meaning
+e	valley of the kings	valleyofthekings	1 meaning
+e	vatican city state	vaticancitystate	1 meaning
+j	ヴァイスプレジデント	vaisupurejidento	
+e	vaginal flatulence	vaginalflatulence	1 meaning
+e	valencian community	valenciancommunity	1 meaning
+e	valley of the shadow of death	valleyoftheshadowofdeath	1 meaning

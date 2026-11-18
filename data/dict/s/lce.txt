@@ -1,0 +1,153 @@
+e	cee	cee	1 meaning
+e	120-cell	cell	1 meaning
+e	16-cell	cell	1 meaning
+e	24-cell	cell	1 meaning
+e	5-cell	cell	1 meaning
+e	600-cell	cell	1 meaning
+e	8-cell	cell	1 meaning
+e	ceará	cear	1 meaning
+e	cebu	cebu	3 meanings
+e	cede	cede	1 meaning
+e	cell	cell	10 meanings
+e	celt	celt	1 meaning
+e	cent	cent	2 meanings
+e	cere	cere	1 meaning
+e	cease	cease	2 meanings
+e	cedar	cedar	1 meaning
+e	celeb	celeb	1 meaning
+e	cello	cello	1 meaning
+e	ceres	ceres	2 meanings
+e	cetus	cetus	1 meaning
+e	ceuta	ceuta	1 meaning
+e	celery	celery	1 meaning
+e	cellar	cellar	1 meaning
+e	celtic	celtic	2 meanings
+e	cement	cement	3 meanings
+e	cendol	cendol	1 meaning
+e	cenote	cenote	1 meaning
+e	censer	censer	1 meaning
+e	censor	censor	4 meanings
+e	census	census	1 meaning
+e	center	center	8 meanings
+e	centre	centre	1 meaning
+e	cephas	cephas	1 meaning
+e	cereal	cereal	2 meanings
+e	cerise	cerise	2 meanings
+e	cerium	cerium	1 meaning
+e	cervix	cervix	1 meaning
+e	cetane	cetane	1 meaning
+e	ceylon	ceylon	1 meaning
+e	cebuano	cebuano	1 meaning
+e	cedilla	cedilla	1 meaning
+e	ceiling	ceiling	2 meanings
+e	celadon	celadon	3 meanings
+e	celesta	celesta	1 meaning
+e	cellist	cellist	1 meaning
+e	celsius	celsius	1 meaning
+e	celtuce	celtuce	1 meaning
+e	centaur	centaur	2 meanings
+e	centime	centime	1 meaning
+e	central	central	3 meanings
+e	century	century	1 meaning
+e	cepheus	cepheus	2 meanings
+e	ceramic	ceramic	1 meaning
+e	certain	certain	4 meanings
+e	certify	certify	1 meaning
+e	ceviche	ceviche	1 meaning
+e	50 cent army	centarmy	1 meaning
+e	ceaușescu	ceauescu	1 meaning
+e	celibacy	celibacy	2 meanings
+e	celibate	celibate	2 meanings
+e	cell wall	cellwall	1 meaning
+e	cellular	cellular	1 meaning
+e	cenotaph	cenotaph	1 meaning
+e	cenozoic	cenozoic	1 meaning
+e	centrism	centrism	1 meaning
+e	centroid	centroid	1 meaning
+e	ceramics	ceramics	1 meaning
+e	cerberus	cerberus	1 meaning
+e	cerebrum	cerebrum	1 meaning
+e	ceremony	ceremony	3 meanings
+e	cerulean	cerulean	1 meaning
+e	cetology	cetology	1 meaning
+e	ceasefire	ceasefire	1 meaning
+e	celebrate	celebrate	2 meanings
+e	celebrity	celebrity	2 meanings
+e	celestial	celestial	1 meaning
+e	cellulite	cellulite	1 meaning
+e	celluloid	celluloid	1 meaning
+e	cellulose	cellulose	1 meaning
+e	celtic sea	celticsea	1 meaning
+e	centaurus	centaurus	1 meaning
+e	centipede	centipede	1 meaning
+e	centurion	centurion	1 meaning
+e	cereal bar	cerealbar	1 meaning
+e	certainly	certainly	2 meanings
+e	certainty	certainty	1 meaning
+e	cessation	cessation	1 meaning
+e	ceiling fan	ceilingfan	1 meaning
+e	celebrated	celebrated	1 meaning
+e	cellophane	cellophane	1 meaning
+e	cellulitis	cellulitis	1 meaning
+e	censorship	censorship	1 meaning
+e	centennial	centennial	1 meaning
+e	centilitre	centilitre	1 meaning
+e	centimetre	centimetre	1 meaning
+e	centre-back	centreback	1 meaning
+e	centrifuge	centrifuge	1 meaning
+e	centromere	centromere	1 meaning
+e	century egg	centuryegg	1 meaning
+e	cephalopod	cephalopod	1 meaning
+e	ceramicist	ceramicist	1 meaning
+e	ceratosaur	ceratosaur	1 meaning
+e	cerebellum	cerebellum	1 meaning
+e	celebration	celebration	2 meanings
+e	celtiberian	celtiberian	1 meaning
+e	centenarian	centenarian	1 meaning
+e	central asia	centralasia	2 meanings
+e	central bank	centralbank	1 meaning
+e	certificate	certificate	2 meanings
+e	cervical cap	cervicalcap	1 meaning
+e	cedar waxwing	cedarwaxwing	1 meaning
+e	cell membrane	cellmembrane	1 meaning
+e	central angle	centralangle	1 meaning
+e	central luzon	centralluzon	1 meaning
+e	central plain	centralplain	1 meaning
+e	centre of mass	centreofmass	1 meaning
+e	celestial body	celestialbody	1 meaning
+e	celtic studies	celticstudies	1 meaning
+e	center fielder	centerfielder	1 meaning
+e	central africa	centralafrica	1 meaning
+e	central europe	centraleurope	1 meaning
+e	cephalothorax	cephalothorax	1 meaning
+e	cerebral palsy	cerebralpalsy	1 meaning
+e	certification	certification	1 meaning
+e	cease and desist	ceaseanddesist	1 meaning
+e	central african	centralafrican	1 meaning
+e	central america	centralamerica	1 meaning
+e	central heating	centralheating	1 meaning
+e	centrifugation	centrifugation	1 meaning
+e	cerebral cortex	cerebralcortex	1 meaning
+e	cervical cancer	cervicalcancer	1 meaning
+e	celestial empire	celestialempire	1 meaning
+e	celestial sphere	celestialsphere	1 meaning
+e	center of gravity	centerofgravity	1 meaning
+e	central european	centraleuropean	1 meaning
+e	celestial equator	celestialequator	1 meaning
+e	cellophane noodle	cellophanenoodle	1 meaning
+e	central committee	centralcommittee	1 meaning
+e	centre-val de loire	centrevaldeloire	1 meaning
+e	centrifugal force	centrifugalforce	1 meaning
+e	centripetal force	centripetalforce	1 meaning
+e	cervical vertebra	cervicalvertebra	1 meaning
+e	celestial mechanics	celestialmechanics	1 meaning
+e	cerebrospinal fluid	cerebrospinalfluid	1 meaning
+e	central standard time	centralstandardtime	1 meaning
+e	central african empire	centralafricanempire	1 meaning
+e	central nervous system	centralnervoussystem	1 meaning
+e	ceremonial first pitch	ceremonialfirstpitch	1 meaning
+e	census-designated place	censusdesignatedplace	1 meaning
+e	central processing unit	centralprocessingunit	1 meaning
+e	central african republic	centralafricanrepublic	1 meaning
+e	central business district	centralbusinessdistrict	1 meaning
+e	certified public accountant	certifiedpublicaccountant	1 meaning

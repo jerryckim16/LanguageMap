@@ -1,0 +1,3574 @@
+e	mi	mi	1 meaning
+j	み	mi	味: (after an i-adjective …
+j	ミ	mi	西洋音楽の階名 長音階の第3音、短音階の第5音の名。
+j	ミー	mi	I; me
+j	実	mi	fruit (a product of ferti…
+j	巳	mi	the Snake, the sixth of t…
+j	廻	mi	imperfective and stem (or…
+j	箕	mi	a winnow; a winnowing bas…
+j	見	mi	seeing, looking
+j	身	mi	a body
+j	魅	mi	charm; fascination
+k	미	mi	beauty
+e	mie	mie	1 meaning
+e	mir	mir	1 meaning
+e	mix	mix	1 meaning
+j	みい	mii	みっつ。さん。
+j	みう	miu	実生, 美羽, 視雨, 美雨, 愛生: a fem…
+j	みえ	mie	「みえる」の未然形又は連用形。
+j	みお	mio	澪, 水尾, 水脈: a waterway, ch…
+j	ミーン	min	The chirp of a cicada.
+j	未央	mio	a female given name
+j	民	min	citizen
+j	水尾	mio	a female given name
+j	澪	mio	a waterway, more specific…
+j	眠	min	rest (of a silkworm befor…
+j	美栄	mie	a female given name
+j	美緒	mio	a female given name
+j	美羽	miu	a female given name
+j	美雨	miu	a female given name
+j	視雨	miu	a female given name
+j	視音	mio	a female given name
+k	미아	mia	missing child
+k	미에	mie	
+k	미우	miu	soft, quiet rain
+k	민	min	unadorned, bare, lacking
+k	믿	mit	'밑'의 옛 말.
+k	밀	mil	wheat
+k	밈	mim	meme
+k	및	mit	and, additionally
+k	밑	mit	bottom, underneath; the l…
+e	miai	miai	1 meaning
+e	mica	mica	1 meaning
+e	mila	mila	1 meaning
+e	mild	mild	1 meaning
+e	mile	mile	2 meanings
+e	milf	milf	1 meaning
+e	milk	milk	2 meanings
+e	mill	mill	5 meanings
+e	milt	milt	1 meaning
+e	mima	mima	1 meaning
+e	mime	mime	1 meaning
+e	mind	mind	2 meanings
+e	mine	mine	5 meanings
+e	mink	mink	1 meaning
+e	mino	mino	1 meaning
+e	mint	mint	6 meanings
+e	minx	minx	1 meaning
+e	miso	miso	1 meaning
+e	miss	miss	5 meanings
+e	mist	mist	2 meanings
+e	mite	mite	1 meaning
+e	mito	mito	1 meaning
+e	mitt	mitt	1 meaning
+e	mizo	mizo	1 meaning
+j	みあい	miai	見合い: miai, formal marriag…
+j	みあう	miau	互いに見る。
+j	みか	mika	三日: three days; third day
+j	みき	miki	木本植物の土から伸びて枝などにつながる太い部分。
+j	みぎ	migi	人が東を向いたときに南にあたる側。また、動物・人形…
+j	みこ	miko	御子: a god's or spirit's c…
+j	みす	misu	寺院や神社などで用いるすだれ
+j	みず	mizu	ミズ: Ms
+j	みせ	mise	imperfective and stem (or…
+j	みそ	miso	蒸した大豆に食塩と麹を加えてペースト状になるまで発…
+j	みぞ	mizo	水を流すために地面に細長く掘られたもの。どぶ。
+j	みと	mito	genitalia
+j	みな	mina	everyone, everybody
+j	みね	mine	山で高くなった場所。山の頂き。頂上。山頂。
+j	みの	mino	茅や菅などで編んで肩からかける雨具。
+j	みほ	miho	実穂, 美穂, 美保, 未歩, 美帆, 美歩: a…
+j	みみ	mimi	耳: ear
+j	みめ	mime	見た目。
+j	みや	miya	a female given name
+j	みよ	miyo	(imperial) reign
+j	みる	miru	【見る・視る】目を使って、物の形や色を知る。視覚に…
+j	ミイラ	mira	過度に乾燥させることにより、腐敗せずいつまでも原形…
+j	ミカ	mika	
+j	ミサ	misa	Mass
+j	ミス	misu	mistake, error
+j	ミズ	mizu	未婚、既婚を問わず女性の姓の前につける敬称。
+j	ミニ	mini	mini
+j	ミニー	mini	
+j	ミノ	mino	
+j	ミラ	mira	
+j	ミラー	mira	mirror
+j	ミリ	miri	milli-
+j	ミル	miru	A strategy centered on de…
+j	ミース	misu	Meath (a county of Irelan…
+j	ミート	mito	獣肉。
+j	ミード	mido	
+j	ミーハー	miha	lowbrow
+j	ミーム	mimu	meme (unit of cultural in…
+j	ミール	miru	食事。食材。
+j	三佳	mika	a female given name
+j	三木	miki	a place name, such as tha…
+j	三毛	mike	a calico cat's fur, featu…
+j	三瀬	mise	a surname
+j	三田	mita	a place name
+j	三輪	miwa	a surname
+j	三野	mino	a surname
+j	三鬼	miki	a surname
+j	右	migi	right (direction)
+j	味噌	miso	miso (fermented soybean p…
+j	妃	mime	a noble's wife
+j	実奈	mina	a female given name
+j	実己	miki	a female given name
+j	実樹	miki	a female given name
+j	実穂	miho	a female given name
+j	実花	mika	a female given name
+j	宮	miya	the place where a god res…
+j	巫女	miko	an unmarried woman who se…
+j	已波	miwa	a surname
+j	幹	miki	a tree trunk
+j	店	mise	a commercial building; a …
+j	廻る	miru	to turn, to revolve
+j	御代	miyo	天皇による治世。天皇の在位期間。ごだい。ごよ。
+j	御子	miko	A god or spirit's child.
+j	木乃伊	mira	a mummy, deliberately pre…
+j	未曾有	mizo	未曽有の旧字体表記。
+j	未歩	miho	a female given name
+j	未納	mino	being unpaid; being behin…
+j	民意	mini	the will of the people; p…
+j	水	mizu	water (sometimes cold and…
+j	水戸	mito	Mito (a city in Ibaraki P…
+j	水門閘門	mito	
+j	海松	miru	green sea or dead man's f…
+j	甕	mika	large earthenware pot for…
+j	箕面	mino	Minoh (a city in Osaka Pr…
+j	美佳	mika	a female given name
+j	美保	miho	a female given name
+j	美優	miyu	a female given name
+j	美和	miwa	a female given name
+j	美奈	mina	a female given name
+j	美娜	mina	a female given name
+j	美宥	miyu	a female given name
+j	美帆	miho	a female given name
+j	美希	miki	a female given name
+j	美揮	miki	a female given name
+j	美早	misa	a female given name
+j	美来	miki	a female given name
+j	美果	mika	a female given name
+j	美樹	miki	a female given name
+j	美歩	miho	a female given name
+j	美沙	misa	a female given name
+j	美濃	mino	旧国名の一つ。美濃国。
+j	美穂	miho	a female given name
+j	美紀	miki	a female given name
+j	美紗	misa	a female given name
+j	美花	mika	a female given name
+j	美貴	miki	a female given name
+j	美香	mika	a female given name
+j	美馬	mima	Mima (a city in Tokushima…
+j	耳	mimi	ear; ears
+j	胘	mige	tripe, meat from a stomac…
+j	蓑	mino	a raincoat made from that…
+j	見た	mita	
+j	見て	mite	
+j	見ゆ	miyu	所見: (Classical Japanese, …
+j	見よ	miyo	
+j	見る	miru	to see, to watch, to obse…
+j	見ろ	miro	
+j	見合い	miai	miai, formal marriage int…
+j	見合う	miau	exchange glances, look at…
+j	観る	miru	
+j	診る	miru	examine
+k	미니	mini	mini-
+k	미다	mida	to fall out enough to exp…
+k	미디	midi	치마 끝이 다리의 중간까지 내려오는 여성용 옷.
+k	미라	mira	mummy (embalmed corpse)
+k	미로	miro	labyrinth, maze
+k	미리	miri	beforehand, in advance
+k	미모	mimo	beauty
+k	미미	mimi	delicacy
+k	미비	mibi	imperfection, inadequacy,…
+k	미사	misa	Mass
+k	미세	mise	tininess; minuteness
+k	미소	miso	a (bright) smile
+k	미수	misu	misu (a drink made from 미…
+k	미안	mian	shame; being sorry
+k	미어	mieo	American English
+k	미온	mion	
+k	미운	miun	'밉다'의 관형사형.
+k	미움	mium	loathe, hate
+k	미유	miyu	
+k	미인	miin	a beautiful woman, a beau…
+k	미제	mije	unfinished
+k	미주	miju	America, the Americas (a …
+k	미지	miji	
+k	미토	mito	
+e	miami	miami	1 meaning
+e	micah	micah	4 meanings
+e	micro-	micro	1 meaning
+e	midge	midge	1 meaning
+e	might	might	2 meanings
+e	mijiu	mijiu	1 meaning
+e	milan	milan	1 meaning
+e	mimas	mimas	1 meaning
+e	mince	mince	1 meaning
+e	miner	miner	1 meaning
+e	minim	minim	1 meaning
+e	minor	minor	1 meaning
+e	minsk	minsk	1 meaning
+e	minus	minus	4 meanings
+e	mirin	mirin	1 meaning
+e	mirth	mirth	1 meaning
+e	miser	miser	1 meaning
+e	misty	misty	1 meaning
+e	mitre	mitre	1 meaning
+e	mix up	mixup	1 meaning
+e	mixed	mixed	2 meanings
+e	mixer	mixer	1 meaning
+e	miyun	miyun	1 meaning
+j	みいり	miiri	crop; harvest; income; pr…
+j	みうけ	miuke	身売りによる芸妓などをその身代金などを支払い、その…
+j	みえこ	mieko	美恵子, 三恵子, 巳恵子, 美愛子, 実絵子, …
+j	みえる	mieru	その物の存在を目で感じられる。
+j	みおも	miomo	妊娠していること。
+j	みかん	mikan	
+j	みきお	mikio	幹雄, 幹夫, 巳喜男, 美喜男, 三樹男, 己喜…
+j	みさお	misao	志や主義・主張を変えずに貫くこと。
+j	みずえ	mizue	水江, 水映: a surname
+j	みたい	mitai	appended after the noun t…
+j	みち	michi	現在地から、ある場所まで移動する際に経由する平面上…
+j	みっか	mikka	月の3番目の日。
+j	みっけ	mikke	found you!
+j	みつ	mitsu	（打消しの語を伴って）満ちる。とどく。
+j	みねお	mineo	峰生: a male given name
+j	みのうえ	minoe	その人の過去から現在に至った境遇。
+j	みばえ	mibae	見た目が良いこと。
+j	みほん	mihon	
+j	みまい	mimai	見舞うこと。
+j	みまう	mimau	病人や災害に遭った人などを訪ねて慰める。
+j	みまん	miman	未満: being under, below
+j	みもい	mimoi	水の美称。
+j	みよい	miyoi	見たさまがよい。見苦しくない。
+j	みりん	mirin	味醂: mirin; a form of Japa…
+j	みれん	miren	未練: unwilling to give up …
+j	みんじ	minji	
+j	みんど	mindo	民度: social conditions; st…
+j	みんな	minna	everyone, everybody
+j	ミカン	mikan	「蜜柑」の学術的表記。
+j	ミット	mitto	mitt
+j	ミッド	middo	中間の。
+j	ミトン	miton	親指だけが分かれ、他の四本の指が一つに纏められてい…
+j	ミノア	minoa	
+j	ミバエ	mibae	
+j	ミリア	miria	1万倍を表したメートル法の接頭辞。1935年に廃止。
+j	ミンガ	minga	
+j	ミンク	minku	a mink (mammal)
+j	ミンコー	minko	ポンによりつくった刻子。
+j	ミンサー	minsa	meatgrinder, mincer (devi…
+j	ミント	minto	mint (plant)
+j	三日	mikka	the third day of the month
+j	三樹男	mikio	a male given name
+j	三浦	miura	Miura (a city in Kanagawa…
+j	味官	mikan	味覚の器官。
+j	味淋	mirin	「味醂」の別表記。
+j	味精	misei	深く味わうこと。
+j	味蕾	mirai	a tastebud
+j	味解	mikai	文章の意味などを十分に味わい、理解すること。
+j	味醂	mirin	mirin: a type of sweet, t…
+j	実梅	miume	Japanese apricot; ume
+j	実理絵	mirie	a female given name
+j	実生	misho	seedling; plant raised fr…
+j	実生利	miori	a female given name
+j	実生子	mioko	a female given name
+j	実生雄	mikio	a male given name
+j	実絵子	mieko	a female given name
+j	実蝿	mibae	
+j	実蠅	mibae	Peacock fly, of the famil…
+j	宮井	miyai	a surname
+j	密	mitsu	something without breaks …
+j	密奏	misso	内密に奏上すること。密封した文書で奏聞すること。ま…
+j	密封	mippu	sealing
+j	密航	mikko	clandestine and illegal c…
+j	密葬	misso	秘密裏に遺体を葬ること。
+j	密行	mikko	（みっこう）微行すること。
+j	密送	misso	内密に送ること。
+j	密雨	mitsu	細雨。
+j	峰夫	mineo	a male given name
+j	峰生	mineo	a male given name
+j	己喜男	mikio	a male given name
+j	已午	miuma	a surname
+j	巳喜男	mikio	a male given name
+j	幹夫	mikio	a male given name
+j	幹雄	mikio	a male given name
+j	微塵	mijin	small piece, particle, fr…
+j	操	misao	fidelity, honor, constancy
+j	明刻	minko	「ミンコー」を参照。
+j	未了	miryo	未だに終わらないこと。
+j	未修	mishu	まだ履修していない科目。
+j	未分	mibun	まだ分かれていないこと。
+j	未刊	mikan	not yet published
+j	未収	mishu	いまだに徴収や収納されていないこと。
+j	未墾	mikon	まだ開墾されていないこと。
+j	未婚	mikon	being unmarried and never…
+j	未完	mikan	incompletion, unfinishedn…
+j	未定	mitei	being pending, to be dete…
+j	未明	mimei	early dawn
+j	未智	michi	a female given name
+j	未曽有	mizou	something that has never …
+j	未来	mirai	the future
+j	未済	misai	unpaid, not yet settled
+j	未満	miman	being under, below, less …
+j	未然	mizen	having not yet happened
+j	未知	michi	unknown
+j	未練	miren	unwilling to give up or l…
+j	未聞	mimon	まだ聞いたことがないこと。
+j	未見	miken	まだ見たり会ったりしていないこと。
+j	未詳	misho	being unclear; being unkn…
+j	未通	mitsu	未だ通じていないこと。未開通。
+j	未遂	misui	unsuccessful attempt
+j	未開	mikai	undeveloped; primitive
+j	民事	minji	civil affairs or affair
+j	民具	mingu	庶民が古くから日常生活で使ってきた道具や器具。
+j	民営	minei	private (nongovernmental)…
+j	民家	minka	civilian house
+j	民度	mindo	the condition of the peop…
+j	民情	minjo	国民の生活の実情。
+j	民放	minpo	民間放送の略。
+j	民暴	minbo	「民事介入暴力」の略。
+j	民法	minpo	civil law
+j	民話	minwa	folktale, fairy tale
+j	民謠	minyo	
+j	民謡	minyo	folk song (of the ordinar…
+j	民部	minbu	中国後周の時代に設置された人民の衆寡をはかる機関。
+j	民防	minbo	
+j	水江	mizue	a surname
+j	水絵	mizue	浮世絵で輪郭に墨の線を用いず、淡色だけの色板を使っ…
+j	満つ	mitsu	to be full, mature
+j	眉間	miken	glabella
+j	真央花	mioka	a female given name
+j	眠期	minki	蚕が脱皮の直前、頭部をもたげて静止し、眠っているよ…
+j	美佐緒	misao	a male given name
+j	美喜男	mikio	a male given name
+j	美恵子	mieko	a female given name
+j	美智	michi	a female given name
+j	美織	miori	a female given name
+j	蜜	mitsu	honey (viscous food produ…
+j	見える	mieru	to be seen; to be found
+j	見本	mihon	sample, example
+j	見舞い	mimai	visiting to ask after som…
+j	見舞う	mimau	to visit to ask after som…
+j	視英子	mieko	a female given name
+j	身偏	mihen	漢字の部首「⾝」が偏である場合の呼称。
+j	身分	mibun	social position, social s…
+j	身重	miomo	being pregnant
+j	魅了	miryo	charm; captivation; enthr…
+k	미각	migak	palate, taste
+k	미간	migan	
+k	미감	migam	
+k	미개	migae	
+k	미국	miguk	United States of America …
+k	미군	migun	
+k	미끼	mikki	낚싯바늘 끝에 꿰는 물고기의 먹이. 주로 지렁…
+k	미남	minam	handsome, good-looking, v…
+k	미납	minap	
+k	미달	midal	
+k	미담	midam	사람을 감동시킬 만큼 아름다운 내용을 가진 이…
+k	미대	midae	
+k	미드	mideu	syllabic abbreviation of …
+k	미래	mirae	the future
+k	미러	mireo	a city in Yunnan, China
+k	미록	mirok	고라니와 사슴을 아울러 이르는 말.
+k	미뢰	miroe	tastebud
+k	미료	miryo	아직 마치지 못함.
+k	미류	miryu	lasting long without reco…
+k	미르	mireu	dragon
+k	미립	mirip	
+k	미만	miman	being under, below, less …
+k	미목	mimok	눈썹과 눈을 아울러 이르는 말.
+k	미묘	mimyo	
+k	미문	mimun	
+k	미물	mimul	
+k	미분	mibun	differential
+k	미불	mibul	미지급.
+k	미산	misan	
+k	미숙	misuk	일에 익숙하지 못하여 서투름.
+k	미술	misul	visual art
+k	미스	miseu	mistake, error
+k	미식	misik	맛있는 음식을 먹는 경험, 또는 그런 취미를 …
+k	미신	misin	superstition (a set of be…
+k	미심	misim	일이 확실하지 아니하여 늘 마음을 놓을 수 없…
+k	미약	miyak	
+k	미완	miwan	incompleteness, being inc…
+k	미우다	miuda	'따돌리다'의 북한말.
+k	미원	miwon	
+k	미음	mieum	the name of the fifth jam…
+k	미이라	miira	'미라'의 비표준어.
+k	미작	mijak	rice crop (yield, harvest…
+k	미진	mijin	
+k	미추	michu	
+k	미터	miteo	meter; metre (SI unit of …
+k	미트	miteu	mitt, glove
+k	미필	mipil	아직 끝내지 못함.
+k	미학	mihak	aesthetics
+k	미혹	mihok	delusion
+k	미혼	mihon	아직 결혼하지 않음.
+k	미화	mihwa	romanticization, idealiza…
+k	민가	minga	civilian house
+k	민고	mingo	
+k	민구	mingu	
+k	민도	mindo	
+k	민보	minbo	
+k	민사	minsa	civil affairs
+k	민소	minso	
+k	민수	minsu	
+k	민시	minsi	
+k	민어	mineo	Mi-iuy croaker fish (Miic…
+k	민요	minyo	folk song; ballad
+k	민의	minui	the will of the people; p…
+k	민자	minja	
+k	민주	minju	democracy
+k	민지	minji	a female given name
+k	믿다	mitda	to trust, to believe
+k	밀고	milgo	
+k	밀다	milda	to push
+k	밀도	mildo	density
+k	밀리	milli	
+k	밀보	milbo	
+k	밀사	milsa	
+k	밀수	milsu	smuggling
+k	밀알	miral	a grain of wheat
+k	밀어	mireo	The Amur goby, Rhinogobiu…
+k	밀의	mirui	
+k	밀주	milju	mead
+k	밀지	milji	
+k	밀타	milta	
+k	밉다	mipda	unpleasant, to dislike
+e	miaoli	miaoli	1 meaning
+e	miasma	miasma	1 meaning
+e	micron	micron	1 meaning
+e	mid-air	midair	1 meaning
+e	midden	midden	1 meaning
+e	middle	middle	2 meanings
+e	midget	midget	1 meaning
+e	mighty	mighty	1 meaning
+e	mikado	mikado	1 meaning
+e	mildew	mildew	2 meanings
+e	milieu	milieu	1 meaning
+e	milium	milium	1 meaning
+e	miller	miller	1 meaning
+e	millet	millet	1 meaning
+e	minato	minato	1 meaning
+e	minify	minify	1 meaning
+e	mining	mining	1 meaning
+e	minion	minion	1 meaning
+e	minnie	minnie	1 meaning
+e	minoan	minoan	1 meaning
+e	minuet	minuet	2 meanings
+e	minute	minute	3 meanings
+e	mirage	mirage	1 meaning
+e	mirror	mirror	1 meaning
+e	misato	misato	1 meaning
+e	misery	misery	1 meaning
+e	mishap	mishap	1 meaning
+e	mister	mister	1 meaning
+e	misuse	misuse	1 meaning
+e	mitaka	mitaka	1 meaning
+e	mitten	mitten	1 meaning
+e	miyagi	miyagi	1 meaning
+e	miyako	miyako	2 meanings
+j	みいつ	miitsu	
+j	みいみい	miimii	猫や蟬などの鳴き声。
+j	みうち	miuchi	family and close relatives
+j	みおぼえ	mioboe	その物を以前に見たという記憶。
+j	みかか	mikaka	NTT (Nippon Telegraph and…
+j	みかけ	mikake	外から見た感じ。うわべ。外見。
+j	みかげ	mikage	神や貴人の霊魂。神霊。御霊。
+j	みかた	mikata	なかま。
+j	みかど	mikado	「天皇」の尊称。
+j	みかわ	mikawa	御溝
+j	みがき	migaki	「みがく」の連用形。
+j	みがく	migaku	形を整える。汚れを落とすことを目的として、こすった…
+j	みがら	migara	当人の体。
+j	みがる	migaru	動作が俊敏であること。
+j	みきき	mikiki	見聞き, 見聞: looking and list…
+j	みきこ	mikiko	美樹子: a female given name
+j	みきぞう	mikizo	幹三: a male given name
+j	みきり	mikiri	「みきる」の連用形。
+j	みきる	mikiru	終わりまで見る。
+j	みぎうえ	migiue	右上: upper right
+j	みぎて	migite	右側の手。
+j	みぎめ	migime	右側の目。右眼。
+j	みぎり	migiri	time
+j	みぎわ	migiwa	陸地が海や湖など水と接している場所。みずぎわ。みず…
+j	みくさ	mikusa	三つの種類。
+j	みくり	mikuri	みくりやの略称。
+j	みこす	mikosu	遠くのものを間にあるものを越して見る。
+j	みこと	mikoto	神、貴人に対する尊称。
+j	みこみ	mikomi	物事の発生や完遂の期待ができること。その度合い。
+j	みこむ	mikomu	あてにする。将来に期待する。
+j	みごと	migoto	すばらしいさま。見るに値する事と言えるさま。
+j	みごろ	migoro	見頃: best time to see
+j	みさき	misaki	岬, 崎: (geography) cape
+j	みさこ	misako	美沙子, 海沙子, 巳砂子, 実彩子, 美咲子, …
+j	みさわ	misawa	三澤, 三沢, 美沢: a surname
+j	みじか	mijika	短いこと。
+j	みじめ	mijime	哀れで見ていられないさま。なさけないさま。
+j	みすぎ	misugi	生活してゆくための手段。なりわい。
+j	みすじ	misuji	三つの筋。三本。
+j	みずうみ	mizumi	陸地に囲まれた水域のうち、規模の大きいもの。
+j	みずき	mizuki	外敵を防ぐために造られた水堀。
+j	みずぎ	mizugi	水泳の時に着る衣服。スイムウェア。
+j	みずけ	mizuke	物に含有される水分。
+j	みずこ	mizuko	生まれて日の浅い子。
+j	みずた	mizuta	水をはった田。
+j	みずで	mizude	書法の一つ。字の末尾を長く伸ばし、水が流れるように…
+j	みずな	mizuna	「京菜」の異名。
+j	みずの	mizuno	水野: a surname
+j	みずべ	mizube	水面に近接した岸の周辺。
+j	みずほ	mizuho	みずみずしい稲穂。
+j	みせば	miseba	stand-out scene; (by exte…
+j	みせや	miseya	商店。みせ。
+j	みせる	miseru	人に見えるようにする。提示する。
+j	みそか	misoka	the last day of a month
+j	みそぎ	misogi	禊, 禊ぎ, 稧: purification ce…
+j	みそぐ	misogu	禊をする。斎戒沐浴する。
+j	みそじ	misoji	thirty
+j	みそのお	misono	御園生: a surname
+j	みそら	misora	空の美称。
+j	みぞれ	mizore	雪が降下中に融けかかって、雨が混ざったようになって…
+j	みたく	mitaku	synonym of みたいに (mitai ni…
+j	みたけ	mitake	体の高さ。身長。
+j	みたす	mitasu	一杯にする。
+j	みたて	mitate	天皇を守る軍人。
+j	みたに	mitani	谷の美称。深い谷。
+j	みたま	mitama	神の霊。神霊。
+j	みたみ	mitami	天皇の民。
+j	みため	mitame	見た感じ。外見。外観。
+j	みたり	mitari	人数が、3であること。
+j	みだす	midasu	ばらばらにする。秩序をくずす。平穏でなくする。
+j	みだら	midara	obscene, indecent
+j	みだり	midari	乱れていること。
+j	みだれ	midare	「みだれる」の連用形。
+j	みちえ	michie	典江, 美智恵: a female given n…
+j	みちお	michio	道雄, 道夫, 道生, 道郎, 通雄, 道男, 路…
+j	みぢか	mijika	自分に関係の深い様子。
+j	みっつ	mittsu	個数が3個又は順番が3番目であること。みつ。
+j	みつえ	mitsue	光絵: a female given name
+j	みつお	mitsuo	実生, 光雄, 光男, 充男, 光生, 光郎, 光…
+j	みづうみ	mizumi	
+j	みづら	mizura	見た様子。
+j	みてる	miteru	見てる: contraction of 見ている
+j	みとおす	mitosu	初めから終わりまで全て見る。
+j	みとせ	mitose	3年間。
+j	みとむ	mitomu	認: a male given name
+j	みとめ	mitome	「みとめる」の未然形及び連用形。
+j	みとる	mitoru	見て知る。見極める。
+j	みどり	midori	春から夏の草木の葉のような色。黄色と藍色の中間色で…
+j	みどろ	midoro	名詞に付いて、それが身体中に付いてべとべとするさま…
+j	みなげ	minage	水中に飛び込んだり高所から飛び降りたりして自殺する…
+j	みなこ	minako	美奈子, 実名子, 美菜子: a female g…
+j	みなす	minasu	regard, consider
+j	みなと	minato	水際に在って、船を停泊させ、人や荷物を乗り降りさせ…
+j	みなみ	minami	陽: a female given name
+j	みなも	minamo	水の表面。水面。
+j	みなり	minari	身形, 身なり: outfit, attire
+j	みなわ	minawa	和船で、帆桁の中央に結び付け、帆柱の先端の滑車を通…
+j	みぬく	minuku	隠された本質・真相などを見通す。
+j	みぬま	minuma	水を湛える沼。
+j	みねこ	mineko	峰子: a female given name
+j	みのひ	minohi	暦の上で巳にあたる日。
+j	みのり	minori	作物などの実が生ること。
+j	みのる	minoru	実が生る。
+j	みはか	mihaka	天皇・太皇太后・皇太后・皇后の墓。
+j	みはじ	mihaji	Used for remembering the …
+j	みはり	mihari	keeping watch
+j	みはる	miharu	【瞠る】目を大きく開いて見る。
+j	みひけ	mihike	short, brief
+j	みふゆ	mifuyu	冬の美称。
+j	みぶな	mibuna	京都市壬生周辺で栽培される「京菜」の一品種。
+j	みぶり	miburi	意志や感情を伝える体の動き。
+j	みほこ	mihoko	美穂子, 視穂子, 三保子: a female g…
+j	みみこ	mimiko	実実子: a female given name
+j	みみず	mimizu	eye of a needle
+j	みみわ	mimiwa	耳朶につける環状の装飾。イヤリング。
+j	みむき	mimuki	（意識して）その方に向いて見ること。
+j	みもと	mimoto	身元, 身許: person's identity…
+j	みもの	mimono	見るのにあたいするもの。
+j	みやぎ	miyagi	宮城: a surname
+j	みやけ	miyake	大和朝廷の直轄地から収穫した穀物を収納した倉庫。
+j	みやげ	miyage	旅行先から家などへ持ち帰るその土地の産物。
+j	みやこ	miyako	皇居のある都市。首都。
+j	みやの	miyano	宮野: a surname
+j	みやび	miyabi	courtly, elegant, refined…
+j	みやま	miyama	奥深い山。奥山。
+j	みゆき	miyuki	雪の美称。
+j	みよこ	miyoko	美代子: a female given name
+j	みより	miyori	血縁者。身内。親族。親類。
+j	みれる	mireru	「見る」の可能動詞。「見られる」のら抜き言葉。みる…
+j	みわけ	miwake	distinguishing; telling a…
+j	みんしゅう	minshu	
+j	ミキサー	mikisa	mixer (blender)
+j	ミクリ	mikuri	ガマ目ミクリ科ミクリ属に属する多年草の一種。学名:…
+j	ミクロ	mikuro	きわめて小さいこと。きわめて細かいこと。
+j	ミケーネ	mikene	
+j	ミサキ	misaki	御先: an animal used as a v…
+j	ミサゴ	misago	ミサゴ科ミサゴ属の鳥の総称。別名、魚鷹。
+j	ミシン	mishin	sewing machine
+j	ミスる	misuru	to make a mistake
+j	ミスト	misuto	mist (fine droplets)
+j	ミズキ	mizuki	ミズキ目ミズキ科ミズキ属に属する落葉高木の一種。学…
+j	ミズーリ	mizuri	Missouri (a state in the …
+j	ミセス	misesu	既婚女性の姓の前につける敬称。
+j	ミゾ語	mizogo	
+j	ミダス	midasu	（ギリシャ神話）フリギアの王。
+j	ミダース	midasu	Midas
+j	ミトラ	mitora	カトリック、ギリシャ正教、英国国教会の儀式の際に、…
+j	ミドル	midoru	中間の。
+j	ミニカー	minika	道路交通法においてエンジンの総排気量が20cc超5…
+j	ミニバー	miniba	minibar
+j	ミマス	mimasu	土星の第一衛星の固有名。
+j	ミマース	mimasu	ギリシア神話の巨人族。
+j	ミミズ	mimizu	みみずの学術的表記。
+j	ミモザ	mimoza	みなみじゅうじ座の西部にある一等星。みなみじゅうじ…
+j	ミラノ	mirano	Milan (a city and comune,…
+j	ミラージュ	miraju	蜃気楼。
+j	ミラーノ	mirano	Mirano
+j	ミリオン	mirion	百万。
+j	ミリ波	miriha	波長が1ミリメートルから1センチメートルの電波。
+j	ミルク	miruku	milk, usually cow's milk
+j	ミロス	mirosu	Milos (an island of Greec…
+j	ミンカン	minkan	他家が捨てた暗刻と同じ牌を槓したり、明刻と同じ牌を…
+j	ミンチ	minchi	Ground meat; minced meat;…
+j	ミーカート	mikato	巡礼者がイフラームに着替える場所。
+j	ミーグリ	miguri	
+j	ミーシェン	mishen	中華人民共和国の雲南省産の米と水を使った麺。
+j	ミープル	mipuru	
+j	ミーム化	mimuka	
+j	ミ語法	migoho	古典日本語において上代以前に用いられた、形容詞の語…
+j	三つ	mittsu	three things
+j	三一	mikazu	a male given name
+j	三上	mikami	a surname
+j	三井	mitsui	a surname
+j	三人	mitari	three person; three people
+j	三保子	mihoko	a female given name
+j	三千緒	michio	a male given name
+j	三原	mihara	Mihara (a city in Hiroshi…
+j	三宅	miyake	a surname
+j	三実子	mimiko	Mimiko, a female Japanese…
+j	三富	mitomi	a surname
+j	三智夫	michio	a male given name
+j	三村	mimura	a surname
+j	三沢	misawa	Misawa (a city in Aomori …
+j	三河	mikawa	Mikawa Province, an old p…
+j	三澤	misawa	a surname
+j	三神	mikami	a surname
+j	三笘	mitoma	a surname
+j	三笠	mikasa	Mikasa (a city in Sorachi…
+j	三船	mifune	a surname
+j	三苫	mitoma	a surname
+j	三谷	mitani	a surname
+j	三輪田	miwata	a surname
+j	三郷	misato	
+j	三重県	mieken	a prefecture in the 近畿 (K…
+j	三雄	mitsuo	a male given name
+j	三鷹	mitaka	Mitaka (a city in Tokyo p…
+j	乱す	midasu	to disturb
+j	任那	mimana	Mimana, a place in ancien…
+j	充男	mitsuo	a male given name
+j	光井	mitsui	a surname
+j	光夫	mitsuo	a male given name
+j	光生	mitsuo	a male given name
+j	光男	mitsuo	a male given name
+j	光絵	mitsue	a female given name
+j	光郎	mitsuo	a male given name
+j	光雄	mitsuo	a male given name
+j	南	minami	the south (cardinal point)
+j	右に	migini	
+j	右上	migiue	top right, upper right
+j	右手	migite	right hand
+j	右田	migita	a surname
+j	味園	misono	a surname
+j	味方	mikata	friend; supporter; ally
+j	味覚	mikaku	sense of taste
+j	土産	miyage	a souvenir
+j	実はる	miharu	Miharu, a female Japanese…
+j	実り	minori	crop; harvest
+j	実る	minoru	to bear fruit; to ripen
+j	実利子	miriko	a female given name
+j	実利羽	miriha	a female given name
+j	実名子	minako	a female given name
+j	実名望	minami	a female given name
+j	実子代	mineyo	a female given name
+j	実子都	mikoto	a female given name
+j	実実子	mimiko	a female given name
+j	実家子	mikako	a female given name
+j	実彩子	misako	a female given name
+j	実智生	michio	a male given name
+j	実栗	mikuri	
+j	実母紗	mimoza	a female given name
+j	実見子	mimiko	a female given name
+j	宮出	miyade	a surname
+j	宮古	miyako	Miyako (a city in Iwate P…
+j	宮号	miyago	the title of a 宮家 (miyake…
+j	宮地	miyaji	a surname
+j	宮城	miyagi	Miyagi (prefecture, see 宮…
+j	宮家	miyake	a cadet branch of the Jap…
+j	宮田	miyata	a surname
+j	宮路	miyaji	a surname
+j	宮野	miyano	a surname
+j	宮間	miyama	a surname
+j	密会	mikkai	closed meeting
+j	密使	misshi	secret envoy, secret mess…
+j	密偵	mittei	spy
+j	密契	mikkei	内密の約束。密約。
+j	密教	mikkyo	esoteric Buddhism
+j	密計	mikkei	内密の計略。秘密のはかりごと。
+j	密通	mittsu	secret communication with…
+j	密閉	mippei	airtightness
+j	密陽	miryan	Miryang (a city in South …
+j	密集	misshu	crowd, cluster, swarm
+j	實	minoru	a male given name
+j	尊	mikoto	indicates respect and rev…
+j	岬	misaki	cape, promontory, point
+j	峰子	mineko	a female given name
+j	巳砂子	misako	a female given name
+j	帝	mikado	（みかど）天下の最高支配者。天子。天皇の婉曲呼称、…
+j	幹三	mikizo	a male given name
+j	幹子	mikiko	a female given name
+j	弥勒	miroku	Maitreya
+j	御国	mikuni	land of the emperor, the …
+j	御園生	misono	a surname
+j	御船	mifune	a surname
+j	御門	mikado	mikado (emperor of Japan)
+j	御霊	mitama	soul, spirit of the dead
+j	惨め	mijime	miserable, pitiful
+j	明初	minsho	中国の明の時代の初期。
+j	明史	minshi	the History of Ming
+j	明槓	minkan	melded kong
+j	明銭	minsen	中国明朝が鋳造した銭貨。室町時代、日本に輸入された…
+j	未上場	mijojo	証券取引所に株式を上場していないこと。
+j	未熟	mijuku	immature
+j	未舗装	mihoso	まだ舗装されていないさま。
+j	未訳	miyaku	まだ翻訳されていないこと。
+j	未読	midoku	unread (not yet read)
+j	未進	mishin	nonpayment of tribute
+j	民主	minshu	democracy
+j	民兵	minpei	a militia (army of traine…
+j	民初	minsho	中華民国の時代の初期。
+j	民声	minsei	国民や住民の声。輿論。
+j	民居	minkyo	人民の住居。
+j	民政	minsei	civil government
+j	民業	mingyo	private enterprise
+j	民権	minken	civil rights
+j	民生	minsei	consumer
+j	民芸	mingei	庶民の生活から生まれたその土地土地の風土や習慣など…
+j	民衆	minshu	people, mass, crowd
+j	民選	minsen	国民が選挙すること。
+j	民間	minkan	private, non-governmental
+j	水名	mizuna	a female given name
+j	水城	mizuki	a surname
+j	水奈	mizuna	a female given name
+j	水子	mizuko	an aborted or miscarried …
+j	水木	mizuki	Cornus controversa var. c…
+j	水樹	mizuki	a surname
+j	水牢	mizuro	水浸しにした牢屋に罪人を収容する刑罰。また、その牢…
+j	水着	mizugi	swimsuit, a bathing suit,…
+j	水納	mizuna	a surname
+j	水芽	mizume	
+j	水菜	mizuna	mizuna
+j	水辺	mizube	waterside, shoreline
+j	水野	mizuno	a surname
+j	水際	migiwa	水のほとり、水辺、みずぎわ。
+j	泉奈	mizuna	a female given name
+j	泉菜	mizuna	a female given name
+j	海沙子	misako	a female given name
+j	海砂	mizuna	a female given name
+j	港	minato	a sluice; a section of a …
+j	湊	minato	a surname
+j	満たす	mitasu	fill up
+j	満夫	mitsuo	a male given name
+j	満男	mitsuo	a male given name
+j	溝部	mizobe	a surname
+j	瑞凪	mizuna	a female given name
+j	瑞名	mizuna	a female given name
+j	瑞和	mizuna	a female given name
+j	瑞奈	mizuna	a female given name
+j	瑞季	mizuki	a male given name
+j	瑞希	mizuki	a female given name
+j	瑞穂	mizuho	fresh ears of rice
+j	瑞紀	mizuki	a unisex given name
+j	瑞菜	mizuna	a female given name
+j	瑞那	mizuna	a female given name
+j	瑞香	mizuka	a female given name
+j	瑞鳴	mizuna	a female given name
+j	盈男	mitsuo	a male given name
+j	看取る	mitoru	to nurse; to take care of…
+j	眠剤	minzai	soporific (drug)
+j	眠性	minsei	蚕が脱皮する前に桑の葉を食べなくなる性質。
+j	磨き	migaki	
+j	磨く	migaku	to polish, to brush
+j	禊	misogi	a form of ritual purifica…
+j	禊ぐ	misogu	to perform misogi (purifi…
+j	稔	minoru	a male given name
+j	箕田	minoda	a surname
+j	簑田	minoda	a surname
+j	米線	mishen	中華人民共和国の雲南省産の米と水を使った麺。
+j	綠	midori	a female given name.
+j	緑	midori	green (color)
+j	美代子	miyoko	a female given name
+j	美佐子	misako	a female given name
+j	美和子	miwako	a female given name
+j	美咲	misaki	a female given name
+j	美咲子	misako	a female given name
+j	美奈子	minako	a female given name
+j	美幸	miyuki	a female given name
+j	美弥子	miyako	a female given name
+j	美春	miharu	a female given name
+j	美晴	miharu	a female given name
+j	美智夫	michio	a male given name
+j	美智恵	michie	a female given name
+j	美智生	michio	a male given name
+j	美智男	michio	a male given name
+j	美沙子	misako	a female given name
+j	美沢	misawa	a surname
+j	美津紀	mizuki	a female given name
+j	美由樹	miyuki	a female given name
+j	美由紀	miyuki	a female given name
+j	美穂子	mihoko	a female given name
+j	美菜子	minako	a female given name
+j	美郷	misato	a female given name
+j	美里	misato	a female given name
+j	美順	miyuki	a female given name
+j	翠	midori	a female given name
+j	蚯蚓	mimizu	a worm, such as an earthw…
+j	蜜柑	mikkan	a satsuma tree, a mikan t…
+j	見えない	mienai	blind
+j	見え見え	miemie	being obvious or plain
+j	見せる	miseru	to show
+j	見せ合う	miseau	show each other, compare
+j	見た目	mitame	appearance
+j	見なす	minasu	
+j	見る目	mirume	prying eyes; people who m…
+j	見事	migoto	spectacular, splendid, ma…
+j	見張り	mihari	
+j	見張る	miharu	to watch
+j	見抜く	minuku	to see through, to read i…
+j	見掛け	mikake	outward appearance
+j	見方	mikata	aspect, viewpoint, opinion
+j	見聞き	mikiki	looking and listening, se…
+j	見覚え	mioboe	something that gives the …
+j	見越す	mikosu	
+j	見込み	mikomi	chance, expectation, fear…
+j	見込む	mikomu	expect, project
+j	見通す	mitosu	get a clear view of, see …
+j	見遣る	miyaru	gaze into the distance
+j	見頃	migoro	best time to see
+j	視穂子	mihoko	a female given name
+j	観月	mizuki	a surname
+j	認	mitomu	a male given name
+j	路央	michio	a male given name
+j	身を売る	miouru	to sell one's body
+j	身バレ	mibare	
+j	身元	mimoto	person's identity
+j	身共	midomo	I (personal pronoun), for…
+j	身内	miuchi	
+j	身形	minari	outfit, attire
+j	身投げ	minage	death by jumping into a b…
+j	身振り	miburi	gesture, gesticulation
+j	身柄	migara	body of that person
+j	身贔屓	mibiki	nepotism
+j	身近	mijika	near
+j	通雄	michio	a male given name
+j	道夫	michio	a male given name
+j	道生	michio	a male given name
+j	道男	michio	a male given name
+j	道緒	michio	a male given name
+j	道郎	michio	a male given name
+j	道雄	michio	a male given name
+j	都	miyako	the place of residence of…
+j	陸男	michio	a male given name
+j	雅ぶ	miyabu	to be elegant, to be refi…
+j	霙	mizore	sleet
+j	魅する	misuru	charm, captivate
+j	魅佐子	misako	a female given name
+j	魅惑	miwaku	fascination
+j	鶚	misago	osprey, Pandion haliaetus
+k	미관	migwan	외견상으로 아름답게 보이는 것.
+k	미궁	migung	labyrinth
+k	미기후	migihu	microclimate
+k	미나리	minari	water dropwort of species…
+k	미나토	minato	
+k	미녀	minyeo	beauty, beautiful woman
+k	미니바	miniba	minibar
+k	미니카	minika	minicar
+k	미닫이	midaji	옆으로 밀어서 열고 닫는 문
+k	미덕	mideok	virtue
+k	미도 시	midosi	일본 이바라키 현에 위치한 '미토 시'의 북한…
+k	미동	midong	tremor; quiver; slight mo…
+k	미디어	midieo	media
+k	미려	miryeo	바다의 깊은 곳에 있어 물이 끊임없이 새어 든…
+k	미루다	miruda	to postpone
+k	미륵	mireuk	Maitreya
+k	미리지	miriji	tteok, rice cake
+k	미망	mimang	
+k	미몽	mimong	
+k	미봉	mibong	
+k	미사일	misail	missile (military rocket)
+k	미상	misang	being unclear; being unkn…
+k	미색	misaek	
+k	미셴	misyen	
+k	미송	misong	
+k	미숙아	misuga	
+k	미싱	mising	재봉틀
+k	미쓰	misseu	
+k	미야기	miyagi	
+k	미양	miyang	
+k	미역	miyeok	wakame (type of edible se…
+k	미연	miyeon	(주로 '미연에' 꼴로 쓰여) 어떤 일이 아직…
+k	미열	miyeol	
+k	미용	miyong	beauty
+k	미유기	miyugi	The slender catfish, Silu…
+k	미인도	miindo	
+k	미장	mijang	
+k	미적	mijeok	aesthetic
+k	미전	mijeon	
+k	미조어	mijoeo	
+k	미주리	mijuri	[~주(州)] Missouri (a state…
+k	미주알	mijual	sphincter muscles of the …
+k	미지수	mijisu	unknown quantity; the unk…
+k	미채	michae	camouflage; dazzle camouf…
+k	미처	micheo	yet (up to a certain poin…
+k	미친	michin	oh my god, that's insane
+k	미카엘	mikael	Michael, the Archangel.
+k	미카일	mikail	
+k	미코시	mikosi	
+k	미투리	mituri	hemp-cord sandals
+k	미팅	miting	blind date; first date
+k	미풍	mipung	breeze
+k	미하일	mihail	a transliteration of the …
+k	미흡	miheup	
+k	믹서	mikseo	blender (machine)
+k	믹이다	migida	Gyeongsang, Jeolla dialec…
+k	민간	mingan	private; non-governmental
+k	민감	mingam	sensitivity
+k	민국	minguk	republic
+k	민군	mingun	
+k	민낯	minnat	face without makeup
+k	민단	mindan	
+k	민달	mindal	
+k	민담	mindam	
+k	민답	mindap	
+k	민란	millan	
+k	민립	millip	
+k	민몰	minmol	
+k	민물	minmul	soft water; freshwater, h…
+k	민박	minbak	a private residence tempo…
+k	민복	minbok	
+k	민본	minbon	
+k	민산	minsan	
+k	민서	minseo	only used in 민서기 (minseog…
+k	민속	minsok	folklore; folkway; folk c…
+k	민숙	minsuk	
+k	민심	minsim	
+k	민업	mineop	
+k	민완	minwan	
+k	민원	minwon	civil complaint
+k	민재	minjae	
+k	민족	minjok	people; nation; ethnicity…
+k	민초	mincho	grass roots (referring to…
+k	민트	minteu	mint (plant of the genus …
+k	민폐	minpye	nuisance; annoyance
+k	민해	minhae	
+k	민혼	minhon	
+k	민화	minhwa	folktale; fairy tale
+k	민회	minhoe	
+k	믿음	mideum	faith, belief, acceptance…
+k	밀감	milgam	mandarin orange
+k	밀교	milgyo	
+k	밀담	mildam	몰래 만나서 하는 이야기.
+k	밀대	mildae	rolling pin
+k	밀랍	millap	beeswax, wax
+k	밀림	millim	jungle, rainforest
+k	밀매	milmae	
+k	밀물	milmul	flood tide, rising tide
+k	밀살	milsal	
+k	밀서	milseo	
+k	밀실	milsil	hidden room; secret chamb…
+k	밀약	miryak	
+k	밀월	mirwol	honeymoon
+k	밀집	miljip	
+k	밀초	milcho	밀랍으로 만든 초.
+k	밀크	milkeu	milk
+k	밀탐	miltam	
+k	밀폐	milpye	
+k	밀회	milhoe	closed/secret meeting
+k	밈화	mimhwa	memeification
+k	밑씨	mitssi	꽃식물의 꽃의 암꽃술에 있는 중요 기관. 정받…
+k	밑줄	mitjul	underline (placed under t…
+e	michael	michael	2 meanings
+e	microbe	microbe	1 meaning
+e	midgard	midgard	1 meaning
+e	midterm	midterm	2 meanings
+e	midwife	midwife	1 meaning
+e	migrant	migrant	1 meaning
+e	migrate	migrate	1 meaning
+e	mikoshi	mikoshi	1 meaning
+e	mileage	mileage	2 meanings
+e	militia	militia	1 meaning
+e	milk jug	milkjug	1 meaning
+e	milk tea	milktea	1 meaning
+e	milk-cap	milkcap	1 meaning
+e	milkman	milkman	1 meaning
+e	million	million	1 meaning
+e	mimicry	mimicry	1 meaning
+e	minaret	minaret	1 meaning
+e	mindelo	mindelo	1 meaning
+e	mindset	mindset	1 meaning
+e	mineral	mineral	4 meanings
+e	minerva	minerva	1 meaning
+e	minibar	minibar	1 meaning
+e	minibus	minibus	1 meaning
+e	minimal	minimal	1 meaning
+e	minimap	minimap	1 meaning
+e	minimum	minimum	2 meanings
+e	minipig	minipig	1 meaning
+e	minivan	minivan	1 meaning
+e	minivet	minivet	1 meaning
+e	minorca	minorca	1 meaning
+e	minuend	minuend	1 meaning
+e	minutes	minutes	1 meaning
+e	minutia	minutia	1 meaning
+e	miracle	miracle	1 meaning
+e	miranda	miranda	1 meaning
+e	misbaha	misbaha	1 meaning
+e	misdeed	misdeed	1 meaning
+e	miserly	miserly	1 meaning
+e	misread	misread	1 meaning
+e	miss out	missout	1 meaning
+e	missile	missile	2 meanings
+e	mission	mission	3 meanings
+e	mistake	mistake	3 meanings
+e	mithril	mithril	1 meaning
+e	mitosis	mitosis	1 meaning
+e	mitsuba	mitsuba	1 meaning
+e	mizoram	mizoram	1 meaning
+j	みあげる	miageru	下から上の方を見る。
+j	みあたる	miataru	（多く打ち消しの形で）見付かる。発見される。
+j	みあわす	miawasu	互いに見る。
+j	みあわせ	miawase	「みあわせる」の未然形及び連用形。
+j	みいだす	miidasu	多くの中から価値あるものを選び出し、存在を公にする。
+j	みいとこ	miitoko	曽祖父・曽祖母の兄弟姉妹の曽孫。祖父母のいとこの孫…
+j	みうける	miukeru	見かける。
+j	みうごき	miugoki	体を動かすこと。身動ぎ。
+j	みおくり	miokuri	「みおくる」の連用形。
+j	みおくる	miokuru	去って行くものの後ろ姿を目で追う。
+j	みおさめ	miosame	見るのがそれで最後であること。
+j	みおとす	miotosu	見ていながらそこだけうっかり気づかないでいる。
+j	みおとり	miotori	他のものと比べて劣って見えること。
+j	みおろす	miorosu	上から下の方を見る。
+j	みかえす	mikaesu	見返す: to look over, to loo…
+j	みかえり	mikaeri	reward; returning the fav…
+j	みがって	migatte	自分だけの都合で行動すること。わがまま。
+j	みがまえ	migamae	「みがまえる」の未然形及び連用形。
+j	みぎうで	migiude	右側の腕。
+j	みこし	mikoshi	神社の祭礼で渡御の際、神霊の神体または霊代を奉安し…
+j	みごたえ	migotae	worth watching
+j	みさかい	misakai	discrimination
+j	みしり	mishiri	seeing and knowing [a per…
+j	みしる	mishiru	見て知る。
+j	みじかい	mijikai	ものの両端の距離が近い様。
+j	みすえる	misueru	じっと見る。見つめる。
+j	みずあか	mizuaka	水に溶解している物質が固まり、浮遊、沈殿、付着した…
+j	みずあげ	mizuage	船舶に積載された貨物を陸に揚げること。
+j	みずあめ	mizuame	澱粉を酸や糖化酵素で糖化して作られた粘液状の甘味料。
+j	みずいと	mizuito	建築工事などで、水平線を示すのに使う糸。水縄。
+j	みずいれ	mizuire	tray for holding water th…
+j	みずいろ	mizuiro	海や湖などを想わせる、青系統の色。ウォーターブルー。
+j	みずおと	mizuoto	水が流れる音。また、水滴が落ちて立てる音。
+j	みずごえ	mizugoe	液状の肥料。液肥。
+j	みずち	mizuchi	水中に潜み、角、四肢をもった蛇に似た姿をした毒を吐…
+j	みずのえ	mizunoe	十干の第9「壬」の和称。
+j	みせうり	miseuri	店で品物を売ること。また、その品物。
+j	みせばん	miseban	person in charge of recei…
+j	みそち	misochi	thirty
+j	みぞごい	mizogoi	コウノトリ目サギ科ミゾゴイ属に属する鳥の一種。学名…
+j	みたいだ	mitaida	のようだ。類似を表す。
+j	みたらい	mitarai	「みたらし」に同じ。
+j	みだし	midashi	新聞などの記事でその内容がすぐわかるように文章の前…
+j	みちこ	michiko	典子, 美智子, 允知子, 観智子, 道子: a …
+j	みちひ	michihi	満潮と干潮。満干。
+j	みちる	michiru	一杯になる。
+j	みっける	mikkeru	Gunma form of 見付ける (mitsu…
+j	みつあい	mitsuai	三本の糸や紐などをよりあわせること。
+j	みつき	mitsuki	三ヶ月。
+j	みつぎ	mitsugi	「みつぐ」の連用形。
+j	みつぐ	mitsugu	金品を仕送り生活の面倒を見る。
+j	みつけ	mitsuke	「みつける」の未然形及び連用形。
+j	みつこ	mitsuko	実子: a female given name
+j	みつご	mitsugo	同じ日に同じ両親から生まれた三人の子供。
+j	みつば	mitsuba	葉が三枚あること。また、三枚の葉。
+j	みつぼ	mitsubo	水滴。水泡。
+j	みつよ	mitsuyo	満代, 万葉, 美津代, 美鶴代: a femal…
+j	みていた	miteita	見ていた: perfective of 見ている
+j	みている	miteiru	見ている: present continuous …
+j	みとおし	mitoshi	見通すこと。
+j	みなおす	minaosu	（他動詞）一度したことを改めて見る。
+j	みなさん	minasan	「みなさま（皆様）」の少しくだけた尊敬語。
+j	みなし	minashi	
+j	みならい	minarai	見習うこと。
+j	みならう	minarau	模範的な人のする事を見て覚える。
+j	みにくい	minikui	見た目が悪い。
+j	みはらい	miharai	品物やサービス等に対する対価を、まだ支払っていない…
+j	みばらい	mibarai	「みはらい」の表記ゆれ。
+j	みぶるい	miburui	恐怖や寒さにより体が震えること。
+j	みみあか	mimiaka	耳の穴にたまる垢。
+j	みみあて	mimiate	耳当て, 耳あて: earmuffs
+j	みみしい	mimishi	聾, 耳癈: (archaic, possibly…
+j	みみせん	mimisen	耳栓: earplug
+j	みめよい	mimeyoi	顔つきが美しい。器量がよい。
+j	みもだえ	mimodae	苦しみや痛みなどのため体を捩るように動かすこと。
+j	みもち	mimochi	所行。
+j	みやびお	miyabio	洗練され、風雅な男性。風流な男性。
+j	みるがい	mirugai	みるくいがいの別称。
+j	みるくい	mirukui	みるくいがいの別称。
+j	ミカイドウ	mikaido	ホンカイドウとマンシュウズミの雑種。学名:Malu…
+j	ミカエル	mikaeru	Michael
+j	ミカ書	mikasho	
+j	ミクロン	mikuron	micron
+j	ミサイル	misairu	missile
+j	ミサンガ	misanga	friendship bracelet; misa…
+j	ミシェル	misheru	a transliteration of the …
+j	ミジンコ	mijinko	「微塵子」の学術的表記。
+j	ミスコン	misukon	「ミスコンテスト」の略。
+j	ミゼット	mizetto	
+j	ミックス	mikkusu	混ぜること。混和。
+j	ミッション	misshon	mission (task)
+j	ミディアム	midiamu	中間の。
+j	ミニコン	minikon	「ミニコンピュータ」の略。
+j	ミニバン	miniban	minivan
+j	ミハイル	mihairu	
+j	ミランダ	miranda	天王星の第五衛星の固有名。
+j	ミリオタ	miriota	軍事好きのオタク。
+j	ミリヲタ	miriota	「ミリオタ」の別表記。
+j	ミリ秒	miribyo	a millisecond
+j	ミンスク	minsuku	Minsk (the capital city o…
+j	ミンブル	minburu	
+j	ミーティング	mitingu	meeting
+j	ミートパイ	mitopai	
+j	三つ子	mitsugo	
+j	三つ葉	mitsuba	
+j	三好	miyoshi	Miyoshi (a city in Tokush…
+j	三島	mishima	Mishima (a city in Shizuo…
+j	三次	miyoshi	Miyoshi (a city in Hirosh…
+j	乱れ緒	midareo	tangled thread
+j	乱れ麻	midareo	tangled thread or yarn
+j	允知子	michiko	a female given name
+j	充	mitsuru	a male given name
+j	充喜	mitsuki	a male given name
+j	光世	mitsuyo	a male given name
+j	光田	mitsuda	a surname
+j	南へ	minamie	
+j	右腕	migiude	right arm
+j	壬	mizunoe	the ninth of the ten heav…
+j	実のない	minonai	
+j	実の有る	minoaru	solid; substantial
+j	宮前	miyamae	a surname
+j	宮古語	miyakgo	宮古列島で話される言語。ユネスコの消滅危険度評価に…
+j	宮岡	miyaoka	a surname
+j	密儀	mitsugi	参加者に特別な資格を有したり、また特別な資格を与え…
+j	密号	mitsugo	密教における諸尊、灌頂を受けたときなどの名称。
+j	密告	mikkoku	tipoff
+j	密営	mitsuei	a secret military camp in…
+j	密度	mitsudo	density
+j	密蔵	mitsuzo	密教の経典や教義。
+j	密謀	mitsubo	secret scheme
+j	密議	mitsugi	secret conference
+j	密輸	mitsuyu	smuggling
+j	密造	mitsuzo	法令で作ることが禁止されている物を密かに製造するこ…
+j	密雲	mitsuun	dense clouds; overcast
+j	巫女兵	mikohei	A warrior priestess
+j	已代志	miyoshi	a male given name
+j	店番	miseban	店舗などの番をすること。
+j	微塵子	mijinko	a water flea of the genus…
+j	微塵粉	mijinko	rice granules
+j	明楽	mingaku	中国明の音楽。江戸時代の寛永年間に日本に渡来したが…
+j	未亡人	mibojin	widow
+j	未使用	mishiyo	something that has gone u…
+j	未公表	mikohyo	まだ公表されていないこと。
+j	未公開	mikokai	一般の人や外部にはまだ公開されていないこと。または…
+j	未分化	mibunka	いくつかの要素が混じり合い、分化すべきものが分かれ…
+j	未加入	mikanyu	まだ加入していないこと。また、そのさま。
+j	未完の	mikanno	
+j	未必	mihitsu	必ずしも起こるとは限らない状況。
+j	未所持	mishoji	まだ所持していないこと。
+j	未所有	mishoyu	まだ所有していないこと。また、そのさま。
+j	未来像	miraizo	将来を想定して描いた姿。ビジョン。
+j	未来派	miraiha	futurism (art movement)
+j	未決	miketsu	pending
+j	未着	michaku	まだ到着しない（していない）こと。
+j	未知の	michino	
+j	未知数	michisu	unknown (variable)
+j	未開封	mikaifu	まだ開封されていないさま。
+j	民事上	minjijo	
+j	民俗	minzoku	folklore; folkway; folk c…
+j	民営化	mineika	privatization
+j	民国	minkoku	a republic, now only eith…
+j	民数記	minsuki	Numbers
+j	民數記	minsuki	
+j	民族	minzoku	people, race, ethnic grou…
+j	民泊	minpaku	a private residence tempo…
+j	水制	mizusei	水の流れを制御するために、河川や海岸に設置された工…
+j	水揚げ	mizuage	landing (bringing to land…
+j	水桶	mizuoke	bucket; pail (container f…
+j	水色	mizuiro	light blue, sky blue, tur…
+j	水葵	mizuaoi	oval-leafed pondweed, Mon…
+j	水虻	mizuabu	
+j	水蚤	mijinko	「微塵子」の別表記。
+j	水飴	mizuame	mizuame (glutinous starch…
+j	湖	mizuumi	a lake (body of water)
+j	満	mitsuru	a male given name
+j	満ちた	michita	
+j	満ちる	michiru	to be full
+j	満代	mitsuyo	a female given name
+j	満子	mitsuko	a female given name
+j	満田	mitsuda	a surname
+j	溝五位	mizogoi	Japanese night heron
+j	皆さん	minasan	everybody, everyone
+j	短い	mijikai	short, brief (in time)
+j	神輿	mikoshi	mikoshi, portable shrine …
+j	美代志	miyoshi	a female given name
+j	美智子	michiko	a female given name
+j	美津代	mitsuyo	a female given name
+j	美芳	miyoshi	a male given name
+j	美都子	mitsuko	a female given name
+j	美鶴代	mitsuyo	a female given name
+j	耳あて	mimiate	
+j	耳ん垢	mimingo	
+j	耳偏	mimihen	漢字の部首「⽿」が偏である場合の呼称。
+j	耳垢	mimiaka	earwax, cerumen
+j	耳当て	mimiate	earmuffs
+j	耳栓	mimisen	earplug
+j	虬	mizuchi	
+j	虯	mizuchi	
+j	蜜槽	mitsuso	「蜜腺」に同じ。
+j	蜜蝋	mitsuro	beeswax
+j	蜜蠟	mitsuro	蜜蜂が巣を造る際に出す液体。巣を加熱、圧縮して採取…
+j	見える化	mieruka	Visualization.
+j	見して	mishite	
+j	見せパン	misepan	boyshorts
+j	見ていた	miteita	
+j	見る専	mirusen	exclusively lurking
+j	見上げる	miageru	to look up at
+j	見下ろす	miorosu	to overlook, to have a vi…
+j	見出し	midashi	headline (of news)
+j	見出す	miidasu	to find out
+j	見受ける	miukeru	to judge (as something), …
+j	見当たる	miataru	to find the object of a s…
+j	見据える	misueru	stare intently at
+j	見目良い	mimeyoi	good looking
+j	見直す	minaosu	look over, go over, re-ex…
+j	見納め	miosame	last sight of a person, l…
+j	見習い	minarai	apprenticeship
+j	見習う	minarau	follow someone's example
+j	見落とす	miotosu	to overlook; to fail to n…
+j	見返す	mikaesu	to look over
+j	見返り	mikaeri	
+j	見送り	miokuri	send-off, farewell, such …
+j	見送る	miokuru	to see off (accompany, es…
+j	見通し	mitoshi	view, outlook (wide visib…
+j	見飽きる	miakiru	to get tired of looking a…
+j	観智子	michiko	a female given name
+j	貢	mitsugu	a male given name
+j	貢ぎ	mitsugi	
+j	貢ぐ	mitsugu	to tribute, to give tribu…
+j	身動き	miugoki	moving about
+j	身軽い	migarui	nimble
+j	通世	michiyo	a male given name
+j	道子	michiko	a female given name
+j	醜い	minikui	ugly
+j	魅力	miryoku	allure, charm, glamour
+k	미 의회	miuihoe	
+k	미가서	migaseo	
+k	미개인	migaein	
+k	미개지	migaeji	
+k	미결	migyeol	
+k	미국의	migugui	
+k	미국인	migugin	American (person born in …
+k	미규모	migyumo	난류, 회오리바람처럼 그 크기가 100m 이내…
+k	미깡	mikkang	감귤, 밀감.
+k	미꾸리	mikkuri	The pond loach (Misgurnus…
+k	미나렛	minaret	
+k	미남자	minamja	외모, 특히 얼굴이 잘 생긴 남자.
+k	미납세	minapse	
+k	미납자	minapja	
+k	미납조	minapjo	
+k	미네랄	mineral	
+k	미누스	minuseu	minus
+k	미느리	mineuri	
+k	미더움	mideoum	trust, trustworthiness, r…
+k	미등	mideung	
+k	미란다	miranda	
+k	미래사	miraesa	
+k	미력	miryeok	
+k	미련	miryeon	lingering attachment, per…
+k	미리내	mirinae	Galaxy
+k	미립자	miripja	
+k	미마스	mimaseu	
+k	미분자	mibunja	
+k	미성	miseong	beautiful voice
+k	미션	misyeon	
+k	미수죄	misujoe	
+k	미술가	misulga	미술에 종사하는 사람.
+k	미술사	misulsa	art history
+k	미스바	miseuba	성경에 나오는 옛 이스라엘의 지명
+k	미시간	misigan	[~주(州)] Michigan (a state…
+k	미시감	misigam	
+k	미시스	misiseu	
+k	미식가	misikga	
+k	미싸일	missail	missile (military rocket)
+k	미안해	mianhae	
+k	미얀마	miyanma	Myanmar (a country in Asi…
+k	미의식	miuisik	
+k	미인계	miingye	honey trap; beauty trap; …
+k	미정	mijeong	
+k	미조람	mijoram	
+k	미지불	mijibul	미지급.
+k	미치다	michida	to go crazy, to become in…
+k	미칭	miching	아름답게 이르는 이름.
+k	미타불	mitabul	
+k	미터기	miteogi	taximeter
+k	미토솜	mitosom	
+k	미필자	mipilja	
+k	미행	mihaeng	
+k	미혼모	mihonmo	unmarried mother, single …
+k	미혼자	mihonja	
+k	민권	mingwon	국민의 권리. 특히 참정권을 이른다.
+k	민망	minmang	popular expectation, peop…
+k	민방	minbang	
+k	민법	minbeop	
+k	민사부	minsabu	
+k	민선	minseon	
+k	민설	minseol	
+k	민수기	minsugi	Numbers (book of the Bibl…
+k	민습	minseup	
+k	민요조	minyojo	
+k	민장	minjang	
+k	민적	minjeok	
+k	민전	minjeon	
+k	민절	minjeol	
+k	민주제	minjuje	
+k	민중	minjung	minjung; the ruled class …
+k	민촌	minchon	
+k	민취	minchwi	
+k	민하다	minhada	to be stupid, foolish
+k	민휼	minhyul	
+k	밀가루	milgaru	flour
+k	밀고기	milgogi	seitan (meat substitute m…
+k	밀기울	milgiul	
+k	밀당	mildang	playing hard to get, blow…
+k	밀덕	mildeok	somebody fascinated in th…
+k	밀도기	mildogi	
+k	밀라노	millano	Milan (a city and comune,…
+k	밀룽	millung	
+k	밀리다	millida	to be overdue
+k	밀리바	milliba	과거에 사용하던 기압ㆍ수증기압 등의 단위. 1…
+k	밀리온	million	'백만'를 뜻하는 고려말.
+k	밀봉	milbong	
+k	밀수입	milsuip	
+k	밀수자	milsuja	
+k	밀접	miljeop	
+k	밀착	milchak	
+k	밀타유	miltayu	
+k	밀통	miltong	secret communication with…
+k	밀항	milhang	
+k	밋밋이	minmisi	
+k	밍크	mingkeu	mink
+k	밑동	mitdong	
+k	밑으로	miteuro	
+k	밑지다	mitjida	to make a loss, especiall…
+e	michigan	michigan	1 meaning
+e	mickey d's	mickeyds	1 meaning
+e	midbrain	midbrain	1 meaning
+e	midnight	midnight	2 meanings
+e	migraine	migraine	1 meaning
+e	milanese	milanese	2 meanings
+e	miliaria	miliaria	1 meaning
+e	military	military	2 meanings
+e	militsia	militsia	1 meaning
+e	milk duct	milkduct	1 meaning
+e	milkfish	milkfish	1 meaning
+e	milkmaid	milkmaid	1 meaning
+e	milky way	milkyway	2 meanings
+e	millibar	millibar	1 meaning
+e	minamata	minamata	1 meaning
+e	mince pie	mincepie	1 meaning
+e	mind's eye	mindseye	1 meaning
+e	mindanao	mindanao	1 meaning
+e	minecart	minecart	1 meaning
+e	minigame	minigame	1 meaning
+e	minimize	minimize	2 meanings
+e	minister	minister	2 meanings
+e	ministry	ministry	1 meaning
+e	minor key	minorkey	1 meaning
+e	minority	minority	2 meanings
+e	minotaur	minotaur	1 meaning
+e	minstrel	minstrel	1 meaning
+e	misandry	misandry	1 meaning
+e	mischief	mischief	2 meanings
+e	misnomer	misnomer	1 meaning
+e	miso soup	misosoup	1 meaning
+e	misogamy	misogamy	1 meaning
+e	misogyny	misogyny	1 meaning
+e	misplace	misplace	1 meaning
+e	missouri	missouri	2 meanings
+e	misspell	misspell	1 meaning
+e	mistress	mistress	1 meaning
+e	mistrust	mistrust	1 meaning
+e	mitosome	mitosome	1 meaning
+e	mitre saw	mitresaw	1 meaning
+e	miyazaki	miyazaki	1 meaning
+j	みおやち	mioyachi	先祖の力。
+j	みかぎる	mikagiru	見込みがないと判断して諦める。見切りを付ける。
+j	みかける	mikakeru	（偶然）目に止まる。
+j	みかじめ	mikajime	管理すること。監督すること。
+j	みかづき	mikazuki	陰暦三日の月。
+j	みかねる	mikaneru	to be unable to be a byst…
+j	みかわす	mikawasu	互いに相手を見る。見合う。
+j	みかんせい	mikansei	未完成: incompletion
+j	みがきこ	migakiko	よごれや錆びがひどい物を磨くための粉末。
+j	みがわり	migawari	他人の代りとなること。その人。
+j	みきのり	mikinori	幹典: a male given name
+j	みきれる	mikireru	to accidentally enter a s…
+j	みぎあし	migiashi	右側の足。
+j	みぎかた	migikata	右側の肩。
+j	みぎがわ	migigawa	右の側。
+j	みぎきき	migikiki	日常において意のままに動かせる腕や手足、即ち、利き…
+j	みぎひざ	migihiza	右側の膝。
+j	みぎひじ	migihiji	右側の肘。
+j	みぎまき	migimaki	渦、螺子などが右に巻いていること。時計の針と同じ向…
+j	みぎむき	migimuki	右の方向に向く（向いている）こと。
+j	みぎより	migiyori	時計の針が進む方向によりをかけること。その組紐や縄…
+j	みくだす	mikudasu	（自分の方が格が高いと見なして）相手を自分より品格…
+j	みくびる	mikubiru	to underestimate, to beli…
+j	みくりや	mikuriya	神社で神饌を調進する建物。
+j	みけねこ	mikeneko	三毛猫: a calico-colored cat.
+j	みごもる	migomoru	to be pregnant
+j	みさげる	misageru	相手の能力などが劣っている、低いものとして見る。見…
+j	みささぎ	misasagi	天皇・太皇太后・皇太后・皇后の墓。かつては「みさざ…
+j	みじかよ	mijikayo	夏の短い夜。
+j	みじろぎ	mijirogi	「みじろぐ」の連用形。
+j	みじろぐ	mijirogu	to move slightly; to twit…
+j	みすごす	misugosu	見落とす。
+j	みすてる	misuteru	困っている相手などを、そのことを知りながら放ってお…
+j	みすみす	misumisu	目の前にあり見ていながら。知っていながら。
+j	みずあらい	mizuarai	水洗い: washing with water
+j	みずおち	mizuochi	流れた水が落ちる場所。
+j	みずかき	mizukaki	水上や水中、水辺で暮らす水鳥、哺乳類、両生類の手足…
+j	みずかさ	mizukasa	（河川などの）水量の多少、増減の程度。
+j	みずから	mizukara	自分自身。
+j	みずがね	mizugane	〔雅語〕 水銀。
+j	みずがめ	mizugame	水を貯めておくかめ。
+j	みずきり	mizukiri	余分な水分を取ること。また、それをする設備や道具。
+j	みずぎわ	mizugiwa	陸が水面と接する場所。みぎわ。
+j	みずくさ	mizukusa	水辺に生息する植物。湿地植物、抽水性植物、浮葉性植…
+j	みずぐも	mizugumo	ミズクモ科の水中でくらす蜘蛛。
+j	みずさわ	mizusawa	a surname
+j	みずぜめ	mizuzeme	water torture
+j	みずそこ	mizusoko	海・川・湖沼などの底。水の底。
+j	みずぞこ	mizuzoko	河川や湖沼などの水の底。
+j	みずたま	mizutama	水が球形（またはそれに近い形）になったもの。また、…
+j	みずだこ	mizudako	八腕形目マダコ科ミズダコ属に属する蛸の一種。学名:…
+j	みずっぽい	mizuppoi	watery; watered-down
+j	みずとり	mizutori	水を汲むこと
+j	みずどり	mizudori	水辺や水面で暮らす鳥の総称。
+j	みずなみ	mizunami	水面に立つ波。
+j	みずなわ	mizunawa	水糸。
+j	みずのて	mizunote	firefighting water
+j	みずのと	mizunoto	十干の第10「癸」の和称。
+j	みずのとう	mizunoto	十干十二支の40番目。きぼう。
+j	みずはけ	mizuhake	水（水分）が流れていく具合。排水。
+j	みずはね	mizuhane	水の流れを制御するために、河川や海岸に設置された工…
+j	みずばら	mizubara	過度に水を飲んだ時の腹の具合。
+j	みずひき	mizuhiki	水引: decorative cord made …
+j	みずぶき	mizubuki	「鬼蓮」の異称。
+j	みずぶろ	mizuburo	浴槽に湯ではなく水を張った風呂。
+j	みずぼり	mizubori	水を張った堀割。
+j	みずもれ	mizumore	配管などから水が漏れること。
+j	みずやま	mizuyama	水山, 端山: a surname
+j	みずやり	mizuyari	栽培している植物に水を与えること。
+j	みせかけ	misekake	「みせかける」の連用形。
+j	みせさき	misesaki	店の前面。
+j	みせもの	misemono	act; show
+j	みそかす	misokasu	miso dregs
+j	みぞおち	mizoochi	肋骨の正面中央下部の窪み。
+j	みたてる	mitateru	物を見て選定する。
+j	みたまや	mitamaya	故人の御霊をまつる建物。霊屋
+j	みだらな	midarana	
+j	みだれる	midareru	ばらばらになる
+j	みちいと	michiito	つりざおの先から鉤素をつなぐところまでの糸。
+j	みちおみ	michiomi	道臣: a male given name
+j	みちじゅん	michijun	道順: itinerary, route
+j	みっちり	mitchiri	to the fullest; seriously
+j	みつあき	mitsuaki	光昭: a male given name
+j	みつあみ	mitsuami	plait, braid
+j	みてくれ	mitekure	外見。外観。上辺。
+j	みてとる	mitetoru	見破る。認める。
+j	みとめる	mitomeru	そこにあることを見て知る。
+j	みとれる	mitoreru	to be captivated and unab…
+j	みどころ	midokoro	part to see especially; h…
+j	みどりご	midorigo	嬰児, 緑児: a newborn, an inf…
+j	みなおし	minaoshi	「みなおす」の連用形。
+j	みなかみ	minakami	川上。上流。
+j	みなぎる	minagiru	水がいっぱいになる。水流の勢いが盛んである。
+j	みなさま	minasama	その場にいるすべての人。関係するすべての人。また大…
+j	みなそこ	minasoko	海・川・湖沼などの底。水の底。
+j	みなづき	minazuki	（古語・雅語）六月。夏の季語。
+j	みなみな	minamina	「皆」を重ねて強調した語。みんな。
+j	みなもと	minamoto	川の水の流れ出る所。
+j	みなれる	minareru	何度も見ていてよく知っている。
+j	みねうち	mineuchi	刀剣の背の部分で打ちつけること。一般に相手致命傷を…
+j	みねぐも	minegumo	積乱雲の別称。くものみね。ねぐも。雲峰。
+j	みのがす	minogasu	to overlook by accident (…
+j	みのたけ	minotake	stature; height
+j	みのほど	minohodo	自分の身分・能力などの程度。
+j	みはらす	miharasu	広く遠くまで見渡す。
+j	みひらき	mihiraki	書物を開いた時の向かい合った左右の面。
+j	みふうずら	mifuzura	チドリ目ミフウズラ科に属する鳥の総称。学名:Tur…
+j	みまもる	mimamoru	無事であるように注意して見る。
+j	みまわす	mimawasu	回りをぐるっと見る。
+j	みまわり	mimawari	「みまわる」の連用形。
+j	みまわる	mimawaru	見物や監視などのために回って歩く。
+j	みみいし	mimiishi	石段の左右に置かれる石。
+j	みみうち	mimiuchi	相手の耳に口を近付けて囁くこと。
+j	みみかき	mimikaki	耳の穴から耳垢を掻き出す行為。またそのための道具。
+j	みみきり	mimikiri	人間の耳を切る行為。
+j	みみくそ	mimikuso	耳にたまる垢。耳垢。
+j	みみずく	mimizuku	フクロウ科のうち羽角がある種の総称。
+j	みみたぶ	mimitabu	耳の下に垂れ下がるやわらかい肉。
+j	みみたぼ	mimitabo	耳朶: earlobe
+j	みみだれ	mimidare	耳の穴から分泌物が出る症状。耳漏。
+j	みみなり	miminari	周りで音がしなくても、自分には音が鳴っているように…
+j	みみもと	mimimoto	near the ear
+j	みやかわ	miyakawa	宮川: a surname
+j	みやでら	miyadera	神仏習合により神社に付属して建立された寺院。神宮寺。
+j	みやぶる	miyaburu	秘密・計略などを見抜く。
+j	みるみる	mirumiru	quickly before one's eyes…
+j	みわける	miwakeru	to distinguish; to tell a…
+j	みわたす	miwatasu	遠くの方まで見る。
+j	ミコアイサ	mikoaisa	カモ目カモ科アイサ属に属する水鳥の一種。学名:Me…
+j	ミシガン	mishigan	Michigan (a state of the …
+j	ミシン目	mishinme	perforation (hole)
+j	ミジウィズ	mijiwizu	mijwiz
+j	ミジュウィズ	mijuwizu	
+j	ミステリー	misuteri	mystery (something secret…
+j	ミステーク	misuteku	間違い。誤り。ミス。
+j	ミスリル	misuriru	
+j	ミスリード	misurido	誤解させること。
+j	ミズグモ	mizugumo	「水蜘蛛」の学術的表記。
+j	ミソジニー	misojini	misogyny
+j	ミゾラム	mizoramu	
+j	ミニゲーム	minigemu	
+j	ミニスカ	minisuka	ミニスカート。
+j	ミニスター	minisuta	大臣。
+j	ミニチュア	minichua	実物を縮小した模型。
+j	ミニパト	minipato	mini patrol car
+j	ミニマム	minimamu	最小、最低限，最小限。
+j	ミニ豚	minibuta	minipig
+j	ミネソタ	minesota	Minnesota (a state in the…
+j	ミネラル	mineraru	mineral
+j	ミネルウァ	mineruwa	Minerva
+j	ミネルバ	mineruba	Minerva, the ancient Roma…
+j	ミネルヴァ	mineruva	
+j	ミヒャエル	mihyaeru	
+j	ミフウズラ	mifuzura	チドリ目ミフウズラ科ミフウズラ属に属する鳥の一種。…
+j	ミフラーブ	mifurabu	モスク内で礼拝の方向を示す設備。
+j	ミミズク	mimizuku	カメムシ目ミミズク科ミミズク属のカメムシの一種。学…
+j	ミラクル	mirakuru	miracle
+j	ミラトレ	miratore	
+j	ミラノの	miranono	
+j	ミラーボール	miraboru	disco ball, mirrorball
+j	ミラー効果	mirakoka	利得Aの反転増幅器の入出力間に静電容量Cの帰還容量…
+j	ミリオネア	mirionea	millionaire
+j	ミリツィア	miritsia	
+j	ミリバール	miribaru	millibar
+j	ミリ豚	miributa	熱狂的、狂信的な軍事好きのおたく。
+j	ミルウォーキー	miruwoki	Milwaukee (a city in Wisc…
+j	ミルクティー	mirukuti	milk tea
+j	ミルフィーユ	mirufiyu	mille-feuille, vanilla sl…
+j	ミンスパイ	minsupai	
+j	ミン南語	minnango	
+j	ミートアップ	mitoappu	共通の興味やテーマを持つ人々が一つの場所に集まるこ…
+j	ミートソース	mitososu	挽き肉にトマトピューレ、玉葱などを加えて煮込んだソ…
+j	ミートボール	mitoboru	a meatball
+j	ミートローフ	mitorofu	
+j	ミーム学	mimugaku	memetics
+j	ミーム汚染	mimuosen	言葉や画像などの情報に対する認識が、ミームの影響に…
+j	ミーヴァトン	mivuaton	
+j	三つ目	mittsume	
+j	三つ編み	mitsuami	
+j	三千秋	michiaki	a male given name
+j	三日月	mikazuki	a crescent moon on the th…
+j	三毛猫	mikeneko	a calico cat
+j	三毛貓	mikeneko	
+j	乱れる	midareru	to be confused, to be dis…
+j	乱れ刃	midareba	a curved temper line on a…
+j	倫明	michiaki	a male given name
+j	光岡	mitsuoka	a surname
+j	光昭	mitsuaki	a male given name
+j	南に	minamini	
+j	南の	minamino	
+j	南田	minamida	a surname
+j	南野	minamino	a surname
+j	右側	migigawa	right-hand side
+j	右利き	migikiki	right-handedness
+j	右手法	migiteho	迷路で右手側の壁を辿っていくことでゴールに辿り着く…
+j	味方の	mikatano	
+j	宮人	miyabito	noble courtier
+j	宮原	miyahara	a surname
+j	宮坂	miyasaka	a surname
+j	宮寺	miyadera	a surname
+j	宮山	miyayama	a surname
+j	宮島	miyajima	a surname
+j	宮崎	miyazaki	Miyazaki (the capital cit…
+j	宮川	miyakawa	a surname
+j	宮本	miyamoto	a surname
+j	宮村	miyamura	a surname
+j	宮森	miyamori	a surname
+j	宮武	miyatake	a surname
+j	宮沢	miyazawa	a surname
+j	宮澤	miyazawa	a surname
+j	宮脇	miyawaki	a surname
+j	宮里	miyazato	a surname
+j	宮﨑	miyazaki	a surname
+j	密売	mitsubai	illicit sale
+j	密接	missetsu	being physically close to…
+j	密林	mitsurin	a dense thicket; a jungle
+j	密漁	mitsuryo	獲ることが禁止されている魚介を密かに獲ること。
+j	密猟	mitsuryo	poaching
+j	密着	mitchaku	close contact
+j	密竹	mitchiku	密生している竹。翠竹。
+j	密航者	mikkosha	
+j	密談	mitsudan	内密な相談。
+j	密閉の	mippeino	
+j	峯本	minemoto	a surname
+j	幹典	mikinori	a male given name
+j	惨めさ	mijimesa	
+j	惨めな	mijimena	
+j	明末	minmatsu	中国の明の時代の末期。
+j	木兎	mimizuku	
+j	木菟	mimizuku	a horned owl
+j	未体験	mitaiken	unexperienced; something …
+j	未信者	mishinja	unbeliever; nonbeliever
+j	未処分	mishobun	unsettled; unfinished; un…
+j	未婚者	mikonsha	未婚の人。独身者。
+j	未完了	mikanryo	
+j	未完成	mikansei	incompletion, unfinishedn…
+j	未成年	miseinen	a minor (someone under ei…
+j	未成線	miseisen	まだ完成していない路線。
+j	未承認	mishonin	まだ承認していないこと。また、そのさま。
+j	未来人	miraijin	time traveller
+j	未来形	miraikei	動詞や助動詞の活用形のひとつで、未来時制において用…
+j	未来視	miraishi	未来にある物を現在そこにあるかのように見ることので…
+j	未然形	mizenkei	a Japanese verbal inflect…
+j	未熟さ	mijukusa	
+j	未熟な	mijukuna	
+j	未発表	mihappyo	まだおおやけに発表していないこと。
+j	未登録	mitoroku	まだ登録していないこと。また、そのさま。
+j	未経験	mikeiken	まだ経験したことがないこと。また、そのようなさま。
+j	未開人	mikaijin	barbarian
+j	民主党	minshuto	the Democratic Party
+j	民主化	minshuka	democratization
+j	民宿	minshuku	a private home with lodgi…
+j	民法典	minpoten	civil code
+j	民部卿	minbukyo	the Minister of Popular A…
+j	民部省	minbusho	the Ministry of Popular A…
+j	水っぽい	mizuppoi	
+j	水俣	minamata	Minamata (a city in Kumam…
+j	水内	mizuuchi	a surname
+j	水切り	mizukiri	drainer, strainer
+j	水割り	mizuwari	dilution of whiskey, shoc…
+j	水原	mizuhara	a surname
+j	水山	mizuyama	a surname
+j	水底	mizusoko	the bottom or bed of a bo…
+j	水引	mizuhiki	decorative Japanese cord …
+j	水影	mizukage	a reflection on water
+j	水掻き	mizukaki	swimfin, paddle (flat lim…
+j	水本	mizumoto	a surname
+j	水杉	mizusugi	Lycopodiella cernuum
+j	水永	mizunaga	a surname
+j	水沢	mizusawa	a surname
+j	水洗い	mizuarai	washing with water
+j	水無月	minazuki	the sixth month of the lu…
+j	水玉	mizutama	a water droplet, such as …
+j	水瓶	mizugame	water jug
+j	水疱瘡	mizuboso	a contagious illness caus…
+j	水落	mizuochi	a surname
+j	水蜘蛛	mizugumo	a water spider, Argyronet…
+j	水谷	mizutani	a surname
+j	水風呂	mizuburo	room temperature / cold b…
+j	水鳥	mizutori	waterfowl
+j	淫らな	midarana	
+j	湊谷	minatoya	a surname
+j	源	minamoto	a fountainhead (source of…
+j	源本	minamoto	a surname
+j	溝上	mizonoue	Mizonoue (a neighborhood …
+j	漲る	minagiru	swell up, overflow, perva…
+j	皆さま	minasama	everybody, everyone
+j	皆川	minagawa	a surname
+j	皆様	minasama	
+j	簑原	minohara	a surname
+j	緑の	midorino	
+j	美作	mimasaka	Mimasaka (a city in Okaya…
+j	美濃紙	minogami	Mino washi, a type of was…
+j	耳コピ	mimikopi	replication of a piece of…
+j	耳コピー	mimikopi	
+j	耳切り	mimikiri	the practice of cutting o…
+j	耳垂れ	mimidare	ear discharge
+j	耳屎	mimikuso	
+j	耳打ち	mimiuchi	whispering into someone's…
+j	耳掻き	mimikaki	earpick
+j	耳木兎	mimizuku	
+j	耳木菟	mimizuku	
+j	耳糞	mimikuso	earwax
+j	耳蝉	mimizuku	an eared leaf-hopper (Led…
+j	耳鳴り	miminari	tinnitus
+j	自ら	mizukara	personally, by or for one…
+j	蓑笠	minokasa	straw raincoat and bamboo…
+j	蓑鳩	minobato	
+j	蜜吸	mitsusui	
+j	蜜柑色	mikaniro	
+j	蜜腺	mitsusen	被子植物で花蜜を分泌する器官。花にあるものと花以外…
+j	見せ掛け	misekake	
+j	見てみる	mitemiru	
+j	見下げる	misageru	look down on, regard with…
+j	見下す	mikudasu	to look down on, to scorn…
+j	見事な	migotona	
+j	見取り図	mitorizu	map
+j	見取図	mitorizu	地形・建物・配置などの大体の様子を分かりやすく描い…
+j	見回す	mimawasu	to look around, to survey…
+j	見始め	mihajime	the first sight of someth…
+j	見守る	mimamoru	to look after
+j	見廻す	mimawasu	
+j	見慣れる	minareru	to grow accustomed to (a …
+j	見捨てる	misuteru	to abandon, to desert
+j	見掛ける	mikakeru	to come across, to notice…
+j	見栄っ張り	mieppari	ostentatious, vain
+j	見栄をはる	mieoharu	
+j	見渡す	miwatasu	to look off into the dist…
+j	見破る	miyaburu	to see through (a plot, a…
+j	見舞い金	mimaikin	solatium, condolence money
+j	見覚える	mioboeru	to remember, to recognize…
+j	見返し	mikaeshi	
+j	見逃す	minogasu	
+j	見透かす	misukasu	see through; have an insi…
+j	見開き	mihiraki	double-page spread
+j	見開く	mihiraku	become wide-eyed, open on…
+j	見限る	mikagiru	to give up on; to turn on…
+j	角鴟	mimizuku	
+j	認める	mitomeru	to accept, admit, to appr…
+j	認印	mitomein	実印以外に個人で所持している印。
+j	路晃	michiaki	a male given name
+j	身になる	mininaru	to do one good; to be ben…
+j	身の程	minohodo	one's social position
+j	身を起こす	miookosu	be successful in life, bu…
+j	身代わり	migawari	substitution (for someone…
+j	身分相応	mibunsoo	appropriate to one's lot …
+j	身分証	mibunsho	身分証明書。
+j	身支度	mijitaku	何かをするために、身なりを整えること。
+j	身罷る	mimakaru	to die, to pass away
+j	通哲	michiaki	a male given name
+j	道枝	michieda	a surname
+j	道章	michiaki	a male given name
+j	道臣	michiomi	a male given name
+j	道順	michijun	route, itinerary
+j	達彬	michiaki	a male given name
+j	陵	misasagi	imperial tomb
+j	鳩尾	mizoochi	the pit of the stomach, s…
+j	鴟鵂	mimizuku	
+j	鵂	mimizuku	
+j	鵩	mimizuku	
+j	鶹	mimizuku	
+k	미강유	migangyu	rice bran oil
+k	미개국	migaeguk	
+k	미개발	migaebal	
+k	미국오리	migugori	The American black duck, …
+k	미국화	migukhwa	Americanization
+k	미기상	migisang	지표면에서 지상 1.5 m 정도의 기층에서 일…
+k	미끌이	mikkeuri	
+k	미끼샤	mikkisya	blender (machine)
+k	미너렛	mineoret	모스크 주위에 세우는 네 개의 탑.
+k	미네소타	minesota	[~주(州)] Minnesota (a stat…
+k	미니게임	minigeim	
+k	미니맵	minimaep	minimap
+k	미니밴	minibaen	minivan
+k	미덥다	mideopda	trustworthy, reliable
+k	미래학	miraehak	futurology
+k	미루나무	mirunamu	(학명: Populus nigra) 버드나뭇과…
+k	미리 보다	miriboda	
+k	미리보기	miribogi	preview (something seen i…
+k	미망인	mimangin	고인의 아내.
+k	미명	mimyeong	날이 아직 밝기 전.
+k	미문체	mimunche	
+k	미미하다	mimihada	slight, insignificant
+k	미바튼	mibateun	
+k	미발표	mibalpyo	
+k	미분몫	mibunmok	differential quotient
+k	미분학	mibunhak	differential calculus
+k	미분화	mibunhwa	
+k	미비점	mibijeom	imperfection, defect, def…
+k	미비하다	mibihada	imperfect, inadequate, in…
+k	미쁘다	mippeuda	
+k	미섭다	miseopda	
+k	미세하다	misehada	분간하기 어려울 정도로 아주 작다.
+k	미소녀	misonyeo	a beautiful young girl, u…
+k	미소하다	misohada	to smile
+k	미수금	misugeum	
+k	미수범	misubeom	
+k	미술계	misulgye	미술가들이 활동하는 범위.
+k	미술품	misulpum	artwork, work of art, pie…
+k	미스릴	miseuril	
+k	미스터	miseuteo	Mr, mister (title)
+k	미시건	misigeon	[~주(州)] alternative form …
+k	미시사가	misisaga	[~시(市)] Mississauga (a ci…
+k	미시소가	misisoga	[~시(市)] alternative form …
+k	미시시피	misisipi	[~주(州)] Mississippi (a st…
+k	미시적	misijeok	
+k	미싱기	misinggi	재봉틀
+k	미아배기	miabaegi	
+k	미안하다	mianhada	to be ashamed of oneself
+k	미야자키	miyajaki	
+k	미야코어	miyakoeo	오키나와 현에 속한 미야코 섬에서 1만5천명이…
+k	미어지다	mieojida	to be torn accidentally
+k	미어캣	mieokaet	meerkat
+k	미온적	mionjeok	
+k	미온하다	mionhada	아직 평온하지 않다.
+k	미용사	miyongsa	beautician (one who does …
+k	미욱하다	miukhada	
+k	미워하다	miwohada	to hate, to dislike
+k	미융모	miyungmo	microvillus
+k	미음솥	mieumsot	미음을 끓이는 솥.
+k	미인점	miinjeom	
+k	미쟁이	mijaengi	
+k	미저골	mijeogol	‘꼬리뼈’를 달리 이르는 말.
+k	미주리 주	mijuriju	
+k	미지급	mijigeup	
+k	미추골	michugol	'꼬리뼈'의 한자어.
+k	미추홀	michuhol	[~구] Michuhol (a district…
+k	미크론	mikeuron	
+k	미타미타	mitamita	
+k	미트볼	miteubol	meatball
+k	미화원	mihwawon	
+k	미확인	mihwagin	that which is not confirm…
+k	민간기	mingangi	civilian plane
+k	민간의	minganui	
+k	민간인	minganin	civilian (non-military pe…
+k	민난어	minnaneo	
+k	민남어	minnameo	
+k	민력	millyeok	백성의 노력이나 재력.
+k	민렴	millyeom	
+k	민멸	minmyeol	
+k	민물게	minmulge	river crab
+k	민북어	minbugeo	
+k	민생	minsaeng	일반 국민의 생활 및 생계.
+k	민서기	minseogi	mincer
+k	민성	minseong	국민의 소리라는 뜻으로, 사회 여론을 이르는 …
+k	민소매	minsomae	sleeveless garment
+k	민속악	minsogak	
+k	민속주	minsokju	
+k	민영	minyeong	private management
+k	민요곡	minyogok	
+k	민유림	minyurim	
+k	민의원	minuiwon	
+k	민정	minjeong	백성들의 사정과 생활 형편.
+k	민족사	minjoksa	
+k	민족시	minjoksi	
+k	민족애	minjogae	
+k	민주화	minjuhwa	democratization
+k	민천	mincheon	
+k	민첩	mincheop	
+k	민충	minchung	
+k	밀갈기	milgalgi	'밀가루'의 강원도 사투리.
+k	밀겋다	milgeota	
+k	밀국수	milguksu	밀을 이용해서 만든 국수.
+k	밀나물	milnamul	
+k	밀도계	mildogye	
+k	밀도살	mildosal	
+k	밀렵	millyeop	poaching
+k	밀리초	millicho	
+k	밀매자	milmaeja	
+k	밀수단	milsudan	
+k	밀영	miryeong	
+k	밀입국	miripguk	
+k	밀자개	miljagae	The light bullhead, Pelte…
+k	밀정	miljeong	spy, secret agent
+k	밀직사	miljiksa	
+k	밀치다	milchida	to push roughly; to shove…
+k	밀크티	milkeuti	우유를 넣은 홍차를 가르키는 말.
+k	밀푀유	milpoeyu	
+k	밀행	milhaeng	
+k	밑면	minmyeon	
+k	밑바닥	mitbadak	
+k	밑변	mitbyeon	
+k	밑천	mitcheon	
+e	michiyuki	michiyuki	1 meaning
+e	microbead	microbead	1 meaning
+e	microblog	microblog	1 meaning
+e	microchip	microchip	1 meaning
+e	microcosm	microcosm	4 meanings
+e	microglia	microglia	1 meaning
+e	microgram	microgram	1 meaning
+e	microlith	microlith	1 meaning
+e	microsoft	microsoft	1 meaning
+e	microwave	microwave	2 meanings
+e	middle age	middleage	1 meaning
+e	middle ear	middleear	1 meaning
+e	midnapore	midnapore	1 meaning
+e	midsummer	midsummer	1 meaning
+e	midwifery	midwifery	1 meaning
+e	midwinter	midwinter	1 meaning
+e	migration	migration	3 meanings
+e	milestone	milestone	2 meanings
+e	milk churn	milkchurn	1 meaning
+e	milk snake	milksnake	1 meaning
+e	milk tooth	milktooth	1 meaning
+e	milk-white	milkwhite	1 meaning
+e	milkcrate	milkcrate	1 meaning
+e	milkshake	milkshake	1 meaning
+e	milligram	milligram	1 meaning
+e	millipede	millipede	1 meaning
+e	millstone	millstone	1 meaning
+e	mincemeat	mincemeat	1 meaning
+e	minecraft	minecraft	1 meaning
+e	minefield	minefield	1 meaning
+e	minelayer	minelayer	1 meaning
+e	miniature	miniature	1 meaning
+e	miniskirt	miniskirt	1 meaning
+e	minnesota	minnesota	1 meaning
+e	minor axis	minoraxis	1 meaning
+e	mint sauce	mintsauce	1 meaning
+e	minus sign	minussign	1 meaning
+e	minuscule	minuscule	2 meanings
+e	miombo tit	miombotit	1 meaning
+e	miramichi	miramichi	1 meaning
+e	mirandese	mirandese	1 meaning
+e	miserable	miserable	2 meanings
+e	misopedia	misopedia	1 meaning
+e	mistletoe	mistletoe	1 meaning
+e	mixed nuts	mixednuts	1 meaning
+e	mixed-race	mixedrace	1 meaning
+j	みあやまる	miayamaru	見方を誤る。見間違う。見損なう。
+j	みあわせる	miawaseru	to cancel in light of cir…
+j	みうしなう	miushinau	今まで見えていたものの行き先などが分からなくなる。
+j	みえかくれ	miekakure	見えたり見えなくなったりすること。
+j	みえがくれ	miegakure	見えたり見えなくなったりすること。
+j	みがまえる	migamaeru	危機や攻撃に対応したり次の行動に移ったりするための…
+j	みぎした	migishita	右下: lower right
+j	みぎはらい	migiharai	漢字の筆画の一つ。左から右への払い。
+j	みしはせ	mishihase	
+j	みしらぬ	mishiranu	見たことも会ったこともなくて知らない。面識がない。
+j	みじかうた	mijikauta	基本的に五音、七音、五音、七音、七音の五句からなる…
+j	みじん切り	mijingiri	chopping into small piece…
+j	みずあそび	mizuasobi	海辺、河川、湖沼、プールなどで水に入って遊ぶこと。
+j	みずあたり	mizuatari	生水を飲んで下痢をすること。
+j	みずいらず	mizuirazu	水入らず: just among the imme…
+j	みずくさい	mizukusai	よそよそしい。
+j	みずくち	mizukuchi	水の出入口。みなくち。
+j	みずぐち	mizuguchi	水の出入口。みなくち。
+j	みずさし	mizusashi	水などをある程度入れておき、花瓶やコップ、グラスな…
+j	みずしま	mizushima	水嶋: a surname
+j	みずしめ	mizushime	台所で水仕事をする下女。みずし。みずしおんな。
+j	みずつき	mizutsuki	馬具の一種で馬の手綱の両端を結びつける轡の引き手。…
+j	みずつぼ	mizutsubo	水壺。水甕。
+j	みずどけい	mizudokei	水時計: water clock
+j	みずのえね	mizunoene	十干十二支の49番目。じんし。
+j	みずのとい	mizunotoi	十干十二支の60番目。十干十二支の最後。きがい。
+j	みずまし	mizumashi	河川などの水量が増えること。増水。
+j	みずみち	mizumichi	水が通る筋。水脈。
+j	みずむし	mizumushi	足白癬の俗称。
+j	みせけち	misekechi	写本の際、または写本そのものに、誤字や消したい字が…
+j	みせしめ	miseshime	懲罰に際し、本人や周囲の人に同様の罪を犯させないよ…
+j	みせじまい	misejimai	商売をやめること。廃業すること。
+j	みそこなう	misokonau	to see wrong
+j	みそさざい	misosazai	スズメ目ミソサザイ科ミソサザイ属に属する鳥の一種。…
+j	みそしる	misoshiru	だしに野菜や魚介類などの具を加え、煮て、味噌で調味…
+j	みそっかす	misokkasu	miso dregs
+j	みたらし	mitarashi	神社などで参拝前に手や口を洗い清める場所。手水舎。
+j	みちかけ	michikake	月が満ちることと欠けること。盈虧。
+j	みちかた	michikata	道路の端に位置する地帯。ろかた。
+j	みちくさ	michikusa	道端に生えている草。
+j	みちしお	michishio	潮が満ちて海面が上昇すること。満潮。高潮。上げ潮。…
+j	みちすじ	michisuji	通っていく道。
+j	みちたか	michitaka	道隆: a male given name
+j	みちたけ	michitake	三千丈: a male given name
+j	みちづれ	michizure	taking something/someone …
+j	みちなか	michinaka	目的地への経路の途中。
+j	みちのく	michinoku	陸奥国（陸前、陸中、陸奥、岩代、磐城）の古称。
+j	みちのり	michinori	ある所に行き着くまでの距離。
+j	みちはば	michihaba	width of the road
+j	みちばた	michibata	roadside
+j	みちひき	michihiki	満潮と干潮。満潮になったり干潮になったりすること。…
+j	みちひこ	michihiko	道彦: a male given name
+j	みちひさ	michihisa	道久: a male given name
+j	みちびき	michibiki	導くこと。誘導。指導。
+j	みちびく	michibiku	目的の場所に連れて行く。案内する。
+j	みつあし	mitsuashi	足が三本あること。また、そのようなもの。
+j	みつかる	mitsukaru	（こっそりしたことなどが）人の目にとまる。発見され…
+j	みつける	mitsukeru	求めている物を捜し出す。
+j	みつじろう	mitsujiro	光次郎: a male given name
+j	みつたか	mitsutaka	光尊: a male given name
+j	みつのぶ	mitsunobu	光信: a male given name
+j	みつのり	mitsunori	光則, 光教: a male given name
+j	みつひこ	mitsuhiko	光彦: a male given name
+j	みつひさ	mitsuhisa	満寿: a male given name
+j	みつひろ	mitsuhiro	光浩, 光宏, 充宏, 充広, 光広, 充弘, 光…
+j	みつまさ	mitsumasa	光正: a male given name
+j	みつまた	mitsumata	三叉: a three-way fork
+j	みつめる	mitsumeru	あるものをじっと見る。
+j	みつもり	mitsumori	金額・量・期間等を前もって概算すること。
+j	みつもる	mitsumoru	予め大体の計算をして見当を付ける。
+j	みつやす	mitsuyasu	光泰: a male given name
+j	みつゆき	mitsuyuki	充志: a male given name
+j	みどりいろ	midoriiro	みどり。
+j	みなくち	minakuchi	川から田へ水を引き入れる口。みずぐち。
+j	みなぐち	minaguchi	河川から田んぼへ用水を引き入れる口。
+j	みなしご	minashigo	両親を失った子供。
+j	みのしろ	minoshiro	家財。財産。
+j	みのつき	minotsuki	陰暦四月の異称。
+j	みのむし	minomushi	ミノガ科に属する蛾の幼虫。特に大蓑蛾の幼虫を指す。…
+j	みはからう	mihakarau	見て適当なものを選ぶ。判断する。
+j	みはらし	miharashi	広く遠くまで見渡すこと。眺め。
+j	みみっちい	mimitchii	情けなく感じられるほどけちくさい。
+j	みやこおち	miyakochi	京都から追われるように逃げること。
+j	みやまいり	miyamairi	神社を参詣すること。
+j	ミエリン鞘	mierinsho	myelin sheath
+j	ミサンドリー	misandori	misandry
+j	ミザンセーヌ	mizansenu	
+j	ミスタイプ	misutaipu	
+j	ミスダンディ	misudandi	trans man
+j	ミステイク	misuteiku	「ミステーク」の表記ゆれ。
+j	ミズンスル	mizunsuru	一番後ろのミズンマストに張る縦帆で、他の2枚の縦帆…
+j	ミズーリ川	mizurigaw	
+j	ミズーリ州	mizurishu	the full form of ミズーリ (“M…
+j	ミソサザイ	misosazai	
+j	ミッドウェー島	middoweto	Midway Islands
+j	ミッドターム	middotamu	中間試験。
+j	ミッドリフ	middorifu	the midriff
+j	ミツマタ	mitsumata	フトモモ目ジンチョウゲ科ミツマタ属に属する落葉低木…
+j	ミドルエージ	midorueji	「ミドルエイジ」の表記ゆれ。
+j	ミドルティーン	midorutin	(和製英語) 15歳から17歳の人。
+j	ミナレット	minaretto	
+j	ミニバイク	minibaiku	小型の自動二輪車、原動機付自転車。
+j	ミニマップ	minimappu	A simple map connecting a…
+j	ミニュエット	minyuetto	
+j	ミニーマウス	minimausu	Minnie Mouse
+j	ミラノ人	miranojin	
+j	ミラミチ	miramichi	
+j	ミランダ語	mirandago	
+j	ミルク缶	mirukukan	
+j	ミレニアム	mireniamu	millennium
+j	ミレニアル	mireniaru	millennial
+j	ミントソース	mintososu	
+j	ミーアキャット	miakyatto	a meerkat
+j	三つ組	mitsugumi	
+j	三ツ俣	mitsumata	a surname
+j	三千丈	michitake	a male given name
+j	三叉	mitsumata	a three-way fork, such as…
+j	三日坊主	mikkabozu	someone who cannot stick …
+j	三椏	mitsumata	mitsumata, Edgeworthia ch…
+j	三角草	misumisou	キンポウゲ目ミスミソウ属に属する植物の一種。学名:…
+j	充宏	mitsuhiro	a male given name
+j	充広	mitsuhiro	a male given name
+j	充弘	mitsuhiro	a male given name
+j	充志	mitsuyuki	a male given name
+j	光久	mitsuhisa	a male given name
+j	光保	mitsuyasu	a male given name
+j	光信	mitsunobu	a male given name
+j	光則	mitsunori	a male given name
+j	光博	mitsuhiro	a male given name
+j	光原	mitsuhara	a surname
+j	光圀	mitsukuni	a surname
+j	光宏	mitsuhiro	a male given name
+j	光尊	mitsutaka	a male given name
+j	光山	mitsuyama	a surname
+j	光広	mitsuhiro	a male given name
+j	光弘	mitsuhiro	a male given name
+j	光彦	mitsuhiko	a male given name
+j	光教	mitsunori	a male given name
+j	光次郎	mitsujiro	a male given name
+j	光正	mitsumasa	a male given name
+j	光泰	mitsuyasu	a male given name
+j	光浩	mitsuhiro	a male given name
+j	光貴	mitsutaka	a male given name
+j	右下	migishita	bottom right, lower right
+j	右揃え	migisoroe	right alignment
+j	味噌汁	misoshiru	miso soup: a soup, based …
+j	壬子	mizunoene	Water Rat, the forty-nint…
+j	実を結ぶ	miomusubu	to bear fruit
+j	宮下	miyashita	a surname
+j	宮仕え	miyazukae	court service
+j	宮城県	miyagiken	a prefecture in 東北 (Tōhok…
+j	宮女	miyaomina	a woman attendant in the …
+j	宮西	miyanishi	a surname
+j	宮越	miyakoshi	a surname
+j	密室	misshitsu	hidden room; secret chamb…
+j	密封する	mippusuru	to seal, to be sealed up.
+j	密約	mitsuyaku	a secret agreement
+j	密閉する	mippesuru	
+j	密陀僧	mitsudaso	litharge, lead monoxide
+j	導く	michibiku	to guide, to conduct
+j	導宏	michihiro	a male given name
+j	岬馬	misakiuma	Misaki; a type of horse n…
+j	峯岸	minegishi	a surname
+j	巳己巳己	mikoshiki	よく似ているもののたとえ。参考：鈴木勝忠『続雑俳語…
+j	店仕舞い	misejimai	closing up shop (for the …
+j	御子柴	mikoshiba	a surname
+j	御崎馬	misakiuma	Misaki; a type of horse n…
+j	御手洗	mitarashi	purifying water at the en…
+j	明朝体	minchotai	the Ming typographic styl…
+j	未出版	mishuppan	
+j	未成熟	miseijuku	まだ成熟していないこと。また、そのさま。
+j	未払いの	mibaraino	
+j	未来学	miraigaku	futurology
+j	未来永劫	miraieigo	forever, eternity
+j	未確認	mikakunin	that which is not yet ver…
+j	未雨綢繆	miuchubyu	to prepare before it is t…
+j	民事的	minjiteki	
+j	民族の	minzokuno	
+j	民進党	minshinto	Democratic Party (a party…
+j	民間人	minkanjin	civilian (non-military pe…
+j	水の泡	mizunoawa	coming to nothing
+j	水をさす	mizuosasu	to pour water (into); to …
+j	水をやる	mizuoyaru	
+j	水パイプ	mizupaipu	
+j	水入らず	mizuirazu	just among the immediatel…
+j	水口	mizuguchi	an inlet or outlet for wa…
+j	水増し	mizumashi	dilution
+j	水大砲	mizutaiho	
+j	水島	mizushima	a surname
+j	水嶋	mizushima	a surname
+j	水差し	mizusashi	pitcher; jug; ewer
+j	水戸黄門	mitokomon	a nickname for Tokugawa M…
+j	水時計	mizudokei	water clock
+j	水療法	mizuryoho	
+j	水羊羹	mizuyokan	煮て溶かした寒天に砂糖やあずき餡や抹茶などを混ぜて…
+j	水臭い	mizukusai	bland/thin/tasteless, due…
+j	水芭蕉	mizubasho	Asian skunk cabbage, Lysi…
+j	水菓子	mizugashi	fruit
+j	水虫	mizumushi	athlete's foot
+j	水鉄砲	mizudeppo	water gun
+j	水風船	mizufusen	
+j	満ち引き	michihiki	synonym of 干満 (“ebb and f…
+j	満ち潮	michishio	
+j	満寿	mitsuhisa	a male given name
+j	溝口	mizoguchi	a surname
+j	癸亥	mizunotoi	Water Boar, the sixtieth …
+j	癸卯	mizunotou	Water Rabbit, the fortiet…
+j	皆の衆	minanoshu	everyone
+j	箕作	mitsukuri	a winnowing basket maker
+j	緑色	midoriiro	the color green
+j	美智久	michihisa	a male given name
+j	耳を貸す	mimiokasu	to listen to
+j	耳レイプ	mimireipu	ear rape
+j	蓑虫	minomushi	bagworm, larva of moths o…
+j	蜜豆	mitsumame	ゆでた赤豌豆、賽の目状に切った寒天、切った果物など…
+j	見つけた	mitsuketa	
+j	見つける	mitsukeru	
+j	見付かる	mitsukaru	be discovered
+j	見付ける	mitsukeru	to discover, to find
+j	見做しの	minashino	
+j	見出し語	midashigo	headword (of a dictionary)
+j	見失う	miushinau	to lose sight of something
+j	見晴らし	miharashi	view, vista
+j	見本市	mihonichi	trade fair
+j	見殺し	migoroshi	standing by and watching …
+j	見積もり	mitsumori	estimation; quotation
+j	見積もる	mitsumoru	to estimate
+j	見積り	mitsumori	
+j	見詰める	mitsumeru	to stare at
+j	身に余る	miniamaru	to be more than one deser…
+j	身をかわす	miokawasu	
+j	身を伏せる	miofuseru	
+j	身を削る	miokezuru	to go through severe hard…
+j	身を投げる	mionageru	to commit suicide by thro…
+j	身勝手な	migattena	
+j	身構える	migamaeru	stand ready, prepare ones…
+j	身繕い	midukuroi	
+j	通弘	michihiro	a male given name
+j	道のり	michinori	distance to one's destina…
+j	道久	michihisa	a male given name
+j	道典	michinori	a male given name
+j	道大	michihiro	a male given name
+j	道幸	michiyuki	a surname
+j	道彦	michihiko	a male given name
+j	道端	michibata	a surname
+j	道筋	michisuji	itinerary
+j	道草	michikusa	grass on the wayside
+j	道行き	michiyuki	a travel, journey
+j	道裕	michihiro	a male given name
+j	道隆	michitaka	a male given name
+j	魅了する	miryosuru	
+j	鷦鷯	misosazai	wren, Troglodytes troglod…
+k	미 상원	misangwon	
+k	미결수	migyeolsu	
+k	미결안	migyeoran	
+k	미곡상	migoksang	
+k	미국 요리	migukyori	미국의 요리.
+k	미국놈	migungnom	American bastard
+k	미꾸라지	mikkuraji	The Chinese muddy loach, …
+k	미끈히	mikkeunhi	
+k	미나레트	minareteu	'미너렛'의 비규범 표기.
+k	미나크시	minakeusi	
+k	미납하다	minaphada	
+k	미네르바	minereuba	
+k	미니미터	minimiteo	minimeter
+k	미닫이문	midajimun	synonym of 미닫이 (midaji, “…
+k	미달하다	midalhada	
+k	미등기	mideunggi	
+k	미라미치	miramichi	
+k	미란다어	mirandaeo	
+k	미래 시제	miraesije	미래를 나타내는 시제.
+k	미래상	miraesang	
+k	미래시제	miraesije	future tense
+k	미래주의	miraejuui	
+k	미련히	miryeonhi	
+k	미류나무	miryunamu	'미루나무'의 비규범 표기.
+k	미류하다	miryuhada	to last long without reco…
+k	미륵불	mireukbul	
+k	미리견	mirigyeon	synonym of 아메리카 (Amerika)…
+k	미리미터	mirimiteo	'밀리미터'의 비규범 표기.
+k	미묘하다	mimyohada	아름답고 묘하다.
+k	미배당	mibaedang	
+k	미분법	mibunbeop	differential calculus
+k	미사여구	misayeogu	flowery words, flowery la…
+k	미상불	misangbul	아닌 게 아니라 과연.
+k	미성인	miseongin	
+k	미소년	misonyeon	pretty young boy, beautif…
+k	미소짓다	misojitda	to smile
+k	미숙하다	misukhada	열매나 음식이 아직 익지 않은 상태에 있다.
+k	미술관	misulgwan	art museum, art gallery
+k	미술사가	misulsaga	
+k	미숫가루	misutgaru	flour made from steamed a…
+k	미스바하	miseubaha	
+k	미시간호	misiganho	
+k	미시소거	misisogeo	[~시(市)] alternative form …
+k	미싯가루	misitgaru	'미숫가루'의 비규범 표기.
+k	미안해요	mianhaeyo	
+k	미약하다	miyakhada	규모가 매우 작고 강하지 않다.
+k	미얀마의	miyanmaui	
+k	미역국	miyeokguk	miyeok-guk or seaweed sou…
+k	미완하다	miwanhada	‘미완성하다’를 달리 이르는 말.
+k	미용술	miyongsul	얼굴, 머리, 피부 등을 아름답게 매만져 주는…
+k	미용실	miyongsil	beauty parlour, hairdress…
+k	미용원	miyongwon	beauty parlour
+k	미욱스레	miukseure	
+k	미음상	mieumsang	table set with Korean ric…
+k	미장센	mijangsen	
+k	미장원	mijangwon	hairdresser's, barbershop
+k	미적분	mijeokbun	calculus
+k	미조람 주	mijoramju	
+k	미지칭	mijiching	말하는 사람이 모르는 사람이나 사물.
+k	미진하다	mijinhada	아직 다하지 못하다.
+k	미친개	michingae	미치는 병에 걸린 개.
+k	미친놈	michinnom	asshole
+k	미콜라이우	mikollaiu	
+k	미터법	miteobeop	길이와 너비 따위는 미터를, 부피는 리터를, …
+k	미학적	mihakjeok	
+k	미혹하다	mihokhada	to confuse
+k	미화법	mihwabeop	
+k	미화하다	mihwahada	아름답게 꾸미다.
+k	민간약	minganyak	
+k	민감한	mingamhan	
+k	민경	mingyeong	
+k	민델루	mindeullu	
+k	민둥어	mindungeo	
+k	민들레	mindeulle	dandelion (Taraxacum plat…
+k	민방위	minbangwi	
+k	민병	minbyeong	a militia (army of traine…
+k	민사범	minsabeom	
+k	민사법	minsabeop	
+k	민사주의	minsajuui	
+k	민소법	minsobeop	
+k	민소하다	minsohada	
+k	민속학	minsokhak	
+k	민스크	minseukeu	Minsk (the capital city o…
+k	민예하다	minyehada	
+k	민요풍	minyopung	
+k	민울하다	minulhada	
+k	민원실	minwonsil	
+k	민족학	minjokhak	ethnology
+k	민족혼	minjokhon	
+k	민주당	minjudang	
+k	민주적	minjujeok	democratic
+k	민주제도	minjujedo	
+k	민주주의	minjujuui	democracy
+k	민초단	minchodan	people who like mint choc…
+k	믿어지다	mideojida	
+k	밀거래	milgeorae	
+k	밀라노의	millanoui	
+k	밀매매	milmaemae	
+k	밀매음	milmaeeum	
+k	밀매품	milmaepum	
+k	밀무역	milmuyeok	
+k	밀사탕	milsatang	
+k	밀수범	milsubeom	
+k	밀수선	milsuseon	
+k	밀수출	milsuchul	
+k	밀수하다	milsuhada	
+k	밀접히	miljeophi	
+k	밀폐음	milpyeeum	
+k	밀항자	milhangja	
+k	밋구라지	mitguraji	
+k	밑바탕	mitbatang	
+k	밑절미	mitjeolmi	
+e	microdrama	microdrama	1 meaning
+e	micrometer	micrometer	2 meanings
+e	micronesia	micronesia	1 meaning
+e	micropenis	micropenis	1 meaning
+e	microphone	microphone	1 meaning
+e	microraion	microraion	1 meaning
+e	microscope	microscope	1 meaning
+e	microstate	microstate	1 meaning
+e	middle ages	middleages	1 meaning
+e	middle east	middleeast	1 meaning
+e	middle name	middlename	1 meaning
+e	middle-aged	middleaged	1 meaning
+e	middlegame	middlegame	1 meaning
+e	midfielder	midfielder	1 meaning
+e	midi-pyrénées	midipyrnes	1 meaning
+e	mignonette	mignonette	1 meaning
+e	militarism	militarism	1 meaning
+e	militarist	militarist	1 meaning
+e	militarize	militarize	2 meanings
+e	milk bottle	milkbottle	1 meaning
+e	milk powder	milkpowder	1 meaning
+e	millennial	millennial	1 meaning
+e	millennium	millennium	3 meanings
+e	millilitre	millilitre	1 meaning
+e	millimetre	millimetre	1 meaning
+e	mimeograph	mimeograph	1 meaning
+e	mineral oil	mineraloil	1 meaning
+e	mineralogy	mineralogy	1 meaning
+e	minestrone	minestrone	1 meaning
+e	minimalist	minimalist	1 meaning
+e	miniseries	miniseries	1 meaning
+e	minke whale	minkewhale	1 meaning
+e	minor third	minorthird	1 meaning
+e	minute hand	minutehand	1 meaning
+e	mise en scène	miseenscne	1 meaning
+e	misfortune	misfortune	1 meaning
+e	misleading	misleading	1 meaning
+e	misogynist	misogynist	1 meaning
+e	missed call	missedcall	1 meaning
+e	missiology	missiology	1 meaning
+e	missionary	missionary	1 meaning
+e	mistakable	mistakable	1 meaning
+e	mistakenly	mistakenly	1 meaning
+j	みかいはつ	mikaihatsu	未開発: undeveloped
+j	みかげいし	mikageishi	花崗岩の通称。黒っぽいもの、白っぽいもの、赤みがか…
+j	みきわめる	mikiwameru	最後まで見届ける
+j	みぎひだり	migihidari	右と左。「みぎひだりを見て横断する」
+j	みぎびらき	migibiraki	蓋や扉などを右側へ移動させてひらく構造。
+j	みぎまわり	migimawari	時計の針が進む方向（右方向）に回る（回転する）こと…
+j	みぐるしい	migurushii	見るに堪えない。
+j	みことのり	mikotonori	天皇のおっしゃること。また、その御言葉。
+j	みごしらえ	migoshirae	dress
+j	みさだめる	misadameru	見てはっきり決める。見極める。
+j	みずかがみ	mizukagami	水面に周囲の影が写って見えること。
+j	みずがめ座	mizugameza	星座のひとつ。水瓶にちなむ。
+j	みずぐすり	mizugusuri	薬剤を液体に溶かしたもの。また、その飲み薬。
+j	みずけむり	mizukemuri	細かい水の煙。水飛沫。靄。
+j	みずごころ	mizugokoro	水泳の心得。遊泳のたしなみ。
+j	みずしげん	mizushigen	水資源: water resources
+j	みずたばこ	mizutabako	水煙管。
+j	みずたまり	mizutamari	水が一時的にある場所に浅くたまったもの。
+j	みずとらのお	mizutorano	シソ科ミズトラノオ属の多年生植物。紫水虎の尾とも。…
+j	みずのえいぬ	mizunoeinu	十干十二支の59番目。じんじゅつ。
+j	みずのえうま	mizunoeuma	十干十二支の19番目。じんご。
+j	みずのとみ	mizunotomi	十干十二支の30番目。きし。
+j	みずばかり	mizubakari	液体の比重をはかる秤。
+j	みずぶくれ	mizubukure	blister (on the skin)
+j	みずまくら	mizumakura	主に頭部を冷やすため、ゴムや樹脂などでできた袋に水…
+j	みずまわり	mizumawari	water-related facilities:…
+j	みずめがね	mizumegane	水中で目を開けて物を見るために着用するめがね。水中…
+j	みせかける	misekakeru	実際はそうでないのに上辺だけをそれらしく見えるよう…
+j	みせびらき	misebiraki	商売を始めること。創業すること。
+j	みそかづき	misokazuki	陰暦の30日ごろに、明け方の東の空にかすかに見える…
+j	みそなわす	misonawasu	御覧になる。
+j	みだれあし	midareashi	疲労や酔いのため足取りがしっかりしないこと。
+j	みだれがみ	midaregami	ばらばらに乱れた頭髪。乱髪。
+j	みちおしえ	michioshie	斑猫の別称。
+j	みちがえる	michigaeru	見間違う。
+j	みちとし	michitoshi	道利, 道世, 通俊, 義利, 道俊, 通敏, 光…
+j	みちのえき	michinoeki	道の駅: roadside station
+j	みちみち	michimichi	あの道もこの道も。
+j	みっともない	mittomonai	disgraceful, shameful, in…
+j	みつくち	mitsukuchi	口唇口蓋裂の一種。上唇の中央が先天的に縦に裂けてい…
+j	みつくろう	mitsukurou	よく見て状況を判断する。
+j	みつげつ	mitsugetsu	蜜月: honeymoon
+j	みつちか	mitsuchika	光親: a male given name
+j	みつどもえ	mitsudomoe	紋所の一つ。三つの巴を円形に組み合わせたもの。
+j	みつぼし	mitsuboshi	三つの星。その形。
+j	みつゆにゅう	mitsuyunyu	密輸入: smuggling in
+j	みつよし	mitsuyoshi	満芳: a male given name
+j	みとがめる	mitogameru	to question out of suspic…
+j	みとどける	mitodokeru	成り行きを最後まで見る。
+j	みどりがめ	midorigame	ミシシッピアカミミガメの幼体。
+j	みどりごけ	midorigoke	緑色の苔。
+j	みどりのひ	midorinohi	自然に感謝するための国民の祝日。5月4日。
+j	みなみかぜ	minamikaze	南から吹いてくる風。夏の季語。
+j	みなみがわ	minamigawa	南の方角。
+j	みなみまど	minamimado	南側の窓。
+j	みなみむき	minamimuki	南の方角に向いていること。
+j	みなみアジア	minamiajia	南アジア: South Asia
+j	みのまわり	minomawari	things used in daily life
+j	みはるかす	miharukasu	遥かに見渡す。
+j	みまちがい	mimachigai	「みまちがう」の連用形。
+j	みまちがう	mimachigau	別の物と誤って認識する。見誤る。
+j	みみかざり	mimikazari	耳飾り: earring
+j	みみざわり	mimizawari	聞いた時の印象。
+j	みみずばれ	mimizubare	welting
+j	みみなぐさ	miminagusa	ナデシコ科ミミナグサ属に属する植物の総称。
+j	みやげもの	miyagemono	土産とする物。
+j	みやこづめ	miyakozume	将棋盤の中央（5五）で王将が詰むこと。
+j	みやこどり	miyakodori	チドリ目ミヤコドリ科の鳥の総称。嘴は橙、羽は黒また…
+j	みやびやか	miyabiyaka	上品で優雅なさま。
+j	みゆびげら	miyubigera	キツツキ目キツツキ科に属する鳥の一種。学名: Pi…
+j	みようみまね	miyomimane	他がしていることを見ながら同じように真似をすること。
+j	みるくいがい	mirukuigai	二枚貝綱バカガイ科ミルクイガイ属に属する二枚貝の一…
+j	みをやつす	mioyatsusu	to be absorbed in
+j	みんぞくし	minzokushi	民族誌: ethnography
+j	みんなして	minnashite	all together; in unison
+j	みんみんぜみ	minminzemi	カメムシ目セミ科ミンミンゼミ属に属するせみの一種。…
+j	ミコノス島	mikonosuto	Mykonos (island)
+j	ミシガン湖	mishiganko	
+j	ミストラル	misutoraru	フランスローヌ川から地中海に向かって吹く乾燥して冷…
+j	ミストレス	misutoresu	a mistress (dominatrix)
+j	ミスマッチ	misumatchi	mismatch
+j	ミズガルズ	mizugaruzu	Midgard
+j	ミッキーマウス	mikkimausu	Mickey Mouse
+j	ミッドナイト	middonaito	深夜。
+j	ミツバチ	mitsubachi	「蜜蜂」の学術的表記。
+j	ミドルエイジ	midorueiji	中年。ミドル。
+j	ミドルネーム	midorunemu	欧米の人名で名（ファーストネーム）と姓（ラストネー…
+j	ミドルパワー	midorupawa	
+j	ミニゴルフ	minigorufu	
+j	ミニスカート	minisukato	miniskirt
+j	ミニブログ	miniburogu	microblog
+j	ミノカサゴ	minokasago	カサゴ目フカサゴ科ミノカサゴ属に属する海水魚の一種…
+j	ミノルカ島	minorukato	Minorca
+j	ミモレ丈	mimoredake	ふくらはぎの中程までの丈のワンピースやスカート、パ…
+j	ミヤコドリ	miyakodori	チドリ目ミヤコドリ科ミヤコドリ属の鳥の一種。学名:…
+j	ミラートレード	miratoredo	mirror trading
+j	ミリオンセラー	mirionsera	百万以上購買された商品や書籍。
+j	ミリグラム	miriguramu	milligram (unit of mass)
+j	ミリメートル	mirimetoru	millimetre, (US) millimet…
+j	ミルクセーキ	mirukuseki	milkshake
+j	ミルク蛇	mirukuhebi	
+j	ミンダナオ島	mindanaoto	Mindanao
+j	ミントグリーン	mintogurin	青みがかった緑。
+j	ミントチョコ	mintochoko	
+j	三つ口	mitsukuchi	
+j	三つ巴	mitsudomoe	mon with three tomoe desi…
+j	三千年	michitoshi	a male given name
+j	三日天下	mikkatenka	a short-lived regime
+j	三日月湖	mikazukiko	
+j	三橋	mitsuhashi	a surname
+j	三菱	mitsubishi	Mitsubishi (industrial co…
+j	光千年	michitoshi	a male given name
+j	光親	mitsuchika	a male given name
+j	兎口	mitsukuchi	
+j	南アジア	minamiajia	South Asia (a geographic …
+j	南インド	minamiindo	
+j	南側	minamigawa	south side
+j	南山	minamiyama	a surname
+j	南村	minamimura	a surname
+j	南牟礼	minamimure	a surname
+j	右回り	migimawari	
+j	右左	migihidari	right and left
+j	味方する	mikatasuru	
+j	壬午	mizunoeuma	Water Horse, the nineteen…
+j	壬戌	mizunoeinu	Water Dog, the fifty-nint…
+j	宮古そば	miyakosoba	宮古島発祥の沖縄そば。具材が麺の下に隠されているこ…
+j	宮古島	miyakojima	Miyako-jima (an island of…
+j	密密	mitsumitsu	厳重に守るべき秘密。
+j	密栓する	missensuru	
+j	密輸入	mitsuyunyu	smuggling in
+j	密輸品	mitsuyuhin	smuggled goods
+j	密輸者	mitsuyusha	
+j	密輸船	mitsuyusen	
+j	密造者	mitsuzosha	
+j	密造酒	mitsuzoshu	
+j	帝雉	mikadokiji	mikado pheasant, Syrmatic…
+j	御影石	mikageishi	granite
+j	未使用品	mishiyohin	an unused item
+j	未完了相	mikanryoso	
+j	未改造ペン	mikaizopen	ペン回し用に改造されていない、普通のペン。
+j	未来時制	miraijisei	future tense
+j	未検証の	mikenshono	
+j	未熟者	mijukumono	green hand, novice
+j	未解決	mikaiketsu	unsolved, unresolved
+j	未開発	mikaihatsu	undeveloped, untapped
+j	民主党員	minshutoin	Democrat (a member or sup…
+j	民主的	minshuteki	democratic
+j	民事訴訟	minjisosho	民事事件について、私法を適用して審理を行い、解決す…
+j	民俗誌	minzokushi	
+j	民族性	minzokusei	
+j	民族誌	minzokushi	ethnography
+j	民間放送	minkanhoso	commercial broadcasting
+j	民間防衛	minkanboei	外敵からの攻撃や自然災害から民間人の生命、財産の被…
+j	水たまり	mizutamari	puddle (a small pool of w…
+j	水で割る	mizudewaru	
+j	水の華	mizunohana	
+j	水をあける	mizuoakeru	get a huge lead over an o…
+j	水を差す	mizuwosasu	
+j	水を得た魚	mizuoetauo	"a fish who's found water…
+j	水キセル	mizukiseru	水にタバコの煙を通して喫煙する器具。
+j	水ギセル	mizugiseru	a hookah; a waterpipe
+j	水タバコ	mizutabako	
+j	水商売	mizushobai	bar and restaurant busine…
+j	水栽培	mizusaibai	
+j	水治療	mizuchiryo	
+j	水溜まり	mizutamari	
+j	水溜り	mizutamari	puddle of water
+j	水煙管	mizugiseru	水キセルの別形。
+j	水瓶座	mizugameza	Aquarius
+j	水膨れ	mizubukure	
+j	水資源	mizushigen	water resources
+j	水飲み場	mizunomiba	
+j	湊川	minatogawa	a surname
+j	満芳	mitsuyoshi	a male given name
+j	癸巳	mizunotomi	Water Snake, the thirtiet…
+j	緑川	midorikawa	the name of various rivers
+j	義利	michitoshi	a male given name
+j	耳にする	miminisuru	to hear, to hear by accid…
+j	耳袋	mimibukuro	
+j	耳障り	mimizawari	offensive (to the ear), h…
+j	耳障りな	mimizawari	
+j	耳飾り	mimikazari	earring
+j	蓑笠子	minokasago	
+j	蜜教	mitsuoshie	
+j	蜜月	mitsugetsu	a honeymoon (period of ti…
+j	蜜蜂	mitsubachi	honey bee
+j	見せ掛ける	misekakeru	to disguise (something) a…
+j	見合い結婚	miaikekkon	
+j	見定める	misadameru	make sure of, gauge, disc…
+j	見届ける	mitodokeru	to make sure of
+j	見極める	mikiwameru	make sure
+j	見様見真似	miyomimane	observe and repeat
+j	見比べる	mikuraberu	to compare with the eye
+j	見苦しい	migurushii	ugly, hard to look at
+j	見違える	michigaeru	to take someone for someo…
+j	身を尽くす	miotsukusu	to wear out with one's he…
+j	身代わりの	migawarino	
+j	身内ネタ	miuchineta	inside joke; in-joke
+j	身分不相応	mibunfusoo	beyond one's means or pos…
+j	身分制度	mibunseido	社会的な身分を区分、固定し、その身分やそれに基づく…
+j	通俊	michitoshi	a male given name
+j	通敏	michitoshi	a male given name
+j	道の駅	michinoeki	roadside station, highway…
+j	道世	michitoshi	a male given name
+j	道俊	michitoshi	a male given name
+j	道利	michitoshi	a male given name
+j	道師	michinoshi	the fifth-highest of the …
+j	道案内	michiannai	道に不案内であったり迷ったりした人を先導して案内す…
+j	都城	miyakonojo	Miyakonojō, Miyazaki
+j	都草	miyakogusa	Lotus japonicus
+j	都落ち	miyakoochi	escaping from Kyoto (or o…
+j	都鳥	miyakodori	東京都を象徴する鳥。正式には「都民の鳥」。
+j	雅やか	miyabiyaka	elegant, graceful, refined
+j	魅惑する	miwakusuru	
+j	魅惑的	miwakuteki	人心を惹いて惑わすさま
+k	미개간지	migaeganji	
+k	미개사회	migaesahoe	
+k	미개척	migaecheok	아직 개척하지 못하거나 아니함.
+k	미결재	migyeoljae	
+k	미관상	migwansang	
+k	미관지구	migwanjigu	
+k	미구도적	migudojeok	‘여우’의 방언(경북).
+k	미국 사람	miguksaram	
+k	미국 수화	miguksuhwa	
+k	미끄럼	mikkeureom	sliding
+k	미니골프	minigolpeu	minigolf
+k	미니돼지	minidwaeji	minipig
+k	미니버스	minibeoseu	minibus
+k	미니어처	minieocheo	miniature
+k	미니카메라	minikamera	minicamera
+k	미달되다	midaldoeda	
+k	미대난도	midaenando	
+k	미들 파워	mideulpawo	
+k	미들네임	mideulleim	middle name (a name betwe…
+k	미릉골	mireunggol	
+k	미리감치	mirigamchi	
+k	미리개질	mirigaejil	
+k	미배정	mibaejeong	
+k	미상환	misanghwan	
+k	미생물	misaengmul	microorganism, microbe
+k	미성숙	miseongsuk	
+k	미세기뚝	misegittuk	'방조제'의 북한말.
+k	미세먼지	misemeonji	particulate matter
+k	미세섬유	miseseomyu	액틴으로 구성된 얇은 섬유.
+k	미세소관	misesogwan	튜불린 단백질로 이루어진 세포질 안의 구조물.
+k	미스코리아	miseukoria	우리나라의 미혼 여성을 대상으로 한 미인 선발…
+k	미스터리	miseuteori	mystery (something secret…
+k	미아리고개	miarigogae	
+k	미역취	miyeokchwi	
+k	미완되다	miwandoeda	‘미완성되다’를 달리 이르는 말.
+k	미완성	miwanseong	incompleteness
+k	미인 대회	miindaehoe	
+k	미작지대	mijakjidae	rice-producing district
+k	미제 사건	mijesageon	cold case
+k	미쭉하다	mijjukhada	미끈하고 길쭉하다.
+k	미첩간	micheopgan	
+k	미쳐지다	micheojida	to go crazy
+k	미치프어	michipeueo	캐나다에 거주하는 메티스인들의 언어. 크리어와…
+k	미키 마우스	mikimauseu	Mickey Mouse
+k	미타삼존	mitasamjon	
+k	미트로프	miteuropeu	
+k	미해결	mihaegyeol	unsolved, unresolved
+k	미혹되다	mihokdoeda	
+k	미흡하다	miheuphada	to be unsatisfactory, to …
+k	믹스넛	mikseuneot	
+k	민간오락	minganorak	'민속놀이'의 북한말.
+k	민감하다	mingamhada	sensitive; susceptible
+k	민달하다	mindalhada	눈치가 빠르고 민첩하여 모든 일에 환하게 통달…
+k	민답하다	mindaphada	
+k	민둥산	mindungsan	
+k	민망초	minmangcho	bitter fleabane, blue fle…
+k	민박하다	minbakhada	
+k	민법학	minbeophak	
+k	민본주의	minbonjuui	
+k	민사회사	minsahoesa	
+k	민산하다	minsanhada	
+k	민생고	minsaenggo	
+k	민속극	minsokgeuk	
+k	민속촌	minsokchon	고유한 민속을 간직하고 있는 마을.
+k	민속하다	minsokhada	행동이나 일의 처리 따위가 날쌔고 빠르다.
+k	민완하다	minwanhada	
+k	민원사무	minwonsamu	
+k	민장대	minjangdae	
+k	민정부	minjeongbu	
+k	민족권	minjokgwon	
+k	민족적	minjokjeok	
+k	민족주의	minjokjuui	nationalism
+k	민주국가	minjugukga	
+k	민중화	minjunghwa	
+k	민트색	minteusaek	mint (color)
+k	민혜하다	minhyehada	
+k	민혼하다	minhonhada	
+k	밀레니엄	millenieom	a millennium
+k	밀렵자	millyeopja	poacher
+k	밀리리터	milliriteo	
+k	밀리미터	millimiteo	millimeter
+k	밀리치야	millichiya	
+k	밀수업자	milsueopja	
+k	밀영지	miryeongji	
+k	밀잠자리	miljamjari	(학명 Orthetrum albistylum)…
+k	밀집하다	miljiphada	to cluster closely
+k	밀짚모자	miljimmoja	straw hat
+k	밀출국	milchulguk	
+k	밀타승	miltaseung	
+k	밀트리다	milteurida	'밀뜨리다'.
+k	밋밋하다	minmithada	to be plain, to be dull, …
+k	밍근히	minggeunhi	
+k	밍밍히	mingminghi	
+k	밑구멍	mitgumeong	물건의 밑에 난 구멍.
+e	mickey mouse	mickeymouse	1 meaning
+e	micronation	micronation	1 meaning
+e	microsecond	microsecond	1 meaning
+e	micturition	micturition	1 meaning
+e	middle class	middleclass	1 meaning
+e	middle power	middlepower	1 meaning
+e	middle-earth	middleearth	1 meaning
+e	midnight sun	midnightsun	1 meaning
+e	mileikowsky	mileikowsky	1 meaning
+e	milk thistle	milkthistle	1 meaning
+e	millionaire	millionaire	1 meaning
+e	millisecond	millisecond	1 meaning
+e	minas gerais	minasgerais	1 meaning
+e	mind control	mindcontrol	1 meaning
+e	minesweeper	minesweeper	2 meanings
+e	ming dynasty	mingdynasty	1 meaning
+e	minimal pair	minimalpair	1 meaning
+e	minimum wage	minimumwage	1 meaning
+e	minneapolis	minneapolis	1 meaning
+e	minor planet	minorplanet	1 meaning
+e	miracle play	miracleplay	1 meaning
+e	misanthrope	misanthrope	1 meaning
+e	misanthropy	misanthropy	1 meaning
+e	misbehavior	misbehavior	1 meaning
+e	miscarriage	miscarriage	1 meaning
+e	mischievous	mischievous	1 meaning
+e	misdemeanor	misdemeanor	1 meaning
+e	missing link	missinglink	1 meaning
+e	mississauga	mississauga	1 meaning
+e	mississippi	mississippi	2 meanings
+e	misspelling	misspelling	1 meaning
+e	mithridates	mithridates	1 meaning
+e	mixed number	mixednumber	1 meaning
+j	みおつくし	miotsukushi	船が往来する際の目印として立てられた、澪を示す杭。
+j	みかじめ料	mikajimeryo	protection money
+j	みこともち	mikotomochi	in ancient Japan prior to…
+j	みずしおんな	mizushionna	台所で水仕事をする下女。みずし。みずしめ。
+j	みずしごと	mizushigoto	水仕事: scrubbing and washin…
+j	みずしぶき	mizushibuki	水の飛び散る飛沫。
+j	みずすまし	mizusumashi	コウチュウ目オサムシ亜目オサムシ上科ミズスマシ科に…
+j	みずのえさる	mizunoesaru	十干十二支の9番目。じんしん。
+j	みずのえとら	mizunoetora	十干十二支の39番目。じんいん。
+j	みずのとうし	mizunotoshi	十干十二支の50番目。きちゅう。
+j	みずばしら	mizubashira	水が柱状に立ちのぼったもの。
+j	みずびたし	mizubitashi	水の中に浸すこと。
+j	みせいねんしゃ	miseinensha	
+j	みせざらし	misezarashi	店舗などで商品が売れずに長期間陳列してあること。
+j	みせつける	misetsukeru	to show; to make a displa…
+j	みだしなみ	midashinami	personal grooming, attent…
+j	みちすがら	michisugara	道中。途上。道を過ぎながら。
+j	みちたりる	michitariru	十分に満ちている。不足がなく満足している。
+j	みつぎもの	mitsugimono	被支配者が支配者に献上する金品。
+j	みつけだす	mitsukedasu	見出す。いまだその実在に確証のない人・物を捜索して…
+j	みどりむし	midorimushi	euglena
+j	みなごろし	minagoroshi	massacre; slaughter
+j	みなとまち	minatomachi	port town
+j	みのけだつ	minokedatsu	恐怖や寒さによって全身の毛が逆立つ。
+j	みみどしま	mimidoshima	聞きかじりの知識のみ豊富な若い女性。特に性的な事柄…
+j	ミクロライオン	mikuroraion	
+j	ミケランジェロ	mikeranjero	Michelangelo
+j	ミシガン州	mishiganshu	the full form of ミシガン (“M…
+j	ミシシッピ	mishishippi	Mississippi (a state of t…
+j	ミステリアス	misuteriasu	神秘的なさま。非常に不思議なさま。
+j	ミズスマシ	mizusumashi	「みずすまし」の学術的表記。
+j	ミックスジュース	mikkusujusu	複数の種類の果物などが混ざったジュース。牛乳を入れ…
+j	ミッドフィールダー	middofiruda	midfielder
+j	ミドリムシ	midorimushi	みどりむしの学術的表記。
+j	ミナミキリン	minamikirin	キリンの一種。学名は Giraffa giraff…
+j	ミニマルペア	minimarupea	minimal pair
+j	ミニマル・ペア	minimarupea	
+j	ミネアポリス	mineaporisu	Minneapolis
+j	ミネソタ州	minesotashu	the full form of ミネソタ (“M…
+j	ミネラルウオーター	mineraruota	無機塩類を多く含む水。特にボトルに入っているそのよ…
+j	ミノタウロス	minotaurosu	Minotaur
+j	ミリアメートル	miriametoru	メートル法における長さの単位。10⁴メートルに相当…
+j	ミリセカント	mirisekanto	
+j	ミリリットル	miririttoru	millilitre, (US) millilit…
+j	ミルクメイド	mirukumeido	
+j	ミンククジラ	minkukujira	
+j	ミンストレル	minsutoreru	
+j	ミーンズテスト	minzutesuto	means test, an inquiry in…
+j	三下り半	mikudarihan	a letter of divorce given…
+j	三行半	mikudarihan	a letter of divorce given…
+j	南イエメン	minamiiemen	イエメン人民民主共和国の通称。
+j	南スーダン	minamisudan	South Sudan (a country in…
+j	南口	minamiguchi	south exit
+j	南渕	minamibuchi	a surname
+j	右に同じ	miginionaji	ditto, what someone said
+j	右クリック	migikurikku	a right-click
+j	壬申	mizunoesaru	Water Monkey, the ninth t…
+j	宮古方言	miyakohogen	
+j	宮崎市	miyazakishi	宮崎県の県庁所在地。中核市。
+j	宮崎県	miyazakiken	a prefecture in Japan on …
+j	密売品	mitsubaihin	
+j	密売者	mitsubaisha	
+j	密漁者	mitsuryosha	密漁を行う犯罪者。
+j	密猟者	mitsuryosha	密猟を行う犯罪者。
+j	密輸する	mitsuyusuru	
+j	密集した	misshushita	
+j	帝揚羽	mikadoageha	common jay butterfly, Gra…
+j	御台所	midaidokoro	「御台盤所」の略。御台。
+j	未就学児	mishugakuji	小学校入学前の子供。
+j	未成年者	miseinensha	まだ成年に達していない者。
+j	未来分詞	miraibunshi	分詞の一つで、不定法や能動態、未来を作るもの。
+j	未来完了	miraikanryo	未来のある時点までに完了する動作や状態を示す時制。
+j	未来進行	miraishinko	未来のある時点で行われている動作を表す時制。
+j	未知の国	michinokuni	
+j	未確認の	mikakuninno	
+j	民主主義	minshushugi	democracy (rule by the pe…
+j	民俗学	minzokugaku	folkloristics
+j	民営化する	mineikasuru	
+j	民族学	minzokugaku	ethnology
+j	民族浄化	minzokujoka	
+j	民族舞踊	minzokubuyo	
+j	民族衣装	minzokuisho	その民族が着用する独特な衣装。
+j	民間語源	minkangogen	
+j	水中毒	misuchudoku	真水の大量摂取、抗利尿ホルモンの過剰分泌などのため…
+j	水仕事	mizushigoto	housework that uses water…
+j	水俣病	minamatabyo	Minamata disease
+j	水先人	mizusakinin	一定の水先区で船舶に乗り込み安全に又は効率的に水路…
+j	水澄	mizusumashi	
+j	水澄まし	mizusumashi	a whirligig beetle
+j	水菓子屋	mizugashiya	水菓子を売る店、その人。
+j	満ち足りる	michitariru	to be content; to be sati…
+j	溝隠	mizokakushi	Chinese lobelia, Lobelia …
+j	澪標	miotsukushi	a dolphin erected as a da…
+j	皆殺し	minagoroshi	
+j	緑ナンバー	midorinanba	緑色の地に白い文字や数字で書かれた貨物や旅客などを…
+j	緑虫	midorimushi	
+j	耳を澄ます	mimiosumasu	to listen closely
+j	耳を疑う	mimioutagau	to doubt what one just he…
+j	耳学問	mimigakumon	knowledge obtained via wo…
+j	見えなくなる	mienakunaru	
+j	見ず知らず	mizushirazu	
+j	見付け出す	mitsukedasu	to find, find out
+j	貢ぎ物	mitsugimono	
+j	貢物	mitsugimono	tribute
+j	身につける	minitsukeru	to learn, to acquire know…
+j	身に付ける	minitsukeru	
+j	身を委ねる	mioyudaneru	to devote oneself to
+j	身を屈める	miokagameru	
+j	身を知る雨	mioshiruame	tears (drops from the eye…
+j	身元保証	mimotohosho	ある者の資力や身上について請け合うこと。特にある使…
+j	身振り言語	miburigengo	
+j	造木	miyatsukogi	synonym of 接骨木 (niwatoko,…
+j	道ならぬ	michinaranu	道徳・道理に外れている。不道徳な。不義の。
+j	魅力的	miryokuteki	charming; attractive (ple…
+k	미경산	migyeongsan	아직 출산 경험이 없는 소의 암컷 개체를 의미…
+k	미곡연도	migogyeondo	
+k	미국 달러	migukdalleo	
+k	미국들소	migukdeulso	American bison, buffalo (…
+k	미끈하다	mikkeunhada	
+k	미끌하다	mikkeulhada	
+k	미늘창	mineulchang	
+k	미니맥스	minimaekseu	minimax
+k	미니시리즈	minisirijeu	miniseries
+k	미니아튀르	miniatwireu	miniature
+k	미드필더	mideupildeo	
+k	미래완료	miraewallyo	future perfect
+k	미련하다	miryeonhada	터무니없는 고집을 부릴 정도로 매우 어리석고 …
+k	미류구름	miryugureum	꼬리모양의 구름.
+k	미르니기지	mireunigiji	
+k	미륵보살	mireukbosal	Maitreya
+k	미목수려	mimoksuryeo	
+k	미봉책	mibongchaek	임시방편.
+k	미상돌기	misangdolgi	
+k	미세격자	misegyeokja	간격이 20km미만의 좁은 격자.
+k	미술감독	misulgamdok	
+k	미술교육	misulgyoyuk	미술을 가르치는 교육.
+k	미술대학	misuldaehak	미술을 가르치는 대학교.
+k	미스타이프	miseutaipeu	
+k	미식축구	misikchukgu	American football
+k	미안합니다	mianhamnida	
+k	미어터지다	mieoteojida	
+k	미역감다	miyeokgamda	to bathe, to go swimming …
+k	미용체조	miyongchejo	
+k	미적대다	mijeokdaeda	'미적거리다'(무거운 것을 조금씩 앞으로 밀다…
+k	미지근한	mijigeunhan	
+k	미천하다	micheonhada	신분이나 지위 따위가 하찮고 천하다.
+k	미츳하다	micheuthada	
+k	미치광이	michigwangi	lunatic; nutcase
+k	미친 사람	michinsaram	
+k	미터 매 초	miteomaecho	
+k	미트 민서	miteuminseo	meatgrinder
+k	미행하다	mihaenghada	to follow, to trail, to s…
+k	미호종개	mihojonggae	The Miho spine loach, Cob…
+k	미화작업	mihwajageop	
+k	민간어원	minganeowon	folk etymology
+k	민간외교	minganoegyo	
+k	민간위탁	minganwitak	공공서비스를 외부나 다른곳에 맡아서 하는 것.
+k	민권당	mingwondang	
+k	민권주의	mingwonjuui	
+k	민둥하다	mindunghada	
+k	민망하다	minmanghada	보기에 답답하고 딱하여 안타깝다.
+k	민방공	minbanggong	
+k	민법전	minbeopjeon	civil code
+k	민병제	minbyeongje	
+k	민사사건	minsasageon	
+k	민사소송	minsasosong	
+k	민사재판	minsajaepan	
+k	민상법	minsangbeop	
+k	민속 음악	minsokeumak	
+k	민속사회	minsoksahoe	
+k	민속예술	minsogyesul	
+k	민수산업	minsusaneop	
+k	민스미트	minseumiteu	
+k	민영화	minyeonghwa	privatization
+k	민절하다	minjeolhada	
+k	민족국가	minjokgukga	
+k	민족성	minjokseong	ethnicity
+k	민족음악	minjogeumak	
+k	민족의식	minjoguisik	
+k	민족자본	minjokjabon	
+k	민족자존	minjokjajon	
+k	민주 콩고	minjukonggo	
+k	민주적인	minjujeogin	
+k	민주주의자	minjujuuija	democrat
+k	민주콩고	minjukonggo	'콩고민주공화국'의 다른 말.
+k	민중가요	minjunggayo	
+k	민취하다	minchwihada	
+k	민트 소스	minteusoseu	
+k	민트 초코	minteuchoko	
+k	민틋하다	minteuthada	울퉁불퉁한 곳이 없이 평평하고 비스듬하다.
+k	민활하다	minhwalhada	
+k	민휼하다	minhyulhada	
+k	밀뜨리다	miltteurida	갑자기 힘 있게 밀어 버리다.
+k	밀룽하다	millunghada	
+k	밀접하다	miljeophada	close, intimate
+k	밀집되다	miljipdoeda	to be clustered closely
+k	밀집부대	miljipbudae	
+k	밀집성	miljipseong	
+k	밀크커피	milkeukeopi	우유를 탄 커피.
+k	밉살맞다	mipsalmatda	
+k	밉살스레	mipsalseure	
+k	밑구녕	mitgunyeong	'똥구멍'의 충청도 사투리.
+k	밑줄 문자	mitjulmunja	
+e	michelangelo	michelangelo	1 meaning
+e	microbiology	microbiology	1 meaning
+e	microclimate	microclimate	1 meaning
+e	microgravity	microgravity	1 meaning
+e	microplastic	microplastic	1 meaning
+e	middle finger	middlefinger	2 meanings
+e	middle french	middlefrench	1 meaning
+e	middle korean	middlekorean	1 meaning
+e	middle school	middleschool	1 meaning
+e	militainment	militainment	1 meaning
+e	mille-feuille	millefeuille	1 meaning
+e	millisievert	millisievert	1 meaning
+e	mineral water	mineralwater	1 meaning
+e	minesweeping	minesweeping	1 meaning
+e	minimization	minimization	1 meaning
+e	minstrel show	minstrelshow	1 meaning
+e	miscalculate	miscalculate	1 meaning
+e	mistle thrush	mistlethrush	1 meaning
+e	mixed doubles	mixeddoubles	1 meaning
+e	éminence grise	minencegrise	1 meaning
+j	みがきたてる	migakitateru	念入りにみがく。
+j	みぎよこがき	migiyokogaki	右横書き: writing from right …
+j	みこみちがい	mikomichigai	予想、見立てが外れること。見込み外れ。
+j	みこみはずれ	mikomihazure	予想していたことと異なること。見込み違い。
+j	みすぼらしい	misuborashii	身なりが悪く粗末で、貧乏くさいさま。
+j	みずとるたま	mizutorutama	水晶の別名。
+j	みずのえたつ	mizunoetatsu	十干十二支の29番目。じんしん。
+j	みずのととり	mizunototori	十干十二支の10番目。きゆう。
+j	みずのみやこ	mizunomiyako	水運が重要な役割を果たしている都市の通称。
+j	みずほのくに	mizuhonokuni	日本の美称。
+j	みずみずしい	mizumizushii	fresh
+j	みせびらかす	misebirakasu	自慢そうに人に見せる。
+j	みちあふれる	michiafureru	いっぱいになり溢れる。溢れ出るほどたくさんある。
+j	みちしるべ	michishirube	通行人に道を案内する標識。
+j	みちばしり	michibashiri	カッコウ目カッコウ科ミチバシリ属の鳥の総称。
+j	みつあなぐま	mitsuanaguma	ミツアナグマ: a honey badger, a…
+j	みつがしら	mitsugashira	牛馬の背中の尻に近く高く盛り上がったいる部分。三封。
+j	みてみぬふり	miteminufuri	pretending not to witness…
+j	みなみじゅうじ座	minamijujiza	Crux; the Southern Cross
+j	みなみはんきゅう	minamihankyu	南半球: Southern Hemisphere
+j	みなみまぐろ	minamimaguro	スズキ目サバ科の海水魚。全長約2.5メートル。体形…
+j	みのうえばなし	minoebanashi	一身上の事について打ち明けた話。
+j	みまちがえる	mimachigaeru	見た物を他の物と誤認する。見誤る。
+j	みみぐるしい	mimigurushii	聞くに堪えないさま。聞き苦しい。
+j	みみずとかげ	mimizutokage	蚯蚓蜥蜴: worm lizard
+j	みやこわすれ	miyakowasure	ミヤマヨメナの栽培品種。
+j	みやまおろし	miyamaoroshi	山奥から吹き降ろす風。
+j	ミクロネシア	mikuroneshia	Micronesia (a continental…
+j	ミクロネーション	mikuroneshon	
+j	ミサキノハナ	misakinohana	
+j	ミズナギドリ	mizunagidori	
+j	ミソジニスト	misojinisuto	
+j	ミチバシリ	michibashiri	「みちばしり」の学術的表記。
+j	ミツアナグマ	mitsuanaguma	synonym of ラーテル (rāteru):…
+j	ミトコンドリア	mitokondoria	mitochondrion
+j	ミトリダテス	mitoridatesu	
+j	ミナミコガラ	minamikogara	
+j	ミナミメダカ	minamimedaka	動物界脊椎動物門条鰭綱ダツ目メダカ科メダカ属の淡水…
+j	ミニコンピュータ	minikonpyuta	小さな部屋にも設置できる程度だが、マイクロコンピュ…
+j	ミニマリスト	minimarisuto	（社会主義）最小限綱領派。穏健派。
+j	ミニマリズム	minimarizumu	minimalism
+j	ミネストローネ	minesutorone	minestrone (thick Italian…
+j	ミネラルウォーター	mineraruwota	mineral water (water cont…
+j	ミヤマガラス	miyamagarasu	スズメ目カラス属に属する鳥の一種。学名: Corv…
+j	ミリタリズム	miritarizumu	軍国主義。
+j	ミリメートル波	mirimetoruha	波長が1ミリメートルから1センチメートルの電波。ミ…
+j	ミルククレート	mirukukureto	
+j	ミロのビーナス	mironobinasu	
+j	ミロのヴィーナス	mironovinasu	the Venus de Milo
+j	ミーム職人	mimushokunin	
+j	三つ目小僧	mittsumekozo	three-eyed goblin, a Japa…
+j	三日はしか	mikkahashika	
+j	三日ばしか	mikkabashika	
+j	南オランダ	minamioranda	
+j	南九州	minamikyushu	southern Kyūshū (a region…
+j	南半球	minamihankyu	Southern Hemisphere (the …
+j	南朝鮮	minamichosen	South Korea (a country in…
+j	右横書き	migiyokogaki	writing from right to lef…
+j	味方になる	mikataninaru	
+j	味覚障害	mikakushogai	
+j	壬寅	mizunotetora	Water Tiger, the thirty-n…
+j	壬辰	mizunoetatsu	Water Dragon, the twenty-…
+j	密入国	mitsunyukoku	illegal immigration
+j	密漁する	mitsuryosuru	
+j	密猟する	mitsuryosuru	
+j	民主化する	minshukasuru	
+j	民主的な	minshutekina	
+j	民事責任	minjisekinin	不法行為により他人に与えた損害に対し賠償する私法上…
+j	民俗芸能	minzokugeino	民間の生活文化に密着して伝承されてきた芸能。
+j	民営鉄道	mineitetsudo	国営鉄道、公営鉄道に対し、個人や私企業によりが経営…
+j	民族主義	minzokushugi	nationalism
+j	民族政治	minzokuseiji	
+j	民族楽器	minzokugakki	民族音楽を演奏するために用いる民族独自の楽器。
+j	民衆の敵	minshunoteki	
+j	民間セクター	minkansekuta	
+j	民間信仰	minkanshinko	民間で伝えられている信仰。
+j	水に流す	mizuninagasu	to forgive and forget; to…
+j	水を通さない	mizuotosanai	
+j	水切りボール	mizukiriboru	
+j	水恐怖症	mizukyofusho	
+j	水玉模様	mizutamamoyo	水玉が散らばったように小さな円を全体的に散らした模…
+j	水薙鳥	mizunagidori	
+j	深山烏	miyamagarasu	
+j	深山鴉	miyamagarasu	
+j	満ち満ちる	michimichiru	to be plenty full
+j	癸丑	mizunotoushi	Water Ox, the fiftieth te…
+j	癸酉	mizunototori	Water Rooster, the tenth …
+j	短くする	mijikakusuru	
+j	短くなる	mijikakunaru	
+j	耳に残る	mimininokoru	to stay in one's memory
+j	蚯蚓蜥蜴	mimizutokage	worm lizard
+j	見せびらかす	misebirakasu	show off
+j	見世物小屋	misemonogoya	a freak show
+j	見切り発車	mikirihassha	バスなどの交通機関が、混雑などを理由に乗客を積み残…
+j	見晴らし台	miharashidai	景色を見渡すための台。展望台。
+j	見積書	mitsumorisho	written quote, estimate, …
+j	見窄らしい	misuborashii	shabby, seedy
+j	見込み違い	mikomichigai	miscalculation
+j	見間違える	mimachigaeru	to misrecognize; to read …
+j	身を固める	miwokatameru	
+j	身代金	minoshirokin	ransom
+j	道に沿って	michinisotte	
+j	道を外す	michiohazusu	
+j	道走	michibashiri	roadrunner, either of two…
+j	醜くする	minikukusuru	
+k	미각 상실	migaksangsil	
+k	미개척지	migaecheokji	
+k	미결정	migyeoljeong	
+k	미결정의	migyeoljeong	
+k	미경험	migyeongheom	아직 실제로 해보거나 겪어보지 아니함.
+k	미관말직	migwanmaljik	
+k	미국 영어	migukyeongeo	미국에서 사용되는 영어. 영국 영어와 주로 발…
+k	미국영어	migugyeongeo	
+k	미국화하다	migukhwahada	to Americanize
+k	미끄럽다	mikkeureopda	to be slippery
+k	미끈대다	mikkeundaeda	'미끈거리다'.
+k	미끌대다	mikkeuldaeda	
+k	미나리아재비	minariajaebi	buttercup (Ranunculus spp…
+k	미네랄 워터	mineralwoteo	
+k	미노타우로스	minotauroseu	
+k	미량원소	miryangwonso	
+k	미련스레	miryeonseure	
+k	미련퉁이	miryeontungi	
+k	미분가능	mibunganeung	
+k	미성년	miseongnyeon	minor; nonage
+k	미시시피강	misisipigang	
+k	미얀마재비	miyanmajaebi	
+k	미완료상	miwallyosang	
+k	미적교육	mijeokgyoyuk	
+k	미적범주	mijeokbeomju	
+k	미적분학	mijeokbunhak	
+k	미적인상	mijeoginsang	
+k	미주알고주알	mijualgojual	inquisitively, to the las…
+k	미지근하다	mijigeunhada	뜨겁지도 차지도 않은.
+k	미추룸하다	michurumhada	
+k	미크로네시아	mikeuronesia	Micronesia (a continental…
+k	미타미타하다	mitamitahada	
+k	미합중국	mihapjungguk	United States of America …
+k	민간무역	minganmuyeok	민간에서 행하는 무역.
+k	민간방위	minganbangwi	
+k	민간사절	mingansajeol	
+k	민간신앙	mingansinang	
+k	민간요법	minganyobeop	
+k	민달팽이	mindalpaengi	slug
+k	민렴하다	millyeomhada	
+k	민멸하다	minmyeolhada	
+k	민물상어	minmulsangeo	freshwater shark
+k	민물장어	minmuljangeo	river eel, freshwater eel
+k	민방위대	minbangwidae	
+k	민병대	minbyeongdae	militia
+k	민부리고래	minburigorae	The Cuvier's beaked whale…
+k	민사책임	minsachaegim	
+k	민생주의	minsaengjuui	
+k	민선의원	minseonuiwon	
+k	민속소설	minsoksoseol	
+k	민원서류	minwonseoryu	
+k	민유철도	minyucheoldo	
+k	민족 무용	minjokmuyong	
+k	민족운동	minjogundong	
+k	민족의상	minjoguisang	
+k	민주 꽁고	minjukkonggo	
+k	민주꽁고	minjukkonggo	나라 이름 '콩고민주공화국'의 북한말.
+k	민주당원	minjudangwon	
+k	민주화하다	minjuhwahada	to democratize
+k	민중예술	minjungyesul	
+k	민첩하다	mincheophada	재빠르고 날쌔다.
+k	밀라노 사람	millanosaram	
+k	밀렵꾼	millyeopkkun	poacher
+k	밀렵하다	millyeophada	to poach
+k	밀리그램	milligeuraem	milligram
+k	밀방망이	milbangmangi	rolling pin
+k	밀추화서	milchuhwaseo	
+k	밀회 장소	milhoejangso	
+k	밍근하다	minggeunhada	약간 미지근하다.
+k	밍밍하다	mingminghada	
+k	밍크고래	mingkeugorae	Minke whale, Balaenoptera…
+e	microcomputer	microcomputer	1 meaning
+e	microorganism	microorganism	1 meaning
+e	microwave oven	microwaveoven	1 meaning
+e	mid-life crisis	midlifecrisis	1 meaning
+e	mid-ocean ridge	midoceanridge	1 meaning
+e	middle chinese	middlechinese	1 meaning
+e	middle english	middleenglish	1 meaning
+e	middle kingdom	middlekingdom	2 meanings
+e	middle reaches	middlereaches	1 meaning
+e	midway islands	midwayislands	1 meaning
+e	migratory bird	migratorybird	1 meaning
+e	milk chocolate	milkchocolate	1 meaning
+e	miniature golf	miniaturegolf	1 meaning
+e	mint chocolate	mintchocolate	1 meaning
+e	miscellaneous	miscellaneous	1 meaning
+e	mismanagement	mismanagement	1 meaning
+e	missing person	missingperson	1 meaning
+e	mistletoebird	mistletoebird	1 meaning
+e	misunderstand	misunderstand	1 meaning
+e	mitochondrion	mitochondrion	1 meaning
+e	mixed marriage	mixedmarriage	1 meaning
+e	mixed reaction	mixedreaction	1 meaning
+j	みぎかたあがり	migikataagari	数値が時間と共に増加していくこと。グラフに起こすと…
+j	みずなしがわ	mizunashigawa	増水時以外では表流水が確認できない川。
+j	みどりのカーテン	midorinokaten	緑のカーテン: a green wall (a w…
+j	みなみアフリカ	minamiafurika	南アフリカ: South Africa
+j	みみあたらしい	mimiatarashii	初めて聞くことである。
+j	みやげばなし	miyagebanashi	旅先や出先で見聞したり経験したりしたことについての…
+j	ミカドチョウザメ	mikadochozame	チョウザメ (Acipenser mikadoi)…
+j	ミスコンテスト	misukontesuto	未婚の女性を対象とした美人を選ぶコンテスト。ミスコ…
+j	ミステリアスな	misuteriasuna	
+j	ミス・コンテスト	misukontesuto	a beauty contest
+j	ミックスナッツ	mikkusunattsu	
+j	ミツクリザメ	mitsukurizame	ネズミザメ目ミツクリザメ科に分類される深海ザメの一…
+j	ミナスジェライス	minasujeraisu	
+j	ミリアメートル波	miriametoruha	超長波の別名。
+j	ミリシーベルト	mirishiberuto	
+j	ミレイコフスキー	mireikofusuki	
+j	ミレニアムベビー	mireniamubebi	西暦2000年に生まれた赤ん坊。
+j	ミロバランノキ	mirobarannoki	インドからインドシナにかけてを原産とするシクンシ科…
+j	三つの密	mittsunomitsu	the three 密 (mitsu)s that…
+j	南の島	minaminoshima	"island of the south" (a …
+j	南アジア人	minamiajiajin	
+j	南アフリカ	minamiafurika	South Africa (a country i…
+j	南アメリカ	minamiamerika	South America (the contin…
+j	南アルプス	minamiarupusu	Minami-Alps (a city in Ya…
+j	南オセチア	minamiosechia	コーカサス山脈南麓のツヒンヴァリ地域を実効支配して…
+j	南チロル	minamichiroru	
+j	南ホラント	minamihoranto	
+j	南ヨーロッパ	minamiyoroppa	ヨーロッパ南部の地域。スペイン、ポルトガル、ギリシ…
+j	南十字星	minamijujisei	the Southern Cross
+j	宮沢賢治	miyazawakenji	明治大正時代の日本の詩人、童話作家。1896年（明…
+j	密出国	mitsushukkoku	正規の手続きを経ずにひそかに出国すること。
+j	密輸出	mitsuyushutsu	法を犯して、ひそかに物品を輸出すること。
+j	密輸業者	mitsuyugyosha	smuggler
+j	弥勒菩薩	mirokubosatsu	Maitreya bodhisattva
+j	未練がましい	mirengamashii	not knowing when to let g…
+j	民俗音楽	minzokuongaku	民衆の間で伝承してきた独特の音楽。
+j	民族宗教	minzokushukyo	特定の民族を中心に信仰される宗教。
+j	民族音楽	minzokuongaku	その民族が伝承してきた独自の音楽。
+j	民間説話	minkansetsuwa	
+j	民間資格	minkanshikaku	民間企業、団体独自の認定、発行された資格。
+j	水で薄める	mizudeusumeru	
+j	水際立つ	mizugiwadatsu	to be preeminent
+j	箕作鮫	mitsukurizame	goblin shark, Mitsukurina…
+j	緑のカーテン	midorinokaten	a green wall (a wall cove…
+j	耳が不自由	mimigafujiyuu	
+j	耳に聞こえる	miminikikoeru	
+j	見せびらかし	misebirakashi	
+j	見る影もない	mirukagemonai	a mere shadow of, a pathe…
+j	見る影も無い	mirukagemonai	以前の立派な姿とは見違えるほどみすぼらしいさま。
+j	身も蓋もない	mimofutamonai	frank; straightforward
+j	道草する	michikusasuru	
+j	道草を食う	michikusaokuu	waste time on the way, lo…
+j	酒司	mikinotsukasa	a 律令 (Ritsuryō) position …
+j	間誤付かせる	migotsukaseru	
+j	魅力的な	miryokutekina	
+k	미국너구리	migungneoguri	미국너구리과의 종들을 가리키는 말. 너구리와 …
+k	미국자리공	migukjarigong	American pokeweed (Phytol…
+k	미국지빠귀	migukjippagwi	
+k	미국풍나무	migukpungnamu	
+k	미그마타이트	migeumataiteu	혼성암.
+k	미끄러지다	mikkeureojida	to slide, to slip, to gli…
+k	미끄럼대	mikkeureomdae	slide (item of play equip…
+k	미니 신칸센	minisinkansen	
+k	미니블로그	minibeullogeu	
+k	미니스커트	miniseukeoteu	miniskirt
+k	미래진행	miraejinhaeng	
+k	미련쟁이	miryeonjaengi	
+k	미령사모아	miryeongsamoa	서태평양에 위치한 아메리칸사모아의 북한말.
+k	미루적대다	mirujeokdaeda	'미루적거리다'.
+k	미미적대다	mimijeokdaeda	
+k	미생물학	misaengmulhak	microbiology
+k	미세공격	misegonggyeok	
+k	미소를 짓다	misoreuljitda	
+k	미안스럽다	mianseureopda	다른 사람에게 일어난 일이나 또는 자신이 한 …
+k	미욱스럽다	miukseureopda	
+k	미운 오리 새끼	miunorisaekki	
+k	미적거리다	mijeokgeorida	무거운 것을 조금씩 앞으로 밀다.
+k	미적미적	mijeongmijeok	
+k	미적쾌감	mijeokkwaegam	
+k	미주신경	mijusingyeong	
+k	미켈란젤로	mikellanjello	
+k	미토콘드리아	mitokondeuria	
+k	미풍양속	mipungyangsok	
+k	믹스더블	mikseudeobeul	
+k	민간 설화	minganseolhwa	
+k	민간설화	minganseolhwa	
+k	민궁재갈	mingungjaegal	
+k	민권운동	mingwonundong	
+k	민멸되다	minmyeoldoeda	
+k	민물가마우지	minmulgamauji	The great cormorant, Phal…
+k	민생물자	minsaengmulja	
+k	민속무용	minsongmuyong	
+k	민스트럴	minseuteureol	
+k	민전갱이	minjeongaengi	전갱잇과의 물고기.
+k	민족말살	minjongmalsal	
+k	민족문화	minjongmunhwa	
+k	민족상잔	minjoksangjan	
+k	민족양식	minjogyangsik	
+k	민족자결	minjokjagyeol	
+k	민족정기	minjokjeonggi	
+k	민족종교	minjokjonggyo	
+k	민주 정체	minjujeongche	
+k	민주정체	minjujeongche	
+k	민주정치	minjujeongchi	
+k	민주화되다	minjuhwadoeda	to become democratized
+k	민중운동	minjungundong	민중이 어떠한 목적을 달성하기 위하여 하는 운…
+k	민중의 적	minjunguijeok	
+k	민중재판	minjungjaepan	
+k	민첩성	mincheopseong	agility, nimbleness
+k	밀렵되다	millyeopdoeda	to be poached
+k	밀봉교육	milbonggyoyuk	
+k	밀어상통	mireosangtong	
+k	밀원식물	mirwonsingmul	
+k	밀크셰이크	milkeusyeikeu	
+e	microbiologist	microbiologist	1 meaning
+e	microeconomics	microeconomics	1 meaning
+e	microprocessor	microprocessor	1 meaning
+e	middle schooler	middleschooler	1 meaning
+e	militarization	militarization	1 meaning
+e	military parade	militaryparade	1 meaning
+e	military police	militarypolice	1 meaning
+e	military school	militaryschool	1 meaning
+e	milking machine	milkingmachine	1 meaning
+e	minkowski space	minkowskispace	1 meaning
+e	miscalculation	miscalculation	1 meaning
+e	misinformation	misinformation	1 meaning
+e	mistranslation	mistranslation	1 meaning
+j	みぎかたさがり	migikatasagari	数値が時間と共に減少していくこと。グラフに起こすと…
+j	みだりがわしい	midarigawashii	淫らである。如何わしい。
+j	みやまくわがた	miyamakuwagata	甲虫目クワガタムシ科ミヤマクワガタ属に属するくわが…
+j	みわたすかぎり	miwatasukagiri	目が届く範囲すべて。
+j	ミクロコスモス	mikurokosumosu	microcosm
+j	ミシシッピ州	mishishippishu	the full form of ミシシッピ (“…
+j	ミズハタネズミ	mizuhatanezumi	
+j	ミセス・ワタナベ	misesuwatanabe	
+j	ミッシングリンク	misshingurinku	
+j	ミッドランズ東部	middoranzutobu	
+j	ミッドランド東部	middorandotobu	
+j	ミナミイシガメ	minamiishigame	イシガメ科イシガメ属のカメ。基亜種とヤエヤマイシガ…
+j	ミナミクロガラ	minamikurogara	
+j	ミナミコアリクイ	minamikoarikui	southern tamandua, Tamand…
+j	ミナミジャガーネコ	minamijaganeko	
+j	ミニ新幹線	minishinkansen	mini-shinkansen (conventi…
+j	ミリタリーモデル	miritarimoderu	軍用列車、軍用車両、軍艦、軍用機といった兵器や銃な…
+j	ミンストレル・ショー	minsutorerusho	
+j	ミントチョコレート	mintochokoreto	
+j	ミートアンドグリート	mitoandogurito	meet-and-greet (event whe…
+j	南アルタイ語	minamiarutaigo	ロシアの南部などで話されている、アルタイ諸語に属す…
+j	南コタバト	minamikotabato	
+j	南コーカサス	minamikokasasu	
+j	南シナ海	minamishinakai	the South China Sea
+j	南ベトナム	minamibetonamu	South Vietnam (a former s…
+j	南ローデシア	minamirodeshia	
+j	南回帰線	minamikaikisen	the Tropic of Capricorn
+j	南大西洋	minamitaiseiyo	大西洋のうち南半球に位置する部分。
+j	南太平洋	minamitaiheiyo	太平洋のうち南半球に位置する部分。
+j	南支那海	minamishinakai	
+j	南樺太	minamikarafuto	the southern part of Sakh…
+j	南足柄	minamiashigara	a city in Kanagawa Prefec…
+j	御台盤所	midaibandokoro	大臣、大将、将軍の妻に対する敬称。御台所。御台。
+j	御手洗団子	mitarashidango	和菓子のひとつ。数個の団子を串に刺して、砂糖醤油の…
+j	惨めに暮らす	mijimenikurasu	
+j	民主主義者	minshushugisha	democrat
+j	民俗誌学	minzokushigaku	ethnography - the branch …
+j	民族主義の	minzokushugino	
+j	水も漏らさぬ	mizumomorasanu	厳重に警戒している様子。
+j	水を積み込む	mizuotsumikomu	
+j	水畑鼠	mizuhatanezumi	a European water vole (Ar…
+j	緑のおばさん	midorinoobasan	
+j	緑の髪の	midorinokamino	
+j	緑蜂食	midorihachikui	
+j	耳の聞こえない	miminokikoenai	
+j	蜜蜂学	mitsubachigaku	蜜蜂について研究する蜂学の一分野。
+j	見かけによらず	mikakeniyorazu	in contrast to (one's, it…
+j	見掛け倒しの	mikakedaoshino	
+j	見渡す限り	miwatasukagiri	as far as the eye can see
+j	見立て殺人	mitatesatsujin	an allusive murder (murde…
+j	身から出た錆	mikaradetasabi	reap what one sows, getti…
+j	身分証明書	mibunshomeisho	identification papers; ID…
+k	미각신경	migaksingyeong	
+k	미국흰죽지	migukhuinjukji	The redhead duck, Aythya …
+k	미끄럼틀	mikkeureomteul	앉아서 미끄러져 내려오도록 비스듬하게 만든 어…
+k	미끈거리다	mikkeungeorida	미끄럽고 번드러워서 자꾸 밀리어 나가다.
+k	미끈망둑	mikkeunmangduk	The flat-headed goby, Luc…
+k	미끈미끈	mikkeunmikkeun	
+k	미끌거리다	mikkeulgeorida	
+k	미끌미끌	mikkeulmikkeul	
+k	미네스트로네	mineseuteurone	
+k	미니컴퓨터	minikeompyuteo	minicomputer
+k	미래영겁	miraeyeonggeop	
+k	미리개질하다	mirigaejilhada	
+k	미성년자	miseongnyeonja	minor; juvenile
+k	미성숙하다	miseongsukhada	to be immature
+k	미소정책	misojeongchaek	
+k	미완성하다	miwanseonghada	물건이나 모양 만드는 것을 채 끝내지 못하다.
+k	미인박명	miinbangmyeong	잘 생긴 여자의 삶은 순조롭지 못하고 탈이 많…
+k	미적감정	mijeokgamjeong	
+k	미적내용	mijeongnaeyong	
+k	미적지근히	mijeokjigeunhi	
+k	미츳미츳	micheunmicheut	
+k	민간방송	minganbangsong	
+k	민간은행	minganeunhaeng	
+k	민간항공	minganhanggong	
+k	민꽃열매	minkkocheolmae	synonym of 은화과(隱花果) (eunh…
+k	민숭민숭	minsungminsung	
+k	민족 정치	minjokjeongchi	
+k	민족언어학	minjogeoneohak	
+k	민족음악학	minjogeumakhak	
+k	민족정신	minjokjeongsin	
+k	민족청소	minjokcheongso	
+k	민주사회주의	minjusahoejuui	democratic socialism
+k	민주정당	minjujeongdang	
+k	민주집중제	minjujipjungje	
+k	밀가루제빵	milgarujeppang	(음식) '과자'의 북한말.
+k	밀룽밀룽	millungmillung	
+k	밀리세컨드	millisekeondeu	
+k	밀월여행	mirworyeohaeng	
+e	microaggression	microaggression	1 meaning
+e	microcontroller	microcontroller	1 meaning
+e	might makes right	mightmakesright	1 meaning
+e	military academy	militaryacademy	2 meanings
+e	military service	militaryservice	1 meaning
+e	missing in action	missinginaction	1 meaning
+j	みずのとひつじ	mizunotohitsuji	十干十二支の20番目。きび。
+j	みのほどしらず	minohodoshirazu	自分の身分・能力などを弁えないこと。また、その人。
+j	ミクロネシア人	mikuroneshiajin	ミクロネシア連邦国籍を持つ人、ミクロネシア連邦出身…
+j	ミシシッピ川	mishishippigawa	
+j	ミシシッピ鰐	mishishippiwani	American alligator
+j	ミックスダブルス	mikkusudaburusu	
+j	ミルクチョコレート	mirukuchokoreto	Chocolate that includes m…
+j	ミンコフスキー時空	minkofusukijiku	Minkowski spacetime
+j	三趾鴎	mitsuyubikamome	
+j	南カロライナ	minamikaroraina	
+j	南コルシカ	minamikorushika	
+j	南サルディニア	minamisarudinia	
+j	南サルデーニャ	minamisarudenya	
+j	南スラブ人	minamisurabujin	「南スラヴ人」の表記揺れ。
+j	南スラヴ人	minamisuravujin	スラヴ人のうち南側に暮らす人々。スロベニア人、セル…
+j	右から左へ	migikarahidarie	
+j	密入国者	mitsunyukokusha	illegal immigrant
+j	民主カンプチア	minshukanpuchia	Democratic Kampuchea
+j	民主集中制	minshushuchusei	
+j	民族主義者	minzokushugisha	民族主義の立場をとりそれを主張する者。
+j	民族起源論	minzokukigenron	ethnogenesis
+j	水の泡となる	mizunoawatonaru	これまで努力していたことが全て無駄となる。
+j	水も滴る	mizumoshitataru	to be splendidly handsome…
+j	深山川蜻蛉	miyamagawatonbo	Calopteryx cornelia (a sp…
+j	癸未	mizunotohitsuji	Water Sheep, the twentiet…
+j	緑花椰菜	midorihanayasai	「ブロッコリー」の別名。
+j	緑花野菜	midorihanayasai	synonym of ブロッコリー (burokk…
+j	耳を傾ける	mimiokatamukeru	to listen carefully
+j	蜜月旅行	mitsugetsuryoko	蜜月にする旅行。新婚旅行。
+j	見かけによらない	mikakeniyoranai	
+j	見かけの二重星	mikakenonijusei	
+j	身につまされる	minitsumasareru	他人の境遇が自分に思い合わさって同情・哀切の念が起…
+j	身の毛がよだつ	minokegayodatsu	恐怖や寒さなどのため身体中の毛が立つ。
+j	身の毛が弥立つ	minokegayodatsu	「身の毛がよだつ」の異表記。
+j	身の毛が彌立つ	minokegayodatsu	「身の毛がよだつ」の異表記。旧字体を用いた表記。
+j	身の毛もよだつ	minokemoyodatsu	
+k	미국나팔꽃	migungnapalkkot	Ipomoea hederacea (ivy-le…
+k	미국흰두루미	migukhuindurumi	
+k	미끄덕대다	mikkeudeokdaeda	
+k	미끄덩하다	mikkeudeonghada	몹시 미끄러워서 한 번 넘어질 듯 밀리어 나가…
+k	미끈둥하다	mikkeundunghada	
+k	미나스제라이스	minaseujeraiseu	
+k	미루적거리다	mirujeokgeorida	해야 할 일이나 날짜 따위를 자꾸 미루어 시간…
+k	미미적거리다	mimijeokgeorida	
+k	미생물학자	misaengmulhakja	
+k	미숙련공	misungnyeongong	
+k	미시경제학	misigyeongjehak	
+k	미역냉국	miyeongnaengguk	wakame naengguk
+k	미완성되다	miwanseongdoeda	아직 덜 되다.
+k	미인 콘테스트	miinkonteseuteu	
+k	미적관념	mijeokgwannyeom	
+k	미적생활	mijeoksaenghwal	
+k	미확인동물	mihwagindongmul	
+k	민간전승	minganjeonseung	
+k	민권확장	mingwonhwakjang	
+k	민사소송법	minsasosongbeop	
+k	민영화하다	minyeonghwahada	to privatize
+k	민족사회주의	minjoksahoejuui	National Socialism
+k	민족중흥	minjokjungheung	
+k	민주 공화국	minjugonghwaguk	국민에게 주권이 있으며, 국민이 뽑은 사람이 …
+k	민트 초콜릿	minteuchokollit	mint chocolate
+k	밀크 초콜릿	milkeuchokollit	
+k	밉살스럽다	mipsalseureopda	보기에 말이나 행동이 남에게 몹시 미움을 받을…
+e	middle income trap	middleincometrap	1 meaning
+e	military exercise	militaryexercise	1 meaning
+e	minority language	minoritylanguage	1 meaning
+e	miscommunication	miscommunication	1 meaning
+e	misunderstanding	misunderstanding	1 meaning
+e	mixed martial arts	mixedmartialarts	1 meaning
+j	みにくいアヒルの子	minikuiahirunoko	
+j	ミクロ経済学	mikurokeizaigaku	家計や企業の個々の経済活動の分析から理論を構築する…
+j	ミントチョコチップ	mintochokochippu	
+j	南アジア語族	minamiajiagozoku	synonym of オーストロアジア語族
+j	南アフリカ人	minamiafurikajin	
+j	南オーストラリア	minamiosutoraria	South Australia (a state …
+j	南カマリネス	minamikamarinesu	Camarines Sur (a province…
+j	南ヨーロッパ史	minamiyoroppashi	世界史の中における南ヨーロッパに関係する事柄を総合…
+j	南象海豹	minamizoazarashi	a southern elephant seal
+j	右クリックメニュー	migikurikkumenyu	コンピュータで、右クリックしたときに表示されるメニ…
+j	未来完了時制	miraikanryojisei	
+j	民族言語学	minzokugengogaku	
+j	水信玄餅	mizushingenmochi	
+j	水先案内人	mizusakiannainin	水先人の旧称。
+j	水呑百姓	mizunomibyakusho	江戸時代、自ら田畑を持たず年貢を負担していない農民…
+j	魅惑的な女	miwakutekinaonna	
+k	미 항공 우주국	mihanggongujuguk	
+k	미국령 사모아	migukryeongsamoa	
+k	미국수리부엉이	miguksuribueongi	
+k	미국표준대기	migukpyojundaegi	미국에서 정한 표준대기.
+k	미끄덩대다	mikkeudeongdaeda	'미끄덩거리다'.
+k	미끈둥대다	mikkeundungdaeda	'미끈둥거리다'.
+k	미련스럽다	miryeonseureopda	터무니없는 고집을 부릴 정도로 매우 어리석고 …
+k	미세플라스틱	misepeullaseutik	
+k	미적지근하다	mijeokjigeunhada	to be lukewarm
+k	미친갯병	michingaetbyeong	'광견병'.
+k	민둥민둥히	mindungmindunghi	
+k	민소매 셔츠	minsomaesyeocheu	
+k	민숭민숭히	minsungminsunghi	
+k	민스트럴 쇼	minseuteureolsyo	
+k	민정헌법	minjeongheonbeop	
+k	민족통일주의	minjoktongiljuui	
+k	밀레이코프스키	milleikopeuseuki	
+k	밍그적대다	minggeujeokdaeda	
+e	mid-autumn festival	midautumnfestival	1 meaning
+e	milankovitch cycle	milankovitchcycle	1 meaning
+e	mineralocorticoid	mineralocorticoid	1 meaning
+e	minister of justice	ministerofjustice	1 meaning
+e	mint chocolate chip	mintchocolatechip	1 meaning
+e	misrepresentation	misrepresentation	1 meaning
+j	みどりの窓口	midorinomadoguchi	JR ticket counter
+j	みなみのかんむり座	minaminokanmuriza	南天の星座の一つで、トレミーの48星座の一つでもあ…
+j	みんなさんはありがとう	minnasanwaarigato	
+j	ミクロネシア連邦	mikuroneshiarenpo	Federated States of Micro…
+j	ミスコミュニケーション	misukomyunikeshon	
+j	ミナミスナヤツメ	minamisunayatsume	すなやつめの一種。学名は Lethenteron …
+j	ミニ独立国	minidokuritsukoku	mini-independent country
+j	ミミナガバンディクート	miminagabandikuto	
+j	南の冠座	minaminokanmuriza	
+j	南アフリカ英語	minamiafurikaeigo	南アフリカ共和国で話されている英語の変種。
+j	南アラビア連邦	minamiarabiarenpo	1959年から1967年までイエメン南部でアラビア…
+j	南スラヴ語群	minamisurabugogun	印欧語族スラヴ語派の語群の一つ。バルカン半島のブル…
+j	密室殺人	misshitsusatsujin	a locked-room murder (mur…
+j	未来完了進行	miraikanryoshinko	未来のある時点まで続いている動作を表す時制。
+j	民主社会主義	minshushakaishugi	democratic socialism
+j	緑錦蛇	midorinishikihebi	a green tree python
+j	蜜蜂学者	mitsubachigakusha	蜜蜂学について研究する科学者。
+j	見たままが得られる	mitamamagaerareru	
+j	見て見ぬふりをする	miteminufuriosuru	
+j	道の脇に寄る	michinowakiniyoru	
+j	魅惑的な女性	miwakutekinajosei	
+k	미끄덕거리다	mikkeudeokgeorida	
+k	미끈미끈한	mikkeunmikkeunhan	'미끈미끈하다'의 관형사형.
+k	미끈미끈함	mikkeunmikkeunham	'미끈미끈하다'의 명사형.
+k	미루적미루적	mirujeongmirujeok	
+k	미미적미미적	mimijeongmimijeok	
+k	미인 선발 대회	miinseonbaldaehoe	
+k	미적미적하다	mijeongmijeokhada	
+k	민중 그리스어	minjunggeuriseueo	
+k	밀랍 박물관	millapbangmulgwan	
+k	밀실공포증	milsilgongpojeung	synonym of 폐소공포증(閉所恐怖症) (…
+e	military government	militarygovernment	1 meaning
+e	misery loves company	miserylovescompany	1 meaning
+e	missionary position	missionaryposition	1 meaning
+j	南アフリカ連邦	minamiafurikarenpo	
+j	民事介入暴力	minjikainyuboryoku	暴力団員が一般市民の日常生活や経済取引に民事的権利…
+j	民族社会主義	minzokushakaishugi	synonym of ナチズム (Nachizum…
+j	民族統一主義	minzokutoitsushugi	irredentism
+j	緑の黒髪の	midorinokurokamino	
+j	蜜蜂の巣箱	mitsubachinosubako	
+k	미국 의회의사당	migukuihoeuisadang	
+k	미국흰불나방	migukhuinbullabang	fall webworm
+k	미끄덩거리다	mikkeudeonggeorida	몹시 미끄러워서 넘어질 듯 자꾸 밀리어 나가다.
+k	미끈둥거리다	mikkeundunggeorida	부드럽고 미끄러워서 자꾸 밀리어 나가다.
+k	미끈미끈하다	mikkeunmikkeunhada	
+k	미끌미끌하다	mikkeulmikkeulhada	
+k	미술품 감정가	misulpumgamjeongga	
+k	미츳미츳하다	micheunmicheuthada	
+k	민둥민둥하다	mindungmindunghada	
+k	민숭민숭하다	minsungminsunghada	
+k	믿음직스럽다	mideumjikseureopda	
+k	밀룽밀룽하다	millungmillunghada	
+k	밀치락달치락	milchirakdalchirak	
+k	밍그적거리다	minggeujeokgeorida	
+k	밑져야 본전이다	mitjeoyabonjeonida	to have nothing to lose (…
+e	miliary tuberculosis	miliarytuberculosis	1 meaning
+e	millimeter of mercury	millimeterofmercury	1 meaning
+e	mind one's own business	mindonesownbusiness	1 meaning
+j	みそかにつきがでる	misokanitsukigaderu	ありえないこと。起こるはずのないこと。
+j	ミステリークレイフィッシュ	misuterikureifisshu	ザリガニの一種の日本における通称。
+j	南奄美大島語	minamiamamioshimago	日本語族琉球語派北琉球語群に属し、奄美大島南部と周…
+j	未確認飛行物体	mikakuninhikobuttai	an unidentified flying ob…
+j	道の脇に寄せる	michinowakiniyoseru	
+k	미국 항공 우주국	migukhanggongujuguk	
+k	미국선녀벌레	migukseonnyeobeolle	citrus flatid planthopper…
+k	미래감지현상	miraegamjihyeonsang	
+k	미래진행완료	miraejinhaengwallyo	
+k	민트 초콜릿 칩	minteuchokollitchip	mint chocolate chip
+e	miscarriage of justice	miscarriageofjustice	1 meaning
+j	ミドルエイジクライシス	midorueijikuraishisu	
+j	ミネラロコルチコイド	minerarokoruchikoido	
+j	ミランコビッチ・サイクル	mirankobitchisaikuru	
+j	南スーダン共和国	minamisudankyowakoku	Republic of South Sudan (…
+j	右に曲がってください	miginimagattekudasai	
+j	右切り捨て可能素数	migikirisutekanososu	それ自身が素数であり、更に右から数字を順に取り除い…
+j	木乃伊取りが木乃伊になる	miratorigamiraninaru	the searcher becomes the …
+j	民族ボルシェヴィズム	minzokuborushevizumu	
+j	身を粉にして働く	miokonishitehataraku	
+k	미끄러져빼앗기	mikkeureojeoppaeatgi	(축구) '슬라이딩태클'의 북한말.
+k	미네랄코르티코이드	mineralkoreutikoideu	
+k	미크로네시아 연방	mikeuronesiayeonbang	태평양의 서남쪽에 흩어져 있는 여러 섬들로 이…
+k	믿을 수 없는 화자	mideulsueomneunhwaja	
+j	みずがめ座生まれの人	mizugamezaumarenohito	
+j	南マットグロッソ州	minamimattogurossoshu	
+k	미끄덕미끄덕	mikkeudeongmikkeudeok	
+k	미루적미루적하다	mirujeongmirujeokhada	
+k	미미적미미적하다	mimijeongmimijeokhada	
+k	미스커뮤니케이션	miseukeomyunikeisyeon	
+k	미완성 교향곡	miwanseonggyohyanggok	채 완성되지 못하고 남겨진 교향곡.
+k	미확인비행물체	mihwaginbihaengmulche	unidentified flying objec…
+k	밑 빠진 독에 물 붓기	mitppajindokemulbutgi	밑이 깨어진 독에 물을 아무리 부어도 그 독에…
+j	みなみアフリカきょうわこく	minamiafurikakyowakoku	南アフリカ共和国: Republic of Sou…
+j	ミシシッピアカミミガメ	mishishippiakamimigame	カメ目ヌマガメ科のカメ。原産地は北米だが、日本に持…
+j	南アフリカ共和国	minamiafurikakyowakoku	Republic of South Africa …
+k	미국장수도롱뇽	migukjangsudorongnyong	
+k	미끄덩미끄덩	mikkeudeongmikkeudeong	
+k	미끈둥미끈둥	mikkeundungmikkeundung	
+k	민물검정망둑	minmulgeomjeongmangduk	The trident goby, Trident…
+k	밀치락달치락하다	milchirakdalchirakhada	
+j	南ベトナム共和国	minamibetonamukyowakoku	1969年から1976年にかけてベトナムに存在した…
+j	右も左も分からない	migimohidarimowakaranai	初めての環境で何から始めていいかも分からない。
+k	밍그적밍그적	minggeujeongminggeujeok	
+j	道の傍の碑の文	michinokatawaranohinobun	素晴らしい文章。優れた文章。名文。
+e	military-industrial complex	militaryindustrialcomplex	1 meaning
+j	ミツクリエナガチョウチンアンコウ	mitsukurienagachochinanko	箕作柄長提灯鮟鱇: a triplewart se…
+j	箕作柄長提灯鮟鱇	mitsukurienagachochinanko	a triplewart seadevil (Cr…
+k	미끄덕미끄덕하다	mikkeudeongmikkeudeokhada	
+k	미라형변광성	mirahyeongbyeongwangseong	
+k	밀랍 인형 박물관	millapinhyeongbangmulgwan	
+k	미끄덩미끄덩하다	mikkeudeongmikkeudeonghada	
+k	미끈둥미끈둥하다	mikkeundungmikkeundunghada	
+j	水は方円の器に従う	mizuhahoennotsuwanishitagau	人は環境や交わり次第で善悪どちらにもなれるというこ…
+j	見ては極楽住んでは地獄	mitewagokurakusundewajigoku	what you see isn't always…
+k	밍그적밍그적하다	minggeujeongminggeujeokhada	
+j	見た目で人が殺せるのなら	mitamedehitogakoroserunonara	
+k	미국령 버진아일랜드	migungnyeongbeojinaillaendeu	
+k	미래의 크리스마스 유령	miraeuikeuriseumaseuyuryeong	
+e	middle east respiratory syndrome	middleeastrespiratorysyndrome	1 meaning
+j	導かれし者たち現象	michibikareshimonotachigensho	誰かが列に並ぶと、それに導かれるかのように他の人々…
+j	実るほど頭の下がる稲穂かな	minoruhodoatamanosagaruinahokana	great men act humble

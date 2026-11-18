@@ -1,0 +1,1822 @@
+e	ra	ra	1 meaning
+j	ら	ra	人をあらわす名詞について、他にも同種の人がいること…
+j	ラ	ra	西洋音楽の階名 長音階の第六音、短音階の第一音の名。
+j	ラー	ra	Ra, the sun god
+j	羅	ra	open-woven silk gauze, wh…
+j	螺	ra	any shellfish with a spir…
+k	라	ra	la (sixth note in the sol…
+e	rag	rag	2 meanings
+e	ram	ram	2 meanings
+e	rat	rat	1 meaning
+e	raw	raw	4 meanings
+e	rax	rax	1 meaning
+e	ray	ray	2 meanings
+j	らい	rai	雷: lightning
+j	ライ	rai	lie; the position of a ba…
+j	ラウ	rau	キセルの金属製の火皿と吸い口とをつなぐ竹製の管。ま…
+j	ラオ	rao	タイ北部からラオスにかけて分布する民族。
+j	ラン	ran	run (act or instance of r…
+j	乱	ran	chaos, disorder
+j	来	rai	next..., coming...
+j	欄	ran	column in a newspaper
+j	濫	ran	to overflow
+j	癩	rai	leprosy
+j	蘭	ran	an orchid
+j	襴	ran	horizontal strip of cloth…
+k	라오	rao	
+k	락	rak	
+k	란	ran	a distinct section of a n…
+k	람	ram	
+k	랍	rap	
+k	래	rae	
+e	race	race	8 meanings
+e	rack	rack	2 meanings
+e	rada	rada	1 meaning
+e	rade	rade	1 meaning
+e	raft	raft	2 meanings
+e	rage	rage	3 meanings
+e	raid	raid	1 meaning
+e	rail	rail	4 meanings
+e	rain	rain	5 meanings
+e	rake	rake	3 meanings
+e	rale	rale	1 meaning
+e	ramp	ramp	2 meanings
+e	rand	rand	1 meaning
+e	rank	rank	3 meanings
+e	rape	rape	2 meanings
+e	rare	rare	2 meanings
+e	rash	rash	1 meaning
+e	rasp	rasp	1 meaning
+e	rasŏn	rasn	1 meaning
+e	rate	rate	6 meanings
+e	rave	rave	1 meaning
+j	らいう	raiu	雷雨: thunderstorm
+j	らおん	raon	囉音: rales
+j	らく	raku	synonym of く (“nominaliza…
+j	らに	rani	synonym of 藤袴 (fujibakama…
+j	らむ	ramu	conjecture about a presen…
+j	らめ	rame	
+j	らる	raru	
+j	られ	rare	助動詞「られる」の未然形・連用形。
+j	ライアー	raia	
+j	ライン	rain	line (path through two or…
+j	ラガー	raga	ラグビー。
+j	ラグ	ragu	ずれ。遅れ。
+j	ラグー	ragu	ragout
+j	ラサ	rasa	Lhasa (the capital city o…
+j	ラジャー	raja	roger!
+j	ラス	rasu	モルタル塗、漆喰などの下地材。木摺、木舞。
+j	ラダ	rada	
+j	ラダー	rada	はしご。
+j	ラテ	rate	牛乳。
+j	ラバ	raba	(学術的表記)雄のロバと雌馬の交雑種。ミュール。
+j	ラバー	raba	愛人。恋人。
+j	ラビ	rabi	rabbi
+j	ラフ	rafu	rough sketch
+j	ラファ	rafa	
+j	ラブ	rabu	love
+j	ラボ	rabo	
+j	ラマ	rama	チベット仏教の高僧。
+j	ラミー	rami	ramie
+j	ラム	ramu	lamb (young sheep)
+j	ラメ	rame	lamé
+j	ラリ	rari	ジョージアの通貨。
+j	ラリー	rari	rally (strokes)
+j	ラヴ	ravu	
+j	ラーク	raku	
+j	ラージ	raji	大きい。
+j	ラージャー	raja	
+j	ラーダ	rada	
+j	ラード	rado	lard (fat from the abdome…
+j	ラーパー	rapa	
+j	ラープ	rapu	larb
+j	ラーユ	rayu	胡麻油などの植物油に唐辛子を入れて加熱し、唐辛子の…
+j	ラー油	rayu	「ラーユ」の漢字表記。
+j	乱鶯	rano	あちこちでうぐいすが鳴き乱れること。また、その鳴き…
+j	倮葬	raso	薄葬。
+j	卵黄	rano	egg yolk
+j	喇嘛	rama	lama
+j	囉音	raon	rales
+j	来意	raii	reason, purpose for one's…
+j	来桜	raio	coming to Sacramento
+j	楽	raku	comfortable, enjoying
+j	洛	raku	capital city
+j	羅和	rawa	ラテン語と日本語。
+j	羅府	rafu	Los Angeles (a large city…
+j	羅港	rako	Port of Los Angeles (a po…
+j	羅語	rago	ラテン語（羅甸語）の略称。
+j	蘭医	rani	江戸時代、蘭国（オランダ）から伝来した医術。また、…
+j	蘿窓	raso	蔦や葛が這いかかった窓。
+j	裸像	razo	絵画や彫刻などの、裸体の人間の像。
+j	裸婦	rafu	nude woman
+j	裸花	raka	無花被花。
+j	裸葬	raso	裸のまま葬ること。
+j	裸馬	raba	鞍を付けない馬。
+j	辣油	rayu	chili oil
+j	酪	raku	fermented milk (such as f…
+j	雷雨	raiu	a thunderstorm
+j	騾馬	raba	a mule (offspring of male…
+k	라고	rago	앞에 든 말을 직접 받아 인용할 때 쓴다. 앞…
+k	라니	rani	
+k	라다	rada	
+k	라도	rado	(‘이다’, ‘아니다’의 어간이나 어미 ‘-으…
+k	라라	rara	'더구나'의 제주도 사투리.
+k	라마	rama	lama
+k	라야	raya	
+k	라인	rain	line
+k	라임	raim	lime (fruit)
+k	라자	raja	
+k	라지	raji	
+k	라파	rapa	
+k	랑	rang	어떤 행동을 함께 하거나 상대로 하는 대상임을…
+k	랙	raek	영어 rack의 한국어 표기이다. 뭔가를 올려…
+k	램	raem	RAM (memory)
+k	랩	raep	rap music
+e	rabat	rabat	1 meaning
+e	rabbi	rabbi	1 meaning
+e	rabi i	rabii	1 meaning
+e	racer	racer	1 meaning
+e	radar	radar	1 meaning
+e	radio	radio	2 meanings
+e	radix	radix	2 meanings
+e	radon	radon	1 meaning
+e	rafah	rafah	2 meanings
+e	rainy	rainy	1 meaning
+e	raise	raise	2 meanings
+e	rajab	rajab	1 meaning
+e	rajah	rajah	1 meaning
+e	rajin	rajin	1 meaning
+e	raksi	raksi	1 meaning
+e	rally	rally	3 meanings
+e	ralph	ralph	1 meaning
+e	ramah	ramah	1 meaning
+e	ramen	ramen	1 meaning
+e	ramie	ramie	2 meanings
+e	ranch	ranch	1 meaning
+e	range	range	2 meanings
+e	rangy	rangy	1 meaning
+e	rapid	rapid	2 meanings
+e	raqqa	raqqa	1 meaning
+e	ratio	ratio	2 meanings
+e	raven	raven	1 meaning
+e	rayon	rayon	1 meaning
+e	razor	razor	2 meanings
+j	らいほう	raiho	来訪: visit
+j	らしゅう	rashu	羅袖: lightweight-fabric sl…
+j	らち	rachi	埒: a fence built around a…
+j	らっか	rakka	
+j	らっこ	rakko	ネコ目イタチ科カワウソ亜科ラッコ属に属する哺乳動物…
+j	らっぱ	rappa	トランペット、トロンボーン等の金管楽器の俗称。ラッ…
+j	らてい	ratei	裸裎: naked; extreme rudene…
+j	らでん	raden	螺鈿: mother-of-pearl
+j	らんすう	ransu	乱数: random number
+j	ら行	ragyo	the ninth row of the 五十音図…
+j	ライアン	raian	
+j	ライオン	raion	a lion
+j	ライガー	raiga	a liger
+j	ライス	raisu	rice, more specifically c…
+j	ライター	raita	a lighter (fire making de…
+j	ライダー	raida	rider (someone who rides)
+j	ライト	raito	a right (to do something)…
+j	ライナー	raina	liner
+j	ライヒ	raihi	
+j	ライフ	raifu	life
+j	ライブ	raibu	live performance (of musi…
+j	ライマ	raima	Lima (in the US)
+j	ライム	raimu	lime
+j	ライヴ	raivu	live; something that is l…
+j	ラウス	rausu	Louth (a county of Irelan…
+j	ラオの	raono	
+j	ラオス	raosu	Laos (a country in Southe…
+j	ラオ語	raogo	ラーオ語に同じ。
+j	ラクア	rakua	rak'a
+j	ラグい	ragui	laggy
+j	ラグーン	ragun	a lagoon
+j	ラシャ	rasha	felt (the type of cloth)
+j	ラジオ	rajio	radio
+j	ラヂオ	rajio	ラジオの表記揺れ。主に歴史的仮名遣いが使われていた…
+j	ラッカ	rakka	
+j	ラッカー	rakka	セルロース誘導体を溶剤に溶かし、樹脂、可塑剤、顔料…
+j	ラッキー	rakki	lucky
+j	ラック	rakku	天然樹脂。
+j	ラッコ	rakko	猟虎, 獺虎, 海獺: a sea otter
+j	ラット	ratto	ネズミのうち大型で有害なもの。クマネズミやドブネズ…
+j	ラッド	raddo	
+j	ラッパ	rappa	一般的に現在金管楽器といわれるもののこと。特にトラ…
+j	ラッパー	rappa	rapper (hip-hop artist)
+j	ラップ	rappu	rap music
+j	ラテン	raten	Latin American, Latino
+j	ラドン	radon	radon
+j	ラミアー	ramia	
+j	ラユーン	rayun	
+j	ランウエー	ranue	
+j	ランク	ranku	rank (position on a list)
+j	ラング	rangu	langue
+j	ランゲ	range	
+j	ランサ	ransa	
+j	ランジ	ranji	片方の足を膝を曲げて前に伸ばし、もう片方の足を後ろ…
+j	ランス	ransu	円錐状で先が尖った槍の一種で、西洋の刺突武器。
+j	ランダー	randa	
+j	ランド	rando	land (area of earth)
+j	ランナー	ranna	runner (athlete)
+j	ランプ	ranpu	a western-style oil lamp
+j	ラーオ語	raogo	Lao; Laotian (language)
+j	ラーダン	radan	フェミニスト言語学の実験として設計された構築された…
+j	ラーメン	ramen	ramen, a type of Chinese-…
+j	ラ変	rahen	ラ行変格活用の略。
+j	乱交	ranko	orgy, promiscuity
+j	乱僧	ranso	「濫僧」の別表記。
+j	乱党	ranto	政権に抵抗し、反乱をおこす党派や仲間。
+j	乱声	ranjo	舞楽で用いられる笛の調べ。
+j	乱妨	ranbo	暴力で荒らし、掠奪すること。
+j	乱序	ranjo	lively prelude for severa…
+j	乱打	randa	hitting; battering
+j	乱抖	ranto	跳ねまわること。
+j	乱数	ransu	random number (any of a s…
+j	乱暴	ranbo	rude, violent, rough, dis…
+j	乱歩	ranpo	a male given name
+j	乱気	ranki	気が狂うこと。発狂。
+j	乱波	rappa	A spy. Especially, during…
+j	乱淫	ranin	節度を持たず情欲に溺れること。また、そのようなさま。
+j	乱用	ranyo	misuse, abuse
+j	乱舞	ranbu	入り乱れて踊ること。踊り狂うこと。
+j	乱道	rando	妄言。
+j	乱闘	ranto	fray, free-for-all, confu…
+j	乱頭	ranto	乱れ髪。
+j	乱飲	ranin	（酒などを）過度に飲むこと。
+j	乱麻	ranma	a tangled cord or string
+j	卵塔	ranto	主に禅宗の僧の墓で使用される台座のうえに玉子の形を…
+j	卵巣	ranso	ovary (female organ)
+j	卵胞	ranpo	卵巣皮質にある卵細胞、卵胞上皮細胞からなる組織。
+j	喇叭	rappa	trumpet
+j	埒	rachi	a fence built around a st…
+j	婪沓	ranto	貪ること。
+j	嬾惰	randa	何もしないで時間を無駄に過ごすこと。
+j	嵐気	ranki	湿気を含んだ山の空気。
+j	懶惰	randa	lazy
+j	拉致	rachi	abduction
+j	攬統	ranto	総覧すること。
+j	攬要	ranyo	要点をかい摘まむこと。
+j	来世	raise	the hereafter, the next w…
+j	来付	raifu	来て服従すること。来服。
+j	来住	raiju	その土地へ来て住むこと。
+j	来佐	raisa	佐賀県へ来ること。
+j	来光	raiko	山の頂上からの日の出。普通、「御」を付けて言う。
+j	来冬	raito	next winter
+j	来同	raido	ある場所などに来て集合すること。
+j	来園	raien	visit or arrival to an 園 …
+j	来場	raijo	attendance
+j	来塔	raito	タワー（塔）に客が来ること。
+j	来夏	raika	next summer
+j	来季	raiki	来年における同じ季節。
+j	来岐	raiki	岐阜県へ来ること。
+j	来島	raito	島の外からその島に来ること。
+j	来広	raiko	広島県へ来ること。
+j	来援	raien	来て援助、救援すること。
+j	来期	raiki	next period
+j	来桑	raiso	coming to San Francisco
+j	来構	raiko	大学などの構内に来ること。
+j	来港	raiko	船が港に入ること。船舶の入港。
+j	来演	raien	その地に来て、演劇や演奏をすること。
+j	来熊	raiyu	熊本県へ来ること。
+j	来状	raijo	他人から来た手紙。来書。来信。
+j	来由	raiyu	由来。いわれ。来歴。
+j	来示	raiji	書き手に敬意を表し、その書状や書簡の内容をさす語。
+j	来羅	raira	coming to Los Angeles
+j	来航	raiko	arrival by boat from a fo…
+j	来茲	raiji	来年。
+j	来葉	raiyo	千葉県へ来ること。
+j	来葬	raiso	葬式に参列すること。葬儀の会場へ来ること。
+j	来訪	raiho	visit
+j	来諭	raiyu	相手が言ってきたことに対する尊敬語。
+j	来貢	raiko	外国から朝貢に来ること。
+j	来賀	raiga	来て祝賀を述べること。
+j	来路	rairo	それまで通ってきた道。
+j	来迎	raigo	welcoming
+j	来遊	raiyu	遊びに来ること。また、来て遊ぶこと。
+j	来道	raido	北海道に来ること。（地方紙や自治体の広報でよく使わ…
+j	来附	raifu	来て服従すること。来服。
+j	来降	raiko	降伏（投降）すること。
+j	来院	raiin	「院」がつく施設に来ること。
+j	来高	raiko	高知県へ来ること。
+j	欄間	ranma	a decorative wood carving…
+j	欄頭	ranto	手摺の上やそば。
+j	欖糖	ranto	橄欖の樹脂。
+j	海獺	rakko	sea otter, Enhydra lutris
+j	濫僧	ranso	破戒僧など僧侶としての資格を欠くような僧。
+j	濫喩	ranyu	
+j	濫妨	ranbo	暴力で荒らし、掠奪すること。
+j	濫淫	ranin	節度を持たず情欲に溺れること。また、そのようなさま。
+j	濫用	ranyo	限度を弁えず、濫りに用いること。
+j	濫行	ranko	みだりに行うこと。
+j	濫飲	ranin	（酒などを）過度に飲むこと。
+j	瀾倒	ranto	波が逆巻くさま。狂瀾。
+j	瀾濤	ranto	大波。
+j	猟虎	rakko	a sea otter
+j	磊砢	raira	石が重なっているさま。
+j	磥砢	raira	「磊砢」の別表記。
+j	礧砢	raira	「磊砢」の別表記。
+j	礼堂	raido	本堂、金堂などの前に建てられた礼拝をするための堂。
+j	礼記	raiki	the Book of Rites
+j	罍斝	raika	酒樽。
+j	罍觚	raiko	酒器。
+j	羅先	rason	
+j	羅南	ranan	Ranam (a district of Chon…
+j	羅宇	raosu	dated spelling of ラオス (Ra…
+j	羅患	rakan	「罹患」の誤り。
+j	羅漢	rakan	「阿羅漢」の略。
+j	羅米	rabei	Latin America (a continen…
+j	羅紗	rasha	「ラシャ」の漢字表記。
+j	羅袖	rashu	lightweight-fabric sleeve
+j	耒耕	raiko	鋤き、耕すこと。
+j	耒部	raibu	部首「⽾」で分類した漢字の一群。
+j	臠刀	ranto	肉を切る包丁。
+j	落下	rakka	falling, a fall
+j	落花	rakka	散って落ちた花。
+j	藍藻	ranso	blue-green algae, Cyanoba…
+j	蘭交	ranko	心が通じあった友人関係。蘭契。
+j	蘭印	ranin	オランダ領東インドの略称。
+j	蘭和	ranwa	オランダ語と日本語。「蘭和辞典」。
+j	蘭塔	ranto	主に禅宗の僧の墓で使用される台座のうえに玉子の形を…
+j	蘭方	ranpo	江戸時代、蘭国（オランダ）から伝来した医術。
+j	蘭気	ranki	蘭から発せられる香気。
+j	蘭湯	ranto	蘭の葉を入れて沸かした風呂。
+j	蘭灯	ranto	蘭のように美しい灯火。
+j	蘭燈	ranto	蘭のように美しい灯火。
+j	蘭膏	ranko	蘭の芳香がするあぶら。
+j	蘭語	rango	Dutch language
+j	螺旋	rasen	a helix, a spiral
+j	螺線	rasen	巻き貝のような渦巻き状の線。スパイラル。
+j	螺鈿	raden	mother-of-pearl inlay, of…
+j	裸体	ratai	naked body
+j	裸形	ragyo	人間が体に何も身に着けていない姿。また、そのような…
+j	裸眼	ragan	naked eye (eyesight, unai…
+j	裸裎	ratei	naked
+j	裸體	ratai	
+j	襤褸	ranru	torn clothes, ragged clot…
+j	賚功	raiko	論功。
+j	辣	ratsu	spicy
+j	鑾刀	ranto	鸞刀。
+j	雷光	raiko	lightning
+j	雷公	raiko	thunder
+j	雷動	raido	激しい雷鳴のようにどよめき、騒ぐこと。
+j	雷吼	raiko	雷鳴。
+j	雷子	raiko	a female given name
+j	雷斧	raifu	遺物として発掘された石斧を雷神の遺物と考えたもの。
+j	雷汞	raiko	mercury(II) fulminate
+j	雷獣	raiju	thunder beast
+j	雷轟	raigo	雷の音。
+j	雷雲	raiun	synonym of 積乱雲 (sekiran'u…
+j	雷音	raion	
+j	雷鼓	raiko	雷神が持つ太鼓。雷が鳴る音。
+j	鸞刀	ranto	切っ先に鸞鈴を付けた刀。中国で宗廟に供える犠牲を割…
+j	鸞和	ranwa	馬車に取り付ける鈴。
+j	鸞幢	rando	幢。
+j	鸞旗	ranki	天子が掲げる旗。
+j	鸞輿	ranyo	the Imperial palanquin
+j	鸞鳳	ranho	luanniao and fenghuang
+k	라군	ragun	
+k	라돈	radon	radon
+k	라드	radeu	
+k	라디오	radio	radio
+k	라떼	ratte	
+k	라멘	ramen	instant noodle
+k	라미아	ramia	
+k	라발	rabal	
+k	라벨	rabel	label (small ticket or si…
+k	라서	raseo	('이다', '아니다'의 어간이나 어미 '-으…
+k	라식	rasik	LASIK
+k	라싸	rassa	중국에 속해 있는 티베트와 티베트 자치구의 주…
+k	라오어	raoeo	Lao; Laotian (language)
+k	라이다	raida	전파에 가까운 성질을 가진 레이저광선을 사용하…
+k	라이타	raita	'라이터'의 비규범 표기.
+k	라이히	raihi	
+k	라지오	rajio	radio
+k	라진	rajin	
+k	라켓	raket	racket
+k	라크	rakeu	
+k	라텔	ratel	honey badger
+k	라틴	ratin	Latin; Latino
+k	라한	rahan	
+k	라헬	rahel	
+k	라화	rahwa	
+k	락사	raksa	laksa (a spicy stew from …
+k	락인	ragin	'낙인'의 북한말과 연변말.
+k	락지	rakji	
+k	락타	rakta	North Korea standard spel…
+k	락하	rakha	'낙하'의 북한말과 연변말.
+k	락후	rakhu	낙후의 북한말과 연변말.
+k	란다	randa	
+k	란사	ransa	
+k	란소	ranso	
+k	란시	ransi	North Korea standard spel…
+k	란자	ranja	
+k	란타	ranta	
+k	란투	rantu	
+k	람다	ramda	그리스어 알파벳의 열한째 글자, Λ / λ. …
+k	랍비	rapbi	rabbi
+k	랍티	rapti	
+k	래야	raeya	
+k	래일	raeil	North Korea standard spel…
+k	랭	raeng	
+e	rabaul	rabaul	1 meaning
+e	rabbit	rabbit	2 meanings
+e	rabble	rabble	2 meanings
+e	rabi ii	rabiii	1 meaning
+e	rabies	rabies	1 meaning
+e	raceme	raceme	1 meaning
+e	rachel	rachel	1 meaning
+e	racing	racing	1 meaning
+e	racism	racism	1 meaning
+e	racist	racist	2 meanings
+e	racket	racket	1 meaning
+e	radian	radian	1 meaning
+e	radish	radish	2 meanings
+e	radium	radium	1 meaning
+e	radius	radius	3 meanings
+e	raffle	raffle	1 meaning
+e	rafter	rafter	1 meaning
+e	ragout	ragout	1 meaning
+e	ragusa	ragusa	2 meanings
+e	raipur	raipur	1 meaning
+e	raisin	raisin	1 meaning
+e	rajkot	rajkot	1 meaning
+e	rakugo	rakugo	1 meaning
+e	ramjet	ramjet	1 meaning
+e	ramrod	ramrod	1 meaning
+e	ramune	ramune	1 meaning
+e	ranchi	ranchi	1 meaning
+e	random	random	6 meanings
+e	ranger	ranger	1 meaning
+e	ransom	ransom	1 meaning
+e	rapier	rapier	1 meaning
+e	rapist	rapist	1 meaning
+e	rapper	rapper	1 meaning
+e	rarely	rarely	1 meaning
+e	rascal	rascal	1 meaning
+e	rather	rather	3 meanings
+e	ratify	ratify	1 meaning
+e	rating	rating	1 meaning
+e	ration	ration	1 meaning
+e	rattle	rattle	2 meanings
+e	ravine	ravine	1 meaning
+e	rawson	rawson	1 meaning
+e	ray gun	raygun	1 meaning
+j	らいきょう	raikyo	来京: coming to a capital; …
+j	らいはん	raihan	来阪: coming to Ōsaka
+j	らくえん	rakuen	楽園: paradise
+j	らしい	rashii	to be like or equivalent …
+j	らっかん	rakkan	楽観: optimism
+j	らっきょう	rakkyo	（「辣韮(韭)」の読み「らくきゅう・らっきゅう」が…
+j	られる	rareru	Makes the passive voice.
+j	られれ	rarere	助動詞「られる」の仮定形。
+j	らんちゅう	ranchu	蘭鋳, 蘭虫, 卵虫: a ranchu
+j	ら抜き	ranuki	
+j	ライギョ	raigyo	
+j	ライチ	raichi	lychee (fruit)
+j	ライチョウ	raicho	キジ目ライチョウ科ライチョウ属に属する鳥の一種。学…
+j	ライデン	raiden	
+j	ラウンジ	raunji	lounge
+j	ラウンド	raundo	round
+j	ラオチュー	raochu	中国で穀物と薬草を原料としてつくられた醸造酒の総称。
+j	ラクサ	rakusa	laksa (a spicy stew from …
+j	ラクダ	rakuda	哺乳綱・クジラ偶蹄目・ラクダ亜目・ラクダ科・ラクダ…
+j	ラグビー	ragubi	rugby (a sport where play…
+j	ラグーザ	raguza	
+j	ラケル	rakeru	Rachel (younger daughter …
+j	ラゴス	ragosu	Lagos (a port and former …
+j	ラザロ	razaro	Lazarus
+j	ラジアン	rajian	radian
+j	ラジム	rajimu	stoning
+j	ラジャブ	rajabu	Rajab
+j	ラスク	rasuku	rusk
+j	ラスト	rasuto	end, last one
+j	ラスール	rasuru	使徒。
+j	ラッシュ	rasshu	rush
+j	ラッシー	rasshi	
+j	ラッチ	ratchi	latch
+j	ラッツ	rattsu	ラトビアのユーロ採用前の通貨。
+j	ラツィオ	ratsio	
+j	ラティス	ratisu	
+j	ラデ語	radego	the Rade language
+j	ラノベ	ranobe	「ライトノベル」の略。
+j	ラハティ	rahati	Lahti (a city in Finland)
+j	ラハール	raharu	
+j	ラバト	rabato	Rabat (the capital city o…
+j	ラパス	rapasu	La Paz (the capital city …
+j	ラファフ	rafafu	
+j	ラフト	rafuto	
+j	ラブアン	rabuan	
+j	ラブカ	rabuka	カグヤザメ目ラブカ科に分類される深海ザメ。生きた化…
+j	ラブナ	rabuna	labneh
+j	ラブネ	rabune	
+j	ラブホ	rabuho	ラブホテル。
+j	ラブラ	rabura	
+j	ラプター	raputa	
+j	ラプティ	raputi	
+j	ラベル	raberu	a transliteration of the …
+j	ラペイエ	rapeie	練乳をたっぷりと入れた、ミャンマー式の紅茶。
+j	ラペル	raperu	a lapel
+j	ラホール	rahoru	Lahore
+j	ラミナ	ramina	葉層。
+j	ラムダ	ramuda	lambda
+j	ラムネ	ramune	a type of carbonated soft…
+j	ラリる	rariru	to be unable to speak cle…
+j	ラリサ	rarisa	
+j	ラリマー	rarima	
+j	ラルフ	rarufu	
+j	ラレド	raredo	Laredo
+j	ラングーン	rangun	Rangoon, Yangon (a city i…
+j	ランタン	rantan	lanthanum, La
+j	ランチ	ranchi	lunch
+j	ランティエ	rantie	
+j	ラーイオス	raiosu	
+j	ラーオ人	raojin	ラオスの主要民族。タイ系。
+j	ラーゲリ	rageri	ソ連における強制収容所。特に、第二次世界大戦後、ソ…
+j	ラーテル	rateru	a honey badger; a ratel
+j	ラートーナ	ratona	
+j	ラーンチー	ranchi	
+j	乱丁	rancho	out-of-order collation
+j	乱世	ransei	warlike time, turbulent d…
+j	乱入	rannyu	intrusion, raid
+j	乱射	ransha	indiscriminate shooting
+j	乱将	ransho	道理に反したことをする武将。
+j	乱戦	ransen	敵も味方も入り乱れて戦うこと。乱軍。
+j	乱流	ranryu	川筋などが乱れるように流れること。
+j	乱衆	ranshu	暴力またはパニック状態のような行動をとる群衆。
+j	乱視	ranshi	astigmatism
+j	乱調	rancho	調子が乱れていること。また、そのようなさま。
+j	乱軍	rangun	「乱戦」に同じ。敵味方入り乱れての戦い。
+j	乱鐘	ransho	続け様に打つ鐘の音。
+j	乱階	rankai	反乱の兆候。
+j	乱魁	rankai	一揆や反乱の首領。
+j	亂倫	ranrin	
+j	亂視	ranshi	
+j	來臨	rairin	
+j	儡塊	raikai	不平の気。
+j	儡然	raizen	落ち着かないこと。また、そのようなさま。
+j	卵塊	rankai	昆虫や魚類などの卵の塊。
+j	卵子	ranshi	ovum
+j	卵歯	ranshi	卵生の動物が孵化する際、卵の殻を割るのに用いる硬い…
+j	卵管	rankan	a Fallopian tube; a uteri…
+j	卵舟	ranshu	水面に漂うイエカ類の卵の塊。
+j	卵菌	rankin	oomycete
+j	卵虫	ranchu	
+j	卵鞘	ransho	egg casing of an insect
+j	厲人	raijin	「癩人」の別表記。
+j	嵐嶺	ranrei	嵐気のこもる山。
+j	巒丘	rankyu	小高い山。小山。
+j	懶怠	rantai	やる気がないさま。懶惰。
+j	擂潰	raikai	擦り混ぜること。
+j	来京	raikyo	coming to a capital
+j	来仙	raisen	仙台市へ来ること。
+j	来任	rainin	任地におもむいて来ること。
+j	来会	raikai	集会などの集まりに出席するために集まって来ること。
+j	来去	raikyo	往来。往還。
+j	来名	raimei	名古屋市へ来ること。
+j	来命	raimei	相手に敬意をはらい、その相手からの書簡の中で言って…
+j	来岡	raioka	岡山県へ来ること。
+j	来市	raishi	ある都市に来ること。
+j	来年	rainen	next year, coming year
+j	来庁	raicho	coming to facilities name…
+j	来店	raiten	The act of visiting a sto…
+j	来形	raikei	山形県へ来ること。
+j	来旨	raishi	相手からよこした趣旨。
+j	来書	raisho	他人から来た手紙。来状。来信。
+j	来村	raison	ある村に来ること。
+j	来歳	raisai	来年。
+j	来沖	raichu	沖縄県へ来ること。
+j	来牒	raicho	他人から来た書状。来状。来信。
+j	来献	raiken	来朝して貢物などを献上すること。
+j	来町	raicho	ある町に来ること。
+j	来県	raiken	arriving in certain prefe…
+j	来社	raisha	その会社の外部の人が会社を来訪すること。
+j	来秋	raishu	next autumn
+j	来簡	raikan	よそから送られてきた手紙。来翰。
+j	来米	raibei	coming to the United Stat…
+j	来群	raigun	群馬県へ来ること。
+j	来翰	raikan	よそから送られてきた手紙。来簡。
+j	来者	raisha	来訪した人。
+j	来聖	raisei	coming to São Paulo
+j	来聴	raicho	（講演などを）聞きに来ること。
+j	来臨	rairin	coming, advent, arrival
+j	来街	raigai	何らかの目的（仕事、観光など）でその街を訪れること。
+j	来襲	raishu	invasion; raid; attack; v…
+j	来観	raikan	会場や施設に来て観ること。
+j	来賓	raihin	a guest (of honor)
+j	来車	raisha	車などに乗って来訪すること。
+j	来週	raishu	next week
+j	来阪	raihan	coming to Ōsaka
+j	来集	raishu	gathering and coming
+j	来電	raiden	電報が来ること。また、その電報。
+j	来青	raisei	青森県へ来ること。
+j	来館	raikan	coming to facilities name…
+j	来麑	raigei	coming to Kagoshima
+j	楽な	rakuna	
+j	楽事	rakuji	楽しいこと。
+j	楽園	rakuen	paradise
+j	楽土	rakudo	苦しみなどかなく安楽に暮らせる場所。楽園。
+j	楽境	rakkyo	安楽な境涯、境地。
+j	楽日	rakubi	興行などで千秋楽（最後）の日。
+j	楽観	rakkan	optimism
+j	樂園	rakuen	楽園の旧字体表記。
+j	欄内	rannai	欄干の内側。
+j	欄外	rangai	欄干の外側。
+j	欄干	rankan	handrail; parapet; railing
+j	洛陽	rakuyo	Luoyang (a prefecture-lev…
+j	濫入	rannyu	乱暴、無法に押し入ること。乱入。
+j	濫刑	rankei	みだりに刑罰に処すること。
+j	濫救	rankyu	生活保護で受給の条件を満たさない者まで支給すること。
+j	濫觴	ransho	the beginning of somethin…
+j	濫賞	ransho	賞を濫発すること。
+j	爛仔	ranshi	不良。ならず者。
+j	爛漫	ranman	the way in which many flo…
+j	爛爛	ranran	光り輝くこと。また、そのようなさま。
+j	癩人	raijin	leper
+j	癩病	raibyo	leprosy
+j	癩癬	raisen	疥癬。皮癬。
+j	癩者	raisha	leper
+j	癩菌	raikin	Mycobacterium leprae, the…
+j	磊塊	raikai	石が多く積み重なっていること。山などが高大なこと。…
+j	磊嵬	raikai	磊塊の別表記。
+j	磊磈	raikai	磊塊の別表記。
+j	礼拝	raihai	divine worship, religious…
+j	礼殿	raiden	拝殿。
+j	礼讃	raisan	仏を礼拝して、その功徳を褒めること。
+j	礼賛	raisan	praise; worship
+j	籃球	rankyu	basketball
+j	罍洗	raisen	手洗いするための器。
+j	羅川	ragawa	a surname
+j	羅本	ramoto	a surname
+j	羅訳	rayaku	ラテン語に訳すこと。また、その文章。
+j	羅針	rashin	compass needle
+j	羅鱶	rabuka	frilled shark, Chlamydose…
+j	耒枱	raishi	耒耜の別表記。
+j	耒耜	raishi	農具の鋤。
+j	萊田	raiden	荒地。
+j	落僧	rakuso	破戒、堕落した僧。
+j	落城	rakujo	fall of a castle to an en…
+j	落堕	rakuda	僧侶が破戒し、放逸に耽ること。また、戒律を捨て、還…
+j	落字	rakuji	missing character
+j	落差	rakusa	drop in elevation (of a w…
+j	落想	rakuso	考え付くこと。思いつき。着想。
+j	落慶	rakkei	寺社の建築工事が落成した慶事。
+j	落橋	rakkyo	架かっていた橋が崩落すること。
+j	落球	rakkyu	野球などで守備側が一度捕りかけた打球を落とすこと。
+j	落胤	rakuin	illegitimate child, love …
+j	落葉	rakuyo	defoliation, the shedding…
+j	落語	rakugo	rakugo (Japanese comic st…
+j	落陽	rakuyo	setting sun; evening sun
+j	藍本	ranpon	rough draft of a drawing
+j	蘭人	ranjin	オランダ人。
+j	蘭台	randai	太政官の唐名。
+j	蘭契	rankei	心が通じあった友人関係。蘭交。
+j	蘭嶼	ransho	Orchid Island
+j	蘭州	ranshu	Lanzhou (a prefecture-lev…
+j	蘭帳	rancho	蘭の香りのような芳香のある帳。
+j	蘭方医	ranpoi	江戸時代にオランダ流の医学を修めた医師。
+j	蘭書	ransho	オランダ（語）で書かれた書物。
+j	蘭橈	rannyo	蘭の材でつくった櫂。
+j	蘭舟	ranshu	（蘭の木で作られたような）美しい舟。
+j	蘭艾	rangai	蘭と艾。
+j	蘭蕉	ransho	蘭と芭蕉。
+j	蘭蕙	rankei	香草の蘭と蕙。
+j	蘭虫	ranchu	
+j	蘭貢	rangun	
+j	蘭鋳	ranchu	a ranchu
+j	蘭閨	rankei	后妃の寝室。
+j	裸族	razoku	全裸またはそれに近い服装で生活している部族。
+j	裸石	raseki	loose stones
+j	覧者	ransha	閲覧する人。読者。
+j	辣条	ratiao	latiao (Chinese snack)
+j	辣韮	rakkyo	Chinese scallion, Allium …
+j	酪農	rakuno	dairy farm
+j	酹奠	raiten	酒を注ぎ、祀ること。
+j	酹祀	raishi	酒を注ぎ、祀ること。
+j	鑾鈴	ranrei	馬につける鈴。
+j	雷丸	raigan	dried Laccocephalum mylit…
+j	雷名	raimei	世間に知れ渡る名声。
+j	雷声	raisei	雷が鳴る音、雷鳴。
+j	雷害	raigai	落雷によって引き起こされる災害。
+j	雷神	raijin	the Japanese god of thund…
+j	雷管	raikan	detonator (device used to…
+j	雷紋	raimon	a traditional Chinese S-s…
+j	雷酸	raisan	fulminic acid
+j	雷電	raiden	thunder and lightning
+j	雷駭	raigai	雷に驚かされること。
+j	雷魚	raigyo	snakehead
+j	雷鳥	raicho	rock ptarmigan, Lagopus m…
+j	雷鳴	raimei	thunder, thunderclap
+j	頼天	raiten	天恵。
+j	駱駝	rakuda	a camel (beast of burden)
+j	鸞車	ransha	天子の乗る車。
+j	鸞鈴	ranrei	鑾鈴。
+j	鸞鏡	rankei	a mirror with a 鸞鳥 (ranch…
+k	라는	raneun	-라고 하는 의 준말
+k	라듐	radyum	radium
+k	라레나	rarena	(뜻).
+k	라며	ramyeo	
+k	라무네	ramune	
+k	라부안	rabuan	
+k	라선	raseon	
+k	라아단	raadan	
+k	라오스	raoseu	Laos (a country in Southe…
+k	라오콘	raokon	
+k	라우손	rauson	
+k	라우터	rauteo	router (a device that con…
+k	라운지	raunji	lounge
+k	라이거	raigeo	
+k	라이더	raideo	달리는 사람.
+k	라이덴	raiden	
+k	라이브	raibeu	
+k	라이언	raieon	
+k	라이치	raichi	
+k	라이터	raiteo	lighter
+k	라이트	raiteu	
+k	라조기	rajogi	중국 요리 라쯔지에서 변형된 한국식 중화요리로…
+k	라찰	rachal	
+k	라치오	rachio	
+k	라튁	ratwik	
+k	라티움	ratium	
+k	라파엘	rapael	Raphael, the Archangel.
+k	락까	rakkka	
+k	락산	raksan	
+k	락서	rakseo	'낙서'의 북한말과 연변말.
+k	락심	raksim	
+k	락원	ragwon	‘낙원’을 달리 이르는 말.
+k	락태	raktae	
+k	락화	rakhwa	'낙화'의 북한말과 연변말.
+k	란각	rangak	
+k	란간	rangan	
+k	란교	rangyo	
+k	란씨	ranssi	
+k	란치	ranchi	
+k	란탄	rantan	가장 반응성이 큰 희토류 원소로 대개 란탄족으…
+k	란폭	ranpok	'난폭'의 북한말과 연변말.
+k	랄프	ralpeu	
+k	람발	rambal	'남발'의 북한말과 연변말.
+k	람빅	rambik	
+k	랍월	rapwol	
+k	랍치	rapchi	North Korea standard spel…
+k	랑게	rangge	
+k	랑비	rangbi	'낭비'의 북한말과 연변말.
+k	랑하	rangha	
+k	래그	raegeu	영어 lag의 표기. 속도 등이 떨어지거나 인…
+k	래달	raedal	'다음 달'의 북한말과 연변말.
+k	래림	raerim	
+k	래빈	raebin	'내빈'의 북한말과 연변말.
+k	래서	raeseo	
+k	래월	raewol	
+k	래커	raekeo	
+k	래퍼	raepeo	rapper
+k	랠리	raelli	rally (strokes)
+e	raccoon	raccoon	1 meaning
+e	race car	racecar	1 meaning
+e	rackett	rackett	1 meaning
+e	radiant	radiant	2 meanings
+e	radical	radical	6 meanings
+e	rafting	rafting	1 meaning
+e	rag doll	ragdoll	1 meaning
+e	ragdoll	ragdoll	1 meaning
+e	ragtime	ragtime	1 meaning
+e	ragweed	ragweed	1 meaning
+e	ragwort	ragwort	1 meaning
+e	railfan	railfan	1 meaning
+e	railgun	railgun	1 meaning
+e	railing	railing	1 meaning
+e	railway	railway	2 meanings
+e	rainbow	rainbow	3 meanings
+e	ramadan	ramadan	1 meaning
+e	ramekin	ramekin	1 meaning
+e	rampage	rampage	2 meanings
+e	rampant	rampant	1 meaning
+e	rampart	rampart	2 meanings
+e	rangpur	rangpur	1 meaning
+e	ranking	ranking	1 meaning
+e	raphael	raphael	2 meanings
+e	rapport	rapport	1 meaning
+e	rapture	rapture	1 meaning
+e	rattrap	rattrap	1 meaning
+e	ravenna	ravenna	2 meanings
+e	ravioli	ravioli	1 meaning
+e	raw data	rawdata	1 meaning
+e	raymond	raymond	1 meaning
+j	らいげき	raigeki	雷撃: torpedo attack; light…
+j	らくさん	rakusan	酪酸: butyric acid
+j	らくたん	rakutan	落胆: discouragement
+j	らしく	rashiku	助動詞「らしい」の連用形。
+j	ライノベ	rainobe	
+j	ライバル	raibaru	a rival (competitor with …
+j	ライフル	raifuru	rifle
+j	ライマメ	raimame	
+j	ライムギ	raimugi	ライ麦: rye
+j	ライ豆	raimame	lima bean
+j	ライ麦	raimugi	イネ科の越年草。小アジア原産。実はパン、酒類の原料。
+j	ラウニオン	raunion	
+j	ラオスの	raosuno	
+j	ラオス語	raosugo	ラーオ語に同じ。
+j	ラガーマン	ragaman	rugger; rugby player
+j	ラキシー	rakishi	raksi
+j	ラクナウ	rakunau	
+j	ラケット	raketto	a racket
+j	ラザニア	razania	a lasagna
+j	ラザニエ	razanie	
+j	ラザーニャ	razanya	
+j	ラジアル	rajiaru	放射式。
+j	ラジウム	rajiumu	radium
+j	ラジエータ	rajieta	蒸気、温水などの熱を利用した暖房器具で暖かい熱を放…
+j	ラジエーター	rajieta	a radiator (finned metal …
+j	ラジオ塔	rajioto	ラジオ放送の電波を送信するための塔。
+j	ラジコン	rajikon	「ラジオコントロール」の略。
+j	ラタキア	ratakia	
+j	ラダック	radakku	
+j	ラッセル	rasseru	Russel
+j	ラッパ銃	rappaju	
+j	ラッフル	raffuru	ruffle
+j	ラテアート	rateato	latte art
+j	ラティウム	ratiumu	
+j	ラテンの	ratenno	
+j	ラテン化	ratenka	Latinization
+j	ラテン語	ratengo	Latin language
+j	ラテ欄	rateran	program guide in the news…
+j	ラディウム	radiumu	
+j	ラトビア	ratobia	Latvia (a country in nort…
+j	ラトヴィア	ratovia	「ラトビア」を参照。
+j	ラニーニャ	raninya	La Niña
+j	ラノリン	ranorin	
+j	ラバウル	rabauru	Rabaul (a township in Pap…
+j	ラビオリ	rabiori	
+j	ラピュタ	rapyuta	
+j	ラファエル	rafaeru	Raphael (archangel)
+j	ラファエロ	rafaero	Raphael (Italian Renaissa…
+j	ラベンダー	rabenda	lavender (plant)
+j	ラマダン	ramadan	九月。この月、ムスリムは日中に断食する。
+j	ラマダーン	ramadan	Ramadan
+j	ラマッラ	ramarra	パレスチナの事実上の首都。ヨルダン川西岸地区西部に…
+j	ラマッラー	ramarra	
+j	ラムカン	ramukan	
+j	ラムキン	ramukin	
+j	ラム酒	ramushu	サトウキビの糖蜜などに水を加えたり発酵させたりして…
+j	ララバイ	rarabai	lullaby (a soothing song …
+j	ラリッサ	rarissa	海王星の第7衛星の固有名。
+j	ランカウイ	rankaui	
+j	ランクイン	rankuin	making it onto a ranked l…
+j	ランゲージ	rangeji	language
+j	ランジェリー	ranjeri	lingerie
+j	ランダム	randamu	random
+j	ランデブー	randebu	rendezvous
+j	ランドナー	randona	
+j	ランドリー	randori	洗濯。
+j	ランバダ	ranbada	
+j	ランバート	ranbato	(物理)輝度の単位(CGS単位系)。記号 L。
+j	ランパート	ranpato	
+j	ランプウェー	ranpuwe	a rampway
+j	ランプウエー	ranpuue	
+j	ラーイプル	raipuru	
+j	ラーオコオーン	raokoon	Laocoön
+j	ラーマッラー	ramarra	
+j	ラーメン屋	ramenya	a ramen shop
+j	ルネサンス・ラテン語	ratengo	14世紀頃から15世紀頃までのラテン語。
+j	乱切り	rangiri	chopping foodstuff haphaz…
+j	乱層雲	ransoun	nimbostratus
+j	乱心	ranshin	心が通常の状態でなくなり、分別がつかなくなること。
+j	乱獲	rankaku	overfishing
+j	乱臣	ranshin	反逆などで国を乱す臣下。
+j	乱読	randoku	いろいろな書物を読みあさること。
+j	乱高下	rankoge	相場の上下が激しいこと。また一般に数値の上下が激し…
+j	卵塔場	rantoba	墓場。墓地。
+j	卵殻	rankaku	eggshell
+j	卵白	ranpaku	egg white, albumen
+j	卵膜	ranmaku	membrane surrounding an e…
+j	拉致る	rachiru	to abduct
+j	来学	raigaku	大学に来ること。
+j	来宅	raitaku	本人、家族以外の者が自宅に来訪すること。
+j	来崎	raisaki	長崎県または長崎市に来ること。
+j	来復	raifuku	一度去っていったものが再度戻ってくること。
+j	来徳	raitoku	徳島県へ来ること。
+j	来春	raishun	next spring
+j	来服	raifuku	来て服従すること。来付。
+j	来歴	raireki	history, provenance, orig…
+j	来泊	raihaku	来訪して宿泊すること。
+j	来福	raifuku	福岡県や福島県、福井県など、「福」と名の付く地域へ…
+j	来診	raishin	患者が医院などに来て診察してもらうこと。
+j	来謁	raietsu	来訪して目通りすること。
+j	来鹿	rairoku	鹿児島県へ来ること。らいか。
+j	楽勝	rakusho	easy victory
+j	楽単	rakutan	course that be got credit…
+j	楽天	rakuten	optimism
+j	楽水	rakusui	水を楽しむこと。
+j	洛内	rakunai	都の中。
+j	洛叉	rakusha	古代インドの数量の単位。10万または一億。
+j	濫読	randoku	いろいろな書物を読みあさること。
+j	爛熟	ranjuku	overmaturity
+j	磊石	raiseki	ごろごろした石。
+j	磊落	rairaku	open and upright; big and…
+j	絡車	rakusha	糸を巻き取る車。
+j	羅列	raretsu	list
+j	羅刹	rasetsu	rakshasa
+j	羅城門	rajomon	Rajōmon (a former gate in…
+j	羅漢果	rakanka	monk fruit (Siraitia gros…
+j	落丁	rakucho	page absence; missing page
+j	落単	rakutan	履修した科目の単位を取り損ねること。
+j	落叉	rakusha	古代インドの数量の単位。10万または一億。
+j	落命	rakumei	命を落とすこと。
+j	落成	rakusei	completion, especially of…
+j	落手	rakushu	手紙や物品を受領すること。入手すること。落掌。
+j	落掌	rakusho	手紙や物品を受領すること。入手すること。落手。
+j	落書	rakusho	a Middle Ages anonymous l…
+j	落水	rakusui	水稲の出穂後二十五日くらいに水田から水を除くこと。
+j	落涙	rakurui	shedding tears
+j	落淚	rakurui	落涙の旧字体表記。
+j	落潮	rakucho	潮が引いて海面が低くなる現象。
+j	落盤	rakuban	a cave-in of a mine, unde…
+j	落磐	rakuban	
+j	落第	rakudai	failure (in an examinatio…
+j	落胆	rakutan	disappointment
+j	落車	rakusha	falling down from a two-w…
+j	落輪	rakurin	車両のタイヤが側溝、段差などから落下すること。
+j	落選	rakusen	loss of an election
+j	落錐	rakusui	筆鋒。
+j	落雁	rakugan	falling wild goose or gee…
+j	落雷	rakurai	thunderbolt
+j	落首	rakushu	風刺や嘲弄などを込めた匿名の落書のうち、詩歌の形式…
+j	蘭国	rankoku	Holland (a historical pro…
+j	蘭塔場	rantoba	墓場。墓地。
+j	蘭学	rangaku	study of Western knowledg…
+j	蘭訳	ranyaku	オランダ語に訳すこと。また、その文章。
+j	螺髪	rahotsu	仏像に見られる、巻貝状に丸まった髪の毛。
+j	裸玉	ragyoku	一方が王将以外の全ての駒を落として行う対局。
+j	酪酸	rakusan	butyric acid
+j	雷撃	raigeki	torpedo attack
+j	雷擊	raigeki	
+j	雷落	rairaku	落雷。
+j	雷震	raishin	雷が落ちて雷鳴が轟くこと。
+k	라 아바나	raabana	
+k	라고스	ragoseu	Lagos (a major city, the …
+k	라니까	ranikka	
+k	라니냐	raninya	엘니뇨의 반대현상으로 열대 동태평양과 중태평양…
+k	라다크	radakeu	
+k	라단조	radanjo	
+k	라렬	raryeol	North Korea standard spel…
+k	라르고	rareugo	
+k	라리오하	rarioha	
+k	라마단	ramadan	이슬람교의 아홉 번째달. 금식이 행해진다.
+k	라면	ramyeon	instant noodle
+k	라바슈	rabasyu	조지아, 아르메니아, 아제르바이잔, 터키, 이…
+k	라바콘	rabakon	
+k	라바트	rabateu	Rabat (the capital city o…
+k	라볶이	rabokki	tteokbokki with added ram…
+k	라사냐	rasanya	
+k	라우니온	raunion	
+k	라운드	raundeu	
+k	라이닝	raining	복공
+k	라이방	raibang	색안경, 선글라스.
+k	라이벌	raibeol	rival, rivalry
+k	라이오스	raioseu	
+k	라이플	raipeul	rifle
+k	라일락	raillak	꿀풀목 물푸레나무과의 종. 유럽 남동부가 원산…
+k	라자냐	rajanya	lasagna
+k	라자브	rajabeu	Rajab (the seventh month …
+k	라조육	rajoyuk	라조기에서 변형된 한국식 중화요리로, 돼지고기…
+k	라지에타	rajieta	radiator
+k	라타키아	ratakia	
+k	라틴어	ratineo	Latin (language)
+k	라파스	rapaseu	La Paz (the capital city …
+k	라파흐	rapaheu	
+k	라퓨타	rapyuta	
+k	라호르	rahoreu	
+k	라흐티	raheuti	
+k	락관	rakgwan	낙관의 북한말과 연변말.
+k	락다운	rakdaun	lockdown (confinement of …
+k	락방	rakbang	'낙방'의 북한말과 연변말.
+k	락선	rakseon	낙선의 북한말과 연변말.
+k	란동	randong	'난동'의 북한말과 연변말.
+k	란저우	ranjeou	
+k	란제리	ranjeri	lingerie
+k	란타나	rantana	
+k	람바다	rambada	
+k	람용	ramyong	
+k	랍니다	ramnida	
+k	랍시고	rapsigo	
+k	랍촉	rapchok	
+k	랑독	rangdok	'낭독'의 북한말과 연변말.
+k	랑만	rangman	'낭만'의 북한말과 연변말.
+k	랑묘	rangmyo	
+k	랑삿	rangsat	
+k	랑패	rangpae	North Korea, China standa…
+k	래객	raegaek	내객의 북한말과 연변말.
+k	래방	raebang	
+k	래왕	raewang	'내왕'의 북한말과 연변말.
+k	랙돌	raekdol	
+k	랜드	raendeu	
+k	램프	raempeu	a lamp (device producing …
+k	랩업	raebeop	
+k	랩탑	raeptap	
+k	랩톱	raeptop	laptop
+k	랭소	raengso	냉소의 북한말과 연변말.
+k	랭수	raengsu	'냉수'의 북한말과 연변말.
+e	racegoer	racegoer	1 meaning
+e	raclette	raclette	1 meaning
+e	radar gun	radargun	1 meaning
+e	radiance	radiance	1 meaning
+e	radiator	radiator	1 meaning
+e	radicate	radicate	1 meaning
+e	ragequit	ragequit	1 meaning
+e	ragnarok	ragnarok	1 meaning
+e	railroad	railroad	4 meanings
+e	rain down	raindown	1 meaning
+e	raincoat	raincoat	1 meaning
+e	raindrop	raindrop	1 meaning
+e	rainfall	rainfall	1 meaning
+e	rainwear	rainwear	1 meaning
+e	rainy day	rainyday	1 meaning
+e	rajshahi	rajshahi	1 meaning
+e	rakshasa	rakshasa	1 meaning
+e	ramallah	ramallah	1 meaning
+e	rambutan	rambutan	1 meaning
+e	ramesses	ramesses	1 meaning
+e	rap music	rapmusic	1 meaning
+e	rapeseed	rapeseed	2 meanings
+e	rapunzel	rapunzel	2 meanings
+e	rasgulla	rasgulla	1 meaning
+e	rat snake	ratsnake	1 meaning
+e	rational	rational	4 meanings
+j	らいはいどう	raihaido	礼拝堂: chapel; place of wor…
+j	らくちん	rakuchin	a cinch; easy
+j	らっぱ管	rappakan	
+j	ライセンス	raisensu	license (US), licence (UK)
+j	ライティング	raitingu	writing; the practice of …
+j	ライトバン	raitoban	小型の貨客兼用の商用自動車。多くはセダンの屋根を後…
+j	ライトペン	raitopen	
+j	ライナー券	rainaken	ライナーの料金を払ったことの証明となる切符。
+j	ライニング	rainingu	衣服の裏打ち、裏張り、内張り。
+j	ライブウェア	raibuwea	コンピューター（ハードウェア、ソフトウェア）の操作…
+j	ライムエード	raimuedo	limeade
+j	ライム病	raimubyo	
+j	ライム色	raimuiro	
+j	ライラック	rairakku	lilac
+j	ラインアップ	rainappu	lineup / line-up
+j	ラインマーカー	rainmaka	文字などの上に重ねて引いてその部分を目立たせるのに…
+j	ライン川	raingawa	the Rhine (river)
+j	ラオス人	raosujin	Lao, Laotian (person, peo…
+j	ラオトウパイ	raotopai	数牌のうちの一と九の牌。
+j	ラガービール	ragabiru	ゆっくり発酵させて作るビール。
+j	ラクダ科	rakudaka	Camelidae
+j	ラクトース	rakutosu	lactose
+j	ラクロス	rakurosu	lacrosse
+j	ラグドール	ragudoru	a Ragdoll
+j	ラグビー場	ragubijo	ラグビーを行うための球技場。
+j	ラジカセ	rajikase	radio cassette recorder
+j	ラジカル	rajikaru	遊離基。
+j	ラスボス	rasubosu	
+j	ラス一	rasuichi	last one remaining (as of…
+j	ラズベリー	razuberi	raspberry
+j	ラチェット	rachetto	爪車。
+j	ラッカセイ	rakkasei	「落花生」の学術的表記。
+j	ラッシュ時	rasshuji	rush hour
+j	ラッダイト	raddaito	
+j	ラッピング	rappingu	packaging; wrapping; wrap…
+j	ラテン人	ratenjin	古代ローマの主要民族。イタリック語派に属するラテン…
+j	ラディカル	radikaru	イデアルのうち、何乗かすればイデアル I の元とな…
+j	ラディッシュ	radisshu	radish, Raphanus sativus,…
+j	ラディーノ語	radinogo	
+j	ラドガ湖	radogako	
+j	ラブアフェア	rabuafea	
+j	ラブコメ	rabukome	romcom
+j	ラブバード	rabubado	lovebird
+j	ラブラブ	raburabu	lovey-dovey
+j	ラブレター	rabureta	a love letter
+j	ラプソディ	rapusodi	rhapsody
+j	ラマーズ法	ramazuho	Lamaze technique
+j	ラミネート	ramineto	プラスチックのフィルム、アルミ箔、紙などを張り合わ…
+j	ラミントン	raminton	四角いスポンジケーキをチョコレートソースでコーティ…
+j	ラムセス	ramusesu	Ramesses
+j	ラリベラ	raribera	
+j	ラリマール	rarimaru	
+j	ランカシャー	rankasha	Lancashire
+j	ランキング	rankingu	ranking
+j	ランケット	ranketto	
+j	ランタイム	rantaimu	runtime
+j	ランニング	ranningu	競技や訓練として走ること。
+j	ランビック	ranbikku	
+j	ランブータン	ranbutan	
+j	ラヴァッシュ	ravasshu	
+j	ラヴェンナ	ravuenna	
+j	ラ・マンシュ	ramanshu	
+j	ラ・マンチャ	ramancha	
+j	ラージコート	rajikoto	
+j	ラーマーヤナ	ramayana	Ramayana
+j	ラーメン橋	ramenkyo	rigid-frame bridge
+j	乱伐	ranbatsu	reckless deforestation
+j	乱打戦	randasen	両チームに大量の得点が入る試合で、特に互いの投手の…
+j	乱橋	ranbashi	a surname
+j	乱気流	rankiryu	地形や雷雲などにより大気中に生じる不規則な気流。
+j	乱痴気	ranchiki	取り乱して理性を失うこと。
+j	乱発	ranpatsu	issuing without discretion
+j	乱立	ranritsu	many items standing jumbl…
+j	乱筆	ranpitsu	みだりに書くこと。書体が乱れること。乱れ書き。また…
+j	乱罰	ranbatsu	正当な理由なくみだりに罰すること。
+j	乱脈	ranmyaku	規律などが乱れて筋道が立たなさま。
+j	乱視の	ranshino	
+j	乱雑	ranzatsu	disorderly, confused, pel…
+j	乱髪	ranpatsu	乱れた頭髪。
+j	來日	rainichi	
+j	來月	raigetsu	
+j	卵割	rankatsu	動物の発生段階で一つの受精卵が細胞分裂を繰り返し、…
+j	卵巣がん	ransogan	卵巣癌の異表記。
+j	卵巣癌	ransogan	ovarian cancer
+j	卵生の	ranseino	
+j	卵管炎	rankanen	salpingitis
+j	卵精巣	ranseiso	
+j	卵細胞	ransaibo	an egg cell
+j	喇叭手	rappashu	
+j	喇叭管	rappakan	synonym of 卵管 (“Fallopian…
+j	埒内	rachinai	埒の内側。
+j	埒外	rachigai	out of bounds
+j	来世紀	raiseiki	今世紀の次の世紀。
+j	来園者	raiensha	visitor to an 園 (en) – pa…
+j	来客	raikyaku	visitor, company
+j	来年度	rainendo	今年度の次の年度。
+j	来日	rainichi	arrival of a foreigner in…
+j	来月	raigetsu	next month
+j	来札	raisatsu	札幌市へ来ること。
+j	来着	raichaku	当方へ到着すること。
+j	来訪者	raihosha	来訪してきた人。訪問者。
+j	楽々	rakuraku	with ease
+j	楽する	rakusuru	労力をかけないですむ、かけないでやる。
+j	楽楽	rakuraku	気楽なさま。のんびりしたさま。
+j	洛洛	rakuraku	水が滴るさま。
+j	濫罰	ranbatsu	正当な理由なくみだりに罰すること。
+j	爛発	ranpatsu	鮮やかに出現すること。また、そのようなさま。
+j	犖犖	rakuraku	人より優れているさま。
+j	珞珞	rakuraku	小石が多いさま。
+j	礼拝堂	raihaido	place of worship
+j	禮拜堂	raihaido	
+j	羅漢松	rakansho	synonym of 羅漢槇 (rakan mak…
+j	羅生門	rashomon	Rashōmon, a Noh play by K…
+j	羅紗緬	rashamen	a foreigner's mistress; a…
+j	羅針儀	rashingi	compass; mariner's compass
+j	老頭牌	raotopai	「ラオトウパイ」を参照。
+j	落下傘	rakkasan	synonym of パラシュート (parash…
+j	落剝	rakuhaku	剝がれ落ちること。剝落。
+j	落剥	rakuhaku	「落剝」の別表記。
+j	落書き	rakugaki	graffiti; scribble; doodle
+j	落木	rakuboku	落葉した樹木。
+j	落石	rakuseki	fallen stones; falling ro…
+j	落籍	rakuseki	戸籍簿から抜け落ちていること。
+j	落花生	rakkasei	peanut
+j	落莫	rakubaku	desolate; lonely
+j	落落	rakuraku	寂しいさま。まばらなさま。
+j	落葉樹	rakuyoju	deciduous tree
+j	落語家	rakugoka	落語を話すことを本職とする芸人。
+j	落魄	rakuhaku	落ちぶれること。零落
+j	藍玉	rangyoku	aquamarine (gem)
+j	蘭月	rangetsu	the seventh month of the …
+j	螺旋形	rasenkei	a helix shape, a spiral s…
+j	貉越	rakuetsu	Luoyue (an ancient conglo…
+j	辣腕	ratsuwan	having great ability
+j	酪農場	rakunojo	dairy farm
+j	酪農家	rakunoka	dairy farmer
+j	雷雪	raisetsu	雷鳴を伴う降雪。
+j	駱駱	rakuraku	馬が嘶く声。
+k	라놀린	ranollin	lanolin
+k	라도가 호	radogaho	
+k	라든지	radeunji	
+k	라디오폰	radiopon	'무선전화기'.
+k	라로셸	rarosyel	
+k	라마야나	ramayana	Ramayana
+k	라벤더	rabendeo	(학명: Lavandula angustifol…
+k	라비올리	rabiolli	ravioli
+k	라빠스	rappaseu	볼리비아의 수도 이름 '라파스'의 북한말.
+k	라시즘	rasijeum	
+k	라오스어	raoseueo	
+k	라오스의	raoseuui	
+k	라오스인	raoseuin	
+k	라운딩	raunding	playing a round of golf
+k	라이라크	rairakeu	
+k	라이베리아	raiberia	Liberia (a country in Afr…
+k	라이푸르	raipureu	
+k	라인 강	raingang	
+k	라인석	rainseok	
+k	라장조	rajangjo	
+k	라켓볼	raketbol	
+k	라텍스	ratekseu	
+k	라트비아	rateubia	Latvia (a country in nort…
+k	라틴화	ratinhwa	Latinization
+k	락 음악	rakeumak	
+k	락랑	rangnang	'낙랑'의 북한말과 연변말.
+k	락성	rakseong	낙성의 북한말과 연변말.
+k	락스타	rakseuta	
+k	락제국	rakjeguk	'낙제'의 북한말.
+k	락천	rakcheon	
+k	락토스	raktoseu	'젖당'.
+k	락하산	rakhasan	North Korea standard spel…
+k	란카란	rankaran	
+k	람부탄	rambutan	
+k	랑데부	rangdebu	특정한 시각과 장소를 정해 하는 밀회. 특히 …
+k	랑송	rangsong	'낭송'의 북한말과 연변말.
+k	래년	raenyeon	'내년'의 북한과 연변에서 쓰는 표기.
+k	래서야	raeseoya	
+k	랜덤	raendeom	random
+k	랜턴	raenteon	lantern
+k	랩소디	raepsodi	
+k	랭각	raenggak	냉각의 북한말과 연변말.
+k	랭담	raengdam	냉담의 북한말과 연변말.
+k	랭스	raengseu	
+k	랭크	raengkeu	rank
+e	racehorse	racehorse	1 meaning
+e	racetrack	racetrack	1 meaning
+e	radiation	radiation	2 meanings
+e	radically	radically	1 meaning
+e	radio wave	radiowave	1 meaning
+e	radiology	radiology	1 meaning
+e	rafflesia	rafflesia	1 meaning
+e	ragpicker	ragpicker	1 meaning
+e	rail spike	railspike	1 meaning
+e	rain check	raincheck	1 meaning
+e	rain cloud	raincloud	1 meaning
+e	rain gauge	raingauge	1 meaning
+e	rainstorm	rainstorm	1 meaning
+e	rainwater	rainwater	1 meaning
+e	rajasthan	rajasthan	1 meaning
+e	rare earth	rareearth	1 meaning
+e	raspberry	raspberry	4 meanings
+e	rassolnik	rassolnik	1 meaning
+e	rat poison	ratpoison	1 meaning
+e	ravenclaw	ravenclaw	1 meaning
+e	razor clam	razorclam	1 meaning
+e	razor wire	razorwire	1 meaning
+j	らくさんえん	rakusanen	酪酸塩: butyrate
+j	らっぱのみ	rappanomi	drinking directly from a …
+j	らんはんしゃ	ranhansha	乱反射: a diffuse, scattered…
+j	ライスカレー	raisukare	カレーライスの古い言い方。
+j	ライスバーガー	raisubaga	バンズの代わりに米を使ったハンバーガー。
+j	ライスペーパー	raisupepa	rice paper
+j	ライスワイン	raisuwain	
+j	ライスワーク	raisuwaku	work done for material ga…
+j	ライデン瓶	raidenbin	Leyden jar (glass jar use…
+j	ライトアップ	raitoappu	illumination of monuments…
+j	ライトウェル	raitoveru	
+j	ライトセーバー	raitoseba	a lightsaber
+j	ライトダウン	raitodaun	turning off of lights
+j	ライトビール	raitobiru	light beer
+j	ライトブルー	raitoburu	light blue (color)
+j	ライトレール	raitoreru	light rail
+j	ライフセーバー	raifuseba	
+j	ライフライン	raifurain	lifeline, often referring…
+j	ライフルじゅう	raifuruju	ライフル銃: (weaponry) rifle
+j	ライフル銃	raifuruju	rifle
+j	ライフワーク	raifuwaku	lifework; life's work
+j	ライブラリ	raiburari	「ライブラリー」の表記揺れ。特に情報分野における表…
+j	ライブラリー	raiburari	library (institution whic…
+j	ラインストーン	rainsuton	rhinestone
+j	ラインナップ	rainnappu	lineup
+j	ラインラント	rainranto	Rhineland
+j	ラオメデイア	raomedeia	海王星の第12衛星の固有名。
+j	ラクシュミ	rakushumi	
+j	ラクレット	rakuretto	
+j	ラグジュアリー	ragujuari	luxurious
+j	ラグタイム	ragutaimu	
+j	ラサギリン	rasagirin	rasagiline
+j	ラサ・アプソ	rasaapuso	Lhasa apso (breed of dog)
+j	ラシズム	rashizumu	
+j	ラジオカセ	rajiokase	a cassette player with a …
+j	ラスグッラ	rasugurra	チェナーを丸め砂糖のシロップで煮た菓子。
+j	ラストイヤー	rasutoiya	the last / final year of …
+j	ラストオーダー	rasutooda	last orders (UK), last ca…
+j	ラストラン	rasutoran	final run before retireme…
+j	ラタトゥイユ	ratatuiyu	ratatouille
+j	ラッキーホール	rakkihoru	
+j	ラッシュアワー	rasshuawa	
+j	ラテックス	ratekkusu	
+j	ラテン文字	ratenmoji	Latin alphabet (the 26-le…
+j	ラテン語の	ratengono	
+j	ラトビアの	ratobiano	
+j	ラトビア語	ratobiago	Latvian (language)
+j	ラトヴィア語	ratoviago	Latvian (language)
+j	ラバライト	rabaraito	
+j	ラバーカップ	rabakappu	a plunger (device for rem…
+j	ラビリンス	rabirinsu	labyrinth
+j	ラフティング	rafutingu	rafting
+j	ラフマジュン	rafumajun	
+j	ラブソング	rabusongu	love song
+j	ラブライバー	raburaiba	A fan of the Love Live! f…
+j	ラムジェット	ramujetto	
+j	ラリパッパ	raripappa	muddleheaded, under the i…
+j	ラリーレイド	rarireido	自動車競技、オートバイ競技で悪路を長距離走行し、タ…
+j	ランシング	ranshingu	Lansing (the capital city…
+j	ランタナム	rantanamu	ランタンの英語読み。
+j	ランタニド	rantanido	a lanthanide
+j	ランダムな	randamuna	
+j	ランドセル	randoseru	randoseru (type of backpa…
+j	ランドパワー	randopawa	国家が支配下に置いている陸地を利用する潜在的、顕在…
+j	ランドマーク	randomaku	ある地域や景色などで特徴があり目印となるような建造…
+j	ラ・コルーニャ	rakorunya	
+j	ラ・ロシェル	rarosheru	
+j	ラージャスターン	rajasutan	
+j	ラーヴァランプ	ravaranpu	
+j	乱交パーティー	rankopati	
+j	乱反射	ranhansha	a diffuse, scattered, or …
+j	乱打する	randasuru	
+j	乱数放送	ransuhoso	
+j	乱暴者	ranbomono	乱暴な行動をする者。あばれもの。乱暴人。
+j	乱費する	ranpisuru	
+j	卵形線	rankeisen	単純閉曲線のうち、曲線上任意点同士を結ぶ線分がこの…
+j	卵胎生	rantaisei	ovoviviparity
+j	喇叭飲み	rappanomi	（主に瓶入りの飲み物を）喇叭を吹くように飲むこと。
+j	来々週	rairaishu	
+j	来姪孫	raitesson	玄姪孫の子。甥や姪の玄孫。
+j	来来週	rairaishu	
+j	楽天家	rakutenka	optimist
+j	楽隠居	rakuinkyo	comfortable retirement
+j	樂隱居	rakuinkyo	楽隠居の旧字体表記。
+j	濫用する	ranyosuru	
+j	癩疾	raishitsu	leprosy
+j	羅和辞典	rawajiten	ラテン語の見出し語に対し、日本語の訳語を示した辞典…
+j	羅漢様	rakansama	就職意欲のない人。働く気のない人。
+j	羅羅辞典	rarajiten	ラテン語の語句をラテン語で定義した辞典を、ラテン語…
+j	羅針盤	rashinban	a compass, a mariner's co…
+j	落下する	rakkasuru	
+j	落伍者	rakugosha	隊列からおいていかれた人。
+j	落局	rakukyoku	詩の結局。
+j	落屑	rakusetsu	表皮の角質が薄く、細かく剥がれること。また、そのよ…
+j	落日	rakujitsu	setting sun
+j	落札	rakusatsu	winning bid, successful b…
+j	落着	rakuchaku	settlement
+j	落職	rakushoku	罷免されること。免職となること。
+j	落脱	rakudatsu	抜け落ちること。
+j	落色	rakushoku	色褪せること。
+j	落雪	rakusetsu	snowslide (a collapse of …
+j	蘭の花	rannohana	
+j	酪農業	rakunogyo	畜産業のうち、乳や乳製品を生産する事業。
+j	酪酸塩	rakusanen	butyrate
+j	雷撃機	raigekiki	魚雷を搭載し雷撃を任務とする軍用機。
+j	雷神鳥	raijincho	thunderbird (mythological…
+k	라 망슈	ramangsyu	
+k	라 조콘다	rajokonda	
+k	라디에이터	radieiteo	radiator
+k	라떼 아트	ratteateu	
+k	라르게토	rareugeto	
+k	라이게이스	raigeiseu	
+k	라이센스	raisenseu	'라이선스'의 비규범 표기.
+k	라이터돌	raiteodol	lighter flint
+k	라이트 펜	raiteupen	
+k	라즈베리	rajeuberi	
+k	라지샤히	rajisyahi	
+k	라체주의	rachejuui	
+k	라침반	rachimban	North Korea standard spel…
+k	라코루냐	rakorunya	
+k	라푼첼	rapunchel	
+k	락 그룹	rakgeurup	
+k	락토오스	raktooseu	'젖당'.
+k	락트산	rakteusan	
+k	란타넘	rantaneom	lanthanum
+k	란타늄	rantanyum	
+k	랍스터	rapseuteo	바닷가재.
+k	랑푸르	rangpureu	
+k	랜야드	raenyadeu	
+k	랭동	raengdong	
+k	랭방	raengbang	'냉방'의 북한말과 연변말.
+k	랭장	raengjang	
+k	랭전	raengjeon	'냉전'의 북한말과 연변말.
+k	랭킹	raengking	
+e	raccoon dog	raccoondog	1 meaning
+e	racecourse	racecourse	1 meaning
+e	radicalism	radicalism	1 meaning
+e	radication	radication	1 meaning
+e	radio clock	radioclock	1 meaning
+e	radio drama	radiodrama	1 meaning
+e	radiograph	radiograph	1 meaning
+e	railway gun	railwaygun	1 meaning
+e	rain shadow	rainshadow	1 meaning
+e	rain shower	rainshower	1 meaning
+e	rainforest	rainforest	1 meaning
+e	raison d'être	raisondtre	1 meaning
+e	rajasthani	rajasthani	1 meaning
+e	ramshackle	ramshackle	1 meaning
+e	ransomware	ransomware	1 meaning
+e	rasagiline	rasagiline	1 meaning
+e	rawalpindi	rawalpindi	1 meaning
+e	ray of light	rayoflight	1 meaning
+e	ray tracing	raytracing	1 meaning
+e	razor blade	razorblade	1 meaning
+j	ライむぎパン	raimugipan	rye bread
+j	ライスシャワー	raisushawa	教会で結婚式を挙げ、出てきた新郎新婦に式の参列者が…
+j	ライダーハウス	raidahausu	simplistic lodging target…
+j	ライフタイム	raifutaimu	一生、生涯、終生。
+j	ライフハック	raifuhakku	lifehack
+j	ライフプラン	raifupuran	自分がどのように人生を歩むかについて計画を立てるこ…
+j	ライブハウス	raibuhausu	a music venue featuring l…
+j	ライプツィヒ	raiputsihi	Leipzig (a city in German…
+j	ライムライト	raimuraito	
+j	ライ麦パン	raimugipan	
+j	ラオス料理	raosuryori	ラオスの伝統的な料理。
+j	ラグナロク	ragunaroku	Ragnarok
+j	ラグビーボール	ragubiboru	
+j	ラケダイモン	rakedaimon	
+j	ラケダイモーン	rakedaimon	
+j	ラジオゾンデ	rajiozonde	気球で上空に飛ばし、高層の大気の状態を観測するため…
+j	ラジオボタン	rajiobotan	
+j	ラジオ体操	rajiotaiso	日本において広く行われている、ラジオを通して流れる…
+j	ラジオ局	rajiokyoku	ラジオの番組を制作する放送局。
+j	ラストシーン	rasutoshin	last scene
+j	ラストネーム	rasutonemu	（主に欧米の人名で）名に対して（最後にくる）姓。
+j	ラストボス	rasutobosu	final boss
+j	ラスベガス	rasubegasu	Las Vegas (a city in Neva…
+j	ラチチュード	rachichudo	
+j	ラッキーセブン	rakkisebun	九回の攻撃のうち点数が入りやすいとされる七回の攻撃。
+j	ラッサ熱	rassanetsu	Lassa fever
+j	ラッシュガード	rasshugado	水着と併用して着用する半袖または長袖の衣服。紫外線…
+j	ラップタオル	rapputaoru	バスタオルの一端にゴムを入れ、側面をボタンで留めら…
+j	ラップダンス	rappudansu	
+j	ラップトップ	rapputoppu	機器などの大きさが座った膝の上におけるくらいである…
+j	ラップランド	rappurando	
+j	ラップ・ドッグ	rappudoggu	
+j	ラテン方陣	ratenhojin	Latin square
+j	ラテン系の	ratenkeino	
+j	ラトビア人	ratobiajin	Latvian (person, people)
+j	ラトヴィア人	ratoviajin	Latvian (person, people)
+j	ラフレシア	rafureshia	直径一メートルほどの世界最大の花を咲かせる植物。東…
+j	ラブコメディ	rabukomedi	romantic comedy
+j	ラブコメディー	rabukomedi	romantic comedy
+j	ラブホテル	rabuhoteru	a love hotel (short-stay …
+j	ラブラドール	raburadoru	Labrador (a geographic re…
+j	ラブローション	raburoshon	personal lubricant; lube
+j	ラプンツェル	rapuntseru	Rapunzel
+j	ラボラトリー	raboratori	synonym of 研究室 (kenkyūshi…
+j	ラムダ株	ramudakabu	
+j	ラングドシャ	rangudosha	cat's tongue (chocolate c…
+j	ラングドック	rangudokku	
+j	ラング・ド・シャ	rangudosha	cat's tongue (chocolate c…
+j	ランサムウェア	ransamuwea	ransomware
+j	ランスロット	ransurotto	
+j	ランタノイド	rantanoido	lanthanide; lanthanoid
+j	ランプシェード	ranpushedo	lampshade (cover over a l…
+j	ラ・スペツィア	rasupetsia	
+j	乱雑な	ranzatsuna	
+j	卵母細胞	ranbosaibo	
+j	埒が明く	rachigaaku	to make good progress; to…
+j	楽天観	rakutenkan	optimistic view of life; …
+j	楽観的	rakkanteki	optimistic
+j	羅刹天	rasetsuten	the rakshasa, one of the …
+j	羅針箱	rashinhako	
+j	羅離粉灰	rarikoppai	散り散りに離れて、滅茶苦茶になること。
+j	莱菔子	raifukushi	seeds of Raphanus sativus…
+j	落下物	rakkabutsu	falling objects, fallen o…
+j	落伍	rakugosuru	to fall behind the ranks
+j	落第点	rakudaiten	failing grade
+j	藍晶石	ranshoseki	
+j	蘭和辞典	ranwajiten	オランダ語の単語や熟語を、日本語で定義し、用法等を…
+j	蘭学者	rangakusha	蘭学の研究者。
+j	蘭方医学	ranpoigaku	江戸時代に日本に伝えられたオランダの医学。
+j	裸体主義	rataishugi	
+j	雷撃戦	raigekisen	艦船同士が魚雷を撃ち合う戦闘。魚雷戦。
+k	라디오존데	radiojonde	상층 대기의 기압, 기온, 습도, 바람과 같은…
+k	라뜨비야	ratteubiya	나라 이름 '라트비아'의 북한말.
+k	라르간도	rareugando	
+k	라스굴라	raseugulla	
+k	라왈핀디	rawalpindi	
+k	라이선스	raiseonseu	license (legal terms)
+k	라이트급	raiteugeup	
+k	라인란트	raillanteu	
+k	라자스탄	rajaseutan	
+k	라크나우티	rakeunauti	
+k	라크로스	rakeuroseu	lacrosse
+k	라트비아어	rateubiaeo	Latvian (language)
+k	라트비아의	rateubiaui	
+k	라트비아인	rateubiain	
+k	라흐마준	raheumajun	
+k	락 밴드	rakbaendeu	
+k	락하산수	rakhasansu	'스카이다이버'의 북한말
+k	랄리벨라	rallibella	
+k	랍치범	rapchibeom	
+k	랍치하다	rapchihada	문화어에서 ‘납치하다’를 달리 이르는 말.
+k	랑비하다	rangbihada	
+k	랑스킵	rangseukip	
+k	래브라도	raebeurado	
+k	래프팅	raepeuting	
+k	랭각제	raenggakje	
+k	랭면	raengmyeon	문화어에서 ‘냉면’을 달리 이르는 말.
+k	랭정	raengjeong	냉정의 북한말과 연변말.
+k	랭철	raengcheol	'냉철'의 북한말과 연변말.
+e	rack railway	rackrailway	1 meaning
+e	racquetball	racquetball	1 meaning
+e	ractopamine	ractopamine	1 meaning
+e	radio button	radiobutton	1 meaning
+e	radioactive	radioactive	1 meaning
+e	radiography	radiography	1 meaning
+e	radiologist	radiologist	1 meaning
+e	railroad car	railroadcar	1 meaning
+e	railroad tie	railroadtie	1 meaning
+e	railway line	railwayline	1 meaning
+e	rainy season	rainyseason	1 meaning
+e	rangefinder	rangefinder	1 meaning
+e	rank and file	rankandfile	1 meaning
+e	rapeseed oil	rapeseedoil	1 meaning
+e	rationalism	rationalism	1 meaning
+e	rattlesnake	rattlesnake	1 meaning
+e	raven-haired	ravenhaired	1 meaning
+e	raw material	rawmaterial	1 meaning
+j	らくようじゅりん	rakuyojurin	落葉樹林: deciduous forest
+j	らしんばん座	rashinbanza	Pyxis
+j	ライオン人間	raionningen	
+j	ライスミルク	raisumiruku	
+j	ライトテーブル	raitoteburu	a light table
+j	ライトノベル	raitonoberu	a light novel
+j	ライノウィルス	rainowirusu	
+j	ライノウイルス	rainouirusu	rhinovirus
+j	ライヒスターク	raihisutaku	
+j	ライフステージ	raifusuteji	life stage: stage of one'…
+j	ラインオフ	rainofusuru	coming off the assembly l…
+j	ラウドスピーカー	raudosupika	拡声器。
+j	ラクシャディープ	rakushadipu	
+j	ラクセンバーグ	rakusenbagu	Luxemburg (a city in Iowa)
+j	ラクトパミン	rakutopamin	
+j	ラクトフェリン	rakutoferin	糖蛋白質の一つで、乳汁や涙、唾液など外分泌の液に含…
+j	ラグランジアン	raguranjian	ラグランジュ関数。
+j	ラケットボール	rakettoboru	racquetball
+j	ラザホージウム	razahojiumu	rutherfordium
+j	ラジオドラマ	rajiodorama	主にラジオの番組の一つとして放送されるドラマ。オー…
+j	ラジオペンチ	rajiopenchi	
+j	ラストナンバー	rasutonanba	その形式で最後に落成した個体。型番が最も新しい個体…
+j	ラスピニャス	rasupinyasu	
+j	ラッキースケベ	rakkisukebe	event where a young male …
+j	ラッソリニク	rassoriniku	
+j	ラッパズイセン	rappazuisen	
+j	ラップフィルム	rappufirumu	
+j	ラッペーンランタ	rappenranta	Lappeenranta (a city in F…
+j	ラテン文字化	ratenmojika	
+j	ラビーア・アッ゠サーニー	rabiaassani	Rabi II
+j	ラブハンドル	rabuhandoru	love handle, love handles
+j	ラプテフ海	raputefukai	
+j	ラプラシアン	rapurashian	ラプラス演算子の別名。
+j	ラベオ・ロヒータ	rabeorohita	
+j	ラワルピンディー	rawarupindi	
+j	ランチタイム	ranchitaimu	
+j	ランチメイト	ranchimeito	lunchmate
+j	ランドスケープ	randosukepu	景色。風景。風景画。
+j	ランプのかさ	ranpunokasa	
+j	ランボルギーニ	ranborugini	Lamborghini
+j	ラヴィ変換	ravuihenkan	実変数a,b,cに対するa=y+z\b=z+x\c…
+j	ラージャスターン語	rajyastango	
+j	ラーワルピンディー	rawarupindi	パキスタン北部の都市、旧首都。
+j	乱数生成器	ransuseseki	
+j	乱暴狼藉	ranborozeki	荒々しい行動で秩序を乱すこと。
+j	乱離骨灰	ranrikoppai	散り散りに離れて、滅茶苦茶になること。
+j	卵胎生の	rantaiseino	
+j	喇叭水仙	rappasuisen	wild daffodil (Narcissus …
+j	楽天的	rakutenteki	optimistic
+j	楽観主義	rakkanshugi	optimism
+j	癩病患者	raibyokanja	
+j	羅針盤座	rashinbanza	
+j	落下傘兵	rakkasanhei	空挺兵の別称。
+j	落下地点	rakkachiten	
+j	落花流水	rakkaryusui	falling flowers and flowi…
+j	落葉樹林	rakuyojurin	deciduous forest
+j	蘭蘭辞典	ranranjiten	オランダ語の語句をオランダ語で定義した辞典を、オラ…
+j	螺旋翼機	rasenyokuki	
+j	螺旋階段	rasenkaidan	spiral staircase
+j	雷撃する	raigekisuru	
+j	駱駝騎兵	rakudakihei	ラクダに騎乗する兵種。
+k	라르기시모	rareugisimo	
+k	라비 알아우왈	rabiarauwal	
+k	라스페치아	raseupechia	
+k	라쏠니크	rassollikeu	
+k	라오스 사람	raoseusaram	
+k	라이그라스	raigeuraseu	
+k	라이브러리	raibeureori	library
+k	라이트 노벨	raiteunobel	light novel (short novel …
+k	라이트 버브	raitubuhboo	
+k	라이프치히	raipeuchihi	독일의 도시. 작센 주에 속해 있다.
+k	라일락색	raillaksaek	
+k	라클레트	rakeulleteu	
+k	라틴 교회	ratingyohoe	
+k	라플레시아	rapeullesia	라플레시아과의 식물. 동남아시아에 서식하며 파…
+k	락관하다	rakgwanhada	낙관하다의 북한말.
+k	락엽송	ragyeopsong	'낙엽송'의 북한말과 연변말.
+k	랄렌탄도	rallentando	
+k	람다 변이	ramdabyeoni	
+k	랍치되다	rapchidoeda	문화어에서 ‘납치되다’를 달리 이르는 말.
+k	랍테프해	raptepeuhae	
+k	랑만주의	rangmanjuui	
+k	래밍턴	raemingteon	
+k	랭동고	raengdonggo	
+k	랭동기	raengdonggi	North Korea standard spel…
+k	랭소적	raengsojeok	
+k	랭소주의	raengsojuui	
+k	랭장고	raengjanggo	North Korea standard spel…
+e	radio control	radiocontrol	1 meaning
+e	radio silence	radiosilence	1 meaning
+e	radio station	radiostation	1 meaning
+e	radioisotope	radioisotope	1 meaning
+e	radionuclide	radionuclide	1 meaning
+e	radiothorium	radiothorium	1 meaning
+e	rainbow trout	rainbowtrout	1 meaning
+e	raindrop cake	raindropcake	1 meaning
+e	rambunctious	rambunctious	1 meaning
+e	random number	randomnumber	1 meaning
+e	random sample	randomsample	1 meaning
+e	ratification	ratification	1 meaning
+j	らぬきことば	ranukikotoba	ら抜き言葉: dropping the ら (ra…
+j	ら抜き言葉	ranukikotoba	dropping the ら (ra) in th…
+j	ライオンタマリン	raiontamarin	a lion tamarin
+j	ライジングスター	raijingusuta	rising star
+j	ライセンシング	raisenshingu	ライセンスを付与すること。
+j	ライトトラップ	raitotorappu	light trap (insect trap)
+j	ライフサイエンス	raifusaiensu	生命科学。
+j	ライフサイクル	raifusaikuru	life cycle
+j	ライフジャケット	raifujaketto	船舶、航空機に備え付けられる救命胴衣。
+j	ライフスタイル	raifusutairu	lifestyle
+j	ライフセービング	raifusebingu	救助、蘇生、応急処置などの一次救命処置。
+j	ライブアルバム	raibuarubamu	live album
+j	ライブスチーム	raibusuchimu	実際に蒸気を発生させて走る模型蒸気機関車
+j	ラウンドアバウト	raundoabauto	
+j	ラグビー選手	ragubisenshu	ラグビーで実際に競技をする選手。
+j	ラグランジュ点	raguranjuten	
+j	ラジオカセット	rajiokasetto	radio cassette recorder
+j	ラジオ番組	rajiobangumi	ラジオの放送で送信される番組の総称。ニュース、ドラ…
+j	ラストスパート	rasutosupato	last spurt; last leg
+j	ラストチャンス	rasutochansu	last chance
+j	ラテンアメリカ	ratenamerika	Latin America (a continen…
+j	ラテン語辞典	ratengojiten	ラテン語の単語や熟語、用法等を解説した辞書。
+j	ラピスラズリ	rapisurazuri	lapis lazuli
+j	ラブチャイルド	rabuchairudo	
+j	ラブラドゥードル	raburadudoru	
+j	ラミネート加工	raminetokako	印刷物の耐久性や耐水性などを高めるためプラスチック…
+j	ラムダ計算	ramudakeisan	
+j	ラロトンガ人	rarotongajin	クック諸島の主要民族。ポリネシア人の一派。
+j	ランドルト環	randorutokan	視力の検査に用いる、「C」の文字を回転させた指標。…
+j	ラ・マルセイエーズ	ramaruseiezu	
+j	来賓室	raihinshitsu	来賓の接待や歓談のための部屋。
+j	楽変化天	rakuhengeten	化楽天。化天。
+j	楽天主義	rakutenshugi	optimism
+j	羅典亜米利加	ratenamerika	
+j	落下傘降下	rakkasankoka	
+j	落胆した	rakutanshita	
+j	落花狼藉	rakkarouzeki	花が一面に散っているさま。物が散乱しているさま。
+j	酪農製品	rakunoseihin	dairy produce
+k	라그나로크	rageunarokeu	Ragnarok
+k	라디오 드라마	radiodeurama	
+k	라디오 수신기	radiosusingi	
+k	라멘스꼬에	ramenseukkoe	러시아의 도시 '라멘스코예'의 북한말.
+k	라멘타빌레	ramentabille	
+k	라면수프	ramyeonsupeu	라면을 끓일때 면과 함께 넣는 수프.
+k	라벤더색	rabendeosaek	
+k	라선형	raseonhyeong	
+k	라이덴병	raidenbyeong	
+k	라이스 페이퍼	raiseupeipeo	
+k	라이스 푸딩	raiseupuding	
+k	라이스버거	raiseubeogeo	
+k	라이트세이버	raiteuseibeo	lightsaber (sword having …
+k	라이플 총	raipeulchong	
+k	라자스탄어	rajaseutaneo	
+k	라틴 아메리카	ratinamerika	
+k	라틴아메리카	ratinamerika	중앙아메리카와 남아메리카의 나라들을 포함해서 …
+k	라플란드	rapeullandeu	
+k	란타넘족	rantaneomjok	
+k	랑그도크	ranggeudokeu	
+k	랜드마크	raendeumakeu	
+k	랜섬웨어	raenseomweeo	ransomware
+k	랭혈의	raenghyeorui	
+k	랭혹하다	raenghokhada	
+e	rack one's brain	rackonesbrain	1 meaning
+e	radioactivity	radioactivity	1 meaning
+e	radiotelegram	radiotelegram	1 meaning
+e	ranch dressing	ranchdressing	1 meaning
+e	rapprochement	rapprochement	1 meaning
+j	ライトウェイトプロセス	raitopurosesu	
+j	ライブストリーム	raibusutorimu	
+j	ラグランジュ図法	raguranjuzuho	ジョゼフ＝ルイ・ラグランジュ(1736-1813)…
+j	ラケダイモン人	rakedaimonjin	
+j	ラスエルハヌート	rasueruhanuto	
+j	ラス・エル・ハヌート	rasueruhanuto	
+j	ラビ・ユダヤ教	rabiyudayakyo	
+j	ラビーア・アル゠アーヒル	rabiaaruahiru	Rabi II
+j	ラプサン・スーチョン	rapusansuchon	正山小種: lapsang souchong tea
+j	ラマダーン・カリーム	ramadankarimu	
+j	ラマルク説	ramarukusetsu	
+j	ラ式蹴球	rashikishukyu	ラグビー。
+j	卵白質	ranpakushitsu	synonym of 蛋白質
+j	埒が明かない	rachigaakanai	
+j	正山小種	rapusansuchon	lapsang souchong tea
+j	落胆させる	rakutansaseru	
+k	라디오방송	radiobangsong	
+k	라디오텔레폰	radiotellepon	'무선전화기'.
+k	라이프 사이클	raipeusaikeul	
+k	라이프 스타일	raipeuseutail	
+k	라트비아 사람	rateubiasaram	
+e	radicalization	radicalization	1 meaning
+e	radio astronomy	radioastronomy	1 meaning
+e	radio frequency	radiofrequency	1 meaning
+e	radio telescope	radiotelescope	1 meaning
+e	radiochemistry	radiochemistry	1 meaning
+e	railway station	railwaystation	1 meaning
+e	random variable	randomvariable	1 meaning
+e	rational number	rationalnumber	1 meaning
+j	ライターズ・ブロック	raitazuburokku	
+j	ライティングデスク	raitingudesuku	
+j	ラグランジュ関数	raguranjukansu	運動エネルギーから位置エネルギーを引いたもの。ラグ…
+j	ラケットスポーツ	rakettosupotsu	ラケットを用いるスポーツの総称。ラケット競技。
+j	ラジオコントロール	rajiokontororu	radio control
+j	ラジオ放送局	rajiohosokyoku	
+j	ラストワンマイル	rasutowanmairu	
+j	ラッスアルハーヌート	rassuaruhanuto	
+j	ラッス・アル・ハーヌート	rassuaruhanuto	ras el hanout
+j	ラテンアメリカの	ratenamerikano	
+j	ラビーア・アル゠アウワル	rabiaaruauwaru	Rabi I
+j	ラフテレーンクレーン	rafuterenkuren	ホイールクレーンの一種。四輪駆動・四輪操舵機構を装…
+j	ラプラス変換	rapurasuhenkan	F(s)=∫₀ ᪲f(x)e⁻ˢˣdx (s∈ℂ)…
+j	ラベンダーマリッジ	rabendamarijji	
+j	ランゲルハンス島	rangeruhansuto	
+j	ランツクネヒト	rantsukunehito	
+j	ランニングコスト	ranningukosuto	企業・組織の運営や機械・装置の稼働など、何かを維持…
+j	ランニングシャツ	ranningushatsu	sleeveless undershirt, si…
+j	ランニングマシン	ranningumashin	
+j	ラ・ペルーズ海峡	raperuzukaikyo	
+j	乱痴気騒ぎ	ranchikisawagi	ひどく大騒ぎをすること。どんちゃん騒ぎ。
+j	楽あれば苦あり	rakuarebakuari	今は、安楽な思いをしていても、そのうち苦しいと思う…
+j	楽観主義者	rakkanshugisha	optimist
+j	磊磊落落	rairairakuraku	「磊落」に同じ。
+k	라 마르세예즈	ramareuseyejeu	
+k	라스베이거스	raseubeigeoseu	
+k	라이트 스위치	raiteuseuwichi	
+k	락샤드위프	raksyadeuwipeu	
+k	락슈마나바티	raksyumanabati	
+k	락하산병	rakhasanbyeong	
+k	래브라두들	raebeuradudeul	
+k	랙식 철도	raeksikcheoldo	
+k	랜덤 박스	raendeombakseu	
+k	랭정하다	raengjeonghada	
+e	rabbinic judaism	rabbinicjudaism	1 meaning
+e	radical feminism	radicalfeminism	1 meaning
+e	radio-controlled	radiocontrolled	1 meaning
+e	rain cats and dogs	raincatsanddogs	1 meaning
+e	rattlesnake fern	rattlesnakefern	1 meaning
+j	ライフキャスティング	raifukyasutingu	自らの私生活をwebカメラとブロードバンドストリー…
+j	ラジコン模型自動車	rajiokonjidosha	
+j	ラテンアメリカ人	ratenamerikajin	
+j	ラテン文字化する	ratenmojikasuru	
+j	ラブラブちゅっちゅ	raburabuchutchu	lovey dovey
+j	ラマダーン・ムバーラク	ramadanmubaraku	
+j	ラ・ヌーヴェル゠オルレアン	ranuveruorurean	
+j	楽天主義者	rakutenshugisha	optimist
+j	裸子植物	rashishokubutsu	gymnosperm
+k	라그랑주점	rageurangjujeom	
+k	라디오 컨트롤	radiokeonteurol	
+k	랍상 소우총	rapsangsouchong	
+e	radioactive waste	radioactivewaste	1 meaning
+e	rare earth element	rareearthelement	1 meaning
+e	rattlesnake grass	rattlesnakegrass	1 meaning
+j	ラトビア共和国	ratobiakyowakoku	
+j	ラトヴィア共和国	ratoviakyowakoku	The Republic of Latvia
+j	ラプラス演算子	rapurasuenzanshi	演算子Δ=∇·∇のこと。スカラー量と見做して計算す…
+k	라디오 방송국	radiobangsongguk	
+k	라이온스클럽	raionseukeulleop	
+k	랜드스케이프	raendeuseukeipeu	
+k	랭장창고	raengjangchanggo	
+j	ラグランジュ力学	raguranjurikigaku	ラグランジュ形式による力学。
+j	ラグランジュ形式	raguranjukeishiki	ラグランジュ方程式を出発点とする力学の形式。
+j	ラック式鉄道	rakkushikitetsudo	
+j	ラップトップパソコン	rapputoppupasokon	a laptop computer
+j	ランチドレッシング	ranchidoresshingu	ranch dressing
+k	라면떡볶이	ramyeontteokbokki	synonym of 라볶이 (rabokki)
+k	라선특별시	raseonteukbyeolsi	Rason special city
+k	라페루즈 해협	raperujeuhaehyeop	
+k	란츠크네히트	rancheukeunehiteu	
+e	radio-controlled car	radiocontrolledcar	1 meaning
+j	ラジオカセットレコーダー	rajiokasettorekoda	ラジオとカセットテープレコーダーを一体化させた、可…
+j	ラブラドール・リトリーバー	raburadoruritoriba	
+j	ラブラドール・レトリバー	raburadoruretoriba	a Labrador retriever
+j	ラブラドール・レトリーバー	raburadoruretoriba	
+j	ラプラス方程式	rapurasuhoteishiki	楕円型二階線型偏微分方程式∆Ψ=0のこと。物理的に…
+j	ラングドック゠ルシヨン	rangudokkurushiyon	
+j	ランゲージ・エクスチェンジ	rangejiekusuchenji	
+j	ランブルストリップス	ranbarusutorippusu	
+k	라이브 스트리밍	raibeuseuteuriming	
+k	라트비아 공화국	rateubiagonghwaguk	
+e	radio cassette player	radiocassetteplayer	1 meaning
+j	ライフルしゃげききょうぎ	raifurushagekikyogi	ライフル射撃競技: rifle shooting
+j	ライフル射撃競技	raifurushagekikyogi	rifle shooting
+j	ラクト・オボ・ベジタリアン	rakutoobobejitarian	
+j	ラグランジュ方程式	raguranjuhoteishiki	ラグランジュによる運動方程式d/(dt)((∂L)…
+j	ラ行変格活用	ragyohenkakukatsuyo	a verbal conjugation clas…
+k	라면 먹고 갈래	ramyeonmeokgogallae	"Do you want to have inst…
+e	rain on someone's parade	rainonsomeonesparade	1 meaning
+j	ランダムアクセスメモリ	randamuakusesumemori	random access memory
+j	ランダムアクセスメモリー	randamuakusesumemori	
+k	라플라스 작용소	rapeullaseujagyongso	
+k	래브라도 리트리버	raebeuradoriteuribeo	
+e	random number generator	randomnumbergenerator	1 meaning
+j	ラインラント゠プファルツ州	rainrandopufarutsushu	
+j	ラテン語の非識字者	ratengonohishikijisya	
+j	ライフサイクルアセスメント	raifusaikuruasesumento	製品に関する原料の採取から廃棄に至るまでの全ての段…
+j	ラグランジュ基底多項式	raguranjukiteitakoshiki	ユニソルヴェンス定理の状況下でℓᵢ(x)=∏_(0…
+j	ラグランジュ補間多項式	raguranjuhokantakoshiki	ユニソルヴェンス定理の状況下で定義される多項式L(…
+j	卵乳菜食主義者	rannyuusaishokushugisha	
+k	라오 인민민주공화국	raoinminminjugonghwaguk	
+j	ライブアクション・ロールプレイング	raibuakushonrorupureingu	
+j	ランベルト正角円錐図法	ranberutoseikakuensuizuho	ヨハン・ハインリヒ・ランベルト(1728-1777…
+j	ラオス人民民主共和国	raosujinminminshukyowakoku	Lao People's Democratic R…
+j	来年の事を言えば鬼が笑う	rainennokotoiebaonigawarau	あまり先の不確定なことを考えても仕方がない。
+j	ライブアクション・ロールプレイング・ゲーム	raibuakushonrorupureingugemu	
+j	ライブアクション・ロールプレイングを行う	raibuakushonrorupureinguookonau	

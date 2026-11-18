@@ -1,0 +1,20 @@
+e	aqaba	aqaba	1 meaning
+e	aquila	aquila	1 meaning
+e	aquatic	aquatic	1 meaning
+e	aquavit	aquavit	1 meaning
+e	aquifer	aquifer	1 meaning
+e	aquinas	aquinas	1 meaning
+e	aquacise	aquacise	1 meaning
+e	aqualung	aqualung	1 meaning
+e	aquapark	aquapark	1 meaning
+e	aquarium	aquarium	2 meanings
+e	aquarius	aquarius	3 meanings
+e	aquatics	aquatics	1 meaning
+e	aquatint	aquatint	1 meaning
+e	aqueduct	aqueduct	2 meanings
+e	aqua regia	aquaregia	1 meaning
+e	aquitaine	aquitaine	1 meaning
+e	aquamarine	aquamarine	2 meanings
+e	aquaponics	aquaponics	1 meaning
+e	aqua walking	aquawalking	1 meaning
+e	aquiline nose	aquilinenose	1 meaning

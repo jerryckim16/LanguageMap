@@ -1,0 +1,203 @@
+e	phi	phi	1 meaning
+e	pho	pho	1 meaning
+e	phev	phev	1 meaning
+e	phew	phew	1 meaning
+e	phon	phon	1 meaning
+e	-phone	phone	1 meaning
+e	phase	phase	1 meaning
+e	phlox	phlox	1 meaning
+e	phone	phone	2 meanings
+e	phonk	phonk	1 meaning
+e	phony	phony	2 meanings
+e	phú quốc	phquc	1 meaning
+e	-phobia	phobia	2 meanings
+e	phalsa	phalsa	1 meaning
+e	phenol	phenol	2 meanings
+e	phenyl	phenyl	1 meaning
+e	philia	philia	1 meaning
+e	philip	philip	1 meaning
+e	phlegm	phlegm	2 meanings
+e	phloem	phloem	1 meaning
+e	phobia	phobia	1 meaning
+e	phobos	phobos	2 meanings
+e	phoebe	phoebe	2 meanings
+e	phonon	phonon	1 meaning
+e	photic	photic	1 meaning
+e	photon	photon	1 meaning
+e	phrase	phrase	3 meanings
+e	phuket	phuket	2 meanings
+e	phylum	phylum	1 meaning
+e	phalanx	phalanx	2 meanings
+e	phallic	phallic	1 meaning
+e	phallus	phallus	1 meaning
+e	phantom	phantom	1 meaning
+e	pharaoh	pharaoh	1 meaning
+e	pharynx	pharynx	1 meaning
+e	phaëthon	phathon	1 meaning
+e	phineas	phineas	1 meaning
+e	phoebus	phoebus	1 meaning
+e	phoenix	phoenix	5 meanings
+e	phoneme	phoneme	1 meaning
+e	phonics	phonics	1 meaning
+e	phugoid	phugoid	1 meaning
+e	physics	physics	1 meaning
+e	phaistos	phaistos	1 meaning
+e	pharisee	pharisee	1 meaning
+e	pharmacy	pharmacy	3 meanings
+e	pheasant	pheasant	1 meaning
+e	philemon	philemon	2 meanings
+e	philtrum	philtrum	1 meaning
+e	phimosis	phimosis	1 meaning
+e	phinehas	phinehas	1 meaning
+e	phishing	phishing	1 meaning
+e	phlegmon	phlegmon	1 meaning
+e	phone sex	phonesex	1 meaning
+e	phonemic	phonemic	1 meaning
+e	phonetic	phonetic	1 meaning
+e	phreatic	phreatic	1 meaning
+e	physical	physical	4 meanings
+e	physique	physique	1 meaning
+e	phagocyte	phagocyte	1 meaning
+e	pharaonic	pharaonic	1 meaning
+e	pharsalia	pharsalia	1 meaning
+e	phenazine	phenazine	1 meaning
+e	phenomime	phenomime	1 meaning
+e	phenotype	phenotype	1 meaning
+e	pheromone	pheromone	1 meaning
+e	philately	philately	1 meaning
+e	philippic	philippic	1 meaning
+e	philology	philology	1 meaning
+e	phnom penh	phnompenh	1 meaning
+e	phoenicia	phoenicia	1 meaning
+e	phonecard	phonecard	1 meaning
+e	phonetics	phonetics	1 meaning
+e	phonolite	phonolite	1 meaning
+e	phonology	phonology	1 meaning
+e	phosphate	phosphate	1 meaning
+e	phosphide	phosphide	1 meaning
+e	phosphine	phosphine	2 meanings
+e	phosphite	phosphite	1 meaning
+e	photobook	photobook	1 meaning
+e	photocard	photocard	1 meaning
+e	photocopy	photocopy	2 meanings
+e	photomask	photomask	1 meaning
+e	photonics	photonics	1 meaning
+e	photopeak	photopeak	1 meaning
+e	photoshop	photoshop	1 meaning
+e	phthalein	phthalein	1 meaning
+e	phycology	phycology	1 meaning
+e	physic nut	physicnut	1 meaning
+e	physician	physician	1 meaning
+e	physicist	physicist	1 meaning
+e	phallicism	phallicism	1 meaning
+e	pharmacist	pharmacist	1 meaning
+e	pharyngeal	pharyngeal	2 meanings
+e	phase space	phasespace	1 meaning
+e	phenomenal	phenomenal	1 meaning
+e	phenomenon	phenomenon	3 meanings
+e	philistine	philistine	4 meanings
+e	philosophy	philosophy	5 meanings
+e	phlogiston	phlogiston	1 meaning
+e	phoenician	phoenician	1 meaning
+e	phonograph	phonograph	1 meaning
+e	phosphorus	phosphorus	2 meanings
+e	photo album	photoalbum	1 meaning
+e	photo shoot	photoshoot	1 meaning
+e	photodiode	photodiode	1 meaning
+e	photogenic	photogenic	1 meaning
+e	photograph	photograph	2 meanings
+e	photometer	photometer	1 meaning
+e	photopaper	photopaper	1 meaning
+e	phrasebook	phrasebook	1 meaning
+e	phrenology	phrenology	1 meaning
+e	physiology	physiology	1 meaning
+e	phytic acid	phyticacid	1 meaning
+e	phantom limb	phantomlimb	1 meaning
+e	phantom pain	phantompain	1 meaning
+e	pharyngitis	pharyngitis	1 meaning
+e	philanderer	philanderer	1 meaning
+e	philatelist	philatelist	1 meaning
+e	philippians	philippians	1 meaning
+e	philippines	philippines	1 meaning
+e	philologist	philologist	1 meaning
+e	philosopher	philosopher	1 meaning
+e	phobophobia	phobophobia	1 meaning
+e	photocopier	photocopier	1 meaning
+e	photography	photography	1 meaning
+e	photophobia	photophobia	1 meaning
+e	photoresist	photoresist	1 meaning
+e	photosphere	photosphere	1 meaning
+e	phrasal verb	phrasalverb	1 meaning
+e	phraseology	phraseology	1 meaning
+e	phrygian cap	phrygiancap	1 meaning
+e	phthalazine	phthalazine	1 meaning
+e	physicalism	physicalism	1 meaning
+e	phagocytosis	phagocytosis	1 meaning
+e	pharmacology	pharmacology	1 meaning
+e	phenanthrene	phenanthrene	1 meaning
+e	philadelphia	philadelphia	1 meaning
+e	philanthropy	philanthropy	1 meaning
+e	phillips head	phillipshead	2 meanings
+e	phonotactics	phonotactics	1 meaning
+e	phospholipid	phospholipid	1 meaning
+e	photobiology	photobiology	1 meaning
+e	photocarrier	photocarrier	1 meaning
+e	photographer	photographer	1 meaning
+e	photomontage	photomontage	1 meaning
+e	phototherapy	phototherapy	1 meaning
+e	phrenologist	phrenologist	1 meaning
+e	phase velocity	phasevelocity	1 meaning
+e	phenomenalism	phenomenalism	1 meaning
+e	phenomenology	phenomenology	1 meaning
+e	phenylalanine	phenylalanine	1 meaning
+e	philanthropic	philanthropic	1 meaning
+e	philematology	philematology	1 meaning
+e	philippine sea	philippinesea	1 meaning
+e	phonemic split	phonemicsplit	1 meaning
+e	phonosemantic	phonosemantic	1 meaning
+e	photoelectron	photoelectron	1 meaning
+e	photoresistor	photoresistor	1 meaning
+e	phylloquinone	phylloquinone	1 meaning
+e	phylogenetics	phylogenetics	1 meaning
+e	physiotherapy	physiotherapy	1 meaning
+e	phantasmagoria	phantasmagoria	2 meanings
+e	pharmacologist	pharmacologist	1 meaning
+e	phenanthridine	phenanthridine	1 meaning
+e	phonemic merger	phonemicmerger	1 meaning
+e	phonetic symbol	phoneticsymbol	1 meaning
+e	phosphoric acid	phosphoricacid	1 meaning
+e	photosynthesis	photosynthesis	1 meaning
+e	phytopathology	phytopathology	1 meaning
+e	pharmacotherapy	pharmacotherapy	1 meaning
+e	phase modulation	phasemodulation	1 meaning
+e	phase transition	phasetransition	1 meaning
+e	phenolphthalein	phenolphthalein	1 meaning
+e	phenylketonuria	phenylketonuria	1 meaning
+e	philippine eagle	philippineeagle	1 meaning
+e	philosopher king	philosopherking	1 meaning
+e	phosphorescence	phosphorescence	1 meaning
+e	phosphorous acid	phosphorousacid	1 meaning
+e	phosphorylation	phosphorylation	1 meaning
+e	photodermatosis	photodermatosis	1 meaning
+e	photomultiplier	photomultiplier	1 meaning
+e	phenomenological	phenomenological	1 meaning
+e	phonetic alphabet	phoneticalphabet	1 meaning
+e	photoelectricity	photoelectricity	1 meaning
+e	photorespiration	photorespiration	1 meaning
+e	photovoltaic cell	photovoltaiccell	1 meaning
+e	physical quantity	physicalquantity	1 meaning
+e	pharyngealization	pharyngealization	1 meaning
+e	philippine islands	philippineislands	1 meaning
+e	philosopher's stone	philosophersstone	1 meaning
+e	photoconductivity	photoconductivity	1 meaning
+e	physical chemistry	physicalchemistry	1 meaning
+e	physical education	physicaleducation	1 meaning
+e	phosphatidylserine	phosphatidylserine	1 meaning
+e	phillips screwdriver	phillipsscrewdriver	1 meaning
+e	philosophy of science	philosophyofscience	1 meaning
+e	photoelectric effect	photoelectriceffect	1 meaning
+e	pheasant-tailed jacana	pheasanttailedjacana	1 meaning
+e	philippine cuckoo-dove	philippinecuckoodove	1 meaning
+e	physician, heal thyself	physicianhealthyself	1 meaning
+e	phono-semantic compound	phonosemanticcompound	1 meaning
+e	phase contrast microscopy	phasecontrastmicroscopy	1 meaning

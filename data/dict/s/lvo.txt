@@ -1,0 +1,107 @@
+e	vow	vow	2 meanings
+e	void	void	2 meanings
+e	vole	vole	1 meaning
+e	volt	volt	1 meaning
+e	vore	vore	1 meaning
+e	vote	vote	2 meanings
+j	ヴォケ	voke	
+j	ヴォージュ	voju	
+e	vocal	vocal	3 meanings
+e	vodka	vodka	1 meaning
+e	vogue	vogue	2 meanings
+e	voice	voice	12 meanings
+e	volga	volga	1 meaning
+e	volvo	volvo	1 meaning
+e	vomit	vomit	2 meanings
+e	voter	voter	1 meaning
+e	vowel	vowel	2 meanings
+e	voxel	voxel	1 meaning
+j	ヴォッカ	vokka	
+e	voiced	voiced	1 meaning
+e	volapük	volapk	1 meaning
+e	volley	volley	1 meaning
+e	volume	volume	5 meanings
+e	volute	volute	1 meaning
+e	voodoo	voodoo	1 meaning
+e	vortex	vortex	1 meaning
+e	vosges	vosges	1 meaning
+e	voting	voting	1 meaning
+e	voyage	voyage	1 meaning
+e	voyeur	voyeur	1 meaning
+j	ヴォトカ	votoka	
+j	ヴォルヴォ	voruvo	Volvo
+j	ヴォロ語	vorogo	ウラル語族に属する言語でエストニアに住んでいるヴォ…
+j	ヴォートカ	votoka	
+j	ヴォールト	voruto	vault
+e	voicing	voicing	2 meanings
+e	voivode	voivode	1 meaning
+e	volcano	volcano	1 meaning
+e	vologda	vologda	1 meaning
+e	voltage	voltage	1 meaning
+e	voluble	voluble	1 meaning
+e	voucher	voucher	1 meaning
+j	ヴォイヴォダ	voivoda	
+j	ヴォジャノーイ	vojanoi	vodyanoy
+j	ヴォツカ	votsuka	
+j	ヴォージュ県	vojuken	
+e	vocalist	vocalist	1 meaning
+e	vocation	vocation	2 meanings
+e	vocative	vocative	2 meanings
+e	vodyanoy	vodyanoy	1 meaning
+e	voir dire	voirdire	1 meaning
+e	volatile	volatile	3 meanings
+e	volition	volition	2 meanings
+e	voronezh	voronezh	1 meaning
+j	ヴォルムス	vorumusu	
+j	ヴォログダ	voroguda	
+j	ヴォロネジ	voroneji	
+j	ヴォードヴィル	vodoviru	vaudeville (a style of mu…
+e	vocal cord	vocalcord	1 meaning
+e	voice-over	voiceover	1 meaning
+e	voicebank	voicebank	1 meaning
+e	voiceless	voiceless	2 meanings
+e	voicemail	voicemail	1 meaning
+e	vojvodina	vojvodina	1 meaning
+e	volgograd	volgograd	1 meaning
+e	voltmeter	voltmeter	1 meaning
+e	voluntary	voluntary	1 meaning
+e	volunteer	volunteer	7 meanings
+e	vomer bone	vomerbone	1 meaning
+e	voracious	voracious	2 meanings
+e	voyeurism	voyeurism	1 meaning
+j	ヴォイスメール	voisumeru	
+j	ヴォイヴォディナ	voivodina	
+j	ヴォラピュク	vorapyuku	Volapük (an artificial la…
+e	vocaboomer	vocaboomer	1 meaning
+e	vocabulary	vocabulary	4 meanings
+e	vocal cords	vocalcords	1 meaning
+e	voice actor	voiceactor	1 meaning
+e	voiceprint	voiceprint	1 meaning
+e	volatility	volatility	5 meanings
+e	volitional	volitional	1 meaning
+e	volkswagen	volkswagen	2 meanings
+e	volleyball	volleyball	2 meanings
+e	voluptuous	voluptuous	2 meanings
+e	vorarlberg	vorarlberg	1 meaning
+e	volcanic ash	volcanicash	1 meaning
+e	volcanology	volcanology	1 meaning
+e	voluntarily	voluntarily	1 meaning
+j	ヴォルフガング	vorufugangu	
+e	vocalization	vocalization	3 meanings
+e	vocative case	vocativecase	1 meaning
+e	voice changer	voicechanger	1 meaning
+e	voice message	voicemessage	1 meaning
+e	volcanic bomb	volcanicbomb	1 meaning
+e	volcanic neck	volcanicneck	1 meaning
+e	vorarephilia	vorarephilia	1 meaning
+e	voting system	votingsystem	1 meaning
+e	vowel harmony	vowelharmony	1 meaning
+j	ヴォルゴグラード	vorugogurado	
+e	volcanologist	volcanologist	1 meaning
+e	voice synthesis	voicesynthesis	1 meaning
+e	volcanic winter	volcanicwinter	1 meaning
+e	vocal cord nodule	vocalcordnodule	1 meaning
+e	vocational school	vocationalschool	1 meaning
+e	voice synthesizer	voicesynthesizer	1 meaning
+e	volleyball player	volleyballplayer	1 meaning
+e	vote of no confidence	voteofnoconfidence	1 meaning

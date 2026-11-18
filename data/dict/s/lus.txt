@@ -1,0 +1,386 @@
+e	us	us	2 meanings
+e	usa	usa	1 meaning
+e	use	use	5 meanings
+j	うす	usu	杵でたたく台にして、脱穀、製粉や餅つきを行う道具。…
+j	うそ	uso	真実と異なる事実を、真実ではないことを知りながら、…
+j	ウソ	uso	スズメ目アトリ科ウソ属の鳥。学名:Pyrrhula…
+j	嘘	uso	a lie; a falsehood; a fal…
+j	嘯	uso	a whistle (sound), a whis…
+j	宇佐	usa	Usa (a city in Ōita Prefe…
+j	獺	uso	an otter
+j	臼	usu	millstone, mortar
+j	薄	usu	light (in degree or conce…
+j	鷽	uso	Eurasian bullfinch, Pyrrh…
+k	우사	usa	cowshed; cattle pen
+k	우세	use	predominance; superiority
+k	우수	usu	Rain Water (the second of…
+k	우시	usi	
+e	used	used	1 meaning
+e	user	user	2 meanings
+e	ussr	ussr	1 meaning
+j	うし	ushi	憂し: Classical Japanese fo…
+j	うすい	usui	板や紙、布地といった、それを構成する三次元中、ある…
+j	うっす	ussu	yo, hi
+j	うっそう	usso	鬱蒼: dense, thick (of wood…
+j	ウシ	ushi	哺乳綱ウシ目（偶蹄目）ウシ科ウシ亜科ウシ属に属する…
+j	丑	ushi	the Ox, the second of the…
+j	杅水	usui	湯呑。
+j	烏孫	uson	中国漢から南北朝の時代、天山山脈の北方に拠ったトル…
+j	牛	ushi	cow, bull, ox, cattle, a …
+j	胡散	usan	strange; suspicious
+j	臼井	usui	a surname
+j	薄い	usui	thin (of little thickness…
+j	雨師	ushi	rain god
+j	鬱蒼	usso	dense, thick (of woods or…
+j	齲歯	ushi	synonym of 虫歯 (mushiba, “…
+k	우산	usan	umbrella
+k	우슈	ushu	
+k	우심	usim	
+e	usage	usage	3 meanings
+e	usher	usher	1 meaning
+e	usual	usual	1 meaning
+e	usurp	usurp	1 meaning
+e	usury	usury	2 meanings
+j	うさぎ	usagi	哺乳類の一。ウサギ目ウサギ科に属する草食動物。耳が…
+j	うしお	ushio	満ち干する海水。
+j	うすうす	ususu	確実ではないが何となく分かるさま。
+j	うすぎ	usugi	（寒くても）衣類をあまり重ねて着ないこと。
+j	うすげ	usuge	密度が薄い髪の毛。
+j	うすで	usude	紙、布などの地が薄いこと。また、そのようなもの。
+j	うすば	usuba	刃の薄い刃物。
+j	うすび	usubi	弱い日光。
+j	うすら	usura	薄い、かすか、弱い、なんとなく、などの意を表す語。
+j	うせる	useru	無くなる。消える。去る。
+j	うそね	usone	寝ているふりをすること。
+j	うその	usono	
+j	ウサギ	usagi	哺乳綱・ウサギ目・ウサギ科に属する兎形類の総称であ…
+j	ウサル	usaru	
+j	ウスター	usuta	Worcester
+j	兎	usagi	rabbit; hare; leporid
+j	右足	usoku	右の足。
+j	嘘字	usoji	実際にはない、でたらめな字。字画を誤った字や誤用し…
+j	失せる	useru	to disappear; to vanish
+j	失せろ	usero	
+j	宇佐美	usami	a surname
+j	有心	ushin	思慮分別があること。
+j	薄地	usuji	布地や板などで厚さが薄いもの。
+j	薄手	usude	thin (of paper or cloth),…
+j	薄目	usume	slightly opened eye; half…
+j	薄着	usugi	light clothing
+k	우상	usang	an idol, icon of venerati…
+k	우선	useon	first, foremost
+k	우설	useol	rain and snow
+k	우송	usong	
+k	우수리	usuri	excess, an additional val…
+k	우수수	ususu	물건이 수북하게 쏟아지는 모양.
+k	우수의	usuui	
+k	우시시	usisi	
+k	웃음	useum	laughter
+e	useful	useful	1 meaning
+e	usenet	usenet	1 meaning
+e	usonia	usonia	1 meaning
+e	ussuri	ussuri	1 meaning
+e	usurer	usurer	1 meaning
+j	うしや	ushiya	牛を飼うための小屋。
+j	うしろ	ushiro	空間的方向。
+j	うすあじ	usuaji	薄味: lightly seasoned
+j	うすいた	usuita	厚みの無い板。
+j	うすいろ	usuiro	薄い色。
+j	うすおす	usuosu	
+j	うすらい	usurai	「うすらひ」に同じ。
+j	うせつ	usetsu	右折: right turn
+j	うせやん	useyan	
+j	うっすら	ussura	thinly; faintly
+j	うっせき	usseki	鬱積: accumulation of emoti…
+j	うっそり	ussori	うっかり、またぼんやりしていること。また、その人。
+j	う蝕	ushoku	
+j	右丞相	ushojo	右大臣の唐名。
+j	右折	usetsu	turning right (at an inte…
+j	右旋糖	usento	
+j	後ろ	ushiro	the back, the behind, the…
+j	牛田	ushida	a surname
+j	牛追い	ushioi	
+j	羽色	ushoku	鳥類の羽毛の色。
+j	薄々	usuusu	vaguely, mildly, faintly …
+j	薄味	usuaji	lightly seasoned, mild (i…
+j	薄茶	usucha	薄く点てた抹茶。
+j	迂拙	usetsu	世渡りが下手で愚かなこと。
+j	雨雪	usetsu	雨と雪。
+j	鬱積	usseki	buildup of emotions, espe…
+j	齲蝕	ushoku	caries
+k	우성	useong	
+k	우수한	usuhan	
+k	우스운	useuun	'우습다'의 관형사형.
+k	우스움	useuum	'우습다'의 명사형.
+k	우승	useung	victory; championship
+k	우시개	usigae	'우스개'의 경상, 제주도 사투리.
+k	우썩	usseok	
+k	웃으운	useuun	
+e	use case	usecase	1 meaning
+e	useless	useless	2 meanings
+e	userbox	userbox	1 meaning
+e	ushanka	ushanka	1 meaning
+e	usonian	usonian	2 meanings
+e	usually	usually	1 meaning
+e	usurper	usurper	1 meaning
+j	うさぎ座	usagiza	兎座: (astronomy) Lepus
+j	うさちゃん	usachan	bunny rabbit
+j	うさぶろう	usaburo	卯三郎: a male given name
+j	うしおに	ushioni	潮汁の別称。
+j	うしかい	ushikai	牛を飼育したり、使役している人。
+j	うしなう	ushinau	持っていたものを無くす。
+j	うすかわ	usukawa	表面を覆う薄い皮膜。
+j	うすがみ	usugami	ごく薄い紙。
+j	うすぎぬ	usuginu	布地の薄い衣服。
+j	うすぎり	usugiri	薄く切ること。また、薄く切られたもの。
+j	うすぐも	usugumo	薄い雲。薄雲^(（はくうん）)。
+j	うすごおり	usugori	薄く張ったこおり。はくひょう。うすらひ。
+j	うすじも	usujimo	朝に薄く降りた霜。
+j	うすぞこ	usuzoko	底が薄いこと。特に、靴底が薄いこと。
+j	うすのろ	usunoro	薄のろ, 薄鈍: blockhead, dumba…
+j	うすはぎ	usuhagi	打ち上がって来た写植文字の不要な部分を、印画紙表面…
+j	うすべに	usubeni	淡い紅色。淡紅色。
+j	うすまる	usumaru	濃度が落ちる。薄くなる。
+j	うすめる	usumeru	濃度や厚みを下げる。薄くする。
+j	うすもや	usumoya	薄くかかった靄。
+j	うすやみ	usuyami	薄闇: darkness
+j	うすらひ	usurahi	薄く張ったこおり。うすごおり。
+j	うすれる	usureru	薄くなる。
+j	うそなき	usonaki	さも泣いている振りをすること。泣き真似。
+j	うそぴょん	usopyon	just kidding
+j	うそぶく	usobuku	しらないふりをする。そらとぼける。
+j	ウサ耳	usamimi	rabbit ears; bunny ears, …
+j	ウシバエ	ushibae	a warble fly
+j	ウシャンカ	ushanka	
+j	兎座	usagiza	Lepus
+j	卯三郎	usaburo	a male given name
+j	右室	ushitsu	synonym of 右心室 (ushinshit…
+j	右少弁	ushoben	律令制で太政官右弁官局の三等官で右大弁、右中弁の下…
+j	右心房	ushinbo	四つある心臓の室のうち右側上部にある部分。全身から…
+j	嘘だろ	usodaro	an exclamation of surpris…
+j	嘘告	usokoku	fake confession of love (…
+j	嘘泣き	usonaki	crocodile tears; fake cry…
+j	嘯く	usobuku	to boast, to brag
+j	失う	ushinau	to lose (possession of so…
+j	失ウ	ushinau	katakana spelling of 失う
+j	後ろへ	ushiroe	
+j	牛さん	ushisan	
+j	牛偏	ushihen	漢字の部首「⽜」が偏である場合の呼称。
+j	牛飼い	ushikai	
+j	牛鬼	ushioni	ox yōkai
+j	薄い本	usuihon	doujinshi, especially tho…
+j	薄い紗	usuisha	
+j	薄まる	usumaru	to become thin or weak, t…
+j	薄める	usumeru	to dilute, water down
+j	薄ら氷	usurahi	synonym of 薄氷 (kakuhyō, u…
+j	薄れる	usureru	to become dim; to fade; t…
+j	薄焼き	usuyaki	lightly fried or baked
+j	薄鈍	usunoro	dimwit, dullard, fool
+j	鷽姫	usohime	synonym of 鷽 (uso, “Euras…
+k	우샨카	usyanka	
+k	우수하다	usuhada	excellent
+k	우스개	useugae	comicality, jocularity; j…
+k	우스터	useuteo	
+k	우습다	useupda	funny, laughable, amusing
+k	우심실	usimsil	'오른심실'.
+k	웃음보	useumbo	burst of (suppressed) lau…
+e	us dollar	usdollar	1 meaning
+e	user page	userpage	1 meaning
+e	username	username	1 meaning
+j	うさぎうま	usagiuma	ロバ(驢馬)の別名。哺乳綱奇蹄目ウマ科ウマ属ロバ亜…
+j	うしごや	ushigoya	牛小屋: cowshed, byre, cattl…
+j	うしずもう	ushizumo	牛同士を組ませて牛角で突き合わせて勝敗を決める遊び…
+j	うしづき	ushizuki	牛同士を嗾け、牛角で突き合せる競技。闘牛。
+j	うしとら	ushitora	方角の称で、東北をさす。いわゆる鬼門の方角であり、…
+j	うしのひ	ushinohi	暦の上で丑にあたる日。
+j	うすあかり	usuakari	dim light
+j	うすくち	usukuchi	特に醤油の味や色が薄いこと。
+j	うすぐらい	usugurai	仄かに暗い。
+j	うすっぺら	usuppera	ぺらぺらに薄く貧相なさま。
+j	うすわらい	usuwarai	声を出さずわずかに笑うような表情。うすらわらい。
+j	うそくさい	usokusai	suspicious-sounding
+j	うそつき	usotsuki	嘘を言うこと。また、その人。
+j	うそつけ	usotsuke	liar!
+j	ウシ目	ushimoku	《分類学》 かつて哺乳綱ローラシア獣上目クジラ偶蹄…
+j	ウスタシャ	usutasha	Ustashe (historical Croat…
+j	丑寅	ushitora	northeast
+j	兎馬	usagiuma	donkey
+j	右相国	ushokoku	右大臣の唐名。
+j	嘘つき	usotsuki	liar; fibber
+j	嘘松	usomatsu	made-up story posted to S…
+j	後の	ushirono	
+j	後ろの	ushirono	
+j	牛小屋	ushigoya	cowshed, byre, cattle barn
+j	牛皮	ushigawa	oxhide
+j	牛鮫	ushizame	synonym of 大目白鮫 (ōmejiroz…
+j	薄っぺら	usuppera	very thin, flimsy
+j	薄化粧	usugesho	口紅やおしろいなどを薄くつけ、あっさりした化粧。
+j	薄明かり	usuakari	
+j	薄暗い	usugurai	gloomy, dim
+j	薄笑い	usuwarai	faint smirk
+j	薄黄色	usukiiro	
+k	우산이끼	usanikki	A thallose liverwort of t…
+k	우수토실	usutosil	합류식 하수관에서 빗물의 일부를 하수처리장으로…
+k	우승자	useungja	
+k	우실우실	usirusil	
+k	우심방	usimbang	'오른심방'.
+k	웃어른	useoreun	
+e	ussuriysk	ussuriysk	1 meaning
+j	うさぎがり	usagigari	野兎を鉄砲で撃ったり、山に張った網の中に追い立てて…
+j	うさぎごや	usagigoya	兎を飼うための小屋。
+j	うさんくさい	usankusai	嘘っぽい。怪しい。
+j	うしあわせ	ushiawase	牛同士を組ませて牛角で突き合う遊び。闘牛。
+j	うしおじる	ushiojiru	魚介類の出汁を塩で調味した汁物。
+j	うしかい座	ushikaiza	Boötes
+j	うしがえる	ushigaeru	カエル目アカガエル属に属するかえるの一種。学名は …
+j	うしくつ	ushikutsu	牛靴
+j	うしさし	ushisashi	牛肉の刺身。
+j	うすあかるい	usuakarui	僅かに明るいさま。
+j	うすがすみ	usugasumi	薄くかかっている霞。
+j	うすがすむ	usugasumu	to be slightly misty
+j	うすぐもり	usugumori	上層の雲が薄く広がっているが、日照はある天気。
+j	うすだいだい	usudaidai	
+j	うすはなだ	usuhanada	やや灰色みを帯びた淡い青色。うすはなだいろ。
+j	うすみどり	usumidori	薄い緑色。
+j	うそっぱち	usoppachi	「嘘」を強調した語。
+j	ウシガエル	ushigaeru	「牛蛙」の学術的表記。
+j	ウシマンボウ	ushimanbo	フグ目マンボウ科マンボウ属に分類される海水魚。学名…
+j	ウスターソース	usutasosu	「ウースターソース」の表記ゆれ。
+j	ウスリースク	usurisuku	
+j	ウスリー川	usurigawa	
+j	ウースターソース	usutasosu	イギリスのウースターシャー州を発祥とする比較的濃度…
+j	兎菊	usagigiku	キク科の多年草。日本の北海道、本州中部以北の高山に…
+j	嘘っぱち	usoppachi	baldfaced lie, flat out l…
+j	嘘を吐く	usootsuku	to tell a lie
+j	牛蛙	ushigaeru	an American bullfrog (Lit…
+j	牛靴	ushikutsu	
+j	牛飼い座	ushikaiza	
+j	胡散臭い	usankusai	dubious, suspicious
+j	臼辺鳥	usubedori	chicken (bird)
+j	薄紅梅	usukoubai	
+j	薄緑	usumidori	pale green
+k	우생학	usaenghak	
+k	우선권	useongwon	
+k	우선하다	useonhada	
+k	우수리강	usurigang	
+k	우수수하다	ususuhada	
+k	우시시하다	usisihada	
+k	우실대다	usildaeda	
+k	웃음소리	useumsori	laughter, laughing voice
+e	usefulness	usefulness	1 meaning
+e	usurpation	usurpation	1 meaning
+j	うしなかす	ushinakasu	（方言、富山など）無くす
+j	うしろあし	ushiroashi	足が四本ある動物の、頭から遠いほうの二本の足。
+j	うしろがわ	ushirogawa	後ろの側。後方。
+j	うしろぜめ	ushirozeme	城を包囲する敵や布陣する敵を背後から攻めること。
+j	うしろだて	ushirodate	陰で援助すること。その人。パトロン。後ろ見。
+j	うしろづめ	ushirozume	予備で後方に配置する部隊。
+j	うしろとび	ushirotobi	縄跳びの縄を前から後ろに回して跳ぶ方法。
+j	うしろまき	ushiromaki	味方を攻撃する敵を背後から取り囲むこと。うしろづめ。
+j	うしろむき	ushiromuki	こちらに背を向けること。
+j	うしろゆび	ushiroyubi	背後や遠くから指で指し示し、謗ったり、嘲笑ったりす…
+j	うすぎたない	usugitanai	なんとなく汚ならしく（汚れているように）感じられる。
+j	うすくれない	usukurenai	淡い紅色。淡紅色。うすべに。
+j	うすはないろ	usuhanairo	薄みがかった青紫色。
+j	うすらわらい	usurawarai	声を出さずわずかに笑うような表情。うすわらい。
+j	うそも方便	usomohoben	
+j	嘘も方便	usomohoben	sometimes white lies may …
+j	後ろ側	ushirogawa	
+j	後ろ盾	ushirodate	shield worn across one's …
+j	後ろ足	ushiroashi	
+j	後ろ髪	ushirogami	hair on the back of one's…
+j	後山	ushiroyama	Mount Ushiro (a mountain …
+j	後指	ushiroyubi	
+j	有心連歌	ushinrenga	和歌のような優雅な題材や用語などを使った連歌。
+j	牛の骨	ushinohone	素性が不明な者を嘲ること。
+j	牛之濱	ushinohama	a surname
+j	薄刃包丁	usubabocho	usuba bocho, thin-bladed …
+j	薄汚い	usugitanai	
+k	우산소나무	usansonamu	stone pine (Pinus pinea)
+k	우석대다	useokdaeda	
+k	우석우석	useoguseok	
+k	우선우선	useonuseon	
+k	우슬대다	useuldaeda	
+k	우슬우슬	useuruseul	
+k	우승하다	useunghada	to become winner (in a to…
+k	우썩하다	usseokhada	
+k	웃음거리	useumgeori	laughing stock
+e	useful idiot	usefulidiot	1 meaning
+j	うしころし	ushikoroshi	かまつかの別称。
+j	うしのつき	ushinotsuki	陰暦十二月の異称。
+j	うしろぞなえ	ushirozonae	本隊の最後尾に待機し、後方からの追撃に備える軍勢。
+j	うしろだおす	ushirodaosu	日程をそれまでの予定より遅くする。後ろ倒しする。
+j	うしろめたい	ushirometai	feeling guilty
+j	うすばかげろう	usubakagero	アミメカゲロウ目ウスバカゲロウ科に属する昆虫の総称…
+j	うすよごれる	usuyogoreru	何となく汚ない感じがする。
+j	うそいつわり	usoitsuwari	「嘘」を強調した語。
+j	ウスバカゲロウ	usubakagero	アミメカゲロウ目ウスバカゲロウ科に属する昆虫の一種…
+j	ウスリータヌキ	usuritanuki	大陸産タヌキの基亜種。別名はアムールタヌキ。学名は…
+j	兎蝙蝠	usagikomori	brown long-eared bat, com…
+j	右心室	ushinshitsu	right ventricle
+j	嘘八百	usohappyaku	nothing but lies; full of…
+j	嘘発見器	usohakkenki	lie detector, polygraph
+j	後ろ歩き	ushiroaruki	walking backwards
+j	薄切り肉	usugiriniku	escalope - a thin slice o…
+j	薄紫	usumurasaki	
+j	薄羽蜉蝣	usubakagero	an antlion
+j	薄色海豚	usuiroiruka	an Indian humpback dolphin
+k	우수리스크	usuriseukeu	
+k	우스갯말	useugaenmal	우스갯소리.
+k	우스갯짓	useugaetjit	
+k	우실거리다	usilgeorida	
+k	우썩대다	usseokdaeda	
+k	우쓰노미야	usseunomiya	
+e	user-friendly	userfriendly	1 meaning
+j	うしろすがた	ushirosugata	後ろから見た姿。
+j	うしろだおし	ushirodaoshi	日程をそれまでの予定より遅くすること。
+j	うすきみわるい	usukimiwarui	何となく怖い感じがするさま。何となく気持ち悪い。
+j	うすばきとんぼ	usubakitonbo	トンボ目トンボ科ウスバキトンボ属に属するとんぼの一…
+j	ウシツツキ	ushitsutsuki	
+j	後ろ姿	ushirosugata	someone's appearance from…
+j	牛の問題	ushinomondai	「アルキメデスの牛の問題」の略。二次不定方程式に関…
+j	薄気味悪い	usukimiwarui	weird, eerie, uncanny
+j	薄羽黄蜻蛉	usubakitonbo	a globe skimmer (Pantala …
+j	薄翅黄蜻蛉	usubakitonbo	
+j	薄葉細辛	usubasaishin	アマノスズクサ科に属する多年草。辛みが強く、根や葉…
+k	우상숭배	usangsungbae	idolatry
+k	우석거리다	useokgeorida	
+k	우스갯소리	useugaetsori	joke, funny story
+k	우슬거리다	useulgeorida	
+k	우실우실하다	usirusilhada	
+k	우썩우썩	usseogusseok	
+k	우쑤리스크	ussuriseukeu	'우수리스크'의 북한말.
+k	웃어넘기다	useoneomgida	to laugh off, to laugh aw…
+e	user interface	userinterface	1 meaning
+j	うすらとんかち	usuratonkachi	
+j	丑三つ時	ushimitsudoki	the time between and 2:00…
+j	牛氈鹿	ushikamoshika	synonym of ヌー (nū, “gnu”)
+j	薄灰色沢鵟	usuhairochuhi	
+j	薄紫の	usumurasakino	
+k	우썩거리다	usseokgeorida	
+j	薄気味の悪い	usukiminowarui	
+k	우석우석하다	useoguseokhada	
+k	우선우선하다	useonuseonhada	
+k	우슬우슬하다	useuruseulhada	
+k	우실렁대다	usilleongdaeda	
+j	丑の時参り	ushinotokimairi	ushi no toki mairi, a tra…
+j	薄赤褐色	ususekikasshoku	
+k	우스꽝스레	useukkwangseure	
+j	うしのつのつき	ushinotsunotsuki	新潟県などで行われる闘牛の一種で勢子が鼻綱を放し牛…
+j	後指を指す	ushiroyubiwosasu	
+k	우스터셔 소스	useuteosyeososeu	Worcestershire sauce
+k	우실렁거리다	usilleonggeorida	
+k	우썩우썩하다	usseogusseokhada	
+k	웃음물총새	useummulchongsae	
+j	嘘から出た実	usokaradetamakoto	many a true word is spoke…
+j	嘘から出た真	usokaradetamakoto	嘘から出た実の別形。
+j	失われた世代	ushinawaretasedai	
+j	牛海綿状脳症	ushikaimenjonosho	bovine spongiform encepha…
+j	薄赤褐色の	ususekikasshokuno	
+j	うしのつのつきあい	ushinotsunotsukiai	牛同士を組み合わせ牛角を突き合わせて勝敗を決める遊…
+k	우선통행권	useontonghaenggwon	right of way
+k	우실렁우실렁	usilleongusilleong	
+j	後ろ足立ちする	ushiroashidachisuru	
+k	우스꽝스럽다	useukkwangseureopda	ridiculous, funny
+k	우실렁우실렁하다	usilleongusilleonghada	
+j	嘘ついたら針千本飲ます	usotsuitaraharisenbonnomasu	

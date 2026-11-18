@@ -1,0 +1,2300 @@
+e	in	in	5 meanings
+e	in-	in	1 meaning
+j	いん	in	
+j	イン	in	inside; interior; inner p…
+j	印	in	stamp, seal
+j	咽	in	throat
+j	員	in	member
+j	因	in	cause, reason
+j	姻	in	marriage; matrimonial all…
+j	引	in	the preface to a book; in…
+j	慇	in	only used in 慇懃 (ingin, “…
+j	殷	in	Shang dynasty
+j	淫	in	lewd, licentious, obscene…
+j	胤	in	lineage; descendant
+j	蔭	in	shade of the tree; shadow…
+j	院	in	institution
+j	隕	in	fall; fall from the sky t…
+j	隠	in	hide; conceal; be hidden;…
+j	韻	in	rhyme
+j	飲	in	drink
+k	인	in	person; people; human, hu…
+e	-ing	ing	1 meaning
+e	inc.	inc	1 meaning
+e	ink	ink	1 meaning
+e	inn	inn	1 meaning
+j	いな	ina	no
+j	いぬ	inu	哺乳類食肉目イヌ科イヌ属の動物、学名は Canis…
+j	いね	ine	イネ科イネ属の植物。特に Oryza sativa…
+j	いんおう	ino	
+j	イッヌ	inu	イヌの別形。; doggo
+j	イヌ	inu	いぬの学術的表記。学名Canis lupus fa…
+j	イネ	ine	いねの学術的表記。
+j	井野	ino	a surname
+j	伊南	ina	a village in Fukushima Pr…
+j	伊奈	ina	a surname
+j	伊能	ino	a surname
+j	伊那	ina	a city in Nagano Prefectu…
+j	去ぬ	inu	to go; to leave
+j	去ね	ine	
+j	寝ぬ	inu	to sleep
+j	戌	inu	the Dog, the eleventh of …
+j	淫雨	inu	長雨。霖雨。
+j	犬	inu	dog, canine
+j	率寝	inu	to sleep together in the …
+j	異な	ina	変な。妙な。
+j	異能	ino	remarkable ability; incre…
+j	瘖啞	ina	おし、言葉を発する能力がないこと。特に聴覚障害を原…
+j	稲	ine	the Asian rice plant, Ory…
+j	維那	ina	administrator of a temple…
+j	衣嚢	ino	衣類などを入れて背負ったりする袋。
+j	陰雨	inu	曇って雨が降ること。
+j	飯野	ino	a surname
+k	이나	ina	‘처녀’를 달리 이르는 말.
+k	잉	ing	Conveys the buzzing of sm…
+e	inca	inca	1 meaning
+e	inch	inch	1 meaning
+e	inez	inez	1 meaning
+j	いない	inai	稲田に引く水を貯めている場所。
+j	いなう	inau	
+j	いにゅう	inyu	移入: importation, immigrat…
+j	いぬい	inui	方角の称で、北西をさす。
+j	いんか	inka	引火: catching fire
+j	イナウ	inau	木幣。アイヌの祭具。
+j	インカ	inka	
+j	インキ	inki	ink
+j	インク	inku	ink
+j	インコ	inko	
+j	インター	inta	間、相互などの意味を付加し語を形成する。
+j	インド	indo	India (a country in South…
+j	インナー	inna	underwear, foundation gar…
+j	インフォ	info	インフォメーション。
+j	インポ	inpo	impotence
+j	インレー	inre	
+j	乾	inui	northwest
+j	什麼	inmo	what
+j	什麽	inmo	いかに。
+j	以内	inai	within, inside of a certa…
+j	以南	inan	that area and south of it
+j	允可	inka	聞き届けて許すこと。許可すること。
+j	允武	inbu	武徳が非常に盛んなこと。
+j	勻霧	inmu	香しい霧。
+j	印加	inka	application (of a voltage)
+j	印可	inka	仏や師が弟子の悟りや理解を証明すること。
+j	印字	inji	printing text or symbols
+j	印度	indo	dated spelling of インド: In…
+j	印璽	inji	imperial seal
+j	印画	inga	photographic print
+j	印相	inzo	仏や菩薩が手で表す印の形。
+j	印籠	inro	a seal case, usually lacq…
+j	印花	inka	陶器などで型を使用して草花の模様をつける技法。また…
+j	印行	inko	printing and publishing
+j	印譜	inpu	色々な印影を集めた書物。
+j	印顆	inka	印鑑。印章。判。
+j	印鼻	inbi	印鑑のつまんで持つ部分。印鈕。
+j	咽喉	inko	throat
+j	咽頭	into	pharynx
+j	因数	insu	factor
+j	因果	inga	fateful, unlucky
+j	因業	ingo	仏教における因と業。
+j	因由	inyu	物事が起こる原因。
+j	委任	inin	assignment, charge
+j	姻家	inka	婚姻により姻戚関係となった配偶者同士の家。
+j	廴部	inbu	部首「⼵」で分類した漢字の一群。
+j	引喩	inyu	言いたいことを有名な詩歌や故事・ことわざなどを引用…
+j	引導	indo	prayer for the dead
+j	引業	ingo	来世の生まれ合わせを決める重要な業。
+j	引火	inka	catching fire, burning
+j	引無	inmu	みみず。
+j	引用	inyo	quotation
+j	引航	inko	他の船を曳航すること。
+j	殞倒	into	倒れて死ぬこと。
+j	殞殪	inei	倒れて死ぬこと。
+j	殞霜	inso	落ちた霜。
+j	殷富	inpu	富み、栄えること。また、そのようなさま。
+j	殷殷	inin	大きな音がするさま。「殷」は「なりひびく」の意。
+j	氤氲	inun	氤氳の拡張新字体を用いた表記。
+j	氤氳	inun	dense, billowing mist or …
+j	淫具	ingu	synonym of 性具
+j	淫夢	inmu	lewd dream
+j	淫女	injo	淫らな女性。
+j	淫婦	inpu	淫らな女性。多情な女性。
+j	淫気	inki	性的な気分や欲望。欲情。
+j	淫獣	inju	extremely sexual being
+j	淫者	inja	過度に情欲に溺れたり淫行をする者。
+j	淫蕩	into	debauchery, lewdness, dis…
+j	淫蠱	inko	騙すこと。
+j	淫語	ingo	dirty talk
+j	淫費	inpi	妄りに金銭を費やすこと。
+j	淫辞	inji	みだらな言葉や話。
+j	淫靡	inbi	profligate; decadent; las…
+j	淫風	inpu	lewd customs and manners
+j	淫魔	inma	incubus or succubus
+j	煙熅	inun	こもること。
+j	癮者	inja	薬物や酒の中毒者。
+j	移入	inyu	importation or immigration
+j	胃内	inai	胃の内部。
+j	遺尿	inyo	主に夜間、睡眠中に無意識に尿を漏らすこと。遺溺。寝…
+j	遺溺	inyo	夜、眠っているときに小便を漏らすこと。遺尿。寝小便…
+j	院務	inmu	病院などの「院」がつく施設の運営に関する職務や事務。
+j	院号	ingo	「院」で終わる称号。
+j	院家	inge	大寺院。また、その子院。
+j	院歌	inka	病院など「院」がつく施設を代表する歌。
+j	院画	inga	a picture painted in a Ch…
+j	陰囊	inno	雄の陰茎の付け根付近に垂れ下がり、精巣や精索などが…
+j	陰府	inpu	path to the netherworld; …
+j	陰影	inei	shadow
+j	陰房	inbo	薄暗い部屋。日の光が届かない、奥深い部屋。
+j	陰暗	inan	薄暗いこと。陰気なこと。
+j	陰樹	inju	幼木の頃、日陰でも育つことができる樹木。
+j	陰毛	inmo	pubic hair
+j	陰気	inki	gloomy, melancholic
+j	陰火	inka	幽霊などが出る際、燐などが燃えてできるとされる火。…
+j	陰画	inga	a negative
+j	陰符	inpu	兵法書。
+j	陰謀	inbo	plot
+j	陰道	indo	vagina
+j	陰部	inbu	private parts (genitalia)
+j	陰阜	inpu	mons pubis
+j	陰陰	inin	薄暗いさま。
+j	陰陽	inyo	yin-yang
+j	陰雲	inun	雨雲。暗雲。
+j	陰霧	inmu	濃い霧。
+j	陰鬼	inki	死者の魂。亡霊。
+j	隠喩	inyu	metaphor
+j	隠所	injo	隠れる場所。隠棲する場所。
+j	隠狐	inko	和将棋、大局将棋で用いられる駒。前後方向と前後斜め…
+j	隠秘	inpi	秘密にすること。隠して見せないこと。
+j	隠者	inja	hermit
+j	隠蔵	inzo	隠れること。逃げ隠れること。
+j	隠語	ingo	a cant, argot, cryptolect…
+j	隠謀	inbo	人に知られないように企む良くない計画。
+j	隠避	inpi	helping a criminal to esc…
+j	音呼	inko	「鸚哥」を参照。
+j	韻事	inji	poetic occasion, elegant …
+j	韻尾	inbi	coda
+j	韻母	inbo	the rhyme of a Chinese sy…
+j	韻語	ingo	rhyme in kanbun
+j	飲用	inyo	drinking (consuming liqui…
+j	鸚哥	inko	a parrot or parakeet
+k	이날	inal	that day; this day; the d…
+k	이남	inam	한 선을 기준으로 하였을 때 그 선보다 아래쪽…
+k	이내	inae	within (in less than)
+k	이놈	inom	
+k	인가	inga	permission, license
+k	인고	ingo	
+k	인구	ingu	population
+k	인기	ingi	popularity
+k	인니	inni	synonym of 인도네시아 (Indones…
+k	인도	indo	sidewalk, pavement, walkw…
+k	인두	indu	
+k	인리	inri	
+k	인마	inma	더럽고 치사한 남자를 욕으로 일컫는 말.
+k	인모	inmo	
+k	인부	inbu	labourer; worker (especia…
+k	인사	insa	greeting
+k	인세	inse	royalty payment
+k	인소	inso	suppressing a laugh
+k	인수	insu	factor
+k	인시	insi	
+k	인애	inae	benevolence; kindheartedn…
+k	인어	ineo	merperson; merfolk
+k	인온	inon	
+k	인위	inwi	자연스럽지 않고 작위인 느낌이 드는 것.
+k	인유	inyu	
+k	인의	inui	
+k	인자	inja	factor
+k	인제	inje	now, but late (overdue); …
+k	인조	injo	artificiality, manmade qu…
+k	인주	inju	
+k	인지	inji	cognition
+k	인파	inpa	
+k	인하	inha	reduction; markdown; cut
+k	인호	inho	
+k	인후	inhu	throat
+e	-in-law	inlaw	1 meaning
+e	in bed	inbed	1 meaning
+e	inari	inari	1 meaning
+e	inbox	inbox	1 meaning
+e	incel	incel	1 meaning
+e	index	index	1 meaning
+e	india	india	1 meaning
+e	indra	indra	1 meaning
+e	indre	indre	1 meaning
+e	indri	indri	1 meaning
+e	indus	indus	2 meanings
+e	inept	inept	2 meanings
+e	infix	infix	1 meaning
+e	ingot	ingot	1 meaning
+e	inlay	inlay	2 meanings
+e	inlet	inlet	2 meanings
+e	input	input	2 meanings
+e	intel	intel	1 meaning
+j	いなか	inaka	都会から離れた地域。
+j	いなき	inaki	大和朝廷の地方官の一つで稲穀の収納を職務とする屯倉…
+j	いなぎ	inagi	大和朝廷の地方官の一つで稲穀の収納を職務とする屯倉…
+j	いなご	inago	稲子, 蝗: a locust
+j	いなす	inasu	to sidestep, to duck out …
+j	いなせ	inase	dashing
+j	いなだ	inada	「鰤」の小さいもの。
+j	いなば	inaba	稲の葉。田んぼに生えている稲。
+j	いなほ	inaho	稲の穂。
+j	いなむ	inamu	【否む】否と思う。そうではないとする。否定する。
+j	いなや	inaya	不承知。異議。[19世紀～]
+j	いなり	inari	稲作などを司る神（倉稲魂命、保食神など）を祀るもの。
+j	いぬく	inuku	to pierce with an arrow
+j	いねうい	ineui	peddling, hawking, the ac…
+j	いのこ	inoko	陰暦十月の亥の日。
+j	いのひ	inohi	暦の上で亥にあたる日。
+j	いのり	inori	「いのる」の連用形。
+j	いのる	inoru	神仏に願う。祈願する。
+j	いんかん	inkan	
+j	いんげん	ingen	隠元: bean
+j	いんしょう	insho	
+j	いんじゃん	injan	（方言、主に関西）じゃんけん
+j	いんせい	insei	院生: graduate student
+j	いんち	inchi	引致
+j	いんでん	inden	印伝
+j	イナゴ	inago	稲子, 蝗: a locust
+j	イヌの	inuno	
+j	イネス	inesu	
+j	インターン	intan	intern (student working t…
+j	インチ	inchi	inch
+j	インディア	india	
+j	インディオ	indio	Indian, a Native American…
+j	インデン	inden	indene
+j	インドア	indoa	indoors
+j	インハイ	inhai	high and inside; a pitch …
+j	インピオ	inpio	幼い子供同士の性行為。
+j	井上	inoue	a surname
+j	井波	inami	a surname
+j	伊波	inami	a surname
+j	允許	inkyo	permission, license
+j	印中	inchu	インドと中華人民共和国。
+j	印僑	inkyo	海外へ移民したインド人。
+j	印契	inkei	両手の指を使いさまざまな形をつくり諸仏の内証を象徴…
+j	印文	inbun	印章に刻まれた文字、記号。
+j	印本	inpon	印刷された書物。
+j	印材	inzai	印判をつくるための素材。
+j	印欧語	inogo	インド・ヨーロッパ語族に属する言語の総称。
+j	印池	inchi	朱肉を入れる容器。
+j	印税	inzei	royalty
+j	印章	insho	seal
+j	印紙	inshi	revenue stamp
+j	印象	insho	impression
+j	印金	inkin	紗・綾・羅などの織物に、型紙を当てて模様を付けて漆…
+j	印鈕	inchu	印鑑のつまんで持つ部分。印鼻。
+j	印鑑	inkan	an official name stamp
+j	印面	inmen	印判の文字や図柄が彫刻される面。
+j	否む	inamu	deny, negate
+j	因子	inshi	factor (mathematical or b…
+j	因州	inshu	因幡国^(（いなばのくに）)の別称。
+j	因幡	inaba	Inaba Province, an old pr…
+j	因縁	innen	chance; opportunity
+j	因習	inshu	tradition
+j	因襲	inshu	古来伝わる習慣。
+j	奫泫	ingen	深い水が底から湧き出して流れる様子。
+j	姻類	inrui	婚姻により姻戚関係となった配偶者同士の家。姻家。
+j	婬刑	inkei	不当な刑罰をみだりに執行すること。
+j	引水	insui	channelling or drawing wa…
+j	引見	inken	貴人や目上の人などが目下の人を引き入れ非公式に面会…
+j	引退	intai	retirement
+j	引首	inshu	巻物の右肩の部分。
+j	慇懃	ingin	politeness, courtesy
+j	殞命	inmei	死ぬこと。
+j	殞斃	inhei	倒れて死ぬこと。
+j	殞死	inshi	死ぬこと。
+j	殞泣	inkyu	涙を落すこと。
+j	殞涕	intei	涙を流すこと。
+j	殞潰	inkai	崩れ敗れること。
+j	殞生	insei	命を失うこと。
+j	殞砕	insai	死ぬこと。
+j	殞胔	inshi	死体、死骸。一説に、鳥獣の骸骨。
+j	殞躬	inkyu	命を落とすこと。
+j	殞逝	insei	死ぬこと。
+j	殷代	indai	古代中国の殷の時代。
+j	殷墟	inkyo	中国・殷王朝の政庁跡。
+j	殷盛	insei	繁盛していること。「殷」も「盛」も「さかん」の意。
+j	殷鑑	inkan	a prior example that serv…
+j	淫乱	inran	lecherous, lascivious
+j	淫亂	inran	淫乱の旧字体表記。
+j	淫刑	inkei	不当な刑罰をみだりに執行すること。
+j	淫声	insei	licentious music
+j	淫売	inbai	prostitution; prostitute
+j	淫奔	inpon	性的にだらしなく、みだらなさま。
+j	淫書	insho	淫らな内容の書物。
+j	淫本	inpon	興味本位の猥褻な内容を記した書物。猥本。
+j	淫水	insui	川の溢れた水。氾濫する水。
+j	淫涙	inrui	止処無く溢れる涙。
+j	淫液	ineki	愛液。
+j	淫犯	inbon	戒を破り淫欲にふけること。
+j	淫祀	inshi	如何わしい神を祭祀すること。
+j	淫祠	inshi	淫らな神を祀る祠。
+j	淫紋	inmon	a stylized uterus-shaped …
+j	淫聲	insei	
+j	淫酒	inshu	過度に酒を飲むこと。酒におぼれること。
+j	犬子	inuko	a female given name
+j	犬科	inuka	Canidae
+j	田舎	inaka	the country (rural area),…
+j	祈り	inori	prayer (request to a deit…
+j	祈る	inoru	to pray
+j	稲子	inago	a locust, a grasshopper i…
+j	稲田	inada	a rice paddy
+j	稲穂	inaho	ears (head) of rice
+j	稲荷	inari	Inari, god of harvests, f…
+j	稲葉	inaba	leaf of the rice plant
+j	胃の腑	inofu	胃。胃袋。
+j	蝗	inago	（いなご）昆虫の一種。直翅目・バッタ亜目・イナゴ科…
+j	院中	inchu	院（上皇）の御所。洞中。
+j	院主	inshu	（いんしゅ）「院」のつく施設などの長。
+j	院代	indai	院家、院主の職務代行者。
+j	院使	inshi	上皇（法皇）などの院からの使者。
+j	院内	innai	the inside of 病(びょう)院(いん)…
+j	院外	ingai	「院」がつく建物や組織の外。
+j	院宣	inzen	上皇や法皇の命を受け、院司が作成する公文書。
+j	院庁	incho	かつての日本で上皇、女院の事務を司った役所。院の庁。
+j	院政	insei	cloistered rule; the indi…
+j	院本	inpon	金・元時代に演じられた演劇の一つ。また、その脚本。
+j	院生	insei	graduate student
+j	院線	insen	鉄道院（1908年～1920年）が運営していた鉄道…
+j	院試	inshi	大学院入学試験の略。
+j	院長	incho	director of a hospital
+j	院電	inden	「院線電車」の略。後の省電・国電に相当。
+j	陰イオン	inion	synonym of アニオン (anion, “…
+j	陰キャ	inkya	gloomy person
+j	陰中	inchu	秋。
+j	陰子	inshi	
+j	陰性	insei	negative
+j	陰惨	insan	sadness and gloom
+j	陰文	inbun	印章や鐘、碑などに陰刻された文字。
+j	陰晴	insei	曇りと晴れ。
+j	陰線	insen	物体に光線を当てたとき陰陽の境界となる線。
+j	陰茎	inkei	penis
+j	陰蔽	inpei	（事実や所在などを）故意に覆い隠すこと。
+j	陰虫	inchu	こおろぎなどの秋の虫。
+j	陰金	inkin	「陰金田虫」の略。
+j	陰門	inmon	vulva
+j	陰閉	inpei	閉ざし、塞ぐこと。
+j	陰険	inken	表立ってはよく見えるが、心の中では悪意を持っている…
+j	陰類	inrui	字音に半母音や韻尾を含まない語。
+j	隕涙	inrui	涙を流すこと。
+j	隠元	ingen	「隠元豆」の略。
+j	隠士	inshi	隠者。
+j	隠居	inkyo	retirement
+j	隠忍	innin	表に出さずにじっと我慢すること。
+j	隠棲	insei	living in seclusion from …
+j	隠然	inzen	表には現れないが陰で影響力を持っているさま。
+j	隠蔽	inpei	concealment
+j	隠見	inken	隠れたり見えたりすること。
+j	隠計	inkei	他人に知られないように行う計略。
+j	隠退	intai	retreat
+j	隠顕	inken	(いんけん) 隠れたり顕れたりすること。
+j	隱退	intai	
+j	音問	inmon	安否を尋ねるたより。
+j	韻士	inshi	elegant poet, literati
+j	韻文	inbun	literary composition in r…
+j	韻書	insho	漢詩などで押韻の参考とするため、漢字を韻で分類し、…
+j	韻致	inchi	elegance
+j	韻類	inrui	韻が似ている言葉のまとまり。
+j	飲料	inryo	drink; beverage
+j	飲水	insui	水を飲むこと。またその水。
+j	飲泉	insen	治療の一環として飲用する温泉水。
+j	飲涙	inrui	すすり泣くこと。
+j	飲精	insei	口内に射精された精液を飲むこと。精飲。ごっくん。
+j	飲酒	inshu	drinking alcohol
+j	飲量	inryo	酒を飲む量。
+k	이닝	ining	
+k	인각	ingak	
+k	인간	ingan	human, human being
+k	인감	ingam	seal; stamp
+k	인계	ingye	
+k	인골	ingol	
+k	인과	ingwa	
+k	인국	inguk	neighbouring country
+k	인내	innae	patience; endurance, pers…
+k	인대	indae	ligament
+k	인덴	inden	indene
+k	인돌	indol	indole
+k	인디아	india	India (a country in Asia)
+k	인문	inmun	
+k	인물	inmul	the physical figure of a …
+k	인민	inmin	the people (of a country)…
+k	인복	inbok	
+k	인분	inbun	사람의 똥.
+k	인산	insan	
+k	인삼	insam	ginseng (any of several p…
+k	인솔	insol	여러 사람을 이끌고 감.
+k	인숙	insuk	
+k	인술	insul	
+k	인식	insik	recognition
+k	인신	insin	사람의 몸.
+k	인심	insim	care, compassion, sympath…
+k	인싸	inssa	social butterfly, well-co…
+k	인원	inwon	staff; personnel; employee
+k	인육	inyuk	
+k	인재	injae	talented person
+k	인저	injeo	now
+k	인준	injun	
+k	인질	injil	hostage
+k	인차	incha	'이내'의 북한말.
+k	인체	inche	human body, organism
+k	인치	inchi	inch
+k	인텔	intel	
+k	인품	inpum	
+k	인해	inhae	
+k	인허	inheo	
+k	인혼	inhon	사람의 혼령.
+k	인화	inhwa	
+k	잇몸	inmom	gum (flesh around the nec…
+k	잉게	ingge	
+k	잉부	ingbu	pregnant woman
+k	잉어	ingeo	carp (fish) in general
+k	잉카	ingka	
+e	in fact	infact	1 meaning
+e	in heat	inheat	1 meaning
+e	in kind	inkind	1 meaning
+e	in love	inlove	1 meaning
+e	in name	inname	1 meaning
+e	in turn	inturn	1 meaning
+e	in vain	invain	1 meaning
+e	incest	incest	1 meaning
+e	incite	incite	1 meaning
+e	income	income	1 meaning
+e	indeed	indeed	1 meaning
+e	indene	indene	1 meaning
+e	indian	indian	4 meanings
+e	indict	indict	1 meaning
+e	indigo	indigo	3 meanings
+e	indium	indium	1 meaning
+e	indole	indole	1 meaning
+e	indoor	indoor	1 meaning
+e	indore	indore	1 meaning
+e	infamy	infamy	1 meaning
+e	infant	infant	1 meaning
+e	infect	infect	1 meaning
+e	inflow	inflow	1 meaning
+e	inform	inform	4 meanings
+e	ingram	ingram	1 meaning
+e	ingria	ingria	1 meaning
+e	ingush	ingush	2 meanings
+e	inhale	inhale	1 meaning
+e	injera	injera	1 meaning
+e	injure	injure	1 meaning
+e	injury	injury	1 meaning
+e	ink-pad	inkpad	1 meaning
+e	inkcap	inkcap	1 meaning
+e	inkjet	inkjet	1 meaning
+e	innate	innate	1 meaning
+e	inning	inning	1 meaning
+e	insane	insane	1 meaning
+e	inseam	inseam	1 meaning
+e	insect	insect	3 meanings
+e	insert	insert	1 meaning
+e	inside	inside	2 meanings
+e	insist	insist	1 meaning
+e	insole	insole	1 meaning
+e	instar	instar	1 meaning
+e	instep	instep	1 meaning
+e	insult	insult	2 meanings
+e	intend	intend	1 meaning
+e	intern	intern	4 meanings
+e	intine	intine	1 meaning
+e	invade	invade	1 meaning
+e	invent	invent	1 meaning
+e	invert	invert	1 meaning
+e	invest	invest	2 meanings
+e	invite	invite	1 meaning
+j	いぬかい	inukai	「いぬかひ」に同じ。
+j	いぬくい	inukui	食卓や食膳に置いた食器に顔を近づけ犬のようにがつが…
+j	いぬち	inuchi	
+j	いぬびえ	inubie	イネ科の一年草。各地の道端などに生える。
+j	いねかい	inekai	rice reaping
+j	いのち	inochi	生物を生かしてゆくための根源的な力。生命。
+j	いんとうおん	intoon	咽頭音: pharyngeal
+j	いんとく	intoku	陰徳: (ethics) Good done in…
+j	いんどよう	indoyo	印度洋: The Indian Ocean
+j	イニング	iningu	inning
+j	イノンド	inondo	ディルの和名。
+j	インカム	inkamu	
+j	インコース	inkosu	打者に近いところを通る球道。
+j	インジェラ	injera	
+j	インジゴ	injigo	indigo (color)
+j	インジール	injiru	福音。預言者イーサーに下されたアッラーフの啓示。
+j	インスタ	insuta	
+j	インスト	insuto	
+j	インセル	inseru	incel
+j	インソール	insoru	
+j	インダス	indasu	ヒマラヤ西麓に発し、インド、パキスタンを流れてイン…
+j	インチョン	inchon	
+j	インテリ	interi	intellectual
+j	インテル	interu	a lead
+j	インディアン	indian	Indian, a Native American…
+j	インディゴ	indigo	藍色。
+j	インディーズ	indizu	indies (independent film,…
+j	イントロ	intoro	「イントロダクション」の略。
+j	インドの	indono	
+j	インドゾウ	indozo	ゾウ目ゾウ科アジアゾウ属に属するアジアゾウの亜種。…
+j	インドラ	indora	
+j	インドリ	indori	
+j	インドール	indoru	indole
+j	インド洋	indoyo	Indian Ocean (the ocean s…
+j	インド語	indogo	
+j	インド象	indozo	an Indian elephant
+j	インバータ	inbata	power inverter
+j	インパラ	inpara	ウシ科の鯨偶蹄類で羚羊の一種。雄のみ角があり、足が…
+j	インパール	inparu	Imphal (the capital of Ma…
+j	インフラ	infura	インフラストラクチャーの略。下部構造、基盤。
+j	インフル	infuru	インフルエンザ、あるいはインフルエンザウイルスの略…
+j	インフレ	infure	インフレーションの略。複合語を作るときなどに用いら…
+j	インプレ	inpure	インプレッション。
+j	インベーダー	inbeda	侵略者。
+j	インポート	inpoto	輸入。
+j	インライン	inrain	直列の、一列に並んだ。
+j	仁川	inchon	Incheon (a city in South …
+j	印する	insuru	（「～を印する」の形で）～のしるしや跡を残す。
+j	印刻	inkoku	印の印面に印影を彫刻すること。
+j	印字機	injiki	typewriter (machine used …
+j	印度洋	indoyo	「インド洋」の漢字表記。
+j	命	inochi	life
+j	咽頭炎	intoen	pharyngitis
+j	咽頭音	intoon	pharyngeal
+j	因果の	ingano	
+j	因格	inkaku	ウラル語族の文法で、原因を示す格。
+j	堙鬱	inutsu	気が鬱ぐこと。
+j	委任状	ininjo	
+j	姻族	inzoku	配偶者の血族又は血族の配偶者。
+j	姻親	inshin	婚姻関係を結ぶことにより親族となった人。姻族。
+j	婬する	insuru	猥褻なことをする。
+j	引用符	inyofu	quotation marks
+j	引責	inseki	taking responsibility, ac…
+j	殞墜	intsui	死ぬこと。
+j	殞石	inseki	隕石。地上に落ちる惑星の表面。
+j	殞越	inetsu	墜落して死ぬこと。
+j	殞身	inshin	死ぬこと。
+j	殷賑	inshin	活気があり賑やかなこと。「殷」は「さかん」、「賑」…
+j	淫する	insuru	悪い結果を招くほど過度に夢中になる。おぼれる。ふけ…
+j	淫佚	initsu	過度に遊興に耽ること。男女の関係が淫らなさま。
+j	淫楽	inraku	淫らな楽しみ。
+j	淫欲	inyoku	lust
+j	淫蕩な	intona	
+j	淫逸	initsu	licentious; idle
+j	湮鬱	inutsu	気が鬱ぐこと。
+j	犬飼	inukai	a surname
+j	犬養	inukai	a surname
+j	院進	inshin	advancement to graduate s…
+j	陰刻	inkoku	文字や絵画を窪むように彫ること。
+j	陰唇	inshin	labia
+j	陰影法	ineiho	
+j	陰暦	inreki	lunisolar calendar
+j	陰核	inkaku	clitoris
+j	陰森	inshin	densely wooded (of a fore…
+j	陰気な	inkina	
+j	陰脣	inshin	
+j	陰陽家	inyoka	School of Naturalists
+j	陰鬱	inutsu	gloomy, depressed
+j	隕石	inseki	a meteorite
+j	隕落	inraku	死ぬこと。亡くなること。
+j	隠匿	intoku	concealment
+j	隠約	inyaku	はっきりと見分けにくいこと。
+j	隠逸	initsu	seclusion; retreat from t…
+j	隠黙	inmoku	押し黙ること。
+j	隱匿	intoku	
+j	韻目	inmoku	漢字を韻によって分類した項目、またはそれを代表する…
+k	이녁	inyeok	you; second-person pronoun
+k	이념	inyeom	The ideology or principle…
+k	이뇨제	inyoje	
+k	인강	ingang	인터넷 강의의 약어형.
+k	인건	ingeon	
+k	인공	ingong	artificiality
+k	인구시	ingusi	
+k	인권	ingwon	human rights (the basic r…
+k	인근	ingeun	vicinity, environs
+k	인기인	ingiin	
+k	인기주	ingiju	
+k	인나다	innada	to wake up
+k	인덕	indeok	
+k	인도의	indoui	
+k	인도인	indoin	
+k	인동	indong	
+k	인두세	induse	
+k	인듐	indyum	indium
+k	인망	inmang	
+k	인맥	inmaek	connections (people with …
+k	인방	inbang	
+k	인상	insang	impression
+k	인색	insaek	
+k	인선	inseon	여러 사람 가운데서 적당한 사람을 가려 뽑음.
+k	인쇄	inswae	printing
+k	인수인	insuin	
+k	인습	inseup	
+k	인양	inyang	
+k	인연	inyeon	the ties between two peop…
+k	인용	inyong	quotation; citation
+k	인자기	injagi	
+k	인장	injang	seal; stamp
+k	인적	injeok	trace of people, presence…
+k	인접	injeop	
+k	인종	injong	race; ethnicity
+k	인중	injung	philtrum
+k	인지도	injido	
+k	인지세	injise	stamp duty
+k	인출	inchul	withdrawal; taking out
+k	인턴	inteon	intern (student working t…
+k	인하다	inhada	to be due to
+k	인항	inhang	
+k	있는	inneun	'있다'의 관형사형.
+k	잉꼬	ingkko	
+k	잉여	ingyeo	surplus, overplus, remain…
+k	잉크	ingkeu	ink
+k	잉태	ingtae	conception; pregnancy
+e	in force	inforce	1 meaning
+e	in one go	inonego	1 meaning
+e	in short	inshort	1 meaning
+e	in total	intotal	1 meaning
+e	in-depth	indepth	1 meaning
+e	incense	incense	1 meaning
+e	incheon	incheon	1 meaning
+e	incisor	incisor	1 meaning
+e	incline	incline	2 meanings
+e	include	include	1 meaning
+e	incubus	incubus	3 meanings
+e	indiana	indiana	1 meaning
+e	indulge	indulge	1 meaning
+e	inertia	inertia	2 meanings
+e	infancy	infancy	1 meaning
+e	infanta	infanta	1 meaning
+e	infarct	infarct	1 meaning
+e	inferno	inferno	2 meanings
+e	infidel	infidel	1 meaning
+e	infield	infield	1 meaning
+e	infimum	infimum	1 meaning
+e	inflate	inflate	2 meanings
+e	inflect	inflect	1 meaning
+e	ingenue	ingenue	1 meaning
+e	ingrian	ingrian	1 meaning
+e	inhabit	inhabit	1 meaning
+e	inhaler	inhaler	1 meaning
+e	inherit	inherit	1 meaning
+e	inhibit	inhibit	1 meaning
+e	inhuman	inhuman	1 meaning
+e	initial	initial	6 meanings
+e	inkling	inkling	1 meaning
+e	inkwell	inkwell	1 meaning
+e	innards	innards	1 meaning
+e	inquire	inquire	1 meaning
+e	inquiry	inquiry	1 meaning
+e	insider	insider	1 meaning
+e	install	install	1 meaning
+e	instant	instant	8 meanings
+e	instead	instead	1 meaning
+e	insular	insular	3 meanings
+e	insulin	insulin	1 meaning
+e	integer	integer	1 meaning
+e	intense	intense	2 meanings
+e	interim	interim	3 meanings
+e	introit	introit	1 meaning
+e	intrude	intrude	1 meaning
+e	inugami	inugami	1 meaning
+e	invader	invader	1 meaning
+e	invalid	invalid	3 meanings
+e	inverse	inverse	1 meaning
+e	invoice	invoice	1 meaning
+e	involve	involve	1 meaning
+e	điện biên phủ	inbinph	1 meaning
+j	いなかの	inakano	
+j	いなずま	inazuma	空で閃光や轟音が引き起こされる気象。稲光。
+j	いなづか	inazuka	刈り取って束ねた稲。
+j	いなづま	inazuma	いなずまと同意。やや古い表記。詳細はいなずまを見よ。
+j	いななき	inanaki	neighing (cry of a horse)
+j	いななく	inanaku	to neigh (of a horse: to …
+j	いなむら	inamura	刈り取った稲や稲藁を乾燥させるため、積み重ねたもの。
+j	いなわら	inawara	刈り取った後の稲から籾を取り去った茎や葉。いねわら。
+j	いにしえ	inishie	the past
+j	いぬかき	inukaki	犬がもがくように泳ぐ方法。
+j	いぬくぎ	inukugi	犬釘: rail spike
+j	いぬぐす	inugusu	タブノキの別名。
+j	いぬころ	inukoro	子犬。
+j	いぬごや	inugoya	犬小屋: doghouse
+j	いぬじに	inujini	無意味な死。無益な死に方をすること。
+j	いぬぞり	inuzori	橇犬が引いて走るそり。
+j	いぬねこ	inuneko	cats and dogs
+j	いぬのひ	inunohi	暦の上で戌にあたる日。
+j	いぬまき	inumaki	マキ科の常緑高木。暖地の山野に自生。雌雄異株。
+j	いねかり	inekari	秋に実った稲を刈り取ること。刈り入れ。取り入れ。
+j	いねむり	inemuri	座った状態のまま眠ってしまうこと。
+j	いねわら	inewara	刈り取った後の稲から籾を取り去った茎や葉。いなわら。
+j	いのこす	inokosu	手持ちの矢を全ては射ずに残す。
+j	いのこり	inokori	いのこること。
+j	いのこる	inokoru	周囲の人が居なくなってもその場に残る。
+j	いんがし	ingashi	印画紙: photopaper
+j	いんきょく	inkyoku	陰極: cathode
+j	いんさつ	insatsu	
+j	いんちき	inchiki	deception; monkey business
+j	いんれつ	inretsu	陰裂: pudendal cleft
+j	ゐなかぶ	inakabu	to become rustic, to beco…
+j	イナリ湖	inariko	Lake Inari
+j	イヌイット	inuitto	カナダの北極圏に住む先住民。
+j	イヌバラ	inubara	
+j	イヌ属	inuzoku	Canis
+j	イネーブラー	inebura	enabler (a person or thin…
+j	インク入れ	inkuire	inkwell
+j	イングリア	inguria	Ingria (a region to the s…
+j	イングーシ	ingushi	
+j	インゴット	ingotto	ingot
+j	インサイダー	insaida	体制派、内部の人、消息通。
+j	インシャラー	inshara	
+j	インジウム	injiumu	indium
+j	インストア	insutoa	being in-store
+j	インスリン	insurin	「インシュリン」の表記ゆれ。
+j	インタビュー	intabyu	an interview
+j	インターハイ	intahai	an inter-high school spor…
+j	インターホン	intahon	玄関や門と建物内、建物内の部屋と部屋などを有線の回…
+j	インチキ	inchiki	いんちきの片仮名表記。
+j	インチリー	inchiri	
+j	インテリア	interia	room decoration
+j	インディアナ	indiana	Indiana (a state of the U…
+j	インデヤン	indeyan	
+j	インデント	indento	字下げ、引っ込み。
+j	インドア派	indoaha	
+j	インドガン	indogan	
+j	インド人	indojin	Indian (person or people …
+j	インナーウェア	innawea	肌着。下着。インナー。
+j	インハウス	inhausu	企業活動において、多くの場合社外・企業外に委託する…
+j	インバージョン	inbajon	
+j	インファンタ	infanta	
+j	インプット	inputto	input, something fed into…
+j	インボイス	inboisu	invoice
+j	印刷	insatsu	printing
+j	印度人	indojin	
+j	印度犀	indosai	an Indian rhinoceros
+j	印札	insatsu	印を押して、証明した文書。
+j	印欧祖語	inosogo	Proto-Indo-European
+j	印画紙	ingashi	photopaper
+j	印畫紙	ingashi	
+j	印象派	inshoha	impressionism (art moveme…
+j	咽頭痛	intotsu	
+j	因果応報	ingaoho	retribution, karma: good …
+j	堙滅	inmetsu	「湮滅」の別表記。
+j	寅月	ingetsu	the first month of the lu…
+j	居残る	inokoru	
+j	居眠り	inemuri	an accidental doze while …
+j	引力	inryoku	attractive force, attract…
+j	引火性	inkasei	
+j	引率	insotsu	leading (a group of peopl…
+j	意のまま	inomama	in accordance with someon…
+j	慇懃講	inginko	参加者が礼儀を重視する会合や酒宴。
+j	殞没	inbotsu	死ぬこと。
+j	殞滅	inmetsu	滅びること。
+j	殞絶	inzetsu	落ち絶えること。
+j	殞骨	inkotsu	骨を落とすこと。死ぬこと。
+j	殷末	inmatsu	中国の殷の時代の末期。
+j	淫乱な	inranna	
+j	淫売婦	inbaifu	prostitute
+j	淫虐	ingyaku	みだらで残虐なこと。また、非常に残虐なこと。
+j	湮滅	inmetsu	跡形が残らないように消すこと。
+j	犬ころ	inukoro	dog cub, pup, whelp
+j	犬ぞり	inuzori	
+j	犬ちゃん	inuchan	doggy (dog)
+j	犬小屋	inugoya	kennel, doghouse
+j	犬属	inuzoku	Canis
+j	犬山	inuyama	Inuyama (a city in Aichi …
+j	犬掻き	inukaki	dog paddle
+j	犬神	inugami	A (guardian) dog spirit; …
+j	犬蓼	inutade	long-bristled smartweed, …
+j	犬釘	inukugi	rail spike
+j	犬鮫	inuzame	a brownbanded bamboo shark
+j	猪熊	inokuma	a surname
+j	猪股	inomata	a surname
+j	猪豚	inobuta	wild boar-pig hybrid
+j	田舎の	inakano	
+j	稲作	inasaku	稲を栽培すること。
+j	稲刈り	inekari	rice reaping
+j	稲垣	inagaki	a surname
+j	稲妻	inazuma	lightning, a lightning bo…
+j	稲幹	inagara	a rice plant
+j	稲本	inamoto	a surname
+j	稲森	inamori	a surname
+j	稲魂	inatama	synonym of 稲妻 (inazuma, “…
+j	院の庁	innocho	かつての日本で上皇、女院の事務を司った役所。院庁。
+j	院卒	insotsu	graduate-school graduate
+j	陰キャラ	inkyara	内向的で大人しい性格。陰キャ。
+j	陰極	inkyoku	cathode
+j	陰裂	inretsu	pudendal cleft
+j	陰謀団	inbodan	cabal
+j	陰謀論	inboron	conspiracy theory
+j	陰関数	inkansu	陰伏方程式によって陰伏的に定義される、定義が区分的…
+j	陰電気	indenki	negative charge
+j	隕鉄	intetsu	meteoric iron
+j	隠滅	inmetsu	destruction (usually of e…
+j	隠然と	inzento	
+j	音札	insatsu	手紙。
+j	音穴	inketsu	琴や箏の胴の裏側にあけてある穴。
+j	韻を踏む	inofumu	to rhyme
+j	韻律	inritsu	meter
+j	飲用水	inyosui	drinking water, potable w…
+j	飲食	inshoku	eating and drinking
+k	이녕	inyeong	
+k	인간고	ingango	
+k	인간미	inganmi	
+k	인간사	ingansa	
+k	인간의	inganui	
+k	인격	ingyeok	personality, character
+k	인견	ingyeon	
+k	인광	ingwang	phosphorescence
+k	인구학	inguhak	
+k	인도교	indogyo	footbridge, pedestrian ov…
+k	인도르	indoreu	
+k	인두음	indueum	pharyngeal
+k	인두판	indupan	
+k	인드리	indeuri	
+k	인디아나	indiana	[~주(州)] alternative form …
+k	인디언	indieon	
+k	인면	inmyeon	
+k	인멸	inmyeol	
+k	인별	inbyeol	Instagram
+k	인사과	insagwa	HR department, personnel …
+k	인사란	insaran	
+k	인사말	insamal	
+k	인생	insaeng	one's life
+k	인서울	inseoul	In South Korea, the prest…
+k	인성	inseong	quality of one's characte…
+k	인스타	inseuta	
+k	인영	inyeong	shadow of a person
+k	인자한	injahan	
+k	인정	injeong	recognition, acknowledgme…
+k	인증	injeung	certification; accreditat…
+k	인책	inchaek	
+k	인척	incheok	혼인에 의하여 맺어진 친척. 민법에서는 혈족의…
+k	인천	incheon	Incheon (a city in South …
+k	인촨	inchwan	Yinchuan (the capital cit…
+k	인칭	inching	person
+k	인편	inpyeon	사람의 편.
+k	인프라	inpeura	
+k	인화지	inhwaji	photopaper
+k	잉걸	inggeol	ember (a glowing or flami…
+k	잉카인	ingkain	
+e	in a pinch	inapinch	1 meaning
+e	in case of	incaseof	1 meaning
+e	in demand	indemand	1 meaning
+e	in detail	indetail	1 meaning
+e	in lieu of	inlieuof	1 meaning
+e	in person	inperson	1 meaning
+e	in the end	intheend	1 meaning
+e	in the red	inthered	1 meaning
+e	in the way	intheway	1 meaning
+e	inactive	inactive	1 meaning
+e	inca dove	incadove	1 meaning
+e	incenter	incenter	1 meaning
+e	inchoate	inchoate	1 meaning
+e	incident	incident	2 meanings
+e	incircle	incircle	1 meaning
+e	incoterm	incoterm	1 meaning
+e	increase	increase	4 meanings
+e	indazole	indazole	1 meaning
+e	indecent	indecent	1 meaning
+e	indegree	indegree	1 meaning
+e	india ink	indiaink	1 meaning
+e	indicate	indicate	1 meaning
+e	indigent	indigent	1 meaning
+e	industry	industry	3 meanings
+e	inedible	inedible	1 meaning
+e	inert gas	inertgas	1 meaning
+e	inessive	inessive	2 meanings
+e	infamous	infamous	1 meaning
+e	infantry	infantry	2 meanings
+e	inferior	inferior	3 meanings
+e	infinite	infinite	2 meanings
+e	infinity	infinity	2 meanings
+e	informal	informal	3 meanings
+e	infrared	infrared	2 meanings
+e	infringe	infringe	1 meaning
+e	inherent	inherent	1 meaning
+e	initiate	initiate	1 meaning
+e	inkbrush	inkbrush	1 meaning
+e	inkstick	inkstick	1 meaning
+e	inkstone	inkstone	1 meaning
+e	inner ear	innerear	1 meaning
+e	innocent	innocent	3 meanings
+e	innuendo	innuendo	1 meaning
+e	inositol	inositol	1 meaning
+e	insanity	insanity	1 meaning
+e	insignia	insignia	2 meanings
+e	insomnia	insomnia	1 meaning
+e	instinct	instinct	1 meaning
+e	insulate	insulate	2 meanings
+e	integral	integral	1 meaning
+e	interact	interact	1 meaning
+e	intercom	intercom	1 meaning
+e	interest	interest	6 meanings
+e	interfix	interfix	1 meaning
+e	interior	interior	2 meanings
+e	internee	internee	1 meaning
+e	internet	internet	1 meaning
+e	interpol	interpol	1 meaning
+e	intersex	intersex	2 meanings
+e	interval	interval	4 meanings
+e	interwar	interwar	1 meaning
+e	intifada	intifada	1 meaning
+e	intimacy	intimacy	2 meanings
+e	intimate	intimate	1 meaning
+e	intranet	intranet	1 meaning
+e	intrigue	intrigue	1 meaning
+e	intruder	intruder	1 meaning
+e	invasion	invasion	1 meaning
+e	inventor	inventor	1 meaning
+e	investor	investor	1 meaning
+j	いなかっぺ	inakappe	country bumpkin, hillbill…
+j	いなかもん	inakamon	
+j	いなりあげ	inariage	稲荷揚げ: inari, a type of su…
+j	いぬあわせ	inuawase	犬同士を組み合わせ、歯で嚙み合わせて勝敗を決める競…
+j	いぬわし	inuwashi	the golden eagle, Aquila …
+j	いのつき	inotsuki	陰暦十月の異称。
+j	いんじゃんほい	injanhoi	（方言、主に関西）じゃんけんぽん
+j	イニシャル	inisharu	initial (first, placed at…
+j	イヌハッカ	inuhakka	
+j	イヌリンゴ	inuringo	バラ目バラ科リンゴ属に属する落葉高木の一種。学名:…
+j	イヌワシ	inuwashi	タカ目タカ科イヌワシ属に属する猛禽類の一種。学名:…
+j	インカバト	inkadobu	
+j	インカメラ	inkamera	非公開。極秘。
+j	インクブス	inkubusu	眠っている女性を犯し悪魔の子を孕ませるとされる夢魔。
+j	インクライン	inkurain	斜面に二本のレールを敷き、船や貨物を動力を使って運…
+j	イングラム	inguramu	
+j	インシュリン	inshurin	insulin (polypeptide horm…
+j	インジケータ	injiketa	
+j	インジケーター	injiketa	
+j	インストーラ	insutora	コンピュータにソフトウェアをインストールするための…
+j	インストーラー	insutora	installer
+j	インストール	insutoru	installation
+j	インスパイア	insupaia	感銘を受けさせる。鼓舞させる。触発する。
+j	インセスト	insesuto	incest, sexual relations …
+j	インタビュアー	intabyua	an interviewer
+j	インタビュイー	intabyui	インタビューを受ける人。
+j	インタビューア	intabyua	インタビュアーの表記揺れ。
+j	インタビューアー	intabyua	インタビュアーの表記揺れ。
+j	インタフェース	intafesu	「インターフェイス」の表記ゆれ。
+j	インターカム	intakamu	
+j	インターフェース	intafesu	interface
+j	インターポール	intaporu	synonym of 国際刑事警察機構 (Koku…
+j	インダクタ	indakuta	inductor
+j	インダゾール	indazoru	indazole
+j	インティファーダ	intifada	intifada (uprising)
+j	インディアンの	indianno	
+j	インディアン座	indianza	Indus
+j	インドゲージ	indogeji	インドで採用されている1676 mmの軌間。
+j	インド学	indogaku	Indology
+j	インド牛	indoushi	zebu
+j	インド英語	indoeigo	Indian English
+j	インド語派	indogoha	インド・ヨーロッパ語族のうちインド周辺で使われる言…
+j	インナーカラー	innakara	peekaboo highlight (hair …
+j	インバウンド	inbaundo	帰りの。本国に帰ること。
+j	インパクター	inpakuta	衝突させる物体。
+j	インパクト	inpakuto	impact of a ball
+j	インパルス	inparusu	力積。
+j	インフォーマル	infomaru	かしこまっていない。くだけている。
+j	インフォームド	infomudo	正しく伝えた。
+j	インボルク	inboruku	
+j	印紙税	inshizei	stamp duty
+j	否めない	inamenai	unable to refuse, mandato…
+j	委任する	ininsuru	
+j	引火する	inkasuru	
+j	引用する	inyosuru	
+j	氤氤氲氲	ininunun	雲や煙が盛んであるさま。
+j	淫羊藿	inyokaku	synonym of 錨草 (ikari-sō, …
+j	淫逸な	initsuna	
+j	犬薄荷	inuhakka	catmint
+j	犬鷲	inuwashi	
+j	犬黄楊	inutsuge	Japanese holly (Ilex cren…
+j	稲荷揚げ	inariage	inari, a type of sushi wi…
+j	茵蔯蒿	inchinko	dried buds of Artemisia c…
+j	陰に陽に	inniyoni	openly and covertly; impl…
+j	陰湿	inshitsu	日が当たらず、暗くて湿っぽいこと。
+j	陰茎癌	inkeigan	
+j	陰電子	indenshi	電子。陽電子の反物質。
+j	陰騭	inshitsu	天がひそかに民を安んずること。
+j	陰鬱な	inutsuna	
+j	隕石孔	insekiko	
+j	飲料水	inryosui	飲むのに適合した水。飲み水。飲用水。
+k	이나저나	inajeona	'이러나저러나'의 준말.
+k	이노시톨	inositol	
+k	이놈들	inomdeul	
+k	익년	ingnyeon	the next year
+k	익룡	ingnyong	a winged dragon
+k	인가장	ingajang	
+k	인간계	ingangye	사람들이 살고 있는 세계.
+k	인간학	inganhak	
+k	인건비	ingeonbi	labour cost, personnel ex…
+k	인공어	ingongeo	'기계어'.
+k	인과율	ingwayul	(철학) 모든 일은 원인에서 발생한 결과라는 …
+k	인구시어	ingusieo	러시아의 지방인 인구시 공화국에서 쓰는 언어.…
+k	인구요인	inguyoin	
+k	인구조사	ingujosa	census
+k	인구지수	ingujisu	
+k	인내심	innaesim	patience; endurance; pers…
+k	인도사자	indosaja	
+k	인도상	indosang	'아시아코끼리'.
+k	인도양	indoyang	the Indian Ocean
+k	인도적	indojeok	humanitarian, humane
+k	인도주의	indojuui	humanitarianism
+k	인도하다	indohada	이끌어 지도하다.
+k	인두염	induyeom	pharyngitis
+k	인디애나	indiaena	[~주(州)] Indiana (a state …
+k	인마궁	inmagung	Sagittarius
+k	인명	inmyeong	person's name
+k	인문학	inmunhak	humanities
+k	인물난	inmullan	
+k	인물화	inmulhwa	사람을 주제로 그린 그림.
+k	인민폐	inminpye	renminbi (the official cu…
+k	인보이스	inboiseu	
+k	인분뇨	inbunnyo	
+k	인사권	insagwon	
+k	인사법	insabeop	인사하는 방법.
+k	인사비리	insabiri	
+k	인사이더	insaideo	잘 나서며, 사람들과 잘 어울리는 사람.
+k	인사하다	insahada	to greet
+k	인삼차	insamcha	ginseng tea
+k	인삿말	insatmal	'인사말'의 비표준어.
+k	인상파	insangpa	
+k	인색한	insaekan	
+k	인샬라	insyalla	
+k	인쇄기	inswaegi	printing press
+k	인쇄소	inswaeso	printing house, printshop
+k	인쇄인	inswaein	
+k	인쇄자	inswaeja	printer (one who makes pr…
+k	인수하다	insuhada	
+k	인식표	insikpyo	dog tag
+k	인애하다	inaehada	to be benevolent; to be k…
+k	인용구	inyonggu	
+k	인용부	inyongbu	quotation marks
+k	인용어	inyongeo	
+k	인위법	inwibeop	
+k	인위적	inwijeok	자연스럽지 않고 작위적인 느낌이 드는 것.
+k	인유법	inyubeop	
+k	인자하다	injahada	마음이 어질고 자애롭다.
+k	인재난	injaenan	
+k	인절미	injeolmi	A kind of Korean snack co…
+k	인조고기	injogogi	imitation meat
+k	인조모피	injomopi	faux fur
+k	인조석	injoseok	
+k	인지하다	injihada	어질고 슬기롭다.
+k	인찰지	inchalji	
+k	인코딩	inkoding	
+k	인터넷	inteonet	Internet (specific intern…
+k	인터뷰	inteobyu	interview
+k	인터폰	inteopon	같은 건물 안에서나 또는 밖에서 건물 안으로 …
+k	인티파다	intipada	intifada
+k	인평	inpyeong	
+k	인플레	inpeulle	
+k	인형	inhyeong	doll, puppet, action figu…
+k	인화물	inhwamul	
+k	인후강	inhugang	
+k	인후염	inhuyeom	pharyngolaryngitis, sore …
+k	인후통	inhutong	
+e	in any case	inanycase	1 meaning
+e	in front of	infrontof	1 meaning
+e	in general	ingeneral	1 meaning
+e	in order to	inorderto	1 meaning
+e	in private	inprivate	1 meaning
+e	in spite of	inspiteof	1 meaning
+e	in the mood	inthemood	1 meaning
+e	in the past	inthepast	1 meaning
+e	inability	inability	1 meaning
+e	inanimacy	inanimacy	1 meaning
+e	inanimate	inanimate	1 meaning
+e	inaudible	inaudible	1 meaning
+e	inaudibly	inaudibly	1 meaning
+e	incapable	incapable	2 meanings
+e	incentive	incentive	2 meanings
+e	incipient	incipient	1 meaning
+e	including	including	1 meaning
+e	inclusion	inclusion	1 meaning
+e	income tax	incometax	1 meaning
+e	incorrect	incorrect	1 meaning
+e	increment	increment	2 meanings
+e	incubator	incubator	3 meanings
+e	incumbent	incumbent	1 meaning
+e	incurable	incurable	1 meaning
+e	incursion	incursion	1 meaning
+e	indelible	indelible	2 meanings
+e	indicator	indicator	3 meanings
+e	indiction	indiction	1 meaning
+e	indo-aryan	indoaryan	1 meaning
+e	indochina	indochina	1 meaning
+e	indolence	indolence	1 meaning
+e	indonesia	indonesia	1 meaning
+e	induction	induction	1 meaning
+e	inebriate	inebriate	1 meaning
+e	inelegant	inelegant	1 meaning
+e	infection	infection	2 meanings
+e	infective	infective	1 meaning
+e	infertile	infertile	1 meaning
+e	infielder	infielder	1 meaning
+e	infirmary	infirmary	2 meanings
+e	inflation	inflation	3 meanings
+e	influence	influence	4 meanings
+e	influenza	influenza	1 meaning
+e	informant	informant	1 meaning
+e	ingenuity	ingenuity	1 meaning
+e	inhibitor	inhibitor	1 meaning
+e	initially	initially	1 meaning
+e	initiator	initiator	1 meaning
+e	injection	injection	3 meanings
+e	injective	injective	1 meaning
+e	injustice	injustice	1 meaning
+e	inland sea	inlandsea	1 meaning
+e	inner asia	innerasia	1 meaning
+e	inner core	innercore	1 meaning
+e	innocence	innocence	3 meanings
+e	innocuous	innocuous	2 meanings
+e	innsbruck	innsbruck	1 meaning
+e	inorganic	inorganic	1 meaning
+e	insectoid	insectoid	1 meaning
+e	inselberg	inselberg	1 meaning
+e	inshallah	inshallah	1 meaning
+e	inside out	insideout	2 meanings
+e	insinuate	insinuate	1 meaning
+e	insolence	insolence	1 meaning
+e	insoluble	insoluble	3 meanings
+e	inspector	inspector	2 meanings
+e	instagram	instagram	1 meaning
+e	installer	installer	1 meaning
+e	instigate	instigate	1 meaning
+e	institute	institute	2 meanings
+e	insulting	insulting	1 meaning
+e	insurance	insurance	2 meanings
+e	insurgent	insurgent	2 meanings
+e	intellect	intellect	2 meanings
+e	intensify	intensify	1 meaning
+e	intensity	intensity	1 meaning
+e	intention	intention	1 meaning
+e	inter alia	interalia	1 meaning
+e	intercept	intercept	4 meanings
+e	intercity	intercity	1 meaning
+e	interface	interface	3 meanings
+e	interfere	interfere	1 meaning
+e	interlude	interlude	3 meanings
+e	interpret	interpret	3 meanings
+e	interrupt	interrupt	3 meanings
+e	interview	interview	3 meanings
+e	intestine	intestine	2 meanings
+e	intricacy	intricacy	1 meaning
+e	intricate	intricate	1 meaning
+e	intrinsic	intrinsic	1 meaning
+e	introduce	introduce	1 meaning
+e	introvert	introvert	1 meaning
+e	intrusion	intrusion	1 meaning
+e	intuition	intuition	1 meaning
+e	intuitive	intuitive	2 meanings
+e	inu hariko	inuhariko	1 meaning
+e	inuktitut	inuktitut	1 meaning
+e	invadable	invadable	1 meaning
+e	invention	invention	2 meanings
+e	inventory	inventory	2 meanings
+e	inverness	inverness	1 meaning
+e	inversion	inversion	2 meanings
+e	invisible	invisible	2 meanings
+e	invisibly	invisibly	1 meaning
+e	involucre	involucre	1 meaning
+j	いなかびる	inakabiru	都会から離れた趣・静けさが感じられる。田舎風である。
+j	いなかもの	inakamono	田舎で暮らすもの。田舎出身のもの。
+j	いながれる	inagareru	多くの人が身分に従い座る。
+j	いなくなる	inakunaru	to disappear (of people o…
+j	いなごまめ	inagomame	蝗豆: carob
+j	いなびかり	inabikari	かみなりの放電による発光現象。
+j	いのしし	inoshishi	ウシ目（偶蹄目）イノシシ科イノシシ属に属する動物の…
+j	いのちごい	inochigoi	殺されそうな時に助命を懇願すること。
+j	いんちきの	inchikino	
+j	イニシアル	inishiaru	
+j	イヌホオズキ	inuhozuki	
+j	イノシシ	inoshishi	ウシ目（偶蹄目）イノシシ科イノシシ属に属する動物の…
+j	イノベーション	inobeshon	革新、刷新。
+j	インキュバス	inkyubasu	incubus
+j	インキュベーター	inkyubeta	incubator
+j	インクジェット	inkujetto	
+j	インクルージョン	inkurujon	包含、包括。
+j	インク壺	inkutsubo	inkwell
+j	イングランド	ingurando	England (a constituent co…
+j	イングリア語	inguriago	
+j	イングーシ語	ingushigo	Ingush language
+j	インシャーアッラー	inshaarra	inshallah
+j	インスタンス	insutansu	具体例、典型例。
+j	インスタント	insutanto	instant
+j	インスタ映え	insutabae	an image or scene suitabl…
+j	インセンティヴ	insentivu	動機、誘因、刺激。
+j	インソムニア	insomunia	insomnia
+j	インタビュワー	intabyuwa	インタビュアーの表記揺れ。
+j	インタビューワ	intabyuwa	インタビュアーの表記揺れ。
+j	インタビューワー	intabyuwa	インタビュアーの表記揺れ。
+j	インターネット	intanetto	internet
+j	インターバンク	intabanku	インターバンク市場
+j	インターフェイス	intafeisu	二つの機械、機械と人間の間を接続する装置や技術。
+j	インターフェロン	intaferon	病原体や腫瘍細胞などに反応して生成され、それらの増…
+j	インターリング	intaringu	エストニアのドガー・フォン・ヴァールが西ヨーロッパ…
+j	インディクティオ	indikutio	
+j	インデックス	indekkusu	index, an ordered list
+j	インドシナ	indoshina	中国の南、インドの東にある地域、半島。概ね東南アジ…
+j	インドライオン	indoraion	an Indian lion
+j	インド半島	indohanto	
+j	インド大麻	indotaima	
+j	インド料理	indoryori	インドの伝統的な料理。
+j	インバランス	inbaransu	不均衡。
+j	インピーダンス	inpidansu	impedance
+j	インフォーマント	infomanto	
+j	インプラント	inpuranto	implant (anything surgica…
+j	インベンション	inbenshon	
+j	インベントリ	inbentori	inventory, the stock of a…
+j	インベントリー	inbentori	目録。在庫。
+j	インペリウム	inperiumu	imperium
+j	インボリュート	inboryuto	伸開線。
+j	インポテンス	inpotensu	impotence
+j	インマヌエル	inmanueru	Immanuel
+j	インヴァネス	invuanesu	
+j	乾ドック	inuidokku	
+j	印刷工	insatsuko	
+j	印刷所	insatsujo	a printing office, a prin…
+j	印刷機	insatsuki	printing press
+j	印度半島	indohanto	
+j	印度支那	indoshina	Indochina
+j	印欧語族	inogozoku	synonym of インド・ヨーロッパ語族
+j	印象操作	inshososa	特定の人物や物事に対する印象を、意図的に特定の方向…
+j	印象的	inshoteki	leaving an impression; im…
+j	命乞い	inochigoi	the act of begging for me…
+j	因果律	ingaritsu	the law of causality
+j	委任統治	inintochi	列強が国際連盟の委任の下に第一次世界大戦の敗戦国が…
+j	引退する	intaisuru	
+j	氤氲靉靆	inunaitai	濃い霧や雲が棚引くさま。
+j	犬のくそ	inunokuso	
+j	犬張子	inuhariko	a kind of traditional Jap…
+j	猪	inoshishi	a wild boar, Sus scrofa
+j	田舎者	inakamono	someone from the country;…
+j	稲光	inabikari	lightning
+j	蝗豆	inagomame	carob
+j	陰茎亀頭	inkeikito	glans penis
+j	陰謀説	inbosetsu	
+j	陰陽説	inyosetsu	自然の営みが陰陽の二つの気の調和で保たれているよう…
+j	隠元豆	ingenmame	common bean, Phaseolus vu…
+j	隠然たる	inzentaru	
+k	이누이트어	inuiteueo	
+k	익명	ingmyeong	anonymity
+k	인가증	ingajeung	
+k	인간관	ingangwan	
+k	인간적	inganjeok	humane
+k	인격자	ingyeokja	
+k	인견사	ingyeonsa	
+k	인계인수	ingyeinsu	
+k	인계하다	ingyehada	
+k	인공림	ingongnim	
+k	인공물	ingongmul	
+k	인과설	ingwaseol	
+k	인구 밀도	ingumildo	
+k	인구문제	ingumunje	
+k	인구밀도	ingumildo	
+k	인구어계	ingueogye	synonym of 인도유럽어족 (Indoyu…
+k	인구어족	ingueojok	synonym of 인도유럽어족 (Indoyu…
+k	인기척	ingicheok	sign or sound (of people)
+k	인내하다	innaehada	
+k	인도 대마	indodaema	
+k	인도 사람	indosaram	
+k	인도네시아	indonesia	Indonesia (a country and …
+k	인디언의	indieonui	
+k	인문주의	inmunjuui	
+k	인문토기	inmuntogi	
+k	인민당	inmindang	
+k	인본주의	inbonjuui	
+k	인사고과	insagogwa	
+k	인사성	insaseong	
+k	인솔하다	insolhada	길을 잃어버리지 않게 지도하다.
+k	인쇄물	inswaemul	
+k	인쇄판	inswaepan	
+k	인슐린	insyullin	
+k	인식론	insingnon	epistemology
+k	인식하다	insikhada	to recognize, understand;…
+k	인왕문	inwangmun	
+k	인용문	inyongmun	
+k	인용서	inyongseo	
+k	인용표	inyongpyo	'따옴표'.
+k	인정미	injeongmi	
+k	인조가죽	injogajuk	pleather, faux leather
+k	인조견	injogyeon	
+k	인조비료	injobiryo	
+k	인조인간	injoingan	android (robot with human…
+k	인조잔디	injojandi	artificial turf
+k	인조진주	injojinju	
+k	인종학	injonghak	
+k	인지조례	injijorye	
+k	인질극	injilgeuk	hostage-taking incident
+k	인척기	incheokgi	
+k	인하책	inhachaek	
+k	인화수소	inhwasuso	
+k	인화점	inhwajeom	
+k	인회석	inhoeseok	불소및 염소가 들어있는 인산염 광물의 일종.
+k	인후창	inhuchang	
+e	in addition	inaddition	1 meaning
+e	in question	inquestion	1 meaning
+e	in that case	inthatcase	1 meaning
+e	in the black	intheblack	1 meaning
+e	in the flesh	intheflesh	1 meaning
+e	inaccuracy	inaccuracy	1 meaning
+e	inactivate	inactivate	1 meaning
+e	inadequate	inadequate	1 meaning
+e	inaugurate	inaugurate	1 meaning
+e	inbreeding	inbreeding	1 meaning
+e	inchoative	inchoative	1 meaning
+e	incidental	incidental	2 meanings
+e	incinerate	incinerate	1 meaning
+e	incitement	incitement	1 meaning
+e	incomplete	incomplete	1 meaning
+e	incredible	incredible	3 meanings
+e	incubation	incubation	2 meanings
+e	indecision	indecision	1 meaning
+e	indefinite	indefinite	1 meaning
+e	indian plum	indianplum	2 meanings
+e	indication	indication	1 meaning
+e	indictment	indictment	1 meaning
+e	indiscreet	indiscreet	1 meaning
+e	individual	individual	3 meanings
+e	indonesian	indonesian	3 meanings
+e	indulgence	indulgence	1 meaning
+e	ineligible	ineligible	1 meaning
+e	ineligibly	ineligibly	1 meaning
+e	ineptitude	ineptitude	1 meaning
+e	inequality	inequality	2 meanings
+e	inevitable	inevitable	2 meanings
+e	inevitably	inevitably	1 meaning
+e	inexorable	inexorable	1 meaning
+e	infallible	infallible	1 meaning
+e	infallibly	infallibly	1 meaning
+e	infarction	infarction	1 meaning
+e	infectious	infectious	1 meaning
+e	infield fly	infieldfly	1 meaning
+e	infiltrate	infiltrate	3 meanings
+e	infinitive	infinitive	1 meaning
+e	inflatable	inflatable	1 meaning
+e	inflection	inflection	1 meaning
+e	influencer	influencer	2 meanings
+e	infraction	infraction	1 meaning
+e	infraorder	infraorder	1 meaning
+e	infrasound	infrasound	1 meaning
+e	ingratiate	ingratiate	1 meaning
+e	ingredient	ingredient	1 meaning
+e	ingushetia	ingushetia	1 meaning
+e	inhabitant	inhabitant	1 meaning
+e	inhalation	inhalation	1 meaning
+e	inimitable	inimitable	1 meaning
+e	initialize	initialize	1 meaning
+e	initiation	initiation	1 meaning
+e	initiative	initiative	2 meanings
+e	injury time	injurytime	1 meaning
+e	inner child	innerchild	1 meaning
+e	innominate	innominate	1 meaning
+e	innovation	innovation	1 meaning
+e	innovative	innovative	2 meanings
+e	insatiable	insatiable	1 meaning
+e	insecurity	insecurity	1 meaning
+e	insensible	insensible	2 meanings
+e	insert song	insertsong	1 meaning
+e	inside joke	insidejoke	1 meaning
+e	insolvable	insolvable	1 meaning
+e	insolvency	insolvency	1 meaning
+e	inspection	inspection	1 meaning
+e	instigator	instigator	1 meaning
+e	instructor	instructor	1 meaning
+e	instrument	instrument	5 meanings
+e	insularism	insularism	1 meaning
+e	insurgency	insurgency	1 meaning
+e	intangible	intangible	2 meanings
+e	interferon	interferon	1 meaning
+e	interloper	interloper	1 meaning
+e	intermezzo	intermezzo	1 meaning
+e	internship	internship	1 meaning
+e	interpunct	interpunct	1 meaning
+e	intestinal	intestinal	1 meaning
+e	intimidate	intimidate	1 meaning
+e	intonation	intonation	1 meaning
+e	intoxicate	intoxicate	1 meaning
+e	intramuros	intramuros	1 meaning
+e	inundation	inundation	1 meaning
+e	invaluable	invaluable	1 meaning
+e	investment	investment	1 meaning
+e	inveterate	inveterate	2 meanings
+e	invincible	invincible	2 meanings
+e	inviolable	inviolable	2 meanings
+e	invitation	invitation	2 meanings
+e	involution	involution	1 meaning
+j	いないいないばあ	inaiinaiba	peek-a-boo
+j	いなかくさい	inakakusai	of the countryside; hicki…
+j	いなかみち	inakamichi	countryside road; country…
+j	いなりずし	inarizushi	甘辛く煮た油揚げを袋状にし、その中に酢飯を入れた寿…
+j	いぬのつき	inunotsuki	陰暦九月の異称。
+j	いのちがけ	inochigake	indifference to potential…
+j	いのちづな	inochizuna	高所や水中などでの作業の際、落下や流出など防ぐため…
+j	いのちとり	inochitori	命を落とす原因となる事柄。
+j	いの一番	inoichiban	first thing (before anyth…
+j	イニシャティブ	inishatibu	イニシアティブの別形。
+j	イノシトール	inoshitoru	inositol
+j	イングリア人	inguriajin	ロシアのイングリア地方に住むフィン人。
+j	イングリッシュ	ingurisshu	the English language
+j	イングーシ人	ingushijin	ロシア・イングーシ共和国の主要民族。イングーシ語を…
+j	インシャッラーフ	insharrafu	
+j	インシュロック	inshurokku	cable tie
+j	インジェクション	injekushon	
+j	インスペクター	insupekuta	inspector
+j	インタレスト	intaresuto	関心、興味。
+j	インターセックス	intasekksu	
+j	インターチェンジ	intachenji	interchange which connect…
+j	インタープリタ	intapurita	
+j	インターリングア	intaringua	Interlingua (interlanguag…
+j	インダス川	indasugawa	パキスタンを流れる大河。ヒマラヤ山脈に源を発し、ア…
+j	インダンスレン	indansuren	
+j	インテグリティ	integuriti	正直、誠実、高潔
+j	インディアナ州	indianashu	the full form of インディアナ (…
+j	イントネーション	intoneshon	会話の時の話者の意図などによるその言葉の調子の上げ…
+j	インドキワタ	indokiwata	
+j	インドネシア	indoneshia	Indonesia (a country and …
+j	インドルカム	indorukamu	
+j	インド孔雀	indokujaku	an Indian peafowl
+j	インド神話	indoshinwa	古代インドから伝わる神話。
+j	インフォメーション	infomeshon	information
+j	インフルエンサー	infuruensa	influencer
+j	インフルエンザ	infuruenza	influenza
+j	インフレーション	infureshon	inflation
+j	インポテンツ	inpotentsu	impotence, especially of …
+j	印刷者	insatsusha	printer (person who makes…
+j	印度孔雀	indokujaku	
+j	印度蛇木	indojaboku	Indian snakeroot, Rauwolf…
+j	印欧語学	inougogaku	
+j	印象主義	inshoshugi	impressionism
+j	印象深い	inshobukai	印象的である、強く印象に残るさま。
+j	命取り	inochitori	fatal, deadly
+j	命綱	inochizuna	lifeline
+j	因数分解	insubunkai	factorization
+j	因果関係	ingakankei	cause-and-effect relation…
+j	居眠り病	inemuribyo	
+j	引力圏	inryokuken	天体で引力が及ぶ範囲。重力圏。
+j	引率者	insotsusha	
+j	意に介する	inikaisuru	to mind, to care
+j	慇懃無礼	inginburei	hypocritical courtesy; su…
+j	犬に論語	inunirongo	cast pearls before swine
+j	犬の遠吠え	inunotoboe	to bluff
+j	陰核亀頭	inkakukito	clitoral glans
+j	陰核包皮	inkakuhohi	
+j	陰極線	inkyokusen	真空で放電した時、陰極から放出される速度が速い電子…
+j	陰茎ポンプ	inkeiponpu	
+j	陰茎羨望	inkeisenbo	
+j	陰茎骨	inkeikotsu	baculum
+j	陰謀論者	inboronsha	conspiracy theorist
+j	隠匿する	intokusuru	
+j	隠忍自重	inninjicho	patient and prudent behav…
+j	飲酒運転	inshuunten	酒を飲んで体内のアルコールが分解されきらないうちに…
+j	飲食店	inshokuten	restaurant
+k	인간성	inganseong	사람의 됨됨이. 또는 사람이 가진 본성.
+k	인간세계	ingansegye	
+k	인간탐구	ingantamgu	
+k	인격신	ingyeoksin	
+k	인격화	ingyeokhwa	
+k	인공적	ingongjeok	
+k	인기 있는	ingiinneun	
+k	인기가 있다	ingigaitda	
+k	인내성	innaeseong	
+k	인내천	innaecheon	
+k	인다라망	indaramang	Indra's net (a metaphor o…
+k	인도보리수	indoborisu	
+k	인도차이나	indochaina	Indochina (a peninsula an…
+k	인디케이터	indikeiteo	
+k	인명부	inmyeongbu	
+k	인물심사	inmulsimsa	'면접'의 북한말.
+k	인민 위원	inminwiwon	
+k	인버네스	inbeoneseu	
+k	인사관리	insagwalli	
+k	인산비료	insanbiryo	
+k	인산인해	insaninhae	huge crowd of people, thr…
+k	인상적	insangjeok	memorable, impressive
+k	인상주의	insangjuui	
+k	인색하다	insaekhada	stingy, tight-fisted, che…
+k	인쇄공	inswaegong	
+k	인쇄된	inswaedoen	
+k	인쇄하다	inswaehada	to print
+k	인수분해	insubunhae	factorization
+k	인습적	inseupjeok	
+k	인습주의	inseupjuui	
+k	인습타파	inseuptapa	
+k	인식주체	insikjuche	
+k	인양하다	inyanghada	
+k	인용절	inyongjeol	
+k	인용하다	inyonghada	to quote; to cite
+k	인접하다	injeophada	
+k	인정서	injeongseo	certificate
+k	인젝션	injeksyeon	
+k	인조보석	injoboseok	
+k	인조석유	injoseogyu	
+k	인조섬유	injoseomyu	
+k	인종적	injongjeok	
+k	인지과학	injigwahak	cognitive science
+k	인척간	incheokgan	
+k	인터네트	inteoneteu	Internet
+k	인후병	inhubyeong	
+k	잉구쉬어	ingguswieo	인구시어의 비표준어.
+k	잉그럼	inggeureom	
+k	잉어빵	ingeoppang	A fish-shaped pastry that…
+k	잉여금	ingyeogeum	
+k	잉크통	ingkeutong	inkwell
+k	잉태하다	ingtaehada	사람이나 동물 따위가 임신을하다.
+e	in a nutshell	inanutshell	1 meaning
+e	in cold blood	incoldblood	1 meaning
+e	in my opinion	inmyopinion	1 meaning
+e	in operation	inoperation	1 meaning
+e	in order that	inorderthat	1 meaning
+e	in principle	inprinciple	1 meaning
+e	in the future	inthefuture	1 meaning
+e	in the offing	intheoffing	1 meaning
+e	in three days	inthreedays	1 meaning
+e	incantation	incantation	1 meaning
+e	incarcerate	incarcerate	1 meaning
+e	incarnation	incarnation	1 meaning
+e	incessantly	incessantly	1 meaning
+e	incidentals	incidentals	1 meaning
+e	incinerator	incinerator	1 meaning
+e	inclusive or	inclusiveor	1 meaning
+e	incompetent	incompetent	1 meaning
+e	incongruous	incongruous	1 meaning
+e	incorporeal	incorporeal	1 meaning
+e	increasable	increasable	1 meaning
+e	incunabulum	incunabulum	1 meaning
+e	indanthrene	indanthrene	1 meaning
+e	independent	independent	2 meanings
+e	indian cobra	indiancobra	1 meaning
+e	indian ocean	indianocean	1 meaning
+e	indian style	indianstyle	1 meaning
+e	indifferent	indifferent	1 meaning
+e	indigestion	indigestion	1 meaning
+e	indignation	indignation	2 meanings
+e	indivisible	indivisible	2 meanings
+e	industrious	industrious	1 meaning
+e	inebriation	inebriation	1 meaning
+e	inescapable	inescapable	1 meaning
+e	inexpensive	inexpensive	1 meaning
+e	infanticide	infanticide	2 meanings
+e	infantryman	infantryman	1 meaning
+e	infatuation	infatuation	2 meanings
+e	inferiority	inferiority	2 meanings
+e	infertility	infertility	2 meanings
+e	inflammable	inflammable	1 meaning
+e	informatics	informatics	1 meaning
+e	information	information	1 meaning
+e	inheritance	inheritance	2 meanings
+e	inoculation	inoculation	1 meaning
+e	inoffensive	inoffensive	2 meanings
+e	input method	inputmethod	2 meanings
+e	inquisition	inquisition	1 meaning
+e	inquisitive	inquisitive	1 meaning
+e	inscription	inscription	1 meaning
+e	insectarium	insectarium	1 meaning
+e	insecticide	insecticide	1 meaning
+e	insectivore	insectivore	1 meaning
+e	insensitive	insensitive	2 meanings
+e	inseparable	inseparable	1 meaning
+e	insincerity	insincerity	1 meaning
+e	insinuation	insinuation	1 meaning
+e	inspiration	inspiration	4 meanings
+e	institution	institution	2 meanings
+e	instruction	instruction	3 meanings
+e	integration	integration	3 meanings
+e	intelligent	intelligent	1 meaning
+e	intentional	intentional	1 meaning
+e	interaction	interaction	2 meanings
+e	interactive	interactive	1 meaning
+e	interatomic	interatomic	1 meaning
+e	intercalary	intercalary	1 meaning
+e	interceptor	interceptor	1 meaning
+e	interchange	interchange	3 meanings
+e	intercourse	intercourse	1 meaning
+e	interesting	interesting	1 meaning
+e	interlingua	interlingua	1 meaning
+e	intermingle	intermingle	1 meaning
+e	internalism	internalism	1 meaning
+e	internalist	internalist	2 meanings
+e	internalize	internalize	1 meaning
+e	interpreter	interpreter	3 meanings
+e	interracial	interracial	1 meaning
+e	interrobang	interrobang	1 meaning
+e	interrogate	interrogate	1 meaning
+e	interslavic	interslavic	1 meaning
+e	interviewer	interviewer	1 meaning
+e	intolerance	intolerance	1 meaning
+e	intrasexual	intrasexual	1 meaning
+e	introverted	introverted	1 meaning
+e	investigate	investigate	2 meanings
+e	involuntary	involuntary	1 meaning
+j	いなかことば	inakakotoba	都会から離れた地域の人が使っている言葉。
+j	いにしえぶり	inishieburi	昔の風習、習慣、慣習。
+j	いぬかたひば	inukatahiba	イワヒバ科の常緑性羊歯植物。日本では八重山諸島のみ…
+j	いぬちくしょう	inuchikusho	
+j	いのちびろい	inochibiroi	危うく死にそうなところで助かること。
+j	イニシアティブ	inishiatibu	initiative
+j	インイヤーモニター	iniyamonita	ミュージシャンやアイドルがパフォーマンス中に音を細…
+j	インカ帝国	inkateikoku	1438年から1533年にかけて南アメリカに存在し…
+j	インキュナブラ	inkyunabura	incunable (very early pri…
+j	インキュベーション	inkyubeshon	抱卵。孵化。
+j	イングランドの	ingurandono	
+j	インジャリータイム	injaritaimu	
+j	インスタントの	insutantono	
+j	インストールする	insutorusur	
+j	インセルオタク	inseruotaku	incel otaku
+j	インターンシップ	intanshippu	
+j	インダクタンス	indakutansu	電気回路において、一つの回路の電流の強さが変化する…
+j	インテリジェンス	interijensu	intelligence (information)
+j	インテリ幹部	interikanbu	「だら幹」に同じ。
+j	インテロバング	interobangu	
+j	イントラネット	intoranetto	intranet
+j	インドガビアル	indogabiaru	ワニ目ガビアル科インドガビアル属に属するわにの一種…
+j	インドヨーロッパ	indoyoroppa	
+j	インフォデミック	infodemikku	不正確な情報の拡散による混乱。
+j	インプットする	inputtosuru	
+j	インプレゾンビ	inpurezonbi	"impression zombie", some…
+j	インプレッション	inpuresshon	印象、反応。
+j	印刷する	insatsusuru	
+j	印度仏法僧	indobupposo	
+j	印度菩提樹	indobodaiju	
+j	印象付ける	inshozukeru	
+j	印象的な	inshotekina	
+j	印鑑証明	inkanshomei	提示された印鑑が市区町村に届け出されているものであ…
+j	命拾い	inochibiroi	narrow escape from death
+j	咽喉科学	inkoukagaku	
+j	咽喉科的	inkoukateki	
+j	因幡鶲	inabahitaki	
+j	慇懃丁重	inginteicho	polite and courteous
+j	犬畜生	inuchikusho	cur
+j	猪鹿蝶	inoshikacho	in various hanafuda card …
+j	院長室	inchoshitsu	院長が執務を行う専用の部屋。
+j	陰茎欠損	inkeikesson	
+k	익명의	ingmyeongui	
+k	인간혐오	inganhyeomo	misanthropy, misanthropism
+k	인격권	ingyeokgwon	
+k	인격주의	ingyeokjuui	
+k	인공강우	ingonggangu	
+k	인공두뇌	ingongdunoe	
+k	인공부화	ingongbuhwa	
+k	인공수분	ingongsubun	
+k	인공유산	ingongyusan	
+k	인공조림	ingongjorim	
+k	인공진주	ingongjinju	
+k	인과응보	ingwaeungbo	
+k	인구동태	ingudongtae	
+k	인권유린	ingwonyurin	
+k	인도네시아어	indonesiaeo	Indonesian (language)
+k	인도네시아의	indonesiaui	
+k	인도네시아인	indonesiain	
+k	인도코끼리	indokokkiri	
+k	인도코브라	indokobeura	
+k	인디언자리	indieonjari	
+k	인명록	inmyeongnok	
+k	인문과학	inmungwahak	
+k	인문교육	inmungyoyuk	
+k	인물사전	inmulsajeon	a biographical dictionary
+k	인민의 적	inminuijeok	
+k	인민재판	inminjaepan	
+k	인민학교	inminhakgyo	elementary school
+k	인본교육	inbongyoyuk	
+k	인생관	insaenggwan	view of life; outlook on …
+k	인쇄되다	inswaedoeda	to be printed
+k	인식주관	insikjugwan	
+k	인신매매	insinmaemae	
+k	인용되다	inyongdoeda	
+k	인의 장막	inuijangmak	a human wall; a human bar…
+k	인재유출	injaeyuchul	
+k	인저리 타임	injeoritaim	
+k	인적담보	injeokdambo	
+k	인적회사	injeokhoesa	
+k	인정법	injeongbeop	
+k	인정하다	injeonghada	to affirm
+k	인조견사	injogyeonsa	
+k	인조사향	injosahyang	
+k	인조피혁	injopihyeok	
+k	인종문제	injongmunje	
+k	인증하다	injeunghada	to certify
+k	인칭 어미	inchingeomi	주어의 인칭에 따라 변하는 동사의 어미.
+k	인코텀스	inkoteomseu	
+k	인큐베이터	inkyubeiteo	아기가 태어난 뒤에 일정기간을 보내는 곳.
+k	인터페이스	inteopeiseu	interface
+k	인터픽스	inteopikseu	
+e	i need a doctor	ineedadoctor	1 meaning
+e	i need to vomit	ineedtovomit	1 meaning
+e	in other words	inotherwords	1 meaning
+e	in particular	inparticular	1 meaning
+e	in the long run	inthelongrun	1 meaning
+e	inapplicable	inapplicable	1 meaning
+e	inauguration	inauguration	1 meaning
+e	inauspicious	inauspicious	1 meaning
+e	incalculable	incalculable	3 meanings
+e	incandescent	incandescent	3 meanings
+e	incidentally	incidentally	1 meaning
+e	incineration	incineration	1 meaning
+e	incompatible	incompatible	1 meaning
+e	incompletely	incompletely	1 meaning
+e	incompliable	incompliable	1 meaning
+e	incontinence	incontinence	2 meanings
+e	inconvenient	inconvenient	1 meaning
+e	incurability	incurability	1 meaning
+e	indefinitely	indefinitely	2 meanings
+e	independence	independence	1 meaning
+e	indian almond	indianalmond	1 meaning
+e	indian roller	indianroller	1 meaning
+e	indian summer	indiansummer	2 meanings
+e	indianapolis	indianapolis	1 meaning
+e	indifference	indifference	1 meaning
+e	indirect kiss	indirectkiss	1 meaning
+e	indirectness	indirectness	1 meaning
+e	indissoluble	indissoluble	1 meaning
+e	indo-european	indoeuropean	3 meanings
+e	indre-et-loire	indreetloire	1 meaning
+e	ineradicable	ineradicable	1 meaning
+e	inexplicable	inexplicable	1 meaning
+e	infiltration	infiltration	1 meaning
+e	infinite loop	infiniteloop	1 meaning
+e	inflammation	inflammation	2 meanings
+e	inflationism	inflationism	1 meaning
+e	infringement	infringement	1 meaning
+e	inner product	innerproduct	1 meaning
+e	inner trigram	innertrigram	1 meaning
+e	insemination	insemination	2 meanings
+e	inside pocket	insidepocket	1 meaning
+e	instagrammer	instagrammer	1 meaning
+e	installation	installation	2 meanings
+e	instant karma	instantkarma	1 meaning
+e	instrumental	instrumental	2 meanings
+e	insurrection	insurrection	1 meaning
+e	intellectual	intellectual	2 meanings
+e	intelligence	intelligence	3 meanings
+e	intelligible	intelligible	1 meaning
+e	interconnect	interconnect	1 meaning
+e	interest rate	interestrate	1 meaning
+e	interest-free	interestfree	1 meaning
+e	interference	interference	2 meanings
+e	interjection	interjection	1 meaning
+e	interlocutor	interlocutor	1 meaning
+e	intermediary	intermediary	1 meaning
+e	interminable	interminable	1 meaning
+e	intermittent	intermittent	1 meaning
+e	internet cafe	internetcafe	1 meaning
+e	interruption	interruption	2 meanings
+e	intersection	intersection	3 meanings
+e	interstellar	interstellar	1 meaning
+e	intervention	intervention	1 meaning
+e	intimidation	intimidation	1 meaning
+e	intransitive	intransitive	1 meaning
+e	introduction	introduction	3 meanings
+e	introversion	introversion	1 meaning
+e	intuitionism	intuitionism	1 meaning
+e	invertebrate	invertebrate	2 meanings
+e	investigator	investigator	1 meaning
+e	invisibility	invisibility	1 meaning
+j	いのこがしら	inokogashira	漢字の部首「⼹」の呼称の一つ。
+j	いのししどん	inoshishidon	丼飯に調理した猪肉を載せたもの。
+j	いんきんたむし	inkintamushi	「陰金田虫」のひらがな表記。
+j	イニシアチブ	inishiachibu	イニシアティブの別形。
+j	イヌハッカ属	inuhakkazoku	
+j	イングランド人	ingurandojin	西ゲルマン人の一派。主にイングランドに暮らし、英語…
+j	インスタグラマー	insutagurama	Instagramの利用者。
+j	インスタグラム	insutaguramu	
+j	インスタレーション	insutareshon	取り付けられたもの、機械一式、装置、設備。
+j	インストラクター	insutorakuta	
+j	インスピレーション	insupireshon	inspiration
+j	インスペクション	insupekushon	検査。点検。視察。下見。
+j	インタラクティブ	intarakutibu	相互作用の。
+j	インタースラーヴィク	intasuraviku	
+j	インターリングア語	intaringuago	
+j	インダス文明	indasubunmei	インダス川のほとりにできた文明。排水施設を持ってい…
+j	インテグレーション	integureshon	統合。
+j	インテリアウナギ	interiaunagi	鰻の一種。学名は Anguilla interio…
+j	インテリゲンチャ	interigencha	intellectual
+j	インテリ賤民	interisenmin	インテリぶった若者。喫茶店などでコーヒー1杯を何時…
+j	インテルメッツォ	interumettso	intermezzo
+j	インディアンクラブ	indiankurabu	Indian club (exercise equ…
+j	イントラムロス	intoramurosu	
+j	インドウオトリギ	indouotorigi	
+j	インドトゲタケ	indotogetake	インド亜大陸からインドシナにかけて分布するイネ科ホ…
+j	インドネシアの	indoneshiano	
+j	インドネシア語	indoneshiago	bahasa Indonesia, Indones…
+j	インド亜大陸	indoatairiku	南アジアの大部分を占め、インドを中心とする亜大陸（…
+j	インド標準時	indohyojunji	India Standard Time
+j	インド綿の木	indowatanoki	
+j	インフィニティプール	infinitipuru	水泳用のプールで、壁が無く地平線と同化しているよう…
+j	インフォマティクス	infomatikusu	
+j	インフラサウンド	infurasaundo	人の耳に聞こえないような低周波の音波。
+j	印刷機械	insatsukikai	synonym of プリンター (purintā…
+j	印刷物	insatsubutsu	印刷された物の総称。
+j	命の水	inochinomizu	eau de vie; brandy
+j	命を落とす	inochiootosu	to die; to lose one's lif…
+j	命取りの	inochitorino	
+j	居眠り運転	inemuriunten	居眠りをしながら、またはそれに近い状態で乗り物や機…
+j	陰金田虫	inkintamushi	頑癬の俗称。
+j	飮食物	inshokubutsu	
+j	飲食物	inshokubutsu	food and drink
+k	인간 말종	inganmaljong	scum of the earth, worst …
+k	인간 방패	inganbangpae	
+k	인간공학	ingangonghak	
+k	인간관계	ingangwangye	사람과 사람이 사적으로 서로 사귀거나 혹은 집…
+k	인공교배	ingonggyobae	
+k	인공심폐	ingongsimpye	
+k	인공증우	ingongjeungu	구름에 어떤 영향을 주어 인공적으로 비를 내리…
+k	인공호흡	ingonghoheup	
+k	인공환기	ingonghwangi	
+k	인과관계	ingwagwangye	어떤 두 사물 등이 원인과 결과로 이어지는 관계
+k	인광성	ingwangseong	
+k	인구정태	ingujeongtae	
+k	인더스 강	indeoseugang	
+k	인도유럽의	indoyureobui	
+k	인도철학	indocheolhak	
+k	인면수심	inmyeonsusim	사람의 얼굴을 보이지만 짐승같은 마음을 지니고…
+k	인사불성	insabulseong	정신이 매우 흐린 상태, 정신이 없는 상태
+k	인산석회	insanseokhoe	
+k	인상적인	insangjeogin	
+k	인상착의	insangchagui	이목구비 같은 얼굴의 모양뿐만 아니라 사람의 …
+k	인수은행	insueunhaeng	
+k	인스턴트	inseuteonteu	빨리 그리고 쉽게 해 먹을 수 있는 식품.
+k	인습도덕	inseupdodeok	
+k	인용형	inyonghyeong	
+k	인접수역	injeopsuyeok	
+k	인정과세	injeonggwase	
+k	인정되다	injeongdoeda	
+k	인정받다	injeongbatda	
+k	인조반정	injobanjeong	
+k	인증되다	injeungdoeda	
+k	인지심리학	injisimnihak	
+k	인지언어학	injieoneohak	
+k	인체공학	inchegonghak	
+k	인터넷 카페	inteonetkape	‘피시방’을 달리 이르는 말.
+k	인터링구아	inteoringgua	
+k	인터뷰하다	inteobyuhada	특정한 목적을 가지고 개인이나 집단을 만나 정…
+k	인테러뱅	intereobaeng	
+k	인토네이션	intoneisyeon	
+k	인포메틱스	inpometikseu	
+k	인플루엔자	inpeulluenja	influenza
+k	인해전술	inhaejeonsul	
+k	인형극	inhyeonggeuk	puppet show
+k	잉크병	ingkeubyeong	inkwell, inkpot, ink-bott…
+e	in nothing flat	innothingflat	1 meaning
+e	in the same boat	inthesameboat	1 meaning
+e	inadvertently	inadvertently	1 meaning
+e	inappropriate	inappropriate	1 meaning
+e	incarceration	incarceration	1 meaning
+e	inconsiderate	inconsiderate	1 meaning
+e	inconsistency	inconsistency	1 meaning
+e	inconvenience	inconvenience	1 meaning
+e	incorporation	incorporation	1 meaning
+e	independently	independently	1 meaning
+e	indescribable	indescribable	1 meaning
+e	indeterminacy	indeterminacy	1 meaning
+e	indeterminism	indeterminism	1 meaning
+e	indian english	indianenglish	1 meaning
+e	indian peacock	indianpeacock	1 meaning
+e	indian sunburn	indiansunburn	1 meaning
+e	indigo bunting	indigobunting	1 meaning
+e	individualism	individualism	2 meanings
+e	individuality	individuality	1 meaning
+e	industrialist	industrialist	1 meaning
+e	ineligibility	ineligibility	1 meaning
+e	inevitability	inevitability	1 meaning
+e	inexperienced	inexperienced	1 meaning
+e	infallibility	infallibility	1 meaning
+e	infant formula	infantformula	1 meaning
+e	infantophilia	infantophilia	1 meaning
+e	infix notation	infixnotation	1 meaning
+e	inflorescence	inflorescence	1 meaning
+e	inguinal canal	inguinalcanal	1 meaning
+e	inkjet printer	inkjetprinter	1 meaning
+e	inner mongolia	innermongolia	1 meaning
+e	insectivorous	insectivorous	1 meaning
+e	insensitively	insensitively	1 meaning
+e	insensitivity	insensitivity	1 meaning
+e	insignificant	insignificant	1 meaning
+e	instant camera	instantcamera	1 meaning
+e	instant coffee	instantcoffee	1 meaning
+e	instant noodle	instantnoodle	1 meaning
+e	insubstantial	insubstantial	1 meaning
+e	insufficiency	insufficiency	1 meaning
+e	intensive care	intensivecare	1 meaning
+e	intentionally	intentionally	1 meaning
+e	intercultural	intercultural	1 meaning
+e	intergalactic	intergalactic	1 meaning
+e	interlanguage	interlanguage	1 meaning
+e	interlunation	interlunation	1 meaning
+e	internal organ	internalorgan	1 meaning
+e	international	international	2 meanings
+e	interpolation	interpolation	1 meaning
+e	interrelation	interrelation	1 meaning
+e	interrogation	interrogation	1 meaning
+e	interspecific	interspecific	1 meaning
+e	intraspecific	intraspecific	1 meaning
+e	intrinsically	intrinsically	1 meaning
+e	introspection	introspection	1 meaning
+e	invasion money	invasionmoney	1 meaning
+e	inverse matrix	inversematrix	1 meaning
+e	investigation	investigation	1 meaning
+e	invincibility	invincibility	1 meaning
+j	いのししやり	inoshishiyari	猪を仕留める際に用いる槍。ししやり。
+j	いのちしらず	inochishirazu	生命の危険を顧みずに物事を行うこと。また、そのさま。
+j	インクカートリッジ	inkukatorijji	
+j	インスタントコーヒー	insutantokohi	instant coffee (a beverag…
+j	インスタ映えする	insutabaesuru	
+j	インターナショナル	intanashonaru	international
+j	インターネットカフェ	intanettokafe	an Internet cafe
+j	インターネットミーム	intanettomimu	インターネットを通じて広がる文化・行動のこと。
+j	インテリアデザイン	interiadezain	interior design
+j	インテリゲンチア	interigenchia	intellectual
+j	インディアナポリス	indianaporisu	Indianapolis
+j	インドネシア人	indoneshiajin	the Indonesian people
+j	インドホシガメ	indohoshigame	
+j	インド共和国	indokyowakoku	
+j	インフィールドフライ	infirudofurai	
+j	インフレターゲット	infuretagetto	中央銀行が景気の回復のために、デフレ・スパイラルに…
+j	インボルブメント	inborubumento	関与、積極的参加。
+j	ジャイアント・インパクト説	inpakutosetsu	原始地球に火星ほどの大きさの原始惑星が衝突し、それ…
+j	印刷会社	insatsugaisha	
+j	命を賭ける	inochiokakeru	to risk one's life
+j	命知らず	inochishirazu	
+j	咽喉科学者	inkokagakusha	
+j	慇懃を通ずる	inginotsuzuru	to have a surreptitious s…
+j	陰極線管	inkyokusenkan	cathode ray tube, CRT
+k	인격교육	ingyeokgyoyuk	
+k	인격장애	ingyeokjangae	
+k	인공각막	ingonggangmak	
+k	인공번식	ingongbeonsik	
+k	인공수정	ingongsujeong	
+k	인공신장	ingongsinjang	
+k	인공심장	ingongsimjang	
+k	인공위성	ingongwiseong	an artificial satellite
+k	인공지능	ingongjineung	artificial intelligence
+k	인과법칙	ingwabeopchik	'인과율'.
+k	인구 피라미드	ingupiramideu	인구의 성별, 연령별 분포를 나타낸 도표.
+k	인권선언	ingwonseoneon	
+k	인도지나반도	indojinabando	
+k	인디언 서머	indieonseomeo	
+k	인민전선	inminjeonseon	
+k	인민창작	inminchangjak	'구비문학'의 북한말.
+k	인생무상	insaengmusang	
+k	인생의 의미	insaenguiuimi	
+k	인수 합병	insuhapbyeong	
+k	인스브루크	inseubeurukeu	
+k	인의 장벽	inuijangbyeok	synonym of 인의 장막 (in-ui j…
+k	인재은행	injaeeunhaeng	
+k	인적신용	injeoksinyong	
+k	인정 많은	injeongmaneun	
+k	인정사망	injeongsamang	
+k	인정소설	injeongsoseol	
+k	인정신문	injeongsinmun	
+k	인지상정	injisangjeong	human nature; what is nat…
+k	인터프레터	inteopeureteo	
+k	인형의 집	inhyeonguijip	
+e	in layman's terms	inlaymansterms	1 meaning
+e	incompleteness	incompleteness	1 meaning
+e	indestructible	indestructible	1 meaning
+e	indian elephant	indianelephant	1 meaning
+e	indicative mood	indicativemood	1 meaning
+e	indirect object	indirectobject	1 meaning
+e	indiscriminate	indiscriminate	1 meaning
+e	indivisibility	indivisibility	2 meanings
+e	indoctrination	indoctrination	1 meaning
+e	induction motor	inductionmotor	1 meaning
+e	infectiousness	infectiousness	1 meaning
+e	infield fly rule	infieldflyrule	1 meaning
+e	infinite series	infiniteseries	1 meaning
+e	information age	informationage	1 meaning
+e	infrastructure	infrastructure	2 meanings
+e	inheritance tax	inheritancetax	1 meaning
+e	initialization	initialization	1 meaning
+e	innominate bone	innominatebone	1 meaning
+e	insider trading	insidertrading	1 meaning
+e	instagrammable	instagrammable	1 meaning
+e	intelligentsia	intelligentsia	1 meaning
+e	intentionality	intentionality	1 meaning
+e	intercrural sex	intercruralsex	1 meaning
+e	interferometer	interferometer	1 meaning
+e	interferometry	interferometry	1 meaning
+e	internal condom	internalcondom	1 meaning
+e	internationale	internationale	1 meaning
+e	interplanetary	interplanetary	1 meaning
+e	interpretation	interpretation	2 meanings
+e	intersexuality	intersexuality	1 meaning
+e	intransitively	intransitively	1 meaning
+e	intransitivity	intransitivity	1 meaning
+e	investment bank	investmentbank	1 meaning
+j	いのちをつなぐ	inochiotsunagu	to survive; to continue l…
+j	イヌクティトゥット語	inukutituttogo	カナダ北部などで話されている、エスキモー・アレウト…
+j	イングランドぎんこう	ingurandoginko	イングランド銀行: Bank of England
+j	イングランド王国	ingurandookoku	
+j	イングランド銀行	ingurandoginko	The Bank of England, the …
+j	インスタントラーメン	insutantoramen	instant noodle
+j	インターセクシュアル	intasekushuaru	intersexual
+j	インターネットラジオ	intanettorajio	インターネットを介して音声を配信するウェブコンテン…
+j	イントロダクション	intorodakushon	導入部。序奏。
+j	インパクトクレーター	inpakutokureta	
+j	因小失大	inshoshitsudai	to spoil the ship for a h…
+j	因数分解する	insubunkaisuru	
+j	猪武者	inoshishimusha	猪突猛進するだけの武者。
+j	稲田葦切	inadayoshikiri	
+j	陰陽五行説	inyogogyosetsu	中国漢の時代にそれまであった陰陽説と五行説を統合し…
+k	익명투표	ingmyeongtupyo	
+k	인간 피라미드	inganpiramideu	
+k	인격분열	ingyeokbunyeol	
+k	인공가루받이	ingonggarubaji	
+k	인공강설	ingonggangseol	
+k	인공두뇌학	ingongdunoehak	
+k	인공호흡기	ingonghoheupgi	ventilator; artificial re…
+k	인구정책	ingujeongchaek	
+k	인구통계학	ingutonggyehak	
+k	인내심 있는	innaesiminneun	
+k	인도 공화국	indogonghwaguk	
+k	인도게르만어	indogereumaneo	'인도유럽어족'.
+k	인도네시아 사람	indonesiasaram	
+k	인도에 반한 죄	indoebanhanjoe	
+k	인도유럽조어	indoyureopjoeo	
+k	인명사전	inmyeongsajeon	
+k	인사행정	insahaengjeong	
+k	인스타그램	inseutageuraem	
+k	인스턴트의	inseuteonteuui	
+k	인신공격	insingonggyeok	개인의 신상에 대한 언어상의 공격적인 행동.
+k	인재등용	injaedeungyong	
+k	인적증거	injeokjeunggeo	
+k	인종 차별	injongchabyeol	racism
+k	인종차별	injongchabyeol	주로 피부색에 따라 사람을 나누어서 법적, 정…
+k	인체공학의	inchegonghagui	
+k	인터넷 소설	inteonetsoseol	web fiction, webnovel
+k	인터넷우편	inteonedupyeon	'전자우편'의 북한말.
+k	인터랙티브	inteoraektibeu	
+k	인터슬라빅	inteoseullabik	
+k	인테르링구아	intereuringgua	
+k	인텔리겐치아	intelligenchia	intelligentsia (intellect…
+k	인트라무로스	inteuramuroseu	
+k	인플레이션	inpeulleisyeon	inflation
+k	인플루언서	inpeullueonseo	influencer
+k	인형뽑기	inhyeongppopgi	
+k	잉글랜드	inggeullaendeu	England (a constituent co…
+e	in broad daylight	inbroaddaylight	1 meaning
+e	in the first place	inthefirstplace	1 meaning
+e	in the near future	inthenearfuture	1 meaning
+e	inapplicability	inapplicability	1 meaning
+e	incompatibility	incompatibility	1 meaning
+e	incomprehension	incomprehension	1 meaning
+e	inconsequential	inconsequential	1 meaning
+e	incontinence pad	incontinencepad	1 meaning
+e	independence day	independenceday	2 meanings
+e	indian coral tree	indiancoraltree	1 meaning
+e	indian peninsula	indianpeninsula	1 meaning
+e	indissolubility	indissolubility	1 meaning
+e	information desk	informationdesk	1 meaning
+e	informed consent	informedconsent	1 meaning
+e	instrumentalism	instrumentalism	1 meaning
+e	insubordination	insubordination	1 meaning
+e	insurance policy	insurancepolicy	1 meaning
+e	intentional walk	intentionalwalk	1 meaning
+e	internationally	internationally	1 meaning
+e	invasive species	invasivespecies	1 meaning
+e	inverse function	inversefunction	1 meaning
+j	イングリッシュホルン	ingurisshuhorun	cor anglais, English horn…
+j	イングリッシュマフィン	ingurisshumafin	English muffin
+j	インサイダー取引	insaidatorihiki	insider trading
+j	インスタントカメラ	insutantokamera	an instant camera
+j	インストゥルメンタル	insuturumentaru	instrumentals (backing tr…
+j	インターステートハイウェー	intasutetohaiwe	アメリカ合衆国で複数の州を結ぶ高速道路。
+j	インターネットテレビ	intanettoterebi	インターネットを介してテレビ番組などのテレビコンテ…
+j	インデペンデンスデイ	independensudei	
+j	インデペンデンス・デイ	independensudei	
+j	インドにしきへび	indonishikihebi	印度錦蛇: Indian python
+j	インドカンムリガラ	indokanmurigara	
+j	インドネシア料理	indoneshiaryori	インドネシアの伝統的な料理。
+j	インドベンガルウナギ	indobengarunagi	ベンガルウナギの基亜種。学名は Anguilla …
+j	インド・ヨーロッパ祖語	indoyoroppasogo	「印欧祖語」に同じ。
+j	命に代えても	inochinikaetemo	at the cost of one's life
+j	陰茎の	inkeinoinkyouno	
+k	인공면역	ingongmyeonyeok	
+k	인공영양	ingongyeongyang	
+k	인도유럽어족	indoyureobeojok	Indo-European languages
+k	인맥을 쓰다	inmaegeulsseuda	
+k	인명구조원	inmyeonggujowon	
+k	인민 공화국	inmingonghwaguk	인민이 주권을 갖고 있으며 인민에 의해 다스려…
+k	인민공화국	inmingonghwaguk	
+k	인천공항	incheongonghang	
+k	인터넷서점	inteonetseojeom	인터넷을 사용하여 책을 사고 파는 웹사이트.
+k	인필드 플라이	inpildeupeullai	
+e	incandescent lamp	incandescentlamp	1 meaning
+e	incomprehensible	incomprehensible	1 meaning
+e	incubation period	incubationperiod	1 meaning
+e	indian sandalwood	indiansandalwood	1 meaning
+e	industrial design	industrialdesign	1 meaning
+e	inorganic chemist	inorganicchemist	1 meaning
+e	input-output table	inputoutputtable	1 meaning
+e	instant messaging	instantmessaging	1 meaning
+e	instrumental case	instrumentalcase	1 meaning
+e	insurance company	insurancecompany	1 meaning
+e	integral calculus	integralcalculus	1 meaning
+e	intercontinental	intercontinental	1 meaning
+e	interior minister	interiorminister	1 meaning
+e	internal medicine	internalmedicine	1 meaning
+e	international law	internationallaw	1 meaning
+e	internationalism	internationalism	1 meaning
+e	internationalize	internationalize	1 meaning
+e	internet of things	internetofthings	1 meaning
+e	internet protocol	internetprotocol	1 meaning
+e	interoperability	interoperability	1 meaning
+e	intransitive verb	intransitiveverb	1 meaning
+e	intrusive thought	intrusivethought	1 meaning
+e	invertible matrix	invertiblematrix	1 meaning
+j	インクジェットプリンター	inkujettopurinta	
+j	イングーシ共和国	ingushikyowakoku	
+j	インスタントメッセージ	insutantomesseji	
+j	インタロゲーションマーク	intarogeshonmaku	「?」の記号。疑問符。クエスチョンマーク。はてなマ…
+j	インターネットアクセス	intanettoakusesu	Internet access
+j	インターネットオークション	intanettookushon	インターネット上でオークションのように自由に商品を…
+j	インターネットスラング	intanettosurangu	インターネット上で使われる俗語の総称。
+j	インドバイカラウナギ	indobaikaraunagi	バイカラウナギの亜種。学名は Anguilla b…
+j	インパルス応答関数	inparusuotokansu	伝達関数とラプラス対をなす時間領域の関数。線型時不…
+j	インフォームドコンセント	infomudokonsento	informed consent
+j	インフォームド・コンセント	infomudokonsento	治療の長所と短所について説明を受け、納得してから治…
+j	インフルエンザウイルス	infuruenzauirusu	オルトミクソウイルス科に属するインフルエンザ（流行…
+k	인간중심주의	inganjungsimjuui	
+k	인감증명	ingamjeungmyeong	
+k	인공 젖꼭지	ingongjeotkkokji	
+k	인공결정	ingonggyeoljeong	
+k	인공젖꼭지	ingongjeotkkokji	
+k	인구 통계학자	ingutonggyehakja	
+k	인디애나폴리스	indiaenapolliseu	
+k	인명재천	inmyeongjaecheon	
+k	인스타그래머	inseutageuraemeo	
+k	인터내셔널	inteonaesyeoneol	
+e	in the blink of an eye	intheblinkofaneye	1 meaning
+e	inappropriateness	inappropriateness	2 meanings
+e	indefinite article	indefinitearticle	1 meaning
+e	indefinite pronoun	indefinitepronoun	1 meaning
+e	industrialization	industrialization	1 meaning
+e	infectious disease	infectiousdisease	1 meaning
+e	information system	informationsystem	1 meaning
+e	information theory	informationtheory	1 meaning
+e	infrared radiation	infraredradiation	1 meaning
+e	inorganic compound	inorganiccompound	1 meaning
+e	integrated circuit	integratedcircuit	1 meaning
+e	intelligent design	intelligentdesign	1 meaning
+e	intensive care unit	intensivecareunit	1 meaning
+e	intergovernmental	intergovernmental	1 meaning
+e	international unit	internationalunit	1 meaning
+e	intersectionality	intersectionality	1 meaning
+j	イングランド国教会	ingurandokokyokai	
+j	インターセクショナリティ	intasekushonariti	
+j	インターナショナリズム	intanashonarizumu	国際主義。
+j	インターネット老人会	intanettorojinkai	place (e.g. hashtag, vide…
+j	インテリジェント・デザイン	interijentodezain	intelligent design
+j	インド・ヨーロッパ語族	indoyoroppagozoku	the Indo-European languag…
+j	インフラストラクチャ	infurasutorakucha	
+j	インフラストラクチャー	infurasutorakucha	infrastructure
+j	因幡の白兎	inabanoshirousagi	the Hare of Inaba (a hare…
+j	田舎の病院定理	inakanobyointeiri	絶望の定理。
+k	인더스 문명	indeoseumunmyeong	
+k	인스턴트 커피	inseuteonteukeopi	
+k	인적자원 유출	injeokjawonyuchul	
+k	잉글리시 호른	inggeullisihoreun	
+e	i need an interpreter	ineedaninterpreter	1 meaning
+e	in wine, there is truth	inwinethereistruth	1 meaning
+e	incomplete sentence	incompletesentence	1 meaning
+e	indefinite integral	indefiniteintegral	1 meaning
+e	indian star tortoise	indianstartortoise	1 meaning
+e	inferiority complex	inferioritycomplex	1 meaning
+e	information science	informationscience	1 meaning
+e	information warfare	informationwarfare	1 meaning
+e	inorganic chemistry	inorganicchemistry	1 meaning
+e	intelligence agency	intelligenceagency	1 meaning
+e	interior decoration	interiordecoration	1 meaning
+e	interstellar medium	interstellarmedium	1 meaning
+e	intervertebral disc	intervertebraldisc	1 meaning
+e	intrauterine device	intrauterinedevice	1 meaning
+j	インドネシア共和国	indonejiakyowakoku	東南アジアの国、インドネシアの正式な日本語の名称。
+j	印刷標準字体	insatsuhyojunjitai	日本の印刷字体において、表外漢字（常用漢字外の漢字…
+k	인신 보호 영장	insinbohoyeongjang	
+k	인종차별주의	injongchabyeoljuui	racism
+k	인천광역시	incheongwangyeoksi	한국의 경기도 중서부, 서해에 접해 있는 광역…
+k	인칭 대명사	inchingdaemyeongsa	사람을 가리키는 대명사.
+k	인칭대명사	inchingdaemyeongsa	personal pronoun
+k	인터넷 프로토콜	inteonetpeurotokol	
+e	indefinite adjective	indefiniteadjective	1 meaning
+e	independent variable	independentvariable	1 meaning
+e	indian black-lored tit	indianblackloredtit	1 meaning
+e	indo-european studies	indoeuropeanstudies	1 meaning
+e	industrial espionage	industrialespionage	1 meaning
+e	information overload	informationoverload	1 meaning
+e	information security	informationsecurity	1 meaning
+e	intelligence officer	intelligenceofficer	1 meaning
+e	intelligent terminal	intelligentterminal	1 meaning
+e	international school	internationalschool	1 meaning
+e	international waters	internationalwaters	1 meaning
+j	インターナショナリゼーション	intanashonarizeshon	国際化すること。
+j	インターナショナルスクール	intanashonarusukuru	international school
+j	インターネットプロトコル	intanettopurotokoru	IP〔Internet Protocol〕に同じ。
+j	インプリメンテーションする	inpurimenteshonsuru	
+k	인도네시아 공화국	indonesiagonghwaguk	
+k	인도주의적 회랑	indojuuijeokhoerang	
+k	인명 살상용	inmyeongsalsangyong	
+k	인스턴트 라면	inseuteonteuramyeon	
+k	인지 행동 치료	injihaengdongchiryo	
+k	잉글랜드 사람	inggeullaendeusaram	
+e	in vitro fertilization	invitrofertilization	1 meaning
+e	industrial revolution	industrialrevolution	1 meaning
+e	information retrieval	informationretrieval	1 meaning
+e	intellectual property	intellectualproperty	1 meaning
+e	intelligence quotient	intelligencequotient	1 meaning
+e	interesting condition	interestingcondition	1 meaning
+e	international student	internationalstudent	1 meaning
+e	internationalization	internationalization	2 meanings
+e	interrogative pronoun	interrogativepronoun	1 meaning
+e	intracranial pressure	intracranialpressure	1 meaning
+e	inverted question mark	invertedquestionmark	1 meaning
+e	invisible pink unicorn	invisiblepinkunicorn	1 meaning
+j	インターンとして働く	intantoshitehataraku	
+j	インテリジェントターミナル	interijientotaminaru	
+j	命あっての物種	inochiattenomonodane	生きていてこそ様々な事もできるが、死んでしまえば何…
+k	인스턴트 메신저	inseuteonteumesinjeo	
+k	인종차별주의자	injongchabyeoljuuija	racist
+k	인천국제공항	incheongukjegonghang	
+e	information technology	informationtechnology	1 meaning
+e	initial public offering	initialpublicoffering	1 meaning
+e	international date line	internationaldateline	1 meaning
+j	犬も歩けば棒に当たる	inumoarukebaboniataru	there is a danger of trag…
+k	인프라스트럭처	inpeuraseuteureokcheo	
+k	잉글랜드 왕국	inggeullaendeuwangguk	
+e	international klein blue	internationalkleinblue	1 meaning
+e	international relations	internationalrelations	1 meaning
+e	interrogative adjective	interrogativeadjective	1 meaning
+j	命にかかわる問題	inochinikakawarumondai	
+k	인터내셔널리즘	inteonaesyeoneollijeum	
+k	인필드 플라이 규칙	inpildeupeullaigyuchik	
+e	indus valley civilization	indusvalleycivilization	1 meaning
+e	infantry fighting vehicle	infantryfightingvehicle	1 meaning
+e	inverse fourier transform	inversefouriertransform	1 meaning
+e	involuntary manslaughter	involuntarymanslaughter	1 meaning
+k	인플레이터블 캐슬	inpeulleiteobeulkaeseul	
+e	inertial frame of reference	inertialframeofreference	1 meaning
+e	internal combustion engine	internalcombustionengine	1 meaning
+e	inverted exclamation point	invertedexclamationpoint	1 meaning
+j	インターナショナル・クライン・ブルー	intanasshonarukurainburu	
+j	インターネットサービスプロバイダ	intanettosabisupurobaida	インターネット接続事業者。
+j	インドネシア連邦共和国	indoneshiarenpokyowakoku	1949年から1950年までインドネシアの領域に存…
+j	インヴァースマニュファクチャリング	invuasumanyufakucharingu	廃棄物を資源化させる工場。逆生産。
+j	命長ければ恥多し	inochinagakerebahajioshi	長く生きればそれだけ恥をかくことも、恥の上塗りをす…
+j	命長ければ辱多し	inochinagakerebahajioshi	命長ければ恥多しの別形。
+k	잉글랜드계 미국인	inggeullaendeugyemigugin	
+e	intermediate cuneiform bone	intermediatecuneiformbone	1 meaning
+e	international monetary fund	internationalmonetaryfund	1 meaning
+e	international organization	internationalorganization	1 meaning
+e	international space station	internationalspacestation	1 meaning
+j	インテンストロピカルサイクロン	intensutoropikarusaikuron	南西インド洋における、最大風速が90ノット以上11…
+k	인수공통감염병	insugongtonggamyeombyeong	
+e	intangible cultural heritage	intangibleculturalheritage	1 meaning
+e	international system of units	internationalsystemofunits	1 meaning
+k	잉글랜드 성공회	inggeullaendeuseonggonghoe	
+e	international court of justice	internationalcourtofjustice	1 meaning
+e	inverse trigonometric function	inversetrigonometricfunction	1 meaning
+e	international phonetic alphabet	internationalphoneticalphabet	1 meaning
+j	井の中の蛙大海を知らず	inonakanokawazutaikaioshirazu	a narrow world view based…
+k	인천국제공항고속도로	incheongukjegonghanggosokdoro	
+e	international auxiliary language	internationalauxiliarylanguage	1 meaning
+k	인간면역결핍 바이러스	inganmyeonyeokgyeolpipbaireoseu	
+e	intercontinental ballistic missile	intercontinentalballisticmissile	1 meaning
+e	in the land of the blind, the one-eyed man is king	inthelandoftheblindtheoneeyedmanisking	1 meaning
+k	인간만이 자신의 행복을 창조한다	inganmanijasinuihaengbogeulchangjohanda	(뜻).인간은 서로 생각하고 느낄 수 있다

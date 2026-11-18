@@ -1,0 +1,664 @@
+e	or	or	2 meanings
+e	orb	orb	1 meaning
+e	orc	orc	1 meaning
+e	ore	ore	1 meaning
+j	おら	ora	主に男性が用いる（江戸時代は女性も用いた）、ぞんざ…
+j	おり	ori	cage; cell
+j	おる	oru	to exist, to be, to have
+j	おれ	ore	主に男性が用いる、ぞんざいな自称。
+j	おろ	oro	尾ろ: tail
+j	オウル	oru	Oulu (a city in Finland)
+j	オラ	ora	
+j	オーラ	ora	aura (an invisible force)
+j	オーリー	ori	ollie
+j	オール	oru	all (of something), every…
+j	オーレ	ore	olé!
+j	俺	ore	I, me
+j	儞	ore	
+j	尾ろ	oro	a tail
+j	居り	ori	
+j	峰ろ	oro	a mountain peak
+j	往路	oro	行く際に通る道。
+j	悪露	oro	lochia
+j	惡露	oro	
+j	折る	oru	to bend, to fold
+j	撓る	oru	to bend due to the abunda…
+j	檻	ori	
+j	欧露	oro	ヨーロッパロシア。
+j	緒ろ	oro	a thin, long thread
+j	織	ori	weaving
+j	織り	ori	
+j	織る	oru	to weave (to create (a cl…
+j	降り	ori	imperfective and stem (or…
+k	오라	ora	a thick red cord used to …
+k	오리	ori	duck (in general, especia…
+k	옳아	ora	yes, true, right
+e	oral	oral	2 meanings
+e	oran	oran	1 meaning
+e	orca	orca	1 meaning
+e	orda	orda	1 meaning
+e	oreo	oreo	1 meaning
+e	orgy	orgy	1 meaning
+e	orne	orne	1 meaning
+e	orok	orok	2 meanings
+e	orzo	orzo	1 meaning
+j	オラン	oran	
+j	オレオ	oreo	
+j	オーライ	orai	all right, okay, cleared
+j	オーロン	oron	
+j	往来	orai	traffic, coming and going
+j	往療	oryo	はり師、灸師、按摩マッサージ指圧師、柔道整復師が患…
+j	応竜	oryu	水を蓄えて雨を降らすといわれる中国の伝説上の動物。…
+j	横流	oryu	川の水が溢れ、勝手な方向へ流れ出すこと。
+j	横領	oryo	peculation, embezzlement
+j	汚卵	oran	egg with a dirty shell
+j	王領	oryo	イギリスなどで王室が領有する土地。
+j	鷹竜	oryu	応竜の別称。
+j	黄燐	orin	燐の同位体の一つ。淡黄色で蝋状の固体で猛毒。
+j	黄連	oren	Japanese goldthread, Copt…
+k	오락	orak	entertainment, amusement
+k	오란	oran	
+k	오래	orae	long, for a long time or …
+k	오레오	oreo	
+k	오류	oryu	mistake, error, fallacy
+k	올올	orol	각 올. 또는 모든 올.
+e	orbit	orbit	2 meanings
+e	order	order	15 meanings
+e	oread	oread	1 meaning
+e	organ	organ	3 meanings
+e	orion	orion	2 meanings
+e	oriya	oriya	1 meaning
+e	orlon	orlon	1 meaning
+e	ormoc	ormoc	1 meaning
+e	oroch	oroch	2 meanings
+e	oromo	oromo	1 meaning
+e	orujo	orujo	1 meaning
+e	oryol	oryol	1 meaning
+j	おおらか	oraka	calm, placid
+j	おおるり	oruri	スズメ目ツグミ科オオルリ属に属する鳥の一種。学名:…
+j	おらぶ	orabu	to shout
+j	おりあい	oriai	「おりあう」の連用形。
+j	おりあう	oriau	妥協する。折れ合う。
+j	おりど	orido	折戸: folding door
+j	おりめ	orime	fold (crease)
+j	おりや	oriya	機織りを行う職人、店。
+j	おりる	oriru	高い所から低い所へ移る。
+j	おれあう	oreau	妥協する。折り合う。
+j	おれら	orera	私たち。俺達。我等。一人称複数。
+j	おれる	oreru	向きと直角の方向に力がかかったり、劣化でもろくなっ…
+j	おろおろ	ororo	confused, flustered, in a…
+j	おろか	oroka	foolish
+j	おろす	orosu	高い所から低い所へ移す。
+j	オラ公	orako	オランダ人に対する侮辱語。オラカス。
+j	オリエン	orien	「オリエンテーション」の略。
+j	オリオン	orion	(ギリシア神話) ギリシア神話の猟師。
+j	オリゴ	origo	origo
+j	オリバー	oriba	
+j	オリーブ	oribu	an olive (fruit)
+j	オルグ	orugu	「オルガナイザー」の略。
+j	オルゾー	oruzo	
+j	オルト	oruto	a benzene ring with two s…
+j	オルド	orudo	
+j	オルヌ	orunu	
+j	オルホ	oruho	orujo
+j	オロチ	oroch	
+j	オーリーオーン	orion	Orion
+j	オールド	orudo	古い。
+j	オーロラ	orora	an aurora
+j	オーロール	ororu	
+j	下りる	oriru	to go, come down; to desc…
+j	下ろす	orosu	to cut; to prune
+j	俄羅斯	orosu	Russia (a transcontinenta…
+j	俺も	oremo	
+j	卸す	orosu	to sell wholesale
+j	堕ろす	orosu	to abort (a fetus)
+j	大瑠璃	oruri	a blue-and-white flycatch…
+j	己等	orera	we, us
+j	愚か	oroka	
+j	折り句	oriku	短歌や俳句などで各句の先頭にある言葉を一文字ずつに…
+j	折り合い	oriai	
+j	折り合う	oriau	to make terms, to meet ha…
+j	折り目	orime	
+j	折れる	oreru	to snap; to break
+j	折句	oriku	「折り句」の別表記。
+j	折戸	orido	folding door
+j	織子	oriko	
+j	降りた	orita	
+j	降りる	oriru	get off, disembark
+j	降れる	oreru	
+j	降ろす	orosu	drop off
+k	오라기	oragi	실, 헝겊, 새끼 등의 길고 가느다란 조각.
+k	오라비	orabi	brother of a female
+k	오랜	oraen	longstanding; of long dur…
+k	오램	oraem	'오래다'의 명사형.
+k	오로라	orora	고위도 지방의 하늘에 나타나는 발광 현상.
+k	오로지	oroji	only; solely
+k	오롯이	orosi	completely, entirely, tho…
+k	오룔	oryol	Oryol (an oblast of Russi…
+k	오륜	oryun	부자유친 (父子有親, bujayuchin)
+k	오른	oreun	right, right-hand
+k	오름	oreum	-m nominalization of 오르다 …
+k	오리사	orisa	
+k	오리알	orial	duck egg
+k	옳아요	orayo	
+k	옳은	oreun	'옳다'의 관형사형.
+k	옳음	oreum	right, rightness, correct…
+e	or else	orelse	1 meaning
+e	oracle	oracle	2 meanings
+e	orange	orange	5 meanings
+e	orator	orator	1 meaning
+e	orchid	orchid	1 meaning
+e	ordain	ordain	1 meaning
+e	ordeal	ordeal	2 meanings
+e	oregon	oregon	1 meaning
+e	orgasm	orgasm	2 meanings
+e	origin	origin	2 meanings
+e	oriole	oriole	1 meaning
+e	orisha	orisha	1 meaning
+e	ornery	ornery	1 meaning
+e	oroqen	oroqen	1 meaning
+e	orphan	orphan	1 meaning
+e	orpine	orpine	1 meaning
+e	orrery	orrery	1 meaning
+e	orwell	orwell	1 meaning
+j	おりおり	oriori	その時々。時偶。その都度。
+j	おれっこ	orekko	girl who uses the masculi…
+j	おろし	oroshi	卸: grated matter, grated …
+j	おろち	orochi	非常に大きな蛇。
+j	お料理	oryori	
+j	オランダ	oranda	Holland (a historical pro…
+j	オリコン	orikon	original content
+j	オリシャ	orisha	
+j	オリッサ	orissa	
+j	オリテン	oriten	「オリエンテーション」の略。
+j	オリビア	oribia	
+j	オリョール	oryoru	
+j	オルガン	orugan	organ (musical instrument)
+j	オレゴン	oregon	Oregon (a state in the Pa…
+j	オレフィン	orefin	alkene
+j	オレロン	oreron	
+j	オレンジ	orenji	an orange (Citrus sinensi…
+j	オロッコ	orokko	
+j	オーランド	orando	Orlando
+j	オーリンズ	orinzu	Orleans
+j	オールウェイ	oruwei	第2フレーム以降のいずれかのフレーム以降、投球全て…
+j	オーレスン	oresun	
+j	俺氏	oreshi	I, me
+j	凹レンズ	orenzu	中央部分が縁より薄いレンズ。
+j	和蘭	oranda	日本語とオランダ語。「和蘭辞典」。
+j	和蘭陀	oranda	オランダの日本語による漢字表記。
+j	大蛇	orochi	a large snake
+j	応力	oryoku	stress (internal force ac…
+j	応量器	oryoki	托鉢の僧侶が持つ鉄製の鉢。応器。
+j	折り本	orihon	横に長い長方形の紙を継いだものを綴じずに折り畳んだ…
+j	横列	oretsu	横方向に並ぶこと。また、その列。
+j	王立	oritsu	being royal, established …
+j	阿蘭陀	oranda	オランダの日本語による漢字表記。
+j	颪	oroshi	wind that blows down from…
+k	오락비	orakbi	
+k	오래다	oraeda	long continued; having ex…
+k	오래비	oraebi	brother of a female
+k	오렌지	orenji	orange (fruit)
+k	오로록	ororok	
+k	오르다	oreuda	to go up
+k	오르도	oreudo	
+k	오리발	oribal	사람이 물속에서 활동할 때에 발에 끼는 오리발…
+k	오리배	oribae	
+e	oral sex	oralsex	1 meaning
+e	oration	oration	1 meaning
+e	orbital	orbital	1 meaning
+e	orchard	orchard	2 meanings
+e	orderly	orderly	2 meanings
+e	ordubad	ordubad	1 meaning
+e	oregano	oregano	2 meanings
+e	organdy	organdy	1 meaning
+e	organic	organic	2 meanings
+e	orifice	orifice	1 meaning
+e	origami	origami	1 meaning
+e	orinoco	orinoco	1 meaning
+e	orleans	orleans	1 meaning
+e	orogeny	orogeny	1 meaning
+e	orpheus	orpheus	1 meaning
+e	orthrus	orthrus	1 meaning
+e	orvieto	orvieto	1 meaning
+j	おられる	orareru	「いる（…ている）」の丁寧、または尊敬の表現。いら…
+j	おりから	orikara	折。時節。
+j	おりがみ	origami	紙を折りたたんで様々な形を作る遊戯。
+j	おりだす	oridasu	（模様などを）織って作り出す。
+j	おりづめ	orizume	折箱に食べ物を詰めること。また、そのようなもの。
+j	おりなす	orinasu	さまざまな色の糸を使って模様を織って作る。
+j	おりばこ	oribako	薄い木や紙の板を折ってつくった箱。折り。
+j	おりひめ	orihime	機を織る女性。
+j	おりもと	orimoto	織物の製造元。
+j	おりもの	orimono	vaginal discharge
+j	おりよく	oriyoku	丁度良い時に。都合良く。
+j	おれさま	oresama	俺様, 己様: (pompous, masculi…
+j	おれもの	oremono	a fool, an idiot
+j	おろそか	orosoka	無視していいものとして扱うさま。いい加減に扱うさま…
+j	オラカス	orakasu	オランダまたはオランダ人に対する侮蔑語。オラ公。
+j	オラクル	orakuru	神託。託宣。
+j	オリエント	oriento	東洋。
+j	オリオン座	orionza	Orion
+j	オリゴ糖	origoto	単糖が二個から十個程度結合した糖類。少糖。少糖類。
+j	オリトク	oritoku	
+j	オリパラ	oripara	オリンピックとパラリンピック。
+j	オリボール	oriboru	
+j	オリヤー語	oriyago	インドの公用語の一つである、インド・ヨーロッパ語族…
+j	オリンピア	orinpia	Olympia (an ancient city …
+j	オリーブ油	oribuyu	オリーブの果実を圧搾することで得られる植物油。食用…
+j	オリーボル	oriboru	
+j	オルクス	orukusu	ローマ神話の死神。
+j	オルゴール	orugoru	music box
+j	オルタナ	orutana	alt, alternative, alterna…
+j	オルトキー	orutoki	
+j	オルドス	orudosu	Ordos, a region in China …
+j	オルバニ	orubani	
+j	オルバニー	orubani	
+j	オルレアン	orurean	Orléans
+j	オレイアス	oreiasu	and oread, a mountain nym…
+j	オレガノ	oregano	oregano
+j	オロチョン	orochon	
+j	オロチ語	orochgo	
+j	オロモ語	oromogo	The Oromo language.
+j	オーリボル	oriboru	
+j	オールスター	orusuta	all-star
+j	オールバニ	orubani	Albany (the capital city …
+j	オールバニー	orubani	
+j	オーロクス	orokusu	
+j	愚かな	orokana	
+j	折から	orikara	折柄: just then, (at) that …
+j	折り紙	origami	origami (the Japanese art…
+j	折り込み	orikomi	
+j	折ること	orukoto	
+j	折形	origata	the art of wrapping gifts…
+j	折笠	orikasa	a surname
+j	折紙	origami	
+j	折鶴	orizuru	a paper crane, regarded a…
+j	疎か	orosoka	negligent
+j	織姫	orihime	Orihime; "Weaver Princess…
+j	織物	orimono	textile, fabric
+k	오라방	orabang	'오라버니, 오빠'를 의미하는 제주도 방언.
+k	오라버이	orabeoi	
+k	오라범	orabeom	'오빠'를 약간 높이면서 '오라버니'보다는 약…
+k	오락실	oraksil	arcade; game room
+k	오락회	orakhoe	
+k	오레가노	oregano	
+k	오레건	oregeon	[~주(州)] alternative form …
+k	오룬손	orunson	
+k	오륜기	oryungi	올림픽을 상징하는 기.
+k	오르간	oreugan	organ (musical instrument)
+k	오르골	oreugol	music box
+k	오르르	oreureu	
+k	오리건	origeon	[~주(州)] Oregon (a state i…
+k	오리나무	orinamu	An alder, especially the …
+k	오리야어	oriyaeo	
+k	오린손	orinson	
+e	oral test	oraltest	1 meaning
+e	ordinary	ordinary	1 meaning
+e	ordinate	ordinate	2 meanings
+e	ordnance	ordnance	2 meanings
+e	orenburg	orenburg	1 meaning
+e	organ gun	organgun	1 meaning
+e	organism	organism	2 meanings
+e	organist	organist	1 meaning
+e	organize	organize	1 meaning
+e	orgulous	orgulous	2 meanings
+e	oriental	oriental	1 meaning
+e	original	original	4 meanings
+e	oristano	oristano	1 meaning
+e	ornament	ornament	2 meanings
+e	orpiment	orpiment	1 meaning
+e	orthodox	orthodox	1 meaning
+e	orthoepy	orthoepy	1 meaning
+e	orthosie	orthosie	1 meaning
+j	おりかえす	orikaesu	二重に折ること。
+j	おりしき	orishiki	軍隊で右足を曲げて尻の下に敷き、左足の膝を立てた構…
+j	おりしも	orishimo	ちょうどその時。
+j	おれたち	oretachi	私たち。俺等。我等。一人称複数。
+j	お利口さん	orikosan	利発な子ども、聞き分けの良い子ども
+j	オランウータン	oranutan	an orangutan
+j	オランダの	orandano	
+j	オランダ語	orandago	Dutch language
+j	オリキャラ	orikyara	
+j	オリックス	orikkusu	クジラ偶蹄目ウシ科オリックス属に属する牛の一種。学…
+j	オリボルン	oriborun	
+j	オリボーレン	oriboren	
+j	オリュンピア	oryunpia	
+j	オリンギト	oringito	
+j	オリンピアン	orinpian	オリンピックに出場する選手。
+j	オリンポス	orinposu	Olympus (The highest moun…
+j	オリーブ色	oribuiro	オリーブの果実のようなくすんだ黄緑色。橄欖色。
+j	オリーボーレン	oriboren	oliebol
+j	オルガン砲	oruganho	organ gun
+j	オルチャータ	oruchata	
+j	オルテニア	orutenia	
+j	オルフェウス	orufeusu	
+j	オルモック	orumokku	
+j	オルヴィエート	oruvieto	
+j	オレインさん	oreinsan	オレイン酸: (organic chemistry…
+j	オレイン酸	oreinsan	oleic acid
+j	オロッコ語	orokkogo	
+j	オロンガポ	orongapo	
+j	オールナイト	orunaito	終夜。一晩中。
+j	オールバック	orubakku	slicked-back hairstyle
+j	オールマイティー	orumaiti	全能。
+j	オーロックス	orokkusu	an aurochs (Bos primigeni…
+j	俺達	oretachi	we; us
+j	応力度	oryokudo	応力のこと。主に建築業界で使用される表現。
+j	折り返す	orikaesu	fold back, turn up, roll …
+j	折節	orifushi	season
+j	降り口	origuchi	an exit requiring a disem…
+j	鴨緑江	oryokuko	Yalu River (a river on th…
+k	오라버니	orabeoni	'오빠'의 높임말. 이에 반해 '오라범'은 약…
+k	오락물	orangmul	
+k	오락장	orakjang	
+k	오랑캐	orangkae	barbarian; uncivilised pe…
+k	오래가다	oraegada	to last long
+k	오래전	oraejeon	long ago, long before
+k	오랜만	oraenman	long time; the first occu…
+k	오랫만	oraetman	'오랜만'의 비표준어.
+k	오레키에테	orekiete	
+k	오련히	oryeonhi	
+k	오로치어	orochieo	
+k	오롯하다	orothada	to be complete, to be suf…
+k	오륜탑	oryuntap	
+k	오르를	oreureul	
+k	오른발	oreunbal	
+k	오른손	oreunson	right hand
+k	오른팔	oreunpal	
+k	오리엔트	orienteu	
+k	오리지날	orijinal	'오리지널'의 비표준어.
+e	orange tip	orangetip	1 meaning
+e	orangeade	orangeade	2 meanings
+e	orangutan	orangutan	1 meaning
+e	orcharder	orcharder	1 meaning
+e	orchestra	orchestra	1 meaning
+e	order arms	orderarms	1 meaning
+e	ordinance	ordinance	2 meanings
+e	organelle	organelle	1 meaning
+e	organizer	organizer	2 meanings
+e	originate	originate	2 meanings
+e	ornithine	ornithine	1 meaning
+e	orphanage	orphanage	1 meaning
+e	orthodoxy	orthodoxy	2 meanings
+j	おりあしく	oriashiku	時機が悪いことに。あいにく。
+j	おりかえし	orikaeshi	「おりかえす」の連用形。
+j	おりたたみ	oritatami	「おりたたむ」の連用形。
+j	おりたたむ	oritatamu	折って重ねて、小さくなるようにする。
+j	おりまげる	orimageru	折って曲げる。
+j	おれまがる	oremagaru	物事が折れて曲がる。
+j	おろかしい	orokashii	愚かなさま。馬鹿馬鹿しい。
+j	おろかもの	orokamono	fool, idiot
+j	おろしうり	oroshiuri	卸売, 卸売り: wholesale busine…
+j	オランダ人	orandajin	Netherlander, Dutch person
+j	オリエンタル	orientaru	東洋のものであること。東洋風であること。またその様…
+j	オリガルヒ	origaruhi	oligarch
+j	オリジナル	orijinaru	original
+j	オリスターノ	orisutano	
+j	オリュンポス	oryunposu	
+j	オリンピアの	orinpiano	
+j	オリンピアード	orinpiado	古代ギリシアで4年を周期とした暦。最初の年にオリン…
+j	オリンピック	orinpikku	the Olympics
+j	オリーブオイル	oribuoiru	olive oil
+j	オルガニート	oruganito	パンチカード式の手回しオルゴール。
+j	オルシュティン	orushutin	
+j	オルソ画像	orusogazo	orthophoto; orthophotogra…
+j	オルトロス	orutorosu	
+j	オルニチン	orunichin	
+j	オレンジエード	orenjiedo	
+j	オレンジ色	orenjiiro	orange (color)
+j	オロチョン語	orochongo	Oroqen language
+j	オーリンズ郡	orinzugun	
+j	オールドミス	orudomisu	spinster, old maid (unmar…
+j	オールボルグ	oruborugu	
+j	オールラウンダー	oruraunda	さまざまな分野で有能な人。
+j	オールラウンド	oruraundo	一つの分野ではなくさまざまな分野、方面で見識を有す…
+j	俺の嫁	orenoyome	mai waifu
+j	卸売	oroshiuri	wholesale
+j	卸売り	oroshiuri	
+j	御礼参り	oreimairi	神仏への祈願が成就した時、その御礼としてその社寺に…
+j	愚かしい	orokashii	foolish
+j	愚か者	orokamono	
+j	折り畳	oritatami	
+j	折り畳む	oritatamu	to fold up; to fold into …
+j	折れ曲がる	oremagaru	wind, loop back and forth
+j	折悪しく	oriashiku	at an untimely moment, in…
+j	折烏帽子	orieboshi	動きやすくするように上部を折り畳んだ烏帽子。多く武…
+k	오라버님	orabeonim	honorific of 오라버니 (orabeo…
+k	오락가락	orakgarak	
+k	오락성	orakseong	
+k	오랑우탄	orangutan	orangutan
+k	오래도록	oraedorok	
+k	오래되다	oraedoeda	to be old; to be worn out
+k	오로지하다	orojihada	오직 한 방향으로 하다.
+k	오르모크	oreumokeu	
+k	오르비에토	oreubieto	
+k	오르차타	oreuchata	
+k	오르토스	oreutoseu	
+k	오르후스	oreuhuseu	
+k	오른쪽	oreunjjok	right-hand; the right side
+k	오리 새끼	orisaekki	
+k	오리건 주	origeonju	
+k	오리무중	orimujung	being up in the air; a ve…
+k	오리온자리	orionjari	
+k	오리지널	orijineol	원본, 원작, 원형.
+e	oracle bone	oraclebone	1 meaning
+e	oranjestad	oranjestad	1 meaning
+e	ordovician	ordovician	1 meaning
+e	organ donor	organdonor	1 meaning
+e	originally	originally	1 meaning
+e	ornamental	ornamental	1 meaning
+e	orogenesis	orogenesis	1 meaning
+e	orphan drug	orphandrug	1 meaning
+e	orphan work	orphanwork	1 meaning
+e	orthoclase	orthoclase	1 meaning
+e	orthograph	orthograph	1 meaning
+j	おろしがね	oroshigane	小さな突起を多数付け、大根などを細かくすりおろすた…
+j	オランダゼリ	orandazeri	パセリの和名。
+j	オリエンテッド	orienteddo	～志向、～優先
+j	オリュンピアス	oryunpiasu	Olympias (mother of Alexa…
+j	オリンピズム	orinpizumu	オリンピックとしてのあるべき精神。スポーツによる心…
+j	オリーブの枝	oribunoeda	オリーブの木から出ている枝。
+j	オルガナイザー	oruganaiza	組織者。労働組合などの中で組織の拡大や組合との連絡…
+j	オルソ補正	orusohosei	orthorectification
+j	オルト・ライト	orutoraito	alt-right
+j	オレオレ詐欺	oreoresagi	phone scam involving call…
+j	オレッキエッテ	orekkiette	orecchiette
+j	オレンジジュース	orenjijusu	orange juice
+j	オレンブルク	orenburuku	
+j	オールスパイス	orusupaisu	allspice
+j	オールドメディア	orudomedia	放送局、新聞社、出版社。
+j	俺俺詐欺	oreoresagi	特殊詐欺の一種。電話で親族（息子、孫など）を装い、…
+j	卸し金	oroshigane	grater
+j	織物師	orimonoshi	織物を作る職人。
+k	오래간만	oraeganman	the first occurrence afte…
+k	오래동안	oraedongan	'오랫동안'의 비표준어.
+k	오렌지꽃	orenjikkot	
+k	오렌지나무	orenjinamu	
+k	오렌지색	orenjisaek	orange (color)
+k	오렌지즙	orenjijeup	orange juice (liquid from…
+k	오련하다	oryeonhada	형태가 조금 나타나 보일 정도로 희미하다.
+k	오류 메시지	oryumesiji	
+k	오르가슴	oreugaseum	orgasm
+k	오르페우스	oreupeuseu	
+k	오른쪽에	oreunjjoge	
+k	오른편	oreunpyeon	'오른쪽'.
+k	오를레앙	oreulleang	
+k	오리너구리	orineoguri	platypus (Ornithorhynchus…
+e	or something	orsomething	1 meaning
+e	oral history	oralhistory	1 meaning
+e	oral hygiene	oralhygiene	1 meaning
+e	orange juice	orangejuice	1 meaning
+e	ordered pair	orderedpair	1 meaning
+e	orecchiette	orecchiette	1 meaning
+e	organ system	organsystem	1 meaning
+e	orientalism	orientalism	1 meaning
+e	orientation	orientation	2 meanings
+e	original sin	originalsin	1 meaning
+e	ornithology	ornithology	1 meaning
+e	orthocenter	orthocenter	1 meaning
+e	orthography	orthography	3 meanings
+e	orthopedics	orthopedics	1 meaning
+j	おりかさねる	orikasaneru	薄いものを何層にも折って重ねる。
+j	オランダいろは	orandairoha	江戸時代にオランダ語のアルファベットを呼んだ語。
+j	オランダ料理	orandaryori	オランダの伝統的な料理。
+j	オランダ王国	orandaokoku	Kingdom of the Netherland…
+j	オランダ語圏	orandagoken	オランダやベルギーをはじめ、オランダ語が日常で使用…
+j	オリエンテーション	orienteshon	orientation (events to or…
+j	オリジナリティ	orijinariti	独自性。
+j	オリジナルキー	orijinaruki	錠前でメーカーが作った純正の鍵。
+j	オリノコ川	orinokogawa	
+j	オリンピックの	orinpikkuno	
+j	オリンポス山	orimposusan	
+j	オルガスムス	orugasumusu	orgasm
+j	オルガニスト	oruganisuto	オルガンの演奏家。
+j	オルタナティヴ	orutanativu	二者択一。
+j	オルドビス紀	orudobisuki	the Ordovician
+j	オルドヴィス紀	orudovisuki	
+j	オレンジ色の	orenjiirono	
+j	オロチョン族	orochonzoku	
+j	オーランド諸島	orandoshoto	Åland (an autonomous regi…
+j	オールトの雲	orutonokumo	太陽系の外周部に位置し、彗星の故郷となると考えられ…
+j	折に触れて	orinifurete	whenever possible, at eve…
+j	阿蘭陀菖蒲	orandashobu	
+j	黄緑色	oryokushoku	yellow-green
+k	오라범댁	orabeomdaek	결혼한 오빠의 아내.
+k	오랜만이다	oraenmanida	
+k	오랜만이야	oraenmaniya	
+k	오랫동안	oraetdongan	A long time.
+k	오럴 섹스	oreolsekseu	
+k	오렌지 주스	orenjijuseu	orange juice (beverage ma…
+k	오렌지에이드	orenjieideu	orangeade
+k	오롱조롱	orongjorong	
+k	오르내리다	oreunaerida	to go up and down, to asc…
+k	오르두바드	oreudubadeu	
+k	오르르하다	oreureuhada	
+k	오른심실	oreunsimsil	심장의 오른쪽 아래에 있는 방.
+k	오름차순	oreumchasun	다항식에서 한 문자에 대하여 차수가 낮은 항부…
+e	ordinary time	ordinarytime	1 meaning
+e	organization	organization	3 meanings
+e	ornithophile	ornithophile	1 meaning
+e	orthodontics	orthodontics	1 meaning
+e	orthogenesis	orthogenesis	1 meaning
+e	orthographic	orthographic	1 meaning
+j	おりがみつき	origamitsuki	鑑定の結果保証する紙（折紙）がついていること。また…
+j	おりひめ星	orihimeboshi	
+j	おろしぐすり	oroshigusuri	妊婦を堕胎させるための薬。堕胎薬。
+j	お礼用のカード	oreiyonokado	
+j	オランダイチゴ	orandaichigo	バラ科の多年草。学名はFragaria × ana…
+j	オリイヤマガラ	oriiyamagara	
+j	オリエンテーリング	orienteringu	自然の山の中に設けた目標地点を経由し、コースをいか…
+j	オリンピック病	orinpikkubyo	4年に一度夏季オリンピックのある年に流行する場合が…
+j	オルガンアカンプ	oruganakanpu	ドローバーオルガンで伴奏用の鍵盤の音色、音量をコン…
+j	オルタナ右翼	orutanauyoku	alternative right; alt-ri…
+j	オレンジの花	orenjinohana	
+j	オレンジチキン	orenjichikin	
+j	オーラルセックス	orarusekkusu	
+j	オールダードリアス	orudadoriasu	最終氷期末期に発生した、最後から2回目の亜氷期。
+j	オールブラックス	oruburakkusu	The All Blacks.
+j	卸売業	oroshiurigyo	仕入れた商品を小売業へ販売する事業。
+j	折り畳み椅子	oritatamiisu	折り畳んで板状に出来る機構をそなえ、収納や運搬を容…
+j	折り紙付き	origamitsuki	being authentic, guarante…
+j	折れ線グラフ	oresengurafu	
+j	織女星	orihimeboshi	synonym of ベガ (Bega, “Veg…
+j	織姫星	orihimeboshi	
+k	오랜만이에요	oraenmanieyo	
+k	오렌부르그	orenbureugeu	러시아의 주와 도시 이름 '오렌부르크'의 북한…
+k	오렌부르크	orenbureukeu	러시아동쪽에 위치한 도시와 주이름.
+k	오렌지 치킨	orenjichikin	
+k	오르트로스	oreuteuroseu	
+k	오른발잡이	oreunbaljabi	
+k	오른손잡이	oreunsonjabi	right-handed person; righ…
+k	오른심방	oreunsimbang	심장의 오른쪽 위에 있는 방.
+e	orange blossom	orangeblossom	1 meaning
+e	orange chicken	orangechicken	1 meaning
+e	ordinal number	ordinalnumber	2 meanings
+e	organ donation	organdonation	1 meaning
+e	organic matter	organicmatter	1 meaning
+e	organogenesis	organogenesis	1 meaning
+e	organonitrate	organonitrate	1 meaning
+e	orientability	orientability	1 meaning
+e	oriental dance	orientaldance	1 meaning
+e	oriental plane	orientalplane	1 meaning
+e	orkney islands	orkneyislands	1 meaning
+e	orleans county	orleanscounty	1 meaning
+e	ornithologist	ornithologist	1 meaning
+e	ornithophobia	ornithophobia	1 meaning
+j	おりたたみがさ	oritatamigasa	collapsible umbrella
+j	オラニエスタッド	oraniesutaddo	
+j	オランダガラシ	orandagarashi	
+j	オランダシェパード	orandashepado	
+j	オランダミツバ	orandamitsuba	「セロリ」の別名。
+j	オランダ語辞典	orandagojiten	オランダ語の単語や熟語、用法等を解説した辞書。
+j	オリエンタリズム	orientarizumu	
+j	オリエンタルブルー	orientaruburu	濃い紫みのある青。
+j	オリンピックバレー	orinpikkubare	
+j	オリンピック村	orinpikkumura	オリンピック期間中に選手や監督などの関係者が滞在す…
+j	オリンポス山の	orimposusanno	
+j	オルニトミムス	orunitomimusu	Ornithomimus
+j	オーラル・ヒストリー	oraruhisutori	oral history
+j	オールテレーンクレーン	oruterenkuren	トラッククレーンの一種。多輪駆動・多輪操舵機構を装…
+j	和蘭三葉	orandamitsuba	「セロリ」の別名。
+j	織り込み済みの	orikomizumino	
+j	黄緑色の	oryokushokuno	
+k	오락가락하다	orakgarakhada	
+k	오르도비스기	oreudobiseugi	고생대에서 두 번째 기간.
+k	오르되브르	oreudoebeureu	hors d'oeuvre (appetizer)
+k	오르트 구름	oreuteugureum	
+k	오리엔테이션	orienteisyeon	orientation (events to or…
+e	ordnance survey	ordnancesurvey	1 meaning
+e	ordoliberalism	ordoliberalism	1 meaning
+e	organic chemist	organicchemist	1 meaning
+e	organized crime	organizedcrime	1 meaning
+e	orthodox church	orthodoxchurch	1 meaning
+j	オランダ正月	orandashogatsu	江戸時代に蘭学者がグレゴリオ暦で祝った正月。
+j	オランダ領ギアナ	orandaryogiana	
+j	オリエンタルダンス	orientarudansu	
+j	オリンピック熱	orinpikkunetsu	4年に一度夏季オリンピックのある年に流行する場合が…
+j	オリンピック聖火	orinpikkuseika	古代ギリシアのオリュンピア大祭（古代オリンピック）…
+j	オリンピック肺炎	orinpikkuhaien	4年に一度夏季オリンピックのある年に流行する場合が…
+j	オルド自由主義	orudojiyushugi	
+j	愚か者の金	orokamononokin	
+j	折り畳みナイフ	oritataminaifu	
+j	折り込みパイ生地	orikomipaikiji	
+k	오르가니스트	oreuganiseuteu	
+k	오리엔탈리즘	orientallijeum	
+e	oral candidiasis	oralcandidiasis	1 meaning
+e	organic compound	organiccompound	1 meaning
+e	oriental mindoro	orientalmindoro	1 meaning
+e	oriental studies	orientalstudies	1 meaning
+j	オランダ領アンティル	orandaryoantiru	カリブ海にあったオランダの自治領。2010年解体。
+j	オランダ領カリブ	orandaryokaribu	西インド諸島のシント・マールテンとサン・バルテルミ…
+k	오롱조롱하다	orongjoronghada	
+k	오르니토미무스	oreunitomimuseu	
+k	오리엔탈댄스	orientaldaenseu	
+e	oracle bone script	oraclebonescript	1 meaning
+e	order of magnitude	orderofmagnitude	1 meaning
+e	organic chemistry	organicchemistry	1 meaning
+e	orthogonal matrix	orthogonalmatrix	1 meaning
+j	オールデストドリアス	orudesutodoriasu	最終氷期末期に発生した、最後から3回目の亜氷期。
+k	오래간만입니다	oraeganmanimnida	Long time, no see! (liter…
+k	오르락내리락	oreurangnaerirak	
+e	organization chart	organizationchart	1 meaning
+e	original character	originalcharacter	1 meaning
+j	オランダ領ニューギニア	orandaryonyuginia	Netherlands New Guinea
+j	俺はお前が好きだ	orewaomaegasukida	
+e	oriental pratincole	orientalpratincole	1 meaning
+e	oriental turtle dove	orientalturtledove	1 meaning
+j	オリジナルキャラクター	orijinarukyarakuta	original character (a fan…
+k	오른발잡이 선수	oreunbaljabiseonsu	
+k	오리지널 캐릭터	orijineolkaerikteo	
+j	お楽にして下さい	orakunishitekudasai	
+j	オレフィン系炭化水素	orefinkeitankasuiso	alkene
+j	折り畳み式ベッド	oritatamishikibeddo	
+j	折り畳み式寝台	oritatamishikinedai	
+j	オリンピック競技大会	orinpikkukyogitaikai	Olympic Games, an interna…
+k	오르락내리락하다	oreurangnaerirakhada	
+j	オランダ領東インド	orandaryouhigashiindo	17世紀から第二次世界大戦終結までのオランダ植民地…
+k	오렌지윗수염박쥐	orenjiwitsuyeombakjwi	The Hodgson's bat, Myotis…
+j	俺はお前のことが好きだ	orewaomaenokotogasukida	
+k	오른쪽으로 돌아주세요	oreunjjogeurodorajuseyo	
+e	oriental republic of uruguay	orientalrepublicofuruguay	1 meaning
+j	オールド・イングリッシュ・シープドッグ	orudoingurisshushipudoggu	
+e	ordinary differential equation	ordinarydifferentialequation	1 meaning
+k	오르지 못할 나무는 쳐다보지도 마라	oreujimothalnamuneuncheodabojidomara	불가능한 것은 미련없이 포기하고 아예 시도하지…

@@ -1,0 +1,195 @@
+e	op	op	1 meaning
+k	옵	op	
+e	ops	ops	1 meaning
+j	オペ	ope	surgical operation
+k	오피	opi	synonym of 오피스텔 (opiseute…
+e	opal	opal	1 meaning
+e	open	open	4 meanings
+e	oppa	oppa	1 meaning
+j	オッパ	oppa	oppa (elder brother, or a…
+j	オペア	opea	
+j	オープン	opun	open (public)
+j	オーペア	opea	
+j	尾っぽ	oppo	
+k	오빠	oppa	elder brother of a female
+k	오판	opan	misjudgement; miscarriage…
+k	오팔	opal	광물의 일종. 색이 아름다운 것은 보석으로 취…
+k	오펙	opek	
+e	op art	opart	1 meaning
+e	op-amp	opamp	1 meaning
+e	opera	opera	2 meanings
+e	opine	opine	1 meaning
+e	opium	opium	1 meaning
+j	おっぱい	oppai	milk, breast milk (liquid)
+j	オパール	oparu	opal, a mineral consistin…
+j	オプス	opusu	Ops
+j	オペラ	opera	opera, a theatrical work
+j	オープナー	opuna	開いていない缶詰めや封筒を開ける道具。
+j	雄っぱい	oppai	a man's well-developed ch…
+k	오빤	oppan	topic-marked form of 오빠 (…
+k	오페라	opera	opera
+k	오페어	opeeo	
+e	opaque	opaque	1 meaning
+e	opener	opener	3 meanings
+e	opiate	opiate	1 meaning
+e	oppose	oppose	2 meanings
+e	opt out	optout	1 meaning
+e	optics	optics	1 meaning
+e	option	option	2 meanings
+e	optode	optode	1 meaning
+j	おおっぴら	oppira	overt
+j	おっぴら	oppira	open, uninhibited, free
+j	おっぺす	oppesu	押し圧す事。
+j	オピウム	opiumu	opium
+j	オピエート	opieto	
+j	オプ・アート	opuato	
+j	オーパーツ	opatsu	out-of-place artifact; oo…
+j	オープンカー	opunka	a convertible
+j	オープンジョー	opunjo	航空券の価格体系の一つで、往復航空券で、往路の目的…
+k	오페론	operon	작동 유전자, 조절 유전자, 구조 유전자 따위…
+k	오피스	opiseu	office
+e	open day	openday	1 meaning
+e	open mic	openmic	1 meaning
+e	open sea	opensea	1 meaning
+e	open set	openset	1 meaning
+e	opening	opening	1 meaning
+e	operand	operand	1 meaning
+e	operate	operate	1 meaning
+e	ophelia	ophelia	1 meaning
+e	opinion	opinion	1 meaning
+e	opossum	opossum	1 meaning
+e	opposed	opposed	1 meaning
+e	oppress	oppress	1 meaning
+e	optimal	optimal	1 meaning
+j	おっぱらう	opparau	more emphatic form of おいは…
+j	オピニオン	opinion	
+j	オプション	opushon	option, a choice freely a…
+j	オペアンプ	opeanpu	operational amplifier
+j	オペレーター	opereta	operator, one who operate…
+k	오페레타	opereta	operetta
+k	오프너	opeuneo	
+k	오픈카	opeunka	
+k	옵션	opsyeon	option, a choice freely a…
+e	open-book	openbook	1 meaning
+e	opencast	opencast	1 meaning
+e	operator	operator	3 meanings
+e	operetta	operetta	1 meaning
+e	opium war	opiumwar	1 meaning
+e	opponent	opponent	1 meaning
+e	opposite	opposite	4 meanings
+e	optative	optative	1 meaning
+e	optician	optician	1 meaning
+e	optimism	optimism	3 meanings
+e	optimist	optimist	2 meanings
+j	オペレッタ	operetta	operetta
+j	オポッサム	opossamu	an opossum
+j	オープニング	opuningu	opening, especially of a …
+j	オープンソース	opunsosu	open source
+k	오판하다	opanhada	
+k	오프라인	opeurain	
+k	오픈북	opeunbuk	open-book
+e	open world	openworld	1 meaning
+e	operation	operation	4 meanings
+e	ophiuchus	ophiuchus	1 meaning
+e	opportune	opportune	1 meaning
+e	oppressor	oppressor	1 meaning
+e	optometry	optometry	1 meaning
+j	オプトアウト	oputoauto	脱退。提供の停止。
+j	オペレーション	opereshon	operation (method or prac…
+j	オペ室	opeshitsu	OR; operating room
+j	オープンサンド	opunsando	
+j	オープンマイク	opunmaiku	
+k	오페라 부파	operabupa	
+k	오피스텔	opiseutel	officetel: a multi-purpos…
+k	오피앰프	opiaempeu	
+e	open letter	openletter	1 meaning
+e	open secret	opensecret	1 meaning
+e	open sesame	opensesame	1 meaning
+e	open source	opensource	2 meanings
+e	open-handed	openhanded	1 meaning
+e	opera buffa	operabuffa	1 meaning
+e	opera house	operahouse	1 meaning
+e	ophiophobe	ophiophobe	1 meaning
+e	opposition	opposition	3 meanings
+e	oppression	oppression	1 meaning
+e	oprichnina	oprichnina	1 meaning
+e	optic nerve	opticnerve	1 meaning
+e	optimistic	optimistic	1 meaning
+j	オッペンハイマー	oppenhaima	
+j	オペラハウス	operahausu	opera house
+j	オペラブッファ	operabuffa	
+j	オポチュニティ	opochuniti	機会、契機、好機。
+j	オープンフレーム	opunfuremu	ストライクにもスペアにもならなかったフレーム。
+j	オープンワールド	opunwarudo	
+k	오퍼레이터	opeoreiteo	
+k	오펜하이머	openhaimeo	
+k	오프사이드	opeusaideu	
+e	open cluster	opencluster	1 meaning
+e	open-pit mine	openpitmine	1 meaning
+e	ophiophobia	ophiophobia	1 meaning
+e	ophiotaurus	ophiotaurus	1 meaning
+e	opinion poll	opinionpoll	1 meaning
+e	oppenheimer	oppenheimer	1 meaning
+e	opportunism	opportunism	1 meaning
+e	opportunist	opportunist	1 meaning
+e	opportunity	opportunity	1 meaning
+e	opposite sex	oppositesex	1 meaning
+e	optic chiasm	opticchiasm	1 meaning
+e	optometrist	optometrist	1 meaning
+j	おっぱい星人	oppaiseijin	person with a breast feti…
+j	オピオタウロス	opiotaurosu	
+j	オペラグラス	operagurasu	opera glasses
+j	オープンアクセス	opunakusesu	open access
+j	オープンキッチン	opunkitchin	
+j	オープンプライス	opunpuraisu	A retail strategy in whic…
+k	오페라 하우스	operahauseu	
+k	오프숄더	opeusyoldeo	off-shoulder, off-the-sho…
+k	오픈 월드	opeunwoldeu	
+k	오픈 키친	opeunkichin	
+k	오피스 레이디	opiseureidi	
+e	open interval	openinterval	1 meaning
+e	open sandwich	opensandwich	1 meaning
+e	opening hours	openinghours	1 meaning
+e	optical fibre	opticalfibre	1 meaning
+e	optimization	optimization	1 meaning
+j	おっぱいとおケツ	oppaitoketsu	
+j	おっぱいをあげる	oppaiwoageru	
+j	オプチミスト	opuchimisuto	optimist
+j	オプチミズム	opuchimizumu	optimism
+j	オプリーチニナ	opurichinina	
+j	オペチョコガール	opechokogaru	10代後半の大人びて生意気な女子。
+j	オポチュニズム	opochunizumu	定まった意見を持たずその場やその時の状況に応じて自…
+j	オープンキャンパス	opunkyanpasu	(和製英語) キャンパスを開放し、自由に見学できる…
+j	オープンコンテント	opunkontento	誰でも無料でウェブで閲覧でき、その利用に許諾が不要…
+j	オープンライセンス	opunraisensu	自由に利用することを認めたソフトウェアなどのライセ…
+e	open-air museum	openairmuseum	1 meaning
+e	operating room	operatingroom	1 meaning
+e	ophthalmalgia	ophthalmalgia	1 meaning
+e	ophthalmology	ophthalmology	1 meaning
+e	opportunistic	opportunistic	1 meaning
+e	oppositionist	oppositionist	1 meaning
+e	optical double	opticaldouble	1 meaning
+j	オプトアウトする	oputoautosuru	
+j	オープニング曲	opuningukyoku	映画・演劇・放送番組の開始時に流れる歌。
+j	オープンスタンダード	opunsutandado	無償の標準規格
+k	오페라 극장	operageukjang	
+k	오프리치니나	opeurichinina	
+e	opening credits	openingcredits	1 meaning
+e	operating table	operatingtable	1 meaning
+j	オープン・サンドイッチ	opunsandoitchi	
+e	open-plan kitchen	openplankitchen	1 meaning
+e	opening ceremony	openingceremony	1 meaning
+e	operating system	operatingsystem	1 meaning
+e	ophthalmologist	ophthalmologist	1 meaning
+e	optical illusion	opticalillusion	1 meaning
+e	open relationship	openrelationship	1 meaning
+j	オープンウォータースイミング	opunwotasuimingu	海や湖沼など自然の水域で行う水泳競技。
+k	오프닝 크레딧	opeuningkeuredit	
+k	오피스 컴퓨터	opiseukeompyuteo	
+j	オープニングクレジット	opuningukurejitto	
+j	オープンソースソフトウェア	opunsosusofutowhea	
+j	オープン・リレーションシップ	opunrireshonshippu	
+j	オペレーティングシステム	operetingushisutemu	an operating system
+j	オープンマーケットオペレーション	opunmakettopereshon	公開市場操作
+k	오퍼레이팅 시스템	opeoreitingsiseutem	
+k	오픈스트리트맵	opeunseuteuriteumaep	자유롭게 편집하고 사용할 수 있는 지리 공간 …

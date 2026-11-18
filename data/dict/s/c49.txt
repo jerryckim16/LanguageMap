@@ -1,0 +1,2656 @@
+j	乱	乱	chaos, disorder
+j	共	共	both, all
+j	危	危	（キ）危ないこと。
+j	叱	叱	shh
+j	報	報	news, information
+j	壱	壱	one, 1 (used in legal doc…
+j	失	失	
+j	山	山	a mountain (large mass of…
+j	己	己	the sixth of the ten heav…
+j	弱	弱	weakness
+j	影	影	light
+j	旱	旱	a sunny day
+j	朱	朱	crimson
+j	東	東	the east (compass point)
+j	柱	柱	pillar
+j	澱	澱	sediment, dregs
+j	熱	熱	fever
+j	由	由	reason, cause
+j	箱	箱	a box: a container with a…
+j	統	統	（とう）代々受け継がれて一続きになっているもの。
+j	綱	綱	rope
+j	脱	脱	de- (undoing of something)
+j	腱	腱	a tendon
+j	花	花	a flower
+j	英	英	outstanding; outstanding …
+j	菱	菱	water caltrop, Trapa nata…
+j	萱	萱	
+j	葱	葱	scallion, spring onion, A…
+j	虱	虱	a sucking louse, especial…
+j	蜱	蜱	
+j	蠱	蠱	the eighteenth of the six…
+j	話	話	talking, speaking, speech…
+j	辱	辱	disgrace, shame, embarras…
+j	週	週	a week (unit of time)
+j	鉱	鉱	a male given name
+j	鬱	鬱	depressing
+j	鯱	鯱	orca, killer whale, Orcin…
+j	鰱	鰱	a bitterling (a small fis…
+j	龱	龱	
+k	강	綱	river
+k	건	腱	past determinative of 걸다 …
+k	구	俱	nine
+k	기	己	energy, spirit (of a pers…
+k	뇌	惱	brain
+k	동	東	dong (submunicipal admini…
+k	산	山	mountain
+k	실	失	thread, yarn, string
+k	열	熱	ten
+k	영	英	zero
+k	욕	辱	abuse, insulting remark
+k	주	週	week (unit of time)
+k	창	唱	window
+k	칭	稱	tune of the fifth sting t…
+k	큐열	熱	
+k	탈	脱	mask, especially those wo…
+k	통	統	barrel, bucket, cask, pai…
+j	乱す	乱す	to disturb
+j	乱丁	乱丁	out-of-order collation
+j	乱世	乱世	warlike time, turbulent d…
+j	乱交	乱交	orgy, promiscuity
+j	乱伐	乱伐	reckless deforestation
+j	乱僧	乱僧	「濫僧」の別表記。
+j	乱党	乱党	政権に抵抗し、反乱をおこす党派や仲間。
+j	乱入	乱入	intrusion, raid
+j	乱声	乱声	舞楽で用いられる笛の調べ。
+j	乱妨	乱妨	暴力で荒らし、掠奪すること。
+j	乱射	乱射	indiscriminate shooting
+j	乱将	乱将	道理に反したことをする武将。
+j	乱序	乱序	lively prelude for severa…
+j	乱心	乱心	心が通常の状態でなくなり、分別がつかなくなること。
+j	乱戦	乱戦	敵も味方も入り乱れて戦うこと。乱軍。
+j	乱打	乱打	hitting; battering
+j	乱抖	乱抖	跳ねまわること。
+j	乱撃	乱撃	入り乱れて撃ち合うこと。銃砲をむやみやたらに射撃し…
+j	乱数	乱数	random number (any of a s…
+j	乱暴	乱暴	rude, violent, rough, dis…
+j	乱橋	乱橋	a surname
+j	乱歩	乱歩	a male given name
+j	乱気	乱気	気が狂うこと。発狂。
+j	乱波	乱波	A spy. Especially, during…
+j	乱流	乱流	川筋などが乱れるように流れること。
+j	乱淫	乱淫	節度を持たず情欲に溺れること。また、そのようなさま。
+j	乱獲	乱獲	overfishing
+j	乱用	乱用	misuse, abuse
+j	乱発	乱発	issuing without discretion
+j	乱立	乱立	many items standing jumbl…
+j	乱筆	乱筆	みだりに書くこと。書体が乱れること。乱れ書き。また…
+j	乱罰	乱罰	正当な理由なくみだりに罰すること。
+j	乱脈	乱脈	規律などが乱れて筋道が立たなさま。
+j	乱臣	乱臣	反逆などで国を乱す臣下。
+j	乱舞	乱舞	入り乱れて踊ること。踊り狂うこと。
+j	乱衆	乱衆	暴力またはパニック状態のような行動をとる群衆。
+j	乱視	乱視	astigmatism
+j	乱読	乱読	いろいろな書物を読みあさること。
+j	乱調	乱調	調子が乱れていること。また、そのようなさま。
+j	乱軍	乱軍	「乱戦」に同じ。敵味方入り乱れての戦い。
+j	乱造	乱造	「濫造」の別表記。
+j	乱道	乱道	妄言。
+j	乱鐘	乱鐘	続け様に打つ鐘の音。
+j	乱闘	乱闘	fray, free-for-all, confu…
+j	乱階	乱階	反乱の兆候。
+j	乱雑	乱雑	disorderly, confused, pel…
+j	乱離	乱離	世の中が動乱状態に陥って、人々が離れ離れになってし…
+j	乱頭	乱頭	乱れ髪。
+j	乱飲	乱飲	（酒などを）過度に飲むこと。
+j	乱髪	乱髪	乱れた頭髪。
+j	乱魁	乱魁	一揆や反乱の首領。
+j	乱鶯	乱鶯	あちこちでうぐいすが鳴き乱れること。また、その鳴き…
+j	乱麻	乱麻	a tangled cord or string
+j	俱生	俱生	ともに生起すること。
+j	僱用	僱用	
+j	共々	共々	working or acting together
+j	共に	共に	together, with
+j	共作	共作	
+j	共修	共修	（男女などが）一緒に学習すること。
+j	共倹	共倹	つつしみ、倹約すること。
+j	共催	共催	hosted together
+j	共働	共働	synergism
+j	共円	共円	三つ以上の点が同一円周上にある状態。また、その円。
+j	共助	共助	helping each other; coope…
+j	共匪	共匪	
+j	共同	共同	cooperation; collaboratio…
+j	共和	共和	collaboration; cooperatio…
+j	共在	共在	coexistence
+j	共存	共存	coexistence
+j	共学	共学	co-ed
+j	共役	共役	「共軛」の「同音の漢字による書きかえ」。
+j	共感	共感	sympathy
+j	共懿	共懿	恭しく美しいさま。
+j	共振	共振	共鳴すること。特に電気振動における共鳴のことを指す。
+j	共撰	共撰	共著。
+j	共斟	共斟	共に飲むこと。
+j	共晶	共晶	eutectic composition
+j	共有	共有	sharing
+j	共栄	共栄	thriving together, co-pro…
+j	共棲	共棲	「共生」の別表記。
+j	共済	共済	mutual aid, cooperative, …
+j	共演	共演	performing together
+j	共点	共点	concurrency
+j	共犯	共犯	complicity in a crime
+j	共生	共生	symbiosis
+j	共産	共産	communism
+j	共用	共用	shared use, common use
+j	共益	共益	mutual benefit
+j	共相	共相	多くのことに共通する性質や普遍的概念。
+j	共管	共管	共同で管理または管轄すること。
+j	共線	共線	collinearity
+j	共聴	共聴	community (broadcasting)
+j	共著	共著	work by multiple authors,…
+j	共謀	共謀	conspiracy; collusion
+j	共議	共議	一緒になって相談すること。協議。
+j	共起	共起	co-occurrence
+j	共軛	共軛	ある関係にある二つの点・線・角・数などで、入れ替え…
+j	共通	共通	common, shared
+j	共選	共選	農作物の出荷で、組合などの共同の施設で仕分けするこ…
+j	共闘	共闘	joint struggle
+j	共面	共面	coplanarity
+j	共食	共食	神仏に捧げた供物を祭祀後に共に食べること。
+j	共鳴	共鳴	resonance of strings etc.
+j	冱寒	冱寒	凍てつくほどの厳しい寒さ。
+j	冱沢	冱沢	凍った沢。
+j	凱孝	凱孝	a male given name
+j	凱旋	凱旋	a triumphant return
+j	凱楽	凱楽	戦勝を祝う音楽。
+j	凱歌	凱歌	song of triumph; paean
+j	凱陣	凱陣	戦いに勝利して軍を撤退し、自分の陣営に帰ること。凱…
+j	凱風	凱風	初夏に吹く穏やかな南風。
+j	剱山	剱山	生け花を固定するために使用される、金属の台にたくさ…
+j	励む	励む	to be zealous, to be preo…
+j	励声	励声	大声を出すこと。
+j	励磁	励磁	磁気を帯びていない強磁性の物質や電磁石に磁気を帯び…
+j	励精	励精	精を出して励むこと。また、その様子。
+j	励行	励行	規則などを、意識的に実行すること。
+j	励起	励起	excitation
+j	匱糧	匱糧	食が乏しいこと。そのさま。
+j	危坐	危坐	きっちり座ること。端坐。正座。
+j	危害	危害	harm
+j	危局	危局	急迫した局面。危機。
+j	危岩	危岩	険しくきりたった岩。
+j	危岸	危岸	高く切り立った崖や岸。
+j	危巌	危巌	険しくきりたった岩。
+j	危巓	危巓	高い頂。
+j	危座	危座	きっちり座ること。端坐。正座。
+j	危弓	危弓	弦の張りがつよい弓。強弓。
+j	危急	危急	crisis; emergency
+j	危惧	危惧	misgivings, unease, appre…
+j	危懼	危懼	あやぶみ、おそれること。
+j	危機	危機	crisis, pinch
+j	危殆	危殆	critical; gravely dangero…
+j	危然	危然	正しくしていること。そのさま。
+j	危疑	危疑	危ぶみ、疑うこと。
+j	危窮	危窮	危急。
+j	危篤	危篤	critical illness
+j	危脆	危脆	物事が落ち着かず、危ないこと。危なくて脆いこと。
+j	危術	危術	危道。
+j	危覆	危覆	ひっくり返すこと。ひっくり返ること。転覆。傾覆。
+j	危言	危言	低俗ではなく高尚な言葉を使うこと。また、その言葉。
+j	危路	危路	危ない道。
+j	危道	危道	危ない道。
+j	危険	危険	dangerous; risky
+j	危難	危難	生命に関わるような災禍。
+j	危顚	危顚	傾き倒れること。
+j	危顛	危顛	傾き倒れること。
+j	叱る	叱る	to scold
+j	叱咜	叱咜	大声で叱ること。
+j	叱咤	叱咤	「𠮟咤」の別表記。
+j	叱正	叱正	scolding and correction
+j	叱責	叱責	reprimand
+j	呱呱	呱呱	representation of a baby'…
+j	唱名	唱名	仏や菩薩などを心に念じ、口にその名を唱えること。
+j	唱和	唱和	singing together, singing…
+j	唱善	唱善	称美すること。
+j	唱導	唱導	経文を唱えて衆生を信仰に導くこと。
+j	唱歌	唱歌	singing, songs
+j	唱法	唱法	歌い方。
+j	唱言	唱言	首唱すること。
+j	唱詠	唱詠	詩歌を吟ずること。吟詠すること。
+j	唱読	唱読	経文などを（節を付けて）唱えること。
+j	唱諢	唱諢	中国宋代の歌や笑いなどを取り入れた大衆芸能。また、…
+j	唱道	唱道	主張などを率先して唱えること。
+j	唱酬	唱酬	詩歌・文章を作って互いにやりとりすること。
+j	唱題	唱題	経典の題目を唱えること。
+j	嘱望	嘱望	having hope in someone
+j	嘱目	嘱目	期待して注目すること。
+j	嘱託	嘱託	仕事を頼んでまかせること。
+j	嚱嚱	嚱嚱	ああ。
+j	嚱然	嚱然	嘆声。
+j	報い	報い	
+j	報う	報う	reward; recompense
+j	報せ	報せ	notice, notification, new…
+j	報仇	報仇	仇を返すこと。
+j	報仏	報仏	報身仏。
+j	報償	報償	compensation or reparatio…
+j	報功	報功	功を賞すること。
+j	報効	報効	功をたて恩に報いること。
+j	報告	報告	report, information
+j	報命	報命	（ほうみょう）前世の業の報いよる現世における命。
+j	報国	報国	国の恩に報いること。
+j	報土	報土	報身仏が暮らす浄土。
+j	報奨	報奨	rewards, bonuses, compens…
+j	報復	報復	revenge; retribution; ret…
+j	報徳	報徳	returning a virtuous deed
+j	報恩	報恩	repaying a kindness; grat…
+j	報時	報時	何らかの方法により時刻を知らせること。
+j	報更	報更	報償すること。
+j	報書	報書	知らせの書状。
+j	報知	報知	information, news, intell…
+j	報答	報答	答えること。
+j	報荒	報荒	災害に対して免税すること。
+j	報葬	報葬	報虞。
+j	報虞	報虞	三月の虞（埋葬後、死者の魂をやすめる祭）を待てない…
+j	報謁	報謁	（謁して）御報告すること。
+j	報謝	報謝	受けた恩に対し、金品を贈り報いること。
+j	報讎	報讎	報讐の異表記。
+j	報讐	報讐	加害者に対し仕返しをすること。復讐。報復。復仇。
+j	報賞	報賞	功績を讃え、賞すること。また、そのために与える金品。
+j	報身	報身	三身の一つ。修行を行ってきたことにより成就し、悟り…
+j	報道	報道	news report, news, covera…
+j	報酬	報酬	remuneration, reward, rec…
+j	壱与	壱与	a semi-legendary queen of…
+j	壱岐	壱岐	Iki (a city in Nagasaki P…
+j	壱州	壱州	壱岐国^(（いきのくに）)の別称。
+j	失う	失う	to lose (possession of so…
+j	失ウ	失ウ	katakana spelling of 失う
+j	失亡	失亡	失うこと。
+j	失伝	失伝	技術や伝承などが途絶え、失われること。
+j	失儀	失儀	礼儀に反することをすること。また、そのような行為。…
+j	失冠	失冠	〔将棋や囲碁、スポーツなどで〕タイトルを失うこと。…
+j	失効	失効	loss of effectiveness; ex…
+j	失却	失却	物を失くしたり、忘れたりすること。
+j	失名	失名	名前が分からないこと。
+j	失命	失命	命を失うこと。死ぬこと。
+j	失地	失地	失った土地（領地）。
+j	失墜	失墜	信用などを失うこと。落とすこと。
+j	失官	失官	旧制度で法律の規定で国籍の喪失、組織や官職の廃止、…
+j	失当	失当	適当でない状態であるさま、当を失するさま。
+j	失徳	失徳	道徳から外れること。また、その行為。
+j	失念	失念	slipping from one's memory
+j	失恋	失恋	unrequited love, a broken…
+j	失意	失意	despondency from failure
+j	失態	失態	blunder; error; mismanage…
+j	失投	失投	投手が投球に失敗して打たれやすい球を投げてしまうこ…
+j	失政	失政	政治の方法を誤ること。また、方法が悪い政治。
+j	失敗	失敗	failure, miscarriage
+j	失敬	失敬	rudeness, disrespect
+j	失明	失明	loss of sight
+j	失暁	失暁	朝寝坊。
+j	失望	失望	disappointment
+j	失格	失格	failure to reach standard…
+j	失業	失業	unemployment
+j	失権	失権	権力や権利を失うこと。
+j	失活	失活	酵素などから活性が失われること。
+j	失火	失火	過失により火災を発生させること。また、その火災のこ…
+j	失点	失点	points lost
+j	失礼	失礼	rude, impolite, ill-manne…
+j	失神	失神	faint
+j	失禁	失禁	incontinence
+j	失笑	失笑	laughing at an inappropri…
+j	失策	失策	blunder; slip; error
+j	失聴	失聴	loss of hearing (the abil…
+j	失職	失職	losing one's job; unemplo…
+j	失脚	失脚	overthrow, downfall
+j	失血	失血	生体が出血によって大量の血液を失うこと。
+j	失行	失行	apraxia
+j	失言	失言	slip of the tongue, gaffe
+j	失計	失計	謀や処置を誤ること。失策。
+j	失認	失認	agnosia
+j	失語	失語	言い間違うこと。
+j	失誤	失誤	仕損なうこと。失敗。
+j	失調	失調	lack of balance or regula…
+j	失費	失費	ある物事にかかった、またかかる予定の費用。
+j	失跡	失跡	ある人がどこに行ったのか行方が分からなくなること。…
+j	失踪	失踪	disappearance, absconding
+j	失速	失速	stall (loss of lift due t…
+j	失錯	失錯	やりそこなう（しそこなう）こと。失敗。
+j	失陥	失陥	surrender; fall
+j	孱劣	孱劣	弱々しく劣っていること。また、そのようさま。
+j	就く	就く	assume power, accede, fil…
+j	就任	就任	inauguration
+j	就働	就働	employment
+j	就労	就労	employment; work
+j	就園	就園	幼稚園や保育園に入園すること。
+j	就塒	就塒	roosting
+j	就学	就学	enrollment (entering a sc…
+j	就官	就官	官職に就くこと。
+j	就寝	就寝	going to bed
+j	就巣	就巣	鳥が巣に就いて、抱卵し雛を抱くこと。
+j	就床	就床	就寝するために寝床に入ること。就寝すること。
+j	就役	就役	assuming one's duties, go…
+j	就業	就業	obtaining employment
+j	就活	就活	job hunting
+j	就眠	就眠	眠りに入ること。
+j	就籍	就籍	何らかの事由により無戸籍の者が届け出により戸籍につ…
+j	就縛	就縛	罪人として捕縛されること。縛に就く。
+j	就職	就職	finding employment, inaug…
+j	就航	就航	going into commission, es…
+j	就船	就船	船舶を雇うこと。
+j	就農	就農	職業として農業に就くこと。
+j	山々	山々	
+j	山上	山上	a surname
+j	山下	山下	a surname
+j	山中	山中	in the mountains or woods
+j	山井	山井	a mountain well
+j	山亭	山亭	山の中にある東屋。山荘。
+j	山人	山人	mountain people
+j	山代	山代	山城の古い表記。
+j	山伏	山伏	mountain hermit who pract…
+j	山偏	山偏	漢字の部首「⼭」が偏である場合の呼称。
+j	山側	山側	mountainside
+j	山元	山元	a surname
+j	山内	山内	being in the mountains or…
+j	山勢	山勢	山の形勢。山の姿。
+j	山原	山原	a mountainous and foreste…
+j	山口	山口	Yamaguchi (a prefecture o…
+j	山号	山号	mountain name: honorific …
+j	山名	山名	a surname
+j	山君	山君	虎。
+j	山吹	山吹	Japanese rose (Kerria jap…
+j	山地	山地	mountainous area, the mou…
+j	山城	山城	Yamashiro Province, an ol…
+j	山塊	山塊	山稜が脈状や線状の配列にならず、一つの集まりとして…
+j	山塞	山塞	mountain stronghold
+j	山塩	山塩	岩塩。やまじお。
+j	山墅	山墅	山の中にある別荘。山荘。
+j	山奥	山奥	the depths of the mountai…
+j	山妻	山妻	田舎育ちの妻。
+j	山姥	山姥	a mountain hag; a yama-uba
+j	山家	山家	（さんか）山の中にある家。
+j	山容	山容	山の姿や形。
+j	山寺	山寺	a mountain temple (temple…
+j	山尾	山尾	山裾。
+j	山岡	山岡	a surname
+j	山岳	山岳	mountains, particularly s…
+j	山岸	山岸	a surname
+j	山峡	山峡	山山に挟まれた谷間。
+j	山崎	山崎	a surname
+j	山嵐	山嵐	a mountain storm
+j	山嵜	山嵜	a surname
+j	山嶺	山嶺	mountain top, summit, peak
+j	山巒	山巒	山。
+j	山巓	山巓	山の頂上。山頂。
+j	山川	山川	mountains and rivers
+j	山州	山州	山城国^(（やましろのくに）)の別称。城州。
+j	山形	山形	Yamagata (the capital cit…
+j	山彦	山彦	mountain god
+j	山影	山影	水面や物に写る山の形。
+j	山房	山房	山中の家。山荘。
+j	山手	山手	山の方。山に接している地。
+j	山斗	山斗	泰山と北斗七星。泰斗。
+j	山方	山方	a surname
+j	山曛	山曛	山の夕暮れ。
+j	山月	山月	山上に上った月。
+j	山木	山木	a surname
+j	山本	山本	Yamamoto (a district of A…
+j	山札	山札	in certain kinds of card …
+j	山村	山村	mountain village
+j	山東	山東	Shandong (a coastal provi…
+j	山林	山林	mountains and forests
+j	山果	山果	山の中の樹木などに実った果物。
+j	山根	山根	a surname
+j	山桃	山桃	Japanese bayberry, Myrica…
+j	山桐	山桐	synonym of 油桐 (aburagiri)…
+j	山桜	山桜	a cherry tree blooming on…
+j	山梁	山梁	山間の谷川に架けられた橋。
+j	山梨	山梨	Pyrus pyrifolia, especial…
+j	山棲	山棲	人里を離れ、山の中に棲むこと。隠遁。
+j	山椒	山椒	Zanthoxylum piperitum (Ja…
+j	山殽	山殽	山の肴。
+j	山民	山民	山中で暮らしを立てる人。
+j	山気	山気	（やまき、やまけ）万一の幸運や冒険を好む気質。
+j	山水	山水	landscape; hills and rive…
+j	山沢	山沢	山と沢。
+j	山河	山河	mountains and rivers
+j	山洞	山洞	山の洞穴。
+j	山流	山流	山間の急な斜面を流れる川。
+j	山海	山海	mountains and seas
+j	山火	山火	山の草木が燃え広がって起こる火災。山火事。
+j	山牆	山牆	連なった山々。攢峯。攢巒。連峰。
+j	山犬	山犬	synonym of 日本狼 (Nihon'ōka…
+j	山猫	山猫	a wildcat (Felis silvestr…
+j	山田	山田	a place name
+j	山男	山男	mountain man; hillman
+j	山番	山番	a watchman who protects m…
+j	山相	山相	山の様子。
+j	山県	山県	Yamagata (a city in Gifu …
+j	山砲	山砲	mountain gun, a cannon fo…
+j	山神	山神	deity of a mountain
+j	山程	山程	quite a lot, in a great a…
+j	山稜	山稜	尾根。
+j	山積	山積	lying in piles, accumulat…
+j	山窩	山窩	定住せず山中や河川敷などで野宿しながら漂泊生活した…
+j	山籟	山籟	山で吹く風が樹木を鳴らす音。
+j	山精	山精	山の精霊。やまびこ。
+j	山繭	山繭	Japanese oak silkmoth, An…
+j	山羊	山羊	a goat (animal)
+j	山背	山背	山の背後。やまかげ。
+j	山脈	山脈	mountain range
+j	山脚	山脚	山のふもと。
+j	山腰	山腰	a surname
+j	山腹	山腹	mountainside, hillside
+j	山色	山色	山の色。山の景色。
+j	山芋	山芋	Dioscorea japonica, a typ…
+j	山茶	山茶	a tea plant growing in th…
+j	山草	山草	山に生えている草。
+j	山荒	山荒	a porcupine
+j	山荘	山荘	山間にある別荘。
+j	山菊	山菊	
+j	山菜	山菜	edible greens of the sort…
+j	山葬	山葬	死者を山に葬ること。
+j	山葵	山葵	the wasabi plant, the Jap…
+j	山蔌	山蔌	山菜。
+j	山蔵	山蔵	山中にある蔵。
+j	山薇	山薇	ぜんまい。
+j	山藍	山藍	Mercurialis leiocarpa, a …
+j	山藤	山藤	silky wisteria, mountain …
+j	山蘭	山蘭	synonym of 辛夷 (kobushi, “…
+j	山行	山行	旅で山中を通っていくこと。
+j	山裾	山裾	
+j	山西	山西	Shanxi (a province in the…
+j	山論	山論	山林や原野の所有や利用の権利を巡る論争。入会権争い…
+j	山谷	山谷	山と谷。
+j	山賊	山賊	bandit, a robber with a b…
+j	山越	山越	Shanyue (an ancient congl…
+j	山足	山足	山の裾。山麓。
+j	山路	山路	a mountain path.
+j	山車	山車	a float (vehicle used in …
+j	山輿	山輿	山道で使用する輿。
+j	山辺	山辺	a surname
+j	山途	山途	山道。
+j	山遊	山遊	山野に行って遊ぶこと。
+j	山道	山道	mountain road; mountain p…
+j	山邑	山邑	山村。
+j	山郊	山郊	郊外の山。
+j	山部	山部	部首「⼭」で分類した漢字の一群。
+j	山郵	山郵	山の中にある宿場。
+j	山野	山野	the mountains and fields
+j	山鉾	山鉾	a festival float
+j	山門	山門	main temple gate
+j	山間	山間	山の中。山中。
+j	山阿	山阿	山が入り込んだ場所。
+j	山陰	山陰	shade of a mountain
+j	山陵	山陵	山と丘。
+j	山陽	山陽	southern side of a mounta…
+j	山階	山階	a surname
+j	山際	山際	a surname
+j	山雀	山雀	a varied tit
+j	山雨	山雨	mountain rain
+j	山雪	山雪	山に降る雪。特に、日本の日本海沿岸地域の山間部に多…
+j	山霊	山霊	山の精霊。やまびこ。
+j	山頂	山頂	summit
+j	山頭	山頭	山頂。
+j	山颪	山颪	mountain wind
+j	山骨	山骨	山の土砂が崩落し、露出した岩石。
+j	山鳩	山鳩	turtle dove
+j	山鵲	山鵲	カラス科の鳥類。中国原産。
+j	山鶉	山鶉	Daurian partridge, Perdix…
+j	山鷸	山鷸	
+j	山鹿	山鹿	Yamaga (a city in Kumamot…
+j	山麓	山麓	foothill
+j	山麞	山麞	のろ。のろじか。
+j	山鼠	山鼠	a Japanese dormouse (Glir…
+j	岱山	岱山	大きな山。
+j	岱赭	岱赭	代赭の異表記。
+j	己丑	己丑	Earth Ox, the twenty-sixt…
+j	己亥	己亥	Earth Boar, the thirty-si…
+j	己卯	己卯	Earth Rabbit, the sixteen…
+j	己妻	己妻	one’s spouse, mate; wife,…
+j	己巳	己巳	Earth Snake, the sixth te…
+j	己心	己心	自分の心。
+j	己惚	己惚	
+j	己未	己未	Earth Sheep, the fifty-si…
+j	己等	己等	we, us
+j	己身	己身	自分のからだ。自身。
+j	己部	己部	部首「⼰」で分類した漢字の一群。
+j	己酉	己酉	Earth Rooster, the forty-…
+j	弱い	弱い	weak, powerless, vulnerab…
+j	弱さ	弱さ	weakness
+j	弱み	弱み	weakness, vulnerable poin…
+j	弱る	弱る	to weaken, to wilt, to wi…
+j	弱体	弱体	weak; feeble
+j	弱冠	弱冠	20 years of age
+j	弱化	弱化	weakening
+j	弱国	弱国	国力が弱い国家。
+j	弱小	弱小	the small and weak
+j	弱年	弱年	年齢が若いこと。また、そのような者。青年。早年。
+j	弱弟	弱弟	年の若い弟。
+j	弱拍	弱拍	offbeat, an unaccented be…
+j	弱毒	弱毒	毒性が弱いこと。また、弱いもの。
+j	弱気	弱気	timid
+j	弱火	弱火	a weak fire
+j	弱点	弱点	weak point, weakness, sho…
+j	弱者	弱者	a weakling
+j	弱肩	弱肩	野球などで、ボールを投げる力が弱く、遠くまで投げら…
+j	弱虫	弱虫	weakling, scaredy-cat
+j	弱視	弱視	weak sight
+j	弱起	弱起	楽曲が小節の拍の弱い部分から始まること。
+j	弱酸	弱酸	水溶液などで酸性が弱い酸。
+j	弱電	弱電	weak current
+j	弱震	弱震	weak earthquake (an earth…
+j	弱音	弱音	feeble complaint; whine
+j	影一	影一	a male given name
+j	影二	影二	a male given name
+j	影像	影像	a portrait (as of a perso…
+j	影前	影前	神仏や故人の肖像の前。
+j	影印	影印	photocopying and reprinti…
+j	影向	影向	for a deity to take shape…
+j	影国	影国	属国。
+j	影山	影山	a surname
+j	影従	影従	影のように、常に身近で従うこと。
+j	影灯	影灯	回り灯籠。
+j	影絵	影絵	shadow picture (using han…
+j	影質	影質	こっそり礼物を受け取ること。
+j	影霊	影霊	
+j	影響	影響	influence, effect
+j	怱劇	怱劇	慌ただしいこと。多忙で落ちつかないこと。怱忙。
+j	怱卒	怱卒	慌ただしく忙しいこと。また、そのようなさま。
+j	怱忙	怱忙	慌ただしく、忙しいこと。倉卒。
+j	怱遽	怱遽	慌ただしいこと。また、そのような様子。
+j	扱い	扱い	handling
+j	扱う	扱う	to handle, to manage, to …
+j	扱き	扱き	
+j	扱く	扱く	
+j	抱く	抱く	to embrace, hug, hold in …
+j	抱卵	抱卵	親鳥が卵を抱えて温めること。
+j	抱合	抱合	抱き合うこと。抱き合わせること。
+j	抱徳	抱徳	徳を守ること。
+j	抱懐	抱懐	心の中にある考えを抱くこと。
+j	抱持	抱持	抱いて、持つこと。抱えて持つこと。
+j	抱擁	抱擁	embrace, hug
+j	抱負	抱負	ambition, aspiration
+j	拱く	拱く	fold one's arms
+j	拱伏	拱伏	敬服すること。
+j	拱動	拱動	聳動すること。
+j	拱廊	拱廊	アーケード。
+j	拱形	拱形	アーチ形。
+j	拱手	拱手	中国で両手を胸元で組み合わせる挨拶。
+j	拱把	拱把	樹木などの一抱えまたは一握りできる太さ。
+j	拱抱	拱抱	一抱え。
+j	拱架	拱架	アーチをかける際に使用する仮の型枠。
+j	拱構	拱構	アーチの形に組み立てられた構造物。
+j	拱橋	拱橋	アーチ橋。
+j	拱繞	拱繞	巡ること。
+j	拱辰	拱辰	天下に帰すこと。
+j	拱陣	拱陣	周囲を囲繞する陣形。
+j	拱鼠	拱鼠	立ち上がり、拱手する鼠。
+j	擱坐	擱坐	「擱座」に同じ。
+j	擱岩	擱岩	船舶が浅瀬や岩礁に乗り上げること。
+j	擱岸	擱岸	船舶が岸に乗り上げること。
+j	擱座	擱座	船舶が座礁すること。
+j	擱筆	擱筆	文書を書き終えること。
+j	旱天	旱天	雨が一向に降らず、日照りが続くこと。
+j	旱害	旱害	旱魃により被る農作物などの害。
+j	旱損	旱損	日照りによる農業の損害。
+j	旱暑	旱暑	日照りにより非常に暑いこと。
+j	旱暵	旱暵	日照り。干魃。
+j	旱母	旱母	日照りの神。
+j	旱水	旱水	drought and flood
+j	旱災	旱災	日照りによる災害。
+j	旱雲	旱雲	旱の空に浮かぶ雲。
+j	旱魃	旱魃	長期間に渡り雨が降らず、農作物などに必要な水が不足…
+j	朱三	朱三	さいころを二つ振って、両方とも三の目であること。
+j	朱儒	朱儒	dwarf
+j	朱印	朱印	crimson stamp
+j	朱唇	朱唇	（紅を塗った）赤い唇。
+j	朱器	朱器	朱に塗られた器。
+j	朱四	朱四	さいころを二つ振って、両方とも四の目であること。
+j	朱圏	朱圏	朱墨で文字の脇に付けた圏点。
+j	朱墨	朱墨	朱と墨。文章の推敲や添削。
+j	朱夏	朱夏	（五行思想で赤色を夏にあてることから）夏。
+j	朱子	朱子	Zhu Xi
+j	朱字	朱字	朱で書かれた文字や文。
+j	朱文	朱文	朱で書かれた文字や文。朱字。
+j	朱椀	朱椀	朱に塗られた椀。
+j	朱欒	朱欒	ミカン科の常緑高木。インドシナ原産の柑橘類。初夏に…
+j	朱殷	朱殷	blackish red
+j	朱漆	朱漆	朱やベンガラを混ぜた赤色の漆。赤漆。
+j	朱点	朱点	red marks that are applie…
+j	朱砂	朱砂	cinnabar
+j	朱硯	朱硯	朱墨をするための硯。
+j	朱筆	朱筆	crimson inkbrush
+j	朱簾	朱簾	朱い簾。
+j	朱美	朱美	a female given name
+j	朱肉	朱肉	ink based on vermilion-co…
+j	朱脣	朱脣	（紅を塗った）赤い唇。
+j	朱色	朱色	vermilion (colour)
+j	朱衣	朱衣	四位・五位の官人が着用した朱色の服。
+j	朱襦	朱襦	赤い襦袢。
+j	朱軒	朱軒	丹塗りの車。
+j	朱里	朱里	a female given name
+j	朱錠	朱錠	朱粉を膠と混ぜて練り、固めた墨。
+j	朱門	朱門	朱塗りの門。
+j	朱陽	朱陽	太陽。
+j	朱雀	朱雀	the Vermillion Bird of th…
+j	朱顔	朱顔	赤い顔。
+j	朱鳥	朱鳥	synonym of 朱雀 (Shujaku, “…
+j	朱鷺	朱鷺	synonym of 鴇 (toki, “cres…
+j	東の	東の	
+j	東へ	東へ	
+j	東下	東下	東方に移動すること。
+j	東亜	東亜	East Asia (a geographic r…
+j	東京	東京	Tokyo (a prefecture, the …
+j	東伍	東伍	a male given name
+j	東信	東信	eastern Nagano (a region …
+j	東側	東側	east side
+j	東八	東八	東八拳（藤八拳）の略称。
+j	東北	東北	northeast
+j	東南	東南	southeast
+j	東台	東台	真言宗の東寺と天台宗の延暦寺のこと。
+j	東司	東司	toilet in a Zen monastery
+j	東名	東名	東京名古屋の略。
+j	東吾	東吾	a male given name
+j	東呉	東呉	Eastern Wu (229–280)
+j	東国	東国	a country to the east
+j	東垂	東垂	（国の）東の果て。
+j	東城	東城	a surname
+j	東堂	東堂	禅宗でその寺院の先代の住持。
+j	東壁	東壁	eastern wall
+j	東大	東大	
+j	東天	東天	東方の空。
+j	東夷	東夷	中華思想で東方の異民族。
+j	東学	東学	李氏朝鮮末期、シャーマニズムに儒教、仏教、道教を加…
+j	東宮	東宮	the Eastern Palace (palac…
+j	東家	東家	東隣りの家。近所。
+j	東屋	東屋	a gazebo; a small arbor; …
+j	東山	東山	a surname
+j	東岱	東岱	「泰山」に同じ。
+j	東岸	東岸	東側の岸。
+j	東嶺	東嶺	東方にある山。
+j	東廠	東廠	中国明の時代に皇帝直属で置かれた諜報機関。
+j	東征	東征	軍隊が東方へと征くこと。東方にいる敵を征伐すること。
+j	東悟	東悟	a male given name
+j	東方	東方	east, east area
+j	東晋	東晋	魏晋南北朝時代の王朝の一つ。317年に司馬睿が建国…
+j	東村	東村	a surname
+j	東条	東条	a surname
+j	東松	東松	a surname
+j	東條	東條	a surname
+j	東植	東植	a male given name
+j	東横	東横	東京横浜の略。
+j	東欧	東欧	Eastern Europe (a socio-p…
+j	東歌	東歌	poems from the eastern re…
+j	東武	東武	武蔵国の別名。
+j	東江	東江	a town in Nago, Okinawa P…
+j	東洋	東洋	the East; Asia, especiall…
+j	東浄	東浄	禅寺で、便所のこと。
+j	東海	東海	Tōkai (a traditional regi…
+j	東温	東温	Tōon (a city in Ehime Pre…
+j	東漸	東漸	文化や勢力などが次第に東方へ進むこと。
+j	東瀛	東瀛	Japan
+j	東牕	東牕	東側の窓。
+j	東独	東独	synonym of 東ドイツ (Higashi …
+j	東琴	東琴	a six-stringed koto or zi…
+j	東男	東男	a man from eastern Japan …
+j	東矩	東矩	外惑星が地球から見て太陽の東90度の方角に来ること…
+j	東窓	東窓	東側の窓。
+j	東端	東端	eastern tip, eastern end
+j	東経	東経	east longitude
+j	東經	東經	東経の旧字体表記。
+j	東線	東線	鉄道や道路などで東の方向にあるまたは東に向かう路線。
+j	東芝	東芝	Toshiba, a Japanese compa…
+j	東莞	東莞	Dongguan (a prefecture-le…
+j	東萊	東萊	Dongnae (a district of th…
+j	東葉	東葉	東京千葉の略称。
+j	東西	東西	east and west
+j	東証	東証	東京証券取引所または株式会社東京証券取引所の略。東…
+j	東走	東走	東の方向に走ること。
+j	東路	東路	a road or path from the c…
+j	東軍	東軍	内乱などで東西にわかれた軍勢のうち東側の軍勢。
+j	東辺	東辺	東の辺境。
+j	東進	東進	advancement eastward
+j	東遊	東遊	a medieval court dance fo…
+j	東道	東道	東方の道。
+j	東遷	東遷	東へ場所を移すこと。特に、国が都を東へ移すこと。
+j	東邦	東邦	Eastern nation, Eastern c…
+j	東郊	東郊	城都、都市の東方の郊外。
+j	東部	東部	eastern part
+j	東郷	東郷	Tōgō (a town in Aichi dis…
+j	東門	東門	東側にある門。
+j	東関	東関	東の方角にある関所。
+j	東闈	東闈	東宮の門。また、転じて東宮（皇太子）。
+j	東阪	東阪	東京都と大阪府または大阪市。
+j	東陲	東陲	（国の）東の果て。
+j	東雲	東雲	dawn
+j	東電	東電	
+j	東面	東面	東側に面すること。
+j	東風	東風	an easterly, wind blowing…
+j	東首	東首	頭を東の方角に向けて寝ること。東枕。古代中国におけ…
+j	東魏	東魏	中国南北朝時代にあった国。534年北魏から分裂して…
+j	柱体	柱体	角柱や円柱など、2つの底面が合同かつ平行な立体。
+j	柱廊	柱廊	等間隔に立てた柱に梁と屋根をかけた回廊。列柱廊。コ…
+j	柱憲	柱憲	a male given name
+j	柱根	柱根	柱の根元の部分。
+j	柱状	柱状	柱のような形状。
+j	柱石	柱石	（ちゅうせき）柱と土台石。
+j	柱礎	柱礎	
+j	柱聯	柱聯	詩文などを書き、柱に掛ける聯。柱掛け。柱隠し。
+j	柱頭	柱頭	capital
+j	栱枅	栱枅	枡形。
+j	梱包	梱包	packing, crating
+j	榱崩	榱崩	建造物が大きく崩壊すること。
+j	榱桁	榱桁	榱と桁。
+j	榱桷	榱桷	垂木。
+j	櫱冤	櫱冤	冤家。かたき。
+j	深い	深い	deep; profound (extending…
+j	深く	深く	
+j	深さ	深さ	
+j	深㵎	深㵎	深谷。
+j	深交	深交	close friendship
+j	深信	深信	心の底から信じること。
+j	深冤	深冤	深い恨み。
+j	深切	深切	困っている人等の身になり、何かをしてやったりするこ…
+j	深刻	深刻	serious, deep, heavy (top…
+j	深功	深功	大功。
+j	深化	深化	deepening
+j	深厚	深厚	benevolent
+j	深固	深固	堅固。
+j	深圳	深圳	Shenzhen (a major subprov…
+j	深坑	深坑	深い穴。
+j	深壑	深壑	深い谷。「壑」は「谷」の意。
+j	深壕	深壕	深濠。
+j	深夜	深夜	midnight, late night
+j	深大	深大	深くて大きいさま。
+j	深奥	深奥	esoteric doctrines; myste…
+j	深宮	深宮	奥深い宮殿。
+j	深密	深密	奥深く、秘められていること。また、そのようなさま。
+j	深察	深察	ある物事について深く考え、おしはかること。
+j	深層	深層	deep level, the depths
+j	深山	深山	人里離れた奥深い山。
+j	深川	深川	Fukagawa (a city in Hokka…
+j	深巷	深巷	奥深く入り組んだ街。
+j	深広	深広	深く、広いさま。
+j	深度	深度	depth
+j	深弊	深弊	深刻な弊害。
+j	深思	深思	深く思うこと。熟慮。
+j	深怨	深怨	深い恨み。
+j	深情	深情	深く相手を思う気持ち。
+j	深慮	深慮	深く考慮すること。深い考え。淵慮。
+j	深憂	深憂	深い憂慮や心配。
+j	深拱	深拱	拱手。
+j	深曠	深曠	深広なさま。
+j	深更	深更	the middle of the night, …
+j	深林	深林	deep forest
+j	深樹	深樹	木立。
+j	深殿	深殿	奥深い御殿。また、御殿の奥深い場所。
+j	深求	深求	追い求めること。
+j	深江	深江	a surname
+j	深沈	深沈	沈着なさま。
+j	深沢	深沢	a surname
+j	深泥	深泥	泥が深いこと。また、そのような場所。深いぬかるみ。
+j	深洽	深洽	博洽。
+j	深浅	深浅	depth
+j	深海	深海	deep sea
+j	深深	深深	物音がせず静かなさま。
+j	深淵	深淵	abyss
+j	深溝	深溝	深い溝。
+j	深潭	深潭	abyss
+j	深澗	深澗	深㵎の異表記。
+j	深澤	深澤	a surname
+j	深濠	深濠	深い濠。
+j	深甚	深甚	意味や気持ちなどが深遠なこと。また、そのようなさま。
+j	深田	深田	a surname
+j	深町	深町	a surname
+j	深痼	深痼	不治の病。
+j	深皿	深皿	
+j	深目	深目	奥眼。
+j	深省	深省	深く省みること。また、そのようにして悟ること。
+j	深眼	深眼	奥眼。凹眼。
+j	深秋	深秋	late autumn; deepest autu…
+j	深秘	深秘	深い道理や秘密。
+j	深究	深究	深く究めること。
+j	深穽	深穽	深く掘った落とし穴。
+j	深窈	深窈	奥深く、物静かな様子。
+j	深窓	深窓	depths of a house
+j	深篁	深篁	竹叢。
+j	深紅	深紅	deep crimson
+j	深紫	深紫	deep purple
+j	深緑	深緑	濃い緑色。ふかみどり。
+j	深翠	深翠	濃い緑色。
+j	深耕	深耕	deep plowing
+j	深致	深致	深い趣き。
+j	深衷	深衷	真心。
+j	深裂	深裂	植物の葉の縁や花弁などが深く切れ込んでいること。
+j	深見	深見	a surname
+j	深謀	深謀	深く考えてつくった謀。
+j	深謝	深謝	sincere thanks, heart-fel…
+j	深谷	深谷	a surname
+j	深辜	深辜	重い罪。重罪。
+j	深遠	深遠	esoteric, deep, profound,…
+j	深邃	深邃	その地の趣が邃いこと。そのさま。
+j	深部	深部	深い部分。奥深い部分。
+j	深重	深重	（しんちょう、しんじゅう）幾重にも重なるさま。
+j	深長	深長	意味などが奥深く含みのあるさま。
+j	深閑	深閑	森閑の異表記。
+j	深隍	深隍	深い濠。
+j	深雪	深雪	deep snow
+j	深黒	深黒	深い黒。
+j	漱ぐ	漱ぐ	to rinse one's mouth (esp…
+j	漱口	漱口	口を漱ぐこと。
+j	澱み	澱み	
+j	澱粉	澱粉	starch
+j	濱中	濱中	a surname
+j	濱口	濱口	a surname
+j	濱戸	濱戸	a surname
+j	濱田	濱田	a surname
+j	濱益	濱益	
+j	烱烱	烱烱	「炯炯」の異形。
+j	烱誡	烱誡	強く訓誡すること。厳戒すること。
+j	熱い	熱い	hot (of an object or feel…
+j	熱中	熱中	enthusiasm for something
+j	熱低	熱低	熱帯低気圧の略。
+j	熱傷	熱傷	a burn (caused by heat); …
+j	熱叫	熱叫	crying out enthusiastical…
+j	熱唱	熱唱	passionate singing
+j	熱圏	熱圏	the thermosphere
+j	熱学	熱学	thermology
+j	熱帯	熱帯	the tropics
+j	熱度	熱度	degrees of heat, temperat…
+j	熱弁	熱弁	passionate speech
+j	熱心	熱心	earnest, enthusiastic
+j	熱情	熱情	passion, ardor
+j	熱意	熱意	zeal; enthusiasm
+j	熱愛	熱愛	passionate love
+j	熱感	熱感	feeling of fever
+j	熱戦	熱戦	熱の籠もった激しい勝負。
+j	熱投	熱投	投手が熱のこもった投球をすること。
+j	熱暑	熱暑	midday heat in summer
+j	熱月	熱月	
+j	熱望	熱望	fervent hope
+j	熱核	熱核	heat kernel
+j	熱殺	熱殺	killing by heat
+j	熱気	熱気	hot air
+j	熱水	熱水	高温の水。
+j	熱波	熱波	夏季に、低緯度地方からの空気が断続的に押し寄せ、気…
+j	熱海	熱海	Atami (a city in Shizuoka…
+j	熱涙	熱涙	感動して流す涙。
+j	熱湯	熱湯	boiling water
+j	熱源	熱源	source of heat
+j	熱演	熱演	passionate performance
+j	熱火	熱火	roaring fire
+j	熱烈	熱烈	ardent
+j	熱燗	熱燗	heating up sake; warmed s…
+j	熱狂	熱狂	great enthusiasm
+j	熱田	熱田	Atsuta (a ward of Nagoya,…
+j	熱病	熱病	高熱を発症する疾病の総称。
+j	熱砂	熱砂	sand heated by the sun
+j	熱禱	熱禱	praying earnestly
+j	熱線	熱線	赤外線のこと。
+j	熱血	熱血	fresh blood that is still…
+j	熱賛	熱賛	praising passionately
+j	熱量	熱量	amount of heat, thermal v…
+j	熱闘	熱闘	熱意のこもった闘い、試合。
+j	熱雲	熱雲	glowing cloud; small-scal…
+j	熱雷	熱雷	急激な上昇気流で出来た積乱雲で発生するかみなり。
+j	熱願	熱願	desiring earnestly
+j	熱風	熱風	hot wind
+j	熱鬧	熱鬧	crowding with a large num…
+j	猱児	猱児	妓女。
+j	琱輦	琱輦	玉車。
+j	由一	由一	a male given name
+j	由三	由三	a male given name
+j	由井	由井	a surname
+j	由仁	由仁	Yuni (a town in Yūbari di…
+j	由伸	由伸	a male given name
+j	由佳	由佳	a female given name
+j	由依	由依	a female given name
+j	由哉	由哉	a male given name
+j	由基	由基	a male given name
+j	由奈	由奈	a female given name
+j	由子	由子	a female given name
+j	由実	由実	a female given name
+j	由巳	由巳	a female given name
+j	由希	由希	a female given name
+j	由康	由康	a male given name
+j	由弘	由弘	a male given name
+j	由扶	由扶	a male given name
+j	由来	由来	originally
+j	由松	由松	a male given name
+j	由田	由田	a surname
+j	由紀	由紀	a female given name
+j	由緒	由緒	history; pedigree; lineage
+j	由縁	由縁	関係。ゆかり。
+j	由美	由美	a female given name
+j	由花	由花	a female given name
+j	由菜	由菜	a female given name
+j	由衣	由衣	a female given name
+j	由裕	由裕	導くこと。
+j	由規	由規	a male given name
+j	由貴	由貴	a female given name
+j	由郎	由郎	a male given name
+j	由里	由里	a female given name
+j	由香	由香	a female given name
+j	疱疹	疱疹	synonym of ヘルペス (herupesu…
+j	疱瘡	疱瘡	an infectious disease cau…
+j	盱視	盱視	目を瞠って見ること。
+j	禱祀	禱祀	神仏を祈り、祀ること。
+j	箱師	箱師	列車のような乗り物の中を専門として犯行をする、すり。
+j	箱庭	箱庭	miniature garden (miniatu…
+j	箱根	箱根	Hakone, a town in Kanagaw…
+j	箱笈	箱笈	箱。
+j	箱膳	箱膳	通常は食器をしまっておき、食事をする際に蓋が膳にな…
+j	箱舟	箱舟	
+j	統一	統一	unification, consolidation
+j	統仁	統仁	a male given name
+j	統体	統体	全体。
+j	統制	統制	control, regulation
+j	統合	統合	combination, integration …
+j	統失	統失	
+j	統子	統子	a female given name
+j	統属	統属	統制の下に属すること。
+j	統帥	統帥	command
+j	統幕	統幕	統合幕僚監部の略。
+j	統御	統御	全体を纏め、支配すること。
+j	統括	統括	unification
+j	統摂	統摂	全体を管轄すること。
+j	統業	統業	帝王の業。
+j	統治	統治	rule, governance
+j	統率	統率	command; lead
+j	統男	統男	a male given name
+j	統監	統監	軍事または政治を統括、監督すること。また、それを行…
+j	統督	統督	全体を纏めて、監督すること。総督。
+j	統管	統管	ばらばらのものを一つに統合して管理すること。
+j	統裁	統裁	統帥し、また裁断すること。
+j	統覚	統覚	apperception
+j	統計	統計	statistics
+j	統轄	統轄	上級の機関が、下級の機関の行為を指揮し、治めること。
+j	統領	統領	人をまとめ、治めること。また、その人。首領。
+j	綱位	綱位	僧綱の位階。
+j	綱傷	綱傷	牛、馬が農機具や車などを引く時、引綱の摩擦によって…
+j	綱具	綱具	rigging
+j	綱常	綱常	人が踏み行うべき道。三綱と五常。
+j	綱所	綱所	寺院を管理する機関である僧綱所の略。
+j	綱掌	綱掌	灌頂など法会の儀式を司る僧職の名称。
+j	綱目	綱目	main point and details
+j	綱紀	綱紀	the laws and bylaws that …
+j	綱絶	綱絶	綱紀が廃絶すること。
+j	綱維	綱維	大綱。大要。
+j	綱要	綱要	outline
+j	綱領	綱領	guiding principle, code, …
+j	縱淫	縱淫	ほしいままにすること。
+j	聱牙	聱牙	文字・言葉などが難解なこと。また、そのさま。
+j	脱ぐ	脱ぐ	to take off (clothes etc.)
+j	脱会	脱会	leaving a 会 (kai) – churc…
+j	脱俗	脱俗	unworldliness, the qualit…
+j	脱兎	脱兎	a fleeing hare; used in s…
+j	脱出	脱出	an escape from a dangerou…
+j	脱刀	脱刀	腰に帯びた刀を外すこと。
+j	脱剣	脱剣	腰に帯びた剣を外すこと。
+j	脱力	脱力	loss of bodily strength; …
+j	脱北	脱北	defection from North Korea
+j	脱却	脱却	breaking away; getting ou…
+j	脱営	脱営	desertion
+j	脱国	脱国	escaping from a country
+j	脱垂	脱垂	
+j	脱塩	脱塩	desalting, demineralizati…
+j	脱士	脱士	脱藩した士。
+j	脱字	脱字	a missing character or le…
+j	脱屣	脱屣	履き物を脱ぐこと。
+j	脱帽	脱帽	tipping one's hat
+j	脱文	脱文	本来、あるべき文章や文句が抜け落ちていること。
+j	脱核	脱核	赤血球や血小板が作られる過程で核が放出されること。…
+j	脱毛	脱毛	epilation, hair removal
+j	脱水	脱水	dehydration, desiccation
+j	脱法	脱法	evasion of the law; behav…
+j	脱漏	脱漏	an omission
+j	脱炭	脱炭	適当な化学反応に用いて、材料、特に鉄鋼材料に含有さ…
+j	脱牢	脱牢	牢獄から抜け出すこと。脱獄。
+j	脱獄	脱獄	jailbreak (an escape from…
+j	脱疽	脱疽	壊死した体の組織の一部が脱落すること。壊疽。
+j	脱皮	脱皮	shedding skin; molting
+j	脱監	脱監	escape from jail
+j	脱着	脱着	desorption
+j	脱税	脱税	tax evasion
+j	脱稿	脱稿	completion of a manuscript
+j	脱穀	脱穀	殼粒を穂から取り離すこと。
+j	脱窒	脱窒	denitrification
+j	脱糞	脱糞	defecation
+j	脱線	脱線	derailment
+j	脱肛	脱肛	rectal prolapse
+j	脱胎	脱胎	「奪胎」の別表記。
+j	脱脂	脱脂	物に含まれる脂肪分を取り除くこと。
+j	脱腸	脱腸	
+j	脱臭	脱臭	deodorizing; deodorization
+j	脱臼	脱臼	dislocation
+j	脱色	脱色	decoloration
+j	脱落	脱落	falling away
+j	脱藩	脱藩	武士が自分の属する藩から脱すること。
+j	脱蝋	脱蝋	石油留分からパラフィンを除去すること。
+j	脱蠟	脱蠟	石油留分からパラフィンを除去すること。
+j	脱衣	脱衣	undressing
+j	脱走	脱走	escape; desertion
+j	脱輪	脱輪	車両や航空機のタイヤが外れること。
+j	脱退	脱退	withdrawal; secession; pu…
+j	脱隊	脱隊	部隊を脱走すること。
+j	脱離	脱離	抜けて離れること。
+j	腱膜	腱膜	an aponeurosis
+j	腱鞘	腱鞘	tendon sheath
+j	艱嶮	艱嶮	艱険の別表記。
+j	艱渋	艱渋	難渋すること。難儀なこと。
+j	艱苦	艱苦	suffering
+j	艱険	艱険	山道などが険しいこと。
+j	艱難	艱難	hardships, difficulties
+j	花き	花き	
+j	花の	花の	
+j	花下	花下	咲いている花の下。
+j	花亭	花亭	美しいあずまや。
+j	花仙	花仙	「海棠」の異称。
+j	花代	花代	芸者、遊女を揚げて遊ぶ費用。玉代。
+j	花信	花信	花が咲いたことや見頃を知らせるたより。花だより。花…
+j	花候	花候	花が盛んに咲く季節。
+j	花兄	花兄	「梅」の異称。
+j	花冠	花冠	corolla
+j	花前	花前	花が咲いている前。
+j	花卉	花卉	flowering plant
+j	花台	花台	（「はなだい」とも）花瓶を置く台。
+j	花唇	花唇	はなびら。
+j	花器	花器	flower vase
+j	花圃	花圃	花畑。花壇。ガーデン。
+j	花園	花園	flower garden
+j	花堂	花堂	美しく装飾された建物。
+j	花壇	花壇	flowerbed
+j	花婿	花婿	
+j	花嫁	花嫁	
+j	花子	花子	a female given name
+j	花字	花字	kaō (stylized signature)
+j	花実	花実	flowers and fruit; interi…
+j	花客	花客	花見をする客。
+j	花屋	花屋	a florist's shop
+j	花山	花山	花が沢山咲いている山。
+j	花岡	花岡	a surname
+j	花布	花布	草木の柄を染めたり刺繍した布。
+j	花幔	花幔	美しい模様のある幕。
+j	花床	花床	「花托」に同じ。
+j	花序	花序	inflorescence, a flower c…
+j	花弁	花弁	petal
+j	花形	花形	floriform, flower-shaped
+j	花影	花影	月光などでできる花の影。
+j	花心	花心	a female given name
+j	花忍	花忍	Polemonium kiushianum, a …
+j	花房	花房	calyx, flower cluster
+j	花托	花托	receptacle (of a flower s…
+j	花押	花押	kaō (stylized signature)
+j	花時	花時	花が開花する時期。
+j	花暦	花暦	A flower calendar
+j	花書	花書	「花押」に同じ。
+j	花月	花月	花と月。
+j	花朝	花朝	陰暦二月の異称。
+j	花期	花期	flowering season; floresc…
+j	花木	花木	花と木。
+j	花札	花札	hanafuda, literally “flow…
+j	花材	花材	生け花の素材。
+j	花束	花束	a bunch of flowers, a bou…
+j	花果	花果	flower and fruit
+j	花柄	花柄	flower pattern
+j	花柱	花柱	めしべの柱頭と子房の間の部分。円柱状であり、受精の…
+j	花柳	花柳	red-light district
+j	花桃	花桃	peach blossom
+j	花梗	花梗	花柄の別称。
+j	花梨	花梨	Chinese quince, Pseudocyd…
+j	花椒	花椒	prickly ash (as a Chinese…
+j	花樹	花樹	flowering tree
+j	花氈	花氈	（かせん）美しい模様が入った毛氈。
+j	花気	花気	花の匂いや香り。
+j	花水	花水	nectar.
+j	花江	花江	a surname
+j	花沢	花沢	a surname
+j	花海	花海	a female given name
+j	花火	花火	fireworks
+j	花灯	花灯	雪洞。
+j	花片	花片	一枚一枚のはなびら。
+j	花牌	花牌	flower tile (included in …
+j	花王	花王	（かおう）花の中で一番優れたもの。特に牡丹の異称。
+j	花珠	花珠	a kind of pearl
+j	花瑞	花瑞	a female given name
+j	花瓶	花瓶	vase
+j	花田	花田	a surname
+j	花盆	花盆	花を載せるための盆。
+j	花盤	花盤	大きな子房を囲むような花托。
+j	花瞼	花瞼	花のように美しい美人の瞼。
+j	花神	花神	花を司る神。花の精。
+j	花祭	花祭	
+j	花穂	花穂	穂のような花序。
+j	花筵	花筵	藺草の筵に彩色を施したもの。花茣蓙。
+j	花粉	花粉	pollen
+j	花糸	花糸	filament (stalk of a stam…
+j	花紋	花紋	花を図案化した模様。
+j	花絵	花絵	a female given name
+j	花肆	花肆	遊女を置く店が集まる地区。遊郭。花街。
+j	花色	花色	華美に飾ること。華飾の別表記。
+j	花芽	花芽	将来花として咲くような芽。
+j	花苑	花苑	花卉や花樹が植えられた庭園。はなぞの。
+j	花茎	花茎	頂点に花だけをつける茎。
+j	花茶	花茶	flowering tea
+j	花草	花草	synonym of 母子草 (hahakogus…
+j	花菜	花菜	花や蕾を食用とする野菜。
+j	花葉	花葉	花弁、おしべ、めしべなど花を構成するそれぞれの器官…
+j	花葩	花葩	花。
+j	花蓋	花蓋	「花被」のこと。
+j	花蓮	花蓮	Hualien (a city and count…
+j	花蓼	花蓼	Persicaria posumbu, a spe…
+j	花蕊	花蕊	めしべとおしべの総称。
+j	花虻	花虻	hoverfly
+j	花蜂	花蜂	bee (insect)
+j	花蜜	花蜜	nectar
+j	花街	花街	a red-light district; a l…
+j	花被	花被	perianth
+j	花見	花見	flower viewing: more spec…
+j	花観	花観	a female given name
+j	花言	花言	不実の言葉。上辺だけの言葉。
+j	花譜	花譜	花をその花が咲く季節や分類の順に並べて図示したもの。
+j	花貌	花貌	花のような美貌。花顔。
+j	花軸	花軸	穂のように咲く花の中央の軸となる茎。
+j	花輪	花輪	a garland of flowers, a f…
+j	花道	花道	flower arrangement, ikeba…
+j	花郎	花郎	
+j	花郭	花郭	遊郭。遊里。
+j	花金	花金	a splendid Friday
+j	花雨	花雨	花が雨のように降ること。また、その花。
+j	花顔	花顔	花が咲いたように美しい顔。
+j	花風	花風	花が咲くころに吹く風。
+j	花香	花香	花の香り。
+j	花魁	花魁	an oiran (elder courtesan…
+j	花鳥	花鳥	a bird which lodges in a …
+j	花鶏	花鶏	a brambling
+j	英一	英一	a male given name
+j	英世	英世	a male given name
+j	英主	英主	優れた君主。名君。
+j	英乂	英乂	賢人。
+j	英之	英之	a male given name
+j	英二	英二	a male given name
+j	英京	英京	the British capital, Lond…
+j	英人	英人	イギリス人。英国人。
+j	英仏	英仏	the UK and France
+j	英作	英作	a male given name
+j	英俊	英俊	a wise and capable person
+j	英信	英信	a male given name
+j	英傑	英傑	hero or heroine, great wo…
+j	英典	英典	a male given name
+j	英利	英利	a male given name
+j	英則	英則	a male given name
+j	英卓	英卓	卓出すること。
+j	英史	英史	a male given name
+j	英司	英司	a male given name
+j	英名	英名	fame, reputation, glory
+j	英君	英君	a monarch of great intell…
+j	英和	英和	English–Japanese, English…
+j	英員	英員	a male given name
+j	英哲	英哲	聡明なこと。また、そのような人。
+j	英嗣	英嗣	a male given name
+j	英図	英図	優れた意図や計略。
+j	英国	英国	synonym of イギリス: United K…
+j	英夏	英夏	a female given name
+j	英夫	英夫	a male given name
+j	英姿	英姿	立派な姿。雄姿。
+j	英子	英子	a female given name
+j	英字	英字	the English alphabet
+j	英孝	英孝	a male given name
+j	英尺	英尺	foot (unit of measure)
+j	英帝	英帝	British Empire (abbreviat…
+j	英幸	英幸	a male given name
+j	英弱	英弱	英語が苦手であること。また、そのような人。
+j	英彦	英彦	a male given name
+j	英徹	英徹	才知に優れ、道理に明るいこと。また、そのようなさま。
+j	英心	英心	a male given name
+j	英志	英志	a male given name
+j	英才	英才	outstanding ability
+j	英数	英数	alphanumerics, alphanumer…
+j	英文	英文	a sentence in English
+j	英斤	英斤	pound (unit of measure)
+j	英断	英断	excellent resolution; exc…
+j	英明	英明	intelligent
+j	英昭	英昭	a male given name
+j	英智	英智	a male given name
+j	英書	英書	英文で書かれた書物。
+j	英植	英植	a male given name
+j	英樹	英樹	a male given name
+j	英機	英機	a male given name
+j	英正	英正	a male given name
+j	英気	英気	great wisdom or talent
+j	英治	英治	a male given name
+j	英法	英法	イギリスの法律、法体系。
+j	英物	英物	傑物。
+j	英理	英理	a female given name
+j	英生	英生	a male given name
+j	英男	英男	a male given name
+j	英略	英略	秀でた計略。
+j	英知	英知	wisdom (a deep understand…
+j	英秀	英秀	a male given name
+j	英称	英称	English-language name
+j	英米	英米	英吉利と亜米利加。英国と米国。イギリスとアメリカ合…
+j	英美	英美	a male given name
+j	英蘭	英蘭	イギリスとオランダ。
+j	英行	英行	a male given name
+j	英訳	英訳	English translation
+j	英詩	英詩	イギリスの詩。
+j	英語	英語	the English language
+j	英豪	英豪	優れて偉いさま。その人物。英雄。英傑。豪傑。
+j	英貨	英貨	イギリスの貨幣。
+j	英貴	英貴	a male given name
+j	英資	英資	優れた生まれつき。
+j	英軍	英軍	イギリスの軍、軍隊。
+j	英輝	英輝	a male given name
+j	英邁	英邁	才知が非常に優れていること。また、そのようなさま。
+j	英郎	英郎	a male given name
+j	英里	英里	mile
+j	英隆	英隆	a male given name
+j	英雄	英雄	hero
+j	英霊	英霊	spirits of fallen soldiers
+j	英魂	英魂	spirit of a person of exc…
+j	菱形	菱形	rhombus
+j	菱田	菱田	a surname
+j	菱花	菱花	菱の花。
+j	菱食	菱食	taiga bean goose (Anser f…
+j	萱堂	萱堂	母の尊称。
+j	萱草	萱草	day-lily, specifically th…
+j	萱蘇	萱蘇	忘れ草。萱草。
+j	萱親	萱親	母親。
+j	萱闈	萱闈	御母堂。
+j	萱鼠	萱鼠	
+j	葱嶺	葱嶺	the Pamirs (a mountain ra…
+j	葱花	葱花	葱の花。
+j	葱衡	葱衡	青い佩玉。
+j	葱黄	葱黄	浅い萌黄。
+j	蠱惑	蠱惑	enchantment; enticement; …
+j	蠱晦	蠱晦	惑乱。
+j	蠱毒	蠱毒	poison
+j	蠱疾	蠱疾	精神に惑乱をきたした病。
+j	蠱菑	蠱菑	蠱による災い。
+j	蠱道	蠱道	神霊に祈願し、人を呪詛する術。また、それをする人。
+j	袱紗	袱紗	fukusa: piece of decorate…
+j	許し	許し	
+j	許す	許す	to forgive, to pardon, to…
+j	許人	許人	許身。
+j	許允	許允	承知し、許すこと。承認すること。
+j	許可	許可	allowance, permission, co…
+j	許否	許否	許可することと不許可とすること。
+j	許多	許多	a great amount
+j	許婚	許婚	an arranged engagement, w…
+j	許嫁	許嫁	to arrange an engagement,…
+j	許容	許容	acceptance, permission, t…
+j	許斐	許斐	a surname
+j	許昌	許昌	Xuchang (a prefecture-lev…
+j	許状	許状	免許状。
+j	許諾	許諾	consent; permission
+j	許身	許身	身をまかせること。
+j	話し	話し	
+j	話す	話す	to talk (about something)…
+j	話中	話中	
+j	話劇	話劇	中国の新劇。
+j	話柄	話柄	話しをする事柄。話題。
+j	話法	話法	はなしかた。はなす技術。
+j	話者	話者	One who speaks; a speaker
+j	話芸	話芸	巧みに話術を使い人を楽しませる演芸。落語、漫談など。
+j	話術	話術	art of speaking
+j	話頭	話頭	話の糸口。
+j	話題	話題	topic, subject of convers…
+j	諱忌	諱忌	忌み、憚ること。忌諱。
+j	諱窮	諱窮	困窮を嫌うこと。
+j	躱す	躱す	to dodge, move quickly to…
+j	躱閃	躱閃	身を躱し、避けること。
+j	辱め	辱め	shame, humiliation
+j	辱交	辱交	その人と交際があることを謙譲する語。
+j	辱知	辱知	知り合いであることの謙譲語。
+j	週休	週休	weekly day off
+j	週内	週内	その週の内。
+j	週刊	週刊	weekly (publication that …
+j	週初	週初	一週間の初め。
+j	週報	週報	週に一度報告、報知すること。
+j	週央	週央	1週間の中央、水曜日ごろ。
+j	週日	週日	weekday
+j	週期	週期	周期。
+j	週末	週末	weekend
+j	週番	週番	weekly duty
+j	週給	週給	weekly pay
+j	週間	週間	week
+j	醱酵	醱酵	酵母などの微生物の作用により、有機化合物が分解する…
+j	鉱二	鉱二	a male given name
+j	鉱体	鉱体	採掘するのに有用な鉱石の集合体。鉱床。
+j	鉱化	鉱化	mineralization
+j	鉱区	鉱区	鉱業権を得て、鉱物の採掘を許可された一定の区域。
+j	鉱塊	鉱塊	金や銀などの鉱石が多い鉱床。
+j	鉱塩	鉱塩	家畜などに与える塩分やミネラルなどを含む固形飼料。…
+j	鉱夫	鉱夫	miner
+j	鉱害	鉱害	environmental damage due …
+j	鉱層	鉱層	鉱床の層。地層にはさまれた層状の鉱床。
+j	鉱山	鉱山	mine (place from which or…
+j	鉱床	鉱床	工業的、商業的に採掘可能な程度の規模、品位を持つ鉱…
+j	鉱徴	鉱徴	工業的に採掘可能な鉱床としての規模や品位は確認され…
+j	鉱染	鉱染	熱水から沈殿した鉱物が母岩中の細かい割れ目や微小な…
+j	鉱柱	鉱柱	鉱山で採掘する際、天井などを支えるため鉱石の一部を…
+j	鉱業	鉱業	mining (activity of remov…
+j	鉱毒	鉱毒	鉱山から排出される物質で人体に有害な影響を与えるも…
+j	鉱水	鉱水	mineral water
+j	鉱油	鉱油	mineral oil
+j	鉱泉	鉱泉	鉱物が多く溶け込んだ水が湧き出す泉。特に冷泉と同義…
+j	鉱滓	鉱滓	slag
+j	鉱物	鉱物	minerals
+j	鉱産	鉱産	鉱業による生産、またその生産物。
+j	鉱石	鉱石	ore
+j	鉱脈	鉱脈	（鉱床学）岩石（母岩）の割れ目が鉱石によって満たさ…
+j	隱匿	隱匿	
+j	隱退	隱退	
+j	靱帯	靱帯	靭帯の異表記。
+j	靱皮	靱皮	植物の外皮の内側にある柔かな部分。
+j	靱軟	靱軟	しなやかで強いこと。
+j	颱風	颱風	台風と同義。
+j	駱駝	駱駝	a camel (beast of burden)
+j	駱駱	駱駱	馬が嘶く声。
+j	鬱々	鬱々	melancholy, gloomy
+j	鬱伊	鬱伊	心が鬱ぐさま。
+j	鬱勃	鬱勃	irresistible in force
+j	鬱屈	鬱屈	gloom, depression
+j	鬱悶	鬱悶	気が塞がり、悩み苦しむこと。
+j	鬱憤	鬱憤	resentment, pent-up anger
+j	鬱懐	鬱懐	心配事などで晴れ晴れしない気持ち。
+j	鬱曲	鬱曲	depressing song
+j	鬱気	鬱気	gloomy
+j	鬱滞	鬱滞	pent-up feelings
+j	鬱然	鬱然	dense, thick (forest)
+j	鬱病	鬱病	depression
+j	鬱積	鬱積	buildup of emotions, espe…
+j	鬱結	鬱結	心が晴れず、むしゃくしゃすること。
+j	鬱蒼	鬱蒼	dense, thick (of woods or…
+j	鬱血	鬱血	blood congestion
+j	鬱金	鬱金	the turmeric, Curcuma lon…
+j	鬱陶	鬱陶	depressing, melancholy
+j	鬱鬱	鬱鬱	草木が茂っているさま。
+j	鰱魚	鰱魚	fish of the genus Hypopht…
+k	간난	艱難	hardships, privations, tr…
+k	강요	綱要	coercion; pressure; extor…
+k	개선	凱旋	reform or improvement in …
+k	곤포	梱包	
+k	공감	共感	sympathy
+k	공동	共同	commonality, sharedness (…
+k	공모	共謀	conspiracy; plot; collusi…
+k	공범	共犯	complicity
+k	공변	共変	covariant
+k	공변	共變	covariant
+k	공비	共匪	
+k	공비	共沸	
+k	공생	共生	symbiosis
+k	공유	共有	sharing
+k	공존	共存	coexistence
+k	공통	共通	common
+k	공학	共学	engineering
+k	공학	共學	engineering
+k	광구	鉱区	photosphere
+k	광구	鉱口	photosphere
+k	광맥	鉱脈	mineral vein
+k	광물	鉱物	mineral
+k	광부	鉱夫	miner (a person who works…
+k	광산	鉱山	mine (place from which or…
+k	광석	鉱石	ore
+k	광업	鉱業	mining
+k	기묘	己卯	The sixteenth term of the…
+k	기미	己未	The fifty-sixth term of t…
+k	기사	己巳	an article, such as in a …
+k	기유	己酉	The forty-sixth term of t…
+k	기축	己丑	The twenty-sixth term of …
+k	기해	己亥	The thirty-sixth term of …
+k	낙타	駱駝	camel
+k	난교	乱交	orgy, promiscuity
+k	난리	乱理	uproar; disturbance; war,…
+k	난리	乱離	uproar; disturbance; war,…
+k	난무	乱舞	wild dance; dance without…
+k	난수	乱数	random number
+k	난시	乱視	astigmatism
+k	도사	禱祀	Taoist priest
+k	동경	東京	yearning; longing
+k	동구	東欧	Eastern Europe (a socio-p…
+k	동구	東歐	Eastern Europe (a socio-p…
+k	동구	東矩	Eastern Europe (a socio-p…
+k	동국	東国	chrysanthemum
+k	동국	東國	chrysanthemum
+k	동궁	東宮	the Eastern Palace (palac…
+k	동남	東南	southeast
+k	동독	東独	East Germany (a former Co…
+k	동독	東獨	East Germany (a former Co…
+k	동문	東門	entrance to a cave or gro…
+k	동방	東方	east
+k	동방	東邦	east
+k	동부	東部	the eastern part; east
+k	동북	東北	northeast
+k	동아	東亜	박과의 한해살이 덩굴성 식물. 잎은 손바닥 모…
+k	동아	東亞	박과의 한해살이 덩굴성 식물. 잎은 손바닥 모…
+k	동양	東洋	the Orient, the East
+k	동예	東濊	Dongye (an ancient Korean…
+k	동인	東人	club, circle, coterie
+k	동학	東学	classmate
+k	동학	東學	classmate
+k	동해	東海	Sea of Japan; East Sea
+k	락타	駱駝	North Korea standard spel…
+k	란교	乱交	
+k	란시	乱視	North Korea standard spel…
+k	발효	醱酵	taking effect
+k	보고	報告	report, information
+k	보도	報道	news coverage; journalist…
+k	보복	報復	revenge; reprisal; retali…
+k	보상	報償	compensation
+k	보수	報酬	reward
+k	보응	報応	retribution, retributive …
+k	보응	報應	retribution, retributive …
+k	보지	報知	pussy, vulva, vagina
+k	산곡	山谷	mountain valley
+k	산달	山獺	The Japanese marten, Mart…
+k	산동	山東	Shandong (a coastal provi…
+k	산맥	山脈	mountain range
+k	산명	山鳴	
+k	산문	山門	prose, nonfiction
+k	산불	山불	wildfire, forest fire, li…
+k	산서	山西	Shanxi (a province in the…
+k	산성	山城	a castle on top of a moun…
+k	산소	山所	oxygen
+k	산신	山神	Sansin (a mountain deity …
+k	산양	山羊	a long-tailed goral
+k	산장	山荘	mountain chalet
+k	산장	山莊	mountain chalet
+k	산적	山積	brigand; bandit (who is b…
+k	산적	山賊	brigand; bandit (who is b…
+k	산전	山田	terraced fields, terrace
+k	산정	山頂	summit, peak (of a mounta…
+k	산천	山川	the natural landscape
+k	산초	山椒	a variety of Sichuan pepp…
+k	산화	山火	synonym of 산불 (sanbul, “m…
+k	산화	山花	synonym of 산불 (sanbul, “m…
+k	상자	箱子	box; case
+k	섬멸	殱滅	annihilation, eradication…
+k	실례	失礼	rudeness
+k	실례	失禮	rudeness
+k	실망	失望	disappointment, letdown
+k	실명	失明	going blind; being blind;…
+k	실성	失性	loss of reason, insanity,…
+k	실수	失手	mistake
+k	실업	失業	unemployment
+k	실연	失恋	a broken heart
+k	실연	失戀	a broken heart
+k	실직	失職	unemployment, loss of a j…
+k	실책	失策	blunder; slip; error
+k	실패	失敗	failure
+k	심박	深博	heart rate, heartbeat
+k	심야	深夜	midnight; late night
+k	심연	深淵	abyss
+k	심연	深渊	abyss
+k	심오	深奥	profound; abstruse; diffi…
+k	심오	深奧	profound; abstruse; diffi…
+k	심천	深圳	Shenzhen (a subprovincial…
+k	심해	深海	the non-photic zone of th…
+k	심화	深化	deepening
+k	약관	弱冠	terms
+k	약병	弱兵	medicine bottle, vial
+k	약산	弱酸	weak acid
+k	약자	弱者	abbreviation, acronym
+k	약점	弱点	weakness, weak point, sho…
+k	약점	弱點	weakness, weak point, sho…
+k	약진	弱震	weak earthquake
+k	연어	鰱魚	salmon (fish)
+k	열광	熱狂	열정과 열의를 가지는 것.
+k	열권	熱圈	대기권에서 가장 높은 부분을 차지하는 층으로 …
+k	열권	熱圏	대기권에서 가장 높은 부분을 차지하는 층으로 …
+k	열대	熱帯	tropics
+k	열대	熱帶	tropics
+k	열람	閱覽	viewing
+k	열량	熱量	calorie
+k	열망	熱望	어떤 것을 원하는 마음.
+k	열변	熱弁	fervent/impassioned speec…
+k	열변	熱辯	fervent/impassioned speec…
+k	열병	熱病	fever
+k	열사	熱死	martyr
+k	열심	熱心	dedication, diligence, ze…
+k	열애	熱愛	ardent love, passionate l…
+k	열의	熱意	enthusiasm, eagerness, ze…
+k	열전	熱戦	
+k	열전	熱戰	
+k	열정	熱情	passion; ardour
+k	열중	熱中	enthusiasm, zeal, absorpt…
+k	영국	英国	United Kingdom (a kingdom…
+k	영국	英國	United Kingdom (a kingdom…
+k	영기	英気	mystic atmosphere, aura
+k	영기	英氣	mystic atmosphere, aura
+k	영락	珱珞	withering and falling
+k	영문	英文	text in English
+k	영성	英聖	nature (the nature of the…
+k	영어	英語	the English language
+k	영웅	英雄	hero (person of great bra…
+k	영재	英才	talent (person)
+k	영한	英韓	English–Korean
+k	영향	影響	influence; effect
+k	욕설	辱說	swear word; profanity
+k	욕설	辱説	swear word; profanity
+k	울릉	鬱陵	
+k	위기	危機	crisis; impending danger
+k	위독	危篤	critical illness
+k	위신	危身	prestige, dignity
+k	위험	危険	danger
+k	위험	危險	danger
+k	유래	由來	origin; origination
+k	유래	由来	origin; origination
+k	은닉	隱匿	concealment
+k	은신	隱身	hiding
+k	은어	隱語	An ayu (Plecoglossus alti…
+k	은유	隱喩	metaphor
+k	은자	隱者	hermit; recluse
+k	은퇴	隱退	retirement
+k	전분	澱粉	녹말.
+k	종렬	縱列	column, file
+k	종적	縱的	trace; whereabouts
+k	종파	縱波	denomination; (religious)…
+k	종횡	縱橫	length and breadth
+k	주간	週間	week
+k	주기	週期	period, cycle
+k	주두	柱頭	capital
+k	주라	朱喇	conch horn
+k	주라	朱螺	conch horn
+k	주로	朱鷺	chiefly, principally
+k	주말	週末	weekend
+k	주목	朱木	
+k	주번	週番	weekly duties
+k	주보	週報	weekly; weekly newspaper;…
+k	주색	朱色	alcohol and beautiful wom…
+k	주석	朱錫	tin (element)
+k	주일	週日	week
+k	주작	朱雀	Vermilion Bird (one of th…
+k	주중	週中	weekday
+k	질타	叱咤	rebuke; scolding
+k	창가	唱歌	by the window
+k	창극	唱劇	changgeuk (Korean opera)
+k	창사	唱詞	Changsha (the capital of …
+k	취임	就任	inauguration
+k	취직	就職	finding employment, work
+k	칭찬	稱讚	compliment, praise
+k	칭호	稱號	title; name; designation
+k	탈구	脱臼	dislocation
+k	탈락	脱落	falling out
+k	탈북	脱北	escape from North Korea
+k	탈세	脱税	tax evasion
+k	탈영	脱営	desertion
+k	탈옥	脱獄	
+k	탈출	脱出	escape
+k	탈퇴	脱退	withdrawal; secession
+k	태풍	颱風	typhoon
+k	통계	統計	statistics
+k	통일	統一	unification or reunificat…
+k	통제	統制	control, regulation
+k	통치	統治	rule; reign
+k	통합	統合	unity; integration
+k	포부	抱負	ambition; aspiration
+k	포옹	抱擁	hug, embrace
+k	포주	抱主	pimp
+k	포진	疱疹	
+k	한기	旱気	chill, cold
+k	한기	旱氣	chill, cold
+k	허가	許可	permission
+k	허락	許諾	consent; permission
+k	허용	許容	permission
+k	허혼	許婚	consent to marriage, givi…
+k	화단	花壇	flowerbed
+k	화두	話頭	topic of discussion
+k	화랑	花郎	Hwarang (ancient Sillan w…
+k	화랑	花郞	Hwarang (ancient Sillan w…
+k	화목	花木	firewood
+k	화밀	花蜜	
+k	화법	話法	particular way of speaking
+k	화병	花柄	hwabyeong, physical (and …
+k	화병	花瓶	hwabyeong, physical (and …
+k	화병	花甁	hwabyeong, physical (and …
+k	화분	花盆	flowerpot
+k	화분	花粉	flowerpot
+k	화사	花蛇	a striped snake: tiger ke…
+k	화속	花束	
+k	화술	話術	oratorical skill and wisd…
+k	화실	花実	art studio
+k	화실	花實	art studio
+k	화원	花園	
+k	화자	話者	speaker; narrator
+k	화제	話題	topic of discussion
+k	화채	花菜	hwachae, a Korean dessert…
+k	화초	花草	
+k	화투	花闘	hanafuda, a kind of playi…
+k	화투	花鬪	hanafuda, a kind of playi…
+k	화환	花環	
+k	희곡	戱曲	play, drama
+k	희화	戱畵	익살스러운 것이 됨. 또는 그렇게 함.
+j	乱れる	乱れる	to be confused, to be dis…
+j	乱れ刃	乱れ刃	a curved temper line on a…
+j	乱れ緒	乱れ緒	tangled thread
+j	乱れ麻	乱れ麻	tangled thread or yarn
+j	乱切り	乱切り	chopping foodstuff haphaz…
+j	乱反射	乱反射	a diffuse, scattered, or …
+j	乱層雲	乱層雲	nimbostratus
+j	乱打戦	乱打戦	両チームに大量の得点が入る試合で、特に互いの投手の…
+j	乱暴者	乱暴者	乱暴な行動をする者。あばれもの。乱暴人。
+j	乱気流	乱気流	地形や雷雲などにより大気中に生じる不規則な気流。
+j	乱痴気	乱痴気	取り乱して理性を失うこと。
+j	乱視の	乱視の	
+j	乱雑な	乱雑な	
+j	乱高下	乱高下	相場の上下が激しいこと。また一般に数値の上下が激し…
+j	俱楽部	俱楽部	一定の目的を持って、主に構成員の自発的意思により形…
+j	俱舎宗	俱舎宗	日本の南都六宗の一つ。中国十三宗の一つ。倶舎論を研…
+j	共依存	共依存	codependency
+j	共働き	共働き	both working; being doubl…
+j	共分散	共分散	組を成す二つの変量に対して、それぞれの偏差を組ごと…
+j	共同体	共同体	community
+j	共和党	共和党	the Republican Party
+j	共和制	共和制	多数の人々の意思によって政治が行われる制度
+j	共和国	共和国	republic (country)
+j	共和政	共和政	共和主義による政治。
+j	共変性	共変性	
+j	共感覚	共感覚	synaesthesia, synesthesia…
+j	共時性	共時性	
+j	共時的	共時的	synchronic
+j	共析鋼	共析鋼	およそ 0.77 重量パーセントの炭素を含み、全面…
+j	共犯者	共犯者	accomplice (an associate …
+j	共生の	共生の	
+j	共産党	共産党	communist party
+j	共用体	共用体	
+j	共益費	共益費	ビル等の維持管理・運営において経常的に要する費用（…
+j	共著者	共著者	
+j	共通点	共通点	point in common; common f…
+j	共通語	共通語	common language, lingua f…
+j	共重合	共重合	
+j	共食い	共食い	cannibalism in animals
+j	共鳴音	共鳴音	sonorant
+j	凱旋式	凱旋式	古代ローマで戦争に勝った将軍が帰還の際にローマを行…
+j	凱旋門	凱旋門	a triumphal arch; in part…
+j	励ます	励ます	to cheer up, to encourage…
+j	励起子	励起子	an exciton
+j	危うい	危うい	dangerous, critical, seri…
+j	危うく	危うく	
+j	危ない	危ない	dangerous, critical, peri…
+j	危ぶむ	危ぶむ	to fear for, to feel unce…
+j	危機感	危機感	sense of impending danger
+j	危殆な	危殆な	
+j	危殆化	危殆化	今まで安全だったものが危険にさらされるようになるこ…
+j	危険な	危険な	
+j	危険に	危険に	
+j	危険性	危険性	危険の虞。
+j	危険日	危険日	性行為を行うと高い確率で妊娠するとされる日。
+j	危険牌	危険牌	捨てると他家に放銃する可能性が高く、危険である牌。
+j	危険物	危険物	固有の性質に基づく火災、爆発、生理的有害作用を起こ…
+j	危険犯	危険犯	法益の侵害が結果として生じなくとも、侵害の危険性が…
+j	叱する	叱する	
+j	唱える	唱える	to chant, to recite
+j	唱歌集	唱歌集	
+j	嘱する	嘱する	entrust
+j	報いる	報いる	to reward; to repay; to r…
+j	報じる	報じる	to repay
+j	報ずる	報ずる	to inform; to report
+j	報告書	報告書	report, paper
+j	報告者	報告者	presenter, reporter
+j	報徳国	報徳国	
+j	報身仏	報身仏	誓願を立てて修行した報身の仏。
+j	報連相	報連相	reporting, communicating,…
+j	報道官	報道官	記者会見や報道機関の取材協力、広報、広聴などを行う…
+j	報道局	報道局	
+j	報道部	報道部	
+j	報道陣	報道陣	ある事件などの報道のために記者・カメラマンを配置す…
+j	壱岐国	壱岐国	日本の旧国（令制国）のひとつ。現在の長崎県壱岐にあ…
+j	失くす	失くす	lose something
+j	失する	失する	〔抽象名詞を、特にあるべきものや望ましいものを目的…
+j	失せる	失せる	to disappear; to vanish
+j	失せろ	失せろ	
+j	失意の	失意の	
+j	失敗作	失敗作	failed creation; failure
+j	失敗者	失敗者	loser, (a social) failure…
+j	失格の	失格の	
+j	失業率	失業率	unemployment rate
+j	失業者	失業者	an unemployed person
+j	失楽園	失楽園	16世紀イギリスの詩人ジョン・ミルトンによる旧約聖…
+j	失礼な	失礼な	
+j	失血死	失血死	多量の出血により生命維持に必要な血液が失われ死亡す…
+j	失語症	失語症	aphasia
+j	失読症	失読症	dyslexia
+j	失踪者	失踪者	missing person
+j	失顔症	失顔症	prosopagnosia; face blind…
+j	就ける	就ける	to appoint to a post, to …
+j	就業者	就業者	worker, employed person
+j	就職口	就職口	job opening
+j	山の手	山の手	山近い地。高台。山手。
+j	山中部	山中部	Intermountain Region (a r…
+j	山丹花	山丹花	Chinese ixora, Ixora chin…
+j	山口県	山口県	a prefecture in the 中国 (C…
+j	山吹色	山吹色	golden-yellow
+j	山吹草	山吹草	冬になっても枯れずに残り、年ごとに茎や葉を伸ばすケ…
+j	山地の	山地の	
+j	山城国	山城国	日本の旧国（令制国）のひとつ。現在の京都府南部にあ…
+j	山小屋	山小屋	mountain hut
+j	山山葵	山山葵	horseradish
+j	山岳会	山岳会	mountaineering club
+j	山岳戦	山岳戦	山岳地域での陸戦。
+j	山崩れ	山崩れ	a landslide, an avalanche…
+j	山帰来	山帰来	
+j	山形市	山形市	山形県の県庁所在地。特例市。
+j	山形県	山形県	a prefecture in 東北 (Tōhok…
+j	山手線	山手線	Yamanote Line, circular r…
+j	山括弧	山括弧	an angle bracket
+j	山査子	山査子	Japanese hawthorn, Cratae…
+j	山梨県	山梨県	an inland prefecture in t…
+j	山椒喰	山椒喰	スズメ目サンショウクイ科サンショウクイ属に属する鳥…
+j	山椒食	山椒食	ashy minivet, Pericrocotu…
+j	山椒魚	山椒魚	a primitive salamander; a…
+j	山樝子	山樝子	
+j	山歩き	山歩き	walking in the mountains
+j	山水牛	山水牛	anoa
+j	山水画	山水画	山や川などの自然の風景を描いた、東洋の絵画。
+j	山法師	山法師	ミズキ科ミズキ属に属する落葉高木の一種。
+j	山津波	山津波	landslide, landslip
+j	山海経	山海経	the Classic of Mountains …
+j	山海関	山海関	Shanhai Pass
+j	山滴る	山滴る	俳句で、草木の葉で覆われて緑が滴るように見える夏の…
+j	山火事	山火事	wildfire (rapidly spreadi…
+j	山牛蒡	山牛蒡	ヤマゴボウ科の多年草。根が牛蒡のような形状で有毒で…
+j	山登り	山登り	mountain climbing
+j	山眠る	山眠る	俳句で、静まり返る冬の山を形容する言葉。冬の季語。
+j	山積み	山積み	piling up (mountain-high)
+j	山笑う	山笑う	俳句で、草木が萌え出る春の山を形容する言葉。春の季…
+j	山粧う	山粧う	俳句で、紅葉で美しく飾ったような秋の山を形容する言…
+j	山縞馬	山縞馬	a mountain zebra
+j	山繭糸	山繭糸	tensan silk thread; silk …
+j	山繭蛾	山繭蛾	Japanese oak silkmoth, An…
+j	山羊座	山羊座	
+j	山羊肉	山羊肉	（食用の）山羊の肉。
+j	山羊角	山羊角	山羊の角。
+j	山羊髭	山羊髭	
+j	山羊麦	山羊麦	jointed goatgrass (Aegilo…
+j	山茄子	山茄子	synonym of 朝鮮朝顔 (chōsen a…
+j	山茱萸	山茱萸	Japanese cornel, Cornus o…
+j	山茶花	山茶花	the sasanqua (Camellia sa…
+j	山葡萄	山葡萄	crimson glory vine, Vitis…
+j	山蝙蝠	山蝙蝠	
+j	山装う	山装う	山粧うを参照。
+j	山間部	山間部	山々の間にある地域。
+j	山陰道	山陰道	律令制の五畿七道または五畿八道の一つ。おおむね現在…
+j	山陽道	山陽道	律令制の五畿七道または五畿八道の一つ。おおむね現在…
+j	山頂光	山頂光	
+j	山高帽	山高帽	
+j	山鳥茸	山鳥茸	
+j	山鳴り	山鳴り	rumbling in the mountains
+j	己喜男	己喜男	a male given name
+j	己実子	己実子	a female given name
+j	弱まる	弱まる	to become weak; to weaken…
+j	弱める	弱める	to make weak; to weaken
+j	弱位相	弱位相	XをK上のノルム空間とし、X^*={α~:~X→K…
+j	弱体化	弱体化	組織・体制などの力が弱くなること。
+j	弱収束	弱収束	弱位相において有向点族の極限が収束すること。
+j	弱塩基	弱塩基	水溶液などで電解度が小さい塩基。弱アルカリ。
+j	弱変化	弱変化	主にゲルマン語系の言語における語形変化の度合いで、…
+j	弱素数	弱素数	前後の素数の平均より自身が小さい素数。
+j	弱音器	弱音器	mute (device for dulling …
+j	影付き	影付き	
+j	影印本	影印本	photocopied facsimile of …
+j	影武者	影武者	a body double
+j	影法師	影法師	silhouette, shadow
+j	影踏み	影踏み	"stepping on shadows", a …
+j	影響力	影響力	influence
+j	影響源	影響源	
+j	抱える	抱える	
+j	抱き枕	抱き枕	dakimakura (type of body-…
+j	抱合語	抱合語	一つの単語に数多くの接辞が付されて文を構成するよう…
+j	旱蓮木	旱蓮木	ヌマミズキ科の落葉高木。中国原産。薬用に利用される…
+j	朱印地	朱印地	江戸時代、幕府から寺社に対し朱印状により安堵された…
+j	朱印状	朱印状	武将などが花押のかわりに朱印を押印した書状。江戸時…
+j	朱嘴鸛	朱嘴鸛	a white stork
+j	朱実子	朱実子	a female given name
+j	朱引き	朱引き	朱色で引かれた線。
+j	朱雀門	朱雀門	大内裏の正門
+j	東下り	東下り	going from Kyoto to easte…
+j	東京の	東京の	
+j	東京人	東京人	A person from Tokyo; a To…
+j	東京市	東京市	1943年の都制施行まで現在の東京都区部にあった市…
+j	東京府	東京府	1943年の都制施行までの東京都の呼称。
+j	東京湾	東京湾	Tōkyō Bay (a bay of Japan)
+j	東京灣	東京灣	東京湾の旧字体表記。
+j	東京都	東京都	the capital prefecture of…
+j	東北の	東北の	
+j	東北弁	東北弁	Tōhoku dialect
+j	東北忌	東北忌	東日本大震災が発生した3月11日。
+j	東北東	東北東	east-northeast
+j	東半球	東半球	Eastern Hemisphere (the h…
+j	東南の	東南の	
+j	東南亜	東南亜	Southeast Asia (a geograp…
+j	東南東	東南東	east-southeast
+j	東南海	東南海	和歌山県から愛知県にかけての沖合の太平洋。
+j	東名阪	東名阪	東京、名古屋、大阪の三つの大都市。
+j	東大寺	東大寺	Tōdai-ji (Buddhist temple…
+j	東実子	東実子	a female given name
+j	東山道	東山道	a former district of Japa…
+j	東微北	東微北	東と東北東との中間の方位。三十二方位の一つ。
+j	東微南	東微南	東と東南東との中間の方位。三十二方位の一つ。
+j	東方の	東方の	
+j	東方学	東方学	
+j	東日本	東日本	日本列島の東部地域。大きく以下の二義がある。
+j	東村山	東村山	Higashimurayama (a city i…
+j	東洋の	東洋の	
+j	東洋史	東洋史	西洋史を除いたアジアとアフリカの歴史。
+j	東洋学	東洋学	Oriental studies
+j	東洋画	東洋画	中国・朝鮮・日本の絵画の総称。
+j	東海岸	東海岸	東部の海岸沿いの地域。
+j	東海林	東海林	a surname
+j	東海道	東海道	律令制における行政区画の一つである五畿七道の一つ。…
+j	東照宮	東照宮	Shinto shrine in which To…
+j	東独逸	東独逸	ヨーロッパにあった国ドイツ民主共和国の通称である東…
+j	東雲色	東雲色	a peach color; yellowish …
+j	柱時計	柱時計	wall clock, grandfather c…
+j	深まる	深まる	deepen (become deeper)
+j	深める	深める	to deepen, intensify
+j	深セン	深セン	深圳の代用表記。「圳」が環境依存文字であることから…
+j	深刻な	深刻な	
+j	深刻化	深刻化	becoming more serious
+j	深呼吸	深呼吸	a deep breath
+j	深山烏	深山烏	
+j	深山鴉	深山鴉	
+j	深度化	深度化	内容を深めること。
+j	深成岩	深成岩	火成岩のうち、地下でゆっくりと冷え固まったもの。
+j	深海魚	深海魚	deep-sea fish
+j	深紅色	深紅色	深い紅色。
+j	深遠な	深遠な	
+j	熱する	熱する	to heat up
+j	熱中症	熱中症	heat stroke, hyperthermia
+j	熱伝導	熱伝導	一つの物体のなかで熱が高い方から低い方へ移動する現…
+j	熱処理	熱処理	材料に昇温、降温、温度保持などの操作を加えて、材料…
+j	熱分解	熱分解	物質を加熱した時に起こる分解の反応。
+j	熱力学	熱力学	thermodynamics
+j	熱力學	熱力學	熱力学の旧字体表記。
+j	熱効率	熱効率	ある熱機関が周囲に成す仕事を受け取る熱で割った数値。
+j	熱化学	熱化学	thermochemistry
+j	熱変性	熱変性	加熱により物質の性質が変性すること。加熱変性。
+j	熱容量	熱容量	ある物体またはある系の温度を単位温度だけ上げるのに…
+j	熱射病	熱射病	heat stroke
+j	熱帯夜	熱帯夜	最低気温が摂氏25度以上の日。
+j	熱帯魚	熱帯魚	熱帯地方に生息する魚類。
+j	熱心な	熱心な	
+j	熱心に	熱心に	
+j	熱暴走	熱暴走	thermal runaway
+j	熱機関	熱機関	熱エネルギーを機械的エネルギーあるいは仕事に変換す…
+j	熱気球	熱気球	a hot-air balloon
+j	熱氣球	熱氣球	hot-air balloon
+j	熱水泉	熱水泉	
+j	熱汚染	熱汚染	thermal pollution
+j	熱源室	熱源室	熱源設備を設置している部屋。
+j	熱烈な	熱烈な	
+j	熱狂的	熱狂的	zealous, extremely enthus…
+j	熱狂者	熱狂者	enthusiast, zealot, fanat…
+j	熱疲労	熱疲労	脱水に伴う体温の上昇により疲労のような体調の悪化を…
+j	熱痙攣	熱痙攣	高熱のために筋肉に起きる痙攣。
+j	熱的死	熱的死	宇宙の終焉についての仮説の一つで、宇宙のエントロピ…
+j	熱膨張	熱膨張	物体の構成粒子が温度上昇により熱運動の激しさを増す…
+j	熱膨脹	熱膨脹	物体の構成粒子が温度上昇により熱運動の激しさを増す…
+j	熱視線	熱視線	期待や好意など強い関心をもって見つめる眼差し。
+j	熱運動	熱運動	分子が常に起こしている微視的な運動。これが大きいほ…
+j	熱量計	熱量計	calorimeter
+j	熱電対	熱電対	
+j	由佳子	由佳子	a female given name
+j	由加莉	由加莉	a female given name
+j	由実子	由実子	a female given name
+j	由希奈	由希奈	a female given name
+j	由希子	由希子	a female given name
+j	由紀夫	由紀夫	a male given name
+j	由紀子	由紀子	a female given name
+j	由美子	由美子	a female given name
+j	由莉香	由莉香	a female given name
+j	由起子	由起子	a female given name
+j	由里子	由里子	a female given name
+j	箱の外	箱の外	
+j	箱信者	箱信者	an Xbox fanboy or fangirl…
+j	箱入り	箱入り	boxed, cased
+j	箱入娘	箱入娘	
+j	箱推し	箱推し	（サブカルチャー）アイドルグループの全員を応援する。
+j	箱河豚	箱河豚	
+j	箱髭図	箱髭図	box plot
+j	統べる	統べる	to dominate, to control, …
+j	統一性	統一性	uniformity
+j	統制派	統制派	the Tōseiha (Control Fact…
+j	統合軍	統合軍	軍種を統合して構成される部隊。
+j	統幕長	統幕長	統合幕僚長の略。
+j	統廃合	統廃合	consolidation by abolishm…
+j	統治権	統治権	the right to govern, sove…
+j	統治者	統治者	ruler
+j	統率者	統率者	leader, commander
+j	統計学	統計学	statistics
+j	統計家	統計家	統計に関わる業務に携わる者。
+j	統語論	統語論	syntax (as a field of stu…
+j	統辞論	統辞論	synonym of 統語論 (tōgoron):…
+j	綱引き	綱引き	tug of war
+j	綱曳き	綱曳き	
+j	綱渡り	綱渡り	tightrope walking (an acr…
+j	脱がす	脱がす	to take off (someone else…
+j	脱げる	脱げる	to slip off, to come off
+j	脱する	脱する	to escape from; to get out
+j	脱ゲイ	脱ゲイ	
+j	脱サラ	脱サラ	leaving one's job as a wh…
+j	脱プラ	脱プラ	環境汚染防止の為にプラスチックの消費量を削減する活…
+j	脱出芸	脱出芸	
+j	脱分極	脱分極	depolarization
+j	脱北者	脱北者	
+j	脱毛症	脱毛症	alopecia, baldness
+j	脱水機	脱水機	洗濯物などの水を絞るための機械。広義には、不要な水…
+j	脱水症	脱水症	dehydration
+j	脱炭素	脱炭素	地球温暖化対策として二酸化炭素の排出を減らすこと。
+j	脱真実	脱真実	being post-truth
+j	脱税者	脱税者	
+j	脱穀機	脱穀機	
+j	脱脂乳	脱脂乳	脂肪分をほぼ除去した牛乳。
+j	脱脂綿	脱脂綿	原料となる綿から不純物や脂肪分を取り除き、漂白、精…
+j	脱臭剤	脱臭剤	deodorizing agent; deodor…
+j	脱落者	脱落者	競争などで脱落した者。
+j	脱落膜	脱落膜	decidua
+j	脱衣場	脱衣場	浴場やプールなどで衣服を着脱する場所。脱衣所。
+j	脱衣所	脱衣所	浴場やプールなどで衣服を着脱する場所。脱衣場。
+j	脱走兵	脱走兵	deserter
+j	脱走者	脱走者	脱走する者。
+j	脱進機	脱進機	
+j	腱鞘炎	腱鞘炎	tenosynovitis
+j	花の宴	花の宴	a drinking and flower vie…
+j	花の色	花の色	a flower's hue or tint
+j	花の蜜	花の蜜	花の蜜腺から分泌される甘い液汁。花蜜^(（かみつ）…
+j	花の都	花の都	capital city
+j	花びら	花びら	a flower petal
+j	花一匁	花一匁	a traditional Japanese ch…
+j	花信風	花信風	春、花が咲くことを知らせる風。
+j	花冬菇	花冬菇	干ししいたけの規格のひとつ。冬菇のうち、傘へ亀裂が…
+j	花冷え	花冷え	a cool spell during sprin…
+j	花占い	花占い	foretelling based on the …
+j	花大根	花大根	
+j	花奈子	花奈子	a female given name
+j	花崗岩	花崗岩	granite
+j	花御堂	花御堂	灌仏会の際釈迦の誕生仏を安置する花で飾った仏堂。
+j	花御札	花御札	omamori for the flowers a…
+j	花時計	花時計	floral clock
+j	花林糖	花林糖	a deep fried snack made o…
+j	花柳界	花柳界	花柳（芸者や遊女など）の世界。遊郭。
+j	花柳病	花柳病	venereal disease, sexuall…
+j	花椰菜	花椰菜	「カリフラワー」の別名。
+j	花模様	花模様	floral pattern
+j	花水木	花水木	Cornus florida, the flowe…
+j	花火師	花火師	花火の製造、打ち上げを行う工匠。
+j	花独活	花独活	Heracleum sphondylium var…
+j	花珠水	花珠水	a female given name
+j	花珠葉	花珠葉	a female given name
+j	花甘藍	花甘藍	synonym of カリフラワー (karifu…
+j	花相撲	花相撲	hanazumo, an exhibition t…
+j	花粉症	花粉症	hay fever
+j	花粉管	花粉管	花粉が、柱頭に受粉してから受精するために胚珠に伸ば…
+j	花紺青	花紺青	
+j	花縮砂	花縮砂	ショウガ科シュクシャ属の多年草。東南アジア原産。観…
+j	花艶子	花艶子	a female given name
+j	花菖蒲	花菖蒲	アヤメ科アヤメ属に属する多年草。野花菖蒲の園芸品種。
+j	花薄荷	花薄荷	synonym of オレガノ (“oregano…
+j	花蘇芳	花蘇芳	Chinese redbud, Cercis ch…
+j	花被片	花被片	tepal
+j	花言葉	花言葉	
+j	花野菜	花野菜	synonym of カリフラワー (karifu…
+j	花魁鳥	花魁鳥	synonym of エトピリカ (etopiri…
+j	花麒麟	花麒麟	
+j	英々語	英々語	
+j	英トン	英トン	long ton
+j	英二郎	英二郎	a male given name
+j	英五郎	英五郎	a male given name
+j	英会話	英会話	conversation in English
+j	英作文	英作文	英語で作文を作ること。また、その作文。
+j	英単語	英単語	English word
+j	英吉利	英吉利	dated spelling of イギリス: E…
+j	英四郎	英四郎	a male given name
+j	英国の	英国の	
+j	英国人	英国人	A British person; a Brito…
+j	英国化	英国化	
+j	英実子	英実子	a female given name
+j	英数の	英数の	
+j	英数字	英数字	alphanumeric characters, …
+j	英文学	英文学	イギリスもしくはアメリカの作家または英語により書か…
+j	英文法	英文法	英語の文法。
+j	英米法	英米法	イギリスやアメリカ合衆国などイギリスの影響を受けた…
+j	英英語	英英語	
+j	英語の	英語の	
+j	英語圏	英語圏	Anglosphere (set of anglo…
+j	英語学	英語学	
+j	英連邦	英連邦	Commonwealth of Nations
+j	英里佳	英里佳	a female given name
+j	英里香	英里香	a female given name
+j	英雄家	英雄家	鎌倉時代以降、幕末まで大将や大臣を兼ねた太政大臣に…
+j	英雄譚	英雄譚	heroic tale
+j	莱菔子	莱菔子	seeds of Raphanus sativus…
+j	菱形筋	菱形筋	a rhomboid muscle
+j	虱目魚	虱目魚	milkfish, Chanos chanos
+j	蠱惑的	蠱惑的	人心を惹きつけて惑わすさま
+j	許三郎	許三郎	a male given name
+j	許可証	許可証	ある事柄について許可する証書。
+j	許認可	許認可	permission
+j	話した	話した	
+j	話し中	話し中	発信した先の電話が既に別の電話と通話を行っている状…
+j	話し手	話し手	speaker
+j	話し方	話し方	
+j	話半分	話半分	taking a story with a gra…
+j	話題化	話題化	
+j	話題性	話題性	propensity of becoming th…
+j	辱める	辱める	humiliate, shame, mortify
+j	週五日	週五日	five days in the week
+j	週刊紙	週刊紙	週に一度発行される新聞。週刊新聞。
+j	週刊誌	週刊誌	weekly magazine
+j	週明け	週明け	新しい週となること。
+j	鉱業権	鉱業権	国の許可、登録を受け、その一定の鉱区で探鉱、採掘し…
+j	鉱業的	鉱業的	鉱業に関するさま。
+j	鉱泉水	鉱泉水	mineral water
+j	鉱物の	鉱物の	
+j	鉱物学	鉱物学	mineralogy
+j	鉱物油	鉱物油	mineral oil
+j	靱帯学	靱帯学	靭帯学の異表記。
+j	鬱病の	鬱病の	
+j	鬱金色	鬱金色	the color of turmeric, a …
+j	鬱金花	鬱金花	ダンコウバイの別名。『牧野日本植物圖鑑』ではこれが…
+j	鬱金香	鬱金香	tulip
+j	鬱陵島	鬱陵島	
+k	개선문	凱旋門	a triumphal arch; in part…
+k	건초염	腱鞘炎	
+k	공동체	共同体	community
+k	공동체	共同體	community
+k	공범자	共犯者	accomplice
+k	공산당	共産党	communist party
+k	공산당	共産黨	communist party
+k	공저자	共著者	coauthor
+k	공통적	共通的	common, shared
+k	공통점	共通点	commonality
+k	공통점	共通點	commonality
+k	공화국	共和国	republic
+k	공화국	共和國	republic
+k	광물유	鉱物油	mineral oil
+k	광물학	鉱物学	mineralogy
+k	광천수	鉱泉水	mineral water
+k	구락부	俱樂部	club
+k	동구권	東欧圏	the Eastern Bloc
+k	동구권	東歐圈	the Eastern Bloc
+k	동남동	東北東	
+k	동남아	東南亜	Southeast Asia
+k	동남아	東南亞	Southeast Asia
+k	동미남	東微南	
+k	동미북	東微北	
+k	동북동	東北東	
+k	동북아	東北亜	Northeast Asia
+k	동북아	東北亞	Northeast Asia
+k	동양인	東洋人	east Eurasian (person), e…
+k	동양학	東洋学	Oriental studies
+k	동양학	東洋學	Oriental studies
+k	발효소	醱酵素	
+k	보고서	報告書	report, paper
+k	보고자	報告者	reporter
+k	보복구	報復球	intentional hit-by-pitch
+k	북마케도니아 공화국	共和国	
+k	북마케도니아 공화국	共和國	
+k	산당화	山棠花	A flowering quince, Chaen…
+k	산사태	山沙汰	landslide
+k	산신각	山神閣	small building within a K…
+k	산신령	山神霊	the spirit of the Mountai…
+k	산신령	山神靈	the spirit of the Mountai…
+k	산양좌	山羊座	Capricorn
+k	산유화	山有花	azalea; mountain flower
+k	산주인	山主人	tiger (animal)
+k	산초나무	山椒‒	The mastic-leaf prickly a…
+k	산토끼	山토끼	hare, literally, mountain…
+k	산해관	山海関	Shanhai Pass
+k	산해관	山海關	Shanhai Pass
+k	슬로베니아 공화국	共和国	
+k	슬로베니아 공화국	共和國	
+k	실어증	失語症	aphasia
+k	실업률	失業率	unemployment rate
+k	실업자	失業者	an unemployed or jobless …
+k	실패자	失敗者	loser, (a social) failure…
+k	실향민	失郷民	displaced person
+k	실향민	失鄕民	displaced person
+k	심호흡	深呼吸	deep breathing, conscious…
+k	심홍색	深紅色	
+k	약하다	弱하다	to be weak
+k	열광자	熱狂者	enthusiast, zealot, fanat…
+k	열기구	熱気球	hot-air balloon
+k	열기구	熱氣球	hot-air balloon
+k	열대림	熱帯林	tropical rainforest
+k	열대림	熱帶林	tropical rainforest
+k	열람실	閱覽室	reading room
+k	열량계	熱量計	calorimeter
+k	열목어	熱目魚	lenok (Brachymystax lenok)
+k	열병식	閱兵式	
+k	열사병	熱射病	heatstroke
+k	열역학	熱力学	thermodynamics
+k	열역학	熱力學	thermodynamics
+k	열전대	熱電対	
+k	열전대	熱電對	
+k	열중증	熱中症	hyperthermia
+k	열지수	熱指数	열로 인한 신체적 스트레스를 측정하는데 쓰이는…
+k	열지수	熱指數	열로 인한 신체적 스트레스를 측정하는데 쓰이는…
+k	열화학	熱化学	thermochemistry
+k	열화학	熱化學	thermochemistry
+k	영국인	英国人	British (person)
+k	영국인	英國人	British (person)
+k	영미권	英美圈	The Anglosphere; the pred…
+k	영미권	英美圏	The Anglosphere; the pred…
+k	영어권	英語圈	The Anglosphere; the area…
+k	영어권	英語圏	The Anglosphere; the area…
+k	영연방	英聯邦	Commonwealth of Nations
+k	영웅심	英雄心	
+k	영포자	英抛者	someone who has given up …
+k	영향력	影響力	influence
+k	울릉도	鬱陵島	
+k	위험물	危険物	
+k	위험물	危險物	
+k	은신처	隱身處	hideout, hideaway, refuge…
+k	은화과	隱花果	syconium
+k	종횡가	縱橫家	School of Diplomacy
+k	종횡비	縱橫比	
+k	주황색	朱黃色	orange (color)
+k	주황색	朱黄色	orange (color)
+k	취업률	就業率	
+k	칭찬하다	稱讚—	to compliment, to praise
+k	탈모증	脱毛症	
+k	탈북자	脱北者	North Korean defectors/re…
+k	탈세자	脱税者	
+k	탈영병	脱営兵	deserter
+k	탈영자	脱営者	deserter
+k	탈의실	脱衣室	changing room; fitting ro…
+k	탈조선	脱朝鮮	moving to other countries…
+k	탈주병	脱走兵	deserter
+k	탈주자	脱走者	fugitive; defector
+k	탈지유	脱脂乳	
+k	탈진기	脱進機	
+k	탈출기	脱出記	Exodus (second book of th…
+k	탈출열	脱出列	
+k	탈취제	脱臭剤	deodorant
+k	통계학	統計学	statistics (science)
+k	통계학	統計學	statistics (science)
+k	통사론	統辞論	syntax
+k	통사론	統辭論	syntax
+k	통솔자	統率者	a leader, a commander
+k	통어론	統語論	syntax
+k	통일안	統一案	proposal for unification
+k	통치자	統治者	ruler (a person exercisin…
+k	허하다	許하다	to permit; to allow
+k	화강암	花崗岩	granite
+k	화강암	花崗巌	granite
+k	화강암	花崗巖	granite
+k	화류병	花柳病	성병.
+k	희곡집	戱曲集	playbook
+j	乱打する	乱打する	
+j	乱数放送	乱数放送	
+j	乱暴狼藉	乱暴狼藉	荒々しい行動で秩序を乱すこと。
+j	乱臣賊子	乱臣賊子	不忠不孝の者を指す語。「乱臣」は「国を乱す臣」、「…
+j	乱費する	乱費する	
+j	乱離骨灰	乱離骨灰	散り散りに離れて、滅茶苦茶になること。
+j	共円条件	共円条件	四角形が円に内接する条件。円周角の定理、内接四角形…
+j	共同主権	共同主権	
+j	共同住宅	共同住宅	一棟の建物をいくつかの区画に分けられ、独立した二つ…
+j	共同出資	共同出資	joint investment
+j	共同墓地	共同墓地	地方公共団体が公衆のために設置する墓地。また、団体…
+j	共同闘争	共同闘争	joint struggle
+j	共和主義	共和主義	共和制を支持する考え方。君主を置かず、国民から選ば…
+j	共和党員	共和党員	Republican (a member or s…
+j	共存する	共存する	
+j	共存共栄	共存共栄	
+j	共有する	共有する	
+j	共有結合	共有結合	
+j	共済年金	共済年金	かつて共済組合が組合員に対し支給していた年金。20…
+j	共済組合	共済組合	mutual aid society, benef…
+j	共点条件	共点条件	一次元以上の空間において2つの点が一致する条件。
+j	共産主義	共産主義	communism
+j	共産党員	共産党員	
+j	共産趣味	共産趣味	casual fascination with C…
+j	共用する	共用する	
+j	共用部分	共用部分	（法律、建築）一棟の建物に、構造上区分された数個の…
+j	共用階段	共用階段	
+j	共線条件	共線条件	二次元以上の空間において3つの点が同一直線上に存在…
+j	共通部分	共通部分	複数の物事において、部分的に共通する箇所。
+j	共通集合	共通集合	intersection
+j	共面条件	共面条件	三次元以上の空間において4つの点が同一平面上に存在…
+j	励起する	励起する	
+j	危害要因	危害要因	危害の要因。食品安全分野等で使用される英語の"ha…
+j	危急存亡	危急存亡	存するか亡ぶるかという、極めて危うい場合。生きるか…
+j	危機の海	危機の海	月面の表側の東部に位置する海。
+j	危機一髪	危機一髪	imminent danger, a close …
+j	危機管理	危機管理	crisis management
+j	危険信号	危険信号	
+j	危険水域	危険水域	dangerous body of water
+j	叱責する	叱責する	
+j	報われる	報われる	
+j	報告する	報告する	
+j	報復する	報復する	
+j	報復主義	報復主義	
+j	報道機関	報道機関	新聞社・放送局など社会の出来事を広く一般に知らせる…
+j	壱百零八	壱百零八	suparinpei, the most adva…
+j	失効する	失効する	
+j	失敗する	失敗する	
+j	失敬千万	失敬千万	extremely rude (impertine…
+j	失明した	失明した	
+j	失望した	失望した	
+j	失礼千万	失礼千万	extremely rude (impertine…
+j	失神する	失神する	
+j	失笑噴飯	失笑噴飯	面白くて、思わず吹き出してしまうこと。
+j	失踪宣告	失踪宣告	一定の期間生死不明の状態が続いた者を死亡した者と認…
+j	失速する	失速する	
+j	就塒する	就塒する	
+j	就寝分離	就寝分離	家族のそれぞれが別の部屋で眠ること。
+j	就業人口	就業人口	
+j	就職試験	就職試験	その企業などへの就職を希望する者を選抜するための試…
+j	山わさび	山わさび	
+j	山千海千	山千海千	世の中の裏も表も知り尽くした経験豊富な人物のこと。
+j	山原水鶏	山原水鶏	Okinawa rail, Gallirallus…
+j	山家五位	山家五位	
+j	山川万里	山川万里	being far away across mou…
+j	山川草木	山川草木	nature
+j	山林所得	山林所得	日本国の所得税法に規定する所得の種類の一つ。山林の…
+j	山林火災	山林火災	山林、原野の草木が火災によりある程度の範囲が焼失す…
+j	山田太郎	山田太郎	a generic male placeholde…
+j	山田花子	山田花子	a generic female placehol…
+j	山籠もり	山籠もり	training in seclusion on …
+j	山紫水明	山紫水明	scenic beauty
+j	山縣有朋	山縣有朋	明治時代から大正時代の日本の政治家。1838年（天…
+j	山葵大根	山葵大根	horseradish
+j	山間盆地	山間盆地	造山運動が発生している地帯に存在する、造山運動後期…
+j	山高帽子	山高帽子	a bowler hat
+j	山鳴らし	山鳴らし	
+j	弱々しい	弱々しい	
+j	弱い核力	弱い核力	
+j	弱くする	弱くする	
+j	弱くなる	弱くなる	
+j	弱らせる	弱らせる	
+j	弱化する	弱化する	
+j	弱変化の	弱変化の	
+j	弱弱しい	弱弱しい	frail, slender
+j	弱者男性	弱者男性	man with weak elements su…
+j	弱肉強食	弱肉強食	law of the jungle
+j	影の政府	影の政府	
+j	影響する	影響する	
+j	抱え込む	抱え込む	hold in one's arms
+j	抱きしめ	抱きしめ	
+j	抱き合う	抱き合う	to embrace each other; to…
+j	抱擁する	抱擁する	
+j	抱締める	抱締める	to hug, to embrace closely
+j	旱天慈雨	旱天慈雨	merciful rain in a drough…
+j	朱陽の節	朱陽の節	夏。
+j	朱雀大路	朱雀大路	都を南北に貫く一番大きな道路。
+j	朱鷺嘴鳧	朱鷺嘴鳧	an ibisbill
+j	東かがわ	東かがわ	Higashikagawa (a city in …
+j	東アジア	東アジア	East Asia (a geographic r…
+j	東シナ海	東シナ海	the East China Sea
+j	東ジャワ	東ジャワ	
+j	東ドイツ	東ドイツ	East Germany (a former Co…
+j	東京時代	東京時代	明治以降の、東京に政府が置かれている時代。
+j	東側諸国	東側諸国	the Eastern Bloc
+j	東八箇国	東八箇国	関東地方（足柄以東）8か国の総称。相模・武蔵・安房…
+j	東北地方	東北地方	Tōhoku (a traditional reg…
+j	東北日本	東北日本	《地質学》フォッサマグナを境として、東側の日本列島。
+j	東奔西走	東奔西走	busying oneself, running …
+j	東山地方	東山地方	東山道に属した山梨県、長野県、岐阜県の総称。
+j	東山文化	東山文化	室町時代後期に京都の東山で興った質素な文化。
+j	東支那海	東支那海	東シナ海の別表記。
+j	東方教会	東方教会	キリスト教でビザンツ帝国の教会を起源とする、東方正…
+j	東沙群島	東沙群島	synonym of 東沙諸島 (Tōsa Sho…
+j	東沙諸島	東沙諸島	the Pratas Islands
+j	東洋医学	東洋医学	東洋のそれぞれの地域で起こり、発展した医学。
+j	東海地方	東海地方	中部地方の一部を含む太平洋側にあり、陸上で関東地方…
+j	東海夫人	東海夫人	貽貝の異名。
+j	東西南北	東西南北	east, west, south and nor…
+j	東風解凍	東風解凍	はるかぜ こおりを とく。七十二候の一つ。立春の初…
+j	梱包する	梱包する	
+j	深い苦痛	深い苦痛	
+j	深夜営業	深夜営業	深夜の時間帯に営業すること。
+j	深層学習	深層学習	deep learning
+j	深層崩壊	深層崩壊	深層の地盤までもが崩壊する土砂災害。
+j	深層心理	深層心理	自分では気付かない無意識下における心理状態のこと。
+j	深慮遠謀	深慮遠謀	遠い先まで見通し、周到に計画すること。深謀遠慮。
+j	深指屈筋	深指屈筋	a flexor digitorum profun…
+j	深発地震	深発地震	震源が深い（地下深い場所で発生する）地震。震源の深…
+j	深紅色の	深紅色の	
+j	深謀遠慮	深謀遠慮	遠い先まで見通し、周到に計画すること。深慮遠謀。
+j	深部体温	深部体温	身体の中心付近の体温。
+j	漱石枕流	漱石枕流	負け惜しみの強いこと。
+j	熱いです	熱いです	
+j	熱い戦争	熱い戦争	
+j	熱を通す	熱を通す	to heat; to cook
+j	熱伝導率	熱伝導率	
+j	熱冷まし	熱冷まし	疾患などにより高くなった体温を下げること。また、そ…
+j	熱力学者	熱力学者	熱力学を研究する科学者。
+j	熱化学者	熱化学者	熱化学を研究する科学者。
+j	熱可塑性	熱可塑性	物体に熱を加わえて高温にすると軟化および流動化し、…
+j	熱圏界面	熱圏界面	熱圏と外気圏の境界。
+j	熱帯擾乱	熱帯擾乱	熱帯地方に発生する大気の擾乱。
+j	熱帯雨林	熱帯雨林	a tropical rainforest
+j	熱愛する	熱愛する	
+j	熱望する	熱望する	
+j	熱核兵器	熱核兵器	a thermonuclear weapon
+j	熱殺蜂球	熱殺蜂球	hot defensive bee ball (d…
+j	熱狂的に	熱狂的に	
+j	熱硬化性	熱硬化性	高分子材料などが持つ、熱を加わえて高温にすると硬化…
+j	由緒書き	由緒書き	document/text describing …
+j	箱入り娘	箱入り娘	girl who has led a shelte…
+j	統一する	統一する	
+j	統一協会	統一協会	Unification Church
+j	統一教会	統一教会	Unification Church
+j	統合する	統合する	
+j	統治する	統治する	
+j	統率領域	統率領域	command zone
+j	統計力学	統計力学	statistical mechanics
+j	統計学者	統計学者	統計学を研究する科学者。
+j	統語的な	統語的な	
+j	綱渡り師	綱渡り師	
+j	綱紀粛正	綱紀粛正	国家の規律を整備し、施政の風紀を正すこと。
+j	脱がせる	脱がせる	
+j	脱ぼっち	脱ぼっち	graduating from loner sta…
+j	脱コロナ	脱コロナ	removal of restriction ag…
+j	脱ドル化	脱ドル化	
+j	脱ニート	脱ニート	escaping NEETdom
+j	脱マスク	脱マスク	giving up wearing a mask …
+j	脱亜入欧	脱亜入欧	"exit from Asia and entry…
+j	脱共産化	脱共産化	
+j	脱出する	脱出する	
+j	脱出速度	脱出速度	
+j	脱力発作	脱力発作	
+j	脱却する	脱却する	
+j	脱営する	脱営する	
+j	脱毛する	脱毛する	
+j	脱水する	脱水する	
+j	脱法行為	脱法行為	法令やルールで禁止されている手段とその結果を正当な…
+j	脱穀する	脱穀する	
+j	脱窒する	脱窒する	
+j	脱脂粉乳	脱脂粉乳	脂肪分を取り除いた脱脂乳を濃縮して乾燥し、粉末にし…
+j	脱臼する	脱臼する	
+j	脱衣花札	脱衣花札	strip hanafuda, a Japanes…
+j	脱衣麻雀	脱衣麻雀	strip mahjong, a Japanese…
+j	脱走する	脱走する	
+j	腱付着部	腱付着部	
+j	艱難辛苦	艱難辛苦	hardship
+j	花卉園芸	花卉園芸	
+j	花吐き病	花吐き病	Hanahaki, an illness affe…
+j	花嫁衣装	花嫁衣装	
+j	花火大会	花火大会	fireworks show; fireworks…
+j	花火石菖	花火石菖	Juncus alatus
+j	花種付花	花種付花	
+j	花街柳巷	花街柳巷	色町のこと。柳巷花街とも。
+j	花鳥風月	花鳥風月	the beauties of nature
+j	英仏海峡	英仏海峡	
+j	英和辞典	英和辞典	英語の単語や熟語を日本語で定義し、用法等を解説した…
+j	英国婦人	英国婦人	
+j	英英辞典	英英辞典	英語の語句を英語で定義した辞典を、英語が母国語でな…
+j	英語話者	英語話者	
+j	英語辞典	英語辞典	英語の単語や熟語、用法等を解説した辞書。
+j	英雄主義	英雄主義	synonym of ヒロイズム (hiroizu…
+j	英雄時代	英雄時代	the Heroic Age
+j	菱亜鉛鉱	菱亜鉛鉱	
+j	虱潰しに	虱潰しに	exhaustively, thoroughly,…
+j	袱紗料理	袱紗料理	a style of Japanese cuisi…
+j	許せない	許せない	
+j	許可する	許可する	
+j	許容字体	許容字体	標準的な字体と異なりつつ、表記を改めなくてもよいと…
+j	話が付く	話が付く	come to terms, reach agre…
+j	話しぶり	話しぶり	one's manner of speaking,…
+j	話し合い	話し合い	consultation, talk, talki…
+j	話し合う	話し合う	discuss
+j	話し振り	話し振り	
+j	話すこと	話すこと	
+j	話をする	話をする	
+j	週刊新聞	週刊新聞	週に一度発行される新聞。週刊紙。
+j	鉱物学者	鉱物学者	鉱物学を研究する科学者。
+j	駱駝騎兵	駱駝騎兵	ラクダに騎乗する兵種。
+j	鬱くしい	鬱くしい	melancholy yet beautiful
+j	鬱肉漏脯	鬱肉漏脯	腐って臭い肉のこと。
+j	鬱金木綿	鬱金木綿	鬱金色に染めた木綿。
+j	鬱金空木	鬱金空木	Weigela middendorffiana
+j	鬱陶しい	鬱陶しい	annoying, pesky
+j	鬱鬱葱葱	鬱鬱葱葱	草木が茂っている様子。
+k	공동 친권	共同親権	joint custody
+k	공동 친권	共同親權	joint custody
+k	공동묘지	共同墓地	
+k	공산주의	共產主義	communism
+k	공산주의	共産主義	communism
+k	공유결합	共有結合	
+k	동문서답	東問西答	an irrelevant answer
+k	동서고금	東西古今	all times and all places
+k	동중국해	東中国海	East China Sea (a sea in …
+k	동중국해	東中國海	East China Sea (a sea in …
+k	보도기관	報道機関	
+k	보도기관	報道機關	
+k	보도자료	報道資料	press release
+k	보복주의	報復主義	
+k	산림 파괴	山林破壊	
+k	산림 파괴	山林破壞	
+k	실례하다	失礼하다	to be rude
+k	실례하다	失禮하다	to be rude
+k	실패하다	失敗하다	to fail (a task or action)
+k	심사숙고	深思熟考	careful consideration
+k	심산유곡	深山幽谷	high mountains and deep v…
+k	약육강식	弱肉強食	law of the jungle
+k	약육강식	弱肉强食	law of the jungle
+k	열대우림	熱帯雨林	tropical rainforest
+k	열대우림	熱帶雨林	tropical rainforest
+k	열핵무기	熱核武器	
+k	열핵병기	熱核兵器	
+k	열핵폭탄	熱核爆弾	
+k	열핵폭탄	熱核爆彈	
+k	영국 해협	英国海峡	English Channel (a sea in…
+k	영국 해협	英國海峽	English Channel (a sea in…
+k	영국영어	英国英語	
+k	영국영어	英國英語	
+k	영웅주의	英雄主義	
+k	위험관리	危険管理	
+k	위험관리	危險管理	
+k	위험물질	危険物質	
+k	위험물질	危險物質	
+k	위험신호	危険信号	
+k	위험신호	危險信號	
+k	은은하다	隱隱하다	to be faint, to be indist…
+k	은퇴하다	隱退하다	to retire
+k	주기률표	週期律表	North Korea standard spel…
+k	주기율표	週期律表	periodic table
+k	질책하다	叱責하다	to rebuke, to reprimand
+k	탈공산화	脱共産化	
+k	탈세계화	脱世界化	
+k	탈지분유	脱脂粉乳	
+k	탈출하다	脱出하다	to get away, to escape
+k	통치기간	統治期間	
+j	乱数生成器	乱数生成器	
+j	乱痴気騒ぎ	乱痴気騒ぎ	ひどく大騒ぎをすること。どんちゃん騒ぎ。
+j	共同でやる	共同でやる	
+j	共同著作物	共同著作物	複数の人物または法人が共同して作る著作物で、なおか…
+j	共同通信社	共同通信社	Kyodo News Agency
+j	共和主義者	共和主義者	共和主義の立場をとりそれを主張する者。
+j	共役複素数	共役複素数	ある複素数に対し、虚部の符号を反転した複素数。ある…
+j	共感性羞恥	共感性羞恥	
+j	共産主義の	共産主義の	
+j	共産主義者	共産主義者	communist
+j	共産党宣言	共産党宣言	communist party manifesto
+j	共産党細胞	共産党細胞	communist cell
+j	共融混合物	共融混合物	複数の成分が混合した溶液を冷却したとき、同時に析出…
+j	共軛複素数	共軛複素数	ある複素数に対し、虚部の符号を反転した複素数。ある…
+j	危うくする	危うくする	
+j	危険植物学	危険植物学	
+j	叱り付ける	叱り付ける	scold away, rebuke strong…
+j	報復主義者	報復主義者	
+j	報道の自由	報道の自由	freedom of press
+j	失敗のない	失敗のない	
+j	失望させる	失望させる	
+j	失礼します	失礼します	excuse me, I'm sorry
+j	就学前教育	就学前教育	入学する前に行われる教育のこと。日本では幼稚園、特…
+j	就職させる	就職させる	
+j	就職氷河期	就職氷河期	不況に伴い就職が非常に難しくなった時期。
+j	山上の垂訓	山上の垂訓	新約聖書でイエスが山の上（具体的な場所は諸説あり）…
+j	山地マリ語	山地マリ語	
+j	山家の五位	山家の五位	
+j	山本権兵衛	山本権兵衛	大正時代の日本の政治家。1852年（嘉永5年） -…
+j	山査子の実	山査子の実	
+j	山海の珍味	山海の珍味	all sorts of delicacies, …
+j	弱みを握る	弱みを握る	to have something on (som…
+j	弱アルカリ	弱アルカリ	「弱塩基」を参照。
+j	弱気になる	弱気になる	
+j	弱音を吐く	弱音を吐く	to complain; to whine
+j	抱き抱える	抱き抱える	to hold in arms
+j	抱き締める	抱き締める	to hold someone tight, to…
+j	朱を入れる	朱を入れる	to correct; to modify
+j	東アジア人	東アジア人	
+j	東アフリカ	東アフリカ	アフリカ大陸東部。
+j	東サマール	東サマール	
+j	東スラブ人	東スラブ人	「東スラヴ人」の表記揺れ。
+j	東スラヴ人	東スラヴ人	スラヴ人のうち東側に暮らす人々。ロシア人、ウクライ…
+j	東チモール	東チモール	East Timor (a country in …
+j	東ネグロス	東ネグロス	
+j	東ベルリン	東ベルリン	
+j	東ミンドロ	東ミンドロ	
+j	東南アジア	東南アジア	Southeast Asia (a geograp…
+j	東方正教会	東方正教会	Eastern Orthodox Church
+j	東方諸教会	東方諸教会	正教会にもローマ・カトリック教会にも属さない宗派で…
+j	東日本方言	東日本方言	東日本で話される日本語の方言の総称。東部方言（とう…
+j	東部標準時	東部標準時	Eastern Standard Time
+j	深層心理学	深層心理学	無意識に想定される構造等によって、人間の行動や経験…
+j	深山川蜻蛉	深山川蜻蛉	Calopteryx cornelia (a sp…
+j	深掘りした	深掘りした	
+j	熱力学温度	熱力学温度	絶対温度のこと。
+j	熱帯低気圧	熱帯低気圧	熱帯、亜熱帯で発生した低気圧。
+j	熱水噴出孔	熱水噴出孔	深海底にあり摂氏数百度の高温の水を吹き出す穴。高圧…
+j	統一された	統一された	
+j	統一できる	統一できる	
+j	統合失調型	統合失調型	
+j	統合失調症	統合失調症	schizophrenia
+j	統合失調質	統合失調質	
+j	統計物理学	統計物理学	「統計力学」を参照。
+j	統計的推論	統計的推論	
+j	綱渡をする	綱渡をする	
+j	脱出ゲーム	脱出ゲーム	ある場所から脱出する時間の速さを競うゲーム。
+j	脱出ポッド	脱出ポッド	
+j	脱植民地化	脱植民地化	decolonization
+j	脱構築する	脱構築する	
+j	脱水素酵素	脱水素酵素	
+j	花より団子	花より団子	"dango (rice flour dumpli…
+j	花キャベツ	花キャベツ	synonym of カリフラワー (karifu…
+j	花嫁介添人	花嫁介添人	
+j	花崗閃緑岩	花崗閃緑岩	granodiorite
+j	花道を飾る	花道を飾る	華々しく引退すること。惜しまれながら引退する人に使…
+j	英国化する	英国化する	
+j	英雄叙事詩	英雄叙事詩	heroic epic poetry
+j	葱鮪の殿様	葱鮪の殿様	古典落語の演目のひとつ。とある殿様が庶民向けの煮売…
+j	許されない	許されない	
+j	許可された	許可された	
+j	話し掛ける	話し掛ける	to address; to speak to
+j	話し言葉の	話し言葉の	
+j	話を付ける	話を付ける	settle a matter
+j	話題になる	話題になる	to be a subject of discus…
+j	鉱山労働者	鉱山労働者	
+j	鉱石ラジオ	鉱石ラジオ	鉱石と金属の間の整流作用を利用したラジオ。
+k	공동 양육권	共同養育権	joint custody
+k	공동 양육권	共同養育權	joint custody
+k	공산주의자	共産主義者	communist
+k	낙타	駱駝/駱駞	camel
+k	난수 발생기	乱数発生機	
+k	동부꾸드스	東部꾸드스	East Jerusalem
+k	동예루살렘	東예루살렘	East Jerusalem
+k	락타	駱駝/駱駞	North Korea standard spel…
+k	산악자전거	山岳自転車	
+k	산악자전거	山岳自轉車	
+k	탈식민지화	脱植民地化	
+j	共同して働く	共同して働く	
+j	共和政ローマ	共和政ローマ	紀元前509年に最後のローマ王が追放されてから紀元…
+j	共産主義者の	共産主義者の	
+j	危なっかしい	危なっかしい	seemingly dangerous; scary
+j	危急存亡の秋	危急存亡の秋	存立するか滅亡するかという、極めて危うい時期。「秋…
+j	危機に瀕する	危機に瀕する	
+j	危険物取扱者	危険物取扱者	危険物の取り扱いを行う職業。
+j	失われた世代	失われた世代	
+j	失敗だらけの	失敗だらけの	
+j	失礼しました	失礼しました	
+j	山岳トンネル	山岳トンネル	山地を越えるために、その下に建設されるトンネル。
+j	山岳部標準時	山岳部標準時	Mountain Standard Time
+j	山手線ゲーム	山手線ゲーム	party game in which playe…
+j	弱い相互作用	弱い相互作用	weak interaction
+j	影も形もない	影も形もない	nowhere to be seen, nowhe…
+j	影も形も無い	影も形も無い	存在していたはずの人やものの形跡が見当たらない。
+j	東エルサレム	東エルサレム	
+j	東ゲルマン人	東ゲルマン人	ゲルマン人のうち東方に暮らした人々。ゴート人、ヴァ…
+j	東シベリア海	東シベリア海	
+j	東スラヴ語群	東スラヴ語群	印欧語族スラヴ語派の語群の一つ。ロシア語、ウクライ…
+j	東ティモール	東ティモール	East Timor (a country in …
+j	東バルト語群	東バルト語群	印欧語族バルト語派の語群の一つ。東欧のリトアニア語…
+j	東ピレネー県	東ピレネー県	
+j	東フリジア語	東フリジア語	ドイツの北部などで話されている、インド・ヨーロッパ…
+j	東プロイセン	東プロイセン	
+j	東ヨーロッパ	東ヨーロッパ	Eastern Europe (a socio-p…
+j	東ローマ帝国	東ローマ帝国	the Eastern Roman Empire
+j	東南アジア史	東南アジア史	世界史の中における東南アジアに関係する事柄を総合的…
+j	東方の三博士	東方の三博士	東方の三賢人の別名。
+j	東方の三賢人	東方の三賢人	新約聖書でイエスの降誕時にこれを祝福するためにイエ…
+j	東方の三賢者	東方の三賢者	東方の三賢人の別名。
+j	東方正統教会	東方正統教会	東方諸教会の別名。
+j	東日本大震災	東日本大震災	The Great Eastern Japan E…
+j	熱りが冷める	熱りが冷める	余熱がとれる。
+j	熱エネルギー	熱エネルギー	熱によって伝わるエネルギー。エネルギーとしての「熱…
+j	熱化学反応式	熱化学反応式	熱化学方程式。
+j	熱化学方程式	熱化学方程式	「C(黒鉛)+O₂(気)=CO₂(気)+394kJ…
+j	熱可塑性樹脂	熱可塑性樹脂	熱を加えると軟化および流動化し、冷やすと固体に戻る…
+j	熱帯雨林気候	熱帯雨林気候	熱帯のうち、全ての月の降水量の平年値が60ミリメー…
+j	熱狂的愛国者	熱狂的愛国者	
+j	熱硬化性樹脂	熱硬化性樹脂	熱を加えると一時的には軟化および流動化するが、最終…
+j	統一できない	統一できない	
+j	統合開発環境	統合開発環境	integrated development en…
+j	花も実もある	花も実もある	be good-looking and good-…
+j	菱マンガン鉱	菱マンガン鉱	
+j	話せばわかる	話せばわかる	You'll understand if you …
+j	話を切り出す	話を切り出す	to break the ice; to broa…
+j	鬱血性心不全	鬱血性心不全	congestive heart failure
+k	영국 열량 단위	英国熱量単位	
+k	영국 열량 단위	英國熱量單位	
+k	위급존망지추	危急存亡之秋	critical moment determini…
+j	乱交パーティー	乱交パーティー	
+j	危うきにさらす	危うきにさらす	
+j	危ない橋を渡る	危ない橋を渡る	危険を知った上で、その方法で物事を行うことの例え。
+j	失敗は成功の元	失敗は成功の元	failure is a stepping sto…
+j	失敗は成功の母	失敗は成功の母	failure leads to success
+j	弱り目に祟り目	弱り目に祟り目	misfortunes never come si…
+j	東ゲルマン語群	東ゲルマン語群	印欧語族ゲルマン語派の語群の一つ。ゴート語、ヴァン…
+j	東トルキスタン	東トルキスタン	トルキスタンの東部、タリム盆地を中心とした地域。現…
+j	東ヨーロッパ史	東ヨーロッパ史	世界史の中における東ヨーロッパに関係する事柄を総合…
+j	東京湾平均海面	東京湾平均海面	日本の標高0の基準となる面。明治時代に現在の東京都…
+j	深夜テンション	深夜テンション	深夜に興奮して通常では言いそうにないことを言ってし…
+j	熱力学第一法則	熱力学第一法則	熱力学においてある系とその周囲のエネルギーの大きさ…
+j	熱力学第三法則	熱力学第三法則	絶対零度でない物体を有限時間内に絶対零度まで冷やす…
+j	熱力学第二法則	熱力学第二法則	熱効率が100%の熱機関を作ることは不可能であると…
+j	熱力学第零法則	熱力学第零法則	ある物体Aが別の二つの物体B、Cとそれぞれ熱平衡に…
+j	統合型リゾート	統合型リゾート	integrated resort
+j	英領コロンビア	英領コロンビア	
+j	菱形立方八面体	菱形立方八面体	
+j	危険物取扱者免状	危険物取扱者免状	危険物を扱うことについての許可を証する書面等、危険…
+j	呱呱の声をあげる	呱呱の声をあげる	赤子が産声をあげる。また、子が産まれる。
+j	失われたメディア	失われたメディア	
+j	失敗は成功のもと	失敗は成功のもと	失敗は、それに対する反省と改善を重ねることによって…
+j	失礼クリエイター	失礼クリエイター	意味不明なマナーやルールを押し付ける横暴なマナー講…
+j	東ヨーロッパ時間	東ヨーロッパ時間	Eastern European Time
+j	東難南難西寿北福	東難南難西寿北福	寝るときの枕の向きについて、枕頭を東か南に向けるこ…
+j	深淵に臨むが如し	深淵に臨むが如し	危険な立場にいることのたとえ。
+j	英仏海峡トンネル	英仏海峡トンネル	
+j	英領バージン諸島	英領バージン諸島	synonym of イギリス領ヴァージン諸島
+j	話上手は聞き上手	話上手は聞き上手	話すのが上手になるためにはまず、他人の話を上手に聞…
+j	鉱質コルチコイド	鉱質コルチコイド	
+k	기소불욕 물시어인	己所不欲勿施於人	
+j	弱い犬ほどよく吠る	弱い犬ほどよく吠る	
+j	東南アジア諸国連合	東南アジア諸国連合	the Association of Southe…
+j	柱に膠して瑟を鼓す	柱に膠して瑟を鼓す	頑迷で状況の変化に対応ができないことのたとえ。
+j	熱帯モンスーン気候	熱帯モンスーン気候	熱帯のうち、全ての月の降水量の平年値が60ミリメー…
+j	統一資源位置指定子	統一資源位置指定子	Uniform Resource Locator
+j	英国規格協会検査証	英国規格協会検査証	
+j	英領ヴァージン諸島	英領ヴァージン諸島	
+j	菱形二十・十二面体	菱形二十・十二面体	
+j	危うきこと累卵の如し	危うきこと累卵の如し	積み重ねた卵 (累卵)が今にも崩れそうなことから、…
+j	弱きを助け強きを挫く	弱きを助け強きを挫く	弱い者を救い、横暴な者を懲らしめるということ。任侠…
+j	朱に交われば赤くなる	朱に交われば赤くなる	習慣、特に悪習は付き合う相手に影響される。
+j	東北地方太平洋沖地震	東北地方太平洋沖地震	the Tōhoku earthquake of …
+j	就活終われハラスメント	就活終われハラスメント	就職活動において、内定を出した企業が内定を受け取っ…
+j	東ティモール民主共和国	東ティモール民主共和国	東南アジアティモール島にある東ティモールの正式名称。
+j	山椒は小粒でもぴりりと辛い	山椒は小粒でもぴりりと辛い	見た目が貧相でも、気性や才能が目覚ましいこと。
+j	東部マレー・ポリネシア祖語	東部マレー・ポリネシア祖語	中東部マレー･ポリネシア語群の祖語。
+j	英語のメニューがありますか	英語のメニューがありますか	
+j	危うきこと虎の尾を履むが如し	危うきこと虎の尾を履むが如し	虎の尾を踏むように危険な状態のこと。
+j	己の父を知る者は賢い子である	己の父を知る者は賢い子である	
+j	深淵に臨んで薄氷を履むが如し	深淵に臨んで薄氷を履むが如し	危険な立場にいることのたとえ。
+j	統合失調型パーソナリティ障害	統合失調型パーソナリティ障害	
+j	己に如かざる者を友とするなかれ	己に如かざる者を友とするなかれ	Do not befriend people wh…
+j	花粉にアレルギーを持っています	花粉にアレルギーを持っています	

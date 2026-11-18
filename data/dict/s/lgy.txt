@@ -1,0 +1,2140 @@
+e	gym	gym	1 meaning
+j	ぎゃー	gya	
+j	ギャ	gya	
+j	ギャー	gya	「ぎゃあ」のカタカナ表記。
+j	妓夫	gyu	夜鷹に従い、客引きや護衛をする男。
+j	業	gyo	work, task, business: the…
+j	行	gyo	a line of text
+k	갸	gya	Chungcheong, Gyeongsang, …
+k	계	gye	kye, a Korean rotating sa…
+k	교	gyo	a religion or faith
+k	규	gyu	다음 한자의 독음.
+e	gyro	gyro	1 meaning
+e	göygöl	gygl	1 meaning
+j	ぎゃあ	gyaa	強いまたは突然の驚きや恐怖、痛みなどで出す声を表す…
+j	凝意	gyoi	思いを凝らすこと。凝思。
+j	御意	gyoi	wish, desire (used instea…
+j	御衣	gyoi	天子や貴人の衣服の尊敬語。
+j	暁慰	gyoi	慰めること。
+j	暁鴉	gyoa	明け方の頃に鳴くからす。
+j	翹異	gyoi	特異。
+k	걔	gyae	that kid; he or she
+k	겨	gyeo	bran, chaff, hull, husk (…
+k	교오	gyoo	
+k	교우	gyou	
+k	균	gyun	均: (music) An ancient Chi…
+k	귤	gyul	tangerine; mandarin orang…
+e	gyoza	gyoza	1 meaning
+e	gypsy	gypsy	2 meanings
+e	gyrus	gyrus	1 meaning
+j	ぎゃく	gyaku	逆: reverse, opposite, con…
+j	ぎゃふ	gyafu	the ice goby, Leucopsario…
+j	ぎょうこ	gyoko	
+j	ぎょうむ	gyomu	
+j	ぎょゆ	gyoyu	魚油: fish oil
+j	ギャグ	gyagu	gag (joke made in a perfo…
+j	ギャザー	gyaza	布を縫って縮めることでできるひだ。
+j	ギャバ	gyaba	gamma-aminobutyric acid
+j	ギャフ	gyafu	a gaff: a long handle or …
+j	ギャラ	gyara	所定の労働、労役、役務、実績、功績に対して支払われ…
+j	ギャリー	gyari	
+j	ギャル	gyaru	a girl or young woman
+j	ギャレー	gyare	
+j	ギュメ	gyume	
+j	ギョーザ	gyoza	
+j	仰仆	gyofu	仰向け。仰倒。
+j	仰倒	gyoto	仰向け。仰仆。
+j	仰奉	gyoho	仕えること。
+j	仰慕	gyobo	仰ぎ、慕うこと。仰思。
+j	仰望	gyobo	期待すること。
+j	仰登	gyoto	登ること。
+j	仰臥	gyoga	lying down face up
+j	仰訴	gyoso	訴えること。
+j	僥倖	gyoko	an almost impossible luck…
+j	僥冒	gyobo	貪ること。
+j	僥望	gyobo	僥倖を望むこと。
+j	凝凍	gyoto	凍ること。
+j	凝固	gyoko	The act of solidifying or…
+j	凝望	gyobo	目を凝らして遠くを見つめること。
+j	凝浄	gyojo	（水などが）澄むこと。
+j	凝眸	gyobo	凝視すること。
+j	凝瞳	gyodo	凝視すること。
+j	凝網	gyomo	厳しい法令や規則。
+j	凝華	gyoka	物質が液体を経ずに気体から固体に変化すること。
+j	凝重	gyoju	重々しいさま。
+j	凝離	gyori	偏析。
+j	刑部	gyobu	the Ministry of Justice
+j	卬望	gyobo	期待すること。
+j	喁望	gyobo	仰望すること。
+j	形像	gyozo	仏や菩薩、人などの姿形を象った画像や彫像。
+j	形相	gyoso	facial expression (especi…
+j	御句	gyoku	他人の作った句に対する尊敬語。
+j	御宴	gyoen	皇室、貴人が開く宴会。
+j	御府	gyofu	天子が所有している書画、物品を入れておく倉庫。
+j	御影	gyoei	pictures of the emperor (…
+j	御忌	gyoki	貴人や宗派の祖師の年忌。
+j	御歌	gyoka	天皇、貴人がおつくりになった歌。
+j	御璽	gyoji	imperial seal, privy seal
+j	御苑	gyoen	imperial garden
+j	御記	gyoki	天子や貴人が記した日記などの記録の丁寧語。
+j	御詠	gyoei	天皇や皇族が詠んだ詩歌。
+j	暁光	gyoko	light of the dawn
+j	暁字	gyoji	告白すること。
+j	暁悟	gyogo	悟ること。暁解。
+j	暁更	gyoko	dawn
+j	暁望	gyobo	明け方の眺め。
+j	暁気	gyoki	明け方の空気。
+j	暁示	gyoji	諭すこと。
+j	暁紅	gyoko	morning glow, the red col…
+j	暁起	gyoki	朝早く暁の頃に起床すること。
+j	暁霧	gyomu	明け方に出る霧。朝霧。
+j	暁鼓	gyoko	夜明けを知らせるために鳴らされる太鼓。
+j	暁鼯	gyogo	明け方、餌をあさる鼯鼠。
+j	業務	gyomu	business, business duties
+j	業祚	gyoso	王業。
+j	漁務	gyomu	漁業、水産業に関する仕事。
+j	漁区	gyoku	漁業者が漁をすることができる区画。
+j	漁場	gyojo	fishing ground
+j	漁夫	gyofu	fisherman
+j	漁家	gyoka	漁業により生計をたてる家。
+j	漁港	gyoko	fishing port
+j	漁火	gyoka	夜間、漁をする際に魚などを集めるために漁船で焚く火。
+j	漁灯	gyoto	漁猟の際に用いる灯火。漁火。
+j	漁網	gyomo	fishing net
+j	澆季	gyoki	道徳が衰退し、情が薄くなった時代。
+j	澆漓	gyori	情が軽薄なこと。澆薄。
+j	澆蕩	gyoto	浮薄。
+j	牛刀	gyuto	a double beveled kitchen …
+j	牛歩	gyuho	snail's pace
+j	牛痘	gyuto	牛の痘瘡。
+j	牛童	gyudo	牛飼いの少年。牛豎。
+j	牛豎	gyuju	牛飼いの少年。
+j	牛部	gyubu	部首「⽜」で分類した漢字の一群。
+j	牛馬	gyuba	oxen and horses, beasts o…
+j	玉宇	gyoku	玉のように美しく飾られた御殿。
+j	翹企	gyoki	待ち望むこと。翹趾。
+j	翹望	gyobo	首を長くすること。強く待ち望むこと。
+j	翹楚	gyoso	才能が抜きん出ていること。
+j	虐	gyaku	to oppress, to persecute,…
+j	行事	gyoji	function, event
+j	行住	gyoju	行くことと留まること。立ち居。
+j	行儀	gyogi	manners; behavior
+j	行司	gyoji	sumo referee
+j	行幸	gyoko	to set out on a journey (…
+j	行業	gyogo	behavior, conduct
+j	行法	gyoho	法律を執行すること。
+j	行粧	gyoso	外出や旅での装い。行装。
+j	行者	gyoja	ascetic; pilgrim; devotee
+j	行苦	gyoku	哲学的、存在論（人間学）的な、人としての苦。格別の…
+j	行草	gyoso	書体のうち行書と草書。
+j	行訴	gyoso	行政訴訟の略。
+j	行頭	gyoto	文章の行の始め。
+j	行香	gyogo	法会に参加する僧に香を配り、渡すこと。また、その役…
+j	逆	gyaku	reverse; contrary; opposi…
+j	顒望	gyobo	仰望すること。
+j	餃子	gyoza	gyoza: a kind of dumpling…
+j	驍武	gyobu	強く勇ましいこと。また、そのようなさま。
+j	驍猛	gyomo	荒々しく猛々しいこと。また、そのようなさま。
+j	驍騰	gyoto	良質な馬。駿馬。
+j	魚塩	gyoen	魚と塩。海産物の総称。
+j	魚影	gyoei	水中を泳いでいる魚の姿。また、魚の集まり具合。
+j	魚油	gyoyu	fish oil
+j	魚灯	gyoto	「魚灯油」の略。
+j	魚網	gyomo	魚を獲るための網。漁網。
+j	魚蝦	gyoka	魚と蝦。
+j	魚道	gyodo	fishway; fish ladder
+j	魚部	gyobu	部首「⿂」で分類した漢字の一群。
+j	魚鰕	gyoka	魚と鰕。
+j	魚鼓	gyoku	木材を魚の形にして中空にした仏具。魚板。
+k	갸루	gyaru	일본에서 유행한 독특한 화장법. 또는 그런 화…
+k	갸웃	gyaut	Cocking or tilting one's …
+k	갸쿠	gyaku	(당구) 반대 치기.
+k	걜	gyael	that kid; he or she
+k	겨우	gyeou	barely
+k	격	gyeok	surroundings
+k	견	gyeon	silk
+k	결	gyeol	layer, ply, texture (as o…
+k	겸	gyeom	cum
+k	겹	gyeop	fold, layer
+k	곁	gyeot	the vicinity or side of s…
+k	계기	gyegi	chance, opportunity
+k	계모	gyemo	stepmother
+k	계미	gyemi	The twentieth term of the…
+k	계보	gyebo	
+k	계부	gyebu	stepfather
+k	계사	gyesa	The thirtieth term of the…
+k	계수	gyesu	coefficient
+k	계시	gyesi	revelation
+k	계유	gyeyu	The tenth term of the Chi…
+k	계자	gyeja	닭이 낳은 알. 알껍데기, 노른자, 흰자 따위…
+k	계주	gyeju	(육상) 이어달리기.
+k	계투	gyetu	relieving the pitcher
+k	계피	gyepi	녹나무속에 속한 종들을 가리키는 것. 열대지방…
+k	교가	gyoga	The official song or anth…
+k	교구	gyogu	diocese
+k	교기	gyogi	
+k	교도	gyodo	believer (of a religion);…
+k	교리	gyori	doctrine; dogma
+k	교모	gyomo	
+k	교무	gyomu	
+k	교미	gyomi	mating; copulation
+k	교보	gyobo	
+k	교부	gyobu	delivery, payment, issuan…
+k	교비	gyobi	
+k	교사	gyosa	a teacher, the profession…
+k	교세	gyose	종교의 형세. 또는 그 세력.
+k	교수	gyosu	instruction
+k	교시	gyosi	
+k	교안	gyoan	
+k	교외	gyooe	suburb; outskirts
+k	교의	gyoui	doctrine, dogma, creed
+k	교익	gyoik	
+k	교인	gyoin	believer; devotee
+k	교자	gyoja	
+k	교제	gyoje	임금의 명령이라고 거짓으로 꾸며 내리던 가짜 …
+k	교조	gyojo	dogma; doctrine; tenet
+k	교주	gyoju	하나의 종교를 세운 사람. 또는 종교 단체의 …
+k	교토	gyoto	Kyoto (a city in Japan)
+k	교파	gyopa	sect, denomination
+k	교포	gyopo	countryman living abroad;…
+k	교호	gyoho	
+k	굥	gyong	synonym of 구유 (guyu, “man…
+k	규구	gyugu	
+k	규모	gyumo	scale or dimensions
+k	규사	gyusa	
+k	규소	gyuso	silicon
+k	규수	gyusu	
+k	규유	gyuyu	
+k	규제	gyuje	regulation; restriction
+k	규조	gyujo	
+e	gypsum	gypsum	1 meaning
+e	gyumri	gyumri	1 meaning
+j	ぎゃあぎゃあ	gyagya	crying
+j	ぎゃふん	gyafun	speechlessly, in a tongue…
+j	ぎゅうぎゅう	gyugyu	crammed tightly
+j	ぎゅうし	gyushi	牛脂: tallow of cow
+j	ぎゅうどん	gyudon	
+j	ぎゅうにゅう	gyunyu	「牛乳」のひらがな表記。
+j	ぎゅっと	gyutto	squeezing tightly
+j	ぎゅんと	gyunto	contracting
+j	ぎょうかん	gyokan	
+j	ぎょうさん	gyosan	おおげさな。
+j	ぎょそん	gyoson	漁村: fishing village
+j	ギャップ	gyappu	gap; contrast; discrepancy
+j	ギャング	gyangu	gang
+j	仰天	gyoten	being deeply surprised
+j	仰山	gyosan	exaggerated
+j	仰思	gyoshi	仰ぎ、慕うこと。仰慕。
+j	仰承	gyosho	承ること。
+j	仰瞻	gyosen	仰ぎ見ること。
+j	仰羨	gyosen	羨慕すること。
+j	仰藉	gyosha	仰ぎ、依ること。
+j	仰視	gyoshi	仰ぎ見ること。
+j	仰賛	gyosan	鑽仰すること。
+j	仰転	gyoten	knockdown
+j	僥会	gyokai	遇合すること。
+j	僥競	gyokyo	貪り、求めること。
+j	凝乳	gyonyu	カード（curd）を形成した乳。
+j	凝塊	gyokai	凝り固まったもの。
+j	凝妝	gyosho	装いを凝らすこと。凝粧。
+j	凝定	gyotei	静止すること。
+j	凝念	gyonen	一つのことに思いを凝らすこと。
+j	凝思	gyoshi	思いを凝らすこと。凝意。
+j	凝止	gyoshi	止まること。
+j	凝湛	gyotan	深くたたえられた水が清く澄むさま。
+j	凝澌	gyoshi	凍ること。
+j	凝灰	gyokai	堅く固まった灰。
+j	凝然	gyozen	じっとして動かないさま。
+j	凝睇	gyotei	見つめること。
+j	凝粋	gyosui	精粋。
+j	凝粧	gyosho	装いを凝らすこと。凝妝。
+j	凝脂	gyoshi	凝結した脂肪。凝った脂。
+j	凝視	gyoshi	stare
+j	凝邃	gyosui	幽邃。静邃。
+j	凝集	gyoshu	clumping, cohesion, agglu…
+j	卬視	gyoshi	仰ぎ見ること。
+j	喁喁	gyogyo	魚があぎとうこと。また、そのようなさま。
+j	圉人	gyojin	うまかい。圉者。
+j	圉者	gyosha	牧畜する者。圉人。
+j	嶢榭	gyosha	高台。
+j	嶢然	gyozen	特出するさま。
+j	御世	gyosei	天子、天皇が在位している間の治世。
+j	御人	gyojin	侍御。
+j	御史	gyoshi	古代中国の官名。元は君主に近侍する官吏であったが、…
+j	御慶	gyokei	お喜び。お祝い。
+j	御撰	gyosen	天皇が編集したり著したりすること。また、その書物。
+j	御柳	gyoryu	ギョリュウ科の落葉高木。中国原産。
+j	御簾	gyoren	(ぎょれん) 貴人の在所を囲う垂れ幕・すだれ。
+j	御者	gyosha	carriage driver; coachman
+j	御輦	gyoren	貴人が使用する輦。
+j	御選	gyosen	天皇が選定すること。また、そのもの。
+j	御階	gyokai	宮殿などの階段の丁寧な言い方。
+j	御集	gyoshu	「集まること」の尊敬語。
+j	暁人	gyojin	聡明な人。
+j	暁会	gyokai	悟ること。
+j	暁天	gyoten	夜明けの空。
+j	暁川	gyosen	朝の川。
+j	暁庭	gyotei	朝の庭。
+j	暁慧	gyokei	聡いさま。
+j	暁教	gyokyo	教えること。
+j	暁旦	gyotan	夜明け。明け方。
+j	暁星	gyosei	夜明けの空に残る星。
+j	暁晦	gyokai	明暗。
+j	暁暁	gyogyo	弁舌が巧みなこと。また、そのようなさま。巧弁。
+j	暁水	gyosui	朝の川（の流れ）。
+j	暁箭	gyosen	朝の水時計。
+j	暁蟬	gyozen	朝の蟬。
+j	暁解	gyokai	悟ること。暁悟。
+j	暁通	gyotsu	事情などについて精通していること。
+j	暁鐘	gyosho	夜明けに鳴らされる鐘。
+j	暁雞	gyokei	晨鶏。
+j	業主	gyoshu	proprietor; business owner
+j	業体	gyotei	風采。風体。
+j	業態	gyotai	事業や営業、業務の形態、状態。
+j	業況	gyokyo	ある期間における業種や企業規模による景気の状況。
+j	業産	gyosan	生業。
+j	業界	gyokai	business, industry
+j	業種	gyoshu	a kind of business; a typ…
+j	業習	gyoshu	習慣。
+j	業者	gyosha	vendor, merchant, dealer
+j	業連	gyoren	業務連絡。
+j	業間	gyokan	業務と業務との合間。
+j	漁人	gyojin	fisher
+j	漁協	gyokyo	漁業協同組合の略。JF(Japan Fisheri…
+j	漁史	gyoshi	文人などの雅号の下に添えて使用する語。
+j	漁政	gyosei	漁業に関する行政。
+j	漁村	gyoson	fishing village
+j	漁業	gyogyo	fishing industry, fishery
+j	漁樵	gyosho	漁師と樵。また、その仕事。
+j	漁民	gyomin	fisherman
+j	漁礁	gyosho	魚などが集まり漁などにも使用される海底の岩礁。廃船…
+j	漁者	gyosha	漁師。
+j	漁舎	gyosha	漁夫の家。
+j	漁舟	gyoshu	漁をするための小さな船舶。
+j	漁船	gyosen	fishing boat
+j	澆弛	gyoshi	末世。
+j	澆浅	gyosen	浅薄。
+j	澆漑	gyogai	水やり。
+j	澆競	gyokyo	我がちなこと。また、そのようなさま。
+j	牛タン	gyutan	ox tongue
+j	牛丼	gyudon	gyudon: a Japanese dish o…
+j	牛乳	gyunyu	cow's milk
+j	牛人	gyujin	
+j	牛尿	gyunyo	
+j	牛店	gyuten	牛肉料理を食べさせる料理屋。
+j	牛溲	gyushu	牛の尿。
+j	牛種	gyushu	小牛。
+j	牛糞	gyufun	牛の糞。
+j	牛脂	gyushi	tallow of cow
+j	牛舎	gyusha	cowshed, byre, cattle barn
+j	牛菜	gyusai	牛蒡。
+j	牛蹄	gyutei	牛の蹄。
+j	牛鼎	gyutei	大きな鼎。
+j	玉光	gyokko	玉の輝き。
+j	玉匣	gyokko	たまくしげ。玉手箱。
+j	玉器	gyokki	玉で製造または装飾された器物。
+j	玉机	gyokki	玉で装飾された机。
+j	玉皇	gyokko	the Jade Emperor
+j	玉稿	gyokko	立派な原稿。
+j	玉肌	gyokki	玉のように美しい肌。
+j	玉膏	gyokko	仙薬で玉の精液。
+j	玉鉤	gyokko	玉でつくられた鉤。
+j	疑止	gyoshi	止まること。
+j	禦止	gyoshi	防禦し、阻止すること。
+j	翹敬	gyokei	崇敬すること。
+j	翹然	gyozen	卓出するさま。
+j	翹瞻	gyosen	仰ぎ、望むこと。
+j	翹趾	gyoshi	待ち望むこと。翹企。
+j	翹首	gyoshu	首を長くすること。強く待ち望むこと。
+j	蟯虫	gyochu	pinworm
+j	行人	gyonin	（ぎょうにん）
+j	行商	gyosho	peddling, hawking, the ac…
+j	行外	gyogai	書いた行の外側。
+j	行政	gyosei	government, administration
+j	行書	gyosho	semi-cursive script
+j	行替え	gyogae	文章の途中で行を変えること。文章をいったん区切り、…
+j	行水	gyozui	潔斎のため清水で体を清めること。
+j	行間	gyokan	a line gap, the white spa…
+j	逆光	gyakko	被写体など対象の後ろからさす光線。
+j	逆火	gyakka	内燃機関で点火時期の不整などにより気筒から吸気管や…
+j	逆行	gyakko	going backwards
+j	顒敬	gyokei	敬うこと。
+j	顒然	gyozen	慎むさま。
+j	顒顒	gyogyo	君子が威厳に満ちていること。また、そのようなさま。。
+j	馭者	gyosha	御者。
+j	驍名	gyomei	武勇のほまれ高い評判。
+j	驍将	gyosho	strongly brave general
+j	驍芸	gyogei	馬戯。曲馬。
+j	魚人	gyojin	人と魚の特徴を併せもつ（架空の）生物。
+j	魚介	gyokai	marine products, seafood,…
+j	魚卵	gyoran	roe (eggs of fish)
+j	魚形	gyokei	魚類の形。
+j	魚探	gyotan	魚群探知機の略。
+j	魚板	gyoban	木材を魚の形にして中空にした仏具。魚鼓。
+j	魚梯	gyotei	河川の堰やダムなどで魚が遡上できなくなった場所に魚…
+j	魚眼	gyogan	a fish eye
+j	魚礁	gyosho	魚などが集まり漁などにも使用される海底の岩礁。廃船…
+j	魚種	gyoshu	魚類の種類。
+j	魚竜	gyoryu	an ichthyosaur
+j	魚粉	gyofun	
+j	魚群	gyogun	school (of fish)
+j	魚肆	gyoshi	魚屋。
+j	魚膾	gyokai	魚を使用した膾。
+j	魚臭	gyoshu	魚の（生臭い）匂い。
+j	魚菜	gyosai	魚や野菜類。
+j	魚袋	gyotai	a sharkskin-covered woode…
+j	魚貝	gyokai	魚貝類の通称。
+j	魚貫	gyokan	串ざしの魚のように大勢が列をなして行くこと。
+j	魚醤	gyosho	魚介類に塩を加え、発酵させた調味料の一種。魚醤油。
+j	魚雁	gyogan	手紙。書簡。
+j	魚雷	gyorai	torpedo
+j	魚類	gyorui	fishes
+j	魚鱗	gyorin	魚の鱗。
+k	갸웃이	gyausi	'갸웃'.
+k	걔네	gyaene	they
+k	겨레	gyeore	kinsmen; relatives
+k	겨리	gyeori	plough drawn by two yoked…
+k	겨울	gyeoul	winter
+k	겨자	gyeoja	mustard
+k	견아	gyeona	개의 이빨이란 뜻으로, 사물이 서로 어긋나서 …
+k	견우	gyeonu	대장경(大腸經)에 속하는 혈(穴)의 이름. 팔…
+k	경	gyeong	In the Joseon Dynasty (14…
+k	곁에	gyeote	
+k	계간	gyegan	homosexual activity among…
+k	계곡	gyegok	valley
+k	계교	gyegyo	요리조리 헤아려 보고 생각해 낸 꾀.
+k	계단	gyedan	stairs, staircase, stairw…
+k	계란	gyeran	chicken egg
+k	계랄	gyeral	chicken egg
+k	계류	gyeryu	해결되지 않고 걸려있는 것
+k	계림	gyerim	a forest in western Gyeon…
+k	계묘	gyemyo	The fortieth term of the …
+k	계박	gyebak	배 따위를 매어 둠..
+k	계발	gyebal	
+k	계산	gyesan	calculation, reckoning
+k	계속	gyesok	continuously
+k	계실	gyesil	'털실'을 의미하는 제주도 사투리.
+k	계약	gyeyak	contract
+k	계엄	gyeeom	martial law
+k	계율	gyeyul	religious discipline; rel…
+k	계좌	gyejwa	account
+k	계집	gyejip	woman, girl
+k	계한	gyehan	땅의 경계.
+k	계해	gyehae	The sixtieth term of the …
+k	교각	gyogak	pier
+k	교감	gyogam	
+k	교거	gyogeo	living in another person'…
+k	교계	gyogye	
+k	교과	gyogwa	학교에서 학년별로 알맞게 가르쳐야 내용을 체계…
+k	교교	gyogyo	새가 지저귀는 소리.
+k	교내	gyonae	
+k	교단	gyodan	
+k	교대	gyodae	rotation; relief; shift
+k	교또	gyotto	Kyoto (a city in Japan)
+k	교란	gyoran	disturbance; confusion
+k	교류	gyoryu	exchange, interchange
+k	교만	gyoman	arrogance, haughtiness, p…
+k	교목	gyomok	a tall tree
+k	교문	gyomun	
+k	교민	gyomin	다른 나라에 살고 있는 동포. 아예 정착하여 …
+k	교반	gyoban	bibimbap
+k	교배	gyobae	
+k	교복	gyobok	school uniform (the unifo…
+k	교본	gyobon	
+k	교분	gyobun	
+k	교살	gyosal	목을 졸라 죽임.
+k	교서	gyoseo	
+k	교신	gyosin	
+k	교실	gyosil	classroom
+k	교언	gyoeon	flattery
+k	교원	gyowon	teacher; educator; instru…
+k	교육	gyoyuk	education
+k	교잡	gyojap	
+k	교재	gyojae	teaching materials
+k	교직	gyojik	
+k	교질	gyojil	
+k	교차	gyocha	서로 엇갈리거나 마주침.
+k	교체	gyoche	change; replacement; subs…
+k	교탁	gyotak	teacher's desk in a class…
+k	교태	gyotae	아리따운 자태.
+k	교학	gyohak	
+k	교합	gyohap	
+k	교화	gyohwa	reformation, (North Korea…
+k	교회	gyohoe	church
+k	교훈	gyohun	lesson, moral, lecture
+k	규각	gyugak	
+k	규돈	gyudon	소고기덮밥.
+k	규례	gyurye	
+k	규산	gyusan	
+k	규슈	gyusyu	
+k	규약	gyuyak	rule; regulation; code
+k	규율	gyuyul	regulation or rules that …
+k	규준	gyujun	규범이 되는 표준.
+k	규탄	gyutan	censure; denunciation
+k	규표	gyupyo	
+k	규합	gyuhap	
+k	규화	gyuhwa	
+k	균세	gyunse	
+k	균일	gyunil	
+k	균제	gyunje	
+k	귤피	gyulpi	
+e	gymnast	gymnast	1 meaning
+j	ぎゃくに	gyakuni	
+j	ぎゃっきょう	gyakkyo	逆境: adversity
+j	ぎゅるる	gyururu	An onomatopoeia of the ru…
+j	ぎょかく	gyokaku	漁獲: fishing; a catch/haul…
+j	ぎょにく	gyoniku	魚肉: fish meat, fish
+j	ギャラリー	gyarari	gallery
+j	ギャルゲー	gyaruge	galge (game centered arou…
+j	ギュムリ	gyumuri	
+j	ギョプる	gyopuru	to enjoy samgyeopsal
+j	僥薄	gyohaku	澆薄。
+j	凝寂	gyojaku	静寂なさま。
+j	凝峻	gyoshun	厳しく、重々しいこと。また、そのようなさま。
+j	凝析	gyoseki	疏水コロイドに少量の電解質を加えると沈澱する現象。
+j	凝濁	gyodaku	沈殿し濁ったものを個体にすること。
+j	凝白	gyohaku	雪。
+j	凝神	gyoshin	心を凝らすこと。
+j	圉臣	gyoshin	うまかい。
+j	御する	gyosuru	to control, to manage, to…
+j	暁熟	gyojuku	clear comprehension; full…
+j	暁白	gyohaku	空が白むこと。
+j	暁的	gyoteki	悟ること。
+j	暁魄	gyohaku	朝の月。
+j	業績	gyoseki	performance, achievement,…
+j	漁する	gyosuru	〔水産物・魚介類を〕取り集める。漁獲する。
+j	漁侵	gyoshin	侵奪すること。
+j	漁獲	gyokaku	fishing
+j	澆薄	gyohaku	道徳が廃れ、情が非常にうすくなること。また、そのよ…
+j	牛耳る	gyujiru	to rule; to control
+j	牛肉	gyuniku	cow meat, beef
+j	牛角	gyukaku	ox horn, cow horn
+j	牛酪	gyuraku	butter
+j	玉兎	gyokuto	The legendary Jade Rabbit…
+j	玉冠	gyokkan	玉で装飾された冠。
+j	玉女	gyokujo	玉のように美しい女性。
+j	玉容	gyokuyo	玉のように美しい容貌。
+j	玉座	gyokuza	a throne (ornate seat)
+j	玉延	gyokuen	長芋。山芋。薯蕷。
+j	玉楼	gyokuro	玉で装飾された立派な高殿。
+j	玉樹	gyokuju	美しい木。
+j	玉沙	gyokusa	玉砂利。
+j	玉淵	gyokuen	清らかで美しい淵。
+j	玉漏	gyokuro	玉で装飾された水時計。
+j	玉瑛	gyokuei	水晶。
+j	玉璜	gyokuko	佩玉。
+j	玉璽	gyokuji	the emperor's seal
+j	玉筵	gyokuen	立派で美しい筵。
+j	玉簡	gyokkan	相手の手紙に対する尊敬語。
+j	玉翰	gyokkan	相手の手紙に対する尊敬語。
+j	玉茎	gyokkei	penis (literally, “jade s…
+j	玉葉	gyokuyo	玉のように美しい葉。
+j	玉衡	gyokuko	五胡十六国時代に成漢で用いられた元号。西暦では31…
+j	玉部	gyokubu	部首「⽟」で分類した漢字の一群。
+j	玉露	gyokuro	a dewdrop appearing like …
+j	玉音	gyokuon	voice of the emperor
+j	行取り	gyodori	the distribution of any p…
+j	行跡	gyoseki	behavior
+j	行迹	gyoseki	行跡の異表記。
+j	逆に	gyakuni	conversely, on the contra…
+j	逆の	gyakuno	
+j	逆上	gyakujo	frenzy, distraction
+j	逆境	gyakkyo	adverse circumstances, ad…
+j	逆換	gyakkan	ある判断で、その主語の矛盾概念を主語とする判断を導…
+j	逆数	gyakusu	multiplicative inverse; r…
+j	逆縁	gyakuen	仏法を謗るなどの悪行が仏道に入る因縁となること。
+j	逆走	gyakuso	running in the opposite d…
+j	逆送	gyakuso	送り返すこと。
+j	逆風	gyakufu	adverse wind, headwind
+j	餃子屋	gyozaya	餃子を作って売る店。
+j	馭神	gyoshin	神を祀り、祟りを防ぐこと。
+j	魚信	gyoshin	魚が餌に食い付くこと。また、そのことによって浮きや…
+j	魚拓	gyotaku	gyotaku
+j	魚族	gyozoku	魚類。
+j	魚柝	gyotaku	木魚。
+j	魚肉	gyoniku	fish meat, fish
+k	갸울다	gyaulda	to tilt slightly
+k	겨란	gyeoran	'계란'의 경기도 사투리.
+k	겨르	gyeoreu	
+k	겨풀	gyeopul	A cutgrass, particularly …
+k	격외	gyeokoe	
+k	격자	gyeokja	lattice, grid
+k	격주	gyeokju	biweekly, every other week
+k	격투	gyeoktu	
+k	격파	gyeokpa	defeat
+k	겪다	gyeokda	to suffer, to undergo, to…
+k	견고	gyeongo	잘못이나 허물을 꾸짖는 뜻을 알림.
+k	견마	gyeonma	
+k	견부	gyeonbu	
+k	견사	gyeonsa	
+k	견유	gyeonyu	cynic
+k	견인	gyeonin	
+k	견제	gyeonje	
+k	견지	gyeonji	
+k	견포	gyeonpo	
+k	겯다	gyeotda	기름 따위가 흠씬 배다. 또는 그렇게 하다.
+k	결구	gyeolgu	일정한 형태로 얼개를 만듦. 또는 그렇게 만든…
+k	결미	gyeolmi	글이나 문서 따위의 끝 부분.
+k	결사	gyeolsa	여러 사람이 공동의 목적을 이루기 위하여 단체…
+k	결의	gyeorui	determination, resolution
+k	결제	gyeolje	
+k	결코	gyeolko	at all
+k	결투	gyeoltu	duel
+k	결후	gyeolhu	
+k	겸구	gyeomgu	
+k	겸무	gyeommu	
+k	겸비	gyeombi	
+k	겸사	gyeomsa	
+k	겸임	gyeomim	
+k	겸자	gyeomja	
+k	겹다	gyeopda	to be too much (for someo…
+k	경아	gyeonga	놀랄 정도로 의아하게 여김.
+k	경오	gyeongo	The seventh term of the C…
+k	경우	gyeongu	conditions, circumstances
+k	경이	gyeongi	surprise, wonder, marvel
+k	계급	gyegeup	class (social division ba…
+k	계동	gyedong	
+k	계략	gyeryak	stratagem; scheme
+k	계률	gyeryul	
+k	계륵	gyereuk	<한자성어> 닭의 갈비, 취하기에는 너무 가볍…
+k	계몽	gyemong	enlightenment
+k	계보기	gyebogi	
+k	계시다	gyesida	honorific of 있다 (itda); t…
+k	계양	gyeyang	[~구] Gyeyang (a district …
+k	계열	gyeyeol	series
+k	계절	gyejeol	season (of the year)
+k	계축	gyechuk	The fiftieth term of the …
+k	계친	gyechin	
+k	계통	gyetong	system
+k	계획	gyehoek	a plan
+k	교관	gyogwan	
+k	교권	gyogwon	
+k	교당	gyodang	
+k	교도소	gyodoso	jail, prison
+k	교두보	gyodubo	bridgehead
+k	교방	gyobang	고려 시대의 기생 학교. 말기에는 기생 학교가…
+k	교범	gyobeom	
+k	교법	gyobeop	
+k	교부자	gyobuja	deliverer, granter, donat…
+k	교선	gyoseon	
+k	교섭	gyoseop	negotiations; talks
+k	교수안	gyosuan	
+k	교습	gyoseup	공부를 가르치는 것.
+k	교양	gyoyang	cultivation, refinement, …
+k	교역	gyoyeok	trade, commerce
+k	교열	gyoyeol	
+k	교외의	gyooeui	
+k	교우회	gyouhoe	
+k	교장	gyojang	the principal or head tea…
+k	교전	gyojeon	battle; combat
+k	교점	gyojeom	
+k	교접	gyojeop	
+k	교제비	gyojebi	
+k	교종	gyojong	
+k	교착	gyochak	agglutination, adhesion
+k	교칙	gyochik	
+k	교토 시	gyotosi	일본 서쪽에 위치한 도시이자 교토 부의 중심지…
+k	교통	gyotong	transportation
+k	교풍	gyopung	
+k	교환	gyohwan	exchange, swap
+k	교활	gyohwal	아주 약아빠지고 잔꾀를 씀.
+k	규률	gyuryul	규율의 비표준어.
+k	규방	gyubang	
+k	규범	gyubeom	standard; norm
+k	규석	gyuseok	
+k	규운암	gyuunam	
+k	규전	gyujeon	
+k	규조토	gyujoto	
+k	규중	gyujung	
+k	규칙	gyuchik	rule
+k	규환	gyuhwan	
+k	균계	gyungye	fungus
+k	균락	gyullak	colony
+k	균류	gyullyu	fungi
+k	귤락	gyullak	tangerine pith; tangerine…
+k	귤빛	gyulbit	
+e	gyeonggi	gyeonggi	1 meaning
+j	ぎゃくしゅう	gyakushu	逆襲: a counterattack
+j	ぎゃくりゅう	gyakuryu	逆流: flowing in the revers…
+j	ぎゃんなき	gyannaki	wailing of a baby
+j	ぎょうさつ	gyosatsu	行殺: A quick or effortless…
+j	ぎょくへん	gyokuhen	玉篇: Yupian
+j	ぎょしゃ座	gyoshaza	Auriga
+j	ギャグセン	gyagusen	ability to crack jokes
+j	ギャグマン	gyaguman	
+j	ギャバジン	gyabajin	gabardine
+j	ギャランティ	gyaranti	appearance fee; performan…
+j	ギャランティー	gyaranti	報酬、対価。しばしばギャラと省略される。
+j	ギャランドゥ	gyarandu	happy trail
+j	ギャランドゥー	gyarandu	
+j	ギャルソン	gyaruson	a young man; a boy
+j	ギャルバン	gyaruban	
+j	ギャロップ	gyaroppu	a gallop
+j	ギャロン語	gyarongo	Rgyalrong languages
+j	ギャンブラー	gyanbura	gambler
+j	ギャンブル	gyanburu	gamble
+j	凝固剤	gyokozai	物が凝固するのを促進させる薬剤薬剤や物質。
+j	凝固点	gyokoten	凝固の起こる温度。
+j	凝着	gyochaku	種類の異なる物質が接触した際にお互いにくっつくこと。
+j	凝結	gyoketsu	液体中のコロイド粒子が結合して大きな粒子となり沈殿…
+j	凝縮	gyoshuku	condensation (of vapor)
+j	凝血	gyoketsu	
+j	凝集度	gyoshudo	
+j	凝集数	gyoshusu	aggregation number
+j	刑部省	gyobusho	the Ministry of Justice
+j	御物	gyobutsu	天子、皇室の所有物。
+j	暁日	gyojitsu	朝日。
+j	暁達	gyotatsu	物事や道理に通じていること。通暁。
+j	漁色	gyoshoku	次から次へと女色を漁ること。
+j	牛乳屋	gyunyuya	dairy (shop selling dairy…
+j	牛飯	gyumeshi	丼飯に玉葱などとともに甘辛く煮た牛肉を汁どともに掛…
+j	牛骨	gyukotsu	牛の骨。
+j	玉代	gyokudai	芸者、遊女を揚げて遊ぶ費用。花代。
+j	玉体	gyokutai	(your) body (especially t…
+j	玉塵	gyokujin	snow
+j	玉将	gyokusho	a jeweled general (one of…
+j	玉帳	gyokucho	玉で装飾された帳。
+j	玉泉	gyokusen	清らかな泉。
+j	玉液	gyokueki	美しい液体。茶や酒の形容。
+j	玉牒	gyokucho	皇帝、皇室の系譜。
+j	玉玲	gyokurei	玉の音。
+j	玉砕	gyokusai	dying in an honorable def…
+j	玉篇	gyokuhen	Yupian
+j	玉船	gyokusen	酒器。
+j	玉蟾	gyokusen	月の中にいるとされる三つ足のがま。
+j	玉酒	gyokushu	玉のように良い酒。うまい酒。
+j	玉醴	gyokurei	玉液。
+j	玉釧	gyokusen	玉を連ねて飾った玉。
+j	玉門	gyokumon	beautifully decorated gate
+j	玉饌	gyokusen	御馳走。
+j	玉髄	gyokuzui	chalcedony
+j	瘧師	gyakushi	a surname
+j	虐待	gyakutai	abuse; maltreatment; mist…
+j	虐政	gyakusei	人民を苦しめる、悪い政治。むごい政治。暴虐な政治。
+j	行列	gyoretsu	a line or queue, a proces…
+j	行実	gyojitsu	その人が行ってきた事柄。また、それを記した文。
+j	行揃え	gyosoroe	
+j	行政区	gyoseiku	administrative region
+j	行政府	gyoseifu	行政機関のこと。
+j	行政法	gyoseiho	行政の組織とその作用についての法令の総称。特に国、…
+j	行末	gyomatsu	文章の行の最後。
+j	行殺	gyosatsu	A quick or effortless kil…
+j	行番号	gyobango	line number
+j	行送り	gyookuri	a line feed (On a typewri…
+j	逆ナン	gyakunan	when a woman hits on a man
+j	逆位相	gyakuiso	位相の差がπであること。直交。
+j	逆修	gyakushu	迷い、真理から遠ざかること。
+j	逆剣	gyakuken	時計の針を逆回しにすること。
+j	逆態	gyakutai	逆接。逆態接続。
+j	逆成	gyakusei	造語方法の一つ。本来は接尾語でも語尾でもない部位を…
+j	逆流	gyakuryu	counter current, flowing …
+j	逆王手	gyakuote	cross-check
+j	逆算	gyakusan	inference, back calculati…
+j	逆襲	gyakushu	counterattack
+j	逆転	gyakuten	reversal
+j	逆順	gyakujun	in reverse order, opposit…
+j	馭者座	gyoshaza	
+j	魚物	gyobutsu	魚。魚類。
+j	魚腥草	gyoseiso	dried Houttuynia cordata …
+j	魚食	gyoshoku	主として魚を食べること。
+j	魚鼈	gyobetsu	魚とすっぽん。
+k	갸울이다	gyaurida	
+k	갹금	gyakgeum	
+k	갹출	gyakchul	To make a contribution; c…
+k	걀걀	gyalgyal	
+k	걔들	gyaedeul	
+k	겨누다	gyeonuda	to take aim at (target); …
+k	겨루다	gyeoruda	to compete (with), to pit…
+k	겨를	gyeoreul	leisure, spare time, appr…
+k	겨우내	gyeounae	during the winter; throug…
+k	겨울비	gyeoulbi	winter rain
+k	겨이삭	gyeoisak	A bentgrass, specifically…
+k	격감	gyeokgam	
+k	격노	gyeongno	rage, fury, violent anger…
+k	격리	gyeongni	isolation
+k	격무	gyeongmu	힘든 일, 고된 일.
+k	격발	gyeokbal	
+k	격식	gyeoksik	
+k	격언	gyeogeon	proverb; saying; maxim
+k	격음	gyeogeum	'거센소리'.
+k	격차	gyeokcha	gap
+k	격화	gyeokhwa	
+k	견갑	gyeongap	
+k	견골	gyeongol	
+k	견과	gyeongwa	nut (plant seed)
+k	견문	gyeonmun	보고 들음.
+k	견박	gyeonbak	
+k	견본	gyeonbon	sample, example, swatch
+k	견속	gyeonsok	
+k	견신	gyeonsin	
+k	견실	gyeonsil	
+k	견우자	gyeonuja	
+k	견직	gyeonjik	
+k	견진	gyeonjin	
+k	견치	gyeonchi	'송곳니'.
+k	견학	gyeonhak	
+k	견해	gyeonhae	opinion; interpretation
+k	견혹	gyeonhok	
+k	결과	gyeolgwa	as a result of
+k	결국	gyeolguk	in the end, ultimately
+k	결단	gyeoldan	decision
+k	결락	gyeollak	있어야 할 부분이 빠져서 떨어져 나감.
+k	결론	gyeollon	conclusion
+k	결막	gyeolmak	
+k	결말	gyeolmal	어떤 일이 마무리되는 끝.
+k	결박	gyeolbak	몸이나 손 따위를 움직이지 못하도록 동이어 묶…
+k	결산	gyeolsan	일정한 기간 동안의 수입과 지출을 마감하여 계…
+k	결속	gyeolsok	bond, union, unity, cohes…
+k	결손	gyeolson	모자람.
+k	결실	gyeolsil	
+k	결심	gyeolsim	resolution, determination
+k	결여	gyeoryeo	마땅히 있어야 하는 것이 빠져서 없거나 모자람.
+k	결원	gyeorwon	
+k	결재	gyeoljae	높은 직위에 있는 사람이 그 밑에 있는 사람이…
+k	결집	gyeoljip	에어로졸(aerosol)이 브라운(brown)…
+k	결탁	gyeoltak	
+k	결판	gyeolpan	
+k	결핍	gyeolpip	lack; deficiency
+k	결함	gyeolham	defect; flaw; fault
+k	결합	gyeolhap	combination; fusion
+k	결혼	gyeolhon	marriage
+k	겸각	gyeomgak	
+k	겸손	gyeomson	modesty, humility
+k	겸업	gyeomeop	
+k	겸직	gyeomjik	
+k	겸퇴	gyeomtoe	겸손히 사양하고 물러남.
+k	겸함	gyeomham	
+k	겸허	gyeomheo	잘난 체 하지 않고 스스로 자신을 낮춤.
+k	겹눈	gyeomnun	
+k	겹셈	gyeopsem	
+k	경고	gyeonggo	warning
+k	경구	gyeonggu	aphorism; epigram
+k	경기	gyeonggi	a sporting or athletic co…
+k	경도	gyeongdo	longitude
+k	경라	gyeongna	
+k	경로	gyeongno	course, route
+k	경리	gyeongni	
+k	경마	gyeongma	horse race
+k	경모	gyeongmo	
+k	경미	gyeongmi	'멥쌀'.
+k	경보	gyeongbo	alarm, alert, warning
+k	경부	gyeongbu	
+k	경비	gyeongbi	expenses; cost
+k	경사	gyeongsa	inclination; slant; slope
+k	경세	gyeongse	
+k	경수	gyeongsu	
+k	경시	gyeongsi	contempt; negligence; dis…
+k	경악	gyeongak	astonishment; shock
+k	경애	gyeongae	
+k	경야	gyeongya	
+k	경어	gyeongeo	honorific
+k	경옥	gyeongok	jade; jadeite
+k	경외	gyeongoe	reverence, holding in awe…
+k	경운	gyeongun	the act of ploughing, til…
+k	경위	gyeongwi	inspector
+k	경유	gyeongyu	diesel (fuel)
+k	경의	gyeongui	reverence, respect
+k	경인	gyeongin	The twenty-seventh term o…
+k	경자	gyeongja	The thirty-seventh term o…
+k	경제	gyeongje	economy
+k	경주	gyeongju	race; run
+k	경지	gyeongji	scope, area, field
+k	경호	gyeongho	
+k	곁눈	gyeonnun	얼굴은 돌리지 않고 눈알만 옆으로 굴려서 보는…
+k	계간지	gyeganji	
+k	계기반	gyegiban	instrument panel, especia…
+k	계기판	gyegipan	instrument panel, especia…
+k	계량	gyeryang	measuring, measurement
+k	계렬	gyeryeol	series
+k	계보학	gyebohak	
+k	계산기	gyesangi	calculator (electronic de…
+k	계승	gyeseung	a factorial
+k	계시판	gyesipan	게시판의 비규범 표기.
+k	계신데	gyesinde	abode, dwelling place, pa…
+k	계약자	gyeyakja	계약을 맺은 다음 일하는 사람.
+k	계쟁	gyejaeng	(법률) 문제 해결을 위해 당사자끼리 법적으로…
+k	계정	gyejeong	account
+k	계집아이	gyejibai	girl; young girl
+k	계집애	gyejibae	girl, chick
+k	계책	gyechaek	
+k	계철	gyecheol	a yoke
+k	계피산	gyepisan	
+k	계합사	gyehapsa	
+k	교결	gyogyeol	
+k	교교히	gyogyohi	재주와 지혜가 있게.
+k	교대제	gyodaeje	
+k	교량	gyoryang	bridge
+k	교련	gyoryeon	
+k	교룡	gyoryong	
+k	교무실	gyomusil	
+k	교사죄	gyosajoe	
+k	교생	gyosaeng	
+k	교성	gyoseong	seductive female voice
+k	교수단	gyosudan	
+k	교수대	gyosudae	gallows (wooden framework…
+k	교수회	gyosuhoe	
+k	교육가	gyoyukga	
+k	교육부	gyoyukbu	
+k	교육비	gyoyukbi	
+k	교육세	gyoyukse	
+k	교육자	gyoyukja	학생들을 가르치거나 지도하는 사람.
+k	교의학	gyouihak	
+k	교재비	gyojaebi	
+k	교정	gyojeong	proofreading
+k	교제술	gyojesul	
+k	교차로	gyocharo	crossing, crossroad, cros…
+k	교차위	gyochawi	a sex position in which b…
+k	교편	gyopyeon	teacher's pointer
+k	교화소	gyohwaso	prison, reeducation camp
+k	교황	gyohwang	the Pope
+k	교회사	gyohoesa	
+k	규격	gyugyeok	
+k	규므리	gyumeuri	
+k	규정	gyujeong	a provision or rule
+k	균근	gyungeun	
+k	균열	gyunyeol	거북의 등에 있는 무늬처럼 갈라져 터짐.
+k	균일제	gyunilje	
+k	균전	gyunjeon	
+k	귤나무	gyullamu	
+k	귤색	gyulsaek	
+e	gymnasium	gymnasium	1 meaning
+e	gypsy moth	gypsymoth	1 meaning
+e	gyrfalcon	gyrfalcon	1 meaning
+e	gyroscope	gyroscope	1 meaning
+j	ぎゃくばり	gyakubari	doing the reverse of what…
+j	ぎょうかいがん	gyokaigan	凝灰岩: tuff
+j	ぎょかいるい	gyokairui	魚介類: seafood, marine prod…
+j	ギャグボール	gyaguboru	
+j	ギャップイヤー	gyappuiya	大学の入試合格後、高等学校を卒業してから大学入学ま…
+j	ギャップ萌え	gyappumoe	moe arising from a contra…
+j	ギャルもじ	gyarumoji	ギャル文字: cryptic writing; c…
+j	ギャルゲーム	gyarugemu	galge (game centered arou…
+j	ギャルピース	gyarupisu	逆さまの「平和」または「Vサイン」のように人差し指…
+j	ギャル文字	gyarumoji	a form of cryptic Japanes…
+j	ギャンビット	gyanbitto	
+j	凝固する	gyokosuru	
+j	凝灰岩	gyokaigan	tuff
+j	御史台	gyoshidai	後漢から宋の時代まで置かれた官吏を監察する官庁。
+j	業室	gyoshitsu	実験や研究などの作業をする部屋。
+j	業界紙	gyokaishi	業界関係者向けの情報を掲載した新聞。業界新聞。
+j	業界誌	gyokaishi	業界関係者向けの情報を掲載した雑誌。業界雑誌。
+j	漁夫の利	gyofunori	fishing in troubled water…
+j	漁夫之利	gyofunori	winning by default, fishi…
+j	漁業権	gyogyoken	漁業に関する権利。
+j	牛乳瓶	gyunyubin	
+j	牛鍋屋	gyunabeya	牛鍋を提供する店、人。
+j	玉石	gyokuseki	wheat and chaff, the good…
+j	玉簪	gyokushin	玉で飾った簪。
+j	行儀のいい	gyoginoii	
+j	行儀作法	gyogisaho	立ち居振舞いの作法。
+j	行商人	gyoshonin	peddler, hawker
+j	行政権	gyoseiken	国家の統治権のうち、行政を行う権限。
+j	逆コース	gyakukosu	戦後のGHQが日本の共産化を防ぐために行なった政策…
+j	逆パカ	gyakupaka	closing a flip phone in t…
+j	逆切れ	gyakugire	本来怒られるべき人が、逆に怒り出すこと。また、単に…
+j	逆効果	gyakukoka	opposite effect; an effec…
+j	逆引き	gyakubiki	reverse lookup
+j	逆張り	gyakubari	取引で人気がある時に売り、人気の無い時に買うこと。
+j	逆心	gyakushin	主君に謀反を企む心。
+j	逆日歩	gyakuhibu	株式を信用取引するとき、売建の借株について、貸株料…
+j	逆球	gyakudama	捕手が要求したコースとは反対の方向に外れた投球。
+j	逆神	gyakushin	予想がことごとく外れてしまう人。
+j	逆臣	gyakushin	a traitorous minister
+j	逆賊	gyakuzoku	traitor to the ruler
+j	逆進	gyakushin	本来の方向とは逆に進むこと。
+j	魚介類	gyokairui	seafood, marine products,…
+j	魚貝類	gyokairui	魚介類の別形。特に魚類と貝類をさす。
+j	魚鱗癬	gyorinsen	ichthyosis (disease which…
+k	갸우뚱	gyauttung	
+k	갸울딱	gyaulttak	
+k	갸웃하다	gyauthada	
+k	걀쑥이	gyalssugi	
+k	걀쭉이	gyaljjugi	
+k	걀찍이	gyaljjigi	
+k	겨냥	gyeonyang	
+k	겨우살이	gyeousari	Korean mistletoe (Viscum …
+k	겨울나이	gyeoullai	겨우살이의 북한말.
+k	겨울날	gyeoullal	winter day
+k	겨울밤	gyeoulbam	winter night
+k	겨울새	gyeoulsae	winter bird
+k	겨울잠	gyeouljam	hibernation
+k	격 조사	gyeokjosa	체언이나 체언 구실을 하는 말에 붙어 앞말이 …
+k	격납	gyeongnap	넣어 둠
+k	격동	gyeokdong	정세 따위가 급격하게 움직임.
+k	격률	gyeokryul	
+k	격막	gyeongmak	
+k	격전	gyeokjeon	fierce battle
+k	격절	gyeokjeol	
+k	격투기	gyeoktugi	
+k	견강	gyeongang	
+k	견공	gyeongong	
+k	견데다	gyeondeda	'견디다'의 비표준어.
+k	견디다	gyeondida	to endure
+k	견방	gyeonbang	
+k	견백	gyeonbaek	
+k	견습	gyeonseup	'수습'의 비규범 표기.
+k	견양	gyeonyang	서식, 보기, 본.
+k	견우화	gyeonuhwa	'나팔꽃'.
+k	견융	gyeonyung	the Quanrong (ethnic grou…
+k	견장	gyeonjang	epaulette (shoulder decor…
+k	견적	gyeonjeok	estimation; quotation
+k	견전	gyeonjeon	
+k	견제구	gyeonjegu	
+k	견주다	gyeonjuda	to compare
+k	결강	gyeolgang	
+k	결근	gyeolgeun	출근해야하는데 출근하지 아니함
+k	결방	gyeolbang	방송을 하지 못함.
+k	결백	gyeolbaek	행동이나 마음씨가 깨끗하고 조촐하여 아무런 허…
+k	결빙	gyeolbing	freezing, the formation o…
+k	결석	gyeolseok	absence
+k	결선	gyeolseon	
+k	결연	gyeolyeon	
+k	결의안	gyeoruian	
+k	결장	gyeoljang	The colon
+k	결전	gyeoljeon	
+k	결절	gyeoljeol	
+k	결점	gyeoljeom	flaw; defect; shortcoming
+k	결찰	gyeolchal	
+k	결항	gyeolhang	
+k	결핵	gyeolhaek	tuberculosis
+k	겸관	gyeomgwan	
+k	겸근	gyeomgeun	
+k	겸상	gyeomsang	
+k	겸양	gyeomyang	
+k	겸용	gyeomyong	한 가지를 여러 가지 목적으로 씀.
+k	겸하다	gyeomhada	to serve also as ...; to …
+k	겹놓다	gyeomnota	to overlap
+k	경각	gyeonggak	alertness; vigilance
+k	경감	gyeonggam	덜어내어 가볍게 함.
+k	경개	gyeonggae	
+k	경거	gyeonggeo	경솔하게 행동함. 또는 그런 행동.
+k	경계	gyeonggye	boundary
+k	경골	gyeonggol	
+k	경과	gyeonggwa	
+k	경남	gyeongnam	'경상남도'의 준말.
+k	경내	gyeongnae	
+k	경단	gyeongdan	A kind of Korean rice cak…
+k	경대	gyeongdae	
+k	경락	gyeongnak	인체 내의 기혈이 흐르는 통로와 거기서 흩어져…
+k	경례	gyeongnye	salute
+k	경매	gyeongmae	auction
+k	경문	gyeongmun	
+k	경물	gyeongmul	
+k	경박	gyeongbak	말이나 행동이 조심스럽지 못하고 가벼움.
+k	경배	gyeongbae	
+k	경북	gyeongbuk	'경상북도'의 준말.
+k	경솔	gyeongsol	말이나 행동이 조심성 없이 가벼움.
+k	경쇠	gyeongsoe	점을 치는 일을 직업으로 삼는 맹인(盲人)이 …
+k	경술	gyeongsul	The forty-seventh term of…
+k	경식	gyeongsik	토지를 경작하여 농작물을 재배함.
+k	경신	gyeongsin	The fifty-seventh term of…
+k	경원	gyeongwon	
+k	경은	gyeongeun	
+k	경음	gyeongeum	'된소리'.
+k	경작	gyeongjak	tillage; cultivation
+k	경죄	gyeongjoe	a minor offense; a misdem…
+k	경직	gyeongjik	stiffness, being stiff
+k	경진	gyeongjin	The seventeenth term of t…
+k	경질	gyeongjil	replacement; reshuffling
+k	경차	gyeongcha	
+k	경추	gyeongchu	척추뼈 가운데 가장 위쪽 목에 있는 일곱 개의…
+k	경치	gyeongchi	scenery, scene, view
+k	경탄	gyeongtan	매우 감탄하는 것.
+k	경품	gyeongpum	
+k	경합	gyeonghap	competition
+k	경화	gyeonghwa	물체가 딱딱해지는 것.
+k	곁가마	gyeotgama	
+k	곁바다	gyeotbada	연해(緣海)의 북한말.
+k	곁점	gyeotjeom	
+k	계란판	gyeranpan	
+k	계명	gyemyeong	commandment
+k	계산대	gyesandae	counter; checkout
+k	계산서	gyesanseo	check, bill
+k	계산원	gyesanwon	cashier (person in charge…
+k	계산이요	gyesaniyo	
+k	계수나무	gyesunamu	
+k	계약서	gyeyakseo	contract
+k	계절조	gyejeoljo	'철새'의 북한말.
+k	계집질	gyejipjil	debauchery, whoring, runn…
+k	계층	gyecheung	class of people, stratum
+k	계획자	gyehoekja	
+k	교과목	gyogwamok	학교에서 가르쳐야 할 지식이나 경험의 체계를 …
+k	교과서	gyogwaseo	a textbook
+k	교대식	gyodaesik	
+k	교도관	gyodogwan	prison guard, jailer
+k	교령	gyoryeong	
+k	교명	gyomyeong	
+k	교무주임	gyomujuim	
+k	교미하다	gyomihada	to mate; to copulate
+k	교방고	gyobanggo	
+k	교부금	gyobugeum	
+k	교부하다	gyobuhada	
+k	교사범	gyosabeom	타인으로 하여금 범죄를 결의하여 실행케 한 자…
+k	교사하다	gyosahada	to instigate; to incite
+k	교수법	gyosubeop	학문이나 기술을 가르치는 방법.
+k	교습소	gyoseupso	공부를 가르치는 곳.
+k	교양미	gyoyangmi	
+k	교양인	gyoyangin	
+k	교외선	gyooeseon	
+k	교외지도	gyooejido	
+k	교육감	gyoyukgam	
+k	교육계	gyoyukgye	
+k	교육학	gyoyukhak	pedagogy
+k	교자상	gyojasang	
+k	교재원	gyojaewon	
+k	교제하다	gyojehada	
+k	교조주의	gyojojuui	dogmatism, doctrinairism
+k	교직원	gyojigwon	
+k	교집합	gyojiphap	
+k	교차율	gyochayul	
+k	교착어	gyochageo	agglutinative language
+k	교통로	gyotongno	차들이 지나다니는 길.
+k	교통부	gyotongbu	
+k	교통비	gyotongbi	교통에 드는 비용.
+k	교통세	gyotongse	
+k	교호하다	gyohohada	
+k	교회론	gyohoeron	ecclesiology
+k	규명	gyumyeong	
+k	규소 수지	gyusosuji	
+k	규소수지	gyusosuji	silicone resin
+k	규제하다	gyujehada	to regulate; to restrict
+k	규조석	gyujoseok	
+k	규화목	gyuhwamok	
+k	균등	gyundeung	
+k	균정	gyunjeong	
+e	gyeongsang	gyeongsang	1 meaning
+e	gymnastics	gymnastics	1 meaning
+e	gymnosperm	gymnosperm	1 meaning
+e	gynecology	gynecology	1 meaning
+e	gynephilia	gynephilia	1 meaning
+e	gynophobia	gynophobia	1 meaning
+j	ぎゃくせつ	gyakusetsu	逆説: paradox
+j	ぎゃくゆにゅう	gyakuyunyu	逆輸入: reimportation
+j	ぎょうぎしば	gyogishiba	行儀芝: Bermuda grass (Cynod…
+j	ぎょろぎょろ	gyorogyoro	with staring eyes
+j	ギャザリング	gyazaringu	集めたもの。集合。
+j	ギャラクシー	gyarakushi	銀河。天の川。
+j	ギャングスター	gyangusuta	
+j	ギュッとする	gyuttosuru	
+j	仰々しい	gyogyoshii	exaggerated
+j	仰仰しい	gyogyoshii	大袈裟であるさま。
+j	凝固熱	gyokonetsu	凝固するときに外部へ放出される熱量。
+j	暁新世	gyoshinsei	古第三紀の最初の世。6600万年前から5600万年…
+j	業界用語	gyokaiyogo	
+j	漁色家	gyoshokuka	
+j	牛耕式	gyukoshiki	boustrophedon (text writt…
+j	玉屑	gyokusetsu	玉の粉末。
+j	玉折	gyokusetsu	若くして死ぬこと。
+j	玉竹	gyokuchiku	dried roots of Polygonatu…
+j	玉音盤	gyokuonban	玉音放送に用いる天皇の肉声を録音したレコード。
+j	虐殺	gyakusatsu	massacre, slaughter
+j	行儀がよい	gyogigayoi	
+j	行儀芝	gyogishiba	Bermuda grass (Cynodon da…
+j	行刑学	gyokeigaku	
+j	行政学	gyoseigaku	社会科学の一分野で、行政の機能、変遷などを考察し、…
+j	行政的	gyoseiteki	行政に関するさま。
+j	行疫神	gyoyakujin	疫病を流行させる神。疫病神。
+j	行頭揃え	gyotosoroe	alignment of characters t…
+j	逆レイプ	gyakureipu	reverse rape (rape of a m…
+j	逆接	gyakusetsu	adversative, contrastive;…
+j	逆比例	gyakuhirei	ある変数が何倍かに変化すると、それに伴って別の変数…
+j	逆説	gyakusetsu	paradox
+j	逆輸入	gyakuyunyu	reimportation
+j	逆関数	gyakukansu	inverse function
+j	魚眼石	gyoganseki	an apophyllite
+j	魚類学	gyoruigaku	ichthyology
+k	갸우듬히	gyaudeumhi	
+k	갸울갸울	gyaulgyaul	
+k	갸울대다	gyauldaeda	
+k	갸웃갸웃	gyautgyaut	
+k	갸웃대다	gyautdaeda	'갸웃거리다'.
+k	걀쑴히	gyalssumhi	
+k	겨울털	gyeoulteol	winter furs
+k	겨자색	gyeojasaek	mustard (color)
+k	겨절임	gyeojeorim	(북한말) 말린 무를 쌀겨에 묻어 익힌 음식.
+k	격랑	gyeongnang	거센 파도.
+k	격려	gyeongnyeo	encouragement, urging
+k	격벽	gyeokbyeok	
+k	격자문	gyeokjamun	문살문.
+k	격정	gyeokjeong	강렬하고 갑작스러워 누르기 어려운 감정.
+k	견련	gyeollyeon	
+k	견본시	gyeonbonsi	
+k	견성	gyeonseong	kenshō: perceiving the tr…
+k	견인차	gyeonincha	
+k	견정	gyeonjeong	담경(膽經)에 속한 혈(穴)의 이름. 어깨 위…
+k	견책	gyeonchaek	censure; reprimand
+k	결단코	gyeoldanko	definitely, absolutely, b…
+k	결렬	gyeollyeol	breakdown
+k	결맹	gyeolmaeng	
+k	결속기	gyeolsokgi	끈이나 철사 등을 묶는 공구(工具)
+k	결승	gyeolseung	final; the last round of …
+k	결의문	gyeoruimun	
+k	결정	gyeoljeong	decision
+k	결행	gyeolhaeng	
+k	겹겹	gyeopgyeop	being layered
+k	겹박자	gyeopbakja	
+k	겹치다	gyeopchida	to pile up, to lay on top…
+k	경관	gyeonggwan	landscape; scenery
+k	경극	gyeonggeuk	
+k	경기도	gyeonggido	Gyeonggi, Kyŏnggi (a prov…
+k	경낭	gyeongnang	bathroom, outhouse
+k	경동	gyeongdong	
+k	경륜	gyeongnyun	
+k	경리부	gyeongnibu	
+k	경망	gyeongmang	
+k	경맥	gyeongmaek	기혈이 순환하는 기본 통로.
+k	경벌	gyeongbeol	가벼운 벌.
+k	경보기	gyeongbogi	siren, alarm (device for …
+k	경봉	gyeongbong	존경하여 받듦.
+k	경사도	gyeongsado	
+k	경사로	gyeongsaro	
+k	경상	gyeongsang	
+k	경색	gyeongsaek	blockage
+k	경석	gyeongseok	
+k	경선	gyeongseon	
+k	경양	gyeongyang	
+k	경연	gyeongyeon	
+k	경운기	gyeongungi	
+k	경위의	gyeongwiui	
+k	경유지	gyeongyuji	
+k	경이감	gyeongigam	
+k	경입자	gyeongipja	lepton
+k	경장	gyeongjang	
+k	경적	gyeongjeok	car horn, hooter, klaxon
+k	경전	gyeongjeon	변하지 않는 법식(法式)과 도리.
+k	경제사	gyeongjesa	
+k	경제의	gyeongjeui	
+k	경제인	gyeongjein	
+k	경조사	gyeongjosa	
+k	경종	gyeongjong	
+k	경주로	gyeongjuro	
+k	경주마	gyeongjuma	
+k	경주시	gyeongjusi	경상북도 동남부에 있는 시.
+k	경중	gyeongjung	
+k	경찰	gyeongchal	police; policing
+k	경축	gyeongchuk	celebration
+k	경칩	gyeongchip	이십사절기의 하나. 우수(雨水)와 춘분(春分)…
+k	경쾌	gyeongkwae	
+k	경하다	gyeonghada	무게가 가볍다.
+k	경험	gyeongheom	experience
+k	계단통	gyedantong	
+k	계란마키	gyeranmaki	달걀말이, 계란말이.
+k	계란말이	gyeranmari	달걀을 부쳐서 돌돌 말아 놓은 음식.
+k	계란색	gyeransaek	계란 껍질처럼 흐린 노란 주황색.
+k	계란찜	gyeranjjim	gyeran-jjim (Korean steam…
+k	계량기	gyeryanggi	meter; gauge
+k	계량수	gyeryangsu	
+k	계산기구	gyesangigu	여러 가지 연산을 하는 기구. 계산척, 수판,…
+k	계산하다	gyesanhada	to calculate
+k	계삼탕	gyesamtang	A traditional Korean soup…
+k	계속될	gyesokdoel	
+k	계속하다	gyesokhada	to continue; to resume
+k	계승자	gyeseungja	successor, heir
+k	계안창	gyeanchang	
+k	계약금	gyeyakgeum	
+k	계약하다	gyeyakhada	to contract; to make a co…
+k	계집종	gyejipjong	maid, female servant
+k	계통군	gyetonggun	
+k	교각살우	gyogaksaru	(사자성어) 뿔을 고치려다 소를 죽인다. 작은…
+k	교감하다	gyogamhada	
+k	교거하다	gyogeohada	남의 집이나 타향에서 임시로 몸을 부쳐 살다.
+k	교교하다	gyogyohada	to be beautifully white a…
+k	교대하다	gyodaehada	
+k	교란하다	gyoranhada	to disturb
+k	교류하다	gyoryuhada	to exchange, to interchan…
+k	교만하다	gyomanhada	
+k	교묘하다	gyomyohada	솜씨나 재주 따위가 재치 있게 약삭빠르고 묘하…
+k	교배종	gyobaejong	
+k	교배하다	gyobaehada	
+k	교부되다	gyobudoeda	
+k	교부받다	gyobubatda	to have or be delivered, …
+k	교비생	gyobisaeng	
+k	교살하다	gyosalhada	
+k	교수요목	gyosuyomok	
+k	교신하다	gyosinhada	
+k	교양물	gyoyangmul	
+k	교열본	gyoyeolbon	
+k	교예스키	gyoyeseuki	(스키) '발레스키'의 북한말.
+k	교육법	gyoyukbeop	
+k	교육열	gyoyugyeol	
+k	교육장	gyoyukjang	
+k	교육적	gyoyukjeok	교육방침에 따르는.
+k	교육제도	gyoyukjedo	
+k	교육지도	gyoyukjido	
+k	교육하다	gyoyukhada	to educate; to train
+k	교잡종	gyojapjong	
+k	교잡하다	gyojaphada	
+k	교장실	gyojangsil	
+k	교전국	gyojeonguk	
+k	교정자	gyojeongja	
+k	교정지	gyojeongji	
+k	교차점	gyochajeom	
+k	교차하다	gyochahada	
+k	교체하다	gyochehada	to change; to replace
+k	교통난	gyotongnan	
+k	교합하다	gyohaphada	
+k	교향시	gyohyangsi	
+k	교향악	gyohyangak	
+k	교호되다	gyohodoeda	('…과'가 나타나지 않을 때는 여럿임을 뜻하…
+k	교화하다	gyohwahada	
+k	교환대	gyohwandae	switchboard
+k	교환물	gyohwanmul	
+k	교환원	gyohwanwon	
+k	교환율	gyohwanyul	
+k	교활한	gyohwalhan	
+k	교회관	gyohoegwan	
+k	교회당	gyohoedang	
+k	규산염	gyusanyeom	
+k	규장각	gyujanggak	
+k	규제되다	gyujedoeda	to be regulated; to be re…
+k	규탄하다	gyutanhada	to censure; to denounce
+k	규합하다	gyuhaphada	
+k	규회석	gyuhoeseok	
+k	균류학	gyullyuhak	
+k	균수법	gyunsubeop	
+k	균일하다	gyunilhada	
+k	균전제	gyunjeonje	
+k	균형	gyunhyeong	balance; equilibrium
+e	gyrocompass	gyrocompass	1 meaning
+j	凝固させる	gyokosaseru	
+j	凝集力	gyoshuryoku	cohesion (the various int…
+j	御名御璽	gyomeigyoji	the Imperial Signature an…
+j	玉音放送	gyokuonhoso	天皇の肉声を録音したラジオ・テレビの放送。特に、1…
+j	瘧疾	gyakushitsu	瘧。
+j	行ベクトル	gyobekutoru	row vector
+j	行政機関	gyoseikikan	国家や地方の行政の事務を執行し、行政権を行使する機…
+j	行政職	gyoseishoku	行政事務に従事する公務員。
+j	行政解剖	gyoseikaibo	行政上の目的から犯罪性のない変死体についてその死因…
+j	行政訴訟	gyoseisosho	国や地方自治体などの行政機関が当事者となる訴訟。私…
+j	行間を読む	gyokanoyomu	to read between the lines
+j	逆にする	gyakunisuru	
+j	逆ハーレム	gyakuharemu	reverse harem, a situatio…
+j	逆再生	gyakusaisei	reverse playback
+j	逆変換	gyakuhenkan	ある変換が全単射であるときに定義される逆写像。また…
+j	逆戻り	gyakumodori	再度元の場所や状態に戻ること。
+j	逆推論	gyakusuiron	
+j	逆斜線	gyakushasen	backslash (punctuation)
+j	逆止弁	gyakushiben	check valve
+j	逆行する	gyakkousuru	
+j	魚眼レンズ	gyoganrenzu	a fisheye lens
+k	갸륵하다	gyareukhada	착하고 장하다.
+k	갸름하다	gyareumhada	slender, slim
+k	갸울어지다	gyaureojida	
+k	걔볍다	gyaebyeopda	
+k	겨울철	gyeoulcheol	wintertime; the winter se…
+k	격납고	gyeongnapgo	hangar
+k	격렬	gyeongnyeol	Root of 격렬(激烈)하다 (gyeongn…
+k	격자법	gyeokjabeop	수치예보 등에서 사용하는 것으로 기상요소 상태…
+k	격투 게임	gyeoktugeim	
+k	격파하다	gyeokpahada	to smash, to break, to cr…
+k	견갑골	gyeongapgol	
+k	견경	gyeongyeong	
+k	견고기지	gyeongogiji	(군사) 핵 공격에 대비하여 튼튼하고 안전하게…
+k	견고하다	gyeongohada	매우 튼튼하고 조밀하다.
+k	견리하다	gyeollihada	
+k	견마지로	gyeonmajiro	개와 말의 노력. 충성을 다함.
+k	견문록	gyeonmullok	
+k	견박골	gyeonbakgol	
+k	견신례	gyeonsillye	
+k	견우성	gyeonuseong	염소자리의 베타별 다비흐(Dabih)를 말함.
+k	견유주의	gyeonyujuui	
+k	견지하다	gyeonjihada	to hold fast to; to maint…
+k	견출지	gyeonchulji	찾아보기 표, 찾음표.
+k	견혼식	gyeonhonsik	
+k	결의하다	gyeoluihada	
+k	결투장	gyeoltujang	
+k	결합체	gyeolhapche	
+k	결혼식	gyeolhonsik	wedding ceremony
+k	겸손한	gyeomsonhan	
+k	겸양어	gyeomyangeo	
+k	겸임하다	gyeomimhada	두가지 이상의 일을 하다.
+k	겹겹이	gyeopgyeobi	in layers, one over anoth…
+k	겹빵이	gyeopppangi	sandwich
+k	경견	gyeonggyeon	
+k	경고문	gyeonggomun	
+k	경고표	gyeonggopyo	yellow card
+k	경구개	gyeonggugae	
+k	경기담	gyeonggidam	선수들이 경기에서 갖는 '의지력'의 북한말.
+k	경기홀	gyeonggihol	'실내 경기장'의 북한말.
+k	경량	gyeongnyang	lightweight
+k	경력	gyeongnyeok	career, work experience
+k	경련	gyeongnyeon	convulsions; spasms
+k	경리과	gyeongnigwa	
+k	경리실	gyeongnisil	
+k	경매사	gyeongmaesa	
+k	경매제	gyeongmaeje	
+k	경멸	gyeongmyeol	contempt; scorn
+k	경보음	gyeongboeum	
+k	경비단	gyeongbidan	
+k	경비대	gyeongbidae	guard
+k	경비실	gyeongbisil	
+k	경비원	gyeongbiwon	watchman, guard, security…
+k	경사각	gyeongsagak	
+k	경산시	gyeongsansi	경상북도 남부에 있는 시.
+k	경성	gyeongseong	Seoul
+k	경솔히	gyeongsolhi	
+k	경수필	gyeongsupil	수필 중 일상 생활에 일어났던 일 등을 소재로…
+k	경승	gyeongseung	
+k	경아하다	gyeongahada	놀랄 정도로 의아하게 여기다.
+k	경악한	gyeongakhan	
+k	경영	gyeongyeong	management; administration
+k	경외감	gyeongoegam	
+k	경외심	gyeongoesim	
+k	경음기	gyeongeumgi	vehicle horns
+k	경음악	gyeongeumak	
+k	경의실	gyeonguisil	
+k	경이적	gyeongijeok	매우 놀랍고 새로운.
+k	경작자	gyeongjakja	
+k	경작지	gyeongjakji	
+k	경쟁	gyeongjaeng	competition
+k	경정	gyeongjeong	바르게 고침.
+k	경제계	gyeongjegye	
+k	경제국	gyeongjeguk	
+k	경제난	gyeongjenan	
+k	경제론	gyeongjeron	
+k	경제학	gyeongjehak	economics
+k	경증	gyeongjeung	
+k	경지율	gyeongjiyul	
+k	경첩	gyeongcheop	여닫이문을 달 때 한쪽은 문틀에, 다른 한쪽은…
+k	경치다	gyeongchida	
+k	경칭	gyeongching	title of honor
+k	경편	gyeongpyeon	
+k	경품부	gyeongpumbu	
+k	경합자	gyeonghapja	
+k	경향	gyeonghyang	a trend, tendency
+k	경혈	gyeonghyeol	14 경맥(經脈)에 속해 있는 혈(穴)을 이르…
+k	경호실	gyeonghosil	
+k	경호원	gyeonghowon	guard; bodyguard
+k	경화기	gyeonghwagi	
+k	경화제	gyeonghwaje	
+k	경황	gyeonghwang	
+k	곁사슬	gyeotsaseul	side chain
+k	계급장	gyegeupjang	rank, badge, ensign, insi…
+k	계란 후라이	gyeranhurai	
+k	계란유골	gyeranyugol	some people always have b…
+k	계류되다	gyeryudoeda	
+k	계몽주의	gyemongjuui	Enlightenment
+k	계산기계	gyesangigye	문화어에서 ‘컴퓨터’를 달리 이르는 말.
+k	계산척	gyesancheok	
+k	계속되다	gyesokdoeda	to continue
+k	계약기간	gyeyakgigan	계약의 의한 기간.
+k	계약위반	gyeyakwiban	
+k	계약의 궤	gyeyaguigwe	
+k	계절예보	gyejeolyebo	장기예보에 속하는 것으로 계절의 일기개황을 예…
+k	계절적	gyejeoljeok	seasonal, for the season
+k	계절풍	gyejeolpung	북반구에서 여름에는 대륙이 해양보다 온도가 높…
+k	계집년	gyejimnyeon	woman; bitch
+k	계측학	gyecheukhak	측정에 대한 과학적 연구.
+k	계획하다	gyehoekhada	to plan; to lay out
+k	교가사상	gyogasasang	
+k	교란되다	gyorandoeda	to be disturbed
+k	교류되다	gyoryudoeda	
+k	교리문답	gyorimundap	
+k	교리신학	gyorisinhak	
+k	교방가무	gyobanggamu	
+k	교방가요	gyobanggayo	
+k	교섭하다	gyoseophada	
+k	교수형	gyosuhyeong	
+k	교술민요	gyosulminyo	
+k	교습하다	gyoseuphada	공부를 가르치다.
+k	교양관	gyoyanggwan	
+k	교역도시	gyoyeokdosi	
+k	교역하다	gyoyeokhada	
+k	교열하다	gyoyeolhada	
+k	교육되다	gyoyukdoeda	to be educated
+k	교육소집	gyoyuksojip	
+k	교육학자	gyoyukhakja	
+k	교육한자	gyoyukhanja	교육부에서 중ㆍ고등학교 학생이 배우도록 선정한…
+k	교전권	gyojeongwon	
+k	교전하다	gyojeonhada	
+k	교접하다	gyojeophada	
+k	교정료	gyojeongnyo	
+k	교정본	gyojeongbon	
+k	교정술	gyojeongsul	
+k	교정원	gyojeongwon	
+k	교차되다	gyochadoeda	
+k	교차성	gyochaseong	
+k	교착하다	gyochakhada	
+k	교체되다	gyochedoeda	
+k	교통도시	gyotongdosi	
+k	교통망	gyotongmang	
+k	교통사고	gyotongsago	road accident
+k	교통지옥	gyotongjiok	
+k	교통하다	gyotonghada	서로 오고 가다, 또는 소식이나 정보를 주고받…
+k	교하질쉬	gyohajilswi	"scolding the village hea…
+k	교향곡	gyohyanggok	symphony
+k	교화되다	gyohwadoeda	
+k	교환하다	gyohwanhada	to exchange; to swap
+k	교활하다	gyohwalhada	to be crafty, to be sly
+k	교회력	gyohoeryeok	
+k	교회음악	gyohoeeumak	
+k	교회회의	gyohoehoeui	
+k	규각나다	gyugangnada	
+k	규격품	gyugyeokpum	
+k	규방가사	gyubanggasa	
+k	규선석	gyuseonseok	
+k	규정액	gyujeongaek	
+k	규칙적	gyuchikjeok	regular; systematic
+k	규탄되다	gyutandoeda	to be censured; to be den…
+k	규폐증	gyupyejeung	
+k	규합되다	gyuhapdoeda	
+k	규환지옥	gyuhwanjiok	팔열지옥 중의 하나.
+k	균전론	gyunjeollon	
+e	gynecomastia	gynecomastia	1 meaning
+j	凝縮する	gyoshukusuru	
+j	御柳擬	gyoryumodoki	common heather, Calluna v…
+j	業界雑誌	gyokaizasshi	業界関係者向けの情報を掲載した雑誌。業界誌。
+j	牛飲馬食	gyuinbashoku	drinking like a fish and …
+j	玉皇上帝	gyokukojotei	Jade Emperor
+j	虐待する	gyakutaisuru	
+j	行儀が悪い	gyogigawarui	
+j	行政処分	gyoseishobun	行政機関が法令に基づき国民に権利を付与したり、義務…
+j	行政区画	gyoseikukaku	administrative division
+j	行政委員会	gyoseiiinkai	国や地方公共団体で政治的中立や公平性が必要な行政に…
+j	逆疑問符	gyakugimonfu	
+j	逆行推論	gyakkosuiron	アブダクション。
+j	逆説の	gyakusetsuno	
+j	逆転負け	gyakutenmake	優勢で勝っていたチームが逆転されて敗北すること。
+j	逆進性	gyakushinsei	所得の低い者が高い者より税金の負担が大きくなってい…
+k	갸우듬하다	gyaudeumhada	
+k	갸울거리다	gyaulgeorida	
+k	갸웃거리다	gyautgeorida	To cock or tilt one's hea…
+k	갹출하다	gyakchulhada	to contribute; to donate
+k	걀걀하다	gyalgyalhada	
+k	걀쑥하다	gyalssukhada	
+k	걀쑴하다	gyalssumhada	
+k	걀쭉하다	gyaljjukhada	
+k	걀찍하다	gyaljjikhada	
+k	겨드랑이	gyeodeurangi	armpit
+k	겨울잠쥐	gyeouljamjwi	dormouse
+k	격노하다	gyeongnohada	to be furious, enraged
+k	격리하다	gyeongnihada	다른 것과 관계하지 못하도록 사이를 막거나 떼…
+k	격화하다	gyeokhwahada	to intensify
+k	견갑근	gyeongapgeun	
+k	견마지심	gyeonmajisim	
+k	견마지치	gyeonmajichi	견마(개와 말)처럼 아무 일없이 먹는 나이. …
+k	견본쇄	gyeonbonswae	
+k	견속하다	gyeonsokhada	
+k	견실하다	gyeonsilhada	to act reliably; to act i…
+k	견유학파	gyeonyuhakpa	
+k	견적서	gyeonjeokseo	
+k	견직물	gyeonjingmul	
+k	견치석	gyeonchiseok	건설 공사에서, 송곳니 모양으로 깎아진 돌.
+k	결가부좌	gyeolgabujwa	부처의 앉아서 참선하는 방법의 하나. 양쪽 발…
+k	결과적	gyeolgwajeok	being as a result; being …
+k	결근계	gyeolgeungye	결근 신고.
+k	결막염	gyeolmagyeom	
+k	결박하다	gyeolbakhada	몸이나 손 따위를 움직이지 못하도록 동이어 묶…
+k	결사옹위	gyeolsaongwi	defending and safeguardin…
+k	결석계	gyeolseokgye	결석 신고.
+k	결속선	gyeolsokseon	철근 작업에서 철근을 고정하기 위해 사용하는 …
+k	결속하다	gyeolsokhada	끈이나 줄을 단단히 묶다
+k	결심하다	gyeolsimhada	to be determined to, to r…
+k	결여하다	gyeoryeohada	만족하지 못하고 서운하다.
+k	결자해지	gyeoljahaeji	(사자성어) 일을 저지른 사람이 그 일을 해결…
+k	결재하다	gyeoljaehada	높은 직위에 있는 사람이 그 밑에 있는 사람이…
+k	결정수	gyeoljeongsu	water of crystallization
+k	결정타	gyeoljeongta	(야구)
+k	결핍하다	gyeolpiphada	to lack in; to be deficie…
+k	결합률	gyeolhamnyul	세 수를 더하거나 곱할 때에, 앞의 두 수 또…
+k	결합하다	gyeolhaphada	to unite; to combine
+k	결혼하다	gyeolhonhada	to marry, to get married
+k	겸손하다	gyeomsonhada	modest, humble
+k	겸허하다	gyeomheohada	modest, humble
+k	겹문장	gyeommunjang	한 문장의 성분 속에 두 개 이상의 절이 종속…
+k	겹받침	gyeopbatchim	a heterogeneous consonant…
+k	겹씨방	gyeopssibang	
+k	경가극	gyeonggageuk	
+k	경각심	gyeonggaksim	
+k	경건히	gyeonggeonhi	
+k	경계심	gyeonggyesim	
+k	경계표	gyeonggyepyo	
+k	경고하다	gyeonggohada	to warn; to give warning
+k	경기관	gyeonggigwan	gym, gymnasium
+k	경기장	gyeonggijang	field, stadium, grounds
+k	경기하다	gyeonggihada	스포츠나 게임을 진행하다.
+k	경도풍	gyeongdopung	상층일기도에서 곡률이 있는 등고선의 접선 방향…
+k	경로당	gyeongnodang	
+k	경마잡이	gyeongmajabi	
+k	경마장	gyeongmajang	racetrack
+k	경미하다	gyeongmihada	
+k	경비기지	gyeongbigiji	함대 간의 연락ㆍ보급과 해상 경비의 역할을 맡…
+k	경비망	gyeongbimang	
+k	경비하다	gyeongbihada	
+k	경사지다	gyeongsajida	
+k	경상도	gyeongsangdo	Gyeongsang, Kyŏngsang (a …
+k	경상자	gyeongsangja	
+k	경선자	gyeongseonja	
+k	경시하다	gyeongsihada	가볍게 여기다. 대수롭지 않게 여기다.
+k	경악하다	gyeongakhada	to become astonished; to …
+k	경애하다	gyeongaehada	to love and respect
+k	경어법	gyeongeobeop	남을 높여서 말하는 법. 주체 높임법, 상대 …
+k	경외하다	gyeongoehada	
+k	경유하다	gyeongyuhada	
+k	경음화	gyeongeumhwa	된소리가 되는 현상.
+k	경이롭다	gyeongiropda	to be wonderful
+k	경이원지	gyeongiwonji	staying at a respectful d…
+k	경제관	gyeongjegwan	
+k	경제권	gyeongjegwon	
+k	경제사가	gyeongjesaga	
+k	경제적	gyeongjejeok	economical (attributive)
+k	경제주의	gyeongjejuui	
+k	경제하다	gyeongjehada	
+k	경조사비	gyeongjosabi	
+k	경주장	gyeongjujang	
+k	경주하다	gyeongjuhada	
+k	경지하다	gyeongjihada	
+k	경청	gyeongcheong	listening attentively
+k	경축사	gyeongchuksa	
+k	경축일	gyeongchugil	경사스러운 일을 기뻐하는 날.
+k	경쾌히	gyeongkwaehi	움직임이나 모습, 기분 따위가 가볍고 상쾌하게.
+k	경험자	gyeongheomja	
+k	경호관	gyeonghogwan	
+k	경호하다	gyeonghohada	
+k	곁들이다	gyeotdeurida	to add to a dish as a side
+k	계급의식	gyegeubuisik	
+k	계기비행	gyegibihaeng	IFR (instrument flight ru…
+k	계란 프라이	gyeranpeurai	synonym of 달걀 프라이 (dalgya…
+k	계란 한 판	gyeranhanpan	30 years of age
+k	계량컵	gyeryangkeop	
+k	계몽시대	gyemongsidae	Age of Enlightenment
+k	계승하다	gyeseunghada	계속 이어지게 하다.
+k	계엄령	gyeeomnyeong	order declaring martial l…
+k	계층화	gyecheunghwa	
+k	계획되다	gyehoekdoeda	to be planned
+k	교련관	gyoryeongwan	
+k	교목층	gyomokcheung	tree layer, story
+k	교육기관	gyoyukgigwan	educational institution
+k	교육대학	gyoyukdaehak	초등학교 교사의 양성을 목적으로 하는 대학.
+k	교육보험	gyoyukboheom	
+k	교육의 장	gyoyukuijang	교육이 이뤄지는 공간. [1980년대 이후]
+k	교육청	gyoyukcheong	
+k	교정기호	gyojeonggiho	
+k	교정쇄	gyojeongswae	
+k	교정하다	gyojeonghada	
+k	교조적이다	gyojojeogida	구체적 현실과는 상관없이 어떤 원칙을 맹목적으…
+k	교직과목	gyojikgwamok	
+k	교진여불	gyojinyeobul	
+k	교질화학	gyojilhwahak	
+k	교차사촌	gyochasachon	
+k	교착되다	gyochakdoeda	
+k	교통량	gyotongnyang	
+k	교통수단	gyotongsudan	
+k	교통신호	gyotongsinho	
+k	교통카드	gyotongkadeu	전철이나 버스 따위의 운임이나 유료 도로의 통…
+k	교통표지	gyotongpyoji	traffic sign
+k	교향악시	gyohyangaksi	
+k	교환가치	gyohwangachi	
+k	교환교수	gyohwangyosu	
+k	교환되다	gyohwandoeda	to be exchanged; to be sw…
+k	규정하다	gyujeonghada	to make a provision; to m…
+k	균역법	gyunyeokbeop	
+k	균전법	gyunjeonbeop	
+k	귤껍질	gyulkkeopjil	
+e	gynaecologist	gynaecologist	1 meaning
+j	ぎょうれつしき	gyoretsushiki	行列式: determinant
+j	業界新聞	gyokaishinbun	業界関係者向けの情報を掲載した新聞。業界紙。
+j	玉皇大帝	gyokukotaitei	Jade Emperor
+j	虐殺者	gyakusatsusha	虐殺する者。
+j	行列式	gyoretsushiki	determinant
+j	行政改革	gyoseikaikaku	国や地方公共団体などの行政機関の機構や運営方法など…
+j	行末揃え	gyomatsusoroe	alignment of characters t…
+j	逆アセンブラー	gyakuasenbura	
+j	逆コンパイラー	gyakukonpaira	
+j	逆感嘆符	gyakukantanfu	
+j	逆行列	gyakugyoretsu	inverse matrix
+j	逆転勝ち	gyakutengachi	comeback victory, coming …
+j	逆進する	gyakushinsuru	
+j	魚肉ソーセージ	gyonikusoseji	獣肉などではなく魚肉を主な原料とするソーセージ。
+j	魚類学者	gyoruigakusha	ichthyologist
+k	갸우뚱하다	gyauttunghada	
+k	갸우랑대다	gyaurangdaeda	
+k	갸울딱하다	gyaulttakhada	
+k	걀걀대다	gyalgyaldaeda	'걀걀거리다'.
+k	걀쯤하다	gyaljjeumhada	상당히 갸름하다.
+k	겨드랭이	gyeodeuraengi	Gangwon, Seoul, Chungcheo…
+k	겨울 폭풍	gyeoulpokpung	
+k	겨울방학	gyeoulbanghak	겨울 기간 동안, 장기간에 걸쳐서 학교 수업이…
+k	격리되다	gyeongnidoeda	사이가 막히고 따로 떨어져서 다른 것과 관계하…
+k	격변화	gyeokbyeonhwa	
+k	격찬하다	gyeokchanhada	to praise, to extol
+k	견관절	gyeongwanjeol	
+k	견문각지	gyeonmungakji	
+k	견습공	gyeonseupgong	
+k	견습기자	gyeonseupgija	
+k	견원지간	gyeonwonjigan	개와 원숭이 사이. 서로 사이가 매우 나쁜 관…
+k	견출장	gyeonchuljang	찾아보기 책, 찾음장.
+k	결국에는	gyeolgugeneun	
+k	결론짓다	gyeollonjitda	
+k	결박되다	gyeolbakdoeda	몸이나 손 따위를 움직이지 못하도록 동이어 묶…
+k	결석하다	gyeolseokhada	to be absent
+k	결식아동	gyeolsigadong	굶는 아이.
+k	결연하다	gyeoryeonhada	마음가짐이나 행동에 있어 태도가 움직일 수 없…
+k	결전장	gyeoljeonjang	
+k	결정계	gyeoljeonggye	
+k	결정론	gyeoljeongnon	determinism
+k	결정체	gyeoljeongche	
+k	결정판	gyeoljeongpan	
+k	결정화	gyeoljeonghwa	crystallisation
+k	결초보은	gyeolchoboeun	죽은 뒤에라도 은혜를 잊지 않고 갚음을 이르는…
+k	결합 조직	gyeolhapjojik	
+k	결합되다	gyeolhapdoeda	to be combined; to be cou…
+k	결합력	gyeolhamnyeok	
+k	결합조직	gyeolhapjojik	
+k	결핵균	gyeolhaekgyun	
+k	결혼 반지	gyeolhonbanji	
+k	결혼반지	gyeolhonbanji	
+k	겸양법	gyeomyangbeop	
+k	겹경사	gyeopgyeongsa	둘 이상 겹친 기쁜 일.
+k	겹도르래	gyeopdoreurae	
+k	겹움직씨	gyeobumjikssi	(문법) 복합동사.
+k	겹이름씨	gyeobireumssi	(문법) 복합명사.
+k	겹주름위	gyeopjureumwi	
+k	경계망	gyeonggyemang	
+k	경계색	gyeonggyesaek	
+k	경계선	gyeonggyeseon	구역을 각각의 구역으로 나누는 선을 가리키는 …
+k	경계하다	gyeonggyehada	to be vigilant; to watch …
+k	경고창	gyeonggochang	a warning window
+k	경공업	gyeonggongeop	light industry
+k	경과하다	gyeonggwahada	
+k	경기력	gyeonggiryeok	
+k	경도되다	gyeongdodoeda	어떤 일에 몹시 마음을 사로잡혀 열중하게 됨.
+k	경력자	gyeongnyeokja	경력이 있는 사람.
+k	경례하다	gyeongnyehada	to salute
+k	경매장	gyeongmaejang	
+k	경매하다	gyeongmaehada	
+k	경멸어	gyeongmyeoreo	
+k	경박하다	gyeongbakhada	
+k	경배하다	gyeongbaehada	
+k	경범죄	gyeongbeomjoe	
+k	경복궁	gyeongbokgung	Gyeongbokgung (main royal…
+k	경사면	gyeongsamyeon	
+k	경상계	gyeongsanggye	
+k	경상북	gyeongsangbuk	
+k	경세제민	gyeongsejemin	
+k	경솔하다	gyeongsolhada	말이나 행동이 조심성 없이 가볍다.
+k	경승지	gyeongseungji	
+k	경시되다	gyeongsidoeda	
+k	경신하다	gyeongsinhada	
+k	경압대기	gyeongapdaegi	경압구조로 형성된 대기.
+k	경양식	gyeongyangsik	
+k	경영인	gyeongyeongin	
+k	경영자	gyeongyeongja	manager
+k	경영주	gyeongyeongju	
+k	경원하다	gyeongwonhada	
+k	경이적인	gyeongijeogin	
+k	경작권	gyeongjakgwon	
+k	경작하다	gyeongjakhada	
+k	경쟁사	gyeongjaengsa	
+k	경쟁자	gyeongjaengja	competitor; rival; contes…
+k	경제력	gyeongjeryeok	
+k	경제사학	gyeongjesahak	
+k	경제성	gyeongjeseong	
+k	경제학부	gyeongjehakbu	
+k	경제학자	gyeongjehakja	경제학을 연구하는 사람.
+k	경직된	gyeongjikdoen	
+k	경직하다	gyeongjikhada	to be stiff, rigid, formal
+k	경질 고무	gyeongjilgomu	
+k	경질 자기	gyeongjiljagi	
+k	경질하다	gyeongjilhada	어떤 직위의 사람을 해임하고 다른 사람을 임명…
+k	경찰물	gyeongchalmul	
+k	경찰서	gyeongchalseo	police station
+k	경찰차	gyeongchalcha	police car
+k	경쾌감	gyeongkwaegam	움직임이나 모습, 기분 따위가 가볍고 상쾌한 …
+k	경탄하다	gyeongtanhada	어떤 것을 보고 놀랄 만큼 감탄하다.
+k	경품권	gyeongpumgwon	
+k	경험담	gyeongheomdam	경험을 바탕으로 한 이야기.
+k	경험론	gyeongheomnon	empiricism
+k	경험치	gyeongheomchi	experience points; EXP; XP
+k	계급도덕	gyegeupdodeok	
+k	계란덮밥	gyerandeopbap	계란 푼 것에 잘게 썬 파, 양파 등을 같이 …
+k	계몽령	gyemongnyeong	국민을 일깨우기 위해 계엄의 형태로 행하는 계…
+k	계절의 인사	gyejeoruiinsa	
+k	계절지연	gyejeoljiyeon	지면으로부터 오는 적외선에 의해 대기가 가열되…
+k	계정구좌	gyejeonggujwa	상업 부기에서, 계정마다 돈이 들어오고 나가는…
+k	교대작용	gyodaejagyong	
+k	교류장치	gyoryujangchi	
+k	교류전류	gyoryujeollyu	
+k	교부철학	gyobucheolhak	
+k	교섭단체	gyoseopdanche	
+k	교수대 유머	gyosudaeyumeo	
+k	교양과목	gyoyanggwamok	
+k	교양소설	gyoyangsoseol	
+k	교역조건	gyoyeokjogeon	
+k	교육공학	gyoyukgonghak	
+k	교육실습	gyoyuksilseup	
+k	교전 지역	gyojeonjiyeok	
+k	교전단체	gyojeondanche	
+k	교정도감	gyojeongdogam	
+k	교정되다	gyojeongdoeda	
+k	교정체조	gyojeongchejo	
+k	교종본산	gyojongbonsan	
+k	교질용액	gyojiryongaek	
+k	교통 혼잡	gyotonghonjap	
+k	교통기관	gyotonggigwan	means of transportation
+k	교통대란	gyotongdaeran	
+k	교통도덕	gyotongdodeok	
+k	교통요금	gyotongyogeum	fare
+k	교통질서	gyotongjilseo	
+k	교향악단	gyohyangakdan	
+k	교향조곡	gyohyangjogok	
+k	교회 라틴어	gyohoeratineo	
+k	규명하다	gyumyeonghada	
+k	규방문학	gyubangmunhak	
+k	규범과학	gyubeomgwahak	
+k	규소폐증	gyusopyejeung	
+k	규정되다	gyujeongdoeda	to be made
+k	규칙 동사	gyuchikdongsa	규칙적인 활용을 하는 동사.
+k	균등하다	gyundeunghada	
+j	ギャリソンキャップ	gyarisonkyappu	
+j	凝縮させる	gyoshukusaseru	
+j	業務核都市	gyomukakutoshi	東京都区部における人口及び行政、経済、文化等に関す…
+j	牛乳配達	gyunyuhaitatsu	
+j	行基本変形	gyokihonhenkei	行列の行に対して行う基本変形。基本行列を右から掛け…
+j	逆説的	gyakusetsuteki	逆説に関するさま、一見真理に背いているているようで…
+j	逆転させる	gyakutensaseru	
+j	魚群探知機	gyoguntanchiki	fishfinder
+j	魚類学的	gyoruigakuteki	ichthyological
+k	갸름갸름	gyareumgyareum	
+k	갸우뚱대다	gyauttungdaeda	'갸우뚱거리다'.
+k	갸울갸울하다	gyaulgyaulhada	
+k	갸울딱대다	gyaulttakdaeda	
+k	갸울어트리다	gyaureoteurida	'갸울어뜨리다'.
+k	갸웃갸웃하다	gyautgyauthada	
+k	격려하다	gyeongnyeohada	to encourage; to urge
+k	격물치지	gyeongmulchiji	실제 사물의 이치를 연구하여 지식을 온전케 함.
+k	격화소양	gyeokhwasoyang	
+k	견강부회	gyeongangbuhoe	이치에 맞지도 않는 말을 억지로 끌어다가 자기…
+k	견본매매	gyeonbonmaemae	
+k	견성하다	gyeonseonghada	to perceive the true natu…
+k	견습생	gyeonseupsaeng	apprentice; trainee
+k	견책하다	gyeonchaekhada	to censure; to reprimand
+k	견토지쟁	gyeontojijaeng	개와 토끼의 싸움이라는 뜻으로, 두 사람의 다…
+k	결결하다	gyeolgyeolhada	얼굴 생김새나 마음씨가 지나칠 정도로 빈틈없고…
+k	결명차	gyeolmyeongcha	sickle senna (Senna tora)
+k	결석증	gyeolseokjeung	
+k	결승선	gyeolseungseon	
+k	결승전	gyeolseungjeon	
+k	결승점	gyeolseungjeom	
+k	결정권	gyeoljeonggwon	
+k	결정적	gyeoljeongjeok	정해져 있는 순간에.
+k	결정하다	gyeoljeonghada	to decide something, to m…
+k	겸사겸사	gyeomsagyeomsa	
+k	겸업농가	gyeomeomnongga	
+k	겸직금지	gyeomjikgeumji	
+k	겹겹하다	gyeopgyeophada	layered, stacked
+k	경감되다	gyeonggamdoeda	
+k	경건하다	gyeonggeonhada	공경하며 삼가고 엄숙하다.
+k	경골어류	gyeonggoleoryu	
+k	경구개음	gyeonggugaeeum	palatal
+k	경기걷기	gyeonggigeotgi	
+k	경기대회	gyeonggidaehoe	contest, competition, tou…
+k	경기도덕	gyeonggidodeok	
+k	경기돛배	gyeonggidotbae	'요트'의 북한말.
+k	경기헤염	gyeonggiheyeom	(수영) '경영'의 북한말.
+k	경기회복	gyeonggihoebok	
+k	경로사상	gyeongnosasang	
+k	경로잔치	gyeongnojanchi	
+k	경망하다	gyeongmanghada	행동이나 말이 가볍고 조심성이 없다.
+k	경멸감	gyeongmyeolgam	feeling of contempt
+k	경멸한	gyeongmyeolhan	
+k	경박단소	gyeongbakdanso	
+k	경비병	gyeongbibyeong	sentry, guard
+k	경상수지	gyeongsangsuji	기업이나 정부에서 국제적인 거래를 통해 벌어들…
+k	경연장	gyeongyeonjang	
+k	경영난	gyeongyeongnan	
+k	경영대	gyeongyeongdae	
+k	경영론	gyeongyeongnon	
+k	경영진	gyeongyeongjin	
+k	경영체	gyeongyeongche	
+k	경영학	gyeongyeonghak	경영과 관련된 것을 연구하는 학문이나 분야.
+k	경장근	gyeongjanggeun	longus colli muscle
+k	경쟁국	gyeongjaengguk	
+k	경쟁심	gyeongjaengsim	
+k	경제과학	gyeongjegwahak	economics
+k	경제사적	gyeongjesajeok	경제 활동의 역사와 관련된.
+k	경제특구	gyeongjeteukgu	
+k	경제학계	gyeongjehakgye	
+k	경제학과	gyeongjehakgwa	
+k	경직되다	gyeongjikdoeda	to stiffen, become stiff …
+k	경직성	gyeongjikseong	stiffness, rigidity, infl…
+k	경질되다	gyeongjildoeda	
+k	경찰관	gyeongchalgwan	policeman, police officer
+k	경찰권	gyeongchalgwon	
+k	경찰봉	gyeongchalbong	경찰관이 지니는 둥근 방망이.
+k	경청자	gyeongcheongja	listener
+k	경축하다	gyeongchukhada	to celebrate
+k	경쾌하다	gyeongkwaehada	light, nimble
+k	경험률	gyeongheomnyul	
+k	경험적	gyeongheomjeok	
+k	경험주의	gyeongheomjuui	
+k	경험하다	gyeongheomhada	to experience
+k	경화증	gyeonghwajeung	
+k	계급투쟁	gyegeuptujaeng	
+k	계급해방	gyegeuphaebang	
+k	계란 껍질	gyerankkeopjil	eggshell
+k	계량스푼	gyeryangseupun	
+k	계정계좌	gyejeonggyejwa	상업 부기에서, 계정마다 돈이 들어오고 나가는…
+k	교과과정	gyogwagwajeong	
+k	교방가무희	gyobanggamuhui	
+k	교배 프레스	gyobaepeureseu	
+k	교양서적	gyoyangseojeok	
+k	교육과정	gyoyukgwajeong	
+k	교육방송	gyoyukbangsong	
+k	교육영화	gyoyugyeonghwa	
+k	교육헌장	gyoyukheonjang	
+k	교전법규	gyojeonbeopgyu	
+k	교차편집	gyochapyeonjip	영화 편집의 하나. 같은 시각, 같은 장소에서…
+k	교착 상태	gyochaksangtae	
+k	교착상태	gyochaksangtae	
+k	교통법규	gyotongbeopgyu	
+k	교통정리	gyotongjeongri	
+k	교환가격	gyohwangagyeok	
+k	교황령	gyohwangnyeong	
+k	교황사절	gyohwangsajeol	
+k	교황청	gyohwangcheong	교황을 중심으로 한 세계 가톨릭교회 행정의 중…
+k	규명되다	gyumyeongdoeda	
+k	규범문법	gyubeommunbeop	
+k	규정농도	gyujeongnongdo	
+k	규정판단	gyujeongpandan	
+k	규칙 용언	gyuchikyongeon	규칙적인 활용을 하는 동사와 형용사.
+k	균분상속	gyunbunsangsok	상속 대상자들이 상속대상을 동일하게 나누어 가…
+k	균역청	gyunyeokcheong	
+e	gyrobifastigium	gyrobifastigium	1 meaning
+j	ギャンブル依存症	gyanburuizonsho	ギャンブルにのめり込み、その衝動を押さえられなくな…
+j	牛乳販売店	gyunyuhanbaiten	
+j	行政裁判所	gyoseisaibansho	
+j	逆三角形	gyakusankakukei	底辺が上、底辺に対する頂点が下に位置する三角形。
+j	逆余弦関数	gyakuyogenkansu	余弦関数の逆関数。arccos。
+j	逆行性射精	gyakkoseishasei	
+j	逆転写酵素	gyakutensyakoso	
+j	逆進させる	gyakushinsaseru	
+k	갸우랑거리다	gyauranggeorida	
+k	갸울어뜨리다	gyaureotteurida	갸울어지게 하다.
+k	걀걀거리다	gyalgyalgeorida	암탉이나 갈매기 따위가 내는 소리가 자꾸 나다.
+k	걀쯔막하다	gyaljjeumakhada	
+k	겨울 스포츠	gyeoulseupocheu	
+k	격려되다	gyeongnyeodoeda	to be encouraged; to be u…
+k	격렬하다	gyeongnyeolhada	violent, vehement, furiou…
+k	견문발검	gyeonmunbalgeom	making a mountain out of …
+k	견사방적	gyeonsabangjeok	
+k	견줄 만하다	gyeonjulmanhada	
+k	견진성사	gyeonjinseongsa	
+k	견책되다	gyeonchaekdoeda	to be censured; to be rep…
+k	결렬되다	gyeollyeoldoeda	회의나 교섭 과정에서 서로 의견이 맞지 않아 …
+k	결석하는	gyeolseokhaneun	
+k	결정 트리	gyeoljeongteuri	
+k	결정되다	gyeoljeongdoeda	to be decided; to be arri…
+k	결정짓다	gyeoljeongjitda	to make a decision, to de…
+k	결핵병	gyeolhaekbyeong	
+k	경감시키다	gyeonggamsikida	
+k	경계령	gyeonggyeryeong	
+k	경계층	gyeonggyecheung	고정된 고체면을 따라 유체가 일정속도로 이동할…
+k	경국지색	gyeonggukjisaek	(사자성어) 나라가 기울어질 정도로 정사들 돌…
+k	경기과열	gyeonggigwayeol	
+k	경량급	gyeongnyanggeup	
+k	경멸적	gyeongmyeoljeok	Scornful.
+k	경멸하다	gyeongmyeolhada	사람이나 혹은 무엇을 깔보며 업신여기다.
+k	경반층	gyeongbancheung	
+k	경보장치	gyeongbojangchi	
+k	경비단장	gyeongbidanjang	
+k	경비행기	gyeongbihaenggi	
+k	경상남도	gyeongsangnamdo	South Gyeongsang (a provi…
+k	경상북도	gyeongsangbukdo	North Gyeongsang (a provi…
+k	경색되다	gyeongsaekdoeda	
+k	경술국치	gyeongsulgukchi	
+k	경영권	gyeongyeonggwon	
+k	경영하다	gyeongyeonghada	to run, to manage (a comp…
+k	경장육사	gyeongjangyuksa	돼지고기를 활용하여 만든 북경 지방의 중국 요…
+k	경쟁률	gyeongjaengnyul	
+k	경쟁적	gyeongjaengjeok	언제나 경쟁을 하는.
+k	경쟁하다	gyeongjaenghada	to compete
+k	경정하다	gyeongjeonghada	강하고 바르다.
+k	경제객체	gyeongjegaekche	
+k	경제사학자	gyeongjesahakja	
+k	경제학적	gyeongjehakjeok	
+k	경진 대회	gyeongjindaehoe	
+k	경찰 국가	gyeongchalgukga	
+k	경찰견	gyeongchalgyeon	police dog
+k	경찰국가	gyeongchalgukga	
+k	경찰력	gyeongchallyeok	
+k	경천애인	gyeongcheonaein	(한자성어) 하늘을 공경하고 사람을 사랑함.
+k	경향극	gyeonghyanggeuk	
+k	경험되다	gyeongheomdoeda	to be experienced
+k	경호실장	gyeonghosiljang	
+k	경화시키다	gyeonghwasikida	
+k	계산해 주세요	gyesanhaejuseyo	
+k	계외 행성	gyeoehaengseong	
+k	계절변화	gyejeolbyeonhwa	지구상의 기상상태가 일년을 주기로 나타내는 거…
+k	계획경제	gyehoekgyeongje	
+k	교감신경	gyogamsingyeong	
+k	교류전력	gyoryujeollyeok	
+k	교생실습	gyosaengsilseup	
+k	교언영색	gyoeonyeongsaek	(사자성어) 남에게 아첨하려고 듣기 좋게 꾸미…
+k	교정시력	gyojeongsiryeok	
+k	교정을 보다	gyojeongeulboda	
+k	교정처분	gyojeongcheobun	
+k	교통 체증	gyotongchejeung	
+k	교환경기	gyohwangyeonggi	
+k	교환경제	gyohwangyeongje	
+k	교환법칙	gyohwanbeopchik	
+k	교환학생	gyohwanhaksaeng	
+k	규정전류	gyujeongjeollyu	
+k	규중처녀	gyujungcheonyeo	
+k	규칙 활용	gyuchikhwaryong	동사, 형용사가 활용할 때 어간과 어미의 형태…
+k	균형예산	gyunhyeongyesan	
+j	ギャロップで駆ける	gyaroppudekakeru	
+j	逆ポーランド記法	gyakuporandokiho	reverse Polish notation
+j	逆正弦関数	gyakuseigenkansu	正弦関数の逆関数。arcsin。
+j	逆説的な	gyakusetsutekina	
+k	갸릉갸릉	gyareunggyareung	목구멍에 가래가 조금씩 자꾸 걸리는 소리.
+k	갸우뚱거리다	gyauttunggeorida	물체가 자꾸 이쪽저쪽으로 갸울어지며 흔들리다.…
+k	갸우랑갸우랑	gyauranggyaurang	
+k	갸울딱거리다	gyaulttakgeorida	
+k	걀쑥걀쑥	gyalssukgyalssuk	
+k	걀쑴걀쑴	gyalssumgyalssum	
+k	걀쭉걀쭉	gyaljjukgyaljjuk	
+k	걀찍걀찍	gyaljjikgyaljjik	
+k	겨드랑이털	gyeodeurangiteol	
+k	겨울냉면	gyeoullaengmyeon	동치밋국에 말아 먹는 겨울철 냉면.
+k	견물생심	gyeonmulsaengsim	(사자성어) 물건을 보면 그것을 가지고 싶은 …
+k	결정형	gyeoljeonghyeong	
+k	결합법칙	gyeolhapbeopchik	
+k	경기감정	gyeonggigamjeong	
+k	경련성	gyeongnyeonseong	
+k	경영되다	gyeongyeongdoeda	
+k	경쟁력	gyeongjaengnyeok	competitiveness, competit…
+k	경쟁의식	gyeongjaenguisik	
+k	경찰청	gyeongchalcheong	
+k	경청하다	gyeongcheonghada	to listen attentively
+k	경험시키다	gyeongheomsikida	
+k	경험이 없다	gyeongheomieopda	
+k	경호처장	gyeonghocheojang	
+k	계곡산개구리	gyegoksangaeguri	the Huanren frog, Rana hu…
+k	계급별일수	gyegeupbyeolilsu	기상요소의 매일의 값을 수치의 대소에 따라 계…
+k	계절관측	gyejeolgwancheuk	동식물의 출현과 개화등에 대한 관측.
+k	계절변동	gyejeolbyeondong	
+k	교육연령	gyoyugyeollyeong	
+k	교육행정	gyoyukhaengjeong	
+k	교정별감	gyojeongbyeolgam	
+k	교통순경	gyotongsungyeong	
+k	교통약자석	gyotongyakjaseok	
+k	규정명제	gyujeongmyeongje	
+j	漁業協同組合	gyogyokyodokumiai	水産業協同組合法に基づき漁業を営む個人、法人によっ…
+j	逆三角関数	gyakusankakukansu	三角関数の逆関数。接頭辞「arc」を用いて表される。
+j	逆余割関数	gyakuyokatsukansu	余割関数の逆関数。arccsc。
+j	逆余接関数	gyakuyosetsukansu	余接関数の逆関数。arccot。
+j	逆態接続	gyakutaisetsuzoku	二つの文や句を接続する時、前の文や句の内容と後の文…
+k	결정격자	gyeoljeonggyeokja	
+k	결정편암	gyeoljeongpyeonam	
+k	결혼기념일	gyeolhonginyeomil	
+k	결혼정략	gyeolhonjeongnyak	
+k	경거망동	gyeonggeomangdong	(사자성어) 함부로 가볍게 하는 짓.
+k	경계경보	gyeonggyegyeongbo	
+k	경기관총	gyeonggigwanchong	
+k	경기관측	gyeonggigwancheuk	
+k	경멸적인	gyeongmyeoljeogin	
+k	경사가시거리	gyeongsagasigeori	상공에서 아래 방향으로 경사지게 보는 시점으로…
+k	경사스럽다	gyeongsaseureopda	
+k	경영학과	gyeongyeonghakgwa	
+k	경쟁시키다	gyeongjaengsikida	상대방을 경쟁하게 하다.
+k	경쟁시험	gyeongjaengsiheom	
+k	경제공황	gyeongjegonghwang	
+k	경제관념	gyeongjegwannyeom	
+k	경제생활	gyeongjesaenghwal	
+k	경제성장	gyeongjeseongjang	
+k	경지 면적	gyeongjimyeonjeok	
+k	경찰서장	gyeongchalseojang	
+k	경천동지	gyeongcheondongji	하늘을 놀라게 하고 땅을 뒤흔든다는 뜻으로, …
+k	경쾌해지다	gyeongkwaehaejida	
+k	경황망조	gyeonghwangmangjo	(사자성어) 놀라고 두려워서 어쩔 바를 모른다…
+k	계단공포증	gyedangongpojeung	계단에 대한 불안감이나 공포를 느끼는 증상.
+k	계단승강기	gyedanseungganggi	문화어에서 ‘에스컬레이터’를 달리 이르는 말.
+k	교정폭력	gyojeongpongnyeok	school violence
+k	교통경찰	gyotonggyeongchal	
+k	교편생활	gyopyeonsaenghwal	
+k	교회 일치 운동	gyohoeilchiundong	
+k	균형가격	gyunhyeonggagyeok	
+j	逆正割関数	gyakuseikatsukansu	正割関数の逆関数。arcsec。
+j	逆正接関数	gyakuseisetsukansu	正接関数の逆関数。arctan。
+k	갸름갸름하다	gyareumgyareumhada	
+k	갸우뚱갸우뚱	gyauttunggyauttung	
+k	갸울딱갸울딱	gyaulttakgyaulttak	
+k	걀쯤걀쯤	gyaljjeumgyaljjeum	
+k	겨드랑이에 끼다	gyeodeurangiekkida	
+k	결론을 내리다	gyeolloneulnaerida	
+k	결심을 바꾸다	gyeolsimeulbakkuda	
+k	결합 쌍둥이	gyeolhapssangdungi	
+k	결혼 대행사	gyeolhondaehaengsa	
+k	결혼연령	gyeolhonyeollyeong	
+k	경로 의존성	gyeongnouijonseong	
+k	경박스럽다	gyeongbakseureopda	말이나 행동이 조심스럽지 못하고 가볍다.
+k	경압불안정	gyeongapbulanjeong	태양복사 등에 의한 불균일한 지표면 가열로 대…
+k	경지리용률	gyeongjiriyongnyul	'경지 이용률'의 북한말.
+k	경탄스럽다	gyeongtanseureopda	몹시 놀라며 감탄하는 느낌이 있다.
+k	경탄할 만한	gyeongtanhalmanhan	
+k	경편철도	gyeongpyeoncheoldo	
+k	경험적으로	gyeongheomjeogeuro	
+k	경험철학	gyeongheomcheolhak	
+k	계단식 피라미드	gyedansikpiramideu	
+k	규칙별구름	gyuchikbyeolgureum	
+k	균형재정	gyunhyeongjaejeong	
+j	業務独占資格	gyomudokusenshikaku	名称を含め業務の独占を許可された国家資格。
+j	逆ラプラス変換	gyakurapurasuhenkan	ラプラス変換 ℒ[f(x)](s)=F(s)に対し…
+k	격세 유전적인	gyeokseyujeonjeogin	
+k	결승 진출자	gyeolseungjinchulja	
+k	결혼 전의 성	gyeolhonjeonuiseong	
+k	경년변화	gyeongnyeonbyeonhwa	수십 년 또는 수백 년 동안에 걸친 기후요소의…
+k	경망스럽다	gyeongmangseureopda	
+k	경적을 울리다	gyeongjeogeulullida	
+k	경질단백질	gyeongjildanbaekjil	
+k	경찰기동대	gyeongchalgidongdae	
+k	경쾌스럽다	gyeongkwaeseureopda	움직임이나 모습, 기분 따위가 가볍고 상쾌한 …
+k	계량경제학	gyeryanggyeongjehak	econometrics
+k	계면활성제	gyemyeonhwalseongje	
+k	계수형계산기	gyesuhyeonggyesangi	
+k	계획적 구식화	gyehoegjeoggusighwa	
+k	계획적 진부화	gyehoegjeogjinbuhwa	
+k	교황 전용차	gyohwangjeonyongcha	
+j	逆双曲線関数	gyakusokyokusenkansu	双曲線関数の逆関数。接頭辞「ar」を用いて表される。
+k	갸우랑갸우랑하다	gyauranggyauranghada	
+k	걀쑥걀쑥하다	gyalssukgyalssukhada	
+k	걀쑴걀쑴하다	gyalssumgyalssumhada	
+k	걀쭉걀쭉하다	gyaljjukgyaljjukhada	
+k	걀찍걀찍하다	gyaljjikgyaljjikhada	
+k	경멸스럽다	gyeongmyeolseureopda	
+k	경찰청장	gyeongchalcheongjang	
+k	계란에도 뼈가 있다	gyeranedoppyeogaitda	말에도 뜻이 있다는 뜻.
+k	균깡그리죽이기	gyunkkanggeurijugigi	'멸균'의 북한말.
+k	경색 형성	gyeongsaekhyeongseong	
+k	경제장성률	gyeongjejangseongnyul	'경제성장률'의 북한말.
+k	경주용 자동차	gyeongjuyongjadongcha	
+k	경찰을 불러요	gyeongchareulbulleoyo	
+k	교수형 집행인	gyosuhyeongjiphaengin	
+j	逆双曲余弦関数	gyakusokyokuyogenkansu	双曲線余弦関数の逆関数。arcosh。
+k	갸우뚱갸우뚱하다	gyauttunggyauttunghada	
+k	갸울딱갸울딱하다	gyaulttakgyaulttakhada	
+k	걀쯤걀쯤하다	gyaljjeumgyaljjeumhada	
+k	경직결장염	gyeongjikgyeoljangyeom	spastic colitis
+k	교감신경계통	gyogamsingyeonggyetong	
+j	逆双曲正弦関数	gyakusokyokuseigenkansu	双曲線正弦関数の逆関数。arsinh。
+k	겹대류권계면	gyeopdaeryugwongyemyeon	대류권과 성층권의 경계인 권계면이 몇 층의 고…
+k	경제적인 성공	gyeongjejeoginseonggong	
+j	逆双曲余割関数	gyakusokyokuyosetsukansu	双曲線余接関数の逆関数。arcsch。
+j	逆双曲余接関数	gyakusokyokuyosetsukansu	双曲線余接関数の逆関数。arcoth。
+k	계기비행 기상조건	gyegibihaenggisangjogeon	시계비행 기상조건상태를 제외한 모든 기상 상태.
+k	계량형컴퓨터	gyeryanghyeongkeompyuteo	
+j	逆双曲正割関数	gyakusokyokuseikatsukansu	双曲線正割関数の逆関数。arsech。
+j	逆双曲正接関数	gyakusokyokuseisetsukansu	双曲線正接関数の逆関数。artanh。
+j	逆双曲線余弦関数	gyakusokyokusenyogenkansu	双曲線余弦関数の逆関数。arcosh。
+k	경찰을 불러주세요	gyeongchareulbulleojuseyo	
+j	逆双曲線正弦関数	gyakusokyokusenseigenkansu	双曲線正弦関数の逆関数。arsinh。
+j	逆双曲線余割関数	gyakusokyokusenyokatsukansu	双曲線余弦関数の逆関数。arcosh。
+j	逆双曲線余接関数	gyakusokyokusenyosetsukansu	双曲線余接関数の逆関数。arcoth。
+j	逆双曲線正割関数	gyakusokyokusenseikatsukansu	双曲線正割関数の逆関数。arcosh。
+j	逆双曲線正接関数	gyakusokyokusenseisetsukansu	双曲線正接関数の逆関数。artanh。
+k	경기충청도방언	gyeonggichungcheongdobangeon	the Korean dialects spoke…
+k	경계선 성격장애	gyeonggyeseonseonggyeokjangae	
+k	경영 시뮬레이션 게임	gyeongyeongsimyulleisyeongeim	
+j	逆アドレス解決プロトコル	gyakuadoresukaiketsupurotokoru	Reverse Address Resolutio…
+k	겨 묻은 개가 똥 묻은 개를 나무란다	gyeomuteungaegattongmuteungaereulnamuranda	사람에게는 크고 작은 잘못이 있기는 마찬가지인…

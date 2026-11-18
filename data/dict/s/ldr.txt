@@ -1,0 +1,158 @@
+e	dr	dr	1 meaning
+e	dry	dry	3 meanings
+e	drag	drag	1 meaning
+e	draw	draw	8 meanings
+e	drin	drin	1 meaning
+e	drip	drip	2 meanings
+e	drop	drop	5 meanings
+e	drug	drug	2 meanings
+e	drum	drum	1 meaning
+e	draco	draco	1 meaning
+e	draft	draft	5 meanings
+e	dragée	drage	1 meaning
+e	drain	drain	1 meaning
+e	drake	drake	1 meaning
+e	drama	drama	4 meanings
+e	dread	dread	1 meaning
+e	dream	dream	4 meanings
+e	dress	dress	4 meanings
+e	dried	dried	2 meanings
+e	drift	drift	3 meanings
+e	drill	drill	3 meanings
+e	drink	drink	7 meanings
+e	drive	drive	6 meanings
+e	drone	drone	3 meanings
+e	drool	drool	1 meaning
+e	drown	drown	3 meanings
+e	druid	druid	1 meaning
+e	drunk	drunk	3 meanings
+e	druze	druze	1 meaning
+e	dryad	dryad	1 meaning
+e	dryer	dryer	2 meanings
+e	drag on	dragon	1 meaning
+e	dragon	dragon	1 meaning
+e	drapes	drapes	1 meaning
+e	draw up	drawup	1 meaning
+e	drawer	drawer	1 meaning
+e	dreamt	dreamt	1 meaning
+e	dreary	dreary	1 meaning
+e	drench	drench	1 meaning
+e	drever	drever	1 meaning
+e	driver	driver	4 meanings
+e	drop by	dropby	1 meaning
+e	drowsy	drowsy	1 meaning
+e	dry ice	dryice	1 meaning
+e	drachma	drachma	1 meaning
+e	dracula	dracula	1 meaning
+e	draftee	draftee	1 meaning
+e	dragnet	dragnet	1 meaning
+e	dragoon	dragoon	1 meaning
+e	drawers	drawers	1 meaning
+e	drawing	drawing	3 meanings
+e	dreamer	dreamer	1 meaning
+e	dresden	dresden	1 meaning
+e	dress up	dressup	1 meaning
+e	dresser	dresser	1 meaning
+e	dribble	dribble	1 meaning
+e	drinker	drinker	2 meanings
+e	drive-in	drivein	1 meaning
+e	driving	driving	1 meaning
+e	drizzle	drizzle	1 meaning
+e	drop off	dropoff	1 meaning
+e	droplet	droplet	1 meaning
+e	dropout	dropout	2 meanings
+e	drought	drought	1 meaning
+e	drug dog	drugdog	1 meaning
+e	drum kit	drumkit	1 meaning
+e	drummer	drummer	1 meaning
+e	drunken	drunken	1 meaning
+e	drydock	drydock	1 meaning
+e	drywall	drywall	1 meaning
+e	dragonet	dragonet	1 meaning
+e	draisine	draisine	1 meaning
+e	dramatic	dramatic	2 meanings
+e	draughts	draughts	1 meaning
+e	drawback	drawback	1 meaning
+e	dressage	dressage	1 meaning
+e	dressing	dressing	3 meanings
+e	drift ice	driftice	1 meaning
+e	drinking	drinking	1 meaning
+e	driveway	driveway	1 meaning
+e	drop dead	dropdead	1 meaning
+e	dropping	dropping	1 meaning
+e	dropseed	dropseed	1 meaning
+e	drudgery	drudgery	1 meaning
+e	dry mouth	drymouth	1 meaning
+e	drag queen	dragqueen	1 meaning
+e	dragonfly	dragonfly	1 meaning
+e	dragonkin	dragonkin	1 meaning
+e	drahichyn	drahichyn	1 meaning
+e	drainpipe	drainpipe	1 meaning
+e	dravidian	dravidian	1 meaning
+e	dreamboat	dreamboat	1 meaning
+e	dreamland	dreamland	2 meanings
+e	dreamlike	dreamlike	1 meaning
+e	dress code	dresscode	1 meaning
+e	dress shoe	dressshoe	1 meaning
+e	dretskean	dretskean	1 meaning
+e	drive away	driveaway	1 meaning
+e	drohobych	drohobych	1 meaning
+e	dromedary	dromedary	1 meaning
+e	drop tower	droptower	1 meaning
+e	drum major	drummajor	1 meaning
+e	drumstick	drumstick	1 meaning
+e	dry season	dryseason	1 meaning
+e	drying oil	dryingoil	1 meaning
+e	dragon boat	dragonboat	1 meaning
+e	dramaturgy	dramaturgy	1 meaning
+e	drawbridge	drawbridge	1 meaning
+e	dreadlocks	dreadlocks	1 meaning
+e	dreamworld	dreamworld	1 meaning
+e	dress shirt	dressshirt	1 meaning
+e	dressmaker	dressmaker	1 meaning
+e	dried fruit	driedfruit	1 meaning
+e	drowsiness	drowsiness	1 meaning
+e	drug addict	drugaddict	1 meaning
+e	drug dealer	drugdealer	1 meaning
+e	dry cleaner	drycleaner	1 meaning
+e	dragon fruit	dragonfruit	1 meaning
+e	drawing room	drawingroom	1 meaning
+e	dreadnought	dreadnought	1 meaning
+e	dressmaking	dressmaking	1 meaning
+e	driver's seat	driversseat	1 meaning
+e	drum machine	drummachine	1 meaning
+e	drunken fist	drunkenfist	1 meaning
+e	drunkenness	drunkenness	1 meaning
+e	dry cleaning	drycleaning	1 meaning
+e	dragon's blood	dragonsblood	1 meaning
+e	drawing board	drawingboard	1 meaning
+e	dreamcatcher	dreamcatcher	1 meaning
+e	dressing gown	dressinggown	1 meaning
+e	dressing room	dressingroom	3 meanings
+e	drinking game	drinkinggame	1 meaning
+e	drinking horn	drinkinghorn	1 meaning
+e	drive-through	drivethrough	1 meaning
+e	droit de suite	droitdesuite	1 meaning
+e	dropdown list	dropdownlist	1 meaning
+e	drunk driving	drunkdriving	1 meaning
+e	druskininkai	druskininkai	1 meaning
+e	drainage basin	drainagebasin	1 meaning
+e	drake equation	drakeequation	1 meaning
+e	draught animal	draughtanimal	1 meaning
+e	draw attention	drawattention	1 meaning
+e	dream come true	dreamcometrue	1 meaning
+e	dressing table	dressingtable	1 meaning
+e	drinking straw	drinkingstraw	1 meaning
+e	drinking water	drinkingwater	1 meaning
+e	driving school	drivingschool	1 meaning
+e	dropping point	droppingpoint	1 meaning
+e	drug addiction	drugaddiction	1 meaning
+e	drumstick tree	drumsticktree	1 meaning
+e	dress rehearsal	dressrehearsal	1 meaning
+e	drink like a fish	drinklikeafish	1 meaning
+e	driver's license	driverslicense	1 meaning
+e	dry eye syndrome	dryeyesyndrome	1 meaning
+e	drop in the bucket	dropinthebucket	1 meaning
+e	drinking fountain	drinkingfountain	1 meaning
+e	drop someone a line	dropsomeonealine	1 meaning
+e	draw one's last breath	drawoneslastbreath	1 meaning

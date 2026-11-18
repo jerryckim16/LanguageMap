@@ -1,0 +1,34 @@
+e	squab	squab	1 meaning
+e	squad	squad	1 meaning
+e	squat	squat	5 meanings
+e	squid	squid	1 meaning
+e	square	square	9 meanings
+e	squash	squash	2 meanings
+e	squeak	squeak	1 meaning
+e	squint	squint	3 meanings
+e	squirm	squirm	1 meaning
+e	squirt	squirt	1 meaning
+e	squacco	squacco	1 meaning
+e	squared	squared	1 meaning
+e	squeeze	squeeze	9 meanings
+e	squishy	squishy	1 meaning
+e	squadron	squadron	2 meanings
+e	squalene	squalene	1 meaning
+e	squander	squander	1 meaning
+e	squeegee	squeegee	1 meaning
+e	squeenix	squeenix	1 meaning
+e	squirrel	squirrel	1 meaning
+e	square rig	squarerig	1 meaning
+e	squirt gun	squirtgun	1 meaning
+e	square root	squareroot	1 meaning
+e	squash ball	squashball	1 meaning
+e	squeeze out	squeezeout	1 meaning
+e	square metre	squaremetre	1 meaning
+e	squat toilet	squattoilet	1 meaning
+e	square degree	squaredegree	1 meaning
+e	square matrix	squarematrix	1 meaning
+e	squash player	squashplayer	1 meaning
+e	square bracket	squarebracket	1 meaning
+e	squirrel monkey	squirrelmonkey	1 meaning
+e	square kilometre	squarekilometre	1 meaning
+e	square centimeter	squarecentimeter	1 meaning

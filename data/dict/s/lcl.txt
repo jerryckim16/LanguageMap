@@ -1,0 +1,198 @@
+e	clam	clam	2 meanings
+e	clan	clan	1 meaning
+e	clap	clap	3 meanings
+e	claw	claw	2 meanings
+e	clay	clay	1 meaning
+e	clef	clef	1 meaning
+e	clew	clew	1 meaning
+e	clio	clio	1 meaning
+e	clit	clit	2 meanings
+e	clog	clog	3 meanings
+e	clot	clot	1 meaning
+e	club	club	4 meanings
+e	clue	clue	2 meanings
+e	clade	clade	1 meaning
+e	claim	claim	2 meanings
+e	clamp	clamp	1 meaning
+e	clank	clank	1 meaning
+e	clara	clara	1 meaning
+e	clasp	clasp	2 meanings
+e	class	class	9 meanings
+e	clean	clean	5 meanings
+e	clear	clear	6 meanings
+e	cleft	cleft	1 meaning
+e	clerk	clerk	1 meaning
+e	cliché	clich	2 meanings
+e	click	click	2 meanings
+e	cliff	cliff	1 meaning
+e	climb	climb	3 meanings
+e	cling	cling	1 meaning
+e	cloak	cloak	1 meaning
+e	clock	clock	5 meanings
+e	clone	clone	3 meanings
+e	close	close	38 meanings
+e	cloth	cloth	1 meaning
+e	cloud	cloud	5 meanings
+e	clove	clove	2 meanings
+e	clown	clown	2 meanings
+e	clubs	clubs	1 meaning
+e	éclair	clair	1 meaning
+e	clam up	clamup	1 meaning
+e	clammy	clammy	1 meaning
+e	claque	claque	1 meaning
+e	claret	claret	1 meaning
+e	classy	classy	1 meaning
+e	clause	clause	2 meanings
+e	clavis	clavis	1 meaning
+e	cleave	cleave	1 meaning
+e	clench	clench	1 meaning
+e	clergy	clergy	1 meaning
+e	cleric	cleric	1 meaning
+e	clever	clever	2 meanings
+e	client	client	2 meanings
+e	clinic	clinic	1 meaning
+e	clique	clique	2 meanings
+e	clitic	clitic	1 meaning
+e	cloaca	cloaca	1 meaning
+e	cloche	cloche	2 meanings
+e	closed	closed	1 meaning
+e	closer	closer	1 meaning
+e	closet	closet	1 meaning
+e	cloudy	cloudy	2 meanings
+e	clover	clover	1 meaning
+e	clumsy	clumsy	1 meaning
+e	clutch	clutch	3 meanings
+e	claimer	claimer	1 meaning
+e	clamber	clamber	1 meaning
+e	clarion	clarion	1 meaning
+e	clarity	clarity	1 meaning
+e	classic	classic	2 meanings
+e	clean up	cleanup	1 meaning
+e	cleaner	cleaner	1 meaning
+e	cleanse	cleanse	2 meanings
+e	cleaver	cleaver	1 meaning
+e	climate	climate	1 meaning
+e	clinker	clinker	1 meaning
+e	clipper	clipper	1 meaning
+e	close-up	closeup	1 meaning
+e	closure	closure	2 meanings
+e	clothes	clothes	1 meaning
+e	cloying	cloying	1 meaning
+e	clarinet	clarinet	1 meaning
+e	classeme	classeme	1 meaning
+e	classify	classify	1 meaning
+e	clavicle	clavicle	1 meaning
+e	clavinet	clavinet	1 meaning
+e	cleaning	cleaning	1 meaning
+e	cleavage	cleavage	5 meanings
+e	clerihew	clerihew	1 meaning
+e	clinical	clinical	1 meaning
+e	clitoris	clitoris	1 meaning
+e	cloister	cloister	2 meanings
+e	closeout	closeout	1 meaning
+e	clothing	clothing	1 meaning
+e	cloudlet	cloudlet	1 meaning
+e	club moss	clubmoss	1 meaning
+e	cladogram	cladogram	1 meaning
+e	classical	classical	1 meaning
+e	classmate	classmate	1 meaning
+e	classroom	classroom	1 meaning
+e	clathrate	clathrate	1 meaning
+e	cleft chin	cleftchin	1 meaning
+e	cleopatra	cleopatra	1 meaning
+e	clergyman	clergyman	1 meaning
+e	cleveland	cleveland	1 meaning
+e	clickbait	clickbait	1 meaning
+e	clientele	clientele	1 meaning
+e	clipboard	clipboard	2 meanings
+e	clock face	clockface	1 meaning
+e	clockwise	clockwise	1 meaning
+e	clockwork	clockwork	1 meaning
+e	close down	closedown	1 meaning
+e	close-knit	closeknit	1 meaning
+e	cloud bank	cloudbank	1 meaning
+e	cloudless	cloudless	1 meaning
+e	clownfish	clownfish	1 meaning
+e	cladistics	cladistics	1 meaning
+e	clam shrimp	clamshrimp	1 meaning
+e	classifier	classifier	1 meaning
+e	clay pigeon	claypigeon	1 meaning
+e	clementine	clementine	1 meaning
+e	clock tower	clocktower	1 meaning
+e	clockmaker	clockmaker	1 meaning
+e	clonazepam	clonazepam	1 meaning
+e	close ranks	closeranks	1 meaning
+e	clothes peg	clothespeg	1 meaning
+e	cloud cover	cloudcover	1 meaning
+e	cloudberry	cloudberry	2 meanings
+e	cloudburst	cloudburst	1 meaning
+e	clown world	clownworld	1 meaning
+e	cluj-napoca	clujnapoca	1 meaning
+e	clumsiness	clumsiness	1 meaning
+e	clandestine	clandestine	1 meaning
+e	clarinetist	clarinetist	1 meaning
+e	class action	classaction	1 meaning
+e	cleaner fish	cleanerfish	1 meaning
+e	cleanliness	cleanliness	1 meaning
+e	clenbuterol	clenbuterol	1 meaning
+e	click beetle	clickbeetle	1 meaning
+e	cliffhanger	cliffhanger	2 meanings
+e	climate hoax	climatehoax	1 meaning
+e	climategate	climategate	1 meaning
+e	climatology	climatology	1 meaning
+e	clindamycin	clindamycin	1 meaning
+e	close up shop	closeupshop	1 meaning
+e	clothes iron	clothesiron	1 meaning
+e	clothes moth	clothesmoth	1 meaning
+e	clothesline	clothesline	1 meaning
+e	cluster bomb	clusterbomb	1 meaning
+e	clutch pedal	clutchpedal	1 meaning
+e	clairvoyance	clairvoyance	1 meaning
+e	clapperboard	clapperboard	1 meaning
+e	clapping game	clappinggame	1 meaning
+e	class diagram	classdiagram	1 meaning
+e	clean and jerk	cleanandjerk	1 meaning
+e	cleaning lady	cleaninglady	1 meaning
+e	cleaning shoe	cleaningshoe	1 meaning
+e	clergyperson	clergyperson	1 meaning
+e	clinozoisite	clinozoisite	1 meaning
+e	clitoral hood	clitoralhood	1 meaning
+e	closemouthed	closemouthed	1 meaning
+e	clothes dryer	clothesdryer	1 meaning
+e	clothes valet	clothesvalet	1 meaning
+e	clotheshorse	clotheshorse	1 meaning
+e	class struggle	classstruggle	1 meaning
+e	class variable	classvariable	1 meaning
+e	cleft sentence	cleftsentence	1 meaning
+e	climate change	climatechange	1 meaning
+e	climate denier	climatedenier	1 meaning
+e	climate strike	climatestrike	1 meaning
+e	climatologist	climatologist	1 meaning
+e	clitoral glans	clitoralglans	1 meaning
+e	closed caption	closedcaption	1 meaning
+e	clarithromycin	clarithromycin	1 meaning
+e	classical greek	classicalgreek	1 meaning
+e	classical latin	classicallatin	1 meaning
+e	classical music	classicalmusic	2 meanings
+e	classification	classification	1 meaning
+e	claustrophobia	claustrophobia	1 meaning
+e	cloak-and-dagger	cloakanddagger	1 meaning
+e	clock generator	clockgenerator	1 meaning
+e	closed interval	closedinterval	1 meaning
+e	closing credits	closingcredits	1 meaning
+e	cloud computing	cloudcomputing	1 meaning
+e	clouded leopard	cloudedleopard	1 meaning
+e	clarified butter	clarifiedbutter	1 meaning
+e	classical arabic	classicalarabic	1 meaning
+e	clench one's fists	clenchonesfists	1 meaning
+e	clifford algebra	cliffordalgebra	1 meaning
+e	close, but no cigar	closebutnocigar	1 meaning
+e	classical chinese	classicalchinese	1 meaning
+e	classical nahuatl	classicalnahuatl	1 meaning
+e	climate emergency	climateemergency	1 meaning
+e	class consciousness	classconsciousness	1 meaning
+e	classical mechanics	classicalmechanics	1 meaning
+e	clinical psychology	clinicalpsychology	1 meaning
+e	clothes don't make the man	clothesdontmaketheman	1 meaning
+e	cloverleaf interchange	cloverleafinterchange	1 meaning
+e	classified advertisement	classifiedadvertisement	1 meaning

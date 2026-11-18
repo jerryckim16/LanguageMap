@@ -1,0 +1,427 @@
+e	try	try	8 meanings
+e	tram	tram	1 meaning
+e	trap	trap	2 meanings
+e	tray	tray	2 meanings
+e	tree	tree	5 meanings
+e	trek	trek	1 meaning
+e	trey	trey	2 meanings
+e	trio	trio	2 meanings
+e	trip	trip	9 meanings
+e	trot	trot	2 meanings
+e	troy	troy	1 meaning
+e	true	true	7 meanings
+e	trace	trace	1 meaning
+e	track	track	5 meanings
+e	trade	trade	7 meanings
+e	trail	trail	2 meanings
+e	train	train	9 meanings
+e	trait	trait	1 meaning
+e	trans-	trans	1 meaning
+e	trash	trash	3 meanings
+e	tread	tread	5 meanings
+e	treat	treat	4 meanings
+e	trend	trend	2 meanings
+e	tress	tress	1 meaning
+e	triad	triad	2 meanings
+e	trial	trial	4 meanings
+e	tribe	tribe	1 meaning
+e	trick	trick	2 meanings
+e	trill	trill	2 meanings
+e	tripe	tripe	2 meanings
+e	trite	trite	1 meaning
+e	troll	troll	5 meanings
+e	troop	troop	1 meaning
+e	trope	trope	2 meanings
+e	trout	trout	1 meaning
+e	truce	truce	1 meaning
+e	truck	truck	1 meaning
+e	truku	truku	1 meaning
+e	truly	truly	3 meanings
+e	trump	trump	4 meanings
+e	trunk	trunk	5 meanings
+e	truss	truss	2 meanings
+e	trust	trust	3 meanings
+e	truth	truth	6 meanings
+e	try on	tryon	1 meaning
+e	tryst	tryst	5 meanings
+j	トライク	trike	三輪の乗り物全般。
+e	tracer	tracer	1 meaning
+e	trader	trader	1 meaning
+e	tragic	tragic	2 meanings
+e	tragus	tragus	1 meaning
+e	tralee	tralee	1 meaning
+e	trance	trance	3 meanings
+e	trauma	trauma	2 meanings
+e	travel	travel	2 meanings
+e	treaty	treaty	1 meaning
+e	tremor	tremor	4 meanings
+e	trench	trench	1 meaning
+e	triage	triage	2 meanings
+e	tricky	tricky	1 meaning
+e	tricot	tricot	1 meaning
+e	trifle	trifle	1 meaning
+e	triode	triode	1 meaning
+e	triose	triose	1 meaning
+e	triple	triple	5 meanings
+e	tripod	tripod	1 meaning
+e	triton	triton	3 meanings
+e	trivet	trivet	1 meaning
+e	trivia	trivia	1 meaning
+e	troika	troika	1 meaning
+e	troops	troops	1 meaning
+e	trophy	trophy	1 meaning
+e	tropic	tropic	1 meaning
+e	trough	trough	1 meaning
+e	troupe	troupe	1 meaning
+e	trowel	trowel	2 meanings
+e	trudge	trudge	1 meaning
+e	truism	truism	1 meaning
+e	truman	truman	1 meaning
+e	try out	tryout	1 meaning
+e	tryzub	tryzub	1 meaning
+e	trachea	trachea	1 meaning
+e	tracker	tracker	3 meanings
+e	tractor	tractor	2 meanings
+e	traffic	traffic	4 meanings
+e	tragedy	tragedy	2 meanings
+e	trailer	trailer	2 meanings
+e	trainee	trainee	1 meaning
+e	trainer	trainer	2 meanings
+e	traitor	traitor	1 meaning
+e	trample	trample	1 meaning
+e	tranche	tranche	1 meaning
+e	transit	transit	2 meanings
+e	trapeze	trapeze	1 meaning
+e	trawler	trawler	1 meaning
+e	treacle	treacle	1 meaning
+e	treason	treason	2 meanings
+e	treetop	treetop	1 meaning
+e	trefoil	trefoil	1 meaning
+e	tremble	tremble	2 meanings
+e	tremolo	tremolo	1 meaning
+e	trestle	trestle	3 meanings
+e	tribeca	tribeca	1 meaning
+e	tribune	tribune	2 meanings
+e	tribute	tribute	3 meanings
+e	triceps	triceps	1 meaning
+e	trident	trident	1 meaning
+e	trieste	trieste	2 meanings
+e	trigger	trigger	4 meanings
+e	trilogy	trilogy	1 meaning
+e	trinity	trinity	2 meanings
+e	trinket	trinket	2 meanings
+e	triplet	triplet	2 meanings
+e	tripoli	tripoli	1 meaning
+e	tripura	tripura	1 meaning
+e	trireme	trireme	1 meaning
+e	trisect	trisect	1 meaning
+e	tritium	tritium	1 meaning
+e	triumph	triumph	5 meanings
+e	trivial	trivial	5 meanings
+e	tromino	tromino	1 meaning
+e	tropics	tropics	1 meaning
+e	tropism	tropism	1 meaning
+e	trouble	trouble	6 meanings
+e	truancy	truancy	1 meaning
+e	truffle	truffle	1 meaning
+e	trumpet	trumpet	2 meanings
+e	trustee	trustee	1 meaning
+e	trachoma	trachoma	1 meaning
+e	trackbed	trackbed	1 meaning
+e	trade war	tradewar	1 meaning
+e	trade-off	tradeoff	1 meaning
+e	training	training	1 meaning
+e	tram stop	tramstop	1 meaning
+e	tranquil	tranquil	1 meaning
+e	trans fat	transfat	1 meaning
+e	trans man	transman	1 meaning
+e	transept	transept	1 meaning
+e	transfer	transfer	2 meanings
+e	treasure	treasure	2 meanings
+e	treasury	treasury	3 meanings
+e	treatise	treatise	1 meaning
+e	tree frog	treefrog	1 meaning
+e	tree line	treeline	1 meaning
+e	tree ring	treering	1 meaning
+e	treebank	treebank	1 meaning
+e	trending	trending	1 meaning
+e	trenette	trenette	1 meaning
+e	trentino	trentino	1 meaning
+e	trespass	trespass	4 meanings
+e	trevally	trevally	1 meaning
+e	triangle	triangle	2 meanings
+e	triassic	triassic	1 meaning
+e	tribunal	tribunal	1 meaning
+e	trickery	trickery	1 meaning
+e	tricycle	tricycle	1 meaning
+e	triforce	triforce	1 meaning
+e	trilemma	trilemma	1 meaning
+e	trillion	trillion	1 meaning
+e	trinculo	trinculo	1 meaning
+e	trinidad	trinidad	1 meaning
+e	triplane	triplane	1 meaning
+e	tripolar	tripolar	1 meaning
+e	triptych	triptych	1 meaning
+e	tripwire	tripwire	1 meaning
+e	trolling	trolling	2 meanings
+e	trombone	trombone	1 meaning
+e	tropical	tropical	2 meanings
+e	troponym	troponym	1 meaning
+e	troubled	troubled	1 meaning
+e	trumpism	trumpism	2 meanings
+e	trumpist	trumpist	2 meanings
+e	track down	trackdown	1 meaning
+e	trackball	trackball	1 meaning
+e	tracksuit	tracksuit	1 meaning
+e	trade fair	tradefair	1 meaning
+e	trade name	tradename	2 meanings
+e	trade wind	tradewind	1 meaning
+e	trademark	trademark	1 meaning
+e	tradition	tradition	1 meaning
+e	tram-train	tramtrain	1 meaning
+e	transform	transform	8 meanings
+e	transient	transient	9 meanings
+e	translate	translate	1 meaning
+e	transmute	transmute	1 meaning
+e	transpire	transpire	2 meanings
+e	transport	transport	5 meanings
+e	transvaal	transvaal	1 meaning
+e	trapezium	trapezium	3 meanings
+e	trapezius	trapezius	1 meaning
+e	traumatic	traumatic	1 meaning
+e	traveller	traveller	1 meaning
+e	treachery	treachery	1 meaning
+e	treadmill	treadmill	1 meaning
+e	treasurer	treasurer	2 meanings
+e	treatment	treatment	2 meanings
+e	trebuchet	trebuchet	1 meaning
+e	tree trunk	treetrunk	1 meaning
+e	treehouse	treehouse	1 meaning
+e	trematode	trematode	1 meaning
+e	trialogue	trialogue	1 meaning
+e	triathlon	triathlon	1 meaning
+e	tribadism	tribadism	1 meaning
+e	tributary	tributary	2 meanings
+e	trickster	trickster	1 meaning
+e	tricolour	tricolour	2 meanings
+e	tricosane	tricosane	1 meaning
+e	tridecane	tridecane	1 meaning
+e	tridymite	tridymite	1 meaning
+e	triennium	triennium	1 meaning
+e	trilobite	trilobite	1 meaning
+e	trimester	trimester	1 meaning
+e	trinomial	trinomial	1 meaning
+e	tripitaka	tripitaka	1 meaning
+e	triple gem	triplegem	1 meaning
+e	trojan war	trojanwar	1 meaning
+e	tropylium	tropylium	1 meaning
+e	trout lily	troutlily	1 meaning
+e	trumpeter	trumpeter	1 meaning
+e	trade route	traderoute	1 meaning
+e	trade union	tradeunion	1 meaning
+e	traffic jam	trafficjam	1 meaning
+e	tragedeigh	tragedeigh	1 meaning
+e	train wreck	trainwreck	1 meaning
+e	trajectory	trajectory	2 meanings
+e	trampoline	trampoline	1 meaning
+e	trans woman	transwoman	1 meaning
+e	transcribe	transcribe	2 meanings
+e	transcript	transcript	1 meaning
+e	transgenic	transgenic	1 meaning
+e	transience	transience	2 meanings
+e	transistor	transistor	1 meaning
+e	transition	transition	1 meaning
+e	transitive	transitive	2 meanings
+e	translator	translator	1 meaning
+e	transplant	transplant	3 meanings
+e	transverse	transverse	1 meaning
+e	travelogue	travelogue	1 meaning
+e	treble clef	trebleclef	1 meaning
+e	tree hollow	treehollow	1 meaning
+e	tremendous	tremendous	1 meaning
+e	trench coat	trenchcoat	1 meaning
+e	trespasser	trespasser	1 meaning
+e	trichotomy	trichotomy	1 meaning
+e	tridecagon	tridecagon	1 meaning
+e	triphthong	triphthong	1 meaning
+e	triple bond	triplebond	1 meaning
+e	triple harp	tripleharp	1 meaning
+e	triple jump	triplejump	1 meaning
+e	triple play	tripleplay	1 meaning
+e	triple time	tripletime	1 meaning
+e	trivialize	trivialize	1 meaning
+e	troglodyte	troglodyte	2 meanings
+e	trolley bus	trolleybus	1 meaning
+e	trombonist	trombonist	1 meaning
+e	tropicbird	tropicbird	1 meaning
+e	tropopause	tropopause	1 meaning
+e	trotskyism	trotskyism	1 meaning
+e	trotskyite	trotskyite	1 meaning
+e	troubadour	troubadour	1 meaning
+e	trouser leg	trouserleg	1 meaning
+e	truffle hog	trufflehog	1 meaning
+e	trumpistan	trumpistan	1 meaning
+e	truncation	truncation	1 meaning
+e	truth table	truthtable	1 meaning
+e	truth value	truthvalue	1 meaning
+e	truthfully	truthfully	1 meaning
+e	tryptophan	tryptophan	1 meaning
+e	traditional	traditional	1 meaning
+e	traffic cone	trafficcone	1 meaning
+e	traffic sign	trafficsign	1 meaning
+e	trailblazer	trailblazer	2 meanings
+e	trance music	trancemusic	1 meaning
+e	tranquilize	tranquilize	1 meaning
+e	transaction	transaction	6 meanings
+e	transbaikal	transbaikal	1 meaning
+e	transceiver	transceiver	1 meaning
+e	transformer	transformer	1 meaning
+e	transfusion	transfusion	1 meaning
+e	transgender	transgender	2 meanings
+e	transiently	transiently	1 meaning
+e	translation	translation	4 meanings
+e	translucent	translucent	2 meanings
+e	transmitter	transmitter	1 meaning
+e	transmodern	transmodern	1 meaning
+e	transoxiana	transoxiana	1 meaning
+e	transparent	transparent	3 meanings
+e	transphobia	transphobia	1 meaning
+e	transponder	transponder	1 meaning
+e	transsexual	transsexual	2 meanings
+e	transuranic	transuranic	1 meaning
+e	treasure map	treasuremap	1 meaning
+e	tree sparrow	treesparrow	1 meaning
+e	trendsetter	trendsetter	1 meaning
+e	trepanation	trepanation	1 meaning
+e	trespassing	trespassing	1 meaning
+e	triacontane	triacontane	1 meaning
+e	triceratops	triceratops	1 meaning
+e	triggerfish	triggerfish	1 meaning
+e	trinitarian	trinitarian	1 meaning
+e	triple point	triplepoint	1 meaning
+e	tritagonist	tritagonist	1 meaning
+e	triumvirate	triumvirate	1 meaning
+e	trojan horse	trojanhorse	2 meanings
+e	tropomyosin	tropomyosin	1 meaning
+e	troposphere	troposphere	1 meaning
+e	troublesome	troublesome	1 meaning
+e	truck driver	truckdriver	1 meaning
+e	trusteeship	trusteeship	1 meaning
+e	trustworthy	trustworthy	1 meaning
+e	truth or dare	truthordare	1 meaning
+e	truthbearer	truthbearer	1 meaning
+e	trypophobia	trypophobia	1 meaning
+e	tracing paper	tracingpaper	1 meaning
+e	trade barrier	tradebarrier	1 meaning
+e	trade deficit	tradedeficit	1 meaning
+e	trade surplus	tradesurplus	1 meaning
+e	traffic light	trafficlight	1 meaning
+e	trailing edge	trailingedge	1 meaning
+e	tranquilizer	tranquilizer	1 meaning
+e	transaminase	transaminase	1 meaning
+e	transcendent	transcendent	1 meaning
+e	transclusion	transclusion	1 meaning
+e	transfection	transfection	1 meaning
+e	transmission	transmission	2 meanings
+e	transnistria	transnistria	1 meaning
+e	transparency	transparency	2 meanings
+e	transvestism	transvestism	1 meaning
+e	transvestite	transvestite	1 meaning
+e	transylvania	transylvania	1 meaning
+e	travel agency	travelagency	1 meaning
+e	tredecillion	tredecillion	1 meaning
+e	tree kangaroo	treekangaroo	1 meaning
+e	tree of heaven	treeofheaven	1 meaning
+e	triacontagon	triacontagon	1 meaning
+e	trial balloon	trialballoon	1 meaning
+e	triangle wave	trianglewave	1 meaning
+e	trick or treat	trickortreat	1 meaning
+e	trigonometry	trigonometry	1 meaning
+e	trillionaire	trillionaire	1 meaning
+e	triple burner	tripleburner	1 meaning
+e	triple jumper	triplejumper	1 meaning
+e	trois-rivières	troisrivires	1 meaning
+e	tropical year	tropicalyear	1 meaning
+e	troublemaker	troublemaker	1 meaning
+e	track and field	trackandfield	1 meaning
+e	training wheel	trainingwheel	1 meaning
+e	transcendence	transcendence	1 meaning
+e	transcription	transcription	2 meanings
+e	transfer agent	transferagent	1 meaning
+e	transhumanism	transhumanism	1 meaning
+e	transidentity	transidentity	1 meaning
+e	transliterate	transliterate	1 meaning
+e	transmittance	transmittance	1 meaning
+e	transmutation	transmutation	2 meanings
+e	transom window	transomwindow	1 meaning
+e	transtemporal	transtemporal	1 meaning
+e	trapezohedron	trapezohedron	1 meaning
+e	treasure chest	treasurechest	1 meaning
+e	treasure trail	treasuretrail	1 meaning
+e	treasure trove	treasuretrove	1 meaning
+e	trench warfare	trenchwarfare	1 meaning
+e	trial and error	trialanderror	1 meaning
+e	triangulation	triangulation	1 meaning
+e	tricameralism	tricameralism	1 meaning
+e	tritocerebrum	tritocerebrum	1 meaning
+e	triumphal arch	triumphalarch	1 meaning
+e	trowel machine	trowelmachine	1 meaning
+e	trumpeter swan	trumpeterswan	1 meaning
+e	trading partner	tradingpartner	1 meaning
+e	traditionalist	traditionalist	1 meaning
+e	transcendental	transcendental	2 meanings
+e	transformation	transformation	2 meanings
+e	transitive verb	transitiveverb	1 meaning
+e	translationese	translationese	1 meaning
+e	transmigration	transmigration	1 meaning
+e	transportation	transportation	3 meanings
+e	transsexuality	transsexuality	1 meaning
+e	transverse wave	transversewave	1 meaning
+e	traveller's palm	travellerspalm	1 meaning
+e	travelling wave	travellingwave	1 meaning
+e	triacontadigon	triacontadigon	1 meaning
+e	trigger warning	triggerwarning	1 meaning
+e	tristan da cunha	tristandacunha	1 meaning
+e	trivialization	trivialization	1 meaning
+e	trolley problem	trolleyproblem	1 meaning
+e	tropic of cancer	tropicofcancer	1 meaning
+e	transavantgarde	transavantgarde	1 meaning
+e	transfer student	transferstudent	1 meaning
+e	transistor radio	transistorradio	1 meaning
+e	translative case	translativecase	1 meaning
+e	transliteration	transliteration	1 meaning
+e	transplantation	transplantation	2 meanings
+e	tree of knowledge	treeofknowledge	1 meaning
+e	triangular prism	triangularprism	1 meaning
+e	trick of the trade	trickofthetrade	1 meaning
+e	trigeminal nerve	trigeminalnerve	1 meaning
+e	trinitrotoluene	trinitrotoluene	1 meaning
+e	tropical cyclone	tropicalcyclone	1 meaning
+e	troubleshooting	troubleshooting	1 meaning
+e	trypanosomiasis	trypanosomiasis	1 meaning
+e	transcontinental	transcontinental	1 meaning
+e	transmission line	transmissionline	1 meaning
+e	traveller's cheque	travellerscheque	1 meaning
+e	triangular number	triangularnumber	1 meaning
+e	trichloromethane	trichloromethane	1 meaning
+e	trichotillomania	trichotillomania	1 meaning
+e	trifoliate orange	trifoliateorange	1 meaning
+e	tropical geometry	tropicalgeometry	1 meaning
+e	transcendentalism	transcendentalism	2 meanings
+e	triacontatetragon	triacontatetragon	1 meaning
+e	trinidad and tobago	trinidadandtobago	1 meaning
+e	triskaidekaphobia	triskaidekaphobia	1 meaning
+e	tropic of capricorn	tropicofcapricorn	1 meaning
+e	traditional chinese	traditionalchinese	2 meanings
+e	translation studies	translationstudies	1 meaning
+e	transubstantiation	transubstantiation	2 meanings
+e	travelling salesman	travellingsalesman	1 meaning
+e	treasury department	treasurydepartment	1 meaning
+e	triangle inequality	triangleinequality	1 meaning
+e	tropical rainforest	tropicalrainforest	1 meaning
+e	trigeminal neuralgia	trigeminalneuralgia	1 meaning
+e	transcendental number	transcendentalnumber	1 meaning
+e	trigonometric function	trigonometricfunction	1 meaning
+e	transformational grammar	transformationalgrammar	1 meaning
+e	traditional chinese medicine	traditionalchinesemedicine	1 meaning
+e	truth is stranger than fiction	truthisstrangerthanfiction	1 meaning

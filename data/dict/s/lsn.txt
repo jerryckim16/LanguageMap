@@ -1,0 +1,98 @@
+e	snag	snag	4 meanings
+e	snap	snap	1 meaning
+e	snob	snob	1 meaning
+e	snot	snot	1 meaning
+e	snow	snow	5 meanings
+e	snub	snub	1 meaning
+e	snug	snug	1 meaning
+e	snus	snus	1 meaning
+e	snack	snack	3 meanings
+e	snail	snail	2 meanings
+e	snake	snake	2 meanings
+e	snare	snare	1 meaning
+e	sneak	sneak	1 meaning
+e	sneer	sneer	2 meanings
+e	sniff	sniff	1 meaning
+e	snipe	snipe	3 meanings
+e	snood	snood	1 meaning
+e	snore	snore	2 meanings
+e	snort	snort	1 meaning
+e	snout	snout	1 meaning
+e	snuff	snuff	1 meaning
+e	snatch	snatch	3 meanings
+e	sneeze	sneeze	2 meanings
+e	sniper	sniper	1 meaning
+e	snoopy	snoopy	1 meaning
+e	snooze	snooze	2 meanings
+e	sneak in	sneakin	1 meaning
+e	sneaker	sneaker	1 meaning
+e	snifter	snifter	1 meaning
+e	snippet	snippet	1 meaning
+e	snooker	snooker	1 meaning
+e	snoring	snoring	1 meaning
+e	snorkel	snorkel	1 meaning
+e	snow pea	snowpea	1 meaning
+e	snowcat	snowcat	1 meaning
+e	snowdon	snowdon	1 meaning
+e	snowman	snowman	1 meaning
+e	snack bar	snackbar	1 meaning
+e	snapshot	snapshot	2 meanings
+e	sniff out	sniffout	2 meanings
+e	snow cone	snowcone	1 meaning
+e	snow crab	snowcrab	1 meaning
+e	snow shed	snowshed	1 meaning
+e	snowball	snowball	4 meanings
+e	snowboot	snowboot	1 meaning
+e	snowcock	snowcock	1 meaning
+e	snowcone	snowcone	1 meaning
+e	snowdrop	snowdrop	1 meaning
+e	snowfall	snowfall	2 meanings
+e	snowplow	snowplow	2 meanings
+e	snowshoe	snowshoe	1 meaning
+e	snowy owl	snowyowl	1 meaning
+e	snub nose	snubnose	1 meaning
+e	snuffbox	snuffbox	1 meaning
+e	snailfish	snailfish	1 meaning
+e	snake eyes	snakeeyes	1 meaning
+e	snake wine	snakewine	1 meaning
+e	snakehead	snakehead	1 meaning
+e	snakeskin	snakeskin	1 meaning
+e	snare drum	snaredrum	1 meaning
+e	snout moth	snoutmoth	1 meaning
+e	snow globe	snowglobe	1 meaning
+e	snow goose	snowgoose	1 meaning
+e	snow queen	snowqueen	1 meaning
+e	snow scoop	snowscoop	1 meaning
+e	snow white	snowwhite	2 meanings
+e	snow-white	snowwhite	1 meaning
+e	snowboard	snowboard	1 meaning
+e	snowclone	snowclone	1 meaning
+e	snowdonia	snowdonia	1 meaning
+e	snowflake	snowflake	1 meaning
+e	snowlight	snowlight	1 meaning
+e	snowstorm	snowstorm	1 meaning
+e	snail's pace	snailspace	1 meaning
+e	snake gourd	snakegourd	1 meaning
+e	sneakernet	sneakernet	1 meaning
+e	snorkeling	snorkeling	1 meaning
+e	snow fungus	snowfungus	1 meaning
+e	snow petrel	snowpetrel	1 meaning
+e	snow shovel	snowshovel	1 meaning
+e	snowblower	snowblower	1 meaning
+e	snowmobile	snowmobile	1 meaning
+e	snake island	snakeisland	1 meaning
+e	sniper rifle	sniperrifle	1 meaning
+e	snow bunting	snowbunting	1 meaning
+e	snow leopard	snowleopard	1 meaning
+e	snow monster	snowmonster	1 meaning
+e	snowboarder	snowboarder	1 meaning
+e	snaggletooth	snaggletooth	1 meaning
+e	snake charmer	snakecharmer	1 meaning
+e	snap fastener	snapfastener	1 meaning
+e	snollygoster	snollygoster	1 meaning
+e	snake charming	snakecharming	1 meaning
+e	snowball fight	snowballfight	1 meaning
+e	snapping turtle	snappingturtle	1 meaning
+e	snap one's fingers	snaponesfingers	1 meaning
+e	snub-nosed monkey	snubnosedmonkey	1 meaning
+e	snow-on-the-mountain	snowonthemountain	1 meaning

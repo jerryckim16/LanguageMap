@@ -1,0 +1,298 @@
+e	bălți	bli	1 meaning
+e	blah	blah	1 meaning
+e	blob	blob	1 meaning
+e	bloc	bloc	1 meaning
+e	blog	blog	1 meaning
+e	blow	blow	10 meanings
+e	blue	blue	4 meanings
+e	blur	blur	2 meanings
+e	-blast	blast	1 meaning
+e	black	black	4 meanings
+e	blade	blade	2 meanings
+e	blame	blame	2 meanings
+e	bland	bland	1 meaning
+e	blank	blank	2 meanings
+e	blast	blast	1 meaning
+e	blaze	blaze	1 meaning
+e	bleed	bleed	1 meaning
+e	blend	blend	3 meanings
+e	bless	bless	1 meaning
+e	blida	blida	1 meaning
+e	blimp	blimp	1 meaning
+e	blind	blind	3 meanings
+e	blini	blini	1 meaning
+e	blink	blink	4 meanings
+e	bliss	bliss	1 meaning
+e	block	block	6 meanings
+e	blois	blois	1 meaning
+e	blond	blond	4 meanings
+e	blood	blood	3 meanings
+e	blues	blues	1 meaning
+e	blunt	blunt	3 meanings
+e	blurb	blurb	1 meaning
+e	blurt	blurt	1 meaning
+e	blush	blush	4 meanings
+e	blazer	blazer	1 meaning
+e	bleach	bleach	2 meanings
+e	bloody	bloody	4 meanings
+e	blouse	blouse	1 meaning
+e	blow up	blowup	3 meanings
+e	blower	blower	1 meaning
+e	blu-ray	bluray	1 meaning
+e	bladder	bladder	1 meaning
+e	blanket	blanket	1 meaning
+e	blarney	blarney	1 meaning
+e	blender	blender	1 meaning
+e	blessed	blessed	1 meaning
+e	blister	blister	2 meanings
+e	blitzen	blitzen	1 meaning
+e	bloated	bloated	1 meaning
+e	blogger	blogger	1 meaning
+e	blooper	blooper	1 meaning
+e	blossom	blossom	2 meanings
+e	blow off	blowoff	1 meaning
+e	blowfly	blowfly	1 meaning
+e	blowgun	blowgun	1 meaning
+e	blowjob	blowjob	1 meaning
+e	blubber	blubber	2 meanings
+e	blue jay	bluejay	1 meaning
+e	blue tit	bluetit	1 meaning
+e	blunder	blunder	1 meaning
+e	blurred	blurred	1 meaning
+e	black box	blackbox	2 meanings
+e	black cat	blackcat	1 meaning
+e	black eye	blackeye	1 meaning
+e	black ice	blackice	1 meaning
+e	black rat	blackrat	1 meaning
+e	black sea	blacksea	1 meaning
+e	black tea	blacktea	2 meanings
+e	blackfly	blackfly	1 meaning
+e	blackleg	blackleg	1 meaning
+e	blackout	blackout	1 meaning
+e	blastoma	blastoma	1 meaning
+e	blastula	blastula	1 meaning
+e	bleeding	bleeding	1 meaning
+e	bless you	blessyou	1 meaning
+e	blessing	blessing	1 meaning
+e	blind map	blindmap	1 meaning
+e	blizzard	blizzard	1 meaning
+e	blobfish	blobfish	1 meaning
+e	blockade	blockade	2 meanings
+e	blogpost	blogpost	1 meaning
+e	blood red	bloodred	1 meaning
+e	bloomers	bloomers	1 meaning
+e	blow away	blowaway	1 meaning
+e	blowfish	blowfish	2 meanings
+e	blowhard	blowhard	1 meaning
+e	bludgeon	bludgeon	2 meanings
+e	blue card	bluecard	1 meaning
+e	blue link	bluelink	1 meaning
+e	blue moon	bluemoon	2 meanings
+e	blue-gray	bluegray	1 meaning
+e	black belt	blackbelt	1 meaning
+e	black carp	blackcarp	1 meaning
+e	black coal	blackcoal	1 meaning
+e	black flag	blackflag	1 meaning
+e	black hole	blackhole	1 meaning
+e	black kite	blackkite	1 meaning
+e	black rain	blackrain	1 meaning
+e	black rice	blackrice	1 meaning
+e	black swan	blackswan	1 meaning
+e	blackbird	blackbird	1 meaning
+e	blackbody	blackbody	1 meaning
+e	blackbuck	blackbuck	1 meaning
+e	blackjack	blackjack	1 meaning
+e	blacklist	blacklist	1 meaning
+e	blackmail	blackmail	2 meanings
+e	blameless	blameless	2 meanings
+e	blasphemy	blasphemy	1 meaning
+e	blind date	blinddate	1 meaning
+e	blind spot	blindspot	2 meanings
+e	blindfold	blindfold	1 meaning
+e	blindness	blindness	1 meaning
+e	bloatware	bloatware	1 meaning
+e	bloc party	blocparty	1 meaning
+e	blockhead	blockhead	1 meaning
+e	blood bank	bloodbank	1 meaning
+e	blood cell	bloodcell	1 meaning
+e	blood clot	bloodclot	1 meaning
+e	blood flow	bloodflow	1 meaning
+e	blood moon	bloodmoon	1 meaning
+e	blood test	bloodtest	1 meaning
+e	blood type	bloodtype	1 meaning
+e	bloodbath	bloodbath	1 meaning
+e	bloodless	bloodless	1 meaning
+e	bloodroot	bloodroot	1 meaning
+e	bloodshed	bloodshed	1 meaning
+e	bloodshot	bloodshot	1 meaning
+e	blow a fuse	blowafuse	1 meaning
+e	blow a kiss	blowakiss	1 meaning
+e	blowtorch	blowtorch	1 meaning
+e	blue blood	blueblood	1 meaning
+e	blue crane	bluecrane	1 meaning
+e	blue giant	bluegiant	1 meaning
+e	blue house	bluehouse	1 meaning
+e	blue jeans	bluejeans	1 meaning
+e	blue shark	blueshark	1 meaning
+e	blue state	bluestate	1 meaning
+e	blue whale	bluewhale	1 meaning
+e	blue-black	blueblack	1 meaning
+e	blue-green	bluegreen	1 meaning
+e	bluebeard	bluebeard	2 meanings
+e	blueberry	blueberry	1 meaning
+e	blueprint	blueprint	4 meanings
+e	bluetooth	bluetooth	2 meanings
+e	black alder	blackalder	1 meaning
+e	black death	blackdeath	1 meaning
+e	black dwarf	blackdwarf	1 meaning
+e	black humor	blackhumor	1 meaning
+e	black light	blacklight	1 meaning
+e	black magic	blackmagic	1 meaning
+e	black metal	blackmetal	1 meaning
+e	black sheep	blacksheep	1 meaning
+e	black stork	blackstork	1 meaning
+e	blackbeard	blackbeard	1 meaning
+e	blackberry	blackberry	3 meanings
+e	blackboard	blackboard	1 meaning
+e	blackshirt	blackshirt	1 meaning
+e	blacksmith	blacksmith	2 meanings
+e	bladdernut	bladdernut	1 meaning
+e	blanquette	blanquette	1 meaning
+e	blastoderm	blastoderm	1 meaning
+e	blind tiger	blindtiger	1 meaning
+e	blindsight	blindsight	1 meaning
+e	bling bling	blingbling	1 meaning
+e	blitzkrieg	blitzkrieg	1 meaning
+e	blockchain	blockchain	1 meaning
+e	blockfield	blockfield	1 meaning
+e	blood donor	blooddonor	1 meaning
+e	blood drive	blooddrive	1 meaning
+e	blood libel	bloodlibel	1 meaning
+e	blood sport	bloodsport	1 meaning
+e	blood sugar	bloodsugar	1 meaning
+e	bloodstone	bloodstone	1 meaning
+e	bloody hell	bloodyhell	1 meaning
+e	bloody mary	bloodymary	1 meaning
+e	blue banana	bluebanana	1 meaning
+e	blue cheese	bluecheese	1 meaning
+e	blue monkey	bluemonkey	1 meaning
+e	blue mussel	bluemussel	1 meaning
+e	blue planet	blueplanet	1 meaning
+e	blue screen	bluescreen	1 meaning
+e	blue-collar	bluecollar	1 meaning
+e	bluebottle	bluebottle	1 meaning
+e	bluethroat	bluethroat	1 meaning
+e	bluetongue	bluetongue	1 meaning
+e	black as coal	blackascoal	1 meaning
+e	black beetle	blackbeetle	1 meaning
+e	black caiman	blackcaiman	1 meaning
+e	black coffee	blackcoffee	1 meaning
+e	black comedy	blackcomedy	1 meaning
+e	black drongo	blackdrongo	1 meaning
+e	black forest	blackforest	1 meaning
+e	black friday	blackfriday	2 meanings
+e	black grouse	blackgrouse	1 meaning
+e	black knight	blackknight	1 meaning
+e	black liquor	blackliquor	1 meaning
+e	black locust	blacklocust	1 meaning
+e	black market	blackmarket	1 meaning
+e	black pepper	blackpepper	1 meaning
+e	black sapote	blacksapote	2 meanings
+e	black turtle	blackturtle	1 meaning
+e	black walnut	blackwalnut	2 meanings
+e	black-haired	blackhaired	1 meaning
+e	blackmailer	blackmailer	1 meaning
+e	bladderwort	bladderwort	1 meaning
+e	blagoevgrad	blagoevgrad	1 meaning
+e	blameworthy	blameworthy	1 meaning
+e	bleep censor	bleepcensor	1 meaning
+e	blissymbols	blissymbols	1 meaning
+e	block island	blockisland	1 meaning
+e	block letter	blockletter	1 meaning
+e	blockbuster	blockbuster	2 meanings
+e	blogosphere	blogosphere	1 meaning
+e	blood cockle	bloodcockle	1 meaning
+e	blood plasma	bloodplasma	1 meaning
+e	blood vessel	bloodvessel	1 meaning
+e	bloodstream	bloodstream	1 meaning
+e	bloodsucker	bloodsucker	1 meaning
+e	blue admiral	blueadmiral	1 meaning
+e	blue-eyed boy	blueeyedboy	1 meaning
+e	bluefin tuna	bluefintuna	1 meaning
+e	blunderbuss	blunderbuss	1 meaning
+e	black panther	blackpanther	1 meaning
+e	black vulture	blackvulture	1 meaning
+e	black-eyed pea	blackeyedpea	2 meanings
+e	black-hearted	blackhearted	1 meaning
+e	blackcurrant	blackcurrant	1 meaning
+e	blade of grass	bladeofgrass	1 meaning
+e	blast furnace	blastfurnace	1 meaning
+e	blink of an eye	blinkofaneye	1 meaning
+e	bloemfontein	bloemfontein	1 meaning
+e	blood blister	bloodblister	1 meaning
+e	blood brother	bloodbrother	1 meaning
+e	blood sausage	bloodsausage	1 meaning
+e	bloodletting	bloodletting	1 meaning
+e	bloodstained	bloodstained	1 meaning
+e	bloodthirsty	bloodthirsty	1 meaning
+e	blow one's nose	blowonesnose	1 meaning
+e	bluestocking	bluestocking	1 meaning
+e	black redstart	blackredstart	1 meaning
+e	black-and-white	blackandwhite	2 meanings
+e	bladder cancer	bladdercancer	1 meaning
+e	bladder cherry	bladdercherry	1 meaning
+e	bleeding heart	bleedingheart	1 meaning
+e	bleu d'auvergne	bleudauvergne	1 meaning
+e	blind man's buff	blindmansbuff	1 meaning
+e	blood donation	blooddonation	1 meaning
+e	blood pheasant	bloodpheasant	1 meaning
+e	blood pressure	bloodpressure	1 meaning
+e	blood relation	bloodrelation	1 meaning
+e	blotting paper	blottingpaper	1 meaning
+e	black antshrike	blackantshrike	1 meaning
+e	black christmas	blackchristmas	1 meaning
+e	bladder campion	bladdercampion	1 meaning
+e	blue rock thrush	bluerockthrush	1 meaning
+e	blue supergiant	bluesupergiant	1 meaning
+e	blue wildebeest	bluewildebeest	1 meaning
+e	black nightshade	blacknightshade	1 meaning
+e	black rhinoceros	blackrhinoceros	1 meaning
+e	black woodpecker	blackwoodpecker	1 meaning
+e	black-headed gull	blackheadedgull	1 meaning
+e	black-necked swan	blackneckedswan	1 meaning
+e	black-winged kite	blackwingedkite	1 meaning
+e	blagoveshchensk	blagoveshchensk	1 meaning
+e	black house spider	blackhousespider	1 meaning
+e	black lives matter	blacklivesmatter	1 meaning
+e	black-necked crane	blackneckedcrane	1 meaning
+e	black-necked grebe	blackneckedgrebe	1 meaning
+e	black-winged stilt	blackwingedstilt	1 meaning
+e	blood transfusion	bloodtransfusion	1 meaning
+e	black crowned crane	blackcrownedcrane	1 meaning
+e	black forest gâteau	blackforestgateau	1 meaning
+e	black-backed jackal	blackbackedjackal	1 meaning
+e	black-billed magpie	blackbilledmagpie	1 meaning
+e	black-faced bunting	blackfacedbunting	1 meaning
+e	blood-brain barrier	bloodbrainbarrier	1 meaning
+e	blow out of the water	blowoutofthewater	1 meaning
+e	blue screen of death	bluescreenofdeath	1 meaning
+e	blue-ringed octopus	blueringedoctopus	1 meaning
+e	black-bellied plover	blackbelliedplover	1 meaning
+e	black-headed bunting	blackheadedbunting	1 meaning
+e	black-throated diver	blackthroateddiver	1 meaning
+e	bladder desperation	bladderdesperation	1 meaning
+e	blood, sweat and tears	bloodsweatandtears	1 meaning
+e	bluejoint reed grass	bluejointreedgrass	1 meaning
+e	black-throated thrush	blackthroatedthrush	1 meaning
+e	black-capped chickadee	blackcappedchickadee	1 meaning
+e	black-crested titmouse	blackcrestedtitmouse	1 meaning
+e	black-hooded antshrike	blackhoodedantshrike	1 meaning
+e	black-legged kittiwake	blackleggedkittiwake	1 meaning
+e	blue-winged kookaburra	bluewingedkookaburra	1 meaning
+e	black-crested antshrike	blackcrestedantshrike	1 meaning
+e	black-winged pratincole	blackwingedpratincole	1 meaning
+e	blackish-gray antshrike	blackishgrayantshrike	1 meaning
+e	black-crowned night heron	blackcrownednightheron	1 meaning
+e	black-throated antshrike	blackthroatedantshrike	1 meaning
+e	black-and-white television	blackandwhitetelevision	1 meaning
+e	blood is thicker than water	bloodisthickerthanwater	1 meaning

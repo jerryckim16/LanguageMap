@@ -1,0 +1,21 @@
+e	zhou	zhou	1 meaning
+e	zhang	zhang	1 meaning
+e	zhuang	zhuang	3 meanings
+e	zhuhai	zhuhai	1 meaning
+e	zhukov	zhukov	1 meaning
+e	zhongli	zhongli	1 meaning
+e	zhouzhi	zhouzhi	2 meanings
+e	zhabinka	zhabinka	1 meaning
+e	zhejiang	zhejiang	1 meaning
+e	zhuangzi	zhuangzi	1 meaning
+e	zhytomyr	zhytomyr	1 meaning
+e	zhangzhou	zhangzhou	1 meaning
+e	zhanmadao	zhanmadao	1 meaning
+e	zhengzhou	zhengzhou	1 meaning
+e	zhenjiang	zhenjiang	1 meaning
+e	zhongshan	zhongshan	1 meaning
+e	zhangjiajie	zhangjiajie	1 meaning
+e	zhangjiakou	zhangjiakou	1 meaning
+e	zhongnanhai	zhongnanhai	1 meaning
+e	zhuyin fuhao	zhuyinfuhao	1 meaning
+e	zheleznogorsk	zheleznogorsk	1 meaning

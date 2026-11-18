@@ -1,0 +1,68 @@
+e	io	io	2 meanings
+j	いお	io	いおり。
+j	いおう	io	原子番号 16、元素記号 S の非金属元素。単体は…
+j	イオ	io	木星の第一衛星の固有名。火山活動が活発。
+j	イオウ	io	硫黄: sulfur, sulphur, S
+j	イーオー	io	
+j	以緒	io	a female given name
+j	伊央	io	a female given name
+j	伊緒	io	a female given name
+j	伊音	io	a female given name
+j	依央	io	a female given name
+j	依桜	io	a female given name
+j	依雄	io	a female given name
+j	医王	io	仏法を説くことで衆生の心を癒やす仏や菩薩。
+j	唯央	io	a female given name
+j	易往	io	（阿弥陀仏の本願により）極楽浄土に容易に往生するこ…
+j	硫黄	io	sulfur (element)
+k	이오	io	
+e	ion	ion	1 meaning
+e	iou	iou	1 meaning
+j	イオン	ion	an ion
+j	イオーン	ion	Ion
+j	倚音	ion	西洋音楽である音符の前に短く演奏される音。前打音。
+j	異音	ion	an allophone
+j	遺恩	ion	故人が残した恩恵。
+k	이온	ion	
+k	이외	ioe	apart from this
+e	iota	iota	1 meaning
+e	iowa	iowa	1 meaning
+j	いおり	iori	隠居・隠棲した者などが居住に用いる質素な建築物。
+j	イオタ	iota	iota
+j	イオータ	iota	
+j	五百城	ioki	a surname
+j	伊織	iori	a female given name
+j	庵	iori	a coarse hut made of bamb…
+j	硫黄島	ioto	Iwo Jima (volcanic island…
+j	イオニア	ionia	Ionia
+j	イオン価	ionka	イオンが持つ電気量を電気素量で除した数値。
+j	イオン化	ionka	ionization
+e	iodate	iodate	1 meaning
+e	iodide	iodide	1 meaning
+e	iodine	iodine	2 meanings
+j	いおはた	iohata	いくつもの織機。
+j	イオタ化	iotaka	ヨット化。
+j	イ音便	ionbin	a form of euphony whereby…
+k	이오섬	ioseom	
+j	いおうしょく	ioshoku	
+j	イオニウム	ioniumu	トリウムの同位体で質量数230のもの。
+j	庵点	ioriten	a part alternation mark (…
+k	이오아니나	ioanina	
+e	ioannina	ioannina	1 meaning
+j	イオカステ	iokasute	木星の第24衛星の固有名。
+j	イオニア海	ioniakai	Ionian Sea (a sea between…
+j	イオン式	ionshiki	イオンを表す化学式。
+j	イオン飲料	ioninryo	スポーツドリンクに同じ。
+k	이오니아해	ioniahae	
+e	iodic acid	iodicacid	1 meaning
+e	ionian sea	ioniansea	1 meaning
+e	ionic bond	ionicbond	1 meaning
+j	硫黄色の	ioshokuno	
+k	이온음료	ioneumnyo	
+e	ionization	ionization	1 meaning
+e	ionosphere	ionosphere	1 meaning
+j	イオニア式	ioniashiki	the Ionic order
+e	iodomethane	iodomethane	1 meaning
+e	iota variant	iotavariant	1 meaning
+k	이온결합	iongyeolhap	
+j	イオン化エネルギー	ionkaenerugi	ionization energy

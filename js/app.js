@@ -1,9 +1,12 @@
-/* Korean → Japanese Word Map */
+/* Curated Korean → Japanese mappings (dictionary page: Mappings, Network and List tabs). */
 (() => {
   "use strict";
 
   const M = window.LANGUAGE_MAP_MODEL;
-  const { CATEGORIES, KINDS, ORIGINS, koWords, jaWords, links, bands, chars } = M;
+  const { CATEGORIES, KINDS, ORIGINS, NOT_TRANSLATION, koWords, jaWords, links, bands, chars } = M;
+  const F = window.Furigana;
+  // Japanese word with hiragana over its kanji.
+  const jr = (w) => (w.lang === "ja" && !w.pseudo ? F.html(w.text, w.kana) : esc(w.label));
 
   const $ = (sel) => document.querySelector(sel);
   const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) =>
@@ -16,7 +19,7 @@
 
   // ── State ─────────────────────────────────────────────────────────
   const state = {
-    view: "mapping",
+    view: document.body.dataset.view || "mapping",
     dir: "ko2ja",
     cats: new Set(Object.keys(CATEGORIES)),
     kinds: new Set(Object.keys(KINDS)),
@@ -31,7 +34,8 @@
   const nodeId = (ref) => ref && ({ ko: "k:", ja: "j:", char: "c:" }[ref.type] + ref.id);
   const refOfWord = (w) => ({ type: w.lang, id: w.key });
 
-  const isBroken = (l) => l.kind !== "false" && l.tr.type !== "1:1";
+  const isTranslation = (l) => !NOT_TRANSLATION.has(l.kind);
+  const isBroken = (l) => isTranslation(l) && l.tr.type !== "1:1";
   const linkVisible = (l) =>
     state.cats.has(l.band.category) && state.kinds.has(l.kind) && (!state.onlyBroken || isBroken(l));
   const visibleLinks = () => links.filter(linkVisible);
@@ -49,7 +53,11 @@
   // Arrowheads: both ends for one-to-one, otherwise only in the chosen direction.
   // Paths always run from the Korean word to the Japanese word.
   function markers(l) {
-    if (l.kind === "false") return "";
+    if (l.kind === "none") {
+      const m = "url(#m-none)";
+      return l.ja.pseudo ? `marker-end="${m}"` : `marker-start="${m}"`;
+    }
+    if (!isTranslation(l)) return "";
     const m = `url(#m-${l.kind})`;
     if (l.tr.type === "1:1") return `marker-start="${m}" marker-end="${m}"`;
     return state.dir === "ko2ja" ? `marker-end="${m}"` : `marker-start="${m}"`;
@@ -79,8 +87,9 @@
        markerUnits="userSpaceOnUse" orient="auto-start-reverse">
        <path d="M0,0 L10,5 L0,10 z" fill="${v.color}"/></marker>`).join("");
 
+  const dash = (k) => ({ false: "4 3", approx: "2 3", none: "6 3" }[k] || "");
   const kindSwatch = (k) => `<svg class="swatch" viewBox="0 0 26 10" aria-hidden="true">
-      <line x1="1" y1="5" x2="25" y2="5" stroke="${KINDS[k].color}" stroke-width="2.5" ${k === "false" ? 'stroke-dasharray="4 3"' : ""}/></svg>`;
+      <line x1="1" y1="5" x2="25" y2="5" stroke="${KINDS[k].color}" stroke-width="2.5" ${dash(k) ? `stroke-dasharray="${dash(k)}"` : ""}/></svg>`;
   $("#kind-legend").innerHTML = Object.keys(KINDS).map((k) =>
     `<span class="kl" title="${esc(KINDS[k].desc)}">${kindSwatch(k)}${esc(KINDS[k].label)}</span>`).join("");
   $("#about-kinds").innerHTML = Object.keys(KINDS).map((k) =>
@@ -165,7 +174,7 @@
     const pillW = colW - 20;
     const xKo = 10, xJa = W - colW + 10;              // pill left edges
     const aKo = xKo + pillW, aJa = xJa;               // arrow anchor x
-    const ROW = 50, PH = 38, TOP = 44, BOT = 12;
+    const ROW = 56, PH = 46, TOP = 44, BOT = 12;
     const gapChars = Math.floor((aJa - aKo - 16) / 6.2);
 
     const sections = [];
@@ -190,7 +199,7 @@
         jaList.forEach((w) => jas.add(w));
 
         const broken = uniq(g.links.filter(isBroken).map((l) => l.tr));
-        g.links.forEach((l) => { if (l.kind !== "false") comps.add(l.tr); });
+        g.links.forEach((l) => { if (isTranslation(l)) comps.add(l.tr); });
         if (broken.length) {
           const labels = uniq(broken.map((c) => mapping(c).short)).join(" · ");
           svgBands += `<rect class="band-bg ${mapping(broken[0]).cls}" x="2" y="${y + 2}" width="${W - 4}" height="${h - 4}" rx="10"/>
@@ -203,10 +212,10 @@
           const y1 = pos.get("k:" + l.ko.key), y2 = pos.get("j:" + l.ja.key);
           const dx = (aJa - aKo) * 0.45;
           const color = KINDS[l.kind].color;
-          const gloss = l.kind === "false" ? "≠ looks the same" : l.en;
+          const gloss = l.kind === "false" ? "≠ looks the same" : l.kind === "approx" ? "≈ " + l.en : l.kind === "none" ? "no equivalent" : l.en;
           svgLinks += `<g class="m-link kind-${l.kind}" data-k="${esc(l.ko.key)}" data-j="${esc(l.ja.key)}">
             <path d="M${aKo + 2},${y1} C${aKo + dx},${y1} ${aJa - dx},${y2} ${aJa - 2},${y2}"
-              stroke="${color}" ${l.kind === "false" ? 'stroke-dasharray="5 4"' : ""} ${markers(l)}/>
+              stroke="${color}" ${dash(l.kind) ? `stroke-dasharray="${dash(l.kind)}"` : ""} ${markers(l)}/>
             <text class="gloss" x="${(aKo + aJa) / 2}" y="${(y1 + y2) / 2 - 4}">${esc(truncate(gloss, gapChars))}</text>
           </g>`;
         }
@@ -215,15 +224,20 @@
 
       const pill = (w, x, yc) => {
         const main = w.label;
-        const sub = w.lang === "ko" ? w.rom : (w.kana !== w.text ? w.kana : w.rom);
         const fs = Math.min(15, (pillW - 14) / Math.max(1, cjkLen(main) * 1.02));
         const id = `${w.lang === "ko" ? "k" : "j"}:${w.key}`;
         const sel = state.selected && nodeId(state.selected) === id;
-        return `<g class="m-node ${w.lang}${sel ? " selected" : ""}" data-node="${esc(id)}"
-                   tabindex="0" role="button" aria-label="${esc(w.label)}" transform="translate(${x},${yc - PH / 2})">
+        const cls = `m-node ${w.lang}${sel ? " selected" : ""}${w.pseudo ? " pseudo" : ""}`;
+        const sub = truncate(w.pseudo ? "no equivalent" : w.rom, Math.floor(pillW / 6.3));
+        // Japanese: hiragana above the kanji, romanization below. Korean: word and romanization.
+        const mainSvg = w.lang === "ja" && !w.pseudo
+          ? F.svg(main, w.kana, { x: pillW / 2, y: 27, fs: +fs.toFixed(1), rtSize: 8.5, cls: "main", rtCls: "rt" })
+          : `<text class="main" x="${pillW / 2}" y="${w.pseudo ? 29 : 22}" font-size="${w.pseudo ? 18 : fs.toFixed(1)}" lang="${w.lang}">${esc(main)}</text>`;
+        return `<g class="${cls}" data-node="${esc(id)}" ${w.pseudo ? 'data-pseudo="1"' : 'tabindex="0" role="button"'}
+                   aria-label="${esc(w.pseudo ? "no equivalent" : w.label)}" transform="translate(${x},${yc - PH / 2})">
           <rect width="${pillW}" height="${PH}" rx="9"/>
-          <text class="main" x="${pillW / 2}" y="16" font-size="${fs.toFixed(1)}" lang="${w.lang}">${esc(main)}</text>
-          <text class="sub" x="${pillW / 2}" y="31" lang="${w.lang}">${esc(truncate(sub, Math.floor(pillW / 6.3)))}</text>
+          ${mainSvg}
+          ${w.pseudo ? "" : `<text class="sub" x="${pillW / 2}" y="${w.lang === "ja" ? 41 : 38}" lang="${w.lang}">${esc(sub)}</text>`}
         </g>`;
       };
       for (const w of kos) svgNodes += pill(w, xKo, pos.get("k:" + w.key));
@@ -237,24 +251,26 @@
         <text class="set-label" x="${W - colW / 2}" y="26" lang="ja">日本語</text>`;
 
       // Summary and bijection verdict.
+      const noneCount = groups.reduce((s, g) => s + g.links.filter((l) => l.kind === "none").length, 0);
       const tally = { ok: 0, split: 0, merge: 0, many: 0 };
       for (const c of comps) tally[mapping(c).cls]++;
       const ffCount = groups.reduce((s, g) => s + g.links.filter((l) => l.kind === "false").length, 0);
-      const bij = comps.size > 0 && tally.ok === comps.size;
+      const bij = comps.size > 0 && tally.ok === comps.size && !noneCount;
       const parts = [];
       if (tally.ok) parts.push(`${tally.ok} one-to-one`);
       if (tally.split) parts.push(`${tally.split} split${tally.split > 1 ? "s" : ""}`);
       if (tally.merge) parts.push(`${tally.merge} merge${tally.merge > 1 ? "s" : ""}`);
       if (tally.many) parts.push(`${tally.many} many-to-many`);
       if (ffCount) parts.push(`${ffCount} false friend${ffCount > 1 ? "s" : ""}`);
+      if (noneCount) parts.push(`${noneCount} with no equivalent`);
 
       sections.push(`
         <section class="map-section" id="sec-${key}">
           <header>
             <h3><span class="dot" style="background:${cat.color}"></span>${esc(cat.label)}</h3>
-            ${comps.size ? `<span class="verdict ${bij ? "yes" : "no"}">${bij ? "✓ Bijection" : "✗ Not a bijection"}</span>` : ""}
+            ${comps.size || noneCount ? `<span class="verdict ${bij ? "yes" : "no"}">${bij ? "✓ Bijection" : noneCount ? "✗ Not a bijection: some words map to ∅" : "✗ Not a bijection"}</span>` : ""}
           </header>
-          <p class="summary">${kos.size} Korean → ${jas.size} Japanese words · ${parts.join(" · ")}</p>
+          <p class="summary">${[...kos].filter((w) => !w.pseudo).length} Korean → ${[...jas].filter((w) => !w.pseudo).length} Japanese words · ${parts.join(" · ")}</p>
           <svg class="mapsvg" viewBox="0 0 ${W} ${H}" width="${W}" height="${H}">
             ${sets}${svgBands}<g class="links">${svgLinks}</g>${svgNodes}
           </svg>
@@ -296,6 +312,7 @@
     if (n && !n.contains(ev.relatedTarget)) applyMappingHighlight();
   });
   const activateMapNode = (n) => {
+    if (n.dataset.pseudo) return;
     const id = n.dataset.node;
     select({ type: id[0] === "k" ? "ko" : "ja", id: id.slice(2) }, { focus: false });
   };
@@ -325,7 +342,7 @@
   const emptyMsg = svg.append("text").attr("text-anchor", "middle").attr("fill", "currentColor")
     .attr("opacity", 0.6).text("No words match these filters.").style("display", "none");
 
-  const NODE_H = 36;
+  const NODE_H = 44;
   const nodeCache = new Map();
   let nodes = [], arrows = [], charEdges = [], adjacency = new Map();
   let refitPending = false, needsFit = true;
@@ -348,9 +365,8 @@
     .stop();
 
   function wordNodeWidth(w) {
-    const sub = w.lang === "ko" ? w.rom : (w.kana !== w.text ? w.kana : w.rom);
-    const subW = /[぀-ヿ]/.test(sub) ? cjkLen(sub) * 11 : sub.length * 6.2;
-    return Math.max(cjkLen(w.label) * 15, subW) + 20;
+    const kanaW = w.lang === "ja" ? cjkLen(w.kana || "") * 8 : 0;
+    return Math.max(cjkLen(w.label) * 15, (w.rom || "").length * 6.2, kanaW) + 20;
   }
 
   function buildGraph() {
@@ -402,7 +418,7 @@
     arrowLayer.selectAll("path").data(arrows, (d) => d.id).join("path")
       .attr("class", (d) => `arrow kind-${d.link.kind}`)
       .attr("stroke", (d) => KINDS[d.link.kind].color)
-      .attr("stroke-dasharray", (d) => d.link.kind === "false" ? "5 4" : null)
+      .attr("stroke-dasharray", (d) => dash(d.link.kind) || null)
       .each(function (d) {
         this.removeAttribute("marker-start");
         this.removeAttribute("marker-end");
@@ -417,9 +433,9 @@
       g.filter((d) => d.type !== "char").each(function (d) { drawWord(d3.select(this), d); });
       g.filter((d) => d.type === "char").each(function (d) { drawChar(d3.select(this), d.char); });
       g.call(drag)
-        .on("click", (ev, d) => { ev.stopPropagation(); select(toRef(d)); })
+        .on("click", (ev, d) => { ev.stopPropagation(); if (!d.word?.pseudo) select(toRef(d)); })
         .on("keydown", (ev, d) => { if (ev.key === "Enter" || ev.key === " ") { ev.preventDefault(); select(toRef(d)); } })
-        .on("mouseenter", (ev, d) => { state.hover = toRef(d); applyGraphHighlight(); showTooltip(ev, d); })
+        .on("mouseenter", (ev, d) => { if (d.word?.pseudo) return; state.hover = toRef(d); applyGraphHighlight(); showTooltip(ev, d); })
         .on("mousemove", (ev, d) => showTooltip(ev, d))
         .on("mouseleave", () => { state.hover = null; applyGraphHighlight(); hideTooltip(); });
       return g;
@@ -466,11 +482,16 @@
 
   function drawWord(g, d) {
     const w = d.word;
+    g.classed("pseudo", !!w.pseudo);
     g.append("rect").attr("class", "box")
       .attr("x", -d.w / 2).attr("y", -d.h / 2).attr("width", d.w).attr("height", d.h).attr("rx", 9);
-    g.append("text").attr("class", "main").attr("lang", w.lang).attr("y", -3).text(w.label);
-    g.append("text").attr("class", "sub").attr("lang", w.lang).attr("y", 12)
-      .text(w.lang === "ko" ? w.rom : (w.kana !== w.text ? w.kana : w.rom));
+    if (w.lang === "ja" && !w.pseudo) {
+      g.append("g").html(F.svg(w.text, w.kana, { y: 5, fs: 14, rtSize: 8, cls: "main", rtCls: "rt" }));
+      g.append("text").attr("class", "sub").attr("y", 17).text(w.rom);
+    } else {
+      g.append("text").attr("class", "main").attr("lang", w.lang).attr("y", w.pseudo ? 6 : -1).text(w.label);
+      if (!w.pseudo) g.append("text").attr("class", "sub").attr("lang", w.lang).attr("y", 14).text(w.rom);
+    }
   }
 
   function drawChar(g, c) {
@@ -599,11 +620,12 @@
         <div class="tt-sub">shared by ${d.deg} word pairs shown</div>`;
     } else {
       const w = d.word;
-      html = `<div class="tt-title"><span lang="${w.lang}">${esc(w.label)}</span> <span class="tt-sub">${esc(w.lang === "ja" && w.kana !== w.text ? w.kana + " · " : "")}${esc(w.rom)}</span></div>
+      html = `<div class="tt-title"><span lang="${w.lang}">${jr(w)}</span> <span class="tt-sub">${esc(w.rom)}</span></div>
         <div class="tt-sub">${esc(ORIGINS[w.lang][w.origin] || "")}</div>
         ${w.links.map((l) => {
           const o = w.lang === "ko" ? l.ja : l.ko;
-          return `<div>${l.kind === "false" ? "≠" : w.lang === "ko" ? "→" : "←"} <span lang="${o.lang}">${esc(o.label)}</span> <span class="tt-sub">${esc(l.kind === "false" ? "false friend" : l.en)}</span></div>`;
+          const sym = { false: "≠", approx: "≈", none: "→" }[l.kind] || (w.lang === "ko" ? "→" : "←");
+          return `<div>${sym} <span lang="${o.lang}">${jr(o)}</span> <span class="tt-sub">${esc(l.kind === "false" ? "false friend" : l.en)}</span></div>`;
         }).join("")}`;
     }
     tooltip.innerHTML = html;
@@ -657,13 +679,14 @@
   }
 
   const wordChip = (w) =>
-    `<button class="wchip ${w.lang}" data-ref="${w.lang}:${esc(w.key)}"><span lang="${w.lang}">${esc(w.label)}</span></button>`;
+    `<button class="wchip ${w.lang}" data-ref="${w.lang}:${esc(w.key)}"><span lang="${w.lang}">${jr(w)}</span></button>`;
 
   function wordDetail(w) {
     const isKo = w.lang === "ko";
     const otherSide = (l) => isKo ? l.ja : l.ko;
-    const trLinks = w.links.filter((l) => l.kind !== "false");
+    const trLinks = w.links.filter(isTranslation);
     const ffLinks = w.links.filter((l) => l.kind === "false");
+    const approxLinks = w.links.filter((l) => l.kind === "approx");
     const comp = w.tr;
     const m = comp ? mapping(comp) : null;
 
@@ -671,10 +694,10 @@
       `<span class="tag">${esc(ORIGINS[w.lang][w.origin] || "")}</span>`];
     if (m) tags.push(`<span class="tag map-${m.cls}">${esc(m.short)} ${esc(m.long)}</span>`);
     if (ffLinks.length) tags.push(`<span class="tag ff">⚠ Has a false friend</span>`);
+    if (w.noEquiv) tags.push(`<span class="tag none">∅ No exact equivalent</span>`);
 
     const hero = `<div class="d-lang hero ${w.lang}">
-        <div class="big" lang="${w.lang}">${esc(w.label)}</div>
-        ${!isKo && w.kana !== w.text ? `<div class="kana" lang="ja">${esc(w.kana)}</div>` : ""}
+        <div class="big" lang="${w.lang}">${jr(w)}</div>
         <div class="rom">${esc(w.rom)}</div>
         ${isKo && w.hanja ? `<div class="hanja-line">Hanja: <span lang="ko">${esc(w.hanja)}</span></div>` : ""}
         ${speakBtn(sayText(w), sayLang(w))}
@@ -686,8 +709,8 @@
       return `<div class="tr-row" style="--kc:${KINDS[l.kind].color}">
           <button class="tr-word" data-ref="${o.lang}:${esc(o.key)}">
             <span class="tr-arrow">${arrowFor(l)}</span>
-            <span class="tr-main" lang="${o.lang}">${esc(o.label)}</span>
-            <span class="tr-read" lang="${o.lang}">${esc(o.lang === "ja" && o.kana !== o.text ? o.kana + " · " : "")}${esc(o.rom)}</span>
+            <span class="tr-main" lang="${o.lang}">${jr(o)}</span>
+            <span class="tr-read">${esc(o.rom)}</span>
           </button>
           ${speakBtn(sayText(o), sayLang(o))}
           <div class="tr-meta"><span class="tr-gloss">${esc(l.en)}</span><span class="tr-kind">${esc(KINDS[l.kind].label)}</span></div>
@@ -705,7 +728,7 @@
           trLinks.map((l) => `${lw(otherSide(l))} (${esc(l.en)})`).join(", ") + ".");
       }
       for (const o of mine) {
-        const sharers = o.links.filter((l) => l.kind !== "false" && (isKo ? l.ko : l.ja) !== w);
+        const sharers = o.links.filter((l) => isTranslation(l) && (isKo ? l.ko : l.ja) !== w);
         if (sharers.length) {
           bits.push(`${lw(o)} also translates ` +
             sharers.map((l) => `${lw(isKo ? l.ko : l.ja)} (${esc(l.en)})`).join(", ") + ".");
@@ -720,6 +743,12 @@
         <div><span class="who">In Japanese</span><span>${esc(l.falseFriend.ja)}</span></div>
       </div>`).join("");
 
+    const noEq = w.noEquiv
+      ? `<div class="none-box"><div class="none-head">∅ No ${isKo ? "Japanese" : "Korean"} word for “${esc(w.noEquiv.en)}”</div>
+          ${approxLinks.length ? `<div class="none-closest">Closest: ${approxLinks.map((l) => `${wordChip(otherSide(l))} <span class="muted">${esc(l.en)}</span>`).join(" · ")}</div>` : ""}</div>`
+      : approxLinks.length
+        ? `<div class="none-box"><div class="none-head">≈ Closest ${isKo ? "Korean" : "Japanese"} match for an untranslatable word:</div>${approxLinks.map((l) => wordChip(otherSide(l))).join(" ")}</div>`
+        : "";
     const aligns = w.links.filter((l) => l.entry).map((l) => alignment(l.entry)).join("");
     const notes = uniq(w.links.map((l) => l.note).filter(Boolean)).map((n) => `<div class="d-note">${esc(n)}</div>`).join("");
 
@@ -733,10 +762,12 @@
       ${hero}
       ${trLinks.length ? `<div class="d-section">${isKo ? "In Japanese" : "In Korean"}</div><div class="tr-list">${rows}</div>` : ""}
       ${explain}
+      ${noEq}
       ${ff}
       ${aligns ? `<div class="d-section">Character by character</div>${aligns}` : ""}
       ${notes}
-      ${related.length ? `<div class="d-section">${isKo ? "Korean" : "Japanese"} words sharing a character</div><div class="related">${related.map(wordChip).join("")}</div>` : ""}`;
+      ${related.length ? `<div class="d-section">${isKo ? "Korean" : "Japanese"} words sharing a character</div><div class="related">${related.map(wordChip).join("")}</div>` : ""}
+      <p class="d-dict"><a href="#d=${isKo ? "k" : "j"}:${encodeURIComponent(w.text)}" data-open-dict="1">Look up ${esc(w.text)} in the full dictionary →</a></p>`;
   }
 
   function alignment(e) {
@@ -787,6 +818,14 @@
   }
 
   detailBody.addEventListener("click", (ev) => {
+    const dict = ev.target.closest("[data-open-dict]");
+    if (dict) {
+      ev.preventDefault();
+      history.replaceState(null, "", dict.getAttribute("href"));
+      setView("dictionary");
+      window.DictionaryPage?.fromHash();
+      return;
+    }
     const say = ev.target.closest("[data-say]");
     if (say) return speak(say.dataset.say, say.dataset.lang);
     const r = ev.target.closest("[data-ref]");
@@ -844,7 +883,7 @@
       const targets = uniq(w.links.map((l) => (w.lang === "ko" ? l.ja : l.ko).label));
       return `<li role="option" data-i="${i}" aria-selected="${i === activeResult}">
         <span class="sr-lang ${w.lang}">${w.lang === "ko" ? "KO" : "JA"}</span>
-        <span class="sr-main" lang="${w.lang}">${esc(w.label)}</span>
+        <span class="sr-main" lang="${w.lang}">${jr(w)}</span>
         <span class="sr-sub">${w.lang === "ko" ? "→" : "←"} <span lang="${w.lang === "ko" ? "ja" : "ko"}">${esc(targets.join(", "))}</span> · ${esc(truncate(w.links[0].en || "false friend", 26))}</span></li>`;
     }).join("");
   }
@@ -855,7 +894,7 @@
     resultsEl.hidden = true;
     searchInput.blur();
     if (r.type === "char" && state.view !== "network") setView("network");
-    else if (state.view === "sounds") setView("mapping");
+    else if (state.view === "dictionary") setView("mapping");
     select({ type: r.type, id: r.id });
   }
 
@@ -910,15 +949,16 @@
       return `<section class="list-group">
         <h3><span class="dot" style="background:${cat.color}"></span>${esc(cat.label)}</h3>
         <div class="cards">${group.map((l) => {
-          const m = l.kind === "false" ? null : mapping(l.tr);
+          const m = isTranslation(l) ? mapping(l.tr) : null;
           const sel = selId === "k:" + l.ko.key || selId === "j:" + l.ja.key;
-          const arrow = l.kind === "false" ? "≠" : m.cls === "ok" ? "↔" : state.dir === "ko2ja" ? "→" : "←";
-          return `<button class="card${sel ? " selected" : ""}" data-ref="ko:${esc(l.ko.key)}" style="--kc:${KINDS[l.kind].color}">
+          const arrow = { false: "≠", approx: "≈", none: "→" }[l.kind] || (m.cls === "ok" ? "↔" : state.dir === "ko2ja" ? "→" : "←");
+          const ref = l.ko.pseudo ? `ja:${esc(l.ja.key)}` : `ko:${esc(l.ko.key)}`;
+          return `<button class="card${sel ? " selected" : ""}" data-ref="${ref}" style="--kc:${KINDS[l.kind].color}">
             <span class="c-pair"><span class="c-ko" lang="ko">${esc(l.ko.label)}</span>
               <span class="c-arrow">${arrow}</span>
-              <span class="c-ja" lang="ja">${esc(l.ja.label)}</span></span>
-            <span class="c-read">${esc(l.ko.rom)} · ${l.ja.kana !== l.ja.text ? `<span lang="ja">${esc(l.ja.kana)}</span> ` : ""}${esc(l.ja.rom)}</span>
-            <span class="c-en">${esc(l.kind === "false" ? `KO: ${l.falseFriend.ko} · JA: ${l.falseFriend.ja}` : l.en)}</span>
+              <span class="c-ja" lang="ja">${jr(l.ja)}</span></span>
+            <span class="c-read">${esc(l.ko.pseudo ? "" : l.ko.rom)} · ${esc(l.ja.pseudo ? "" : l.ja.rom)}</span>
+            <span class="c-en">${esc(l.kind === "false" ? `KO: ${l.falseFriend.ko} · JA: ${l.falseFriend.ja}` : l.kind === "approx" ? `closest match: ${l.en}` : l.en)}</span>
             <span class="c-tags"><span class="c-kind">${esc(KINDS[l.kind].label)}</span>${m && m.cls !== "ok" ? `<span class="c-map map-${m.cls}">${esc(m.short)}</span>` : ""}</span>
           </button>`;
         }).join("")}</div></section>`;
@@ -926,7 +966,7 @@
   }
   $("#word-list").addEventListener("click", (ev) => {
     const card = ev.target.closest("[data-ref]");
-    if (card) select({ type: "ko", id: card.dataset.ref.slice(3) }, { focus: false });
+    if (card) select({ type: card.dataset.ref.slice(0, 2), id: card.dataset.ref.slice(3) }, { focus: false });
   });
 
   // ── Sound patterns view ───────────────────────────────────────────
@@ -951,6 +991,7 @@
   };
 
   function renderSounds() {
+    if (!$("#sound-groups")) return;
     const vis = new Set(visibleLinks());
     const list = [...chars.values()].filter((c) => c.koList.length && c.entries.some((e) => vis.has(e.link)));
     const groups = FINALS.map((f) => ({ ...f, chars: [] }));
@@ -970,7 +1011,7 @@
           </button>`).join("")}</div>
       </article>`).join("");
   }
-  $("#sound-groups").addEventListener("click", (ev) => {
+  $("#sound-groups")?.addEventListener("click", (ev) => {
     const chip = ev.target.closest("[data-char]");
     if (!chip) return;
     setView("network");
@@ -980,6 +1021,8 @@
   // ── Views, hash, refresh ──────────────────────────────────────────
   function setView(view) {
     state.view = view;
+    document.body.dataset.active = view;
+    if (view === "dictionary") window.DictionaryPage?.start();
     document.querySelectorAll(".tab").forEach((t) => t.setAttribute("aria-selected", t.dataset.view === view));
     document.querySelectorAll(".view").forEach((v) => v.classList.toggle("active", v.id === "view-" + view));
     if (view === "mapping") renderMapping();
@@ -990,6 +1033,7 @@
       if (state.selected) focusNode(nodeId(state.selected));
     });
     if (view === "mapping" && state.selected) requestAnimationFrame(() => scrollMappingTo(state.selected));
+    if (view === "dictionary") requestAnimationFrame(() => window.DictionaryPage?.fit());
   }
   document.querySelectorAll(".tab").forEach((t) => t.addEventListener("click", () => setView(t.dataset.view)));
 
@@ -998,6 +1042,7 @@
     history.replaceState(null, "", r ? `#${r.type}=${encodeURIComponent(r.id)}` : location.pathname + location.search);
   }
   function readHash() {
+    if (location.hash.startsWith("#d=")) { setView("dictionary"); return null; }
     const m = location.hash.match(/^#(ko|ja|char)=(.+)$/);
     if (!m) return null;
     const ref = { type: m[1], id: decodeURIComponent(m[2]) };
@@ -1006,8 +1051,8 @@
 
   function renderStats() {
     const vis = visibleLinks();
-    const ko = new Set(vis.map((l) => l.ko)), ja = new Set(vis.map((l) => l.ja));
-    const comps = new Set(vis.filter((l) => l.kind !== "false").map((l) => l.tr));
+    const ko = new Set(vis.map((l) => l.ko).filter((w) => !w.pseudo)), ja = new Set(vis.map((l) => l.ja).filter((w) => !w.pseudo));
+    const comps = new Set(vis.filter(isTranslation).map((l) => l.tr));
     const broken = [...comps].filter((c) => c.type !== "1:1").length;
     $("#stats").innerHTML = `Showing <strong>${ko.size}</strong> Korean and <strong>${ja.size}</strong> Japanese words
       with <strong>${vis.length}</strong> connections. <strong>${broken}</strong> of ${comps.size} mappings are not one-to-one.`;
@@ -1042,7 +1087,8 @@
   updateGraph({ initial: true });
   lastWidth = mappingHost.clientWidth;
   renderMapping();
+  setView(state.view);
   const fromHash = readHash();
-  if (fromHash) select(fromHash);
+  if (fromHash) { if (state.view === "dictionary") setView("mapping"); select(fromHash); }
   window.addEventListener("hashchange", () => { const r = readHash(); if (r) select(r); });
 })();

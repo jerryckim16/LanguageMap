@@ -1,0 +1,3207 @@
+e	go	go	11 meanings
+j	ご	go	「御」のかな表記。
+j	ごう	go	
+j	ゴー	go	go!
+j	互	go	mutual
+j	伍	go	the number five, 5 (used …
+j	号	go	number
+j	合	go	covered containers
+j	呉	go	Japanese reading of the C…
+j	壕	go	moat, trench
+j	毫	go	ほんのわずか。すこし。
+j	濠	go	moat, trench
+j	碁	go	go (board game)
+j	語	go	a word, term
+j	豪	go	a male given name
+k	고	go	the late, deceased (befor…
+e	-gon	gon	1 meaning
+e	65537-gon	gon	1 meaning
+e	goa	goa	1 meaning
+e	god	god	5 meanings
+e	goo	goo	1 meaning
+e	goy	goy	1 meaning
+j	ごうい	goi	合意: agreement
+j	ごん	gon	銀: silver
+j	ゴア	goa	Goa (a state in western I…
+j	ゴイ	goi	
+j	五噫	goi	世間に受け入れられないことを嘆くこと。
+j	傲易	goi	侮ること。
+j	号位	goi	名号。
+j	号衣	goi	武家で使用人に着用させた家紋のはいった丈の短い衣服…
+j	合囲	goi	取り囲むこと。包囲。
+j	合意	goi	agreement
+j	御恩	gon	他人からの恩に対する丁寧語。
+j	牛黄	gou	dried cattle gallstones u…
+j	艮	gon	the seventh of the eight …
+j	語彙	goi	vocabulary
+j	語意	goi	言葉の意味。
+j	豪伊	goi	オーストラリアとイタリア。
+j	豪雨	gou	downpour, heavy rain
+j	遨怡	goi	遊び、楽しむこと。
+k	고아	goa	orphan
+k	고이	goi	
+k	곡	gok	valley
+k	곤	gon	swan
+k	곧	got	soon, at once, immediatel…
+k	골	gol	gorge; gully; valley; all…
+k	곬	gol	waterway, watercourse
+k	곰	gom	bear (animal)
+k	곱	gop	product (result of multip…
+k	곳	got	place
+k	곶	got	cape; headland
+k	괴	goe	cat
+e	go by	goby	1 meaning
+e	go up	goup	2 meanings
+e	goal	goal	5 meanings
+e	goat	goat	1 meaning
+e	gobi	gobi	1 meaning
+e	goby	goby	1 meaning
+e	goiás	gois	2 meanings
+e	gold	gold	7 meanings
+e	golf	golf	1 meaning
+e	gong	gong	1 meaning
+e	good	good	8 meanings
+e	gook	gook	2 meanings
+e	gore	gore	1 meaning
+e	goth	goth	3 meanings
+e	gout	gout	1 meaning
+j	ごうん	goun	五蘊: the five skandhas
+j	ごおん	goon	呉音: One category of on'yo…
+j	ごく	goku	極めて。この上なく。非常に。至極。
+j	ごけ	goke	後家: widow
+j	ごご	gogo	
+j	ごじ	goji	
+j	ごじゅう	goju	
+j	ごぜ	goze	つづみや三味線を演奏し、歌を歌いながら門付けをした…
+j	ごと	goto	every
+j	ごぼう	gobo	
+j	ごみ	gomi	不必要になった物、用が済んだ物
+j	ごろ	goro	「ごろつき」の略。
+j	ごろう	goro	吾郎, 五郎, 吾朗, 悟郎: a male gi…
+j	ゴク	goku	
+j	ゴス	gosu	
+j	ゴビ	gobi	
+j	ゴボウ	gobo	
+j	ゴミ	gomi	trash, rubbish, garbage
+j	ゴム	gomu	rubber (pliable material …
+j	ゴロ	goro	地面を転がったり低く弾んでいくボール。匍球。
+j	ゴーダ	goda	
+j	ゴーファー	gofa	ホリネズミ。
+j	ゴーヤ	goya	
+j	ゴーヤー	goya	bitter melon (Momordica c…
+j	ゴール	goru	a goal (area)
+j	互助	gojo	mutual assistance
+j	互層	goso	異なるいくつかの地層が交互に重なりあっていること。
+j	互用	goyo	交互に使用、利用すること。
+j	互譲	gojo	a conciliation; a comprom…
+j	五事	goji	礼節における五つの重要な事項。貌、言、視、聴、思。
+j	五儀	gogi	公爵、侯爵、伯爵、子爵、男爵の五つの爵位。
+j	五加	goka	synonym of 五加木 (ugoki, “f…
+j	五労	goro	過度に行うと体を疲労させるもの。視、臥、坐、立、行。
+j	五十	goju	fifty, 50
+j	五古	goko	「五言古詩」の略。
+j	五味	gomi	the five tastes
+j	五器	goki	仏前に供える五つの仏具。一対の花瓶、一対の燭台、香…
+j	五土	godo	地形の五つの種類。山林・川沢・丘陵・墳衍・原隰。五…
+j	五女	gojo	姉妹のうち、五番目に生まれた女。
+j	五島	goto	five islands
+j	五常	gojo	the five cardinal Confuci…
+j	五度	godo	五回。
+j	五情	gojo	the five passions: (anger…
+j	五方	goho	五つの方角。中央と四方（東西南北）。
+j	五時	goji	five o'clock
+j	五更	goko	the five watches of the n…
+j	五期	goki	五つの期間。
+j	五条	gojo	条坊で東西に通じる大路の一つ。
+j	五條	gojo	Gojō (a city in Nara Pref…
+j	五気	goki	東西南北と中央の五つの方角の気。
+j	五港	goko	幕末の日米和親条約・日米修好通商条約によって開かれ…
+j	五湖	goko	代表的な五つの湖。
+j	五畿	goki	日本でかつての山城国、大和国、河内国、和泉国、摂津…
+j	五稼	goka	五穀のこと。
+j	五等	goto	等級、順位の五番目。
+j	五絝	goko	五着の袴。
+j	五義	gogi	人がまもるべき五つの道。父親は義、母親は慈、兄は友…
+j	五胡	goko	中国の後漢から晋にかけて北方から侵入し、独立した五…
+j	五臓	gozo	the five zang (classes of…
+j	五苦	goku	人生における五つの苦。
+j	五蘊	goun	色 (shiki, “form”)
+j	五道	godo	六道から修羅を除いた五つの世界。地獄・餓鬼・畜生・…
+j	五郎	goro	a male given name
+j	五鈷	goko	A five-pronged vajra
+j	五高	goko	新制の 「第五高等学校」の略。
+j	剛勇	goyu	強く、勇ましいこと。また、そのようなさま。豪勇。
+j	剛卯	gobo	中国漢代、官吏が邪気を払うため、四字押韻の呪を刻ん…
+j	剛基	goki	a male given name
+j	剛太	gota	a male given name
+j	剛情	gojo	自分の考えを無理に押し通そうとするさま。強情。
+j	剛毛	gomo	stiff hair; thick hair
+j	剛気	goki	「豪気」の異綴。
+j	剛猛	gomo	強く猛々しいさま。
+j	剛穎	goei	強く優れていること。また、そのようなさま。
+j	剛鋭	goei	強く、鋭いさま。
+j	劫火	goka	fire that destroys the wo…
+j	劫盗	goto	robbery
+j	午下	goka	午後。昼過ぎ。
+j	午后	gogo	「午後」の別表記。
+j	午夜	goya	midnight
+j	午後	gogo	afternoon, PM
+j	午時	goji	the hour of the Horse, 11…
+j	午漏	goro	昼時。
+j	号俸	goho	a salary system (especial…
+j	号旗	goki	船舶などが用いる合図の旗。
+j	号火	goka	合図の火。狼煙。
+j	号砲	goho	signal gun
+j	号音	goon	合図や信号の音。
+j	合区	goku	二つ以上に分かれている区を合わせること。
+j	合同	godo	union, combination
+j	合否	gohi	試験などの合格または不合格。
+j	合器	goki	蓋がついている椀。
+j	合字	goji	a typographic ligature
+j	合抱	goho	両手を広げて抱えること。また、そのくらいの大きさ。…
+j	合期	gogo	favorable progress
+j	合法	goho	legal, lawful
+j	合理	gori	rationality, being ration…
+j	合田	goda	a surname
+j	合皮	gohi	「合成皮革」の略。
+j	合目	gome	tenths of the distance fr…
+j	合穎	goei	一本の茎に二本の穂があること。
+j	合肥	gohi	Hefei (a prefecture-level…
+j	合装	goso	複数のものを一つにまとめて梱包すること。
+j	合議	gogi	a consultation; a confere…
+j	吽呀	goga	犬が争い、吠え立てること。その声。
+j	吽牙	goga	吽呀の異表記。
+j	吾曹	goso	we, us
+j	吾朗	goro	a male given name
+j	吾郎	goro	a male given name
+j	呉器	goki	抹茶をたてる茶碗の一つ。
+j	呉語	gogo	Wu (one of the families o…
+j	呉音	goon	The pronunciation of Chin…
+j	嗷儀	gogi	大勢の人の力を頼んで、無理なことを言い立てること。
+j	嗷訴	goso	為政者などに対し大人数で押し掛け強引に訴えること。
+j	嗷議	gogi	大勢の人の力を頼んで無理なことを言い立てること。
+j	囂々	gogo	clamorous
+j	囂譁	goka	囂しいさま。
+j	圄空	goku	罪人が居らず、牢獄が空になること。転じて、太平の世。
+j	寤寐	gobi	覚醒していることと睡眠していること。寝ても覚めても。
+j	強引	goin	coercive, forceful, pushy…
+j	強情	gojo	stubborn
+j	強淫	goin	rape
+j	強盗	goto	robbery (theft by force)
+j	強訴	goso	為政者などに対し多人数で押し掛け強引に訴えること。
+j	後住	goju	後任の住職。
+j	後光	goko	aureole (circle of light …
+j	後場	goba	金融商品取引所で、午後の取引時間のこと。取引時間が…
+j	後夫	gofu	夫と死別または離別後に連れ添う配偶者。
+j	後宴	goen	祭礼の翌日、潔斎を解いた後の宴。
+j	後家	goke	widow
+j	後度	godo	後。後日。
+j	後手	gote	not having the initiative…
+j	後藤	goto	a surname
+j	後途	godo	後。後日。
+j	後院	goin	天皇が在任中に譲位後の居所として予定した御所（離宮…
+j	御供	goku	供物。おそなえ。
+j	御器	goki	食べ物を盛り付けるための蓋がついた椀。
+j	御坊	gobo	寺院の敬称
+j	御幸	goko	（ごこう）上皇、女院の外出。
+j	御座	goza	throne
+j	御房	gobo	寺院の敬称
+j	御用	goyo	job, business for to do f…
+j	御老	goro	an old person
+j	御諚	gojo	貴人のお言葉。
+j	悟空	goku	空を悟ること。
+j	悟道	godo	仏教の真理を悟ること。
+j	拷器	goki	instruments of torture
+j	拷訴	goso	罪人を乱暴に責めること。
+j	格間	goma	格天井で格子で囲まれた一区画。
+j	梧桐	goto	synonym of 青桐 (aogiri, “C…
+j	梧葉	goyo	「あおぎり」の葉。
+j	業因	goin	未来に苦楽の果報を招く因となる現在の善悪の行為。
+j	業報	goho	karma effects
+j	業果	goka	karma, specifically the e…
+j	業火	goka	hellfire
+j	業苦	goku	前世で行った悪業の報いにより現世で受ける苦しみ。
+j	業道	godo	十善。十悪。
+j	業魔	goma	悪業が悪魔のように正道を妨害し、知恵を失わせること。
+j	極	goku	very, extremely
+j	毫も	gomo	(not) in the least
+j	毫毛	gomo	細い毛。
+j	毫眉	gobi	老人の眉。
+j	牛蒡	gobo	burdock (Arctium lappa)
+j	牛頭	gozu	Ox-Head, one of the two g…
+j	獄	goku	prison
+j	瞽女	goze	a blind woman
+j	碁笥	goke	a bowl or other container…
+j	聱牙	goga	文字・言葉などが難解なこと。また、そのさま。
+j	胡麻	goma	sesame (Sesamum indicum),…
+j	語句	goku	words and phrases
+j	語呂	goro	the ring/sound/feel of an…
+j	語基	goki	ある接辞の相手となる語または形態素。「お昼ご飯」の…
+j	語尾	gobi	end of a spoken phrase
+j	語序	gojo	文の中で配列している語の順序や位置。語順。
+j	語数	gosu	主に欧文で、文章中にある単語の数。
+j	語次	goji	言葉のつづき。
+j	語気	goki	tone, mode of verbal expr…
+j	語法	goho	grammar; syntax
+j	語派	goha	branch/group of languages
+j	語用	goyo	それぞれの単語の用法。
+j	語素	goso	単語を分解際に意味を持つ最小の要素。
+j	語義	gogi	sense, meaning of words; …
+j	語路	goro	言葉を発音した時の調子や続き具合。語呂。
+j	誤乗	gojo	boarding the wrong vehicl…
+j	誤嚥	goen	accidental swallowing (es…
+j	誤報	goho	misinformation
+j	誤字	goji	a typo
+j	誤導	godo	違った道へ人を案内すること。
+j	誤差	gosa	error (difference between…
+j	誤想	goso	考え違いをすること。
+j	誤用	goyo	misuse
+j	誤答	goto	answering wrong
+j	誤記	goki	error in writing
+j	誤飲	goin	accidental ingestion
+j	誵訛	goka	勝手気儘な偽り。
+j	護法	goho	defense of Buddhist doctr…
+j	護符	gofu	charm, amulet, talisman
+j	護衛	goei	a guard, an escort
+j	護送	goso	escort, convoy
+j	豪儀	gogi	強情。頑固。
+j	豪勇	goyu	強く、勇ましいこと。また、そのようなさま。剛勇。
+j	豪宕	goto	uninhibited; bold and unc…
+j	豪家	goka	多くの財産と大きな勢力を有する家。
+j	豪富	gofu	多大な富を持っていること。また、その人。
+j	豪希	goki	a male given name
+j	豪打	goda	豪快な打撃。
+j	豪放	goho	bold and unconstrained
+j	豪気	goki	強くて勇ましい気性。
+j	豪猛	gomo	強く猛々しいさま。
+j	豪眉	gobi	長い眉毛。
+j	豪英	goei	才知の優れた人達。
+j	豪華	goka	splendid, luxurious, gorg…
+j	豪語	gogo	bold statement
+j	豪貴	goki	豪勢で身分や家柄が高貴であること。また、そのような…
+j	豪農	gono	多くの土地や財産、勢力を持つ農家。
+j	豪遊	goyu	luxurious travel
+j	豪運	goun	incredible luck, superior…
+j	豪鋭	goei	強く、鋭いさま。
+j	豪飲	goin	大量の酒を飲むこと。鯨飲。
+j	轟々	gogo	rumblingly noisy
+j	轟音	goon	a loud rumbling or boomin…
+j	降魔	goma	仏道修行を妨害する悪魔を降伏させること。
+j	鼇頭	goto	head of the legendary sea…
+k	고가	goga	high price
+k	고고	gogo	유적이나 유물에 있는 과거의 문화나 생활양식을…
+k	고기	gogi	meat; flesh
+k	고니	goni	The tundra swan, Cygnus c…
+k	고다	goda	gouda (semi-hard Dutch ch…
+k	고도	godo	height, altitude
+k	고두	godu	a kowtow
+k	고로	goro	의지할 데가 없는 외로운 늙은이.
+k	고루	goru	equally
+k	고리	gori	ring; loop
+k	고마	goma	
+k	고모	gomo	paternal aunt (one's fath…
+k	고무	gomu	rubber (material)
+k	고미	gomi	
+k	고바	goba	잔멸치.
+k	고베	gobe	
+k	고부	gobu	
+k	고비	gobi	crisis, critical moment
+k	고사	gosa	examination, test
+k	고소	goso	accusation; complaint
+k	고수	gosu	coriander/cilantro
+k	고시	gosi	exam; test
+k	고압	goap	
+k	고애	goae	cat
+k	고어	goeo	archaism
+k	고옥	gook	
+k	고온	goon	high temperature, high he…
+k	고요	goyo	calm, tranquility
+k	고운	goun	'곱다'의 관형사형.
+k	고움	goum	'곱다'의 명사형.
+k	고위	gowi	high rank
+k	고유	goyu	characteristics, essence,…
+k	고의	goui	intention; purpose
+k	고인	goin	the dead, the deceased
+k	고자	goja	eunuch; a man with no or …
+k	고조	gojo	high tide
+k	고지	goji	plateau, highlands
+k	고테	gote	인두, 흙손,
+k	고토	goto	
+k	고투	gotu	a bitter struggle / fight
+k	고후	gohu	
+k	곡우	gogu	
+k	곤이	goni	synonym of 고니 (goni) (swa…
+k	공	gong	ball
+e	go bad	gobad	1 meaning
+e	go out	goout	3 meanings
+e	gofer	gofer	1 meaning
+e	gogol	gogol	1 meaning
+e	golem	golem	1 meaning
+e	gomel	gomel	1 meaning
+e	gonad	gonad	1 meaning
+e	goods	goods	1 meaning
+e	goofy	goofy	2 meanings
+e	goose	goose	2 meanings
+e	goral	goral	1 meaning
+e	gorge	gorge	3 meanings
+e	goris	goris	1 meaning
+e	gouda	gouda	1 meaning
+e	gouge	gouge	2 meanings
+e	gourd	gourd	4 meanings
+j	ごいそ	goiso	語彙素: lexeme
+j	ごうもん	gomon	拷問: torture
+j	ごかい	gokai	ゴカイ科に属する動物の総称。
+j	ごかん	gokan	五官: the five sense organs
+j	ごぎゅう	gogyu	呉牛: water buffalo
+j	ごくん	gokun	ものを飲み込んだ時ののどがなる音を表す語。
+j	ごげん	gogen	
+j	ござい	gozai	「ございます」の略。
+j	ごし	goshi	場所や物体を表す言葉に付き、動作主と対象の間にそれ…
+j	ごせん	gosen	
+j	ごぜん	gozen	
+j	ごだい	godai	五大: a male given name
+j	ごち	gochi	
+j	ごちゃ	gocha	
+j	ごっこ	gokko	alternately, doing the sa…
+j	ごにゅう	gonyu	悟入: entering a stage of e…
+j	ごめん	gomen	
+j	ごりん	gorin	五輪: Olympic Rings; Olympi…
+j	ごるぁ	gorua	おい。なあ。
+j	ごんぐ	gongu	欣求: an earnest desire or …
+j	ごんげ	gonge	権化: incarnation, avatar
+j	ごんぼう	gonbo	「ごぼう」が変化した語。
+j	ご覧	goran	look; looking
+j	ご飯	gohan	
+j	ゴッド	goddo	God
+j	ゴホン	gohon	
+j	ゴルァ	gorwa	Interjection of anger: oi!
+j	ゴング	gongu	a gong
+j	ゴンフー	gonfu	
+j	ゴードン	godon	a transliteration of the …
+j	互市	goshi	外国と互いに物品の取引をすること。貿易。交易。
+j	互恵	gokei	特別な恩恵や便益をお互いに受け合うこと。
+j	互換	gokan	interchangeability, compa…
+j	互生	gosei	植物の茎や枝の節ごとに一枚の葉が交互にに出ること。
+j	互訓	gokun	二つの文字が互いにその訓となること。
+j	五人	gonin	five persons; five people
+j	五代	godai	五つの時代や世代。また、五つ目の時代や世代。
+j	五体	gotai	the five parts of a body …
+j	五倫	gorin	five cardinal relationshi…
+j	五内	godai	「五臓」のこと。
+j	五分	gofun	（ごふん）1分の五倍。
+j	五千	gosen	
+j	五地	gochi	地形の五つの種類。山林・川沢・丘陵・墳衍・原隰。五…
+j	五塵	gojin	煩悩を起こさせ、人の心を汚す五つのもの。色、声、香…
+j	五境	gokyo	眼、耳、鼻、舌、身の機能の対象。
+j	五大	godai	the five elements: earth,…
+j	五宗	goshu	（ごしゅう）五つの宗派。
+j	五官	gokan	the five sense organs.
+j	五山	gozan	Five Mountain System
+j	五州	goshu	五大陸。五大州。
+j	五帝	gotei	古代中国における五人の聖君。通常は『史記・五帝本紀…
+j	五帯	gotai	地球上の五つの気候帯。熱帯と南北にある温帯と寒帯。
+j	五年	gonen	一年の五倍。五カ年。
+j	五弦	gogen	五本の弦。
+j	五彩	gosai	五色。
+j	五悔	gokai	（ごかい）真言宗における金剛界の五つの懺悔の礼法。…
+j	五悪	goaku	the Five Evils
+j	五感	gokan	the five senses
+j	五戒	gokai	the Five Precepts
+j	五才	gosai	五行説における木、火、土、金、水。
+j	五指	goshi	the five fingers; fingers
+j	五教	gokyo	儒家における守るべき五つの教え。君臣の義、父子の親…
+j	五智	gochi	大日如来が備える五つの智慧。
+j	五歳	gosai	生後5年目又は5年を経過した年齢の称。
+j	五段	godan	階段などの上からまたは下から五つ目の段。
+j	五洲	goshu	「五州」の別表記。
+j	五流	goryu	四流よりも劣ること。地位、能力、品質などの程度が極…
+j	五男	gonan	兄弟のうち、五番目に生まれた男。
+j	五眼	gogen	五種類の認識のはたらき。肉眼、天眼、慧眼、法眼、仏…
+j	五礼	gorei	吉（=祭祀）、凶（=喪葬）、賓（=賓客）、軍（=軍…
+j	五禽	gokin	虎、鹿、熊、猨、鳥の総称。五禽戯。
+j	五種	goshu	五つの種類（のもの）。
+j	五竜	goryu	「五龍」の別表記。
+j	五章	gosho	五番目の章。
+j	五絃	gogen	五本の弦。
+j	五経	gokyo	the Five Classics of Chin…
+j	五線	gosen	a stave, a five-line staff
+j	五縗	gosai	三月、五月、九月、期年、三年の喪。
+j	五罪	gozai	律令制による五つの刑罰。五刑。
+j	五者	gosha	五人の者。
+j	五臭	goshu	五種類の匂い。羶、腥、香、焦、朽。
+j	五葷	gokun	"five pungent roots" (fiv…
+j	五虫	gochu	羽虫、毛虫、甲虫、鱗虫、裸虫の五種類の虫。
+j	五衆	goshu	仏教の出家した五つの種類。比丘、比丘尼、式叉摩那、…
+j	五行	gogyo	Go Gyo: Foundational tech…
+j	五衛府	goefu	the Five Guards under the…
+j	五衰	gosui	涅槃教では天人が死ぬ前に現れる五つの相。衣裳垢穢、…
+j	五趣	goshu	衆生がその業因によりおもむく五つの場所。天上、人間…
+j	五車	gosha	五台の車。
+j	五輪	gorin	the five elements as a wh…
+j	五金	gokin	金、銀、銅、鉄、錫の総称。
+j	五門	gomon	摂政、関白に任じられる藤原氏の五つの家柄。五摂家。
+j	五類	gorui	
+j	五鼎	gotei	古代中国で大夫の祭礼の際に五つの鼎にそれぞれ牛、羊…
+j	五龍	goryu	古代中国で龍に乗ったと伝えられる皇伯、皇仲、皇叔、…
+j	伍伴	gohan	仲間。とも。伴侶。
+j	伍長	gocho	a corporal
+j	傲倨	gokyo	奢り高ぶること。また、そのようなさま。倨傲。
+j	傲倪	gogei	傲睨すること。
+j	傲岸	gogan	arrogance, haughtiness, p…
+j	傲很	gokon	人に傲り、道理に背く。傲悖。
+j	傲悖	gohai	人に傲り、道理に背く。傲很。
+j	傲慢	goman	arrogance
+j	傲然	gozen	傲り高ぶり、他人を見下げるさま。
+j	傲睨	gogei	物に動じずにじっと睨みつけること。
+j	兀	gotsu	bald (person); treeless (…
+j	冱寒	gokan	凍てつくほどの厳しい寒さ。
+j	剛体	gotai	rigid body
+j	剛健	goken	心身が逞しく、健やかなこと。また、そのようなさま。
+j	剛勁	gokei	強いさま。
+j	剛厳	gogen	厳しいこと。また、そのようなさま。
+j	剛堅	goken	堅固なこと。また、そのようなさま。
+j	剛忍	gonin	無慈悲。
+j	剛性	gosei	物体が捻れや曲げなどに対し、破壊や歪みに耐える性質。
+j	剛悍	gokan	強く荒々しいこと。また、そのようなさま。
+j	剛拳	goken	拳法の一つ。外家拳。
+j	剛球	gokyu	投手が投げる、球速が速くて球質の重い直球。
+j	剛胆	gotan	「豪胆」の別表記。
+j	剛腕	gowan	having amazing arm streng…
+j	劫塵	gojin	人の世界。
+j	劫災	gosai	壊劫の末期におこる火災、水災、風災の三種類の災害。
+j	勤求	gongu	勤めて仏の教えを求めること。
+j	午前	gozen	forenoon, AM
+j	午天	goten	正午。
+j	午睡	gosui	a nap in the afternoon, a…
+j	午飯	gohan	lunch
+j	午餉	gosho	ひるめし。昼食。
+j	午餐	gosan	lunch
+j	号名	gomei	名号。
+j	号外	gogai	extra (extra edition of a…
+j	号板	goban	船倉の板。
+j	号泣	gokyu	wailing, lamentation, cry…
+j	号車	gosha	列車のそれぞれの車両。
+j	号鐘	gosho	合図のために鳴らす鐘。
+j	号館	gokan	A suffix for numbered bui…
+j	合コン	gokon	A group blind date, at wh…
+j	合刃	gojin	斬り合うこと。
+j	合判	gohan	公文書に押印すること。連署すること。
+j	合剤	gozai	mixture
+j	合卺	gokin	結婚すること。婚礼。
+j	合名	gomei	共同して責任を負うため名前を書き連ねること。連名。
+j	合契	gokei	割符。
+j	合子	goshi	蓋が付いた小さな容器。
+j	合弁	goben	花弁がくっつくこと。くっついた花弁。
+j	合憲	goken	constitutionality
+j	合成	gosei	synthesis, composition
+j	合板	gohan	plywood
+j	合歓	gokan	delighting themselves tog…
+j	合流	goryu	confluence, merger
+j	合瓣	goben	合弁の旧字体表記。
+j	合計	gokei	sum, total
+j	合該	gogai	当たり前。当然。
+j	合辦	goben	複数の企業などが共同で事業を経営すること。
+j	合配	gohai	配偶。
+j	合醵	gokyo	割り勘。
+j	合金	gokin	an alloy (metal combined …
+j	合鈐	goken	割り印。
+j	吾人	gojin	I/me
+j	呉牛	gogyu	water buffalo
+j	嚙砕	gosai	嚙み砕くこと。
+j	囂塵	gojin	喧騒と塵埃。
+j	囂然	gozen	かまびすしいさま。喧しいさま。
+j	囂虚	gokyo	詭弁。
+j	強姦	gokan	rape
+j	強姦魔	gokan	平気で強姦ができる人間。
+j	強将	gosho	強い武将、大将。
+j	強弓	gokyu	引くのに強い力を必要とする弓。また、その弓を引く人。
+j	強酒	goshu	酒をたくさん飲むこと。
+j	強陣	gojin	強固な陣営であること。
+j	強飯	gohan	お椀に山盛りの御飯をむりやり食べさせようとする行事。
+j	後史	goshi	posthistory
+j	後巻	gokan	後ろの巻。
+j	後念	gonen	一刹那を前後に分けた後半の瞬間。
+j	後朝	gocho	翌朝。
+j	後漢	gokan	紀元25年から220年までの漢王朝の通称。
+j	後生	gosho	the afterlife
+j	後衝	gosho	A piece in Ko shogi, whic…
+j	御亭	gotei	相手の邸宅に対する尊敬語。
+j	御仁	gojin	「他人」の尊敬語。お方。現代ではときに諧謔的。
+j	御会	gokai	歌会などの敬語。
+j	御免	gomen	something one wants to ha…
+j	御宰	gosai	江戸時代、奥女中に使用された下男。
+j	御寮	goryo	貴人の子女に対する尊敬語。御料。御寮人。
+j	御幣	gohei	implement used in Shintō …
+j	御形	gogyo	cudweed (Gnaphalieae spp.)
+j	御念	gonen	相手が念を入れることの丁寧語。
+j	御感	gokan	天皇、貴人が感心されること。また、気に入ること。
+j	御所	gosho	imperial palace
+j	御料	goryo	天皇、貴人が所有したり、使用したりしている物に対す…
+j	御書	gosho	手紙や書物などの尊敬語。
+j	御殿	goten	residential palace buildi…
+j	御番	goban	人の当番、夜番の尊敬語。
+j	御紋	gomon	相手の紋章に対する尊敬語。
+j	御給	gokyu	朝廷から皇族、公卿などに年官、年爵を給すること。年…
+j	御膳	gozen	food and drink for the Em…
+j	御行	gogyo	クソニンジンの漢名。
+j	御覧	goran	「見ること」の尊敬語。
+j	御酒	goshu	「酒」の尊敬語。
+j	御采	gosai	ある人の命令や指図の敬語。
+j	御陵	goryo	天皇、皇后、皇太后、太皇太后を葬る墓所。
+j	御領	goryo	領地に対する尊敬語。
+j	御願	gogan	阿弥陀如来の衆生を救済しようという誓願。
+j	御飯	gohan	cooked rice
+j	御饌	gosen	〔ごせん〕御饌米。
+j	悟入	gonyu	entering a state of enlig…
+j	拷問	gomon	torture (in order to make…
+j	拷訊	gojin	拷問にかけて訊問すること。
+j	拷認	gonin	強制されて自白すること。
+j	敖倪	gogei	横目で見ること。
+j	梧岫	goshu	先帝の墓所。
+j	梧楸	goshu	梧桐と木豇豆。
+j	業人	gonin	前世の悪業により現世で苦難を受ける人。
+j	業塵	gojin	悪業。
+j	業病	gobyo	前世で犯した悪業の報いによって現世において罹るとさ…
+j	業障	gosho	悪業による正道の障害。
+j	極意	gokui	mystery; essence; heart
+j	権化	gonge	avatar (earthly manifesta…
+j	権太	gonta	ruffian, hoodlum
+j	毫銛	gosen	筆端。
+j	毫錐	gosui	尖った筆。
+j	江州	goshu	近江国の別称。
+j	江津	gotsu	Gōtsu (a city in Shimane …
+j	沙蚕	gokai	clam worms, sandworms, ra…
+j	濠洲	goshu	オーストラリア（濠太剌利）の略称。
+j	熬刑	gokei	拷問。
+j	熬煎	gosen	煎ること。
+j	牛面	gomen	（ごめん）牛の顔につける面。
+j	獄衣	gokui	prison clothes
+j	碁会	gokai	囲碁を打ち合う集まり。
+j	碁子	goshi	碁石。
+j	碁師	goshi	囲碁を教授する者。碁打ち。
+j	碁打ち	gochi	碁を打つこと。
+j	碁盤	goban	a go board
+j	碁聖	gosei	A Japanese go tournament,…
+j	胡粉	gofun	powdered calcium carbonat…
+j	艮部	gonbu	部首「⾉」で分類した漢字の一群。
+j	言上	gonjo	telling to a superior
+j	言句	gonku	短い言葉。
+j	語中	gochu	一単語の中間。
+j	語例	gorei	言葉を使用した例。
+j	語史	goshi	ある言葉の語義や用法、変化などが変遷してきた歴史。
+j	語幹	gokan	stem
+j	語弊	gohei	causing a misunderstanding
+j	語彙素	goiso	lexeme
+j	語形	gokei	単語の形。
+j	語志	goshi	「語誌」の異表記。
+j	語感	gokan	Sprachgefühl: a sense of …
+j	語根	gokon	root (of a word)
+j	語源	gogen	origin of a word or phras…
+j	語種	goshu	日本語の語彙をその出自によって分類したもの。和語、…
+j	語詞	goshi	言葉。言辞。言詞。
+j	語誌	goshi	ある言葉の語義や用法、変化などが変遷してきた歴史。…
+j	語調	gocho	tone of voice
+j	語順	gojun	the order in which words …
+j	語類	gorui	
+j	誤乱	goran	誤り、乱れること。
+j	誤伝	goden	間違って伝えること。その内容。
+j	誤傳	goden	
+j	誤写	gosha	間違えて書き写すこと。また、その書き写したもの。
+j	誤判	gohan	misjudgement; miscarriage…
+j	誤射	gosha	誤って人や物に対して発射すること。
+j	誤称	gosho	misnomer
+j	誤算	gosan	miscalculation
+j	誤見	goken	誤った見方、見解。
+j	誤解	gokai	misunderstanding
+j	誤認	gonin	mistaking (for something …
+j	誤謬	gobyu	fallacy, error
+j	誤電	goden	間違った内容の電報。
+j	護兵	gohei	A piece in Ko shogi
+j	護岸	gogan	protection of a coast (fo…
+j	護念	gonen	仏や菩薩が仏道修行者を心にとめて守護すること。
+j	護憲	goken	protection of the constit…
+j	豪中	gochu	オーストラリアと中国。
+j	豪人	gojin	勢力のある人。
+j	豪健	goken	勢いが強く、盛んなこと。また、そのようなさま。剛毅。
+j	豪勢	gosei	luxurious
+j	豪商	gosho	富を蓄えた大きな商家。
+j	豪奢	gosha	luxurious
+j	豪州	goshu	Australia (a country cons…
+j	豪帥	gosui	旗頭。
+j	豪彦	gogen	才知が普通の人より優れているさま。また、そのような…
+j	豪快	gokai	hearty, tremendous
+j	豪挙	gokyo	男伊達。
+j	豪擅	gosen	わがまま。
+j	豪洲	goshu	「豪州」の別表記。
+j	豪然	gozen	勇ましく力強いけどさま。
+j	豪球	gokyu	「剛球」の別表記。
+j	豪胆	gotan	度胸があり、ものに動じないこと。
+j	豪贍	gosen	裕福なこと。また、そのようなさま。
+j	豪軍	gogun	オーストラリアの軍、軍隊。
+j	豪邁	gomai	勇猛で人より優れていること。
+j	豪邸	gotei	palatial residence, state…
+j	豪酒	goshu	酒をたくさん飲むこと。
+j	越し	goshi	through, across (somethin…
+j	轟然	gozen	大きな音が轟き、響くさま。
+j	轟霆	gotei	雷霆。雷。
+j	郷士	goshi	江戸時代、農村で暮らし農業を営んだ武士。
+j	郷帳	gocho	江戸時代、幕府が国や郡ごとにそれに属する各村の名前…
+j	郷村	goson	村里。
+j	郷長	gocho	律令制において郡司のもとで一つの郷を司った地方官。
+j	驁蹇	goken	傲慢なこと。また、そのようなさま。
+j	鰲背	gohai	大きな亀の背中。
+j	鼇背	gohai	大きな亀の背中。
+k	고갈	gogal	depletion, exhaustion (of…
+k	고개	gogae	nape of the neck
+k	고골	gogol	
+k	고과	gogwa	
+k	고교	gogyo	high school
+k	고국	goguk	homeland
+k	고귀	gogwi	
+k	고나이	gonai	
+k	고난	gonan	hardship; suffering
+k	고냐	gonya	
+k	고뇌	gonoe	
+k	고니이	gonii	
+k	고답	godap	
+k	고대	godae	antiquity; ancient times
+k	고독	godok	loneliness
+k	고락	gorak	
+k	고랄	goral	
+k	고래	gorae	whale
+k	고렙	gorep	(주로 게임 속 캐릭터의) 레벨이 높음, 또는…
+k	고례	gorye	
+k	고료	goryo	원고를 쓰고 받는 돈.
+k	고립	gorip	isolation
+k	고마이	gomai	고등어의 함경도 사투리.
+k	고막	gomak	eardrum
+k	고만	goman	상태, 모양, 성질 따위의 정도가 고만한.
+k	고매	gomae	
+k	고멜	gomel	
+k	고목	gomok	
+k	고문	gomun	torture (intentional caus…
+k	고물	gomul	antiques, used item
+k	고뭄	gomum	'가뭄'을 의미하는 제주도 사투리.
+k	고민	gomin	agony, anguish, worry, tr…
+k	고바이	gobai	물매, 기울기, 오르막, 비탈.
+k	고발	gobal	accusation; charge
+k	고배	gobae	
+k	고분	gobun	고대의 옛 무덤.
+k	고뿌	goppu	cup
+k	고삐	goppi	rein, bridle
+k	고산	gosan	high mountain
+k	고살	gosal	manslaughter (voluntary)
+k	고서	goseo	
+k	고속	gosok	high speed
+k	고식	gosik	
+k	고신	gosin	
+k	고심	gosim	
+k	고아 주	goaju	
+k	고애이	goaei	
+k	고야이	goyai	
+k	고언	goeon	
+k	고욕	goyok	
+k	고웅	goung	
+k	고원	gowon	plateau
+k	고율	goyul	
+k	고을	goeul	town, district
+k	고음	goeum	high note, high pitch
+k	고이다	goida	to pool, to form a puddle
+k	고작	gojak	at most; only
+k	고저	gojeo	high and low
+k	고졸	gojol	
+k	고질	gojil	
+k	고집	gojip	stubbornness
+k	고차	gocha	
+k	고체	goche	solid
+k	고초	gocho	hardship, suffering, mise…
+k	고추	gochu	The chili pepper, often s…
+k	고치	gochi	cocoon
+k	고탑	gotap	
+k	고품	gopum	
+k	고학	gohak	
+k	고함	goham	
+k	고해	gohae	confession
+k	고화	gohwa	
+k	고희	gohui	칠십 세를 달리 이르는 말.
+k	곡가	gokga	
+k	곡기	gokgi	아슬아슬한 곡예 기술
+k	곡예	gogye	
+k	곡조	gokjo	tune; melody
+k	곡주	gokju	
+k	곤고	gongo	
+k	곤로	gollo	화로.
+k	곤마	gonma	
+k	곤운	gonun	
+k	곤조	gonjo	본성(本性), 심지, 근성.
+k	곤포	gonpo	
+k	곧다	gotda	To be straight
+k	골다	golda	to snore
+k	골무	golmu	thimble (a protective cap…
+k	골수	golsu	bone marrow
+k	골인	gorin	scoring; getting a point
+k	골자	golja	
+k	골조	goljo	
+k	곪다	gomda	To fester
+k	곯다	golta	속이 물크러져 상하다.
+k	곰소	gomso	salt
+k	곰의	gomui	
+k	곱다	gopda	beautiful, pretty, lovely…
+k	곱사	gopsa	(back) humpback
+k	곱자	gopja	
+k	곹이	gochi	'같이'를 의미하는 제주도 사투리.
+k	괴기	goegi	'고기'의 전라도 사투리.
+k	괴다	goeda	to pool, to form a puddle
+k	괴도	goedo	
+k	괴리	goeri	estrangement
+k	괴사	goesa	
+k	괴수	goesu	giant monster (kaiju)
+k	괴암	goeam	
+k	괴테	goete	
+e	go away	goaway	2 meanings
+e	go back	goback	1 meaning
+e	go down	godown	3 meanings
+e	go home	gohome	1 meaning
+e	go nuts	gonuts	1 meaning
+e	go over	goover	1 meaning
+e	go-cart	gocart	1 meaning
+e	goatee	goatee	1 meaning
+e	gobble	gobble	1 meaning
+e	goblin	goblin	1 meaning
+e	goethe	goethe	1 meaning
+e	goitre	goitre	1 meaning
+e	gokkun	gokkun	1 meaning
+e	golden	golden	2 meanings
+e	golfer	golfer	1 meaning
+e	gollum	gollum	1 meaning
+e	gomoku	gomoku	1 meaning
+e	google	google	4 meanings
+e	googol	googol	1 meaning
+e	gopher	gopher	1 meaning
+e	gorget	gorget	1 meaning
+e	gorgon	gorgon	1 meaning
+e	goryeo	goryeo	1 meaning
+e	gospel	gospel	2 meanings
+e	gossip	gossip	2 meanings
+e	gotcha	gotcha	1 meaning
+e	gothic	gothic	2 meanings
+e	govern	govern	2 meanings
+e	goyang	goyang	1 meaning
+j	ごいち	goichi	吾一: a male given name
+j	ごういしょ	goisho	合意書: contract
+j	ごうむね	gomune	江戸時代、大道芸などをして物乞いをして生活する集団。
+j	ごえもん	goemon	五右衛門, 五衛門, 伍右衛門, 伍衛門, 吾右衛…
+j	ごくり	gokuri	gulp
+j	ござる	gozaru	to exist, to be, to have
+j	ごっくん	gokkun	飲食物を飲み込む際の擬音。
+j	ごったん	gottan	gottan, traditional Kagos…
+j	ごっちゃ	gotcha	
+j	ごつい	gotsui	large and defined, as a m…
+j	ごつん	gotsun	重く固いものがぶつかる擬音語。
+j	ごとき	gotoki	Also fossilized in the ph…
+j	ごとく	gotoku	「ごとし」の連用形。
+j	ごとに	gotoni	
+j	ごねる	goneru	to complain
+j	ごまめ	gomame	片口鰯をそのまま乾燥させたもの。食用または肥料とし…
+j	ごもく	gomoku	あくた。ごみ。
+j	ごるふ	gorufu	ゴルフ: golf
+j	ごろね	gorone	寝巻きに着替えたり、蒲団に入ったりせずに横になって…
+j	ごわす	gowasu	「ある」の丁寧語。
+j	ゴア州	goashu	
+j	ゴイアス	goiasu	
+j	ゴクリ	gokuri	
+j	ゴジラ	gojira	Godzilla
+j	ゴックン	gokkun	the action of swallowing …
+j	ゴネる	goneru	
+j	ゴム印	gomuin	印全体または印面がゴムでつくられた印判。
+j	ゴム輪	gomuwa	
+j	ゴメリ	gomeri	
+j	ゴモラ	gomora	
+j	ゴリラ	gorira	a gorilla (ape)
+j	ゴルフ	gorufu	golf (ball game)
+j	ゴルファー	gorufa	ゴルフをする選手。
+j	ゴンズイ	gonzui	「権瑞」の学術的表記。
+j	ゴーカート	gokato	遊戯用または競技用のエンジンのついた小型の四輪車（…
+j	ゴーギャン	gogyan	a transliteration of the …
+j	ゴーグル	goguru	goggles
+j	ゴーゴリ	gogori	
+j	ゴーサイン	gosain	green light (approval)
+j	ゴージャス	gojasu	豪華で贅沢なさま。
+j	ゴースト	gosuto	ghost
+j	ゴータマ	gotama	
+j	ゴート語	gotogo	インド・ヨーロッパ語族ゲルマン語派の言語の一つで、…
+j	ゴールイン	goruin	scoring; getting a point
+j	ゴールド	gorudo	gold
+j	ゴーレム	goremu	a golem
+j	互角	gokaku	equal, worthy, even (in a…
+j	五ヶ瀬	gokase	a town in Nishiusuki dist…
+j	五加皮	gokahi	dried root-bark of plants…
+j	五十二	gojuni	fifty-two; 52
+j	五十五	gojugo	fifty-five; 55
+j	五十日	gotobi	五日 (itsuka, go-nichi, “fi…
+j	五十音	gojuon	all Japanese morae that c…
+j	五卜	goboku	卜兆で雨、霽、蒙、駅、克の五つの形。
+j	五叉路	gosaro	道路が五方向へ分かれる場所。
+j	五右衛門	goemon	a male given name of hist…
+j	五岳	gogaku	中国で古くから信仰された五つの山。泰山、華山、衡山…
+j	五差路	gosaro	「五叉路」の別表記。
+j	五徳	gotoku	the five virtues
+j	五心	goshin	三角形の外心、内心、重心、垂心、傍心の総称。かつて…
+j	五戸	gonohe	a town in Sannohe distric…
+j	五木	goboku	五種類の木。特に江戸時代、藩が伐採することを禁じた…
+j	五格	gokaku	呼格。
+j	五楽	gogaku	（ごがく）古代中国の季節による五種類の音楽。春は琴…
+j	五欲	goyoku	人間が持つ五つの欲望。
+j	五毛党	gomoto	50 cent army, wumao
+j	五目	gomoku	五つの品目。五種類。
+j	五穀	gokoku	the Five Grains or Five C…
+j	五角	gokaku	
+j	五辛	goshin	辛味や臭気の強い5種の野菜。大蒜・韮・葱・辣韮・野…
+j	五重奏	gojuso	
+j	仰信	goshin	教えを仰ぎ信じること。信仰。
+j	伍する	gosuru	to rank among
+j	冱沢	gotaku	凍った沢。
+j	剛力	goriki	力が強いこと。また、その人。強力。
+j	剛辰	goshin	奇数の日。剛日。
+j	午寝	goshin	午睡。
+j	午時花	gojika	noon flower, scarlet mall…
+j	号する	gosuru	name, give a name to
+j	号笛	goteki	合図の際に吹きならす笛。警笛。ホイッスル。
+j	合意書	goisho	contract
+j	合格	gokaku	passing (as in a test)
+j	合法な	gohona	
+j	合法化	gohoka	legalization
+j	合理化	gorika	rationalization
+j	合田草	godaso	annual honesty (Lunaria a…
+j	合簪	goshin	同僚。
+j	合薬	goyaku	複数の薬剤を調合すること。また、調合された薬剤。
+j	合親	goshin	一族が親しむこと。
+j	吾一	goichi	a male given name
+j	呉服	gofuku	中国の呉の織り方による織物。
+j	呉越	goetsu	Wu and Yue (two ancient r…
+j	囂俗	gozoku	俗世間。
+j	娯心	goshin	心を楽しませること。
+j	娯楽	goraku	entertainment; amusement;…
+j	娯神	goshin	心を悦ばせること。
+j	強引な	goinna	
+j	強慾	goyoku	「強欲」の別表記。
+j	強欲	goyoku	greedy, avaricious
+j	強賊	gozoku	強大な力を持つ賊徒。
+j	後刻	gokoku	後程。後で。
+j	後攻め	gozeme	背後から敵を攻めること。
+j	後詰	gozeme	城を包囲する敵や布陣している敵を後方から攻撃するこ…
+j	後詰め	gozume	後方に配置する軍勢。予備軍。うしろづめ。
+j	御不浄	gofujo	toilet
+j	御心	goshin	相手の心（気持ちや考えなど）に対する丁寧語。
+j	御母堂	gobodo	相手の母親（母堂）に対する敬語。
+j	御苦労	gokuro	「苦労」の丁寧な表現。御骨折り。ご心配。
+j	御託	gotaku	speaking in a selfish, pr…
+j	御詠歌	goeika	a pilgrim's hymn
+j	御身	goshin	「身」の丁寧語。お体。
+j	悟得	gotoku	悟りを開き、真理を会得すること。
+j	悟心	goshin	悟性。
+j	拷責	goseki	拷問すること。
+j	業腹	gohara	どうしようもなく腹が立つこと。癪に障ること。
+j	極上	gokujo	of the highest quality
+j	極印	gokuin	
+j	極寒	gokkan	intense cold; coldest per…
+j	極秘	gokuhi	absolutely secret, top se…
+j	極薄	gokusu	きわめて薄いこと。
+j	極道	gokudo	悪事をはたらくこと。また、そのような人。
+j	権兵衛	gonbee	country bumpkin
+j	権殿	gonden	社殿を造営・修理する間、神体を臨時に奉安する殿舎。
+j	権瑞	gonzui	ナマズ目ゴンズイ科の海水魚。背鰭と胸鰭に毒があるが…
+j	権萃	gonzui	ミツバウツギ科の落葉高木。関東以西の山地に自生。
+j	權兵衞	gonbee	a male given name
+j	熬審	goshin	拷問。
+j	獄吏	gokuri	jailer
+j	獄垣	gokuen	牢屋の垣。
+j	獄官	gokkan	牢獄を司る役人。
+j	獄定	gokujo	罪人を獄に入れることを決定すること。
+j	獄屋	gokuya	捕らえた罪人を収容する建物。
+j	獄掾	gokuen	獄吏。
+j	獄炎	gokuen	地獄や煉獄の炎。
+j	獄焔	gokuen	地獄や煉獄の炎。
+j	獄焰	gokuen	地獄や煉獄の炎。
+j	獄牢	gokuro	牢獄。
+j	獄窓	gokuso	監獄の窓。監獄。
+j	獄裏	gokuri	監獄の中。獄中。
+j	獄裡	gokuri	監獄の中。獄中。
+j	碁石	goishi	go stone
+j	言偏	gonben	the kanji radical 言 on th…
+j	語学	gogaku	language study
+j	語彙論	goiron	語彙を扱う言語学の分野。
+j	語彙集	goishu	vocabulary (list of words)
+j	語族	gozoku	language family
+j	語楽	goraku	語り、楽しむこと。
+j	語讖	goshin	予言。
+j	語録	goroku	analects; sayings; quotat…
+j	語黙	gomoku	語ることと黙ること。
+j	誤作動	gosado	機械やシステムが本来の仕様通りに動かないこと。
+j	誤信	goshin	misbelief
+j	誤字る	gojiru	to make a misspelling or …
+j	誤審	goshin	misjudgement; miscarriage…
+j	誤爆	gobaku	bombing wrong target
+j	誤訳	goyaku	mistranslation
+j	誤診	goshin	misdiagnosis
+j	誤読	godoku	mispronunciation
+j	護国	gokoku	国を守護、擁護すること。
+j	護摩木	gomagi	護摩を修する際にくべる木。
+j	護身	goshin	self-protection
+j	豪客	gokaku	富豪。大尽。
+j	豪戚	goseki	豪族。
+j	豪族	gozoku	ある地方に定着し、大きな財力や勢力を持つ一族。
+j	豪臣	goshin	権臣。
+j	豪華な	gokana	
+j	轟沈	gochin	instant sinking of a ship
+j	郷学	gogaku	郷里における学校。
+k	고 나니	gonani	
+k	고 있다	goitda	
+k	고객	gogaek	customer
+k	고검	gogeom	
+k	고고리	gogori	이삭를 의미하는 제주도 방언.
+k	고공	gogong	high altitude
+k	고관	gogwan	high official, dignitary
+k	고구마	goguma	sweet potato
+k	고궁	gogung	옛 궁궐.
+k	고글	gogeul	goggles (protective eyewe…
+k	고금	gogeum	the past and present
+k	고급	gogeup	seniority, high rank
+k	고기다	gogida	
+k	고기소	gogiso	
+k	고기압	gogiap	등고도(기압)에서 주위보다 상대적으로 고도(기…
+k	고나리	gonari	synonym of 고나리질 (gonariji…
+k	고내이	gonaei	
+k	고냐이	gonyai	
+k	고냬	gonyae	
+k	고데기	godegi	
+k	고도리	godori	고등어의 새끼.
+k	고동	godong	conch (shellfish)
+k	고두리	goduri	a bow equipped with blunt…
+k	고둥	godung	conch (shellfish)
+k	고딩	goding	'고등학생'의 채팅 용어.
+k	고라니	gorani	water deer (Hydropotes in…
+k	고랑	gorang	
+k	고려	goryeo	Goryeo
+k	고로케	goroke	Korean-style croquette, s…
+k	고률	goryul	
+k	고른	goreun	'고르다'의 관형사형.
+k	고름	goreum	pus
+k	고리다	gorida	썩은 풀이나 썩은 달걀 따위에서 나는 냄새와 …
+k	고마리	gomari	(학명: Persicaria thunbergi…
+k	고마운	gomaun	'고맙다'의 관형사형.
+k	고마움	gomaum	다른 사람으로부터 받은 일이나 말에서 느끼는 …
+k	고마워	gomawo	thanks
+k	고모부	gomobu	father's sister's husband
+k	고방	gobang	storeroom; a place of sto…
+k	고백	gobaek	confession
+k	고법	gobeop	
+k	고붓이	gobusi	
+k	고비리	gobiri	'밤참'을 의미하는 제주도 사투리.
+k	고빼	goppae	vehicle (usually refers t…
+k	고뿔	goppul	a cold; common cold
+k	고사기	gosagi	Kojiki (earliest historic…
+k	고사리	gosari	bracken, fernbrake (Pteri…
+k	고사포	gosapo	anti-aircraft gun
+k	고상	gosang	매우 고귀한 것.
+k	고색	gosaek	
+k	고석	goseok	
+k	고소인	gosoin	plaintiff, accuser
+k	고송	gosong	
+k	고시시	gosisi	
+k	고시조	gosijo	
+k	고아원	goawon	orphanage
+k	고애히	goaehi	
+k	고양	goyang	높이 쳐들어 올림.
+k	고얘이	goyaei	
+k	고역	goyeok	
+k	고열	goyeol	high temperature
+k	고엽	goyeop	
+k	고요히	goyohi	소리가 없으며 잠잠하게.
+k	고용	goyong	employment; hire
+k	고유어	goyueo	a word that is part of a …
+k	고유의	goyuui	
+k	고자세	gojase	
+k	고장	gojang	breakdown (mechanical)
+k	고재이	gojaei	
+k	고적	gojeok	외롭고 쓸쓸함.
+k	고전	gojeon	classic
+k	고조모	gojomo	
+k	고조부	gojobu	
+k	고종	gojong	
+k	고주파	gojupa	
+k	고지라	gojira	
+k	고착	gochak	물건 같은 것이 굳게 들러붙어 있음.
+k	고찰	gochal	사물을 확실히 알기 위해 찾고 생각함.
+k	고참	gocham	old-timer
+k	고취	gochwi	inspiration
+k	고택	gotaek	옛집.
+k	고통	gotong	pain
+k	고팩	gopaek	
+k	고풍	gopung	old customs
+k	고픈	gopeun	'고프다'의 관형사형.
+k	고픔	gopeum	'고프다'의 명사형.
+k	고하다	gohada	to inform, to tell
+k	고환	gohwan	testicle
+k	고흙	goheuk	'고령토'의 강원도 사투리.
+k	곡속	goksok	
+k	곡식	goksik	grain, cereal, corn
+k	곡직	gokjik	
+k	곡차	gokcha	
+k	곡필	gokpil	사실을 바른대로 쓰지 아니하고 왜곡하여 씀. …
+k	곡해	gokhae	
+k	곤난	gonnan	trouble; difficulty
+k	곤란	gollan	trouble; difficulty
+k	곤약	gonyak	구약나물, 구약 감자 , 우무.
+k	곤욕	gonyok	
+k	곤혹	gonhok	곤란한 일을 겪는 것.
+k	곧은	godeun	'곧다'의 관형사형.
+k	곧음	godeum	'곧다'의 명사형.
+k	곧이어	godieo	right after; soon after; …
+k	곧잘	gotjal	quite well
+k	골간	golgan	
+k	골골	golgol	in a sickly manner
+k	골대	goldae	
+k	골드	goldeu	gold
+k	골렘	gollem	
+k	골목	golmok	alley, alleyway
+k	골몰	golmol	
+k	골반	golban	pelvis
+k	골볼	golbol	
+k	골웨이	gorwei	
+k	골육	goryuk	신체를 가리키는 것
+k	골재	goljae	
+k	골초	golcho	chain smoker, cigarette a…
+k	골치	golchi	the head
+k	골킥	golkik	
+k	골탄	goltan	boneblack
+k	골패	golpae	dominoes
+k	골퍼	golpeo	
+k	골풀	golpul	
+k	골품	golpum	
+k	골프	golpeu	golf (sport)
+k	골학	golhak	
+k	골해	golhae	
+k	골화	golhwa	
+k	곰곰	gomgom	
+k	곰국	gomguk	A thick meat soup, with b…
+k	곰솔	gomsol	Japanese black pine (Pinu…
+k	곰작	gomjak	with a slow and slight mo…
+k	곰쥐	gomjwi	black rat, Rattus rattus
+k	곰질	gomjil	'곰지락'의 준말.
+k	곱돌	gopdol	agalmatolite
+k	곱박	gopbak	
+k	곱삭	gopsak	
+k	곱새	gopsae	'곱사등이'의 강원도 사투리.
+k	곱셈	gopsem	multiplication
+k	곱실	gopsil	고개나 허리를 가볍게 고푸렸다 펴는 모양.
+k	곱작	gopjak	
+k	곳간	gotgan	lumberroom
+k	곳곳	gotgot	here and there, everywhere
+k	곳쿤	gotkun	
+k	공고	gonggo	announcement
+k	공구	gonggu	tool
+k	공기	gonggi	air
+k	공로	gongno	contribution; merits; mer…
+k	공리	gongni	common sense
+k	공모	gongmo	conspiracy; plot; collusi…
+k	공무	gongmu	official business; public…
+k	공보	gongbo	official bulletin, commun…
+k	공부	gongbu	learning; study
+k	공비	gongbi	
+k	공사	gongsa	construction work
+k	공세	gongse	attack; (military) offens…
+k	공소	gongso	공적으로 하소연함.
+k	공수	gongsu	air transportation
+k	공시	gongsi	알림.
+k	공안	gongan	the police in certain cou…
+k	공알	gongal	clitoris
+k	공애	gongae	
+k	공예	gongye	crafts, handicraft
+k	공유	gongyu	sharing
+k	공익	gongik	
+k	공인	gongin	official recognition
+k	공일	gongil	'일요일'의 강원도 사투리.
+k	공임	gongim	품삯.
+k	공자	gongja	pay; wages
+k	공제	gongje	뗌, 뺌.
+k	공조	gongjo	
+k	공주	gongju	princess
+k	공지	gongji	announcement; notice
+k	공포	gongpo	fear, terror, dread, frig…
+k	곶감	gotgam	dried persimmon
+k	괴담	goedam	ghost story
+k	괴랄	goeral	괴이하며 어그러진 바.
+k	괴로이	goeroi	몸이나 또는 마음이 아파서.
+k	괴롬	goerom	괴로움의 준말.
+k	괴뢰	goeroe	puppet; marionette
+k	괴목	goemok	
+k	괴물	goemul	monster; freak
+k	괴애이	goeaei	
+k	괴오다	goeoda	괴다(3번)(支)의 옛 말.
+k	괴이히	goeihi	strangely; bizarrely
+k	괴질	goejil	
+k	괴짜	goejja	eccentric person, odd fis…
+k	괴팍	goepak	붙임성이 없이 까다롭고 별남.
+k	괴한	goehan	suspicious guy
+k	굉이	goengi	
+e	go ahead	goahead	1 meaning
+e	go dutch	godutch	1 meaning
+e	go stone	gostone	1 meaning
+e	go to bed	gotobed	1 meaning
+e	god game	godgame	1 meaning
+e	goddamn	goddamn	1 meaning
+e	goddess	goddess	2 meanings
+e	goggles	goggles	1 meaning
+e	golf bag	golfbag	1 meaning
+e	goliath	goliath	1 meaning
+e	gondola	gondola	1 meaning
+e	good day	goodday	1 meaning
+e	good job	goodjob	1 meaning
+e	goodbye	goodbye	2 meanings
+e	gorilla	gorilla	1 meaning
+e	gorizia	gorizia	1 meaning
+e	gorodki	gorodki	1 meaning
+e	goshawk	goshawk	1 meaning
+e	gosling	gosling	1 meaning
+e	gosplan	gosplan	1 meaning
+e	gotland	gotland	1 meaning
+e	gouache	gouache	2 meanings
+e	goulash	goulash	2 meanings
+e	gourami	gourami	1 meaning
+e	gourmet	gourmet	1 meaning
+j	ごいさぎ	goisagi	コウノトリ目サギ科ゴイサギ属に属する鳥の一種。学名…
+j	ごかし	gokashi	体言に後接し、「他人を騙したり口実を設けて自分の利…
+j	ごがつ	gogatsu	
+j	ごくっと	gokutto	液体や小さな固形物などを一気に飲み込むさま。
+j	ごこうたん	gokotan	ご降誕: birth (regal); nativ…
+j	ござんす	gozansu	「ある」の丁寧語。
+j	ごじゃっぺ	gojappe	（茨城弁）いい加減、まぬけなど、否定的な意味をひろ…
+j	ごそうしゃ	gososha	護送車: paddy wagon
+j	ごだいこ	godaiko	
+j	ごちく	gochiku	五畜: the five types of liv…
+j	ごちそう	gochiso	
+j	ごっそり	gossori	in great amounts
+j	ごっつぁん	gottsan	synonym of ありがとう (arigatō)
+j	ごっつい	gottsui	厳つい、ごつい。
+j	ごとし	gotoshi	like
+j	ごにち	gonichi	後日: in the future, later,…
+j	ごはっと	gohatto	ご法度: synonym of 法度 (hatto)
+j	ごまんと	gomanto	たくさん。山ほど。
+j	ごみいれ	gomiire	garbage can, trash can, r…
+j	ごみ入	gomiire	
+j	ごめんね	gomenne	sorry; I'm sorry
+j	ごようろん	goyoron	語用論: pragmatics
+j	ごりんじゅう	gorinju	ご臨終: one's deathbed, one'…
+j	ごりんとう	gorinto	五輪塔: five-ringed pagoda
+j	ごろっと	gorotto	重いものや大きいものなどが転がるさま。
+j	ごわんす	gowansu	「ある」の丁寧語。
+j	ご夫人	gofujin	wife
+j	ご存知	gozonji	knowing, acquaintance
+j	ご機嫌	gokigen	spirits; being; mood; hea…
+j	ご法度	gohatto	synonym of 法度 (hatto)
+j	ご祝儀	goshugi	
+j	ご老人	gorojin	an old person
+j	ご臨終	gorinju	deathbed, dying moment, d…
+j	ご芳名	gohomei	
+j	ご降誕	gokotan	birth (regal)
+j	ゴッサム	gossamu	Gotham (New York City)
+j	ゴッデム	goddemu	goddamn
+j	ゴブリン	goburin	a goblin
+j	ゴラッソ	gorasso	
+j	ゴリアテ	goriate	Goliath (biblical giant)
+j	ゴルゴン	gorugon	
+j	ゴンドラ	gondora	a gondola (a kind of boat)
+j	ゴート人	gotojin	東ゲルマン人の一派。西ゴート王国、東ゴート王国を建…
+j	ゴールウェイ	goruwei	Galway (a county of Irela…
+j	ゴールデン	goruden	being golden (golden in c…
+j	五位鷺	goisagi	night heron, specifically…
+j	五十三	gojusan	fifty-three; 53
+j	五十九	gojukyu	fifty-nine; 59
+j	五十四	gojuyon	fifty-four; 54
+j	五反田	gotanda	Gotanda (a district of To…
+j	五味子	gomishi	dried berries of Schisand…
+j	五大洋	gotaiyo	太平洋、大西洋、インド洋、北極海、南極海の五つの大…
+j	五大湖	godaiko	Great Lakes
+j	五尺	goshaku	一尺の五倍。
+j	五屯語	gotongo	中華人民共和国黄南チベット自治州同仁市で話されてい…
+j	五度圏	godoken	12の長調あるいは短調の主音をCを基準として上昇あ…
+j	五摂家	gosekke	鎌倉時代以降、幕末まで摂政（または関白）に任命され…
+j	五月	gogatsu	May
+j	五爵	goshaku	the five ranks of 爵 (shak…
+j	五生児	goseiji	同じ両親から同じ日に生まれた五人の子供。
+j	五番目	gobanme	
+j	五百	gohyaku	five hundred, many
+j	五稜堡	goryoho	
+j	五節句	gosekku	The five seasonal festiva…
+j	五線譜	gosenfu	staff notation
+j	五色	goshiki	five colors (usu. red (赤)…
+j	五芒星	gobosei	五角形の対角線を全て繋いだ図形。☆、または中を塗り…
+j	五街道	gokaido	江戸時代に東海道、中山道と日光・甲州・奥州の各道中…
+j	五識	goshiki	目、耳、鼻、舌、身の五根によって認知する、五つ（色…
+j	五輪の	gorinno	
+j	五輪塔	gorinto	five-ringed pagoda (type …
+j	五輪旗	gorinki	オリンピックの象徴となる、青・黄・黒・緑・赤の五つ…
+j	五重唱	gojusho	
+j	五鈷杵	gokosho	a five-pronged vajra
+j	五頭竜	gozuryu	頭が5つあるとされる、伝説上の竜。
+j	五香粉	gokofun	five-spice powder
+j	傲慢な	gomanna	
+j	傲然な	gozenna	
+j	剛実	gojitsu	剛質。
+j	剛日	gojitsu	奇数の日。剛辰。
+j	剛直	gochoku	rigidity
+j	劫罰	gobatsu	
+j	午後休	gogokyu	taking the afternoon off
+j	合力	goryoku	resultant force
+j	合同誌	godoshi	collaborative doujin
+j	合成数	goseisu	a composite number
+j	合成語	goseigo	synonym of 複合語 (fukugōgo,…
+j	合接	gosetsu	論理積。
+j	合法性	gohosei	legality, lawfulness
+j	合理性	gorisei	rationality
+j	合説	gosetsu	合同説明会。
+j	合議制	gogisei	複数の人の合議によって意思決定を行う制度。
+j	呉茱萸	goshuyu	Tetradium ruticarpum
+j	噛殺	gosatsu	噛み殺すこと。
+j	強殺	gosatsu	強盗殺人の略。
+j	強盗犯	gotohan	強盗をすることで成立する犯罪。また、その犯人。
+j	強窃	gosetsu	強盗と窃盗。
+j	強細風	gosaifu	室町時代の能役者世阿弥が能の芸位を九つに分類した際…
+j	後大脳	godaino	
+j	後日	gojitsu	in the future, later, a l…
+j	後漢書	gokanjo	Book of the Later Han (a …
+j	御三家	gosanke	the most noble three bran…
+j	御多分	gotabun	大多数の人が従うような意見や行動。
+j	御存じ	gozonji	「存じ（知っていること）」の丁寧語。御承知。お知り…
+j	御家人	gokenin	a vassal, (particularly) …
+j	御府内	gofunai	江戸時代、江戸市中で江戸町奉行が支配した範囲。
+j	御来光	goraiko	高山に登り山頂から拝む日の出。
+j	御殿場	gotenba	Gotemba (a city in Shizuo…
+j	御用金	goyokin	江戸時代、幕府、大名が財政不足を補てんするため、御…
+j	御破算	gohasan	「破算」を丁寧に言った語。
+j	御祝儀	goshugi	「祝儀」の丁寧語。
+j	御老人	gorojin	an old person
+j	御自分	gojibun	
+j	御降誕	gokotan	birth (regal)
+j	御馳走	gochiso	treat, banquet, feast
+j	恒河沙	gogasha	a metaphor of the extreme…
+j	格天井	gotenjo	角材を格子状に組み、その上に板を張った天井。
+j	極伝	gokuden	家伝の奥義。
+j	極内	gokunai	極めて内密なさま。
+j	極善	gokuzen	極めて善いこと。また、そのようなさま。
+j	極小	gokusho	extremely small
+j	極悪	gokuaku	heinous
+j	極暑	gokusho	intense heat; hottest per…
+j	極狭	gokukyo	極めて狭いこと。その様子。
+j	極聖	gokusho	仏。仏陀。
+j	極製	gokusei	極めて上等な造り。
+j	牛膝	gojitsu	synonym of 猪の子槌 (inokozuc…
+j	獄丁	gokutei	看守。獄卒。
+j	獄中	gokuchu	in jail
+j	獄司	gokushi	牢獄を管理する役人。
+j	獄成	gokusei	審理が確定すること。
+j	獄死	gokushi	die in prison
+j	獄舎	gokusha	捕らえた罪人を収容する建物。
+j	獄訟	gokusho	訴訟。訴えること。
+j	獄門	gokumon	prison gate
+j	語彙的	goiteki	
+j	語用論	goyoron	pragmatics
+j	語脈	gomyaku	語と語との繋がり。また、その具合。
+j	語釈	goshaku	言葉の解釈。解釈行為自体、および、その結果作られる…
+j	誤植	goshoku	misprint, typo
+j	誤殺	gosatsu	killing (someone) by mist…
+j	誤脱	godatsu	文章にある誤字や脱字、脱文。
+j	誤食	goshoku	accidental consumption or…
+j	護憲派	gokenha	日本国憲法の改正に反対する勢力。
+j	護摩壇	gomadan	護摩を修する際、護摩木をくべる炉を備えた壇。炉壇。
+j	護衛官	goeikan	特定の対象を護衛するもの。
+j	護衛艦	goeikan	a warship of the Japan Ma…
+j	護送車	gososha	paddy wagon
+j	豪傑	goketsu	extremely intelligent; ex…
+j	豪華版	gokaban	豪華な装丁や内容の書物。
+j	豪雪	gosetsu	heavy snow
+k	고가교	gogagyo	viaduct
+k	고견	gogyeon	
+k	고결	gogyeol	
+k	고고학	gogohak	archaeology
+k	고기 파이	gogipai	
+k	고기구이	gogigui	Korean barbecue; roast(ed…
+k	고까옷	gokkaot	알록달록한 천을 이어 붙여 곱게 지은 어린아이…
+k	고난의	gonanui	
+k	고내히	gonaehi	
+k	고냬이	gonyaei	
+k	고닝이	goningi	
+k	고단수	godansu	quick-witted, cunning per…
+k	고대사	godaesa	
+k	고대어	godaeeo	
+k	고대인	godaein	
+k	고도계	godogye	기압이 고도의 상승에 따라 감소하는 원리를 이…
+k	고도화	godohwa	
+k	고독사	godoksa	kodokushi, lonely death
+k	고독의	godogui	
+k	고되다	godoeda	to be hard, to be tough, …
+k	고등	godeung	
+k	고따위	gottawi	고러한 부류의 대상을 낮잡아 이르는 지시 대명…
+k	고레말	goremal	Koryo-mar, the Korean dia…
+k	고르고	goreugo	a conjunctive form of 고르다…
+k	고르다	goreuda	to choose, to pick out
+k	고리대	goridae	
+k	고리스	goriseu	
+k	고리화	gorihwa	
+k	고릴라	gorilla	gorilla
+k	고립어	goribeo	isolating language
+k	고립지	goripji	a remote or isolated regi…
+k	고맙다	gomapda	thankful
+k	고무락	gomurak	'고무라기'의 준말.
+k	고무래	gomurae	rake (for grain or ashes)
+k	고무신	gomusin	rubber slippers
+k	고무오리	gomuori	rubber duck
+k	고무작	gomujak	
+k	고무줄	gomujul	
+k	고무탄	gomutan	
+k	고변	gobyeon	갑작스러운 재앙이나 사고 따위를 알림.
+k	고별	gobyeol	farewell; parting
+k	고부대	gobudae	
+k	고분자	gobunja	
+k	고삼자	gosamja	
+k	고생	gosaeng	suffering
+k	고성	goseong	shouting, shout, yell
+k	고속도	gosokdo	
+k	고승	goseung	
+k	고시원	gosiwon	gosiwon, low-cost single …
+k	고아하다	goahada	
+k	고압대	goapdae	기압이 상대적으로 높은 띠모양으로 길게 뻩은 …
+k	고앵이	goaengi	
+k	고양이	goyangi	cat
+k	고얭	goyaeng	
+k	고온계	goongye	
+k	고을나	goeulla	(역사)
+k	고이아스	goiaseu	
+k	고이왕	goiwang	(역사)
+k	고이장	goijang	
+k	고인돌	goindol	a dolmen, a prehistoric m…
+k	고인물	goinmul	한 분야에 오래 있어 그 분야를 정통한 사람.…
+k	고자국	gojaguk	소가야.
+k	고자질	gojajil	다른 사람의 잘못을 일러바치는 행위.
+k	고쟁	gojaeng	
+k	고정	gojeong	fixity; immobility
+k	고증	gojeung	
+k	고지대	gojidae	
+k	고지서	gojiseo	
+k	고지트	gojiteu	
+k	고질라	gojilla	
+k	고창	gochang	
+k	고철	gocheol	
+k	고체온	gocheon	high body temperature; hy…
+k	고충	gochung	
+k	고치다	gochida	to fix, to correct
+k	고트어	goteueo	
+k	고트인	goteuin	
+k	고프다	gopeuda	to be hungry, empty, star…
+k	고해기	gohaegi	
+k	고행	gohaeng	
+k	고향	gohyang	one's hometown or birthpl…
+k	고혈	gohyeol	
+k	고황	gohwang	
+k	고흥	goheung	
+k	곡류	gongnyu	
+k	곡목	gongmok	
+k	곡물	gongmul	corn, cereals, grain.
+k	곡사포	goksapo	howitzer
+k	곡석	gokseok	'곡식'의 비표준어.
+k	곡선	gokseon	curve
+k	곡셱	goksyek	grain, cereal, corn
+k	곡예사	gogyesa	acrobat
+k	곡용	gogyong	declension
+k	곡절	gokjeol	bentness, crookedness
+k	곡풍	gokpung	valley wind
+k	곤괘	gongwae	
+k	곤궁	gongung	
+k	곤봉	gonbong	무엇을 때리기 위한 적당한 길이의 막대기.
+k	곤색	gonsaek	navy blue; dark blue
+k	곤장	gonjang	예전에, 죄인의 볼기를 치던 형구. 또는 그 …
+k	곧바로	gotbaro	immediately; straight away
+k	곧장	gotjang	straight away, right away
+k	골고루	golgoru	'고루고루'의 준말.
+k	골구다	golguda	'고르다'의 강원도 사투리.
+k	골당	goldang	
+k	골동	goldong	
+k	골리앗	golliat	
+k	골무기	golmugi	'절편'를 일컫는 연변말.
+k	골백	golbaek	bazillion; a very large n…
+k	골세포	golsepo	'뼈세포'.
+k	골절	goljeol	뼈가 부러지는 것.
+k	곰곰이	gomgomi	'곰곰'.
+k	곰돌이	gomdori	'곰인형'을 일컫는 말.
+k	곰탕	gomtang	gomtang (slow-simmered be…
+k	곰틀	gomteul	while squirming once with…
+k	곰피다	gompida	to bloom
+k	곱상	gopsang	곱게 생긴 얼굴. 또는 그런 사람.
+k	곱침	gopchim	(농구) '드리블'의 북한말.
+k	곱하기	gophagi	multiplication
+k	곱하다	gophada	to multiply
+k	곳곳에	gotgose	
+k	공간	gonggan	space, room
+k	공갈	gonggal	threatening behavior
+k	공감	gonggam	sympathy
+k	공개	gonggae	Opening to the public.
+k	공교	gonggyo	strange talent
+k	공국	gongguk	dukedom; duchy; principal…
+k	공군	gonggun	air force
+k	공단	gongdan	
+k	공란	gongnan	빈칸.
+k	공론	gongron	
+k	공립	gongnip	public (e.g. institution)
+k	공매	gongmae	
+k	공물	gongmul	a tribute, tithe; somethi…
+k	공민	gongmin	citizen
+k	공배	gongbae	바둑에서, 어느 쪽이 두어도 이익이나 손해가 …
+k	공복	gongbok	
+k	공분	gongbun	public indignation, publi…
+k	공산	gongsan	
+k	공손	gongson	politeness; courteousness…
+k	공식	gongsik	formula; formality, being…
+k	공심	gongsim	
+k	공애이	gongaei	
+k	공야이	gongyai	
+k	공약	gongyak	pledge, promise
+k	공얘	gongyae	
+k	공언	gongeon	prattle; empty words
+k	공업	gongeop	heavy industry, manufactu…
+k	공원	gongwon	park
+k	공작	gongjak	craft
+k	공존	gongjon	coexistence
+k	공준	gongjun	
+k	공직	gongjik	public office
+k	공짜	gongjja	something which is free, …
+k	공차	gongcha	an empty car
+k	공판	gongpan	public hearing, trial
+k	공폭	gongpok	aerial bombardment; bombi…
+k	공표	gongpyo	official announcement, pr…
+k	공핍	gongpip	depletion, depravation
+k	공학	gonghak	engineering
+k	공함	gongham	공격하여 함락함.
+k	공해	gonghae	pollution
+k	공허	gongheo	emptiness, vacuity, inani…
+k	공화	gonghwa	공화제, 공화 정치. 국민이 주인되는 정치 체제
+k	공훈	gonghun	merit
+k	공휴	gonghyu	public holiday, legal hol…
+k	괴깔	goekkal	
+k	괴내이	goenaei	
+k	괴네기	goenegi	
+k	괴데기	goedegi	
+k	괴로움	goeroum	suffering; pain
+k	괴망	goemang	말이나 행동이 괴상하고 망측함.
+k	괴상	goesang	보통과 달리 괴이하고 이상함.
+k	괴석	goeseok	괴이하게 생긴 돌멩이.
+k	괴시미	goesimi	
+k	괴테의	goeteui	
+e	go abroad	goabroad	1 meaning
+e	go steady	gosteady	1 meaning
+e	go to hell	gotohell	1 meaning
+e	go to work	gotowork	1 meaning
+e	goal kick	goalkick	1 meaning
+e	goalball	goalball	1 meaning
+e	goalpost	goalpost	1 meaning
+e	goatfish	goatfish	1 meaning
+e	goatmeat	goatmeat	1 meaning
+e	godzilla	godzilla	1 meaning
+e	goethean	goethean	1 meaning
+e	goguryeo	goguryeo	1 meaning
+e	gojoseon	gojoseon	1 meaning
+e	golconda	golconda	1 meaning
+e	gold dust	golddust	1 meaning
+e	gold leaf	goldleaf	1 meaning
+e	gold mine	goldmine	2 meanings
+e	gold rush	goldrush	1 meaning
+e	goldfish	goldfish	1 meaning
+e	golf ball	golfball	1 meaning
+e	golf cart	golfcart	1 meaning
+e	golf club	golfclub	1 meaning
+e	gomorrah	gomorrah	1 meaning
+e	gondwana	gondwana	1 meaning
+e	gonzalez	gonzalez	1 meaning
+e	good lord	goodlord	1 meaning
+e	good luck	goodluck	2 meanings
+e	good news	goodnews	2 meanings
+e	goodwill	goodwill	2 meanings
+e	goose egg	gooseegg	1 meaning
+e	goranboy	goranboy	1 meaning
+e	gorgeous	gorgeous	1 meaning
+e	gossamer	gossamer	3 meanings
+e	governor	governor	2 meanings
+j	ごあさって	goasatte	（特に西日本で）今日から四日後。明々後日の次の日。
+j	ごきぶり	gokiburi	ゴキブリ目の昆虫。褐色または黒褐色で光沢がある。家…
+j	ごくそく	gokusoku	獄則: prison rules
+j	ごくふり	gokufuri	unbalance where one stat …
+j	ごさらぎ	gosaragi	
+j	ごじゅうから	gojukara	スズメ目ゴジュウカラ科に属する鳥の総称。
+j	ごじょわだ	gojowada	viscera (internal organs …
+j	ごぜんちゅう	gozenchu	午前中: in the morning
+j	ごたごた	gotagota	紛争、もめごと。
+j	ごた混ぜ	gotamaze	jumbled
+j	ごね得	gonedoku	complaining in order to g…
+j	ごぶさた	gobusata	
+j	ごほごほ	gohogoho	sound of coughing; hack h…
+j	ごぼごぼ	gobogobo	gurgling
+j	ごまかす	gomakasu	to cheat or deceive
+j	ごますり	gomasuri	自分の利益のためへつらって取り入ること。
+j	ごみごみ	gomigomi	纏まりがなく雑然としているさま。混雑しているさま。
+j	ごみため	gomitame	ごみを一旦溜めておく場所。はきだめ。
+j	ごみばこ	gomibako	ごみ箱, ゴミ箱, 塵箱, 芥箱: garbage…
+j	ごみ箱	gomibako	garbage can, trash can, r…
+j	ごりおし	gorioshi	鮴押し: technique of catchin…
+j	ごろごろ	gorogoro	with the sound of thunder
+j	ごわごわ	gowagowa	stiffly
+j	ご主人	goshujin	husband (referring to som…
+j	ご家族	gokazoku	
+j	ゴキブリ	gokiburi	a cockroach
+j	ゴシック	goshikku	Gothic, Gothic style
+j	ゴシップ	goshippu	興味本位の噂話。
+j	ゴジュウカラ	gojukara	スズメ目ゴジュウカラ科ゴジュウカラ属に属する鳥の一…
+j	ゴスペル	gosuperu	gospel
+j	ゴスロリ	gosurori	Gothic Lolita
+j	ゴマすり	gomasuri	
+j	ゴムボート	gomuboto	inflatable boat; inflatab…
+j	ゴム引き	gomubiki	ゴムで防水加工を施した生地。
+j	ゴルクム	gorukumu	
+j	ゴルフ場	gorufujo	golf course
+j	ゴロゴロ	gorogoro	「ごろごろ」のカタカナ表記。
+j	ゴロトキ	gorotoki	
+j	ゴールキーパー	gorukipa	a goalkeeper
+j	ゴールテープ	gorutepu	競走などのゴールライン上に水平に張られ、誰が最初に…
+j	ゴールボール	goruboru	
+j	ゴールライン	gorurain	競走などで、この上に胴体が到達したらゴールとなるこ…
+j	互換性	gokansei	compatibility
+j	五倍子	gobaishi	Chinese gall, used in med…
+j	五分五分	gobugobu	fifty-fifty
+j	五十一	gojuichi	fifty-one; 51
+j	五十七	gojunana	fifty-seven; 57
+j	五十六	gojuroku	fifty-six; 56
+j	五十歳	gojussai	生後50年目又は50年を経過した年齢の称。
+j	五十雀	gojugara	
+j	五十音図	gojuonzu	the 5x10 table used for a…
+j	五卵性	goransei	五つの卵子が五つの精子と同時に受精し、受精卵がその…
+j	五大州	godaishu	the five continents (Asia…
+j	五大洲	godaishu	地球上の五つの大陸。五洲。五大陸。
+j	五年生	gonensei	その段階の学校に入って5年目の者。
+j	五悪趣	goakushu	衆生がその業因によりおもむく五つの場所。天上、人間…
+j	五斂子	gorenshi	synonym of スターフルーツ (“star…
+j	五賢帝	gokentei	Five Good Emperors
+j	五部作	gobusaku	
+j	五重塔	gojunoto	五つの層（階）からなる仏塔。
+j	五面体	gomentai	
+j	剛質	goshitsu	健やかで誠実なこと。また、そのようなさま。
+j	剛速球	gosokkyu	fierce fastball
+j	午前中	gozenchu	in the morning, before no…
+j	午前休	gozenkyu	taking the morning off
+j	午餐会	gosankai	luncheon party
+j	合成酒	goseishu	アルコールにブドウ糖、コハク酸、香料など清酒に近い…
+j	合格の	gokakuno	
+j	合法ロリ	gohorori	"legal loli", "barely leg…
+j	合法的	gohoteki	法に適っているさま。
+j	合流点	goryuten	
+j	合理的	goriteki	rational, reasonable, log…
+j	合理論	gouriron	
+j	合計する	gokesuru	
+j	呉服屋	gofukuya	呉服を作って売る店。
+j	塵溜	gomitame	
+j	強姦犯	gokanhan	rapist
+j	強姦者	gokansha	
+j	強欲な	goyokuna	
+j	御一新	goisshin	Meiji Restoration
+j	御主人	goshujin	「主人」の尊敬語。
+j	御利益	goriyaku	answer to a prayer, divin…
+j	御無沙汰	gobusata	「無沙汰」を丁寧に言う語。長らく訪問や音信をしなか…
+j	御用聞き	goyokiki	御用を受け十手、捕縄を預かり犯罪者の探索、捕縛を担…
+j	拷問史	gomonshi	拷問に関する歴史。
+j	極太	gokubuto	something very thick
+j	極彩	gokudami	極彩色。
+j	極楽	gokuraku	heaven, paradise
+j	極細	gokuboso	きわめて細いこと。また、そのもの。
+j	極足	gokusoku	至極の境地。
+j	牛頭馬頭	gozumezu	Ox-Head and Horse-Face, t…
+j	獄則	gokusoku	prison rules
+j	碁会所	gokaisho	囲碁のセットを備え、席料をとって囲碁を打たせ、場所…
+j	胡麻塩	gomashio	gomashio (a condiment mad…
+j	胡麻磨り	gomasuri	brown-nosing, apple-polis…
+j	言舌	gonzetsu	物言い。弁舌。
+j	語中形	gochukei	アラビア文字が文中にあるときの文字の形。
+j	語学院	gogakuin	
+j	語彙力	goiryoku	strength (extent, size) o…
+j	語形論	gokeiron	
+j	誤表象	gohyosho	
+j	護身用	goshinyo	for self-defense
+j	豪速球	gosokkyu	「剛速球」の別表記。
+j	鮴押し	gorioshi	technique of catching gob…
+k	고가 도로	gogadoro	기둥 등을 세워 땅 위로 높이 설치한 도로.
+k	고가도로	gogadoro	
+k	고갱이	gogaengi	The pith of a stem
+k	고구려	goguryeo	Goguryeo (an ancient king…
+k	고금리	gogeumni	
+k	고기기지	gogigiji	'양식장(養殖場)'의 북한말.
+k	고김살	gogimsal	
+k	고깃간	gogitgan	'푸줏간'.
+k	고깃깃	gogitgit	물고기를 많이 모이게 하기 위하여 물속에 넣어…
+k	고깝다	gokkapda	섭섭하고 야속하여 마음이 언짢다.
+k	고냉이	gonaengi	synonym of 고양이 (goyang'i,…
+k	고냥이	gonyangi	
+k	고니자리	gonijari	
+k	고독감	godokgam	
+k	고두하다	goduhada	to kowtow
+k	고둥어	godungeo	'고등어'의 비표준어.
+k	고딕체	godikche	gothic style
+k	고란보이	goranboi	
+k	고란초	gorancho	
+k	고래학	goraehak	
+k	고려사	goryeosa	
+k	고려인	goryeoin	러시아나 우크라이나 및 중앙아시아 등지에 거주…
+k	고령	goryeong	
+k	고리고리	gorigori	
+k	고리짝	gorijjak	wickerwork (especially, a…
+k	고리채	gorichae	
+k	고리치아	gorichia	
+k	고린내	gorinnae	썩은 풀이나 썩은 달걀 따위에서 나는 냄새와 …
+k	고립감	goripgam	다른 사람과 어울리어 사귀지 아니하거나 도움을…
+k	고마워요	gomawoyo	
+k	고명	gomyeong	garnish
+k	고무라기	gomuragi	떡의 부스러기.
+k	고무적	gomujeok	
+k	고무하다	gomuhada	다른 사람을 격려하고 용기를 주다.
+k	고문서	gomunseo	
+k	고문체	gomunche	archaism
+k	고물차	gomulcha	
+k	고뱅이	gobaengi	knee
+k	고부리다	goburida	
+k	고산대	gosandae	
+k	고세균	gosegyun	원핵생물 중 세균역에 해당하지 않는 생물의 총…
+k	고소득	gosodeuk	
+k	고소장	gosojang	
+k	고소하다	gosohada	to be fragrant or tasty a…
+k	고수부지	gosubuji	
+k	고수하다	gosuhada	'고소하다'의 비규범 표기.
+k	고순쥐	gosunjwi	hedgehog
+k	고스트	goseuteu	ghost
+k	고안하다	goanhada	
+k	고압적	goapjeok	
+k	고양시	goyangsi	한국의 경기도 북서부에 있는 시. 고봉현의 '…
+k	고얭이	goyaengi	
+k	고엽제	goyeopje	
+k	고요하다	goyohada	to be silent, to be tranq…
+k	고용인	goyongin	
+k	고용주	goyongju	employer
+k	고위 인사	gowiinsa	
+k	고유법	goyubeop	
+k	고유색	goyusaek	
+k	고유하다	goyuhada	unique, intrinsic, inhere…
+k	고음계	goeumgye	
+k	고의범	gouibeom	
+k	고의사구	gouisagu	intentional walk; intenti…
+k	고의적	gouijeok	고의로 행한.
+k	고적운	gojeogun	기본운형 10종 중 중층운에 속하며 엷은 판자…
+k	고조선	gojoseon	Gojoseon, an ancient king…
+k	고조하다	gojohada	땅이 높고 메마르다.
+k	고차국	gochaguk	소가야.
+k	고차원	gochawon	
+k	고착제	gochakje	
+k	고체화	gochehwa	
+k	고층	gocheung	something of high-rise, m…
+k	고판본	gopanbon	
+k	고푸리다	gopurida	
+k	고해실	gohaesil	confessional (confession …
+k	고형	gohyeong	
+k	곡률	gongnyul	
+k	곡성	gokseong	소리 내어 우는 소리
+k	곡창	gokchang	barn; granary
+k	곡척	gokcheok	square (tool), carpenter'…
+k	곤뇽	gonnyong	
+k	곤돌라	gondolla	gondola
+k	곤드레	gondeure	
+k	곤충	gonchung	insect
+k	곤치다	gonchida	
+k	곧서다	gotseoda	'곧추서다'의 북한말.
+k	골격	golgyeok	skeleton
+k	골드바	goldeuba	a gold bar
+k	골밀도	golmildo	
+k	골바람	golbaram	맑은 날 낮에 골짜기에서 산등성이로 불어 올라…
+k	골시내	golsinae	'골짜기'의 북한말.
+k	골안개	golangae	골짜기에 발생하는 안개.
+k	골웨이 주	gorweiju	
+k	골조직	goljojik	
+k	골지체	goljiche	Golgi apparatus; Golgi bo…
+k	골짜기	goljjagi	valley, vale, ravine
+k	골콘다	golkonda	
+k	골키퍼	golkipeo	a goalkeeper
+k	골판지	golpanji	
+k	골포국	golpoguk	한국의 역사에서, 경상도 마산 부근에 있었던 …
+k	곰지락	gomjirak	while wriggling once; whi…
+k	곰팡이	gompangi	mould, mold (such as peni…
+k	곱배기	gopbaegi	'곱빼기'의 비표준어.
+k	곱세크	gopsekeu	miser, cheapskate
+k	곱이곱이	gobigobi	meanderingly, in zigzag (…
+k	곱창	gopchang	intestines of cattle or p…
+k	곱치다	gopchida	
+k	공강	gonggang	break between lectures
+k	공공	gonggong	public
+k	공구리	gongguri	concrete
+k	공극	gonggeuk	
+k	공급	gonggeup	supply
+k	공덕	gongdeok	good deed
+k	공동	gongdong	commonality, sharedness (…
+k	공략	gongnyak	attack (usually on an ent…
+k	공모가	gongmoga	일반 대중으로부터 공개 청약을 받는 주식이나 …
+k	공미리	gongmiri	
+k	공방	gongbang	work shed; workshop; arti…
+k	공백	gongbaek	gap, space
+k	공범	gongbeom	complicity
+k	공법	gongbeop	method of artisanship
+k	공부자	gongbuja	Confucius
+k	공상	gongsang	fantasy, daydream
+k	공색	gongsaek	
+k	공석	gongseok	빈자리.
+k	공설	gongseol	
+k	공수도	gongsudo	karate
+k	공습	gongseup	air raid; aerial strike
+k	공역	gongyeok	비행하는 항공기에 영향을 주는 특정지역과 비행…
+k	공연	gongyeon	a public performance
+k	공예가	gongyega	
+k	공유지	gongyuji	
+k	공장	gongjang	factory
+k	공적	gongjeok	public, official, related…
+k	공전	gongjeon	뇌운의 방전이나 기상변화에 따른 공중전기의 변…
+k	공중	gongjung	the air, midair
+k	공채	gongchae	
+k	공처	gongcheo	
+k	공통	gongtong	common
+k	공포의	gongpoui	
+k	공하다	gonghada	free (of charge)
+k	공항	gonghang	airport
+k	공헌	gongheon	contribution
+k	괴더기	goedeogi	
+k	괴뎅이	goedengi	
+k	괴래기	goeraegi	
+k	괴력	goeryeok	
+k	괴롭다	goeropda	painful, distressing
+k	괴멸	goemyeol	조직이나 체계가 붕괴되어 무너짐.
+k	괴변	goebyeon	
+k	괴성	goeseong	괴상한 소리.
+k	괴앵이	goeaengi	
+k	괴양이	goeyangi	
+k	괴이괼	goeigoel	
+k	괴이하다	goeihada	정상적이지 않고 별나며 괴상하다.
+k	굉대	goengdae	
+k	굉음	goengeum	roaring sound; booming no…
+e	go-between	gobetween	1 meaning
+e	goatgrass	goatgrass	1 meaning
+e	gochujang	gochujang	1 meaning
+e	god object	godobject	1 meaning
+e	godfather	godfather	2 meanings
+e	godliness	godliness	1 meaning
+e	godmother	godmother	1 meaning
+e	godparent	godparent	1 meaning
+e	gold coast	goldcoast	2 meanings
+e	gold medal	goldmedal	1 meaning
+e	goldcrest	goldcrest	1 meaning
+e	golden age	goldenage	1 meaning
+e	goldenrod	goldenrod	1 meaning
+e	goldfinch	goldfinch	1 meaning
+e	goldsmith	goldsmith	1 meaning
+e	gondolier	gondolier	1 meaning
+e	gonorrhea	gonorrhea	1 meaning
+e	good faith	goodfaith	1 meaning
+e	good grief	goodgrief	1 meaning
+e	good night	goodnight	1 meaning
+e	goose bump	goosebump	1 meaning
+e	goose-step	goosestep	1 meaning
+e	gorbachev	gorbachev	1 meaning
+e	gorinchem	gorinchem	1 meaning
+j	ございます	gozaimasu	「ある」の丁寧語。
+j	ごちゃまぜ	gochamaze	mess; jumble; muddle; cha…
+j	ごちゃ混ぜ	gochamaze	
+j	ごまかし	gomakashi	cheating; deception; sham
+j	ごみむし	gomimushi	コウチュウ目陸生オサムシ類の中のオサムシ亜科、セス…
+j	ごゆっくり	goyukkuri	please take your time
+j	ごろつき	gorotsuki	破落戸: a rogue, a vagabond,…
+j	ごろつく	gorotsuku	
+j	ごわつく	gowatsuku	紙や布が強張った感じがする。
+j	ご両親	goryoshin	(both) parents
+j	ご意見番	goikenban	official adviser
+j	ご機嫌よう	gokigenyo	how do you do? how are yo…
+j	ゴスプラン	gosupuran	
+j	ゴゾチーズ	gozochizu	
+j	ゴットホープ	gottohopu	ヌークの旧称。
+j	ゴッドゲーム	goddogemu	
+j	ゴッドファーザー	goddofaza	
+j	ゴツコラ	gotsukora	
+j	ゴニオメーター	goniometa	
+j	ゴミパンダ	gomipanda	trash panda
+j	ゴミ漁り	gomiisari	
+j	ゴムバンド	gomubando	
+j	ゴムボック	gomubokku	gömböc
+j	ゴム消し	gomukeshi	消しゴム。
+j	ゴリツィア	goritsuia	
+j	ゴルジ体	gorujitai	Golgi apparatus; Golgi bo…
+j	ゴンサレス	gonsaresu	
+j	ゴンドワナ	gondowana	古生代から中生代に存在した超大陸。現在の南アメリカ…
+j	ゴーストップ	gosutoppu	
+j	ゴールキック	gorukikku	
+j	ゴールコンダ	gorukonda	
+j	互変異性	gohenisei	
+j	五加皮酒	gokahishu	薬酒。五加皮を高粱酒につけたもの。
+j	五十八	gojuhachi	fifty-eight; 58
+j	五十音順	gojuonjun	the sort order for kana (…
+j	五大明王	godaimyoo	the Five Wisdom Kings in …
+j	五大陸	gotairiku	アジア大陸、アフリカ大陸、ヨーロッパ大陸、アメリカ…
+j	五寸釘	gosunkugi	nail that is 5 sun (寸(すん)…
+j	五島列島	gotoretto	Gotō Islands (an archipel…
+j	五星紅旗	goseikoki	Five-star Red Flag, the f…
+j	五等爵	gotoshaku	synonym of 五爵 (goshaku)
+j	五臓六腑	gozoroppu	the five zang and six fu …
+j	五角形	gokakukei	a pentagon
+j	五輪の塔	gorinnoto	
+j	五重水素	gojusuiso	水素の放射性同位体の一つ。原子核は陽子1個と中性子…
+j	午前様	gozensama	酒宴や遊興などで午前零時を過ぎて帰宅すること。また…
+j	合同コンパ	godokonpa	joint party; combined par…
+j	合成ゴム	goseigomu	
+j	合流する	goryusuru	
+j	合理主義	gorishugi	rationalism
+j	強力犯	gorikihan	暴行・脅迫を用いる犯罪。殺人、傷害、強盗、強姦、放…
+j	強姦する	gokansuru	
+j	御前様	gozensama	大名、高家、高官に対する尊敬語。
+j	御用納め	goyoosame	官公庁でその年の一般的な業務を終えること。
+j	御用達	goyotatsu	官庁（とくに宮中）などに出入りし、受注したものを納…
+j	御苦労さん	gokurosan	相手の労苦を労う語で「御苦労様」よりくだけた表現。
+j	御親兵	goshinpei	1871年から翌年にかけて設置された天皇を護衛する…
+j	御託宣	gotakusen	くどくどともったいぶって言うこと。御託。
+j	拷問する	gomonsuru	
+j	業が深い	gogafukai	deeply sinful
+j	業を沸かす	goowakasu	to lose one's temper, to …
+j	業を煮やす	gooniyasu	to lose one's temper, to …
+j	極月	gokugetsu	（月が極まることから）十二月の異称。
+j	獄中で	gokuchude	
+j	胡麻油	gomaabura	sesame oil
+j	語呂合わせ	goroawase	pun, play on words
+j	語彙項目	goikomoku	
+j	語源学	gogengaku	etymology (study of the h…
+j	語源的	gogenteki	etymological
+j	誤差関数	gosakansu	erf(x)=2/(√π)∫₀ˣexp(-t²),…
+j	誤算する	gosansuru	
+j	誤解する	gokaisuru	
+j	誤魔化し	gomakashi	
+k	고갯길	gogaetgil	
+k	고건물	gogeonmul	
+k	고고학자	gogohakja	고고학과 관련된 것을 연구하는 사람.
+k	고급품	gogeuppum	가격과 질적인 면에서 매우 고급스러운 물건이나…
+k	고기결	gogigyeol	'고깃결'의 북한말.
+k	고기떡	gogitteok	A side dish prepared from…
+k	고기완자	gogiwanja	meatball, quenelle, meat …
+k	고기후학	gogihuhak	palaeoclimatology
+k	고깃관	gogitgwan	'고깃간'의 비표준어.
+k	고나리질	gonarijil	micromanagement
+k	고냉기	gonaenggi	
+k	고넁이	gonyaengi	
+k	고단하다	godanhada	몸이 지쳐서 느른하다.
+k	고달픈	godalpeun	'고달프다'의 관형사형.
+k	고달픔	godalpeum	'고달프다'의 명사형.
+k	고달피다	godalpida	to distress one's body or…
+k	고답적	godapjeok	
+k	고대 로마	godaeroma	Ancient Rome
+k	고대적	godaejeok	
+k	고도비만	godobiman	몸무게가 표준 체중의 50%를 넘는 비만.
+k	고독하다	godokhada	to be lonely or isolated
+k	고드름	godeureum	icicle
+k	고등어	godeungeo	mackerel
+k	고랑내	gorangnae	a foul odor, a stench
+k	고래자리	goraejari	
+k	고래잡이	goraejabi	
+k	고랭지	goraengji	
+k	고량주	goryangju	kaoliang (distilled alcoh…
+k	고려말	goryeomal	Koryo-mar, the Korean dia…
+k	고려약	goryeoyak	한약의 북한말.
+k	고립된	goripdoen	
+k	고립적	goripjeok	다른 사람과 만나거나 교류하지 않은.
+k	고립주의	goripjuui	isolationism
+k	고립하다	goriphada	to isolate
+k	고릿하다	gorithada	냄새가 조금 고린 듯하다.
+k	고막염	gomagyeom	
+k	고만두다	gomanduda	
+k	고만하다	gomanhada	상태, 모양, 성질 따위의 정도가 고러하다.
+k	고무보트	gomuboteu	
+k	고문관	gomungwan	a maladapted conscript, a…
+k	고문하다	gomunhada	to torture
+k	고문헌	gomunheon	
+k	고물가게	gomulgage	
+k	고물상	gomulsang	antique shop, junk shop
+k	고물자리	gomuljari	
+k	고민하다	gominhada	to worry, to be concerned
+k	고발장	gobaljang	
+k	고발하다	gobalhada	to charge, to indict, to …
+k	고방오리	gobangori	The Northern pintail, Ana…
+k	고별사	gobyeolsa	
+k	고부랑이	goburangi	
+k	고불딱	gobulttak	
+k	고붓하다	gobuthada	약간 곱은 듯하다.
+k	고블린	gobeullin	
+k	고비 사막	gobisamak	the Gobi Desert (a large …
+k	고뿔앓이	goppulali	'고뿔'의 비표준어.
+k	고사포국	gosapoguk	소가야.
+k	고산기후	gosangihu	
+k	고산유수	gosanyusu	
+k	고서적	goseojeok	
+k	고성기	goseonggi	
+k	고속 도로	gosokdoro	highway, expressway, free…
+k	고속도로	gosokdoro	
+k	고식적	gosikjeok	
+k	고약하다	goyakhada	to be awful, nasty, foul
+k	고양이의	goyangiui	
+k	고영어	goyeongeo	
+k	고유성	goyuseong	
+k	고장물	gojangmul	무엇을 씻거나 빨거나 하여 꽤 더러워진 물.
+k	고정비	gojeongbi	
+k	고조곤히	gojogonhi	'고요하게, 조용하게, 소리 없이'라는 뜻의 …
+k	고조되다	gojodoeda	to tone up; to be raised
+k	고지리학	gojirihak	paleogeography
+k	고집하다	gojiphada	to insist, persist, stick…
+k	고착화	gochakhwa	여건이나 현상이 굳어져 바뀌지 않게 됨.
+k	고체상	gochesang	
+k	고초장	gochojang	
+k	고추가루	gochugaru	고춧가루의 북한말.
+k	고추자지	gochujaji	a young boy's penis
+k	고추장	gochujang	gochujang: a savory and p…
+k	고출산	gochulsan	high birthrate
+k	고치장	gochijang	
+k	고타분히	gotabunhi	'고리타분히'.
+k	고혈압	gohyeorap	high blood pressure; hype…
+k	고희연	gohuiyeon	
+k	곡마단	gongmadan	
+k	곡면	gongmyeon	이차원 공간에서 공이나 원기둥의 겉면과 같은,…
+k	곡선미	gokseonmi	
+k	곤경	gongyeong	trouble, difficulty
+k	곤명	gonmyeong	
+k	골가랑	golgarang	
+k	골갱이	golgaengi	'호미'를 의미하는 제주도 사투리.
+k	골돌과	goldolgwa	
+k	골로 가다	gollogada	to croak, to die
+k	골목길	golmokgil	alley
+k	골뱅이	golbaengi	
+k	골수염	golsuyeom	
+k	골웨이 만	gorweiman	
+k	곰돌이 푸	gomdoripu	
+k	곰배팔	gombaepal	꼬부라져 펴지 못하게 된 팔.
+k	곰비임비	gombiimbi	recurrently, stackingly, …
+k	곰작이다	gomjagida	몸이 둔하고 느리게 조금 움직이다. 또는 몸을…
+k	곰장어	gomjangeo	
+k	곱다랗다	gopdarata	very beautiful (of charac…
+k	곱상어	gopsangeo	
+k	곱이치다	gobichida	
+k	곳간차	gotgancha	
+k	공간의	gongganui	
+k	공격	gonggyeok	attack
+k	공구집	gonggujip	작업복에 달아 공구를 넣어둬 공구를 찾거나 보…
+k	공구함	gongguham	
+k	공군기	gonggungi	공군에 소속되어 있는 항공기.
+k	공기업	gonggieop	
+k	공능	gongneung	
+k	공론가	gongnonga	
+k	공룡	gongnyong	a dinosaur (animal of the…
+k	공매도	gongmaedo	short selling, short sale…
+k	공몰기	gongmolgi	(축구) '드리블'의 북한말.
+k	공무원	gongmuwon	public official; public s…
+k	공배수	gongbaesu	
+k	공벽	gongbyeok	공사 중 말뚝기초 등을 위해 땅에 뚫은 구멍의…
+k	공변	gongbyeon	covariant
+k	공보원	gongbowon	a centre for public infor…
+k	공생	gongsaeng	symbiosis
+k	공성	gongseong	
+k	공수표	gongsupyo	부도수표
+k	공식어	gongsigeo	official language
+k	공약수	gongyaksu	
+k	공영	gongyeong	public management
+k	공예품	gongyepum	handicraft (item), craftw…
+k	공저자	gongjeoja	coauthor
+k	공정	gongjeong	process
+k	공제액	gongjeaek	
+k	공증	gongjeung	
+k	공직자	gongjikja	public officer, governmen…
+k	공짜로	gongjjaro	
+k	공짜의	gongjjaui	
+k	공창	gongchang	workyard, factory yard, s…
+k	공책	gongchaek	notebook, jotter
+k	공천	gongcheon	nomination
+k	공포새	gongposae	
+k	공학도	gonghakdo	공학을 전문적으로 배우거나 연구하는 사람.
+k	공학자	gonghakja	
+k	공화제	gonghwaje	(정치) 공화 제도.
+k	공황	gonghwang	panic; state of panic
+k	공휴일	gonghyuil	public holiday, legal hol…
+k	괴경	goegyeong	
+k	괴냉이	goenaengi	
+k	괴롭힘	goerophim	
+k	괴뢰국	goeroeguk	
+k	괴뢰군	goeroegun	
+k	괴병	goebyeong	원인을 알 수 없는 이상한 병.
+k	괴생이	goesaengi	
+k	괴악적	goeakjeok	이상야릇하고 흉악한.
+k	괴악하다	goeakhada	말이나 행동이 이상야릇하고 흉악하다.
+k	괴얭이	goeyaengi	
+k	굉미리	goengmiri	'학꽁치'의 강원도 사투리.
+k	굉장	goengjang	
+e	go bankrupt	gobankrupt	1 meaning
+e	go commando	gocommando	1 meaning
+e	goalkeeper	goalkeeper	1 meaning
+e	goat cheese	goatcheese	1 meaning
+e	god complex	godcomplex	1 meaning
+e	god emperor	godemperor	1 meaning
+e	god willing	godwilling	1 meaning
+e	gold digger	golddigger	2 meanings
+e	golden calf	goldencalf	1 meaning
+e	golden goal	goldengoal	1 meaning
+e	golden horn	goldenhorn	1 meaning
+e	golden mole	goldenmole	1 meaning
+e	golden rule	goldenrule	1 meaning
+e	golden week	goldenweek	1 meaning
+e	goldilocks	goldilocks	1 meaning
+e	golf course	golfcourse	1 meaning
+e	goniometer	goniometer	1 meaning
+e	gonococcus	gonococcus	1 meaning
+e	good friday	goodfriday	1 meaning
+e	goods train	goodstrain	1 meaning
+e	goods wagon	goodswagon	1 meaning
+e	googolplex	googolplex	1 meaning
+e	gooseberry	gooseberry	1 meaning
+e	gorgonzola	gorgonzola	1 meaning
+e	gothenburg	gothenburg	1 meaning
+e	government	government	2 meanings
+j	ごくまれに	gokumareni	
+j	ございません	gozaimasen	
+j	ござります	gozarimasu	「ある」の丁寧語。
+j	ごしごし	goshigoshi	(scrubbing) hard
+j	ごちゃくちゃ	gochakucha	
+j	ごちゃごちゃ	gochagocha	complaining about various…
+j	ごったがえす	gottagaesu	ひどく混雑する。
+j	ごつごつ	gotsugotsu	ruggedly
+j	ごますりの	gomasurino	
+j	ごみすてば	gomisuteba	ごみを廃棄する場所。
+j	ごみぶくろ	gomibukuro	ごみを入れるための袋。
+j	ごみ収集	gomishushu	
+j	ごみ回収	gomikaishu	
+j	ごみ捨て場	gomisuteba	garbage collection site
+j	ごみ袋	gomibukuro	
+j	ごめんなさい	gomennasai	sorry; I'm sorry; my apol…
+j	ごろごろいう	gorogoroiu	
+j	ご意見箱	goikenbako	
+j	ご神木	goshinboku	
+j	ゴウシュウマンボウ	goshumanbo	ウシマンボウの旧名。
+j	ゴットランド	gottorando	Gotland
+j	ゴビ砂漠	gobisabaku	
+j	ゴマフガモ	gomafugamo	
+j	ゴミのような	gominoyona	
+j	ゴミ捨て場	gomisuteba	
+j	ゴミ袋	gomibukuro	
+j	ゴラン高原	gorankogen	
+j	ゴルフボール	gorufuboru	
+j	ゴーストタウン	gosutotaun	ghost town
+j	ゴールウェイ州	goruweishu	
+j	ゴールウェイ湾	goruweiwan	
+j	ゴールデンアワー	gorudenawa	prime time (block of tele…
+j	ゴールポスト	goruposuto	サッカー、ラグビー、ハンドボールなどでゴールライン…
+j	五分の三	gobunnosan	
+j	五十年代	gojunendai	
+j	五十音仮名	gojuongana	synonym of 片仮名
+j	五右衛門風呂	goemonburo	a bath taken in a barrel …
+j	五月病	gogatsubyo	Depression sometimes seen…
+j	五極管	gokyokukan	pentode (vacuum tube)
+j	五種競技	goshukyogi	pentathlon
+j	五行思想	gogyoshiso	「五行説」を参照。
+j	五行説	gogyosetsu	古代中国で全てのものは五つの要素（木、火、土、金、…
+j	五言古詩	gogonkoshi	漢詩の形式の一つ。一つの句が五言からなる古詩。
+j	合同会社	godogaisha	会社の形態の一つで、出資者と経営者が同一で有限責任…
+j	合同変換	godohenkan	ある図形から合同な図形への変換。
+j	合弁事業	gobenjigyo	
+j	合弁企業	gobenkigyo	
+j	合成樹脂	goseijushi	人工的に合成された高分子の化合物で可塑性を有するも…
+j	合成関数	goseikansu	関数による写像を合成した関数。
+j	合格する	gokakusuru	
+j	合法化する	gohokasuru	
+j	塵捨場	gomisuteba	
+j	後生大事	goshodaiji	religious zeal; taking gr…
+j	御免なさい	gomennasai	
+j	御器噛	gokikaburi	「ごきぶり」の別名。
+j	御座ります	gozarimasu	to go; to come; to be in …
+j	御用商人	goyoshonin	官庁（特に宮中）などに出入りし、受注したものを納入…
+j	御用始め	goyohajime	官公庁でその年の一般的な業務を開始すること。
+j	御神木	goshinboku	
+j	御苦労様	gokurosama	相手の労苦を労う語。
+j	御近所さん	gokinjosan	neighbor
+j	御飯茶碗	gohanjawan	御飯を盛る茶碗。飯椀（飯碗）。
+j	御馳走さん	gochisosan	「御馳走様」よりくだけた丁寧語。
+j	極道者	gokudomono	悪行を重ねている者、放蕩、道楽にふけっている者を罵…
+j	胡麻をする	gomawosuru	
+j	言語道断	gongododan	outrageous
+j	語形変化	gokeihenka	文法的機能の変化や他の語との接合する関係で語形が変…
+j	語源辞典	gogenjiten	語源について解説した辞典。
+j	語音転換	goontenkan	
+j	誤読する	godokusuru	
+j	豪華絢爛	gokakenran	贅沢で光輝き美しいさま。絢爛豪華。
+j	鮴押し屋	gorioshiya	arm-twister
+k	고객님	gogaengnim	customer, client
+k	고객들	gogaekdeul	
+k	고공살이	gogongsari	남의 집살이. 고궁살이라고도 한다.
+k	고교생	gogyosaeng	
+k	고군분투	gogunbuntu	
+k	고기비늘	gogibineul	물고기의 몸을 덮고 있는 비늘.
+k	고기순대	gogisundae	sausage
+k	고깃결	gogitgyeol	고기의 살에 생긴 결.
+k	고깃고깃	gogitgogit	
+k	고깃대다	gogitdaeda	'고깃거리다'.
+k	고니오미터	goniomiteo	
+k	고닥고닥	godakgodak	
+k	고대 국어	godaegugeo	
+k	고대국가	godaegukga	
+k	고대국어	godaegugeo	Old Korean
+k	고대사회	godaesahoe	
+k	고도병	godobyeong	
+k	고독고독	godokgodok	
+k	고동색	godongsaek	bronze colour
+k	고래고래	goraegorae	
+k	고려가사	goryeogasa	
+k	고려가요	goryeogayo	
+k	고려석	goryeoseok	
+k	고려자기	goryeojagi	
+k	고려장	goryeojang	
+k	고려하다	goryeohada	to consider or reflect on…
+k	고령자	goryeongja	
+k	고로드끼	gorodeukki	
+k	고리운동	goriundong	(체조) '링운동'의 북한말.
+k	고립되다	goripdoeda	to be isolated
+k	고릿고릿	goritgorit	
+k	고맙긴요	gomapginyo	
+k	고매굴다	gomaegulda	to respect
+k	고문자학	gomunjahak	
+k	고물고물	gomulgomul	moving slowly in successi…
+k	고물대다	gomuldaeda	'고물거리다'(매우 좀스럽고 느리게 자꾸 움직…
+k	고밀고밀	gomilgomil	
+k	고박고박	gobakgobak	
+k	고박대다	gobakdaeda	
+k	고백록	gobaengnok	
+k	고백하다	gobaekhada	to confess
+k	고별식	gobyeolsik	
+k	고부라지다	goburajida	
+k	고부슴히	gobuseumhi	'고부스름히'의 준말.
+k	고부장히	gobujanghi	
+k	고분고분	gobungobun	말이나 행동이 공손하고 부드러운 모양.
+k	고분대다	gobundaeda	'고분거리다'.
+k	고불고불	gobulgobul	
+k	고불대다	gobuldaeda	'고불거리다'.
+k	고붓고붓	gobutgobut	
+k	고산토끼	gosantokki	
+k	고상하다	gosanghada	
+k	고생대	gosaengdae	초기 식물과 양서류, 초기 파충류가 지배하던 …
+k	고생물	gosaengmul	고대에 살았던 동물과 식물 등을 포함한 생물.
+k	고소권자	gosogwonja	
+k	고시시하다	gosisihada	
+k	고식책	gosikchaek	
+k	고실고실	gosilgosil	털 따위가 기름기가 거의 없이 무질서하고 꽤 …
+k	고심초사	gosimchosa	
+k	고압주사기	goapjusagi	
+k	고양이 밥	goyangibap	
+k	고양이곰	goyangigom	'판다'의 북한말.
+k	고양이과	goyangigwa	
+k	고양이귀	goyangigwi	
+k	고온다습	goondaseup	온도가 높고 습도도 높은 상태.
+k	고용하다	goyonghada	to employ; to hire
+k	고원지대	gowonjidae	plateau, highlands
+k	고위층	gowicheung	
+k	고유문화	goyumunhwa	
+k	고유재산	goyujaesan	
+k	고육지계	goyukjigye	
+k	고육책	goyukchaek	
+k	고의적인	gouijeogin	
+k	고인드립	goindeurip	a joke involving a deceas…
+k	고인류학	goillyuhak	paleoanthropology
+k	고장나다	gojangnada	to be/become broken
+k	고적하다	gojeokhada	외롭고 적적하다.
+k	고전적	gojeonjeok	classical, classic
+k	고정란	gojeongnan	
+k	고정식	gojeongsik	
+k	고정표	gojeongpyo	
+k	고정화	gojeonghwa	
+k	고증학	gojeunghak	
+k	고집이 세다	gojibiseda	
+k	고추같다	gochugatda	
+k	고추나물	gochunamul	St. John's wort (any of s…
+k	고춧가루	gochutgaru	chili powder
+k	고층운	gocheungun	기본운형 10종 중 중층운에 속하며 줄무늬를 …
+k	고치쟝	gochijyang	
+k	고탑탑히	gotaptaphi	'고리탑탑히'.
+k	고트호프	goteuhopeu	
+k	고풀고풀	gopulgopul	
+k	고풀대다	gopuldaeda	
+k	고품질의	gopumjirui	
+k	고학생	gohaksaeng	
+k	고함치다	gohamchida	
+k	고해비밀	gohaebimil	
+k	고향집	gohyangjip	the house located in one'…
+k	고환염	gohwanyeom	
+k	곡괭이	gokgwaengi	쇠로 양쪽에 날을 내고 가운데 난 구멍에 긴 …
+k	곡명	gongmyeong	
+k	곡해하다	gokhaehada	to misconstrue, to misint…
+k	곤두곤두	gondugondu	
+k	곤드와나	gondeuwana	
+k	곤란하다	gollanhada	difficult, hard
+k	곤룡포	gollyongpo	
+k	곤줄박이	gonjulbagi	(학명: Parus varius) 박샛과의 새…
+k	골골하다	golgolhada	
+k	골동반	goldongban	'비빔밥'.
+k	골동품	goldongpum	curio
+k	골든골	goldeungol	
+k	골든아워	goldeunawo	라디오, 텔레비전에서 시청률이 가장 높은 저녁…
+k	골막염	golmagyeom	
+k	골막하다	golmakhada	
+k	골반염	golbanyeom	
+k	골상학	golsanghak	phrenology
+k	골수분자	golsubunja	
+k	골에어리어	goreeorieo	축구, 배구 따위의 경기에서 수비하는 편에게 …
+k	골육종	goryukjong	뼈조직에서 생기는 종양.
+k	골짜구니	goljjaguni	valley, ravine
+k	골타분히	goltabunhi	'고리타분히'의 준말.
+k	골품제도	golpumjedo	
+k	골프공	golpeugong	golf ball
+k	골프장	golpeujang	
+k	골프채	golpeuchae	a golf club (implement)
+k	곰배팔이	gombaepari	꼬부라져 펴지 못하게 된 팔을 가진 사람을 낮…
+k	곰작하다	gomjakhada	
+k	곰질하다	gomjilhada	'곰지락하다'의 준말.
+k	곱등어	gopdeungeo	돌고래의 북한말.
+k	곱박하다	gopbakhada	
+k	곱사등	gopsadeung	
+k	곱삭하다	gopsakhada	
+k	곱살하다	gopsalhada	
+k	곱셈하다	gopsemhada	주어진 둘 이상의 수를 서로 곱하다.
+k	곱실하다	gopsilhada	
+k	곱작하다	gopjakhada	
+k	공경	gonggyeong	respect; deference
+k	공고하다	gonggohada	글로 알리다.
+k	공구장	gonggujang	공구를 보관하는 가구
+k	공급자	gonggeupja	supplier
+k	공깃밥	gonggitbap	공기에 담은 밥.
+k	공리주의	gongnijuui	utilitarianism
+k	공명	gongmyeong	진동하는 계의 진폭이 급격하게 늘어남. 또는 …
+k	공몽히	gongmonghi	이슬비가 많이 내리거나 안개가 몹시 끼어 뽀얗…
+k	공문서	gongmunseo	official document, papers
+k	공범자	gongbeomja	accomplice
+k	공병	gongbyeong	sapper, combat engineer
+k	공부방	gongbubang	study room
+k	공부하다	gongbuhada	to study
+k	공사하다	gongsahada	to do construction work
+k	공상가	gongsangga	dreamer, visionary
+k	공소장	gongsojang	
+k	공소제기	gongsojegi	검사가 형사재판을 청구하는 것.
+k	공손한	gongsonhan	
+k	공손함	gongsonham	
+k	공업화	gongeophwa	industrialization
+k	공연히	gongyeonhi	vainly, in vain, for noth…
+k	공용어	gongyongeo	official language of a co…
+k	공운동	gongundong	(리듬체조) 공을 가지고 하는 체조의 북한말.
+k	공유하다	gongyuhada	to share
+k	공익권	gongikgwon	사단법인의 관리, 운영에 참여하는 것을 내용으…
+k	공작원	gongjagwon	spy; operative
+k	공장주	gongjangju	factory owner
+k	공지하다	gongjihada	to announce
+k	공집합	gongjiphap	원소가 하나도 없는 빈 집합. 기호로는 ∅ 또…
+k	공처가	gongcheoga	
+k	공통어	gongtongeo	
+k	공평	gongpyeong	equity; fairness; imparti…
+k	공포주의	gongpojuui	terrorism
+k	공화국	gonghwaguk	republic
+k	괴괴하다	goegoehada	쓸쓸한 느낌이 들 정도로 아주 고요하다.
+k	괴롭히다	goerophida	to harass; to bully; to t…
+k	괴룹히다	goeruphida	
+k	괴악스레	goeakseure	보기에 괴이하고 흉악한 데가 있게.
+k	괴죄하다	goejoehada	
+k	괴팍하다	goepakhada	
+k	굉렬	goengnyeol	심하게 진동함.
+e	goblin shark	goblinshark	1 meaning
+e	god bless you	godblessyou	1 meaning
+e	gold general	goldgeneral	1 meaning
+e	golden eagle	goldeneagle	1 meaning
+e	golden goose	goldengoose	1 meaning
+e	golden horde	goldenhorde	1 meaning
+e	golden ratio	goldenratio	1 meaning
+e	golden years	goldenyears	1 meaning
+e	good evening	goodevening	1 meaning
+e	good heavens	goodheavens	1 meaning
+e	good morning	goodmorning	1 meaning
+e	good offices	goodoffices	1 meaning
+e	good-looking	goodlooking	1 meaning
+e	good-natured	goodnatured	1 meaning
+e	gordian knot	gordianknot	2 meanings
+e	gospel music	gospelmusic	1 meaning
+e	governorate	governorate	1 meaning
+j	ごうつくばり	gotsukubari	stubborn, greedy
+j	ごうりゃくがな	goryakugana	合略仮名: now obsolete kana l…
+j	ごしきひわ	goshikihiwa	スズメ目アトリ科の鳥類。体長約12センチメートル。
+j	ごちゃにする	gochanisuru	
+j	ごちゃ混ぜの	gochamazeno	
+j	ごっつぁんゴール	gottsangoru	easy goal
+j	ごみをすてる	gomiosuteru	
+j	ごみ屋敷	gomiyashiki	整理整頓がされておらず、ごみだらけとなった家。
+j	ご参考まで	gosankomade	
+j	ご覧になる	goranninaru	to see
+j	ご馳走様	gochisosama	a feast
+j	ゴクラクチョウ	gokurakucho	極楽鳥: a bird of paradise
+j	ゴシキヒワ	goshikihiwa	ごしきひわの学術的表記。
+j	ゴシック体	goshikkutai	the gothic typographic st…
+j	ゴトランド島	gotorandoto	Gotland
+j	ゴルゴンゾーラ	gorugonzora	gorgonzola cheese
+j	ゴルバチョフ	gorubachofu	
+j	ゴルフバッグ	gorufubaggu	golf bag
+j	ゴーストライター	gosutoraita	著作や脚本の代作を行う人。
+j	ゴールのネット	gorunonetto	
+j	ゴールを決める	goruokimeru	
+j	ゴールデンイエロー	gorudeniero	強い赤みのある黄色。
+j	ゴールデンウィーク	gorudenwiku	Golden Week
+j	ゴールデンウイーク	gorudenuiku	ゴールデンウィークの異表記。
+j	ゴールデンゴール	gorudengoru	
+j	ゴールドストーン	gorudosuton	
+j	ゴール得点	gorutokuten	
+j	五十角形	gojukakukei	
+j	五所川原	goshogawara	Goshogawara (a city in Ao…
+j	五智如来	gochinyorai	阿弥陀如来 (あみだにょらい, Amida Nyo…
+j	五畿八道	gokihachido	明治時代初めの地理的な区分で、畿内（大和国、山城国…
+j	五目飯	gomokumeshi	細かく切った鶏肉、魚介、野菜などを炊き込んだ醤油味…
+j	五色鶸	goshikihiwa	a Eurasian goldfinch, Eur…
+j	五輪大会	gorintaikai	近代オリンピックの異称。
+j	五邊形	goshihenkei	
+j	合名会社	gomeigaisha	社員全員が経営にあたる権能を有する一方、会社の債務…
+j	合弁会社	gobengaisha	joint venture
+j	合成洗剤	goseisenzai	laundry detergent
+j	合成清酒	goseiseishu	アルコールにブドウ糖、コハク酸、香料など清酒に近い…
+j	合成皮革	goseihikaku	織布（または不織布）と合成樹脂を組み合わせ天然の皮…
+j	合略仮名	goryakugana	a kana ligature
+j	合資会社	goshigaisha	limited partnership
+j	呉越同舟	goetsudoshu	"bitter enemies in the sa…
+j	宮保鶏丁	gonbaojidin	Kung Pao chicken
+j	巨頭鯨	gondokujira	a short-finned pilot whale
+j	強奪	godatsusuru	to rob; to take by force
+j	強奪する	godatsusuru	
+j	後生だから	goshodakara	
+j	御用学者	goyogakusha	researchers who were empl…
+j	御馳走様	gochisosama	食後の挨拶。
+j	極悪非道	gokuakuhido	人道に外れて惨く、極めて悪いこと、またそのさま。「…
+j	極楽往生	gokurakuojo	absolute pleasure
+j	極楽鳥	gokurakucho	synonym of 風鳥 (fūchō, “bi…
+j	権少納言	gonshonagon	an acting lesser counselo…
+j	語学学校	gogakugakko	留学生などを対象に現地の言語を教授する学校。
+j	語源俗界	gogenzokkai	folk etymology
+j	護国神社	gokokujinja	戦死した軍人を慰霊するために各都道府県に設置される…
+j	護身術	goshinjutsu	the art of self-defense
+j	豪放磊落	gohorairaku	accommodating and unconce…
+j	轟音を立てる	goonotateru	
+j	降三世明王	gozanzemyoo	Trailokyavijaya, the Wisd…
+k	고가철도	gogacheoldo	
+k	고객 지원	gogaekjiwon	
+k	고공답가	gogongdapga	고공답주인가.
+k	고급 언어	gogeupeoneo	
+k	고기압성	gogiapseong	“고기압 순환의~”
+k	고기잡이삵	gogijabisak	
+k	고꾸라지다	gokkurajida	
+k	고대소설	godaesoseol	
+k	고독고독이	godokgodogi	
+k	고독사하다	godoksahada	to die a lonely death
+k	고등고시	godeunggosi	
+k	고래상어	goraesangeo	whale shark
+k	고량소주	goryangsoju	
+k	고려 사람	goryeosaram	ethnic Korean from the fo…
+k	고려속요	goryeosogyo	
+k	고려의학	goryeouihak	
+k	고려인삼	goryeoinsam	
+k	고령군	goryeonggun	경상북도 서남부에 있는 군.
+k	고령화	goryeonghwa	
+k	고롱대다	gorongdaeda	'고로롱대다'의 준말.
+k	고리대금	goridaegeum	
+k	고리타분히	goritabunhi	
+k	고리화하다	gorihwahada	
+k	고무 밴드	gomubaendeu	
+k	고무주머니	gomujumeoni	
+k	고무줄공	gomujulgong	(권투) '펀칭볼'의 북한말.
+k	고문서학	gomunseohak	
+k	고발문학	gobalmunhak	
+k	고부랑길	goburanggil	
+k	고붓고붓이	gobutgobusi	
+k	고사성어	gosaseongeo	chengyu, a Classical Chin…
+k	고산병	gosanbyeong	altitude sickness
+k	고생하다	gosaenghada	to have a hard time, to g…
+k	고속버스	gosokbeoseu	express bus
+k	고슴도치	goseumdochi	a hedgehog, particularly …
+k	고시가격	gosigagyeok	
+k	고양이고기	goyangigogi	
+k	고양잇과	goyangitgwa	
+k	고이치아강	goichiagang	Palaeoheterodonta (mussel…
+k	고장이 나다	gojanginada	
+k	고전 음악	gojeoneumak	
+k	고전고대	gojeongodae	
+k	고정급	gojeonggeup	
+k	고정된	gojeongdoen	
+k	고정우표	gojeongupyo	보통우표의 북한말.
+k	고정적	gojeongjeok	
+k	고정하다	gojeonghada	노여움, 흥분을 가라앉히다.
+k	고졸기 미소	gojolgimiso	
+k	고지랑물	gojirangmul	
+k	고지식하다	gojisikhada	to be self-righteous; to …
+k	고진감래	gojingamnae	(사자성어) 고생 끝에 낙이 온다.
+k	고질병	gojilbyeong	A chronic disease, a dise…
+k	고추기름	gochugireum	
+k	고추냉이	gochunaengi	
+k	고출력	gochullyeok	
+k	고취쟝	gochwijyang	
+k	고타분하다	gotabunhada	'고리타분하다'의 준말.
+k	고통받다	gotongbatda	
+k	고티힐후다	gotihilhuda	힘써 고치다, 애써 고치다.
+k	고학년	gohangnyeon	높은 학년. 흔히 초등학교 5~6학년을 이른다.
+k	고혈하다	gohyeolhada	가족이나 친척이 없어 외롭다.
+k	곡물상	gongmulsang	
+k	곡절 부호	gokjeolbuho	circumflex
+k	곤독대다	gondokdaeda	
+k	곤돌대다	gondoldaeda	
+k	곤충류	gonchungnyu	
+k	곤충학	gonchunghak	entomology
+k	곧추치기	gotchuchigi	(권투) '스트레이트'의 북한말.
+k	골골대다	golgoldaeda	'골골거리다'(병이 오래되거나 몸이 약하여 시…
+k	골관절	golgwanjeol	
+k	골든 타임	goldeuntaim	
+k	골디락스	goldirakseu	
+k	골싹하다	golssakhada	담긴 것이 가득하지는 아니하나 거의 다 찬 듯…
+k	골쑴하다	golssumhada	
+k	골을 넣다	goreulneota	
+k	골절상	goljeolsang	
+k	골탑탑히	goltaptaphi	'고리탑탑히'의 준말.
+k	골포스트	golposeuteu	
+k	골프 카트	golpeukateu	
+k	곰 인형	gominhyeong	synonym of 테디 베어 (tedi be…
+k	곰보딱지	gombottakji	'곰보'의 강원도 사투리.
+k	곰살갑다	gomsalgapda	
+k	곰상하다	gomsanghada	
+k	곰실대다	gomsildaeda	'곰실거리다'.
+k	곰작대다	gomjakdaeda	'곰작거리다'.
+k	곰질대다	gomjildaeda	'곰질거리다'.
+k	곰틀하다	gomteulhada	
+k	곱사등이	gopsadeungi	
+k	곱사연어	gopsayeoneo	The humpback salmon, Onch…
+k	곱삭대다	gopsakdaeda	
+k	곱슬하다	gopseulhada	털이나 실 따위가 고부라지게 말려 있다.
+k	곱실대다	gopsildaeda	'곱실거리다'.
+k	곱작대다	gopjakdaeda	'곱작거리다'.
+k	곱창구이	gopchanggui	gopchang gui (gopchang)
+k	곱하기하다	gophagihada	주어진 수를 다른 수로 거듭하여 그 만큼 더 …
+k	공간적	gongganjeok	
+k	공갈범	gonggalbeom	
+k	공갈하다	gonggalhada	to threaten
+k	공감하다	gonggamhada	상대방과 같은 감정을 느끼다. 혹은 상대방의 …
+k	공개하다	gonggaehada	to make something or some…
+k	공격기	gonggyeokgi	
+k	공격수	gonggyeoksu	
+k	공공재	gonggongjae	
+k	공군 기지	gonggungiji	
+k	공군기지	gonggungiji	비행장을 중심으로 한 공군 부대의 작전과 보급…
+k	공기밀도	gonggimildo	단위 부피 중에 포함된 공기의 질량.
+k	공기조화	gonggijohwa	
+k	공기총	gonggichong	
+k	공덕심	gongdeoksim	
+k	공동체	gongdongche	community
+k	공민권	gongmingwon	civil rights, citizenship
+k	공산당	gongsandang	communist party
+k	공산주의	gongsanjuui	communism
+k	공소시효	gongsosihyo	범죄가 발생한 후 상당한 시간이 지나 더 이상…
+k	공손하다	gongsonhada	polite, courteous, well-m…
+k	공수부대	gongsubudae	airborne unit
+k	공식적	gongsikjeok	official, formal
+k	공심채	gongsimchae	water spinach (Ipomoea aq…
+k	공언하다	gongeonhada	to prattle, to spew meani…
+k	공원 도로	gongwondoro	
+k	공작부인	gongjakbuin	
+k	공작석	gongjakseok	수산화 탄화 구리로 이루어져 있으며, 초록색을…
+k	공작자리	gongjakjari	
+k	공정가	gongjeongga	fair price
+k	공정사	gongjeongsa	engineer
+k	공존하다	gongjonhada	to coexist
+k	공증인	gongjeungin	notary public; notary
+k	공창가	gongchangga	a red-light district
+k	공포증	gongpojeung	phobia
+k	공표하다	gongpyohada	to announce (publicly), t…
+k	공허하다	gongheohada	to be void; to be empty
+k	공화당	gonghwadang	
+k	공화주의	gonghwajuui	
+k	괴기소설	goegisoseol	
+k	괴담이설	goedamiseol	
+k	괴로와하다	goerowahada	
+k	괴로워하다	goerowohada	외적 및 심적의 고통을 받다.
+k	굉장히	goengjanghi	very, greatly
+k	굉활히	goenghwalhi	몹시 크고 넓게.
+e	gobbledygook	gobbledygook	1 meaning
+e	god the father	godthefather	1 meaning
+e	golan heights	golanheights	1 meaning
+e	gold medalist	goldmedalist	1 meaning
+e	gold standard	goldstandard	1 meaning
+e	golden jackal	goldenjackal	1 meaning
+e	golden oriole	goldenoriole	1 meaning
+e	golden shower	goldenshower	1 meaning
+e	goldfish bowl	goldfishbowl	1 meaning
+e	good riddance	goodriddance	1 meaning
+e	gorno-altaysk	gornoaltaysk	1 meaning
+e	governmental	governmental	1 meaning
+j	ごくつぶし	gokutsubushi	他人の役に立つような仕事もせず、飯を食うばかりの者。
+j	ございました	gozaimashita	
+j	ごちゃごちゃ言う	gochagochaiu	
+j	ごめんください	gomenkudasai	
+j	ご存知である	gozonjidearu	
+j	ゴクラクハゼ	gokurakuhaze	よしのぼりの一種。魚類学者の田中茂穂が命名した。学…
+j	ゴブリンシャーク	goburinshaku	ミツクリサメの一種。
+j	ゴルフクラブ	gorufukurabu	golf club
+j	ゴーイングコンサーン	goingukonsan	継続企業。
+j	ゴールデンタイム	gorudentaimu	prime time (the block of …
+j	ゴールデンモンキー	gorudenmonki	金糸猴の別称。
+j	ゴールドコースト	gorudokosuto	
+j	ゴールドブラス	gorudoburasu	金管楽器などに使われる銅が約85パーセント、亜鉛が…
+j	ゴールドラッシュ	gorudorasshu	金鉱が発見された場所へ、一攫千金を夢見た人々が大挙…
+j	五指に入る	goshinihairu	to be among the top 5
+j	五段活用	godankatsuyo	a verbal conjugation clas…
+j	五畿七道	gokishichido	律令制の行政区画で畿内（大和国、山城国、河内国、和…
+j	五目並べ	gomokunarabe	白と黒の碁石を碁盤に交互に並べていき、縦、横、斜め…
+j	五花八門	gokahachimon	変化が激しいこと。
+j	合成の誤謬	goseinogobyu	個人や会社などの各個体が自身にとっては正しく合理的…
+j	合理主義者	gorishugisha	合理主義の立場をとりそれを主張する者。
+j	後撰和歌集	gosenwakashu	the second of the 勅撰和歌集 (…
+j	御愁傷様	goshushosama	身内を亡くした者に対し、気の毒に思うさま。
+j	極彩色	gokusaishiki	dazzling variety of brigh…
+j	極楽浄土	gokurakujodo	Amitabha’s Pure Land
+j	穀潰し	gokutsubushi	bum; idler; deadbeat
+j	胡麻斑雀	gomafusuzume	
+j	言語進退	gongoshintai	言葉と動き。話すこととやること。
+j	誤嚥性肺炎	goenseihaien	食物や飲料が肺に入ったことで生じる肺炎。
+j	護身スプレー	goshinsupure	synonym of 護身用スプレー (goshi…
+j	鮴押しする	gorioshisuru	
+k	고공병	gogongbyeong	
+k	고관대작	gogwandaejak	
+k	고급포장	gogeuppojang	
+k	고기작대다	gogijakdaeda	'고기작거리다'.
+k	고깃거리다	gogitgeorida	고김살이 생기게 함부로 자꾸 고기다.
+k	고대 이집트	godaeijipteu	
+k	고대영어	godaeyeongeo	
+k	고동물학	godongmulhak	paleozoology
+k	고드러지다	godeureojida	
+k	고들고들	godeulgodeul	
+k	고등수학	godeungsuhak	
+k	고등어과	godeungeogwa	Scombridae
+k	고등어구이	godeungeogui	grilled mackerel, godeung…
+k	고또렬도	gottoryeoldo	일본의 '고토 열도'의 북한말.
+k	고랭증	goraengjeung	
+k	고량진미	goryangjinmi	
+k	고령가야	goryeonggaya	한국의 역사에서, 경상도 진주 혹은 상주 일대…
+k	고로록대다	gororokdaeda	
+k	고롱고롱	goronggorong	'고로롱고로롱'의 준말.
+k	고리고리하다	gorigorihada	
+k	고리탑탑히	goritaptaphi	
+k	고린도후서	gorindohuseo	
+k	고명하다	gomyeonghada	to be esteemed
+k	고무락대다	gomurakdaeda	'고무락거리다'.
+k	고무작대다	gomujakdaeda	
+k	고무찰흙	gomuchalheuk	주원료인 폴리염화 비닐로 만든 찰흙.
+k	고물거리다	gomulgeorida	매우 좀스럽고 느리게 자꾸 움직이다.
+k	고박거리다	gobakgeorida	
+k	고보수주의자	gobosujuuija	
+k	고부라들다	goburadeulda	
+k	고부랑하다	goburanghada	
+k	고부슴하다	gobuseumhada	'고부스름하다'의 준말.
+k	고부장하다	gobujanghada	조금 고부라져 있다.
+k	고분거리다	gobungeorida	공손하고 부드럽게 행동하다.
+k	고분고분히	gobungobunhi	'고분고분'.
+k	고불거리다	gobulgeorida	이리저리 고부라지다.
+k	고산식물	gosansingmul	
+k	고상고상	gosanggosang	
+k	고선명	goseonmyeong	
+k	고성능	goseongneung	
+k	고속철도	gosokcheoldo	
+k	고속화도로	gosokhwadoro	
+k	고스란하다	goseuranhada	건드리지 아니하여 조금도 축이 나거나 변하지 …
+k	고슬고슬	goseulgoseul	
+k	고식물학	gosingmulhak	paleobotany
+k	고심참담	gosimchamdam	
+k	고양고양	goyanggoyang	'고이고이'를 의미하는 제주도 사투리.
+k	고양이 같다	goyangigatda	
+k	고양이 먹이	goyangimeogi	
+k	고양이 사료	goyangisaryo	
+k	고양이고래	goyangigorae	The melon-headed whale, P…
+k	고용계약	goyonggyeyak	
+k	고유명사	goyumyeongsa	proper noun
+k	고육지책	goyukjichaek	
+k	고인류학자	goillyuhakja	
+k	고저장단	gojeojangdan	
+k	고정 자산	gojeongjasan	
+k	고정되다	gojeongdoeda	to be fixed, stationary, …
+k	고정자본	gojeongjabon	
+k	고정자산	gojeongjasan	
+k	고종사촌	gojongsachon	
+k	고집불통	gojipbultong	Implacable stubbornness; …
+k	고참병	gochambyeong	veteran
+k	고체연료	gocheyeollyo	
+k	고탑탑하다	gotaptaphada	
+k	고풀거리다	gopulgeorida	
+k	고해성사	gohaeseongsa	(종교)
+k	곡면체	gongmyeonche	
+k	곡예비행	gogyebihaeng	
+k	곤독곤독	gondokgondok	
+k	곤돌곤돌	gondolgondol	
+k	곤드라지다	gondeurajida	
+k	곤드레하다	gondeurehada	술이나 잠에 몹시 취하여 정신을 차리지 못하고…
+k	곤득대다	gondeukdaeda	
+k	곤들대다	gondeuldaeda	
+k	곤들매기	gondeulmaegi	The Dolly Varden trout, S…
+k	곤봉체조	gonbongchejo	
+k	곤충관	gonchunggwan	
+k	골격근	golgyeokgeun	
+k	골결핵	golgyeolhaek	
+k	골계소설	golgyesoseol	
+k	골드핀치	goldeupinchi	참새목 되새과의 새. 몸길이는 12cm이다. …
+k	골든 위크	goldeunwikeu	
+k	골막골막	golmakgolmak	
+k	골칫거리	golchitgeori	trouble, headache (an inc…
+k	골타분하다	goltabunhada	'고리타분하다'의 준말.
+k	곰실곰실	gomsilgomsil	swarmingly; while moving …
+k	곰작곰작	gomjakgomjak	repeatedly moving slowly …
+k	곰지락하다	gomjirakhada	몸이 천천히 좀스럽게 움직이다. 또는 몸을 천…
+k	곰질곰질	gomjilgomjil	'곰지락곰지락'의 준말.
+k	곰틀대다	gomteuldaeda	'곰틀거리다'.
+k	곱박곱박	gopbakgopbak	
+k	곱삭곱삭	gopsakgopsak	
+k	곱슬머리	gopseulmeori	curly hair
+k	곱신곱신	gopsingopsin	
+k	곱실곱실	gopsilgopsil	자꾸 고개나 허리를 가볍게 구부렸다 펴는 모양.
+k	곱작곱작	gopjakgopjak	
+k	공갈빵	gonggalppang	속이 텅 비고 겉만 부풀게 구운 중국식 빵을 …
+k	공갈치다	gonggalchida	to threaten
+k	공개되다	gonggaedoeda	to be opened to the public
+k	공공부조	gonggongbujo	가난한 사람, 몸이 불편한 사람, 나이가 많은…
+k	공공하다	gonggonghada	
+k	공교롭다	gonggyoropda	to be strangely coinciden…
+k	공급하다	gonggeuphada	to supply
+k	공기기둥	gonggigidung	
+k	공기덩이	gonggideongi	공기의 성질을 설명하기 위하여 사용되는 가상적…
+k	공덕동	gongdeokdong	Gongdeok-dong (an adminis…
+k	공몽하다	gongmonghada	이슬비가 많이 내리거나 안개가 몹시 끼어 뽀얗…
+k	공민증	gongminjeung	citizenship card
+k	공부벌레	gongbubeolle	wonk, nerd, an overly stu…
+k	공빼앗기	gongppaeatgi	(구기) '인터셉트(가로채기)'의 북한말.
+k	공성계	gongseonggye	Empty Fort Strategy (stra…
+k	공수병	gongsubyeong	hydrophobia
+k	공습하다	gongseuphada	to do an air raid
+k	공시최고	gongsichoego	
+k	공역예보	gongyeokyebo	항공기의 안전과 경제적인 운항을 위하여 공역에…
+k	공연장	gongyeonjang	
+k	공연하다	gongyeonhada	관객들에게 연극을 보여주다.
+k	공원개구	gongwongaegu	
+k	공작기계	gongjakgigye	
+k	공작나비	gongjangnabi	European peacock (Inachis…
+k	공장장	gongjangjang	plant manager, factory ma…
+k	공주병	gongjubyeong	princess sickness (tenden…
+k	공중제비	gongjungjebi	somersault
+k	공통인수	gongtonginsu	두 개 이상의 수 또는 식에 공통되는 인수.
+k	공통적	gongtongjeok	common, shared
+k	공통점	gongtongjeom	commonality
+k	공통하다	gongtonghada	둘 또는 그 이상의 여럿 사이에 두루 통하고 …
+k	공판정	gongpanjeong	
+k	공항예보	gonghangyebo	특정 기간(보통 9시간에서 24시간)동안 공항…
+k	괴석기초	goeseokgicho	
+k	괴현상	goehyeonsang	
+k	굉굉히	goenggoenghi	
+e	good afternoon	goodafternoon	1 meaning
+e	good samaritan	goodsamaritan	2 meanings
+j	ごみ収集車	gomishushusha	
+j	ごゆっくりする	goyukkurisuru	
+j	ご存じの通り	gozonjinotori	
+j	ご心配なく	goshinpainaku	
+j	ご案内の通り	goannainotori	
+j	ご馳走になる	gochisoninaru	
+j	ゴシック式	goshikkushiki	ゴシックによる芸術様式。
+j	ゴスペルソング	gosuperusongu	gospel music, gospel song
+j	五七日	goshichinichi	死去からその日を含めて35日目（に行われる法要）。
+j	五十歩百歩	gojippohyappo	pot calling the kettle bl…
+j	五色野路子	goshikinojiko	a painted bunting, Passer…
+j	合成甘味料	goseikanmiryo	「人工甘味料」を参照。
+j	呉牛喘月	gogyuzengetsu	
+j	御都合主義	gotsugoshyugi	定まった意見を持たずその場やその時の状況に応じて自…
+j	極楽鳥花	gokurakuchoka	bird of paradise (flower)
+j	極超音速	gokuchoonsoku	
+j	権の少納言	gonnoshonagon	
+j	語形変化表	gokeihenkahyo	
+j	豪雪地帯	gosetsuchitai	豪雪地帯対策特別措置法に基づき、住民の生活の向上や…
+k	고가사다리차	gogasadaricha	
+k	고공비행	gogongbihaeng	
+k	고금동서	gogeumdongseo	all times and all places
+k	고급동작	gogeupdongjak	(체조, 무용) '난이도가 높은 기술'의 북한…
+k	고급장교	gogeupjanggyo	
+k	고기압 중심	gogiapjungsim	고기압의 중심부근에서 기압, 또는 고도가 가장…
+k	고깔해파리	gokkalhaepari	Portuguese man-of-war
+k	고대 그리스	godaegeuriseu	Ancient Greece
+k	고대 한국어	godaehangugeo	synonym of 고대국어(古代國語) (Go…
+k	고대광실	godaegwangsil	
+k	고도성장	godoseongjang	
+k	고등교육	godeunggyoyuk	higher education
+k	고등학교	godeunghakgyo	high school
+k	고로롱대다	gororongdaeda	'고로롱거리다'.
+k	고롱거리다	goronggeorida	'고로롱거리다'의 준말.
+k	고르곤졸라	goreugonjolla	
+k	고르바쵸프	goreubachopeu	
+k	고리타분하다	goritabunhada	냄새가 신선하지 못하고 역겹게 고리다.
+k	고맙습니다	gomapseumnida	thank you; formal polite …
+k	고발정신	gobaljeongsin	
+k	고백문학	gobaengmunhak	
+k	고백성사	gobaekseongsa	
+k	고부라트리다	goburateurida	'고부라뜨리다'.
+k	고부랑대다	goburangdaeda	'고부랑거리다'.
+k	고부스름히	gobuseureumhi	
+k	고분벽화	gobunbyeokhwa	
+k	고불딱하다	gobulttakhada	몸을 느리게 고부렸다 펴다.
+k	고불락대다	gobullakdaeda	
+k	고불탕하다	gobultanghada	
+k	고생물학	gosaengmulhak	paleontology
+k	고생태학	gosaengtaehak	paleoecology
+k	고성방가	goseongbangga	
+k	고수련하다	gosuryeonhada	아픈 사람의 시중을 들어주다.
+k	고시랑대다	gosirangdaeda	'고시랑거리다'.
+k	고식물학자	gosikmulhakja	
+k	고양이 앞에 쥐	goyangiapejwi	무서운 사람 앞에서 설설 기면서 꼼짝 못한다는…
+k	고자미동국	gojamidongguk	소가야.
+k	고저 악센트	gojeoaksenteu	pitch accent
+k	고전라틴어	gojeollatineo	
+k	고전역학	gojeonyeokhak	
+k	고정비용	gojeongbiyong	
+k	고정재산	gojeongjaesan	
+k	고추돌고래	gochudolgorae	northern right whale dolp…
+k	고혈단신	gohyeoldansin	육친이 없이 홀로 된 몸.
+k	고형사료	gohyeongsaryo	
+k	곡선운동	gokseonundong	
+k	곡창지대	gokchangjidae	breadbasket
+k	곤독거리다	gondokgeorida	
+k	곤돌거리다	gondolgeorida	
+k	곤충류의	gonchungnyuui	
+k	곧은창자	godeunchangja	The rectum
+k	골가랑하다	golgaranghada	
+k	골감소증	golgamsojeung	
+k	골골거리다	golgolgeorida	병이 오래되거나 몸이 약하여 시름시름 자주 앓…
+k	골육상잔	goryuksangjan	(사자성어) 같은 피를 나눈 사람끼리, 다시 …
+k	골육지정	goryukjijeong	
+k	골탑탑하다	goltaptaphada	'고리탑탑하다'의 준말.
+k	곰실거리다	gomsilgeorida	작은 벌레 따위가 한데 어우러져 조금씩 굼뜨게…
+k	곰작거리다	gomjakgeorida	몸이 둔하고 느리게 조금씩 자꾸 움직이다. 또…
+k	곰지락대다	gomjirakdaeda	'곰지락거리다'.
+k	곰질거리다	gomjilgeorida	'곰지락거리다'의 준말.
+k	곰팡이가 핀	gompangigapin	
+k	곱삭거리다	gopsakgeorida	
+k	곱실거리다	gopsilgeorida	고개나 허리를 자꾸 가볍게 고푸렸다 펴다.
+k	곱작거리다	gopjakgeorida	잇따라 머리를 숙이거나 몸을 가볍게 굽히다.
+k	공격적	gonggyeokjeok	적이나 상대를 무찌르려 앞으로 나아가는.
+k	공격전	gonggyeokjeon	offensive war
+k	공격하다	gonggyeokhada	to attack
+k	공급되다	gonggeupdoeda	to be supplied
+k	공기 조화기	gonggijohwagi	'에어컨'을 전문적으로 이르는 말.
+k	공기보총	gonggibochong	(군사) '공기소총'의 북한말.
+k	공기소총	gonggisochong	
+k	공동격	gongdonggyeok	
+k	공동구매	gongdonggumae	많은 양을 주문하여 저렴한 값에 물건을 살 수…
+k	공동묘지	gongdongmyoji	
+k	공멈추기	gongmeomchugi	(축구) '트래핑'의 북한말.
+k	공산비적	gongsanbijeok	
+k	공산주의자	gongsanjuuija	communist
+k	공성전	gongseongjeon	siege (military blockade …
+k	공연되다	gongyeondoeda	
+k	공익광고	gongikgwanggo	기업이나 단체가 공공의 이익을 목적으로 하는 …
+k	공작고사리	gongjakgosari	
+k	공정지가	gongjeongjiga	
+k	공정하다	gongjeonghada	just, fair
+k	공주님 안기	gongjunimangi	
+k	공중누각	gongjungnugak	(사자성어) 공중에 뜬 집. 근거가 없는 터무…
+k	공중태기	gongjungtaegi	'엉덩방아'의 강원도 사투리.
+k	공증하다	gongjeunghada	to notarize
+k	공청회	gongcheonghoe	
+k	공쳐내기	gongcheonaegi	(농구) 공격하는 상대편이 공을 가지고 드리블…
+k	공통되다	gongtongdoeda	둘 또는 그 이상의 여럿 사이에 두루 통하고 …
+k	괴까다롭다	goekkadaropda	
+k	괴뢰 정부	goeroejeongbu	
+k	괴죄죄하다	goejoejoehada	
+k	굉장하다	goengjanghada	wonderful, amazing, great…
+k	굉활하다	goenghwalhada	몹시 크고 넓다.
+e	golden pheasant	goldenpheasant	1 meaning
+e	golden rain tree	goldenraintree	1 meaning
+e	golden triangle	goldentriangle	1 meaning
+e	golgi apparatus	golgiapparatus	1 meaning
+e	good-for-nothing	goodfornothing	2 meanings
+e	government bond	governmentbond	1 meaning
+j	ゴンドラの船頭	gondoranosendo	
+j	ゴールデンゲート橋	gorudengetokyo	synonym of ゴールデン・ゲート・ブリッジ…
+j	五類感染症	goruikansensho	感染症法において季節性インフルエンザ、エイズ、麻疹…
+j	合理的配慮	goritekihairyo	障害者から社会的障壁を取り除くために、過度な負担と…
+j	胡麻斑海豹	gomafuazarashi	a spotted seal
+j	護身用スプレー	goshinyosupure	self-defence spray
+k	고객 서비스	gogaekseobiseu	
+k	고고영정	gogoyeongjeong	
+k	고기 맛본 중	gogimatbonjung	금지된 쾌락을 뒤늦게 맛보고 재미를 붙인 사람…
+k	고기겹빵	gogigyeopppang	hamburger (sandwich)
+k	고기숨구멍	gogisumgumeong	gill (breathing organ of …
+k	고기작거리다	gogijakgeorida	고김살이 생기게 자꾸 고기다.
+k	고기작고기작	gogijakgogijak	
+k	고깃고깃하다	gogitgogithada	고김살이 많이 져 있다.
+k	고꾸라트리다	gokkurateurida	'고꾸라뜨리다'.
+k	고니시유키나가	gonisiyukinaga	
+k	고닥고닥하다	godakgodakhada	
+k	고도변화도	godobyeonhwado	보통 500hpa 상층일기도에서 등고도선의 시…
+k	고독고독하다	godokgodokhada	물기 있는 물건이 마르거나 얼어서 단단히 굳어…
+k	고동물학자	godongmulhakja	
+k	고등동물	godeungdongmul	
+k	고등법원	godeungbeobwon	
+k	고등식물	godeungsingmul	
+k	고로록거리다	gororokgeorida	
+k	고로록고로록	gororokgororok	
+k	고리대금업	goridaegeumeop	
+k	고리탑탑하다	goritaptaphada	몹시 고리타분하다.
+k	고리틀운동	goriteurundong	(체조) '안마'의 북한말.
+k	고리화 반응	gorihwabaneung	
+k	고린도전서	gorindojeonseo	
+k	고립된 언어	goripdoeneoneo	비교언어학적으로 친족 관계가 아직 밝혀지지 않…
+k	고릿고릿하다	goritgorithada	
+k	고무 젖꼭지	gomujeotkkokji	
+k	고무락거리다	gomurakgeorida	매우 조금씩 느리게 자꾸 움직이다.
+k	고무락고무락	gomurakgomurak	wrigglingly; squirmingly;…
+k	고무작거리다	gomujakgeorida	
+k	고무작고무작	gomujakgomujak	
+k	고무젖꼭지	gomujeotkkokji	
+k	고물고물하다	gomulgomulhada	
+k	고밀고밀하다	gomilgomilhada	
+k	고바야시박쥐	gobayasibakjwi	The Kobayashi's bat (Epte…
+k	고박고박하다	gobakgobakhada	
+k	고보수주의적	gobosujuuijeok	
+k	고부라뜨리다	goburatteurida	고부라지게 하다.
+k	고분고분하다	gobungobunhada	
+k	고불고불하다	gobulgobulhada	줄, 선, 길 등이 이리저리 구부러진.
+k	고불딱대다	gobulttakdaeda	
+k	고붓고붓하다	gobutgobuthada	여럿이 다 약간 곱은 듯하다.
+k	고실고실하다	gosilgosilhada	
+k	고이 잠드소서	goijamdeusoseo	
+k	고지혈증	gojihyeoljeung	hyperlipidemia
+k	고집스럽다	gojipseureopda	to be stubborn
+k	고풀고풀하다	gopulgopulhada	
+k	고풀딱대다	gopulttakdaeda	
+k	곤득거리다	gondeukgeorida	
+k	곤득곤득	gondeukgondeuk	
+k	곤들거리다	gondeulgeorida	
+k	곤들곤들	gondeulgondeul	
+k	골다공증	goldagongjeung	
+k	골드코스트	goldeukoseuteu	
+k	골목상권	golmoksanggwon	대로변이 아닌 주택가 깊숙한 곳의 상업 지역.
+k	골싹골싹	golssakgolssak	
+k	골쑴골쑴	golssumgolssum	
+k	골잎원추리	gollibwonchuri	Hemerocallis coreana, a s…
+k	골판지 상자	golpanjisangja	
+k	곰상곰상	gomsanggomsang	
+k	곰틀거리다	gomteulgeorida	몸의 한 부분이 고부라지거나 비틀어지며 자꾸 …
+k	곰틀곰틀	gomteulgomteul	squirmingly with small mo…
+k	곱슬곱슬	gopseulgopseul	
+k	공격어김	gonggyeogeogim	(축구, 럭비) '오프사이드'의 북한말.
+k	공경하다	gonggyeonghada	to respect and admire
+k	공공요금	gonggongyogeum	철도, 우편, 전신, 전화, 수도, 전기, 가…
+k	공공장소	gonggongjangso	
+k	공과상반	gonggwasangban	(사자성어) 공로와 과실이 반반.
+k	공기방석	gonggibangseok	air cushion
+k	공닥공닥	gongdakgongdak	
+k	공변되다	gongbyeondoeda	to be fair, to be equitab…
+k	공변량	gongbyeollyang	
+k	공시당상	gongsidangsang	
+k	공용 계단	gongyonggyedan	
+k	공유결합	gongyugyeolhap	
+k	공작령	gongjangnyeong	
+k	공정 이용	gongjeongiyong	
+k	공정부대	gongjeongbudae	
+k	공즉시색	gongjeuksisaek	
+k	공칠과삼	gongchilgwasam	more good than bad; overa…
+k	공평무사	gongpyeongmusa	
+k	공평하다	gongpyeonghada	fair, just
+k	공포영화	gongpoyeonghwa	horror movie
+k	공항 라운지	gonghangraunji	
+k	공항버스	gonghangbeoseu	
+k	공항특보	gonghangteukbo	기상현상으로 인하여 항공기 운항에 중대한 지장…
+k	공화당원	gonghwadangwon	
+k	괴기스럽다	goegiseureopda	괴상하고 기이한 면이 있다.
+k	괴악스럽다	goeakseureopda	보기에 괴이하고 흉악한 데가 있다.
+k	괴약시럽다	goeyaksireopda	'고약스럽다'의 전라도 사투리.
+k	괴혈병	goehyeolbyeong	scurvy
+k	굉굉하다	goenggoenghada	
+k	굉렬하다	goengnyeolhada	울리는 소리가 몹시 사납고 세차다.
+k	굉장스레	goengjangseure	훌륭하거나 대단한 데가 있게.
+e	go without saying	gowithoutsaying	1 meaning
+e	golden parachute	goldenparachute	1 meaning
+e	golden retriever	goldenretriever	1 meaning
+e	gomez's hamburger	gomezshamburger	1 meaning
+e	gorno-badakhshan	gornobadakhshan	1 meaning
+e	governor general	governorgeneral	2 meanings
+e	governor-general	governorgeneral	2 meanings
+j	ごちゃ混ぜにする	gochamazenisuru	
+j	ご多分に漏れず	gotabunnimorezu	as usual, in common with
+j	ゴメスのハンバーガー	gomezunohanbaga	
+j	ゴールデンハムスター	gorudenhamusuta	a golden hamster
+j	ゴールデン・レトリバー	gorudenretoriba	
+j	五行相生説	gogyososeisetsu	古代中国の五行説で世界を構成する木、火、土、金、水…
+j	古代ペルシア語	godaiperushiago	
+j	語尾音消失	gobionshoshitsu	語尾の音を消失させることによる、語の省略。
+k	고개를 숙이다	gogaereulsugida	인사하다, 절하다
+k	고개를 젓다	gogaereuljeotda	
+k	고고년대학	gogonyeondaehak	
+k	고공 무상 무아	gogongmusangmua	
+k	고공답주인가	gogongdapjuinga	
+k	고급 지방산	gogeupjibangsan	higher fatty acid
+k	고급 창녀	gogeupchangnyeo	
+k	고급스럽다	gogeupseureopda	
+k	고기압성 와도	gogiapseongwado	
+k	고꾸라뜨리다	gokkuratteurida	앞으로 고부라져 쓰러지게 하다.
+k	고대 그리스어	godaegeuriseueo	Ancient Greek (language)
+k	고대 노르드어	godaenoreudeueo	
+k	고대 덴마크어	godaedenmakeueo	
+k	고도조립산업	godojoripsaneop	부품의 수가 많고 조립 공정이 복잡한 산업. …
+k	고등대수학	godeungdaesuhak	
+k	고등학생	godeunghaksaeng	high schooler, high schoo…
+k	고로롱거리다	gororonggeorida	늙거나 오랜 병으로 몸이 약하여져서 자꾸 시름…
+k	고리도롱뇽	goridorongnyong	the Kori salamander, Hyno…
+k	고봉준령	gobongjullyeong	
+k	고부랑거리다	goburanggeorida	등이나 허리를 자꾸 고부리다.
+k	고부스름하다	gobuseureumhada	안으로 곱은 듯하다.
+k	고불락거리다	gobullakgeorida	
+k	고색창연	gosaekchangyeon	
+k	고생물학자	gosaengmulhakja	
+k	고소공포증	gosogongpojeung	acrophobia; fear of heigh…
+k	고시랑거리다	gosiranggeorida	못마땅하여 군소리를 좀스럽게 자꾸 하다.
+k	고용 상황	goyongsanghwang	
+k	고장난명	gojangnanmyeong	(사자성어) 손바닥 하나로는 손뼉을 칠 수 없…
+k	고정불변	gojeongbulbyeon	
+k	고층 건물	gocheunggeonmul	
+k	고층건물	gocheunggeonmul	
+k	고층분석	gocheungbunseok	고층기상관측의 결과치를 사용하여 시행하는 상층…
+k	고침단명	gochimdanmyeong	(사자성어) 베개를 높이 베면 오래 살지 못한…
+k	고통스럽다	gotongseureopda	painful, agonizing
+k	고통의 성모	gotonguiseongmo	
+k	곤드랑대다	gondeurangdaeda	
+k	곧은달림길	godeundallimgil	(육상, 승마) '직선코스'의 북한말.
+k	골격 구조식	golgyeokgujosik	
+k	골관절염	golgwanjeoryeom	osteoarthritis
+k	골연화증	goryeonhwajeung	
+k	골육상쟁	goryuksangjaeng	뼈와 살이 서로 싸움. 겨레나 가족 구성원 간…
+k	곰바지런하다	gombajireonhada	일하는 것이 시원시원하지는 못하지만 꼼꼼하고 …
+k	곰지락거리다	gomjirakgeorida	몸이 천천히 좀스럽게 계속 움직이다. 또는 몸…
+k	곱살스럽다	gopsalseureopda	
+k	공간도형	gonggandohyeong	'입체도형'.
+k	공격적인	gonggyeokjeogin	
+k	공기권총	gonggigwonchong	
+k	공동체주의	gongdongchejuui	
+k	공무강요죄	gongmugangyojoe	
+k	공정거래	gongjeonggeorae	fair trade
+k	공중변소	gongjungbyeonso	
+k	공중위생	gongjungwisaeng	
+k	공중전화	gongjungjeonhwa	payphone, public telephone
+k	괴괴망측	goegoemangcheuk	
+k	괴뢰정권	goeroejeonggwon	
+e	golden gate bridge	goldengatebridge	1 meaning
+e	golden-naped finch	goldennapedfinch	1 meaning
+e	gould's razor shell	gouldsrazorshell	1 meaning
+j	ごちゃごちゃにする	gochagochanisuru	
+j	ご愁傷様です	goshushosamadesu	my deepest condolences; I…
+j	ゴルノ゠アルタイスク	gorunoarutaisuku	
+j	ゴンドワナ大陸	gondowanatairiku	
+j	ゴータマ・シッダールタ	gotamashiddaruta	仏教の開祖、釈迦牟尼の俗名（本名）。ネパールの小さ…
+j	ゴールデンパラシュート	gorudenparashuto	golden parachute
+j	五行相克説	gogyosokokusetsu	古代中国の五行説で世界を構成する木、土、水、火、金…
+j	呉牛月に喘ぐ	gogyutsukiniaegu	excessive fear
+j	語中音消失	gochuonshoshitsu	
+k	고대 프로이센어	godaepeuroiseneo	예전에 동프로이센(러시아의 칼리닌그라드 주, …
+k	고들고들하다	godeulgodeulhada	
+k	고등판무관	godeungpanmugwan	
+k	고령화사회	goryeonghwasahoe	총인구 가운데 나이가 65세 이상인 사람인 차…
+k	고로롱고로롱	gororonggororong	늙거나 오랜 병으로 몸이 약하여져서 시름시름 …
+k	고롱고롱하다	goronggoronghada	'고로롱고로롱하다'의 준말.
+k	고름이 살 되랴	goreumisaldoerya	이미 그릇된 일이 다시 잘될 리 없다는 말.
+k	고리대금업자	goridaegeumeopja	
+k	고리무늬물범	gorimunuimulbeom	The ringed seal (Pusa his…
+k	고부랑고부랑	goburanggoburang	
+k	고부장고부장	gobujanggobujang	
+k	고불딱거리다	gobulttakgeorida	
+k	고불락고불락	gobullakgobullak	
+k	고상고상하다	gosanggosanghada	
+k	고슬고슬하다	goseulgoseulhada	
+k	고시랑고시랑	gosiranggosirang	
+k	고양이 개 보듯	goyangigaebodeut	(비유) 사이가 매우 나빠서 서로 으르렁거리며…
+k	고유형용사	goyuhyeongyongsa	
+k	고정관념	gojeonggwannyeom	
+k	고풀딱거리다	gopulttakgeorida	
+k	고혈당증	gohyeoldangjeung	
+k	곤독곤독하다	gondokgondokhada	
+k	곤돌곤돌하다	gondolgondolhada	매달린 것 등이 가볍게 이리저리 흔들리며 잇따…
+k	곤드레만드레	gondeuremandeure	
+k	골막골막하다	golmakgolmakhada	
+k	곰상스럽다	gomsangseureopda	
+k	곰실곰실하다	gomsilgomsilhada	
+k	곰작곰작하다	gomjakgomjakhada	
+k	곰지락곰지락	gomjirakgomjirak	wrigglingly; while repeat…
+k	곰질곰질하다	gomjilgomjilhada	'곰지락곰지락하다'의 준말.
+k	곰팡내 나는	gompangnaenaneun	
+k	곱박곱박하다	gopbakgopbakhada	
+k	곱삭곱삭하다	gopsakgopsakhada	
+k	곱신곱신하다	gopsingopsinhada	
+k	곱실곱실하다	gopsilgopsilhada	
+k	곱작곱작하다	gopjakgopjakhada	
+k	공기조화기술	gonggijohwagisul	
+k	공기호흡메기	gonggihoheummegi	
+k	공동 친권	gongdongchingwon	joint custody
+k	공리주의적인	gongnijuuijeogin	
+k	공습경보	gongseupgyeongbo	
+k	공장 초기화	gongjangchogihwa	
+k	공정가격	gongjeonggagyeok	
+k	공중방전	gongjungbangjeon	구름과 지표면 사이에 심한 전위차로 말미암아 …
+e	golden anniversary	goldenanniversary	1 meaning
+e	government-in-exile	governmentinexile	1 meaning
+j	ご苦労様でした	gokurosamadeshita	I appreciate your efforts…
+j	五色青海鸚哥	goshikiseigaiinko	any rainbow lorikeet (Tri…
+j	強引に通過させる	goinnitsukasaseru	
+j	御来場の皆様	goraijonominasama	
+j	業によりて果を引く	goniyoritekaohiku	
+j	語頭母音消失	gotoboinshoshitsu	
+k	고무가락지바킹	gomugarakjibaking	
+k	고양이 세수하듯	goyangisesuhadeut	고양이가 마치 세수하듯이 앞발로 콧등을 문지르…
+k	고차방정식	gochabangjeongsik	삼차 이상의 방정식.
+k	고층기상대	gocheunggisangdae	고층기상관측을 수행하는 기상관서.
+k	고층살림집	gocheungsallimjip	apartment building, block…
+k	고통도착증	gotongdochakjeung	
+k	곤드랑거리다	gondeuranggeorida	
+k	골든 리트리버	goldeunriteuribeo	
+k	공갈젖꼭지	gonggaljeotkkokji	
+k	공감능력	gonggamneungnyeok	
+k	공기부양정	gonggibuyangjeong	hovercraft
+k	공기펌프자리	gonggipeompeujari	
+k	공동정범	gongdongjeongbeom	2인 이상이 공동하여 죄를 범하는 경우를 말한…
+k	공중습격	gongjungseupgyeok	공군이 폭격기 등으로 습격하는 것.
+k	공중전화소	gongjungjeonhwaso	
+k	공포공포증	gongpogongpojeung	phobophobia
+k	공항 터미널	gonghangteomineol	
+k	괴롭히는 사람	goerophineunsaram	
+j	ご機嫌いかがですか	gokigenikagadesuka	
+j	ご馳走様でした	gochisosamadeshita	it was delicious
+j	ゴールデンゲートブリッジ	gorudengetoburijji	the Golden Gate Bridge
+j	五本の指に入る	gohonnoyubinihairu	
+j	合成着色料	goseichakushokuryo	化学的に合成されてつくられた食品の着色料。人工着色…
+j	語形変化ができる	gokeihenkagadekiru	
+j	語末音消失	gomatsuonshoshitsu	語末の音を消失させることによる、語の省略。
+k	고기를 안 먹어요	gogireulanmeogeoyo	
+k	고기압성 곡률	gogiapseonggokryul	바람이 시계방향으로 불 때의 등압선 또는 등고…
+k	고기압성 순환	gogiapseongsunhwan	고기압에 동반된 계통적인 대기의 흐름.
+k	고기작고기작하다	gogijakgogijakhada	
+k	고로록고로록하다	gororokgororokhada	
+k	고르노알타이스크	goreunoaltaiseukeu	
+k	고무락고무락하다	gomurakgomurakhada	매우 조금씩 자꾸 느리게 움직이다.
+k	고무작고무작하다	gomujakgomujakhada	
+k	고불딱고불딱	gobulttakgobulttak	
+k	고불탕고불탕	gobultanggobultang	
+k	고양이 쥐 생각	goyangijwisaenggak	겉으로는 생각해 주는 것처럼 행동하나, 속으로…
+k	고위평탄면	gowipyeongtanmyeon	해발고도가 높은 곳에서 평평하게 펼쳐진 지형으…
+k	고쳐 생각하다	gocheosaenggakhada	
+k	고풀딱고풀딱	gopulttakgopulttak	
+k	곤득곤득하다	gondeukgondeukhada	
+k	곤들곤들하다	gondeulgondeulhada	
+k	골가랑골가랑	golgaranggolgarang	
+k	골싹골싹하다	golssakgolssakhada	
+k	골쑴골쑴하다	golssumgolssumhada	
+k	곰상곰상하다	gomsanggomsanghada	
+k	곰틀곰틀하다	gomteulgomteulhada	
+k	곱슬곱슬하다	gopseulgopseulhada	
+k	공간 컴퓨팅	gonggankeompyuting	
+k	공공칠가방	gonggongchilgabang	
+k	공동살림방	gongdongsallimbang	거실의 북한말.
+k	공동으로 일하다	gongdongeuroilhada	
+k	공명정대	gongmyeongjeongdae	(사자성어) 일이나 하는 짓이 옳고 바르다.
+k	공무절삭기대	gongmujeolsakgidae	(북한어, 기계) 기계 설비를 정비ㆍ보수할 때…
+k	공작명왕	gongjangmyeongwang	
+k	공중전화실	gongjungjeonhwasil	
+k	공중화장실	gongjunghwajangsil	'공중변소'를 달리 이르는 말.
+k	공통 그리스어	gongtonggeuriseueo	
+k	괴까닭스럽다	goekkadakseureopda	'괴까다롭다'.
+k	굉장스럽다	goengjangseureopda	훌륭하거나 대단한 데가 있다.
+e	goods and services tax	goodsandservicestax	1 meaning
+j	ゴルディオスの結び目	gorudiosunomusubime	
+j	ゴールデンライオンタマリン	gorudenraiontamarin	a golden lion tamarin
+j	御列席の皆様	goressekinominasama	
+k	고개를 흔들다	gogaereulheundeulda	
+k	곤충공포증	gonchunggongpojeung	entomophobia
+k	공기청정기	gonggicheongjeonggi	공기를 정화하는 기계.
+k	공동 양육권	gongdongyangyukgwon	joint custody
+k	공작실거리나무	gongjaksilgeorinamu	peacock flower (Caesalpin…
+k	공장에 들어가다	gongjangedeureogada	(주로 제조업의) 공장에서 일을 하다, 공장에…
+j	ゴチャゴチャした状態	gochagochashitajotai	
+j	合同企業説明会	godokigyosetsumeikai	
+k	고대동슬라브어	godaedongseullabeueo	
+k	고로롱고로롱하다	gororonggororonghada	
+k	고르릉고르릉	goreureunggoreureung	
+k	고부랑고부랑하다	goburanggoburanghada	
+k	고부장고부장하다	gobujanggobujanghada	
+k	고불락고불락하다	gobullakgobullakhada	
+k	고시랑고시랑하다	gosiranggosiranghada	
+k	고운 자식 매로 키운다	gounjasikmaerokiunda	
+k	고통의 성모 마리아	gotonguiseongmomaria	
+k	곤드랑곤드랑	gondeuranggondeurang	
+k	곤드레만드레하다	gondeuremandeurehada	술이나 잠에 몹시 취하여 정신을 차리지 못하고…
+k	골든 게이트 브리지	goldeungeiteubeuriji	
+k	곰지락곰지락하다	gomjirakgomjirakhada	
+k	곳간에서 인심 난다	gotganeseoinsimnanda	"generosity is born from …
+k	공상과학 소설	gongsanggwahaksoseol	
+k	공중전화 부스	gongjungjeonhwabuseu	
+j	後徳大寺左大臣	gotokudaijinosadaijin	courtesy name of Tokudaij…
+k	고기압성 소용돌이	gogiapseongsoyongdoli	음의 값을 갖는 소용돌이.
+k	고생 끝에 낙이 온다	gosaengkkeutenakionda	어려운 일이나 고된 과정을 참고 견디면 반드시…
+k	공소장변경	gongsojangbyeongyeong	이미 검사가 작성한 공소장의 내용을 변경하는 …
+k	공중전화 박스	gongjungjeonhwabakseu	
+j	ご想像にお任せします	gosozoniomakaseshimasu	I'll leave it to your ima…
+j	郷に入っては郷に従え	goniittewagonishitagae	when in Rome, do as the R…
+k	고대 교회 슬라브어	godaegyohoeseullabeueo	(언어학) 슬라브계 민족이 사용한 최초의 문학…
+k	고대교회슬라브어	godaegyohoeseullabeueo	Old Church Slavonic (the …
+k	고불딱고불딱하다	gobulttakgobulttakhada	
+k	고불탕고불탕하다	gobultanggobultanghada	
+k	고양이 목에 방울 달기	goyangimogebanguldalgi	반드시 누군가는 해야 하나 어렵고 하기 싫은 …
+k	고풀딱고풀딱하다	gopulttakgopulttakhada	
+k	곤경에 빠진 아가씨	gongyeongeppajinagassi	
+k	골가랑골가랑하다	golgaranggolgaranghada	
+k	공든 탑이 무너지랴	gongdeuntapimuneojirya	온 힘을 다하여 정성 들여 쌓은 탑은 무성의하…
+j	五十にして天命を知る	gojunishitetenmeioshiru	人は五十歳になって初めて、自らの宿命を知るというこ…
+j	郷に入りては郷に従え	goniiritewagonishitagae	when in Rome, do as the R…
+k	고기압성 소용돌이도	gogiapseongsoyongdolido	
+k	고층기상관측	gocheunggisanggwancheuk	기구 또는 로켓 등에 의하여 소형측기를 상공으…
+k	곧은 나무 쉬 꺾인다	godeunnamuswikkeokkinda	
+k	공기방석자동차	gonggibangseokjadongcha	hovercraft
+k	공자 앞에서 문자 쓰기	gongjaapeseomunjasseugi	
+e	go in one ear and out the other	goinoneearandouttheother	1 meaning
+e	god works in mysterious ways	godworksinmysteriousways	1 meaning
+j	ご冥福をお祈りします	gomeifukuwooinorishimasu	
+j	合計特殊出生率	gokeitokushushusshoritsu	女性一人が一生の間に生む子供の数の平均。
+k	고르릉고르릉하다	goreureunggoreureunghada	
+k	곤드랑곤드랑하다	gondeuranggondeuranghada	
+k	곤드레만드레 취하다	gondeuremandeurechwihada	
+j	ご出身はどちらですか	goshusshinwadochiradesuka	
+j	ご遠慮なくお使いください	goenryonakuotsukaikudasai	
+k	고르노바다흐샨 자치주	goreunobadaheusyanjachiju	
+k	고층기상관측소	gocheunggisanggwancheukso	고층기상관측을 실시하는 기상관서.
+k	골형성부전증	golhyeongseongbujeonjeung	
+k	곤장 메고 매 맞으러 간다	gonjangmegomaemateureoganda	공연한 일을 하여 스스로 화를 자초함
+e	good things come to those who wait	goodthingscometothosewhowait	1 meaning
+k	고래 싸움에 새우 등 터진다	goraessaumesaeudeungteojinda	고래처럼 큰 짐승이 싸우는데 새우처럼 작은 짐…
+k	고양이는 발톱을 감춘다	goyangineunbaltopeulgamchunda	재주 있는 사람은 그것을 깊이 감추고서 함부로…
+e	god helps those who help themselves	godhelpsthosewhohelpthemselves	1 meaning
+k	공항 기상 관측 시스템	gonghanggisanggwancheuksiseutem	비행기의 안전한 착륙과 이륙에 필요한 활주로 …
+j	後京極摂政前太政大臣	gokyogokusesshosakinodaijodaijin	courtesy title of Kujō Yo…
+k	고양이한테 생선을 맡긴다	goyangihantesaengseoneulmatginda	고양이가 생선을 좋아한다는 것에서 유래한 속담…
+k	고기도 먹어 본 사람이 많이 먹는다	gogidomeokeobonsaramimanimeokneunda	옛날 한국에서 고기가 귀하던 시절에는 가난한 …
+k	고을에 들어가면 고을 풍속을 따르라	goeuredeureogamyeongoeulpungsogeulttareura	
+k	고슴도치에 놀란 호랑이 밤송이 보고 절한다	goseumdochienolranhorangibamsongibogojeolhanda	고슴도치를 보고 놀란 호랑이가 밤송이를 보고 …

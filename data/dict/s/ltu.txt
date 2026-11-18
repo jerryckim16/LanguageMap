@@ -1,0 +1,359 @@
+k	투	tu	two
+e	tub	tub	1 meaning
+e	tue	tue	1 meaning
+e	tui	tui	1 meaning
+k	투우	tuu	소와 싸우는 경기.
+k	툭	tuk	갑자기 튀거나 터지는 소리. 또는 그 모양.
+k	툴	tul	tool
+e	tuba	tuba	1 meaning
+e	tube	tube	3 meanings
+e	tuff	tuff	1 meaning
+e	tula	tula	1 meaning
+e	tuna	tuna	1 meaning
+e	tune	tune	3 meanings
+e	turd	turd	1 meaning
+e	turk	turk	2 meanings
+e	turn	turn	16 meanings
+e	tusk	tusk	1 meaning
+e	tutu	tutu	1 meaning
+e	tuva	tuva	1 meaning
+j	トゥヴァ	tuva	
+j	トゥーラ	tura	
+j	トゥール	turu	
+j	トゥーレ	ture	
+k	투고	tugo	
+k	투구	tugu	historical helmet (as par…
+k	투기	tugi	speculation
+k	투바	tuba	
+k	투사	tusa	
+k	투수	tusu	pitcher
+k	투시	tusi	
+k	투안	tuan	
+k	투어	tueo	tour
+k	투옥	tuok	imprisonment
+k	투입	tuip	사람이나 물자, 자본 따위를 필요한 곳에 넣음.
+k	투자	tuja	investment
+k	투지	tuji	
+k	투하	tuha	
+k	퉁	tung	(주로 합성어로 쓰여) 품질이 낮은 놋쇠.
+e	-tuple	tuple	1 meaning
+e	tuber	tuber	1 meaning
+e	tui na	tuina	1 meaning
+e	tulip	tulip	1 meaning
+e	tulle	tulle	1 meaning
+e	tulou	tulou	1 meaning
+e	tulpa	tulpa	2 meanings
+e	tumen	tumen	1 meaning
+e	tummy	tummy	1 meaning
+e	tumor	tumor	1 meaning
+e	tunic	tunic	1 meaning
+e	tunis	tunis	1 meaning
+e	tuple	tuple	3 meanings
+e	turin	turin	2 meanings
+e	turku	turku	1 meaning
+e	tutor	tutor	1 meaning
+e	tuvan	tuvan	2 meanings
+e	tuzla	tuzla	1 meaning
+j	トゥッティ	tutti	tutti
+j	トゥンク	tunku	Onomatopoeia for getting …
+j	トゥーロン	turon	
+k	투계	tugye	경기용으로 사육되는 닭.
+k	투과	tugwa	
+k	투끼	tukki	Hwanghae form of 토끼 (tokk…
+k	투료	turyo	
+k	투르	tureu	t-rune
+k	투서	tuseo	stamp; seal
+k	투셰	tusye	
+k	투숙	tusuk	lodging; putting up at a …
+k	투신	tusin	
+k	투약	tuyak	
+k	투여	tuyeo	
+k	투우사	tuusa	bullfighter, toreador, ma…
+k	투이어	tuieo	
+k	투표	tupyo	vote
+k	투혼	tuhon	끝까지 투쟁하려는 기백.
+k	툴라	tulla	
+k	툴바	tulba	
+k	퉁이	tungi	(사람의 신체를 나타내는 일부 명사에 붙어) …
+k	틔다	tuida	
+e	tuck in	tuckin	1 meaning
+e	tughra	tughra	1 meaning
+e	tugrik	tugrik	1 meaning
+e	tuk-tuk	tuktuk	1 meaning
+e	tulwar	tulwar	1 meaning
+e	tundra	tundra	1 meaning
+e	tuning	tuning	2 meanings
+e	tunnel	tunnel	1 meaning
+e	tuplet	tuplet	1 meaning
+e	turaco	turaco	1 meaning
+e	turban	turban	2 meanings
+e	turbot	turbot	1 meaning
+e	tureen	tureen	1 meaning
+e	turkey	turkey	3 meanings
+e	turkic	turkic	1 meaning
+e	turn on	turnon	3 meanings
+e	turner	turner	1 meaning
+e	turnip	turnip	1 meaning
+e	turtle	turtle	2 meanings
+e	tut tut	tuttut	1 meaning
+e	tuvalu	tuvalu	1 meaning
+e	tuxedo	tuxedo	2 meanings
+e	tuyere	tuyere	1 meaning
+j	トゥインク	tuinku	
+j	トゥクパ	tukupa	thukpa
+j	トゥグラ	tugura	tughra (signature of an O…
+j	トゥズラ	tuzura	
+j	トゥルク	turuku	Turku (a city in Finland)
+j	トゥルパ	turupa	
+j	トゥールーズ	turuzu	Toulouse (the capital cit…
+k	투 페어	tupeeo	a two pair
+k	투고자	tugoja	
+k	투구게	tuguge	horseshoe crab
+k	투구수	tugusu	pitch count
+k	투망	tumang	
+k	투먼	tumeon	Tumen (a county-level cit…
+k	투사지	tusaji	tracing paper
+k	투석	tuseok	
+k	투시도	tusido	
+k	투아례	tuarye	toilet
+k	투자가	tujaga	
+k	투자자	tujaja	investor
+k	투항	tuhang	surrender
+k	툭툭	tuktuk	자꾸 튀거나 터지는 소리. 또는 그 모양.
+k	툴툴	tultul	마음에 차지 아니하여서 몹시 투덜거리는 모양.
+k	툴팁	tultip	
+k	툴판	tulpan	투루판 시를 뜻하는 연변말.
+k	틔우다	tuiuda	
+e	tuatara	tuatara	1 meaning
+e	tube top	tubetop	1 meaning
+e	tuesday	tuesday	1 meaning
+e	tugboat	tugboat	1 meaning
+e	tuition	tuition	2 meanings
+e	tumbler	tumbler	1 meaning
+e	tumulus	tumulus	1 meaning
+e	tung oil	tungoil	1 meaning
+e	tunisia	tunisia	1 meaning
+e	turbine	turbine	1 meaning
+e	turkish	turkish	2 meanings
+e	turkmen	turkmen	2 meanings
+e	turmoil	turmoil	1 meaning
+e	turn off	turnoff	1 meaning
+e	tuscany	tuscany	1 meaning
+e	tuyuhun	tuyuhun	1 meaning
+j	トゥエルブ	tuerubu	twelve
+j	トゥエルヴ	tueruvu	twelve
+j	トゥクマン	tukuman	Tucumán (a province of Ar…
+j	トゥナイト	tunaito	tonight
+k	투견	tugyeon	
+k	투고란	tugoran	
+k	투기심	tugisim	
+k	투두둑	tududuk	우박 따위가 바닥이나 나뭇잎 위에 세게 떨어지…
+k	투레질	turejil	젖먹이가 두 입술을 떨며 투루루 소리를 내는 …
+k	투르쿠	tureuku	
+k	투발루	tuballu	Tuvalu (a country in Ocea…
+k	투사율	tusayul	
+k	투서자	tuseoja	
+k	투수판	tusupan	
+k	투승	tuseung	올가미를 던짐. 또는 그 올가미.
+k	투영	tuyeong	
+k	투우장	tuujang	
+k	투자율	tujayul	
+k	투쟁	tujaeng	fight; struggle
+k	투정	tujeong	
+k	투창	tuchang	dart (weapon)
+k	투척	tucheok	throw
+k	투철	tucheol	
+k	투표소	tupyoso	
+k	투표수	tupyosu	
+k	투표인	tupyoin	'투표자'.
+k	투표일	tupyoil	
+k	투표자	tupyoja	voter
+k	투표지	tupyoji	
+k	투피스	tupiseu	two-piece (suit/dress)
+k	툭툭이	tuktugi	gun, firearm
+k	툭하다	tukhada	
+k	툴륨	tullyum	thulium
+e	tug of war	tugofwar	1 meaning
+e	tung tree	tungtree	1 meaning
+e	tungsten	tungsten	1 meaning
+e	tungusic	tungusic	2 meanings
+e	turbojet	turbojet	1 meaning
+e	turinese	turinese	2 meanings
+e	turmeric	turmeric	2 meanings
+e	turn down	turndown	1 meaning
+e	turn into	turninto	1 meaning
+e	turn over	turnover	1 meaning
+e	turncoat	turncoat	1 meaning
+e	turnover	turnover	1 meaning
+e	turnpike	turnpike	1 meaning
+e	tutelary	tutelary	1 meaning
+e	tutorial	tutorial	1 meaning
+e	tuvaluan	tuvaluan	1 meaning
+j	トゥクトゥク	tukutuku	
+j	トゥグルグ	tugurugu	tugrik
+j	トゥルマギ	turumagi	
+j	トゥルーエンド	turuendo	"true" ending of a storyl…
+k	투과율	tugwayul	
+k	투구꽃	tugukkot	aconite; monkshood; a poi…
+k	투구법	tugubeop	
+k	투그릭	tugeurik	몽골의 화폐 단위.
+k	투기꾼	tugikkun	speculator
+k	투기상	tugisang	
+k	투기열	tugiyeol	
+k	투기장	tugijang	arena, ring
+k	투기적	tugijeok	
+k	투르크	tureukeu	Turk
+k	투명	tumyeong	transparency, the quality…
+k	투병	tubyeong	battling an illness
+k	투서함	tuseoham	
+k	투석구	tuseokgu	무릿매의 동의어.
+k	투석기	tuseokgi	
+k	투석조	tuseokjo	
+k	투성이	tuseongi	(일부 명사에 붙어) '그것이 너무 많은 상태…
+k	투시법	tusibeop	
+k	투원반	tuwonban	
+k	투자하다	tujahada	to invest
+k	투즐라	tujeulla	
+k	투터치	tuteochi	(라켓을 사용하는 구기종목 경기에서) 한 번 …
+k	투포환	tupohwan	shot put
+k	투표율	tupyoyul	voting rate
+k	투표함	tupyoham	ballot box; voting box
+k	툰드라	tundeura	tundra (flat treeless arc…
+k	툴루즈	tullujeu	
+k	툼벙	tumbeong	크고 묵직한 물건이 깊은 물에 떨어져 잠기는 …
+k	퉁가리	tunggari	
+k	퉁탕	tungtang	단단한 물건을 함부로 요란하게 두드리거나 발로…
+k	퉁퉁	tungtung	corpulently, fatly, round…
+e	tularemia	tularemia	1 meaning
+e	tulip tree	tuliptree	1 meaning
+e	tummy time	tummytime	1 meaning
+e	turbidite	turbidite	1 meaning
+e	turbidity	turbidity	1 meaning
+e	turducken	turducken	1 meaning
+e	turkestan	turkestan	1 meaning
+e	turkology	turkology	1 meaning
+e	turnstile	turnstile	1 meaning
+e	turntable	turntable	2 meanings
+e	turquoise	turquoise	4 meanings
+j	トゥルーオルソ	turuoruso	true ortho
+j	トゥールコワン	turukowan	
+j	トゥールビヨン	turubiyon	
+k	투게가라오	tugegarao	
+k	투기성	tugiseong	
+k	투박하다	tubakhada	생김새가 볼품없이 둔하고 튼튼하기만 하다.
+k	투숙하다	tusukhada	to stay, to put up (in a …
+k	투영기	tuyeonggi	projector
+k	투영도	tuyeongdo	
+k	투자가치	tujagachi	
+k	투자되다	tujadoeda	to be invested
+k	투자자산	tujajasan	
+k	투자회사	tujahoesa	
+k	투철히	tucheolhi	사리에 밝고 정확하게.
+k	투표권	tupyogwon	투표할 수 있는 권리.
+k	투표장	tupyojang	
+k	투표하다	tupyohada	to vote
+k	툴박스	tulbakseu	
+k	퉁구스	tungguseu	
+e	tuberculin	tuberculin	1 meaning
+e	tufted duck	tuftedduck	1 meaning
+e	tuguegarao	tuguegarao	1 meaning
+e	tumbleweed	tumbleweed	1 meaning
+e	tuning fork	tuningfork	1 meaning
+e	turbulence	turbulence	1 meaning
+e	turkish van	turkishvan	1 meaning
+e	turn around	turnaround	1 meaning
+e	turpentine	turpentine	1 meaning
+e	turtle dove	turtledove	1 meaning
+e	turtle ship	turtleship	1 meaning
+e	turtleneck	turtleneck	2 meanings
+k	투과성	tugwaseong	
+k	투구벌레	tugubeolre	
+k	투기거래	tugigeorae	
+k	투르크인	tureukeuin	
+k	투명도	tumyeongdo	
+k	투사형	tusahyeong	
+k	투신자살	tusinjasal	
+k	투자신탁	tujasintak	
+k	투쟁심	tujaengsim	
+k	투정질	tujeongjil	
+k	투항하다	tuhanghada	to surrender
+k	툭하면	tukhamyeon	
+k	퉁명	tungmyeong	못마땅하거나 시답지 아니하여 불쑥 하는 말이나…
+e	tumble dryer	tumbledryer	1 meaning
+e	turcophobia	turcophobia	1 meaning
+e	turkish bath	turkishbath	1 meaning
+e	turn against	turnagainst	1 meaning
+e	tutankhamun	tutankhamun	1 meaning
+e	tutti-frutti	tuttifrutti	1 meaning
+k	투덕대다	tudeokdaeda	'투덕거리다'.
+k	투덜대다	tudeoldaeda	'투덜거리다'.
+k	투르펜틴	tureupentin	
+k	투명체	tumyeongche	
+k	투영법	tuyeongbeop	
+k	투철하다	tucheolhada	사리에 밝고 정확하다.
+k	투키디데스	tukidideseu	
+k	투탕카멘	tutangkamen	Tutankhamun
+k	투표용지	tupyoyongji	ballot paper
+k	툭툭대다	tuktukdaeda	'툭툭거리다'.
+k	퉁퉁배	tungtungbae	drum belly
+e	tuberculosis	tuberculosis	1 meaning
+e	tubular bells	tubularbells	1 meaning
+e	tufted puffin	tuftedpuffin	1 meaning
+e	turbellarian	turbellarian	1 meaning
+e	turkmenistan	turkmenistan	1 meaning
+e	turn a deaf ear	turnadeafear	1 meaning
+e	turn of events	turnofevents	1 meaning
+e	turning point	turningpoint	1 meaning
+j	トゥッティフルッティ	tuttifurutti	
+k	투덜투덜	tudeoltudeol	
+k	투두둑대다	tududukdaeda	'투두둑거리다'.
+k	투명색	tumyeongsaek	
+k	투명수지	tumyeongsuji	
+k	투명하다	tumyeonghada	transparent
+k	투석형	tuseokhyeong	
+k	투자금융	tujageumyung	
+k	투자은행	tujaeunhaeng	
+k	퉁퉁마디	tungtungmadi	glasswort, saltwort, (mar…
+k	퉁퉁하다	tungtunghada	swollen, corpulent, fat, …
+e	turkish angora	turkishangora	1 meaning
+e	turkish coffee	turkishcoffee	1 meaning
+e	turn a blind eye	turnablindeye	1 meaning
+e	turn the tables	turnthetables	1 meaning
+e	tutelary deity	tutelarydeity	1 meaning
+j	トゥアティエン゠フエ省	tuatienfuesho	
+j	トゥレット障害	turettoshogai	
+k	투덕거리다	tudeokgeorida	잘 울리지 아니하는 물체를 조금 세게 두드리는…
+k	투덜거리다	tudeolgeorida	to complain, to grumble
+k	투르크 사람	tureukeusaram	
+k	투르크멘어	tureukeumeneo	the Turkmen language
+k	투르키스탄	tureukiseutan	
+k	투영도법	tuyeongdobeop	
+k	투쟁문학	tujaengmunhak	
+k	툭툭거리다	tuktukgeorida	갑자기 튀거나 터지는 소리가 자꾸 나다.
+k	툼벙대다	tumbeongdaeda	'툼벙거리다'.
+k	퉁탕대다	tungtangdaeda	'퉁탕거리다'.
+e	tufted titmouse	tuftedtitmouse	1 meaning
+e	turkish delight	turkishdelight	1 meaning
+e	turn upside down	turnupsidedown	1 meaning
+e	turner syndrome	turnersyndrome	1 meaning
+k	투두둑거리다	tududukgeorida	우박 따위가 바닥이나 나뭇잎 위에 세게 떨어지…
+k	투드럭대다	tudeureokdaeda	'투드럭거리다'.
+k	투포환 선수	tupohwanseonsu	
+k	퉁구스어족	tungguseueojok	
+e	tufted antshrike	tuftedantshrike	1 meaning
+e	tupperware party	tupperwareparty	1 meaning
+k	투렛 증후군	turetjeunghugun	
+k	투척경기	tucheokgyeonggi	
+k	툼벙거리다	tumbeonggeorida	크고 묵직한 물건이 깊은 물에 떨어져 잠기는 …
+k	퉁탕거리다	tungtanggeorida	단단한 물건을 함부로 요란하게 두드리거나 발로…
+k	퉁퉁걸음	tungtunggeoreum	a stamp, heavy tread/walk…
+e	turn over a new leaf	turnoveranewleaf	1 meaning
+k	투드럭거리다	tudeureokgeorida	큰 물체를 두드리는 소리를 자꾸 내다.
+k	투르 드 프랑스	tureudeupeurangseu	
+k	투르크메니스탄	tureukeumeniseutan	Turkmenistan (a country i…
+k	투자자본수익률	tujajabonsuingnyul	
+e	tunnel boring machine	tunnelboringmachine	1 meaning
+k	퉁명스럽다	tungmyeongseureopda	to be curt, to be brusque…
+e	tuberculous dactylitis	tuberculousdactylitis	1 meaning
+e	turks and caicos islands	turksandcaicosislands	1 meaning
+e	turkish republic of northern cyprus	turkishrepublicofnortherncyprus	1 meaning

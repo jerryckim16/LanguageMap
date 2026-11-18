@@ -1,0 +1,2296 @@
+j	仏	仏	a buddha (enlightened or …
+j	住	住	the act of dwelling, resi…
+j	偏	偏	the left-hand component o…
+j	像	像	a form of a thing, includ…
+j	問	問	counter for questions, pr…
+j	圏	圏	a bounded area, a sphere,…
+j	坏	坏	shallow bowl
+j	夏	夏	summer (season)
+j	奏	奏	a female given name
+j	宏	宏	a male given name
+j	小	小	smallness; small size, sm…
+j	序	序	順序。
+j	式	式	type, style
+j	意	意	thoughts; feelings
+j	敏	敏	quick, sharp
+j	族	族	group (column in the peri…
+j	晏	晏	late (of time)
+j	杏	杏	apricot
+j	柏	柏	daimyo oak, Quercus denta…
+j	氏	氏	a family, a clan
+j	漏	漏	mental impurities (āsava)…
+j	烏	烏	a crow or raven
+j	獏	獏	baku: a spirit that feeds…
+j	畏	畏	fear
+j	硏	硏	a surname
+j	福	福	good luck, good fortune
+j	笏	笏	a wooden or ivory tablet …
+j	筏	筏	raft
+j	箏	箏	koto: a Japanese zither d…
+j	総	総	overall, gross, general
+j	裏	裏	backside, back, behind, o…
+j	規	規	（のり）きまり。ものさし。容量。目安。
+j	透	透	a unisex given name
+j	量	量	volume, amount
+j	鋏	鋏	a (pair of) scissors
+j	錏	錏	（しころ 錣）兜の後ろから横にたらして首を守る防具。
+j	閏	閏	bissextile. intercalary, …
+j	随	随	the seventeenth of the si…
+j	魏	魏	Wei kingdom in China
+j	鮏	鮏	a smell of fish, meat, or…
+j	鱏	鱏	ray (fish of superorder B…
+j	鶏	鶏	a domesticated chicken (G…
+k	량	量	(한자어 명사에 붙어) 수량, 분량의 뜻을 나…
+k	매	每	hawk
+k	문	問	door
+k	복	福	fortune, blessing, luck
+k	불	仏	fire; flame
+k	상	像	top, best, first (grade o…
+k	서	序	west
+k	셀트족	族	
+k	소	小	cow; bull; ox; cattle
+k	식	式	ceremony, ritual, express…
+k	씨	氏	seed, kernel
+k	양	量	quantity, amount
+k	위	魏	above, upper, upside, top
+k	쟁	箏	
+k	족	族	in a manner arranged in a…
+k	켈트족	族	유럽에 살고 있는 민족의 하나. 프랑스인의 조…
+j	䫏頭	䫏頭	追儺に用いる鬼面。
+j	乏人	乏人	人材が乏しい状態。
+j	乏少	乏少	乏しく少ないこと。また、そのようなさま。
+j	乏尽	乏尽	尽きること。乏竭
+j	乏月	乏月	陰暦四月の異称。
+j	乏竭	乏竭	尽きること。乏尽。
+j	仏乗	仏乗	すべての衆生を成仏させる仏の教え。
+j	仏事	仏事	Buddhist ceremony
+j	仏人	仏人	French person or people
+j	仏体	仏体	仏の身体。
+j	仏像	仏像	image of Buddha
+j	仏具	仏具	寺院や仏壇で仏前を荘厳に飾り、また、仏事で使用する…
+j	仏典	仏典	Buddhist scriptures, sutr…
+j	仏刹	仏刹	寺。寺院。
+j	仏前	仏前	仏（仏像）の前。
+j	仏印	仏印	French Indochina (a group…
+j	仏参	仏参	寺院や墓を参拝すること。
+j	仏名	仏名	（ぶつみょう）仏の名前。
+j	仏和	仏和	フランス語と日本語。「仏和辞典」。
+j	仏図	仏図	「浮屠」の別表記。
+j	仏国	仏国	the abode/realm of buddha…
+j	仏地	仏地	仏の位または境地。
+j	仏堂	仏堂	Buddhist shrine or sanctum
+j	仏塔	仏塔	pagoda; stupa
+j	仏壇	仏壇	family Buddhist altar
+j	仏子	仏子	出家して戒を受けた者。
+j	仏字	仏字	フランス語の文章。
+j	仏家	仏家	仏がいる浄土。
+j	仏寺	仏寺	仏教寺院。仏閣。
+j	仏山	仏山	
+j	仏工	仏工	仏像や仏具をつくる人。仏師。
+j	仏師	仏師	仏像を制作する彫刻家
+j	仏式	仏式	結婚式や葬儀などで仏教によるやりかたのこと。
+j	仏形	仏形	仏（如来）の形。
+j	仏心	仏心	仏の心。
+j	仏性	仏性	Buddha-nature
+j	仏意	仏意	仏の心。仏心。
+j	仏教	仏教	Buddhism
+j	仏文	仏文	フランス語の文章。
+j	仏智	仏智	仏の完全円満な智慧。
+j	仏暦	仏暦	「仏滅紀元」に同じ。
+j	仏書	仏書	a Buddhist text, scriptur…
+j	仏果	仏果	修行の結果得られる悟りの境地。
+j	仏様	仏様	Buddha
+j	仏殿	仏殿	仏像を安置し礼拝する殿舎。
+j	仏氏	仏氏	釈迦。
+j	仏法	仏法	synonym of 法 (hō, “dharma…
+j	仏滅	仏滅	Buddha's death
+j	仏灯	仏灯	仏前に供えられる灯火。
+j	仏画	仏画	仏教に関する絵画。
+j	仏相	仏相	仏の顔かたち。
+j	仏眼	仏眼	五眼の一つで、悟りを開いた者の一切を見通すことがで…
+j	仏神	仏神	仏と神。神仏。
+j	仏米	仏米	フランスとアメリカ合衆国。
+j	仏経	仏経	Buddhist scriptures/sutras
+j	仏縁	仏縁	仏との縁。
+j	仏罰	仏罰	仏、菩薩などから受ける罰。
+j	仏花	仏花	仏壇や墓に供える花。
+j	仏英	仏英	フランスとイギリス。
+j	仏葬	仏葬	仏式の葬儀。
+j	仏見	仏見	仏の知見。
+j	仏訳	仏訳	Something translated into…
+j	仏語	仏語	the French language
+j	仏説	仏説	the sayings or teachings …
+j	仏身	仏身	仏の体。仏の姿。
+j	仏軍	仏軍	French army
+j	仏道	仏道	仏教徒として進むべき道。釈尊（もしくは他の如来）の…
+j	仏門	仏門	仏の説いた道。
+j	仏間	仏間	A room in a house where B…
+j	仏閣	仏閣	寺院の建造物。堂宇。伽藍。
+j	仏陀	仏陀	the Buddha
+j	仏音	仏音	synonym of ブッダゴーサ (Buddag…
+j	伏侍	伏侍	謹んで仕えること。
+j	伏儀	伏儀	
+j	伏兵	伏兵	hidden army lying in ambu…
+j	伏匿	伏匿	潜伏すること。
+j	伏在	伏在	隠れて居ること。潜在。潜伏。
+j	伏字	伏字	「伏せ字」の別表記。
+j	伏射	伏射	俯せの姿勢で射撃すること。
+j	伏撃	伏撃	敵に対し不意に奇襲すること。
+j	伏流	伏流	地上の水流が水捌けのよい地下の場所を流れること。
+j	伏竜	伏竜	（比喩）世間に知られていない優れた人物。
+j	伏籠	伏籠	censer basket; large bask…
+j	伏線	伏線	preparation, foreshadow
+j	伏羲	伏羲	Fuxi
+j	伏臥	伏臥	うつ伏せに寝ること。
+j	伏見	伏見	a placename, such that of…
+j	伏角	伏角	地球上に置かれた磁針が水平の面となす角度。傾角。
+j	伏陰	伏陰	夏の時季に陰気が籠もり、寒くなること。
+j	住み	住み	
+j	住む	住む	to live in, to inhabit, t…
+j	住人	住人	resident, inhabitant
+j	住処	住処	住んでいる所。住まい。住所。
+j	住友	住友	a surname
+j	住吉	住吉	A common place name in Ja…
+j	住坐	住坐	居住すること。
+j	住宅	住宅	residence, house
+j	住室	住室	集合住宅の部屋のうち、浴室や便所などの設備の一部を…
+j	住家	住家	住居。すみか。すまい。
+j	住専	住専	（都市）「住居専用地域」の略。日本の都市計画法に基…
+j	住居	住居	dwelling; house; residenc…
+j	住山	住山	山に住むこと。特に、僧侶が寺に住んで修行すること。
+j	住戸	住戸	１世帯の居住のために独立的に区割りされた家屋。
+j	住房	住房	僧侶が普段起居する住まい又は部屋。
+j	住所	住所	address
+j	住持	住持	head priest
+j	住棟	住棟	住居用の建物。
+j	住民	住民	citizens; inhabitants
+j	住職	住職	serving as head priest of…
+j	住設	住設	住宅の設備のこと。
+j	侏儒	侏儒	dwarf
+j	侏離	侏離	古代中国において西方の異民族の音楽。
+j	倏然	倏然	俄なさま。忽然。
+j	偏り	偏り	bias, slant
+j	偏倚	偏倚	一方に偏ること。
+j	偏僻	偏僻	心がひねくれていること。
+j	偏光	偏光	polarized light
+j	偏向	偏向	propensity
+j	偏固	偏固	心が偏り、頑固なこと。また、そのようなさま。
+j	偏国	偏国	都から遠く離れたいなかの国。
+j	偏在	偏在	ある場所に偏って存在すること。
+j	偏執	偏執	sticking to something, mo…
+j	偏好	偏好	partiality, having a one-…
+j	偏屈	偏屈	性質が偏り、ねじけていること。頑なであること。
+j	偏差	偏差	deviation
+j	偏平	偏平	平たいこと。
+j	偏廃	偏廃	ものの一方の面を無視したり切り捨てたりすること。
+j	偏心	偏心	中心から片寄ること。
+j	偏急	偏急	心が狭く性急なこと。
+j	偏性	偏性	偏りのある性質。
+j	偏愛	偏愛	prejudicial treatment, fa…
+j	偏旁	偏旁	漢字の構成部位である偏と旁。
+j	偏析	偏析	鋳物の製品で、合金の凝固に差があるため、ある金属の…
+j	偏枯	偏枯	半身不随。また、そのような人。
+j	偏格	偏格	近体詩のうち、初句の第二字が平字で起こされる五言詩…
+j	偏棄	偏棄	ものの一方の面を棄てること。
+j	偏狭	偏狭	biasedness, narrowness, n…
+j	偏狹	偏狹	
+j	偏窟	偏窟	性質が偏り、ねじけていること。頑なであること。
+j	偏絶	偏絶	一方だけを止めること。
+j	偏背	偏背	内緒。
+j	偏芯	偏芯	中心から片寄ること。
+j	偏蔽	偏蔽	偏り、覆うこと。
+j	偏袒	偏袒	片肌を脱ぐこと。
+j	偏裨	偏裨	副将。
+j	偏見	偏見	prejudice
+j	偏角	偏角	原点から見たときに、ある点が基準軸の正方向となす角…
+j	偏説	偏説	偏った意見。僻説。
+j	偏重	偏重	to stress one aspect to t…
+j	偏陂	偏陂	不公平なこと。
+j	偏食	偏食	picky eating, unbalanced …
+j	像法	像法	釈迦滅後における区分のひとつ。正法のあと500年ま…
+j	像片	像片	写真。
+j	像貌	像貌	容貌。
+j	像賛	像賛	画像の賛。
+j	匏土	匏土	匏をくりぬいたり、土を焼いたりしてつくった吹奏楽器…
+j	匏繫	匏繫	無用な人。
+j	吏人	吏人	官吏や公吏などの役人。
+j	吏僚	吏僚	役人。官吏。
+j	吏加	吏加	a female given name
+j	吏吐	吏吐	
+j	吏員	吏員	役人。
+j	吏牘	吏牘	時文の一種。
+j	吏読	吏読	Idu, an archaic method of…
+j	吏讀	吏讀	
+j	吏道	吏道	官吏として履行すべき道徳。
+j	吏部	吏部	synonym of 式部省 (“Ministry…
+j	問い	問い	question, inquiry
+j	問う	問う	to ask; to inquire
+j	問対	問対	受け答え。応対。
+j	問屋	問屋	a trader who arranged car…
+j	問答	問答	questions and answers; di…
+j	問訊	問訊	問い、訊ねること。尋問。
+j	問診	問診	medical interview; histor…
+j	問責	問責	censure
+j	問頭	問頭	律令制で得業生などに課された官吏登用の試験官。
+j	問題	問題	question, problem (on hom…
+j	圏内	圏内	within an area; within a …
+j	圏円	圏円	まる。円。
+j	圏外	圏外	out of range; outside of …
+j	圏央	圏央	首都圏の中央。
+j	圏守	圏守	周囲を囲み、守ること。
+j	圏族	圏族	眷属の異表記。
+j	圏曲	圏曲	曲がること。
+j	圏束	圏束	括ること。
+j	圏檻	圏檻	檻。
+j	圏点	圏点	synonym of 半濁点 (handakute…
+j	圏留	圏留	拘留。
+j	圏禁	圏禁	拘束。
+j	圏論	圏論	category theory
+j	圏谷	圏谷	山岳氷河の浸食作用によって山頂や山腹に生じた椀状の…
+j	圏豚	圏豚	摺り足すること。
+j	圏転	圏転	巡ること。
+j	埏埴	埏埴	粘土をこねること。
+j	埏隧	埏隧	隧埏。
+j	塏塏	塏塏	乾き、剥げるさま。
+j	塏悌	塏悌	人柄が穏やかなこと。
+j	夏代	夏代	a female given name
+j	夏伯	夏伯	中国の夏王朝を創始したとされる禹の尊称。
+j	夏僧	夏僧	夏安居により籠もっている僧侶。
+j	夏卵	夏卵	ミジンコやワムシなとが夏頃に生む卵。
+j	夏厨	夏厨	summerfag
+j	夏堂	夏堂	夏籠をするための堂宇。
+j	夏天	夏天	夏空。夏の空。夏の天気。夏の季語。
+j	夏子	夏子	a female given name
+j	夏季	夏季	summer
+j	夏実	夏実	a female given name
+j	夏川	夏川	a surname
+j	夏希	夏希	a female given name
+j	夏日	夏日	summer day
+j	夏時	夏時	summertime
+j	夏服	夏服	summer clothes
+j	夏期	夏期	summer period, summer term
+j	夏椿	夏椿	Japanese stewartia (Stewa…
+j	夏樹	夏樹	a male given name
+j	夏気	夏気	夏の気候。
+j	夏海	夏海	a female given name
+j	夏生	夏生	a female given name
+j	夏目	夏目	a female given name
+j	夏眠	夏眠	aestivation
+j	夏空	夏空	summer sky, especially cl…
+j	夏経	夏経	夏安居で読んだり、書写したりした経典。
+j	夏美	夏美	a female given name
+j	夏至	夏至	summer solstice
+j	夏芽	夏芽	夏に生じてその年のうちに生長する芽。
+j	夏草	夏草	summer grass
+j	夏菜	夏菜	a female given name
+j	夏行	夏行	夏安居。
+j	奏上	奏上	何かを天子に申し上げること。
+j	奏功	奏功	success, fruition
+j	奏宣	奏宣	天子に奏上すること。
+j	奏弾	奏弾	天子に役人の罪過を奏上し、その役人を弾劾すること。
+j	奏授	奏授	大臣の奏薦のうえ、天皇の許可により位記が授与される…
+j	奏文	奏文	天子（天皇）に奏上する文。
+j	奏書	奏書	天子に奏上する文書。
+j	奏杖	奏杖	身分の高い人に文書を渡す際に、その文書を先に挟んで…
+j	奏楽	奏楽	musical performance
+j	奏決	奏決	天子、天皇に奏聞し決定すること。
+j	奏法	奏法	楽器を演奏する方法。
+j	奏状	奏状	臣下が天子に奏上する書状。
+j	奏瑞	奏瑞	天子に瑞祥を奏上すること。
+j	奏章	奏章	上奏の文。
+j	奏者	奏者	musical performer
+j	奏聞	奏聞	Reporting to the Emperor
+j	奏薦	奏薦	天子に奏上し推薦すること。
+j	奏覧	奏覧	天子に奏上して御目にかけること。
+j	奏詞	奏詞	天皇に奏上する言葉。
+j	奏請	奏請	petitioning the emperor
+j	奏達	奏達	天皇に奏上し、その耳に入れること。
+j	宏一	宏一	a male given name
+j	宏之	宏之	a male given name
+j	宏作	宏作	a male given name
+j	宏倫	宏倫	a male given name
+j	宏典	宏典	a male given name
+j	宏和	宏和	a male given name
+j	宏壮	宏壮	建物などが広大で立派なこと。
+j	宏大	宏大	広くて大きい様子。
+j	宏宜	宏宜	a male given name
+j	宏実	宏実	a female given name
+j	宏志	宏志	a male given name
+j	宏才	宏才	widely knowledgeable
+j	宏政	宏政	a male given name
+j	宏敞	宏敞	広く、平なさま。
+j	宏昌	宏昌	a male given name
+j	宏明	宏明	a male given name
+j	宏春	宏春	a male given name
+j	宏樹	宏樹	a male given name
+j	宏次	宏次	a male given name
+j	宏治	宏治	a male given name
+j	宏海	宏海	a male given name
+j	宏紀	宏紀	a male given name
+j	宏臣	宏臣	a male given name
+j	宏行	宏行	a male given name
+j	宏謨	宏謨	国の大きなはかりごと、計画。
+j	宏遠	宏遠	広く遠大なさま。
+j	宏量	宏量	度量が広いこと。小事にこだわらないこと。また、その…
+j	宏雄	宏雄	a male given name
+j	宏麗	宏麗	広大で素晴らしいこと。また、そのようなさま。
+j	小㪘	小㪘	小斂の拡張新字体を用いた表記。
+j	小一	小一	first-year student of an …
+j	小三	小三	(略語)小学校三年生。
+j	小中	小中	小学校 (shōgakkō, “elementar…
+j	小乏	小乏	身分が卑しいこと。また、そのようなさま。
+j	小乗	小乗	後期仏教で大乗（大乗仏教）から見て自分だけの悟りを…
+j	小事	小事	a trifle, trifling matter
+j	小二	小二	
+j	小五	小五	
+j	小人	小人	child, small person
+j	小休	小休	少しの休み。小休止。
+j	小会	小会	meeting of a small number…
+j	小伝	小伝	簡単に書かれた伝記。略伝。
+j	小体	小体	つつましいさま。こじんまりとしたさま。
+j	小作	小作	tenant farming, the leasi…
+j	小使	小使	janitor
+j	小便	小便	urine
+j	小俣	小俣	a neighborhood of Annaka,…
+j	小倉	小倉	a surname
+j	小僕	小僕	年が若い下僕。
+j	小僧	小僧	young/novice Buddhist monk
+j	小兎	小兎	Any of a species of small…
+j	小児	小児	young child, infant
+j	小党	小党	党員が少ない政党。議会で議席が少ない政党。
+j	小六	小六	
+j	小兵	小兵	a small person
+j	小円	小円	a small circle
+j	小冊	小冊	小さい書物。または、薄い書物。
+j	小出	小出	a surname
+j	小刀	小刀	small knife, short sword
+j	小分	小分	小さく分けること。こわけ。
+j	小判	小判	a gold coin of feudal Jap…
+j	小利	小利	小さな利益。
+j	小剣	小剣	小さな刀剣。スモールソード。
+j	小勇	小勇	些細なことに逸るつまらない勇気。
+j	小勢	小勢	（こぜい、しょうぜい）少ない人数。少人数。
+j	小包	小包	parcel, package
+j	小匙	小匙	teaspoon
+j	小区	小区	1872年から1878年まで設置された地方行政区画…
+j	小卒	小卒	having graduated (卒業) fro…
+j	小卓	小卓	小さい机。小机。
+j	小原	小原	a place name
+j	小受	小受	小学校受験の略。
+j	小口	小口	small lot, small sum, sma…
+j	小吉	小吉	おみくじで大吉、中吉の次に良い運勢。
+j	小名	小名	During the Kamakura and M…
+j	小吏	小吏	地位が低い役人。
+j	小品	小品	short things, something v…
+j	小唄	小唄	ballad
+j	小問	小問	sub-question that is part…
+j	小善	小善	小さな善行。
+j	小四	小四	
+j	小国	小国	small nation, small count…
+j	小圃	小圃	規模が小さな畑。
+j	小圏	小圏	小さな圏点。
+j	小坂	小坂	Osaka
+j	小坊	小坊	newbie kid
+j	小型	小型	small-size, small, tiny
+j	小城	小城	小さい城。
+j	小堀	小堀	a surname
+j	小塊	小塊	small knob
+j	小塚	小塚	a surname
+j	小声	小声	low voice, whisper
+j	小売	小売	retail
+j	小変	小変	わずかな変化。
+j	小夜	小夜	dark, night, nighttime
+j	小女	小女	年齢が若い女性。童女。
+j	小姑	小姑	
+j	小姓	小姓	page
+j	小娘	小娘	little lady; young lady; …
+j	小孔	小孔	
+j	小字	小字	small text
+j	小学	小学	elementary school (grades…
+j	小學	小學	
+j	小宅	小宅	自宅を謙遜していう語。拙宅。
+j	小官	小官	first person singular pro…
+j	小室	小室	a surname
+j	小宮	小宮	a surname
+j	小宴	小宴	少ない人数の宴会。
+j	小寒	小寒	"Lesser Cold" (one of twe…
+j	小寺	小寺	a surname
+j	小尺	小尺	律令制の長さで標準的な尺。唐尺。
+j	小屋	小屋	cottage, hut, cabin, shed
+j	小山	小山	hill, knoll
+j	小島	小島	isle, islet, small island
+j	小嶋	小嶋	a surname
+j	小嶌	小嶌	a surname
+j	小川	小川	brook, streamlet, stream,…
+j	小工	小工	奈良時代、平安時代に大工の下で建物の修理などを司っ…
+j	小差	小差	slight difference
+j	小師	小師	a young monk less than 10…
+j	小帯	小帯	frenulum
+j	小幅	小幅	of a limited range or dif…
+j	小幡	小幡	a surname
+j	小平	小平	Kodaira (a city in Tokyo …
+j	小序	小序	短い序文。
+j	小座	小座	小さな座敷。
+j	小庭	小庭	a small garden, narrow ga…
+j	小康	小康	a lull, a respite, a brea…
+j	小弟	小弟	little brother; younger b…
+j	小径	小径	synonym of こみち (komichi)
+j	小心	小心	臆病な心持。
+j	小忿	小忿	小さな怒り。
+j	小性	小性	子ども。
+j	小怨	小怨	小さなことへの怨み。
+j	小恵	小恵	僅かな恵み、恩恵。
+j	小悪	小悪	小さな悪事。
+j	小愆	小愆	わずかな過失。
+j	小慧	小慧	小賢しいこと。
+j	小憤	小憤	小さな怒り。
+j	小憩	小憩	short rest, recess
+j	小憾	小憾	小怨。
+j	小我	小我	an unenlightened person; …
+j	小戦	小戦	ちょっとさした戦。
+j	小才	小才	僅かな才知や才能。
+j	小技	小技	trick, technique
+j	小指	小指	a little finger or little…
+j	小数	小数	decimal fraction, decimal…
+j	小斂	小斂	葬衣を着せること。
+j	小文	小文	短い文。
+j	小斤	小斤	律令制における重量の単位の一つ。現在の約600グラ…
+j	小春	小春	early autumn, Indian summ…
+j	小時	小時	幼い頃。幼少時。
+j	小景	小景	a bit of scenery (especia…
+j	小智	小智	ちょっとした才知。
+j	小暇	小暇	少しの暇。
+j	小暑	小暑	Lesser Heat (the 11th of …
+j	小曲	小曲	short piece of music
+j	小杉	小杉	a surname
+j	小村	小村	a surname
+j	小松	小松	a city in Ishikawa Prefec…
+j	小林	小林	Kobayashi (a city in Miya…
+j	小枝	小枝	twig, spray
+j	小柄	小柄	knife attached to the she…
+j	小柳	小柳	a surname
+j	小柴	小柴	a surname
+j	小栗	小栗	a surname
+j	小核	小核	原生生物の繊毛虫類の細胞にある2種類の細胞核のうち…
+j	小根	小根	小乗の教えを受けるのにふさわしい機根。
+j	小森	小森	a surname
+j	小椋	小椋	a surname
+j	小槌	小槌	a small mallet or hammer
+j	小樹	小樹	小さな樹木。
+j	小樽	小樽	a city in Hokkaido Prefec…
+j	小檻	小檻	手すり。
+j	小母	小母	endearing term for a woma…
+j	小民	小民	下々の民。庶民。
+j	小水	小水	urine
+j	小池	小池	a surname
+j	小沢	小沢	a surname
+j	小沼	小沼	a surname
+j	小泉	小泉	a placename, such that of…
+j	小波	小波	small wave
+j	小派	小派	人数が少ない党派。
+j	小流	小流	水などの小さな流れ。小川。
+j	小浜	小浜	Obama (a city in Fukui Pr…
+j	小渕	小渕	a surname
+j	小満	小満	lit. "grain full"; one of…
+j	小滴	小滴	droplet
+j	小滿	小滿	
+j	小火	小火	small fire
+j	小熊	小熊	a small bear
+j	小片	小片	小さなかけらやきれはし。
+j	小牧	小牧	Komaki (a city in Aichi P…
+j	小物	小物	小品。
+j	小特	小特	「小型特殊自動車」または「小型特殊自動車免許（小型…
+j	小犬	小犬	puppy
+j	小猫	小猫	
+j	小獣	小獣	小さい獣。
+j	小玉	小玉	a surname
+j	小球	小球	小さな球。
+j	小瑕	小瑕	小さい瑕。僅かな欠陥や過ち。
+j	小瓶	小瓶	small bottle
+j	小生	小生	I
+j	小用	小用	ちょっとした用事。
+j	小田	小田	a surname
+j	小男	小男	律令制で16歳または17歳の男子。
+j	小町	小町	a female given name
+j	小畑	小畑	a surname
+j	小畜	小畜	六十四卦の一つ。卦の形はであり、坤下巽上で構成され…
+j	小番	小番	中世日本で、宮廷、社寺の廷臣、僧が当番で勤務するこ…
+j	小異	小異	小さな違い。
+j	小疵	小疵	小さい疵。僅かな欠陥や過ち。
+j	小癪	小癪	生意気なさま。こざかしいさま。
+j	小皺	小皺	lacquered paper eboshi wi…
+j	小皿	小皿	small dish
+j	小盗	小盗	こそどろ。
+j	小知	小知	ちょっとした才知。
+j	小石	小石	pebble, stone
+j	小破	小破	mild damage
+j	小磯	小磯	a surname
+j	小社	小社	our company
+j	小祠	小祠	小さい祠。
+j	小禄	小禄	少ない禄や俸給。
+j	小禽	小禽	小さい鳥。
+j	小穂	小穂	イネ科やカヤツリグサ科の花穂で最小単位の花序。
+j	小窃	小窃	小盗。
+j	小竹	小竹	a surname
+j	小節	小節	a small knot in wood; lum…
+j	小篆	小篆	small seal script
+j	小篇	小篇	短い散文。短編。
+j	小簡	小簡	手紙。
+j	小米	小米	scraps of crushed rice
+j	小粒	小粒	a small grain
+j	小紋	小紋	染め物の一つで全体に細かい模様を散らして染めたもの。
+j	小紙	小紙	小さな紙。
+j	小紛	小紛	小さな紛争。
+j	小経	小経	（しょうけい）儒教の基本的な書物である「経書」を分…
+j	小結	小結	komusubi, the fourth-high…
+j	小綬	小綬	綬のうち最も小さいもの。
+j	小編	小編	短い散文。短編。
+j	小縁	小縁	幅が狭い縁側。
+j	小羊	小羊	a lamb (young sheep)
+j	小考	小考	ちょっと考えること。
+j	小職	小職	lowly government servant,…
+j	小胆	小胆	度胸がないこと。また、そのようなさま。
+j	小胞	小胞	
+j	小胴	小胴	こづつみの別称。
+j	小脳	小脳	cerebellum
+j	小腸	小腸	small intestine
+j	小舅	小舅	
+j	小舌	小舌	舌の根元が腫れて舌状の腫物ができる病気。重舌。こじ…
+j	小舟	小舟	small boat
+j	小船	小船	小型の船舶。
+j	小花	小花	small flower
+j	小菅	小菅	a surname
+j	小葉	小葉	小さい葉。
+j	小藩	小藩	石高（領地）の少ない藩。
+j	小虎	小虎	child tiger
+j	小蜂	小蜂	
+j	小袖	小袖	a long garment with narro…
+j	小補	小補	少しだけ補助すること。
+j	小襦	小襦	短衣。
+j	小西	小西	a surname
+j	小見	小見	narrow perspective
+j	小角	小角	三寸四方の板の折敷。
+j	小言	小言	scolding, faultfinding
+j	小計	小計	subtotal
+j	小話	小話	ちょっとした短い話。
+j	小誌	小誌	小さな雑誌。
+j	小語	小語	短い話をすること。
+j	小説	小説	novel, story, fiction
+j	小論	小論	規模の小さな論文・論説。
+j	小諸	小諸	Komoro (a city in Nagano …
+j	小譴	小譴	わずかな過失。
+j	小谷	小谷	a surname
+j	小豆	小豆	the azuki bean, Vigna ang…
+j	小賤	小賤	卑賤。
+j	小路	小路	lane, alley
+j	小車	小車	a small vehicle
+j	小輦	小輦	肩輦。
+j	小輿	小輿	高欄を回らせ、屋形のない輿。
+j	小農	小農	smallholder, petty farmer…
+j	小逕	小逕	小径の異表記。
+j	小道	小道	(ショウドウ, こみち)細く狭い道。
+j	小邦	小邦	小さい国。
+j	小郡	小郡	古代日本で五つの等級に分けた郡のうち最小（二里から…
+j	小部	小部	部首「⼩」で分類した漢字の一群。
+j	小酌	小酌	少人数による飲み会。
+j	小酒	小酒	a small amount of alcohol
+j	小野	小野	field
+j	小量	小量	of a small amount, small …
+j	小針	小針	hour hand, little hand
+j	小鉢	小鉢	small bowl
+j	小銃	小銃	a rifle (firearm with a r…
+j	小銭	小銭	small change, coins
+j	小鍋	小鍋	a small pot
+j	小門	小門	小さい門。
+j	小閑	小閑	少しの閑。
+j	小間	小間	a small room; a narrow ro…
+j	小関	小関	a surname
+j	小阪	小阪	a surname
+j	小陽	小陽	a female given name
+j	小隊	小隊	a platoon
+j	小雀	小雀	a willow tit
+j	小雅	小雅	大雅とともに詩経の大別の一つ。
+j	小集	小集	少人数の集まり。
+j	小難	小難	a small misfortune
+j	小雨	小雨	light rain, drizzle
+j	小雪	小雪	a solar term denoting app…
+j	小面	小面	
+j	小頑	小頑	腕白。
+j	小頭	小頭	漢字の部首「⼩」の呼称の一つ。
+j	小額	小額	small denomination, small…
+j	小顔	小顔	small face
+j	小食	小食	eating in small portions
+j	小馬	小馬	
+j	小駅	小駅	街道などの小さな宿場。
+j	小駒	小駒	minor piece
+j	小骨	小骨	a small bone
+j	小高	小高	a surname
+j	小鬟	小鬟	婢女。
+j	小鬢	小鬢	hair on temples; hair on …
+j	小鬼	小鬼	
+j	小魚	小魚	small fish
+j	小鯨	小鯨	synonym of 克鯨 (kokukujira…
+j	小鳥	小鳥	small bird, little bird
+j	小鳩	小鳩	small dove
+j	小鴨	小鴨	Eurasian teal, Anas crecca
+j	小鹿	小鹿	a surname
+j	小麦	小麦	wheat
+j	小黠	小黠	小賢しいこと。また、そのようなさま。
+j	小鼓	小鼓	小さい鼓。
+j	小鼻	小鼻	nosewing
+j	屏営	屏営	精神的に落ち着かないこと。怖れ戦くこと。また、その…
+j	屏息	屏息	息を殺してじっとすること。
+j	屏東	屏東	Pingtung (a city in Taiwa…
+j	屏語	屏語	人を退け、密かに語ること。また、その言葉。
+j	屏障	屏障	隔て遮るために立てるもの。
+j	屏風	屏風	a folding screen
+j	序列	序列	ranking, hierarchy
+j	序奏	序奏	楽曲の主要な部分に入る前の導入部分。イントロダクシ…
+j	序室	序室	教室。
+j	序幕	序幕	opening act
+j	序数	序数	ordinal number
+j	序文	序文	preface, foreword
+j	序曲	序曲	overture
+j	序次	序次	sequence, the order of th…
+j	序盤	序盤	opening
+j	序章	序章	preface, prologue
+j	序言	序言	序として述べる言葉。前書き。
+j	序詞	序詞	A monotone prologue with …
+j	序説	序説	本論に入る前書きとしての論説。
+j	序論	序論	論説の冒頭にこれから述べる内容の概要を述べたもの。
+j	序跋	序跋	preface and postscript
+j	式典	式典	ceremony
+j	式場	式場	ceremonial hall
+j	式日	式日	儀式が行われる日。
+j	式服	式服	formalwear
+j	式楽	式楽	公の儀式で使われる音楽や舞踊。特に江戸幕府における…
+j	式次	式次	式典や儀式を執行する順序。式次第。
+j	式法	式法	定められた儀式や作法、形式。
+j	式神	式神	A kind of familiar spirit…
+j	式辞	式辞	speech (at a ceremony)
+j	式部	式部	
+j	式量	式量	ある化学式に含まれる原子の原子量の総和。
+j	怏怏	怏怏	不満足または楽しまぬ様をいう語。
+j	惏慄	惏慄	寒くて、ぶるぶる震えるさま。
+j	意中	意中	one's mind, one's heart, …
+j	意企	意企	たくらむこと。くわだてること。計画すること。
+j	意処	意処	知覚の機能、知覚の器官。十二処のひとつ。意、意根に…
+j	意力	意力	やり抜こうという意志の力。精神力。
+j	意匠	意匠	design
+j	意向	意向	one's desires or intentio…
+j	意味	意味	a meaning; a significance…
+j	意嚮	意嚮	どうしたいかについての考え。
+j	意図	意図	intention
+j	意地	意地	disposition; spirit; will…
+j	意執	意執	一つの事柄や考えに執着すること。
+j	意外	意外	surprising, unexpected
+j	意字	意字	表意文字の略。
+j	意志	意志	will (intention or decisi…
+j	意念	意念	考え。
+j	意思	意思	intention; intent; purpos…
+j	意想	意想	考え。
+j	意慾	意慾	意欲と同義。
+j	意根	意根	知覚の機能、知覚の器官。六根のひとつ。意、意処に同…
+j	意業	意業	三業のうちの心の働き。すべての思念。
+j	意欲	意欲	will, desire, ambition
+j	意気	意気	spirits, especially high …
+j	意瑳	意瑳	a female given name
+j	意界	意界	知覚の機能、知覚の器官。六根のひとつである意根、も…
+j	意符	意符	semantic component of a C…
+j	意緒	意緒	思うところ。心の持ちよう。心緒。
+j	意義	意義	significance
+j	意表	意表	（「表」は「中」に対する「外側」の意）思いの外、予…
+j	意見	意見	opinion
+j	意訳	意訳	liberal translation
+j	意識	意識	consciousness; awareness
+j	意趣	意趣	malice
+j	捏病	捏病	仮病。
+j	捏造	捏造	fabrication; fake; staged
+j	掏る	掏る	to pickpocket
+j	掏摸	掏摸	pickpocketing
+j	描き	描き	
+j	描く	描く	to paint; to draw
+j	描像	描像	像を描くこと。また、その描いた像。
+j	描写	描写	description; depiction; p…
+j	描出	描出	描き出すこと。
+j	描寫	描寫	
+j	描画	描画	drawing, painting, portra…
+j	描線	描線	drawn line
+j	搏動	搏動	心臓が律動的に血液を送るための収縮運動。
+j	搏戦	搏戦	組みあってたたかうこと。搏闘。格闘。
+j	搏撃	搏撃	うち、叩くこと。格闘すること。
+j	搏闘	搏闘	互いに殴り合って闘うこと。
+j	敏い	敏い	
+j	敏一	敏一	a male given name
+j	敏三	敏三	a male given name
+j	敏久	敏久	a male given name
+j	敏之	敏之	a male given name
+j	敏博	敏博	a male given name
+j	敏史	敏史	a male given name
+j	敏和	敏和	a male given name
+j	敏員	敏員	a male given name
+j	敏夫	敏夫	a male given name
+j	敏孝	敏孝	a male given name
+j	敏弘	敏弘	a male given name
+j	敏彦	敏彦	a male given name
+j	敏感	敏感	sensitive
+j	敏慧	敏慧	clever; intelligent
+j	敏捷	敏捷	nimble, agile (having the…
+j	敏文	敏文	a male given name
+j	敏明	敏明	a male given name
+j	敏昭	敏昭	a male given name
+j	敏晃	敏晃	a male given name
+j	敏晴	敏晴	a male given name
+j	敏朗	敏朗	a male given name
+j	敏正	敏正	a male given name
+j	敏浩	敏浩	a male given name
+j	敏男	敏男	a male given name
+j	敏腕	敏腕	having great ability
+j	敏行	敏行	a male given name
+j	敏輝	敏輝	a male given name
+j	敏速	敏速	素早いこと。また、そのようなさま。敏捷。
+j	敏郎	敏郎	a male given name
+j	敏隆	敏隆	a male given name
+j	族人	族人	一族の人々。一門の人。
+j	族制	族制	家族や氏族などの集団に関する制度。
+j	族望	族望	一族の名誉。
+j	族生	族生	植物などが群がって生じること。群生。叢生。
+j	族称	族称	かつての国民の身分上の呼称。華族、士族など。
+j	族群	族群	ethnic group
+j	族親	族親	親族。一族。一門。
+j	族譜	族譜	一族の系譜。
+j	族長	族長	the head of a family or c…
+j	昏乱	昏乱	理性を失い、分別がつかなくなること。
+j	昏倒	昏倒	fainting
+j	昏墊	昏墊	洪水などの水害でおぼれること。
+j	昏夜	昏夜	暮れと夜。
+j	昏怠	昏怠	昏惰。
+j	昏惰	昏惰	道理がわからず、物事を怠ること。昏怠。
+j	昏愚	昏愚	道理に暗く、愚かなこと。
+j	昏昏	昏昏	暗いさま。
+j	昏晦	昏晦	（日没で）暗いこと。
+j	昏暮	昏暮	日の暮れて薄暗い時。
+j	昏睡	昏睡	a stupor, a deep sleep
+j	昏瞶	昏瞶	暗愚。
+j	昏絶	昏絶	目がくらみ、一時的に気を失うこと。気絶。
+j	昏蒙	昏蒙	
+j	昏迷	昏迷	stupor, unconsciousness
+j	昏酔	昏酔	酒などに前後不覚になるまで酔うこと。
+j	昏鐘	昏鐘	日暮れに寺院で撞く鐘。また、その音。
+j	晏如	晏如	peaceful, at ease
+j	晏然	晏然	安らかで落ちついている様子。
+j	晏駕	晏駕	天子、天皇が崩御することの婉曲的な表現。
+j	杏仁	杏仁	dried apricot kernels use…
+j	杏堂	杏堂	a surname
+j	杏奈	杏奈	a female given name
+j	杏子	杏子	an apricot, especially th…
+j	杏果	杏果	a female given name
+j	杏梨	杏梨	a female given name
+j	杏美	杏美	a female given name
+j	杏花	杏花	杏の花。
+j	杏茸	杏茸	
+j	杏葉	杏葉	唐鞍の装飾具。面繋、胸繋、尻繋につける装飾。
+j	杏里	杏里	a female given name
+j	杏野	杏野	a surname
+j	柏原	柏原	Kashiwara (a city in Osak…
+j	柏台	柏台	御史台。
+j	柏崎	柏崎	Kashiwazaki (a city in Ni…
+j	柏木	柏木	an oak tree
+j	柏槇	柏槇	「イブキ」（伊吹）の別名。
+j	柏槙	柏槙	「イブキ」の別名。
+j	柏樹	柏樹	榧。
+j	柏瀬	柏瀬	a surname
+j	柏餅	柏餅	kashiwa mochi, a type of …
+j	氏ぬ	氏ぬ	「死ぬ」の伏せ字的表現。
+j	氏ね	氏ね	死ねの異綴。 不満を表す表現: 死ね、地獄へ落ちろ…
+j	氏名	氏名	a full name
+j	氏姓	氏姓	氏と姓。
+j	氏家	氏家	a surname
+j	氏族	氏族	clan
+j	氏部	氏部	部首「⽒」で分類した漢字の一群。
+j	漏る	漏る	synonym of 漏れる (moreru)
+j	漏れ	漏れ	leak, leakage
+j	漏出	漏出	中から漏れて出ること。
+j	漏刻	漏刻	溜めた水を流して時間をはかる時計。水時計。また、そ…
+j	漏告	漏告	他人に秘密を漏らし、告げること。
+j	漏壺	漏壺	水時計（漏刻）で水を貯める容器で、下にあいた穴から…
+j	漏天	漏天	多雨。
+j	漏失	漏失	漏れて、失くなること。
+j	漏斗	漏斗	a funnel (utensil used to…
+j	漏水	漏水	water leakage
+j	漏洩	漏洩	leak (of secrets, informa…
+j	漏液	漏液	leakage of fluid
+j	漏点	漏点	漏水。
+j	漏精	漏精	精液を漏らすこと。
+j	漏話	漏話	電話で通話中に近接した回線から通話が漏れること。混…
+j	漏逗	漏逗	粗忽。
+j	漏電	漏電	leaking electricity
+j	漏鼓	漏鼓	時刻を告げる太鼓。
+j	烏兎	烏兎	烏と兎。
+j	烏口	烏口	a ruling pen
+j	烏合	烏合	disorderly gathering of p…
+j	烏喙	烏喙	a crow's beak
+j	烏孫	烏孫	中国漢から南北朝の時代、天山山脈の北方に拠ったトル…
+j	烏座	烏座	
+j	烏有	烏有	nonexistence, nothing
+j	烏木	烏木	synonym of 黒檀 (kokutan, “…
+j	烏桓	烏桓	Wuhuan, an ancient ethnic…
+j	烏梅	烏梅	an unripe Japanese ume th…
+j	烏海	烏海	Wuhai (a city in the Inne…
+j	烏瓜	烏瓜	Japanese snake gourd (Tri…
+j	烏秋	烏秋	
+j	烏肉	烏肉	烏の肉。
+j	烏蛇	烏蛇	black morph Japanese stri…
+j	烏賊	烏賊	a squid (sea animal), a c…
+j	烏集	烏集	烏の集団のように統率もなくやかましい集まり。烏合。
+j	烏頭	烏頭	dried rhizomes of plants …
+j	烏鷺	烏鷺	crows and herons
+j	烏麦	烏麦	common wild oat (Avena fa…
+j	熏修	熏修	修行。
+j	熏熏	熏熏	和合するさま。
+j	熏黒	熏黒	燻らすこと。
+j	瓏銀	瓏銀	鮮やかな銀色。
+j	畏れ	畏れ	
+j	畏伏	畏伏	畏れ、従うこと。
+j	畏怖	畏怖	fear
+j	畏惧	畏惧	恐れ憚ること。
+j	畏憚	畏憚	畏れて憚ること。
+j	畏懼	畏懼	awe
+j	畏敬	畏敬	reverence
+j	畏日	畏日	夏の暑い日。
+j	畏服	畏服	畏れ、従うこと。
+j	畏避	畏避	避けること。
+j	疏失	疏失	失策すること。
+j	疏密	疏密	粗いことと緻密なこと。
+j	疏散	疏散	「疎散」の異表記。
+j	疏水	疏水	irrigation canal
+j	疏注	疏注	注釈。また、前の注釈に施した注釈。
+j	疏状	疏状	事情を弁解する内容を記した文書。弁明書。
+j	疏註	疏註	「疏注」の別表記。
+j	疏趾	疏趾	雉。
+j	疏遠	疏遠	関係が疎く、遠いこと。
+j	疏韻	疏韻	淡雅。
+j	疏食	疏食	野菜。
+j	硏磨	硏磨	
+j	硏練	硏練	研練の旧字体表記。
+j	福三	福三	a male given name
+j	福井	福井	Fukui (the capital city o…
+j	福人	福人	裕福な者。金持ち。
+j	福分	福分	世間的な幸福を得る元となる五戒、十善の行。
+j	福利	福利	welfare
+j	福券	福券	1944年から1945年に日本政府が発売した富籤。…
+j	福原	福原	a surname
+j	福因	福因	幸福をもたらす原因や行為。
+j	福地	福地	a surname
+j	福塚	福塚	a surname
+j	福士	福士	a surname
+j	福家	福家	a surname
+j	福富	福富	a surname
+j	福寿	福寿	good fortune and longevity
+j	福山	福山	Fukuyama (a city in Hiros…
+j	福岡	福岡	Fukuoka (the capital city…
+j	福島	福島	福島県: Fukushima (a prefect…
+j	福州	福州	Fuzhou (a prefecture-leve…
+j	福建	福建	Fujian (a geographic regi…
+j	福徳	福徳	善行とそれにより得られる幸福の利益。
+j	福本	福本	a surname
+j	福果	福果	善行により得られるよい果報。
+j	福森	福森	a surname
+j	福永	福永	a surname
+j	福津	福津	Fukutsu (a city in Fukuok…
+j	福浦	福浦	a surname
+j	福王	福王	a surname
+j	福生	福生	Fussa (a city in Tokyo pr…
+j	福田	福田	a surname
+j	福留	福留	a surname
+j	福盛	福盛	a surname
+j	福相	福相	いかにも幸福、裕福そうな人相。
+j	福祉	福祉	welfare, well-being
+j	福神	福神	幸福や財物などをもたらすとされる神。
+j	福祥	福祥	幸福と吉祥。
+j	福耳	福耳	耳たぶの大きい耳。
+j	福良	福良	a surname
+j	福袋	福袋	A "mystery bag" filled wi…
+j	福豆	福豆	節分にまく煎り豆。冬の季語。
+j	福郷	福郷	道観。
+j	福間	福間	a surname
+j	福雄	福雄	a male given name
+j	福音	福音	the Gospel, good news
+j	穏便	穏便	gentle; quiet; amicable; …
+j	穏健	穏健	moderate
+j	穏和	穏和	穏やかで和んでいること。
+j	穏固	穏固	しっかりしていて丈夫なさま。
+j	穏審	穏審	落ち着くこと。
+j	穏当	穏当	物事が穏やかで激しくないさま。
+j	穏截	穏截	古代日本で国司などが公の物や売り払いの差額を横領す…
+j	穏身	穏身	適度。
+j	綏勧	綏勧	安んじて励ますこと。
+j	綏宥	綏宥	撫恤すること。
+j	綏撫	綏撫	人民を安んじ、鎮めること。
+j	綏遠	綏遠	遠方を平定して治めること。
+j	綏靖	綏靖	安んずること。
+j	総一	総一	a male given name
+j	総代	総代	関係者全員を代表すること。
+j	総会	総会	general assembly, general…
+j	総体	総体	物事を構成する上でのすべて。
+j	総作	総作	江戸時代、耕作者が不在となった田畑を村全体で耕作し…
+j	総兵	総兵	総ての兵。
+j	総出	総出	with everyone present
+j	総判	総判	広い視野で物事を判断すること。
+j	総別	総別	generally
+j	総制	総制	編成すること。構成すること。
+j	総則	総則	全体的に共通して適用される規則。
+j	総力	総力	出しうるすべての力。全力。
+j	総務	総務	general affairs
+j	総勢	総勢	全体の軍勢や人数。
+j	総司	総司	a male given name
+j	総合	総合	synthesis, consolidation,…
+j	総和	総和	sum, total
+j	総員	総員	the entire strength; all …
+j	総太	総太	a male given name
+j	総奏	総奏	tutti
+j	総州	総州	上総国^(（かずさのくに）)と下総国^(（しもうさ…
+j	総帥	総帥	highest leader
+j	総弁	総弁	ある事を総て処理すること。また、そのような職。
+j	総意	総意	consensus
+j	総括	総括	comprehensive
+j	総攬	総攬	政事などを掌握すること。
+j	総数	総数	a total, the total number
+j	総武	総武	下総国、上総国と武蔵国の略称。
+j	総点	総点	得た点数の総合計。
+j	総状	総状	総（房）のような形状や状態。
+j	総理	総理	Prime Minister, often in …
+j	総画	総画	stroke count: the number …
+j	総監	総監	すべての仕事や人を監督すること。またそれを行う役職。
+j	総督	総督	governor general
+j	総称	総称	general term
+j	総統	総統	general control over some…
+j	総苞	総苞	involucre
+j	総菜	総菜	「惣菜」の同音の漢字による書きかえ。
+j	総裁	総裁	president (of public orga…
+j	総覧	総覧	全体にわたって目にすること。
+j	総角	総角	unmarried man
+j	総計	総計	total, sum, total amount
+j	総記	総記	general description
+j	総説	総説	全体をまとめて説くこと。
+j	総論	総論	全体に亘る論。
+j	総譜	総譜	オーケストラやコーラスなどのそれぞれのパートの楽譜…
+j	総身	総身	one's whole body
+j	総軍	総軍	すべての軍。全軍。
+j	総辨	総辨	ある事を総て処理すること。また、そのような職。
+j	総量	総量	gross weight
+j	総長	総長	a chief of a whole system
+j	総門	総門	外構えの大門。
+j	総隊	総隊	陸上自衛隊、航空自衛隊の総軍。
+j	総集	総集	全てが集まること。全てを集めること。
+j	総領	総領	律令制が完成する前の7世紀後半に諸国に置かれていた…
+j	総額	総額	total amount, whole sum, …
+j	総願	総願	四弘誓願。
+j	纏う	纏う	to be dressed in, wear, p…
+j	纏声	纏声	和声。
+j	纏着	纏着	纏わり付くこと。絡まり付くこと。
+j	纏絡	纏絡	絡むこと。
+j	纏綿	纏綿	絡み付くこと。
+j	纏縈	纏縈	纏うこと。
+j	纏縛	纏縛	きつく縛ること。
+j	纏繞	纏繞	纏わりつくこと。巻き付くこと。
+j	纏足	纏足	footbinding
+j	纏頭	纏頭	祝儀として出す金銭。
+j	翏翏	翏翏	遠くから風が吹いてくる音の形容。
+j	膏沃	膏沃	土地が肥沃であるさま。また、そのような土地。膏腴。
+j	膏沢	膏沢	恩恵。恩沢。潤い。
+j	膏油	膏油	粘性のあるまたは固形の膏と液状の油。灯火や磨くため…
+j	膏粱	膏粱	脂の乗った肉と上等な穀物。贅沢な食事。
+j	膏肉	膏肉	脂身。
+j	膏肓	膏肓	vital organs
+j	膏腴	膏腴	土地が肥沃であるさま。また、そのような土地。膏沃。
+j	膏臊	膏臊	犬の脂。
+j	膏薬	膏薬	油で練り固めた外用薬。
+j	膏血	膏血	膏と血。
+j	膏雨	膏雨	農作物や草木を潤し、生育させる雨。甘雨。
+j	荏原	荏原	Ebara, Tokyo
+j	荏苒	荏苒	段段と月日の経つこと。
+j	薏苡	薏苡	synonym of 数珠玉 (juzudama,…
+j	裏の	裏の	
+j	裏側	裏側	the other side; reverse s…
+j	裏口	裏口	back door
+j	裏向	裏向	
+j	裏地	裏地	衣服の裏につける布地。
+j	裏垢	裏垢	secret personal account (…
+j	裏声	裏声	falsetto
+j	裏外	裏外	内と外。すべて。
+j	裏山	裏山	mountain or hill that is …
+j	裏巻	裏巻	the portion of the back o…
+j	裏庭	裏庭	backyard (yard to the rea…
+j	裏戸	裏戸	back door
+j	裏技	裏技	An underhanded trick.
+j	裏拍	裏拍	syncopated beat, an accen…
+j	裏本	裏本	hardcore pornography; 'un…
+j	裏海	裏海	陸に囲まれた海。内海。
+j	裏白	裏白	something white on the ba…
+j	裏箔	裏箔	the application of silk a…
+j	裏紋	裏紋	正式な紋所の代わりに使う紋。替紋。
+j	裏芸	裏芸	普段は表に出さないが宴会などの際に披露する芸。隠し…
+j	裏表	裏表	back and front; both sides
+j	裏話	裏話	account of a matter only …
+j	裏金	裏金	a thin piece of metal att…
+j	裏門	裏門	back gate; back door
+j	裏面	裏面	reverse side, back side, …
+j	規制	規制	regulation, control, rest…
+j	規則	規則	rule, regulation
+j	規劃	規劃	図り定めること。
+j	規天	規天	コンパス。
+j	規夫	規夫	a male given name
+j	規子	規子	a female given name
+j	規定	規定	rule
+j	規律	規律	discipline, order
+j	規悦	規悦	a male given name
+j	規戒	規戒	規範により人を戒めること。また、その規範や訓戒。
+j	規整	規整	規律で物事を整えること。
+j	規格	規格	standard, norm
+j	規模	規模	scale, scope, extent, dim…
+j	規正	規正	悪い部分を正しい方へ直すこと。
+j	規準	規準	standards, examples or mo…
+j	規画	規画	図り定めること。
+j	規真	規真	a male given name
+j	規矩	規矩	コンパスとものさし。
+j	規程	規程	regulations
+j	規範	規範	norm; standard
+j	規約	規約	code, protocol
+j	規誨	規誨	戒め、諭すこと。
+j	諏訪	諏訪	Suwa (a city in Nagano Pr…
+j	譏刺	譏刺	非難すること。謗ること。
+j	譏察	譏察	咎め、調べること。
+j	譏忿	譏忿	謗り、怒ること。
+j	譏笑	譏笑	譏り笑うこと。また、その笑い。
+j	譏誚	譏誚	責め、当て擦ること。
+j	譏諫	譏諫	諫め。
+j	譏譴	譏譴	責めること。
+j	贏余	贏余	
+j	贏得	贏得	利益を得ること。
+j	贏虚	贏虚	過不足。
+j	贏輸	贏輸	victory or defeat
+j	跏坐	跏坐	「結跏趺坐」の略。
+j	跏趺	跏趺	(「跏」は足を組む・あぐらをかく、「趺」は足の甲)…
+j	踏み	踏み	Nominalization of 踏む
+j	踏む	踏む	to step, to tread
+j	踏切	踏切	railroad crossing, railwa…
+j	踏板	踏板	
+j	踏査	踏査	exploration; field survey
+j	踏測	踏測	実地を踏んで測量すること。また、その測量。
+j	踏破	踏破	travelling through a long…
+j	踏絵	踏絵	踏み絵の表記揺れ。
+j	踏襲	踏襲	emulation, following in s…
+j	踏鞴	踏鞴	foot bellows
+j	透く	透く	to be transparent, can be…
+j	透修	透修	a male given name
+j	透入	透入	通り抜けて入ること。
+j	透写	透写	透き通った紙を通して写すこと。透き写し。トレース。
+j	透出	透出	漏出すること。漏洩すること。
+j	透徹	透徹	to be perfectly clear
+j	透明	透明	transparent (allowing to …
+j	透暁	透暁	悟ること。
+j	透析	透析	dialysis
+j	透水	透水	permeability to water
+j	透視	透視	seeing through
+j	透過	透過	penetration (of light, ra…
+j	透関	透関	禅宗で関門を透過するように障害を乗り越え悟りを得る…
+j	透龍	透龍	a male given name
+j	遏止	遏止	to hold back; to check; t…
+j	邏卒	邏卒	見回りの兵卒。警邏する兵卒。
+j	量る	量る	
+j	量刑	量刑	deciding the degree of pu…
+j	量地	量地	土地を測量すること。
+j	量子	量子	quantum
+j	量定	量定	重さなどをはかって決めること。
+j	量感	量感	物の厚みや重さなどの感じ。
+j	量検	量検	調査。
+j	量檢	量檢	量検の旧字体表記。
+j	量水	量水	河川や湖沼の水位を測量すること。
+j	量浅	量浅	下戸。
+j	量産	量産	mass production
+j	量的	量的	quantitative
+j	量目	量目	秤ではかった物のめかた。
+j	量確	量確	実際の量産設備を用いて製造した試作品や、その量産工…
+j	量見	量見	了見の異表記。
+j	量詞	量詞	
+j	量餉	量餉	（軍隊用の）食糧。糧。
+j	鉏鋙	鉏鋙	物事がうまくかみ合わず、食い違ってうまく進まないこ…
+j	鋏む	鋏む	cut off
+j	鋏刀	鋏刀	鋏。
+j	鋏虫	鋏虫	earwig
+j	鋏角	鋏角	chelicera
+j	閏位	閏位	正統でない王位。
+j	閏年	閏年	a leap year
+j	閏日	閏日	leap day
+j	閏月	閏月	leap month
+j	閏秒	閏秒	地球の自転周期と1日とのずれを修正するために追加も…
+j	閏統	閏統	正統でない系統。傍系。
+j	随一	随一	the best
+j	随伴	随伴	accompanying
+j	随分	随分	extremely, considerably, …
+j	随勢	随勢	大勢に順応すること。
+j	随包	随包	客が主人のお供に与える心付け。
+j	随命	随命	中国三命説の一つで個人の行為の善悪により寿命や運命…
+j	随喜	随喜	他人の善行を見て喜び、これに従い、喜びの気持ちを起…
+j	随声	随声	雷同すること。
+j	随妄	随妄	妄念に従い行動すること。
+j	随宦	随宦	父兄の任地に、子弟が共に赴任すること。
+j	随封	随封	客が主人のお供に与える心付け。
+j	随序	随序	順序に従うこと。
+j	随後	随後	後に従うこと。
+j	随従	随従	付き従うこと。また、そのような人。
+j	随心	随心	心の赴くまま。随意。
+j	随応	随応	髓類応同。
+j	随性	随性	fate that has been decide…
+j	随想	随想	物事に接した時に感じたり思ったりしたこと。また、そ…
+j	随意	随意	optional, voluntary
+j	随感	随感	折に触れての感想。所感。随想。
+j	随所	随所	every place, everywhere
+j	随時	随時	at any time, whenever nec…
+j	随神	随神	主神に随行し、護衛する神。
+j	随筆	随筆	an essay
+j	随縁	随縁	縁に従って異なる相を生ずること。また、生じたもの。
+j	随肩	随肩	肩を並べすぐ後に従うこと。肩随。
+j	随臣	随臣	雛壇で五人囃子の下段に飾られる人形。右大臣、左大臣…
+j	随行	随行	accompaniment (to a place)
+j	随身	随身	（平安期）貴族の身辺警護などのために遣わされた官人。
+j	随逐	随逐	随行。随従。
+j	随順	随順	人の言うことに逆らわず従うこと。
+j	霏霏	霏霏	しきりに雨や雪が降るさま。
+j	鞏固	鞏固	強くしっかりしていて動かないさま。
+j	鞏膜	鞏膜	眼球の後方の大部分を覆う白色の膜。強靭な膜で角膜に…
+j	鞏鞏	鞏鞏	物事に拘ること。また、そのようなさま。
+j	騏馵	騏馵	体は黒緑色で後ろの左足が白い馬。
+j	騏驎	騏驎	麒麟に同じ。
+j	騏驥	騏驥	優れた馬、駿馬。
+j	魏軍	魏軍	Wei (魏) army
+j	魏闕	魏闕	宮城（皇居）の門。
+j	魏魏	魏魏	山などが高大であること。
+j	鶏冠	鶏冠	a comb, cockscomb (fleshy…
+j	鶏卵	鶏卵	chicken egg
+j	鶏口	鶏口	鶏の嘴。
+j	鶏合	鶏合	
+j	鶏姦	鶏姦	male homosexuality
+j	鶏子	鶏子	鶏の卵。鶏卵。
+j	鶏林	鶏林	Gyerim (Korea)
+j	鶏犬	鶏犬	鶏と犬。
+j	鶏盲	鶏盲	夜盲症。とりめ。
+j	鶏眼	鶏眼	corn (type of callus)
+j	鶏糞	鶏糞	chicken droppings
+j	鶏翎	鶏翎	鶏の羽。
+j	鶏肉	鶏肉	chicken (meat)
+j	鶏肋	鶏肋	大した価値はないが捨てるには惜しいもののたとえ。
+j	鶏舌	鶏舌	鶏舌香。
+j	鶏舎	鶏舎	poultry house
+j	鶏蜱	鶏蜱	
+j	鶏豚	鶏豚	鶏と豚。
+j	鶏足	鶏足	chicken leg
+j	鶏頭	鶏頭	plumed cockscomb (Celosia…
+j	鶏鳴	鶏鳴	cry of a cock, or the res…
+j	鶏黍	鶏黍	鶏肉をあつものとし、黍を炊いて食事として出すこと。…
+j	黏臍	黏臍	微塵粉を臍の形にして揚げた菓子。
+k	계간	鶏姦	homosexual activity among…
+k	계란	鶏卵	chicken egg
+k	계림	鶏林	a forest in western Gyeon…
+k	공고	鞏固	announcement
+k	규률	規律	규율의 비표준어.
+k	규모	規模	scale or dimensions
+k	규범	規範	standard; norm
+k	규약	規約	rule; regulation; code
+k	규율	規律	regulation or rules that …
+k	규정	規定	a provision or rule
+k	규제	規制	regulation; restriction
+k	규칙	規則	rule
+k	날조	捏造	fabrication
+k	누각	漏刻	
+k	누두	漏斗	funnel
+k	누설	漏泄	leakage (of gas, liquid, …
+k	누수	漏水	water leakage
+k	누전	漏電	short circuit
+k	답사	踏査	exploration
+k	답습	踏襲	following; imitating (som…
+k	량자	量子	North Korea standard spel…
+k	루설	漏泄	
+k	리두	吏読	
+k	리두	吏讀	
+k	리면	裏面	'이면'의 북한말과 연변말.
+k	리치	吏治	lychee, Litchi chinensis
+k	매년	每年	every year
+k	매번	每番	all the time
+k	매월	每月	monthly, every month, eac…
+k	매일	每日	every day
+k	매주	每週	every week
+k	묘사	描写	description; depiction; p…
+k	묘사	描寫	description; depiction; p…
+k	문답	問答	questions and answers
+k	문데	問題	Pyongan form of 문제(問題) (m…
+k	문명	問名	civilization
+k	문병	問病	visit to a patient
+k	문어	問語	octopus
+k	문의	問議	inquiry
+k	문제	問題	problem, issue, question
+k	민감	敏感	sensitivity
+k	민지	敏智	a female given name
+k	박동	搏動	heartbeat, beat, pulse, p…
+k	병어	屏語	silvery pomfret
+k	병풍	屏風	folding screen
+k	복건	福建	an official hat made of b…
+k	복권	福券	lottery (ticket)
+k	복날	伏날	the three hot days of sum…
+k	복력	福力	resilience
+k	복리	福利	welfare; well-being
+k	복병	伏兵	a hidden army lying in am…
+k	복선	伏線	plot
+k	복음	福音	
+k	복주	福州	
+k	복지	福祉	welfare; well-being
+k	복희	伏羲	Fuxi (a legendary ancient…
+k	불경	仏経	disrespect; irreverence
+k	불교	仏敎	Buddhism
+k	불기	仏紀	lettuce
+k	불도	仏道	teaching of Buddha; Buddh…
+k	불산	仏山	
+k	불상	仏像	the face of a Buddha
+k	불상	仏相	the face of a Buddha
+k	불성	仏性	Buddha-nature
+k	불성	仏聖	Buddha-nature
+k	불어	仏語	French
+k	불은	仏恩	the grace, mercy, kindnes…
+k	불인	仏人	
+k	불전	仏殿	
+k	불타	仏陀	Buddha
+k	서문	序文	preface, foreword
+k	서발	序跋	preface and postscript
+k	서설	序說	
+k	서설	序説	
+k	서장	序章	the head of a government …
+k	소곡	小曲	short piece of music
+k	소금	小笒	salt
+k	소농	小農	a small farmer, peasant
+k	소뇌	小脳	cerebellum
+k	소뇌	小腦	cerebellum
+k	소대	小帯	platoon
+k	소대	小帶	platoon
+k	소대	小隊	platoon
+k	소도	小島	
+k	소두	小豆	azuki bean
+k	소라	小螺	The horned turban (Turbo …
+k	소매	小売	sleeve
+k	소매	小賣	sleeve
+k	소맥	小麥	somaek, beer mixed with s…
+k	소맥	小麦	somaek, beer mixed with s…
+k	소묘	小錨	sketch, drawing
+k	소반	小盤	small dining table
+k	소방	小房	firefighting, fire preven…
+k	소방	疏放	firefighting, fire preven…
+k	소변	小便	urine
+k	소산	小山	흩어져 사라진다.
+k	소설	小說	fictional literature; fic…
+k	소설	小説	fictional literature; fic…
+k	소설	小雪	fictional literature; fic…
+k	소수	小数	minority
+k	소수	小數	minority
+k	소식	小食	news
+k	소식	疏食	news
+k	소아	小児	child (as a minor)
+k	소아	小兒	child (as a minor)
+k	소옥	小屋	cottage, hut, cabin, shed
+k	소원	小園	wish, hope
+k	소인	小人	child, kid
+k	소자	小字	small text
+k	소장	小腸	small intestine
+k	소절	小節	'마디'.
+k	소지	小指	물건을 가지고 있는 일 또는 그 상태
+k	소총	小銃	rifle
+k	소침	小針	hour hand, little hand
+k	소통	小桶	communication
+k	소통	疏通	communication
+k	소포	小包	parcel, package, packet
+k	소품	小品	essay, literary sketch
+k	소형	小型	small size; pocket size
+k	소홀	疏忽	대수롭지 아니하고 예사로움. 또는 탐탁하지 아…
+k	수필	随筆	essay (written compositio…
+k	수행	随行	accomplishment, execution
+k	식사	式辞	meal
+k	식사	式辭	meal
+k	식순	式順	order of a ceremony
+k	식전	式典	ceremony
+k	식후	式後	after food, after eating
+k	씨족	氏族	clan
+k	앙숙	怏宿	bearing hatred against on…
+k	앙심	怏心	grudge; spite
+k	양산	量産	parasol
+k	양자	量子	adopted son
+k	연구	硏究	research
+k	연수	硏修	training, research
+k	오구	烏口	
+k	오환	烏桓	Wuhuan, an ancient ethnic…
+k	윤년	閏年	leap year
+k	윤일	閏日	leap day
+k	의견	意見	an opinion about something
+k	의도	意図	intention
+k	의도	意圖	intention
+k	의미	意味	meaning (of words or deed…
+k	의사	意思	doctor
+k	의식	意識	consciousness; awareness
+k	의의	意義	meaning, significance, im…
+k	의중	意中	one's mind, one's heart, …
+k	의지	意志	determination to accompli…
+k	의향	意向	intention, inclination
+k	이두	吏読	Idu script
+k	이두	吏讀	Idu script
+k	이면	裏面	
+k	이서	裏書	west of something
+k	이조	吏曹	interest portion; nominal…
+k	장서	藏書	library (collection of bo…
+k	장수	藏守	longevity
+k	장식	藏識	decoration, ornamentation
+k	전대	纏帯	squad; squadron
+k	전대	纏帶	squad; squadron
+k	전족	纏足	
+k	족보	族譜	
+k	족장	族長	
+k	족적	族籍	footprint
+k	족하	族下	발밑, 즉 아주 가까운 사람.
+k	주거	住居	dwelling; abode
+k	주민	住民	residents in a place
+k	주소	住所	address
+k	주지	住持	being generally known; es…
+k	주택	住宅	A residential building.
+k	총각	総角	unmarried man
+k	총독	総督	
+k	총리	総理	prime minister; premier
+k	총장	総長	president of a university
+k	총칭	総称	general term; generic term
+k	총통	総統	president, specifically t…
+k	총화	総和	sum
+k	총회	総会	general assembly, general…
+k	투명	透明	transparency, the quality…
+k	편견	偏見	prejudice; bias
+k	편모	偏母	single mother
+k	편식	偏食	partial eclipse
+k	편애	偏愛	partiality; predilection
+k	편재	偏在	ubiquitousness
+k	편중	偏重	bias
+k	편협	偏狭	narrow-mindedness
+k	편협	偏狹	narrow-mindedness
+k	하계	夏季	summer season
+k	하기	夏期	undermentioned
+k	하시	夏時	what time, when
+k	하지	夏至	summer solstice (one of t…
+k	혼미	昏迷	stupor; bewilderment; stu…
+k	혼수	昏睡	coma
+k	혼절	昏絕	swoon; faint; loss of con…
+k	혼절	昏絶	swoon; faint; loss of con…
+k	훈증	熏蒸	
+j	乏しい	乏しい	meager, scarce
+j	仏の座	仏の座	common henbit (Lamium amp…
+j	仏トン	仏トン	1000キログラムを1トンとする場合の「トン」。（…
+j	仏世尊	仏世尊	釈迦牟尼、釈迦如来のこと。十号の一つ。→世尊。
+j	仏手柑	仏手柑	Buddha's hand; fingered c…
+j	仏教の	仏教の	
+j	仏教徒	仏教徒	Buddhist (practitioner of…
+j	仏文学	仏文学	French literature
+j	仏文法	仏文法	フランス語の文法。
+j	仏桑花	仏桑花	アオイ科の常緑小低木。中国原産。観賞用として栽培さ…
+j	仏法僧	仏法僧	the Triple Gem or Three J…
+j	仏泥鰌	仏泥鰌	コイ目フクドジョウ科に分類されるドジョウの一種。学…
+j	仏狼機	仏狼機	「フランキ」を参照。
+j	仏舎利	仏舎利	仏教の開祖である釈迦の遺骨（舎利）。
+j	仏菩薩	仏菩薩	仏と菩薩。
+j	仏蘭西	仏蘭西	フランスの日本語における漢字表記。
+j	仏郎機	仏郎機	「フランキ」を参照。
+j	仏頂面	仏頂面	long face, sour look
+j	伏せる	伏せる	to turn upside down
+j	伏せ字	伏せ字	出版物で明記することを避ける語句を空白にしたり◯×…
+j	伏在的	伏在的	隠れている状態。
+j	伏流水	伏流水	subterranean river
+j	伏見宮	伏見宮	a cadet branch of the imp…
+j	伏魔殿	伏魔殿	a palace where demons lur…
+j	住する	住する	住む。
+j	住まい	住まい	residence, dwelling, one'…
+j	住んだ	住んだ	
+j	住宅地	住宅地	住宅を建てるための土地。
+j	住所録	住所録	address book
+j	住民票	住民票	Japanese residency card
+j	住民税	住民税	地方公共団体（都道府県、市区町村）が住民（個人、法…
+j	住空間	住空間	living space
+j	住要求	住要求	人が自分の住まいに求める要求。
+j	偏する	偏する	偏る。
+j	偏った	偏った	
+j	偏執病	偏執病	偏執的な妄想が見られるが理論的には一貫していて、行…
+j	偏差値	偏差値	T-score; a person's posit…
+j	偏平率	偏平率	楕円が円に対して潰れている度合い。離心率をεとする…
+j	偏微分	偏微分	多変数関数の特定の文字についてのみの微分。
+j	偏東風	偏東風	赤道付近と極地の上空を東から西に吹いている風。
+j	偏流量	偏流量	
+j	偏狭な	偏狭な	
+j	偏西風	偏西風	亜熱帯高圧帯から高緯度低圧帯に向かって定常的に吹く…
+j	偏頭痛	偏頭痛	migraine
+j	像関数	像関数	ラプラス変換をℒ[f(x)](x)=F(s)と書い…
+j	协同书	协同书	
+j	問うた	問うた	past tense and perfective…
+j	問合せ	問合せ	
+j	問注所	問注所	鎌倉幕府で訴訟の審理、文書作成などを司った機関。
+j	問題の	問題の	
+j	問題作	問題作	controversial work
+j	問題児	問題児	problem child
+j	問題兒	問題兒	
+j	問題外	問題外	unthinkable, out of the q…
+j	問題文	問題文	text that makes up a ques…
+j	問題点	問題点	problem; point at issue
+j	問題群	問題群	set of problems
+j	問題視	問題視	viewing as a problem
+j	問題集	問題集	演習問題、過去問などをまとめた本。ドリル。
+j	問題點	問題點	問題点の旧字体表記。
+j	圏界面	圏界面	対流圏、成層圏、中間圏、熱圏のそれぞれの境界。
+j	夏ばて	夏ばて	excessive tiredness cause…
+j	夏休み	夏休み	summer vacation; summer b…
+j	夏場所	夏場所	5月に行われる大相撲の本場所の通称。
+j	夏安居	夏安居	陰暦四月十六日から七月十五日に行われる安居。雨安居。
+j	夏実子	夏実子	a female given name
+j	夏帽子	夏帽子	麦藁帽子やパナマ帽など夏の時期に被る帽子。
+j	夏時刻	夏時刻	「夏時間」に同じ。
+j	夏時間	夏時間	summer time (daylight-sav…
+j	夏枯草	夏枯草	synonym of 靫草 (utsubogusa…
+j	夏灯台	夏灯台	トウダイグサ科の多年草。本州、四国、九州の山地など…
+j	夏白菊	夏白菊	キク目キク科ヨモギギク属に属する多年草の一種。学名…
+j	夏祭り	夏祭り	summer festival
+j	夏至点	夏至点	黄道上、黄経90度の点で、ここに太陽があると夏至と…
+j	夏蜜柑	夏蜜柑	ムクロジ目ミカン科ミカン属に属する常緑低木、常緑小…
+j	奏する	奏する	tell (something to the Em…
+j	奏でる	奏でる	to play (a musical instru…
+j	奏鳴曲	奏鳴曲	sonata
+j	宏一郎	宏一郎	a male given name
+j	小さい	小さい	small, little, tiny
+j	小さじ	小さじ	
+j	小さな	小さな	synonym of 小さい (chīsai, “…
+j	小なり	小なり	「＜」の不等号。
+j	小の月	小の月	month with 30 days or less
+j	小三元	小三元	a 役 (yaku, “hand”) with m…
+j	小並感	小並感	感想の末尾に付けて、その文が稚拙であることを表す語…
+j	小中高	小中高	小学校と中学校と高等学校。
+j	小久保	小久保	a surname
+j	小乗的	小乗的	視野が狭く小さなことにこだわり卑近すぎて物事を大局…
+j	小事件	小事件	small incident
+j	小二病	小二病	低学年（主に小学校二年生）ぐらいに見られる言動や思…
+j	小五郎	小五郎	a male given name
+j	小井川	小井川	a surname
+j	小人族	小人族	
+j	小人物	小人物	度量が狭い人。小人。
+j	小人症	小人症	dwarfism
+j	小休止	小休止	少し休憩すること。小休。
+j	小住戸	小住戸	床面積が60㎡未満の住戸。
+j	小作人	小作人	農地を借り、小作を営む農民。
+j	小作料	小作料	地主から農地を借りている小作人が地主に納める代償。
+j	小作米	小作米	小作人が小作料として地主などに納める米。
+j	小作農	小作農	農地を地主から借り受け小作料を払いながら営農する農…
+j	小保方	小保方	a surname
+j	小倉山	小倉山	Mount Ogura (a mountain i…
+j	小児期	小児期	
+j	小児病	小児病	childhood diseases
+j	小児科	小児科	pediatrics, either as a c…
+j	小具足	小具足	甲冑では防ぐことのできない部位を保護するものでこて…
+j	小円筋	小円筋	a teres minor muscle
+j	小冊子	小冊子	booklet, pamphlet, leafle…
+j	小切手	小切手	check, cheque (order to a…
+j	小判草	小判草	イネ目イネ科コバンソウ属に属する一年草の一種。学名…
+j	小判鮫	小判鮫	a live sharksucker
+j	小刻み	小刻み	mincing
+j	小動物	小動物	成体になっても体が小さい動物。
+j	小包み	小包み	
+j	小名子	小名子	a female given name
+j	小商人	小商人	僅かな資本（資金）で商売をする人。
+j	小四喜	小四喜	a winning hand with tripl…
+j	小地震	小地震	《地震学》マグニチュード３以上５未満の地震。
+j	小型の	小型の	
+j	小型版	小型版	
+j	小型車	小型車	a light vehicle, standard…
+j	小域的	小域的	各点の近傍に関わるさま。
+j	小売り	小売り	
+j	小売店	小売店	retail store
+j	小売業	小売業	仕入れた商品を最終消費者へ販売する事業。
+j	小夜子	小夜子	a female given name
+j	小夜嵐	小夜嵐	strong night wind
+j	小夜曲	小夜曲	serenade
+j	小夜着	小夜着	small nightwear
+j	小天体	小天体	太陽系にある、太陽、8惑星、準惑星、それらの周りを…
+j	小天地	小天地	宇宙の広大さに対し小さな人間の世界。
+j	小太郎	小太郎	Kotaro, a male given name
+j	小奇麗	小奇麗	neat, tidy
+j	小奈子	小奈子	a female given name
+j	小女子	小女子	sand lance, usually a sma…
+j	小学校	小学校	elementary school, primar…
+j	小学生	小学生	schoolchildren, schoolboy…
+j	小学部	小学部	一貫校における小学校。
+j	小宇宙	小宇宙	the innerverse; the micro…
+j	小実子	小実子	a female given name
+j	小宮山	小宮山	a surname
+j	小山内	小山内	a surname
+j	小市民	小市民	資本家と無産階級の間に位置する人々。
+j	小悪魔	小悪魔	A small devil or demon; a…
+j	小惑星	小惑星	an asteroid
+j	小意地	小意地	ちょっとした意地。
+j	小手川	小手川	a surname
+j	小提琴	小提琴	
+j	小教区	小教区	教会の教区の下の管轄単位。
+j	小数位	小数位	
+j	小数点	小数点	decimal point, radix point
+j	小文字	小文字	a minuscule (lower-case l…
+j	小早川	小早川	a surname
+j	小春子	小春子	a female given name
+j	小書き	小書き	writing small
+j	小杓鴫	小杓鴫	little curlew
+j	小杓鷸	小杓鷸	
+j	小東京	小東京	epitome of Tokyo, miniatu…
+j	小松菜	小松菜	komatsuna, Japanese musta…
+j	小次郎	小次郎	a male given name
+j	小正月	小正月	The first full moon of th…
+j	小氷期	小氷期	14世紀から19世紀半ばまで北半球を中心に発生した…
+j	小清水	小清水	a surname
+j	小潮差	小潮差	neap range
+j	小火器	小火器	small arms
+j	小煩い	小煩い	picky, fussy, particular
+j	小熊座	小熊座	Ursa Minor
+j	小犬座	小犬座	Canis Minor
+j	小瑠璃	小瑠璃	a Siberian blue robin (La…
+j	小田切	小田切	a zone in Nagano, Japan
+j	小田原	小田原	Odawara (a city in Kanaga…
+j	小町算	小町算	1から9までの数を順番に並べ、その間に演算子を入れ…
+j	小町針	小町針	a pin
+j	小白鳥	小白鳥	a tundra swan
+j	小百合	小百合	a lily
+j	小百姓	小百姓	peasant, small farmer
+j	小皇帝	小皇帝	
+j	小確幸	小確幸	a small but certain happi…
+j	小笠原	小笠原	Ogasawara (a former villa…
+j	小籠包	小籠包	xiaolongbao
+j	小米草	小米草	synonym of 伊吹小米草 (Ibuki k…
+j	小紋鳥	小紋鳥	
+j	小細工	小細工	ちょっとした細工。細かい細工。
+j	小結実	小結実	a female given name
+j	小綬鶏	小綬鶏	キジ目キジ科コジュケイ属に属する鳥の一種。学名:B…
+j	小綺麗	小綺麗	きちんとして清潔であるさま。少し気がきいて整ってい…
+j	小緋縅	小緋縅	
+j	小繁縷	小繁縷	
+j	小胞体	小胞体	細胞内で物質の輸送を担う細胞小器官。
+j	小胸筋	小胸筋	a pectoralis minor muscle
+j	小腰筋	小腰筋	a psoas minor muscle
+j	小臀筋	小臀筋	a gluteus minimus muscle
+j	小臼歯	小臼歯	premolar
+j	小荷物	小荷物	小さい荷物。
+j	小菜子	小菜子	a female given name
+j	小蜈蚣	小蜈蚣	a symphylan
+j	小蝶鮫	小蝶鮫	a sterlet
+j	小規模	小規模	small-scale
+j	小説家	小説家	novelist, fiction writer
+j	小説本	小説本	小説の本。
+j	小論文	小論文	short essay
+j	小谷渡	小谷渡	
+j	小豆蔲	小豆蔲	
+j	小転子	小転子	a lesser trochanter
+j	小道具	小道具	tool; a hand tool; gadget
+j	小道走	小道走	lesser roadrunner, Geococ…
+j	小遣い	小遣い	
+j	小那子	小那子	a female given name
+j	小都市	小都市	
+j	小里偏	小里偏	漢字の部首「⾩」が偏である場合の呼称。
+j	小野寺	小野寺	a surname
+j	小野田	小野田	a surname
+j	小金庫	小金庫	小型の金庫。
+j	小降り	小降り	falling lightly (of rain …
+j	小陰唇	小陰唇	labia minora
+j	小陽春	小陽春	陰暦十月。
+j	小隊長	小隊長	小隊の長。
+j	小頬赤	小頬赤	
+j	小馬座	小馬座	こうま座。
+j	小馬鹿	小馬鹿	mild foolishness
+j	小高い	小高い	slightly elevated
+j	小鮫鶲	小鮫鶲	
+j	小鳥遊	小鳥遊	a surname
+j	小麦粉	小麦粉	wheat flour
+j	序の口	序の口	beginning, start; used to…
+j	序二段	序二段	相撲（大相撲）の力士の階級で序の口の上、三段目の下。
+j	序数詞	序数詞	順序を数えるのに用いる数詞。日本語の「一番」、英語…
+j	序盤戦	序盤戦	序盤の戦い。緒戦。
+j	序破急	序破急	a three-stage system tran…
+j	式部省	式部省	the Ministry of Ceremonia…
+j	意匠権	意匠権	産業上利用できる新しい意匠について独占的、排他的に…
+j	意向形	意向形	an inflectional category:…
+j	意味深	意味深	
+j	意味論	意味論	semantics (as a field of …
+j	意図的	意図的	intentional
+j	意固地	意固地	強情で自分の考えを押し通すこと。
+j	意地悪	意地悪	mean-spirited; mean; nast…
+j	意外と	意外と	予想や通念と違って。予想外に。案外。存外。
+j	意外な	意外な	
+j	意外に	意外に	
+j	意寿々	意寿々	a female given name
+j	意志力	意志力	willpower
+j	意慾的	意慾的	意欲的と同義。
+j	意欲的	意欲的	ambitious
+j	意気地	意気地	courage, guts, willpower
+j	意義素	意義素	
+j	意見書	意見書	written opinion
+j	意見欄	意見欄	suggestion box
+j	意識界	意識界	識知し思考する心。六識のひとつ。意識に同じ（ウィキ…
+j	意識的	意識的	知っていながらわざとすること。故意。
+j	意須寿	意須寿	a female given name
+j	捏ねる	捏ねる	to knead
+j	描いた	描いた	
+j	描写的	描写的	
+j	敏感な	敏感な	
+j	敏捷な	敏捷な	
+j	杏子色	杏子色	
+j	杏子飴	杏子飴	（主に串に刺した）生の杏子に飴を絡めたもの。
+j	杏結実	杏結実	a female given name
+j	柏子仁	柏子仁	seeds of Platycladus orie…
+j	漏らす	漏らす	
+j	漏れら	漏れら	
+j	漏れる	漏れる	
+j	漏れ口	漏れ口	
+j	烏克蘭	烏克蘭	ウクライナの日本語による漢字表記。
+j	烏口骨	烏口骨	a coracoid (small bone li…
+j	烏啄骨	烏啄骨	synonym of 烏口骨 (ukōkotsu,…
+j	烏喙骨	烏喙骨	synonym of 烏口骨 (ukōkotsu,…
+j	烏実子	烏実子	a female given name
+j	烏帽子	烏帽子	a type of black-lacquered…
+j	烏柄杓	烏柄杓	crow-dipper, Pinellia ter…
+j	烏竜茶	烏竜茶	
+j	烏美人	烏美人	a female given name
+j	烏羽玉	烏羽玉	the seed of blackberry li…
+j	烏賊骨	烏賊骨	cuttlefish bone
+j	烏骨鶏	烏骨鶏	silky, silkie (breed of c…
+j	烏龍茶	烏龍茶	oolong tea
+j	畏まる	畏まる	to understand, to acknowl…
+j	畏れる	畏れる	
+j	福井市	福井市	福井県の県庁所在地。特例市。
+j	福井県	福井県	a prefecture in the 中部 (C…
+j	福寿草	福寿草	キンポウゲ科の多年草。元日草。一日草。
+j	福岡市	福岡市	福岡県の県庁所在地。
+j	福岡県	福岡県	a prefecture in Japan on …
+j	福島市	福島市	福島県の県庁所在地。
+j	福島県	福島県	a prefecture in 東北 (Tōhok…
+j	福建語	福建語	Hokkien (a language varie…
+j	福泥鰌	福泥鰌	
+j	福祉士	福祉士	介護福祉士、社会福祉士、精神保健福祉士の総称。
+j	福祉科	福祉科	大学や短期大学、専門学校に設置している福祉に関する…
+j	福禄寿	福禄寿	wealth, good fortune, and…
+j	福笑い	福笑い	fukuwarai: a game played …
+j	福音書	福音書	a gospel
+j	福音派	福音派	福音主義における自由主義神学に対抗して英語圏で誕生…
+j	穏やか	穏やか	calm, peaceful, quiet, tr…
+j	穏健派	穏健派	pacifist
+j	穏和な	穏和な	
+j	箏曲家	箏曲家	現代日本においては一般的に琴として知られる箏に、作…
+j	綏芬河	綏芬河	
+j	総じて	総じて	generally, in general, as…
+j	総ずる	総ずる	まとめる。
+j	総ルビ	総ルビ	文中の全ての漢字に振り仮名（ルビ）を施すこと。
+j	総一朗	総一朗	a male given name
+j	総主教	総主教	patriarch (in an Orthodox…
+j	総会屋	総会屋	株式会社の株主となり、株主総会において長時間の質問…
+j	総力戦	総力戦	total war
+j	総動員	総動員	general mobilization
+j	総務相	総務相	Minister of Internal Affa…
+j	総務省	総務省	Ministry of Internal Affa…
+j	総受け	総受け	invariably becoming the b…
+j	総司令	総司令	総司令官
+j	総合的	総合的	別々の物事を一つにまとめるさま。
+j	総合職	総合職	regular position; positio…
+j	総大将	総大将	軍全体の指揮、監督する大将。
+j	総尾目	総尾目	《分類学》 シミ目の、かつての標準和名、現在の異称…
+j	総尾類	総尾類	総尾目に分類される昆虫の総称。
+j	総崩れ	総崩れ	戦いで陣形や隊形が崩れること。
+j	総攻め	総攻め	a full-scale attack, gene…
+j	総攻撃	総攻撃	a full-scale attack, gene…
+j	総書記	総書記	Secretary General, especi…
+j	総本山	総本山	head temple of a sect
+j	総楊枝	総楊枝	片方を叩いてふさ状にした楊枝。房楊枝。
+j	総理府	総理府	各省庁の調整、栄典などを担当するため、1947年総…
+j	総画数	総画数	文字、特に漢字における、全ての画数。総画。
+j	総目録	総目録	
+j	総督府	総督府	government-general
+j	総立ち	総立ち	all standing up
+j	総義歯	総義歯	上顎または下顎の歯全部、または上下すべての歯を義歯…
+j	総翅目	総翅目	《分類学》 アザミウマ目の、かつての標準和名、現在…
+j	総翅類	総翅類	総翅目に分類される昆虫の総称。
+j	総菜屋	総菜屋	「惣菜屋」の同音の漢字による書きかえ。
+j	総菜店	総菜店	「惣菜店」の同音の漢字による書きかえ。
+j	総選挙	総選挙	an election held when the…
+j	総重量	総重量	内容物や容器や包装などを含めた全体の重量。
+j	総領事	総領事	consul-general
+j	総領娘	総領娘	最初に生まれた娘。
+j	纏まる	纏まる	be collected, be all toge…
+j	纏める	纏める	collect, bring together
+j	纏わる	纏わる	be connected, be related …
+j	荏胡麻	荏胡麻	perilla, Perilla frutesce…
+j	薏苡仁	薏苡仁	seed of Job's tears (Coix…
+j	裏世界	裏世界	コンピュータゲームで、バグによって行くことのできる…
+j	裏付け	裏付け	guarantee, endorsement
+j	裏切り	裏切り	treachery, betrayal
+j	裏切る	裏切る	to betray, to sell someon…
+j	裏向き	裏向き	actual and hidden
+j	裏工作	裏工作	underhanded dealings
+j	裏打ち	裏打ち	backing, lining
+j	裏日本	裏日本	part of Japan adjacent to…
+j	裏番組	裏番組	ある番組と同時に別の放送局で放送されている番組。
+j	裏社会	裏社会	underbelly of society
+j	裏街道	裏街道	公式ではない、街道に沿っている道路。
+j	裏表紙	裏表紙	back page; back cover
+j	裏返し	裏返し	inside out
+j	裏返す	裏返す	to reverse something, to …
+j	裏返る	裏返る	to be turned over, to be …
+j	裏通り	裏通り	side street, alley (narro…
+j	裏関数	裏関数	像関数。
+j	規則な	規則な	
+j	規則性	規則性	
+j	規則的	規則的	regular, systematic
+j	規格化	規格化	normalization; standardiz…
+j	規範字	規範字	standardized Chinese char…
+j	規範的	規範的	社会科学・人文科学におけるアプローチのひとつで、論…
+j	踏み台	踏み台	step stool
+j	踏み板	踏み板	step on a staircase
+j	踏み段	踏み段	
+j	踏み絵	踏み絵	江戸幕府が隠れキリシタンを発見するために用いた絵。
+j	踏み車	踏み車	
+j	踏み面	踏み面	
+j	踏んだ	踏んだ	
+j	透かし	透かし	
+j	透かす	透かす	to be slightly apart, to …
+j	透ける	透ける	to show through
+j	透写紙	透写紙	synonym of トレーシングペーパー (to…
+j	透寫紙	透寫紙	tracing paper
+j	透明な	透明な	
+j	透明体	透明体	transparent object
+j	透明度	透明度	海や川、湖沼などの水の清濁の度合い。透明度板を水中…
+j	透明性	透明性	transparency, especially …
+j	透明氷	透明氷	
+j	透視力	透視力	
+j	量化子	量化子	
+j	量子化	量子化	quantization
+j	量子数	量子数	quantum number
+j	量子論	量子論	量子力学。
+j	量産型	量産型	being generic
+j	量販店	量販店	hypermarket
+j	鋏虫目	鋏虫目	Dermaptera
+j	鋏角類	鋏角類	節足動物門鋏角亜門の動物の総称。
+j	随意筋	随意筋	a voluntary muscle
+j	随筆家	随筆家	随筆を書く人。
+j	随行員	随行員	attendant, member of some…
+j	随身門	随身門	神社で左右に随身を安置した門。
+j	鶏の足	鶏の足	
+j	鶏冠山	鶏冠山	a mountain in Kōshū, Yama…
+j	鶏冠石	鶏冠石	realgar
+j	鶏始乳	鶏始乳	七十二候の一つ。大寒の末候。鶏が卵を産み始めるころ…
+j	鶏小屋	鶏小屋	
+j	鶏胸肉	鶏胸肉	
+j	鶏舌香	鶏舌香	薫香のひとつ。チョウジのつぼみを干して作る。クロー…
+k	가부좌	跏趺坐	lotus position
+k	계란찜	鶏卵찜	gyeran-jjim (Korean steam…
+k	계삼탕	鶏蔘湯	A traditional Korean soup…
+k	계안창	鶏眼瘡	
+k	규칙적	規則的	regular; systematic
+k	누수기	漏水器	물이 새는 것을 측정하는 도구.
+k	리	裏/裡	way, reason, sense
+k	문제아	問題児	problem child
+k	문제아	問題兒	problem child
+k	문제점	問題点	a problematic or controve…
+k	문제점	問題點	a problematic or controve…
+k	문제집	問題集	workbook
+k	민첩성	敏捷性	agility, nimbleness
+k	복불복	福不福	a crapshoot; an uncertain…
+k	복음서	福音書	gospel (first section of …
+k	불교도	仏敎徒	Buddhist
+k	불란서	仏蘭西	France (a country located…
+k	불상화	仏桑花	
+k	불수감	仏手柑	Buddha's hand
+k	소도구	小道具	tool; a hand tool; gadget
+k	소매점	小売店	convenience store
+k	소매점	小賣店	convenience store
+k	소문자	小文字	minuscule, lowercase lett…
+k	소변기	小便器	
+k	소설가	小說家	novelist (author of novel…
+k	소설가	小説家	novelist (author of novel…
+k	소설책	小說册	novel
+k	소설책	小説冊	novel
+k	소수점	小数点	소수를 표기하는데 쓰는 점. 국가에 따라 온점…
+k	소수점	小數點	소수를 표기하는데 쓰는 점. 국가에 따라 온점…
+k	소아과	小児科	paediatrics (branch of me…
+k	소아과	小兒科	paediatrics (branch of me…
+k	소음순	小陰脣	labia minora
+k	소중화	小中華	a non-Chinese country whi…
+k	소책자	小冊子	booklet; pamphlet; brochu…
+k	소학교	小学校	primary school
+k	소학교	小學校	primary school
+k	소학생	小学生	
+k	소학생	小學生	
+k	소행성	小行星	asteroid
+k	소형판	小型版	
+k	소화기	小火器	fire extinguisher
+k	수필집	随筆集	essay collection
+k	양수사	量数詞	cardinal
+k	양수사	量數詞	cardinal
+k	양자화	量子化	quantization
+k	양판점	量販店	
+k	연구생	硏究生	research student
+k	연구소	硏究所	A research institute.
+k	연구실	硏究室	laboratory
+k	연구원	硏究員	researcher
+k	연구원	硏究院	researcher
+k	연구자	硏究者	researcher, investigator
+k	연구회	硏究會	
+k	연수생	硏修生	trainee
+k	연수회	硏修會	
+k	의견란	意見欄	suggestion box; a place f…
+k	의견서	意見書	statement
+k	의미론	意味論	semantics
+k	의지력	意志力	
+k	장란기	藏卵器	
+k	주소창	住所窓	address bar
+k	총비서	総秘書	General Secretary (of Nor…
+k	총서기	総書記	General Secretary (of Chi…
+k	총영사	総領事	consul-general
+k	총체적	総体的	something general, all-en…
+k	총파업	総罷業	general strike
+k	투사지	透写紙	tracing paper
+k	투사지	透寫紙	tracing paper
+k	편두통	偏頭痛	
+k	편집병	偏執病	paranoia
+k	편집증	偏執症	paranoia
+j	仏仏辞典	仏仏辞典	フランス語の語句をフランス語で定義した辞典を、フラ…
+j	仏和辞典	仏和辞典	フランス語の単語や熟語を、日本語で定義し、用法等を…
+j	仏滅紀元	仏滅紀元	釈迦が入滅した年またはその翌年を元年とする紀年法。…
+j	仏蘭西語	仏蘭西語	「フランス語」の漢字表記。
+j	伏竜鳳雛	伏竜鳳雛	伏している竜と鳳凰の雛のように、とびぬけた能力を持…
+j	住めば都	住めば都	there's no place like hom…
+j	住基仮名	住基仮名	hentaigana for old names …
+j	住所不定	住所不定	一定の生活の場である居所を持たず転々とすること。
+j	住所氏名	住所氏名	one’s name and address
+j	住民投票	住民投票	地方公共団体の議会の解散、首長の解職、その地方公共…
+j	住民発案	住民発案	国や地方公共団体に対し一定の数の住民が法令の制定や…
+j	偏らせる	偏らせる	
+j	偏向した	偏向した	
+j	偏向報道	偏向報道	公正中立の報道ではなく、特定の主張を否定あるいは肯…
+j	偏向的な	偏向的な	
+j	偏執病の	偏執病の	
+j	偏旁冠脚	偏旁冠脚	漢字の構成部位である、偏と旁と冠と脚。また、部首の…
+j	偏袒右肩	偏袒右肩	袈裟の着用の仕方の一つで、相手に敬意を表すため、右…
+j	問い質す	問い質す	to inquire, to ask a ques…
+j	問答無用	問答無用	no use in arguing; dialog…
+j	問題ない	問題ない	no problem, all right
+j	問題意識	問題意識	ある現象や事態に対し、その核心を見抜き、積極的に関…
+j	夏の花蕨	夏の花蕨	
+j	夏季五輪	夏季五輪	夏季オリンピックの略称。
+j	夏季休暇	夏季休暇	夏の季節に取る休暇。夏休み。
+j	夏期学校	夏期学校	
+j	夏目漱石	夏目漱石	明治時代の日本の小説家・評論家・英文学者。1867…
+j	夏虫疑冰	夏虫疑冰	見識・見聞が狭いこと。また、そのさま。
+j	夏虫疑氷	夏虫疑氷	見識・見聞が狭いこと。また、そのさま。
+j	小アジア	小アジア	synonym of アナトリア (Anatori…
+j	小グロス	小グロス	120個（10ダース）のまとまり。
+j	小テスト	小テスト	short test; mini test
+j	小中一貫	小中一貫	小学校と中学校が連携した体制。
+j	小中学校	小中学校	義務教育を担う小学校と中学校。
+j	小中学生	小中学生	小学生と中学生。
+j	小中高生	小中高生	小学生と中学生と高校生
+j	小乗仏教	小乗仏教	上座部仏教または南伝仏教のこと。小乗とは、大乗仏教…
+j	小亜細亜	小亜細亜	
+j	小人河馬	小人河馬	a pygmy hippopotamus (Cho…
+j	小作争議	小作争議	地主と小作人との間に展開される争議。
+j	小便する	小便する	
+j	小便担桶	小便担桶	肥料用の小便を入れて天秤棒で担ぐ桶。
+j	小児性愛	小児性愛	
+j	小児愛者	小児愛者	
+j	小児歯科	小児歯科	臨床の歯学の一分野で、小児の歯科に関する疾患や外傷…
+j	小児病院	小児病院	
+j	小児科医	小児科医	pediatrician
+j	小具足術	小具足術	小脇差を用いて組み合い相手を倒すことを目的とする武術
+j	小内転筋	小内転筋	an adductor minimus
+j	小切手帳	小切手帳	chequebook/checkbook
+j	小刻みに	小刻みに	mincing, bit by bit, litt…
+j	小前庭腺	小前庭腺	Skene's gland
+j	小動物系	小動物系	おもに人の容姿に関して、ハムスターやリスなどの小動…
+j	小口現金	小口現金	少額経費の支払いのために、別口で管理されている現金…
+j	小型の缶	小型の缶	
+j	小型バス	小型バス	乗車定員20人から25人、全長7m以下のバス。
+j	小型二輪	小型二輪	小型自動二輪車の略称。
+j	小型新聞	小型新聞	
+j	小売価格	小売価格	
+j	小売商人	小売商人	
+j	小奏鳴曲	小奏鳴曲	
+j	小学一年	小学一年	
+j	小学二年	小学二年	
+j	小学六年	小学六年	
+j	小康状態	小康状態	症状が悪い状態を脱し何とか収まっている状態。
+j	小心翼翼	小心翼翼	気が小さくいつもびくびくしているさま。
+j	小惑星帯	小惑星帯	火星と木星の間にあり、多くの小惑星が集まっている地…
+j	小指伸筋	小指伸筋	an extensor digiti minimi
+j	小料理屋	小料理屋	来客に酒と簡単な料理を提供する料理屋。
+j	小春日和	小春日和	early autumn, Indian summ…
+j	小林一茶	小林一茶	江戸時代中期の日本を代表する俳諧師（≒俳人）の一人…
+j	小母さん	小母さん	aunt
+j	小比類巻	小比類巻	a surname
+j	小毛綿鴨	小毛綿鴨	a Steller's eider
+j	小泉構文	小泉構文	小泉進次郎構文。
+j	小父さん	小父さん	man; Mister, Uncle (used …
+j	小物入れ	小物入れ	accessory case
+j	小生意気	小生意気	impudent, sassy, cheeky
+j	小膠細胞	小膠細胞	microglia
+j	小菱形筋	小菱形筋	a rhomboid minor muscle
+j	小菱形骨	小菱形骨	手根骨の一つで、有頭骨と大菱形骨、有鉤骨をつないで…
+j	小見出し	小見出し	
+j	小規模の	小規模の	
+j	小財餓鬼	小財餓鬼	有財餓鬼のうち生き物の膿や血を食するもの。
+j	小賢しい	小賢しい	smart-aleck, impertinent
+j	小道具師	小道具師	小道具方
+j	小選挙区	小選挙区	small electoral district,…
+j	小金目梟	小金目梟	a little owl
+j	小鍋立て	小鍋立て	one-pot cooking, a one-po…
+j	小長元坊	小長元坊	
+j	小青足鴫	小青足鴫	
+j	小頬骨筋	小頬骨筋	a zygomaticus minor muscle
+j	小麦胚芽	小麦胚芽	
+j	小黠大痴	小黠大痴	外目には小賢しく振る舞っているが、本質的には愚かで…
+j	小黠大癡	小黠大癡	外目には小賢しく振る舞っているが、本質的には愚かで…
+j	意のまま	意のまま	in accordance with someon…
+j	意中の女	意中の女	
+j	意中之人	意中之人	心の中で思っている人のこと。心に決めている人のこと…
+j	意到随筆	意到随筆	物書きなどが、思うがままにいくこと。意到りて筆随う…
+j	意味する	意味する	
+j	意味不明	意味不明	言動や文章などの意味や意図が不明確または理解不能な…
+j	意味借用	意味借用	
+j	意味合い	意味合い	implication, nuance, conn…
+j	意味深長	意味深長	profound, deeply meaningf…
+j	意味的な	意味的な	
+j	意味的に	意味的に	
+j	意味記憶	意味記憶	
+j	意味領域	意味領域	
+j	意図する	意図する	
+j	意図的な	意図的な	
+j	意図的に	意図的に	
+j	意地でも	意地でも	at all costs; by any means
+j	意地張る	意地張る	to stubbornly stick to on…
+j	意地悪い	意地悪い	
+j	意地悪な	意地悪な	
+j	意志欠乏	意志欠乏	abulia (absence of will-p…
+j	意志疎通	意志疎通	「意思疎通」を参照。
+j	意志薄弱	意志薄弱	意志が弱く物事をやりとげようとする気持ちや、自分で…
+j	意思決定	意思決定	ある目的のために複数の案から最適と思われる物を選択…
+j	意思疎通	意思疎通	coming to a mutual unders…
+j	意思能力	意思能力	自分の行為の法的な結果を判断できる能力。
+j	意思表示	意思表示	意思をあらわすこと。
+j	意懶心灰	意懶心灰	がっかりするさま。
+j	意気投合	意気投合	finding a kindred spirit,…
+j	意気揚々	意気揚々	
+j	意気揚揚	意気揚揚	triumphant
+j	意気沮喪	意気沮喪	元気をなくしてがっかりしている様子。意気込みがくじ…
+j	意気消沈	意気消沈	元気をなくしてがっかりしている様子。意気込みが衰え…
+j	意気衝天	意気衝天	意欲・意気込みが非常にさかんなこと。「衝天」は天を…
+j	意気軒昂	意気軒昂	意気込みが盛んなさま。
+j	意気込み	意気込み	enthusiasm, eagerness, ze…
+j	意気込む	意気込む	to be enthusiastic, to be…
+j	意気銷沈	意気銷沈	元気をなくしてがっかりしている様子。意気込みが衰え…
+j	意気阻喪	意気阻喪	元気をなくしてがっかりしている様子。意気込みがくじ…
+j	意識する	意識する	
+j	意趣返し	意趣返し	revenge, retaliation
+j	意馬心猿	意馬心猿	煩悩や情欲は抑えがたいこと。
+j	捏造する	捏造する	
+j	描き分け	描き分け	drawing (being able to dr…
+j	描写する	描写する	
+j	晏子の御	晏子の御	人の権威に寄りかかり、得意になること。
+j	杏仁豆腐	杏仁豆腐	annin tofu
+j	杏子色の	杏子色の	
+j	漏れなく	漏れなく	
+j	烏の行水	烏の行水	a bath lasting a short pe…
+j	烏の髪の	烏の髪の	
+j	烏兎匆匆	烏兎匆匆	「烏兎怱怱」参照
+j	烏兎怱怱	烏兎怱怱	時間が過ぎるのがはやいさま。
+j	烏口突起	烏口突起	either a coracoid process…
+j	烏口腕筋	烏口腕筋	a coracobrachialis muscle
+j	烏合の衆	烏合の衆	disorderly group of peopl…
+j	烏喙突起	烏喙突起	synonym of 烏口突起 (ukō tokk…
+j	烏孫公主	烏孫公主	政略による結婚で犠牲になること。また、それによって…
+j	烏帽子花	烏帽子花	synonym of 都草 (miyakogusa…
+j	烏帽子貝	烏帽子貝	甲殻亜門エボシガイ科に属する甲殻類の一種。学名:L…
+j	烏帽子雀	烏帽子雀	
+j	烏帽子鯛	烏帽子鯛	man-of-war fish , Nomeus …
+j	烏帽子鳥	烏帽子鳥	a turaco (any bird of fam…
+j	烏有先生	烏有先生	仮に設定した、実在しない人物。架空の人物。
+j	烏白馬角	烏白馬角	絶対にありえないこと。存在するはずのないもの。
+j	烏野豌豆	烏野豌豆	
+j	烏飛兎走	烏飛兎走	時間が過ぎることがはやいことのたとえ。
+j	烏魯木斉	烏魯木斉	Ürümqi (a prefecture-leve…
+j	瓏瓏兀兀	瓏瓏兀兀	繊細で澄んだ残響がこだまするさま。
+j	畏怖する	畏怖する	
+j	福利厚生	福利厚生	employee benefits
+j	福澤諭吉	福澤諭吉	江戸時代末期から明治時代の日本の蘭学者・教育者・思…
+j	福祉国家	福祉国家	国が格差の解消、生活の安定など国民の福祉を増進して…
+j	福祉大学	福祉大学	福祉系の単科大学。
+j	福神漬け	福神漬け	細かく切った大根、なす、蓮根、鉈豆、生姜など七種類…
+j	福音主義	福音主義	evangelicalism
+j	福音記者	福音記者	新約聖書の福音書を著したとされる、マルコ、マタイ、…
+j	穏やかな	穏やかな	
+j	総入れ歯	総入れ歯	上顎または下顎の歯全部、または上下すべての歯を義歯…
+j	総務大臣	総務大臣	総務省の長たる国務大臣。
+j	総司令官	総司令官	全軍の指揮、統率に当たる司令官。
+j	総司令部	総司令部	総司令官が職務をする場所。
+j	総合する	総合する	
+j	総合判断	総合判断	
+j	総合大学	総合大学	二つ以上の学部や付属機関などからなる総合的な大学。…
+j	総合学科	総合学科	後期中等教育で普通科と専門教育を主とする学科を統合…
+j	総合病院	総合病院	複数の診療科、病床を持つ大規模な病院。かつては内科…
+j	総合遊具	総合遊具	play structure
+j	総合馬術	総合馬術	
+j	総売上高	総売上高	売上高の総額で売上値引・割戻などを差引く前の金額。
+j	総大司教	総大司教	patriarch (in a Catholic …
+j	総当たり	総当たり	
+j	総指伸筋	総指伸筋	an extensor digitorum com…
+j	総排出腔	総排出腔	
+j	総掛かり	総掛かり	a concentrated attack wit…
+j	総支配人	総支配人	a general manager
+j	総毛立つ	総毛立つ	恐怖や寒さによって体中の毛が逆立つ。
+j	総状花序	総状花序	
+j	総理大臣	総理大臣	prime minister of Japan
+j	総理府令	総理府令	総理府がその所管する行政事務について内閣総理大臣が…
+j	総菜パン	総菜パン	揚げ物やサラダなどを具として入れたり、挟んだりした…
+j	総領事館	総領事館	a consulate general
+j	裏付ける	裏付ける	to prove
+j	裏切り者	裏切り者	A traitor, betrayer, turn…
+j	裏向きの	裏向きの	
+j	裏急後重	裏急後重	下痢や赤痢などで肛門が痙攣しているため、便意がある…
+j	裏表逆に	裏表逆に	
+j	裏返しで	裏返しで	
+j	規則動詞	規則動詞	a regular verb
+j	規定する	規定する	
+j	規定航路	規定航路	
+j	規矩準縄	規矩準縄	rules and standards
+j	規範主義	規範主義	辞書などの編纂で、規範としてどのように言語を使用す…
+j	規範的な	規範的な	
+j	規行矩歩	規行矩歩	規則をかたく守ること。
+j	踏まえる	踏まえる	to be based on some factu…
+j	踏み出し	踏み出し	rear step out, fumidashi
+j	踏み出す	踏み出す	to step forward, advance
+j	踏み切り	踏み切り	
+j	踏み切る	踏み切る	to make a bold start, tak…
+j	踏み外す	踏み外す	lose one's footing, miss …
+j	踏み潰す	踏み潰す	trample, crush, squash
+j	踏み躙る	踏み躙る	to trample on, to stamp
+j	踏み込む	踏み込む	step into, come to grips …
+j	踏み違え	踏み違え	
+j	踏ん張る	踏ん張る	
+j	透かさず	透かさず	instantly, without a mome…
+j	透かし屁	透かし屁	
+j	透き通る	透き通る	to be transparent, can be…
+j	透析療法	透析療法	腎臓の機能が著しく低下し、体内の老廃物を尿に排出で…
+j	透視する	透視する	
+j	量の多い	量の多い	
+j	量子力学	量子力学	quantum mechanics (branch…
+j	量子化学	量子化学	量子力学の原理を化学に応用する学問。
+j	量子状態	量子状態	
+j	量子科学	量子科学	量子力学による量子を理解しそれを応用する学問の総称。
+j	量子縺れ	量子縺れ	二つ以上の粒子が量子力学的に見て相関していること。
+j	随伴行列	随伴行列	ある複素行列を転置して、さらに全ての成分の複素共軛…
+j	随意契約	随意契約	契約方法の一つ。任意に選択した相手方と随意に締結す…
+j	顏面騎乘	顏面騎乘	
+j	鶏の空音	鶏の空音	the imitative cry of a co…
+j	鶏卵素麺	鶏卵素麺	fios de ovos (traditional…
+j	鶏口牛後	鶏口牛後	It is better to be a big …
+j	鶏鳴狗盗	鶏鳴狗盗	a person, especially of a…
+k	계란유골	鶏卵有骨	some people always have b…
+k	규칙 동사	規則動詞	규칙적인 활용을 하는 동사.
+k	누설하다	漏泄하다	to leak, to escape
+k	복스럽다	福스럽다	to be happy-looking; (of …
+k	복지국가	福祉国家	
+k	복지국가	福祉國家	
+k	불란서어	仏蘭西語	French (language)
+k	불멸기원	仏滅紀元	
+k	소변검사	小便検査	urinalysis
+k	소변검사	小便檢査	urinalysis
+k	소아마비	小児痲痺	
+k	소아마비	小兒痲痺	
+k	소아세아	小亜細亜	
+k	소아세아	小亞細亞	
+k	식사하다	式辞하다	to eat, to have/take a me…
+k	식사하다	式辭하다	to eat, to have/take a me…
+k	양자역학	量子力学	quantum mechanics
+k	양자역학	量子力學	quantum mechanics
+k	연구원생	硏究院生	postgraduate student
+k	의사소통	意思疏通	communication
+k	총각김치	総角김치	chonggak kimchi: kimchi m…
+k	총대주교	総大主敎	patriarch
+k	총사령관	総司令官	
+k	총영사관	総領事館	consulate general
+k	혼곤하다	昏困하다	to be languid and forlorn
+j	仏領ギアナ	仏領ギアナ	
+j	住宅ローン	住宅ローン	
+j	偏光分光計	偏光分光計	
+j	偏執病的な	偏執病的な	
+j	問い合わせ	問い合わせ	inquiry
+j	問い掛ける	問い掛ける	to ask a question
+j	問い詰める	問い詰める	to grill; to confront som…
+j	夏だなぁ厨	夏だなぁ厨	電子掲示板などで、夏厨が現れると「夏だなぁ」とコメ…
+j	夏の大三角	夏の大三角	こと座のベガ、わし座のアルタイル、はくちょう座のデ…
+j	小うるさい	小うるさい	
+j	小さくする	小さくする	
+j	小さな声で	小さな声で	
+j	小ぢんまり	小ぢんまり	snugly; neatly; compactly…
+j	小っちゃい	小っちゃい	
+j	小アルカナ	小アルカナ	タロットカードの一組78枚の内、56枚で構成される…
+j	小中高一貫	小中高一貫	小学校、中学校、高等学校が連携した体制。
+j	小中高大生	小中高大生	小学生と中学生と高校生と大学生
+j	小使いさん	小使いさん	janitor (in a school)
+j	小便をする	小便をする	
+j	小児性愛者	小児性愛者	
+j	小型バイク	小型バイク	小型自動二輪車に分類されるオートバイ。
+j	小型乗用車	小型乗用車	小型乗用自動車の略称。
+j	小型自動車	小型自動車	道路運送車両法において四輪の自動車及び被牽引自動車…
+j	小型貨物車	小型貨物車	小型貨物自動車の略称。
+j	小夜鳴き鳥	小夜鳴き鳥	a common nightingale
+j	小学三年生	小学三年生	
+j	小学五年生	小学五年生	
+j	小学四年生	小学四年生	
+j	小後頭直筋	小後頭直筋	a rectus capitis posterio…
+j	小指外転筋	小指外転筋	an abductor digiti minimi…
+j	小指対立筋	小指対立筋	an opponens digiti minimi…
+j	小汚いガキ	小汚いガキ	
+j	小深山傍食	小深山傍食	
+j	小煩悩地法	小煩悩地法	悪心や有覆無記心とのみあい伴う心作用。説一切有部な…
+j	小田原評定	小田原評定	会議などの場において、結論が出ないまま延々と議論が…
+j	小競り合い	小競り合い	skirmish
+j	小笠原気団	小笠原気団	夏に小笠原諸島近海に発達する高温・多湿の気団。
+j	小笠原海溝	小笠原海溝	伊豆・小笠原海溝の別名。
+j	小笠原群島	小笠原群島	the Bonin Islands (an arc…
+j	小笠原諸島	小笠原諸島	the Bonin Islands (an arc…
+j	小趾外転筋	小趾外転筋	an abductor digiti minimi…
+j	小趾対立筋	小趾対立筋	an opponens digiti minimi…
+j	小選挙区制	小選挙区制	当選者を1選挙区から1名ずつ選出する選挙制度。
+j	小項目主義	小項目主義	百科事典の編纂において、見出し語の数を多くし、その…
+j	小頭鼠海豚	小頭鼠海豚	a vaquita
+j	式守伊之助	式守伊之助	title given to the second…
+j	意に介する	意に介する	to mind, to care
+j	意向表明書	意向表明書	
+j	意味ありげ	意味ありげ	meaningful; suggestive; s…
+j	意味が通る	意味が通る	
+j	意味わかめ	意味わかめ	意味が分からないこと。意味不明なこと。
+j	意味不明な	意味不明な	
+j	意地の悪い	意地の悪い	
+j	意気地なし	意気地なし	spineless person, coward,…
+j	意符書換字	意符書換字	音、意味はほとんど同じだが、意符の偏旁などが書き換…
+j	意識高い系	意識高い系	person of strong vanity
+j	意趣晴らし	意趣晴らし	revenge, retaliation
+j	描き下ろす	描き下ろす	
+j	描き加える	描き加える	paint in
+j	氏より育ち	氏より育ち	nurture counts more than …
+j	漏れ防止性	漏れ防止性	
+j	烏羽玉藻の	烏羽玉藻の	
+j	総勘定元帳	総勘定元帳	複式簿記においてすべての勘定口座が集められた帳簿。…
+j	総合建設業	総合建設業	土木から建築まで一括して行う建設業。
+j	総合振興局	総合振興局	北海道の振興局のうち周辺の振興局に関する広域業務も…
+j	総合格闘技	総合格闘技	mixed martial arts
+j	総同盟罷業	総同盟罷業	全国、全産業（または一つの地域全体や産業全体）の労…
+j	総領の甚六	総領の甚六	総領息子（跡継ぎ、一般には長男）は、将来の不安がな…
+j	規則正しい	規則正しい	物事がある一定の規則に従っているさま。
+j	踏みつける	踏みつける	
+j	踏み付ける	踏み付ける	to trample, to tread on
+j	踏み入れる	踏み入れる	
+j	踏み出した	踏み出した	
+j	踏み固める	踏み固める	To stamp (flat/hard), to …
+j	踏み荒らす	踏み荒らす	
+j	踏ん付ける	踏ん付ける	
+j	透かしっ屁	透かしっ屁	
+j	透明になる	透明になる	
+j	量子もつれ	量子もつれ	quantum entanglement
+j	量子ドット	量子ドット	quantum dot
+j	量子ビット	量子ビット	qubit
+j	量子力学者	量子力学者	量子力学を研究する科学者。
+j	量子化する	量子化する	
+j	量子化学者	量子化学者	量子化学を研究する科学者。
+j	量子生物学	量子生物学	量子論の立場から生命現象を説明する学問。
+j	量子科学者	量子科学者	量子科学を研究する科学者。
+j	量子色力学	量子色力学	quantum chromodynamics
+j	鶏群の一鶴	鶏群の一鶴	a great man standing out …
+k	누설	漏泄/漏洩	leakage (of gas, liquid, …
+k	서론	序論/緒論	
+k	서론	序論/緖論	
+k	소아 성애자	小児性愛者	
+k	소아 성애자	小兒性愛者	
+k	소아성애증	小児性愛症	
+k	소아성애증	小兒性愛症	
+k	소외	疏外/疎外	estrangement; alienation
+k	의욕	意欲/意慾	will, desire, ambition
+k	주민등록증	住民登錄證	ID card, registration card
+k	주민등록증	住民登録証	ID card, registration card
+j	仏の目を抜く	仏の目を抜く	（自分の利益のために仏像の目を抜くことから）利欲の…
+j	仏の顔も三度	仏の顔も三度	反省なく同じ過ちを繰り返すと、仏のように寛容な者も…
+j	仏領印度支那	仏領印度支那	
+j	伏見稲荷大社	伏見稲荷大社	Fushimi Inari-taisha (Shi…
+j	住宅金融組合	住宅金融組合	building society
+j	住民監査請求	住民監査請求	地方公共団体に財務や会計上の違法等によって住民が損…
+j	偏微分方程式	偏微分方程式	partial differential equa…
+j	問い合わせる	問い合わせる	to inquire; to seek infor…
+j	夏の大三角形	夏の大三角形	Summer Triangle - a brigh…
+j	小スンダ列島	小スンダ列島	太平洋にあるバリ島、ロンボク島、スンバワ島、コモド…
+j	小ブルジョア	小ブルジョア	
+j	小中高等学校	小中高等学校	義務教育を担う小学校と中学校、後期中等教育を担う高…
+j	小人カイマン	小人カイマン	a dwarf caiman
+j	小倉百人一首	小倉百人一首	the famous of the “one hu…
+j	小型トラック	小型トラック	小型自動車に分類されるトラック。
+j	小型特殊免許	小型特殊免許	公道で小型特殊自動車を運転することができる運転免許…
+j	小水石を穿つ	小水石を穿つ	努力を続ければ、やがて成功するというたとえ。
+j	小笠原大蝙蝠	小笠原大蝙蝠	a Bonin flying fox (Ptero…
+j	小笠原高気圧	小笠原高気圧	夏季に東京都の小笠原諸島から日本列島に張り出し、高…
+j	小馬鹿にする	小馬鹿にする	to treat (someone) dispar…
+j	意地の悪い人	意地の悪い人	
+j	意思疎通する	意思疎通する	
+j	意識不明です	意識不明です	
+j	畏まりました	畏まりました	
+j	福音の伝道者	福音の伝道者	
+j	総資産利益率	総資産利益率	当期純損益を総資産で割った数値。
+j	裏書きをする	裏書きをする	
+j	踏ん反り返る	踏ん反り返る	to lie back, to lean back
+k	묘사적 형용사	描写的形容詞	
+k	묘사적 형용사	描寫的形容詞	
+k	소아치과의사	小児歯科医師	
+k	소아치과의사	小兒齒科醫師	
+k	양자전기역학	量子電気力学	quantum electrodynamics
+k	양자전기역학	量子電氣力學	quantum electrodynamics
+j	仏の箔をはがす	仏の箔をはがす	（仏像の金箔をはがして盗むことから）欲のために非道…
+j	仏領ポリネシア	仏領ポリネシア	
+j	問い合わせ言語	問い合わせ言語	
+j	問題ありません	問題ありません	
+j	問題にならない	問題にならない	
+j	小なりイコール	小なりイコール	「≦」の不等号。
+j	小型乗用自動車	小型乗用自動車	小型自動車に分類される乗用自動車。小型乗用車。
+j	小型特殊自動車	小型特殊自動車	道路交通法における全長4.7m以下、全幅1.7m以…
+j	小型自動二輪車	小型自動二輪車	総排気量50cc超125cc以下で道路交通法におけ…
+j	小型船舶操縦士	小型船舶操縦士	総トン数20トン未満の小型船舶を操縦する資格を有す…
+j	小型船舶操縦者	小型船舶操縦者	小型船舶を操縦する者。小型船舶操縦士。
+j	小型船舶教習所	小型船舶教習所	小型船舶操縦士の取得を希望する人に必要な知識、技能…
+j	小型貨物自動車	小型貨物自動車	小型自動車に分類される貨物自動車。小型貨物車。
+j	小泉進次郎構文	小泉進次郎構文	unique way of expression …
+j	意味を成さない	意味を成さない	meaningless
+j	総合無線通信士	総合無線通信士	海上、航空、陸上の無線局の無線操作を行うことが出来…
+j	規矩準縄を正す	規矩準縄を正す	物事の基準を正し、きちんとする。
+j	問題がありますか	問題がありますか	
+j	夏季オリンピック	夏季オリンピック	オリンピックのうち主に夏季に行われる大会。西暦が4…
+j	小競り合いをする	小競り合いをする	
+j	小規模言語モデル	小規模言語モデル	大規模言語モデルを縮小し、オンデバイスでも利用可能…
+j	踏んだり蹴ったり	踏んだり蹴ったり	it never rains but it pou…
+j	量子コンピュータ	量子コンピュータ	量子力学の原理を応用してつくられたコンピュータ。
+j	量的金融緩和政策	量的金融緩和政策	
+j	小型特殊自動車免許	小型特殊自動車免許	公道で小型特殊自動車が運転することができる運転免許…
+j	小型船舶操縦免許証	小型船舶操縦免許証	総トン数20トン未満の小型船舶を操縦することについ…
+j	量子コンピューター	量子コンピューター	quantum computer
+j	小さな鳥が私に言った	小さな鳥が私に言った	
+j	小菱形二十・十二面体	小菱形二十・十二面体	
+j	烏の頭白く馬角を生ず	烏の頭白く馬角を生ず	絶対にありえないこと。存在するはずのないもの。
+j	小選挙区比例代表並立制	小選挙区比例代表並立制	小選挙区制と比例代表制の二つを組み合わせて行う制度…
+j	量子テレポーテーション	量子テレポーテーション	
+j	問うに落ちず語るに落ちる	問うに落ちず語るに落ちる	to keep a secret when ask…
+j	騏驎も老いぬれば駑馬に劣る	騏驎も老いぬれば駑馬に劣る	(「日に千里走ると言われた麒麟であっても、歳をとる…
+j	鶏を割くになんぞ牛刀を用いん	鶏を割くになんぞ牛刀を用いん	something big is not nece…
+j	鶏を割くに焉んぞ牛刀を用いん	鶏を割くに焉んぞ牛刀を用いん	取るに足らない小さなことを処理するのに、大がかりな…
+j	鶏口となるも牛後となるなかれ	鶏口となるも牛後となるなかれ	It is better to be a big …
+j	鶏を割くにいずくんぞ牛刀を用いん	鶏を割くにいずくんぞ牛刀を用いん	something big is not nece…

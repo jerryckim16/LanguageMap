@@ -1,0 +1,204 @@
+e	el	el	1 meaning
+k	엘	el	
+e	elf	elf	1 meaning
+e	eli	eli	1 meaning
+e	elm	elm	1 meaning
+e	elam	elam	1 meaning
+e	elbe	elbe	1 meaning
+e	elmo	elmo	1 meaning
+e	else	else	1 meaning
+k	엘리	elli	
+k	엘모	elmo	
+k	엘베	elbe	
+e	el niño	elnio	1 meaning
+e	eland	eland	1 meaning
+e	elara	elara	1 meaning
+e	elbow	elbow	1 meaning
+e	elder	elder	7 meanings
+e	elect	elect	2 meanings
+e	elegy	elegy	1 meaning
+e	elide	elide	2 meanings
+e	elite	elite	1 meaning
+e	elope	elope	1 meaning
+e	eluru	eluru	1 meaning
+e	elvis	elvis	1 meaning
+k	엘람	ellam	
+k	엘크	elkeu	
+k	엘프	elpeu	북유럽 신화에 기원을 두고 있는 인간과 비슷한…
+e	7-eleven	eleven	2 meanings
+e	el paso	elpaso	1 meaning
+e	elaina	elaina	1 meaning
+e	elapse	elapse	1 meaning
+e	elbrus	elbrus	1 meaning
+e	eleven	eleven	1 meaning
+e	elista	elista	1 meaning
+e	elixir	elixir	3 meanings
+e	elohim	elohim	1 meaning
+e	elvish	elvish	1 meaning
+k	엘니노	ellino	El Niño
+k	엘라다	ellada	
+k	엘루루	elluru	
+k	엘파소	elpaso	
+e	elastic	elastic	1 meaning
+e	elative	elative	1 meaning
+e	elbasan	elbasan	2 meanings
+e	elderly	elderly	1 meaning
+e	elector	elector	2 meanings
+e	electro-	electro	1 meaning
+e	elegant	elegant	1 meaning
+e	element	element	6 meanings
+e	elision	elision	1 meaning
+e	elitism	elitism	1 meaning
+e	elitist	elitist	2 meanings
+e	ellipse	ellipse	1 meaning
+e	elysium	elysium	1 meaning
+e	elytron	elytron	1 meaning
+k	엘니뇨	ellinyo	El Niño
+k	엘로힘	ellohim	
+k	엘리트	elliteu	elite
+k	엘바산	elbasan	
+k	엘비스	elbiseu	
+k	엘패소	elpaeso	
+e	el clásico	elclsico	1 meaning
+e	elbow pit	elbowpit	1 meaning
+e	election	election	2 meanings
+e	elective	elective	2 meanings
+e	electric	electric	4 meanings
+e	electron	electron	2 meanings
+e	electrum	electrum	1 meaning
+e	elegance	elegance	1 meaning
+e	elephant	elephant	2 meanings
+e	elevator	elevator	1 meaning
+e	eleventh	eleventh	2 meanings
+e	eligible	eligible	2 meanings
+e	ellipsis	ellipsis	2 meanings
+e	elongate	elongate	1 meaning
+e	eloquent	eloquent	1 meaning
+e	elsagate	elsagate	1 meaning
+e	elsinore	elsinore	1 meaning
+k	엘도라도	eldorado	남아메리카 아마존 강 가에 있다고 상상한 황금…
+k	엘릭서	ellikseo	
+k	엘지비티	eljibiti	LGBT
+e	e-learning	elearning	1 meaning
+e	el paisnal	elpaisnal	1 meaning
+e	elbow bump	elbowbump	1 meaning
+e	elbow room	elbowroom	2 meanings
+e	eldercare	eldercare	1 meaning
+e	electrode	electrode	1 meaning
+e	elemental	elemental	1 meaning
+e	elevenses	elevenses	1 meaning
+e	eliminate	eliminate	2 meanings
+e	elisabeth	elisabeth	1 meaning
+e	elizabeth	elizabeth	1 meaning
+e	elongated	elongated	1 meaning
+e	elopement	elopement	1 meaning
+e	eloquence	eloquence	1 meaning
+k	엘리사벳	ellisabet	
+k	엘리스타	elliseuta	러시아의 도시. 칼미크 공화국의 수도이다.
+e	el salvador	elsalvador	1 meaning
+e	elagabalus	elagabalus	1 meaning
+e	elasticity	elasticity	1 meaning
+e	elderberry	elderberry	1 meaning
+e	elecampane	elecampane	1 meaning
+e	electorate	electorate	1 meaning
+e	electronic	electronic	3 meanings
+e	elementary	elementary	1 meaning
+k	엘리베이터	ellibeiteo	an elevator (permanent co…
+k	엘리스따	elliseutta	칼미크 공화국의 수도 엘리스타의 북한말.
+k	엘리제 궁	ellijegung	
+k	엘사게이트	elsageiteu	
+e	elastic band	elasticband	1 meaning
+e	elative case	elativecase	1 meaning
+e	electric car	electriccar	1 meaning
+e	electric eel	electriceel	1 meaning
+e	electric ray	electricray	1 meaning
+e	electrician	electrician	1 meaning
+e	electricity	electricity	2 meanings
+e	electrolyte	electrolyte	1 meaning
+e	electronica	electronica	1 meaning
+e	electronics	electronics	2 meanings
+e	electroweak	electroweak	1 meaning
+e	eligibility	eligibility	1 meaning
+e	elliott wave	elliottwave	1 meaning
+k	엘리자베스	ellijabeseu	a transliteration of the …
+k	엘리트주의	elliteujuui	
+e	electric bass	electricbass	1 meaning
+e	electric flux	electricflux	1 meaning
+e	electrolysis	electrolysis	1 meaning
+e	electron volt	electronvolt	1 meaning
+e	electrophile	electrophile	1 meaning
+e	electroscope	electroscope	1 meaning
+e	elephant bird	elephantbird	1 meaning
+e	elephant seal	elephantseal	1 meaning
+e	eleven o'clock	elevenoclock	1 meaning
+e	eleventh hour	eleventhhour	1 meaning
+e	elixir of life	elixiroflife	1 meaning
+k	엘 클라시코	elkeullasiko	
+k	엘렉트럼	ellekteureom	
+k	엘살바도르	elsalbadoreu	El Salvador (a country in…
+e	electric chair	electricchair	1 meaning
+e	electric field	electricfield	1 meaning
+e	electric motor	electricmotor	1 meaning
+e	electric shock	electricshock	1 meaning
+e	electrocution	electrocution	2 meanings
+e	electromagnet	electromagnet	1 meaning
+e	elephantiasis	elephantiasis	1 meaning
+e	eleventh grade	eleventhgrade	1 meaning
+e	elliptic curve	ellipticcurve	1 meaning
+k	엘쌀바도르	elssalbadoreu	El Salvador (a country in…
+e	elder statesman	elderstatesman	1 meaning
+e	electoral fraud	electoralfraud	1 meaning
+e	electric charge	electriccharge	2 meanings
+e	electric guitar	electricguitar	1 meaning
+e	electric shaver	electricshaver	1 meaning
+e	electric violin	electricviolin	1 meaning
+e	electrical tape	electricaltape	1 meaning
+e	electrokinesis	electrokinesis	1 meaning
+e	electromyogram	electromyogram	1 meaning
+e	electronic game	electronicgame	1 meaning
+e	electrostatics	electrostatics	1 meaning
+e	electrotherapy	electrotherapy	1 meaning
+k	엘라가발루스	ellagaballuseu	
+e	electric current	electriccurrent	2 meanings
+e	electric vehicle	electricvehicle	1 meaning
+e	electrification	electrification	1 meaning
+e	electrodynamics	electrodynamics	1 meaning
+e	electromagnetic	electromagnetic	1 meaning
+e	electromyograph	electromyograph	1 meaning
+e	electronic music	electronicmusic	1 meaning
+e	electronic sport	electronicsport	1 meaning
+e	electrophoresis	electrophoresis	1 meaning
+e	elephant foot yam	elephantfootyam	1 meaning
+e	electoral college	electoralcollege	1 meaning
+e	electrical energy	electricalenergy	1 meaning
+e	electrochemistry	electrochemistry	1 meaning
+e	electroflotation	electroflotation	1 meaning
+e	electromagnetism	electromagnetism	1 meaning
+e	electrooculogram	electrooculogram	1 meaning
+e	elliptical galaxy	ellipticalgalaxy	1 meaning
+k	엘니뇨 현상	ellinyohyeonsang	
+k	엘라다 공화국	elladagonghwaguk	
+e	electoral district	electoraldistrict	1 meaning
+e	electric potential	electricpotential	1 meaning
+e	electrocardiogram	electrocardiogram	1 meaning
+e	electronegativity	electronegativity	1 meaning
+e	electroretinogram	electroretinogram	1 meaning
+e	elephant in the room	elephantintheroom	1 meaning
+e	electric locomotive	electriclocomotive	1 meaning
+e	electrocardiograph	electrocardiograph	1 meaning
+e	electron microscope	electronmicroscope	1 meaning
+e	elementary function	elementaryfunction	1 meaning
+e	elementary particle	elementaryparticle	1 meaning
+e	electromagnetic wave	electromagneticwave	1 meaning
+e	electronic cigarette	electroniccigarette	1 meaning
+e	electric multiple unit	electricmultipleunit	1 meaning
+e	electromagnetic field	electromagneticfield	1 meaning
+e	electromagnetic force	electromagneticforce	1 meaning
+e	electromagnetic pulse	electromagneticpulse	1 meaning
+e	electronic dance music	electronicdancemusic	1 meaning
+e	electrical engineering	electricalengineering	1 meaning
+e	electrolytic capacitor	electrolyticcapacitor	1 meaning
+e	electromagnetic spectrum	electromagneticspectrum	1 meaning
+e	electromagnetic induction	electromagneticinduction	1 meaning
+e	electromagnetic radiation	electromagneticradiation	1 meaning
+e	electromagnetic interaction	electromagneticinteraction	1 meaning

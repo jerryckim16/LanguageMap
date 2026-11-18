@@ -1,0 +1,345 @@
+e	spa	spa	1 meaning
+e	spy	spy	1 meaning
+e	spam	spam	2 meanings
+e	span	span	1 meaning
+e	spat	spat	1 meaning
+e	spaz	spaz	1 meaning
+e	spew	spew	2 meanings
+e	spin	spin	5 meanings
+e	spit	spit	3 meanings
+e	spot	spot	4 meanings
+e	spur	spur	4 meanings
+e	space	space	7 meanings
+e	spade	spade	2 meanings
+e	spain	spain	1 meaning
+e	spank	spank	1 meaning
+e	spark	spark	2 meanings
+e	spasm	spasm	1 meaning
+e	spate	spate	2 meanings
+e	spawn	spawn	4 meanings
+e	speak	speak	3 meanings
+e	spear	spear	2 meanings
+e	speck	speck	1 meaning
+e	speed	speed	2 meanings
+e	spell	spell	5 meanings
+e	spelt	spelt	1 meaning
+e	spend	spend	2 meanings
+e	sperm	sperm	2 meanings
+e	spice	spice	2 meanings
+e	spicy	spicy	4 meanings
+e	spike	spike	8 meanings
+e	spill	spill	1 meaning
+e	spine	spine	3 meanings
+e	spire	spire	1 meaning
+e	spitz	spitz	1 meaning
+e	split	split	7 meanings
+e	spock	spock	1 meaning
+e	spoil	spoil	6 meanings
+e	spoke	spoke	1 meaning
+e	spool	spool	1 meaning
+e	spoon	spoon	1 meaning
+e	spoor	spoor	1 meaning
+e	spore	spore	1 meaning
+e	spork	spork	1 meaning
+e	sport	sport	1 meaning
+e	spout	spout	3 meanings
+e	spray	spray	3 meanings
+e	spree	spree	1 meaning
+e	spurt	spurt	3 meanings
+e	spades	spades	1 meaning
+e	sparta	sparta	1 meaning
+e	spazzy	spazzy	1 meaning
+e	speech	speech	2 meanings
+e	speedy	speedy	1 meaning
+e	sphere	sphere	3 meanings
+e	sphinx	sphinx	3 meanings
+e	sphynx	sphynx	1 meaning
+e	spiced	spiced	1 meaning
+e	spider	spider	1 meaning
+e	spiffy	spiffy	1 meaning
+e	spinel	spinel	1 meaning
+e	spinon	spinon	1 meaning
+e	spinor	spinor	1 meaning
+e	spiral	spiral	3 meanings
+e	spirit	spirit	4 meanings
+e	splash	splash	2 meanings
+e	spleen	spleen	1 meaning
+e	splint	splint	2 meanings
+e	splits	splits	1 meaning
+e	spoilt	spoilt	1 meaning
+e	sponde	sponde	1 meaning
+e	sponge	sponge	2 meanings
+e	spouse	spouse	1 meaning
+e	sprain	sprain	2 meanings
+e	spread	spread	10 meanings
+e	spring	spring	3 meanings
+e	sprint	sprint	1 meaning
+e	sprite	sprite	2 meanings
+e	sprout	sprout	3 meanings
+e	spruce	spruce	1 meaning
+e	spurge	spurge	1 meaning
+e	sputum	sputum	1 meaning
+e	spandex	spandex	1 meaning
+e	spangle	spangle	1 meaning
+e	spaniel	spaniel	1 meaning
+e	spanish	spanish	4 meanings
+e	spanner	spanner	1 meaning
+e	sparkle	sparkle	2 meanings
+e	sparrow	sparrow	1 meaning
+e	spatial	spatial	1 meaning
+e	spatter	spatter	1 meaning
+e	spatula	spatula	1 meaning
+e	speaker	speaker	4 meanings
+e	special	special	3 meanings
+e	species	species	2 meanings
+e	specter	specter	1 meaning
+e	speed up	speedup	1 meaning
+e	spice up	spiceup	1 meaning
+e	spin-off	spinoff	1 meaning
+e	spinach	spinach	1 meaning
+e	spindle	spindle	2 meanings
+e	spittle	spittle	1 meaning
+e	spoiled	spoiled	1 meaning
+e	spoiler	spoiler	3 meanings
+e	spondee	spondee	1 meaning
+e	sponsor	sponsor	1 meaning
+e	sputnik	sputnik	1 meaning
+e	spyware	spyware	1 meaning
+e	space age	spaceage	1 meaning
+e	space bar	spacebar	1 meaning
+e	spacious	spacious	1 meaning
+e	spaniard	spaniard	1 meaning
+e	spanking	spanking	1 meaning
+e	sparerib	sparerib	1 meaning
+e	sparring	sparring	1 meaning
+e	speaking	speaking	1 meaning
+e	specific	specific	1 meaning
+e	specimen	specimen	2 meanings
+e	specious	specious	1 meaning
+e	spectrum	spectrum	4 meanings
+e	speculum	speculum	1 meaning
+e	speeding	speeding	1 meaning
+e	speedrun	speedrun	2 meanings
+e	spelling	spelling	3 meanings
+e	spetsnaz	spetsnaz	1 meaning
+e	spinning	spinning	1 meaning
+e	spinster	spinster	1 meaning
+e	spiteful	spiteful	1 meaning
+e	spittoon	spittoon	1 meaning
+e	splendid	splendid	3 meanings
+e	splinter	splinter	1 meaning
+e	split end	splitend	1 meaning
+e	split pea	splitpea	1 meaning
+e	spoonful	spoonful	1 meaning
+e	sporadic	sporadic	1 meaning
+e	sprinkle	sprinkle	4 meanings
+e	sprinter	sprinter	1 meaning
+e	spritzer	spritzer	1 meaning
+e	spruce up	spruceup	1 meaning
+e	spurious	spurious	1 meaning
+e	space race	spacerace	2 meanings
+e	space suit	spacesuit	1 meaning
+e	spaceport	spaceport	1 meaning
+e	spaceship	spaceship	1 meaning
+e	spacetime	spacetime	1 meaning
+e	spacewalk	spacewalk	1 meaning
+e	spaghetti	spaghetti	2 meanings
+e	spare part	sparepart	1 meaning
+e	spare tyre	sparetyre	2 meanings
+e	spark plug	sparkplug	1 meaning
+e	sparkless	sparkless	1 meaning
+e	spartacus	spartacus	1 meaning
+e	speakeasy	speakeasy	1 meaning
+e	spear side	spearside	1 meaning
+e	spearhead	spearhead	1 meaning
+e	spearmint	spearmint	1 meaning
+e	specially	specially	1 meaning
+e	specialty	specialty	1 meaning
+e	specified	specified	1 meaning
+e	spectacle	spectacle	1 meaning
+e	spectator	spectator	1 meaning
+e	speculoos	speculoos	1 meaning
+e	speed bump	speedbump	1 meaning
+e	speedread	speedread	1 meaning
+e	spellbook	spellbook	1 meaning
+e	sperm bank	spermbank	1 meaning
+e	sphincter	sphincter	1 meaning
+e	spiderweb	spiderweb	1 meaning
+e	spielberg	spielberg	1 meaning
+e	spikenard	spikenard	2 meanings
+e	spindrift	spindrift	2 meanings
+e	spiritism	spiritism	1 meaning
+e	spiritual	spiritual	1 meaning
+e	spirogyra	spirogyra	1 meaning
+e	spoon lure	spoonlure	1 meaning
+e	spoonbill	spoonbill	1 meaning
+e	sports bra	sportsbra	1 meaning
+e	sports car	sportscar	1 meaning
+e	sportsman	sportsman	1 meaning
+e	spotlight	spotlight	1 meaning
+e	springbok	springbok	1 meaning
+e	sprinkler	sprinkler	2 meanings
+e	sprinkles	sprinkles	1 meaning
+e	space alien	spacealien	1 meaning
+e	space probe	spaceprobe	1 meaning
+e	spacecraft	spacecraft	1 meaning
+e	spam musubi	spammusubi	1 meaning
+e	spasticity	spasticity	1 meaning
+e	spawn point	spawnpoint	1 meaning
+e	specialist	specialist	2 meanings
+e	speciesism	speciesism	1 meaning
+e	spectacles	spectacles	1 meaning
+e	speculator	speculator	1 meaning
+e	speed limit	speedlimit	1 meaning
+e	speleology	speleology	1 meaning
+e	speleothem	speleothem	1 meaning
+e	spelunking	spelunking	1 meaning
+e	sperm whale	spermwhale	1 meaning
+e	sphericity	sphericity	2 meanings
+e	spider lily	spiderlily	1 meaning
+e	spillikins	spillikins	1 meaning
+e	spinal cord	spinalcord	1 meaning
+e	spirit away	spiritaway	1 meaning
+e	spirit lamp	spiritlamp	1 meaning
+e	spleenwort	spleenwort	1 meaning
+e	split hairs	splithairs	1 meaning
+e	sponge cake	spongecake	1 meaning
+e	spoonerism	spoonerism	1 meaning
+e	sporangium	sporangium	1 meaning
+e	sports club	sportsclub	1 meaning
+e	sportswear	sportswear	1 meaning
+e	sprachbund	sprachbund	1 meaning
+e	spring roll	springroll	1 meaning
+e	spring tide	springtide	1 meaning
+e	springtail	springtail	1 meaning
+e	springtime	springtime	1 meaning
+j	スペードのエース	spedonoesu	
+e	space agency	spaceagency	1 meaning
+e	space debris	spacedebris	1 meaning
+e	space flight	spaceflight	2 meanings
+e	space travel	spacetravel	1 meaning
+e	special ward	specialward	1 meaning
+e	specialness	specialness	1 meaning
+e	spectacular	spectacular	1 meaning
+e	spectral bat	spectralbat	1 meaning
+e	speculation	speculation	2 meanings
+e	speed camera	speedcamera	1 meaning
+e	speedometer	speedometer	1 meaning
+e	spendthrift	spendthrift	1 meaning
+e	spina bifida	spinabifida	1 meaning
+e	spinning top	spinningtop	1 meaning
+e	spinosaurus	spinosaurus	1 meaning
+e	spirit level	spiritlevel	1 meaning
+e	spitsbergen	spitsbergen	1 meaning
+e	splenectomy	splenectomy	1 meaning
+e	split-second	splitsecond	1 meaning
+e	spoils of war	spoilsofwar	1 meaning
+e	spontaneity	spontaneity	1 meaning
+e	sports drink	sportsdrink	1 meaning
+e	sportswoman	sportswoman	1 meaning
+e	spotted seal	spottedseal	1 meaning
+e	sprachgefühl	sprachgefhl	1 meaning
+e	spreadsheet	spreadsheet	2 meanings
+e	spring break	springbreak	1 meaning
+e	spring onion	springonion	1 meaning
+e	springboard	springboard	1 meaning
+e	springwater	springwater	1 meaning
+e	space capsule	spacecapsule	1 meaning
+e	space science	spacescience	1 meaning
+e	space shuttle	spaceshuttle	2 meanings
+e	space station	spacestation	1 meaning
+e	space tourism	spacetourism	1 meaning
+e	spanish broom	spanishbroom	1 meaning
+e	specifically	specifically	1 meaning
+e	spectrometer	spectrometer	1 meaning
+e	spectroscope	spectroscope	1 meaning
+e	spectroscopy	spectroscopy	1 meaning
+e	speech bubble	speechbubble	1 meaning
+e	speed of light	speedoflight	1 meaning
+e	speed of sound	speedofsound	1 meaning
+e	speed reading	speedreading	1 meaning
+e	speed skating	speedskating	1 meaning
+e	speedy delete	speedydelete	1 meaning
+e	spell checker	spellchecker	1 meaning
+e	spermatozoon	spermatozoon	1 meaning
+e	sphenoid bone	sphenoidbone	1 meaning
+e	spiderhunter	spiderhunter	1 meaning
+e	spiny dogfish	spinydogfish	1 meaning
+e	spiny lobster	spinylobster	1 meaning
+e	spiral galaxy	spiralgalaxy	1 meaning
+e	spiritualism	spiritualism	1 meaning
+e	spiritualist	spiritualist	1 meaning
+e	spirituality	spirituality	1 meaning
+e	splenomegaly	splenomegaly	1 meaning
+e	spoiler alert	spoileralert	1 meaning
+e	spokesperson	spokesperson	1 meaning
+e	sports ground	sportsground	1 meaning
+e	sportsperson	sportsperson	1 meaning
+e	spring to life	springtolife	1 meaning
+e	spruce grouse	sprucegrouse	1 meaning
+e	spanish armada	spanisharmada	1 meaning
+e	sparkling wine	sparklingwine	1 meaning
+e	speak one's mind	speakonesmind	1 meaning
+e	special effect	specialeffect	1 meaning
+e	special forces	specialforces	1 meaning
+e	specification	specification	1 meaning
+e	spectacle case	spectaclecase	1 meaning
+e	spinelessness	spinelessness	2 meanings
+e	spinning wheel	spinningwheel	1 meaning
+e	spitting image	spittingimage	1 meaning
+e	spontaneously	spontaneously	1 meaning
+e	sport climbing	sportclimbing	1 meaning
+e	sport stacking	sportstacking	1 meaning
+e	sports betting	sportsbetting	1 meaning
+e	sportsmanship	sportsmanship	1 meaning
+e	sprightliness	sprightliness	1 meaning
+e	spanish jasmine	spanishjasmine	1 meaning
+e	spanish needles	spanishneedles	1 meaning
+e	spanish sparrow	spanishsparrow	1 meaning
+e	speak in tongues	speakintongues	1 meaning
+e	specialty store	specialtystore	1 meaning
+e	spectacled bear	spectacledbear	1 meaning
+e	spherical angle	sphericalangle	1 meaning
+e	spoons position	spoonsposition	1 meaning
+e	sports medicine	sportsmedicine	1 meaning
+e	spratly islands	spratlyislands	1 meaning
+e	spring cleaning	springcleaning	2 meanings
+e	spring constant	springconstant	1 meaning
+e	space complexity	spacecomplexity	1 meaning
+e	spanish water dog	spanishwaterdog	1 meaning
+e	speak of the devil	speakofthedevil	1 meaning
+e	specific epithet	specificepithet	1 meaning
+e	speech community	speechcommunity	1 meaning
+e	spillover effect	spillovereffect	1 meaning
+e	spiral staircase	spiralstaircase	1 meaning
+e	spotted redshank	spottedredshank	1 meaning
+e	spread one's wings	spreadoneswings	1 meaning
+e	spaghetti western	spaghettiwestern	1 meaning
+e	spanish influenza	spanishinfluenza	1 meaning
+e	spatial computing	spatialcomputing	1 meaning
+e	spelling alphabet	spellingalphabet	1 meaning
+e	sphygmomanometer	sphygmomanometer	1 meaning
+e	spaghettification	spaghettification	1 meaning
+e	special relativity	specialrelativity	1 meaning
+e	sphere of influence	sphereofinfluence	1 meaning
+e	spherical geometry	sphericalgeometry	1 meaning
+e	spirit photography	spiritphotography	1 meaning
+e	spot the difference	spotthedifference	1 meaning
+e	spotted flycatcher	spottedflycatcher	1 meaning
+e	spotted nutcracker	spottednutcracker	1 meaning
+e	spectropolarimeter	spectropolarimeter	1 meaning
+e	speculative fiction	speculativefiction	1 meaning
+e	spread like wildfire	spreadlikewildfire	1 meaning
+e	spanish sign language	spanishsignlanguage	1 meaning
+e	special drawing right	specialdrawingright	1 meaning
+e	special economic zone	specialeconomiczone	1 meaning
+e	split-finger fastball	splitfingerfastball	1 meaning
+e	sport utility vehicle	sportutilityvehicle	1 meaning
+e	spot-backed antshrike	spotbackedantshrike	1 meaning
+e	spot-winged antshrike	spotwingedantshrike	1 meaning
+e	spotted whistling duck	spottedwhistlingduck	1 meaning
+e	special military operation	specialmilitaryoperation	1 meaning
+e	special region of yogyakarta	specialregionofyogyakarta	1 meaning
+e	spare the rod and spoil the child	sparetherodandspoilthechild	1 meaning
+e	special administrative region	specialadministrativeregion	1 meaning
+e	spread spectrum communication	spreadspectrumcommunication	1 meaning

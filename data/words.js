@@ -45,6 +45,8 @@
     language:  { label: "Language", color: "#8cd17d" },
     animals:   { label: "Animals", color: "#499894" },
     actions:   { label: "Actions & descriptions", color: "#79706e" },
+    expressions: { label: "Expressions", color: "#e17c05" },
+    untranslatable: { label: "No exact equivalent", color: "#8a8f98" },
   };
 
   const WORDS = [

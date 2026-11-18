@@ -1,0 +1,16 @@
+e	xena	xena	2 meanings
+e	xebec	xebec	1 meaning
+e	xenon	xenon	1 meaning
+e	xerox	xerox	1 meaning
+e	xerxes	xerxes	1 meaning
+e	xenophon	xenophon	1 meaning
+e	xenophobe	xenophobe	1 meaning
+e	xerox copy	xeroxcopy	1 meaning
+e	xenobotany	xenobotany	1 meaning
+e	xenogender	xenogender	1 meaning
+e	xenoglossy	xenoglossy	1 meaning
+e	xenophanes	xenophanes	1 meaning
+e	xenophobia	xenophobia	1 meaning
+e	xenobiology	xenobiology	1 meaning
+e	xerophthalmia	xerophthalmia	1 meaning
+e	xenotransplantation	xenotransplantation	1 meaning

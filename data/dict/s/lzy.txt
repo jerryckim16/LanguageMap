@@ -1,0 +1,6 @@
+e	zydeco	zydeco	1 meaning
+e	zygote	zygote	1 meaning
+e	zymogen	zymogen	1 meaning
+e	zymology	zymology	1 meaning
+e	zythology	zythology	1 meaning
+e	zygopteran	zygopteran	1 meaning

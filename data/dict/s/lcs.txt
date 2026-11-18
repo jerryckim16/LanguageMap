@@ -1,0 +1,4 @@
+e	csl	csl	1 meaning
+e	csardas	csardas	1 meaning
+e	c-sharp major	csharpmajor	1 meaning
+e	c-sharp minor	csharpminor	1 meaning

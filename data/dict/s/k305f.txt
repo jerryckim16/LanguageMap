@@ -1,0 +1,5103 @@
+j	た	た	indicates a past or compl…
+j	他	た	another, other, some othe…
+j	咫	た	roughly corresponds to th…
+j	多	た	multi-
+j	太	た	fatness
+j	田	た	rice paddy
+j	誰	た	interrogative personal pr…
+j	龱	た	
+j	たい	たい	Used to form the desidera…
+j	たう	たう	高いところや深いところなどに身体や物の先が届く。
+j	たえ	たえ	不思議なほど優れていたり、美しいいるさま。
+j	たか	たか	鳥の名。タカを参照。
+j	たが	たが	樽や桶等を作る際、円形に組んだ木版の外側にはめて固…
+j	たき	たき	多岐: diversity, variety; d…
+j	たく	たく	啄: (on'yomi, only used in…
+j	たけ	たけ	イネ科タケ亜科のうち、大型のものの総称。小型のもの…
+j	たこ	たこ	多古: Tako, Chiba
+j	たご	たご	水や糞尿などを入れ、天秤棒などで運搬するための桶。…
+j	たし	たし	addition
+j	たじ	たじ	多事: eventfulness
+j	たす	たす	つけくわえる。量を多くする。少なくなってしまったも…
+j	たず	たず	つるの別称。
+j	たそ	たそ	
+j	たた	たた	生魚を行商する女性。
+j	ただ	ただ	徒, 只: ordinary, common, n…
+j	たち	たち	nature; kind; type; sort …
+j	たつ	たつ	想像上の動物。東洋では水を司る神獣とされる。蛇のよ…
+j	たて	たて	上下、前後の向き。
+j	たで	たで	ナデシコ目タデ科イヌタデ属サナエタデ節に属する植物…
+j	たな	たな	棚: shelf, ledge, rack, tr…
+j	たに	たに	地表の狭くて細長い窪地。
+j	たね	たね	植物において発芽のもとになるもの。種子。
+j	たば	たば	幾つかの物を一纏めにして括ったもの。
+j	たび	たび	和装をする際に直接足に履く袋状の衣類。
+j	たぶ	たぶ	たぶのき。
+j	たぼ	たぼ	女性の髪型で後ろに張り出した部分。
+j	たま	たま	丸い物。球状の物。
+j	たみ	たみ	citizen
+j	ため	ため	an advantage, benefit
+j	たも	たも	ヤチダモ、トネリコの別称。
+j	たら	たら	follows a past-tense subo…
+j	たり	たり	used to list actions or s…
+j	たる	たる	attributive form (連体形) of…
+j	たれ	たれ	誰: (archaic) interrogativ…
+j	たわ	たわ	（地形）峰と峰の間の尾根の最も低い地点。麓から見る…
+j	たん	たん	
+j	た行	た行	the fourth row of the 五十音…
+j	タイ	タイ	鯛: sea bream
+j	タウ	タウ	tau
+j	タカ	タカ	taka (currency of Banglad…
+j	タク	タク	タクシーの略。
+j	タグ	タグ	tag, label
+j	タコ	タコ	たこの学術的表記。
+j	タチ	タチ	top
+j	タフ	タフ	tough
+j	タブ	タブ	tab
+j	タメ	ため	
+j	タメ	タメ	
+j	タモ	タモ	Japanese ash
+j	タラ	タラ	「鱈」の学術的表記。
+j	タン	タン	tongue of a shoe
+j	丹	たん	the color red
+j	人	たり	a person, human
+j	他世	たせ	後世。未来。
+j	他事	たじ	他の事柄。当人には関係のないこと。
+j	他地	たち	他の土地や場所。
+j	他家	たけ	another family
+j	他庫	たこ	自社で保有する倉庫以外の倉庫。
+j	他志	たし	背く心。ふたごころ。
+j	他意	たい	other intention
+j	他我	たが	other minds
+j	他時	たじ	他の時。別の時。
+j	他派	たは	他の党派・流派。
+j	他異	たい	他と相違があること。
+j	他紙	たし	他の新聞。
+j	他誌	たし	他の雑誌。
+j	但木	たき	a surname
+j	体	たい	counter for humanoid obje…
+j	偶	たま	occasional
+j	凧	たこ	kite (a tethered object l…
+j	刀	たう	a single-edged sword, suc…
+j	勃つ	たつ	to become erect
+j	卓	たく	table, desk
+j	単	たん	
+j	只	ただ	（ただ）無料。ロハ。
+j	只木	たき	a surname
+j	呆然	たり	dumbfounded
+j	唐	たう	foreign lands in general
+j	啄	たく	the seventh of the Eight …
+j	嘆	たん	sigh
+j	垂れ	たれ	something which hangs down
+j	垂れ	タれ	something which hangs down
+j	垰	たお	mountain pass
+j	堆	たい	heap, pile, mound
+j	塔	たふ	tower (structure)
+j	壁蝨	たに	a tick, a mite: any of va…
+j	多々	たた	many times, in many occas…
+j	多事	たじ	eventfulness
+j	多伎	たき	a female given name
+j	多価	たか	分子内の価数が2以上であること。
+j	多喜	たき	a female given name
+j	多士	たし	多くの優秀な人材。
+j	多多	たた	数量が多いこと。たくさん。
+j	多子	たし	a female given name
+j	多季	たき	a female given name
+j	多寡	たか	degree (amount)
+j	多岐	たき	diversity, variety
+j	多希	たき	a female given name
+j	多幾	たき	a surname
+j	多度	たど	a surname
+j	多技	たぎ	多くの技芸。また、それらを有する者。
+j	多時	たじ	多くの時間。長い期間。
+j	多智	たち	知恵、知識が多いこと。
+j	多木	たき	a surname
+j	多来	たき	a female given name
+j	多樹	たき	a female given name
+j	多気	たき	a surname
+j	多氣	たき	a surname
+j	多生	たき	a female given name
+j	多田	ただ	a surname
+j	多知	たち	知恵、知識が多いこと。
+j	多紀	たき	a female given name
+j	多綺	たき	a female given name
+j	多羅	たら	「多羅樹」の略。
+j	多義	たぎ	polysemy, multiple meanin…
+j	多記	たき	a surname
+j	多輝	たき	a female given name
+j	多雨	たう	雨の日や雨量が多いこと。
+j	太	たい	fatness
+j	太刀	たち	a type of longsword (as o…
+j	太希	たき	a female given name
+j	太木	たき	a surname
+j	太記	たき	a surname
+j	宅	たく	home
+j	対	たい	versus
+j	岳	たけ	a tall mountain
+j	峠	たお	mountain pass, ridge
+j	島	たう	an island (land surrounde…
+j	帯	たい	obi (kimono sash)
+j	度	たび	time; whenever
+j	建つ	たつ	to be founded, to be cons…
+j	弾	たま	goal
+j	態	たい	voice - a particular mode…
+j	択	たく	option; choice
+j	拓	たく	a male given name
+j	拖杷	たは	麦かきすること。
+j	探	たん	spy from (a country)
+j	撾破	たは	打ち破ること。
+j	攩	たも	
+j	敦	たい	dui (vessel)
+j	断つ	たつ	to sever
+j	旅	たび	a journey; travel
+j	束	たば	counter for bundles
+j	柝	たく	wooden clappers
+j	栲	たえ	cloth, especially, from t…
+j	栲	たく	cloth, especially, from t…
+j	栲	たへ	cloth, especially, from t…
+j	棚	たな	shelf, ledge, rack, trell…
+j	楤	たら	Japanese angelica tree (A…
+j	楤	タラ	Japanese angelica tree (A…
+j	樽	たる	barrel
+j	檀	たん	a surname
+j	段	たん	steps (up and down); stai…
+j	殺陣	たて	stage combat
+j	民	たみ	citizen
+j	汰樹	たき	a female given name
+j	泰	たい	a male given name
+j	滝	たき	waterfall
+j	炊く	たく	to cook grains, especiall…
+j	炭	たん	charcoal
+j	為	ため	the twelfth string on a 箏…
+j	焚く	たく	to burn/light a fire; to …
+j	燵	たつ	foot warmer
+j	玉	たま	球, 珠: a ball
+j	球	たま	sphere, globe, orb
+j	田喜	たき	a surname
+j	田姫	たき	a female given name
+j	田己	たき	a female given name
+j	田木	たき	a surname
+j	田貴	たき	a surname
+j	疣	たり	a small protrusion of the…
+j	痰	たん	phlegm
+j	発つ	たつ	to depart, such as on a t…
+j	盾	たて	a shield (weapon stood up…
+j	短	たん	fault, weak point
+j	磔	たく	crucifixion
+j	種	たね	a seed
+j	立つ	たつ	to stand, to stand up, to…
+j	立て	たて	a party or banquet
+j	立木	たき	a surname
+j	竜	たつ	a Chinese dragon
+j	章魚	たこ	
+j	竹	たけ	bamboo
+j	竹	タケ	bamboo
+j	箍	たが	a barrel hoop
+j	糖	たう	sugar
+j	経	たて	a discourse of the Gautam…
+j	経つ	たつ	to pass
+j	縦	たて	length
+j	纛	たう	（トウ）旗の先端に付けた、ヤクや馬の尾の毛を束ねた…
+j	胎	たい	womb
+j	胤	たね	lineage; descendant
+j	胼胝	たこ	callus
+j	茶木	たき	a surname
+j	茸	たけ	a mushroom
+j	茸	タケ	a mushroom
+j	蓼	たで	knotweed (Polygonaceae); …
+j	蓼	タデ	knotweed (Polygonaceae); …
+j	蛸	たこ	octopus
+j	蛸	タコ	octopus
+j	裁	たち	a surname
+j	訛む	たむ	to be corrupted (of word)…
+j	誰	たれ	interrogative personal pr…
+j	誰が	たが	Used other than figurativ…
+j	譚	たん	story; tale
+j	谷	たに	a valley (elongated depre…
+j	貴	たか	added to nouns related to…
+j	足す	たす	to add
+j	足り	たり	imperfective and stem (or…
+j	足る	たる	to suffice, to be enough
+j	足日	たび	a surname
+j	足袋	たび	tabi: traditional Japanes…
+j	辰	たつ	the Dragon, the fifth of …
+j	道	たお	Tao (the way of nature), …
+j	達	たち	plural marker
+j	鍛	たん	forging, smithing
+j	鐸	たく	an ancient bell with a lo…
+j	長	たき	chief, head, leader
+j	長	たけ	chief, head, leader
+j	闥	たつ	gate
+j	陶	たう	pottery, ceramics
+j	隊	たい	squad; company (group of …
+j	霊	たま	soul; spirit
+j	食べ	たべ	imperfective and stem (or…
+j	館	たち	a roofed structure on a b…
+j	館	たて	a roofed structure on a b…
+j	高	たか	maximum, the limit
+j	鬱勃	たり	irresistible in force
+j	魂	たま	a soul, spirit
+j	鮹	たこ	
+j	鮹	タコ	
+j	鯛	たい	sea bream (fish of the fa…
+j	鯛	たひ	sea bream (fish of the fa…
+j	鯛	タイ	sea bream (fish of the fa…
+j	鯛	タヒ	sea bream (fish of the fa…
+j	鱈	たら	codfish
+j	鱈	タラ	codfish
+j	鳭	たう	a crested ibis, Nipponia …
+j	鶴	たず	a crane (large, long-legg…
+j	鶴	たづ	a crane (large, long-legg…
+j	鷹	たか	a hawk (predatory bird)
+j	鷹	タカ	a hawk (predatory bird)
+j	たいご	たいご	大悟: Buddhist englightenme…
+j	たいし	たいし	大志, 泰示, 大司: a male given …
+j	たいじ	たいじ	胎児: (medicine) fetus
+j	たいと	たいと	𱁬: The meaning of this te…
+j	たいま	たいま	大麻: hemp, cannabis
+j	たいら	たいら	平ら: flat, even, level, sm…
+j	たうえ	たうえ	苗代で育てた稲の苗を水田に植えること。
+j	たえこ	たえこ	妙子, 耐子, 多恵子, 多惠子, 多栄子, 夛繪…
+j	たえず	たえず	絶え間なく。いつも。常に。
+j	たえま	たえま	絶え間: interval, gap
+j	たえる	たえる	耐える: to endure, to bear (…
+j	たおす	たおす	立っているものを横にする。
+j	たおる	たおる	花や枝を手で折る。
+j	たかい	たかい	位置が基準面よりも上にある。
+j	たかが	たかが	merely; just
+j	たかき	たかき	田掻き: preparing a rice fie…
+j	たかく	たかく	「たかい」の連用形。
+j	たかこ	たかこ	江子, 孝子, 高子, 崇子, 隆子, 喬子, 尭…
+j	たかさ	たかさ	高さ: height
+j	たかし	たかし	日本語における男性名のひとつ。
+j	たかっ	たかっ	助動詞「たい」の連用形。
+j	たかと	たかと	貴斗: a male given name
+j	たかな	たかな	からしなの変種。
+j	たかね	たかね	高値: high price; highest p…
+j	たかの	たかの	鷹狩。冬の季語。
+j	たかば	たかば	鷹狩をする場所。
+j	たかみ	たかみ	高い場所。高い地点。
+j	たかや	たかや	高也, 貴哉, 孝哉, 隆哉: a male gi…
+j	たから	たから	貴重で価値の高い宝石・名刀のたぐい。
+j	たかり	たかり	「たかる」の連用形。
+j	たかる	たかる	人や動物が群れ集まる。
+j	たかろ	たかろ	助動詞「たい」の未然形。
+j	たがい	たがい	関係を持つ双方。
+j	たがう	たがう	食い違う。相違する。一致しない。
+j	たがね	たがね	金工で使用する鋼鉄製の鑿。
+j	たがめ	たがめ	コオイムシ科タガメ亜科タガメ属に属する水生昆虫。別…
+j	たがる	たがる	seem to want to
+j	たがわ	たがわ	田川: a surname
+j	たきぎ	たきぎ	kindling, firewood
+j	たきび	たきび	bonfire; campfire
+j	たき火	たきび	
+j	たき火	たき火	
+j	たぎる	たぎる	(滾る)水がさかまいて激しく流れる。
+j	たくじ	たくじ	卓司: a male given name
+j	たくち	たくち	日本人の姓の一つ。
+j	たくと	たくと	拓人: a male given name
+j	たくま	たくま	卓真, 卓摩, 拓馬, 拓真, 匠馬, 卓磨: a…
+j	たくみ	たくみ	工, 匠: workman, artisan, m…
+j	たくむ	たくむ	工夫する。趣向を凝らす。
+j	たくや	たくや	拓哉, 拓也, 卓也, 卓哉, 拓弥, 大空也: …
+j	たくる	たくる	衣服の袖や裾を捲る。
+j	たぐい	たぐい	同じ種類のもの。よく似た物事。同類。同列。
+j	たぐち	たぐち	田の水の取り入れ口。
+j	たぐる	たぐる	手元に引き寄せる。
+j	たけお	たけお	丈夫: a male given name
+j	たけこ	たけこ	武子: a female given name
+j	たけし	たけし	人名。おもに「武」「毅」「剛」「猛」「建」「丈」な…
+j	たけと	たけと	盛外, 猛斗: a male given name
+j	たけみ	たけみ	健実: a male given name
+j	たけや	たけや	剛也: a male given name
+j	たける	たける	武, 猛, 健, 尊, 岳, 武尊, 武瑠, 武流…
+j	たけれ	たけれ	助動詞「たい」の仮定形。
+j	たげり	たげり	田鳧, 田計里: a northern lapwi…
+j	たこパ	たこパ	syllabic abbreviation of …
+j	たごし	たごし	stretcher (simple litter …
+j	たさつ	たさつ	他殺: homicide, murder or m…
+j	たしか	たしか	確実なこと。しっかりしているさま。はっきりしている…
+j	たしぎ	たしぎ	チドリ目シギ科タシギ属に属する鳥の一種。学名:Ga…
+j	たしろ	たしろ	田地。たんぼ。水田。
+j	たすき	たすき	和服の袖や袂が邪魔にならないようからげる紐や布。
+j	たすけ	たすけ	助けること。助ける人。助けるもの。
+j	たずき	たずき	手掛かり。方法。たつき。
+j	たずね	たずね	優れたもの、所在不明なものなどを探し求めること。
+j	たたき	たたき	「たたく」の連用形。
+j	たたく	たたく	〔原義〕（何度かまたは続けて）打つ。
+j	たたみ	たたみ	わらを縫い固めて作った畳床の表面を藺草で編んだ畳表…
+j	たたむ	たたむ	折って重ねる。小さく折りまとめる。
+j	たたり	たたり	「たたる」の連用形。
+j	たたる	たたる	神仏や怨霊などが災いをなす。罰が当たる。
+j	ただい	ただい	敷物を使わず、板敷の床に直接座ること。
+j	ただお	ただお	忠夫, 忠男, 格郎, 唯央: a male gi…
+j	ただし	ただし	前文の例外や条件を付け加えるときに用いる。
+j	ただす	ただす	正す: to correct
+j	ただに	ただに	
+j	ただの	ただの	多田野: a surname
+j	ただみ	ただみ	忠実: a male given name
+j	ただれ	ただれ	「ただれる」の未然形及び連用形。
+j	ただ今	ただ今	「ただいま」の漢字表記。
+j	たちい	たちい	立つことと据わること。動作。
+j	たちき	たちき	地面に生えている樹木。
+j	たちげ	たちげ	収穫前の農作物。
+j	たちば	たちば	その人が置かれている地位や状況、境遇など。
+j	たった	たった	only
+j	たって	たって	even if …
+j	たつき	たつき	生活の手段。生計。
+j	たつこ	たつこ	立子: a female given name
+j	たつじ	たつじ	龍次: a male given name
+j	たつせ	たつせ	ground in a situation
+j	たつの	たつの	Presently used spelling of
+j	たつみ	たつみ	the southeast
+j	たつや	たつや	達也, 達矢, 竜也, 辰弥, 達哉, 辰哉: a…
+j	たづな	たづな	馬を制御するために馬のくつわにつけた綱。
+j	たづら	たづら	田の表面。また、田圃。
+j	たづる	たづる	多鶴: a male given name
+j	たてお	たてお	健夫: a male given name
+j	たてし	たてし	健四: a male given name
+j	たては	たては	タテハチョウ科に属する蝶の総称。タテハチョウ。
+j	たてや	たてや	建屋: building or structure…
+j	たてる	たてる	立てる: to stand (something)…
+j	たて座	たてざ	Scutum
+j	たて座	たて座	Scutum
+j	たとい	たとい	（「ても」「とも」等を伴って）ある事柄を仮定し、そ…
+j	たとう	たとう	たとうがみの略称。
+j	たとえ	たとえ	example, simile, metaphor…
+j	たとえ	たとへ	example, simile, metaphor…
+j	たどる	たどる	手掛かりをもとに尋ねて行く。
+j	たなか	たなか	田んぼの中。
+j	たなこ	たなこ	借家を借り、そこで生活、営業するもの。
+j	たなご	たなご	コイ目タナゴ科 (もしくはコイ科タナゴ亜科)に分類…
+j	たなぶ	たなぶ	田名部: a surname
+j	たなべ	たなべ	田辺, 田部, 田名部: a surname
+j	たにこ	たにこ	多仁子: a female given name
+j	たにし	たにし	腹足綱原始紐舌目タニシ科に属する巻貝の総称。
+j	たにま	たにま	谷の中。たにあい。谷のようになっている場所。
+j	たにん	たにん	
+j	たぬき	たぬき	ネコ目イヌ科タヌキ属に属する食肉類の総称。
+j	たねお	たねお	種男: a male given name
+j	たねび	たねび	種火: ember; pilot light
+j	たのみ	たのみ	頼み: request; reliance
+j	たのむ	たのむ	依頼する。
+j	たはた	たはた	田と畑。でんぱた。
+j	たばこ	たばこ	ナス科タバコ属の一年草の植物。
+j	たびじ	たびじ	旅する道筋。道中。
+j	たびと	たびと	旅をしている人。旅の途中の人。
+j	たびね	たびね	よそで寝ること。旅先に宿泊すること。たびまくら。た…
+j	たぶせ	たぶせ	田臥: Tabuse, a Japanese su…
+j	たべる	たべる	何かを、口から嚙んで飲み込む。食うの丁寧語
+j	たぼう	たぼう	多忙: busy
+j	たまう	たまう	to give, to grant
+j	たまえ	たまえ	軽い要請・命令を表す。主に目下に用いる。
+j	たまき	たまき	玉や鈴に紐を通して腕に巻いた上代の装身具。
+j	たまご	たまご	雌の生殖細胞が、その保護組織などとともに、雌の体外…
+j	たまな	たまな	キャベツのこと。
+j	たまに	たまに	once in a while, occasion…
+j	たまば	たまば	pool (billiards) parlor
+j	たまふ	たまふ	to give; to grant
+j	たまみ	たまみ	多真実: a female given name
+j	たまも	たまも	藻の美称。
+j	たまや	たまや	死者の霊を祀る建物。みたまや。おたまや。
+j	たまり	たまり	「たまる」の連用形。
+j	たまる	たまる	入る量を広げまた出る量を制することにより手持ちの量…
+j	たみお	たみお	民男: a male given name
+j	たみこ	たみこ	田実子: a female given name
+j	たむら	たむら	田村: a surname; a place na…
+j	たむろ	たむろ	人の集まり、兵員の集団。
+j	ためお	ためお	為男: a male given name
+j	ためし	ためし	試すこと。
+j	ためす	ためす	実際にやってみて真偽や能力の程度などを調べる。
+j	ために	ために	for; for one's sake, in f…
+j	ためる	ためる	入る量を広げまた出る量を制することにより手持ちの量…
+j	ためん	ためん	多面: polysurface, many-sid…
+j	ため息	ため息	sigh
+j	たもつ	たもつ	ある状態を変えずに続ける。維持する。
+j	たもと	たもと	和服の袖の下部の袋状に垂れ下がった部分。
+j	たやす	たやす	to exterminate
+j	たゆむ	たゆむ	to waver in exerting effo…
+j	たより	たより	頼みとなる物や人。
+j	たよる	たよる	ある物を助けてくれるものとして依存する。
+j	たらい	たらい	盥: tub, basin
+j	たらこ	たらこ	鱈の卵巣。特にスケトウダラの卵巣を塩漬けにした食品。
+j	たらす	たらす	物の上部を固定して下げる。ぶらさげる。
+j	たりる	たりる	数量が充分にある。
+j	たるき	たるき	屋根板を支える、棟から軒に渡す木材。
+j	たるひ	たるひ	物事の十分に満ち足りた、よい日。吉日。充実した日。
+j	たるみ	たるみ	「たるむ」の連用形。
+j	たるむ	たるむ	まっすぐ張っていた物が緩む。
+j	たるや	たるや	樽を作って売る店。
+j	たれめ	たれめ	垂れ目: drooping or droopy e…
+j	たれる	たれる	液体が下へすじを作って落ちる。滴り落ちる。容器の上…
+j	たろう	たらう	shows conjecture about a …
+j	たろう	たろう	shows conjecture about a …
+j	たわい	たわい	（現代では成句「たわいが（も）ない」のみで使用）ま…
+j	たわけ	たわけ	「たわける」の連用形。
+j	たわし	たわし	束子: scrubbing brush
+j	たわみ	たわみ	warping; bending
+j	たわむ	たわむ	to warp; to bend
+j	たわら	たわら	藁や茅を編んで作った袋。
+j	たわわ	たわわ	drooping from weight
+j	たんご	たんご	
+j	たんす	たんす	衣服、小道具などを収納する家具。抽斗や戸があり、木…
+j	たんそ	たんそ	単組: abbreviation of 単位組合 …
+j	たんだ	たんだ	「ただ」を強めていう語。
+j	たんと	たんと	many; much; a great amoun…
+j	たんび	たんび	たびの異型。たびごと。するといつも。
+j	たんぼ	たんぼ	穀物を育てるための農地。田。水田。
+j	たんぽ	たんぽ	綿を丸めて、皮や布に包んだもの。稽古用の槍の穂先に…
+j	たんま	たんま	time out
+j	たんや	たんや	鍛冶: smithing
+j	たんら	たんら	耽羅: Tamna
+j	タイの	タイの	
+j	タイア	タイア	
+j	タイガ	タイガ	taiga
+j	タイツ	タイツ	tights
+j	タイト	タイト	きついさま。体に密着しているさま。
+j	タイプ	タイプ	type, kind, sort
+j	タイム	タイム	time
+j	タイヤ	タイヤ	pneumatic tire
+j	タイラ	タイラ	
+j	タイル	タイル	tile (building material)
+j	タイン	タイン	
+j	タイ人	タイ人	Thai person
+j	タイ化	タイ化	
+j	タイ国	タイ国	
+j	タイ族	タイ族	タイ諸語を母語とする民族の総称。
+j	タイ語	たいご	Thai language
+j	タイ語	タイご	Thai language
+j	タイ語	タイ語	Thai language
+j	タウン	タウン	town
+j	タオル	タオル	towel
+j	タカベ	タカベ	スズキ目タカベ属に属する魚の一種。学名:Labra…
+j	タカ派	タカ派	
+j	タカ目	タカ目	《分類学》 鳥綱真鳥亜綱新鳥下綱新顎上目の下位に分…
+j	タカ科	タカ科	《分類学》 鳥綱真鳥亜綱新鳥下綱新顎上目タカ目タカ…
+j	タガメ	タガメ	「たがめ」の学術的表記。
+j	タクる	タクる	to ride a taxi
+j	タクト	タクト	a conductor's baton
+j	タゲリ	タゲリ	田鳧, 田計里: a northern lapwi…
+j	タコス	タコス	a taco
+j	タコマ	タコマ	Tacoma (a city in Washing…
+j	タスク	タスク	task (process or executio…
+j	タダイ	タダイ	Thaddaeus
+j	タック	タック	縫いひだ。
+j	タッグ	タッグ	鬼ごっこ。鬼ごっこのタッチ。
+j	タッチ	タッチ	touch (making physical co…
+j	タッパ	タッパ	height
+j	タップ	タップ	tap; multi-outlet
+j	タナカ	タナカ	
+j	タナゴ	タナゴ	「たなご」の学術的表記。
+j	タナハ	タナハ	
+j	タニシ	タニシ	「たにし」の学術的表記。
+j	タヌキ	タヌキ	ネコ目イヌ科タヌキ属に属する食肉類の一種。人を騙す…
+j	タバコ	タバコ	tobacco
+j	タパス	タパス	
+j	タヒる	タヒる	to die
+j	タヒチ	タヒチ	Tahiti (the largest islan…
+j	タピる	タピる	to drink bubble tea
+j	タフタ	タフタ	taffeta
+j	タブラ	タブラ	
+j	タブリ	タブリ	
+j	タブレ	タブレ	
+j	タブー	タブー	taboo
+j	タブ譜	タブ譜	
+j	タプル	たぷる	
+j	タプル	タプル	
+j	タマレ	タマレ	
+j	タメ口	タメ口	同等な立場として使う、敬語表現を省いた ことばづか…
+j	タラワ	タラワ	キリバスの首都。
+j	タリブ	タリブ	
+j	タリン	タリン	Tallinn (the capital city…
+j	タルク	タルク	滑石。
+j	タルト	タルト	tart
+j	タルパ	タルパ	tulpa (a modern type of i…
+j	タレス	タレス	Thales
+j	タレ目	たれめ	
+j	タレ目	タレめ	
+j	タレ目	タレ目	
+j	タロ島	タロ島	
+j	タワー	タワー	tower
+j	タンク	タンク	tank (container)
+j	タンゴ	タンゴ	tango (ballroom dance)
+j	タンス	タンス	
+j	タンソ	タンソ	
+j	タンチ	タンチ	双曲線正接関数。
+j	ターナ	ターナ	
+j	タープ	タープ	tarpaulin, tarp
+j	ターボ	ターボ	turbo
+j	ターム	ターム	学期。
+j	タール	タール	tar
+j	ターン	ターン	a turn (one's chance to m…
+j	ター語	ター語	
+j	丈夫	たけお	durable, indestructible, …
+j	丈流	たける	a male given name
+j	丈琉	たける	a male given name
+j	丈瑠	たける	a male given name
+j	丈留	たける	a male given name
+j	丹地	たんじ	赤色の地。
+j	丹後	たんご	Tango Province, an old pr…
+j	丹波	たんば	Tanba (a city in Hyōgo Pr…
+j	丹波粉	たばこ	
+j	丹波粉	タバコ	
+j	丹砂	たんさ	red sand
+j	丹羽	たんう	a surname
+j	丹花	たんか	red flower
+j	丹野	たんの	a surname
+j	丹霞	たんか	夕陽に照らされ赤く映える雲や霞。
+j	互い	たがい	a mutual relationship, do…
+j	互い	たがひ	a mutual relationship, do…
+j	享夫	たかお	a male given name
+j	享子	たかこ	a female given name
+j	人	たりり	a person, human
+j	他世	たせい	後世。未来。
+j	他人	たにん	other people
+j	他党	たとう	他の党派。
+j	他処	たしょ	該当の所とは別の場所。
+j	他動	たどう	他に働きかけること。また、他から働きかけられること。
+j	他団	ただん	他の団体。
+j	他国	たこく	foreign country
+j	他姓	たせい	他人の姓。
+j	他室	たしつ	他の部屋。
+j	他店	たてん	ほかの店。よその店。
+j	他律	たりつ	heteronomy
+j	他心	たしん	ulterior motive
+j	他所	たしょ	another place
+j	他方	たほう	on the other hand
+j	他書	たしょ	another book
+j	他村	たそん	another village
+j	他校	たかう	other school; different s…
+j	他校	たこう	other school; different s…
+j	他殺	たさつ	homicide, murder or mansl…
+j	他界	たかい	afterworld, next world, a…
+j	他県	たけん	other prefectures
+j	他社	たしゃ	another company
+j	他端	たたん	ほかの端。もう一方の端。
+j	他罰	たばつ	自分の失敗、苦しさ、不満を他者や環境、社会に求めて…
+j	他署	たしょ	他の税務署など「署」がつく機関。
+j	他者	たしゃ	another person
+j	他聞	たぶん	他人に聞かれること。
+j	他船	たせん	自分の船舶以外の船舶。それ以外の船舶。
+j	他行	たこう	外へ出掛けること。外出。
+j	他見	たけん	他の人が見ること。
+j	他覚	たかく	他人から見ても病気であることが分かること。
+j	他郷	たがう	a foreign land or country
+j	他郷	たごう	a foreign land or country
+j	他門	たもん	他の一門や一族。
+j	他隊	たたい	他の隊。よその隊。別隊。
+j	他面	ためん	the other side
+j	但	ただし	a male given name
+j	但	たゞし	a male given name
+j	但し	ただし	however
+j	但し	たゞし	however
+j	但馬	たじま	Tajima Province, an old p…
+j	体位	たいい	physique
+j	体位	たいゐ	physique
+j	体技	たいぎ	柔道・相撲・レスリング・ボクシングなど、肉体がぶつ…
+j	体育	たいく	physical education
+j	体躯	たいく	body; physique; build; st…
+j	佶	ただし	a male given name
+j	侃	ただし	a male given name
+j	例	ためし	a custom, usual practice,…
+j	例え	たとえ	
+j	便り	たより	news from, correspondence
+j	保	たもつ	a male given name
+j	保つ	たもつ	to keep up; to retain
+j	俵	たわら	a straw bag
+j	倒す	たおす	fell; throw down; knock d…
+j	倒す	たふす	fell; throw down; knock d…
+j	倒置	たうち	inversion, reversed placi…
+j	健	たけし	a male given name
+j	健史	たけし	a male given name
+j	健四	たてし	a male given name
+j	健夫	たてお	a male given name
+j	健実	たけみ	steady; sound; reliable; …
+j	健雄	たけお	a male given name
+j	充	たかし	a male given name
+j	党	たむら	political party
+j	党派	たうは	faction, party, branch
+j	内匠	たくみ	a court craftsman, court …
+j	冽	ただし	a male given name
+j	冽	たゞし	a male given name
+j	刀子	たうし	short sword
+j	刀子	たうす	short sword
+j	剛	たけし	a male given name
+j	剛也	たけや	a male given name
+j	剛司	たかし	a male given name
+j	剛士	たかし	a male given name
+j	剛士	たけし	a male given name
+j	助け	たしけ	aid, rescue, relief, help…
+j	助け	たすけ	aid, rescue, relief, help…
+j	匠	たくみ	craftsman, artisan
+j	匠馬	たくま	a male given name
+j	匡史	ただし	a male given name
+j	匡史	たゞし	a male given name
+j	卓	たかし	table, desk
+j	卓也	たくや	a male given name
+j	卓偉	たくい	他より抜きん出て優れていること。
+j	卓史	たかし	a male given name
+j	卓司	たくし	a male given name
+j	卓司	たくじ	a male given name
+j	卓哉	たくや	a male given name
+j	卓子	たくし	table
+j	卓実	たくみ	a male given name
+j	卓摩	たくま	a male given name
+j	卓異	たくい	他より優れて異なること。また、そのような人。
+j	卓真	たくま	a male given name
+j	卓磨	たくま	a male given name
+j	卓衣	たくい	（たくい、たくえ）袈裟。
+j	卓衣	たくえ	（たくい、たくえ）袈裟。
+j	単に	たんに	simply; only
+j	単二	たんに	「単二形乾電池」の略。
+j	単位	たんい	unit of measure
+j	単位	たんゐ	unit of measure
+j	単価	たんか	a unit price
+j	単利	たんり	simple interest
+j	単坐	たんざ	「単座」の別表記。
+j	単字	たんじ	それぞれの文字。一つ一つの文字。
+j	単孤	たんこ	ただ一人であること。孤独。また、そのようなさま。
+j	単己	たんこ	体一つであること。また、そのようなさま。
+j	単打	たんだ	打者が一塁に到達した安打。
+j	単果	たんか	一つの花の一つの子房からできる果実。単花果。
+j	単機	たんき	lone plane, an airplane f…
+j	単比	たんぴ	a:bのような一つの比。
+j	単科	たんか	一つの科目。
+j	単記	たんき	recording only one item(e…
+j	単語	たんご	a word, a shortest part t…
+j	単辞	たんじ	短い言葉。一言。
+j	単離	たんり	複数の物質からなる混合物から特定の物質を純粋な形で…
+j	単騎	たんき	lone horseman
+j	卵	たまご	an egg, including fish roe
+j	叩く	たたく	to hit; to strike; to bea…
+j	台輔	たいほ	中国で三公の位にあり天子を補佐し、官僚を統率するも…
+j	唐檜	たうひ	Hondo spruce, Picea jezoe…
+j	唐紙	たうし	Chinese paper
+j	唐詩	たうし	Tang poetry
+j	唐話	たうわ	spoken vernacular Chinese
+j	唯央	ただお	a female given name
+j	喬子	たかこ	a female given name
+j	嘆訴	たんそ	現状を嘆き、それを訴えること。
+j	嘆辞	たんじ	感嘆して出る言葉。
+j	坦路	たんろ	平坦な道路。
+j	垂	たるみ	zigzag-shaped paper strea…
+j	垂らす	たらす	to let hang down, to let …
+j	垂れる	たれる	to drip, to leak, to fall…
+j	垂れ歩	たれふ	相手陣から二から四段目に打った歩。このような歩は次…
+j	垂れ目	たれめ	drooping or droopy eyes; …
+j	垂井	たるい	a surname
+j	垂木	たるき	rafter
+j	垂目	たれめ	
+j	堆土	たいど	高く積もった土。堆積した土。
+j	堆肥	たいひ	compost
+j	堪える	たえる	to endure, to withstand
+j	堪る	たまる	to refrain; to restrain o…
+j	多一	たいち	a male given name
+j	多世	たせい	多くの時代。
+j	多作	たさく	作品を多く作ること。
+j	多元	たげん	根本や要素が数多くあること。
+j	多党	たとう	多くの党派。
+j	多分	たぶん	maybe, perhaps; probably
+j	多剤	たざい	薬剤の種類がたくさんあること。
+j	多動	たどう	意味もなくあちらこちらを動き回ること。
+j	多勢	たぜい	多くの人達。大勢。
+j	多叉路	たさろ	道路が五本以上の交わる交差点。
+j	多変	たへん	変化が多いこと。また、そのようなさま。
+j	多大	ただい	serious, immense, great
+j	多妻	たさい	二人以上の妻を有すること。
+j	多実子	たみこ	a female given name
+j	多実生	たみい	a female given name
+j	多層	たそう	層が幾重にも重なっていること。
+j	多差路	たさろ	「多叉路」の別表記。
+j	多幸	たかう	great happiness, good for…
+j	多幸	たこう	great happiness, good for…
+j	多弁	たべん	口数の多い様。
+j	多彩	たさい	variegated, diverse
+j	多忙	たぼう	busy
+j	多恵子	たえこ	a female given name
+j	多感	たかん	sensitive
+j	多才	たさい	versatility, talent
+j	多投	たとう	投手が特定の球種をふつうより多く投球すること。
+j	多数	たすう	a great many, a great num…
+j	多書	たしょ	多くの書物。
+j	多望	たぼう	promising
+j	多様	たやう	diverse, various
+j	多様	たよう	diverse, various
+j	多浪	たろう	one who has failed to pas…
+j	多湿	たしつ	湿度が高いこと。湿気が多いこと。また、そのようなさ…
+j	多産	たさん	子供や卵をたくさん産むこと。
+j	多用	たよう	being busy
+j	多発	たはつ	many instances, many case…
+j	多真実	たまみ	a female given name
+j	多答	たたふ	multiple answers
+j	多答	たとう	multiple answers
+j	多糖	たとう	多糖類。
+j	多義語	たぎご	a polyseme, a word or exp…
+j	多聞	たぶん	lots of information or kn…
+j	多聞	たもん	lots of information or kn…
+j	多肉	たにく	葉や茎の肉が肥厚していること。
+j	多胎	たたい	多胎妊娠により胎内に二人以上ないし三人以上の胎児を…
+j	多花果	たかか	複数の子房が集合して成熟し、まるで一つの果実のよう…
+j	多芸	たげい	多くの技芸。また、多くの技芸を持っているさま。
+j	多見	たけん	多くのものを見ること。見聞が広いこと。
+j	多角	たかく	different angles
+j	多言	たげん	口数が多いこと。
+j	多謝	たしゃ	深く感謝すること。
+j	多財	たざい	金持ち。
+j	多選	たせん	同じ人が選挙で何回も当選すること。
+j	多門	たもん	a surname
+j	多面	ためん	many-sided; multifaceted
+j	多頭	たとう	一つの体に複数の頭があること。
+j	多額	たがく	large (amount of money)
+j	多鶴	たづる	a male given name
+j	大佐	たいさ	a colonel
+j	大使	たいし	ambassador
+j	大儀	たいぎ	laborious, troublesome
+j	大儺	たいだ	大晦日に鬼を追い払う行事。追儺。
+j	大儺	たいな	大晦日に鬼を追い払う行事。追儺。
+j	大利	たいり	大きな利益。
+j	大化	たいか	great moral influence
+j	大司	たいし	a male given name
+j	大和	たいわ	Yamato (a town in the Shi…
+j	大喪	たいも	天皇の葬儀。
+j	大地	たいち	Earth, firm ground
+j	大夢	たいむ	大きな理想や夢。
+j	大夫	たいふ	an office in Zhou Dynasty…
+j	大夫	たゆう	an office in Zhou Dynasty…
+j	大家	たいか	landlord or landlady, the…
+j	大家	たいけ	landlord or landlady, the…
+j	大尉	たいい	the senior 判官 (jō, “third…
+j	大尉	たいゐ	the senior 判官 (jō, “third…
+j	大差	たいさ	large difference
+j	大度	たいど	寛大で度量が大きいこと。また、そのようなさま。
+j	大廈	たいか	large building; skyscrape…
+j	大志	たいし	great determination; grea…
+j	大悟	たいご	enlightenment
+j	大意	たいい	purport, gist, general id…
+j	大愚	たいぐ	exceedingly foolish
+j	大我	たいが	an enlightened person; on…
+j	大旨	たいし	概要。大意。
+j	大智	たいち	広大で優れた知恵。
+j	大樹	たいき	big tree
+j	大気	たいき	an atmosphere
+j	大河	たいが	a large river
+j	大渦	たいか	大きな「うず」。特に、大きく渦を巻く海水。大型の渦…
+j	大火	たいか	large fire, inferno, conf…
+j	大父	たいふ	祖父。
+j	大爺	たいや	伯父。
+j	大理	たいり	根本となる道理。
+j	大痴	たいち	非常に愚かであること。大愚。
+j	大癡	たいち	非常に愚かであること。大愚。
+j	大知	たいち	a male given name
+j	大破	たいは	heavy damage
+j	大禍	たいか	大きな災い。
+j	大空也	たくや	a male given name
+j	大路	たいろ	wide road
+j	大輔	たいふ	a male given name
+j	大輔	たゆう	a male given name
+j	大過	たいか	serious error
+j	大郎	たろう	a male given name
+j	大部	たいぶ	lengthy
+j	大都	たいと	大きな都市。
+j	大野	たいや	Ōno (a city in Fukui Pref…
+j	大霧	たいむ	濃霧。
+j	大麻	たいま	hemp, cannabis
+j	太一	たいち	a male given name
+j	太古	たいこ	ancient times
+j	太夫	たいふ	the highest class of oiran
+j	太夫	たゆう	the highest class of oiran
+j	太子	たいし	a crown prince
+j	太師	たいし	周の三公の一つで、天子の師傅となる官職。
+j	太湖	たいこ	
+j	太爺	たいや	知事。
+j	太郎	たらう	a male given name (partic…
+j	太郎	たろう	a male given name (partic…
+j	太鼓	たいこ	a drum
+j	好子	たかこ	a female given name
+j	妥実子	たみこ	a female given name of ra…
+j	威志	たけし	a male given name
+j	孝	たかし	filial piety
+j	孝史	たかし	a male given name
+j	孝司	たかし	a male given name
+j	孝哉	たかや	a male given name
+j	孝夫	たかお	a male given name
+j	孝子	たかこ	filial son, filial child
+j	孝志	たかし	a heart devoted to filial…
+j	孝男	たかお	a male given name
+j	孝雄	たかお	a male given name
+j	宅地	たくち	residential land
+j	宜子	たかこ	a female given name
+j	宝	たから	treasure
+j	対価	たいか	compensation, equivalent …
+j	対峙	たいじ	face off; confrontation
+j	対比	たいひ	contrast, comparison
+j	対置	たいち	向き合うように配置すること。
+j	対話	たいわ	dialogue, conversation
+j	対語	たいご	antonym
+j	対露	たいろ	ロシアに対すること。
+j	対面	たいめ	an interview, meeting
+j	尊	たかし	indicates respect and rev…
+j	尊	たける	indicates respect and rev…
+j	尊	たふと	indicates respect and rev…
+j	尊流	たける	a male given name
+j	尊琉	たける	a male given name
+j	尊瑠	たける	a male given name
+j	尊留	たける	a male given name
+j	尊雄	たかお	a male given name
+j	尋ぬ	たづぬ	
+j	尚	たかし	esteem, respect
+j	尚志	たかし	a male given name
+j	尭	たかし	a male given name
+j	尭子	たかこ	a female given name
+j	屯	たむろ	an army
+j	岳	たけし	a tall mountain
+j	岳	たける	a tall mountain
+j	岳巳	たけみ	a male given name
+j	岳男	たけお	a male given name
+j	岳竜	たける	a male given name
+j	峠	たうげ	mountain pass, ridge
+j	峠	たおげ	mountain pass, ridge
+j	峻	たかし	a male given name
+j	峻子	たかこ	a female given name
+j	崇	たかし	a male given name
+j	崇子	たかこ	a female given name
+j	崇男	たかお	a male given name
+j	崟	たかし	an unknown-gender given n…
+j	嵩子	たかこ	a female given name
+j	巧	たくみ	a male given name
+j	巽	たつみ	southeast
+j	帯下	たいげ	女性生殖器から出る分泌物の総称。おりもの。こしけ。
+j	帯化	たいか	植物の茎が扁平で帯状に変形すること。石化。
+j	平	たいら	something flat; flattened
+j	平	たひら	something flat; flattened
+j	平ら	たいら	flat, even, level, smooth…
+j	平ら	たひら	flat, even, level, smooth…
+j	平良	たいら	a surname
+j	建てる	たてる	to build, to construct
+j	建夫	たてお	a male given name
+j	建屋	たてや	building or structure for…
+j	建紀	たてき	a male given name
+j	弓	たらし	a bow, a bow shape
+j	弛む	たるむ	to slacken; to become loo…
+j	当の	たうの	the very one; the one in …
+j	当事	たうじ	the matter directly conce…
+j	当時	たうじ	then, at that time
+j	待機	たいき	being on alert, on standby
+j	待避	たいひ	taking shelter
+j	忠	ただし	loyalty, fidelity, honesty
+j	忠	たゞし	loyalty, fidelity, honesty
+j	忠世	ただよ	a male given name
+j	忠士	ただし	a male given name
+j	忠士	たゞし	a male given name
+j	忠夫	ただお	a male given name
+j	忠実	ただみ	faithful, loyal, devoted
+j	忠己	ただみ	a male given name
+j	忠志	ただし	a male given name
+j	忠志	たゞし	a male given name
+j	忠男	ただお	a male given name
+j	忠美	ただみ	a male given name
+j	怠惰	たいだ	lazy, indolent
+j	恭代	たかよ	a female given name
+j	悼詞	たうし	eulogy
+j	悼辞	たうじ	eulogy
+j	態度	たいど	attitude toward, stance
+j	戯け	たはけ	a jest, joke; a foolish a…
+j	戯け	たわけ	a jest, joke; a foolish a…
+j	手向け	たむけ	offering to a god, someon…
+j	手綱	たづな	reins
+j	手繰る	たくる	to pull in (with a rope)
+j	手繰る	たぐる	to pull in (with a rope)
+j	手輿	たごし	「たごし」を参照。
+j	担保	たんぽ	security, mortgage, colla…
+j	担架	たんか	stretcher (simple litter …
+j	担架	タンカ	stretcher (simple litter …
+j	拓也	たくや	a male given name
+j	拓人	たくと	a male given name
+j	拓光	たくみ	a male given name
+j	拓哉	たくや	a male given name
+j	拓地	たくち	土地を開拓すること。
+j	拓巳	たくみ	a male given name
+j	拓弥	たくや	a male given name
+j	拓志	たくし	a male given name
+j	拓真	たくま	a male given name
+j	拓馬	たくま	a male given name
+j	拖欠	たけん	遅滞。
+j	探査	たんさ	exploration, usually scie…
+j	探知	たんち	detection
+j	擲	たたき	a surname
+j	敬	たかし	respect, honor, reverence
+j	敬士	たかし	a male given name
+j	斌	たけし	a male given name
+j	方便	たずき	expedient, means
+j	方便	たつき	expedient, means
+j	方便	たどき	expedient, means
+j	旅人	たびと	one who travels: a travel…
+j	旅路	たびじ	a journey; travel route; …
+j	旅路	たびぢ	a journey; travel route; …
+j	旦暮	たんぼ	dawn and dusk
+j	旦過	たんが	禅宗で行脚する修行僧が一夜を過ごすこと。また、その…
+j	昂子	たかこ	a female given name
+j	昴	たかし	the Pleiades star cluster…
+j	束子	たわし	a scourer or scrubber, a …
+j	格郎	ただお	a male given name
+j	桃李	たうり	peach and plum
+j	桃矢	たうや	a male given name
+j	棚田	たなだ	terraced rice fields
+j	楯座	たてざ	たて座。
+j	樹	たつき	a unisex given name
+j	歎辞	たんじ	感嘆して出る言葉。
+j	正	ただし	correctness
+j	正	ただす	correctness
+j	正	たゞし	correctness
+j	正す	ただす	
+j	武	たけし	military, martial
+j	武	たける	military, martial
+j	武井	たけい	a surname
+j	武史	たけし	a male given name
+j	武司	たけし	a male given name
+j	武嗣	たけし	a male given name
+j	武士	たけし	a professional warrior, a…
+j	武夫	たけお	a male given name
+j	武尊	たける	a male given name
+j	武市	たけち	a surname
+j	武志	たけし	a male given name
+j	武智	たけち	a surname
+j	武流	たける	a male given name
+j	武琉	たける	a male given name
+j	武瑠	たける	a male given name
+j	武田	たけだ	a surname
+j	武留	たける	a male given name
+j	武雄	たけお	Takeo (a city in Saga Pre…
+j	歹話	たいわ	嫌な話し。
+j	毅	たけし	a male given name
+j	民夫	たみお	a male given name
+j	民男	たみお	a male given name
+j	民部	たみべ	中国後周の時代に設置された人民の衆寡をはかる機関。
+j	江子	たかこ	a female given name
+j	泰二	たいじ	a male given name
+j	泰和	たいわ	タイ語と日本語。「泰和辞典」。
+j	泰嗣	たいじ	a male given name
+j	泰斗	たいと	ある分野における最高権威。
+j	泰樹	たいき	a male given name
+j	泰示	たいし	a male given name
+j	泰語	たいご	タイ語。
+j	淘汰	たうた	a culling out, weeding out
+j	淡冶	たんや	あっさりしていて美しいさま。
+j	淡古	たんこ	古風で淡白な作風。古淡。
+j	淡婆姑	たばこ	
+j	淡婆姑	タバコ	
+j	淡湖	たんこ	淡水湖。
+j	淡画	たんが	淡い色彩の絵画。
+j	淡紫	たんし	淡い紫色。淡紫色。
+j	淡雅	たんが	あっさりしていて上品なさま。
+j	湛露	たんろ	かなり置いた露。
+j	湯婆	たうば	a hot water bottle
+j	湯婆	たんぽ	a hot water bottle
+j	湯治	たうぢ	taking the baths, going t…
+j	溜まり	たまり	pile, pool, such as a poo…
+j	溜まる	たまる	to gather, to accumulate
+j	溜める	ためる	amass, accumulate, collect
+j	滝川	たかは	rapids
+j	滝川	たかわ	rapids
+j	滞羅	たいら	staying in Los Angeles
+j	滾る	たぎる	to be turbulent; to flow …
+j	澹乎	たんこ	静かで安らかなさま。澹然。
+j	澹冶	たんや	淡麗。
+j	炊ける	たける	be cooked, be done
+j	炭化	たんか	carbonization
+j	炭団	たどん	charcoal briquette that u…
+j	炭庫	たんこ	石炭を蓄えておく倉庫。
+j	炭疽	たんそ	炭疽菌による人畜共通感染症。人では敗血症を起こすこ…
+j	炭素	たんそ	carbon (chemical element)
+j	為男	ためお	a male given name
+j	焚き火	たきび	
+j	煙草	たばこ	synonym of タバコ (tabako, “…
+j	爛れ	ただれ	sore, inflammation, ulcer…
+j	狸	たたけ	a raccoon dog, Nyctereute…
+j	狸	たたげ	a raccoon dog, Nyctereute…
+j	狸	たぬき	a raccoon dog, Nyctereute…
+j	狸	たのき	a raccoon dog, Nyctereute…
+j	猛	たけし	ferociousness
+j	猛	たける	ferociousness
+j	猛夫	たけお	a male given name
+j	猛斗	たけと	a male given name
+j	猛竜	たける	a male given name
+j	玉井	たまい	a surname
+j	玉井	たまゐ	a surname
+j	玉名	たまな	Tamana (a city in Kumamot…
+j	玉城	たまき	a surname from Okinawan
+j	玉子	たまご	
+j	玉屋	たまや	a store or person selling…
+j	玉木	たまき	a surname
+j	玉田	たまだ	a surname
+j	玉置	たまき	a surname
+j	玉菜	たまな	cabbage
+j	玉藻	たまも	Eulogistic name for 藻(も) …
+j	玉音	たまね	voice of the emperor
+j	珠実	たまみ	a female given name
+j	珠水	たまみ	a female given name
+j	琢磨	たくま	polishing of jewels
+j	瑞紀	たまき	a unisex given name
+j	環	たまき	ring
+j	田上	たうえ	a surname
+j	田上	たがみ	a surname
+j	田中	たなか	a surname (the 4th most c…
+j	田代	たしろ	a surname
+j	田仲	たなか	a surname
+j	田偏	たへん	漢字の部首「⽥」が偏である場合の呼称。
+j	田儛	たまい	「田舞」の別表記。
+j	田原	たはら	Tahara (a city in Aichi P…
+j	田口	たぐち	a surname
+j	田名部	たなぶ	a surname
+j	田名部	たなべ	a surname
+j	田圃	たんぼ	rice paddy
+j	田実子	たみこ	a female given name
+j	田尻	たじり	a surname
+j	田山	たやま	a surname
+j	田島	たじま	a place name
+j	田崎	たざき	a surname
+j	田嶋	たじま	a surname
+j	田川	たがわ	Tagawa (a city in Fukuoka…
+j	田村	たむら	Tamura (a city in Fukushi…
+j	田植え	たうえ	rice planting
+j	田植え	たうゑ	rice planting
+j	田沢	たざわ	a surname
+j	田浦	たうら	a surname
+j	田淵	たぶち	a surname
+j	田渕	たぶち	a surname
+j	田畑	たはた	fields, specifically fiel…
+j	田畑	たばた	fields, specifically fiel…
+j	田端	たばた	a surname
+j	田舞	たまい	五穀豊穣を祈念し田植えなどでおこなわれた古代の舞踏。
+j	田螺	たにし	river snail
+j	田螺	タニシ	river snail
+j	田辺	たなべ	Tanabe (a city in Wakayam…
+j	田部	たなべ	a surname
+j	田鍬	たくわ	a surname
+j	田駒	たこま	
+j	田駒	タコマ	
+j	田鳧	たげり	a northern lapwing, Vanel…
+j	田鳧	タゲリ	a northern lapwing, Vanel…
+j	田鴫	たしぎ	
+j	畳	たたう	tatami; a tatami mat
+j	畳	たたみ	tatami; a tatami mat
+j	畳	たとう	tatami; a tatami mat
+j	畳む	たたむ	to fold (up)
+j	皇	ただす	creator
+j	盛外	たけと	a male given name
+j	盥	たらい	tub, basin
+j	盥	たらひ	tub, basin
+j	直	ただし	soon, shortly
+j	真	ただし	truth, reality
+j	真	たゞし	truth, reality
+j	短古	たんこ	短い古詩。
+j	短句	たんく	短い句
+j	短夜	たんや	短い（夏の）夜。
+j	短弧	たんこ	水中の怪物の一種。短狐。
+j	短打	たんだ	バットを短く持ち、確実に打つ打法。
+j	短斧	たんふ	短い柄の斧。
+j	短時	たんじ	短い時間。短時間。
+j	短期	たんき	short term
+j	短歌	たんか	tanka; a form of Japanese…
+j	短気	たんき	quick-tempered
+j	短波	たんぱ	shortwave
+j	短狐	たんこ	水中の怪物の一種。短弧。
+j	短臂	たんぴ	短い腕。
+j	短衣	たんい	丈の短い衣服。
+j	短袴	たんこ	丈が短い袴。
+j	短詩	たんし	a verselet
+j	短資	たんし	a short-term loan
+j	短躯	たんく	身長が低いこと。短身。
+j	短軀	たんく	身長が低いこと。背の低い身体。
+j	短靴	たんか	足の踝まで入る靴。
+j	矯める	ためる	straighten
+j	確か	たしか	certain, clear, without a…
+j	礫	たぶて	a small stone or pebble, …
+j	祐	たすく	a surname
+j	祟り	たたり	curse placed by gods or s…
+j	祟る	たたる	curse
+j	祟る	タタる	curse
+j	種火	たねび	ember
+j	種田	たねだ	a surname
+j	種男	たねお	a male given name
+j	立たす	たたす	
+j	立ち絵	たちえ	full-body standing drawin…
+j	立てる	たてる	to stand, to place in an …
+j	立場	たちば	position
+j	立子	たつこ	a female given name
+j	立木	たちき	a surname
+j	立毛	たちげ	piloerection
+j	立美	たつみ	a male given name
+j	立野	たての	a surname
+j	立雄	たつお	a male given name
+j	竜也	たつや	a male given name
+j	竜児	たつじ	a male given name, meanin…
+j	竜子	たつこ	a female given name
+j	竜樹	たつき	a male given name
+j	竜郎	たつお	a male given name
+j	端坐	たんざ	正しい姿勢できちんと座ること。正座。
+j	端子	たんし	electrical terminal
+j	端座	たんざ	正しい姿勢できちんと座ること。正座。
+j	端雅	たんが	容姿が端正で雅であること。また、そのようなさま。
+j	竹志	たけし	a male given name
+j	竹田	たけた	a surname
+j	竹田	たけだ	a surname
+j	竹葉	たけば	bamboo leaf
+j	竹識	たけし	a male given name
+j	箪笥	たんし	chest of drawers, tansu
+j	箪笥	たんす	chest of drawers, tansu
+j	箪笥	タンス	chest of drawers, tansu
+j	箪食	たんし	竹でできた容器に入った飯。弁当。
+j	節雄	たかお	a male given name
+j	簞壺	たんこ	飲食物を携え、軍隊などを迎えること。箪食壺漿。
+j	簞食	たんし	竹でできた容器に入った飯。弁当。
+j	絶えず	たえず	constantly, continually, …
+j	絶え間	たえま	interval, gap
+j	綻露	たんろ	表にあらわれること。
+j	縦の	たての	
+j	翼	たすく	a wing (of a bird or bat)
+j	耐える	たえる	
+j	耐火	たいか	fire-resistant, fireproof
+j	耽羅	たんら	Tamna (an ancient Korean …
+j	耽美	たんび	aestheticism (an artistic…
+j	聖	たかし	a very virtuous or godly …
+j	胆砂	たんさ	
+j	胎児	たいじ	pre-born baby
+j	胎兒	たいじ	pre-born baby
+j	胎土	たいど	陶磁器本体の元となる粘土。
+j	胎脂	たいし	
+j	胎衣	たいい	afterbirth
+j	舘田	たてだ	a surname
+j	苔脯	たいほ	海苔。
+j	蜑戸	たんこ	海人の暮らす家。
+j	袂	たもと	the sleeve pouch of a kim…
+j	袋果	たいか	
+j	襷	たすき	cord used to tie back the…
+j	託す	たくす	「託する」に同じ。
+j	訪ぬ	たづぬ	
+j	試し	ためし	try, attempt, trial, test
+j	試す	ためす	to test, to try
+j	誉	たかし	a male given name
+j	誉志	たかし	a female given name
+j	誑す	たらす	deceive or trick with ski…
+j	誥ぶ	たけぶ	to act ferociously or man…
+j	譚歌	たんか	伝説や神話、歴史を題材として作詞された曲。
+j	谷間	たにま	valley, ravine
+j	財	たから	money, wealth, riches
+j	貪利	たんり	がむしゃらに利益を得ようとすること。
+j	貪吏	たんり	欲の深い役人。私利を貪る役人。
+j	貪賈	たんこ	貪欲な商人。
+j	貯める	ためる	to save up (money)
+j	貴	たかし	added to nouns related to…
+j	貴	ただし	added to nouns related to…
+j	貴い	たかい	superior; worthful; valua…
+j	貴之	たかし	a male given name
+j	貴勇	たかお	a male given name
+j	貴史	たかし	a male given name
+j	貴司	たかし	a male given name
+j	貴哉	たかや	a male given name
+j	貴大	たかお	a male given name
+j	貴子	たかこ	a female given name
+j	貴志	たかし	a male given name
+j	貴斗	たかと	a male given name
+j	貴朗	たかお	a male given name
+j	貴樹	たかき	a male given name
+j	貴男	たかお	a male given name
+j	貴雄	たかお	a male given name
+j	貸与	たいよ	loaning out
+j	貸費	たいひ	student loan
+j	足った	たった	
+j	足りた	たりた	
+j	足りて	たりて	
+j	足りる	たりる	to suffice; to be enough
+j	踏査	たふさ	exploration; field survey
+j	踏破	たふは	travelling through a long…
+j	踏鞴	たたら	foot bellows
+j	躱閃	たせん	身を躱し、避けること。
+j	辰哉	たつや	a male given name
+j	辰夫	たつお	a male given name
+j	辰弥	たつや	a male given name
+j	辰次	たつじ	a male given name
+j	辰美	たつみ	a male given name
+j	辰雄	たつお	a male given name
+j	辿る	たどる	follow, pursue (a road, c…
+j	退位	たいい	abdication (the act of ab…
+j	退位	たいゐ	abdication (the act of ab…
+j	退化	たいか	degeneration; retrogressi…
+j	退庫	たいこ	酒蔵から蔵人が帰郷すること。
+j	退歩	たいほ	物事の程度や状態が以前より低くなること。
+j	退治	たいじ	stamping out, wiping out
+j	退治	たいぢ	stamping out, wiping out
+j	退避	たいひ	evacuation
+j	退部	たいぶ	leaving of a club
+j	逃避	たうひ	escape
+j	逮事	たいじ	生きている間に仕えること。
+j	逮坐	たいざ	捕まえて取り調べること。
+j	逮夜	たいや	葬儀が行われる前夜。
+j	逮捕	たいほ	arrest (of a person)
+j	逮治	たいち	捕まえて取り調べること。
+j	道	ただし	Tao (the way of nature), …
+j	道	ただす	Tao (the way of nature), …
+j	達し	たっし	official notice
+j	達也	たつや	a male given name
+j	達哉	たつや	a male given name
+j	達夫	たつお	a male given name
+j	達弥	たつや	a male given name
+j	達意	たつい	著者や話者の考えが不足なく充分に表現されていること。
+j	達生	たつお	a male given name
+j	達矢	たつや	a male given name
+j	達雄	たつお	a male given name
+j	違う	たがう	to be different; to diffe…
+j	違う	たがふ	to be different; to diffe…
+j	鍛冶	たんや	forging, smithing
+j	鏨	たがね	chisel used for metal
+j	長	たける	chief, head, leader
+j	長ける	たける	to rise high
+j	陶冶	たうや	crafting of pottery and s…
+j	隆	たかし	a male given name
+j	隆人	たかと	a male given name
+j	隆史	たかし	a male given name
+j	隆司	たかし	a male given name
+j	隆哉	たかや	a male given name
+j	隆士	たかし	a male given name
+j	隆夫	たかお	a male given name
+j	隆子	たかこ	a female given name
+j	隆志	たかし	a male given name
+j	隆男	たかお	a male given name
+j	隆雄	たかお	a male given name
+j	隊伍	たいご	rank, line of troops
+j	隊務	たいむ	軍隊の業務や事務。
+j	隊旗	たいき	部隊を象徴する旗。
+j	隊歌	たいか	部隊を代表する歌。
+j	隶部	たいぶ	部首「⾪」で分類した漢字の一群。
+j	集る	たかる	to swarm, to gather
+j	霊屋	たまや	a shrine dedicated to a s…
+j	頼み	たのみ	request
+j	頼む	たのむ	to ask someone to do some…
+j	頼り	たより	reliance
+j	頼る	たよる	to rely, to depend, to co…
+j	類い	たぐい	sort, kind, type
+j	類い	たぐひ	sort, kind, type
+j	食べた	たべた	
+j	食べる	たべる	to eat
+j	體位	たいい	
+j	體位	たいゐ	
+j	高い	たかい	high, tall
+j	高さ	たかさ	height
+j	高久	たかく	a surname
+j	高也	たかや	a male given name
+j	高井	たかい	a surname
+j	高価い	たかい	
+j	高史	たかし	a male given name
+j	高城	たかぎ	a surname
+j	高士	たかし	man of integrity and nobl…
+j	高夫	たかお	a male given name
+j	高子	たかこ	a female given name
+j	高尾	たかお	a surname
+j	高屋	たかや	a surname
+j	高嶺	たかね	a high or lofty peak, as …
+j	高師	たかし	higher normal school, pre…
+j	高志	たかし	a male given name
+j	高手	たかて	upper arm; the part of th…
+j	高木	たかぎ	tree with a tall, stout t…
+j	高根	たかね	
+j	高歩	たかぶ	利息の歩合が高いこと。
+j	高瀬	たかせ	a surname
+j	高田	たかた	a surname
+j	高田	たかだ	a surname
+j	高見	たかみ	watching with detachment
+j	高谷	たかや	a surname
+j	高野	たかの	a surname
+j	高雄	たかお	name of a town in Ukyō-ku…
+j	高雄	たかを	name of a town in Ukyō-ku…
+j	高雄	タカオ	name of a town in Ukyō-ku…
+j	高須	たかす	a surname
+j	鰱	たなご	a bitterling (a small fis…
+j	鰱	タナゴ	a bitterling (a small fis…
+j	鱈子	たらこ	cod roe; tarako
+j	鱈子	タラコ	cod roe; tarako
+j	鷹派	たかは	
+j	龍児	たつじ	a male given name
+j	龍実	たつみ	a male given name
+j	龍次	たつじ	a male given name
+j	龍生	たつお	a male given name
+j	龍男	たつお	a male given name
+j	龍美	たつみ	a male given name
+j	龍野	たつの	Tatsuno (a city in Hyōgo …
+j	たいいく	たいいく	
+j	たいいち	たいいち	泰一: a male given name
+j	たいぎい	たいぎい	面倒な、億劫な、だるい。
+j	たいさん	たいさん	大盞: a large sake cup
+j	たいしゃ	たいしゃ	退社: resignation
+j	たいじや	たいじや	退治屋: an exterminator
+j	たいすい	たいすい	大水: great river or lake; …
+j	たいすう	たいすう	対数: (mathematics) logarit…
+j	たいすけ	たいすけ	泰輔: a male given name
+j	たいする	たいする	
+j	たいせつ	たいせつ	腿節: (entomology) femur
+j	たいてい	たいてい	generally, mostly, for th…
+j	たいてき	たいてき	大敵: powerful enemy
+j	たいはい	たいはい	
+j	たいへい	たいへい	太平
+j	たいへん	たいへん	
+j	たいぺい	たいぺい	台北: Taipei
+j	たいほう	たいほう	大宝: (Buddhism) great trea…
+j	たいぼう	たいぼう	大望: ambition
+j	たいまつ	たいまつ	手で持てるようにした火のついた木切れ。照明などに使…
+j	たいやき	たいやき	小麦粉、砂糖、重曹などで作られた生地を多数の鯛をか…
+j	たいやく	たいやく	
+j	たいよう	たいよう	
+j	たいらか	たいらか	起伏などがなく平坦なさま。
+j	たいらぐ	たいらぐ	穏やかな状態になる。
+j	たいりく	たいりく	
+j	たえだえ	たえだえ	途切れそうで途切れずに続いていること。
+j	たおやか	たおやか	graceful
+j	たおやめ	たおやめ	たおやかな女性。弱い女性。
+j	たおれる	たおれる	立っていたものが横になる。
+j	たかあき	たかあき	敬章, 貴章, 誉昭, 高明, 崇明, 孝昭, 昂…
+j	たかあし	たかあし	足を高くあげるようにして歩くこと。
+j	たかいぬ	たかいぬ	鷹狩をする際に用いる犬。
+j	たかかね	たかかね	敬包: a male given name
+j	たかがき	たかがき	竹を編んでつくった垣根。たけがき。
+j	たかがり	たかがり	鷹や隼などの猛禽類を飼い慣らして鳥や小獣を捕らえる…
+j	たかがわ	たかがわ	高川: a surname
+j	たかぎし	たかぎし	高く聳え立つ岸。
+j	たかさき	たかさき	高崎: a city in Gunma
+j	たかさご	たかさご	砂が盛り上がり小高くなった場所。砂丘。
+j	たかざお	たかざお	竹で作った竿。たけざお。
+j	たかしお	たかしお	台風や発達した低気圧により海水面が異常に高くなる現…
+j	たかすえ	たかすえ	鷹狩をする人。鷹匠。
+j	たかぞら	たかぞら	空の高い所。
+j	たかだか	たかだか	際立って高いさま。
+j	たかつき	たかつき	食器の一種。高い台がついた坏。古代の日本でよく用い…
+j	たかつぐ	たかつぐ	天従, 郁胤, 貴継, 貴嗣, 貴次, 貴詔, 貴…
+j	たかてる	たかてる	貴照: a male given name
+j	たかとし	たかとし	登俊: a male given name
+j	たかとび	たかとび	高く飛ぶこと。
+j	たかとみ	たかとみ	孝富: a male given name
+j	たかとら	たかとら	高虎: a male given name
+j	たかどき	たかどき	鷹狩をする時期。
+j	たかどの	たかどの	高く建造された殿舎。高楼。
+j	たかなみ	たかなみ	高い波。別名、おおなみ。
+j	たかなる	たかなる	高く鳴り響く。
+j	たかのぶ	たかのぶ	隆信: a male given name
+j	たかのり	たかのり	隆則, 孝憲, 貴規, 尚典, 孝典, 孝徳, 貴…
+j	たかひこ	たかひこ	貴彦, 孝彦, 崇彦: a male given …
+j	たかひさ	たかひさ	貴久, 孝久, 敬久, 隆久: a male gi…
+j	たかひで	たかひで	峰秀: a male given name
+j	たかひと	たかひと	隆人: a male given name
+j	たかひろ	たかひろ	貴弘, 隆浩, 高広, 貴裕, 貴浩, 峰弘, 尚…
+j	たかびと	たかびと	鷹狩をする人。鷹匠。
+j	たかふだ	たかふだ	法令や罪人の罪状などを記し、人目のつく場所に立てた…
+j	たかふみ	たかふみ	尚史, 貴文, 隆史: a male given …
+j	たかぶり	たかぶり	「たかぶる」の連用形。
+j	たかぶる	たかぶる	気持ちが高揚したり、興奮したりする。
+j	たかほこ	たかほこ	鷹狩をする際に用いる止まり木。
+j	たかまさ	たかまさ	孝政: a male given name
+j	たかまり	たかまり	「たかまる」の連用形。
+j	たかまる	たかまる	（程度などが）高くなる。盛り上がる。
+j	たかみつ	たかみつ	崇光: a male given name
+j	たかみね	たかみね	高実子, 高峰: a surname
+j	たかむら	たかむら	竹が生い茂っている場所。たけやぶ。たけばやし。
+j	たかめる	たかめる	（程度などを）高くする。強くする。
+j	たかやま	たかやま	高山: a surname
+j	たからか	たからか	いかにも高いさま。
+j	たかんな	たかんな	たけのこ。
+j	たがいに	たがいに	双方が同じように相手に働きかけるさま。
+j	たがえる	たがえる	食い違わせる。一致しないようにする。
+j	たがねる	たがねる	集めてひとまとめにする。たばねる。
+j	たがやす	たがやす	土を掘り返し、田畑を作る。
+j	たきがわ	たきがわ	谷間などの激流。急流。
+j	たきぐも	たきぐも	山の稜線を越えて山に沿って滝のように風下側に落ちる…
+j	たきこむ	たきこむ	to cook (something) into …
+j	たきつぼ	たきつぼ	滝が流れ落ち込んで深い淵になっている場所。
+j	たきのり	たきのり	滝徳: a male given name
+j	たくいち	たくいち	拓一: a male given name
+j	たくさん	たくさん	数が多い様。
+j	たくぜつ	たくぜつ	卓絶: excellence, incompara…
+j	たくぞう	たくぞう	卓三: a male given name
+j	たくらみ	たくらみ	企むこと。計略。
+j	たくらむ	たくらむ	悪事を計画する。
+j	たくろう	たくろう	卓郎: a male given name
+j	たくわえ	たくわえ	【蓄え】蓄えること。また、その物。
+j	たけうま	たけうま	竹馬: bamboo stilts; walkin…
+j	たけかご	たけかご	竹を割って編んだ籠。
+j	たけがき	たけがき	竹を編んでつくった垣根。
+j	たけぐし	たけぐし	竹から作られた串。
+j	たけざお	たけざお	竹で作った竿。
+j	たけつぐ	たけつぐ	武続: a male given name
+j	たけづつ	たけづつ	竹を横に切り、下の節を残し、液体などを容れる筒。
+j	たけとし	たけとし	武俊: a male given name
+j	たけとら	たけとら	雄虎: a male given name
+j	たけなわ	たけなは	heights, full swing
+j	たけなわ	たけなわ	heights, full swing
+j	たけのこ	たけのこ	竹の地下茎から出てくる新芽。鱗片状の皮で包まれてい…
+j	たけのり	たけのり	孟紀, 建紀, 武則: a male given …
+j	たけはる	たけはる	武春: a male given name
+j	たけひこ	たけひこ	毅彦: a male given name
+j	たけひご	たけひご	竹を細く割いて削ったもの。籤。
+j	たけひで	たけひで	竹秀: a male given name
+j	たけひと	たけひと	健人: a male given name
+j	たけひろ	たけひろ	剛裕, 丈裕, 雄洋, 武博, 武広, 岳洋, 剛…
+j	たけふみ	たけふみ	武文: a male given name
+j	たけべら	たけべら	竹製のへら。
+j	たけみつ	たけみつ	刀身を竹を削ってつくった刀。また、それを持つ武家の…
+j	たけむら	たけむら	竹が生い茂っている場所。たけやぶ。たけばやし。
+j	たけやぶ	たけやぶ	竹が多く生い茂る藪。竹林。
+j	たけやり	たけやり	竹竿の先端を斜めに切断または円周の一部を鋭く尖らせ…
+j	たけゆき	たけゆき	健之: a male given name
+j	たけよし	たけよし	武芳: a male given name
+j	たこあし	たこあし	器物などの足の形が蛸の足のような形をしているもの。
+j	たこがた	たこがた	二組の隣り合う二つの辺の長さが等しい四角形。
+j	たこつぼ	たこつぼ	タコ漁のための漁具。穴に潜む習性を持つタコを獲るた…
+j	たこやき	たこやき	水又はだし汁で溶かした小麦粉を金属板の多数の半球状…
+j	たこわさ	たこわさ	
+j	たごおけ	たごおけ	水や糞尿などを入れ、天秤棒などで運搬するための桶。…
+j	たしかに	たしかに	
+j	たしなみ	たしなみ	趣味。好み。
+j	たしなむ	たしなむ	好んで親しむ。
+j	たしらか	たしらか	甕: earthenware vessel use…
+j	たじたじ	たじたじ	with a flinch, cowering
+j	たじろぐ	たじろぐ	to wince, to recoil, to s…
+j	たすかる	たすかる	死や危機を脱する。
+j	たすける	たすける	力を添えて危険などから逃れさせる。救助する。
+j	たずねる	たずねる	【尋ねる】捜し求める、探求する。
+j	たそがれ	たそがれ	夕方、夕暮れ時。
+j	たたえる	たたえる	ひいでているとし、感心・尊敬の気持ちを表すこと。ほ…
+j	たたかい	たたかい	戦うこと。
+j	たたかう	たたかう	to battle, to fight, to w…
+j	たたずむ	たたずむ	to remain in a place goin…
+j	たたみや	たたみや	畳を作って売る店。
+j	ただあき	ただあき	忠昭: a male given name
+j	ただあつ	ただあつ	忠厚: a male given name
+j	ただいま	ただいま	ただ今, 只今: presently, right…
+j	ただおみ	ただおみ	忠臣: a male given name
+j	ただかず	ただかず	忠一: a male given name
+j	ただかつ	ただかつ	正勝: a male given name
+j	ただがお	ただがお	飾らない顔。素顔。
+j	ただぐい	ただぐい	飲食店で代金を支払わずに飲食すること。無銭飲食。
+j	ただごと	ただごと	any old matter
+j	ただしい	ただしい	義理、人情、信用、任侠などを大切にしている。人の道…
+j	ただただ	ただただ	「ただ」を強調した語。
+j	ただちに	ただちに	間をおかず行動するさま。
+j	ただとし	ただとし	忠利: a male given name
+j	ただなか	ただなか	只中, 直中: middle
+j	ただのり	ただのり	只乗り: a free ride, especia…
+j	ただはる	ただはる	忠晴: a male given name
+j	ただひこ	ただひこ	忠彦, 正彦: a male given name
+j	ただひろ	ただひろ	忠弘: a male given name
+j	ただもの	ただもの	（通常打ち消しを伴い）普通の人。並の人。
+j	ただゆき	ただゆき	忠行: a male given name
+j	ただよう	ただよう	水面や空中に浮いて揺れ動く。
+j	ただよし	ただよし	忠義, 正義, 正佳: a male given …
+j	ただれる	ただれる	皮膚や粘膜、組織などが炎症をおこしたり腐敗したりし…
+j	ただ乗り	ただのり	
+j	ただ乗り	ただ乗り	
+j	ただ今	ただいま	「ただいま」の漢字表記。
+j	たちあい	たちあい	後々の証拠としたり、監督や検査などでその場において…
+j	たちあう	たちあう	to stand facing each othe…
+j	たちあげ	たちあげ	コンピュータなどを起動すること。ブート。
+j	たちいり	たちいり	「たちいる」の連用形。
+j	たちいる	たちいる	（主に無関係の者が）ある場所の中に入る。
+j	たちうお	たちうお	スズキ目サバ亜目タチウオ科タチウオ属に属する魚の一…
+j	たちうす	たちうす	地面に置いて餅をつく臼。
+j	たちうち	たちうち	fighting with tachi (swor…
+j	たちうり	たちうり	必要な分だけ売り安く買いやすいよう裁ち切って売るこ…
+j	たちかぜ	たちかぜ	太刀を振るった時に起こる風。
+j	たちきる	たちきる	燃料が燃え尽きる。
+j	たちぎき	たちぎき	物陰で立ち止まって他人の会話などを気づかれずに聞く…
+j	たちぐい	たちぐい	座席に座らずに立ったままで食べること。
+j	たちこむ	たちこむ	込み合う。混雑する。
+j	たちさる	たちさる	その場を去る。
+j	たちのく	たちのく	その場を去り、他の場所に移る。
+j	たちばな	たちばな	橘: Citrus tachibana, a sp…
+j	たちまち	たちまち	at once, in no time at al…
+j	たちゆく	たちゆく	（旅などに）出立する。
+j	たちよみ	たちよみ	立ち読み: reading (a book or …
+j	たちよる	たちよる	目的地に行く途中に訪れる。
+j	たっせい	たっせい	達成: achievement
+j	たった今	たった今	
+j	たっとい	たっとい	【尊い、貴い】価値や意義が高い。何物にも変えがたい。
+j	たっとぶ	たっとぶ	とうとぶ。
+j	たっぷり	たっぷり	full; plenty; abundant; l…
+j	たつあき	たつあき	達明: a male given name
+j	たつじん	たつじん	達人: master; expert
+j	たつなみ	たつなみ	波頭を図案化した文様。
+j	たつのひ	たつのひ	暦の上で辰にあたる日。
+j	たつのり	たつのり	辰徳: a male given name
+j	たつひこ	たつひこ	竜彦: a male given name
+j	たつひと	たつひと	竜人: a male given name
+j	たつひろ	たつひろ	達弘: a male given name
+j	たつまき	たつまき	大気の下層で起こる細長く激しい渦巻きで積乱雲などの…
+j	たつゆき	たつゆき	達之: a male given name
+j	たつよし	たつよし	竜義: a male given name
+j	たつろう	たつろう	達郎: a male given name
+j	たづくり	たづくり	田を耕作すること。また、それを行う人。
+j	たてあみ	たてあみ	建て網, 立て網: fish-trap, set …
+j	たていと	たていと	織物の縦方向にあり、横糸と交差する糸。
+j	たてうす	たてうす	地面に置いて餅をつく臼。
+j	たてうり	たてうり	予め家屋を新築し販売すること。
+j	たてかえ	たてかえ	立て替えること。他人に代わり一時的に金銭を支払うこ…
+j	たてかん	たてかん	
+j	たてがき	たてがき	縦書き, 縦書: vertical writing
+j	たてがみ	たてがみ	mane
+j	たてぐみ	たてぐみ	印刷で行の活字を縦方向に組むやり方。
+j	たてこう	たてかう	shaft (passage)
+j	たてこう	たてこう	shaft (passage)
+j	たてこむ	たてこむ	多くの人々が1箇所に集まる。混雑する。込み合う。
+j	たてごと	たてごと	弦楽器の一種。高さ2メートルほどの大型の楽器で、弦…
+j	たてじま	たてじま	vertical stripe
+j	たてつけ	たてつけ	the way furniture opens
+j	たてつぼ	たてつぼ	尺貫法で6尺(約1.8立方メートル)。土木や建築で…
+j	たてづめ	たてづめ	smooth fingernail, withou…
+j	たてどり	たてどり	2手目で後手が縦に石を返すような手。
+j	たてなが	たてなが	縦方向に長いさま。
+j	たてなみ	たてなみ	船などの前方または後方から打ち寄せる波。
+j	たてにげ	たてにげ	電子掲示板において、スレッドを立てたにもかかわらず…
+j	たてぬい	たてぬい	盾を作ること。
+j	たてぬき	たてぬき	経と緯。
+j	たてはば	たてはば	上下の長さ。たてのはば。
+j	たてばな	たてばな	仏前に供えるため花を花瓶に挿し立てて生けること。立…
+j	たてぶえ	たてぶえ	縦笛, 竪笛: vertical flute; r…
+j	たてまえ	たてまえ	建て前, 建前: erection of hous…
+j	たてまき	たてまき	curled ends
+j	たてもの	たてもの	建物: building, structure, …
+j	たてよこ	たてよこ	縦と横。
+j	たとえば	たとえば	例示すれば、例として挙げるならば。
+j	たとえる	たとえる	ある物事・事柄等を分かりやすく説明するために別の物…
+j	たどうし	たどうし	他動詞: transitive verb
+j	たどころ	たどころ	田のある所。田地。
+j	たなあげ	たなあげ	商品を一時貯蔵し、市場へ出さないこと。
+j	たながー	たながー	てながえび（沖縄語と同様）
+j	たなだて	たなだて	家主が、一方的に家の賃貸借契約を解除し、店子を追い…
+j	たなばた	たなばた	七月七日の節句。
+j	たなびく	たなびく	to trail
+j	たなぼた	たなぼた	（棚から牡丹餅より）思いがけない幸運に恵まれること。
+j	たにあい	たにあい	谷間: (geology) valley, rav…
+j	たにかぜ	たにかぜ	昼間に山腹の空気が暖められ谷底から山頂に向かって吹…
+j	たにがわ	たにがわ	谷間を流れる川。渓流。渓澗。
+j	たにぎり	たにぎり	谷間にできる霧。
+j	たにぐち	たにぐち	谷のような地形の入り口。
+j	たにそこ	たにそこ	谷が最も低くなっている場所。
+j	たねいた	たねいた	写真の原板、撮影用の感光板。
+j	たねいも	たねいも	種とするため、そのまま植えて繁殖させるための芋。
+j	たねうし	たねうし	繁殖や品種改良のために飼育する牛。
+j	たねうま	たねうま	繁殖用の牡馬。一般的に競馬等の能力が高くその血統を…
+j	たねつけ	たねつけ	mating (causing mating) o…
+j	たねまき	たねまき	種を蒔くこと。
+j	たのかみ	たのかみ	田を支配する神。
+j	たのしい	たのしい	不安がなく心が晴れ晴れしている状態。うきうきしてい…
+j	たのしさ	たのしさ	楽しさ: fun, amusement, enjo…
+j	たのしみ	たのしみ	楽しみ: joy
+j	たのしむ	たのしむ	そのものの良さを味わう。
+j	たばこや	たばこや	煙草や喫煙具を販売する店舗、人。
+j	たばこ税	たばこ税	たばこに課される租税。日本国では、たばこ税（後述）…
+j	たばねる	たばねる	一つに纏めて括る。
+j	たびさき	たびさき	旅行で行った先の土地。旅行先。
+j	たびたび	たびたび	繰り返しするさま。しばしば。毎度。
+j	たびだち	たびだち	旅立ち: departure on a trip/…
+j	たびだつ	たびだつ	旅に出る。
+j	たびどり	たびどり	渡り鳥の一種。北方に繁殖地が、南方に越冬地があり、…
+j	たびにん	たびにん	旅人: traveler
+j	たびびと	たびびと	旅人: traveler
+j	たびぶし	たびぶし	旅先で寝ること。
+j	たぷたぷ	たぷたぷ	flabby
+j	たべごろ	たべごろ	食べるのに一番おいしい時分。
+j	たべすぎ	たべすぎ	「たべすぎる」の未然形及び連用形。
+j	たべもの	たべもの	嚙んで食べる物。
+j	たべれる	たべれる	「食べる」の可能動詞。食べることができる。「食べら…
+j	たまいし	たまいし	round stone
+j	たまいれ	たまいれ	玉、ボールなどを入れること。
+j	たまがき	たまがき	皇居や神社などの周囲に廻らされた垣。
+j	たまきず	たまきず	銃弾を受けて出来た傷。
+j	たまきん	たまきん	balls, bollocks, testicles
+j	たまぎる	たまぎる	非常に驚く。びっくりする。たまげる。
+j	たまくら	たまくら	腕を枕がわりにすること。そのときの腕。
+j	たまぐし	たまぐし	神前に捧げる幣帛の一種。通常榊の枝に紙でできた垂ま…
+j	たまけり	たまけり	kicking testicles
+j	たまげる	たまげる	to be greatly surprised, …
+j	たまさか	たまさか	たまたま。偶然。
+j	たましい	たましい	生物の肉体に宿り、心の働きをつかさどると考えられて…
+j	たましろ	たましろ	神や人の霊魂の代わりに祭祀するもの。
+j	たますじ	たますじ	the course or direction o…
+j	たますじ	たますぢ	the course or direction o…
+j	たますり	たますり	玉を摩り磨いて細工をすること。その職人。たまつくり。
+j	たまたま	たまたま	unexpectedly, by chance; …
+j	たまちる	たまちる	Beading and flying away.
+j	たまつき	たまつき	ビリヤード。
+j	たまどの	たまどの	立派な御殿。
+j	たまには	たまには	時によっては、ある場合には、時々。
+j	たまねぎ	たまねぎ	ヒガンバナ科（旧ユリ科）の多年草。学名はAlliu…
+j	たまのり	たまのり	the acrobatic act of bala…
+j	たまひも	たまひも	焼き鳥の部位の一つ、きんかん（鶏卵の産卵前の卵黄）…
+j	たまふり	たまふり	神道の神儀のひとつで、神体等を揺り動かすことにより…
+j	たまぶち	たまぶち	美しく飾った縁また縁取り。
+j	たまむし	たまむし	コウチュウ目タマムシ科の甲虫の総称。学名:Bupr…
+j	たまもの	たまもの	received gift
+j	たまゆら	たまゆら	ほんの少しの間。しばし。
+j	たまり場	たまり場	
+j	たまわる	たまわる	物品を目上の人からもらう。いただく。
+j	たみくさ	たみくさ	人民。庶民。「増える民」を「生い茂る草」に譬えた語…
+j	ためいき	ためいき	ため息, 溜め息, 溜息: sigh
+j	ためいけ	ためいけ	用水を蓄えるための池。貯水池。
+j	ためがき	ためがき	dedication in a book
+j	ためぐち	ためぐち	casual talk, usage of an …
+j	ためこむ	ためこむ	物を溜めてしまっておく。集めて蓄える。
+j	ためとり	ためとり	recording (a video) or ta…
+j	ためらい	ためらい	躊躇い: hesitation
+j	ためらう	ためらう	決心がつかずにぐずぐずする。
+j	ため息	ためいき	sigh
+j	たやすい	たやすい	訳無くできるさま。容易だ。
+j	たゆたう	たゆたう	揺れ動く。漂う。
+j	たゆまぬ	たゆまぬ	
+j	たよりや	たよりや	江戸時代、金を取って手紙や荷物を配達を行ったもの。…
+j	たらじる	たらじる	鱈の擂り身やぶつ切りを具にいれた汁。
+j	たらたら	たらたら	液体が滴などで滴るさま。
+j	たらちり	たらちり	鍋料理の一つ。鱈の切り身と野菜、豆腐などをだし汁で…
+j	たらのき	たらのき	セリ目タラノキ属の落葉樹。学名:Aralia el…
+j	たらのめ	たらのめ	春にたらのきの枝に出た新芽。食用。
+j	たらふく	たらふく	eating heartily
+j	たりとも	たりとも	
+j	たりない	たりない	不足している。十分ではない。
+j	たるざけ	たるざけ	樽に入った酒。
+j	たれかく	たれかく	女性と性交する。
+j	たれぎぬ	たれぎぬ	垂れ絹, 垂れ衣: curtain, draper…
+j	たれこみ	たれこみ	tip-off (report)
+j	たれこむ	たれこむ	大小便を垂れる。
+j	たれびと	たれびと	（人称代名詞不定称）どの人。だれ。
+j	たわける	たわける	淫らな行為をする。
+j	たわごと	たわごと	ふざけた言葉。
+j	たわむれ	たわむれ	「たわむれる」の未然形及び連用形。
+j	たんあん	たんあん	炭安: ammonium carbonate
+j	たんえん	たんえん	湯円: tangyuan
+j	たんおう	たんおう	蛋黄: yolk
+j	たんおし	たんおし	being a fan of only one m…
+j	たんげい	たんげい	端倪: conjecturing
+j	たんこぶ	たんこぶ	lump, bump (on the body)
+j	たんさく	たんさく	探索: search, lookup, hunt
+j	たんしゃ	たんしゃ	単車: a motorcycle, motorbi…
+j	たんすい	たんすい	淡水: fresh water
+j	たんせい	たんせい	端正: noble
+j	たんつぼ	たんつぼ	
+j	たんてい	たんてい	探偵: detective
+j	たんねん	たんねん	丹念: careful; painstaking;…
+j	たんばん	たんばん	胆礬: chalcanthite
+j	たんぱつ	たんぱつ	単発
+j	たんぽぽ	たんぽぽ	被子植物門双子葉植物綱キク目キク科タンポポ属の総称…
+j	たんまり	たんまり	たくさんあること。どっさり。
+j	たんよう	たんよう	単葉: simple leaf; monoplane
+j	た行	たぎゃう	the fourth row of the 五十音…
+j	た行	たぎょう	the fourth row of the 五十音…
+j	タアサイ	タアサイ	塌菜: Brassica rapa subsp. …
+j	タイイン	タイイン	製造者と小売店が共同で行う広告。
+j	タイガー	タイガー	虎。
+j	タイゲテ	タイゲテ	木星の第20衛星の固有名。
+j	タイゴン	タイゴン	a tigon
+j	タイタン	タイタン	オリュンポスの神々に先行する、巨大な体を持つとされ…
+j	タイダイ	タイダイ	絞り染め。
+j	タイトル	タイトル	a title (name of a book, …
+j	タイパン	タイパン	有鱗目コブラ科タイパン属に属する蛇の一種。学名: …
+j	タイピン	タイピン	「ネクタイピン」の略。
+j	タイベイ	タイベイ	
+j	タイペイ	タイペイ	
+j	タイマイ	タイマイ	カメ目ウミガメ科タイマイ属に属するかめの一種。学名…
+j	タイマン	タイマン	one-on-one fight
+j	タイマー	タイマー	timer (device used to mea…
+j	タイミル	タイミル	
+j	タイヤル	タイヤル	Atayal (Taiwanese indigen…
+j	タイヤ溝	タイヤ溝	
+j	タイロン	タイロン	Tyrone (a county of North…
+j	タイン川	タイン川	
+j	タイーホ	タイーホ	synonym of 逮捕 (taiho, “ar…
+j	タイ人	たいじん	Thai person
+j	タイ人	タイじん	Thai person
+j	タイ国	たいこく	
+j	タイ文字	タイ文字	主にタイ国内でタイ語を表記する際に使われる文字。広…
+j	タイ料理	タイ料理	タイの伝統的な料理。
+j	タイ族	たいぞく	タイ諸語を母語とする民族の総称。
+j	タイ王国	タイ王国	東南アジアにある国。首都はバンコク。公用語はタイ語…
+j	タイ英語	タイ英語	タイ王国で話されている英語の変種。
+j	タウオン	タウオン	synonym of タウ粒子 (tau ryūs…
+j	タウリン	タウリン	taurine (amino-sulfonic a…
+j	タウ粒子	タウ粒子	a tauon
+j	タキアン	タキアン	バングラデシュからマレー半島にかけて自生するフタバ…
+j	タキオン	タキオン	tachyon
+j	タキツス	タキツス	
+j	タキーヤ	タキーヤ	taqiyya
+j	タギッグ	タギッグ	
+j	タクシー	タクシー	a taxi, a taxicab, a cab
+j	タクソン	タクソン	種、属、科、目、綱、門、界、ドメインなどの生物の分…
+j	タクワー	タクワー	taqwa
+j	タケノコ	タケノコ	筍, 笋, 竹の子: bamboo shoot
+j	タジクの	タジクの	
+j	タジク人	タジク人	Tajik person
+j	タジク語	たじくご	the Tajik language
+j	タジク語	タジクご	the Tajik language
+j	タジク語	タジク語	the Tajik language
+j	タジン鍋	タジン鍋	
+j	タタール	タタール	蒙古系の部族の一つ。8世紀ごろ蒙古東部に現れ、その…
+j	タチバナ	タチバナ	橘: Citrus tachibana, a sp…
+j	タックス	タックス	tax
+j	タックル	タックル	ボールを持っている人に飛び掛かる戦術。
+j	タトゥー	タトゥー	synonym of いれずみ (irezumi,…
+j	タナトス	タナトス	ギリシア神話における神。死を擬人化したもの。
+j	タハーラ	タハーラ	A state of ritual purity.
+j	タバコ屋	タバコ屋	
+j	タバコ銭	タバコ銭	
+j	タバスコ	タバスコ	Tabasco (a state of Mexic…
+j	タバーン	タバーン	
+j	タヒチ人	タヒチ人	フランス領タヒチ島の主要民族。ポリネシア人の一派。
+j	タヒチ島	タヒチ島	南太平洋中部のフランス領ポリネシアにあるソシエテ諸…
+j	タヒチ語	タヒチ語	オーストロネシア語族東マレーポリネシア語派に属し、…
+j	タヒーナ	タヒーナ	tahini
+j	タピオカ	タピオカ	tapioca
+j	タフィー	タフィー	taffy
+j	タフガイ	タフガイ	頑強な男性。精力的な男性。
+j	タフネス	タフネス	toughness
+j	タブノキ	タブノキ	クスノキ科タブノキ属の常緑樹。学名: Machil…
+j	タブロー	タブロー	デッサン、習作などに対し完成された絵画。
+j	タブーラ	タブーラ	
+j	タブーリ	タブーリ	
+j	タボル山	タボル山	
+j	タマキン	タマキン	
+j	タマナー	タマナー	
+j	タマネギ	タマネギ	「たまねぎ」の学術的表記。
+j	タマリロ	タマリロ	tamarillo
+j	タマリン	タマリン	a tamarin
+j	タミル人	タミル人	スリランカやインドに住むタミル語を母語とする民族。
+j	タミル語	たみるご	The Tamil language
+j	タミル語	タミルご	The Tamil language
+j	タミル語	タミル語	The Tamil language
+j	タヤバス	タヤバス	
+j	タラゴン	タラゴン	
+j	タラッサ	タラッサ	海王星の第4衛星の固有名。
+j	タラップ	タラップ	a gangway or accommodatio…
+j	タラリア	タラリア	
+j	タラント	タラント	
+j	タリウム	タリウム	thallium
+j	タリバン	タリバン	
+j	タリ活用	タリ活用	an adjective inflection c…
+j	タルタン	タルタン	
+j	タルトゥ	タルトゥ	
+j	タレイア	タレイア	Thalia
+j	タレント	タレント	marked ability or skill, …
+j	タロコ語	タロコ語	オーストロネシア語族に属する言語で台湾に住んでいる…
+j	タロット	タロット	The tarot
+j	タワマン	タワマン	syllabic abbreviation of …
+j	タワーフ	タワーフ	巡礼の際にカーバ神殿を7周周回する儀式。
+j	タンしお	タンしお	salted ox tongue
+j	タンカン	タンカン	ムクロジ目ミカン科ミカン属に属する常緑低木の一種。…
+j	タンカー	タンカー	tanker (a tank ship, a ve…
+j	タンキニ	タンキニ	tankini
+j	タンジェ	タンジェ	
+j	タンタル	タンタル	tantalum
+j	タントラ	タントラ	tantra
+j	タンニン	タンニン	植物の樹皮、果実などに含まれ、その水溶液は収斂性が…
+j	タンフル	タンフル	
+j	タンペレ	タンペレ	Tampere (a city in Finlan…
+j	タンボフ	タンボフ	
+j	タンポポ	タンポポ	蒲公英: a dandelion
+j	タンポン	タンポン	a tampon (plug of cotton …
+j	タンメン	タンメン	茹でた中華麺に汁を注いだものの総称。特に、茹でた中…
+j	ターキン	ターキン	takin, Budorcas taxicolor
+j	ターキー	ターキー	synonym of 七面鳥 (shichimen…
+j	ターサイ	ターサイ	塌菜: Brassica rapa subsp. …
+j	タータン	タータン	
+j	ターナー	ターナー	turner (utensil); spatula
+j	ターニャ	ターニャ	
+j	ターネー	ターネー	
+j	ターバン	ターバン	turban (man's head-dress)
+j	タービン	タービン	turbine in rotary machines
+j	ターラー	ターラー	
+j	ターリブ	ターリブ	
+j	七夕	たなばた	a type of loom (the origi…
+j	丈裕	たけひろ	a male given name
+j	丹前	たんぜん	袖が広く、着物の上から着用する綿入れ。
+j	丹参	たんじん	red sage (Salvia miltiorr…
+j	丹参	タンジン	red sage (Salvia miltiorr…
+j	丹山	たんざん	a male given name
+j	丹山	たんやま	a male given name
+j	丹心	たんしん	sincerity, faithfulness
+j	丹念	たんねん	careful; painstaking; ela…
+j	丹懇	たんこん	赤誠。
+j	丹朱	たんしゅ	cinnabar
+j	丹東	たんとう	Dandong (a prefecture-lev…
+j	丹桂	たんけい	golden osmanthus (Osmanth…
+j	丹桂	タンケイ	golden osmanthus (Osmanth…
+j	丹毒	たんどく	rose; erysipelas
+j	丹漆	たんしつ	赤色の漆。
+j	丹田	たんでん	dantian
+j	丹砂	たんしゃ	red sand
+j	丹碧	たんぺき	red and green
+j	丹穴	たんけつ	丹砂の穴。
+j	丹精	たんせい	great care
+j	丹薬	たんやく	漢方で練り薬の総称。
+j	丹血	たんけつ	赤い血液。
+j	丹訣	たんけつ	丹田に意識と呼吸を集中し、気を養い、心身を整える修…
+j	丹誠	たんせい	「丹精」の別表記。
+j	丹銅	たんどう	亜鉛を3パーセントから20パーセント含み、赤みを帯…
+j	丹闕	たんけつ	宮城。宮中。宮闕。
+j	丹青	たんせい	red and blue
+j	互いに	たがいに	mutually; reciprocally; w…
+j	互いに	たがひに	mutually; reciprocally; w…
+j	互いの	たがいの	
+j	享次	たかつぐ	a male given name
+j	他出	たしゅつ	他の場所へ出掛けること。外出。
+j	他動詞	たどうし	transitive verb
+j	他宗	たしゅう	他の宗旨や宗派。
+j	他称	たしょう	one's name that is not us…
+j	他称	たしよう	one's name that is not us…
+j	他行	たぎょう	外へ出掛けること。外出。
+j	他郷	たきやう	a foreign land or country
+j	他郷	たきょう	a foreign land or country
+j	代謝	たいしゃ	renewal; regeneration
+j	代赫	たいしゃ	代赭の異表記。
+j	代赭	たいしゃ	酸化鉄を主成分とする赤褐色または黄褐色の顔料。
+j	企み	たくらみ	plot, scheme, intrigue
+j	企む	たくらむ	to plan, to scheme, to co…
+j	体する	たいする	心に留める。意向や指示などをもとに行動する。
+j	体内	たいない	the inside of the body; t…
+j	体刑	たいけい	身体に直接苦痛を加える刑罰。身体刑。
+j	体制	たいせい	system
+j	体勢	たいせい	posture
+j	体型	たいけい	figure, type of build (bo…
+j	体外	たいがい	outside of the body
+j	体大	たいだい	体育大学の略。
+j	体幹	たいかん	trunk (of a body); soma
+j	体形	たいけい	form, shape
+j	体得	たいとく	acquiring knowledge
+j	体感	たいかん	feeling in the body
+j	体操	たいさう	gymnastics, exercises, ca…
+j	体操	たいそう	gymnastics, exercises, ca…
+j	体格	たいかく	body shape (of a person)
+j	体毛	たいもう	body hair
+j	体液	たいえき	bodily fluid, biological …
+j	体温	たいおん	body temperature
+j	体温	たいをん	body temperature
+j	体熱	たいねつ	生体が発する身体の熱。
+j	体環	たいかん	蛭の仲間の体表に見られる環状の筋。
+j	体用	たいゆう	Essence-Function; Substan…
+j	体用	たいよう	Essence-Function; Substan…
+j	体癌	たいがん	「子宮体癌」の略。
+j	体積	たいせき	volume, capacity
+j	体節	たいせつ	環形動物、節足動物などに見られる、体軸方向の繰り返…
+j	体系	たいけい	system
+j	体練	たいれん	体を鍛練すること。
+j	体罰	たいばつ	corporal punishment
+j	体育	たいいく	physical education
+j	体腔	たいこう	動物の体壁の内部と内臓との間にある隙間。
+j	体臭	たいしう	body odour
+j	体菜	たいさい	synonym of 青梗菜 (“bok choy…
+j	体菜	タイサイ	synonym of 青梗菜 (“bok choy…
+j	体表	たいへう	the surface of a body
+j	体解	たいかい	肢解の刑罰。
+j	体言	たいげん	a Japanese or Korean word…
+j	体認	たいにん	実際に自分で経験して重要性などを理解すること。
+j	体読	たいどく	文字で表された意味以上にその意味を会得して読むこと。
+j	体質	たいしつ	disposition of the body; …
+j	体配	たいはい	刀などを身につけること。また、その姿。
+j	体錬	たいれん	「体練」の別表記。
+j	体面	たいめん	honor; reputation; public…
+j	体養	たいよう	caring of the body
+j	体験	たいけん	experience
+j	体高	たいかう	height (of a being)
+j	体高	たいこう	height (of a being)
+j	例えば	たとえば	for example, exempli grat…
+j	例えば	たとへば	for example, exempli grat…
+j	例える	たとえる	compare, liken
+j	例える	たとへる	compare, liken
+j	俀国	たいこく	
+j	倒れる	たおれる	fall, collapse
+j	倒れる	たふれる	fall, collapse
+j	倒幕	たうばく	overthrow of a shogunate
+j	倒産	たうさん	corporate bankruptcy
+j	倒福	たうふく	upside-down 福 character w…
+j	倒錯	たうさく	upside-down
+j	倒閣	たうかく	bringing down a government
+j	健之	たけゆき	a male given name
+j	健人	たけひと	a male given name
+j	健彦	たけひこ	a male given name
+j	党葬	たうさう	funeral ceremony held by …
+j	再編	たいへん	restructuring, realignment
+j	刀圭	たうけい	medicine spoon
+j	刀工	たうこう	a swordsmith, someone who…
+j	刀身	たうしん	the blade of a sword or k…
+j	刀鋸	たうきょ	a blade and saw
+j	到底	たうてい	in the end, ultimately, a…
+j	到来	たうらい	arrival
+j	到頭	たうとう	finally; at last; reachin…
+j	剛治	たけはる	a male given name
+j	剛浩	たけひろ	a male given name
+j	剛裕	たけひろ	a male given name
+j	助かる	たすかる	to escape from danger or …
+j	助けて	たすけて	Help!
+j	助ける	たすける	to help; to assist
+j	卓丈	たかひろ	a male given name
+j	卓三	たくぞう	a male given name
+j	卓効	たっこう	薬などの優れた効果。
+j	卓宏	たかひろ	a male given name
+j	卓弘	たかひろ	a male given name
+j	卓抜	たくばつ	excellence, superiority. …
+j	卓球	たくきう	table tennis
+j	卓絶	たくぜつ	excellence, incomparabili…
+j	卓行	たくこう	優れた行い。休行。
+j	卓行	たっこう	優れた行い。休行。
+j	卓見	たっけん	卓れた見識。
+j	卓識	たくしき	clearsightedness; penetra…
+j	卓越	たくえつ	excellence, superiority, …
+j	卓越	たくゑつ	excellence, superiority, …
+j	卓郎	たくろう	a male given name
+j	単なる	たんなる	mere, sheer, just, simple…
+j	単一	たんいち	independent, single
+j	単一	たんいつ	independent, single
+j	単三	たんさん	「単三形乾電池」の略。
+j	単体	たんたい	solo; monad; a unit compo…
+j	単作	たんさく	single crop, monoculture
+j	単元	たんげん	unit of teaching; curricu…
+j	単刀	たんとう	一振りの刀。
+j	単品	たんぴん	individual item
+j	単四	たんよん	「単四形乾電池」の略。
+j	単声	たんせい	男声・女声のどちらか一方のみであること。
+j	単婚	たんこん	synonym of 一夫一婦制 (ippuipp…
+j	単孑	たんげつ	一人。
+j	単射	たんしゃ	injection
+j	単射	たんしや	injection
+j	単層	たんそう	層が一つであること。
+j	単式	たんしき	simple system; single-ent…
+j	単数	たんすう	singularity, there being …
+j	単文	たんぶん	simple sentence (sentence…
+j	単月	たんげつ	それぞれの月だけに注目した時の月。
+j	単根	たんこん	歯根が一本しかない歯。
+j	単特	たんとく	一人。
+j	単独	たんどく	single
+j	単産	たんさん	産業別単一労働組合の略。
+j	単発	たんぱつ	having one engine
+j	単相	たんそう	細胞の核が減数分裂し、半分になっている状態。
+j	単眼	たんがん	simple eye
+j	単竭	たんけつ	尽きること。
+j	単糖	たんとう	単糖類。
+j	単線	たんせん	single track
+j	単練	たいれん	中国武術で単独で行う練習。
+j	単胎	たんたい	単胎妊娠により胎内に一人の胎児を持つこと。
+j	単芝	たんしば	文末に付ける「ｗ（笑いを表すインターネットスラング…
+j	単花果	たんかか	一つの花の一つの子房からできる果実。単果。
+j	単葉	たんえふ	simple leaf
+j	単葉	たんよう	simple leaf
+j	単著	たんちょ	authorship by a single pe…
+j	単複	たんぷく	singular and plural
+j	単身	たんしん	being alone
+j	単車	たんしゃ	a motorcycle, motorbike
+j	単音	たんおん	a phone (speech segment t…
+j	反当	たんとう	田畑の一反当りの量。
+j	反物	たんもの	fabric
+j	只中	ただなか	middle, center
+j	只乗り	ただのり	a free ride, especially o…
+j	只今	ただいま	hello; here I am; I'm hom…
+j	只者	ただもの	ordinary person
+j	台北	たいぺい	Taipei (the capital city …
+j	台北	たいほく	Taipei (the capital city …
+j	台北	タイペイ	Taipei (the capital city …
+j	台北	タイホク	Taipei (the capital city …
+j	台南	たいなん	Tainan
+j	台墨	たいぼく	他人の手紙に対する敬語。
+j	台書	たいしょ	他人の手紙に対する尊敬語。
+j	台東	たいとう	Taitō (one of 23 special …
+j	台槐	たいかい	三台と三槐。三公（太政大臣、左大臣、右大臣）のこと。
+j	台湾	たいわん	Taiwan
+j	台覧	たいらん	相当身分が高い人が御覧になること。
+j	台鑒	たいかん	御覧になること。
+j	台頭	たいとう	rise; emergence
+j	台顔	たいがん	尊顔。
+j	台風	たいふう	a tropical storm, with wi…
+j	呆僗	たいろう	愚かなさま。
+j	呆獃	たいがい	痴呆。
+j	唐人	たうじん	a Chinese person
+j	唐名	たうめい	a name used in China
+j	唐楽	たうがく	togaku, music of Chinese …
+j	唐津	たんじん	Karatsu (a city in Saga P…
+j	唐津	タンジン	Karatsu (a city in Saga P…
+j	唐紅	たうべに	Chinese red; deep crimson
+j	唐茄子	たうなす	pumpkin, squash
+j	唐萵苣	たうぢさ	synonym of 不断草 (fudansō, …
+j	唐萵苣	タウヂサ	synonym of 不断草 (fudansō, …
+j	唐音	たうおん	Tō-on, a Sino-Japanese ka…
+j	唯徳	ただのり	a male given name
+j	啄木	たくぼく	woodpecker
+j	啄木	タクボク	woodpecker
+j	啖囓	たんけつ	噛むこと。咀嚼すること。
+j	啗齧	たんけつ	噛むこと。咀嚼すること。
+j	單一	たんいつ	
+j	嗜み	たしなみ	imperfective and stem (or…
+j	嗜む	たしなむ	have a taste for
+j	嘆ずる	たんずる	なげく。ひどく悲しく思う。
+j	嘆声	たんせい	溜息。
+j	嘆息	たんそく	a sigh
+j	嘆願	たんがん	entreaty, supplication, p…
+j	坦坦	たんたん	地面などが平らなさま。
+j	坦山	たんざん	a male given name
+j	坦懐	たんかい	わだかまりがないこと。
+j	坦然	たんぜん	平坦なさま。落ち着いているさま。
+j	坦道	たんだう	flat road
+j	坦道	たんどう	flat road
+j	垂れ幕	たれまく	curtain, hanging banner
+j	垂幕	たれまく	「垂れ幕」の異表記。
+j	垂水	たるみず	Tarumizu (a city in Kagos…
+j	堆石	たいせき	高く石を積むこと。また、高く積まれた石。
+j	堆積	たいせき	accumulation
+j	堆豗	たいかい	座ったままであるさま。
+j	堆雪	たいせつ	積雪。
+j	堪能	たんのう	satisfaction, satiety
+j	塌菜	たあさい	Brassica rapa subsp. nari…
+j	塌菜	タアサイ	Brassica rapa subsp. nari…
+j	多人数	たにんず	たくさんの人数。
+j	多力	たりょく	力・権力が強いこと。また、そのさま。
+j	多孔の	たこうの	
+j	多少	たしょう	little, somewhat, rather,…
+j	多弁な	たべんな	
+j	多彩な	たさいな	
+j	多情	たじょう	情が深いこと。
+j	多数の	たすうの	
+j	多数派	たすうは	majority group (party, fa…
+j	多文化	たぶんか	
+j	多極	たきょく	multipolar (having multip…
+j	多様化	たようか	diversification
+j	多次元	たじげん	multiple dimensions; many…
+j	多汁	たじゅう	水気を多く含んでいること。
+j	多牌	たーはい	long hand (illegal hand c…
+j	多牌	ターハイ	long hand (illegal hand c…
+j	多病	たびょう	病気になることが多いさま。病気がちであるさま。
+j	多羅樹	たらじゅ	ヤシ科の常緑高木。アフリカ原産。雌雄異株。多羅。
+j	多義性	たぎせい	polysemy, ambiguity, the …
+j	多色	たしょく	色が多いこと。たくさんの色。さまざまな色。色の種類…
+j	多衆	たしゅう	多くの人達。大衆。大勢。
+j	多言語	たげんご	multilingualism
+j	多読の	たどくの	
+j	多趣味	たしゅみ	趣味とするものが多いこと。また、そのさま。
+j	多重	たじゅう	multiple
+j	多重	たぢゆう	multiple
+j	多量	たりょう	abundant; in large amount…
+j	多雨林	たうりん	a rainforest
+j	多音字	たおんじ	character with two or mor…
+j	大した	たいした	big, quite, very great, c…
+j	大して	たいして	（あとに打消しの語を伴い）それほど。さほど。あまり。
+j	大世	たいせい	a male given name
+j	大乱	たいらん	戦乱などにより世の中が大きく乱れること。
+j	大人	たいじん	an adult, a grown-up
+j	大介	たいすけ	a male given name
+j	大仙	たいせん	優れた仙人。
+j	大会	たいかい	convention; rally; mass m…
+j	大作	たいさく	epic
+j	大儒	たいじゅ	儒学の大学者。
+j	大優	たいゆう	寛大で、何事にも動じないこと。また、そのようなさま。
+j	大兄	たいけい	男性同士で年上や先輩などに対する敬語。
+j	大全	たいぜん	complete (collection, wor…
+j	大公	たいこう	a grand duke
+j	大兵	たいへい	弓を引くのが強いさま。また、そのような人。
+j	大冊	たいさつ	
+j	大凡	たいはん	おおよそ。大略。大概。
+j	大函	たいかん	貴翰。
+j	大切	たいせつ	important, weighty
+j	大初	たいしょ	原初。
+j	大刹	たいせつ	大きな寺院。巨刹。
+j	大剣	たいけん	大きな刀剣。グレートソード。ツーハンドソード。
+j	大功	たいこう	great achievement
+j	大勇	たいゆう	真の勇気。
+j	大勝	たいせふ	crushing victory
+j	大勢	たいせい	in a crowd, as a crowd
+j	大勢	たいぜい	in a crowd, as a crowd
+j	大勲	たいくん	a great deed, distinguish…
+j	大北	たいほく	大敗すること。
+j	大半	たいはん	the greater part, most of
+j	大厄	たいやく	おおきな厄難。
+j	大名	たいめい	one who owns much land
+j	大君	たいくん	the emperor, His Majesty
+j	大唐	たいとう	「大唐米」（注：「たいとうごめ」「たいとうまい」と…
+j	大喊	たいかん	大声で叫ぶこと。盛んにかちどきをあげること。
+j	大喚	たいかん	大声で叫ぶこと。盛んにかちどきをあげること。
+j	大喪	たいそう	天皇の葬儀。
+j	大営	たいえい	大事業。大きな仕事。おおしごと。
+j	大国	たいこく	big country, major power
+j	大塊	たいかい	大きな塊。
+j	大壊	たいかい	大きく崩れること。
+j	大声	たいせい	loud voice
+j	大変	たいへん	difficult, hard
+j	大妖	たいよう	great demon
+j	大妻	たいさい	本妻。
+j	大姦	たいかん	非常に悪賢いこと。また、そのような人。
+j	大守	たいしゅ	古代中国の郡の長官。
+j	大安	たいあん	Fifth day of Rokkuyō cale…
+j	大宝	たいほう	a great treasure
+j	大害	たいがい	大きな災害や損害。
+j	大射	たいしゃ	かつて一月十七日に内裏建礼門の門前で行われた弓射の…
+j	大層	たいそう	exaggerated
+j	大山	たいざん	great mountain
+j	大川	たいせん	Ōkawa (a city in Fukuoka …
+j	大帝	たいてい	a "great emperor" (used i…
+j	大幅	たいふく	wide, broad (especially m…
+j	大弊	たいへい	甚大な弊害。
+j	大役	たいやく	責任が重い任務。
+j	大悔	たいかい	痛恨。
+j	大慶	たいけい	something very joyous and…
+j	大憂	たいゆう	大きな心配事。
+j	大憲	たいけん	非常に重要な憲章。
+j	大成	たいせい	completion; accomplishment
+j	大戒	たいかい	背くことができない大きな法則。
+j	大戦	たいせん	a great war, a great batt…
+j	大所	たいしょ	大きな社寺。
+j	大才	たいさい	優れた才能や器量。また、それを持った人。宏才。
+j	大抵	たいてい	おおよそ。おおかた。大概。大体。
+j	大挙	たいきょ	大勢で向かうこと。
+j	大政	たいせい	天下を統治する政。
+j	大敗	たいはい	crushing defeat
+j	大数	たいすう	大きな数値。
+j	大敵	たいてき	powerful rival; strong en…
+j	大斂	たいれん	納棺の礼。
+j	大方	たいはう	the majority, the large p…
+j	大方	たいほう	the majority, the large p…
+j	大日	たいにち	
+j	大旱	たいかん	長期間雨が降らず、ひどい日照りとなること。
+j	大景	たいけい	広く雄大な景色。
+j	大暑	たいしょ	Greater Heat (12th of the…
+j	大暑	たいしよ	Greater Heat (12th of the…
+j	大書	たいしょ	writing in large script
+j	大會	たいかい	
+j	大望	たいぼう	大きな希望。
+j	大望	たいもう	大きな希望。
+j	大木	たいぼく	large tree
+j	大本	たいほん	foundation, basis
+j	大束	たいそく	束が大きいこと。また、そのようなもの。
+j	大杯	たいはい	大きなさかずき。
+j	大枚	たいまい	vast sum of money
+j	大柄	たいへい	large, big-boned
+j	大棗	たいそう	dried jujube fruit
+j	大業	たいげふ	a great deed; a grand und…
+j	大楼	たいろう	大きな楼閣。
+j	大概	たいがい	generality
+j	大樹	たいじゅ	big tree
+j	大樹	たいじゆ	big tree
+j	大水	たいすい	flood
+j	大汗	たいかん	モンゴル帝国の支配者（皇帝）の称号。
+j	大江	たいこう	a surname
+j	大洋	たいよう	great sea
+j	大浪	たいろう	大きな波。
+j	大海	たいかい	ocean
+j	大満	たいまん	傲ること。
+j	大漢	たいかん	大男。
+j	大漸	たいぜん	（特に天子の）病気が次第に悪くなること。
+j	大潦	たいろう	大水。
+j	大瀛	たいえい	大海。
+j	大牢	たいろう	古代中国において天子が神へ捧げた牛・羊・豚などの供…
+j	大物	たいぶつ	大きな物。おおもの。
+j	大獄	たいごく	重大な犯罪、事件により多くの人が検挙され、投獄され…
+j	大用	たいよう	（たいよう）重要なはたらき。重大な要件。重要なはた…
+j	大疫	たいえき	広い範囲に拡大した疫病。
+j	大白	たいはく	大きな盃。大盃。
+j	大盃	たいはい	大きな盃。
+j	大盞	たいさん	大きな盃。大杯。
+j	大盤	たいばん	a tray for carrying food …
+j	大石	たいせき	a surname
+j	大砲	たいはう	gun
+j	大砲	たいほう	gun
+j	大社	たいしゃ	an especially large or hi…
+j	大秦	たいしん	中国漢代、ローマ帝国に対する呼称。
+j	大空	たいくう	firmament; heavens; sky
+j	大笑	たいせう	uproarious laughter
+j	大節	たいせつ	大きな節操。
+j	大簡	たいかん	簡略すぎるさま。
+j	大粮	たいろう	律令時代において、下級の役人に支給された米・塩・布…
+j	大系	たいけい	一つのテーマのもとに、主要な項目を一定の順序に系統…
+j	大綱	たいこう	fundamental principles; o…
+j	大編	たいへん	長く雄大に書かれた編章の詩歌や文章。
+j	大罪	たいざい	grave sin; deadly sin; gr…
+j	大群	たいぐん	a large group of people o…
+j	大老	たいろう	尊敬される高齢の賢人。
+j	大聖	たいせい	（だいしょう）仏の尊称。
+j	大臣	たいしん	a government minister of …
+j	大舶	たいはく	大きな船舶。
+j	大船	たいせん	大きな船。
+j	大艦	たいかん	大きな軍艦。
+j	大著	たいちょ	
+j	大葬	たいそう	天皇・太皇太后・皇太后・皇后の葬儀。
+j	大薊	たいけい	milk thistle, Silybum mar…
+j	大薬	たいやく	非常に高価な薬。
+j	大藩	たいはん	石高（領地）の大きい藩。
+j	大要	たいよう	gist, summary, outline, m…
+j	大観	たいかん	wide view, broad survey
+j	大計	たいけい	大規模な計画。遠大な計画。
+j	大賢	たいけん	非常に賢いこと。また、そのような人。賢人。
+j	大赦	たいしゃ	amnesty
+j	大身	たいしん	高い身分の者。高位で禄が多い者。
+j	大軍	たいぐん	large army
+j	大輦	たいれん	王の手車（車輪のついた輦）。
+j	大輪	たいりん	large-flowered
+j	大造	たいぞう	天皇の慶事により大赦すること。
+j	大遠	たいえん	極めて遠いこと。また、そのようなさま。極遠。
+j	大邱	たいきう	Daegu (a city in South Ko…
+j	大酒	たいしゅ	たくさんの量の酒を飲むこと。
+j	大酔	たいすい	酒にひどく酔うこと。
+j	大銜	たいがん	大官。高官。
+j	大陸	たいりく	a continent
+j	大隠	たいいん	総てを悟りきり、俗事に惑わされない超越者。
+j	大難	たいなん	大きな災難や難儀。
+j	大雪	たいせつ	heavy snow
+j	大震	たいしん	非常に被害が大きい地震。大地震。
+j	大青	たいせい	アブラナ科の二年草。中国原産。葉は青色染料の原料と…
+j	大願	たいがん	大きな願い。
+j	大魁	たいかい	心が広く立派なこと。また、そのようなさま。
+j	大魚	たいぎょ	a big fish
+j	大麻油	たいまゆ	麻の実からとる油。食用や塗料の原料に使用される。あ…
+j	天従	たかつぐ	a male given name
+j	天晴	たかはる	a male given name
+j	太一	たいいつ	a male given name
+j	太乙	たいいつ	古代中国の思想で万物の根源。
+j	太僕	たいぼく	古代中国の九卿の一つで、車馬や牧畜を司る官名。
+j	太公	たいこう	父、祖父に対する尊称。
+j	太刀魚	たちうお	Largehead hairtail, Trich…
+j	太刀魚	タチウオ	Largehead hairtail, Trich…
+j	太原	たいげん	Taiyuan (a prefecture-lev…
+j	太后	たいこう	an empress dowager
+j	太孫	たいそん	皇位に就く地位にある皇孫。皇太孫。
+j	太守	たいしゅ	viceroy
+j	太宗	たいそう	東アジアで、太祖に次ぐ功績のあった皇帝の廟号。
+j	太山	たいざん	高く大きな山。
+j	太平	たいへい	peaceful
+j	太満	たいまん	非常に驕慢なこと。また、そのようなさま。
+j	太牢	たいろう	大牢の別表記。c
+j	太甚	たいじん	程度が甚だしいさま。
+j	太白	たいはく	「太白星」の略。
+j	太監	たいかん	中国明、清の時代、宦官の官庁の長官。
+j	太簇	たいそう	中国音楽の十二律の一つ。黄鐘より二律高い。
+j	太簡	たいかん	粗末なこと。
+j	太腹	たいふく	大きいはら。
+j	太閤	たいこう	a regent
+j	太陰	たいいん	great yin, ⚏
+j	太陰	たいおん	great yin, ⚏
+j	太陽	たいやう	the sun
+j	太陽	たいよう	the sun
+j	太鼓師	たいこし	太鼓を製作する技師。
+j	威仁	たけひと	a male given name
+j	孝之	たかゆき	a male given name
+j	孝典	たかのり	a male given name
+j	孝好	たかよし	a male given name
+j	孝宏	たかひろ	a male given name
+j	孝富	たかとみ	a male given name
+j	孝幸	たかゆき	a male given name
+j	孝彦	たかひこ	a male given name
+j	孝征	たかゆき	a male given name
+j	孝徳	たかのり	a male given name
+j	孝憲	たかのり	a male given name
+j	孝政	たかまさ	a male given name
+j	孝昭	たかあき	a male given name
+j	孝浩	たかひろ	a male given name
+j	孝義	たかよし	a male given name
+j	孝行	たかつら	filial piety
+j	孝行	たかゆき	filial piety
+j	孝道	たかみち	filial piety, filial duty
+j	孟紀	たけのり	a male given name
+j	宅トレ	たくとれ	home exercise, home train…
+j	宅トレ	たくトレ	home exercise, home train…
+j	宅三	たくぞう	a male given name
+j	宅建	たっけん	宅地建物取引。
+j	宅浪	たくらう	浪人生が予備校などに通わず自宅で学習すること。
+j	宅浪	たくろう	浪人生が予備校などに通わず自宅で学習すること。
+j	宅番	たくばん	家の番をする人。
+j	宅診	たくしん	医師がその自宅で患者を診察するここと。
+j	宅配	たくはい	home delivery
+j	宅録	たくろく	recording at home
+j	宜之	たかゆき	a male given name
+j	容易い	たやすい	easy, simple, not difficu…
+j	対する	たいする	to pertain to
+j	対バン	たいばん	music event featuring mul…
+j	対バン	たいバン	music event featuring mul…
+j	対人	たいじん	being towards another per…
+j	対代	たいしろ	寝殿造の建物で寝殿の左右、後方の建物（対屋）を簡略…
+j	対偶	たいぐう	命題「pならばqである」に対して、前件と後件をそれ…
+j	対内	たいない	国内、組織内に対して関わること。
+j	対処	たいしょ	coping, handling
+j	対処	たいしよ	coping, handling
+j	対勘	たいかん	両者を突き合わせて考えること。
+j	対合	たいごう	（たいごう）細胞が減数分裂する際、染色体どうしが接…
+j	対向	たいかう	facing, being opposite
+j	対向	たいこう	facing, being opposite
+j	対外	たいがい	being external, in partic…
+j	対審	たいしん	対立する当事者が法廷において、主張を述べること。
+j	対対	たいたい	お互いに対等であること。
+j	対岸	たいがん	opposite shore, the other…
+j	対席	たいせき	向かい合って座ること。
+j	対影	たいえい	「擬本影」に同じ。
+j	対応	たいおう	correspondence to
+j	対戦	たいせん	competition, especially f…
+j	対手	たいしゅ	相手。
+j	対抗	たいこう	opposition
+j	対揚	たいよう	釣りあっていること。対等。匹敵。
+j	対数	たいすう	logarithm
+j	対日	たいにち	日本に対すること。
+j	対映	たいえい	対応するものとして存在すること。
+j	対格	たいかく	accusative case
+j	対案	たいあん	既に出ている案に対する別の案。
+j	対決	たいけつ	confrontation, face-off, …
+j	対法	たいほう	仏教の教説の研究・思想体系、およびそれらの解説書・…
+j	対独	たいどく	ドイツに対すること。
+j	対生	たいせい	植物の茎や枝の節から二枚の葉が相対するように出るこ…
+j	対眼	たいがん	見合うこと。
+j	対空	たいくう	antiaircraft function
+j	対立	たいりつ	opposition
+j	対等	たいとう	equal
+j	対策	たいさく	plan, measure, step, coun…
+j	対米	たいべい	アメリカ合衆国に対すること。
+j	対練	たいれん	中国武術で対人で行う練習。
+j	対義語	たいぎご	antonym
+j	対者	たいしゃ	何かの対象となる者。競技などの相手。
+j	対聯	たいれん	中国の習俗で、詩句を2句で一組として、元々は門柱や…
+j	対艦	たいかん	艦船からの攻撃に対応すること。艦船を攻撃して破壊す…
+j	対英	たいえい	イギリスに対すること。
+j	対角	たいかく	opposite angle - in the q…
+j	対訳	たいやく	bilingual (e.g. of a book…
+j	対談	たいだん	dialogue
+j	対質	たいしつ	訴訟で被告、原告の証拠、証言などが食い違う時に、双…
+j	対蹠	たいしょ	向かい合った足の裏のように関係が正反対であること。
+j	対蹠	たいせき	向かい合った足の裏のように関係が正反対であること。
+j	対辺	たいへん	opposite side
+j	対陣	たいじん	敵の陣と向かい合って陣を張ること。
+j	対面	たいめん	an interview, meeting
+j	対韓	たいかん	韓国に対すること。
+j	対飲	たいいん	向かい合って酒を飲むこと。差しで酒を飲むこと。
+j	尊い	たっとい	noble; exalted; sacred
+j	尊い	たつとい	noble; exalted; sacred
+j	尊い	たふとい	noble; exalted; sacred
+j	尊ぶ	たっとぶ	to respect, to value, to …
+j	尊ぶ	たつとぶ	to respect, to value, to …
+j	尊ぶ	たふとぶ	to respect, to value, to …
+j	尋ねる	たずねる	ask (a question)
+j	對岸	たいがん	
+j	對聯	たいれん	
+j	小鳥遊	たかなし	a surname
+j	尚典	たかのり	a male given name
+j	尚史	たかふみ	a male given name
+j	尚広	たかひろ	a male given name
+j	岱山	たいざん	大きな山。
+j	岱赭	たいしゃ	代赭の異表記。
+j	岳人	たけひと	a male given name
+j	岳洋	たけひろ	a male given name
+j	峰弘	たかひろ	a male given name
+j	峰秀	たかひで	a male given name
+j	島嶼	たうしよ	islands large and small
+j	崇之	たかゆき	a male given name
+j	崇伸	たかのぶ	a male given name
+j	崇兆	たかよし	a male given name
+j	崇光	たかみつ	a male given name
+j	崇博	たかひろ	a male given name
+j	崇幸	たかゆき	a male given name
+j	崇彦	たかひこ	a male given name
+j	崇明	たかあき	a male given name
+j	崇永	たかひさ	a male given name
+j	崇行	たかゆき	a male given name
+j	帯する	たいする	〔武具を、特に刀を〕身に付ける。
+j	帯佩	たいはい	刀などを身につけること。また、その姿。
+j	帯刀	たいとう	体に刀を帯びること。また、その刀。佩刀。
+j	帯剣	たいけん	体に剣を帯びること。また、そのような剣。佩刀。帯刀。
+j	帯勲	たいくん	the wearing of an officia…
+j	帯同	たいどう	共に連れて行くこと。同行すること。同伴。
+j	帯回	たいかい	連れて帰ること。
+j	帯域	たいいき	帯状の範囲。地帯。一帯。
+j	帯環	たいかん	佩玉を帯びること。
+j	帯芥	たいかい	小さなとげやあくた。
+j	帯説	たいせつ	反対の、または対をなす意味の漢字で構成される二字熟…
+j	帯鉤	たいこう	春秋戦国時代から後漢時代にかけて使用された革製の帯…
+j	帯電	たいでん	being electrified; being …
+j	度々	たびたび	often, frequently
+j	建て増し	たてまし	
+j	建て網	たてあみ	a fish-trap, a set net
+j	建具屋	たてぐや	建具を作って売る店。
+j	建前	たてまえ	official policy or positi…
+j	建物	たてもの	
+j	建紀	たけのり	a male given name
+j	当代	たうだい	the present age; modern t…
+j	当会	たうかい	our 会 (kai, “association,…
+j	当別	たうべつ	Tōbetsu (a town in Ishika…
+j	当年	たうねん	this year (i.e. the curre…
+j	当店	たうてん	this store
+j	当惑	たうわく	bewilderment
+j	当来	たうらい	afterlife
+j	当確	たうかく	当選確実。
+j	当社	たうしや	our company
+j	当籤	たうせん	winning a lottery
+j	当該	たうがい	the applicable, relevant,…
+j	当面	たうめん	now, for the moment
+j	待対	たいたい	関係しあっていること。
+j	待望	たいばう	waiting eagerly, looking …
+j	待望	たいぼう	waiting eagerly, looking …
+j	待漏	たいろう	参内する時刻を待つこと。
+j	待球	たいきう	waiting for easy pitches
+j	待遇	たいぐう	reception of customers, c…
+j	待間	たいかん	時間待ちをすること。
+j	待除	たいじょ	叙任されるのを待つこと。
+j	忐忑	たんとく	気が気でないこと。そのさま。
+j	忠一	ただかず	a male given name
+j	忠之	ただゆき	a male given name
+j	忠克	ただかつ	a male given name
+j	忠利	ただとし	a male given name
+j	忠則	ただのり	a male given name
+j	忠厚	ただあつ	honest and considerate
+j	忠実	ただざね	faithful, loyal, devoted
+j	忠実	ただみつ	faithful, loyal, devoted
+j	忠寛	ただひろ	a male given name
+j	忠広	ただひろ	a male given name
+j	忠弘	ただひろ	a male given name
+j	忠彦	ただひこ	a male given name
+j	忠敬	ただたか	a male given name
+j	忠昭	ただあき	a male given name
+j	忠晴	ただはる	a male given name
+j	忠洋	ただひろ	a male given name
+j	忠節	ただとき	unwavering loyalty, devot…
+j	忠義	ただよし	loyal, faithful
+j	忠臣	ただおみ	a loyal vassal, retainer,…
+j	忠行	ただゆき	a male given name
+j	怠厭	たいえん	なおざり。
+j	怠嫚	たいまん	怠慢なこと。また、そのようなさま。
+j	怠学	たいがく	怠けて学校に行かないこと。
+j	怠惰な	たいだな	
+j	怠慢	たいまん	negligent
+j	怠懈	たいかい	気が緩むこと。
+j	怠納	たいのう	納付の義務があるものが定められた期限までに納付しな…
+j	怠解	たいかい	怠懈。
+j	愉しむ	たのしむ	
+j	態勢	たいせい	state; situation; posture
+j	態様	たいよう	state, condition, situati…
+j	憝国	たいこく	国を伐つこと。
+j	戦い	たたかい	a fight, battle, or by ex…
+j	戦い	たたかひ	a fight, battle, or by ex…
+j	戦う	たたかう	
+j	戯言	たはごと	nonsense, balderdash
+j	戯言	たわごと	nonsense, balderdash
+j	戴冠	たいかん	coronation
+j	戴白	たいはく	頭髪が白髪であること。また、そのような人。
+j	戴眼	たいがん	上眼。
+j	手向ける	たむける	to offer something to a g…
+j	手底	たなそこ	palm
+j	手弱女	たおやめ	a beautiful and tender la…
+j	手弱女	たをやめ	a beautiful and tender la…
+j	打令	たりょん	taryong (traditional Kore…
+j	打令	タリョン	taryong (traditional Kore…
+j	托する	たくする	〔物品や身体を〕重みをしっかり支えさせるようにして…
+j	托葉	たくよう	植物の葉柄やその基にある葉のようなもの。
+j	托鉢	たくはつ	religious mendicancy
+j	択一	たくいつ	choosing one option
+j	択抜	たくばつ	たくさんある中から選び出すこと。選抜。
+j	択言	たくげん	言葉を選ぶこと。
+j	担任	たんにん	being in charge
+j	担子器	たんしき	
+j	担当	たんたう	charge of, end, responsib…
+j	担当	たんとう	charge of, end, responsib…
+j	担税	たんぜい	租税を負担すること。
+j	担送	たんそう	負傷者や病人を担架で搬送すること。
+j	拓一	たくいち	a male given name
+j	拓本	たくほん	squeeze (an impression of…
+j	拓郎	たくろう	a male given name
+j	掌	たなうら	a palm
+j	探偵	たんてい	a detective (person emplo…
+j	探山	たんざん	a male given name
+j	探抉	たんけつ	暴くこと。
+j	探査機	たんさき	probe (electrode or other…
+j	探検	たんけん	expedition, exploration
+j	探求	たんきう	quest
+j	探海	たんかい	海上や海中を探索すること。
+j	探知機	たんちき	detector, locator
+j	探索	たんさく	search, lookup, explorati…
+j	探聞	たんぶん	探って聞き出すこと。
+j	探訪	たんばう	inquiry (investigative vi…
+j	探訪	たんぼう	inquiry (investigative vi…
+j	探針	たんしん	probing pin; probe
+j	探鉱	たんこう	prospecting
+j	揺蕩い	たゆたい	bobbing, to moving about …
+j	揺蕩い	たゆたひ	bobbing, to moving about …
+j	揺蕩い	たゆとい	bobbing, to moving about …
+j	揺蕩う	たゆたう	to bob, to move about unc…
+j	揺蕩う	たゆたふ	to bob, to move about unc…
+j	揺蕩う	たゆとう	to bob, to move about unc…
+j	摶泥	たんでい	古代中国で砂の混じった粘土でつくられた土器。粗陶。
+j	摶空	たんくう	空を旋回すること。
+j	摶結	たんけつ	団結すること。
+j	撓める	たわめる	to bend something, to twi…
+j	擡頭	たいとう	「台頭」の本来の表記。
+j	擢用	たくよう	多くのものの中から選抜して用いること。
+j	攩網	たもあみ	a hand-held fishing net
+j	敦徳	たいとく	厚徳。
+j	敬之	たかゆき	a male given name
+j	敬典	たかのり	a male given name
+j	敬包	たかかね	a male given name
+j	敬幸	たかゆき	a male given name
+j	敬章	たかあき	a male given name
+j	斃れる	たおれる	
+j	断ち切る	たちきる	to cut apart (cloth, pape…
+j	断么	たんやお	
+j	断么	タンヤオ	
+j	旅	たびする	a journey; travel
+j	旅する	たびする	
+j	旅人	たびうど	one who travels: a travel…
+j	旅人	たびにん	one who travels: a travel…
+j	旅人	たびびと	one who travels: a travel…
+j	旅先	たびさき	destination, where one st…
+j	旅立ち	たびだち	departure on a trip/journ…
+j	旅立つ	たびだつ	to go forth, to start off…
+j	旦夕	たんせき	morning and evening
+j	旦日	たんじつ	明日。あした。
+j	旦明	たんめい	明け方。夜明け。
+j	旦昏	たんこん	朝夕。
+j	旦月	たんげつ	月旦。
+j	昂明	たかあき	a male given name
+j	替懈	たいかい	棄てて怠ること。
+j	替漏	たいろう	隙間。
+j	替解	たいかい	替懈。
+j	束ねる	たばねる	tie up in a bundle
+j	松明	たいまつ	a torch (stick with flame…
+j	栄大	たかひろ	a male given name
+j	桃源	たうげん	Shangri-La; utopia
+j	桃花	たうくわ	a peach blossom
+j	棚橋	たなはし	a surname
+j	楤木	たらのき	Japanese angelica tree (A…
+j	楤木	タラノキ	Japanese angelica tree (A…
+j	楯突く	たてつく	to defy; to disobey
+j	楽しい	たのしい	pleasant, delightful, fun…
+j	楽しく	たのしく	
+j	楽しみ	たのしみ	joy
+j	楽しむ	たのしむ	to enjoy oneself
+j	横画	たてかく	漢字の横に引く画。横棒。
+j	橈骨	たうこつ	a radius (bone (human))
+j	橘	たちばな	Citrus tachibana, a speci…
+j	橘	タチバナ	Citrus tachibana, a speci…
+j	橘樹	たちばな	a district of Musashi, Ja…
+j	歎恨	たんこん	残念がること。
+j	歎息	たんそく	嘆いて溜め息をつくこと。
+j	正しい	ただしい	true, straight, unwarped,…
+j	正しく	ただしく	「正しい」の連用形。「ただしい」を参照。
+j	正佳	ただよし	a male given name
+j	正勝	ただかつ	a male given name
+j	正彦	ただひこ	a male given name
+j	正義	ただよし	justice
+j	武人	たけひと	soldier; warrior
+j	武任	たけとう	a male given name
+j	武俊	たけとし	a male given name
+j	武内	たけうち	a surname
+j	武則	たけのり	a male given name
+j	武博	たけひろ	a male given name
+j	武士	たけひと	a professional warrior, a…
+j	武宮	たけみや	Takemiya, a Japanese surn…
+j	武広	たけひろ	a male given name
+j	武彦	たけひこ	a male given name
+j	武敏	たけとし	a male given name
+j	武文	たけふみ	a male given name
+j	武春	たけはる	a male given name
+j	武正	たけまさ	a surname
+j	武治	たけはる	a male given name
+j	武続	たけつぐ	a male given name
+j	武美	たけよし	a male given name
+j	武芳	たけよし	a male given name
+j	武蔵	たけくら	Musashi Province: a regio…
+j	武蔵	たけぞう	Musashi Province: a regio…
+j	歹毒	たいどく	悪毒。
+j	殆庶	たいしょ	近いさま。
+j	殫竭	たんけつ	尽き果てること。
+j	段当	たんとう	田畑の一反（一段）当りの量。
+j	毅彦	たけひこ	a male given name
+j	民安	たみやす	a surname
+j	沢山	たくさん	many, numerous
+j	沢庵	たくあん	takuan (half-dried daikon…
+j	沢庵	たくわん	takuan (half-dried daikon…
+j	沢瀉	たくしゃ	threeleaf arrowhead, Sagi…
+j	沢田	たくでん	a surname
+j	泰一	たいいち	a male given name
+j	泰一	たいいつ	a male given name
+j	泰初	たいしょ	太初。
+j	泰国	たいこく	Thailand (a country in So…
+j	泰安	たいあん	心配事などなく安らかなこと。
+j	泰山	たいざん	Mount Tai
+j	泰平	たいへい	世の中が平和なこと。
+j	泰折	たいせつ	祭地の壇。
+j	泰樹	たいじゅ	a male given name
+j	泰訳	たいやく	タイ語に訳すこと。また、その文章。
+j	泰輔	たいすけ	a male given name
+j	泰階	たいかい	天子、諸侯、庶民をかたどる星。
+j	洮米	たうまい	washing rice
+j	淘去	たうきょ	washing away
+j	淘来	たうらい	washing near
+j	淡々	たんたん	
+j	淡月	たんげつ	光が淡い月。おぼろづき。
+j	淡水	たんすい	fresh water
+j	淡泊	たんぱく	色・味などがしつこくないこと。
+j	淡淡	たんたん	calmly, quietly
+j	淡然	たんぜん	あっさりしていること。淡泊なこと。また、そのような…
+j	淡白	たんぱく	frank, candid
+j	淡碧	たんぺき	淡い青色。
+j	淡粧	たんそう	あっさりした化粧。薄化粧。
+j	淡紅	たんこう	淡い紅色。淡紅色。うすべに。
+j	淡菜	たんさい	貽貝の別名。
+j	淡薄	たんぱく	淡泊の異表記。
+j	淡雲	たんうん	薄い雲。薄雲。
+j	淡青	たんせい	白みを帯びた青色。
+j	淡麗	たんれい	（主に酒などの）口当たりがさっぱりしていて癖がない…
+j	淡黄	たんこう	light yellow
+j	湍決	たんけつ	決壊すること。
+j	湛える	たたえる	fill to the brim
+j	湛山	たんざん	a male given name
+j	湛湛	たんたん	大量の水がたたえられているさま。
+j	湯円	たんえん	tangyuan
+j	湯麺	たんめん	「タンメン」を参照。
+j	滔滔	たうたう	torrential (of flowing wa…
+j	滝口	たきぐち	a surname
+j	滝壺	たきつぼ	waterfall basin; basin of…
+j	滝川	たかかは	rapids
+j	滝川	たかかわ	rapids
+j	滝川	たかがは	rapids
+j	滝川	たかがわ	rapids
+j	滝川	たきかは	rapids
+j	滝川	たきかわ	rapids
+j	滝川	たきがは	rapids
+j	滝川	たきがわ	rapids
+j	滝徳	たきのり	a male given name
+j	滝本	たきもと	a surname
+j	滞在	たいざい	stay
+j	滞拙	たいせつ	渡世が下手なこと。
+j	滞日	たいにち	日本への滞在。
+j	滞欧	たいおう	staying in Europe
+j	滞水	たいすい	停滞して流れない水。
+j	滞泥	たいでい	拘泥すること。
+j	滞淹	たいえん	長く滞ること。
+j	滞獄	たいごく	裁判が長期化すること。
+j	滞礙	たいがい	妨げ。
+j	滞積	たいせき	物事が滞りたまること。
+j	滞空	たいくう	生物や航空機などが空中に留まること。
+j	滞米	たいべい	staying in the United Sta…
+j	滞納	たいのう	nonpayment, arrears
+j	滞船	たいせん	船を港湾などに停泊させること。また、その船。
+j	滞陣	たいじん	ある場所に長期間陣を張ること。
+j	滞麑	たいげい	staying in Kagoshima
+j	漂う	ただよう	to float
+j	漂う	ただよふ	to float
+j	潭奥	たんおう	奥深い場所。
+j	潭月	たんげつ	深く水をたたえた水面に映る月。
+j	潭潭	たんたん	大量の水がたたえられているさま。
+j	澹月	たんげつ	光が淡い月。おぼろづき。
+j	澹泊	たんぱく	「淡泊」の別表記。
+j	澹澰	たんれん	漣。
+j	澹澹	たんたん	「淡淡」に同じ。
+j	澹然	たんぜん	静かで安らかなさま。澹乎。
+j	炊き出し	たきだし	cooking and handing out r…
+j	炭化	たんくわ	carbonization
+j	炭坑	たんかう	coalpit
+j	炭坑	たんこう	coalpit
+j	炭塵	たんじん	炭坑内の空中に浮遊する石炭の微細な粉。
+j	炭安	たんあん	ammonium carbonate
+j	炭層	たんそう	地中の石炭の層。
+j	炭泥	たんでい	腐泥を参照。
+j	炭田	たんでん	石炭の採掘が可能である地域。
+j	炭質	たんしつ	木炭や石炭の性質。
+j	炭酸	たんさん	carbonic acid
+j	炭鉱	たんこう	coal mine
+j	炲烟	たいえん	煤と煙。煤煙。
+j	点前	たてまえ	tea ceremony procedures, …
+j	点前	たてまへ	tea ceremony procedures, …
+j	為景	ためかげ	a male given name
+j	爛れる	ただれる	be inflamed, to sore, fes…
+j	狸藻	たぬきも	bladderwort, Utricularia …
+j	狸藻	タヌキモ	bladderwort, Utricularia …
+j	猛丸	たけまる	a male given name
+j	玉の緒	たまのお	a beaded string, especial…
+j	玉の緒	たまのを	a beaded string, especial…
+j	玉串	たまぐし	offertory sakaki-tree bra…
+j	玉偏	たまへん	漢字の部首「⽟」が偏である場合の呼称。
+j	玉城	たましろ	a surname from Okinawan
+j	玉川	たまがわ	Tamagawa (a former town i…
+j	玉村	たまむら	a surname
+j	玉石	たまいし	wheat and chaff, the good…
+j	玉突き	たまつき	synonym of ビリヤード (biriyād…
+j	玉茎	たまくき	penis (literally, “jade s…
+j	玉茎	たまぐき	penis (literally, “jade s…
+j	玉葱	たまねぎ	onion, Allium cepa
+j	玉葱	タマネギ	onion, Allium cepa
+j	玉虫	たまむし	Chrysochroa fulgidissima,…
+j	玉虫	タマムシ	Chrysochroa fulgidissima,…
+j	玉響	たまゆら	brief moment
+j	玳宴	たいえん	玳瑁の筵席。玳筵。
+j	玳瑁	たいまい	hawksbill sea turtle, Ere…
+j	玳瑁	タイマイ	hawksbill sea turtle, Ere…
+j	玳筵	たいえん	玳瑁の筵席。
+j	珠算	たまざん	reckoning by the abacus; …
+j	甕	たしらか	large earthenware pot for…
+j	田井中	たいなか	a surname
+j	田所	たどころ	a surname
+j	田植機	たうえき	稲の苗を水田に移植する農業機械。
+j	田畑	たはたけ	fields, specifically fiel…
+j	田雲雀	たひばり	water pipit (Anthus spino…
+j	田雲雀	タヒバリ	water pipit (Anthus spino…
+j	田鰻	たうなぎ	Asian swamp eel, Monopter…
+j	田鰻	タウナギ	Asian swamp eel, Monopter…
+j	田鼠	たねずみ	synonym of 野鼠 (no-nezumi,…
+j	田鼠	タネズミ	synonym of 野鼠 (no-nezumi,…
+j	痰壷	たんつぼ	spittoon
+j	痰壺	たんつぼ	
+j	痰血	たんけつ	痰。
+j	癭蜂	たまばち	gall wasp
+j	癭蜂	タマバチ	gall wasp
+j	癭蝿	たまばえ	gall midge, an insect of …
+j	癭蝿	タマバエ	gall midge, an insect of …
+j	癭蠅	たまばえ	gall midge
+j	癭蠅	タマバエ	gall midge
+j	登俊	たかとし	a male given name
+j	直ちに	ただちに	immediately, instantly
+j	眈眈	たんたん	鋭い眼差しで獲物をねらうさま。
+j	短パン	たんぱん	shorts
+j	短パン	たんパン	shorts
+j	短ラン	たんらん	標準的な学ランより丈が短いもの。
+j	短信	たんしん	a brief note (report, let…
+j	短冊	たんざく	tanzaku; A small strip of…
+j	短処	たんしょ	人や物で、他の同種の人やものに比べて劣っている性質。
+j	短刀	たんとう	tanto (a traditional Japa…
+j	短剣	たんけん	dagger (a stabbing weapon)
+j	短命	たんめい	short-lived
+j	短大	たんだい	短期大学の略。
+j	短径	たんけい	（楕円などの）短い方の径。
+j	短慮	たんりょ	quick temper; imprudence
+j	短所	たんしょ	demerit, failing, shortco…
+j	短所	たんしよ	demerit, failing, shortco…
+j	短折	たんせつ	若くして死ぬこと。
+j	短日	たんじつ	short time
+j	短棍	たんこん	中国武術で用いられる短い棍棒ならびに多節棍。
+j	短棒	たんぼう	長さが約一尺の丸木の棒。
+j	短槍	たんそう	柄の短い槍。
+j	短檠	たんけい	背が低い灯火台。
+j	短毛	たんもう	短い毛。動物の短い体毛。
+j	短牘	たんとく	寸楮。
+j	短眠	たんみん	平均的な時間より短くしか眠らないこと。
+j	短箋	たんせん	短い用紙。
+j	短絡	たんらく	short, short circuit
+j	短編	たんぺん	short stories
+j	短艇	たんてい	小型の舟。ボート。端艇。
+j	短軸	たんじく	楕円の直交する二本の軸のうち、短い方の軸。
+j	短辺	たんぺん	短い方の辺。縦と横のうち、短い方。
+j	短針	たんしん	the short hand of a clock…
+j	短錘	たんすい	短い柄の錘。
+j	短靴	たんぐつ	足の踝まで入る靴。
+j	短鞭	たんべん	馬術で用いる短い鞭。
+j	短音	たんおん	short vowel
+j	短頭	たんとう	頭部を上から見たとき前後の長さに比して左右の長さが…
+j	短髪	たんぱつ	short hair
+j	確かに	たしかに	
+j	磔刑	たくけい	crucifixion (as punishmen…
+j	磔刑	たっけい	crucifixion (as punishmen…
+j	磔殺	たくさつ	磔にして殺すこと。磔刑に処すこと。
+j	礫	たびいし	a small stone or pebble, …
+j	称える	たたえる	praise
+j	称える	たたへる	praise
+j	種なし	たねなし	
+j	種村	たねむら	a surname
+j	種無し	たねなし	seedless
+j	種馬	たねうま	stud horse; stallion
+j	立ちん坊	たちんぼ	the act of standing conti…
+j	立ち上げ	たちあげ	starting up (a business e…
+j	立ち会う	たちあう	
+j	立ち位置	たちいち	立っている位置（場所）。
+j	立ち入る	たちいる	to trespass
+j	立ち去る	たちさる	to leave; to depart
+j	立ち寄る	たちよる	stop by, drop in
+j	立ち漕ぎ	たちこぎ	standing while pedaling a…
+j	立ち聞き	たちぎき	eavesdropping
+j	立ち読み	たちよみ	reading (a book or a maga…
+j	立ち退き	たちのき	
+j	立ち退く	たちのく	to leave, depart from, ev…
+j	立ち食い	たちぐい	standing and eating
+j	立ち食い	たちぐひ	standing and eating
+j	立て坑	たてこう	地表から縦方向に掘られた坑道。
+j	立偏	たつへん	漢字の部首「⽴」が偏である場合の呼称。
+j	立崎	たつさき	A nickname for the 﨑 char…
+j	立崎	たつざき	A nickname for the 﨑 char…
+j	立川	たちかわ	Tachikawa (a city in Toky…
+j	立彦	たつひこ	a male given name
+j	立楽	たちがく	起立したままで雅楽を演奏すること。また、その雅楽。
+j	立石	たていし	a surname
+j	立花	たちばな	a surname
+j	立花	たてばな	a surname
+j	立華	たてばな	仏前に供えるため花を花瓶に挿し立てて生けること。立…
+j	竜人	たつひと	a male given name
+j	竜巻	たつまき	a tornado, a twister
+j	竜彦	たつひこ	a male given name
+j	竜義	たつよし	a male given name
+j	竪坑	たてこう	鉱山などで通気や人や物の運搬のため、垂直方向に掘ら…
+j	竪穴	たてあな	pit, shaft
+j	竪笛	たてぶえ	
+j	端倪	たんげい	conjecturing
+j	端山	たんざん	a male given name
+j	端山	たんやま	a male given name
+j	端整	たんせい	容姿が美しく整っていること。
+j	端書	たんしょ	はしがき。
+j	端月	たんげつ	正月の異称。
+j	端末	たんまつ	terminal
+j	端正	たんせい	handsome, chiseled (face)
+j	端潔	たんけつ	潔いこと。また、そのようなさま。
+j	端点	たんてん	直線や曲線の両端の点。
+j	端的	たんてき	frank; direct; concise
+j	端緒	たんしょ	start; beginning
+j	端艇	たんてい	小型の舟。ボート。短艇。
+j	端隅	たんぐう	片隅。
+j	端首	たんしゅ	物事の始まりの部分。端緒。
+j	端麗	たんれい	graceful and neat
+j	竹の子	たけのこ	
+j	竹ひご	たけひご	
+j	竹下	たけした	a surname
+j	竹中	たけなか	a surname
+j	竹串	たけぐし	bamboo skewer
+j	竹光	たけみつ	traditional Japanese bamb…
+j	竹内	たけうち	a surname
+j	竹原	たけはら	Takehara (a city in Hiros…
+j	竹取	たけとり	bamboo cutter
+j	竹垣	たけがき	bamboo fence
+j	竹富	たけとみ	an island of Okinawa Pref…
+j	竹岡	たけおか	a surname
+j	竹島	たけしま	Takeshima, Liancourt Rock…
+j	竹本	たけもと	a surname
+j	竹材	たけざい	
+j	竹村	たけむら	a surname
+j	竹秀	たけひで	a male given name
+j	竹箆	たけべら	「竹篦」の別表記。
+j	竹篦	たけべら	(しっぺい) 禅で用いる竹製の棒。瞑想する者の気の…
+j	竹籠	たけかご	a basket made of woven ba…
+j	竹籤	たけひご	
+j	竹薮	たけやぶ	bamboo grove
+j	竹藪	たかやぶ	bamboo grove; bamboo thic…
+j	竹藪	たけやぶ	bamboo grove; bamboo thic…
+j	竹馬	たけうま	a bamboo horse (bamboo to…
+j	筍	たけのこ	
+j	答拝	たっぱい	相手の拝礼に答える拝礼。
+j	答案	たふあん	answer
+j	篁	たかむら	a surname
+j	糖尿	たうねう	glycosuria
+j	糖蜜	たうみつ	molasses, treacle
+j	糖質	たうしつ	saccharide
+j	経緯	たてぬき	warp and woof, from 経(たて)…
+j	経緯	たてよこ	warp and woof, from 経(たて)…
+j	縦坑	たてこう	
+j	縦書	たてがき	vertical writing
+j	縦書き	たてがき	vertical writing
+j	縦棒	たてばう	vertical line / bar
+j	縦棒	たてぼう	vertical line / bar
+j	縦横	たてよこ	length and breadth
+j	縦波	たてなみ	a longitudinal wave
+j	縦画	たてかく	漢字の縦に引く画。
+j	縦穴	たてあな	
+j	縦笛	たてぶえ	vertical flute
+j	縦糸	たていと	warp
+j	縦組み	たてぐみ	vertical typesetting
+j	縦罫	たてけい	縦方向に引かれた罫線。
+j	縦軸	たてじく	the vertical axis, the y-…
+j	縦長	たてなが	longer in height than in …
+j	耐久	たいきう	endurance
+j	耐乏	たいぼう	貧しい状況を耐え忍ぶこと。
+j	耐冷	たいれい	低い温度に耐える性能。
+j	耐刃	たいじん	刃物で切れにくいこと。
+j	耐労	たいろう	労働に耐えること。また、そのための体力があること。
+j	耐圧	たいあつ	かかる圧力に耐えること。
+j	耐寒	たいかん	寒さに耐えること。
+j	耐弾	たいだん	銃弾による攻撃に耐えること。
+j	耐忍	たいにん	耐え忍ぶこと。
+j	耐性	たいせい	resistance or tolerance (…
+j	耐暑	たいしょ	気温の高さに耐えること。
+j	耐水	たいすい	water-resistance
+j	耐湿	たいしつ	材質が湿気に耐えること。
+j	耐熱	たいねつ	高熱であってもその性質が変化しないこと。高熱に耐え…
+j	耐用	たいよう	durability
+j	耐酸	たいさん	酸におかされにくいこと。
+j	耐雪	たいせつ	積雪や降雪に耐えること。
+j	耐震	たいしん	earthquake resistance
+j	耐音	たいおん	耐音圧の略。
+j	耐風	たいふう	風に絶えられること。
+j	耕す	たがえす	to till, plough
+j	耕す	たがやす	to till, plough
+j	耽昏	たんこん	沈湎すること。
+j	耽楽	たんらく	楽しいことに耽ること。
+j	耽湎	たんめん	酒色に耽ること。耽溺すること。
+j	耽溺	たんでき	indulgence
+j	耽読	たんどく	absorption in reading
+j	胆嚢	たんなう	gall bladder (pear-shaped…
+j	胆嚢	たんのう	gall bladder (pear-shaped…
+j	胆囊	たんのう	内臓のひとつ。肝臓で生成される胆汁を貯蔵する。
+j	胆汁	たんじふ	yellow bile
+j	胆決	たんけつ	はっきりと決断すること。勇断。
+j	胆液	たんえき	「胆汁」に同じ。
+j	胆石	たんせき	gallstones
+j	胆礬	たんばん	chalcanthite
+j	胆管	たんかん	bile duct
+j	胆道	たんどう	肝臓でつくられた胆汁を十二指腸まで送る経路の総称。…
+j	胎内	たいない	母胎の内部。妊娠した女性の子宮の中。
+j	胎動	たいどう	quickening (noticeable mo…
+j	胎孕	たいよう	孕むこと。妊娠すること。
+j	胎教	たいけう	antenatal education (i.e.…
+j	胎毒	たいどく	乳幼児の頭部や顔に出る皮膚病。かつて、胎内で受けた…
+j	胎生	たいせい	being viviparous, vivipar…
+j	胎盤	たいばん	a placenta
+j	能功	たかのり	a male given name
+j	能寒	たいかん	耐寒に同じ。
+j	腕	ただむき	arm
+j	腿節	たいせつ	節足動物の足の付け根から三番目の他の節より一段と大…
+j	膽囊	たんのう	胆嚢の旧字体表記。
+j	苔堦	たいかい	苔むした階。
+j	苔径	たいけい	苔むした径。
+j	苔癬	たいせん	丘疹を主な症状とする皮膚病変の一つ。
+j	苔筵	たいえん	苔のむしろ。苔茵。
+j	苔茵	たいいん	苔の茵。
+j	苔逕	たいけい	苔むした径。
+j	苔類	たいるい	
+j	蒲公英	たんぽぽ	dandelion (plant, wild fl…
+j	蒲公英	タンポポ	dandelion (plant, wild fl…
+j	蓼藍	たであい	Japanese indigo, Persicar…
+j	蓼藍	タデアイ	Japanese indigo, Persicar…
+j	蔕芥	たいかい	小さなとげやあくた。
+j	蕩蕩	たうたう	spacious, grandiose
+j	蛋民	たんみん	Tanka (Chinese boat perso…
+j	蛋白	たんぱく	egg white, albumen
+j	蛋白	タンパク	egg white, albumen
+j	蛋黄	たんおう	yolk
+j	蛋黄	たんこう	yolk
+j	蛸壷	たこつぼ	octopus pot
+j	蛸焼き	たこやき	takoyaki
+j	螳螂	たうらう	a mantis (any of various …
+j	蟷螂	たうらう	a mantis (any of various …
+j	蠆芥	たいかい	些細な事。
+j	褪英	たいえい	色褪せた花びら。
+j	託する	たくする	to entrust (someone) with
+j	託宣	たくせん	an oracle, a divine revel…
+j	託言	たくげん	口実。
+j	託送	たくそう	他者に委託して物品を送ること。
+j	訪ねる	たずねる	call on someone, visit
+j	誉弘	たかひろ	a male given name
+j	誉昭	たかあき	a male given name
+j	誕プレ	たんぷれ	
+j	誕プレ	たんプレ	
+j	誕妄	たんもう	でたらめ。偽り。うそ。
+j	誕譎	たんけつ	取り留めのない嘘。
+j	誕辰	たんしん	birthday
+j	謫居	たっきょ	罪を得て自宅などに引きこもること。
+j	謫所	たくしょ	罪人が配流となった場所。
+j	讃える	たたえる	
+j	谷口	たにぐち	a surname
+j	谷奥	たにおく	a surname
+j	谷川	たにがわ	valley stream, mountain s…
+j	谷底	たにそこ	rock bottom
+j	谷底	たにぞこ	rock bottom
+j	谷本	たにもと	a surname
+j	谷村	たにむら	a surname
+j	貪婪	たんらん	rapaciousness, avarice
+j	貪官	たんかん	corrupt official
+j	貪廉	たんれん	清濁。
+j	貪戻	たんれい	貪欲で道理にそむくこと。また、そのようなさま。
+j	貪欲	たんよく	greedy
+j	貪贓	たんぞう	貪るように賄賂を取ること。
+j	貪黠	たんけつ	欲が深く、狡猾なこと。また、そのようなさま。
+j	貴久	たかひさ	a male given name
+j	貴之	たかゆき	a male given name
+j	貴嗣	たかつぐ	a male given name
+j	貴大	たかひろ	a male given name
+j	貴尋	たかつぐ	a male given name
+j	貴幸	たかゆき	a male given name
+j	貴広	たかひろ	a male given name
+j	貴弘	たかひろ	a male given name
+j	貴彦	たかひこ	a male given name
+j	貴文	たかふみ	a male given name
+j	貴次	たかつぐ	a male given name
+j	貴永	たかひさ	a male given name
+j	貴洋	たかひろ	a male given name
+j	貴浩	たかひろ	a male given name
+j	貴照	たかてる	a male given name
+j	貴皓	たかつぐ	a male given name
+j	貴秀	たかひで	a male given name
+j	貴章	たかあき	a male given name
+j	貴範	たかのり	a male given name
+j	貴継	たかつぐ	a male given name
+j	貴英	たかひで	a male given name
+j	貴行	たかゆき	a male given name
+j	貴裕	たかひろ	a male given name
+j	貴規	たかのり	a male given name
+j	貴詔	たかつぐ	a male given name
+j	貴譜	たかつぐ	a male given name
+j	貸館	たいかん	renting out of a 館 (kan)
+j	貸駭	たいがい	昏愚。
+j	賜る	たまわる	to be granted
+j	賺得	たんとく	騙し取ること。
+j	赧面	たんめん	恥ずかしくて赤面すること。赧顔。
+j	赭石	たいしゃ	代赭の異表記。
+j	足し算	たしざん	addition
+j	足りない	たりない	insufficient, lacking, no…
+j	足りなく	たりなく	
+j	踏襲	たふしふ	emulation, following in s…
+j	躊躇い	ためらい	hesitation
+j	躊躇う	ためらう	to quell or restrain diso…
+j	躊躇う	ためらふ	to quell or restrain diso…
+j	躊躇ふ	ためらふ	
+j	躰道	たいどう	taido
+j	辰彦	たつひこ	a male given name
+j	辰徳	たつのり	a male given name
+j	退任	たいにん	retirement; resignation
+j	退会	たいかい	withdrawal from a group
+j	退勢	たいせい	declining position
+j	退勤	たいきん	getting off work; clockin…
+j	退北	たいほく	敗北すること。
+j	退匿	たいとく	退隠すること。
+j	退去	たいきょ	departure, exit
+j	退営	たいえい	退役し兵営をさること。
+j	退団	たいだん	leaving a group such as a…
+j	退園	たいえん	動物園や植物園など「園」のつく施設から退出すること。
+j	退学	たいがく	dropping out of school
+j	退守	たいしゅ	退き、守ること。
+j	退官	たいかん	retirement from office
+j	退室	たいしつ	departure/exit from a room
+j	退屈	たいくつ	tedious
+j	退席	たいせき	leaving one's seat
+j	退廃	たいはい	decadence
+j	退役	たいえき	retirement from the milit…
+j	退役	たいやく	retirement from the milit…
+j	退悔	たいかい	後悔すること。
+j	退所	たいしょ	withdrawal from a 所 (sho)…
+j	退所	たいしよ	withdrawal from a 所 (sho)…
+j	退散	たいさん	dispersion, scattering aw…
+j	退校	たいこう	在校生が学校を卒業する前にやめるまたはやめさせられ…
+j	退構	たいこう	構内から出ること。
+j	退水	たいすい	溢れ出た水がひくこと。
+j	退治る	たいじる	synonym of 退治する (taiji su…
+j	退治る	たいぢる	synonym of 退治する (taiji su…
+j	退治屋	たいじや	an exterminator
+j	退社	たいしゃ	leaving the office for th…
+j	退紅	たいこう	くすんだ紅色。
+j	退縁	たいえん	仏との縁を遠ざけていくような因縁。
+j	退老	たいろう	歳をとって職務から退き、隠居すること。
+j	退耕	たいこう	官吏をやめて農耕に従事すること。
+j	退船	たいせん	船から退去すること。
+j	退艦	たいかん	艦艇、軍艦から退出すること。
+j	退蔵	たいぞう	物資や金銭を使わずにしまい込むこと。
+j	退行	たいこう	時間や位置を後退させること。
+j	退身	たいしん	身を引くこと。
+j	退軍	たいぐん	軍を引き揚げること。退陣。
+j	退院	たいいん	leaving a hospital
+j	退陣	たいじん	resignation
+j	退隠	たいいん	それまでの職を退き、暇な身となること。
+j	退館	たいかん	leaving a building
+j	退黄	たいこう	淡い黄色。クリーム色。退黄色。
+j	逃去	たうきょ	leaving a place by runnin…
+j	逃逸	たういつ	running away
+j	逮係	たいけい	捕まえて縛ること。
+j	逮獄	たいごく	捕まえて牢獄に入れること。
+j	逮縛	たいばく	捕まえて縛ること。からめとること。
+j	逮繫	たいけい	捕まえて縛ること。
+j	逮鞠	たいきく	捕まえて取り調べること。
+j	逮鞫	たいきく	捕まえて取り調べること。
+j	達する	たっする	to reach, to get up to
+j	達三	たつぞう	a male given name
+j	達之	たつゆき	a male given name
+j	達人	たつじん	a master; an expert
+j	達佳	たつよし	a male given name
+j	達弁	たつべん	流暢な話しぶり。また、そのようなさま。能弁。
+j	達弘	たつひろ	a male given name
+j	達彦	たつひこ	a male given name
+j	達徳	たつのり	a male given name
+j	達成	たっせい	achievement
+j	達明	たつあき	a male given name
+j	達泰	たつひろ	a male given name
+j	達筆	たっぴつ	skilful writing (of calli…
+j	達者	たっしゃ	fluent, proficient, skill…
+j	達見	たっけん	鋭い洞察力を持った見識。
+j	達観	たっかん	a philosophical view, tak…
+j	達觀	たっかん	a philosophical view, tak…
+j	達郎	たつろう	a male given name
+j	違える	たがえる	to change, to make differ…
+j	違える	たがへる	to change, to make differ…
+j	適間	たまひま	by chance, incidentally
+j	郁胤	たかつぐ	a male given name
+j	鍛刀	たんとう	刀を鍛えて作ること。
+j	鍛練	たんれん	金属を練り鍛えること。
+j	鍛造	たんざう	forging metal
+j	鍛造	たんぞう	forging metal
+j	鍛錬	たんれん	physical exercise, work o…
+j	闘う	たたかう	
+j	隆之	たかゆき	a male given name
+j	隆人	たかひと	a male given name
+j	隆信	たかのぶ	a male given name
+j	隆偉	たかひで	a male given name
+j	隆則	たかのり	a male given name
+j	隆博	たかひろ	a male given name
+j	隆史	たかふみ	a male given name
+j	隆大	たかひろ	a male given name
+j	隆好	たかよし	a male given name
+j	隆宜	たかよし	a male given name
+j	隆寛	たかひろ	a male given name
+j	隆峰	たかみね	a male given name
+j	隆幸	たかゆき	a male given name
+j	隆広	たかひろ	a male given name
+j	隆弘	たかひろ	a male given name
+j	隆昌	たかまさ	a male given name
+j	隆正	たかまさ	a male given name
+j	隆治	たかはる	a male given name
+j	隆浩	たかひろ	a male given name
+j	隆祥	たかよし	a male given name
+j	隆行	たかゆき	a male given name
+j	隆裕	たかひろ	a male given name
+j	隊列	たいれつ	fire; rank
+j	隊員	たいいん	a member of a crew, party…
+j	隊員	たいゐん	a member of a crew, party…
+j	隤岸	たいがん	崩れた崖。
+j	雄洋	たけひろ	a male given name
+j	雄虎	たけとら	a male given name
+j	霊代	たましろ	人の霊魂の代わりに祭祀するもの。
+j	頽垣	たいえん	崩れた垣。
+j	頽墊	たいてん	沈む。陥没する。
+j	頽壊	たいかい	壊れること。
+j	頽如	たいじょ	頽然。
+j	頽漏	たいろう	雨漏りすること。
+j	頽瀾	たいらん	崩れ落ちるような大きな波。
+j	頽然	たいぜん	深く酔うさま。
+j	頽簷	たいえん	崩れた軒。あばら屋。
+j	頽絶	たいぜつ	衰え、絶えること。
+j	頽雪	たいせつ	崩れ落ちる雪。なだれ。
+j	頽顔	たいがん	衰顔。
+j	頽風	たいふう	衰頽したありさま。
+j	頽齢	たいれい	年老いた年齢。老齢。
+j	颱風	たいふう	台風と同義。
+j	食べ物	たべもの	food in general; provisio…
+j	食物	たべもの	food, foodstuff
+j	駘銜	たいかん	くつわを外すこと。
+j	駘騃	たいがい	馬が進まないさま。
+j	體內	たいない	
+j	體外	たいがい	
+j	體格	たいかく	体格の旧字体表記。
+j	體質	たいしつ	体質の旧字体表記。
+j	體面	たいめん	体面の旧字体表記。
+j	高々	たかだか	up (rather) high
+j	高ぶる	たかぶる	be highly wrought-up, str…
+j	高まる	たかまる	to build, mount, intensify
+j	高める	たかめる	to raise, lift
+j	高らか	たからか	loud and lively
+j	高低	たかひく	high and low; rise and fa…
+j	高低	たかびく	high and low; rise and fa…
+j	高信	たかのぶ	a male given name
+j	高倉	たかくら	storehouse built off the …
+j	高原	たかはら	plateau
+j	高口	たかぐち	a surname
+j	高台	たかだい	high ground, high elevati…
+j	高坂	たかさか	a surname
+j	高城	たかしろ	a surname
+j	高塀	たかべい	高くつくられた塀。
+j	高塔	たかとう	a high tower
+j	高声	たかごえ	a loud voice, a big voice
+j	高声	たかごゑ	a loud voice, a big voice
+j	高孝	たかのり	a male given name
+j	高安	たかやす	Takayasu (a place and sta…
+j	高宏	たかひろ	a male given name
+j	高実子	たかみこ	a female given name
+j	高実子	たかみし	a female given name
+j	高実子	たかみね	a female given name
+j	高山	たかやま	high mountain
+j	高岡	たかおか	Takaoka (a city in Toyama…
+j	高島	たかしま	Takashima (a city in Shig…
+j	高崎	たかさき	Takasaki (a city in Gunma…
+j	高嶋	たかしま	a surname
+j	高嶺	たかみね	a high or lofty peak, as …
+j	高川	たかがわ	a surname
+j	高幸	たかゆき	a male given name
+j	高広	たかひろ	a male given name
+j	高康	たかやす	a male given name
+j	高弘	たかひろ	a male given name
+j	高明	たかあき	a male given name
+j	高春	たかはる	a male given name
+j	高村	たかむら	a surname
+j	高松	たかまつ	Takamatsu (a city, the ca…
+j	高梁	たかはし	Takahashi (a city in Okay…
+j	高梨	たかなし	a surname
+j	高森	たかもり	Takamori, a town in Kumam…
+j	高槻	たかつき	Takatsuki (a city in Osak…
+j	高橋	たかはし	a surname: the 3rd most c…
+j	高機	たかはた	large treadle operated ha…
+j	高機	たかばた	large treadle operated ha…
+j	高次	たかつぐ	a higher dimension, a hig…
+j	高殿	たかどの	閣: lofty palace
+j	高波	たかなみ	high waves
+j	高潮	たかしお	climax
+j	高潮	たかしほ	climax
+j	高畑	たかはた	a surname
+j	高石	たかいし	a city in Osaka Prefectur…
+j	高砂	たかさご	an old name for Taiwan
+j	高義	たかよし	high morals; surpassing r…
+j	高虎	たかとら	a male given name
+j	高貝	たかがい	a surname
+j	高跳び	たかとび	high jump
+j	高階	たかしな	a surname
+j	高鳴る	たかなる	to resound loudly
+j	髙橋	たかはし	a surname
+j	鬣	たてがみ	
+j	魂	たましい	a soul, spirit
+j	魂	たましひ	a soul, spirit
+j	魋顔	たいがん	額。おでこ。
+j	鮐老	たいろう	老人。
+j	鮐背	たいはい	90歳。
+j	鱈腹	たらふく	
+j	鷹狩り	たかかり	
+j	鷹狩り	たかがり	
+j	黄昏	たそがれ	dusk; twilight
+j	黛墨	たいぼく	まゆずみ。
+j	黛鬟	たいかん	黒髪。
+j	龍則	たつのり	a male given name
+j	龍山	たつやま	Tatsuyama (a village in I…
+j	龍彦	たつひこ	a male given name
+j	たあいない	たあいない	たわいない。
+j	たいあたり	たいあたり	体当たり: body check, body bl…
+j	たいきょく	たいきょく	大局: general situation; th…
+j	たいしかん	たいしかん	
+j	たいしゅう	たいしゅう	大衆: the public
+j	たいちろう	たいちろう	太一郎: a male given name
+j	たいらげる	たいらげる	敵や反抗する者を討ち、平和な状態にする。
+j	たいりゃく	たいりゃく	大略: approximately
+j	たえがたい	たえがたい	我慢できない。
+j	たえしのぶ	たえしのぶ	辛さ・苦しさなどをじっと我慢する。
+j	たえまない	たえまない	途絶えることなく時間的・空間的に続いているさま。
+j	たかいびき	たかいびき	高鼾: a loud snore; a deep …
+j	たかぐもり	たかぐもり	中層の雲が薄く広がっている天気。
+j	たかころび	たかころび	調子に乗って高い場所に進んだ後に転んで落ちてしまう…
+j	たかじつこ	たかじつこ	高実子: a surname
+j	たかてこて	たかてこて	両手を後ろに回し、首に縄をかけ、二の腕から手首まで…
+j	たかのつめ	たかのつめ	唐辛子の品種。
+j	たかむしろ	たかむしろ	籐や細く割いた竹を編んだ筵。主に夏の敷物として使用…
+j	たかよもぎ	たかよもぎ	「せいたかよもぎ」の別名。
+j	たからがい	たからがい	タカラガイ科に属する巻き貝の総称。
+j	たからくじ	たからくじ	第二次世界大戦後、地方公共団体が発行する賞金付きの…
+j	たからばこ	たからばこ	宝物やその人にとって貴重なものを入れる箱。
+j	たからぶね	たからぶね	宝物、俵、七福神などを乗せた帆掛け船。また、それを…
+j	たからもの	たからもの	たからとしているもの。その人にとって掛け替えのない…
+j	たかわらい	たかわらい	大きな声を出して笑うこと。哄笑。
+j	たきあがる	たきあがる	to be done cooking
+j	たきあそび	たきあそび	滝や滝壺を利用して遊ぶこと。
+j	たきしめる	たきしめる	香をたいてその匂いを衣服などに染み込ませる。
+j	たきつける	たきつける	火を付けて燃やす。
+j	たくましい	たくましい	十分に満ち溢れているさま。
+j	たくわえる	たくわえる	【蓄・貯】 知識・力などをいつでも発揮できるように…
+j	たぐいない	たぐいない	他に比べるものがない。
+j	たぐいまれ	たぐいまれ	extremely rare (uncommon)
+j	たけあかり	たけあかり	竹にろうそくなどの光源を入れた照明。現代では竹の代…
+j	たけがたな	たけがたな	刀身が竹で作られた刀。竹光。
+j	たけとんぼ	たけとんぼ	竹蜻蛉: a bamboo-copter, a h…
+j	たけばやし	たけばやし	竹が生い茂る林。たけやぶ。
+j	たけりたつ	たけりたつ	荒々しく吠え立てる。
+j	たこやきや	たこやきや	たこ焼きを作って売る店。その料理人。
+j	たこわさび	たこわさび	octopus with wasabi
+j	たこ足配線	たこ足配線	"octopus leg wiring": ele…
+j	たごがえる	たごがえる	カエル目アカガエル科アカガエル属に属するかえるの一…
+j	たしかめる	たしかめる	調べたり念を押したりして物事をはっきりさせる。
+j	たしなめる	たしなめる	窘める: chide
+j	たすき掛け	たすきがけ	using a tasuki to tuck up…
+j	たすき掛け	たすき掛け	using a tasuki to tuck up…
+j	たすけあい	たすけあい	助け合うこと。
+j	たすけあう	たすけあう	互いに力を貸す。
+j	たすけだす	たすけだす	危険または困難な状況にある者を救う。救出する。
+j	たすけぶね	たすけぶね	lifeboat
+j	たずさえる	たずさえる	手に持つ。提げる。携帯する。
+j	たずさわる	たずさわる	引っ掛かる。
+j	たずねびと	たずねびと	行方がわからず捜索されている人。尋ね者。
+j	たずねもの	たずねもの	探している品物。探し物。
+j	たそがれる	たそがれる	to fade into dusk; to tur…
+j	たたかゆん	たたかゆん	
+j	たたきあげ	たたきあげ	下積みから努力を重ねて、出世した人。
+j	たたきうり	たたきうり	商人たちが台に商品を載せて台を叩きながら口上を述べ…
+j	たたきうる	たたきうる	値引きして売る。
+j	たたきこむ	たたきこむ	叩き込む: dive into, throw in…
+j	たたきわる	たたきわる	叩いで物を割る。打破する。
+j	たたずまい	たたずまい	そこにあるものから醸し出される雰囲気。
+j	たたみこみ	たたみこみ	可積分関数f,gに対し、gを平行移動しながらfに重…
+j	たたーかん	たたーかん	
+j	ただあきら	ただあきら	忠彰, 忠存: a male given name
+j	ただしがき	ただしがき	法令や規則、契約などの条文で「但し」とつけ、その後…
+j	ただで済む	ただですむ	to get away without conse…
+j	ただで済む	ただで済む	to get away without conse…
+j	ただならぬ	ただならぬ	not usual
+j	ただ一つの	ただ一つの	
+j	たちあがり	たちあがり	「たちあがる」の連用形。
+j	たちあがる	たちあがる	横たわった状態や座った状態から立つ。
+j	たちあげる	たちあげる	（コンピュータ、機械設備などを）起動する。
+j	たちいたる	たちいたる	重大な事態・状況になる。
+j	たちおよぎ	たちおよぎ	水中で立ったまま、足を底に着かずに顔が出ているよう…
+j	たちかえる	たちかえる	戻る。返る。
+j	たちかかる	たちかかる	今まさに立ち上がろうとする。
+j	たちくらみ	たちくらみ	長時間立っていたり、（急に）立ち上がったりした時に…
+j	たちこめる	たちこめる	（霧、煙などが沸き）一面にこもる。
+j	たちすくむ	たちすくむ	to stand paralyzed
+j	たちつくす	たちつくす	その場で身動きせずにじっと立っている。
+j	たちどまる	たちどまる	歩くのをやめてその場に止まる。
+j	たちなおる	たちなおる	倒れそうになったものが元に戻ってしっかり立つ。
+j	たちならぶ	たちならぶ	並んで立つ。
+j	たちのぼる	たちのぼる	煙などが上方に高く上がる。
+j	たちばなし	たちばなし	conversation while standi…
+j	たちまわり	たちまわり	立ち回ること。
+j	たちまわる	たちまわる	あちこち歩き回る。
+j	たちむかう	たちむかう	何かに向かって立つ。
+j	たちんぼう	たちんぼう	坂など通行困難な場所で通りかかる荷車・人力車を待ち…
+j	たっきゅう	たっきゅう	
+j	たったいま	たったいま	今と言っても良い位ある事をしてから（又はするまで）…
+j	たった今	たったいま	
+j	たつがしら	たつがしら	竜の頭の形をした物。竜の形をした兜の前立物。葬礼の…
+j	たつたあげ	たつたあげ	揚げ物のひとつ。鳥肉や魚肉を醤油、味醂で下味をつけ…
+j	たつのくち	たつのくち	銅、鉄などで竜頭を作り、口から水が出るようにしたも…
+j	たつのつき	たつのつき	陰暦三月の異称。
+j	たてかえる	たてかえる	to rebuild
+j	たてかける	たてかける	他の物に寄り掛かるようにして立たせる。
+j	たてぎょく	たてぎょく	position
+j	たてぎょく	たてぎよく	position
+j	たてこもり	たてこもり	（建物や部屋などに）立て籠もること。そのような事件。
+j	たてこもる	たてこもる	出入り口など閉ざし部屋や建物の中に籠もる。
+j	たてなおす	たてなおす	立て直す: to reerect; to stan…
+j	たてまつる	たてまつる	to give
+j	たどりつく	たどりつく	苦労しながらようやく目的地に行き着く。
+j	たなおろし	たなおろし	商品の在庫有高のチェックと現在価値の見積もりを行な…
+j	たなごころ	たなごころ	てのひら。
+j	たなざらし	たなざらし	店舗などで商品が長期間陳列されていること。
+j	たにうつぎ	たにうつぎ	マツムシソウ目スイカズラ科タニウツギ属に属する落葉…
+j	たぬきそば	たぬきそば	揚げ玉を載せたそば。
+j	たねあかし	たねあかし	トリックや裏の事情などの仕掛けを明かして説明するこ…
+j	たねちがい	たねちがい	母親が同じで父親が異なる兄弟姉妹。種変わり。異父。
+j	たのみこむ	たのみこむ	熱心に頼む。
+j	たのもしい	たのもしい	頼りになりそうな様子。信頼できる。
+j	たばこ税	たばこぜい	たばこに課される租税。日本国では、たばこ税（後述）…
+j	たばになる	たばになる	to form a group; to gang …
+j	たびがらす	たびがらす	定住する所がなく、旅から旅へと渡り歩く人。
+j	たびまくら	たびまくら	旅先で寝ること。
+j	たびまわり	たびまわり	あちこちを旅をして回ること。
+j	たびゅうど	たびゅうど	旅をしている人。旅の途中の人。古くは「たびゅうと」…
+j	たぶらかす	たぶらかす	to trick, to cheat, to se…
+j	たべごたえ	たべごたえ	being satisfying; being f…
+j	たべごたえ	たべごたへ	being satisfying; being f…
+j	たべすぎる	たべすぎる	食べ物などを過度に食べる。食い過ぎる。過食する。
+j	たべのこし	たべのこし	食べ物を食べ、残すこと。また、残された物。残飯。
+j	たべのこす	たべのこす	食事を食べきれずに残す。
+j	たまくしろ	たまくしろ	玉を繋いで飾った腕輪。
+j	たまごがら	たまごがら	卵殻: eggshell
+j	たまごまき	たまごまき	巻き寿司をさらに玉子焼きで巻いた寿司。だてまき。
+j	たまごやき	たまごやき	溶き卵に塩胡椒で味付けしたものをフライパンで焼き上…
+j	たましずめ	たましずめ	肉体から離れようとする霊魂を肉体に、又、死者の場合…
+j	たまつきば	たまつきば	pool (billiards) parlor
+j	たまつくり	たまつくり	玉やガラス等を研磨して玉類の生産を担当する職業部。
+j	たまてばこ	たまてばこ	Princess Otohime's casket…
+j	たまひろい	たまひろい	ball person
+j	たまひろい	たまひろひ	ball person
+j	たまぶくろ	たまぶくろ	陰嚢。睾丸（金玉）を包む皮膚の袋。
+j	たまらない	たまらない	unbearable, intolerable, …
+j	ためしぎり	ためしぎり	刀剣や槍の利鈍を確かめるため、罪人や物を切って切れ…
+j	ためになる	ためになる	to be of benefit, to be u…
+j	ためんたい	ためんたい	多面体: polyhedron
+j	たゆみない	たゆみない	よれたところのない。油断や隙のない。途絶えることの…
+j	たよりない	たよりない	頼りにならず不安である。
+j	たらしこむ	たらしこむ	うまく騙したりして自分の物にしたり、自分の思うよう…
+j	たらばがに	たらばがに	エビ目ヤドカリ下目タラバガニ科タラバガニ属の甲殻類…
+j	たれこめる	たれこめる	低い位置に広がる。
+j	たれさがる	たれさがる	ものの一端が下の方へ下がる。
+j	たれながす	たれながす	to let flow
+j	たわいない	たわいない	trifling
+j	たわけもの	たわけもの	馬鹿者、愚か者。
+j	たわむれる	たわむれる	遊ぶ。
+j	たんいつご	たんいつご	
+j	たんじかん	たんじかん	短時間: short span of time
+j	たんす預金	たんす預金	箪笥預金の表記揺れ。
+j	たんぽやり	たんぽやり	先端にたんぽをつけた練習用の槍。牡丹槍。
+j	タイアップ	タイアップ	a tie-in, cooperation, a …
+j	タイピスト	タイピスト	typist
+j	タイピング	タイピング	typing (the act of typing)
+j	タイフーン	タイフーン	北西太平洋における、最大風速が64ノット以上の熱帯…
+j	タイプする	タイプする	
+j	タイプミス	タイプミス	
+j	タイプ標本	タイプ標本	分類群の基準となる標本のこと。ホロタイプやパラタイ…
+j	タイプ産地	タイプ産地	タイプ標本が採集・観察された場所のこと。模式産地や…
+j	タイミング	タイミング	timing (time when somethi…
+j	タイムラグ	タイムラグ	time lag
+j	タイムリー	タイムリー	timely, well-timed, oppor…
+j	タイムロス	タイムロス	waste of time
+j	タイヤル族	タイヤル族	
+j	タイヤル語	タイヤル語	オーストロネシア語族に属する言語で台湾に住んでいる…
+j	タイラント	タイラント	a tyrant (one who gains p…
+j	タイロシン	タイロシン	
+j	タイ英語	たいえいご	タイ王国で話されている英語の変種。
+j	タウヒード	タウヒード	tawhid
+j	タカネコ語	タカネコ語	マム語群の一つ。
+j	タカノツメ	タカノツメ	鷹の爪: Gamblea innovans, a …
+j	タカブシギ	タカブシギ	
+j	タカラガイ	タカラガイ	「宝貝」の学術的表記。
+j	タガイタイ	タガイタイ	Tagaytay (a city in Cavit…
+j	タガヤサン	タガヤサン	スリランカおよび東南アジア原産のマメ科（旧ジャケツ…
+j	タガログ人	タガログ人	フィリピンの主要民族。タガログ語を母語とする。
+j	タガログ語	たがろぐご	Tagalog (language)
+j	タガログ語	タガログご	Tagalog (language)
+j	タガログ語	タガログ語	Tagalog (language)
+j	タガンログ	タガンログ	
+j	タキシード	タキシード	a tuxedo
+j	タキトゥス	タキトゥス	
+j	タクビール	タクビール	takbir
+j	タクリード	タクリード	taqlid
+j	タクロバン	タクロバン	
+j	タグボート	タグボート	港湾で大型の船舶やいかだなどを押したり引いたりする…
+j	タコライス	タコライス	taco rice (a yoshoku dish…
+j	タサッウフ	タサッウフ	
+j	タシケント	タシケント	Tashkent (the capital of …
+j	タジク人	たじくじん	Tajik person
+j	タジク人	タジクじん	Tajik person
+j	タスクバー	タスクバー	コンピュータの画面下部にあり、現在実行しているプロ…
+j	タスク管理	タスク管理	自分がやるべき仕事、業務を整理すること。
+j	タスビーフ	タスビーフ	tasbih
+j	タスマニア	タスマニア	Tasmania (an island group…
+j	タスマン海	タスマン海	the Tasman Sea
+j	タスリーム	タスリーム	taslim
+j	タタウイヌ	タタウイヌ	
+j	タタール人	タタール人	タタールスタンの主要民族。テュルク系民族の一つ。
+j	タタール語	たたーるご	ロシア連邦に属するタタールスタンを主要な居住地とす…
+j	タタール語	タタール語	ロシア連邦に属するタタールスタンを主要な居住地とす…
+j	タッカルビ	タッカルビ	dakgalbi (Korean chicken …
+j	タックイン	タックイン	シャツやセーターの裾をスカートやズボンの中に入れる…
+j	タッチの差	タッチの差	ほんの短い時間の差。
+j	タッチペン	タッチペン	stylus
+j	タッチ画面	タッチ画面	
+j	タッピング	タッピング	tapping (guitar playing t…
+j	タッブーラ	タッブーラ	tabbouleh (a Levantine sa…
+j	タッブーレ	タッブーレ	
+j	タトラ山脈	タトラ山脈	
+j	タニウツギ	タニウツギ	たにうつぎの学術的表記。
+j	タバコ入れ	たばこいれ	
+j	タバコ入れ	タバコ入れ	
+j	タバコ銭	たばこせん	
+j	タヒチ人	たひちじん	フランス領タヒチ島の主要民族。ポリネシア人の一派。
+j	タヒチ島	たひちとう	南太平洋中部のフランス領ポリネシアにあるソシエテ諸…
+j	タフシール	タフシール	
+j	タブリーズ	タブリーズ	Tabriz (a city in Iran)
+j	タブレット	タブレット	a tablet, as of slate or …
+j	タブロイド	タブロイド	tabloid
+j	タマゴノキ	タマゴノキ	キヤニモモ（Garcinia xanthochym…
+j	タマリンド	タマリンド	tamarind
+j	タミル人	たみるじん	スリランカやインドに住むタミル語を母語とする民族。
+j	タヤンムム	タヤンムム	tayammum
+j	タラハシー	タラハシー	Tallahassee
+j	タラバガニ	タラバガニ	たらばがにの学術的表記。
+j	タラント語	タラント語	
+j	タリスマン	タリスマン	
+j	タリヴォス	タリヴォス	土星の第21衛星の固有名。
+j	タルクェク	タルクェク	土星の第52衛星の固有名。
+j	タルト活用	タルト活用	現代日本語の形容動詞における、活用語尾が連用形で「…
+j	タルムード	タルムード	
+j	タルラック	タルラック	
+j	タルワール	タルワール	tulwar
+j	タンカード	タンカード	ビアマグ。
+j	タンゲラン	タンゲラン	
+j	タンザニア	タンザニア	Tanzania (a country in Ea…
+j	タンジール	タンジール	
+j	タンスドー	タンスドー	
+j	タンス預金	タンス預金	箪笥預金の表記揺れ。
+j	タンタルム	タンタルム	タンタルの英語読み。
+j	タンタル石	タンタル石	
+j	タンタロス	タンタロス	Tantalus
+j	タンチョウ	タンチョウ	《分類学》ツル目ツル科ツル属の1種に分類される鳥。…
+j	タンバリン	タンバリン	a tambourine
+j	タンブラン	タンブラン	
+j	タンブラー	タンブラー	底が平たく、ガラス製の大きなコップ。
+j	タンブリン	タンブリン	タンバリンの異表記。
+j	ターゲット	ターゲット	target
+j	ターコイズ	ターコイズ	トルコ石
+j	ターツァイ	ターツァイ	塌菜: Brassica rapa subsp. …
+j	ターボット	ターボット	
+j	ターポリン	ターポリン	
+j	ターマック	ターマック	
+j	ターミナル	ターミナル	a terminal (airport build…
+j	ターラント	ターラント	
+j	丹丘	たんきゅう	仙人が住むとされる場所。
+j	丹州	たんしゅう	丹後国^(（たんごのくに）)、または丹波国^(（た…
+j	丹情	たんじょう	真心。丹心。赤心。
+j	丹邱	たんきゅう	丹丘。
+j	丹頂	たんちょう	sacred Japanese crane; re…
+j	丹頂	タンチョウ	sacred Japanese crane; re…
+j	丹鳥	たんちょう	中国の想像上の瑞鳥。鳳凰。
+j	互いに素	たがいにそ	coprime (having no factor…
+j	互先	たがいせん	In a multi-game match, th…
+j	他人事	たにんごと	someone else's concern or…
+j	他動的	たどうてき	他から動かされるさま。
+j	他界	たかいする	afterworld, next world, a…
+j	他罰的	たばつてき	自分の失敗、苦しさ、不満を他者や環境、社会に求めて…
+j	他面角	ためんかく	polyhedral angle
+j	但し書き	ただしがき	sentence that starts with…
+j	但州	たんしゅう	但馬国^(（たじまのくに）)の別称。
+j	但書	ただしがき	
+j	但書き	ただしがき	
+j	佇まい	たたずまい	appearance
+j	佇まい	たたずまひ	appearance
+j	体中	たいじゅう	throughout the body, from…
+j	体中	たいちゅう	throughout the body, from…
+j	体中	たいちゆう	throughout the body, from…
+j	体力	たいりょく	bodily strength; physical…
+j	体当たり	たいあたり	tackle, body blow, body c…
+j	体状	たいじょう	形。姿。有り様。
+j	体育着	たいいくぎ	体操服。
+j	体育科	たいいくか	小学校、義務教育学校前期課程、特別支援学校小学部で…
+j	体臭	たいしゅう	body odour
+j	体色	たいしょく	生物の体の表面の色。
+j	体術	たいじゅつ	a blanket term for variou…
+j	体表	たいひょう	the surface of a body
+j	体調	たいちょう	a person's physical condi…
+j	体重	たいじゅう	body weight
+j	体量	たいりょう	身体の重量。体重。
+j	体長	たいちょう	the length of an animal
+j	便り	たよりする	news from, correspondence
+j	倒置法	たうちはふ	inversion
+j	倬峭	たくしょう	理想が高いさま。
+j	助け出す	たすけだす	to rescue; to save
+j	助け合う	たすけあう	help each other
+j	卓出	たくしゅつ	excellence, superiority. …
+j	卓球	たっきゅう	table tennis
+j	卓話会	たくわかい	round table meeting or ta…
+j	単一の	たんいつの	
+j	単位円	たんいえん	半径が1の円。
+j	単位系	たんいけい	a system of measurement
+j	単位系	たんゐけい	a system of measurement
+j	単勝	たんしょう	公営競技（競馬、競輪、競艇、オートレース）で一着に…
+j	単墓制	たんぼせい	遺体、遺骨を埋葬する墓と墓参、供養する墓が同じ墓制。
+j	単射の	たんしゃの	
+j	単床	たんしょう	根太だけで支える床
+j	単性の	たんせいの	
+j	単母音	たんぼいん	monophthong
+j	単独で	たんどくで	
+j	単球	たんきゅう	白血球の一つ。核をもつ細胞で、血球のなかで最大。
+j	単用土	たんようど	採取されたままの、調合などを施されていない土または…
+j	単称	たんしょう	簡単また単純な名称。
+j	単純	たんじゅん	simple
+j	単級	たんきゅう	全校の児童、生徒を一つの学級にまとめること。また、…
+j	単色	たんしょく	monochrome
+j	単葉機	たんようき	monoplane
+j	単記	たんきする	recording only one item(e…
+j	単試合	たんしあい	singles (in tennis)
+j	単調	たんちょう	monotone, toneless, prosa…
+j	卵形	たまごがた	oval, egg (something shap…
+j	卵殻	たまごがら	eggshell
+j	卵焼き	たまごやき	tamagoyaki (omelette made…
+j	卵酒	たまござけ	
+j	反収	たんしゅう	耕作地一反当たりの農作物が収穫できる量。
+j	叩き台	たたきだい	叩き売りのときに使う台。
+j	叩き込む	たたきこむ	to dive into, to throw in…
+j	台中	たいじょん	Taichung (a city in Taiwa…
+j	台中	たいちゅう	Taichung (a city in Taiwa…
+j	台中	タイジョン	Taichung (a city in Taiwa…
+j	台山語	たいさんご	広東語の変種の一つ。中国・広東省の台山市を中心に、…
+j	台湾史	たいわんし	世界史の中における台湾に関係する事柄を総合的に捉え…
+j	台湾語	たいわんご	Taiwanese; Taiwanese Hokk…
+j	台聴	たいちょう	身分の高い人が聴くこと。
+j	唐名	たうみやう	a name used in China
+j	唐菓子	たうぐわし	Tang confectionery
+j	唐辛子	たうがらし	chilli pepper
+j	唐鋏	たうばさみ	scissors; (specifically) …
+j	唐鏡	たうきやう	Tang mirror
+j	唯でさえ	ただでさえ	as it is; already; even a…
+j	單調	たんちょう	monotone, toneless, prosa…
+j	垂れ込める	たれこめる	to drop down and cover a …
+j	垂れ飾り	たれかざり	
+j	堪え忍ぶ	たえしのぶ	accept, put up with (to e…
+j	塌菜	たーつぁい	Brassica rapa subsp. nari…
+j	塌菜	ターツァイ	Brassica rapa subsp. nari…
+j	多事多端	たじたたん	やるべき事が多く、非常に忙しいこと。
+j	多事多難	たじたなん	事件が多発し、困難が多いこと。
+j	多人数	たにんずう	たくさんの人数。
+j	多元環	たげんかん	
+j	多元論	たげんろん	pluralism
+j	多孔質	たこうしつ	多数の細かい孔があいている性質。
+j	多宝塔	たほうとう	仏塔の一種で下部が円形、上部が方形の平面を持つ単層…
+j	多年生	たねんせい	草本植物が3年以上にわたって生存すること。
+j	多年草	たねんそう	植物のうち、体の一部が残り、毎年葉や茎を伸ばす種類。
+j	多幸感	たこうかん	euphoria
+j	多数決	たすうけつ	majority rule
+j	多板綱	たばんこう	
+j	多様体	たようたい	平面や曲面を一般化したもので、全ての点に対して（少…
+j	多様化	たやうくわ	diversification
+j	多様性	たやうせい	diversity
+j	多様性	たようせい	diversity
+j	多毛作	たもうさく	multicropping
+j	多毛類	たもうるい	polychete worm, any of va…
+j	多浪	たろうする	one who has failed to pas…
+j	多用	たようする	being busy
+j	多発	たはつする	many instances, many case…
+j	多目的	たもくてき	multipurpose
+j	多神教	たしんけう	a polytheistic religion
+j	多節棍	たせつこん	複数の棍棒を紐や鎖で繋げた武器の総称。
+j	多糖類	たとうるい	糖類のうち2個以上の単糖類が結合したものであるが、…
+j	多細胞	たさいばう	multicellular, multicelle…
+j	多細胞	たさいぼう	multicellular, multicelle…
+j	多聞天	たもんてん	synonym of 毘沙門天 (Bishamon…
+j	多胞体	たほうたい	
+j	多色の	たしょくの	
+j	多裂筋	たれつきん	a multifidus muscle
+j	多角形	たかくけい	polygon
+j	多角形	たかっけい	polygon
+j	多言語化	たげんごか	ソフトウェアにおいて、利用者が言語環境をより自由に…
+j	多財餓鬼	たざいがき	有財餓鬼のうち残飯や祭祀で残り物を食するもの。
+j	多足類	たそくるい	myriapod; many-legged
+j	多重夢	たじゅうむ	夢の中で更に見る夢。
+j	多量の	たりょうの	
+j	多面体	ためんたい	polyhedron
+j	多面性	ためんせい	the property of being mul…
+j	多音節	たおんせつ	
+j	多項式	たこうしき	polynomial
+j	大使館	たいしかん	embassy
+j	大切な	たいせつな	
+j	大勝	たいしょう	crushing victory
+j	大勝	たいしよう	crushing victory
+j	大喪儀	たいそうぎ	皇室の儀式として行われる天皇・皇后・太皇太后・皇太…
+j	大将	たいしやう	the commander of the 近衛府 …
+j	大将	たいしょう	the commander of the 近衛府 …
+j	大尺	たいしゃく	律令制の長さの単位で、小尺による一尺二寸を一尺とす…
+j	大局	たいきょく	general situation; the wh…
+j	大庁	たいちょう	摂政、関白の母親に対する敬称。大政所。
+j	大廟	たいびょう	君主の祖霊を祀った御霊屋。
+j	大忠	たいちゅう	（たいちゅう、だいちゅう）この上なく大きな忠義。
+j	大戎	たいじゅう	兵站業務をおこなう車両。重兵車。元戎。
+j	大曲	たいきょく	highest ranking of gagaku…
+j	大業	たいぎょう	a great deed; a grand und…
+j	大正	たいしょう	the Taishō era, 1912-1926
+j	大気圏	たいきけん	an atmosphere (gases surr…
+j	大気圧	たいきあつ	大気の圧力。
+j	大略	たいりゃく	approximately
+j	大病	たいびやう	a severe illness
+j	大病	たいびょう	a severe illness
+j	大破	たいはする	heavy damage
+j	大笑	たいしょう	uproarious laughter
+j	大衆	たいしゅう	the public
+j	大賞	たいしょう	grand prize
+j	大赤	たいしゃく	陰陽道における凶日の一つ赤口日のこと。
+j	大逆	たいぎゃく	high treason
+j	大連	たーりぇん	Dalian (a major subprovin…
+j	大邱	たいきゅう	Daegu (a city in South Ko…
+j	大量	たいりやう	mass, massive
+j	大量	たいりょう	mass, massive
+j	大陸度	たいりくど	大陸性気候の度合いを数値で表した指標。大きくなるほ…
+j	大領	たいりょう	律令制における郡司の長。
+j	大食	たいしょく	gluttony
+j	大饗	たいきょう	盛大な饗宴。
+j	太一郎	たいちろう	a male given name
+j	太上	たいじょう	最良のもの。この上ないもの。
+j	太古代	たいこだい	synonym of 始生代
+j	太子党	たいしとう	the Princelings, the Crow…
+j	太常	たいじょう	中国の官名の一つ。
+j	太極	たいきょく	the Absolute: the conditi…
+j	太気拳	たいきけん	昭和22年に澤井健一により創始された中国武術。正式…
+j	太液池	たいえきち	
+j	太陰日	たいいんび	月の出から次の月の出までの平均周期。24時間50分…
+j	太陽の	たいようの	
+j	太陽時	たいようじ	標準時ではなく実際の太陽の位置で決める時刻。
+j	太鼓判	たいこばん	large stamp
+j	太鼓打	たいこうち	カメムシ目タイコウチ科タイコウチ属に属する水生昆虫。
+j	太鼓持ち	たいこもち	someone who pleases the g…
+j	太鼓腹	たいこばら	potbelly
+j	太鼓虫	たいこむし	やごの別名。
+j	宝くじ	たからくじ	lottery
+j	宝塚	たからづか	Takarazuka (a city in Hyō…
+j	宝物	たからもの	treasure, treasury
+j	宝箱	たからばこ	treasure chest
+j	宝船	たからぶね	宝物を積み込んだ帆船。
+j	宝貝	たからがい	cowrie, a sea snail in th…
+j	宝貝	たからがひ	cowrie, a sea snail in th…
+j	宝貝	タカラガイ	cowrie, a sea snail in th…
+j	宝貝	タカラガヒ	cowrie, a sea snail in th…
+j	対中	たいちゅう	中国に対すること。
+j	対位法	たいいほう	counterpoint
+j	対償	たいしょう	「対価」に同じ。
+j	対境	たいきょう	国境の向こう側。
+j	対局	たいきょく	a game
+j	対局	たいきよく	a game
+j	対峙	たいじする	face off; confrontation
+j	対曲	たいきょく	ほぼ同時に形成された二つの列島や山脈がある角度で接…
+j	対格の	たいかくの	
+j	対極	たいきょく	antipole; polar opposite
+j	対極	たいきよく	antipole; polar opposite
+j	対比	たいひする	contrast, comparison
+j	対流	たいりゅう	convection
+j	対照	たいしょう	contrast, comparison, ant…
+j	対称	たいしょう	symmetric
+j	対角化	たいかくか	相似変換を用いて正方行列を対角行列に変換すること。
+j	対話	たいわする	dialogue, conversation
+j	対話者	たいわしゃ	interlocutor
+j	対象	たいしょう	object, target (of worshi…
+j	対蹠地	たいしょち	ある地点からその天体の中心を挟んで丁度反対側にある…
+j	対蹠地	たいせきち	ある地点からその天体の中心を挟んで丁度反対側にある…
+j	対酌	たいしゃく	向かい合って酒を酌み交わすこと。差しで酒を飲むこと。
+j	対面	たいめする	an interview, meeting
+j	對象	たいしょう	
+j	尺	たかばかり	the shaku, "metal shaku",…
+j	屯する	たむろする	to gather in large number…
+j	帝釈	たいしゃく	帝釈天。
+j	帯仗	たいじょう	武器を身に付けること。
+j	帯出	たいしゅつ	備品などを身につけて外部へ持ち出すこと。
+j	帯気音	たいきおん	aspirated consonant
+j	帯状	たいじやう	belt-shaped
+j	帯状	たいじょう	belt-shaped
+j	帯領	たいりょう	率いること。
+j	幇間	たいこもち	someone who pleases the g…
+j	平げる	たいらげる	
+j	平らげる	たいらげる	to consume completely, to…
+j	平らげる	たひらげる	to consume completely, to…
+j	店晒し	たなざらし	shopworn goods; old stock
+j	建て直す	たてなおす	
+j	建玉	たてぎょく	信用取引、先物取引、オプション取引などにおいて未決…
+j	当局	たうきよく	authority (persons in com…
+j	待機	たいきする	being on alert, on standby
+j	待球	たいきゅう	waiting for easy pitches
+j	待詔	たいしょう	天子の詔を待つこと。
+j	待避	たいひする	taking shelter
+j	待避する	たいひする	
+j	待避線	たいひせん	駅構内で他の列車の通過を待避するための線路。
+j	忠存	ただあきら	a male given name
+j	忠彰	ただあきら	a male given name
+j	怠状	たいじょう	過怠を謝罪する書状。
+j	戯け者	たわけもの	idiot, fool
+j	戯れる	たはぶれる	to play; to sport; to jok…
+j	戯れる	たはむれる	to play; to sport; to jok…
+j	戯れる	たわぶれる	to play; to sport; to jok…
+j	戯れる	たわむれる	to play; to sport; to jok…
+j	戯れ言	たはれごと	a practical joke, prank
+j	戯れ言	たわれごと	a practical joke, prank
+j	托出	たくしゅつ	物をのせて出すこと。
+j	択出	たくしゅつ	多くの中から目的に合ったものを選び出すこと。
+j	担保	たんぽする	security, mortgage, colla…
+j	担子菌	たんしきん	basidiomycete
+j	担当医	たんとうい	doctor in charge
+j	担笈	たんきゅう	遊学。
+j	拓殖	たくしょく	colonisation
+j	拓殖	たくしよく	colonisation
+j	拓相	たくしょう	拓務大臣の略。
+j	拓跋語	たくばつご	5世紀ごろの北魏に華北に居住した拓跋によって話され…
+j	掌	たなごころ	a palm
+j	探査	たんさする	exploration, usually scie…
+j	探検家	たんけんか	explorer (person who by m…
+j	探求	たんきゅう	quest
+j	探知	たんちする	detection
+j	探知犬	たんちけん	detection dog
+j	探究	たんきゅう	research, inquiry
+j	探窮	たんきゅう	探求すること。
+j	探鉱	たんくわう	prospecting
+j	探鳥	たんちょう	bird watching
+j	携える	たずさえる	carry, hold
+j	携える	たづさへる	carry, hold
+j	携わる	たずさわる	to take part, to particip…
+j	携わる	たづさはる	to take part, to particip…
+j	擢賞	たくしょう	多くの中から選出して賞すること。
+j	旅に出る	たびにでる	to start a journey; to em…
+j	旅人	たびゅうど	one who travels: a travel…
+j	旅心	たびごころ	
+j	旅支度	たびじたく	preparations for a journey
+j	旅鼠	たびねずみ	synonym of レミング (“lemming…
+j	旅鼠	タビネズミ	synonym of レミング (“lemming…
+j	棚卸し	たなおろし	inventory count
+j	棚氷	たなごおり	
+j	楽しげな	たのしげな	
+j	楽しんだ	たのしんだ	past tense and perfective…
+j	橙色	たうしよく	the color orange
+j	武友	たけしとも	warrior, cadet, pal, frie…
+j	殫求	たんきゅう	あまねく探すこと。
+j	段収	たんしゅう	耕作地一反当たりの農作物が収穫できる量。
+j	民部卿	たみのかみ	the Minister of Popular A…
+j	水蠆	たいこむし	the nymph or naiad of a d…
+j	沢山の	たくさんの	
+j	沢浹	たくしょう	恩が及ぶこと。
+j	沢色	たくしょく	色艶。色沢。
+j	泰中	たいちゅう	タイ王国と中華人民共和国。
+j	淡州	たんしゅう	淡路国^(（あわじのくに）)の別称。
+j	淡水湖	たんすいこ	水中に含まれる塩類の濃度が500 mg/L以下の湖。
+j	淡粧	たんしょう	あっさりした化粧。薄化粧。
+j	淡緑	たんりょく	淡い緑色。
+j	淡黄	たんくわう	light yellow
+j	湯円	たんゆぇん	tangyuan
+j	滞京	たいきょう	京に滞在すること。
+j	滞留	たいりゅう	piling up, accumulation
+j	滞羅	たいらする	staying in Los Angeles
+j	滞郷	たいきょう	帰郷し、そこに滞在すること。
+j	炭住	たんじゅう	炭鉱で働く従業員とその家族のためにその会社が建てた…
+j	炭化	たんかする	carbonization
+j	炭化物	たんかぶつ	ある元素が炭素と結ぶついてできた化合物のこと。別名…
+j	炭床	たんしょう	炭層。
+j	炭球	たんきゅう	炭層内や上盤、下盤に含まれる球状やレンズ状の団塊。
+j	炭疽菌	たんそきん	炭疽症を引き起こす細菌。学名は Bacillus …
+j	炭素族	たんそぞく	周期表で第14族の元素。
+j	炭素税	たんそぜい	carbon tax (a tax on foss…
+j	炭鉱	たんくわう	coal mine
+j	焚き付ける	たきつける	to kindle, to build a fire
+j	狸肉	たぬきにく	狸の肉
+j	狸蘭	たぬきらん	Carex podogyna
+j	狸蘭	タヌキラン	Carex podogyna
+j	狸豆	たぬきまめ	rattlebox (Crotalaria ses…
+j	狸豆	タヌキマメ	rattlebox (Crotalaria ses…
+j	玉兎	たまうさぎ	The legendary Jade Rabbit…
+j	玉城	たまぐすく	a surname from Okinawan
+j	玉手箱	たまてばこ	
+j	玉砂利	たまじゃり	粒が比較的大きく丸い砂利。
+j	玉袋	たまぶくろ	ballsack
+j	琢磨	たくまする	polishing of jewels
+j	畳むこと	たたむこと	
+j	畳針	たたみばり	large needle used to sew …
+j	盗聴	たうちやう	wiretapping; bugging; eav…
+j	短三度	たんさんど	音楽で内包する半音が3である3度音程。
+j	短冊	たんじゃく	tanzaku; A small strip of…
+j	短墻	たんしょう	背丈の低い垣。
+j	短弓	たんきゅう	丈の短い弓の総称。
+j	短時間	たんじかん	short span of time
+j	短期的	たんきてき	短い期間に関わるさま。
+j	短期間	たんきかん	短い期間。短期。
+j	短母音	たんぼいん	a short vowel
+j	短水路	たんすいろ	縦の長さが25メートルのプール。
+j	短牆	たんしょう	背丈の低い垣。
+j	短畳	たんじょう	丈の短い畳。
+j	短縮	たんしゅく	shortening, abbreviation
+j	短袖	たんしゅう	短い袖。また、そのような衣服。
+j	短裳	たんしょう	短い裳裾。
+j	短調	たんちょう	minor key
+j	短距離	たんきょり	short distance; short ran…
+j	短連歌	たんれんが	前句と付句からなる連歌。上の句（五七五）に下の句（…
+j	短銃	たんじゅう	handgun; pistol
+j	短銃	たんじゆう	handgun; pistol
+j	短長	たんちょう	短いことと長いこと。長短。
+j	確かめる	たしかめる	to verify, to find out, t…
+j	磔攘	たくじょう	牲を裂いて祓うこと。
+j	磔禳	たくじょう	「磔攘」に同じ。
+j	種子島	たねがしま	種が島: matchlock
+j	種明かし	たねあかし	revealing the secret
+j	種麹	たねかうぢ	koji starter (a preparati…
+j	種麹	たねこうじ	koji starter (a preparati…
+j	窘める	たしなめる	to reprove
+j	立ちくらみ	たちくらみ	headrush; dizziness from …
+j	立ちん坊	たちんばう	the act of standing conti…
+j	立ちん坊	たちんぼう	the act of standing conti…
+j	立ちション	たちしょん	synonym of 立ち小便 (tachishō…
+j	立ちション	たちション	synonym of 立ち小便 (tachishō…
+j	立ち上がる	たちあがる	to stand up, to get up
+j	立ち上げる	たちあげる	to boot up (a machine, es…
+j	立ち上る	たちのぼる	to rise up into the air
+j	立ち勝る	たちまさる	to be superior; to excel,…
+j	立ち向かう	たちむかう	to oppose; to face; to st…
+j	立ち尽くす	たちつくす	to stand motionless
+j	立ち止まる	たちどまる	to stop and stand still
+j	立ち直り	たちなおり	recovery, restoration
+j	立ち直る	たちなおる	get back on one's feet, r…
+j	立て直す	たてなおす	
+j	立烏帽子	たてえぼし	上部を折り畳まない烏帽子。
+j	立羽蝶	たてはてふ	brush-footed butterfly
+j	立羽蝶	タテハテフ	brush-footed butterfly
+j	立葵	たちあおい	hollyhock, Althaea rosea
+j	立葵	タチアオイ	hollyhock, Althaea rosea
+j	竜田川	たつたがは	a river in northwestern N…
+j	竜田川	たつたがわ	a river in northwestern N…
+j	竜田揚げ	たつたあげ	meat or fish marinated in…
+j	竜頭	たつがしら	an ornament in the shape …
+j	端子台	たんしだい	terminal block (electrica…
+j	端末機	たんまつき	terminal (unit)
+j	竹刀	たけがたな	bamboo sword used in mart…
+j	竹林	たけばやし	A bamboo forest.
+j	竹箒	たかぼうき	bamboo broom
+j	竹箒	たけばうき	bamboo broom
+j	竹箒	たけぼうき	bamboo broom
+j	竹蜻蛉	たけとんぼ	a bamboo-copter, a helico…
+j	竹製の	たけせいの	
+j	竹野内	たけのうち	a surname
+j	絶え間ない	たえまない	unceasing; unending; ince…
+j	縦横比	たてよこひ	
+j	耐え忍ぶ	たえしのぶ	bear (put up with)
+j	耐久	たいきゅう	endurance
+j	耐蝕	たいしょく	材質が腐蝕に耐えること。
+j	耐量	たいりょう	中毒は起こすが死ぬことはない薬物の最大の量。
+j	耐食	たいしょく	材質が腐蝕に耐えること。
+j	耽美的	たんびてき	美を求めるさま。
+j	胆力	たんりょく	物怖じしない気力。度胸。
+j	胆汁	たんじゅう	yellow bile
+j	胎中	たいちゅう	母胎の中。胎内。
+j	胎教	たいきょう	antenatal education (i.e.…
+j	胎生の	たいせいの	
+j	胤変わり	たねがわり	
+j	胤違い	たねちがい	uterine sibling, maternal…
+j	蓄える	たくはへる	to store, to lay in stock…
+j	蓄える	たくわえる	to store, to lay in stock…
+j	蛺蝶	たてはてふ	
+j	褪色	たいしょく	色褪せること。また、褪せた色。
+j	覃及	たんきゅう	及ぶこと。また、引き及ぼすこと。
+j	託児所	たくじしょ	daycare
+j	託児所	たくじしよ	daycare
+j	託承	たくしょう	後事を引き受けること。
+j	託生	たくしょう	「托生」に同じ。
+j	試し切り	ためしぎり	trying out a new sword, t…
+j	試し算	ためしざん	検算。
+j	誕生	たんじょう	birth; creation; formation
+j	谷空木	たにうつぎ	Weigela hortensis
+j	谷空木	タニウツギ	Weigela hortensis
+j	貪欲な	たんよくな	
+j	貪色	たんしょく	女色を貪り、好むこと。
+j	貪賕	たんきゅう	収賄。
+j	貪食	たんしょく	貪り、食うこと。
+j	貸与	たいよする	loaning out
+j	貸借	たいしゃく	credit and debit, lending…
+j	貸借	たいしやく	credit and debit, lending…
+j	貸出	たいしゅつ	金品を外部へ貸し出すこと。貸し付け。
+j	辿り着く	たどりつく	to finally reach a destin…
+j	退京	たいきょう	京から退くこと。
+j	退位	たいいする	abdication (the act of ab…
+j	退位する	たいいする	
+j	退出	たいしゅつ	departure; exit
+j	退出	たいしゆつ	departure; exit
+j	退化	たいかする	degeneration; retrogressi…
+j	退化した	たいかした	
+j	退却	たいきゃく	retreat
+j	退城	たいじょう	城から退出すること。
+j	退場	たいじょう	leaving, withdrawal
+j	退塾	たいじゅく	塾生が卒塾前に塾を辞めること。
+j	退官	たいくわん	retirement from office
+j	退寮	たいりょう	今まで入っていた寮を退去すること。
+j	退局	たいきょく	「局」の付く機関や組織を退職すること。
+j	退屈な	たいくつな	
+j	退庁	たいちょう	勤務を終えて役所から退出すること。
+j	退朝	たいちょう	朝廷から退出すること。
+j	退治	たいじする	stamping out, wiping out
+j	退潮	たいちょう	ebb tide
+j	退縮	たいしゅく	ひるんで萎縮すること。
+j	退職	たいしょく	retirement, resignation, …
+j	退色	たいしょく	色褪せること。また、褪せた色。
+j	退譲	たいじょう	へりくだること。謙譲すること。謙退。
+j	退避	たいひする	evacuation
+j	退部	たいぶする	leaving of a club
+j	退館	たいくわん	leaving a building
+j	逞しい	たくましい	strong, robust
+j	逮及	たいきゅう	およぶこと。
+j	逮捕	たいほする	arrest (of a person)
+j	逮捕する	たいほする	
+j	逮捕権	たいほけん	被疑者の拘束、逮捕を行う権利。
+j	達者な	たっしゃな	
+j	鍛冶	たんやする	forging, smithing
+j	鎮魂	たましずめ	consolation and pacificat…
+j	鎮魂	たましづめ	consolation and pacificat…
+j	隊商	たいしょう	a merchant caravan, such …
+j	隊長	たいちょう	leader, commander, captain
+j	韜晦	たうくわい	hiding one's talents
+j	頼もしい	たのもしい	reliable, trustworthy
+j	頼もしく	たのもしく	
+j	食べさせる	たべさせる	
+j	食べること	たべること	
+j	食べ尽くす	たべつくす	
+j	食べ残し	たべのこし	food scraps, leftovers, l…
+j	食べ物屋	たべものや	
+j	驒州	たんしゅう	飛驒国^(（ひだのくに）)の別称。
+j	高実子	たかじつこ	a female given name
+j	高柳	たかやなぎ	a surname
+j	高楊枝	たかようじ	using a toothpick after a…
+j	高飛車	たかびしゃ	heavy-handed; domineering…
+j	高飛車	たかびしや	heavy-handed; domineering…
+j	高鼾	たかいびき	a loud snore
+j	鷹の爪	たかのつめ	Gamblea innovans, a decid…
+j	鷹匠	たかじょう	鷹狩りに使う鷹を飼育、訓練する人。鷹使い。鷹飼い。…
+j	鷹司	たかつかさ	a surname
+j	鷹岬	たかみさき	a surname
+j	たいいんれき	たいいんれき	太陰暦: a lunar calendar
+j	たいくつした	たいくつした	
+j	たいげんどめ	たいげんどめ	ending a sentence with a …
+j	たいせきがん	たいせきがん	堆積岩: sedimentary rock
+j	たいまつ祭り	たいまつ祭り	中国西南部の彝族の主要な祝日の一つ。
+j	たいようこう	たいようこう	太陽光: sunlight
+j	たいようれき	たいようれき	太陽暦: solar calendar
+j	たいりくだな	たいりくだな	大陸棚: continental shelf
+j	たかちほへび	たかちほへび	有鱗目タカチホヘビ科タカチホヘビ属に属する蛇の一種…
+j	たかとびこみ	たかとびこみ	高さが5メートル、7.5メートル、10メートルの固…
+j	たかねおろし	たかねおろし	高い峰から吹き降ろす風。
+j	たからさがし	たからさがし	隠されたり、埋もれたりした財宝を探すこと。
+j	たがいちがい	たがいちがい	性質の異なる二つのものが一つおきに入り混じること。
+j	たくさんある	たくさんある	
+j	たくしあげる	たくしあげる	裾や袖などをまくる。たくりあげる。
+j	たくし上げる	たくしあげる	to roll up or pull up one…
+j	たくし上げる	たくし上げる	to roll up or pull up one…
+j	たくましい男	たくましい男	
+j	たけかんむり	たけかんむり	漢字の部首「⽵」の呼称の一つ。
+j	たけだけしい	たけだけしい	勇ましく強そうである。
+j	たけりくるう	たけりくるう	興奮して大声で叫んだり暴れ回ったりする。
+j	たそがれどき	たそがれどき	夕暮れ時。外が暗くなり、他人の顔が見えず「誰そ彼」…
+j	たたかいとる	たたかいとる	戦って勝ち取る。戦いに勝った結果、打ち負かした相手…
+j	たたきあげる	たたきあげる	たたいてつくりあげる。
+j	たたきあらい	たたきあらい	洗い物を洗濯板などに叩きつけるなどする洗濯の方法。
+j	たたきおこす	たたきおこす	to rout out of bed; to ro…
+j	たたきころす	たたきころす	叩いて殺す。
+j	たたきつける	たたきつける	強く投げ付ける。
+j	たたみおもて	たたみおもて	主に藺草の茎を麻糸で編んだ畳の表面に張る茣蓙。
+j	たたみかける	たたみかける	相手に余裕を与える暇がないほど立て続けに行う。
+j	ただばたらき	ただばたらき	只働き: work done for free, …
+j	ただ一つの	ただひとつの	
+j	たちはばとび	たちはばとび	standing long jump; stand…
+j	たちまちづき	たちまちづき	旧暦17日の夜の月。
+j	たちもとおる	たちもとおる	あちらこちらに歩き回る。彷徨する。
+j	たった一つの	たった一つの	
+j	たてかんばん	たてかんばん	standing signboard
+j	たてがみいぬ	たてがみいぬ	ハイエナ
+j	たとうせいじ	たとうせいじ	多頭政治: polyarchy
+j	たとえばなし	たとえばなし	譬え話, 例え話, たとえ話: a parable
+j	たどたどしい	たどたどしい	awkward, with difficulty,…
+j	たなあきない	たなあきない	店を構えて商売すること。
+j	たぬきうどん	たぬきうどん	揚げ玉を載せたうどん。
+j	たぬきねいり	たぬきねいり	寝ているふりをすること。空寝。
+j	たねポケモン	たねポケモン	a Basic Pokémon
+j	たばこ特別税	たばこ特別税	日本国の「一般会計における債務の承継等に伴い必要な…
+j	たびあきんど	たびあきんど	商品を携え旅しながら販売する商人。
+j	たびかさなる	たびかさなる	to repeat; to recur
+j	たびかさねる	たびかさねる	繰り返し行う。「重ねる」の繰り返していること・続い…
+j	たまむしいろ	たまむしいろ	たまむしの翅のごとく、光の具合で様々な色に変化する…
+j	たまりかねる	たまりかねる	我慢できなくなる。耐えられなくなる。
+j	たまわりもの	たまわりもの	貴人や上位の者から拝領したもの。
+j	たみのくさば	たみのくさば	民衆を草に例えた語。
+j	ため息をつく	ため息をつく	
+j	たらいまわし	たらいまわし	passing on and send in ci…
+j	たらいまわし	たらひまはし	passing on and send in ci…
+j	たわいもない	たわいもない	trifling, not worth menti…
+j	たんかすいそ	たんかすいそ	炭化水素: hydrocarbon
+j	たんじょうび	たんじょうび	
+j	たんす預金	たんすよきん	箪笥預金の表記揺れ。
+j	たんとうしゃ	たんとうしゃ	
+j	たんのうえん	たんのうえん	胆嚢炎: (pathology) cholecys…
+j	タイコノート	タイコノート	
+j	タイサンボク	タイサンボク	モクレン目モクレン科モクレン属に属する常緑高木の一…
+j	タイタニック	タイタニック	力強い様子。勇ましい様子。
+j	タイトエンド	タイトエンド	
+j	タイトルバー	タイトルバー	
+j	タイトル詐欺	たいとるさぎ	usage of misleading title…
+j	タイトル詐欺	タイトルさぎ	usage of misleading title…
+j	タイトル詐欺	タイトル詐欺	usage of misleading title…
+j	タイプライタ	タイプライタ	活字を一文字ずつ紙等に印字することにより書類を作成…
+j	タイプ産地	たいぷさんち	タイプ標本が採集・観察された場所のこと。模式産地や…
+j	タイミル半島	タイミル半島	Taimyr (a large peninsula…
+j	タイムアウト	タイムアウト	time-out
+j	タイムアップ	タイムアップ	time's up
+j	タイムカード	タイムカード	タイムレコーダーに用いる紙。
+j	タイムシフト	タイムシフト	time shifting (recording …
+j	タイムシート	タイムシート	an exposure sheet; an X-s…
+j	タイムセール	タイムセール	a limited-time sale (at d…
+j	タイムゾーン	タイムゾーン	time zone
+j	タイムマシン	タイムマシン	time machine
+j	タイムライン	タイムライン	a timeline
+j	タイムリープ	タイムリープ	time travel (The further …
+j	タイムループ	タイムループ	サイエンスフィクションなどで同じ時間軸が何度も繰り…
+j	タイムワープ	タイムワープ	過去や未来に旅行すること。タイムトラベル。
+j	タイランド湾	タイランド湾	南シナ海西部にあり、西をマレー半島、北と東をインド…
+j	タイ料理	たいりょうり	タイの伝統的な料理。
+j	タイ王国	たいおうこく	東南アジアにある国。首都はバンコク。公用語はタイ語…
+j	タウンシップ	タウンシップ	アメリカ合衆国の郡の下の行政単位。郡区。
+j	タウンユース	タウンユース	（衣服やバッグなどの、アウトドアではなく）近場での…
+j	タウ粒子	たうりゅうし	a tauon
+j	タウ粒子	タウりゅうし	a tauon
+j	タオルケット	タオルケット	a type of bed linen resem…
+j	タガログ人	たがろぐじん	フィリピンの主要民族。タガログ語を母語とする。
+j	タガンローク	タガンローク	
+j	タクティクス	タクティクス	tactics
+j	タクラマカン	タクラマカン	
+j	タグラグビー	タグラグビー	タックルの代わりにタグを取るラグビー。
+j	タコメーター	タコメーター	回転速度計。回転計。
+j	タシャッフド	タシャッフド	tashahhud
+j	タシュケント	タシュケント	ウズベキスタンの首都。
+j	タジキスタン	タジキスタン	Tajikistan (a country in …
+j	タスク管理	たすくかんり	自分がやるべき仕事、業務を整理すること。
+j	タスマン海	たすまんかい	the Tasman Sea
+j	タスマン海	タスマンかい	the Tasman Sea
+j	タタルスタン	タタルスタン	
+j	タタール人	たたーるじん	タタールスタンの主要民族。テュルク系民族の一つ。
+j	タダラフィル	タダラフィル	
+j	タッグチーム	タッグチーム	tag team
+j	タッチダウン	タッチダウン	a touchdown
+j	タッチパッド	タッチパッド	a touchpad
+j	タッチパネル	タッチパネル	touchscreen; touch panel
+j	タップダンス	タップダンス	爪先とかかとに金具を付けた靴でリズミカルに床を叩き…
+j	タップミノー	タップミノー	カダヤシの別称。
+j	タニンダーリ	タニンダーリ	
+j	タバコを吸う	たばこをすう	to smoke (tobacco, cigare…
+j	タバコを吸う	タバコをすう	to smoke (tobacco, cigare…
+j	タバコを吸う	タバコを吸う	to smoke (tobacco, cigare…
+j	タビビトノキ	タビビトノキ	
+j	タフスィール	タフスィール	tafsir
+j	タブラチュア	タブラチュア	五線譜と音符などによらず文字や記号、数字による記譜…
+j	タブロイド版	タブロイド版	通常の新聞の半分の大きさの版型。タブロイド。
+j	タブロイド紙	たぶろいどし	タブロイドの大きさで発行される新聞。
+j	タブロイド紙	タブロイド紙	タブロイドの大きさで発行される新聞。
+j	タブーにする	タブーにする	
+j	タペストリー	タペストリー	tapestry (decorative clot…
+j	タマキビガイ	タマキビガイ	
+j	タランチュラ	タランチュラ	ヨーロッパの伝説に出てくる毒蜘蛛でモデルとなったタ…
+j	タリアテッレ	タリアテッレ	tagliatelle
+j	タリエリーニ	タリエリーニ	taglierini, tagliolini (p…
+j	タリ活用	たりかつよう	an adjective inflection c…
+j	タリ活用	タリかつよう	an adjective inflection c…
+j	タルブーシュ	タルブーシュ	tarboosh
+j	タルーダント	タルーダント	
+j	タレスの定理	タレスの定理	直径に対する円周角が常に直角になり、逆に円周角が直…
+j	タンウィーン	タンウィーン	
+j	タンガニーカ	タンガニーカ	1961年から1964年までアフリカに存在した国家…
+j	タンクトップ	タンクトップ	a tank top (singlet)
+j	タングステン	タングステン	tungsten
+j	タングート人	タングート人	
+j	タンザナイト	タンザナイト	
+j	タンザニア人	タンザニア人	
+j	タンジェリン	タンジェリン	
+j	タンジェント	タンジェント	tangent
+j	タンス預金	たんすよきん	箪笥預金の表記揺れ。
+j	タンタル石	たんたるせき	
+j	ターキッシュ	ターキッシュ	トルコ人。
+j	ターダッキン	ターダッキン	
+j	ターディオン	ターディオン	tardyon
+j	ターマガント	ターマガント	
+j	ターミナル駅	ターミナル駅	都心と郊外や、近県各地を結ぶ鉄道の起終点駅。
+j	ターミネータ	ターミネータ	
+j	ターメリック	ターメリック	鬱金の根茎を乾燥させた香辛料。また、黄色の着色料。
+j	ターリバーン	ターリバーン	
+j	ターンパイク	ターンパイク	有料道路。有料の高速道路。
+j	丹精	たんせいする	great care
+j	丹誠	たんせいする	「丹精」の別表記。
+j	他山の石	たざんのいし	良いところも含めて吟味したうえで教訓などにするべき…
+j	代謝	たいしゃする	renewal; regeneration
+j	代赭色	たいしゃいろ	burnt sienna
+j	体外式	たいがいしき	
+j	体得	たいとくする	acquiring knowledge
+j	体感	たいかんする	feeling in the body
+j	体操	たいそうする	gymnastics, exercises, ca…
+j	体温計	たいおんけい	medical thermometer
+j	体温計	たいをんけい	medical thermometer
+j	体系的	たいけいてき	systematic
+j	体細胞	たいさいぼう	somatic cell
+j	体育の日	たいいくのひ	「スポーツの日」の旧称。
+j	体育服	たいいくふく	体操服
+j	体育祭	たいいくさい	sports day; field day
+j	体育館	たいいくかん	gym; gymnasium
+j	体言止め	たいげんどめ	文を体言で終わらせる修辞法。
+j	体験	たいけんする	experience
+j	体験する	たいけんする	
+j	体験型	たいけんがた	見るだけではなく自身で体験できる、来た人が実際に試…
+j	例えるなら	たとえるなら	
+j	内匠寮	たくみづかさ	a department under the 中務…
+j	内匠寮	たくみりょう	a department under the 中務…
+j	内匠頭	たくみのかみ	the chief of the 内匠寮 (Tak…
+j	助けになる	たすけになる	to be helpful, to be of a…
+j	卓三郎	たくさぶろう	a male given name
+j	卓越	たくえつする	excellence, superiority, …
+j	卓越した	たくえつした	
+j	卓越する	たくえつする	
+j	単一性	たんいつせい	
+j	単位球	たんいきゅう	半径が1の球体。
+j	単価記号	たんかきごう	an at sign
+j	単孔目	たんこうもく	Monotremata
+j	単孔類	たんこうるい	単孔目に属する哺乳類の総称。
+j	単性説	たんせいせつ	monophysitism
+j	単性論	たんせいろん	イエスが一つの性だけを持つとする説。451年のカル…
+j	単振動	たんしんどう	正弦関数あるいは余弦関数で動きを表すことができる振…
+j	単数形	たんすうけい	a singular form of a word
+j	単方向	たんほうこう	一つの方向だけに限られること。
+j	単為結果	たんいけっか	
+j	単独性	たんどくせい	
+j	単糖類	たんとうるい	糖類のうち加水分解してそれ以上簡単な構造に分解でき…
+j	単純な	たんじゅんな	
+j	単純化	たんじゅんか	simplification
+j	単純語	たんじゅんご	simple word
+j	単細胞	たんさいばう	single-celled, unicellula…
+j	単細胞	たんさいぼう	single-celled, unicellula…
+j	単行本	たんかうぼん	tankobon
+j	単行本	たんこうぼん	tankobon
+j	単語帳	たんごちょう	外国語や古語の単語とその意味を並べた書物。
+j	単調な	たんちょうな	
+j	単音節	たんおんせつ	
+j	単項式	たんこうしき	monomial expression
+j	卵の殻	たまごのから	
+j	卵を生む	たまごをうむ	
+j	叩き付ける	たたきつける	to throw violently agains…
+j	叩き直す	たたきなおす	beat someone into shape
+j	叩き落とす	たたきおとす	to beat down, to knock off
+j	只働き	ただばたらき	work done for free, unpai…
+j	台湾人	たいわんじん	the Taiwanese people, a T…
+j	台湾島	たいわんとう	台湾の人口の大部分を占め、首都の台北がある島。台湾…
+j	台湾猿	たいわんざる	Formosan rock macaque (Ma…
+j	台湾猿	タイワンザル	Formosan rock macaque (Ma…
+j	台湾虎	たいわんとら	synonym of 雲豹 (unpyō, “cl…
+j	台湾虎	タイワントラ	synonym of 雲豹 (unpyō, “cl…
+j	台頭	たいとうする	rise; emergence
+j	台風の目	たいふうのめ	
+j	唐変木	たうへんぼく	A person who is narrow-mi…
+j	唐宋音	たうそうおん	the pronunciation of Chin…
+j	唐縮緬	たうちりめん	muslin
+j	啄木鳥	たくぼくてう	a woodpecker (bird in Pic…
+j	嘆息	たんそくする	a sigh
+j	嘆息する	たんそくする	
+j	嘆願	たんがんする	entreaty, supplication, p…
+j	嘆願する	たんがんする	
+j	堆積	たいせきする	accumulation
+j	堆積岩	たいせきがん	sedimentary rock
+j	堆積物	たいせきぶつ	sediment, deposit
+j	堪り兼ねる	たまりかねる	be unable to bear any more
+j	堪能	たんのうする	satisfaction, satiety
+j	堪能する	たんのうする	
+j	多価関数	たかかんすう	一つの入力に対して複数の出力を持つ関数。全単射とな…
+j	多元主義	たげんしゅぎ	
+j	多士済々	たしさいさい	an assemblage of excellen…
+j	多士済々	たしせいせい	an assemblage of excellen…
+j	多士済済	たしさいさい	優秀な人材が多く集まっていること。
+j	多士済済	たしせいせい	優秀な人材が多く集まっていること。
+j	多孔質の	たこうしつの	
+j	多岐に渡る	たきにわたる	cover a many areas or top…
+j	多年生の	たねんせいの	
+j	多幸症	たこうしょう	euphoria
+j	多様化	たようかする	diversification
+j	多様化する	たようかする	
+j	多汗症	たかんしょう	hyperhidrosis
+j	多神教	たしんきょう	a polytheistic religion
+j	多種多様	たしゅたよう	synonym of 十人十色 (jūnin to…
+j	多細胞の	たさいぼうの	
+j	多色性	たしょくせい	（鉱物学）白色偏光を透過させたとき、鉱物の結晶軸と…
+j	多階微分	たかいびぶん	高次導関数を求める操作。高階微分。
+j	多面体の	ためんたいの	
+j	多項定理	たこうていり	(x_1+x_2+⋯+x_m)ⁿ=∑_(∑ᵢ₌₁ᵐ…
+j	多頭政治	たとうせいじ	polyarchy
+j	多頭政治	たとうせいぢ	polyarchy
+j	大使館	たいしくわん	embassy
+j	大公国	たいこうこく	a grand duchy
+j	大唐米	たいとうごめ	外来の下等な水稲の一種で、小粒で味は悪いが、炊飯す…
+j	大域的	たいいきてき	全体に関わるさま。大局的。
+j	大成	たいせいする	completion; accomplishment
+j	大敗	たいはいする	crushing defeat
+j	大書	たいしょする	writing in large script
+j	大気汚染	たいきおせん	air pollution
+j	大河ドラマ	たいがどらま	
+j	大漁旗	たいりょうき	漁船が漁から帰港する際に、大漁であったことを港にい…
+j	大猷院	たいゆういん	Taiyū-in (mausoleum of To…
+j	大衆化	たいしゅうか	
+j	大衆紙	たいしゅうし	大衆向けの情報を掲載した新聞。大衆新聞。
+j	大衆誌	たいしゅうし	大衆向けの情報を掲載した雑誌。大衆雑誌。
+j	大西洋	たいせいやう	the Atlantic Ocean
+j	大西洋	たいせいよう	the Atlantic Ocean
+j	大観	たいかんする	wide view, broad survey
+j	大量の	たいりょうの	
+j	大陸島	たいりくとう	大陸の近くにあり大陸から分かれてできたと見られる島…
+j	大陸棚	たいりくだな	continental shelf
+j	大陸法	たいりくほう	civil law
+j	大陸間	たいりくかん	
+j	大雪山	たいせつざん	Daisetsuzan (a mountain r…
+j	大食の	たいしょくの	
+j	太平洋	たいへいやう	the Pacific Ocean
+j	太平洋	たいへいよう	the Pacific Ocean
+j	太平道	たいへいどう	Way of the Great Peace, a…
+j	太極旗	たいきょくき	Taegeukgi, the official f…
+j	太白星	たいはくせい	「金星」の異称。
+j	太陰年	たいいんねん	
+j	太陰暦	たいいんれき	lunar calendar
+j	太陽光	たいようこう	sunlight
+j	太陽年	たいようねん	太陽が春分点を通過してから再び春分点に来るまでの時…
+j	太陽日	たいやうじつ	solar day
+j	太陽日	たいようじつ	solar day
+j	太陽暦	たいようれき	solar calendar
+j	太陽熱	たいようねつ	太陽から放射され地球に到達する熱エネルギー。
+j	太陽神	たいようしん	sun god
+j	太陽系	たいやうけい	the Solar System
+j	太陽系	たいようけい	the Solar System
+j	太陽風	たいやうふう	solar wind
+j	太陽風	たいようふう	solar wind
+j	宅配	たくはいする	home delivery
+j	宅配便	たくはいびん	配達依頼を受けた比較的小さな貨物を各戸に配送する貨…
+j	宅録	たくろくする	recording at home
+j	宝の地図	たからのちず	treasure map
+j	宝探し	たからさがし	treasure hunt
+j	対キロ制	たいきろせい	乗車した距離1キロメートルごとに運賃を加算した方式。
+j	対バン	たいバンする	music event featuring mul…
+j	対内的	たいないてき	内に関するさま
+j	対処	たいしょする	coping, handling
+j	対処する	たいしょする	
+j	対向	たいこうする	facing, being opposite
+j	対外的	たいがいてき	外に関するさま
+j	対応	たいおうする	correspondence to
+j	対応する	たいおうする	
+j	対戦	たいせんする	competition, especially f…
+j	対戦者	たいせんしゃ	competitor
+j	対戦車	たいせんしゃ	antitank
+j	対抗	たいこうする	opposition
+j	対抗する	たいこうする	
+j	対決	たいけつする	confrontation, face-off, …
+j	対決する	たいけつする	
+j	対流圏	たいりうけん	the troposphere
+j	対称な	たいしょうな	
+j	対称差	たいしょうさ	2つの集合に対して、「片方に属するがもう片方に属さ…
+j	対立	たいりつする	opposition
+j	対角線	たいかくせん	多角形の、隣り合わない二つの頂点を結んだ直線。
+j	対訳本	たいやくほん	bilingual book; a book wi…
+j	対訳本	たいやくぼん	bilingual book; a book wi…
+j	対談	たいだんする	dialogue
+j	対談者	たいだんしゃ	interlocutor
+j	対象化	たいしょうか	
+j	対蹠点	たいしょてん	ある地点からその天体の中心を挟んで丁度反対側にある…
+j	対蹠点	たいせきてん	ある地点からその天体の中心を挟んで丁度反対側にある…
+j	対面	たいめんする	an interview, meeting
+j	帯分数	たいぶんすう	mixed number
+j	帯域幅	たいいきはば	bandwidth (width of a fre…
+j	帯域幅	たいゐきはば	bandwidth (width of a fre…
+j	帯水層	たいすいそう	aquifer (an underground l…
+j	帯電	たいでんする	being electrified; being …
+j	弾を込める	たまをこめる	
+j	弾正台	ただすつかさ	a type of 律(りつ)令(りょう) (ri…
+j	当世風	たうせいふう	fashionable; up-to-date
+j	待望	たいぼうする	waiting eagerly, looking …
+j	待誕節	たいたんせつ	クリスマスの前の四週間。キリストの降誕を待つ準備期…
+j	待遇	たいぐうする	reception of customers, c…
+j	待降節	たいこうせつ	クリスマスの前の四週間。キリストの降誕を待つ準備期…
+j	戦い抜く	たたかいぬく	to fight through
+j	戯れ言	たはぶれごと	a practical joke, prank
+j	戯れ言	たはむれごと	a practical joke, prank
+j	戯れ言	たわぶれごと	a practical joke, prank
+j	戯れ言	たわむれごと	a practical joke, prank
+j	戯書	たわむれがき	"playful writing", a type…
+j	戴冠	たいかんする	coronation
+j	戴冠式	たいかんしき	coronation (ceremony), en…
+j	手弱女振り	たおやめぶり	a feminine poetic style e…
+j	手弱女振り	たをやめぶり	a feminine poetic style e…
+j	手繰り寄せる	たぐりよせる	to pull in; to haul in
+j	托鉢	たくはつする	religious mendicancy
+j	托鉢僧	たくはつそう	
+j	担々麺	たんたんめん	a dish made from noodles …
+j	担々麺	タンタンメン	a dish made from noodles …
+j	担任	たんにんする	being in charge
+j	担当	たんとうする	charge of, end, responsib…
+j	担当者	たんとうしゃ	person in charge, person …
+j	担税者	たんぜいしゃ	租税を経済的に負担する者。
+j	探偵	たんていする	a detective (person emplo…
+j	探検	たんけんする	expedition, exploration
+j	探検する	たんけんする	
+j	探検隊	たんけんたい	未到達、未発見の場所を調査、開拓するため組織された…
+j	探照灯	たんせうとう	searchlight
+j	探索	たんさくする	search, lookup, explorati…
+j	探訪	たんぼうする	inquiry (investigative vi…
+j	探鉱	たんこうする	prospecting
+j	探鉱者	たんこうしゃ	
+j	旅立ち	たびだちする	departure on a trip/journ…
+j	楽しませる	たのしませる	
+j	正しいです	ただしいです	
+j	民部省	たみのつかさ	the Ministry of Popular A…
+j	沢庵漬け	たくあんづけ	漬物の一つ。「沢庵」を参照。
+j	泰和辞典	たいわじてん	タイ語の単語や熟語を、日本語で定義し、用法等を解説…
+j	淡水魚	たんすいぎょ	fresh water fish
+j	淡水魚	たんすいぎよ	fresh water fish
+j	淡紫色	たんししょく	淡い紫色。淡紫。
+j	滞在	たいざいする	stay
+j	滞欧	たいおうする	staying in Europe
+j	滞米	たいべいする	staying in the United Sta…
+j	滞納	たいのうする	nonpayment, arrears
+j	滞麑	たいげいする	staying in Kagoshima
+j	炭化水素	たんかすいそ	hydrocarbon
+j	炭水車	たんすいしゃ	tender (fuel-carrying rai…
+j	炭疽症	たんそしょう	anthrax
+j	炭素繊維	たんそせんい	合成樹脂を不活性の気体で熱処理して炭化させて作られ…
+j	炭酸ガス	たんさんがす	synonym of 二酸化炭素 (nisanka…
+j	炭酸ガス	たんさんガス	synonym of 二酸化炭素 (nisanka…
+j	炭酸塩	たんさんえん	carbonate
+j	炭酸水	たんさんすい	carbonated water
+j	狸囃子	たぬきばやし	festival music heard at n…
+j	狸寝入り	たぬきねいり	feigning sleep; playing p…
+j	狸菖蒲	たぬきあやめ	frogsmouths, Philydrum la…
+j	猛々しい	たけだけしい	ferocious
+j	玉依姫	たまよりひめ	daughter of 海神 (Watatsumi…
+j	玉依姫	たまよりびめ	daughter of 海神 (Watatsumi…
+j	玉虫色	たまむしいろ	iridescent; having differ…
+j	玉蜀黍	たうもろこし	maize, corn (especially c…
+j	玉軸受	たまじくうけ	ball bearing (bearing ass…
+j	畳み寝台	たたみねだい	
+j	短期予報	たんきよほう	翌々日までの天気予報。
+j	短絡	たんらくする	short, short circuit
+j	短絡的	たんらくてき	物事の本質や筋道を深く考えないまま原因や結果などの…
+j	短絡線	たんらくせん	二つの路線を短絡し、本線を通るより短距離で結ぶ線路。
+j	確かめ算	たしかめざん	検算。
+j	磔刑像	たくけいぞう	crucifix
+j	立ちはだかる	たちはだかる	to stand in the way, obst…
+j	立ち漕ぎ	たちこぎする	standing while pedaling a…
+j	立ち聞き	たちぎきする	eavesdropping
+j	立ち聞きする	たちぎきする	
+j	立ち退かせる	たちのかせる	
+j	立ち遅れる	たちおくれる	
+j	立ち食い	たちぐいする	standing and eating
+j	立会人	たちあいにん	witness; observer
+j	立役者	たてやくしゃ	primary performer
+j	立役者	たてやくしや	primary performer
+j	立浪草	たつなみそう	Scutellaria indica, a spe…
+j	立浪草	タツナミソウ	Scutellaria indica, a spe…
+j	立羽蝶	たてはちょう	brush-footed butterfly
+j	立羽蝶	タテハチョウ	brush-footed butterfly
+j	立行司	たてぎやうじ	one of the two head gyoji…
+j	立行司	たてぎょうじ	one of the two head gyoji…
+j	箍を外す	たがをはずす	to cut loose, to go wild
+j	箪笥預金	たんすよきん	銀行などに預けず自宅の箪笥などに置いている現金。
+j	簞笥預金	たんすよきん	銀行などに預けず自宅の簞笥などに置いている現金。
+j	耐火性の	たいかせいの	
+j	耐空性	たいくうせい	
+j	耐音圧	たいおんあつ	マイクなどの音響機器が音を歪むことなく処理できる最…
+j	耽溺	たんできする	indulgence
+j	耽読	たんどくする	absorption in reading
+j	胆嚢炎	たんなうえん	cholecystitis
+j	胆嚢炎	たんのうえん	cholecystitis
+j	胆囊炎	たんのうえん	細菌感染、胆石症などにより胆囊に起こる炎症。
+j	胆汁酸	たんじふさん	bile acid
+j	胆管癌	たんかんがん	胆管に発生する癌。
+j	胎動	たいどうする	quickening (noticeable mo…
+j	胎動する	たいどうする	
+j	胎生学	たいせいがく	embryology (of humans)
+j	膽囊炎	たんなうえん	
+j	膽囊炎	たんのうえん	
+j	蛋白質	たんぱくしつ	protein
+j	蛋白質	タンパクシツ	protein
+j	蛸配当	たこはいとう	配当として株主に支払うことのできる利益がないにも関…
+j	蛺蝶	たてはちょう	
+j	試してみる	ためしてみる	
+j	誕生寺	たんじょうじ	Tanjōji (a temple in Kamo…
+j	誕生日	たんじやうび	a birthday
+j	誕生日	たんじょうび	a birthday
+j	譬え話	たとえばなし	a parable
+j	譬え話	たとへばなし	a parable
+j	貪官汚吏	たんかんおり	corrupt official
+j	貸館	たいかんする	renting out of a 館 (kan)
+j	質が悪い	たちがわるい	vicious, wicked
+j	跆拳道	たいけんどう	テコンドーの漢字表記。
+j	退任	たいにんする	retirement; resignation
+j	退会	たいかいする	withdrawal from a group
+j	退勤	たいきんする	getting off work; clockin…
+j	退去	たいきょする	departure, exit
+j	退団	たいだんする	leaving a group such as a…
+j	退嬰的	たいえいてき	conservative
+j	退学	たいがくする	dropping out of school
+j	退官	たいかんする	retirement from office
+j	退室	たいしつする	departure/exit from a room
+j	退屈	たいくつする	tedious
+j	退屈した	たいくつした	
+j	退席	たいせきする	leaving one's seat
+j	退廃的	たいはいてき	不道徳、不健全であるさま。
+j	退役	たいえきする	retirement from the milit…
+j	退所	たいしょする	withdrawal from a 所 (sho)…
+j	退散	たいさんする	dispersion, scattering aw…
+j	退社	たいしゃする	leaving the office for th…
+j	退蔵益	たいぞうえき	プリペイドカードや有価証券などが商品や役務と交換さ…
+j	退路を断つ	たいろをたつ	
+j	退院	たいいんする	leaving a hospital
+j	退陣	たいじんする	resignation
+j	退館	たいかんする	leaving a building
+j	逃避主義	たうひしゆぎ	escapism
+j	逮捕状	たいほじょう	arrest warrant
+j	達成	たっせいする	achievement
+j	達成する	たっせいする	
+j	達観	たっかんする	a philosophical view, tak…
+j	達觀	たっかんする	a philosophical view, tak…
+j	鍛錬	たんれんする	physical exercise, work o…
+j	頼りになる	たよりになる	to be reliable
+j	頼母子講	たのもしこう	金融を目的とした庶民の互助組織。一定の期日に集まっ…
+j	食べられない	たべられない	
+j	食べ放題	たべはうだい	all you can eat
+j	食べ放題	たべほうだい	all you can eat
+j	高倉竜	たかくらたつ	a flat-faced seahorse, Hi…
+j	高倉竜	タカクラタツ	a flat-faced seahorse, Hi…
+j	高天原	たかまがはら	the sky, heavens
+j	高天原	たかまのはら	the sky, heavens
+j	高嶺の花	たかねのはな	that which seems to be ou…
+j	高皇産霊	たかみむすひ	one of the first three go…
+j	高皇産霊	たかみむすび	one of the first three go…
+j	高砂国	たかさごこく	Takasago, an old name for…
+j	高砂族	たかさごぞく	aboriginal tribes
+j	高調子	たかちょうし	声などの調子が高いこと。
+j	高足蟹	たかあしがに	a Japanese spider crab (M…
+j	高足蟹	タカアシガニ	a Japanese spider crab (M…
+j	高跳び	たかとびする	high jump
+j	高飛び込み	たかとびこみ	platform diving, high div…
+j	鬣犬	たてがみいぬ	hyena
+j	鬣犬	タテガミイヌ	hyena
+j	鱈戦争	たらせんそう	Cod Wars
+j	たいかいとどけ	たいかいとどけ	退会届: notice of withdrawal
+j	たいしょうせい	たいしょうせい	
+j	たいまつ祭り	たいまつまつり	中国西南部の彝族の主要な祝日の一つ。
+j	たいようけいぎ	たいようけいぎ	太陽系儀: orrery
+j	たげんうちゅう	たげんうちゅう	多元宇宙: the multiverse
+j	たこやきピック	たこやきピック	たこ焼きを引っ繰り返すための錐。
+j	たこウインナー	たこウインナー	octopus sausage (wiener s…
+j	たたかいがまえ	たたかいがまえ	漢字の部首「⾾」が構えであるときの呼称。
+j	たちいふるまい	たちいふるまい	一つ一つの動作。身のこなし。
+j	たちいりきんし	たちいりきんし	立入禁止: no entry
+j	たった一つの	たったひとつの	
+j	たつのおとしご	たつのおとしご	トゲウオ目ヨウジウオ科タツノオトシゴ属に属する魚の…
+j	たてちゅうよこ	たてちゅうよこ	縦中横: a block of horizonta…
+j	ため息をつく	ためいきをつく	
+j	たらこくちびる	たらこくちびる	large and plump lips
+j	たんしんふにん	たんしんふにん	単身赴任: a job transfer that…
+j	タイトルカード	タイトルカード	
+j	タイトルコール	タイトルコール	sound effect where the na…
+j	タイトルバック	タイトルバック	映画やテレビ番組で題名や配役などを記した字幕の背景…
+j	タイトルマッチ	タイトルマッチ	ボクシングやプロレスのチャンピオンを決める試合。
+j	タイプフェイス	タイプフェイス	synonym of 書体 (shotai, “t…
+j	タイプフェース	タイプフェース	
+j	タイプライター	タイプライター	a typewriter (machine use…
+j	タイポグラフィ	タイポグラフィ	typography (art and techn…
+j	タイムアタック	タイムアタック	a time trial; a race agai…
+j	タイムカプセル	タイムカプセル	a time capsule
+j	タイムスタンプ	タイムスタンプ	timestamp
+j	タイムスリップ	タイムスリップ	synonym of タイムトラベル (taimu…
+j	タイムテーブル	タイムテーブル	時刻表。また、日程を示した表。
+j	タイムトラベル	タイムトラベル	time travel (Requires a d…
+j	タイムトリップ	タイムトリップ	synonym of タイムトラベル (taimu…
+j	タイムマシーン	タイムマシーン	time machine
+j	タイムリミット	タイムリミット	time limit
+j	タイヤチェーン	タイヤチェーン	雪道でスリップを防ぐためなどのため自動車のタイヤ（…
+j	タイヤブランコ	タイヤブランコ	
+j	タイランド湾	たいらんどわん	南シナ海西部にあり、西をマレー半島、北と東をインド…
+j	タイリクタヌキ	タイリクタヌキ	ビンエツタヌキの別称。
+j	タオルを投げる	タオルを投げる	ボクシングで、競技者が負傷などにより競技続行が不可…
+j	タカラジェンヌ	タカラジェンヌ	member of the Takarazuka …
+j	タクシープール	タクシープール	駅前などでタクシーが乗客を乗せるために待機している…
+j	タクシー乗り場	たくしーのりば	
+j	タクシー乗り場	タクシー乗り場	
+j	タクシー運転手	タクシー運転手	
+j	タグバヌワ文字	たぐばぬわもじ	フィリピンのパラワン島で話されるパラワン諸語を表記…
+j	タグバヌワ文字	タグバヌワ文字	フィリピンのパラワン島で話されるパラワン諸語を表記…
+j	タジキスタン人	タジキスタン人	タジキスタン国籍を有する者。タジキスタン出身者。
+j	タジュウィード	タジュウィード	
+j	タスクフォース	タスクフォース	taskforce
+j	タタールスタン	タタールスタン	ロシア連邦を構成する共和国の一つ。首都はカザン。
+j	タッギャテッレ	タッギャテッレ	
+j	タックスフリー	タックスフリー	tax-free
+j	タックスヘブン	タックスヘブン	
+j	タッパーウェア	タッパーウェア	Tupperware
+j	タッリャテッレ	タッリャテッレ	
+j	タツノオトシゴ	タツノオトシゴ	たつのおとしごの学術的表記。
+j	タナトフォビア	タナトフォビア	死恐怖症。
+j	タニガワナマズ	タニガワナマズ	日本固有種のナマズの一種。この名は2018年に日比…
+j	タヒチモンビン	タヒチモンビン	
+j	タピオカティー	タピオカティー	bubble tea (sweet tea dri…
+j	タピオカパール	タピオカパール	
+j	タブロイド版	たぶろいどばん	通常の新聞の半分の大きさの版型。タブロイド。
+j	タリ活用	たりくわつよう	an adjective inflection c…
+j	タルタルソース	タルタルソース	
+j	タルト・タタン	タルト・タタン	
+j	タルト活用	たるとかつよう	現代日本語の形容動詞における、活用語尾が連用形で「…
+j	タルヴィージオ	タルヴィージオ	
+j	タレスの定理	たれすのていり	直径に対する円周角が常に直角になり、逆に円周角が直…
+j	タロットカード	タロットカード	西洋の占いに使用するカード。寓意札22枚と数位札5…
+j	タンガニーカ湖	タンガニーカ湖	
+j	タンクローリー	タンクローリー	多量の液体を運搬するために後部に円筒形のタンクを備…
+j	タンザニア人	たんざにあじん	
+j	タンチョウヅル	タンチョウヅル	鶴の一種であるタンチョウ（丹頂）の俗称。
+j	タンデム自転車	タンデム自転車	
+j	タンバリニスト	タンバリニスト	タンバリンの演奏家。
+j	タンビアリモズ	タンビアリモズ	
+j	ターザンロープ	ターザンロープ	滑車から下げたロープに摑まり、空中を移動する遊具。
+j	タージ・マハル	タージ・マハル	
+j	タートルネック	タートルネック	
+j	ターナー症候群	ターナー症候群	Turner syndrome
+j	ターミナルケア	ターミナルケア	癌の末期など完治が難しい患者や家族に対し、単なる延…
+j	ターミナルビル	ターミナルビル	a terminal (airport build…
+j	ターミナル駅	たーみなるえき	都心と郊外や、近県各地を結ぶ鉄道の起終点駅。
+j	ターミネーター	ターミネーター	
+j	ターンテーブル	ターンテーブル	turntable
+j	丹頂鶴	たんちょうづる	sacred Japanese crane; re…
+j	他人行儀	たにんぎょうぎ	仲間内なのによそよそしく振る舞うさま。
+j	他力本願	たりきほんがん	completion by someone els…
+j	他化自在天	たけじざいてん	Paranirmitavaśavartin (hi…
+j	代赭色の	たいしゃいろの	
+j	体内時計	たいないどけい	biological clock
+j	体外離脱	たいがいりだつ	an out-of-body experience
+j	体当たり	たいあたりする	tackle, body blow, body c…
+j	体循環	たいじゅんかん	心臓の左心室から大動脈を通って、体中の組織を経由し…
+j	体系化する	たいけいかする	
+j	体育座り	たいいくすわり	sitting and hugging one's…
+j	体育座り	たいいくずわり	sitting and hugging one's…
+j	体重計	たいじゅうけい	体重をはかる計器。
+j	体鳴楽器	たいめいがっき	カスタネット、ギロ、シンバルなど、発音体自体が振動…
+j	卓球台	たっきゅうだい	卓球を行うために使われる台。
+j	単一の相	たんいつのそう	
+j	単一国家	たんいつこっか	
+j	単一機械	たんいつきかい	滑車、てこ、くさびなど単純な機構の機械。単純機械。
+j	単一言語	たんいつげんご	
+j	単三電池	たんさんでんち	「単三形乾電池」の略。
+j	単位ベクトル	たんいべくとる	大きさが1であるベクトル。普通⃑eと書く。
+j	単勝式	たんしょうしき	betting system where one …
+j	単独ライブ	たんどくらいぶ	live performance exclusiv…
+j	単独ライブ	たんどくライブ	live performance exclusiv…
+j	単眼鏡	たんがんきょう	片目で観察を行う顕微鏡。双眼鏡に対していい、通常は…
+j	単科大学	たんかだいがく	大学のうち一つの学部で構成される大学。カレッジ。
+j	単純林	たんじゅんりん	pure forest (forest compo…
+j	単細胞の	たんさいぼうの	
+j	単線軌道	たんせんきどう	上り線と下り線が分かれず、上下の列車が一つの軌道を…
+j	単身赴任	たんしんふにん	a job transfer that takes…
+j	台湾国語	たいわんこくご	中国語の方言の一つで、台湾で話されている標準中国語…
+j	台風崩れ	たいふうくずれ	台風から変わった温帯低気圧または熱帯低気圧。
+j	啄木鳥	たくぼくちょう	a woodpecker (bird in Pic…
+j	啄木鳥	タクボクチョウ	a woodpecker (bird in Pic…
+j	多元宇宙	たげんうちゅう	the multiverse
+j	多剤併用	たざいへいよう	
+j	多勢に無勢	たぜいにぶぜい	It is difficult to win wh…
+j	多嚢胞性	たのうほうせい	being polycystic; being m…
+j	多文化主義	たぶんかしゅぎ	「多文化社会」と同じ。
+j	多目的室	たもくてきしつ	様様な用途で利用する部屋。
+j	多言語話者	たげんごわしゃ	One who speaks many langu…
+j	多項係数	たこうけいすう	多項定理の係数となる∏ⱼ₌₁ᵐ(n!)/(k_j!…
+j	大器晩成	たいきばんせい	great talents mature late…
+j	大将軍	たいしやうぐん	under the 律令 (Ritsuryō) s…
+j	大将軍	たいしょうぐん	under the 律令 (Ritsuryō) s…
+j	大局的	たいきょくてき	物事を全体で見て判断しながら行動するさま。大乗的。
+j	大正琴	たいしょうごと	Nagoya harp, stringed mus…
+j	大死一番	たいしいちばん	今までのことを全て投げ捨て、仏に縋ること。
+j	大洋州	たいようしゅう	Oceania (a continental re…
+j	大漁旗	たいりょうばた	漁船が漁から帰港する際に、大漁であったことを港にい…
+j	大笑	たいしょうする	uproarious laughter
+j	大虐殺	たいぎゃくさつ	massacre
+j	大衆的	たいしゅうてき	大衆に関すること。また、そのさま。
+j	大衆魚	たいしゅうぎょ	一般市民が通常買えるような安価な魚。
+j	大言壮語	たいげんそうご	boasting, bragging
+j	大逆罪	たいぎゃくざい	the crime of high treason
+j	大陸国家	たいりくこっか	領域の全部又は大半を大陸が占める国家。
+j	大陸移動	たいりくいどう	
+j	大食漢	たいしょくかん	大食な男性。
+j	太平簫	たいへいしょう	チャルメラ。
+j	太極拳	たいきょくけん	tai chi
+j	太玄経	たいげんきょう	Taixuanjing
+j	太蘭鳥	たいらんちょう	tyrant flycatcher (Tyrann…
+j	太蘭鳥	タイランチョウ	tyrant flycatcher (Tyrann…
+j	太陰潮	たいいんちょう	a lunar tide
+j	太陽光	たいやうくわう	sunlight
+j	太陽光度	たいようこうど	光度の単位。約3.8×10²⁶ Wに相当する光度。
+j	太陽潮	たいようちょう	a solar tide
+j	太陽神話	たいようしんわ	古代文明の地域などに見られる太陽の発生・運行・形体…
+j	太陽系儀	たいようけいぎ	orrery
+j	太陽電池	たいやうでんち	solar battery
+j	太陽電池	たいようでんち	solar battery
+j	対外債務	たいがいさいむ	
+j	対局	たいきょくする	a game
+j	対岸の火事	たいがんのかじ	fire on the opposite shor…
+j	対数目盛	たいすうめもり	1目盛ごとに値が定数倍（通常は大きな1目盛ごとに1…
+j	対日照	たいにっしょう	黄道光が太陽の反対付近で明るく見える現象。
+j	対流圏	たいりゅうけん	the troposphere
+j	対照	たいしょうする	contrast, comparison, ant…
+j	対照的	たいしょうてき	性質の違いが際立っているさま。
+j	対牀夜雨	たいしょうやう	夜雨対牀の別形。
+j	対物レンズ	たいぶつれんず	望遠鏡や顕微鏡で、観測対象に向ける方のレンズ。
+j	対称ペン	たいしょうぺん	左右が対称になっているペン回し用のペン。
+j	対称性	たいしょうせい	symmetry (correspondence …
+j	対称的	たいしょうてき	形状や配列に対称がとれている様子。
+j	対称軸	たいしょうじく	線対称な図形でその軸で折ると重なり合うような軸。
+j	対角定理	たいかくていり	内接四角形の定理。
+j	対話形式	たいわけいしき	
+j	対象外	たいしょうがい	not covered by; ineligibl…
+j	帝釈天	たいしゃくてん	仏教の天部の一人で、インドのインドラ（雷神）が取り…
+j	担保物権	たんぽぶっけん	債権の履行を確保するための担保を目的とする物権。
+j	担税力	たんぜいりょく	租税を負担する能力。担税能力。
+j	拓殖	たくしょくする	colonisation
+j	探求	たんきゅうする	quest
+j	探求的	たんきゅうてき	探求に関するさま。
+j	探照灯	たんしょうとう	searchlight
+j	探究	たんきゅうする	research, inquiry
+j	探究的	たんきゅうてき	探究に関するさま。
+j	断么九	たんやおちゅう	all simples: a 役 (yaku, “…
+j	断么九	たんやおちゅー	all simples: a 役 (yaku, “…
+j	断么九	タンヤオチュウ	all simples: a 役 (yaku, “…
+j	断么九	タンヤオチュー	all simples: a 役 (yaku, “…
+j	旅商人	たびしょうにん	商品を携え旅をしながら販売する商人。
+j	旅支度	たびじたくする	preparations for a journey
+j	棚卸し	たなおろしする	inventory count
+j	武田信玄	たけだしんげん	戦国時代（1521年（大永元年）12月1日 ‐ 1…
+j	泰山北斗	たいざんほくと	泰山と北斗星。
+j	泰泰辞典	たいたいじてん	タイ語の語句をタイ語で定義した辞典を、タイ語が母国…
+j	淡紅色	たんこうしょく	淡い紅色。淡紅。うすべに。
+j	淡黄色	たんこうしょく	pale yellow, lemon yellow
+j	滞留	たいりゅうする	piling up, accumulation
+j	炭化水素	たんくわすいそ	hydrocarbon
+j	炭水化物	たんすいかぶつ	carbohydrates
+j	炭酸ソーダ	たんさんそーだ	carbonate of soda
+j	炭酸ソーダ	たんさんソーダ	carbonate of soda
+j	玉串料	たまぐしりょう	儀礼や祭事などで神に捧げる金品。
+j	玉子素麺	たまごそうめん	
+j	短三和音	たんさんわおん	根音に短三度、完全五度を加えた三和音。
+j	短剣道家	たんけんどうか	短剣道を行う武道家またはそれで生業としている者、修…
+j	短掌筋	たんしょうきん	a palmaris brevis muscle
+j	短期大学	たんきだいがく	junior college (vocationa…
+j	短気は損気	たんきはそんき	haste makes waste
+j	短縮	たんしゅくする	shortening, abbreviation
+j	短縮する	たんしゅくする	
+j	短縮形	たんしゅくけい	
+j	短腓骨筋	たんひこつきん	a peroneus brevis muscle
+j	短趾伸筋	たんししんきん	an extensor digitorum bre…
+j	短趾屈筋	たんしくっきん	a flexor digitorum brevis
+j	短距離走	たんきょりそう	陸上競技で、短距離（主に400メートル以下の距離）…
+j	種明かし	たねあかしする	revealing the secret
+j	立ちション	たちションする	synonym of 立ち小便 (tachishō…
+j	立ち小便	たちしょうべん	outdoor urination; urinat…
+j	立ち居振る舞い	たちいふるまい	behavior, manners, moveme…
+j	立ち往生	たちおうじょう	bringing to a stop, bring…
+j	立ち往生	たちわうじやう	bringing to a stop, bring…
+j	立入り禁止	たちいりきんし	
+j	立入禁止	たちいりきんし	no entry
+j	立往生	たちおうじょう	立ったままで死ぬこと。
+j	竜の落とし子	たつのおとしご	a crowned seahorse
+j	竜の落とし子	タツのオとしゴ	a crowned seahorse
+j	端を発する	たんをはっする	to originate with; to sta…
+j	竹のカーテン	たけのかーてん	Bamboo Curtain
+j	竹のカーテン	たけのカーテン	Bamboo Curtain
+j	筍医者	たけのこいしゃ	「藪医者」にも至らない技術が未熟で下手な若い医者。
+j	箍が外れる	たががはずれる	to become out of control,…
+j	糖原病	たうげんびやう	glycogenosis
+j	糖尿病	たうねうびやう	diabetes
+j	縦中横	たてちゅうよこ	a block of horizontal typ…
+j	耐久性	たいきゅうせい	durability
+j	胆汁酸	たんじゅうさん	bile acid
+j	胆石症	たんせきしょう	胆嚢や輸胆管に胆石ができることで生じる病気。
+j	袂を分かつ	たもとをわかつ	to break off relation wit…
+j	袒裼裸裎	たんせきらてい	(四字熟語)非常に無礼な振る舞いのこと。また、その…
+j	誕生	たんじょうする	birth; creation; formation
+j	誕生する	たんじょうする	
+j	誕生会	たんじょうかい	
+j	誕生日	たんじやうにち	a birthday
+j	誕生日	たんじょうにち	a birthday
+j	誕生月	たんじょうづき	誕生日のある月。その人が生まれた月。
+j	誕生石	たんじやうせき	a birthstone
+j	誕生石	たんじょうせき	a birthstone
+j	貪官汚吏	たんくわんをり	corrupt official
+j	貸借	たいしゃくする	credit and debit, lending…
+j	躺平主義	たんぴんしゅぎ	
+j	退会届	たいかいとどけ	notice of withdrawal
+j	退出	たいしゅつする	departure; exit
+j	退却	たいきゃくする	retreat
+j	退却する	たいきゃくする	
+j	退場	たいじょうする	leaving, withdrawal
+j	退屈しのぎ	たいくつしのぎ	killing time
+j	退屈凌ぎ	たいくつしのぎ	退屈な気持ちをまぎらすこと。また、その手段。ひまつ…
+j	退潮	たいちょうする	ebb tide
+j	退職	たいしょくする	retirement, resignation, …
+j	退職する	たいしょくする	
+j	退職者	たいしょくしゃ	
+j	退避勧告	たいひかんこく	外務省が日本国外の特定の地域に対して、治安や感染症…
+j	退院させる	たいいんさせる	
+j	退黄色	たいこうしょく	淡い黄色。クリーム色。退黄。
+j	鍛圧機械	たんあつきかい	金属を鍛圧する機械の総称。
+j	黨同伐異	たうどうばつい	
+j	たいりくしゃめん	たいりくしゃめん	大陸斜面: continental slope
+j	たこ足配線	たこあしはいせん	"octopus leg wiring": ele…
+j	たてよこちりめん	たてよこちりめん	経緯縮緬: georgette
+j	たみんぞくこっか	たみんぞくこっか	
+j	たらふく孫左衛門	たらふく孫左衛門	たらふく飲み食いすること。大金を貯めていること。ま…
+j	タイタニック素数	タイタニック素数	1000桁以上の素数。
+j	タイプスクリプト	タイプスクリプト	
+j	タイプ標本	たいぷひょうほん	分類群の基準となる標本のこと。ホロタイプやパラタイ…
+j	タイポグラフィー	タイポグラフィー	
+j	タイミル半島	たいみるはんとう	Taimyr (a large peninsula…
+j	タイミル半島	タイミルはんとう	Taimyr (a large peninsula…
+j	タイムズスクエア	タイムズスクエア	
+j	タイムトラベラー	タイムトラベラー	a time traveller
+j	タイムリーヒット	タイムリーヒット	an RBI hit; a hit that ca…
+j	タイムレコーダー	タイムレコーダー	時計と印刷する装置がセットとなりタイムカードに時刻…
+j	タイラノサウルス	タイラノサウルス	
+j	タイリクオオカミ	タイリクオオカミ	grey wolf, Canis lupus
+j	タキサイキア現象	タキサイキア現象	主観的な時間の流れが極端に遅くなる現象。
+j	タクシースタンド	タクシースタンド	
+j	タクシーメーター	タクシーメーター	taximeter
+j	タコチューズデー	タコチューズデー	
+j	タジキスタン人	たじきすたんじん	タジキスタン国籍を有する者。タジキスタン出身者。
+j	タスマニアデビル	タスマニアデビル	a Tasmanian devil
+j	タックスヘイブン	タックスヘイブン	tax haven
+j	タッチアンドゴー	タッチアンドゴー	飛行機が滑走路に車輪を接触させた後直ぐにそのまま離…
+j	タッチスクリーン	タッチスクリーン	
+j	タッチタイピング	タッチタイピング	キーボードのキーを見ることなく正しく文字を打ち込む…
+j	タテガミオオカミ	たてがみおほかみ	a maned wolf
+j	タテガミオオカミ	タテガミオオカミ	a maned wolf
+j	タテゴトアザラシ	タテゴトアザラシ	
+j	タマゴテングタケ	たまごてんぐたけ	
+j	タマゴテングタケ	タマゴテングタケ	
+j	タミル・ナードゥ	タミル・ナードゥ	
+j	タルカムパウダー	タルカムパウダー	ベビーパウダー。
+j	タワーマンション	タワーマンション	highrise apartment
+j	タンカイザリガニ	タンカイザリガニ	ウチダザリガニの内、淡海湖に生息する集団のこと。か…
+j	タンドリーチキン	タンドリーチキン	tandoori chicken
+j	タンニングマシン	タンニングマシン	
+j	タンブルウィード	タンブルウィード	
+j	ターキッシュバン	ターキッシュバン	a Turkish Van
+j	ターコイズブルー	ターコイズブルー	緑がかった明るい青。
+j	他力本願	たりきほんぐわん	completion by someone els…
+j	他力本願寺	たりきほんがんじ	leaving to others
+j	体外受精	たいがいじゅせい	in vitro fertilization (t…
+j	体外授精	たいがいじゅせい	in vitro fertilization
+j	体操選手	たいそうせんしゅ	体操競技で実際に競技をする選手。
+j	体育会系	たいいくかいけい	体育会の部活動。運動部。また、それに属している者。
+j	体育大学	たいいくだいがく	体育系の単科大学。
+j	体重増加	たいじゅうぞうか	
+j	助けてください	たすけてください	
+j	卓上焜炉	たくじょうこんろ	カセットボンベや電気を使い、食卓の上で使用できる可…
+j	卓球場	たっきゅうじょう	卓球を行うための施設。
+j	単位行列	たんいぎょうれつ	identity matrix
+j	単純化	たんじゅんかする	simplification
+j	単純機械	たんじゅんきかい	simple machine
+j	単線並列	たんせんへいれつ	一見複線に見えるが、実際には各路線の単線の線路が隣…
+j	単葉関数	たんようかんすう	ℂ¹上開集合で定義された、単射な複素関数。
+j	単複同形	たんぷくどうけい	noun with the same form i…
+j	単項演算	たんこうえんざん	1つの要素を与えて別の1つの要素を決める規則の総称…
+j	只働き	ただばたらきする	work done for free, unpai…
+j	台湾本島	たいわんほんとう	台湾の人口の大部分を占め、首都の台北がある島。
+j	台風コロッケ	たいふうころっけ	台風が接近している際にコロッケを買って食べるという…
+j	多々益々善し	たたますますよし	The more the better.
+j	多元文化論	たげんぶんかろん	
+j	多国間主義	たこくかんしゅぎ	
+j	多次元配列	たじげんはいれつ	multidimensional array
+j	多肉植物	たにくしょくぶつ	succulent plant
+j	多肢選択法	たしせんたくほう	
+j	多重人格	たじゅうじんかく	一人の人間が多数の人格を持っていること。
+j	多重国籍	たじゅうこくせき	multiple citizenship
+j	多重国籍	たぢゆうこくせき	multiple citizenship
+j	多重積分	たじゅうせきぶん	多変数関数に関する積分。重積分。
+j	多重録音	たじゅうろくおん	multitrack recording
+j	大安吉日	たいあんきちじつ	the taian day, one of the…
+j	大安吉日	たいあんきちにち	the taian day, one of the…
+j	大安吉日	たいあんきつじつ	the taian day, one of the…
+j	大政奉還	たいせいほうかん	1867年に江戸幕府15代将軍徳川慶喜が朝廷に政権…
+j	大正ロマン	たいしょうろまん	大正時代に花開いた和洋折衷の文化。
+j	大正時代	たいしょうじだい	元号が大正であった時代。1912年7月30日から1…
+j	大衆主義	たいしゅうしゅぎ	
+j	大衆化する	たいしゅうかする	
+j	大衆文化	たいしゅうぶんか	pop culture
+j	大衆雑誌	たいしゅうざっし	大衆向けの情報を掲載した雑誌。大衆誌。
+j	大行天皇	たいこうてんのう	天皇の崩御後、追号を贈られるまでの呼称。
+j	大西洋鱈	たいせいようだら	an Atlantic cod
+j	大西洋鱈	タイセイヨウダラ	an Atlantic cod
+j	大陸プレート	たいりくぷれーと	主に大陸の地下に位置するプレート。
+j	大陸政策	たいりくせいさく	Continental Policy (a Pan…
+j	大陸斜面	たいりくしゃめん	The steep, narrow fringe …
+j	大陸横断	たいりくおうだん	
+j	太平天国	たいへいてんごく	Taiping Heavenly Kingdom …
+j	太皇太后	たいこうたいごう	grand empress dowager
+j	太陽の光	たいようのひかり	
+j	太陽半径	たいようはんけい	長さの単位。約69万6000キロメートル。
+j	対人関係	たいじんかんけい	interpersonal relationship
+j	対局時計	たいきょくどけい	a timer; a chess clock, a…
+j	対岸の火災	たいがんのかさい	「対岸の火事」に同じ。
+j	対戦車砲	たいせんしゃほう	戦車に対して用いる大砲。
+j	対数関数	たいすうかんすう	指数関数の逆関数として定義される関数。底aを1でな…
+j	対立遺伝子	たいりついでんし	an allele
+j	対立遺伝子	たいりつゐでんし	an allele
+j	対角成分	たいかくせいぶん	diagonal element; diagona…
+j	対費用効果	たいひようこうか	cost-effectiveness, perfo…
+j	對戰車砲	たいせんしゃほう	
+j	打成一片	たじょういっぺん	with heart and soul
+j	楯状火山	たてじょうかざん	
+j	泰然自若	たいぜんじじゃく	緊迫した状況にあっても常に落ち着き払っていて冷静な…
+j	淡色野菜	たんしょくやさい	緑黄色野菜以外の野菜。
+j	炭化カルシウム	たんかかるしうむ	calcium carbide
+j	炭化カルシウム	たんかカルシウム	calcium carbide
+j	炭水化物	たんすいくわぶつ	carbohydrates
+j	炭素化合物	たんそかごうぶつ	炭素を含む化合物の総称であるが、一酸化炭素、二酸化…
+j	炭酸カリウム	たんさんかりうむ	カリウムの炭酸塩。無色の粉末で潮解性がある。炭酸カ…
+j	炭酸バリウム	たんさんばりうむ	バリウムの炭酸塩。通常は無色で斜方晶系の結晶。ガラ…
+j	炭酸リチウム	たんさんりちうむ	
+j	炭酸飲料	たんさんいんれう	carbonated drink
+j	狸寝入り	たぬきねいりする	feigning sleep; playing p…
+j	短内転筋	たんないてんきん	an adductor brevis
+j	短剣術家	たんけんじゅつか	短剣術を行う武術家またはそれで生業としている者、修…
+j	短期大学士	たんきだいがくし	短期大学本科を卒業し、あるいは短期大学本科卒業と同…
+j	短機関銃	たんきかんじゅう	拳銃弾を使用する兵士一人で携行、射撃できる小型の機…
+j	短母指伸筋	たんぼししんきん	an extensor pollicis brev…
+j	短母指屈筋	たんぼしくっきん	a flexor pollicis brevis
+j	短母趾伸筋	たんぼししんきん	an extensor hallucis brev…
+j	短母趾屈筋	たんぼしくっきん	a flexor hallucis brevis
+j	竪琴海豹	たてごとあざらし	a harp seal
+j	竪琴海豹	タテゴトアザラシ	a harp seal
+j	経緯縮緬	たてよこちりめん	georgette
+j	縦振り電鍵	たてぶりでんけん	straight key
+j	縦振れ電鍵	たてぶれでんけん	straight key
+j	耐久力	たいきゅうりょく	stamina, tenacity
+j	耐用年数	たいようねんすう	service life
+j	耐腐食性	たいふしょくせい	corrosion resistance
+j	胎内感染	たいないかんせん	母子感染の一種で、妊婦の持っている病原体が胎盤を経…
+j	誕生祝い	たんじやういはひ	birthday celebration
+j	誕生祝い	たんじょういわい	birthday celebration
+j	退役軍人	たいえきぐんじん	
+j	退職願	たいしょくねがい	letter of resignation
+j	高みの見物	たかみのけんぶつ	looking from a distance, …
+j	高橋是清	たかはしこれきよ	明治時代から昭和時代初期にかけての政治家・財政家（…
+j	魂を込める	たましいをこめる	to put one's heart and so…
+j	たいせいようまぐろ	たいせいようまぐろ	スズキ目サバ科の海水魚。全長約1メートル。「ミニマ…
+j	たからのもちぐされ	たからのもちぐされ	having great potential bu…
+j	たこさんウインナー	たこさんウインナー	octopus sausage (wiener s…
+j	たばこ特別税	たばことくべつぜい	日本国の「一般会計における債務の承継等に伴い必要な…
+j	たましずめのまつり	たましずめのまつり	宮中にて11月中寅の日（新嘗祭の前日）行われる祭事…
+j	タイタニック素数	たいたにっくそすう	1000桁以上の素数。
+j	タイヘイヨウグルミ	タイヘイヨウグルミ	
+j	タイムアタックする	タイムアタックする	
+j	タイムズ・スクエア	タイムズ・スクエア	
+j	タイムパラドックス	タイムパラドックス	タイムトラベルが可能となった際に起きる可能性のある…
+j	タックス・ヘイブン	タックス・ヘイブン	「タックスヘイブン」を参照。
+j	タミル・ナードゥ州	タミル・ナードゥ州	
+j	タミールタイガース	タミールタイガース	
+j	タワーディフェンス	タワーディフェンス	
+j	ターコイズグリーン	ターコイズグリーン	明るい青緑。
+j	ターコイズブルーの	ターコイズブルーの	
+j	他覚症状	たかくしょうじょう	objective symptoms, sympt…
+j	体調不良	たいちょうふりょう	poor physical health; bad…
+j	体重が増える	たいじゅうがふえる	
+j	体重を減らす	たいじゅうをへらす	
+j	卓球選手	たっきゅうせんしゅ	卓球で実際に競技をする選手。
+j	単極誘導	たんきょくゆうどう	ある磁場の中で導体が運動することで、電位の差が生じ…
+j	単独決算の	たんどくれんけつの	
+j	単純ヘルペス	たんじゅんへるぺす	synonym of 単純疱疹 (tanjun h…
+j	単純ヘルペス	たんじゅんヘルペス	synonym of 単純疱疹 (tanjun h…
+j	単純明快	たんじゅんめいかい	clear and simple to under…
+j	単純疱疹	たんじゅんほうしん	herpes simplex
+j	単身赴任	たんしんふにんする	a job transfer that takes…
+j	単項演算子	たんこうえんざんし	unary operator (operator …
+j	台湾海峡	たいわんかいきょう	the Taiwan Strait
+j	台湾総督府	たいわんそうとくふ	1895年から1945年まで台北に置かれた日本が台…
+j	堪航能力	たんこうのうりょく	ある船舶が安全に航行できる限界の能力。
+j	多国籍企業	たこくせききぎょう	世界各地に支社や子会社、現地工場などをつくり、国境…
+j	多変数関数	たへんすうかんすう	従属変数が複数ある関数。
+j	多数から一つへ	たすうからひとつへ	
+j	多腕バンディット	たわんばんでぃっと	multi-armed bandit
+j	多腕バンディット	たわんバンディット	multi-armed bandit
+j	多言は身を害す	たげんはみをがいす	One word too many will be…
+j	多重継承	たじゅうけいしょう	multiple inheritance
+j	多重集合	たじゅうしゅうごう	
+j	多項式関数	たこうしきかんすう	整式のみで表された関数。
+j	大樹将軍	たいじゅしょうぐん	（「後漢書」の故事から）将軍、征夷大将軍の異称。大…
+j	大衆伝達	たいしゅうでんたつ	「マスコミュニケーション」の訳。マスコミ。
+j	大衆媒体	たいしゅうばいたい	mass media
+j	大衆新聞	たいしゅうしんぶん	大衆向けの情報を掲載した新聞。大衆紙。
+j	大衆音楽	たいしゅうおんがく	ポピュラーミュージックのこと。
+j	大言壮語	たいげんそうごする	boasting, bragging
+j	大量生産	たいりやうせいさん	mass production
+j	大量生産	たいりょうせいさん	mass production
+j	大量発生	たいりょうはっせい	
+j	大量絶滅	たいりょうぜつめつ	古生代から現在までに5回（現在進行中の絶滅を含め6…
+j	大陸性気候	たいりくせいきこう	大陸の海から遠く離れた地域に見られる気候の特徴。日…
+j	大食細胞	たいしょくさいぼう	synonym of マクロファージ (makur…
+j	大食細胞	たいしよくさいばう	synonym of マクロファージ (makur…
+j	大魚を逸する	たいぎょをいっする	大きな利益を逃すこと。
+j	太平洋ベルト	たいへいようべると	関東地方から九州地方にかけての太平洋沿岸部に延びる…
+j	太皇太后	たいくわうたいごう	grand empress dowager
+j	太陽質量	たいようしつりょう	質量の単位。約2×10³⁰ kg。
+j	対キロ区間制	たいきろくかんせい	距離の（1キロメートルを超える）一定の幅ごとに運賃…
+j	対人関係	たいじんくわんけい	interpersonal relationship
+j	対処療法	たいしょりょうほう	eggcorn of 対症療法 (taishō r…
+j	対症療法	たいしやうれうはふ	symptomatic therapy
+j	対角行列	たいかくぎょうれつ	diagonal matrix
+j	対面授業	たいめんじゅぎょう	学生と教員が直接一堂に会して行う授業。
+j	帯状疱疹	たいじょうほうしん	shingles, herpes zoster
+j	待遇表現	たいぐうひょうげん	話者と聞き手や話題中の人物との身分・年齢・親しさな…
+j	掌を返す	たなごころをかえす	to flip-flop; to do an ab…
+j	探偵小説	たんていしょうせつ	主人公の探偵が殺人事件などの犯人を推理していくこと…
+j	民部卿	たみのつかさのかみ	the Minister of Popular A…
+j	炭酸カルシウム	たんさんかるしうむ	カルシウムの炭酸塩。石灰石、大理石、あられいしなど…
+j	炭酸ナトリウム	たんさんなとりうむ	sodium carbonate
+j	炭酸ナトリウム	たんさんナトリウム	sodium carbonate
+j	炭酸水素塩	たんさんすいそえん	炭酸の二つの水素原子のうちの一つを金属で置き換えた…
+j	炭酸飲料	たんさんいんりょう	carbonated drink
+j	炭鉱のカナリア	たんこうのかなりあ	canary in a coal mine
+j	炭鉱のカナリア	たんこうのカナリア	canary in a coal mine
+j	狸の茶袋	たぬきのちゃぶくろ	pear shaped puffball (Lyc…
+j	狸の茶袋	タヌキのチャブクロ	pear shaped puffball (Lyc…
+j	玉蜀黍畑	たうもろこしばたけ	corn field
+j	短編小説	たんぺんしょうせつ	a short novel, novella, s…
+j	立ち小便	たちしょうべんする	outdoor urination; urinat…
+j	立ち往生	たちおうじょうする	bringing to a stop, bring…
+j	箪食壺漿	たんしょくこしょう	竹の容器に盛った飯と壺にいれた飲料。
+j	箪食瓠漿	たんしょくこしょう	竹の容器に盛った飯と瓢にいれた飲料。
+j	胆汁酸塩	たんじゅうさんえん	bile salt
+j	退職代行	たいしょくだいこう	依頼者に代わって、依頼者の勤務先に退職の意思を伝え…
+j	退職所得	たいしょくしょとく	日本国の所得税法に規定する所得の種類の一つ。退職手…
+j	食べ物を与える	たべものをあたえる	
+j	たいいんたいようれき	たいいんたいようれき	太陰太陽暦
+j	たまったものではない	たまったものではない	synonym of たまらない (tamaran…
+j	たまったもんじゃない	たまったもんじゃない	synonym of たまらない (tamaran…
+j	たらふく孫左衛門	たらふくまござえもん	たらふく飲み食いすること。大金を貯めていること。ま…
+j	タイガーサラマンダー	タイガーサラマンダー	
+j	タイプライターで打つ	タイプライターで打つ	
+j	タイワンシジュウカラ	タイワンシジュウカラ	
+j	タクシー運転手	たくしーうんてんしゅ	
+j	タピオカミルクティー	タピオカミルクティー	つぶ状のタピオカをミルクティーに入れた飲み物。台湾…
+j	タンザニア連合共和国	タンザニア連合共和国	
+j	ターキッシュアンゴラ	ターキッシュアンゴラ	a Turkish Angora
+j	ターミナルアダプター	ターミナルアダプター	terminal adapter (a devic…
+j	体重減少	たいじゅうげんしょう	
+j	助けてくれませんか	たすけてくれませんか	
+j	単二形乾電池	たんにがたかんでんち	乾電池の大きさの規格の一つで単一形乾電池より小さく…
+j	単刀直入	たんとうちょくにゅう	straight to the point; po…
+j	単子葉植物	たんしようしょくぶつ	被子植物で、子葉が1枚の植物の分類。
+j	単純明快	たんじゆんめいくわい	clear and simple to under…
+j	大使館付き武官	たいしかんづきぶかん	military officer attached…
+j	大正三色	たいしょうさんしょく	錦鯉の品種。
+j	大聖歓喜天	たいしょうかんぎてん	「歓喜天」の別名。
+j	大衆食堂	たいしゅうしょくどう	一般大衆向けに比較的安価な料理や食事を提供する食堂。
+j	大量虐殺	たいりょうぎゃくさつ	massacre, genocide
+j	太平洋プレート	たいへいようぷれーと	太平洋の大部分がその上に乗っている海洋プレート。
+j	太平洋戦争	たいへいようせんそう	the Pacific War
+j	太陰太陽暦	たいいんたいようれき	lunisolar calendar
+j	太陽光発電	たいようこうはつでん	日光のエネルギーを光電池を用いて電気に変換する発電…
+j	太陽熱発電	たいようねつはつでん	太陽の熱を蓄え、そのエネルギーを電気に変換する発電…
+j	太陽神経叢	たいようしんけいそう	solar plexus
+j	対照言語学	たいしょうげんごがく	複数の言語で文法や語形成などを比較対照する分野。
+j	対症療法	たいしょうりょうほう	symptomatic therapy
+j	対称行列	たいしょうぎょうれつ	symmetric matrix
+j	對症療法	たいしょうりょうほう	
+j	短周期彗星	たんしゅうきすいせい	周期彗星のうち、公転の周期が200年未満のもの。
+j	短小指屈筋	たんしょうしくっきん	a flexor digiti minimi br…
+j	短小趾屈筋	たんしょうしくっきん	a flexor digiti minimi br…
+j	短母指外転筋	たんぼしがいてんきん	an abductor pollicis brev…
+j	短肋骨挙筋	たんろっこつきょきん	a levator costae brevis
+j	短距離競走	たんきょりきょうそう	
+j	誕生記念筆	たんじやうきねんふで	brush made with fetal hair
+j	誕生記念筆	たんじょうきねんふで	brush made with fetal hair
+j	タイン・アンド・ウィア	タイン・アンド・ウィア	
+j	タキサイキア現象	たきさいきあげんしょう	主観的な時間の流れが極端に遅くなる現象。
+j	タッパーウェアパーティ	タッパーウェアパーティ	
+j	タブレットコンピュータ	タブレットコンピュータ	
+j	タンゴスジシマドジョウ	タンゴスジシマドジョウ	スジシマドジョウの一種。かつてはスジシマドジョウ4…
+j	タークス・カイコス諸島	タークス・カイコス諸島	
+j	ターナー症候群	たーなーしょうこうぐん	Turner syndrome
+j	ターナー症候群	ターナーしょうこうぐん	Turner syndrome
+j	ターボジェットエンジン	ターボジェットエンジン	
+j	助けが必要ですか	たすけがひつようですか	
+j	単一形乾電池	たんいちがたかんでんち	乾電池の大きさの規格の一つで単二形乾電池より大きい…
+j	単三形乾電池	たんさんがたかんでんち	乾電池の大きさの規格の一つで単二形乾電池より小さく…
+j	単四形乾電池	たんよんがたかんでんち	乾電池の大きさの規格の一つで単三形乾電池より小さい…
+j	台湾原住民	たいわんげんじゅうみん	台湾に清が入植する前から暮らしていた主にオーストロ…
+j	多嚢胞性卵巣	たなうはうせいらんさう	polycystic ovary; PCO
+j	多嚢胞性卵巣	たのうほうせいらんそう	polycystic ovary; PCO
+j	多発性硬化症	たはつせいこうかしょう	
+j	大切にしてください	たいせつにしてください	
+j	大気汚染防止法	たいきおせんぼうしほう	Air Pollution Control Law
+j	大量破壊兵器	たいりょうはかいへいき	a weapon of mass destruct…
+j	太陽が西から出る	たいようがにしからでる	（地球上において太陽は必ず東から昇り、西から昇るこ…
+j	太陽中心説	たいようちゅうしんせつ	synonym of 地動説 (chidōsets…
+j	対人恐怖症	たいじんきょうふしょう	anthropophobia (fear of h…
+j	対流圏界面	たいりゅうけんかいめん	対流圏と成層圏の境界。
+j	対称差集合	たいしょうさしゅうごう	symmetric difference
+j	畳の上の水練	たたみのうえのすいれん	theoretical knowledge wit…
+j	蓼食う虫も好き好き	たでくうむしもすきずき	there's no accounting for…
+j	誕生日おめでとう	たんじょうびおめでとう	happy birthday
+j	誕生日パーティー	たんじょうびぱーてぃー	
+j	貸借対照表	たいしやくたいせうへう	balance sheet (a page of …
+j	タケヤブサザナミアリモズ	タケヤブサザナミアリモズ	
+j	ターキッシュ・ディライト	ターキッシュ・ディライト	
+j	単純閉曲線	たんじゅんへいきょくせん	自己交叉しない閉曲線。ジョルダン閉曲線。単一閉曲線。
+j	大量虐殺	たいりょうぎゃくさつする	massacre, genocide
+j	大陸間弾道弾	たいりくかんだんだうだん	synonym of 大陸間弾道ミサイル (tai…
+j	大陸間弾道弾	たいりくかんだんどうだん	synonym of 大陸間弾道ミサイル (tai…
+j	太陽が西から出ても	たいようがにしからでても	（地球上において太陽は必ず東から昇り、西から昇るこ…
+j	太陽系外惑星	たいようけいがいわくせい	
+j	宅地建物取引士	たくちたてものとりひきし	宅地建物取引業が公正な不動産取引を行えるようにする…
+j	対話型人工知能	たいわがたじんこうちのう	チャットボットと同様のユーザーインターフェースを用…
+j	たいせいようひょうじゅんじ	たいせいようひょうじゅんじ	大西洋標準時: Atlantic Standard…
+j	たいへいようひょうじゅんじ	たいへいようひょうじゅんじ	太平洋標準時: Pacific Standard …
+j	タイムシェアリングシステム	タイムシェアリングシステム	一台の中央コンピュータ（主に大型計算機やホストコン…
+j	タミル・イーラム解放のトラ	タミル・イーラム解放のトラ	
+j	便りのないのは良い知らせ	たよりのないのはよいしらせ	
+j	単純ヘルペスウィルス	たんじゅんへるぺすうぃるす	herpes simplex virus
+j	単純ヘルペスウィルス	たんじゅんヘルペスウィルス	herpes simplex virus
+j	大西洋標準時	たいせいようひょうじゅんじ	Atlantic Standard Time
+j	太平洋標準時	たいへいようひょうじゅんじ	Pacific Standard Time
+j	蛋白質分解酵素	たんぱくしつぶんかいかうそ	synonym of プロテアーゼ (purote…
+j	蛋白質分解酵素	たんぱくしつぶんかいこうそ	synonym of プロテアーゼ (purote…
+j	貸借対照表	たいしゃくたいしょうひょう	balance sheet (a page of …
+j	単記移譲式投票	たんきいじょうしきとうひょう	single transferable vote
+j	大陸間弾道ミサイル	たいりくかんだんどうみさいる	an intercontinental balli…
+j	大陸間弾道ミサイル	たいりくかんだんどうミサイル	an intercontinental balli…
+j	短橈側手根伸筋	たんとうそくしゅこんしんきん	an extensor carpi radiali…
+j	単純小選挙区制	たんじゅんしょうせんきょくせい	
+j	対数関数の加法定理	たいすうかんすうのかほうていり	対数関数に関する加法定理。
+j	多胎一部救胎手術	たたいいちぶきゅうたいしゅじゅつ	多胎妊娠の際に母胎の安全確保の観点から出産する多胎…
+j	他山の石以て玉を攻むべし	たざんのいしもってたまをおさむべし	他人の誤った言説ですら、自戒や修養の助けとなるとい…
+j	大山鳴動して鼠一匹	たいざんめいどうしてねずみいっぴき	all bark and no bite; gre…
+j	多嚢胞性卵巣症候群	たなうはうせいらんさうしやうこうぐん	polycystic ovary syndrome…
+j	多嚢胞性卵巣症候群	たのうほうせいらんそうしょうこうぐん	polycystic ovary syndrome…
+j	対称型二元連立漸化式	たいしょうがたにげんれんりつぜんかしき	a_n+1=pa_n+qb_n\b_n+1=qa_…
+j	立てば芍薬座れば牡丹歩く姿は百合の花	たてばしゃくやくすわればぼたんあるくすがたはゆりのはな	very beautiful, said of a…
+j	タウマタファカタンギハンガコアウアウオタマテアポカイフェヌアキタナタフ	タウマタファカタンギハンガコアウアウオタマテアポカイフェヌアキタナタフ	

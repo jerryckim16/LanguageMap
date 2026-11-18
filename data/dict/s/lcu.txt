@@ -1,0 +1,148 @@
+e	cub	cub	1 meaning
+e	cue	cue	2 meanings
+e	cum	cum	4 meanings
+e	cup	cup	9 meanings
+e	cut	cut	6 meanings
+e	cuba	cuba	1 meaning
+e	cube	cube	4 meanings
+e	cuff	cuff	1 meaning
+e	cuju	cuju	1 meaning
+e	culm	culm	1 meaning
+e	cult	cult	2 meanings
+e	cunt	cunt	1 meaning
+e	curb	curb	1 meaning
+e	cure	cure	2 meanings
+e	curl	curl	1 meaning
+e	cusp	cusp	1 meaning
+e	cute	cute	1 meaning
+e	cuman	cuman	1 meaning
+e	cumin	cumin	2 meanings
+e	cundi	cundi	1 meaning
+e	cuneo	cuneo	1 meaning
+e	cupid	cupid	3 meanings
+e	curie	curie	1 meaning
+e	curio	curio	1 meaning
+e	curly	curly	1 meaning
+e	curry	curry	2 meanings
+e	curse	curse	6 meanings
+e	curve	curve	5 meanings
+e	cubism	cubism	1 meaning
+e	cuckoo	cuckoo	2 meanings
+e	cuddle	cuddle	1 meaning
+e	cudgel	cudgel	1 meaning
+e	cupola	cupola	1 meaning
+e	curaçao	curaao	2 meanings
+e	curfew	curfew	2 meanings
+e	curium	curium	1 meaning
+e	cursed	cursed	1 meaning
+e	cursor	cursor	3 meanings
+e	cuspid	cuspid	1 meaning
+e	custom	custom	2 meanings
+e	cut off	cutoff	2 meanings
+e	cutlet	cutlet	1 meaning
+e	cutter	cutter	3 meanings
+e	cubicle	cubicle	1 meaning
+e	cuckold	cuckold	2 meanings
+e	cue ball	cueball	1 meaning
+e	cuisine	cuisine	1 meaning
+e	culprit	culprit	1 meaning
+e	culture	culture	2 meanings
+e	cumulus	cumulus	2 meanings
+e	cunning	cunning	4 meanings
+e	cup size	cupsize	1 meaning
+e	cupcake	cupcake	1 meaning
+e	curator	curator	1 meaning
+e	curette	curette	1 meaning
+e	curious	curious	2 meanings
+e	curling	curling	1 meaning
+e	currant	currant	1 meaning
+e	current	current	4 meanings
+e	cursive	cursive	3 meanings
+e	curtain	curtain	2 meanings
+e	curtsey	curtsey	1 meaning
+e	cushion	cushion	3 meanings
+e	custard	custard	1 meaning
+e	custody	custody	3 meanings
+e	customs	customs	1 meaning
+e	cuticle	cuticle	1 meaning
+e	cutlass	cutlass	1 meaning
+e	cutlery	cutlery	1 meaning
+e	cuttack	cuttack	1 meaning
+e	cube root	cuberoot	1 meaning
+e	cucumber	cucumber	2 meanings
+e	cufflink	cufflink	1 meaning
+e	culinary	culinary	1 meaning
+e	cult film	cultfilm	1 meaning
+e	cultivar	cultivar	1 meaning
+e	cultural	cultural	1 meaning
+e	cumacean	cumacean	1 meaning
+e	cupboard	cupboard	1 meaning
+e	curitiba	curitiba	1 meaning
+e	currency	currency	1 meaning
+e	currying	currying	1 meaning
+e	curtains	curtains	1 meaning
+e	customer	customer	1 meaning
+e	cut scene	cutscene	1 meaning
+e	cube sugar	cubesugar	1 meaning
+e	cuckoldry	cuckoldry	1 meaning
+e	cultivate	cultivate	3 meanings
+e	cuneiform	cuneiform	1 meaning
+e	cunt juice	cuntjuice	1 meaning
+e	cup fungus	cupfungus	1 meaning
+e	curiosity	curiosity	2 meanings
+e	currently	currently	1 meaning
+e	curtilage	curtilage	1 meaning
+e	curvature	curvature	1 meaning
+e	curveball	curveball	1 meaning
+e	custodian	custodian	1 meaning
+e	customize	customize	1 meaning
+e	cubic metre	cubicmetre	1 meaning
+e	cultivator	cultivator	2 meanings
+e	cumbersome	cumbersome	1 meaning
+e	cup noodles	cupnoodles	1 meaning
+e	curled dock	curleddock	1 meaning
+e	curmudgeon	curmudgeon	1 meaning
+e	curry favor	curryfavor	1 meaning
+e	curvaceous	curvaceous	1 meaning
+e	custom-made	custommade	1 meaning
+e	cut corners	cutcorners	1 meaning
+e	cuttlefish	cuttlefish	1 meaning
+e	cuckoo clock	cuckooclock	1 meaning
+e	cultivation	cultivation	2 meanings
+e	culture hero	culturehero	1 meaning
+e	cum dumpster	cumdumpster	1 meaning
+e	cunnilingus	cunnilingus	1 meaning
+e	cupronickel	cupronickel	1 meaning
+e	curry powder	currypowder	1 meaning
+e	custom house	customhouse	1 meaning
+e	cuckooflower	cuckooflower	1 meaning
+e	cucurbituril	cucurbituril	1 meaning
+e	culture shock	cultureshock	1 meaning
+e	cumulonimbus	cumulonimbus	1 meaning
+e	currency code	currencycode	1 meaning
+e	current asset	currentasset	1 meaning
+e	cutting board	cuttingboard	1 meaning
+e	cubic equation	cubicequation	1 meaning
+e	cubic function	cubicfunction	1 meaning
+e	cuboctahedron	cuboctahedron	1 meaning
+e	cult following	cultfollowing	1 meaning
+e	culture medium	culturemedium	1 meaning
+e	cuneiform bone	cuneiformbone	1 meaning
+e	currency strap	currencystrap	1 meaning
+e	current events	currentevents	1 meaning
+e	cuscatancingo	cuscatancingo	1 meaning
+e	current account	currentaccount	2 meanings
+e	customs officer	customsofficer	1 meaning
+e	cuttlefish bone	cuttlefishbone	1 meaning
+e	cubic centimetre	cubiccentimetre	1 meaning
+e	cultural marxism	culturalmarxism	1 meaning
+e	curlew sandpiper	curlewsandpiper	1 meaning
+e	curriculum vitae	curriculumvitae	1 meaning
+e	customer service	customerservice	1 meaning
+e	customer support	customersupport	1 meaning
+e	cult of personality	cultofpersonality	1 meaning
+e	cubohemioctahedron	cubohemioctahedron	1 meaning
+e	cultural bolshevism	culturalbolshevism	1 meaning
+e	cultural revolution	culturalrevolution	2 meanings
+e	cultural appropriation	culturalappropriation	1 meaning
+e	curiosity killed the cat	curiositykilledthecat	1 meaning

@@ -1,0 +1,126 @@
+k	최	최	a surname, usually romani…
+k	최강	최강	the strongest
+k	최고	최고	the peak, the pinnacle, t…
+k	최근	최근	the latest, the most rece…
+k	최다	최다	maximum
+k	최단	최단	the shortest
+k	최대	최대	the greatest; the largest
+k	최루	최루	
+k	최면	최면	hypnosis
+k	최산	최산	
+k	최상	최상	
+k	최선	최선	the best
+k	최소	최소	minimum
+k	최신	최신	the latest; the newest
+k	최악	최악	the worst
+k	최애	최애	favorite
+k	최장	최장	the longest
+k	최저	최저	the lowest; the minimum
+k	최적	최적	optimum
+k	최종	최종	the last, the final
+k	최초	최초	first; earliest
+k	최촉	최촉	
+k	최하	최하	
+k	최후	최후	the final; the last
+k	최고가	최고가	
+k	최고급	최고급	
+k	최고도	최고도	
+k	최고봉	최고봉	
+k	최고조	최고조	
+k	최고형	최고형	
+k	최대량	최대량	
+k	최대치	최대치	'최댓값'.
+k	최대한	최대한	maximum limit
+k	최대화	최대화	
+k	최댓값	최댓값	실숫값을 취하는 함수가 그 정의구역 안에서 취…
+k	최루제	최루제	tear gas
+k	최루탄	최루탄	tear gas grenade
+k	최면술	최면술	hypnotism
+k	최면제	최면제	
+k	최빈값	최빈값	(통계) 데이터에서 가장 빈번하게 관측, 측정…
+k	최빈국	최빈국	
+k	최산제	최산제	
+k	최상급	최상급	superlative
+k	최상층	최상층	
+k	최상품	최상품	
+k	최선두	최선두	
+k	최선등	최선등	
+k	최선봉	최선봉	
+k	최선책	최선책	the best plan/scheme; the…
+k	최소치	최소치	'최솟값'.
+k	최소한	최소한	at least
+k	최소화	최소화	
+k	최솟값	최솟값	실숫값을 취하는 함수가 그 정의구역 안에서 취…
+k	최신식	최신식	
+k	최신예	최신예	
+k	최신형	최신형	
+k	최심선	최심선	
+k	최우수	최우수	best; ace
+k	최유제	최유제	
+k	최음제	최음제	
+k	최저가	최저가	
+k	최저한	최저한	
+k	최적화	최적화	optimization
+k	최전선	최전선	front line, forefront
+k	최종심	최종심	
+k	최종적	최종적	
+k	최종회	최종회	어떤 일을 계속 반복할 경우의 마지막 회.
+k	최첨단	최첨단	
+k	최촉장	최촉장	
+k	최판관	최판관	
+k	최하급	최하급	
+k	최하등	최하등	
+k	최하층	최하층	
+k	최하품	최하품	
+k	최혜국	최혜국	
+k	최고법원	최고법원	사법부의 최고 기관.
+k	최고존엄	최고존엄	His Supreme Dignity, a ti…
+k	최고존재	최고존재	
+k	최고차항	최고차항	함수, 방정식, 부등식 등을 이루는 다항식에서…
+k	최고회의	최고회의	
+k	최대속력	최대속력	
+k	최대압력	최대압력	
+k	최대한도	최대한도	
+k	최면술사	최면술사	hypnotist
+k	최면요법	최면요법	
+k	최면치료	최면치료	hypnotherapy
+k	최상견불	최상견불	
+k	최소한도	최소한도	
+k	최애하다	최애하다	가장 사랑하다.
+k	최저임금	최저임금	minimum wage
+k	최저한도	최저한도	
+k	최후발악	최후발악	
+k	최후수단	최후수단	
+k	최후일각	최후일각	
+k	최후통첩	최후통첩	ultimatum
+k	최고 기록	최고 기록	
+k	최고 법원	최고 법원	
+k	최고가격법	최고가격법	
+k	최고경영자	최고경영자	
+k	최고재판소	최고재판소	
+k	최대공약수	최대공약수	greatest common divisor
+k	최루 가스	최루 가스	
+k	최소공배수	최소공배수	
+k	최소공분모	최소공분모	
+k	최신 소식	최신 소식	
+k	최저생계비	최저생계비	사람이 생활하는 데 드는 최소 비용. 기준과 …
+k	최고 재판소	최고 재판소	
+k	최고가경매인	최고가경매인	
+k	최고공정가격	최고공정가격	
+k	최대 공약수	최대 공약수	
+k	최상위 비트	최상위 비트	
+k	최소 공배수	최소 공배수	
+k	최소 대립쌍	최소 대립쌍	
+k	최우수 선수	최우수 선수	
+k	최저경매가격	최저경매가격	
+k	최저공정가격	최저공정가격	
+k	최하위 비트	최하위 비트	
+k	최후의 만찬	최후의 만찬	
+k	최후의 수단	최후의 수단	
+k	최후의 심판	최후의 심판	
+k	최고 소비에트	최고 소비에트	
+k	최고경영책임자	최고경영책임자	
+k	최고재무책임자	최고재무책임자	
+k	최상위 포식자	최상위 포식자	
+k	최상의 시나리오	최상의 시나리오	
+k	최악의 시나리오	최악의 시나리오	

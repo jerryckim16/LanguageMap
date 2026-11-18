@@ -1,0 +1,252 @@
+j	ヴィ	vi	
+j	ヴィー	vi	ラテンアルファベットの第22字。ブイ。
+e	vic	vic	2 meanings
+e	vim	vim	1 meaning
+e	vip	vip	1 meaning
+e	vial	vial	1 meaning
+e	vibe	vibe	1 meaning
+e	vice	vice	2 meanings
+e	vice-	vice	1 meaning
+e	vico	vico	1 meaning
+e	view	view	5 meanings
+e	vile	vile	1 meaning
+e	vine	vine	1 meaning
+e	visa	visa	1 meaning
+e	vise	vise	1 meaning
+j	ヴィク	viku	
+j	ヴィラ	vira	
+j	ヴィーコ	viko	
+e	video	video	3 meanings
+e	vigan	vigan	1 meaning
+e	vigil	vigil	2 meanings
+e	villa	villa	1 meaning
+e	vinok	vinok	1 meaning
+e	vinyl	vinyl	3 meanings
+e	viola	viola	1 meaning
+e	viper	viper	1 meaning
+e	viral	viral	2 meanings
+e	virga	virga	1 meaning
+e	virgo	virgo	2 meanings
+e	virus	virus	2 meanings
+e	visit	visit	2 meanings
+e	vital	vital	2 meanings
+e	vivid	vivid	2 meanings
+e	vixen	vixen	3 meanings
+j	ヴィオラ	viora	ビオラの異表記。
+j	ヴィック	vikku	
+j	ヴィッラ	virra	
+j	ヴィラン	viran	villain
+j	ヴィーガン	vigan	
+e	viable	viable	1 meaning
+e	viagra	viagra	1 meaning
+e	victim	victim	4 meanings
+e	victor	victor	1 meaning
+e	vicuna	vicuna	1 meaning
+e	vienna	vienna	1 meaning
+e	vienne	vienne	2 meanings
+e	viewer	viewer	2 meanings
+e	viking	viking	1 meaning
+e	vilify	vilify	2 meanings
+e	villus	villus	1 meaning
+e	vinaya	vinaya	1 meaning
+e	violet	violet	3 meanings
+e	violin	violin	1 meaning
+e	virgil	virgil	2 meanings
+e	virgin	virgin	1 meaning
+e	virion	virion	1 meaning
+e	viroid	viroid	1 meaning
+e	virtue	virtue	5 meanings
+e	vishnu	vishnu	1 meaning
+e	vision	vision	5 meanings
+e	vitória	vitria	1 meaning
+e	vizier	vizier	1 meaning
+e	vizsla	vizsla	1 meaning
+j	ヴィエンナ	vienna	Vienna (a city in West Vi…
+j	ヴィエンヌ	viennu	Vienne (a department of N…
+j	ヴィーナス	vinasu	Venus, the planet
+e	viaduct	viaduct	1 meaning
+e	vibrate	vibrate	3 meanings
+e	vibrato	vibrato	1 meaning
+e	viceroy	viceroy	1 meaning
+e	vicious	vicious	3 meanings
+e	victory	victory	1 meaning
+e	vierzon	vierzon	1 meaning
+e	vietnam	vietnam	1 meaning
+e	vilayet	vilayet	1 meaning
+e	vileyka	vileyka	1 meaning
+e	villach	villach	1 meaning
+e	village	village	1 meaning
+e	villain	villain	2 meanings
+e	vilnius	vilnius	1 meaning
+e	vinegar	vinegar	1 meaning
+e	vintner	vintner	1 meaning
+e	vinylon	vinylon	1 meaning
+e	violate	violate	1 meaning
+e	violent	violent	4 meanings
+e	violist	violist	1 meaning
+e	virtual	virtual	3 meanings
+e	visarga	visarga	1 meaning
+e	visayas	visayas	1 meaning
+e	viscous	viscous	1 meaning
+e	vishing	vishing	1 meaning
+e	visible	visible	1 meaning
+e	visibly	visibly	1 meaning
+e	visitor	visitor	2 meanings
+e	vitamin	vitamin	1 meaning
+e	vitebsk	vitebsk	1 meaning
+e	vitrine	vitrine	1 meaning
+j	ヴィクセン	vikusen	
+j	ヴィシュヌ	vishunu	Vishnu
+j	ヴィタミン	vitamin	
+e	vibrator	vibrator	2 meanings
+e	vicinity	vicinity	3 meanings
+e	victoria	victoria	6 meanings
+e	vidofnir	vidofnir	1 meaning
+e	vietcong	vietcong	1 meaning
+e	vignette	vignette	1 meaning
+e	vigorous	vigorous	1 meaning
+e	villager	villager	1 meaning
+e	vinayaka	vinayaka	1 meaning
+e	vincible	vincible	1 meaning
+e	vinegary	vinegary	1 meaning
+e	vineyard	vineyard	1 meaning
+e	violable	violable	1 meaning
+e	violator	violator	1 meaning
+e	violence	violence	4 meanings
+e	viraemia	viraemia	1 meaning
+e	virginia	virginia	1 meaning
+e	virility	virility	1 meaning
+e	virology	virology	1 meaning
+e	virtuoso	virtuoso	1 meaning
+e	virtuous	virtuous	1 meaning
+e	viscacha	viscacha	1 meaning
+e	viscount	viscount	1 meaning
+e	vitality	vitality	2 meanings
+e	vitiligo	vitiligo	1 meaning
+e	vivipary	vivipary	1 meaning
+j	ヴィエルゾン	vieruzon	
+j	ヴィエンチャン	vienchan	Vientiane (the capital of…
+j	ヴィクトル	vikutoru	Victor
+j	ヴィサルガ	visaruga	visarga
+j	ヴィナーヤカ	vinayaka	
+j	ヴィヴァルディ	vivarudi	a transliteration of the …
+e	viability	viability	1 meaning
+e	vibration	vibration	1 meaning
+e	vicarious	vicarious	1 meaning
+e	vice versa	viceversa	1 meaning
+e	victorian	victorian	1 meaning
+e	video call	videocall	1 meaning
+e	video card	videocard	1 meaning
+e	video chat	videochat	1 meaning
+e	video clip	videoclip	1 meaning
+e	video game	videogame	1 meaning
+e	videogram	videogram	2 meanings
+e	videotape	videotape	2 meanings
+e	vientiane	vientiane	1 meaning
+e	viewcount	viewcount	1 meaning
+e	vigesimal	vigesimal	1 meaning
+e	vigilante	vigilante	1 meaning
+e	vilvoorde	vilvoorde	1 meaning
+e	vinnytsia	vinnytsia	2 meanings
+e	violation	violation	1 meaning
+e	violinist	violinist	1 meaning
+e	virginity	virginity	1 meaning
+e	viscosity	viscosity	2 meanings
+e	visualize	visualize	2 meanings
+e	vividness	vividness	1 meaning
+j	ヴィクトリア	vikutoria	Victoria (a state of Aust…
+j	ヴィライェト	viraietto	
+j	ヴィルトゥオーゾ	virutuoso	
+e	via ferrata	viaferrata	1 meaning
+e	vibraphone	vibraphone	1 meaning
+e	victory day	victoryday	1 meaning
+e	video gamer	videogamer	1 meaning
+e	videophone	videophone	1 meaning
+e	vietnam war	vietnamwar	1 meaning
+e	vietnamese	vietnamese	3 meanings
+e	vieux riche	vieuxriche	1 meaning
+e	viewership	viewership	1 meaning
+e	viewfinder	viewfinder	1 meaning
+e	vigorously	vigorously	1 meaning
+e	villainess	villainess	1 meaning
+e	villainous	villainous	1 meaning
+e	villancico	villancico	1 meaning
+e	virgin mary	virginmary	1 meaning
+e	virologist	virologist	1 meaning
+e	visibility	visibility	1 meaning
+e	visual arts	visualarts	1 meaning
+e	vital organ	vitalorgan	1 meaning
+e	viviparous	viviparous	2 meanings
+j	ヴィジュアル系	vijuarukei	visual kei
+j	ヴィゾフニル	vizofuniru	
+j	ヴィゾープニル	vizopuniru	
+j	ヴィゾーヴニル	vizovuniru	
+j	ヴィテプスク	vitepusuku	
+j	ヴィドフニル	vidofuniru	
+j	ヴィルヘルム	viruherumu	Wilhelm
+j	ヴィルヴォールデ	viruvorude	
+j	ヴィントフック	vintofukku	
+j	ヴィーガニズム	viganizumu	veganism
+j	ヴィーンヌィツャ	vinnwitsya	a city in Ukraine, Vinnyt…
+e	vibrate mode	vibratemode	1 meaning
+e	viceroyalty	viceroyalty	1 meaning
+e	vicissitude	vicissitude	2 meanings
+e	video camera	videocamera	1 meaning
+e	vinaigrette	vinaigrette	1 meaning
+e	vindication	vindication	1 meaning
+e	virgin birth	virginbirth	2 meanings
+e	viscountess	viscountess	2 meanings
+e	visual angle	visualangle	1 meaning
+e	visual novel	visualnovel	1 meaning
+e	viticulture	viticulture	1 meaning
+e	vivisection	vivisection	1 meaning
+e	viśiṣṭacāritra	viiacaritra	1 meaning
+j	ヴィオロンチェロ	vioronchero	violoncello (musical inst…
+j	ヴィクトリア湖	vikutoriako	
+j	ヴィサヤ諸島	visayashoto	Visayas
+j	ヴィシー政権	vishiseiken	Vichy France
+j	ヴィチェプスク	vichepusuku	Vitebsk (a city in Belaru…
+j	ヴィネグレット	vineguretto	vinaigrette
+e	vigintillion	vigintillion	1 meaning
+e	virgin forest	virginforest	1 meaning
+e	virtue ethics	virtueethics	1 meaning
+e	visible light	visiblelight	1 meaning
+e	vitruvian man	vitruvianman	1 meaning
+e	vituperation	vituperation	1 meaning
+e	vice president	vicepresident	1 meaning
+e	vice-principal	viceprincipal	1 meaning
+e	vicious circle	viciouscircle	2 meanings
+e	victim-blaming	victimblaming	1 meaning
+e	videocassette	videocassette	1 meaning
+e	vienna sausage	viennasausage	1 meaning
+e	viper's bugloss	vipersbugloss	1 meaning
+e	virgin islands	virginislands	1 meaning
+e	visa-on-arrival	visaonarrival	1 meaning
+e	visakhapatnam	visakhapatnam	1 meaning
+e	visualization	visualization	2 meanings
+j	ヴィジュアルノベル	vijuarunoberu	
+j	ヴィーンヌィツャ州	vinnwitsyashu	
+e	viennese oyster	vienneseoyster	1 meaning
+e	vietnamese balm	vietnamesebalm	1 meaning
+e	virtual machine	virtualmachine	1 meaning
+e	virtual reality	virtualreality	1 meaning
+e	virtualization	virtualization	1 meaning
+e	virtuous circle	virtuouscircle	1 meaning
+e	vitreous humour	vitreoushumour	1 meaning
+e	viśuddhacāritra	viuddhacaritra	1 meaning
+e	victoria's secret	victoriassecret	1 meaning
+e	video conference	videoconference	1 meaning
+e	virtual youtuber	virtualyoutuber	1 meaning
+e	visiting scholar	visitingscholar	1 meaning
+e	visual pollution	visualpollution	1 meaning
+e	vital statistics	vitalstatistics	1 meaning
+j	ヴィクトリア朝の	vikutoriachouno	
+j	ヴィシャーカパトナム	vishakapatonamu	
+e	video game console	videogameconsole	1 meaning
+e	vierchniadzvinsk	vierchniadzvinsk	1 meaning
+e	virgo supercluster	virgosupercluster	1 meaning
+e	vicarious liability	vicariousliability	1 meaning
+e	videocassette recorder	videocassetterecorder	1 meaning
+e	virtual private network	virtualprivatenetwork	1 meaning
+j	ヴィクトリアズ・シークレット	vikutoriazushikuretto	
+e	vicarious embarrassment	vicariousembarrassment	1 meaning

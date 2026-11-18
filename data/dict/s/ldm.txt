@@ -1,0 +1,3 @@
+e	d major	dmajor	1 meaning
+e	d minor	dminor	1 meaning
+e	dmitry	dmitry	1 meaning

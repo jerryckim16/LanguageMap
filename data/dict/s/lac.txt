@@ -1,0 +1,282 @@
+e	ac	ac	1 meaning
+e	ace	ace	5 meanings
+e	act	act	6 meanings
+e	ac/dc	acdc	1 meaning
+e	acai	acai	2 meanings
+e	aceh	aceh	1 meaning
+e	ache	ache	2 meanings
+e	acid	acid	4 meanings
+e	acne	acne	2 meanings
+e	acre	acre	2 meanings
+e	acyl	acyl	1 meaning
+j	あち	achi	there
+j	あちゃあ	acha	oh no; oopsy
+j	アーチ	achi	arch (architectural eleme…
+k	아차	acha	
+k	아체	ache	
+k	아치	achi	arch
+e	accra	accra	1 meaning
+e	achoo	achoo	1 meaning
+e	ackee	ackee	2 meanings
+e	acorn	acorn	1 meaning
+e	actor	actor	1 meaning
+e	acute	acute	5 meanings
+k	아칙	achik	
+k	아침	achim	morning
+e	a coruña	acorua	1 meaning
+e	acacia	acacia	1 meaning
+e	acadia	acadia	1 meaning
+e	acarus	acarus	1 meaning
+e	accent	accent	5 meanings
+e	accept	accept	4 meanings
+e	access	access	5 meanings
+e	accord	accord	2 meanings
+e	accuse	accuse	1 meaning
+e	acetal	acetal	1 meaning
+e	achaea	achaea	1 meaning
+e	achene	achene	1 meaning
+e	achlys	achlys	1 meaning
+e	acinus	acinus	1 meaning
+e	acquit	acquit	2 meanings
+e	across	across	5 meanings
+e	acting	acting	2 meanings
+e	action	action	7 meanings
+e	actium	actium	1 meaning
+e	active	active	7 meanings
+e	actual	actual	1 meaning
+e	acumen	acumen	1 meaning
+j	あちら	achira	彼方: that way; that over t…
+j	アーチェリー	acheri	archery (the practice)
+k	아첨	acheom	flattery
+k	아칭	aching	
+e	academy	academy	3 meanings
+e	acarian	acarian	1 meaning
+e	account	account	2 meanings
+e	accrete	accrete	1 meaning
+e	accused	accused	1 meaning
+e	accuser	accuser	1 meaning
+e	acerola	acerola	1 meaning
+e	acetate	acetate	1 meaning
+e	acetone	acetone	1 meaning
+e	achaean	achaean	2 meanings
+e	acheron	acheron	1 meaning
+e	achieve	achieve	2 meanings
+e	acidity	acidity	1 meaning
+e	aconite	aconite	1 meaning
+e	acquire	acquire	2 meanings
+e	acreage	acreage	1 meaning
+e	acrobat	acrobat	1 meaning
+e	acronym	acronym	2 meanings
+e	actaeon	actaeon	1 meaning
+e	actress	actress	1 meaning
+e	actuary	actuary	1 meaning
+e	actuate	actuate	1 meaning
+j	アチェ人	achejin	インドネシア・アチェ州の主要民族。オーストロネシア…
+j	アーチ橋	achikyo	鉄あるいは煉瓦・石等で、アーチ形に造った橋。
+k	아체쥐	achejwi	Aceh rat (Rattus villosis…
+k	아초산	achosan	
+k	아치교	achigyo	구조물의 주체가 아치로 만들어진 다리.
+e	academia	academia	2 meanings
+e	academic	academic	11 meanings
+e	accident	accident	3 meanings
+e	accuracy	accuracy	1 meaning
+e	accurate	accurate	1 meaning
+e	achilles	achilles	1 meaning
+e	acid rain	acidrain	1 meaning
+e	acidosis	acidosis	1 meaning
+e	acoustic	acoustic	3 meanings
+e	acquired	acquired	1 meaning
+e	acridine	acridine	1 meaning
+e	acrimony	acrimony	1 meaning
+e	acrolein	acrolein	1 meaning
+e	acrostic	acrostic	1 meaning
+e	actinide	actinide	1 meaning
+e	actinium	actinium	1 meaning
+e	actinoid	actinoid	1 meaning
+e	activist	activist	1 meaning
+e	activity	activity	4 meanings
+e	actually	actually	1 meaning
+e	acupoint	acupoint	1 meaning
+j	あちゃらか	acharaka	昭和初期に流行った滑稽でにぎやかな芝居。
+j	アーチスト	achisuto	「アーティスト」の表記ゆれ。
+k	아침내	achimnae	
+k	아침놀	achimnol	morning glow; sunrise
+k	아침밥	achimbap	아침 끼니로 먹는 밥.
+k	아침잠	achimjam	
+e	a cappella	acappella	1 meaning
+e	acacia tit	acaciatit	1 meaning
+e	academese	academese	1 meaning
+e	academian	academian	1 meaning
+e	acai berry	acaiberry	1 meaning
+e	acarnania	acarnania	1 meaning
+e	acarology	acarology	1 meaning
+e	accession	accession	1 meaning
+e	accessory	accessory	1 meaning
+e	accompany	accompany	3 meanings
+e	accordion	accordion	1 meaning
+e	account to	accountto	1 meaning
+e	accretion	accretion	1 meaning
+e	acetamide	acetamide	1 meaning
+e	acetylene	acetylene	1 meaning
+e	aciclovir	aciclovir	1 meaning
+e	acoustics	acoustics	1 meaning
+e	acqua alta	acquaalta	1 meaning
+e	acquittal	acquittal	1 meaning
+e	acronymic	acronymic	1 meaning
+e	acropolis	acropolis	1 meaning
+e	actuality	actuality	1 meaning
+e	actus reus	actusreus	1 meaning
+j	あちこち	achikochi	あちらこちら。あれこれ。方方。
+j	アーチ道	achimichi	
+k	아첨 함	acheomham	
+k	아첨군	acheomgun	
+k	아침상	achimsang	
+e	accelerant	accelerant	1 meaning
+e	accelerate	accelerate	4 meanings
+e	acceptance	acceptance	2 meanings
+e	accidental	accidental	2 meanings
+e	accomplice	accomplice	1 meaning
+e	accoucheur	accoucheur	1 meaning
+e	account for	accountfor	2 meanings
+e	accountant	accountant	3 meanings
+e	accounting	accounting	1 meaning
+e	accumulate	accumulate	2 meanings
+e	accurately	accurately	1 meaning
+e	accusation	accusation	3 meanings
+e	accusative	accusative	3 meanings
+e	accusatory	accusatory	1 meaning
+e	accustomed	accustomed	1 meaning
+e	ace of clubs	aceofclubs	1 meaning
+e	acetic acid	aceticacid	1 meaning
+e	acrobatics	acrobatics	1 meaning
+e	acromegaly	acromegaly	1 meaning
+e	acronymous	acronymous	1 meaning
+e	acrophobia	acrophobia	1 meaning
+e	acrylamide	acrylamide	1 meaning
+e	action noun	actionnoun	1 meaning
+e	action verb	actionverb	1 meaning
+e	active duty	activeduty	1 meaning
+e	acute angle	acuteangle	1 meaning
+k	아첨꾼	acheomkkun	flatterer
+k	아첨하다	acheomhada	to flatter, to butter up
+k	아치형	achihyeong	활과 같은 곡선으로 된 형태나 형식.
+k	아칠대다	achildaeda	'아치랑대다'의 준말.
+k	아칠아칠	achirachil	
+k	아침 발기	achimbalgi	
+k	아침 식사	achimsiksa	breakfast
+k	아침결	achimgyeol	
+k	아침노을	achimnoeul	아침 하늘이 햇살로 벌겋게 보이는 현상.
+k	아칫대다	achitdaeda	'아칫거리다'.
+k	아칫아칫	achisachit	
+e	academician	academician	3 meanings
+e	accelerator	accelerator	1 meaning
+e	accommodate	accommodate	1 meaning
+e	accompanist	accompanist	1 meaning
+e	according to	accordingto	1 meaning
+e	account book	accountbook	1 meaning
+e	accumulator	accumulator	2 meanings
+e	ace of hearts	aceofhearts	1 meaning
+e	ace of spades	aceofspades	1 meaning
+e	acetylation	acetylation	1 meaning
+e	achievement	achievement	1 meaning
+e	acknowledge	acknowledge	1 meaning
+e	acquisition	acquisition	2 meanings
+e	acronymania	acronymania	1 meaning
+e	action movie	actionmovie	1 meaning
+e	active voice	activevoice	1 meaning
+e	acupressure	acupressure	1 meaning
+e	acupuncture	acupuncture	1 meaning
+e	acute accent	acuteaccent	1 meaning
+e	acute-angled	acuteangled	1 meaning
+k	아창대다	achangdaeda	'아창거리다'.
+k	아침나절	achimnajeol	
+k	아침형	achimhyeong	
+e	academic year	academicyear	1 meaning
+e	acceleration	acceleration	3 meanings
+e	accidentally	accidentally	1 meaning
+e	accomplished	accomplished	1 meaning
+e	accretionary	accretionary	1 meaning
+e	acenaphthene	acenaphthene	1 meaning
+e	acetaldehyde	acetaldehyde	1 meaning
+e	acetonitrile	acetonitrile	1 meaning
+e	achilles heel	achillesheel	1 meaning
+e	acquaintance	acquaintance	2 meanings
+e	acquiescence	acquiescence	1 meaning
+e	acrocyanosis	acrocyanosis	1 meaning
+e	acrylic fiber	acrylicfiber	1 meaning
+e	acrylic resin	acrylicresin	1 meaning
+e	action figure	actionfigure	1 meaning
+e	active matrix	activematrix	1 meaning
+k	아창아창	achangachang	
+k	아첨하는	acheomhaneun	
+k	아칠거리다	achilgeorida	'아치랑거리다'의 준말.
+k	아칫거리다	achitgeorida	어린아이가 이리저리 위태롭게 걸음을 떼어 놓다.
+e	accelerometer	accelerometer	1 meaning
+e	acceptability	acceptability	1 meaning
+e	accommodation	accommodation	3 meanings
+e	accompaniment	accompaniment	1 meaning
+e	accreditation	accreditation	1 meaning
+e	accretion disk	accretiondisk	1 meaning
+e	ace of diamonds	aceofdiamonds	1 meaning
+e	acetaminophen	acetaminophen	1 meaning
+e	acetylacetone	acetylacetone	1 meaning
+e	acetylcholine	acetylcholine	1 meaning
+e	acidification	acidification	1 meaning
+e	actinomycosis	actinomycosis	1 meaning
+e	active volcano	activevolcano	1 meaning
+e	acute triangle	acutetriangle	1 meaning
+j	あちらこちら	achirakochira	あちこち。あれこれ。方方。
+j	彼方此方	achirakochira	here and there
+k	아창거리다	achanggeorida	키가 작은 사람이나 짐승이 이리저리 찬찬히 걷…
+k	아치랑대다	achirangdaeda	'아치랑거리다'.
+k	아치장대다	achijangdaeda	'아치장거리다'.
+k	아침저녁	achimjeonyeok	
+e	accomplishment	accomplishment	2 meanings
+e	achilles tendon	achillestendon	1 meaning
+e	achondroplasia	achondroplasia	1 meaning
+e	acknowledgment	acknowledgment	3 meanings
+e	acoustic guitar	acousticguitar	1 meaning
+e	acronymization	acronymization	1 meaning
+e	active measures	activemeasures	1 meaning
+k	아칠아칠하다	achirachilhada	'아치랑아치랑하다'의 준말.
+k	아침을 먹다	achimeulmeokda	
+k	아칫아칫하다	achisachithada	
+e	academic freedom	academicfreedom	1 meaning
+e	acclimatization	acclimatization	1 meaning
+e	accounts payable	accountspayable	1 meaning
+e	ace up one's sleeve	aceuponessleeve	1 meaning
+e	acetic anhydride	aceticanhydride	1 meaning
+e	action potential	actionpotential	1 meaning
+e	activated carbon	activatedcarbon	1 meaning
+k	아치랑거리다	achiranggeorida	키가 조금 작은 사람이 힘없이 몸을 조금 흔들…
+k	아치장거리다	achijanggeorida	키가 조금 작은 사람이 기운이 없이 자꾸 느리…
+k	아치형마치	achihyeongmachi	반달 모양으로 된 마치.
+k	아침을 드시다	achimeuldeusida	
+e	achaemenid empire	achaemenidempire	1 meaning
+e	active participle	activeparticiple	1 meaning
+k	아창아창하다	achangachanghada	
+k	아치랑아치랑	achirangachirang	
+k	아치장아치장	achijangachijang	
+k	아침 최저 기온	achimchoejeogion	하루 중 가장 낮은 대기의 온도.
+e	academy of sciences	academyofsciences	1 meaning
+e	acts of the apostles	actsoftheapostles	1 meaning
+k	아침밥을 먹다	achimbabeulmeokda	
+k	아침을 잡수시다	achimeuljapsusida	
+e	accounts receivable	accountsreceivable	1 meaning
+e	activation function	activationfunction	1 meaning
+k	아침 식사를 하다	achimsiksareulhada	
+k	아침밥을 드시다	achimbabeuldeusida	
+e	acetylsalicylic acid	acetylsalicylicacid	1 meaning
+e	acetylcholinesterase	acetylcholinesterase	1 meaning
+k	아치랑아치랑하다	achirangachiranghada	
+k	아치장아치장하다	achijangachijanghada	
+k	아침 식사를 하시다	achimsiksareulhasida	
+k	아침밥을 잡수시다	achimbabeuljapsusida	
+e	accidentally on purpose	accidentallyonpurpose	1 meaning
+k	아침 식사를 드시다	achimsiksareuldeusida	
+e	activities of daily living	activitiesofdailyliving	1 meaning
+e	actions speak louder than words	actionsspeaklouderthanwords	1 meaning
+e	a contented mind is a perpetual feast	acontentedmindisaperpetualfeast	1 meaning
+e	acquired immunodeficiency syndrome	acquiredimmunodeficiencysyndrome	1 meaning
+e	acute respiratory distress syndrome	acuterespiratorydistresssyndrome	1 meaning
+e	a camel is a horse designed by a committee	acamelisahorsedesignedbyacommittee	1 meaning

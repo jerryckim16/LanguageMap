@@ -1,0 +1,11 @@
+e	bharat	bharat	1 meaning
+e	bhilai	bhilai	1 meaning
+e	bhopal	bhopal	1 meaning
+e	bhutan	bhutan	1 meaning
+e	bhikkhu	bhikkhu	1 meaning
+e	bhikkhuni	bhikkhuni	1 meaning
+e	bhubaneswar	bhubaneswar	1 meaning
+e	bhagavad gita	bhagavadgita	1 meaning
+e	bhaiṣajyaguru	bhaiajyaguru	1 meaning
+e	bhaiṣajyarāja	bhaiajyaraja	1 meaning
+e	bhaiṣajyasamudgata	bhaiajyasamudgata	1 meaning

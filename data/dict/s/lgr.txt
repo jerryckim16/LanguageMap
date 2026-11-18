@@ -1,0 +1,365 @@
+e	grab	grab	1 meaning
+e	grad	grad	1 meaning
+e	gram	gram	1 meaning
+e	gray	gray	3 meanings
+e	graz	graz	1 meaning
+e	grid	grid	1 meaning
+e	grip	grip	2 meanings
+e	grit	grit	1 meaning
+e	grog	grog	1 meaning
+e	grow	grow	3 meanings
+e	grub	grub	3 meanings
+e	grue	grue	2 meanings
+e	grus	grus	1 meaning
+e	grace	grace	7 meanings
+e	grade	grade	3 meanings
+e	grado	grado	1 meaning
+e	graft	graft	1 meaning
+e	grain	grain	4 meanings
+e	grand	grand	1 meaning
+e	grant	grant	6 meanings
+e	grape	grape	3 meanings
+e	graph	graph	2 meanings
+e	grasp	grasp	2 meanings
+e	grass	grass	3 meanings
+e	grave	grave	2 meanings
+e	gravy	gravy	1 meaning
+e	graze	graze	3 meanings
+e	great	great	6 meanings
+e	grebe	grebe	1 meaning
+e	greed	greed	1 meaning
+e	greek	greek	3 meanings
+e	green	green	9 meanings
+e	greet	greet	1 meaning
+e	grief	grief	1 meaning
+e	grill	grill	4 meanings
+e	grimm	grimm	1 meaning
+e	grind	grind	2 meanings
+e	griot	griot	1 meaning
+e	grits	grits	1 meaning
+e	groan	groan	2 meanings
+e	groat	groat	1 meaning
+e	groin	groin	1 meaning
+e	groom	groom	1 meaning
+e	grope	grope	3 meanings
+e	gross	gross	1 meaning
+e	group	group	3 meanings
+e	grout	grout	1 meaning
+e	grove	grove	1 meaning
+e	growl	growl	2 meanings
+e	gruel	gruel	1 meaning
+e	graben	graben	1 meaning
+e	grader	grader	1 meaning
+e	granny	granny	1 meaning
+e	grappa	grappa	1 meaning
+e	grater	grater	1 meaning
+e	gratin	gratin	1 meaning
+e	gravel	gravel	1 meaning
+e	gravid	gravid	1 meaning
+e	grease	grease	2 meanings
+e	greasy	greasy	1 meaning
+e	greece	greece	1 meaning
+e	greedy	greedy	1 meaning
+e	greens	greens	1 meaning
+e	gretel	gretel	1 meaning
+e	gringo	gringo	1 meaning
+e	grisly	grisly	1 meaning
+e	grodno	grodno	1 meaning
+e	groove	groove	3 meanings
+e	grotto	grotto	1 meaning
+e	ground	ground	6 meanings
+e	grouse	grouse	1 meaning
+e	grow up	growup	1 meaning
+e	grower	grower	1 meaning
+e	growth	growth	1 meaning
+e	groyne	groyne	1 meaning
+e	grozny	grozny	1 meaning
+e	grudge	grudge	1 meaning
+e	grumpy	grumpy	1 meaning
+e	grunge	grunge	1 meaning
+e	gruyère	gruyre	1 meaning
+e	gradian	gradian	1 meaning
+e	grammar	grammar	4 meanings
+e	granada	granada	1 meaning
+e	granary	granary	1 meaning
+e	grandma	grandma	1 meaning
+e	grandpa	grandpa	1 meaning
+e	granita	granita	1 meaning
+e	granite	granite	1 meaning
+e	granola	granola	1 meaning
+e	granule	granule	2 meanings
+e	graphic	graphic	2 meanings
+e	grapple	grapple	1 meaning
+e	gratify	gratify	1 meaning
+e	graupel	graupel	1 meaning
+e	gravlax	gravlax	1 meaning
+e	gray fox	grayfox	1 meaning
+e	gray out	grayout	1 meaning
+e	greatly	greatly	1 meaning
+e	gregory	gregory	1 meaning
+e	gremlin	gremlin	1 meaning
+e	grenada	grenada	1 meaning
+e	grenade	grenade	1 meaning
+e	grey cup	greycup	1 meaning
+e	griddle	griddle	1 meaning
+e	griffin	griffin	1 meaning
+e	grimace	grimace	2 meanings
+e	gristle	gristle	1 meaning
+e	grouchy	grouchy	1 meaning
+e	grouper	grouper	1 meaning
+e	graceful	graceful	1 meaning
+e	gradient	gradient	1 meaning
+e	graduate	graduate	5 meanings
+e	graffiti	graffiti	1 meaning
+e	graining	graining	1 meaning
+e	grand est	grandest	1 meaning
+e	grandson	grandson	1 meaning
+e	grapheme	grapheme	1 meaning
+e	graphene	graphene	1 meaning
+e	graphics	graphics	1 meaning
+e	graphite	graphite	1 meaning
+e	grateful	grateful	1 meaning
+e	gravelly	gravelly	1 meaning
+e	graviton	graviton	1 meaning
+e	graybody	graybody	1 meaning
+e	grayling	grayling	1 meaning
+e	great auk	greatauk	1 meaning
+e	green tea	greentea	2 meanings
+e	greeting	greeting	1 meaning
+e	grenoble	grenoble	1 meaning
+e	grey area	greyarea	1 meaning
+e	grey wolf	greywolf	1 meaning
+e	gridlock	gridlock	3 meanings
+e	grimoire	grimoire	1 meaning
+e	grooming	grooming	1 meaning
+e	groschen	groschen	1 meaning
+e	group sex	groupsex	1 meaning
+e	groupoid	groupoid	1 meaning
+e	gruesome	gruesome	1 meaning
+e	grace note	gracenote	1 meaning
+e	gradually	gradually	1 meaning
+e	gran chaco	granchaco	1 meaning
+e	grand jury	grandjury	1 meaning
+e	grand prix	grandprix	1 meaning
+e	granuloma	granuloma	1 meaning
+e	grapeseed	grapeseed	1 meaning
+e	grapeshot	grapeshot	1 meaning
+e	grapevine	grapevine	2 meanings
+e	grass carp	grasscarp	1 meaning
+e	grassland	grassland	1 meaning
+e	gratitude	gratitude	1 meaning
+e	graveyard	graveyard	1 meaning
+e	gray water	graywater	1 meaning
+e	great dane	greatdane	1 meaning
+e	great game	greatgame	1 meaning
+e	great knot	greatknot	1 meaning
+e	great-aunt	greataunt	1 meaning
+e	greatness	greatness	1 meaning
+e	greek fire	greekfire	1 meaning
+e	green alga	greenalga	1 meaning
+e	green bean	greenbean	1 meaning
+e	green belt	greenbelt	1 meaning
+e	green card	greencard	1 meaning
+e	green line	greenline	1 meaning
+e	greenhorn	greenhorn	1 meaning
+e	greenland	greenland	1 meaning
+e	greenware	greenware	1 meaning
+e	greenwash	greenwash	1 meaning
+e	greenwich	greenwich	1 meaning
+e	grenadier	grenadier	1 meaning
+e	grenadine	grenadine	1 meaning
+e	grey heron	greyheron	1 meaning
+e	greyhound	greyhound	1 meaning
+e	grindcore	grindcore	1 meaning
+e	groningen	groningen	2 meanings
+e	groomsman	groomsman	1 meaning
+e	grosgrain	grosgrain	1 meaning
+e	grotesque	grotesque	1 meaning
+e	grab handle	grabhandle	1 meaning
+e	graduation	graduation	3 meanings
+e	grammarian	grammarian	1 meaning
+e	grand piano	grandpiano	1 meaning
+e	grandchild	grandchild	1 meaning
+e	grandniece	grandniece	1 meaning
+e	grandstand	grandstand	1 meaning
+e	granola bar	granolabar	1 meaning
+e	grape juice	grapejuice	1 meaning
+e	grapefruit	grapefruit	2 meanings
+e	graph paper	graphpaper	1 meaning
+e	graphology	graphology	1 meaning
+e	grass roots	grassroots	1 meaning
+e	grass snake	grasssnake	1 meaning
+e	grass widow	grasswidow	1 meaning
+e	grass-green	grassgreen	1 meaning
+e	gravel road	gravelroad	1 meaning
+e	gray langur	graylangur	1 meaning
+e	gray-collar	graycollar	1 meaning
+e	great egret	greategret	1 meaning
+e	great lakes	greatlakes	1 meaning
+e	great power	greatpower	1 meaning
+e	great purge	greatpurge	1 meaning
+e	great scott	greatscott	1 meaning
+e	great snipe	greatsnipe	1 meaning
+e	great-uncle	greatuncle	1 meaning
+e	greatsword	greatsword	1 meaning
+e	greco-roman	grecoroman	1 meaning
+e	green anole	greenanole	1 meaning
+e	green flash	greenflash	1 meaning
+e	green light	greenlight	1 meaning
+e	greenhouse	greenhouse	1 meaning
+e	greenpeace	greenpeace	1 meaning
+e	gregarious	gregarious	1 meaning
+e	grenadines	grenadines	1 meaning
+e	grey matter	greymatter	1 meaning
+e	grim reaper	grimreaper	1 meaning
+e	grindstone	grindstone	1 meaning
+e	ground ball	groundball	1 meaning
+e	ground wire	groundwire	1 meaning
+e	ground zero	groundzero	1 meaning
+e	groundwork	groundwork	1 meaning
+e	group stage	groupstage	1 meaning
+e	gryffindor	gryffindor	1 meaning
+e	grammatical	grammatical	2 meanings
+e	grand canyon	grandcanyon	1 meaning
+e	grand vizier	grandvizier	1 meaning
+e	grande-terre	grandeterre	1 meaning
+e	grandfather	grandfather	1 meaning
+e	grandmaster	grandmaster	1 meaning
+e	grandmother	grandmother	1 meaning
+e	grandnephew	grandnephew	1 meaning
+e	grandparent	grandparent	1 meaning
+e	granule cell	granulecell	1 meaning
+e	granulocyte	granulocyte	1 meaning
+e	graph theory	graphtheory	1 meaning
+e	grass script	grassscript	1 meaning
+e	grasshopper	grasshopper	1 meaning
+e	grave accent	graveaccent	1 meaning
+e	gravitation	gravitation	1 meaning
+e	gravity well	gravitywell	1 meaning
+e	great circle	greatcircle	1 meaning
+e	great plains	greatplains	1 meaning
+e	greater good	greatergood	1 meaning
+e	greater than	greaterthan	1 meaning
+e	green island	greenisland	1 meaning
+e	green pepper	greenpepper	1 meaning
+e	green pigeon	greenpigeon	1 meaning
+e	greengrocer	greengrocer	1 meaning
+e	greenlander	greenlander	1 meaning
+e	greenlandic	greenlandic	1 meaning
+e	greenschist	greenschist	1 meaning
+e	grey wagtail	greywagtail	1 meaning
+e	grizzly bear	grizzlybear	1 meaning
+e	gross profit	grossprofit	1 meaning
+e	ground elder	groundelder	1 meaning
+e	ground floor	groundfloor	1 meaning
+e	groundwater	groundwater	1 meaning
+e	group action	groupaction	1 meaning
+e	group theory	grouptheory	1 meaning
+e	gracefulness	gracefulness	1 meaning
+e	grammatology	grammatology	1 meaning
+e	granodiorite	granodiorite	1 meaning
+e	granulovirus	granulovirus	1 meaning
+e	grapeseed oil	grapeseedoil	1 meaning
+e	graphic novel	graphicnovel	1 meaning
+e	graphics card	graphicscard	1 meaning
+e	gray squirrel	graysquirrel	2 meanings
+e	great britain	greatbritain	2 meanings
+e	great bulrush	greatbulrush	1 meaning
+e	great bustard	greatbustard	1 meaning
+e	great grey owl	greatgreyowl	1 meaning
+e	greeting card	greetingcard	1 meaning
+e	greylag goose	greylaggoose	1 meaning
+e	grocery store	grocerystore	1 meaning
+e	ground beetle	groundbeetle	1 meaning
+e	groundcherry	groundcherry	1 meaning
+e	group captain	groupcaptain	1 meaning
+e	group of death	groupofdeath	1 meaning
+e	granddaughter	granddaughter	1 meaning
+e	grande prairie	grandeprairie	1 meaning
+e	granulomatous	granulomatous	1 meaning
+e	graphic design	graphicdesign	1 meaning
+e	grass mud horse	grassmudhorse	1 meaning
+e	great salt lake	greatsaltlake	1 meaning
+e	great-grandson	greatgrandson	1 meaning
+e	greater london	greaterlondon	1 meaning
+e	green bee-eater	greenbeeeater	1 meaning
+e	green pheasant	greenpheasant	1 meaning
+e	greenhouse gas	greenhousegas	1 meaning
+e	grit one's teeth	gritonesteeth	2 meanings
+e	group velocity	groupvelocity	1 meaning
+e	growth hormone	growthhormone	1 meaning
+e	graduate school	graduateschool	1 meaning
+e	graphics tablet	graphicstablet	1 meaning
+e	great antshrike	greatantshrike	1 meaning
+e	great cormorant	greatcormorant	1 meaning
+e	great horned owl	greathornedowl	1 meaning
+e	great successor	greatsuccessor	1 meaning
+e	greater omentum	greateromentum	1 meaning
+e	green sandpiper	greensandpiper	1 meaning
+e	green sea turtle	greenseaturtle	1 meaning
+e	green-backed tit	greenbackedtit	1 meaning
+e	greenland shark	greenlandshark	1 meaning
+e	gregorian chant	gregorianchant	1 meaning
+e	griffon vulture	griffonvulture	1 meaning
+e	grammatical case	grammaticalcase	1 meaning
+e	grammatical mood	grammaticalmood	1 meaning
+e	granulated sugar	granulatedsugar	1 meaning
+e	grapefruit spoon	grapefruitspoon	1 meaning
+e	grasp all, lose all	graspallloseall	1 meaning
+e	great commission	greatcommission	1 meaning
+e	great depression	greatdepression	1 meaning
+e	great grey shrike	greatgreyshrike	1 meaning
+e	great vowel shift	greatvowelshift	1 meaning
+e	great white shark	greatwhiteshark	1 meaning
+e	great-grandchild	greatgrandchild	1 meaning
+e	greater flamingo	greaterflamingo	1 meaning
+e	green woodpecker	greenwoodpecker	1 meaning
+e	grenade launcher	grenadelauncher	1 meaning
+e	ground clearance	groundclearance	1 meaning
+e	grandfather clock	grandfatherclock	1 meaning
+e	great barrier reef	greatbarrierreef	1 meaning
+e	great leap forward	greatleapforward	1 meaning
+e	great wall of china	greatwallofchina	1 meaning
+e	great-grandfather	greatgrandfather	1 meaning
+e	great-grandmother	greatgrandmother	1 meaning
+e	great-grandparent	greatgrandparent	1 meaning
+e	greater celandine	greatercelandine	1 meaning
+e	greenhouse effect	greenhouseeffect	1 meaning
+e	grey crowned crane	greycrownedcrane	1 meaning
+e	grammatical gender	grammaticalgender	1 meaning
+e	grammatical person	grammaticalperson	1 meaning
+e	gravitational wave	gravitationalwave	1 meaning
+e	great crested grebe	greatcrestedgrebe	1 meaning
+e	great patriotic war	greatpatrioticwar	1 meaning
+e	greater yellowlegs	greateryellowlegs	1 meaning
+e	greenwich mean time	greenwichmeantime	1 meaning
+e	gregorian calendar	gregoriancalendar	1 meaning
+e	grey-tailed tattler	greytailedtattler	1 meaning
+e	grandfather paradox	grandfatherparadox	1 meaning
+e	gravitational force	gravitationalforce	1 meaning
+e	great northern diver	greatnortherndiver	1 meaning
+e	great pyramid of giza	greatpyramidofgiza	1 meaning
+e	great-granddaughter	greatgranddaughter	1 meaning
+e	greater spotted eagle	greaterspottedeagle	1 meaning
+e	greek orthodox church	greekorthodoxchurch	1 meaning
+e	grey-headed chickadee	greyheadedchickadee	1 meaning
+e	great black-backed gull	greatblackbackedgull	1 meaning
+e	great minds think alike	greatmindsthinkalike	1 meaning
+e	greater mouse-eared bat	greatermouseearedbat	1 meaning
+e	grey-capped greenfinch	greycappedgreenfinch	1 meaning
+e	gross domestic product	grossdomesticproduct	1 meaning
+e	gross national product	grossnationalproduct	1 meaning
+e	grand duchy of lithuania	grandduchyoflithuania	1 meaning
+e	great-great-grandfather	greatgreatgrandfather	1 meaning
+e	great-great-grandmother	greatgreatgrandmother	1 meaning
+e	greatest common divisor	greatestcommondivisor	1 meaning
+e	grand duchy of luxembourg	grandduchyofluxembourg	1 meaning
+e	grand unification theory	grandunificationtheory	1 meaning
+e	graphical user interface	graphicaluserinterface	1 meaning
+e	great spotted woodpecker	greatspottedwoodpecker	1 meaning
+e	green fluorescent protein	greenfluorescentprotein	1 meaning
+e	gravitational interaction	gravitationalinteraction	1 meaning
+e	gravitational singularity	gravitationalsingularity	1 meaning
+e	greater white-fronted goose	greaterwhitefrontedgoose	1 meaning
+e	great icosihemidodecahedron	greaticosihemidodecahedron	1 meaning
+e	greatest thing since sliced bread	greatestthingsinceslicedbread	1 meaning

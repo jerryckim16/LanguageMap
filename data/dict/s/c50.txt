@@ -1,0 +1,2054 @@
+j	串	串	a skewer, spit
+j	仲	仲	(なか) 人と人との間柄。
+j	割	割	proportion
+j	勲	勲	merit
+j	史	史	a male given name
+j	咲	咲	a female given name
+j	哲	哲	a male given name
+j	嘲	嘲	ridicule, insult, scorn, …
+j	囲	囲	counter for the amount th…
+j	已	已	already
+j	干	干	shield
+j	擲	擲	a surname
+j	曲	曲	a piece of music
+j	栲	栲	cloth, especially, from t…
+j	槲	槲	
+j	欲	欲	desire, a want, that whic…
+j	歲	歲	
+j	液	液	liquid
+j	瀲	瀲	（なぎさ）波打ち際。
+j	瓲	瓲	（トン、グラムトン）1000キログラム。
+j	甲	甲	carapace, shell
+j	盲	盲	blindness
+j	砲	砲	gun, firearm
+j	硲	硲	a surname
+j	稲	稲	the Asian rice plant, Ory…
+j	絲	絲	a female given name
+j	網	網	net, netting
+j	育	育	to raise, to bring up; to…
+j	色	色	color
+j	蒲	蒲	common cattail (Typha lat…
+j	該	該	
+j	課	課	lessons
+j	譲	譲	a male given name
+j	蹲	蹲	
+j	農	農	agriculture, farming
+j	進	進	a male given name
+j	鋲	鋲	（ビョウ）画鋲。
+j	録	録	「○○録」の形で、○○について書き記された書物の名…
+j	閲	閲	read; view; examine; insp…
+j	雲	雲	a cloud (visible mass of …
+j	露	露	dew, dewdrop
+j	飲	飲	drink
+j	鬲	鬲	a cauldron with three hol…
+j	魲	魲	Suzuki (a neighborhood of…
+j	鴲	鴲	hawfinch, Coccothraustes …
+j	鵲	鵲	the Eurasian magpie, Pica…
+j	鶲	鶲	an Old World flycatcher: …
+j	鷲	鷲	eagle (bird)
+k	갑	甲	armor; shell
+k	곡	曲	valley
+k	곶	串	cape; headland
+k	과	課	academic department (in u…
+k	누리망	網	
+k	망	網	any object that looks lik…
+k	사	史	four
+k	색	色	colour (UK), color (US)
+k	서	署	west
+k	세	歲	three (before a noun or c…
+k	액	液	liquid; fluid
+k	주	洲	week (unit of time)
+k	충	蟲	bug, insect
+k	포	砲	gun; cannon
+k	할	割	a tenth
+j	串貫	串貫	貫くこと。
+j	串賊	串賊	盗人。
+j	串鯖	串鯖	a mackerel skewer, usuall…
+j	仲上	仲上	a surname
+j	仲人	仲人	matchmaking
+j	仲介	仲介	intermediation, good offi…
+j	仲俣	仲俣	a surname
+j	仲兄	仲兄	二番目の兄。次兄。
+j	仲冬	仲冬	eleventh month of the tra…
+j	仲商	仲商	陰暦八月の異称。
+j	仲夏	仲夏	midsummer
+j	仲尼	仲尼	courtesy name (azana) of …
+j	仲島	仲島	a surname
+j	仲嶋	仲嶋	a surname
+j	仲川	仲川	a surname
+j	仲春	仲春	second month of the tradi…
+j	仲村	仲村	a surname
+j	仲核	仲核	
+j	仲根	仲根	a surname
+j	仲沢	仲沢	a surname
+j	仲澤	仲澤	a surname
+j	仲田	仲田	a surname
+j	仲秋	仲秋	eighth month of the tradi…
+j	仲程	仲程	a surname
+j	仲裁	仲裁	arbitration; mediation
+j	仲谷	仲谷	a surname
+j	仲野	仲野	a surname
+j	仲間	仲間	companion
+j	侲子	侲子	よい童子。
+j	侲男	侲男	男の子。童男。
+j	偲ぶ	偲ぶ	to recall, reminisce; to …
+j	傲倨	傲倨	奢り高ぶること。また、そのようなさま。倨傲。
+j	傲倪	傲倪	傲睨すること。
+j	傲兀	傲兀	驕り高ぶるさま。
+j	傲岸	傲岸	arrogance, haughtiness, p…
+j	傲很	傲很	人に傲り、道理に背く。傲悖。
+j	傲悖	傲悖	人に傲り、道理に背く。傲很。
+j	傲慢	傲慢	arrogance
+j	傲易	傲易	侮ること。
+j	傲然	傲然	傲り高ぶり、他人を見下げるさま。
+j	傲睨	傲睨	物に動じずにじっと睨みつけること。
+j	儲蓄	儲蓄	財貨を蓄えること。また、その財貨。
+j	冲天	冲天	空高く上ること。
+j	刲刳	刲刳	腹を裂くこと。
+j	割く	割く	spare, devote, give
+j	割と	割と	relatively
+j	割に	割に	comparatively, rather, qu…
+j	割る	割る	to break (into separate p…
+j	割れ	割れ	
+j	割創	割創	骨と皮膚が近い部位に垂直に鈍器による力が加えられた…
+j	割劌	割劌	傷付け、斬ること。
+j	割合	割合	comparatively
+j	割土	割土	割地。
+j	割地	割地	区分した土地。
+j	割増	割増	extra charge, extra fare,…
+j	割引	割引	discount
+j	割当	割当	割り当てること。
+j	割情	割情	割愛すること。
+j	割愛	割愛	parting reluctantly with;…
+j	割拠	割拠	複数の領主がそれぞれの領地を拠点として勢力を誇るこ…
+j	割殻	割殻	a skeleton shrimp
+j	割注	割注	a block of small-sized te…
+j	割烹	割烹	Japanese traditional cuis…
+j	割球	割球	動物の発生段階で受精卵の卵割が進み、胞胚になる前の…
+j	割礼	割礼	male circumcision
+j	割符	割符	a bill or note used to se…
+j	割線	割線	secant, secant line
+j	割腹	割腹	harakiri, seppuku
+j	割譲	割譲	cession (of territory)
+j	割賦	割賦	purchasing in instalments…
+j	勲位	勲位	国家、社会に功績があった者に与えられる勲等と位階。
+j	勲功	勲功	国家や主君に対して尽くした功労。手柄。
+j	勲府	勲府	親衛の官。
+j	勲格	勲格	勲階。
+j	勲状	勲状	勲功に対する感状。
+j	勲章	勲章	medal, a stamped metal di…
+j	勲等	勲等	国家や社会に功績があった者を表彰するために国が設け…
+j	勲級	勲級	勲等。
+j	勲臣	勲臣	勲功のある家臣。
+j	勲記	勲記	decoration diploma
+j	勲貴	勲貴	勲功のある貴紳の家。
+j	勲賞	勲賞	勲功を褒賞すること。
+j	勲階	勲階	勲等。
+j	厲人	厲人	「癩人」の別表記。
+j	厲俗	厲俗	世俗を励ますこと。
+j	厲声	厲声	大声を出すこと。
+j	厲疾	厲疾	sudden illness
+j	厲色	厲色	血相を変えること。
+j	厲行	厲行	励行の別表記。
+j	史上	史上	in history; ever
+j	史乗	史乗	歴史や事実の記録。史書。
+j	史伝	史伝	歴史と伝記。
+j	史劇	史劇	史実に取材した演劇。
+j	史哉	史哉	a male given name
+j	史子	史子	a female given name
+j	史学	史学	history (branch of knowle…
+j	史官	史官	古代の中国において文書や記録をつかさどる官職。
+j	史実	史実	historical fact
+j	史家	史家	historian
+j	史寿	史寿	a male given name
+j	史局	史局	歴史を編纂する役所や部署。
+j	史庫	史庫	高麗、李氏朝鮮で実録など重要な書物を保管するために…
+j	史料	史料	history resources, histor…
+j	史書	史書	歴史を記した書物。歴史書。歴史書籍。
+j	史朗	史朗	a male given name
+j	史束	史束	a female given name
+j	史林	史林	歴史を書いた書物。
+j	史浩	史浩	a male given name
+j	史潮	史潮	歴史の大きな流れ。
+j	史生	史生	a male given name
+j	史略	史略	簡単に記した歴史。
+j	史的	史的	歴史に関する様子。
+j	史眼	史眼	歴史的に物事を考える目。
+j	史科	史科	歴史に関する科目。
+j	史筆	史筆	歴史を書くにあたっての書き方や態度。
+j	史策	史策	歴史などの事実を記した文書。
+j	史籍	史籍	historical works; annals
+j	史織	史織	a female given name
+j	史観	史観	view of history; historic…
+j	史記	史記	a record of history; a hi…
+j	史話	史話	歴史上の出来事などを制限を題材にした話。史談。
+j	史談	史談	歴史上の出来事や事柄を題材にした物語。
+j	史論	史論	歴史に関する理論。
+j	史跡	史跡	historic site
+j	史蹟	史蹟	歴史上の事件や建造物のあった場所。
+j	史郎	史郎	a male given name
+j	史閣	史閣	修史を行う所。
+j	咲く	咲く	to bloom
+j	咲け	咲け	hypothetical and imperati…
+j	咲子	咲子	a female given name
+j	咲恵	咲恵	a female given name
+j	哲三	哲三	a male given name
+j	哲之	哲之	a male given name
+j	哲也	哲也	a male given name
+j	哲二	哲二	a male given name
+j	哲人	哲人	sage, philosopher
+j	哲史	哲史	a male given name
+j	哲司	哲司	a male given name
+j	哲哉	哲哉	a male given name
+j	哲夫	哲夫	a male given name
+j	哲央	哲央	a male given name
+j	哲婦	哲婦	明哲な女。
+j	哲子	哲子	a female given name
+j	哲学	哲学	philosophy
+j	哲寛	哲寛	a male given name
+j	哲平	哲平	a male given name
+j	哲幸	哲幸	a male given name
+j	哲志	哲志	a male given name
+j	哲明	哲明	a male given name
+j	哲朗	哲朗	a male given name
+j	哲治	哲治	a male given name
+j	哲理	哲理	philosophical principles
+j	哲生	哲生	a male given name
+j	哲男	哲男	a male given name
+j	哲緒	哲緒	a male given name
+j	哲美	哲美	a male given name
+j	哲裕	哲裕	a male given name
+j	哲郎	哲郎	a male given name
+j	哲雄	哲雄	a male given name
+j	嘲う	嘲う	
+j	嘲す	嘲す	to insult, ridicule, scorn
+j	嘲り	嘲り	
+j	嘲る	嘲る	deride, ridicule, scorn, …
+j	嘲弄	嘲弄	scorn, mockery, ridicule
+j	嘲笑	嘲笑	a sneer
+j	嘲罵	嘲罵	嘲り、罵ること。
+j	嘲調	嘲調	嘲笑。
+j	囲い	囲い	fence; wall (especially e…
+j	囲う	囲う	to enclose or surround as…
+j	囲み	囲み	enclosure
+j	囲む	囲む	to encircle; to surround;…
+j	囲局	囲局	碁盤。
+j	囲環	囲環	周りを取り囲むこと。また、その囲むもの。
+j	囲碁	囲碁	Go (board game)
+j	囲繞	囲繞	回りを囲い廻らすこと。とりまくこと。
+j	囲障	囲障	隣接した建物の所有者が敷地の境界上に設置した塀や柵…
+j	売り	売り	selling
+j	売る	売る	to sell (something) (to a…
+j	売人	売人	peddler
+j	売価	売価	selling price, sale price
+j	売僧	売僧	corrupt (Buddhist) priest…
+j	売却	売却	selling off
+j	売名	売名	advertising oneself, self…
+j	売国	売国	selling out one's nation,…
+j	売場	売場	
+j	売女	売女	prostitute
+j	売官	売官	官位や官職を、金品を納付した者に授けること。
+j	売店	売店	stand or small shop (esta…
+j	売得	売得	物を売って代金を得ること。
+j	売手	売手	
+j	売文	売文	文章を作って売ったり、ほかの文章を添削して報酬を得…
+j	売春	売春	prostitution
+j	売淫	売淫	prostitution
+j	売笑	売笑	売春をすること。
+j	売約	売約	売り渡す約束をすること。また、その約束。
+j	売色	売色	売春をすること。
+j	売薬	売薬	薬を売ること。
+j	売血	売血	自己の血液を有償で提供すること。
+j	売買	売買	trade - selling and buying
+j	売電	売電	selling electricity to el…
+j	嬲る	嬲る	tease
+j	已上	已上	「以上」の別表記。
+j	已午	已午	a surname
+j	已往	已往	ある時点より前。
+j	已波	已波	a surname
+j	已然	已然	already being so (see 已然形)
+j	干す	干す	to dry, to desiccate
+j	干る	干る	to dry
+j	干与	干与	関係をもつこと。特に、自発的・積極的に参加すること。
+j	干名	干名	名誉を求めること。
+j	干城	干城	国を守る武士や軍人。
+j	干場	干場	a surname
+j	干天	干天	days without rain, dry we…
+j	干害	干害	drought damages
+j	干戈	干戈	literally “shields and sp…
+j	干拓	干拓	land reclamation
+j	干支	干支	the sexagenary cycle (esp…
+j	干櫓	干櫓	大小の盾。
+j	干渉	干渉	interference
+j	干満	干満	ebb and flow (flowing out…
+j	干潮	干潮	low tide
+j	干物	干物	乾燥させた食物の総称。
+j	干犯	干犯	infringement, violation
+j	干瓢	干瓢	ユウガオの生の果肉を細く、薄く、長く削り、乾燥させ…
+j	干突	干突	唐突なこと。
+j	干繭	干繭	繭を乾燥させて、中の蛹を殺すこと。また、その繭。
+j	干草	干草	
+j	干部	干部	部首「⼲」で分類した漢字の一群。
+j	干魃	干魃	drought
+j	干魚	干魚	
+j	干鯛	干鯛	dried and salted seabream
+j	干鹵	干鹵	大小の盾。
+j	悲傷	悲傷	grief
+j	悲切	悲切	哀切。
+j	悲劇	悲劇	tragedy (type of theatric…
+j	悲史	悲史	悲しい史実。痛ましい史実。
+j	悲号	悲号	悲しみ、泣き叫ぶこと。
+j	悲吟	悲吟	悲しい声や悲しみを込めて詩歌を吟ずること。
+j	悲咽	悲咽	sobbing
+j	悲哀	悲哀	sorrow, sadness
+j	悲喜	悲喜	joys and sorrows
+j	悲嘆	悲嘆	grief
+j	悲報	悲報	news that brings sorrow
+j	悲壮	悲壮	solemn and stirring; trag…
+j	悲恋	悲恋	悲しい恋。悲しい結末を迎える恋愛。
+j	悲悼	悲悼	mourning
+j	悲惨	悲惨	miserable, tragic, woeful…
+j	悲愧	悲愧	悲しみ、慚ること。
+j	悲愴	悲愴	pathetic, sad, sorrowful
+j	悲慙	悲慙	悲愧。
+j	悲慟	悲慟	悲しんで泣き叫ぶこと。
+j	悲憤	悲憤	resentment, grief, indign…
+j	悲懐	悲懐	悲しい思い。
+j	悲歌	悲歌	sad melody; stirring stra…
+j	悲歎	悲歎	悲しみ、嘆くこと。
+j	悲母	悲母	慈悲、情け深い母。
+j	悲泣	悲泣	悲しみ泣くこと。
+j	悲涙	悲涙	悲しみで流す涙。
+j	悲涼	悲涼	sadness and loneliness, a…
+j	悲田	悲田	病人や困窮者などあわれみを受ける者。
+j	悲痛	悲痛	heartbreaking; heartwrenc…
+j	悲観	悲観	a compassionate world vie…
+j	悲話	悲話	悲しい話し。
+j	悲運	悲運	sad fate
+j	悲酸	悲酸	悲惨と同義。
+j	悲願	悲願	earnest wish
+j	悲鳴	悲鳴	scream, shriek
+j	憲一	憲一	a male given name
+j	憲三	憲三	a male given name
+j	憲之	憲之	a male given name
+j	憲人	憲人	a male given name
+j	憲令	憲令	国の法令。
+j	憲伸	憲伸	a male given name
+j	憲作	憲作	a male given name
+j	憲兵	憲兵	military police
+j	憲典	憲典	憲法。
+j	憲史	憲史	a male given name
+j	憲司	憲司	a male given name
+j	憲告	憲告	法令を告示すること。
+j	憲天	憲天	最上官。
+j	憲威	憲威	法の権威。
+j	憲子	憲子	a female given name
+j	憲幸	憲幸	a male given name
+j	憲広	憲広	a male given name
+j	憲政	憲政	constitutional government
+j	憲檄	憲檄	令書。
+j	憲治	憲治	a male given name
+j	憲法	憲法	fair
+j	憲章	憲章	charter
+j	懲創	懲創	懲りること。
+j	懲役	懲役	time in prison, prison se…
+j	懲戒	懲戒	discipline, disciplinary …
+j	懲治	懲治	懲らしめて改心させたり悪癖を直すこと。
+j	懲罰	懲罰	punishment
+j	捲る	捲る	to roll up (one's sleeves…
+j	捲土	捲土	砂塵を巻き起こすこと。
+j	捲地	捲地	捲土。
+j	捲席	捲席	筵を捲くこと。
+j	捲烟	捲烟	巻煙草。
+j	捲簾	捲簾	巻簾の異表記。
+j	捲素	捲素	漆器の胎骨。
+j	捲線	捲線	「コイル」のこと。
+j	捲舌	捲舌	唖然。
+j	捲舒	捲舒	巻舒の異表記。
+j	捲裳	捲裳	裳を掲げること。
+j	捲道	捲道	全堂。
+j	捲雲	捲雲	
+j	掲出	掲出	人目に付くよう掲示すること。
+j	掲厲	掲厲	川を歩いて渡ること。また、歩いて渡れる場所。
+j	掲揚	掲揚	旗などを高い場所へ掲げること。
+j	掲焉	掲焉	目立つさま。著しいさま。
+j	掲示	掲示	post, bulletin
+j	掲記	掲記	recording in official rec…
+j	掲載	掲載	publication in a magazine…
+j	撲殺	撲殺	beating to death
+j	撲滅	撲滅	the beating out of a flam…
+j	擲倒	擲倒	蜻蛉返り。
+j	擲弾	擲弾	grenade
+j	擲殺	擲殺	物を投げて殺すこと。
+j	敲推	敲推	推敲すること。
+j	曲る	曲る	to tease, to make fun of,…
+j	曲几	曲几	脇息。ひじかけ。
+j	曲名	曲名	song title; name of a song
+j	曲宴	曲宴	宮廷における非公式な内輪の宴。
+j	曲射	曲射	水平または物陰の目標めがけて放物線を描いた状態で砲…
+j	曲尺	曲尺	square (tool), carpenter'…
+j	曲巷	曲巷	通りから横に入った小さい道。
+j	曲師	曲師	浪曲の伴奏で三味線を弾く人。
+j	曲彔	曲彔	a type of wooden chair us…
+j	曲律	曲律	旋律。メロディー。
+j	曲想	曲想	曲の構想やテーマ。
+j	曲折	曲折	a thing which twists and …
+j	曲水	曲水	曲水の宴。
+j	曲泉	曲泉	足の膝付近の内側にある経穴。
+j	曲流	曲流	河川が蛇行しながら流れること。
+j	曲率	曲率	曲線や曲面の曲がり具合を表す量。曲線C上の任意の点…
+j	曲用	曲用	declension
+j	曲目	曲目	program of music
+j	曲直	曲直	線や形が曲ることと真っ直ぐなこと。
+j	曲礼	曲礼	立ち居振舞いなどの細かい礼儀作法。
+j	曲私	曲私	自分の利益だけをはかり、よこしまなこと。
+j	曲筆	曲筆	事実を曲げて書くこと。
+j	曲節	曲節	音楽の節。メロディー。
+j	曲線	曲線	curve
+j	曲者	曲者	芸能に巧みなもの。
+j	曲肱	曲肱	肘を曲げること。
+j	曲芸	曲芸	acrobatics
+j	曲行	曲行	まがりくねりながら行くこと。
+j	曲解	曲解	deliberate misinterpretat…
+j	曲言	曲言	はっきりとは言わず遠回しに言うこと。
+j	曲説	曲説	a bent or biased explanat…
+j	曲調	曲調	atmosphere of a song
+j	曲論	曲論	道理を曲げて議論すること。また、そのような論。
+j	曲辞	曲辞	よこしまな言葉。
+j	曲面	曲面	平面ではなく曲がっている面。
+j	曲馬	曲馬	馬に乗って曲芸しながら走らせたり、馬に曲芸をさせる…
+j	棲む	棲む	
+j	棲住	棲住	居住すること。住むこと。
+j	棲居	棲居	residence
+j	棲息	棲息	生物が生きてそこに住んでいること。
+j	棲禽	棲禽	巣にいる鳥。
+j	棲遅	棲遅	心静かにゆったりと住むこと。
+j	棲集	棲集	泊まること。
+j	棲魂	棲魂	心を休めること。
+j	棲鳳	棲鳳	鳳が棲むこと。
+j	槲樕	槲樕	柏の木。
+j	欲す	欲す	
+j	欲る	欲る	to want, desire
+j	欲動	欲動	drive
+j	欲心	欲心	greed
+j	欲念	欲念	欲しいと思う気持ち。
+j	欲情	欲情	物を欲しがる心。
+j	欲望	欲望	desire, lust, greed
+j	欲求	欲求	desire, want, craving
+j	欲深	欲深	欲が深いさま。また、そのような人。
+j	歲暮	歲暮	
+j	殲傷	殲傷	死傷すること。
+j	殲敵	殲敵	敵を滅ぼすこと。
+j	殲滅	殲滅	annihilation, eradication…
+j	氲熇	氲熇	温暖。
+j	汲々	汲々	intent
+j	汲む	汲む	to scoop, ladle, draw wat…
+j	汲水	汲水	水を汲み上げること。
+j	汲汲	汲汲	一つのことを一心に行い、他のことを顧みないさま。
+j	洲嶼	洲嶼	洲と島。
+j	洲渚	洲渚	洲の水際。洲の渚。
+j	洲男	洲男	a male given name
+j	液チ	液チ	
+j	液位	液位	容器に入っている液体で、液面の位置。
+j	液体	液体	a liquid
+j	液冷	液冷	機械などの熱を液体で冷却すること。
+j	液化	液化	liquefaction
+j	液卵	液卵	liquid egg
+j	液態	液態	液体の状態。液状。
+j	液晶	液晶	liquid crystal
+j	液果	液果	果皮が多肉で水分が多い果実の総称。湿果。
+j	液汁	液汁	juice
+j	液滴	液滴	drop (of liquid); droplet
+j	液状	液状	液体の状態にあること。また、そのようなさま。
+j	液相	液相	liquid phase
+j	液糖	液糖	liquid sugar
+j	液肥	液肥	液状の肥料。水肥。
+j	液胞	液胞	vacuole
+j	液量	液量	器具に入っている液体の体積。
+j	液面	液面	liquid surface
+j	溲瓶	溲瓶	夜間や病気やけがなどで寝たきりの人が寝床で小便をす…
+j	滲む	滲む	to blur, to run, to spread
+j	滲入	滲入	水などが染み込むこと。
+j	滲出	滲出	液体などが外に滲み出ること。
+j	滲坑	滲坑	吸い込み。
+j	滲水	滲水	水が滲み込むこと。また、滲み込んだ水。
+j	滲溝	滲溝	暗溝。
+j	滲炭	滲炭	鋼に炭素をしみこませて表面を硬化させること。
+j	滲透	滲透	液体が染み透ること。
+j	漲る	漲る	swell up, overflow, perva…
+j	漲潮	漲潮	満潮。
+j	瀲灧	瀲灧	「瀲灩」に同じ。
+j	瀲灩	瀲灩	波の光の動き煌めくさま。また、満々と水を湛えるさま。
+j	炲烟	炲烟	煤と煙。煤煙。
+j	爲手	爲手	
+j	牲幣	牲幣	生贄と供物。
+j	牲盟	牲盟	血盟すること。
+j	獲乂	獲乂	治定すること。
+j	獲取	獲取	摑み取ること。
+j	獲得	獲得	acquisition
+j	獲物	獲物	
+j	獲麟	獲麟	麒麟を捕獲すること。
+j	玲央	玲央	a male given name
+j	玲奈	玲奈	a female given name
+j	玲子	玲子	a female given name
+j	玲次	玲次	a male given name
+j	玲瓏	玲瓏	clear; translucent (as ja…
+j	玲花	玲花	a female given name
+j	玲菜	玲菜	a female given name
+j	甲乙	甲乙	the first and second; gra…
+j	甲仗	甲仗	甲冑と兵器。
+j	甲信	甲信	甲斐国と信濃国。
+j	甲冑	甲冑	helmet and armor
+j	甲勝	甲勝	最も優れていること。
+j	甲匠	甲匠	甲冑などの具足類をつくる職人。具足師。
+j	甲午	甲午	Wood Horse, the thirty-fi…
+j	甲夜	甲夜	first watch of the five n…
+j	甲子	甲子	Wood Rat, the first term …
+j	甲寅	甲寅	Wood Tiger, the fifty-fir…
+j	甲州	甲州	Kōshū (a city in Yamanash…
+j	甲府	甲府	Kōfu (the capital city of…
+j	甲戌	甲戌	Wood Dog, the eleventh te…
+j	甲斐	甲斐	value, reward, avail, bei…
+j	甲板	甲板	deck (of a ship)
+j	甲殻	甲殻	甲殻類の体表を覆う外皮。
+j	甲状	甲状	thyroidness
+j	甲申	甲申	Wood Monkey, the twenty-f…
+j	甲皮	甲皮	甲殻類にみられるような体表を覆うかたい皮。甲殻。
+j	甲科	甲科	中国科挙で最も難しい試験の科。
+j	甲種	甲種	ものの品位を階層化して評価した場合の第一位目の品位。
+j	甲第	甲第	立派な屋敷。
+j	甲羅	甲羅	shell, carapace (hard pro…
+j	甲虫	甲虫	beetle
+j	甲蠃	甲蠃	sea urchin
+j	甲裳	甲裳	鎧の草摺。
+j	甲輝	甲輝	a male given name
+j	甲辰	甲辰	Wood Dragon, the forty-fi…
+j	甲革	甲革	靴の甲の部分の表面に用いる革。足の甲を覆う部分にあ…
+j	甲類	甲類	shochu produced by fracti…
+j	甲香	甲香	a fragrance made up of th…
+j	甲骨	甲骨	oracle bone
+j	疲れ	疲れ	tiredness; fatigue
+j	疲倦	疲倦	疲れて飽きること。
+j	疲労	疲労	fatigue
+j	疲弊	疲弊	exhaustion; fatigue
+j	疲役	疲役	役務に疲れること。
+j	疲憊	疲憊	疲れて弱ること。
+j	疲民	疲民	疲困の民。
+j	疲馬	疲馬	疲れた馬。疲弊した馬。
+j	疲黎	疲黎	疲民。
+j	痲疹	痲疹	はしか。
+j	痲酔	痲酔	麻酔の別表記。
+j	癲狂	癲狂	insanity
+j	癲癇	癲癇	epilepsy
+j	盲人	盲人	blind person
+j	盲信	盲信	credulity, blind faith
+j	盲僧	盲僧	盲目で僧侶のすがたをした者。
+j	盲児	盲児	視力に障害があるこども。
+j	盲動	盲動	理非もわきまえずにむやみに行動すること。
+j	盲啞	盲啞	目と口が不自由なこと。
+j	盲地	盲地	（不動産） 道路に接していない宅地のこと。特に、法…
+j	盲官	盲官	江戸時代末期まで盲人にあたえられた官位。
+j	盲射	盲射	むやみやたらに射撃すること。
+j	盲従	盲従	blind obedience
+j	盲想	盲想	a delusion
+j	盲愛	盲愛	理性のないほどに可愛がること。溺愛すること。
+j	盲点	盲点	blind spot (place where t…
+j	盲牌	盲牌	the ability to sense a ma…
+j	盲目	盲目	blind
+j	盲管	盲管	cul-de-sac; caecum (cavit…
+j	盲者	盲者	blind person
+j	盲腸	盲腸	caecum
+j	盲虎	盲虎	blind tiger (shogi piece)
+j	盲視	盲視	
+j	盲進	盲進	advance recklessly, rush …
+j	盲鰻	盲鰻	hagfish (especially the s…
+j	砲丸	砲丸	cannonball
+j	砲兵	砲兵	artilleryman
+j	砲創	砲創	大砲の攻撃によるきず。
+j	砲口	砲口	muzzle of a gun
+j	砲台	砲台	battery, fort
+j	砲塁	砲塁	大砲を備えた砦。
+j	砲塔	砲塔	turret of a gun
+j	砲声	砲声	大砲を発射する際に出る音。
+j	砲座	砲座	大砲を固定する台座。
+j	砲弾	砲弾	a cannonball, a round shot
+j	砲彈	砲彈	cannonball, cannon shell
+j	砲戦	砲戦	火砲で撃ち合う戦闘。砲撃戦。
+j	砲手	砲手	砲を操縦する人。発砲する人。
+j	砲撃	砲撃	cannonade, bombardment
+j	砲架	砲架	a gun mount, a gun carria…
+j	砲火	砲火	gunfire, artillery fire
+j	砲烟	砲烟	大砲を発射した際に出る煙。
+j	砲煙	砲煙	大砲を発射した時の煙。
+j	砲熕	砲熕	火砲。大砲。
+j	砲瘡	砲瘡	大砲の攻撃によるきず。
+j	砲発	砲発	砲を発射すること。発砲すること。
+j	砲眼	砲眼	城壁や艦艇などに設置された砲丸を発射するための穴。
+j	砲腔	砲腔	砲身内部の空洞の部分。砲膅。
+j	砲膅	砲膅	砲腔。
+j	砲艇	砲艇	沿岸、河川、内水で使用する主に30トンから50トン…
+j	砲艦	砲艦	gunboat
+j	砲術	砲術	火薬を調合したり火砲の操作や射撃によって相手を倒す…
+j	砲身	砲身	barrel of a gun
+j	砲車	砲車	移動、運搬のため砲架に車輪をつけたもの。
+j	砲金	砲金	すずをおよそ10%含む銅合金。鋳造しやすく、昔は大…
+j	砲銅	砲銅	銅と錫の合金で青銅の一つ。砲金。
+j	砲陣	砲陣	主に大砲を配置した陣。
+j	砲隊	砲隊	水兵を陸上戦のために編制する砲術を行う隊。
+j	砲雷	砲雷	砲撃の音が雷のように轟くさま。その音。
+j	稲作	稲作	稲を栽培すること。
+j	稲光	稲光	lightning
+j	稲垣	稲垣	a surname
+j	稲妻	稲妻	lightning, a lightning bo…
+j	稲子	稲子	a locust, a grasshopper i…
+j	稲幹	稲幹	a rice plant
+j	稲本	稲本	a surname
+j	稲森	稲森	a surname
+j	稲田	稲田	a rice paddy
+j	稲穀	稲穀	稲。
+j	稲穂	稲穂	ears (head) of rice
+j	稲荷	稲荷	Inari, god of harvests, f…
+j	稲葉	稲葉	leaf of the rice plant
+j	稲魂	稲魂	synonym of 稲妻 (inazuma, “…
+j	篲星	篲星	彗星。
+j	粲然	粲然	「燦然」の別表記。
+j	粲粲	粲粲	輝いて美しいさま。美しく艶やかなさま。
+j	糲糠	糲糠	玄米。
+j	紲覊	紲覊	縛ること。
+j	絲繩	絲繩	糸縄の旧字体表記。
+j	網戸	網戸	
+j	網棚	網棚	shelf found in trains and…
+j	網点	網点	a halftone dot
+j	網版	網版	印刷で、濃淡を網目状の点の大小で表す方法。網目版。…
+j	網状	網状	網の目のような形状。
+j	網紅	網紅	Chinese influencer
+j	網羅	網羅	comprising
+j	網膜	網膜	a retina
+j	網袋	網袋	net bag; string bag
+j	網走	網走	a city in Hokkaido Prefec…
+j	網野	網野	Amino, Kyoto
+j	縲囚	縲囚	捕らえられ繋がれること。
+j	縲紲	縲紲	「縲絏」と同じ。
+j	縲絏	縲絏	罪人として捕えられること。
+j	署内	署内	「署」がつく建物や組織の中。
+j	署名	署名	signature
+j	署員	署員	警察署、消防署、税務署などに勤務する役人。
+j	署外	署外	「署」がつく建物や組織の外。
+j	署府	署府	役所。
+j	署押	署押	花押。
+j	署榜	署榜	列名。
+j	署記	署記	氏名を書き記すこと。署名すること。
+j	署長	署長	the head of a government …
+j	羲和	羲和	太陽（や月）。
+j	羲輪	羲輪	太陽。曦輪。
+j	聲區	聲區	
+j	聲域	聲域	
+j	聲帶	聲帶	
+j	聲望	聲望	
+j	聲門	聲門	
+j	育ち	育ち	growth, breeding, rearing…
+j	育つ	育つ	to be raised, to grow up
+j	育む	育む	raise, bring up, rear
+j	育之	育之	a male given name
+j	育乳	育乳	fostering growth and heal…
+j	育休	育休	育児休業（育児休暇）。
+j	育児	育児	bringing up children, chi…
+j	育夫	育夫	a male given name
+j	育子	育子	a female given name
+j	育宏	育宏	a male given name
+j	育成	育成	raising of animals
+j	育毛	育毛	promoting hair growth
+j	育種	育種	selective breeding (crop …
+j	育苗	育苗	the tending of crop seedl…
+j	育英	育英	才能のある者を教育すること。
+j	育薬	育薬	gathering data on a drug …
+j	育郎	育郎	a male given name
+j	育雛	育雛	brooding
+j	臲卼	臲卼	不安でおびえているさま。
+j	舲船	舲船	窓のある小ぶね。
+j	色々	色々	various
+j	色丹	色丹	Shikotan (an island and d…
+j	色事	色事	love affair
+j	色処	色処	視覚の対象。眼根によって見られる色彩と形象。十二処…
+j	色名	色名	それぞれの色に付けられた名前。
+j	色域	色域	ディスプレーやプリンターなどで表現できる色の範囲。…
+j	色境	色境	視覚の対象。眼根によって見られる色彩と形象。六境の…
+j	色天	色天	仏教の色界と同じ。
+j	色容	色容	色合い。
+j	色弱	色弱	mild color blindness
+j	色彩	色彩	colour, hue
+j	色恋	色恋	
+j	色情	色情	lust, sexual passion
+j	色感	色感	色彩から受ける感覚。
+j	色数	色数	色の数。
+j	色材	色材	色を着けるための材料。絵具、インク、ペンキなど。
+j	色柄	色柄	color and design, colored…
+j	色欲	色欲	lust
+j	色気	色気	coloring, shade of color
+j	色水	色水	赤や青の色が付いた水。
+j	色沢	色沢	いろつや。色や光沢。
+j	色法	色法	物質的なもの（法：法則）。あらゆる事柄を色法（物質…
+j	色物	色物	colored clothes
+j	色環	色環	「色相環」を参照。
+j	色男	色男	lady's man, lady-killer, …
+j	色界	色界	視覚の対象。眼根によって見られる色彩と形象。六境の…
+j	色目	色目	種目。
+j	色盲	色盲	color blindness
+j	色相	色相	hue
+j	色票	色票	color chip
+j	色紙	色紙	a special type of square …
+j	色素	色素	pigment, colouring matter
+j	色絵	色絵	colored drawing on porcel…
+j	色覚	色覚	色を判別する能力。
+j	色調	色調	tone; hue
+j	色部	色部	部首「⾊」で分類した漢字の一群。
+j	色釉	色釉	陶磁器の絵や図柄を描くためのさまざまな色の釉薬。
+j	色里	色里	red-light district
+j	色養	色養	親の顔色を見て思っていること察して孝養を尽くすこと。
+j	色鬼	色鬼	色魔。色情狂。女たらし。
+j	色魔	色魔	sex fiend, sex pest
+j	色黒	色黒	dark-skinned, swarthy
+j	蒲団	蒲団	round cushion used for Ze…
+j	蒲席	蒲席	蒲の葉を編んでつくった蓆。蒲薦。
+j	蒲戯	蒲戯	樗蒲。ばくち。
+j	蒲月	蒲月	陰暦五月の異称。
+j	蒲柳	蒲柳	かわやなぎ（川柳）の異称。
+j	蒲桃	蒲桃	rose apple, Syzygium jamb…
+j	蒲楊	蒲楊	蒲柳。
+j	蒲焼	蒲焼	broiled eel, a dish of fr…
+j	蒲葵	蒲葵	fountain palm or Chinese …
+j	蒲薦	蒲薦	蒲の葉を編んでつくった蓆。蒲席。
+j	蒲鉾	蒲鉾	the seed spike or raceme …
+j	蒲鞭	蒲鞭	ガマの穂で作った「むち」。
+j	蒲黄	蒲黄	dried pollen of cattails …
+j	蝲蛄	蝲蛄	crayfish (freshwater crus…
+j	蠲徭	蠲徭	賦役を免除すること。
+j	蠲息	蠲息	止めること。
+j	蠲棄	蠲棄	遺棄すること。
+j	蠲租	蠲租	蠲税。免税。
+j	蠲豁	蠲豁	免除。
+j	蠲賑	蠲賑	免税すること。
+j	蠲賦	蠲賦	賦役を免除すること。
+j	蠲除	蠲除	取り除くこと。
+j	衲僧	衲僧	衲子。
+j	衲子	衲子	衲衣を着た人。特に禅宗の僧侶。
+j	襲う	襲う	to attack, to assault
+j	襲ぐ	襲ぐ	
+j	襲受	襲受	受け継ぐこと。継承すること。
+j	襲名	襲名	succession to another's p…
+j	襲封	襲封	領主が領地を受け継ぐこと。
+j	襲弊	襲弊	古くからの悪い習慣。
+j	襲撃	襲撃	raid
+j	襲来	襲来	invasion; raid; attack; v…
+j	襲業	襲業	家業などを受け継ぐこと。
+j	襲歩	襲歩	馬術や競馬で乗っている馬を最大の速度で走らせること…
+j	襲用	襲用	the continued use of esta…
+j	覲礼	覲礼	諸侯などが参内して天子に謁する礼。
+j	覲見	覲見	目上の人に会うこと。
+j	該博	該博	広く学問や物事に精通していること。また、そのような…
+j	該富	該富	内容が豊富であること。また、そのようなさま
+j	該差	該差	使者。
+j	該当	該当	corresponding, applying t…
+j	該暁	該暁	明らかにし、悟ること。
+j	該書	該書	担当する書記。
+j	該胥	該胥	下役人。
+j	該覈	該覈	広く調べ、考えること。
+j	課す	課す	課題として与える。制約をかける。
+j	課丁	課丁	律令制のもとで、調、庸、雑徭を負担する人民。
+j	課内	課内	組織で課が設置されている場合、その組織内。
+j	課務	課務	課が行う事務。
+j	課口	課口	律令制で調、傭、雑徭を負担する民。
+j	課員	課員	課を設置する組織で、その課の構成員。
+j	課外	課外	extracurricular
+j	課役	課役	仕事を割り当てること。また、そのような仕事。
+j	課徴	課徴	割り当てて取り立てること。
+j	課戸	課戸	律令制で課口が複数人いる戸。
+j	課業	課業	労働や学業において遂行すべきとして課される業務や科…
+j	課目	課目	学校などで課せられる科目。学課。
+j	課租	課租	租税を割り当てること。
+j	課程	課程	course
+j	課税	課税	taxation
+j	課試	課試	課題を出して試験をすること。
+j	課金	課金	charges; billing
+j	課長	課長	section manager; section …
+j	課題	課題	subject
+j	譲る	譲る	to yield up, to cede, to …
+j	譲与	譲与	譲り与えること。
+j	譲二	譲二	a male given name
+j	譲位	譲位	君主、天皇がその位を次の者に譲ること。
+j	譲司	譲司	a male given name
+j	譲国	譲国	天皇や国王などが譲位して国を譲ること。
+j	譲歩	譲歩	concession; compromise
+j	譲治	譲治	a male given name
+j	譲渡	譲渡	surrender
+j	譲譴	譲譴	咎めること。
+j	蹲う	蹲う	to be on all fours, prost…
+j	蹲る	蹲る	to crouch; to squat
+j	蹲居	蹲居	蹲踞の別表記。
+j	蹲踞	蹲踞	crouch; squat
+j	農事	農事	farming; agriculture
+j	農作	農作	agriculture
+j	農具	農具	farming tool
+j	農功	農功	agricultural work
+j	農務	農務	農耕の業務。農作業。
+j	農協	農協	農業協同組合の略。JA(Japan Agricul…
+j	農商	農商	agriculture and commerce
+j	農圃	農圃	作物を栽培するための田んぼや畑。
+j	農園	農園	plantation
+j	農地	農地	agricultural land
+j	農場	農場	farm
+j	農大	農大	農業大学、または農科大学の略。
+j	農夫	農夫	peasant, plowman
+j	農奴	農奴	serf
+j	農婦	農婦	農業に従事する女性。
+j	農学	農学	agronomy
+j	農家	農家	a farming family
+j	農工	農工	agriculture and industry
+j	農振	農振	（農業）農業振興地域の整備に関する法律に基づく農業…
+j	農政	農政	農業にかかわる行政や政策。
+j	農料	農料	農業に必要な材料。
+j	農暦	農暦	中国において、グレゴリオ暦採用以前に用いていた暦法…
+j	農書	農書	農業に関する内容の書物。
+j	農期	農期	農作業で多忙な時期。農繁期。
+j	農村	農村	farm village, rural villa…
+j	農林	農林	agriculture and forestry
+j	農桑	農桑	農業と養蚕。
+j	農業	農業	agriculture
+j	農楽	農楽	nong-ak
+j	農機	農機	農業機械または農業機具の略。トラクター・コンバイン…
+j	農民	農民	farmer
+j	農水	農水	agriculture and fisheries
+j	農法	農法	農作業における方法、やり方。
+j	農牧	農牧	農業と牧畜。
+j	農産	農産	農業による生産。
+j	農相	農相	農林水産大臣、農林大臣の略。
+j	農神	農神	農作を守護する神。作神。田の神。
+j	農科	農科	農業に関する学科。
+j	農繁	農繁	農作業で忙しいこと。また、その時期。繁農。
+j	農耕	農耕	agriculture
+j	農芸	農芸	農業についての技芸。
+j	農薬	農薬	pesticide
+j	農転	農転	Conversion of agricultura…
+j	農道	農道	農地に設置され、農作業に利用される道路。
+j	農閑	農閑	農作業の手があき、ひまになること。
+j	農高	農高	農業高等学校の略。
+j	進む	進む	to go forward, to advance…
+j	進め	進め	
+j	進一	進一	a male given name
+j	進上	進上	人に物品を差し上げること。進呈。
+j	進仕	進仕	自分から官人に仕官し、官吏となること。
+j	進入	進入	penetration
+j	進出	進出	a step forward
+j	進化	進化	evolution
+j	進取	進取	進んで前例の無い物事等をすること。
+j	進号	進号	尊号。
+j	進呈	進呈	presentation
+j	進塁	進塁	advancement to the next b…
+j	進境	進境	進歩、上達して到達した境地。
+j	進士	進士	かつての中国で行われた科挙の科目の一つ。
+j	進学	進学	entering the next level o…
+j	進導	進導	a surname
+j	進展	進展	advance, progress
+j	進度	進度	degree of progress
+j	進捗	進捗	progress
+j	進撃	進撃	an advance, charge on an …
+j	進攻	進攻	attack, invasion
+j	進止	進止	進むことと止まること。進退。
+j	進歩	進歩	progress; improvements in…
+j	進水	進水	the launching of a newly …
+j	進法	進法	（自然数の後に付けて）その自然数を底とする位取り記…
+j	進物	進物	gift, present
+j	進献	進献	the act of presenting or …
+j	進着	進着	進んで着座すること。
+j	進納	進納	奉ること。献納。
+j	進級	進級	promotion
+j	進航	進航	sailing on
+j	進藤	進藤	a surname
+j	進行	進行	an advance; progress
+j	進覧	進覧	進上し、御覧に供すること。
+j	進言	進言	proposal to a superior, c…
+j	進諫	進諫	諫めること。
+j	進講	進講	a lecture in the presence…
+j	進貢	進貢	paying tribute
+j	進路	進路	route, course
+j	進軍	進軍	a march (by an army)
+j	進転	進転	進め移すこと。進み移ること。
+j	進退	進退	moving forwards or backwa…
+j	進達	進達	推薦して出世させること。
+j	進陟	進陟	物事が捗り、進行すること。
+j	進駐	進駐	occupation, stationing
+j	鋲螺	鋲螺	釘やねじ類の総称。
+j	録る	録る	
+j	録取	録取	記録をとること。
+j	録画	録画	recording of video
+j	録載	録載	書物に文章の全部または一部を引き写して載せること。
+j	録音	録音	audio recording
+j	鑲牙	鑲牙	義歯。
+j	閲兵	閲兵	整列させた軍の部隊を元首、司令官などが巡視、検閲す…
+j	閲覧	閲覧	reading newspaper or othe…
+j	防ぐ	防ぐ	to defend against
+j	防人	防人	under the 律令 (Ritsuryō) s…
+j	防備	防備	defensive preparations ag…
+j	防共	防共	共産主義の浸透を防止すること。
+j	防具	防具	衝撃から人体を保護するために着用する道具。
+j	防刃	防刃	刃物からの損壊や負傷を防止すること。
+j	防圧	防圧	防止すること。
+j	防塁	防塁	bulwark
+j	防塞	防塞	fort
+j	防塵	防塵	protection from dust
+j	防壁	防壁	外敵の侵入や火災、風水害などから守るための壁。
+j	防守	防守	防ぎ守ること。
+j	防寒	防寒	protection against the co…
+j	防寨	防寨	敵からの侵入や攻撃を防ぐための要塞。
+j	防州	防州	周防国^(（すおうのくに）)の別称。
+j	防己	防己	dried rhizome and stem of…
+j	防弾	防弾	being bulletproof (capabl…
+j	防彈	防彈	
+j	防御	防御	defence (UK), defense (US)
+j	防戦	防戦	相手からの攻撃を防ぎ戦うこと。
+j	防振	防振	建物や機器に振動が伝わるのを防ぐこと。
+j	防救	防救	防ぎ、救うこと。
+j	防暑	防暑	protection against the he…
+j	防止	防止	prevention
+j	防毒	防毒	defence against poison gas
+j	防水	防水	waterproofing
+j	防沫	防沫	機器に水の飛沫が入らないような構造。
+j	防浸	防浸	水中に浸しても機器に水が入らないような構造。
+j	防湿	防湿	prevention of dampness
+j	防滴	防滴	機器に水滴が入らないような構造。
+j	防潮	防潮	高潮や津波の被害を防ぐこと。
+j	防火	防火	fire prevention, fireproo…
+j	防災	防災	disaster prevention, maki…
+j	防炎	防炎	being fire retardant
+j	防煙	防煙	火事などにおいて、煙が広がるのを防ぐこと。
+j	防燃	防燃	燃え上がるのを防止すること。
+j	防爆	防爆	explosion prevention
+j	防犯	防犯	prevention of crime
+j	防疫	防疫	epidemic prevention
+j	防石	防石	落石などの石の被害を防ぐこと。
+j	防砂	防砂	土砂崩れなど、土砂による災害を防止すること。
+j	防磁	防磁	磁性体の部品がこれ以上磁化されるのを防止すること。
+j	防禦	防禦	敵の攻撃を防ぎ守ること。
+j	防空	防空	air defense, protection f…
+j	防縮	防縮	衣服などが縮むのを防ぐこと。
+j	防腐	防腐	腐敗を防止すること。
+j	防臭	防臭	嫌な臭いを防ぐこと。
+j	防虫	防虫	repelling of insects
+j	防蝕	防蝕	金属などの腐蝕を防止すること。
+j	防蟻	防蟻	蟻（とくに白蟻）の被害を防ぐこと。
+j	防衛	防衛	defense, self-defense
+j	防諜	防諜	counterintelligence, coun…
+j	防護	防護	protection
+j	防遏	防遏	防止すること。
+j	防銹	防銹	銹を防ぐこと。銹止め。
+j	防錆	防錆	金属が錆びるのを防止すること。防銹。
+j	防長	防長	Suō (周防) and Nagato (長門),…
+j	防除	防除	災害などを防止し除去すること。
+j	防隄	防隄	堤防。
+j	防雨	防雨	機器に雨水が入らないような構造。
+j	防雪	防雪	雪による被害を防ぐこと。
+j	防霜	防霜	作物などに霜が積もるのを予防すること。
+j	防露	防露	露の発生を防止すること。
+j	防音	防音	being soundproof
+j	防風	防風	protection against the wi…
+j	防食	防食	金属などの腐食を防止すること。
+j	雲上	雲上	雲の上。
+j	雲中	雲中	雲の中。
+j	雲丹	雲丹	the food made from the ro…
+j	雲南	雲南	Yunnan (a province in sou…
+j	雲呑	雲呑	小麦粉を薄く伸ばした四角い皮に豚肉の挽肉、みじん切…
+j	雲堂	雲堂	禅宗の雲水が集まって修行する堂。
+j	雲壌	雲壌	空に浮かぶ雲と地面。天と地。
+j	雲外	雲外	雲の外。また、空のはるか高いところ。
+j	雲孫	雲孫	仍孫の子。本人を0代目として8代目の子孫にあたる。
+j	雲客	雲客	仙人。
+j	雲州	雲州	出雲国^(（いずものくに）)の別称。
+j	雲平	雲平	a male given name
+j	雲底	雲底	雲の最下部の底の部分。
+j	雲形	雲形	形状を用いた雲の分類。
+j	雲彩	雲彩	中国、清代の乾隆帝時代に焼かれた磁器の模様。
+j	雲影	雲影	雲の姿。
+j	雲林	雲林	高い山にあり、雲がかかる林。
+j	雲梯	雲梯	scaling ladder
+j	雲母	雲母	mica
+j	雲気	雲気	雲。雲行き。
+j	雲水	雲水	修行のため諸国を行脚する僧。
+j	雲泥	雲泥	"clouds and mud": things …
+j	雲海	雲海	far-off clouds that are s…
+j	雲濤	雲濤	水平線近くで雲とも波とも分からないところ。
+j	雲煙	雲煙	煙や雲。
+j	雲田	雲田	Unjon (a county of North …
+j	雲竜	雲竜	雲の中にいる竜。
+j	雲脂	雲脂	
+j	雲豹	雲豹	a clouded leopard
+j	雲量	雲量	雲が空を覆っている割合。雲が全くない状態を雲量0、…
+j	雲鑼	雲鑼	yunluo (traditional Chine…
+j	雲間	雲間	rift between clouds
+j	雲雀	雲雀	lark, skylark (Alauda arv…
+j	雲集	雲集	雲が群れるように多数が集まること。
+j	雲雨	雲雨	clouds and rain
+j	雲霓	雲霓	clouds and rainbows
+j	雲霞	雲霞	cloud and mist
+j	雲霧	雲霧	clouds and mist
+j	雲頂	雲頂	雲の最も高い部分。
+j	雲高	雲高	雲の底面の高度。
+j	露中	露中	ロシアと中国。
+j	露人	露人	ロシア人。
+j	露仏	露仏	屋外に置かれている仏像。
+j	露伴	露伴	a surname
+j	露光	露光	露の光
+j	露出	露出	exposure (condition of be…
+j	露助	露助	a Russian person; Russki
+j	露台	露台	balcony
+j	露呈	露呈	exposure
+j	露命	露命	儚い命。
+j	露和	露和	Russo-Japanese
+j	露営	露営	camping out
+j	露国	露国	Russia (a transcontinenta…
+j	露地	露地	露天の土地。
+j	露坐	露坐	屋根のない場所に座ること。
+j	露場	露場	測候所で気象を観測するため計器などを設置した屋外の…
+j	露天	露天	open air
+j	露字	露字	ロシア語の文章。
+j	露店	露店	booth, street stand
+j	露座	露座	屋根のない場所に座ること。
+j	露悪	露悪	showing off how wicked on…
+j	露探	露探	Russian spy
+j	露文	露文	Russian text
+j	露湛	露湛	置く露。
+j	露滴	露滴	dewdrop
+j	露点	露点	空気中の水蒸気が冷えて凝結し始める温度。
+j	露盤	露盤	方形の仏塔などの屋根の頂にある四角の台。
+j	露礁	露礁	水面の上に現れた海中にある岩石。
+j	露積	露積	物品を露天に置いて蓄えること。
+j	露米	露米	ロシアとアメリカ。
+j	露胆	露胆	赤心。
+j	露臥	露臥	野外で寝ること。野宿。
+j	露草	露草	Asiatic dayflower, Commel…
+j	露華	露華	a word used to describe t…
+j	露袒	露袒	肩を脱いで露にすること。
+j	露見	露見	exposure of something und…
+j	露訳	露訳	ロシア語に訳すこと。また、その文章。
+j	露語	露語	Russian language; Russian
+j	露軍	露軍	Russian army
+j	露酒	露酒	煙草。〔甲斐仁 著『たばこの異名いろいろ』煙装クラ…
+j	露里	露里	verst
+j	露鋒	露鋒	to expose the tip of the …
+j	露霜	露霜	frozen dew
+j	露頭	露頭	地層や岩石が地表に顕れている場所。
+j	露顕	露顕	悪事、秘密、陰謀などが他人に知られること。
+j	露骨	露骨	frank, open, blunt
+j	飲み	飲み	imperfective and stem (or…
+j	飲む	飲む	
+j	飲料	飲料	drink; beverage
+j	飲水	飲水	水を飲むこと。またその水。
+j	飲泉	飲泉	治療の一環として飲用する温泉水。
+j	飲涙	飲涙	すすり泣くこと。
+j	飲物	飲物	
+j	飲用	飲用	drinking (consuming liqui…
+j	飲精	飲精	口内に射精された精液を飲むこと。精飲。ごっくん。
+j	飲茶	飲茶	yum cha
+j	飲酒	飲酒	drinking alcohol
+j	飲量	飲量	酒を飲む量。
+j	飲食	飲食	eating and drinking
+j	鬲部	鬲部	部首「⿀」で分類した漢字の一群。
+j	鰲背	鰲背	大きな亀の背中。
+j	鵲橋	鵲橋	magpie bridge across the …
+j	鵲雁	鵲雁	a magpie-goose, Anseranas…
+j	鷲啄	鷲啄	鷲のくちばし。
+j	鷲座	鷲座	
+j	鷲津	鷲津	a surname
+j	鷲谷	鷲谷	a surname
+j	鷲鼻	鷲鼻	aquiline nose
+j	齲歯	齲歯	synonym of 虫歯 (mushiba, “…
+j	齲痛	齲痛	齲歯による痛み。歯痛。
+j	齲窩	齲窩	齲蝕により歯にできたくぼみ。
+j	齲蝕	齲蝕	caries
+k	간과	干戈	overlooking; underestimat…
+k	간섭	干涉	interference
+k	간섭	干渉	interference
+k	간성	干城	The honorable defenders o…
+k	간조	干潮	low tide
+k	간증	干証	testimony
+k	간증	干證	testimony
+k	간지	干支	fashionable taste, zest
+k	갑각	甲殻	shell; carapace
+k	갑각	甲殼	shell; carapace
+k	갑술	甲戌	The eleventh term of the …
+k	갑신	甲申	The twenty-first term of …
+k	갑오	甲午	The thirty-first term of …
+k	갑옷	甲옷	armor
+k	갑인	甲寅	The fifty-first term of t…
+k	갑자	甲子	The first term of the Chi…
+k	갑진	甲辰	The forty-first term of t…
+k	갑질	甲질	bullying, arrogance, high…
+k	갑충	甲虫	beetle
+k	갑충	甲蟲	beetle
+k	갑판	甲板	deck (of a ship)
+k	게시	掲示	posting
+k	게양	掲揚	hoisting; raising (a flag)
+k	게양	掲陽	hoisting; raising (a flag)
+k	게재	掲載	publication in a magazine…
+k	곡면	曲面	이차원 공간에서 공이나 원기둥의 겉면과 같은,…
+k	곡선	曲線	curve
+k	곡예	曲芸	
+k	곡예	曲藝	
+k	곡용	曲用	declension
+k	곡절	曲折	bentness, crookedness
+k	곡조	曲調	tune; melody
+k	곡척	曲尺	square (tool), carpenter'…
+k	곡해	曲解	
+k	과금	課金	billing
+k	과세	課稅	taxation
+k	과세	課税	taxation
+k	과업	課業	task; duty
+k	과외	課外	extracurricular work
+k	과장	課長	section manager; section …
+k	과정	課程	process, a course of even…
+k	과제	課題	task, (school) assignment…
+k	노국	露国	Russia (a country in East…
+k	노국	露國	Russia (a country in East…
+k	노상	露霜	always
+k	노어	露語	Russian (language)
+k	노점	露点	
+k	노점	露點	
+k	노천	露天	outdoors
+k	노출	露出	exposure
+k	녹음	録音	recording
+k	농경	農耕	agriculture, farming
+k	농노	農奴	serf (semifree peasant)
+k	농력	農暦	the traditional lunisolar…
+k	농력	農曆	the traditional lunisolar…
+k	농무	農舞	thick fog
+k	농민	農民	farmers; peasantry
+k	농부	農夫	peasant, farmer
+k	농부	農婦	peasant, farmer
+k	농사	農事	agriculture; farming
+k	농악	農楽	nong-ak
+k	농악	農樂	nong-ak
+k	농약	農薬	pesticide
+k	농약	農藥	pesticide
+k	농업	農業	agriculture
+k	농요	農謠	farmers' folk song
+k	농요	農謡	farmers' folk song
+k	농장	農場	farm (a place where agric…
+k	농주	農酒	
+k	농촌	農村	rural hamlet; a farm town
+k	농학	農学	agronomy
+k	농학	農學	agronomy
+k	로국	露国	North Korea standard spel…
+k	로국	露國	North Korea standard spel…
+k	로어	露語	Russian
+k	로천	露天	outdoors
+k	로출	露出	
+k	록음	録音	(sound) recording
+k	마비	痲痺	paralysis (loss of muscle…
+k	마약	痲薬	drug, narcotic
+k	마약	痲藥	drug, narcotic
+k	마취	痲酔	anesthesia
+k	마취	痲醉	anesthesia
+k	망막	網膜	retina
+k	망태	網太	
+k	매도	売渡	sale, selling
+k	매매	売買	buying and selling
+k	매물	売物	article for sale; somethi…
+k	매음	売淫	prostitution
+k	매장	売場	shop; store
+k	매점	売店	cafeteria, canteen, snack…
+k	매춘	売春	prostitution
+k	매출	売出	sale; selling
+k	매향	売郷	the fragrance of plum blo…
+k	맹인	盲人	blind person
+k	맹점	盲点	blind spot
+k	맹점	盲點	blind spot
+k	박멸	撲滅	eradication
+k	방공	防空	air defense, antiaircraft…
+k	방수	防水	waterproofing
+k	방수	防銹	waterproofing
+k	방식	防蝕	a specified method or form
+k	방어	防禦	defense
+k	방역	防疫	epidemic prevention
+k	방위	防囲	bearing (point of the com…
+k	방위	防圍	bearing (point of the com…
+k	방위	防衛	bearing (point of the com…
+k	방지	防止	prevention
+k	방첩	防諜	counterintelligence, coun…
+k	방탄	防弾	bulletproof; bulletproofi…
+k	방탄	防彈	bulletproof; bulletproofi…
+k	방패	防牌	shield
+k	방풍	防風	protection from the wind
+k	방한	防寒	protection against the co…
+k	방호	防護	protection, defence
+k	방화	防火	arson
+k	비관	悲観	pessimism
+k	비관	悲觀	pessimism
+k	비극	悲劇	tragedy
+k	비명	悲鳴	scream, shriek
+k	비애	悲哀	grief; sorrow; sadness
+k	비참	悲惨	misery
+k	비참	悲慘	misery
+k	비호	悲号	protection, shelter, refu…
+k	비호	悲號	protection, shelter, refu…
+k	사가	史家	
+k	사관	史官	commissioned officer
+k	사관	史観	commissioned officer
+k	사관	史觀	commissioned officer
+k	사극	史劇	period drama
+k	사기	史記	fraud; swindle
+k	사상	史上	history, historic
+k	사서	史書	librarian
+k	사적	史的	historic site
+k	사적	史籍	historic site
+k	사학	史学	history (the field of stu…
+k	사학	史學	history (the field of stu…
+k	사화	史禍	Korean literati purges
+k	사화	史話	Korean literati purges
+k	색깔	色깔	color
+k	색맹	色盲	color blindness
+k	색상	色相	hue
+k	색소	色素	pigment, colouring matter
+k	색욕	色慾	lust, sexual desire
+k	색정	色情	sexual urge, sexual desir…
+k	색채	色彩	colour
+k	색칠	色漆	colouring (with a crayon)…
+k	서리	署理	frost
+k	서명	署名	signature, autograph
+k	서식	棲息	format (of a document)
+k	서장	署長	the head of a government …
+k	섬멸	殲滅	annihilation, eradication…
+k	성구	聲區	set phrase, idiom
+k	성대	聲帶	vocal cords
+k	성독	聲讀	traditional Korean method…
+k	성량	聲量	
+k	성망	聲望	prestige; reputation
+k	성명	聲明	name, surname and given n…
+k	성모	聲母	Virgin Mary
+k	성문	聲聞	glottis
+k	성문	聲門	glottis
+k	성우	聲優	voice actor; voice actress
+k	성조	聲調	tone (pitch of a word tha…
+k	세모	歲暮	triangle
+k	세배	歲拜	New Year's greetings/call…
+k	세배	歲拝	New Year's greetings/call…
+k	세월	歲月	time
+k	세차	歲差	washing the car
+k	습격	襲撃	attack; raid; incursion
+k	습격	襲擊	attack; raid; incursion
+k	시구	鳲鳩	(야구)
+k	액면	液面	face value
+k	액상	液状	liquid state
+k	액상	液狀	liquid state
+k	액상	液相	liquid state
+k	액적	液滴	drop (of liquid); droplet
+k	액체	液体	liquid (substance that is…
+k	액체	液體	liquid (substance that is…
+k	액화	液化	liquefaction
+k	양도	譲渡	
+k	양보	譲歩	giving up one's seat or p…
+k	열람	閲覧	viewing
+k	오만	傲慢	hubris, excessive pride
+k	욕망	欲望	desire, lust, appetite, c…
+k	운검	雲剣	highly-decorated single-b…
+k	운검	雲劍	highly-decorated single-b…
+k	운남	雲南	Yunnan (a province in sou…
+k	운량	雲量	cloud cover, nebulosity
+k	운모	雲母	화강암 가운데 많이 들어 있는 규산염 광물의 …
+k	운반	雲半	transportation, transport…
+k	운수	雲岫	cloud and water
+k	운수	雲樹	cloud and water
+k	운수	雲水	cloud and water
+k	운애	雲靉	mist, fog
+k	위주	爲主	
+k	음료	飲料	drink, beverage
+k	음수	飲水	negative number
+k	음식	飲食	food, including drink
+k	음주	飲酒	consumption of alcohol
+k	조롱	嘲弄	taunt
+k	중모	仲母	
+k	중재	仲裁	상대방과 상대방 사이에서 문제가 해결될 수 있…
+k	지각	遲刻	being / arriving late (fo…
+k	지배	遲配	rule, control, command
+k	지연	遲延	delay
+k	지체	遲滯	delay
+k	진군	進軍	march; advance
+k	진급	進級	promotion
+k	진루	進塁	advancement to the next b…
+k	진루	進壘	advancement to the next b…
+k	진보	進步	progressive
+k	진보	進歩	progressive
+k	진상	進上	the real facts, the true …
+k	진상	進相	the real facts, the true …
+k	진입	進入	entry
+k	진자	進瓷	pendulum
+k	진출	進出	advancement
+k	진취	進取	progressiveness; enterpri…
+k	진행	進行	progress
+k	진화	進化	progress, development; (b…
+k	징계	懲戒	discipline, disciplinary …
+k	징벌	懲罰	punishment; penalty
+k	징역	懲役	imprisonment (as punishme…
+k	철인	哲人	philosopher, sage
+k	철학	哲学	philosophy
+k	철학	哲學	philosophy
+k	충개	蟲疥	traditional Korean medici…
+k	충수	蟲垂	an appendix
+k	충실	蟲室	faithfulness; loyalty; de…
+k	충치	蟲豸	dental cavity; dental car…
+k	충치	蟲齒	dental cavity; dental car…
+k	포가	砲架	weapon, cannon mount
+k	포대	砲台	bag (made of paper, cloth…
+k	포대	砲臺	bag (made of paper, cloth…
+k	포대	砲隊	bag (made of paper, cloth…
+k	포병	砲兵	gunner, bombardier, artil…
+k	포수	砲手	catcher
+k	포연	砲煙	gunsmoke, smoke produced …
+k	포차	砲車	synonym of 포장마차 (pojangma…
+k	포탄	砲弾	shell, cannonball
+k	포탄	砲彈	shell, cannonball
+k	포탑	砲塔	turret
+k	포함	砲艦	inclusion
+k	포화	砲火	saturation
+k	포환	砲丸	cannonball
+k	피곤	疲困	fatigue; weariness; tired…
+k	피로	疲労	fatigue, tiredness
+k	피로	疲勞	fatigue, tiredness
+k	피폐	疲弊	exhaustion
+k	할례	割礼	circumcision
+k	할례	割禮	circumcision
+k	할부	割賦	paying in instalments
+k	할인	割引	discount
+k	할증	割増	extra charge, extra fare
+k	할증	割增	extra charge, extra fare
+k	해당	該当	being applicable, relevant
+k	해당	該當	being applicable, relevant
+k	헌법	憲法	constitution
+k	헌병	憲兵	military police
+k	헌장	憲章	charter
+k	획득	獲得	acquisition
+k	훈장	勲章	order; medal; decoration
+k	희화	戲畫	익살스러운 것이 됨. 또는 그렇게 함.
+j	串刺し	串刺し	
+j	串団子	串団子	串に刺した団子。
+j	串揚げ	串揚げ	A dish consisting of piec…
+j	串焼き	串焼き	kushiyaki, a dish consist…
+j	仲直り	仲直り	reconciliation (of person…
+j	仲立ち	仲立ち	mediation; intermediary; …
+j	仲立人	仲立人	middleman, mediator, brok…
+j	仲良し	仲良し	
+j	仲裁人	仲裁人	arbitrator
+j	仲裁者	仲裁者	
+j	仲買人	仲買人	a middleman, broker
+j	仲間だ	仲間だ	
+j	仲間の	仲間の	
+j	傲慢な	傲慢な	
+j	傲然な	傲然な	
+j	儲かる	儲かる	to be profitable, to be l…
+j	儲ける	儲ける	to profit
+j	冲する	冲する	「沖する」の異表記。高く上がる。
+j	割り下	割り下	Japanese sauce usually ma…
+j	割り勘	割り勘	going Dutch
+j	割り印	割り印	相互に関係する二枚の文書について、それを証明するた…
+j	割り玉	割り玉	a type of くす玉 (kusudama, …
+j	割り算	割り算	division
+j	割り箸	割り箸	"splittable chopsticks"; …
+j	割れた	割れた	
+j	割れる	割れる	to be broken, to break it…
+j	割れ目	割れ目	crack; crevice; fissure
+j	割れ顎	割れ顎	
+j	割引券	割引券	物を買う際にそれを示すと通常よりも値段が安くなる旨…
+j	割戻し	割戻し	
+j	割烹着	割烹着	a Japanese type of cook's…
+j	史学者	史学者	史学を研究する科学者。
+j	史実厨	史実厨	アニメやドラマなどの作品に対して、史実に忠実である…
+j	史料室	史料室	史料が保管されている部屋。
+j	史料館	史料館	博物館の内、史料を収集・保存・展示し、一般に公開す…
+j	咲也香	咲也香	a female given name
+j	咲奈子	咲奈子	a female given name
+j	咲実子	咲実子	a female given name
+j	咲結実	咲結実	a female given name
+j	咲菜子	咲菜子	a female given name
+j	哲人王	哲人王	
+j	哲学史	哲学史	哲学に関する歴史。
+j	哲学的	哲学的	philosophical
+j	哲学者	哲学者	philosopher
+j	嘲笑う	嘲笑う	to laugh at, to sneer at,…
+j	囲い厨	囲い厨	応援している相手に大勢のファンがいるのにも関わらず…
+j	囲炉裏	囲炉裏	a traditional sunken hear…
+j	囲繞地	囲繞地	他人の土地を囲み、公道へ出られなくしている土地。民…
+j	売り値	売り値	selling price, sale price…
+j	売り場	売り場	place where things are so…
+j	売り手	売り手	seller
+j	売れる	売れる	to sell, to sell well, to…
+j	売れ線	売れ線	that which sells
+j	売上げ	売上げ	sales
+j	売上高	売上高	amount sold, sales
+j	売国奴	売国奴	traitor to the nation
+j	売掛金	売掛金	accounts receivable (tota…
+j	売文屋	売文屋	作家、ライター。
+j	売春婦	売春婦	prostitute
+j	売春宿	売春宿	brothel
+j	売買春	売買春	売春と買春との総称。
+j	已代志	已代志	a male given name
+j	已然形	已然形	a verbal inflectional cat…
+j	已里木	已里木	a surname
+j	干し柿	干し柿	dried persimmon
+j	干し肉	干し肉	主に獣類の肉を干して乾燥させた食品。ジャーキー。
+j	干し草	干し草	hay
+j	干し魚	干し魚	
+j	干渉法	干渉法	interferometry
+j	干渉計	干渉計	interferometer
+j	干物女	干物女	dried-fish woman; a woman…
+j	干菓子	干菓子	水分が少なく乾燥した和菓子の総称。
+j	干貝柱	干貝柱	
+j	悲しい	悲しい	sad, sorrowful
+j	悲しみ	悲しみ	sorrow, grief
+j	悲しむ	悲しむ	to be sad; to feel sadness
+j	悲劇の	悲劇の	
+j	悲劇的	悲劇的	悲惨なさま。
+j	悲惨な	悲惨な	
+j	悲田院	悲田院	poorhouse
+j	悲観的	悲観的	pessimistic
+j	憲二郎	憲二郎	a male given name
+j	憲兵隊	憲兵隊	regiment of military poli…
+j	憲次郎	憲次郎	a male given name
+j	憲法化	憲法化	
+j	憲法学	憲法学	憲法の解釈について研究する学問。
+j	懲らす	懲らす	to chastise; to punish; t…
+j	懲りる	懲りる	to be demotivated by obst…
+j	捲き雲	捲き雲	
+j	掲げて	掲げて	
+j	掲げる	掲げる	put up, hang out
+j	掲示板	掲示板	bulletin board
+j	擲弾兵	擲弾兵	grenadier
+j	擲弾筒	擲弾筒	grenade launcher
+j	擲弾銃	擲弾銃	擲弾を発射するための携帯可能な銃。
+j	曲がる	曲がる	to bend, to curve, to war…
+j	曲げる	曲げる	bend
+j	曲射砲	曲射砲	榴弾砲、迫撃砲など曲射を行う火砲の総称。
+j	曲屁師	曲屁師	
+j	曲線美	曲線美	beauty from curvaceousness
+j	曲馬団	曲馬団	a (traveling) circus, cir…
+j	欲しい	欲しい	
+j	欲する	欲する	to want, to desire
+j	欲張り	欲張り	very greedy, covetous, av…
+j	欲張る	欲張る	to be intensely greedy, a…
+j	欲深い	欲深い	greedy
+j	洲実子	洲実子	a female given name
+j	液タブ	液タブ	
+j	液状化	液状化	地震の揺れなどにより地下水などの水分を多く含んだ砂…
+j	滲出液	滲出液	内部から外へ滲出する液体。
+j	玲実子	玲実子	a female given name
+j	甲乙丙	甲乙丙	ABC; 123; XYZ (placeholde…
+j	甲乙点	甲乙点	in kambun, a type of kaer…
+j	甲信越	甲信越	Kōshin'etsu (a geographic…
+j	甲冑師	甲冑師	甲冑を作る工匠。
+j	甲号券	甲号券	日本で1899年に発行が開始された紙幣。
+j	甲子園	甲子園	兵庫県西宮市にある阪神甲子園球場。また、同球場で開…
+j	甲府市	甲府市	山梨県の県庁所在地。中核市。
+j	甲斐国	甲斐国	日本の旧国（令制国）のひとつ。現在の山梨県にあたる。
+j	甲斐性	甲斐性	resourcefulness, wherewit…
+j	甲板員	甲板員	甲板での荷役や機器の保守などを行う者。
+j	甲板手	甲板手	甲板での見張りや操船、甲板長の補佐を行う者。
+j	甲板長	甲板長	甲板での責任者である船員の職長。
+j	甲殻類	甲殻類	crustacean
+j	甲比丹	甲比丹	「カピタン」の漢字表記。
+j	甲烏賊	甲烏賊	a cuttlefish
+j	甲状腺	甲状腺	a thyroid gland
+j	甲虫目	甲虫目	《分類学》 コウチュウ目の漢字表記。
+j	甲虫類	甲虫類	コウチュウ目に分類される昆虫の総称。甲虫に同じ。
+j	甲骨学	甲骨学	the study of oracle bone …
+j	甲骨文	甲骨文	synonym of 甲骨文字 (kōkotsu …
+j	甲高い	甲高い	high-pitched, shrill
+j	疲れた	疲れた	past tense and perfective…
+j	疲れる	疲れる	to be tired
+j	癲狂院	癲狂院	古く精神病院のことをさす語。
+j	盲パイ	盲パイ	盲牌: (games, gambling) the…
+j	盲学校	盲学校	視覚障害者の教育を行う特別支援学校。
+j	盲導犬	盲導犬	seeing-eye dog, guide dog…
+j	盲目の	盲目の	
+j	盲目的	盲目的	blind (love, passion, fur…
+j	盲腸炎	盲腸炎	appendicitis, cecitis, ty…
+j	盲腸線	盲腸線	終点で他の路線と接続しておらず、盲腸のような短い距…
+j	盲蜘蛛	盲蜘蛛	synonym of 座頭虫 (zatōmushi…
+j	砲丸投	砲丸投	shot put
+j	砲兵隊	砲兵隊	砲兵で構成される部隊。
+j	砲撃戦	砲撃戦	火砲で撃ち合う戦闘。砲戦。
+j	砲撃手	砲撃手	軍用車両、軍艦、軍用機で砲撃を担当する要員。
+j	砲術家	砲術家	砲術を行う武術家またはそれで生業している者、修得し…
+j	稲刈り	稲刈り	rice reaping
+j	網掛け	網掛け	
+j	網杓子	網杓子	a scoop made of a wire me…
+j	網状脈	網状脈	葉脈の型の一つで、支脈から側脈が分かれ、それがさら…
+j	網笠茸	網笠茸	morel, Morchella esculent…
+j	網結針	網結針	a large needle made of wo…
+j	網翅目	網翅目	ゴキブリ目のかつての標準和名、現在の異称。
+j	網翅類	網翅類	網翅目に分類される昆虫の総称。
+j	網膜症	網膜症	網膜の血管に何らかの障害が起き、視力や視野などに異…
+j	署長室	署長室	署長が執務を行う専用の部屋。
+j	育てる	育てる	to raise, to rear, to fos…
+j	育児嚢	育児嚢	主に有袋類（また単孔類の一部）の雌の下腹部にある育…
+j	育毛剤	育毛剤	hair tonic
+j	色づく	色づく	to change color; to turn …
+j	色づけ	色づけ	coloring, adding color
+j	色めく	色めく	to become lively
+j	色んな	色んな	synonym of 色々な (iroiro na…
+j	色力学	色力学	chromodynamics
+j	色収差	色収差	chromatic aberration
+j	色合い	色合い	colouring, coloring, shad…
+j	色度図	色度図	人が識別できる色を色相と彩度とを数値化し、二次元の…
+j	色座標	色座標	
+j	色情狂	色情狂	sex mania, erotomania
+j	色情症	色情症	精神疾患、薬物などにより異常に性欲が亢進した状態。
+j	色惚け	色惚け	
+j	色指定	色指定	color specification
+j	色無地	色無地	A single-colored kimono t…
+j	色白の	色白の	
+j	色盲の	色盲の	
+j	色相名	色相名	赤や青、黄緑など色相をあらわす名称。
+j	色相環	色相環	color circle
+j	色眼鏡	色眼鏡	colored glasses
+j	色硝子	色硝子	「色ガラス」の漢字表記。
+j	色空間	色空間	a color space
+j	色範囲	色範囲	色域。
+j	色素胞	色素胞	chromatophore, a pigment-…
+j	色鉛筆	色鉛筆	a colored pencil
+j	色黒な	色黒な	
+j	菲沃斯	菲沃斯	
+j	蒲公英	蒲公英	dandelion (plant, wild fl…
+j	蒲焼き	蒲焼き	
+j	課する	課する	to impose (a tax, fine, e…
+j	課徴金	課徴金	tax, duty, charge imposed…
+j	課金兵	課金兵	課金ユーザー。
+j	農事暦	農事暦	farming calendar
+j	農作業	農作業	田や畑を耕作する作業のこと。
+j	農作物	農作物	crops, agricultural produ…
+j	農務省	農務省	アメリカ合衆国の農業に関する行政を担う省庁。
+j	農大生	農大生	大学の農学部、農業大学、農科大学で農学を学ぶ大学生。
+j	農夫症	農夫症	Peasant syndrome, farmer'…
+j	農奴制	農奴制	
+j	農学史	農学史	農学に関する歴史。農業史。
+j	農学校	農学校	戦前に農業従事者養成を行っていた学校。農業学校。農…
+j	農学生	農学生	大学（大学院）で農学を学ぶ学生。
+j	農学者	農学者	agronomist
+j	農学部	農学部	農学の教授、研究を行う学部。
+j	農山村	農山村	農村と山村。
+j	農村部	農村部	rural district
+j	農林業	農林業	農業と林業。
+j	農業の	農業の	
+j	農業的	農業的	農業に関するさま。
+j	農業科	農業科	大学や短期大学、専門学校に設置している農業に関する…
+j	農機具	農機具	農業機具の略称。
+j	農水産	農水産	agriculture and marine pr…
+j	農水省	農水省	Ministry Agriculture, For…
+j	農産物	農産物	agricultural product
+j	農繁期	農繁期	農作業が忙しい時期。農期。
+j	農閑期	農閑期	農作業が暇な時期。閑月。
+j	進ずる	進ずる	give
+j	進める	進める	promote, pursue, move for…
+j	進んで	進んで	voluntarily; willingly
+j	進化論	進化論	the theory of evolution
+j	進学校	進学校	a high school (upper seco…
+j	進学率	進学率	rate of advancement to th…
+j	進次郎	進次郎	a male given name
+j	進歩党	進歩党	進歩主義の実現を目標とした政党。
+j	進歩的	進歩的	進歩しているさま。
+j	進水台	進水台	進水の際、船体を造船台から水面まで滑らせて移動させ…
+j	進行形	進行形	注目している時点でその動作が進行していることを示す…
+j	進行波	進行波	travelling wave (wave tha…
+j	進軍歌	進軍歌	Tiến quân ca, the Vietnam…
+j	進駐軍	進駐軍	他国の領内に進軍し、駐留する軍隊。
+j	録する	録する	記録する。
+j	録り鉄	録り鉄	車内放送や発車メロディなど、鉄道に関係する音の録音…
+j	録れる	録れる	
+j	録音室	録音室	
+j	録音機	録音機	sound recorder, tape reco…
+j	閲兵式	閲兵式	元首や司令官などが整列した軍隊を閲兵する儀式。
+j	閲覧室	閲覧室	reading room
+j	防げる	防げる	
+j	防カメ	防カメ	
+j	防具屋	防具屋	防具を作って売る店。
+j	防城港	防城港	
+j	防寒具	防寒具	防寒のための衣類や道具。
+j	防寒着	防寒着	防寒の工夫をされた衣服。
+j	防弾服	防弾服	
+j	防弾車	防弾車	
+j	防御率	防御率	
+j	防水の	防水の	
+j	防水剤	防水剤	紙や布などの防水のために塗布する薬剤。
+j	防水布	防水布	waterproof cloth
+j	防波堤	防波堤	breakwater
+j	防浪堤	防浪堤	防潮堤のこと。特に大津波から防護するためのもの。
+j	防湿庫	防湿庫	dry cabinet (storage cabi…
+j	防潮堤	防潮堤	seawall, coastal levee
+j	防火壁	防火壁	firewall (fireproof barri…
+j	防火戸	防火戸	建築基準法などに基づき一定の条件の建築物に火災が発…
+j	防火扉	防火扉	fire door
+j	防爆弁	防爆弁	pressure-relief vent of a…
+j	防石面	防石面	投石や飛び石などの飛来物から顔面を護るための、ヘル…
+j	防空壕	防空壕	air-raid shelter
+j	防空軍	防空軍	防空を目的とした軍隊。
+j	防腐剤	防腐剤	an agent that preservers …
+j	防臭剤	防臭剤	不快な匂いなどの抑制や除去に使用する薬剤。
+j	防衛学	防衛学	防衛について研究する学問。軍事学。戦争学。国防学。
+j	防衛省	防衛省	国の中央官庁の一つ。2007年防衛庁を改組して設置。
+j	防衛者	防衛者	defender
+j	防衛軍	防衛軍	defense force
+j	防護服	防護服	protective clothing
+j	防風林	防風林	shelterbelt
+j	雲の上	雲の上	above the clouds
+j	雲を霞	雲を霞	the condition of a vanish…
+j	雲取山	雲取山	東京都・埼玉県・山梨県に跨る秩父多摩甲斐国立公園の…
+j	雲姪孫	雲姪孫	仍姪孫の子。甥や姪の仍孫。
+j	雲平糖	雲平糖	雲平を材料としてつくられた干菓子。
+j	雲林県	雲林県	台湾中部に位置する県。
+j	雲隠れ	雲隠れ	hiding or vanishing behin…
+j	雲龍型	雲龍型	
+j	露出形	露出形	in Japanese morphology, a…
+j	露出狂	露出狂	exhibitionist
+j	露出症	露出症	人前に性器や全裸などをさらして（露出して）性的興奮…
+j	露天商	露天商	露天（露店）で商いをするひと。
+j	露店商	露店商	一定の場所に店舗を構えず、露天で商売を行うこと。ま…
+j	露文法	露文法	ロシア語の文法。
+j	露西亜	露西亜	dated spelling of ロシア: Ru…
+j	露骨な	露骨な	
+j	飲み代	飲み代	drinking money
+j	飲み会	飲み会	drinking party
+j	飲み助	飲み助	a person who likes to dri…
+j	飲み屋	飲み屋	bar, pub
+j	飲み水	飲み水	
+j	飲み物	飲み物	drink
+j	飲む人	飲む人	
+j	飲兵衛	飲兵衛	alcoholic, heavy drinker,…
+j	飲料水	飲料水	飲むのに適合した水。飲み水。飲用水。
+j	飲用水	飲用水	drinking water, potable w…
+j	飲食店	飲食店	restaurant
+j	飲食物	飲食物	food and drink
+j	鵲笛鴉	鵲笛鴉	
+j	鷲木菟	鷲木菟	
+j	鷲獅子	鷲獅子	グリフォン
+k	갑각류	甲殻類	crustacean
+k	갑각류	甲殼類	crustacean
+k	갑각소	甲殻素	
+k	갑각소	甲殼素	
+k	게시판	掲示板	bulletin board
+k	곡마단	曲馬団	
+k	곡마단	曲馬團	
+k	곡사포	曲射砲	howitzer
+k	곡예사	曲芸師	acrobat
+k	곡예사	曲藝師	acrobat
+k	과하다	課하다	to be excessive
+k	권설음	捲舌音	retroflex
+k	노서아	露西亜	Russia
+k	노서아	露西亞	Russia
+k	노숙자	露宿者	homeless person
+k	노천광	露天鉱	opencast mine, open-pit m…
+k	노천광	露天鑛	opencast mine, open-pit m…
+k	노출증	露出症	
+k	녹음기	録音器	recorder (e.g. tape recor…
+k	녹음실	録音室	recording studio
+k	농경지	農耕地	
+k	농산물	農産物	An agricultural product o…
+k	농작물	農作物	crops
+k	농학자	農学者	agriculturist, agricultur…
+k	농학자	農學者	agriculturist, agricultur…
+k	로서아	露西亜	Russia
+k	로서아	露西亞	Russia
+k	록음기	録音器	recorder (e.g. tape recor…
+k	마약견	痲薬犬	
+k	마약견	痲藥犬	
+k	마취약	痲酔薬	anaesthetic
+k	마취약	痲醉藥	anaesthetic
+k	마취제	痲酔剤	anaesthetic
+k	마취제	痲醉劑	anaesthetic
+k	망시민	網市民	netizen
+k	매국노	売国奴	traitor (one who violates…
+k	매음굴	売淫窟	brothel (house of prostit…
+k	매춘굴	売春窟	brothel
+k	매춘부	売春婦	prostitute, hooker, call …
+k	매춘소	売春宿	
+k	매출액	売出額	sales, sales figures
+k	매표구	売票口	ticket window
+k	매표소	売票所	ticket office, booking of…
+k	맹도견	盲導犬	
+k	맹목적	盲目的	blind (love, passion, etc…
+k	맹장염	盲腸炎	appendicitis (inflammatio…
+k	방공호	防空壕	air-raid shelter
+k	방석복	防石服	riot gear
+k	방수포	防水布	waterproof cloth, tarpaul…
+k	방어수	防禦手	
+k	방어율	防禦率	synonym of 평균자책점(平均自責點) (…
+k	방어자	防禦者	defender
+k	방위군	防衛軍	national guard, defense f…
+k	방위자	防衛者	defender
+k	방조제	防潮堤	embankment
+k	방탄복	防弾服	bulletproof vest
+k	방탄복	防彈服	bulletproof vest
+k	방탄차	防弾車	방탄 장치를 한 자동차.
+k	방탄차	防彈車	방탄 장치를 한 자동차.
+k	방파제	防波堤	breakwater; seawall
+k	방풍림	防風林	shelterbelt, windbreak
+k	방화문	防火門	화재를 막기 위하여 설치한 문.
+k	방화벽	防火壁	firewall
+k	방화선	防火線	firebreak
+k	사립체	絲粒體	
+k	사학자	史学者	historian
+k	사학자	史學者	historian
+k	색상환	色相環	colour wheel
+k	색안경	色眼鏡	sunglasses, dark glasses
+k	색역학	色力学	
+k	색역학	色力學	
+k	색연필	色鉛筆	colored pencil, pencil cr…
+k	색종이	色종이	coloured paper (usually o…
+k	서식지	棲息地	habitat
+k	성명서	聲明書	a (public) statement, man…
+k	성문음	聲門音	glottal
+k	세뱃돈	歲拜돈	red envelope; hongbao
+k	세뱃돈	歲拝돈	red envelope; hongbao
+k	열람실	閲覧室	reading room
+k	열병식	閲兵式	
+k	운무림	雲霧林	cloud forest
+k	위하다	爲하다	to help, to serve, to ben…
+k	음료수	飲料水	beverage, drink
+k	음수대	飲水台	
+k	음식물	飲食物	food and drink
+k	음식점	飲食店	restaurant, eatery
+k	음용수	飲用水	drinking water
+k	음청류	飲清類	nonalcoholic beverage inc…
+k	중개인	仲介人	broker, go-between
+k	중매인	仲媒人	matchmaker
+k	중매인	仲買人	matchmaker
+k	중재인	仲裁人	arbitrator
+k	중재자	仲裁者	mediator, arbitrator, go-…
+k	중추절	仲秋節	the Mid-Autumn Festival (…
+k	지각자	遲刻者	latecomer
+k	진취력	進取力	
+k	진취성	進取性	
+k	진행자	進行者	MC, master of ceremonies
+k	철학자	哲学者	philosopher
+k	철학자	哲學者	philosopher
+k	충수염	蟲垂炎	
+k	포병대	砲兵隊	
+k	할인가	割引価	discounted price (as oppo…
+k	할인가	割引價	discounted price (as oppo…
+k	할인권	割引券	
+k	할인점	割引店	
+k	획득물	獲得物	
+j	串に刺す	串に刺す	
+j	仲間割れ	仲間割れ	breakup of friends or all…
+j	仲間外れ	仲間外れ	someone who is left out o…
+j	仲間意識	仲間意識	camaraderie
+j	傲岸不遜	傲岸不遜	自分は偉い人間であると考えて威張り、相手を見下すさ…
+j	割り出す	割り出す	to calculate, to compute
+j	割り切る	割り切る	divide without a remainde…
+j	割り合い	割り合い	
+j	割り引く	割り引く	to discount (by 10 percen…
+j	割り当て	割り当て	assignment; allotment
+j	割り振り	割り振り	assignment, allotment, qu…
+j	割り振る	割り振る	to assign; to allot; to a…
+j	割り込み	割り込み	
+j	割り込む	割り込む	to cut off; to break into…
+j	割れもの	割れもの	
+j	割を食う	割を食う	損をする。不利益をこうむる。
+j	割三角比	割三角比	三角比のうち、他の三角比の逆数で得られる正割、余割…
+j	割前勘定	割前勘定	割り勘。
+j	嘲笑する	嘲笑する	
+j	囲い込み	囲い込み	
+j	売りオペ	売りオペ	（経済）売り オペレーションの略。
+j	売り上げ	売り上げ	
+j	売り出し	売り出し	bargain sale
+j	売り出す	売り出す	put on sale, put on the m…
+j	売り切れ	売り切れ	sold out
+j	売り払う	売り払う	to sell completely with d…
+j	売り捌く	売り捌く	sell on a wide scale
+j	売り渡す	売り渡す	sell over to
+j	売り買い	売り買い	
+j	売り込む	売り込む	to sell
+j	売れっ子	売れっ子	popular person
+j	売れ残り	売れ残り	unsold items/goods
+j	売れ行き	売れ行き	sales, demand
+j	已己巳己	已己巳己	things resembling each ot…
+j	干し果物	干し果物	dried fruit (small fruit …
+j	干し葡萄	干し葡萄	synonym of レーズン (rēzun, “…
+j	干上がる	干上がる	to dry up, to be arid or …
+j	干乾びる	干乾びる	to dry up
+j	干天慈雨	干天慈雨	merciful rain in a drough…
+j	干渉する	干渉する	
+j	干瓢巻き	干瓢巻き	甘辛く煮た干瓢を芯にして巻いた細い海苔巻き寿司。鉄…
+j	悲喜交交	悲喜交交	bittersweet
+j	悲観主義	悲観主義	pessimism
+j	憲法改正	憲法改正	constitutional amendment
+j	懲らしめ	懲らしめ	
+j	懲り懲り	懲り懲り	bad experience, learning …
+j	懲戒免職	懲戒免職	公務員の懲戒処分の一つで、その職を免ずるもの。退職…
+j	懲戒処分	懲戒処分	公務員に服務義務違反があった場合に、その職員に対し…
+j	懲戒解雇	懲戒解雇	使用者が労働者（従業員）に対し重大な規律違反などに…
+j	懲罰する	懲罰する	
+j	捲土重来	捲土重来	いちど敗れた者がふたたび力を盛り返し、反撃に転じる…
+j	捲簾大将	捲簾大将	Curtain-lifting General, …
+j	撲滅する	撲滅する	
+j	敲氷求火	敲氷求火	目的に合った方法をとらないと、いくら苦労してもその…
+j	曲がった	曲がった	
+j	曲がり角	曲がり角	corner, turn, turning
+j	曲学阿世	曲学阿世	to change one's opinion, …
+j	曲率半径	曲率半径	曲率の逆数。高速道路や山道などのカーブでは「R=⚫…
+j	曲突徙薪	曲突徙薪	未然に災害の原因を取り去って、発生を防止するたとえ。
+j	欲しがる	欲しがる	to want, to desire, to co…
+j	欲求不満	欲求不満	unstable: anxious because…
+j	欲求不滿	欲求不滿	unstable: anxious because…
+j	殲滅する	殲滅する	
+j	殲滅的な	殲滅的な	
+j	汲み取る	汲み取る	to scoop up
+j	液体石鹸	液体石鹸	liquid soap
+j	液体窒素	液体窒素	liquid nitrogen
+j	液体酸素	液体酸素	liquid oxygen
+j	液化する	液化する	
+j	液化窒素	液化窒素	「液体窒素」を参照。
+j	獲得する	獲得する	
+j	獲得免疫	獲得免疫	外部から侵入した異物を特異的に排除する免疫。
+j	甲乙丙丁	甲乙丙丁	A, B, C and D; first, sec…
+j	甲状腺腫	甲状腺腫	
+j	甲状軟骨	甲状軟骨	a thyroid cartilage
+j	甲羅干し	甲羅干し	俯せの姿勢になって太陽の光を浴びること。
+j	甲論乙駁	甲論乙駁	互いにあれこれ主張して、議論の結論が出ないこと。
+j	甲骨文字	甲骨文字	oracle bone script
+j	疲れ切る	疲れ切る	be tired out, be exhausted
+j	疲労困憊	疲労困憊	exhaustion; supreme tired…
+j	疲癃残疾	疲癃残疾	疲れて弱る病気と、心身が損なわれる病気。
+j	砲丸投げ	砲丸投げ	陸上競技の種目のひとつで砲丸を飛ばした距離を競う投…
+j	砲撃する	砲撃する	
+j	稲田葦切	稲田葦切	
+j	稲荷揚げ	稲荷揚げ	inari, a type of sushi wi…
+j	網タイツ	網タイツ	
+j	網目錦蛇	網目錦蛇	a reticulated python
+j	網膜電図	網膜電図	
+j	署名する	署名する	
+j	育児休暇	育児休暇	「育児休業」を参照。
+j	育児休業	育児休業	parental leave
+j	育成する	育成する	
+j	色っぽい	色っぽい	sexy; erotic
+j	色づける	色づける	to color, to add color
+j	色ガラス	色ガラス	「着色ガラス」に同じ。
+j	色仕掛け	色仕掛け	using seductive charm in …
+j	色即是空	色即是空	the fundamental doctrine …
+j	色度範囲	色度範囲	色度図によって表された色の範囲。
+j	色恋沙汰	色恋沙汰	love affair
+j	色情作品	色情作品	
+j	色素沈着	色素沈着	
+j	色褪せる	色褪せる	lose color, fade
+j	色覚異常	色覚異常	color blindness
+j	色覚障害	色覚障害	色覚異常の言い替え語の一つ。
+j	色鮮やか	色鮮やか	colourful (brightly colou…
+j	襲撃する	襲撃する	
+j	該当なし	該当なし	
+j	課外活動	課外活動	学校で教科の学習以外に生徒、児童が行う活動。
+j	課税標準	課税標準	課税要件の一つ。課税物件から税額を算出するために、…
+j	課税物件	課税物件	課税要件の一つ。課税の対象とされる物、行為、事実を…
+j	課税要件	課税要件	納税義務の成立要件。納税義務者、課税物件、課税物件…
+j	課題抽出	課題抽出	
+j	譲り合う	譲り合う	to give and take, to make…
+j	譲歩する	譲歩する	
+j	譲渡する	譲渡する	
+j	譲渡所得	譲渡所得	capital gains
+j	農本思想	農本思想	
+j	農林学校	農林学校	農業や林業に関する専門教育を行う学校。農業学校。農…
+j	農林水産	農林水産	農業と林業と水産業。
+j	農林漁業	農林漁業	農業と林業と漁業
+j	農業大学	農業大学	農業系の単科大学。
+j	農業学校	農業学校	農業に関する専門教育を行う学校。農学校。農林学校。
+j	農業機具	農業機具	農業で使用される機械や器具。農機具。
+j	農業機械	農業機械	農業で使用される機械の総称。
+j	農科大学	農科大学	1886年から1919年までの帝国大学における分科…
+j	進化主義	進化主義	
+j	進呈する	進呈する	
+j	進展する	進展する	
+j	進歩主義	進歩主義	伝統や慣習にとらわれず、新しい制度や社会改革を推進…
+j	進行中で	進行中で	
+j	進路指導	進路指導	guidance counseling
+j	進退両難	進退両難	進むことも退くことも難しい状態のこと。
+j	録画する	録画する	
+j	録音する	録音する	
+j	録音図書	録音図書	目の不自由な人などのために、書籍の内容を読み上げた…
+j	閲覧する	閲覧する	
+j	防共協定	防共協定	the Anti-Comintern Pact
+j	防火水槽	防火水槽	火災が発生した際の消火用水を蓄えておく水槽。
+j	防災訓練	防災訓練	主に災害が発生した際の初期消火など拡大の防止や避難…
+j	防災頭巾	防災頭巾	地震などの際に飛来物などから頭部を守るための綿が入…
+j	防犯ベル	防犯ベル	不法侵入や盗難などからの防犯のため設置されるベル。
+j	防空砲兵	防空砲兵	対空攻撃を行う砲兵。
+j	防空頭巾	防空頭巾	第二次世界大戦中に空襲などの際に飛来物などから頭部…
+j	防衛大臣	防衛大臣	防衛省の長官（大臣）。
+j	雲壌月鼈	雲壌月鼈	両者に大差があるさま。雲壌懸隔、月と鼈。
+j	雲外蒼天	雲外蒼天	試練を乗り越え、努力していけば、青空を望むことがで…
+j	雲形定規	雲形定規	French curve
+j	雲散霧消	雲散霧消	scattering like clouds an…
+j	雲泥の差	雲泥の差	"the difference between c…
+j	雲泥万里	雲泥万里	two things that are poles…
+j	雲竜井蛙	雲竜井蛙	天を駆け巡る竜と井戸の底にいる蛙のように格が違いす…
+j	雲翻雨覆	雲翻雨覆	翻雲覆雨の別形。
+j	雲雀千鳥	雲雀千鳥	
+j	雲飜雨覆	雲飜雨覆	雲翻雨覆の別形。
+j	露和辞典	露和辞典	ロシア語の単語や熟語を、日本語で定義し、用法等を解…
+j	露地栽培	露地栽培	施設を利用せず、露天の耕地で行う栽培。
+j	露天風呂	露天風呂	an outdoor bath, often at…
+j	露悪趣味	露悪趣味	being apt to make a show …
+j	露西亜語	露西亜語	「ロシア語」の漢字表記。
+j	露露辞典	露露辞典	ロシア語の語句をロシア語で定義した辞典を、ロシア語…
+j	飲みサー	飲みサー	表向きは健全な活動内容を掲げながら、実際には飲み会…
+j	飲み干す	飲み干す	drink up, gulp down, empt…
+j	飲み放題	飲み放題	all you can drink
+j	飲み止し	飲み止し	unfinished drink
+j	飲み込み	飲み込み	swallowing
+j	飲み込む	飲み込む	to swallow; to gulp down
+j	飲めない	飲めない	
+j	飲んべえ	飲んべえ	
+j	飲ん兵衛	飲ん兵衛	大酒を飲む人。よく酒を飲む人。飲んだくれ。
+j	飲酒運転	飲酒運転	酒を飲んで体内のアルコールが分解されきらないうちに…
+k	갑골문자	甲骨文字	
+k	갑과 을	甲과 乙	A and B, former and latter
+k	갑상선종	甲状腺腫	goitre
+k	갑상선종	甲狀腺腫	goitre
+k	곡해하다	曲解하다	to misconstrue, to misint…
+k	노숙하다	露宿하다	to sleep in the open
+k	방수하다	防水하다	to waterproof
+k	방어기제	防禦機制	defense mechanism
+k	방어하다	防禦하다	to defend
+k	비관주의	悲観主義	
+k	비관주의	悲觀主義	
+k	색정 도착	色情倒錯	
+k	색정 작품	色情作品	
+k	성대결절	聲帶結節	
+k	음주운전	飲酒運転	
+k	지완하다	遲緩하다	to be slow, to be tardy
+k	지지부진	遲遲不進	sluggishness
+k	진군하다	進軍하다	to launch a military adva…
+k	진보주의	進步主義	
+k	진보주의	進歩主義	
+k	진퇴양난	進退両難	
+k	진퇴양난	進退兩難	
+k	포희미아	蒲希米亜	Bohemia
+k	포희미아	蒲希米亞	Bohemia
+j	仲よくなる	仲よくなる	
+j	割り切れる	割り切れる	be divisible
+j	割り前勘定	割り前勘定	割り勘に同じ。
+j	割り勘する	割り勘する	
+j	割り当てる	割り当てる	to assign, to disseminate…
+j	割三角関数	割三角関数	三角関数のうち、他の三角関数の逆数で得られる正割関…
+j	咲き乱れる	咲き乱れる	to bloom all over at once
+j	咲き溢れる	咲き溢れる	to bloom in profusion
+j	売りさばく	売りさばく	
+j	売りつくし	売りつくし	
+j	売り切れる	売り切れる	to sell out; to be sold o…
+j	売り飛ばす	売り飛ばす	to sell off
+j	売上総利益	売上総利益	売上高から売上原価を差し引いた利益。粗利。
+j	売春ツアー	売春ツアー	
+j	干し草の山	干し草の山	
+j	悲しませる	悲しませる	
+j	悲観主義者	悲観主義者	pessimist
+j	憲法化する	憲法化する	
+j	憲法裁判所	憲法裁判所	constitutional court
+j	憲法記念日	憲法記念日	日本国憲法の施行を祝う国民の祝日。5月3日。
+j	懲らしめる	懲らしめる	chastise, punish, scold
+j	捲し立てる	捲し立てる	to talk on and on; to rat…
+j	擲弾発射器	擲弾発射器	擲弾を発射するための火器。グレネードランチャー。
+j	曲げやすい	曲げやすい	
+j	液晶パネル	液晶パネル	LCD, Liquid Crystal Displ…
+j	液状化現象	液状化現象	地震などにより地盤が液状化する現象。
+j	甲信越地方	甲信越地方	旧国名の甲斐・信濃・越後の3国、すなわち現在の山梨…
+j	甲状披裂筋	甲状披裂筋	a thyroarytenoid muscle
+j	甲状腺挙筋	甲状腺挙筋	a levator of thyroid gland
+j	甲状舌骨筋	甲状舌骨筋	a thyrohyoid muscle
+j	疲れさせる	疲れさせる	
+j	疲れました	疲れました	
+j	盲亀の浮木	盲亀の浮木	滅多に出会えることのないことの例え。
+j	盲腸炎手術	盲腸炎手術	appendectomy
+j	砲弾の餌食	砲弾の餌食	cannon fodder
+j	色目を使う	色目を使う	異性として関心があることを仄めかす目付きで相手を見…
+j	色覚異常の	色覚異常の	
+j	莲花生大士	莲花生大士	
+j	襲い掛ける	襲い掛ける	attack, rush on, jump
+j	農林水産業	農林水産業	農業と林業と水産業。
+j	農林水産省	農林水産省	農業、林業、水産業に関する業務を行う日本の中央省庁。
+j	進化生物学	進化生物学	
+j	進次郎構文	進次郎構文	小泉進次郎構文。
+j	進歩主義者	進歩主義者	進歩主義の立場をとりそれを主張する者。
+j	進行方向の	進行方向の	
+j	防塵マスク	防塵マスク	浮遊する粉塵などの吸入を防止するため口と鼻の周囲を…
+j	防犯カメラ	防犯カメラ	security camera
+j	防犯ブザー	防犯ブザー	不審者がいた際に取っ手を引くと大きな音を鳴らすブザ…
+j	雲間褄黄蝶	雲間褄黄蝶	
+j	雲霞となる	雲霞となる	火葬にされる。
+j	露光させる	露光させる	
+j	飲み明かす	飲み明かす	to drink the night away
+j	飲んだくれ	飲んだくれ	drunkard
+k	곡절 부호	曲折 符号	circumflex
+k	곡절 부호	曲折 符號	circumflex
+k	녹화	録画/録畵	recording (a video)
+k	농림토양학	農林土壌学	
+k	농림토양학	農林土壤學	
+k	마약탐지견	痲薬探知犬	
+k	마약탐지견	痲藥探知犬	
+k	방위산업체	防衛産業体	defense industry
+k	방위산업체	防衛産業體	defense industry
+k	방패	防牌/旁牌	shield
+k	사적	史跡/史蹟	historic site
+k	사화	史画/史畵	Korean literati purges
+k	사화	史畫/史畵	Korean literati purges
+k	세월부대인	歲月不待人	time and tide wait for no…
+k	액화석유가스	液化石油‒	liquefied petroleum gas
+k	욕망	欲望/慾望	desire, lust, appetite, c…
+k	욕심	欲心/慾心	greed
+k	운라	雲鑼/雲羅	a set of ten small tuned …
+k	음주측정기	飲酒測定器	
+k	중매	仲媒/中媒	matchmaking
+k	진보주의자	進步主義者	
+k	진보주의자	進歩主義者	
+k	헌법재판소	憲法裁判所	constitutional court
+j	串刺しにする	串刺しにする	
+j	仲直りさせる	仲直りさせる	
+j	割り切れない	割り切れない	be indivisible
+j	割り切れなさ	割り切れなさ	
+j	割礼を行なう	割礼を行なう	
+j	哲婦国を傾く	哲婦国を傾く	明哲な女は国政の万事に口出しするので、かえって国家…
+j	売春婦を買う	売春婦を買う	
+j	干し草置き場	干し草置き場	
+j	干戈を収める	干戈を収める	
+j	悲しみの聖母	悲しみの聖母	
+j	悲喜こもごも	悲喜こもごも	bittersweet
+j	悲鳴をあげる	悲鳴をあげる	
+j	悲鳴を上げる	悲鳴を上げる	to let out a scream (or o…
+j	曲がりくねる	曲がりくねる	
+j	曲者の空笑い	曲者の空笑い	信用のできない作り笑い。
+j	液化天然ガス	液化天然ガス	
+j	液化石油ガス	液化石油ガス	石油を精製する際に出るプロパン、ブタン、プロピレン…
+j	甲斐甲斐しい	甲斐甲斐しい	moving sharply in a produ…
+j	盲目的愛国者	盲目的愛国者	
+j	盲蛇に怖じず	盲蛇に怖じず	盲人は、気味の悪い蛇の姿を見たことが無いから、それ…
+j	砲丸投げ選手	砲丸投げ選手	
+j	色の落ちない	色の落ちない	
+j	農林水産大臣	農林水産大臣	農林水産省の長たる国務大臣。
+j	農業協同組合	農業協同組合	農業協同組合法に基づき農業を営む個人、法人によって…
+j	農業高等学校	農業高等学校	農業に関する課程を設置する高等学校。農高。
+j	防弾チョッキ	防弾チョッキ	
+j	防水加工する	防水加工する	
+j	露出アンダー	露出アンダー	写真の露出が過少であるために暗く写ってしまうこと。
+j	露出オーバー	露出オーバー	写真の露出が過大であるために明るく写り過ぎてしまう…
+j	仲間外れにする	仲間外れにする	
+j	干し草の山の針	干し草の山の針	
+j	曲がりくねった	曲がりくねった	
+j	欲の熊鷹股裂く	欲の熊鷹股裂く	
+j	液晶タブレット	液晶タブレット	pen display
+j	疲れを知らない	疲れを知らない	
+j	色気より食い気	色気より食い気	色欲より食欲を優先する。転じて見た目や形より実質を…
+j	色眼鏡を掛ける	色眼鏡を掛ける	
+j	液晶ディスプレイ	液晶ディスプレイ	liquid crystal display, L…
+j	甲状腺機能低下症	甲状腺機能低下症	
+j	色をかえ品をかえ	色をかえ品をかえ	「手をかえ品をかえ」と同じ。
+j	飲みニケーション	飲みニケーション	communication between peo…
+j	割殻食わぬ上人なし	割殻食わぬ上人なし	殺生を禁じられた上人でさえ精進料理の海藻に紛れ込ん…
+j	売りオペレーション	売りオペレーション	オープンマーケットオペレーションのうち、市中から現…
+j	売り言葉に買い言葉	売り言葉に買い言葉	相手の暴言に対して、それ相応の調子や同じような暴言…
+j	曲がりくねっている	曲がりくねっている	
+j	液化石油ガス設備士	液化石油ガス設備士	液化石油ガスの設備工事や点検を行う職業。
+j	進行性骨化性線維異形成症	進行性骨化性線維異形成症	
+k	진행성 골화성 섬유이형성증	進行性骨化性繊維異形成症	
+k	진행성 골화성 섬유이형성증	進行性骨化性纖維異形成症	

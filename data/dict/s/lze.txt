@@ -1,0 +1,892 @@
+j	ぜ	ze	sentence-ending particle …
+j	是	ze	right, justice
+e	zee	zee	1 meaning
+e	zen	zen	1 meaning
+j	全	zen	entire, complete, overall
+j	善	zen	good, good deed
+j	然	zen	-like; resembling
+j	禅	zen	dhyana-samadhi
+j	税	zei	tax, duty, customs (money…
+j	膳	zen	small Japanese meal tray
+j	贅	zei	luxury, extravagance
+e	zeal	zeal	1 meaning
+e	zebu	zebu	1 meaning
+e	zero	zero	6 meanings
+e	zest	zest	1 meaning
+e	zeta	zeta	1 meaning
+e	zeus	zeus	1 meaning
+j	ぜえぜえ	zeze	wheezing, gasping (the so…
+j	ぜき	zeki	相撲において、四股名につける関取への敬称。「～関」。
+j	ぜに	zeni	金属製の貨幣。
+j	ゼタ	zeta	zetta-
+j	ゼファー	zefa	
+j	ゼブ	zebu	zebu
+j	ゼミ	zemi	「ゼミナール」の略。
+j	ゼリー	zeri	jelly (dessert)
+j	ゼロ	zero	zero (number)
+j	ゼータ	zeta	Ζ, ζ: the Greek letter ze…
+j	ゼーレ	zere	synonym of 魂 (tamashī, “s…
+j	前胃	zeni	複数の胃を持つ動物で、食道に近い側の胃。
+j	単于	zenu	chanyu (a supreme ruler o…
+j	善意	zeni	good intentions, goodwill
+j	是非	zehi	right and wrong
+j	禅位	zeni	天子がその地位を譲ること。
+j	銭	zeni	a round coin with a squar…
+e	zebra	zebra	1 meaning
+e	zelda	zelda	1 meaning
+j	ぜいご	zeigo	アジの持つとげのような鱗のこと。稜鱗。ぜんご。
+j	ぜんいん	zenin	全員: everyone
+j	ぜんき	zenki	前記: preface; the aforemen…
+j	ぜんぎ	zengi	前戯: foreplay
+j	ぜんこ	zenko	全戸: all the houses
+j	ぜんご	zengo	pointy scales near the ta…
+j	ぜんぞう	zenzo	善蔵: a male given name
+j	ぜんぶ	zenbu	
+j	ぜんら	zenra	全裸: to be wearing nothing…
+j	ゼウス	zeusu	Zeus
+j	ゼット	zetto	The name of the Latin scr…
+j	ゼッド	zeddo	ラテンアルファベットの最後の文字。
+j	全備	zenbi	完全に装備されていること。完備。
+j	全像	zenzo	全体像。
+j	全党	zento	all political parties
+j	全功	zenko	a male given name
+j	全句	zenku	俳句などの句全体。
+j	全員	zenin	everybody; all members
+j	全土	zendo	the whole country
+j	全容	zenyo	entire appearance (容貌) or…
+j	全島	zento	その島全体。
+j	全戸	zenko	一家内のすべて。
+j	全数	zensu	調べる対象の全ての数。
+j	全機	zenki	仏教で働きや機能全体。生活全体。
+j	全癒	zenyu	病気やけががすっかり治癒すること。全快。本復。
+j	全盲	zenmo	entirely blind; completel…
+j	全縁	zenen	葉縁が平坦で滑らかになっておりぎざぎざの無いこと。
+j	全美	zenbi	完全に整い、すべてに良いこと。また、そのようなさま。
+j	全聾	zenro	being fully deaf
+j	全能	zenno	omnipotent
+j	全裸	zenra	To be wearing nothing; st…
+j	全貌	zenbo	the whole picture, the fu…
+j	全躯	zenku	体全体。全身。
+j	全部	zenbu	the whole thing; everythi…
+j	全院	zenin	その院全体。
+j	全音	zenon	二つの半音を含む音程。長二度の音程。
+j	前世	zense	previous life; past life;…
+j	前功	zenko	先人の功績。
+j	前古	zenko	むかし。いにしえ。
+j	前号	zengo	previous issue
+j	前因	zenin	前世の因縁。
+j	前坊	zenbo	前の皇太子。先坊。
+j	前報	zenpo	先の知らせ。先報。
+j	前場	zenba	株式市場で午前の取引。
+j	前夜	zenya	eve, the night before
+j	前夫	zenpu	one's ex-husband, former …
+j	前奏	zenso	prelude
+j	前婦	zenpu	かつての妻。先婦。
+j	前座	zenza	opening to a performance;…
+j	前後	zengo	front and behind
+j	前戯	zengi	foreplay
+j	前方	zenpo	the front, the area befor…
+j	前期	zenki	the first or earlier part
+j	前条	zenjo	前に記された条項、条文。
+j	前港	zenko	河川の港で大型の船舶が入港できる河口またはそれに近…
+j	前灯	zento	乗り物で前方を照らす灯火。前照灯。
+j	前科	zenka	criminal record, previous…
+j	前納	zenno	前もって金銭などを納めること。
+j	前縁	zenen	leading edge
+j	前胡	zenko	dried roots of Angelica d…
+j	前脳	zenno	脊椎動物の個体が発生する際、神経管の先端にできる膨…
+j	前行	zenko	前進すること。
+j	前衛	zenei	vanguard (leading units o…
+j	前記	zenki	preface, the opening sect…
+j	前途	zento	future, prospects, outlook
+j	前過	zenka	過去に犯した過ち。
+j	前部	zenbu	front part, the front
+j	前陰	zenin	生殖器。陰部。
+j	前非	zenpi	以前に犯した罪過や悪事。
+j	善三	zenzo	a male given name
+j	善事	zenji	よい行い。
+j	善友	zenyu	善い友人。
+j	善否	zenpi	良いことと、そうでないこと。善し悪し。善悪。
+j	善図	zento	良計。
+j	善報	zenpo	善行を積むことで得られるよい報い。
+j	善導	zendo	guiding benevolently
+j	善業	zengo	good deeds
+j	善法	zenpo	道理にかない、自分の利益となる方法。
+j	善狐	zenko	good foxes or Inari foxes
+j	善用	zenyo	good use
+j	善美	zenbi	goodness and beauty
+j	善蔵	zenzo	a male given name
+j	善行	zenko	good deed, benevolence
+j	善途	zento	善根を積む道。
+j	噬狗	zeiku	噛み癖のある犬。
+j	噬膚	zeifu	肌を噛む。
+j	女衒	zegen	someone who professionall…
+j	巛部	zenbu	部首「⼮」で分類した漢字の一群。
+j	是正	zesei	correction
+j	是認	zenin	approval
+j	毳布	zeifu	毛布。
+j	毳袍	zeibo	毛の長衣。
+j	漸増	zenzo	だんだん増えること。
+j	漸悟	zengo	修行の進展に応じて段階的に悟りが達成されること。
+j	漸次	zenji	gradually
+j	漸苞	zenbo	茂ること。
+j	漸騰	zento	相場・物価などが段段高くなること。
+j	然乃	zenjo	しかる後に。それから。
+j	禅定	zenjo	六波羅蜜の一つ。心を静寂にし、一点に集中させる瞑想。
+j	禅家	zenke	禅宗。また、その寺院。
+j	禅師	zenji	朝廷から知徳が優れた禅僧に贈られる称号。
+j	禅庵	zenan	禅僧の庵室。
+j	禅徒	zento	仏教徒の総称。
+j	禅房	zenbo	禅寺の僧房。
+j	禅杖	zenjo	坐禅の際、眠気を覚ますための杖。
+j	禅榻	zento	坐禅をする時に使用する腰掛け。
+j	禅機	zenki	禅で無我の境地を得た者から出る心の働き。
+j	禅法	zenpo	禅定による修行の方法。
+j	禅語	zengo	禅宗独特のことば・術語。
+j	禅那	zenna	dhyana
+j	禅鋒	zenpo	禅機。
+j	禅院	zenin	禅宗寺院。禅寺。
+j	税務	zeimu	租税の賦課や徴収などに関する行政の事務。
+j	税法	zeiho	tax law; taxation law
+j	税賦	zeifu	年貢。
+j	税駕	zeiga	車に繋がれていた馬を解き放つこと。
+j	筮法	zeiho	易の卦を筮竹の数により得る方法。占筮法。
+j	絶交	zekko	breakup; breaking off one…
+j	絶佳	zekka	この上なくよいこと。非常に美しいこと。
+j	絶倒	zetto	笑い転げること。
+j	絶句	zekku	being at a loss for words
+j	絶奇	zekki	非常に珍しいこと。奇絶。
+j	絶好	zekko	excellent
+j	絶家	zekke	後を継ぐ者がおらず家が絶えること。また、その家。
+j	絶島	zetto	遠隔の島。孤島。
+j	絶棄	zekki	すべて棄てること。
+j	絶気	zekki	死ぬこと。
+j	絶起	zekki	絶望の起床、つまり重要な予定に遅れるほどの寝坊。
+j	絶高	zekko	非常に高いこと。この上なく高大なこと。
+j	脆化	zeika	金属などが様々な要因により脆くなること。
+j	膳夫	zenpu	飲食物を調理する者。
+j	膳部	zenbu	膳にのせて提供する食事。
+j	舌下	zekka	舌の下の部分。
+j	舌禍	zekka	slip of the tongue
+j	舌耕	zekko	講談や講義など弁説により生計を立てること。
+j	舌鋒	zeppo	論法や弁舌が激しく鋭いこと。
+j	蚺蛇	zenja	python (a type of snake)
+j	蛻演	zeien	変化すること。
+j	贅冗	zeijo	余分なもの。
+j	贅句	zeiku	無駄な句。必要のない句。
+j	贅語	zeigo	むだな言葉。
+j	髯奴	zendo	口髭が濃い者、特に欧米人を指す。
+e	zealot	zealot	1 meaning
+e	zenith	zenith	3 meanings
+e	zephyr	zephyr	2 meanings
+e	zeroth	zeroth	1 meaning
+e	zeugma	zeugma	1 meaning
+j	ぜいぜい	zeizei	激しい運動や呼吸器の疾患などにより呼吸が荒くなった…
+j	ぜいちょう	zeicho	税調: short for 税制調査会
+j	ぜんじん	zenjin	前人: predecessor
+j	ぜんせい	zensei	全盛: height of prosperity
+j	ぜんせん	zensen	前線: front
+j	ぜんたい	zentai	
+j	ぜんまい	zenmai	シダ綱ゼンマイ属に属する植物の一種。別名、ぜんまい…
+j	ゼイヴィア	zeivia	
+j	ゼッケン	zekken	the bib with an athlete's…
+j	ゼニス	zenisu	天頂。
+j	ゼブラ	zebura	しまうま。
+j	ゼプト	zeputo	zepto-
+j	ゼルダ	zeruda	Zelda
+j	全乳	zennyu	脂肪を抜き取らない絞ったままの牛乳。
+j	全休	zenkyu	一日中休みであること。
+j	全会	zenkai	whole assembly (everyone …
+j	全体	zentai	entirety
+j	全入	zennyu	すべて入れること。
+j	全判	zenban	印刷用紙で原紙の規格寸法で裁断されていない紙。
+j	全勝	zensho	complete victory
+j	全問	zenmon	all questions
+j	全域	zeniki	the entire area, the area…
+j	全壊	zenkai	complete destruction
+j	全天	zenten	whole sky
+j	全姿	zenshi	全体のすがたかたち。全容。
+j	全射	zensha	surjection
+j	全州	zenshu	
+j	全巻	zenkan	全ての巻。
+j	全市	zenshi	その市全体。
+j	全店	zenten	その店舗全体（の商品）。
+j	全快	zenkai	complete healing (of an i…
+j	全性	zensei	天性を全うすること。
+j	全成	zensei	すべて成し遂げること。
+j	全損	zenson	a total loss, a write-off
+j	全敗	zenpai	utter defeat
+j	全整	zensei	完整。
+j	全文	zenbun	full text
+j	全景	zenkei	panoramic view, panorama
+j	全智	zenchi	「全知」の別表記。
+j	全書	zensho	complete book; complete s…
+j	全村	zenson	その村全体。
+j	全権	zenken	full authority, carte bla…
+j	全段	zendan	すべての段または段落。
+j	全治	zenchi	full recovery
+j	全清	zensei	中国の音韻学における子音の分類で、無気無声音のもの。
+j	全点	zenten	全ての点。
+j	全然	zenzen	(not) at all
+j	全焼	zensho	complete destruction by f…
+j	全班	zenpan	すべての班。
+j	全球	zenkyu	地球全体。
+j	全盛	zensei	height of prosperity
+j	全知	zenchi	omniscience
+j	全社	zensha	whole company
+j	全称	zensho	universal quantifier
+j	全稱	zensho	
+j	全篇	zenpen	「全編」の別表記。
+j	全米	zenbei	アメリカ合衆国の全土。
+j	全粒	zenryu	
+j	全紙	zenshi	漉いたままの大きさの和紙。
+j	全線	zensen	all lines of a transporta…
+j	全編	zenpen	all installments
+j	全般	zenpan	something as a whole
+j	全舷	zengen	新聞業界の用語で、記者などが部署ごとに慰安旅行に行…
+j	全船	zensen	全部の船。
+j	全艦	zenkan	全ての艦。
+j	全蠲	zenken	すべてを免れること。
+j	全豹	zenpyo	the whole situation
+j	全車	zensha	すべての車。
+j	全軍	zengun	軍隊や競技のチームに属する全員。
+j	全量	zenryo	entire quantity
+j	全長	zencho	total length, span
+j	全開	zenkai	being all the way open
+j	全隊	zentai	全ての部隊。
+j	全集	zenshu	complete works (of someon…
+j	全霊	zenrei	持っている精神力全部。
+j	全面	zenmen	whole area
+j	全館	zenkan	全ての館
+j	冉冉	zenzen	次第に進行していくさま。次第に侵していくさま。
+j	前主	zenshu	前の君主。
+j	前乳	zennyu	授乳の際、飲み始めに出る薄い母乳。
+j	前人	zenjin	predecessor; person before
+j	前代	zendai	今よりも前の時代。
+j	前任	zennin	one's former post or appo…
+j	前例	zenrei	precedent
+j	前傾	zenkei	体などを前の方向へ傾けること。
+j	前兆	zencho	harbinger, omen, premonit…
+j	前前	zenzen	かつて。以前。
+j	前半	zenhan	first half
+j	前史	zenshi	ある歴史的な事象の起因を説明するために書くそれ以前…
+j	前哨	zensho	frontline
+j	前回	zenkai	last time (the previous o…
+j	前妻	zensai	ex-wife; former wife
+j	前官	zenkan	前に任命されていた官職。
+j	前宵	zensho	前夜。昨夜。
+j	前山	zenzan	
+j	前巻	zenkan	前の巻。
+j	前年	zennen	the previous year, last y…
+j	前庭	zentei	front garden, front yard
+j	前彦	zengen	前賢。
+j	前念	zennen	一刹那を前後に分けた前半の瞬間。
+j	前愆	zenken	前過。
+j	前掲	zenkei	前に掲げたり述べたりしたもの。
+j	前提	zentei	prerequisite
+j	前文	zenbun	the above sentence; the p…
+j	前星	zensei	皇太子の異称。
+j	前晩	zenban	前の晩。昨晩。
+j	前景	zenkei	foreground
+j	前柱	zenchu	脊髄の灰白質の前側。前角。
+j	前検	zenken	前日検査の略。公営競技などで開催の前日に出場選手に…
+j	前段	zendan	前の段。また、前出た一つのくぎり。
+j	前殿	zenden	前後にある殿舎のうち前方のもの。
+j	前漢	zenkan	紀元前202年から紀元後8年までの漢王朝の通称。
+j	前生	zensho	生まれる前の世。前世。
+j	前知	zenchi	何かが起こる前に知ること。予知。
+j	前程	zentei	行く先。
+j	前端	zentan	front end
+j	前篇	zenpen	「前編」の別表記。
+j	前線	zensen	frontline of a warzone
+j	前編	zenpen	a prequel
+j	前罪	zenzai	以前犯した罪。
+j	前置	zenchi	placing before
+j	前翅	zenshi	昆虫で中胸部から出る前部一対の翅。
+j	前者	zensha	the former
+j	前聖	zensei	むかしの聖人。
+j	前肢	zenshi	足が四本ある動物の、頭に近いほうの二本の足。まえあ…
+j	前腕	zenwan	a forearm; an antebrachium
+j	前菜	zensai	appetizer, starter, hors …
+j	前衝	zensho	A piece in Ko shogi, whic…
+j	前表	zenpyo	前に掲げた図表。
+j	前見	zenken	予め調べること。予め見ておくこと。
+j	前言	zengen	previous remarks, last st…
+j	前賢	zenken	昔の賢人。先哲。
+j	前蹤	zensho	先人の事業の跡。先蹤。
+j	前転	zenten	前方に回転すること。
+j	前輪	zenrin	前後に車輪が付いている乗り物の前の車輪。
+j	前週	zenshu	the previous week
+j	前門	zenmon	a front gate
+j	前電	zenden	以前に打った電報。
+j	前面	zenmen	the front, the part in fr…
+j	前験	zenken	前兆。
+j	善人	zennin	good person; virtuous per…
+j	善哉	zenzai	red-bean soup
+j	善声	zensei	美声。
+j	善女	zennyo	a pious woman; a woman wi…
+j	善将	zensho	良将。
+j	善巧	zengyo	衆生の機根に応じ、巧みに教化する手段。
+j	善弁	zenben	巧弁。
+j	善念	zennen	良い心。善良な気持ち。
+j	善悪	zenaku	good and evil
+j	善意の	zenino	
+j	善感	zenkan	種痘が上手くつくこと。
+j	善戦	zensen	good fight; fighting to t…
+j	善根	zenkon	よい果報を招くための元となるよい行い。
+j	善現	zengen	「善現天」の略。
+j	善祥	zensho	めでたい印。吉祥。瑞祥。
+j	善良	zenryo	goodness; virtue
+j	善見	zenken	「善見天」の略。
+j	善言	zengen	手本となる良い言葉。
+j	善趣	zenshu	現世で善行をした者が死後に赴く世界。天、人、阿修羅…
+j	善逝	zenzei	仏（如来）の十号（十個の称号）の一つ。煩悩を絶って…
+j	喘鳴	zeimei	気管支の狭窄などにより呼吸に伴いぜーぜー、ヒューヒ…
+j	噬斉	zeisei	臍を噛むこと。後悔。
+j	噬犬	zeiken	噛み癖のある犬。
+j	噬臍	zeisei	臍を噬むこと。後悔。
+j	帨巾	zeikin	手拭き。
+j	漸変	zenhen	次第にゆっくりと変化すること。
+j	漸将	zensho	次第に進むこと。漸進。
+j	漸教	zenkyo	衆生の機根に応じ、易しい教えから段階的に教え導くこ…
+j	漸近	zenkin	asymptote
+j	禅制	zensei	禅譲の詔。
+j	禅宗	zenshu	Zen Buddhism
+j	禅棲	zensei	出家。
+j	禅源	zengen	本覚。
+j	禅牀	zensho	禅榻。
+j	禅行	zengyo	禅の修行。
+j	禅門	zenmon	禅宗。
+j	税介	zeikai	甲を脱ぐこと。
+j	税制	zeisei	taxation system
+j	税収	zeishu	revenue, yield of taxes, …
+j	税契	zeikei	権利証書。
+j	税政	zeisei	租税に関する行政。
+j	税権	zeiken	課税できる権利。
+j	税糧	zeiryo	主に中国明の時代での土地にかかる租税。
+j	税調	zeicho	税制調査会の略。
+j	税金	zeikin	tax
+j	税鈔	zeisho	税金。
+j	税銀	zeigin	税金。
+j	税関	zeikan	customs house
+j	税餉	zeisho	租税。
+j	筮験	zeiken	卜筮の験。
+j	絶体	zettai	「絶体絶命」の略。
+j	絶叫	zekkyo	screaming / shouting at t…
+j	絶品	zeppin	item/work of outstanding …
+j	絶境	zekkyo	人里離れ、人がほとんど住んでいないような場所。
+j	絶対	zettai	absolute, limitless
+j	絶嶮	zekken	絶険。
+j	絶景	zekkei	breathtaking scenery
+j	絶海	zekkai	distant sea
+j	絶版	zeppan	out of print
+j	絶賛	zessan	high praise, rave review
+j	絶険	zekken	切り立って非常に険しいこと。また、そのようなさま。
+j	絶頂	zetcho	top; summit; peak (highes…
+j	繕性	zensei	性を養い、おさめること。
+j	繕生	zensei	繕性。
+j	耎脆	zenzei	弱いさま。
+j	脆亮	zeiryo	清脆なこと。また、そのようなさま。
+j	脆性	zeisei	brittleness
+j	膳司	zenshi	a 律令 (ritsuryō) position …
+j	膳献	zenken	供献するもの。
+j	膳番	zenban	膳部の番人、またはその担当。
+j	舌剣	zekken	剣のように鋭い弁舌。舌鋒。
+j	舌尖	zessen	tonguetip
+j	舌戦	zessen	弁舌による戦い。
+j	舌端	zettan	舌の先端。
+j	舌筋	zekkin	a tongue muscle
+j	舌苔	zettai	病気などにより舌の表面に苔が生えたようにできる付着…
+j	苒苒	zenzen	草が盛んに生い茂ること。
+j	薇	zenmai	Japanese flowering fern (…
+j	蛻変	zeihen	蟬が卵、幼虫、成虫と姿を変えること。
+j	蛻形	zeikei	脱皮。
+j	蛻留	zeiryu	ぬけがらが残ること。
+j	蛻解	zeikai	仙術で肉体は生時と変わらず、霊魂だけ体外に抜け出す…
+j	蛻變	zeihen	蛻変の旧字体表記。
+j	蝉退	zentai	蝉の脱け殻。漢方で生薬の一つとして用いられる。
+j	蟬退	zentai	蟬の脱け殻。漢方で生薬の一つとして用いられる。
+j	蠕動	zendou	芋虫やミミズなどのように体全体の伸縮を用いて動くこ…
+j	蠕虫	zenchu	worm
+j	蠕蠕	zenzen	小さな虫やそのようなものが蠢くさま。
+j	贅婿	zeisei	夫が妻の家に婿として入ること。入婿。
+j	贅弁	zeiben	無駄な言葉。贅言。
+j	贅文	zeibun	無駄な文字や文句。
+j	贅瘤	zeiryu	無用な瘤。
+j	贅聚	zeishu	集めること。
+j	贅言	zeigen	無駄な言葉を言うこと。また、その言葉。
+j	贅賸	zeisho	無駄。
+j	銭座	zeniza	江戸時代に江戸幕府の下請けで硬貨を製造した業者。
+j	零和	zerowa	zero-sum
+e	zealand	zealand	1 meaning
+e	zealous	zealous	1 meaning
+e	zebedee	zebedee	1 meaning
+e	zedoary	zedoary	1 meaning
+e	zeeland	zeeland	1 meaning
+e	zelkova	zelkova	1 meaning
+e	zemfira	zemfira	1 meaning
+e	zemstvo	zemstvo	1 meaning
+e	zeralda	zeralda	1 meaning
+e	zermatt	zermatt	1 meaning
+j	ぜっぺき	zeppeki	絶壁: a precipice
+j	ぜにあおい	zeniaoi	銭葵: common mallow (Malva …
+j	ぜんかく	zenkaku	全角: em, em quad (printing…
+j	ぜんこく	zenkoku	
+j	ぜんじろう	zenjiro	善治郎: a male given name
+j	ぜんふり	zenfuri	maxxing out only one stat…
+j	ゼスチャー	zesucha	「ジェスチャー」の表記ゆれ。
+j	ゼット旗	zettoki	The Z semaphore flag. It …
+j	ゼネコン	zenekon	general contractor
+j	ゼベダイ	zebedai	Zebedee
+j	ゼロヨン	zeroyon	自動車やバイクで停止した状態から400メートル走行…
+j	ゼロ打ち	zerochi	選挙で出口調査などの結果から投票の終了と同時に当確…
+j	全クリ	zenkuri	
+j	全体を	zentaio	
+j	全割れ	zenware	想定される震源域全体が一度に破壊されて起きる巨大地…
+j	全国	zenkoku	the whole country; the en…
+j	全学	zengaku	大学内の全部。大学全体。
+j	全幅	zenpuku	being on all fronts
+j	全摘	zenteki	synonym of 全摘出
+j	全璧	zenpeki	全てが備わっていること。欠点がないこと。
+j	全的	zenteki	全てがそうであるさま。すべてに及ぶさま。
+j	全能の	zennono	
+j	全自動	zenjido	完全に自動であること。自分から手を加える必要がない…
+j	全角	zenkaku	the state of being fullwi…
+j	全訳	zenyaku	complete translation
+j	全身	zenshin	the whole body, head to t…
+j	全速	zensoku	「全速力」の略。
+j	全部で	zenbude	
+j	全部の	zenbuno	
+j	全音符	zenonpu	
+j	全額	zengaku	total amount
+j	全駒	zengoma	ひとそろいの駒のすべて。全部の駒。
+j	前作	zensaku	previously created work, …
+j	前壁	zenpeki	前方の壁。
+j	前夕	zenseki	the previous night; last …
+j	前席	zenseki	前にある席。
+j	前引け	zenbike	株式市場で午前の最後の取引。
+j	前打音	zendaon	西洋音楽で、ある音符の前に短く演奏される音。倚音。
+j	前約	zenyaku	promise that was made in …
+j	前翼	zenyoku	前方に取り付けた水平尾翼。先尾翼。カナード
+j	前膊	zenpaku	前腕。
+j	前角	zenkaku	脊髄の灰白質の前側。前柱。
+j	前諾	zendaku	以前、承諾したこと。
+j	前跡	zenseki	先人の事跡。
+j	前身	zenshin	a person's past
+j	前進	zenshin	advance, advancement, pro…
+j	前陳	zenchin	前に述べたこと。
+j	前震	zenshin	本震の前触れとして発生する比較的小さい地震。
+j	前頭葉	zentoyo	a frontal lobe
+j	善俗	zenzoku	良俗。
+j	善治郎	zenjiro	a male given name
+j	善法堂	zenpodo	忉利天にある帝釈天の善見城の外にある堂宇。
+j	善神	zenshin	善良な神。福をもたらす神。
+j	喘息	zensoku	asthma
+j	染心	zenshin	性欲などの煩悩に汚れた心。
+j	漸進	zenshin	gradual progress
+j	然諾	zendaku	引き受けること。
+j	禅学	zengaku	Zen studies; Zen practice
+j	禅客	zenkaku	禅を修行する僧侶。
+j	禅寺	zendera	Zen temple
+j	禅席	zenseki	座禅を行う場所
+j	禅心	zenshin	一点のことに集中し、乱れることのない禅定の心。
+j	禅閣	zenkaku	禅宗の寺院。禅寺。
+j	税抜き	zeinuki	tax excluded; without tax…
+j	税込み	zeikomi	tax included; with tax; a…
+j	税額	zeigaku	租税の金額。税金の額。
+j	筮卜	zeiboku	筮竹を使って行う占い。
+j	絶する	zessuru	to be unspeakable; to be …
+j	絶亡	zetsubo	滅亡すること。
+j	絶伎	zetsugi	絶技。
+j	絶唱	zesshou	
+j	絶壁	zeppeki	a precipice (a very steep…
+j	絶息	zessoku	息が絶えること。死ぬこと。絶命。
+j	絶技	zetsugi	極めて優れた技術や演技。
+j	絶望	zetsubo	despair; hopelessness
+j	絶縁	zetsuen	ending contact
+j	絶美	zetsubi	この上なく美しいこと。また、そのようなさま。
+j	絶艶	zetsuen	最上級に美しいこと。また、そのさま。
+j	絶豔	zetsuen	最上級に美しいこと。また、そのさま。
+j	絶貌	zetsubo	容色が非常によいこと。絶色。
+j	絶足	zessoku	高足。
+j	絶遠	zetsuen	極めて遠いこと。また、そのさま。
+j	脆弱	zeijaku	vulnerable, fragile, dest…
+j	脆薄	zeihaku	脆く薄いこと。また、そのさま。
+j	膳立て	zendate	setting out a meal on a t…
+j	膳組	zengumi	膳に並べる料理の種類や数などを定めること。また、そ…
+j	舌炎	zetsuen	glossitis
+j	舌診	zesshin	望診の一つで患者の舌を観察し経絡の異常を診察するこ…
+j	舌部	zetsubu	部首「⾆」で分類した漢字の一群。
+j	舌音	zetsuon	a lingual sound
+j	蛻殻	zeikaku	脱皮。
+j	説客	zeikaku	諸国をめぐり、遊説する士。
+j	贅沢	zeitaku	luxury; extravagance
+j	贅肉	zeiniku	excess fat on one's body,…
+j	銭葵	zeniaoi	common mallow (Malva sylv…
+e	zebibyte	zebibyte	1 meaning
+e	zeppelin	zeppelin	1 meaning
+e	zettabit	zettabit	1 meaning
+j	ぜっちょうおん	zetchoon	舌頂音: coronal consonant
+j	ぜっぱいおん	zeppaion	舌背音: dorsal consonant
+j	ぜにがめ	zenigame	ニホンイシガメもしくはクサガメの幼体のこと。
+j	ぜにみせ	zenimise	江戸時代、金貨や銀貨を銭と交換することを業とした、…
+j	ぜひとも	zehitomo	是非とも, 是非共: by all means (…
+j	ぜんりょうだ	zenryoda	
+j	ゼカリヤ	zekariya	
+j	ゼニガメ	zenigame	「銭亀」の学術的表記。
+j	ゼネスト	zenesuto	「ゼネラル・ストライキ」の略。総同盟罷業。大規模に…
+j	ゼネラル	zeneraru	general; universal
+j	ゼノフォーブ	zenofobu	
+j	ゼミナール	zeminaru	seminar
+j	ゼムフィラ	zemufira	
+j	ゼラチン	zerachin	gelatin (a protein derive…
+j	ゼラルダ	zeraruda	
+j	ゼロから	zerokara	一から。
+j	ゼロベース	zerobesu	ゼロベース予算の略。各部の予算をすべてゼロにもどし…
+j	ゼータ株	zetakabu	
+j	全世界	zensekai	the whole world
+j	全体の	zentaino	
+j	全体像	zentaizo	一纏まりのものとして見た姿形。全像。
+j	全冊	zensatsu	複数の冊子からなる書物の全部。
+j	全割	zenkatsu	動物の発生段階で卵割が受精卵全体にわたるもの。等割…
+j	全力	zenryoku	utmost, full power
+j	全区間	zenkukan	全ての区間。
+j	全天の	zentenno	
+j	全射の	zenshano	
+j	全微分	zenbibun	多変数関数に対し、各変数方向への偏微分と無限小の積…
+j	全性愛	zenseiai	pansexuality
+j	全日	zenjitsu	every day
+j	全曲	zenkyoku	the entire tune or song
+j	全消し	zenkeshi	complete clearing
+j	全滅	zenmetsu	annihilation; exterminati…
+j	全画面	zengamen	
+j	全盛期	zenseiki	heyday; glory years
+j	全知の	zenchino	
+j	全裂	zenretsu	植物の葉、花弁、萼などの縁の切れ込みが深く、基部ま…
+j	全部俺	zenbuore	a one-man genre of music …
+j	全音階	zenonkai	diatonic scale
+j	前世界	zensekai	有史以前の世界。
+j	前借	zenshaku	支給日の前に賃金分などを借りること。
+j	前哲	zentetsu	昔の哲人や優れた思想家。先哲。
+j	前夜祭	zenyasai	festivities that take pla…
+j	前後賞	zengosho	宝くじで、当選した番号の前後の番号に与えられる賞。
+j	前日	zenjitsu	the previous day; the day…
+j	前月	zengetsu	last month
+j	前機種	zenkishu	
+j	前烈	zenretsu	祖先の功績。先烈。
+j	前照灯	zenshoto	headlight, front vehicle …
+j	前照燈	zenshoto	
+j	前略	zenryaku	Forgive me for dispensing…
+j	前眼房	zenganbo	anterior chamber (space b…
+j	前職	zenshoku	previous job / occupation
+j	前葉体	zenyotai	シダ植物の配偶体。通常1センチメートル程度のハート…
+j	前蜀	zenshoku	五代十国の一つで、節度使であった王建が907年四川…
+j	前説	zensetsu	前述の説。
+j	前轍	zentetsu	前に通った車の轍。
+j	前述	zenjutsu	the aforementioned, afore…
+j	前面の	zenmenno	
+j	前頭筋	zentokin	a frontalis muscle
+j	前駆体	zenkutai	
+j	是是非非	zezehihi	物事を客観的に公平に判断すること。
+j	是非とも	zehitomo	by all means (with the se…
+j	漸滅	zenmetsu	次第に滅びること。
+j	禅刹	zensatsu	禅寺。
+j	禅問答	zenmondo	Zen riddle dialogue
+j	禅札	zensatsu	在家信者からの書面。
+j	禅窟	zenkutsu	禅僧の庵室。
+j	税別	zeibetsu	tax excluded; excluding t…
+j	税務署	zeimusho	tax office
+j	税率	zeiritsu	tax rate
+j	税理士	zeirishi	a tax accountant
+j	税関吏	zeikanri	customs officer
+j	絶代	zetsudai	その時代に並ぶものがいないこと。
+j	絶倫	zetsurin	unparalleled, peerless
+j	絶域	zetsuiki	遠隔の土地や外国。
+j	絶大	zetsudai	immense
+j	絶好調	zekkocho	going very well; going gr…
+j	絶妙	zetsumyo	exquisite, superb, marvel…
+j	絶対に	zettaini	
+j	絶対の	zettaino	
+j	絶対化	zettaika	
+j	絶弦	zetsugen	愛用の琴の弦を断ち、以後琴をひかないこと。
+j	絶待	zetsudai	互いに対立している関係を超越していること。
+j	絶悪	zetsuaku	悪を断つこと。
+j	絶筆	zeppitsu	the last written work pro…
+j	絶絃	zetsugen	愛用の琴の弦を断ち、以後琴をひかないこと。
+j	絶色	zesshoku	容色が非常によいこと。また、そのようなさま。
+j	絶食	zesshoku	fasting; abstinence from …
+j	膳食	zenshoku	食事。
+j	舌代	zetsudai	口上で述べる代わりに簡単に文章で書いたもの。
+j	舌内	zetsunai	in Sanskrit phonology, co…
+j	舌尖音	zessenon	an apical consonant
+j	舌癌	zetsugan	tongue cancer
+j	舌背音	zeppaion	dorsal
+j	舌言	zetsugen	口先の言葉。
+j	舌頂音	zetchoon	coronal
+j	舌骨	zekkotsu	a hyoid bone
+j	銭ゲバ	zenigeba	金銭への強い執着をからかっていう俗語的表現。
+j	銭亀	zenigame	an immature Japanese pond…
+j	銭苔	zenigoke	Marchantia polymorpha, a …
+e	zealously	zealously	1 meaning
+e	zebrafish	zebrafish	1 meaning
+e	zechariah	zechariah	4 meanings
+e	zeelandic	zeelandic	1 meaning
+e	zeitgeist	zeitgeist	1 meaning
+e	zelenskyy	zelenskyy	1 meaning
+e	zephaniah	zephaniah	1 meaning
+e	zeptomole	zeptomole	1 meaning
+e	zero covid	zerocovid	1 meaning
+e	zettabyte	zettabyte	1 meaning
+j	ぜっしんおん	zesshinon	舌唇音: linguolabial
+j	ぜったいち	zettaichi	絶対値: (mathematics) absolu…
+j	ぜんごさゆう	zengosayu	前後左右: in all directions
+j	ゼクエンツ	zekuentsu	「ゼクウェンツ」の表記ゆれ。
+j	ゼタバイト	zetabaito	zettabyte
+j	ゼタビット	zetabitto	
+j	ゼノジェンダー	zenojenda	
+j	ゼノフォビア	zenofobia	外国人や未知のものに対する嫌悪や恐怖。
+j	ゼビバイト	zebibaito	zebibyte
+j	ゼビビット	zebibitto	zebibit
+j	ゼピュロス	zepyurosu	西風の神。ローマ神話におけるファウォーニウスに相当。
+j	ゼラニウム	zeraniumu	
+j	ゼリービーンズ	zeribinzu	
+j	ゼレンスキー	zerensuki	a transliteration of the …
+j	ゼロカーボン	zerokabon	二酸化炭素の排出量と吸収量が同じであるか吸収量の方…
+j	ゼロックス	zerokkusu	photocopy; xerox
+j	ゼロ番目	zerobanme	
+j	ゼーラント語	zerantogo	ゼーランド語の異綴。
+j	ゼーランド語	zerandogo	オランダのゼーラント州やグーレー＝オーフェルフラッ…
+j	全単射	zentansha	（数学）全射かつ単射である写像。双射、一対一対応と…
+j	全寮制	zenryosei	学校に在籍する人全員が入寮する制度。
+j	全終止	zenshushi	ドミナント（VまたはV7など）からトニック（I）を…
+j	全集中	zenshuchu	一つの事柄にすべての意識を傾けること。
+j	全領域	zenryoiki	
+j	前任者	zenninsha	predecessor
+j	前半戦	zenhansen	
+j	前古未曾有	zenkomizo	昔から一度もないこと。
+j	前哨地	zenshochi	
+j	前哨戦	zenshosen	preliminary skirmish
+j	前失	zenshitsu	以前行った過ちや過失。
+j	前室	zenshitsu	古墳で玄室の前にある小さい部屋。
+j	前後左右	zengosayu	in all directions
+j	前線帯	zensentai	2つの気団の境界の領域。一般に、100km以上の幅…
+j	前線面	zensenmen	気団と気団がぶつかる面。
+j	前置詞	zenchishi	preposition
+j	前臼歯	zenkyushi	小臼歯。
+j	前衛的	zeneiteki	avant-garde
+j	前近代	zenkindai	近代よりも前の時代。
+j	前途洋々	zentoyoyo	good prospects; clear sai…
+j	前途洋洋	zentoyoyo	将来が開け、希望に満ち溢れていること。
+j	前鋸筋	zenkyokin	a serratus anterior muscle
+j	善女人	zennyonin	仏法に帰依し、守る女子。善女。
+j	善現天	zengenten	色界十七天の一つ。善現。
+j	善男子	zennanshi	仏法に帰依し、守る男子。善男。
+j	善見天	zenkenten	色界十七天の一つ。善見。
+j	是正する	zeseisuru	
+j	漸近線	zenkinsen	asymptote
+j	禅室	zenshitsu	坐禅をする部屋。
+j	税収入	zeishunyu	tax revenue
+j	絶俗	zetsuzoku	俗事に関わりを持たないこと。
+j	絶壑	zetsugaku	険しくきりたった谷。
+j	絶学	zetsugaku	学問をやめること。
+j	絶対値	zettaichi	absolute value (numerical…
+j	絶対善	zettaizen	absolute good
+j	絶対性	zettaisei	
+j	絶対悪	zettaiaku	absolute evil
+j	絶対知	zettaichi	知識の最高段階で主観と客観とが統一された哲学的な知…
+j	絶族	zetsuzoku	縁が切れること。
+j	絶続	zetsuzoku	断続すること。
+j	絶許	zetsuyuru	絶対に許せないの略。
+j	脆弱な	zeijakuna	
+j	舌唇音	zesshinon	linguolabial
+j	舌癖	zetsuheki	口の中での舌の位置や動きなどの癖。
+j	贅沢な	zeitakuna	
+j	銭札	zenisatsu	江戸時代から明治の初期にかけて紙幣の額面を銭高を表…
+j	零集合	zeroshugo	測度が 0 の集合。
+e	zebra finch	zebrafinch	1 meaning
+e	zebra shark	zebrashark	1 meaning
+j	ぜんまいばね	zenmaibane	
+j	ゼカリヤ書	zekariasho	
+j	ゼクウェンツ	zekuwentsu	反復進行。
+j	ゼッタバイト	zettabaito	
+j	ゼネレーション	zenereshon	「ジェネレーション」の表記ゆれ。
+j	ゼプトモル	zeputomoru	
+j	ゼムストヴォ	zemusutovo	
+j	ゼロコロナ	zerokorona	zero COVID (having zero C…
+j	ゼロ和ゲーム	zerowagemu	
+j	ゼロ年代	zeronendai	西暦2000年から2009年までの10年間（「20…
+j	ゼロ成長	zeroseicho	国内総生産の伸び率が零、つまり横ばいであること。
+j	ゼントルマン	zentoruman	
+j	ゼーラント州	zerantoshu	
+j	全体的	zentaiteki	overall, general, on the …
+j	全国紙	zenkokushi	全国を対象として発行され、全国で販売・配達される新…
+j	全数把握	zensuhaaku	感染症を診断した全ての医療機関に報告を求め、感染状…
+j	全羅南道	zenranando	South Jeolla (a province …
+j	全般的	zenpanteki	overall, general, across-…
+j	全良たる	zenryotaru	
+j	全裸待機	zenrataiki	"on standby stark naked":…
+j	全面的	zenmenteki	complete, all-out, genera…
+j	前奏曲	zensokyoku	組曲などの前に演奏される小曲。
+j	前接語	zensetsugo	enclitic
+j	前方互換	zenpogokan	古い製品を以て、新しい製品の為のものが利用できるこ…
+j	前置格	zenchikaku	prepositional case
+j	前置記法	zenchikiho	prefix notation
+j	前輪駆動	zenrinkudo	
+j	前述の	zenjutsuno	
+j	前途多難	zentotanan	将来や目的の達成にたくさんの困難があること。
+j	前途遼遠	zentoryoen	これからの道程や目標の達成までが非常に長いこと。
+j	前頭骨	zentokotsu	a frontal bone
+j	前駆症状	zenkushojo	
+j	善は急げ	zenwaisoge	make hay while the sun sh…
+j	善処	zenshosuru	to handle things properly
+j	善財童子	zenzaidoji	Sudhana (main character o…
+j	是が非でも	zegahidemo	by all means, absolutely …
+j	漸化式	zenkashiki	数列のある項の数値を、直前の1つ以上の項を用いて表…
+j	漸新世	zenshinsei	古第三紀の最後の世。3390万年前から2303万年…
+j	絶不調	zetsufucho	in very bad condition
+j	絶叫する	zekkyosuru	
+j	絶叫クイーン	zekkyokuin	
+j	絶対多数	zettaitasu	
+j	絶対格	zettaikaku	absolutive case
+j	絶対温度	zettaiondo	絶対零度を零度とし、摂氏と同じ間隔で目盛を振った温…
+j	絶対的	zettaiteki	absolute
+j	絶対誤差	zettaigosa	誤差の絶対値をとったもの。
+j	絶滅	zetsumetsu	extinction; annihilation;…
+j	絶縁体	zetsuentai	insulator
+j	脆弱性	zeijakusei	vulnerability
+j	膳は急げ	zenwaisoge	
+j	舌内音	zetsunaion	in Sanskrit phonology, a …
+j	贅沢品	zeitakuhin	生活していく上で必ずしも使用するものではない高価な…
+e	zen buddhism	zenbuddhism	1 meaning
+e	zero gravity	zerogravity	1 meaning
+e	zero-sum game	zerosumgame	1 meaning
+e	zeta variant	zetavariant	1 meaning
+j	ぜにたむし	zenitamushi	顔面、躯幹、四肢に白癬菌が感染し、円形の小さな水疱。
+j	ぜんりつせん	zenritsusen	前立腺: prostate
+j	ゼニアオイ属	zeniaoizoku	Malva
+j	ゼパニヤ書	zepaniyasho	
+j	ゼムクリップ	zemukurippu	paperclip
+j	全会一致	zenkaiitchi	unanimous
+j	全体主義	zentaishugi	totalitarianism
+j	全体会議	zentaikaigi	
+j	全単射の	zentanshano	
+j	全国的	zenkokuteki	nationwide
+j	全波全中	zenpazenchu	大地震などの緊急事態が発生した際にNHKの全てのチ…
+j	全知全能	zenchizenno	omniscience and omnipoten…
+j	全羅北道	zenrahokudo	North Jeolla (a province …
+j	全身浴	zenshinyoku	概ねくび辺りまでの全身をお湯につける入浴法。
+j	全身的	zenshinteki	体全身に関係するさま
+j	前代未聞	zendaimimon	An unheard of, unpreceden…
+j	前例のない	zenrennonai	
+j	前後不覚	zengofukaku	前後も分からなくなるほど正体がないこと。
+j	前後関係	zengokankei	context (text in which a …
+j	前提条件	zenteijoken	precondition; prerequisite
+j	前日譚	zenjitsutan	prequel
+j	前立腺	zenritsusen	prostate
+j	前置詞句	zenchishiku	(文法, 統語論) 前置詞を主要部とする句。文中で…
+j	前腕骨	zenwankotsu	an antebrachial bone
+j	前進する	zenshinsuru	
+j	前進的	zenshinteki	前進していくさま
+j	前部座席	zenbuzaseki	
+j	漸進的	zenshinteki	手順を経て徐々に目的を実現していくさま。
+j	絶対主義	zettaishugi	absolutism
+j	絶対等級	zettaitokyu	天体の明るさの尺度で、10パーセクの距離から見た時…
+j	絶対零度	zettaireido	absolute zero (coldest po…
+j	絶対音感	zettaionkan	absolute pitch, perfect p…
+j	絶望する	zetsubosuru	
+j	絶望的	zetsuboteki	desperate
+j	絶縁する	zetsuensuru	
+j	絶縁テープ	zetsuentepu	
+j	舌骨筋	zekkotsukin	a hyoid muscle
+j	ぜんぜつぼいん	zenzetsuboin	前舌母音: front vowel
+j	ぜんまい仕掛け	zenmaijikake	
+j	ゼネラリスト	zenerarisuto	広い分野に亘る知識や能力を持つ人。
+j	ゼプトメートル	zeputometoru	国際単位系において10⁻²¹ mを表す単位。
+j	ゼロエミッション	zeroemisshon	異業種間協同で資源の使用効率を高め、全体で廃棄物が…
+j	ゼロサムゲーム	zerosamugemu	
+j	ゼロベクトル	zerobekutoru	synonym of 零ベクトル (rei-bek…
+j	全身麻酔	zenshinmasui	麻酔薬の吸入または注射により全身に麻酔をかけること。
+j	全速力	zensokuryoku	そのものが出せる最大の速さ。
+j	前口動物	zenkodobutsu	
+j	前後撞着	zengodochaku	前後の辻褄が合わず矛盾すること。
+j	前方後円墳	zenpokoenfun	keyhole tomb; a tomb with…
+j	前時代的	zenjidaiteki	一昔前の時代のことで古く、今の時代に合わないさま。
+j	前置胎盤	zenchitaiban	placenta praevia
+j	前置血管	zenchikekkan	vasa previa
+j	前辞反復	zenjihanfuku	
+j	前進色	zenshinshoku	手前の方に進んで見える色。主に暖色が該当する。
+j	善男善女	zennanzennyo	善男子と善女人。仏法に深く帰依した男女。
+j	絶命	zetsumeisuru	to die
+j	絶妙好辞	zetsumyokoji	素晴らしい文章。優れた文章。名文。
+j	絶対化する	zettaikasuru	
+j	絶対的な	zettaitekina	
+j	絶対複数	zettaifukusu	名詞が常に複数形で使用され、単数形が存在しないこと。
+j	絶対貧困	zettaihinkon	absolute poverty
+j	絶対領域	zettairyoiki	exposed skin of the thigh…
+j	絶望した	zetsuboshita	
+e	zebra crossing	zebracrossing	1 meaning
+e	zero tolerance	zerotolerance	1 meaning
+j	ゼロックスする	zerokkususuru	
+j	ゼロトレランス	zerotoreransu	
+j	全俺が泣いた	zenoreganaita	I cried my eyes out
+j	全力投球	zenryokutokyu	投手が全力を尽くして投球すること。
+j	全国予報区	zenkokuyohoku	日本全国が単一の予報区の範囲となるような予報区。
+j	全摘出	zentekishutsu	complete removal
+j	全球凍結	zenkyutoketsu	先カンブリア時代に赤道に至るまで地球の表面すべてが…
+j	全身免疫	zenshinmeneki	general immunity
+j	全身全霊	zenshinzenrei	completely devoted; body …
+j	前兆的な	zenchoutekina	
+j	前斜角筋	zenshakakukin	an anterior scalene muscle
+j	前方互換性	zenpogokansei	forward compatibility
+j	前期高齢者	zenkikoreisha	65歳から74歳の高齢者。
+j	前立腺炎	zenritsusenen	prostatitis
+j	前衛芸術	zeneigeijutsu	avant-garde art
+j	前頭直筋	zentochokukin	a rectus capitis anterior…
+j	前駆物質	zenkubusshitu	
+j	税理士法人	zeirishihojin	税理士業務を組織的に行うことを目的として、税理士が…
+j	絶対収束	zettaishusoku	無限級数∑ₙ₌₁ ᪲a_nに対し、∑ₙ₌₁ ᪲|a…
+j	絶望的な	zetsubotekina	
+j	舌骨上筋	zekkotsujokin	an suprahyoid muscle
+j	舌骨下筋	zekkotsukakin	an infrahyoid muscle
+j	ぜいせいちょうさかい	zeiseichosakai	税制調査会: Select Committee o…
+j	ゼネラルマネージャー	zenerarumaneja	synonym of 総支配人 (sōshihai…
+j	ゼロゼロ年代	zerozeronendai	「ゼロ年代」に同じ。
+j	全体主義者	zentaishugisha	全体主義の立場をとりそれを主張する者。
+j	全速前進	zensokuzenshin	full speed ahead
+j	前立腺癌	zenritsusengan	prostate cancer
+j	前脛骨筋	zenkeikotsukin	a tibialis anterior muscle
+j	是非曲直	zehikyokuchoku	right and wrong; merits (…
+j	税制調査会	zeiseichosakai	Select Committee on the T…
+j	税金申告	zeikinshinkoku	
+j	絶体絶命	zettaizetsumei	matter of life and death;…
+j	絶対主義者	zettaishugisha	an absolutist, one who fa…
+j	絶対湿度	zettaishitsudo	absolute humidity
+j	絶望の定理	zetsubonoteiri	安定結婚問題における、「ある安定マッチングに入れな…
+j	絶望の起床	zetsubonokisho	"awakening of despair": w…
+j	舌咽神経	zetsuinshinkei	
+j	ゼロの状態から	zeronojotaikara	
+j	全体主義的	zentaishugiteki	
+j	善意の第三者	zeninodaisansha	当事者間に存在する法律関係や特定の事情を知らない第…
+j	絶対君主制	zettaikunshusei	absolute monarchy
+j	絶滅した	zetsumetsushita	
+j	ぜにがたあざらし	zenigataazarashi	アザラシ科のアザラシ。千島列島南部に生息する。
+j	ゼニガタアザラシ	zenigataazarashi	「銭形海豹」の学術的表記。
+j	ゼロメートル地帯	zerometoruchitai	標高0メートル未満の地域。
+j	全般的にみて	zenpantekinimite	
+j	前期中等教育	zenkichutokyoiku	中等教育の前半の段階。日本では中学校、中等教育学校…
+j	絶滅させる	zetsumetsusaseru	
+j	銭形海豹	zenigataazarashi	a harbor seal
+j	ゼネラルストライキ	zenerarusutoraiki	全国、全産業（または一つの地域全体や産業全体）の労…
+j	全地総主教庁	zenchisoshukyocho	
+j	ゼノンのパラドックス	zenonnoparadokkusu	Zeno's paradox
+j	絶対的な優位性	zettaitekinayuisei	
+j	絶滅収容所	zetsumetsushuyosho	
+j	ゼネラルコントラクター	zenerarukontorakuta	土木から建築の工事を一括して行う大手建設業者。ゼネ…
+j	前進的母音同化	zenshintekiboindoka	前の音節の母音に影響されて、続く音節の母音が同じ、…
+j	絶対菜食主義	zettaisaishokushugi	veganism
+j	絶滅をもたらす	zetsumetsuwomotarasu	
+j	全国通訳案内士	zenkokutsuyakuannaishi	報酬を得て通訳案内を職業とする者。
+j	絶対菜食主義者	zettaisaishokushugisha	a vegan
+j	全地球測位システム	zenchikyusokuishisutemu	
+j	全国人民代表大会	zenkokujinmindaihyotaikai	National People's Congress
+j	全断面トンネル掘進機	zentanmentonnerukusshinki	

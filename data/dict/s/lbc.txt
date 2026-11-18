@@ -1,0 +1,5 @@
+e	bc	bc	1 meaning
+e	bce	bce	1 meaning
+e	büchner flask	bchnerflask	1 meaning
+e	béchamel sauce	bchamelsauce	1 meaning
+e	büchner funnel	bchnerfunnel	1 meaning

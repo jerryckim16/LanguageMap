@@ -1,0 +1,1148 @@
+j	ひゃあ	hya	Ah! Argh! A shriek or scr…
+j	ひゅう	hyu	whistling of the wind, a …
+j	ひょう	hyo	積乱雲から降る直径5mm以上の氷の粒。
+j	ヒョウ	hyo	哺乳類の一種である豹の学術的表記。
+j	俵	hyo	a straw bag
+j	冰	hyo	an orthographic borrowing…
+j	剽	hyo	a threat
+j	標	hyo	sign
+j	票	hyo	vote
+j	評	hyo	criticism
+j	豹	hyo	a leopard (a large wild c…
+j	雹	hyo	hail
+j	飄	hyo	whirlwind
+k	혜	hye	
+k	효	hyo	filial piety
+k	휴	hyu	phew, whew, whoa
+e	hymn	hymn	1 meaning
+j	ひょうい	hyoi	表意: an expression of inte…
+j	ひょん	hyon	unexpected, strange, unus…
+j	ヒャン	hyan	ヘビ亜目ワモンベニヘビ属に属するへびの一種。学名:…
+j	ヒョン	hyon	hyung (elder brother, or …
+j	兵衛	hyoe	兵衛府の四等官以外の武官で、内裏外側の諸門の警備や…
+j	憑依	hyoi	dependence
+j	表衣	hyoi	一番上に着用する衣服。
+k	햔	hyan	
+k	혀	hyeo	tongue
+k	흄	hyum	fumes
+e	hydra	hydra	4 meanings
+e	hyena	hyena	1 meaning
+e	hygge	hygge	1 meaning
+e	hymen	hymen	1 meaning
+e	hyogo	hyogo	1 meaning
+e	hyper-	hyper	3 meanings
+e	hyrax	hyrax	1 meaning
+e	hyung	hyung	1 meaning
+j	ひゃく	hyaku	
+j	ひゃーがー	hyaga	
+j	ひゃーく	hyaku	
+j	ひょうそ	hyoso	瘭疽: whitlow
+j	ひょうぞう	hyozo	氷像: ice sculpture
+j	ひょうぼう	hyobo	氷帽: ice cap
+j	ヒューズ	hyuzu	fuse
+j	佰	hyaku	the number one hundred, 1…
+j	兵庫	hyogo	a place name, such as tha…
+j	兵糧	hyoro	food; provisions
+j	兵藤	hyodo	a surname
+j	兵部	hyobu	the Ministry of War
+j	冫部	hyobu	部首「⼎」で分類した漢字の一群。
+j	剽盗	hyoto	highwayman
+j	平字	hyoji	平韻に属する漢字。
+j	標榜	hyobo	advocacy
+j	標示	hyoji	目印として示すこと。また、目印となる図・文字・記号…
+j	標記	hyoki	subject (of an email)
+j	標語	hyogo	motto, slogan, catchword
+j	標高	hyoko	elevation
+j	氷上	hyojo	top of ice
+j	氷像	hyozo	ice sculpture
+j	氷厚	hyoko	ice thickness
+j	氷嚢	hyono	患部や頭部などを冷やすため冷水や氷水をいれた袋。
+j	氷塔	hyoto	セラック。
+j	氷層	hyoso	年毎に凍りついた氷が重なって層となったもの。
+j	氷帽	hyobo	ice cap
+j	氷技	hyogi	氷上の競技。アイススケートによる競技やカーリングな…
+j	氷河	hyoga	a glacier
+j	氷湖	hyoko	
+j	氷花	hyoka	phenomenon of water freez…
+j	氷菓	hyoka	an iced or frozen dessert…
+j	氷霜	hyoso	氷と霜。
+j	漂動	hyodo	漂い、動くこと。
+j	漂浪	hyoro	漂うような大きな波。
+j	漂蕩	hyoto	水に漂うこと。船舶などが漂流すること。
+j	瘭疽	hyoso	whitlow
+j	百	hyaku	hundred
+j	秤動	hyodo	天体が自転または公転の関係で、天秤が揺れ動くように…
+j	苹果	hyoka	apple (fruit)
+j	表価	hyoka	face value
+j	表具	hyogu	書画に紙、布を張り、掛け軸、巻物、襖などに加工する…
+j	表号	hyogo	emblem, symbol
+j	表土	hyodo	topsoil
+j	表奏	hyoso	文書で君主に奏上すること。また、その文書。
+j	表層	hyoso	surface layer
+j	表情	hyojo	expression (facial, bodil…
+j	表皮	hyohi	epidermis
+j	表相	hyoso	表面に表れた兆候。
+j	表示	hyoji	expression, statement, in…
+j	表装	hyoso	書画に紙、布を張り、掛け軸、巻物、襖などに加工する…
+j	表裏	hyori	public and private face
+j	表記	hyoki	writing, notation, transc…
+j	表音	hyoon	representing sound; phone…
+j	評す	hyosu	
+j	評価	hyoka	appraisal
+j	評定	hyojo	conference, council
+j	評家	hyoka	critic
+j	評語	hyogo	critical comment
+j	評議	hyogi	a conference
+j	飄揚	hyoyo	布などが翻り舞い上がること。
+j	飄風	hyofu	旋風。つむじ風。疾風。
+j	飄颺	hyoyo	飄揚の異表記。
+j	馮河	hyoga	黄河を徒歩で渡ること。
+j	髟部	hyobu	部首「⾽」で分類した漢字の一群。
+k	향	hyang	incense
+k	혁	hyeok	
+k	현	hyeon	string on a musical instr…
+k	혈	hyeol	blood
+k	혜안	hyean	
+k	혜주	hyeju	
+k	효고	hyogo	
+k	효도	hyodo	filial piety
+k	효모	hyomo	yeast
+k	효부	hyobu	
+k	효소	hyoso	an enzyme
+k	효수	hyosu	죄인의 목을 베어 높은 곳에 매달아 놓음. 또…
+k	효시	hyosi	발사했을 때 소리가 나는 화살. 전투의 시작을…
+k	효자	hyoja	filial son, filial child
+k	효제	hyoje	부모에 대한 효도와 형제에 대한 우애를 통틀어…
+k	휴가	hyuga	vacation, holiday
+k	휴게	hyuge	recess; break; rest
+k	휴무	hyumu	
+k	휴일	hyuil	holiday, day off
+k	휴지	hyuji	waste paper
+k	흉	hyung	chest
+e	hyades	hyades	1 meaning
+e	hybrid	hybrid	1 meaning
+e	hyphen	hyphen	1 meaning
+e	hypnos	hypnos	1 meaning
+j	ひゅうひゅう	hyuhyu	the sound of the wind
+j	ひょうざん	hyozan	氷山: iceberg
+j	ひょうばん	hyoban	評判: reputation
+j	ひょうめい	hyomei	表明: declaration, expressi…
+j	ひょうめん	hyomen	
+j	ひょっと	hyotto	possibly
+j	ひょろい	hyoroi	scrawny
+j	ひょんな	hyonna	予期できない。
+j	ヒュッテ	hyutte	登山者などが休憩や宿泊するための小屋。山小屋。
+j	ヒュメーン	hyumen	ヒュメナイオス。
+j	ヒューマン	hyuman	人間的なさま。人間らしいさま。
+j	ヒョウタン	hyotan	
+j	ヒョンデ	hyonde	
+j	僄悍	hyokan	剽悍。
+j	兵衆	hyoshu	多くの兵士。軍勢。
+j	兵衛府	hyoefu	Hyoefu (a 律令 (Ritsuryō) g…
+j	凴檻	hyokan	凴欄。
+j	凴欄	hyoran	欄干にもたれること。
+j	剽軽	hyokin	気軽、明朗で滑稽なこと。
+j	平声	hyosho	the level tone (contrasti…
+j	慓悍	hyokan	agile and brave; quick an…
+j	憑欄	hyoran	凴欄。
+j	憑肩	hyoken	親しんで肩を寄せること。
+j	憑険	hyoken	険を頼み、守備を固めること。
+j	拍子	hyoshi	a beat
+j	標冠	hyokan	首位。
+j	標徴	hyocho	外面に現れたしるし。
+j	標本	hyohon	sample; specimen
+j	標柱	hyochu	目印に立てる柱。
+j	標検	hyoken	標榜すること。
+j	標注	hyochu	書物の本文の欄外にある注釈。
+j	標準	hyojun	standard, level, the mark…
+j	標線	hyosen	メスフラスコなどで規定の液量を示す線。
+j	標註	hyochu	書物の本文の欄外にある注釈。
+j	標鑒	hyokan	目立つさま。
+j	標題	hyodai	title
+j	氷人	hyojin	媒酌人。仲人。
+j	氷刃	hyojin	氷のように鋭い刃。
+j	氷原	hyogen	広範囲にわたり氷に覆われた地域。
+j	氷塊	hyokai	chunk of ice
+j	氷寒	hyokan	凍ってしまって寒いこと。
+j	氷山	hyozan	iceberg
+j	氷床	hyosho	広範囲に亘る分厚い氷河。現在は南極大陸とグリーンラ…
+j	氷底	hyotei	
+j	氷海	hyokai	一面が氷で覆われている海。また、氷山や氷塊が、たく…
+j	氷炭	hyotan	氷と炭。
+j	氷点	hyoten	freezing point
+j	氷筍	hyojun	洞窟の天井など高いところから連続してしたたり落ちた…
+j	氷紈	hyogan	精巧な白絹。
+j	氷解	hyokai	complete dispelling
+j	氷酒	hyoshu	果汁にシロップと酒を加え、軽く凍らせシャーベットの…
+j	氷銜	hyokan	清廉な官吏。
+j	氷鑑	hyokan	氷で食物を冷蔵する容器。
+j	氷面	hyomen	氷の表面。
+j	漂流	hyoryu	drifting
+j	漂然	hyozen	高速のさま。
+j	漂鳥	hyocho	migratory bird (that stay…
+j	瓢冠	hyokan	僧の帽。
+j	瓢箪	hyotan	bottle gourd; calabash, L…
+j	瓢酒	hyoshu	瓢箪または瓢箪の形の容器に入った酒。また、それを飲…
+j	百家	hyakka	多くの学者。
+j	百方	hyappo	every direction, every wa…
+j	百科	hyakka	variety of something, all…
+j	百貨	hyakka	色々の商品。
+j	票取	hyoshu	掠取すること。
+j	票田	hyoden	an area where a certain c…
+j	秤量	hyoryo	maximum weight, the great…
+j	表内	hyonai	一覧や図表に載っていること。
+j	表外	hyogai	Not included in a table o…
+j	表彰	hyosho	commendation, official re…
+j	表徴	hyocho	representation
+j	表慶	hyokei	慶祝の意思を表すこと。
+j	表敬	hyokei	敬意を表すこと。
+j	表旌	hyosei	善行をほめて世間に広く知らせること。表彰。
+j	表明	hyomei	expression
+j	表現	hyogen	expression (by words, fac…
+j	表紙	hyoshi	book binding, cover
+j	表見	hyoken	表すこと。
+j	表象	hyosho	idea; presentation; image
+j	表面	hyomen	surface, face
+j	表題	hyodai	title, heading
+j	表顕	hyoken	具体的な形で広く世に表すこと。
+j	評伝	hyoden	評価を交えた伝記。
+j	評判	hyoban	reputation
+j	評注	hyochu	批評の上、注釈すること。また、そのようなもの。
+j	評言	hyogen	批評の言葉。
+j	評註	hyochu	批評の上、注釈すること。また、そのようなもの。
+j	評論	hyoron	criticism, comment
+j	豹変	hyohen	sudden change
+j	豹變	hyohen	
+j	雹害	hyogai	雹による農作物や構造物などの被害。
+j	雹嵐	hyoran	暴風雨と共に雹が降ること。
+j	飄々	hyohyo	
+j	飄残	hyozan	落花すること。
+j	飄然	hyozen	aimless, wandering
+j	飄迅	hyojin	忽然と出没するさま。飄忽。
+j	飄飄	hyohyo	whistling, blowing
+j	飆塵	hyojin	風に舞う塵。
+k	현우	hyeonu	wisdom and folly; the wis…
+k	혐오	hyeomo	hatred, aversion, abhorre…
+k	형	hyeong	older brother of a male
+k	혜산	hyesan	Hyesan (a city in Ryangga…
+k	혜윤	hyeyun	은혜를 베풀어 혜택을 줌. 또는 그 은혜.
+k	혜패	hyepae	'혜성'.
+k	효과	hyogwa	result, effect
+k	효순	hyosun	
+k	효심	hyosim	filial piety
+k	효율	hyoyul	매우 능률이 높은 것.
+k	휴간	hyugan	
+k	휴교	hyugyo	
+k	휴대	hyudae	to carry (in compounds); …
+k	휴식	hyusik	rest; relaxation; break
+k	휴업	hyueop	사정으로 일이나 업무를 쉬는 것.
+k	휴직	hyujik	
+k	휴진	hyujin	
+k	휴학	hyuhak	temporary absence from sc…
+k	휴한	hyuhan	
+k	휴회	hyuhoe	
+k	휼미	hyulmi	
+e	hydrate	hydrate	1 meaning
+e	hydride	hydride	1 meaning
+e	hydrous	hydrous	1 meaning
+e	hygieia	hygieia	1 meaning
+e	hygiene	hygiene	2 meanings
+e	hyponym	hyponym	1 meaning
+e	hyundai	hyundai	1 meaning
+j	ひょうはく	hyohaku	表白
+j	ひょうろく	hyoroku	synonym of ひょうろくだま (hyōro…
+j	ひょっひょ	hyohhyo	物事を軽率に何度も行うさま。
+j	ヒャッキン	hyakkin	百均の別表記。
+j	ヒュドラ	hyudora	
+j	ヒュドラー	hyudora	the Hydra
+j	ヒュバート	hyubato	Hubert
+j	ヒュンダイ	hyundai	
+j	ヒョウ属	hyozoku	Panthera
+j	兵六	hyoroku	愚かなこと。愚か者、馬鹿者。表六。
+j	兵法家	hyohoka	（ひょうほうか）戦国時代の武術家。
+j	剽迫	hyohaku	脅すこと。
+j	嫖客	hyokaku	a customer of prostitutes…
+j	平仄	hyosoku	level and oblique tones (…
+j	憑信	hyoshin	根拠として信じること。
+j	憑心	hyoshin	胸が一杯になること。
+j	標白	hyohaku	明示すること。
+j	標的	hyoteki	target
+j	標石	hyoseki	markstone
+j	氷壁	hyoheki	巨大な氷が切り立って壁のようなったもの。
+j	氷心	hyoshin	清い心。
+j	氷枕	hyochin	主にゴムでできた袋に氷水や冷水を入れ、頭部を冷やす…
+j	氷河期	hyogaki	ice age (period of extens…
+j	氷瀑	hyobaku	滝が氷結すること。また、氷結した滝。
+j	氷針	hyoshin	高山などで降る針のような氷の結晶。
+j	漂白	hyohaku	bleaching
+j	百二	hyakuni	百よりも二つだけ大きい数。101の次で、103の前…
+j	百京	hyakkei	
+j	百十	hyakuju	one hundred ten
+j	百均	hyakkin	100-yen shop, a common ty…
+j	百官	hyakkan	多くの役人。
+j	百寿	hyakuju	centenarian
+j	百度	hyakudo	a hundred of times, or by…
+j	百獣	hyakuju	the beasts, all types of …
+j	百穣	hyakujo	
+j	百総	hyakuso	A piece in Ko shogi
+j	百般	hyappan	いろいろな方面。さまざま。
+j	百貫	hyakkan	一貫の百倍。
+j	百里	hyakuri	一里の距離の100倍。
+j	表する	hyosuru	to express, to show
+j	表六	hyoroku	愚かなこと。愚か者、馬鹿者。兵六。
+j	表臣	hyoshin	模範となる臣下。
+j	表薄	hyohaku	遠くの林。
+j	表記法	hyokiho	
+j	評する	hyosuru	to comment, to evaluate, …
+j	評議員	hyogiin	評議会を構成し、評議を行う者。
+j	飄落	hyoraku	風に吹かれて落ちること。
+j	飄薄	hyohaku	漂白すること。
+j	飄逸	hyoitsu	hanging out away from sec…
+j	飄邈	hyobaku	翻り、遥かなさま。
+k	향기	hyanggi	fragrance, aroma, perfume
+k	향도	hyangdo	guide; guidance; fugleman
+k	향로	hyangno	censer, incense burner, t…
+k	향미	hyangmi	flavour; smack
+k	향수	hyangsu	perfume, cologne (substan…
+k	향악	hyangak	indigenous Korean traditi…
+k	향안	hyangan	
+k	향유	hyangyu	perfumed hair-oil
+k	향토	hyangto	
+k	향후	hyanghu	henceforth
+k	혁세	hyeokse	
+k	현로	hyeonro	
+k	현무	hyeonmu	
+k	현미	hyeonmi	brown rice
+k	현부	hyeonbu	
+k	현세	hyeonse	
+k	현시	hyeonsi	
+k	현안	hyeonan	
+k	현애	hyeonae	
+k	현요	hyeonyo	
+k	현인	hyeonin	
+k	현자	hyeonja	a sage
+k	현지	hyeonji	local
+k	현타	hyeonta	syllabic abbreviation of …
+k	현토	hyeonto	한문에 토를 다는 일. 한문(漢文)에 조사(助…
+k	혈구	hyeolgu	blood cell
+k	혈기	hyeolgi	vigour; vitality; energy
+k	혈세	hyeolse	
+k	혈안	hyeoran	
+k	혈암	hyeoram	shale
+k	혈압	hyeorap	blood pressure
+k	혈투	hyeoltu	
+k	혐의	hyeomui	suspicion, charge, accusa…
+k	협부	hyeopbu	isthmus
+k	협애	hyeopae	
+k	협위	hyeobwi	
+k	협의	hyeobui	consultation; discussion
+k	협조	hyeopjo	cooperation, collaboration
+k	형아	hyeonga	older brother of a boy
+k	혜택	hyetaek	benefit; advantage
+k	효녀	hyonyeo	
+k	효덕	hyodeok	
+k	효소제	hyosoje	
+k	효용	hyoyong	
+k	효자비	hyojabi	
+k	효종	hyojong	
+k	효험	hyoheom	
+k	휴가비	hyugabi	
+k	휴강	hyugang	
+k	휴게소	hyugeso	rest area (rest stop), se…
+k	휴관	hyugwan	
+k	휴양	hyuyang	rest, time off from work
+k	휴전	hyujeon	ceasefire, truce
+k	휴항	hyuhang	
+k	휼민	hyulmin	
+k	흉가	hyungga	
+k	흉기	hyunggi	deadly weapon; lethal wea…
+k	흉노	hyungno	Xiongnu (a confederation …
+k	흉모	hyungmo	
+k	흉보	hyungbo	
+k	흉부	hyungbu	thorax, chest
+k	흉사	hyungsa	an ill-omened event; disa…
+k	흉수	hyungsu	
+k	흉악	hyungak	Evil; wicked; heinous
+k	흉인	hyungin	
+k	흉조	hyungjo	
+e	hyacinth	hyacinth	1 meaning
+e	hyde park	hydepark	1 meaning
+e	hydracid	hydracid	1 meaning
+e	hydrogen	hydrogen	3 meanings
+e	hydroxyl	hydroxyl	1 meaning
+e	hygienic	hygienic	1 meaning
+e	hyperion	hyperion	2 meanings
+e	hypernym	hypernym	1 meaning
+e	hypnosis	hypnosis	1 meaning
+e	hysteria	hysteria	1 meaning
+j	ひゃくまん	hyakuman	
+j	ひょうがいじ	hyogaiji	表外字: kanji characters out…
+j	ひょうしき	hyoshiki	表式
+j	ひょうせつ	hyosetsu	氷雪: ice and snow
+j	ひょうてんか	hyotenka	氷点下: below freezing, sub-…
+j	ひょっこり	hyokkori	前触れや予告なく事が起こるさま。
+j	ひょっとこ	hyottoko	おどけ者。
+j	ひょんのき	hyonnoki	「いすのき」の別名。ひょん。
+j	ヒャッポダ	hyappoda	クサリヘビ科マムシ亜科ヒャッポダ属に属する蛇の一種…
+j	ヒュアデス	hyuadesu	
+j	ヒュギエイア	hyugieia	
+j	ヒューストン	hyusuton	Houston (a large city in …
+j	ヒューロン湖	hyuronko	
+j	ヒョンライン	hyonrain	hyung line (elder members…
+j	兵庫県	hyogoken	a prefecture in the 近畿 (K…
+j	兵法師	hyohoshi	戦の方法。兵学、兵術のやり方。それに通じている人。
+j	兵法者	hyohosha	戦に通じている人。
+j	兵部省	hyobusho	the Ministry of War
+j	剽忽	hyokotsu	突然出没するさま。忽然。
+j	剽窃	hyosetsu	plagiarism
+j	拍子木	hyoshigi	a Japanese percussion ins…
+j	標尺	hyoshaku	水準測量で計測点に立てる目盛りのついた尺。
+j	標準の	hyojunno	
+j	標準化	hyojunka	standardization
+j	標準時	hyojunji	standard time
+j	標準語	hyojungo	the standard language (of…
+j	標準軌	hyojunki	standard gauge
+j	標識	hyoshiki	sign, mark
+j	氷楔	hyosetsu	ice wedge
+j	氷点下	hyotenka	below freezing, sub-zero
+j	氷結	hyoketsu	freezing, freeze
+j	氷釈	hyoshaku	氷が解けてなくなること。
+j	氷雪	hyosetsu	ice and snow
+j	漂着	hyochaku	washing ashore
+j	白及	hyakukyu	rhizomes of Bletilla stri…
+j	百万	hyakuman	million
+j	百全	hyakuzen	万全。完全。
+j	百姓	hyakusho	a farmer; a peasant; the …
+j	百姿	hyakushi	hundred forms
+j	百年	hyakunen	one hundred years; century
+j	百戦	hyakusen	many or all battles
+j	百正	hyakusei	A billion quintillion, 10…
+j	百歳	hyakusai	100歳。100年間。
+j	百萬	hyakuman	
+j	百選	hyakusen	top one hundred
+j	百雷	hyakurai	多く降る雷。
+j	票決	hyoketsu	vote
+j	腷臆	hyokuoku	物を打ったり、鳥が羽ばたいたりする音の形容。
+j	表外字	hyogaiji	Kanji characters outside …
+j	表彰状	hyoshojo	競技などで成績優秀であった者を表彰する旨を記した書…
+j	表情筋	hyojokin	a mimetic muscle
+j	表意文字	hyoimoji	ideogram
+j	表札	hyosatsu	nameplate displaying the …
+j	表決	hyoketsu	decision, verdict
+j	表現法	hyogenho	
+j	表面上	hyomenjo	on the surface
+j	表面化	hyomenka	coming to light
+j	評決	hyoketsu	verdict
+j	評説	hyosetsu	うわさ。世間一般の評判。
+j	評論家	hyoronka	critic; reviewer
+j	評議会	hyogikai	council
+j	評釈	hyoshaku	文章、詩歌を批評、解釈すること。また、その批評、解…
+j	逼肖	hyokusho	とてもよく似ていること。極めて似ること。
+j	飄忽	hyokotsu	突然出没するさま。忽然。
+k	향락	hyangnak	enjoyment, pleasure
+k	향료	hyangnyo	spice; flavoring
+k	향배	hyangbae	향하여 절함.
+k	향복	hyangbok	
+k	향속	hyangsok	
+k	향초	hyangcho	fragrant herb
+k	향판	hyangpan	피아노 안에 들어있는 판.
+k	혁노	hyeongno	
+k	혁대	hyeokdae	
+k	혁신	hyeoksin	innovation; reform
+k	현간	hyeongan	
+k	현곡	hyeongok	
+k	현군	hyeongun	
+k	현대	hyeondae	contemporary (times); the…
+k	현란	hyeollan	gorgeousness, brilliancy,…
+k	현막	hyeonmak	
+k	현묘	hyeonmyo	이치나 기예의 경지가 헤아릴 수 없이 미묘함.
+k	현손	hyeonson	great-great-grandson, gre…
+k	현실	hyeonsil	reality; the actual case
+k	현월	hyeonwol	
+k	현작	hyeonjak	
+k	현재	hyeonjae	the present; now
+k	현저	hyeonjeo	
+k	현존	hyeonjon	
+k	현준	hyeonjun	
+k	현질	hyeonjil	paying for items in an on…
+k	현폭	hyeonpok	
+k	현학	hyeonhak	deep and complex theories…
+k	현혹	hyeonhok	beguilement; dazzlement
+k	혈거	hyeolgeo	
+k	혈뇨	hyeollyo	
+k	혈류	hyeollyu	피가 흐르는 것.
+k	혈서	hyeolseo	
+k	혈속	hyeolsok	
+k	혈액	hyeoraek	blood
+k	혈육	hyeoryuk	
+k	혈족	hyeoljok	
+k	협갈	hyeopgal	
+k	협곡	hyeopgok	canyon, gorge
+k	협골	hyeopgol	
+k	협궤	hyeopgwe	
+k	협막	hyeommak	세균 세포를 둘러싸는 다당류로 이루어진 두꺼운…
+k	협만	hyeomman	fjord
+k	협박	hyeopbak	threat, menace
+k	협살	hyeopsal	rundown
+k	협서	hyeopseo	
+k	협약	hyeobyak	협상에 의하여 조약을 맺음. 또는 그 조약.
+k	협업	hyeobeop	cooperation; collaboration
+k	협잡	hyeopjap	옳지 아니한 방법으로 남을 속임.
+k	협회	hyeophoe	association; society
+k	형데	hyeongde	Pyongan form of 형제(兄弟) (h…
+k	형무	hyeongmu	
+k	형부	hyeongbu	elder sister's husband, (…
+k	형사	hyeongsa	detective
+k	형세	hyeongse	
+k	형수	hyeongsu	a man's older brother's w…
+k	형제	hyeongje	brothers
+k	형타	hyeongta	'조립틀'의 북한말.
+k	혜능	hyeneung	Huineng
+k	혜성	hyeseong	comet
+k	효능	hyoneung	efficacy; effectiveness
+k	효도르	hyodoreu	러시아 남자 이름 '표도르'의 다른 표기.
+k	효력	hyoryeok	effect
+k	효성	hyoseong	마음을 다하여 부모를 섬기는 정성.
+k	효소학	hyosohak	enzymology
+k	효자문	hyojamun	
+k	효자손	hyojason	backscratcher
+k	효행	hyohaeng	filial piety
+k	휴게실	hyugesil	lounge
+k	휴면	hyumyeon	
+k	휴식일	hyusigil	'공휴일'의 북한말.
+k	휴정	hyujeong	
+k	휴지화	hyujihwa	
+k	휴척	hyucheok	joy and sorrow
+k	휴한지	hyuhanji	
+k	휼금	hyulgeum	
+k	휼전	hyuljeon	
+k	흉갑	hyunggap	
+k	흉계	hyunggye	
+k	흉골	hyunggol	
+k	흉내	hyungnae	imitation, mimicry (act o…
+k	흉막	hyungmak	
+k	흉물	hyungmul	
+k	흉배	hyungbae	
+k	흉작	hyungjak	
+k	흉추	hyungchu	
+k	흉탄	hyungtan	
+k	흉터	hyungteo	scar
+k	흉한	hyunghan	
+e	hyderabad	hyderabad	1 meaning
+e	hydrangea	hydrangea	1 meaning
+e	hydrazine	hydrazine	2 meanings
+e	hydrazone	hydrazone	1 meaning
+e	hydrofoil	hydrofoil	1 meaning
+e	hydrology	hydrology	1 meaning
+e	hydronium	hydronium	1 meaning
+e	hydroxide	hydroxide	1 meaning
+e	hydrozoan	hydrozoan	1 meaning
+e	hyoid bone	hyoidbone	1 meaning
+e	hyperbola	hyperbola	1 meaning
+e	hyperbole	hyperbole	1 meaning
+e	hypercube	hypercube	1 meaning
+e	hyperlink	hyperlink	3 meanings
+e	hypertext	hypertext	1 meaning
+e	hypnotism	hypnotism	1 meaning
+e	hypnotist	hypnotist	1 meaning
+e	hypocaust	hypocaust	1 meaning
+e	hypocrisy	hypocrisy	1 meaning
+e	hypocrite	hypocrite	1 meaning
+e	hypotheca	hypotheca	1 meaning
+e	hyung line	hyungline	1 meaning
+j	ひょうきゆれ	hyokiyure	variation in textual repr…
+j	ひょうけいさん	hyokeisan	表計算: spreadsheet
+j	ひょうだいし	hyodaishi	標題紙: title page (page in …
+j	ひょろがり	hyorogari	lanky and unmuscular
+j	ヒュプノス	hyupunosu	
+j	ヒュペリオン	hyuperion	
+j	ヒュペリーオーン	hyuperion	Hyperion
+j	ヒュロッキン	hyurokkin	土星の第44衛星の固有名。
+j	ヒューマニティ	hyumaniti	「ヒューマニティー」の表記ゆれ。
+j	ヒューマニティー	hyumaniti	人間性。
+j	兵糧攻め	hyorozeme	敵の兵糧の補給路を断ち、敵を飢えさせ降伏させる方法。
+j	剽疾	hyoshitsu	素早いこと。また、そのようなさま。
+j	日向灘	hyuganada	a sea off the eastern coa…
+j	標題紙	hyodaishi	title page (page in a boo…
+j	漂失	hyoshitsu	水を漂いなくなること。流失すること。
+j	百家姓	hyakkasei	the Baijiaxing (Hundred F…
+j	百葉箱	hyakuyoso	地上で気象観測を行うため、小さな小屋の形をした箱。…
+j	百貨店	hyakkaten	department store
+j	百越	hyakuetsu	Baiyue (the "hundred Yue …
+j	表を書く	hyowokaku	
+j	表出	hyoshutsu	expression of one's thoug…
+j	表彰台	hyoshodai	winner's podium
+j	表皮効果	hyohikoka	skin effect (tendency of …
+j	表示する	hyojisuru	
+j	表計算	hyokeisan	spreadsheet - manual calc…
+j	表記する	hyokisuru	
+j	表記揺れ	hyokiyure	ある語の表記が、一つの定まったあり方ではなく異なる…
+j	表語文字	hyogomoji	a logogram
+j	表音文字	hyoonmoji	かな、ローマ字など文字一つ一つは特定の意味を持たず…
+j	評価する	hyokasuru	
+j	豹人間	hyoningen	
+j	雹が降る	hyogafuru	
+k	향나무	hyangnamu	Chinese juniper (Juniperu…
+k	향낭	hyangnang	
+k	향상	hyangsang	improvement, progress
+k	향쑥	hyangssuk	wormwood (Artemisia absin…
+k	향연	hyangyeon	
+k	향응	hyangeung	echo, reciprocation
+k	향전	hyangjeon	
+k	향찰	hyangchal	Hyangchal
+k	향하다	hyanghada	to face; to make for, to …
+k	향항	hyanghang	Hong Kong (a city, island…
+k	혀바닥	hyeobadak	'혓바닥'의 북한말.
+k	현관	hyeongwan	front door; porch; vestib…
+k	현금	hyeongeum	cash
+k	현륙	hyeollyuk	(식물) 상륙(商陸)의 딴이름으로 자리공의 뿌…
+k	현무암	hyeonmuam	basalt
+k	현백	hyeonbaek	
+k	현부인	hyeonbuin	a wise woman
+k	현상	hyeonsang	the evident condition or …
+k	현악기	hyeonakgi	(뜻).
+k	현역	hyeonyeok	
+k	현장	hyeonjang	site, location, place (of…
+k	현지인	hyeonjiin	
+k	현찰	hyeonchal	cash
+k	혈관	hyeolgwan	blood vessel
+k	혈당	hyeoldang	
+k	혈맥	hyeolmaek	blood vein; blood vessel
+k	혈색	hyeolsaek	
+k	혈석	hyeolseok	bloodstone, heliotrope
+k	혈연	hyeoryeon	consanguinity, blood (fam…
+k	혈장	hyeoljang	blood plasma
+k	혈전	hyeoljeon	생물체의 혈관 속에 피가 굳어져서 된 고형물.
+k	혈종	hyeoljong	내출혈로 생긴 피가 피부 내의 한곳에 모여 덩…
+k	혈통	hyeoltong	bloodline, pedigree
+k	혈흔	hyeolheun	bloodstain
+k	혐관	hyeomgwan	서로 혐오하는 관계의 줄임말. 자캐, 웹툰 커…
+k	혐극	hyeomgeuk	
+k	혐짤	hyeomjjal	disgusting image
+k	협객	hyeopgaek	호방하고 의협심이 있는 사람.
+k	협공	hyeopgong	pincer movement; pincer a…
+k	협동	hyeopdong	
+k	협상	hyeopsang	negotiation
+k	협연	hyeopyeon	
+k	협착	hyeopchak	stegnosis
+k	협찬	hyeopchan	sponsorship
+k	형님	hyeongnim	honorific of 형(兄) (hyeong…
+k	형식	hyeongsik	form, template
+k	형이하	hyeongiha	
+k	형태	hyeongtae	shape
+k	형혹	hyeonghok	
+k	형화	hyeonghwa	the light of a firefly
+k	효경	hyogyeong	Classic of Filial Piety
+k	효과음	hyogwaeum	
+k	효도하다	hyodohada	
+k	효모균	hyomogyun	
+k	효소왕	hyosowang	
+k	효수하다	hyosuhada	죄인의 목을 베어 높은 곳에 매달아 놓다.
+k	휴가객	hyugagaek	
+k	휴게하다	hyugehada	어떤 일을 하다가 잠깐 동안 쉬다.
+k	휴경	hyugyeong	
+k	휴고하다	hyugohada	평온하고 견고하다.
+k	휴대폰	hyudaepon	cellular phone, mobile ph…
+k	휴대품	hyudaepum	
+k	휴런호	hyureonho	
+k	휴무하다	hyumuhada	
+k	휴양소	hyuyangso	
+k	휴양지	hyuyangji	vacation spot, resort
+k	휴전기	hyujeongi	
+k	휴지통	hyujitong	wastebasket; garbage can
+k	휴지하다	hyujihada	
+k	휴화산	hyuhwasan	
+k	흉강	hyunggang	심장, 폐 따위가 들어 있는 가슴 안쪽의 빈 …
+k	흉곽	hyunggwak	
+k	흉금	hyunggeum	
+k	흉몽	hyungmong	
+k	흉보다	hyungboda	
+k	흉상	hyungsang	bust (sculpture)
+k	흉선	hyungseon	
+k	흉장	hyungjang	
+k	흉적	hyungjeok	
+k	흉중	hyungjung	
+k	흉하다	hyunghada	운이 사납거나 불길하다.
+e	hydraulics	hydraulics	1 meaning
+e	hydrocoral	hydrocoral	1 meaning
+e	hydrolysis	hydrolysis	1 meaning
+e	hydrophile	hydrophile	1 meaning
+e	hydrophyte	hydrophyte	1 meaning
+e	hygrometer	hygrometer	1 meaning
+e	hygroscopy	hygroscopy	1 meaning
+e	hyperbaton	hyperbaton	1 meaning
+e	hypersonic	hypersonic	1 meaning
+e	hyperspace	hyperspace	1 meaning
+e	hypocentre	hypocentre	1 meaning
+e	hypodermic	hypodermic	1 meaning
+e	hypostasis	hypostasis	1 meaning
+e	hypotenuse	hypotenuse	1 meaning
+e	hypothesis	hypothesis	3 meanings
+e	hysteresis	hysteresis	1 meaning
+j	ひょろ長い	hyoronagai	gangly, gaunt, stalky
+j	ヒューマノイド	hyumanoido	
+j	ヒョウモンドジョウ	hyomondojo	ドジョウ科ドジョウ属に分類されるどじょうの一種。学…
+j	拍子抜け	hyoshinuke	張り合いがなくなること。
+j	標準的	hyojunteki	物事の基準となるさま。
+j	標準英語	hyojuneigo	
+j	氷河時代	hyogajidai	an ice age (period of gla…
+j	氷礫丘	hyorekikyu	氷河が後退する時に堆積した小石や砂による急な斜面の…
+j	氷酢酸	hyosakusan	酢酸が凍ったもの。酢酸の融点は17℃であるため、冬…
+j	氷醋酸	hyosakusan	酢酸が凍ったもの。酢酸の融点は17℃であるため、冬…
+j	漂流する	hyoryusuru	
+j	漂白剤	hyohakuzai	bleach, bleacher
+j	百分比	hyakubunhi	全体を100としたときの割合。
+j	百寿者	hyakujusha	100歳以上の長寿の者。
+j	百年目	hyakunenme	Used other than figurativ…
+j	百日	hyakunichi	one hundred days
+j	百獣の王	hyakujunoo	king of beasts (the lion)
+j	表彰する	hyoshosuru	
+j	表明する	hyomeisuru	
+j	表現する	hyogensuru	
+j	表現型	hyogengata	a phenotype
+j	表示装置	hyojisochi	display
+j	表裏一体	hyoriittai	two sides of the same coin
+j	豹紋蛸	hyomondako	a blue-ringed octopus (Ha…
+k	향격	hyanggyeok	
+k	향고래	hyanggorae	The sperm whale, Physeter…
+k	향기풀	hyanggipul	
+k	향년	hyangnyeon	age at time of death
+k	혁신가	hyeoksinga	innovator
+k	현격	hyeongyeok	사이가 많이 벌어져 있음. 또는 차이가 매우 …
+k	현대사	hyeondaesa	contemporary history (con…
+k	현대어	hyeondaeeo	modern language
+k	현대의	hyeondaeui	
+k	현대인	hyeondaein	
+k	현렴	hyeonryeom	
+k	현생	hyeonsaeng	[this life]
+k	현수교	hyeonsugyo	
+k	현수막	hyeonsumak	
+k	현재지	hyeonjaeji	장소적 관계가 거소보다 희박한 곳.
+k	현존의	hyeonjonui	
+k	현창	hyeonchang	
+k	현행	hyeonhaeng	current; active; actual
+k	현혁	hyeonhyeok	
+k	현현	hyeonhyeon	현묘하고 심오함.
+k	현황	hyeonhwang	current situation
+k	혈맹	hyeolmaeng	
+k	혈변	hyeolbyeon	
+k	혈소판	hyeolsopan	platelet, thrombocyte
+k	혈압계	hyeorapgye	sphygmomanometer
+k	혐오하다	hyeomohada	to hate, to abhor
+k	협격	hyeopgyeok	pincer movement; pincer a…
+k	협력	hyeomnyeok	collaboration or cooperat…
+k	협의회	hyeobuihoe	
+k	협정	hyeopjeong	an agreement, an accord, …
+k	협주곡	hyeopjugok	
+k	협죽도	hyeopjukdo	oleander (Nerium oleander)
+k	혓바닥	hyeotbadak	혀의 윗쪽 부분.
+k	형 라인	hyeongrain	hyung line (elder members…
+k	형덕	hyeongdeok	형벌과 덕화를 아울러 이르는 말.
+k	형률	hyeongryul	
+k	형무소	hyeongmuso	prison; jail
+k	형벌	hyeongbeol	punishment; penalty
+k	형법	hyeongbeop	criminal law
+k	형상	hyeongsang	form, shape, a figure, an…
+k	형용	hyeongyong	
+k	형제애	hyeongjeae	형제간에 서로 아끼는 마음.
+k	형처	hyeongcheo	
+k	형통	hyeongtong	
+k	효과적	hyogwajeok	effective
+k	효율적	hyoyuljeok	들인 노력 등에 비해서 얻는 결과가 큼.
+k	휴가증	hyugajeung	
+k	휴가철	hyugacheol	
+k	휴간하다	hyuganhada	
+k	휴교하다	hyugyohada	
+k	휴대용	hyudaeyong	portable
+k	휴대하다	hyudaehada	손에 들거나 몸에 지니고 다니다.
+k	휴스턴	hyuseuteon	[~시(市)] Houston (The larg…
+k	휴식날	hyusingnal	'휴일'의 북한말.
+k	휴식하다	hyusikhada	to rest, take a break, re…
+k	휴양원	hyuyangwon	
+k	휴업하다	hyueophada	
+k	휴직급	hyujikgeup	
+k	휴직하다	hyujikhada	
+k	휴학하다	hyuhakhada	to take a leave of absenc…
+k	휴회하다	hyuhoehada	
+k	휼병	hyulbyeong	
+k	흉년	hyungnyeon	lean year, year of poor h…
+k	흉측	hyungcheuk	'흉악망측'.
+e	hydrocarbon	hydrocarbon	1 meaning
+e	hydrogen car	hydrogencar	1 meaning
+e	hydrography	hydrography	1 meaning
+e	hydrophilic	hydrophilic	1 meaning
+e	hydrophobia	hydrophobia	2 meanings
+e	hydroponics	hydroponics	1 meaning
+e	hyperextend	hyperextend	1 meaning
+e	hypermarket	hypermarket	1 meaning
+e	hypernormal	hypernormal	1 meaning
+e	hypersomnia	hypersomnia	1 meaning
+e	hypertrophy	hypertrophy	2 meanings
+e	hypotension	hypotension	1 meaning
+e	hypothermia	hypothermia	1 meaning
+e	hypothesize	hypothesize	1 meaning
+j	ひゅうがのくに	hyuganokuni	日向国: Hyūga Province
+j	ひょうじょうきょにゅう	hyojokyonyu	平上去入: The four tones in o…
+j	ひょうろくだま	hyorokudama	idiot, fool
+j	ひょっとして	hyottoshite	
+j	ヒュメナイオス	hyumenaiosu	結婚の祝祭の神。
+j	ヒューマニズム	hyumanizumu	人文主義。
+j	兵法使	hyohotsukai	戦の方法。兵学、兵術のやり方。それに通じている人。
+j	平上去入	hyojokyonyu	平声 (hyōshō, “level tone”)
+j	日向国	hyuganokuni	Hyūga Province, correspon…
+j	標本空間	hyohonkukan	確率論において、試行による結果全体の集合。
+j	標準偏差	hyojunhensa	standard deviation
+j	標準時間	hyojunjikan	standard time
+j	標準電波	hyojundenpa	標準時を送信するための電波。
+j	漂白する	hyohakusuru	
+j	百人隊	hyakunintai	古代ローマにおいて、100人の兵士から成る軍事の構…
+j	百千万	hyakusenman	
+j	百科事典	hyakkajiten	encyclopaedia
+j	百科辞典	hyakkajiten	「百科事典」に同じ。
+j	百箇日	hyakkanichi	死去からその日を含めて100日目（に行われる法要）。
+j	百鬼夜行	hyakkiyagyo	the Night Parade of a Hun…
+j	表外漢字	hyogaikanji	Kanji characters outside …
+j	表彰式	hyoshoshiki	award ceremony
+j	表現主義	hyogenshugi	expressionism
+j	表組みする	hyokumisuru	
+j	表象主義	hyoshoshugi	
+j	豹海豹	hyoazarashi	a leopard seal
+k	향로석	hyangnoseok	a stone in front of a tom…
+k	향수하다	hyangsuhada	
+k	향신료	hyangsinnyo	spice
+k	향이 좋은	hyangijoeun	
+k	향참외	hyangchamoe	melon
+k	향해서	hyanghaeseo	
+k	현대식	hyeondaesik	현대방식으로 맞춰서 하는 것.
+k	현대화	hyeondaehwa	modernization
+k	현명	hyeonmyeong	무엇을 올바르게 깨닫고 판단함.
+k	현무암의	hyeonmuamui	
+k	현자타임	hyeonjataim	post-nut clarity
+k	현질러	hyeonjilleo	someone who pays for item…
+k	혈색소	hyeolsaekso	haemoglobin
+k	혈액학	hyeoraekhak	haematology, hematology
+k	혈청	hyeolcheong	serum
+k	혐오증	hyeomojeung	
+k	혐의하다	hyeomuihada	
+k	협소하다	hyeopsohada	공간이 좁고 작다.
+k	협의주의	hyeobuijuui	
+k	협의하다	hyeobuihada	(‘…과’가 나타나지 않을 때는 여럿임을 뜻하…
+k	협잡질	hyeopjapjil	trickery, fraud
+k	형광	hyeonggwang	the light of a firefly
+k	형성	hyeongseong	shaping, formation
+k	형이상	hyeongisang	이성적 사유 또는 직관에 의해서만 포착되는 초…
+k	형제간	hyeongjegan	
+k	형태부	hyeongtaebu	'형식 형태소'의 북한말.
+k	형태소	hyeongtaeso	morpheme
+k	형편	hyeongpyeon	circumstances, conditions
+k	효공왕	hyogongwang	
+k	휴가병	hyugabyeong	
+k	휴강하다	hyuganghada	
+k	휴관하다	hyugwanhada	
+k	휴식 시간	hyusiksigan	
+k	휴식자본	hyusikjabon	
+k	휴양도시	hyuyangdosi	
+k	휴양하다	hyuyanghada	
+k	휴전선	hyujeonseon	
+k	휴전하다	hyujeonhada	
+k	휴항하다	hyuhanghada	
+k	흉악범	hyungakbeom	
+k	흉악하다	hyungakhada	
+k	흉하적	hyunghajeok	남의 결점을 드러내어 말함.
+e	hyacinth bean	hyacinthbean	1 meaning
+e	hydrogen bomb	hydrogenbomb	1 meaning
+e	hydrogen bond	hydrogenbond	1 meaning
+e	hydrogeology	hydrogeology	1 meaning
+e	hydroquinone	hydroquinone	1 meaning
+e	hydrotherapy	hydrotherapy	1 meaning
+e	hypercorrect	hypercorrect	1 meaning
+e	hypertension	hypertension	1 meaning
+e	hyperthermia	hyperthermia	1 meaning
+e	hypnotherapy	hypnotherapy	1 meaning
+e	hypochlorite	hypochlorite	1 meaning
+e	hypochondria	hypochondria	1 meaning
+e	hypocritical	hypocritical	1 meaning
+e	hypoglycemia	hypoglycemia	1 meaning
+e	hypothalamus	hypothalamus	1 meaning
+e	hypothetical	hypothetical	1 meaning
+e	hysterectomy	hysterectomy	1 meaning
+j	ひゃくしょうよみ	hyakushoyomi	百姓読み: misreading a kanji …
+j	ヒュッツポット	hyuttsupotto	マッシュポテトに人参を入れたオランダ料理。
+j	ヒューリスティック	hyurisutikku	発見的方法。
+j	平仄式	hyosokushiki	近体詩における、平仄の配置に関する規定。
+j	標準化する	hyojunkasuru	
+j	標準的な	hyojuntekina	
+j	氷河期世代	hyogakisedai	就職氷河期を経験した世代。
+j	百パーセント	hyakupasento	割合における全体。
+j	百姓読み	hyakushoyomi	misreading a kanji by rea…
+j	百度参り	hyakudomairi	需要な祈願をする際、同じ寺社の境内の一定距離を百回…
+j	百恒河沙	hyakugogasha	
+j	百日草	hyakunichiso	Zinnia elegans (the commo…
+j	百科全書	hyakkazensho	encyclopedia
+j	百花繚乱	hyakkaryoran	various flowers blooming …
+j	百角形	hyakukakukei	
+j	表現の自由	hyogennojiyu	freedom of expression
+j	表白主義	hyohakushugi	隔地者に対する意思表示において、その意思表示の行為…
+j	評決する	hyoketsusuru	
+k	향긋한	hyanggeuthan	
+k	향기롭다	hyanggiropda	fragrant, sweet
+k	향락적	hyangrakjeok	
+k	향락주의	hyangrakjuui	
+k	향주머니	hyangjumeoni	
+k	향토 민요	hyangtominyo	local folk song
+k	혁명	hyeongmyeong	revolution
+k	혁신적	hyeoksinjeok	묵은 풍속, 관습 따위를 바꾸어 새롭게 하는.
+k	혁신주의	hyeoksinjuui	
+k	혁신하다	hyeoksinhada	묵은 풍속, 관습, 조직, 방법 따위를 완전히…
+k	현관문	hyeongwanmun	
+k	현기증	hyeongijeung	
+k	현대적	hyeondaejeok	modern; contemporary
+k	현대주의	hyeondaejuui	
+k	현란하다	hyeollanhada	flashy, ornate, colourful…
+k	현무암질	hyeonmuamjil	
+k	현상론	hyeonsangnon	
+k	현상액	hyeonsangaek	
+k	현상학	hyeonsanghak	phenomenology
+k	현실적	hyeonsiljeok	actual
+k	현실주의	hyeonsiljuui	
+k	현재 시제	hyeonjaesije	시제 중 현재를 나타내는 문장.
+k	현재상	hyeonjaesang	
+k	현재시제	hyeonjaesije	present tense
+k	현재일기	hyeonjaeilgi	'현재날씨'를 말함
+k	현재주의	hyeonjaejuui	
+k	현저하다	hyeonjeohada	
+k	현질하다	hyeonjilhada	to pay for items in an on…
+k	현충일	hyeonchungil	국토방위에 목숨을 바친 이의 충성을 기념하는 …
+k	현학금	hyeonhakgeum	synonym of 거문고 (geomun'go…
+k	현학적	hyeonhakjeok	학식이 있음을 자랑하는.
+k	혈관계	hyeolgwangye	
+k	혈관학	hyeolgwanhak	
+k	혈우병	hyeorubyeong	
+k	협력자	hyeomnyeokja	
+k	협박하다	hyeopbakhada	to threaten, to menace
+k	형데무투	hyeongdemutu	chopsticks
+k	형벌의	hyeongbeorui	
+k	형용사	hyeongyongsa	adjective; descriptive wo…
+k	형태론	hyeongtaeron	
+k	형태학	hyeongtaehak	morphology
+k	효성왕	hyoseongwang	
+k	효율적인	hyoyuljeogin	
+k	효행하다	hyohaenghada	
+k	휴머노이드	hyumeonoideu	humanoid
+k	휴면하다	hyumyeonhada	
+k	휴양지대	hyuyangjidae	
+k	휴정하다	hyujeonghada	
+k	흉악무도	hyungangmudo	흉악하고 도리가 없음.
+k	흉흉히	hyunghyunghi	물결이 세차고 물소리가 매우 시끄럽게.
+e	hybrid warfare	hybridwarfare	1 meaning
+e	hydrocephalus	hydrocephalus	1 meaning
+e	hydrodynamics	hydrodynamics	1 meaning
+e	hydroxylamine	hydroxylamine	2 meanings
+e	hyperactivity	hyperactivity	1 meaning
+e	hyperglycemia	hyperglycemia	1 meaning
+e	hyperhidrosis	hyperhidrosis	1 meaning
+e	hypothecation	hypothecation	1 meaning
+j	ひょっとしたら	hyottoshitara	perhaps
+j	標本化周期	hyohonkashuki	アナログ信号を標本化するときの、標本の時間間隔。サ…
+j	百万長者	hyakumanchoja	millionaire (wealth excee…
+j	百人一首	hyakuninisshu	an anthology of one hundr…
+j	百円ショップ	hyakuenshoppu	100円ショップの別表記。
+j	百分率	hyakubunritsu	percentage
+j	百年早い	hyakunenhayai	
+j	百戦錬磨	hyakusenrenma	having trained in countle…
+k	향긋하다	hyanggeuthada	fragrant; aromatic
+k	향락업소	hyangnageopso	an adult entertainment bu…
+k	향상하다	hyangsanghada	(문어체, 구식) 능력이나 수준 등을 개선하다.
+k	향수병	hyangsubyeong	
+k	향심력	hyangsimryeok	
+k	향토 음식	hyangtoeumsik	local cuisine
+k	혁신되다	hyeoksindoeda	묵은 풍속, 관습, 조직, 방법 따위가 완전히…
+k	현대국어	hyeondaegugeo	Modern Korean
+k	현대성	hyeondaeseong	
+k	현미경	hyeonmigyeong	microscope
+k	현미녹차	hyeonminokcha	hyeonmi nokcha (Korean gr…
+k	현상일수	hyeonsangilsu	어떤 일정한 기간 중에 특정한 기상현상을 관측…
+k	현상주의	hyeonsangjuui	phenomenalism
+k	현재분사	hyeonjaebunsa	
+k	혈관종	hyeolgwanjong	
+k	혈관주사	hyeolgwanjusa	
+k	혈청소	hyeolcheongso	
+k	혈통주의	hyeoltongjuui	출생한 자녀는 부모의 국적을 따라야 한다는 원…
+k	협상하다	hyeopsanghada	('…과'가 나타나지 않을 때는 여럿임을 뜻하…
+k	협심증	hyeopsimjeung	가슴 부위의 신체 기관이 조이는 듯한 통증. …
+k	형식적	hyeongsikjeok	내용에는 관계하지 아니하고 밖으로 나타나 보이…
+k	형제자매	hyeongjejamae	brothers and sisters; sib…
+k	형제지간	hyeongjejigan	
+k	휴경하다	hyugyeonghada	
+k	휴대전화	hyudaejeonhwa	cellular phone, mobile ph…
+k	흉내내다	hyungnaenaeda	to imitate
+e	hyaluronic acid	hyaluronicacid	1 meaning
+e	hygroscopicity	hygroscopicity	2 meanings
+e	hyperbolic sine	hyperbolicsine	1 meaning
+e	hyperextension	hyperextension	1 meaning
+e	hyperinflation	hyperinflation	1 meaning
+e	hyperkeratosis	hyperkeratosis	1 meaning
+e	hypersexuality	hypersexuality	1 meaning
+e	hypothyroidism	hypothyroidism	1 meaning
+j	ヒューリスティックス	hyurisutikkusu	
+j	平仄が合わぬ	hyosokugaawanu	「平仄が合わない」に同じ。
+j	標準アラビア語	hyojunarabiago	
+j	標準入力	hyojunnyuryoku	standard input
+j	標準化変量	hyojunkahenryo	あるデータの値からそのデータの算術平均を引き、その…
+j	氷山の一角	hyozannoikkaku	the tip of the iceberg
+j	百人隊長	hyakunintaicho	
+j	百八十度	hyakuhachijudo	（一周の半分の角度であることから）正反対に。ちょう…
+j	百円均一	hyakuenkinitsu	100-yen shop, a common ty…
+j	百日咳	hyakunichizeki	pertussis; whooping cough
+j	表現行列	hyogengyoretsu	一次変換を表す行列。一次変換を連立方程式と見たとき…
+j	表面張力	hyomenchoryoku	surface tension
+k	향락산업	hyangnaksaneop	the adult entertainment i…
+k	향상되다	hyangsangdoeda	
+k	혁명가	hyeongmyeongga	revolutionist; revolution…
+k	혁명의	hyeongmyeongui	
+k	혁혁하다	hyeokhyeokhada	
+k	현명한	hyeonmyeonghan	
+k	현실적인	hyeonsiljeogin	
+k	현재날씨	hyeonjaenalssi	어떤 관측지점에서 관측된 최신의 기상상태, 현…
+k	현재완료	hyeonjaewallyo	
+k	현존하는	hyeonjonhaneun	
+k	현행범	hyeonhaengbeom	criminal caught red-handed
+k	현행법	hyeonhaengbeop	현재 시행되고 있는 법률.
+k	혈반병	hyeolbanbyeong	
+k	혈액검사	hyeoraekgeomsa	혈액형이나 병의 유무 따위를 알기 위하여 피를…
+k	혈액유동	hyeoraegyudong	
+k	혈액응고	hyeoraegeunggo	
+k	혈액형	hyeoraekhyeong	blood type
+k	혈전증	hyeoljeonjeung	
+k	혈청학	hyeolcheonghak	serology
+k	혐기성의	hyeomgiseongui	
+k	협력하다	hyeomnyeokhada	to cooperate; to collabor…
+k	형광판	hyeonggwangpan	
+k	형광펜	hyeonggwangpen	highlighter
+k	형법전	hyeongbeopjeon	criminal code
+k	형사보상	hyeongsabosang	국가형사사법의 과오로 의하여 죄인의 누명을 쓰…
+k	형식 언어	hyeongsikeoneo	
+k	형용사구	hyeongyongsagu	
+k	형용사의	hyeongyongsaui	
+k	형이상학	hyeongisanghak	metaphysics
+k	형제살해	hyeongjesalhae	
+k	형태학의	hyeongtaehagui	
+k	형혹성	hyeonghokseong	
+k	휴머니스트	hyumeoniseuteu	인도주의자.
+k	휴면법인	hyumyeonbeobin	
+k	흉측하다	hyungcheukhada	
+k	흉흉하다	hyunghyunghada	물결이 세차고 물소리가 매우 시끄럽다.
+e	hydrocyanic acid	hydrocyanicacid	1 meaning
+e	hydrogen bromide	hydrogenbromide	1 meaning
+e	hydrogen cyanide	hydrogencyanide	1 meaning
+e	hydrogen economy	hydrogeneconomy	1 meaning
+e	hydrogen sulfide	hydrogensulfide	1 meaning
+e	hydrogen vehicle	hydrogenvehicle	1 meaning
+e	hyperbolic space	hyperbolicspace	1 meaning
+e	hypercorrection	hypercorrection	1 meaning
+e	hypochondriasis	hypochondriasis	1 meaning
+j	平仄が合わない	hyosokugaawanai	つじつまが合わない。話の筋が通らない。道理にかなわ…
+j	標本化周波数	hyohonkashuhasu	アナログ信号を標本化するときの、標本化周期の逆数。…
+j	標準中国語	hyojunchugokugo	中国語のうち、中華人民共和国における標準語。祖語は…
+j	百万角形	hyakumankakukei	
+j	百人百様	hyakuninhyakuyo	so many men, so many minds
+j	百尺竿頭	hyakushakukanto	百尺もあるような竿の先。
+j	表計算ソフト	hyokeisansofuto	spreadsheet (a computer s…
+k	향상시키다	hyangsangsikida	
+k	혁명군	hyeongmyeonggun	
+k	현대영어	hyeondaeyeongeo	
+k	현명하다	hyeonmyeonghada	wise; sagacious; long-hea…
+k	현모양처	hyeonmoyangcheo	
+k	혈액순환	hyeoraeksunhwan	
+k	혈연집단	hyeoryeonjipdan	
+k	형광봉	hyeonggwangbong	
+k	형광색	hyeonggwangsaek	fluorescent colour
+k	형성하다	hyeongseonghada	to form; to take shape
+k	형식과학	hyeongsikgwahak	
+k	형용사화	hyeongyongsahwa	
+k	휴대식량	hyudaesingnyang	'전투식량'.
+e	hydrochloric acid	hydrochloricacid	1 meaning
+e	hydrogen chloride	hydrogenchloride	1 meaning
+e	hydrogen fluoride	hydrogenfluoride	1 meaning
+e	hydrogen peroxide	hydrogenperoxide	1 meaning
+e	hydrogen selenide	hydrogenselenide	1 meaning
+e	hydrophobization	hydrophobization	1 meaning
+e	hydroxocobalamin	hydroxocobalamin	1 meaning
+e	hyperbolic cosine	hyperboliccosine	1 meaning
+e	hypersensitivity	hypersensitivity	1 meaning
+e	hyperventilation	hyperventilation	1 meaning
+e	hypervitaminosis	hypervitaminosis	1 meaning
+e	hypophosphatemia	hypophosphatemia	1 meaning
+j	百戦百勝	hyakusenhyakusho	戦えば必ず勝つこと。必勝。
+k	혁명적	hyeongmyeongjeok	매우 혁신적이고 파격적인.
+k	현금배당	hyeongeumbaedang	회사가 이익을 주주에게 현금으로 나누어 주는 …
+k	현금작물	hyeongeumjangmul	
+k	현상학적	hyeonsanghakjeok	
+k	현실정치	hyeonsiljeongchi	
+k	혈액은행	hyeoraegeunhaeng	
+k	혈연관계	hyeoryeongwangye	consanguinity, kinship, b…
+k	혈족결혼	hyeoljokgyeolhon	
+k	혈혈단신	hyeolhyeoldansin	
+k	혐의스럽다	hyeomuiseureopda	
+k	형광등	hyeonggwangdeung	fluorescent lamp
+k	형성되다	hyeongseongdoeda	to be formed or shaped
+k	형식적인	hyeongshikjeogin	
+k	형용동사	hyeongyongdongsa	adjectival noun (in Japan…
+k	흉내지빠귀	hyungnaejippagwi	
+e	hydrofluorocarbon	hydrofluorocarbon	1 meaning
+e	hyperbolic tangent	hyperbolictangent	1 meaning
+e	hyperpigmentation	hyperpigmentation	1 meaning
+j	ヒューマンビートボックス	hyumanbitobokkusu	
+j	標準出力	hyojunshutsuryoku	standard output
+j	百発百中	hyappatsuhyakuchu	hitting the mark every ti…
+j	表現主義音楽	hyogenshugiongaku	
+k	향근육성	hyanggeunyukseong	
+k	현금인출기	hyeongeuminchulgi	
+k	현미간섭계	hyeonmiganseopgye	
+k	현미경자리	hyeonmigyeongjari	
+k	혈청검사	hyeolcheonggeomsa	
+k	혈청요법	hyeolcheongyobeop	
+k	협정 세계시	hyeopjeongsegyesi	
+k	형광물질	hyeonggwangmuljil	
+k	효성스럽다	hyoseongseureopda	마음을 다하여 부모를 섬기는 태도가 있다.
+k	흉년에 윤달	hyungnyeoneyundal	ill often comes on the ba…
+k	흉악망측	hyungangmangcheuk	
+j	表現の自由戦士	hyogennojiyusenshi	an anticensorship advocat…
+k	혁명가극	hyeongmyeonggageuk	revolutionary opera
+k	혁명재판	hyeongmyeongjaepan	
+k	현대 그리스어	hyeondaegeuriseueo	오늘날 사용되는 그리스어.
+k	현대 복합궁	hyeondaebokhapgung	compound bow
+k	현대 화폐 이론	hyeondaehwapyeiron	
+k	현재 완료 시제	hyeonjaewallyosije	동작이 과거에서부터 현재까지 지속된 시제를 말…
+k	협동조합주의	hyeopdongjohapjuui	
+k	휴대용 풍금	hyudaeyongpunggeum	barrel organ
+e	hydraulic fracturing	hydraulicfracturing	1 meaning
+e	hyperparathyroidism	hyperparathyroidism	1 meaning
+k	혁명정부	hyeongmyeongjeongbu	
+k	현금출입장	hyeongeumchuripjang	
+k	형명법술	hyeongmyeongbeopsul	법으로써 나라를 다스리는 방법과 기술.
+k	형용사화하다	hyeongyongsahwahada	
+e	hypergeometric series	hypergeometricseries	1 meaning
+j	百八十度変わる	hyakuhachijudokawaru	それまでとは正反対の方向に変わる。
+j	百科事典編纂者	hyakkajitenhensansha	
+k	현금인출 카드	hyeongeuminchulkadeu	
+k	현대 표준 아랍어	hyeondaepyojunarabeo	
+k	혈소판감소증	hyeolsopangamsojeung	
+k	혐기성 생물	hyeomgiseongsaengmul	
+k	형식 형태소	hyeongsikhyeongtaeso	(언어) 실질 형태소에 붙어 주로 말과 말 사…
+k	혁명정권	hyeongmyeongjeonggwon	
+k	현대오종경기	hyeondaeojonggyeonggi	'근대오종경기'의 북한말.
+e	hypergeometric function	hypergeometricfunction	1 meaning
+k	혈소판채혈술	hyeolsopanchaehyeolsul	
+e	hypertext markup language	hypertextmarkuplanguage	1 meaning
+j	百害あって一利なし	hyakugaiatteichirinashi	有害な事柄ばかりで利益になる点が一つもない。
+k	혁명을 일으키다	hyeongmyeongeulireukida	
+j	百聞は一見に如かず	hyakubunwaikkennishikazu	you understand better by …
+k	현상금 사냥꾼	hyeonsanggeumsanyangkkun	
+k	현장부재증명	hyeonjangbujaejeungmyeong	
+e	hypergeometric distribution	hypergeometricdistribution	1 meaning
+j	百姓の息が天に昇る	hyakushonoikigatenninoboru	
+j	百日の説法屁一つ	hyakunichinoseppohehitotsu	“a hundred days of sermon…
+k	현재 진행형 시제	hyeonjaejinhaenghyeongsije	지금 하고 있는 일을 나타내는 시제.
+k	현금 자동 입출금기	hyeongeumjadongipchulgeumgi	
+k	현재의 크리스마스 유령	hyeonjaeuikeuriseumaseuyuryeong	

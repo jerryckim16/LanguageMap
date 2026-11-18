@@ -1,0 +1,2232 @@
+j	主	主	main
+j	任	任	duty, responsibility, obl…
+j	伻	伻	
+j	医	医	doctor; physician; medici…
+j	吻	吻	proboscis
+j	嘻	嘻	ものに感じて発する声。ああ。
+j	壻	壻	
+j	妻	妻	a spouse
+j	姻	姻	marriage; matrimonial all…
+j	尻	尻	behind; the end
+j	峻	峻	a male given name
+j	巻	巻	scroll
+j	幻	幻	an illusion, a phantom, a…
+j	廻	廻	imperfective and stem (or…
+j	戻	戻	go against, run counter to
+j	槻	槻	synonym of 欅 (keyaki, “ze…
+j	檻	檻	
+j	櫻	櫻	a female given name
+j	死	死	death
+j	殻	殻	shell, crust, chaff
+j	治	治	a male given name
+j	活	活	life
+j	爻	爻	yao, horizontal line in a…
+j	画	画	picture, drawing, painting
+j	登	登	a male given name
+j	移	移	under the Ritsuryō system…
+j	系	系	type, kind, system, family
+j	荻	荻	Amur silver-grass (Miscan…
+j	藻	藻	alga, algae
+j	虻	虻	a horsefly
+j	蛻	蛻	
+j	蟻	蟻	ant
+j	褻	褻	informal; everyday affairs
+j	費	費	cost, fee
+j	輻	輻	spoke (of a wheel)
+j	辻	辻	a crossroad, intersection
+j	釻	釻	hanging ring, lifting rin…
+j	錻	錻	(ぶりき) 薄い鉄板に錫（スズ）をメッキしたもの。…
+j	阻	阻	（ソ）険しいこと。険しい所。
+j	隻	隻	boats or ships
+j	電	電	lightning
+j	韻	韻	rhyme
+j	鰻	鰻	an eel
+j	鶻	鶻	
+j	麻	麻	hemp, Cannabis sativa
+j	鼻	鼻	nose
+k	권	巻	volumes
+k	마	麻	jinx; devil, demon; evil …
+k	벽	僻	wall
+k	비	費	rain
+k	사	死	four
+k	염	閻	salt
+k	운	韻	luck, fortune, fate
+k	임	任	lover, beloved
+k	주	主	week (unit of time)
+k	처	妻	wife
+j	㑻傄	㑻傄	元気な様子。健やかな様子。体が丈夫である。（参考：…
+j	主な	主な	
+j	主に	主に	mainly, primarily
+j	主上	主上	Your Highness; His Majest…
+j	主事	主事	主にある業務を司ること。
+j	主人	主人	(one's own) husband (use …
+j	主任	主任	a chief; a head
+j	主位	主位	物事の中心となる位置。
+j	主体	主体	the main part, the part m…
+j	主値	主値	多価関数が全単射となるように定義域を制限したときの…
+j	主催	主催	sponsorship, staging, org…
+j	主僕	主僕	master and servant
+j	主典	主典	the lowest of the four ka…
+j	主刑	主刑	それぞれ独立して科すことができる刑罰。現在の刑法で…
+j	主剤	主剤	調剤で主成分となる薬剤。
+j	主力	主力	mainstay, leader, flagshi…
+j	主動	主動	中心となって動作を起こすこと。
+j	主司	主司	取り締まりを行う者。
+j	主君	主君	家臣たちが従う人物。
+j	主唱	主唱	ある主張などを中心となって唱えること。
+j	主因	主因	primary cause; main factor
+j	主垢	主垢	メインアカウント。
+j	主夫	主夫	家事を主な仕事とする夫。
+j	主婦	主婦	housewife, female homemak…
+j	主守	主守	司り、守ること。
+j	主客	主客	host and guest; see: 主人 (…
+j	主宰	主宰	presidency; chairmanship;…
+j	主家	主家	主君や主人の家。
+j	主審	主審	the chief or head umpire,…
+j	主将	主将	captain (One of the athle…
+j	主導	主導	leadership
+j	主峰	主峰	主な峰。ある山脈の中で最も高い峰。また、ある山塊の…
+j	主席	主席	president (of a socialist…
+j	主帳	主帳	日本の律令制で郡司、軍団の主典（さかん）。
+j	主幹	主幹	senior; chief
+j	主張	主張	opinion, assertion, conte…
+j	主役	主役	leading role, leading part
+j	主従	主従	superior and subordinate;…
+j	主情	主情	人間の感情を主とすること。
+j	主意	主意	main idea, essential idea…
+j	主戦	主戦	戦争を始めるよう主張すること。
+j	主戰	主戰	主戦の旧字体表記。
+j	主持	主持	主となって維持すること。
+j	主政	主政	日本の律令制で郡司の三等官である判官（じょう）。
+j	主教	主教	bishop
+j	主文	主文	裁判の判決の中で、結論となる部分。
+j	主日	主日	the Sabbath; the Lord's D…
+j	主旨	主旨	the (main) point; purport
+j	主星	主星	連星をなす恒星のうち主たるもの。一般には最も明るい…
+j	主材	主材	main ingredients, chief m…
+j	主柱	主柱	建物を支える主要な柱。
+j	主査	主査	chief examiner
+j	主根	主根	植物の種子の胚から出た幼根が、まっすぐ地中に伸び、…
+j	主格	主格	the nominative case
+j	主権	主権	sovereignty (of a nation:…
+j	主權	主權	
+j	主治	主治	主となって治療を行うこと。
+j	主流	主流	the main current of a riv…
+j	主演	主演	playing the leading role
+j	主犯	主犯	prime culprit; principal …
+j	主眼	主眼	main idea, main point
+j	主知	主知	理性、知性、合理性などの機能を感情や意志などの機能…
+j	主砲	主砲	main battery or largest g…
+j	主神	主神	複数の神を祀る神社の祭神で主体となる神。
+j	主祭	主祭	キリスト教などで祭事を司ること。また、その人。
+j	主税	主税	taxation
+j	主筆	主筆	editor-in-chief
+j	主管	主管	supervision
+j	主節	主節	main clause
+j	主義	主義	a principle or set of pri…
+j	主翼	主翼	main wings, primary wings…
+j	主能	主能	主な能力や働き。
+j	主脈	主脈	葉脈のうち、枝分かれの元となる中央の太いもの。中肋。
+j	主脳	主脳	主要な部分。主眼。
+j	主膳	主膳	律令制で宮中の食膳を司った職。
+j	主菜	主菜	main dish; main course
+j	主著	主著	ある人の主要な著作。
+j	主虹	主虹	光が一度だけ反射して現れる虹。
+j	主裁	主裁	主となり物事をとりしきること。
+j	主要	主要	main, principal
+j	主観	主観	subjectivity
+j	主計	主計	組織で会計を司ること。また、そのような役目や人。
+j	主語	主語	subject
+j	主調	主調	楽曲の基礎となる調。
+j	主謀	主謀	悪事や陰謀を中心となり企図すること。また、その人。
+j	主賓	主賓	主人と来賓。
+j	主軸	主軸	main shaft
+j	主辞	主辞	論理学における主語のこと。
+j	主部	主部	主要な部分。
+j	主都	主都	州や省、植民地などを治める政府の庁舎がある都市。
+j	主震	主震	地震の本震。
+j	主音	主音	prime, tonic, keynote
+j	主題	主題	subject, theme, main topic
+j	主食	主食	staple food
+j	主首	主首	頭領。
+j	任す	任す	to entrust
+j	任せ	任せ	imperfective and stem (or…
+j	任侠	任侠	chivalry, a chivalrous sp…
+j	任俠	任俠	弱者を助け、強者を挫くという気立てに富むこと。
+j	任信	任信	信任すること。
+j	任免	任免	appointment and dismissal
+j	任務	任務	duty, task, mission
+j	任命	任命	an appointment, assignmen…
+j	任地	任地	one's post, the place one…
+j	任天	任天	天命に任せること。
+j	任官	任官	appointment to a position
+j	任意	任意	arbitrary, as one wants o…
+j	任挙	任挙	責任をもって推挙すること。
+j	任期	任期	tenure, term or period of…
+j	任用	任用	appointment, employment
+j	任能	任能	才能がある者を適材適所で任用すること。
+j	任豚	任豚	a Nintendo fanboy, Ninten…
+j	任那	任那	Mimana, a place in ancien…
+j	任限	任限	任期。
+j	僻む	僻む	to be overly sensitive; t…
+j	僻倪	僻倪	城壁の上に設けた低い垣根。特に矢狭間を設けたもの。…
+j	僻地	僻地	remote area; out-of-the-w…
+j	僻見	僻見	偏った見解や意見。偏見。
+j	僻説	僻説	偏った説。道理に合わない説。
+j	僻遠	僻遠	政治や文化などの中心となる地から遠く離れていること…
+j	僻陬	僻陬	辺鄙な土地。僻地。
+j	儻蕩	儻蕩	おおまかなさま。
+j	儻論	儻論	正論。
+j	刻々	刻々	moment by moment, hour by…
+j	刻む	刻む	to chop, to mince
+j	刻下	刻下	the present time
+j	刻刻	刻刻	時間の経過の一区切り。時間の経過に従い。
+j	刻削	刻削	刻み、削ること。
+j	刻剡	刻剡	刻み記すこと。
+j	刻印	刻印	engraving
+j	刻即	刻即	すぐに。即刻。
+j	刻器	刻器	物に彫刻を施すための器具。
+j	刻子	刻子	a set of three identical …
+j	刻字	刻字	ある物に文字を彫刻すること。また、そのような文字。
+j	刻廉	刻廉	厳格で清廉であること。また、そのようなさま。
+j	刻彫	刻彫	彫り刻むこと。彫刻。
+j	刻板	刻板	版木に刻むこと。
+j	刻治	刻治	治めること。
+j	刻漏	刻漏	漏刻。水時計。
+j	刻版	刻版	版木に刻むこと。
+j	刻石	刻石	文字などを刻んだ石。
+j	刻苦	刻苦	hard work
+j	刻薄	刻薄	むごたらしく薄情なこと。また、そのようなさま。
+j	刻賊	刻賊	害すること。
+j	刻銘	刻銘	金属製品や石（石造物）などに年月日や名前などの文字…
+j	刻鏤	刻鏤	彫り、刻むこと。彫刻。
+j	刻限	刻限	appointed time
+j	勻霧	勻霧	香しい霧。
+j	医事	医事	医療に関する事柄。
+j	医伯	医伯	優れた医師。
+j	医務	医務	医療の実務。
+j	医原	医原	医療行為が原因で生ずる疾患である医原病の略。
+j	医員	医員	病院・医院・診療所などに勤める医師。
+j	医国	医国	国を統治すること。
+j	医大	医大	medical school
+j	医学	医学	medicine (field of study)…
+j	医官	医官	doctor of Japan Self-Defe…
+j	医家	医家	doctor
+j	医局	医局	医務を取り扱う部局。
+j	医師	医師	doctor
+j	医政	医政	医療に関する行政。
+j	医書	医書	医療に関する内容の書物。
+j	医業	医業	医師の職業。
+j	医治	医治	病気を治すこと。
+j	医源	医源	医療行為が原因で生ずる疾患である医源病の略。
+j	医王	医王	仏法を説くことで衆生の心を癒やす仏や菩薩。
+j	医生	医生	medical student
+j	医用	医用	医療に使用すること。
+j	医界	医界	医師の世界。
+j	医療	医療	medical treatment
+j	医科	医科	medical school
+j	医籍	医籍	医師免許を持つ者の氏名や本籍などを登録した国の帳簿。
+j	医者	医者	medical doctor
+j	医薬	医薬	medicine
+j	医術	医術	病気やけが、きずを治す技術。
+j	医道	医道	art of medicine
+j	医長	医長	大きな病院などで各診療科の主任となる医師。
+j	医院	医院	clinic; doctor's office
+j	医骨	医骨	医道の心得や秘訣。
+j	医鬱	医鬱	鬱憤を晴らすこと。
+j	卻走	卻走	退き、逃げること。逃走。
+j	卻退	卻退	「却退」の別表記。
+j	去ぬ	去ぬ	to go; to leave
+j	去ね	去ね	
+j	去る	去る	to leave
+j	去冬	去冬	last winter
+j	去勢	去勢	castration; removal of te…
+j	去声	去声	the departing tone (one o…
+j	去夏	去夏	last summer
+j	去家	去家	かつての家制度で戸主、家族が婚姻や分家などにより所…
+j	去就	去就	ある地位や状況などから去ることと留まること。
+j	去年	去年	last year
+j	去春	去春	last spring
+j	去月	去月	今月の前の月。先月。後月。
+j	去来	去来	行ったり来たりすること。ゆきき。往来。
+j	去楽	去楽	喪中。
+j	去歳	去歳	今年より一つ前の年。(季語)
+j	去留	去留	going and staying, going …
+j	去痰	去痰	expectoration
+j	去秋	去秋	last autumn
+j	吻流	吻流	口達者。
+j	呻き	呻き	groan, moan
+j	呻く	呻く	to groan, to moan
+j	呻吟	呻吟	moaning; groaning
+j	呻呼	呻呼	呻き、叫ぶこと。
+j	呻喚	呻喚	呻吟。
+j	嘻嗟	嘻嗟	嘆くこと。
+j	嘻嘻	嘻嘻	喜び、嬉しがること。
+j	嘻然	嘻然	笑うこと。そのさま。
+j	嘻笑	嘻笑	嬉笑の異表記。
+j	圻田	圻田	王の領地。
+j	墻壁	墻壁	wall
+j	妻の	妻の	
+j	妻君	妻君	細君。
+j	妻女	妻女	妻と娘。
+j	妻妾	妻妾	wives and concubines
+j	妻子	妻子	wife and children
+j	妻孥	妻孥	wife and children
+j	妻室	妻室	妻。女房。家内。
+j	妻帯	妻帯	妻を持つこと。男性の既婚者。
+j	姻家	姻家	婚姻により姻戚関係となった配偶者同士の家。
+j	姻戚	姻戚	結婚したことによりできる親類関係のこと。姻族。
+j	姻族	姻族	配偶者の血族又は血族の配偶者。
+j	姻親	姻親	婚姻関係を結ぶことにより親族となった人。姻族。
+j	姻類	姻類	婚姻により姻戚関係となった配偶者同士の家。姻家。
+j	尻尾	尻尾	tail
+j	尻穴	尻穴	asshole (anus)
+j	尻籠	尻籠	「矢壺」の異表記。
+j	尻肉	尻肉	
+j	尻臀	尻臀	buttock
+j	峻別	峻別	clear distinction
+j	峻刻	峻刻	あまりに厳しく、情愛の無いこと。厳酷に過ぎること。…
+j	峻厳	峻厳	strict; stern; severe
+j	峻子	峻子	a female given name
+j	峻峭	峻峭	山などが高く険しいさま。
+j	峻峰	峻峰	峻険な峰。険しい山。
+j	峻嶮	峻嶮	険しいさま。
+j	峻烈	峻烈	激しく、また厳しいこと。また、そのようなさま。
+j	峻輔	峻輔	a male given name
+j	峻酷	峻酷	あまりに厳しく、情愛の無いこと。厳酷に過ぎること。…
+j	峻険	峻険	山などが高く非常に険しいこと。
+j	巻き	巻き	
+j	巻く	巻く	to roll, to coil, to wind…
+j	巻尾	巻尾	巻物、書物の終わり。巻末。
+j	巻幔	巻幔	幕を巻くこと。
+j	巻数	巻数	巻き物、書物の冊数。
+j	巻曲	巻曲	曲がりくねること。
+j	巻末	巻末	end of a book
+j	巻束	巻束	書巻を巻くこと。
+j	巻柏	巻柏	岩檜葉の漢名。
+j	巻毛	巻毛	
+j	巻物	巻物	a scroll, a long wound-up…
+j	巻簾	巻簾	簾を巻き上げること。
+j	巻綬	巻綬	官印の組紐を巻き、官職を誇らないこと。
+j	巻纓	巻纓	武官が使用する巻いた冠の纓。
+j	巻耳	巻耳	耳菜草の古名。
+j	巻臠	巻臠	手足が引き攣る病。
+j	巻舌	巻舌	驚嘆。
+j	巻舒	巻舒	伸縮。
+j	巻貝	巻貝	conch
+j	巻雲	巻雲	cirrus cloud
+j	巻頭	巻頭	beginning / opening of a …
+j	巻首	巻首	巻物や書物の初めの部分。巻頭。
+j	巻鬚	巻鬚	植物のまきひげ。
+j	幻人	幻人	person who uses illusiona…
+j	幻偽	幻偽	虚仮。
+j	幻像	幻像	実際には無いのに有るかのように見える形・姿。
+j	幻出	幻出	幻が現れるようにぼんやりと出現すること。
+j	幻嗅	幻嗅	実際にはない異臭を感じること。幻臭。
+j	幻夢	幻夢	夢幻。
+j	幻妖	幻妖	妖怪。
+j	幻妻	幻妻	「衒妻」の異表記。
+j	幻工	幻工	幻術。
+j	幻影	幻影	an illusion, a vision
+j	幻惑	幻惑	ありもしないことで人を惑わすこと。
+j	幻想	幻想	fantasy, illusion
+j	幻戯	幻戯	奇術。
+j	幻日	幻日	sun dog; parhelion
+j	幻月	幻月	moon dog; paraselene
+j	幻杳	幻杳	仄かな幻。
+j	幻法	幻法	illusionary arts; magic, …
+j	幻泡	幻泡	儚いさま。
+j	幻滅	幻滅	disillusionment
+j	幻灯	幻灯	A magic lantern: an image…
+j	幻獣	幻獣	cryptid
+j	幻相	幻相	幻のように実体がなく儚いありさま。無常。
+j	幻窅	幻窅	幻杳の異表記。
+j	幻聴	幻聴	auditory hallucination
+j	幻聽	幻聽	幻聴の旧字体表記。
+j	幻肢	幻肢	事故や病気により失われた四肢（腕や脚など）が実際に…
+j	幻臭	幻臭	実際にはない臭いを感じること。
+j	幻術	幻術	illusionary techniques
+j	幻視	幻視	vision (something imagina…
+j	幻覚	幻覚	hallucination; illusion
+j	幻談	幻談	怪談のこと。
+j	幻象	幻象	幻影。
+j	幻魄	幻魄	亡魂。
+j	廻し	廻し	mawashi: the loincloth wo…
+j	廻る	廻る	to turn, to revolve
+j	廻向	廻向	故人の冥福を祈念して仏事や供養をすること。
+j	廻報	廻報	回報の別表記。
+j	廻文	廻文	回文の異表記・別形。
+j	廻旋	廻旋	「回旋」の別表記。
+j	廻書	廻書	返書。
+j	廻漕	廻漕	船舶を利用して貨物を輸送すること。
+j	廻章	廻章	次々に回覧する文書。回状。
+j	廻航	廻航	船舶で各地を巡航すること。
+j	廻船	廻船	single-mast, square rigge…
+j	廻転	廻転	「回転」の異表記。
+j	廻送	廻送	「回送」の別表記。
+j	忻怖	忻怖	喜憂。
+j	悻切	悻切	剛直。
+j	悻悻	悻悻	非常に腹を立てるさま。
+j	惻心	惻心	悼み、憐れむ心。惻隠の心。
+j	惻隠	惻隠	compassion; pity
+j	戻す	戻す	return, put back
+j	戻り	戻り	return
+j	戻る	戻る	to return
+j	戻很	戻很	道理に悖ること。
+j	戻換	戻換	ある判断から、その主語の矛盾概念を主語とする別の判…
+j	戻行	戻行	誤った行い。
+j	戻道	戻道	道理に反すること。また、そのようなさま。
+j	捻づ	捻づ	to twist
+j	捻り	捻り	a twist
+j	捻る	捻る	to twist (to turn by pinc…
+j	捻出	捻出	managing to raise funds, …
+j	捻挫	捻挫	sprain
+j	捻転	捻転	捻れて方向が変わること。
+j	掻き	掻き	adds emphasis to verbs
+j	掻く	掻く	to scratch (e.g. one's he…
+j	掻摩	掻摩	掻くこと。
+j	掻痒	掻痒	scratching an itch
+j	掻頭	掻頭	scratching the head
+j	攻め	攻め	
+j	攻伐	攻伐	攻め、討つこと。
+j	攻勢	攻勢	the offensive, aggressive…
+j	攻囲	攻囲	ある場所を包囲して攻めること。
+j	攻城	攻城	siege
+j	攻守	攻守	offense and defense
+j	攻撃	攻撃	an attack
+j	攻玉	攻玉	玉を磨くこと。
+j	攻略	攻略	the capture of an opponen…
+j	攻究	攻究	studying closely
+j	攻落	攻落	城塞などを攻撃して落とすこと。
+j	攻鈔	攻鈔	掠めること。
+j	攻防	攻防	offense and defense
+j	杻械	杻械	manacles, shackles, fette…
+j	査収	査収	act of checking and then …
+j	査問	査問	（ある問題などに対し）調査し、問いただすこと。
+j	査定	査定	assessment, valuation
+j	査察	査察	inspection (for complianc…
+j	査証	査証	a visa
+j	査読	査読	reviewing a text for qual…
+j	査閲	査閲	実地に見て調べること。
+j	榻背	榻背	椅子の背凭れ。
+j	槻欅	槻欅	synonym of 欅 (“zelkova”)
+j	檻倉	檻倉	牢獄。牢屋。獄舎。
+j	檻塞	檻塞	囲いをつくって塞ぐこと。
+j	檻徴	檻徴	禁固。
+j	檻穽	檻穽	檻と落とし穴。
+j	檻車	檻車	罪人を乗せ護送する車。
+j	檻送	檻送	罪人などを護送車で移動させること。
+j	櫻井	櫻井	Sakurai (a neighborhood o…
+j	櫻子	櫻子	a female given name
+j	櫻澤	櫻澤	a surname
+j	櫻花	櫻花	
+j	死ぐ	死ぐ	
+j	死す	死す	to die
+j	死に	死に	death, dying
+j	死ぬ	死ぬ	to die
+j	死ね	死ね	expression to show discon…
+j	死中	死中	fatal situation
+j	死亡	死亡	death
+j	死人	死人	a dead person, the dead
+j	死体	死体	a dead body, a cadaver, a…
+j	死傷	死傷	casualties; injuries and …
+j	死児	死児	死んでしまった子供。
+j	死処	死処	「死所」の異表記。
+j	死出	死出	死んであの世へ旅立つこと。
+j	死刑	死刑	capital punishment
+j	死別	死別	bereavement
+j	死力	死力	effort of such magnitude …
+j	死去	死去	death
+j	死友	死友	共に死ぬことを誓い合うほどの親しい友人。
+j	死句	死句	（仏教）修行者の間違った精神により活用されなかった…
+j	死命	死命	死ぬべき命。
+j	死因	死因	cause of death
+j	死地	死地	deathplace; deathtrap; pl…
+j	死士	死士	man of sacrifice
+j	死声	死声	悲しい音調。
+j	死学	死学	実用的な価値の無い学問。
+j	死守	死守	defending to the death
+j	死室	死室	「屍室」の異表記。
+j	死屍	死屍	dead body; corpse
+j	死後	死後	after death
+j	死所	死所	死ぬべき場所。
+j	死文	死文	効力がない法令や規則。
+j	死斑	死斑	人の死後、皮膚にあらわれる紫赤色あるいは紫青色の斑…
+j	死日	死日	死んだ日。死ぬ日。
+j	死有	死有	moment of death, one of 四…
+j	死期	死期	(しき、しご) 死に際。臨終。
+j	死業	死業	死を招く前世の業。また、その業による死。
+j	死歿	死歿	死ぬこと。
+j	死毒	死毒	動物の死骸が細菌の働きにより分解される際にできる有…
+j	死水	死水	流れない水。止水。
+j	死没	死没	death
+j	死法	死法	効力を失った法令。実際に適用のない法令。。
+j	死活	死活	life-or-death
+j	死海	死海	Dead Sea (a highly saline…
+j	死滅	死滅	dying out
+j	死火	死火	死を大きな火災に例えた語。
+j	死灰	死灰	火が消え冷たくなった炭。
+j	死点	死点	ピストンなどの往復機関でクランクと連接棒が一直線と…
+j	死王	死王	死んだ王。
+j	死球	死球	hit-by-pitch
+j	死生	死生	life and death
+j	死産	死産	stillbirth
+j	死病	死病	terminal illness; deadly …
+j	死相	死相	the look of death
+j	死神	死神	
+j	死票	死票	選挙において、その票を投じた有権者を代表する当選者…
+j	死絶	死絶	息が絶え、死ぬこと。
+j	死線	死線	捕虜の収容所などの周囲で、ある範囲をこえると銃殺さ…
+j	死罪	死罪	capital crime
+j	死者	死者	a dead person, the dead
+j	死聲	死聲	死声の旧字体表記。
+j	死肉	死肉	死骸の肉。
+j	死脈	死脈	死に近づいた弱い脈。
+j	死臭	死臭	死体が発する臭い。
+j	死苦	死苦	（仏教）四苦の一つ。人が死を免れることができないと…
+j	死蔵	死蔵	storing away without using
+j	死蝋	死蝋	死体が長期間水中や湿地にあったとき、脂肪が脂肪酸と…
+j	死角	死角	blind spot (area that can…
+j	死語	死語	a dead language (language…
+j	死都	死都	
+j	死重	死重	
+j	死門	死門	死ぬこと。死去。
+j	死闘	死闘	life-or-death fight
+j	死霊	死霊	spirit of the dead, ghost…
+j	死面	死面	death mask
+j	死馬	死馬	死んだ馬。
+j	死骸	死骸	corpse
+j	死魔	死魔	四魔のうちの一つで、死を魔としたもの。
+j	殻径	殻径	shell diameter
+j	殻粉	殻粉	からこの漢字表記。
+j	殻長	殻長	shell length
+j	殻頂	殻頂	umbo
+j	殻高	殻高	shell height
+j	治す	治す	to cure, to heal
+j	治む	治む	
+j	治る	治る	to heal
+j	治下	治下	他国や政権の支配、統治のもとにあること。
+j	治世	治世	peaceful times
+j	治乱	治乱	order and chaos, peacetim…
+j	治事	治事	政務を執行すること。
+j	治兵	治兵	軍隊を訓練すること。
+j	治具	治具	jig (mechanical device)
+j	治効	治効	treatment efficacy
+j	治国	治国	国を治めること。
+j	治夫	治夫	a male given name
+j	治子	治子	a female given name
+j	治安	治安	public order
+j	治定	治定	落着すること。決定すること。
+j	治山	治山	植林などをすることにより山を整備すること。
+j	治平	治平	世の中が治まり、平穏なこと。また、そのようなさま。
+j	治彦	治彦	a male given name
+j	治承	治承	the Jishō era, 1177-1181
+j	治政	治政	政治。
+j	治明	治明	a male given name
+j	治暦	治暦	the Jiryaku era, 1065-1069
+j	治権	治権	国を統治する権利。
+j	治水	治水	flood control
+j	治理	治理	物事を安定させること。
+j	治産	治産	自分の財産を管理し処分すること。
+j	治田	治田	（主に平安時代に）開墾された田地。
+j	治男	治男	a male given name
+j	治略	治略	世を治める方略。
+j	治療	治療	medical treatment
+j	治癒	治癒	complete healing (of an i…
+j	治績	治績	統治の実績。
+j	治罪	治罪	罪を調べ、処分すること。
+j	治美	治美	a male given name
+j	治者	治者	国・地方を治める人。統治者。
+j	治術	治術	国を治める方法。
+j	治跡	治跡	「治績」の別表記。
+j	治邦	治邦	国を治めること。
+j	治部	治部	a government official in …
+j	治験	治験	clinical trial
+j	活写	活写	いきいきと写し、表現すること。
+j	活力	活力	energy
+j	活動	活動	activity, work, operation
+j	活嘴	活嘴	コック（cock）。活栓。
+j	活塞	活塞	piston
+j	活字	活字	movable type
+j	活弁	活弁	無声映画で映画の内容を説明する人。活動写真弁士、活…
+j	活性	活性	activity
+j	活栓	活栓	配管などの途中に設置し、中を通る流体を止めたり、調…
+j	活機	活機	生き生きした動き。
+j	活殺	活殺	生かすことと殺すこと。
+j	活気	活気	liveliness, energy, vivac…
+j	活水	活水	流れ動く水。
+j	活況	活況	活動が盛んな状態・状況。にぎわっている状況。
+j	活法	活法	method of application
+j	活活	活活	仮死状態のものを蘇生すること。
+j	活溌	活溌	元気で勢いの良い様。
+j	活潑	活潑	元気で勢いの良い様。
+j	活火	活火	盛んに燃える火。
+j	活版	活版	活字を組んで並べてつくられた印刷用の版。活字版。
+j	活用	活用	application (the use of a…
+j	活発	活発	active, vigorous, spirite…
+j	活着	活着	接ぎ木や挿し木、移植した植物が台木と結合したり、根…
+j	活線	活線	電気が流れている電線。
+j	活計	活計	たつき。生計。
+j	活路	活路	means of survival
+j	活躍	活躍	activity, action
+j	添う	添う	to accompany
+j	添乗	添乗	the act or practice of gu…
+j	添乘	添乘	
+j	添付	添付	attachment, appendix, ann…
+j	添刪	添刪	「添竄」の異表記。
+j	添刷	添刷	額面を訂正するため、切手に新たな額面を刷り加えるこ…
+j	添削	添削	revision, correction
+j	添加	添加	addition
+j	添字	添字	「添え字」を参照。
+j	添景	添景	風景画でおもむきを出すために加えられた人や動物。
+j	添書	添書	使者に持たせる書状。
+j	添木	添木	
+j	添水	添水	a traditional device foun…
+j	添竄	添竄	revision, correction, loo…
+j	添翰	添翰	添え状。
+j	漻然	漻然	変化するさま。
+j	炻器	炻器	stoneware
+j	燻す	燻す	to burn something to prod…
+j	燻る	燻る	to smolder (to burn slowl…
+j	燻煙	燻煙	木材などを煙が出るように燃焼させ、その煙で燻すこと。
+j	燻蒸	燻蒸	何かを燻すこと。
+j	燻製	燻製	塩漬にした肉や魚を煙で燻して、乾燥させ、香味をもた…
+j	燻赫	燻赫	火が強いこと。
+j	爻象	爻象	易で爻と爻とが相交わる関係。
+j	爻辞	爻辞	易における各爻を説明した言葉。
+j	爻部	爻部	部首「⽘」で分類した漢字の一群。
+j	狻下	狻下	（仏教）高僧に対する敬称。
+j	狻猊	狻猊	a suanni, a cross between…
+j	獻爵	獻爵	献爵の旧字体表記。
+j	獻禮	獻禮	献礼の旧字体表記。
+j	玻璃	玻璃	glass, crystal
+j	画く	画く	
+j	画一	画一	uniform, standardized
+j	画人	画人	画家。絵師。
+j	画仙	画仙	絵画を描くのに優れた人。
+j	画会	画会	画家が自作の絵を展示、販売する会。
+j	画伯	画伯	artist; painter
+j	画像	画像	a portrait, one's likeness
+j	画僧	画僧	絵画を描くことが得意、または描くことを専門とする僧…
+j	画具	画具	絵を描くための用具。
+j	画力	画力	ability to draw
+j	画匠	画匠	painter, especially a mas…
+j	画叉	画叉	掛物をかけるための先が叉になった棹。
+j	画商	画商	the business of selling p…
+j	画図	画図	a drawing, an illustration
+j	画地	画地	ひとまとまりのものとして使われたり売買などされたり…
+j	画堂	画堂	絵画を展示する施設。
+j	画報	画報	pictorial, illustrated ne…
+j	画境	画境	絵を描く心持ち。
+j	画壇	画壇	画家たちの社会。
+j	画学	画学	絵画全般を調査、研究する学問。
+j	画定	画定	demarcation
+j	画客	画客	画家。絵描き。
+j	画室	画室	art studio
+j	画家	画家	painter
+j	画展	画展	絵画の展覧会。
+j	画工	画工	painter
+j	画布	画布	canvas (for painting)
+j	画帖	画帖	sketch book
+j	画師	画師	painter (artist)
+j	画帳	画帳	絵をかくための帳面。
+j	画廊	画廊	gallery
+j	画意	画意	meaning of a painting
+j	画才	画才	絵画を描く才能。
+j	画指	画指	古代、文字の読み書きができない者が文書で自己の署名…
+j	画数	画数	number of strokes in a Ch…
+j	画料	画料	絵画を描くための材料。画材。
+j	画期	画期	古い時代と新しい時代とを区別する区切り。
+j	画材	画材	art supplies
+j	画村	画村	Guadalupe (a city in Cali…
+j	画板	画板	a piece of wood, plastic,…
+j	画架	画架	synonym of イーゼル (īzeru, “…
+j	画業	画業	絵画などを描く職業。
+j	画楼	画楼	decorated high-rise build…
+j	画法	画法	絵画の技法。
+j	画然	画然	clear, distinct
+j	画界	画界	区切り。
+j	画眉	画眉	the drawing on of eyebrows
+j	画稿	画稿	絵の下書き。図画の原稿。
+j	画竜	画竜	a picture of a dragon
+j	画筆	画筆	絵筆。
+j	画策	画策	arrangement, scheme, plan
+j	画紙	画紙	図画を画くための用紙。画用紙。
+j	画素	画素	synonym of ピクセル (pikuseru…
+j	画聖	画聖	非常に優れた画家。
+j	画舫	画舫	decorated cruise ferry
+j	画船	画船	飾り付けられた船。
+j	画角	画角	angle of view
+j	画計	画計	計画。
+j	画調	画調	絵画や写真などで、画面全体の調子。
+j	画談	画談	絵画に関する談話。
+j	画譜	画譜	絵画を分類し編纂した書物。
+j	画讃	画讃	絵画に書き添えられた詩文。単に、「讃（賛）」とも。
+j	画賛	画賛	絵画に書き添えられた詩文。単に、「讃（賛）」とも。
+j	画質	画質	picture quality
+j	画趣	画趣	絵画のような趣や風景。
+j	画蹟	画蹟	画家が描いた絵画作品。
+j	画迹	画迹	画蹟。
+j	画道	画道	絵画を描く芸道。
+j	画鋲	画鋲	thumbtack; drawing pin; p…
+j	画障	画障	a fusuma (“sliding door w…
+j	画集	画集	album of pictures or pain…
+j	画面	画面	screen (electronic displa…
+j	画題	画題	絵画の題名。
+j	画額	画額	絵画が入れられた額縁。
+j	画風	画風	style of a drawing, art s…
+j	画餅	画餅	pie in the sky
+j	瘻孔	瘻孔	生体の組織や器官に異常に形成された管（瘻管）の開口…
+j	瘻管	瘻管	生体の組織や器官に異常に形成された管。瘻孔。
+j	登る	登る	
+j	登京	登京	going to the capital
+j	登仙	登仙	becoming a saint
+j	登位	登位	君主がその位に就くこと。即位。
+j	登俊	登俊	a male given name
+j	登傭	登傭	有望な人材を高い地位や職などに引き上げ、用いること。
+j	登営	登営	幕府（営中）に出仕すること。
+j	登園	登園	授業や保育を受けるために幼稚園や保育園に行くこと。
+j	登坂	登坂	climbing a slope
+j	登城	登城	城内に参上または出勤すること。
+j	登場	登場	entrance in a performance
+j	登壇	登壇	the act of ascending a po…
+j	登山	登山	mountain climbing, mounta…
+j	登庁	登庁	官公庁に出勤すること。
+j	登庸	登庸	「登傭」の別表記。
+j	登攀	登攀	climbing up; ascension
+j	登時	登時	すぐ。即座に。
+j	登板	登板	pitching
+j	登校	登校	attendance at school
+j	登極	登極	accession
+j	登楼	登楼	高い建造物に登ること。
+j	登用	登用	appointment; assignment; …
+j	登省	登省	内閣の省に出勤すること。
+j	登祇	登祇	登山で祀る神。
+j	登第	登第	passing an examination
+j	登級	登級	階級が上がること。
+j	登船	登船	船舶に乗ること。乗船すること。
+j	登花	登花	稔性花。
+j	登記	登記	registration
+j	登載	登載	running; carrying
+j	登進	登進	登用され地位が昇進すること。
+j	登録	登録	registration
+j	登降	登降	登ったり降りたりすること。昇降。
+j	登院	登院	院とつく施設に出向くこと。
+j	登頂	登頂	climbing to the summit
+j	登館	登館	図書館や美術館、映画館など「館」の付く施設に職員と…
+j	登高	登高	高い場所に登ること。
+j	瞻仰	瞻仰	仰ぎ見ること。
+j	瞻奉	瞻奉	かしずくこと。
+j	瞻望	瞻望	遠くを見渡すこと。
+j	瞻渉	瞻渉	博覧。
+j	瞻省	瞻省	孝養すること。
+j	瞻矚	瞻矚	仰ぎ見ること。
+j	瞻視	瞻視	a look or watch over some…
+j	移す	移す	to transfer; to move (som…
+j	移る	移る	to move (as moving one's …
+j	移乗	移乗	他の乗り物に乗り移ること。また、乗り換えること。
+j	移住	移住	immigration
+j	移入	移入	importation or immigration
+j	移動	移動	a transfer
+j	移変	移変	移り変わること。変動すること。
+j	移封	移封	大名などの領地を他へうつすこと。転封。
+j	移居	移居	住まいを移すこと。
+j	移建	移建	建物を別の場所へ移すこと。
+j	移徙	移徙	移転
+j	移文	移文	律令制で管轄の関係のないものの間で取り交わされた公…
+j	移旋	移旋	主音の音の高さを変えずにモードや長調、短調の調性を…
+j	移書	移書	一般に知らせるため、文書をまわすこと。その文書。う…
+j	移植	移植	replanting
+j	移殖	移殖	魚介類などの動物を繁殖させるために、別の場所へ移す…
+j	移民	移民	immigrant, emigrant (a pe…
+j	移流	移流	液体などの流体の中にある物質やエネルギーがその流体…
+j	移点	移点	訓点本にある訓点を他の書物に転写すること。
+j	移牒	移牒	管轄が違う他の官庁へ文書により命令、通知すること。…
+j	移用	移用	歳出予算などで定められた経費を他の部署・項目に移し…
+j	移監	移監	刑務所などに収容されている者を他の施設へ移送するこ…
+j	移相	移相	電圧や電流の変数を変化させること。
+j	移管	移管	transfer of operation, co…
+j	移築	移築	rebuild in a new location
+j	移籍	移籍	entering a different hous…
+j	移行	移行	switchover
+j	移記	移記	transferring to the recor…
+j	移設	移設	relocation
+j	移調	移調	transposition
+j	移譲	移譲	handover
+j	移転	移転	a transfer
+j	移送	移送	transference
+j	移達	移達	管轄が異なる他官庁に命令、通知すること。また、その…
+j	移郷	移郷	奈良時代の刑罰の一つ。住居を他所に移される。
+j	移項	移項	代数における式の操作で、方程式の一方の辺の項を符号…
+j	移駐	移駐	軍隊などが他の場所に行き駐屯すること。
+j	移龕	移龕	遷化した僧侶の龕（柩）を法堂へ移すこと。
+j	系列	系列	a series, sequence
+j	系図	系図	a genealogy, family tree
+j	系統	系統	system
+j	系譜	系譜	pedigree, genealogy, line…
+j	綻露	綻露	表にあらわれること。
+j	緻密	緻密	minute, detailed, close, …
+j	縻切	縻切	切り離すこと。
+j	繻子	繻子	satin
+j	翻す	翻す	to turn over; to flip over
+j	翻る	翻る	to turn over; to be flipp…
+j	翻刻	翻刻	reprinting of manuscripts…
+j	翻印	翻印	翻刻すること。
+j	翻天	翻天	空中に翻って飛ぶこと。
+j	翻字	翻字	transliteration
+j	翻弄	翻弄	trifling with
+j	翻意	翻意	意志や決意を変えること。
+j	翻案	翻案	adaptation
+j	翻然	翻然	翻すさま。翻るさま。
+j	翻訳	翻訳	translation
+j	翻身	翻身	身を翻すこと。
+j	翻転	翻転	翻って回ること。
+j	膻気	膻気	生臭いさま。
+j	膻腥	膻腥	膻気。生臭いさま。
+j	臻萃	臻萃	集まること。
+j	芻場	芻場	まぐさば、牧場。
+j	芻牧	芻牧	草を刈り、牛馬を飼養すること。また、それをする人。
+j	芻狗	芻狗	厄払いに用いる、まぐさで作った犬。
+j	芻秣	芻秣	牛馬の飼料。まぐさ。
+j	芻米	芻米	まぐさと米。人馬の食糧。
+j	芻粮	芻粮	「芻糧」の異表記。
+j	芻糧	芻糧	まぐさと兵糧。人馬の食糧。
+j	芻草	芻草	家畜の飼料にする刈草。
+j	芻菽	芻菽	まぐさと豆。
+j	芻蕘	芻蕘	草刈りと木こり。
+j	芻言	芻言	芻蕘の言葉。
+j	芻豢	芻豢	家畜。
+j	荻原	荻原	a surname
+j	荻野	荻野	a surname
+j	荻須	荻須	a surname
+j	藻井	藻井	中国の伝統建築に見られる天井の装飾。
+j	藻海	藻海	北大西洋北緯20度から40度、西経30度から80度…
+j	藻玉	藻玉	St. Thomas bean
+j	藻類	藻類	alga, algae
+j	蛻変	蛻変	蟬が卵、幼虫、成虫と姿を変えること。
+j	蛻形	蛻形	脱皮。
+j	蛻殻	蛻殻	脱皮。
+j	蛻演	蛻演	変化すること。
+j	蛻留	蛻留	ぬけがらが残ること。
+j	蛻解	蛻解	仙術で肉体は生時と変わらず、霊魂だけ体外に抜け出す…
+j	蛻變	蛻變	蛻変の旧字体表記。
+j	蜻蛉	蜻蛉	dragonfly
+j	蜻蜓	蜻蜓	large dragonfly, specific…
+j	螻蛄	螻蛄	mole cricket
+j	螻蟻	螻蟻	mole crickets and ants
+j	蟻の	蟻の	
+j	蟻丘	蟻丘	蟻塚。
+j	蟻付	蟻付	蟻が甘い物や餌に群がるように大勢の者が群集すること。
+j	蟻伏	蟻伏	一斉に降伏すること。
+j	蟻動	蟻動	乱れること。
+j	蟻吸	蟻吸	
+j	蟻塚	蟻塚	anthill (home of ants and…
+j	蟻夢	蟻夢	儚い夢。
+j	蟻学	蟻学	蟻について研究する学問。昆虫学の一種。
+j	蟻宮	蟻宮	蟻塚。
+j	蟻封	蟻封	蟻が地中に営巣する際に地上へ出し、積み上げた土。
+j	蟻浮	蟻浮	濁り酒。蟻酒。
+j	蟻浴	蟻浴	
+j	蟻穴	蟻穴	蟻がつくった巣穴。
+j	蟻蚕	蟻蚕	孵化したばかりの蚕。
+j	蟻術	蟻術	小さな蟻が土で蟻塚を築く方法。
+j	蟻酒	蟻酒	濁り酒。
+j	蟻酸	蟻酸	formic acid
+j	蟻附	蟻附	「蟻付」の別表記。
+j	蟻集	蟻集	蟻が餌に群がるように集まること。
+j	蟻食	蟻食	an anteater
+j	蟻鼻	蟻鼻	（蟻の鼻のように）微細なこと。
+j	褻の	褻の	
+j	褻器	褻器	おまる。
+j	褻戯	褻戯	なれて翫ぶこと。褻翫
+j	褻翫	褻翫	なれて翫ぶこと。褻戯。
+j	褻衣	褻衣	普段着。また、寝巻き。
+j	褻言	褻言	みだらで下品な言葉。なれなれしい言葉。
+j	註解	註解	注を加えて本文の意味を説明すること。
+j	註説	註説	注記して説明すること。また、その説明。
+j	註釈	註釈	本文中の語句の意味や用法を解説すること。また、その…
+j	註音	註音	phonetic notation, phonet…
+j	費え	費え	cost, expenditure
+j	費府	費府	Philadelphia
+j	費消	費消	持っている金品を全て使い切ってしまうこと。
+j	費用	費用	cost
+j	費金	費金	入用な金。
+j	費額	費額	入費の額。
+j	賻助	賻助	助葬すること。
+j	賻施	賻施	施与すること。
+j	賻贈	賻贈	葬送を扶けるために物を贈ること。また、その贈り物。
+j	賻送	賻送	葬送を扶けること。
+j	賻銭	賻銭	葬式料。
+j	蹻捷	蹻捷	身軽で素早いこと。また、そのようなさま。
+j	蹻騰	蹻騰	飛び上がること。
+j	輻射	輻射	radiation
+j	輻湊	輻湊	「輻輳」の別表記。
+j	輻輳	輻輳	convergence (focusing of …
+j	辻丸	辻丸	a surname
+j	辻占	辻占	slip of paper with a fort…
+j	辻堂	辻堂	A place name
+j	辻本	辻本	a surname
+j	辻褄	辻褄	consistency; logic; coher…
+j	釻菊	釻菊	a kamon featuring a chrys…
+j	錻力	錻力	
+j	閻王	閻王	閻魔。
+j	閻老	閻老	閻魔。
+j	閻魔	閻魔	Enma, the Japanese name f…
+j	阻む	阻む	to block, prevent, thwart
+j	阻却	阻却	斥けること、妨げること。
+j	阻喪	阻喪	気力を失い、勢いが弱まること。気落ち。
+j	阻害	阻害	damage, hindrance, impedi…
+j	阻止	阻止	blocking, thwarting, prev…
+j	阻滞	阻滞	障害などにより滞ること。
+j	阻碍	阻碍	物事の進行を邪魔すること。
+j	阻礙	阻礙	物事の進行を邪魔すること。
+j	阻隔	阻隔	阻止して間を隔てること。
+j	隻手	隻手	片方の手。
+j	隻眼	隻眼	片目。独眼。一隻眼。
+j	隻翼	隻翼	（一方の翼を失って）片方の翼。
+j	隻耳	隻耳	片耳。
+j	隻脚	隻脚	片方の足。
+j	隻腕	隻腕	a physical disability in …
+j	隻角	隻角	左右一対のうち片方の角が無いこと。
+j	隻言	隻言	片言。
+j	隻足	隻足	片足。
+j	電マ	電マ	
+j	電令	電令	電命。
+j	電位	電位	electric potential
+j	電信	電信	telegraph communication
+j	電停	電停	tram stop
+j	電光	電光	flash of lightning
+j	電凸	電凸	Calling to inquire of the…
+j	電力	電力	electricity
+j	電動	電動	being powered by electric…
+j	電化	電化	electrification
+j	電卓	電卓	calculator
+j	電命	電命	電報による命令。
+j	電器	電器	electric appliance, device
+j	電圧	電圧	voltage
+j	電報	電報	telegram
+j	電場	電場	electric field
+j	電子	電子	electron
+j	電察	電察	高覧。他人の見ることに対する尊敬語。
+j	電対	電対	
+j	電工	電工	electrician (tradesperson…
+j	電弧	電弧	気体の中を大きな電流が流れる際に電極間に見られる電…
+j	電弱	電弱	
+j	電影	電影	稲妻。稲光。
+j	電掣	電掣	電光が閃くこと。
+j	電撃	電撃	an electric shock
+j	電文	電文	telegram
+j	電書	電書	
+j	電束	電束	electric flux
+j	電柱	電柱	telephone pole; telegraph…
+j	電極	電極	electrode
+j	電機	電機	electrical machinery
+j	電気	電気	electricity
+j	電池	電池	a battery (device produci…
+j	電波	電波	radio wave
+j	電流	電流	electric current
+j	電源	電源	electric power source, po…
+j	電火	電火	稲光。
+j	電灯	電灯	light, electric light
+j	電炉	電炉	電気炉の略。
+j	電照	電照	明るく照らすこと。
+j	電熱	電熱	電気抵抗が大きい物質に電流を通した際に発する熱。
+j	電燈	電燈	
+j	電球	電球	incandescent light bulb
+j	電界	電界	electric field
+j	電略	電略	電報略号の略。
+j	電番	電番	電話番号の略。
+j	電着	電着	電解液中にイオンが析出して電極の表面に付着すること。
+j	電磁	電磁	electromagnetic
+j	電突	電突	企業、マスコミ、宗教団体、官公庁、政治家、政党など…
+j	電算	電算	「電子計算機」の略。
+j	電線	電線	electrical wire
+j	電纜	電纜	cable
+j	電脳	電脳	computer
+j	電荷	電荷	electric charge
+j	電蝕	電蝕	「電食」の別表記。
+j	電装	電装	主に車両などに電気装置を取り付けたり配線したりする…
+j	電視	電視	television
+j	電解	電解	electrolysis
+j	電設	電設	電気設備の略称。
+j	電話	電話	telephone
+j	電請	電請	外交官などが電信（電報）で本国政府に訓令を要請する…
+j	電費	電費	電力消費率。
+j	電路	電路	電流の通路。
+j	電車	電車	an electric multiple unit…
+j	電送	電送	電流や電波を使い、情報の信号を遠方に送ること。
+j	電逝	電逝	雷光のように速く去ること。
+j	電鈴	電鈴	electric bell
+j	電鉄	電鉄	electric railway
+j	電鋳	電鋳	「電気鋳造」の略。
+j	電鍵	電鍵	key
+j	電離	電離	電解質が水に溶けて陽イオンと陰イオンに分かれること。
+j	電霆	電霆	かみなり。
+j	電食	電食	electrolytic corrosion
+j	電飾	電飾	小さな電球などを多数使用し、物の輪郭などが分かるよ…
+j	韻事	韻事	poetic occasion, elegant …
+j	韻士	韻士	elegant poet, literati
+j	韻尾	韻尾	coda
+j	韻律	韻律	meter
+j	韻文	韻文	literary composition in r…
+j	韻書	韻書	漢詩などで押韻の参考とするため、漢字を韻で分類し、…
+j	韻母	韻母	the rhyme of a Chinese sy…
+j	韻目	韻目	漢字を韻によって分類した項目、またはそれを代表する…
+j	韻脚	韻脚	漢詩などの句の末に使用する韻。
+j	韻致	韻致	elegance
+j	韻語	韻語	rhyme in kanbun
+j	韻類	韻類	韻が似ている言葉のまとまり。
+j	頻り	頻り	frequent, continuous
+j	頻る	頻る	to happen repeatedly; to …
+j	頻出	頻出	appearing frequently
+j	頻回	頻回	ある行為や出来事が多く繰り返している様子
+j	頻尿	頻尿	pollakiuria, frequent uri…
+j	頻度	頻度	frequency (rate of occurr…
+j	頻用	頻用	頻繁に使用、利用すること。
+j	頻発	頻発	ある物事が頻繁に発生すること。
+j	頻繁	頻繁	frequent
+j	頻脈	頻脈	
+j	頻頻	頻頻	続けざまに起こる様子。
+j	頻鳥	頻鳥	迦陵頻伽。
+j	駻突	駻突	荒れる馬。
+j	駻馬	駻馬	気性が荒く御しがたい馬。あばれうま。
+j	鬻人	鬻人	a person who sells items;…
+j	鬻女	鬻女	a female peddler
+j	鰻重	鰻重	broiled eel (鰻 (unagi)) o…
+j	鱻食	鱻食	魚鼈類の食事。
+j	鴻儒	鴻儒	儒学の大学者。大儒。
+j	鴻化	鴻化	天子が行う善政。
+j	鴻図	鴻図	遠大な計画や謀。
+j	鴻基	鴻基	天子が行う大きな事業の基礎。
+j	鴻声	鴻声	雁の鳴き声。かりがね。
+j	鴻大	鴻大	この上なく大きいこと。また、そのようなさま。
+j	鴻巣	鴻巣	Kōnosu (a city in Saitama…
+j	鴻恩	鴻恩	広大な恩恵。
+j	鴻慶	鴻慶	大慶。
+j	鴻才	鴻才	great talent
+j	鴻業	鴻業	大きな事業。洪業。
+j	鴻水	鴻水	大水。洪水。
+j	鴻溝	鴻溝	大きな溝。
+j	鴻烈	鴻烈	功烈。
+j	鴻緒	鴻緒	帝王が国家を統治するという大きな事業。
+j	鴻謨	鴻謨	大きなはかりごと、計画。
+j	鴻鐘	鴻鐘	大きな釣鐘。大鐘。
+j	鴻雁	鴻雁	wild geese
+j	鴻鵠	鴻鵠	鴻や鵠などの、大きな鳥。
+j	鶻兀	鶻兀	混乱しているさま。
+j	鶻崙	鶻崙	未分の状態。
+j	鶻淪	鶻淪	鶻崙。
+j	麻也	麻也	a female given name
+j	麻倉	麻倉	a surname
+j	麻冠	麻冠	漢字の部首「⼴」が冠であるときの呼称。
+j	麻友	麻友	a female given name
+j	麻夏	麻夏	a female given name
+j	麻夫	麻夫	a male given name
+j	麻姑	麻姑	Magu (nymph in Chinese my…
+j	麻子	麻子	hempseed
+j	麻実	麻実	a female given name
+j	麻将	麻将	麻雀の異表記。
+j	麻布	麻布	cloth woven of hemp or ra…
+j	麻煩	麻煩	面倒。
+j	麻物	麻物	a rope or cord made from …
+j	麻生	麻生	a surname
+j	麻疹	麻疹	measles
+j	麻痺	麻痺	paralysis
+j	麻竹	麻竹	Taiwan giant bamboo (Dend…
+j	麻笥	麻笥	
+j	麻糸	麻糸	hemp yarn, hemp thread
+j	麻紙	麻紙	麻の繊維を原料としてつくられた紙。
+j	麻縄	麻縄	hempen rope
+j	麻美	麻美	a female given name
+j	麻色	麻色	flax color (colour); flax…
+j	麻苧	麻苧	青苧。苧麻。
+j	麻薬	麻薬	opiate or opioid
+j	麻藥	麻藥	
+j	麻衣	麻衣	a female given name
+j	麻袋	麻袋	gunny sack
+j	麻部	麻部	部首「⿇」で分類した漢字の一群。
+j	麻酔	麻酔	anesthesia
+j	麻里	麻里	a female given name
+j	麻雀	麻雀	mahjong
+j	麻黄	麻黄	plants of genus Ephedra
+j	黻偏	黻偏	漢字の部首「⿋」が偏である場合の呼称。
+j	鼻偏	鼻偏	漢字の部首「⿐」が偏である場合の呼称。
+j	鼻処	鼻処	嗅覚の機能、嗅覚の器官。五根もしくは六根のひとつ。…
+j	鼻口	鼻口	鼻と口。
+j	鼻声	鼻声	a nasal voice
+j	鼻孔	鼻孔	a nostril
+j	鼻尖	鼻尖	鼻の先端。鼻端。鼻先。
+j	鼻息	鼻息	breathing through the nose
+j	鼻柱	鼻柱	鼻の中のあなを左右に分ける部分。鼻中隔。
+j	鼻栓	鼻栓	鼻を塞ぐための栓。
+j	鼻根	鼻根	the nose and the faculty …
+j	鼻梁	鼻梁	bridge (bony ridge of the…
+j	鼻様	鼻様	an arrogant, proud first …
+j	鼻歌	鼻歌	
+j	鼻毛	鼻毛	nose hair
+j	鼻水	鼻水	nasal mucus, runny nose
+j	鼻汁	鼻汁	nasal mucus, nasal discha…
+j	鼻汗	鼻汗	nose sweat
+j	鼻液	鼻液	鼻水。
+j	鼻準	鼻準	鼻柱。鼻梁。
+j	鼻漏	鼻漏	runny nose, rhinorrhea
+j	鼻炎	鼻炎	nasal inflammation; rhini…
+j	鼻熊	鼻熊	coati
+j	鼻界	鼻界	嗅覚の機能、嗅覚の器官。六根のひとつである鼻根、も…
+j	鼻癤	鼻癤	鼻の鼻前庭の毛穴や傷口から主に黄色ブドウ球菌が感染…
+j	鼻祖	鼻祖	祖先の最初の人。ある事を歴史上最初にはじめた人。あ…
+j	鼻竅	鼻竅	鼻孔。
+j	鼻端	鼻端	（びたん）鼻の先。
+j	鼻筋	鼻筋	a nose bridge
+j	鼻糞	鼻糞	booger, snot
+j	鼻紙	鼻紙	tissue paper
+j	鼻綱	鼻綱	
+j	鼻翼	鼻翼	synonym of 小鼻 (kobana, “w…
+j	鼻腔	鼻腔	nasal cavity - a large ai…
+j	鼻茸	鼻茸	「はなたけ」参照。
+j	鼻薬	鼻薬	
+j	鼻血	鼻血	nosebleed
+j	鼻識	鼻識	嗅覚する心。六識のひとつ。鼻識界に同じ（ウィキペデ…
+j	鼻輪	鼻輪	
+j	鼻部	鼻部	部首「⿐」で分類した漢字の一群。
+j	鼻酸	鼻酸	悲惨。
+j	鼻鏡	鼻鏡	鼻腔内を検査するための鏡がついた器具。
+j	鼻閉	鼻閉	鼻孔が何らかの事由により詰り、空気の通りが悪くなる…
+j	鼻面	鼻面	snout (long, projecting n…
+j	鼻革	鼻革	
+j	鼻音	鼻音	a nasal sound
+j	鼻頭	鼻頭	鼻の先。はなさき。はながしら。
+j	鼻骨	鼻骨	a nasal bone
+j	鼻高	鼻高	(びこう、はなだか)つまさきが持ち上げるように作ら…
+k	거년	去年	last year
+k	거래	去來	transaction; trade
+k	거래	去来	transaction; trade
+k	거성	去声	departing tone (one of th…
+k	거성	去聲	departing tone (one of th…
+k	거세	去勢	castration of an animal
+k	거야	去夜	last night, yesterday eve…
+k	계렬	系列	series
+k	계보	系譜	
+k	계열	系列	series
+k	계통	系統	system
+k	공격	攻撃	attack
+k	공격	攻擊	attack
+k	공략	攻略	attack (usually on an ent…
+k	공세	攻勢	attack; (military) offens…
+k	공습	攻襲	air raid; aerial strike
+k	권말	巻末	end of a volume (book)
+k	궐련	巻煙	cigarette
+k	등기	登記	registration
+k	등록	登錄	registration
+k	등록	登録	registration
+k	등반	登攀	mountain climbing
+k	등분	登盆	division into equal pieces
+k	등산	登山	mountain climbing, mounta…
+k	등장	登場	appearance (e.g. on stage)
+k	땐스	電視	television
+k	뗀노	電脳	computer
+k	뗀노	電腦	computer
+k	마경	麻茎	hemp stalk
+k	마경	麻莖	hemp stalk
+k	마고	麻姑	Magu, an immortal woman
+k	마약	麻薬	drug, narcotic
+k	마약	麻藥	drug, narcotic
+k	마작	麻雀	mahjong
+k	마장	麻将	mahjong
+k	마장	麻將	mahjong
+k	마찰	麻擦	friction
+k	만용	蠻勇	recklessness; bravado
+k	만이	蠻夷	In ancient China, indigen…
+k	만자	蠻子	swastika
+k	만행	蠻行	barbaric action; barbarity
+k	번역	翻訳	translation
+k	벽자	僻字	a rare Chinese character
+k	벽지	僻地	wallpaper
+k	비문	鼻門	epigraph
+k	비염	鼻炎	rhinitis
+k	비용	費用	cost, expense
+k	비음	鼻音	nasal voice
+k	빈뇨	頻尿	pollakiuria, frequent uri…
+k	빈도	頻度	frequency
+k	사구	死球	sand dune
+k	사기	死期	fraud; swindle
+k	사돈	査頓	co-parent-in-law, parents…
+k	사령	死霊	commander
+k	사령	死靈	commander
+k	사망	死亡	death
+k	사산	死産	
+k	사생	死生	sketching, drawing from n…
+k	사석	死石	private occasion; private…
+k	사수	死守	shooter; bowman; gunman; …
+k	사신	死神	death (personified), God …
+k	사인	死因	signature
+k	사자	死者	a lion (big cat Panthera …
+k	사장	死蔵	CEO or director of a comp…
+k	사장	死藏	CEO or director of a comp…
+k	사죄	死罪	apology
+k	사증	査証	synonym of 비자 (bija, “vis…
+k	사증	査証	synonym of 비자 (bija, “vis…
+k	사증	査證	synonym of 비자 (bija, “vis…
+k	사지	死地	the (four) limbs, legs an…
+k	사찰	査察	Buddhist temple
+k	사체	死体	carcass (of an animal)
+k	사체	死體	carcass (of an animal)
+k	사하	泻下	Saha (a district of the M…
+k	사해	死海	Dead Sea (a highly saline…
+k	사혈	泻血	
+k	사형	死刑	death penalty, capital pu…
+k	사화	死火	Korean literati purges
+k	사화	死貨	Korean literati purges
+k	사후	死後	after the fact, post-, su…
+k	석기	炻器	
+k	손전화	電話	cellular phone, mobile ph…
+k	신음	呻吟	moan; groan
+k	앵두	櫻桃	cherry (plant and fruit)
+k	앵초	櫻草	Japanese primrose (Primul…
+k	염라	閻羅	[~왕(王), 대왕(大王)] Yama (god…
+k	염좌	捻挫	
+k	운모	韻母	화강암 가운데 많이 들어 있는 규산염 광물의 …
+k	운서	韻書	
+k	의과	医科	medicine (as a discipline)
+k	의료	医療	medical treatment
+k	의사	医師	doctor
+k	의생	医生	doctor of Chinese medicin…
+k	의원	医院	member of a parliament or…
+k	의자	医者	chair, sofa
+k	의학	医学	medicine (the academic di…
+k	이관	移管	
+k	이동	移動	movement
+k	이민	移民	immigration; emigration
+k	이사	移徙	moving (from one residenc…
+k	이송	移送	To transfer (a patient, c…
+k	이식	移植	replanting
+k	이장	移葬	relocation of a grave
+k	이조	移調	interest portion; nominal…
+k	이주	移住	immigration
+k	이직	移職	To quit one's job
+k	이체	移替	transfer
+k	이행	移行	fulfillment; performance;…
+k	임기	任期	tenure
+k	임명	任命	appointment, assignment, …
+k	임무	任務	duty; task; mission
+k	전공	電工	major (area of study)
+k	전광	電光	flash of lightning
+k	전구	電球	light bulb
+k	전극	電極	electrode
+k	전기	電気	electricity
+k	전기	電氣	electricity
+k	전동	電動	electrically-powered
+k	전등	電灯	light, lamp
+k	전등	電燈	light, lamp
+k	전람	電䌫	펴서 봄.
+k	전람	電纜	펴서 봄.
+k	전력	電力	electricity; electric pow…
+k	전령	電鈴	orderly, messenger, harbi…
+k	전류	電流	electric current
+k	전문	電文	expertise; speciality; on…
+k	전번	電番	syllabic abbreviation of …
+k	전보	電報	a telegram
+k	전산	電算	
+k	전선	電線	battlefront
+k	전신	電信	telegraph
+k	전압	電圧	electric pressure; voltage
+k	전압	電壓	electric pressure; voltage
+k	전원	電源	power supply
+k	전위	電位	vanguard
+k	전자	電子	electron
+k	전자	電磁	electron
+k	전지	電池	a battery (device produci…
+k	전차	電車	streetcar, tram
+k	전철	電鉄	subway, underground, metro
+k	전철	電鐵	subway, underground, metro
+k	전파	電波	radio wave
+k	전하	電荷	Highness (form of address)
+k	전해	電解	
+k	전화	電化	telephone, phone
+k	전화	電話	telephone, phone
+k	조류	藻類	birds
+k	주격	主格	nominative case
+k	주교	主敎	bishop
+k	주권	主権	sovereignty
+k	주권	主權	sovereignty
+k	주도	主導	lead
+k	주부	主婦	housewife
+k	주부	主父	housewife
+k	주부	主部	housewife
+k	주색	主色	alcohol and beautiful wom…
+k	주석	主席	tin (element)
+k	주식	主食	stocks; shares
+k	주어	主語	subject (of a sentence)
+k	주연	主演	leading role
+k	주요	主要	importance, primacy
+k	주요하다	主要	to be main; to be princip…
+k	주의	主義	attention; caution
+k	주인	主人	master or owner
+k	주일	主日	week
+k	주장	主将	a claim or assertion
+k	주장	主將	a claim or assertion
+k	주장	主張	a claim or assertion
+k	주장	主掌	a claim or assertion
+k	주절	主節	main clause
+k	주제	主題	topic; main idea
+k	주체	主体	main agent, principal age…
+k	주체	主體	main agent, principal age…
+k	주형	主刑	casting mould; template; …
+k	처가	妻家	a wife's parent's home
+k	처남	妻男	one's wife's brother; one…
+k	처자	妻子	wife and children
+k	처제	妻弟	자기 아내의 여자 동생. (부록: 가족과 친척)
+k	처형	妻兄	execution (taking of life…
+k	첨가	添加	addition
+k	첨부	添附	attaching; adding
+k	첨서	添書	postscript
+k	측은	惻隠	compassion; pity
+k	측은	惻隱	compassion; pity
+k	치료	治療	Treatment for a disease o…
+k	치세	治世	
+k	치수	治水	pulp (the soft center of …
+k	치안	治安	public security, public s…
+k	치열	治熱	ferociousness, fierceness…
+k	커쯔	刻子	
+k	탄로	綻露	exposure; disclosure; det…
+k	파리	玻璃	fly (insect)
+k	폭사	輻射	
+k	헌금	獻金	offering; collection; off…
+k	헌신	獻身	dedication; devotion
+k	헌주	獻酒	
+k	헌혈	獻血	blood donation
+k	화가	画家	artist (painter)
+k	화가	画架	artist (painter)
+k	화랑	画廊	Hwarang (ancient Sillan w…
+k	화면	画面	screen
+k	화병	画屏	hwabyeong, physical (and …
+k	화병	画瓶	hwabyeong, physical (and …
+k	화병	画餠	hwabyeong, physical (and …
+k	화보	画報	pictorial, illustrated ma…
+k	화소	画素	
+k	화장	画匠	makeup
+k	화판	画板	그림을 그릴 때 밑에 받치는 판. 또는 유화를…
+k	화폭	画幅	canvas, drawing paper
+k	환각	幻覚	hallucination, illusion
+k	환각	幻覺	hallucination, illusion
+k	환멸	幻滅	disillusionment
+k	환상	幻想	illusion; fantasy
+k	환시	幻視	vision (something imagina…
+k	환영	幻影	welcome
+k	환일	幻日	
+k	환청	幻聴	
+k	환청	幻聽	
+k	활기	活気	energy; vitality; life; v…
+k	활기	活氣	energy; vitality; life; v…
+k	활동	活動	activity
+k	활력	活力	vigour, energy, vitality
+k	활발	活溌	liveliness; briskness; sp…
+k	활발	活潑	liveliness; briskness; sp…
+k	활성	活性	activity
+k	활약	活躍	activity, performance
+k	활용	活用	application (the use of a…
+k	활자	活字	movable type
+k	획순	画順	stroke order
+k	훈연	燻煙	smoking
+j	主たる	主たる	primary; main
+j	主アカ	主アカ	メインアカウント。
+j	主キー	主キー	primary key
+j	主人公	主人公	a protagonist (main chara…
+j	主体性	主体性	
+j	主体的	主体的	active, autonomous
+j	主作用	主作用	医薬品の本来期待された作用。副作用に対していう。
+j	主催者	主催者	organizer, sponsor
+j	主力艦	主力艦	capital ship
+j	主動的	主動的	中心に行動するさま。
+j	主動詞	主動詞	
+j	主天使	主天使	キリスト教などの学派における、天使の階層の一つ。又…
+j	主寝室	主寝室	
+j	主対角	主対角	
+j	主専攻	主専攻	大学で第一に専攻する事柄。
+j	主導権	主導権	中心となってすすめる力や権限。
+j	主導的	主導的	中心となって導いていくさま。
+j	主成分	主成分	ある物質を構成する主な成分。
+j	主戦的	主戦的	戦いを主張するさま。
+j	主戦論	主戦論	戦争（開戦）をすべきとする論説や意見、主張。
+j	主権者	主権者	主権を持っている者。日本では日本国憲法により国民が…
+j	主母音	主母音	nucleus
+j	主油司	主油司	a 律令 (ritsuryō) office un…
+j	主治医	主治医	physician in charge
+j	主流煙	主流煙	喫煙する者が火のついたたばこの吸い口から吸う煙。
+j	主祷文	主祷文	the Lord's Prayer
+j	主禱文	主禱文	
+j	主税寮	主税寮	a 律令 (ritsuryō) departmen…
+j	主竜類	主竜類	《生物・古生物》 双弓類（爬虫類の一グループ）の一…
+j	主系列	主系列	
+j	主義的	主義的	理念に基づいた一定の主張あるいは一定の思考体系の。
+j	主義者	主義者	理念に基づいた一定の主張あるいは一定の思考体系を持…
+j	主要な	主要な	
+j	主要動	主要動	(地震学)S波によって起こる大きな揺れ。
+j	主要部	主要部	(字義通り) 主要な部分。
+j	主観性	主観性	
+j	主観的	主観的	subjective
+j	主計寮	主計寮	律令制で民部省に属し、調庸や献上されたものを計算し…
+j	主題化	主題化	
+j	主題曲	主題曲	
+j	主題歌	主題歌	theme song
+j	任じる	任じる	appoint, nominate
+j	任ずる	任ずる	to appoint
+j	任せる	任せる	to entrust something to s…
+j	任三郎	任三郎	a male given name
+j	任天堂	任天堂	Nintendo (video game comp…
+j	任意に	任意に	
+j	任意の	任意の	
+j	任意性	任意性	arbitrariness
+j	刻一刻	刻一刻	moment by moment, hour by…
+j	医する	医する	癒やす。治す。
+j	医三世	医三世	代々続いた医者だからといって名医だとは限らない。
+j	医務官	医務官	医務を行う公務員の官職名。
+j	医務室	医務室	学校・会社・公共施設などで応急手当を行う部屋。
+j	医原病	医原病	医療行為が原因で生ずる疾患。
+j	医大生	医大生	大学の医学部、医科大学で医学を学ぶ大学生。
+j	医学上	医学上	medically, (from) a medic…
+j	医学史	医学史	医学に関する歴史。
+j	医学生	医学生	medical student; medical …
+j	医学界	医学界	医学の学界。
+j	医学的	医学的	医学に関するさま。
+j	医学者	医学者	医学を研究する科学者。
+j	医学部	医学部	medical department
+j	医師会	医師会	医師が所属する学術団体。
+j	医源病	医源病	医療行為が原因で生ずる疾患。
+j	医療費	医療費	医療を受けるためにかかる費用。
+j	医薬品	医薬品	pharmaceutical drug, medi…
+j	医院長	医院長	head doctor
+j	去勢者	去勢者	eunuch; one who was castr…
+j	去痰薬	去痰薬	expectorant
+j	吻鼻骨	吻鼻骨	猪や豚が持っている鼻の先端が扁平に骨化した部分。
+j	呻き声	呻き声	groan, moan
+j	尻取り	尻取り	shiritori; a Japanese wor…
+j	尻叩き	尻叩き	spanking (form of physica…
+j	尻子玉	尻子玉	a ball lodged in the anus…
+j	尻込み	尻込み	hesitation
+j	巻き尺	巻き尺	
+j	巻き毛	巻き毛	a curl of hair; ringlet
+j	巻き舌	巻き舌	The act of trilling, espe…
+j	巻き雲	巻き雲	
+j	巻子本	巻子本	
+j	巻層雲	巻層雲	cirrostratus
+j	巻積雲	巻積雲	cirrocumulus
+j	幻像肢	幻像肢	事故や病気により失われた四肢（腕や脚など）が実際に…
+j	幻影肢	幻影肢	事故や病気により失われた四肢（腕や脚など）が実際に…
+j	幻想曲	幻想曲	fantasia
+j	幻想的	幻想的	fantastic, illusory, imag…
+j	幻灯機	幻灯機	magic lantern, slide proj…
+j	幻肢痛	幻肢痛	
+j	幻覚剤	幻覚剤	hallucinogen; psychedelic…
+j	戻り値	戻り値	return value
+j	掻き玉	掻き玉	beaten-egg soup
+j	掻爬器	掻爬器	
+j	攻める	攻める	to attack; to assault
+j	攻城戦	攻城戦	siege (military blockade …
+j	攻太鼓	攻太鼓	戦場で攻撃の合図のために鳴らした陣太鼓。
+j	攻撃機	攻撃機	地上、洋上の敵を攻撃する軍用機。
+j	攻撃犬	攻撃犬	an attack dog
+j	攻撃的	攻撃的	aggressive, offensive
+j	櫻井鉱	櫻井鉱	
+j	死する	死する	to die
+j	死なす	死なす	to cause to die; to kill
+j	死に体	死に体	losing posture; falling p…
+j	死に神	死に神	a god or spirit who leads…
+j	死の床	死の床	
+j	死の灰	死の灰	nuclear fallout
+j	死の組	死の組	
+j	死んだ	死んだ	
+j	死一倍	死一倍	江戸時代に行われたという、親が死んだならば、その遺…
+j	死亡届	死亡届	人が死亡したとき、死亡を知ったときから7日以内に市…
+j	死亡率	死亡率	death rate
+j	死人担	死人担	
+j	死傷者	死傷者	casualties
+j	死刑囚	死刑囚	criminal on death row
+j	死火山	死火山	extinct volcano
+j	死生学	死生学	死についての学問。
+j	死生観	死生観	a person's outlook on lif…
+j	死産の	死産の	
+j	死番虫	死番虫	deathwatch beetle
+j	死者数	死者数	the number of dead, such …
+j	治まる	治まる	to cease; to calm down (o…
+j	治める	治める	to dominate, to rule, to …
+j	治療の	治療の	
+j	治療士	治療士	
+j	治療家	治療家	按摩マッサージ指圧師、はり師、灸師、柔道整復師など…
+j	治療法	治療法	治療する方法。
+j	治療費	治療費	病気やけがの治療に必要な費用。
+j	治癒力	治癒力	
+j	治部煮	治部煮	a stew consisting of duck…
+j	治部省	治部省	the Ministry of Ceremonies
+j	活きる	活きる	to live; to exist
+j	活動家	活動家	active person
+j	活動的	活動的	active (given to action r…
+j	活字体	活字体	block letters, handprinte…
+j	活性化	活性化	物質が反応する機能が高まること。また、高めること。…
+j	活性炭	活性炭	activated carbon
+j	活断層	活断層	active fault
+j	活火山	活火山	active volcano
+j	活用形	活用形	inflected form
+j	活用語	活用語	conjugational parts of sp…
+j	活発な	活発な	
+j	添い寝	添い寝	sleeping alongside someon…
+j	添える	添える	garnish
+j	添え字	添え字	送り仮名など本文の文字に書き添えた文字。
+j	添乗員	添乗員	添乗を職業とする人。
+j	添加剤	添加剤	additive (substance alter…
+j	添加物	添加物	ある物に後から加えられる物質。
+j	燻べる	燻べる	to burn so as to produce …
+j	燻製の	燻製の	
+j	玻璃版	玻璃版	collotype
+j	画する	画する	線を書く。
+j	画一な	画一な	
+j	画一性	画一性	uniformity
+j	画一的	画一的	何もかも一様にそろっていて個性や特徴がないさま。一…
+j	画仙紙	画仙紙	書道に用いる大型の用紙。
+j	画学生	画学生	美術学校で画学を学ぶ学生。
+j	画期的	画期的	groundbreaking, landmark,…
+j	画架座	画架座	
+j	画用紙	画用紙	図画を画くための厚めの用紙。
+j	画素数	画素数	
+j	登下校	登下校	going to and leaving scho…
+j	登山家	登山家	climber, mountaineer
+j	登山者	登山者	mountain climber
+j	登山道	登山道	mountain trail
+j	登山靴	登山靴	
+j	登攀目	登攀目	《分類学》 ツパイ目の、かつての標準和名、現在では…
+j	登木目	登木目	《分類学》 ツパイ目の、かつての標準和名、現在では…
+j	登竜門	登竜門	gateway to a career etc.
+j	登記所	登記所	登記に関する事務を取り扱う行政機関。
+j	登録者	登録者	組織や団体などに自分の名前などを入れておく者。
+j	登降園	登降園	登園と降園。登下校。
+j	移り気	移り気	
+j	移住者	移住者	immigrant
+j	移動局	移動局	
+j	移植片	移植片	
+j	移植鏝	移植鏝	
+j	系列化	系列化	The formation of a 系列(けいれ…
+j	系統学	系統学	
+j	系統樹	系統樹	phylogenetic tree
+j	系統的	系統的	系統に関するさま。
+j	系譜学	系譜学	genealogy
+j	翻筋斗	翻筋斗	somersault
+j	翻訳家	翻訳家	translator
+j	翻訳者	翻訳者	translator
+j	翻訳調	翻訳調	translationese, the resul…
+j	翻車魚	翻車魚	ocean sunfish, Mola mola
+j	荻野目	荻野目	a surname
+j	藻類学	藻類学	藻類について研究する学問。
+j	蜻蛉目	蜻蛉目	《分類学》 トンボ目の、かつての標準和名、現在の異…
+j	蜻蛉類	蜻蛉類	トンボ目に分類される昆虫の総称。蜻蛉に同じ。
+j	蟻の塔	蟻の塔	
+j	蟻の子	蟻の子	an ant, particularly one …
+j	蟻地獄	蟻地獄	an antlion larva
+j	蟻継ぎ	蟻継ぎ	dovetail joint
+j	蟻酸塩	蟻酸塩	formate
+j	蟻鼻銭	蟻鼻銭	春秋戦国時代の楚で使われていた青銅製の貨幣。
+j	費える	費える	to be spent
+j	費やす	費やす	to spend, to consume
+j	輻射点	輻射点	
+j	辻斬り	辻斬り	The killing of a passerby…
+j	閻浮提	閻浮提	Jambudvipa
+j	閻魔堂	閻魔堂	閻魔とその眷属を本尊する堂宇。
+j	閻魔天	閻魔天	「焔摩天」の別表記。
+j	閻魔様	閻魔様	閻魔の尊称。
+j	阻害剤	阻害剤	
+j	阻害音	阻害音	obstruent
+j	電ドリ	電ドリ	
+j	電位差	電位差	2点間の電位の隔たり。電圧。
+j	電信柱	電信柱	電話線をはるための柱。電柱。
+j	電信機	電信機	電信を送受信するための機械。
+j	電信線	電信線	電信の信号を伝導するための導線。
+j	電力計	電力計	wattmeter
+j	電動の	電動の	
+j	電動機	電動機	electric motor
+j	電動車	電動車	電車のうち電動機を備え自走することができる車両。
+j	電圧計	電圧計	voltmeter
+j	電子化	電子化	
+j	電子戦	電子戦	敵の電子兵器の使用を分析、記録したり、妨害、混乱さ…
+j	電子本	電子本	
+j	電子殻	電子殻	ボーアモデルで電子が入る場所。
+j	電子版	電子版	electronic version or edi…
+j	電子的	電子的	コンピュータを使用してデジタルに処理する様子。
+j	電子線	電子線	真空の中に放射された一定方向の電子の流れ。
+j	電子銃	電子銃	electron gun
+j	電子音	電子音	electronic sound (sound p…
+j	電弧炉	電弧炉	アーク炉。
+j	電撃戦	電撃戦	blitzkrieg (fast military…
+j	電撃的	電撃的	電光が走るように素早く鋭いさま。
+j	電気力	電気力	クーロン力。
+j	電気室	電気室	電気設備が設置されている部屋。
+j	電気屋	電気屋	electronics store
+j	電気工	電気工	
+j	電気石	電気石	
+j	電気街	電気街	electronics market (retai…
+j	電気車	電気車	電気で動く自動車、オートバイ。電気自動車。電動車。
+j	電気量	電気量	electric charge
+j	電気釜	電気釜	electric rice cooker
+j	電気鰻	電気鰻	electric eel, Electrophor…
+j	電波塔	電波塔	テレビやラジオの電波を送信するための塔。
+j	電波系	電波系	denpa-kei person: one who…
+j	電流計	電流計	ammeter
+j	電熱器	電熱器	電熱線を使い、その熱を利用する機器。
+j	電熱線	電熱線	通電することで電気抵抗により発熱することを利用した…
+j	電磁の	電磁の	
+j	電磁場	電磁場	electromagnetic field
+j	電磁気	電磁気	electromagnetism
+j	電磁波	電磁波	electromagnetic wave
+j	電磁的	電磁的	コンピュータを用いる様子。
+j	電磁石	電磁石	electromagnet
+j	電算機	電算機	「電子計算機」の略。電算。
+j	電解液	電解液	electrolyte (solution con…
+j	電解質	電解質	electrolyte
+j	電話局	電話局	電話の架設、保守、交換などを行う施設や組織。
+j	電話帳	電話帳	telephone directory, tele…
+j	電話機	電話機	telephone set
+j	電話線	電話線	telephone line
+j	電車代	電車代	train fare
+j	電車賃	電車賃	電車に乗るためにかかる運賃。
+j	電通大	電通大	
+j	電通相	電通相	電気通信大臣の略。
+j	電離層	電離層	the ionosphere
+j	電離度	電離度	
+j	韻律論	韻律論	
+j	頻繁な	頻繁な	
+j	頻繁に	頻繁に	
+j	鴻雁来	鴻雁来	七十二候の一つ。寒露の初候（日本）。雁が飛来し始め…
+j	麻の実	麻の実	
+j	麻垂れ	麻垂れ	the "dotted cliff" radica…
+j	麻実子	麻実子	a female given name
+j	麻実油	麻実油	hempseed oil
+j	麻理恵	麻理恵	a female given name
+j	麻痺る	麻痺る	to be numb
+j	麻祐子	麻祐子	a female given name
+j	麻美子	麻美子	a female given name
+j	麻花兒	麻花兒	mahua, a Chinese snack al…
+j	麻薬犬	麻薬犬	drug dog, dope dog
+j	麻衣子	麻衣子	a female given name
+j	麻辣鍋	麻辣鍋	mala hotpot
+j	麻酔剤	麻酔剤	anesthetic, anaesthetic
+j	麻酔薬	麻酔薬	anesthetic, anaesthetic
+j	麻里子	麻里子	a female given name
+j	鼻の穴	鼻の穴	
+j	鼻下長	鼻下長	
+j	鼻中隔	鼻中隔	a nasal septum
+j	鼻出血	鼻出血	鼻から出血すること。鼻血。
+j	鼻唇溝	鼻唇溝	
+j	鼻子音	鼻子音	nasal consonant
+j	鼻拭き	鼻拭き	handkerchief
+j	鼻根筋	鼻根筋	a procerus muscle
+j	鼻母音	鼻母音	nasal vowel
+j	鼻洗浄	鼻洗浄	
+j	鼻濁音	鼻濁音	The allophonic variation …
+j	鼻眼鏡	鼻眼鏡	pince-nez
+j	鼻識界	鼻識界	嗅覚する心。六識のひとつ。鼻識に同じ（ウィキペディ…
+j	鼻音化	鼻音化	
+k	거담제	去痰剤	expectorant
+k	거담제	去痰劑	expectorant
+k	거래소	去來所	exchange (place for condu…
+k	거래소	去来所	exchange (place for condu…
+k	거래처	去來處	customer; client
+k	거래처	去来処	customer; client
+k	공격수	攻撃手	
+k	공격수	攻擊手	
+k	공격전	攻撃戦	offensive war
+k	공격전	攻擊戰	offensive war
+k	공성전	攻城戦	siege (military blockade …
+k	공성전	攻城戰	siege (military blockade …
+k	등록기	登錄器	register (machine)
+k	등록기	登録器	register (machine)
+k	등록증	登錄證	registration certificate
+k	등록증	登録証	registration certificate
+k	등산가	登山家	등산을 하는 사람.
+k	등산객	登山客	mountain climber
+k	등산로	登山路	hiking trail
+k	등산화	登山靴	등산을 하기 위한 신발.
+k	마립간	麻立干	a royal title of the anci…
+k	번역가	翻訳家	translator
+k	번역기	翻訳機	machine translator
+k	번역문	翻訳文	
+k	번역자	翻訳者	translator
+k	번역체	翻訳体	translationese
+k	비음화	鼻音化	(언어) 비강으로 이어지는 날숨의 통로를 닫아…
+k	비출혈	鼻出血	
+k	사망자	死亡者	dead person; deceased per…
+k	사망학	死亡学	
+k	사망학	死亡學	
+k	사백어	死白魚	The ice goby, Leucopsario…
+k	사화산	死火山	extinct volcano
+k	손전화기	電話機	
+k	의대생	医大生	
+k	이민자	移民者	immigrant, migrant
+k	이주자	移住者	immigrant, migrant
+k	전격전	電撃戦	blitzkrieg (fast military…
+k	전격전	電擊戰	blitzkrieg (fast military…
+k	전광판	電光板	electronic display; elect…
+k	전기석	電気石	tourmaline
+k	전기석	電氣石	tourmaline
+k	전기차	電気車	electric car
+k	전기차	電氣車	electric car
+k	전리층	電離層	태양열에 의해 이온화된 대기층.
+k	전산학	電算学	computer science
+k	전산학	電算學	computer science
+k	전선주	電線柱	
+k	전압계	電圧計	두 점 사이의 전위차이를 측정하기 위해 사용하…
+k	전압계	電壓計	두 점 사이의 전위차이를 측정하기 위해 사용하…
+k	전자기	電磁気	electromagnetism
+k	전자기	電磁氣	electromagnetism
+k	전자책	電子冊	e-book
+k	전자화	電子化	
+k	전해질	電解質	
+k	전화기	電話機	telephone set
+k	전화비	電話費	phone bill
+k	전화선	電話線	
+k	조류학	藻類学	ornithology
+k	조류학	藻類學	ornithology
+k	주	註/注	week (unit of time)
+k	주교관	主敎冠	mitre (covering for the h…
+k	주모자	主謀者	ringleader, mastermind
+k	주인공	主人公	protagonist, leading char…
+k	주전론	主戦論	
+k	주전론	主戰論	
+k	주제가	主題歌	theme song
+k	주제곡	主題曲	theme song
+k	주체화	主題化	
+k	주침실	主寝室	
+k	주침실	主寢室	
+k	처부모	妻父母	wife's parents
+k	첨가물	添加物	additive
+k	치료사	治療士	
+k	치료제	治療剤	medicine, medical drug, m…
+k	치료제	治療劑	medicine, medical drug, m…
+k	헌혈자	獻血者	
+k	환각제	幻覚剤	
+k	환각제	幻覺劑	
+k	환상곡	幻想曲	fantasia
+k	환상적	幻想的	fantastic
+k	환지통	幻肢痛	phantom limb pain; phanto…
+k	활동가	活動家	activist (one who is poli…
+k	활동적	活動的	active
+k	활성탄	活性炭	activated carbon
+k	활자체	活字体	
+k	활자체	活字體	
+j	主として	主として	mainly
+j	主の祈り	主の祈り	the Lord's Prayer
+j	主体思想	主体思想	Juche (the state ideology…
+j	主体的な	主体的な	
+j	主力戦車	主力戦車	地上戦の主力となる火力と重装甲に優れた戦車。
+j	主張する	主張する	
+j	主格保護	主格保護	
+j	主業農家	主業農家	一年に60日以上農業に従事している65歳未満の者が…
+j	主権侵犯	主権侵犯	infringement of sovereign…
+j	主権国家	主権国家	主権を持ち、他国の干渉を受けない国家。
+j	主権在民	主権在民	sovereignty of the people
+j	主演する	主演する	
+j	主義主張	主義主張	自身が持っている思想や立場。
+j	主軸変換	主軸変換	二次形式の一般形を変数変換により標準形に変換するこ…
+j	任命する	任命する	
+j	任意保険	任意保険	保険への加入が当事者の自由な意思にまかされている保…
+j	任意整理	任意整理	「私的整理」を参照。
+j	任用資格	任用資格	特定の職務に任用、任命されることで効力がある国家資…
+j	刻苦勉励	刻苦勉励	非常に苦労して、ただ勉学などに励むこと。
+j	医は仁術	医は仁術	医療は金儲けのためなどではなく、患者を助けることに…
+j	医療事故	医療事故	医療の現場で起こった事故の総称。
+j	医療大学	医療大学	医療系の単科大学。
+j	医療崩壊	医療崩壊	伝染病の流行や医師の不足により、医療機関が医療を正…
+j	医療機器	医療機器	人や動物の疾病の診断、治療、予防、人や動物の体に身…
+j	医療機関	医療機関	医療法に基づく医療を実施する施設、機関。病院、診療…
+j	医療法人	医療法人	医療法に基づき設立が認可された公益法人。
+j	医療行為	医療行為	医療法に基づき、医師、歯科医師および医師、歯科医師…
+j	医療観光	医療観光	
+j	医療過誤	医療過誤	医療関係者の不注意により患者に何らかの損害を与える…
+j	医科大学	医科大学	1886年から1919年までの帝国大学における分科…
+j	医食同源	医食同源	a healthy diet and medici…
+j	去勢する	去勢する	
+j	去勢雄牛	去勢雄牛	
+j	妻鈍ジー	妻鈍ジー	妻に惚気て、言いなりとなっている人やこと。さいのろ。
+j	尻が青い	尻が青い	
+j	尻っぺた	尻っぺた	backside, buttocks
+j	尻を叩く	尻を叩く	to urge (someone) to take…
+j	巻き寿司	巻き寿司	makizushi (sushi made rol…
+j	巻き戻す	巻き戻す	to return something to a …
+j	巻き毛の	巻き毛の	
+j	巻き直す	巻き直す	
+j	巻き込む	巻き込む	to envelop; to engulf; to…
+j	巻き返し	巻き返し	recovery, rally
+j	巻き返す	巻き返す	regain one's strength
+j	幻想的な	幻想的な	
+j	幻覚症状	幻覚症状	
+j	捻り潰す	捻り潰す	to pinch and crush
+j	捻挫する	捻挫する	
+j	掻き乱す	掻き乱す	to make messy or confused
+j	掻き回す	掻き回す	to stir
+j	掻き毟る	掻き毟る	to scratch vigorously
+j	掻っ払い	掻っ払い	snatching, stealing in pl…
+j	掻っ払う	掻っ払う	steal, snatch
+j	攻城兵器	攻城兵器	
+j	攻撃する	攻撃する	
+j	攻撃側の	攻撃側の	
+j	攻撃的な	攻撃的な	
+j	攻撃的に	攻撃的に	
+j	死すべき	死すべき	
+j	死なない	死なない	
+j	死ぬほど	死ぬほど	to death, like crazy, lik…
+j	死の商人	死の商人	敵味方を問わず武器や兵器を販売し、戦争を誘発して巨…
+j	死の舞踏	死の舞踏	
+j	死の行軍	死の行軍	death march (forced movem…
+j	死の行進	死の行進	death march (forced movem…
+j	死の願望	死の願望	
+j	死亡する	死亡する	
+j	死亡事故	死亡事故	
+j	死亡者数	死亡者数	
+j	死亡記事	死亡記事	
+j	死体性愛	死体性愛	
+j	死刑判決	死刑判決	
+j	死去する	死去する	
+j	死因贈与	死因贈与	贈与者の死亡によって効力が生ずる贈与契約。（民法5…
+j	死屍累累	死屍累累	heaps of corpses all arou…
+j	死後硬直	死後硬直	rigor mortis
+j	死恐怖症	死恐怖症	
+j	死活問題	死活問題	matter of life or death
+j	死者の書	死者の書	the Book of the Dead
+j	死霊使い	死霊使い	
+j	治らない	治らない	
+j	治外法権	治外法権	extraterritoriality
+j	治安判事	治安判事	magistrate; justice of th…
+j	治療する	治療する	
+j	活け造り	活け造り	ikizukuri, preparing sash…
+j	活動写真	活動写真	a movie.
+j	活動弁士	活動弁士	無声映画で映画の内容を説明する人。活動写真弁士、活…
+j	活動的な	活動的な	
+j	活動電位	活動電位	action potential
+j	活字書体	活字書体	a typeface
+j	活性酸素	活性酸素	酸化力がつよく化学反応を起こしやすい酸素。
+j	活版印刷	活版印刷	活版により印刷すること。また、印刷された物。
+j	活用する	活用する	
+j	活用語尾	活用語尾	用言で、語幹に接続し活用を表す語尾。
+j	添付する	添付する	
+j	添加する	添加する	
+j	玻璃長石	玻璃長石	sanidine
+j	画像処理	画像処理	image processing
+j	画像検索	画像検索	キーワードを入力しそのキーワードに適合する画像を検…
+j	画時代的	画時代的	新しい時代を開くさま。
+j	画竜点睛	画竜点睛	putting on the finishing …
+j	画蛇添足	画蛇添足	making an unnecessary add…
+j	画面焼け	画面焼け	ディスプレイに長時間同じ画面が表示された後、その画…
+j	登場人物	登場人物	character (a being in a s…
+j	登校拒否	登校拒否	
+j	登録する	登録する	
+j	登録商標	登録商標	特許庁に登録された商標。商標の侵害に対し保護される。
+j	登録解除	登録解除	
+j	移住する	移住する	
+j	移動平均	移動平均	moving average
+j	移動教室	移動教室	instruction that takes pl…
+j	移動祝日	移動祝日	日付が具体的に定まっておらず、年によって日付が変動…
+j	移動販売	移動販売	商品を載せた自動車が家々を巡って商品を販売すること。
+j	移動電話	移動電話	mobile phone
+j	移植する	移植する	
+j	移民する	移民する	
+j	移行する	移行する	
+j	移調楽器	移調楽器	楽譜の音と実際に出る音が異なる楽器。
+j	移譲する	移譲する	
+j	系図買い	系図買い	pedigree buying: the purc…
+j	系外惑星	系外惑星	太陽系外にある惑星。
+j	翻訳する	翻訳する	
+j	翻訳借用	翻訳借用	calque
+j	翻訳研究	翻訳研究	
+j	翻雲覆雨	翻雲覆雨	人や世間の心はすぐに変わるということ。
+j	藻類学者	藻類学者	藻類学を研究する科学者。
+j	費拉特費	費拉特費	
+j	軻遇突智	軻遇突智	
+j	辻ヒール	辻ヒール	healing random players
+j	辻占煎餅	辻占煎餅	fortune cookie
+j	辻自動車	辻自動車	a taxi, a taxicab, a cab
+j	閻魔参り	閻魔参り	旧暦の一月十六日と七月十六日に閻魔堂に参詣すること…
+j	閻魔大王	閻魔大王	閻魔の尊称。
+j	閻魔詣で	閻魔詣で	旧暦の一月十六日と七月十六日に閻魔堂に参詣すること…
+j	阻止する	阻止する	
+j	電位差計	電位差計	
+j	電信送金	電信送金	
+j	電光朝露	電光朝露	極めて短い時間のたとえ。
+j	電光石火	電光石火	lightning speed
+j	電子工学	電子工学	electronics
+j	電子手帳	電子手帳	
+j	電子書籍	電子書籍	e-book
+j	電子楽器	電子楽器	電子回路による発振を行い音を出す楽器の総称。
+j	電子機器	電子機器	コンピュータの働きによって動作する機械。
+j	電子決済	電子決済	電子マネーを利用した決済。
+j	電子署名	電子署名	コンピュータで作成された文書について、誰が書いたか…
+j	電子辞書	電子辞書	e-dictionary
+j	電子部品	電子部品	電子回路に用いられる部品（パーツ）。
+j	電子郵便	電子郵便	電子メールのこと。
+j	電子配置	電子配置	原子や分子の電子状態を記述するために電子がどのよう…
+j	電子音楽	電子音楽	
+j	電子頭脳	電子頭脳	コンピュータ。電子計算機。略称は電脳。
+j	電子黒板	電子黒板	描いた内容を電子的に変換することができる、ホワイト…
+j	電極電位	電極電位	酸素還元反応を起こす電極と電解質溶液の接触面間の電…
+j	電気信号	電気信号	電圧の変化によって伝える信号。
+j	電気光学	電気光学	electrooptics
+j	電気分解	電気分解	化合物の水溶液に電流を通じて化学変化を起こさせるこ…
+j	電気力学	電気力学	electrodynamics
+j	電気化学	電気化学	電子の授受を伴った化学現象を扱う学問。電池や腐食な…
+j	電気回路	電気回路	電流が流れる通り道。
+j	電気容量	電気容量	
+j	電気工学	電気工学	electrical engineering
+j	電気技師	電気技師	
+j	電気抵抗	電気抵抗	電流を妨げようとする性質。または、その値。
+j	電気椅子	電気椅子	an electric chair
+j	電気楽器	電気楽器	電気回路による発振を行い音を出す楽器の総称。
+j	電気泳動	電気泳動	
+j	電気療法	電気療法	electrotherapy
+j	電気発破	電気発破	爆薬と電気雷管と電気導火線を用いる発破。
+j	電気的な	電気的な	
+j	電気素量	電気素量	電子が持つ電荷の絶対値。記号eで表され、約1.6×…
+j	電気通信	電気通信	telecommunications
+j	電気鉄道	電気鉄道	車輌の動力を電気としと使用する鉄道。電鉄。
+j	電気鋳造	電気鋳造	電気鍍金の技術を使い、原型の複製を作製する鋳造の方…
+j	電気鍍金	電気鍍金	鍍金しようとする金属を陽極、鍍金される物体を陰極に…
+j	電気風呂	電気風呂	vibration bath, a bath ch…
+j	電波時計	電波時計	radio clock
+j	電流密度	電流密度	電流の方向に対し垂直な単位断面積に流れる電気量。
+j	電源回路	電源回路	
+j	電磁放射	電磁放射	electromagnetic radiation
+j	電磁気の	電磁気の	
+j	電磁気力	電磁気力	電気力と磁気力の総称。媒介するゲージ粒子は光子であ…
+j	電磁気学	電磁気学	electromagnetism, electro…
+j	電磁誘導	電磁誘導	electromagnetic induction
+j	電算写植	電算写植	electronic phototypesetti…
+j	電荷素量	電荷素量	電気素量の同義語。
+j	電話する	電話する	
+j	電話会社	電話会社	
+j	電話回線	電話回線	固定電話での通話に用いられる回線。
+j	電話投票	電話投票	
+j	電話番号	電話番号	telephone number
+j	電車区間	電車区間	大都市付近の通勤電車の本数が多い区間。
+j	電鳴楽器	電鳴楽器	最終的に電磁気力によって音を発する楽器。
+j	韻を踏む	韻を踏む	to rhyme
+j	鴻鳦満紙	鴻鳦満紙	無造作に走り書きをすること。
+j	麻ミルク	麻ミルク	
+j	麻姑掻痒	麻姑掻痒	事物が思うとおり行くこと。
+j	麻姑掻癢	麻姑掻癢	麻姑掻痒の別形。
+j	麻婆豆腐	麻婆豆腐	mapo doufu, a spicy chili…
+j	麻痺する	麻痺する	
+j	麻酔科医	麻酔科医	麻酔科を専門とする医師。
+j	鼻が高い	鼻が高い	proud
+j	鼻で笑う	鼻で笑う	to laugh in a demeaning w…
+j	鼻につく	鼻につく	匂いが強烈で不快を感じる。
+j	鼻の高い	鼻の高い	
+j	鼻ぺちゃ	鼻ぺちゃ	
+j	鼻ほじり	鼻ほじり	
+j	鼻を擤む	鼻を擤む	
+j	鼻を穿る	鼻を穿る	
+j	鼻を突く	鼻を突く	ひどい悪臭が、嗅覚を刺激する。
+j	鼻カタル	鼻カタル	鼻炎。
+j	鼻ペチャ	鼻ペチャ	a small nose, a pug nose
+j	鼻マスク	鼻マスク	マスクを鼻を出して着用すること。
+j	鼻メガネ	鼻メガネ	
+j	鼻形成術	鼻形成術	rhinoplasty
+k	각골난망	刻骨難忘	cherishing forever the me…
+k	각주구검	刻舟求剣	being foolishly stubborn …
+k	각주구검	刻舟求劍	being foolishly stubborn …
+k	거두절미	去頭截尾	cutting to the chase; say…
+k	거자필반	去者必返	those who leave will sure…
+k	계외 행성	系外行星	
+k	등기우편	登記郵便	registered mail, register…
+k	등장인물	登場人物	character (in a story or …
+k	마파두부	麻婆豆腐	mapo doufu
+k	번역차용	翻訳借用	calque
+k	번역차용	翻譯借用	calque
+k	사각지대	死角地帯	blind spot
+k	사각지대	死角地帶	blind spot
+k	사망원인	死亡原因	
+k	사망하다	死亡하다	to die
+k	사후경직	死後硬直	rigor mortis
+k	사후세계	死後世界	life after death, the aft…
+k	의과대학	医科大学	
+k	전기 기사	電気技師	
+k	전기 기사	電氣技師	
+k	전기공학	電気工学	electrical engineering
+k	전기공학	電氣工學	electrical engineering
+k	전기분해	電気分解	
+k	전기분해	電氣分解	
+k	전기영동	電気泳動	
+k	전기영동	電氣泳動	
+k	전기용량	電気容量	
+k	전기용량	電氣容量	
+k	전기의자	電気椅子	electric chair
+k	전기의자	電氣椅子	electric chair
+k	전신송금	電信送金	
+k	전신케블	電信케블	telegraph cable
+k	전자 상업	電子商業	
+k	전자가마	電子가마	microwave
+k	전자공학	電子工学	electronics
+k	전자공학	電子工學	electronics
+k	전자기기	電子機器	
+k	전자기장	電磁気場	
+k	전자기장	電磁氣場	
+k	전자기파	電磁気波	electromagnetic wave, ele…
+k	전자기파	電磁氣波	electromagnetic wave, ele…
+k	전자기학	電磁気学	
+k	전자기학	電磁氣學	
+k	전자볼트	電子볼트	electron volt
+k	전자사전	電子辞典	
+k	전자사전	電子辭典	
+k	전자서적	電子書籍	
+k	전자수첩	電子手帖	
+k	전자시계	電子時計	electronic clock, clock o…
+k	전자오락	電子娛樂	game, video game
+k	전자오락	電子娯楽	game, video game
+k	전자우편	電子郵便	email
+k	전자음악	電子音楽	
+k	전자음악	電子音樂	
+k	전자장치	電子装置	
+k	전자장치	電子裝置	
+k	전자제품	電子製品	
+k	전파시계	電波時計	
+k	전화번호	電話番号	telephone number
+k	전화번호	電話番號	telephone number
+k	주체사상	主体思想	Juche (the state ideology…
+k	주체사상	主體思想	Juche (the state ideology…
+k	측은지심	惻隠之心	heart of sympathy
+k	측은지심	惻隱之心	heart of sympathy
+k	치안판사	治安判事	
+k	치외법권	治外法権	
+k	치외법권	治外法權	
+k	헌혈활동	獻血活動	
+k	화사첨족	画蛇添足	뱀을 그리고 나서 발을 덧붙인다는 뜻으로 불필…
+k	화상 회의	画像会議	
+k	화상통화	画像通話	
+k	환상 통증	幻想痛症	phantom pain
+k	활동사진	活動写真	movie
+k	활동사진	活動寫眞	movie
+j	主人公補正	主人公補正	unusual luck or abilities…
+j	主要八ヶ国	主要八ヶ国	
+j	任天堂信者	任天堂信者	
+j	医原性疾患	医原性疾患	医療行為が原因で生ずる疾患。
+j	医療補助者	医療補助者	
+j	医薬部外品	医薬部外品	quasi drug
+j	尻尾を出す	尻尾を出す	to show one's true colors…
+j	尻尾を巻く	尻尾を巻く	to tuck one's tail betwee…
+j	尻尾を振る	尻尾を振る	to flatter; to butter up
+j	尻尾を掴む	尻尾を掴む	to have something on some…
+j	尻込みする	尻込みする	
+j	巻き起こす	巻き起こす	to create; to stir up (de…
+j	戻って来る	戻って来る	to come back
+j	捻じ伏せる	捻じ伏せる	pin someone down while tw…
+j	掻き上げる	掻き上げる	to comb, to brush up (e.g…
+j	掻き混ぜる	掻き混ぜる	
+j	掻き集める	掻き集める	to scrape up, to rake up
+j	攻め立てる	攻め立てる	to attack incessantly
+j	死にかける	死にかける	to be close to death; to …
+j	死にそうな	死にそうな	
+j	死に損ない	死に損ない	someone who survived, som…
+j	死に損なう	死に損なう	to fail to die; to narrow…
+j	死に物狂い	死に物狂い	desperation, struggle to …
+j	死に絶えた	死に絶えた	
+j	死に絶える	死に絶える	
+j	死の四重奏	死の四重奏	メタボリックシンドロームを参照
+j	死の陰の谷	死の陰の谷	
+j	死亡フラグ	死亡フラグ	
+j	死亡者略歴	死亡者略歴	
+j	死亡診断書	死亡診断書	医師が死亡した患者についてその死因や場所、日時など…
+j	死亡証明書	死亡証明書	death certificate
+j	死亡證明書	死亡證明書	death certificate
+j	死体安置所	死体安置所	morgue, mortuary
+j	死体愛好症	死体愛好症	
+j	死体検案書	死体検案書	医師の診察を受けずに死亡した者について、医師が死亡…
+j	死体置き場	死体置き場	morgue, mortuary
+j	死刑囚監房	死刑囚監房	
+j	死刑執行人	死刑執行人	死刑囚に対して死刑を執行する者。処刑人。
+j	活を入れる	活を入れる	気絶した人の意識を戻す。
+j	活性化する	活性化する	
+j	活性化関数	活性化関数	
+j	添い遂げる	添い遂げる	to remain married the who…
+j	画像掲示板	画像掲示板	imageboard
+j	登録免許税	登録免許税	日本国の登録免許税法（昭和42年法律第35号）によ…
+j	登録販売者	登録販売者	一般用医薬品の販売を行う者。
+j	移り変わり	移り変わり	change or transition
+j	移り変わる	移り変わる	to change with the lapse …
+j	移動させる	移動させる	
+j	移動図書館	移動図書館	図書館にある資料の一部を積載し、各地区を巡回して資…
+j	移動祝祭日	移動祝祭日	日付が具体的に定まっておらず、年によって日付が変動…
+j	系統を組む	系統を組む	
+j	系統立てる	系統立てる	systematize, organize
+j	翻筋斗打つ	翻筋斗打つ	to do a somersault
+j	翻訳不可能	翻訳不可能	
+j	虻蜂取らず	虻蜂取らず	同時に複数のものを手に入れようとすると一つも手にす…
+j	蟻の門渡り	蟻の門渡り	perineum
+j	蟻継ぎする	蟻継ぎする	
+j	費用対効果	費用対効果	cost-effectiveness, perfo…
+j	辻ヒーラー	辻ヒーラー	healer who heals random p…
+j	電光掲示板	電光掲示板	electronic noticeboard; e…
+j	電動一輪車	電動一輪車	エネルギーに電気を用い電動機を動力にして走行する一…
+j	電動三輪車	電動三輪車	エネルギーに電気を用い電動機を動力にして走行する三…
+j	電動二輪車	電動二輪車	エネルギーに電気を用い電動機を動力にして走行するオ…
+j	電動四輪車	電動四輪車	エネルギーに電気を用い電動機を動力にして走行する四…
+j	電動自転車	電動自転車	電力でも人力でも走行可能な二輪車。電気自転車。
+j	電動髭剃り	電動髭剃り	
+j	電報を送る	電報を送る	
+j	電報コード	電報コード	telegraph code
+j	電子たばこ	電子たばこ	electronic cigarette
+j	電子ゲーム	電子ゲーム	コンピュータを利用して遊ぶゲーム。
+j	電子ボルト	電子ボルト	electron volt
+j	電子マネー	電子マネー	electronic money
+j	電子メール	電子メール	electronic mail
+j	電子レンジ	電子レンジ	microwave oven; microwave
+j	電子化する	電子化する	
+j	電子商取引	電子商取引	
+j	電子図書館	電子図書館	インターネット上で電子書籍の閲覧を行うことができる…
+j	電子掲示板	電子掲示板	bulletin board system (co…
+j	電子番組表	電子番組表	放送される番組の一覧をテレビの画面上で確認できる機…
+j	電子目次本	電子目次本	digital song catalog for …
+j	電子計算機	電子計算機	computer
+j	電子顕微鏡	電子顕微鏡	an electron microscope
+j	電気ギター	電気ギター	synonym of エレクトリック・ギター (e…
+j	電気工事士	電気工事士	電気工作物の工事、保守、点検を行う職業。
+j	電気掃除機	電気掃除機	synonym of 掃除機
+j	電気椅子刑	電気椅子刑	
+j	電気機関車	電気機関車	電気を動力としてレールの上を走る機関車。特に自走能…
+j	電気洗濯機	電気洗濯機	洗い物、水、洗剤を入れた水槽をモーターで回して洗濯…
+j	電気炊飯器	電気炊飯器	
+j	電気穿孔法	電気穿孔法	electroporation
+j	電気自動車	電気自動車	electric car; electric ve…
+j	電気自転車	電気自転車	電力又は人力どちらでも走行するペダル付きのオートバ…
+j	電気陰性度	電気陰性度	分子内の原子が電子を引き付ける力の尺度。
+j	電気髭剃り	電気髭剃り	
+j	電波やくざ	電波やくざ	放送局の侮蔑語。特にNHKの侮蔑語。
+j	電波ソング	電波ソング	denpa song, a Japanese ge…
+j	電波ヤクザ	電波ヤクザ	「電波やくざ」の別表記。
+j	電波天文学	電波天文学	radio astronomy
+j	電波探知機	電波探知機	radar, radio detection an…
+j	電波望遠鏡	電波望遠鏡	
+j	電磁パルス	電磁パルス	electromagnetic pulse
+j	電算写植機	電算写植機	electronic phototypesetter
+j	電纜敷設船	電纜敷設船	水上で水中機器やケーブルの敷設、引き揚げで使用され…
+j	電纜敷設艇	電纜敷設艇	水上で水中機器やケーブルの敷設任務で使用される敷設…
+j	電纜敷設艦	電纜敷設艦	水上で水中機器やケーブルの敷設任務で使用される敷設…
+j	電話に出る	電話に出る	
+j	電話を切る	電話を切る	to hang up, to terminate …
+j	電話ブース	電話ブース	
+j	麻薬中毒者	麻薬中毒者	
+j	麻薬取締員	麻薬取締員	都道府県の職員で麻薬取締や薬物犯罪捜査などを行う特…
+j	麻薬取締官	麻薬取締官	厚生労働省の職員で麻薬取締や薬物犯罪捜査などを行う…
+j	麻薬密売人	麻薬密売人	
+j	麻薬常習者	麻薬常習者	
+j	麻薬捜査犬	麻薬捜査犬	
+j	麻薬探知犬	麻薬探知犬	
+j	鼻が曲がる	鼻が曲がる	とてつもない悪臭であること。
+j	鼻に掛ける	鼻に掛ける	自慢する、得意がる。
+j	鼻孔開大筋	鼻孔開大筋	a dilator naris
+k	거성불연삼	去声不連三	a Middle Korean tone sand…
+k	거성불연삼	去聲不連三	a Middle Korean tone sand…
+k	번역	翻訳/翻訳	translation
+k	의료보험증	医療保険証	medical insurance card
+k	전기 기관차	電気機関車	
+k	전기 기관차	電氣機關車	
+k	전기 음성도	電気陰性度	
+k	전기 음성도	電氣陰性度	
+k	전기면도기	電気面刀器	electric shaver
+k	전기면도기	電氣面刀器	electric shaver
+k	전기자동차	電気自動車	electric car
+k	전기자동차	電氣自動車	electric car
+k	전기충격기	電気衝撃機	
+k	전기충격기	電氣衝擊機	
+k	전기통신사	電気通信士	telephone operator
+k	전기통신사	電氣通信士	telephone operator
+k	전신타자기	電信打字機	
+k	전자게시판	電子掲示板	
+k	전자게시판	電子揭示板	
+k	전자계산기	電子計算機	electronic calculator
+k	전자레인지	電子레인지	microwave oven (oven usin…
+k	전파 망원경	電波望遠鏡	
+k	전해 축전기	電解蓄電器	
+k	전화번호부	電話番号簿	
+k	전화번호부	電話番號簿	
+k	주기	註記／注記	period, cycle
+k	헌사	獻詞/獻辭	dedication (e.g. in a boo…
+k	화질	画質/畵質	picture quality; resoluti…
+k	활성화 함수	活性化函数	
+k	활성화 함수	活性化函數	
+k	훈제	燻製/薫製	the state of being smoked…
+k	훈제	燻製/薰製	the state of being smoked…
+j	主演している	主演している	
+j	主要二十ヶ国	主要二十ヶ国	
+j	医療用医薬品	医療用医薬品	医師、歯科医師の診断に基づく処方箋により院内薬局や…
+j	医者の不養生	医者の不養生	physician, heal thyself, …
+j	去勢を起こす	去勢を起こす	
+j	尻子玉を抜く	尻子玉を抜く	子供が川で泳いでいると、河童が来て尻子玉を抜いて臓…
+j	尻目に懸ける	尻目に懸ける	相手を蔑む。無視する。
+j	巻き添え被害	巻き添え被害	collateral damage
+j	死人に口無し	死人に口無し	dead men tell no tales
+j	活性化させる	活性化させる	
+j	添付ファイル	添付ファイル	attached file, attachment
+j	画期的出来事	画期的出来事	
+j	登録修理業者	登録修理業者	特別特定無線設備の修理に関し、総務大臣の登録を受け…
+j	登録解除する	登録解除する	
+j	移動性高気圧	移動性高気圧	偏西風により低気圧に挟まれるようにして移動していく…
+j	電動輸送機器	電動輸送機器	
+j	電子オルガン	電子オルガン	鍵盤楽器の一種で、電子回路から送られた信号をアンプ…
+j	電子デバイス	電子デバイス	
+j	電子リーダー	電子リーダー	
+j	電気スタンド	電気スタンド	電気自動車に充電を行う施設。
+j	電気化学反応	電気化学反応	電子の授受を伴った化学反応。
+j	電気発破技士	電気発破技士	電気発破を行う発破技士。
+j	電磁流体力学	電磁流体力学	
+j	電磁相互作用	電磁相互作用	electromagnetic interacti…
+j	電話をかける	電話をかける	to call someone over the …
+j	電話ボックス	電話ボックス	telephone box; telephone …
+j	電話勧誘販売	電話勧誘販売	
+j	麻酔をかける	麻酔をかける	
+j	鼻であしらう	鼻であしらう	相手の言動に対して、まともに取り合わずに冷淡に扱う。
+j	鼻をほじくる	鼻をほじくる	
+j	鼻中隔下制筋	鼻中隔下制筋	a depressor septi nasi
+j	鼻毛を伸ばす	鼻毛を伸ばす	女性の色香に迷い溺れる。
+k	전기종합악기	電気綜合楽器	synthesizer
+k	전기종합악기	電氣綜合樂器	synthesizer
+j	主法線ベクトル	主法線ベクトル	曲線 C=boldsymbol p(t)∣t∈ℝに…
+j	尻がこそばゆい	尻がこそばゆい	uncomfortable, guilty, he…
+j	尻抜けユニオン	尻抜けユニオン	会社がユニオンショップ制を採用していながら、労働組…
+j	巻き添えを食う	巻き添えを食う	to get involved in someth…
+j	死にかけている	死にかけている	
+j	死のスクリーン	死のスクリーン	
+j	死を忘るなかれ	死を忘るなかれ	
+j	移動式クレーン	移動式クレーン	自走可能なクレーン。クレーン車。
+j	電動シェーバー	電動シェーバー	
+j	電子ラーニング	電子ラーニング	
+j	電気エネルギー	電気エネルギー	電流によるエネルギー。電力。
+j	電気シェーバー	電気シェーバー	
+j	電気工事士免状	電気工事士免状	電気工事を行うことについての許可を証する書面等、電…
+j	電源アダプター	電源アダプター	power adapter
+j	電源モジュール	電源モジュール	電圧を変換するのに必要な部品を一つにまとめた装置。
+j	電源開発促進税	電源開発促進税	日本国の「電源開発促進税法」（昭和49年法律第79…
+j	電灯のスイッチ	電灯のスイッチ	
+j	電磁スペクトル	電磁スペクトル	
+j	電解コンデンサ	電解コンデンサ	electrolytic capacitor
+j	鼻の下を伸ばす	鼻の下を伸ばす	to be obsequious to women…
+j	死ぬまでしたい事	死ぬまでしたい事	
+j	死の青スクリーン	死の青スクリーン	
+j	死児の齢を数える	死児の齢を数える	今となっては取り返しのつかないことについて愚痴をこ…
+j	死者のためのミサ	死者のためのミサ	
+j	活性化エネルギー	活性化エネルギー	化学反応を起こさせる際、反応物に必要なエネルギー。
+j	芻豢甘きを加えず	芻豢甘きを加えず	物事の優劣・上下の区別が混同されやすいたとえ。
+j	電動キックボード	電動キックボード	e-scooter, electric scoot…
+j	電子ニュートリノ	電子ニュートリノ	an electron neutrino
+j	電気的録音録画物	電気的録音録画物	
+j	鼻であしらわれた	鼻であしらわれた	
+j	去る者は日々に疎し	去る者は日々に疎し	feelings for a departed o…
+j	治に居て乱を忘れず	治に居て乱を忘れず	In times of prosperity, p…
+j	蟻の思いも天に届く	蟻の思いも天に届く	
+j	蟻の思いも天に登る	蟻の思いも天に登る	
+j	電動アシスト自転車	電動アシスト自転車	電力によって力行を補助する自転車で一定速度に達する…
+j	電子ブックリーダー	電子ブックリーダー	
+j	電子メールアドレス	電子メールアドレス	
+j	電子レンジオーブン	電子レンジオーブン	
+j	電気通信主任技術者	電気通信主任技術者	事業用の電気通信設備の維持、運用、監督をする者。
+j	電解質コルチコイド	電解質コルチコイド	
+j	電話番号は何ですか	電話番号は何ですか	
+j	攻撃は最大の防御なり	攻撃は最大の防御なり	
+j	死が二人を分かつまで	死が二人を分かつまで	
+j	移動式クレーン運転士	移動式クレーン運転士	つり上げ荷重5トン以上を含めた全ての移動式クレーン…
+j	電界効果トランジスタ	電界効果トランジスタ	トランジスタの一種。電子・正孔の片方のみがキャリア…
+j	死んで花実が咲くものか	死んで花実が咲くものか	死んではどうもならず、生きていればよいこともあると…
+j	閻魔大王が下す地獄での判決も金次第では軽くもなる	閻魔大王が下す地獄での判決も金次第では軽くもなる	

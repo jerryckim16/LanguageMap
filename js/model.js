@@ -11,7 +11,7 @@
  */
 (function () {
   const root = typeof window !== "undefined" ? window : globalThis;
-  const { WORDS, CATEGORIES, TRANSLATIONS = [] } = root.LANGUAGE_MAP_DATA;
+  const { WORDS, CATEGORIES, TRANSLATIONS = [], NO_EQUIVALENT = [] } = root.LANGUAGE_MAP_DATA;
 
   const KINDS = {
     cognate:     { label: "Same characters", color: "#3b7dd8",
@@ -24,7 +24,13 @@
                    desc: "A word borrowed from the other language or from a third language." },
     false:       { label: "False friend", color: "#d1495b",
                    desc: "Looks the same but means something different. Not a translation." },
+    approx:      { label: "Closest match", color: "#8a8f98",
+                   desc: "No exact equivalent; this is the nearest word, with a different nuance." },
+    none:        { label: "No equivalent", color: "#b0b4ba",
+                   desc: "The other language has no word for this; it has to be explained with a phrase." },
   };
+  // Links that are not real translations, so they don't count toward one-to-one / split / merge.
+  const NOT_TRANSLATION = new Set(["false", "approx", "none"]);
 
   const ORIGINS = {
     ko: { native: "Native Korean · 고유어", sino: "Sino-Korean · 한자어", loan: "Loanword · 외래어" },
@@ -94,6 +100,25 @@
     });
   }
 
+  // Words with no equivalent: an arrow to a ∅ placeholder, plus dotted lines to the closest words.
+  for (const n of NO_EQUIVALENT) {
+    const isKo = n.lang === "ko";
+    const word = isKo
+      ? getKo(n.word, n.rom, { hanja: n.hanja, origin: n.hanja ? "sino" : "native" })
+      : getJa(n.word, n.kana, n.rom, isKatakana(n.kana) ? "loan" : "native");
+    word.noEquiv = { en: n.en, note: n.note };
+    const empty = { lang: isKo ? "ja" : "ko", key: "∅:" + n.word, text: "∅", label: "∅", rom: "no equivalent",
+      kana: "", pseudo: true, links: [] };
+    addLink({ ko: isKo ? word : empty, ja: isKo ? empty : word, kind: "none", en: n.en, category: n.category, note: n.note });
+    for (const c of n.closest || []) {
+      const other = isKo
+        ? getJa(c.word, c.kana, c.rom, isKatakana(c.kana) ? "loan" : "native")
+        : getKo(c.word, c.rom, { origin: "native" });
+      addLink({ ko: isKo ? word : other, ja: isKo ? other : word, kind: "approx", en: c.en, category: n.category,
+        from: n.lang });
+    }
+  }
+
   // General translations.
   for (const t of TRANSLATIONS) {
     const ko = getKo(t.ko, t.koRom, {
@@ -137,7 +162,7 @@
     return [...groups.values()];
   }
 
-  const comps = components(links.filter((l) => l.kind !== "false"));
+  const comps = components(links.filter((l) => !NOT_TRANSLATION.has(l.kind)));
   for (const c of comps) {
     const a = c.ko.size, b = c.ja.size;
     c.type = a === 1 && b === 1 ? "1:1" : a === 1 ? "1:N" : b === 1 ? "N:1" : "N:M";
@@ -151,5 +176,5 @@
     for (const l of b.links) l.band = b;
   }
 
-  root.LANGUAGE_MAP_MODEL = { CATEGORIES, KINDS, ORIGINS, WORDS, TRANSLATIONS, koWords, jaWords, links, comps, bands, chars };
+  root.LANGUAGE_MAP_MODEL = { NOT_TRANSLATION, NO_EQUIVALENT, CATEGORIES, KINDS, ORIGINS, WORDS, TRANSLATIONS, koWords, jaWords, links, comps, bands, chars };
 })();

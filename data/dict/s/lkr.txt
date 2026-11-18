@@ -1,0 +1,19 @@
+e	krai	krai	1 meaning
+e	krill	krill	1 meaning
+e	kraken	kraken	1 meaning
+e	krakow	krakow	1 meaning
+e	kratom	kratom	1 meaning
+e	kremlin	kremlin	1 meaning
+e	krishna	krishna	2 meanings
+e	krypton	krypton	1 meaning
+e	krav maga	kravmaga	1 meaning
+e	krasnodar	krasnodar	1 meaning
+e	kryvyi rih	kryvyirih	1 meaning
+e	kragujevac	kragujevac	1 meaning
+e	kramatorsk	kramatorsk	1 meaning
+e	kremenchuk	kremenchuk	1 meaning
+e	krumovgrad	krumovgrad	1 meaning
+e	kryptonite	kryptonite	1 meaning
+e	krasnoyarsk	krasnoyarsk	1 meaning
+e	kristianstad	kristianstad	1 meaning
+e	kristallnacht	kristallnacht	1 meaning

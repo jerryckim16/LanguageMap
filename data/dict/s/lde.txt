@@ -1,0 +1,2774 @@
+e	de-	de	1 meaning
+j	で	de	indicating a location or …
+j	デー	de	～の日、～のための日。
+k	데	de	place
+e	dee	dee	1 meaning
+e	den	den	1 meaning
+e	dew	dew	1 meaning
+j	デイ	dei	日。一日。日中。
+j	デン	den	
+j	伝	den	legend, tradition
+j	澱	den	sediment, dregs
+j	電	den	lightning
+k	더	deo	more, -er (to a greater e…
+k	데이	dei	day (in expressions taken…
+k	델	del	Hwanghae and Pyongan form…
+k	드	deu	(일부 용언에 붙어) '심하게' 또는 '높이'…
+e	de re	dere	1 meaning
+e	dead	dead	3 meanings
+e	deaf	deaf	3 meanings
+e	deal	deal	5 meanings
+e	dear	dear	4 meanings
+e	debt	debt	1 meaning
+e	deck	deck	3 meanings
+e	deed	deed	1 meaning
+e	deel	deel	1 meaning
+e	deem	deem	1 meaning
+e	deep	deep	3 meanings
+e	deer	deer	1 meaning
+e	demi-	demi	1 meaning
+e	demo	demo	2 meanings
+e	deng	deng	1 meaning
+e	dent	dent	3 meanings
+e	deny	deny	1 meaning
+e	desk	desk	1 meaning
+e	deva	deva	1 meaning
+e	dewa	dewa	1 meaning
+j	であい	deai	出会い: encounter, meeting b…
+j	であう	deau	人と偶然のきっかけでしりあう。
+j	でいえ	deie	分家。
+j	でか	deka	a detective, a plaincloth…
+j	でき	deki	result
+j	でく	deku	木偶: carved wooden figure;…
+j	でこ	deko	forehead
+j	です	desu	indicates politeness
+j	ですぅ	desu	
+j	では	dewa	at, in a place (as the to…
+j	でば	deba	上顎の前歯が前方へ突出しているもの。出っ歯。
+j	でぶ	debu	太っている人に対する蔑称。
+j	でも	demo	even
+j	でゆ	deyu	温泉。出で湯。
+j	でる	deru	（原義）中から外へ移動する。
+j	でわ	dewa	出羽: Dewa Province
+j	でーじ	deji	very, terribly
+j	で候	deso	to be: the copula. Polite…
+j	デカ	deka	deca-
+j	デグー	degu	ネズミ目デグー属の総称。学名:Octodon。
+j	デコ	deko	「デコレーション」の略。
+j	デジ	deji	デジタルの省略形。
+j	デス	desu	死。死亡した状態。
+j	デニー	deni	
+j	デフ	defu	差動歯車。
+j	デフォ	defo	
+j	デブ	debu	fat, chubby
+j	デベ	debe	
+j	デポ	depo	物の置き場。倉庫。特にデパートなどので配送する商品…
+j	デマ	dema	disinformation; slander; …
+j	デミ	demi	半分の。
+j	デモ	demo	demonstration (public dis…
+j	デリ	deri	デリカテッセン。
+j	デリー	deri	Delhi (a megacity and uni…
+j	デ・レ	dere	
+j	デージー	deji	「デイジー」の表記ゆれ。
+j	データ	deta	data (information)
+j	データー	deta	
+j	デート	deto	date (pre-arranged social…
+j	デーリー	deri	日刊紙。
+j	デール	deru	
+j	出て	dete	
+j	出る	deru	to leave a place
+j	出会い	deai	encounter; meeting by cha…
+j	出会う	deau	to meet by chance, run in…
+j	出歯	deba	
+j	出羽	dewa	旧国名。東山道に位置する。出羽国。現在の山形県と北…
+j	木偶	deku	carved wooden figure
+j	電位	deni	electric potential
+k	더우	deou	'더위'의 강원도 사투리.
+k	덕	deok	virtue
+k	덜	deol	less
+k	덤	deom	
+k	덥	deop	
+k	덧	deot	a moment; interval of tim…
+k	덫	deot	trap, snare, noose
+k	데게	dege	Pyongan and Yukjin form o…
+k	데기	degi	몇몇 명사의 뒤에 붙여서 그것을 하는 또는 그…
+k	데다	deda	to burn / scald (oneself)
+k	데리	deri	
+k	데모	demo	demo, demonstration (a pu…
+k	데자	deja	Pyongan form of 제자(弟子) (j…
+k	데타	deta	data
+k	득	deuk	gain; benefit
+k	든	deun	
+k	들	deul	meadow, field, plain
+k	듯	deut	as if; in a manner sugges…
+e	death	death	5 meanings
+e	debit	debit	1 meaning
+e	debug	debug	1 meaning
+e	debut	debut	3 meanings
+e	decaf	decaf	1 meaning
+e	decay	decay	3 meanings
+e	decoy	decoy	1 meaning
+e	defer	defer	1 meaning
+e	deify	deify	1 meaning
+e	deism	deism	1 meaning
+e	deist	deist	1 meaning
+e	deity	deity	1 meaning
+e	delay	delay	2 meanings
+e	delhi	delhi	1 meaning
+e	delta	delta	2 meanings
+e	delve	delve	1 meaning
+e	demon	demon	3 meanings
+e	deneb	deneb	1 meaning
+e	denim	denim	1 meaning
+e	denny	denny	1 meaning
+e	dense	dense	1 meaning
+e	depok	depok	1 meaning
+e	depot	depot	2 meanings
+e	depth	depth	2 meanings
+e	derby	derby	1 meaning
+e	derek	derek	1 meaning
+e	derry	derry	1 meaning
+e	deter	deter	2 meanings
+e	detox	detox	1 meaning
+e	deuce	deuce	3 meanings
+e	devil	devil	2 meanings
+e	devon	devon	1 meaning
+j	であり	deari	
+j	である	dearu	To be: the copula, with t…
+j	でいり	deiri	出たり入ったりすること。
+j	でかい	dekai	huge, big, severe, intense
+j	できゃあ	dekya	
+j	でし	deshi	助動詞「です」の連用形。
+j	でしょ	desho	birthplace, land of origi…
+j	でしょう	desho	Volitional/conjectural fo…
+j	でっぱ	deppa	上顎の前歯が前方に突出しているもの。出歯。
+j	でない	denai	
+j	でまえ	demae	注文を受けた店が直接客のもとに、主に料理などの商品…
+j	でんじゅ	denju	伝授: giving instruction
+j	でんどう	dendo	伝動: gearing, drive
+j	でんぷう	denpu	癜風: tinea versicolor
+j	でんぽう	denpo	電報: telegram
+j	デイジー	deiji	雛菊。
+j	デイリー	deiri	「デーリー」の表記ゆれ。
+j	デウス	deusu	God, the Creator
+j	デカン	dekan	decane
+j	デキュー	dekyu	dequeuing
+j	デコイ	dekoi	decoy
+j	デシ	deshi	deci-
+j	デセン	desen	decene
+j	デッキ	dekki	a deck
+j	デッド	deddo	死んでいるさま。役に立たないさま。
+j	デビュー	debyu	a debut
+j	デモン	demon	「デーモン」の表記ゆれ。
+j	デント	dento	dent (especially in surfa…
+j	デンバー	denba	Denver (the capital city …
+j	デヴォン	debon	Devon (a county of Englan…
+j	デーツ	detsu	date (fruit)
+j	デーモン	demon	a daemon (a background pr…
+j	デーンロウ	denro	Danelaw
+j	伝乗	denjo	乗り継ぎ。
+j	伝受	denju	伝え受けること。
+j	伝奇	denki	romance
+j	伝家	denka	passed down for generatio…
+j	伝導	dendo	conduction
+j	伝情	denjo	意思を伝えること。
+j	伝戸	denko	律令制で伝馬を飼養するよう指定された戸。
+j	伝持	denji	仏法を受けて伝え、維持すること。
+j	伝授	denju	giving instruction
+j	伝播	denpa	transmission, propagation
+j	伝灯	dento	法灯を師から弟子へ伝えていくこと。また、その法灯。
+j	伝燈	dento	法灯を師から弟子へ伝えていくこと。また、その法灯。
+j	伝疏	denso	経書（儒教の経典）の注釈や詳細な解説。
+j	伝統	dento	tradition, custom
+j	伝花	denka	いけばなの各流派に伝わる形態や花の扱いなどを定めた…
+j	伝記	denki	a biography, memoir
+j	伝語	dengo	伝言。ことづて。
+j	伝送	denso	transmission, delivery
+j	伝道	dendo	evangelism
+j	伝馬	denba	かつて宿駅に置かれ逓送に使用された馬。律令制では官…
+j	伝騎	denki	伝令を伝える役の騎兵。
+j	佃戸	denko	中国で地主から農地を借り、小作料を払い耕作する農民…
+j	傳記	denki	
+j	出っ歯	deppa	a protruding tooth; a buc…
+j	出入り	deiri	coming in and going out
+j	出前	demae	catering; food supplied t…
+j	出番	deban	one's turn
+j	出禁	dekin	ban on showing up/appeari…
+j	梯姑	deigo	Indian coral tree, Erythr…
+j	梯梧	deigo	マメ科の落葉高木。インド、マレー原産。庭木として栽…
+j	殿下	denka	down the steps to the imp…
+j	殿堂	dendo	palace
+j	殿廡	denbu	御殿の庇。
+j	殿後	dengo	軍隊の殿（最後尾）。
+j	殿部	denbu	「臀部」の「同音の漢字による書きかえ」。
+j	泥土	deido	mud
+j	泥垢	deiko	汚れ。
+j	泥工	deiko	壁を塗る職人。左官。
+j	泥港	deiko	De-Kastri, de Castries (a…
+j	泥溝	deiko	どぶ。
+j	泥烏須	deusu	God.
+j	泥膏	deiko	軟膏。
+j	泥鉱	deiko	水分と粘土分を多く含む泥状の鉱物。
+j	田仮	denka	律令制で中央政府の役人に田植え期と収穫期に15日ず…
+j	田儛	denbu	「田舞」の別表記。
+j	田器	denki	耕作に使用する器具。農具。
+j	田園	denen	the country; countryside;…
+j	田地	denji	rice paddy
+j	田家	denka	いなかの民家。
+j	田畝	denpo	田んぼのうね。田畑。
+j	田租	denso	律令制で区分田に課される税。
+j	田舞	denbu	五穀豊穣を祈念し田植えなどでおこなわれた古代の舞踏。
+j	田頭	dento	田んぼの傍ら。
+j	田麩	denbu	rousong; meat floss
+j	癜風	denpu	tinea versicolor
+j	臀杖	denjo	臀部を叩く刑罰のための杖。
+j	臀部	denbu	buttocks
+j	鈿瓔	denei	金を嵌め込み、飾った首飾り。
+j	電マ	denma	
+j	電光	denko	flash of lightning
+j	電動	dendo	being powered by electric…
+j	電化	denka	electrification
+j	電器	denki	electric appliance, device
+j	電報	denpo	telegram
+j	電場	denba	electric field
+j	電工	denko	electrician (tradesperson…
+j	電弧	denko	気体の中を大きな電流が流れる際に電極間に見られる電…
+j	電影	denei	稲妻。稲光。
+j	電機	denki	electrical machinery
+j	電気	denki	electricity
+j	電波	denpa	radio wave
+j	電灯	dento	light, electric light
+j	電燈	dento	
+j	電磁	denji	electromagnetic
+j	電脳	denno	computer
+j	電荷	denka	electric charge
+j	電装	denso	主に車両などに電気装置を取り付けたり配線したりする…
+j	電話	denwa	telephone
+j	電送	denso	電流や電波を使い、情報の信号を遠方に送ること。
+j	電離	denri	電解質が水に溶けて陽イオンと陰イオンに分かれること。
+k	더라	deora	화자가 과거에 직접 경험하여 새로이 알게 된 …
+k	더미	deomi	pile, mound
+k	더욱	deouk	more so, even more
+k	더운	deoun	'덥다'의 관형사형.
+k	더움	deoum	'덥다'의 명사형.
+k	더워	deowo	
+k	더위	deowi	heat
+k	덩	deong	palanquin, sedan, sedan c…
+k	데거	degeo	Pyongan form of 저것 (jeoge…
+k	데굴	degul	큰 물건이 모양 없이 짧게 구르는 모양.
+k	데님	denim	
+k	데몬	demon	demon
+k	데뷔	debwi	debut
+k	데우다	deuda	식은 음식을 열로 이용해서 따뜻하게 하다.
+k	데이지	deiji	(학명: Bellis perennis) 국화과…
+k	데이타	deita	'데이터'의 비규범 표기.
+k	데칸	dekan	
+k	데폭	depok	
+k	델리	delli	Delhi (a megacity and uni…
+k	델타	delta	delta (name of the Greek,…
+k	들이	deuri	'들입다'.
+k	듯이	deusi	as if; in a manner sugges…
+k	등	deung	back of a person or animal
+e	de jure	dejure	1 meaning
+e	deacon	deacon	3 meanings
+e	deafen	deafen	1 meaning
+e	dealer	dealer	3 meanings
+e	dearth	dearth	1 meaning
+e	debase	debase	1 meaning
+e	debate	debate	2 meanings
+e	debris	debris	1 meaning
+e	debtor	debtor	1 meaning
+e	debuff	debuff	1 meaning
+e	debunk	debunk	1 meaning
+e	decade	decade	1 meaning
+e	decane	decane	1 meaning
+e	deceit	deceit	3 meanings
+e	decide	decide	2 meanings
+e	decode	decode	1 meaning
+e	decree	decree	2 meanings
+e	deduce	deduce	1 meaning
+e	deduct	deduct	1 meaning
+e	deepen	deepen	2 meanings
+e	deeply	deeply	1 meaning
+e	defeat	defeat	2 meanings
+e	defect	defect	5 meanings
+e	defend	defend	1 meaning
+e	defile	defile	1 meaning
+e	define	define	1 meaning
+e	deform	deform	1 meaning
+e	degree	degree	6 meanings
+e	deicer	deicer	1 meaning
+e	deimos	deimos	2 meanings
+e	deixis	deixis	1 meaning
+e	delete	delete	1 meaning
+e	deluge	deluge	1 meaning
+e	deluxe	deluxe	1 meaning
+e	demand	demand	2 meanings
+e	demean	demean	1 meaning
+e	demote	demote	1 meaning
+e	demure	demure	1 meaning
+e	denali	denali	1 meaning
+e	dengue	dengue	1 meaning
+e	denial	denial	3 meanings
+e	denier	denier	1 meaning
+e	dennis	dennis	1 meaning
+e	dental	dental	1 meaning
+e	denver	denver	1 meaning
+e	deodar	deodar	1 meaning
+e	depart	depart	2 meanings
+e	depend	depend	1 meaning
+e	depict	depict	1 meaning
+e	deploy	deploy	2 meanings
+e	deport	deport	1 meaning
+e	deputy	deputy	2 meanings
+e	deride	deride	1 meaning
+e	desert	desert	4 meanings
+e	design	design	6 meanings
+e	desire	desire	4 meanings
+e	desist	desist	1 meaning
+e	despot	despot	1 meaning
+e	detail	detail	2 meanings
+e	detain	detain	1 meaning
+e	detect	detect	1 meaning
+e	detest	detest	1 meaning
+e	detour	detour	3 meanings
+e	device	device	1 meaning
+e	devise	devise	1 meaning
+e	devote	devote	1 meaning
+e	devour	devour	1 meaning
+e	devout	devout	1 meaning
+e	dexter	dexter	1 meaning
+j	であし	deashi	人手の状態や程度。
+j	であった	deatta	
+j	であって	deatte	
+j	でいがん	deigan	泥岩: mudstone
+j	でいすい	deisui	泥酔: extremely drunk
+j	でいたん	deitan	泥炭: peat
+j	でおち	deochi	starting right off the ba…
+j	でかす	dekasu	to produce; to make
+j	できあい	dekiai	既に作っている事。また作ってある品物。「-の物」
+j	できぬ	dekinu	
+j	できる	dekiru	to be able to do
+j	でぎわ	degiwa	その場から出ようとする間際。
+j	でける	dekeru	
+j	でさき	desaki	出張や外出している先の場所。
+j	でじろ	dejiro	本城の他に国境や要衝の地につくられた城郭。
+j	でそろう	desoro	全員または全部がその場に出る。
+j	でぞめ	dezome	初めて出ること。
+j	でっかい	dekkai	synonym of でかい (dekai): h…
+j	でばな	debana	煎茶などで最初に湯を注いだばかりで香りがよいこと。
+j	でばる	debaru	出っ張る。
+j	でふね	defune	船が出港すること。また、出港していく船。
+j	でべそ	debeso	突き出たへそ。
+j	でまど	demado	bay window
+j	でみせ	demise	本店から分かれた店舗。支店。分店。
+j	でむく	demuku	to set out towards
+j	でもの	demono	常時ではなくたまに売りに出される商品や物件。
+j	でれる	dereru	人、特に異性にだらしなく甘える。でれでれする。
+j	でんきゅう	denkyu	電球: light bulb
+j	でんきん	denkin	臀筋: gluteus
+j	でんしょう	densho	伝承: transmission, hand do…
+j	でんちゅう	denchu	田疇
+j	でんでん	denden	misreading of 云々 (unnun, …
+j	デカフェ	dekafe	
+j	デキ女	dekijo	capable / talented woman
+j	デグー科	deguka	哺乳綱獣亜綱真主齧上目グリレス大目ネズミ目ヤマアラ…
+j	デコる	dekoru	to bedazzle (decorate wit…
+j	デコード	dekodo	エンコードした信号を元に戻すこと。
+j	デザイン	dezain	design
+j	デザート	dezato	a dessert
+j	デシン	deshin	decyne
+j	デジャブ	dejabu	「デジャビュ」の表記ゆれ。
+j	デジャブー	dejabu	「デジャビュ」の表記ゆれ。
+j	デジャヴ	dejavu	「デジャビュ」の表記ゆれ。
+j	デジャヴー	dejavu	「デジャビュ」の表記ゆれ。
+j	デスク	desuku	a desk; a piece of furnit…
+j	デスボ	desubo	
+j	デスマ	desuma	
+j	デッサン	dessan	a sketch, a line drawing,…
+j	デティール	detiru	
+j	デナリ	denari	
+j	デニる	deniru	to go to a Denny's (resta…
+j	デニス	denisu	Dennis
+j	デニム	denimu	denim
+j	デニール	deniru	denier (unit); D
+j	デネブ	denebu	Deneb
+j	デノミ	denomi	デノミネーション。
+j	デバフ	debafu	
+j	デパート	depato	大きな建物の中にいろいろな商品を並べて売る形式の店…
+j	デビル	debiru	devil
+j	デフレ	defure	デフレーション。
+j	デブる	deburu	To become chubby or overw…
+j	デブリ	deburi	debris
+j	デモる	demoru	デモ運動をする。デモ行進をする。
+j	デモイン	demoin	Des Moines (the capital c…
+j	デリカ	derika	デリカテッセンの略。
+j	デリート	derito	データを削除すること。
+j	デリ嬢	derijo	woman who works for a "de…
+j	デルタ	deruta	delta
+j	デレク	dereku	
+j	デレ期	dereki	lovey-dovey period of tsu…
+j	デンプン	denpun	
+j	デ・ジュリ	dejuri	
+j	デーゲーム	degemu	野球などの、昼間に行われる試合。
+j	丁稚	detchi	商人や職人に年季奉公し雑用などをした年少者。
+j	伝世	densei	後世に伝えること。代々受け継ぐこと。
+j	伝令	denrei	conveyance of a command; …
+j	伝使	denshi	律令制で伝符（官人に旅行を許可する太政官符）を下付…
+j	伝単	dentan	wartime airborne leaflet
+j	伝唱	densho	人から人へ語ったり歌ったりして伝えること。
+j	伝声	densei	伝言すること。
+j	伝存	denson	伝えられ現在まで存在すること。
+j	伝承	densho	tradition, legend
+j	伝抄	densho	抄写すること。
+j	伝搬	denpan	運び伝えること。
+j	伝本	denpon	existing / surviving copy
+j	伝来	denrai	an item or concept introd…
+j	伝染	densen	contagion
+j	伝流	denryu	伝わること。
+j	伝票	denpyo	expense sheet, slip
+j	伝称	densho	口々に称揚すること。
+j	伝線	densen	a run in tights
+j	伝習	denshu	師などから伝えられて習うこと。
+j	伝聞	denbun	hearsay, rumor
+j	伝觴	densho	杯を取り次ぐこと。
+j	伝言	dengon	message
+j	伝誦	densho	物語や歌などを言い伝えること。
+j	伝逓	dentei	relay
+j	出てけ	deteke	
+j	出切る	dekiru	to exhaust, to have none …
+j	出島	dejima	Dejima (a former island i…
+j	出店	demise	branch (store)
+j	出張る	debaru	
+j	出来る	dekiru	
+j	出来合い	dekiai	being ready-made
+j	出花	debana	first brew of tea
+j	出鼻	debana	projecting part of a moun…
+j	殿司	denshi	a 律令 (ritsuryō) position …
+j	殿省	densho	官庁。
+j	殿舎	densha	大きな屋敷、館。御殿。
+j	殿試	denshi	中国の科挙（官吏登用試験）で、郷試を経て会試に合格…
+j	泥丸	deigan	脳。
+j	泥岩	deigan	mudstone
+j	泥水	deisui	muddy water
+j	泥流	deiryu	mudslide
+j	泥漿	deisho	slurry
+j	泥濘	deinei	slush, mire, quagmire (li…
+j	泥炭	deitan	peat
+j	泥眼	deigan	能面の一つで、目の部分に金泥を塗った女性の面。すご…
+j	泥酔	deisui	being extremely intoxicat…
+j	溺愛	dekiai	pampering; spoiling
+j	澱粉	denpun	starch
+j	田制	densei	田地に関する制度。
+j	田塍	densho	畦。
+j	田漢	denkan	田舎者。
+j	田田	denden	多くの田んぼ。
+j	田税	denzei	田租。
+j	田給	denkyu	「田仮」に同じ。
+j	田臭	denshu	田舎臭さ。野暮なさま。
+j	田萊	denrai	荒地。
+j	田表	denpyo	境界を示す標識。
+j	田訟	densho	農地に関する訴訟。
+j	田青	densei	田螺。
+j	田面	denmen	たづら。
+j	甸帥	densui	田野の官。
+j	臀筋	denkin	a gluteus muscle
+j	電令	denrei	電命。
+j	電位差	denisa	2点間の電位の隔たり。電圧。
+j	電停	dentei	tram stop
+j	電命	denmei	電報による命令。
+j	電子	denshi	electron
+j	電掣	densei	電光が閃くこと。
+j	電文	denbun	telegram
+j	電書	densho	
+j	電柱	denchu	telephone pole; telegraph…
+j	電池	denchi	a battery (device produci…
+j	電流	denryu	electric current
+j	電源	dengen	electric power source, po…
+j	電照	densho	明るく照らすこと。
+j	電球	denkyu	incandescent light bulb
+j	電界	denkai	electric field
+j	電番	denban	電話番号の略。
+j	電算	densan	「電子計算機」の略。
+j	電線	densen	electrical wire
+j	電纜	denran	cable
+j	電視	denshi	television
+j	電解	denkai	electrolysis
+j	電請	densei	外交官などが電信（電報）で本国政府に訓令を要請する…
+j	電車	densha	an electric multiple unit…
+j	電逝	densei	雷光のように速く去ること。
+j	電鈴	denrei	electric bell
+j	電鋳	denchu	「電気鋳造」の略。
+j	電鍵	denken	key
+j	黏臍	densei	微塵粉を臍の形にして揚げた菓子。
+k	더러	deoreo	전체 가운데 얼마쯤.
+k	더반	deoban	Durban (a city in KwaZulu…
+k	더우기	deougi	'더욱이'의 비표준어.
+k	더욱이	deougi	besides, further, moreove…
+k	더품	deopum	Pyongan, Hwanghae, Hamgyo…
+k	덕다	deokda	Pyongan form of 적다 (jeokd…
+k	덕의	deokui	
+k	덕인	deogin	
+k	덕후	deokhu	fan, -holic
+k	덖다	deokda	
+k	던디	deondi	
+k	던지	deonji	동사나 형용사의 어간에 붙여서 '던지'가 붙은…
+k	덜기	deolgi	있는 무엇에서 주어진 만큼 덜어 내는 것.
+k	덜다	deolda	to subtract; to cut down
+k	덜미	deolmi	목의 뒤쪽 부분과 그 아래 근처.
+k	덥다	deopda	to be hot (of the weather…
+k	덧니	deonni	snaggletooth
+k	덩이	deongi	lump
+k	덮다	deopda	to cover
+k	데니어	denieo	
+k	데리다	derida	to bring or take along (a…
+k	데망	demang	
+k	데모토	demoto	곁꾼, 보조공.
+k	데미안	demian	
+k	데미지	demiji	(비격식) 대미지의 잘못된 표기.
+k	데이터	deiteo	data
+k	데이트	deiteu	date (pre-arranged social…
+k	데인로	deinno	the Danelaw
+k	데자인	dejain	'디자인'의 북한말.
+k	데지다	dejida	to throw
+k	데케인	dekein	decane
+k	덴버	denbeo	
+k	드론	deuron	drone (unmanned aerial ve…
+k	드롭	deurop	drop
+k	드르	deureu	(제주 방언) 뜰, 들.
+k	드릴	deuril	drill
+k	드림	deurim	yours sincerely (typicall…
+k	드립	deurip	a joke, especially an ina…
+k	드문	deumun	'드물다'의 관형사형.
+k	드묾	deumum	'드물다'의 명사형.
+k	득도	deukdo	the state of being enligh…
+k	득세	deukse	
+k	득의	deugui	일이 뜻대로 이루어져 만족해하거나 뽐냄.
+k	든지	deunji	동사나 형용사의 어간에 붙여서 여러 가지 사실…
+k	듣기	deutgi	
+k	듣다	deutda	to listen, to hear
+k	들다	deulda	to come in, go in, get in…
+k	들마	deulma	가게 문을 닫을 무렵.
+k	들보	deulbo	crossbeam, beam
+k	들소	deulso	bison, buffalo, banteng, …
+k	들피	deulpi	굶주려서 몸이 여위고 힘이 없어짐.
+k	등에	deunge	horsefly, gadfly
+e	de dicto	dedicto	1 meaning
+e	de facto	defacto	1 meaning
+e	dead end	deadend	2 meanings
+e	dead sea	deadsea	1 meaning
+e	deadpan	deadpan	1 meaning
+e	debacle	debacle	1 meaning
+e	decagon	decagon	1 meaning
+e	decease	decease	2 meanings
+e	deceive	deceive	1 meaning
+e	decibel	decibel	1 meaning
+e	decimal	decimal	1 meaning
+e	declaim	declaim	1 meaning
+e	declare	declare	2 meanings
+e	decorum	decorum	1 meaning
+e	decrypt	decrypt	1 meaning
+e	deep sea	deepsea	1 meaning
+e	deep web	deepweb	1 meaning
+e	deep-fry	deepfry	1 meaning
+e	default	default	3 meanings
+e	defense	defense	1 meaning
+e	defiant	defiant	2 meanings
+e	deficit	deficit	1 meaning
+e	defraud	defraud	1 meaning
+e	defrost	defrost	1 meaning
+e	deicide	deicide	2 meanings
+e	deirdre	deirdre	1 meaning
+e	dekopon	dekopon	1 meaning
+e	delible	delible	1 meaning
+e	delight	delight	1 meaning
+e	deliver	deliver	6 meanings
+e	deltoid	deltoid	2 meanings
+e	demerit	demerit	2 meanings
+e	demesne	demesne	1 meaning
+e	demeter	demeter	1 meaning
+e	demigod	demigod	1 meaning
+e	demonym	demonym	1 meaning
+e	denizen	denizen	1 meaning
+e	denmark	denmark	1 meaning
+e	density	density	2 meanings
+e	dentist	dentist	1 meaning
+e	denture	denture	1 meaning
+e	deposit	deposit	7 meanings
+e	depress	depress	1 meaning
+e	dequeue	dequeue	1 meaning
+e	dervish	dervish	2 meanings
+e	descend	descend	1 meaning
+e	descent	descent	1 meaning
+e	deserve	deserve	1 meaning
+e	desktop	desktop	3 meanings
+e	despair	despair	2 meanings
+e	despise	despise	1 meaning
+e	despite	despite	1 meaning
+e	despoil	despoil	1 meaning
+e	dessert	dessert	1 meaning
+e	destroy	destroy	1 meaning
+e	detroit	detroit	1 meaning
+e	develop	develop	1 meaning
+e	deviant	deviant	1 meaning
+e	deviate	deviate	1 meaning
+e	dewclaw	dewclaw	1 meaning
+e	dewdrop	dewdrop	1 meaning
+e	dextrin	dextrin	1 meaning
+j	〜で遊ぶ	deasobu	
+j	であるく	dearuku	to go outside for a walk
+j	でおくれ	deokure	出遅れること。
+j	できない	dekinai	incapable, impossible
+j	できばえ	dekibae	完成の度合い。出来具合。
+j	でき婚	dekikon	
+j	でぐち	deguchi	外へ出る所。
+j	でげいこ	degeiko	出稽古: tutoring in the lear…
+j	でこぴん	dekopin	the act of flicking someo…
+j	でした	deshita	
+j	でしろ	deshiro	物体中の飛び出ている部分の長さ。
+j	でだし	dedashi	beginning; start
+j	でっぱり	deppari	jutting out
+j	でっぱる	depparu	外側に突き出る。出張る。
+j	でっぷり	deppuri	体が太っていて恰幅かいいさま。
+j	でなおす	denaosu	to appear again
+j	ではいり	dehairi	出たり入ったりすること。
+j	ではない	dewanai	
+j	ではらう	deharau	to all be out / elsewhere
+j	でびたい	debitai	広く前に突出している額。
+j	でぶ専	debusen	a person who is attracted…
+j	でむかえ	demukae	「でむかえる」の未然形、連用形。
+j	でもある	demoaru	is both, is also, is ... …
+j	でやんす	deyansu	indicating light polite a…
+j	でんあつ	denatsu	電圧: voltage
+j	でんじは	denjiha	電磁波: electromagnetic wave
+j	でんそく	densoku	電束: electric flux
+j	デイビス	deibisu	a transliteration of the …
+j	デイモス	deimosu	恐怖の神。アレース、アプロディーテーの息子。ポボス…
+j	デカダン	dekadan	19世紀末にパリを中心に起きた芸術の傾向の一つ。既…
+j	デコポン	dekopon	
+j	デコ電	dekoden	syllabic abbreviation of …
+j	デザイナー	dezaina	a designer
+j	デジアナ	dejiana	デジタルとアナログ。
+j	デジャビュ	dejabyu	synonym of 既視感 (kishikan)
+j	デジャビュー	dejabyu	「デジャビュ」の表記ゆれ。
+j	デジャヴュ	dejavyu	「デジャビュ」の表記ゆれ。
+j	デスアダー	desuada	有鱗目コブラ科デスアダー属に属する蛇の総称。学名:…
+j	デスゾーン	desuzon	
+j	デタント	detanto	détente
+j	デバイス	debaisu	device, a piece of equipm…
+j	デバッガ	debagga	debugger
+j	デバッガー	debagga	
+j	デバッグ	debaggu	debugging
+j	デビッド	debiddo	a transliteration of the …
+j	デブ専	debusen	肥満体型の人に性的に惹かれること。また、そのような…
+j	デボン紀	debonki	the Devonian period
+j	デポック	depokku	
+j	デマンド	demando	要求、需要。
+j	デモ隊	demotai	group of demonstrators (p…
+j	デラウェア	derawea	Delaware (the first state…
+j	デリック	derikku	クレーンの一種で、マストやブームを有して本体とは別…
+j	デンマーク	denmaku	Denmark (a country in Nor…
+j	デンモク	denmoku	
+j	デン・ハーグ	denhagu	The Hague
+j	デン・ボス	denbosu	
+j	デヴィッド	deviddo	
+j	デヴォン紀	devonki	
+j	デ・ディクト	dedicto	
+j	データ流	detaryu	
+j	デービッド	debiddo	
+j	伝音器	denonki	megaphone
+j	出だし	dedashi	
+j	出っ張り	deppari	projection, bulge (someth…
+j	出っ張る	depparu	
+j	出て行く	deteiku	
+j	出て行け	deteike	
+j	出不精	debusho	disliking leaving one's h…
+j	出会い系	deaikei	dating website
+j	出口	deguchi	exit; outlet
+j	出揃う	desorou	to all show up; to be all…
+j	出来栄え	dekibae	that which is done, or pr…
+j	出無精	debusho	外出することを嫌うこと。また、そのようなさまや人。
+j	出稽古	degeiko	home tutoring, teaching t…
+j	出迎え	demukae	greeting; welcoming; meet…
+j	殿閣	denkaku	宮殿と楼閣。御殿。
+j	泥盆紀	debonki	デボン紀。
+j	溺死	dekishi	drowning
+j	溺水	dekisui	水中などで溺れ、気管の中に液体が入り窒息の状態にな…
+j	滌汰	dekitai	淘げること。
+j	田宅	dentaku	田地と屋敷。田畑と宅地。
+j	田楽	dengaku	dengaku, folk agricultura…
+j	田畑	denbata	fields, specifically fiel…
+j	田紳	denshin	田舎くさい紳士。
+j	臀部の	denbuno	
+j	電ドリ	dendori	
+j	電信	denshin	telegraph communication
+j	電動の	dendono	
+j	電動機	dendoki	electric motor
+j	電卓	dentaku	calculator
+j	電圧	denatsu	voltage
+j	電弧炉	denkoro	アーク炉。
+j	電弱	denjaku	
+j	電撃	dengeki	an electric shock
+j	電束	densoku	electric flux
+j	電気屋	denkiya	electronics store
+j	電気工	denkiko	
+j	電波塔	denpato	テレビやラジオの電波を送信するための塔。
+j	電磁の	denjino	
+j	電磁場	denjiba	electromagnetic field
+j	電磁気	denjiki	electromagnetism
+j	電磁波	denjiha	electromagnetic wave
+j	電話機	denwaki	telephone set
+j	電離層	denriso	the ionosphere
+j	電離度	denrido	
+k	더 좋다	deojota	
+k	더구나	deoguna	also; furthermore
+k	더럼	deoreom	[~시(市)] Durham (a large c…
+k	더북이	deobugi	
+k	더빙	deobing	dubbing (replacement of v…
+k	더워요	deowoyo	
+k	더퍽	deopeok	
+k	더하기	deohagi	addition
+k	더하다	deohada	to be more than
+k	덕담	deokdam	
+k	덕분	deokbun	feeling of gratitude, ind…
+k	덕업	deogeop	
+k	덕질	deokjil	어떤 분야를 열성적으로 좋아하여 그와 관련된 …
+k	덕치	deokchi	
+k	덕트	deokteu	duct
+k	덤벨	deombel	
+k	덤불	deombul	bush, thicket
+k	덤심	deomsim	Pyongan form of 점심 (jeoms…
+k	덧문	deonmun	an outer door or window, …
+k	덧셈	deotsem	addition
+k	덧신	deotsin	
+k	덮개	deopgae	cover
+k	덮밥	deopbap	a Korean dish consisting …
+k	덮이다	deopida	to be covered (with, in),…
+k	데니스	deniseu	a transliteration of the …
+k	데띠기	dettigi	occasional job, irregular…
+k	데모님	demonim	
+k	데본기	debongi	
+k	데불다	debulda	to bring
+k	데스라	deseura	공수표(工數表)
+k	데시벨	desibel	
+k	데식다	desikda	기운이나 맥이 빠지다.
+k	데자뷔	dejabwi	
+k	데자뷰	dejabyu	
+k	데치다	dechida	to parboil (to boil brief…
+k	데킬라	dekilla	
+k	덴푸라	denpura	(음식) 튀김, 어묵.
+k	뎃키리	detkiri	적중 값.
+k	드가다	deugada	synonym of 들어가다 (deureoga…
+k	드높이	deunopi	
+k	드뎌	deudyeo	
+k	드디어	deudieo	finally, at last
+k	드라마	deurama	drama
+k	드라제	deuraje	
+k	드럼	deureom	drum
+k	드리다	deurida	'주다'의 높임말.
+k	드세다	deuseda	to be wild; to be violent
+k	드시다	deusida	to eat, to drink, to cons…
+k	드잡이	deujabi	
+k	득심	deuksim	
+k	득템	deuktem	obtaining an item in an o…
+k	득표	deukpyo	receiving votes
+k	들대	deuldae	(역도) '심봉'의 북한말.
+k	들돌	deuldol	체력 단련을 위해 들었다 놓았다 돌.
+k	들목	deulmok	들어가는 목. 다시 말해 무슨 일의 첫 부분.
+k	들박	deulbak	suspended congress; ekibe…
+k	들손	deulson	들기 위해 그릇 옆에 달린 반달 모양의 손잡이.
+k	들쇠	deulsoe	들기 위해 서랍, 문짝 따위의 옆에 달린 반달…
+k	들숨	deulsum	inhalation, breathing in
+k	들이다	deurida	to let in (someone or som…
+k	들쥐	deuljwi	field mouse
+k	들판	deulpan	field
+k	들풀	deulpul	
+k	등가	deungga	
+k	등기	deunggi	registration
+k	등비	deungbi	
+k	등사	deungsa	원본에서 베껴 옮김.
+k	등수	deungsu	
+k	등압	deungap	
+k	등온	deungon	
+k	등외	deungoe	
+k	등위	deungwi	높고 낮음이나 좋고 나쁨 따위의 차이를 여러 …
+k	등유	deungyu	kerosene
+k	등인	deungin	
+k	등자	deungja	stirrup
+k	등제	deungje	
+k	등조	deungjo	
+k	등지	deungji	
+k	등피	deungpi	lampshade
+k	등하	deungha	
+k	등호	deungho	수의 같음을 나타내는 기호(=).
+k	등후	deunghu	
+e	dead fish	deadfish	1 meaning
+e	dead hand	deadhand	1 meaning
+e	dead last	deadlast	1 meaning
+e	dead link	deadlink	1 meaning
+e	dead wall	deadwall	1 meaning
+e	deadlift	deadlift	1 meaning
+e	deadline	deadline	1 meaning
+e	deadlock	deadlock	2 meanings
+e	deaf-mute	deafmute	1 meaning
+e	deafness	deafness	1 meaning
+e	death cap	deathcap	1 meaning
+e	death ray	deathray	1 meaning
+e	death row	deathrow	1 meaning
+e	deathbed	deathbed	1 meaning
+e	deathday	deathday	1 meaning
+e	debility	debility	1 meaning
+e	debugger	debugger	1 meaning
+e	decadent	decadent	1 meaning
+e	deceased	deceased	3 meanings
+e	deceiver	deceiver	1 meaning
+e	december	december	1 meaning
+e	decipher	decipher	1 meaning
+e	decision	decision	2 meanings
+e	decorate	decorate	2 meanings
+e	decrease	decrease	3 meanings
+e	decrepit	decrepit	1 meaning
+e	decuplet	decuplet	1 meaning
+e	dedicate	dedicate	1 meaning
+e	deepfake	deepfake	1 meaning
+e	deer tick	deertick	1 meaning
+e	defecate	defecate	1 meaning
+e	defector	defector	1 meaning
+e	defender	defender	2 meanings
+e	defiance	defiance	1 meaning
+e	definite	definite	1 meaning
+e	deflower	deflower	1 meaning
+e	deformed	deformed	1 meaning
+e	dehradun	dehradun	1 meaning
+e	deianira	deianira	1 meaning
+e	dejected	dejected	1 meaning
+e	delaware	delaware	1 meaning
+e	delegate	delegate	1 meaning
+e	deletion	deletion	2 meanings
+e	delicacy	delicacy	1 meaning
+e	delirium	delirium	1 meaning
+e	delivery	delivery	6 meanings
+e	delusion	delusion	1 meaning
+e	demagogy	demagogy	1 meaning
+e	demeanor	demeanor	1 meaning
+e	dementia	dementia	1 meaning
+e	demiurge	demiurge	3 meanings
+e	democrat	democrat	3 meanings
+e	demolish	demolish	1 meaning
+e	demonize	demonize	1 meaning
+e	denarius	denarius	1 meaning
+e	denazify	denazify	1 meaning
+e	dendrite	dendrite	2 meanings
+e	denebola	denebola	1 meaning
+e	denounce	denounce	1 meaning
+e	denpasar	denpasar	1 meaning
+e	depilate	depilate	1 meaning
+e	depleted	depleted	1 meaning
+e	deponent	deponent	1 meaning
+e	deportee	deportee	1 meaning
+e	depraved	depraved	1 meaning
+e	derogate	derogate	2 meanings
+e	describe	describe	1 meaning
+e	deserter	deserter	1 meaning
+e	designer	designer	1 meaning
+e	desklamp	desklamp	1 meaning
+e	desolate	desolate	4 meanings
+e	despoina	despoina	1 meaning
+e	detailed	detailed	1 meaning
+e	dethrone	dethrone	2 meanings
+e	detonate	detonate	1 meaning
+e	detoxify	detoxify	1 meaning
+e	deuteron	deuteron	1 meaning
+e	devilish	devilish	2 meanings
+e	devonian	devonian	1 meaning
+e	dew point	dewpoint	1 meaning
+e	dextrose	dextrose	1 meaning
+j	でかかる	dekakaru	出ようとする。
+j	でかける	dekakeru	外出する。行く。
+j	でかじり	dekajiri	large butt
+j	でかせぎ	dekasegi	working away from home; m…
+j	でかちん	dekachin	big dick; horse cock
+j	でかもり	dekamori	massive portion
+j	できごと	dekigoto	出来事: event, incident
+j	できだか	dekidaka	output; production; yield
+j	できもの	dekimono	皮膚が腫れ上がり、膿が溜まった部分。御出来。
+j	でくわす	dekuwasu	come across, come upon, m…
+j	でこぼこ	dekoboko	表面が平らでなく、高低の差があること。また、そのさ…
+j	ですから	desukara	「だから」の丁寧語。
+j	ですです	desudesu	It is indeed so. / Yes.
+j	でたらめ	detarame	いい加減なこと。また、そのさま。
+j	でどころ	dedokoro	出所: source, origin; scene…
+j	でなおし	denaoshi	でなおすこと。最初からやり直すこと。
+j	ではじめ	dehajime	出回りだしたばかりであること。
+j	ではなく	dewanaku	
+j	ではまた	dewamata	bye, see you later
+j	でぶっちょ	debutcho	fat
+j	でぶでぶ	debudebu	extremely fatly, obesely
+j	でまかせ	demakase	口から出るに任せるその場限りのいい加減なこと。
+j	でまわる	demawaru	商品などが市場に多く出る。商品をよく見るようになる。
+j	でもどり	demodori	一旦ある場所を出た後、何らかの事情で戻ってくること。
+j	でれでれ	deredere	slovenly, sloppily, in th…
+j	でんきょく	denkyoku	電極: electrode
+j	でんどうたい	dendotai	伝導体: conductor, transmitt…
+j	デイサイト	deisaito	dacite
+j	デイベッド	deibeddo	daybed
+j	デイヴィッド	deividdo	David
+j	デカルト	dekaruto	
+j	デクスター	dekusuta	
+j	デコトラ	dekotora	decotora (decorated truck)
+j	デコルテ	dekorute	décolletage (part of the …
+j	デジカメ	dejikame	syllabic abbreviation of …
+j	デジタル	dejitaru	digital
+j	デジャヴュー	dejavuyu	「デジャビュ」の表記ゆれ。
+j	デスゲーム	desugemu	death game
+j	デスピナ	desupina	海王星の第5衛星の固有名。
+j	デチューンド	dechundo	電子楽器で音程を微妙にずらして音の厚みなどを出す演…
+j	デディケート	dediketo	書物や楽曲を敬意などを込めて恩人や友人などに献じる…
+j	デナリオン	denarion	
+j	デニッシュ	denisshu	danish
+j	デネボラ	denebora	しし座の2等星。春の大三角を構成する。しし座ベータ…
+j	デパコス	depakosu	
+j	デファクト	defakuto	
+j	デフォルト	deforuto	default
+j	デフォルメ	deforume	stylistic distortion
+j	デフラグ	defuragu	
+j	デフレーター	defureta	実質化因子
+j	デマゴギー	demagogi	政治的な意図をもって流す情報。
+j	デマゴーグ	demagogu	煽動政治家、民衆煽動家。
+j	デメテル	demeteru	
+j	デモティキ	demotiki	
+j	デューデリ	deyuderi	「デューデリジェンス」の略。
+j	デリケート	deriketo	sensitive, physically or …
+j	デリバリー	deribari	delivery (act of conveyin…
+j	デリヘル	deriheru	デリバリーヘルスの略称。
+j	デロス島	derosuto	ギリシア南東部のエーゲ海キクラデス諸島にある島。
+j	データベース	detabesu	a database
+j	データ型	detagata	data type
+j	データ構造	detakozo	data structure
+j	デートする	detosuru	
+j	デーメーテール	demeteru	Demeter
+j	デーモン・コア	demonkoa	demon core, a spherical s…
+j	伝導帯	dendotai	conduction band; a range …
+j	伝導性	dendosei	
+j	伝熱	dennetsu	heat transfer
+j	伝説	densetsu	legend (an unrealistic st…
+j	伝道師	dendoshi	missionary, evangelist
+j	伝道者	dendosha	
+j	伝達	dentatsu	transmission
+j	佃客	denkyaku	中国で地主から農地を借り、小作料を払い耕作する農民…
+j	傳達	dentatsu	
+j	凸凹	dekoboko	bumpy, lumpy, uneven
+j	出かける	dekakeru	
+j	出てくる	detekuru	
+j	出任せ	demakase	arbitrary, random remark
+j	出出福	dedefuku	醜女。ブス。阿多福。阿亀。
+j	出回る	demawaru	to appear on the market; …
+j	出所	dedokoro	source, origin
+j	出掛ける	dekakeru	go out
+j	出来レース	dekiresu	事前に示し合わされ勝者が決められたレース。また、そ…
+j	出来事	dekigoto	incident, event
+j	出来物	dekimono	tumour, boil
+j	出歯亀	debakame	voyeur, Peeping Tom
+j	出鱈目	detarame	nonsensical
+j	木偶の坊	dekunobo	doll, puppet
+j	泥火山	deikazan	
+j	泥灰土	deikaido	
+j	泥盆系	debonkei	Devonian
+j	田札	densatsu	点札。
+j	電凸	dentotsu	Calling to inquire of the…
+j	電力	denryoku	electricity
+j	電動車	dendosha	電車のうち電動機を備え自走することができる車両。
+j	電子化	denshika	
+j	電子銃	denshiju	electron gun
+j	電子音	denshion	electronic sound (sound p…
+j	電察	densatsu	高覧。他人の見ることに対する尊敬語。
+j	電極	denkyoku	electrode
+j	電気椅子	denkiisu	an electric chair
+j	電気街	denkigai	electronics market (retai…
+j	電気車	denkisha	電気で動く自動車、オートバイ。電気自動車。電動車。
+j	電気量	denkiryo	electric charge
+j	電波系	denpakei	denpa-kei person: one who…
+j	電熱	dennetsu	電気抵抗が大きい物質に電流を通した際に発する熱。
+j	電着	denchaku	電解液中にイオンが析出して電極の表面に付着すること。
+j	電突	dentotsu	企業、マスコミ、宗教団体、官公庁、政治家、政党など…
+j	電算機	densanki	「電子計算機」の略。電算。
+j	電蝕	denshoku	「電食」の別表記。
+j	電設	densetsu	電気設備の略称。
+j	電話帳	denwacho	telephone directory, tele…
+j	電話線	denwasen	telephone line
+j	電鉄	dentetsu	electric railway
+j	電食	denshoku	electrolytic corrosion
+j	電飾	denshoku	小さな電球などを多数使用し、物の輪郭などが分かるよ…
+k	더 좋은	deojoeun	
+k	더그레	deogeure	a long jacket worn by mil…
+k	더더욱	deodeouk	
+k	더덜이	deodeori	더함과 덜함을 묶어 부르는 낱말.
+k	더듬이	deodeumi	antenna
+k	더러운	deoreoun	'더럽다'의 관형사형.
+k	더러움	deoreoum	때가 묻어 지저분한 것. 비유로 무엇에 대한 …
+k	더불다	deobulda	to be accompanied by, to …
+k	더불어	deobureo	together; with
+k	더뻑	deoppeok	앞뒤를 헤아리지 않고 불쑥 행동하는 모양.
+k	더욱더	deoukdeo	more and more
+k	더운물	deounmul	따뜻하게 데워진 물.
+k	더티밤	deotibam	
+k	덕목	deongmok	
+k	덕종	deokjong	
+k	덕택	deoktaek	help, aid, assistance, su…
+k	덕통	deoktong	
+k	던전	deonjeon	
+k	던지기	deonjigi	throw, toss
+k	던지다	deonjida	to throw, to hurl
+k	덜걱	deolgeok	'덜거덕'의 준말.
+k	덜덜	deoldeol	shiveringly
+k	덜된	deoldoen	'덜되다'의 관형사형.
+k	덜됨	deoldoem	'덜되다'의 명사형.
+k	덜룽	deollung	
+k	덜컥	deolkeok	suddenly startled or frig…
+k	덜퍽	deolpeok	
+k	덜하다	deolhada	질이나 정도가 비교하는 것보다 낮은.
+k	덤핑	deomping	dumping (selling goods at…
+k	덥석	deopseok	with swift or sudden moti…
+k	덧글	deotgeul	a reply (on an Internet f…
+k	덧나무	deonnamu	Japanese red elder (Sambu…
+k	덧주다	deotjuda	'보태다'의 북한말.
+k	덩굴	deonggul	vine, runner
+k	덩실	deongsil	신이 나서 팔다리를 흥겹게 놀리며 춤을 추는 …
+k	덩심	deongsim	lunch
+k	덩치	deongchi	frame, build (bulk or vol…
+k	덩크	deongkeu	
+k	데드 록	dedeurok	
+k	데드볼	dedeubol	
+k	데모꾼	demokkun	
+k	데모하다	demohada	to demonstrate (to show h…
+k	데이모스	deimoseu	
+k	덱데굴	dekdegul	크고 단단한 물건이 다른 물건에 부딪치면서 굴…
+k	덴마크	denmakeu	Denmark (a country in Nor…
+k	덴뿌라	denppura	tempura, Japanese deep-fr…
+k	뎃빵	detppang	우두머리, 두목.
+k	뎅강	denggang	댕강 또는 뎅겅의 모음조화가 깨진 형태
+k	뎅뎅	dengdeng	큰 종(鐘)이나 그릇 따위의 쇠붙이를 잇따라 …
+k	드높다	deunopda	
+k	드디여	deudiyeo	'드디어'의 북한말.
+k	드라이기	deuraigi	hairdryer, blow-dryer
+k	드라이어	deuraieo	
+k	드레스	deureseu	dress
+k	드리우다	deuriuda	to extend or to be extend…
+k	드물게	deumulge	
+k	드물다	deumulda	to be rare
+k	드새다	deusaeda	
+k	득남	deungnam	getting a son
+k	득득	deukdeuk	
+k	득점	deukjeom	score, points gained
+k	득하다	deukhada	
+k	듣보다	deutboda	무엇을 알기 위해 들으면서 살피다.
+k	들것	deulgeot	stretcher (simple litter …
+k	들깨	deulkkae	perilla
+k	들꽃	deulkkot	wildflower
+k	들나무	deullamu	말이나 소의 굽에 편자를 붙일 때, 동물의 다…
+k	들도리	deuldori	'처마도리'의 다른 말.
+k	들들	deuldeul	바퀴 따위가 단단한 바닥을 굴러가는 소리. 또…
+k	들레다	deulleda	야단스럽게 떠들다.
+k	들리다	deullida	to be heard
+k	들연	deuryeon	오량(五梁) 이상으로 지은 집의 맨 끝에 걸리…
+k	들입다	deuripda	마구, 무턱대고.
+k	들장	deuljang	있는 것을 모두 들어먹고 끝장나는 판.
+k	들키다	deulkida	to get caught, to be foun…
+k	들통	deultong	비밀이나 잘못된 일 따위가 드러난 판국.
+k	듬뿍	deumppuk	much; plentifully
+k	듯하다	deuthada	to be regarded as; to app…
+k	등각	deunggak	
+k	등갓	deunggat	lampshade
+k	등골	deunggol	
+k	등과	deunggwa	
+k	등교	deunggyo	
+k	등귀	deunggwi	물건값이 뛰어오름.
+k	등내	deungnae	
+k	등단	deungdan	
+k	등대	deungdae	lighthouse
+k	등락	deungnak	rise and fall, ups and do…
+k	등록	deungnok	registration
+k	등목	deungmok	washing or rinsing someon…
+k	등반	deungban	mountain climbing
+k	등본	deungbon	
+k	등분	deungbun	division into equal pieces
+k	등불	deungbul	lamp, lamplight
+k	등산	deungsan	mountain climbing, mounta…
+k	등속	deungsok	
+k	등쇠	deungsoe	아주 가늘고 좁은 톱날을 양 끝에 끼울 수 있…
+k	등식	deungsik	equality; equation
+k	등신	deungsin	fool, idiot
+k	등심	deungsim	wick
+k	등업	deungeop	웹사이트에서 레벨, 등급, 지위가 상승하는 것
+k	등원	deungwon	
+k	등잔	deungjan	oil lamp
+k	등재	deungjae	
+k	등질	deungjil	
+k	등차	deungcha	
+k	등초	deungcho	
+k	등치	deungchi	
+k	등판	deungpan	야구에서, 투수가 마운드에 서는 일.
+k	등패	deungpae	
+k	등표	deungpyo	
+k	등할	deunghal	
+k	등화	deunghwa	
+k	등힘	deunghim	활시위를 당길 때, 활을 잡고 있는 손등에서 …
+e	deamidate	deamidate	1 meaning
+e	dear diary	deardiary	1 meaning
+e	death camp	deathcamp	1 meaning
+e	death flag	deathflag	1 meaning
+e	death mask	deathmask	1 meaning
+e	death rate	deathrate	1 meaning
+e	death toll	deathtoll	1 meaning
+e	death wish	deathwish	1 meaning
+e	death zone	deathzone	1 meaning
+e	deathtrap	deathtrap	1 meaning
+e	debenture	debenture	1 meaning
+e	debit card	debitcard	1 meaning
+e	debugging	debugging	1 meaning
+e	debutante	debutante	2 meanings
+e	decadence	decadence	1 meaning
+e	decalitre	decalitre	1 meaning
+e	decameron	decameron	1 meaning
+e	decametre	decametre	1 meaning
+e	decathlon	decathlon	1 meaning
+e	deception	deception	1 meaning
+e	deceptive	deceptive	1 meaning
+e	deciduous	deciduous	2 meanings
+e	decilitre	decilitre	1 meaning
+e	decillion	decillion	1 meaning
+e	decimetre	decimetre	1 meaning
+e	deck chair	deckchair	1 meaning
+e	decompose	decompose	2 meanings
+e	deduction	deduction	1 meaning
+e	deep fryer	deepfryer	1 meaning
+e	deep state	deepstate	1 meaning
+e	deep water	deepwater	1 meaning
+e	defeatism	defeatism	1 meaning
+e	defection	defection	1 meaning
+e	defendant	defendant	1 meaning
+e	deflation	deflation	1 meaning
+e	defoliant	defoliant	1 meaning
+e	deformity	deformity	1 meaning
+e	dehydrate	dehydrate	1 meaning
+e	dejection	dejection	1 meaning
+e	delicious	delicious	1 meaning
+e	delighted	delighted	1 meaning
+e	delphacid	delphacid	1 meaning
+e	delphinus	delphinus	1 meaning
+e	demagogue	demagogue	1 meaning
+e	demanding	demanding	1 meaning
+e	demetrius	demetrius	1 meaning
+e	democracy	democracy	2 meanings
+e	demon core	demoncore	1 meaning
+e	demulcent	demulcent	1 meaning
+e	denigrate	denigrate	1 meaning
+e	denitrify	denitrify	1 meaning
+e	deodorant	deodorant	1 meaning
+e	departure	departure	1 meaning
+e	dependent	dependent	2 meanings
+e	depletion	depletion	2 meanings
+e	deprecate	deprecate	2 meanings
+e	des moines	desmoines	1 meaning
+e	descartes	descartes	1 meaning
+e	descender	descender	1 meaning
+e	desdemona	desdemona	2 meanings
+e	desecrate	desecrate	1 meaning
+e	desertion	desertion	1 meaning
+e	desiccant	desiccant	1 meaning
+e	designate	designate	3 meanings
+e	desirable	desirable	1 meaning
+e	desperate	desperate	1 meaning
+e	despotism	despotism	1 meaning
+e	destroyer	destroyer	2 meanings
+e	desuetude	desuetude	1 meaning
+e	detection	detection	1 meaning
+e	detective	detective	2 meanings
+e	detention	detention	1 meaning
+e	detergent	detergent	1 meaning
+e	determine	determine	2 meanings
+e	deterrent	deterrent	1 meaning
+e	detonator	detonator	1 meaning
+e	detractor	detractor	1 meaning
+e	detriment	detriment	1 meaning
+e	deuterium	deuterium	1 meaning
+e	devadatta	devadatta	1 meaning
+e	devastate	devastate	1 meaning
+e	developed	developed	1 meaning
+e	developer	developer	2 meanings
+e	deviation	deviation	1 meaning
+e	dexterity	dexterity	1 meaning
+e	dexterous	dexterous	1 meaning
+j	であります	dearimasu	
+j	でいばんがん	deibangan	泥板岩: shale
+j	でおくれる	deokureru	動き出しが遅れること。
+j	でかした	dekashita	past tense and perfective…
+j	でがらし	degarashi	何度も煎じたり煮出したりして味や香りが薄くなったお…
+j	できあがり	dekiagari	「できあがる」の連用形。
+j	できあがる	dekiagaru	完成する。
+j	できぼし	dekiboshi	僅かな期間のうちに地位を上げたり富を増やしたりする…
+j	でしゃばり	deshabari	「でしゃばる」の連用形。
+j	でしゃばる	deshabaru	余計な事に口出しや手出しをする。
+j	でっちあげ	detchiage	でっちあげること。捏造。
+j	でっち上げ	detchiage	
+j	ではあるが	dewaaruga	
+j	でむかえる	demukaeru	外へ出て迎える。途中まで行って迎える。
+j	でんごんばん	dengonban	伝言板: message board
+j	でんれいかん	denreikan	伝令官: A herald
+j	デイジーチェーン	deijichen	
+j	デカスロン	dekasuron	
+j	デカダンス	dekadansu	
+j	デカメロン	dekameron	
+j	デキューする	dekyusuru	
+j	デシベル	deshiberu	音の強さ（音圧）を表す単位。
+j	デスボイス	desuboisu	death growl
+j	デスマーチ	desumachi	death march (project requ…
+j	デッキチェア	dekkichea	
+j	デッドエンド	deddoendo	
+j	デッドコピー	deddokopi	imitation product
+j	デッドヒート	deddohito	fierce match
+j	デッドボール	deddoboru	hit-by-pitch
+j	デッドライン	deddorain	
+j	デトックス	detokkusu	体内から有害な物質や老廃物を取り除くこと。また、そ…
+j	デトロイト	detoroito	Detroit (a city in Michig…
+j	デナリウス	denariusu	
+j	デパ地下	depachika	department store's below-…
+j	デフロック	defurokku	diff lock, locking differ…
+j	デヘラードゥーン	deheradun	
+j	デベロッパー	deberoppa	開発者。特に大規模な宅地造成を行う事業者。
+j	デポジット	depojitto	deposit, that is, money p…
+j	デメリット	demeritto	demerit (quality of being…
+j	デラシネ	derashine	祖国を離れた人、根なし草。
+j	デリカシー	derikashi	delicacy (tact)
+j	デリシャス	derishasu	美味しいさま。甘美なさま。
+j	デンジャラス	denjarasu	dangerous
+j	デンパサール	denpasaru	Denpasar (a city, the pro…
+j	デンマークの	denmakuno	
+j	デンマーク語	denmakugo	the Danish language
+j	デーイアネイラ	deianeira	
+j	データキャラ	detakyara	(the character archetype …
+j	データセンター	detasenta	
+j	データ処理	detashori	
+j	伝令官	denreikan	herald (messenger under a…
+j	伝播する	denpasuru	
+j	伝染性	densensei	contagiousness, being con…
+j	伝染病	densenbyo	epidemic
+j	伝統的	dentoteki	traditional
+j	伝言板	dengonban	message board
+j	出しゃばる	deshabaru	meddle, interfere, butt in
+j	出刃包丁	debabocho	和包丁の一つ。刃のみねが厚く、刃先が尖った包丁。魚…
+j	出囃子	debayashi	music played upon one's a…
+j	出来上がり	dekiagari	finish, being ready, comp…
+j	出来上がる	dekiagaru	to complete, fulfill
+j	出来星	dekiboshi	upstart, nouveau riche
+j	出迎える	demukaeru	greet, welcome, meet a gu…
+j	泥板岩	deibangan	shale
+j	溺殺	dekisatsu	溺れさせて殺すこと。
+j	田面権	denmenken	耕作権。
+j	電位差計	denisakei	
+j	電信機	denshinki	電信を送受信するための機械。
+j	電報コード	denpokodo	telegraph code
+j	電子戦	denshisen	敵の電子兵器の使用を分析、記録したり、妨害、混乱さ…
+j	電子本	denshihon	
+j	電子版	denshiban	electronic version or edi…
+j	電子線	denshisen	真空の中に放射された一定方向の電子の流れ。
+j	電気ギター	denkigita	synonym of エレクトリック・ギター (e…
+j	電気泳動	denkieido	
+j	電気石	denkiseki	
+j	電気釜	denkigama	electric rice cooker
+j	電気風呂	denkiburo	vibration bath, a bath ch…
+j	電流計	denryukei	ammeter
+j	電磁気の	denjikino	
+j	電磁的	denjiteki	コンピュータを用いる様子。
+j	電磁誘導	denjiyudo	electromagnetic induction
+j	電解液	denkaieki	electrolyte (solution con…
+j	電話する	denwasuru	
+j	電話ブース	denwabusu	
+j	電車代	denshadai	train fare
+j	電通大	dentsudai	
+j	電通相	dentsusho	電気通信大臣の略。
+k	더그아웃	deogeuaut	
+k	더듬기	deodeumgi	
+k	더듬다	deodeumda	to feel for; to grope for
+k	더럽다	deoreopda	to be dirty
+k	더르르	deoreureu	
+k	더부럭	deobureok	
+k	더부룩이	deoburugi	
+k	더부살이	deobusari	synonym of 기생(寄生) (gisaen…
+k	더불린	deobullin	
+k	더블유	deobeuryu	The name of the Latin scr…
+k	더스터	deoseuteo	
+k	더워지다	deowojida	to become hot
+k	더치페이	deochipei	going Dutch (to pay for o…
+k	더하임수	deohaimsu	
+k	덕망	deongmang	
+k	덕성	deokseong	어질고 너그러운 성질.
+k	덕천	deokcheon	Tokchon (a city in South …
+k	덕택에	deoktaege	
+k	덕행	deokhaeng	
+k	덜겅	deolgeong	'덜거덩'의 준말.
+k	덜기표	deolgipyo	
+k	덜꺽	deolkkeok	'덜꺼덕'의 준말.
+k	덜렁	deolleong	큰 방울이나 매달린 물체 따위가 한 번 흔들리…
+k	덜루스	deolruseu	
+k	덜썩	deolsseok	
+k	덜컹	deolkeong	갑자기 놀라거나 겁에 질려서 가슴이 몹시 울렁…
+k	덤벙	deombeong	크고 무거운 물건이 물에 떨어져 잠기는 소리.
+k	덧대다	deotdaeda	to put over
+k	덧머리	deonmeori	wig
+k	덧붙다	deotbutda	to attach to, to stick to…
+k	덧없다	deodeopda	알지 못하는 가운데 지나가는 시간이 매우 빠르…
+k	덩어리	deongeori	lump, mass, chunk
+k	덩컨	deongkeon	
+k	데드라인	dedeurain	
+k	데려오다	deryeooda	to fetch (a person)
+k	데르비시	dereubisi	
+k	데리야끼	deriyakki	
+k	데릴사위	derilsawi	live-in son-in-law
+k	데림소수	derimsosu	'대소수'의 북한말.
+k	데메테르	demetereu	Demeter
+k	데바닷타	debadatta	
+k	데샤티나	desyatina	1925년 이전까지 쓰이던 러시아의 전통적인 …
+k	데시리터	desiriteo	
+k	데시미터	desimiteo	
+k	데이사이트	deisaiteu	
+k	데이아네이라	deianeira	
+k	데카리터	dekariteo	
+k	데카메론	dekameron	이탈리아의 문인 보카치오의 단편소설집 이름. …
+k	데카미터	dekamiteo	
+k	데탕트	detangteu	détente
+k	델라웨어	dellaweeo	[~주(州)] Delaware (the fir…
+k	뎅겅	denggeong	'뎅거덩'의 준말.
+k	드넓다	deuneolda	
+k	드높이다	deunopida	
+k	드라이버	deuraibeo	driver, a person who driv…
+k	드라이브	deuraibeu	driving (a car etc.)
+k	드래곤	deuraegon	dragon
+k	드러머	deureomeo	
+k	드러오다	deureooda	'들어오다'의 옛말.
+k	드럽다	deureopda	to be dirty
+k	드레싱	deuresing	
+k	드루이드	deuruideu	
+k	드르르	deureureu	
+k	드리블	deuribeul	
+k	드세지다	deusejida	
+k	득녀	deungnyeo	getting a daughter
+k	득률	deungnyul	
+k	든직히	deunjikhi	사람됨이 경솔하지 않고 무게가 있는 태도로.
+k	듣보잡	deutbojap	듣지도 보지도 못한 잡놈.
+k	들낚시	deullaksi	(씨름) 상대편 다리 사이에 다리를 넣으면서 …
+k	들러리	deulleori	groomsman; bridesmaid
+k	들르다	deulleuda	to stop by
+k	들머리	deulmeori	들어가는 머리. 다시 말해 무슨 일을 두고 처…
+k	들붙다	deulbutda	
+k	들썩	deulsseok	붙어 있던 물건이 쉽게 떠들리는 모양.
+k	들어봐	deureobwa	
+k	들어오다	deureooda	to enter, to come in
+k	들온말	deuronmal	'외래어'.
+k	들이키다	deurikida	바깥으로 벗어난 무엇을 안쪽으로 가지런히 놓다.
+k	들차다	deulchada	성격이나 모습이 튼튼하다.
+k	들창	deulchang	A window which can be rai…
+k	들추다	deulchuda	
+k	들치기	deulchigi	shoplifting
+k	들치다	deulchida	to lift one side of an ob…
+k	듬뿍이	deumppugi	
+k	듬쑥이	deumssugi	
+k	듯싶다	deutsipda	to seem, to look like
+k	등가구	deunggagu	
+k	등걸	deunggeol	tree stump
+k	등공	deunggong	soaring (into the air); r…
+k	등관	deunggwan	
+k	등극	deunggeuk	
+k	등근	deunggeun	
+k	등급	deunggeup	class; grade; rating
+k	등기부	deunggibu	
+k	등기소	deunggiso	
+k	등나무	deungnamu	wisteria (plant)
+k	등롱	deungnong	lantern
+k	등밀이	deungmiri	나무의 면을 둥글게 미는 대패. 또는 이와 비…
+k	등받이	deungbaji	back of a chair
+k	등방	deungbang	기체, 액체, 유리 따위로 된 물체의 물리적 …
+k	등사기	deungsagi	
+k	등사지	deungsaji	
+k	등색	deungsaek	tangerine (color)
+k	등선	deungseon	
+k	등송	deungsong	sending a reproduction; s…
+k	등양	deungyang	
+k	등연	deungyeon	
+k	등용	deungyong	
+k	등장	deungjang	appearance (e.g. on stage)
+k	등촉	deungchok	
+k	등축	deungchuk	
+k	등피유	deungpiyu	
+k	등활	deunghwal	
+e	dead ringer	deadringer	1 meaning
+e	dead weight	deadweight	1 meaning
+e	deaf person	deafperson	1 meaning
+e	death knell	deathknell	1 meaning
+e	death march	deathmarch	2 meanings
+e	death metal	deathmetal	1 meaning
+e	debaltseve	debaltseve	1 meaning
+e	debauchery	debauchery	1 meaning
+e	debilitate	debilitate	1 meaning
+e	decadently	decadently	1 meaning
+e	decahedron	decahedron	1 meaning
+e	decembrist	decembrist	1 meaning
+e	declare war	declarewar	1 meaning
+e	declension	declension	1 meaning
+e	declinable	declinable	1 meaning
+e	decompiler	decompiler	1 meaning
+e	decomposer	decomposer	1 meaning
+e	decoration	decoration	2 meanings
+e	decorative	decorative	1 meaning
+e	deep-throat	deepthroat	1 meaning
+e	defamation	defamation	1 meaning
+e	defecation	defecation	1 meaning
+e	definitely	definitely	1 meaning
+e	definition	definition	1 meaning
+e	defunction	defunction	1 meaning
+e	degenerate	degenerate	2 meanings
+e	dehiscence	dehiscence	1 meaning
+e	delegation	delegation	1 meaning
+e	deliberate	deliberate	5 meanings
+e	delightful	delightful	1 meaning
+e	delinquent	delinquent	1 meaning
+e	delusional	delusional	1 meaning
+e	democratic	democratic	1 meaning
+e	democritus	democritus	1 meaning
+e	demodulate	demodulate	1 meaning
+e	demography	demography	1 meaning
+e	demonology	demonology	1 meaning
+e	dendrology	dendrology	1 meaning
+e	deontology	deontology	1 meaning
+e	department	department	2 meanings
+e	dependence	dependence	2 meanings
+e	dependency	dependency	2 meanings
+e	deplorable	deplorable	1 meaning
+e	deposition	deposition	1 meaning
+e	depository	depository	1 meaning
+e	depressant	depressant	1 meaning
+e	depression	depression	4 meanings
+e	derailment	derailment	1 meaning
+e	derivation	derivation	1 meaning
+e	derivative	derivative	4 meanings
+e	dermatitis	dermatitis	1 meaning
+e	derogatory	derogatory	1 meaning
+e	descendant	descendant	1 meaning
+e	descriptor	descriptor	1 meaning
+e	desert rose	desertrose	1 meaning
+e	despicable	despicable	1 meaning
+e	despondent	despondent	1 meaning
+e	destructor	destructor	1 meaning
+e	determined	determined	1 meaning
+e	determiner	determiner	1 meaning
+e	detonation	detonation	1 meaning
+e	detoxicate	detoxicate	1 meaning
+e	devanagari	devanagari	1 meaning
+e	developing	developing	1 meaning
+e	devil's claw	devilsclaw	1 meaning
+e	deviled egg	deviledegg	1 meaning
+j	でいりぐち	deiriguchi	建物や敷地に出入りするための門や戸口。
+j	できごころ	dekigokoro	計画していた訳ではなく、その場で思い浮かんだ（よく…
+j	できるだけ	dekirudake	できることはすべて。できる限り。なるべく。
+j	でんあつけい	denatsukei	
+j	でんじしゃく	denjishaku	電磁石: electromagnet
+j	でんぱどけい	denpadokei	電波時計: radio clock
+j	デイジーダック	deijidakku	Daisy Duck
+j	デイビー・ジョーンズ	deibijonzu	
+j	デオドラント	deodoranto	deodorant
+j	デカグラム	dekaguramu	decagram
+j	デカチチ	dekachichi	very big breasts (on a wo…
+j	デカメートル	dekametoru	
+j	デコレーション	dekoreshon	decoration
+j	デコンパイル	dekonpairu	decompiling (recreating s…
+j	デジタル化	dejitaruka	digitization
+j	デストルドー	desutorudo	タナトス。
+j	デスマスク	desumasuku	death mask
+j	デスマッチ	desumatchi	deathmatch
+j	デスメタル	desumetaru	
+j	デズデモナ	dezudemona	天王星の衛星の固有名。デズデモーナ。
+j	デズデモーナ	dezudemona	天王星の衛星の固有名。デズデモナ。
+j	デッドウェイト	deddoweito	
+j	デッドリンク	deddorinku	dead link
+j	デッドロック	deddorokku	
+j	デディケーション	dedikeshon	dedication
+j	デビュタント	debyutanto	debutante
+j	デフレーション	defureshon	deflation
+j	デモジュレータ	demojureta	
+j	デモーニッシュ	demonisshu	devilish
+j	デモ行進	demokoshin	示威活動の一つとして行う行進。
+j	デュアスロン	deyuasuron	長距離走・水泳・長距離走のこの2種目を連続して行う…
+j	デュレーション	deyureshon	継続、持続、存続期間。
+j	デラウェア州	deraweashu	the full form of デラウェア (“…
+j	デリバティブ	deribatibu	derivative (financial ins…
+j	デリヘル嬢	deriherujo	deriheru girl
+j	デルタ株	derutakabu	
+j	デンキウナギ	denkiunagi	電気鰻: electric eel
+j	デング熱	dengunetsu	dengue fever
+j	デンゲ熱	dengenetsu	
+j	デンマーク人	denmakujin	Dane (person from Denmark…
+j	デーヴァナーガリー	devanagari	Devanagari (abugida alpha…
+j	伝承的	denshoteki	伝承に関すること。また、そのさま。
+j	伝書鳩	denshobato	かつて遠隔の場所への通信のためカワラバトを改良した…
+j	伝統主義	dentoshugi	古くからの慣習や制度などを承継しようとする考え方。
+j	伝言ゲーム	dengongemu	Chinese whispers
+j	伝道の書	dendonosho	Ecclesiastes
+j	凸凹な	dekobokona	
+j	出任せの	demakaseno	
+j	出入口	deiriguchi	exit or entrance
+j	出来るだけ	dekirudake	as much as one can; as mu…
+j	出来心	dekigokoro	a sudden evil thought; wh…
+j	出歯鼠	debanezumi	a mole rat
+j	出羽守	dewanokami	an official post "governo…
+j	出鼻を折る	debanaooru	to spoil someone's start;…
+j	田園都市	denentoshi	1898年にエベネザー・ハワードが提唱した、都市の…
+j	電信線	denshinsen	電信の信号を伝導するための導線。
+j	電光朝露	denkochoro	極めて短い時間のたとえ。
+j	電光石火	denkosekka	lightning speed
+j	電動シェーバー	dendosheba	
+j	電圧計	denatsukei	voltmeter
+j	電子ゲーム	denshigemu	コンピュータを利用して遊ぶゲーム。
+j	電子マネー	denshimane	electronic money
+j	電子メール	denshimeru	electronic mail
+j	電子リーダー	denshirida	
+j	電子機器	denshikiki	コンピュータの働きによって動作する機械。
+j	電子殻	denshikaku	ボーアモデルで電子が入る場所。
+j	電子的	denshiteki	コンピュータを使用してデジタルに処理する様子。
+j	電撃戦	dengekisen	blitzkrieg (fast military…
+j	電気シェーバー	denkisheba	
+j	電気力	denkiryoku	クーロン力。
+j	電気回路	denkikairo	電流が流れる通り道。
+j	電気容量	denkiyoryo	
+j	電気技師	denkigishi	
+j	電気抵抗	denkiteiko	電流を妨げようとする性質。または、その値。
+j	電気療法	denkiryoho	electrotherapy
+j	電気発破	denkihappa	爆薬と電気雷管と電気導火線を用いる発破。
+j	電気素量	denkisoryo	電子が持つ電荷の絶対値。記号eで表され、約1.6×…
+j	電気鋳造	denkichuzo	電気鍍金の技術を使い、原型の複製を作製する鋳造の方…
+j	電気鰻	denkiunagi	electric eel, Electrophor…
+j	電波ソング	denpasongu	denpa song, a Japanese ge…
+j	電波時計	denpadokei	radio clock
+j	電熱器	dennetsuki	電熱線を使い、その熱を利用する機器。
+j	電磁放射	denjihosha	electromagnetic radiation
+j	電磁石	denjishaku	electromagnet
+j	電荷素量	denkasoryo	電気素量の同義語。
+j	電話を切る	denwaokiru	to hang up, to terminate …
+j	電話局	denwakyoku	電話の架設、保守、交換などを行う施設や組織。
+j	電話番号	denwabango	telephone number
+j	電車賃	denshachin	電車に乗るためにかかる運賃。
+k	더 나쁜	deonappeun	
+k	더 좋아하다	deojoahada	
+k	더거덕	deogeodeok	
+k	더군다나	deogundana	앞에 말한 것에 덧붙여서 뒤에 말하는 것을 조…
+k	더북하다	deobukhada	풀이나 나무 따위가 아주 거칠게 수북하다.
+k	더브늄	deobeunyum	dubnium
+k	더블룬	deobeullun	
+k	더블룸	deobeullum	
+k	더블린	deobeullin	Dublin (the capital city …
+k	더욱더욱	deoukdeouk	갈수록 더욱.
+k	더위팔기	deowipalgi	"Selling heat", a folk cu…
+k	더해지다	deohaejida	더하게 되다.
+k	덕버그	deokbeogeu	
+k	덕후하다	deokhuhada	덕이 후하다.
+k	덜껑	deolkkeong	'덜꺼덩'의 준말.
+k	덜룽히	deollunghi	
+k	덜어주다	deoreojuda	
+k	덩덩	deongdeong	
+k	데꾼하다	dekkunhada	눈이 쑥 들어가고 생기가 없다.
+k	데님 자켓	denimjaket	
+k	데드 엔드	dedeuendeu	
+k	데려가다	deryeogada	to take someone away; to …
+k	데림분수	derimbunsu	'대분수'의 북한말.
+k	데바나가리	debanagari	Devanagari (abugida alpha…
+k	데발체베	debalchebe	
+k	데비 존스	debijonseu	
+k	데스모솜	deseumosom	주로 상피세포에서, 세포와 세포 사이를 연결하…
+k	데스포이나	deseupoina	
+k	데이타 비율	deitabiyul	
+k	데이트하다	deiteuhada	to date (someone)
+k	데카르트	dekareuteu	
+k	덴마크어	denmakeueo	the Danish language
+k	덴마크의	denmakeuui	
+k	덴마크인	denmakeuin	덴마크에 주로 거주하는 사람을 가리키는 말. …
+k	덴파사르	denpasareu	인도네시아 발리의 주도.
+k	델러웨어	delleoweeo	[~주(州)] alternative form …
+k	뎅기열	denggiyeol	
+k	드난살이	deunansari	
+k	드날리다	deunallida	
+k	드라이하다	deuraihada	
+k	드라크마	deurakeuma	
+k	드래건	deuraegeon	
+k	드러나다	deureonada	to appear, to become mani…
+k	드러냄	deureonaem	exposing (something)
+k	드롭 타워	deuroptawo	
+k	드루즈파	deurujeupa	
+k	드르륵	deureureuk	
+k	드린강	deuringang	
+k	드링크	deuringkeu	drink (served beverage, a…
+k	드미트리	deumiteuri	
+k	드팀전	deutimjeon	(고어) 피복을 파는 가게.
+k	득도하다	deukdohada	to achieve enlightenment
+k	득세하다	deuksehada	
+k	득점타	deukjeomta	
+k	득표차	deukpyocha	
+k	들고나다	deulgonada	남의 일에 참견하다.
+k	들고파다	deulgopada	어떤 일에 온 마음과 힘을 쏟다.
+k	들국화	deulgukhwa	wild chrysanthemum
+k	들기름	deulgireum	perilla oil
+k	들꾀다	deulkkoeda	관심을 갖고 한 곳에 모여들다.
+k	들꿩	deulkkwong	The hazel grouse, Bonasa …
+k	들놀음	deulloreum	부산, 동래 인근에서 정월대보름에 들에서 줄다…
+k	들뜨다	deultteuda	to come off; to fall off
+k	들어가기	deureogagi	
+k	들어가다	deureogada	to go into; to enter
+k	들어보다	deureoboda	
+k	들어주다	deureojuda	to accept someone's wish …
+k	들여오다	deuryeooda	to introduce; to bring in…
+k	들염소	deuryeomso	
+k	들은귀	deureungwi	얻어 들은 말이나 지식
+k	들이곱다	deurigopda	
+k	들이굽다	deurigupda	
+k	들이밀다	deurimilda	to push in
+k	들이받다	deuribatda	
+k	들이쉬기	deuriswigi	
+k	들이쉬다	deuriswida	숨을 몸 안으로 들여보내다.
+k	들큰히	deulkeunhi	
+k	들피지다	deulpijida	굶주려서 몸이 여위고 힘이 없어지다.
+k	등가물	deunggamul	equivalent
+k	등갈비	deunggalbi	등 쪽에 붙어 있는 갈비.
+k	등거리	deunggeori	등만 덮어 입을 수 있게 소매 없이 만든 홑옷.
+k	등광	deunggwang	lamplight
+k	등귀세	deunggwise	
+k	등기료	deunggiryo	
+k	등년	deungnyeon	
+k	등대수	deungdaesu	
+k	등등	deungdeung	et cetera
+k	등량	deungryang	
+k	등록기	deungnokgi	register (machine)
+k	등바대	deungbadae	헤어지지 않도록 홑옷의 깃이 있는 목 부분의 …
+k	등배수	deungbaesu	
+k	등변	deungbyeon	
+k	등뼈	deungppyeo	
+k	등사판	deungsapan	
+k	등산가	deungsanga	등산을 하는 사람.
+k	등산로	deungsanno	hiking trail
+k	등산모	deungsanmo	등산을 할 때 쓰는 모자.
+k	등솔기	deungsolgi	옷의 뒷면을 두 개의 천으로 붙여 만들 때, …
+k	등외품	deungoepum	
+k	등정	deungjeong	
+k	등창	deungchang	등에 나는 큰 부스럼. '염병'의 북한말.
+k	등척	deungcheok	
+k	등천	deungcheon	
+k	등치다	deungchida	
+k	등피화	deungpihwa	
+k	등한시	deunghansi	소홀하게 보고 넘김.
+k	등행	deunghaeng	
+k	등허리	deungheori	the small of one's back
+k	등황	deunghwang	
+e	deaflympics	deaflympics	1 meaning
+e	declaration	declaration	1 meaning
+e	declination	declination	1 meaning
+e	deconstruct	deconstruct	1 meaning
+e	decrementer	decrementer	1 meaning
+e	dehydration	dehydration	2 meanings
+e	deleterious	deleterious	1 meaning
+e	deliverable	deliverable	1 meaning
+e	deliveryman	deliveryman	1 meaning
+e	democratize	democratize	1 meaning
+e	demodulator	demodulator	1 meaning
+e	demographer	demographer	1 meaning
+e	dengue fever	denguefever	1 meaning
+e	denominator	denominator	1 meaning
+e	dental floss	dentalfloss	1 meaning
+e	dentary bone	dentarybone	1 meaning
+e	deoxyribose	deoxyribose	1 meaning
+e	deportation	deportation	1 meaning
+e	depth charge	depthcharge	1 meaning
+e	dermatology	dermatology	1 meaning
+e	description	description	2 meanings
+e	descriptive	descriptive	2 meanings
+e	desecration	desecration	1 meaning
+e	desiccation	desiccation	1 meaning
+e	desperately	desperately	1 meaning
+e	desperation	desperation	1 meaning
+e	destination	destination	1 meaning
+e	destroyable	destroyable	1 meaning
+e	destruction	destruction	2 meanings
+e	destructive	destructive	1 meaning
+e	deteriorate	deteriorate	2 meanings
+e	determinant	determinant	1 meaning
+e	determinism	determinism	1 meaning
+e	detrimental	detrimental	1 meaning
+e	deuteronomy	deuteronomy	1 meaning
+e	development	development	1 meaning
+j	であいがしら	deaigashira	（主に曲がり角や交差点で）異なる方向から来た者や車…
+j	できそこない	dekisokonai	failing to meet expectati…
+j	でございます	degozaimasu	
+j	でぞめしき	dezomeshiki	Japanese New Year traditi…
+j	でっちあげる	detchiageru	to make up, to fabricate,…
+j	でんしじしょ	denshijisho	電子辞書: electronic dictiona…
+j	でんでんむし	dendenmushi	かたつむりの別名。
+j	でんでん太鼓	dendendaiko	pellet drum (as a childre…
+j	でんでん虫	dendenmushi	synonym of カタツムリ (katatsu…
+j	デカリットル	dekarittoru	
+j	デキストリン	dekisutorin	dextrin
+j	デクリメンタ	dekurimenta	
+j	デコルタージュ	dekorutajyu	
+j	デザイナーベビー	dezainabebi	
+j	デザイン学校	dezaingakko	デザインに関する教育を行う学校。
+j	デザートスプーン	dezatosupun	
+j	デシメートル	deshimetoru	メートル法による長さの単位の一つで、1メートルの十…
+j	デスクトップ	desukutoppu	a desktop
+j	デストロイヤー	desutoroiya	破壊する人やもの。
+j	デッドスペース	deddosupesu	unused or unusable space,…
+j	デッドリフト	deddorifuto	
+j	デドフシナ	dedofushina	
+j	デニソワ人	denisowajin	2008年にロシアのデニソワ洞窟で発見された化石人…
+j	デバッグする	debaggusuru	
+j	デビットカード	debittokado	debit card
+j	デフォルト値	deforutochi	コンピュータ処理で、実行時に入力すべきパラメータが…
+j	デプレッション	depuresshon	北インド洋における、最大風速が28ノット未満の熱帯…
+j	デミウルゴス	demiurugosu	
+j	デモクラシー	demokurashi	民主主義、民主制。
+j	デュスノミア	deyusunomia	エリスの(第1)衛星の固有名。
+j	デリケートゾーン	deriketozon	woman's private parts
+j	デルタ関数	derutakansu	0に対してのみ無限大、他の実数に対しては0を返し、…
+j	データサイエンス	detasaiensu	
+j	データ圧縮	detaasshuku	あるデータをその意味を保ちつつ短く変換し、データ量…
+j	伝染性の	densenseino	
+j	伝統的な	dentotekina	
+j	伝聞証拠	denbunshoko	
+j	出会い頭	deaigashira	moment when both sides me…
+j	出先機関	desakikikan	branch office
+j	溺死する	dekishisuru	
+j	点火プラグ	denkapuragu	内燃機関で高い電圧をかけて放電による火花で混合気に…
+j	田楽豆腐	dengakudofu	baked skewered tofu in mi…
+j	電力計	denryokukei	wattmeter
+j	電報を送る	denpoookuru	
+j	電子レンジ	denshirenji	microwave oven; microwave
+j	電子手帳	denshitecho	
+j	電子決済	denshiyubin	電子マネーを利用した決済。
+j	電子辞書	denshijisho	e-dictionary
+j	電子郵便	denshiyubin	電子メールのこと。
+j	電撃的	dengekiteki	電光が走るように素早く鋭いさま。
+j	電気信号	denkishingo	電圧の変化によって伝える信号。
+j	電気光学	denkikogaku	electrooptics
+j	電気室	denkishitsu	電気設備が設置されている部屋。
+j	電気工学	denkikogaku	electrical engineering
+j	電気掃除機	denkisojiki	synonym of 掃除機
+j	電気椅子刑	denkiisukei	
+j	電気的な	denkitekina	
+j	電波やくざ	denpayakuza	放送局の侮蔑語。特にNHKの侮蔑語。
+j	電波ヤクザ	denpayakuza	「電波やくざ」の別表記。
+j	電源回路	dengenkairo	
+j	電熱線	dennetsusen	通電することで電気抵抗により発熱することを利用した…
+j	電磁パルス	denjiparusu	electromagnetic pulse
+j	電磁気学	denjikigaku	electromagnetism, electro…
+j	電話に出る	denwanideru	
+j	電話会社	denwagaisha	
+j	電話回線	denwakaisen	固定電話での通話に用いられる回線。
+j	電車区間	denshakukan	大都市付近の通勤電車の本数が多い区間。
+j	電鳴楽器	denmeigakki	最終的に電磁気力によって音を発する楽器。
+k	더 늙은	deoneulgeun	
+k	더덩실	deodeongsil	
+k	더러운 돈	deoreoundon	
+k	더럽히다	deoreophida	to soil, to make dirty
+k	더미구름	deomigureum	'적운, 뭉게구름'의 북한말.
+k	더빙하다	deobinghada	대사만 녹음된 테이프에 음악, 효과음 따위를 …
+k	더치 오븐	deochiobeun	
+k	더플백	deopeulbaek	
+k	더하기하다	deohagihada	주어진 수에 다른 수를 보태다.
+k	더하는수	deohaneunsu	
+k	덕담하다	deokdamhada	
+k	덕치주의	deokchijuui	
+k	던스 캡	deonseukaep	
+k	던펌린	deonpeomnin	
+k	덜거덕	deolgeodeok	크고 단단한 물건이 맞부딪치는 소리.
+k	덜거럭	deolgeoreok	'덜그럭'의 비표준어.
+k	덜걱이다	deolgeogida	크고 단단한 물건이 맞부딪치는 소리가 나다. …
+k	덜그럭	deolgeureok	크고 단단한 물건이 부딪쳐 흔들리면서 맞닿는 …
+k	덜커덕	deolkeodeok	producing a rattle
+k	덜컥이다	deolkeogida	크고 단단한 물건이 맞부딪치는 소리가 나다. …
+k	덜퍼덕	deolpeodeok	
+k	덧붙이다	deotbuchida	to attach (something to .…
+k	덧셈하다	deotsemhada	주어진 수에 다른 수를 보태다.
+k	덩굴손	deonggulson	
+k	데도브시나	dedobeusina	
+k	데르드러	dereudeureo	
+k	데스크톱	deseukeutop	
+k	데오도란트	deodoranteu	deodorant (odour-controll…
+k	데카당스	dekadangseu	'윤리적 타락'이라는 본래의 뜻에서 19세기 …
+k	데칼코마니	dekalkomani	
+k	델타 변이	deltabyeoni	
+k	드나들다	deunadeulda	
+k	드높아지다	deunopajida	
+k	드라이아이스	deuraiaiseu	dry ice
+k	드라큘라	deurakyulla	
+k	드라히친	deurahichin	
+k	드러내다	deureonaeda	to expose; to lay bare
+k	드러눕다	deureonupda	to lie (down), to sprawl …
+k	드럼통	deureomtong	철로 되어 있으며 안에 기름 등을 담는 커다란…
+k	드레스덴	deureseuden	
+k	드레즈덴	deurejeuden	'드레스덴'의 북한말.
+k	드르렁	deureureong	snoring loudly
+k	드르릉	deureureung	
+k	드리나 강	deurinagang	세르비아와 보스니아 헤르체고비나의 국경을 이루…
+k	드리워지다	deuriwojida	
+k	드베르그	deubereugeu	dwarf
+k	득소실다	deuksosilda	
+k	득실하다	deuksilhada	'득시글하다'의 준말.
+k	득점판	deukjeompan	scoreboard
+k	득표하다	deukpyohada	
+k	든직하다	deunjikhada	사람의 말과 행동이 묵직하면서 믿음직하다
+k	들고양이	deulgoyangi	산이나 들에 사는 사나운 고양이.
+k	들끓다	deulkkeulta	to swarm, to gather, to i…
+k	들대쪽	deuldaejjok	(역도) 바벨의 '원판'을 이르는 북한말.
+k	들때밑	deulttaemit	옛날 계급구조 사회에서 권문세가에서 종살이하는…
+k	들떼리다	deultterida	남의 기분을 상하게 하다.
+k	들려오다	deullyeooda	to be bruited about; to h…
+k	들먹이다	deulmeogida	무거운 물체 따위가 들렸다 내려앉았다 하다. …
+k	들안걸이	deurangeori	(씨름) '안다리걸기'의 북한말.
+k	들어맞다	deureomatda	무엇이 무엇에 꼭 어울리다. 또는 생각한대로 …
+k	들어서다	deureoseoda	to enter, to take up a po…
+k	들어온말	deuleoonmal	'외래어'의 북한말.
+k	들어차다	deureochada	to be full (of)
+k	들여놓다	deuryeonota	
+k	들이마시다	deurimasida	to breathe in, to inhale
+k	들이켜다	deurikyeoda	to inhale (hard)
+k	들창코	deulchangko	An upturned nose, a snub-…
+k	듬직하다	deumjikhada	사람의 말과 행동이 묵직하면서 믿음직하다
+k	등고선	deunggoseon	등압면일기도의 지오포텐셜 고도가 같은 곳을 연…
+k	등고자비	deunggojabi	높은 곳에 오르려면 낮은 곳에서부터 오른다는 …
+k	등글기	deunggeulgi	남이 그린 그림을 그대로 본떠서 그리는 일.
+k	등긁이	deunggeulgi	
+k	등기선	deunggiseon	
+k	등기하다	deunggihada	
+k	등딱지	deungttakji	
+k	등때기	deungttaegi	신체 부분 '등'을 속되게 이르는 말.
+k	등사하다	deungsahada	
+k	등산길	deungsangil	산을 오르기 위해 닦은 길.
+k	등산복	deungsanbok	
+k	등산화	deungsanhwa	등산을 하기 위한 신발.
+k	등신대	deungsindae	
+k	등신불	deungsinbul	
+k	등심초	deungsimcho	
+k	등압선	deungapseon	일기도 상에서 기압이 같은 곳을 연결한 선.
+k	등어선	deungeoseon	
+k	등온선	deungonseon	일기도상에서 온도가 같은 지점끼리 연결한 선이…
+k	등외상	deungoesang	
+k	등자색	deungjasaek	
+k	등자컵	deungjakeob	
+k	등종자	deungjongja	
+k	등줄쥐	deungjuljwi	The striped field mouse, …
+k	등청	deungcheong	
+e	dead language	deadlanguage	1 meaning
+e	deadjectival	deadjectival	1 meaning
+e	death penalty	deathpenalty	1 meaning
+e	decalcomania	decalcomania	1 meaning
+e	decapitation	decapitation	1 meaning
+e	deceleration	deceleration	1 meaning
+e	decimal place	decimalplace	1 meaning
+e	decimal point	decimalpoint	1 meaning
+e	decision tree	decisiontree	1 meaning
+e	decisiveness	decisiveness	1 meaning
+e	declensional	declensional	1 meaning
+e	dedovshchina	dedovshchina	1 meaning
+e	deep learning	deeplearning	1 meaning
+e	definiteness	definiteness	1 meaning
+e	deflagration	deflagration	1 meaning
+e	deflationism	deflationism	1 meaning
+e	degeneration	degeneration	2 meanings
+e	dehumidifier	dehumidifier	1 meaning
+e	deliberately	deliberately	2 meanings
+e	delicatessen	delicatessen	1 meaning
+e	delipidation	delipidation	1 meaning
+e	delivery room	deliveryroom	1 meaning
+e	delta variant	deltavariant	1 meaning
+e	demonization	demonization	1 meaning
+e	demonstrator	demonstrator	1 meaning
+e	demotic greek	demoticgreek	1 meaning
+e	denaturation	denaturation	1 meaning
+e	dental caries	dentalcaries	1 meaning
+e	departmental	departmental	1 meaning
+e	depreciation	depreciation	2 meanings
+e	depressurize	depressurize	1 meaning
+e	deprotection	deprotection	1 meaning
+e	depth of field	depthoffield	1 meaning
+e	desalination	desalination	1 meaning
+e	desert island	desertisland	1 meaning
+e	designer baby	designerbaby	1 meaning
+e	dessertspoon	dessertspoon	2 meanings
+e	destructible	destructible	1 meaning
+e	deuterostome	deuterostome	1 meaning
+e	deutsche mark	deutschemark	1 meaning
+e	deviationist	deviationist	1 meaning
+e	device driver	devicedriver	1 meaning
+j	でくまひくま	dekumahikuma	出っ張っているところと凹んでいるところ。
+j	でこまひこま	dekomahikoma	出っ張っているところと凹んでいるところ。
+j	ではありません	dewaarimasen	
+j	でんぐりがえす	dengurigaesu	でんぐり返す: to turn something…
+j	でんぐりがえり	dengurigaeri	でんぐり返り: the act of turnin…
+j	でんぐりがえる	dengurigaeru	でんぐり返る: to turn over, to …
+j	でんぐり返す	dengurigaesu	to turn something over, t…
+j	でんぐり返り	dengurigaeri	the act of turning someth…
+j	でんぐり返る	dengurigaeru	to turn over, to turn ups…
+j	でんしこうがく	denshikogaku	電子工学: electronics
+j	でんしボルト	denshiboruto	電子ボルト: electron volt
+j	デカブリスト	dekaburisuto	
+j	デカメートル波	dekametoruha	短波の別名。
+j	デカルコマニー	dekarukomani	
+j	デカルト的	dekarutoteki	
+j	デカルト積	dekarutoseki	
+j	デキストロース	dekisutorosu	
+j	デザイン書体	dezainshotai	a typestyle or typeface t…
+j	デシリットル	deshirittoru	a unit of volume, (UK) de…
+j	デジタルタトゥー	dejitarutatu	"digital tattoo": persona…
+j	デジタル放送	dejitaruhoso	映像や音声などの情報をデジタル信号で伝送する放送。
+j	デスティネーション	desutineshon	destination
+j	デストラクタ	desutorakuta	destructor
+j	デノミネーション	denomineshon	貨幣の単位を切り下げて、通貨の価値を変えること。
+j	デビルズクロー	debiruzukuro	
+j	デビルドエッグ	debirudoeggu	
+j	デフリンピック	defurinpikku	聴覚障害者のために4年に一度開かれる国際競技大会。
+j	デボンレックス	debonrekkusu	a Devon Rex
+j	デモクリトス	demokuritosu	
+j	デュープロセス	deyupurosesu	法の適正手続。適法手続、デュー・プロセス・オブ・ロ…
+j	デラウェアシティ	deraweashiti	Delaware City
+j	デリカテッセン	derikatessen	西洋風の惣菜。また、それを売る店。
+j	デンマーク料理	denmakuryori	デンマークの伝統的な料理。
+j	デンマーク王国	denmakuokoku	Kingdom of Denmark (offic…
+j	データウェアハウス	detaweahausu	
+j	データストリーム	detasutorimu	
+j	データマイニング	detamainingu	data mining
+j	データ入力	detanyuryoku	
+j	伝説上の	densetsujono	
+j	伝達する	dentatsusuru	
+j	出会い系サイト	deaikeisaito	（主に交際相手などの）出会いを求めている者同士の仲…
+j	出口調査	deguchichosa	投票所の出口で報道機関が個人から投票先を聞き取り、…
+j	電信送金	denshinsokin	
+j	電子たばこ	denshitabako	electronic cigarette
+j	電子オルガン	denshiorugan	鍵盤楽器の一種で、電子回路から送られた信号をアンプ…
+j	電子ボルト	denshiboruto	electron volt
+j	電子化する	denshikasuru	
+j	電子工学	denshikogaku	electronics
+j	電子署名	denshishomei	コンピュータで作成された文書について、誰が書いたか…
+j	電子音楽	denshiongaku	
+j	電気スタンド	denkisutando	電気自動車に充電を行う施設。
+j	電気穿孔法	denkisenkoho	electroporation
+j	電気自動車	denkijidosha	electric car; electric ve…
+j	電気通信	denkitsushin	telecommunications
+j	電気鉄道	denkitetsudo	車輌の動力を電気としと使用する鉄道。電鉄。
+j	電気陰性度	denkiinseido	分子内の原子が電子を引き付ける力の尺度。
+j	電波望遠鏡	denpaboenkyo	
+j	電源モジュール	dengenmojuru	電圧を変換するのに必要な部品を一つにまとめた装置。
+j	電磁気力	denjikiryoku	電気力と磁気力の総称。媒介するゲージ粒子は光子であ…
+j	電解質	denkaishitsu	electrolyte
+j	電話をかける	denwaokakeru	to call someone over the …
+j	電話ボックス	denwabokkusu	telephone box; telephone …
+k	더 비틀즈	deobiteuljeu	
+k	더께더께	deokkedeokke	
+k	더덜대다	deodeoldaeda	'더덜거리다'.
+k	더듬대다	deodeumdaeda	'더듬거리다'.
+k	더듬이다리	deodeumidari	pedipalp
+k	더러워지다	deoreowojida	to become dirty, to be st…
+k	더미씌우다	deomissuiuda	
+k	더벅대다	deobeokdaeda	'더벅거리다'.
+k	더부룩하다	deoburukhada	소화가 잘 안되어 뱃속이 거북하다.
+k	더북더북	deobukdeobuk	
+k	더불더불	deobuldeobul	
+k	더브스텝	deobeuseutep	
+k	더운흐름	deounheureum	'해류(海流)'의 북한말.
+k	더퍽대다	deopeokdaeda	
+k	더펄대다	deopeoldaeda	'더펄거리다'.
+k	더펄머리	deopeolmeori	
+k	덕새없다	deoksaeeopda	to be immature, to lack c…
+k	덕지덕지	deokjideokji	
+k	덕통사고	deoktongsago	entering a fandom unexpec…
+k	던져넣기	deonjeoneoki	(축구, 농구) '스로인'의 북한말.
+k	던지럽다	deonjireopda	mean, foul
+k	덜거덩	deolgeodeong	
+k	덜걱하다	deolgeokhada	
+k	덜겅이다	deolgeongida	크고 단단한 물건이 부딪쳐 울리는 소리가 나다…
+k	덜그렁	deolgeureong	
+k	덜꺼덕	deolkkeodeok	
+k	덜꺽이다	deolkkeogida	크고 단단한 물건이 맞부딪치는 소리가 나다. …
+k	덜덜하다	deoldeolhada	
+k	덜러덩	deolleodeong	크고 단단한 물건들이 느리게 흔들리면서 서로 …
+k	덜렁쇠	deolleongsoe	
+k	덜렁이다	deolleongida	
+k	덜레덜레	deolledeolle	
+k	덜룩대다	deollukdaeda	
+k	덜룽하다	deollunghada	
+k	덜름하다	deolleumhada	입은 옷이 몸에 비하여 길이가 짧다.
+k	덜커덩	deolkeodeong	
+k	덜컥하다	deolkeokhada	
+k	덜컹이다	deolkeongida	to rattle, to clatter
+k	덤벙이다	deombeongida	to act frivolously
+k	덤플링	deompeulling	dumpling
+k	덩굴나무	deonggullamu	
+k	덩그럭	deonggeureok	
+k	덩더럭	deongdeoreok	
+k	덩실하다	deongsilhada	
+k	덩이덩이	deongideongi	
+k	덩크 슛	deongkeusyut	
+k	덩크하다	deongkeuhada	
+k	데이터 센터	deiteosenteo	
+k	데이터 처리	deiteocheori	
+k	데이터베이스	deiteobeiseu	database
+k	데코레이션	dekoreisyeon	
+k	덱스트린	dekseuteurin	dextrin
+k	뎅거덩	denggeodeong	큰 쇠붙이 따위가 부러지거나 떨어지는 소리.
+k	드래프트	deuraepeuteu	
+k	드럼 세트	deureomseteu	
+k	드럼 키트	deureomkiteu	
+k	드문드문	deumundeumun	시간적으로 뜸하게. 또는 공간적으로 드물게 있…
+k	득남하다	deungnamhada	to get a son
+k	득실대다	deuksildaeda	'득시글대다'의 준말.
+k	득점하다	deukjeomhada	
+k	든든하다	deundeunhada	
+k	들들하다	deuldeulhada	
+k	들락대다	deullakdaeda	'들락거리다'.
+k	들러붙다	deulleobutda	
+k	들려주다	deullyeojuda	to tell, to let hear, to …
+k	들맞추다	deulmatchuda	알랑거리며 남의 비위를 맞추다.
+k	들머리판	deulmeoripan	있는 것을 모두 들어먹고 끝장나는 판.
+k	들멍이다	deulmeongida	손이나 어깨, 엉덩이 따위가 천천히 들렸다 놓…
+k	들쇠고래	deulsoegorae	short-finned pilot whale …
+k	들써덕	deulsseodeok	
+k	들썩이다	deulsseogida	묵직한 물건이 떠들렸다 가라앉았다 하다. 또는…
+k	들어올리다	deureoollida	to raise, to lift, to pic…
+k	들어옮기다	deureoomgida	to change jobs or positio…
+k	들엉기다	deuleonggida	
+k	들척이다	deulcheogida	이리저리 들추어 뒤지다.
+k	들큰하다	deulkeunhada	
+k	들큼하다	deulkeumhada	입에 당길 정도의 맛은 없지만 조금 단 맛이 …
+k	듬뿍하다	deumppukhada	넘칠 정도로 매우 가득하거나 수북하다.
+k	듬쑥하다	deumssukhada	아주 넉넉하다.
+k	등각목	deunggangmok	
+k	등걸불	deunggeolbul	
+k	등교하다	deunggyohada	
+k	등굣길	deunggyotgil	one's way to school
+k	등귀하다	deunggwihada	물건값이 뛰어오르다.
+k	등긁개	deunggeulgae	
+k	등기되다	deunggidoeda	
+k	등단하다	deungdanhada	
+k	등대선	deungdaeseon	
+k	등대지기	deungdaejigi	
+k	등댓불	deungdaetbul	
+k	등드름	deungdeureum	bacne (acne on the back)
+k	등락하다	deungnakhada	to rise and fall, to fluc…
+k	등록금	deungnokgeum	
+k	등록하다	deungnokhada	to register
+k	등분하다	deungbunhada	
+k	등사원지	deungsawonji	
+k	등산객	deungsangaek	mountain climber
+k	등산하다	deungsanhada	to climb mountains, to hi…
+k	등시성	deungsiseong	
+k	등신상	deungsinsang	
+k	등심선	deungsimseon	
+k	등압면	deungapmyeon	기압이 일정한 면.
+k	등에코선	deungekoseon	전파 및 음파를 발사하여 물체에 부딪혀서 되돌…
+k	등영주	deungyeongju	
+k	등용문	deungyongmun	
+k	등자 가죽	deungjagajug	
+k	등자뼈	deungjappyeo	
+k	등장액	deungjangaek	
+k	등재하다	deungjaehada	
+k	등진선	deungjinseon	
+k	등치법	deungchibeop	(수학) 연립 방정식에서 식을 하나의 문자에 …
+k	등치선	deungchiseon	기상학이나 기후학적인 양적 표현 값이 같은 곳…
+k	등판하다	deungpanhada	
+e	dead cat bounce	deadcatbounce	1 meaning
+e	dead on arrival	deadonarrival	1 meaning
+e	dead reckoning	deadreckoning	1 meaning
+e	death sentence	deathsentence	1 meaning
+e	decimal number	decimalnumber	1 meaning
+e	decimal system	decimalsystem	1 meaning
+e	decomposition	decomposition	3 meanings
+e	decompression	decompression	1 meaning
+e	decontaminate	decontaminate	1 meaning
+e	decriminalize	decriminalize	1 meaning
+e	deepthroating	deepthroating	1 meaning
+e	defective verb	defectiveverb	1 meaning
+e	defibrillator	defibrillator	1 meaning
+e	deforestation	deforestation	1 meaning
+e	degree celsius	degreecelsius	1 meaning
+e	dehydrogenase	dehydrogenase	1 meaning
+e	demonstration	demonstration	3 meanings
+e	demonstrative	demonstrative	1 meaning
+e	derealization	derealization	1 meaning
+e	dermatologist	dermatologist	1 meaning
+e	descriptivism	descriptivism	1 meaning
+e	desktop mascot	desktopmascot	1 meaning
+e	detached house	detachedhouse	1 meaning
+e	deterioration	deterioration	1 meaning
+e	determination	determination	1 meaning
+e	deus ex machina	deusexmachina	2 meanings
+e	deuteragonist	deuteragonist	2 meanings
+j	ではんばかりな	dewanbakarina	
+j	でんぐりがえし	dengurigaeshi	でんぐり返し: the act of turnin…
+j	でんぐり返し	dengurigaeshi	the act of turning someth…
+j	デカルト座標	dekarutozahyo	Cartesian coordinates
+j	デクレッシェンド	dekuresshendo	decrescendo
+j	デシメートル波	deshimetoruha	極超短波の別名。
+j	デジアナ変換	dejianahenkan	デジタル放送をアナログ放送に自動的に変換し、アナロ…
+j	デッドマン装置	deddomansochi	
+j	デビルスティック	debirusutikku	ジャグリングの一つ。空中に浮いた棒（センタースティ…
+j	デフォルマシオン	deforumashion	synonym of デフォルメ (deforum…
+j	デュアルパーパス	deyuarupapasu	オフロードとオンロードの両方の走行に対応したオート…
+j	デューディリジェンス	deyudirijensu	調査活動、査察。
+j	デンタルフロス	dentarufurosu	dental floss
+j	伝奇小説	denkishosetsu	
+j	伝承文学	denshobungaku	oral literature; folklore
+j	伝統主義者	dentoshugisha	伝統主義の立場をとりそれを主張する者。
+j	伝達関数	dentatsukansu	入出力とも一次元且つx(0)=0の線型時不変系に於…
+j	凸凹道	dekobokomichi	A bumpy road.
+j	出たとこ勝負	detatokoshobu	doing something without b…
+j	出歯雀鯛	debasuzumedai	a green chromis (Chromis …
+j	出鼻をくじく	debanaokujiku	to spoil someone's start;…
+j	電光掲示板	denkokeijiban	electronic noticeboard; e…
+j	電動輸送機器	dendoyusokiki	
+j	電動髭剃り	dendohigesori	
+j	電子デバイス	denshidebaisu	
+j	電子ラーニング	denshiraningu	
+j	電子書籍	denshishoseki	e-book
+j	電気力学	denkirikigaku	electrodynamics
+j	電気機関車	denkikikansha	電気を動力としてレールの上を走る機関車。特に自走能…
+j	電気炊飯器	denkisuihanki	
+j	電気髭剃り	denkihigesori	
+j	電波探知機	denpatanchiki	radar, radio detection an…
+j	電流密度	denryumitsudo	電流の方向に対し垂直な単位断面積に流れる電気量。
+j	電源アダプター	dengenadaputa	power adapter
+j	電磁相互作用	denjisogosayo	electromagnetic interacti…
+k	더더군다나	deodeogundana	
+k	더덜기법	deodeolgibeop	가감법의 북한말.
+k	더벅머리	deobeongmeori	
+k	더뻑대다	deoppeokdaeda	'더뻑거리다'.
+k	더치페이하다	deochipeihada	to go Dutch (to split the…
+k	덕트 테이프	deokteuteipeu	
+k	던들배기	deondeulbaegi	'언덕'의 강원도 사투리.
+k	던적스레	deonjeokseure	
+k	던지니스게	deonjiniseuge	Dungeness crab (Metacarci…
+k	덜걱대다	deolgeokdaeda	'덜거덕대다'의 준말.
+k	덜겅하다	deolgeonghada	
+k	덜꺼덩	deolkkeodeong	
+k	덜꺽하다	deolkkeokhada	
+k	덜껑이다	deolkkeongida	크고 단단한 물건이 부딪쳐 울리는 소리가 나다…
+k	덜덜대다	deoldeoldaeda	'덜덜거리다'.
+k	덜럭대다	deolleokdaeda	
+k	덜썩하다	deolsseokhada	
+k	덜컥대다	deolkeokdaeda	'덜컥거리다'(갑자기 놀라거나 겁에 질려 가슴…
+k	덜컹하다	deolkeonghada	
+k	덥석대다	deopseokdaeda	'덥석거리다'.
+k	덥수룩하다	deopsurukhada	shaggy, bushy
+k	덩굴줄기	deongguljulgi	
+k	덩그렁	deonggeureong	
+k	덩더꿍	deongdeokkung	
+k	덩실대다	deongsildaeda	'덩실거리다'.
+k	덩싯대다	deongsitdaeda	'덩싯거리다'.
+k	덮어버리다	deopeobeorida	
+k	데드리프트	dedeuripeuteu	
+k	데미우르고스	demiureugoseu	
+k	데스마스크	deseumaseukeu	
+k	데이터 마이닝	deiteomaining	
+k	데크레셴도	dekeuresyendo	
+k	덴마크 사람	denmakeusaram	
+k	드라이브하다	deuraibeuhada	to go for a drive
+k	드래그 퀸	deuraegeukwin	
+k	드래그하다	deuraegeuhada	to drag
+k	드러냄표	deureonaempyo	Emphasis point, a dot or …
+k	드럼 머신	deureommeosin	
+k	드럼스틱	deureomseutik	
+k	드렁허리	deureongheori	Asian swamp eel (Monopter…
+k	드레드노트	deuredeunoteu	
+k	드리블하다	deuribeulhada	
+k	드림캐처	deurimkaecheo	
+k	드보르자크	deuboreujakeu	
+k	득녀하다	deungnyeohada	to get a daughter
+k	듣그럽다	deutgeureopda	시끄럽다.
+k	들들대다	deuldeuldaeda	'들들거리다'.
+k	들먹대다	deulmeokdaeda	'들먹거리다'(무거운 물체 따위가 자꾸 들렸다…
+k	들썩쿵	deulsseokkung	
+k	들썩하다	deulsseokhada	하는 말이 이치에 맞게 그럴듯하다.
+k	들어열개	deureoyeolgae	위쪽으로 들어서 열수 있도록 만든 문.
+k	들여다보다	deuryeodaboda	To look into
+k	들접치기	deuljeopchigi	(씨름) '잡채기'의 북한말.
+k	들쭉나무	deuljjungnamu	(학명: Vaccinium uliginosum…
+k	들축대다	deulchukdaeda	
+k	들큰대다	deulkeundaeda	'들큰거리다'.
+k	들펀대다	deulpeondaeda	
+k	듬성하다	deumseonghada	
+k	등극하다	deunggeukhada	왕의 자리에 오르다.
+k	등기우편	deunggiupyeon	registered mail, register…
+k	등던지기	deungdeonjigi	(레슬링) 선 자세에서 상대편을 등에 업어 넘…
+k	등록되다	deungnokdoeda	to be registered, enrolled
+k	등록증	deungnokjeung	registration certificate
+k	등비급수	deungbigeupsu	
+k	등비수열	deungbisuyeol	
+k	등세모근	deungsemogeun	
+k	등송하다	deungsonghada	to send a reproduction; t…
+k	등연하다	deungyeonhada	
+k	등온위선	deungonwiseon	일기도 상에서 온위가 같은 점을 연결한 선.
+k	등온층	deungoncheung	기온이 고도와 상관없이 일정하게 유지되는 영역.
+k	등와도선	deungwadoseon	유체안의 국소적(局所的) 순환을 나타내는 벡터…
+k	등용하다	deungyonghada	
+k	등장하다	deungjanghada	to enter the stage; to co…
+k	등재되다	deungjaedoeda	
+k	등적색	deungjeoksaek	
+k	등현례	deunghyeollye	
+k	등화신호	deunghwasinho	
+k	등활지옥	deunghwaljiok	팔열지옥 중의 하나.
+k	등황란	deunghwangnan	
+e	dead man's switch	deadmansswitch	1 meaning
+e	decision making	decisionmaking	1 meaning
+e	decolonization	decolonization	1 meaning
+e	deerstalker hat	deerstalkerhat	1 meaning
+e	defenestration	defenestration	1 meaning
+e	defibrillation	defibrillation	1 meaning
+e	dehumanization	dehumanization	1 meaning
+e	delhi sultanate	delhisultanate	1 meaning
+e	demisemiquaver	demisemiquaver	1 meaning
+e	demobilization	demobilization	1 meaning
+e	democratically	democratically	1 meaning
+e	denazification	denazification	1 meaning
+e	dental calculus	dentalcalculus	1 meaning
+e	deputinization	deputinization	1 meaning
+e	derivatization	derivatization	1 meaning
+e	devil's advocate	devilsadvocate	2 meanings
+j	でんしけんびきょう	denshikenbikyo	電子顕微鏡: an electron micros…
+j	クレーン・デリック運転士	derikkuntenshi	つり上げ荷重5トン以上を含めた全てのクレーンとデリ…
+j	デオキシリボース	deokishiribosu	
+j	デコレーションケーキ	dekoreshonkeki	スポンジケーキをクリームやチョコレートなどで飾った…
+j	デジタルカメラ	dejitarukamera	撮影した静止画をデジタルのデータとして保存するカメ…
+j	デジタルテレビ	dejitaruterebi	デジタル放送を受信可能なテレビ。
+j	デジタル化する	dejitarukasuru	
+j	デバイスドライバ	debaisudoraiba	周辺機器などの装置を直接制御して、橋渡しのために、…
+j	デヒドロゲナーゼ	dehidorogenaze	
+j	デポネント動詞	deponentodoshi	
+j	デミグラスソース	demigurasusosu	「ドミグラスソース」の表記ゆれ。
+j	デリック運転士	derikkuntenshi	つり上げ荷重5トン以上を含めた全てのデリックを運転…
+j	デリバリーヘルス	deribariherusu	a ヘルス (herusu, “sexual se…
+j	デルセ・デ・リッチ	derusederitchi	
+j	デーヴァナーガリー数字	devanagarisuji	
+j	伝染性紅斑	densenseikohan	ウイルス感染により主に小児がかかる感染症。頬などが…
+j	電信柱	denshinbashira	電話線をはるための柱。電柱。
+j	電動キックボード	dendokikkubodo	e-scooter, electric scoot…
+j	電子図書館	denshitoshokan	インターネット上で電子書籍の閲覧を行うことができる…
+j	電子掲示板	denshikeijiban	bulletin board system (co…
+j	電子計算機	denshikeisanki	computer
+j	電子顕微鏡	denshikenbikyo	an electron microscope
+j	電灯のスイッチ	dentonosuitchi	
+j	電算写植	densanshashoku	electronic phototypesetti…
+j	電解コンデンサ	denkaikondensa	electrolytic capacitor
+k	더거덕하다	deogeodeokhada	
+k	더금더금	deogeumdeogeum	
+k	더덕더덕	deodeokdeodeok	
+k	더덜거리다	deodeolgeorida	분명하지 않은 목소리로 말을 자꾸 더듬다.
+k	더덜더덜	deodeoldeodeol	
+k	더덜뭇하다	deodeolmuthada	결단성이나 다잡는 힘이 모자르다.
+k	더듬거리다	deodeumgeorida	무엇을 찾거나 알아보려고 이리저리 자꾸 만지다.
+k	더듬더듬	deodeumdeodeum	
+k	더러운 폭탄	deoreounpoktan	dirty bomb
+k	더럭더럭	deoreokdeoreok	
+k	더벅거리다	deobeokgeorida	힘없는 걸음으로 느릿느릿 걸어가다.
+k	더벅더벅	deobeokdeobeok	
+k	더부럭대다	deobureokdaeda	
+k	더블 플레이	deobeulpeullei	
+k	더블클릭	deobeulkeullik	
+k	더퍽거리다	deopeokgeorida	
+k	더퍽더퍽	deopeokdeopeok	
+k	더펄거리다	deopeolgeorida	더부룩한 물건 따위가 조금 길게 늘어져 자꾸 …
+k	더펄더펄	deopeoldeopeol	더부룩한 물건 따위가 조금 길게 늘어져 바람에…
+k	덜겅대다	deolgeongdaeda	'덜거덩대다'의 준말.
+k	덜꺽대다	deolkkeokdaeda	'덜꺼덕대다'의 준말.
+k	덜껑하다	deolkkeonghada	
+k	덜꿩나무	deolkkwongnamu	beech viburnum (Viburnum …
+k	덜렁대다	deolleongdaeda	'덜렁거리다'.
+k	덜룩거리다	deollukgeorida	
+k	덜룩덜룩	deollukdeolluk	
+k	덜썩꿍	deolsseokkkung	
+k	덜썩대다	deolsseokdaeda	
+k	덜컹대다	deolkeongdaeda	'덜컹거리다'(갑자기 놀라거나 겁에 질려서 가…
+k	덤프트럭	deompeuteureok	
+k	덩굴옻나무	deongguronnamu	Asian poison ivy (Toxicod…
+k	덩덩하다	deongdeonghada	
+k	덮는 범위	deomneunbeomwi	
+k	데모크리토스	demokeuritoseu	
+k	델리 술탄국	dellisultanguk	
+k	드라마틱하다	deuramatikhada	
+k	드라비다어족	deurabidaeojok	
+k	드라이브스루	deuraibeuseuru	drive-through
+k	드로호비치주	deurohobichiju	
+k	드륵드륵	deureukdeureuk	
+k	득시글하다	deuksigeulhada	사람이나 동물 따위가 떼로 모여 어수선하고 수…
+k	득실거리다	deuksilgeorida	'득시글거리다'의 준말.
+k	득실득실	deuksildeuksil	'득시글득시글'의 준말.
+k	득실상반	deuksilsangban	(사자성어) 이로움과 해로움이 서로 반반이다.
+k	득의만면	deuguimanmyeon	
+k	득의양양	deuguiyangyang	being smug, being puffed …
+k	듣보기장사	deutbogijangsa	떠돌아다니며 시세를 보며 요행을 바라며 하는 …
+k	들낚시걸이	deullaksigeori	(씨름) 상대편 다리 사이에 다리를 넣으면서 …
+k	들락거리다	deullakgeorida	자꾸 들어왔다 나갔다 하다.
+k	들락날락	deullangnallak	
+k	들멍대다	deulmeongdaeda	'들멍거리다'.
+k	들썩대다	deulsseokdaeda	'들썩거리다'.
+k	들썽하다	deulsseonghada	들뜬 마음이 가라앉지 않다.
+k	들음들음	deureumdeureum	무엇을 조금씩 귀로 들음.
+k	들척대다	deulcheokdaeda	'들척거리다'.
+k	들추어내다	deulchueonaeda	
+k	들충대다	deulchungdaeda	
+k	듬뿌룩하다	deumppurukhada	'더부룩하다'의 비표준어.
+k	등고곡선	deunggogokseon	
+k	등두께선	deungdukkeseon	기압이 다른 두 층 간의 수직 두께값이 같은 …
+k	등등하다	deungdeunghada	
+k	등변선	deungbyeonseon	
+k	등속운동	deungsogundong	속도가 일정한 운동.
+k	등압면도	deungapmyeondo	기압이 일정한 면으로 된 도표 또는 일기도.
+k	등용되다	deungyongdoeda	
+k	등장인물	deungjanginmul	character (in a story or …
+k	등정하다	deungjeonghada	
+k	등줄숭어	deungjulsungeo	The liza, Liza affinis.
+k	등차급수	deungchageupsu	
+k	등차수열	deungchasuyeol	
+k	등치선도	deungchiseondo	
+k	등한시하다	deunghansihada	꼼꼼하게 하지 아니하거나 자세히 들여다보지 아…
+k	등한히 하다	deunghanhihada	
+k	등화가친	deunghwagachin	(사자성어) 등불을 가까이 하기에 좋다. 밤에…
+k	등화관제	deunghwagwanje	
+k	등황색	deunghwangsaek	
+k	등황석	deunghwangseok	
+e	debuccalization	debuccalization	1 meaning
+e	decimal fraction	decimalfraction	1 meaning
+e	decommunization	decommunization	1 meaning
+e	decontamination	decontamination	1 meaning
+e	dedollarization	dedollarization	1 meaning
+e	deficient number	deficientnumber	1 meaning
+e	definite article	definitearticle	1 meaning
+e	defragmentation	defragmentation	1 meaning
+e	deglobalization	deglobalization	1 meaning
+e	degree of freedom	degreeoffreedom	1 meaning
+e	demarcation line	demarcationline	1 meaning
+e	democratization	democratization	1 meaning
+e	demoiselle crane	demoisellecrane	1 meaning
+e	denormalization	denormalization	1 meaning
+e	dental hygienist	dentalhygienist	1 meaning
+e	department store	departmentstore	1 meaning
+e	depleted uranium	depleteduranium	1 meaning
+e	derived function	derivedfunction	1 meaning
+e	dermatophytosis	dermatophytosis	1 meaning
+e	derussification	derussification	1 meaning
+e	desertification	desertification	1 meaning
+e	designer stubble	designerstubble	1 meaning
+e	desktop computer	desktopcomputer	1 meaning
+e	destabilization	destabilization	1 meaning
+e	destalinization	destalinization	1 meaning
+j	デザイナーチャイルド	dezainachairudo	
+j	デジタルデバイド	dejitarudebaido	情報技術を使える人と使えない人との間で得られる情報…
+j	デジタルネイティブ	dejitaruneitibu	コンピュータやテレビゲームなどのデジタル機器が普及…
+j	デモンストレーション	demonsutoreshon	demonstration
+j	データサイエンティスト	detasaientisuto	
+j	出る所へ出る	derutokoroederu	to appeal to the court, p…
+j	電子ニュートリノ	denshinyutorino	an electron neutrino
+j	電子ブックリーダー	denshibukkurida	
+j	電子レンジオーブン	denshirenjiobun	
+j	電子目次本	denshimokujibon	digital song catalog for …
+j	電気発破技士	denkihappagishi	電気発破を行う発破技士。
+j	電波天文学	denpatenmongaku	radio astronomy
+j	電磁スペクトル	denjisupekutoru	
+k	더거덕대다	deogeodeokdaeda	
+k	더드럭대다	deodeureokdaeda	
+k	더뻑거리다	deoppeokgeorida	앞뒤를 헤아리지 않고 자꾸 불쑥불쑥 행동하다.
+k	덜거덕하다	deolgeodeokhada	
+k	덜걱거리다	deolgeokgeorida	'덜거덕거리다'의 준말.
+k	덜그럭하다	deolgeureokhada	
+k	덜껑대다	deolkkeongdaeda	'덜꺼덩대다'의 준말.
+k	덜덜거리다	deoldeolgeorida	춥거나 무서워서 몸이 자꾸 몹시 떨리다. 또는…
+k	덜럭거리다	deolleokgeorida	
+k	덜커덕하다	deolkeodeokhada	
+k	덜컥거리다	deolkeokgeorida	갑자기 놀라거나 겁에 질려 가슴이 내려앉듯이 …
+k	덜퍼덕하다	deolpeodeokhada	
+k	덤불해오라기	deombulhaeoragi	The yellow bittern, Ixobr…
+k	덥석거리다	deopseokgeorida	자꾸 왈칵 달려들어 닁큼 물거나 움켜잡다.
+k	덩굴식물	deonggulsingmul	줄기가 길쭉하여 곧게 서지 않고 다른 물건을 …
+k	덩그렁히	deonggeureonghi	
+k	덩덩대다	deongdeongdaeda	'덩덩거리다'.
+k	덩실거리다	deongsilgeorida	신이 나서 팔다리를 계속 흥겹게 놀리며 춤을 …
+k	덩싯거리다	deongsitgeorida	팔다리를 춤추듯이 잇따라 가볍게 움직이다.
+k	데카브리스트	dekabeuriseuteu	
+k	덱스트로오스	dekseuteurooseu	
+k	덴마크 왕국	denmakeuwangguk	
+k	드네프르 강	deunepeureugang	
+k	드라이브뜨루	deuraibeutteuru	drive-through
+k	드자르진스크	deujarjinseukeu	
+k	득시글대다	deuksigeuldaeda	'득시글거리다'.
+k	들그서내다	deulgeuseonaeda	안에 들어 있는 것을 마구 뒤지며 끄집어내다.
+k	들까불대다	deulkkabuldaeda	'들까불거리다'.
+k	들들거리다	deuldeulgeorida	바퀴 따위가 단단한 바닥을 굴러가는 소리가 자…
+k	들랑날랑	deullangnallang	
+k	들먹거리다	deulmeokgeorida	무거운 물체 따위가 자꾸 들렸다 내려앉았다 하…
+k	들부드레하다	deulbudeurehada	입에 당길 정도의 맛은 없지만 조금 단 맛이 …
+k	들썽대다	deulsseongdaeda	'들썽거리다'.
+k	들찌근하다	deuljjigeunhada	
+k	들축거리다	deulchukgeorida	
+k	들치근하다	deulchigeunhada	'들척지근하다'의 준말.
+k	들크무레하다	deulkeumurehada	
+k	들큰거리다	deulkeungeorida	언짢거나 불쾌한 말로 남의 비위를 자꾸 건드리…
+k	들펀거리다	deulpeongeorida	
+k	등가개념	deunggagaenyeom	
+k	등기명의	deunggimyeongui	
+k	등기필증	deunggipiljeung	
+k	등노점선	deungnojeomseon	
+k	등뇌우시선	deungnoeusiseon	지도와 같은 어떤 도면 위에 뇌우현상이 나타난…
+k	등온변화	deungonbyeonhwa	기체의 온도를 일정하게 유지하면서 그 압력 또…
+k	등우량선	deunguryangseon	
+k	등지고뛰기	deungjigottwigi	(육상) '배면뛰기'의 북한말.
+k	등지느러미	deungjineureomi	
+k	등청하다	deungcheonghada	
+k	등한시되다	deunghansidoeda	
+e	deadly nightshade	deadlynightshade	1 meaning
+e	death certificate	deathcertificate	1 meaning
+e	deathwatch beetle	deathwatchbeetle	1 meaning
+e	declaration of war	declarationofwar	1 meaning
+e	defense mechanism	defensemechanism	1 meaning
+e	definite integral	definiteintegral	1 meaning
+e	degree fahrenheit	degreefahrenheit	1 meaning
+e	delegitimization	delegitimization	1 meaning
+e	demilitarisation	demilitarisation	1 meaning
+e	dendrochronology	dendrochronology	1 meaning
+e	denuclearization	denuclearization	1 meaning
+e	depoliticization	depoliticization	1 meaning
+e	depolymerization	depolymerization	1 meaning
+e	designated hitter	designatedhitter	1 meaning
+e	developed country	developedcountry	1 meaning
+e	developmentalism	developmentalism	1 meaning
+j	できちゃった結婚	dekichattakekkon	shotgun marriage (hurried…
+j	できるだけ早く	dekirudakehayaku	
+j	でるくいはうたれる	derukuihautareru	
+j	デウスエクスマキナ	deusuekusumakina	
+j	デウス・エクス・マキナ	deusuekusumakina	deus ex machina
+j	デジタル教科書	dejitarukyokasho	紙の教科書の補助として、音声や映像の資料を提供する…
+j	デパートメントストア	depatomentosutoa	department store
+j	デンタルクリニック	dentarukurinikku	歯科医院。
+j	データベース管理者	detabesukanrisha	
+j	出る杭は打たれる	derukuiwautareru	他人と違って目立つ人は他人と同じように矯正されると…
+j	出来るだけ早く	dekirudakehayaku	
+j	出来る限り早期	dekirugakirisoki	
+j	電子番組表	denshibangumihyo	放送される番組の一覧をテレビの画面上で確認できる機…
+j	電気化学反応	denkikagakuhanno	電子の授受を伴った化学反応。
+j	電算写植機	densanshashokuki	electronic phototypesetter
+j	電話勧誘販売	denwakanyuhanbai	
+k	더끔더끔	deokkeumdeokkeum	어떤 것에 조금씩 자꾸 더하는 모양.
+k	더덩실대다	deodeongsildaeda	'더덩실거리다'.
+k	더듬거리며	deodeumgeorimyeo	
+k	더듬적대다	deodeumjeokdaeda	'더듬적거리다'.
+k	더부럭거리다	deobureokgeorida	
+k	더부룩더부룩	deoburukdeoburuk	
+k	더북더북하다	deobukdeobukhada	
+k	더불더불하다	deobuldeobulhada	
+k	더뻑더뻑	deoppeokdeoppeok	
+k	덕더그르르	deokdeogeureureu	
+k	덕더글대다	deokdeogeuldaeda	'덕더글거리다'.
+k	덕적덕적	deokjeokdeokjeok	
+k	덕지덕지하다	deokjideokjihada	
+k	덜거덕대다	deolgeodeokdaeda	'덜거덕거리다'.
+k	덜거덩하다	deolgeodeonghada	
+k	덜걱덜걱	deolgeokdeolgeok	
+k	덜겅거리다	deolgeonggeorida	'덜거덩거리다'의 준말.
+k	덜그럭대다	deolgeureokdaeda	'덜그럭거리다'.
+k	덜그렁하다	deolgeureonghada	
+k	덜꺼덕하다	deolkkeodeokhada	
+k	덜꺽거리다	deolkkeokgeorida	'덜꺼덕거리다'의 준말.
+k	덜러덩하다	deolleodeonghada	
+k	덜럭덜럭	deolleokdeolleok	
+k	덜렁거리다	deolleonggeorida	큰 방울이나 매달린 물체 따위가 자꾸 흔들리다…
+k	덜레덜레하다	deolledeollehada	
+k	덜룽덜룽	deollungdeollung	
+k	덜썩거리다	deolsseokgeorida	
+k	덜커덕대다	deolkeodeokdaeda	'덜커덕거리다'.
+k	덜커덩하다	deolkeodeonghada	
+k	덜컥덜컥	deolkeokdeolkeok	'덜커덕덜커덕'의 준말.
+k	덜컹거리다	deolkeonggeorida	갑자기 놀라거나 겁에 질려서 가슴이 몹시 울렁…
+k	덩더러꿍	deongdeoreokkung	
+k	덩드럭하다	deongdeureokhada	
+k	덩실덩실	deongsildeongsil	
+k	덩싯덩싯	deongsitdeongsit	
+k	데드 캣 바운스	dedeukaetbaunseu	
+k	데드맨 장치	dedeumaenjangchi	
+k	데이터 웨어하우스	deiteoweeohauseu	
+k	드라이 클리닝	deuraikeullining	dry cleaning (process of …
+k	드라이클리닝	deuraikeullining	
+k	들고양이고래	deulgoyangigorae	pygmy killer whale (Feres…
+k	들를 수 있는	deulleulsuinneun	
+k	들먹날먹	deulmeongnalmeok	
+k	들먹들먹	deulmeokdeulmeok	
+k	들멍거리다	deulmeonggeorida	손이나 어깨, 엉덩이 따위가 천천히 자꾸 들렸…
+k	들써덕하다	deulsseodeokhada	
+k	들썩거리다	deulsseokgeorida	묵직한 물건이 자꾸 떠들렸다 가라앉았다 하다.…
+k	들쑥날쑥	deulssungnalssuk	
+k	들쭉날쭉	deuljjungnaljjuk	
+k	들척거리다	deulcheokgeorida	이리저리 자꾸 들추어 뒤지다.
+k	들추덕대다	deulchudeokdaeda	
+k	들축들축	deulchukdeulchuk	
+k	들충거리다	deulchunggeorida	
+k	들큰들큰	deulkeundeulkeun	
+k	들펀들펀	deulpeondeulpeon	
+k	듬뿍듬뿍	deumppukdeumppuk	
+k	듬숭듬숭	deumsungdeumsung	
+k	듬쑥듬쑥	deumssukdeumssuk	
+k	등자력선	deungjaryeokseon	
+k	등풍속선	deungpungsokseon	일기도 또는 도표 상에서 풍속이 같은 곳을 연…
+k	등하불명	deunghabulmyeong	(사자성어) 등불 아래는 밝지 않다. 자기 바…
+e	declaration of will	declarationofwill	1 meaning
+e	decriminalization	decriminalization	1 meaning
+e	demilitarized zone	demilitarizedzone	1 meaning
+e	dependency grammar	dependencygrammar	1 meaning
+e	desktop publishing	desktoppublishing	1 meaning
+e	devanagari numeral	devanagarinumeral	1 meaning
+e	developing country	developingcountry	1 meaning
+j	でんごんをたのまれる	dengonotanomareru	伝言を頼まれる: To be given a me…
+j	デカルトの円定理	dekarutonoenteiri	曲率がk_1,k_2,k_3,k_4である四円が互…
+j	デジタルデトックス	dejitarudetokkusu	一定の期間、コンピュータや携帯電話、インターネット…
+j	デッド・キャット・バウンス	deddokyattobaunsu	
+j	デフラグメンテーション	defuragumenteshon	
+j	出る釘は打たれる	derukugiwautareru	the nail that sticks out …
+j	電子メールアドレス	denshimeruadoresu	
+j	電子商取引	denshishotorihiki	
+j	電気工事士免状	denkikojishimenjo	電気工事を行うことについての許可を証する書面等、電…
+k	더거덕거리다	deogeodeokgeorida	
+k	더드럭거리다	deodeureokgeorida	
+k	더러운 전쟁	deoreounjeonjaeng	
+k	던적스럽다	deonjeokseureopda	하는 짓이 보기에 매우 치사하고 더러운 데가 …
+k	덜거덩대다	deolgeodeongdaeda	'덜거덩거리다'.
+k	덜그렁대다	deolgeureongdaeda	'덜그렁거리다'.
+k	덜꺼덕대다	deolkkeodeokdaeda	'덜꺼덕거리다'.
+k	덜꺼덩하다	deolkkeodeonghada	
+k	덜껑거리다	deolkkeonggeorida	'덜꺼덩거리다'의 준말.
+k	덜러덩대다	deolleodeongdaeda	'덜러덩거리다'.
+k	덜커덩대다	deolkeodeongdaeda	'덜커덩거리다'.
+k	덩굴별꽃	deonggulbyeolkkot	
+k	덩그럭대다	deonggeureokdaeda	
+k	덩그렁하다	deonggeureonghada	
+k	덩더꿍하다	deongdeokkunghada	
+k	덩덩거리다	deongdeonggeorida	북이나 장구, 소고 따위를 치는 소리가 자꾸 …
+k	덩드럭대다	deongdeureokdaeda	'덩드럭거리다'.
+k	데옥시리보핵산	deoksiribohaeksan	'디엔에이'.
+k	데우스 엑스 마키나	deuseuekseumakina	
+k	드럼통 폭탄	deureomtongpoktan	
+k	득시글거리다	deuksigeulgeorida	사람이나 동물 따위가 떼로 모여 자꾸 어수선하…
+k	들까불거리다	deulkkabulgeorida	자꾸 위아래로 심하게 흔들다.
+k	들를 수 없는	deulleulsueomneun	
+k	들면날면	deulmyeonnalmyeon	
+k	들써덕대다	deulsseodeokdaeda	
+k	들썩쿵하다	deulsseokkunghada	
+k	들썽거리다	deulsseonggeorida	가라앉지 않고 어수선하게 자꾸 들뜨다
+k	들쩍지근히	deuljjeokjigeunhi	
+k	들쭝날쭝	deuljjungnaljjung	
+k	등개화일선	deunggaehwailseon	식물의 꽃이 피는 날이 같은 곳을 연결한 선.
+k	등걸음치다	deunggeoreumchida	시체를 옮겨 가다. 시체를 세워 걷게 할 수 …
+k	등살힘재개	deungsalhimjaegae	허리 힘을 재는 기구를 이르는 북한말.
+k	등온위변화	deungonwibyeonhwa	계(系, system)의 에너지 중에서 일로 …
+k	등온팽창	deungonpaengchang	부피가 커지는 등온변화로, 이 때 압력은 낮아…
+k	등축정계	deungchukjeonggye	
+k	등편차선	deungpyeonchaseon	일기도 또는 도표 상에서 어떤 기상요소의 평균…
+k	등혼합비선	deunghonhapbiseon	일기도 상에서 혼합비가 같은 곳을 연결한 선.
+e	dead men tell no tales	deadmentellnotales	1 meaning
+e	deductive reasoning	deductivereasoning	1 meaning
+e	degree of ionization	degreeofionization	1 meaning
+j	できる限り急いで	dekirukagiriisoide	
+j	デザイナーの無精ひげ	dezainanobushohige	
+j	デジタルイミグラント	dejitaruimiguranto	デジタルネイティブではなく、成人してからデジタル機…
+j	デジタル人文学	dejitarujinbungaku	
+j	デスクトップパソコン	desukutoppupasokon	a desktop computer
+j	デットエクイティスワップ	dettoekuitisuwappu	負債と資本との交換。
+k	더더귀더더귀	deodeogwideodeogwi	'더덕더덕'의 본말.
+k	더덕더덕하다	deodeokdeodeokhada	
+k	더덜더덜하다	deodeoldeodeolhada	
+k	더덩실거리다	deodeongsilgeorida	팔이나 다리 따위를 가볍게 흔들며 잇따라 춤을…
+k	더듬더듬하다	deodeumdeodeumhada	
+k	더듬적거리다	deodeumjeokgeorida	무엇을 찾거나 알아보려고 느릿느릿하게 손으로 …
+k	더벅더벅하다	deobeokdeobeokhada	
+k	더부럭더부럭	deobureokdeobureok	
+k	더퍽더퍽하다	deopeokdeopeokhada	
+k	더펄더펄하다	deopeoldeopeolhada	
+k	덕더글거리다	deokdeogeulgeorida	크고 단단한 물건이 다른 단단한 물체에 부딪치…
+k	덜거덕거리다	deolgeodeokgeorida	크고 단단한 물건이 맞부딪치는 소리가 자꾸 나…
+k	덜겅덜겅	deolgeongdeolgeong	
+k	덜그럭거리다	deolgeureokgeorida	크고 단단한 물건이 부딪쳐 흔들리면서 맞닿는 …
+k	덜꺼덩대다	deolkkeodeongdaeda	'덜꺼덩거리다'.
+k	덜꺽덜꺽	deolkkeokdeolkkeok	
+k	덜렁덜렁	deolleongdeolleong	
+k	덜룩덜룩하다	deollukdeollukhada	
+k	덜썩꿍하다	deolsseokkkunghada	
+k	덜썩덜썩	deolsseokdeolsseok	
+k	덜적지근하다	deoljeokjigeunhada	
+k	덜커덕거리다	deolkeodeokgeorida	크고 단단한 물건이 맞부딪치는 소리가 자꾸 나…
+k	덜컹덜컹	deolkeongdeolkeong	'덜커덩덜커덩'의 준말.
+k	덩그렁대다	deonggeureongdaeda	
+k	덩더꿍대다	deongdeokkungdaeda	'덩더꿍거리다'.
+k	득실득실하다	deuksildeuksilhada	
+k	득의만면하다	deuguimanmyeonhada	
+k	득의양양하다	deuguiyangyanghada	to be smug, to be puffed …
+k	들락날락하다	deullangnallakhada	
+k	들멍들멍	deulmeongdeulmeong	손이나 어깨, 엉덩이 따위가 잇따라 천천히 들…
+k	들썩들썩	deulsseokdeulsseok	
+k	들어다리당기기	deureodaridanggigi	(씨름) '들안아놓기'의 북한말.
+k	들척들척	deulcheokdeulcheok	자꾸 이리저리 들추어 뒤지는 모양.
+k	들추덕거리다	deulchudeokgeorida	
+k	들충들충	deulchungdeulchung	
+k	듬성듬성	deumseongdeumseong	매우 드물고 성긴 모양.
+k	등뇌우빈도선	deungnoeubindoseon	전국을 일정격자로 나누어 뇌우발생일 수 분포를…
+k	등두께이류선	deungdukkeiryuseon	두께(층후) 이류값이 같은 지점을 연결한 선.
+k	등압면일기도	deungapmyeonilgido	어느 등압면 상에 등고선, 등온선, 등이슬점선…
+k	등이슬점선	deungiseuljeomseon	이슬점온도가 같은 곳을 연결한 선.
+k	등풍향선	deungpunghyangseon	일기도 또는 도표 상에서 풍향이 같은 곳을 연…
+e	defensive midfielder	defensivemidfielder	1 meaning
+e	deindustrialization	deindustrialization	1 meaning
+j	デオキシリボ核酸	deokishiribokakusan	deoxyribonucleic acid
+k	덜거덩거리다	deolgeodeonggeorida	크고 단단한 물건이 부딪쳐 울리는 소리가 자꾸…
+k	덜그렁거리다	deolgeureonggeorida	얇고 큰 쇠붙이 따위가 맞부딪치거나 스쳐 울리…
+k	덜꺼덕거리다	deolkkeodeokgeorida	크고 단단한 물건이 맞부딪치는 소리가 자꾸 나…
+k	덜러덩거리다	deolleodeonggeorida	크고 단단한 물건들이 느리게 흔들리면서 서로 …
+k	덜커덩거리다	deolkeodeonggeorida	크고 단단한 물건이 부딪쳐 울리는 소리가 자꾸…
+k	덩그럭거리다	deonggeureokgeorida	
+k	덩드럭거리다	deongdeureokgeorida	잘난 체하며 자꾸 함부로 굴다.
+k	들랑날랑하다	deullangnallanghada	'들락날락하다'
+k	들써덕거리다	deulsseodeokgeorida	
+k	들쩍지근하다	deuljjeokjigeunhada	
+k	들창코원숭이	deulchangkowonsungi	snub-nosed monkey
+k	들척지근하다	deulcheokjigeunhada	
+k	등기압하강선	deunggiaphagangseon	
+k	등압면분석	deungapmyeonbunseok	등압면일기도(상층일기도)에 등고선, 등온선, …
+k	등잔 밑이 어둡다	deungjanmitieodupda	옛날에 등잔불을 켜고 살던 시절에, 어두운 곳…
+e	deceptive advertising	deceptiveadvertising	1 meaning
+e	democratic centralism	democraticcentralism	1 meaning
+e	demonstrative pronoun	demonstrativepronoun	1 meaning
+e	deoxyribonucleic acid	deoxyribonucleicacid	1 meaning
+e	descriptive adjective	descriptiveadjective	1 meaning
+j	デスクトップマスコット	desukutoppumasukotto	desktop mascot (interacti…
+k	더거덕더거덕	deogeodeokdeogeodeok	
+k	더드럭더드럭	deodeureokdeodeureok	
+k	더부룩더부룩하다	deoburukdeoburukhada	
+k	더블브레스티드	deobeulbeureseutideu	
+k	더뻑더뻑하다	deoppeokdeoppeokhada	
+k	덕더그르르하다	deokdeogeureureuhada	
+k	덕적덕적하다	deokjeokdeokjeokhada	
+k	덜걱덜걱하다	deolgeokdeolgeokhada	'덜거덕덜거덕하다'의 준말.
+k	덜꺼덩거리다	deolkkeodeonggeorida	크고 단단한 물건이 부딪쳐 울리는 소리가 자꾸…
+k	덜껑덜껑	deolkkeongdeolkkeong	'덜꺼덩덜꺼덩'의 준말.
+k	덜럭덜럭하다	deolleokdeolleokhada	
+k	덜컥덜컥하다	deolkeokdeolkeokhada	'덜커덕덜커덕하다'의 준말.
+k	덩그렁거리다	deonggeureonggeorida	
+k	덩더꿍거리다	deongdeokkunggeorida	북이나 장구 따위를 흥겹게 두드리는 소리가 자…
+k	덩실덩실하다	deongsildeongsilhada	
+k	덩싯덩싯하다	deongsitdeongsithada	
+k	득시글득시글	deuksigeuldeuksigeul	사람이나 동물 따위가 떼로 모여 어수선하게 자…
+k	들까불들까불	deulkkabuldeulkkabul	
+k	들먹들먹하다	deulmeokdeulmeokhada	
+k	들썽들썽	deulsseongdeulsseong	
+k	들쑥날쑥하다	deulssungnalssukhada	uneven; not smooth
+k	들쭉날쭉하다	deuljjungnaljjukhada	to be uneven
+k	들축들축하다	deulchukdeulchukhada	
+k	들큰들큰하다	deulkeundeulkeunhada	
+k	들펀들펀하다	deulpeondeulpeonhada	
+k	듬뿍듬뿍하다	deumppukdeumppukhada	
+k	듬숭듬숭하다	deumsungdeumsunghada	
+k	듬쑥듬쑥하다	deumssukdeumssukhada	
+k	등강수량선	deunggangsuryangseon	일기도 또는 도표상에서 어느 기간 내의 강수량…
+k	등결빙일선	deunggyeolbingilseon	기온이 하강하여 얼음이 어는 날이 같은 곳을 …
+k	등고도면일기도	deunggodomyeonilgido	수평면(등지오퍼텐셜면)위에 기상요소의 분포를 …
+k	등변사다리꼴	deungbyeonsadarikkol	
+e	decompression sickness	decompressionsickness	1 meaning
+j	伝送制御プロトコル	densoseigyopurotokoru	Transmission Control Prot…
+j	伝達関数行列	dentatsukansugyoretsu	線型時不変系の状態空間表現を用いてラプラス領域で …
+j	電動アシスト自転車	dendoashisutojitensha	電力によって力行を補助する自転車で一定速度に達する…
+j	電界効果トランジスタ	denkaikokatoranjisuta	トランジスタの一種。電子・正孔の片方のみがキャリア…
+j	電話番号は何ですか	denwabangowanandesuka	
+k	덩굴닭의장풀	deongguldalguijangpul	
+k	데스크톱 컴퓨터	deseukeutopkeompyuteo	
+k	들면날면하다	deulmyeonnalmyeonhada	
+k	들이치락내치락	deurichirangnaechirak	
+k	들쭝날쭝하다	deuljjungnaljjunghada	
+k	등고도 변화선	deunggodobyeonhwaseon	등압면일기도 위에 어떤 시간 내의 고도변화가 …
+k	등기압변화선	deunggiapbyeonhwaseon	종관일기도 위에서 어떤 시간 내(보통 과거 3…
+k	등뇌전빈도선	deungnoejeonbindoseon	뇌전 발생 빈도가 같은 곳을 연결한 선.
+k	등온도변화선	deungondobyeonhwaseon	일기도 또는 도표 에서 온도의 변화가 같은 지…
+k	등온위면 분석	deungonwimyeonbunseok	등온위면 일기도를 작성하여 이것을 기초로 대기…
+e	demonstrative adjective	demonstrativeadjective	1 meaning
+j	デジタルアナログコンバータ	dejitaruanarogukonbata	
+j	伝染性単核球症	densenseitankakukyusho	
+k	더더귀더더귀하다	deodeogwideodeogwihada	
+k	더덩실더덩실	deodeongsildeodeongsil	
+k	더듬적더듬적	deodeumjeokdeodeumjeok	
+k	더부럭더부럭하다	deobureokdeobureokhada	
+k	덕더글덕더글	deokdeogeuldeokdeogeul	
+k	덕택에 잘 지냅니다	deoktaegejaljinaemnida	
+k	덜거덕덜거덕	deolgeodeokdeolgeodeok	
+k	덜겅덜겅하다	deolgeongdeolgeonghada	
+k	덜그럭덜그럭	deolgeureokdeolgeureok	
+k	덜꺽덜꺽하다	deolkkeokdeolkkeokhada	
+k	덜렁덜렁하다	deolleongdeolleonghada	
+k	덜썩덜썩하다	deolsseokdeolsseokhada	
+k	덜커덕덜커덕	deolkeodeokdeolkeodeok	
+k	덜컹덜컹하다	deolkeongdeolkeonghada	'덜커덩거리다'의 준말.
+k	덤프리스 갤러웨이	deompeuriseugaelleowei	
+k	드르렁드르렁	deureureongdeureureong	repeatedly snoring loudly
+k	들멍들멍하다	deulmeongdeulmeonghada	
+k	들썩들썩하다	deulsseokdeulsseokhada	
+k	들척들척하다	deulcheokdeulcheokhada	
+k	들추덕들추덕	deulchudeokdeulchudeok	
+k	들충들충하다	deulchungdeulchunghada	
+k	듬성듬성하다	deumseongdeumseonghada	
+k	등기압상승선	deunggiapsangseungseon	
+e	demonstrative determiner	demonstrativedeterminer	1 meaning
+e	developmental disability	developmentaldisability	1 meaning
+j	デジタルトランスフォーメーション	dejitarutoransufomeshon	digital transformation
+j	デジタル著作権管理	dejitaruchosakukenkanri	
+j	デスクトップパブリッシング	desukutoppupaburisshingu	desktop publishing
+k	더거덕더거덕하다	deogeodeokdeogeodeokhada	
+k	더드럭더드럭하다	deodeureokdeodeureokhada	
+k	덜거덩덜거덩	deolgeodeongdeolgeodeong	
+k	덜그렁덜그렁	deolgeureongdeolgeureong	
+k	덜꺼덕덜꺼덕	deolkkeodeokdeolkkeodeok	
+k	덜껑덜껑하다	deolkkeongdeolkkeonghada	'덜꺼덩덜꺼덩하다'의 준말.
+k	덜러덩덜러덩	deolleodeongdeolleodeong	
+k	덜커덩덜커덩	deolkeodeongdeolkeodeong	
+k	덩그럭덩그럭	deonggeureokdeonggeureok	
+k	덩드럭덩드럭	deongdeureokdeongdeureok	
+k	득시글득시글하다	deuksigeuldeuksigeulhada	
+k	들까불들까불하다	deulkkabuldeulkkabulhada	
+k	들써덕들써덕	deulsseodeokdeulsseodeok	
+k	들썽들썽하다	deulsseongdeulsseonghada	
+j	電源開発促進税	dengenkaihatsusokushinzei	日本国の「電源開発促進税法」（昭和49年法律第79…
+k	덕분에 잘 지내고 있어요	deokbunejaljinaegoisseoyo	
+k	들이치락내치락하다	deurichirangnaechirakhada	
+j	電気的録音録画物	denkitekirokuonrokugabutsu	
+k	더듬적더듬적하다	deodeumjeokdeodeumjeokhada	
+k	덕더글덕더글하다	deokdeogeuldeokdeogeulhada	
+k	덕택에 잘 지냈습니다	deoktaegejaljinaetseumnida	
+k	덜거덕덜거덕하다	deolgeodeokdeolgeodeokhada	
+k	덜그럭덜그럭하다	deolgeureokdeolgeureokhada	
+k	덜꺼덩덜꺼덩	deolkkeodeongdeolkkeodeong	
+k	덜커덕덜커덕하다	deolkeodeokdeolkeodeokhada	
+k	덩그렁덩그렁	deonggeureongdeonggeureong	
+k	덩더꿍덩더꿍	deongdeokkungdeongdeokkung	
+k	들썩쿵들썩쿵	deulsseokkungdeulsseokkung	
+k	들추덕들추덕하다	deulchudeokdeulchudeokhada	
+e	democratic republic of the congo	democraticrepublicofthecongo	1 meaning
+j	電気通信主任技術者	denkitsushinshuningijutsusha	事業用の電気通信設備の維持、運用、監督をする者。
+k	덜거덩덜거덩하다	deolgeodeongdeolgeodeonghada	
+k	덜그렁덜그렁하다	deolgeureongdeolgeureonghada	
+k	덜꺼덕덜꺼덕하다	deolkkeodeokdeolkkeodeokhada	
+k	덜러덩덜러덩하다	deolleodeongdeolleodeonghada	
+k	덜썩꿍덜썩꿍	deolsseokkkungdeolsseokkkung	
+k	덜커덩덜커덩하다	deolkeodeongdeolkeodeonghada	
+k	덩그럭덩그럭하다	deonggeureokdeonggeureokhada	
+k	덩드럭덩드럭하다	deongdeureokdeongdeureokhada	
+k	들써덕들써덕하다	deulsseodeokdeulsseodeokhada	
+j	デュアルクラッチトランスミッション	deyuarukuratchitoransumisshon	自動車やオートバイなどで偶数段と奇数段のギアにそれ…
+k	덜꺼덩덜꺼덩하다	deolkkeodeongdeolkkeodeonghada	
+k	덩그렁덩그렁하다	deonggeureongdeonggeureonghada	
+k	덩더꿍덩더꿍하다	deongdeokkungdeongdeokkunghada	
+k	들썩쿵들썩쿵하다	deulsseokkungdeulsseokkunghada	
+e	democratic people's republic of korea	democraticpeoplesrepublicofkorea	1 meaning
+k	덜썩꿍덜썩꿍하다	deolsseokkkungdeolsseokkkunghada	
+e	democratic socialist republic of sri lanka	democraticsocialistrepublicofsrilanka	1 meaning

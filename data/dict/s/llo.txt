@@ -1,0 +1,276 @@
+e	lo	lo	1 meaning
+e	loa	loa	1 meaning
+e	log	log	6 meanings
+e	lol	lol	2 meanings
+e	lomé	lom	1 meaning
+e	lot	lot	2 meanings
+e	low	low	5 meanings
+e	-logy	logy	1 meaning
+e	load	load	8 meanings
+e	loaf	loaf	1 meaning
+e	loam	loam	1 meaning
+e	loan	loan	1 meaning
+e	lock	lock	4 meanings
+e	lode	lode	1 meaning
+e	lodz	lodz	1 meaning
+e	loft	loft	1 meaning
+e	logo	logo	1 meaning
+e	loin	loin	1 meaning
+e	lois	lois	1 meaning
+e	loki	loki	1 meaning
+e	loli	loli	1 meaning
+e	lolo	lolo	1 meaning
+e	lone	lone	1 meaning
+e	long	long	4 meanings
+e	look	look	6 meanings
+e	loom	loom	2 meanings
+e	loon	loon	1 meaning
+e	loop	loop	2 meanings
+e	lord	lord	4 meanings
+e	lose	lose	5 meanings
+e	loss	loss	5 meanings
+e	lost	lost	1 meaning
+e	loud	loud	3 meanings
+e	love	love	5 meanings
+e	lobby	lobby	2 meanings
+e	local	local	3 meanings
+e	locus	locus	1 meaning
+e	lodge	lodge	2 meanings
+e	lodève	lodve	1 meaning
+e	loess	loess	1 meaning
+e	lofty	lofty	2 meanings
+e	log in	login	1 meaning
+e	logic	logic	3 meanings
+e	login	login	2 meanings
+e	logos	logos	1 meaning
+e	loire	loire	1 meaning
+e	loner	loner	1 meaning
+e	longe	longe	2 meanings
+e	looks	looks	1 meaning
+e	loose	loose	1 meaning
+e	lopez	lopez	1 meaning
+e	loser	loser	3 meanings
+e	lossy	lossy	1 meaning
+e	lotto	lotto	1 meaning
+e	lotus	lotus	1 meaning
+e	louis	louis	1 meaning
+e	loupe	loupe	1 meaning
+e	louse	louse	1 meaning
+e	loved	loved	1 meaning
+e	lover	lover	3 meanings
+e	lower	lower	2 meanings
+e	loyal	loyal	1 meaning
+e	-logist	logist	1 meaning
+e	loafer	loafer	2 meanings
+e	loathe	loathe	1 meaning
+e	lochia	lochia	1 meaning
+e	lock up	lockup	1 meaning
+e	locked	locked	1 meaning
+e	locker	locker	1 meaning
+e	locket	locket	1 meaning
+e	locust	locust	1 meaning
+e	log out	logout	1 meaning
+e	logout	logout	1 meaning
+e	logroño	logroo	1 meaning
+e	lojban	lojban	1 meaning
+e	lolcat	lolcat	1 meaning
+e	lolita	lolita	2 meanings
+e	london	london	3 meanings
+e	lonely	lonely	2 meanings
+e	longan	longan	2 meanings
+e	longyi	longyi	1 meaning
+e	loofah	loofah	1 meaning
+e	look up	lookup	2 meanings
+e	loosen	loosen	1 meaning
+e	loquat	loquat	2 meanings
+e	lotion	lotion	1 meaning
+e	loudly	loudly	1 meaning
+e	lounge	lounge	3 meanings
+e	louvre	louvre	1 meaning
+e	lovage	lovage	1 meaning
+e	lovely	lovely	2 meanings
+e	loving	loving	1 meaning
+e	low-fat	lowfat	1 meaning
+e	lobamba	lobamba	1 meaning
+e	lobelia	lobelia	1 meaning
+e	lobster	lobster	1 meaning
+e	lockout	lockout	1 meaning
+e	lodging	lodging	1 meaning
+e	logbook	logbook	2 meanings
+e	lolicon	lolicon	1 meaning
+e	lombard	lombard	2 meanings
+e	long ago	longago	1 meaning
+e	long for	longfor	1 meaning
+e	long pig	longpig	1 meaning
+e	long ton	longton	1 meaning
+e	longbow	longbow	1 meaning
+e	longing	longing	1 meaning
+e	look for	lookfor	1 meaning
+e	lookism	lookism	1 meaning
+e	loot box	lootbox	1 meaning
+e	lopseed	lopseed	1 meaning
+e	lottery	lottery	1 meaning
+e	lovable	lovable	1 meaning
+e	love egg	loveegg	1 meaning
+e	low tide	lowtide	1 meaning
+e	low-born	lowborn	1 meaning
+e	lowdown	lowdown	1 meaning
+e	lowland	lowland	1 meaning
+e	loyalty	loyalty	2 meanings
+e	lozenge	lozenge	2 meanings
+e	loanword	loanword	1 meaning
+e	loathing	loathing	1 meaning
+e	lobbyist	lobbyist	1 meaning
+e	lobotomy	lobotomy	1 meaning
+e	localism	localism	1 meaning
+e	localize	localize	1 meaning
+e	location	location	2 meanings
+e	loch ness	lochness	1 meaning
+e	lock pick	lockpick	1 meaning
+e	lockdown	lockdown	1 meaning
+e	lodestar	lodestar	2 meanings
+e	lodicule	lodicule	1 meaning
+e	log cabin	logcabin	1 meaning
+e	logician	logician	1 meaning
+e	logogram	logogram	1 meaning
+e	logotype	logotype	1 meaning
+e	lollipop	lollipop	1 meaning
+e	lombardy	lombardy	1 meaning
+e	londoner	londoner	1 meaning
+e	lone wolf	lonewolf	3 meanings
+e	lonesome	lonesome	1 meaning
+e	long jump	longjump	1 meaning
+e	long-term	longterm	1 meaning
+e	longjing	longjing	1 meaning
+e	longline	longline	1 meaning
+e	longship	longship	1 meaning
+e	longwave	longwave	1 meaning
+e	look back	lookback	1 meaning
+e	look like	looklike	1 meaning
+e	look over	lookover	1 meaning
+e	look up to	lookupto	1 meaning
+e	loophole	loophole	2 meanings
+e	lord's day	lordsday	1 meaning
+e	lorraine	lorraine	1 meaning
+e	lose face	loseface	1 meaning
+e	lossless	lossless	1 meaning
+e	loudness	loudness	2 meanings
+e	louis d'or	louisdor	1 meaning
+e	love nest	lovenest	1 meaning
+e	love song	lovesong	1 meaning
+e	love-hate	lovehate	1 meaning
+e	lovebird	lovebird	1 meaning
+e	low-speed	lowspeed	1 meaning
+e	lower lip	lowerlip	1 meaning
+e	loan shark	loanshark	1 meaning
+e	loathsome	loathsome	1 meaning
+e	locksmith	locksmith	1 meaning
+e	logarithm	logarithm	1 meaning
+e	logic gate	logicgate	1 meaning
+e	logistics	logistics	2 meanings
+e	loincloth	loincloth	1 meaning
+e	long beach	longbeach	1 meaning
+e	long johns	longjohns	1 meaning
+e	longevity	longevity	1 meaning
+e	longitude	longitude	2 meanings
+e	longsword	longsword	1 meaning
+e	longueuil	longueuil	1 meaning
+e	look after	lookafter	1 meaning
+e	lookalike	lookalike	1 meaning
+e	looseleaf	looseleaf	1 meaning
+e	lose count	losecount	1 meaning
+e	lost media	lostmedia	1 meaning
+e	lotus land	lotusland	1 meaning
+e	lotus seed	lotusseed	1 meaning
+e	louisiana	louisiana	1 meaning
+e	love child	lovechild	1 meaning
+e	love grass	lovegrass	1 meaning
+e	love hotel	lovehotel	1 meaning
+e	low german	lowgerman	1 meaning
+e	low-budget	lowbudget	1 meaning
+e	low-income	lowincome	1 meaning
+e	lower back	lowerback	1 meaning
+e	lower case	lowercase	1 meaning
+e	local color	localcolor	1 meaning
+e	local group	localgroup	1 meaning
+e	locomotive	locomotive	1 meaning
+e	loir-et-cher	loiretcher	1 meaning
+e	loneliness	loneliness	1 meaning
+e	long island	longisland	1 meaning
+e	long jumper	longjumper	1 meaning
+e	long-legged	longlegged	1 meaning
+e	long-winded	longwinded	1 meaning
+e	look around	lookaround	1 meaning
+e	look down on	lookdownon	1 meaning
+e	loquacious	loquacious	1 meaning
+e	los angeles	losangeles	1 meaning
+e	lose weight	loseweight	1 meaning
+e	loss leader	lossleader	1 meaning
+e	louisville	louisville	1 meaning
+e	love affair	loveaffair	1 meaning
+e	love letter	loveletter	1 meaning
+e	low-pitched	lowpitched	1 meaning
+e	low-quality	lowquality	1 meaning
+e	lower class	lowerclass	1 meaning
+e	lower egypt	loweregypt	1 meaning
+e	lower house	lowerhouse	1 meaning
+e	lo and behold	loandbehold	1 meaning
+e	lock picking	lockpicking	1 meaning
+e	londonistan	londonistan	1 meaning
+e	long long ago	longlongago	1 meaning
+e	long-sleeved	longsleeved	1 meaning
+e	look and feel	lookandfeel	1 meaning
+e	look daggers	lookdaggers	1 meaning
+e	lookup table	lookuptable	1 meaning
+e	loose change	loosechange	1 meaning
+e	lord's prayer	lordsprayer	1 meaning
+e	loudspeaker	loudspeaker	1 meaning
+e	love is blind	loveisblind	1 meaning
+e	love-in-a-mist	loveinamist	1 meaning
+e	lower saxony	lowersaxony	1 meaning
+e	loyalty card	loyaltycard	1 meaning
+e	localization	localization	2 meanings
+e	locative case	locativecase	1 meaning
+e	lollipop lady	lollipoplady	1 meaning
+e	long-eared owl	longearedowl	1 meaning
+e	longitudinal	longitudinal	2 meanings
+e	longshoreman	longshoreman	1 meaning
+e	lose one's mind	loseonesmind	1 meaning
+e	lost and found	lostandfound	1 meaning
+e	love triangle	lovetriangle	1 meaning
+e	low countries	lowcountries	1 meaning
+e	lower reaches	lowerreaches	1 meaning
+e	lolita fashion	lolitafashion	1 meaning
+e	long time no see	longtimenosee	1 meaning
+e	long-suffering	longsuffering	1 meaning
+e	long-tailed tit	longtailedtit	1 meaning
+e	long-toed stint	longtoedstint	1 meaning
+e	look forward to	lookforwardto	1 meaning
+e	lottery ticket	lotteryticket	1 meaning
+e	lotus position	lotusposition	1 meaning
+e	low earth orbit	lowearthorbit	1 meaning
+e	locative adverb	locativeadverb	1 meaning
+e	loggerhead duck	loggerheadduck	1 meaning
+e	loire-inférieure	loireinfrieure	1 meaning
+e	long-tailed duck	longtailedduck	1 meaning
+e	longhorn beetle	longhornbeetle	1 meaning
+e	lose one's temper	loseonestemper	1 meaning
+e	lost generation	lostgeneration	1 meaning
+e	low-cost carrier	lowcostcarrier	1 meaning
+e	local government	localgovernment	1 meaning
+e	look who's talking	lookwhostalking	1 meaning
+e	local area network	localareanetwork	1 meaning
+e	longitudinal wave	longitudinalwave	1 meaning
+e	love at first sight	loveatfirstsight	1 meaning
+e	love-lies-bleeding	loveliesbleeding	1 meaning
+e	low-level language	lowlevellanguage	1 meaning
+e	london underground	londonunderground	1 meaning
+e	long island iced tea	longislandicedtea	1 meaning
+e	lose one's virginity	loseonesvirginity	1 meaning
+e	longnose lancetfish	longnoselancetfish	1 meaning
+e	look before one leaps	lookbeforeoneleaps	1 meaning
+e	long-billed dowitcher	longbilleddowitcher	1 meaning
+e	lowest common denominator	lowestcommondenominator	2 meanings
+e	long-distance relationship	longdistancerelationship	1 meaning
+e	lookers-on see most of the game	lookersonseemostofthegame	1 meaning
+e	low-temperature flexibility	lowtemperatureflexibility	1 meaning

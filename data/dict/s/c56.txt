@@ -1,0 +1,2525 @@
+j	丸	丸	丸, 円: a circle
+j	伸	伸	a male given name
+j	俸	俸	salary
+j	典	典	ceremony
+j	凸	凸	convex
+j	券	券	ticket, certificate
+j	司	司	a male given name
+j	嘸	嘸	no doubt, certainly, sure…
+j	噸	噸	トン: ton
+j	圸	圸	cliff
+j	奸	奸	wicked
+j	寸	寸	a Japanese measurement of…
+j	尸	尸	（しかばね、かばね）死んだ人の体。死体。死骸。
+j	岸	岸	water's edge, bank, coast…
+j	常	常	always, constantly, consi…
+j	幸	幸	good luck, good fortune; …
+j	庸	庸	ordinary; commonplace
+j	戸	戸	door; a plate placed on d…
+j	書	書	document
+j	核	核	atomic nucleus
+j	楸	楸	synonym of 楸 (kisasage, “…
+j	永	永	long (time)
+j	灸	灸	moxibustion
+j	狸	狸	a raccoon dog, Nyctereute…
+j	癸	癸	the tenth of the ten heav…
+j	相	相	nature, personality, char…
+j	箸	箸	chopsticks, a chopstick
+j	糸	糸	thread
+j	胸	胸	chest, breast
+j	腸	腸	the intestines
+j	艸	艸	草に同じ。
+j	芸	芸	art, craft, technique, pe…
+j	茸	茸	a mushroom
+j	蛸	蛸	octopus
+j	裸	裸	nakedness; nudity; not be…
+j	諸	諸	various, all the
+j	軸	軸	axis
+j	逸	逸	very, excellent
+j	選	選	selection
+j	酸	酸	sourness (quality or cond…
+j	鈸	鈸	Buddhist cymbals
+j	鋸	鋸	a saw (tool)
+j	鐸	鐸	an ancient bell with a lo…
+j	陸	陸	flat, not steep
+j	骸	骸	
+j	鱸	鱸	Japanese sea bass
+j	鶸	鶸	a finch of genus Cardueli…
+j	鷸	鷸	（しぎ）チドリ目シギ科に属する渉禽類。
+j	麸	麸	
+k	간	奸	for
+k	계	癸	kye, a Korean rotating sa…
+k	다니엘서	書	
+k	륙	陸	'육'의 북한말.
+k	산	酸	mountain
+k	상	相	top, best, first (grade o…
+k	수	數	way, means, possibility, …
+k	영	永	zero
+k	육	陸	six
+k	장	腸	sauce; marmalade; jam; co…
+k	제	諸	allomorph of 저 (jeo, firs…
+k	창	腸	window
+k	청	淸	request
+k	촌	寸	village
+k	축	軸	axis
+k	패	霸	defeat; loss
+k	학	學	crane (bird)
+k	핵	核	core, kernel; centre
+k	호	戸	number, issue, edition (o…
+k	홀수	數	2로 나누었을 때 나머지가 1이 되는 수.
+k	흉	胸	chest
+j	丸々	丸々	entirely, completely, who…
+j	丸い	丸い	
+j	丸で	丸で	
+j	丸め	丸め	
+j	丸丹	丸丹	（丸薬の）丹薬。
+j	丸印	丸印	check mark, indicated in …
+j	丸太	丸太	a log: unsawn lumber (UK)…
+j	丸子	丸子	a district of Kawasaki, K…
+j	丸尾	丸尾	a surname
+j	丸山	丸山	a surname
+j	丸川	丸川	a surname
+j	丸木	丸木	a surname
+j	丸毛	丸毛	a surname
+j	丸田	丸田	a surname
+j	丸石	丸石	cobblestone
+j	丸秘	丸秘	secret matter
+j	丸腰	丸腰	unarmed; unequipped
+j	丸薬	丸薬	a pill (small, usually me…
+j	丸裸	丸裸	completely undressed, bei…
+j	丸転	丸転	転がること。
+j	丸鋸	丸鋸	circular saw
+j	丸鑿	丸鑿	gouge (tool used to gouge…
+j	丸顔	丸顔	round face
+j	伸す	伸す	to expand, develop
+j	伸び	伸び	a stretch, the act of str…
+j	伸一	伸一	a male given name
+j	伸久	伸久	a male given name
+j	伸之	伸之	a male given name
+j	伸也	伸也	a male given name
+j	伸二	伸二	a male given name
+j	伸亮	伸亮	a male given name
+j	伸介	伸介	a male given name
+j	伸典	伸典	a male given name
+j	伸冤	伸冤	申し開き。弁明。釈明。
+j	伸吾	伸吾	a male given name
+j	伸夫	伸夫	a male given name
+j	伸子	伸子	a female given name
+j	伸展	伸展	extension
+j	伸年	伸年	a male given name
+j	伸幸	伸幸	a male given name
+j	伸張	伸張	伸ばして広げること。また、伸びて広がること。
+j	伸彦	伸彦	a male given name
+j	伸恵	伸恵	a female given name
+j	伸暢	伸暢	長さや力が伸びること。また、伸ばすこと。
+j	伸枝	伸枝	a female given name
+j	伸次	伸次	a male given name
+j	伸治	伸治	a male given name
+j	伸洋	伸洋	a male given name
+j	伸玩	伸玩	展玩。
+j	伸筋	伸筋	an extensor
+j	伸縮	伸縮	stretching or contracting
+j	伸良	伸良	a male given name
+j	伸行	伸行	a male given name
+j	伸長	伸長	stretching, extension
+j	伸顕	伸顕	a male given name
+j	俸工	俸工	手当。
+j	俸禄	俸禄	職務に対する給与。
+j	俸米	俸米	主君から俸禄として支給される米。扶持米。
+j	俸給	俸給	公務員や会社員が一定の期間に行った労働に対して支給…
+j	偸刻	偸刻	人情に欠けること。偸薄。
+j	偸安	偸安	目先の安楽をむさぼり将来を考えないこと。
+j	偸惰	偸惰	なおざりにして怠ること。
+j	偸懦	偸懦	偸惰すること。
+j	偸盗	偸盗	盗み。窃盗。盗人。
+j	偸薄	偸薄	世間が軽薄で人情に欠けること。
+j	偸視	偸視	こっそり盗み見ること。
+j	偸食	偸食	仕事もせず無駄に食べて過ごすこと。徒食。
+j	典主	典主	質屋の店主。
+j	典例	典例	拠り所となる先例。
+j	典侍	典侍	律令制の内侍司の次官。ないしのすけ。すけ。
+j	典儀	典儀	儀式。典礼。
+j	典制	典制	司ること。
+j	典則	典則	遵守すべき模範となるような規則。
+j	典商	典商	質屋。
+j	典型	典型	model, exemplar, epitome
+j	典売	典売	入質することと売却すること。
+j	典夫	典夫	a male given name
+j	典子	典子	a female given name
+j	典常	典常	常道。
+j	典当	典当	質に入れること。担保。
+j	典征	典征	a male given name
+j	典憲	典憲	いつまでも変わらないきまり。規則。
+j	典拠	典拠	authority (source)
+j	典掌	典掌	司ること。担当すること。
+j	典故	典故	classical allusion
+j	典明	典明	a male given name
+j	典書	典書	律令制における役職で、書司の次官。
+j	典正	典正	a male given name
+j	典殿	典殿	律令制で後宮十二司の一つ主殿の次官。
+j	典江	典江	a female given name
+j	典獄	典獄	監獄に関する事務を司る職。また、その役人。
+j	典生	典生	a male given name
+j	典男	典男	a male given name
+j	典礼	典礼	ceremony, ritual
+j	典税	典税	質屋の税。
+j	典章	典章	きまり。規則。法則。
+j	典範	典範	model, example
+j	典籍	典籍	本。書籍。書物。
+j	典経	典経	規範、典範。
+j	典膳	典膳	天子の膳部をつかさどる官吏。
+j	典薬	典薬	律令制で後宮十二司の薬司の次官。
+j	典計	典計	a male given name
+j	典雅	典雅	graceful, elegant, refined
+j	凸る	凸る	synonym of 電凸する
+j	凸凹	凸凹	bumpy, lumpy, uneven
+j	凸形	凸形	中央が張り出した形。
+j	凸月	凸月	gibbous moon
+j	凸柑	凸柑	「椪柑」の異表記。
+j	凸版	凸版	letterpress
+j	凸角	凸角	物の外部に出っ張った部分。
+j	凸部	凸部	
+j	凸面	凸面	convex area
+j	券剤	券剤	証書。
+j	券契	券契	手形、割符、地券などの総称。証文。
+j	券帖	券帖	手形。
+j	券状	券状	証文。手形。
+j	券要	券要	契約。
+j	券面	券面	証券で金額が記載されている面。また、記載されている…
+j	勸導	勸導	
+j	勸誘	勸誘	
+j	匸部	匸部	部首「⼖」で分類した漢字の一群。
+j	卸す	卸す	to sell wholesale
+j	卸売	卸売	wholesale
+j	卸頭	卸頭	婦人が頭の飾りを取ること。
+j	司る	司る	To manage or be in charge…
+j	司令	司令	command (e.g. of troops)
+j	司会	司会	chairperson
+j	司僕	司僕	馬車の係。
+j	司厨	司厨	艦船で炊事を担当する部署。また、その担当の者。
+j	司存	司存	役人。
+j	司寇	司寇	中国周の時代、刑罰を司る秋官の長官。
+j	司掌	司掌	職務を司ること。また、その人。
+j	司教	司教	bishop
+j	司書	司書	librarian
+j	司法	司法	justice, judiciary, a nat…
+j	司波	司波	a surname
+j	司牧	司牧	人民を養い、治めること。また、そのような人。国王、…
+j	司直	司直	物事の善悪などを裁定する役職。一般に裁判官を指す。
+j	司祭	司祭	Catholic, Anglican, Episc…
+j	司馬	司馬	a position in feudal Chin…
+j	司鼓	司鼓	即位式に鼓を打つことをつかさどる役。また、それに就…
+j	吸う	吸う	to inhale
+j	吸入	吸入	inhalation
+j	吸収	吸収	suction; absorption; assi…
+j	吸器	吸器	他の植物に寄生する植物や菌類で宿主から養分を吸収す…
+j	吸塵	吸塵	ちりやほこりを吸い取ること。
+j	吸引	吸引	suction
+j	吸殻	吸殻	butt (remnant of a smoked…
+j	吸気	吸気	inhalation
+j	吸水	吸水	水を吸い取ること。
+j	吸湿	吸湿	湿気を吸収すること。
+j	吸烟	吸烟	吸煙の異表記。
+j	吸煙	吸煙	喫煙。
+j	吸熱	吸熱	absorption of heat
+j	吸盤	吸盤	sucker, suction pad, suct…
+j	吸着	吸着	adsorption
+j	吸虫	吸虫	trematode
+j	吸血	吸血	bloodsucking
+j	吸酸	吸酸	謗ること。
+j	吸音	吸音	sound absorption
+j	吸飲	吸飲	吸って飲むこと。
+j	咸興	咸興	
+j	唸る	唸る	to growl, to moan, to roa…
+j	嘸や	嘸や	certainly, surely
+j	嘸然	嘸然	怪訝なさま。
+j	夸人	夸人	法螺吹き。うそつき。
+j	夸誕	夸誕	虚偽などをおおげさに言うこと。みえをはること。
+j	奸な	奸な	
+j	奸人	奸人	a sinister and cunning ev…
+j	奸佞	奸佞	心が曲がり、人にへつらうこと。また、そのような人。
+j	奸商	奸商	不当な利益を得ようとする悪賢い商人。悪徳な商人。
+j	奸徒	奸徒	悪者の集まり。姦徒。
+j	奸心	奸心	悪賢い心。ねじけた心。
+j	奸才	奸才	よこしまな才能。
+j	奸智	奸智	cunning
+j	奸曲	奸曲	「姦曲」に同じ。
+j	奸物	奸物	悪知恵がはたらくひねくれた者。
+j	奸盗	奸盗	極めてたちの悪い盗賊。
+j	奸知	奸知	cunning
+j	奸策	奸策	他人を貶めるような謀。
+j	奸臣	奸臣	a treacherous vassal, ret…
+j	奸計	奸計	evil scheme
+j	奸詐	奸詐	trick, deceit
+j	奸謀	奸謀	悪いたくらみ。奸計。
+j	奸譎	奸譎	心がよこしまで虚偽が多いこと。
+j	奸賊	奸賊	心がねじけた邪悪な賊。
+j	奸邪	奸邪	evil, wickedness
+j	奸雄	奸雄	奸な英雄。奸知に長けた英雄。
+j	姸唱	姸唱	艶やかな曲。
+j	姸妝	姸妝	美しい装い。
+j	姸嫵	姸嫵	秀美。
+j	姸捷	姸捷	美しく早いはま。
+j	姸智	姸智	小賢しいこと。姸黠。
+j	姸歩	姸歩	美人の歩み。
+j	姸状	姸状	美しい姿。妍容。
+j	姸笑	姸笑	艶やかに笑うこと。
+j	姸艶	姸艶	艶めかしく美しいさま。
+j	姸豔	姸豔	「姸艶」の別表記。
+j	姸黠	姸黠	姸智。
+j	學科	學科	a subject (a particular a…
+j	學童	學童	
+j	學識	學識	
+j	學院	學院	
+j	宸儀	宸儀	天子の身体、すがた。また、天子自身。
+j	宸宮	宸宮	宮城。
+j	宸念	宸念	天子がお考えになること。天子の心中。
+j	宸慮	宸慮	天子の御考え。
+j	宸掖	宸掖	宮殿。宮掖。禁掖。
+j	宸断	宸断	天子による裁断。
+j	宸旨	宸旨	天子や天皇の御心。
+j	宸極	宸極	帝位。皇位。
+j	宸筆	宸筆	天子による直筆または筆跡。
+j	宸筵	宸筵	御宴。
+j	宸翰	宸翰	royal writing
+j	宸襟	宸襟	天子、皇帝、天皇などの心中。
+j	宸鑑	宸鑑	天子が御覧になること。
+j	宸鑒	宸鑒	宸鑑の異表記。
+j	宸闕	宸闕	天子の住居。禁闕。皇居。
+j	寸分	寸分	少し（も）。些か（も）。
+j	寸刻	寸刻	ほんのわずかな時間。寸時。
+j	寸前	寸前	the verge, the moment jus…
+j	寸劇	寸劇	short play; skit
+j	寸土	寸土	僅かな土地。寸地。尺地。
+j	寸地	寸地	僅かな土地。寸土。尺地。
+j	寸尺	寸尺	
+j	寸志	寸志	small token of appreciati…
+j	寸感	寸感	ちょっとした感想。
+j	寸描	寸描	ごく簡単に描写すること。スケッチ。
+j	寸断	寸断	dividing or cutting off
+j	寸時	寸時	ほんのわずかな時間。寸刻。
+j	寸暇	寸暇	a single moment of leisure
+j	寸書	寸書	短い手紙。寸楮。寸牘。
+j	寸楮	寸楮	短い手紙。
+j	寸毫	寸毫	極めて僅かなこと。ほんの少し。「毫」は「細い毛」の…
+j	寸法	寸法	dimensions, size, magnitu…
+j	寸牘	寸牘	短い手紙。寸楮。寸簡。
+j	寸秒	寸秒	ごく僅かな時間。
+j	寸簡	寸簡	短い手紙。寸楮。寸牘。
+j	寸紙	寸紙	僅かな紙。
+j	寸翰	寸翰	短い手紙。寸楮。寸牘。
+j	寸胴	寸胴	without a defined waist; …
+j	寸言	寸言	短い言葉。
+j	寸評	寸評	短い批評。
+j	寸話	寸話	非常に短い話。
+j	寸部	寸部	部首「⼨」で分類した漢字の一群。
+j	寸閑	寸閑	僅かな暇。寸暇。
+j	寸間	寸間	僅かな暇。寸暇。
+j	寸陰	寸陰	僅かな時間。寸暇。一寸の光陰。
+j	寸隙	寸隙	僅かな暇なとき。
+j	尸冠	尸冠	漢字の部首「⼫」が冠であるときの呼称。
+j	尸毗	尸毗	釈迦が前世に菩薩の修行をしていたときの名。尸毗王。
+j	尸盟	尸盟	盟主となる者。
+j	尸祝	尸祝	形代とかんなぎ。
+j	尸素	尸素	「尸位素餐」の略。
+j	尸解	尸解	道教の思想で遺骸は生前のままで霊魂だけが神仙となる…
+j	尸部	尸部	部首「⼫」で分類した漢字の一群。
+j	岸側	岸側	岸辺。
+j	岸垂	岸垂	岸辺。
+j	岸壁	岸壁	wharf; jetty
+j	岸尾	岸尾	a surname
+j	岸岸	岸岸	際立つさま。
+j	岸川	岸川	a surname
+j	岸曲	岸曲	入り組んだ岸。
+j	岸本	岸本	a surname
+j	岸波	岸波	a surname
+j	岸田	岸田	a surname
+j	岸畔	岸畔	岸のほとり。みずぎわ。
+j	岸辺	岸辺	a male given name
+j	岸部	岸部	a surname
+j	岸頭	岸頭	岸の上またはほとり。
+j	巸已	巸已	喜ぶこと。
+j	常々	常々	usually
+j	常に	常に	always
+j	常主	常主	定まった主人。
+j	常久	常久	ずっと変わらずに続くこと。
+j	常人	常人	ordinary person; common p…
+j	常任	常任	being regular, standing, …
+j	常会	常会	通常国会のこと。
+j	常住	常住	消滅したり変化したりせずに永遠に存在すること。
+j	常体	常体	writing style in which だ …
+j	常例	常例	usual practice, custom
+j	常備	常備	keeping something ready a…
+j	常傭	常傭	人を期限を定めずに続けて雇っておくこと。
+j	常儒	常儒	平凡な儒者。
+j	常典	常典	定まっている規則。変わらない掟。
+j	常分	常分	定分。生まれつき。宿命。
+j	常助	常助	a male given name
+j	常務	常務	everyday business, everyd…
+j	常勝	常勝	戦いや試合などで常に勝つこと。
+j	常勤	常勤	full-time employment
+j	常命	常命	人間の普通の寿命。
+j	常品	常品	一般職。
+j	常員	常員	常置されている人員。
+j	常圧	常圧	1気圧前後の圧力。
+j	常在	常在	時間の経過に関わらず恒常的に存在すること。
+j	常夏	常夏	everlasting summer
+j	常套	常套	conventionality, triteness
+j	常客	常客	a regular customer, custo…
+j	常居	常居	住むこと。
+j	常山	常山	Dichroa febrifuga, roots …
+j	常州	常州	中華人民共和国・江蘇省南部の都市。常州市。
+j	常常	常常	普段。
+j	常平	常平	米価その他の物価の安定を図る施策。
+j	常幸	常幸	a male given name
+j	常座	常座	きまった人がすわる座席。
+j	常式	常式	通常の決まった方式や儀式。
+j	常律	常律	通常の法律や規則。
+j	常御	常御	常用すること。
+j	常態	常態	混乱などが起こる前の平常のありさま。
+j	常所	常所	普段暮らしている住所。
+j	常数	常数	natural course of things
+j	常春	常春	everlasting spring
+j	常時	常時	done always, continuously…
+j	常服	常服	普段着。
+j	常業	常業	日常の業務や授業。
+j	常楽	常楽	常住であること。
+j	常次	常次	a male given name
+j	常歩	常歩	馬かゆっくりと一定の速さで歩くこと。
+j	常民	常民	一般の庶民。
+j	常況	常況	普段の有様。
+j	常法	常法	決まっていて変わらない法則。一定のきまり。
+j	常温	常温	room temperature (normal …
+j	常湿	常湿	高すぎでも低すぎでもない、通常の湿度。普通、相対湿…
+j	常然	常然	自然。
+j	常玩	常玩	常用すること。
+j	常理	常理	普通、不変の道理。
+j	常用	常用	common use; something tha…
+j	常田	常田	荘園の領主が年貢などを賦課する土地。
+j	常盤	常盤	a place name, especially …
+j	常磐	常磐	a rock that does not chan…
+j	常篇	常篇	普通なこと。通常であること。また、そのようなさま。
+j	常経	常経	常に変わらない道理。
+j	常総	常総	Jōsō (a city in Ibaraki P…
+j	常緑	常緑	evergreen
+j	常置	常置	常に設置しておくこと。
+j	常習	常習	普段から繰り返し行っている悪い習慣や癖。
+j	常考	常考	thinking with common sense
+j	常膳	常膳	日常の食事。常餐。
+j	常行	常行	（じょうぎょう、じょうこう）日常的な行い。
+j	常衡	常衡	avoirdupois system
+j	常見	常見	sassatavādā, eternalism (…
+j	常規	常規	普通の考え、規則。
+j	常設	常設	permanent; permanently in…
+j	常詰	常詰	常に詰めていること。また、その人。
+j	常語	常語	普段使用している言葉。
+j	常識	常識	common knowledge
+j	常費	常費	日常の活動に必要な費用、経費。
+j	常軌	常軌	the normal way of doing s…
+j	常連	常連	regular customer
+j	常道	常道	常に従うべき道徳。
+j	常陸	常陸	Hitachi Province, an old …
+j	常雄	常雄	a male given name
+j	常風	常風	prevailing wind (regular …
+j	常食	常食	daily food
+j	常飲	常飲	日常的によく飲用すること。
+j	常餐	常餐	日常の食事。常饌。
+j	常饌	常饌	日常の食事。常餐。
+j	常香	常香	incense that burn in fron…
+j	常駐	常駐	continuous presence
+j	幸い	幸い	very fortunate and happy,…
+j	幸せ	幸せ	happy
+j	幸一	幸一	a male given name
+j	幸三	幸三	a male given name
+j	幸世	幸世	a male given name
+j	幸也	幸也	a male given name
+j	幸二	幸二	a male given name
+j	幸亮	幸亮	a male given name
+j	幸仁	幸仁	a male given name
+j	幸代	幸代	a female given name
+j	幸作	幸作	a male given name
+j	幸便	幸便	favorable opportunity
+j	幸俊	幸俊	a male given name
+j	幸信	幸信	a male given name
+j	幸博	幸博	a male given name
+j	幸原	幸原	a surname
+j	幸司	幸司	a male given name
+j	幸喜	幸喜	a male given name
+j	幸大	幸大	a male given name
+j	幸太	幸太	a male given name
+j	幸夫	幸夫	a male given name
+j	幸央	幸央	a male given name
+j	幸妃	幸妃	a male given name
+j	幸子	幸子	a female given name
+j	幸希	幸希	a male given name
+j	幸平	幸平	a male given name
+j	幸広	幸広	a male given name
+j	幸弘	幸弘	a male given name
+j	幸彦	幸彦	a male given name
+j	幸徳	幸徳	a male given name
+j	幸恵	幸恵	a female given name
+j	幸慶	幸慶	この上ない幸運。
+j	幸政	幸政	a male given name
+j	幸文	幸文	a male given name
+j	幸春	幸春	a male given name
+j	幸枝	幸枝	a female given name
+j	幸水	幸水	Kosui pear, a variety of …
+j	幸治	幸治	a male given name
+j	幸泰	幸泰	a male given name
+j	幸洋	幸洋	a male given name
+j	幸甚	幸甚	非常に幸運であること。
+j	幸生	幸生	a male given name
+j	幸男	幸男	a male given name
+j	幸福	幸福	happy
+j	幸臣	幸臣	気に入られた家臣。寵臣。
+j	幸行	幸行	a male given name
+j	幸賞	幸賞	思いがけない幸運による賞。
+j	幸造	幸造	a male given name
+j	幸運	幸運	lucky, fortunate
+j	幸長	幸長	a male given name
+j	幸雄	幸雄	a male given name
+j	幸魂	幸魂	one of the 四(し)魂(こん) (shi…
+j	庸主	庸主	凡庸な君主。
+j	庸人	庸人	a mediocre person; an ord…
+j	庸俗	庸俗	平凡で取り柄のないこと。また、その人。
+j	庸医	庸医	技術の低い医師。藪医者。
+j	庸回	庸回	ねじけた人。
+j	庸夫	庸夫	凡庸な男性。
+j	庸布	庸布	庸として納付された布。
+j	庸常	庸常	普通。並。
+j	庸庸	庸庸	平凡なさま。凡庸なさま。
+j	庸愚	庸愚	平凡で愚かなこと。また、そのような人。
+j	庸憒	庸憒	愚かなさま。
+j	庸才	庸才	a mediocre or uninteresti…
+j	庸豎	庸豎	愚物。
+j	庸騃	庸騃	愚かなさま。
+j	忸怩	忸怩	bashful; shameful; ashamed
+j	悸然	悸然	驚くこと。そのさま。
+j	惸嫠	惸嫠	やもめ。
+j	惸孤	惸孤	孤独。
+j	惸惸	惸惸	孤独なさま。
+j	憸言	憸言	妄言。
+j	懸下	懸下	hanging down; dangling
+j	懸命	懸命	with all one's might
+j	懸垂	懸垂	suspension, hanging
+j	懸守	懸守	孤立して守ること。
+j	懸官	懸官	兼官の異表記。
+j	懸崖	懸崖	cliff
+j	懸巣	懸巣	a Eurasian jay
+j	懸念	懸念	worry, concern
+j	懸想	懸想	attachment
+j	懸料	懸料	憶測すること。
+j	懸果	懸果	子房がいくつかに分かれ、果実が成熟すると子房ごとに…
+j	懸架	懸架	谷などに掛け渡して支えること。
+j	懸案	懸案	unsettled question
+j	懸殊	懸殊	甚だ異なるさま。懸異。
+j	懸河	懸河	早瀬の川。急流の川。
+j	懸流	懸流	滝。
+j	懸淙	懸淙	滝。
+j	懸渇	懸渇	渇望。
+j	懸瀑	懸瀑	滝。
+j	懸瀬	懸瀬	滝。
+j	懸珠	懸珠	珠のように美しく輝くこと。また、そのようなまなざし。
+j	懸異	懸異	著しく異なること。また、そのようなさま。
+j	懸疑	懸疑	疑いを持つこと。
+j	懸章	懸章	陸軍の副官や週番士官が役職を示すために右肩から左腰…
+j	懸簾	懸簾	簾。
+j	懸絶	懸絶	懸け離れて差があること。高絶。
+j	懸谷	懸谷	河川の合流地点で、支流側が滝や急傾斜となっている部…
+j	懸賞	懸賞	prize contest
+j	懸軍	懸軍	後方からの連絡も入らず、遠方の敵陣深く入り込むこと。
+j	懸遠	懸遠	極遠。
+j	懸邈	懸邈	遙遠。邈遠。邃遠。
+j	懸金	懸金	懸賞。
+j	懸針	懸針	書道で縦画の最後のところを払い、針のように尖らせる…
+j	懸鐘	懸鐘	釣鐘。
+j	懸隔	懸隔	great difference; gulf
+j	懸首	懸首	首を晒すこと。梟首。
+j	戸主	戸主	head of a household
+j	戸令	戸令	律令（大宝令、養老令）の編目の一つ。地方行政組織と…
+j	戸倉	戸倉	Togura, Nagano
+j	戸内	戸内	家の中。屋内。
+j	戸口	戸口	door, doorway
+j	戸塚	戸塚	a surname
+j	戸外	戸外	outdoors
+j	戸川	戸川	a surname
+j	戸帳	戸帳	帳台の上を覆うかやのようなとばり。
+j	戸戸	戸戸	every house
+j	戸扉	戸扉	a door or gate
+j	戸数	戸数	家の数。
+j	戸松	戸松	a surname
+j	戸棚	戸棚	cupboard
+j	戸田	戸田	Toda (a city in Saitama P…
+j	戸神	戸神	戸の神。
+j	戸籍	戸籍	koseki, family register
+j	戸部	戸部	synonym of 民部省 (Minbushō,…
+j	戸長	戸長	明治初期、町村制が導入される前の小区（町村）の行政…
+j	戸頭	戸頭	戸主。一戸の主人。
+j	摸作	摸作	人の作品を真似て作ること。また、作ったもの。
+j	摸索	摸索	試行錯誤を繰り返しながら探し求めること。
+j	摸製	摸製	「模製」の異表記。
+j	摸造	摸造	他のものに似せてつくること。また、そのようなもの。
+j	數字	數字	数字の旧字体表記。
+j	書き	書き	
+j	書く	書く	to write; to record (word…
+j	書中	書中	書物や書状などの文章の中。
+j	書体	書体	a style of lettering
+j	書例	書例	書類などの書き方。書式。
+j	書信	書信	a letter
+j	書冊	書冊	書籍。書物。本。
+j	書写	書写	transcription
+j	書几	書几	書物を載せるための台。
+j	書函	書函	手紙を入れる箱。
+j	書刀	書刀	small knife for cutting p…
+j	書初	書初	kakizome, or the first ca…
+j	書厨	書厨	書物を入れておく箱。書棚。
+j	書取	書取	writing down speech, dict…
+j	書司	書司	a 律令 (ritsuryō) position …
+j	書名	書名	title of a book
+j	書吏	書吏	庶務を担当した役人。
+j	書坊	書坊	中国唐の時代にあった図書に関する役所。
+j	書士	書士	calligrapher of a documen…
+j	書契	書契	文字。文字で書き記したもの。
+j	書套	書套	書物の覆い。
+j	書字	書字	字を書くこと。また、その字。
+j	書室	書室	書斎。
+j	書家	書家	calligrapher
+j	書巻	書巻	書籍。書物。
+j	書帙	書帙	書物を一冊または数冊包む覆い。
+j	書店	書店	bookstore, bookshop
+j	書庫	書庫	書物を入れておく部屋や建物。
+j	書式	書式	format (of a letter, text…
+j	書房	書房	study (room)
+j	書押	書押	署名すること。
+j	書斎	書斎	a reading room, a study, …
+j	書本	書本	書き写すことにより作成した書物。
+j	書札	書札	piece of writing, document
+j	書机	書机	書物を載せるための台。
+j	書杖	書杖	文挟み。
+j	書林	書林	書籍が多くある場所。
+j	書架	書架	bookshelf
+j	書棚	書棚	bookshelf
+j	書檠	書檠	読書のための灯り。
+j	書法	書法	calligraphy (manner of pe…
+j	書淫	書淫	極度に読書に耽ること。また、そのような人。
+j	書物	書物	books, writing
+j	書状	書状	手紙。書簡。
+j	書生	書生	student
+j	書画	書画	calligraphy and drawing i…
+j	書留	書留	
+j	書疏	書疏	書状。手紙。書簡。
+j	書痙	書痙	writer's cramp
+j	書痴	書痴	本ばかり読んでいる者をののしる語。
+j	書癡	書癡	本ばかり読んでいる者をののしる語。
+j	書目	書目	書物の題名。
+j	書窓	書窓	書斎の窓。
+j	書箱	書箱	書物を収納する箱。本箱。
+j	書簡	書簡	a letter
+j	書籍	書籍	book
+j	書紀	書紀	「日本書紀」の略。
+j	書経	書経	the Book of Documents
+j	書翰	書翰	手紙、書状。
+j	書聖	書聖	書道における名人。
+j	書肆	書肆	本屋。書店。出版社。
+j	書肺	書肺	book lungs
+j	書蝨	書蝨	本の虫食い。
+j	書見	書見	書物を読むこと。読書すること。
+j	書記	書記	secretary
+j	書証	書証	裁判で文書の内容を証拠とすること。また、その文書。
+j	書評	書評	book review
+j	書誌	書誌	book, a codex; a collecti…
+j	書賈	書賈	書籍を売る人。本屋。「賈」は「商人」の意。
+j	書跡	書跡	書かれた文字の跡。筆跡。墨跡。
+j	書道	書道	Japanese calligraphy
+j	書閣	書閣	書棚。本棚。
+j	書院	書院	study (room)
+j	書面	書面	written document, writing
+j	書題	書題	文字を書くこと。また、書いたもの。
+j	書類	書類	documents, papers
+j	書風	書風	ある作者の（筆による）書き方。
+j	書鰓	書鰓	カブトガニ類やウミサソリ類などの節口類に見られる呼…
+j	枸杞	枸杞	goji berry, wolfberry, Ly…
+j	枸橘	枸橘	
+j	枸櫞	枸櫞	citron, Citrus medica
+j	核型	核型	karyotype (characteristic…
+j	核子	核子	nucleon - a general term …
+j	核学	核学	細胞学のうち細胞核について研究する学問。
+j	核心	核心	core, heart
+j	核果	核果	外果皮が薄く、中果皮が多肉となり、内果皮が硬くなり…
+j	核燃	核燃	核燃料の略。
+j	核相	核相	細胞の核にある染色体が構成している状態。
+j	核種	核種	nuclide
+j	核膜	核膜	nuclear membrane
+j	核酸	核酸	nucleic acid
+j	樸儒	樸儒	朴実な儒者。
+j	樸実	樸実	飾り気がなく律儀であること。
+j	檸檬	檸檬	「レモン」の漢字表記。
+j	欸乃	欸乃	boating song, or the soun…
+j	欸欸	欸欸	真心。
+j	永万	永万	the Eiman era, 1165-1166
+j	永世	永世	eternity, permanence, per…
+j	永久	永久	eternal
+j	永井	永井	a surname
+j	永享	永享	the Eikyō era, 1429–1441
+j	永仁	永仁	the Einin era, 1293-1299
+j	永代	永代	長い間。永世。永久。
+j	永住	永住	permanent residence
+j	永保	永保	the Eihō era, 1081-1084
+j	永倫	永倫	a male given name
+j	永劫	永劫	eternity; eon
+j	永古	永古	永遠。
+j	永吉	永吉	a male given name
+j	永命	永命	長命。
+j	永和	永和	the Eiwa era, 1375-1379 b…
+j	永嘯	永嘯	呼吸を長く嘯くこと。
+j	永字	永字	the Chinese character 永 (…
+j	永宅	永宅	墓。
+j	永安	永安	everlasting peace
+j	永寿	永寿	命が長いこと。長寿。
+j	永将	永将	a male given name
+j	永尾	永尾	a surname
+j	永山	永山	an area of Asahikawa, Hok…
+j	永岡	永岡	a surname
+j	永島	永島	a surname
+j	永崎	永崎	a surname
+j	永川	永川	a surname
+j	永年	永年	many years, long time
+j	永延	永延	the Eien era, Japanese er…
+j	永徳	永徳	the Eitoku era, 1381-1384…
+j	永懐	永懐	永く思うこと。
+j	永承	永承	the Eishō era, 1046–1053
+j	永日	永日	一日中。
+j	永昌	永昌	永く栄えること。
+j	永暦	永暦	the Eiryaku era, 1160-1161
+j	永業	永業	かつての中国の制度で世襲が許された田地。永業田。世…
+j	永正	永正	the Eishō era, 1504–1521
+j	永永	永永	永久に。いつまでも。
+j	永池	永池	a surname
+j	永治	永治	the Eiji era, 1141–1142
+j	永淵	永淵	a surname
+j	永瀬	永瀬	a surname
+j	永牢	永牢	長く牢獄に収容されていること。
+j	永生	永生	eternal life; immortality
+j	永田	永田	a surname
+j	永眠	永眠	death, eternal sleep
+j	永祚	永祚	the Eiso era, 988-990
+j	永禄	永禄	the Eiroku era, 1558-1570
+j	永終	永終	永く続くこと。
+j	永続	永続	permanence; permanency
+j	永観	永観	the Eikan era, 983-985
+j	永訣	永訣	last farewell
+j	永逝	永逝	death, demise
+j	永遠	永遠	eternity
+j	永里	永里	a surname
+j	永野	永野	The neighborhoods of Toyo…
+j	永銭	永銭	穎銭。
+j	永長	永長	the Eichō era, 1096-1097
+j	沸き	沸き	boiling
+j	沸く	沸く	
+j	沸湯	沸湯	煮えたぎる湯。煮え湯。
+j	沸点	沸点	boiling point
+j	沸騰	沸騰	boiling
+j	洸貴	洸貴	a male given name
+j	浸す	浸す	soak, immerse
+j	浸る	浸る	to soak; to be submerged …
+j	浸入	浸入	permeation
+j	浸出	浸出	ものを浸して、含まれているものを溶かし出すこと。
+j	浸剤	浸剤	細かく切ったり砕いたりした生薬に熱湯を注ぎ、成分を…
+j	浸害	浸害	浸水による損害。浸水させる損害。
+j	浸染	浸染	染み込んで染まること。
+j	浸死	浸死	溺れて死ぬこと。溺死。水死。
+j	浸水	浸水	immersion in water, inund…
+j	浸涵	浸涵	浸ること。涵浸。
+j	浸淫	浸淫	次第に染み込んでいくこと。次第に進行すること。
+j	浸漬	浸漬	液体に浸すこと。液体が染み込むこと。
+j	浸潤	浸潤	permeation
+j	浸濡	浸濡	濡れること。
+j	浸灌	浸灌	水を注ぐこと。
+j	浸炭	浸炭	鋼に炭素をしみこませて表面を硬化させること。
+j	浸礼	浸礼	洗礼の方法の一つ。全身を水に浸す儀礼。
+j	浸禮	浸禮	浸礼の旧字体表記。
+j	浸種	浸種	発芽を促進するため、種子を水に浸し吸収させること。
+j	浸蝕	浸蝕	「浸食」の別表記。
+j	浸透	浸透	penetration, permeation
+j	浸食	浸食	corrosion; erosion
+j	涸沍	涸沍	凍ること。
+j	涸渇	涸渇	乾燥して水（水分）がなくなること。
+j	涸竭	涸竭	「枯竭」の別表記。
+j	游士	游士	浪人。
+j	游泳	游泳	遊泳の異表記。
+j	游禽	游禽	水上で生活する水鳥の総称。
+j	游蛇	游蛇	ナミヘビ下目ユウダ科に属する蛇の総称。
+j	游談	游談	游説。
+j	漸く	漸く	at last; at length; final…
+j	漸増	漸増	だんだん増えること。
+j	漸変	漸変	次第にゆっくりと変化すること。
+j	漸将	漸将	次第に進むこと。漸進。
+j	漸悟	漸悟	修行の進展に応じて段階的に悟りが達成されること。
+j	漸教	漸教	衆生の機根に応じ、易しい教えから段階的に教え導くこ…
+j	漸次	漸次	gradually
+j	漸減	漸減	徐々に減ること。また、減らすこと。
+j	漸滅	漸滅	次第に滅びること。
+j	漸漸	漸漸	次第に。
+j	漸苞	漸苞	茂ること。
+j	漸近	漸近	asymptote
+j	漸進	漸進	gradual progress
+j	漸騰	漸騰	相場・物価などが段段高くなること。
+j	潸泫	潸泫	涙が溢れること。
+j	潸潸	潸潸	さめざめと涙を流すこと。
+j	潸然	潸然	涙を流し、泣くさま。
+j	灸師	灸師	医師以外で、灸治療を業とする者。
+j	灸点	灸点	灸をすえる箇所につける黒い点。
+j	灸瘡	灸瘡	お灸をすえた後のかさぶた。
+j	灸穴	灸穴	灸をすえるのに最適な箇所。
+j	灸術	灸術	漢方の一つで、患部やつぼなどに乗せた艾を燃焼させる…
+j	炸薬	炸薬	爆弾、砲弾などに装填し、それらを爆発させる火薬。
+j	炸裂	炸裂	explosion; bursting
+j	狸肉	狸肉	狸の肉
+j	狸藻	狸藻	bladderwort, Utricularia …
+j	狸蘭	狸蘭	Carex podogyna
+j	狸豆	狸豆	rattlebox (Crotalaria ses…
+j	甸帥	甸帥	田野の官。
+j	畸型	畸型	「奇形」の別表記。
+j	畸形	畸形	「奇形」の別表記。
+j	畸零	畸零	単位以下の数。小数点以下の数。はした。
+j	癸丑	癸丑	Water Ox, the fiftieth te…
+j	癸亥	癸亥	Water Boar, the sixtieth …
+j	癸卯	癸卯	Water Rabbit, the fortiet…
+j	癸巳	癸巳	Water Snake, the thirtiet…
+j	癸未	癸未	Water Sheep, the twentiet…
+j	癸酉	癸酉	Water Rooster, the tenth …
+j	相乗	相乗	二つ以上の数を掛け合わせること。
+j	相互	相互	mutual, reciprocal
+j	相伝	相伝	代々受け、伝えること。
+j	相伴	相伴	宴席などで、正客に混じり同じようにもてなしを受ける…
+j	相似	相似	resemblance, similarity
+j	相傘	相傘	
+j	相先	相先	一局ごとに交代で先手になって対局すること。
+j	相克	相克	五行説において、木克土、土克水、水克火、火克金、金…
+j	相公	相公	宰相の敬称
+j	相内	相内	a surname
+j	相判	相判	「合印」に同じ。
+j	相制	相制	お互いに牽制し合うこと。
+j	相剋	相剋	五行説において、木克土、土克水、水克火、火克金、金…
+j	相印	相印	印相。
+j	相即	相即	(仏教)二つのものが相互に融合していること。
+j	相原	相原	a surname
+j	相反	相反	contradiction
+j	相同	相同	外見や機能は異なるが、発生起源は同一の器官。
+j	相図	相図	phase diagram
+j	相国	相国	synonym of 宰相 (saishō): a…
+j	相場	相場	market price
+j	相声	相声	
+j	相好	相好	顔つき。
+j	相姦	相姦	illicit or taboo sex (suc…
+j	相婿	相婿	
+j	相嫁	相嫁	co-sister-in-law; one's h…
+j	相子	相子	a draw, standoff, tie (tw…
+j	相学	相学	相を調べて運勢などを判断する学問。
+j	相対	相対	confrontation, head-to-he…
+j	相島	相島	a surname
+j	相崎	相崎	a surname
+j	相川	相川	a surname
+j	相州	相州	相模国^(（さがみのくに）)の別称。
+j	相席	相席	sharing a table with a st…
+j	相府	相府	大臣の唐名。
+j	相当	相当	corresponding
+j	相役	相役	同じ役目についている人。
+j	相待	相待	二つの事柄が相対関連して存在すること。
+j	相応	相応	appropriate, suitable, fit
+j	相思	相思	synonym of 相思相愛 (sōshi sō…
+j	相性	相性	the degree to which peopl…
+j	相愛	相愛	synonym of 相思相愛 (sōshi sō…
+j	相手	相手	other person
+j	相扶	相扶	お互いに助け合うこと。
+j	相承	相承	handing down
+j	相接	相接	contact
+j	相撲	相撲	sumo (Japanese traditiona…
+j	相方	相方	synonym of 相手 (aite)
+j	相旧	相旧	旧知。
+j	相月	相月	陰暦七月の別名（参考：『新漢語林』第二版）。しょう…
+j	相木	相木	a surname
+j	相本	相本	a surname
+j	相板	相板	二人以上の者が共同して出版すること。
+j	相棒	相棒	partner, sidekick (someon…
+j	相槌	相槌	backchannelling: customar…
+j	相模	相模	相模, 相摸: Sagami Province (…
+j	相殺	相殺	counteraction, neutraliza…
+j	相沢	相沢	a surname
+j	相澤	相澤	a surname
+j	相生	相生	Aioi (a city in Hyōgo Pre…
+j	相田	相田	a surname
+j	相番	相番	同じ役目についている人。
+j	相異	相異	互いに異なること。
+j	相知	相知	お互いに知り合っていること。また、そのような間柄。
+j	相碁	相碁	囲碁の実力が似通っていること。
+j	相称	相称	symmetry
+j	相等	相等	互いに等しいこと。
+j	相給	相給	中世、一つの所領を複数の領主に与えること。
+j	相続	相続	succession or inheritance…
+j	相羽	相羽	a surname
+j	相良	相良	a surname
+j	相術	相術	家相、人相を見る術。
+j	相見	相見	互いに会うこと。対面。
+j	相観	相観	植物群落を外形的に見たときの特徴的な様相。
+j	相談	相談	advice, counsel, consulta…
+j	相論	相論	論じ合うこと。訴訟をおこして争うこと。
+j	相識	相識	being acquainted with eac…
+j	相貌	相貌	顔つき。人相。容貌。
+j	相輪	相輪	仏塔の一番上層の屋根の更に上に設置される構造物。
+j	相近	相近	系統の異なる生物が次第に相似的な形質を表わすように…
+j	相通	相通	江戸時代以前の国語学の用語で、五十音図の同行または…
+j	相違	相違	incompatibility, discrepa…
+j	相酌	相酌	互いに酌をしあいながら酒を飲むこと。
+j	相銀	相銀	相互銀行。
+j	相関	相関	correlation
+j	相馬	相馬	Sōma (a city in Fukushima…
+j	眸光	眸光	眼光。
+j	眸子	眸子	the pupil of an eye
+j	禸部	禸部	部首「⽱」で分類した漢字の一群。
+j	箸台	箸台	「箸置き」に同じ。
+j	箸尾	箸尾	a surname
+j	糸井	糸井	a surname
+j	糸価	糸価	糸とくに生糸の相場の価格。
+j	糸偏	糸偏	the left-side kanji compo…
+j	糸冬	糸冬	
+j	糸口	糸口	conversational gambit
+j	糸屑	糸屑	lint, fluff
+j	糸島	糸島	Itoshima (a city in Fukuo…
+j	糸工	糸工	糸を作る工匠。
+j	糸師	糸師	糸を作る職人。
+j	糸杉	糸杉	cypress, trees of genus C…
+j	糸枠	糸枠	spool spun thread is woun…
+j	糸毫	糸毫	ごくわずかなこと。
+j	糸状	糸状	糸のように細長いこと。
+j	糸瓜	糸瓜	a sponge gourd; a dishrag…
+j	糸疣	糸疣	「出糸突起」の旧称。
+j	糸管	糸管	弦楽器と管楽器。管弦。音楽のこと。
+j	糸絡	糸絡	（糸が）長く続くこと。
+j	糸縄	糸縄	絹糸製の縄。
+j	糸車	糸車	spinning wheel
+j	糸遊	糸遊	陽炎。
+j	糸部	糸部	部首「⽷」で分類した漢字の一群。
+j	糸雨	糸雨	a small amount of rain; a…
+j	糸鞋	糸鞋	絹糸で編んで作った靴。
+j	糸魚	糸魚	
+j	綸子	綸子	Rinzu, a Japanese silk sa…
+j	綸旨	綸旨	君主のお言葉の趣旨。
+j	綸言	綸言	君主が家臣に対して言うお言葉。
+j	羸弱	羸弱	frailness, weakness
+j	羸痩	羸痩	terrible emaciation
+j	胸中	胸中	胸の内。心中。
+j	胸像	胸像	bust (sculptural portraya…
+j	胸元	胸元	chest; the area in front …
+j	胸前	胸前	懐。
+j	胸喘	胸喘	恐れ、喘ぐこと。
+j	胸囲	胸囲	measurement of chest
+j	胸墻	胸墻	敵からの防弾及び味方側が射撃しやすくするため、胸の…
+j	胸壁	胸壁	敵からの防弾及び味方側が射撃しやすくするため、胸の…
+j	胸奥	胸奥	胸の奥。心中。
+j	胸底	胸底	心の奥底。心中で思っていること。
+j	胸心	胸心	内心。
+j	胸懐	胸懐	胸中。心の中。
+j	胸椎	胸椎	a thoracic vertebra
+j	胸毛	胸毛	chest hair
+j	胸水	胸水	胸膜腔にある少量の液。通常は胸膜を湿潤するが、肝硬…
+j	胸液	胸液	胸膜の間の腔所にある透明な漿液。
+j	胸熱	胸熱	胸が熱くなる。
+j	胸牆	胸牆	敵からの防弾及び味方側が射撃しやすくするため、胸の…
+j	胸甲	胸甲	breastplate, sternum
+j	胸痛	胸痛	胸が痛むこと。臓器の痛み、筋肉や骨の痛み、精神疾患…
+j	胸章	胸章	a badge, an insignia worn…
+j	胸筋	胸筋	a pectoral muscle
+j	胸算	胸算	心中で計算すること。胸算用。
+j	胸管	胸管	下半身と左側の上半身のリンパを集めるリンパ管でリン…
+j	胸肉	胸肉	鶏の胸の部分にある肉。胸。
+j	胸肢	胸肢	節足動物の胸部の体節にある脚。胸脚。
+j	胸背	胸背	胸と背中。
+j	胸脚	胸脚	節足動物の胸部の体節にある脚。胸肢。
+j	胸腔	胸腔	thoracic cavity
+j	胸腹	胸腹	胸と腹。
+j	胸腺	胸腺	thymus
+j	胸膜	胸膜	pleura
+j	胸臆	胸臆	胸部。胸。
+j	胸裏	胸裏	胸の内。心中。
+j	胸裡	胸裡	胸の内。心中。胸中。
+j	胸襟	胸襟	chest (or feelings, soul,…
+j	胸部	胸部	chest (thorax)
+j	胸郭	胸郭	thorax, chest
+j	胸酥	胸酥	乳房。
+j	胸間	胸間	胸の周辺。
+j	胸骨	胸骨	a breastbone; a sternum
+j	胸髄	胸髄	脊髄で胸椎の中を通る部分。
+j	胸鰭	胸鰭	pectoral fin
+j	腸の	腸の	
+j	腸内	腸内	腸の内部。
+j	腸壁	腸壁	腸の内側の壁。
+j	腸外	腸外	腸の外部。
+j	腸液	腸液	intestinal juice, intesti…
+j	腸炎	腸炎	腹痛、下痢、発熱など腸粘膜の炎症による疾患の総称。
+j	腸癌	腸癌	腸に発生する癌。
+j	腸相	腸相	内視鏡などによる腸内のありさま。
+j	腸管	腸管	intestine tube
+j	腸粉	腸粉	cheong fun
+j	腸線	腸線	羊や豚などの腸でつくった糸や紐。
+j	腸詰	腸詰	sausage
+j	腸骨	腸骨	an ilium (bone)
+j	艸部	艸部	部首「⾋」で分類した漢字の一群。
+j	芸事	芸事	おどり、三味線、琴など遊芸に関するようなこと。
+j	芸亭	芸亭	Untei, Japan's first publ…
+j	芸人	芸人	performer such as an acto…
+j	芸体	芸体	芸能人の演技など芸の演じ方。芸態。
+j	芸劫	芸劫	芸道の修業を長期間積むこと。
+j	芸名	芸名	stage name
+j	芸園	芸園	芸術家、文学者の社会。芸林。芸府。
+j	芸域	芸域	修得した芸の範囲や領域、幅。
+j	芸士	芸士	才芸のある人。
+j	芸大	芸大	芸術大学の略。
+j	芸妓	芸妓	geisha
+j	芸子	芸子	a geisha, especially a yo…
+j	芸学	芸学	芸術と学問。学芸。
+j	芸州	芸州	安芸国^(（あきのくに）)の別称。
+j	芸府	芸府	芸術家、文学者の社会。芸苑。芸林。
+j	芸当	芸当	extraordinary trick
+j	芸態	芸態	芸の演じ方。芸風。
+j	芸才	芸才	技芸と才能。
+j	芸林	芸林	芸術家、文学者の社会。芸苑。芸府。
+j	芸歴	芸歴	その人のそれまでの芸能に関する経歴。
+j	芸気	芸気	芸事の心得。
+j	芸者	芸者	a geisha
+j	芸能	芸能	public entertainment, per…
+j	芸苑	芸苑	芸術家、文学者の社会。芸林。芸府。
+j	芸術	芸術	the arts
+j	芸談	芸談	芸道に関する秘訣やそれまでの苦心などについて語るこ…
+j	芸道	芸道	芸能・技芸を日本独自の精神性を背景として体系化した…
+j	芸題	芸題	劇場などで上演される芸能の題名。
+j	芸風	芸風	芸能人の演技など芸の演じ方。芸態。
+j	芸香	芸香	synonym of ヘンルーダ (henrūda…
+j	芸黄	芸黄	草木が枯れること。
+j	茸線	茸線	刺繍に使用する毛糸。
+j	茸蝿	茸蝿	
+j	茸雲	茸雲	mushroom cloud
+j	蒸し	蒸し	steaming; the action of p…
+j	蒸す	蒸す	to steam; to heat by stea…
+j	蒸散	蒸散	気孔を通して植物の体内の水を水蒸気として出すこと。
+j	蒸暑	蒸暑	蒸し暑いこと。
+j	蒸機	蒸機	蒸気機関車。
+j	蒸気	蒸気	vapor; gas
+j	蒸氣	蒸氣	
+j	蒸汽	蒸汽	液体が蒸発又は固体が昇華して気体となった状態のもの。
+j	蒸泄	蒸泄	蒸散すること。
+j	蒸熱	蒸熱	蒸し暑いこと。蒸暑。
+j	蒸留	蒸留	distillation
+j	蒸発	蒸発	evaporation
+j	蒸着	蒸着	真空の中で加熱、蒸発させた金属を他の物質の表面に付…
+j	蒸籠	蒸籠	steamer basket
+j	蒸糈	蒸糈	供米。
+j	蒸酒	蒸酒	酒を醸造すること。また、醸造酒。
+j	蒸騰	蒸騰	蒸気が立ち上ること。
+j	蘸墨	蘸墨	墨にひたす。
+j	蘸甲	蘸甲	満酌。
+j	蛸壷	蛸壷	octopus pot
+j	蝸室	蝸室	かたつむりの持つ殻のように狭い部屋。自分の部屋の謙…
+j	蝸廬	蝸廬	かたつむりの殻。
+j	蝸涎	蝸涎	かたつむりの体から出る粘液。
+j	蝸牛	蝸牛	a snail
+j	蝸角	蝸角	かたつむり（蝸牛）の触角。
+j	裸の	裸の	
+j	裸体	裸体	naked body
+j	裸像	裸像	絵画や彫刻などの、裸体の人間の像。
+j	裸出	裸出	覆うものがなく、剥き出しの状態であること。露出。
+j	裸地	裸地	（地理、環境）植物や建築物などに覆われておらず、土…
+j	裸婦	裸婦	nude woman
+j	裸形	裸形	人間が体に何も身に着けていない姿。また、そのような…
+j	裸族	裸族	全裸またはそれに近い服装で生活している部族。
+j	裸玉	裸玉	一方が王将以外の全ての駒を落として行う対局。
+j	裸眼	裸眼	naked eye (eyesight, unai…
+j	裸石	裸石	loose stones
+j	裸花	裸花	無花被花。
+j	裸葬	裸葬	裸のまま葬ること。
+j	裸裎	裸裎	naked
+j	裸足	裸足	barefoot
+j	裸身	裸身	裸。裸体。全裸。
+j	裸馬	裸馬	鞍を付けない馬。
+j	裸體	裸體	
+j	裸麦	裸麦	naked barley, Hordeum vul…
+j	觸手	觸手	
+j	觸肢	觸肢	
+j	觸角	觸角	
+j	諸々	諸々	all kinds of things, vari…
+j	諸事	諸事	多くの事柄。いろいろなこと。
+j	諸人	諸人	さまざまな多くの人。
+j	諸他	諸他	various other things
+j	諸侯	諸侯	noblemen, especially thos…
+j	諸元	諸元	specification
+j	諸兄	諸兄	男性が多くの男性に対する尊敬語。
+j	諸処	諸処	諸諸の場所。色々な場所。
+j	諸卿	諸卿	多数の公卿。
+j	諸友	諸友	多くの友人。
+j	諸口	諸口	（会計 しょくち）簿記で勘定科目が2つ以上あるとき…
+j	諸君	諸君	all of you men (below the…
+j	諸善	諸善	もろもろの善いことや善行。
+j	諸国	諸国	various countries
+j	諸士	諸士	multiple gentlemen
+j	諸多	諸多	lots of various things
+j	諸姉	諸姉	多くの女性を指す語句。
+j	諸嬢	諸嬢	多くの未婚女性に対し敬意を込めて呼ぶ語。
+j	諸子	諸子	中国春秋戦国時代の多くの思想家の総称。
+j	諸学	諸学	さまざまな分野の学問。
+j	諸宗	諸宗	いろいろな宗旨や宗派。
+j	諸寺	諸寺	あちこちに点在する多くの寺院。
+j	諸将	諸将	多くの将軍・大将。
+j	諸山	諸山	多くの山。
+j	諸岡	諸岡	a surname
+j	諸島	諸島	an archipelago (group of …
+j	諸州	諸州	いろいろな国。諸国。
+j	諸役	諸役	さまざまな役目や役職。
+j	諸念	諸念	various thoughts
+j	諸恋	諸恋	synonym of 相思相愛 (sōshi sō…
+j	諸悪	諸悪	every evil
+j	諸所	諸所	諸諸の場所。色々な場所。あちこち。
+j	諸掛	諸掛	商品の仕入や販売の際にかかる費用の総称。輸送費、運…
+j	諸政	諸政	さまざまな方面の政務。
+j	諸方	諸方	various directions or pla…
+j	諸星	諸星	a surname
+j	諸有	諸有	the state of being alive
+j	諸氏	諸氏	多くの人達を指す語句。
+j	諸江	諸江	a surname
+j	諸法	諸法	この世にある有形、無形のあらゆる現象。諸行。
+j	諸流	諸流	多くの河川の流れ。
+j	諸父	諸父	おじ（伯父、叔父）の総称。
+j	諸王	諸王	kings
+j	諸生	諸生	多くの門下や弟子。
+j	諸相	諸相	various aspects
+j	諸礼	諸礼	もろもろの礼法や作法。
+j	諸種	諸種	various kinds
+j	諸積	諸積	a surname
+j	諸等	諸等	various classes
+j	諸系	諸系	色々な系統。
+j	諸経	諸経	多くの経文。
+j	諸縁	諸縁	さまざまな因縁、ゆかり。
+j	諸般	諸般	all kinds
+j	諸芸	諸芸	諸諸の芸道。諸道。
+j	諸葛	諸葛	a surname
+j	諸藤	諸藤	a surname
+j	諸衆	諸衆	大勢の人。衆人。
+j	諸行	諸行	all worldy things
+j	諸衛	諸衛	平安時代以降、六衛府の総称。
+j	諸語	諸語	every language; languages…
+j	諸説	諸説	various opinions; various…
+j	諸豪	諸豪	もろもろの豪傑。
+j	諸費	諸費	さまざまな費用。諸経費。
+j	諸賢	諸賢	多くの賢人。
+j	諸道	諸道	諸諸の道路。
+j	諸願	諸願	（神仏に祈る）いろいろな願い。
+j	豸偏	豸偏	漢字の部首「⾘」が偏である場合の呼称。
+j	豸部	豸部	部首「⾘」で分類した漢字の一群。
+j	貸し	貸し	lending; loaning
+j	貸す	貸す	to lend; to let someone u…
+j	貸与	貸与	loaning out
+j	貸主	貸主	
+j	貸借	貸借	credit and debit, lending…
+j	貸出	貸出	金品を外部へ貸し出すこと。貸し付け。
+j	貸家	貸家	house for rent
+j	貸手	貸手	
+j	貸方	貸方	
+j	貸用	貸用	借用すること。
+j	貸費	貸費	student loan
+j	貸金	貸金	貸し付けた金銭。
+j	貸間	貸間	room for rent
+j	貸館	貸館	renting out of a 館 (kan)
+j	貸駭	貸駭	昏愚。
+j	軸受	軸受	
+j	軸唇	軸唇	columellar lip
+j	軸棒	軸棒	
+j	軸椎	軸椎	an axis (second cervical …
+j	軸索	軸索	axon (a nerve fibre)
+j	軸足	軸足	pivot foot (the foot arou…
+j	軸距	軸距	前の車軸と後ろの車軸の距離。最遠軸距。隣接軸距。軸…
+j	輸入	輸入	import, importation
+j	輸出	輸出	export
+j	輸液	輸液	
+j	輸血	輸血	blood transfusion
+j	輸贏	輸贏	victory or defeat
+j	輸送	輸送	transportation
+j	迸る	迸る	
+j	逸事	逸事	anecdote; unknown fact
+j	逸人	逸人	a male given name
+j	逸出	逸出	escape
+j	逸労	逸労	安逸と労苦。
+j	逸史	逸史	正規の歴史に記されていない事柄。また、それを記した…
+j	逸品	逸品	rarity
+j	逸宕	逸宕	無頓着なさま。
+j	逸散	逸散	「一散」の別表記。
+j	逸文	逸文	散逸して現在伝わらない文章。
+j	逸早	逸早	
+j	逸材	逸材	talented person
+j	逸機	逸機	好機を逸すること。
+j	逸民	逸民	隠れ住む人。
+j	逸球	逸球	守備側の選手が捕るべきボールを捕り損ねること。
+j	逸聞	逸聞	一般には知られていない話。逸話。
+j	逸脱	逸脱	deviation
+j	逸興	逸興	非常に興味深いさま。
+j	逸蕩	逸蕩	酒色に耽ること。
+j	逸裕	逸裕	a male given name
+j	逸話	逸話	anecdote, story
+j	逸走	逸走	escape, scud, scamper away
+j	逸郎	逸郎	a male given name
+j	選ぶ	選ぶ	to select, to choose
+j	選る	選る	to select
+j	選任	選任	appointment; election; no…
+j	選伐	選伐	木や枝を状態ごとに選んで切ること。
+j	選入	選入	選んで入れること。
+j	選出	選出	election
+j	選別	選別	sorting (categorizing), c…
+j	選勝	選勝	名勝を周遊すること。
+j	選卒	選卒	精兵。
+j	選句	選句	数ある俳句などの中からよいものを選び出すこと。
+j	選場	選場	試験場。
+j	選外	選外	選択・選抜・選定・入選の範囲外。
+j	選奨	選奨	優秀なものを選び、奨励すること。
+j	選好	選好	preference
+j	選定	選定	careful selection
+j	選対	選対	選挙対策の略。
+j	選局	選局	tuning
+j	選手	選手	player, at variety of spo…
+j	選抜	選抜	selecting the best
+j	選択	選択	a selection; a choice; an…
+j	選挙	選挙	election
+j	選文	選文	文を選ぶこと。
+j	選日	選日	その日の干支、十二直などを見て、吉日を選ぶこと。ま…
+j	選曲	選曲	choosing a song
+j	選書	選書	selection of books
+j	選果	選果	収穫した果実を出荷する際に選び分けること。
+j	選歌	選歌	選んだ歌。
+j	選民	選民	chosen people
+j	選炭	選炭	採掘した石炭を不純物や粗悪な物などと商品となるもの…
+j	選球	選球	discerning whether a pitc…
+j	選科	選科	規定された学科目のうち一部の科目を選択して学ぶ課程。
+j	選管	選管	選挙管理委員会の略。
+j	選考	選考	screening of candidates
+j	選者	選者	多くの作品の中から優秀なものを選び出す役の人。
+j	選職	選職	人選をする官吏。
+j	選良	選良	優れた人を選出すること。また、そのような人。
+j	選言	選言	択言。
+j	選進	選進	詩歌や文章を編纂して天皇に奉ること。
+j	選鉱	選鉱	採掘した鉱石から製錬の対象になる品位の高い鉱石を選…
+j	選鋒	選鋒	撰び抜かれた優秀な兵士。精兵。
+j	選録	選録	選出して記録すること。
+j	選集	選集	selection (of works, etc.)
+j	邸中	邸中	邸宅の中。
+j	邸内	邸内	grounds, premises
+j	邸宅	邸宅	mansion (large house or b…
+j	邸第	邸第	屋敷。邸宅。
+j	酸い	酸い	vinegary, sour
+j	酸し	酸し	sour; tasting of vinegar
+j	酸乳	酸乳	
+j	酸化	酸化	oxidation, oxidization
+j	酸味	酸味	sourness
+j	酸基	酸基	酸の分子から水素原子を除いた残った原子団。酸根。
+j	酸度	酸度	acidity
+j	酸性	酸性	acidity
+j	酸敗	酸敗	酒や油脂が酸化して変質し、酸味を呈すること。
+j	酸根	酸根	酸基。
+j	酸楚	酸楚	悲しくまた辛いこと。悲しみ、苦しむこと。
+j	酸模	酸模	synonym of 酸葉 (suiba, “co…
+j	酸欠	酸欠	oxygen deficiency; anoxia
+j	酸漿	酸漿	(サンショウ、熟字訓:ほおずき) ほおずき。
+j	酸痛	酸痛	疼痛。
+j	酸素	酸素	oxygen (chemical element)
+j	酸葉	酸葉	
+j	酸鼻	酸鼻	appalling, horrible
+j	醸す	醸す	to brew alcohol
+j	醸家	醸家	味噌、醤油、酒などを醸造する家。
+j	醸成	醸成	brewing, fermentation
+j	醸造	醸造	brewing
+j	醸酒	醸酒	醸造して酒をつくること。また、醸造してつくられた酒。
+j	鉸釘	鉸釘	「リベット」のこと。
+j	鋸屑	鋸屑	鋸で製材する際に出る木材の屑。おがくず。のこぎりく…
+j	鋸歯	鋸歯	鋸の歯。
+j	鋸草	鋸草	Siberian yarrow, Achillea…
+j	鋸鮫	鋸鮫	a sawshark
+j	鋸鱏	鋸鱏	a sawfish (Pristidae spp.)
+j	鋸鱝	鋸鱝	
+j	陸上	陸上	ashore, on land
+j	陸中	陸中	Rikuchū Province, an old …
+j	陸亀	陸亀	tortoise
+j	陸佐	陸佐	a field officer
+j	陸兵	陸兵	陸軍兵士の略。
+j	陸前	陸前	a surname
+j	陸圏	陸圏	地球上の陸地の部分。
+j	陸地	陸地	land
+j	陸塊	陸塊	海岸線で区切られた陸地の塊。
+j	陸士	陸士	a soldier
+j	陸夫	陸夫	a male given name
+j	陸奥	陸奥	Mutsu Province, an old pr…
+j	陸将	陸将	a lieutenant general
+j	陸尉	陸尉	a junior officer
+j	陸島	陸島	大陸の近くにあり大陸から分かれてできたと見られる島…
+j	陸川	陸川	a surname
+j	陸幕	陸幕	陸上幕僚監部の略。
+j	陸戦	陸戦	陸上戦闘、陸上作戦の略称。
+j	陸曹	陸曹	a non-commissioned officer
+j	陸棲	陸棲	陸上で生息する事。
+j	陸橋	陸橋	an overpass
+j	陸水	陸水	河川や地下水など、陸上に存在する水。
+j	陸海	陸海	陸と海。
+j	陸生	陸生	terrestrial (life)
+j	陸産	陸産	陸で産出される物。陸産物。
+j	陸男	陸男	a male given name
+j	陸相	陸相	陸軍大臣の略。
+j	陸稲	陸稲	水を張らず畑で栽培する稲。また、それから採れる米。…
+j	陸続	陸続	絶え間なく続くこと。続々。
+j	陸自	陸自	陸上自衛隊の略。
+j	陸行	陸行	going by land
+j	陸路	陸路	land route
+j	陸軍	陸軍	army
+j	陸輸	陸輸	陸上輸送の略。陸上で車両や鉄道などを用いた輸送。
+j	陸送	陸送	陸上輸送の略。陸上を車両や鉄道などを用いて貨物を運…
+j	陸運	陸運	land transport
+j	陸道	陸道	陸路。
+j	陸陸	陸陸	（打ち消しを伴って）満足に。ろくに。
+j	陸離	陸離	光が分散、入り乱れて美しく輝くさま。
+j	陸頭	陸頭	牛の頭が平らなこと。
+j	陸風	陸風	陸から海、湖、沼、池に向かって吹く風。
+j	頸木	頸木	
+j	頸椎	頸椎	a cervical vertebra
+j	頸盭	頸盭	ねじってある方向へ向けること。
+j	頸筋	頸筋	a cervical muscle
+j	頸聯	頸聯	漢詩の律詩で五番目、六番目の二つの句。
+j	頸腺	頸腺	首にあるリンパ腺。
+j	頸部	頸部	neck
+j	頸骨	頸骨	脊椎動物の首を縦に通る骨。頸椎。
+j	騸馬	騸馬	gelding
+j	骸晶	骸晶	中心部分からヘリが成長してできた結晶。食塩などを急…
+j	骸炭	骸炭	coke (coal product)
+j	骸骨	骸骨	a skeleton
+j	骸骼	骸骼	死体。かばね。
+j	鯸䱌	鯸䱌	「ふぐ」の別名。
+j	鯸鮐	鯸鮐	「ふぐ」の別名。
+j	鹸化	鹸化	saponification
+k	간계	奸計	plot; evil scheme
+k	간모	奸謀	plot; evil scheme
+k	간사	奸詐	deceit
+k	간신	奸臣	A villainous vassal.
+k	간악	奸悪	wickedness
+k	간악	奸惡	wickedness
+k	계묘	癸卯	The fortieth term of the …
+k	계미	癸未	The twentieth term of the…
+k	계사	癸巳	The thirtieth term of the…
+k	계유	癸酉	The tenth term of the Chi…
+k	계축	癸丑	The fiftieth term of the …
+k	계해	癸亥	The sixtieth term of the …
+k	권고	勸告	advice
+k	귀결	歸結	conclusion, consequence, …
+k	귀국	歸國	homecoming, returning to …
+k	귀순	歸順	defection (change in loya…
+k	귀환	歸還	return home
+k	나상	裸像	nude figure
+k	나지	裸地	any vacant land, regardle…
+k	나체	裸体	nude body
+k	나체	裸體	nude body
+k	대금	貸金	daegeum (traditional Kore…
+k	대부	貸付	godfather
+k	대여	貸与	rental
+k	대여	貸與	rental
+k	대용	貸用	substitute
+k	대주	貸主	
+k	대출	貸出	loan
+k	대콴	貸款	loan
+k	륙군	陸軍	문화어에서 ‘육군’을 달리 이르는 말.
+k	륙지	陸地	dry land; shore
+k	봉급	俸給	salary, wages
+k	비점	沸点	
+k	비점	沸點	
+k	사령	司令	commander
+k	사마	司馬	an ancient office post in…
+k	사명	司命	mission, errand, calling
+k	사법	司法	justice
+k	사서	司書	librarian
+k	사시	司試	squint; strabismus
+k	사제	司祭	Catholic or Orthodox prie…
+k	사창	司倉	government office of the …
+k	사회	司会	society
+k	사회	司會	society
+k	산미	酸味	
+k	산성	酸性	a castle on top of a moun…
+k	산소	酸素	oxygen
+k	산화	酸化	synonym of 산불 (sanbul, “m…
+k	상간	相姦	fornication
+k	상관	相関	correlation
+k	상관	相關	correlation
+k	상담	常談	advice, counsel, consulta…
+k	상담	相談	advice, counsel, consulta…
+k	상당	相当	Significant
+k	상당	相當	Significant
+k	상대	相対	Facing or confronting.
+k	상대	相對	Facing or confronting.
+k	상덕	常徳	
+k	상덕	常德	
+k	상락	常楽	a visit to the capital; v…
+k	상락	常樂	a visit to the capital; v…
+k	상무	常務	commerce
+k	상민	常民	commoner
+k	상사	相似	trading company
+k	상속	相続	inheritance; succession
+k	상속	相續	inheritance; succession
+k	상수	常数	constant
+k	상수	常數	constant
+k	상식	常識	common knowledge; common …
+k	상응	相応	suitability; corresponden…
+k	상응	相應	suitability; corresponden…
+k	상임	常任	a permanent post
+k	상정	常情	human nature
+k	상호	相互	mutual; common
+k	서경	書経	the Book of Documents (a …
+k	서경	書經	the Book of Documents (a …
+k	서고	書庫	library (institution whic…
+k	서고	書賈	library (institution whic…
+k	서기	書記	Christian era, AD
+k	서당	書堂	private village schools (…
+k	서도	書道	northwestern Korea (a reg…
+k	서류	書類	document
+k	서명	書名	signature, autograph
+k	서방	書房	west
+k	서법	書法	calligraphy
+k	서식	書式	format (of a document)
+k	서안	書案	Xi'an (the capital of Sha…
+k	서예	書芸	calligraphy
+k	서예	書藝	calligraphy
+k	서원	書院	seowon, a form of Confuci…
+k	서장	書状	the head of a government …
+k	서장	書狀	the head of a government …
+k	서재	書斎	study, library (room)
+k	서재	書齋	study, library (room)
+k	서적	書籍	books, publications
+k	서전	書䇳	the beginning of a war, t…
+k	서전	書箋	the beginning of a war, t…
+k	서점	書店	bookshop (shop that sells…
+k	서체	書体	style of handwriting
+k	서체	書體	style of handwriting
+k	서평	書評	book review
+k	서표	書標	bookmark
+k	선거	選挙	election
+k	선거	選擧	election
+k	선구	選球	pioneer; forerunner
+k	선별	選別	sorting, classification
+k	선수	選手	athlete; sportsman; a per…
+k	선임	選任	seniority
+k	선정	選定	selection
+k	선집	選集	anthology, collection
+k	선출	選出	election
+k	선택	選択	selection; choice; option
+k	선택	選擇	selection; choice; option
+k	선호	選好	preference
+k	수간	獸姦	bestiality (sexual activi…
+k	수대	獸帶	
+k	수량	數量	amount, quantity
+k	수리	數理	a large eagle or vulture.
+k	수백	數百	hundreds
+k	수사	數詞	number; numeral
+k	수송	輸送	transportation, transport
+k	수식	數式	mathematical expression, …
+k	수십	數十	scores, dozens
+k	수입	輸入	import
+k	수자	數字	'숫자'의 북한말.
+k	수적	數的	being numerical
+k	수지	獸脂	income and expenditure
+k	수천	數千	many thousands
+k	수출	輸出	export
+k	수치	數値	shame
+k	수판	數板	abacus
+k	수학	數學	mathematics
+k	수혈	輸血	blood transfusion
+k	수효	數爻	number (of something)
+k	숫자	數字	numeral
+k	신장	伸張	height; stature
+k	신축	伸縮	to stretch out and draw b…
+k	안반	岸畔	wooden board used for kne…
+k	영관	永観	field officer
+k	영관	永觀	field officer
+k	영구	永久	permanence; perpetuity; e…
+k	영기	永奇	mystic atmosphere, aura
+k	영생	永生	eternal life; immortality
+k	영속	永続	persistence, i.e. everlas…
+k	영속	永續	persistence, i.e. everlas…
+k	영영	永永	forever, eternally
+k	영원	永遠	eternity
+k	영주	永住	feudal lord
+k	예능	芸能	entertainment, performing…
+k	예명	芸名	stage name
+k	예술	芸術	art; fine art
+k	예제	芸題	example question
+k	와우	蝸牛	synonym of 달팽이 (dalpaeng'…
+k	육괴	陸塊	
+k	육교	陸橋	pedestrian overpass, over…
+k	육군	陸軍	army, military, troops
+k	육봉	陸封	penis
+k	육상	陸上	ashore, on land
+k	육지	陸地	dry land; shore
+k	일화	逸話	anecdote
+k	작렬	炸裂	bursting
+k	장병	腸病	officers and soldiers con…
+k	저택	邸宅	mansion; residence
+k	전례	典礼	ceremony, ritual
+k	전례	典禮	ceremony, ritual
+k	전통	典統	full connection (Describe…
+k	점점	漸漸	gradually, bit by bit
+k	점차	漸次	gradually; incrementally
+k	제도	諸島	archipelago
+k	제법	諸法	pretty, fairly, quite, co…
+k	제산	諸山	division
+k	제원	諸元	numerical data
+k	증기	蒸気	steam, vapor
+k	증기	蒸氣	steam, vapor
+k	증류	蒸溜	distillation
+k	증발	蒸発	evaporation
+k	증발	蒸發	evaporation
+k	증착	蒸着	진공 상태에서 금속이나 화합물 따위를 가열ㆍ증…
+k	창자	腸子	intestines, guts, bowels
+k	청결	淸潔	cleanliness
+k	청력	淸歷	hearing, listening ability
+k	청렴	淸廉	honesty, uncorruptedness,…
+k	청산	淸算	settlement (the act of se…
+k	청소	淸掃	cleaning
+k	청순	淸純	purity; innocence; restra…
+k	청양	淸陽	Spring
+k	청어	淸語	herring, specifically the…
+k	청주	淸州	rice wine
+k	청주	淸酒	rice wine
+k	청진	淸津	Chongjin (a city in North…
+k	청탁	淸濁	request; solicit
+k	촉각	觸覺	antenna
+k	촉각	觸角	antenna
+k	촉매	觸媒	catalyst
+k	촉수	觸手	tentacle
+k	촉지	觸肢	pedipalp
+k	촌극	寸劇	short play; skit
+k	촌충	寸虫	
+k	촌충	寸蟲	
+k	침례	浸礼	
+k	침례	浸禮	
+k	패기	霸氣	get-up-and-go; spirit; vi…
+k	학과	學科	department (college, univ…
+k	학괴	學校	Chungcheong, Gangwon, Jeo…
+k	학교	學校	school
+k	학구	學區	school district (Canadian…
+k	학급	學級	class
+k	학기	學期	semester, trimester, term
+k	학년	學年	school year
+k	학력	學力	academic background
+k	학력	學歷	academic background
+k	학명	學名	scientific name, technica…
+k	학문	學問	learning
+k	학번	學番	year, grade
+k	학벌	學閥	an academic clique, schoo…
+k	학부	學部	faculty, department
+k	학비	學費	tuition, school expenses
+k	학사	學士	baccalaureate (academic d…
+k	학생	學生	student, scholar, school …
+k	학설	學說	theory
+k	학술	學術	arts and sciences
+k	학습	學習	study, learning
+k	학식	學識	learning; erudition
+k	학원	學園	cram school
+k	학원	學院	cram school
+k	학위	學位	academic degree
+k	학자	學者	A scholar; a person of le…
+k	학점	學點	이 낱말은 뜻풀이가 필요합니다. 뜻풀이를 추가…
+k	학파	學派	
+k	학회	學會	academy
+k	함경	咸鏡	Hamgyong, a former provin…
+k	함흥	咸興	Hamhung (the capital city…
+k	해골	骸骨	skeleton
+k	해탄	骸炭	coke (coal product)
+k	핵막	核膜	진핵세포에서 핵을 둘러싸고 있는 이중막 구조의…
+k	핵산	核酸	nucleic acid
+k	핵심	核心	Something which is centra…
+k	핵자	核子	
+k	행복	幸福	happiness
+k	행어	幸御	coat hanger
+k	행여	幸여	possibly; by chance
+k	행운	幸運	good luck
+k	호구	戸口	the jaws of death; a very…
+k	호주	戸主	Australia (a country cons…
+k	호호	戸戸	teehee, hoho, haw-haw
+k	환각	丸刻	hallucination, illusion
+k	환도	丸都	single-bladed curved mili…
+k	환약	丸薬	pill; tablet
+k	환약	丸藥	pill; tablet
+k	흉갑	胸甲	
+k	흉부	胸部	thorax, chest
+k	흉상	胸像	bust (sculpture)
+k	흉추	胸椎	
+k	흡기	吸気	inhalation
+k	흡기	吸氣	inhalation
+k	흡반	吸盤	sucker, suction pad, suct…
+k	흡수	吸収	suction; absorption
+k	흡수	吸收	suction; absorption
+k	흡연	吸煙	smoking (of tobacco)
+k	흡입	吸入	inhalation
+k	흡충	吸虫	trematode
+k	흡충	吸蟲	trematode
+k	흡혈	吸血	bloodsucking
+j	丸ごと	丸ごと	
+j	丸の内	丸の内	area within the inner cit…
+j	丸まる	丸まる	to become round; to huddl…
+j	丸める	丸める	to roll up, to make into …
+j	丸ノ内	丸ノ内	
+j	丸写し	丸写し	an exact copy
+j	丸出し	丸出し	complete exposure; uncove…
+j	丸呑み	丸呑み	swallowing something whole
+j	丸坊主	丸坊主	頭髪全体を剃ったり刈ったりした状態。
+j	丸括弧	丸括弧	a parenthesis; a bracket …
+j	丸文字	丸文字	a highly rounded feminine…
+j	丸木舟	丸木舟	
+j	丸洗い	丸洗い	washing something whole (…
+j	丸焼け	丸焼け	completely burned
+j	丸耳象	丸耳象	an African forest elephant
+j	丸花蜂	丸花蜂	bumblebee
+j	丸見え	丸見え	completely visible
+j	丸齧り	丸齧り	taking a bite out of some…
+j	伸ばす	伸ばす	to let something grow lon…
+j	伸びる	伸びる	to stretch, to extend, to…
+j	伸べる	伸べる	to lengthen, to extend
+j	伸一郎	伸一郎	a male given name
+j	伸太朗	伸太朗	a male given name
+j	伸太郎	伸太郎	a male given name
+j	伸張の	伸張の	
+j	伸縮性	伸縮性	elasticity; scalability
+j	伸長位	伸長位	a variation of the missio…
+j	伸開線	伸開線	ある図形の外側に糸を巻き付け、糸を張りながらほどい…
+j	典する	典する	質入れする。質に入れる。
+j	典型的	典型的	典型としての性質を備えているさま。
+j	典薬寮	典薬寮	a 律令 (ritsuryō) position …
+j	典雅な	典雅な	
+j	凸凹な	凸凹な	
+j	凸凹道	凸凹道	A bumpy road.
+j	凸待ち	凸待ち	waiting for someone to ca…
+j	凸面鏡	凸面鏡	convex mirror
+j	券売機	券売機	ticket machine
+j	券面額	券面額	有価証券の券面に記載された金額。額面金額。
+j	卸し金	卸し金	grater
+j	卸売り	卸売り	
+j	卸売業	卸売業	仕入れた商品を小売業へ販売する事業。
+j	司令塔	司令塔	control tower
+j	司令官	司令官	commanding officer; comma…
+j	司令部	司令部	headquarters
+j	司会者	司会者	座談会や集会などの進行する者。
+j	司法の	司法の	
+j	司法府	司法府	国家で司法を行う機関。裁判所。
+j	司法権	司法権	法律を適用して、疑義につき裁定を下す権力。
+j	司法的	司法的	司法に関するさま。
+j	司法省	司法省	主に外国の政府で司法行政を担当する省庁。
+j	司訳院	司訳院	Bureau of Interpreters, a…
+j	吸入器	吸入器	inhaler (canister contain…
+j	吸取紙	吸取紙	
+j	吸引力	吸引力	power of attraction
+j	吸気口	吸気口	吸気するために、装置につけられている穴。
+j	吸水性	吸水性	素材が水（水分）を吸う性質。
+j	吸湿性	吸湿性	
+j	吸着音	吸着音	click
+j	吸虫管	吸虫管	tool to vacuum small inse…
+j	吸血性	吸血性	
+j	吸血鬼	吸血鬼	a vampire
+j	吸音材	吸音材	soundproofing material; s…
+j	嘸かし	嘸かし	certainly, surely
+j	寸実子	寸実子	a female given name
+j	寸胴鍋	寸胴鍋	金属製で円筒形の鍋。寸胴。
+j	常夜灯	常夜灯	夜間ずっと灯しておく灯火。
+j	常夜燈	常夜燈	
+j	常套の	常套の	
+j	常套句	常套句	conventional phrase, stoc…
+j	常套語	常套語	conventional phrase, stoc…
+j	常平倉	常平倉	昔の中国や日本で、米の価格を安定させるために、政府…
+j	常微分	常微分	（偏微分に対して）一変数関数の微分。
+j	常態化	常態化	normalization
+j	常楽会	常楽会	「涅槃会」の別称。
+j	常緑樹	常緑樹	evergreen tree
+j	常習の	常習の	
+j	常習犯	常習犯	repeat offender (of crime…
+j	常螺旋	常螺旋	螺旋のうち、円筒座標でr=a\z=bθと表示される…
+j	常設展	常設展	博物館などで常時行われている展示。
+j	常識家	常識家	常に一般的、常識的な考えや行動をとる人。
+j	常識的	常識的	普通で当たり前であるさま。
+j	常連客	常連客	regular customer
+j	常陸国	常陸国	日本の旧国（令制国）のひとつ。現在の茨城県の大部分…
+j	幸あれ	幸あれ	good luck, best wishes, a…
+j	幸いに	幸いに	
+j	幸せな	幸せな	
+j	幸一郎	幸一郎	a male given name
+j	幸不幸	幸不幸	幸福と不幸。幸せなことと不幸せなこと。
+j	幸太郎	幸太郎	a male given name
+j	幸福な	幸福な	
+j	幸若舞	幸若舞	室町時代後期、桃井直詮（幼名幸若丸）が始めたとされ…
+j	幸運な	幸運な	
+j	幸運を	幸運を	
+j	幸運児	幸運児	fortune's favourite; a lu…
+j	懸かる	懸かる	to hang in the air
+j	懸ける	懸ける	
+j	懸垂幕	懸垂幕	
+j	懸垂線	懸垂線	紐のような自立しない物体の両端のみを支え、その間は…
+j	懸垂谷	懸垂谷	懸谷。
+j	懸壅垂	懸壅垂	uvula
+j	懸想文	懸想文	a love letter
+j	懸濁液	懸濁液	顕微鏡で見える程度の粒子が液体の中に沈殿せずに分散…
+j	懸賞金	懸賞金	prize money; reward
+j	戸外の	戸外の	
+j	戸建て	戸建て	アパートなどではなく一戸の独立した家屋。一戸建て。
+j	戸惑い	戸惑い	getting lost, losing one'…
+j	戸惑う	戸惑う	to be perplexed, to be at…
+j	戸障子	戸障子	雨戸と障子。
+j	書いた	書いた	
+j	書いて	書いて	
+j	書き判	書き判	signature or stamp at the…
+j	書き方	書き方	
+j	書き物	書き物	a writing, a document
+j	書き順	書き順	stroke order
+j	書する	書する	（「○○を書する」または「○○と書する」の形で）書…
+j	書写体	書写体	non-standard character fo…
+j	書初め	書初め	kakizome or the first cal…
+j	書簡箋	書簡箋	letter paper
+j	書籍商	書籍商	古本を扱う古物商。
+j	書籍館	書籍館	図書館の旧称。
+j	書記官	書記官	書記を担当する官職。
+j	書記素	書記素	grapheme
+j	書記長	書記長	secretary general
+j	書誌学	書誌学	bibliography; the study o…
+j	書込む	書込む	
+j	書道家	書道家	calligrapher
+j	書道科	書道科	大学に設置している書道を専門に学ぶ学科。書道学科。
+j	枸杞子	枸杞子	dried wolfberry; goji ber…
+j	枸杞酒	枸杞酒	生または乾燥した枸杞の果実を搗き砕いて焼酎に漬け込…
+j	枸櫞酸	枸櫞酸	citric acid
+j	核の傘	核の傘	nuclear umbrella
+j	核の冬	核の冬	
+j	核兵器	核兵器	nuclear weapons
+j	核分裂	核分裂	重い原子核が中性子、陽子、ベータ線、ガンマ線等を吸…
+j	核反応	核反応	nuclear reaction
+j	核変換	核変換	原子核が放射性崩壊や人工的な核反応で別の種類の原子…
+j	核実験	核実験	nuclear test (experiment …
+j	核家族	核家族	夫婦と子供のみで構成される家族。
+j	核小体	核小体	nucleolus (part of nucleu…
+j	核弾頭	核弾頭	nuclear warhead
+j	核戦争	核戦争	nuclear war
+j	核抑止	核抑止	nuclear deterrence
+j	核時代	核時代	
+j	核武装	核武装	核兵器を装備したり配置したりすること。
+j	核燃料	核燃料	nuclear fuel
+j	核爆弾	核爆弾	nuclear bomb
+j	核爆発	核爆発	核融合や核分裂など核反応による爆発。
+j	核融合	核融合	karyogamy, the fusion of …
+j	核軍縮	核軍縮	nuclear disarmament
+j	核開発	核開発	核兵器の実用化のための開発。
+j	檸檬色	檸檬色	「レモン色」の漢字表記。
+j	永久に	永久に	
+j	永久の	永久の	
+j	永久歯	永久歯	乳歯が抜けた後に生え、その後生え変わらない歯。成歯。
+j	永住権	永住権	外国人が国籍を取得せず、また在留の期間を制限される…
+j	永業田	永業田	かつての中国の制度で世襲が許された田地。永業。世業…
+j	永田町	永田町	日本の国政、政界。
+j	永続性	永続性	ある状態が長続きしうる性質。
+j	永続的	永続的	perpetual, permanent, eve…
+j	永遠に	永遠に	
+j	永遠の	永遠の	
+j	沸かす	沸かす	
+j	沸騰石	沸騰石	液体の突沸を防ぐため、液体が過熱する前に液体の中に…
+j	浸かる	浸かる	浸かる, 浸る: to be soaked; to…
+j	浸ける	浸ける	
+j	浸出液	浸出液	（生薬などを）溶剤（水、アルコールなど）で浸出させ…
+j	浸染工	浸染工	浸染を行う職人。
+j	浸透圧	浸透圧	osmotic pressure
+j	游禽類	游禽類	水上で生活するかもなどの水鳥の総称。
+j	漸化式	漸化式	数列のある項の数値を、直前の1つ以上の項を用いて表…
+j	漸新世	漸新世	古第三紀の最後の世。3390万年前から2303万年…
+j	漸近線	漸近線	asymptote
+j	漸進的	漸進的	手順を経て徐々に目的を実現していくさま。
+j	灸羽田	灸羽田	a Malabar grouper (Epinep…
+j	狸囃子	狸囃子	festival music heard at n…
+j	狸菖蒲	狸菖蒲	frogsmouths, Philydrum la…
+j	相乃谷	相乃谷	a surname
+j	相之谷	相之谷	a surname
+j	相乗り	相乗り	riding together, sharing …
+j	相合傘	相合傘	an umbrella or parasol sh…
+j	相太郎	相太郎	a male given name
+j	相学者	相学者	相学を研究する科学者。
+j	相対の	相対の	
+j	相対性	相対性	relativity
+j	相対的	相対的	relative
+j	相対論	相対論	「相対性理論」の略。
+j	相当な	相当な	
+j	相応な	相応な	
+j	相思病	相思病	
+j	相思鳥	相思鳥	red-billed leiothrix (Lei…
+j	相手方	相手方	相手のがわ。
+j	相撃ち	相撃ち	both sides being equally …
+j	相撲道	相撲道	相撲の精神。
+j	相模原	相模原	Sagamihara (a city in Kan…
+j	相模国	相模国	日本の旧国（令制国）のひとつ。現在の神奈川県の北東…
+j	相模女	相模女	woman from Sagami Provinc…
+j	相模湾	相模湾	Sagami Bay, a bay south o…
+j	相次ぐ	相次ぐ	follow one after another
+j	相続人	相続人	a successor; an heir
+j	相続権	相続権	相続に関し、相続人が持つ法律上の権利。
+j	相続税	相続税	相続や遺贈など、人の死亡によって移転する財産に対し…
+j	相言葉	相言葉	
+j	相談事	相談事	matter to be discussed
+j	相談役	相談役	相談の相手となる者。
+j	相転移	相転移	phase transition
+j	相違点	相違点	point of difference
+j	箸置き	箸置き	chopstick rest
+j	糸球体	糸球体	腎臓の皮質にあり、毛細血管が網のようになり糸を巻い…
+j	糸粒体	糸粒体	ミトコンドリア。
+j	糸蜻蛉	糸蜻蛉	a damselfly
+j	糸電話	糸電話	tin can telephone
+j	糸魚川	糸魚川	Itoigawa (a city in Niiga…
+j	羸痩症	羸痩症	（医学）脂肪組織が病的に減少した症候。著しいやせ。…
+j	胸ぐら	胸ぐら	collar, lapels
+j	胸オペ	胸オペ	
+j	胸チラ	胸チラ	breast flashing; brief (i…
+j	胸ポチ	胸ポチ	
+j	胸一杯	胸一杯	
+j	胸三寸	胸三寸	thoughts buried deep insi…
+j	胸勘定	胸勘定	物事を行うに当って、その事をなす前に心の中で大まか…
+j	胸当て	胸当て	western-style armor for t…
+j	胸斑鶲	胸斑鶲	
+j	胸焼け	胸焼け	heartburn
+j	胸白貂	胸白貂	
+j	胸算用	胸算用	making a rough estimate i…
+j	胸腺腫	胸腺腫	
+j	胸膜炎	胸膜炎	pleurisy
+j	胸膜腔	胸膜腔	pleural cavity
+j	胸赤鶸	胸赤鶸	
+j	胸騒ぎ	胸騒ぎ	unrest; uneasiness; premo…
+j	腸肋筋	腸肋筋	an iliocostalis muscle
+j	腸腰筋	腸腰筋	an iliopsoas muscle
+j	腸詰め	腸詰め	ソーセージ。
+j	腸間膜	腸間膜	a mesentery
+j	腸骨筋	腸骨筋	an iliacus muscle
+j	芸大生	芸大生	大学の芸術学部、芸術大学で芸術を学ぶ大学生。
+j	芸娼妓	芸娼妓	芸妓（芸者）と娼妓（遊女）。
+j	芸能人	芸能人	celebrities in the world …
+j	芸能界	芸能界	The world of entertainment
+j	芸術品	芸術品	芸術的な価値の認められる作品。
+j	芸術学	芸術学	芸術について実証的、科学的に研究する学問。
+j	芸術家	芸術家	artist
+j	芸術性	芸術性	artistic quality
+j	芸術的	芸術的	artistic
+j	芸達者	芸達者	ある芸に熟達しているさま。また、さまざまな芸をもっ…
+j	蒸かす	蒸かす	to steam; to cook by stea…
+j	蒸ける	蒸ける	
+j	蒸し器	蒸し器	steamer (cooking applianc…
+j	蒸らす	蒸らす	steam (cook using steam)
+j	蒸パン	蒸パン	「蒸しパン」の異表記。
+j	蒸気圧	蒸気圧	vapor pressure (pressure …
+j	蒸気船	蒸気船	steamship
+j	蒸汽船	蒸汽船	「蒸気船」の異綴。
+j	蒸留器	蒸留器	
+j	蒸留水	蒸留水	distilled water
+j	蒸留酒	蒸留酒	発酵させて造った醸造酒を蒸留して、ふくまれるアルコ…
+j	蒸発散	蒸発散	
+j	蛸焼き	蛸焼き	takoyaki
+j	蛸配当	蛸配当	配当として株主に支払うことのできる利益がないにも関…
+j	裸ん坊	裸ん坊	衣類を何も身につけていないこと。はだかんぼ。
+j	裸一貫	裸一貫	having nothing, without a…
+j	裸参り	裸参り	visiting a shrine or temp…
+j	裸祭り	裸祭り	naked festival (festival …
+j	裸足で	裸足で	
+j	諸外国	諸外国	日本以外の諸国。
+j	諸見里	諸見里	a surname
+j	貸し方	貸し方	a creditor; a lender
+j	貸付け	貸付け	loan
+j	貸付金	貸付金	loan
+j	貸座敷	貸座敷	有料で貸し出す座敷。
+j	貸金庫	貸金庫	
+j	貸金業	貸金業	消費者や事業者に対して融資を専門に行う事業。銀行業…
+j	輸する	輸する	to transport; to deliver
+j	輸入品	輸入品	imported goods, import
+j	輸入法	輸入法	
+j	輸入港	輸入港	port of entry
+j	輸入盤	輸入盤	foreign (imported) record
+j	輸入税	輸入税	import duties
+j	輸入量	輸入量	import volume
+j	輸入額	輸入額	level of imports
+j	輸出入	輸出入	export and import
+j	輸出品	輸出品	exported goods; export
+j	輸卵管	輸卵管	synonym of 卵管 (“Fallopian…
+j	輸尿管	輸尿管	腎臓から尿を膀胱へ送るための管。尿管。
+j	輸精管	輸精管	synonym of 精管 (seikan, “v…
+j	輸胆管	輸胆管	肝臓や胆嚢から胆汁を十二指腸へ送るための管の総称。…
+j	輸送業	輸送業	旅客や貨物の輸送を行う事業。運輸業。運送業。
+j	輸送機	輸送機	軍隊で人員や物資の輸送に使われる軍用機。
+j	輸送科	輸送科	陸上自衛隊の輜重兵。
+j	輸送船	輸送船	天然資源、食料、燃料などの物資を輸送する船舶。
+j	輸送艇	輸送艇	武器や弾薬などの物資や人員を輸送する小型の艦艇。
+j	輸送艦	輸送艦	武器や弾薬などの物資や人員を輸送する大型の艦艇。
+j	逸する	逸する	to depart; to deviate
+j	逸らす	逸らす	to avert
+j	逸れる	逸れる	to go astray; to deviate;…
+j	逸早く	逸早く	promptly, quickly, withou…
+j	逸早し	逸早し	quick, swift
+j	逸早ぶ	逸早ぶ	to move or act quickly an…
+j	選する	選する	選択する。選ぶ。
+j	選帝侯	選帝侯	prince-elector, a member …
+j	選手村	選手村	Olympic village
+j	選手権	選手権	championship (position of…
+j	選択権	選択権	choice, option
+j	選択肢	選択肢	choice, alternative (a si…
+j	選挙人	選挙人	voter
+j	選挙区	選挙区	constituency (a district …
+j	選挙戦	選挙戦	選挙における候補同士の争い。
+j	選挙権	選挙権	suffrage
+j	選球眼	選球眼	an eye for discerning whe…
+j	酸い葉	酸い葉	
+j	酸化剤	酸化剤	
+j	酸化数	酸化数	化合物における各原子・イオンがどの程度酸化または還…
+j	酸化物	酸化物	oxide (binary compound of…
+j	酸化鉄	酸化鉄	鉄の酸化物の総称。
+j	酸化銀	酸化銀	銀が酸素と化合してできる物質。酸化数の違いにより、…
+j	酸化銅	酸化銅	銅の酸化物の総称。
+j	酸性化	酸性化	
+j	酸性塩	酸性塩	水素イオンが残っている塩。
+j	酸性度	酸性度	
+j	酸性雨	酸性雨	acid rain
+j	酸棗仁	酸棗仁	jujube seeds
+j	酸漿貝	酸漿貝	lampshell excluding the l…
+j	酸素族	酸素族	周期表で第16族の元素。2価の陰イオンになる。
+j	酸血症	酸血症	acidemia, acidosis
+j	酸辣湯	酸辣湯	hot and sour soup
+j	醸造学	醸造学	醸造について研究する学問。発酵学。発酵科学。発酵工…
+j	醸造家	醸造家	醸造を業とする人。また、そのような家。
+j	醸造所	醸造所	brewery (building where b…
+j	醸造業	醸造業	醸造を行う事業。
+j	醸造酒	醸造酒	穀類や果物などを元にして発酵させて醸造した酒。日本…
+j	鋸歯状	鋸歯状	serrated
+j	陸中国	陸中国	日本の旧国（令制国）のひとつで明治維新後に明治政府…
+j	陸前国	陸前国	日本の旧国（令制国）のひとつで明治維新後に明治政府…
+j	陸半球	陸半球	地球の半球のうち、陸の割合が最大のもの。
+j	陸奥国	陸奥国	（むつのくに）日本の旧国（令制国）のひとつ。現在の…
+j	陸将補	陸将補	a major general
+j	陸屋根	陸屋根	傾斜がほとんどない平面的な屋根。
+j	陸幕長	陸幕長	陸上幕僚長の略。
+j	陸戦兵	陸戦兵	陸戦隊に所属する兵士。
+j	陸戦隊	陸戦隊	陸軍の歩兵や海軍の水兵で臨時的に構成される上陸戦を…
+j	陸揚げ	陸揚げ	船舶の積み荷を陸に揚げること。揚陸。
+j	陸水学	陸水学	陸水に関することを科学的に研究する学問。
+j	陸海空	陸海空	land, sea, and air
+j	陸海軍	陸海軍	陸軍と海軍。
+j	陸生の	陸生の	
+j	陸産物	陸産物	陸でとれる産物。また、その加工品。
+j	陸続き	陸続き	something joined by land,…
+j	陸蒸気	陸蒸気	steam locomotive
+j	陸軍国	陸軍国	強力な陸軍を持っている国。ランドパワー。
+j	陸軍省	陸軍省	第二次世界大戦前の日本で陸軍に関する業務を行った日…
+j	頸動脈	頸動脈	carotid artery
+j	頸静脈	頸静脈	jugular vein
+k	경장근	頸長筋	longus colli muscle
+k	광배근	腸腰筋	latissimus dorsi muscle
+k	구기자	枸杞子	wolfberry
+k	구기차	枸杞茶	wolfberry tea (an herbal …
+k	기형학	畸形学	
+k	기형학	畸形學	
+k	대부금	貸付金	loan
+k	대여자	貸与者	
+k	대여자	貸與者	
+k	대출금	貸出金	loan
+k	대출자	貸出者	
+k	붕장어	弸長魚	whitespotted conger
+k	사령관	司令官	commanding officer, comma…
+k	사령기	司令旗	
+k	사령부	司令部	headquarters
+k	사립체	糸粒体	
+k	사역원	司訳院	Bureau of Interpreters, a…
+k	사역원	司譯院	Bureau of Interpreters, a…
+k	산수소	酸水素	
+k	산화물	酸化物	oxide
+k	산화제	酸化剤	oxidant, oxidizing agent
+k	산화제	酸化劑	oxidant, oxidizing agent
+k	상견례	相見礼	meeting between the famil…
+k	상견례	相見禮	meeting between the famil…
+k	상담가	相談家	
+k	상당히	相当히	suitably; to an appropria…
+k	상당히	相當히	suitably; to an appropria…
+k	상대방	相対方	A partner in conversation…
+k	상대방	相對方	A partner in conversation…
+k	상대적	相対的	relative
+k	상대적	相對的	relative
+k	상록수	常綠樹	evergreen (tree)
+k	상록수	常緑樹	evergreen (tree)
+k	상사병	相思病	lovesickness
+k	상속인	相続人	heir, inheritor
+k	상속인	相續人	heir, inheritor
+k	상투어	常套語	
+k	서기장	書記長	
+k	서류철	書類綴	file, folder
+k	선거구	選挙区	constituency, electoral p…
+k	선거구	選擧區	constituency, electoral p…
+k	선거권	選挙権	선거할 수 있는 권리.
+k	선거권	選擧權	선거할 수 있는 권리.
+k	선거인	選挙人	voter; elector
+k	선거인	選擧人	voter; elector
+k	선거통	選挙桶	North Korea standard spel…
+k	선거통	選擧桶	North Korea standard spel…
+k	선구안	選球眼	an eye for discerning whe…
+k	선수촌	選手村	
+k	선제후	選帝侯	a prince-elector, a membe…
+k	선택권	選択権	choice, option
+k	선택권	選擇權	choice, option
+k	선택지	選択肢	
+k	선택지	選擇肢	
+k	수뇨관	輸尿管	ureter
+k	수많다	數많다	To be many; numerous.
+k	수백만	數百萬	millions
+k	수산기	數算機	hydroxyl
+k	수송선	輸送船	ferry, ferryboat
+k	수의사	獸醫師	veterinarian
+k	수의학	獸醫學	
+k	수입사	輸入社	
+k	수입품	輸入品	imported goods, import
+k	수직선	數直線	
+k	수출품	輸出品	exported goods; export
+k	수치화	數値化	
+k	수포자	數抛者	someone who has given up …
+k	수학자	數學者	mathematician
+k	신장위	伸長位	a variation of the missio…
+k	신축성	伸縮性	scalability
+k	양조장	醸造場	brewery, distillery
+k	영구성	永久性	permanence, permanency; p…
+k	영속성	永続性	persistency, perennity, e…
+k	영속성	永續性	persistency, perennity, e…
+k	영원성	永遠性	eternality, foreverness, …
+k	예술가	芸術家	artist
+k	예술품	芸術品	work of art, artwork, pie…
+k	장독소	腸毒素	
+k	장요근	腸腰筋	iliopsoas muscle
+k	저가락	箸가락	North Korea standard spel…
+k	전당포	典当鋪	pawnshop
+k	전당포	典當鋪	pawnshop
+k	전형적	典型的	the condition or state of…
+k	점점점	漸漸漸	dot dot dot (ellipsis sym…
+k	제갈량	諸葛亮	mastermind; cunning strat…
+k	증기선	蒸気船	steamship, steamboat, ste…
+k	증기선	蒸氣船	steamship, steamboat, ste…
+k	증류수	蒸溜水	distilled water
+k	증류주	蒸溜酒	
+k	청국장	淸麴醬	a sort of stew made of fe…
+k	청량제	淸凉劑	food or medicine that fre…
+k	청소기	淸掃機	vacuum cleaner, hoover
+k	청소부	淸掃夫	cleaner (person)
+k	청소부	淸掃婦	cleaner (person)
+k	청정기	淸淨器	
+k	청천강	淸川江	Chongchon River (a river …
+k	학구적	學究的	academic, scholarly
+k	학부모	學父母	school parent
+k	학생복	學生服	school uniform
+k	학생회	學生會	student council
+k	학습용	學習用	
+k	학습자	學習者	
+k	학습장	學習帳	notebook (for study notes)
+k	학용품	學用品	school supplies/things, s…
+k	함경도	咸鏡道	Hamgyeong, Hamgyŏng (a pr…
+k	항아리	缸아리	crock, large pot
+k	핵가족	核家族	nuclear family
+k	핵무기	核武器	nuclear weapon
+k	핵반응	核反応	nuclear reaction
+k	핵반응	核反應	nuclear reaction
+k	핵분열	核分裂	nuclear fission
+k	핵심부	核心部	kernel
+k	핵심어	核心語	
+k	핵융합	核融合	
+k	핵전쟁	核戦争	nuclear war
+k	핵전쟁	核戰爭	nuclear war
+k	핵폐수	核廃水	nuclear waste water
+k	핵폐수	核廢水	nuclear waste water
+k	핵폭발	核爆発	nuclear explosion
+k	핵폭발	核爆發	nuclear explosion
+k	핵폭탄	核爆弾	nuclear bomb
+k	핵폭탄	核爆彈	nuclear bomb
+k	행복감	幸福感	euphoria
+k	행운아	幸運児	a child of fortune; fortu…
+k	행운아	幸運兒	a child of fortune; fortu…
+k	헬륨핵융합	核融合	
+k	현수교	懸垂橋	
+k	현수막	懸垂幕	
+k	환목궁	丸木弓	selfbow, self bow
+k	흡수지	吸収紙	blotting paper
+k	흡수지	吸收紙	blotting paper
+k	흡습성	吸湿性	
+k	흡습성	吸濕性	
+k	흡연실	吸煙室	
+k	흡연자	吸煙者	smoker (person who smokes…
+k	흡인력	吸引力	attraction, attractive po…
+k	흡입기	吸入器	
+k	흡착음	吸着音	click
+k	흡혈귀	吸血鬼	vampire
+j	丸っきり	丸っきり	
+j	丸っ切り	丸っ切り	completely, perfectly
+j	丸め込む	丸め込む	
+j	丸太ん棒	丸太ん棒	樹皮を剥いだままで加工されていない断面が丸い木材。…
+j	丸太小屋	丸太小屋	a log cabin
+j	伸びやか	伸びやか	comfortable, at ease, rel…
+j	伸び伸び	伸び伸び	growing quickly
+j	伸び悩む	伸び悩む	show poor performance, un…
+j	伸縮性の	伸縮性の	
+j	伸縮自在	伸縮自在	free to expand and contra…
+j	典型的な	典型的な	
+j	典礼言語	典礼言語	
+j	凸レンズ	凸レンズ	中央部分が縁より厚いレンズ。
+j	凸多角形	凸多角形	全ての内角が凸角からなる多角形。
+j	司教の職	司教の職	
+j	司法修習	司法修習	司法試験に合格した者が最高裁判所の命に基づいて行う…
+j	司法取引	司法取引	刑事事件で検察官と被告人（またはその弁護人）が事件…
+j	司法書士	司法書士	他人の嘱託で登記、供託、訴訟などの手続きのために裁…
+j	司法機関	司法機関	司法を司る機関。司法府。裁判所など。
+j	司法行政	司法行政	裁判所の設置、裁判官その他の職員の人事、事務の分配…
+j	司法解剖	司法解剖	犯罪に関係するまたはその疑いがある死体について死因…
+j	司法試験	司法試験	a bar examination
+j	司法長官	司法長官	attorney general
+j	吸い付く	吸い付く	to stick to
+j	吸い取る	吸い取る	to suck away; to suck up
+j	吸い込み	吸い込み	suction, absorption
+j	吸い込む	吸い込む	inhale, breathe (to draw …
+j	吸入する	吸入する	
+j	吸収する	吸収する	
+j	吸引ビン	吸引ビン	
+j	吸引分娩	吸引分娩	自然分娩が困難な場合に、吸引する器具を胎児の頭に吸…
+j	吸血動物	吸血動物	
+j	咸鏡北道	咸鏡北道	North Hamgyong (a provinc…
+j	咸鏡南道	咸鏡南道	South Hamgyong (a provinc…
+j	尸位素餐	尸位素餐	holding one's position an…
+j	常しえに	常しえに	
+j	常住不壊	常住不壊	いつまでも変わらず残り続けること。
+j	常住不断	常住不断	ceaseless action, going w…
+j	常住不滅	常住不滅	いつまでも変わらず残り続けること。
+j	常住坐臥	常住坐臥	座っていても寝ていても。普段。
+j	常在戦場	常在戦場	常に戦場にいるような心構えでいること。
+j	常套手段	常套手段	one's usual practice, one…
+j	常染色体	常染色体	autosome (any chromosome …
+j	常用対数	常用対数	common logarithm, base 10…
+j	常用對數	常用對數	常用対数の旧字体表記。。
+j	常用手段	常用手段	one's usual practice, one…
+j	常用漢字	常用漢字	kanji approved for regula…
+j	常用薄明	常用薄明	薄明のうち、太陽の高度が地平線下6度以内にある状態…
+j	常緑高木	常緑高木	tall evergreen tree
+j	常習的な	常習的な	
+j	常識改変	常識改変	現実には非常識である事柄、非現実的である事柄が当然…
+j	幸いにも	幸いにも	
+j	幸災楽禍	幸災楽禍	
+j	幸運にも	幸運にも	
+j	懸垂下降	懸垂下降	高所からロープを用いて下降すること。
+j	懸垂分詞	懸垂分詞	分詞構文で主節と従属節の主語が一致しない場合の分詞。
+j	懸垂曲線	懸垂曲線	
+j	懸念材料	懸念材料	cause for concern, ground…
+j	懸架装置	懸架装置	自動車などの車輪と車体の間に取り付けられ車体を支え…
+j	戸別訪問	戸別訪問	一軒ずつ個別の家を訪問すること。
+j	戸口調査	戸口調査	戸数と人口を調査すること。
+j	戸田格子	戸田格子	n個の質点が指数ポテンシャルによって相互作用してい…
+j	戸籍抄本	戸籍抄本	戸籍の原本に記されたもののうち請求者が請求した一部…
+j	戸籍謄本	戸籍謄本	戸籍の原本に記された全部を写したもの。
+j	摸々具和	摸々具和	
+j	書き写す	書き写す	
+j	書き出す	書き出す	to start/begin to write
+j	書き初め	書き初め	kakizome, or the first ca…
+j	書き取り	書き取り	
+j	書き取る	書き取る	to write down; to take di…
+j	書き換え	書き換え	a rewrite
+j	書き物机	書き物机	
+j	書き直す	書き直す	to rewrite
+j	書き言葉	書き言葉	
+j	書き込み	書き込み	writing; entry (in a form)
+j	書き込む	書き込む	fill out (a form)
+j	書くこと	書くこと	
+j	書の三聖	書の三聖	3人の書の名人のことで、空海、菅原道真、小野道風の…
+j	書字障害	書字障害	
+j	書留郵便	書留郵便	registered mail
+j	書誌学者	書誌学者	書誌学を研究する科学者。
+j	枸櫞酸塩	枸櫞酸塩	citrate
+j	核データ	核データ	
+j	核保有国	核保有国	nuclear power (a state th…
+j	核抑止力	核抑止力	nuclear deterrent
+j	核抑止論	核抑止論	synonym of 核抑止 (kakuyokus…
+j	核物理学	核物理学	
+j	核融合炉	核融合炉	fusion reactor
+j	永久不変	永久不変	いつまでも変わらず残り続けること。
+j	永久凍土	永久凍土	permafrost
+j	永久機関	永久機関	perpetual motion machine
+j	永劫不変	永劫不変	いつまでも変わらず残り続けること。
+j	永字八法	永字八法	側 (soku) or 点 (ten, liter…
+j	永年摂動	永年摂動	太陽系の惑星や衛星などの軌道が毎年ごく僅かなずれが…
+j	永眠する	永眠する	
+j	永祚の風	永祚の風	永祚元年8月13日（989年9月20日）に畿内を襲…
+j	永続する	永続する	
+j	永続的に	永続的に	
+j	永遠の都	永遠の都	
+j	永遠不変	永遠不変	いつまでも変わらず残り続けること。
+j	沸き返る	沸き返る	
+j	浸水した	浸水した	
+j	浸食輪廻	浸食輪廻	隆起によりできた原地形がさまざまな浸食の作用により…
+j	狸の茶袋	狸の茶袋	pear shaped puffball (Lyc…
+j	狸寝入り	狸寝入り	feigning sleep; playing p…
+j	相乗効果	相乗効果	synergy
+j	相乗平均	相乗平均	geometric mean
+j	相互主義	相互主義	（法律）外国人に権利を認める場合に、その本国が自国…
+j	相互作用	相互作用	interaction
+j	相互扶助	相互扶助	互いに助け合うこと。
+j	相互接続	相互接続	
+j	相互的な	相互的な	
+j	相互銀行	相互銀行	相互銀行法（1951年~1993年）に基づき設立さ…
+j	相互関係	相互関係	
+j	相似変換	相似変換	ある図形から相似な図形への変換。
+j	相似行列	相似行列	n次行列A, Bに対して、B=P⁻¹APを満たす正…
+j	相利共生	相利共生	mutualism
+j	相加平均	相加平均	算術平均に同じ。
+j	相合ガサ	相合ガサ	
+j	相和する	相和する	互いに仲良く過ごすこと。睦まじく過ごす。
+j	相対する	相対する	向かい合う。
+j	相対主義	相対主義	
+j	相対位相	相対位相	位相空間の部分集合と位相の共通部分から導入される、…
+j	相対度数	相対度数	度数分布において、ある階級の度数を全階級の度数の合…
+j	相対湿度	相対湿度	relative humidity
+j	相対誤差	相対誤差	絶対誤差を誤差の基準（理論的に期待される値）で除し…
+j	相対論的	相対論的	相対性理論による時空の伸び縮みの効果を考慮した様子。
+j	相対音感	相対音感	relative pitch, ability t…
+j	相当する	相当する	
+j	相応しい	相応しい	appropriate, proper, suit…
+j	相思相愛	相思相愛	mutual love
+j	相模原市	相模原市	神奈川県北部の都市。
+j	相次いで	相次いで	
+j	相殺する	相殺する	
+j	相碁井目	相碁井目	それぞれの実力差がさまざまであること。
+j	相続する	相続する	
+j	相縁奇縁	相縁奇縁	人と人の気が合うのも、合わないのも全て不思議な縁に…
+j	相縁機縁	相縁機縁	人と人の気が合うのも、合わないのも全て不思議な縁に…
+j	相補分布	相補分布	
+j	相貌失認	相貌失認	prosopagnosia
+j	相関係数	相関係数	2つの変量について、それぞれ標準化変量に変換した上…
+j	糸リフト	糸リフト	thread lift
+j	糸切り歯	糸切り歯	
+j	糸巻き棒	糸巻き棒	
+j	糸遊結び	糸遊結び	衣装、調度に装飾としてつける色糸でつくられた飾り結…
+j	胸がすく	胸がすく	to be relieved, to feel r…
+j	胸が悪い	胸が悪い	nauseated
+j	胸が騒ぐ	胸が騒ぐ	to be unsettled, to be un…
+j	胸の谷間	胸の谷間	
+j	胸を張る	胸を張る	to throw out one's chest;…
+j	胸を貸す	胸を貸す	a more powerful person pa…
+j	胸キュン	胸キュン	heart pounding; butterfli…
+j	胸先三寸	胸先三寸	one's mind; one's inner f…
+j	胸半棘筋	胸半棘筋	a semispinalis thoracis m…
+j	胸回旋筋	胸回旋筋	a rotator thoracis
+j	胸多裂筋	胸多裂筋	a multifidus thoracis mus…
+j	胸最長筋	胸最長筋	a longissimus thoracis mu…
+j	胸甲騎兵	胸甲騎兵	胸甲と呼ばれる甲冑を身に着けた騎兵。
+j	胸白川烏	胸白川烏	
+j	胸糞悪い	胸糞悪い	
+j	胸苦しい	胸苦しい	tightness in the chest, f…
+j	腸チフス	腸チフス	typhoid fever
+j	腸内細菌	腸内細菌	intestinal bacteria
+j	腸間膜の	腸間膜の	
+j	芸術作品	芸術作品	artwork, work of art, pie…
+j	芸術大学	芸術大学	芸術系の単科大学。
+j	芸術学者	芸術学者	芸術学を研究する科学者。
+j	芸術学部	芸術学部	美術、音楽などの芸術を教授・研究する学部。
+j	芸術的な	芸術的な	
+j	蒸しパン	蒸しパン	steamed bun; a type of qu…
+j	蒸し暑い	蒸し暑い	sultry, hot and humid, mu…
+j	蒸し焼き	蒸し焼き	
+j	蒸し風呂	蒸し風呂	sauna
+j	蒸し饅頭	蒸し饅頭	小麦粉をこねて蒸した菓子。饅頭の中では最も一般的な…
+j	蒸気機関	蒸気機関	蒸気の持つ熱エネルギーを機械的な仕事に変換する装置。
+j	蒸留する	蒸留する	
+j	蒸発する	蒸発する	
+j	裸の王様	裸の王様	
+j	裸体主義	裸体主義	
+j	裸出歯鼠	裸出歯鼠	a naked mole rat
+j	裸子植物	裸子植物	gymnosperm
+j	諸刃の剣	諸刃の剣	double-edged sword
+j	諸天善神	諸天善神	
+j	諸子百家	諸子百家	the Hundred Schools of Th…
+j	諸法無我	諸法無我	仏教の基本的・哲学的な主張を表わす成句で、「あらゆ…
+j	諸行無常	諸行無常	the impermanence of world…
+j	貸し出し	貸し出し	lending
+j	貸倒償却	貸倒償却	売掛金に貸倒が発生したときや、貸倒引当金を計上した…
+j	貸切風呂	貸切風呂	exclusively reserved bath…
+j	輸入する	輸入する	
+j	輸入制限	輸入制限	import restrictions
+j	輸入手形	輸入手形	an import bill: a bill of…
+j	輸入業者	輸入業者	importer, import merchant…
+j	輸入超過	輸入超過	excess of imports
+j	輸出する	輸出する	
+j	輸出業者	輸出業者	
+j	輸出超過	輸出超過	ある期間の輸出総額が、同じ期間の輸入総額を超過する…
+j	輸送手段	輸送手段	
+j	輸送機関	輸送機関	transport (vehicle used t…
+j	逸失利益	逸失利益	債務不履行などの事故がなければ得られたはずの利益や…
+j	逸楽生活	逸楽生活	
+j	選り抜き	選り抜き	the best, elite
+j	選出公理	選出公理	axiom of choice
+j	選別する	選別する	
+j	選択公理	選択公理	axiom of choice
+j	選択科目	選択科目	選んで履修する科目。
+j	選挙する	選挙する	
+j	選挙人団	選挙人団	
+j	選挙方法	選挙方法	voting system
+j	選民思想	選民思想	自分たちの民族が神から選ばれ他の民族を導く特別な存…
+j	選言命題	選言命題	
+j	選言的な	選言的な	
+j	酸っぱい	酸っぱい	sour
+j	酸化亜鉛	酸化亜鉛	
+j	酸化反応	酸化反応	
+j	酸無水物	酸無水物	acid anhydride
+j	醸し出す	醸し出す	bring about, create (an a…
+j	醸成する	醸成する	
+j	醸造する	醸造する	
+j	醸造学者	醸造学者	醸造学を研究する科学者。
+j	陸の孤島	陸の孤島	近隣の主要地域と陸続きでありながら、交通が断絶され…
+j	陸の河童	陸の河童	「陸へあがった河童」と同じ。
+j	陸上競技	陸上競技	athletics; track and field
+j	陸上選手	陸上選手	陸上競技で実際に競技をする選手。
+j	陸海空宙	陸海空宙	陸と海と空と宇宙。
+j	陸海空軍	陸海空軍	陸軍と海軍と空軍。
+j	陸軍元帥	陸軍元帥	
+j	陸軍大臣	陸軍大臣	陸軍省の長たる国務大臣。
+j	頸半棘筋	頸半棘筋	a semispinalis cervicis m…
+j	頸回旋筋	頸回旋筋	a rotator cervicis
+j	頸多裂筋	頸多裂筋	a multifidus cervicis mus…
+j	頸最長筋	頸最長筋	a longissimus cervicis mu…
+j	頸板状筋	頸板状筋	a splenius cervicis muscle
+j	頸腺結核	頸腺結核	結核菌による頸部リンパ節の炎症。瘰癧。
+k	권선징악	勸善懲惡	rewarding the good and pu…
+k	귀무 가설	歸無假說	
+k	귀책사유	歸責事由	grounds to consider someo…
+k	귀환비행	歸還飛行	return flight
+k	나체주의	裸体主義	
+k	나체주의	裸體主義	
+k	대금업자	貸金業者	돈놀이꾼.
+k	대여금고	貸与金庫	
+k	대여금고	貸與金庫	
+k	라체주의	裸体主義	
+k	라체주의	裸體主義	
+k	산소원자	酸素原子	
+k	상관관계	相関関係	
+k	상관관계	相關關係	
+k	상담시간	相談時間	
+k	상대주의	相対主義	relativism
+k	상대주의	相對主義	relativism
+k	상승효과	相乗効果	
+k	상승효과	相乘效果	
+k	상염색체	常染色体	
+k	상염색체	常染色體	
+k	상호작용	相互作用	interaction
+k	서류 작업	書類作業	
+k	수분류사	數分類詞	classifier, measure word
+k	수입업자	輸入業者	
+k	수출업자	輸出業者	
+k	영구동토	永久凍土	
+k	영자팔법	永字八法	the Eight Principles of Y…
+k	육상 경기	陸上競技	track and field
+k	육상 선수	陸上選手	
+k	육상경기	陸上競技	
+k	작렬하다	炸裂하다	to burst
+k	장내독소	腸內毒素	
+k	장내독소	腸内毒素	
+k	점입가경	漸入佳境	the more you go, the more…
+k	제자백가	諸子百家	Hundred Schools of Thought
+k	증기기관	蒸気機関	
+k	증기기관	蒸氣機關	
+k	청량음료	淸凉飮料	soft drink
+k	청량음료	淸涼飮料	soft drink
+k	청순하다	淸純하다	pure, innocent
+k	청신하다	淸新하다	to be fresh; to be refres…
+k	촉법소년	觸法少年	person(s) between the age…
+k	학교 교장	學校校長	
+k	학생회관	學生會館	student union, student ce…
+k	학술 위원	學術委員	
+k	학습장애	學習障碍	
+k	함경남도	咸鏡南道	South Hamgyong (a provinc…
+k	함경북도	咸鏡北道	North Hamgyong (a provinc…
+k	함흥차사	咸興差使	person sent on an errand …
+k	핵물리학	核物理学	
+k	핵물리학	核物理學	
+k	핵잠수함	核潛水艦	
+k	핵잠수함	核潜水艦	
+k	흡연 금지	吸煙禁止	
+k	흡혈동물	吸血動物	haematophage, bloodsucker…
+j	伸び上がる	伸び上がる	to reach up to
+j	吸い上げる	吸い上げる	pump, absorb
+j	吸い取り紙	吸い取り紙	blotting paper
+j	吸い寄せる	吸い寄せる	to attract; to suck in
+j	吸引ポンプ	吸引ポンプ	
+j	常不軽菩薩	常不軽菩薩	
+j	常任委員会	常任委員会	国会に常設される委員会。
+j	常任理事国	常任理事国	国連の安全保障理事会で拒否権を持つ国。アメリカ合衆…
+j	常温核融合	常温核融合	cold fusion, cold nuclear…
+j	常用外漢字	常用外漢字	kanji not approved for re…
+j	常用漢字表	常用漢字表	1981年内閣告示された常用漢字を示した表。本表と…
+j	常緑広葉樹	常緑広葉樹	常緑の広葉樹。
+j	常緑針葉樹	常緑針葉樹	常緑の針葉樹。
+j	常識のある	常識のある	
+j	常識はずれ	常識はずれ	
+j	幸か不幸か	幸か不幸か	ある事柄が結果としてよいか悪いかは判断できないが。
+j	幸運の女神	幸運の女神	A goddess of luck; Lady L…
+j	幸運の婦人	幸運の婦人	
+j	幸運を祈る	幸運を祈る	
+j	書き上げる	書き上げる	to finish writing
+j	書き下し文	書き下し文	Kanbun texts rewritten to…
+j	書き止める	書き止める	
+j	書き留める	書き留める	write down
+j	書き起こし	書き起こし	start of a sentence
+j	書画カメラ	書画カメラ	
+j	枸櫞酸回路	枸櫞酸回路	citric acid cycle
+j	核兵器実験	核兵器実験	nuclear test
+j	核分裂反応	核分裂反応	核分裂
+j	核物理学者	核物理学者	
+j	核融合反応	核融合反応	核融合
+j	核融合発電	核融合発電	核融合反応により発生したエネルギーで発電する方式。
+j	永世中立国	永世中立国	いかなる紛争にも与しないことを宣言した国家。
+j	永遠の眠り	永遠の眠り	
+j	沸き上がる	沸き上がる	to boil; to come to a boil
+j	沸騰させる	沸騰させる	
+j	浸透させる	浸透させる	
+j	漸次増大の	漸次増大の	
+j	相互互換性	相互互換性	interchangeability
+j	相互運用性	相互運用性	
+j	相呼応する	相呼応する	
+j	相変わらず	相変わらず	still, as always, as usua…
+j	相容れない	相容れない	incompatible (with)
+j	相対性理論	相対性理論	the theory of relativity
+j	相対論効果	相対論効果	古典力学では現れず、相対性理論を考慮した場合のみに…
+j	相槌を打つ	相槌を打つ	相手の話の調子に合わせる。
+j	相模トラフ	相模トラフ	神奈川県、千葉県の南の太平洋上にあるトラフ。
+j	相談に乗る	相談に乗る	to serve as the other par…
+j	相貌失認症	相貌失認症	
+j	糸繰り人形	糸繰り人形	
+j	胸が塞がる	胸が塞がる	to have a lump in one's t…
+j	胸が詰まる	胸が詰まる	to have a lump in one's t…
+j	胸を借りる	胸を借りる	a less powerful person pa…
+j	胸糞が悪い	胸糞が悪い	causing a sickening sensa…
+j	胸赤五色鳥	胸赤五色鳥	
+j	胸鎖乳突筋	胸鎖乳突筋	a sternocleidomastoid mus…
+j	胸骨甲状筋	胸骨甲状筋	a sternothyroid muscle
+j	胸骨舌骨筋	胸骨舌骨筋	a sternohyoid muscle
+j	腸骨尾骨筋	腸骨尾骨筋	a iliococcygeus muscle
+j	芸が細かい	芸が細かい	the attention to detail i…
+j	蒸かしパン	蒸かしパン	蒸しパンの別称。
+j	蒸しケーキ	蒸しケーキ	蒸しパンの別称。
+j	蒸気機関車	蒸気機関車	a steam locomotive
+j	蒸気自動車	蒸気自動車	エネルギーに石炭を用い蒸気機関を動力にして走行する…
+j	蒸発させる	蒸発させる	
+j	裸エプロン	裸エプロン	wearing nothing but an ap…
+j	諸聖人の日	諸聖人の日	
+j	貸借対照表	貸借対照表	balance sheet (a page of …
+j	輸入感染症	輸入感染症	外国から感染した人や動物が入ってくることによって齎…
+j	輸入自由化	輸入自由化	liberalisation
+j	輸入課徴金	輸入課徴金	a surcharge on imports
+j	選ばれし者	選ばれし者	
+j	酸性炭酸塩	酸性炭酸塩	「炭酸水素塩」を参照。
+j	酸性酸化物	酸性酸化物	acidic oxide
+j	酸素マスク	酸素マスク	
+j	陸上競技場	陸上競技場	陸上競技を行うための施設。
+j	陸上自衛隊	陸上自衛隊	the Japan Ground Self-Def…
+j	陸地測量局	陸地測量局	
+j	骸骨を乞う	骸骨を乞う	to request one's own resi…
+j	鷸蚌の争い	鷸蚌の争い	両者が争っている間に、第三者が利益を得ること。
+k	산소호흡기	酸素呼吸器	respirator
+k	상대 형용사	相対形容詞	
+k	상대 형용사	相對形容詞	
+k	상대성이론	相対性理論	
+k	상대성이론	相對性理論	
+k	상의	相議/商議	consultation; conference
+k	상호교차성	相互交叉性	
+k	수량형용사	數量形容詞	quantitative adjective
+k	증기	蒸気/烝気	steam, vapor
+k	증기	蒸氣/烝氣	steam, vapor
+k	증기기관차	蒸気機関車	
+k	증기기관차	蒸氣機關車	
+k	증서	蒸庶／烝庶	certificate
+k	증서	蒸暑／烝暑	certificate
+k	증편	蒸편/烝편	Korean steamed rice cake …
+k	학위수여식	學位授與式	
+k	핵융합폭탄	核融合爆弾	
+k	핵융합폭탄	核融合爆彈	
+j	丸ゴシック体	丸ゴシック体	rounded sans-serif
+j	伸ばしすぎる	伸ばしすぎる	
+j	伸るか反るか	伸るか反るか	make or break, win or los…
+j	吸収性のある	吸収性のある	
+j	嘸蝦米輸入法	嘸蝦米輸入法	
+j	常微分方程式	常微分方程式	ordinary differential equ…
+j	常軌を逸した	常軌を逸した	
+j	常軌を逸する	常軌を逸する	to depart / be detached f…
+j	戸口の踏み段	戸口の踏み段	
+j	書かれている	書かれている	
+j	核エネルギー	核エネルギー	原子力。
+j	相互作用する	相互作用する	
+j	相互確証破壊	相互確証破壊	
+j	相対式ホーム	相対式ホーム	二つの線路の外側に設置されているプラットホーム。
+j	相対累積度数	相対累積度数	（統計学）累積相対度数に同じ。
+j	相対論的効果	相対論的効果	「相対論効果」に同じ。
+j	相応しくする	相応しくする	
+j	胸がつかえる	胸がつかえる	to have a lump in one's t…
+j	胸ぐらを掴む	胸ぐらを掴む	to grab (someone) by the …
+j	胸に手を置く	胸に手を置く	to self-reflect, to give …
+j	腸が煮え返る	腸が煮え返る	耐えかねるほどに激怒しそうになること。
+j	腸が燃え返る	腸が燃え返る	腸が煮え返るの別形。
+j	芸は身を助く	芸は身を助く	どんな分野であれ、他人に秀でる能力があれば、思わぬ…
+j	蒸気タービン	蒸気タービン	
+j	蒸気ローラー	蒸気ローラー	
+j	裸の付き合い	裸の付き合い	“naked relationship”, a r…
+j	裸足で逃げる	裸足で逃げる	superior
+j	諸聖人の祝日	諸聖人の祝日	キリスト教において、すべての聖人を記念・崇敬する祝…
+j	貸し借りする	貸し借りする	
+j	貸し借りなし	貸し借りなし	the state of being square…
+j	軸性ベクトル	軸性ベクトル	擬ベクトル。
+j	輸送コンテナ	輸送コンテナ	
+j	輸送園芸農業	輸送園芸農業	高速道路や航空機など交通･輸送機関の発達によって、…
+j	選ばれるべき	選ばれるべき	
+j	選定基準標本	選定基準標本	
+j	選択必修科目	選択必修科目	指定された科目から選んで履修する科目。
+j	選言三段論法	選言三段論法	
+j	酸化エチレン	酸化エチレン	「エチレンオキシド」を参照。
+j	酸化リチウム	酸化リチウム	（金属^([要出典])）組成式Li₂Oで表されるリ…
+j	酸化物イオン	酸化物イオン	イオン式O²⁻で表される酸素の陰イオン。
+j	酸化還元反応	酸化還元反応	二種の物質間で電子の授受がある化学反応。
+k	귀환 불능 지점	歸還不能地點	point of no return
+k	상호확실파괴	相互確実破壊	synonym of 상호확증파괴(相互確證破壞)…
+k	상호확실파괴	相互確實破壞	synonym of 상호확증파괴(相互確證破壞)…
+k	상호확증파괴	相互確証破壊	mutual assured destruction
+k	상호확증파괴	相互確證破壞	mutual assured destruction
+k	학생소년궁전	學生少年宮殿	children's palace (centre…
+k	핵추진 잠수함	核推進潛水艦	
+k	핵추진 잠수함	核推進潜水艦	
+j	典拠が疑わしい	典拠が疑わしい	
+j	常識的に考えて	常識的に考えて	thinking with common sense
+j	書かれていない	書かれていない	
+j	狸寝入りをする	狸寝入りをする	
+j	胸が一杯になる	胸が一杯になる	to have a lump in one's t…
+j	胸に手を当てる	胸に手を当てる	to self-reflect, to give …
+j	胸の痞が下りる	胸の痞が下りる	feel relieved
+j	胸を撫で下ろす	胸を撫で下ろす	to be relieved
+j	胸郭出口症候群	胸郭出口症候群	
+j	芸は身を助ける	芸は身を助ける	一芸に秀でているだけでも、困難を解消するもとになる…
+j	蝸牛角上の争い	蝸牛角上の争い	小国同士の争い。小さい者同士の争い。つまらない事で…
+j	輸入割り当て制	輸入割り当て制	an import quota system
+j	選挙管理委員会	選挙管理委員会	選挙を管理する行政委員会。選管。
+j	酸化カルシウム	酸化カルシウム	calcium oxide
+j	酸素を送り込む	酸素を送り込む	
+j	醸造アルコール	醸造アルコール	米穀などを醸造、蒸留した食用のエタノール。味や品質…
+j	陸上無線技術士	陸上無線技術士	陸上の無線局の無線操作を行うことが出来る無線従事者。
+j	陸上競技の選手	陸上競技の選手	
+k	학교생활기록부	學校生活記錄簿	school record
+k	학술적 전문 용어	學術的專門用語	
+j	幸運は勇者を好む	幸運は勇者を好む	
+j	腸が煮えくり返る	腸が煮えくり返る	to be furious, to have on…
+j	芸術のための芸術	芸術のための芸術	
+j	酸化アルミニウム	酸化アルミニウム	aluminium oxide
+j	酸化マグネシウム	酸化マグネシウム	マグネシウムと酸素の化合物。苦土。
+j	陸に上がった河童	陸に上がった河童	
+j	陸へあがった河童	陸へあがった河童	自分に合った場所、自分の能力を発揮できる環境から離…
+j	陸上特殊無線技士	陸上特殊無線技士	総合無線通信士または陸上無線技術士の範囲内の無線局…
+j	貸し借りなしにする	貸し借りなしにする	call it square with someo…
+j	酸化イッテルビウム	酸化イッテルビウム	組成式Yb₂O₃で表されるイッテルビウムの酸化物。
+j	丸呑みフェティシズム	丸呑みフェティシズム	
+j	箸にも棒にもかからぬ	箸にも棒にもかからぬ	あまりにも程度が低いので手の施しようがない。
+j	幸運をお祈りいたします	幸運をお祈りいたします	
+j	酸いも甘いも嚙み分ける	酸いも甘いも嚙み分ける	（酸味も甘味も味わい分け、その良さも悪さも良く知っ…
+j	箸が転んでも可笑しい年頃	箸が転んでも可笑しい年頃	十代後半の女性を言う時に使う慣用句。日常の他愛もな…

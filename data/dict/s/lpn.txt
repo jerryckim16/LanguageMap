@@ -1,0 +1,5 @@
+e	pnyx	pnyx	1 meaning
+e	pneumonia	pneumonia	1 meaning
+e	pneumothorax	pneumothorax	1 meaning
+e	pneumoconiosis	pneumoconiosis	1 meaning
+e	pneumonoultramicroscopicsilicovolcanoconiosis	pneumonoultramicroscopicsilicovolcanoconiosis	1 meaning

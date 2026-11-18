@@ -1,0 +1,684 @@
+j	ウォー	wo	war
+k	워	wo	The proper name of the ja…
+e	woe	woe	1 meaning
+e	wok	wok	1 meaning
+e	won	won	1 meaning
+e	woo	woo	1 meaning
+e	wop	wop	1 meaning
+e	wow	wow	2 meanings
+j	ウォン	won	won (currency of Korea)
+k	웍	wok	wok
+k	원	won	won; the official currenc…
+k	월	wol	month
+e	woad	woad	1 meaning
+e	woke	woke	1 meaning
+e	wolf	wolf	2 meanings
+e	womb	womb	1 meaning
+e	wood	wood	3 meanings
+e	woof	woof	4 meanings
+e	wool	wool	2 meanings
+e	word	word	5 meanings
+e	work	work	13 meanings
+e	worm	worm	2 meanings
+e	wort	wort	1 meaning
+j	ウォーター	wota	水。
+j	ウォーム	womu	温暖。
+j	ウォール	woru	wall
+k	원아	wona	
+e	wokou	wokou	1 meaning
+e	wolin	wolin	2 meanings
+e	wolse	wolse	1 meaning
+e	woman	woman	1 meaning
+e	women	women	1 meaning
+e	wooer	wooer	1 meaning
+e	wordy	wordy	1 meaning
+e	world	world	5 meanings
+e	worms	worms	1 meaning
+e	worry	worry	5 meanings
+e	worse	worse	1 meaning
+e	worst	worst	2 meanings
+e	worth	worth	4 meanings
+e	wound	wound	4 meanings
+j	ウォッカ	wokka	vodka (clear distilled al…
+j	ウォップ	woppu	
+j	ヲチ	wochi	watching; monitoring (esp…
+j	原州	wonju	Wonju (a city in South Ko…
+k	워낙	wonak	so, very
+k	워릭	worik	
+k	워찌	wojji	
+k	워치	wochi	
+k	원가	wonga	
+k	원고	wongo	plaintiff
+k	원기	wongi	
+k	원두	wondu	coffee bean
+k	원로	wollo	
+k	원리	wolli	principle
+k	원무	wonmu	
+k	원미	wonmi	
+k	원비	wonbi	
+k	원사	wonsa	
+k	원소	wonso	element
+k	원수	wonsu	enemy
+k	원시	wonsi	hyperopia
+k	원안	wonan	
+k	원어	woneo	source language
+k	원예	wonye	horticulture, gardening
+k	원외	wonoe	
+k	원유	wonyu	예전에, 울을 치고 금수(禽獸)를 기르던 곳.…
+k	원인	wonin	cause
+k	원자	wonja	atom
+k	원제	wonje	Chungcheong, Seoul, Gangw…
+k	원조	wonjo	aid; assistance; support
+k	원주	wonju	circumference
+k	원지	wonji	Polygala tenuifolia, an h…
+k	원호	wonho	
+k	월리	wolli	
+k	월부	wolbu	
+k	월세	wolse	wolse (lease in which ren…
+k	월수	wolsu	
+k	월야	worya	
+k	월어	woreo	
+k	월요	woryo	the Moon
+k	월일	woril	date (month, day)
+k	월지	wolji	
+e	wobble	wobble	6 meanings
+e	wobbly	wobbly	1 meaning
+e	wombat	wombat	1 meaning
+e	wonder	wonder	6 meanings
+e	wonsan	wonsan	1 meaning
+e	wonton	wonton	1 meaning
+e	wooden	wooden	2 meanings
+e	woofer	woofer	1 meaning
+e	woolen	woolen	2 meanings
+e	worker	worker	1 meaning
+e	worsen	worsen	2 meanings
+e	worthy	worthy	2 meanings
+j	ウォッチ	wotchi	観察すること。見張ること。
+j	ウォトカ	wotoka	
+j	ウォルター	woruta	a transliteration of the …
+j	ウォンツ	wontsu	必需品。
+j	ウォーゲーム	wogemu	
+j	元山	wonsan	
+j	月貰	woruse	wolse (a lease in the Sou…
+k	워석	woseok	rustlingly; while brushin…
+k	워째	wojjae	
+k	워티기	wotigi	
+k	원 업	woneop	
+k	원간	wongan	
+k	원곡	wongok	original song (as opposed…
+k	원교	wongyo	
+k	원국	wonguk	
+k	원군	wongun	
+k	원내	wonnae	
+k	원단	wondan	설날 아침.
+k	원래	wollae	originally; naturally, in…
+k	원론	wollon	
+k	원료	wollyo	raw material
+k	원룸	wonnum	studio (studio flat/apart…
+k	원류	wollyu	촌수가 먼 친척 관계. 또는 그런 사람.
+k	원림	wollim	사람의 손이 가지 아니한 자연 그대로의 삼림.
+k	원말	wonmal	original word
+k	원목	wonmok	
+k	원문	wonmun	original text
+k	원물	wonmul	the original item
+k	원반	wonban	discus, disk
+k	원본	wonbon	original
+k	원산	wonsan	Wonsan (a city in Kangwon…
+k	원서	wonseo	
+k	원손	wonson	
+k	원심	wonsim	중심에서 멀어지는 힘.
+k	원쑤	wonssu	North Korea standard spel…
+k	원앙	wonang	The mandarin duck, Aix ga…
+k	원액	wonaek	
+k	원언	woneon	
+k	원음	woneum	
+k	원작	wonjak	the original work (such a…
+k	원족	wonjok	excursion
+k	원죄	wonjoe	
+k	원체	wonche	so; very
+k	원초	woncho	원래부터 존재하는 것.
+k	원추	wonchu	'원뿔'.
+k	원치	wonchi	
+k	원탁	wontak	
+k	원판	wonpan	'워낙'.
+k	원폭	wonpok	syllabic abbreviation of …
+k	원한	wonhan	grudge; rancour
+k	원화	wonhwa	won, the currency of Korea
+k	월간	wolgan	monthly (in compounds)
+k	월갈	wolgal	
+k	월남	wollam	Vietnam (a country in Asi…
+k	월내	wollae	
+k	월대	woldae	raised stone platform in …
+k	월드	woldeu	
+k	월례	wollye	
+k	월말	wolmal	the end of the month
+k	월반	wolban	
+k	월북	wolbuk	going north over the bord…
+k	월식	wolsik	lunar eclipse
+k	월차	wolcha	
+k	월초	wolcho	beginning of the month
+k	월터	wolteo	
+k	웜홀	womhol	
+e	wokeism	wokeism	1 meaning
+e	wolf cub	wolfcub	1 meaning
+e	wolf cut	wolfcut	1 meaning
+e	womanly	womanly	1 meaning
+e	wood ear	woodear	1 meaning
+e	woodcut	woodcut	1 meaning
+e	wording	wording	1 meaning
+e	workman	workman	1 meaning
+e	workout	workout	1 meaning
+e	worldly	worldly	1 meaning
+e	worn-out	wornout	2 meanings
+e	worried	worried	1 meaning
+e	worship	worship	2 meanings
+e	worth it	worthit	1 meaning
+e	wounded	wounded	1 meaning
+j	ウォツカ	wotsuka	
+j	ウォリック	worikku	Warwick (a town and civil…
+j	ウォレット	woretto	wallet
+j	ウォーキング	wokingu	歩くことによって健康増進を目的とした運動。
+j	ウォークマン	wokuman	walkman (any personal cas…
+j	ウォーニング	woningu	warning
+j	ウォーミング	womingu	暖めること。
+j	ウォール街	worugai	アメリカ合衆国ニューヨーク市マンハッタン区南部にあ…
+k	워떤	wotteon	
+k	워썩	wosseok	very rustlingly; while br…
+k	워찌나	wojjina	
+k	워치케	wochike	
+k	워트게	woteuge	
+k	워티끼	wotikki	
+k	원 페어	wonpeeo	a one pair
+k	원고지	wongoji	
+k	원근	wongeun	
+k	원금	wongeum	principal, capital
+k	원급	wongeup	무엇의 질이나 정도가 가장 높은 것.
+k	원나라	wonnara	
+k	원나잇	wonnait	
+k	원노비	wonnobi	
+k	원덕	wondeok	
+k	원동	wondong	the Far East; the Russian…
+k	원망	wonmang	resentment; blame
+k	원방	wonbang	먼 지방. 또는 먼 곳.
+k	원뿔	wonppul	끝은 뾰족하고 밑은 둥근 모양의 도형.
+k	원상	wonsang	
+k	원색	wonsaek	
+k	원샷	wonsyat	one shot of a drink
+k	원석	wonseok	rough gemstone, unpolishe…
+k	원세포	wonsepo	
+k	원시인	wonsiin	석기시대에 살고 있었던 사람.
+k	원양	wonyang	
+k	원예가	wonyega	
+k	원예사	wonyesa	gardener, horticulturist
+k	원용	wonyong	자기의 주장이나 학설을 세우기 위하여 문헌이나…
+k	원자가	wonjaga	
+k	원자로	wonjaro	nuclear reactor
+k	원자시	wonjasi	
+k	원자의	wonjaui	
+k	원자포	wonjapo	
+k	원장	wonjang	director
+k	원저우	wonjeou	
+k	원적	wonjeok	
+k	원전	wonjeon	
+k	원점	wonjeom	좌표에서 중심이 되는 점.
+k	원조비	wonjobi	
+k	원조자	wonjoja	
+k	원주소	wonjuso	
+k	원주인	wonjuin	
+k	원주지	wonjuji	
+k	원칙	wonchik	principle; rule
+k	원통	wontong	cylinder
+k	원피고	wonpigo	
+k	원하다	wonhada	to want (for), to hope (f…
+k	원항	wonhang	
+k	원활	wonhwal	harmony, smoothness, amic…
+k	월권	wolgwon	
+k	월금	wolgeum	
+k	월급	wolgeup	monthly salary
+k	월동	woldong	wintering; spending the w…
+k	월륜	wollyun	둥근 모양의 달. 또는 그 둘레.
+k	월상	wolsang	
+k	월색	wolsaek	
+k	월수입	wolsuip	
+k	월요일	woryoil	Monday
+k	월장	woljang	
+k	월출	wolchul	
+k	웜뱃	wombaet	wombat (marsupial)
+e	wolfgang	wolfgang	1 meaning
+e	wolfpack	wolfpack	1 meaning
+e	womanish	womanish	1 meaning
+e	wood duck	woodduck	1 meaning
+e	woodcock	woodcock	1 meaning
+e	woodruff	woodruff	1 meaning
+e	woodrush	woodrush	1 meaning
+e	woodworm	woodworm	1 meaning
+e	wordhood	wordhood	1 meaning
+e	wordmark	wordmark	1 meaning
+e	wordplay	wordplay	1 meaning
+e	workbook	workbook	1 meaning
+e	workflow	workflow	2 meanings
+e	workshop	workshop	3 meanings
+e	world cup	worldcup	1 meaning
+e	world egg	worldegg	1 meaning
+e	world map	worldmap	1 meaning
+e	world war	worldwar	1 meaning
+e	wormhole	wormhole	1 meaning
+e	wormwood	wormwood	1 meaning
+j	ウォガウォガ	wogawoga	
+j	ウォキズム	wokizumu	
+j	ウォンバット	wonbatto	wombat
+j	ウォーキートーキー	wokitoki	
+j	ウォークスルー	wokusuru	
+j	ウォーターカラー	wotakara	
+j	ウォーターゲート	wotageto	
+j	ウォーターサーバー	wotasaba	water cooler, water dispe…
+j	ウォーターパーク	wotapaku	
+j	ウォーターフォード	wotafodo	Waterford (a county of Ir…
+j	ウォーターポロ	wotaporo	水球。
+j	ウォームアップ	womuappu	ウォーミングアップ。
+k	워라밸	worabael	work-life balance
+k	워로네쥬	woroneju	'보로네슈'의 북한말.
+k	워스트	woseuteu	
+k	워처기	wocheogi	
+k	워키토키	wokitoki	
+k	워털루	woteollu	
+k	원거리	wongeori	
+k	원격	wongyeok	distant, remote (access o…
+k	원고료	wongoryo	원고를 쓰고 받는 돈.
+k	원광	wongwang	
+k	원년	wonnyeon	
+k	원념	wonnyeom	
+k	원두막	wondumak	
+k	원둘레	wondulre	
+k	원로원	wollowon	
+k	원면	wonmyeon	
+k	원무곡	wonmugok	
+k	원산지	wonsanji	provenance; original plac…
+k	원생	wonsaeng	
+k	원성	wonseong	
+k	원세개	wonsegae	위안스카이[袁世凱]를 우리 한자음으로 읽은 이…
+k	원수님	wonsunim	
+k	원숭이	wonsungi	monkey, ape
+k	원시림	wonsirim	virgin forest, old-growth…
+k	원식구	wonsikgu	
+k	원심기	wonsimgi	
+k	원어민	woneomin	native speaker
+k	원예술	wonyesul	
+k	원예학	wonyehak	
+k	원자론	wonjaron	
+k	원자재	wonjajae	
+k	원자탄	wonjatan	
+k	원자필	wonjapil	ballpoint pen
+k	원자화	wonjahwa	
+k	원작자	wonjakja	
+k	원저자	wonjeoja	
+k	원정	wonjeong	
+k	원제목	wonjemok	
+k	원주각	wonjugak	
+k	원주민	wonjumin	옛부터 한 곳에 계속하여 살고 있는 민족이나 …
+k	원주율	wonjuyul	pi (irrational mathematic…
+k	원주필	wonjupil	ballpoint pen
+k	원증	wonjeung	
+k	원척	woncheok	
+k	원천	woncheon	source; fountainhead (of …
+k	원추리	wonchuri	A daylily, especially the…
+k	원피스	wonpiseu	dress
+k	원흉	wonhyung	
+k	월간지	wolganji	
+k	월계수	wolgyesu	녹나무과의 종. 지중해가 원산지이며 잎은 월계…
+k	월광	wolgwang	
+k	월등	woldeung	
+k	월력	wollyeok	synonym of 달력 (dallyeok, …
+k	월면	wolmyeon	
+k	월별	wolbyeol	monthly
+k	월성	wolseong	성문을 밖으로 둘러 가려서 구부러지게 쌓은 성.
+k	월영	woryeong	reflection of the moon, o…
+k	월요일에	woryoire	
+k	월척	wolcheok	낚시에서 한 척을 넘는 물고기를 잡음, 또는 …
+e	wolfberry	wolfberry	2 meanings
+e	wolfhound	wolfhound	1 meaning
+e	wolverine	wolverine	1 meaning
+e	womanizer	womanizer	1 meaning
+e	wonderful	wonderful	1 meaning
+e	wood apple	woodapple	1 meaning
+e	wood stork	woodstork	1 meaning
+e	woodchuck	woodchuck	1 meaning
+e	woodlouse	woodlouse	1 meaning
+e	worcester	worcester	1 meaning
+e	word chain	wordchain	1 meaning
+e	word count	wordcount	1 meaning
+e	word order	wordorder	1 meaning
+e	work ethic	workethic	1 meaning
+e	work of art	workofart	1 meaning
+e	workbench	workbench	1 meaning
+e	worker bee	workerbee	1 meaning
+e	workforce	workforce	1 meaning
+e	workplace	workplace	1 meaning
+e	workspace	workspace	1 meaning
+e	world bank	worldbank	1 meaning
+e	world line	worldline	1 meaning
+e	world war i	worldwari	1 meaning
+e	worldview	worldview	3 meanings
+e	worldwide	worldwide	2 meanings
+e	worthless	worthless	1 meaning
+j	〜を応援する	wooensuru	
+j	ウォッチマン	wotchiman	
+j	ウォーター・ドッグ	wotadoggu	
+k	워떻게	wotteotge	
+k	워시보드	wosibodeu	
+k	워싱톤	wosington	[~주(州)] alternative form …
+k	워크맨	wokeumaen	
+k	워크숍	wokeusyop	workshop
+k	워터벅	woteobeok	소과의 종. 아프리카의 초원에 서식한다.
+k	원간본	wonganbon	
+k	원경	wongyeong	
+k	원기둥	wongidung	cylinder
+k	원더골	wondeogol	(축구나 하키 등에서) 놀랄 정도로 멋지게 넣…
+k	원동기	wondonggi	
+k	원령	wollyeong	
+k	원리금	wolligeum	
+k	원리주의	wollijuui	fundamentalism
+k	원명	wonmyeong	
+k	원병	wonbyeong	
+k	원불교	wonbulgyo	
+k	원소기호	wonsogiho	화학에서 원소의 이름을 로마자의 한두 글자로 …
+k	원소절	wonsojeol	
+k	원시적	wonsijeok	
+k	원운동	wonundong	
+k	원일점	woniljeom	태양계의 행성, 혜성 등 태양의 둘레를 공전하…
+k	원자구조	wonjagujo	
+k	원자기호	wonjagiho	
+k	원자무기	wonjamugi	
+k	원자설	wonjaseol	
+k	원자핵	wonjahaek	atomic nucleus
+k	원장부	wonjangbu	
+k	원재료	wonjaeryo	raw materials or ingredie…
+k	원적지	wonjeokji	
+k	원조금	wonjogeum	
+k	원조하다	wonjohada	
+k	원주률	wonjuryul	North Korea standard spel…
+k	원지점	wonjijeom	달, 인공위성 등 지구의 둘레를 공전하는 천체…
+k	원통도	wontongdo	
+k	원형	wonhyeong	original form
+k	원호처	wonhocheo	
+k	월경	wolgyeong	menstruation, menses
+k	월귀탄	wolgwitan	earring
+k	월동비	woldongbi	
+k	월병	wolbyeong	a mooncake
+k	월프람	wolpeuram	
+k	월하노인	wolhanoin	결혼을 중매하는 사람.
+e	wollongong	wollongong	1 meaning
+e	wondergoal	wondergoal	1 meaning
+e	wonderland	wonderland	1 meaning
+e	wood pigeon	woodpigeon	1 meaning
+e	wood sorrel	woodsorrel	2 meanings
+e	woodcutter	woodcutter	1 meaning
+e	wooden fish	woodenfish	1 meaning
+e	woodpecker	woodpecker	1 meaning
+e	woodworker	woodworker	1 meaning
+e	work permit	workpermit	1 meaning
+e	workaholic	workaholic	1 meaning
+e	workcation	workcation	1 meaning
+e	working day	workingday	1 meaning
+e	working dog	workingdog	1 meaning
+e	world music	worldmusic	1 meaning
+e	world order	worldorder	1 meaning
+e	world peace	worldpeace	1 meaning
+e	world power	worldpower	1 meaning
+e	world war ii	worldwarii	1 meaning
+e	world war iv	worldwariv	1 meaning
+e	worm lizard	wormlizard	1 meaning
+j	ウォシュレット	woshuretto	washlet (bidet seat)
+j	ウォッシュボード	wosshubodo	
+j	ウォルフラム	worufuramu	synonym of タングステン
+j	ウォロディミル	worodimiru	a transliteration of the …
+j	ウォールフラワー	worufurawa	wallflower (Erysimum chei…
+k	워드마크	wodeumakeu	
+k	워싱턴	wosingteon	[~주(州)] Washington, Washi…
+k	워터 도그	woteodogeu	
+k	워터 파크	woteopakeu	water park
+k	워터마크	woteomakeu	
+k	원기부족	wongibujok	
+k	원납전	wonnapjeon	
+k	원대하다	wondaehada	
+k	원만하다	wonmanhada	mild, good-tempered, good…
+k	원숙하다	wonsukhada	
+k	원순열	wonsunyeol	몇 개의 물건이나 원소의 차례를 바꾸어 원둘레…
+k	원숭이의	wonsungiui	
+k	원시별	wonsibyeol	별이 생겨나기 이전의 별을 가리키는 말.
+k	원시사회	wonsisahoe	
+k	원시시대	wonsisidae	
+k	원시예술	wonsiyesul	
+k	원엽체	wonyeopche	
+k	원자량	wonjaryang	12개의 탄소질량을 12개로 한 각원자의 질량.
+k	원자력	wonjaryeok	nuclear power
+k	원자시계	wonjasigye	
+k	원자탄두	wonjatandu	
+k	원조교제	wonjogyoje	dating with compensation …
+k	원천지	woncheonji	
+k	원초적	wonchojeok	원래부터 존재하는.
+k	원추세포	wonchusepo	
+k	원폭점	wonpokjeom	
+k	원화전	wonhwajeon	
+k	월계관	wolgyegwan	월계수잎으로 만들어진 왕관.
+k	월남하다	wollamhada	어떤 경계선을 지나 남쪽으로 넘다.
+k	월드컵	woldeukeop	World Cup
+k	월등히	woldeunghi	
+k	월상골	wolsanggol	
+e	won buddhism	wonbuddhism	1 meaning
+e	wonder woman	wonderwoman	1 meaning
+e	wood warbler	woodwarbler	1 meaning
+e	woodcreeper	woodcreeper	1 meaning
+e	wooden spoon	woodenspoon	1 meaning
+e	word of honor	wordofhonor	1 meaning
+e	word of mouth	wordofmouth	1 meaning
+e	workaholism	workaholism	1 meaning
+e	workstation	workstation	1 meaning
+e	world record	worldrecord	1 meaning
+e	world series	worldseries	1 meaning
+e	world war iii	worldwariii	1 meaning
+j	ウォータースポーツ	wotasupotsu	水上、水中で行われる競技の総称。水上競技、水中競技。
+j	ウォータースライダー	wotasuraida	遊戯用プールに設置されている滑り台。最後はプールに…
+j	ウォータースライド	wotasuraido	
+j	ウォーターボーディング	wotabodingu	waterboarding
+j	ウォーミングアップ	wominguappu	warming up
+k	워그르르	wogeureureu	excessively teemingly (in…
+k	워석대다	woseokdaeda	'워석거리다'.
+k	워칙허다	wochikheoda	
+k	워크벤치	wokeubenchi	workbench
+k	워크플로	wokeupeullo	
+k	원가계산	wongagyesan	
+k	원고용지	wongoyongji	
+k	원근법	wongeunbeop	
+k	원더 우먼	wondeoumeon	
+k	원둘레각	wondulregak	
+k	원둘레율	wondulreyul	
+k	원로대신	wollodaesin	
+k	원망하다	wonmanghada	to blame; to resent
+k	원문대로	wonmundaero	
+k	원뿔세포	wonppulsepo	
+k	원색적	wonsaekjeok	
+k	원생대	wonsaengdae	고생대 이전의 시대.
+k	원순모음	wonsunmoeum	
+k	원시민족	wonsiminjok	
+k	원시산업	wonsisaneop	
+k	원시인구어	wonsiingueo	
+k	원심기계	wonsimgigye	
+k	원심력	wonsimnyeok	
+k	원외운동	wonoeundong	
+k	원인명	woninmyeong	
+k	원인요법	woninyobeop	
+k	원인제공	woninjegong	
+k	원자 번호	wonjabeonho	
+k	원자구름	wonjagureum	핵폭발 직후에 생기는 거대한 버섯 모양의 구름.
+k	원자번호	wonjabeonho	원소의 원자 수에 따라 정해지는 고유 번호. …
+k	원자병	wonjabyeong	
+k	원자폭탄	wonjapoktan	atomic bomb
+k	원재판소	wonjaepanso	
+k	원정군	wonjeonggun	
+k	원정대	wonjeongdae	
+k	원추면	wonchumyeon	
+k	원칙적	wonchikjeok	원칙에 근거한.
+k	원탁회의	wontakhoeui	
+k	원판결	wonpangyeol	
+k	원활하다	wonhwalhada	
+k	월경수	wolgyeongsu	
+k	월경지	wolgyeongji	an exclave
+k	월광곡	wolgwanggok	
+k	월령가	wollyeongga	
+k	월요병	woryobyeong	
+k	월인석보	worinseokbo	조선 세조 5년(1459)에 월인천강지곡과 석…
+k	월장석	woljangseok	moonstone
+k	월하빙인	wolhabingin	
+e	wollastonite	wollastonite	1 meaning
+e	women's rights	womensrights	1 meaning
+e	wood hedgehog	woodhedgehog	1 meaning
+e	workers' party	workersparty	1 meaning
+e	working class	workingclass	1 meaning
+e	working group	workinggroup	1 meaning
+e	world wide web	worldwideweb	1 meaning
+j	ウォッチリスト	wotchirisuto	watchlist, especially wat…
+j	ウォームアップする	womuappusuru	
+k	워글워글	wogeurwogeul	very teemingly
+k	워떡허다	wotteokheoda	
+k	워석워석	woseogwoseok	repeatedly rustlingly; wh…
+k	워썩대다	wosseokdaeda	'워썩거리다'.
+k	워척허다	wocheokheoda	
+k	워킹그룹	wokinggeurup	
+k	원격유도	wongyeogyudo	
+k	원격제어	wongyeokjeeo	
+k	원구동물	wongudongmul	
+k	원그래프	wongeuraepeu	
+k	원동력	wondongnyeok	움직임과 운동의 근본이 되는 힘.
+k	원시종교	wonsijonggyo	
+k	원심운동	wonsimundong	
+k	원앙사촌	wonangsachon	The crested shelduck, Tad…
+k	원양어업	wonyangeoeop	
+k	원예농업	wonyenongeop	
+k	원예식물	wonyesingmul	
+k	원예작물	wonyejangmul	'원예식물'.
+k	원예품종	wonyepumjong	
+k	원외투쟁	wonoetujaeng	
+k	원인관계	woningwangye	
+k	원전비판	wonjeonbipan	
+k	원추도법	wonchudobeop	
+k	원추형	wonchuhyeong	
+k	원칙성	wonchikseong	
+k	원형 톱	wonhyeongtop	
+k	원형질	wonhyeongjil	세포핵과 세포막을 통틀어서 일컫는 말.
+k	원환면	wonhwanmyeon	
+k	월경대	wolgyeongdae	
+k	월궁항아	wolgunghanga	전설에서, 달에 있는 궁에 산다는 선녀.
+k	월동준비	woldongjunbi	
+k	월등하다	woldeunghada	
+k	월월산산	worwolsansan	departure of a friend
+e	wolverhampton	wolverhampton	1 meaning
+e	women's studies	womensstudies	1 meaning
+e	wood sandpiper	woodsandpiper	1 meaning
+e	word processor	wordprocessor	2 meanings
+e	working memory	workingmemory	1 meaning
+e	worldbuilding	worldbuilding	1 meaning
+e	worth one's salt	worthonessalt	1 meaning
+j	ウォリス・フツナ	worisufutsuna	Wallis and Futuna (an arc…
+j	ウォーターゲート事件	wotagetojiken	
+k	워석거리다	woseokgeorida	풀기가 센 옷이나 얇고 뻣뻣한 물건이 서로 세…
+k	워석버석	woseokbeoseok	
+k	워치리스트	wochiriseuteu	
+k	원격조작	wongyeokjojak	remote control, remote op…
+k	원경법	wongyeongbeop	
+k	원고근려	wongogeullyeo	먼 일을 생각하고 가까운 일을 염려한다.
+k	원내총무	wonnaechongmu	
+k	원더랜드	wondeoraendeu	wonderland
+k	원상회복	wonsanghoebok	
+k	원소광물	wonsogwangmul	하나의 원소로만 이루어진 광물. 자연금, 자연…
+k	원심분리기	wonsimbulligi	모터를 작동시켜서 원심력으로 액체와 고체 또는…
+k	원양어선	wonyangeoseon	
+k	원인이 되는	woninidoeneun	
+k	원자 질량	wonjajillyang	
+k	원자모형	wonjamohyeong	
+k	원전석의	wonjeonseogui	
+k	원죄 없는	wonjoeeomneun	
+k	원천과세	woncheongwase	
+k	원추 곡선	wonchugokseon	원뿔 곡선의 이전 용어.
+k	원추각막	wonchugangmak	keratoconus
+k	원칙주의자	wonchikjuuija	
+k	원통형	wontonghyeong	
+k	원형아치	wonhyeongachi	
+k	월경통	wolgyeongtong	
+k	월광보살	wolgwangbosal	
+k	월드 레코드	woldeurekodeu	
+k	월드 시리즈	woldeusirijeu	
+k	월정보살	woljeongbosal	
+e	work like a horse	worklikeahorse	1 meaning
+j	ウォーターフォールモデル	wotaforumoderu	waterfall model
+j	ウォーターフォール・モデル	wotaforumoderu	
+k	워썩거리다	wosseokgeorida	풀기가 센 옷이나 얇고 뻣뻣한 물건이 서로 세…
+k	워썩워썩	wosseogwosseok	repeatedly very rustlingl…
+k	워크스페이스	wokeuseupeiseu	
+k	원격조종	wongyeokjojong	remote control (device)
+k	원반던지기	wonbandeonjigi	discus throw
+k	원뿔 곡선	wonppulgokseon	원뿔을 평면으로 잘라서 나타낼 수 있는 곡선.…
+k	원시생활	wonsisaenghwal	
+k	원앙금침	wonanggeumchim	
+k	원양항해	wonyanghanghae	
+k	원왕생가	wonwangsaengga	
+k	원주곡면	wonjugongmyeon	
+k	원천징수	woncheonjingsu	
+k	월권행위	wolgwonhaengwi	
+k	월령체가	wollyeongchega	
+e	woman of the world	womanoftheworld	1 meaning
+e	world exposition	worldexposition	1 meaning
+k	워드프로세서	wodeupeuroseseo	
+k	워터 슬라이드	woteoseullaideu	
+k	웍더글대다	wokdeogeuldaeda	'웍더글거리다'.
+k	웍저그르르	wokjeogeureureu	very boisterously; very u…
+k	원생동물	wonsaengdongmul	protozoan
+k	원생식물	wonsaengsingmul	
+k	원소행렬	wonsohaengnyeol	알파벳순으로 원소를 나열한 것..
+k	원숭이두창	wonsungiduchang	
+k	원통형의	wontonghyeongui	
+k	원핵생물	wonhaeksaengmul	prokaryote
+k	원형 톱날	wonhyeongtomnal	
+k	원형질막	wonhyeongjilmak	세포를 둘러싸고 있는 얇은 막. 세포막과 기능…
+k	원형질체	wonhyeongjilche	
+k	월경불순	wolgyeongbulsun	
+k	월드 와이드 웹	woldeuwaideuwep	
+k	월드와이드웹	woldeuwaideuwep	그림, 소리, 영상 따위의 멀티미디어를 일정한…
+j	ウォッチドッグタイマー	wotchidoggutaima	watchdog timer
+k	워크스테이션	wokeuseuteisyeon	workstation
+k	원격조종기	wongyeokjojonggi	'리모컨'의 번역어.
+k	원생생물	wonsaengsaengmul	protist
+k	원숭이올빼미	wonsungiolppaemi	
+k	원자핵반응	wonjahaekbaneung	
+k	원자핵분열	wonjahaekbunyeol	
+k	원자핵융합	wonjahaekyunghap	
+k	원플러스원	wonpeulleoseuwon	
+e	woodblock printing	woodblockprinting	1 meaning
+e	wooden anniversary	woodenanniversary	1 meaning
+e	working conditions	workingconditions	1 meaning
+e	world heritage site	worldheritagesite	1 meaning
+e	worst comes to worst	worstcomestoworst	1 meaning
+e	worst-case scenario	worstcasescenario	1 meaning
+k	워터게이트 사건	woteogeiteusageon	
+k	웍더글거리다	wokdeogeulgeorida	크고 단단한 물건들이 함부로 부딪치면서 굴러가…
+k	원형극장	wonhyeonggeukjang	중앙의 무대가 원 모양의 극장.
+e	woodwind instrument	woodwindinstrument	1 meaning
+e	work someone's ass off	worksomeonesassoff	1 meaning
+k	원자력 잠수함	wonjaryeokjamsuham	
+e	worcestershire sauce	worcestershiresauce	1 meaning
+j	ウォルト・ディズニー・カンパニー	worutodizunikanpani	
+k	원자력 발전소	wonjaryeokbaljeonso	
+k	원자력발전소	wonjaryeokbaljeonso	a nuclear power plant
+k	월인천강지곡	worincheongangjigok	조선 세종 31년(1449)에 세종이 석가모니…
+e	wolf in sheep's clothing	wolfinsheepsclothing	1 meaning
+k	원반던지기 선수	wonbandeonjigiseonsu	
+k	월광변조보살	wolgwangbyeonjobosal	
+k	워터펌프플라이어	woteopeompeupeullaieo	
+e	world trade organization	worldtradeorganization	1 meaning
+e	world's oldest profession	worldsoldestprofession	1 meaning
+e	world health organization	worldhealthorganization	1 meaning
+k	워크 앤 라이프 밸런스	wokeuaenraipeubaelreonseu	work-life balance
+k	원동기장치자전거	wondonggijangchijajeongeo	
+k	원숭이도 나무에서 떨어진다	wonsungidonamueseotteoreojinda	
+k	원수는 외나무다리에서 만난다	wonsuneunoenamudarieseomannanda	윗사람의 행실이 발라야 아랫사람도 행실이 바르…
+k	원숭이도 나무에서 떨어질 때가 있다	wonsungidonamueseotteoleojilttaegaitda	나무를 잘 타는 원숭이도 때로는 나무에서 떨어…

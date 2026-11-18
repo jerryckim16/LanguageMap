@@ -1,0 +1,2 @@
+e	f-sharp major	fsharpmajor	1 meaning
+e	f-sharp minor	fsharpminor	1 meaning

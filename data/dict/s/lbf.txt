@@ -1,0 +1,2 @@
+e	b-flat major	bflatmajor	1 meaning
+e	b-flat minor	bflatminor	1 meaning

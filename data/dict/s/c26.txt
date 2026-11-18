@@ -1,0 +1,2001 @@
+j	会	会	meeting, gathering
+j	佚	佚	ease
+j	僚	僚	colleague
+j	党	党	political party
+j	博	博	doctor, PhD
+j	厚	厚	a male given name
+j	喚	喚	to shout; to cry
+j	塚	塚	a mound or hillock, gener…
+j	多	多	multi-
+j	娚	娚	husband and wife; married…
+j	媚	媚	currying favor; obsequiou…
+j	定	定	a female given name
+j	尚	尚	esteem, respect
+j	帚	帚	
+j	庚	庚	the seventh of the ten he…
+j	愚	愚	foolish
+j	揚	揚	to raise; to lift
+j	枚	枚	thin and flat object
+j	柚	柚	yuzu (Citrus junos)
+j	棚	棚	shelf, ledge, rack, trell…
+j	楚	楚	（ソ）古代中国長江中流域に存在した国。
+j	汚	汚	dirty
+j	沚	沚	（なぎさ）波打ち際。
+j	渚	渚	beach
+j	級	級	rank
+j	続	続	a continuation
+j	線	線	line
+j	肚	肚	abdomen, belly
+j	胚	胚	embryo
+j	脚	脚	counter for desks, chairs…
+j	葚	葚	（くわのみ）桑の実、桑実 - クワ科クワ属の樹木の…
+j	蓚	蓚	
+j	蕚	蕚	花の最も外側の器官。
+j	虚	虚	lack of preparation
+j	覚	覚	a male given name
+j	譚	譚	story; tale
+j	豚	豚	pig; swine
+j	通	通	documents
+j	鐚	鐚	（びた）質が悪く価値が無い又は極めて低い貨幣。鐚銭。
+j	鬚	鬚	ひげを参照。
+j	魚	魚	fish
+j	鰚	鰚	trout
+j	鱚	鱚	
+j	鶚	鶚	osprey, Pandion haliaetus
+k	각	脚	each
+k	경	庚	In the Joseon Dynasty (14…
+k	급	級	rank; level; grade
+k	다	多	For the verb-final suffix…
+k	당	党	justice
+k	매	枚	hawk
+k	배	胚	abdomen, belly (of a huma…
+k	사토리	覚	
+k	선	線	judging the quality of a …
+k	우	愚	right side
+k	찬	讚	praise
+k	회	会	sliced raw meat or fish; …
+j	会う	会う	to meet with, see, meet a…
+j	会主	会主	association founder
+j	会党	会党	any of a number of secret…
+j	会則	会則	association's rule, membe…
+j	会務	会務	「会」のつく団体、組織の事務。
+j	会厭	会厭	epiglottis
+j	会友	会友	同じ会に加入している友人、仲間。
+j	会合	会合	meeting
+j	会同	会同	会議のために寄り集まること。また、その集まり。
+j	会員	会員	member
+j	会商	会商	talks; negotiation
+j	会堂	会堂	meeting building
+j	会報	会報	newsletter
+j	会場	会場	meeting place; party plac…
+j	会子	会子	中国宋の時代に発行された紙幣。
+j	会席	会席	meeting place
+j	会式	会式	Buddhist memorial service…
+j	会得	会得	understanding, comprehens…
+j	会心	会心	satisfaction
+j	会意	会意	compound indicatives
+j	会戦	会戦	battle
+j	会所	会所	meeting place; gathering …
+j	会敵	会敵	encounter with the enemy
+j	会旗	会旗	会を象徴する旗
+j	会期	会期	session (of legislature o…
+j	会歌	会歌	「会」を称する団体の歌。
+j	会沢	会沢	a surname
+j	会津	会津	a region in western Fukus…
+j	会派	会派	party, faction, coalition
+j	会田	会田	a surname
+j	会盟	会盟	人々が会合して誓い合うこと。
+j	会社	会社	a company
+j	会章	会章	会の記章または紋章。
+j	会符	会符	武家や公家の特定の身分の荷物を運送する際に特別な便…
+j	会紙	会紙	会が会員に対し定期的に発行する機関紙。
+j	会者	会者	連歌などの会席に参加する者。
+j	会肄	会肄	皆で習うこと。
+j	会葬	会葬	funeral; attendance at a …
+j	会衆	会衆	meeting attenders, congre…
+j	会見	会見	interview
+j	会規	会規	association's rules
+j	会計	会計	account (registry of pecu…
+j	会記	会記	茶会の次第や道具などの記録。
+j	会試	会試	中国で行われた官吏登用試験である科挙で郷試に合格し…
+j	会話	会話	conversation
+j	会誌	会誌	newsletter, journal of an…
+j	会読	会読	study meeting (of a piece…
+j	会談	会談	talks
+j	会議	会議	meeting, conference
+j	会費	会費	membership fee, dues
+j	会賀	会賀	a female given name
+j	会賦	会賦	人口割りの租税。
+j	会通	会通	（かいつう）物事が一緒になることと変化すること。
+j	会遇	会遇	偶然出会うこと。遭遇。
+j	会釈	会釈	saluting, a slight bow, a…
+j	会長	会長	a chairman; a president
+j	会陰	会陰	perineum
+j	会集	会集	多くの人が寄り集まること。集会。
+j	会頭	会頭	association chairman
+j	会食	会食	dining meeting
+j	会飲	会飲	drinking at a party
+j	会館	会館	building that hosts Chine…
+j	佚労	佚労	安逸と労苦。
+j	佚宕	佚宕	無頓着なさま。
+j	佚文	佚文	散佚して現存しない文章。
+j	佚老	佚老	遁世の老人。
+j	佚蕩	佚蕩	おおまか。
+j	俚俗	俚俗	田舎びていること。また、そのようなさまや風習。
+j	俚歌	俚歌	世間で流行している歌。俚謡。
+j	俚耳	俚耳	一般大衆の耳。
+j	俚言	俚言	俗間で使用される言葉。
+j	俚諺	俚諺	俗世間で使われている諺。俗諺。
+j	俚謡	俚謡	世間で流行している歌。
+j	倚伏	倚伏	禍福が互いにその原因となり、またそれぞれに伏在する…
+j	倚子	倚子	Original form of 椅子
+j	倚重	倚重	relying heavily on
+j	倚門	倚門	門戸に寄り掛かること。
+j	倚靡	倚靡	煮え切らないさま。
+j	倚音	倚音	西洋音楽である音符の前に短く演奏される音。前打音。
+j	僚子	僚子	a female given name
+j	僚属	僚属	属官。
+j	僚従	僚従	属官。
+j	僚朋	僚朋	友人。
+j	僚機	僚機	自機と編隊を組む友軍機
+j	僚船	僚船	一緒に運行している仲間の船舶。
+j	僚艇	僚艇	自艇と艇隊を組む友軍艇
+j	僚艦	僚艦	自艦と艦隊を組む友軍艦。
+j	僚車	僚車	自車と車隊を組む友軍車
+j	儚い	儚い	fleeting, ephemeral, tran…
+j	党与	党与	共に何かをすること。
+j	党争	党争	党派間の争い。
+j	党人	党人	party man
+j	党内	党内	仲間内。
+j	党利	党利	政党や党派の利益。
+j	党則	党則	党の規則。党規。
+j	党務	党務	政党や党派における事務。
+j	党勢	党勢	党派の勢力。
+j	党参	党参	dried roots of Codonopsis…
+j	党友	党友	政党の正式な党員ではないが、政党に認めれてその政党…
+j	党名	党名	政党や党派の名称。
+j	党員	党員	member of a party
+j	党外	党外	仲間外
+j	党歌	党歌	政党や党派の理念などを取り入れたその政党、党派の歌。
+j	党派	党派	faction, party, branch
+j	党略	党略	党派としての戦略。
+j	党籍	党籍	政党などの党員としての籍。
+j	党紀	党紀	党の風紀。
+j	党綱	党綱	党の要綱や政綱。
+j	党葬	党葬	funeral ceremony held by …
+j	党規	党規	党の規則。党則。
+j	党論	党論	それぞれの党派が主張する議論。党議。
+j	党議	党議	党内での議論。
+j	党費	党費	政党の運営にかかる費用。
+j	党軍	党軍	政党の下部組織として編成された軍隊。
+j	党輩	党輩	ともがら。仲間。
+j	党類	党類	ある目的に関する仲間のこと。
+j	党首	党首	a party head, a leader of…
+j	匚部	匚部	部首「⼕」で分類した漢字の一群。
+j	博す	博す	
+j	博一	博一	a male given name
+j	博三	博三	a male given name
+j	博且	博且	a male given name
+j	博久	博久	a male given name
+j	博之	博之	a male given name
+j	博人	博人	a male given name
+j	博元	博元	a male given name
+j	博光	博光	a male given name
+j	博典	博典	a male given name
+j	博労	博労	馬を鑑定する人。
+j	博勝	博勝	a male given name
+j	博史	博史	a male given name
+j	博司	博司	a male given name
+j	博和	博和	a male given name
+j	博喜	博喜	a male given name
+j	博国	博国	a male given name
+j	博士	博士	a doctor (person who has …
+j	博多	博多	Hakata (a region of Fukuo…
+j	博大	博大	広く、大きいさま。
+j	博奕	博奕	gambling
+j	博学	博学	erudite
+j	博実	博実	a male given name
+j	博己	博己	a male given name
+j	博巳	博巳	a male given name
+j	博幸	博幸	a male given name
+j	博幹	博幹	a male given name
+j	博康	博康	a male given name
+j	博征	博征	a male given name
+j	博徒	博徒	gambler
+j	博愛	博愛	philanthropy, fraternity
+j	博戯	博戯	賭けを伴うような勝負事。
+j	博才	博才	（はくさい）幅広い才知。
+j	博打	博打	gambling
+j	博捜	博捜	wide search, especially t…
+j	博敏	博敏	a male given name
+j	博文	博文	a male given name
+j	博明	博明	a male given name
+j	博昭	博昭	a male given name
+j	博樹	博樹	a male given name
+j	博次	博次	a male given name
+j	博正	博正	a male given name
+j	博治	博治	a male given name
+j	博洽	博洽	広く普及すること。
+j	博満	博満	a male given name
+j	博爾	博爾	a male given name
+j	博物	博物	natural history, wide lea…
+j	博盛	博盛	a male given name
+j	博睦	博睦	a male given name
+j	博紀	博紀	a male given name
+j	博美	博美	a unisex given name
+j	博義	博義	a male given name
+j	博臣	博臣	a male given name
+j	博視	博視	a male given name
+j	博覧	博覧	public exhibition
+j	博論	博論	博士論文の略。
+j	博識	博識	learned; erudite; scholar…
+j	博貴	博貴	a male given name
+j	博進	博進	賭物。
+j	博雅	博雅	erudite
+j	厚い	厚い	
+j	厚く	厚く	
+j	厚さ	厚さ	
+j	厚み	厚み	thickness
+j	厚三	厚三	a male given name
+j	厚償	厚償	充分に償うこと。
+j	厚利	厚利	大きな利益。大利。
+j	厚博	厚博	a male given name
+j	厚味	厚味	味が濃厚でおいしいさま。また、御馳走。
+j	厚子	厚子	a female given name
+j	厚徳	厚徳	徳の厚いこと。
+j	厚志	厚志	kindness, kind intentions
+j	厚恩	厚恩	厚い恩恵。高恩。
+j	厚恵	厚恵	大きな恩恵。
+j	厚情	厚情	厚い情け。親切心。
+j	厚意	厚意	kind thought; kindness
+j	厚木	厚木	Atsugi (a city in Kanagaw…
+j	厚朴	厚朴	dried bark of Magnolia ob…
+j	厚板	厚板	
+j	厚澤	厚澤	a surname
+j	厚生	厚生	public welfare
+j	厚田	厚田	Atsuta (a former village …
+j	厚相	厚相	厚生大臣の略。
+j	厚真	厚真	Atsuma (a town in Iburi s…
+j	厚禄	厚禄	手厚い俸禄。
+j	厚紙	厚紙	thick paper
+j	厚給	厚給	十分に賜うこと。
+j	厚繒	厚繒	つむぎ。
+j	厚葬	厚葬	故人を手厚く葬ること。
+j	厚薄	厚薄	thickness and thinness
+j	厚誼	厚誼	親しく、手厚いつきあい。
+j	厚賞	厚賞	厚く褒賞すること。
+j	厚遇	厚遇	favor; hospitality; kind …
+j	厚重	厚重	どっしりとして落ち着いているさま。
+j	厚顔	厚顔	brazen-faced, impudent
+j	喚く	喚く	
+j	喚呼	喚呼	確認して声に出すこと。
+j	喚問	喚問	summons
+j	喚声	喚声	shout; shriek (out of exc…
+j	喚想	喚想	過去のことを思い起こすこと。
+j	喚語	喚語	to think of something tha…
+j	喚起	喚起	arousal
+j	喚鐘	喚鐘	勤行、法会、茶会などで参加者を呼び集めるために鳴ら…
+j	嗚呼	嗚呼	呼び求めること。
+j	嗚咽	嗚咽	sobbing
+j	嗚惻	嗚惻	泣き、悲しむこと。
+j	嚚人	嚚人	頑愚（な人）。
+j	嚚凶	嚚凶	凶愚なさま。
+j	囚人	囚人	a prisoner
+j	囚俘	囚俘	戦で敵に囚われた者。
+j	囚役	囚役	囚人に課される労役。
+j	囚徒	囚徒	prisoner
+j	囚擒	囚擒	とらわれること。捕虜になること。
+j	囚獄	囚獄	（しゅうごく、稀に:ひとや）捕らえた罪人を収容する…
+j	囚禁	囚禁	（罪人などを）捕らえて牢獄に禁錮すること。
+j	囚繫	囚繫	捕らえられ牢獄に繫がれること。また、そのようになっ…
+j	囚虜	囚虜	囚われること。また、その者。
+j	塚原	塚原	a surname
+j	塚本	塚本	a surname
+j	塚田	塚田	a surname
+j	多々	多々	many times, in many occas…
+j	多い	多い	there are many, there is …
+j	多く	多く	largely; mostly
+j	多し	多し	many; numerous
+j	多一	多一	a male given name
+j	多世	多世	多くの時代。
+j	多事	多事	eventfulness
+j	多伎	多伎	a female given name
+j	多作	多作	作品を多く作ること。
+j	多価	多価	分子内の価数が2以上であること。
+j	多元	多元	根本や要素が数多くあること。
+j	多党	多党	多くの党派。
+j	多分	多分	maybe, perhaps; probably
+j	多剤	多剤	薬剤の種類がたくさんあること。
+j	多力	多力	力・権力が強いこと。また、そのさま。
+j	多動	多動	意味もなくあちらこちらを動き回ること。
+j	多勢	多勢	多くの人達。大勢。
+j	多喜	多喜	a female given name
+j	多士	多士	多くの優秀な人材。
+j	多変	多変	変化が多いこと。また、そのようなさま。
+j	多多	多多	数量が多いこと。たくさん。
+j	多大	多大	serious, immense, great
+j	多妻	多妻	二人以上の妻を有すること。
+j	多子	多子	a female given name
+j	多季	多季	a female given name
+j	多宝	多宝	「多宝如来」の略。
+j	多寡	多寡	degree (amount)
+j	多少	多少	little, somewhat, rather,…
+j	多層	多層	層が幾重にも重なっていること。
+j	多岐	多岐	diversity, variety
+j	多希	多希	a female given name
+j	多年	多年	長い年月。長年。
+j	多幸	多幸	great happiness, good for…
+j	多幾	多幾	a surname
+j	多度	多度	a surname
+j	多弁	多弁	口数の多い様。
+j	多形	多形	
+j	多彩	多彩	variegated, diverse
+j	多忙	多忙	busy
+j	多情	多情	情が深いこと。
+j	多感	多感	sensitive
+j	多態	多態	
+j	多才	多才	versatility, talent
+j	多技	多技	多くの技芸。また、それらを有する者。
+j	多投	多投	投手が特定の球種をふつうより多く投球すること。
+j	多数	多数	a great many, a great num…
+j	多方	多方	多くの方面。
+j	多時	多時	多くの時間。長い期間。
+j	多智	多智	知恵、知識が多いこと。
+j	多書	多書	多くの書物。
+j	多望	多望	promising
+j	多木	多木	a surname
+j	多来	多来	a female given name
+j	多極	多極	multipolar (having multip…
+j	多様	多様	diverse, various
+j	多樹	多樹	a female given name
+j	多欲	多欲	欲が多いこと。また、そのようなさま。欲張り。
+j	多気	多気	a surname
+j	多氣	多氣	a surname
+j	多汁	多汁	水気を多く含んでいること。
+j	多浪	多浪	one who has failed to pas…
+j	多湿	多湿	湿度が高いこと。湿気が多いこと。また、そのようなさ…
+j	多牌	多牌	long hand (illegal hand c…
+j	多生	多生	a female given name
+j	多産	多産	子供や卵をたくさん産むこと。
+j	多用	多用	being busy
+j	多田	多田	a surname
+j	多病	多病	病気になることが多いさま。病気がちであるさま。
+j	多発	多発	many instances, many case…
+j	多知	多知	知恵、知識が多いこと。
+j	多禰	多禰	上代の頃の鹿児島県種子島と付近の島々の総称。
+j	多種	多種	種類が多いこと。
+j	多端	多端	複雑で多岐にわたること。
+j	多答	多答	multiple answers
+j	多糖	多糖	多糖類。
+j	多紀	多紀	a female given name
+j	多綺	多綺	a female given name
+j	多罪	多罪	犯した罪の多いこと。
+j	多羅	多羅	「多羅樹」の略。
+j	多義	多義	polysemy, multiple meanin…
+j	多聞	多聞	lots of information or kn…
+j	多肉	多肉	葉や茎の肉が肥厚していること。
+j	多胎	多胎	多胎妊娠により胎内に二人以上ないし三人以上の胎児を…
+j	多色	多色	色が多いこと。たくさんの色。さまざまな色。色の種類…
+j	多芸	多芸	多くの技芸。また、多くの技芸を持っているさま。
+j	多衆	多衆	多くの人達。大衆。大勢。
+j	多見	多見	多くのものを見ること。見聞が広いこと。
+j	多角	多角	different angles
+j	多言	多言	口数が多いこと。
+j	多記	多記	a surname
+j	多謝	多謝	深く感謝すること。
+j	多財	多財	金持ち。
+j	多趣	多趣	趣に富むこと。
+j	多輝	多輝	a female given name
+j	多選	多選	同じ人が選挙で何回も当選すること。
+j	多重	多重	multiple
+j	多量	多量	abundant; in large amount…
+j	多門	多門	a surname
+j	多難	多難	災難や、困難、苦労が多いこと。
+j	多雨	多雨	雨の日や雨量が多いこと。
+j	多面	多面	many-sided; multifaceted
+j	多頭	多頭	一つの体に複数の頭があること。
+j	多額	多額	large (amount of money)
+j	多鶴	多鶴	a male given name
+j	奚琴	奚琴	xiqin
+j	婚会	婚会	結婚式。
+j	婚儀	婚儀	結婚の儀式。婚礼。
+j	婚前	婚前	before marriage; (attribu…
+j	婚合	婚合	男女（夫婦）の交接。
+j	婚外	婚外	extramarriage
+j	婚女	婚女	a married woman
+j	婚姻	婚姻	marriage
+j	婚娶	婚娶	夫婦になること。結婚すること。
+j	婚媾	婚媾	婚姻すること。結婚。
+j	婚嫁	婚嫁	嫁に行くこと。嫁入り。
+j	婚家	婚家	婚姻により入籍した先の家。
+j	婚文	婚文	a letter proposing marria…
+j	婚期	婚期	結婚に適した年頃。適齢期。
+j	婚活	婚活	marriage-hunting (in a wa…
+j	婚礼	婚礼	wedding
+j	婚約	婚約	engagement (a promise to …
+j	媚び	媚び	imperfective and stem (or…
+j	媚嬌	媚嬌	艶かしいさま。
+j	媚態	媚態	男性に媚びるように艶かしい女性の態度。
+j	媚眼	媚眼	媚びた目つき。
+j	媚笑	媚笑	男の気を引くような笑い。
+j	媚薬	媚薬	an aphrodisiac, a love po…
+j	媚麗	媚麗	媚びて美しいこと。また、そのようなさま。
+j	嫚言	嫚言	軽蔑する言葉。嫚辞。
+j	嫚辞	嫚辞	軽蔑する言葉。嫚言。
+j	孚瑜	孚瑜	玉の美しい色。
+j	孚萌	孚萌	育つこと。
+j	定か	定か	sure, definite
+j	定め	定め	law, regulations, customs…
+j	定之	定之	a male given name
+j	定休	定休	regular holiday
+j	定位	定位	location; positioning
+j	定住	定住	settlement
+j	定例	定例	usual practice; routine
+j	定価	定価	fixed price, set price, l…
+j	定借	定借	（不動産）定期借地権（定期借地）または定期借家権（…
+j	定價	定價	
+j	定先	定先	囲碁で一方の相手方が常に先手で打つ手合い割。
+j	定免	定免	江戸時代、一定期間田畑にかけた定額の租税。
+j	定分	定分	生まれつき。宿命。
+j	定刻	定刻	fixed time
+j	定則	定則	決まった規則。
+j	定印	定印	禅定に入っていることを表す印契。
+j	定収	定収	一定して入る収入。定収入。
+j	定命	定命	limit of human lifespan d…
+j	定員	定員	capacity (number of peopl…
+j	定圧	定圧	一定の圧力。
+j	定型	定型	fixed pattern
+j	定夫	定夫	a male given name
+j	定岡	定岡	a surname
+j	定州	定州	Dingzhou (a city in Baodi…
+j	定常	定常	常に一定していて変わらないこと。また、そのさま。
+j	定年	定年	age of mandatory retireme…
+j	定府	定府	江戸時代、幕府に仕える大名などが参勤交代せずに江戸…
+j	定式	定式	formula
+j	定形	定形	決まった形。
+j	定律	定律	an established rule, a law
+j	定性	定性	
+j	定数	定数	constant
+j	定時	定時	regular time
+j	定期	定期	fixed period
+j	定木	定木	直線または曲線などの線を描くための用具。
+j	定格	定格	定まった格式。
+j	定植	定植	苗床の苗を、田畑に移し植えること。
+j	定業	定業	さだまった職業や業務。定職。
+j	定款	定款	A set of fundamental rule…
+j	定気	定気	太陰太陽暦で二十四節気を決定する際、黄道を春分点を…
+j	定法	定法	決まった法則。
+j	定流	定流	方向が一定の液体や電気の流れ。
+j	定温	定温	fixed temperature, consta…
+j	定点	定点	a fixed point
+j	定率	定率	一定の割合。
+j	定理	定理	theorem
+j	定男	定男	a male given name
+j	定番	定番	that which is classically…
+j	定着	定着	settlement, radication
+j	定石	定石	A studied and standardize…
+j	定礎	定礎	foundation; laying a corn…
+j	定祐	定祐	a male given name
+j	定稿	定稿	修正などを終え、最終的に完成した原稿。
+j	定積	定積	一定の面積または体積。
+j	定立	定立	最初に判断や主張を提出すること。
+j	定紋	定紋	family crest
+j	定置	定置	一定の場所に置くこと。
+j	定義	定義	definition
+j	定考	定考	平安時代、毎年8月11日に朝廷で六位以下の者の勤務…
+j	定職	定職	Steady employment.
+j	定良	定良	a male given name
+j	定見	定見	その人のしっかりした見識や意見。
+j	定規	定規	straightedge (instrument …
+j	定言	定言	論理学で仮定や条件を付けずに断定すること。
+j	定訳	定訳	慣用として定まった訳語。
+j	定評	定評	established reputation
+j	定詰	定詰	勤務のため一定の場所に始終詰めていること。また、そ…
+j	定説	定説	undisputed / settled theo…
+j	定議	定議	評議により決定すること。
+j	定賃	定賃	一定の賃金。
+j	定跡	定跡	A studied and standardize…
+j	定通	定通	列車が停車場を定刻通りに通過すること。
+j	定道	定道	a male given name
+j	定量	定量	fixed quantity
+j	定限	定限	定められた制限や限度。
+j	定額	定額	fixed amount (usually of …
+j	定食	定食	A set meal, usually a tra…
+j	尚主	尚主	駙馬。
+j	尚保	尚保	a male given name
+j	尚克	尚克	a male given name
+j	尚典	尚典	a male given name
+j	尚友	尚友	古書を読み、その時代の作者や偉人を友とすること。読…
+j	尚史	尚史	a male given name
+j	尚哉	尚哉	a male given name
+j	尚子	尚子	a female given name
+j	尚将	尚将	a male given name
+j	尚幸	尚幸	a male given name
+j	尚広	尚広	a male given name
+j	尚弘	尚弘	a male given name
+j	尚徳	尚徳	a male given name
+j	尚志	尚志	a male given name
+j	尚成	尚成	a male given name
+j	尚政	尚政	a male given name
+j	尚文	尚文	a male given name
+j	尚早	尚早	ことをするのにまだ早いこと。
+j	尚更	尚更	still more; even more
+j	尚書	尚書	synonym of 書経 (Shokyō)
+j	尚樹	尚樹	a male given name
+j	尚正	尚正	a male given name
+j	尚武	尚武	武道や軍事を重視すること。
+j	尚歯	尚歯	高齢者を敬うこと。敬老。
+j	尚然	尚然	そのままであるさま。
+j	尚生	尚生	a male given name
+j	尚登	尚登	a male given name
+j	尚美	尚美	a female given name
+j	尚行	尚行	a male given name
+j	尚輔	尚輔	a male given name
+j	尚通	尚通	a male given name
+j	尚逸	尚逸	a male given name
+j	尚郎	尚郎	a male given name
+j	庚兄	庚兄	同い年の兄輩。
+j	庚午	庚午	Metal Horse, the seventh …
+j	庚子	庚子	Metal Rat, the thirty-sev…
+j	庚寅	庚寅	Metal Tiger, the twenty-s…
+j	庚戌	庚戌	Metal Dog, the forty-seve…
+j	庚申	庚申	Metal Monkey, the fifty-s…
+j	庚辛	庚辛	「かのえ」と「かのと」。十干の7番目と8番目。
+j	庚辰	庚辰	Metal Dragon, the sevente…
+j	廚婢	廚婢	「厨婢」の別表記。
+j	悚慄	悚慄	恐怖で震えること。
+j	悚懼	悚懼	震え、戦くこと。
+j	悚戦	悚戦	悚慄すること。
+j	悚然	悚然	恐れて震えるさま。
+j	惚け	惚け	a fool, an idiot
+j	惚気	惚気	going on about one's love
+j	愚か	愚か	
+j	愚下	愚下	無知。
+j	愚人	愚人	idiot
+j	愚作	愚作	くだらない作品。つまらない作品。
+j	愚僧	愚僧	愚かな僧。
+j	愚兄	愚兄	自分の兄の謙称。
+j	愚児	愚児	愚かなこども。愚子。
+j	愚公	愚公	the character in the Chin…
+j	愚劣	愚劣	foolish and base
+j	愚問	愚問	a stupid question
+j	愚士	愚士	愚かな人。愚人。
+j	愚夫	愚夫	愚かな男。
+j	愚女	愚女	愚かな女。
+j	愚妹	愚妹	自分の妹の謙称。
+j	愚妻	愚妻	one's wife
+j	愚姉	愚姉	自分の姉。
+j	愚婦	愚婦	愚かな女。
+j	愚子	愚子	愚かな子供。愚児。
+j	愚弄	愚弄	mockery, ridicule
+j	愚弟	愚弟	自分の弟の謙称。
+j	愚心	愚心	愚かな心。
+j	愚志	愚志	自分の考え。愚意。
+j	愚息	愚息	my son; the son of foolis…
+j	愚意	愚意	自分の考え。
+j	愚愨	愚愨	愚直であること。また、そのようなさま。
+j	愚慧	愚慧	愚かなことと知恵があること。
+j	愚拙	愚拙	愚かで拙いこと。
+j	愚昧	愚昧	ignorant; benighted
+j	愚暗	愚暗	愚かで道理に暗いさま。暗愚。
+j	愚案	愚案	愚かな案。
+j	愚母	愚母	自分の母の謙称。
+j	愚民	愚民	ignorant commoners
+j	愚滞	愚滞	愚図。
+j	愚父	愚父	自分の父親を謙遜する語。
+j	愚物	愚物	愚人、愚か者。
+j	愚生	愚生	I, me (primarily used in …
+j	愚痴	愚痴	complaint, grumble
+j	愚癡	愚癡	「愚痴」の別表記。
+j	愚直	愚直	honest to a fault
+j	愚知	愚知	愚かなことと知恵があること。
+j	愚禿	愚禿	僧侶が自らを謙遜して言う語。
+j	愚答	愚答	愚かな答え。
+j	愚策	愚策	foolish plan
+j	愚老	愚老	老人の、自分に対する謙称。
+j	愚考	愚考	愚かな考え。
+j	愚者	愚者	a fool, an idiot
+j	愚臣	愚臣	stupid vassal
+j	愚草	愚草	自分の草稿を謙遜する語。
+j	愚蒙	愚蒙	愚かなこと。
+j	愚衆	愚衆	愚民。
+j	愚行	愚行	folly; foolishness
+j	愚見	愚見	自分の意見。
+j	愚視	愚視	見下すこと。
+j	愚計	愚計	愚かな計画や計略。
+j	愚誠	愚誠	愚かしい誠心。
+j	愚説	愚説	愚かな説。
+j	愚論	愚論	愚かな議論や論説。
+j	愚鈍	愚鈍	dull, stupid, silly
+j	愚闇	愚闇	愚かで道理に暗いさま。暗愚。
+j	愚陋	愚陋	愚かで卑しいこと。
+j	慚悔	慚悔	罪過を恥じ、悔いること。慚愧。
+j	慚愧	慚愧	a feeling of shame
+j	慚死	慚死	恥ずかしく思い死ぬこと。
+j	憚り	憚り	
+j	憚る	憚る	to hesitate, to be afraid…
+j	戚戚	戚戚	憂え悲しむさま。
+j	戚揚	戚揚	斧と鉞。斧鉞。武器。
+j	戚里	戚里	天子の外戚。
+j	揚げ	揚げ	a food that has been frie…
+j	揚力	揚力	lift (upward aerodynamic …
+j	揚士	揚士	a male given name
+j	揚子	揚子	Honorific for Yang Xiong …
+j	揚州	揚州	Yangzhou (a prefecture-le…
+j	揚揚	揚揚	得意げな様子。ほこらしいさま。
+j	揚搉	揚搉	大略を挙げること。
+j	揚棄	揚棄	止揚。アウフヘーベン。
+j	揚水	揚水	pumping of water
+j	揚琴	揚琴	yangqin (musical instrume…
+j	揚羽	揚羽	synonym of 並揚羽 (nami-ageh…
+j	揚言	揚言	proclamation
+j	揚陸	揚陸	landing; unloading
+j	揚音	揚音	より高く、または強く読まれる音節。
+j	撚糸	撚糸	二本以上を合わせ、撚りをかけること。また、そのよう…
+j	據點	據點	base
+j	晚年	晚年	old age, one's later year…
+j	枚挙	枚挙	一つ一つ数え上げること。
+j	枚数	枚数	紙や板など薄い物や平面的な物など「枚」で数えるもの…
+j	枚方	枚方	Hirakata (a city in Osaka…
+j	柚子	柚子	yuzu or Japanese citron, …
+j	柚月	柚月	a surname
+j	棚橋	棚橋	a surname
+j	棚氷	棚氷	
+j	棚田	棚田	terraced rice fields
+j	楚囚	楚囚	囚人。捕虜。
+j	楚楚	楚楚	清らかで美しいさま。
+j	毚微	毚微	僅かなさま。
+j	毚欲	毚欲	貪欲なこと。
+j	汚い	汚い	dirty
+j	汚す	汚す	to pollute, to contaminat…
+j	汚れ	汚れ	
+j	汚卵	汚卵	egg with a dirty shell
+j	汚名	汚名	stigma, infamy
+j	汚塵	汚塵	汚れた塵。
+j	汚客	汚客	unwelcome customer
+j	汚損	汚損	staining; soiling; damagi…
+j	汚染	汚染	pollution; contamination
+j	汚水	汚水	sewage
+j	汚泥	汚泥	汚い（汚ならしい）泥。
+j	汚涜	汚涜	汚すこと。瀆すこと。
+j	汚濁	汚濁	dirtiness
+j	汚瀆	汚瀆	汚すこと。瀆すこと。
+j	汚点	汚点	discolored spot or area
+j	汚物	汚物	dirt, filth, dust, garbage
+j	汚疹	汚疹	膿疱や潰瘍などが蛎殻のようなかさぶた状になったもの。
+j	汚穢	汚穢	汚れ。汚れているもの。
+j	汚職	汚職	corruption
+j	汚装	汚装	shabby get-up
+j	汚辱	汚辱	disgrace, humiliation
+j	汚鮫	汚鮫	oceanic whitetip shark, C…
+j	洚水	洚水	大水。洪水。
+j	浚う	浚う	to sweep away
+j	浚渫	浚渫	dredging
+j	渚鳧	渚鳧	渚にいる鴨。
+j	瀚海	瀚海	瀚漠。北海。
+j	瀚漠	瀚漠	瀚海。北海。
+j	焚く	焚く	to burn/light a fire; to …
+j	焚修	焚修	僧侶の修業。
+j	焚刑	焚刑	罪人を焼き殺す刑罰。
+j	焚書	焚書	book burning
+j	焚殺	焚殺	焼き殺すこと。
+j	焚火	焚火	（ふんか）燃やすこと。また燃やした火。
+j	焚焼	焚焼	焼くこと。燃やすこと。
+j	焚舟	焚舟	（退路を断ち、決死の覚悟を表すため）川を渡ってきた…
+j	焚骸	焚骸	焼身すること。
+j	琚瑀	琚瑀	佩玉。
+j	瑚花	瑚花	a female given name
+j	甚だ	甚だ	very, greatly
+j	甚句	甚句	民謡の一つ。基本的に七・七・七・五の四句からなり盆…
+j	甚大	甚大	serious, enormous
+j	甚寒	甚寒	非常に寒いこと。極寒。凜冽。
+j	甚平	甚平	a sleeveless knee-length …
+j	甚急	甚急	切迫すること。
+j	甚緊	甚緊	緊急の事柄。
+j	甚酔	甚酔	酔っ払うこと。
+j	畚箕	畚箕	箕。
+j	皚皚	皚皚	霜や雪が一面に白いこと。また、そのさま。
+j	眚愆	眚愆	減罪すること。
+j	眚病	眚病	妖気の齎す病気。
+j	睚眥	睚眥	憎らしそうな目付きで睨むこと。また、そのような目付…
+j	睚眦	睚眦	憎らしそうな目付きで睨むこと。また、そのような目付…
+j	稚仔	稚仔	juvenile
+j	稚児	稚児	baby, infant
+j	稚内	稚内	Wakkanai (a city in Sōya …
+j	稚嫩	稚嫩	young and tender
+j	稚子	稚子	幼児。稚児。
+j	稚拙	稚拙	childish; naive
+j	稚気	稚気	子供っぽく、無思慮で感情がそのまま外に出る様子。
+j	稚貝	稚貝	juvenile shellfish
+j	稚魚	稚魚	卵から孵ったばかりの魚。
+j	稚鮎	稚鮎	鮎の稚魚。
+j	箚刺	箚刺	刺青。
+j	箚子	箚子	中国の宋代、臣下が天子に奏上した書状。
+j	箚記	箚記	読んだり聞いたりしたものの感想や意見を随時書き記す…
+j	箚青	箚青	入れ墨。刺青。
+j	級位	級位	武道や囲碁、将棋などの実力を級を用いて判定したもの…
+j	級友	級友	classmate
+j	級数	級数	series
+j	級長	級長	class monitor; class pres…
+j	続々	続々	successively, one after a…
+j	続き	続き	sequel, continuation
+j	続く	続く	to continue
+j	続伸	続伸	株価などが前の営業日から続けて上がること。
+j	続出	続出	appearing one after anoth…
+j	続報	続報	news that follows another…
+j	続審	続審	下級審が上級審へ送った訴訟事件について上級審でも継…
+j	続投	続投	continuing to pitch in co…
+j	続柄	続柄	「つづきがら」の俗な言い方。
+j	続生	続生	連続して生まれたり、起きたりすること。
+j	続発	続発	続けざまに起きること。
+j	続紙	続紙	折り本などに使用するために継ぎ合わせた紙。継ぎ紙。
+j	続続	続続	絶え間なく続くさま。
+j	続編	続編	sequel
+j	続航	続航	引き続き航行すること。
+j	続落	続落	continued falling
+j	続行	続行	continuing; keeping doing
+j	続開	続開	中断したものを引き続き開催すること。
+j	線上	線上	引かれた線の上。
+j	線分	線分	line segment
+j	線区	線区	鉄道やバスの路線のある一定の区間。
+j	線号	線号	針金の太さを表す番号。
+j	線審	線審	球技などでボールが規定の線から出たかどうかを判定す…
+j	線形	線形	linear
+j	線径	線径	wire diameter
+j	線材	線材	断面が丸く、直径が5ミリメートル程度の線状の鋼材。
+j	線束	線束	ある点を通る直線全体の集合。点Gを中心、Lを直線と…
+j	線条	線条	線。筋。
+j	線源	線源	radioactivity source
+j	線状	線状	線の形態や形状であること。
+j	線画	線画	line art
+j	線端	線端	tip of a stroke
+j	線維	線維	糸。糸状のもの。
+j	線虫	線虫	線形動物門の動物の総称。動植物に寄生したり土中にい…
+j	線賊	線賊	賊の手引き役。
+j	線路	線路	railroad track
+j	線量	線量	放射線の量。放射線量。照射線量と吸収線量がある。
+j	線金	線金	はりがね。金属線。
+j	線香	線香	incense stick
+j	繚乱	繚乱	花などが入り乱れること。
+j	绚焕	绚焕	絢煥な。
+j	羚羊	羚羊	any of various species of…
+j	聚㪘	聚㪘	聚斂の拡張新字体を用いた表記。
+j	聚合	聚合	人や物が集まること。
+j	聚斂	聚斂	取り集めること。
+j	聚洛	聚洛	人が集まる都。
+j	聚積	聚積	accumulation, collection
+j	聚落	聚落	人が集まって住んでいる所。
+j	聚蓄	聚蓄	蓄積すること。
+j	肚皮	肚皮	腹部の皮。
+j	肚裏	肚裏	腹の内。心中
+j	肚裡	肚裡	腹の内。心中
+j	胚乳	胚乳	種子の中にあり、胚を包む組織。胚に栄養を提供する。
+j	胚嚢	胚嚢	種子植物の胚珠の中にある雌雄配偶体。
+j	胚子	胚子	「胚」のこと。
+j	胚珠	胚珠	an ovule
+j	胚盤	胚盤	魚類、爬虫類、鳥類などの端黄卵で、動物極側で卵黄が…
+j	胚胎	胚胎	子を身籠もること。また、子が胎内に生じること。妊娠。
+j	胚膜	胚膜	哺乳類、鳥類、爬虫類で胚を包み、胚の保護、栄養、呼…
+j	胚芽	胚芽	germ (mass of cells)
+j	胚軸	胚軸	種子植物の胚のうち子葉に続き、将来茎または根になる…
+j	脚下	脚下	underfoot, at one's feet
+j	脚光	脚光	footlights at the base of…
+j	脚力	脚力	（きゃくりき、きゃくりょく）走ったり跳んだりする脚…
+j	脚半	脚半	作業や（徒歩による）旅行などで足首から脛にかけて保…
+j	脚台	脚台	靴を履く際に足をのせる台。
+j	脚本	脚本	script (text of the dialo…
+j	脚気	脚気	beriberi (condition of th…
+j	脚注	脚注	footnote
+j	脚立	脚立	主に高い所に体を寄せるために使う、持ち運びできる踏…
+j	脚絆	脚絆	gaiter
+j	脚線	脚線	脚の輪郭を表す線。
+j	脚色	脚色	dramatization (the act of…
+j	脚註	脚註	「脚注」の別表記。
+j	脚部	脚部	脚の部分。
+j	脚韻	脚韻	詩歌で句末、行末を同じ韻で揃えること。
+j	膚受	膚受	知らない内に心の中に入り込むこと。
+j	膚孱	膚孱	弱いさま。
+j	膚汗	膚汗	汗をかくこと。
+j	膚浅	膚浅	浅はかなこと。また、そのようなさま。
+j	膚緻	膚緻	肌のきめが細かいさま。
+j	膚腠	膚腠	肌。皮膚。
+j	蓚酸	蓚酸	oxalic acid
+j	蔚山	蔚山	Ulsan (a city in South Ko…
+j	蘚帽	蘚帽	蘚類の蒴を覆う器官。
+j	蘚牆	蘚牆	苔の生えた垣。
+j	蘚苔	蘚苔	bryophyte, moss
+j	虚ろ	虚ろ	hollow; empty; vacant; de…
+j	虚仮	虚仮	untruthfulness of mind or…
+j	虚位	虚位	実権の伴わない名目だけの地位。
+j	虚偽	虚偽	a falsehood, a lie
+j	虚像	虚像	物体から発せられた光線が鏡やレンズの屈折や反射のた…
+j	虚儀	虚儀	an empty formality, a per…
+j	虚円	虚円	方程式 (x-a)²+(y-b)²=k,(k<0)…
+j	虚勢	虚勢	bluff, false show of power
+j	虚名	虚名	実力を越えた名声や評判。
+j	虚喝	虚喝	empty threat
+j	虚器	虚器	名ばかりで役に立たない器。
+j	虚報	虚報	虚偽や誤った報告、知らせ。
+j	虚夢	虚夢	事実とは違う夢。
+j	虚妄	虚妄	falsehood, untruth, lie
+j	虚威	虚威	上辺だけの威勢。
+j	虚字	虚字	中国の古典の語法で、文法上独立して使われず、意義を…
+j	虚学	虚学	観念的、理論的な学問。
+j	虚実	虚実	truth or falsehood, the t…
+j	虚室	虚室	empty room
+j	虚弱	虚弱	weak, feeble, fragile
+j	虚心	虚心	impartial
+j	虚数	虚数	an imaginary number
+j	虚日	虚日	平穏で何事もない一日。
+j	虚栄	虚栄	vanity
+j	虚根	虚根	imaginary root
+j	虚構	虚構	fabrication, fiction
+j	虚無	虚無	nothingness, emptiness
+j	虚礼	虚礼	a superficial manner
+j	虚空	虚空	empty space
+j	虚線	虚線	点線。
+j	虚脱	虚脱	exhaustion
+j	虚血	虚血	体の組織や臓器に動脈血の流入が減少したり、途絶した…
+j	虚解	虚解	方程式の解のうち、虚数であるもの。
+j	虚言	虚言	lie
+j	虚託	虚託	偽り、託つけること。
+j	虚誕	虚誕	exaggerated talk
+j	虚語	虚語	嘘、ないし真実ではない言説。
+j	虚説	虚説	事実に基づかない噂話。作り話。
+j	虚談	虚談	事実に基づかない話。虚説。作り話。
+j	虚軸	虚軸	複素数平面で虚部を表す軸。
+j	虚辞	虚辞	真実でない言葉。虚言。
+j	虚部	虚部	imaginary part
+j	虚飾	虚飾	ostentation, style withou…
+j	蜚蠊	蜚蠊	ごきぶり。
+j	蜚語	蜚語	根拠のない話。うわさ。言いふらし。
+j	蜚讒	蜚讒	蜚語。
+j	蜚雲	蜚雲	飛雲。
+j	覚え	覚え	
+j	覚り	覚り	
+j	覚体	覚体	悟りの本体。また、悟った状態。
+j	覚帝	覚帝	仏の尊称。覚王。
+j	覚悟	覚悟	resolution; mental readin…
+j	覚書	覚書	written memorandum, note
+j	覚樹	覚樹	菩提樹の異名。
+j	覚王	覚王	仏の尊称。覚帝。
+j	覚知	覚知	真理を悟り、知ること。
+j	覚者	覚者	（仏語）真理を悟っている人。
+j	覚道	覚道	真理を悟る道。
+j	覚醒	覚醒	awakening, revival
+j	誚譲	誚譲	責め咎めること。
+j	謚号	謚号	死後その人に贈られる名。贈号。おくりな。
+j	譚歌	譚歌	伝説や神話、歴史を題材として作詞された曲。
+j	讚歌	讚歌	何かについて賛美の意を表すための歌。
+j	豚丼	豚丼	pork donburi, butadon (a …
+j	豚児	豚児	piglet
+j	豚汁	豚汁	pork miso soup
+j	豚熱	豚熱	classical swine fever
+j	豚犬	豚犬	pig and dog
+j	豚箱	豚箱	police cell
+j	豚肉	豚肉	pork
+j	豚脂	豚脂	synonym of ラード (rādo, “la…
+j	豚舎	豚舎	pigsty (enclosure where p…
+j	豚草	豚草	common ragweed (Ambrosia …
+j	豚足	豚足	pig's trotters
+j	豚饅	豚饅	nikuman
+j	豚骨	豚骨	豚の骨。また、それの出汁を利用したスープ。
+j	豚鼻	豚鼻	A pig's snout.
+j	賚功	賚功	論功。
+j	通う	通う	to go back and forth, to …
+j	通じ	通じ	「通じる」の未然形及び連用形。
+j	通す	通す	to let through, to let pa…
+j	通り	通り	street
+j	通る	通る	to pass; to go through or…
+j	通世	通世	a male given name
+j	通事	通事	interpreter (especially a…
+j	通交	通交	互いに親しく交際すること。
+j	通人	通人	世の中のことに精通した人。
+j	通例	通例	usually; typically
+j	通俊	通俊	a male given name
+j	通俗	通俗	世間一般の人々に分かりやすく、受け入れられやすいこ…
+j	通信	通信	communication
+j	通儀	通儀	世間一般に通じる儀式。
+j	通典	通典	Tongdian (a Tang-dynasty …
+j	通分	通分	二つ以上の分母が異なる分数で、数量を変えることなく…
+j	通判	通判	中国宋の初期に設置された中国の地方官の官名。
+j	通則	通則	general rule
+j	通勤	通勤	commuting to work
+j	通史	通史	general history
+j	通名	通名	本名ではないが世間で通用している名前。
+j	通告	通告	notification
+j	通和	通和	仲を良くすること。和親。
+j	通哲	通哲	a male given name
+j	通商	通商	foreign commerce, trade
+j	通園	通園	commuting to a 保育園 (hoiku…
+j	通報	通報	a report, notification
+j	通士	通士	物事に通じた人。
+j	通夕	通夕	通宵。
+j	通夜	通夜	vigil, wake for the decea…
+j	通好	通好	互いに親しく交際すること。
+j	通婚	通婚	婚姻を結ぶこと。
+j	通字	通字	正式ではないが、世間一般で通用する字。俗字。
+j	通学	通学	commuting to school
+j	通宝	通宝	tsūhō (or tongbao in Chin…
+j	通客	通客	世の中のことに精通した人。
+j	通宵	通宵	夜通し、一晩中。
+j	通寶	通寶	
+j	通州	通州	
+j	通巻	通巻	雑誌・新聞や叢書の、発刊以来の通し番号・巻数。
+j	通帳	通帳	bankbook, passbook
+j	通常	通常	ordinary; conventional; n…
+j	通年	通年	throughout the year; all …
+j	通弁	通弁	通訳（すること）。
+j	通弊	通弊	一般的に見られる弊害。通病。
+j	通式	通式	
+j	通弘	通弘	a male given name
+j	通徹	通徹	貫き、通ること。貫き、通すこと。
+j	通快	通快	「通勤快速」の略。
+j	通念	通念	common idea; generally ac…
+j	通性	通性	一般的にひろくみられる性質。
+j	通情	通情	一般的な人情。
+j	通所	通所	保育所や障害者施設、高齢者施設などに保育、授産、更…
+j	通才	通才	あらゆる事に通じている才能。また、その才能がある人…
+j	通敏	通敏	a male given name
+j	通教	通教	通信教育。
+j	通昔	通昔	通宵。
+j	通時	通時	時間の経過に沿うこと。
+j	通暁	通暁	thorough knowledge of som…
+j	通有	通有	同類のものに共通にもっていること。
+j	通期	通期	entire financial year
+j	通校	通校	commuting to school
+j	通気	通気	外部の空気と内部の空気を流通させること。
+j	通水	通水	水を管、樋、水路などに通すこと。
+j	通法	通法	世間一般に通用する法令や法則。
+j	通牒	通牒	意思を書面で通知すること。また、その書面。通告。
+j	通用	通用	common use
+j	通病	通病	一般的に見られる弊害。通弊。
+j	通知	通知	notice, notification
+j	通称	通称	general name; popular name
+j	通稱	通稱	
+j	通算	通算	sum, total
+j	通籍	通籍	宮門の入場が許可された人の札。また、その人。
+j	通約	通約	約分。
+j	通紙	通紙	paper-feeding
+j	通義	通義	世間一般に通じる道理。
+j	通耕	通耕	働くために家から耕地に通うこと。通勤の一種。
+j	通航	通航	船舶が通行すること。
+j	通行	通行	traffic, passage
+j	通衢	通衢	四方に通ずる交通量の多い道路。
+j	通規	通規	すべてに適用される規定。通則。
+j	通覧	通覧	overview, summary, an abr…
+j	通解	通解	文章の全体を通して解釈すること。
+j	通言	通言	一般的に使用されている言葉。
+j	通訳	通訳	interpreting, interpretat…
+j	通話	通話	telephone calls, phone ca…
+j	通語	通語	一般的に使用されている言葉。
+j	通説	通説	commonly accepted theory,…
+j	通読	通読	reading through
+j	通誼	通誼	世間一般に通じる道義。
+j	通論	通論	世間一般に認められている議論や意見。
+j	通謀	通謀	相手方とたがいに示し合わせて、悪事を計画すること。
+j	通貨	通貨	currency
+j	通販	通販	通信販売の略。
+j	通路	通路	route (through), passagew…
+j	通過	通過	passage through an object
+j	通達	通達	notice
+j	通鑑	通鑑	「資治通鑑」の略。
+j	通関	通関	関税法に基づき税関を通過すること。
+j	通院	通院	regularly visiting a hosp…
+j	通雄	通雄	a male given name
+j	通電	通電	物に電流を通すこと。
+j	通韻	通韻	似ている音韻がたがいに通ずること。
+j	通風	通風	ventilation
+j	銚子	銚子	decanter for Japanese sake
+j	錚錚	錚錚	eminent; distinguished; o…
+j	鐚銭	鐚銭	shoddy coin
+j	鑚孔	鑚孔	孔を開けること。
+j	闚盗	闚盗	窺い盗むこと。
+j	闚視	闚視	闚観。
+j	闚覬	闚覬	窺い、狙うこと。
+j	闚閃	闚閃	覗き見ること。
+j	頚椎	頚椎	頸椎の異表記。
+j	頚部	頚部	頸部の異表記。
+j	頚骨	頚骨	頸骨の異表記。
+j	顚倒	顚倒	顛倒の異表記。
+j	顚動	顚動	ころがすこと。
+j	顚末	顚末	「顛末」の正字体での表記。
+j	顚沛	顚沛	躓き倒れること。
+j	顚落	顚落	落ちること。
+j	驚き	驚き	surprise; astonishment; s…
+j	驚く	驚く	
+j	驚倒	驚倒	非常に驚くこと。
+j	驚動	驚動	驚き騒ぐこと。
+j	驚喜	驚喜	being pleasantly surprised
+j	驚嘆	驚嘆	wonder, admiration, amaze…
+j	驚奏	驚奏	天子に注意するよう奏上すること。
+j	驚怖	驚怖	surprise and fear; terror
+j	驚怪	驚怪	怪しむこと。
+j	驚悸	驚悸	驚き動悸がすること。
+j	驚悼	驚悼	驚き、悼むこと。
+j	驚惕	驚惕	恐懼すること。
+j	驚惶	驚惶	驚き恐れること。
+j	驚愕	驚愕	astonishment
+j	驚殺	驚殺	非常に驚くこと。
+j	驚流	驚流	激流。
+j	驚湍	驚湍	早瀬。
+j	驚濤	驚濤	逆巻く大波。
+j	驚畏	驚畏	驚き、畏れること。
+j	驚異	驚異	a marvel, a wonder
+j	驚竄	驚竄	驚き、逃れること。
+j	驚竦	驚竦	驚き、恐れること。
+j	驚羨	驚羨	羨望すること。
+j	驚蟄	驚蟄	synonym of 啓蟄 (keichitsu)
+j	驚起	驚起	驚き、起きること。
+j	驚閨	驚閨	振り太鼓。
+j	驚震	驚震	驚き、恐れること。驚竦。
+j	驚駭	驚駭	驚くこと。驚愕。
+j	鬚根	鬚根	植物のひげのように生える根。ひげね。
+j	鬚眉	鬚眉	鬚と眉。
+j	鬚髯	鬚髯	あごひげとほおひげ。ひげ。
+j	鬚鯨	鬚鯨	a baleen whale
+j	魚の	魚の	
+j	魚人	魚人	人と魚の特徴を併せもつ（架空の）生物。
+j	魚介	魚介	marine products, seafood,…
+j	魚体	魚体	魚の体。
+j	魚信	魚信	魚が餌に食い付くこと。また、そのことによって浮きや…
+j	魚偏	魚偏	漢字の部首「⿂」が偏である場合の呼称。
+j	魚卵	魚卵	roe (eggs of fish)
+j	魚塩	魚塩	魚と塩。海産物の総称。
+j	魚壺	魚壺	砂中に埋めた、にしんを貯蔵するための壺。
+j	魚屋	魚屋	fishmonger: a store or pe…
+j	魚市	魚市	
+j	魚座	魚座	
+j	魚形	魚形	魚類の形。
+j	魚影	魚影	水中を泳いでいる魚の姿。また、魚の集まり具合。
+j	魚拓	魚拓	gyotaku
+j	魚探	魚探	魚群探知機の略。
+j	魚族	魚族	魚類。
+j	魚板	魚板	木材を魚の形にして中空にした仏具。魚鼓。
+j	魚柝	魚柝	木魚。
+j	魚梯	魚梯	河川の堰やダムなどで魚が遡上できなくなった場所に魚…
+j	魚油	魚油	fish oil
+j	魚津	魚津	Uozu (a city in Toyama Pr…
+j	魚灯	魚灯	「魚灯油」の略。
+j	魚物	魚物	魚。魚類。
+j	魚狗	魚狗	
+j	魚眼	魚眼	a fish eye
+j	魚礁	魚礁	魚などが集まり漁などにも使用される海底の岩礁。廃船…
+j	魚種	魚種	魚類の種類。
+j	魚竜	魚竜	an ichthyosaur
+j	魚籃	魚籃	（ぎょらん、びく）魚を入れるかご。
+j	魚籠	魚籠	a fish basket; a creel
+j	魚粉	魚粉	
+j	魚網	魚網	魚を獲るための網。漁網。
+j	魚群	魚群	school (of fish)
+j	魚肆	魚肆	魚屋。
+j	魚肉	魚肉	fish meat, fish
+j	魚膾	魚膾	魚を使用した膾。
+j	魚臭	魚臭	魚の（生臭い）匂い。
+j	魚菜	魚菜	魚や野菜類。
+j	魚蝦	魚蝦	魚と蝦。
+j	魚蟹	魚蟹	魚蟹類の通称。
+j	魚袋	魚袋	a sharkskin-covered woode…
+j	魚貝	魚貝	魚貝類の通称。
+j	魚貫	魚貫	串ざしの魚のように大勢が列をなして行くこと。
+j	魚道	魚道	fishway; fish ladder
+j	魚部	魚部	部首「⿂」で分類した漢字の一群。
+j	魚醤	魚醤	魚介類に塩を加え、発酵させた調味料の一種。魚醤油。
+j	魚雁	魚雁	手紙。書簡。
+j	魚雷	魚雷	torpedo
+j	魚類	魚類	fishes
+j	魚食	魚食	主として魚を食べること。
+j	魚香	魚香	yuxiang seasoning
+j	魚鰕	魚鰕	魚と鰕。
+j	魚鱗	魚鱗	魚の鱗。
+j	魚鷹	魚鷹	synonym of 鶚 (misago, “os…
+j	魚鼈	魚鼈	魚とすっぽん。
+j	魚鼓	魚鼓	木材を魚の形にして中空にした仏具。魚板。
+j	鸚哥	鸚哥	a parrot or parakeet
+j	鸚鵡	鸚鵡	a cockatoo (bird)
+k	각본	脚本	script; scenario; screenp…
+k	각오	覚悟	determination, resolution
+k	경술	庚戌	The forty-seventh term of…
+k	경신	庚申	The fifty-seventh term of…
+k	경악	驚愕	astonishment; shock
+k	경오	庚午	The seventh term of the C…
+k	경이	驚異	surprise, wonder, marvel
+k	경인	庚寅	The twenty-seventh term o…
+k	경자	庚子	The thirty-seventh term o…
+k	경진	庚辰	The seventeenth term of t…
+k	급우	級友	classmate
+k	급장	級長	
+k	누선	淚腺	lacrimal gland
+k	다가	多価	multivalent
+k	다가	多價	multivalent
+k	다독	多読	extensive reading
+k	다독	多讀	extensive reading
+k	다발	多発	bundle, bunch, cluster; b…
+k	다발	多發	bundle, bunch, cluster; b…
+k	다분	多分	to be full of, highly lik…
+k	다소	多少	somewhat; to a certain ex…
+k	다수	多数	majority, many
+k	다수	多數	majority, many
+k	다양	多様	diversity; variety
+k	다양	多樣	diversity; variety
+k	다재	多才	versatility; talent
+k	다층	多層	
+k	다행	多幸	good fortune
+k	당원	党員	party member
+k	당장	党章	The exact location.
+k	당장	党葬	The exact location.
+k	당파	党派	political party, politica…
+k	돈유	豚油	
+k	돈지	豚脂	
+k	루선	淚腺	
+k	만년	晚年	old age
+k	미약	媚薬	
+k	미약	媚藥	
+k	박사	博士	doctorate, Ph.D. (Doctor …
+k	박애	博愛	philanthropy
+k	배낭	胚嚢	backpack, knapsack, rucks…
+k	배낭	胚囊	backpack, knapsack, rucks…
+k	배아	胚芽	embryo; germ
+k	분서	焚書	
+k	선로	線路	railroad track
+k	선심	線審	generosity, kindness
+k	선조	線条	ancestor
+k	선조	線條	ancestor
+k	속속	続続	one after another
+k	속편	続編	sequel
+k	수도	囚徒	capital (of a country)
+k	수염	鬚髥	mustache, beard, whiskers
+k	앵무	鸚鵡	a parrot
+k	양금	揚琴	a hammered dulcimer used …
+k	어도	魚道	a path which a school of …
+k	어란	魚卵	roe (eggs of fish)
+k	어론	魚論	ichthyography
+k	어뢰	魚雷	torpedo (underwater weapo…
+k	어룡	魚竜	an ichthyosaur
+k	어룡	魚龍	an ichthyosaur
+k	어류	魚類	fishes
+k	어미	魚尾	mother
+k	어백	魚白	milt (the seminal fluid o…
+k	어사	魚肆	imperial censor; in dynas…
+k	어시	魚市	very
+k	어육	魚肉	fish meat
+k	어장	魚醤	fish sauce
+k	어장	魚醤	fish sauce
+k	어장	魚醬	fish sauce
+k	어전	魚廛	
+k	어조	魚釣	
+k	어좌	魚座	Pisces
+k	어항	魚缸	fish tank; fish bowl
+k	영양	羚羊	nutrition
+k	오니	汚泥	polluted soil
+k	오물	汚物	dirt, filth, dust, garbage
+k	오열	嗚咽	sobbing, wailing
+k	오염	汚染	pollution; contamination
+k	오욕	汚辱	disgrace, humiliation
+k	오호	嗚呼	alas! (usually used with …
+k	우민	愚民	ignorant people; the igno…
+k	우사	愚事	cowshed; cattle pen
+k	우인	愚人	foolish person, idiot
+k	울산	蔚山	Ulsan (a city in South Ko…
+k	유자	柚子	yuzu (fruit of the tree C…
+k	쟁반	錚盤	tray (object on which thi…
+k	전복	顚覆	abalone
+k	정가	定価	price, list price, fixed …
+k	정가	定價	price, list price, fixed …
+k	정각	定刻	sharp; on the dot
+k	정기	定期	fixed period
+k	정량	定量	quantity
+k	정력	定力	virility; male sexual pro…
+k	정례	定例	regulation
+k	정리	定理	arrangement
+k	정석	定石	standard procedure or pra…
+k	정수	定数	essence, quintessence
+k	정수	定數	essence, quintessence
+k	정식	定式	formality, proper manner
+k	정식	定植	formality, proper manner
+k	정식	定食	formality, proper manner
+k	정식	靚飾	formality, proper manner
+k	정액	定額	semen; sperm (a bodily fl…
+k	정원	定員	garden, vegetable garden,…
+k	정의	定義	justice
+k	정재	定在	kitchen in a temple
+k	정주	定州	Chongju (a city in North …
+k	주방	廚房	kitchen
+k	주작	做作	Vermilion Bird (one of th…
+k	찬가	讚歌	hymn; anthem; paean
+k	찬사	讚辭	praise, compliment
+k	찬양	讚揚	praise; commendation; com…
+k	통과	通過	passage; pass
+k	통근	通勤	commute
+k	통금	通禁	curfew, especially one im…
+k	통념	通念	common idea; notion
+k	통달	通達	announcement, notice
+k	통로	通路	passage; way; path; passa…
+k	통산	通算	total, sum
+k	통상	通商	usual
+k	통상	通常	usual
+k	통성	通性	
+k	통식	通式	
+k	통신	通信	communication; the sendin…
+k	통역	通訳	interpretation
+k	통역	通譯	interpretation
+k	통자	通刺	presentation of a calling…
+k	통장	通帳	bankbook; passbook
+k	통지	通知	notice; notification
+k	통칭	通称	generic name; general term
+k	통칭	通稱	generic name; general term
+k	통행	通行	passing (through)
+k	통화	通話	telephone call
+k	통화	通貨	telephone call
+k	해금	奚琴	haegeum; a traditional Ko…
+k	허공	虚空	empty space, void
+k	허구	虚構	fiction
+k	허세	虚勢	brag; bluff; showing off
+k	허수	虚数	imaginary number (number …
+k	허영	虚栄	vanity
+k	허위	虚偽	falsehood; lie
+k	허점	虚点	hole, loophole, weak poin…
+k	허축	虚軸	
+k	허풍	虚風	bragging, boasting
+k	혼령	婚齡	spirit of a dead person, …
+k	혼령	婚齢	spirit of a dead person, …
+k	혼례	婚礼	wedding
+k	혼례	婚禮	wedding
+k	혼사	婚事	marriage, matters relatin…
+k	혼수	婚需	coma
+k	혼약	婚約	engagement, betrothal
+k	혼외	婚外	extramarriage, (relationa…
+k	혼인	婚姻	marriage
+k	회견	会見	interview
+k	회계	会計	accounting
+k	회관	会館	hall, meeting hall
+k	회기	会期	session, sitting
+k	회담	会談	conference, talks
+k	회령	会寧	Hoeryong, Hoeryŏng (a cit…
+k	회비	会費	membership fee / dues
+k	회사	会士	a company
+k	회사	会社	a company
+k	회오	会悟	remorse, repentance, peni…
+k	회오	会晤	remorse, repentance, peni…
+k	회우	会友	
+k	회원	会員	member; members
+k	회음	会陰	perineum
+k	회의	会意	a meeting
+k	회의	会議	a meeting
+k	회장	会場	the chairman or chairpers…
+k	회장	会長	the chairman or chairpers…
+k	회중	会衆	pocket; personal
+k	회합	会合	meeting, gathering, get-t…
+k	회화	会話	conversation, dialogue
+k	후렴	厚㪘	refrain, chorus (the chor…
+k	후렴	厚斂	refrain, chorus (the chor…
+j	会する	会する	meet, assemble, gather
+j	会乃谷	会乃谷	a surname
+j	会之谷	会之谷	a surname
+j	会員証	会員証	会員であることを示す証明書。
+j	会実子	会実子	a female given name
+j	会社員	会社員	office worker
+j	会社法	会社法	会社に関する取り決めを定めた法律。
+j	会見者	会見者	
+j	会計係	会計係	treasurer, accountant, ca…
+j	会計士	会計士	accountant
+j	会計学	会計学	企業などの会計について研究する学問。アカウンティン…
+j	会話帳	会話帳	
+j	会議室	会議室	meeting room, conference …
+j	会議録	会議録	minutes, proceedings
+j	会野谷	会野谷	a surname
+j	会長室	会長室	会長が執務を行う専用の部屋。
+j	党官僚	党官僚	
+j	博する	博する	to win, gain (reputation,…
+j	博士号	博士号	博士の称号。
+j	博多弁	博多弁	福岡市とその周辺で話されている日本語の方言。
+j	博学者	博学者	
+j	博愛の	博愛の	
+j	博物史	博物史	博物に関する歴史。また、その学問。
+j	博物学	博物学	natural history
+j	博物誌	博物誌	自然界の現象や事物を体系的に記述した書物。ガイウス…
+j	博物館	博物館	museum
+j	博覧会	博覧会	exhibition
+j	博識の	博識の	
+j	博識者	博識者	
+j	厚労相	厚労相	厚生労働大臣のこと。
+j	厚労省	厚労省	厚生労働省の略。
+j	厚化粧	厚化粧	口紅やおしろいなどを厚くつけたはでな化粧。
+j	厚岸草	厚岸草	
+j	厚沢部	厚沢部	Assabu (a town in Hokkaid…
+j	厚治郎	厚治郎	a male given name
+j	厚澤部	厚澤部	
+j	厚生相	厚生相	「厚生大臣」の略。
+j	厚生省	厚生省	社会福祉、社会保障、公衆衛生の向上、増進を任務とし…
+j	喚き声	喚き声	shout, yell
+j	囚われ	囚われ	imprisonment
+j	塚作り	塚作り	
+j	多くの	多くの	
+j	多人数	多人数	たくさんの人数。
+j	多元環	多元環	
+j	多元論	多元論	pluralism
+j	多動性	多動性	
+j	多叉路	多叉路	道路が五本以上の交わる交差点。
+j	多婚性	多婚性	
+j	多孔の	多孔の	
+j	多孔質	多孔質	多数の細かい孔があいている性質。
+j	多宝塔	多宝塔	仏塔の一種で下部が円形、上部が方形の平面を持つ単層…
+j	多実子	多実子	a female given name
+j	多実生	多実生	a female given name
+j	多差路	多差路	「多叉路」の別表記。
+j	多年生	多年生	草本植物が3年以上にわたって生存すること。
+j	多年草	多年草	植物のうち、体の一部が残り、毎年葉や茎を伸ばす種類。
+j	多幸感	多幸感	euphoria
+j	多幸症	多幸症	euphoria
+j	多弁な	多弁な	
+j	多形性	多形性	
+j	多彩な	多彩な	
+j	多恵子	多恵子	a female given name
+j	多態性	多態性	
+j	多数の	多数の	
+j	多数決	多数決	majority rule
+j	多数派	多数派	majority group (party, fa…
+j	多文化	多文化	
+j	多方面	多方面	多くの方面に渡ること。また、そのさま。
+j	多板綱	多板綱	
+j	多様体	多様体	平面や曲面を一般化したもので、全ての点に対して（少…
+j	多様化	多様化	diversification
+j	多様性	多様性	diversity
+j	多次元	多次元	multiple dimensions; many…
+j	多毛作	多毛作	multicropping
+j	多毛類	多毛類	polychete worm, any of va…
+j	多汗症	多汗症	hyperhidrosis
+j	多生児	多生児	多胎児の別称。
+j	多生劫	多生劫	多生曠劫。
+j	多目的	多目的	multipurpose
+j	多相性	多相性	
+j	多真実	多真実	a female given name
+j	多神教	多神教	a polytheistic religion
+j	多禰国	多禰国	日本の旧国（令制国）のひとつ。現在の鹿児島県屋久島…
+j	多節棍	多節棍	複数の棍棒を紐や鎖で繋げた武器の総称。
+j	多糖類	多糖類	糖類のうち2個以上の単糖類が結合したものであるが、…
+j	多細胞	多細胞	multicellular, multicelle…
+j	多羅国	多羅国	
+j	多羅樹	多羅樹	ヤシ科の常緑高木。アフリカ原産。雌雄異株。多羅。
+j	多義性	多義性	polysemy, ambiguity, the …
+j	多義語	多義語	a polyseme, a word or exp…
+j	多聞天	多聞天	synonym of 毘沙門天 (Bishamon…
+j	多胎児	多胎児	同じ日に同じ両親から生まれた二人以上ないし三人以上…
+j	多胞体	多胞体	
+j	多色の	多色の	
+j	多色性	多色性	（鉱物学）白色偏光を透過させたとき、鉱物の結晶軸と…
+j	多花果	多花果	複数の子房が集合して成熟し、まるで一つの果実のよう…
+j	多裂筋	多裂筋	a multifidus muscle
+j	多角形	多角形	polygon
+j	多言語	多言語	multilingualism
+j	多読の	多読の	
+j	多趣味	多趣味	趣味とするものが多いこと。また、そのさま。
+j	多足類	多足類	myriapod; many-legged
+j	多重夢	多重夢	夢の中で更に見る夢。
+j	多量に	多量に	
+j	多量の	多量の	
+j	多雨林	多雨林	a rainforest
+j	多面体	多面体	polyhedron
+j	多面性	多面性	the property of being mul…
+j	多音字	多音字	character with two or mor…
+j	多音節	多音節	
+j	多音語	多音語	
+j	多項式	多項式	polynomial
+j	婚する	婚する	結婚する。
+j	婚外の	婚外の	
+j	婚外子	婚外子	婚姻関係にない男女の間に生まれた子供。
+j	婚姻届	婚姻届	結婚する者が法令に基づき役所に提出する届出。また、…
+j	婚姻色	婚姻色	nuptial coloration
+j	婚約者	婚約者	a fiancé or fiancée
+j	媚びる	媚びる	to curry favor (with); to…
+j	定まり	定まり	custom, usual way
+j	定まる	定まる	settle, become settled
+j	定めし	定めし	surely
+j	定めて	定めて	certainly
+j	定める	定める	establish rules or law, s…
+j	定休日	定休日	regular day off (e.g. clo…
+j	定位置	定位置	usual location
+j	定例会	定例会	地方議会で決まった時期に開かれる会議。
+j	定価表	定価表	
+j	定冠詞	定冠詞	definite article
+j	定動詞	定動詞	主にスラヴ語派の移動動詞の内、移動方向が定まってい…
+j	定収入	定収入	一定して入る収入。定収。
+j	定在波	定在波	定常波。
+j	定型文	定型文	fixed phrase
+j	定型詩	定型詩	fixed verse, fixed form p…
+j	定常波	定常波	standing wave
+j	定年制	定年制	system of mandatory retir…
+j	定式化	定式化	決まった方式に当て嵌めること。
+j	定数項	定数項	constant term
+j	定旋律	定旋律	cantus firmus
+j	定時制	定時制	夜間や農閑期などの特別の時間や時期に授業や学習を行…
+j	定時法	定時法	昼と夜の長さによらず、1日を24等分した時刻の表し…
+j	定期便	定期便	regular service, schedule…
+j	定期券	定期券	通勤・通学客向けに、特定の区間に対して、一定の期間…
+j	定期市	定期市	set date fair, bazaar, ma…
+j	定期的	定期的	periodic
+j	定期米	定期米	米穀の取引で定期取引の目的物となる米。期米。
+j	定気法	定気法	太陽の黄経で二十四節気を決定する方法。
+j	定温器	定温器	
+j	定着液	定着液	fixer (chemical used in p…
+j	定礎式	定礎式	cornerstone laying ceremo…
+j	定積分	定積分	definite integral
+j	定置網	定置網	魚の群れが通る場所に一定の期間仕掛けておく漁法。
+j	定義域	定義域	関数 f(x)のxの変域。始域。
+j	定規座	定規座	
+j	定足数	定足数	議会で議決を行うのに必要な出席者の割合。
+j	定量的	定量的	quantitative
+j	定額僧	定額僧	国分寺や官寺などに一定の数が置かれ朝廷から供料が支…
+j	定額寺	定額寺	朝廷が一定の数を定め、官寺に準じて保護した寺院。朝…
+j	定食屋	定食屋	定食を提供する食堂。
+j	尚且つ	尚且つ	moreover, besides
+j	尚書省	尚書省	the Department of State A…
+j	尚歯会	尚歯会	高齢者を招待して慰安する会。敬老会。
+j	惚ける	惚ける	to become senile, to beco…
+j	惚れる	惚れる	fall in love (to come to …
+j	惚気る	惚気る	go on fondly about one's …
+j	愚かな	愚かな	
+j	愚か者	愚か者	
+j	愚痴る	愚痴る	to complain
+j	愚連隊	愚連隊	group of juvenile delinqu…
+j	揚げた	揚げた	
+j	揚げる	揚げる	
+j	揚げ句	揚げ句	conclusion, result (usual…
+j	揚げ物	揚げ物	deep-fried food
+j	揚げ鍋	揚げ鍋	
+j	揚子江	揚子江	synonym of 長江 (Chōkō, “Ya…
+j	揚水機	揚水機	water pump
+j	揚羽蝶	揚羽蝶	swallowtail, butterfly of…
+j	揚陸艇	揚陸艇	揚陸任務で使用される、小型の艦艇。上陸用舟艇。
+j	揚陸艦	揚陸艦	landing ship
+j	揚音符	揚音符	acute accent ( ´ )
+j	柚子茶	柚子茶	yuzu tea
+j	棚卸し	棚卸し	inventory count
+j	汚れた	汚れた	
+j	汚れる	汚れる	to get dirty, to become d…
+j	汚染水	汚染水	polluted water
+j	汚染者	汚染者	
+j	汚職の	汚職の	
+j	汚言症	汚言症	coprolalia
+j	汚部屋	汚部屋	dirty room
+j	焚き火	焚き火	
+j	甚兵衛	甚兵衛	
+j	甚平鮫	甚平鮫	テングザメ目ジンベイザメ科ジンベイザメ属に属する魚…
+j	疚しい	疚しい	guilty (conscience)
+j	疚しさ	疚しさ	
+j	稚児隼	稚児隼	a Eurasian hobby (Falco s…
+j	続ける	続ける	to continue
+j	続する	続する	
+j	続発症	続発症	ある疾患を原因として、別の疾患が発症すること。
+j	線対称	線対称	ある軸で折ると重なり合うような図形。
+j	線形性	線形性	linearity
+j	線虫学	線虫学	
+j	線量計	線量計	空気中の線量を測定する機器。放射線量計。
+j	線香代	線香代	芸者、遊女を揚げて遊ぶ費用。花代。
+j	羚羊角	羚羊角	antelope horn used as med…
+j	胚発生	胚発生	embryogenesis
+j	胚盤葉	胚盤葉	blastoderm
+j	胚細胞	胚細胞	germ cell (a cell that is…
+j	脚摩乳	脚摩乳	son of 大山祇 (Ōyamatsumi), …
+j	脚本家	脚本家	scriptwriter, playwright
+j	蘚苔学	蘚苔学	bryology
+j	虚しさ	虚しさ	
+j	虚ろの	虚ろの	
+j	虚偽の	虚偽の	
+j	虚弱な	虚弱な	
+j	虚数部	虚数部	
+j	虚栄心	虚栄心	vanity (excessive pride)
+j	虚楕円	虚楕円	方程式 a(x-p)²+b(x-q)²=k,(a,…
+j	虚無る	虚無る	漫画などが打ち切りのような終わり方をする。
+j	虚無僧	虚無僧	komuso, a Japanese mendic…
+j	虚無感	虚無感	あらゆる物事が虚しく感じること。
+j	虚無的	虚無的	人生や世の中の虚しさを感じるさま。
+j	虚空蔵	虚空蔵	
+j	虚脱感	虚脱感	
+j	虚言癖	虚言癖	habitual lying
+j	蜚蠊目	蜚蠊目	《分類学》 ゴキブリ目の、かつての標準和名、現在の…
+j	蜚蠊類	蜚蠊類	蜚蠊目に分類される昆虫の総称。
+j	覚える	覚える	覚える, 憶える: to recall, to r…
+j	覚ます	覚ます	to wake, to rouse from sl…
+j	覚める	覚める	to wake up (from sleeping)
+j	覚束ず	覚束ず	synonym of 覚束ない (obotsuka…
+j	覚醒剤	覚醒剤	a psychoactive drug that …
+j	豚カツ	豚カツ	tonkatsu (a Japanese dish)
+j	豚バラ	豚バラ	
+j	豚切り	豚切り	a nanori reading of a kan…
+j	豚小屋	豚小屋	pigsty (enclosure where p…
+j	豚尾猿	豚尾猿	
+j	通い路	通い路	route, path, passageway
+j	通して	通して	
+j	通じて	通じて	through
+j	通じる	通じる	to run to, to lead to
+j	通ずる	通ずる	lead to, connect with
+j	通り道	通り道	route (path something tak…
+j	通り雨	通り雨	rain shower
+j	通り魔	通り魔	mythical creature that br…
+j	通俗化	通俗化	一般大衆に分かりやすくすること。
+j	通俗的	通俗的	俗受けのするさま。大衆的なさま。
+j	通信兵	通信兵	本隊や他の部隊への通信を担当する兵士。
+j	通信制	通信制	通信教育で授業を行う学校教育の課程。
+j	通信員	通信員	correspondent, reporter
+j	通信士	通信士	電気通信設備による情報のやり取りに従事する者。
+j	通信文	通信文	通信するための文章。
+j	通信業	通信業	有無線や電気通信を用いて情報伝達を行う情報通信業。
+j	通信社	通信社	a news agency
+j	通信科	通信科	陸上自衛隊の通信兵。
+j	通信簿	通信簿	学校での児童、生徒の成績や健康状態、出欠などとその…
+j	通信紙	通信紙	通信する事柄を記入する紙。
+j	通信網	通信網	communications network
+j	通信長	通信長	船舶における通信、連絡の責任者。
+j	通勤圏	通勤圏	自宅から職場へ自家用車や交通機関を利用して通勤が可…
+j	通天閣	通天閣	an observation tower and …
+j	通学路	通学路	児童、生徒が通学の際に通る道。
+j	通学鞄	通学鞄	schoolbag
+j	通常な	通常な	
+j	通常人	通常人	
+j	通時態	通時態	
+j	通時的	通時的	diachronic
+j	通気口	通気口	建物内または室内の換気のため、壁などに取り付けられ…
+j	通気孔	通気孔	通気のために設置された孔。
+j	通知書	通知書	notice, notification lett…
+j	通知表	通知表	report card
+j	通称の	通称の	
+j	通行人	通行人	passer-by
+j	通行料	通行料	toll (fee)
+j	通行権	通行権	ある場所を通行する権利。特に袋地の所有者が囲繞地を…
+j	通行証	通行証	pass (permit to go somewh…
+j	通訳人	通訳人	刑事事件の裁判において被告人が外国人である場合の通…
+j	通訳官	通訳官	旧制の日本で大使館、公使館などで通訳の事務を司った…
+j	通訳者	通訳者	an interpreter (someone w…
+j	通話料	通話料	通話サービスの対価として、通常発信側（フリーダイヤ…
+j	通話表	通話表	無線による通信で、聞き間違いを防ぐために定められた…
+j	通過点	通過点	目的地までの途中にある通過の場所。
+j	通過駅	通過駅	特に優等種別などで、停車しない駅。[1919年～]
+j	通関士	通関士	通関の書類を税務署に提出する申告書の審査を行う職業…
+j	鐚一文	鐚一文	金属の質が悪い一文銭。
+j	驚かす	驚かす	to frighten
+j	驚異的	驚異的	astonishing, marvelous, a…
+j	魚介類	魚介類	seafood, marine products,…
+j	魚市場	魚市場	
+j	魚料理	魚料理	魚介類をおもな材料とした料理。
+j	魚河岸	魚河岸	
+j	魚眼石	魚眼石	an apophyllite
+j	魚腥草	魚腥草	dried Houttuynia cordata …
+j	魚蟹類	魚蟹類	水産の食物としての魚類と無脊椎動物の総称。特に魚類…
+j	魚貝類	魚貝類	魚介類の別形。特に魚類と貝類をさす。
+j	魚醤油	魚醤油	
+j	魚釣り	魚釣り	angling: fishing with a f…
+j	魚釣島	魚釣島	
+j	魚雷艇	魚雷艇	魚雷で敵を攻撃する高速戦闘艇。
+j	魚類学	魚類学	ichthyology
+j	魚鱗癬	魚鱗癬	ichthyosis (disease which…
+j	鸚鵡石	鸚鵡石	物の音を反響させる石。ひびきいし。
+j	鸚鵡貝	鸚鵡貝	a nautilus
+k	각선미	脚線美	attractive visual quality…
+k	각성제	覚醒剤	중추 신경을 흥분시켜 잠이 오는 것을 억제하고…
+k	경장근	頚長筋	longus colli muscle
+k	다각형	多角形	polygon
+k	다각화	多角化	
+k	다국어	多国語	
+k	다국어	多國語	
+k	다독가	多読家	an extensive reader, a we…
+k	다독가	多讀家	an extensive reader, a we…
+k	다면체	多面体	polyhedron
+k	다면체	多面體	polyhedron
+k	다문화	多文化	multiple cultures
+k	다색성	多色性	
+k	다세포	多細胞	multicellular, multicelle…
+k	다신론	多神論	polytheism
+k	다양화	多様化	diversification
+k	다양화	多樣化	diversification
+k	다원화	多元化	diversification, pluraliz…
+k	다지증	多指症	
+k	다판강	多板綱	
+k	다판류	多板類	
+k	다포체	多胞体	
+k	다포체	多胞體	
+k	다한증	多汗症	
+k	다행감	多幸感	euphoria
+k	다행증	多幸症	euphoria
+k	당마크	党마크	emblem of a political par…
+k	당중앙	党中央	party central committee
+k	박람회	博覧会	exhibition, exposition, f…
+k	박람회	博覽會	exhibition, exposition, f…
+k	박물관	博物館	museum
+k	박물학	博物学	
+k	박물학	博物學	
+k	분탕질	焚蕩—	to disorganize community …
+k	심지어	甚至於	even, what is worse/what …
+k	심하다	甚하다	to be severe, to be extre…
+k	앵무새	鸚鵡새	parrot (bird)
+k	어류학	魚類学	
+k	어류학	魚類學	
+k	어물전	魚物廛	
+k	어물점	魚物店	
+k	어시장	魚市場	
+k	정관사	定冠詞	definite article
+k	정기시	定期市	
+k	정온기	定温器	
+k	정온기	定溫器	
+k	정의역	定義域	
+k	정적분	定積分	definite integral
+k	정하다	定하다	to designate, to specify,…
+k	주방장	廚房長	head cook, chef
+k	찬미가	讚美歌	
+k	찬송가	讚頌歌	
+k	통상적	通常的	usual; general
+k	통시적	通時的	diachronic
+k	통시태	通時態	
+k	통신사	通信社	
+k	통신원	通信員	correspondent, reporter
+k	통역사	通訳士	interpreter
+k	통역사	通譯士	interpreter
+k	통역인	通訳人	
+k	통역인	通譯人	
+k	통역자	通訳者	interpreter
+k	통역자	通譯者	interpreter
+k	통지표	通知表	
+k	통행권	通行権	right of way (legal right…
+k	통행권	通行權	right of way (legal right…
+k	통행료	通行料	toll (fee)
+k	통행인	通行人	passer-by
+k	허구적	虚構的	
+k	허수축	虚数軸	
+k	허영심	虚栄心	vanity
+k	혼례복	婚礼服	
+k	혼례복	婚禮服	
+k	혼례식	婚礼式	wedding ceremony
+k	혼례식	婚禮式	wedding ceremony
+k	회계사	会計士	accountant
+k	회계원	会計員	cashier, treasurer, accou…
+k	회계학	会計学	accounting (science)
+k	회사원	会社員	office worker, (company) …
+k	회원국	会員国	
+k	회음부	会陰部	The perineal region; the …
+k	회의록	会議録	minutes, proceedings
+k	회의실	会議室	
+j	会合周期	会合周期	惑星の合または衝から次の合または衝までの周期。
+j	会席料理	会席料理	誹諧、連歌の会席で出された本膳を簡略化した料理。
+j	会得する	会得する	
+j	会意文字	会意文字	六書の会意の方法で作られた漢字。
+j	会津坂下	会津坂下	a town in Kawanuma distri…
+j	会津若松	会津若松	
+j	会者定離	会者定離	those who meet must part …
+j	会計公準	会計公準	企業会計を行うための基本的な前提。「企業実体の公準…
+j	会計基準	会計基準	財務諸表を作成する上での社会的な規範。一般に公正妥…
+j	会計学者	会計学者	会計学を研究する科学者。
+j	会計年度	会計年度	国、地方公共団体で歳入、歳出の区切りとする年度。通…
+j	会話する	会話する	
+j	会陰切開	会陰切開	episiotomy
+j	党員集会	党員集会	
+j	博士論文	博士論文	doctoral thesis; disserta…
+j	博多人形	博多人形	九州博多を中心につくられる粘土を素焼きにし彩色を施…
+j	博学多才	博学多才	豊富な知識をもち、さまざまな方面に才能があること。
+j	博引旁証	博引旁証	広く書物などから実例などを集めて列挙し説明すること。
+j	博愛主義	博愛主義	philanthropism
+j	博物学者	博物学者	博物学を研究する科学者。
+j	博物館学	博物館学	
+j	博覧強記	博覧強記	広く古今東西の書物を読み、良く記憶していること。
+j	厚生大臣	厚生大臣	厚生省の長。厚相。
+j	厚生年金	厚生年金	公的年金の一つ。厚生年金保険法に基づき、一定の事業…
+j	厚顔無恥	厚顔無恥	shameless
+j	喚語困難	喚語困難	aphasia, unable to expres…
+j	喚起する	喚起する	
+j	囚われる	囚われる	to be caught, captured, i…
+j	囚われ人	囚われ人	captive
+j	多すぎる	多すぎる	
+j	多事多端	多事多端	やるべき事が多く、非常に忙しいこと。
+j	多事多難	多事多難	事件が多発し、困難が多いこと。
+j	多価関数	多価関数	一つの入力に対して複数の出力を持つ関数。全単射とな…
+j	多元主義	多元主義	
+j	多元回帰	多元回帰	重回帰に同じ。
+j	多元宇宙	多元宇宙	the multiverse
+j	多剤併用	多剤併用	
+j	多嚢胞性	多嚢胞性	being polycystic; being m…
+j	多士済々	多士済々	an assemblage of excellen…
+j	多士済済	多士済済	優秀な人材が多く集まっていること。
+j	多孔質の	多孔質の	
+j	多宝如来	多宝如来	如来のひとり。東方の宝浄国の教主。釈迦が説法してい…
+j	多岐亡羊	多岐亡羊	内容が多方面に渡りすぎて学問の真理を得ることがむず…
+j	多年生の	多年生の	
+j	多生の縁	多生の縁	何度も生まれ変わる間に結ばれた因縁。俗用として「他…
+j	多生曠劫	多生曠劫	（仏教）何度も生まれ変わり輪廻する長い年月。
+j	多目的室	多目的室	様様な用途で利用する部屋。
+j	多種多様	多種多様	synonym of 十人十色 (jūnin to…
+j	多細胞の	多細胞の	
+j	多結晶体	多結晶体	たくさんの結晶が集合してできた物質。単に多結晶とも…
+j	多羅菩薩	多羅菩薩	
+j	多肉植物	多肉植物	succulent plant
+j	多胎妊娠	多胎妊娠	二人以上または三人以上の子供を同時に妊娠すること。
+j	多能性の	多能性の	
+j	多言語化	多言語化	ソフトウェアにおいて、利用者が言語環境をより自由に…
+j	多財餓鬼	多財餓鬼	有財餓鬼のうち残飯や祭祀で残り物を食するもの。
+j	多重人格	多重人格	一人の人間が多数の人格を持っていること。
+j	多重国籍	多重国籍	multiple citizenship
+j	多重積分	多重積分	多変数関数に関する積分。重積分。
+j	多重継承	多重継承	multiple inheritance
+j	多重録音	多重録音	multitrack recording
+j	多重集合	多重集合	
+j	多階微分	多階微分	高次導関数を求める操作。高階微分。
+j	多面体の	多面体の	
+j	多項係数	多項係数	多項定理の係数となる∏ⱼ₌₁ᵐ(n!)/(k_j!…
+j	多項定理	多項定理	(x_1+x_2+⋯+x_m)ⁿ=∑_(∑ᵢ₌₁ᵐ…
+j	多頭政治	多頭政治	polyarchy
+j	婚前契約	婚前契約	
+j	婚約する	婚約する	
+j	婚約指輪	婚約指輪	婚約の際、婚約の証として男性から女性へ贈る指輪。
+j	定めない	定めない	transient, changeable, ep…
+j	定向進化	定向進化	
+j	定常状態	定常状態	動的な現象で空間の各点で状態を決める物理量が一定で…
+j	定年退職	定年退職	組織に勤務する者がその組織の定める定年に達したこと…
+j	定数関数	定数関数	入力の値によらず一定の値を出力する関数。
+j	定期的に	定期的に	
+j	定期考査	定期考査	学校で学期ごとの決まった時期に一斉に行われる試験。…
+j	定期試験	定期試験	学期の決まった時期に行われる試験。定期考査。
+j	定期購読	定期購読	
+j	定期贈与	定期贈与	一年以上の一定期間において、毎年一定の金額の財産を…
+j	定期預金	定期預金	一定の期間を区切って、満期まで預金すること、その仕…
+j	定点把握	定点把握	特定の医療機関のみからの報告を元に感染症の流行状況…
+j	定義する	定義する	
+j	定言命法	定言命法	
+j	定量分析	定量分析	quantitative analysis
+j	庚申薔薇	庚申薔薇	バラ科の常緑低木。中国原産。長春花。
+j	惚れ惚れ	惚れ惚れ	complete enamorment
+j	愚かしい	愚かしい	foolish
+j	愚の骨頂	愚の骨頂	非常にばかげていること。非常にくだらないこと。
+j	愚問愚答	愚問愚答	愚かな問答。
+j	揚げパン	揚げパン	油で揚げ、甘味を付けたパン。
+j	揚げ菓子	揚げ菓子	油で揚げてつくる菓子の総称。
+j	揚子江鰐	揚子江鰐	synonym of 揚子江アリゲーター
+j	揚水発電	揚水発電	pumped-storage hydroelect…
+j	揚貨装置	揚貨装置	船舶に取り付けられたクレーンやデリックに似た形をし…
+j	揚音符号	揚音符号	acute accent ( ´ )
+j	枚挙する	枚挙する	
+j	棚卸資産	棚卸資産	販売や加工することを目的として所有する資産。
+j	汚い戦争	汚い戦争	
+j	汚い爆弾	汚い爆弾	dirty bomb
+j	汚名挽回	汚名挽回	synonym of 汚名返上
+j	汚名返上	汚名返上	vindication of one's name
+j	汚染物質	汚染物質	pollutant
+j	焚書坑儒	焚書坑儒	紀元前213年頃秦の始皇帝が行った主に儒教に対する…
+j	焚琴煮鶴	焚琴煮鶴	vulgar, tasteless behavio…
+j	甚だしい	甚だしい	extreme, intense, heavy
+j	甚兵衛鮫	甚兵衛鮫	a whale shark
+j	稚児百合	稚児百合	Disporum smilacinum
+j	級長戸辺	級長戸辺	either synonym of 級長津彦 (S…
+j	級長津彦	級長津彦	the wind god, son of 伊弉諾 …
+j	続け書き	続け書き	
+j	続成作用	続成作用	堆積物が固結して堆積岩になるまでの化学的、物理的な…
+j	続発感染	続発感染	ある感染症にかかっている人が続いて別の感染症にかか…
+j	続行する	続行する	
+j	線型代数	線型代数	
+j	線型写像	線型写像	（数学）2つのベクトルを先に足し合わせて入力して返…
+j	線型変換	線型変換	一次変換。
+j	線型形式	線型形式	「一次形式」に同じ。
+j	線型従属	線型従属	一次従属に同じ。
+j	線型独立	線型独立	（数学）一次独立に同じ。
+j	線型空間	線型空間	ベクトル空間に同じ。
+j	線型結合	線型結合	（数学）一次結合に同じ。
+j	線型関数	線型関数	一次関数。
+j	線形代数	線形代数	linear algebra
+j	線形写像	線形写像	（数学）線型写像に同じ。
+j	線形動物	線形動物	roundworm, nematode, memb…
+j	線形回帰	線形回帰	一次式の関数で回帰すること。単回帰であれば、目的変…
+j	線形変換	線形変換	一次変換。
+j	線形従属	線形従属	一次従属に同じ。
+j	線形独立	線形独立	一次独立に同じ。
+j	線形空間	線形空間	ベクトル空間に同じ。
+j	線形結合	線形結合	（数学）一次結合。
+j	線形論理	線形論理	
+j	線形関数	線形関数	一次関数。
+j	線香花火	線香花火	sparkler (a type of firew…
+j	虚々実々	虚々実々	wit matching wit; a match…
+j	虚仮威し	虚仮威し	bluff, empty threat, pape…
+j	虚偽意識	虚偽意識	
+j	虚心坦懐	虚心坦懐	candid, heart to heart
+j	虚数単位	虚数単位	an imaginary unit
+j	虚無主義	虚無主義	synonym of ニヒリズム (nihiriz…
+j	虚脱状態	虚脱状態	a state of lethargy or de…
+j	虚虚実実	虚虚実実	相手の守りが堅い所を避けてすきをついて狙うなど、奥…
+j	覚え書き	覚え書き	
+j	覚束ない	覚束ない	uncertain; unclear; hazy
+j	覚醒する	覚醒する	
+j	覚醒主義	覚醒主義	
+j	豚に真珠	豚に真珠	"pearls to swine" → to ca…
+j	豚の饅頭	豚の饅頭	cyclamen
+j	豚コレラ	豚コレラ	hog cholera
+j	豚鼻蝙蝠	豚鼻蝙蝠	
+j	通り抜け	通り抜け	
+j	通信教育	通信教育	日頃通学するのではなくテレビ、ラジオ、郵送など通信…
+j	通信衛星	通信衛星	遠隔の地の電波による通信を中継するための人工衛星。
+j	通信販売	通信販売	selling by mail-order or …
+j	通信販賣	通信販賣	
+j	通勤する	通勤する	
+j	通勤電車	通勤電車	通勤や通学を主な目的とし、都市近郊の比較的短距離で…
+j	通告する	通告する	
+j	通告処分	通告処分	間接国税等に関する犯則事件に関し、税務官庁が理由を…
+j	通商破壊	通商破壊	
+j	通常国会	通常国会	毎年1月に召集される国会。
+j	通常運転	通常運転	Used other than figurativ…
+j	通常選挙	通常選挙	3年ごとに参議院議員の半数を改選する選挙。
+j	通年半旬	通年半旬	半旬を区切る方法のひとつ。1月1日から1月5日を第…
+j	通用字体	通用字体	常用漢字表において採用された標準的な印刷文字の字体…
+j	通知する	通知する	
+j	通行料金	通行料金	toll (fee)
+j	通行止め	通行止め	dead end, road closure, c…
+j	通訳する	通訳する	
+j	通貨両替	通貨両替	
+j	通貨単位	通貨単位	
+j	通貨収縮	通貨収縮	デフレーション、デフレ。
+j	通貨膨張	通貨膨張	インフレーション、インフレの和訳語。通常はインフレ…
+j	通貨記号	通貨記号	通貨を表す記号。
+j	通路側席	通路側席	
+j	通過する	通過する	
+j	通過儀礼	通過儀礼	
+j	驚くべき	驚くべき	
+j	驚くほど	驚くほど	
+j	驚天動地	驚天動地	天を驚かし、地を動かす。大いに世上を驚かすこと。
+j	驚異的な	驚異的な	
+j	魚形水雷	魚形水雷	弾頭部分にエンジン、頭部に爆薬、尾部に高速スクリュ…
+j	魚網鴻離	魚網鴻離	魚を獲るつもりで網をかけたのに、それに鴻(おおとり…
+j	魚類学的	魚類学的	ichthyological
+j	魚類学者	魚類学者	ichthyologist
+j	鸚鵡の杯	鸚鵡の杯	青貝・阿古屋貝などから造られる杯。
+j	鸚鵡の袖	鸚鵡の袖	オウムの姿を織り出した衣の袖。
+j	鸚鵡学舌	鸚鵡学舌	鸚鵡は人の言葉を真似することから、他人の意見に従っ…
+j	鸚鵡返し	鸚鵡返し	repeating another person'…
+k	다다익선	多多益善	많을수록 좋다.
+k	다중국적	多衆国籍	
+k	다중국적	多衆國籍	
+k	다중언어	多重言語	
+k	다중우주	多重宇宙	
+k	다중인격	多重人格	‘해리성 정체성 장애’를 달리 이르는 말.
+k	다행하다	多幸하다	to be fortunate
+k	당원집회	党員集会	
+k	분서갱유	焚書坑儒	"Burning of books and bur…
+k	분신자살	焚身自殺	
+k	선형동물	線形動物	nematode
+k	수염수리	鬚髥수리	The lammergeier, Gypaetus…
+k	심심하다	甚深하다	bored, boring
+k	우민 정책	愚民政策	policy with the aim of ke…
+k	통과암호	通過暗号	password
+k	통과암호	通過暗號	password
+k	통미봉남	通美封南	being simultaneously dipl…
+k	통화 단위	通話単位	
+k	통화 단위	通話單位	
+k	통화 수축	通貨収縮	
+k	통화 수축	通貨收縮	
+k	통화 축소	通貨縮小	
+k	통화 팽창	通貨膨脹	
+k	허무맹랑	虚無孟浪	Root of 허무맹랑하다 (heomumaen…
+k	허무주의	虚無主義	nihilism
+k	허위의식	虚偽意識	
+k	회계연도	会計年度	
+k	회음 절개	会陰切開	
+k	회의하다	会議하다	to attend/hold a meeting
+j	会心の一撃	会心の一撃	
+j	博士研究員	博士研究員	
+j	博愛主義者	博愛主義者	博愛主義の立場をとりそれを主張する者。
+j	厚かましい	厚かましい	shameless, brazen
+j	厚かましさ	厚かましさ	
+j	厚生労働省	厚生労働省	Ministry of Health, Labou…
+j	喚き立てる	喚き立てる	to shout, to yell
+j	多元文化論	多元文化論	
+j	多勢に無勢	多勢に無勢	It is difficult to win wh…
+j	多国籍企業	多国籍企業	世界各地に支社や子会社、現地工場などをつくり、国境…
+j	多国間主義	多国間主義	
+j	多変数関数	多変数関数	従属変数が複数ある関数。
+j	多岐に渡る	多岐に渡る	cover a many areas or top…
+j	多年生植物	多年生植物	二年以上の複数年にわたって生存する植物の分類。
+j	多文化主義	多文化主義	「多文化社会」と同じ。
+j	多文化社会	多文化社会	民族や人種の異なる人々が、互いの文化的な違いを認め…
+j	多様化する	多様化する	
+j	多次元配列	多次元配列	multidimensional array
+j	多民族国家	多民族国家	
+j	多細胞生物	多細胞生物	多数の細胞で個体ができている生物。
+j	多肢選択法	多肢選択法	
+j	多言語話者	多言語話者	One who speaks many langu…
+j	多項式関数	多項式関数	整式のみで表された関数。
+j	多項方程式	多項方程式	
+j	婚姻の平等	婚姻の平等	marriage equality
+j	定差方程式	定差方程式	差分方程式。
+j	定式化する	定式化する	
+j	定形郵便物	定形郵便物	縦23.5cm以下、橫12cm以下、厚さ1cm以下…
+j	定数変化法	定数変化法	非斉次線型常微分方程式に対し、斉次解の各任意定数を…
+j	定期乗車券	定期乗車券	a rider's season ticket f…
+j	定期借地権	定期借地権	借地借家法に基づき、更新、延長がなく、期間満了をも…
+j	定期借家権	定期借家権	（法令）借地借家法に基づき、更新がなく、期間満了を…
+j	定期刊行物	定期刊行物	
+j	定着させる	定着させる	
+j	愚か者の金	愚か者の金	
+j	揚子江気団	揚子江気団	春や秋に揚子江流域に発達する高温・乾燥の気団。
+j	汚らわしい	汚らわしい	dirty, unclean, profane
+j	汚れたお金	汚れたお金	
+j	汚れている	汚れている	
+j	焚き付ける	焚き付ける	to kindle, to build a fire
+j	続縄文時代	続縄文時代	北海道で縄文時代に続く時代。本州での弥生時代から古…
+j	線型代数学	線型代数学	linear algebra
+j	線型汎函数	線型汎函数	𝕂上線型空間Vに対し∀ boldsymbol x,…
+j	線形計画法	線形計画法	linear programming
+j	線状降水帯	線状降水帯	複数の積乱雲が線状にいくつも発生し、激しい雨の範囲…
+j	線維芽細胞	線維芽細胞	
+j	胚盤葉上層	胚盤葉上層	epiblast
+j	脚の付け根	脚の付け根	
+j	虚仮にする	虚仮にする	to make a folly of someth…
+j	虚勢を張る	虚勢を張る	to bluff, to put up a bol…
+j	虚空蔵菩薩	虚空蔵菩薩	虚空があらゆるものを蔵するように広大無辺な智慧と福…
+j	覚えておく	覚えておく	
+j	覚えやすい	覚えやすい	
+j	通りかかる	通りかかる	
+j	通り抜ける	通り抜ける	to cut through, to go thr…
+j	通り掛かり	通り掛かり	passing; going by.
+j	通り掛かる	通り掛かる	to happen to pass by; to …
+j	通り過ぎる	通り過ぎる	to go past
+j	通行許可証	通行許可証	通行が禁止されている場所への通行が許可される身分証…
+j	通訳案内士	通訳案内士	全国通訳案内士と地域通訳案内士の総称
+j	通貨コード	通貨コード	
+j	通路側の席	通路側の席	
+j	驚異の部屋	驚異の部屋	
+j	魚のスープ	魚のスープ	
+j	魚卵スープ	魚卵スープ	
+j	魚眼レンズ	魚眼レンズ	a fisheye lens
+j	魚群探知機	魚群探知機	fishfinder
+k	각주	脚注/脚註	prism
+k	선화	線画/線畵	line drawing
+k	선화	線畫/線畵	line drawing
+k	양음 부호	揚音 符号	acute accent
+k	양음 부호	揚音 符號	acute accent
+k	우민화 정책	愚民化政策	policy with the aim of ke…
+k	통행금지령	通行禁止令	
+j	会社解散判決	会社解散判決	裁判所が、社員・株主の請求により行う会社を解散させ…
+j	厚生労働大臣	厚生労働大臣	厚生労働省の長たる国務大臣。
+j	囚われの姫君	囚われの姫君	
+j	多々益々善し	多々益々善し	The more the better.
+j	多嚢胞性卵巣	多嚢胞性卵巣	polycystic ovary; PCO
+j	多多益益弁ず	多多益益弁ず	やるべき仕事が多ければ多いほど、旨く処理ができる。
+j	多発性硬化症	多発性硬化症	
+j	婚約している	婚約している	
+j	定形外郵便物	定形外郵便物	定形郵便物の条件を満たさない郵便物。
+j	愚公山を移す	愚公山を移す	perseverance and hard wor…
+j	愚痴をこぼす	愚痴をこぼす	to complain; to grumble
+j	揚げ足を取る	揚げ足を取る	to find fault
+j	揚子江河海豚	揚子江河海豚	a baiji
+j	棚から牡丹餅	棚から牡丹餅	（棚から牡丹餅が落ちてきて、それがうまく口の中に入…
+j	棚上げにする	棚上げにする	
+j	線ファスナー	線ファスナー	線状のファスナー。スライドファスナー。
+j	線型部分空間	線型部分空間	部分ベクトル空間に同じ。
+j	線形部分空間	線形部分空間	部分ベクトル空間に同じ。
+j	脚光を浴びる	脚光を浴びる	to be under the spotlight
+j	覚悟を決める	覚悟を決める	to prepare oneself
+j	通勤ライナー	通勤ライナー	通勤ラッシュ時に着席を保証するために運転される列車。
+j	通勤ラッシュ	通勤ラッシュ	
+j	通報システム	通報システム	
+k	다목적 자동차	多目的自動車	
+k	다발성 경화증	多発性硬化症	
+k	다발성 경화증	多發性硬化症	
+k	치기만만하다	稚気満満하다	to be brimming with child…
+k	치기만만하다	稚氣滿滿하다	to be brimming with child…
+j	囚人のジレンマ	囚人のジレンマ	個個人がそれぞれに自分にとって最良の選択をした場合…
+j	多かれ少なかれ	多かれ少なかれ	more or less
+j	多数から一つへ	多数から一つへ	
+j	多言は身を害す	多言は身を害す	One word too many will be…
+j	揚貨装置運転士	揚貨装置運転士	制限荷重5トン以上を含めた全ての揚貨装置を運転する…
+j	虚々実々の戦い	虚々実々の戦い	match between persons equ…
+j	驚くべきことに	驚くべきことに	lo and behold
+j	魚は頭から腐る	魚は頭から腐る	the fish rots from the he…
+j	魚は食べません	魚は食べません	
+j	魚肉ソーセージ	魚肉ソーセージ	獣肉などではなく魚肉を主な原料とするソーセージ。
+j	会計お願いします	会計お願いします	
+j	博士課程修了後の	博士課程修了後の	
+j	多胎一部救胎手術	多胎一部救胎手術	多胎妊娠の際に母胎の安全確保の観点から出産する多胎…
+j	多腕バンディット	多腕バンディット	multi-armed bandit
+j	定期運送用操縦士	定期運送用操縦士	国際線、国内線の機長として大型の航空機を操縦する航…
+j	豚インフルエンザ	豚インフルエンザ	swine flu
+j	多嚢胞性卵巣症候群	多嚢胞性卵巣症候群	polycystic ovary syndrome…
+j	揚子江アリゲーター	揚子江アリゲーター	a Chinese alligator
+j	虚を捨てて実を取る	虚を捨てて実を取る	to discard the shadow for…
+j	魚心あれば水心あり	魚心あれば水心あり	if you show someone favor…
+j	魚の釜中に遊ぶが若し	魚の釜中に遊ぶが若し	being carefree and unawar…
+j	豚もおだてりゃ木に登る	豚もおだてりゃ木に登る	flattery will motivate an…
+j	鸚鵡よく言えども飛鳥を離れず	鸚鵡よく言えども飛鳥を離れず	オウムは、いかに言葉を喋ろうとも、鳥類の範囲を脱す…
+j	魚を与えるのではなく魚の釣り方を教えよ	魚を与えるのではなく魚の釣り方を教えよ	

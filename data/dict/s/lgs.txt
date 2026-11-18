@@ -1,0 +1,4 @@
+e	g-string	gstring	1 meaning
+e	gästrikland	gstrikland	1 meaning
+e	g-sharp major	gsharpmajor	1 meaning
+e	g-sharp minor	gsharpminor	1 meaning

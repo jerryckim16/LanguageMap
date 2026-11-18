@@ -1,0 +1,73 @@
+e	ska	ska	1 meaning
+e	ski	ski	2 meanings
+e	sky	sky	3 meanings
+e	skim	skim	2 meanings
+e	skin	skin	3 meanings
+e	skip	skip	2 meanings
+e	skit	skit	2 meanings
+e	skye	skye	1 meaning
+e	skate	skate	3 meanings
+e	skein	skein	1 meaning
+e	skier	skier	1 meaning
+e	skill	skill	1 meaning
+e	skink	skink	1 meaning
+e	skirt	skirt	1 meaning
+e	skort	skort	1 meaning
+e	skull	skull	2 meanings
+e	skunk	skunk	1 meaning
+e	skanda	skanda	1 meaning
+e	skater	skater	1 meaning
+e	sketch	sketch	2 meanings
+e	skewer	skewer	2 meanings
+e	skiing	skiing	1 meaning
+e	skinny	skinny	1 meaning
+e	skopje	skopje	1 meaning
+e	skandha	skandha	1 meaning
+e	skating	skating	1 meaning
+e	ski lift	skilift	1 meaning
+e	skibidi	skibidi	1 meaning
+e	skilled	skilled	1 meaning
+e	skimmer	skimmer	2 meanings
+e	sky blue	skyblue	2 meanings
+e	skylark	skylark	1 meaning
+e	skyline	skyline	1 meaning
+e	skeleton	skeleton	2 meanings
+e	ski track	skitrack	1 meaning
+e	skilfish	skilfish	1 meaning
+e	skillful	skillful	1 meaning
+e	skim milk	skimmilk	1 meaning
+e	skinhead	skinhead	1 meaning
+e	skinship	skinship	1 meaning
+e	skirmish	skirmish	3 meanings
+e	skullcap	skullcap	1 meaning
+e	skydiver	skydiver	1 meaning
+e	skylight	skylight	1 meaning
+e	skyquake	skyquake	1 meaning
+e	ski resort	skiresort	1 meaning
+e	skin color	skincolor	2 meanings
+e	sky burial	skyburial	1 meaning
+e	skydiving	skydiving	1 meaning
+e	skyrocket	skyrocket	2 meanings
+e	skateboard	skateboard	1 meaning
+e	skepticism	skepticism	1 meaning
+e	ski jumping	skijumping	1 meaning
+e	skillfully	skillfully	1 meaning
+e	skin cancer	skincancer	1 meaning
+e	skin effect	skineffect	1 meaning
+e	skirt steak	skirtsteak	1 meaning
+e	sky lantern	skylantern	1 meaning
+e	skyscraper	skyscraper	1 meaning
+e	skywriting	skywriting	1 meaning
+e	skene's gland	skenesgland	1 meaning
+e	skill tester	skilltester	1 meaning
+e	skinny jeans	skinnyjeans	1 meaning
+j	釈義学	skakugigaku	
+e	skateboarder	skateboarder	1 meaning
+e	skin and bones	skinandbones	1 meaning
+e	skipjack tuna	skipjacktuna	1 meaning
+e	skipping rope	skippingrope	1 meaning
+e	skinny dipping	skinnydipping	1 meaning
+e	skirting board	skirtingboard	1 meaning
+e	skeletal muscle	skeletalmuscle	1 meaning
+e	skeletal formula	skeletalformula	1 meaning
+e	skull and crossbones	skullandcrossbones	1 meaning

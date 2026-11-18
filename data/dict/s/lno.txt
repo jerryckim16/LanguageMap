@@ -1,0 +1,2123 @@
+e	no	no	5 meanings
+j	の	no	indicates possession, whe…
+j	のう	no	Used to express exclamati…
+j	ひとりっこ	no	兄弟姉妹がいないこども。
+j	ノー	no	no (that is untrue)
+j	十四番目	no	
+j	吸血性	no	
+j	埜	no	a surname
+j	感染性	no	
+j	濃	no	dark color
+j	能	no	Noh, a form of classical …
+j	脳	no	the brain
+j	農	no	agriculture, farming
+j	野	no	an area, field
+k	노	no	string, cord (twisted hem…
+e	nod	nod	1 meaning
+e	noh	noh	1 meaning
+e	nom	nom	1 meaning
+e	non-	non	1 meaning
+e	nor	nor	1 meaning
+e	not	not	3 meanings
+e	now	now	3 meanings
+e	nox	nox	1 meaning
+j	ノア	noa	Noah (biblical character)
+j	ノン	non	without; -less
+j	ノーヴ	nov	
+k	노아	noa	Noah
+k	노오	noo	
+k	녹	nok	rust (result of oxidation)
+k	논	non	paddy field (wet land for…
+k	놀	nol	a nail that secures the b…
+k	놈	nom	bastard
+k	놉	nop	
+k	뇌	noe	brain
+e	noah	noah	2 meanings
+e	node	node	5 meanings
+e	noel	noel	1 meaning
+e	noma	noma	1 meaning
+e	noob	noob	1 meaning
+e	nook	nook	2 meanings
+e	noon	noon	1 meaning
+e	nope	nope	1 meaning
+e	nori	nori	1 meaning
+e	norm	norm	2 meanings
+e	nose	nose	4 meanings
+e	nosy	nosy	1 meaning
+e	note	note	5 meanings
+e	noun	noun	1 meaning
+e	nova	nova	1 meaning
+e	nove	nove	1 meaning
+j	のうき	noki	納期: appointed time of del…
+j	のうこう	noko	農耕: agriculture
+j	のうじ	noji	農事: farming, agriculture
+j	のうのう	nono	casually
+j	のうふ	nofu	農夫, 農未: peasant, farmer
+j	のうよう	noyo	膿瘍: an abscess (cavity fi…
+j	のき	noki	屋根の端の突き出た部分。
+j	のぎ	nogi	のどに刺さった小さい魚の骨。とげ。
+j	のく	noku	退く: resign, quit
+j	のこ	noko	のこぎり。
+j	のじ	noji	虹: (Tōhoku, Chūbu, Tottor…
+j	のす	nosu	伸びる。伸びて進んでいく。
+j	のせ	nose	乗せ, 載せ: the 未然形 (mizenkei…
+j	のだ	noda	an assertion that emphasi…
+j	ので	node	therefore, so, because
+j	のど	nodo	口の中の奥にある食道、気管に通じする場所。咽喉。
+j	のに	noni	even though, although (in…
+j	のの	nono	楽, 音暖, 音乃, 叶希, 希々, 希乃, 希望…
+j	のび	nobi	伸びること。また、その程度。
+j	のぶ	nobu	
+j	のべ	nobe	伸べ, 延べ: stem of のべる (nobe…
+j	のみ	nomi	only, limited to
+j	のむ	nomu	飲む, 呑む: to drink, to gulp…
+j	のら	nora	怠けること。怠惰
+j	のり	nori	rule, regulation, law
+j	のる	noru	物が他の物の上に上げられる。人などが物の上に上る。
+j	のろ	noro	slag
+j	のろう	noro	恨みのある人などに対し、悪いことが起こるように祈る。
+j	ノブ	nobu	ドアなどに付いた丸い取っ手で、回して使うもの。ドア…
+j	ノマ	noma	The iteration mark 々, whi…
+j	ノミ	nomi	昆虫綱ノミ目に属する昆虫の総称で動物に寄生して血を…
+j	ノロ	noro	「ノロウイルス」の略。
+j	ノース	nosu	north
+j	ノーズ	nozu	nose (of a person, vehicl…
+j	ノート	noto	a written communication
+j	ノード	nodo	node
+j	ノーマ	noma	水癌。
+j	ノーム	nomu	a gnome (legendary being)
+j	乃々	nono	a female given name
+j	乗り	nori	(act of) riding
+j	乗る	noru	to get on/ride (a bus, a …
+j	伸す	nosu	to expand, develop
+j	伸び	nobi	a stretch, the act of str…
+j	叶希	nono	a female given name
+j	喉	nodo	throat
+j	嚢状	nojo	袋のような形状。
+j	嚢胞	noho	cyst
+j	嚢裏	nori	財布の中。
+j	囊奏	noso	封事。
+j	囊胞	noho	cyst
+j	囊装	noso	袋に収めたもの。
+j	囊裏	nori	財布の中。
+j	埜々	nono	a female given name
+j	埜乃	nono	a female given name
+j	宣る	noru	to say, declare or expres…
+j	希々	nono	a female given name
+j	希乃	nono	a female given name
+j	暖埜	nono	a female given name
+j	曩謨	nobo	synonym of 南無 (namu): Use…
+j	海苔	nori	general term for various …
+j	濃化	noka	濃くなること。また、濃くすること。
+j	濃厚	noko	thick, dense, concentrate…
+j	濃尾	nobi	美濃国（岐阜県南部）と尾張国（愛知県西部）。
+j	濃度	nodo	concentration, density
+j	濃霧	nomu	thick fog
+j	濃音	noon	a tense or fortis sound i…
+j	濃香	noko	濃厚な香り。
+j	燹	nobi	a wildfire
+j	祝女	noro	a hereditary priestess in…
+j	稀乃	nono	a female given name
+j	糊	nori	glue
+j	納付	nofu	payment
+j	納刀	noto	抜いた刀を鞘に納めること。
+j	納期	noki	appointed time of deliver…
+j	能動	nodo	activity; activeness
+j	能吏	nori	有能な役人。但し、吏は事務処理を専らとする下級役人…
+j	能登	noto	Noto Province, an old pro…
+j	能相	noso	ラテン語など古典語文法において能動態を意味する語。…
+j	能記	noki	signifier
+j	能造	nozo	うまく造出すること。
+j	脳波	noha	brainwaves
+j	脳炎	noen	encephalitis
+j	脳相	noso	食べ物に関する視覚や嗅覚、聴覚などの刺激により、食…
+j	脳葉	noyo	a cerebral lobe
+j	脳裏	nori	one's brain; one's mind (…
+j	脳裡	nori	頭の中。
+j	膿疱	noho	化膿して膿がたまった発疹。
+j	膿瘍	noyo	an abscess (cavity filled…
+j	膿瘡	noso	腫れ物。
+j	芒	nogi	awn
+j	蚤	nomi	flea (parasitic insect)
+j	衲僧	noso	衲子。
+j	規	nori	（のり）きまり。ものさし。容量。目安。
+j	軒	noki	eaves
+j	載る	noru	to be placed on
+j	農事	noji	farming; agriculture
+j	農具	nogu	farming tool
+j	農功	noko	agricultural work
+j	農務	nomu	農耕の業務。農作業。
+j	農園	noen	plantation
+j	農場	nojo	farm
+j	農夫	nofu	peasant, plowman
+j	農奴	nodo	serf
+j	農家	noka	a farming family
+j	農工	noko	agriculture and industry
+j	農桑	noso	農業と養蚕。
+j	農機	noki	農業機械または農業機具の略。トラクター・コンバイン…
+j	農科	noka	農業に関する学科。
+j	農耕	noko	agriculture
+j	農高	noko	農業高等学校の略。
+j	野々	nono	a female given name
+j	野乃	nono	a female given name
+j	野呂	noro	a surname
+j	野火	nobi	a controlled burn set in …
+j	野田	noda	Noda (a city in Chiba Pre…
+j	野良	nora	field, farm
+j	野部	nobe	a surname
+j	野野	nono	a female given name
+j	鑿	nomi	chisel used for wood
+j	飲み	nomi	imperfective and stem (or…
+j	飲む	nomu	
+j	麕	noro	roe deer
+k	노고	nogo	
+k	노구	nogu	a small, portable hanging…
+k	노도	nodo	raging waves; turbulent w…
+k	노두	nodu	암석이나 지층이 지표로 노출된 부분.
+k	노루	noru	roe deer (Capreolus capre…
+k	노리	nori	'노루'를 의미하는 제주도 방언.
+k	노모	nomo	uncensored
+k	노무	nomu	임금을 받으려고 육체적 노력을 들여서 하는 일…
+k	노비	nobi	slave, servant (in tradit…
+k	노사	nosa	an elderly monk
+k	노수	nosu	'장수'.
+k	노시	nosi	쇠뇌와 쇠뇌살
+k	노안	noan	presbyopia
+k	노어	noeo	Russian (language)
+k	노예	noye	slave (person owned by an…
+k	노인	noin	an old person; the elderly
+k	노임	noim	pay, wages; price, cost
+k	노자	noja	Laozi
+k	노조	nojo	raging tide
+k	노파	nopa	old woman
+k	노호	noho	
+k	놀이	nori	play; game; pastime; amus…
+k	농	nong	'농담'.
+k	높이	nopi	height
+k	놓다	nota	to lay, put, set, place
+k	뇌우	noeu	thunderstorm
+e	no use	nouse	1 meaning
+e	no way	noway	2 meanings
+e	nobel	nobel	1 meaning
+e	noble	noble	3 meanings
+e	nogai	nogai	2 meanings
+e	noise	noise	2 meanings
+e	noisy	noisy	1 meaning
+e	nokia	nokia	1 meaning
+e	nolid	nolid	1 meaning
+e	nomad	nomad	1 meaning
+e	noona	noona	1 meaning
+e	noose	noose	1 meaning
+e	norad	norad	1 meaning
+e	norse	norse	1 meaning
+e	north	north	3 meanings
+e	notch	notch	1 meaning
+e	nouméa	nouma	1 meaning
+e	novel	novel	2 meanings
+j	のいけ	noike	pond in the wilderness
+j	のうし	noshi	平安時代以降の天皇や公家の平服。
+j	のごい	nogoi	日本在来の鯉。コイ野生型とも呼ばれる。
+j	のし	noshi	「のす」の連用形。
+j	のずえ	nozue	野の外れ。野の果て。
+j	のち	nochi	時間的にあと。副詞的、接続詞的、接続助詞的にも用い…
+j	のっけ	nokke	（「のっけから」「のっけに」の形で）最初。はじめ。
+j	のっぽ	noppo	tall and thin; lanky
+j	のぶえ	nobue	展江, 伸恵, 信恵, 伸枝: a female …
+j	のぶお	nobuo	信雄: a male given name
+j	のりお	norio	則紀, 宣雄, 規夫, 悳夫, 徳雄, 典夫, 法…
+j	のれん	noren	「暖簾」中「暖」の唐宋音「のん・のう」が常用漢字表…
+j	のろい	noroi	動きなどが遅い様子。
+j	のんき	nonki	optimistic, easy, easygoi…
+j	のんこう	nonko	嫩江: Nen River, a river in…
+j	のんだ	nonda	
+j	の前	nomae	
+j	ノイジー	noiji	noisy (having lots of noi…
+j	ノイズ	noizu	noise, unwanted sounds
+j	ノウハウ	nohau	know-how
+j	ノエル	noeru	
+j	ノキア	nokia	Nokia (a town in Finland,…
+j	ノッカー	nokka	
+j	ノック	nokku	knock (abrupt rapping sou…
+j	ノット	notto	浬, 節: a knot: a nautical …
+j	ノナン	nonan	nonane
+j	ノニン	nonin	nonyne
+j	ノネン	nonen	nonene
+j	ノルン	norun	《神話》 北欧神話に登場する運命の女神達「ノルニル…
+j	ノンケ	nonke	straight; hetero
+j	ノン気	nonke	（同性愛者から見て）異性愛者。
+j	ノーカン	nokan	
+j	ノーコン	nokon	no control, especially of…
+j	ノーザン	nozan	北の。
+j	ノーショー	nosho	absence; no-show
+j	ノータイ	notai	ネクタイを着けないこと。
+j	ノーツ	notsu	note
+j	ノーナエ	nonae	ローマ暦で大の月（3月、5月、7月、10月）の第7…
+j	ノーバン	noban	ノーバウンド。
+j	ノーパン	nopan	the act of going commando…
+j	ノーペア	nopea	synonym of ハイカード (hai kād…
+j	ノー勉	noben	without studying
+j	乗って	notte	
+j	伸夫	nobuo	a male given name
+j	伸恵	nobue	a female given name
+j	伸枝	nobue	a female given name
+j	信恵	nobue	a female given name
+j	信男	nobuo	a male given name
+j	信雄	nobuo	a male given name
+j	典夫	norio	a male given name
+j	則紀	norio	a male given name
+j	呪い	noroi	a curse (supernatural det…
+j	呪う	norou	to curse
+j	嚢中	nochu	袋の中。
+j	嚢子	noshi	シスト。
+j	嚢胚	nohai	動物の発生段階で胞胚のあと原腸が形成される段階の胚。
+j	嚢腫	noshu	分泌腺の腺管が塞がれ内部に分泌された液体がたまる良…
+j	囊堆	notai	胞子嚢群。
+j	囊盛	nosei	袋状の入れ物。
+j	嫩江	nonko	Nen River, a river in nor…
+j	宣雄	norio	a male given name
+j	展江	nobue	a female given name
+j	展生	nobuo	a male given name
+j	延夫	nobuo	a male given name
+j	悩乱	noran	悩み苦しんで心が乱れること。
+j	悳夫	norio	a male given name
+j	暖簾	noren	curtain hung in doorways,…
+j	曩代	nodai	前代。
+j	法夫	norio	a male given name
+j	濃嵐	noran	深い山気。
+j	濃州	noshu	美濃国^(（みののくに）)の別称。
+j	濃淡	notan	light and shade
+j	濃紺	nokon	dark blue
+j	濃黛	notai	濃い黛。
+j	熨斗	noshi	noshi, a thin strip of dr…
+j	直衣	noshi	round-collared, skirted o…
+j	納入	nonyu	supply, delivery
+j	納剣	noken	抜いた剣を鞘に納めること。
+j	納品	nohin	delivery of goods
+j	納成	nosei	和解の申し入れ。
+j	納本	nohon	being in the collection o…
+j	納棺	nokan	rite of placing a body in…
+j	納涼	noryo	escaping the summer heat …
+j	納税	nozei	payment of taxes, taxation
+j	納車	nosha	delivery of an automobile
+j	納金	nokin	お金を納めること。金銭の納付。
+j	能州	noshu	能登国^(（のとのくに）)の別称。
+j	能弁	noben	話が上手いこと。また、そのさま。
+j	能政	nosei	善政。
+j	能書	nosho	上手な字を書くこと。また、その字や、その人。
+j	能管	nokan	a transverse flute used t…
+j	能芸	nogei	才能や技術。芸能。
+j	能面	nomen	能で使用する面。
+j	脳中	nochu	頭の中。
+j	脳内	nonai	intracerebral, intracrani…
+j	脳回	nokai	gyrus (a ridge or fold on…
+j	脳天	noten	top of the head
+j	脳幹	nokan	brain stem
+j	脳梁	noryo	大脳縦裂の底部にあり、左右の大脳半球の皮質を連絡す…
+j	脳死	noshi	brain death
+j	脳漿	nosho	cerebrospinal fluid
+j	脳病	nobyo	脳に関する疾患の総称。
+j	脳症	nosho	encephalopathy
+j	脳癌	nogan	brain cancer
+j	脳筋	nokin	meathead; dumb muscle; so…
+j	脳袋	notai	頭。
+j	脳髄	nozui	brain
+j	膿尿	nonyo	pyuria
+j	膿淋	norin	下疳の別称。
+j	膿病	nobyo	蚕などの昆虫がウイルスの感染により皮膚が乳白色や黄…
+j	膿腫	noshu	化膿している腫れ物。
+j	規夫	norio	a male given name
+j	農協	nokyo	農業協同組合の略。JA(Japan Agricul…
+j	農商	nosho	agriculture and commerce
+j	農地	nochi	agricultural land
+j	農大	nodai	農業大学、または農科大学の略。
+j	農政	nosei	農業にかかわる行政や政策。
+j	農料	noryo	農業に必要な材料。
+j	農書	nosho	農業に関する内容の書物。
+j	農村	noson	farm village, rural villa…
+j	農林	norin	agriculture and forestry
+j	農業	nogyo	agriculture
+j	農民	nomin	farmer
+j	農水	nosui	agriculture and fisheries
+j	農産	nosan	農業による生産。
+j	農相	nosho	農林水産大臣、農林大臣の略。
+j	農繁	nohan	農作業で忙しいこと。また、その時期。繁農。
+j	農芸	nogei	農業についての技芸。
+j	農転	noten	Conversion of agricultura…
+j	農閑	nokan	農作業の手があき、ひまになること。
+j	野雁	nogan	
+j	野馬	nouma	a wild horse
+j	鈍い	noroi	slow, sluggish
+j	飲んべえ	nonbe	
+k	노계	nogye	늙은 닭.
+k	노국	noguk	Russia (a country in East…
+k	노난	nonan	
+k	노드	nodeu	
+k	노란	noran	realis adnominal of 노랗다 (…
+k	노람	noram	'노랗다'의 명사형.
+k	노래	norae	song
+k	노배	nobae	Chinese varieties of daik…
+k	노벨	nobel	Nobel
+k	노새	nosae	mule (animal)
+k	노쇠	nosoe	senility, decrepitude
+k	노쇼	nosyo	absence; no-show
+k	노원	nowon	[~구] Nowon (a district of…
+k	노을	noeul	glow, red sky (beginning …
+k	노크	nokeu	a knock (tapping on the d…
+k	노키아	nokia	
+k	노트	noteu	notebook
+k	노하우	nohau	know-how
+k	노화	nohwa	aging, senescence
+k	녹다	nokda	to melt into water
+k	녹두	nokdu	mung bean
+k	녹옥	nokok	
+k	녹유	nogyu	green glaze
+k	녹조	nokjo	'녹조류'.
+k	녹지	nokji	
+k	녹토	nokto	
+k	논고	nongo	자기가 믿는 바를 논술하여 알리는 것.
+k	논리	nolli	logic
+k	논어	noneo	Lunyu, the Analects of Co…
+k	논의	nonui	discussion
+k	논자	nonja	이론이나 의견을 내세워 말하는 사람.
+k	논제	nonje	
+k	논지	nonji	point (of an argument), a…
+k	녾다	nonta	(충청도 방언) 나누다.
+k	놀다	nolda	to play, to hang out
+k	놀토	nolto	a Saturday on which schoo…
+k	농아	nonga	deaf person
+k	높다	nopda	to be high, to be tall, t…
+k	높임	nopim	'존칭'.
+k	놓이다	noida	To be laid, or put
+k	뇌리	noeri	head, mind, consciousness…
+k	뇌사	noesa	뇌의 기능이 완전히 멈춘것. 뇌가 죽은것이다.…
+k	뇌수	noesu	brain; encephalon
+k	뇌암	noeam	brain cancer
+k	뇌옥	noeok	
+k	뇌운	noeun	천둥과 번개가 발생하는 연직으로 크게 발달한 …
+k	뇌조	noejo	
+k	뇌파	noepa	
+e	no idea	noidea	1 meaning
+e	no-show	noshow	2 meanings
+e	nocebo	nocebo	1 meaning
+e	nod off	nodoff	1 meaning
+e	nonane	nonane	1 meaning
+e	noodle	noodle	1 meaning
+e	normal	normal	3 meanings
+e	normie	normie	1 meaning
+e	norway	norway	1 meaning
+e	not bad	notbad	1 meaning
+e	not yet	notyet	1 meaning
+e	notary	notary	1 meaning
+e	notice	notice	3 meanings
+e	notify	notify	1 meaning
+e	notion	notion	1 meaning
+e	nougat	nougat	1 meaning
+e	novena	novena	1 meaning
+e	now, now	nownow	2 meanings
+e	nowruz	nowruz	1 meaning
+e	nozzle	nozzle	2 meanings
+j	のうさぎ	nosagi	ウサギ目ノウサギ属に属する哺乳類の総称。学名は L…
+j	のうさく	nosaku	農作: agriculture
+j	のうみそ	nomiso	脳味噌: brains
+j	のうやく	noyaku	農薬: pesticide
+j	のかぜ	nokaze	野原を吹く風。
+j	のがす	nogasu	逃がす。
+j	のがも	nogamo	野生の鴨。
+j	のがれ	nogare	逃れ, 遁れ, 逃, 遁: an escape, …
+j	のきば	nokiba	軒先。軒の端。軒の周辺。
+j	のぐさ	nogusa	山野に生えている野生の草。
+j	のぐそ	noguso	excreting in the wild
+j	のける	nokeru	〔おもに邪魔なものや不要なものなどを〕他の場所へ移…
+j	のこす	nokosu	全体のうち一部を留まらせる。
+j	のこり	nokori	残ること。残ったもの。副詞的にも用いられる。
+j	のこる	nokoru	全体のうち一部が無くならないでいる。
+j	のごま	nogoma	スズメ目ヒタキ科サヨナキドリ属に属する鳥の一種。学…
+j	のじめ	nojime	killing of an animal dire…
+j	のすり	nosuri	タカ目タカ科ノスリ属の猛禽類の総称。
+j	のせる	noseru	【載せる】物の上に置く。
+j	のそり	nosori	生物の動作が鈍重なさま。鈍いさま。多く「のそりと」…
+j	のぞき	nozoki	「のぞく」の連用形。
+j	のぞく	nozoku	to remove; to eliminate
+j	のぞみ	nozomi	望む事柄。希望。願望。
+j	のぞむ	nozomu	望む: to wish, to hope, to …
+j	のだて	nodate	貴人が乗り物を止め野外で休憩すること。
+j	のづら	nozura	野の面。
+j	のどか	nodoka	天候が穏やかなさま。
+j	のなか	nonaka	野原の中。
+j	のねこ	noneko	山猫。
+j	のはら	nohara	一面に草などの生えた広い平地。
+j	のばす	nobasu	曲がっていたものをまっすぐにする。
+j	のばと	nobato	野生の鳩。
+j	のばな	nobana	野に咲く花。野生の花。
+j	のばら	nobara	一面に草などの生えた広い平地。
+j	のびる	nobiru	曲がっていたものがまっすぐになる。
+j	のぶこ	nobuko	信子, 伸子, 延子, 暢子, 宜子: a fem…
+j	のぶじ	nobuji	宣士: a male given name
+j	のぶと	nobuto	展人: a male given name
+j	のぶよ	nobuyo	a female given name
+j	のぶ代	nobuyo	a female given name
+j	のべぼう	nobebo	bar-shaped ingot
+j	のべる	noberu	宣べる, 演べる: to spread the w…
+j	のほど	nohodo	
+j	のぼす	nobosu	
+j	のぼせ	nobose	「のぼせる」の未然形及び連用形。
+j	のぼり	nobori	（登り）登ること。
+j	のぼる	noboru	登る, 上る: to ascend, to cli…
+j	のみや	nomiya	のみ行為をしている者。
+j	のめす	nomesu	to make someone fall forw…
+j	のめる	nomeru	fall forward
+j	のやき	noyaki	早春に野原の枯れ草を焼くこと。
+j	のやま	noyama	野原と山地。山野。
+j	のりあい	noriai	「のりあう」の連用形。
+j	のりあう	noriau	一つの乗り物に複数人が一緒に乗る。同乗する。
+j	のりこ	noriko	実子, 徳子, 教子, 矩子, 倫子, 智子, 規…
+j	のりと	norito	儀式などの改まった場で、神を祭る際に神前で唱える古…
+j	のりば	noriba	乗り場: boarding place for a…
+j	のりや	noriya	海苔を作って売る店。
+j	のろけ	noroke	「のろける」の未然形および連用形。
+j	のろま	noroma	鈍間: dimwit, simpleton, du…
+j	のんべえ	nonbee	「飲ん兵衛」のひらがな表記。
+j	の方に	nohoni	
+j	の様に	noyoni	
+j	ノウサギ	nosagi	哺乳綱・ウサギ目・ウサギ科・ノウサギ属に属する兎形…
+j	ノギス	nogisu	vernier caliper
+j	ノスリ	nosuri	タカ目タカ科ノスリ属に属する鳥の一種。学名:But…
+j	ノズル	nozuru	流体を勢いよく噴出させるように先端を細くした筒のよ…
+j	ノッチ	notchi	
+j	ノニオン	nonion	非イオン。
+j	ノパソ	nopaso	syllabic abbreviation of …
+j	ノベナ	nobena	
+j	ノベル	noberu	novel
+j	ノマド	nomado	nomad
+j	ノヤギ	noyagi	
+j	ノルウェー	noruwe	Norway (a country in Scan…
+j	ノルマ	noruma	quota
+j	ノルム	norumu	ベクトルの長さを一般化したもの。任意の付値体 K上…
+j	ノーガード	nogado	対策を何もしていないこと。無防備であること。
+j	ノークラ	nokura	「ノークラッチ」の略。
+j	ノーゲーム	nogemu	termination of a match be…
+j	ノーパソ	nopaso	syllabic abbreviation of …
+j	ノーフォーク	nofoku	Norfolk
+j	ノーブラ	nobura	bralessness; having no br…
+j	ノーベル	noberu	a transliteration of the …
+j	ノーマル	nomaru	normal
+j	ノーマーク	nomaku	not paying attention to a…
+j	ノーミス	nomisu	without mistakes
+j	上す	nobosu	to raise
+j	乗せる	noseru	give someone a ride
+j	乗り場	noriba	boarding place for an air…
+j	乗り手	norite	
+j	乗り気	noriki	interested, enthusiastic,…
+j	乗合	noriai	a meeting or encounter wh…
+j	伸	noburu	a male given name
+j	伸ばす	nobasu	to let something grow lon…
+j	伸びる	nobiru	to stretch, to extend, to…
+j	伸べる	noberu	to lengthen, to extend
+j	伸子	nobuko	a female given name
+j	信代	nobuyo	a female given name
+j	信子	nobuko	a female given name
+j	信郎	noburo	a male given name
+j	典子	noriko	a female given name
+j	宜子	nobuko	a female given name
+j	宣士	nobuji	a male given name
+j	展人	nobuto	a male given name
+j	希々加	nonoka	a female given name
+j	希々夏	nonoka	a female given name
+j	希々香	nonoka	a female given name
+j	希実	nozomi	a female given name
+j	希海	nozomi	a female given name
+j	希美	nozomi	a female given name
+j	幟	nobori	a long and narrow banner …
+j	延ばす	nobasu	to extend, to lengthen, t…
+j	延びる	nobiru	become longer; be extende…
+j	延べる	noberu	to delay; to postpone
+j	延べ棒	nobebo	金属を伸ばして棒状にしたもの。
+j	延代	nobuyo	a female given name
+j	延子	nobuko	a female given name
+j	惚気	noroke	going on about one's love
+j	憲子	noriko	a female given name
+j	教人	norito	a surname
+j	昇	noboru	a male given name
+j	昇る	noboru	
+j	暢子	nobuko	a female given name
+j	望	nozomu	a male given name
+j	望み	nozomi	hope, wish, desire
+j	望む	nozomu	
+j	望実	nozomi	a female given name
+j	望海	nozomi	a female given name
+j	望魅	nozomi	a female given name
+j	残す	nokosu	leave over, leave behind,…
+j	残り	nokori	remainder, rest, leftover…
+j	残る	nokoru	remain, be left
+j	法子	noriko	a female given name
+j	登	noboru	a male given name
+j	登る	noboru	
+j	直方	nogata	Nōgata (a city in Fukuoka…
+j	祝詞	norito	a prescribed set of forma…
+j	紀子	noriko	a female given name
+j	能書き	nogaki	薬品などの効能を記したもの。また、その言葉。効能書…
+j	能格	nokaku	ergative
+j	能楽	nogaku	a Noh play
+j	脳味噌	nomiso	brains
+j	脳汁	nojiru	endorphin or adrenaline
+j	脳磁図	nojizu	
+j	脳膜	nomaku	脳の表面を覆う膜。髄膜。
+j	規子	noriko	a female given name
+j	覗く	nozoku	
+j	載せる	noseru	load, carry
+j	農作	nosaku	agriculture
+j	農学	nogaku	agronomy
+j	農楽	nogaku	nong-ak
+j	農牧	noboku	農業と牧畜。
+j	農神	nogami	農作を守護する神。作神。田の神。
+j	農薬	noyaku	pesticide
+j	述べる	noberu	to express or state somet…
+j	逃す	nogasu	to let escape, let loose,…
+j	遺す	nokosu	
+j	野上	nogami	a surname
+j	野中	nonaka	a surname
+j	野原	nohara	land area; field (land fr…
+j	野呂瀬	norose	a surname
+j	野地子	nojiko	
+j	野坂	nosaka	a surname
+j	野宿	nojuku	野外で寝て夜を明かすこと。
+j	野山	noyama	fields and mountains
+j	野山羊	noyagi	
+j	野島	nojima	a surname
+j	野崎	nozaki	an area of Daitō, Ōsaka p…
+j	野放図	nohozu	arrogant, defiant
+j	野放途	nohozu	「野放図」の別表記。
+j	野方図	nohozu	「野放図」の別表記。
+j	野本	nomoto	a surname
+j	野村	nomura	a surname
+j	野沢	nozawa	a surname
+j	野点	nodate	an open-air tea ceremony
+j	野焼き	noyaki	field burning
+j	野猫	noneko	stray cat, alley cat
+j	野花	nobana	野に咲く花。
+j	野菊	nogiku	wild chrysanthemum (gener…
+j	野蒜	nobiru	Japanese garlic, Allium m…
+j	野蕗	nobuki	Adenocaulon himalaicum
+j	野路子	nojiko	Japanese yellow bunting, …
+j	野風呂	noburo	an outdoor bath, often at…
+j	野駒	nogoma	
+j	野鴨	nogamo	wild duck
+j	野鵐	nojiko	
+j	鈍間	noroma	dimwitted, slow
+j	長閑	nodoka	calm, peaceful
+j	除く	nozoku	
+j	順代	nobuyo	a female given name
+j	飲みサー	nomisa	表向きは健全な活動内容を掲げながら、実際には飲み会…
+j	飲み屋	nomiya	bar, pub
+j	飲ん兵衛	nonbee	大酒を飲む人。よく酒を飲む人。飲んだくれ。
+j	飲兵衛	nonbee	alcoholic, heavy drinker,…
+j	鵟	nosuri	eastern buzzard (Buteo ja…
+k	노가다	nogada	manual labourer
+k	노가리	nogari	idle chatter, chatting to…
+k	노가쿠	nogaku	
+k	노나다	nonada	Chungcheong, Hwanghae, an…
+k	노나라	nonara	the Lu, an ancient vassal…
+k	노네인	nonein	nonane
+k	노다지	nodaji	a rich vein, lode
+k	노댁	nodaek	wife
+k	노동	nodong	labor, especially industr…
+k	노랑	norang	yellow (colour)
+k	노랗다	norata	to be yellow
+k	노름	noreum	gambling
+k	노릇	noreut	role, part
+k	노리다	norida	to glare (at), to stare f…
+k	노릿이	norisi	
+k	노망	nomang	senile
+k	노부부	nobubu	
+k	노부인	nobuin	old lady, old woman
+k	노사미	nosami	늙은 사미.
+k	노상	nosang	always
+k	노서아	noseoa	Russia
+k	노선	noseon	line; route
+k	노시보	nosibo	
+k	노이즈	noijeu	
+k	노이해	noihae	being incomprehensible
+k	노장	nojang	나이가 많은 사람.
+k	노잼	nojaem	being not interesting, bo…
+k	노점	nojeom	
+k	노조비	nojobi	
+k	노출	nochul	exposure
+k	노킹	noking	
+k	노환	nohwan	the infirmities of old age
+k	노획	nohoek	capture in war
+k	녹각	nokgak	
+k	녹발	nokbal	녹색 머리카락, 또는 그런 머리카락을 가진 사…
+k	녹스	nokseu	
+k	녹아웃	nogaut	
+k	녹원	nokwon	
+k	녹육	nogyuk	
+k	녹음	nogeum	recording
+k	녹이다	nogida	to melt
+k	녹차	nokcha	green tea
+k	녹초	nokcho	
+k	녹화	nokhwa	recording (a video)
+k	논길	nongil	paddy path; footpath betw…
+k	논단	nondan	forum, platform, tribune
+k	논담	nondam	논하며 말하는 것.
+k	논란	nollan	controversy
+k	논문	nonmun	an academic publication (…
+k	논물	nonmul	논에 괴어 있는 물.
+k	논박	nonbak	
+k	논밭	nonbat	fields and rice paddies; …
+k	논술	nonsul	discourse; statement; enu…
+k	논쥐	nonjwi	ricefield rat (Rattus arg…
+k	논진	nonjin	
+k	놀란	nollan	
+k	놀람	nollam	
+k	놀이울	noriul	
+k	놋쇠	notsoe	brass
+k	농구	nonggu	basketball (sport)
+k	농노	nongno	serf (semifree peasant)
+k	농도	nongdo	
+k	농마	nongma	'녹말'의 북한말.
+k	농무	nongmu	thick fog
+k	농부	nongbu	peasant, farmer
+k	농사	nongsa	agriculture; farming
+k	농악	nongak	nong-ak
+k	농어	nongeo	sea bass, seabass, sea pe…
+k	농예	nongye	
+k	농요	nongyo	farmers' folk song
+k	농인	nongin	deaf person
+k	농주	nongju	
+k	농토	nongto	농사 짓는 땅.
+k	농후	nonghu	
+k	높새	nopsae	대한민국 태백산맥 부근에서 나타나는 건조하고 …
+k	높은	nopeun	'높다'의 관형사형.
+k	높음	nopeum	'높다'의 명사형.
+k	높이다	nopida	To raise or elevate.
+k	뇌물	noemul	bribe
+k	뇌산	noesan	fulminic acid
+k	뇌신	noesin	
+k	뇌실	noesil	
+k	뇌우일	noeuil	어떤 기간 중의 뇌우가 관측된 일 수(數)이다.
+k	뇌우코	noeuko	뇌우 통과 시 기압자기지(自記紙) 상에서 관측…
+k	뇌회	noehoe	
+e	no doubt	nodoubt	1 meaning
+e	no entry	noentry	1 meaning
+e	no gun ri	nogunri	1 meaning
+e	noctule	noctule	1 meaning
+e	nonagon	nonagon	1 meaning
+e	nonfree	nonfree	1 meaning
+e	nonstop	nonstop	1 meaning
+e	nonzero	nonzero	1 meaning
+e	norilsk	norilsk	1 meaning
+e	norwich	norwich	1 meaning
+e	nosegay	nosegay	1 meaning
+e	nostril	nostril	1 meaning
+e	notable	notable	1 meaning
+e	notepad	notepad	1 meaning
+e	nothing	nothing	1 meaning
+e	novella	novella	1 meaning
+e	novelty	novelty	2 meanings
+e	novi sad	novisad	1 meaning
+e	now that	nowthat	1 meaning
+e	nowhere	nowhere	2 meanings
+e	noxious	noxious	1 meaning
+j	のあそび	noasobi	野に出て植物を摘んだり、食事をして遊ぶこと。
+j	のうしゅく	noshuku	
+j	のうりょく	noryoku	能力: ability; faculty (to …
+j	のきてん	nokiten	soffit (underside of eave…
+j	のこし	nokoshi	「のこす」の連用形。
+j	のこった	nokotta	行司が取り組んでいる力士に発する掛け声。
+j	のそっと	nosotto	生物の動作が鈍重なさま。鈍いさま。
+j	のたまう	notamau	言うの丁寧語ないし尊敬語。
+j	のだち	nodachi	野立て。
+j	のだった	nodatta	used to explain the situa…
+j	のちに	nochini	後に: subsequently, later on
+j	のっかる	nokkaru	synonym of 乗る (noru)
+j	のっける	nokkeru	synonym of 乗せる (noseru)
+j	のっそり	nossori	生物の動作が鈍重なさま。鈍いさま。「のっそりと」と…
+j	のっとり	nottori	「のっとる」の連用形。
+j	のっとる	nottoru	乗り物に入り、その運行を強引に支配する。
+j	のっぱら	noppara	一面に草などの生えた広い平地。
+j	のっぺり	nopperi	being flat, unchanged
+j	のどあめ	nodoame	喉の炎症や咳・痰といった症状を抑えたり、清涼感を味…
+j	のどぶえ	nodobue	咽喉の気管が通る部分。
+j	のど飴	nodoame	
+j	のぶとい	nobutoi	very deep and full
+j	のべざお	nobezao	fishing rod made from a s…
+j	のべつ	nobetsu	endlessly
+j	のべ竿	nobezao	
+j	のほほん	nohohon	casually; nonchalantly
+j	のみうた	nomiuta	popular song sung at kara…
+j	のみくい	nomikui	飲むことと食うこと。飲食すること。
+j	のみち	nomichi	野中にある道。
+j	のみ行為	nomikoi	証券取引業者、商品仲買人などが注文所を通さず自分と…
+j	のらいぬ	norainu	飼い主がいない犬。
+j	のりあき	noriaki	憲章, 典明, 則昭, 儀介: a male gi…
+j	のりおり	noriori	乗り物に乗ったり降りたりすること。乗降。
+j	のりかえ	norikae	「のりかえる」の未然形及び連用形。
+j	のりじゅん	norijun	「規準」の特殊な読み方。同音類義語の基準との混同を…
+j	のり弁	noriben	redacted document with ce…
+j	のろし	noroshi	遠隔の者に至急で重要な連絡を知らせる際に火を焚いた…
+j	のんびり	nonbiri	carefree, at leisure, tra…
+j	ノイキャン	noikyan	
+j	ノイバラ	noibara	バラ目バラ科バラ亜科バラ属に属す落葉低木。学名: …
+j	ノイローゼ	noiroze	neurosis (mental disorder)
+j	ノウルーズ	nouruzu	
+j	ノカイドウ	nokaido	バラ目バラ科リンゴ属に属する落葉小高木の一種。学名…
+j	ノガイ語	nogaigo	ロシアスタヴロポリ地方、タゲスタン共和国、カラチャ…
+j	ノクターン	nokutan	静かな夜の気分を表す叙情的な曲。夜想曲。
+j	ノジシャ	nojisha	
+j	ノヂシャ	nojisha	
+j	ノノ点	nonoten	ditto mark (〃)
+j	ノマ点	nomaten	synonym of 同の字点 (dō no ji…
+j	ノリッジ	norijji	
+j	ノルウェイ	noruwei	
+j	ノレッジ	norejji	
+j	ノレバン	noreban	
+j	ノンケの	nonkeno	
+j	ノンデリ	nonderi	lack of tact
+j	ノンブル	nonburu	pagination (act of number…
+j	ノンポリ	nonpori	ノンポリティカル (nonpolitical) の…
+j	ノーイースター	noisuta	アメリカ合衆国北東部で冬に発生する、発達した温帯低…
+j	ノーカット	nokatto	uncut, full-length
+j	ノーギャラ	nogyara	without an appearance fee
+j	ノースベイ	nosubei	
+j	ノータイム	notaimu	deciding in no time flat
+j	ノープラン	nopuran	having no plan
+j	ノーベンバー	nobenba	十一月。
+j	ノームコア	nomukoa	
+j	ノールック	norukku	without looking
+j	乗っ切る	nokkiru	to overcome
+j	乗っ取り	nottori	
+j	乗っ取る	nottoru	to take possession of (by…
+j	乗り換え	norikae	transfer, change
+j	乗換え	norikae	
+j	伸亮	nobuaki	a male given name
+j	伸顕	nobuaki	a male given name
+j	信明	nobuaki	a male given name
+j	修光	nobuaki	a male given name
+j	典明	noriaki	a male given name
+j	則る	nottoru	to conform (to); to be in…
+j	則昭	noriaki	a male given name
+j	呑気な	nonkina	
+j	喉奥	nodooku	back of the throat
+j	喉当て	nodoate	
+j	埜口	noguchi	a surname
+j	展明	nobuaki	a male given name
+j	延べ竿	nobezao	
+j	延明	nobuaki	a male given name
+j	後に	nochini	subsequently, later on
+j	悩殺	nosatsu	dazzling men with beauty …
+j	暢明	nobuaki	a male given name
+j	残った	nokotta	used by a 行司 (gyōji, “ref…
+j	法面	norimen	（土木、建築） 土地について急な傾斜のある部分のこ…
+j	濃密	nomitsu	thick; rich (of colour, s…
+j	濃抹	nomatsu	濃い化粧。厚化粧。「抹」は「塗り付ける」の意。
+j	濃緑	noryoku	濃い緑色。ふかみどり。
+j	濃縮	noshuku	condensation, concentrati…
+j	狼煙	noroshi	smoke signal, skyrocket, …
+j	納骨	nokotsu	storage of cremated remai…
+j	能力	noryoku	ability; capability; capa…
+j	能動態	nodotai	active voice
+j	能天気	notenki	easy-going, thoughtless
+j	能弁家	nobenka	
+j	能無し	nonashi	とりえや技能がないこと。
+j	能率	noritsu	efficiency
+j	能筆	nohitsu	上手な字。また、字が上手なこと。また、上手な字を書…
+j	脳力	noryoku	記憶や判断、思考などをする頭脳が持つ力。
+j	脳病院	nobyoin	精神病院の俗称。
+j	脳直	nochoku	uninhibited
+j	脳細胞	nosaibo	brain cell
+j	脳腫瘍	noshuyo	頭蓋腔の内側にできる腫瘍の総称。
+j	脳足りん	notarin	愚か者、馬鹿者。阿呆。
+j	脳軟化	nonanka	「脳軟化症」を参照。
+j	農務省	nomusho	アメリカ合衆国の農業に関する行政を担う省庁。
+j	農夫症	nofusho	Peasant syndrome, farmer'…
+j	農奴制	nodosei	
+j	農学校	nogakko	戦前に農業従事者養成を行っていた学校。農業学校。農…
+j	農村部	nosonbu	rural district
+j	農業の	nogyono	
+j	農業科	nogyoka	大学や短期大学、専門学校に設置している農業に関する…
+j	農繁期	nohanki	農作業が忙しい時期。農期。
+j	農閑期	nokanki	農作業が暇な時期。閑月。
+j	野ウサギ	nousagi	
+j	野兎	nousagi	a hare (rabbit-like anima…
+j	野口	noguchi	a surname
+j	野槌	nozuchi	the goddess of grass and …
+j	野橋	nohashi	a surname
+j	野牡丹	nobotan	Melastoma candidum
+j	野良犬	norainu	stray dog; free-ranging d…
+j	野芝	noshiba	Zoysia japonica (Japanese…
+j	野芥子	nogeshi	sow thistle, Sonchus oler…
+j	野茨	noibara	Rosa multiflora
+j	野薊	noazami	Japanese thistle, Cirsium…
+j	飲み会	nomikai	drinking party
+j	飲めない	nomenai	
+k	노가이어	nogaieo	
+k	노가이인	nogaiin	
+k	노견	nogyeon	old dog
+k	노긋이	nogeusi	
+k	노기스	nogiseu	
+k	노끈	nokkeun	cord, string, rope
+k	노년	nonyeon	old age
+k	노느다	noneuda	to distribute (among), to…
+k	노닐다	nonilda	to stroll / wander about …
+k	노래기	noraegi	millipede
+k	노래미	noraemi	A greenling of species He…
+k	노력	noryeok	striving, making an effor…
+k	노련	noryeon	
+k	노르다	noreuda	to be yellow
+k	노르마	noreuma	norm, norma
+k	노리개	norigae	toy, plaything
+k	노리치	norichi	
+k	노리카에	norikae	갈아타기.
+k	노메달	nomedal	no medal
+k	노면	nomyeon	surface of the road; road
+k	노뼈	noppyeo	팔뚝에 있는 2개의 뼈 중 바깥의 가느다란 뼈.
+k	노성	noseong	
+k	노숙자	nosukja	homeless person
+k	노약자	noyakja	늙거나 약한 사람.
+k	노여움	noyeoum	anger, indignation
+k	노영	noyeong	
+k	노이로제	noiroje	neurosis; nervous breakdo…
+k	노인학	noinhak	gerontology
+k	노정	nojeong	
+k	노조원	nojowon	
+k	노지르	nojireu	a skylark which is close …
+k	노천	nocheon	outdoors
+k	노파심	nopasim	abundance of caution, exc…
+k	노하여	nohayeo	
+k	녹다운	nokdaun	권투에서 상대 선수에게 맞아 쓰러져 경기를 계…
+k	녹록	nongnok	수레가 굴러가는 소리. 또는 그 모양.
+k	녹말	nongmal	starch
+k	녹물	nongmul	금속의 녹이 우러난 물.
+k	녹색	noksaek	green (color)
+k	녹옥수	nogoksu	
+k	녹용	nogyong	사슴의 뿔 가운데 연한 것. 약재로 쓰임.
+k	녹주옥	nokjuok	
+k	녹턴	nokteon	조용한 밤의 분위기를 나타낸 서정적인 피아노곡.
+k	논다니	nondani	prostitute, courtesan (a …
+k	논설	nonseol	
+k	논점	nonjeom	point (in a discussion)
+k	논하다	nonhada	to discuss, to argue
+k	놀구다	nolguda	'놀리다'의 강원도 사투리.
+k	놀라다	nollada	to be surprised
+k	놀라운	nollaun	realis adnominal of 놀랍다 (…
+k	놀라움	nollaum	surprise; astonishment
+k	놀리다	nollida	to toy with; to tease, to…
+k	놀이감	norigam	North Korea standard spel…
+k	놀이터	noriteo	playground
+k	농단	nongdan	이익이나 권리를 독차지함을 이르는 말. 어떤 …
+k	농담	nongdam	joke, jest
+k	농민	nongmin	farmers; peasantry
+k	농산	nongsan	
+k	농새	nongsae	
+k	농약	nongyak	pesticide
+k	농업	nongeop	agriculture
+k	농원	nongwon	
+k	농학	nonghak	agronomy
+k	높낮이	nomnaji	high and low
+k	높직이	nopjigi	
+k	놓아 주다	noajuda	
+k	놓아두다	noaduda	to leave behind
+k	뇌관	noegwan	detonator (device used to…
+k	뇌동	noedong	
+k	뇌랗다	noerata	생기도 없이 몹시 노랗다.
+k	뇌설	noeseol	천둥 번개가 치고, 눈이 내리는 기상현상.
+k	뇌염	noeyeom	
+k	뇌전	noejeon	천둥과 번개를 아울러 이르는 말.
+k	뇌절	noejeol	똑같은 말이나 행동을 집착적으로 반복하여 상대…
+k	뇍이다	noegida	
+e	no longer	nolonger	1 meaning
+e	no, thanks	nothanks	1 meaning
+e	noah's ark	noahsark	1 meaning
+e	nobelium	nobelium	1 meaning
+e	nobility	nobility	2 meanings
+e	noble gas	noblegas	1 meaning
+e	noble rot	noblerot	1 meaning
+e	nobleman	nobleman	1 meaning
+e	nocturne	nocturne	1 meaning
+e	nomadize	nomadize	1 meaning
+e	nominate	nominate	1 meaning
+e	non-avian	nonavian	1 meaning
+e	non-lemma	nonlemma	1 meaning
+e	nonsense	nonsense	2 meanings
+e	nonuplet	nonuplet	1 meaning
+e	norimono	norimono	1 meaning
+e	normalcy	normalcy	1 meaning
+e	normally	normally	1 meaning
+e	normandy	normandy	1 meaning
+e	normcore	normcore	1 meaning
+e	north bay	northbay	1 meaning
+e	north sea	northsea	1 meaning
+e	northern	northern	1 meaning
+e	nose ring	nosering	2 meanings
+e	noseband	noseband	1 meaning
+e	nosedive	nosedive	3 meanings
+e	not at all	notatall	2 meanings
+e	notation	notation	2 meanings
+e	notebook	notebook	2 meanings
+e	noumenon	noumenon	1 meaning
+e	novelist	novelist	1 meaning
+e	november	november	1 meaning
+e	novgorod	novgorod	1 meaning
+e	novichok	novichok	1 meaning
+e	nowadays	nowadays	1 meaning
+j	のいちご	noichigo	バラ科の植物で山野に自生し、苺のような実をつけるも…
+j	のがれる	nogareru	危険や不快な状態を避けて遠ざかる。
+j	のきさき	nokisaki	end of eaves
+j	のきなみ	nokinami	line of eaves; row of eav…
+j	のけぞる	nokezoru	仰向けで後ろの方に反る。上体などが後ろに反り返る。
+j	のけもの	nokemono	仲間外れにされた人。
+j	のけ者	nokemono	pariah, outcast (person e…
+j	のこぎり	nokogiri	木材などを挽き切る道具。錬鉄を展延し、縁に細い歯を…
+j	のこのこ	nokonoko	nonchalantly, shamelessly
+j	のこらず	nokorazu	全部。すっかり。挙げて。
+j	のこりおおい	nokorioi	心残りである。残念だ。
+j	のこりが	nokoriga	居なくなった後に残ったその人の匂い。
+j	のこりび	nokoribi	燃えきらずに残っている火。
+j	のさのさ	nosanosa	悠然としているさま。
+j	のさばる	nosabaru	to domineer; to be rampant
+j	のそのそ	nosonoso	slowly, sluggishly
+j	のぞきま	nozokima	voyeur; peeping tom
+j	のぞきみ	nozokimi	こっそり覗いて見ること。
+j	のたうつ	notautsu	to be struck with pain
+j	のたくる	notakuru	体をくねらせて這う。
+j	のために	notameni	
+j	のちぞい	nochizoi	妻と離別または死別した男性がその後再婚した妻。後妻。
+j	のどくび	nodokubi	首の前面。喉と首。
+j	のどぐろ	nodoguro	synonym of あかむつ (akamutsu…
+j	のどびこ	nodobiko	口蓋垂。のどちんこ。
+j	のどぼね	nodobone	のどぼとけ。
+j	のどもと	nodomoto	喉の周辺。首の前のあたり。
+j	のどやか	nodoyaka	のどかな感じを与えるさま。
+j	のねずみ	nonezumi	人家に住みつかず山野に生息するねずみの総称。
+j	のびたき	nobitaki	スズメ目ツグミ科ノビタキ属に属する鳥の一種。学名:…
+j	のびのび	nobinobi	すくすく伸びるさま。
+j	のびやか	nobiyaka	伸び伸びするさま。
+j	のぶかず	nobukazu	信一: a male given name
+j	のぶすま	nobusuma	叩いた鳥肉と鯛の肉を茹で、それらと袋状にしたアワビ…
+j	のぶたか	nobutaka	信孝: a male given name
+j	のぶのり	nobunori	伸典: a male given name
+j	のぶはる	nobuharu	信治, 信春, 信晴, 信玄, 伸治, 恒治, 伸…
+j	のぶひこ	nobuhiko	伸彦, 信彦: a male given name
+j	のぶひさ	nobuhisa	伸久: a male given name
+j	のぶひと	nobuhito	信人, 永倫: a male given name
+j	のぶひろ	nobuhiro	宣宏, 宣浩, 延博, 信弘, 信博, 伸洋, 訓…
+j	のぶまさ	nobumasa	永将: a male given name
+j	のぶもり	nobumori	信護: a male given name
+j	のぶやす	nobuyasu	修康: a male given name
+j	のぶゆき	nobuyuki	伸之, 伸幸, 信行, 伸行, 信幸, 信之, 延…
+j	のほどに	nohodoni	
+j	のぼせる	noboseru	上せる: raise
+j	のぼりぼう	noboribo	climbing pole, a fixture …
+j	のませる	nomaseru	飲むように仕向ける。
+j	のみこみ	nomikomi	「のみこむ」の連用形。
+j	のみこむ	nomikomu	食べ物などを嚥下する。
+j	のみすぎ	nomisugi	「のみすぎる」の未然形及び連用形。
+j	のみすけ	nomisuke	大酒飲み。飲んだくれ。呑兵衛。
+j	のみにげ	nominige	飲食店で飲酒した代金を払わず逃げること。また、その…
+j	のみほす	nomihosu	すっかり飲みきる。飲み尽くす。
+j	のみみず	nomimizu	飲むための水。飲料となる水。
+j	のみもの	nomimono	飲用に供する液体。飲料水・ジュース・茶・酒など。
+j	のめのめ	nomenome	恥を恥とも思わないさま。恥ずかし気のないさま。
+j	のらくら	norakura	aimlessly, idly
+j	のらねこ	noraneko	飼い主がいない猫。
+j	のりえつ	norietsu	規悦: a male given name
+j	のりきる	norikiru	乗ったまま最後まで行く。
+j	のりくむ	norikumu	主に業務上の一員として船舶・航空機などに乗る。
+j	のりこむ	norikomu	乗り物などの中に入り込む。
+j	のりだす	noridasu	乗り出す: lean over; launch; …
+j	のりのり	norinori	in high spirits, in a goo…
+j	のりひで	norihide	祝秀: a male given name
+j	のりひと	norihito	憲人: a male given name
+j	のりひろ	norihiro	謙宏: a male given name
+j	のりふみ	norifumi	則文, 徳文: a male given name
+j	のりまさ	norimasa	規真, 典正, 規公, 規克, 規政, 規正: a…
+j	のりもの	norimono	勝負事に賭ける金品。かけもの。
+j	のりやす	noriyasu	儀康: a male given name
+j	のりゆき	noriyuki	典征, 謙如, 憲幸, 憲之, 範行, 範之, 敬…
+j	のろける	norokeru	色情に溺れる。
+j	のろじか	norojika	鯨偶蹄目反芻亜目シカ科シラオジカ亜科ノロジカ属に属…
+j	のろのろ	noronoro	slowly
+j	の中の	nonakano	
+j	ノガイ人	nogaijin	
+j	ノミネート	nomineto	nomination
+j	ノリッチ	noritchi	Norwich (a city and local…
+j	ノルウェーの	noruweno	
+j	ノルウェー語	noruwego	Norwegian language
+j	ノルニル	noruniru	《神話》 北欧神話に登場する運命の女神達で、「ノル…
+j	ノロジカ	norojika	鯨偶蹄目反芻亜目シカ科シラオジカ亜科ノロジカ属に属…
+j	ノンシュガー	nonshuga	
+j	ノンバンク	nonbanku	預貯金の受け入れを行わず融資を専門に行う事業者。貸…
+j	ノヴィアル	novuiaru	人工言語のひとつ。イェスペルセンによって創られた人…
+j	ノヴィサド	novisado	
+j	ノーカウント	nokaunto	to not count (in the scor…
+j	ノースリーブ	nosuribu	a sleeveless shirt
+j	ノーセンキュー	nosenkyu	no thank you; no thanks
+j	ノーバウンド	nobaundo	no-hopper
+j	ノーフォーク島	nofokuto	Norfolk Island (an extern…
+j	ノーブリーフ	noburifu	
+j	ノーマスク	nomasuku	rejection of wearing a ma…
+j	上りに	noborini	
+j	乗り出す	noridasu	to lean over, lean forward
+j	乗り切る	norikiru	to weather (e.g. a storm,…
+j	乗り物	norimono	vehicle (conveyance)
+j	乗り越す	norikosu	to ride past, ride beyond…
+j	乗り込む	norikomu	to get in (a vehicle); to…
+j	乗り逃げ	norinige	accepting a ride and then…
+j	乗組	norikumi	crew
+j	仰け反る	nokezoru	to bend back
+j	伸びやか	nobiyaka	comfortable, at ease, rel…
+j	伸び伸び	nobinobi	growing quickly
+j	伸久	nobuhisa	a male given name
+j	伸之	nobuyuki	a male given name
+j	伸典	nobunori	a male given name
+j	伸幸	nobuyuki	a male given name
+j	伸彦	nobuhiko	a male given name
+j	伸洋	nobuhiro	a male given name
+j	伸行	nobuyuki	a male given name
+j	信人	nobuhito	a male given name
+j	信博	nobuhiro	a male given name
+j	信孝	nobutaka	a male given name
+j	信宏	nobuhiro	a male given name
+j	信幸	nobuyuki	a male given name
+j	信広	nobuhiro	a male given name
+j	信廣	nobuhiro	a male given name
+j	信弘	nobuhiro	a male given name
+j	信彦	nobuhiko	a male given name
+j	信玄	nobuharu	a male given name
+j	信竹	nobutake	a male given name
+j	信行	nobuyuki	a male given name
+j	信護	nobumori	a male given name
+j	信長	nobunaga	a male given name
+j	修康	nobuyasu	a male given name
+j	儀康	noriyasu	a male given name
+j	典征	noriyuki	a male given name
+j	典計	norikazu	a male given name
+j	則一	norikazu	a male given name
+j	則博	norihiro	a male given name
+j	則文	norifumi	a male given name
+j	喉元	nodomoto	base of the throat
+j	宣和	nobukazu	a male given name
+j	宣宏	nobuhiro	a male given name
+j	宣浩	nobuhiro	a male given name
+j	延び延び	nobinobi	postponed, delayed, put o…
+j	延介	nobuyuki	a male given name
+j	延博	nobuhiro	a male given name
+j	徳広	norihiro	a male given name
+j	徳文	norifumi	a male given name
+j	惚気る	norokeru	go on fondly about one's …
+j	憲之	noriyuki	a male given name
+j	憲人	norihito	a male given name
+j	憲幸	noriyuki	a male given name
+j	憲広	norihiro	a male given name
+j	整鎮	nobuyasu	a male given name
+j	残り火	nokoribi	
+j	永倫	nobuhito	a male given name
+j	永将	nobumasa	a male given name
+j	祝秀	norihide	a male given name
+j	範之	noriyuki	a male given name
+j	範行	noriyuki	a male given name
+j	糊付け	norizuke	pasting
+j	紀基	norimoto	a male given name
+j	納品書	nohinsho	物品やサービスを買い手に納入した際に売り手が納入し…
+j	納室	noshitsu	妻を娶ること。
+j	納税者	nozeisha	taxpayer
+j	能動的	nodoteki	active (given to action)
+j	能天使	notenshi	キリスト教などの学派における、天使の階層の一つ。又…
+j	能楽堂	nogakudo	能楽や狂言を上演するため、能舞台や客席などを備えた…
+j	能鷹隠爪	noyoinso	wise man keeps some of hi…
+j	脳卒中	nosotchu	stroke, apoplexy
+j	脳室	noshitsu	脊椎動物の脳の内部にある空間で、脳脊髄液で満たされ…
+j	脳損傷	nosonsho	brain damage
+j	脳梗塞	nokosoku	a stroke; a cerebrovascul…
+j	脳水腫	nosuishu	「水頭症」を参照。
+j	脳科学	nokagaku	脳の仕組みや働きについて研究する学問。
+j	脳膜炎	nomakuen	「髄膜炎」のこと。
+j	脳血栓	nokessen	脳の動脈に血栓ができて血流が阻害され、それより先の…
+j	脳震盪	noshinto	cerebral concussion
+j	膿痂疹	nokashin	
+j	規悦	norietsu	a male given name
+j	規真	norimasa	a male given name
+j	覗き魔	nozokima	
+j	訓弘	nobuhiro	a male given name
+j	謙如	noriyuki	a male given name
+j	謙宏	norihiro	a male given name
+j	農大生	nodaisei	大学の農学部、農業大学、農科大学で農学を学ぶ大学生。
+j	農学部	nogakubu	農学の教授、研究を行う学部。
+j	農山村	nosanson	農村と山村。
+j	農林業	noringyo	農業と林業。
+j	農水産	nosuisan	agriculture and marine pr…
+j	農水省	nosuisho	Ministry Agriculture, For…
+j	逃れる	nogareru	escape
+j	野々村	nonomura	a surname
+j	野放図な	nohozuna	
+j	野沢菜	nozawana	nozawana (Japanese variet…
+j	野良猫	noraneko	stray cat; alley cat
+j	野苺	noichigo	wild strawberry (Fragaria…
+j	野衾	nobusuma	Monster, 妖怪 (yōkai), rese…
+j	野路菊	nojigiku	silver chrysanthemum, Chr…
+j	野鶲	nohitaki	
+j	野鼠	nonezumi	a field mouse, specifical…
+j	鋸	nokogiri	a saw (tool)
+j	飲み助	nomisuke	a person who likes to dri…
+j	飲み干す	nomihosu	drink up, gulp down, empt…
+j	飲み水	nomimizu	
+j	飲み物	nomimono	drink
+j	飲み込み	nomikomi	swallowing
+j	飲み込む	nomikomu	to swallow; to gulp down
+j	飲む人	nomuhito	
+j	麕鹿	norojika	roe deer, Capreolus capre…
+k	노갱이	nogaengi	crow, raven (bird)
+k	노경	nogyeong	
+k	노고지리	nogojiri	lark, skylark
+k	노골드	nogoldeu	no gold medal
+k	노근리	nogeulli	
+k	노닥이다	nodagida	('…과'가 나타나지 않을 때는 여럿임을 뜻하…
+k	노동자	nodongja	worker
+k	노란불	noranbul	
+k	노래집	noraejip	songbook, collection of s…
+k	노랭이	noraengi	물잠자리의 애벌레.
+k	노령	noryeong	
+k	노루글	norugeul	내용을 건너뛰며 띄엄띄엄 읽는 글.
+k	노르웨이	noreuwei	Norway (a country in Scan…
+k	노른어	noreuneo	예전에 스코틀랜드 셰틀랜드 제도, 오크니 제도…
+k	노른자	noreunja	yolk
+k	노리마키	norimaki	김밥.
+k	노병	nobyeong	veteran; old soldier
+k	노선도	noseondo	transit map
+k	노쇼족	nosyojok	예약을 해놓고 당일에 갑자기 예약을 취소하거나…
+k	노스 베이	noseubei	
+k	노엽다	noyeopda	to be enraged
+k	노예 제도	noyejedo	
+k	노트북	noteubuk	notebook (notebook comput…
+k	녹나다	nongnada	'녹슬다'.
+k	녹나무	nongnamu	camphor tree
+k	녹두죽	nokdujuk	
+k	녹려	nongnyeo	a title used for Xiongnu …
+k	녹신히	noksinhi	
+k	녹십자	noksipja	
+k	녹야원	nogyawon	
+k	녹음기	nogeumgi	recorder (e.g. tape recor…
+k	녹조류	nokjoryu	엽록소를 가지고 있어 녹색을 띤 조류의 일종.
+k	녹지대	nokjidae	
+k	녹진히	nokjinhi	
+k	논리학	nollihak	logic (as a field of stud…
+k	논쟁	nonjaeng	dispute, controversy, con…
+k	논증	nonjeung	proof
+k	논총	nonchong	
+k	놀거리	nolgeori	
+k	놀놀히	nollolhi	
+k	놀랍다	nollapda	to be surprising
+k	놀래다	nollaeda	to surprise, to scare (so…
+k	놀량	nollyang	opening song of 경기입창 (京畿立…
+k	놀림조	nollimjo	놀리는 것과 같은 말투나 태도.
+k	놀아나다	noranada	to fool around, to play a…
+k	놀이기구	norigigu	amusement park attraction
+k	놀이꾼	norikkun	player
+k	놈팡이	nompangi	할 일 없이 빈둥거리며 노는 남자나 또는 어떤…
+k	농구다	nongguda	to share, distribute
+k	농방	nongbang	'가구점'의 강원도 사투리.
+k	농사일	nongsail	
+k	농상	nongsang	농업과 양잠을 아울러 이르는 말.
+k	농양	nongyang	
+k	농장	nongjang	farm (a place where agric…
+k	농촌	nongchon	rural hamlet; a farm town
+k	농축	nongchuk	열매 등을 압축해서 즙을 만드는 것.
+k	농탕	nongtang	
+k	높아지다	nopajida	to be heightened or raise…
+k	높임말	nopimmal	respectful or honorific s…
+k	놓치다	notchida	to let something slip, to…
+k	뇌격	noegyeok	
+k	뇌성	noeseong	구름과 구름사이 또는 구름과 지상 물체사이에 …
+k	뇌우무리	noeumuri	뇌운 아래에서는 찬 공기덩이의 무게에 의하여 …
+k	뇌우세포	noeusepo	뇌우를 구성하고 있는 개개의 적란운.
+k	뇌줄기	noejulgi	
+e	no comment	nocomment	1 meaning
+e	no offense	nooffense	1 meaning
+e	no parking	noparking	1 meaning
+e	no problem	noproblem	2 meanings
+e	no smoking	nosmoking	1 meaning
+e	no worries	noworries	1 meaning
+e	no-fly zone	noflyzone	1 meaning
+e	nocturnal	nocturnal	2 meanings
+e	non-binary	nonbinary	1 meaning
+e	non-native	nonnative	1 meaning
+e	non-smoker	nonsmoker	1 meaning
+e	nonce word	nonceword	1 meaning
+e	nonillion	nonillion	1 meaning
+e	nonlinear	nonlinear	1 meaning
+e	nonpareil	nonpareil	1 meaning
+e	nonperson	nonperson	1 meaning
+e	nonprofit	nonprofit	2 meanings
+e	normality	normality	1 meaning
+e	norovirus	norovirus	1 meaning
+e	north pole	northpole	2 meanings
+e	north star	northstar	1 meaning
+e	north wind	northwind	1 meaning
+e	northeast	northeast	1 meaning
+e	northland	northland	1 meaning
+e	northwest	northwest	1 meaning
+e	norwegian	norwegian	3 meanings
+e	nosebleed	nosebleed	1 meaning
+e	nostalgia	nostalgia	1 meaning
+e	nostalgic	nostalgic	1 meaning
+e	notochord	notochord	1 meaning
+e	notorious	notorious	1 meaning
+e	notre dame	notredame	1 meaning
+j	のきした	nokishita	under eaves
+j	のぎつね	nogitsune	野狐: wild fox
+j	のざらし	nozarashi	野外に放置され風雨に晒されること。また、そのような…
+j	のぞきいろ	nozokiiro	やわらかな緑がかった青。甕覗。
+j	のちかた	nochikata	後程。
+j	のちざま	nochizama	後の時。
+j	のちほど	nochihodo	later
+j	のっぺらぼう	nopperabo	smooth
+j	のどごし	nodogoshi	口中に入れた飲食物が喉を通過すること。また、その時…
+j	ののしる	nonoshiru	汚い言葉を使い悪口を言う。
+j	のばしぼう	nobashibo	synonym of 長音符 (chōonpu, …
+j	のばなし	nobanashi	鳥獣や家畜を放し飼いにすること。
+j	のびしろ	nobishiro	potential / room for grow…
+j	のぶとし	nobutoshi	伸年: a male given name
+j	のぶみつ	nobumitsu	信光: a male given name
+j	のぶよし	nobuyoshi	信義: a male given name
+j	のべおくり	nobeokuri	遺体を火葬場や埋葬地まで見送ること。
+j	のみあかす	nomiakasu	夜通し酒を飲み続ける。
+j	のみしろ	nomishiro	飲んだ酒の代金。
+j	のりかえる	norikaeru	乗っている乗り物を降りて他の乗り物に乗る。
+j	のりこえる	norikoeru	物の上を越え向こう側へ行く。
+j	のりした	norishita	荷物をつけて運ぶ馬の鞍の下。その荷物。
+j	のりしろ	norishiro	物を張り付ける際にのりを付け、張る部分。
+j	のりちか	norichika	宣親: a male given name
+j	のりつぎ	noritsugi	「のりつぐ」の連用形。
+j	のりつぐ	noritsugu	目的地に行くまでにいくつかの乗り物に乗り換えて行く。
+j	のりよし	noriyoshi	仙好: a male given name
+j	のり弁当	noribento	bento whose rice is envel…
+j	のんこまげ	nonkomage	江戸時代に流行した男の結髪の一種。主として伊達衆な…
+j	のんだくれ	nondakure	「のんだくれる」の未然形及び連用形。
+j	のんびりや	nonbiriya	焦らずゆっくりしている人。
+j	の分だけ	nobundake	
+j	ノックする	nokkusuru	
+j	ノックアウト	nokkuauto	knockout
+j	ノックダウン	nokkudaun	knockdown
+j	ノナコサン	nonakosan	nonacosane
+j	ノナデカン	nonadekan	nonadecane
+j	ノナデセン	nonadesen	nonadecene
+j	ノノ字点	nonojiten	ditto mark (〃)
+j	ノビチョク	nobichoku	
+j	ノベライズ	noberaizu	小説化、映画やテレビドラマ、漫画といった表現形式で…
+j	ノルウェー人	noruwejin	a Norwegian person
+j	ノルウェー海	noruwekai	大西洋の北東部、東をノルウェー、南をグレートブリテ…
+j	ノルディック	norudikku	北欧の。
+j	ノルマンディー	norumandi	Normandy (an administrati…
+j	ノルム位相	norumuiso	ノルムから定まる位相。
+j	ノンシャラン	nonsharan	無頓着なさま。のんきなさま。なげやりなさま。
+j	ノーコメント	nokomento	no comment
+j	ノートパッド	notopaddo	メモを書き留めるためのノート。
+j	ノートブック	notobukku	a notebook (book)
+j	ノーネクタイ	nonekutai	ネクタイを着けないこと。
+j	ノーベリウム	noberiumu	nobelium
+j	ノーベル賞	noberusho	a Nobel Prize
+j	乗り上げる	noriageru	run aground
+j	乗り入れる	noriireru	to drive or ride into
+j	乗り換える	norikaeru	transfer, change (e.g., a…
+j	乗り越える	norikoeru	to climb over
+j	乗り鉄	noritetsu	railfan who likes to ride…
+j	仙好	noriyoshi	a male given name
+j	伸び上がる	nobiagaru	to reach up to
+j	伸年	nobutoshi	a male given name
+j	伸良	nobuyoshi	a male given name
+j	信光	nobumitsu	a male given name
+j	信敏	nobutoshi	a male given name
+j	喉自慢	nodojiman	声や歌唱力の良さを自慢すること。また、そのような人。
+j	宣親	norichika	a male given name
+j	徳美	noriyoshi	a male given name
+j	望み薄	nozomiusu	faint in prospect or dim …
+j	残して	nokoshite	
+j	納棺する	nokansuru	
+j	納骨堂	nokotsudo	
+j	罵り	nonoshiri	abuse, swearing, curse
+j	罵る	nonoshiru	to abuse (verbally); spea…
+j	能工巧匠	nokokosho	優れた大工や職人。
+j	能楽師	nogakushi	能楽を演目とする役者。職分。能役者。
+j	能登半島	notohanto	Noto Peninsula (a peninsu…
+j	脳の腐敗	nonofuhai	
+j	脳性麻痺	noseimahi	cerebral palsy
+j	脳溢血	noikketsu	「脳出血」のこと。
+j	脳神経	noshinkei	
+j	脳腐れ	noukusare	
+j	覗き穴	nozokiana	peephole (hole in a door …
+j	農学史	nogakushi	農学に関する歴史。農業史。
+j	農学生	nogakusei	大学（大学院）で農学を学ぶ学生。
+j	農学者	nogakusha	agronomist
+j	農業的	nogyoteki	農業に関するさま。
+j	野々口	nonoguchi	a surname
+j	野バリケン	nobariken	a Muscovy duck
+j	野天風呂	notenburo	an outdoor bath, often at…
+j	飲み代	nomishiro	drinking money
+j	飲み放題	nomihodai	all you can drink
+j	飲み明かす	nomiakasu	to drink the night away
+j	飲み止し	nomisashi	unfinished drink
+j	飲んだくれ	nondakure	drunkard
+k	노나데칸	nonadekan	
+k	노나코산	nonakosan	
+k	노던줄	nodeonjul	northern wild rice (Zizan…
+k	노동복	nodongbok	일할 때나 작업때 입는 옷.
+k	노란색	noransaek	yellow (color)
+k	노래방	noraebang	karaoke; noraebang
+k	노래하다	noraehada	to sing a song
+k	노랫말	noraenmal	synonym of 가사(歌詞) (gasa, …
+k	노릿하다	norithada	맛이나 냄새가 약간 노리다.
+k	노말지세	nomaljise	어떤 일이나 세력이 기운이 다해 더 이상 크게…
+k	노벨륨	nobellyum	nobelium
+k	노벨상	nobelsang	a Nobel Prize
+k	노비사드	nobisadeu	
+k	노쇼하다	nosyohada	to no-show
+k	노숙하다	nosukhada	to sleep in the open
+k	노워스티	nowoseuti	news
+k	노인의학	noinuihak	geriatrics (branch of med…
+k	노점차	nojeomcha	이슬점차로 순화.
+k	노크하다	nokeuhada	to knock
+k	노팅엄	notingeom	
+k	노화하다	nohwahada	to age
+k	녹녹히	nongnokhi	
+k	녹두전	nokdujeon	Korean mung bean pancake
+k	녹색의	noksaegui	
+k	녹슬다	nokseulda	쇠가 산화하여 빛이 변하다.
+k	녹옥석	nokokseok	
+k	녹음실	nogeumsil	recording studio
+k	녹음판	nogeumpan	
+k	녹주석	nokjuseok	
+k	녹즙기	nokjeupgi	
+k	녹청	nokcheong	구리의 표면에 녹이 슬어 생기는 푸른빛의 물질…
+k	논리적	nollijeok	logical, reasonable
+k	논문집	nonmunjip	essay collection; antholo…
+k	논스톱	nonseutop	자동차, 열차, 비행기가 중간에 서지 않고 목…
+k	논알코올	nonalkool	
+k	논의하다	nonuihada	to discuss (something)
+k	논평	nonpyeong	comment, remark
+k	놀란돌	nollandol	'부석'의 비표준어.
+k	놀러오다	nolleooda	to make a social call, vi…
+k	놈팽이	nompaengi	'놈팡이'의 비규범 표기.
+k	농구화	nongguhwa	
+k	농력	nongnyeok	the traditional lunisolar…
+k	농성	nongseong	sit-in, sit-down
+k	농치다	nongchida	좋은 말로 마음을 풀어 노그라지게 하다.
+k	농학자	nonghakja	agriculturist, agricultur…
+k	높임법	nopimbeop	'경어법'.
+k	뇌명	noemyeong	thunder
+e	no thank you	nothankyou	1 meaning
+e	nobel prize	nobelprize	1 meaning
+e	noblewoman	noblewoman	1 meaning
+e	nominalism	nominalism	1 meaning
+e	nominalize	nominalize	1 meaning
+e	nomination	nomination	1 meaning
+e	nominative	nominative	1 meaning
+e	nonacosane	nonacosane	1 meaning
+e	nonadecane	nonadecane	1 meaning
+e	nonexample	nonexample	1 meaning
+e	nonfiction	nonfiction	1 meaning
+e	nonkilling	nonkilling	1 meaning
+e	norrbotten	norrbotten	1 meaning
+e	north india	northindia	1 meaning
+e	north korea	northkorea	1 meaning
+e	north yemen	northyemen	1 meaning
+e	northerner	northerner	1 meaning
+e	noteworthy	noteworthy	1 meaning
+e	nothing but	nothingbut	1 meaning
+e	nottingham	nottingham	1 meaning
+e	nouakchott	nouakchott	1 meaning
+e	noun phrase	nounphrase	1 meaning
+e	nova scotia	novascotia	1 meaning
+e	now and then	nowandthen	1 meaning
+e	now or never	nowornever	1 meaning
+j	のうじこよみ	nojikoyomi	農事暦: farming calendar
+j	のこぎり歯	nokogiriha	
+j	のこりかす	nokorikasu	必要な部分を取った後に残った、不要な部分。
+j	のこりもの	nokorimono	残った物。
+j	のしあわび	noshiawabi	鮑の肉を薄く剥いで伸ばし、乾燥させたもの。当初は通…
+j	のしもち	noshimochi	搗き立ての餅を長方形に伸したもの。通常、切って食す…
+j	のぞきこむ	nozokikomu	顔を近付けたり、首を伸ばしたりして中を覗き見る。
+j	のぞきみる	nozokimiru	隙間や小さな穴からこっそり見る。
+j	のぞましい	nozomashii	ある物事の実現が願われる様。
+j	のぞみどおり	nozomidori	望み通り: as you wish
+j	のたまわく	notamawaku	おっしゃること（には）。いわく。
+j	のたれじに	notarejini	道端などで倒れたまま見守られることもなく死ぬこと。
+j	のちぞなえ	nochizonae	本隊の最後尾に待機し、後方からの追撃に備える軍勢。
+j	のちのち	nochinochi	これからあとのこと。将来。
+j	のっさのっさ	nossanossa	ゆっくりと歩くさま。「のっさのっさと」との形でも用…
+j	のっそのっそ	nossonosso	生物の動作が鈍重なさま。鈍いさま。「のっそのっそと…
+j	のどちんこ	nodochinko	口蓋垂の別称。
+j	のどぼとけ	nodobotoke	成人男子の喉のあたりある甲状軟骨が前に突出したもの…
+j	のびなやむ	nobinayamu	勢いなどがなかなか伸びずに停滞する。
+j	のべたてる	nobetateru	あれこれ盛んに述べる。頻りに述べる。
+j	のぼりざか	noborizaka	上りとなっている坂道。
+j	のぼりざる	noborizaru	漢字の部首「⾢」の呼称の一つ。
+j	のぼりばた	noboribata	（書画を書いた）縦長の布の片側と上部に竿を通し、標…
+j	のみぐすり	nomigusuri	口から飲む薬。内服薬。
+j	のみすぎる	nomisugiru	過度に飲み物や酒を飲む。
+j	のみなかま	nominakama	酒を飲む際にいつも一緒に飲む仲間。飲み友達。酒友。
+j	のみならず	nominarazu	as well as; not only … bu…
+j	のみのいち	nominoichi	フランスのパリ郊外で行われる古物市。
+j	のめりこむ	nomerikomu	to fall forwards and enter
+j	のりうつる	noriutsuru	to transfer (to a differe…
+j	のりまわす	norimawasu	乗り物に乗ってあちこちを走る。
+j	ノウゼンハレン	nozenharen	
+j	ノコギリエイ	nokogiriei	サカタザメ目ノコギリエイ科の構成種のこと。
+j	ノスタルジー	nosutaruji	異郷にいて故郷や幼い頃を懐かしむ気持ち。ノスタルジ…
+j	ノックノック	nokkunokku	knock-knock (knocking sou…
+j	ノットイコール	nottoikoru	「≠」の不等号。
+j	ノブゴロド	nobugorodo	
+j	ノベルゲーム	noberugemu	visual novel
+j	ノリリスク	noririsuku	
+j	ノロウイルス	norouirusu	norovirus
+j	ノンアルコール	nonarukoru	nonalcoholic
+j	ノンストップ	nonsutoppu	乗り物、航空機などが目的地までどこにも寄らずに行く…
+j	ノンバイナリー	nonbainari	non-binary, genderqueer
+j	ノヴォロシア	novoroshia	
+j	ノヴゴロド	novugorodo	
+j	ノークラッチ	nokuratchi	オートマチックトランスミッションの自動車でクラッチ…
+j	ノーサンプトン	nosanputon	Northampton (a large town…
+j	ノーザンパイク	nozanpaiku	
+j	ノースダコタ	nosudakota	North Dakota (a state in …
+j	ノートルダム	notorudamu	
+j	ノーマルラブ	nomarurabu	異性愛を題材とした作品のジャンル。
+j	ノールボッテン	norubotten	
+j	上り坂	noborizaka	uphill
+j	乗せること	noserukoto	
+j	乗りこなす	norikonasu	to manage skillfully, to …
+j	乗り過ごす	norisugosu	to miss one's stop (ridin…
+j	乗換駅	norikaeeki	interchange
+j	乗組員	norikumiin	member of the crew, crewm…
+j	伸び悩む	nobinayamu	show poor performance, un…
+j	凌霄葉蓮	nozenharen	
+j	呪われた	norowareta	
+j	喉ちんこ	nodochinko	uvula
+j	喉仏	nodobotoke	Adam's apple
+j	延べギセル	nobegiseru	a fully metallic pipe
+j	延べ煙管	nobegiseru	
+j	延煙管	nobegiseru	
+j	望ましい	nozomashii	desirable
+j	望み通り	nozomidori	the way one wishes, the w…
+j	納品物	nohinbutsu	
+j	能動分詞	nodobunshi	
+j	能動的な	nodotekina	
+j	脳下垂体	nokasuitai	間脳底部から垂下する内分泌腺。前葉と後葉に分けられ…
+j	脳軟化症	nonankasho	脳梗塞により血栓が詰まった動脈より先の組織が壊死し…
+j	蚤の市	nominoichi	flea market
+j	農事暦	nojikoyomi	farming calendar
+j	農本思想	nohonshiso	
+j	農林学校	noringakko	農業や林業に関する専門教育を行う学校。農業学校。農…
+j	農業学校	nogyogakko	農業に関する専門教育を行う学校。農学校。農林学校。
+j	農業機械	nogyokikai	農業で使用される機械の総称。
+j	農産物	nosanbutsu	agricultural product
+j	野垂れ死に	notarejini	dying on the roadside
+j	鋸歯	nokogiriba	鋸の歯。
+j	鋸草	nokogiriso	Siberian yarrow, Achillea…
+j	鋸鱏	nokogiriei	a sawfish (Pristidae spp.)
+k	노가지나무	nogajinamu	'노간주나무'의 북한말.
+k	노근하다	nogeunhada	
+k	노긋하다	nogeuthada	
+k	노나데케인	nonadekein	
+k	노나코세인	nonakosein	
+k	노닥대다	nodakdaeda	('…과'가 나타나지 않을 때는 여럿임을 뜻하…
+k	노대바람	nodaebaram	풍력계급의 명칭으로서 풍속 24,5m/s 이상…
+k	노동권	nodonggwon	노동 능력이 있는 사람이 사회에 노동 기회의 …
+k	노동당	nodongdang	
+k	노동법	nodongbeop	labour law
+k	노동절	nodongjeol	May Day; Labor Day
+k	노란 리본	noranribon	
+k	노랑벵	norangbeng	
+k	노랑색	norangsaek	'노란색'의 비규범 표기. 올바른 표기는 아니…
+k	노랑지다	norangjida	to be fertile
+k	노래책	noraechaek	
+k	노랫소리	noraetsori	singing, singing voice
+k	노려보다	noryeoboda	to stare fiercely at; to …
+k	노르보텐	noreuboten	
+k	노르웨이어	noreuweieo	Norwegian (language of No…
+k	노르웨이의	noreuweiui	
+k	노르웨이인	noreuweiin	노르웨이에 거주하는 민족. 대부분이 노르웨이어…
+k	노른자위	noreunjawi	yolk
+k	노름꾼	noreumkkun	gambler
+k	노름하다	noreumhada	돈이나 재물 따위를 걸고 주사위, 골패, 마작…
+k	노망하다	nomanghada	to become senile
+k	노미네이트	nomineiteu	
+k	노보로시야	noborosiya	
+k	노비초크	nobichokeu	
+k	노심초사	nosimchosa	(사자성어) 매우 애쓰며 속을 태운다.
+k	노안경	noangyeong	
+k	노예 무역	noyemuyeok	
+k	노인학대	noinhakdae	가정에서 노인에게 신체적 학대, 언어, 정서적…
+k	노적가리	nojeokgari	한데에 수북이 쌓아 둔 곡식 더미.
+k	노점온도	nojeomondo	
+k	노질노질	nojillojil	
+k	노처녀	nocheonyeo	spinster, old maid (unmar…
+k	노총각	nochonggak	old bachelor
+k	노출하다	nochulhada	to expose
+k	노코멘트	nokomenteu	
+k	노크노크	nokeunokeu	
+k	노퍽 섬	nopeokseom	
+k	녹갈색	nokgalsaek	
+k	녹과전	nokgwajeon	
+k	녹는띠	nokneuntti	눈이나 얼음상태의 강수가 녹아서 물의 상태로 …
+k	녹두나물	nokdunamul	sprouts of mung bean (as …
+k	녹신하다	noksinhada	
+k	녹실하다	noksilhada	
+k	녹아들다	nokadeulda	
+k	녹음하다	nogeumhada	
+k	녹진하다	nokjinhada	
+k	녹질하다	nokjilhada	
+k	녹회색	nokhoesaek	
+k	논리 학자	nollihakja	
+k	논우렁이	nonureongi	우렁잇과의 연체동물. 껍데기는 직경 3cm, …
+k	논쟁자	nonjaengja	
+k	놀놀하다	nollolhada	
+k	놀란흙	nollanheuk	한 번 파서 건드린 흙.
+k	놀랍게도	nollapgedo	
+k	놀래키다	nollaekida	
+k	놀면히	nolmyeonhi	
+k	농경	nonggyeong	agriculture, farming
+k	농구공	nonggugong	농구 경기에 쓰는 공.
+k	농구장	nonggujang	
+k	농구하다	nongguhada	to play basketball
+k	농사꾼	nongsakkun	farmer; peasant
+k	농사하다	nongsahada	to farm
+k	농산물	nongsanmul	An agricultural product o…
+k	농어촌	nongeochon	농촌과 어촌을 합쳐 부르는 말.
+k	농후하다	nonghuhada	thick; dense
+k	높은 지위	nopeunjiwi	
+k	높이뛰기	nopittwigi	
+k	높지거니	nopjigeoni	위치가 꽤 높은 모양.
+k	높직하다	nopjikhada	
+k	뇌우고기압	noeugogiap	뇌우에 동반하는 중규모고기압으로서 뇌운(雷雲)…
+k	뇌우권운	noeugwonun	강한 상승기류로 뇌운의 운정이 대류권계면까지 …
+k	뇌우난류	noeunanryu	뇌우안의 상승기류와 하강기류가 구름의 중층에 …
+k	뇌우스콜	noeuseukol	대류불안정으로 발생한 적란운에서 강수와 함께 …
+k	뇌정지	noejeongji	갑작스러운 당황이나 놀람으로 인해 생각이 멈추…
+k	뇌졸중	noejoljung	stroke (the loss of brain…
+k	뇌진탕	noejintang	
+k	뇌질환	noejilhwan	
+k	뇌피셜	noepisyeol	asserting one's opinion a…
+e	noctilucent	noctilucent	1 meaning
+e	noiselessly	noiselessly	1 meaning
+e	non-negative	nonnegative	1 meaning
+e	nonbeliever	nonbeliever	1 meaning
+e	nonetheless	nonetheless	1 meaning
+e	nonexistent	nonexistent	1 meaning
+e	nonmaskable	nonmaskable	1 meaning
+e	nonpositive	nonpositive	1 meaning
+e	nonsensical	nonsensical	1 meaning
+e	nonviolence	nonviolence	1 meaning
+e	north africa	northafrica	1 meaning
+e	north by east	northbyeast	1 meaning
+e	north by west	northbywest	1 meaning
+e	north dakota	northdakota	1 meaning
+e	north island	northisland	1 meaning
+e	north korean	northkorean	2 meanings
+e	northern min	northernmin	1 meaning
+e	northernize	northernize	1 meaning
+e	norway maple	norwaymaple	1 meaning
+e	nose-picking	nosepicking	1 meaning
+e	nosey parker	noseyparker	1 meaning
+e	nostradamus	nostradamus	1 meaning
+e	nothingness	nothingness	1 meaning
+e	nourishment	nourishment	1 meaning
+e	novorossiya	novorossiya	1 meaning
+e	novosibirsk	novosibirsk	1 meaning
+j	のうしゅくウラン	noshukuuran	濃縮ウラン: enriched uranium
+j	のきしのぶ	nokishinobu	ウラボシ科の常緑のシダ植物。やつめらん。しのぶぐさ。
+j	のぐちげら	noguchigera	キツツキ目キツツキ科ノグチゲラ属に属する鳥の一種。…
+j	のこりおしい	nokorioshii	名残惜しい、残念だ。
+j	のしかかる	noshikakaru	weigh upon, lie heavily u…
+j	のしぶくろ	noshibukuro	熨斗（熨斗鮑あるいはそれを模したもの）と（紅白の）…
+j	のどつづみ	nodotsuzumi	食欲がさかんな時にのどが鳴ること。
+j	のびちぢみ	nobichijimi	伸びることと縮むこと。
+j	のぼせ上がり	noboseagari	
+j	のぼりぐち	noboriguchi	階段や坂道などで登り始める場所。
+j	のままである	nomamadearu	
+j	のままでいる	nomamadeiru	
+j	のりおくれる	noriokureru	
+j	のりごこち	norigokochi	乗り物に乗った時の感じ。
+j	のりものよい	norimonoyoi	自動車や飛行機、船舶などに乗って、揺れなどで気分が…
+j	のんだくれる	nondakureru	to drink extremely heavily
+j	の近くに	nochikakuni	
+j	ノスタルジア	nosutarujia	nostalgia (longing for on…
+j	ノックスビル	nokkusubiru	
+j	ノックスヴィル	nokkusuviru	
+j	ノッチンガム	notchingamu	
+j	ノルウェーカエデ	noruwekaede	
+j	ノルウェー料理	noruweryori	ノルウェーの伝統的な料理。
+j	ノルウェー楓	noruwekaede	
+j	ノルウェー槭	noruwekaede	
+j	ノルウェー王国	noruweokoku	Kingdom of Norway (offici…
+j	ノルム空間	norumukukan	各元にノルムが定義されたベクトル空間。
+j	ノンセクション	nonsekushon	miscellany, generalist, (…
+j	ノンフィクション	nonfikushon	nonfiction
+j	ノヴァ・カホウカ	novakahouka	
+j	ノースオーガスタ	nosuogasuta	North Augusta (a city in …
+j	ノース・ヨークシャー	nosuyokusha	
+j	ノートパソコン	notopasokon	a notebook computer
+j	乗り物酔い	norimonoyoi	motion sickness
+j	凌霄花	nozenkazura	Chinese trumpet vine (Cam…
+j	喉を潤す	nodoouruosu	
+j	望まれない	nozomarenai	
+j	濃縮する	noshukusuru	
+j	濃縮ウラン	noshukuuran	enriched uranium
+j	熨斗袋	noshibukuro	paper packet with 熨斗 (nos…
+j	能事畢矣	nojiowareri	出来る限りのことはやり尽くしたという意。
+j	能率的	noritsuteki	仕事が無駄がなくはかどるさま。能率が良いさま。
+j	能面のような	nomennoyona	
+j	脳出血	noshukketsu	脳の血管が何らかの原因で破れ、脳内に出血する病気。…
+j	脳科学者	nokagakusha	脳科学を研究する科学者。
+j	農作物	nosakubutsu	crops, agricultural produ…
+j	農林水産	norinsuisan	農業と林業と水産業。
+j	農科大学	nokadaigaku	1886年から1919年までの帝国大学における分科…
+k	노그름히	nogeureumhi	
+k	노닥노닥	nodangnodak	
+k	노던 준주	nodeonjunju	
+k	노동력	nodongnyeok	생산이나 작업을 할 때 사람들을 투입시킬 수 …
+k	노동조합	nodongjohap	trade union
+k	노력하다	noryeokhada	to strive, to exert onese…
+k	노령화	noryeonghwa	
+k	노르망디	noreumangdi	
+k	노르웨이해	noreuweihae	
+k	노릴스크	norilseukeu	
+k	노바카호우카	nobakahouka	
+k	노새사슴	nosaesaseum	
+k	노스다코타	noseudakota	[~주(州)] North Dakota (a s…
+k	노아의 방주	noauibangju	
+k	노약자석	noyakjaseok	
+k	노출광	nochulgwang	
+k	노출증	nochuljeung	
+k	노트르담	noteureudam	
+k	노트패드	noteupaedeu	
+k	노틸러스	notilleoseu	
+k	녹내장	nongnaejang	
+k	녹녹하다	nongnokhada	
+k	녹는고도	nokneungodo	대기 중을 빙정이나 눈송이가 낙하할 때 이들이…
+k	녹는온도	nokneunondo	대기 중을 빙정이나 눈송이가 낙하할 때 물방울…
+k	녹록하다	nongnokhada	(주로 부정어와 함께 쓰여) 만만하다. 호락호…
+k	녹말당	nongmaldang	
+k	녹신대다	noksindaeda	'녹신거리다'.
+k	녹지지역	nokjijiyeok	
+k	녹진대다	nokjindaeda	'녹진거리다'.
+k	논리주의자	nollijuuija	logistician
+k	논바이너리	nonbaineori	non-binary
+k	놀라게 하다	nollagehada	
+k	놀이공원	norigongwon	amusement park
+k	놀이동산	noridongsan	amusement park
+k	농구 코트	nonggukoteu	
+k	농담하다	nongdamhada	to joke
+k	농땡이	nongttaengi	일하기를 싫어하여 요리요리 구실을 붙여 빈둥거…
+k	농마국수	nongmaguksu	'냉면'의 함경도 사투리.
+k	농밀하다	nongmilhada	to be dense; to be thick
+k	농사짓다	nongsajitda	
+k	농작물	nongjangmul	crops
+k	높은고음	nopeungoeum	(명사) '큰소리'의 북한말.
+k	뇌염모기	noeyeommogi	'작은빨간집모기'.
+k	뇌우저기압	noeujeogiap	발달한 뇌우고기압의 후면에 발생하여 선행하는 …
+k	뇌운강수	noeungangsu	적란운 등 뇌운으로부터 내리는 소낙성강수이다.
+k	뇌졸증	noejoljeung	stroke
+k	뇌종양	noejongyang	뇌, 뇌막, 뇌혈관, 뇌하수체, 머릿골 신경 …
+k	뇌중풍	noejungpung	뇌에 혈액 공급 문제로 사지의 마비, 언어 장…
+e	no matter what	nomatterwhat	1 meaning
+e	no pain, no gain	nopainnogain	1 meaning
+e	nocturnality	nocturnality	1 meaning
+e	nomenclature	nomenclature	1 meaning
+e	nonalcoholic	nonalcoholic	1 meaning
+e	noncommittal	noncommittal	1 meaning
+e	nonexistence	nonexistence	1 meaning
+e	nonlinearity	nonlinearity	1 meaning
+e	normal school	normalschool	1 meaning
+e	north america	northamerica	1 meaning
+e	north brabant	northbrabant	1 meaning
+e	north channel	northchannel	1 meaning
+e	north holland	northholland	1 meaning
+e	north pyongan	northpyongan	1 meaning
+e	north vietnam	northvietnam	1 meaning
+e	northeastern	northeastern	1 meaning
+e	northwestern	northwestern	1 meaning
+e	norwegian sea	norwegiansea	1 meaning
+e	notary public	notarypublic	1 meaning
+e	notification	notification	2 meanings
+e	nouveau riche	nouveauriche	1 meaning
+e	nova kakhovka	novakakhovka	1 meaning
+e	novaya zemlya	novayazemlya	1 meaning
+e	novokuznetsk	novokuznetsk	1 meaning
+e	novorossiysk	novorossiysk	1 meaning
+j	のうせきずいえき	nosekizuieki	脳脊髄液: cerebrospinal fluid
+j	のこぎりくず	nokogirikuzu	鋸で製材する際に出る木材の屑。おがくず。
+j	のこぎり波	nokogirinami	
+j	のこりずくな	nokorizukuna	残りが少ないさま。
+j	のさりのさり	nosarinosari	のさばるさま。横柄なさま。
+j	のしめとんぼ	noshimetonbo	トンボ目トンボ科アカネ属に属するとんぼの一種。学名…
+j	のそりのそり	nosorinosori	生物の動作が鈍重なさま。鈍いさま。「のそりのそりと…
+j	のちのつき	nochinotsuki	次の月。来月。
+j	のつかんむり	notsukanmuri	漢字の部首「⽖」の呼称の一つ。
+j	のらりくらり	norarikurari	lazily, aimlessly
+j	のんべんだらり	nonbendarari	何もしないで無駄に日にちや時間を費やすさま。
+j	ノウゼンカズラ	nouzenkazura	
+j	ノコギリザメ	nokogirizame	ノコギリザメ目ノコギリザメ科の構成種のこと。
+j	ノバスコシア	nobasukoshia	Nova Scotia (a province i…
+j	ノミナ・サクラ	nominasakura	神の名や称号を省略したもの。神聖名。
+j	ノミネートする	nominetosuru	
+j	ノンクレジット	nonkurejitto	A creditless title sequen…
+j	ノンファンジブル	nonfanjiburu	nonfungible
+j	ノーヒットノーラン	nohittonoran	野球・ソフトボールにおける投手の記録。一人の投手が…
+j	ノール゠パ・ド・カレー	norupadokare	
+j	上り方向に	noborihokoni	
+j	乗り組ませる	norikumaseru	
+j	伸るか反るか	norukasoruka	make or break, win or los…
+j	喉の渇き	nodonokawaki	
+j	喉黒青鵐	nodoguroaoji	
+j	望むところ	nozomutokoro	what one desires; what on…
+j	濃厚接触	nokosesshoku	伝染病に罹患した者と近距離で長時間同じ場所で過ごし…
+j	濃緑色	noryokushoku	濃い緑色。ふかみどり。こみどり。濃緑。
+j	納税義務者	nozeigimusha	課税要件の一つ。租税法の規定により租税を納付する義…
+j	能力主義	noryokushugi	
+j	脳脊髄液	nosekizuieki	cerebrospinal fluid
+j	農業大学	nogyodaigaku	農業系の単科大学。
+j	鋸鮫	nokogirizame	a sawshark
+j	飲みニケーション	nominikeshon	communication between peo…
+k	노근노근	nogeunnogeun	
+k	노글노글	nogeullogeul	
+k	노긋노긋	nogeunnogeut	
+k	노는계집	noneungyejip	술집이나 윤락가에서 몸을 파는 여자.
+k	노닥거리다	nodakgeorida	('…과'가 나타나지 않을 때는 여럿임을 뜻하…
+k	노동귀족	nodonggwijok	
+k	노동시장	nodongsijang	
+k	노동자당	nodongjadang	
+k	노동재해	nodongjaehae	
+k	노랑멧새	norangmetsae	
+k	노래부르다	noraebureuda	
+k	노류장화	noryujanghwa	(사자성어) 길가의 버드나무나 담장의 꽃을 빗…
+k	노르께하다	noreukkehada	곱지도 짙지도 않게 노르다.
+k	노른자색	noreunjasaek	노른자색처럼 진한 노란색.
+k	노름노름	noreumnoreum	'노릇노릇'.
+k	노바스코샤	nobaseukosya	[~주(州)] Nova Scotia (a pr…
+k	노브고로드	nobeugorodeu	
+k	노상강도	nosanggangdo	highwayman
+k	노심 용해	nosimyonghae	
+k	노천광	nocheongwang	opencast mine, open-pit m…
+k	녹는점	nongneunjeom	
+k	녹말효소	nongmalhyoso	
+k	녹색신호	noksaeksinho	
+k	녹색조류	noksaekjoryu	
+k	녹신녹신	noksinnoksin	
+k	녹실녹실	noksilloksil	
+k	녹을 먹다	nogeulmeokda	"to eat an official's sal…
+k	녹조식물	nokjosingmul	'녹조류'.
+k	녹진녹진	nokjinnokjin	
+k	녹질녹질	nokjillokjil	
+k	녹황색	nokhwangsaek	
+k	논병아리	nonbyeongari	A grebe.
+k	논쟁점	nonjaengjeom	point in dispute, controv…
+k	논쟁하다	nonjaenghada	to dispute; to controvert
+k	놀면하다	nolmyeonhada	보기 좋을 만큼 알맞게 노르스름하다.
+k	농경지	nonggyeongji	
+k	농공가무	nonggonggamu	
+k	농구 선수	nongguseonsu	
+k	농업기술	nongeopgisul	농업에 적용하는 방식.
+k	높날림눈	nomnallimnun	(기상학) 강한 바람으로 쌓였던 눈이 사람의 …
+k	뇌동부화	noedongbuhwa	
+k	뇌성 마비	noeseongmabi	
+k	뇌수막염	noesumagyeom	
+e	no trespassing	notrespassing	1 meaning
+e	noli me tangere	nolimetangere	1 meaning
+e	non-finite verb	nonfiniteverb	1 meaning
+e	nook and cranny	nookandcranny	1 meaning
+e	noradrenaline	noradrenaline	1 meaning
+e	norfolk island	norfolkisland	1 meaning
+e	normalization	normalization	1 meaning
+e	normally black	normallyblack	1 meaning
+e	normally white	normallywhite	1 meaning
+e	north atlantic	northatlantic	1 meaning
+e	north carolina	northcarolina	1 meaning
+e	north caucasus	northcaucasus	1 meaning
+e	north hamgyong	northhamgyong	1 meaning
+e	north hwanghae	northhwanghae	1 meaning
+e	northern ladle	northernladle	1 meaning
+j	のこりすくない	nokorisukunai	残っている物・数量・時間などが少ない。
+j	のぼりつめる	noboritsumeru	登れるところまで登り切る。
+j	のまたかんむり	nomatakanmuri	漢字の部首「⼡」の呼称の一つ。
+j	のみともだち	nomitomodachi	酒を飲む際にいつも一緒に飲む仲間。飲み仲間。酒友。
+j	ノアの方舟	noanohakobune	Noah's Ark
+j	ノアの箱舟	noanohakobune	
+j	ノスタルジック	nosutarujikku	郷愁を感じるまたは感じさせるさま。
+j	ノリ・メ・タンゲレ	norimetangere	
+j	ノルム収束	norumushusoku	ノルム位相に対する収束。強収束。
+j	ノンポリティカル	nonporitikaru	政治と無縁なさま。政治にかかわろうとしないさま。
+j	ノヴォロシースク	novoroshisuku	
+j	ノーアクションレター	noakushonreta	法令適用事前確認書面、特定の行為が、法令に抵触しな…
+j	ノーザンテリトリー	nozanteritori	Northern Territory (a ter…
+j	ノースカロライナ	nosukaroraina	North Carolina (a state o…
+j	ノーヒットアリラン	nohittoariran	（俗語）野球における投手の記録。一人の投手が安打を…
+j	ノーマライゼーション	nomaraizeshon	正常化。
+j	ノーマリーブラック	nomariburakku	
+j	ノーマリーホワイト	nomarihowaito	
+j	乗合タクシー	noriaitakushi	
+j	乗合自動車	noriaijidosha	bus; omnibus
+j	伸ばしすぎる	nobashisugiru	
+j	喉が渇いた	nodogakawaita	
+j	喉元思案	nodomotoshian	非常に浅はかな考え。
+j	望みを託す	nozomiotakusu	to place one's hopes in
+j	濃黄緑色	nooryokushoku	
+j	脳を打ち砕く	noouchikudaku	
+j	脳漿を絞る	noshooshiboru	rack one's brains
+j	脳脊髄膜	nosekizuimaku	脳、脊髄を覆う膜。外側から硬膜、蜘蛛膜、軟膜の三層…
+j	野原鶇	noharatsugumi	
+k	노그름하다	nogeureumhada	
+k	노긋노긋이	nogeunnogeusi	
+k	노동계급	nodonggyegeup	the working class
+k	노동삼권	nodongsamgwon	노동자의 인간다운 생활을 보장하기 위해 법에 …
+k	노동조합비	nodongjohapbi	union dues
+k	노랑발도요	norangbaldoyo	
+k	노랑벤자리	norangbenjari	농어과의 물고기. 몸의 길이는 약 25cm이고…
+k	노로바이러스	norobaireoseu	
+k	노르웨이 사람	noreuweisaram	
+k	노리치근히	norichigeunhi	
+k	노박덩굴	nobakdeonggul	Asian bittersweet (Celast…
+k	노상방뇨	nosangbangnyo	
+k	노스 해협	noseuhaehyeop	
+k	노스탤지어	noseutaeljieo	
+k	노인병학	noinbyeonghak	geriatrics (branch of med…
+k	녹색맹	noksaengmaeng	
+k	녹신거리다	noksingeorida	맥이 빠져 자꾸 나른하게 되다.
+k	녹음방초	nogeumbangcho	녹음(綠陰)과 향기로운 풀.
+k	녹의홍상	noguihongsang	
+k	녹진거리다	nokjingeorida	물기가 약간 있어 녹녹하면서 끈적거리다.
+k	녹청색	nokcheongsaek	초록빛을 띤 파란색.
+k	논쟁되다	nonjaengdoeda	to be disputed; to be con…
+k	놋쇠 황소	notsoehwangso	
+k	농사계절	nongsagyejeol	농작물의 종류 및 장소, 기후조건에 의해 결정…
+k	높직높직	nopjingnopjik	
+k	뇌척수액	noecheoksuaek	
+e	noblesse oblige	noblesseoblige	1 meaning
+e	nobody's perfect	nobodysperfect	1 meaning
+e	noise pollution	noisepollution	1 meaning
+e	nominalization	nominalization	1 meaning
+e	nominative case	nominativecase	1 meaning
+e	non-refoulement	nonrefoulement	1 meaning
+e	nonrepudiation	nonrepudiation	1 meaning
+e	noonan syndrome	noonansyndrome	1 meaning
+e	nordic combined	nordiccombined	1 meaning
+e	norepinephrine	norepinephrine	1 meaning
+e	north macedonia	northmacedonia	1 meaning
+e	north yorkshire	northyorkshire	1 meaning
+e	north-northeast	northnortheast	1 meaning
+e	north-northwest	northnorthwest	1 meaning
+e	northern cyprus	northerncyprus	1 meaning
+e	northern europe	northerneurope	1 meaning
+e	northern gannet	northerngannet	1 meaning
+e	northern lights	northernlights	1 meaning
+e	northern shrike	northernshrike	1 meaning
+e	not only … but also	notonlybutalso	1 meaning
+e	novemdecillion	novemdecillion	1 meaning
+j	のぞきからくり	nozokikarakuri	大きな箱の中に数枚の絵を入れ、両側からその絵を節を…
+j	のたうちまわる	notauchimawaru	苦しみ、踠いて転げ回る。痛みで転げ回る。のたうつ。
+j	のっぴきならない	noppikinaranai	あとに引けない。どうにも動きがとれない。
+j	のみとりまなこ	nomitorimanako	非常に小さな蚤を取る時のように、どんなものも見逃さ…
+j	のんびりとした	nonbiritoshita	
+j	ノストラダムス	nosutoradamusu	Nostradamus
+j	ノルアドレナリン	noruadorenarin	
+j	ノルエピネフリン	noruepinefurin	norepinephrine
+j	ノヴァヤゼムリャ	novuayazemurya	
+j	ノースチャールストン	nosucharusuton	North Charleston (a city …
+j	ノーブレークスペース	noburekusupesu	
+j	嚢胞性線維症	nohoseisenisho	
+j	暖簾に腕押し	norenniudeoshi	having no effect
+j	望ましくない	nozomashikunai	
+j	法の皇	norinosuberagi	a retired emperor who bec…
+j	能面のような顔	nomennoyonakao	deadpan face
+j	農林水産業	norinsuisangyo	農業と林業と水産業。
+j	農林水産省	norinsuisansho	農業、林業、水産業に関する業務を行う日本の中央省庁。
+j	農業高等学校	nogyokotogakko	農業に関する課程を設置する高等学校。農高。
+k	노글노글히	nogeullogeulhi	
+k	노냥노냥	nonyangnonyang	
+k	노동수용소	nodongsuyongso	
+k	노동조합원	nodongjohabwon	union member (member of a…
+k	노랑지빠귀	norangjippagwi	
+k	노랑할미새	noranghalmisae	
+k	노래방 기계	noraebanggigye	
+k	노르딕 복합	noreudikbokhap	
+k	노면전차	nomyeonjeoncha	a tram, a streetcar (pass…
+k	노미네이트하다	nomineiteuhada	
+k	노보로시스크	noborosiseukeu	
+k	노승발검	noseungbalgeom	
+k	노점편차	nojeompyeoncha	이슬점차로 순화.
+k	노질노질하다	nojillojilhada	
+k	노착지근히	nochakjigeunhi	
+k	녹색식물	noksaeksingmul	엽록소를 포함해 초록색을 띠는 식물.
+k	녹음방송	nogeumbangsong	
+k	녹화방송	nokhwabangsong	
+k	높직높직이	nopjingnopjigi	
+e	no man is an island	nomanisanisland	1 meaning
+e	nonconsolidated	nonconsolidated	1 meaning
+e	noninterference	noninterference	1 meaning
+e	nord-pas-de-calais	nordpasdecalais	1 meaning
+e	nordic countries	nordiccountries	1 meaning
+e	north china plain	northchinaplain	1 meaning
+e	north gyeongsang	northgyeongsang	1 meaning
+e	northeast by east	northeastbyeast	1 meaning
+e	northern fur seal	northernfurseal	1 meaning
+e	northern goshawk	northerngoshawk	1 meaning
+e	northern hawk owl	northernhawkowl	1 meaning
+e	northern ireland	northernireland	1 meaning
+e	northern lapwing	northernlapwing	1 meaning
+e	northern ndebele	northernndebele	1 meaning
+e	northern pintail	northernpintail	1 meaning
+e	northwest by west	northwestbywest	1 meaning
+e	now you're talking	nowyouretalking	1 meaning
+e	nozawaonsen-mura	nozawaonsenmura	1 meaning
+j	ノナトリアコンタン	nonatoriakontan	nonatriacontane
+j	ノバスコシア州	nobasukoshiashu	
+j	ノブレス・オブリージュ	noburesuoburiju	
+j	ノボシビルスク	noboshibirusuku	
+j	ノルディック複合	norudikkufukugo	
+j	ノンバイナリージェンダー	nonbainarijenda	synonym of ノンバイナリー (nonba…
+j	ノヴォクズネツク	novokuzunetsuku	
+j	ノヴォシビルスク	novoshibirusuku	Novosibirsk (a city, the …
+j	ノースキングスタウン	nosukingusutaun	North Kingstown
+j	乗り掛かった船	norikakattafune	事を始めたからには、後戻りはできないということ。
+j	喉黒鶫	nodogurotsugumi	
+j	濃厚接触者	nokosesshokusha	感染症に罹患した者と濃厚接触を行ったとして保健所か…
+j	濃黄緑色の	nooryokushokuno	
+j	罵り言葉	nonoshirikotoba	
+j	脳脊髄膜炎	nosekizuimakuen	脳、脊髄の膜に起こる炎症。細菌やウイルスの感染によ…
+j	述而不作	nobetetsukurazu	先のことを口承するだけで、新説を立てないこと。
+j	野沢温泉村	nozawaonsenmura	Nozawaonsen-mura (a villa…
+k	노닥노닥하다	nodangnodakhada	
+k	노동자 계급	nodongjagyegeup	
+k	노동조합주의	nodongjohapjuui	
+k	노루발못뽑이	norubalmotppobi	
+k	노르끄레하다	noreukkeurehada	곱지 않고 엷게 노르다.
+k	노르대대하다	noreudaedaehada	산뜻하지 못하고 좀 천박하게 노르스름하다.
+k	노르웨이 왕국	noreuweiwangguk	
+k	노르족족하다	noreujokjokhada	칙칙하고 고르지 않게 노르스름하다.
+k	노르퇴퇴하다	noreutoetoehada	너저분해 보일 정도로 탁하게 노르스름하다.
+k	노리치근하다	norichigeunhada	'노리착지근하다'의 준말.
+k	노멀리 화이트	nomeollihwaiteu	
+k	노바야 제믈랴	nobayajemeullya	
+k	노바야제믈랴	nobayajemeullya	
+k	노예로 만들다	noyeromandeulda	
+k	농땡이꾼	nongttaengikkun	일하기를 싫어하여 요리요리 구실을 붙여 빈둥거…
+k	농발거미과	nongbalgeomigwa	
+k	높날림먼지	nopnalrimmeonji	강한 바람으로 먼지나 모래가 사람의 키보다 높…
+k	뇌우전하분리	noeujeonhabunri	뇌운 안에서 불꽃방전을 반복하는데 충분한 전하…
+e	no news is good news	nonewsisgoodnews	1 meaning
+e	non-avian dinosaur	nonaviandinosaur	1 meaning
+e	non-breaking space	nonbreakingspace	1 meaning
+e	non-fungible token	nonfungibletoken	1 meaning
+e	north chungcheong	northchungcheong	1 meaning
+e	northeast by north	northeastbynorth	1 meaning
+e	northern bobwhite	northernbobwhite	1 meaning
+e	northern cardinal	northerncardinal	1 meaning
+e	northern sea route	northernsearoute	1 meaning
+e	northern shoveler	northernshoveler	1 meaning
+e	northern wheatear	northernwheatear	1 meaning
+e	northwest by north	northwestbynorth	1 meaning
+e	northwest passage	northwestpassage	1 meaning
+j	のこぎりくわがた	nokogirikuwagata	甲虫目クワガタムシ科ノコギリクワガタ属に属するくわ…
+j	のべつまくなし	nobetsumakunashi	芝居で途中幕を引くことなく引き続き演技すること。
+j	のべつ幕無し	nobetsumakunashi	endlessly
+j	ノイズキャンセリング	noizukyanseringu	noise-cancelling
+j	ノンフィクション作家	nonfikushonsakka	ノンフィクションを書く作家。
+j	ノースウエスト準州	nosuwesutojunshu	
+j	ノースカロライナ州	nosukarorainashu	the full form of ノースカロライナ…
+j	喉から手が出る	nodokarategaderu	ある物が欲しくて堪らないこと。
+j	喉白虫喰	nodojiromushikui	
+j	能動欠如動詞	nodoketsujodoshi	
+j	農業協同組合	nogyokyodokumiai	農業協同組合法に基づき農業を営む個人、法人によって…
+k	노근노근하다	nogeunnogeunhada	
+k	노글노글하다	nogeullogeulhada	
+k	노긋노긋하다	nogeunnogeuthada	
+k	노동계급화	nodonggyegeuphwa	becoming the working clas…
+k	노래춤묶음	noraechummukkeum	'노래와 춤을 섞어서 하는 공연(버라이어티쇼)…
+k	노르스름하다	noreuseureumhada	조금 노르다.
+k	노름노름하다	noreumnoreumhada	
+k	노릇노릇하다	noreunnoreuthada	yellowish; golden
+k	노리착지근히	norichakjigeunhi	
+k	노멀리 블랙	nomeollibeullaek	
+k	노스캐롤라이나	noseukaerollaina	[~주(州)] North Carolina (a…
+k	노착지근하다	nochakjigeunhada	'노리착지근하다'의 준말.
+k	녹색성장	noksaekseongjang	
+k	녹신녹신하다	noksinnoksinhada	
+k	녹실녹실하다	noksilloksilhada	
+k	녹진녹진하다	nokjinnokjinhada	
+k	녹질녹질하다	nokjillokjilhada	
+k	농림토양학	nongnimtoyanghak	
+k	농업기상학	nongeopgisanghak	농업과 기상과의 관계를 연구하는 응용기상학의 …
+k	농업기후구분	nongeopgihugubun	농업기후조건에 따라 지역들을 나눈 구분.
+k	높은음자리표	nopeuneumjaripyo	treble clef, 𝄞
+k	높이뛰기 선수	nopittwigiseonsu	
+k	뇌르끄레하다	noereukkeurehada	곱지 아니하고 엷게 뇌랗다.
+k	뇌엽 절제술	noeyeopjeoljesul	
+e	nocturnal emission	nocturnalemission	1 meaning
+e	noise cancellation	noisecancellation	1 meaning
+e	northern snakehead	northernsnakehead	1 meaning
+e	northern territory	northernterritory	1 meaning
+j	ノンファンジブルトークン	nonfanjiburutokun	non-fungible token
+j	農林水産大臣	norinsuisandaijin	農林水産省の長たる国務大臣。
+k	노란개암버섯	norangaeambeoseot	
+k	노랑가슴담비	noranggaseumdambi	
+k	노랑부리백로	norangburibaengno	The Chinese egret, Egrett…
+k	노래 연습장	noraeyeonseupjang	
+k	노르끄름하다	noreukkeureumhada	조금 어둡게 노르스름하다.
+k	노르칙칙하다	noreuchikchikhada	산뜻하지 않고 짙게 노랗다.
+k	노보시비르스크	nobosibireuseukeu	Novosibirsk (an oblast of…
+k	노스캐럴라이나	noseukaereollaina	[~주(州)] alternative form …
+k	노스트라다무스	noseuteuradamuseu	
+k	노출증 환자	nochuljeunghwanja	
+k	녹색어머니회	noksaegeomeonihoe	
+k	농업기상예보	nongeopgisangyebo	농업생산성을 높이기 위해서 작물생육에 따라 적…
+k	높으락낮으락	nopeurangnajeurak	
+k	높직높직하다	nopjingnopjikhada	
+e	no smoke without fire	nosmokewithoutfire	1 meaning
+e	noble eightfold path	nobleeightfoldpath	1 meaning
+e	northern hemisphere	northernhemisphere	1 meaning
+e	norwegian forest cat	norwegianforestcat	1 meaning
+j	ノートルダム大聖堂	notorudamudaiseido	
+j	喉が渇いています	nodogakawaiteimasu	
+k	노그라떨어지다	nogeuratteoreojida	'곯아떨어지다'의 북한말.
+k	노랑부리까마귀	norangburikkamagwi	
+k	노랑부리저어새	norangburijeoeosae	The Eurasian spoonbill, P…
+k	노리착지근하다	norichakjigeunhada	노린 냄새가 조금 나는 듯하다.
+k	노보씨비르스크	nobossibireuseukeu	러시아의 주와 도시 이름 '노보시비르스크'의 …
+k	노보쿠즈네츠크	nobokujeunecheukeu	
+k	노스웨스트 준주	noseuweseuteujunju	Northwest Territories (a …
+e	northeast china plain	northeastchinaplain	1 meaning
+e	northern territories	northernterritories	1 meaning
+j	ノン・ルフールマン原則	nonrufurumangensoku	
+j	残り物に福あり	nokorimononifukuari	残り物には福があるの別形。
+j	能無し犬の高吠え	nonashiinunotakaboe	barking dogs seldom bite,…
+k	노랑머리할미새	norangmeorihalmisae	citrine wagtail
+k	노르댕댕하다	noreudaengdaenghada	고르지 않게 노르스름하다.
+k	녹색혁명	noksaekhyeongmyeong	
+e	non-euclidean geometry	noneuclideangeometry	1 meaning
+e	north rhine-westphalia	northrhinewestphalia	1 meaning
+e	northwest territories	northwestterritories	1 meaning
+j	ノースウェストテリトリーズ	nosuwesutoteritorizu	カナダ北部の中央にある準州。州都はイエローナイフ。
+k	노동계급화하다	nodonggyegeuphwahada	to becoming the working c…
+k	노랑눈썹멧새	norangnunsseommetsae	
+k	노랑눈썹솔새	norangnunsseopsolsae	
+k	노블레스 오블리주	nobeulleseuobeulliju	
+k	높은 곳 공포증	nopeungotgongpojeung	synonym of 고소공포증(高所恐怖症) (…
+j	ノルトライン゠ヴェストファーレン	norutorainvesutofaren	
+j	残り物に福がある	nokorimononifukugaaru	残り物には福があるの別形。
+k	노보시비르스크 제도	nobosibireuseukeujedo	
+k	높으락낮으락하다	nopeurangnajeurakhada	
+e	non-commissioned officer	noncommissionedofficer	1 meaning
+e	non-disclosure agreement	nondisclosureagreement	1 meaning
+e	non-esterified fatty acid	nonesterifiedfattyacid	1 meaning
+e	none of someone's business	noneofsomeonesbusiness	1 meaning
+e	northern mariana islands	northernmarianaislands	1 meaning
+j	ノンパラメトリック検定	nonparametorikkukentei	母集団分布の形を強くは仮定せずに行う検定。
+j	ノルウェージャンフォレストキャット	noruwejanforesutokyatto	a Norwegian Forest cat
+j	残り物には福がある	nokorimononiwafukugaaru	there is unexpected good …
+j	能ある鷹は爪を隠す	noarutakawatsumeokakusu	To hold back.
+k	노트르담 대성당	noteureudamdaeseongdang	
+k	논쟁의 여지가있는	nonjaenguiyeojigainneun	
+e	not enough room to swing a cat	notenoughroomtoswingacat	1 meaning
+j	ノルベジアンフォレストキャット	norubejianforesutokyatto	ノルウェージャンフォレストキャットの表記ゆれ。
+e	non-governmental organization	nongovernmentalorganization	1 meaning
+k	노르트라인베스트팔렌 주	noreuteurainbeseuteupallenju	
+e	north atlantic treaty organization	northatlantictreatyorganization	1 meaning
+j	喉元過ぎれば熱さを忘れる	nodomotosugirebaatsusaowasureru	once on shore, we pray no…

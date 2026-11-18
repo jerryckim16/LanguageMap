@@ -1,0 +1,501 @@
+k	벼	벼	rice plant, paddy
+k	벽	벽	wall
+k	변	변	jargon, argot, lingo
+k	별	별	a star (celestial body)
+k	볌	볌	반지나 병마개 따위가 헐거울 때 꼭 맞도록 끼…
+k	볏	볏	comb
+k	병	병	bottle; jar
+k	볕	볕	sunshine; warmth of sunbe…
+k	벼락	벼락	lightning (stroke)
+k	벼랑	벼랑	cliff, precipice
+k	벼루	벼루	inkstone
+k	벼룩	벼룩	flea
+k	벼리	벼리	manipulation rope of the …
+k	벼슬	벼슬	government official, offi…
+k	벽개	벽개	
+k	벽계	벽계	
+k	벽공	벽공	clear blue sky, cloudless…
+k	벽돌	벽돌	brick
+k	벽력	벽력	thunder, bolt
+k	벽면	벽면	
+k	벽보	벽보	wall poster; placard
+k	벽사	벽사	
+k	벽수	벽수	짙푸른 빛이 나도록 맑고 깊은 물.
+k	벽안	벽안	blue eyes, green eyes
+k	벽옥	벽옥	미세한 석영결정이 모여서 생긴 광물이며 보석의…
+k	벽자	벽자	a rare Chinese character
+k	벽장	벽장	closet, cupboard
+k	벽지	벽지	wallpaper
+k	벽촌	벽촌	
+k	벽해	벽해	짙푸른 바다.
+k	벽화	벽화	mural; fresco
+k	변강	변강	
+k	변격	변격	
+k	변경	변경	change
+k	변계	변계	
+k	변고	변고	
+k	변괴	변괴	이상야릇한 일이나 재변.
+k	변구	변구	
+k	변국	변국	
+k	변기	변기	toilet; urinal; bedpan
+k	변난	변난	트집을 잡아서 비난함.
+k	변덕	변덕	이랬다저랬다 잘 변하는 태도나 성질.
+k	변동	변동	change, fluctuation
+k	변또	변또	bento, Japanese lunchbox
+k	변란	변란	
+k	변량	변량	
+k	변론	변론	
+k	변리	변리	
+k	변말	변말	
+k	변매	변매	돈으로 쓰려고 환곡(還穀)을 타다가 팔던 일.
+k	변명	변명	justification, excuse, ap…
+k	변모	변모	
+k	변문	변문	
+k	변민	변민	
+k	변박	변박	
+k	변발	변발	몽골인이나 만주인의 풍습으로, 남자의 머리를 …
+k	변방	변방	
+k	변백	변백	
+k	변법	변법	
+k	변별	변별	사물의 옳고 그름이나 좋고 나쁨 또는 이러한 …
+k	변보	변보	
+k	변복	변복	
+k	변비	변비	constipation
+k	변사	변사	뜻밖의 사고로 죽음.
+k	변상	변상	손해가 일어났을 때 돈으로 갚는 것.
+k	변색	변색	
+k	변설	변설	
+k	변성	변성	
+k	변소	변소	toilet; WC
+k	변속	변속	
+k	변수	변수	variable
+k	변신	변신	transformation, metamorph…
+k	변심	변심	
+k	변압	변압	압력을 바꿈. 주로 전압을 가리킨다.
+k	변역	변역	함수에서, 변수가 변할 수 있는 값의 범위.
+k	변온	변온	온도가 변함.
+k	변옹	변옹	
+k	변위	변위	(물리) 위치 변화를 나타내는 벡터양.
+k	변음	변음	
+k	변이	변이	
+k	변작	변작	어떤 것을 원래 목적에 어긋나게 사용함.
+k	변장	변장	
+k	변재	변재	
+k	변전	변전	
+k	변절	변절	defection; treachery
+k	변제	변제	payment
+k	변조	변조	본래의 모습을 바꿔 사용함.
+k	변종	변종	variety
+k	변좌	변좌	
+k	변주	변주	playing a (musical) varia…
+k	변죽	변죽	그릇이나 세간, 과녁 따위의 가장자리.
+k	변증	변증	
+k	변질	변질	
+k	변천	변천	
+k	변체	변체	anomaly
+k	변칙	변칙	
+k	변태	변태	metamorphosis
+k	변통	변통	
+k	변한	변한	Byeonhan confederacy
+k	변혁	변혁	어떤 것을 혁신적으로 바꾸게 하는 것을 가리키…
+k	변형	변형	metamorphosis; transforma…
+k	변호	변호	
+k	변화	변화	change; variation
+k	변환	변환	conversion, transformation
+k	별가	별가	
+k	별감	별감	
+k	별개	별개	
+k	별거	별거	
+k	별것	별것	a rarity; a curiosity; an…
+k	별고	별고	
+k	별곡	별곡	
+k	별과	별과	
+k	별관	별관	annex (a building constru…
+k	별궁	별궁	
+k	별당	별당	
+k	별도	별도	special, separate
+k	별똥	별똥	meteor; shooting star
+k	별로	별로	very (in a negative conte…
+k	별록	별록	
+k	별리	별리	'이별'.
+k	별말	별말	
+k	별명	별명	alias, nickname
+k	별미	별미	
+k	별반	별반	particularly
+k	별밤	별밤	starry night
+k	별별	별별	of various and unusual so…
+k	별복	별복	참복과의 바닷물고기. 몸의 길이는 30cm 정…
+k	별빛	별빛	starlight
+k	별세	별세	death; passing away
+k	별숲	별숲	
+k	별시	별시	
+k	별실	별실	special room
+k	별의	별의	
+k	별인	별인	
+k	별일	별일	an unusual event; an odd …
+k	별자	별자	
+k	별장	별장	cottage, villa (a house u…
+k	별점	별점	
+k	별종	별종	
+k	별찌	별찌	meteor; shooting star
+k	별책	별책	딸림 책.
+k	별칙	별칙	
+k	별칭	별칭	another name
+k	별표	별표	asterisk
+k	별학	별학	
+k	별항	별항	
+k	별호	별호	
+k	볍씨	볍씨	못자리에 뿌리는 벼의 씨.
+k	볏단	볏단	
+k	볏섬	볏섬	sack of rice
+k	볏짚	볏짚	rice straw
+k	병가	병가	병학(兵學)의 전문가.
+k	병거	병거	전쟁할 때에 쓰는 수레.
+k	병고	병고	
+k	병골	병골	
+k	병과	병과	군인이나 부대를 그 임무에 따라 나눔.
+k	병균	병균	
+k	병기	병기	writing side by side
+k	병대	병대	troops, soldiers, sailors
+k	병독	병독	virus
+k	병동	병동	
+k	병력	병력	troops
+k	병렬	병렬	
+k	병리	병리	
+k	병립	병립	
+k	병마	병마	병사(兵士)와 군마(軍馬)를 아울러 이르는 말.
+k	병맛	병맛	taste that is absurd, sen…
+k	병명	병명	
+k	병법	병법	strategy; tactics
+k	병사	병사	soldier
+k	병살	병살	double play
+k	병상	병상	
+k	병색	병색	
+k	병서	병서	
+k	병석	병석	
+k	병설	병설	
+k	병세	병세	
+k	병술	병술	The twenty-third term of …
+k	병신	병신	moron, imbecile, idiot, r…
+k	병실	병실	병이나 질병을 치료하거나 휴식을 취하는 방.
+k	병아	병아	sick/ill child
+k	병액	병액	
+k	병약	병약	
+k	병어	병어	silvery pomfret
+k	병역	병역	military service
+k	병영	병영	
+k	병오	병오	The forty-third term of t…
+k	병원	병원	hospital
+k	병음	병음	Pinyin
+k	병인	병인	The third term of the Chi…
+k	병자	병자	The thirteenth term of th…
+k	병작	병작	
+k	병장	병장	sergeant
+k	병적	병적	
+k	병정	병정	soldier(s), servicemember…
+k	병조	병조	
+k	병존	병존	coexistence
+k	병졸	병졸	private, soldier
+k	병중	병중	
+k	병증	병증	'병의 증세'를 줄인 말.
+k	병진	병진	The fifty-third term of t…
+k	병질	병질	
+k	병참	병참	logistics (procurement, s…
+k	병충	병충	
+k	병폐	병폐	
+k	병풍	병풍	folding screen
+k	병합	병합	annexation
+k	병해	병해	
+k	병행	병행	
+k	병혁	병혁	무기를 통틀어 이르는 말.
+k	병화	병화	전쟁으로 인한 화재.
+k	병환	병환	
+k	병후	병후	
+k	벼농사	벼농사	rice growing
+k	벼락촉	벼락촉	'피뢰침'의 북한말.
+k	벼룻물	벼룻물	water poured on an inksto…
+k	벼르다	벼르다	to look out for an opport…
+k	벼리다	벼리다	to forge a blade on, to s…
+k	벽걸이	벽걸이	wall tapestry, hanging ta…
+k	벽계수	벽계수	
+k	벽구름	벽구름	
+k	벽난로	벽난로	fireplace (an open hearth…
+k	벽돌색	벽돌색	벽돌처럼 탁한 빨간 갈색.
+k	벽돌집	벽돌집	
+k	벽보판	벽보판	
+k	벽시계	벽시계	wall clock
+k	벽오동	벽오동	
+k	벽장문	벽장문	
+k	벽창우	벽창우	
+k	벽치기	벽치기	wall construction
+k	변경백	변경백	
+k	변곡점	변곡점	
+k	변광성	변광성	
+k	변동비	변동비	
+k	변두통	변두통	
+k	변려문	변려문	
+k	변론가	변론가	debater
+k	변류기	변류기	
+k	변리사	변리사	특허, 실용신안 따위에 관한 사무를 대리, 감…
+k	변별력	변별력	
+k	변분법	변분법	
+k	변비증	변비증	
+k	변사자	변사자	
+k	변색병	변색병	
+k	변성기	변성기	
+k	변성명	변성명	
+k	변성암	변성암	오랜 기간 압력을 받아 변형이 일어난 암석.
+k	변속기	변속기	
+k	변시증	변시증	
+k	변시체	변시체	
+k	변신술	변신술	변신을 할 수 있는 기술.
+k	변실금	변실금	대변이 의식적이지 않게 분비되는 현상. 원하지…
+k	변압기	변압기	transformer
+k	변압소	변압소	
+k	변압풍	변압풍	코리올리힘과 국소적인 지균풍의 가속도가 평형상…
+k	변이음	변이음	이음.
+k	변장술	변장술	
+k	변재천	변재천	
+k	변전소	변전소	electrical substation
+k	변절자	변절자	defector; turncoat; trait…
+k	변절한	변절한	
+k	변정원	변정원	
+k	변제기	변제기	
+k	변조관	변조관	
+k	변조기	변조기	
+k	변조파	변조파	
+k	변주곡	변주곡	variation
+k	변증법	변증법	근거를 제시하면서 이론을 증명하는 것.
+k	변증학	변증학	
+k	변질자	변질자	
+k	변천사	변천사	시간의 흐름에 따라 변하고 바뀌어 온 과정을 …
+k	변칙적	변칙적	
+k	변태경	변태경	
+k	변태근	변태근	
+k	변통성	변통성	
+k	변통수	변통수	
+k	변하다	변하다	to change
+k	변한말	변한말	word that has undergone s…
+k	변향부	변향부	어린 사내아이의 오줌에 오래 담가 두었다가 꺼…
+k	변형능	변형능	
+k	변형력	변형력	stress
+k	변형엽	변형엽	
+k	변호권	변호권	
+k	변호사	변호사	lawyer, solicitor, counse…
+k	변호인	변호인	counsel, attorney, defend…
+k	변화구	변화구	breaking ball
+k	변화신	변화신	
+k	변화토	변화토	
+k	변화표	변화표	
+k	변화형	변화형	
+k	변환기	변환기	
+k	별개의	별개의	
+k	별기군	별기군	
+k	별기위	별기위	
+k	별나다	별나다	eccentric, peculiar, biza…
+k	별나라	별나라	the land of the stars
+k	별도리	별도리	
+k	별동대	별동대	
+k	별따기	별따기	
+k	별똥별	별똥별	shooting star; meteor
+k	별무늬	별무늬	star pattern; starspot
+k	별무반	별무반	
+k	별문제	별문제	
+k	별바다	별바다	(referring to the appeara…
+k	별박이	별박이	a horse with a white "sta…
+k	별사건	별사건	
+k	별사전	별사전	
+k	별세계	별세계	
+k	별세초	별세초	
+k	별수단	별수단	
+k	별안간	별안간	suddenly
+k	별유사	별유사	
+k	별입시	별입시	
+k	별자리	별자리	constellation
+k	별작전	별작전	
+k	별정직	별정직	
+k	별찌돌	별찌돌	'운석'의 북한말.
+k	별천지	별천지	
+k	별초군	별초군	
+k	별치부	별치부	
+k	별판부	별판부	
+k	병기고	병기고	armoury; arsenal
+k	병기창	병기창	armoury; arsenal
+k	병나다	병나다	
+k	병나발	병나발	
+k	병들다	병들다	to fall ill/sick, to beco…
+k	병따개	병따개	bottle opener (device to …
+k	병뚜껑	병뚜껑	
+k	병렬문	병렬문	
+k	병렬식	병렬식	
+k	병리학	병리학	pathology (branch of medi…
+k	병마용	병마용	
+k	병먹금	병먹금	not feeding the troll, ig…
+k	병무청	병무청	
+k	병사자	병사자	
+k	병살타	병살타	hitting into a double play
+k	병아리	병아리	chick, baby chicken
+k	병역법	병역법	
+k	병원균	병원균	
+k	병원체	병원체	
+k	병인학	병인학	
+k	병작인	병작인	
+k	병적부	병적부	
+k	병제사	병제사	
+k	병진자	병진자	
+k	병참선	병참선	
+k	병충해	병충해	
+k	병합설	병합설	구름 속에서 빗방울이 생성되는 과정을 설명한 …
+k	벼락부자	벼락부자	upstart, nouveau riche
+k	벼랑부처	벼랑부처	'마애불'의 북한말.
+k	벼룩시장	벼룩시장	a flea market
+k	벼메뚜기	벼메뚜기	Oxya chinensis sinuosa, a…
+k	벼슬아치	벼슬아치	
+k	벼슬하다	벼슬하다	벼슬아치가 되거나 벼슬길에 오르다.
+k	벽돌깨기	벽돌깨기	
+k	벽옥혼식	벽옥혼식	
+k	벽전화기	벽전화기	벽에 걸어 놓고 쓰는 전화기.
+k	벽지학교	벽지학교	
+k	벽진가야	벽진가야	성산가야.
+k	벽해상전	벽해상전	
+k	변경되다	변경되다	
+k	변경하다	변경하다	to change, to alter
+k	변난공격	변난공격	
+k	변덕날씨	변덕날씨	자주 바뀌어 변화가 심한 날씨.
+k	변동되다	변동되다	
+k	변동소득	변동소득	
+k	변동하다	변동하다	
+k	변동환율	변동환율	
+k	변론능력	변론능력	
+k	변론주의	변론주의	
+k	변론하다	변론하다	자신의 생각이나 주장을 밝히다.
+k	변리공사	변리공사	
+k	변명하다	변명하다	
+k	변모되다	변모되다	
+k	변모하다	변모하다	
+k	변박하다	변박하다	
+k	변법자강	변법자강	
+k	변변찮다	변변찮다	생김새가 바라는 것에 못 미치다.
+k	변변하다	변변하다	decent and satisfactory
+k	변별되다	변별되다	
+k	변별하다	변별하다	
+k	변별학습	변별학습	
+k	변비하다	변비하다	중앙에서 멀리 떨어져서 하찮고 궁벽하다.
+k	변상하다	변상하다	
+k	변색되다	변색되다	
+k	변색하다	변색하다	
+k	변성광상	변성광상	
+k	변성남자	변성남자	
+k	변성작용	변성작용	
+k	변속장치	변속장치	
+k	변속하다	변속하다	
+k	변신하다	변신하다	
+k	변심하다	변심하다	마음이 변하다.
+k	변역생사	변역생사	
+k	변연대비	변연대비	
+k	변온동물	변온동물	poikilotherm
+k	변위전류	변위전류	
+k	변이계수	변이계수	
+k	변이하다	변이하다	change; mutate
+k	변장하다	변장하다	
+k	변절하다	변절하다	to defect; to betray
+k	변제하다	변제하다	
+k	변조되다	변조되다	
+k	변조요법	변조요법	
+k	변조하다	변조하다	
+k	변조화폐	변조화폐	
+k	변증하다	변증하다	
+k	변질되다	변질되다	
+k	변질하다	변질하다	
+k	변천되다	변천되다	
+k	변천하다	변천하다	
+k	변칙동사	변칙동사	
+k	변칙용언	변칙용언	
+k	변태설립	변태설립	
+k	변태성욕	변태성욕	
+k	변태심리	변태심리	정신의 이상이나 장애로 생기는 심리 현상.
+k	변통되다	변통되다	
+k	변통하다	변통하다	
+k	변함없는	변함없는	
+k	변함없다	변함없다	
+k	변함없이	변함없이	unchangingly, constantly,…
+k	변혁되다	변혁되다	
+k	변혁하다	변혁하다	
+k	변형되다	변형되다	
+k	변형문법	변형문법	
+k	변형하다	변형하다	
+k	변호하다	변호하다	상대방의 편에 서서 대변인이 되다.
+k	변화난측	변화난측	
+k	변화되다	변화되다	
+k	변화무궁	변화무궁	
+k	변화무상	변화무상	
+k	변화무쌍	변화무쌍	
+k	변화불측	변화불측	
+k	변화하다	변화하다	to change
+k	변화화음	변화화음	화음 가운데서, 어떤 음을 올림표나 내림표로 …
+k	변환하다	변환하다	
+k	별거하다	별거하다	
+k	별건체포	별건체포	
+k	별다르다	별다르다	particular, special
+k	별단예금	별단예금	
+k	별똥만발	별똥만발	meteor outburst
+k	별선군관	별선군관	
+k	별세하다	별세하다	to die; to pass away
+k	별유천지	별유천지	being of or showing anoth…
+k	별주부전	별주부전	
+k	병가상사	병가상사	
+k	병렬연결	병렬연결	전기회로에서 발전기, 전지 따위의 극을 같은 …
+k	병리학자	병리학자	
+k	병상일지	병상일지	
+k	병아리색	병아리색	
+k	병아리콩	병아리콩	chickpea
+k	병약하다	병약하다	병으로 인하여 몸이 쇠약하다.
+k	병역기피	병역기피	
+k	병역면제	병역면제	
+k	병역의무	병역의무	
+k	병역제도	병역제도	
+k	병인박해	병인박해	
+k	병인양요	병인양요	
+k	병자사화	병자사화	
+k	병자호란	병자호란	
+k	병정개미	병정개미	army ant
+k	병조판서	병조판서	
+k	병존하다	병존하다	to coexist
+k	병참장교	병참장교	quartermaster (officer wh…
+k	병합과정	병합과정	구름 속에 비교적 큰 구름 알갱이가 떨어지면서…
+k	병합관할	병합관할	재판관할을 서로 합치는 일.
+k	병합심리	병합심리	여러 관련이 있는 형사재판을 합쳐서 같은 형사…
+k	병합하다	병합하다	
+k	벼랑오르기	벼랑오르기	(등산) 벼랑을 오르는 북한의 국방 체육을 이…
+k	벼룩이자리	벼룩이자리	thyme-leaf sandwort (Aren…
+k	벽게전화기	벽게전화기	'벽전화기'의 북한말.
+k	변덕스럽다	변덕스럽다	to be fickle, to be mercu…
+k	변온 동물	변온 동물	체온을 조절하는 능력이 없어서 바깥 온도에 따…
+k	변이 지방	변이 지방	synonym of 트랜스지방 (teuraen…
+k	변태 성욕	변태 성욕	
+k	변형시키다	변형시키다	
+k	별꽃아재비	별꽃아재비	
+k	별말씀을요	별말씀을요	
+k	병역명문가	병역명문가	3대(조부, 부, 백부, 숙부, 본인, 형제,…
+k	병이 나다	병이 나다	
+k	벼락고기잡이	벼락고기잡이	
+k	벼랑끝 전술	벼랑끝 전술	
+k	변화무쌍하다	변화무쌍하다	
+k	별명을 짓다	별명을 짓다	
+k	병에 걸리다	병에 걸리다	
+k	변형력을 주다	변형력을 주다	
+k	별 아교 세포	별 아교 세포	
+k	별거 아니에요	별거 아니에요	
+k	별과 별사이의	별과 별사이의	
+k	별명을 붙이다	별명을 붙이다	
+k	별선두리왕나비	별선두리왕나비	common tiger (Danaus genu…
+k	벼락치기를 하다	벼락치기를 하다	
+k	변하지 않는 것	변하지 않는 것	
+k	변형 생성 문법	변형 생성 문법	변형적으로 바뀌는 문법.
+k	별 도리가 없다	별 도리가 없다	
+k	별이 빛나는 밤	별이 빛나는 밤	The Starry Night (a paint…
+k	별것 아니었습니다	별것 아니었습니다	
+k	별이 빛나는 깃발	별이 빛나는 깃발	
+k	병 주고 약 준다	병 주고 약 준다	다른 사람을 못 살게 굴거나 어려움에 빠뜨리고…
+k	병신도 제 재미에 산다	병신도 제 재미에 산다	(비유) 사람은 잘났건 못났건 누구나 다 자기…
+k	벼는 익을수록 고개를 숙인다	벼는 익을수록 고개를 숙인다	wise people are humble

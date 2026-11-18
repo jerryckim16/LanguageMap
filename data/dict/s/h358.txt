@@ -1,0 +1,155 @@
+k	패	패	defeat; loss
+k	팩	팩	pack, package, carton
+k	팬	팬	fan
+k	팽	팽	round; circling a relativ…
+k	패가	패가	
+k	패각	패각	
+k	패검	패검	
+k	패관	패관	
+k	패국	패국	
+k	패군	패군	
+k	패권	패권	hegemony
+k	패기	패기	get-up-and-go; spirit; vi…
+k	패널	패널	스커트 위에 이중으로 늘어뜨려 화려하게 보이게…
+k	패닉	패닉	
+k	패다	패다	to chop; to split
+k	패덕	패덕	
+k	패도	패도	인의(仁義)를 가볍게 여기고 무력이나 권모술수…
+k	패들	패들	
+k	패딩	패딩	
+k	패럿	패럿	
+k	패류	패류	mollusc shellfish, such a…
+k	패륜	패륜	depravity, immorality
+k	패망	패망	
+k	패멸	패멸	
+k	패모	패모	A fritillary, in particul…
+k	패물	패물	
+k	패배	패배	defeat
+k	패병	패병	
+k	패보	패보	
+k	패사	패사	
+k	패색	패색	
+k	패석	패석	
+k	패설	패설	
+k	패세	패세	
+k	패션	패션	fashion
+k	패소	패소	
+k	패수	패수	고조선 때에, 요동과 경계를 이루던 강. 지금…
+k	패스	패스	passage, passing, passing…
+k	패습	패습	perverse habit or custom;…
+k	패악	패악	사람으로서 마땅히 하여야 할 도리에 어그러지고…
+k	패역	패역	사람으로서 마땅히 하여야 할 도리에 어긋나고 …
+k	패옥	패옥	
+k	패왕	패왕	
+k	패인	패인	
+k	패자	패자	loser (person who fails t…
+k	패장	패장	
+k	패전	패전	defeat (in a war or sport…
+k	패주	패주	
+k	패착	패착	
+k	패총	패총	
+k	패치	패치	a patch (in Western or mo…
+k	패킷	패킷	packet
+k	패킹	패킹	
+k	패턴	패턴	pattern
+k	패퇴	패퇴	
+k	패티	패티	
+k	패행	패행	
+k	팩스	팩스	fax, facsimile
+k	팩트	팩트	fact; truth
+k	팬더	팬더	'판다'. 비표준어.
+k	팬덤	팬덤	fandom
+k	팬지	팬지	
+k	팬츠	팬츠	'팬티'.
+k	팬층	팬층	
+k	팬티	팬티	briefs, underpants, panti…
+k	팬픽	팬픽	fanfic
+k	팽배	팽배	
+k	팽압	팽압	세포를 삼투압이 낮은 용액에 넣었을 때 삼투압…
+k	팽이	팽이	spinning top
+k	팽창	팽창	swelling, expansion; infl…
+k	팽팽	팽팽	round and round; while re…
+k	패거리	패거리	gang, clique
+k	패덕적	패덕적	
+k	패드립	패드립	a joke insulting one's pa…
+k	패랭이	패랭이	rough bamboo hat
+k	패러디	패러디	parody
+k	패류학	패류학	
+k	패륜아	패륜아	
+k	패배자	패배자	defeated person; loser
+k	패블릿	패블릿	스마트폰과 타블릿 사이의 화면 크기를 가진 전…
+k	패비콘	패비콘	
+k	패션쇼	패션쇼	fashion show
+k	패자전	패자전	
+k	패잔병	패잔병	
+k	패전국	패전국	
+k	패키지	패키지	
+k	패킷화	패킷화	
+k	패트릭	패트릭	
+k	패하다	패하다	
+k	패혈증	패혈증	
+k	팩토리	팩토리	factory
+k	팬그램	팬그램	
+k	팬데믹	팬데믹	
+k	팬미팅	팬미팅	
+k	팬아트	팬아트	
+k	팬클럽	팬클럽	
+k	팬플룻	팬플룻	
+k	팸플릿	팸플릿	pamphlet, booklet, brochu…
+k	팽나무	팽나무	Chinese hackberry
+k	팽창률	팽창률	
+k	패가망신	패가망신	
+k	패관문학	패관문학	
+k	패관소설	패관소설	
+k	패군지장	패군지장	
+k	패랭이꽃	패랭이꽃	China pink (Dianthus chin…
+k	패러독스	패러독스	
+k	패럴림픽	패럴림픽	Paralympic Games
+k	패망하다	패망하다	
+k	패배주의	패배주의	
+k	패배하다	패배하다	to lose, to be defeated
+k	패사하다	패사하다	
+k	패션모델	패션모델	새로운 유행을 위해 만든 옷을 입고 무대에서 …
+k	패소하다	패소하다	
+k	패스워드	패스워드	password
+k	패스트볼	패스트볼	passed ball
+k	패스포트	패스포트	passport
+k	패전투수	패전투수	
+k	패전하다	패전하다	to lose, to be defeated (…
+k	패주하다	패주하다	
+k	팩시밀리	팩시밀리	facsimile
+k	팬 잡지	팬 잡지	
+k	팬 픽션	팬 픽션	
+k	팬사인회	팬사인회	
+k	팬서비스	팬서비스	
+k	팬케이크	팬케이크	pancake (thin batter cake)
+k	팬터마임	팬터마임	
+k	팬파이프	팬파이프	
+k	팬팬하다	팬팬하다	to be flat, even
+k	팬플루트	팬플루트	
+k	팽개치다	팽개치다	무엇이 짜증이나고 못마땅하여 물건 따위를 내던…
+k	팽배하다	팽배하다	
+k	팽이버섯	팽이버섯	
+k	팽창계수	팽창계수	
+k	팽창되다	팽창되다	
+k	팽창주의	팽창주의	expansionism
+k	팽창하다	팽창하다	
+k	팽패롭다	팽패롭다	사람의 성질이나 성미가 까다롭거나 모난 데가 …
+k	팽팽하다	팽팽하다	
+k	패배시키다	패배시키다	
+k	패션프루츠	패션프루츠	passion fruit
+k	패스트푸드	패스트푸드	fast food
+k	패시베이션	패시베이션	
+k	패자부활전	패자부활전	토너먼트 경기에서 진 사람이나 팀에게 다시 그…
+k	패자회복전	패자회복전	'패자부활전'의 북한말.
+k	패킷화하다	패킷화하다	
+k	팽나무버섯	팽나무버섯	enoki mushroom (Flammulin…
+k	패러글라이더	패러글라이더	
+k	패러글라이딩	패러글라이딩	
+k	팬티 스타킹	팬티 스타킹	pantyhose
+k	패럴림픽 경기	패럴림픽 경기	
+k	팬 앤드 스캔	팬 앤드 스캔	
+k	팬케이크 데이	팬케이크 데이	
+k	팽 오 쇼콜라	팽 오 쇼콜라	
+k	패밀리 레스토랑	패밀리 레스토랑	
+k	패시브 매트릭스	패시브 매트릭스	
