@@ -1,58 +1,59 @@
-/* Korean ↔ Japanese Word Map */
+/* Korean → Japanese Word Map */
 (() => {
   "use strict";
 
-  const { WORDS, CATEGORIES } = window.LANGUAGE_MAP_DATA;
+  const M = window.LANGUAGE_MAP_MODEL;
+  const { CATEGORIES, KINDS, ORIGINS, koWords, jaWords, links, bands, chars } = M;
+
   const $ = (sel) => document.querySelector(sel);
-  const esc = (s) => String(s).replace(/[&<>"']/g, (c) =>
+  const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) =>
     ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
   const fold = (s) => String(s).normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
-  const catColor = (key) => CATEGORIES[key]?.color || "#888";
-  const meaningOf = (e) => e.falseFriend ? `KO: ${e.falseFriend.ko} · JA: ${e.falseFriend.ja}` : e.en;
-
-  // ── Index the data ────────────────────────────────────────────────
-  const wordById = new Map();   // kanji string → entry
-  const charByKey = new Map();  // kanji character → char info
-
-  for (const e of WORDS) {
-    e.id = e.kanji;
-    e.chars = [...e.kanji];
-    e.hanjaChars = [...e.hanja];
-    e.koChars = [...e.ko];
-    e.search = fold([e.ko, e.hanja, e.kanji, e.ja, e.koRom, e.jaRom, e.en,
-      e.falseFriend?.ko, e.falseFriend?.ja].filter(Boolean).join(" "));
-    wordById.set(e.id, e);
-
-    e.chars.forEach((k, i) => {
-      if (!charByKey.has(k)) {
-        charByKey.set(k, { key: k, hanja: e.hanjaChars[i], ko: new Map(), ja: new Map(), words: [] });
-      }
-      const c = charByKey.get(k);
-      c.ko.set(e.koChars[i], (c.ko.get(e.koChars[i]) || 0) + 1);
-      c.ja.set(e.jaParts[i], (c.ja.get(e.jaParts[i]) || 0) + 1);
-      if (!c.words.includes(e)) c.words.push(e);
-    });
-  }
-  const sortedReadings = (m) => [...m.entries()].sort((a, b) => b[1] - a[1]).map(([r]) => r);
-  for (const c of charByKey.values()) {
-    c.koList = sortedReadings(c.ko);
-    c.jaList = sortedReadings(c.ja);
-  }
+  const truncate = (s, n) => (s.length > n ? s.slice(0, Math.max(1, n - 1)) + "…" : s);
+  const uniq = (arr) => [...new Set(arr)];
+  const clamp = (v, a, b) => Math.max(a, Math.min(b, v));
+  const cjkLen = (s) => [...s].length;
 
   // ── State ─────────────────────────────────────────────────────────
   const state = {
-    view: "map",
+    view: "mapping",
+    dir: "ko2ja",
     cats: new Set(Object.keys(CATEGORIES)),
-    falseOnly: false,
-    sharedOnly: false,
-    showEnglish: true,
-    selected: null,     // { type: "word" | "char", id }
-    hover: null,        // same shape
+    kinds: new Set(Object.keys(KINDS)),
+    onlyBroken: false,
+    showChars: true,
+    selected: null, // { type: "ko" | "ja" | "char", id }
+    hover: null,
     query: "",
   };
 
-  const isWordVisible = (e) => state.cats.has(e.category) && (!state.falseOnly || e.falseFriend);
-  const visibleWords = () => WORDS.filter(isWordVisible);
+  const wordOf = (ref) => ref && (ref.type === "ko" ? koWords.get(ref.id) : ref.type === "ja" ? jaWords.get(ref.id) : null);
+  const nodeId = (ref) => ref && ({ ko: "k:", ja: "j:", char: "c:" }[ref.type] + ref.id);
+  const refOfWord = (w) => ({ type: w.lang, id: w.key });
+
+  const isBroken = (l) => l.kind !== "false" && l.tr.type !== "1:1";
+  const linkVisible = (l) =>
+    state.cats.has(l.band.category) && state.kinds.has(l.kind) && (!state.onlyBroken || isBroken(l));
+  const visibleLinks = () => links.filter(linkVisible);
+
+  // Direction-aware description of a translation component.
+  function mapping(comp) {
+    const a = comp.ko.size, b = comp.ja.size;
+    const [from, to] = state.dir === "ko2ja" ? [a, b] : [b, a];
+    if (from === 1 && to === 1) return { short: "1 ↔ 1", long: "one-to-one", cls: "ok" };
+    if (from === 1) return { short: `1 → ${to}`, long: "split", cls: "split" };
+    if (to === 1) return { short: `${from} → 1`, long: "merge", cls: "merge" };
+    return { short: `${from} → ${to}`, long: "many-to-many", cls: "many" };
+  }
+
+  // Arrowheads: both ends for one-to-one, otherwise only in the chosen direction.
+  // Paths always run from the Korean word to the Japanese word.
+  function markers(l) {
+    if (l.kind === "false") return "";
+    const m = `url(#m-${l.kind})`;
+    if (l.tr.type === "1:1") return `marker-start="${m}" marker-end="${m}"`;
+    return state.dir === "ko2ja" ? `marker-end="${m}"` : `marker-start="${m}"`;
+  }
 
   // ── Speech ────────────────────────────────────────────────────────
   const canSpeak = "speechSynthesis" in window;
@@ -69,28 +70,50 @@
   const speakBtn = (text, lang) => canSpeak
     ? `<button class="speak" data-say="${esc(text)}" data-lang="${lang}" aria-label="Play pronunciation" title="Play pronunciation">🔊</button>`
     : "";
+  const sayText = (w) => w.lang === "ko" ? w.text : w.kana;
+  const sayLang = (w) => w.lang === "ko" ? "ko-KR" : "ja-JP";
+
+  // ── Markers & static legends ──────────────────────────────────────
+  $("#marker-defs").innerHTML = Object.entries(KINDS).map(([k, v]) =>
+    `<marker id="m-${k}" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7"
+       markerUnits="userSpaceOnUse" orient="auto-start-reverse">
+       <path d="M0,0 L10,5 L0,10 z" fill="${v.color}"/></marker>`).join("");
+
+  const kindSwatch = (k) => `<svg class="swatch" viewBox="0 0 26 10" aria-hidden="true">
+      <line x1="1" y1="5" x2="25" y2="5" stroke="${KINDS[k].color}" stroke-width="2.5" ${k === "false" ? 'stroke-dasharray="4 3"' : ""}/></svg>`;
+  $("#kind-legend").innerHTML = Object.keys(KINDS).map((k) =>
+    `<span class="kl" title="${esc(KINDS[k].desc)}">${kindSwatch(k)}${esc(KINDS[k].label)}</span>`).join("");
+  $("#about-kinds").innerHTML = Object.keys(KINDS).map((k) =>
+    `<li>${kindSwatch(k)} <strong>${esc(KINDS[k].label)}:</strong> ${esc(KINDS[k].desc)}</li>`).join("");
 
   // ── Filters UI ────────────────────────────────────────────────────
   function renderChips() {
-    const counts = {};
-    for (const e of WORDS) counts[e.category] = (counts[e.category] || 0) + 1;
+    const catCount = {}, kindCount = {};
+    for (const l of links) {
+      catCount[l.band.category] = (catCount[l.band.category] || 0) + 1;
+      kindCount[l.kind] = (kindCount[l.kind] || 0) + 1;
+    }
     const allOn = state.cats.size === Object.keys(CATEGORIES).length;
     $("#category-chips").innerHTML =
       `<button class="chip chip-all" data-cat="*" aria-pressed="${allOn}">All</button>` +
       Object.entries(CATEGORIES).map(([key, c]) =>
         `<button class="chip" data-cat="${key}" aria-pressed="${state.cats.has(key)}" title="Click to toggle. Double-click to show only this category.">
-           <span class="dot" style="background:${c.color}"></span>${esc(c.label)}<span class="count">${counts[key] || 0}</span>
+           <span class="dot" style="background:${c.color}"></span>${esc(c.label)}<span class="count">${catCount[key] || 0}</span>
          </button>`).join("");
+    $("#kind-chips").innerHTML = Object.entries(KINDS).map(([key, k]) =>
+      `<button class="chip kind-chip" data-kind="${key}" aria-pressed="${state.kinds.has(key)}" title="${esc(k.desc)}">
+         ${kindSwatch(key)}${esc(k.label)}<span class="count">${kindCount[key] || 0}</span></button>`).join("");
+    document.querySelectorAll("[data-dir]").forEach((b) => b.setAttribute("aria-pressed", b.dataset.dir === state.dir));
   }
 
-  let chipClickTimer = null;
+  let chipTimer = null;
   $("#category-chips").addEventListener("click", (ev) => {
     const btn = ev.target.closest(".chip");
     if (!btn) return;
+    clearTimeout(chipTimer);
+    if (ev.detail > 1) return; // second click of a double-click, handled below
     const cat = btn.dataset.cat;
-    clearTimeout(chipClickTimer);
-    if (ev.detail > 1) return; // part of a double-click, handled below
-    chipClickTimer = setTimeout(() => {
+    chipTimer = setTimeout(() => {
       if (cat === "*") state.cats = new Set(Object.keys(CATEGORIES));
       else if (state.cats.has(cat)) state.cats.delete(cat);
       else state.cats.add(cat);
@@ -100,170 +123,354 @@
   $("#category-chips").addEventListener("dblclick", (ev) => {
     const btn = ev.target.closest(".chip");
     if (!btn || btn.dataset.cat === "*") return;
-    clearTimeout(chipClickTimer);
+    clearTimeout(chipTimer);
     state.cats = new Set([btn.dataset.cat]);
     refresh({ refit: true });
   });
+  $("#kind-chips").addEventListener("click", (ev) => {
+    const btn = ev.target.closest("[data-kind]");
+    if (!btn) return;
+    const k = btn.dataset.kind;
+    if (state.kinds.has(k)) state.kinds.delete(k); else state.kinds.add(k);
+    refresh({ refit: true });
+  });
+  document.querySelectorAll("[data-dir]").forEach((b) => b.addEventListener("click", () => {
+    state.dir = b.dataset.dir;
+    refresh();
+  }));
+  $("#opt-broken").addEventListener("change", (e) => { state.onlyBroken = e.target.checked; refresh({ refit: true }); });
+  $("#opt-chars").addEventListener("change", (e) => { state.showChars = e.target.checked; refresh({ refit: true }); });
 
-  $("#opt-false-friends").addEventListener("change", (e) => { state.falseOnly = e.target.checked; refresh({ refit: true }); });
-  $("#opt-shared").addEventListener("change", (e) => { state.sharedOnly = e.target.checked; refresh({ refit: true }); });
-  $("#opt-english").addEventListener("change", (e) => {
-    state.showEnglish = e.target.checked;
-    $("#graph").classList.toggle("hide-en", !state.showEnglish);
+  // ── Mapping view (function diagrams per category) ─────────────────
+  const mappingHost = $("#mapping-sections");
+
+  function bandLayout(bandLinks) {
+    const koList = uniq(bandLinks.map((l) => l.ko));
+    const jaFirst = uniq(bandLinks.map((l) => l.ja));
+    // Order Japanese words by the average position of their Korean sources to reduce crossings.
+    const koIdx = new Map(koList.map((w, i) => [w, i]));
+    const bary = (j) => {
+      const ls = bandLinks.filter((l) => l.ja === j);
+      return ls.reduce((s, l) => s + koIdx.get(l.ko), 0) / ls.length;
+    };
+    const jaList = jaFirst.map((j, i) => ({ j, i, b: bary(j) }))
+      .sort((p, q) => p.b - q.b || p.i - q.i).map((x) => x.j);
+    return { koList, jaList, rows: Math.max(koList.length, jaList.length) };
+  }
+
+  function renderMapping() {
+    if (state.view !== "mapping") return;
+    const W = Math.round(clamp(mappingHost.clientWidth, 300, 900));
+    const colW = Math.round(clamp((W - 150) / 2, 104, 190));
+    const pillW = colW - 20;
+    const xKo = 10, xJa = W - colW + 10;              // pill left edges
+    const aKo = xKo + pillW, aJa = xJa;               // arrow anchor x
+    const ROW = 50, PH = 38, TOP = 44, BOT = 12;
+    const gapChars = Math.floor((aJa - aKo - 16) / 6.2);
+
+    const sections = [];
+    for (const [key, cat] of Object.entries(CATEGORIES)) {
+      if (!state.cats.has(key)) continue;
+      const groups = bands.filter((b) => b.category === key)
+        .map((b) => ({ b, links: b.links.filter(linkVisible) }))
+        .filter((g) => g.links.length);
+      if (!groups.length) continue;
+
+      let y = TOP;
+      const pos = new Map();
+      let svgBands = "", svgLinks = "", svgNodes = "";
+      const kos = new Set(), jas = new Set(), comps = new Set();
+
+      groups.forEach((g, gi) => {
+        const { koList, jaList, rows } = bandLayout(g.links);
+        const h = rows * ROW;
+        koList.forEach((w, i) => pos.set("k:" + w.key, y + ((rows - koList.length) / 2 + i + 0.5) * ROW));
+        jaList.forEach((w, i) => pos.set("j:" + w.key, y + ((rows - jaList.length) / 2 + i + 0.5) * ROW));
+        koList.forEach((w) => kos.add(w));
+        jaList.forEach((w) => jas.add(w));
+
+        const broken = uniq(g.links.filter(isBroken).map((l) => l.tr));
+        g.links.forEach((l) => { if (l.kind !== "false") comps.add(l.tr); });
+        if (broken.length) {
+          const labels = uniq(broken.map((c) => mapping(c).short)).join(" · ");
+          svgBands += `<rect class="band-bg ${mapping(broken[0]).cls}" x="2" y="${y + 2}" width="${W - 4}" height="${h - 4}" rx="10"/>
+            <text class="band-badge" x="${aKo + 10}" y="${y + 14}">${esc(labels)}</text>`;
+        } else if (gi > 0) {
+          svgBands += `<line class="band-sep" x1="${xKo + 8}" x2="${W - 18}" y1="${y}" y2="${y}"/>`;
+        }
+
+        for (const l of g.links) {
+          const y1 = pos.get("k:" + l.ko.key), y2 = pos.get("j:" + l.ja.key);
+          const dx = (aJa - aKo) * 0.45;
+          const color = KINDS[l.kind].color;
+          const gloss = l.kind === "false" ? "≠ looks the same" : l.en;
+          svgLinks += `<g class="m-link kind-${l.kind}" data-k="${esc(l.ko.key)}" data-j="${esc(l.ja.key)}">
+            <path d="M${aKo + 2},${y1} C${aKo + dx},${y1} ${aJa - dx},${y2} ${aJa - 2},${y2}"
+              stroke="${color}" ${l.kind === "false" ? 'stroke-dasharray="5 4"' : ""} ${markers(l)}/>
+            <text class="gloss" x="${(aKo + aJa) / 2}" y="${(y1 + y2) / 2 - 4}">${esc(truncate(gloss, gapChars))}</text>
+          </g>`;
+        }
+        y += h;
+      });
+
+      const pill = (w, x, yc) => {
+        const main = w.label;
+        const sub = w.lang === "ko" ? w.rom : (w.kana !== w.text ? w.kana : w.rom);
+        const fs = Math.min(15, (pillW - 14) / Math.max(1, cjkLen(main) * 1.02));
+        const id = `${w.lang === "ko" ? "k" : "j"}:${w.key}`;
+        const sel = state.selected && nodeId(state.selected) === id;
+        return `<g class="m-node ${w.lang}${sel ? " selected" : ""}" data-node="${esc(id)}"
+                   tabindex="0" role="button" aria-label="${esc(w.label)}" transform="translate(${x},${yc - PH / 2})">
+          <rect width="${pillW}" height="${PH}" rx="9"/>
+          <text class="main" x="${pillW / 2}" y="16" font-size="${fs.toFixed(1)}" lang="${w.lang}">${esc(main)}</text>
+          <text class="sub" x="${pillW / 2}" y="31" lang="${w.lang}">${esc(truncate(sub, Math.floor(pillW / 6.3)))}</text>
+        </g>`;
+      };
+      for (const w of kos) svgNodes += pill(w, xKo, pos.get("k:" + w.key));
+      for (const w of jas) svgNodes += pill(w, xJa, pos.get("j:" + w.key));
+
+      const H = y + BOT;
+      const sets = `
+        <rect class="set set-ko" x="1" y="4" width="${colW - 2}" height="${H - 6}" rx="16"/>
+        <rect class="set set-ja" x="${W - colW + 1}" y="4" width="${colW - 2}" height="${H - 6}" rx="16"/>
+        <text class="set-label" x="${colW / 2}" y="26" lang="ko">한국어</text>
+        <text class="set-label" x="${W - colW / 2}" y="26" lang="ja">日本語</text>`;
+
+      // Summary and bijection verdict.
+      const tally = { ok: 0, split: 0, merge: 0, many: 0 };
+      for (const c of comps) tally[mapping(c).cls]++;
+      const ffCount = groups.reduce((s, g) => s + g.links.filter((l) => l.kind === "false").length, 0);
+      const bij = comps.size > 0 && tally.ok === comps.size;
+      const parts = [];
+      if (tally.ok) parts.push(`${tally.ok} one-to-one`);
+      if (tally.split) parts.push(`${tally.split} split${tally.split > 1 ? "s" : ""}`);
+      if (tally.merge) parts.push(`${tally.merge} merge${tally.merge > 1 ? "s" : ""}`);
+      if (tally.many) parts.push(`${tally.many} many-to-many`);
+      if (ffCount) parts.push(`${ffCount} false friend${ffCount > 1 ? "s" : ""}`);
+
+      sections.push(`
+        <section class="map-section" id="sec-${key}">
+          <header>
+            <h3><span class="dot" style="background:${cat.color}"></span>${esc(cat.label)}</h3>
+            ${comps.size ? `<span class="verdict ${bij ? "yes" : "no"}">${bij ? "✓ Bijection" : "✗ Not a bijection"}</span>` : ""}
+          </header>
+          <p class="summary">${kos.size} Korean → ${jas.size} Japanese words · ${parts.join(" · ")}</p>
+          <svg class="mapsvg" viewBox="0 0 ${W} ${H}" width="${W}" height="${H}">
+            ${sets}${svgBands}<g class="links">${svgLinks}</g>${svgNodes}
+          </svg>
+        </section>`);
+    }
+    mappingHost.innerHTML = sections.join("") || `<p class="empty-state">No words match these filters.</p>`;
+    applyMappingHighlight();
+  }
+
+  function mapFocus(svgEl, id) {
+    svgEl.classList.toggle("focus", !!id);
+    svgEl.querySelectorAll(".on").forEach((e) => e.classList.remove("on"));
+    if (!id) return;
+    const key = id.slice(2);
+    const attr = id[0] === "k" ? "data-k" : "data-j";
+    svgEl.querySelector(`.m-node[data-node="${CSS.escape(id)}"]`)?.classList.add("on");
+    svgEl.querySelectorAll(`.m-link[${attr}="${CSS.escape(key)}"]`).forEach((l) => {
+      l.classList.add("on");
+      svgEl.querySelector(`.m-node[data-node="${CSS.escape("k:" + l.dataset.k)}"]`)?.classList.add("on");
+      svgEl.querySelector(`.m-node[data-node="${CSS.escape("j:" + l.dataset.j)}"]`)?.classList.add("on");
+    });
+  }
+
+  function applyMappingHighlight() {
+    const id = state.selected && state.selected.type !== "char" ? nodeId(state.selected) : null;
+    mappingHost.querySelectorAll(".mapsvg").forEach((svgEl) => {
+      const has = id && svgEl.querySelector(`.m-node[data-node="${CSS.escape(id)}"]`);
+      mapFocus(svgEl, has ? id : null);
+      svgEl.querySelectorAll(".m-node").forEach((n) => n.classList.toggle("selected", n.dataset.node === id));
+    });
+  }
+
+  mappingHost.addEventListener("mouseover", (ev) => {
+    const n = ev.target.closest(".m-node");
+    if (n) mapFocus(n.closest("svg"), n.dataset.node);
+  });
+  mappingHost.addEventListener("mouseout", (ev) => {
+    const n = ev.target.closest(".m-node");
+    if (n && !n.contains(ev.relatedTarget)) applyMappingHighlight();
+  });
+  const activateMapNode = (n) => {
+    const id = n.dataset.node;
+    select({ type: id[0] === "k" ? "ko" : "ja", id: id.slice(2) }, { focus: false });
+  };
+  mappingHost.addEventListener("click", (ev) => {
+    const n = ev.target.closest(".m-node");
+    if (n) activateMapNode(n);
+  });
+  mappingHost.addEventListener("keydown", (ev) => {
+    const n = ev.target.closest(".m-node");
+    if (n && (ev.key === "Enter" || ev.key === " ")) { ev.preventDefault(); activateMapNode(n); }
   });
 
-  // ── Graph ─────────────────────────────────────────────────────────
+  function scrollMappingTo(ref) {
+    const el = mappingHost.querySelector(`.m-node[data-node="${CSS.escape(nodeId(ref))}"]`);
+    // On phones the detail sheet covers the lower half, so bring the word to the top instead.
+    const mobile = window.matchMedia("(max-width: 760px)").matches;
+    if (el) el.scrollIntoView({ block: mobile ? "start" : "center", behavior: "smooth" });
+  }
+
+  // ── Network view (force-directed graph) ───────────────────────────
   const svg = d3.select("#graph");
-  const stageEl = $("#view-map");
+  const stageEl = $("#view-network");
   const zoomLayer = svg.append("g");
-  const linkLayer = zoomLayer.append("g");
+  const charLinkLayer = zoomLayer.append("g");
+  const arrowLayer = zoomLayer.append("g");
   const nodeLayer = zoomLayer.append("g");
-  const emptyMsg = svg.append("text").attr("class", "empty-msg")
-    .attr("text-anchor", "middle").attr("fill", "currentColor").attr("opacity", 0.6)
-    .text("No words match these filters.").style("display", "none");
+  const emptyMsg = svg.append("text").attr("text-anchor", "middle").attr("fill", "currentColor")
+    .attr("opacity", 0.6).text("No words match these filters.").style("display", "none");
 
-  const WORD_H = 38;
-  const nodeCache = new Map(); // id → node object (keeps positions between filter changes)
-  let nodes = [], links = [], adjacency = new Map();
-  let refitOnEnd = false;
-  let pendingFit = false;
+  const NODE_H = 36;
+  const nodeCache = new Map();
+  let nodes = [], arrows = [], charEdges = [], adjacency = new Map();
+  let refitPending = false, needsFit = true;
 
-  const zoom = d3.zoom().scaleExtent([0.15, 4]).on("zoom", (ev) => zoomLayer.attr("transform", ev.transform));
+  const zoom = d3.zoom().scaleExtent([0.1, 4]).on("zoom", (ev) => zoomLayer.attr("transform", ev.transform));
   svg.call(zoom).on("dblclick.zoom", null);
   svg.on("click", (ev) => { if (ev.target === svg.node()) select(null); });
 
   const simulation = d3.forceSimulation()
     .force("link", d3.forceLink().id((d) => d.id)
-      .distance((l) => 34 + l.target.r + l.source.w / 3).strength(0.9))
-    .force("charge", d3.forceManyBody().strength((d) => d.type === "char" ? -90 - 35 * d.deg : -170))
-    .force("collide", d3.forceCollide().radius((d) => d.type === "char" ? d.r + 5 : d.w / 2 + 5).iterations(2))
-    .force("x", d3.forceX().strength(0.045))
-    .force("y", d3.forceY().strength(0.06))
+      .distance((l) => l.char ? 40 + l.source.r : 30 + (l.source.w + l.target.w) / 2).strength((l) => l.char ? 0.5 : 0.9))
+    .force("charge", d3.forceManyBody().strength((d) => d.type === "char" ? -70 - 20 * d.deg : -90).distanceMax(320))
+    .force("collide", d3.forceCollide().radius((d) => d.type === "char" ? d.r + 5 : d.w / 2 + 6).iterations(2))
+    .force("x", d3.forceX((d) => d.type === "ko" ? -60 : d.type === "ja" ? 60 : 0).strength(0.07))
+    .force("y", d3.forceY().strength(0.09))
     .on("tick", () => {
       ticked();
-      // After a filter change, re-fit once the layout has mostly settled.
-      if (refitOnEnd && simulation.alpha() < 0.3) { refitOnEnd = false; fit(true); }
+      if (refitPending && simulation.alpha() < 0.3) { refitPending = false; fit(true); }
     })
     .stop();
 
-  function wordWidth(e) {
-    const ko = [...e.ko].length * 14;
-    const ja = [...e.kanji].length * 13;
-    return Math.max(ko, ja) + 22;
+  function wordNodeWidth(w) {
+    const sub = w.lang === "ko" ? w.rom : (w.kana !== w.text ? w.kana : w.rom);
+    const subW = /[぀-ヿ]/.test(sub) ? cjkLen(sub) * 11 : sub.length * 6.2;
+    return Math.max(cjkLen(w.label) * 15, subW) + 20;
   }
 
-  function buildGraphData() {
-    const words = visibleWords();
-    const charCounts = new Map();
-    for (const e of words) for (const k of new Set(e.chars)) charCounts.set(k, (charCounts.get(k) || 0) + 1);
-
+  function buildGraph() {
+    const vis = visibleLinks();
     const next = [];
-    const nextLinks = [];
-    const getNode = (id, make) => {
+    const seen = new Set();
+    const nextArrows = [];
+    const nextChar = [];
+    const get = (id, make) => {
       if (!nodeCache.has(id)) nodeCache.set(id, make());
       const n = nodeCache.get(id);
-      next.push(n);
+      if (!seen.has(id)) { seen.add(id); next.push(n); }
       return n;
     };
-
-    for (const [k, count] of charCounts) {
-      if (state.sharedOnly && count < 2) continue;
-      const n = getNode("c:" + k, () => ({ id: "c:" + k, type: "char", char: charByKey.get(k) }));
-      n.deg = count;
-      n.r = 13 + 5 * Math.sqrt(count - 1);
+    for (const l of vis) {
+      const k = get("k:" + l.ko.key, () => ({ id: "k:" + l.ko.key, type: "ko", word: l.ko, w: wordNodeWidth(l.ko), h: NODE_H }));
+      const j = get("j:" + l.ja.key, () => ({ id: "j:" + l.ja.key, type: "ja", word: l.ja, w: wordNodeWidth(l.ja), h: NODE_H }));
+      nextArrows.push({ id: "a" + l.id, source: k.id, target: j.id, link: l });
     }
-    const charIds = new Set(next.map((n) => n.id));
-    for (const e of words) {
-      const n = getNode("w:" + e.id, () => ({ id: "w:" + e.id, type: "word", entry: e, w: wordWidth(e) }));
-      n.r = n.w / 2;
-      for (const k of new Set(e.chars)) {
-        if (charIds.has("c:" + k)) nextLinks.push({ source: n.id, target: "c:" + k });
+    if (state.showChars) {
+      const use = new Map(); // character → visible links using it
+      for (const l of vis) {
+        const cs = l.entry ? uniq(l.entry.chars) : l.sharedChar ? [l.sharedChar] : [];
+        for (const c of cs) use.set(c, [...(use.get(c) || []), l]);
+      }
+      for (const [c, ls] of use) {
+        if (ls.length < 2) continue; // only characters shared by two or more pairs
+        const n = get("c:" + c, () => ({ id: "c:" + c, type: "char", char: chars.get(c) }));
+        n.deg = ls.length;
+        n.r = 12 + 4.5 * Math.sqrt(ls.length - 1);
+        const ends = new Set();
+        for (const l of ls) { ends.add("k:" + l.ko.key); ends.add("j:" + l.ja.key); }
+        for (const e of ends) nextChar.push({ id: `${n.id}-${e}`, source: n.id, target: e, char: true });
       }
     }
-
     adjacency = new Map(next.map((n) => [n.id, new Set()]));
-    for (const l of nextLinks) {
-      adjacency.get(l.source).add(l.target);
-      adjacency.get(l.target).add(l.source);
+    for (const e of [...nextArrows, ...nextChar]) {
+      adjacency.get(e.source).add(e.target);
+      adjacency.get(e.target).add(e.source);
     }
-    return { next, nextLinks };
+    return { next, nextArrows, nextChar };
   }
 
   function updateGraph({ refit = false, initial = false } = {}) {
-    const { next, nextLinks } = buildGraphData();
-    nodes = next;
-    links = nextLinks;
+    const { next, nextArrows, nextChar } = buildGraph();
+    nodes = next; arrows = nextArrows; charEdges = nextChar;
 
-    linkLayer.selectAll("line").data(links, (d) => `${d.source.id || d.source}-${d.target.id || d.target}`)
-      .join("line").attr("class", "link");
+    charLinkLayer.selectAll("line").data(charEdges, (d) => d.id).join("line").attr("class", "clink");
+    arrowLayer.selectAll("path").data(arrows, (d) => d.id).join("path")
+      .attr("class", (d) => `arrow kind-${d.link.kind}`)
+      .attr("stroke", (d) => KINDS[d.link.kind].color)
+      .attr("stroke-dasharray", (d) => d.link.kind === "false" ? "5 4" : null)
+      .each(function (d) {
+        this.removeAttribute("marker-start");
+        this.removeAttribute("marker-end");
+        for (const [, attr, val] of markers(d.link).matchAll(/(marker-\w+)="([^"]+)"/g)) this.setAttribute(attr, val);
+      });
 
     const sel = nodeLayer.selectAll("g.node").data(nodes, (d) => d.id).join((enter) => {
       const g = enter.append("g")
-        .attr("class", (d) => `node ${d.type}-node${d.entry?.falseFriend ? " ff" : ""}`)
-        .attr("tabindex", 0)
-        .attr("role", "button")
-        .attr("aria-label", (d) => d.type === "word"
-          ? `${d.entry.ko} ${d.entry.kanji}: ${meaningOf(d.entry)}`
-          : `Character ${d.char.key}`);
-      g.filter((d) => d.type === "word").each(function (d) { drawWord(d3.select(this), d.entry, d.w); });
+        .attr("class", (d) => `node ${d.type}-node`)
+        .attr("tabindex", 0).attr("role", "button")
+        .attr("aria-label", (d) => d.type === "char" ? `Character ${d.char.key}` : d.word.label);
+      g.filter((d) => d.type !== "char").each(function (d) { drawWord(d3.select(this), d); });
       g.filter((d) => d.type === "char").each(function (d) { drawChar(d3.select(this), d.char); });
       g.call(drag)
         .on("click", (ev, d) => { ev.stopPropagation(); select(toRef(d)); })
         .on("keydown", (ev, d) => { if (ev.key === "Enter" || ev.key === " ") { ev.preventDefault(); select(toRef(d)); } })
-        .on("mouseenter", (ev, d) => { state.hover = toRef(d); applyHighlight(); showTooltip(ev, d); })
+        .on("mouseenter", (ev, d) => { state.hover = toRef(d); applyGraphHighlight(); showTooltip(ev, d); })
         .on("mousemove", (ev, d) => showTooltip(ev, d))
-        .on("mouseleave", () => { state.hover = null; applyHighlight(); hideTooltip(); });
+        .on("mouseleave", () => { state.hover = null; applyGraphHighlight(); hideTooltip(); });
       return g;
     });
-
-    // Character size depends on how many visible words use it.
     sel.filter((d) => d.type === "char").each(function (d) {
       const g = d3.select(this);
       g.select("circle").attr("r", d.r);
       g.select(".glyph").attr("font-size", d.r * 1.1);
-      g.select(".variant").attr("x", d.r * 0.78).attr("y", -d.r * 0.72);
+      g.select(".variant").attr("x", d.r * 0.8).attr("y", -d.r * 0.72);
     });
 
     emptyMsg.style("display", nodes.length ? "none" : null);
-    const { width, height } = svg.node().getBoundingClientRect();
-    emptyMsg.attr("x", width / 2).attr("y", height / 2);
-
     simulation.nodes(nodes);
-    simulation.force("link").links(links);
+    simulation.force("link").links([...arrows, ...charEdges]);
 
     if (initial) {
       simulation.alpha(1);
-      for (let i = 0; i < 320; i++) simulation.tick();
+      for (let i = 0; i < 300; i++) simulation.tick();
       ticked();
-      fit(false);
       simulation.alpha(0);
+      needsFit = true;
+      if (state.view === "network") fit(false);
     } else {
-      // Seed new nodes near a neighbour so they don't fly in from the origin.
       for (const n of nodes) {
         if (n.x === undefined) {
           const nb = [...adjacency.get(n.id)].map((id) => nodeCache.get(id)).find((m) => m.x !== undefined);
-          n.x = (nb?.x ?? 0) + (Math.random() - 0.5) * 40;
-          n.y = (nb?.y ?? 0) + (Math.random() - 0.5) * 40;
+          n.x = (nb?.x ?? 0) + (Math.random() - 0.5) * 50;
+          n.y = (nb?.y ?? 0) + (Math.random() - 0.5) * 50;
         }
       }
-      refitOnEnd = refit;
-      simulation.alpha(0.7).restart();
+      if (state.view === "network") {
+        refitPending = refit;
+        simulation.alpha(0.7).restart();
+      } else {
+        simulation.alpha(0.7);
+        for (let i = 0; i < 200; i++) simulation.tick();
+        simulation.alpha(0);
+        ticked();
+        needsFit = true;
+      }
     }
-    applyHighlight();
+    applyGraphHighlight();
   }
 
-  function drawWord(g, e, w) {
-    const color = catColor(e.category);
+  function drawWord(g, d) {
+    const w = d.word;
     g.append("rect").attr("class", "box")
-      .attr("x", -w / 2).attr("y", -WORD_H / 2).attr("width", w).attr("height", WORD_H).attr("rx", 8)
-      .attr("stroke", color);
-    g.append("rect").attr("class", "tint")
-      .attr("x", -w / 2).attr("y", -WORD_H / 2).attr("width", w).attr("height", WORD_H).attr("rx", 8)
-      .attr("fill", color).attr("fill-opacity", 0.13).attr("pointer-events", "none");
-    g.append("text").attr("class", "ko-t").attr("lang", "ko").attr("y", -4).text(e.ko);
-    g.append("text").attr("class", "ja-t").attr("lang", "ja").attr("y", 13).text(e.kanji);
-    g.append("text").attr("class", "en-t").attr("y", WORD_H / 2 + 12)
-      .text(e.falseFriend ? "false friend" : truncate(e.en.split(",")[0], 22));
+      .attr("x", -d.w / 2).attr("y", -d.h / 2).attr("width", d.w).attr("height", d.h).attr("rx", 9);
+    g.append("text").attr("class", "main").attr("lang", w.lang).attr("y", -3).text(w.label);
+    g.append("text").attr("class", "sub").attr("lang", w.lang).attr("y", 12)
+      .text(w.lang === "ko" ? w.rom : (w.kana !== w.text ? w.kana : w.rom));
   }
 
   function drawChar(g, c) {
@@ -272,14 +479,29 @@
     if (c.hanja !== c.key) g.append("text").attr("class", "variant").attr("lang", "ko").text(c.hanja);
   }
 
-  const truncate = (s, n) => (s.length > n ? s.slice(0, n - 1) + "…" : s);
-  const toRef = (d) => d.type === "word" ? { type: "word", id: d.entry.id } : { type: "char", id: d.char.key };
-  const nodeId = (ref) => ref && (ref.type === "word" ? "w:" + ref.id : "c:" + ref.id);
+  const toRef = (d) => d.type === "char" ? { type: "char", id: d.char.key } : refOfWord(d.word);
+
+  // Point where the segment from `from` toward `to` meets the edge of `to`.
+  function edgePoint(from, to) {
+    const dx = from.x - to.x, dy = from.y - to.y;
+    if (to.type === "char") {
+      const len = Math.hypot(dx, dy) || 1;
+      return [to.x + (dx / len) * (to.r + 3), to.y + (dy / len) * (to.r + 3)];
+    }
+    const hw = to.w / 2 + 3, hh = to.h / 2 + 3;
+    const t = Math.min(hw / Math.abs(dx || 1e-6), hh / Math.abs(dy || 1e-6));
+    return t >= 1 ? [to.x, to.y] : [to.x + dx * t, to.y + dy * t];
+  }
 
   function ticked() {
-    linkLayer.selectAll("line")
+    charLinkLayer.selectAll("line")
       .attr("x1", (d) => d.source.x).attr("y1", (d) => d.source.y)
       .attr("x2", (d) => d.target.x).attr("y2", (d) => d.target.y);
+    arrowLayer.selectAll("path").attr("d", (d) => {
+      const [x1, y1] = edgePoint(d.target, d.source);
+      const [x2, y2] = edgePoint(d.source, d.target);
+      return `M${x1},${y1}L${x2},${y2}`;
+    });
     nodeLayer.selectAll("g.node").attr("transform", (d) => `translate(${d.x},${d.y})`);
   }
 
@@ -296,84 +518,73 @@
       d.fx = null; d.fy = null;
     });
 
-  function bounds(list) {
-    let x0 = Infinity, y0 = Infinity, x1 = -Infinity, y1 = -Infinity;
-    for (const n of list) {
-      const rx = n.type === "word" ? n.w / 2 : n.r;
-      const ry = n.type === "word" ? WORD_H / 2 + 14 : n.r;
-      x0 = Math.min(x0, n.x - rx); x1 = Math.max(x1, n.x + rx);
-      y0 = Math.min(y0, n.y - ry); y1 = Math.max(y1, n.y + ry);
-    }
-    return { x0, y0, x1, y1 };
-  }
-
   function fit(animate = true) {
     if (!nodes.length) return;
     const { width, height } = svg.node().getBoundingClientRect();
-    if (!width || !height) { pendingFit = true; return; }
-    pendingFit = false;
-    const b = bounds(nodes);
+    if (!width || !height) { needsFit = true; return; }
+    needsFit = false;
+    emptyMsg.attr("x", width / 2).attr("y", height / 2);
+    let x0 = Infinity, y0 = Infinity, x1 = -Infinity, y1 = -Infinity;
+    for (const n of nodes) {
+      const rx = n.type === "char" ? n.r : n.w / 2, ry = n.type === "char" ? n.r : n.h / 2;
+      x0 = Math.min(x0, n.x - rx); x1 = Math.max(x1, n.x + rx);
+      y0 = Math.min(y0, n.y - ry); y1 = Math.max(y1, n.y + ry);
+    }
     const pad = 30;
-    const k = Math.min(2, Math.min((width - pad * 2) / (b.x1 - b.x0), (height - pad * 2) / (b.y1 - b.y0)));
-    const t = d3.zoomIdentity
-      .translate(width / 2, height / 2)
-      .scale(k)
-      .translate(-(b.x0 + b.x1) / 2, -(b.y0 + b.y1) / 2);
+    const k = Math.min(2, (width - pad * 2) / (x1 - x0), (height - pad * 2) / (y1 - y0));
+    const t = d3.zoomIdentity.translate(width / 2, height / 2).scale(k).translate(-(x0 + x1) / 2, -(y0 + y1) / 2);
     (animate ? svg.transition().duration(600) : svg).call(zoom.transform, t);
   }
 
   function focusNode(id) {
     const n = nodeCache.get(id);
-    if (!n || !nodes.includes(n) || state.view !== "map") return;
+    if (!n || !nodes.includes(n) || state.view !== "network") return;
     const { width, height } = svg.node().getBoundingClientRect();
     const mobile = window.matchMedia("(max-width: 760px)").matches;
     const k = Math.max(d3.zoomTransform(svg.node()).k, 1.1);
-    const cy = mobile ? height * 0.22 : height / 2;
-    svg.transition().duration(550)
-      .call(zoom.transform, d3.zoomIdentity.translate(width / 2, cy).scale(k).translate(-n.x, -n.y));
+    svg.transition().duration(550).call(zoom.transform,
+      d3.zoomIdentity.translate(width / 2, mobile ? height * 0.22 : height / 2).scale(k).translate(-n.x, -n.y));
   }
 
   $("#zoom-in").addEventListener("click", () => svg.transition().duration(250).call(zoom.scaleBy, 1.35));
   $("#zoom-out").addEventListener("click", () => svg.transition().duration(250).call(zoom.scaleBy, 1 / 1.35));
   $("#zoom-reset").addEventListener("click", () => fit(true));
 
-  // Highlight: hover beats selection, selection beats search matches.
-  function applyHighlight() {
-    const strong = new Set();
-    const context = new Set();
-    const hiLinks = new Set();
-    const focus = state.hover || state.selected;
-    const focusId = nodeId(focus);
+  function graphMatches(n) {
+    const q = fold(state.query);
+    if (!q) return false;
+    if (n.type === "char") return q === n.char.key || q === n.char.hanja;
+    return searchText(n.word).includes(q);
+  }
 
-    if (focus && adjacency.has(focusId)) {
-      strong.add(focusId);
-      for (const nb of adjacency.get(focusId)) {
-        strong.add(nb);
-        hiLinks.add(focusId + "|" + nb);
-      }
-      for (const id of strong) {
-        context.add(id);
-        for (const nb2 of adjacency.get(id)) context.add(nb2);
-      }
+  // Hover beats selection, selection beats search matches.
+  function applyGraphHighlight() {
+    const focus = state.hover || state.selected;
+    const fid = nodeId(focus);
+    const strong = new Set(), context = new Set();
+    if (focus && adjacency.has(fid)) {
+      strong.add(fid);
+      for (const nb of adjacency.get(fid)) strong.add(nb);
+      for (const id of strong) { context.add(id); for (const nb of adjacency.get(id)) context.add(nb); }
     } else if (state.query) {
-      for (const n of nodes) {
-        if (matchesQuery(n)) {
-          strong.add(n.id);
-          context.add(n.id);
-          for (const nb of adjacency.get(n.id)) context.add(nb);
-        }
+      for (const n of nodes) if (graphMatches(n)) {
+        strong.add(n.id); context.add(n.id);
+        for (const nb of adjacency.get(n.id)) context.add(nb);
       }
     }
-
     const active = context.size > 0;
+    const touches = (d) => !!fid && (d.source.id === fid || d.target.id === fid);
+    const inStrong = (d) => strong.has(d.source.id) && strong.has(d.target.id);
     nodeLayer.selectAll("g.node")
       .classed("dim", (d) => active && !context.has(d.id))
       .classed("selected", (d) => d.id === nodeId(state.selected))
       .classed("match", (d) => !focus && !!state.query && strong.has(d.id));
-    linkLayer.selectAll("line")
-      .classed("hi", (d) => hiLinks.has(d.source.id + "|" + d.target.id) || hiLinks.has(d.target.id + "|" + d.source.id))
-      .classed("dim", (d) => active && !(context.has(d.source.id) && context.has(d.target.id) &&
-        (strong.has(d.source.id) || strong.has(d.target.id))));
+    arrowLayer.selectAll("path")
+      .classed("hi", touches)
+      .classed("dim", (d) => active && !touches(d) && !inStrong(d));
+    charLinkLayer.selectAll("line")
+      .classed("hi", touches)
+      .classed("dim", (d) => active && !touches(d) && !inStrong(d));
   }
 
   // ── Tooltip ───────────────────────────────────────────────────────
@@ -381,23 +592,25 @@
   function showTooltip(ev, d) {
     if (ev.buttons) return;
     let html;
-    if (d.type === "word") {
-      const e = d.entry;
-      html = `<div class="tt-title"><span lang="ko">${esc(e.ko)}</span> · <span lang="ja">${esc(e.kanji)}</span></div>
-              <div class="tt-sub">${esc(e.koRom)} · ${esc(e.jaRom)}</div>
-              <div>${esc(meaningOf(e))}</div>`;
-    } else {
+    if (d.type === "char") {
       const c = d.char;
       html = `<div class="tt-title"><span lang="ja">${esc(c.key)}</span>${c.hanja !== c.key ? ` <span lang="ko">(${esc(c.hanja)})</span>` : ""}</div>
-              <div><span lang="ko">${c.koList.map(esc).join(", ")}</span> · <span lang="ja">${c.jaList.map(esc).join(", ")}</span></div>
-              <div class="tt-sub">in ${d.deg} word${d.deg === 1 ? "" : "s"} shown</div>`;
+        ${c.koList.length ? `<div><span lang="ko">${c.koList.map(esc).join(", ")}</span> · <span lang="ja">${c.jaList.map(esc).join(", ")}</span></div>` : ""}
+        <div class="tt-sub">shared by ${d.deg} word pairs shown</div>`;
+    } else {
+      const w = d.word;
+      html = `<div class="tt-title"><span lang="${w.lang}">${esc(w.label)}</span> <span class="tt-sub">${esc(w.lang === "ja" && w.kana !== w.text ? w.kana + " · " : "")}${esc(w.rom)}</span></div>
+        <div class="tt-sub">${esc(ORIGINS[w.lang][w.origin] || "")}</div>
+        ${w.links.map((l) => {
+          const o = w.lang === "ko" ? l.ja : l.ko;
+          return `<div>${l.kind === "false" ? "≠" : w.lang === "ko" ? "→" : "←"} <span lang="${o.lang}">${esc(o.label)}</span> <span class="tt-sub">${esc(l.kind === "false" ? "false friend" : l.en)}</span></div>`;
+        }).join("")}`;
     }
     tooltip.innerHTML = html;
     tooltip.hidden = false;
     const [x, y] = d3.pointer(ev, stageEl);
     const { width } = stageEl.getBoundingClientRect();
-    const tw = tooltip.offsetWidth;
-    tooltip.style.left = Math.min(x + 14, width - tw - 8) + "px";
+    tooltip.style.left = Math.min(x + 14, width - tooltip.offsetWidth - 8) + "px";
     tooltip.style.top = y + 14 + "px";
   }
   const hideTooltip = () => { tooltip.hidden = true; };
@@ -405,21 +618,28 @@
   // ── Selection & detail panel ──────────────────────────────────────
   function select(ref, { focus = true } = {}) {
     state.selected = ref;
-    if (ref?.type === "word") ensureVisible(wordById.get(ref.id));
-    applyHighlight();
+    if (ref) ensureVisible(ref);
+    applyGraphHighlight();
+    applyMappingHighlight();
     renderDetail();
     renderList();
     updateHash();
-    if (ref && focus) setTimeout(() => focusNode(nodeId(ref)), 30);
+    if (ref && focus) {
+      setTimeout(() => {
+        if (state.view === "network") focusNode(nodeId(ref));
+        if (state.view === "mapping") scrollMappingTo(ref);
+      }, 40);
+    }
   }
 
-  // If a word hidden by the filters is selected, relax the filters to show it.
-  function ensureVisible(e) {
-    if (!e || isWordVisible(e)) return;
-    state.cats.add(e.category);
-    if (state.falseOnly && !e.falseFriend) {
-      state.falseOnly = false;
-      $("#opt-false-friends").checked = false;
+  // Relax the filters if the selected word is currently hidden.
+  function ensureVisible(ref) {
+    const w = wordOf(ref);
+    if (!w || w.links.some(linkVisible)) return;
+    for (const l of w.links) { state.cats.add(l.band.category); state.kinds.add(l.kind); }
+    if (state.onlyBroken && !w.links.some(isBroken)) {
+      state.onlyBroken = false;
+      $("#opt-broken").checked = false;
     }
     refresh({ keepDetail: true });
   }
@@ -432,15 +652,97 @@
     const ref = state.selected;
     if (!ref) { detail.hidden = true; return; }
     detail.hidden = false;
-    detailBody.innerHTML = ref.type === "word" ? wordDetail(wordById.get(ref.id)) : charDetail(charByKey.get(ref.id));
+    detailBody.innerHTML = ref.type === "char" ? charDetail(chars.get(ref.id)) : wordDetail(wordOf(ref));
     detail.scrollTop = 0;
   }
 
-  function wordDetail(e) {
-    const cat = CATEGORIES[e.category];
+  const wordChip = (w) =>
+    `<button class="wchip ${w.lang}" data-ref="${w.lang}:${esc(w.key)}"><span lang="${w.lang}">${esc(w.label)}</span></button>`;
+
+  function wordDetail(w) {
+    const isKo = w.lang === "ko";
+    const otherSide = (l) => isKo ? l.ja : l.ko;
+    const trLinks = w.links.filter((l) => l.kind !== "false");
+    const ffLinks = w.links.filter((l) => l.kind === "false");
+    const comp = w.tr;
+    const m = comp ? mapping(comp) : null;
+
+    const tags = [`<span class="tag lang-${w.lang}">${isKo ? "Korean" : "Japanese"}</span>`,
+      `<span class="tag">${esc(ORIGINS[w.lang][w.origin] || "")}</span>`];
+    if (m) tags.push(`<span class="tag map-${m.cls}">${esc(m.short)} ${esc(m.long)}</span>`);
+    if (ffLinks.length) tags.push(`<span class="tag ff">⚠ Has a false friend</span>`);
+
+    const hero = `<div class="d-lang hero ${w.lang}">
+        <div class="big" lang="${w.lang}">${esc(w.label)}</div>
+        ${!isKo && w.kana !== w.text ? `<div class="kana" lang="ja">${esc(w.kana)}</div>` : ""}
+        <div class="rom">${esc(w.rom)}</div>
+        ${isKo && w.hanja ? `<div class="hanja-line">Hanja: <span lang="ko">${esc(w.hanja)}</span></div>` : ""}
+        ${speakBtn(sayText(w), sayLang(w))}
+      </div>`;
+
+    const arrowFor = (l) => l.tr.type === "1:1" ? "↔" : (isKo === (state.dir === "ko2ja") ? "→" : "←");
+    const rows = trLinks.map((l) => {
+      const o = otherSide(l);
+      return `<div class="tr-row" style="--kc:${KINDS[l.kind].color}">
+          <button class="tr-word" data-ref="${o.lang}:${esc(o.key)}">
+            <span class="tr-arrow">${arrowFor(l)}</span>
+            <span class="tr-main" lang="${o.lang}">${esc(o.label)}</span>
+            <span class="tr-read" lang="${o.lang}">${esc(o.lang === "ja" && o.kana !== o.text ? o.kana + " · " : "")}${esc(o.rom)}</span>
+          </button>
+          ${speakBtn(sayText(o), sayLang(o))}
+          <div class="tr-meta"><span class="tr-gloss">${esc(l.en)}</span><span class="tr-kind">${esc(KINDS[l.kind].label)}</span></div>
+        </div>`;
+    }).join("");
+
+    // Explain splits and merges in words.
+    let explain = "";
+    if (comp && comp.type !== "1:1") {
+      const mine = trLinks.map(otherSide);
+      const bits = [];
+      const lw = (x) => `<span lang="${x.lang}">${esc(x.label)}</span>`;
+      if (mine.length > 1) {
+        bits.push(`${isKo ? "Japanese" : "Korean"} uses ${mine.length} words where ${isKo ? "Korean" : "Japanese"} uses just ${lw(w)}: ` +
+          trLinks.map((l) => `${lw(otherSide(l))} (${esc(l.en)})`).join(", ") + ".");
+      }
+      for (const o of mine) {
+        const sharers = o.links.filter((l) => l.kind !== "false" && (isKo ? l.ko : l.ja) !== w);
+        if (sharers.length) {
+          bits.push(`${lw(o)} also translates ` +
+            sharers.map((l) => `${lw(isKo ? l.ko : l.ja)} (${esc(l.en)})`).join(", ") + ".");
+        }
+      }
+      explain = `<div class="d-explain map-${m.cls}"><strong>${esc(m.short)}</strong> ${bits.join(" ")}</div>`;
+    }
+
+    const ff = ffLinks.map((l) => `<div class="ff-box">
+        <div class="ff-head">Looks like ${wordChip(otherSide(l))}, but means something else</div>
+        <div><span class="who">In Korean</span><span>${esc(l.falseFriend.ko)}</span></div>
+        <div><span class="who">In Japanese</span><span>${esc(l.falseFriend.ja)}</span></div>
+      </div>`).join("");
+
+    const aligns = w.links.filter((l) => l.entry).map((l) => alignment(l.entry)).join("");
+    const notes = uniq(w.links.map((l) => l.note).filter(Boolean)).map((n) => `<div class="d-note">${esc(n)}</div>`).join("");
+
+    // Other words in the same language sharing a character.
+    const myChars = new Set(w.links.flatMap((l) => l.entry ? l.entry.chars : l.sharedChar ? [l.sharedChar] : []));
+    const related = uniq([...myChars].flatMap((c) => chars.get(c)?.links || []).map((l) => isKo ? l.ko : l.ja))
+      .filter((o) => o !== w).slice(0, 30);
+
+    return `
+      <div class="d-tags">${tags.join("")}</div>
+      ${hero}
+      ${trLinks.length ? `<div class="d-section">${isKo ? "In Japanese" : "In Korean"}</div><div class="tr-list">${rows}</div>` : ""}
+      ${explain}
+      ${ff}
+      ${aligns ? `<div class="d-section">Character by character</div>${aligns}` : ""}
+      ${notes}
+      ${related.length ? `<div class="d-section">${isKo ? "Korean" : "Japanese"} words sharing a character</div><div class="related">${related.map(wordChip).join("")}</div>` : ""}`;
+  }
+
+  function alignment(e) {
     const anyDiff = e.hanja !== e.kanji;
     const cols = e.chars.map((k, i) => `
-      <button class="align-col" data-char="${esc(k)}" title="See every word with ${esc(k)}">
+      <button class="align-col" data-ref="char:${esc(k)}" title="Every word with ${esc(k)}">
         <span class="a-ko" lang="ko">${esc(e.koChars[i])}</span>
         ${anyDiff ? `<span class="a-h ${e.hanjaChars[i] !== k ? "diff" : ""}" lang="ko">${esc(e.hanjaChars[i])}</span>` : ""}
         <span class="a-k" lang="ja">${esc(k)}</span>
@@ -450,144 +752,100 @@
         <span class="h17">Korean</span>
         ${anyDiff ? `<span class="h24">Hanja</span><span class="h24">Kanji</span>` : `<span class="h24">Character</span>`}
         <span class="h14">Japanese</span></div>`;
-
-    const related = relatedWords(e);
-    const meaning = e.falseFriend
-      ? `<div class="ff-box">
-           <div><span class="who">In Korean</span><span>${esc(e.falseFriend.ko)}</span></div>
-           <div><span class="who">In Japanese</span><span>${esc(e.falseFriend.ja)}</span></div>
-         </div>`
-      : `<p class="d-meaning">${esc(e.en)}</p>`;
-
-    return `
-      <div class="d-tags">
-        <span class="tag"><span class="dot" style="background:${cat.color}"></span>${esc(cat.label)}</span>
-        ${e.falseFriend ? `<span class="tag ff">⚠ False friend</span>` : ""}
-      </div>
-      <div class="d-pair">
-        <div class="d-lang">
-          <div class="lbl">Korean</div>
-          <div class="big ko" lang="ko">${esc(e.ko)}</div>
-          <div class="rom">${esc(e.koRom)}</div>
-          ${speakBtn(e.ko, "ko-KR")}
-        </div>
-        <div class="d-lang">
-          <div class="lbl">Japanese</div>
-          <div class="big ja" lang="ja">${esc(e.kanji)}</div>
-          <div class="kana" lang="ja">${esc(e.ja)}</div>
-          <div class="rom">${esc(e.jaRom)}</div>
-          ${speakBtn(e.ja, "ja-JP")}
-        </div>
-      </div>
-      ${meaning}
-      <div class="d-section">Character by character</div>
-      <div class="align">${legend}${cols}</div>
-      ${e.note ? `<div class="d-note">${esc(e.note)}</div>` : ""}
-      ${related.length ? `<div class="d-section">Words sharing a character (${related.length})</div>
-        <div class="related">${related.map((r) => relatedBtn(r, new Set(e.chars))).join("")}</div>` : ""}`;
+    return `<div class="align">${legend}${cols}</div>`;
   }
 
-  function relatedWords(e) {
-    const mine = new Set(e.chars);
-    return WORDS.filter((o) => o !== e && o.chars.some((k) => mine.has(k)))
-      .map((o) => ({ o, n: o.chars.filter((k) => mine.has(k)).length }))
-      .sort((a, b) => b.n - a.n || a.o.ko.localeCompare(b.o.ko, "ko"))
-      .map((x) => x.o);
-  }
-
-  function relatedBtn(o, markChars) {
-    const ko = o.koChars.map((s, i) => markChars.has(o.chars[i]) ? `<mark>${esc(s)}</mark>` : esc(s)).join("");
-    const ja = o.chars.map((k) => markChars.has(k) ? `<mark>${esc(k)}</mark>` : esc(k)).join("");
-    return `<button data-word="${esc(o.id)}" title="${esc(meaningOf(o))}">
-      <span class="r-ko" lang="ko">${ko}</span><span class="r-ja" lang="ja">${ja}</span></button>`;
+  // Highlight the parts of a word that come from character c.
+  function mark(w, c) {
+    const l = c.links.find((x) => x.ko === w || x.ja === w);
+    const e = l?.entry;
+    if (!e) return esc(w.label);
+    if (w.lang === "ko") return e.koChars.map((s, i) => e.chars[i] === c.key ? `<mark>${esc(s)}</mark>` : esc(s)).join("");
+    return e.chars.map((k) => k === c.key ? `<mark>${esc(k)}</mark>` : esc(k)).join("");
   }
 
   function charDetail(c) {
     const diff = c.hanja !== c.key;
+    const pairChip = (l) => `<button class="pchip" data-ref="ko:${esc(l.ko.key)}">
+        <span lang="ko">${mark(l.ko, c)}</span><span class="pa">${l.kind === "false" ? "≠" : "→"}</span><span lang="ja">${mark(l.ja, c)}</span></button>`;
     return `
       <div class="d-tags"><span class="tag">Character</span></div>
       <div class="char-hero">
         <div class="glyph" lang="ja">${esc(c.key)}</div>
         <div class="variant-note">${diff
-          ? `Korean uses the traditional form <span class="h" lang="ko">${esc(c.hanja)}</span>; Japanese uses the simplified form ${esc(c.key)}.`
-          : `Written the same way in Korean and Japanese.`}
-          <br>Appears in ${c.words.length} word${c.words.length === 1 ? "" : "s"} on this map.</div>
+          ? `Korean uses the traditional form <span class="h" lang="ko">${esc(c.hanja)}</span>; Japanese uses the simplified ${esc(c.key)}.`
+          : "Written the same way in Korean and Japanese."}</div>
       </div>
-      <div class="d-section">Readings in these words</div>
+      ${c.koList.length ? `<div class="d-section">Sino readings</div>
       <div class="readings">
-        <div class="d-lang"><div class="lbl">Korean</div>
-          <div class="big ko" lang="ko">${c.koList.map(esc).join(" · ")}</div>
-          ${speakBtn(c.koList[0], "ko-KR")}</div>
-        <div class="d-lang"><div class="lbl">Japanese</div>
-          <div class="big ja" lang="ja">${c.jaList.map(esc).join(" · ")}</div>
-          ${speakBtn(c.jaList[0], "ja-JP")}</div>
-      </div>
-      ${c.jaList.length > 1 || c.koList.length > 1 ? `<div class="d-note">Readings shift inside words: Japanese doubles consonants (がく → がっこう) and voices them (こく → ちゅうごく); Korean drops initial ㄹ/ㄴ at the start of a word (력 → 역사).</div>` : ""}
-      <div class="d-section">Words with ${esc(c.key)}</div>
-      <div class="related">${c.words.map((o) => relatedBtn(o, new Set([c.key]))).join("")}</div>`;
+        <div class="d-lang"><div class="lbl">Korean</div><div class="big" lang="ko">${c.koList.map(esc).join(" · ")}</div>${speakBtn(c.koList[0], "ko-KR")}</div>
+        <div class="d-lang"><div class="lbl">Japanese</div><div class="big" lang="ja">${c.jaList.map(esc).join(" · ")}</div>${speakBtn(c.jaList[0], "ja-JP")}</div>
+      </div>` : ""}
+      ${c.entries.length ? `<div class="d-section">Word pairs with ${esc(c.key)}</div><div class="related">${c.entries.map((e) => pairChip(e.link)).join("")}</div>` : ""}
+      ${c.alone.length ? `<div class="d-section">Same character, different reading</div><div class="related">${c.alone.map(pairChip).join("")}</div>
+        <div class="d-note">Here Japanese reads ${esc(c.key)} with a native word (${c.alone.map((l) => esc(l.ja.kana)).join(", ")}) while Korean keeps the Sino reading (${c.alone.map((l) => esc(l.ko.text)).join(", ")}).</div>` : ""}`;
   }
 
   detailBody.addEventListener("click", (ev) => {
     const say = ev.target.closest("[data-say]");
     if (say) return speak(say.dataset.say, say.dataset.lang);
-    const ch = ev.target.closest("[data-char]");
-    if (ch) return select({ type: "char", id: ch.dataset.char });
-    const wd = ev.target.closest("[data-word]");
-    if (wd) return select({ type: "word", id: wd.dataset.word });
+    const r = ev.target.closest("[data-ref]");
+    if (r) {
+      const i = r.dataset.ref.indexOf(":");
+      select({ type: r.dataset.ref.slice(0, i), id: r.dataset.ref.slice(i + 1) });
+    }
   });
 
   // ── Search ────────────────────────────────────────────────────────
+  const searchCache = new Map();
+  function searchText(w) {
+    if (!searchCache.has(w)) {
+      searchCache.set(w, fold([w.text, w.rom, w.kana, w.hanja,
+        ...w.links.map((l) => l.en), ...w.links.map((l) => l.falseFriend?.ko), ...w.links.map((l) => l.falseFriend?.ja)]
+        .filter(Boolean).join(" | ")));
+    }
+    return searchCache.get(w);
+  }
+
   const searchInput = $("#search");
   const resultsEl = $("#search-results");
   let results = [];
   let activeResult = 0;
 
-  function matchesQuery(n) {
-    const q = fold(state.query);
-    if (!q) return false;
-    if (n.type === "word") return n.entry.search.includes(q);
-    const c = n.char;
-    return q === c.key || q === c.hanja || c.koList.includes(q) || c.jaList.includes(q);
-  }
-
   function computeResults(q) {
     const f = fold(q);
     if (!f) return [];
     const out = [];
-    for (const c of charByKey.values()) {
-      if (c.koList.includes(q) || c.jaList.includes(q)) out.push({ type: "char", id: c.key, score: 0 });
+    for (const w of [...koWords.values(), ...jaWords.values()]) {
+      const st = searchText(w);
+      if (!st.includes(f)) continue;
+      const exact = [w.text, w.rom, w.kana, w.hanja].filter(Boolean).map(fold).includes(f) ? 0 : 1;
+      const starts = st.split(/[\s|,;()]+/).some((t) => t.startsWith(f)) ? 0 : 1;
+      out.push({ type: w.lang, id: w.key, score: exact * 2 + starts });
     }
-    for (const ch of [...q]) {
-      const c = charByKey.get(ch) || [...charByKey.values()].find((x) => x.hanja === ch);
-      if (c && !out.some((r) => r.type === "char" && r.id === c.key)) out.push({ type: "char", id: c.key, score: 0 });
+    for (const ch of uniq([...q])) {
+      const c = chars.get(ch) || [...chars.values()].find((x) => x.hanja === ch);
+      if (c) out.push({ type: "char", id: c.key, score: 1.5 });
     }
-    for (const e of WORDS) {
-      if (!e.search.includes(f)) continue;
-      const exact = [e.ko, e.kanji, e.hanja, e.ja, e.koRom, e.jaRom].map(fold).includes(f) || fold(e.en) === f;
-      const starts = e.search.split(/[\s,]+/).some((t) => t.startsWith(f));
-      out.push({ type: "word", id: e.id, score: exact ? 1 : starts ? 2 : 3 });
-    }
-    return out.sort((a, b) => a.score - b.score).slice(0, 12);
+    return out.sort((a, b) => a.score - b.score).slice(0, 14);
   }
 
   function renderResults() {
     if (!state.query) { resultsEl.hidden = true; return; }
     resultsEl.hidden = false;
-    if (!results.length) {
-      resultsEl.innerHTML = `<li class="empty">No matches</li>`;
-      return;
-    }
+    if (!results.length) { resultsEl.innerHTML = `<li class="empty">No matches</li>`; return; }
     resultsEl.innerHTML = results.map((r, i) => {
       if (r.type === "char") {
-        const c = charByKey.get(r.id);
+        const c = chars.get(r.id);
         return `<li role="option" data-i="${i}" aria-selected="${i === activeResult}">
-          <span class="sr-main" lang="ja">${esc(c.key)}${c.hanja !== c.key ? ` <span lang="ko">${esc(c.hanja)}</span>` : ""}</span>
-          <span class="sr-sub">character · ${c.words.length} words</span></li>`;
+          <span class="sr-lang char">字</span><span class="sr-main" lang="ja">${esc(c.key)}</span><span class="sr-sub">character · ${c.links.length} pairs</span></li>`;
       }
-      const e = wordById.get(r.id);
+      const w = wordOf(r);
+      const targets = uniq(w.links.map((l) => (w.lang === "ko" ? l.ja : l.ko).label));
       return `<li role="option" data-i="${i}" aria-selected="${i === activeResult}">
-        <span class="sr-main"><span lang="ko">${esc(e.ko)}</span> · <span lang="ja">${esc(e.kanji)}</span></span>
-        <span class="sr-sub">${esc(truncate(meaningOf(e), 40))}</span></li>`;
+        <span class="sr-lang ${w.lang}">${w.lang === "ko" ? "KO" : "JA"}</span>
+        <span class="sr-main" lang="${w.lang}">${esc(w.label)}</span>
+        <span class="sr-sub">${w.lang === "ko" ? "→" : "←"} <span lang="${w.lang === "ko" ? "ja" : "ko"}">${esc(targets.join(", "))}</span> · ${esc(truncate(w.links[0].en || "false friend", 26))}</span></li>`;
     }).join("");
   }
 
@@ -596,7 +854,8 @@
     if (!r) return;
     resultsEl.hidden = true;
     searchInput.blur();
-    if (state.view === "sounds") setView("map");
+    if (r.type === "char" && state.view !== "network") setView("network");
+    else if (state.view === "sounds") setView("mapping");
     select({ type: r.type, id: r.id });
   }
 
@@ -605,7 +864,7 @@
     results = computeResults(state.query);
     activeResult = 0;
     renderResults();
-    applyHighlight();
+    applyGraphHighlight();
     renderList();
   });
   searchInput.addEventListener("keydown", (ev) => {
@@ -629,10 +888,11 @@
     if (li) { ev.preventDefault(); pickResult(+li.dataset.i); }
   });
   document.addEventListener("keydown", (ev) => {
-    if (ev.key === "/" && document.activeElement !== searchInput && !$("#about").open) {
+    const typing = ["INPUT", "TEXTAREA"].includes(document.activeElement?.tagName);
+    if (ev.key === "/" && !typing && !$("#about").open) {
       ev.preventDefault();
       searchInput.focus();
-    } else if (ev.key === "Escape" && document.activeElement !== searchInput && state.selected && !$("#about").open) {
+    } else if (ev.key === "Escape" && !typing && state.selected && !$("#about").open) {
       select(null);
     }
   });
@@ -641,28 +901,32 @@
   function renderList() {
     if (state.view !== "list") return;
     const q = fold(state.query);
-    const words = visibleWords().filter((e) => !q || e.search.includes(q));
-    if (!words.length) {
-      $("#word-list").innerHTML = `<p class="empty-state">No words match.</p>`;
-      return;
-    }
-    const sel = state.selected?.type === "word" ? state.selected.id : null;
+    const vis = visibleLinks().filter((l) => !q || searchText(l.ko).includes(q) || searchText(l.ja).includes(q));
+    if (!vis.length) { $("#word-list").innerHTML = `<p class="empty-state">No words match.</p>`; return; }
+    const selId = nodeId(state.selected);
     $("#word-list").innerHTML = Object.entries(CATEGORIES).map(([key, cat]) => {
-      const group = words.filter((e) => e.category === key);
+      const group = vis.filter((l) => l.band.category === key);
       if (!group.length) return "";
       return `<section class="list-group">
         <h3><span class="dot" style="background:${cat.color}"></span>${esc(cat.label)}</h3>
-        <div class="cards">${group.map((e) => `
-          <button class="card${e.falseFriend ? " ff" : ""}${e.id === sel ? " selected" : ""}" data-word="${esc(e.id)}" style="--cat:${cat.color}">
-            <span class="c-ko" lang="ko">${esc(e.ko)}</span>
-            <span class="c-ja" lang="ja">${esc(e.kanji)}<small>${esc(e.ja)}</small></span>
-            ${e.falseFriend ? `<span class="ff-tag">False friend</span>` : `<span class="c-en">${esc(e.en)}</span>`}
-          </button>`).join("")}</div></section>`;
+        <div class="cards">${group.map((l) => {
+          const m = l.kind === "false" ? null : mapping(l.tr);
+          const sel = selId === "k:" + l.ko.key || selId === "j:" + l.ja.key;
+          const arrow = l.kind === "false" ? "≠" : m.cls === "ok" ? "↔" : state.dir === "ko2ja" ? "→" : "←";
+          return `<button class="card${sel ? " selected" : ""}" data-ref="ko:${esc(l.ko.key)}" style="--kc:${KINDS[l.kind].color}">
+            <span class="c-pair"><span class="c-ko" lang="ko">${esc(l.ko.label)}</span>
+              <span class="c-arrow">${arrow}</span>
+              <span class="c-ja" lang="ja">${esc(l.ja.label)}</span></span>
+            <span class="c-read">${esc(l.ko.rom)} · ${l.ja.kana !== l.ja.text ? `<span lang="ja">${esc(l.ja.kana)}</span> ` : ""}${esc(l.ja.rom)}</span>
+            <span class="c-en">${esc(l.kind === "false" ? `KO: ${l.falseFriend.ko} · JA: ${l.falseFriend.ja}` : l.en)}</span>
+            <span class="c-tags"><span class="c-kind">${esc(KINDS[l.kind].label)}</span>${m && m.cls !== "ok" ? `<span class="c-map map-${m.cls}">${esc(m.short)}</span>` : ""}</span>
+          </button>`;
+        }).join("")}</div></section>`;
     }).join("");
   }
   $("#word-list").addEventListener("click", (ev) => {
-    const card = ev.target.closest("[data-word]");
-    if (card) select({ type: "word", id: card.dataset.word }, { focus: false });
+    const card = ev.target.closest("[data-ref]");
+    if (card) select({ type: "ko", id: card.dataset.ref.slice(3) }, { focus: false });
   });
 
   // ── Sound patterns view ───────────────────────────────────────────
@@ -671,8 +935,7 @@
       rule: "Open syllables usually match one Japanese syllable or a long vowel: 家 가 → か, 午 오 → ご, 数 수 → すう." },
     { idx: 1, jamo: "ㄱ", title: "Final -k",
       rule: "→ く (ku) or き (ki), and often っ before another consonant: 学 학 → がく / がっ, 食 식 → しょく." },
-    { idx: 4, jamo: "ㄴ", title: "Final -n",
-      rule: "→ ん (n): 文 문 → ぶん, 電 전 → でん." },
+    { idx: 4, jamo: "ㄴ", title: "Final -n", rule: "→ ん (n): 文 문 → ぶん, 電 전 → でん." },
     { idx: 8, jamo: "ㄹ", title: "Final -l",
       rule: "Middle Chinese -t became Korean ㄹ and Japanese つ (tsu) or ち (chi): 結 결 → けつ, 日 일 → にち, 物 물 → ぶつ." },
     { idx: 16, jamo: "ㅁ", title: "Final -m",
@@ -688,23 +951,19 @@
   };
 
   function renderSounds() {
-    const visible = new Set(visibleWords());
-    const chars = [...charByKey.values()].filter((c) => c.words.some((e) => visible.has(e)));
+    const vis = new Set(visibleLinks());
+    const list = [...chars.values()].filter((c) => c.koList.length && c.entries.some((e) => vis.has(e.link)));
     const groups = FINALS.map((f) => ({ ...f, chars: [] }));
     const other = { jamo: "…", title: "Other", rule: "", chars: [] };
-    for (const c of chars) {
-      const g = groups.find((x) => x.idx === finalIndex(c.koList[0])) || other;
-      g.chars.push(c);
-    }
+    for (const c of list) (groups.find((g) => g.idx === finalIndex(c.koList[0])) || other).chars.push(c);
     if (other.chars.length) groups.push(other);
-    for (const g of groups) g.chars.sort((a, b) => b.words.length - a.words.length);
-
+    for (const g of groups) g.chars.sort((a, b) => b.entries.length - a.entries.length);
     $("#sound-groups").innerHTML = groups.filter((g) => g.chars.length).map((g) => `
       <article class="sound-card">
         <h3><span class="jamo" lang="ko">${g.jamo}</span>${esc(g.title)} <small class="count">(${g.chars.length})</small></h3>
         <p class="rule">${esc(g.rule)}</p>
         <div class="sound-chips">${g.chars.map((c) => `
-          <button class="sound-chip" data-char="${esc(c.key)}" title="${c.words.length} word(s)">
+          <button class="sound-chip" data-char="${esc(c.key)}" title="${c.entries.length} word pair(s)">
             <span class="k" lang="ja">${esc(c.key)}</span>
             <span class="r-ko" lang="ko">${c.koList.map(esc).join("·")}</span>
             <span class="r-ja" lang="ja">${c.jaList.map(esc).join("·")}</span>
@@ -714,7 +973,7 @@
   $("#sound-groups").addEventListener("click", (ev) => {
     const chip = ev.target.closest("[data-char]");
     if (!chip) return;
-    setView("map");
+    setView("network");
     select({ type: "char", id: chip.dataset.char });
   });
 
@@ -723,40 +982,42 @@
     state.view = view;
     document.querySelectorAll(".tab").forEach((t) => t.setAttribute("aria-selected", t.dataset.view === view));
     document.querySelectorAll(".view").forEach((v) => v.classList.toggle("active", v.id === "view-" + view));
+    if (view === "mapping") renderMapping();
     if (view === "list") renderList();
     if (view === "sounds") renderSounds();
-    if (view === "map" && pendingFit) requestAnimationFrame(() => fit(false));
+    if (view === "network") requestAnimationFrame(() => {
+      if (needsFit) fit(false);
+      if (state.selected) focusNode(nodeId(state.selected));
+    });
+    if (view === "mapping" && state.selected) requestAnimationFrame(() => scrollMappingTo(state.selected));
   }
   document.querySelectorAll(".tab").forEach((t) => t.addEventListener("click", () => setView(t.dataset.view)));
 
   function updateHash() {
-    const ref = state.selected;
-    const url = ref
-      ? `#${ref.type === "word" ? "w" : "c"}=${encodeURIComponent(ref.id)}`
-      : location.pathname + location.search;
-    history.replaceState(null, "", url);
+    const r = state.selected;
+    history.replaceState(null, "", r ? `#${r.type}=${encodeURIComponent(r.id)}` : location.pathname + location.search);
   }
   function readHash() {
-    const m = location.hash.match(/^#([wc])=(.+)$/);
+    const m = location.hash.match(/^#(ko|ja|char)=(.+)$/);
     if (!m) return null;
-    const id = decodeURIComponent(m[2]);
-    if (m[1] === "w" && wordById.has(id)) return { type: "word", id };
-    if (m[1] === "c" && charByKey.has(id)) return { type: "char", id };
-    return null;
+    const ref = { type: m[1], id: decodeURIComponent(m[2]) };
+    return (ref.type === "char" ? chars.has(ref.id) : wordOf(ref)) ? ref : null;
   }
 
   function renderStats() {
-    const words = visibleWords();
-    const chars = new Set(words.flatMap((e) => e.chars));
-    const ff = words.filter((e) => e.falseFriend).length;
-    $("#stats").innerHTML = `Showing <strong>${words.length}</strong> of ${WORDS.length} word pairs,
-      <strong>${chars.size}</strong> characters, and <strong>${ff}</strong> false friends.`;
+    const vis = visibleLinks();
+    const ko = new Set(vis.map((l) => l.ko)), ja = new Set(vis.map((l) => l.ja));
+    const comps = new Set(vis.filter((l) => l.kind !== "false").map((l) => l.tr));
+    const broken = [...comps].filter((c) => c.type !== "1:1").length;
+    $("#stats").innerHTML = `Showing <strong>${ko.size}</strong> Korean and <strong>${ja.size}</strong> Japanese words
+      with <strong>${vis.length}</strong> connections. <strong>${broken}</strong> of ${comps.size} mappings are not one-to-one.`;
   }
 
   function refresh({ refit = false, keepDetail = false } = {}) {
     renderChips();
     renderStats();
     updateGraph({ refit });
+    renderMapping();
     renderList();
     if (state.view === "sounds") renderSounds();
     if (!keepDetail) renderDetail();
@@ -765,16 +1026,22 @@
   $("#about-btn").addEventListener("click", () => $("#about").showModal());
   $("#about").addEventListener("click", (ev) => { if (ev.target === ev.currentTarget) ev.currentTarget.close(); });
 
-  let resizeTimer;
+  let resizeTimer, lastWidth = 0;
   window.addEventListener("resize", () => {
     clearTimeout(resizeTimer);
-    resizeTimer = setTimeout(() => fit(false), 150);
+    resizeTimer = setTimeout(() => { if (state.view === "network") fit(false); else needsFit = true; }, 150);
   });
+  new ResizeObserver(() => {
+    const w = mappingHost.clientWidth;
+    if (state.view === "mapping" && Math.abs(w - lastWidth) > 20) { lastWidth = w; renderMapping(); }
+  }).observe(mappingHost);
 
   // ── Boot ──────────────────────────────────────────────────────────
   renderChips();
   renderStats();
   updateGraph({ initial: true });
+  lastWidth = mappingHost.clientWidth;
+  renderMapping();
   const fromHash = readHash();
   if (fromHash) select(fromHash);
   window.addEventListener("hashchange", () => { const r = readHash(); if (r) select(r); });

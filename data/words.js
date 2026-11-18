@@ -2,7 +2,9 @@
  * Korean ↔ Japanese word data.
  *
  * Each entry is a word that exists in both languages, written with the same
- * Chinese characters (Sino-Korean 한자어 / Sino-Japanese 漢語).
+ * Chinese characters (Sino-Korean 한자어 / Sino-Japanese 漢語). Translations
+ * between different words (native words, loanwords...) live in
+ * data/translations.js.
  *
  *   w(hanja, kanji, korean, koreanRomanization,
  *     japaneseKanaPerCharacter, japaneseRomanization,
@@ -41,6 +43,8 @@
     feelings:  { label: "Feelings & ideas", color: "#d37295" },
     culture:   { label: "Culture & arts", color: "#86bcb6" },
     language:  { label: "Language", color: "#8cd17d" },
+    animals:   { label: "Animals", color: "#499894" },
+    actions:   { label: "Actions & descriptions", color: "#79706e" },
   };
 
   const WORDS = [
@@ -63,10 +67,7 @@
       { note: "歷 is normally 력 in Korean; it becomes 역 at the start of a word (the initial-sound rule, 두음법칙)." }),
     w("工夫", "工夫", "공부", "gongbu", "く ふう", "kufū", "", "education",
       { falseFriend: { ko: "study, studying", ja: "devising, ingenuity, a clever idea" },
-        note: "A classic false friend. The everyday Japanese word for 'study' is 勉強 (benkyō)." }),
-    w("勉強", "勉強", "면강", "myeongang", "べん きょう", "benkyō", "", "education",
-      { falseFriend: { ko: "doing something reluctantly (rare)", ja: "study, studying" },
-        note: "The mirror image of 工夫. In Japanese shops 勉強 can also mean giving a discount." }),
+        note: "A classic false friend. The Japanese word for 'study' is 勉強 (benkyō), which in Japanese shops can also mean giving a discount." }),
 
     // ── People & family ─────────────────────────────────────────
     w("人間", "人間", "인간", "ingan", "にん げん", "ningen", "human being", "people"),
@@ -172,6 +173,8 @@
     w("地下鐵", "地下鉄", "지하철", "jihacheol", "ち か てつ", "chikatetsu", "subway, metro", "transport"),
 
     // ── Daily life ──────────────────────────────────────────────
+    w("門", "門", "문", "mun", "もん", "mon", "gate", "daily",
+      { note: "Korean 문 also means 'door'. Japanese uses ドア for a door and keeps 門 for gates." }),
     w("電話", "電話", "전화", "jeonhwa", "でん わ", "denwa", "telephone", "daily"),
     w("約束", "約束", "약속", "yaksok", "やく そく", "yakusoku", "promise, appointment", "daily"),
     w("準備", "準備", "준비", "junbi", "じゅん び", "junbi", "preparation", "daily",
@@ -227,5 +230,5 @@
   ];
 
   const root = typeof window !== "undefined" ? window : globalThis;
-  root.LANGUAGE_MAP_DATA = { WORDS, CATEGORIES };
+  root.LANGUAGE_MAP_DATA = Object.assign(root.LANGUAGE_MAP_DATA || {}, { WORDS, CATEGORIES });
 })();
